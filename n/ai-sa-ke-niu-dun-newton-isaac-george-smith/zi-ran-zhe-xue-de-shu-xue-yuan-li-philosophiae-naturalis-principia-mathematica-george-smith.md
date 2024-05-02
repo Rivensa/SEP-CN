@@ -1,10 +1,9 @@
 # 自然哲学的数学原理 Philosophiae Naturalis Principia Mathematica (George Smith)
 
-_首次发表于2007年12月20日_
+*首次发表于2007年12月20日*
 
 没有任何科学作品比牛顿的《自然哲学的数学原理》更引起哲学家们的关注。然而，关注的原因以及关注的焦点在不同世纪间发生了显著变化。在 20 世纪，哲学家们将《自然哲学的数学原理》视为爱因斯坦的广义相对论中引力理论的背景下。主要问题涉及牛顿和爱因斯坦的引力理论之间的关系，以及用后者取代前者对科学知识的性质、范围和限制的影响。相比之下，在 18 世纪的大部分时间里，牛顿的引力理论仍然存在争议，特别是因为缺乏产生引力力的机制，尤其是接触机制。相应地，哲学文献努力澄清和解决争议，无论是支持还是反对将《自然哲学的数学原理》视为方法论上有根据的。到了 18 世纪 90 年代，牛顿的引力理论在轨道力学和物理大地测量学研究中得到了确认，使《自然哲学的数学原理》成为科学最成功的典范。因此，19 世纪哲学界对《自然哲学的数学原理》的兴趣主要集中在牛顿是如何取得这一成功的，部分是为了描述已经取得的知识，部分是为了在其他研究领域追求类似的知识。不幸的是，这三个世纪的哲学文献中有很大一部分都对《自然哲学的数学原理》本身有一个非常简单化的观点。本文的主要目标是用更充分地反映《自然哲学的数学原理》内容和方法论丰富性的观点取代这种简单化的观点。
 
- 
 ***
 
 ## 1. 概述：这项工作的重要性
@@ -205,7 +204,7 @@ _首次发表于2007年12月20日_
 
 从艾萨克·牛顿的观点来看，基本问题是假设有三个独立的机制对总阻力力量做出贡献，其中只有一个与流体密度ρ\*\*f 成正比。他需要找到一个实验现象，使他能够确定以下模式中的三个指数(1)和定义三个系数的法则(或者至少是球体特定情况下最后一项系数的变化)：
 
-> _Fresist_ = _a0vn0_ + _a1vn1_ + _b2_​_**ρ**_​_fvn2_
+> *Fresist* = *a0vn0* + *a1vn1* + *b2_​***ρ***​_fvn2*
 
 一些初步的摆钟衰减实验显示出希望，使他在第一版中仅依赖于这一现象。其想法是从不同的高度开始摆动钟摆，以涵盖一系列速度，然后使用同时代数方程将二或三项多项式拟合到两个或三个失弧数据点上，通过改变指数使多项式与其他失弧数据点达到良好的一致性。然后，在第 6 节中，钟摆在阻力力作用下的理论解将使他能够从钟摆的衰减速率推断出力量。这些理论解涵盖了阻力力量不仅随速度的 0、1 和 2 次幂变化，而且随速度的任意幂变化。因此，从原理上讲，他认为自己能够从钟摆衰减现象中推断出球体上的阻力力量的法则，这与他从第 3 册的轨道运动现象中推导出普遍引力定律的方式完全相同。然后，他可以根据行星和尤其是彗星上没有任何阻力力量的迹象来推断出天体区域中任何流体的密度必须是准确或非常接近于零。
 
@@ -223,7 +222,7 @@ _首次发表于2007年12月20日_
 
 牛顿的前两条推理规则出现在第一版中（标为假设\[41]），第三条规则在第二版中添加，第四条规则在第三版中添加。这些规则旨在统治自然哲学中的证据推理，类似于演绎推理的规则，但它们并不能从真前提中保证得出真结论。特别是，规则 2 授权从相同的效果推断相同的原因，这是一个臭名昭著的无效推理，规则 3 授权归纳概括到所有能进行实验的物体上的那些物体的特性。牛顿的措辞并没有暗示这些规则能产生真理，甚至高概率的真理。例如，规则 3 和规则 4 中的操作性短语应该被正确翻译为“应该被采纳”，规则 4 明确表明了授权推理的临时性质：
 
-> _在实验哲学中，通过归纳从现象中得出的命题应该被认为是准确或非常接近真实的，尽管存在相反的假设，直到其他现象使这些命题变得更加准确或容易出现例外。_
+> *在实验哲学中，通过归纳从现象中得出的命题应该被认为是准确或非常接近真实的，尽管存在相反的假设，直到其他现象使这些命题变得更加准确或容易出现例外。*
 
 牛顿的规则为何恰当的哲学问题，最好的回答方式不是问它们如何增加真理的可能性，而是问在当前的研究中是否存在某种策略，这些规则既能促进进一步的发现，又能防止走进死胡同，最终需要抛弃所有所谓的发现。
 
@@ -311,46 +310,46 @@ _首次发表于2007年12月20日_
 
 ### Primary Sources
 
-* Newton, Isaac, _Philosophiae Naturalis Principia Mathematica_ (“_Mathematical Principles of Natural Philosophy_”), London, 1687; Cambridge, 1713; London, 1726. (Pirated versions of the 1713 edition were also published in Amsterdam in 1714 and 1723.)
-* –––, _The Mathematical Principles of Natural Philosophy_, tr. Andrew Motte, to which is added “The Laws of the Moon's Motion, according to Gravity,” by John Machin, London 1729. (The Motte translation of the 1726 edition, without Machin's addendum, has been reissued as _The Principia_, Amherst, NY: Prometheus, 1995.)
-* –––, _Philosophiae Naturalis Principia Mathematica_, 1726 edition with commentary by Thomae Le Seur and Francisci Jacquier, S.J., Geneva, 1739-1742.
-* –––, _Principes Mathématiques de la Philosophie Naturelle_, tr. Madame la Marquise du Chastellet, with commentary by Alexis-Claude Clairaut and the translator, Paris, 1759.
-* –––, _Sir Isaac Newton's Mathematical Principles of Natural Philosophy and his System of the World,_ tr. Andew Motte, revised Florian Cajori, Berkeley: University of California Press, 1934. (Includes “System of the World,” the original draft version of Book 3.)
-* –––, **\[V]** _Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings_, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972.
-* –––, **\[P]** _The Principia: Mathematical Principles of Natural Philosophy: A New Translation_, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's _Principia_” by I. B. Cohen, Berkeley: University of California Press, 1999.
-* –––, _The Preliminary Manuscripts for Isaac Newton's 1687 Principia, 1684-1686_, Cambridge: Cambridge University Press, 1989.
-* –––, **\[M]** _The Mathematical Papers of Isaac Newton_, ed. D. T. Whiteside, vol. 6, 1684-1691, Cambridge: Cambridge University Press, 1974. (Includes detailed commentary on much of the mathematics of the _Principia_.)
-* –––, **\[U]** _Unpublished Scientific Papers of Isaac Newton_, ed. A. R. Hall and M. B. Hall, Cambridge: Cambridge University Press, 1962. (Contains several manuscripts associated with the _Principia_.)
-* –––, **\[C]** _The Correspondence of Isaac Newton_, ed. H. W. Turnbull, J. F. Scott, A. R. Hall, and L. Tilling, 7 vols., Cambridge: Cambridge University Press, 1959-1984.
-* –––, _Philosophical Writings_, ed. A. Janiak, Cambridge: Cambridge University Press, 2004.
-* Descartes, René, **\[D]** _Principles of Philosophy_, tr. V. R. Miller and R. P. Miller, Dordrecht: Reidel, 1983. (Citations are to Part and Article, not to page.)
-* Huygens, Christiaan, **\[OH]** _Oeuvres Complètes de Christiaan Huygens_, 22 vols., The Hague: Martinus Nijhoff, 1888-1950.
-* –––, **\[HO]** _The Pendulum Clock or Geometrical Demonstrations Concerning the Motion of Pendula as Applied to Clocks_, tr. Rcihard J. Blackwell, Ames: Iowa State University. (Translation of _Horologium Oscillatorium_, Paris,1673, **\[OH]**, vol. 18.
-* –––, **\[HD]** _Discours de la Cause de la Pesanteur,_ Leiden, 1690; **\[OH]**, vol. 21; reprinted in _Traité de la lumiére_ (with which it originally appeared), Paris: Dunod: 1992. (Translations by Karen Bailey, citations to 1690 page numbers.)
-* Leibniz, G. W., **\[L]** “Tentamen de Motuum Coelestium Causis,” _Acta Eruditorum_, 1689; translation in Bertoloni Meli 1993. (Citations are to page numbers in the translation.)
+* Newton, Isaac, *Philosophiae Naturalis Principia Mathematica* (“*Mathematical Principles of Natural Philosophy*”), London, 1687; Cambridge, 1713; London, 1726. (Pirated versions of the 1713 edition were also published in Amsterdam in 1714 and 1723.)
+* –––, *The Mathematical Principles of Natural Philosophy*, tr. Andrew Motte, to which is added “The Laws of the Moon's Motion, according to Gravity,” by John Machin, London 1729. (The Motte translation of the 1726 edition, without Machin's addendum, has been reissued as *The Principia*, Amherst, NY: Prometheus, 1995.)
+* –––, *Philosophiae Naturalis Principia Mathematica*, 1726 edition with commentary by Thomae Le Seur and Francisci Jacquier, S.J., Geneva, 1739-1742.
+* –––, *Principes Mathématiques de la Philosophie Naturelle*, tr. Madame la Marquise du Chastellet, with commentary by Alexis-Claude Clairaut and the translator, Paris, 1759.
+* –––, *Sir Isaac Newton's Mathematical Principles of Natural Philosophy and his System of the World,* tr. Andew Motte, revised Florian Cajori, Berkeley: University of California Press, 1934. (Includes “System of the World,” the original draft version of Book 3.)
+* –––, **\[V]** *Isaac Newton's Philosophiae Naturalis Principia Mathematica, the Third Edition with Variant Readings*, ed. A. Koyré and I. B. Cohen, 2 vols., Cambridge: Harvard University Press and Cambridge: Cambridge University Press, 1972.
+* –––, **\[P]** *The Principia: Mathematical Principles of Natural Philosophy: A New Translation*, tr. I. B. Cohen and Anne Whitman, preceded by “A Guide to Newton's *Principia*” by I. B. Cohen, Berkeley: University of California Press, 1999.
+* –––, *The Preliminary Manuscripts for Isaac Newton's 1687 Principia, 1684-1686*, Cambridge: Cambridge University Press, 1989.
+* –––, **\[M]** *The Mathematical Papers of Isaac Newton*, ed. D. T. Whiteside, vol. 6, 1684-1691, Cambridge: Cambridge University Press, 1974. (Includes detailed commentary on much of the mathematics of the *Principia*.)
+* –––, **\[U]** *Unpublished Scientific Papers of Isaac Newton*, ed. A. R. Hall and M. B. Hall, Cambridge: Cambridge University Press, 1962. (Contains several manuscripts associated with the *Principia*.)
+* –––, **\[C]** *The Correspondence of Isaac Newton*, ed. H. W. Turnbull, J. F. Scott, A. R. Hall, and L. Tilling, 7 vols., Cambridge: Cambridge University Press, 1959-1984.
+* –––, *Philosophical Writings*, ed. A. Janiak, Cambridge: Cambridge University Press, 2004.
+* Descartes, René, **\[D]** *Principles of Philosophy*, tr. V. R. Miller and R. P. Miller, Dordrecht: Reidel, 1983. (Citations are to Part and Article, not to page.)
+* Huygens, Christiaan, **\[OH]** *Oeuvres Complètes de Christiaan Huygens*, 22 vols., The Hague: Martinus Nijhoff, 1888-1950.
+* –––, **\[HO]** *The Pendulum Clock or Geometrical Demonstrations Concerning the Motion of Pendula as Applied to Clocks*, tr. Rcihard J. Blackwell, Ames: Iowa State University. (Translation of *Horologium Oscillatorium*, Paris,1673, **\[OH]**, vol. 18.
+* –––, **\[HD]** *Discours de la Cause de la Pesanteur,* Leiden, 1690; **\[OH]**, vol. 21; reprinted in *Traité de la lumiére* (with which it originally appeared), Paris: Dunod: 1992. (Translations by Karen Bailey, citations to 1690 page numbers.)
+* Leibniz, G. W., **\[L]** “Tentamen de Motuum Coelestium Causis,” *Acta Eruditorum*, 1689; translation in Bertoloni Meli 1993. (Citations are to page numbers in the translation.)
 
 ### Secondary Sources
 
-* Aiton, E. J., 1972, _The Vortex Theory of Planetary Motions_, London: Macdonald.
-* Ball, W. W. R., 1893, _An Essay on Newton's_ Principia, London: Macmillan; reprinted 1972, New York: Johnson Reprint Corporation
-* Bertoloni Meli, D., 1993, _Equivalence and Priority: Newton versus Leibniz_, Oxford: Oxford University Press.
-* Buchwald, J. Z. and Cohen, I. B. (ed.), 2001, _Isaac Newton's Natural Philosophy_, Cambridge: MIT Press.
-* Cohen, I. B., 1971, _Introduction to Newton's ‘Principia’_, Cambridge: Harvard University Press.
-* –––, 1980, _The Newtonian Revolution_, Cambridge: Cambridge University Press.
-* Cohen, I. B. and Smith, G. E. (ed.), 2002, _The Cambridge Companion to Newton_, Cambridge: Cambridge University Press.
-* Disalle, 2006, _Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein_, Cambridge: Cambridge University Press.
-* Guicciardini, Niccolò, 1999, _Reading the_ Principia\*: The Debate on Newton's Mathematical Methods for Natural Philosophy from 1687 to 1736\*, Cambridge: Cambridge University Press.
-* Herivel, J., 1965, _The Background to Newton's_ Principia\*: A Study of Newton's Dynamical Researches in the Years 1664-84\*, Oxford: Oxford University Press.
-* Palter, R. (ed.), 1970, _The Annus Mirabilis of Sir Isaac Newton_, Cambridge: MIT Press.
-* Smith, G. E., 2002, “From the Phenomenon of the Ellipse to an Inverse-Square Force: Why Not?”, in _Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics to Honor Howard Stein on his 70th Birthday_, ed. D. B. Malament, La Salle: Open Court, pp. 31-70..
-* –––, 2005, “Was Wrong Newton Bad Newton?”, in _Wrong for the Right Reasons_, eds. J. Z. Buchwald and A. Franklin, Berlin: Springer, pp. 127-160.
+* Aiton, E. J., 1972, *The Vortex Theory of Planetary Motions*, London: Macdonald.
+* Ball, W. W. R., 1893, *An Essay on Newton's* Principia, London: Macmillan; reprinted 1972, New York: Johnson Reprint Corporation
+* Bertoloni Meli, D., 1993, *Equivalence and Priority: Newton versus Leibniz*, Oxford: Oxford University Press.
+* Buchwald, J. Z. and Cohen, I. B. (ed.), 2001, *Isaac Newton's Natural Philosophy*, Cambridge: MIT Press.
+* Cohen, I. B., 1971, *Introduction to Newton's ‘Principia’*, Cambridge: Harvard University Press.
+* –––, 1980, *The Newtonian Revolution*, Cambridge: Cambridge University Press.
+* Cohen, I. B. and Smith, G. E. (ed.), 2002, *The Cambridge Companion to Newton*, Cambridge: Cambridge University Press.
+* Disalle, 2006, *Understanding Space-Time: The Philosophical Development of Physics from Newton to Einstein*, Cambridge: Cambridge University Press.
+* Guicciardini, Niccolò, 1999, *Reading the* Principia\*: The Debate on Newton's Mathematical Methods for Natural Philosophy from 1687 to 1736\*, Cambridge: Cambridge University Press.
+* Herivel, J., 1965, *The Background to Newton's* Principia\*: A Study of Newton's Dynamical Researches in the Years 1664-84\*, Oxford: Oxford University Press.
+* Palter, R. (ed.), 1970, *The Annus Mirabilis of Sir Isaac Newton*, Cambridge: MIT Press.
+* Smith, G. E., 2002, “From the Phenomenon of the Ellipse to an Inverse-Square Force: Why Not?”, in *Reading Natural Philosophy: Essays in the History and Philosophy of Science and Mathematics to Honor Howard Stein on his 70th Birthday*, ed. D. B. Malament, La Salle: Open Court, pp. 31-70..
+* –––, 2005, “Was Wrong Newton Bad Newton?”, in *Wrong for the Right Reasons*, eds. J. Z. Buchwald and A. Franklin, Berlin: Springer, pp. 127-160.
 * Stein, H., 1967, “Newtonian Space-Time,” in Palter 1970, pp. 258-284.
-* –––, 1990, “From the Phenomena of Motions to the Forces of Nature: Hypothesis or Deduction?”, _PSA 1990_, Proceedings of the 1990 Biennial Meeting of the Philosophy of Science Association, vol. 2, East Lansing, MI: Philosophy of Science Association, pp. 209-222.
-* Taton, R. and Wilson, C. (ed), 1989, _Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A: Tycho Brahe to Newton_, Cambridge: Cambridge University Press
-* –––, 1995, _Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part B: The Eighteenth and Nineteenth Centuries,_ Cambridge: Cambridge University Press.
-* Westfall, R. S., 1971, _Force in Newton's Physics: The Science of Dynamics in the Seventeenth Century_, London: Macdonald.
-* –––, 1980, _Never at Rest: A Biography of Isaac Newton_, Cambridge: Cambridge University Press.
-* Yoder, J. G., 1988, _Unrolling Time: Christiaan Huygens and the Mathematization of Nature_, Cambridge: Cambridge University Press.
+* –––, 1990, “From the Phenomena of Motions to the Forces of Nature: Hypothesis or Deduction?”, *PSA 1990*, Proceedings of the 1990 Biennial Meeting of the Philosophy of Science Association, vol. 2, East Lansing, MI: Philosophy of Science Association, pp. 209-222.
+* Taton, R. and Wilson, C. (ed), 1989, *Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A: Tycho Brahe to Newton*, Cambridge: Cambridge University Press
+* –––, 1995, *Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part B: The Eighteenth and Nineteenth Centuries,* Cambridge: Cambridge University Press.
+* Westfall, R. S., 1971, *Force in Newton's Physics: The Science of Dynamics in the Seventeenth Century*, London: Macdonald.
+* –––, 1980, *Never at Rest: A Biography of Isaac Newton*, Cambridge: Cambridge University Press.
+* Yoder, J. G., 1988, *Unrolling Time: Christiaan Huygens and the Mathematization of Nature*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -371,4 +370,4 @@ _首次发表于2007年12月20日_
 [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Duhem, Pierre](https://plato.stanford.edu/entries/duhem/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Mach, Ernst](https://plato.stanford.edu/entries/ernst-mach/) | [Newton, Isaac](https://plato.stanford.edu/entries/newton/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/) | [scientific revolutions](https://plato.stanford.edu/entries/scientific-revolutions/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
 
 [Copyright © 2007](https://plato.stanford.edu/info.html#c) by\
-[George Smith](https://as.tufts.edu/philosophy/people/faculty/george-smith) <[_george.smith@tufts.edu_](mailto:george%2esmith%40tufts%2eedu)>
+[George Smith](https://as.tufts.edu/philosophy/people/faculty/george-smith) <[*george.smith@tufts.edu*](mailto:george%2esmith%40tufts%2eedu)>

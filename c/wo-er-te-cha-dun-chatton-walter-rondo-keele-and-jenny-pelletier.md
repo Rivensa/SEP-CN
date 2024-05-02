@@ -1,11 +1,10 @@
 # 沃尔特·查顿 Chatton, Walter (Rondo Keele and Jenny Pelletier)
 
-_首次发表于 2006 年 6 月 20 日星期二；实质性修订于 2023 年 5 月 18 日星期四_
+*首次发表于 2006 年 6 月 20 日星期二；实质性修订于 2023 年 5 月 18 日星期四*
 
 沃尔特·查顿（Walter Chatton）或更少见的“卡顿”（约 1290 年至 1343 年）是一位英国神学家和哲学家，他在牛津接受过训练，与他著名的同事兼经常成为哲学攻击目标的威廉·奥卡姆（William of Ockham）大致同时。查顿更倾向于推理形而上学，对理性不太怀疑，与奥卡姆相比，他是早在 14 世纪初在英格兰兴起的名数论派别最有活力和才华横溢的批评者之一。作为一位建设性哲学家，查顿并非系统建构者，而是约翰·邓斯·斯科特（John Duns Scotus）更系统哲学的某些部分的捍卫者，以及认知的透视主义解释的倡导者。从历史角度看，他是一个有趣的人物，因为他将斯科特主义的现实主义倾向与奥卡姆在逻辑和语言方面的欣赏结合在一起；因此，我们经常发现查顿捍卫斯科特主义命题，并使用奥卡姆本人推广的语义观念来批评奥卡姆。他对奥卡姆的坚决攻击在智力和其他方面都给他带来了成果：我们有证据表明，奥卡姆在几个重要问题上改变了自己的看法，这直接是由于查顿的批评。此外，他似乎建立了一个非常成功的教会事业，毫无疑问部分基于他的聪明才智；他曾担任两位教皇的顾问，并为自己赢得了一个主教职位，但他没有活到享受这一荣誉。他作为一位神学家的声望在他有生之年足够高，以至于他关于圣礼有效性的观点在他去世两百年后的特伦执教会议上被记住并被引用。
 
 尽管奥卡姆专家长期以来已经意识到他的重要性，但他的作品的完整批判版本直到最近才变得可用，并且对他的观点、影响和思想生活的详细学术分析还处于萌芽阶段。因此，本文不会总结他的立场，如“形而上学”、“认识论”等广泛的现代标题，而是将对他对今天在哲学上仍然具有价值的几个较窄问题的贡献进行阐述和分析。
-
 
 ***
 
@@ -17,7 +16,7 @@ Chatton 的生活和事业可以分为四个阶段。\[[1](https://plato.stanfor
 
 **神学学士早期学习（1315 年至 1321 年）** 。在这段时期，查顿完成了他的早期教育，并被派往牛津南部学习神学。在那里，他与同时在牛津讲学的奥卡姆接触到了，尽管奥卡姆的职业阶段稍微更高。查顿很早就开始并且非常公开地反对奥卡姆，这种反对持续了他在牛津的整个职业生涯（即直到 20 世纪 30 年代初）。
 
-**高级学士学习和教学（1321 年至 1332 年）** 。对于这一时期，我们拥有最少量的生平资料，尽管这显然是他一生中最有趣和最激烈的智力时期。文本证据使我们能够以不同程度的确定性辩论，他的五部现存作品中有四部——_报告_、_讲座_（其中包括单独编辑的_比较与序言_）、_Quodlibet_、_福音贫穷_和_祝福异象布道_——是在这一时期写成的。我们长期以来一直拥有合理的日期（尽管在某些情况下宽泛）来确定前两部作品的日期：他可能在 1321 年至 1323 年的学术两年期间发表了_报告_讲座，他的_讲座_必须是在 1324 年至 1330 年之间写成的。以上列出的前三部作品在他的著作中具有主要的哲学重要性。在这一时期，查顿发表了一系列重要的讲座，在这些讲座中，奥卡姆的思想受到了严厉批评（可能是在伦敦），完成了他在牛津的培训，并在 1329 年至 1330 年的学术年度获得了标志着这一成就的最终学术地位，即教学大师。
+**高级学士学习和教学（1321 年至 1332 年）** 。对于这一时期，我们拥有最少量的生平资料，尽管这显然是他一生中最有趣和最激烈的智力时期。文本证据使我们能够以不同程度的确定性辩论，他的五部现存作品中有四部——*报告*、*讲座*（其中包括单独编辑的_比较与序言_）、*Quodlibet*、*福音贫穷_和_祝福异象布道*——是在这一时期写成的。我们长期以来一直拥有合理的日期（尽管在某些情况下宽泛）来确定前两部作品的日期：他可能在 1321 年至 1323 年的学术两年期间发表了_报告_讲座，他的_讲座_必须是在 1324 年至 1330 年之间写成的。以上列出的前三部作品在他的著作中具有主要的哲学重要性。在这一时期，查顿发表了一系列重要的讲座，在这些讲座中，奥卡姆的思想受到了严厉批评（可能是在伦敦），完成了他在牛津的培训，并在 1329 年至 1330 年的学术年度获得了标志着这一成就的最终学术地位，即教学大师。
 
 **后来在阿维尼翁的职业生涯和去世（1332 年至 1343/4 年）** 。 Chatton 据悉于 1333 年 1 月 17 日在阿维尼翁。他被传唤到那里参加针对托马斯·沃利斯的听证会，并最终担任教皇本笃十二世的顾问。他的职业生涯在 1343 年出现了积极向上的转变，当时他被任命为威尔士阿萨夫主教，但当时这一幸运逆转了，因为这个职位实际上并不空缺。那年冬天，尘世的好运彻底离开了 Chatton，他于 1343 年末或 1344 年初在阿维尼翁去世。\[[5](https://plato.stanford.edu/entries/walter-chatton/notes.html#note-5)]
 
@@ -43,33 +42,33 @@ Chatton 的生活和事业可以分为四个阶段。\[[1](https://plato.stanfor
 
 但是，如今通常理解的，这不是奥卡姆相信或捍卫的原则；也不是一个特定到足以严肃地和独家地归属于某位哲学家的本体论承诺原则。奥卡姆实际的本体论承诺理论大致如下：
 
-没有在外在事物（_res_）之间假定任何外在区别，除非可以通过以下方式证明：（a）通过自明前提的论证，或不容置疑的经验前提，或（b）通过对外在事物的无可置疑的经验，或（c）通过《圣经》、圣徒或某些教会声明等不可辩驳的权威。
+没有在外在事物（*res*）之间假定任何外在区别，除非可以通过以下方式证明：（a）通过自明前提的论证，或不容置疑的经验前提，或（b）通过对外在事物的无可置疑的经验，或（c）通过《圣经》、圣徒或某些教会声明等不可辩驳的权威。
 
 由于它提供了消极建议，告诉我们在何时不应区分事物，因此它是一种简约取向，并且我们可以将其称为_简约原则_的一个例子。奥卡姆将这种态度与一个复杂而独特的理论相结合，解释了句子如何成为真实。当结合这两个理论时，产生了有趣的论据，拒绝了运动的存在，以及大多数关系的存在。
 
-Chatton 似乎认为，在某些情况下依赖这一标准会产生不良结果；特别是他认为，尽管 Ockham 坚持相反，某些语义论证可以被提出来以建立一类有限关系的存在。他发展了对 Ockham 的攻击，并支持自己对真实关系的本体论承诺，用他称之为 _propositio mea_ = '我的命题' 和一个 _ars respondendi_ = '一种回应方法'，以及简单的 _regula mea_ = '我的规则' 的反剃刀。我将其称为“Chatton 原则”，以与“奥卡姆剃刀”形成对比。
+Chatton 似乎认为，在某些情况下依赖这一标准会产生不良结果；特别是他认为，尽管 Ockham 坚持相反，某些语义论证可以被提出来以建立一类有限关系的存在。他发展了对 Ockham 的攻击，并支持自己对真实关系的本体论承诺，用他称之为 *propositio mea* = '我的命题' 和一个 *ars respondendi* = '一种回应方法'，以及简单的 *regula mea* = '我的规则' 的反剃刀。我将其称为“Chatton 原则”，以与“奥卡姆剃刀”形成对比。
 
-这是 Chatton 原则的早期一般表述，取自 _Reportatio_ I，d. 30，q. 1，a. 4：
+这是 Chatton 原则的早期一般表述，取自 *Reportatio* I，d. 30，q. 1，a. 4：
 
-考虑一个肯定命题，当它被验证时，仅对事物进行验证；如果三个事物不足以验证它，就必须假定第四个，依此类推（对于四个事物，或五个等等）。 (_Reportatio_ I, 10–48, 段 57, p. 237)
+考虑一个肯定命题，当它被验证时，仅对事物进行验证；如果三个事物不足以验证它，就必须假定第四个，依此类推（对于四个事物，或五个等等）。 (*Reportatio* I, 10–48, 段 57, p. 237)
 
 他在其他地方陈述了原则的不同版本，但在他的整个职业生涯中，基本思想始终如一：我们必须承认，有多少事物是必要的，才能使某个命题成立。
 
 后来，由于原则对他的重要性日益增加，以及奥卡姆对其直接的批评（其中一些记录在他的_七篇问题集_ I，5 中），查顿为这一原则进行了长时间的辩护，并对其进行了更丰富的阐述。我们拥有的这一原则最丰富的阐述来自_Lectura_ I，d. 3，q. 1，a. 1：
 
-2. 每当一个肯定命题适合于实际存在的事物进行验证时，如果两个事物，无论它们按照安排和持续时间的方式如何出现，不能足以验证命题，而另一个事物缺失，那么就必须假定另一个事物。（_Lectura_ I，d. 3，q. 1，a. 1，第 4 段，第 2 页）
+2. 每当一个肯定命题适合于实际存在的事物进行验证时，如果两个事物，无论它们按照安排和持续时间的方式如何出现，不能足以验证命题，而另一个事物缺失，那么就必须假定另一个事物。（*Lectura* I，d. 3，q. 1，a. 1，第 4 段，第 2 页）
 
 类似版本出现在他的_Collatio et Prologus_。\[[6](https://plato.stanford.edu/entries/walter-chatton/notes.html#note-6)]
 
-这个原则本身当然是微不足道的，因为任何人都会同意我们应该假定我们需要多少个实体。但是，理论不仅仅是这样。查顿明确地将他的原则分为两部分，以便用于理论的证明和应用。他的完整理论可以被看作是对本体论的两阶段思考。第一阶段在上述版本(2)中给出。总结第一阶段，我们可以说语言在某种程度上可以作为本体论的指南；暂时不考虑时间的流逝和运动的发生 - 如果你愿意，可以想象一个“本体论快照” - 并且给定一个真命题 p，我们可以系统地研究使 p 成立所必需的事物的种类（什么样的本体论快照），因此我们可以从 p 的真实性得出结论，这些事物必须存在。这里涉及的问题是_真理生成者_。查顿原则的第一部分所说的是(1)命题的真理生成者是事物（_res_），(2)在某些条件下，命题是本体论的指南。
+这个原则本身当然是微不足道的，因为任何人都会同意我们应该假定我们需要多少个实体。但是，理论不仅仅是这样。查顿明确地将他的原则分为两部分，以便用于理论的证明和应用。他的完整理论可以被看作是对本体论的两阶段思考。第一阶段在上述版本(2)中给出。总结第一阶段，我们可以说语言在某种程度上可以作为本体论的指南；暂时不考虑时间的流逝和运动的发生 - 如果你愿意，可以想象一个“本体论快照” - 并且给定一个真命题 p，我们可以系统地研究使 p 成立所必需的事物的种类（什么样的本体论快照），因此我们可以从 p 的真实性得出结论，这些事物必须存在。这里涉及的问题是_真理生成者_。查顿原则的第一部分所说的是(1)命题的真理生成者是事物（*res*），(2)在某些条件下，命题是本体论的指南。
 
 正如所指出的那样，就其所涉及的范围而言，这一切都很好；当命题为真时，我们必须假定现实中存在足够多的事物，以使命题为真。但单单这样做就是在追问足够性的问题。查顿看到了这一点，因此声称查顿原则涉及第二阶段：
 
-3. 因此需要假定第二命题……即：那些事物不足以解释命题为真的事实，即使它们按照安排和持续时间的方式存在，没有新事物，命题也将为假。(_Lectura_ I, d. 3, q. 1, a. 1, paragraph 17, p. 7)
+3. 因此需要假定第二命题……即：那些事物不足以解释命题为真的事实，即使它们按照安排和持续时间的方式存在，没有新事物，命题也将为假。(*Lectura* I, d. 3, q. 1, a. 1, paragraph 17, p. 7)
 
-在这里，Chatton 给了我们一个测试，用于判断当一定数量的实体不足以使一个真命题成立时。他的测试是以命题的虚假一致性和某些事物的存在与另一事物的不存在为条件来表述的。通过研究其他文本，我们能够看到 Chatton 心中构想了一种 Mill 方法的 _先验_ 版本。我们要想象，在上帝的绝对权力范围内，给定本体论快照中实体所归因的因果力是否足以使所讨论的命题成立。如果不够，我们接着想象其他实体的产生，逐一将其添加到本体论快照中，每次添加后检查命题是否在那一点上必须成立。只要不足仍然存在，我们就在图片中添加另一个对象。我们通过 _一致性_ 来检查不足是否仍然存在：只要当前考虑的快照的存在与命题的虚假之间没有明显矛盾，不足就仍然存在，我们必须继续假设更多事物。根据这种方法，似乎可以得出结论，对于任何一组实体，如果这些实体的因果力根据一致性而被认为不足，但所讨论的命题又被认为是真实的，那么另一种实体，及其随之而来的因果力，必须存在。
+在这里，Chatton 给了我们一个测试，用于判断当一定数量的实体不足以使一个真命题成立时。他的测试是以命题的虚假一致性和某些事物的存在与另一事物的不存在为条件来表述的。通过研究其他文本，我们能够看到 Chatton 心中构想了一种 Mill 方法的 *先验* 版本。我们要想象，在上帝的绝对权力范围内，给定本体论快照中实体所归因的因果力是否足以使所讨论的命题成立。如果不够，我们接着想象其他实体的产生，逐一将其添加到本体论快照中，每次添加后检查命题是否在那一点上必须成立。只要不足仍然存在，我们就在图片中添加另一个对象。我们通过 *一致性* 来检查不足是否仍然存在：只要当前考虑的快照的存在与命题的虚假之间没有明显矛盾，不足就仍然存在，我们必须继续假设更多事物。根据这种方法，似乎可以得出结论，对于任何一组实体，如果这些实体的因果力根据一致性而被认为不足，但所讨论的命题又被认为是真实的，那么另一种实体，及其随之而来的因果力，必须存在。
 
-此时，我们可能会问是什么让我们得出结论，即 Chatton 证明其存在的实体确实是一个 _res_？命题难道不能因为其他原因而成为真实或虚假，而不是 _res_ 的出现或消失吗？Chatton 认为它们不能，至少在大多数情况下，并且他的原则在上述版本 (2) 中展示了这一承诺；增加本体论快照的唯一方法是向图片中添加事物 (_res_)。因此，他依赖并明确承诺了一个假设，即如果一个存在物对真实性有影响，那么它必须是一个真实的东西 (_res_)。这一假设可以在亚里士多德（例如，《物理学》，225a 1–20）和斯科鄙（例如，《Ordinatio》I d. 30 qq. 1–2，n. 41）中找到。通常被称为 _矛盾原则_，可以表述为：“没有经过某个事物 (_res_) 的生成或毁灭，就不可能从矛盾状态过渡到另一个矛盾状态。”
+此时，我们可能会问是什么让我们得出结论，即 Chatton 证明其存在的实体确实是一个 *res*？命题难道不能因为其他原因而成为真实或虚假，而不是 *res* 的出现或消失吗？Chatton 认为它们不能，至少在大多数情况下，并且他的原则在上述版本 (2) 中展示了这一承诺；增加本体论快照的唯一方法是向图片中添加事物 (*res*)。因此，他依赖并明确承诺了一个假设，即如果一个存在物对真实性有影响，那么它必须是一个真实的东西 (*res*)。这一假设可以在亚里士多德（例如，《物理学》，225a 1–20）和斯科鄙（例如，《Ordinatio》I d. 30 qq. 1–2，n. 41）中找到。通常被称为 *矛盾原则*，可以表述为：“没有经过某个事物 (*res*) 的生成或毁灭，就不可能从矛盾状态过渡到另一个矛盾状态。”
 
 ### 3.3 奥卡姆对查顿原则的批评
 
@@ -77,7 +76,7 @@ Chatton 似乎认为，在某些情况下依赖这一标准会产生不良结果
 
 Ockham 通过从命题“除非有某物的生成或毁灭，否则无法从矛盾到矛盾的过渡”中推导出矛盾原理的开放，得出以下扩展：
 
-> 除非由于某物的局部运动，或者由于时间的流逝，或者由于某物的产生或毁灭，否则不可能对同一事物连续验证矛盾命题。(Ockham，_Scriptum_ = _OTh IV_), I, d. 30, q. 1, p. 396, lines 8–9)
+> 除非由于某物的局部运动，或者由于时间的流逝，或者由于某物的产生或毁灭，否则不可能对同一事物连续验证矛盾命题。(Ockham，*Scriptum* = *OTh IV*), I, d. 30, q. 1, p. 396, lines 8–9)
 
 显然，这只是斯科鄂的矛盾原则，用第(iii)条款表达，奥卡姆添加了第(i)和(ii)条款。奥卡姆修改的重点在于承认除了事物的变化外，还有更多解释真值变化的方式；时间的变化或位置的变化也可以解释。但是，如果奥卡姆的版本是正确的，而斯科鄂的版本不正确，那么查顿使用他的原则的多元论论证将行不通：我们不必假设如果 n 个事物无法解释某个真命题的真实性，那么就存在 n+1 个事物，因为真实性可能仅仅通过时间的流逝或变化的发生得到充分解释。绝对清楚的是，奥卡姆对矛盾原则的扩展和查顿在上述原则的第(2)版中的“无论它们如何按照安排和持续时间出现”的条款相互影响，而在这些公式中，我们看到奥卡姆和查顿之间的一些激烈相互影响。
 
@@ -89,21 +88,21 @@ Ockham 通过从命题“除非有某物的生成或毁灭，否则无法从矛�
 
 ### 4.1 语义范畴
 
-这些范畴是简单术语的范畴，最终是概念（例如，_物质_，_红色_），但也是传统语言的词汇（例如，‘物质’，‘红色’），它们指代各种不同类型的超心理事物。 Chatton 以传统方式描述一个范畴：
+这些范畴是简单术语的范畴，最终是概念（例如，*物质*，*红色*），但也是传统语言的词汇（例如，‘物质’，‘红色’），它们指代各种不同类型的超心理事物。 Chatton 以传统方式描述一个范畴：
 
-> 一种基本的谓词顺序，通过这种顺序，智力自然倾向于从超越概念中下降，通过划分和合成来组装某物的具体定义。(_Lectura_ I, d. 8, q. 1, a. 3, paragraph 118)
+> 一种基本的谓词顺序，通过这种顺序，智力自然倾向于从超越概念中下降，通过划分和合成来组装某物的具体定义。(*Lectura* I, d. 8, q. 1, a. 3, paragraph 118)
 
-范畴是一组谓词的有序集合，由智力的活动产生，根据广泛程度排列，从最一般的种类概念(_物质_)到最不一般的物种概念(_人类_), 通过更多或更少一般的种类概念(_身体_, _有机体_, _动物_)的中间层次。在范畴之上是像_存在_这样的‘超越’概念，它们表示不止一个范畴的项目，因此，甚至比任何一个范畴的概念更一般。在范畴之下是像_这个人类_或者_Socrates_这样挑选出一个且仅一个事物的个别概念。
+范畴是一组谓词的有序集合，由智力的活动产生，根据广泛程度排列，从最一般的种类概念(*物质*)到最不一般的物种概念(*人类*), 通过更多或更少一般的种类概念(*身体*, *有机体*, *动物*)的中间层次。在范畴之上是像_存在_这样的‘超越’概念，它们表示不止一个范畴的项目，因此，甚至比任何一个范畴的概念更一般。在范畴之下是像_这个人类_或者_Socrates_这样挑选出一个且仅一个事物的个别概念。
 
-类别概念对于构建我们表达事物基本属性的定义非常重要。Chatton 特别关注的是物种概念的真实定义 - “具体定义” - 以及这些概念所指的事物，即用现代术语来说，类似人类和玫瑰这样的自然种类。具体定义是通过将一个属概念和一个本质差异概念相结合而构建的。例如，_人类_的定义是_理性动物_，其中“理性”是本质差异，“动物”是属；_动物_的定义是_有感知的有机体_，其中“有感知的”是本质差异，“有机体”是属。与定义相关的两个关键语义特征通常被归因于类别概念，即（1）本质和（2）普遍谓词。术语“动物”和“有感知的”本质上可被归属于“动物”下的每个术语，例如“猫”、“人类”、“青蛙”等，正是因为“动物”和“有感知的”出现在“猫”等的定义中。
+类别概念对于构建我们表达事物基本属性的定义非常重要。Chatton 特别关注的是物种概念的真实定义 - “具体定义” - 以及这些概念所指的事物，即用现代术语来说，类似人类和玫瑰这样的自然种类。具体定义是通过将一个属概念和一个本质差异概念相结合而构建的。例如，*人类_的定义是_理性动物*，其中“理性”是本质差异，“动物”是属；*动物_的定义是_有感知的有机体*，其中“有感知的”是本质差异，“有机体”是属。与定义相关的两个关键语义特征通常被归因于类别概念，即（1）本质和（2）普遍谓词。术语“动物”和“有感知的”本质上可被归属于“动物”下的每个术语，例如“猫”、“人类”、“青蛙”等，正是因为“动物”和“有感知的”出现在“猫”等的定义中。
 
-尽管范畴项不是超心理的事物，Chatton 提到了范畴事物的类别，暗示类别和属中有事物。他解释说，如果表示它的物种概念可以被其所属范畴线内的所有属概念本质上断言，那么个体（_individuum_）作为一个超心理的事物就属于一个类别（_Lectura_ I，d. 8，q. 1，a. 1，第 93 段）。可以说，苏格拉底属于物质类别，因为_物质_、_身体_、_有机体_和_动物_都可以本质上断言为_人类_，而_人类_又可以本质上断言为个体概念_Socrates_或_this human being_，指向苏格拉底。
+尽管范畴项不是超心理的事物，Chatton 提到了范畴事物的类别，暗示类别和属中有事物。他解释说，如果表示它的物种概念可以被其所属范畴线内的所有属概念本质上断言，那么个体（*individuum*）作为一个超心理的事物就属于一个类别（*Lectura* I，d. 8，q. 1，a. 1，第 93 段）。可以说，苏格拉底属于物质类别，因为_物质_、*身体*、*有机体_和_动物_都可以本质上断言为_人类*，而_人类_又可以本质上断言为个体概念_Socrates_或_this human being_，指向苏格拉底。
 
 在询问我们如何得出十大范畴时，埃米莉·勒·托内利·德·布勒特伊反驳了彼得·奥里奥尔和奥卡姆的观点，即这些范畴是通过对物质提出十个不同问题而生成的。根据这一观点，“它是什么”这个问题的回答形成了_物质_这一范畴（例如，“动物”，“身体”），“多少”或“多少”形成了_数量_这一范畴（例如，“三”），“它是如何的”形成了_质量_这一范畴（例如，“棕色”，“弯曲”），“它是谁的”或“关于什么而言”形成了_关系_这一范畴（例如，“母亲”，“相似”），依此类推。埃米莉·勒·托内利·德·布勒特伊对这一观点提出了三点异议：（1）我们对物质可以提出比这十个更多的问题，因此在没有进一步阐述的情况下，选择是任意的；（2）为什么将问题限制在关于物质的问题上？为什么不也问质量的“多少”或“它是什么”呢？最后（3）上帝最终会出现在所有或大多数范畴中，因为我们可以向他提出这些问题。
 
 ### 4.2 本体论类
 
-Chatton 认为有十个范畴，它们就是那十个，即_物质_、_数量_、_质量_、_关系_、_时间_、_地点_、_行动_、_受动_、_位置_和_状态_或_具有_，因为有十种基本的真实事物类别，我们为这些类别构建具体定义，其中的术语来自这些范畴。这些范畴被设计用来定义并清晰地映射到本体论类别上。Chatton 不赞成奥卡姆的观点，即只有两种事物，物质和它们的一些特质，才有十个范畴。为了证明他的本体论主张，Chatton 根据具体情况为每个类别进行论证，运用 Chatton 原则（见上文 3.2）。他在早期的_报告_中已经对关系一事做过这样的论证，认为我们在本体上致力于某些关系实体类别，以使命题“热导致热”或“灵魂导致理解”以及“柏拉图产生苏格拉底”成立。现在，在_讲义_中，他认为我们必须承认物质、质量和数量的存在是真正不同于彼此以及不同于关系的，其中关系不仅包括适当的关系，还包括最后六个范畴所指出的六种关系，即_时间_、_地点_、_行动_、_受动_、_位置_和_状态_。以下是他在_Lectura_ 1, d. 8, q. 1, 段落 109 中发现的关于数量的论证重建：
+Chatton 认为有十个范畴，它们就是那十个，即_物质_、*数量*、*质量*、*关系*、*时间*、*地点*、*行动*、*受动*、*位置_和_状态_或_具有*，因为有十种基本的真实事物类别，我们为这些类别构建具体定义，其中的术语来自这些范畴。这些范畴被设计用来定义并清晰地映射到本体论类别上。Chatton 不赞成奥卡姆的观点，即只有两种事物，物质和它们的一些特质，才有十个范畴。为了证明他的本体论主张，Chatton 根据具体情况为每个类别进行论证，运用 Chatton 原则（见上文 3.2）。他在早期的_报告_中已经对关系一事做过这样的论证，认为我们在本体上致力于某些关系实体类别，以使命题“热导致热”或“灵魂导致理解”以及“柏拉图产生苏格拉底”成立。现在，在_讲义_中，他认为我们必须承认物质、质量和数量的存在是真正不同于彼此以及不同于关系的，其中关系不仅包括适当的关系，还包括最后六个范畴所指出的六种关系，即_时间_、*地点*、*行动*、*受动*、*位置_和_状态*。以下是他在_Lectura_ 1, d. 8, q. 1, 段落 109 中发现的关于数量的论证重建：
 
 假设这个命题 p 是真实的：“在圣餐中两个主人的数量在同一时间内以相同的空间安排存在是自然不可能的。”
 
@@ -117,13 +116,13 @@ Chatton 对圣餐的呼吁，在其中一块面包奇迹般地转化为基督的
 
 ### 4.3 自然和个体化
 
-在类别中找到的属和种概念是中世纪哲学家认为是普遍的东西，他们一致同意根据亚里士多德的观点，普遍的东西是“可以适用于许多” ( _《论释义》_ 7, 17a38–b1)。没有人反对说‘人性’这个术语适用于许多具体的人类。紧迫的形而上学问题实际上是关于是否存在一种人性的属性，即人性，所有单个人类共享或者不共享，这将解释为什么说柏拉图和苏格拉底等人是人类。现实主义者认为存在某种普遍实体 - 一种可重复和可实例化的属性 - 所有特定实体或某种类的成员都举例说明。但由于苏格拉底和柏拉图都是人类，但每个人都是一个独特的个体实体，现实主义者还必须解释人性如何被个体化，以构成苏格拉底和柏拉图。相比之下，名义主义者否认存在任何这样的普遍实体，而认为所有实体都只是特定的。
+在类别中找到的属和种概念是中世纪哲学家认为是普遍的东西，他们一致同意根据亚里士多德的观点，普遍的东西是“可以适用于许多” ( *《论释义》* 7, 17a38–b1)。没有人反对说‘人性’这个术语适用于许多具体的人类。紧迫的形而上学问题实际上是关于是否存在一种人性的属性，即人性，所有单个人类共享或者不共享，这将解释为什么说柏拉图和苏格拉底等人是人类。现实主义者认为存在某种普遍实体 - 一种可重复和可实例化的属性 - 所有特定实体或某种类的成员都举例说明。但由于苏格拉底和柏拉图都是人类，但每个人都是一个独特的个体实体，现实主义者还必须解释人性如何被个体化，以构成苏格拉底和柏拉图。相比之下，名义主义者否认存在任何这样的普遍实体，而认为所有实体都只是特定的。
 
-查顿深入探讨了斯科鲁斯（一位现实主义者）与奥卡姆（一位名义主义者）之间的辩论，其中最详尽地在 _《讲义》_ d. 2, q. 5 中，捍卫斯科鲁斯的立场，反对奥卡姆在后者的 _《条令》_ d. 2, q. 6 中的不懈攻击。我们看到查顿采纳了斯科鲁斯对物质的形而上学结构的基本描绘，包括像天使这样的非物质物质和像人类、猫和树这样的物质物质。在每种情况下，给定种类的特定实体，例如每个人类，都由各种本质 - 人性、动物性等 - 以及查顿所称的‘个体属性’构成。也被称为 haecceity，比如苏格拉底的个体属性，是什么使每个实质和偶然的本质个体化，使它们是苏格拉底的人性、动物性、白色等，而不是柏拉图的，后者有自己的个体属性，使他的人性、动物性、白色等成为他自己的。人性本身是一种可重复和可实例化的属性，但在个体化时，苏格拉底的人性不是；它是完全个体化和独特的。斯科鲁斯认为，并且查顿强调这一点，面对奥卡姆坚信一切都是根本特定的观点，本质从未作为外部现实中的存在。本质要么存在于超心灵现实中，作为个体化和独特的，苏格拉底的人性和柏拉图的人性各自是数一和彼此不同的，要么本质存在于头脑中，作为普遍概念，在那里它们确实适用于许多。
+查顿深入探讨了斯科鲁斯（一位现实主义者）与奥卡姆（一位名义主义者）之间的辩论，其中最详尽地在 *《讲义》* d. 2, q. 5 中，捍卫斯科鲁斯的立场，反对奥卡姆在后者的 *《条令》* d. 2, q. 6 中的不懈攻击。我们看到查顿采纳了斯科鲁斯对物质的形而上学结构的基本描绘，包括像天使这样的非物质物质和像人类、猫和树这样的物质物质。在每种情况下，给定种类的特定实体，例如每个人类，都由各种本质 - 人性、动物性等 - 以及查顿所称的‘个体属性’构成。也被称为 haecceity，比如苏格拉底的个体属性，是什么使每个实质和偶然的本质个体化，使它们是苏格拉底的人性、动物性、白色等，而不是柏拉图的，后者有自己的个体属性，使他的人性、动物性、白色等成为他自己的。人性本身是一种可重复和可实例化的属性，但在个体化时，苏格拉底的人性不是；它是完全个体化和独特的。斯科鲁斯认为，并且查顿强调这一点，面对奥卡姆坚信一切都是根本特定的观点，本质从未作为外部现实中的存在。本质要么存在于超心灵现实中，作为个体化和独特的，苏格拉底的人性和柏拉图的人性各自是数一和彼此不同的，要么本质存在于头脑中，作为普遍概念，在那里它们确实适用于许多。
 
 Chatton 坚持认为，尽管苏格拉底的人性只能作为个体存在，作为苏格拉底的人性而非其他人的，但是如果将其作为这样的存在并抽象出苏格拉底的具体情况，人性是一种可以被另一个个体实现而不矛盾的东西，比如柏拉图。他认为的原因是，他认为苏格拉底的人性的定义，即“理性动物”，是_本质上_一般的，不包含任何指向苏格拉底的内容，这会限制其指代仅限于他自己的人性。如果苏格拉底的人性在本质上是特定于他的，那么它的定义必须类似于指向苏格拉底的“这个理性动物”。然而，这不可能是真实情况，因为存在除苏格拉底之外的其他人类，他们每个人的人性同样可以定义为“理性动物”，而不是“这个理性动物”。
 
-由此可见，苏格拉底的人性在其特定定义下与他的个体属性（例如，_Lectura_ 2，d. 5，第 24 段）之间必须存在某种区别。基于这种区别，尽管苏格拉底的人性不可能是柏拉图的（Chatton 使用“不矛盾于”这个表达），但苏格拉底的人性成为柏拉图的并不矛盾。这种复杂的反事实推理线索受到斯科鲁斯的启发，但在 Chatton 对本质和个体化的讨论中占据中心舞台。本质作为这样的存在，可以同时被同类的多个特定实体实现，并不矛盾。然而，作为个体化的本质，不可能同时被同类的多个特定实体实现。
+由此可见，苏格拉底的人性在其特定定义下与他的个体属性（例如，*Lectura* 2，d. 5，第 24 段）之间必须存在某种区别。基于这种区别，尽管苏格拉底的人性不可能是柏拉图的（Chatton 使用“不矛盾于”这个表达），但苏格拉底的人性成为柏拉图的并不矛盾。这种复杂的反事实推理线索受到斯科鲁斯的启发，但在 Chatton 对本质和个体化的讨论中占据中心舞台。本质作为这样的存在，可以同时被同类的多个特定实体实现，并不矛盾。然而，作为个体化的本质，不可能同时被同类的多个特定实体实现。
 
 现在应该清楚查顿说个体属于某个范畴是什么意思了。苏格拉底是那个个体_res_，其种类概念 - ‘人类’ - 本质上由其所在范畴线内的所有属类概念 - ‘动物’，‘身体’，‘物质’ - 所支配，他只不过是一组个体化的本质。同样，存在于苏格拉底身上的白色，其特定概念‘白色’本质上由‘颜色’，‘可感知品质’，‘品质’所支配，是一种个体化的本质。个体，或者更确切地说是个体化的本质，属于由范畴概念所指示的十种基本事物类别之一。
 
@@ -151,7 +150,7 @@ Chatton 主要在天使运动的背景下写了关于不可分割和连续体的
 
 当 Chatton 被评论家迫使涉足他并不总是处理得很娴熟的数学问题时。这一事实，加上亚里士多德反不可分论的权威以及现代数学中处理无限的技术和理论力量的爆炸，导致现代评论家认为 Chatton 的不可分论是无望地幼稚的。此外，他在不可分论上的_报告_讨论有时展示出令人困惑的阐述和突然的思想转变，也许是在当代评论的压力下。如果只阅读这些文本，并用现代术语来思考连续体，对他的负面评价似乎得到了证实。
 
-此外，当直截了当地陈述他的观点时，他的观点听起来很奇怪。Chatton 声称，关于天使的运动是连续还是离散的问题，我们必须调查更早的问题“一个_量_是由不可分割的东西组成的，无论是永久的不可分割的东西还是连续的不可分割的东西？” 他的回答是，是的，_量_是由不可分割的东西组成的，但_潜在地_，其中_潜在地_似乎暗示了一种不寻常的部分/整体关系：这些不可分割的东西与它们组成的整体并不是自然可分开的，而且它们并不单独存在，然后通过与其他不可分割的东西结合来组成这些整体，使它们成为一件事_本身_。不可分割的东西是连续的，可以说它们构成了它们所属的东西，但不是通过聚集或混合。此外，虽然上帝可以完成任何有限连续体的分割，但这些连续体本身只是_有限_可分割的！这种有限主义主张似乎最令人困惑。
+此外，当直截了当地陈述他的观点时，他的观点听起来很奇怪。Chatton 声称，关于天使的运动是连续还是离散的问题，我们必须调查更早的问题“一个_量_是由不可分割的东西组成的，无论是永久的不可分割的东西还是连续的不可分割的东西？” 他的回答是，是的，*量_是由不可分割的东西组成的，但_潜在地*，其中_潜在地_似乎暗示了一种不寻常的部分/整体关系：这些不可分割的东西与它们组成的整体并不是自然可分开的，而且它们并不单独存在，然后通过与其他不可分割的东西结合来组成这些整体，使它们成为一件事_本身_。不可分割的东西是连续的，可以说它们构成了它们所属的东西，但不是通过聚集或混合。此外，虽然上帝可以完成任何有限连续体的分割，但这些连续体本身只是_有限_可分割的！这种有限主义主张似乎最令人困惑。
 
 总的来说，我们持有一种听起来奇怪的观点，很难理解为什么有人会持有这种观点。公正地理解夏顿的不可分论最好的方法是从他的《报告》转向另一种文本，并将他的观点视为对亚里士多德反不可分论论据的直接回应。因此，其中一些论点必须被简要阐述。
 
@@ -173,15 +172,15 @@ Chatton 主要在天使运动的背景下写了关于不可分割和连续体的
 
 接触论点旨在表明每个子情况的假设在某个关键点上拉开了上述概念。在通过每个子情况的论证时，我们将**加粗**显示被拉开或移开的概念，并用下划线表示用于此操作的杠杆。我们将仔细注意到，不稳定性总是以其中一个概念为代价而来。
 
-对于情况（1），将概念群分开的杠杆是接触的概念。取假定的离散不可分割物体_A_和_B_，然后考虑离散不可分割物体_C_。（如果我们试图想象_C_在它们之间会更容易。）它们都能接触是因为它们都是离散的这一前提。由于可能，让我们假设实际上是这样，_A_和_B_接触_C_，并考虑两个子情况。
+对于情况（1），将概念群分开的杠杆是接触的概念。取假定的离散不可分割物体_A_和_B_，然后考虑离散不可分割物体_C_。（如果我们试图想象_C_在它们之间会更容易。）它们都能接触是因为它们都是离散的这一前提。由于可能，让我们假设实际上是这样，*A_和_B_接触_C*，并考虑两个子情况。
 
 （1a）如果它们在同一点接触_C_，那么由于_C_是不可分割的，_A_和_B_必须重合，因此不能构成一个延伸的大小，可能是因为如果两个离散的不可分割物体对大小的延伸没有任何贡献，那么任何数量的它们都无法产生任何延伸。在这种子情况中，它们是离散的这一事实确保了接触的可能性，但_C_的不可分割性和在同一点被接触的事实削弱了它们**构成连续的延伸大小**的主张。冲突在于**延伸**部分。让“⇔”表示不可分割物体的接触，“=”表示不可分割物体的重合，我们可以将问题描述如下：
 
-_A_=_B_⇔_C_；因此，_A_和_B_不构成一个**延伸**的量
+*A*=*B*⇔*C*；因此，_A_和_B_不构成一个**延伸**的量
 
 (1b) 如果它们在_C_的不同点上接触，那么_A_和_B_可以保持离散，但我们必须得出结论，_C_在上面有不止一个点，因此不是不可分割的。这里的离散确保了接触的可能性，但在不同点上接触使**离散**和**不可分割**分离。我们可以将情况想象成这样：
 
-_A_⇔_C_⇔_B_；因此，_C_不是**不可分割的**
+*A*⇔*C*⇔*B*；因此，_C_不是**不可分割的**
 
 根据排中律和二难法则，**离散**要么使**不可分割**和**构成连续的延伸量**不一致，要么使**自身**与**不可分割**不一致，假设不可分割的接触。在接触的假设下，概念集群因此完全不一致。
 
@@ -189,15 +188,15 @@ _A_⇔_C_⇔_B_；因此，_C_不是**不可分割的**
 
 如果(2a)成立，那么由于它们是分离的，它们就不能被视为**构成连续的延伸量**。我们可以这样想象：
 
-_A C B;_ 因此，它们不是**连续**的
+*A C B;* 因此，它们不是**连续**的
 
 现在的问题显然出在那个复杂概念的**连续**部分；它们组成的量现在是“间断的”。
 
-如果(2b)成立，那么由于_A_、_B_和_C_共有它们的>极值 ，它们实际上是一个整体，这种情况下，_A_、_B_和_C_不再是**离散**的。情况可以被描述如下（我们不能再真正使用不同的符号来说明）：
+如果(2b)成立，那么由于_A_、_B_和_C_共有它们的>极值 ，它们实际上是一个整体，这种情况下，*A*、_B_和_C_不再是**离散**的。情况可以被描述如下（我们不能再真正使用不同的符号来说明）：
 
-_ABC_；因此，它们不是**离散**
+*ABC*；因此，它们不是**离散**
 
-亚里士多德假设根据先前的讨论，空间或时间顺序中事物的存在方式只有三种，正如他所说，可以是_连续的_：两个连续的项目要么具有一个共同的极点（_连续_；例如，一条线的两半），要么具有它们的极点在一起（_相邻_；例如，铜球浸入水中），要么具有它们的极点，使得同类之间没有任何干涉（_仅仅是连续_；例如，两座房子）。上述情况（1）展示了如果两个离散的不可分割的极点不是一个，但仍然接触到的情况，也就是说，如果它们是相邻的但不是连续的；情况（2a）展示了如果它们仅仅是连续的情况，情况（2b）展示了如果它们的边界是一个的情况，也就是说，如果它们是连续的。因此，亚里士多德似乎觉得他已经涵盖了所有相关情况。
+亚里士多德假设根据先前的讨论，空间或时间顺序中事物的存在方式只有三种，正如他所说，可以是_连续的_：两个连续的项目要么具有一个共同的极点（*连续*；例如，一条线的两半），要么具有它们的极点在一起（*相邻*；例如，铜球浸入水中），要么具有它们的极点，使得同类之间没有任何干涉（*仅仅是连续*；例如，两座房子）。上述情况（1）展示了如果两个离散的不可分割的极点不是一个，但仍然接触到的情况，也就是说，如果它们是相邻的但不是连续的；情况（2a）展示了如果它们仅仅是连续的情况，情况（2b）展示了如果它们的边界是一个的情况，也就是说，如果它们是连续的。因此，亚里士多德似乎觉得他已经涵盖了所有相关情况。
 
 让我们总结这些不相容之处。假设可能存在着由离散的不可分割物组成的连续延伸量：
 
@@ -241,11 +240,11 @@ Chatton 认为，这个触及论点可以在一举之间被削弱。仔细观察
 
 在《连续体的构成问题》中，这是一部可以追溯到 1320 年代的文本，比同一时期的《报告》更有组织和更清晰的讨论，Chatton（或者可能是他的追随者之一）提出了四个结论，每个结论在孤立状态下听起来有点奇怪，但在触及论点的背景下是有意义的。首先我们引用他的话，然后给出一些分析，可能会减轻一些奇怪之处：
 
-**结论 #1:** ...我得出三个结论。首先，没有一个由实际存在的不可分割物组成的连续体，因为“连续体”和“实际上不可分割的”这两个术语之间存在矛盾。这是因为如果存在一个连续体，它的部分是如此相关，以至于没有一个部分是独立存在的，实际上与其他部分分开；但如果一个不可分割的实际上存在，它将必须独立存在，与同类的其他部分分开。德谟克利特持相反观点，认为连续体是由原子组成的，这些原子仅通过某种集合形成了“连续体”。亚里士多德因此反对他，但亚里士多德的论点不适用于那些同意“连续体”和“实际上不可分割的”相矛盾的人（如我）。(_关于连续体的问题_, 第 56 段)
+**结论 #1:** ...我得出三个结论。首先，没有一个由实际存在的不可分割物组成的连续体，因为“连续体”和“实际上不可分割的”这两个术语之间存在矛盾。这是因为如果存在一个连续体，它的部分是如此相关，以至于没有一个部分是独立存在的，实际上与其他部分分开；但如果一个不可分割的实际上存在，它将必须独立存在，与同类的其他部分分开。德谟克利特持相反观点，认为连续体是由原子组成的，这些原子仅通过某种集合形成了“连续体”。亚里士多德因此反对他，但亚里士多德的论点不适用于那些同意“连续体”和“实际上不可分割的”相矛盾的人（如我）。(*关于连续体的问题*, 第 56 段)
 
 查顿在这里的主要让步是“实际上不可分割的意味着离散”，而离散与连续是矛盾的，正如亚里士多德所示。这似乎意味着查顿承认了触及论证中的子情形(2a)的全部内容，但否认了其相关性。亚里士多德的情形(2a)适用于德谟克利特，例如，但不适用于那些相反地相信存在潜在的不可分割物的人：
 
-**结论 #2:** 第二个结论是，连续体由潜在的不可分割物组成。 (_连续体构成问题_, 第 57 段)
+**结论 #2:** 第二个结论是，连续体由潜在的不可分割物组成。 (*连续体构成问题*, 第 57 段)
 
 在这里，查顿声称，毫不奇怪，存在另一种不可分割物；他称之为“潜在的不可分割物”，可以组成一个连续体。鉴于第一个结论中的让步，这些“潜在的不可分割物”必定不是离散的。
 
@@ -261,7 +260,7 @@ Chatton 的第三个主张是，_潜在_的不可分割物并不是任何延伸�
 
 亚里士多德学派在这一点上有什么补救措施？也许只需指出，无论如何，无论可分性和不可分割物的接触如何，连续体都是无限可分的，而不可分割物是不可分割的，因此它们不能是连续体的整体部分。这实际上将“连续”定义为“无限可分”，但尽管如此，这是一个强有力的直觉，亚里士多德肯定不会是最后一个坚持这一点的人。Chatton 的最终结论针对这最后的挣扎。他仅仅基于神学的理由否认了有限连续体是无限可分的，这有助于解释对于否则是他最奇怪主张的动机：
 
-> **结论 #4:** 因此，我说，在所有现存的事物中，只有有限数量的实体，无论是不可分割的还是可分割的。上帝也不能使无限多的事物构成物理世界中的任何连续体，也不能使任何现存的事物中的部分如此之多，以至于不能再有更多\[_绝对_]；而是，\[仅仅可以说] 组成部分将是如此众多，以至于_在特定事物中_不能再有更多，因为\[绝对而言] 上帝总是可以创造更多的东西，超越任何给定的众多。(_连续体的构成问题_，第 82 段)
+> **结论 #4:** 因此，我说，在所有现存的事物中，只有有限数量的实体，无论是不可分割的还是可分割的。上帝也不能使无限多的事物构成物理世界中的任何连续体，也不能使任何现存的事物中的部分如此之多，以至于不能再有更多\[*绝对*]；而是，\[仅仅可以说] 组成部分将是如此众多，以至于_在特定事物中_不能再有更多，因为\[绝对而言] 上帝总是可以创造更多的东西，超越任何给定的众多。(*连续体的构成问题*，第 82 段)
 
 查顿的最终结论分为四部分：
 
@@ -287,15 +286,15 @@ Chatton 的第三个主张是，_潜在_的不可分割物并不是任何延伸�
 
 \| --- | --- | --- | --- |
 
-\| 1. | 必然性 | 8. | 偶然性（f. sg. _contingentia_, –_ae_）|
+\| 1. | 必然性 | 8. | 偶然性（f. sg. *contingentia*, –*ae*）|
 
 \| 2. | 普遍因果关系 | 9. | 人类自由意志 |
 
-\| 3. | 普遍二价性 (=每个命题要么确定为真，要么确定为假) | 10. | 偶然事物 (n. pl. _contingentia_,-_um_) |
+\| 3. | 普遍二价性 (=每个命题要么确定为真，要么确定为假) | 10. | 偶然事物 (n. pl. *contingentia*,-*um*) |
 
 \| 4. | 上帝的预知 | 11. | 为未来做计划和工作 |
 
-\| 5. | 真实的预言 | 12. | 未来的偶然命题 (_propositiones contingentes de futuro_) |
+\| 5. | 真实的预言 | 12. | 未来的偶然命题 (*propositiones contingentes de futuro*) |
 
 \| 6. | 预定 | 13. | 未定的未来 |
 
@@ -309,9 +308,9 @@ Chatton 的第三个主张是，_潜在_的不可分割物并不是任何延伸�
 
 这个问题的难点就在于——如果上帝知道未来的偶然事件与未来事件的偶然性一致，那么就会得出这样的结论：‘上帝知道反基督者会来；因此反基督者会来’。这个结论的前提是必然的，结论本身也是必然的，因此结论是必然的。但是必然的结论‘反基督者会来’与未来事件‘反基督者来临’的偶然性不一致。因此上帝的知识与未来的偶然性不一致。 (《报告》I，10-48，d. 38，第 2 段，第 347 页)
 
-有两点需要注意。 (1) _反基督者的来临_ 是一个被预期但似乎是偶然的未来事件的标准例子；然而，并没有特别重要性与这个例子的内容相关联；同样受欢迎的是不那么戏剧性的例子‘苏格拉底会坐下’。 (2) _结论_ 是我们今天称之为 _连续_ 的东西（形式为 ‘p 因此 q’），但在这种情况下，我们可以将推理建模为条件句而不失真。宿命论者认为（如果上帝知道反基督者会来那么反基督者会来）是必然的，而且，前提‘上帝知道反基督者会来’也是必然的，因为上帝的知识是确定而坚定的。但是如果（如果 p 那么 q）是必然的，并且前提 p 也是必然的，根据无争议的逻辑原则，结论 q 也是必然的；因此我们可以得出结论，反基督者的来临是必然的，这违反了我们未来是开放的假设。查顿总结了宿命论者的论点如下：
+有两点需要注意。 (1) *反基督者的来临* 是一个被预期但似乎是偶然的未来事件的标准例子；然而，并没有特别重要性与这个例子的内容相关联；同样受欢迎的是不那么戏剧性的例子‘苏格拉底会坐下’。 (2) *结论* 是我们今天称之为 *连续* 的东西（形式为 ‘p 因此 q’），但在这种情况下，我们可以将推理建模为条件句而不失真。宿命论者认为（如果上帝知道反基督者会来那么反基督者会来）是必然的，而且，前提‘上帝知道反基督者会来’也是必然的，因为上帝的知识是确定而坚定的。但是如果（如果 p 那么 q）是必然的，并且前提 p 也是必然的，根据无争议的逻辑原则，结论 q 也是必然的；因此我们可以得出结论，反基督者的来临是必然的，这违反了我们未来是开放的假设。查顿总结了宿命论者的论点如下：
 
-这整个事情也可以用这个公式更加简洁：‘上帝知道 a 将会发生；因此 a 必然会发生’。(_Reportatio_ I, 10–48, d. 38, 段落 2, p. 347)
+这整个事情也可以用这个公式更加简洁：‘上帝知道 a 将会发生；因此 a 必然会发生’。(*Reportatio* I, 10–48, d. 38, 段落 2, p. 347)
 
 这是要被驳倒的论点。在简要考虑了一些其他观点之后，包括彼得·奥里奥尔的观点，这些观点在某些方面似乎对他产生了影响，查顿将他的讨论线索汇集到一个相当独特和激进的解决方案中，但他只是犹豫地支持这个解决方案，似乎不是出于智力上的保留，而是出于害怕陷入异端邪说。尽管他的犹豫使得确定他的立场变得困难，但对他的想法进行相当可靠的重建似乎是可能的。他的解决方案有两个部分：(1) 他提出了对宿命论者推理的反驳，以及 (2) 他阐明了上帝如何知道未来的偶然事件。
 
@@ -358,11 +357,11 @@ Chatton 通过否定第二个前提来驳斥这个论点。他声称，当'a'指
 
 Chatton 通过借助类比、区分和关于神圣智力所有运作的主张来解释他对神圣认知的看法。
 
-Chatton 的类比是这样的：_认知是对知识的，就像理解是对同意或断言的_。正如理解意味着仅仅掌握某事物而没有额外的判断，认知也意味着仅仅掌握某事物，而没有“知识”一词中暗示的额外肯定判断。因此，当 Chatton 在上述解决方案中使用短语“上帝知道 a”时，应理解为“上帝认知 a”，意思是我们只谈论上帝对 a 的_掌握_，而不是任何形式的赞同、反对、同意、不同意等（_Reportatio_ I，10-48，d. 39，第 14 段，第 363 页）。在认知中，神圣的智力以某种方式持有 a，而不确认它，判断它或创造它。只有神圣智力的一部分在起作用，而不是神圣的同意或神圣的意志。
+Chatton 的类比是这样的：*认知是对知识的，就像理解是对同意或断言的*。正如理解意味着仅仅掌握某事物而没有额外的判断，认知也意味着仅仅掌握某事物，而没有“知识”一词中暗示的额外肯定判断。因此，当 Chatton 在上述解决方案中使用短语“上帝知道 a”时，应理解为“上帝认知 a”，意思是我们只谈论上帝对 a 的_掌握_，而不是任何形式的赞同、反对、同意、不同意等（*Reportatio* I，10-48，d. 39，第 14 段，第 363 页）。在认知中，神圣的智力以某种方式持有 a，而不确认它，判断它或创造它。只有神圣智力的一部分在起作用，而不是神圣的同意或神圣的意志。
 
-知识和认知之间的另一个区别是_知识必然是关于当前存在的，而认知没有这种限制_（_Reportatio_ I，10-48，d. 38，第 42 段，第 355 页）。在这种情况下的区别的结果是，上帝不能_知道_未来的对象，例如，因为它们_还没有_；然而，他可以_认知_它们。
+知识和认知之间的另一个区别是_知识必然是关于当前存在的，而认知没有这种限制_（*Reportatio* I，10-48，d. 38，第 42 段，第 355 页）。在这种情况下的区别的结果是，上帝不能_知道_未来的对象，例如，因为它们_还没有_；然而，他可以_认知_它们。
 
-最后（他打算将这一主张应用于神的认知和神的知识），_上帝的知识和认知既不是通过命题中介的，也不是一般性的命题_（_报告_ I，10-48，d. 39，第 14 段，第 363 页；_Quodlibet_，问题 1，第 36 段）。查顿认为上帝的智力活动在任何方面都不是辩证的或代表性的，神的智力活动的通常对象不是命题，而是真实的事物，即_res_。上帝在创造方面的智力活动不需要任何中介者；例如，他在知道或认知时不需要概念或命题。相反，上帝直接认知（例如）他认知的未来可能的事物（_res_），无论这些事物是人，他们脚上的鞋，甚至偶尔和有些琐碎的是，他们说话、写作或思考时使用的口头、书面或心理命题。上帝通过一种直接的视觉或直觉看到它们。如前所述，查顿是关于关系的现实主义者，而关系是发生在其主体中的意外事件，因此，上帝认知未来的_res_也意味着他认知该_res_的关系性意外事件。因此，在认知一个_res_时，上帝认知关于它的一切，因此直接认知该_res_的所有情况或状态，因此，他对它的把握是完整的。由于没有中介，上帝的认知并不是与他分离的；没有确定的代表一个事物的表现方式\*他认知。因此，神的认知在某种意义上与上帝本身并没有真正分离。
+最后（他打算将这一主张应用于神的认知和神的知识），*上帝的知识和认知既不是通过命题中介的，也不是一般性的命题*（*报告* I，10-48，d. 39，第 14 段，第 363 页；*Quodlibet*，问题 1，第 36 段）。查顿认为上帝的智力活动在任何方面都不是辩证的或代表性的，神的智力活动的通常对象不是命题，而是真实的事物，即_res_。上帝在创造方面的智力活动不需要任何中介者；例如，他在知道或认知时不需要概念或命题。相反，上帝直接认知（例如）他认知的未来可能的事物（*res*），无论这些事物是人，他们脚上的鞋，甚至偶尔和有些琐碎的是，他们说话、写作或思考时使用的口头、书面或心理命题。上帝通过一种直接的视觉或直觉看到它们。如前所述，查顿是关于关系的现实主义者，而关系是发生在其主体中的意外事件，因此，上帝认知未来的_res_也意味着他认知该_res_的关系性意外事件。因此，在认知一个_res_时，上帝认知关于它的一切，因此直接认知该_res_的所有情况或状态，因此，他对它的把握是完整的。由于没有中介，上帝的认知并不是与他分离的；没有确定的代表一个事物的表现方式\*他认知。因此，神的认知在某种意义上与上帝本身并没有真正分离。
 
 随着神圣认知观念的发展，我们现在可以回到上一节末尾提出的问题。首先，我们问道：当 a 既是未来的又是偶然的时，“上帝知道 a”怎么可能是必然的呢？毕竟，上帝对 a 的知识的坚定和对 a 概念的明确似乎表明 a 不可能是其他样子。但现在我们有了答案。查顿所说的“上帝知道 a”只意味着“上帝认知 a”，神圣认知是(1)非判断性和非意志性的，(2)不一定是明确存在的，(3)是完整的，尽管非演绎的，直接意识。因此，当上帝认知某个未来的 a 时，那种认知在任何情况下都不是判断性的，也不会确认或以其他方式赞同 a 的存在，也不意味着 a 的存在，尽管它确实掌握了关于 a 的一切重要信息。简而言之，神圣认知是一种不以任何方式干预 a 的自然运作或状态的全知，也不会强迫 a 存在，或者暗示它已经存在。神圣意志不在考虑范围之内；仅仅认知 a 并不导致 a 的发生。我们也不必担心某种称为“上帝知识”的结构的僵化程度及其与 a 的关系。所有神圣的思维都是直接的，因此上帝没有关于 a 的命题体系，也没有通过中介概念认知 a。
 
@@ -380,11 +379,11 @@ Chatton 的类比是这样的：_认知是对知识的，就像理解是对同�
 
 奥卡姆以拒绝存在于人类思想之外的任何形而上普遍性而著称；在中世纪有关普遍概念的辩论中，他是一个坚定的名义主义者。他的拒绝并非源自他的剃刀，而是源自他的信念，通过长时间的论证支持，即“‘存在于思想之外的普遍实体’的概念本身是不连贯的、矛盾的或错误的”。这个概念的任何充分理论都没有被提出或能够被提出；思想之外的一切都是不可归约的个体，不是因为某种独特的个体化力量，正如斯科鄂所说的，而仅仅是_in se ipso_。在他看来，现实中唯一可能以任何方式真正被称为“普遍”的东西是存在于人类思想中的普遍概念，例如概念_人_或概念_白色_。普遍概念_白色_是普遍的，但仅以以下简化的、形而上学上无害的意义：_白色_适用于许多个体事物。
 
-这种思路自然地引导奥卡姆提出了关于一般概念的形而上学地位的解释。它们属于亚里士多德的哪个范畴？概念是否属于人类思维中的_实体_，也就是说，它们是自己的“事物”，因此在某种程度上与人和马一样真实和独立？还是它们是_属性_，也就是说，不是独立的实体，而是独立实体的修改，就像对于亚里士多德来说，_高_不是一个独立的主体，而只是一个独立主体的_方式_？奥卡姆开始他的职业生涯时支持第一种选择，但最终却支持后者。这种转变的原因是沃尔特·查顿持续的攻击。
+这种思路自然地引导奥卡姆提出了关于一般概念的形而上学地位的解释。它们属于亚里士多德的哪个范畴？概念是否属于人类思维中的_实体_，也就是说，它们是自己的“事物”，因此在某种程度上与人和马一样真实和独立？还是它们是_属性_，也就是说，不是独立的实体，而是独立实体的修改，就像对于亚里士多德来说，*高_不是一个独立的主体，而只是一个独立主体的_方式*？奥卡姆开始他的职业生涯时支持第一种选择，但最终却支持后者。这种转变的原因是沃尔特·查顿持续的攻击。
 
 奥卡姆早期的概念理论，通常被称为“虚构理论”，很可能在某种程度上受到彼得·奥里奥尔的工作或至少术语的影响。根据奥卡姆的第一个解释，概念是亚里士多德的实体，但不是正常的物质实体，比如人类，也不是非物质实体，比如天使 - 这些存在可以成为属性的主体，因此可以说具有_主观存在_（=主观存在） - 相反，概念属于完全不同类别的实体，它们在思维中的存在方式就像思想塑造的对象具有的方式一样，即_客观存在_（思想对象的存在），或者，正如他有时所说的，概念是一个_虚构_（=一种由思想塑造的存在）。
 
-Chatton 无情地批评了这一理论，主要是因为概念如_ficta_是认知者和被认知的事物之间不必要的中介，使得认知者只能立即意识到一般概念，而不是被一般概念挑选出的个体。简而言之，_fictum_理论与直接实在主义不一致，这是奥卡姆认识论的一个特征。Chatton 建议，从亚里士多德的观点来看，将概念视为意外事件，而根本不是物质。在 Chatton 看来，概念是灵魂的修改，特别是我的 X 的概念仅仅是我思考 X 的行为。概念不是我们用来思考的中介，而只是我们思考本身的行为，即我的 X 的概念只是我对 X 实例的_intellectio_(=思考行为)。针对 Chatton 的批评及其积极的替代方案，奥卡姆放弃了他的_fictum_理论，起初有些犹豫，摇摆于这一早期理论和 Chatton 的新_intellectio_模型之间，随后更全面地接受了它，并最终在对该主题进行最成熟的哲学反思时，甚至反对了旧的_fictum_理论。奥卡姆改变主意的阶段在不同版本的他对_Sentences_的评论中有很好的记录，甚至是我们确定这些不同版本日期的重要来源。
+Chatton 无情地批评了这一理论，主要是因为概念如_ficta_是认知者和被认知的事物之间不必要的中介，使得认知者只能立即意识到一般概念，而不是被一般概念挑选出的个体。简而言之，*fictum_理论与直接实在主义不一致，这是奥卡姆认识论的一个特征。Chatton 建议，从亚里士多德的观点来看，将概念视为意外事件，而根本不是物质。在 Chatton 看来，概念是灵魂的修改，特别是我的 X 的概念仅仅是我思考 X 的行为。概念不是我们用来思考的中介，而只是我们思考本身的行为，即我的 X 的概念只是我对 X 实例的_intellectio*(=思考行为)。针对 Chatton 的批评及其积极的替代方案，奥卡姆放弃了他的_fictum_理论，起初有些犹豫，摇摆于这一早期理论和 Chatton 的新_intellectio_模型之间，随后更全面地接受了它，并最终在对该主题进行最成熟的哲学反思时，甚至反对了旧的_fictum_理论。奥卡姆改变主意的阶段在不同版本的他对_Sentences_的评论中有很好的记录，甚至是我们确定这些不同版本日期的重要来源。
 
 ## 8. 美德与意图
 
@@ -418,105 +417,105 @@ The majority of secondary literature on Chatton is in English, Italian, and Fren
 
 #### Genuine
 
-* _De paupertate evangelica_. A short treatise on the Franciscan poverty controversy. Edited in Decima L. Douie, “Three treatises on Evangelical Poverty,” _Archivum Franciscanum Historicum_ 24 (1931): 341–69. Continued in 25 (1932): 36–58, and 26 (1932): 210–40.
-* _Lectura super Sententias_. This central work, dated 1324–1330, has been critically edited and published, and now appears in three volumes:
-  * _Lectura super Sententias: Liber I, distinctiones 1–2_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 156] Toronto: Pontifical Institute of Mediaeval Studies, 2007.
-  * _Lectura super Sententias: Liber I, distinctiones 3–7_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 158] Toronto: Pontifical Institute of Mediaeval Studies, 2008.
-  * _Lectura super Sententias: Liber I, distinctiones 8–17_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 164] Toronto: Pontifical Institute of Mediaeval Studies, 2009.
-* _Reportatio super Sententias_. This central work, dated 1321–1323, has been critically edited and published, and now appears in four volumes:
-  * _Reportatio super Sententias: Liber I, distinctiones 1–9_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 141] Toronto: Pontifical Institute of Mediaeval Studies, 2002.
-  * _Reportatio super Sententias: Liber I, distinctiones 10–48_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 142] Toronto: Pontifical Institute of Mediaeval Studies, 2002.
-  * _Reportatio super Sententias: Liber II_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 148] Toronto: Pontifical Institute of Mediaeval Studies, 2004.
-  * _Reportatio super Sententias: Libri III–IV_. Ed. Joseph C. Wey and Girard J. Etzkorn. \[_Studies and Texts_ 149] Toronto: Pontifical Institute of Mediaeval Studies, 2005.
-* _Reportatio et Lectura super Sententias: Collatio ad Librum Primum et Prologus_. Ed. Joseph C. Wey, CSB. \[_Studies and Texts_ 90] Toronto: Pontifical Institute of Mediaeval Studies, 1989. Cited above as “_Collatio et Prologus_”. Not really a separate work, this is simply the most polished version of the prologue of his _Sentences_ commentaries listed above; it may have been meant as an introduction to his _Lectura_, and probably dates to the same period.
-* _Sermo de visione beatifica_. Edited in M. Dykmans, “Les Frères Mineurs d’Avignon au début de 1333 et le sermon de Gautier de Chatton sur la vision béatifique.” _Archives d’historie doctrinale et littéraire du moyen age_ 78 (1971): 105–148. Composed in 1333 in Avignon.
-* _Quodlibet_. We have only an unpublished transcription of Chatton’s _Quodlibet_, which is being edited by Girard Etzkorn, Christopher Schabel, and Rondo Keele. It records debates that took place in 1329–30.
+* *De paupertate evangelica*. A short treatise on the Franciscan poverty controversy. Edited in Decima L. Douie, “Three treatises on Evangelical Poverty,” *Archivum Franciscanum Historicum* 24 (1931): 341–69. Continued in 25 (1932): 36–58, and 26 (1932): 210–40.
+* *Lectura super Sententias*. This central work, dated 1324–1330, has been critically edited and published, and now appears in three volumes:
+  * *Lectura super Sententias: Liber I, distinctiones 1–2*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 156] Toronto: Pontifical Institute of Mediaeval Studies, 2007.
+  * *Lectura super Sententias: Liber I, distinctiones 3–7*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 158] Toronto: Pontifical Institute of Mediaeval Studies, 2008.
+  * *Lectura super Sententias: Liber I, distinctiones 8–17*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 164] Toronto: Pontifical Institute of Mediaeval Studies, 2009.
+* *Reportatio super Sententias*. This central work, dated 1321–1323, has been critically edited and published, and now appears in four volumes:
+  * *Reportatio super Sententias: Liber I, distinctiones 1–9*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 141] Toronto: Pontifical Institute of Mediaeval Studies, 2002.
+  * *Reportatio super Sententias: Liber I, distinctiones 10–48*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 142] Toronto: Pontifical Institute of Mediaeval Studies, 2002.
+  * *Reportatio super Sententias: Liber II*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 148] Toronto: Pontifical Institute of Mediaeval Studies, 2004.
+  * *Reportatio super Sententias: Libri III–IV*. Ed. Joseph C. Wey and Girard J. Etzkorn. \[*Studies and Texts* 149] Toronto: Pontifical Institute of Mediaeval Studies, 2005.
+* *Reportatio et Lectura super Sententias: Collatio ad Librum Primum et Prologus*. Ed. Joseph C. Wey, CSB. \[*Studies and Texts* 90] Toronto: Pontifical Institute of Mediaeval Studies, 1989. Cited above as “*Collatio et Prologus*”. Not really a separate work, this is simply the most polished version of the prologue of his *Sentences* commentaries listed above; it may have been meant as an introduction to his *Lectura*, and probably dates to the same period.
+* *Sermo de visione beatifica*. Edited in M. Dykmans, “Les Frères Mineurs d’Avignon au début de 1333 et le sermon de Gautier de Chatton sur la vision béatifique.” *Archives d’historie doctrinale et littéraire du moyen age* 78 (1971): 105–148. Composed in 1333 in Avignon.
+* *Quodlibet*. We have only an unpublished transcription of Chatton’s *Quodlibet*, which is being edited by Girard Etzkorn, Christopher Schabel, and Rondo Keele. It records debates that took place in 1329–30.
 
 #### Sometimes Attributed but Doubtful
 
-* _Logica Campsale Anglicj ualde utilis et realis contra Ocham_. Edited in Edward A. Synan, _The Works of Richard Campsall_, vol. 2 of 2, \[_Studies and Texts_ 58] Toronto: Pontifical Institute of Mediaeval Studies, 1982. The author is listed therein as ‘pseudo-Richard Campsall’, and his real identity is unknown. Chatton is sometimes suggested as a candidate for authorship but it is not likely his work. However, it shows his influence quite clearly, and cites his anti-razor explicitly in two places.
-* _Quaestio de compositione continui_. This is a defense of Chatton’s indivisibilist stance on the continuum. The textual evidence for attributing this work to him is not strong, but the _Quaestio_ is doctrinally very close to Chatton’s views in _Reportatio_ II, and quotes that work verbatim. It is edited in Murdoch and Synan, “Two Questions on the Continuum: Walter Chatton (?), O.F.M. and Adam Wodeham, O.F.M.” _Franciscan Studies_ 26 (1966): 212–88.
+* *Logica Campsale Anglicj ualde utilis et realis contra Ocham*. Edited in Edward A. Synan, *The Works of Richard Campsall*, vol. 2 of 2, \[*Studies and Texts* 58] Toronto: Pontifical Institute of Mediaeval Studies, 1982. The author is listed therein as ‘pseudo-Richard Campsall’, and his real identity is unknown. Chatton is sometimes suggested as a candidate for authorship but it is not likely his work. However, it shows his influence quite clearly, and cites his anti-razor explicitly in two places.
+* *Quaestio de compositione continui*. This is a defense of Chatton’s indivisibilist stance on the continuum. The textual evidence for attributing this work to him is not strong, but the *Quaestio* is doctrinally very close to Chatton’s views in *Reportatio* II, and quotes that work verbatim. It is edited in Murdoch and Synan, “Two Questions on the Continuum: Walter Chatton (?), O.F.M. and Adam Wodeham, O.F.M.” *Franciscan Studies* 26 (1966): 212–88.
 
 ### Important Primary Texts by Contemporaries of Chatton
 
-* Adam Wodeham (1298–1358). _Lectura secunda in librum primum Sententiarum_. Ed. Rega Wood. 3 vols. St. Bonaventure, New York: The Franciscan Institute, 1990.
-* –––, _Tractatus de indivisibilibus_. Ed. and trans. Rega Wood. St. Bonaventure, New York: The Franciscan Institute, 1988.
-* Robert Holcot, _Seeing the Future Clearly: Questions on Future Contingents by Robert Holcot_. Eds. Paul A. Streveler, Katherine H. Tachau, Hester G. Gelber, and William J. Courtenay. The Pontifical Institute Studies and Texts 119. PIMS: Toronto, 1995.
-* William of Ockham. _Guillelmus de Ockham, Opera Theologica_. 7 vols. Series ed. Gedeon Gál. St. Bonaventure, New York: The Franciscan Institute, 1974–1988. (Cited as ‘_OTh_.’)
-* –––, _Guillelmus de Ockham, Opera Philosophica_. 10 vols. Series ed. Gedeon Gál. St. Bonaventure, New York: The Franciscan Institute, 1967–1986. (Cited as ‘_OPh_.’)
+* Adam Wodeham (1298–1358). *Lectura secunda in librum primum Sententiarum*. Ed. Rega Wood. 3 vols. St. Bonaventure, New York: The Franciscan Institute, 1990.
+* –––, *Tractatus de indivisibilibus*. Ed. and trans. Rega Wood. St. Bonaventure, New York: The Franciscan Institute, 1988.
+* Robert Holcot, *Seeing the Future Clearly: Questions on Future Contingents by Robert Holcot*. Eds. Paul A. Streveler, Katherine H. Tachau, Hester G. Gelber, and William J. Courtenay. The Pontifical Institute Studies and Texts 119. PIMS: Toronto, 1995.
+* William of Ockham. *Guillelmus de Ockham, Opera Theologica*. 7 vols. Series ed. Gedeon Gál. St. Bonaventure, New York: The Franciscan Institute, 1974–1988. (Cited as ‘*OTh*.’)
+* –––, *Guillelmus de Ockham, Opera Philosophica*. 10 vols. Series ed. Gedeon Gál. St. Bonaventure, New York: The Franciscan Institute, 1967–1986. (Cited as ‘*OPh*.’)
 
 ### Secondary Sources and Older Critical Editions of Chatton
 
-* Adams, Marilyn McCord. 1987. _William Ockham_, 2 volumes, Notre Dame: University of Notre Dame Press.
-* –––, 1977. “Ockham’s Nominalism and Unreal Entities,” _Philosophical Review_, 86(2): 144–76.
-* Adriaenssen, Han Thomas, 2017. “Peter Auriol on the Intuitive Cognition of Nonexistents: Revisiting the Charge of Skepticism in Walter Chatton and Adam Wodeham,” _Oxford Studies in Medieval Philosophy_, 5: 151–80.
-* Auer, Johann, 1953. “Die ‘Skotistische’ Lehre von der Heilgewissheit Walter von Chatton, der erste ‘Skotist’,” _Wissenschaft und Weisheit_, 16: 1–19.
-* Baudry, Léon, 1943–45. “Gauthier de Chatton et son commentaire des Sentences,” _Archives d’historie doctrinale et littéraire du moyen age_, 14: 337–69.
-* Boehner, Philotheus, 1946. “The Realistic Conceptualism of William of Ockham,” _Traditio_, 4: 303–336.
-* Bornholdt, Jon, 2017. _Walter Chatton on Future Contingents: Between Formalism and Ontology_, Leiden: E. J. Brill.
-* Brampton, C. K., 1964. “Gauthier de Chatton et la provenance des mss. lat. Paris Bibl. Nat. 15886 et 15887,” _Etudes Franciscaines_, 14: 200–205.
-* Brower-Toland, Susan, 2015. “How Chatton Changed Ockham’s Mind: William Ockham and Walter Chatton on Objects and Acts of Judgment.” _Intentionality, Cognition and Mental Representation in Medieval Philosophy_, Gyula Klima (ed.), New York: Fordham University Press, 204–34.
-* –––, 2013. “Can God Know More: A Case Study in Later Medieval Discussions on Propositions.” _Later Medieval Metaphysics: Ontology, Language, and Logic_, Charles Bolyard and Rondo Keele (eds.), New York: Fordham University Press, 161–87.
-* –––, 2012. “Medieval Approaches to Consciousness: Ockham and Chatton.” _Philosophers’ Imprint_ 12(17). [available online](https://philpapers.org/archive/BROQAT-2.pdf)
-* –––, 2011. “Walter Chatton.” _Encyclopedia of Medieval Philosophy Between 500 and 1500_, Henrik Lagerlund (ed.), Dordrecht: Springer, 1377–81.
-* –––, 2007. “Ockham on Judgment, Concepts, and the Problem of Intentionality,” _Canadian Journal of Philosophy_, 37: 67–110.
-* Brown, Stephen F., 1985. “Walter Chatton’s _Lectura_ and William of Ockham’s _Quaestiones in libros Physicorum Aristotelis_.” _Essays Honoring Allan B. Wolter_, William A. Frank and Girard J. Etzkorn (eds.), St. Bonaventure, New York: Franciscan Institute, 82–115.
-* Courtenay, William J., 1978. _Adam Wodeham: An Introduction to His Life and Writings_, Leiden: E. J. Brill.
-* Corvino, Francesco, 1955. “Sette questioni inedite di Occam sul concetto,” _Rivista critica di Storia della Filosofia_, 10: 263–88.
-* Cova, Luciano, 1985. “L’unita della scienza teologica nella polemica di Walter Chatton; con Guglielmo D’Ockham,” _Franciscan Studies_, 45: 189–230.
-* –––, 1975. “La Quarta Questione del Prologo del ‘Commento sulle Sentenze’ di Walter Catton.” _Rivista critica di storia della filosofia_, 30: 303–330.
-* –––, 1973. _Commento alle Sentenze Prologo_ – _Questione terza_, Rome: Edizione Dell’Ateneo.
-* Dumont, Stephen D., 1989. “Theology as Science and Duns Scotus’s Distinction Between Intuitive and Abstractive Cognition,” _Speculum_, 64(3): 579–99.
-* Douie, Decima L., 1932. “Three treatises on Evangelical Poverty.” _Archivum Franciscanum Historicum_, 24 (1931): 341–69; continued in 25 (1932): 36–58, and in 26: 210–240.
-* Dykmans, M., 1971. “Les Frères Mineurs d’Avignon au début de 1333 et le sermon de Gautier de Chatton sur la vision béatifique,” _Archives d’historie doctrinale et littéraire du moyen age_, 78: 105–148.
-* Emden, A. B., 1957. _A Biographical Register of the University of Oxford to A. D. 1500_ (Volume 1), London: Oxford University Press.
-* Etzkorn, Girard J., 1987. “The Codex Paris Nat. Lat. 15.805,” _Archivum Franciscanum Historicum_, 80: 321–33.
-* Fitzpatrick, Noel A., 1971. “Walter Chatton on the Univocity of Being: A Reaction to Peter Aureoli and William Ockham,” _Franciscan Studies_, 31: 88–177.
-* Friedman, Russell L., 2013. _Intellectual Traditions at the Medieval University: The Use of Philosophical Psychology in Trinitarian Theology Among the Franciscans and Dominicans 1250–1350_, 2 volumes, Leiden: E. J. Brill.
-* Gál, Gedeon, 1967. “Gualteri de Chatton et Guillelmi de Ockham controversia de natura conceptus universalis,” _Franciscan Studies_, 27: 191–212.
-* Gelber, Hester Goodenough, 1974. _Logic and the Trinity: A Clash of Values in Scholastic Thought 1300–1335_, Ph.D. Dissertation, the University of Wisconsin, Ann Arbor: University Microfilms.
-* Grellard, Christophe, and Robert, Aurélien (eds.), 2009. _Atomism in Late Medieval Philosophy and Theology_ Leiden: E. J. Brill.
-* Hoffmann, Tobias, 2008. “Walter Chatton on the Connection of the Virtues,” _Quaestio_, 8: 57–82.
-* Karger, Elizabeth, 1996. “Mental Sentences According to Burley and the Early Ockham,” _Vivarium_, 34(2): 192–230.
-* –––, 1995. “William of Ockham, Walter Chatton and Adam Wodeham on the Objects of Knowledge and Belief,” _Vivarium_, 33(2): 171–196.
-* Keele, Rondo, 2015. “The Early Reception of Peter Auriol at Oxford, Part I: From Ockham to the Black Death,” _Recherches de Théologie et Philosophie médiévales_, 82 (2015): 301–361.
-* –––, 2013. “Iteration and Infinite Regress in Walter Chatton’s Metaphysics,” _Later Medieval Metaphysics: Ontology, Language, and Logic_, Charles Bolyard and Rondo Keele (eds.), New York: Fordham University Press, 206–22.
-* –––, 2007. “Can God Make a Picasso? William Ockham and Walter Chatton on Divine Power and Real Relations,” _Journal of the History of Philosophy_, 45(3): 395–411.
-* –––, 2007. “Oxford Quodlibeta from Ockham to Holcot,” _Theological Quodlibeta in the Middle Ages: The Fourteenth Century_, Christopher Schabel (ed.), Leiden: E. J. Brill.
-* –––, 2003. “The So-Called _Res_ Theory of Walter Chatton,” _Franciscan Studies_, 61: 37–53.
-* –––, 2002. _Formal Ontology in the Fourteenth-Century: The Chatton Principle and Ockham’s Razor_, Ph.D. dissertation, Indiana University, Bloomington.
-* Kelley, Francis E., 1981. “Walter Chatton vs. Aureoli and Ockham Regarding the Universal Concept,” _Franciscan Studies_, 41: 222–49.
-* Kitanov, Severin Valentinov, 2003. “Displeasure in Heaven, Pleasure in Hell: Four Franciscan Masters on the Relationship between Love and Pleasure, Hatred and Displeasure,” _Traditio_, 58: 285–340.
-* Knudsen, Christian, 1985. “Chatton _contra_ Ockham über Gegenstand und Einheit von Wissenschaft und Theologie,” _Cahiers de l’Institut du moyen-âge grec et latin_, 50: 3–112.
-* –––,1975. “Ein Ockhamkritischer Text zu Signifikation und Supposition und zum Verhaltnis von Erster und Zweiter Intention,” _Cahiers de l’Institut du moyen-âge grec et latin_, 14: 14–26.
-* Knuuttila, Simo, 1997. “_Positio Impossibilis_ in Medieval Discussions of the Trinity,” _Vestigia, Imagines, Verba. Semiotics and Logic in Medieval Theological Texts (XIIth–XIVth Century)_, C. Marmo (ed.), Turnhout: Brepols, 277–88.
-* Martin, Christopher J., 1997. “Impossible _Positio_ as the Foundation of Metaphysics or, Logic on the Scotist Plan?” _Vestigia, Imagines, Verba. Semiotics and Logic in Medieval Theological Texts (XIIth–XIVth Century)_, C. Marmo (ed.), Turnhout: Brepols, 255–76.
-* Longpré, P. Efrem, 1923. “Gualtiero di Catton: Un Maestro Francescano D’Oxford,” _Studi Francescani_, 9: 101–114.
-* Maurer, Armand, 1978. “Method in Ockham’s Nominalism,” _The Monist_, 61(3): 426–43.
-* –––, 1984. “Ockham’s Razor and Chatton’s Anti-Razor,” _Mediaeval Studies_, 46: 463–75.
-* Murdoch, J. and Synan, E., 1966. “Two Questions on the Continuum: Walter Chatton (?), O.F.M. and Adam Wodeham, O.F.M.,” _Franciscan Studies_, 26: 212–88.
-* Normore, Calvin, 1987. “The Tradition of Mediaeval Nominalism,” _Studies in Medieval Philosophy_ (Studies in Philosophy and the History of Philosophy: Volume 17), John F. Wippel (ed.), Washington, D. C.: Catholic University of America Press.
-* Nuchelmans, Gabriel, 1980. “Adam Wodeham on the Meaning of Declarative Sentences,” _Historiographiae Linguistica_, 8(1–2): 177–87.
-* O’Callaghan, Jeremiah, 1955. “The Second Question of the Prologue to Walter Catton’s Commentary on the Sentences on Intuitive and Abstractive Knowledge,” _Nine Mediaeval Thinkers_, J. Reginald O’Donnell C.S.B (ed.), Toronto: Pontifical Institute of Mediaeval Studies.
-* Panaccio, Claude, 2004. _Ockham on Concepts_, Aldershot: Ashgate.
-* –––, 1999. _Le discours intérieur de Platon à Guillaume d’Ockham_, Paris: Seuil.
-* Pelletier, Jenny, 2016. “Walter Chatton on Categories,” _Documenti e studi sulla tradizione filosofica medievale_, 28: 381–410.
-* –––, 2016. “Walter Chatton on Enumerating the Categories,” _Vivarium_, 54: 311–34.
-* –––, 2015. “Chatton and Ockham: A Fourteenth Century Discussion on Philosophical and Theological Concepts of God,” _Franciscan Studies_, 73: 147–67.
-* Piché, David, 2017. “Raisons de croire et vouloir croire: le débat entre Durand de Saint–Pourçain, Gauthier Chatton et Guillaume d’Ockham,” _The Language of Thought in Late Medieval Philosophy_, Jenny Pelletier and Magali Roques (eds.), Dordrecht: Springer, 201–16.
-* Reina, Maria Elena, 1970. “La prima questione del Prologo del ‘Commento alla Sentenze di Walter Catton’,” _Rivista critica di storia della filosofia_, 25: 48–74; 290–314.
-* Robert, Aurélien, 2012. “Le vide, le lieu et l’espace chez quelques atomistes du XIVe siècle,” _La Nature et le Vide dans la physique médiévale_ (_Etudes dédiées à Edward Grant_), J. Biard and S. Rommevaux (eds.), Turnhout: Brepols, 67–98.
-* Robinson, Jonathan, 2014. “Walter Chatton on _Dominium_,” _History of Political Thought_, 35(2): 656–82.
-* Schabel, Chris, 2000. “Oxford Franciscans After Ockham: Walter Chatton and Adam Wodeham,” _Commentaries on Peter Lombard’s Sentences_, G. P. Evans (ed.), Leiden: E. J. Brill.
-* –––, 2000. _Theology at Paris, 1316–1345_, Aldershot: Ashgate.
-* –––, 1998. “Paris and Oxford Between Auriol and Rimini,” _Medieval Philosophy_ (_Routledge History of Philosophy_: Volume III), John Marebon (ed.), London: Routledge.
-* Schierbaum, Sonja, 2016. “Chatton’s Critique of Ockham’s Conception of Intuitive Cognition,” _A Companion to Responses to Ockham_, Christian Rode (ed.), Leiden: E. J. Brill, 15–46.
-* Sharpe, Richard, 2001. _A Handlist of Latin Writers of Great Britain and Ireland Before 1540_, second edition, Turnout: Belgium, pp. 730–31
-* Slotemaker, John T., 2015. “Walter Chatton and Adam Wodeham on Divine Simplicity and Trinitarian Relations,” _Quaestio_, 15: 689–97.
-* Spade, Paul Vincent (ed.), 1999. _The Cambridge Companion to Ockham_, Cambridge: Cambridge University Press.
-* Spade, Paul Vincent, and Ashworth, E. J., 1992. “Logic in Late Medieval Oxford,” _The History of the University of Oxford_ (Volume II), J I. Catto and Ralph Evans (eds.), Oxford: Clarendon Press, 35–64
-* Tachau, Katherine H., 1988. _Vision and Certitude in the Age of Ockham_, Leiden: E. J. Brill.
-* Wey, Joseph C., 1989. Introduction to _Reportatio et Lectura super Sententias: Collatio ad Librum Primum et Prologus_, Studies and Texts 90, Toronto, pp. 1–8.
+* Adams, Marilyn McCord. 1987. *William Ockham*, 2 volumes, Notre Dame: University of Notre Dame Press.
+* –––, 1977. “Ockham’s Nominalism and Unreal Entities,” *Philosophical Review*, 86(2): 144–76.
+* Adriaenssen, Han Thomas, 2017. “Peter Auriol on the Intuitive Cognition of Nonexistents: Revisiting the Charge of Skepticism in Walter Chatton and Adam Wodeham,” *Oxford Studies in Medieval Philosophy*, 5: 151–80.
+* Auer, Johann, 1953. “Die ‘Skotistische’ Lehre von der Heilgewissheit Walter von Chatton, der erste ‘Skotist’,” *Wissenschaft und Weisheit*, 16: 1–19.
+* Baudry, Léon, 1943–45. “Gauthier de Chatton et son commentaire des Sentences,” *Archives d’historie doctrinale et littéraire du moyen age*, 14: 337–69.
+* Boehner, Philotheus, 1946. “The Realistic Conceptualism of William of Ockham,” *Traditio*, 4: 303–336.
+* Bornholdt, Jon, 2017. *Walter Chatton on Future Contingents: Between Formalism and Ontology*, Leiden: E. J. Brill.
+* Brampton, C. K., 1964. “Gauthier de Chatton et la provenance des mss. lat. Paris Bibl. Nat. 15886 et 15887,” *Etudes Franciscaines*, 14: 200–205.
+* Brower-Toland, Susan, 2015. “How Chatton Changed Ockham’s Mind: William Ockham and Walter Chatton on Objects and Acts of Judgment.” *Intentionality, Cognition and Mental Representation in Medieval Philosophy*, Gyula Klima (ed.), New York: Fordham University Press, 204–34.
+* –––, 2013. “Can God Know More: A Case Study in Later Medieval Discussions on Propositions.” *Later Medieval Metaphysics: Ontology, Language, and Logic*, Charles Bolyard and Rondo Keele (eds.), New York: Fordham University Press, 161–87.
+* –––, 2012. “Medieval Approaches to Consciousness: Ockham and Chatton.” *Philosophers’ Imprint* 12(17). [available online](https://philpapers.org/archive/BROQAT-2.pdf)
+* –––, 2011. “Walter Chatton.” *Encyclopedia of Medieval Philosophy Between 500 and 1500*, Henrik Lagerlund (ed.), Dordrecht: Springer, 1377–81.
+* –––, 2007. “Ockham on Judgment, Concepts, and the Problem of Intentionality,” *Canadian Journal of Philosophy*, 37: 67–110.
+* Brown, Stephen F., 1985. “Walter Chatton’s *Lectura* and William of Ockham’s *Quaestiones in libros Physicorum Aristotelis*.” *Essays Honoring Allan B. Wolter*, William A. Frank and Girard J. Etzkorn (eds.), St. Bonaventure, New York: Franciscan Institute, 82–115.
+* Courtenay, William J., 1978. *Adam Wodeham: An Introduction to His Life and Writings*, Leiden: E. J. Brill.
+* Corvino, Francesco, 1955. “Sette questioni inedite di Occam sul concetto,” *Rivista critica di Storia della Filosofia*, 10: 263–88.
+* Cova, Luciano, 1985. “L’unita della scienza teologica nella polemica di Walter Chatton; con Guglielmo D’Ockham,” *Franciscan Studies*, 45: 189–230.
+* –––, 1975. “La Quarta Questione del Prologo del ‘Commento sulle Sentenze’ di Walter Catton.” *Rivista critica di storia della filosofia*, 30: 303–330.
+* –––, 1973. *Commento alle Sentenze Prologo* – *Questione terza*, Rome: Edizione Dell’Ateneo.
+* Dumont, Stephen D., 1989. “Theology as Science and Duns Scotus’s Distinction Between Intuitive and Abstractive Cognition,” *Speculum*, 64(3): 579–99.
+* Douie, Decima L., 1932. “Three treatises on Evangelical Poverty.” *Archivum Franciscanum Historicum*, 24 (1931): 341–69; continued in 25 (1932): 36–58, and in 26: 210–240.
+* Dykmans, M., 1971. “Les Frères Mineurs d’Avignon au début de 1333 et le sermon de Gautier de Chatton sur la vision béatifique,” *Archives d’historie doctrinale et littéraire du moyen age*, 78: 105–148.
+* Emden, A. B., 1957. *A Biographical Register of the University of Oxford to A. D. 1500* (Volume 1), London: Oxford University Press.
+* Etzkorn, Girard J., 1987. “The Codex Paris Nat. Lat. 15.805,” *Archivum Franciscanum Historicum*, 80: 321–33.
+* Fitzpatrick, Noel A., 1971. “Walter Chatton on the Univocity of Being: A Reaction to Peter Aureoli and William Ockham,” *Franciscan Studies*, 31: 88–177.
+* Friedman, Russell L., 2013. *Intellectual Traditions at the Medieval University: The Use of Philosophical Psychology in Trinitarian Theology Among the Franciscans and Dominicans 1250–1350*, 2 volumes, Leiden: E. J. Brill.
+* Gál, Gedeon, 1967. “Gualteri de Chatton et Guillelmi de Ockham controversia de natura conceptus universalis,” *Franciscan Studies*, 27: 191–212.
+* Gelber, Hester Goodenough, 1974. *Logic and the Trinity: A Clash of Values in Scholastic Thought 1300–1335*, Ph.D. Dissertation, the University of Wisconsin, Ann Arbor: University Microfilms.
+* Grellard, Christophe, and Robert, Aurélien (eds.), 2009. *Atomism in Late Medieval Philosophy and Theology* Leiden: E. J. Brill.
+* Hoffmann, Tobias, 2008. “Walter Chatton on the Connection of the Virtues,” *Quaestio*, 8: 57–82.
+* Karger, Elizabeth, 1996. “Mental Sentences According to Burley and the Early Ockham,” *Vivarium*, 34(2): 192–230.
+* –––, 1995. “William of Ockham, Walter Chatton and Adam Wodeham on the Objects of Knowledge and Belief,” *Vivarium*, 33(2): 171–196.
+* Keele, Rondo, 2015. “The Early Reception of Peter Auriol at Oxford, Part I: From Ockham to the Black Death,” *Recherches de Théologie et Philosophie médiévales*, 82 (2015): 301–361.
+* –––, 2013. “Iteration and Infinite Regress in Walter Chatton’s Metaphysics,” *Later Medieval Metaphysics: Ontology, Language, and Logic*, Charles Bolyard and Rondo Keele (eds.), New York: Fordham University Press, 206–22.
+* –––, 2007. “Can God Make a Picasso? William Ockham and Walter Chatton on Divine Power and Real Relations,” *Journal of the History of Philosophy*, 45(3): 395–411.
+* –––, 2007. “Oxford Quodlibeta from Ockham to Holcot,” *Theological Quodlibeta in the Middle Ages: The Fourteenth Century*, Christopher Schabel (ed.), Leiden: E. J. Brill.
+* –––, 2003. “The So-Called *Res* Theory of Walter Chatton,” *Franciscan Studies*, 61: 37–53.
+* –––, 2002. *Formal Ontology in the Fourteenth-Century: The Chatton Principle and Ockham’s Razor*, Ph.D. dissertation, Indiana University, Bloomington.
+* Kelley, Francis E., 1981. “Walter Chatton vs. Aureoli and Ockham Regarding the Universal Concept,” *Franciscan Studies*, 41: 222–49.
+* Kitanov, Severin Valentinov, 2003. “Displeasure in Heaven, Pleasure in Hell: Four Franciscan Masters on the Relationship between Love and Pleasure, Hatred and Displeasure,” *Traditio*, 58: 285–340.
+* Knudsen, Christian, 1985. “Chatton *contra* Ockham über Gegenstand und Einheit von Wissenschaft und Theologie,” *Cahiers de l’Institut du moyen-âge grec et latin*, 50: 3–112.
+* –––,1975. “Ein Ockhamkritischer Text zu Signifikation und Supposition und zum Verhaltnis von Erster und Zweiter Intention,” *Cahiers de l’Institut du moyen-âge grec et latin*, 14: 14–26.
+* Knuuttila, Simo, 1997. “*Positio Impossibilis* in Medieval Discussions of the Trinity,” *Vestigia, Imagines, Verba. Semiotics and Logic in Medieval Theological Texts (XIIth–XIVth Century)*, C. Marmo (ed.), Turnhout: Brepols, 277–88.
+* Martin, Christopher J., 1997. “Impossible *Positio* as the Foundation of Metaphysics or, Logic on the Scotist Plan?” *Vestigia, Imagines, Verba. Semiotics and Logic in Medieval Theological Texts (XIIth–XIVth Century)*, C. Marmo (ed.), Turnhout: Brepols, 255–76.
+* Longpré, P. Efrem, 1923. “Gualtiero di Catton: Un Maestro Francescano D’Oxford,” *Studi Francescani*, 9: 101–114.
+* Maurer, Armand, 1978. “Method in Ockham’s Nominalism,” *The Monist*, 61(3): 426–43.
+* –––, 1984. “Ockham’s Razor and Chatton’s Anti-Razor,” *Mediaeval Studies*, 46: 463–75.
+* Murdoch, J. and Synan, E., 1966. “Two Questions on the Continuum: Walter Chatton (?), O.F.M. and Adam Wodeham, O.F.M.,” *Franciscan Studies*, 26: 212–88.
+* Normore, Calvin, 1987. “The Tradition of Mediaeval Nominalism,” *Studies in Medieval Philosophy* (Studies in Philosophy and the History of Philosophy: Volume 17), John F. Wippel (ed.), Washington, D. C.: Catholic University of America Press.
+* Nuchelmans, Gabriel, 1980. “Adam Wodeham on the Meaning of Declarative Sentences,” *Historiographiae Linguistica*, 8(1–2): 177–87.
+* O’Callaghan, Jeremiah, 1955. “The Second Question of the Prologue to Walter Catton’s Commentary on the Sentences on Intuitive and Abstractive Knowledge,” *Nine Mediaeval Thinkers*, J. Reginald O’Donnell C.S.B (ed.), Toronto: Pontifical Institute of Mediaeval Studies.
+* Panaccio, Claude, 2004. *Ockham on Concepts*, Aldershot: Ashgate.
+* –––, 1999. *Le discours intérieur de Platon à Guillaume d’Ockham*, Paris: Seuil.
+* Pelletier, Jenny, 2016. “Walter Chatton on Categories,” *Documenti e studi sulla tradizione filosofica medievale*, 28: 381–410.
+* –––, 2016. “Walter Chatton on Enumerating the Categories,” *Vivarium*, 54: 311–34.
+* –––, 2015. “Chatton and Ockham: A Fourteenth Century Discussion on Philosophical and Theological Concepts of God,” *Franciscan Studies*, 73: 147–67.
+* Piché, David, 2017. “Raisons de croire et vouloir croire: le débat entre Durand de Saint–Pourçain, Gauthier Chatton et Guillaume d’Ockham,” *The Language of Thought in Late Medieval Philosophy*, Jenny Pelletier and Magali Roques (eds.), Dordrecht: Springer, 201–16.
+* Reina, Maria Elena, 1970. “La prima questione del Prologo del ‘Commento alla Sentenze di Walter Catton’,” *Rivista critica di storia della filosofia*, 25: 48–74; 290–314.
+* Robert, Aurélien, 2012. “Le vide, le lieu et l’espace chez quelques atomistes du XIVe siècle,” *La Nature et le Vide dans la physique médiévale* (*Etudes dédiées à Edward Grant*), J. Biard and S. Rommevaux (eds.), Turnhout: Brepols, 67–98.
+* Robinson, Jonathan, 2014. “Walter Chatton on *Dominium*,” *History of Political Thought*, 35(2): 656–82.
+* Schabel, Chris, 2000. “Oxford Franciscans After Ockham: Walter Chatton and Adam Wodeham,” *Commentaries on Peter Lombard’s Sentences*, G. P. Evans (ed.), Leiden: E. J. Brill.
+* –––, 2000. *Theology at Paris, 1316–1345*, Aldershot: Ashgate.
+* –––, 1998. “Paris and Oxford Between Auriol and Rimini,” *Medieval Philosophy* (*Routledge History of Philosophy*: Volume III), John Marebon (ed.), London: Routledge.
+* Schierbaum, Sonja, 2016. “Chatton’s Critique of Ockham’s Conception of Intuitive Cognition,” *A Companion to Responses to Ockham*, Christian Rode (ed.), Leiden: E. J. Brill, 15–46.
+* Sharpe, Richard, 2001. *A Handlist of Latin Writers of Great Britain and Ireland Before 1540*, second edition, Turnout: Belgium, pp. 730–31
+* Slotemaker, John T., 2015. “Walter Chatton and Adam Wodeham on Divine Simplicity and Trinitarian Relations,” *Quaestio*, 15: 689–97.
+* Spade, Paul Vincent (ed.), 1999. *The Cambridge Companion to Ockham*, Cambridge: Cambridge University Press.
+* Spade, Paul Vincent, and Ashworth, E. J., 1992. “Logic in Late Medieval Oxford,” *The History of the University of Oxford* (Volume II), J I. Catto and Ralph Evans (eds.), Oxford: Clarendon Press, 35–64
+* Tachau, Katherine H., 1988. *Vision and Certitude in the Age of Ockham*, Leiden: E. J. Brill.
+* Wey, Joseph C., 1989. Introduction to *Reportatio et Lectura super Sententias: Collatio ad Librum Primum et Prologus*, Studies and Texts 90, Toronto, pp. 1–8.
 
 ## Academic Tools
 
@@ -539,4 +538,4 @@ The majority of secondary literature on Chatton is in English, Italian, and Fren
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Rondo Keele](https://my.nsula.edu/my/mobile/faculty/facprofile.php?fid=keeler)\
-[Jenny Pelletier](https://hiw.kuleuven.be/dwmc/people/00054349) <[_jenny.pelletier@kuleuven.be_](mailto:jenny%2epelletier%40kuleuven%2ebe)>
+[Jenny Pelletier](https://hiw.kuleuven.be/dwmc/people/00054349) <[*jenny.pelletier@kuleuven.be*](mailto:jenny%2epelletier%40kuleuven%2ebe)>

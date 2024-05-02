@@ -2,7 +2,7 @@
 
 ## 形式逻辑中的句子连接词 sentence connectives in formal logic (Lloyd Humberstone)
 
-_首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 月 28 日星期二_
+*首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 月 28 日星期二*
 
 自然语言的句子连接词（如“和”、“或”）传统上在各种形式逻辑系统中通过相应的连接词模拟其使用方面。 （事实上，我们更宽泛地使用“连接词”这个词，这样就不必有两个或更多句子连接在一起，从而使我们能够将“非”和“必然”等词的类比也视为连接词。）这一努力引发了以下问题。 （1）哪些自然发生的句子连接词需要这种处理？ （哪些应被视为“逻辑常量”？）（2）在这个过程中模拟的使用方面是否穷尽了我们可能认为的它们的含义，或者通常存在一些不匹配？ 当然，第二个问题取决于给定的具体形式处理，因为不同的逻辑可能在赋予其代表的形式原则方面存在分歧——例如在“如果”这种情况下，但根据一条著名的思路（由 H. P. Grice 发展），当我们专门关注它们在经典命题逻辑中的处理时，任何这种明显的不一致之处都可以通过诉诸调节普通合作对话的语用原则来解释，并不反映含义的差异（语义差异）。
 
@@ -11,7 +11,6 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 第 1 节介绍了形式句子语言的概念，将其视为（绝对自由）代数，其原始连接词具有这些代数的基本运算的地位，并解释了这种语言上的推论关系的概念。在更一般的层面上，还介绍了伽罗瓦连接，并对我们所称的二元关系连接进行了简单观察，以便在后续章节中应用。第 2 节介绍了语言估值的基本概念（对其公式进行双值真值赋值）。解释了真值功能性以及对其进行的一种称为伪真值功能性（关于一类估值的连接词）的概括，以及序言和序言到序言规则的概念。然后我们转向最初构想的序言的更一般概念，允许一组公式扮演结论角色，而不仅仅是单个公式，以及相关的广义推论关系的概念，强调卡尔纳普对于进行这种概括的动机。这种动机可以通过参考一个连接词来概括。我们以否定为例。考虑由所有估值类确定的推论关系，其中通常的否定真值功能连接词与否定连接词相关联。这可以被视为否定的经典逻辑，至少如果逻辑与推论关系等同的话。现在，存在其他与这种推论关系一致的估值，其中否定真值功能未与否定连接词相关联。（估值与推论关系一致性的术语是从达纳·斯科特那里借鉴而来。精确定义出现在第 2 节。）但是当我们考虑广义推论关系时，类似的差异并不会出现。第 2 节包括了 D. Gabbay 的一个结果陈述，精确地确定了不会出现这种差异的真值函数（大致为：与合取真值函数和各种投影函数的概括），以及 W. Rautenberg 的一个结果，显示尽管在推论关系的装置中存在这种表达上的弱点，但它们足够具有区分能力——无需转向广义推论关系——来区分任意两个真值函数的逻辑属性（具有相同的元数）。
 
 第 3 节继续讨论 sequent-to-sequent 规则的主题，集中在类似 J. W. Garson 风格的这些规则的语义分析上，还关注满足给定规则的连接词的存在性和唯一性（这是 H. Hiż引入的一个主题）。这最后两点被认为与我们所称的 cut-inductivity 和 id-inductivity 有关，特别是 sequent-演算规则的，通过在前一种情况下，提出一个建议，将连接词的存在（具有规定的逻辑行为，考虑到逻辑未明确提供这样的连接词的情况下）与保守扩展（通过规则为新连接词提供详细行为的给定逻辑的扩展）联系起来。这个建议是由 N. D. Belnap 提出的；一些关于保守扩展作为授予具有特定逻辑属性的新连接词存在或可理解性的充分条件的问题被指出。第 4 节收集了几个有趣的案例，其中人们可能会对具有各种属性的连接词的存在性产生疑问。例如（这是七个案例中的第 3 个案例），人们可能会问是否有意义拥有一个具有以下属性的 1 元连接词：这个连接词的两次应用等同于（经典的）否定的一次应用。第 5 节汇编了补充说明和参考资料。
-
 
 ***
 
@@ -27,7 +26,7 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 我们首先需要一些一般性的准备工作，暂时忘记预期的应用场景，让我们定义一对函数 (f, g) 在给定集合 S 和 T 之间是一个 Galois 连接，当 f: ℘(S) → ℘(T) 且 g: ℘(T) → ℘(S) 时，对于所有的 S0, S1 ⊆ S，T0, T1 ⊆ T，我们有 S0 ⊆ g(f(S0))，T0 ⊆ f(g(T0))，S0 ⊆ S1 ⇒ f(S1) ⊆ f(S0)，以及 T0 ⊆ T1 ⇒ g(T1) ⊆ g(T0)。众所周知，在这种情况下，g 与 f（或 f 与 g）的复合是 S（或 T）上的一个闭包运算，即一个函数（我们考虑 S 的情况）C: ℘(S) → ℘(S)，满足对于所有的 S0, S1，S 的子集：
 
-> _S_0 ⊆ _C_(_S_0) _C_(_S_0) ⊆ _C_(_S_0 ∪ _S_1) _C_(_C_(_S_0)) ⊆ _C_(_S_0).
+> _S_0 ⊆ *C*(_S_0) *C*(_S_0) ⊆ *C*(_S_0 ∪ _S_1) *C*(*C*(_S_0)) ⊆ *C*(_S_0).
 
 此外，若 R ⊆ S × T，我们可以称之为二元关系连接（在 S 和 T 之间）的三元组 ⟨R, S, T⟩，当我们对于所有 S0 ⊆ S，T0 ⊆ T 时，会在 S 和 T 之间引出一个 Galois 连接（f**R, g**R）：
 
@@ -49,7 +48,7 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 让我们回到我们开始的命题语言。对于这样的 L 的一种赋值是从 L 到两元集合{T, F}（真值）的函数。与上面提到的一阶语言的情况类似，我们将公式集合 L 放在我们的关系连接⟨L, V, R⟩的源位置（即左侧），将所有 L 的赋值集合 V 放在目标位置（即右侧），而 R（“在...上为真”关系）将 L 中的φ与 V 中的 v 相关联，只有当 v(φ) = T 时才成立。鉴于集合与特征函数之间的一一对应关系，这种关系连接只是上面考虑的基于∈的关系连接的一个轻微变体，特别是与之共享的特征是，它在右侧具有合取和析取组合，但在左侧没有，以及左侧的任意两个元素与右侧的元素之间没有关系 R，右侧的任意两个元素与左侧的元素之间也没有关系 R。为了展开一些有趣的逻辑，其中一些特征需要被打破，尽管正如我们将看到的那样，其中一个特征——在右侧存在合取组合——将被证明是令人惊讶地顽固。如果我们对经典逻辑感兴趣，我们将特别渴望丢弃大部分（上述）V，并集中精力只在布尔赋值上，这种意义将在下面解释。从{T, F}n 到{T, F}的函数被称为 n 元真值函数，我们说一个 n 元真值函数 f 与 L 的 n 元连接符#在赋值 v（对于 L）上相关联，或者在这些相同条件下，#与 v 上的 f 相关联，只有当对于所有φ1,…,φn ∈ L 时：
 
-> _v_(#(φ1,…,φ_n_)) = _f_(_v_(φ1),…,_v_(φ_n_)).
+> *v*(#(φ1,…,φ_n_)) = *f*(*v*(φ1),…,*v*(φ_n_)).
 
 我们描述连接词#在一类估值 U 方面是真功能的，当存在某个 f，对于每个 v ∈ U，f 与 v 上的#相关联，并且在 U 方面是伪真功能的，当 U 是与每个类估值相关的估值类的并集时，其中#是真功能的。\[4] 估值 v 是#-布尔的，非正式地说，当期望的真函数与 v 上的#相关联时。更具体地说，假定 v 是一个支持将在此提到的连接词的语言的估值，当二元真函数 f∧与 f∧(x, y) = T 当且仅当 x = y = T 与 v 上的∧相关联时，v 是∧-布尔的，当类似的关联适用于∨和由 f∨定义的 f∨(x, y) = F 当且仅当 x = y = F 时，v 是∨-布尔的。我们假设现在清楚地理解了这个概念，而不提供“→-布尔”、“↔-布尔”、“¬-布尔”、“⊥-布尔”等的单独定义。L 的布尔估值只是对于 L 的估值，对于 L 的原始连接词#中的每个#，已经定义了#-布尔估值的概念。 （这只是一种记录对于问题中的连接词#的预期真功能解释的方式。）类似地，我们称任何已经定义了#-布尔估值概念的连接词#为布尔连接词，即使在讨论其行为时，逻辑并非由布尔估值类确定。（这个术语将在适当的时候解释。）
 
@@ -234,7 +233,7 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 考虑对广义后果关系的决定性诱导条件，我们偶然发现，后果关系（以及 Set-Fmla 框架）竟然能够区分相同元数的任意两个真值函数的逻辑。更确切地说，假设 f 和 g 是不同的 n 元真值函数，# 是一个 n 元连接词，V**f 和 V**g 分别是与 f 和 g 相关联的估值类；那么由 V**f 和 V**g 确定的后果关系是不同的。举例来说，假设 n = 3，f 和 g 在某个以 T、F、F 开头的决定性上有所不同。（因此我们考虑的是在给定估值上第一个 #-复合物的组成部分为真，而第二个和第三个为假的情况。）不失一般性，我们可以假设 ⟨T, F, F, T⟩ ∈ f 而 ⟨T, F, F, F⟩ ∈ g。由这些决定性引发的广义后果关系 ⊩ 的条件分别是 φ ⊩ ψ, χ, #(φ, ψ, χ) 和 φ, #(φ, ψ, χ) ⊩ ψ, χ。因此特别地，取 φ 为 p，ψ 和 χ 分别为 q，对于由 V**f 确定的广义后果关系 ⊩f 和由 V**g 确定的 ⊩g，我们有：
 
-| _p_⊩_f_ _q_, #(_p_,_q_,_q_) | and | _p_, #(_p_,_q_,_q_) ⊩_g_ _q_. |
+| *p*⊩*f* *q*, #(*p*,*q*,*q*) | and | *p*, #(*p*,*q*,*q*) ⊩*g* *q*. |
 | --------------------------- | --- | ----------------------------- |
 
 请注意，p，#(p, q, q) ⊮f q，否则根据广义推论关系的“切割”条件，从这里的第一个插入 ⊩-语句将得出 p ⊩f q，这是不成立的。因此根据第二个 ⊩-语句，由于 σ = p，#(p, q, q)≻ q 是 ⊩g 的元素而不是 ⊩f 的元素，所以 ⊩f 和 ⊩g 在序列 σ 上有所不同。但是 σ 是 Set-Fmla 的一个序列，因此由 V**f 和 V**g 分别确定的推论关系 ⊢f 和 ⊢g 也有所不同（即在 σ 上）。我们已经通过一个简单的示例展示了上述一般结果，但这种情况已经足够代表性，以便重建一般证明。
@@ -266,7 +265,7 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 | RE_i_ | : | #(φ1,…,φ_n_) ⊩ #(φ1,…,φ_i_−1,ψ,φ_i_+1,…,φ_n_), φ_i_, ψ. |
 | ----- | - | ------------------------------------------------------- |
 
-## 根据 ⊩，如果对于每个 i（1 ≤ i ≤ n）它在第 i 个位置是左外延的（分别是右外延的），那么它是左外延的（分别是右外延的），最后，当 # 对于 ⊩ 是左外延和右外延时，# 是根据 ⊩ 外延的。对于 n = 1，我们去掉下标，上述条件简化为（LE）和（RE）：
+## 根据 ⊩，如果对于每个 i（1 ≤ i ≤ n）它在第 i 个位置是左外延的（分别是右外延的），那么它是左外延的（分别是右外延的），最后，当 # 对于 ⊩ 是左外延和右外延时，# 是根据 ⊩ 外延的。对于 n = 1，我们去掉下标，上述条件简化为（LE）和（RE）
 
 |                                                                                                                                                                              |   |                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | -------------- |
@@ -340,13 +339,13 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 请注意，规则或一组规则的局部范围是一组赋值，而全局范围是一组赋值的集合。但在某些情况下，两者之间存在一种特别简单的关系，即 Glo(R) = ℘(Loc(R))。每当 R 仅包含零前提规则时，以及更有趣的是，当 R 中的规则与一组这样的规则在结构规则（Id）、（Weakening）和（Cut）\[14]的作用下是可相互推导的时，就会发生这种情况，例如自然演绎规则的合取 R = {（∧I），（∧E）}或相应的序言演算规则{∧右，∧左}，其中 Loc(R)恰好包括∧-布尔赋值。显然，第 2 节中的强经典性现象在这里显现出来，我们应该将这种情况与析取（在 Set-Fmla 中）进行对比。对于 R = {（∨I），（∨E）}，Loc(R)是∨-布尔赋值的类，但如果（∨E）——当前感兴趣的规则，因为它没有零前提等价物——被另一种规则替换，而这种规则与它远非可相互推导（即使考虑结构规则和（∨I））时，情况也是如此。
 
-| _A_≻_B_     |
+| *A*≻*B*     |
 | ----------- |
-| _A_∨_B_≻_B_ |
+| *A*∨*B*≻*B* |
 
 因此，从局部范围来看，并不能提供有关诸如 (∨E) 此类规则的确切意义的信息，如果将规则视为给出它们所控制的连接词的含义（在第 1 节中提到的一种观点），并希望将这些信息提炼成一个基于赋值的语义，考虑到全局范围是很自然的。为此，我们利用了对于赋值的基础集合 U 上的偏序 ≤（针对所考虑的语言）的定义：对于所有公式 φ，当且仅当 u(φ) = T 时，v(φ) = T，才有 u ≤ v。正如 Garson（2001）所观察到的那样，∨ 的引入和消去规则的全局范围（同样，我们也可以在这方面引用序言演算规则）是所有 V ⊆ U 的集合，使得对于所有 u ∈ V 和所有公式 φ 和 ψ，满足以下条件：
 
-| \[∨]Garson | _u_(φ ∨ ψ) = T iff for all formulas χ such that_u_(χ) = F, there exists_v_∈_V_with_u_≤_v_,_v_(χ) = F and either_v_(φ) = T or_v_(ψ) = T. |
+| \[∨]Garson | *u*(φ ∨ ψ) = T iff for all formulas χ such that_u_(χ) = F, there exists_v_∈*V_with_u*≤*v*,*v*(χ) = F and either_v_(φ) = T or_v_(ψ) = T. |
 | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 
 虽然我们无法在这里详细讨论加森（Garson）的方案，但其目的值得注意：即到达“自然语义”，这种自然语义隐含在规定连接词#（在这里假定为 n 元）的规则中，其全局范围的表征是由满足形式条件的估值 V 组成的，该条件为：∀u ∈ V，u(#(φ1,…,φn)) = T 当且仅当…，其中省略号被替换为某种内容，使得这个双条件适合作为对估值 u ∈ V 上的真值归纳定义的子句。加森对我们所称的\[∨]加森中使用≤存在疑虑（并提出了各种建议），以及对引入对χ的显式量化存在潜在的循环性或不确定性的担忧（特别是因为χ不一定具有较低的复杂性——即不一定能够用更少的原始连接词构造，即φ∨ψ本身）；相关担忧在伍兹（Woods）（2013）中也有提及。消除后一特征的一种方法是将\[∨]加森转换为以下等价形式，该形式广泛使用估值的合取组合，并使用符号|χ|，对于一个公式χ，表示满足 v(χ) = T 的 V 中的 v 的集合：
@@ -394,13 +393,13 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 | Γ ≻ Δ    |
 | -------- |
-| Γ,_t_≻ Δ |
+| Γ,*t*≻ Δ |
 
 > (t 右)≻ t(f 左)f ≻ (f 右)
 
 | Γ ≻ Δ     |
 | --------- |
-| Γ ≻_f_, Δ |
+| Γ ≻*f*, Δ |
 
 如果我们使用带有多重集的经典逻辑，我们将需要第 2 节中的结构规则（Id）、（Weakening）和（Cut），现在将集合变量重新解释为多重集变量，并进一步添加 Contraction 规则，以允许在≻的左侧或右侧出现公式的双重出现被替换为单一出现。对于线性逻辑，我们仅保留（Id）和（Cut），不允许弱化和收缩，这样做的效果是现在也有两个版本的合取和析取，乘法和加法——我们在这里无法进一步讨论这种区别，除了说对于二元连接词，它与相关性传统中的内涵/外延区别相一致。这种传统中受欢迎的逻辑 R 的序言演算表示可以从经典线性逻辑的序言演算中获得（去掉两个特征 1 元连接词，称为指数，这些指数用于标记允许弱化和收缩的公式），方法是允许收缩（同时仍然禁止弱化）。我们在第 4 节的示例 6 中回到 R；正是为了这种回归，这里给出了控制 t 和 T 的规则，与 f 和 F 的规则并列，后者目前备受关注。请注意，即使 F 只有一个规则，即左插入规则（没有前提序言），这个规则足以唯一地表征 F，因为在具有由类似规则控制的 F′的组合语言中，我们可以证明——仅仅通过引用规则 F ≻ F′和 F′ ≻ F 的适当实例。直觉性线性逻辑的较弱系统是在 Mset-Fmla0 框架中构建的，不允许右侧出现多于一个公式，而对于 F 的左规则在那里是可用的，同样也适用于 Mset-Fmla，要求右侧恰好有一个公式（因为在当前情况下我们恰好有一个公式—F 或 F′）。当我们转向 f 时，我们再次发现规则唯一地表征了这个连接词，因为（f Left）为应用（f′ Right）提供了前提，其中Γ由 f（的一个出现）组成，Δ为空，产生 f ≻ f′，类似地证明了逆向。请注意，虽然 F ≻ f 是 F 的（左）规则的特例，但没有逆向序言的证明。我们不能从 f ≻开始，然后在右侧弱化一个 F，因为我们没有弱化。这些推导在 Mset-Fmla0 中也适用，但这一次我们注意到它们在 Mset-Fmla 中不适用，因为左插入规则在该框架中没有应用。当注意力集中在 Mset-Fmla 时，没有一组纯规则可用来唯一地表征 f。 Mset-Mset（或 Mset-Fmla0）的否定（¬）序列演算规则可以被视为第 2 节中给出的规则，其中将集合变量视为多重集合变量（适用于 Mset-Fmla0），唯一地表征了否定（¬），但在 Mset-Fmla 或任何其他具有右侧（或左侧）固定多重集基数的框架中没有直接应用。在这个框架中，我们可以说，规定否定（¬）的规则唯一地表征了这个连接词，基于此，它确实可以被明确定义（¬ φ作为φ → f），但由于这里的 f 没有被唯一地表征（即使→被唯一地表征），这仍然使得否定（¬）缺乏其（也许）预期的唯一性，这在 Fmla 中更加明显。这些考虑在存在收缩（和∧/∨）分配的情况下仍然适用，解释了有时会提出相关逻辑不使用唯一表征的否定的抱怨。这里的重点不是要强调或回应这些抱怨，而是要注意它们的框架敏感性：它们不适用于 Mset-Mset 或 Mset-Fmla0。
 
@@ -592,11 +591,11 @@ _首次发表于 2010 年 5 月 4 日星期二；实质性修订于 2020 年 1 �
 
 Fusco（2015）的关注点是对分离的处理，特别是在德意志逻辑中与之相关的问题，如罗斯悖论和自由选择许可的表达。该问题在 Fusco（2019）的第 3 节中进一步讨论。（有关一般背景，包括这些问题，请参见 McNamara 2019；有关特定与分离相关的问题的更多细节，请参见 Aloni 2016。）Fusco（2015）认为，基于我们在此不涉及的理由（因为它们涉及复杂的德意志概念理论的几个部分），英语中的德意志嵌入“或”存在的问题（以及其他自然语言中对应的词汇）最好通过“或”的形式来形式化处理，其中φ或ψ被定义为：
 
-(1) (_A_(φ ∧ ¬ψ) → φ) ∧ (_A_(¬φ ∧ ψ) → ψ) ∧ (_A_(φ ↔ ψ) → (φ ∨ ψ)).
+(1) (*A*(φ ∧ ¬ψ) → φ) ∧ (*A*(¬φ ∧ ψ) → ψ) ∧ (*A*(φ ↔ ψ) → (φ ∨ ψ)).
 
 这是一个建议的定义，至少对于φ，ψ，是使用布尔连接词构建的，来自 Fusco（2015）和（2019）计划中的续集，详细说明了客体语言中在第一篇论文中提供的语义特征。一种无限制等价的定义（或更准确地说，定义者），一些读者可能更喜欢以下内容：
 
-(2) (_A_(φ ∧ ¬ψ) ∧ φ) ∨ (_A_(¬φ ∧ ψ) ∧ ψ) ∨ (_A_(φ ↔ ψ) ∧ (φ ∨ ψ)).
+(2) (*A*(φ ∧ ¬ψ) ∧ φ) ∨ (*A*(¬φ ∧ ψ) ∧ ψ) ∨ (*A*(φ ↔ ψ) ∧ (φ ∨ ψ)).
 
 相比之下，以下模式的实例，根据 Lewis（1982）中对布尔φ，ψ的处理（尽管不是一般情况，如下面注释 51 的最后一段所解释的），只会对应于上述一对实例的对角等价
 
@@ -636,148 +635,148 @@ Id-归纳性在 Kaminski (1988)中被称为“正则性”；关于 Id-归纳性
 
 ### Bibliography
 
-* Aloni, Maria, 2016, “Disjunction”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = < [https://plato.stanford.edu/archives/win2016/entries/disjunction/](https://plato.stanford.edu/archives/win2016/entries/disjunction/)>.
-* Avron, Arnon, 1988, “The Semantics and Proof Theory of Linear Logic”, _Theoretical Computer Science_, 57: 161–187.
-* Avron, Arnon, 2010, “Tonk—A Full Mathematical Solution”, in A. Biletzki (ed.), _Hues of Philosophy: Essays in Memory of Ruth Manor_, London: College Publications, pp. 17–42.
-* Beall, J.C., and Greg Restall, 2006, _Logical Pluralism_, Oxford: Clarendon Press.
-* Bell, J.L., 1986, “A New Approach to Quantum Logic”, _British Journal for the Philosophy of Science_, 37: 83–99.
-* Belnap, Nuel D., 1962, “Tonk, Plonk, and Plink”, _Analysis_, 22: 130–134.
-* Belnap, Nuel D., and J.M. Dunn, 1981, “Entailment and the Disjunctive Syllogism”, in _Contemporary Philosophy: A New Survey_, Vol. 1, G. Fløistad (ed.), Martinus Nijhoff: The Hague, pp. 337–366.
-* Béziau, Jean-Yves, and Marcelo E. Coniglio, 2010, “To Distribute or Not to Distribute?”, _Logic Journal of the IGPL_, 19: 566–583.
-* Birkhoff, Garrett, 1967, _Lattice Theory_, 3rd Edition, Providence, Rhode Island: American Mathematical Society.
-* Bimbó, Katalin and J. Michael Dunn, 2008, _Generalized Galois Logics_, Stanford: CSLI Publications.
-* Blamey, Stephen, and Lloyd Humberstone, 1991, “A Perspective on Modal Sequent Logic”, _Publications of the Research Institute for Mathematical Sciences, Kyoto University_, 27: 763–782.
-* Blok, W.J., and D. Pigozzi, 1989, “Algebraizable Logics”, _Memoirs of the American Mathematical Society_, 77(396).
-* Bonnay, D., and B. Simmenauer, 2005, “Tonk Strikes Back”, _Australasian Journal of Logic_, 3: 33–44.
-* Byrd, Michael, 1973, “Knowledge and True Belief in Hintikka’s Epistemic Logic”, _Journal of Philosophical Logic_, 2: 181–192.
-* Caicedo, Xavier, 2004, “Implicit Connectives of Algebraizable Logics”, _Studia Logica_, 78: 155–170.
-* Caicedo, Xavier, and Roberto Cignoli, 2001, “An Algebraic Approach to Intuitionistic Connectives”, _Journal of Symbolic Logic_, 66: 1620–1636.
-* Carnap, Rudolf, 1943/1961, _Formalization of Logic_, reprinted in _Introduction to Semantics and Formalization of Logic_, Cambridge, Massachusetts: Harvard University Press.
-* Ciabattoni, A., 2004, “Automated Generation of Analytic Calculi for Logics with Linearity”, in _CSL 2004_, (Series: Lecture Notes in Computer Science, Volume 3210), J. Marczinkowski and A. Tarlecki (eds.), Berlin: Springer-Verlag, pp. 503–517.
-* Ciabattoni, A., and K. Terui, 2006, “Towards a Semantic Characterization of Cut-Elimination”, _Studia Logica_, 82: 95–119.
-* Cook, R.T., 2005, “What’s Wrong with Tonk?”, _Journal of Philosophical Logic_, 34: 217–226.
-* Cross, C., and F. Roelofsen, 2018, “Questions”, _Stanford Encyclopedia of Philosophy_ (Spring 2018 Edition), Edward N. Zalta (ed.), URL = \&lgt;https://plato.stanford.edu/archives/spr2018/entries/questions/>.
-* Dalla Chiara, Maria Luisa, R. Giuntini, and R. Greechie, 2004, _Reasoning in Quantum Theory: Sharp and Unsharp Quantum Logics_, Dordrecht: Kluwer.
-* Davies, Martin, and Lloyd Humberstone, 1980, “Two Notions of Necessity”, _Philosophical Studies_, 38: 1–30.
-* de Jongh, D.H.J., and L.A. Chagrova, 1995, “The Decidability of Dependency in Intuitionistic Propositional Logic”, _Journal of Symbolic Logic_, 60: 498–504.
-* Deutsch, David, 1989, “Quantum Computational Networks”, _Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences_, 425: 73–90.
-* Deutsch, David, Artur Ekert, and Rossella Lupacchini, 2000, “Machines, Logic and Quantum Physics”, _Bulletin of Symbolic Logic_, 6: 265–283.
-* Dicher, Bogdan, 2016, “Weak Disharmony: Some Lessons for Proof-Theoretic Semantics”, _Review of Symbolic Logic_, 9: 583–602.
-* Došen, Kosta, and Peter Schroeder-Heister, 1985, “Conservativeness and Uniqueness”, _Theoria_, 51: 159–173.
-* –––, 1988, “Uniqueness, Definability and Interpolation”, _Journal of Symbolic Logic_, 53: 554–570.
-* Dummett, M.A., 1991, _The Logical Basis of Metaphysics_, Cambridge, Massachusetts: Harvard University Press.
-* Dunn, J.M., and G.M. Hardegree, 2001, _Algebraic Methods in Philosophical Logic_, Oxford: Clarendon Press.
-* Ertola Biraben, R.C., 2012, “On Some Extensions of Intuitionistic Logic”, _Bulletin of the Section of Logic_, 41: 17–22.
-* Ertola Biraben, R.C., and H. J. San Martín, 2011, “On Some Compatible Operations on Heyting Algebras ”, _Studia Logica_, 98: 331–345.
-* Fariñas del Cerro, Luis, and Andreas Herzig, 1996, “Combining Classical and Intuitionistic Logic”, in _Frontiers of Combining Systems_, F. Baader and K. Schulz (eds.), Dordrecht: Kluwer, pp. 93–102.
-* Font, J.M., and P. Hájek, 2002, “On Łukasiewicz’s Four-Valued Modal Logic”, _Studia Logica_, 70: 157–182.
-* Francez, Nissim, 2014, “Harmony in Multiple-Conclusion Natural-Deduction”, _Logica Universalis_, 8: 215–259.
-* Francez, Nissim, and Roy Dyckhoff, 2012, “A Note on Harmony”, _Journal of Philosophical Logic_, 41: 613–628.
-* Fusco, Melissa, 2015, “Deontic Modality and The Semantics of Choice”, _Philosophers’ Imprint_ 15, Article No. 28.
-* –––, 2019, “Naturalizing Deontic Logic: Indeterminacy, Diagonalization, and Self-Affirmation”, to appear in _Philosophical Perspectives_.
-* Gabbay, D.M., 1977, “On Some New Intuitionistic Propositional Connectives, I”, _Studia Logica_, 36: 127–139.
-* –––, 1978, “What is a Classical Connective?”, _Zeitschr. für math. Logik und Grundlagen der Math._, 24: 37–44.
-* –––, 1981, _Semantical Investigations in Heyting’s Intuitionistic Logic_, Dordrecht: Reidel.
-* Garson, James W., 1990, “Categorical Semantics”, in _Truth or Consequences: Essays in Honor of Nuel Belnap_, J.M. Dunn and A. Gupta (eds.), Dordrecht: Kluwer, pp. 155–175.
-* –––, 2001, “Natural Semantics: Why Natural Deduction is Intuitionistic”, _Theoria_, 67: 114–139.
-* –––, 2013, _What Logics Mean: From Proof Theory to Model-Theoretic Semantics_, Cambridge: Cambridge University Press.
-* Gentzen, G., 1934, “Untersuchungen über das Logische Schliessen”, _Math. Zeitschrift_, 39: 176–210, 405–431; English translation in _The Collected Papers of Gerhard Genzen_, M. Szabo (ed.), Amsterdam: North-Holland, 1969.
-* Girard, Jean-Yves, 1987, “Linear Logic”, _Theoretical Computer Science_, 50: 1–102.
-* Girard, Jean-Yves, with Paul Taylor and Yves Lafont, 1989, _Proofs and Types_, Cambridge: Cambridge University Press.
-* Groenendijk, Jeroen, and Martin Stokhof, 1982, “Semantic Analysis of _Wh_-Complements”, _Linguistics and Philosophy_, 5: 175–233.
-* Hamblin, C.L., 1967, “One-Valued Logic”, _Philosophical Quarterly_, 17: 38–45.
-* Hand, Michael, 1993, “Negations in Conflict”, _Erkenntnis_, 38: 115–29.
-* Hart, W.D., 1982, “Prior and Belnap”, _Theoria_, 48: 127–138.
-* Harris, J.H., 1982, “What’s so Logical about the ‘Logical’ Axioms?”, _Studia Logica_, 41: 159–171.
-* Hodes, Harold, 2004, “On the Sense and Reference of a Logical Constant”, _Philosophical Quarterly_, 54: 134–165.
-* Hjortland, Ole, 2012, “Harmony and the Context of Deducibility”, in _Insolubles and Consequences: Essays in Honour of Stephen Read_, Dutilh Novaes, C., and O. T. Hjorltand (eds.), London: College Publications, pp. 105–117.
-* Hösli, Brigitte, and Gerhard Jäger, 1994, “About Some Symmetries of Negation”, _Journal of Symbolic Logic_, 59: 473–485.
-* Hudson, James L., 1975, “Logical Subtraction”, _Analysis_, 35: 130–135.
-* Huet, Gérard, and Gordon Plotkin (eds.), 1991, _Logical Frameworks_, Cambridge: Cambridge University Press.
-* Humberstone, Lloyd, 1995, “Negation by Iteration”, _Theoria_, 61: 1–24.
-* –––, 1998, “Many-Valued Logics, Philosophical Issues in”, _Routledge Encyclopedia of Philosophy, Vol. 6_, E. Craig (ed.), Routledge: London, pp. 84–91.
-* –––, 2000, “Parts and Partitions”, _Theoria_, 66: 41–82.
-* –––, 2002, “The Modal Logic of Agreement and Noncontingency”, _Notre Dame Journal of Formal Logic_, 43: 95–127.
-* –––, 2011, _The Connectives_, Cambridge MA: MIT Press.
-* –––, 2013, “Logical Relations”, _Philosophical Perspectives_, 27: 176–230.
-* –––, 2014, “Prior’s OIC Nonconservativity Example Revisited”, _Journal of Applied Non-Classical Logics_, 24: 209–235.
-* –––, 2015, “Béziau on _And_ and _Or_”, in _The Road to Universal Logic: Festschrift for the 50th Birthday of Jean-Yves Béziau, Volume I_, A. Koslow and A. Buchsbaum (eds.), Heidelberg: Birkhäuser, pp. 283–307.
-* –––, 2016, _Philosophical Applications of Modal Logic_, London: College Publications.
-* –––, 2019, “Supervenience, Dependence, Disjunction”, _Logic and Logical Philosophy_, 28: 3–135.
-* Hyde, Dominic, 1997, “From Heaps and Gaps to Heaps of Gluts”, _Mind_, 106: 641–60.
-* Jankov, V.A., 1969, “Conjunctively Indecomposable Formulas in Propositional Calculi”, _Math. USSR—Izvestija_, 3: 17–35.
-* Kaminski, M. 1988, “Nonstandard Connectives of Intuitionistic Propositional Logic”, _Notre Dame Journal of Formal Logic_, 29: 309–331.
-* Kalinowski, Georges, 1967, review of L. S. Rogowski, “Logika kierunkowa a heglowska teza o sprzeczności zmiany” \[Directional logic and Hegel’s thesis on the contradiction of change (1964)], _Revue Philosophique de Louvain_, 86: 239–241.
-* Koslow, A., 1992, _A Structuralist Theory of Logic_, Cambridge: Cambridge University Press.
-* Leblanc, Hugues, 1966, “Two Separation Theorems for Natural Deduction”, _Notre Dame Journal of Formal Logic_, 7: 159–180.
-* Lemmon, E.J., 1965, _Beginning Logic_, London: Nelson.
-* Lewis, David, 1982 “‘Whether’ Report”, T. Pauli (ed.), _⟨320311⟩: Philosophical Essays Dedicated to Lennart Aqvist on his Fiftieth Birthday_, T. Pauli (ed.), University of Uppsala, pp. 194–206.
-* López-Escobar, E.G.K., 1985, “On Intuitionistic Sentential Connectives. I”, _Revista Colombiana de Matemáticas_, 19: 117–130.
-* Łukasiewicz, Jan, 1953, “A System of Modal Logic”, _Journal of Computing Systems_, 1: 111–149. Reprinted in _Jan Łukasiewicz: Selected Works_, L. Borkowski (ed.), Amsterdam: North-Holland, 1970.
-* MacFarlane, John, 2015, “Logical Constants”, _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/logical-constants/](https://plato.stanford.edu/archives/sum2015/entries/logical-constants/).
-* Makinson, David, 2014, “Intelim Rules for Classical Connectives”, in _David Makinson on Classical Methods for Non-Classical Problems_, S. O. Hansson (ed.), Dordrecht: Springer, pp. 359–385.
-* McNamara, Paul, 2019, “Deontic Logic”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.), URL = < [https://plato.stanford.edu/archives/sum2019/entries/logic-deontic/](https://plato.stanford.edu/archives/sum2019/entries/logic-deontic/)>.
-* Meyer, Robert K., 1974, “Entailment is not Strict Implication”, _Australasian Journal of Philosophy_, 52: 211–231.
-* Milne, Peter, 1994, “Classical Harmony: Rules of Inference and the Meaning of the Logical Constants”, _Synthese_, 100: 49–94.
-* –––, 2002, “Harmony, Purity, Simplicity and a ‘Seemingly Magical Fact’”, _The Monist_, 85: 498–534.
+* Aloni, Maria, 2016, “Disjunction”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = < [https://plato.stanford.edu/archives/win2016/entries/disjunction/](https://plato.stanford.edu/archives/win2016/entries/disjunction/)>.
+* Avron, Arnon, 1988, “The Semantics and Proof Theory of Linear Logic”, *Theoretical Computer Science*, 57: 161–187.
+* Avron, Arnon, 2010, “Tonk—A Full Mathematical Solution”, in A. Biletzki (ed.), *Hues of Philosophy: Essays in Memory of Ruth Manor*, London: College Publications, pp. 17–42.
+* Beall, J.C., and Greg Restall, 2006, *Logical Pluralism*, Oxford: Clarendon Press.
+* Bell, J.L., 1986, “A New Approach to Quantum Logic”, *British Journal for the Philosophy of Science*, 37: 83–99.
+* Belnap, Nuel D., 1962, “Tonk, Plonk, and Plink”, *Analysis*, 22: 130–134.
+* Belnap, Nuel D., and J.M. Dunn, 1981, “Entailment and the Disjunctive Syllogism”, in *Contemporary Philosophy: A New Survey*, Vol. 1, G. Fløistad (ed.), Martinus Nijhoff: The Hague, pp. 337–366.
+* Béziau, Jean-Yves, and Marcelo E. Coniglio, 2010, “To Distribute or Not to Distribute?”, *Logic Journal of the IGPL*, 19: 566–583.
+* Birkhoff, Garrett, 1967, *Lattice Theory*, 3rd Edition, Providence, Rhode Island: American Mathematical Society.
+* Bimbó, Katalin and J. Michael Dunn, 2008, *Generalized Galois Logics*, Stanford: CSLI Publications.
+* Blamey, Stephen, and Lloyd Humberstone, 1991, “A Perspective on Modal Sequent Logic”, *Publications of the Research Institute for Mathematical Sciences, Kyoto University*, 27: 763–782.
+* Blok, W.J., and D. Pigozzi, 1989, “Algebraizable Logics”, *Memoirs of the American Mathematical Society*, 77(396).
+* Bonnay, D., and B. Simmenauer, 2005, “Tonk Strikes Back”, *Australasian Journal of Logic*, 3: 33–44.
+* Byrd, Michael, 1973, “Knowledge and True Belief in Hintikka’s Epistemic Logic”, *Journal of Philosophical Logic*, 2: 181–192.
+* Caicedo, Xavier, 2004, “Implicit Connectives of Algebraizable Logics”, *Studia Logica*, 78: 155–170.
+* Caicedo, Xavier, and Roberto Cignoli, 2001, “An Algebraic Approach to Intuitionistic Connectives”, *Journal of Symbolic Logic*, 66: 1620–1636.
+* Carnap, Rudolf, 1943/1961, *Formalization of Logic*, reprinted in *Introduction to Semantics and Formalization of Logic*, Cambridge, Massachusetts: Harvard University Press.
+* Ciabattoni, A., 2004, “Automated Generation of Analytic Calculi for Logics with Linearity”, in *CSL 2004*, (Series: Lecture Notes in Computer Science, Volume 3210), J. Marczinkowski and A. Tarlecki (eds.), Berlin: Springer-Verlag, pp. 503–517.
+* Ciabattoni, A., and K. Terui, 2006, “Towards a Semantic Characterization of Cut-Elimination”, *Studia Logica*, 82: 95–119.
+* Cook, R.T., 2005, “What’s Wrong with Tonk?”, *Journal of Philosophical Logic*, 34: 217–226.
+* Cross, C., and F. Roelofsen, 2018, “Questions”, *Stanford Encyclopedia of Philosophy* (Spring 2018 Edition), Edward N. Zalta (ed.), URL = \&lgt;https://plato.stanford.edu/archives/spr2018/entries/questions/>.
+* Dalla Chiara, Maria Luisa, R. Giuntini, and R. Greechie, 2004, *Reasoning in Quantum Theory: Sharp and Unsharp Quantum Logics*, Dordrecht: Kluwer.
+* Davies, Martin, and Lloyd Humberstone, 1980, “Two Notions of Necessity”, *Philosophical Studies*, 38: 1–30.
+* de Jongh, D.H.J., and L.A. Chagrova, 1995, “The Decidability of Dependency in Intuitionistic Propositional Logic”, *Journal of Symbolic Logic*, 60: 498–504.
+* Deutsch, David, 1989, “Quantum Computational Networks”, *Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences*, 425: 73–90.
+* Deutsch, David, Artur Ekert, and Rossella Lupacchini, 2000, “Machines, Logic and Quantum Physics”, *Bulletin of Symbolic Logic*, 6: 265–283.
+* Dicher, Bogdan, 2016, “Weak Disharmony: Some Lessons for Proof-Theoretic Semantics”, *Review of Symbolic Logic*, 9: 583–602.
+* Došen, Kosta, and Peter Schroeder-Heister, 1985, “Conservativeness and Uniqueness”, *Theoria*, 51: 159–173.
+* –––, 1988, “Uniqueness, Definability and Interpolation”, *Journal of Symbolic Logic*, 53: 554–570.
+* Dummett, M.A., 1991, *The Logical Basis of Metaphysics*, Cambridge, Massachusetts: Harvard University Press.
+* Dunn, J.M., and G.M. Hardegree, 2001, *Algebraic Methods in Philosophical Logic*, Oxford: Clarendon Press.
+* Ertola Biraben, R.C., 2012, “On Some Extensions of Intuitionistic Logic”, *Bulletin of the Section of Logic*, 41: 17–22.
+* Ertola Biraben, R.C., and H. J. San Martín, 2011, “On Some Compatible Operations on Heyting Algebras ”, *Studia Logica*, 98: 331–345.
+* Fariñas del Cerro, Luis, and Andreas Herzig, 1996, “Combining Classical and Intuitionistic Logic”, in *Frontiers of Combining Systems*, F. Baader and K. Schulz (eds.), Dordrecht: Kluwer, pp. 93–102.
+* Font, J.M., and P. Hájek, 2002, “On Łukasiewicz’s Four-Valued Modal Logic”, *Studia Logica*, 70: 157–182.
+* Francez, Nissim, 2014, “Harmony in Multiple-Conclusion Natural-Deduction”, *Logica Universalis*, 8: 215–259.
+* Francez, Nissim, and Roy Dyckhoff, 2012, “A Note on Harmony”, *Journal of Philosophical Logic*, 41: 613–628.
+* Fusco, Melissa, 2015, “Deontic Modality and The Semantics of Choice”, *Philosophers’ Imprint* 15, Article No. 28.
+* –––, 2019, “Naturalizing Deontic Logic: Indeterminacy, Diagonalization, and Self-Affirmation”, to appear in *Philosophical Perspectives*.
+* Gabbay, D.M., 1977, “On Some New Intuitionistic Propositional Connectives, I”, *Studia Logica*, 36: 127–139.
+* –––, 1978, “What is a Classical Connective?”, *Zeitschr. für math. Logik und Grundlagen der Math.*, 24: 37–44.
+* –––, 1981, *Semantical Investigations in Heyting’s Intuitionistic Logic*, Dordrecht: Reidel.
+* Garson, James W., 1990, “Categorical Semantics”, in *Truth or Consequences: Essays in Honor of Nuel Belnap*, J.M. Dunn and A. Gupta (eds.), Dordrecht: Kluwer, pp. 155–175.
+* –––, 2001, “Natural Semantics: Why Natural Deduction is Intuitionistic”, *Theoria*, 67: 114–139.
+* –––, 2013, *What Logics Mean: From Proof Theory to Model-Theoretic Semantics*, Cambridge: Cambridge University Press.
+* Gentzen, G., 1934, “Untersuchungen über das Logische Schliessen”, *Math. Zeitschrift*, 39: 176–210, 405–431; English translation in *The Collected Papers of Gerhard Genzen*, M. Szabo (ed.), Amsterdam: North-Holland, 1969.
+* Girard, Jean-Yves, 1987, “Linear Logic”, *Theoretical Computer Science*, 50: 1–102.
+* Girard, Jean-Yves, with Paul Taylor and Yves Lafont, 1989, *Proofs and Types*, Cambridge: Cambridge University Press.
+* Groenendijk, Jeroen, and Martin Stokhof, 1982, “Semantic Analysis of *Wh*-Complements”, *Linguistics and Philosophy*, 5: 175–233.
+* Hamblin, C.L., 1967, “One-Valued Logic”, *Philosophical Quarterly*, 17: 38–45.
+* Hand, Michael, 1993, “Negations in Conflict”, *Erkenntnis*, 38: 115–29.
+* Hart, W.D., 1982, “Prior and Belnap”, *Theoria*, 48: 127–138.
+* Harris, J.H., 1982, “What’s so Logical about the ‘Logical’ Axioms?”, *Studia Logica*, 41: 159–171.
+* Hodes, Harold, 2004, “On the Sense and Reference of a Logical Constant”, *Philosophical Quarterly*, 54: 134–165.
+* Hjortland, Ole, 2012, “Harmony and the Context of Deducibility”, in *Insolubles and Consequences: Essays in Honour of Stephen Read*, Dutilh Novaes, C., and O. T. Hjorltand (eds.), London: College Publications, pp. 105–117.
+* Hösli, Brigitte, and Gerhard Jäger, 1994, “About Some Symmetries of Negation”, *Journal of Symbolic Logic*, 59: 473–485.
+* Hudson, James L., 1975, “Logical Subtraction”, *Analysis*, 35: 130–135.
+* Huet, Gérard, and Gordon Plotkin (eds.), 1991, *Logical Frameworks*, Cambridge: Cambridge University Press.
+* Humberstone, Lloyd, 1995, “Negation by Iteration”, *Theoria*, 61: 1–24.
+* –––, 1998, “Many-Valued Logics, Philosophical Issues in”, *Routledge Encyclopedia of Philosophy, Vol. 6*, E. Craig (ed.), Routledge: London, pp. 84–91.
+* –––, 2000, “Parts and Partitions”, *Theoria*, 66: 41–82.
+* –––, 2002, “The Modal Logic of Agreement and Noncontingency”, *Notre Dame Journal of Formal Logic*, 43: 95–127.
+* –––, 2011, *The Connectives*, Cambridge MA: MIT Press.
+* –––, 2013, “Logical Relations”, *Philosophical Perspectives*, 27: 176–230.
+* –––, 2014, “Prior’s OIC Nonconservativity Example Revisited”, *Journal of Applied Non-Classical Logics*, 24: 209–235.
+* –––, 2015, “Béziau on *And* and *Or*”, in *The Road to Universal Logic: Festschrift for the 50th Birthday of Jean-Yves Béziau, Volume I*, A. Koslow and A. Buchsbaum (eds.), Heidelberg: Birkhäuser, pp. 283–307.
+* –––, 2016, *Philosophical Applications of Modal Logic*, London: College Publications.
+* –––, 2019, “Supervenience, Dependence, Disjunction”, *Logic and Logical Philosophy*, 28: 3–135.
+* Hyde, Dominic, 1997, “From Heaps and Gaps to Heaps of Gluts”, *Mind*, 106: 641–60.
+* Jankov, V.A., 1969, “Conjunctively Indecomposable Formulas in Propositional Calculi”, *Math. USSR—Izvestija*, 3: 17–35.
+* Kaminski, M. 1988, “Nonstandard Connectives of Intuitionistic Propositional Logic”, *Notre Dame Journal of Formal Logic*, 29: 309–331.
+* Kalinowski, Georges, 1967, review of L. S. Rogowski, “Logika kierunkowa a heglowska teza o sprzeczności zmiany” \[Directional logic and Hegel’s thesis on the contradiction of change (1964)], *Revue Philosophique de Louvain*, 86: 239–241.
+* Koslow, A., 1992, *A Structuralist Theory of Logic*, Cambridge: Cambridge University Press.
+* Leblanc, Hugues, 1966, “Two Separation Theorems for Natural Deduction”, *Notre Dame Journal of Formal Logic*, 7: 159–180.
+* Lemmon, E.J., 1965, *Beginning Logic*, London: Nelson.
+* Lewis, David, 1982 “‘Whether’ Report”, T. Pauli (ed.), *⟨320311⟩: Philosophical Essays Dedicated to Lennart Aqvist on his Fiftieth Birthday*, T. Pauli (ed.), University of Uppsala, pp. 194–206.
+* López-Escobar, E.G.K., 1985, “On Intuitionistic Sentential Connectives. I”, *Revista Colombiana de Matemáticas*, 19: 117–130.
+* Łukasiewicz, Jan, 1953, “A System of Modal Logic”, *Journal of Computing Systems*, 1: 111–149. Reprinted in *Jan Łukasiewicz: Selected Works*, L. Borkowski (ed.), Amsterdam: North-Holland, 1970.
+* MacFarlane, John, 2015, “Logical Constants”, *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/logical-constants/](https://plato.stanford.edu/archives/sum2015/entries/logical-constants/).
+* Makinson, David, 2014, “Intelim Rules for Classical Connectives”, in *David Makinson on Classical Methods for Non-Classical Problems*, S. O. Hansson (ed.), Dordrecht: Springer, pp. 359–385.
+* McNamara, Paul, 2019, “Deontic Logic”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N. Zalta (ed.), URL = < [https://plato.stanford.edu/archives/sum2019/entries/logic-deontic/](https://plato.stanford.edu/archives/sum2019/entries/logic-deontic/)>.
+* Meyer, Robert K., 1974, “Entailment is not Strict Implication”, *Australasian Journal of Philosophy*, 52: 211–231.
+* Milne, Peter, 1994, “Classical Harmony: Rules of Inference and the Meaning of the Logical Constants”, *Synthese*, 100: 49–94.
+* –––, 2002, “Harmony, Purity, Simplicity and a ‘Seemingly Magical Fact’”, *The Monist*, 85: 498–534.
 * –––, 2015, “Inversion Principles and Introduction Rules”, in Wansing (2015), pp. 189–224.
-* Morton, Adam, 1973, “Denying the Doctrine and Changing the Subject”, _Journal of Philosophy_, 70: 503–510.
-* Ono, Hiroakira, and Yuichi Komori, 1985, “Logics without the Contraction Rule”, _Journal of Symbolic Logic_, 50: 169–201.
-* Orłowska, Ewa, 1985, “Semantics of Nondeterministic Possible Worlds”, _Bulletin of the Polish Academy of Sciences (Mathematics)_, 33: 453–458.
-* Pahi, B., 1971, “Full Models and Restricted Extensions of Propositional Calculi”, _Zeitschr. für math. Logik und Grundlagen der Math._, 17: 5–10.
-* Peacocke, Christopher, 1987, “Understanding Logical Constants: A Realist’s Account”, _Proceedings of the British Academy_, 73: 153–199.
-* Poggiolesi, Francesca, and Greg Restall, 2012, “Interpreting and Applying Proof Theories for Modal Logic”, in _New Waves in Philosophical Logic_, G. Restall and G. Russell (eds.), New York: Palgrave Macmillan, pp. 39–62.
-* Pollard, Stephen, 2002, “The Expressive Truth Conditions of Two-Valued Logic”, _Notre Dame Journal of Formal Logic_, 43: 221–230.
-* Pollard, Stephen, and Norman M. Martin, 1996, “Closed Bases and Closure Logic”, _The Monist_, 79: 117–127.
-* Popper, Karl, 1948, “On the Theory of Deduction”, _Indagationes Math._, 10: 44–54, 111–120.
-* Porte, Jean, 1979, “The Ω-System and the Ł-System of Modal Logic”, _Notre Dame Journal of Formal Logic_, 20: 915–920.
-* Priest, Graham, 2006, _Doubt Truth to Be a Liar_, Oxford: Oxford University Press.
-* Prior, A.N., 1957, _Time and Modality_, Oxford: Clarendon Press.
-* –––, 1960, “The Runabout Inference-Ticket”, _Analysis_, 21: 38–39. Reprinted in _Papers in Logic and Ethics_, P.T. Geach and A. Kenny (eds.), London: Duckworth, 1976, pp. 85–87.
-* –––, 1964, “Conjunction and Contonktion Revisited”, _Analysis_, 24: 191–5. Reprinted in _Papers in Logic and Ethics_, P.T. Geach and A. Kenny (eds.), London: Duckworth, 1976, pp. 159–164.
-* Quine, W.V., 1951, _Mathematical Logic_, Cambridge, Massachusetts: Harvard University Press.
-* Rabinowicz, W., and K. Segerberg, 1994, “Actual Truth, Possible Knowledge”, _Topoi_ 13: 101–115.
-* Rahman, Shahid, 2012, “Negation in the Logic of First Degree Entailment and _Tonk_: a Dialogical Study”, in _The Realism-Antirealism Debate in the Age of Alternative Logics_, S. Rahman, G. Primiero, and M. Marion (eds.), pp. 213–250, Berlin: Springer.
-* Rautenberg, Wolfgang, 1981, “2-Element Matrices”, _Studia Logica_, 40: 315–353.
-* –––, 1985, “Consequence Relations of 2-Element Algebras”, in _Foundations of Logic and Linguistics: Problems and their Solutions_, G. Dorn and P. Weingartner (eds.), New York: Plenum Press, pp. 3–23.
-* –––, 1989, “A Calculus for the Common Rules of ∧ and ∨”, _Studia Logica_, 48: 531–537.
-* –––, 1991, “Common Logic of 2-Valued Semigroup Connectives”, _Zeitschr. für math. Logik und Grundlagen der Math._, 37: 187–192.
-* Read, Stephen, 1988, _Relevant Logic_, Oxford: Basil Blackwell.
-* –––, 2000, “Harmony and Autonomy in Classical Logic”, _Journal of Philosophical Logic_, 29: 123–154.
-* –––, 2010, “General-Elimination Harmony and the Meaning of the Logical Constants”, _Journal of Philosophical Logic_, 39, 557–76.
+* Morton, Adam, 1973, “Denying the Doctrine and Changing the Subject”, *Journal of Philosophy*, 70: 503–510.
+* Ono, Hiroakira, and Yuichi Komori, 1985, “Logics without the Contraction Rule”, *Journal of Symbolic Logic*, 50: 169–201.
+* Orłowska, Ewa, 1985, “Semantics of Nondeterministic Possible Worlds”, *Bulletin of the Polish Academy of Sciences (Mathematics)*, 33: 453–458.
+* Pahi, B., 1971, “Full Models and Restricted Extensions of Propositional Calculi”, *Zeitschr. für math. Logik und Grundlagen der Math.*, 17: 5–10.
+* Peacocke, Christopher, 1987, “Understanding Logical Constants: A Realist’s Account”, *Proceedings of the British Academy*, 73: 153–199.
+* Poggiolesi, Francesca, and Greg Restall, 2012, “Interpreting and Applying Proof Theories for Modal Logic”, in *New Waves in Philosophical Logic*, G. Restall and G. Russell (eds.), New York: Palgrave Macmillan, pp. 39–62.
+* Pollard, Stephen, 2002, “The Expressive Truth Conditions of Two-Valued Logic”, *Notre Dame Journal of Formal Logic*, 43: 221–230.
+* Pollard, Stephen, and Norman M. Martin, 1996, “Closed Bases and Closure Logic”, *The Monist*, 79: 117–127.
+* Popper, Karl, 1948, “On the Theory of Deduction”, *Indagationes Math.*, 10: 44–54, 111–120.
+* Porte, Jean, 1979, “The Ω-System and the Ł-System of Modal Logic”, *Notre Dame Journal of Formal Logic*, 20: 915–920.
+* Priest, Graham, 2006, *Doubt Truth to Be a Liar*, Oxford: Oxford University Press.
+* Prior, A.N., 1957, *Time and Modality*, Oxford: Clarendon Press.
+* –––, 1960, “The Runabout Inference-Ticket”, *Analysis*, 21: 38–39. Reprinted in *Papers in Logic and Ethics*, P.T. Geach and A. Kenny (eds.), London: Duckworth, 1976, pp. 85–87.
+* –––, 1964, “Conjunction and Contonktion Revisited”, *Analysis*, 24: 191–5. Reprinted in *Papers in Logic and Ethics*, P.T. Geach and A. Kenny (eds.), London: Duckworth, 1976, pp. 159–164.
+* Quine, W.V., 1951, *Mathematical Logic*, Cambridge, Massachusetts: Harvard University Press.
+* Rabinowicz, W., and K. Segerberg, 1994, “Actual Truth, Possible Knowledge”, *Topoi* 13: 101–115.
+* Rahman, Shahid, 2012, “Negation in the Logic of First Degree Entailment and *Tonk*: a Dialogical Study”, in *The Realism-Antirealism Debate in the Age of Alternative Logics*, S. Rahman, G. Primiero, and M. Marion (eds.), pp. 213–250, Berlin: Springer.
+* Rautenberg, Wolfgang, 1981, “2-Element Matrices”, *Studia Logica*, 40: 315–353.
+* –––, 1985, “Consequence Relations of 2-Element Algebras”, in *Foundations of Logic and Linguistics: Problems and their Solutions*, G. Dorn and P. Weingartner (eds.), New York: Plenum Press, pp. 3–23.
+* –––, 1989, “A Calculus for the Common Rules of ∧ and ∨”, *Studia Logica*, 48: 531–537.
+* –––, 1991, “Common Logic of 2-Valued Semigroup Connectives”, *Zeitschr. für math. Logik und Grundlagen der Math.*, 37: 187–192.
+* Read, Stephen, 1988, *Relevant Logic*, Oxford: Basil Blackwell.
+* –––, 2000, “Harmony and Autonomy in Classical Logic”, *Journal of Philosophical Logic*, 29: 123–154.
+* –––, 2010, “General-Elimination Harmony and the Meaning of the Logical Constants”, *Journal of Philosophical Logic*, 39, 557–76.
 * –––, 2015, “General-Elimination Harmony and Higher-Level Rules”, in Wansing (2015), pp. 293–312.
-* Restall, Greg, 1993, “How to be _Really_ Contraction Free”, _Studia Logica_, 52: 381–391.
-* –––, 1999, “Negation in Relevant Logics”, in _What is Negation?_, D.M. Gabbay and H. Wansing (eds.), Dordrecht: Kluwer, pp. 53–76.
-* –––, 2000, _An Introduction to Substructural Logics_, London: Routledge.
-* Rousseau, G.F., 1968, “Sheffer Functions in Intuitionistic Logic”, _Zeitschr. für math. Logik und Grundlagen der Math._, 14: 279–282.
-* Schroeder-Heister, Peter, 1984, “Popper’s Theory of Deductive Inference and the Concept of a Logical Constant”, _History and Philosophy of Logic_, 5: 79–110.
-* –––, 2014, “Proof-Theoretic Semantics ”, _The Stanford Encyclopedia of Philosophy_ (Summer 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2014/entries/proof-theoretic-semantics/](https://plato.stanford.edu/archives/sum2014/entries/proof-theoretic-semantics/).
+* Restall, Greg, 1993, “How to be *Really* Contraction Free”, *Studia Logica*, 52: 381–391.
+* –––, 1999, “Negation in Relevant Logics”, in *What is Negation?*, D.M. Gabbay and H. Wansing (eds.), Dordrecht: Kluwer, pp. 53–76.
+* –––, 2000, *An Introduction to Substructural Logics*, London: Routledge.
+* Rousseau, G.F., 1968, “Sheffer Functions in Intuitionistic Logic”, *Zeitschr. für math. Logik und Grundlagen der Math.*, 14: 279–282.
+* Schroeder-Heister, Peter, 1984, “Popper’s Theory of Deductive Inference and the Concept of a Logical Constant”, *History and Philosophy of Logic*, 5: 79–110.
+* –––, 2014, “Proof-Theoretic Semantics ”, *The Stanford Encyclopedia of Philosophy* (Summer 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2014/entries/proof-theoretic-semantics/](https://plato.stanford.edu/archives/sum2014/entries/proof-theoretic-semantics/).
 * –––, 2015, “Harmony in Proof-Theoretic Semantics: A Reductive Analysis”, in Wansing (2015), pp. 329–358.
-* Segerberg, Krister, 1982, _Classical Propositional Operators_, Oxford: Clarendon.
-* Setlur, R.V., 1970, “The Product of Implication and Counter-Implication Systems”, _Notre Dame Journal of Formal Logic_, 11: 241–248.
-* Shoesmith, D. J., and T.J. Smiley, 1978, _Multiple-Conclusion Logic_, Cambridge: Cambridge University Press.
-* Smiley, T.J., 1961, “On Łukasiewicz’s Ł-modal System”, _Notre Dame Journal of Formal Logic_, 2: 149–153.
-* –––, 1962, “The Independence of Connectives”, _Journal of Symbolic Logic_, 27: 426–436.
-* Stalnaker, Robert, 1978, “Assertion”, in P. Cole (ed.), _Syntax and Semantics 9: Pragmatics_, New York: New York Academic Press, pp. 315–332.
-* Steinberger, Florian, 2011, “What Harmony Could and Could Not Be”, _Australasian Journal of Philosophy_, 89: 617–639.
-* Stevenson, J.T., 1961, “Roundabout the Runabout Inference-Ticket”, _Analysis_, 21: 124–128.
-* Sundholm, Göran, 2001, “The Proof Theory of Stig Kanger: A Personal Reflection”, in _Collected Papers of Stig Kanger, With Essays on His Life and Work_, G. Holmström-Hintikka, S. Lindström, and R. Slivinski (eds.), Dordecht: Kluwer, Vol. II, pp. 31–42.
-* Tennant, Neil, 1978, _Natural Logic_, Edinburgh: Edinburgh University Press.
-* –––, 1987, _Anti-Realism and Logic_, Oxford: Clarendon Press.
-* –––, 2005, “Rule-Circularity and the Justification of Deduction”, _Philosophical Quarterly_, 55: 625–645.
-* Troelstra, A.S., 1992, _Lectures on Linear Logic_, (Series: CSLI Lecture Notes, Number 29), Stanford, California: CSLI Publications.
-* Turzyński, Konrad, 1990, “The Temporal Functors in the Directional Logic of Rogowski: Some Results”, _Bulletin of the Section of Logic_, 19: 30–32.
-* Urquhart, Alasdair, 1974, “Implicational Formulas in Intuitionistic Logic”, _Journal of Symbolic Logic_, 39: 661–664.
-* Wagner, Steven, 1981, “Tonk”, _Notre Dame Journal of Formal Logic_, 22: 289–300.
-* Wansing, Heinrich, 2006, “Connectives Stranger than Tonk”, _Journal of Philosophical Logic_, 35: 653–660.
-* –––, 2015, (ed.), _Dag Prawitz on Proofs and Meaning_, Basel: Springer.
-* Weir, Alan, 1986, “Classical Harmony”, _Notre Dame Journal of Formal Logic_, 27: 459–482.
-* Williamson, Timothy, 2006a, “Indicative versus Subjunctive Conditionals, Congruential versus Non-Hyperintensional Contexts”, _Philosophical Issues_, 16: 310–333.
-* –––, 2006b, “Conceptual Truth”, _Aristotelian Society Supplementary Volume_, 80: 1–41.
-* –––, 2012, “Boghossian and Casalegno on Understanding and Inference”, _Dialectica_, 66: 237–247.
-* Woods, Jack, 2013, “Failures of Categoricity and Compositionality for Intuitionistic Disjunction”, _Thought_, 1: 281–291.
-* Yablo, Stephen, 2014, _Aboutness_, Princeton: Princeton University Press.
-* Zolin, Evgeni E., 2000, “Embeddings of Propositional Monomodal Logics”, _Logic Journal of the IGPL_, 8: 861–882.
+* Segerberg, Krister, 1982, *Classical Propositional Operators*, Oxford: Clarendon.
+* Setlur, R.V., 1970, “The Product of Implication and Counter-Implication Systems”, *Notre Dame Journal of Formal Logic*, 11: 241–248.
+* Shoesmith, D. J., and T.J. Smiley, 1978, *Multiple-Conclusion Logic*, Cambridge: Cambridge University Press.
+* Smiley, T.J., 1961, “On Łukasiewicz’s Ł-modal System”, *Notre Dame Journal of Formal Logic*, 2: 149–153.
+* –––, 1962, “The Independence of Connectives”, *Journal of Symbolic Logic*, 27: 426–436.
+* Stalnaker, Robert, 1978, “Assertion”, in P. Cole (ed.), *Syntax and Semantics 9: Pragmatics*, New York: New York Academic Press, pp. 315–332.
+* Steinberger, Florian, 2011, “What Harmony Could and Could Not Be”, *Australasian Journal of Philosophy*, 89: 617–639.
+* Stevenson, J.T., 1961, “Roundabout the Runabout Inference-Ticket”, *Analysis*, 21: 124–128.
+* Sundholm, Göran, 2001, “The Proof Theory of Stig Kanger: A Personal Reflection”, in *Collected Papers of Stig Kanger, With Essays on His Life and Work*, G. Holmström-Hintikka, S. Lindström, and R. Slivinski (eds.), Dordecht: Kluwer, Vol. II, pp. 31–42.
+* Tennant, Neil, 1978, *Natural Logic*, Edinburgh: Edinburgh University Press.
+* –––, 1987, *Anti-Realism and Logic*, Oxford: Clarendon Press.
+* –––, 2005, “Rule-Circularity and the Justification of Deduction”, *Philosophical Quarterly*, 55: 625–645.
+* Troelstra, A.S., 1992, *Lectures on Linear Logic*, (Series: CSLI Lecture Notes, Number 29), Stanford, California: CSLI Publications.
+* Turzyński, Konrad, 1990, “The Temporal Functors in the Directional Logic of Rogowski: Some Results”, *Bulletin of the Section of Logic*, 19: 30–32.
+* Urquhart, Alasdair, 1974, “Implicational Formulas in Intuitionistic Logic”, *Journal of Symbolic Logic*, 39: 661–664.
+* Wagner, Steven, 1981, “Tonk”, *Notre Dame Journal of Formal Logic*, 22: 289–300.
+* Wansing, Heinrich, 2006, “Connectives Stranger than Tonk”, *Journal of Philosophical Logic*, 35: 653–660.
+* –––, 2015, (ed.), *Dag Prawitz on Proofs and Meaning*, Basel: Springer.
+* Weir, Alan, 1986, “Classical Harmony”, *Notre Dame Journal of Formal Logic*, 27: 459–482.
+* Williamson, Timothy, 2006a, “Indicative versus Subjunctive Conditionals, Congruential versus Non-Hyperintensional Contexts”, *Philosophical Issues*, 16: 310–333.
+* –––, 2006b, “Conceptual Truth”, *Aristotelian Society Supplementary Volume*, 80: 1–41.
+* –––, 2012, “Boghossian and Casalegno on Understanding and Inference”, *Dialectica*, 66: 237–247.
+* Woods, Jack, 2013, “Failures of Categoricity and Compositionality for Intuitionistic Disjunction”, *Thought*, 1: 281–291.
+* Yablo, Stephen, 2014, *Aboutness*, Princeton: Princeton University Press.
+* Zolin, Evgeni E., 2000, “Embeddings of Propositional Monomodal Logics”, *Logic Journal of the IGPL*, 8: 861–882.
 
 ### Academic Tools
 
@@ -797,7 +796,7 @@ Id-归纳性在 Kaminski (1988)中被称为“正则性”；关于 Id-归纳性
 
 #### Acknowledgments
 
-I am grateful to Thomas Hendrey for drawing my attention (in 2011) to an error in the initial version of this entry, at a point in Section 2 after the formulation of the rules (∧I) and (∧E), where the discussion included the following: “Typically ⊢ will also be determined by many further classes of valuations (meaning: other than the class Val(⊢) of all valuations consistent with ⊢), various subsets of Val(⊢), but not so, as just remarked, in the present case.” By “the present case” was meant the case of ⊢ = ⊢∧. As Hendrey pointed out, this consequence relation is determined by numerous proper subsets of the set of all ∧-Boolean valuations, so the claim is false. In a moment of inattention I had confusingly passed from the correct thought that the only valuations consistent with ⊢∧ are the ∧-Boolean ones to the faulty conclusion that the only class of valuations determining ⊢∧ is the class of all ∧-Boolean valuations. (Many counterexamples could be given to this latter claim but one offered by Hendrey is particularly interesting: the class of all those ∧-Boolean valuations with the further property that they make at most one sentence letter false.) The reference to subsets of Val(⊢) was ill-conceived, since the point of contrast with, e.g., ⊢∨, taken as the consequence relation (on the language with sole connective ∨) determined by the class of all ∨-Boolean valuations is also determined by classes of valuations which are _not_ subsets of this class since we can include also conjunctive combinations of ∨-Boolean valuations. By contrast, ⊢∧ can only be determined by classes of valuations all of which are ∧-Boolean.
+I am grateful to Thomas Hendrey for drawing my attention (in 2011) to an error in the initial version of this entry, at a point in Section 2 after the formulation of the rules (∧I) and (∧E), where the discussion included the following: “Typically ⊢ will also be determined by many further classes of valuations (meaning: other than the class Val(⊢) of all valuations consistent with ⊢), various subsets of Val(⊢), but not so, as just remarked, in the present case.” By “the present case” was meant the case of ⊢ = ⊢∧. As Hendrey pointed out, this consequence relation is determined by numerous proper subsets of the set of all ∧-Boolean valuations, so the claim is false. In a moment of inattention I had confusingly passed from the correct thought that the only valuations consistent with ⊢∧ are the ∧-Boolean ones to the faulty conclusion that the only class of valuations determining ⊢∧ is the class of all ∧-Boolean valuations. (Many counterexamples could be given to this latter claim but one offered by Hendrey is particularly interesting: the class of all those ∧-Boolean valuations with the further property that they make at most one sentence letter false.) The reference to subsets of Val(⊢) was ill-conceived, since the point of contrast with, e.g., ⊢∨, taken as the consequence relation (on the language with sole connective ∨) determined by the class of all ∨-Boolean valuations is also determined by classes of valuations which are *not* subsets of this class since we can include also conjunctive combinations of ∨-Boolean valuations. By contrast, ⊢∧ can only be determined by classes of valuations all of which are ∧-Boolean.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Lloyd Humberstone <[_lloyd.humberstone@arts.monash.edu.au_](mailto:lloyd%2ehumberstone%40arts%2emonash%2eedu%2eau)>
+Lloyd Humberstone <[*lloyd.humberstone@arts.monash.edu.au*](mailto:lloyd%2ehumberstone%40arts%2emonash%2eedu%2eau)>

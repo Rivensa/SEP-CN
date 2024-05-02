@@ -1,6 +1,6 @@
 # 认知障碍与道德地位 cognitive disability and moral status (David Wasserman, Adrienne Asch, Jeffrey Blustein, and Daniel Putnam)
 
-_首次发布于 2012 年 7 月 6 日；实质性修订于 2017 年 8 月 11 日_
+*首次发布于 2012 年 7 月 6 日；实质性修订于 2017 年 8 月 11 日*
 
 为什么认知障碍和道德地位被认为有足够的关联性，值得单独讨论呢？原因在于，患认知障碍的个体在关于自我意识和实践理性等智力属性对道德具有重要意义的讨论中被用作案例。如果相当大比例的人类缺乏自我意识和实践理性，那么这些属性本身就不能区分我们对待认知发育良好的人类与我们对待非人类动物和人类胎儿的方式。如果我们不能对缺乏这些属性的人类进行实验或杀害，那么仅仅缺乏这些属性本身不能成为正当化动物实验或堕胎的理由。
 
@@ -13,7 +13,6 @@ _首次发布于 2012 年 7 月 6 日；实质性修订于 2017 年 8 月 11 日
 最后，在单独的条目中讨论认知障碍人类的道德地位，而不是在残疾的一般条目中，我们并不支持有关认知障碍的有争议的“例外论”——一种认为认知障碍与其他类型的障碍根本不同的观点。我们之所以限制讨论认知障碍，是 dialectical 的：目前没有关于非认知障碍个体的道德地位的争论。我们不知道有哪位认真的哲学家会认为那些看不见、听不见、或无法使用他们的腿，或者经常感到抑郁或幻觉的人，比没有这些障碍的人道德地位更低。诚然，一些哲学家声称认为身体或精神障碍的人与无障碍的人具有相同的道德地位，但同时持有一些其他哲学家认为与坚持平等道德地位不一致的立场。一个显著的例子是 Rawls（1971）排除患有身体残疾的人不符合完全合作社会成员的假设，因此不被纳入原始立场。另一个例子是在分配有限的医疗资源时捍卫“质量调整”，这种做法折算残疾人的寿命年限，以反映他们据称较低的生活质量（Williams 1987）。但无论这些立场是否与承认完全道德地位一致，它们的支持者坚持认为是一致的；他们并不试图反对认为身体或（大多数）精神障碍的人与无障碍人具有相同的道德地位。相比之下，具有认知障碍的人类的道德地位已经成为哲学家、应用伦理学家和残疾学者之间激烈辩论的话题。
 
 我们将按以下步骤进行。我们将首先描述道德地位辩论的主体——那些我们称之为“患有极端认知障碍”的人类。在讨论人类被归类为认知障碍的方式之后，我们将描述辩论涉及的人类更狭窄的范畴。需要明确的是，这是一组被规定存在的人类，而不是通过实证程序分类的。我们将指出很难区分关于这些被规定个体的说法和关于一些实际个体是否满足该规定的说法。接下来，我们将描述道德地位的概念，描述其结构和功能。然后，我们将概述对该概念理解的主要差异，特别是其“包含标准”——用于归因我们所称的“完全道德地位”的标准，这种地位被归属于认知非障碍的成年人类。 （在称该道德地位为“完全”时，我们并不打算在关于是否存在更高道德地位的争论中站队。）我们将确定一类道德地位观点家族——那些将拥有视为个体属性的人作为基础的观点——作为本文所讨论的挑战的主要来源，尽管不是唯一来源：即一些人类缺乏完全道德地位的说法。在概述这些观点之后，我们将回顾几种应对挑战的方式：1）将完全道德地位基于更多人类共享的个体属性；2）采用关于拥有完全道德地位的次要依据——“礼貌”或“代理”；3）拒绝个体属性观点，支持将所有人类的完全道德地位基于其物种成员资格或人类身份的观点。
-
 
 ***
 
@@ -205,7 +204,7 @@ Francis 和 Silvers 并不声称具有最严重认知障碍的人类的道德地
 
 对于像穆哈尔这样的人道主义者来说，参与独特的人类生活形式的能力既不是充分的道德地位的必要条件，也不是充分的条件（正如麦克马汉（2005）所假设的）。这种地位仅仅通过我们将一个个体视为人类，并认为他们是与我们一样承受着相同的“冲击和疾病”的继承人而建立起来。患有严重认知障碍的人类遭受着“严重的不幸”，如果他们无法分享他们的具体形式的共同生活，那么他们的地位并不会降低，因为他们的具体形式的共同生活是他们的体现所“嵌入”的。具有类似属性的非人类动物具有较低的道德地位，但并不会遭受类似的疏远或损失。他们参与自己物种的独特生活形式（如果有的话）并不取决于，而且很可能会受到，他们是否具有正常成年人类的认知属性的影响。
 
-批评者可能会承认，事实上我们对待人类和非人类动物持有这些不同的态度，但会质疑它们的道德意义：为什么我们应该认为某些能力的先天缺失是一种悲剧，_对于那些缺乏这些能力的个体_，只有当这个个体是人类时（麦克马汉 1996 年）？人道主义者会回应说，问题本身揭示了批评者对“人类”的概念并不清楚 - 这个概念包括了一个基于共同体现的共同生活的概念，而这种共同生活是基于共享的，而患有严重障碍的人类被排除在外。
+批评者可能会承认，事实上我们对待人类和非人类动物持有这些不同的态度，但会质疑它们的道德意义：为什么我们应该认为某些能力的先天缺失是一种悲剧，*对于那些缺乏这些能力的个体*，只有当这个个体是人类时（麦克马汉 1996 年）？人道主义者会回应说，问题本身揭示了批评者对“人类”的概念并不清楚 - 这个概念包括了一个基于共同体现的共同生活的概念，而这种共同生活是基于共享的，而患有严重障碍的人类被排除在外。
 
 Humanists are wary of grounding the full moral status of radically-impaired humans in their relationship to a species-norm like rationality. Thus, Byrne (2000) argues that appeal to the rational nature of human beings as the basis for respect is too reliant on external justification and too narrow. It is too reliant on claims about the respect owed to beings that are rational-by-nature, which Byrne doubts are any more self-evident or plausible than claims about the respect owed human beings. It is too narrow because it ignores other aspects of humanity that make the concept of “human being” so rich and powerful.
 
@@ -224,80 +223,80 @@ Humanists 对于将患有严重障碍的人类的完整道德地位建立在其�
 ## Bibliography
 
 * American Association on Intellectual and Developmental Disabilities. (2011). “Definition of Intellectual Disability.” [available online](http://www.aamr.org/content\100.cfm?navID=21) \[accessed 12 August 2011].
-* Berube, M., 1996. _Life as We Know It: A Father, a Family, and an Exceptional Child_, New York: Pantheon.
-* Birch, T., 1993. “Moral Considerability and Universal Consideration,” _Environmental Ethics_, 15: 313–332.
-* Brown, F. and Gothelf, C., 1996. “Community Life for all Individuals,” in _People with Disabilities Who Challenge the System_, D.H. Lehr and F. Brown (eds.), Baltimore: Paul H. Brookes Publishing Co., 175–188.
-* Byrne, P., 2000. _Philosophical and Ethical Problems in Mental Handicap_, New York: Palgrave.
-* Carlson, L., 2009. “Philosophers of Intellectual Disability: A Taxonomy,” _Metaphilosophy_, 40: 552–566.
-* Carlson, L. and Kittay, E., 2009. “Introduction: Rethinking Philosophical Presumptions in Light of Cognitive Disability,” _Metaphilosophy_, 40: 307–330.
-* Crary, A., 2007. “ Humans, Animals, Right and Wrong,” in _Wittgenstein and the Moral Life: Essays in Honor of Cora Diamond_, A. Crary (ed.), Cambridge, MA: MIT Press, 381–404.
-* Curtis, B. and Vehmas, S., 2016. “A Moorean argument for the full moral status of those with profound intellectual disability,” _Journal of Medical Ethics_, 42: 41–45.
-* DeGrazia, D., 2008. “Moral Status as a Matter of Degree?” _Southern Journal of Philosophy_, 46: 181–198.
-* Diamond, C., 1978. “Eating Meat and Eating People,” _Philosophy_, 53: 465–479.
-* DiSilvestro, R., 2010. _Human Capacities and Moral Status_, Dordrecht: Springer.
-* Dresser, R., 1995. “Dworkin on Dementia: “Elegant Theory, Questionable Policy,” _Hastings Center Report_, 25: 32–38.
-* Dworkin, R., 1994. _Life’s Dominion: An Argument about Abortion, Euthanasia, and Individual Freedom_, New York: Vintage Press.
-* Edwards, S., 1997. “The Moral Status of Intellectually Disabled Individuals,” _The Journal of Medicine and Philosophy_, 22: 29–42.
-* Feinberg, J., 1986. “Abortion” in _Matters of Life and Death_, 2nd edition, T. Regan (ed.), New York: Random House.
-* Francis, L., 2009. “Understanding autonomy in light of intellectual disability,” in _Disability and Disadvantage_, K. Brownlee and A. Cureton (eds.), New York: Oxford University Press, 200–215.
-* Francis, L. and Norman, R., 1978. “Some Animals are More Equal than Others,” _Philosophy_, 53: 518.
-* Gleeson, A., 2008. “Eating Meat and Reading Diamond,” _Philosophical Papers_, 37: 157–175.
-* Goode, D.A., 1994. _A World Without Words: The Social Construction of Children Born Deaf_, Philadelphia: Temple University Press.
-* Grau, C., 2015. “McMahan on Speciesism and Deprivation,” _The Southern Journal of Philosophy_, 53(2): 216–226.
-* –––, 2016. “A Sensible Speciesism?” _Philosophical Inquiries_, 4(1): 49–70.
-* Gunnarson, L., 2008. “Great Apes and the Severely Disabled: Moral Status and Thick Evaluative Concepts,” _Ethical Theory and Moral Practice_, 11: 305–326.
-* Hacker-Wright, J., 2007. “Moral Status in Virtue Ethics,” _Philosophy_, 82: 449–473.
-* Hanfling, O., 2001. “Thinking,” in _Wittgenstein: A Critical Reader_, H. Glock (ed.), Malden, MA: Blackwell.
-* Harman, E., 2003. “The potentiality problem,” _Philosophical Studies_, 114(1–2): 173–198.
-* Harris, J., 1985. _The Value of Life_, London: Routledge.
-* Jaworska, A., 1999. “Respecting the Margins of Agency: Alzheimer’s Patients and the Capacity to Value,” _Philosophy and Public Affairs_, 28: 105–138.
-* –––, 2007. “Caring and Full Moral Standing,” _Ethics_, 117: 460–97.
-* Jaworska, A. and Tannenbaum, J., 2015. “Who Has the Capacity to Participate as a Rearee in a Person-Rearing Relationship?” _Ethics_, 125(4): 1096–1113.
-* Kagan, S., 2016. “What’s Wrong with Speciesism? (Society for Applied Philosophy Annual Lecture 2015).” _Journal of Applied Philosophy_, 33: 1–21.
-* Kain, P., 2009. “Kant’s Defense of Human Moral Status,” _Journal of the History of Philosophy_, 47: 59–102.
-* Kittay, E., 1999. _Love’s Labor: Essays on Women, Equality, and Dependency_, New York: Routledge.
-* –––, 2005. “At the Margins of Personhood,” _Ethics_, 116: 100–31.
-* –––, 2008. “Ideal Theory in Bioethics and the Exclusion of People with Severe Cognitive Disabilities,” in _Naturalized Bioethics: Toward Responsible Knowing and Practice_, H. Lindemann, M. Verkerk and M.U. Walker (eds.), Cambridge: Cambridge University Press, 218–237.
-* Korsgaard, C., 1996. _The Sources of Normativity_, Cambridge: Cambridge University Press.
-* Kumar, R., 2008. “Permissible Killing and the Irrelevance of Being Human,” _The Journal of Ethics_, 12: 57–80.
-* Liao. M., 2010. “The Basis of Human Moral Status,” _Journal of Moral Philosophy_, 7: 159–179.
-* McMahan, J., 1996. “Cognitive Disability, Misfortune, and Justice,” _Philosophy and Public Affairs_, 25:3–31.
-* –––, 2002. _The Ethics of Killing_, New York: Oxford.
-* –––, 2005. “Our Fellow Creatures,” _The Journal of Ethics_, 9: 353–380.
-* –––, 2007. “Infanticide,” _Utilitas_, 19: 131–159.
-* –––, 2008. “Challenges to Human Equality,” _The Journal of Ethics_, 12: 81–104.
-* –––, 2009. “Radical Cognitive Limitation,” in _Disability and Disadvantage_, K. Brownlee and A. Cureton (eds.), New York: Oxford University Press, 240–259.
-* –––, 2016. “On ‘Modal Personism’,” _Journal of Applied Philosophy_, 33: 26–30.
-* Mulhall, S., 2002. “Fearful Thoughts,” _London Review of Books_, 24: 18.
-* Mullin, A., 2011, “Children and the Argument from ‘Marginal’ Cases,” _Ethical Theory and Moral Practice_, 14: 291–305.
-* Newson, A.J., 2007. “Personhood and Moral Status,” in _Principles of Health Care Ethics_, 2nd edition, R.E. Ashcroft, A. Dawson, H. Draper and J.R. McMillan (eds.), Chichester: John Wiley & Sons, Ltd.
-* Nozick, R., 1974. _Anarchy, State, and Utopia_, New York: Basic Books.
-* Perring, C., 1997. “Degrees of Personhood,” _Journal of Medicine and Philosophy_, 22: 173–197.
-* Rawls, J., 1971. _A Theory of Justice_, Cambridge, MA.: Harvard University Press.
-* Roberts, A.J., 2016. “Pessimism About Motivating Modal Personism,” _Journal of Applied Philosophy_, published online 3 July 2016, doi: 10.1111/japp.12235
-* Rossi, J., 2010. “Is equal moral consideration really compatible with unequal moral status?” _Kennedy Institute Ethics Journal_, 20(3): 251–76.
-* Savulescu, J., 2009. “The Human Prejudice and the Moral Status of Enhanced Beings: What Do We Owe the Gods?” in _Human Enhancement_, J. Savulescu and N. Bostrom (eds.), New York: Oxford University Press, 211–250.
-* Sachs, B., 2011. “The Status of Moral Status,” _Pacific Philosophical Quarterly_, 92: 87–104.
-* Scanlon, T., 1998. _What We Owe to Each Other_, Cambridge, MA: Harvard University Press.
-* Shoemaker, D., 2007. “Moral Address, Moral Responsibility, and the Boundaries of the Moral Community,” _Ethics_, 118: 70–108.
-* Silvers, A. 2012. “Moral status: what a bad idea!” _Journal of Intellectual Disabily Research_, 56(11): 1014–25.
-* Silvers, A. and Francis, L., 2009. “Thinking about the good: reconfiguring liberal metaphysics (or not) for people with cognitive disabilities,” _Metaphilosophy_, 40: 475–498.
-* Singer, P., 1993. _Practical Ethics_, 2nd ed. Cambridge: Cambridge University Press.
-* –––, 2005. “Ethics and Intuitions,” _The Journal of Ethics_, 9: 331–352.
-* –––, 2009. “Speciesism and Moral Status,” _Metaphilosophy_, 40: 567–581.
-* –––, 2016. “Why Speciesism is Wrong: A Response to Kagan,” _Journal of Applied Philosophy_, 33(1): 31–35.
-* Stone, J., 2007. “Pascal’s Wager and the Persistent Vegetative State,” _Bioethics_, 21(2): 84–92.
-* Surovell, Jonathan, forthcoming. “But for the Grace of God: Abortion and Cognitive Disability, Luck and Moral Status” _Ethical Theory and Moral Practice_, published online 29 September 2016, doi:10.1007/s10677-016-9755-0
-* Townley, C., 2010. “Animals and Humans: Grounds for Separation?” _Journal of Social Philosophy_, 41: 512–526.
-* Tooley, M., 1983. _Abortion and Infanticide_, Oxford: Clarendon.
-* Walker, R.L. and King, N.M.P., 2011. “Biodefense Research and the U.S. Regulatory Structure: Whither Nonhuman Primate Moral Standing?” _Kennedy Institute of Ethics Journal_, 21: 277–310.
-* Warren, M.A., 1997. _Moral Status: Obligations to Persons and Other Living Things_, Oxford: Clarendon.
-* Wasserman, D., 2002. “Personal Identity and the Moral Appraisal of Prenatal Genetic Therapy,” in _Mutating Concepts, Evolving Disciplines: Genetics, Medicine, and Society_, L. Parker and R. Ankeny (eds.), Dordrecht: Kluwer, 235–264.
-* Wasserman, D. and McMahan, J., 2012. “Cognitive Surrogacy, Assisted Participation, and Moral Status,” in _Medicine and Social Justice_, 2nd edition, R. Rhodes, M. Battin, and A. Silvers (eds.), Oxford: Oxford University Press.
-* Williams, A., 1987. “Response: QUALYfying the Value of Life,” _Journal of Medical Ethics_, 13: 123.
-* Williams, B., 2006. “The Human Prejudice,” in _Philosophy as a Humanistic Discipline_, Princeton: Princeton University Press. 135–152.
-* Wittgenstein, L., 1958. _Philosophical Investigations_, Oxford: Oxford University Press.
-* Wong, S., 2007. “The Moral Personhood of Individuals Labeled ‘Mentally Retarded’: A Rawlsian Response to Nussbaum,” _Social Theory and Practice_, 33: 579–594.
+* Berube, M., 1996. *Life as We Know It: A Father, a Family, and an Exceptional Child*, New York: Pantheon.
+* Birch, T., 1993. “Moral Considerability and Universal Consideration,” *Environmental Ethics*, 15: 313–332.
+* Brown, F. and Gothelf, C., 1996. “Community Life for all Individuals,” in *People with Disabilities Who Challenge the System*, D.H. Lehr and F. Brown (eds.), Baltimore: Paul H. Brookes Publishing Co., 175–188.
+* Byrne, P., 2000. *Philosophical and Ethical Problems in Mental Handicap*, New York: Palgrave.
+* Carlson, L., 2009. “Philosophers of Intellectual Disability: A Taxonomy,” *Metaphilosophy*, 40: 552–566.
+* Carlson, L. and Kittay, E., 2009. “Introduction: Rethinking Philosophical Presumptions in Light of Cognitive Disability,” *Metaphilosophy*, 40: 307–330.
+* Crary, A., 2007. “ Humans, Animals, Right and Wrong,” in *Wittgenstein and the Moral Life: Essays in Honor of Cora Diamond*, A. Crary (ed.), Cambridge, MA: MIT Press, 381–404.
+* Curtis, B. and Vehmas, S., 2016. “A Moorean argument for the full moral status of those with profound intellectual disability,” *Journal of Medical Ethics*, 42: 41–45.
+* DeGrazia, D., 2008. “Moral Status as a Matter of Degree?” *Southern Journal of Philosophy*, 46: 181–198.
+* Diamond, C., 1978. “Eating Meat and Eating People,” *Philosophy*, 53: 465–479.
+* DiSilvestro, R., 2010. *Human Capacities and Moral Status*, Dordrecht: Springer.
+* Dresser, R., 1995. “Dworkin on Dementia: “Elegant Theory, Questionable Policy,” *Hastings Center Report*, 25: 32–38.
+* Dworkin, R., 1994. *Life’s Dominion: An Argument about Abortion, Euthanasia, and Individual Freedom*, New York: Vintage Press.
+* Edwards, S., 1997. “The Moral Status of Intellectually Disabled Individuals,” *The Journal of Medicine and Philosophy*, 22: 29–42.
+* Feinberg, J., 1986. “Abortion” in *Matters of Life and Death*, 2nd edition, T. Regan (ed.), New York: Random House.
+* Francis, L., 2009. “Understanding autonomy in light of intellectual disability,” in *Disability and Disadvantage*, K. Brownlee and A. Cureton (eds.), New York: Oxford University Press, 200–215.
+* Francis, L. and Norman, R., 1978. “Some Animals are More Equal than Others,” *Philosophy*, 53: 518.
+* Gleeson, A., 2008. “Eating Meat and Reading Diamond,” *Philosophical Papers*, 37: 157–175.
+* Goode, D.A., 1994. *A World Without Words: The Social Construction of Children Born Deaf*, Philadelphia: Temple University Press.
+* Grau, C., 2015. “McMahan on Speciesism and Deprivation,” *The Southern Journal of Philosophy*, 53(2): 216–226.
+* –––, 2016. “A Sensible Speciesism?” *Philosophical Inquiries*, 4(1): 49–70.
+* Gunnarson, L., 2008. “Great Apes and the Severely Disabled: Moral Status and Thick Evaluative Concepts,” *Ethical Theory and Moral Practice*, 11: 305–326.
+* Hacker-Wright, J., 2007. “Moral Status in Virtue Ethics,” *Philosophy*, 82: 449–473.
+* Hanfling, O., 2001. “Thinking,” in *Wittgenstein: A Critical Reader*, H. Glock (ed.), Malden, MA: Blackwell.
+* Harman, E., 2003. “The potentiality problem,” *Philosophical Studies*, 114(1–2): 173–198.
+* Harris, J., 1985. *The Value of Life*, London: Routledge.
+* Jaworska, A., 1999. “Respecting the Margins of Agency: Alzheimer’s Patients and the Capacity to Value,” *Philosophy and Public Affairs*, 28: 105–138.
+* –––, 2007. “Caring and Full Moral Standing,” *Ethics*, 117: 460–97.
+* Jaworska, A. and Tannenbaum, J., 2015. “Who Has the Capacity to Participate as a Rearee in a Person-Rearing Relationship?” *Ethics*, 125(4): 1096–1113.
+* Kagan, S., 2016. “What’s Wrong with Speciesism? (Society for Applied Philosophy Annual Lecture 2015).” *Journal of Applied Philosophy*, 33: 1–21.
+* Kain, P., 2009. “Kant’s Defense of Human Moral Status,” *Journal of the History of Philosophy*, 47: 59–102.
+* Kittay, E., 1999. *Love’s Labor: Essays on Women, Equality, and Dependency*, New York: Routledge.
+* –––, 2005. “At the Margins of Personhood,” *Ethics*, 116: 100–31.
+* –––, 2008. “Ideal Theory in Bioethics and the Exclusion of People with Severe Cognitive Disabilities,” in *Naturalized Bioethics: Toward Responsible Knowing and Practice*, H. Lindemann, M. Verkerk and M.U. Walker (eds.), Cambridge: Cambridge University Press, 218–237.
+* Korsgaard, C., 1996. *The Sources of Normativity*, Cambridge: Cambridge University Press.
+* Kumar, R., 2008. “Permissible Killing and the Irrelevance of Being Human,” *The Journal of Ethics*, 12: 57–80.
+* Liao. M., 2010. “The Basis of Human Moral Status,” *Journal of Moral Philosophy*, 7: 159–179.
+* McMahan, J., 1996. “Cognitive Disability, Misfortune, and Justice,” *Philosophy and Public Affairs*, 25:3–31.
+* –––, 2002. *The Ethics of Killing*, New York: Oxford.
+* –––, 2005. “Our Fellow Creatures,” *The Journal of Ethics*, 9: 353–380.
+* –––, 2007. “Infanticide,” *Utilitas*, 19: 131–159.
+* –––, 2008. “Challenges to Human Equality,” *The Journal of Ethics*, 12: 81–104.
+* –––, 2009. “Radical Cognitive Limitation,” in *Disability and Disadvantage*, K. Brownlee and A. Cureton (eds.), New York: Oxford University Press, 240–259.
+* –––, 2016. “On ‘Modal Personism’,” *Journal of Applied Philosophy*, 33: 26–30.
+* Mulhall, S., 2002. “Fearful Thoughts,” *London Review of Books*, 24: 18.
+* Mullin, A., 2011, “Children and the Argument from ‘Marginal’ Cases,” *Ethical Theory and Moral Practice*, 14: 291–305.
+* Newson, A.J., 2007. “Personhood and Moral Status,” in *Principles of Health Care Ethics*, 2nd edition, R.E. Ashcroft, A. Dawson, H. Draper and J.R. McMillan (eds.), Chichester: John Wiley & Sons, Ltd.
+* Nozick, R., 1974. *Anarchy, State, and Utopia*, New York: Basic Books.
+* Perring, C., 1997. “Degrees of Personhood,” *Journal of Medicine and Philosophy*, 22: 173–197.
+* Rawls, J., 1971. *A Theory of Justice*, Cambridge, MA.: Harvard University Press.
+* Roberts, A.J., 2016. “Pessimism About Motivating Modal Personism,” *Journal of Applied Philosophy*, published online 3 July 2016, doi: 10.1111/japp.12235
+* Rossi, J., 2010. “Is equal moral consideration really compatible with unequal moral status?” *Kennedy Institute Ethics Journal*, 20(3): 251–76.
+* Savulescu, J., 2009. “The Human Prejudice and the Moral Status of Enhanced Beings: What Do We Owe the Gods?” in *Human Enhancement*, J. Savulescu and N. Bostrom (eds.), New York: Oxford University Press, 211–250.
+* Sachs, B., 2011. “The Status of Moral Status,” *Pacific Philosophical Quarterly*, 92: 87–104.
+* Scanlon, T., 1998. *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
+* Shoemaker, D., 2007. “Moral Address, Moral Responsibility, and the Boundaries of the Moral Community,” *Ethics*, 118: 70–108.
+* Silvers, A. 2012. “Moral status: what a bad idea!” *Journal of Intellectual Disabily Research*, 56(11): 1014–25.
+* Silvers, A. and Francis, L., 2009. “Thinking about the good: reconfiguring liberal metaphysics (or not) for people with cognitive disabilities,” *Metaphilosophy*, 40: 475–498.
+* Singer, P., 1993. *Practical Ethics*, 2nd ed. Cambridge: Cambridge University Press.
+* –––, 2005. “Ethics and Intuitions,” *The Journal of Ethics*, 9: 331–352.
+* –––, 2009. “Speciesism and Moral Status,” *Metaphilosophy*, 40: 567–581.
+* –––, 2016. “Why Speciesism is Wrong: A Response to Kagan,” *Journal of Applied Philosophy*, 33(1): 31–35.
+* Stone, J., 2007. “Pascal’s Wager and the Persistent Vegetative State,” *Bioethics*, 21(2): 84–92.
+* Surovell, Jonathan, forthcoming. “But for the Grace of God: Abortion and Cognitive Disability, Luck and Moral Status” *Ethical Theory and Moral Practice*, published online 29 September 2016, doi:10.1007/s10677-016-9755-0
+* Townley, C., 2010. “Animals and Humans: Grounds for Separation?” *Journal of Social Philosophy*, 41: 512–526.
+* Tooley, M., 1983. *Abortion and Infanticide*, Oxford: Clarendon.
+* Walker, R.L. and King, N.M.P., 2011. “Biodefense Research and the U.S. Regulatory Structure: Whither Nonhuman Primate Moral Standing?” *Kennedy Institute of Ethics Journal*, 21: 277–310.
+* Warren, M.A., 1997. *Moral Status: Obligations to Persons and Other Living Things*, Oxford: Clarendon.
+* Wasserman, D., 2002. “Personal Identity and the Moral Appraisal of Prenatal Genetic Therapy,” in *Mutating Concepts, Evolving Disciplines: Genetics, Medicine, and Society*, L. Parker and R. Ankeny (eds.), Dordrecht: Kluwer, 235–264.
+* Wasserman, D. and McMahan, J., 2012. “Cognitive Surrogacy, Assisted Participation, and Moral Status,” in *Medicine and Social Justice*, 2nd edition, R. Rhodes, M. Battin, and A. Silvers (eds.), Oxford: Oxford University Press.
+* Williams, A., 1987. “Response: QUALYfying the Value of Life,” *Journal of Medical Ethics*, 13: 123.
+* Williams, B., 2006. “The Human Prejudice,” in *Philosophy as a Humanistic Discipline*, Princeton: Princeton University Press. 135–152.
+* Wittgenstein, L., 1958. *Philosophical Investigations*, Oxford: Oxford University Press.
+* Wong, S., 2007. “The Moral Personhood of Individuals Labeled ‘Mentally Retarded’: A Rawlsian Response to Nussbaum,” *Social Theory and Practice*, 33: 579–594.
 
 ## Academic Tools
 

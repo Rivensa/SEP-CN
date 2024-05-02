@@ -1,12 +1,11 @@
 # 博弈论与伦理学 and ethics (Keith Hankins and Peter Vanderschraaf)
 
-_首次发布于 2021 年 9 月 27 日星期一_
+*首次发布于 2021 年 9 月 27 日星期一*
 
 博弈论是研究相互依赖的选择和行动的学科。它包括战略决策的研究，分析理性主体的选择和决策如何依赖于（或应该受到）其他主体的选择，以及群体动态的研究，分析在各种情境下种群策略的分布如何演变以及这些分布如何影响个体互动的结果。它应与决策理论（研究主体在独立于其他主体的情境中进行选择）和社会选择理论（研究集体决策）区分开来。我们的重点将放在博弈论对伦理学和政治哲学的相关性上。要全面讨论博弈论及其与哲学其他领域的相关性，请参阅博弈论词条。
 
 我们可以区分博弈论对伦理学的两种相关性。第一种是解释性的。博弈论工具可用于解释从（i）道德功能和（ii）我们道德实践的一般特征，到（iii）道德或政治上重要的社会问题的动态和（iv）特定道德规范的出现、存在和稳定性。博弈论对伦理学的第二种相关性是辩护性的。在这里，博弈论工具被用于辩护从（i）特定规范或原则，到（ii）大规模社会制度，或（iii）我们道德实践的一般特征。接下来，我们将考虑这些用途，包括前者如何补充后者。
 
- 
 ***
 
 ## 1. 历史
@@ -36,10 +35,10 @@ _首次发布于 2021 年 9 月 27 日星期一_
 
 |      |       | 士兵 2  |       |
 | ---- | ----- | ----- | ----- |
-|      |       | _S_   | _F_   |
+|      |       | *S*   | *F*   |
 | ---  | ---   | ---   | ---   |
-| 士兵 1 | _S_   | (2,2) | (0,3) |
-| _F_  | (3,0) | (1,1) |       |
+| 士兵 1 | *S*   | (2,2) | (0,3) |
+| *F*  | (3,0) | (1,1) |       |
 
 S = 留下, F = 逃跑
 
@@ -99,16 +98,16 @@ Kavka (1984) 将试图证明遵守道德要求是被要求的，或者至少与�
 
 \| | | 第 2 方（劳拉） | | --- | --- | --- | --- |
 
-|                   |       | _P_   | _A_   |
+|                   |       | *P*   | *A*   |
 | ----------------- | ----- | ----- | ----- |
-| Party 1 (Claudia) | _P_   | (2,2) | (0,3) |
-| _A_               | (3,0) | (1,1) |       |
+| Party 1 (Claudia) | *P*   | (2,2) | (0,3) |
+| *A*               | (3,0) | (1,1) |       |
 
 P = 执行, A = 预测
 
 图 5. 囚徒困境
 
-这个囚徒困境在结构上与[图1](https://plato.stanford.edu/entries/game-ethics/#table1)中的迫击炮手困境完全相同，但在这里我们对各方的策略进行了不同的解释。(_A_, _A_)是描述劳拉和克劳迪亚彼此特定互动的这个博弈的唯一均衡。然而，如果我们假设它们的互动是一系列相似互动的无限序列，它们将与彼此和其他社区成员进行互动，那么它们可以采用历史依赖策略。 Sugden（1986）制定的一种策略是_人类策略_：
+这个囚徒困境在结构上与[图1](https://plato.stanford.edu/entries/game-ethics/#table1)中的迫击炮手困境完全相同，但在这里我们对各方的策略进行了不同的解释。(*A*, *A*)是描述劳拉和克劳迪亚彼此特定互动的这个博弈的唯一均衡。然而，如果我们假设它们的互动是一系列相似互动的无限序列，它们将与彼此和其他社区成员进行互动，那么它们可以采用历史依赖策略。 Sugden（1986）制定的一种策略是_人类策略_：
 
 h∗: 如果我的当前伙伴是无辜的，则遵循_P_，如果她有罪，则遵循_A_，
 
@@ -124,10 +123,10 @@ h∗: 如果我的当前伙伴是无辜的，则遵循_P_，如果她有罪，�
 
 \| | | Party 2 (Laura) | | --- | --- | --- | --- |
 
-|              |       | _CM_  | _SM_  |
+|              |       | *CM*  | *SM*  |
 | ------------ | ----- | ----- | ----- |
-| 第一方（Claudia） | _CM_  | (2,2) | (1,1) |
-| _SM_         | (1,1) | (1,1) |       |
+| 第一方（Claudia） | *CM*  | (2,2) | (1,1) |
+| *SM*         | (1,1) | (1,1) |       |
 
 CM= 受限最大化, SM = 直接最大化
 
@@ -157,12 +156,12 @@ Nash 将讨价还价问题描述为（i）一组代理人可能实现的收益�
 
 \| | | 代理人 2 (Laura) | | --- | --- | --- | --- |
 
-|                |       | _D_     | _H_   |
+|                |       | *D*     | *H*   |
 | -------------- | ----- | ------- | ----- |
-| 代理人 1（Claudia） | _D_   | (0,0)   | (0,1) |
-| _H_            | (1,0) | (−1,−1) |       |
+| 代理人 1（Claudia） | *D*   | (0,0)   | (0,1) |
+| *H*            | (1,0) | (−1,−1) |       |
 
-_D_= dove (claim none), _H_ = hawk (claim all)
+*D*= dove (claim none), *H* = hawk (claim all)
 
 图 7. 酒问题
 
@@ -172,13 +171,13 @@ _D_= dove (claim none), _H_ = hawk (claim all)
 
 \| | | 代理人 2（Laura） | | --- | --- | --- | --- | --- |
 
-|                 |        | _D_     | _M_     | _H_   |
+|                 |        | *D*     | *M*     | *H*   |
 | --------------- | ------ | ------- | ------- | ----- |
-| 代理人 1 (Claudia) | _D_    | (0,0)   | (0,12)  | (0,1) |
-| _M_             | (12,0) | (12,12) | (−1,−1) |       |
-| _H_             | (1,0)  | (−1,−1) | (−1,−1) |       |
+| 代理人 1 (Claudia) | *D*    | (0,0)   | (0,12)  | (0,1) |
+| *M*             | (12,0) | (12,12) | (−1,−1) |       |
+| *H*             | (1,0)  | (−1,−1) | (−1,−1) |       |
 
-_D_ = dove (claim none), _M_ = moderate (claim half), _H_ = hawk (claim all)
+*D* = dove (claim none), *M* = moderate (claim half), *H* = hawk (claim all)
 
 图 8. 扩展的葡萄酒问题
 
@@ -198,10 +197,10 @@ _D_ = dove (claim none), _M_ = moderate (claim half), _H_ = hawk (claim all)
 
 \| | | 代理人 2 (Matthew) | | --- | --- | --- | --- |
 
-|              |        | _D_    | _H_    |
+|              |        | *D*    | *H*    |
 | ------------ | ------ | ------ | ------ |
-| 代理人 1 (Luke) | _D_    | (16,0) | (12,1) |
-| _H_          | (1,29) | (0,19) |        |
+| 代理人 1 (Luke) | *D*    | (16,0) | (12,1) |
+| *H*          | (1,29) | (0,19) |        |
 
 D= 鸽子（宣称无），H = 鹰（宣称所有）
 
@@ -333,100 +332,100 @@ d. 50% 阈值
 
 ## Bibliography
 
-* Alexander, J. McKenzie, 2007, _The Structural Evolution of Morality_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511550997
-* Aquinas, Thomas, 1271 \[1989], _Summa Theologiae:_, translated in _Summa Theologiae: A Concise Translation_, Timothy McDermott (ed.), Notre Dame, IN: Christian Classics.
-* Axelrod, Robert, 1984 \[2006], _The Evolution of Cooperation_, New York: Basic Books. Revised Edition, New York: Basic Boats, 2006.
-* Barry, Brian, 1965 \[1990], _Political Argument_, New York: Humanities Press. Reprinted as _Political Argument: A Reissue with New Introduction_, Berkeley: University of California Press, 1990.
-* Basu, Kaushik, 2000, _Prelude to Political Economy: A Study of the Social and Political Foundations of Economics_, Oxford: Oxford University Press. doi:10.1093/0198296711.001.0001
-* Bicchieri, Cristina, 2006, _The Grammar of Society: The Nature and Dynamics of Social Norms_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511616037
-* –––, 2017, _Norms in the Wild: How to Diagnose, Measure, and Change Social Norms_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190622046.001.0001
-* Bicchieri, Cristina and Yoshitaka Fukui, 1999, “The Great Illusion: Ignorance, Informational Cascades, and the Persistence of Unpopular Norms”, in _Experience, Reality, and Scientific Explanation_, Maria Carla Galavotti and A. Pagnani (eds), Dordrecht: Springer, 89–121.
-* Binmore, Ken, 1994, _Game Theory and the Social Contract Volume I: Playing Fair_, Cambridge, MA: MIT Press.
-* –––, 1998, _Game Theory and the Social Contract Volume II: Just Playing_, Cambridge, MA: MIT Press.
-* Boehm, Christopher, 1986, _Blood Revenge: The Enactment and Management of Conflict in Montenegro and Other Tribal Societies_, Philadelphia, PA: University of Pennsylvania Press.
-* Boyd, Robert and Peter Richerson, 2005, _The Origin and Evolution of Cultures_, Oxford: Oxford University Press.
-* Braithwaite, Richard B., 1955 \[2009], _Theory of Games as a Tool for the Moral Philosopher: An inaugural lecture delivered in Cambridge on 2 December 1954_, Cambridge: Cambridge University Press. Reprinted 2009.
-* Brennan, Geoffrey, 2009, “Climate Change: A Rational Choice Politics View”, _Australian Journal of Agricultural and Resource Economics_, 53(3): 309–326. doi:10.1111/j.1467-8489.2009.00457.x
-* Brennan, Geoffrey, Lina Eriksson, Robert E. Goodin, and Nicholas Southwood, 2013, _Explaining Norms_, Oxford University Press. doi:10.1093/acprof:oso/9780199654680.001.0001
-* Broome, John, 2012, _Climate Matters: Ethics in a Warming World_, New York: W.W. Norton.
-* Chesler, Phyllis and Nathan Bloom, 2012, “Hindu vs. Muslim Honor Killings”, _Middle East Quarterly_, 19: 43–52. \[[Chesler and Bloom 2012 available online](https://www.meforum.org/3287/hindu-muslim-honor-killings)]
-* Chung, Hun, 2015, “Hobbes’s State of Nature: A Modern Bayesian Game-Theoretic Analysis”, _Journal of the American Philosophical Association_, 1(3): 485–508. doi:10.1017/apa.2015.12
-* Coffey, Diane and Dean Spears, 2017, _Where India Goes: Abandoned Toilets, Stunted Development and the Costs of Caste_, Noida, Uttar Pradesh: HarperCollins India.
-* Eshel, Ilan and L. L. Cavalli-Sforza, 1982, “Assortment of Encounters and Evolution of Cooperativeness”, _Proceedings of the National Academy of Sciences_, 79(4): 1331–1335. doi:10.1073/pnas.79.4.1331
-* Gardiner, Stephen M., 2011, _A Perfect Moral Storm: The Ethical Tragedy of Climate Change_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195379440.001.0001
-* Garvey, James, 2008, _The Ethics of Climate Change: Right and Wrong in a Warming World_, London: Continuum.
-* Gaus, Gerald, 2010, _The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780844
-* Gauthier, David P., 1969, _The Logic of Leviathan: The Moral and Political Theory of Thomas Hobbes_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198246169.001.0001
-* –––, 1984, “Deterrence, Maximization, and Rationality”, _Ethics_, 94(3): 474–495. doi:10.1086/292561
-* –––, 1985, “Bargaining and justice”, _Social Philosophy and Policy_, 2(2): 29–47.
-* –––, 1986, _Morals By Agreement_, Oxford: Clarendon Press.
-* –––, 2013, “Twenty-Five On”, _Ethics_, 123(4): 601–624. doi:10.1086/670246
-* Grotius, Hugo, 1625 \[2005], _De iure belli ac pacis libri tres_, Paris: Buon. Translated as _The Rights of War and Peace_, Richard Tuck and Jean Barbeyrac (eds), Indianapolis, IN: Liberty Fund.
-* Hampton, Jean, 1986, _Hobbes and the Social Contract Tradition_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625060
-* Hardin, Garrett, 1968, “The Tragedy of the Commons”, _Science_, 162(3859): 1243–1248. doi:10.1126/science.162.3859.1243
-* Hardin, Russell, 1983, “Unilateral Versus Mutual Disarmament”, _Philosophy & Public Affairs_, 12(3): 236–254.
-* Harsanyi, John C., 1953, “Cardinal Utility in Welfare Economics and in the Theory of Risk-Taking”, _Journal of Political Economy_, 61(5): 434–435. doi:10.1086/257416
-* –––, 1955, “Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility”, _Journal of Political Economy_, 63(4): 309–321. doi:10.1086/257678
-* –––, 1977, _Rational Behaviour and Bargaining Equilibrium in Games and Social Situations_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511571756
-* Harsanyi, John and Reinhard Selten, 1988, _A General Theory of Equilibrium Selection in Games_, Cambridge, MA: MIT Press.
-* Hobbes, Thomas, 1651 \[1994], _Leviathan_, London. Reprinted Edwin Curley (ed.), Indianapolis, IN: Hackett, 1994.
-* Hume, David, 1740 \[2011], _A Treatise of Human Nature_, London. Reprinted David Fate Norton and Mary J. Norton (eds), Oxford: Clarendon Press, 2011.
-* Kalai, Ehud, 1977, “Proportional Solutions to Bargaining Situations: Interpersonal Utility Comparisons”, _Econometrica_, 45(7): 1623–1630. doi:10.2307/1913954
-* Kalai, Ehud and Meir Smorodinsky, 1975, “Other Solutions to Nash’s Bargaining Problem”, _Econometrica_, 43(3): 513–518. doi:10.2307/1914280
-* Kavka, Gregory S., 1984, “The Reconciliation Project”, in _Morality, Reason and Truth_, David Copp and David Zimmerman (eds), Totowa: Rowan and Allanheld, 297–319.
-* –––, 1986, _Hobbesian Moral and Political Theory_, Princeton, NJ: Princeton University Press.
-* –––, 1987, _Moral Paradoxes of Nuclear Deterrence_, Cambridge: Cambridge University Press.
-* Lensberg, Terje, 1988, “Stability and the Nash Solution”, _Journal of Economic Theory_, 45(2): 330–341. doi:10.1016/0022-0531(88)90273-6
-* Lewis, David, 1969, _Convention: A Philosophical Study_, Cambridge, MA: Harvard University Press.
-* Locke, John, 1689 \[1960], _The Second Treatise of Government_, Reprinted in _Two Treatises of Government_, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1960, 283–446.
-* Luce, R. Duncan and Howard Raiffa, 1957, _Games and Decisions: Introduction and Critical Survey_, New York: John Wiley and Sons.
-* MacLean, Douglas (ed.), 1984, _The Security Gamble: Deterrence Dilemmas in the Nuclear Age_, Rowman & Allanheld.
-* Macrae, Norman, 1992, _John von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More_, New York: Pantheon Press.
-* Maynard Smith, John, 1982, _Evolution and the Theory of Games_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806292
-* McClennen, Edward F., 1990, _Rationality and Dynamic Choice: Foundational Explorations_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511983979
-* Moehler, Michael, 2009, “Why Hobbes’ State of Nature Is Best Modeled by an Assurance Game”, _Utilitas_, 21(3): 297–326. doi:10.1017/S0953820809990069
-* –––, 2018, _Minimal Morality: A Multilevel Social Contract Theory_, Oxford: Oxford University Press. doi:10.1093/oso/9780198785927.001.0001
-* Muldoon, Ryan, 2016, _Social Contract Theory for a Diverse World_, New York: Routledge. doi:10.4324/9781315545882
-* Nash, John, 1950, "The Bargaining Problem", _Econometrica_, 18(2): 155–162. doi:10.2307/1907266
-* –––, 2002, _The Essential John Nash_, Harold W. Kuhn and Sylvia Nassar (eds), Princeton, NJ: Princeton University Press.
-* Nisbett, Richard and Dov Cohen, 1996, _Culture of Honor: The Psychology of Violence in the South_, Boulder, CO: Westview Press.
-* Nordhaus, William, 2014, “The Ethics of Efficient Markets and Commons Tragedies: A Review of John Broome’s _Climate Matters: Ethics in a Warming World_”, _Journal of Economic Literature_, 52(4): 1135–1141. doi:10.1257/jel.52.4.1135
-* Ostrom, Elinor, 1990, _Governing the Commons: The Evolution of Institutions for Collective Action_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511807763
-* Plato, _Plato: Complete Works_, John Cooper (ed.), Indianapolis: Hackett, 1997.
-* Pufendorf, Samuel, 1673 \[1991], _De officio hominis et civis juxta legem naturalem_, London: Sumtibus Adami Junghans. Translated as _On the Duty of Man and Citizen according to Natural Law_, James Tully (ed.) and Michael Silverthorne (trans.), Cambridge: Cambridge University Press. doi:10.1017/9781316160800
-* Raiffa, Howard, 1953, “Arbitration Schemes for Generalized Two-Person Games”, in _Contributions to the Theory of Games, Volume II_, Harold William Kuhn and Albert William Tucker (eds.), (Annals of Mathematics Studies 28), Princeton, NJ: Princeton University Press, 361–388. doi:10.1515/9781400881970-022
-* Rawls, John, 1958, “Justice as Fairness”, _The Philosophical Review_, 67(2): 164–194. doi:10.2307/2182612
-* –––, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Roth, Alvin E., 1979, _Axiomatic Models of Bargaining_, (Lecture Notes in Economics and Mathematical Systems 170), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-51570-5
-* Rousseau, Jean-Jacques, 1755 \[1997], _Discours sur l’origine et les fondements de l’inégalité parmi les hommes_, translated as “Discourse on the Origin and Nature of Inequality Among Men”, in _The Discourses and Other Early Political Writings_, Victor Gourevitch (ed.), Cambridge: Cambridge University Press.
-* Rubinstein, Ariel, 1982, “Perfect Equilibrium in a Bargaining Model”, _Econometrica_, 50(1): 97–109. doi:10.2307/1912531
-* Scanlon, Thomas M., 1982, “Contractualism and Utilitarianism”, in _Utilitarianism and Beyond_, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, 103–128. doi:10.1017/CBO9780511611964.007
-* –––, 1998, _What We Owe to Each Other_, Cambridge, MA: Belknap Press.
-* Schelling, Thomas C., 1960, _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
-* –––, 1966, _Arms and Influence_, New Haven, CT: Yale University Press.
-* –––, 1971, “Dynamic Models of Segregation”, _The Journal of Mathematical Sociology_, 1(2): 143–186. doi:10.1080/0022250X.1971.9989794
-* Sen, Amartya, 1980, “Equality of What?”, Tanner Lectures on Human Values delivered at Stanford University 22 May 1979, collected in _Tanner Lectures on Human Values_, Sterling M. McMurrin (ed.), Cambridge: Cambridge University Press, 1980, 197–220. \[[Sen 1980 available online](https://tannerlectures.utah.edu/\resources/documents/a-to-z/s/sen80.pdf)]
-* Shapley, L. S. and Martin Shubik, 1954, “A Method for Evaluating the Distribution of Power in a Committee System”, _American Political Science Review_, 48(3): 787–792. doi:10.2307/1951053
-* Skarbek, David, 2014, _The Social Order of the Underworld: How Prison Gangs Govern the American Penal System_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199328499.001.0001
-* Sidgwick, Henry, 1874 \[2011], _The Methods of Ethics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139136617
-* Skyrms, Brian, 1996 \[2014], _Evolution of the Social Contract_, Cambridge: Cambridge University Press; second edition, 2014. doi:10.1017/CBO9781139924825
-* –––, 1998, “The Shadow of the Future”, in _Rational Commitment and Social Justice: Essays for Gregory Kavka_, Jules L. Coleman and Christopher W. Morris (eds.), Cambridge: Cambridge University Press, 12–21. doi:10.1017/CBO9780511527364.003
-* –––, 2004, _The Stag Hunt and the Evolution of Social Structure_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139165228
-* Sobel, Jordan Howard, 2009, _Walls and Vaults: A Natural Science of Morals (Virtue Ethics According to David Hume)_, Hoboken, NJ: John Wiley & Sons, Inc. doi:10.1002/9781118031605
-* Stähl, Ingolf, 1972, _Bargaining Theory_, Stockholm: Economic Research Institute.
-* Sugden, Robert, 1986, _The Economics of Rights, Co-operation, and Welfare_, Oxford: Blackwell Press.
-* Taylor, Michael, 1987, _The Possibility of Cooperation_, Cambridge: Cambridge University Press.
-* Thrasher, John, 2018, “Evaluating Bad Norms”, _Social Philosophy and Policy_, 35(1): 196–216. doi:10.1017/S0265052518000055
-* Thrasher, John and Toby Handfield, 2018, “Honor and Violence: An Account of Feuds, Duels, and Honor Killings”, _Human Nature_, 29(4): 371–389. doi:10.1007/s12110-018-9324-4
-* Thomson, William and Terje Lensberg, 1989, _Axiomatic Theory of Bargaining with a Variable Number of Agents_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511664489
-* Ullmann-Margalit, Edna, 1977, _The Emergence of Norms_, Oxford: Clarendon Press.
-* United Nations Population Fund (UNFPA), 2000, “Violence Against Women and Girls: A Human Rights and Health Priority”, in _The State of World Population, 2000_, United Nations Population Fund, 25–30. \[[UNFPA 2000 available online](https://www.unfpa.org/publications/state-world-population-2000)]
-* Vanderschraaf, Peter, 1998, “The Informal Game Theory in Hume’s Account of Convention”, _Economics and Philosophy_, 14(2): 215–247. doi:10.1017/S0266267100003849
-* –––, 2007, “Covenants and Reputations”, _Synthese_, 157(2): 167–195. doi:10.1007/s11229-006-9147-4
-* –––, 2010, “The Invisible Foole”, _Philosophical Studies_, 147(1): 37–58. doi:10.1007/s11098-009-9449-8
-* –––, 2019, _Strategic Justice: Convention and Problems of Balancing Divergent Interests_, New York: Oxford University Press. doi:10.1093/oso/9780199832194.001.0001
-* Vanderschraaf, Peter and Diana Richards, 1997, “Joint Beliefs in Conflictual Coordination Games”, _Theory and Decision_, 42(3): 287–310. doi:10.1023/A:1004962809537
-* Von Neumann, John and Oskar Morgenstern, 1944 \[2004]. _Theory of Games and Economic Behavior_, Princeton, NJ: Princeton University Press. Sixtieth-Anniversary Edition, Princeton and Oxford: Princeton University Press, 2004.
+* Alexander, J. McKenzie, 2007, *The Structural Evolution of Morality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511550997
+* Aquinas, Thomas, 1271 \[1989], *Summa Theologiae:*, translated in *Summa Theologiae: A Concise Translation*, Timothy McDermott (ed.), Notre Dame, IN: Christian Classics.
+* Axelrod, Robert, 1984 \[2006], *The Evolution of Cooperation*, New York: Basic Books. Revised Edition, New York: Basic Boats, 2006.
+* Barry, Brian, 1965 \[1990], *Political Argument*, New York: Humanities Press. Reprinted as *Political Argument: A Reissue with New Introduction*, Berkeley: University of California Press, 1990.
+* Basu, Kaushik, 2000, *Prelude to Political Economy: A Study of the Social and Political Foundations of Economics*, Oxford: Oxford University Press. doi:10.1093/0198296711.001.0001
+* Bicchieri, Cristina, 2006, *The Grammar of Society: The Nature and Dynamics of Social Norms*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511616037
+* –––, 2017, *Norms in the Wild: How to Diagnose, Measure, and Change Social Norms*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190622046.001.0001
+* Bicchieri, Cristina and Yoshitaka Fukui, 1999, “The Great Illusion: Ignorance, Informational Cascades, and the Persistence of Unpopular Norms”, in *Experience, Reality, and Scientific Explanation*, Maria Carla Galavotti and A. Pagnani (eds), Dordrecht: Springer, 89–121.
+* Binmore, Ken, 1994, *Game Theory and the Social Contract Volume I: Playing Fair*, Cambridge, MA: MIT Press.
+* –––, 1998, *Game Theory and the Social Contract Volume II: Just Playing*, Cambridge, MA: MIT Press.
+* Boehm, Christopher, 1986, *Blood Revenge: The Enactment and Management of Conflict in Montenegro and Other Tribal Societies*, Philadelphia, PA: University of Pennsylvania Press.
+* Boyd, Robert and Peter Richerson, 2005, *The Origin and Evolution of Cultures*, Oxford: Oxford University Press.
+* Braithwaite, Richard B., 1955 \[2009], *Theory of Games as a Tool for the Moral Philosopher: An inaugural lecture delivered in Cambridge on 2 December 1954*, Cambridge: Cambridge University Press. Reprinted 2009.
+* Brennan, Geoffrey, 2009, “Climate Change: A Rational Choice Politics View”, *Australian Journal of Agricultural and Resource Economics*, 53(3): 309–326. doi:10.1111/j.1467-8489.2009.00457.x
+* Brennan, Geoffrey, Lina Eriksson, Robert E. Goodin, and Nicholas Southwood, 2013, *Explaining Norms*, Oxford University Press. doi:10.1093/acprof:oso/9780199654680.001.0001
+* Broome, John, 2012, *Climate Matters: Ethics in a Warming World*, New York: W.W. Norton.
+* Chesler, Phyllis and Nathan Bloom, 2012, “Hindu vs. Muslim Honor Killings”, *Middle East Quarterly*, 19: 43–52. \[[Chesler and Bloom 2012 available online](https://www.meforum.org/3287/hindu-muslim-honor-killings)]
+* Chung, Hun, 2015, “Hobbes’s State of Nature: A Modern Bayesian Game-Theoretic Analysis”, *Journal of the American Philosophical Association*, 1(3): 485–508. doi:10.1017/apa.2015.12
+* Coffey, Diane and Dean Spears, 2017, *Where India Goes: Abandoned Toilets, Stunted Development and the Costs of Caste*, Noida, Uttar Pradesh: HarperCollins India.
+* Eshel, Ilan and L. L. Cavalli-Sforza, 1982, “Assortment of Encounters and Evolution of Cooperativeness”, *Proceedings of the National Academy of Sciences*, 79(4): 1331–1335. doi:10.1073/pnas.79.4.1331
+* Gardiner, Stephen M., 2011, *A Perfect Moral Storm: The Ethical Tragedy of Climate Change*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195379440.001.0001
+* Garvey, James, 2008, *The Ethics of Climate Change: Right and Wrong in a Warming World*, London: Continuum.
+* Gaus, Gerald, 2010, *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780844
+* Gauthier, David P., 1969, *The Logic of Leviathan: The Moral and Political Theory of Thomas Hobbes*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198246169.001.0001
+* –––, 1984, “Deterrence, Maximization, and Rationality”, *Ethics*, 94(3): 474–495. doi:10.1086/292561
+* –––, 1985, “Bargaining and justice”, *Social Philosophy and Policy*, 2(2): 29–47.
+* –––, 1986, *Morals By Agreement*, Oxford: Clarendon Press.
+* –––, 2013, “Twenty-Five On”, *Ethics*, 123(4): 601–624. doi:10.1086/670246
+* Grotius, Hugo, 1625 \[2005], *De iure belli ac pacis libri tres*, Paris: Buon. Translated as *The Rights of War and Peace*, Richard Tuck and Jean Barbeyrac (eds), Indianapolis, IN: Liberty Fund.
+* Hampton, Jean, 1986, *Hobbes and the Social Contract Tradition*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625060
+* Hardin, Garrett, 1968, “The Tragedy of the Commons”, *Science*, 162(3859): 1243–1248. doi:10.1126/science.162.3859.1243
+* Hardin, Russell, 1983, “Unilateral Versus Mutual Disarmament”, *Philosophy & Public Affairs*, 12(3): 236–254.
+* Harsanyi, John C., 1953, “Cardinal Utility in Welfare Economics and in the Theory of Risk-Taking”, *Journal of Political Economy*, 61(5): 434–435. doi:10.1086/257416
+* –––, 1955, “Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility”, *Journal of Political Economy*, 63(4): 309–321. doi:10.1086/257678
+* –––, 1977, *Rational Behaviour and Bargaining Equilibrium in Games and Social Situations*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511571756
+* Harsanyi, John and Reinhard Selten, 1988, *A General Theory of Equilibrium Selection in Games*, Cambridge, MA: MIT Press.
+* Hobbes, Thomas, 1651 \[1994], *Leviathan*, London. Reprinted Edwin Curley (ed.), Indianapolis, IN: Hackett, 1994.
+* Hume, David, 1740 \[2011], *A Treatise of Human Nature*, London. Reprinted David Fate Norton and Mary J. Norton (eds), Oxford: Clarendon Press, 2011.
+* Kalai, Ehud, 1977, “Proportional Solutions to Bargaining Situations: Interpersonal Utility Comparisons”, *Econometrica*, 45(7): 1623–1630. doi:10.2307/1913954
+* Kalai, Ehud and Meir Smorodinsky, 1975, “Other Solutions to Nash’s Bargaining Problem”, *Econometrica*, 43(3): 513–518. doi:10.2307/1914280
+* Kavka, Gregory S., 1984, “The Reconciliation Project”, in *Morality, Reason and Truth*, David Copp and David Zimmerman (eds), Totowa: Rowan and Allanheld, 297–319.
+* –––, 1986, *Hobbesian Moral and Political Theory*, Princeton, NJ: Princeton University Press.
+* –––, 1987, *Moral Paradoxes of Nuclear Deterrence*, Cambridge: Cambridge University Press.
+* Lensberg, Terje, 1988, “Stability and the Nash Solution”, *Journal of Economic Theory*, 45(2): 330–341. doi:10.1016/0022-0531(88)90273-6
+* Lewis, David, 1969, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
+* Locke, John, 1689 \[1960], *The Second Treatise of Government*, Reprinted in *Two Treatises of Government*, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1960, 283–446.
+* Luce, R. Duncan and Howard Raiffa, 1957, *Games and Decisions: Introduction and Critical Survey*, New York: John Wiley and Sons.
+* MacLean, Douglas (ed.), 1984, *The Security Gamble: Deterrence Dilemmas in the Nuclear Age*, Rowman & Allanheld.
+* Macrae, Norman, 1992, *John von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More*, New York: Pantheon Press.
+* Maynard Smith, John, 1982, *Evolution and the Theory of Games*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806292
+* McClennen, Edward F., 1990, *Rationality and Dynamic Choice: Foundational Explorations*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511983979
+* Moehler, Michael, 2009, “Why Hobbes’ State of Nature Is Best Modeled by an Assurance Game”, *Utilitas*, 21(3): 297–326. doi:10.1017/S0953820809990069
+* –––, 2018, *Minimal Morality: A Multilevel Social Contract Theory*, Oxford: Oxford University Press. doi:10.1093/oso/9780198785927.001.0001
+* Muldoon, Ryan, 2016, *Social Contract Theory for a Diverse World*, New York: Routledge. doi:10.4324/9781315545882
+* Nash, John, 1950, "The Bargaining Problem", *Econometrica*, 18(2): 155–162. doi:10.2307/1907266
+* –––, 2002, *The Essential John Nash*, Harold W. Kuhn and Sylvia Nassar (eds), Princeton, NJ: Princeton University Press.
+* Nisbett, Richard and Dov Cohen, 1996, *Culture of Honor: The Psychology of Violence in the South*, Boulder, CO: Westview Press.
+* Nordhaus, William, 2014, “The Ethics of Efficient Markets and Commons Tragedies: A Review of John Broome’s *Climate Matters: Ethics in a Warming World*”, *Journal of Economic Literature*, 52(4): 1135–1141. doi:10.1257/jel.52.4.1135
+* Ostrom, Elinor, 1990, *Governing the Commons: The Evolution of Institutions for Collective Action*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511807763
+* Plato, *Plato: Complete Works*, John Cooper (ed.), Indianapolis: Hackett, 1997.
+* Pufendorf, Samuel, 1673 \[1991], *De officio hominis et civis juxta legem naturalem*, London: Sumtibus Adami Junghans. Translated as *On the Duty of Man and Citizen according to Natural Law*, James Tully (ed.) and Michael Silverthorne (trans.), Cambridge: Cambridge University Press. doi:10.1017/9781316160800
+* Raiffa, Howard, 1953, “Arbitration Schemes for Generalized Two-Person Games”, in *Contributions to the Theory of Games, Volume II*, Harold William Kuhn and Albert William Tucker (eds.), (Annals of Mathematics Studies 28), Princeton, NJ: Princeton University Press, 361–388. doi:10.1515/9781400881970-022
+* Rawls, John, 1958, “Justice as Fairness”, *The Philosophical Review*, 67(2): 164–194. doi:10.2307/2182612
+* –––, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Roth, Alvin E., 1979, *Axiomatic Models of Bargaining*, (Lecture Notes in Economics and Mathematical Systems 170), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-51570-5
+* Rousseau, Jean-Jacques, 1755 \[1997], *Discours sur l’origine et les fondements de l’inégalité parmi les hommes*, translated as “Discourse on the Origin and Nature of Inequality Among Men”, in *The Discourses and Other Early Political Writings*, Victor Gourevitch (ed.), Cambridge: Cambridge University Press.
+* Rubinstein, Ariel, 1982, “Perfect Equilibrium in a Bargaining Model”, *Econometrica*, 50(1): 97–109. doi:10.2307/1912531
+* Scanlon, Thomas M., 1982, “Contractualism and Utilitarianism”, in *Utilitarianism and Beyond*, Amartya Sen and Bernard Williams (eds.), Cambridge: Cambridge University Press, 103–128. doi:10.1017/CBO9780511611964.007
+* –––, 1998, *What We Owe to Each Other*, Cambridge, MA: Belknap Press.
+* Schelling, Thomas C., 1960, *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
+* –––, 1966, *Arms and Influence*, New Haven, CT: Yale University Press.
+* –––, 1971, “Dynamic Models of Segregation”, *The Journal of Mathematical Sociology*, 1(2): 143–186. doi:10.1080/0022250X.1971.9989794
+* Sen, Amartya, 1980, “Equality of What?”, Tanner Lectures on Human Values delivered at Stanford University 22 May 1979, collected in *Tanner Lectures on Human Values*, Sterling M. McMurrin (ed.), Cambridge: Cambridge University Press, 1980, 197–220. \[[Sen 1980 available online](https://tannerlectures.utah.edu/\resources/documents/a-to-z/s/sen80.pdf)]
+* Shapley, L. S. and Martin Shubik, 1954, “A Method for Evaluating the Distribution of Power in a Committee System”, *American Political Science Review*, 48(3): 787–792. doi:10.2307/1951053
+* Skarbek, David, 2014, *The Social Order of the Underworld: How Prison Gangs Govern the American Penal System*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199328499.001.0001
+* Sidgwick, Henry, 1874 \[2011], *The Methods of Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139136617
+* Skyrms, Brian, 1996 \[2014], *Evolution of the Social Contract*, Cambridge: Cambridge University Press; second edition, 2014. doi:10.1017/CBO9781139924825
+* –––, 1998, “The Shadow of the Future”, in *Rational Commitment and Social Justice: Essays for Gregory Kavka*, Jules L. Coleman and Christopher W. Morris (eds.), Cambridge: Cambridge University Press, 12–21. doi:10.1017/CBO9780511527364.003
+* –––, 2004, *The Stag Hunt and the Evolution of Social Structure*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139165228
+* Sobel, Jordan Howard, 2009, *Walls and Vaults: A Natural Science of Morals (Virtue Ethics According to David Hume)*, Hoboken, NJ: John Wiley & Sons, Inc. doi:10.1002/9781118031605
+* Stähl, Ingolf, 1972, *Bargaining Theory*, Stockholm: Economic Research Institute.
+* Sugden, Robert, 1986, *The Economics of Rights, Co-operation, and Welfare*, Oxford: Blackwell Press.
+* Taylor, Michael, 1987, *The Possibility of Cooperation*, Cambridge: Cambridge University Press.
+* Thrasher, John, 2018, “Evaluating Bad Norms”, *Social Philosophy and Policy*, 35(1): 196–216. doi:10.1017/S0265052518000055
+* Thrasher, John and Toby Handfield, 2018, “Honor and Violence: An Account of Feuds, Duels, and Honor Killings”, *Human Nature*, 29(4): 371–389. doi:10.1007/s12110-018-9324-4
+* Thomson, William and Terje Lensberg, 1989, *Axiomatic Theory of Bargaining with a Variable Number of Agents*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511664489
+* Ullmann-Margalit, Edna, 1977, *The Emergence of Norms*, Oxford: Clarendon Press.
+* United Nations Population Fund (UNFPA), 2000, “Violence Against Women and Girls: A Human Rights and Health Priority”, in *The State of World Population, 2000*, United Nations Population Fund, 25–30. \[[UNFPA 2000 available online](https://www.unfpa.org/publications/state-world-population-2000)]
+* Vanderschraaf, Peter, 1998, “The Informal Game Theory in Hume’s Account of Convention”, *Economics and Philosophy*, 14(2): 215–247. doi:10.1017/S0266267100003849
+* –––, 2007, “Covenants and Reputations”, *Synthese*, 157(2): 167–195. doi:10.1007/s11229-006-9147-4
+* –––, 2010, “The Invisible Foole”, *Philosophical Studies*, 147(1): 37–58. doi:10.1007/s11098-009-9449-8
+* –––, 2019, *Strategic Justice: Convention and Problems of Balancing Divergent Interests*, New York: Oxford University Press. doi:10.1093/oso/9780199832194.001.0001
+* Vanderschraaf, Peter and Diana Richards, 1997, “Joint Beliefs in Conflictual Coordination Games”, *Theory and Decision*, 42(3): 287–310. doi:10.1023/A:1004962809537
+* Von Neumann, John and Oskar Morgenstern, 1944 \[2004]. *Theory of Games and Economic Behavior*, Princeton, NJ: Princeton University Press. Sixtieth-Anniversary Edition, Princeton and Oxford: Princeton University Press, 2004.
 
 ## Academic Tools
 
@@ -440,7 +439,7 @@ d. 50% 阈值
 
 * [Game Theory 101](http://gametheory101.com/), a website managed by William Spaniel associated with his textbook of the same name that includes an extensive library of videos that explain most of the important ideas and topics in game theory.
 * [Veconlab: Experimental Economics Laboratory](http://veconlab.econ.virginia.edu/), a website managed by Charlie Holt that provides a platform for running experiments that can be used in the classroom to illustrate numerous game theoretic scenarios.
-* Verbeek, Bruno and Peter Vanderschraaf, “Game Theory and Ethics”, _Stanford Encyclopedia of Philosophy_ (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/game-ethics/](https://plato.stanford.edu/archives/fall2021/entries/game-ethics/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=game-ethics).]
+* Verbeek, Bruno and Peter Vanderschraaf, “Game Theory and Ethics”, *Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/game-ethics/](https://plato.stanford.edu/archives/fall2021/entries/game-ethics/). \[This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=game-ethics).]
 
 ## Related Entries
 
@@ -451,5 +450,5 @@ d. 50% 阈值
 We would like to thank Bruno Verbeek and Christopher Morris whose earlier version of this entry helped shape some of our thinking on the issues discussed here. We would also like to thank the many colleagues with whom we’ve discussed our presentation of the material discussed here, including especially colleagues at Chapman University and the University of Arizona. Finally, we would like to thank the editors for their patience with us during the writing process, and, especially, the anonymous referee whose substantial feedback on earlier drafts improved the final product.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Keith Hankins <[_keith.s.hankins@gmail.com_](mailto:keith%2es%2ehankins%40gmail%2ecom)>\
-[Peter Vanderschraaf](https://moralscience.arizona.edu/person/peter-vanderschraaf) <[_pvanderschraaf@arizona.edu_](mailto:pvanderschraaf%40arizona%2eedu)>
+Keith Hankins <[*keith.s.hankins@gmail.com*](mailto:keith%2es%2ehankins%40gmail%2ecom)>\
+[Peter Vanderschraaf](https://moralscience.arizona.edu/person/peter-vanderschraaf) <[*pvanderschraaf@arizona.edu*](mailto:pvanderschraaf%40arizona%2eedu)>

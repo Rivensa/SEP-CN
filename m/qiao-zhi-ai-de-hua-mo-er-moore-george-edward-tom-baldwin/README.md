@@ -1,10 +1,9 @@
 # 乔治·爱德华·摩尔 Moore, George Edward (Tom Baldwin)
 
-_首次发表于2004年3月26日星期五_
+*首次发表于2004年3月26日星期五*
 
 乔治·爱德华·摩尔（1873-1958）（他讨厌他的名字“乔治·爱德华”，从不使用它们 - 他的妻子称他为“比尔”）是二十世纪上半叶重要的英国哲学家。他是剑桥大学三一学院的三位哲学家之一（另外两位是伯特兰·罗素和路德维希·维特根斯坦），他们使剑桥成为我们现在称之为“分析哲学”的中心之一。但他的工作涵盖了超越任何单一哲学计划的主题和关注点。
 
- 
 ***
 
 ## 1. 生平与事业
@@ -137,81 +136,81 @@ _首次发表于2004年3月26日星期五_
 
 \[\* indicates the edition used for page references in this entry]
 
-* ‘The Nature of Judgment’ _Mind_ 8 (1899) 176-93. Reprinted in \*\*G. E. Moore: Selected Writings\*1-19.
-* ‘Truth’ in J. Baldwin (ed.) _Dictionary of Philosophy and Psychology_ Macmillan, London: 1901-2. Reprinted in \*_G. E. Moore: Selected Writings_ 20-2.
-* ‘The Refutation of Idealism’ _Mind_ 12 (1903) 433-53. Reprinted in _Philosophical Studies_ and in \*\*G. E. Moore: Selected Writings\*23-44.
-* _Principia Ethica_ Cambridge University Press, Cambridge: 1903. \*Revised edition with ‘Preface to the second edition’ and other papers, ed. T. Baldwin, Cambridge University Press, Cambridge: 1993.
-* _Ethics_ Williams & Norgate, London: 1912.
-* ‘External and Internal Relations’ _Proceedings of the Aristotelian Society_20 (1919-20) 40-62. Reprinted in _Philosophical Studies_ and in \*_G. E. Moore: Selected Writings_ 79-105.
-* ‘The Conception of Intrinsic Value’ in _Philosophical Studies_. Reprinted in \*Revised edition of _Principia Ethica_,  280-98.
-* _Philosophical Studies_ K. Paul, Trench, Trubner & Co, London: 1922.
-* ‘A Defence of Common Sense’ in J. H. Muirhead (ed.) _Contemporary British Philosophy_ (2nd series), Allen and Unwin, London: 1925, 193-223. Reprinted in _Philosophical Papers_ and in \*\*G. E. Moore: Selected Writings\*106-33.
-* ‘Is Existence a Predicate?’ _Aristotelian Society Supplementary volume_ 15 (1936) 154-88. Reprinted in _Philosophical Papers_ and in \*_G. E. Moore: Selected Writings_ 134-46.
-* ‘Proof of an External World’ _Proceedings of the British Academy_ 25 (1939) 273-300. Reprinted in _Philosophical Papers_ and in \*_G. E. Moore: Selected Writings_ 147-70.
-* ‘A Reply to My Critics’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore_ Northwestern University Press, Evanston ILL: 1942, 535-677.
-* _Some Main Problems of Philosophy_ George, Allen and Unwin, London: 1953.
-* ‘Certainty’ in _Philosophical Papers_ 226-251. Reprinted in \*_G. E. Moore: Selected Writings_ 171-96.
-* _Philosophical Papers_ George, Allen and Unwin, London: 1959.
-* _The Elements of Ethics_, T. Regan (ed.), Temple University Press, Philadelphia PA: 1991.
-* _G. E. Moore: Selected Writings_, T. Baldwin (ed.), Routledge, London: 1993.
+* ‘The Nature of Judgment’ *Mind* 8 (1899) 176-93. Reprinted in \*\*G. E. Moore: Selected Writings\*1-19.
+* ‘Truth’ in J. Baldwin (ed.) *Dictionary of Philosophy and Psychology* Macmillan, London: 1901-2. Reprinted in \**G. E. Moore: Selected Writings* 20-2.
+* ‘The Refutation of Idealism’ *Mind* 12 (1903) 433-53. Reprinted in *Philosophical Studies* and in \*\*G. E. Moore: Selected Writings\*23-44.
+* *Principia Ethica* Cambridge University Press, Cambridge: 1903. \*Revised edition with ‘Preface to the second edition’ and other papers, ed. T. Baldwin, Cambridge University Press, Cambridge: 1993.
+* *Ethics* Williams & Norgate, London: 1912.
+* ‘External and Internal Relations’ _Proceedings of the Aristotelian Society_20 (1919-20) 40-62. Reprinted in *Philosophical Studies* and in \**G. E. Moore: Selected Writings* 79-105.
+* ‘The Conception of Intrinsic Value’ in *Philosophical Studies*. Reprinted in \*Revised edition of *Principia Ethica*,  280-98.
+* *Philosophical Studies* K. Paul, Trench, Trubner & Co, London: 1922.
+* ‘A Defence of Common Sense’ in J. H. Muirhead (ed.) *Contemporary British Philosophy* (2nd series), Allen and Unwin, London: 1925, 193-223. Reprinted in *Philosophical Papers* and in \*\*G. E. Moore: Selected Writings\*106-33.
+* ‘Is Existence a Predicate?’ *Aristotelian Society Supplementary volume* 15 (1936) 154-88. Reprinted in *Philosophical Papers* and in \**G. E. Moore: Selected Writings* 134-46.
+* ‘Proof of an External World’ *Proceedings of the British Academy* 25 (1939) 273-300. Reprinted in *Philosophical Papers* and in \**G. E. Moore: Selected Writings* 147-70.
+* ‘A Reply to My Critics’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore* Northwestern University Press, Evanston ILL: 1942, 535-677.
+* *Some Main Problems of Philosophy* George, Allen and Unwin, London: 1953.
+* ‘Certainty’ in *Philosophical Papers* 226-251. Reprinted in \**G. E. Moore: Selected Writings* 171-96.
+* *Philosophical Papers* George, Allen and Unwin, London: 1959.
+* *The Elements of Ethics*, T. Regan (ed.), Temple University Press, Philadelphia PA: 1991.
+* *G. E. Moore: Selected Writings*, T. Baldwin (ed.), Routledge, London: 1993.
 
-For a complete bibliography of Moore's published writings up to 1966, see P. A. Schilpp (ed.) _The Philosophy of G. E. Moore_ Northwestern University Press, Evanston ILL: 1942, 691-701.
+For a complete bibliography of Moore's published writings up to 1966, see P. A. Schilpp (ed.) *The Philosophy of G. E. Moore* Northwestern University Press, Evanston ILL: 1942, 691-701.
 
 ### Secondary Sources
 
 #### General
 
-* P. A. Schilpp (ed.) _The Philosophy of G. E. Moore_ Northwestern University Press, Evanston ILL: 1942.
-* A. Ambrose and M. Lazerowitz (eds.) _G. E. Moore: Essays in Retrospect_ Allen and Unwin, London: 1970.
-* T. Baldwin _G. E. Moore_ Routledge, London: 1990.
+* P. A. Schilpp (ed.) *The Philosophy of G. E. Moore* Northwestern University Press, Evanston ILL: 1942.
+* A. Ambrose and M. Lazerowitz (eds.) *G. E. Moore: Essays in Retrospect* Allen and Unwin, London: 1970.
+* T. Baldwin *G. E. Moore* Routledge, London: 1990.
 
 #### Section 1. Life and Career
 
-* J. M. Keynes ‘My Early Beliefs’ in _Two Memoirs_ Hart-Davis, London: 1949.
-* G. Ryle ‘G. E. Moore’ in _Collected Papers_ I, Hutchinson, London: 1971.
+* J. M. Keynes ‘My Early Beliefs’ in *Two Memoirs* Hart-Davis, London: 1949.
+* G. Ryle ‘G. E. Moore’ in *Collected Papers* I, Hutchinson, London: 1971.
 
 #### Section 2. The Refutation of Idealism
 
-* C. Ducasse ‘Moore's Refutation of Idealism’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore_.
-* P. Hylton _Russell, Idealism and the Emergence of Analytic Philosophy_ Oxford University Press, Oxford: 1990.
+* C. Ducasse ‘Moore's Refutation of Idealism’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore*.
+* P. Hylton *Russell, Idealism and the Emergence of Analytic Philosophy* Oxford University Press, Oxford: 1990.
 
-#### Section 3. _Principia Ethica_
+#### Section 3. *Principia Ethica*
 
-* C. D. Broad ‘Certain Features in Moore's Ethical Doctrines’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore_.
-* W. J. Frankena ‘Obligation and Value in the Ethics of G. E. Moore’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore_.
-* W. J. Frankena ‘The Naturalistic Fallacy’ _Mind_ 48 (1939).
-* N. M. Lemos _Intrinsic Value_. Cambridge University Press, Cambridge: 1994.
-* W. D. Ross _The Right and the Good_ Oxford University Press, Oxford: 1930.
-* N. Sturgeon ‘Ethical Intuitionism and Ethical Naturalism’ in P. Stratton-Lake (ed.) _Ethical Intuitionism_ Oxford University Press, Oxford: 2002.
-* _Ethics_ 113 (2003) — special edition for centenary of _Principia Ethica_
-* _The Journal of Value Inquiry_ 37 (2003) — special edition for centenary of _Principia Ethica._
+* C. D. Broad ‘Certain Features in Moore's Ethical Doctrines’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore*.
+* W. J. Frankena ‘Obligation and Value in the Ethics of G. E. Moore’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore*.
+* W. J. Frankena ‘The Naturalistic Fallacy’ *Mind* 48 (1939).
+* N. M. Lemos *Intrinsic Value*. Cambridge University Press, Cambridge: 1994.
+* W. D. Ross *The Right and the Good* Oxford University Press, Oxford: 1930.
+* N. Sturgeon ‘Ethical Intuitionism and Ethical Naturalism’ in P. Stratton-Lake (ed.) *Ethical Intuitionism* Oxford University Press, Oxford: 2002.
+* *Ethics* 113 (2003) — special edition for centenary of *Principia Ethica*
+* *The Journal of Value Inquiry* 37 (2003) — special edition for centenary of *Principia Ethica.*
 
 #### Section 4. Philosophical Analysis
 
-* B. Russell _The Problems of Philosophy_, Williams and Norgate, London: 1912.
-* N. Malcolm ‘Moore and Ordinary Language’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore._
-* J. Wisdom ‘Moore's Technique’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore._
+* B. Russell *The Problems of Philosophy*, Williams and Norgate, London: 1912.
+* N. Malcolm ‘Moore and Ordinary Language’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore.*
+* J. Wisdom ‘Moore's Technique’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore.*
 
 #### Section 5. Perception and Sense-data
 
-* O. K. Bowsma ‘Moore's Theory of Sense-data’ in P. A. Schilpp (ed.) _The Philosophy of G. E. Moore._
-* R. Chisholm ‘The Theory of Appearing’ in R. Swarz (ed.) _Perceiving, Sensing and Knowing_ Doubleday & Co., Garden City NY: 1965, 168-86.
-* G. A. Paul ‘Is There a Problem about Sense-Data?’ in R. Swarz (ed.) _Perceiving, Sensing and Knowing_ Doubleday & Co., Garden City NY: 1965, 271-87.
+* O. K. Bowsma ‘Moore's Theory of Sense-data’ in P. A. Schilpp (ed.) *The Philosophy of G. E. Moore.*
+* R. Chisholm ‘The Theory of Appearing’ in R. Swarz (ed.) *Perceiving, Sensing and Knowing* Doubleday & Co., Garden City NY: 1965, 168-86.
+* G. A. Paul ‘Is There a Problem about Sense-Data?’ in R. Swarz (ed.) *Perceiving, Sensing and Knowing* Doubleday & Co., Garden City NY: 1965, 271-87.
 
 #### Section 6. Common Sense and Certainty
 
-* T. Clarke ‘The Legacy of Skepticism’ _Journal of Philosophy_ (1972).
-* N. Malcolm ‘Defending Common Sense’ _Philosophical Review_ (1949).
-* N. Malcolm ‘Moore and Wittgenstein on the sense of “I Know”’ in _Thought and Language_, Cornell University Press, Ithaca NY: 1977.
-* M. McGinn _Sense and Certainty_ Blackwell, Oxford: 1989.
-* A. Stroll _Moore and Wittgenstein_ Oxford University Press, New York: 1994.
+* T. Clarke ‘The Legacy of Skepticism’ *Journal of Philosophy* (1972).
+* N. Malcolm ‘Defending Common Sense’ *Philosophical Review* (1949).
+* N. Malcolm ‘Moore and Wittgenstein on the sense of “I Know”’ in *Thought and Language*, Cornell University Press, Ithaca NY: 1977.
+* M. McGinn *Sense and Certainty* Blackwell, Oxford: 1989.
+* A. Stroll *Moore and Wittgenstein* Oxford University Press, New York: 1994.
 * B. Stroud _The Significance of Philosophical Skepticism_Oxford University Press, Oxford: 1984.
-* L. Wittgenstein _On Certainty_ Blackwell, Oxford: 1969.
+* L. Wittgenstein *On Certainty* Blackwell, Oxford: 1969.
 * C. J. Wright ‘Facts and Certainty’ _Proceedings of the British Academy_lxxi (1985) 429-72.
 
 #### Section 7. Moore's Legacy
 
-* L. Wittgenstein _Philosophical Investigations_ Blackwell, Oxford: 1953 (see part II section x for ‘Moore's paradox’).
+* L. Wittgenstein *Philosophical Investigations* Blackwell, Oxford: 1953 (see part II section x for ‘Moore's paradox’).
 
 ## Academic Tools
 
@@ -230,4 +229,4 @@ For a complete bibliography of Moore's published writings up to 1966, see P. A. 
 [analysis](https://plato.stanford.edu/entries/analysis/) | [Ayer, Alfred Jules](https://plato.stanford.edu/entries/ayer/) | [Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [metaethics](https://plato.stanford.edu/entries/metaethics/) | [Moore, George Edward: moral philosophy](https://plato.stanford.edu/entries/moore-moral/) | [moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/) | [naturalism: moral](https://plato.stanford.edu/entries/naturalism-moral/) | [perception: epistemological problems of](https://plato.stanford.edu/entries/perception-episprob/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [reasons for action: justification, motivation, explanation](https://plato.stanford.edu/entries/reasons-just-vs-expl/) | [Reid, Thomas](https://plato.stanford.edu/entries/reid/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [sense data](https://plato.stanford.edu/entries/sense-data/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [supervenience](https://plato.stanford.edu/entries/supervenience/) | [truth: identity theory of](https://plato.stanford.edu/entries/truth-identity/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 [Copyright © 2004](https://plato.stanford.edu/info.html#c) by\
-[Tom Baldwin](http://www.york.ac.uk/philosophy/staff/thomas-baldwin/) <[_trb2@york.ac.uk_](mailto:trb2%40york%2eac%2euk)>
+[Tom Baldwin](http://www.york.ac.uk/philosophy/staff/thomas-baldwin/) <[*trb2@york.ac.uk*](mailto:trb2%40york%2eac%2euk)>

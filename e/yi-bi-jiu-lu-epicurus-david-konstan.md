@@ -4,8 +4,6 @@
 
 伊壁鸠鲁（341-270 B.C.E.）的哲学是一个完整且相互依存的系统，涉及人生目标的观点（幸福，源自身体疼痛和精神干扰的缺失），认识论的经验主义理论（感觉，连同对快乐和痛苦的感知，是无可辩驳的标准），基于原子主义唯物主义的自然描述，以及从世界形成到人类社会出现的自然主义进化论。伊壁鸠鲁相信，基于一种彻底的唯物主义，摒弃了像柏拉图的理念或形式这样的超验实体，他可以反驳灵魂死后的生存可能性，从而否定了来世受罚的前景。他认为，对死亡和惩罚的未被承认的恐惧是人类焦虑的主要原因，焦虑反过来是极端和非理性欲望的根源。消除这些恐惧和相应的欲望将使人们自由地追求他们自然倾向的快乐，无论是身体上的还是精神上的，并享受因定期预期和实现的满足而产生的心灵平静。仍需解释为何非理性恐惧首次产生：因此社会进化的描述至关重要。伊壁鸠鲁意识到，根深蒂固的思维习惯不容易纠正，因此他提出了各种辅助新手的练习。他的体系包括关于正确对待政治（尽可能避免）和神灵（不要想象他们关心人类及其行为）的建议，性的作用（可疑），婚姻（同样可疑）和友谊（必不可少），对各种气象和行星现象性质的思考，关于这些最好保持开放态度，因为缺乏决定性验证，以及对引力（即物体落到地球表面的倾向）和磁性等过程的解释，这对早期原子论者的聪明才智提出了相当大的挑战。尽管伊壁鸠鲁主义的整体结构旨在保持一致并为其主要的伦理目标服务，但在系统的每个方面都有大量引人入胜的哲学论证的空间，从真空中原子的速度到光学错觉的起源。
 
-
-
 ---
 
 ## 1. 资源
@@ -245,7 +243,7 @@
 * Purinton, Jeffrey S., 2001. “Epicurus on the Nature of the Gods,” *Oxford Studies in Ancient Philosophy*, 21: 181–231.
 * Sedley, David, 2011. “Epicurus’ Theological Innatism,” in Jeffrey Fish and Kirk Sanders (eds.), *Epicurus and the Epicurean Tradition*, Cambridge: Cambridge University Press, pp. 29–52.
 
-#### Evolution of Society.
+#### Evolution of Society
 
 * Cole, Thomas, 1967. *Democritus and the Sources of Greek Anthropology*, Cleveland: American Philological Association.
 * Grilli, Alberto, 1995. “Lucrezio ed Epicuro: la storia dell’uomo,” *Parola del Pasato*, 50: 16–45.

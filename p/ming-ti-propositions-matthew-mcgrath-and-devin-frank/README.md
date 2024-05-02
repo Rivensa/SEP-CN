@@ -1,6 +1,5 @@
 # 命题 propositions (Matthew McGrath and Devin Frank)
 
- 
 ---
 
 ## 1. 属性：基本概念

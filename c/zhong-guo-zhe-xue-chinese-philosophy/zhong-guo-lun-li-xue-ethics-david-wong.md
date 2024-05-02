@@ -1,9 +1,8 @@
 # 中国伦理学 ethics (David Wong)
 
-_首次发表于 2008 年 1 月 10 日；实质性修订于 2023 年 8 月 10 日_
+*首次发表于 2008 年 1 月 10 日；实质性修订于 2023 年 8 月 10 日*
 
 中国伦理思想的传统主要关注一个人应该如何生活的问题：一个有价值的生活需要考虑什么，如何权衡对家庭的责任与对陌生人的责任，人类的本性是天生善良还是邪恶，一个人应该如何与非人类世界相处，一个人应该在多大程度上参与改革社会和政治结构，以及一个人在拥有影响力或权力时应该如何行事。个人、社会和政治在中国对这一主题的探讨中经常交织在一起。任何想要汲取有关这一主题的重要传统思想范围的人都需要认真研究中国传统。这一传统的经典文本已经被亚洲社会的学童背诵了数百年，同时也成为根植于不同传统和方法的学者和理论家进行复杂和严谨分析的对象。本文将介绍儒家、墨家、道家、法家和中国佛教中一些最具影响力的文本引发的伦理问题，重点关注前四者，它们是中国本土的，并在中国哲学的古典时期（公元前 6 世纪中叶至公元前 3 世纪末）产生。
-
 
 ***
 
@@ -31,13 +30,13 @@ _首次发表于 2008 年 1 月 10 日；实质性修订于 2023 年 8 月 10 �
 
 最经常讨论的理想是_君子_。这个中文词最初的意思是“王子”，但在_论语_中，它指的是_道德_的高贵。最早的英文翻译将其译为“绅士”，但艾姆斯和罗斯蒙特（1998 年）有用地建议称之为“楷模人”。与道德高贵相关的特质包括孝顺、尊重和致力于传统仪式行为形式的执行，以及在特定情况下判断应该做什么的能力。这些特质是美德，因为它们对于遵循_道_，即人类应该过的生活方式是必要的。正如余（2007 年）所指出的，_道_在古代中国伦理学中扮演着类似于古希腊伦理学中的幸福或繁荣所扮演的角色。_君子_是具有使其能够遵循_道_的美德的伦理楷模。
 
-除了_道_和_君子_的概念外，_仁_的概念是《论语》中的一个统一主题。在孔子之前，_仁_的概念指的是血统的贵族，意思类似于贵族的强壮和英俊外表。但在《论语》中，这个概念是指任何人都有潜力实现的道德卓越。对于_仁_，有许多不同的翻译。许多翻译试图传达完全的道德美德的概念，暗示了一种全面的道德卓越状态。在《论语》中的许多地方，_仁_的人被视为与_君子_等同，表明_仁_具有完整或全面的道德卓越意义，没有任何特定的美德，但却拥有所有美德。然而，在《论语》中的一些地方，_仁_被视为智慧和勇气等其他美德之一。在作为其他美德之一的更狭义意义上，它在 12.22 中被解释为关心他人。正是基于这些段落，其他译者，如 1970 年的刘德樵，使用“仁慈”来翻译_仁_。然而，其他人尝试更明确地传达“_仁_”的意义，即通过使用“善”或“善良”来翻译（参见 Waley，1938 年，1989 年；Slingerland，2003 年）。_仁_作为特定美德和全面卓越的意义可能是相关的，因为对他人的关心和尊重等态度可能是不同形式道德卓越的普遍方面，例如，这些态度可能在仪式表演中得以表达，如下文所讨论的，或者根据情境进行正确或适当的行动。但这个建议是推测性的，因为_仁_的本质仍然如此难以捉摸，所以它将在这里简单地被称为“_仁_”。
+除了_道_和_君子_的概念外，_仁_的概念是《论语》中的一个统一主题。在孔子之前，*仁_的概念指的是血统的贵族，意思类似于贵族的强壮和英俊外表。但在《论语》中，这个概念是指任何人都有潜力实现的道德卓越。对于_仁*，有许多不同的翻译。许多翻译试图传达完全的道德美德的概念，暗示了一种全面的道德卓越状态。在《论语》中的许多地方，_仁_的人被视为与_君子_等同，表明_仁_具有完整或全面的道德卓越意义，没有任何特定的美德，但却拥有所有美德。然而，在《论语》中的一些地方，*仁_被视为智慧和勇气等其他美德之一。在作为其他美德之一的更狭义意义上，它在 12.22 中被解释为关心他人。正是基于这些段落，其他译者，如 1970 年的刘德樵，使用“仁慈”来翻译_仁*。然而，其他人尝试更明确地传达“*仁*”的意义，即通过使用“善”或“善良”来翻译（参见 Waley，1938 年，1989 年；Slingerland，2003 年）。_仁_作为特定美德和全面卓越的意义可能是相关的，因为对他人的关心和尊重等态度可能是不同形式道德卓越的普遍方面，例如，这些态度可能在仪式表演中得以表达，如下文所讨论的，或者根据情境进行正确或适当的行动。但这个建议是推测性的，因为_仁_的本质仍然如此难以捉摸，所以它将在这里简单地被称为“*仁*”。
 
 为什么在《论语》中讨论的中心美德如此难以捉摸呢？答案可能在于中国哲学中的先验经验所起的作用。Tan（2005）指出《论语》中作为道德楷模的人物数量和生动性。她认为，这个文本邀请我们运用想象力，设想这些人可能是什么样子，以及我们自己在努力效仿他们时可能会变成什么样。她指出，想象力引起我们对美德的细节的关注，激发我们的情感和欲望。Amy Olberding（2008，2012）将楷模主义的概念发展成为儒家认识论，根据这一认识论，我们通过遇见相关的对象或人获得了许多重要的知识。初次接触时，我们可能对使他们如此吸引我们的品质知之甚少，但我们会被激发进一步调查。孔子将周代早期传奇人物，如周公、武王和文王等，视为楷模。孔子对他的学生们也是一个楷模，也许是仁德的楷模，尽管他从未为自己宣称这种美德。《论语》第十篇展示了孔子对待日常生活中的人的方式似乎过分关注，例如，如果他看到他们穿着丧服，他会显得庄重或向前倾在车的柱上。如果孔子被视为学生们试图学习的美德的楷模，这种关注就变得更加可理解。《论语》中第十篇和其他地方的重点也表明，美德的主要所在在于人们在日常生活的纽带中如何对待彼此，而不是在当代西方道德哲学中所讨论的戏剧性道德困境中。
 
-### 2.2 _礼_ 或仪式的中心地位
+### 2.2 *礼* 或仪式的中心地位
 
-_论语_ 1.15 将修养个人品德的工程比作从原材料中精心制作出精美物品：切割骨头，雕刻一块角，打磨或磨光一块玉。这一章还强调了在这个工程中_礼_（礼仪，仪式）的重要性。在_论语_中，仪式的范围相当广泛，包括祭祖仪式、父母的葬礼，以及规范家庭内和朋友之间尊重和得体行为的习俗，在村庄与他人日常互动中，以及官员在朝廷履行职责时的礼仪规范。
+*论语* 1.15 将修养个人品德的工程比作从原材料中精心制作出精美物品：切割骨头，雕刻一块角，打磨或磨光一块玉。这一章还强调了在这个工程中_礼_（礼仪，仪式）的重要性。在_论语_中，仪式的范围相当广泛，包括祭祖仪式、父母的葬礼，以及规范家庭内和朋友之间尊重和得体行为的习俗，在村庄与他人日常互动中，以及官员在朝廷履行职责时的礼仪规范。
 
 仪式是“私人即政治”的典范。从个人角度来看，参与仪式，学习正确地进行仪式并在执行过程中保持尊重和考虑的正确态度，就是在进行一种自我的切割、雕刻、打磨和磨光。儒家伦理学最显著的特征之一是仪式表演在品德修养中的核心地位。例如，虽然亚里士多德的习惯化通常对应于儒家对品德的培养，但在亚里士多德那里并没有类似的强调，即仪式表演在这一品德转化过程中的作用。仪式在政治上也是如此，因为一个社会的正确治理被认为建立在社会各个层面关系的适当行为基础之上，从家庭关系作为基础开始。正如奥尔伯丁所说，术语_礼_既涵盖了良好的礼仪，也涵盖了政治文明，因为儒家没有区分二者：“两者都需要解释情境并引导行为，以传达尊重、考虑和容忍。在这两者中取得成功通常也将取决于发展出的性情，先前的模式使我更倾向于一种反应而不是另一种”（2019 年，28 页）。
 
@@ -57,13 +56,13 @@ Kwong-loi Shun 对仁和礼的看法与第三种方法相容。顺认为，一�
 
 Chenyang Li（2007）提出了一种基于对 12.1 中使用的“为”一词的不同阅读的不同方法，通常被翻译为“构成”，以表达关键句“克己复礼为仁”。李指出，这个词的一个常见含义是“使”或“导致”。礼和仁之间的关系不必被解释为定义性或构成性，也不必被解释为纯粹的工具性。李提出，礼的功能有点像文化语法，而仁则像是对文化的掌握。掌握一门语言意味着掌握其语法，但不反之亦然。
 
-Both Shun and Li are striving to capture a way in which _ren_ does not reduce to _li_ but also a way in which _li_ is more than purely instrumental to the realization of _ren_. There are good philosophical reasons for this move. Consider the reasons for resisting the reduction of _ren_ to _li_. As indicated above, 9.3 suggests that the attitudes of respect and reverence that are expressed by ritual forms are not reducible to any particular set of such forms, and Shun has a point in arguing that such attitudes could be expressed by different sets of such forms as established by different communities. In studying the cultures of other communities, we recognize that certain customs are meant to signify respect, even if we do not share these customs, just as we recognize that something that does not signify disrespect in our culture does indeed so signify in another culture. The fact that we can distinguish the attitude from the ritual forms that we use to express them allows us to consider alternative ritual forms that could express the same or similar attitude. Ceremonial caps that are made of more economical material are acceptable, perhaps, because wearing such caps do not affect the spirit of the ceremony. By contrast, bowing after one ascends the stairs constitutes an unacceptable change in attitude. To maintain that particular ritual forms do not _define_ the respect and reverence they are intended to express is not to underestimate their importance for cultivating and strengthening these attitudes. Acting in ways that express respect given the conventionally established meanings of accepted ritual forms helps to strengthen the agent’s disposition to have respect. The ethical development of character does involve strengthening some emotional dispositions over others, and we
+Both Shun and Li are striving to capture a way in which *ren* does not reduce to *li* but also a way in which *li* is more than purely instrumental to the realization of *ren*. There are good philosophical reasons for this move. Consider the reasons for resisting the reduction of *ren* to *li*. As indicated above, 9.3 suggests that the attitudes of respect and reverence that are expressed by ritual forms are not reducible to any particular set of such forms, and Shun has a point in arguing that such attitudes could be expressed by different sets of such forms as established by different communities. In studying the cultures of other communities, we recognize that certain customs are meant to signify respect, even if we do not share these customs, just as we recognize that something that does not signify disrespect in our culture does indeed so signify in another culture. The fact that we can distinguish the attitude from the ritual forms that we use to express them allows us to consider alternative ritual forms that could express the same or similar attitude. Ceremonial caps that are made of more economical material are acceptable, perhaps, because wearing such caps do not affect the spirit of the ceremony. By contrast, bowing after one ascends the stairs constitutes an unacceptable change in attitude. To maintain that particular ritual forms do not *define* the respect and reverence they are intended to express is not to underestimate their importance for cultivating and strengthening these attitudes. Acting in ways that express respect given the conventionally established meanings of accepted ritual forms helps to strengthen the agent’s disposition to have respect. The ethical development of character does involve strengthening some emotional dispositions over others, and we
 
-strengthen dispositions by acting on them. By providing conventionally established, symbolic ways to express respect for others, ritual forms give participants ways to act on and therefore to strengthen the right dispositions. The cultivating function of observing ritual highlights the distinctive practical focus of Confucian ethics. It is every bit as concerned with _how_ to acquire the right sort of character as it is with what the right sort is.
+strengthen dispositions by acting on them. By providing conventionally established, symbolic ways to express respect for others, ritual forms give participants ways to act on and therefore to strengthen the right dispositions. The cultivating function of observing ritual highlights the distinctive practical focus of Confucian ethics. It is every bit as concerned with *how* to acquire the right sort of character as it is with what the right sort is.
 
 另一方面，有充分的理由抵制将_礼_简单地归纳为表达和培养一套态度和情感倾向的角色。在他有影响力的解释（1972 年）中，赫伯特·芬加瑞特将仪式表演解释为一种自成体系的目的，作为美丽和庄严的、开放和共享的参与仪式的方式，庆祝人类社区。仪式表演被内化，以至于成为第二天性，以至于优雅而自然地表现出来，这是一个完全实现的人类生活的重要组成部分。展示尊重的方式有非常规的维度，比如为父母准备食物（见_论语_2.7），但是代理人这样做的特定方式将深受习俗的影响。事实上，习俗规定了什么是恭敬地端食物的方式。在儒家观点中，按照社区习俗所规定的优雅和全心全意地这样做是生活一个完全人类生活的一部分。
 
-仪式构成了_仁_的重要组成部分，因此它不仅仅是用来提炼_仁_实质的工具。同时，它也不是_仁_的全部。考虑到_仁_涉及态度倾向的部分。态度并不能简单地归结为仪式形式，即使按照这种形式行事可以培养和保持态度。此外，7.30 强调了对_仁_的渴望与其实现之间的联系（“如果我只是渴望_仁_，我会发现它已经存在”）。当然，实现_仁_是一段艰难而漫长的旅程，因此 7.30 暗示真正渴望它是实现这一目标的核心。_仁_的多面性在第 12 册中显现，孔子在那里被描绘为给出不同的_仁_描述。在 12.1 中，正如前面所指出的，他说仪式造就_仁_。但是在 12.2 中，他说_仁_涉及在公共场合中表现得好像在接待重要客人，以及在管理普通人时表现得好像在主持一次盛大的祭祀（对他人表示尊重的责任）。12.2 还将_仁_与_恕_或“体谅”联系起来，不把自己不希望的事情强加给他人。这里的重点不是那么多地放在仪式上，或者说不仅仅是仪式，而是放在一个人向他人展示的态度上，以及根据将自己投射到他们的处境中来理解他人想要或不想要的能力。在 12.3 中，当被问及_仁_时，孔子说_仁_的人不轻易言语（暗示这样的人非常小心，不让言语超过行动）。然后在 12.22 中，当被问及_仁_时，孔子说那就是关心人。如果_仁_是完整的道德美德或全面的卓越，包括许多维度，但不仅限于与_礼_相关的卓越种类，这样多样化的描述是合适的。
+仪式构成了_仁_的重要组成部分，因此它不仅仅是用来提炼_仁_实质的工具。同时，它也不是_仁_的全部。考虑到_仁_涉及态度倾向的部分。态度并不能简单地归结为仪式形式，即使按照这种形式行事可以培养和保持态度。此外，7.30 强调了对_仁_的渴望与其实现之间的联系（“如果我只是渴望_仁_，我会发现它已经存在”）。当然，实现_仁_是一段艰难而漫长的旅程，因此 7.30 暗示真正渴望它是实现这一目标的核心。*仁_的多面性在第 12 册中显现，孔子在那里被描绘为给出不同的_仁_描述。在 12.1 中，正如前面所指出的，他说仪式造就_仁*。但是在 12.2 中，他说_仁_涉及在公共场合中表现得好像在接待重要客人，以及在管理普通人时表现得好像在主持一次盛大的祭祀（对他人表示尊重的责任）。12.2 还将_仁_与_恕_或“体谅”联系起来，不把自己不希望的事情强加给他人。这里的重点不是那么多地放在仪式上，或者说不仅仅是仪式，而是放在一个人向他人展示的态度上，以及根据将自己投射到他们的处境中来理解他人想要或不想要的能力。在 12.3 中，当被问及_仁_时，孔子说_仁_的人不轻易言语（暗示这样的人非常小心，不让言语超过行动）。然后在 12.22 中，当被问及_仁_时，孔子说那就是关心人。如果_仁_是完整的道德美德或全面的卓越，包括许多维度，但不仅限于与_礼_相关的卓越种类，这样多样化的描述是合适的。
 
 如果我们将有关礼和仁的相关段落视为一个整体，其中嵌入了一种连贯的观点，那么有充分的理由认为遵守仪式礼仪是仁的一个组成部分，同时也是实现仁的一些其他维度至关重要的手段。但这并不能穷尽仁的实质。如果文本像布鲁克斯所主张的那样具有根本的增补性，那么关系的建构提议更多地是对关系性质的最佳哲学立场可能是什么的重建。只要我们认识到这一点，重建的可能性就不应该令人不安。在一个复杂而充满活力的传统中，思想家经常重新诠释、扩展、发展、修订，甚至拒绝从过去继承的一些东西。《论语》本身可能是这种参与的产物，这一事实可以被有益地视为鼓励其现在的学生以同样的方式与文本互动。
 
@@ -73,7 +72,7 @@ strengthen dispositions by acting on them. By providing conventionally establish
 
 此外，要理解为什么儒家认为仪式实践的生活在某种程度上构成了完全人类生活的一部分，就必须理解他们对完全人类生活概念的审美维度。这样的生活是按照传统确立的形式与他人进行美丽而优雅的协调互动，表达出相互尊重。完全人类生活所附加的价值很大程度上在于“舞蹈”（Ihara，2004）的审美维度，人们与他人一起表演。要更好地理解为什么在儒家伦理学中道德和审美不能被清晰分开，可以考虑，尊重的优雅和全心全意的表达之所以美丽，正是因为它反映了行动者将这种道德态度作为第二天性的程度。美丽具有道德维度。这两个主题——情境化道德判断的重要性和根据习俗和传统进行人际互动的审美价值——为例如英美道德哲学的从业者提供了反思他们对道德生活的方法可能忽视的机会。
 
-### 2.3 _仁_ 和 _礼_ 作为相对于个体自主价值的关系价值
+### 2.3 *仁* 和 *礼* 作为相对于个体自主价值的关系价值
 
 考虑_仁_作为关心他人的特定美德，_礼_作为受人尊重的人类舞蹈。这些价值是表征儒家伦理学作为一种关系伦理学的基础，这意味着它在某种程度上以将关系置于幸福生活的中心为特点（见 Ames，2011，2021）。儒家伦理学通常被认为与强调个体自主权和选择生活方式的伦理学形成对比。虽然这种对比有很多道理，但必须进行仔细描述，以便将其与其他对比区分开来。例如，个体自主权的价值通常包括几个不一定相互伴随的维度：（1）在个人利益与团体或集体利益发生冲突时，优先考虑个人利益；（2）在一定道德范围内，给予个体从广泛范围内选择生活方式的道德许可；以及（3）强调根据个人对是非和善恶的理解生活的重要性，即使他人不以同样方式看待。
 
@@ -105,13 +104,13 @@ strengthen dispositions by acting on them. By providing conventionally establish
 
 汉代墨家在古典时期获得的大量追随者迫使儒家做出回应（有关墨子对中国传统的重要影响，请参阅汉森，1992 年，和范·诺登，2007 年）。他们在两个问题上做出了回应：首先，他们必须解决对所有人的关心需要什么，以及如何将这种关心与儒家关怀有所区别的更大关切相调和；其次，他们必须解决人类可能具有何种关切动机的问题，部分是为了回应墨家的论点，即行动“兼爱”并不困难（他们将其解释为与关怀有所区别相悖），部分是为了回应那些怀疑人类是否可能行动基于任何真正关心他人的人。孟子在据称记录其教导的文本中，明确将自己定位为捍卫儒家的任务，不仅反对墨家，还反对杨朱的教导。在孟子看来，杨朱的教导似乎与墨家截然相反（没有幸存的文本声称表达和捍卫杨家学说）。根据孟子的描述，杨朱批评墨家和儒家都要求人们为他人牺牲。在这一观点上，杨朱是一位伦理利己主义者：即，认为促进自身福祉总是正确的人。孟子将儒家定位为在只关心自己和对每个人具有同等关切之间的极端之间占据正确中庸之道。
 
-_Mencius_ 1A7 声称是孟子与宣王之间对话的记述，宣王是一个中国国家的统治者。孟子试图说服国王采纳儒家的_道_或统治方式。国王怀疑自己是否真的能成为孟子所倡导的那种国王，孟子则回答说，他听说关于国王的以下故事是否属实。故事是国王看到一头牛被带去进行祭祀的宰杀。国王决定饶恕那头牛，用一只羔羊替代祭祀。回想起那个场合，国王回忆起是牛眼中的神情，就像一个被带去执行的无辜人，促使他替换了羔羊。孟子接着评论说，这个故事表明国王有成为真正国王的能力，他所要做的就是将他对待牛所表现出的同情心扩展到自己的人民身上。说他可以关心牛但不能关心自己的人民，就像说“我的力量足以举重，但不足以举羽”（翻译改编自刘, 1970a）。他未能代表他的人民行动，仅仅是因为他没有行动，而不是因为无法行动。孟子建议，国王要做的是尊敬家中的老人，然后扩展到其他家庭的老人；对待自己的年轻人如年轻人，然后扩展到其他家庭的年轻人；然后他就能掌握整个世界。
+*Mencius* 1A7 声称是孟子与宣王之间对话的记述，宣王是一个中国国家的统治者。孟子试图说服国王采纳儒家的_道_或统治方式。国王怀疑自己是否真的能成为孟子所倡导的那种国王，孟子则回答说，他听说关于国王的以下故事是否属实。故事是国王看到一头牛被带去进行祭祀的宰杀。国王决定饶恕那头牛，用一只羔羊替代祭祀。回想起那个场合，国王回忆起是牛眼中的神情，就像一个被带去执行的无辜人，促使他替换了羔羊。孟子接着评论说，这个故事表明国王有成为真正国王的能力，他所要做的就是将他对待牛所表现出的同情心扩展到自己的人民身上。说他可以关心牛但不能关心自己的人民，就像说“我的力量足以举重，但不足以举羽”（翻译改编自刘, 1970a）。他未能代表他的人民行动，仅仅是因为他没有行动，而不是因为无法行动。孟子建议，国王要做的是尊敬家中的老人，然后扩展到其他家庭的老人；对待自己的年轻人如年轻人，然后扩展到其他家庭的年轻人；然后他就能掌握整个世界。
 
 这段文字展示了文本的一个特点，与孟子对墨家的回应以及可能对他的影响相关。与_论语_相比，统治者照顾人民的责任更频繁地被讨论，并在统治者道德卓越的概念中扮演更重要的角色。在这个文本中，孟子被描绘为非常积极地劝说中国国家的君王停止虐待他们的臣民，停止征召他们参加领土扩张的战争，并避免过度征税以资助他们的战争和奢侈项目。同时，孟子声称国王能够将他对待牛所表现出的关心扩展到自己的人民，这是对那些主张阳货主义的人的回应，因为他们认为为了自己的利益而行动是自然的。孟子认为，自然的同情心是人性的一部分。道德修养的任务就是“扩展”自然的东西。自然的，或者至少更自然的，是正确地对待家庭中的老人和年轻人，然后将其扩展到其他家庭的老人和年轻人。
 
 延伸是必要的，因为自然的同情心与其延伸的地方相比是不均匀的。宣王可能会觉得对即将被处死的无辜者或即将被宰杀的恐惧的牛表现出同情是自然的，但当他专注于领土扩张战争可能给他带来的好处时，他可能不会对所有臣民都表现出同情。孟子、国王和牛的这个故事是对道德发展本质进行反思的丰富素材。发展似乎必须始于某种适合塑造成道德美德的东西，并且很可能我们开始的东西并不完全如应该的那样。这个故事提出的问题是道德的自然基础是什么，以及进一步的发展是如何发生的。孟子关于“四端”的理论回答了这些问题。“端”字的字面意思是“某物的尖端”，在这个背景下通常被翻译为“起点”。
 
-道德的四个起点是什么？在 2A6 人性（_ren xing_）中说，没有人是没有对他人痛苦敏感的心（中文中的心代表思维和感觉的所在，因此经常被翻译为“心智”），为了说明这个起点，孟子让我们假设一个人突然看到一个小孩即将掉进井里。这样的人肯定会被同情所感动，不是因为他想讨好父母，也不是因为他希望赢得村民或朋友的赞扬，也不是因为他讨厌孩子的哭声。这种自然的同情可以发展成为仁德（在孟子那里，仁德更常是关心的一种美德，因此经常被翻译为“仁爱”或“人道”）。第二个起点是在某些情况下感到羞耻的心，例如，在 6A10 中，孟子说，如果米饭和汤被践踏后被提供，即使是乞丐也会鄙视它们。在适当的条件下，天生的羞耻会发展成为义德，即能够做正确的事并致力于做到。第三个起点是感到礼貌的心，例如，年幼者有时本能地知道要尊重并对年长者有礼貌。在适当的条件下，礼貌会发展成为礼德，作为一种美德，包括遵守礼仪或仪式端庄的美德。最后，还有一颗能够做出道德相关区分的心（_shi/fei_，该做或不该做）。在适当的条件下，这种赞同和反对的感觉会发展成为智慧，其中包括理解道德规则背后的精神，以便知道如何灵活地应用它们。
+道德的四个起点是什么？在 2A6 人性（*ren xing*）中说，没有人是没有对他人痛苦敏感的心（中文中的心代表思维和感觉的所在，因此经常被翻译为“心智”），为了说明这个起点，孟子让我们假设一个人突然看到一个小孩即将掉进井里。这样的人肯定会被同情所感动，不是因为他想讨好父母，也不是因为他希望赢得村民或朋友的赞扬，也不是因为他讨厌孩子的哭声。这种自然的同情可以发展成为仁德（在孟子那里，仁德更常是关心的一种美德，因此经常被翻译为“仁爱”或“人道”）。第二个起点是在某些情况下感到羞耻的心，例如，在 6A10 中，孟子说，如果米饭和汤被践踏后被提供，即使是乞丐也会鄙视它们。在适当的条件下，天生的羞耻会发展成为义德，即能够做正确的事并致力于做到。第三个起点是感到礼貌的心，例如，年幼者有时本能地知道要尊重并对年长者有礼貌。在适当的条件下，礼貌会发展成为礼德，作为一种美德，包括遵守礼仪或仪式端庄的美德。最后，还有一颗能够做出道德相关区分的心（*shi/fei*，该做或不该做）。在适当的条件下，这种赞同和反对的感觉会发展成为智慧，其中包括理解道德规则背后的精神，以便知道如何灵活地应用它们。
 
 重要的是要注意，孟子对道德的起源并不仅仅是盲目的感受或原始的行为冲动，而是包含了关于是非对错、应该被蔑视和应该受尊敬的某些直觉判断。在不接受被践踏的食物的乞丐的例子中，似乎孟子在暗示我们有一种原始的、未经学习的感知，使我们能够判断作为人类对自己应该给予的尊重。同样，在暗示我们有一种未经学习的尊重感时，孟子在暗示我们对长者和父母等他人应得的尊重也有一种未经学习的感知。孟子的理论与一些最近关于情感的理论相吻合，这些理论指向认知和情感维度的交织（然而，该理论并不一定意味着情感仅仅等同于认知，这将在后面讨论）。
 
@@ -169,9 +168,9 @@ _Mencius_ 1A7 声称是孟子与宣王之间对话的记述，宣王是一个中
 
 正如爱德华·斯林格兰（2011）所说，儒家学说在欣赏情境影响对自己和他人培养德行项目的“高标准”挑战方面处于一个良好的位置。作为对这一挑战的回应，他们的伦理训练计划包括学习经典（在古代之后，经典当然包括《论语》和《孟子》），这些经典被背诵和排练，直到完全内化并嵌入到无意识的思维模式中，这些模式在塑造我们日常生活中的所作所为方面具有强大的影响力（参见斯林格兰 2009）。这是儒家自我修养的一个特征模式：一个人有意识地、刻意地和刻苦地进行一个计划，灌输出具有道德适当情感反应和行为模式的性情。其目的是使这些反应的性情变得可靠并抵抗不当情境的影响。
 
-此外，儒家非常欣赏模范的力量，能够激发人们的灵感，让人想要超越自我（参见 Tan，2005 年以及 Olberding，2008 年，2012 年，2016 年）。心理学家乔纳森·海德特（2003 年）提供了一个他称之为“升华”的情感的实证证据，这种情感类似于对道德令人钦佩的事物产生敬畏和钦佩之情。事实上，《论语》实际上被解读为一群围绕着一个有能力提升的老师聚集的人们的记录，也被解读为这个群体如何创造了一个将自我转变的目标视为协作项目的文化的记录。这些人不仅讨论了修养的本质，而且将其作为一种关系过程来实施，在这个过程中，他们相互支持，强化共同目标，并在彼此偏离道路（_dao_）时充当对方的。他们是彼此的情境影响。参见 Sarkissian，2010 年的论点，认为孔子展示了如何将情境的力量转变为对人们态度和行为产生积极影响；如果情境可以影响人们，通过举止和态度的细微之处，一个人可以成为对他人产生情境影响的人，使事物朝着更好的方向发展。
+此外，儒家非常欣赏模范的力量，能够激发人们的灵感，让人想要超越自我（参见 Tan，2005 年以及 Olberding，2008 年，2012 年，2016 年）。心理学家乔纳森·海德特（2003 年）提供了一个他称之为“升华”的情感的实证证据，这种情感类似于对道德令人钦佩的事物产生敬畏和钦佩之情。事实上，《论语》实际上被解读为一群围绕着一个有能力提升的老师聚集的人们的记录，也被解读为这个群体如何创造了一个将自我转变的目标视为协作项目的文化的记录。这些人不仅讨论了修养的本质，而且将其作为一种关系过程来实施，在这个过程中，他们相互支持，强化共同目标，并在彼此偏离道路（*dao*）时充当对方的。他们是彼此的情境影响。参见 Sarkissian，2010 年的论点，认为孔子展示了如何将情境的力量转变为对人们态度和行为产生积极影响；如果情境可以影响人们，通过举止和态度的细微之处，一个人可以成为对他人产生情境影响的人，使事物朝着更好的方向发展。
 
-在情境主义问题的背景下，仪式的训练（_li_）具有另一个重要维度。正如在第 2.2 节中所指出的，儒家仪式有助于表达对他人的尊重和崇敬的态度，这种态度可以独立于仪式本身存在，但仪式提供了传统建立的象征性方式来表达对他人的这些态度。因此，仪式形式为参与者提供了多方面的（同样重要的）定期重复的行动方式，从而加强正确的态度和行为倾向。鉴于当代心理学对情绪影响态度和行为的力量的重新认识，仪式训练提供的资源不应被任何关心如何抵制不当情境影响的人所忽视。
+在情境主义问题的背景下，仪式的训练（*li*）具有另一个重要维度。正如在第 2.2 节中所指出的，儒家仪式有助于表达对他人的尊重和崇敬的态度，这种态度可以独立于仪式本身存在，但仪式提供了传统建立的象征性方式来表达对他人的这些态度。因此，仪式形式为参与者提供了多方面的（同样重要的）定期重复的行动方式，从而加强正确的态度和行为倾向。鉴于当代心理学对情绪影响态度和行为的力量的重新认识，仪式训练提供的资源不应被任何关心如何抵制不当情境影响的人所忽视。
 
 最后，儒家指出，个体在适当的环境和鼓励下，可以增强对自己情绪和冲动的反思控制。孟子与宣王的对话可以被理解为试图让国王通过反思来滋养他的道德萌芽，意识到他的道德情感是什么（比如同情心），并采取行动来培养它们。值得注意的是，当代心理学正在探讨影响个体情绪和冲动自我控制发展的因素（例如，参见 Belsky 等人的 2022 年第 3 章）。参见 Lieberman（2011）和 Creswell（2007）的研究，表明专注于培养自身同情心的冥想可以通过增强个体识别和更好控制自己情绪的能力而取得成效。
 
@@ -189,7 +188,7 @@ _Mencius_ 1A7 声称是孟子与宣王之间对话的记述，宣王是一个中
 
 虽然荀子对于美德的培养过程有着非常不同的理论，但他也认为帮助个体成为胜任的道德行为者是一个集体任务。他讲述了一则发生在孔子担任司法部长时的故事。一个父亲和儿子卷入了一场法律纠纷。孔子拘留了他们俩，但最终释放了他们。当被问及为什么放过了儿子，而不惩罚他不孝时，孔子质疑了在上级有错时杀害下属的可允许性：不教化人民却审判他们的罪行就是杀害无辜；不教化人民却要求他们做出功绩就是残忍；只有当停止这些做法时才可以施加惩罚（第 28 章，参见 Hutton 2014 年翻译：319 页）。然而，如果具备足够的物质条件让人们将注意力集中在道德美德上，并且有他人能够指引学习的话，那么就取决于个体付出努力（参见孟子 6A9 和 Jiang 2002）。
 
-缺乏对成为负责任的道德行为者的条件的控制，如上所讨论的，可能导致个人责任的减轻。然而，也有可能对自己无法控制的事物负责。这可能是因为犯了道德错误的他人与自己有特殊关系。此外，这样的他人可以深入到一个人的身份中，以至于一个人无法否认他们的行为而不否认自我的一部分。在《孔子家语》（_The School Sayings of Confucius_，37.4 - 见其他互联网资源）中讲述了孔子忍住不谴责一位老朋友的不端行为并且不与之疏远的故事。孔子解释说，家庭成员永远不会失去使他们成为家庭的东西，老朋友永远不会失去使他们成为老朋友的东西。深厚而持久的友谊可以使我们在一定程度上对朋友的不当行为负责（参见 Ing 2017 年对这一段的启发性讨论）。
+缺乏对成为负责任的道德行为者的条件的控制，如上所讨论的，可能导致个人责任的减轻。然而，也有可能对自己无法控制的事物负责。这可能是因为犯了道德错误的他人与自己有特殊关系。此外，这样的他人可以深入到一个人的身份中，以至于一个人无法否认他们的行为而不否认自我的一部分。在《孔子家语》（*The School Sayings of Confucius*，37.4 - 见其他互联网资源）中讲述了孔子忍住不谴责一位老朋友的不端行为并且不与之疏远的故事。孔子解释说，家庭成员永远不会失去使他们成为家庭的东西，老朋友永远不会失去使他们成为老朋友的东西。深厚而持久的友谊可以使我们在一定程度上对朋友的不当行为负责（参见 Ing 2017 年对这一段的启发性讨论）。
 
 这种责任分配的后果源于儒家伦理中赋予关系的道德中心地位，但并非儒家伦理特有。玛格丽特·厄本·沃克（Margaret Urban Walker）（1993 年）观察到，接受对自己无法控制的情况负责的道德行为者因此“认识到他们对命运的脆弱性，从而为人类无比宝贵的可靠性做好了准备”，“即使在厄运的打击或命运的怪转下，他们也不会辜负我们，否则这可能会引发否认或机会主义”（1993 年，25-26）。
 
@@ -223,7 +222,7 @@ Kupperman (2000)认为，汉代伦理学可以从采纳女性主义的观点中�
 
 关于汉代对传统的取向问题本身就是一个有争议的解释问题。虽然汉代的态度在认为从过去可以找回许多智慧和指导方面毫无争议地是“保守”的，但有些人倾向于更极端的墨家解释，即汉代之所以接受传统仅仅是因为它是传统（例如，Hansen, 1992），而另一些人则将汉代的态度视为对传统的明智和批判性态度，引用《论语》3.15 等段落，其中孔子说他在大庙持续质疑本身就是一种礼或正确遵守仪式的行为（参见 Alan Chan, 2000）。此外，最重要的是，孔子是将“君子”的含义从贵族转变为道德高尚的人，可以来自任何背景。
 
-检索自己的文化遗产本身就是一个复杂而有争议的任务，考虑到任何充满活力的传统所特有的信仰和实践的内在多样性。在她描述中国思想家们如何在十九世纪末和二十世纪初致力于将西方思想引入改革自己社会的过程中，詹科（2015）指出，他们任务的一个关键部分是确定他们自己的文化遗产是什么，以便将其与可能涉及深刻转变的现在和未来联系起来。她指出，“孔子提供了一个关于如何将对特定过去的取向既是有意识的又是变革性的描述的最早案例之一，而不仅仅是对已建立身份的描述”，他对周的遗产的构想只是“当现在与那个特定的过去连接在一起时创造的许多可能谱系之一”（詹科，2015，57）。谭（2004，82）在声称儒家“只有当过去焕发生机，使其体现在当下的不同经历中时，遗产才能成功传承”时提出了类似观点。孔子认为那些“使古人焕发生机以实现新事物（_文古而知新_）”的人值得成为老师（《论语》2.11）。那些致力于将儒家伦理与妇女问题联系起来的人可以将他们的任务视为詹科和谭所描述的一种项目。
+检索自己的文化遗产本身就是一个复杂而有争议的任务，考虑到任何充满活力的传统所特有的信仰和实践的内在多样性。在她描述中国思想家们如何在十九世纪末和二十世纪初致力于将西方思想引入改革自己社会的过程中，詹科（2015）指出，他们任务的一个关键部分是确定他们自己的文化遗产是什么，以便将其与可能涉及深刻转变的现在和未来联系起来。她指出，“孔子提供了一个关于如何将对特定过去的取向既是有意识的又是变革性的描述的最早案例之一，而不仅仅是对已建立身份的描述”，他对周的遗产的构想只是“当现在与那个特定的过去连接在一起时创造的许多可能谱系之一”（詹科，2015，57）。谭（2004，82）在声称儒家“只有当过去焕发生机，使其体现在当下的不同经历中时，遗产才能成功传承”时提出了类似观点。孔子认为那些“使古人焕发生机以实现新事物（*文古而知新*）”的人值得成为老师（《论语》2.11）。那些致力于将儒家伦理与妇女问题联系起来的人可以将他们的任务视为詹科和谭所描述的一种项目。
 
 ### 2.11 儒家思想与自由民主
 
@@ -233,7 +232,7 @@ Kupperman (2000)认为，汉代伦理学可以从采纳女性主义的观点中�
 
 Kim (2016) 认为，禅宗的温和儒家完美主义版本并没有留下足够明显的儒家特色。传统上理解的孝道与族谱家族结构紧密相关，并与表达性别等级制度的仪式紧密相连，这就是为什么孝道的最大失败是未能生育继续男性家族血脉并进行祭祖仪式的男性继承人。另一方面，如果留下足够明显和传统的儒家特色，Kim 认为，一个人将不会拥有足够温和以适应当代东亚社会多元化的性质的完美主义。Kim 提出了他称之为“公共理由儒家主义”的替代方案，将传统儒家主义与民主价值观（包括民众主权、政治平等和政治参与权）进行对话。双方必须相互适应。实践中，似乎传统儒家主义所接受的最明显的不平等，包括支持妇女作为公民地位不平等的性别不平等，必须消失，尽管传统儒家协会保留一定程度的自主权来处理他们的事务，并在这些事务没有重大公共影响时保留“适度的不平等”（2016, 164）。Kim 可能需要解决的挑战之一是，在传统儒家主义和民主价值观之间的对话中是否出现了一些连贯且仍然具有明显儒家特色的东西。先前讨论过的关于儒家主义和性别平等的评论者说明了如何可以主张性别平等与儒家价值观更加相容，而不是人们通常认为的那样。他们还提出了“传统”儒家主义到底是什么，它是否是一种东西，以及它是否一直在不断变化。
 
-Angle (2012) 探讨了在完美主义和多元主义关于美好生活之间的紧张关系，他发展了二十世纪儒家牟宗三的一个论点。牟认为政治最终必须建立在道德价值观基础上，但担心政府试图推广特定美德和美好生活观念的过度。鉴于即使在最有成就的人类之间，实现道德洞察也存在困难，有必要在一定程度上将政治价值观与道德价值分开。即使是一位圣人政治领袖也必须进行“自我限制”（_ziwo kanxian_）。Angle 解释说，实践中，自我限制意味着建立民主制度和承认人权。这不仅设立了防护栏，防止政治领袖走上歧途，还为公民提供了参与公共生活的机会，这对于提升他们自身的道德洞察和进一步实现良好品德是必要的。
+Angle (2012) 探讨了在完美主义和多元主义关于美好生活之间的紧张关系，他发展了二十世纪儒家牟宗三的一个论点。牟认为政治最终必须建立在道德价值观基础上，但担心政府试图推广特定美德和美好生活观念的过度。鉴于即使在最有成就的人类之间，实现道德洞察也存在困难，有必要在一定程度上将政治价值观与道德价值分开。即使是一位圣人政治领袖也必须进行“自我限制”（*ziwo kanxian*）。Angle 解释说，实践中，自我限制意味着建立民主制度和承认人权。这不仅设立了防护栏，防止政治领袖走上歧途，还为公民提供了参与公共生活的机会，这对于提升他们自身的道德洞察和进一步实现良好品德是必要的。
 
 Tan (2003) 认为，儒家鼓励实现美德的方法是非强制性的，因为它对美好生活的构想是过程导向和可错误的，对人格的构想是社会性的和关系性的。人类通过彼此的关系过程成为人，通过为彼此的道德成长做出贡献。成长的意义只能在特定情况和导致当前情况的过程中得到有意义的判断。像孔子这样的人物之所以具有权威，不仅仅是因为他是谁，而是因为其他人对他做出自发的接受、钦佩和效仿。由于 Tan 认为这些儒家观念是极具说服力的，她认为儒家不仅与民主相容，而且民主需要吸收儒家的见解。在西方传统中，她发现约翰·杜威是一个对这些见解持同情态度的思想家。
 
@@ -265,15 +264,15 @@ Daniel Bell (2006) 和 Tongdong Bai (2013, 2015) 提出，一个立法议会由�
 
 墨家是由墨子创立的一个哲学学派，他大约与孔子同时代。关于他的事迹了解甚少，但一个合理的推测是墨子可能出身于工匠家庭。以他名字命名的文本包含据称是墨子的引文，但显然是不同人在相当长一段时间内的贡献。这个文本主张一种后果伦理，要求关心并为了所有人的利益而行动。最早对《墨子》作出贡献的人们对利益有一个非常具体和相对狭窄的概念，仅限于满足所有人的基本需求的物质商品（例如足够的食物、住所和温暖的衣物）、足够的人口和社会秩序。然而，后来的墨家似乎将他们的概念扩大到类似偏好满足标准，使用快乐和不快乐作为指标（请参阅斯蒂芬斯（Stephens）2021 年关于后来的墨家的解释；有关翻译，请参阅弗雷泽（Fraser）2020 年：卷 40-3 A 26-27）。
 
-_墨子_ 在其后果主义方面非常明确。它命名了三个用于判断信念和理论的可行性的标准（参见弗雷泽 2020 年，第 35 册）。一个标准是有用性。在应用这一标准时，人们根据采取行动的结果的有益或有害后果来评估信念或理论的可行性。另一个标准是查阅起源，即关于圣王行动的历史记录。人们确定被评判的信念或理论是否符合那些行动。第三个标准是查看人们的眼睛和耳朵提供的证据。这似乎指的是获得某种程度的主观共识的观察。每个标准都被呈现得好像其有效性可能独立于其他标准，但有迹象表明有用性标准是最基本的。首先，根据墨家的反对传统的理由，查阅圣王行动记录似乎不是一个好主意，除非这些行动之所以是好的指南，是因为它们产生了良好的结果，这是一个在其他有争议的哲学学派中普遍接受的历史判断。此外，在_墨子_中提出的据称基于主观观察的论点似乎极具疑点，例如，鬼魂存在是因为关于它们的故事经常被讲述。事实上，明确承认了鬼魂不存在的可能性（弗雷泽 2020 年，第 31 册），但是对精神进行祭祀是有道理的，因为它们在生者中产生了良好的效果。总的来说，鬼魂在文本中被很好地利用：它们的主要活动是报复那些冤枉了它们的活人。有用性标准指导其他标准的应用。甚至看似试图通过引用_天_或天意（弗雷泽，第 26 册）来证明有用性标准的做法也存在循环性。我们应该促进利益，避免伤害，因为那是天意，而天意是可以依赖的，因为它是最明智和最高贵的所有行动者。但是，一个生物何以被认为是明智和高贵的标准除了促进利益和避免伤害之外还有什么？此外，天意通过对恶人进行惩罚和对善人进行奖励来证明。再次，证据似乎高度选择性，并受到了看似被证明的有用性标准的指导。
+*墨子* 在其后果主义方面非常明确。它命名了三个用于判断信念和理论的可行性的标准（参见弗雷泽 2020 年，第 35 册）。一个标准是有用性。在应用这一标准时，人们根据采取行动的结果的有益或有害后果来评估信念或理论的可行性。另一个标准是查阅起源，即关于圣王行动的历史记录。人们确定被评判的信念或理论是否符合那些行动。第三个标准是查看人们的眼睛和耳朵提供的证据。这似乎指的是获得某种程度的主观共识的观察。每个标准都被呈现得好像其有效性可能独立于其他标准，但有迹象表明有用性标准是最基本的。首先，根据墨家的反对传统的理由，查阅圣王行动记录似乎不是一个好主意，除非这些行动之所以是好的指南，是因为它们产生了良好的结果，这是一个在其他有争议的哲学学派中普遍接受的历史判断。此外，在_墨子_中提出的据称基于主观观察的论点似乎极具疑点，例如，鬼魂存在是因为关于它们的故事经常被讲述。事实上，明确承认了鬼魂不存在的可能性（弗雷泽 2020 年，第 31 册），但是对精神进行祭祀是有道理的，因为它们在生者中产生了良好的效果。总的来说，鬼魂在文本中被很好地利用：它们的主要活动是报复那些冤枉了它们的活人。有用性标准指导其他标准的应用。甚至看似试图通过引用_天_或天意（弗雷泽，第 26 册）来证明有用性标准的做法也存在循环性。我们应该促进利益，避免伤害，因为那是天意，而天意是可以依赖的，因为它是最明智和最高贵的所有行动者。但是，一个生物何以被认为是明智和高贵的标准除了促进利益和避免伤害之外还有什么？此外，天意通过对恶人进行惩罚和对善人进行奖励来证明。再次，证据似乎高度选择性，并受到了看似被证明的有用性标准的指导。
 
 在解释墨家学说时一个关键问题是它需要怎样的关怀。正如前面所指出的，孟子解释墨家对"兼爱"的倡导是对所有人平等或公正关怀的倡导，但一些更重要的当代墨家学者对这种解释提出了问题。《墨子》文本中的三本书（Fraser 2020 年，第 14、15 和 16 卷）都以“兼爱”为题（由 Fraser 翻译为“包容关怀”）。这些书在内容上略有不同，也许表明了随着章节顺序的变化，墨家思想随时间而演变（参见 Defoort，2005-6）。那些不为他人做任何有益之事，如果他们与他们没有适当的关系，甚至伤害他们的人，与那些按照"兼爱"行事的人形成对比。在后两本书中，我们被告知要像关心自己一样关心他人，像看待自己一样看待他人，或者像为自己着想一样为他人着想。这样的表述可能合理地被理解为需要平等或公正的关怀。也许这就是为什么孟子解释墨子要求否认自己的父母（《孟子》3B9）。
 
 然而，《兼爱》一直将不关心他人视为对他人不孝的失败之一。相应地，他们将按照"兼爱"行事的好处之一视为实现亲子之间的关系美德，如孝道。此外，用来表达我们应该像关心自己一样关心他人，像看待自己一样看待他人，或者像为自己着想一样为他人着想的词语是"若"和"有"，这些词可以表示关系的平等或仅仅是相似（参见 Chiu 2013；Fraser 2016）。Chiu（2013）得出结论，"兼爱"只意味着对每个人都关心，而不要求关怀的平等。另一方面，Fraser（2016）指出《墨子》后几章（在称为"墨辩"或"墨家辩论"的部分中；参见 Fraser，2016：171）中支持平等或公正关怀解释的段落。
 
-进一步复杂化情况的是，有必要区分将“兼爱”作为对待他人的态度和对待他人的行为的规定。拥有平等关怀的态度并不意味着以相同的方式对待他人。实际上，个体行动者可利用的心理和物质资源的有限性似乎需要在对待他人的行动中存在一定程度的不平等。这可能至少部分解释了“兼爱”书籍在规定个体如何造福他人方面相对谨慎的原因，尽管在后几章中有一些要求的扩展。事实上，即使是后来的规定也似乎与儒家关怀与区别所规定的行为不相矛盾：避免伤害他人，参与互助关系，为那些无力照顾自己且缺乏能保护他们的家庭的人提供支持。因此，墨家可能最终认为，道德劳动的分工对大多数人来说是合适的。大多数人可以通过避免伤害他人，将更多资源用于造福那些与他们有传统关系的人，参与村庄等较大群体的互助，愿意与他人一起为最需要支持和保护的人提供帮助，并忠诚于负责确保更大群体利益的人来履行义务。这一情况符合墨子在《劝学》第八篇中明确表达的担忧，即社会冲突源于每个人都有并根据自己的道德观行事。为避免冲突，必须建立严格的嵌套式权威等级制度：天子在部臣的帮助下统治整个国家，国家分为诸侯国，再进一步分为封邑，依此类推。每个社会单位的成员都必须向上级报告他们对是非的看法，上级对是非的判断是最终决定的（尽管如果认为上级判断错误，可以规劝上级），并且每个单位必须向包含它的下一个更大单位的上级报告。天子对天（_Tian_）负责，这是一个比儒家的天更为明确和一贯地拟人化的神明，其意愿是人们互利互惠，而非相互伤害。
+进一步复杂化情况的是，有必要区分将“兼爱”作为对待他人的态度和对待他人的行为的规定。拥有平等关怀的态度并不意味着以相同的方式对待他人。实际上，个体行动者可利用的心理和物质资源的有限性似乎需要在对待他人的行动中存在一定程度的不平等。这可能至少部分解释了“兼爱”书籍在规定个体如何造福他人方面相对谨慎的原因，尽管在后几章中有一些要求的扩展。事实上，即使是后来的规定也似乎与儒家关怀与区别所规定的行为不相矛盾：避免伤害他人，参与互助关系，为那些无力照顾自己且缺乏能保护他们的家庭的人提供支持。因此，墨家可能最终认为，道德劳动的分工对大多数人来说是合适的。大多数人可以通过避免伤害他人，将更多资源用于造福那些与他们有传统关系的人，参与村庄等较大群体的互助，愿意与他人一起为最需要支持和保护的人提供帮助，并忠诚于负责确保更大群体利益的人来履行义务。这一情况符合墨子在《劝学》第八篇中明确表达的担忧，即社会冲突源于每个人都有并根据自己的道德观行事。为避免冲突，必须建立严格的嵌套式权威等级制度：天子在部臣的帮助下统治整个国家，国家分为诸侯国，再进一步分为封邑，依此类推。每个社会单位的成员都必须向上级报告他们对是非的看法，上级对是非的判断是最终决定的（尽管如果认为上级判断错误，可以规劝上级），并且每个单位必须向包含它的下一个更大单位的上级报告。天子对天（*Tian*）负责，这是一个比儒家的天更为明确和一贯地拟人化的神明，其意愿是人们互利互惠，而非相互伤害。
 
-尊重家庭关系美德可能是有道理的，因为它是社会分工的一部分，最有效地有助于造福所有人。正如弗雷泽（2016: 146）所建议的，墨家对利益（_li_）的理解可能包括将这些美德视为本身的好处。无论是哪种解释或两者兼而有之，由于可能的理由并不互相矛盾，墨家可能并没有像文本对“兼爱”是什么的陈述那样倡导一种严苛的伦理。即使将态度成分解释为要求平等或公正的关怀，行为成分可能仅包括对他人造福的一种适度严格的规范。
+尊重家庭关系美德可能是有道理的，因为它是社会分工的一部分，最有效地有助于造福所有人。正如弗雷泽（2016: 146）所建议的，墨家对利益（*li*）的理解可能包括将这些美德视为本身的好处。无论是哪种解释或两者兼而有之，由于可能的理由并不互相矛盾，墨家可能并没有像文本对“兼爱”是什么的陈述那样倡导一种严苛的伦理。即使将态度成分解释为要求平等或公正的关怀，行为成分可能仅包括对他人造福的一种适度严格的规范。
 
 天被视为人类的一种模范。在一本关于天意的书中，墨子被引述说，他将天意视为车工对其罗盘的坚守，就像木匠对其尺的坚守一样。以这种方式将天视为直接模范对于“兼爱”是否在其态度成分中意味着平等关怀或仅仅是程度上可变的关怀是很重要的。天意不是通过启示或经书来认知，而是通过其行为。根据文本，它造福并滋养每个人；奖励那些帮助他人的人，惩罚那些伤害他人的人。它为富人和穷人、贵族和平民、亲属和非亲属提供生命和生计；它创造了季节和天气的规律和恒定模式，使所有这些广泛分布的好处成为可能。如果将天意视为对待他人应有的态度的模范，那么公正的态度似乎是应有之义。
 
@@ -285,7 +284,7 @@ _墨子_ 在其后果主义方面非常明确。它命名了三个用于判断�
 
 ### 3.2 与儒家伦理的比较
 
-那么，墨家伦理学最终与儒家伦理学有何不同呢？因为儒家关注区分需要将关怀扩展到非亲属，而墨家大体上规定了一种适用于对他人行为的要求适度的形式的 _兼爱_，所以儒家伦理学与墨家伦理学之间实际上并没有人们最初想象的那么大的实际差异。儒家接受道德责任的多源性，并且认为这些源头提供的理由之间的冲突必须通过谨慎和权衡来处理。而墨家似乎提出了一种单一的责任源——促进利益和避免伤害，对《墨子》的合理阐释认为其中包括多源益处，例如食物和孝道。当多种善之间发生冲突时，他们可能也必须诉诸谨慎和权衡判断。当利他与忠诚于亲属发生冲突时，墨家可能会更加重视为最多的人做好事的价值，但在《墨子》中并没有明确表态。
+那么，墨家伦理学最终与儒家伦理学有何不同呢？因为儒家关注区分需要将关怀扩展到非亲属，而墨家大体上规定了一种适用于对他人行为的要求适度的形式的 *兼爱*，所以儒家伦理学与墨家伦理学之间实际上并没有人们最初想象的那么大的实际差异。儒家接受道德责任的多源性，并且认为这些源头提供的理由之间的冲突必须通过谨慎和权衡来处理。而墨家似乎提出了一种单一的责任源——促进利益和避免伤害，对《墨子》的合理阐释认为其中包括多源益处，例如食物和孝道。当多种善之间发生冲突时，他们可能也必须诉诸谨慎和权衡判断。当利他与忠诚于亲属发生冲突时，墨家可能会更加重视为最多的人做好事的价值，但在《墨子》中并没有明确表态。
 
 两种伦理学在仪式和音乐表演的价值上确实存在差异。当然，许多儒家可能不满于墨家将他们的传统描绘为坚持奢侈昂贵表演。但在仪式和音乐价值的分歧上，根源甚至比社会应该耗费多少物质资源来举办它们的问题更深。儒家倾向于将道德生活视为不仅是为他人服务，而且是实现自己人性的过程。这一儒家伦理学的特征，与古希腊的德行伦理学相似，使其与墨家有所区别。
 
@@ -305,7 +304,7 @@ _墨子_ 在其后果主义方面非常明确。它命名了三个用于判断�
 
 ### 4.2 《庄子》的伦理观：怀疑性质疑，与事物的脉络协调，包容，接受和自由
 
-在这一点上，_庄子_经常发出更加怀疑的声音。在该文本的第二章（_齐物论_“Equalizing All Things”）中，以下问题没有得到答案：“我怎么知道享受生活不是一种幻觉？我怎么知道我们厌恶死亡的人不是从小就忘记回家的流亡者？”（Graham，1989 年，59 页的翻译；另请参阅 Ziporyn，2009 年的翻译）。人类对于了解真相和重要性的假装被讽刺，将其与知道蝉和斑鸠通过它们自己的飞行经验知道高级生物可以飞多高的假装进行比较。这里也没有原始主义乌托邦的愿景。相反，对于更大规模社会变革向好的可能性的主导态度是悲观的。这对于理想主义者来说是一项危险的任务，对于理想主义者来说，这可能会以失败告终，因为统治者不喜欢被指责其过失。在这一问题上，_庄子_不仅与_道德经_中的原始主义乌托邦思潮背道而驰，而且与儒家真诚而不懈的理想主义更为强烈地背道而驰。在第四章（_人间世_“The Human World”）中，一个悲观的孔子（在这里似乎代表庄子）告诉他理想主义的学生颜回，他可能会因试图改变一个冷酷暴虐的统治者的方式而丧命。此外，这个故事中的一些段落可以被解读为颜回更深层次的动机是为了获得对自己美德的赞扬。颜回可能被描述成这种方式尤为重要，因为儒家传统认为他的动机尤为纯洁。这暗示可能是，儒家理想主义项目是持续且不可避免地自我削弱的：人们可以感觉到高尚言论背后自我膨胀的动机，并做出负面反应（参见 Chong，2016）。
+在这一点上，_庄子_经常发出更加怀疑的声音。在该文本的第二章（*齐物论*“Equalizing All Things”）中，以下问题没有得到答案：“我怎么知道享受生活不是一种幻觉？我怎么知道我们厌恶死亡的人不是从小就忘记回家的流亡者？”（Graham，1989 年，59 页的翻译；另请参阅 Ziporyn，2009 年的翻译）。人类对于了解真相和重要性的假装被讽刺，将其与知道蝉和斑鸠通过它们自己的飞行经验知道高级生物可以飞多高的假装进行比较。这里也没有原始主义乌托邦的愿景。相反，对于更大规模社会变革向好的可能性的主导态度是悲观的。这对于理想主义者来说是一项危险的任务，对于理想主义者来说，这可能会以失败告终，因为统治者不喜欢被指责其过失。在这一问题上，_庄子_不仅与_道德经_中的原始主义乌托邦思潮背道而驰，而且与儒家真诚而不懈的理想主义更为强烈地背道而驰。在第四章（*人间世*“The Human World”）中，一个悲观的孔子（在这里似乎代表庄子）告诉他理想主义的学生颜回，他可能会因试图改变一个冷酷暴虐的统治者的方式而丧命。此外，这个故事中的一些段落可以被解读为颜回更深层次的动机是为了获得对自己美德的赞扬。颜回可能被描述成这种方式尤为重要，因为儒家传统认为他的动机尤为纯洁。这暗示可能是，儒家理想主义项目是持续且不可避免地自我削弱的：人们可以感觉到高尚言论背后自我膨胀的动机，并做出负面反应（参见 Chong，2016）。
 
 同时，重要的是，在这个故事中，孔子并没有完全拒绝颜回的理想主义计划，而是提出了另一种处理方式。如果他坚持尝试，颜回必须避免制定计划和目标。这样的先入之见只会干扰看待统治者本质以及如何应对他（每个人都有独特的特质，人们必须变得敏感以应对他或她）。因此，颜回必须通过斋戒和清空心灵来准备，这样他才能不仅用耳朵和头脑，还要用他的_气_或生命能量倾听统治者。这样的建议在当代可以被解释为建议培养自己通过直觉了解他人内心活动的能力，从神经科学的角度来看，这可能对应于人类通过身体或“体验标记”做出实际决策的想法，记录了由某些类型的行为导致的结果的积极或消极价值（达姆西奥 1994 年）。在文本的其他地方，还有更愉快的提及涉及与手头事物的契合。这些活动形式被呈现为极其令人满意。最突出的例子是第三章《养生主》中的烹饪丁，这位厨师能够熟练地使用刀具切割牛，以至于刀刃毫不费力地穿过关节之间的空隙。烹饪丁已经超越了用眼睛看着切牛的阶段；相反，他的_气_或生命能量自由地流向必须去的地方。_庄子_所指的现象学是一种在其中没有自我意识引导行动，而是完全专注于手头事物的现象学。这种活动的效力和毫不费力可能表明对所处情况和手头材料的特权真实访问，但也可以有一个不那么极端的解释。
 
@@ -351,7 +350,7 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 
 佛教伦理的直接焦点是苦难问题，自我的概念是佛教对这一问题的核心回应。自我被构想为各种心理生理反应和回应的浮动集合，没有固定的中心或不变的自我实体。通常人类对自我的概念是一个固定且不变的中心是一种幻觉。我们的身体属性、各种感受、知觉、想法、愿望、梦想，以及总的来说对世界的意识展示出一种持续的相互作用和相互连接，导致我们相信存在某种明确的‘我’，这个‘我’是作为不断变化的系列的基础并独立于其之上的。但实际上只有相互作用和相互连接的系列。人类的苦难最终源于对一种从未存在过的自我的存在和快乐痛苦的关注。对自我的无常性的认知可以导致苦难的解脱或减轻，但这种认知不能仅仅是理智的。它必须涉及对自己欲望的转变。例如，在某种抽象层面上相信没有永恒的自我可以与拥有并追求避免死亡的强烈欲望并行，好像死亡是降临在某个基础‘我’身上的邪恶一样。同样，理智地认识到普通生活中的“事物”都不是固定和独立的实体，就像自我一样，可以导致将整个生活视为一个相互依存的整体，并对整个生活持有实践态度的怜悯之心。但如果后一种认知再次仅仅是理智的，一个人仍然可以拥有并追求以牺牲他人为代价的强烈自我关注的欲望。在这两种情况下，需要的是欲望的转变，以超越仅仅是理智的层面，实现真正的开悟，并对自己作为无常和与其他一切事物相互依存的真实本性有意义的认知。
 
-回想一下中国本土哲学所特有的实践关注和与理论经验的密切联系。这些特征与佛教相互作用，因为它被引入中国。”禅宗佛教“中的‘禅’来自梵文‘_dhyana_’，意思是冥想。虽然冥想实践并非禅宗唯一采用的实践，但其核心作用确实展示了通过体验自我和世界来实现欲望转化的关注。这种转化与通过文本研究和辩论理解达到知识信念不同，也不同于通过抹除个体意识来逃离苦难世界。作为禅宗形式的中国佛教在提出在这个世界中生活的启蒙观念方面特别具有影响力，而非逃离这个世界。
+回想一下中国本土哲学所特有的实践关注和与理论经验的密切联系。这些特征与佛教相互作用，因为它被引入中国。”禅宗佛教“中的‘禅’来自梵文‘*dhyana*’，意思是冥想。虽然冥想实践并非禅宗唯一采用的实践，但其核心作用确实展示了通过体验自我和世界来实现欲望转化的关注。这种转化与通过文本研究和辩论理解达到知识信念不同，也不同于通过抹除个体意识来逃离苦难世界。作为禅宗形式的中国佛教在提出在这个世界中生活的启蒙观念方面特别具有影响力，而非逃离这个世界。
 
 道教特别具有与佛教互动的主题。回想一下必须防止欲望干扰注意力集中在手头事务上的主题。相应地，禅宗的一个主要主题是，所有形式的奋斗，尤其是为了启蒙而进行的奋斗，都会干扰对真实本性的关注（惠能，638–713 年，《坛经》）。因此，禅师对学生为达到启蒙而努力的热切努力做出令人困惑的严厉反应的原因（一玄，逝于 866 年，《临济一玄录》），尤其是如果这种努力带有任何学术或教义色彩（黄檗，逝于 850 年，《心传》）。还要回想一下《道德经》中关于_道_作为万物之源的主题。佛陀对许多事物本质的洞察使他认识到众生也是一体。最后，回想一下道教对概念化限制的怀疑主题。佛陀对众生也是一体的洞察并不意味着众生实际上只是一体，而是同时是众生和一体，如果我们难以理解，那是因为我们的概念化的限制。最后，关于是否存在某种难以言喻和非概念化的接触终极现实的可能性，或者是否存在一种怀疑性问题一直延伸到底部（或者一直延伸到顶部？）存在着同样的模棱两可性。在《庄子》中，这种模棱两可性非常明显。尽管通常认为禅宗肯定存在于难以言喻的接触中（Kasulis，1986 年），但也有人认为彻底的怀疑主义更符合其精神（Wright，1998 年）。
 
@@ -361,174 +360,174 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 
 ## Bibliography
 
-* Ames, Roger T., 1991, ”The Mencian Conception of Ren Xing: Does It Mean Human Nature?“ in _Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham_, ed. Henry Rosemont Jr., La Salle, IL: Open Court, 143–175.
-* –––, 2002, ”Mencius and a Process Notion of Human Nature,“ in _Mencius: Contexts and Interpretations_, ed. Alan Kam-leung Chan, Honolulu: University of Hawai‘i Press, 72–90.
-* –––, 2011, _Confucian Role Ethics: A Vocabulary_, Honolulu: University of Hawai‘i Press.
-* –––, 2021, _Human Becomings: Theorizing Persons for Confucian Role Ethics_, Albany: State University of New York Press.
-* Ames, Roger T., and Rosemont Jr., Henry, 1998, _The Analects of Confucius: A Philosophical Translation_, New York: Random House.
-* Angle, Stephen C., 2002, _Human Rights and Chinese Thought: A Cross-Cultural Inquiry_, Cambridge: Cambridge University Press.
-* –––, 2009, _Sagehood: The Contemporary Significance of neo-Confucian Philosophy_, New York: Oxford University Press.
-* –––, 2012, _Contemporary Confucian Political Philosophy: Toward Progressive Confucianism_, Cambridge: Polity Press.
-* Angle, Stephen C. and Marina Svensson, eds., 2001, _The Chinese Human Rights Reader: Documents and Commentary 1900–2000_, Armonk, NY: M.E. Sharpe.
-* Angle, Stephen C. and Justin Tiwald, 2017, _Neo-Confucianism: A Philosophical Introduction_, Cambridge: Polity Press.
-* Bai, Tongdong, 2013, ”A Confucian Version of Hybrid Regime: How Does It Work, and Why Is It Superior?“ in _The East Asian Challenge for Democracy_, Daniel A. Bell and Chenyang Li (eds.), New York: Cambridge University Press, 55–87.
-* –––, 2015, ”A Criticism of Later Rawls and a Defense of a Decent (Confucian) People,“ in _The Philosophical Challenge from China_, Brian Bruya (ed.), Cambridge, MA: The MIT Press, 101–120.
-* Becker, Lawrence, 1998, _A New Stoicism_, Princeton: Princeton University Press.
-* Bell, Daniel A., 2006, _Beyond Liberal Democracy: Political Thinking for an East Asian Context,_ Princeton, NJ: Princeton University Press.
-* –––, 2015, _The China Model: Political Meritocracy and the Limits of Democracy_, Princeton, NJ: Princeton University Press.
-* Belsky, Jay, Avshalom Caspi, Terrie. Moffit, and Richie Poulton, 2022, _The Origins of You: How Childhood Shapes Later Life_, Cambridge, MA: Harvard University Press.
-* Blofeld, John, trans., 1958, _Zen Teaching of Huang Po: On Transmission of Mind_, New York: Grove Press.
-* Bloom, Irene, 1994, ”Mencian Arguments on Human Nature,“ _Philosophy East & West_, 44: 19–53.
-* –––, 1997, ”Nature and Biological Nature in Mencius,“ _Philosophy East & West_, 47: 21–32.
-* –––, 2002, ”Biology and Culture in the Mencian View of Human Nature,“ in _Mencius: Contexts and Interpretations_, ed. Alan Kam-leung Chan, Honolulu: University of Hawai‘i Press, 91–102.
-* Brindley, Erica, 2010, _Individualism in Early China: Human Agency and Self in Thought and Politics_, Honolulu: University of Hawai‘i Press.
-* Brooks, Bruce and A. Takeo Brooks, 1998, _The Original Analects: Sayings of Confucius and His Successors_, New York: Columbia University Press.
-* –––, 2000, ”Response to the Review by Edward Slingerland,“ _Philosophy East \&West_, 50: 141–46.
-* Chan, Alan K.L., 2000, ”Confucian Ethics and the Critique of Ideology,“ _Asian Philosophy_, 10(3): 245–261.
-* Chan, Jonathan, 2009, ”Sustainability: A Daoist Perspective,“ in _Environmental Ethics: Intercultural Perspectives_, King-Tak Ip (ed.), Amsterdam: Editions Rodopi B.V., 133–143.
-* Chan, Joseph, 1999, ”A Confucian Perspective on Human Rights for Contemporary China,“ in _The East Asian Challenge for Human Rights_, ed. Joanne R. Bauer and Daniel A. Bell, New York: Cambridge University Press, 212–247.
-* –––, 2000, ”Legitimacy, Unanimity, and Perfectionism,“ _Philosophy and Public Affairs_, 29(1): 5–42.
-* –––, 2014, _Confucian Perfectionism: A Political Philosophy for Modern Times_, Princeton, NJ: Princeton University Press.
-* Chan, Sin Yee, 2000, ”Gender and Relationship Roles in the _Analects_ and the _Mencius_,“ _Asian Philosophy_, 10(2): 115–132.
-* Chan, Wing-tsit, ed. and trans., 1963, _Instructions for Practical Living and Other Neo-Confucian Writings_, New York: Columbia University Press.
-* Chiu, Wai Wai, 2013, ”_Jian ai_ and the Mohist attack of Early Confucianism,“ _Philosophy Compass_, 8(5): 425–437.
-* Chong, Kim-chong, 2016, _Zhuangzi’s Critique of the Confucians: Blinded by the Human_, Albany, NY: State University of New York Press.
-* Clark, Andy, 2016, _Surfing Uncertainty: Prediction, Action, and the Embodied Mind_, New York: Oxford University Press.
-* Conze, Edward, ed. and trans., 1959, _Buddhist Scriptures_, New York: Penguin.
-* Creswell, J., David, Way, Baldwin, M., Eisenberger, Naomi I., and Lieberman. Matthew D., 2007, ”Neural Correlates of Dispositional Mindfulness During Affect Labeling,“ _Psychosomatic Medicine_ 69: 560–565.
-* Csikszentmihalyi, Mihaly, 1990, _Flow: the Psychology of Optimal Experience_, New York: Harper.
-* Damasio, Antonio R., 1994, _Descartes’ Error: Emotion, Reason, and the Human Brain_, New York: Putnam.
-* Darley, J. M. and C.D. Batson, 1973, ”From Jerusalem to Jericho: A study of Situational and Dispositional Variables in Helping Behavior,“ _Journal of Personality and Social Psychology_ 27: 100–108.
-* Defoort, Carine, 2005–6, ”The Growing Scope of ‘Jian’ 兼: Differences Between Chapters 14, 15 and 16 of the ‘Mozi’,“ _Oriens Extremus_ 45: 119–140.
-* Doris, John, 2002, _Lack of Character: Personality and Moral Behavior_, Cambridge: Cambridge University Press.
-* Eno, Robert, 1990, _The Confucian Creation of Heaven: Philosophy and the Defense of Ritual Mastery_, Albany, NY: State University of New York Press.
-* Fan, Ruiping, 2010, _Reconstructionist Confucianism: Rethinking Morality after the West_, Dordrecht: Springer.
+* Ames, Roger T., 1991, ”The Mencian Conception of Ren Xing: Does It Mean Human Nature?“ in *Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham*, ed. Henry Rosemont Jr., La Salle, IL: Open Court, 143–175.
+* –––, 2002, ”Mencius and a Process Notion of Human Nature,“ in *Mencius: Contexts and Interpretations*, ed. Alan Kam-leung Chan, Honolulu: University of Hawai‘i Press, 72–90.
+* –––, 2011, *Confucian Role Ethics: A Vocabulary*, Honolulu: University of Hawai‘i Press.
+* –––, 2021, *Human Becomings: Theorizing Persons for Confucian Role Ethics*, Albany: State University of New York Press.
+* Ames, Roger T., and Rosemont Jr., Henry, 1998, *The Analects of Confucius: A Philosophical Translation*, New York: Random House.
+* Angle, Stephen C., 2002, *Human Rights and Chinese Thought: A Cross-Cultural Inquiry*, Cambridge: Cambridge University Press.
+* –––, 2009, *Sagehood: The Contemporary Significance of neo-Confucian Philosophy*, New York: Oxford University Press.
+* –––, 2012, *Contemporary Confucian Political Philosophy: Toward Progressive Confucianism*, Cambridge: Polity Press.
+* Angle, Stephen C. and Marina Svensson, eds., 2001, *The Chinese Human Rights Reader: Documents and Commentary 1900–2000*, Armonk, NY: M.E. Sharpe.
+* Angle, Stephen C. and Justin Tiwald, 2017, *Neo-Confucianism: A Philosophical Introduction*, Cambridge: Polity Press.
+* Bai, Tongdong, 2013, ”A Confucian Version of Hybrid Regime: How Does It Work, and Why Is It Superior?“ in *The East Asian Challenge for Democracy*, Daniel A. Bell and Chenyang Li (eds.), New York: Cambridge University Press, 55–87.
+* –––, 2015, ”A Criticism of Later Rawls and a Defense of a Decent (Confucian) People,“ in *The Philosophical Challenge from China*, Brian Bruya (ed.), Cambridge, MA: The MIT Press, 101–120.
+* Becker, Lawrence, 1998, *A New Stoicism*, Princeton: Princeton University Press.
+* Bell, Daniel A., 2006, *Beyond Liberal Democracy: Political Thinking for an East Asian Context,* Princeton, NJ: Princeton University Press.
+* –––, 2015, *The China Model: Political Meritocracy and the Limits of Democracy*, Princeton, NJ: Princeton University Press.
+* Belsky, Jay, Avshalom Caspi, Terrie. Moffit, and Richie Poulton, 2022, *The Origins of You: How Childhood Shapes Later Life*, Cambridge, MA: Harvard University Press.
+* Blofeld, John, trans., 1958, *Zen Teaching of Huang Po: On Transmission of Mind*, New York: Grove Press.
+* Bloom, Irene, 1994, ”Mencian Arguments on Human Nature,“ *Philosophy East & West*, 44: 19–53.
+* –––, 1997, ”Nature and Biological Nature in Mencius,“ *Philosophy East & West*, 47: 21–32.
+* –––, 2002, ”Biology and Culture in the Mencian View of Human Nature,“ in *Mencius: Contexts and Interpretations*, ed. Alan Kam-leung Chan, Honolulu: University of Hawai‘i Press, 91–102.
+* Brindley, Erica, 2010, *Individualism in Early China: Human Agency and Self in Thought and Politics*, Honolulu: University of Hawai‘i Press.
+* Brooks, Bruce and A. Takeo Brooks, 1998, *The Original Analects: Sayings of Confucius and His Successors*, New York: Columbia University Press.
+* –––, 2000, ”Response to the Review by Edward Slingerland,“ *Philosophy East \&West*, 50: 141–46.
+* Chan, Alan K.L., 2000, ”Confucian Ethics and the Critique of Ideology,“ *Asian Philosophy*, 10(3): 245–261.
+* Chan, Jonathan, 2009, ”Sustainability: A Daoist Perspective,“ in *Environmental Ethics: Intercultural Perspectives*, King-Tak Ip (ed.), Amsterdam: Editions Rodopi B.V., 133–143.
+* Chan, Joseph, 1999, ”A Confucian Perspective on Human Rights for Contemporary China,“ in *The East Asian Challenge for Human Rights*, ed. Joanne R. Bauer and Daniel A. Bell, New York: Cambridge University Press, 212–247.
+* –––, 2000, ”Legitimacy, Unanimity, and Perfectionism,“ *Philosophy and Public Affairs*, 29(1): 5–42.
+* –––, 2014, *Confucian Perfectionism: A Political Philosophy for Modern Times*, Princeton, NJ: Princeton University Press.
+* Chan, Sin Yee, 2000, ”Gender and Relationship Roles in the *Analects* and the *Mencius*,“ *Asian Philosophy*, 10(2): 115–132.
+* Chan, Wing-tsit, ed. and trans., 1963, *Instructions for Practical Living and Other Neo-Confucian Writings*, New York: Columbia University Press.
+* Chiu, Wai Wai, 2013, ”*Jian ai* and the Mohist attack of Early Confucianism,“ *Philosophy Compass*, 8(5): 425–437.
+* Chong, Kim-chong, 2016, *Zhuangzi’s Critique of the Confucians: Blinded by the Human*, Albany, NY: State University of New York Press.
+* Clark, Andy, 2016, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*, New York: Oxford University Press.
+* Conze, Edward, ed. and trans., 1959, *Buddhist Scriptures*, New York: Penguin.
+* Creswell, J., David, Way, Baldwin, M., Eisenberger, Naomi I., and Lieberman. Matthew D., 2007, ”Neural Correlates of Dispositional Mindfulness During Affect Labeling,“ *Psychosomatic Medicine* 69: 560–565.
+* Csikszentmihalyi, Mihaly, 1990, *Flow: the Psychology of Optimal Experience*, New York: Harper.
+* Damasio, Antonio R., 1994, *Descartes’ Error: Emotion, Reason, and the Human Brain*, New York: Putnam.
+* Darley, J. M. and C.D. Batson, 1973, ”From Jerusalem to Jericho: A study of Situational and Dispositional Variables in Helping Behavior,“ *Journal of Personality and Social Psychology* 27: 100–108.
+* Defoort, Carine, 2005–6, ”The Growing Scope of ‘Jian’ 兼: Differences Between Chapters 14, 15 and 16 of the ‘Mozi’,“ *Oriens Extremus* 45: 119–140.
+* Doris, John, 2002, *Lack of Character: Personality and Moral Behavior*, Cambridge: Cambridge University Press.
+* Eno, Robert, 1990, *The Confucian Creation of Heaven: Philosophy and the Defense of Ritual Mastery*, Albany, NY: State University of New York Press.
+* Fan, Ruiping, 2010, *Reconstructionist Confucianism: Rethinking Morality after the West*, Dordrecht: Springer.
 * Fingarette, Herbert, 1972, Confucius: The Secular as Sacred, New York: Harper.
-* Fraser, Chris, 2016, _The Philosophy of the Mozi: The First Consequentialists_, New York: Columbia University Press.
-* ––– (trans.), 2020, _The Essential Mòzǐ_, New York: Oxford University Press.
-* Fung, Yu-lan, 1948, _A Short History of Chinese Philosophy: A Systematic Account of Chinese Thought from Its Origins to the Present Day_, New York: Macmillan.
-* Gardner, Daniel K., 2003, _Zhu Xi’s Reading of the Analects: Canon, Commentary, and the Classical Tradition_, New York: Columbia University Press.
-* Gardner, Daniel K. (ed. and trans.), 1990, _Chu Hsi Learning to be a Sage: Selections from the Conversations of Master Chu, Arranged Topically_, Berkeley: University of California Press.
-* Gauthier, David, 1986, _Morals by Agreement_, Oxford: Oxford University Press.
-* Gilligan, Carol, 1982, _In a Different Voice_, Cambridge, MA: Harvard University Press.
-* Girardot, N. J., James Miller, and Xiaogan Liu, 2001, _Daoism and Ecology: Ways within a Cosmic Landscape_ (Cambridge, MA: Harvard Center for the Study of World Religions.
-* Goldin, Paul R., 2005a, ”The Theme of the Primacy of the Situation in Classical Chinese Philosophy and Rhetoric,” _Asia Major_, 18(2): 1–25.
-* –––, 2005b, “Why Daoism Is Not Environmentalism,” _Journal of Chinese Philosophy_, 32(1): 75–87.
-* –––, 2005c, “Persistent Misconceptions about Chinese ‘Legalism,’” _Journal of Chinese Philosophy_, 38(1): 64–80.
-* Graham, A. C., 1986, “What was New in the Ch’eng-Chu Theory of Human Nature?” in _Chu Hsi and Neo-Confucianism_, Wing-tsit Chan (ed.), Honolulu: Hawai‘i University Press, 137–157.
-* –––, 1989, trans.,_Chuang-Tzu: The Inner Chapters_, Indianapolis: Hackett Publishing.
-* Greene, Jamal, 2021, _How Rights Went Wrong: Why Our Obsession with Rights Is Tearing America Apart_, New York: Houghton Mifflin Harcourt.
-* Haidt, Jonathan, 2003, “Elevation and the Positive Psychology of Morality,” in _Flourishing: Positive psychology and the Life Well-Lived_, Corey L. M. Keyes and Jonathan Haidt (eds.), Washington, D.C.: American Psychological Association, 275–289.
-* Haidt, Jonathan, and Fredrik Bjorklund, 2008, “Social Intuitionists Answer Six Questions about Morality,” in _Moral Psychology, v. 2: The Cognitive Science of Morality_, ed. Walter Sinnott-Armstrong, Cambridge, MA: MIT Press, 181–217.
-* Hall, David L., and Roger T. Ames, 1987, _Thinking Through Confucius_, Albany, NY: State University of New York Press.
-* –––, 1998, Chapter 2, “The Focus-Field Self in Classical Confucianism,” in _Thinking from the Han: Self, Truth, and Transcendence in Chinese and Western Culture_, Albany, NY: State University of New York Press, 23–43.
-* Hansen, Chad, 1992, _A Daoist Theory of Chinese Thought_, New York: Oxford University Press.
-* –––, 2003, “Guru or Skeptic? Relativistic Skepticism in the _Zhuangzi_,” in _Hiding the World in the World: Uneven Discourses on the Zhuangzi_, ed. Scott Cook, Albany: State University of New York Press, 128–162.
-* Harman, Gilbert, 1998–99, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error,” _Proceedings of the Aristotelian Society_, 99: 315–31.
-* –––, 1999–2000, “The Nonexistence of Character Traits,” _Proceedings of the Aristotelian Society_, 100: 223–6.
-* Hassoun, Nicole, and David B. Wong, 2015, “Conserving Nature; Preserving Identity,” _Journal of Chinese Philosophy_, 42(1–2): 176–196.
-* Hauser, Marc D., Liane Young, and Fiery Cushman, 2008, “Reviving Rawls’s Linguistic Analogy: Operative Principles and the Causal Structure of Moral Action,” in _Moral Psychology, v. 2: The Cognitive Science of Morality: Intuition and Diversity_, ed. Walter Sinnott-Armstrong, Cambridge, MA: MIT Press, 107–143.
-* Hooker, Brad, 2000, _Ideal Code, Real World: A Rule-consequentialist Theory of Morality_, Oxford: Oxford University Press.
-* Hourdequin, Marion and David B. Wong, 2005, “A Relational Approach to Environmental Ethics,” _Journal of Chinese Philosophy_, 32: 19–33.
-* Huang, Yong, 2013, _Confucius: A Guide for the Perplexed_, London: Bloomsbury Academic.
-* Hutton, Eric, 2006, “Character, Situationism, and Early Confucian Thought,” _Philosophical Studies_, 127: 37–58.
-* ––– (trans.), 2014, _Xunzi: The Complete Text_, Princeton, NJ: Princeton University Press.
-* Ihara, Craig K., 2004, “Are Individual Rights Necessary? A Confucian Perspective,” in _Confucian Ethics: A Comparative Study of Self, Autonomy, and Community_, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 11–30.
-* Im, Manyul, 1999, “Emotional Control and Virtue in the Mencius,” _Philosophy East and West_, 49: 1–27.
-* Ing, Michael, 2017, _The Vulnerability of Integrity in Early Confucian Thought_, New York: Oxford University Press.
-* Ivanhoe, Philip J., 1990, _Ethics in the Confucian Tradition: the Thought of Mencius and Wang Yang Ming_, Atlanta, GA: Scholars Press.
-* –––, 1993, _Confucian Moral Self Cultivation_, New York: Peter Lang.
-* –––, 1996, “Was Zhuangzi a Relativist?” in _Skepticism, Relativism, and Ethics in the Zhuangzi_, ed. Paul Kjellberg and P.J. Ivanhoe, Albany, NY: State University of New York Press, 196–214.
-* –––, 2002, “Confucian Self Cultivation and Mengzi’s Notion of Extension,” in _Essays on the Moral Philosophy of Mengzi_, ed. Xiusheng Liu and Philip J. Ivanhoe, Indianapolis: Hackett Publishing Company, 221–241.
-* –––, 2005, “Mozi” (Introduction and translation of selections from the _Mozi_ text), in _Readings in Classical Chinese Philosophy_, Philip J. Ivanhoe and Bryan W. Van Norden (eds.), Indianapolis, IN: Hackett Publishing Company, 2nd edition.
-* Jenco, Leigh, 2015, _Changing Referents: Learning Across Space and Time in China and the West_, New York: Oxford University Press.
-* Jiang, Qing, 2012, _A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future_, Daniel A. Bell and Fan Ruiping (eds.), Edmund Ryden (trans.), Princeton: Princeton University Press.
-* Jiang, Tao, 2021, _Origins of Moral-Political Philosophy in Early China_, New York: Oxford University Press.
-* Jiang, Xinyan, 2002, “Mencius on Moral Responsibility,” in _The Examined Life: Chinese Perspectives: Essays on Chinese Ethical Traditions_,Xinyan Jiang and Robert Neville (eds.), Binghamton, NY: Global Publications, 141–159.
-* Kasulis, Thomas, 1986, _Zen Action/Zen Person_, Honolulu: University of Hawai‘i Press.
-* Kim, Sungmoon, 2016, _Public Reason Confucianism: Democratic Perfectionism and Constitutionalism in East Asia_, New York: Cambridge University Press.
-* Knoblock, John, 1988–94, _Xunzi: a Translation and Study of the Complete Works_, 3 volumes, Stanford: Stanford University Press.
-* Kupperman, Joel J., 1999, _Learning from Asian Philosophy_, New York: Oxford University Press.
-* –––, 2000, “Feminism as Radical Confucianism: Self and Tradition,” in _The Sage and the Second Sex: Confucianism, Ethics, and Gender_, Chenyang Li (ed.), Chicago: Open Court, 43–56.
-* LaFargue, Michael, 1992, _The Tao of the Tao Te Ching_, Albany: State University of New York Press.
-* Lai, Karyn, 2020, “Freedom and Agency in the Zhuangzi: Navigating Life’s Constraints,” _British Journal for the History of Philosophy_, 30(1): 3–23
-* Lau, D. C. (trans.), 1963, _Lao Tzu: Tao Te Ching_, New York: Penguin.
-* –––, (trans.), 1970a, _Mencius_, New York: Penguin.
-* –––, 1970b, “On Mencius’s Use of the Method of Analogy in Argument,” appendix 5 in _Mencius_, New York: Penguin.
-* ––– (trans.), 1979, _Confucius: the Analects_, New York: Penguin.
-* Legge, James (trans.), 1960, _Tso Chuan_ (_Zuo Zhuan_), Hong Kong: Hong Kong University Press.
-* ––– (trans.), 1967, _Li Chi: Book of Rites_, 2 volumes, New York: University Books.
-* ––– (trans.), 1971, _Confucius: Confucian Analects, the Great Learning, & the Doctrine of the Mean_, New York: Dover.
-* Li, Chenyang, 1994, “The Confucian Concept of _Jen_ and the Feminist Ethic of Care: A Comparative Study,” _Hypatia: A Journal of Feminist Philosophy_, 9(1): 70–89; reprinted in _The Sage and the Second Sex: Confucianism, Ethics, and Gender_, Chenyang Li (ed.), Chicago: Open Court, 23–42.
-* –––, 2007, “_Li_ as Cultural Grammar: On the Relation between _Li_ and _Ren_ in Confucius’ _Analects_,” _Philosophy East & West_, 57: 311–29.
-* –––, 2014, _The Confucian Philosophy of Harmony_, New York: Routledge.
-* Lieberman, Matthew D., Inagaki, Tristen K., Tabibnia, Golnaz, and Crockett, Molly J., 2011, “Subjective Responses to Emotional Stimuli During Labeling, Reappraisal, and Distraction,” _Emotion_, 11(3): 468–480.
-* Liu, Jeeloo, 2018, _Neo-Confucianism: Metaphysics, Mind, and Morality_, Hoboken, NJ: John Wiley & Sons.
-* Machle, Edward J., 1993, _Nature and Heaven in the Xunzi: A Study of the Tian Lun_, Albany, NY: State University of New York Press.
-* MacIntyre, Alasdair, 1984, _After Virtue: A Study in Moral Theory_, 2nd edition, Notre Dame: University of Notre Dame.
-* –––, 1989, _Whose Justice? Which Rationality?_, Notre Dame: University of Notre Dame Press.
-* McRae, Emily, 2011, “The Cultivation of Moral Feelings and Mengzi’s Method of Extension,” _Philosophy East & West_, 61: 587–608.
-* Meyers, Diana, 1989, _Self, Society, and Personal Choice_, New York: Columbia University Press.
-* Mikhail, John, 2011, _Elements of Moral Cognition_, New York: Cambridge University Press.
-* Milgram, Stanley, 1974, _Obedience to Authority_, New York: Harper.
-* Miller, James, 2017, _China’s Green Religion: Daoism and the Quest for a Sustainable Future_, New York: Columbia University Press.
-* Nagel, Thomas, 1976, “Moral Luck,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 50: 137–155.
-* Neville, Robert, 2017, _The Good Is One, Its Manifestations Many: Confucian Essays on Metaphysics, Morals, Rituals, Institutions, and Genders_, New York: Oxford University Press.
-* Nichols, Shaun, 2004, _Sentimental Rules: On the Natural Foundations of Moral Judgment_, New York: Oxford University Press.
-* Nivison, David S., 1991, “Hsün Tzu and Chuang Tzu,” in _Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham_, ed. Henry Rosemont, Jr., La Salle, IL: Open Court, 129–142.
-* –––, 1996, “Motivation and Moral Action in Mencius,” in _The Ways of Confucianism_, ed. Bryan Van Nordan, La Salle, IL.: Open Court, 91–114.
-* Noddings, Nel, 1984, _Caring: A Feminine Approach to Ethics and Moral Education_, Berkeley: University of California Press.
-* Nylan, Michael, 2000, “Spindles and Axes: Elite Women in the Achaemenid and Han Empires,” in _The Sage and the Second Sex: Confucianism, Ethics, and Gender_, Chenyang Li (ed.), Chicago: Open Court, 199–222.
-* Olberding, Amy, 2008, “Dreaming of the Duke of Zhou: Exemplarism and the _Analects_,” _Journal of Chinese Philosophy_, 35: 625–639.
-* –––, 2012, _Moral Exemplars in the Analects: The Good Person is That_, New York: Routledge.
-* –––, 2016, “Etiquette: A Confucian Contribution to Moral Philosophy,” _Ethics_, 126(2): 422–446.
-* –––, 2019, _The Wrong of Rudeness: Learning Modern Civility from Ancient Chinese Philosophy_, New York: Oxford University Press.
-* Raphals, Lisa, 1998, _Sharing the Light: Representations of Women and Virtue in Early China_, Albany, NY: State University of New York Press.
-* Rosemont, Henry, 1991, _A Chinese Mirror: Moral Reflections on Political Economy and Society_, La Salle, IL: Open Court.
-* –––, 2004, “Whose Democracy? Which Rights? A Confucian Critique of Modern Western Liberalism,” in _Confucian Ethics: A Comparative Study of Self, Autonomy, and Community_, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 49–71.
-* Rosenlee, Li-Hsiang Lisa, 2007, _Confucianism and Women: A Philosophical Interpretation_, Albany, NY: State University of New York Press.
-* –––, 2014, “Why Care? A Feminist Re-appropriation of Confucian _Xiao_ 孝,” in _Dao Companion to the Analects_, Amy Olberding (ed.), Dordrecht: Springer 2014, 311–334.
-* Roth, Harold D., 1999, _Original Tao: Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism_, New York, Columbia University Press.
-* –––, 2000, ‘Bimodal Mystical Experience in the ‘Qiwu lun’ Chapter of Zhuangzi,’ _Journal of Chinese Religions_, 28: 31–50.
-* Sarkissian, Hagop, 2010, “Minor Tweaks, Major Payoffs: The Problems and Promise of Situationism in Moral Philosophy,” _Philosophers’ Imprint_, 10 \[[available online](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/minor-tweaks-major-payoffs-the-problems-and-promise.pdf?c=phimp;idno=3521354.0010.009;format=pdf).
-* Shun, Kwong-loi, 1993, “_Ren_ and _Li_ in the _Analects_,” _Philosophy East & West_, 43: 457–79; modified version in _Confucius and the Analects: New Essays_, New York: Oxford University Press, 2002, 53–72 .
-* –––, 1997, _Mencius and Early Chinese Thought_, Stanford: Stanford University Press.
-* –––, 2004, “Conception of the Person in Early Confucian Thought,” in _Confucian Ethics: A Comparative Study of Self, Autonomy, and Community_, Kwong-loi Shun and David B. Wong (ed.), New York: Cambridge University Press, 183–199.
-* Singer, Peter, 1972, “Famine, Affluence, and Morality,” _Philosophy and Public Affairs_, 1(3): 229–243.
-* Slingerland, Edward, 2000, “Why Philosophy is Not ‘Extra’ in Understanding the _Analects_” and “Reply to Bruce Brooks and A. Takeo Brooks,” _Philosophy East & West_, 50: 137–41, 146–7.
-* –––, 2009, “Toward an Empirically-Responsible Ethics: Cognitive Science, Virtue Ethics, and Effortless Attention in Early Chinese Thought,” in _Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action_, Brian Bruya (ed.), Cambridge, MA: Bradford Books.
-* –––, 2011, “The Situationist Critique and Early Confucian Virtue Ethics,” _Ethics_, 121: 390–419.
-* Slingerland, Edward, trans., 2003, _Confucius: Analects_, Indianapolis: Hackett.
-* Tan, Sor Hoon, 2003, _Confucian Democracy: A Deweyan Reconstruction_, Albany, NY: State University of New York Press.
-* –––, 2005, “Imagining Confucius: Paradigmatic Characters and Virtue Ethics,” _Journal of Chinese Philosophy_, 32: 409–426.
-* Stephens, Daniel J., 2021, “Later Mohist Ethics and Philosophical Progress in Ancient China,” _British Journal for the History of Philosophy_, 29(3): 394–414.
-* Thompson, Kirill O., 1988, “_Li_ and _yi_ as immanent: Chu Hsi’s thought in practical perspective,” _Philosophy East & West_, 38: 30–46.
-* Tiwald, Justin, 2010, “Dai Zhen on Sympathetic Concern,” _Journal of Chinese Philosophy_, 37(1): 76–89.
-* –––, 2011a, “Dai Zhen’s Defense of Self-Interest,” _Journal of Chinese Philosophy_, 38 (supplement): 29–45.
-* –––, 2011b, “Sympathy and Perspective-Taking in Confucian Ethics,” _Philosophy Compass_, 6(10): 663–674.
-* –––, 2018, “Confucianism and Neo-Confucianism,” _Oxford Handbook of Virtue_, Nancy Snow (ed.), New York, Oxford University Press, 171–189.
-* Vallentyne, Peter (ed.), 1991, _Contractarianism and Rational Choice: Essays on David Gauthier’s Morals by Agreement_, New York: Cambridge University Press.
-* Valmisa, Mercedes, 2021, _Adapting A Chinese Philosophy of Action_, New York: Oxford University Press.
-* Van Norden, Bryan, 2004, “The Virtue of Righteousness in Mencius,” in _Confucian Ethics: A Comparative Study of Self, Autonomy, and Community_, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 148–182.
-* –––, 2007, _Virtue Ethics and Consequentialism in Early Chinese Philosophy_, Cambridge: Cambridge University Press.
-* Waley, Arthur, trans., 1938, _The Analects of Confucius_, London: George Allen & Unwin, 1938; reissue (1989), New York: Vintage: 1989.
-* Walker, Margaret Urban, 1993, “Moral Luck and the Virtues of Impure Agency,” in _Moral Luck_, Daniel Statman (ed.), Albany: State University of New York Press, 235–250.
-* Walzer, Michael. 1973, “Political Action: The Problem of Dirty Hands,” _Philosophy and Public Affairs_ 2.2: 160–180.
-* –––, 1983, _Spheres of Justice: a Defense of Pluralism and Equality_, New York: Basic Books.
-* Watson, Burton (trans.), 2003, _Han Feizi: Basic Writings_, New York: Columbia University Press.
-* Wong, David B., 2000, “Xunzi on Moral Motivation,” in _Virtue, Nature and Moral Agency in the Xunzi_, T.C. Kline and Philip J. Ivanhoe (eds.), Indianapolis, IN: Hackett Publishing Company, 135–154.
-* –––, 2002, “Reasons and Analogical Reasoning in Mengzi,” in _Essays on the Moral Philosophy of Mengzi_, Xiusheng Liu and Philip J. Ivanhoe (eds.), Indianapolis: Hackett Publishing Company, 187–220.
-* –––, 2004, “Rights and Community in Confucianism,” in _Confucian Ethics: A Comparative Study of Self, Autonomy, and Community_, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 31–48.
-* –––, 2005, “Zhuangzi and the Obsession with Being Right,” _History of Philosophy Quarterly_, 22: 91–107.
-* –––, 2006, “Attachment and Detachment in Daoism, Buddhism, and Stoicism,” _Dao,_, 5(2): 207–219.
-* –––, 2015a, “Growing Virtue: The Theory and Science of Developing Compassion from a Mencian Perspective,” in _The Philosophical Challenge from China_, Brian Bruya (ed.), Cambridge, MA: MIT Press, 23–58.
-* –––, 2015b, “Early Confucian Philosophy and the Development of Compassion,” _Dao_, 14(2): 157–194.
-* –––, 2016, “Xunzi’s Metaethics,” in _Dao Companion to the Philosophy of Xunzi_, Eric Hutton (ed.), New York: Springer, 139–164.
-* –––, 2020, “Soup, Harmony, and Disagreement,” _Journal of the American Philosophical Association_, 6(2): 139–155.
-* –––, 2022, “Constructive Skepticism in the _Zhuangzi_,” in _Dao Companion to the Philosophy of the Zhuangzi_, Kim-Chong Chong (ed.), Cham: Springer, 639–660.
-* Wright, Dale S., 1998, “Mind: the ‘Great Matter’ of Zen,” in _Philosophical Meditations on Zen Buddhism_, Cambridge: Cambridge University Press, 157–180.
-* Yu, Jiyuan, 2007, _The Ethics of Confucius and Aristotle: Mirrors of Virtue_, New York: Routledge.
-* Ziporyn, Brook, 2009, _Zhuangzi: The Essential Writings: With Selections from Traditional Commentaries_, Indianapolis, IN: Hackett Publishing.
+* Fraser, Chris, 2016, *The Philosophy of the Mozi: The First Consequentialists*, New York: Columbia University Press.
+* ––– (trans.), 2020, *The Essential Mòzǐ*, New York: Oxford University Press.
+* Fung, Yu-lan, 1948, *A Short History of Chinese Philosophy: A Systematic Account of Chinese Thought from Its Origins to the Present Day*, New York: Macmillan.
+* Gardner, Daniel K., 2003, *Zhu Xi’s Reading of the Analects: Canon, Commentary, and the Classical Tradition*, New York: Columbia University Press.
+* Gardner, Daniel K. (ed. and trans.), 1990, *Chu Hsi Learning to be a Sage: Selections from the Conversations of Master Chu, Arranged Topically*, Berkeley: University of California Press.
+* Gauthier, David, 1986, *Morals by Agreement*, Oxford: Oxford University Press.
+* Gilligan, Carol, 1982, *In a Different Voice*, Cambridge, MA: Harvard University Press.
+* Girardot, N. J., James Miller, and Xiaogan Liu, 2001, *Daoism and Ecology: Ways within a Cosmic Landscape* (Cambridge, MA: Harvard Center for the Study of World Religions.
+* Goldin, Paul R., 2005a, ”The Theme of the Primacy of the Situation in Classical Chinese Philosophy and Rhetoric,” *Asia Major*, 18(2): 1–25.
+* –––, 2005b, “Why Daoism Is Not Environmentalism,” *Journal of Chinese Philosophy*, 32(1): 75–87.
+* –––, 2005c, “Persistent Misconceptions about Chinese ‘Legalism,’” *Journal of Chinese Philosophy*, 38(1): 64–80.
+* Graham, A. C., 1986, “What was New in the Ch’eng-Chu Theory of Human Nature?” in *Chu Hsi and Neo-Confucianism*, Wing-tsit Chan (ed.), Honolulu: Hawai‘i University Press, 137–157.
+* –––, 1989, trans.,*Chuang-Tzu: The Inner Chapters*, Indianapolis: Hackett Publishing.
+* Greene, Jamal, 2021, *How Rights Went Wrong: Why Our Obsession with Rights Is Tearing America Apart*, New York: Houghton Mifflin Harcourt.
+* Haidt, Jonathan, 2003, “Elevation and the Positive Psychology of Morality,” in *Flourishing: Positive psychology and the Life Well-Lived*, Corey L. M. Keyes and Jonathan Haidt (eds.), Washington, D.C.: American Psychological Association, 275–289.
+* Haidt, Jonathan, and Fredrik Bjorklund, 2008, “Social Intuitionists Answer Six Questions about Morality,” in *Moral Psychology, v. 2: The Cognitive Science of Morality*, ed. Walter Sinnott-Armstrong, Cambridge, MA: MIT Press, 181–217.
+* Hall, David L., and Roger T. Ames, 1987, *Thinking Through Confucius*, Albany, NY: State University of New York Press.
+* –––, 1998, Chapter 2, “The Focus-Field Self in Classical Confucianism,” in *Thinking from the Han: Self, Truth, and Transcendence in Chinese and Western Culture*, Albany, NY: State University of New York Press, 23–43.
+* Hansen, Chad, 1992, *A Daoist Theory of Chinese Thought*, New York: Oxford University Press.
+* –––, 2003, “Guru or Skeptic? Relativistic Skepticism in the *Zhuangzi*,” in *Hiding the World in the World: Uneven Discourses on the Zhuangzi*, ed. Scott Cook, Albany: State University of New York Press, 128–162.
+* Harman, Gilbert, 1998–99, “Moral Philosophy Meets Social Psychology: Virtue Ethics and the Fundamental Attribution Error,” *Proceedings of the Aristotelian Society*, 99: 315–31.
+* –––, 1999–2000, “The Nonexistence of Character Traits,” *Proceedings of the Aristotelian Society*, 100: 223–6.
+* Hassoun, Nicole, and David B. Wong, 2015, “Conserving Nature; Preserving Identity,” *Journal of Chinese Philosophy*, 42(1–2): 176–196.
+* Hauser, Marc D., Liane Young, and Fiery Cushman, 2008, “Reviving Rawls’s Linguistic Analogy: Operative Principles and the Causal Structure of Moral Action,” in *Moral Psychology, v. 2: The Cognitive Science of Morality: Intuition and Diversity*, ed. Walter Sinnott-Armstrong, Cambridge, MA: MIT Press, 107–143.
+* Hooker, Brad, 2000, *Ideal Code, Real World: A Rule-consequentialist Theory of Morality*, Oxford: Oxford University Press.
+* Hourdequin, Marion and David B. Wong, 2005, “A Relational Approach to Environmental Ethics,” *Journal of Chinese Philosophy*, 32: 19–33.
+* Huang, Yong, 2013, *Confucius: A Guide for the Perplexed*, London: Bloomsbury Academic.
+* Hutton, Eric, 2006, “Character, Situationism, and Early Confucian Thought,” *Philosophical Studies*, 127: 37–58.
+* ––– (trans.), 2014, *Xunzi: The Complete Text*, Princeton, NJ: Princeton University Press.
+* Ihara, Craig K., 2004, “Are Individual Rights Necessary? A Confucian Perspective,” in *Confucian Ethics: A Comparative Study of Self, Autonomy, and Community*, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 11–30.
+* Im, Manyul, 1999, “Emotional Control and Virtue in the Mencius,” *Philosophy East and West*, 49: 1–27.
+* Ing, Michael, 2017, *The Vulnerability of Integrity in Early Confucian Thought*, New York: Oxford University Press.
+* Ivanhoe, Philip J., 1990, *Ethics in the Confucian Tradition: the Thought of Mencius and Wang Yang Ming*, Atlanta, GA: Scholars Press.
+* –––, 1993, *Confucian Moral Self Cultivation*, New York: Peter Lang.
+* –––, 1996, “Was Zhuangzi a Relativist?” in *Skepticism, Relativism, and Ethics in the Zhuangzi*, ed. Paul Kjellberg and P.J. Ivanhoe, Albany, NY: State University of New York Press, 196–214.
+* –––, 2002, “Confucian Self Cultivation and Mengzi’s Notion of Extension,” in *Essays on the Moral Philosophy of Mengzi*, ed. Xiusheng Liu and Philip J. Ivanhoe, Indianapolis: Hackett Publishing Company, 221–241.
+* –––, 2005, “Mozi” (Introduction and translation of selections from the *Mozi* text), in *Readings in Classical Chinese Philosophy*, Philip J. Ivanhoe and Bryan W. Van Norden (eds.), Indianapolis, IN: Hackett Publishing Company, 2nd edition.
+* Jenco, Leigh, 2015, *Changing Referents: Learning Across Space and Time in China and the West*, New York: Oxford University Press.
+* Jiang, Qing, 2012, *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*, Daniel A. Bell and Fan Ruiping (eds.), Edmund Ryden (trans.), Princeton: Princeton University Press.
+* Jiang, Tao, 2021, *Origins of Moral-Political Philosophy in Early China*, New York: Oxford University Press.
+* Jiang, Xinyan, 2002, “Mencius on Moral Responsibility,” in *The Examined Life: Chinese Perspectives: Essays on Chinese Ethical Traditions*,Xinyan Jiang and Robert Neville (eds.), Binghamton, NY: Global Publications, 141–159.
+* Kasulis, Thomas, 1986, *Zen Action/Zen Person*, Honolulu: University of Hawai‘i Press.
+* Kim, Sungmoon, 2016, *Public Reason Confucianism: Democratic Perfectionism and Constitutionalism in East Asia*, New York: Cambridge University Press.
+* Knoblock, John, 1988–94, *Xunzi: a Translation and Study of the Complete Works*, 3 volumes, Stanford: Stanford University Press.
+* Kupperman, Joel J., 1999, *Learning from Asian Philosophy*, New York: Oxford University Press.
+* –––, 2000, “Feminism as Radical Confucianism: Self and Tradition,” in *The Sage and the Second Sex: Confucianism, Ethics, and Gender*, Chenyang Li (ed.), Chicago: Open Court, 43–56.
+* LaFargue, Michael, 1992, *The Tao of the Tao Te Ching*, Albany: State University of New York Press.
+* Lai, Karyn, 2020, “Freedom and Agency in the Zhuangzi: Navigating Life’s Constraints,” *British Journal for the History of Philosophy*, 30(1): 3–23
+* Lau, D. C. (trans.), 1963, *Lao Tzu: Tao Te Ching*, New York: Penguin.
+* –––, (trans.), 1970a, *Mencius*, New York: Penguin.
+* –––, 1970b, “On Mencius’s Use of the Method of Analogy in Argument,” appendix 5 in *Mencius*, New York: Penguin.
+* ––– (trans.), 1979, *Confucius: the Analects*, New York: Penguin.
+* Legge, James (trans.), 1960, *Tso Chuan* (*Zuo Zhuan*), Hong Kong: Hong Kong University Press.
+* ––– (trans.), 1967, *Li Chi: Book of Rites*, 2 volumes, New York: University Books.
+* ––– (trans.), 1971, *Confucius: Confucian Analects, the Great Learning, & the Doctrine of the Mean*, New York: Dover.
+* Li, Chenyang, 1994, “The Confucian Concept of *Jen* and the Feminist Ethic of Care: A Comparative Study,” *Hypatia: A Journal of Feminist Philosophy*, 9(1): 70–89; reprinted in *The Sage and the Second Sex: Confucianism, Ethics, and Gender*, Chenyang Li (ed.), Chicago: Open Court, 23–42.
+* –––, 2007, “*Li* as Cultural Grammar: On the Relation between *Li* and *Ren* in Confucius’ *Analects*,” *Philosophy East & West*, 57: 311–29.
+* –––, 2014, *The Confucian Philosophy of Harmony*, New York: Routledge.
+* Lieberman, Matthew D., Inagaki, Tristen K., Tabibnia, Golnaz, and Crockett, Molly J., 2011, “Subjective Responses to Emotional Stimuli During Labeling, Reappraisal, and Distraction,” *Emotion*, 11(3): 468–480.
+* Liu, Jeeloo, 2018, *Neo-Confucianism: Metaphysics, Mind, and Morality*, Hoboken, NJ: John Wiley & Sons.
+* Machle, Edward J., 1993, *Nature and Heaven in the Xunzi: A Study of the Tian Lun*, Albany, NY: State University of New York Press.
+* MacIntyre, Alasdair, 1984, *After Virtue: A Study in Moral Theory*, 2nd edition, Notre Dame: University of Notre Dame.
+* –––, 1989, *Whose Justice? Which Rationality?*, Notre Dame: University of Notre Dame Press.
+* McRae, Emily, 2011, “The Cultivation of Moral Feelings and Mengzi’s Method of Extension,” *Philosophy East & West*, 61: 587–608.
+* Meyers, Diana, 1989, *Self, Society, and Personal Choice*, New York: Columbia University Press.
+* Mikhail, John, 2011, *Elements of Moral Cognition*, New York: Cambridge University Press.
+* Milgram, Stanley, 1974, *Obedience to Authority*, New York: Harper.
+* Miller, James, 2017, *China’s Green Religion: Daoism and the Quest for a Sustainable Future*, New York: Columbia University Press.
+* Nagel, Thomas, 1976, “Moral Luck,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 50: 137–155.
+* Neville, Robert, 2017, *The Good Is One, Its Manifestations Many: Confucian Essays on Metaphysics, Morals, Rituals, Institutions, and Genders*, New York: Oxford University Press.
+* Nichols, Shaun, 2004, *Sentimental Rules: On the Natural Foundations of Moral Judgment*, New York: Oxford University Press.
+* Nivison, David S., 1991, “Hsün Tzu and Chuang Tzu,” in *Chinese Texts and Philosophical Contexts: Essays Dedicated to Angus C. Graham*, ed. Henry Rosemont, Jr., La Salle, IL: Open Court, 129–142.
+* –––, 1996, “Motivation and Moral Action in Mencius,” in *The Ways of Confucianism*, ed. Bryan Van Nordan, La Salle, IL.: Open Court, 91–114.
+* Noddings, Nel, 1984, *Caring: A Feminine Approach to Ethics and Moral Education*, Berkeley: University of California Press.
+* Nylan, Michael, 2000, “Spindles and Axes: Elite Women in the Achaemenid and Han Empires,” in *The Sage and the Second Sex: Confucianism, Ethics, and Gender*, Chenyang Li (ed.), Chicago: Open Court, 199–222.
+* Olberding, Amy, 2008, “Dreaming of the Duke of Zhou: Exemplarism and the *Analects*,” *Journal of Chinese Philosophy*, 35: 625–639.
+* –––, 2012, *Moral Exemplars in the Analects: The Good Person is That*, New York: Routledge.
+* –––, 2016, “Etiquette: A Confucian Contribution to Moral Philosophy,” *Ethics*, 126(2): 422–446.
+* –––, 2019, *The Wrong of Rudeness: Learning Modern Civility from Ancient Chinese Philosophy*, New York: Oxford University Press.
+* Raphals, Lisa, 1998, *Sharing the Light: Representations of Women and Virtue in Early China*, Albany, NY: State University of New York Press.
+* Rosemont, Henry, 1991, *A Chinese Mirror: Moral Reflections on Political Economy and Society*, La Salle, IL: Open Court.
+* –––, 2004, “Whose Democracy? Which Rights? A Confucian Critique of Modern Western Liberalism,” in *Confucian Ethics: A Comparative Study of Self, Autonomy, and Community*, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 49–71.
+* Rosenlee, Li-Hsiang Lisa, 2007, *Confucianism and Women: A Philosophical Interpretation*, Albany, NY: State University of New York Press.
+* –––, 2014, “Why Care? A Feminist Re-appropriation of Confucian *Xiao* 孝,” in *Dao Companion to the Analects*, Amy Olberding (ed.), Dordrecht: Springer 2014, 311–334.
+* Roth, Harold D., 1999, *Original Tao: Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism*, New York, Columbia University Press.
+* –––, 2000, ‘Bimodal Mystical Experience in the ‘Qiwu lun’ Chapter of Zhuangzi,’ *Journal of Chinese Religions*, 28: 31–50.
+* Sarkissian, Hagop, 2010, “Minor Tweaks, Major Payoffs: The Problems and Promise of Situationism in Moral Philosophy,” *Philosophers’ Imprint*, 10 \[[available online](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/minor-tweaks-major-payoffs-the-problems-and-promise.pdf?c=phimp;idno=3521354.0010.009;format=pdf).
+* Shun, Kwong-loi, 1993, “*Ren* and *Li* in the *Analects*,” *Philosophy East & West*, 43: 457–79; modified version in *Confucius and the Analects: New Essays*, New York: Oxford University Press, 2002, 53–72 .
+* –––, 1997, *Mencius and Early Chinese Thought*, Stanford: Stanford University Press.
+* –––, 2004, “Conception of the Person in Early Confucian Thought,” in *Confucian Ethics: A Comparative Study of Self, Autonomy, and Community*, Kwong-loi Shun and David B. Wong (ed.), New York: Cambridge University Press, 183–199.
+* Singer, Peter, 1972, “Famine, Affluence, and Morality,” *Philosophy and Public Affairs*, 1(3): 229–243.
+* Slingerland, Edward, 2000, “Why Philosophy is Not ‘Extra’ in Understanding the *Analects*” and “Reply to Bruce Brooks and A. Takeo Brooks,” *Philosophy East & West*, 50: 137–41, 146–7.
+* –––, 2009, “Toward an Empirically-Responsible Ethics: Cognitive Science, Virtue Ethics, and Effortless Attention in Early Chinese Thought,” in *Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action*, Brian Bruya (ed.), Cambridge, MA: Bradford Books.
+* –––, 2011, “The Situationist Critique and Early Confucian Virtue Ethics,” *Ethics*, 121: 390–419.
+* Slingerland, Edward, trans., 2003, *Confucius: Analects*, Indianapolis: Hackett.
+* Tan, Sor Hoon, 2003, *Confucian Democracy: A Deweyan Reconstruction*, Albany, NY: State University of New York Press.
+* –––, 2005, “Imagining Confucius: Paradigmatic Characters and Virtue Ethics,” *Journal of Chinese Philosophy*, 32: 409–426.
+* Stephens, Daniel J., 2021, “Later Mohist Ethics and Philosophical Progress in Ancient China,” *British Journal for the History of Philosophy*, 29(3): 394–414.
+* Thompson, Kirill O., 1988, “*Li* and *yi* as immanent: Chu Hsi’s thought in practical perspective,” *Philosophy East & West*, 38: 30–46.
+* Tiwald, Justin, 2010, “Dai Zhen on Sympathetic Concern,” *Journal of Chinese Philosophy*, 37(1): 76–89.
+* –––, 2011a, “Dai Zhen’s Defense of Self-Interest,” *Journal of Chinese Philosophy*, 38 (supplement): 29–45.
+* –––, 2011b, “Sympathy and Perspective-Taking in Confucian Ethics,” *Philosophy Compass*, 6(10): 663–674.
+* –––, 2018, “Confucianism and Neo-Confucianism,” *Oxford Handbook of Virtue*, Nancy Snow (ed.), New York, Oxford University Press, 171–189.
+* Vallentyne, Peter (ed.), 1991, *Contractarianism and Rational Choice: Essays on David Gauthier’s Morals by Agreement*, New York: Cambridge University Press.
+* Valmisa, Mercedes, 2021, *Adapting A Chinese Philosophy of Action*, New York: Oxford University Press.
+* Van Norden, Bryan, 2004, “The Virtue of Righteousness in Mencius,” in *Confucian Ethics: A Comparative Study of Self, Autonomy, and Community*, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 148–182.
+* –––, 2007, *Virtue Ethics and Consequentialism in Early Chinese Philosophy*, Cambridge: Cambridge University Press.
+* Waley, Arthur, trans., 1938, *The Analects of Confucius*, London: George Allen & Unwin, 1938; reissue (1989), New York: Vintage: 1989.
+* Walker, Margaret Urban, 1993, “Moral Luck and the Virtues of Impure Agency,” in *Moral Luck*, Daniel Statman (ed.), Albany: State University of New York Press, 235–250.
+* Walzer, Michael. 1973, “Political Action: The Problem of Dirty Hands,” *Philosophy and Public Affairs* 2.2: 160–180.
+* –––, 1983, *Spheres of Justice: a Defense of Pluralism and Equality*, New York: Basic Books.
+* Watson, Burton (trans.), 2003, *Han Feizi: Basic Writings*, New York: Columbia University Press.
+* Wong, David B., 2000, “Xunzi on Moral Motivation,” in *Virtue, Nature and Moral Agency in the Xunzi*, T.C. Kline and Philip J. Ivanhoe (eds.), Indianapolis, IN: Hackett Publishing Company, 135–154.
+* –––, 2002, “Reasons and Analogical Reasoning in Mengzi,” in *Essays on the Moral Philosophy of Mengzi*, Xiusheng Liu and Philip J. Ivanhoe (eds.), Indianapolis: Hackett Publishing Company, 187–220.
+* –––, 2004, “Rights and Community in Confucianism,” in *Confucian Ethics: A Comparative Study of Self, Autonomy, and Community*, Kwong-loi Shun and David B. Wong (eds.), New York: Cambridge University Press, 31–48.
+* –––, 2005, “Zhuangzi and the Obsession with Being Right,” *History of Philosophy Quarterly*, 22: 91–107.
+* –––, 2006, “Attachment and Detachment in Daoism, Buddhism, and Stoicism,” *Dao,*, 5(2): 207–219.
+* –––, 2015a, “Growing Virtue: The Theory and Science of Developing Compassion from a Mencian Perspective,” in *The Philosophical Challenge from China*, Brian Bruya (ed.), Cambridge, MA: MIT Press, 23–58.
+* –––, 2015b, “Early Confucian Philosophy and the Development of Compassion,” *Dao*, 14(2): 157–194.
+* –––, 2016, “Xunzi’s Metaethics,” in *Dao Companion to the Philosophy of Xunzi*, Eric Hutton (ed.), New York: Springer, 139–164.
+* –––, 2020, “Soup, Harmony, and Disagreement,” *Journal of the American Philosophical Association*, 6(2): 139–155.
+* –––, 2022, “Constructive Skepticism in the *Zhuangzi*,” in *Dao Companion to the Philosophy of the Zhuangzi*, Kim-Chong Chong (ed.), Cham: Springer, 639–660.
+* Wright, Dale S., 1998, “Mind: the ‘Great Matter’ of Zen,” in *Philosophical Meditations on Zen Buddhism*, Cambridge: Cambridge University Press, 157–180.
+* Yu, Jiyuan, 2007, *The Ethics of Confucius and Aristotle: Mirrors of Virtue*, New York: Routledge.
+* Ziporyn, Brook, 2009, *Zhuangzi: The Essential Writings: With Selections from Traditional Commentaries*, Indianapolis, IN: Hackett Publishing.
 
 ## Academic Tools
 
@@ -540,7 +539,7 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 
 ## Other Internet Resources
 
-* [_Kongzi Jiayu_](https://ctext.org/kongzi-jiayu.), in _Chinese Text Project_ (2006–2023).
+* [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu.), in *Chinese Text Project* (2006–2023).
 * [Chinese Text project](https://ctext.org/). Electronic versions of philosophical texts in Chinese, often with translations and hypertext links to definitions of each Chinese character.
 * [Chinese Philosophical Etext Archive](http://sangle.web.wesleyan.edu/etext/index.html). Electronic versions of philosophical texts in Chinese.
 
@@ -549,4 +548,4 @@ Legalism 对德性伦理学提出的最强烈挑战不是稳定的美德不可�
 [Chinese Philosophy: Mohism](https://plato.stanford.edu/entries/mohism/) | [Chinese Philosophy: Mohist Canons](https://plato.stanford.edu/entries/mohist-canons/) | [comparative philosophy: Chinese and Western](https://plato.stanford.edu/entries/comparphil-chiwes/) | [Confucius](https://plato.stanford.edu/entries/confucius/) | [Daoism](https://plato.stanford.edu/entries/daoism/) | [Laozi](https://plato.stanford.edu/entries/laozi/) | [Mencius](https://plato.stanford.edu/entries/mencius/) | [Xunzi](https://plato.stanford.edu/entries/xunzi/) | [Zhuangzi](https://plato.stanford.edu/entries/zhuangzi/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[_dbwong@duke.edu_](mailto:dbwong%40duke%2eedu)>
+[David Wong](http://fds.duke.edu/db/aas/Philosophy/faculty/dbwong) <[*dbwong@duke.edu*](mailto:dbwong%40duke%2eedu)>

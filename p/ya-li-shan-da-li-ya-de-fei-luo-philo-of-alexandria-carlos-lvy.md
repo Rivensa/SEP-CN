@@ -1,10 +1,8 @@
 # 亚历山大里亚的斐洛  Philo of Alexandria (Carlos Lévy)
 
-
 *首次发表于2018年2月5日；实质修订于2022年8月16日*
 
 亚历山大里亚的斐洛是一位犹太思想家，生活在公元前一世纪上半叶的亚历山大里亚（Hadas Lebel 2012）。他是否真正是一位哲学家仍然是一个长期争论的问题。在罗马帝国的开始阶段，特别是对于斯多葛派和犬儒派来说，哲学家的根本任务是建构自己的自我（Foucault 2001）。一个追求自我完善的人首先必须调节自己的本性，控制自己的激情和情绪，消除理论与实践之间的任何差距。因此，他被认为接近了神的完美。与这种态度完全相反，斐洛的目的是证明人类的本体上的虚无。在他看来，拥有真正存在的唯一途径是承认没有上帝的帮助，人就是一无所有，上帝是自由、理性和意识的源泉。他的目标是成为启示录和构成上帝话语的文本的最好仆人。他接受矛盾作为一种正常的表达方式，这可能解释了他的论文给人的无序印象。然而，他既不无知也不困惑；相反，他有意识地解构了希腊思想中的理性主义模式，他认为这些模式用来肯定自我的首要性。他并不想摆脱理性，而是要将其明确地置于神圣超越的独特视角之中。尽管他对柏拉图（Reydams-Schils 2008）非常钦佩，但他的超越并不完全是柏拉图式的，而是一种既绝对无法知晓又非常接近人类的上帝。Nikiprowetzky（1977）通过肯定法律在斐洛思想中的核心地位，开启了斐洛研究的新时代。 从这个角度来看，哲学是启示的仆人，通过借鉴希腊逻辑学的范畴，使其解释更具普遍影响力。我们的演示的一个目的是对斐洛的众多形象和解释进行合理评估，这些形象和解释在斐洛学术研究中被发现。
- 
 
 ---
 
@@ -278,13 +276,13 @@ The editors of Philo in the Loeb Classical Library (LCL), F.H. Colson, J.W. Earp
 
 In the French edition, *Les Œuvres de Philon d’Alexandrie*, Paris 1961–1992, 36 vol, some volumes are only translations with a minimal introduction, while other ones contain an introductions and notes that can be extensive, Paris: Éditions du Cerf, sous la direction de R. Arnaldez, C. Mondésert, J. Pouilloux.  
 
-* *Introduction générale, De opificio mundi*, R. Arnaldez.   
-* 2. *Legum allegoriae*, C. Mondésert.   
-* 3. *De cherubim*, J. Gorez.   
-* 4.   *De sacrificiis Abelis et Caini*, A. Méasson.   
-* 5.   *Quod deterius potiori insidiari soleat*, I. Feuer.   
+* *Introduction générale, De opificio mundi*, R. Arnaldez.
+* 2. *Legum allegoriae*, C. Mondésert.
+* 3. *De cherubim*, J. Gorez.
+* 4.   *De sacrificiis Abelis et Caini*, A. Méasson.
+* 5.   *Quod deterius potiori insidiari soleat*, I. Feuer.
 * 6.   *De posteritate Caini*, R. Arnaldez.
-* 7–8.   *De gigantibus. Quod Deus sit immutabilis*, A. Mosès.   
+* 7–8.   *De gigantibus. Quod Deus sit immutabilis*, A. Mosès.
 * 9.   *De agricultura*, J. Pouilloux.
 * 10.   *De plantatione*, J. Pouilloux.
 * 11–12.  *De ebrietate. De sobrietate*, J. Gorez.

@@ -262,8 +262,8 @@ Hal Roth 强调这种思路，并将其与早期法家文本《管子》中两�
 
   * [9.1.1 道（方式，指南，道路）](https://plato.stanford.edu/entries/daoism/#Dao)
   * [9.1.2 德（德行，美德，力量）](https://plato.stanford.edu/entries/daoism/#de)
-* [ 9.2 明（名字）](https://plato.stanford.edu/entries/daoism/#Ming)
-* [ 9.3 常（常数）](https://plato.stanford.edu/entries/daoism/#Chang)
+* [9.2 明（名字）](https://plato.stanford.edu/entries/daoism/#Ming)
+* [9.3 常（常数）](https://plato.stanford.edu/entries/daoism/#Chang)
 * [9.4 为 &amp; 无为（行动与非行动）](https://plato.stanford.edu/entries/daoism/#Wuwei)
 * [9.5 简单性（语言前纯洁性）](https://plato.stanford.edu/entries/daoism/#pu)
 

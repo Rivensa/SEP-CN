@@ -1,6 +1,6 @@
 # 实用主义女性主义与欧陆女性主义之间的交汇 intersections between pragmatist and continental philosophy (Shannon Sullivan and Erin Tarver)
 
-_首次发表于 2002 年 12 月 6 日星期五；实质性修订于 2024 年 2 月 6 日星期二_
+*首次发表于 2002 年 12 月 6 日星期五；实质性修订于 2024 年 2 月 6 日星期二*
 
 女性主义哲学是学科中一个庞大且不断增长的子领域。女性主义哲学家在其方法论和哲学目标上存在差异，并常根据其对哲学的态度或受到影响的哲学传统（例如，作为分析性、欧陆哲学或实用主义女性主义者）而被分组。本文概述了一群女性主义思想家的工作，其中融合了欧陆哲学和实用主义哲学的元素。
 
@@ -15,7 +15,6 @@ _首次发表于 2002 年 12 月 6 日星期五；实质性修订于 2024 年 2 
 在其对哲学的透视、历史和语境性方法中，欧陆哲学发现与美国实用主义不仅有显著的接触点，而且与许多当代女性主义哲学有很多共通之处。一般来说，尤其是在受到欧陆哲学和实用主义哲学影响时，女性主义哲学可以被视为针对父权制度和男性特权的宏大叙事，主张许多所谓哲学的客观和普遍真理实际上是从一个特定的——在这种情况下是男性偏见的——观点所作的声明。正如本文将揭示的那样，欧陆哲学和实用主义哲学的双重影响最终促成了一种挑战哲学构建尖锐二分和对立二元论的女性主义。这种挑战是女性主义的，因为即使二元论并未明确涉及到女性、性别或性取向，它们往往牵涉到并产生男性（尤其是白人男性）特权。
 
 尽管实用主义、欧陆哲学和女性主义之间存在许多亲和性，但在历史上很少有女性主义者的作品被公认为明确融合了其他两种传统。相反，有一小部分女性主义者以欧陆传统而闻名，他们在较不被认可的方式中也从实用主义的主题和人物中汲取灵感。接下来，我们将讨论那些通常与欧陆哲学联系在一起的女性主义者的作品中出现的主题，以阐明每位女性主义者如何结合实用主义和欧陆思想。在最后一部分中，我们将考虑女性主义者最近的作品，这些作品开创了欧陆和实用主义女性主义交汇的新用途，并提出这个年轻领域可能采取的未来方向。
-
 
 ***
 
@@ -137,70 +136,70 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 
 ## Bibliography
 
-* Alcoff, Linda Martín, 2006. _Visible Identities: Race, Gender, and the Self_, New York: Oxford University Press.
-* Bardwell-Jones, Celia T., 2018. “Placental Ethics: Addressing Colonial Legacies and Imagining Culturally Safe Responses to Health Care in Hawai’i,” _The Pluralist_, 13(1): 97–114.
-* Beauvoir, Simone de, 1989. _The Second Sex_, H.M. Parshley (trans.), New York: Vintage Books.
-* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995. _Feminist Contentions: A Philosophical Exchange_, New York: Routledge.
-* Bickford, Susan, 1993. “Why We Listen to Lunatics: Antifoundational Theories and Feminist Politics,” _Hypatia_, 8(2): 104–23.
-* Bordo, Susan R., 1987. _The Flight to Objectivity: Essays on Cartesianism and Culture_, Albany, NY: SUNY Press.
-* –––, 1993. _Unbearable Weight: Feminism, Western Culture, and the Body_, Berkeley, CA: University of California Press.
-* Butler, Judith, 1990. _Gender Trouble_, New York: Routledge.
-* –––, 1993. _Bodies that Matter: On the Discursive Limits of “Sex,”_, New York: Routledge.
-* Colapietro, Vincent, 2000. “Further Consequences of a Singular Capacity,” in _Peirce, Semiotics, and Psychoanalysis_, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
-* Collins, Patricia Hill, 2012. “Social Inequality, Power, and Politics: Intersectionality and American Pragmatism in Dialogue,” _Journal of Speculative Philosophy_, 26(2): 443–457.
-* –––, 2019. _Intersectionality as Critical Social Theory_, Durham, NC: Duke University Press.
-* De Lauretis, Teresa, 1984. _Alice Doesn’t: Feminism, Semiotics, Cinema_, Bloomington, IN: Indiana University Press.
-* –––, 1994. _The Practice of Love: Lesbian Sexuality and Perverse Desire_, Bloomington, IN: Indiana University Press.
-* –––, 2000. “Gender, Body, and Habit Change,” in _Peirce, Semiotics, and Psychoanalysis_, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
-* Dewey, John, 1988. _The Quest for Certainty_, Volume 4 of _John Dewey: The Later Works: 1925–1953_, Jo Ann Boydston (ed.), Carbondale and Edwardsville: Southern Illinois University Press.
-* –––, 2000. “Experience and Philosophic Method,” in _Pragmatism and Classical American Philosophy_, John Stuhr (ed.), New York: Oxford University Press.
-* Dotson, Kristie, 2012. “How is this Paper Philosophy?” _Comparative Philosophy_, 3(1): 03–29.
-* Fraser, Nancy, 1990a. “Solidarity or Singularity? Richard Rorty between Romanticism and Technocracy,” in _Reading Rorty_, Alan Malachowski (ed.), Cambridge, MA: Basil Blackwell.
-* –––, 1990b. “From Irony to Prophecy to Politics: A Response to Richard Rorty,” _Michigan Quarterly Review_, 30(2): 259–66.
-* –––, 1997. _Justice Interruptus: Critical Reflections on the “Postsocialist” Condition_, New York: Routledge.
-* Gatens-Robinson, Eugenie, 1991. “Dewey and the Feminist Successor Science Project,” _Transactions of the C. S. Peirce Society_, 27(4): 411–34.
-* Gayman, Cynthia, 2011. “Politicizing the Personal: Thinking about the Feminist Subject with Michel Foucault and John Dewey,” _Foucault Studies_, 11: 63–75.
-* Grosz, Elizabeth, 1994. _Volatile Bodies: Toward a Corporeal Feminism_, Bloomington, IN: Indiana University Press.
-* –––, 2001. _Architecture from the Outside: Essays on Virtual and Real Space_, Forward by Peter Eisenman, Cambridge, MA: The MIT Press.
-* Hamington, Maurice, 2004. _Embodied Care: Jane Addams, Maurice Merleau-Ponty, and Feminist Ethics_, Urbana, IL: University of Illinois Press.
-* Hansen, Jennifer, 2013. “From Hinge Narrative to Habit: Self-Oriented Narrative Psychotherapy Meets Feminist Phenomenological Theories of Embodiment,” _Philosophy, Psychiatry, and Psychology_, 20(1): 69–73.
-* Haraway, Donna J., 1991. _Simians, Cyborgs and Women: The Reinvention of Nature_, New York: Routledge.
-* –––, 1997. _Modest\_Witness_@_Second\_Millennium.FemaleMan_©­_\_Meets\_OncoMouse_™: _Feminism and Technoscience_, New York: Routledge.
-* Heyes, Cressida J., 2007. _Self Transformations: Foucault, Ethics, and Normalized Bodies_, New York: Oxford University Press.
-* Irigaray, Luce, 1985. _Speculum of the Other Woman_, Ithaca, NY: Cornell University Press.
-* Jolles, Marjorie, 2012. “Between Embodied Subjects and Objects: Narrative Somaesthetics,” _Hypatia_, 27(2): 301–318.
-* Koopman, Colin, 2011. “Genealogical Pragmatism: How History Matters for Foucault and Dewey,” _Journal of the History of Philosophy_, 5(3): 533–561.
-* Kristeva, Julia, 1986a. “The System and the Speaking Subject,” in _The Kristeva Reader_, Toril Moi (ed.), New York: Columbia University Press.
-* –––, 1986b. “From Symbol to Sign,” Seán Hand (trans.), in _The Kristeva Reader_, Toril Moi (ed.), New York: Columbia University Press.
-* –––, 1991. _Strangers to Ourselves_, Leon S. Roudiez (trans.), New York: Columbia University Press.
-* Kruse, Felicia, 1991. “Luce Irigaray’s _Parler Femme_ and American Metaphysics,” _Transactions of the C. S. Peirce Society_, 27(4): 451–464.
-* Leland, Dorothy, 1988. “Rorty on the Moral Concern of Philosophy: A Critique from a Feminist Point of View,” _Praxis International_, 8(3): 273–83.
-* Lovibond, Sabina, 1992. “Feminism and Pragmatism: A Reply to Richard Rorty,” _New Left Review_, 193: 56–74.
-* Lyotard, Jean-François, 1984. _The Postmodern Condition: A Report on Knowledge_, Geoffrey Bennington and Brian Massumi (trans.), Minneapolis, MN: University of Minnesota Press.
-* Magada-Ward, Mary, 2014. “Why Pragmatists Should Not Be Cyborgs.” _Journal of Speculative Philosophy_, 28(4): 472–488.
-* Marcano, Donna-Dale L., 2010. “The Difference That Difference Makes: Black Feminism and Philosophy,” in _Convergences: Black Feminism and Continental Philosophy_, Maria Del Guadalupe Davidson, Kathryn T. Gines, and Donna-Dale L. Marcano (eds.), Albany: SUNY Press, 53–65.
-* McAfee, Noëlle, 2008. _Democracy and the Political Unconscious_, New York: Columbia University Press.
-* McKenna, Erin, 2001. _The Task of Utopia: A Pragmatist and Feminist Perspective_, Lanham, MD: Rowman and Littlefield.
-* McWhorter, Ladelle, 1999. _Bodies and Pleasures: Foucault and the Politics of Sexual Normalization_, Bloomington: Indiana University Press.
-* Medina, José, 2013. _The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations_, Oxford: Oxford University Press.
-* Moen, Marcia, 1991. “Peirce’s Pragmatism as a Resource for Feminism,” _Transactions of the C. S. Peirce Society_, 27(4): 435–450.
-* Peirce, Charles Sanders, 2000a. “Some Consequences of Four Incapacities,” in _Pragmatism and Classical American Philosophy_, John Stuhr (ed.), New York: Oxford University Press.
-* –––, 2000b. “What Pragmatism Is,” in _Pragmatism and Classical American Philosophy_, John Stuhr (ed.), New York: Oxford University Press.
-* Rorty, Richard, 1979. _Philosophy and the Mirror of Nature_, Princeton: Princeton University Press.
-* –––, 1991. “Feminism and Pragmatism,” _Radical Philosophy_, 59: 3–14.
-* –––, 1993. “Feminism, Ideology, and Deconstruction: A Pragmatist View,” _Hypatia_, 8(2): 96–103.
-* Salamon, Gayle, 2009. “Justification and Queer Method, or Leaving Philosophy,” _Hypatia_, 24(1): 225–230.
-* Schultz, Bart, 1999. “Comment: The Private and Its Problems—Pragmatism, Pragmatist Feminism, and Homophobia,” _Philosophy of the Social Sciences_, 29(2): 281–305.
-* Seigfried, Charlene Haddock, 1996. _Pragmatism and Feminism: Reweaving the Social Fabric_, Chicago: University of Chicago Press.
-* Sullivan, Shannon, 2001a. “Guest Editor’s Introduction,” Special Issue on Pragmatism and Feminism. _Journal of Speculative Philosophy_, 15(2): 69–73.
-* –––, 2001b. _Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism_, Bloomington, IN: Indiana University Press.
-* –––, 2006. _Revealing Whiteness: The Unconscious Habits of Racial Privilege_, Bloomington, IN: Indiana University Press.
-* Tarver, Erin C., 2013. “Signifying ‘Hillary’: Making (Political) Sense with Butler and Dewey,” _Contemporary Pragmatism_, 10(2): 25–47.
-* –––, 2015. “Lady Pragmatism and the Great Man: The Need for Feminist Pragmatism,” in _Feminist Interpretations of William James_, Erin C. Tarver and Shannon Sullivan (eds.), University Park, PA: Pennsylvania State University Press, 98–117.
-* Weiss, Gail, 1999. _Body Images: Embodiment as Intercorporeality_, New York: Routledge.
-* Willett, Cynthia, 2001. _The Soul of Justice: Social Bonds and Racial Hubris_, Ithaca, NY: Cornell University Press.
-* –––, 2008. _Irony in the Age of Empire: Comic Perspectives on Democracy and Freedom_, Bloomington, IN: Indiana University Press.
-* Wilson, Catherine, 1992. “How Did the Dinosaurs Die Out? How Did the Poets Survive?” _Radical Philosophy_, 62: 20–26.
+* Alcoff, Linda Martín, 2006. *Visible Identities: Race, Gender, and the Self*, New York: Oxford University Press.
+* Bardwell-Jones, Celia T., 2018. “Placental Ethics: Addressing Colonial Legacies and Imagining Culturally Safe Responses to Health Care in Hawai’i,” *The Pluralist*, 13(1): 97–114.
+* Beauvoir, Simone de, 1989. *The Second Sex*, H.M. Parshley (trans.), New York: Vintage Books.
+* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995. *Feminist Contentions: A Philosophical Exchange*, New York: Routledge.
+* Bickford, Susan, 1993. “Why We Listen to Lunatics: Antifoundational Theories and Feminist Politics,” *Hypatia*, 8(2): 104–23.
+* Bordo, Susan R., 1987. *The Flight to Objectivity: Essays on Cartesianism and Culture*, Albany, NY: SUNY Press.
+* –––, 1993. *Unbearable Weight: Feminism, Western Culture, and the Body*, Berkeley, CA: University of California Press.
+* Butler, Judith, 1990. *Gender Trouble*, New York: Routledge.
+* –––, 1993. *Bodies that Matter: On the Discursive Limits of “Sex,”*, New York: Routledge.
+* Colapietro, Vincent, 2000. “Further Consequences of a Singular Capacity,” in *Peirce, Semiotics, and Psychoanalysis*, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
+* Collins, Patricia Hill, 2012. “Social Inequality, Power, and Politics: Intersectionality and American Pragmatism in Dialogue,” *Journal of Speculative Philosophy*, 26(2): 443–457.
+* –––, 2019. *Intersectionality as Critical Social Theory*, Durham, NC: Duke University Press.
+* De Lauretis, Teresa, 1984. *Alice Doesn’t: Feminism, Semiotics, Cinema*, Bloomington, IN: Indiana University Press.
+* –––, 1994. *The Practice of Love: Lesbian Sexuality and Perverse Desire*, Bloomington, IN: Indiana University Press.
+* –––, 2000. “Gender, Body, and Habit Change,” in *Peirce, Semiotics, and Psychoanalysis*, John Muller and Joseph Brent (eds.), Baltimore, MD: John Hopkins University Press.
+* Dewey, John, 1988. *The Quest for Certainty*, Volume 4 of *John Dewey: The Later Works: 1925–1953*, Jo Ann Boydston (ed.), Carbondale and Edwardsville: Southern Illinois University Press.
+* –––, 2000. “Experience and Philosophic Method,” in *Pragmatism and Classical American Philosophy*, John Stuhr (ed.), New York: Oxford University Press.
+* Dotson, Kristie, 2012. “How is this Paper Philosophy?” *Comparative Philosophy*, 3(1): 03–29.
+* Fraser, Nancy, 1990a. “Solidarity or Singularity? Richard Rorty between Romanticism and Technocracy,” in *Reading Rorty*, Alan Malachowski (ed.), Cambridge, MA: Basil Blackwell.
+* –––, 1990b. “From Irony to Prophecy to Politics: A Response to Richard Rorty,” *Michigan Quarterly Review*, 30(2): 259–66.
+* –––, 1997. *Justice Interruptus: Critical Reflections on the “Postsocialist” Condition*, New York: Routledge.
+* Gatens-Robinson, Eugenie, 1991. “Dewey and the Feminist Successor Science Project,” *Transactions of the C. S. Peirce Society*, 27(4): 411–34.
+* Gayman, Cynthia, 2011. “Politicizing the Personal: Thinking about the Feminist Subject with Michel Foucault and John Dewey,” *Foucault Studies*, 11: 63–75.
+* Grosz, Elizabeth, 1994. *Volatile Bodies: Toward a Corporeal Feminism*, Bloomington, IN: Indiana University Press.
+* –––, 2001. *Architecture from the Outside: Essays on Virtual and Real Space*, Forward by Peter Eisenman, Cambridge, MA: The MIT Press.
+* Hamington, Maurice, 2004. *Embodied Care: Jane Addams, Maurice Merleau-Ponty, and Feminist Ethics*, Urbana, IL: University of Illinois Press.
+* Hansen, Jennifer, 2013. “From Hinge Narrative to Habit: Self-Oriented Narrative Psychotherapy Meets Feminist Phenomenological Theories of Embodiment,” *Philosophy, Psychiatry, and Psychology*, 20(1): 69–73.
+* Haraway, Donna J., 1991. *Simians, Cyborgs and Women: The Reinvention of Nature*, New York: Routledge.
+* –––, 1997. *Modest\_Witness*@*Second\_Millennium.FemaleMan*©­_\_Meets\_OncoMouse_™: *Feminism and Technoscience*, New York: Routledge.
+* Heyes, Cressida J., 2007. *Self Transformations: Foucault, Ethics, and Normalized Bodies*, New York: Oxford University Press.
+* Irigaray, Luce, 1985. *Speculum of the Other Woman*, Ithaca, NY: Cornell University Press.
+* Jolles, Marjorie, 2012. “Between Embodied Subjects and Objects: Narrative Somaesthetics,” *Hypatia*, 27(2): 301–318.
+* Koopman, Colin, 2011. “Genealogical Pragmatism: How History Matters for Foucault and Dewey,” *Journal of the History of Philosophy*, 5(3): 533–561.
+* Kristeva, Julia, 1986a. “The System and the Speaking Subject,” in *The Kristeva Reader*, Toril Moi (ed.), New York: Columbia University Press.
+* –––, 1986b. “From Symbol to Sign,” Seán Hand (trans.), in *The Kristeva Reader*, Toril Moi (ed.), New York: Columbia University Press.
+* –––, 1991. *Strangers to Ourselves*, Leon S. Roudiez (trans.), New York: Columbia University Press.
+* Kruse, Felicia, 1991. “Luce Irigaray’s *Parler Femme* and American Metaphysics,” *Transactions of the C. S. Peirce Society*, 27(4): 451–464.
+* Leland, Dorothy, 1988. “Rorty on the Moral Concern of Philosophy: A Critique from a Feminist Point of View,” *Praxis International*, 8(3): 273–83.
+* Lovibond, Sabina, 1992. “Feminism and Pragmatism: A Reply to Richard Rorty,” *New Left Review*, 193: 56–74.
+* Lyotard, Jean-François, 1984. *The Postmodern Condition: A Report on Knowledge*, Geoffrey Bennington and Brian Massumi (trans.), Minneapolis, MN: University of Minnesota Press.
+* Magada-Ward, Mary, 2014. “Why Pragmatists Should Not Be Cyborgs.” *Journal of Speculative Philosophy*, 28(4): 472–488.
+* Marcano, Donna-Dale L., 2010. “The Difference That Difference Makes: Black Feminism and Philosophy,” in *Convergences: Black Feminism and Continental Philosophy*, Maria Del Guadalupe Davidson, Kathryn T. Gines, and Donna-Dale L. Marcano (eds.), Albany: SUNY Press, 53–65.
+* McAfee, Noëlle, 2008. *Democracy and the Political Unconscious*, New York: Columbia University Press.
+* McKenna, Erin, 2001. *The Task of Utopia: A Pragmatist and Feminist Perspective*, Lanham, MD: Rowman and Littlefield.
+* McWhorter, Ladelle, 1999. *Bodies and Pleasures: Foucault and the Politics of Sexual Normalization*, Bloomington: Indiana University Press.
+* Medina, José, 2013. *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, Oxford: Oxford University Press.
+* Moen, Marcia, 1991. “Peirce’s Pragmatism as a Resource for Feminism,” *Transactions of the C. S. Peirce Society*, 27(4): 435–450.
+* Peirce, Charles Sanders, 2000a. “Some Consequences of Four Incapacities,” in *Pragmatism and Classical American Philosophy*, John Stuhr (ed.), New York: Oxford University Press.
+* –––, 2000b. “What Pragmatism Is,” in *Pragmatism and Classical American Philosophy*, John Stuhr (ed.), New York: Oxford University Press.
+* Rorty, Richard, 1979. *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
+* –––, 1991. “Feminism and Pragmatism,” *Radical Philosophy*, 59: 3–14.
+* –––, 1993. “Feminism, Ideology, and Deconstruction: A Pragmatist View,” *Hypatia*, 8(2): 96–103.
+* Salamon, Gayle, 2009. “Justification and Queer Method, or Leaving Philosophy,” *Hypatia*, 24(1): 225–230.
+* Schultz, Bart, 1999. “Comment: The Private and Its Problems—Pragmatism, Pragmatist Feminism, and Homophobia,” *Philosophy of the Social Sciences*, 29(2): 281–305.
+* Seigfried, Charlene Haddock, 1996. *Pragmatism and Feminism: Reweaving the Social Fabric*, Chicago: University of Chicago Press.
+* Sullivan, Shannon, 2001a. “Guest Editor’s Introduction,” Special Issue on Pragmatism and Feminism. *Journal of Speculative Philosophy*, 15(2): 69–73.
+* –––, 2001b. *Living Across and Through Skins: Transactional Bodies, Pragmatism, and Feminism*, Bloomington, IN: Indiana University Press.
+* –––, 2006. *Revealing Whiteness: The Unconscious Habits of Racial Privilege*, Bloomington, IN: Indiana University Press.
+* Tarver, Erin C., 2013. “Signifying ‘Hillary’: Making (Political) Sense with Butler and Dewey,” *Contemporary Pragmatism*, 10(2): 25–47.
+* –––, 2015. “Lady Pragmatism and the Great Man: The Need for Feminist Pragmatism,” in *Feminist Interpretations of William James*, Erin C. Tarver and Shannon Sullivan (eds.), University Park, PA: Pennsylvania State University Press, 98–117.
+* Weiss, Gail, 1999. *Body Images: Embodiment as Intercorporeality*, New York: Routledge.
+* Willett, Cynthia, 2001. *The Soul of Justice: Social Bonds and Racial Hubris*, Ithaca, NY: Cornell University Press.
+* –––, 2008. *Irony in the Age of Empire: Comic Perspectives on Democracy and Freedom*, Bloomington, IN: Indiana University Press.
+* Wilson, Catherine, 1992. “How Did the Dinosaurs Die Out? How Did the Poets Survive?” *Radical Philosophy*, 62: 20–26.
 
 ## Academic Tools
 
@@ -219,5 +218,5 @@ Medina 认为，认识者在关于种族主义和（异性恋）性别歧视相�
 [Bergson, Henri](https://plato.stanford.edu/entries/bergson/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [Dewey, John](https://plato.stanford.edu/entries/dewey/) | [feminist philosophy, approaches: continental philosophy](https://plato.stanford.edu/entries/femapproach-continental/) | [feminist philosophy, approaches: intersections between analytic and continental philosophy](https://plato.stanford.edu/entries/femapproach-analy-cont/) | [Foucault, Michel](https://plato.stanford.edu/entries/foucault/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [identity politics](https://plato.stanford.edu/entries/identity-politics/) | [James, William](https://plato.stanford.edu/entries/james/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Peirce, Charles Sanders](https://plato.stanford.edu/entries/peirce/) | [process philosophy](https://plato.stanford.edu/entries/process-philosophy/) | [Rorty, Richard](https://plato.stanford.edu/entries/rorty/) | [Whitehead, Alfred North](https://plato.stanford.edu/entries/whitehead/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Shannon Sullivan](https://clas-pages.uncc.edu/shannon-sullivan/) <[_ssullivan@uncc.edu_](mailto:ssullivan%40uncc%2eedu)>\
-Erin Tarver <[_e.c.tarver@emory.edu_](mailto:e%2ec%2etarver%40emory%2eedu)>
+[Shannon Sullivan](https://clas-pages.uncc.edu/shannon-sullivan/) <[*ssullivan@uncc.edu*](mailto:ssullivan%40uncc%2eedu)>\
+Erin Tarver <[*e.c.tarver@emory.edu*](mailto:e%2ec%2etarver%40emory%2eedu)>

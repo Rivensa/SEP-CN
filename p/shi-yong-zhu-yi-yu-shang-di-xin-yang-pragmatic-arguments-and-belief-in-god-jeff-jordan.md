@@ -1,10 +1,8 @@
 # 实用主义与上帝信仰 pragmatic arguments and belief in God (Jeff Jordan)
 
-_首次发表于2004年8月16日；实质性修订于2022年7月29日。_
+*首次发表于2004年8月16日；实质性修订于2022年7月29日。*
 
 与宇宙论证或设计论证不同，神论实用主义论证并不是为了证明上帝存在的命题，而是为了证明相信上帝存在是合理的。最著名的神论实用主义论证是帕斯卡的赌注。虽然我们简要地提及了这个论证，但本文主要关注威廉·詹姆斯、约翰·斯图尔特·密尔等人提出的神论实用主义论证。它还探讨了实用主义论证的逻辑以及道德论证和以生命最终意义为基础的论证的实用性。本文还探讨了一种重要的反对实用主义论证在信仰形成中的运用的异议——仅凭证据来规范信仰。它还探讨了一些针对神论提出的实用主义论证。
-
- 
 
 ***
 
@@ -269,10 +267,10 @@ E.
 
 显然，实用主义论证违背了(E)，因为实用主义论证只在证据不确定或者明确不利的情况下使用。首先考虑后一种情况。之前提到，帕斯卡的赌注是一个最著名的有神论实用主义论证的例子。事实上，帕斯卡在他的《思想录》（1660）中有四个版本的赌注。第三个版本的赌注是伊恩·哈金（1972）称之为“支配期望论证”的，它使用了期望规则。我们可以用 p 代表一个大于零且小于一半的正概率，用 EU 代表“期望效用”，并使用 F2-F4 作为有限值来表示它。
 
-|                 | <p>** 上帝存在**<br>(<em>p</em>)</p> | <p>** ~(上帝存在)**<br>(1−<em>p</em>)</p> |          |
+|                 | <p>**上帝存在**<br>(<em>p</em>)</p> | <p>**~(上帝存在)**<br>(1−<em>p</em>)</p> |          |
 | --------------- | -------------------------------- | ------------------------------------- | -------- |
-| **Believe**     | _p_, ∞                           | 1 −_p_, F2                            | EU = ∞   |
-| **\~(Believe)** | _p_, F3                          | 1 −_p_, F4                            | EU = 有限值 |
+| **Believe**     | *p*, ∞                           | 1 −*p*, F2                            | EU = ∞   |
+| **\~(Believe)** | *p*, F3                          | 1 −*p*, F4                            | EU = 有限值 |
 
 无论上帝存在的可能性多么小，只要存在一些正的非零概率，相信上帝是最好的选择
 
@@ -376,49 +374,49 @@ Kahane的论证大部分是通过比较存在上帝的可能世界（“有上�
 
 ## Bibliography
 
-* Adams, Robert, 1979. “Moral Arguments for Theistic Belief,” in _Rationality and Religious Belief_, C. Delaney (ed.), Notre Dame: University of Notre Dame Press, pp. 116–40. Reprinted in _The Virtue of Faith_, New York: Oxford University Press, 1979.
-* Beattie, James, 1776. _An Essay on the Nature and Immutability of Truth, In Opposition to Sophistry and Scepticism_, Part III, Ch. III (first ed. 1770; second 1776), New York: Garland, 1971.
-* Clifford, W.K., 1879. “The Ethics of Belief” in _Lectures and Essays_, Vol. II. London: Macmillan.
+* Adams, Robert, 1979. “Moral Arguments for Theistic Belief,” in *Rationality and Religious Belief*, C. Delaney (ed.), Notre Dame: University of Notre Dame Press, pp. 116–40. Reprinted in *The Virtue of Faith*, New York: Oxford University Press, 1979.
+* Beattie, James, 1776. *An Essay on the Nature and Immutability of Truth, In Opposition to Sophistry and Scepticism*, Part III, Ch. III (first ed. 1770; second 1776), New York: Garland, 1971.
+* Clifford, W.K., 1879. “The Ethics of Belief” in *Lectures and Essays*, Vol. II. London: Macmillan.
 * Craig, W.L. 2013. “The Absurdity of Life without God” [The Absurdity of Life without God | Popular Writings | Reasonable Faith](https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god) (accessed 22 April 2022)
-* Dawkins, Richard, 1993. “Viruses of the Mind,” _Dennett and His Critics_, B. Dahlbom (ed.), Oxford: Blackwell.
-* Duncan, Craig. 2013. “Religion and Secular Utility: Happiness, Truth, and Pragmatic Arguments for Theistic Belief” _Philosophy Compass_ 8(4): 381–399.
-* Feldman, Richard, 2000. “The Ethics of Belief,” _Philosophy and Phenomenological Research_, 60(3): 693–95.
-* Freud, Sigmund, 1927. _The Future of an Illusion_, J. Strachey (trans.), New York: W.W. Norton, 1961.
-* Gale, Richard, 1990. _On the Nature and Existence of God_, Cambridge: Cambridge University Press.
-* Garber, Daniel, 2009. _What Happens After Pascal’s Wager: living faith and rational belief_, Milwaukee: Marquette University Press.
-* Hacking, Ian, 1972. “The Logic of Pascal’s Wager,” _American Philosophical Quarterly_, 9: 186–92.
-* Hick, John, 1990. _Philosophy of Religion_, 4th edition, Englewood Cliffs, NJ: Prentice Hall.
-* Hume, David, 1776. _Dialogues Concerning Natural Religion_, H. Aiken (ed.), New York: Hafner Publishing Co., 1948.
-* –––, 1757. _The Natural History of Religion_, H.E. Root (ed.), Stanford, CA: Stanford University Press, 1957.
-* James, William, 1902. _The Varieties of Religious Experience_, New York: Modern Library, 1936.
-* –––, 1896. “The Will to Believe,” _The Will to Believe and Other Essays in Popular Philosophy_, New York: Dover Publications, 1956.
-* Jordan, Jeff, 2002. “Pascal’s Wagers,” in _Midwest Studies in Philosophy: Renaissance and Early Modern Philosophy_, P. French & H. Wettstein (eds.), XXVI: 213–23.
-* –––, 2006. _Pascal’s Wager: Pragmatic Arguments and Belief in God_, Oxford: Clarendon Press.
-* –––, 2016. “A Problem with Theistic Hope,” in _Oxford Studies in Philosophy of Religion_ (Volume 7), J. Kvanvig (ed.), Oxford: Oxford University Press, pp. 111–125.
-* –––, 2022. “Evidentialism and Theistic Pragmatic Arguments” _Handbook of Philosophy of Religion_. Rowman & Littlefield Publishers, pp. 79–90.
-* Kahane, Guy, 2011. “Should We Want God to Exist?” _Philosophy and Phenomenological Research_, 82(3): 674–96.
-* Koenig, H., McCullough, M., and Larson, D., 2012. _Handbook of Religion and Health_, Oxford: Oxford University Press, 2nd Ed.
-* Kraay, Klaas, 2013. “On Preferring God’s Non-Existence” _Canadian Journal of Philosophy_, 43(2): 157–78.
-* Lachelier, Jules, 1901. _The Philosophy of Jules Lachelier_, The Hague: Martinus Nijhoff.
-* Lougheed, Kirk and Simpson, Robert Mark, 2017. “Indirect Epistemic Reasons and Religious Belief,” _Religious Studies_ 53(2): 151–169.
-* Malcolm, Finlay and Scott, Michael, 2017. “Faith, Belief and Fictionalism,” _Pacific Philosophical Quarterly_, 98(S1): 257–74.
-* Mavrodes, George, 1986. “Religion and the Queerness of Morality,” in _Rationality, Religious Belief, and Moral Commitment: New Essays in the Philosophy of Religion_, R. Audi & W. Wainwright (eds.), Ithaca: Cornell University Press, pp. 213–26.
-* Mawson, T.J. 2019. _Monotheism and the Meaning of Life._ Cambridge: Cambridge University Press.
-* Metz, Thaddeus, 2019. _God,_ _Soul and the Meaning of Life_. Cambridge: Cambridge University Press.
-* Mill, J.S., 1874. “Theism” in _Three Essays on Religion_, New York: Henry Holt & Co.
-* Moser, Paul, 1985. _Empirical Justification_, Boston: D. Reidel.
-* Newman, John Henry, 1870. _An Essay in Aid of a Grammar of Assent_, New York: The Catholic Publication Society.
-* Pettigrew, Richard, 2016. “Jamesian Epistemology Formalized: an explication of the Will to Believe,” _Episteme_, 13(3): 253–68.
-* Rinard, Susanna, 2017. “No Exception for Belief,” _Philosophy and Phenomenological Research_ 94(1): 121–143.
-* Somerville, James, 1995. _The Enigmatic Parting Shot_, Aldershot, England. Ashgate Publishing.
-* Stark, R., and Fink, R., 2000. _Acts of Faith: Explaining the Human Side of Religion_, Berkeley, CA: University of California Press.
-* Stove, David, 2003. _On Enlightenment_, R. Kimball (ed.), New Brunswick, NJ: Transaction Publishers.
-* Wainwright, William, 1995. _Reason and the Heart_, Ithaca, NY: Cornell University Press.
-* Williams, Bernard, 1973a. “Deciding to Believe,” in _Problems of the Self_, Cambridge: Cambridge University Press, pp. 136–151.
-* –––, 1973b. “The Makropulos Case: Reflections on the Tedium of Immortality” in _Problems of the Self_, Cambridge: Cambridge University Press, pp. 82–100.
-* Williams, Clifford, 2011. _Existential Reasons for Belief in God: a defense of desires and emotions for faith_, Downers Grove, IL: Inter-Varsity Press.
-* Wood, Allen, 2002. “W.K. Clifford and the Ethics of Belief,” in A. Wood, _Unsettling Obligations: Essays on Reason, Reality and the Ethics of Belief_, Stanford, CA: CSLI Publications.
-* Zagzebski, Linda, 1987. “Does Ethics Need God?” _Faith and Philosophy_, 4(3): 294–303.
+* Dawkins, Richard, 1993. “Viruses of the Mind,” *Dennett and His Critics*, B. Dahlbom (ed.), Oxford: Blackwell.
+* Duncan, Craig. 2013. “Religion and Secular Utility: Happiness, Truth, and Pragmatic Arguments for Theistic Belief” *Philosophy Compass* 8(4): 381–399.
+* Feldman, Richard, 2000. “The Ethics of Belief,” *Philosophy and Phenomenological Research*, 60(3): 693–95.
+* Freud, Sigmund, 1927. *The Future of an Illusion*, J. Strachey (trans.), New York: W.W. Norton, 1961.
+* Gale, Richard, 1990. *On the Nature and Existence of God*, Cambridge: Cambridge University Press.
+* Garber, Daniel, 2009. *What Happens After Pascal’s Wager: living faith and rational belief*, Milwaukee: Marquette University Press.
+* Hacking, Ian, 1972. “The Logic of Pascal’s Wager,” *American Philosophical Quarterly*, 9: 186–92.
+* Hick, John, 1990. *Philosophy of Religion*, 4th edition, Englewood Cliffs, NJ: Prentice Hall.
+* Hume, David, 1776. *Dialogues Concerning Natural Religion*, H. Aiken (ed.), New York: Hafner Publishing Co., 1948.
+* –––, 1757. *The Natural History of Religion*, H.E. Root (ed.), Stanford, CA: Stanford University Press, 1957.
+* James, William, 1902. *The Varieties of Religious Experience*, New York: Modern Library, 1936.
+* –––, 1896. “The Will to Believe,” *The Will to Believe and Other Essays in Popular Philosophy*, New York: Dover Publications, 1956.
+* Jordan, Jeff, 2002. “Pascal’s Wagers,” in *Midwest Studies in Philosophy: Renaissance and Early Modern Philosophy*, P. French & H. Wettstein (eds.), XXVI: 213–23.
+* –––, 2006. *Pascal’s Wager: Pragmatic Arguments and Belief in God*, Oxford: Clarendon Press.
+* –––, 2016. “A Problem with Theistic Hope,” in *Oxford Studies in Philosophy of Religion* (Volume 7), J. Kvanvig (ed.), Oxford: Oxford University Press, pp. 111–125.
+* –––, 2022. “Evidentialism and Theistic Pragmatic Arguments” *Handbook of Philosophy of Religion*. Rowman & Littlefield Publishers, pp. 79–90.
+* Kahane, Guy, 2011. “Should We Want God to Exist?” *Philosophy and Phenomenological Research*, 82(3): 674–96.
+* Koenig, H., McCullough, M., and Larson, D., 2012. *Handbook of Religion and Health*, Oxford: Oxford University Press, 2nd Ed.
+* Kraay, Klaas, 2013. “On Preferring God’s Non-Existence” *Canadian Journal of Philosophy*, 43(2): 157–78.
+* Lachelier, Jules, 1901. *The Philosophy of Jules Lachelier*, The Hague: Martinus Nijhoff.
+* Lougheed, Kirk and Simpson, Robert Mark, 2017. “Indirect Epistemic Reasons and Religious Belief,” *Religious Studies* 53(2): 151–169.
+* Malcolm, Finlay and Scott, Michael, 2017. “Faith, Belief and Fictionalism,” *Pacific Philosophical Quarterly*, 98(S1): 257–74.
+* Mavrodes, George, 1986. “Religion and the Queerness of Morality,” in *Rationality, Religious Belief, and Moral Commitment: New Essays in the Philosophy of Religion*, R. Audi & W. Wainwright (eds.), Ithaca: Cornell University Press, pp. 213–26.
+* Mawson, T.J. 2019. *Monotheism and the Meaning of Life.* Cambridge: Cambridge University Press.
+* Metz, Thaddeus, 2019. *God,* *Soul and the Meaning of Life*. Cambridge: Cambridge University Press.
+* Mill, J.S., 1874. “Theism” in *Three Essays on Religion*, New York: Henry Holt & Co.
+* Moser, Paul, 1985. *Empirical Justification*, Boston: D. Reidel.
+* Newman, John Henry, 1870. *An Essay in Aid of a Grammar of Assent*, New York: The Catholic Publication Society.
+* Pettigrew, Richard, 2016. “Jamesian Epistemology Formalized: an explication of the Will to Believe,” *Episteme*, 13(3): 253–68.
+* Rinard, Susanna, 2017. “No Exception for Belief,” *Philosophy and Phenomenological Research* 94(1): 121–143.
+* Somerville, James, 1995. *The Enigmatic Parting Shot*, Aldershot, England. Ashgate Publishing.
+* Stark, R., and Fink, R., 2000. *Acts of Faith: Explaining the Human Side of Religion*, Berkeley, CA: University of California Press.
+* Stove, David, 2003. *On Enlightenment*, R. Kimball (ed.), New Brunswick, NJ: Transaction Publishers.
+* Wainwright, William, 1995. *Reason and the Heart*, Ithaca, NY: Cornell University Press.
+* Williams, Bernard, 1973a. “Deciding to Believe,” in *Problems of the Self*, Cambridge: Cambridge University Press, pp. 136–151.
+* –––, 1973b. “The Makropulos Case: Reflections on the Tedium of Immortality” in *Problems of the Self*, Cambridge: Cambridge University Press, pp. 82–100.
+* Williams, Clifford, 2011. *Existential Reasons for Belief in God: a defense of desires and emotions for faith*, Downers Grove, IL: Inter-Varsity Press.
+* Wood, Allen, 2002. “W.K. Clifford and the Ethics of Belief,” in A. Wood, *Unsettling Obligations: Essays on Reason, Reality and the Ethics of Belief*, Stanford, CA: CSLI Publications.
+* Zagzebski, Linda, 1987. “Does Ethics Need God?” *Faith and Philosophy*, 4(3): 294–303.
 
 ## Academic Tools
 
@@ -437,4 +435,4 @@ Kahane的论证大部分是通过比较存在上帝的可能世界（“有上�
 [God, arguments for the existence of: moral arguments](https://plato.stanford.edu/entries/moral-arguments-god/) | [James, William](https://plato.stanford.edu/entries/james/) | [life: meaning of](https://plato.stanford.edu/entries/life-meaning/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Pascal’s wager](https://plato.stanford.edu/entries/pascal-wager/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Jeff Jordan <[_jjjordan@udel.edu_](mailto:jjjordan%40udel%2eedu)>
+Jeff Jordan <[*jjjordan@udel.edu*](mailto:jjjordan%40udel%2eedu)>

@@ -1,6 +1,6 @@
 # 外在主义与自我认识 and self-knowledge (T. Parent)
 
-_首次发表于2013年5月9日星期四；实质性修订于2017年6月27日星期二_
+*首次发表于2013年5月9日星期四；实质性修订于2017年6月27日星期二*
 
 外在主义在心灵哲学中认为，思想的意义或内容部分取决于环境。这种观点引起了人们的关注，因为它否定了与笛卡尔有关的传统假设，即思想内容独立于外部世界而固定不变。显然，在这种假设下，笛卡尔还相信他可以在暂停对环境的所有判断的同时，了解自己思想的内容。（事实上，这种知识被认为是不容置疑的。）然而，如果外在主义是正确的，这可能是一个错误。正如我们将看到的，外在主义可以暗示笛卡尔无法知道自己的思想代表着例如榆树（而不是山毛榉树），而不知道这个思想与世界上的榆树（而不是山毛榉树）有关。但是，如果这种世俗知识是先决条件，那么笛卡尔就无法仅仅“坐在扶手椅上”就知道这个思想的内容。因此，外在主义与自我认识的扶手椅知识之间似乎存在冲突。关于这个冲突是否真实，这是推动当代关于外在主义和自我认识的辩论的问题。
 
@@ -13,7 +13,6 @@ _首次发表于2013年5月9日星期四；实质性修订于2017年6月27日星
 问题在于外在主义似乎暗示了了解内容需要了解环境。而且由于后者是经验性的，前者也将是经验性的，与自我认识相矛盾。现在人们通常认为，如果外在主义与自我认识不兼容，这将是外在主义的一个严重问题（尽管有些人认为内在主义也与自我认识相冲突；参见 McLaughlin＆Tye 1998a，Farkas 2003，Bar-On 2006，第 434 页）。然而，有些人认为这种不兼容性威胁到了自我认识而不是外在主义（见第 2.4 节）。无论如何，这场辩论的兴趣超出了外在主义，因为它涉及到哲学家的许多核心关切，如知识的本质和心灵与世界之间的关系。这场辩论还涉及到更专业的主题，包括记忆、概念习得、认识责任和超验论证。
 
 在标准术语中，争论是在外在主义与自我认识之间存在冲突的不相容论者和相容论者之间。不相容论者主要通过两种方式来强调冲突。第一种方式，在第 2 节中讨论，是通过归谬法：不相容论者认为外在主义加上自我认识会导致一个荒谬的结论，即一个人可以仅仅通过舒适的扶手椅知道关于外部世界的偶然事实。第二种方式，在第 3 节中讨论，涉及到一个关于“缓慢切换”两个环境的思想实验。不相容论者认为这样的思想实验表明外在主义排除了自我认识。在第 4 节中，我们将结束对外在主义自我认识的一些较少知名的问题。
-
 
 ***
 
@@ -355,273 +354,273 @@ W.最后的担忧是他将自我认识的心理现象与仅仅是语言或“语
 
 ### Works Cited
 
-* Anderson, C. Anthony & J. Owens (eds.), 1990, _Propositional Attitudes: The Role of Content in Logic, Language, and Mind_, Stanford: CSLI Publications.
-* Armstrong, D., 1968, _A Materialist Theory of the Mind_, London: Routledge.
-* Bach, K., 1988, “Burge’s New Thought Experiment: Back to the Drawing Room,” _Journal of Philosophy_, 85(2): 88–97.
-* –––, 1997, “Do Belief Reports Report Beliefs?,” _Pacific Philosophical Quarterly_, 78: 215–241.
-* Baker, L., 2007, “Social Externalism and First-Person Authority,” _Erkenntnis_, 67(2): 287–300.
-* Ball, D., 2007, “Twin Earth Externalism and Concept Possession,” _Australasian Journal of Philosophy_, 85(3): 457–472.
-* Bar-On, D., 2004, _Speaking My Mind: Expression and Self-Knowledge_, Oxford: Oxford University Press.
-* –––, 2006, “Externalism and Self-Knowledge: Content, Use, and Expression,” _Noûs_, 38(3): 430–455.
+* Anderson, C. Anthony & J. Owens (eds.), 1990, *Propositional Attitudes: The Role of Content in Logic, Language, and Mind*, Stanford: CSLI Publications.
+* Armstrong, D., 1968, *A Materialist Theory of the Mind*, London: Routledge.
+* Bach, K., 1988, “Burge’s New Thought Experiment: Back to the Drawing Room,” *Journal of Philosophy*, 85(2): 88–97.
+* –––, 1997, “Do Belief Reports Report Beliefs?,” *Pacific Philosophical Quarterly*, 78: 215–241.
+* Baker, L., 2007, “Social Externalism and First-Person Authority,” *Erkenntnis*, 67(2): 287–300.
+* Ball, D., 2007, “Twin Earth Externalism and Concept Possession,” *Australasian Journal of Philosophy*, 85(3): 457–472.
+* Bar-On, D., 2004, *Speaking My Mind: Expression and Self-Knowledge*, Oxford: Oxford University Press.
+* –––, 2006, “Externalism and Self-Knowledge: Content, Use, and Expression,” *Noûs*, 38(3): 430–455.
 * –––, 2011, “Neo-Expressivism: Avowal’s Security and Privileged Access,” in Hatzimoysis (ed.) 2011, pp. 189-201.
 * –––, 2012a, “Externalism and Skepticism: Recognition, Expression, and Self-Knowledge,” in A. Coliva (ed.) 2012a, pp. 189–211.
 * –––, 2012b, “Expression, Truth, and Reality: Some Variations on a Theme from Wright,” in A. Coliva (ed.) 2012b, pp. 162–194.
-* –––, 2013, “Externalism and Skepticism: Recognition, Expression, and Self-Knowledge,” _Journal of Philosophy_, 110: 293–330.
-* Bar-On, D. & D. Long, 2001, “Avowals and First-Person Privilege,” _Philosophy and Phenomenological Research_, 62(2): 311–335.
-* Beebee, H., 2001, “Transfer of Warrant, Begging the Question, and Semantic Externalism,” _Philosophical Quarterly_, 51(204): 356–374.
-* Bernecker, S., 1996, “Externalism and the Attitudinal Component of Self-Knowledge,” _Noûs_, 30(2): 262–275.
+* –––, 2013, “Externalism and Skepticism: Recognition, Expression, and Self-Knowledge,” *Journal of Philosophy*, 110: 293–330.
+* Bar-On, D. & D. Long, 2001, “Avowals and First-Person Privilege,” *Philosophy and Phenomenological Research*, 62(2): 311–335.
+* Beebee, H., 2001, “Transfer of Warrant, Begging the Question, and Semantic Externalism,” *Philosophical Quarterly*, 51(204): 356–374.
+* Bernecker, S., 1996, “Externalism and the Attitudinal Component of Self-Knowledge,” *Noûs*, 30(2): 262–275.
 * –––, 1998, “Self-Knowledge and Closure,” in P. Ludlow & N. Martin (eds.) 1998, pp. 333–350.
-* –––, 2000, “Knowing the World by Knowing One’s Mind,” _Synthese_, 123(1): 1–34.
-* –––, 2004a, “Memory and Externalism,” _Philosophical and Phenomenological Research_, 69(3): 605–632.
+* –––, 2000, “Knowing the World by Knowing One’s Mind,” *Synthese*, 123(1): 1–34.
+* –––, 2004a, “Memory and Externalism,” *Philosophical and Phenomenological Research*, 69(3): 605–632.
 * –––, 2004b, “Believing that You Know and Knowing that You Believe,” in R. Schantz (ed.) 2004, pp. 369–376.
-* –––, 2010, _Memory: A Philosophical Study_, New York: Oxford University Press.
-* Besson, C., 2012, “Externalism and Empty Natural Kind Terms,” _Erkenntnis_, 70: 403–425.
-* Bilgrami, A., 1992, “Can Externalism be Reconciled with Self-Knowledge?,” _Philosophical Topics_, 20: 233–267.
-* –––, 2003, “A Trilemma for Redeployment,” _Philosophical Issues_, 13: 22–30.
-* –––, 2006, _Self-Knowledge and Resentment_, Cambridge, MA: Harvard University Press.
-* Block, N., 1986, “Advertisement for a Semantics for Psychology,” _Midwest Studies in Philosophy_ (Volume 10), P. French (ed.), Minneapolis, University of Minnesota Press, pp. 615–678.
-* Boër, S. & W. Lycan, 1986, _Knowing Who_, Cambridge, MA: MIT Press.
-* Boghossian, P., 1989, “Content and Self-Knowledge,” _Philosophical Topics_, 17: 5–26.
+* –––, 2010, *Memory: A Philosophical Study*, New York: Oxford University Press.
+* Besson, C., 2012, “Externalism and Empty Natural Kind Terms,” *Erkenntnis*, 70: 403–425.
+* Bilgrami, A., 1992, “Can Externalism be Reconciled with Self-Knowledge?,” *Philosophical Topics*, 20: 233–267.
+* –––, 2003, “A Trilemma for Redeployment,” *Philosophical Issues*, 13: 22–30.
+* –––, 2006, *Self-Knowledge and Resentment*, Cambridge, MA: Harvard University Press.
+* Block, N., 1986, “Advertisement for a Semantics for Psychology,” *Midwest Studies in Philosophy* (Volume 10), P. French (ed.), Minneapolis, University of Minnesota Press, pp. 615–678.
+* Boër, S. & W. Lycan, 1986, *Knowing Who*, Cambridge, MA: MIT Press.
+* Boghossian, P., 1989, “Content and Self-Knowledge,” *Philosophical Topics*, 17: 5–26.
 * –––, 1992a, “Externalism and Inference,” in E. Villanueva (ed.) 1992, pp. 11–28.
 * –––, 1992b, “Reply to Schiffer,” in E. Villanueva (ed.) 1992, pp. 39–42.
-* –––, 1994, “The Transparency of Mental Content,” _Philosophical Perspectives_, 8: 33–50.
-* –––, 1997, “What the Externalist Can Know A Priori,” _Proceedings of the Aristotelian Society_, 97: 161–175.
+* –––, 1994, “The Transparency of Mental Content,” *Philosophical Perspectives*, 8: 33–50.
+* –––, 1997, “What the Externalist Can Know A Priori,” *Proceedings of the Aristotelian Society*, 97: 161–175.
 * –––, 1998, “Reply to Commentators,” in E. Villanueva (ed.) 1998, pp. 253–260.
-* –––, 2010, “The Transparency of Mental Content Revisited,” _Philosophical Studies_, 155(3): 457–465.
-* Boghossian, P. & C. Peacocke (eds.), 2000, _New Essays on the A Priori_, Oxford: Oxford University Press.
-* Bonjour, L., 1991, “Is Thought a Symbolic Process?,” _Synthese_, 89: 331–352.
-* Braun, D., 2006, “Now You Know Who Hong Oak Yung Is,” _Philosophical Issues_, 16: 24–42.
-* Brewer, B., 1999, _Perception and Reason_, New York: Oxford University Press.
+* –––, 2010, “The Transparency of Mental Content Revisited,” *Philosophical Studies*, 155(3): 457–465.
+* Boghossian, P. & C. Peacocke (eds.), 2000, *New Essays on the A Priori*, Oxford: Oxford University Press.
+* Bonjour, L., 1991, “Is Thought a Symbolic Process?,” *Synthese*, 89: 331–352.
+* Braun, D., 2006, “Now You Know Who Hong Oak Yung Is,” *Philosophical Issues*, 16: 24–42.
+* Brewer, B., 1999, *Perception and Reason*, New York: Oxford University Press.
 * –––, 2000a, “Externalism and A Priori Knowledge of Empirical Facts,” in P. Boghossian & C. Peacocke (eds.) 2000, pp. 415–434.
-* –––, 2000b, “Self-Knowledge and Externalism,” in _Proceedings of the Twentieth World Congress of Philosophy_, 5: 39–47.
-* Brown, J., 1995, “The Incompatibility of Anti-Individualism and Privileged Access,” _Analysis_, 55(3): 149–156.
-* –––, 1999, “Boghossian on Externalism and Privileged Access,” _Analysis_, 59(1): 52–59.
-* –––, 2001, “Anti-Individualism and Agnosticism,” _Analysis_, 61(3): 213–224.
-* –––, 2004, _Anti-Individualism and Knowledge_, Cambridge, MA: MIT Press.
+* –––, 2000b, “Self-Knowledge and Externalism,” in *Proceedings of the Twentieth World Congress of Philosophy*, 5: 39–47.
+* Brown, J., 1995, “The Incompatibility of Anti-Individualism and Privileged Access,” *Analysis*, 55(3): 149–156.
+* –––, 1999, “Boghossian on Externalism and Privileged Access,” *Analysis*, 59(1): 52–59.
+* –––, 2001, “Anti-Individualism and Agnosticism,” *Analysis*, 61(3): 213–224.
+* –––, 2004, *Anti-Individualism and Knowledge*, Cambridge, MA: MIT Press.
 * –––, 2007, “Externalism in Mind and Epistemology,” in S. Goldberg (ed.) 2007, pp. 13–34.
-* Brueckner, A., 1990, “Scepticism about Knowledge of Content,” _Mind_, 99: 447–452.
-* –––, 1992, “What an Anti-Individualist Knows A Priori,” _Analysis_, 52: 111–118.
-* –––, 1994, “Knowledge of Content and Knowledge of the World,” _The Philosophical Review_, 103: 327–343.
-* –––, 1995, “The Characteristic Thesis of Anti-Individualism,” _Analysis_, 55(3): 146–148.
-* –––, 1997a, “Externalism and Memory,” _Pacific Philosophical Quarterly_, 78(1): 1–12.
-* –––, 1997b, “Is Scepticism about Self-Knowledge Coherent?,” _Analysis_, 57: 287–290.
-* –––, 1999, “Difficulties in Generating Skepticism about Knowledge of Content,” _Analysis_, 59(1): 59–62.
-* –––, 2000, “Ambiguity and Knowledge of Content,” _Analysis_, 60(3): 257–260.
-* –––, 2002, “The Consistency of Content-Externalism and Justification-Internalism,” _Australasian Journal of Philosophy_, 80(4): 512–515.
-* –––, 2003, “The Coherence of Skepticism about Self-Knowledge,” _Analysis_, 63(1): 41–48.
+* Brueckner, A., 1990, “Scepticism about Knowledge of Content,” *Mind*, 99: 447–452.
+* –––, 1992, “What an Anti-Individualist Knows A Priori,” *Analysis*, 52: 111–118.
+* –––, 1994, “Knowledge of Content and Knowledge of the World,” *The Philosophical Review*, 103: 327–343.
+* –––, 1995, “The Characteristic Thesis of Anti-Individualism,” *Analysis*, 55(3): 146–148.
+* –––, 1997a, “Externalism and Memory,” *Pacific Philosophical Quarterly*, 78(1): 1–12.
+* –––, 1997b, “Is Scepticism about Self-Knowledge Coherent?,” *Analysis*, 57: 287–290.
+* –––, 1999, “Difficulties in Generating Skepticism about Knowledge of Content,” *Analysis*, 59(1): 59–62.
+* –––, 2000, “Ambiguity and Knowledge of Content,” *Analysis*, 60(3): 257–260.
+* –––, 2002, “The Consistency of Content-Externalism and Justification-Internalism,” *Australasian Journal of Philosophy*, 80(4): 512–515.
+* –––, 2003, “The Coherence of Skepticism about Self-Knowledge,” *Analysis*, 63(1): 41–48.
 * –––, 2004a, “McKinsey Redux,” in R. Schantz (ed.) 2004, pp. 377–387.
-* –––, 2007, “Scepticism about Self-Knowledge Redux,” _Analysis_, 67(4): 311-315.
-* –––, 2010, “The Resiliency of the McKinsey Problem,” in _Essays on Skepticism_, New York: Oxford University Press, pp. 259–265.
-* Brueckner, A., & G. Ebbs, 2012, _Debating Self-Knowledge_, Cambridge: Cambridge University Press.
-* Burge, T., 1979, “Individualism and the Mental,” _Midwest Studies in Philosophy_, 4: 73–121.
-* –––, 1982, “Other Bodies,”in _Thought and Object_, A. Woodfield (ed.), New York: Oxford University Press, pp. 97–120.
-* –––, 1986, “Intellectual Norms and the Foundations of Mind,” _Journal of Philosophy_, 84: 697–720.
-* –––, 1988, “Individualism and Self-Knowledge,” _Journal of Philosophy_, 85(1): 649–663.
-* –––, 1993, “Content Preservation,” _The Philosophical Review_, 102: 457–488.
-* –––, 1996, “Our Entitlement to Self-Knowledge,” _Proceedings of the Aristotelian Society_, 96: 91–116.
+* –––, 2007, “Scepticism about Self-Knowledge Redux,” *Analysis*, 67(4): 311-315.
+* –––, 2010, “The Resiliency of the McKinsey Problem,” in *Essays on Skepticism*, New York: Oxford University Press, pp. 259–265.
+* Brueckner, A., & G. Ebbs, 2012, *Debating Self-Knowledge*, Cambridge: Cambridge University Press.
+* Burge, T., 1979, “Individualism and the Mental,” *Midwest Studies in Philosophy*, 4: 73–121.
+* –––, 1982, “Other Bodies,”in *Thought and Object*, A. Woodfield (ed.), New York: Oxford University Press, pp. 97–120.
+* –––, 1986, “Intellectual Norms and the Foundations of Mind,” *Journal of Philosophy*, 84: 697–720.
+* –––, 1988, “Individualism and Self-Knowledge,” *Journal of Philosophy*, 85(1): 649–663.
+* –––, 1993, “Content Preservation,” *The Philosophical Review*, 102: 457–488.
+* –––, 1996, “Our Entitlement to Self-Knowledge,” *Proceedings of the Aristotelian Society*, 96: 91–116.
 * –––, 1998, “Memory and Self-Knowledge,” in P. Ludlow & N. Martin (eds.) 1998, pp. 351–370.
 * –––, 2003, “Replies to Commentators,” in M. Frapolli & E. Romero (eds.) 2003, pp. 243–296.
-* Butler, K., 1997, “Externalism, Internalism, and Knowledge of Content,” _Philosophy and Phenomenological Research_, 57(4): 773–800.
-* Carruthers, P., 2011, _The Opacity of Mind_, Oxford: Oxford University Press.
-* Cassam, Q., 1994, “Introduction,” in _Self-Knowledge_, Q. Cassam (ed.), Oxford: Oxford University Press, pp. 1–18.
-* Chalmers, D., 1996, _The Conscious Mind_, New York: Oxford University Press.
-* –––, 2004, “The Foundations of Two-Dimensional Semantics,” in _Two-Dimensional Semantics: Foundations and Applications_, M. Garcia-Carpintero & J. Macia (eds.), New York: Oxford University Press, pp. 55–140.
-* Chase, J., 2001, “Is Externalism about Content Consistent with Internalism about Justification?,” _Australian Journal of Philosophy_, 79(2): 227–246.
-* Chomsky, N., 1995, “Language and Nature,” _Mind_, 104(413): 1–61.
-* –––, 2000, _New Horizons in the Study of Language and Mind_, Cambridge: Cambridge University Press.
-* Clark, A. & D. Chalmers, 1998, “The Extended Mind,” _Analysis_, 58: 7–19.
-* Coliva, A., 2009, “Self-Knowledge and Commitments,” _Synthese_, 171(3): 365–375.
-* ––– (ed.), 2012a, _The Self and Self-Knowledge_, New York: Oxford University Press.
-* ––– (ed.), 2012b, _Mind, Meaning, and Knowledge: Themes on the Philosophy of Crispin Wright_, New York: Oxford University Press.
+* Butler, K., 1997, “Externalism, Internalism, and Knowledge of Content,” *Philosophy and Phenomenological Research*, 57(4): 773–800.
+* Carruthers, P., 2011, *The Opacity of Mind*, Oxford: Oxford University Press.
+* Cassam, Q., 1994, “Introduction,” in *Self-Knowledge*, Q. Cassam (ed.), Oxford: Oxford University Press, pp. 1–18.
+* Chalmers, D., 1996, *The Conscious Mind*, New York: Oxford University Press.
+* –––, 2004, “The Foundations of Two-Dimensional Semantics,” in *Two-Dimensional Semantics: Foundations and Applications*, M. Garcia-Carpintero & J. Macia (eds.), New York: Oxford University Press, pp. 55–140.
+* Chase, J., 2001, “Is Externalism about Content Consistent with Internalism about Justification?,” *Australian Journal of Philosophy*, 79(2): 227–246.
+* Chomsky, N., 1995, “Language and Nature,” *Mind*, 104(413): 1–61.
+* –––, 2000, *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press.
+* Clark, A. & D. Chalmers, 1998, “The Extended Mind,” *Analysis*, 58: 7–19.
+* Coliva, A., 2009, “Self-Knowledge and Commitments,” *Synthese*, 171(3): 365–375.
+* ––– (ed.), 2012a, *The Self and Self-Knowledge*, New York: Oxford University Press.
+* ––– (ed.), 2012b, *Mind, Meaning, and Knowledge: Themes on the Philosophy of Crispin Wright*, New York: Oxford University Press.
 * Corbí, J., 1998, “A Challenge to Boghossian’s Incompatibilist Argument,” in E. Villanueva (ed.) 1998, pp. 231–242.
-* Crane, T., 1991, “All the Difference in the World,” _Philosophical Quarterly_, 41(162): 1–25.
-* Davidson, D., 1973, “Radical Interpretation,” _Dialectica_, 27: 314–328.
-* –––, 1987, “Knowing One’s Own Mind,” _Proceedings and Addresses of the American Philosophical Association_, 60: 441–458.
-* –––, 1988, “Reply to Burge,” _The Journal of Philosophy_, 85(1): 664–665.
+* Crane, T., 1991, “All the Difference in the World,” *Philosophical Quarterly*, 41(162): 1–25.
+* Davidson, D., 1973, “Radical Interpretation,” *Dialectica*, 27: 314–328.
+* –––, 1987, “Knowing One’s Own Mind,” *Proceedings and Addresses of the American Philosophical Association*, 60: 441–458.
+* –––, 1988, “Reply to Burge,” *The Journal of Philosophy*, 85(1): 664–665.
 * Davies, M., 1998, “Externalism, Architecturalism, and Epistemic Warrant,” in C. Wright, et al. (eds.) 1998, pp. 321–362.
-* –––, 2000, “Externalism and Armchair Knowledge,” in _New Essays on the A Priori_, P. Boghossian & C. Peacocke (eds.) 2000, pp. 384–414.
+* –––, 2000, “Externalism and Armchair Knowledge,” in *New Essays on the A Priori*, P. Boghossian & C. Peacocke (eds.) 2000, pp. 384–414.
 * –––, 2003a, “The Problem of Armchair Knowledge,” in S. Nuccetelli (ed.) 1999, pp. 1–56.
 * –––, 2003b, “Externalism, Self-Knowledge, and Transmission” in M. Frapolli & E. Romero (eds.) 2003, pp. 105–130.
-* Dennett, D., 1975, “True Believers: The Intentional Strategy and Why It Works,” in _Scientific Explanation: Papers Based on Herbert Spencer Lectures Given in the University of Oxford_, A. F. Heath (ed.), Oxford: Clarendon Press, pp. 53–75.
-* DeRose, K., 2009, _The Case for Contextualism I_, Oxford: Clarendon Press.
-* Dretske, F., 1970, “Epistemic Operators,” _Journal of Philosophy_, 67: 1007–1023.
-* –––, 1981, _Knowledge and the Flow of Information_, Cambridge, MA: MIT Press.
-* –––, 1995, _Naturalizing the Mind_, Cambridge, MA: MIT Press.
+* Dennett, D., 1975, “True Believers: The Intentional Strategy and Why It Works,” in *Scientific Explanation: Papers Based on Herbert Spencer Lectures Given in the University of Oxford*, A. F. Heath (ed.), Oxford: Clarendon Press, pp. 53–75.
+* DeRose, K., 2009, *The Case for Contextualism I*, Oxford: Clarendon Press.
+* Dretske, F., 1970, “Epistemic Operators,” *Journal of Philosophy*, 67: 1007–1023.
+* –––, 1981, *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
+* –––, 1995, *Naturalizing the Mind*, Cambridge, MA: MIT Press.
 * –––, 2003a, “Externalism and Self-Knowledge,” in S. Nuccetelli (ed.) 2003, pp. 131-142.
 * –––, 2003b, “How Do You Know You are Not a Zombie?,” in B. Gertler (ed.) 2003, pp. 1-14.
 * –––, 2004, “Knowing What You Think vs. Knowing That You Think It,” in R. Schantz (ed.) 2004, pp. 389–400.
-* Dupré, J., 1981, “Natural Kinds and Biological Taxa,” _Philosophical Review_, 90(1): 66–90.
-* Ebbs, G., 1996, “Can We Take Our Words at Face Value?,” _Philosophy and Phenomenological Research_, 56(3): 499–530.
-* –––, 2001, “Is Skepticism about Self-Knowledge Coherent?,” _Philosophical Studies_, 105(1): 43–58.
+* Dupré, J., 1981, “Natural Kinds and Biological Taxa,” *Philosophical Review*, 90(1): 66–90.
+* Ebbs, G., 1996, “Can We Take Our Words at Face Value?,” *Philosophy and Phenomenological Research*, 56(3): 499–530.
+* –––, 2001, “Is Skepticism about Self-Knowledge Coherent?,” *Philosophical Studies*, 105(1): 43–58.
 * –––, 2003, “A Puzzle about Doubt,” in S. Nuccetelli (ed.) 2003, pp. 143–169.
-* –––, 2005, “Why Scepticism about Self-Knowledge is Self-Undermining,” _Analysis_, 65(287): 237–244.
+* –––, 2005, “Why Scepticism about Self-Knowledge is Self-Undermining,” *Analysis*, 65(287): 237–244.
 * –––, 2011, “Anti-Individualism, Self-Knowledge, and Epistemic Possibility: Further Reflections on a Puzzle about Doubt,” in A. Hatzimoysis (ed.) 2011, 53–80.
-* Ellis, J., 2007, “Content Externalism and Phenomenal Character: A New Worry about Privileged Access,” _Synthese_, 159: 47–60.
-* Evans, G., 1982, _The Varieties of Reference_, Oxford: Clarendon Press.
-* Falvey, K. & J. Owens, 1994, “Externalism, Self-Knowledge, and Skepticism,” _Philosophical Review_, 103: 107–37.
-* Farkas, K., 2003, “What is Externalism?,” _Philosophical Studies_, 112: 187–208.
-* –––, 2008, _The Subject’s Point of View_, New York: Oxford University Press.
-* Fernandez, J., 2004, “Externalism and Self-Knowledge: A Puzzle in Two Dimensions,” _European Journal of Philosophy_, 121: 17–37.
-* Fine, A., 1975, “How to Compare Theories: Reference and Change,” _Noûs_, 9: 17–32.
-* Finkelstein, D., 2003, _Expression and the Inner_, Cambridge, MA: Harvard University Press.
-* Fodor, J., 1975, _The Language of Thought_, New York: Thomas Y. Crowell.
-* –––, 1980, “Methodological Solipsism Considered as a Research Program in Psychology,” _Behavioral and Brain Sciences_, 3: 63–73.
-* –––, 1987, _Psychosemantics_, Cambridge, MA: MIT Press.
-* –––, 1990, _A Theory of Content and Other Essays_, Cambridge, MA: MIT Press.
-* Frapolli, M. & E. Romero (eds.), 2003, _Meaning, Basic Self-Knowledge, and Mind: Essays on Tyler Burge_, Stanford: CSLI Publications.
-* Gallois, A., 2008, _The World Without, the Mind Within: An Essay on First-Person Authority_, Cambridge: Cambridge University Press.
-* Gallois, A. & J. O’Leary-Hawthorne, 1996, “Externalism and Scepticism,” _Philosophical Studies_, 81: 1–26.
-* Georgalis, N., 1994, “Asymmetry of Access to Intentional States,” _Erkenntnis_, 40(2): 185–211.
-* –––, 1999, “Rethinking Burge’s Thought Experiment,” _Synthese_, 118(2): 145–164.
-* Gerken, M., 2008, “Is Internalism about Knowledge Consistent with Content Externalism?,” _Philosophia_, 36: 87–96.
-* Gertler, B. (ed.), 2003, _Privileged Access: Philosophical Accounts of Self-Knowledge_, Aldershot, UK: Ashgate Publishing.
-* –––, 2004, “We Can’t Know A Priori that H2O Exists, but Can We Know that Water Does?,” _Analysis_, 64(1): 44–47.
+* Ellis, J., 2007, “Content Externalism and Phenomenal Character: A New Worry about Privileged Access,” *Synthese*, 159: 47–60.
+* Evans, G., 1982, *The Varieties of Reference*, Oxford: Clarendon Press.
+* Falvey, K. & J. Owens, 1994, “Externalism, Self-Knowledge, and Skepticism,” *Philosophical Review*, 103: 107–37.
+* Farkas, K., 2003, “What is Externalism?,” *Philosophical Studies*, 112: 187–208.
+* –––, 2008, *The Subject’s Point of View*, New York: Oxford University Press.
+* Fernandez, J., 2004, “Externalism and Self-Knowledge: A Puzzle in Two Dimensions,” *European Journal of Philosophy*, 121: 17–37.
+* Fine, A., 1975, “How to Compare Theories: Reference and Change,” *Noûs*, 9: 17–32.
+* Finkelstein, D., 2003, *Expression and the Inner*, Cambridge, MA: Harvard University Press.
+* Fodor, J., 1975, *The Language of Thought*, New York: Thomas Y. Crowell.
+* –––, 1980, “Methodological Solipsism Considered as a Research Program in Psychology,” *Behavioral and Brain Sciences*, 3: 63–73.
+* –––, 1987, *Psychosemantics*, Cambridge, MA: MIT Press.
+* –––, 1990, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press.
+* Frapolli, M. & E. Romero (eds.), 2003, *Meaning, Basic Self-Knowledge, and Mind: Essays on Tyler Burge*, Stanford: CSLI Publications.
+* Gallois, A., 2008, *The World Without, the Mind Within: An Essay on First-Person Authority*, Cambridge: Cambridge University Press.
+* Gallois, A. & J. O’Leary-Hawthorne, 1996, “Externalism and Scepticism,” *Philosophical Studies*, 81: 1–26.
+* Georgalis, N., 1994, “Asymmetry of Access to Intentional States,” *Erkenntnis*, 40(2): 185–211.
+* –––, 1999, “Rethinking Burge’s Thought Experiment,” *Synthese*, 118(2): 145–164.
+* Gerken, M., 2008, “Is Internalism about Knowledge Consistent with Content Externalism?,” *Philosophia*, 36: 87–96.
+* Gertler, B. (ed.), 2003, *Privileged Access: Philosophical Accounts of Self-Knowledge*, Aldershot, UK: Ashgate Publishing.
+* –––, 2004, “We Can’t Know A Priori that H2O Exists, but Can We Know that Water Does?,” *Analysis*, 64(1): 44–47.
 * –––, 2015, “Internalism, Externalism, and Accessibilism, ” in S. Goldberg (ed.) 2015a, pp. 119–141.
-* Gibbons, J., 1996, “Externalism and Knowledge of Content,” _Philosophical Review_, 105: 287–310.
-* –––, 2001, “Externalism and Knowledge of the Attitudes,” _Philosophical Quarterly_, 51(202): 13–28.
-* Goldberg, S., 1997, “Self-Ascription, Self-Knowledge, and the Memory Argument,” _Analysis_, 57: 211–219.
-* –––, 1999a, “Word-Ambiguity, World-Switching, and Knowledge of Content: Reply to Brueckner,” _Analysis_, 59(3): 212–217.
-* –––, 1999b, “The Relevance of Discriminatory Knowledge of Content,” _Pacific Philosophical Quarterly_, 80: 136–156.
-* –––, 2000a, “Word-Ambiguity, World-Switching, and Semantic Intentions,” _Analysis_, 60(3): 260–264.
-* –––, 2000b, “Externalism and Self-Knowledge of Content: A New Incompatibilist Strategy,” _Philosophical Studies_, 100(1): 51–78.
-* –––, 2005a, “The Dialectical Context of the Memory Argument,” _Canadian Journal of Philosophy_, 35(1): 135–148.
-* –––, 2005b, “(Nonstandard) Lessons from World-Switching Cases,” _Philosophia_, 32(1): 95–131.
-* –––, 2006a, “Brown on Knowledge and Discriminability,” _Pacific Philosophical Quarterly_, 87: 301–314.
-* –––, 2006b, “An Anti-Individualistic Semantics for ‘Empty’ Natural Kind Terms,” _Grazer Philosophische Studien_, 70(1): 147–168.
-* –––, 2007a, “Anti-Individualism, Content Preservation, and Discursive Justification,” _Noûs_, 41(2): 178–203.
+* Gibbons, J., 1996, “Externalism and Knowledge of Content,” *Philosophical Review*, 105: 287–310.
+* –––, 2001, “Externalism and Knowledge of the Attitudes,” *Philosophical Quarterly*, 51(202): 13–28.
+* Goldberg, S., 1997, “Self-Ascription, Self-Knowledge, and the Memory Argument,” *Analysis*, 57: 211–219.
+* –––, 1999a, “Word-Ambiguity, World-Switching, and Knowledge of Content: Reply to Brueckner,” *Analysis*, 59(3): 212–217.
+* –––, 1999b, “The Relevance of Discriminatory Knowledge of Content,” *Pacific Philosophical Quarterly*, 80: 136–156.
+* –––, 2000a, “Word-Ambiguity, World-Switching, and Semantic Intentions,” *Analysis*, 60(3): 260–264.
+* –––, 2000b, “Externalism and Self-Knowledge of Content: A New Incompatibilist Strategy,” *Philosophical Studies*, 100(1): 51–78.
+* –––, 2005a, “The Dialectical Context of the Memory Argument,” *Canadian Journal of Philosophy*, 35(1): 135–148.
+* –––, 2005b, “(Nonstandard) Lessons from World-Switching Cases,” *Philosophia*, 32(1): 95–131.
+* –––, 2006a, “Brown on Knowledge and Discriminability,” *Pacific Philosophical Quarterly*, 87: 301–314.
+* –––, 2006b, “An Anti-Individualistic Semantics for ‘Empty’ Natural Kind Terms,” *Grazer Philosophische Studien*, 70(1): 147–168.
+* –––, 2007a, “Anti-Individualism, Content Preservation, and Discursive Justification,” *Noûs*, 41(2): 178–203.
 * –––, 2007b, “Semantic Externalism and Epistemic Illusions,” in S. Goldberg (ed.) 2007, pp. 235–252.
-* ––– (ed.), 2007, _Internalism and Externalism in Semantics and Epistemology_, Oxford: Oxford University Press.
-* ––– (ed.), 2015a, _Externalism, Self-Knowledge, and Skepticism_, Cambridge: Cambridge University Press.
+* ––– (ed.), 2007, *Internalism and Externalism in Semantics and Epistemology*, Oxford: Oxford University Press.
+* ––– (ed.), 2015a, *Externalism, Self-Knowledge, and Skepticism*, Cambridge: Cambridge University Press.
 * ––– (ed.), 2015b, “Introduction,” in S. Goldberg (ed.) 2015a, pp. 1–15.
-* Goldman, A., 1976, “Discrimination and Perceptual Knowledge,” _Journal of Philosophy_, 73: 771–791.
-* –––, 1986, _Epistemology and Cognition_, Cambridge, MA: Harvard University Press.
-* Gopnik, A., 1983, “How We Can Know Our Minds: The Illusion of First Person Knowledge of Intentionality,” _Brain and Behavioral Science_, 16: 1–14.
+* Goldman, A., 1976, “Discrimination and Perceptual Knowledge,” *Journal of Philosophy*, 73: 771–791.
+* –––, 1986, *Epistemology and Cognition*, Cambridge, MA: Harvard University Press.
+* Gopnik, A., 1983, “How We Can Know Our Minds: The Illusion of First Person Knowledge of Intentionality,” *Brain and Behavioral Science*, 16: 1–14.
 * Hale, B., 2000, “Transmission and Closure,” in E. Sosa & E. Villanueva (eds.) 2000, pp. 172–190.
-* Hatzimoysis, A. (ed.), 2011, _Self-Knowledge_, Oxford: Oxford University Press.
-* Haukioja, J., 2006, “Semantic Externalism and A Priori Self-Knowledge,” _Ratio_, 19: 176-190.
+* Hatzimoysis, A. (ed.), 2011, *Self-Knowledge*, Oxford: Oxford University Press.
+* Haukioja, J., 2006, “Semantic Externalism and A Priori Self-Knowledge,” *Ratio*, 19: 176-190.
 * Hawthorne, J., 2007, “A Priority and Externalism,” in S. Goldberg (ed.) 2007, pp. 201–218.
-* Heal, J., 1998, “Externalism and Memory,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 72: 95–109.
-* –––, 2002, “On First Person Authority,” _Proceedings of the Aristotelian Society_, 102: 1–19.
-* Heil, J., 1988, “Privileged Access,” _Mind_, 97(386): 238–251.
-* –––, 1992, _The Nature of True Minds_, Cambridge: Cambridge University Press.
-* Hohwy, J., 2002, “Privileged Self-Knowledge and Externalism: A Contextualist Approach,” _Pacific Philosophical Quarterly_, 83: 235–252.
-* Horgan, T., and J. Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality,” in _Philosophy of Mind: Classical and Contemporary Readings_, D. Chalmers (ed.), New York: Oxford University Press, pp. 520–532.
+* Heal, J., 1998, “Externalism and Memory,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 72: 95–109.
+* –––, 2002, “On First Person Authority,” *Proceedings of the Aristotelian Society*, 102: 1–19.
+* Heil, J., 1988, “Privileged Access,” *Mind*, 97(386): 238–251.
+* –––, 1992, *The Nature of True Minds*, Cambridge: Cambridge University Press.
+* Hohwy, J., 2002, “Privileged Self-Knowledge and Externalism: A Contextualist Approach,” *Pacific Philosophical Quarterly*, 83: 235–252.
+* Horgan, T., and J. Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality,” in *Philosophy of Mind: Classical and Contemporary Readings*, D. Chalmers (ed.), New York: Oxford University Press, pp. 520–532.
 * Jackman, H., 2015, “Externalism, Metasemantic Contextualism, and Self-Knowledge”, in S. Goldberg (ed.) 2015a, pp. 228–247.
-* Jackson, F., 1996, _From Metaphysics to Ethics_, New York: Oxford University Press.
+* Jackson, F., 1996, *From Metaphysics to Ethics*, New York: Oxford University Press.
 * Jacob, P., 2004, “Do We Know Our Own Minds Yet?,” in R. Schantz (ed.) 2004, pp. 401–418.
-* Kallestrup, J., 2011, “Recent Work on McKinsey’s Paradox,” _Analysis Reviews_, 71(1): 157–171.
-* Korman, D., 2006, “What Externalists Should Say about Dry Earth,” _Journal of Philosophy_, 103(10): 503–520.
-* Kraay, K., 2002, “Externalism, Memory, and Self-Knowledge,” _Erkenntnis_, 56: 297-317.
-* Kriegel, U., 2010, “Interpretation: Its Scope and Limits,” in _New Waves in Metaphysics_, A. Hazlett (ed.), London: Palgrave-McMillan, pp. 111-135.
-* Kripke, S., 1972, “Naming and Necessity,” in D. Davidson & G. Harman (eds.), _Semantics of Natural Language_, Dordrecht: Reidel, pp. 253–355 & 763–769. Reprinted, S. Kripke, _Naming and Necessity_, Cambridge, MA: Harvard University Press, 1980.
-* –––, 1979, “A Puzzle about Belief,” in _Meaning and Use_, A. Margalit (ed.), Dordrecht: D. Reidel, pp. 239–83.
+* Kallestrup, J., 2011, “Recent Work on McKinsey’s Paradox,” *Analysis Reviews*, 71(1): 157–171.
+* Korman, D., 2006, “What Externalists Should Say about Dry Earth,” *Journal of Philosophy*, 103(10): 503–520.
+* Kraay, K., 2002, “Externalism, Memory, and Self-Knowledge,” *Erkenntnis*, 56: 297-317.
+* Kriegel, U., 2010, “Interpretation: Its Scope and Limits,” in *New Waves in Metaphysics*, A. Hazlett (ed.), London: Palgrave-McMillan, pp. 111-135.
+* Kripke, S., 1972, “Naming and Necessity,” in D. Davidson & G. Harman (eds.), *Semantics of Natural Language*, Dordrecht: Reidel, pp. 253–355 & 763–769. Reprinted, S. Kripke, *Naming and Necessity*, Cambridge, MA: Harvard University Press, 1980.
+* –––, 1979, “A Puzzle about Belief,” in *Meaning and Use*, A. Margalit (ed.), Dordrecht: D. Reidel, pp. 239–83.
 * Levine, J., 2003, “Knowing What Its Like,” in B. Gertler (ed.) 2003, pp. 45–54.
-* Loar, B., 1988, “Social Content and Psychological Content,” in _Contents of Thought_, R. Grimm and D. Merrill (eds.), Tucson: University of Arizona Press, pp. 99–110.
-* Ludlow, P., 1995a, “Social Externalism, Self-Knowledge, and Memory,” _Analysis_, 55(3): 157–159.
-* –––, 1995b, “Externalism, Self-Knowledge, and the Prevalence of Slow-Switching,” _Analysis_, 55: 45–49.
-* –––, 1996, “Social Externalism and Memory: A Problem?” _Acta Analytica_, 14: 69–76.
-* –––, 1997, “On the Relevance of Slow-Switching,” _Analysis_, 57: 285–286.
-* –––, 1999, “First-Person Authority and Memory,” in _Interpretations and Causes: New Perspectives on Donald Davidson’s Philosophy_, M. de Caro (ed.), Dordrecht: Kluwer, pp. 159–170.
-* –––, 2003, “Externalism, Logical Form, and Linguistic Intentions,” in _Epistemology of Language_, A. Barber (ed.), New York: Oxford University Press, pp. 399–414.
+* Loar, B., 1988, “Social Content and Psychological Content,” in *Contents of Thought*, R. Grimm and D. Merrill (eds.), Tucson: University of Arizona Press, pp. 99–110.
+* Ludlow, P., 1995a, “Social Externalism, Self-Knowledge, and Memory,” *Analysis*, 55(3): 157–159.
+* –––, 1995b, “Externalism, Self-Knowledge, and the Prevalence of Slow-Switching,” *Analysis*, 55: 45–49.
+* –––, 1996, “Social Externalism and Memory: A Problem?” *Acta Analytica*, 14: 69–76.
+* –––, 1997, “On the Relevance of Slow-Switching,” *Analysis*, 57: 285–286.
+* –––, 1999, “First-Person Authority and Memory,” in *Interpretations and Causes: New Perspectives on Donald Davidson’s Philosophy*, M. de Caro (ed.), Dordrecht: Kluwer, pp. 159–170.
+* –––, 2003, “Externalism, Logical Form, and Linguistic Intentions,” in *Epistemology of Language*, A. Barber (ed.), New York: Oxford University Press, pp. 399–414.
 * –––, 2004, “What was I Thinking? Social Externalism, Self-Knowledge, and Shifting Memory Targets,” in R. Schantz (ed.) 2004, pp. 419–425.
-* –––, 2011, _Philosophy of Generative Linguistics_, New York: Oxford University Press.
-* Ludlow, P. & N. Martin, 1993, “The Fallibility of First-Person Knowledge of Intentionality,” _Behavioral and Brain Sciences_, 16(1): 60–60.
-* –––, (eds.), 1998, _Externalism and Self-Knowledge_, Stanford: CSLI Publications.
-* Lycan, W., 1987, _Consciousness_, Cambridge, MA: MIT Press.
-* –––, 1996, _Consciousness and Experience_, Cambridge, MA: MIT Press.
-* –––, 2001, “The Case for Phenomenal Externalism,” _Philosophical Perspectives_ (Volume 15: Metaphysics), Atascadero, CA: Ridgeview Publishing.
-* Macdonald, C., 1995, “Externalism and First-Person Authority,” _Synthese_, 104(199): 99–122.
-* Malt, B., 1994, “Water is not H2O,” _Cognitive Psychology_, 27: 41–57.
-* Martin, N., 1994, _An Externalist Account of Self-Knowledge and its Implications_, Ph.D. Thesis, Dept. of Philosophy, SUNY Stony Brook.
-* Martinich, A. & A. Stroll, 2007, _Much Ado About Nonexistence: Fiction and Reference_, Lanham, MD: Rowman & Littlefield.
-* Marvan, T. (ed.), 2006, _What Determines Content? The Internalism/Externalism Dispute_, Newcastle: Cambridge Scholars Press.
-* McCulloch, G., 1999, “Content Externalism and Cartesian Skepticism, A Reply to Brueckner,” in _Transcendental Arguments: Problems and Prospects_, pp. 251–270.
-* McGeer, V., 1996, “Is ‘Self-Knowledge’ an Empirical Problem? Renegotiating the Space of Philosophical Explanation,” _Journal of Philosophy_, 93(10): 483–515.
-* McGinn, C., 1977, “Charity, Interpretation, and Belief,” _Journal of Philosophy_, 74: 521–535.
-* –––, 1989, _Mental Content_, New York: Blackwell.
-* McKinsey, M., 1991, “Anti-Individualism and Privileged Access,” _Analysis_, 51: 9–16.
-* –––, 1994, “Accepting the Consequences of Anti-Individualism,” _Analysis_, 54(2): 124–128.
-* –––, 2002, “Forms of Externalism and Privileged Access,” in _Philosophical Perspectives_, 16: 199–224.
+* –––, 2011, *Philosophy of Generative Linguistics*, New York: Oxford University Press.
+* Ludlow, P. & N. Martin, 1993, “The Fallibility of First-Person Knowledge of Intentionality,” *Behavioral and Brain Sciences*, 16(1): 60–60.
+* –––, (eds.), 1998, *Externalism and Self-Knowledge*, Stanford: CSLI Publications.
+* Lycan, W., 1987, *Consciousness*, Cambridge, MA: MIT Press.
+* –––, 1996, *Consciousness and Experience*, Cambridge, MA: MIT Press.
+* –––, 2001, “The Case for Phenomenal Externalism,” *Philosophical Perspectives* (Volume 15: Metaphysics), Atascadero, CA: Ridgeview Publishing.
+* Macdonald, C., 1995, “Externalism and First-Person Authority,” *Synthese*, 104(199): 99–122.
+* Malt, B., 1994, “Water is not H2O,” *Cognitive Psychology*, 27: 41–57.
+* Martin, N., 1994, *An Externalist Account of Self-Knowledge and its Implications*, Ph.D. Thesis, Dept. of Philosophy, SUNY Stony Brook.
+* Martinich, A. & A. Stroll, 2007, *Much Ado About Nonexistence: Fiction and Reference*, Lanham, MD: Rowman & Littlefield.
+* Marvan, T. (ed.), 2006, *What Determines Content? The Internalism/Externalism Dispute*, Newcastle: Cambridge Scholars Press.
+* McCulloch, G., 1999, “Content Externalism and Cartesian Skepticism, A Reply to Brueckner,” in *Transcendental Arguments: Problems and Prospects*, pp. 251–270.
+* McGeer, V., 1996, “Is ‘Self-Knowledge’ an Empirical Problem? Renegotiating the Space of Philosophical Explanation,” *Journal of Philosophy*, 93(10): 483–515.
+* McGinn, C., 1977, “Charity, Interpretation, and Belief,” *Journal of Philosophy*, 74: 521–535.
+* –––, 1989, *Mental Content*, New York: Blackwell.
+* McKinsey, M., 1991, “Anti-Individualism and Privileged Access,” *Analysis*, 51: 9–16.
+* –––, 1994, “Accepting the Consequences of Anti-Individualism,” *Analysis*, 54(2): 124–128.
+* –––, 2002, “Forms of Externalism and Privileged Access,” in *Philosophical Perspectives*, 16: 199–224.
 * –––, 2003, “Transmission of Warrant and the Closure of A Priority,” in S. Nuccetelli (ed.) 2003, pp. 97–116.
-* –––, 2007, “Externalism and Privileged Access are Inconsistent,” in _Contemporary Debates in the Philosophy of Mind_, B. McLaughlin & J. Cohen (eds.), New York: Wiley-Blackwell, pp. 53–65.
-* McLaughlin, B., 2000, “Self-Knowledge, Externalism, and Skepticism,” _Proceedings of the Aristotelian Society_, 74(74): 93–118.
+* –––, 2007, “Externalism and Privileged Access are Inconsistent,” in *Contemporary Debates in the Philosophy of Mind*, B. McLaughlin & J. Cohen (eds.), New York: Wiley-Blackwell, pp. 53–65.
+* McLaughlin, B., 2000, “Self-Knowledge, Externalism, and Skepticism,” *Proceedings of the Aristotelian Society*, 74(74): 93–118.
 * –––, 2003, “McKinsey’s Challenge, Warrant Transmission, and Skepticism,” in S. Nuccetelli (ed.) 2003, pp. 79–96.
 * –––, 2004, “Anti-Individualism and Minimal Self-Knowledge: A Dissolution of Ebbs’ Puzzle,” in R. Schantz (ed.) 2004, pp. 427–440.
 * McLaughlin, B. & M. Tye, 1998a, “Externalism, Twin Earth, and Self-Knowledge,” in C. Wright, et al. (eds.) 1998, pp. 285–320.
 * –––, 1998b, “The Brown-McKinsey Charge of Inconsistency,” in P. Ludlow & N. Martin (eds.) 1998, pp. 207–214.
-* –––, 1998c, “Is Content-Externalism Compatible with Privileged Access?,” _Philosophical Review_, 107(3): 349–380.
-* Mellor, D., 1977, “Natural Kinds,” _British Journal for the Philosophy of Science_, 28: 299–312.
-* Mendola, J. 2008, _Anti-Externalism_, New York: Oxford University Press.
-* Miller, R., 1997, “Externalist Self-Knowledge and the Scope of the Apriori,” _Analysis_, 57(1): 67–75.
-* Millikan, R., 1984, _Language, Thought, and Other Biological Categories: New Foundations for Realism_, Cambridge, MA: MIT Press.
-* –––, 1989, “Biosemantics,” _Journal of Philosophy_, 86: 281–297.
-* –––, 1993, “White Queen Psychology; or, the Last Myth of the Given,” in _White Queen Psychology and Other Essays for Alice_, Cambridge, MA: MIT Press.
-* Moran, R., 2001, _Authority and Estrangement: An Essay on Self-Knowledge_, Princeton: Princeton University Press.
-* Morvarid, M., 2015, “The Epistemological Bases of the Slow Switching Argument,” _European Journal of Philosophy_, 23: 17–38.
-* Nagasawa, Y., 2000, “ ‘Very-Slow-Switching’ and Memory (A Critical Note on Ludlow’s Paper),” _Acta Analytica_, 15(25): 173–175.
-* Neta, R., 2003, “Skepticism, Contextualism, and Semantic Self-Knowledge,” _Philosophy and Phenomenological Research_, 67(2): 396–411.
-* Nisbett, R. & L. Ross, 1980, _Human Inference: Strategies and Shortcomings of Social Judgment_, Englewood Cliffs, NJ: Prentice-Hall.
-* Nisbett, R. & T. Wilson, 1977, “Telling More than We Can Know: Verbal Reports on Mental Processes,” _Psychological Review_, 8: 231–259.
-* Nozick, R., 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
-* Nuccetelli, S., 1999, “What Anti-Individualists Cannot Know A Priori,” _Analysis_, 59: 48–51.
-* –––, (ed.) 2003, _New Essays on Semantic Externalism and Self-Knowledge_, Cambridge, MA: MIT Press.
-* O’Brien, L., 2007, _Self-Knowing Agents_, New York: Oxford University Press.
+* –––, 1998c, “Is Content-Externalism Compatible with Privileged Access?,” *Philosophical Review*, 107(3): 349–380.
+* Mellor, D., 1977, “Natural Kinds,” *British Journal for the Philosophy of Science*, 28: 299–312.
+* Mendola, J. 2008, *Anti-Externalism*, New York: Oxford University Press.
+* Miller, R., 1997, “Externalist Self-Knowledge and the Scope of the Apriori,” *Analysis*, 57(1): 67–75.
+* Millikan, R., 1984, *Language, Thought, and Other Biological Categories: New Foundations for Realism*, Cambridge, MA: MIT Press.
+* –––, 1989, “Biosemantics,” *Journal of Philosophy*, 86: 281–297.
+* –––, 1993, “White Queen Psychology; or, the Last Myth of the Given,” in *White Queen Psychology and Other Essays for Alice*, Cambridge, MA: MIT Press.
+* Moran, R., 2001, *Authority and Estrangement: An Essay on Self-Knowledge*, Princeton: Princeton University Press.
+* Morvarid, M., 2015, “The Epistemological Bases of the Slow Switching Argument,” *European Journal of Philosophy*, 23: 17–38.
+* Nagasawa, Y., 2000, “ ‘Very-Slow-Switching’ and Memory (A Critical Note on Ludlow’s Paper),” *Acta Analytica*, 15(25): 173–175.
+* Neta, R., 2003, “Skepticism, Contextualism, and Semantic Self-Knowledge,” *Philosophy and Phenomenological Research*, 67(2): 396–411.
+* Nisbett, R. & L. Ross, 1980, *Human Inference: Strategies and Shortcomings of Social Judgment*, Englewood Cliffs, NJ: Prentice-Hall.
+* Nisbett, R. & T. Wilson, 1977, “Telling More than We Can Know: Verbal Reports on Mental Processes,” *Psychological Review*, 8: 231–259.
+* Nozick, R., 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
+* Nuccetelli, S., 1999, “What Anti-Individualists Cannot Know A Priori,” *Analysis*, 59: 48–51.
+* –––, (ed.) 2003, *New Essays on Semantic Externalism and Self-Knowledge*, Cambridge, MA: MIT Press.
+* O’Brien, L., 2007, *Self-Knowing Agents*, New York: Oxford University Press.
 * Owens, J. 1990, “Cognitive Access and Semantic Puzzles,” in C. Anthony Anderson and J. Owens (eds.) 1990, pp. 147–174.
-* –––, 1992, “Psychological Supervenience: Its Epistemological Foundation,” _Synthese_, 90: 89–117.
-* Parent, T., 2007, “Infallibilism about Self-Knowledge,” _Philosophical Studies_, 133: 411–424.
-* –––, 2015a, “Self-Knowledge and Externalism about Empty Concepts,” _Analytic Philosophy_, 56: 158–168.
-* –––, 2015b, “Externalism and ‘Knowing What’ One Thinks,” _Synthese_, 192: 1337–1350.
-* –––, 2016, “The Empirical Case against Infallibilism,” _Review of Philosophy and Psychology_, 7: 223–242.
-* –––, 2017, _Self-Reflection for the Opaque Mind_, New York: Routledge.
-* Peacocke, C., 1996, “Entitlement, Self-Knowledge and Conceptual Redeployment,” _Proceedings of the Aristotelian Society_, 96: 117–158.
-* Pérez-Otero, M., 2014, “Boghossian’s Inference Argument against Content Externalism Reversed,” _Philosophy and Phenomenological Research_, 89: 159–181.
-* Pollock, J., 2015, “Social Externalism and the Problem of Communication,” _Philosophical Studies_, 172: 3229–3251.
-* Pritchard, D., 2002, “McKinsey, Skepticism, and the Transmission of Warrant across Known Entailment,” _Synthese_, 130: 279–302.
-* Pritchard, D. & J. Kallestrup, 2004, “An Argument for the Inconsistency of Content Externalism and Epistemic Internalism,” _Philosophia_, 31: 345–354.
+* –––, 1992, “Psychological Supervenience: Its Epistemological Foundation,” *Synthese*, 90: 89–117.
+* Parent, T., 2007, “Infallibilism about Self-Knowledge,” *Philosophical Studies*, 133: 411–424.
+* –––, 2015a, “Self-Knowledge and Externalism about Empty Concepts,” *Analytic Philosophy*, 56: 158–168.
+* –––, 2015b, “Externalism and ‘Knowing What’ One Thinks,” *Synthese*, 192: 1337–1350.
+* –––, 2016, “The Empirical Case against Infallibilism,” *Review of Philosophy and Psychology*, 7: 223–242.
+* –––, 2017, *Self-Reflection for the Opaque Mind*, New York: Routledge.
+* Peacocke, C., 1996, “Entitlement, Self-Knowledge and Conceptual Redeployment,” *Proceedings of the Aristotelian Society*, 96: 117–158.
+* Pérez-Otero, M., 2014, “Boghossian’s Inference Argument against Content Externalism Reversed,” *Philosophy and Phenomenological Research*, 89: 159–181.
+* Pollock, J., 2015, “Social Externalism and the Problem of Communication,” *Philosophical Studies*, 172: 3229–3251.
+* Pritchard, D., 2002, “McKinsey, Skepticism, and the Transmission of Warrant across Known Entailment,” *Synthese*, 130: 279–302.
+* Pritchard, D. & J. Kallestrup, 2004, “An Argument for the Inconsistency of Content Externalism and Epistemic Internalism,” *Philosophia*, 31: 345–354.
 * Pryor, J., 2007, “What’s Wrong with McKinsey-style Reasoning?,” in S. Goldberg (ed.) 2007, pp. 177–200.
-* Putnam, H., 1973, “Meaning and Reference,” _Journal of Philosophy_, 70(19): 699–711.
-* –––, 1975, “The Meaning of ‘Meaning’,” in _Mind, Language, and Reality: Philosophical Papers_ (Volume 2), Cambridge: Cambridge University Press, pp. 215–271.
-* –––, 1981, “Brains in a Vat,” in _Reason, Truth, and History_, Cambridge: Cambridge University Press, pp. 1–21.
-* Recanati, F., 2012, _Mental Files_, Oxford: Oxford University Press.
-* Rosenberg, J., 1994, _Beyond Formalism: Naming and Necessity for Human Beings_, Philadelphia: Temple University Press.
-* Rowlands, M., 2003, _Externalism: Putting Mind and World Back Together Again_, Montreal: McGill-Queen’s University Press.
-* Ryle, G., 1963, _The Concept of Mind_, London: Penguin.
+* Putnam, H., 1973, “Meaning and Reference,” *Journal of Philosophy*, 70(19): 699–711.
+* –––, 1975, “The Meaning of ‘Meaning’,” in *Mind, Language, and Reality: Philosophical Papers* (Volume 2), Cambridge: Cambridge University Press, pp. 215–271.
+* –––, 1981, “Brains in a Vat,” in *Reason, Truth, and History*, Cambridge: Cambridge University Press, pp. 1–21.
+* Recanati, F., 2012, *Mental Files*, Oxford: Oxford University Press.
+* Rosenberg, J., 1994, *Beyond Formalism: Naming and Necessity for Human Beings*, Philadelphia: Temple University Press.
+* Rowlands, M., 2003, *Externalism: Putting Mind and World Back Together Again*, Montreal: McGill-Queen’s University Press.
+* Ryle, G., 1963, *The Concept of Mind*, London: Penguin.
 * Sainsbury, R., 2000, “Warrant-Transmission, Defeaters, and Disquotation,” in E. Sosa & E. Villanueva (eds.) 2000, pp. 191–200.
-* Sawyer, S., 1998, “Privileged Access to the World,” _Australasian Journal of Philosophy_, 76(4): 523–533.
-* –––, 2003, “Sufficient Absences,” _Analysis_, 63(3): 202–208.
+* Sawyer, S., 1998, “Privileged Access to the World,” *Australasian Journal of Philosophy*, 76(4): 523–533.
+* –––, 2003, “Sufficient Absences,” *Analysis*, 63(3): 202–208.
 * –––, 2006, “Externalism, Apriority, and Transmission of Warrant”, in T. Marvan (ed.) 2006, 142–153.
 * –––, 2015, “Contrastive Self-Knowledge and the McKinsey Paradox”, in S. Goldberg (ed.) 2015a, pp. 75–94.
-* Schantz, R. (ed.), 2004, _The Externalist Challenge_, Berlin: Walter de Gruyter.
+* Schantz, R. (ed.), 2004, *The Externalist Challenge*, Berlin: Walter de Gruyter.
 * Schiffer, S., 1992, “Boghossian on Externalism and Inference,” in E. Villanueva (ed.) 1992, 29–38.
-* Schroeter, L., 2007, “The Illusion of Transparency”, _Australasian Journal of Philosophy_, 85: 597–618
-* Searle, J., 1983, _Intentionality: An Essay in the Philosophy of Mind_, Cambridge: Cambridge University Press.
-* Segal, G., 2000, _A Slim Book about Narrow Content_, Cambridge, MA: MIT Press.
-* Sellars, W. 1954, “Some Reflections on Language Games,” _Philosophy of Science_, 21: 204–228.
-* Shoemaker, S., 1988, “On Knowing One’s Own Mind,” _Philosophical Perspectives_, 2: 183–209.
-* –––, 1996, _The First Person Perspective and Other Essays_, Cambridge: Cambridge University Press.
-* Siewart, C., 1998, _The Significance of Consciousness_, Princeton: Princeton University Press.
-* Smithies, D. & D. Stoljar (eds.), 2012, _Introspection and Consciousness_, New York: Oxford University Press.
+* Schroeter, L., 2007, “The Illusion of Transparency”, *Australasian Journal of Philosophy*, 85: 597–618
+* Searle, J., 1983, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
+* Segal, G., 2000, *A Slim Book about Narrow Content*, Cambridge, MA: MIT Press.
+* Sellars, W. 1954, “Some Reflections on Language Games,” *Philosophy of Science*, 21: 204–228.
+* Shoemaker, S., 1988, “On Knowing One’s Own Mind,” *Philosophical Perspectives*, 2: 183–209.
+* –––, 1996, *The First Person Perspective and Other Essays*, Cambridge: Cambridge University Press.
+* Siewart, C., 1998, *The Significance of Consciousness*, Princeton: Princeton University Press.
+* Smithies, D. & D. Stoljar (eds.), 2012, *Introspection and Consciousness*, New York: Oxford University Press.
 * Snowdon, P., 2012, “How to Think about Phenomenal Self-Knowledge,” in A. Coliva (ed.) 2012b, pp. 243–262.
-* Sosa, E. & E. Villanueva (eds.), 2000, _Skepticism_ (_Philosophical Issues_: Volume 10), Boston: Blackwell.
+* Sosa, E. & E. Villanueva (eds.), 2000, *Skepticism* (*Philosophical Issues*: Volume 10), Boston: Blackwell.
 * Stalnaker, R., 1990, “Narrow Content,” in C. Anthony Anderson & J. Owens (eds.) 1990, pp. 131–146.
-* –––, 2008, _Our Knowledge of the Internal World_, Oxford: Oxford University Press.
-* Stich, S., 1978, “Autonomous Psychology and the Belief-Desire Thesis,” _The Monist_, 61: 573–591.
-* Stoneham, T., 1999, “Boghossian on Empty Natural Kind Concepts,” _Proceedings of the Aristotelian Society_, 99: 119–122.
-* Tye, M., 1995, _Ten Problems of Consciousness_, Cambridge, MA: MIT Press.
-* –––, 1998, “Externalism and Memory,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 72: 77–94.
-* Vahid, H., 2003, “Externalism, Slow-Switching, and Privileged Self-Knowledge,” _Philosophy and Phenomenological Research_, 66(2): 370–388.
-* Villanueva, E. (ed.), 1992, _Rationality in Epistemology_ (Philosophical Issues: Volume 2), Atascadero, CA: Ridgeview.
-* –––, (ed.) 1998, _Concepts_ (Philosophical Issues, Volume 9), Atascadero, CA: Ridgeview.
-* Warfield, T., 1992, “Privileged Self-Knowledge and Externalism are Compatible,” _Analysis_, 52(4): pp. 232–237.
-* –––, 1995, “Knowing the World and Knowing Our Own Minds,” _Philosophy and Phenomenological Research_, 55(3): 525–545.
-* –––, 1997, “Externalism, Self-Knowledge, and the Irrelevance of Slow-Switching,” _Analysis_, 57(4): 282–284.
-* Wikforss, Å., 2004, “Semantic Externalism and Incomplete Understanding,” _Philosophical Quarterly_, 54: 287–294.
+* –––, 2008, *Our Knowledge of the Internal World*, Oxford: Oxford University Press.
+* Stich, S., 1978, “Autonomous Psychology and the Belief-Desire Thesis,” *The Monist*, 61: 573–591.
+* Stoneham, T., 1999, “Boghossian on Empty Natural Kind Concepts,” *Proceedings of the Aristotelian Society*, 99: 119–122.
+* Tye, M., 1995, *Ten Problems of Consciousness*, Cambridge, MA: MIT Press.
+* –––, 1998, “Externalism and Memory,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 72: 77–94.
+* Vahid, H., 2003, “Externalism, Slow-Switching, and Privileged Self-Knowledge,” *Philosophy and Phenomenological Research*, 66(2): 370–388.
+* Villanueva, E. (ed.), 1992, *Rationality in Epistemology* (Philosophical Issues: Volume 2), Atascadero, CA: Ridgeview.
+* –––, (ed.) 1998, *Concepts* (Philosophical Issues, Volume 9), Atascadero, CA: Ridgeview.
+* Warfield, T., 1992, “Privileged Self-Knowledge and Externalism are Compatible,” *Analysis*, 52(4): pp. 232–237.
+* –––, 1995, “Knowing the World and Knowing Our Own Minds,” *Philosophy and Phenomenological Research*, 55(3): 525–545.
+* –––, 1997, “Externalism, Self-Knowledge, and the Irrelevance of Slow-Switching,” *Analysis*, 57(4): 282–284.
+* Wikforss, Å., 2004, “Semantic Externalism and Incomplete Understanding,” *Philosophical Quarterly*, 54: 287–294.
 * –––, 2006, “Content Externalism and Fregean Sense,” in T. Marvan (ed.) 2006, pp. 163–179.
-* –––, 2007, “Semantic Externalism and Psychological Externalism,” _Philosophy Compass_, 3(1): 158–181.
+* –––, 2007, “Semantic Externalism and Psychological Externalism,” *Philosophy Compass*, 3(1): 158–181.
 * –––, 2007, “The Insignificance of Transparency,” in S. Goldberg (ed.) 2015a, pp. 142–164.
-* Williamson, T., 2000, _Knowledge and Its Limits_, Oxford: Oxford University Press.
-* Wright, C., 1985, “Facts and Certainty,” _Proceedings of the British Academy_, 71: 429–472.
-* –––, 1989, “Wittgenstein’s Later Philosophy of Mind: Sensation, Privacy, and Intention,” _Journal of Philosophy_, 86(11): 622–634.
+* Williamson, T., 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press.
+* Wright, C., 1985, “Facts and Certainty,” *Proceedings of the British Academy*, 71: 429–472.
+* –––, 1989, “Wittgenstein’s Later Philosophy of Mind: Sensation, Privacy, and Intention,” *Journal of Philosophy*, 86(11): 622–634.
 * –––, 1998, “Self-Knowledge: The Wittgensteinian Legacy,” in C. Wright, et al. (eds.) 1998, pp. 13–46.
 * –––, 2000a, “Cogency and Question-Begging: Some Reflections on McKinsey’s Paradox and Putnam’s Proof,” in E. Sosa & E. Villanueva (eds.) 2000, pp. 140–163.
 * –––, 2000b, “Replies,” in E. Sosa & E. Villanueva (eds.) 2000, pp. 201–219.
@@ -629,24 +628,24 @@ W.最后的担忧是他将自我认识的心理现象与仅仅是语言或“语
 * –––, 2011, “McKinsey One More Time,” in A. Hatzimoysis (ed.) 2011, pp. 80–104.
 * –––, 2012, “Warrant Transmission and Entitlement,” in A. Coliva (ed.) 2102b, pp. 451–486.
 * –––, 2015, “Self-Knowledge: The Reality of Privileged Access”, in S. Goldberg (ed.) 2015a, pp. 49–74.
-* Wright, C., B. Smith & C. Macdonald (eds.), 1998, _Knowing Our Own Minds_, Oxford: Clarendon Press.
-* Zemach, E., 1976, “Putnam’s Theory on the Reference of Substance Terms,” _Journal of Philosophy_, 73: 116–127.
-* Zimmerman, A., 2006, “Basic Self-Knowledge: Answering Peacocke’s Criticisms of Constitutivism,” _Philosophical Studies_, 128: 337–379.
-* –––, 2008, “Self-Knowledge: Rationalism vs. Empiricism,” _Philosophy Compass_, 3(2): 325–352.
+* Wright, C., B. Smith & C. Macdonald (eds.), 1998, *Knowing Our Own Minds*, Oxford: Clarendon Press.
+* Zemach, E., 1976, “Putnam’s Theory on the Reference of Substance Terms,” *Journal of Philosophy*, 73: 116–127.
+* Zimmerman, A., 2006, “Basic Self-Knowledge: Answering Peacocke’s Criticisms of Constitutivism,” *Philosophical Studies*, 128: 337–379.
+* –––, 2008, “Self-Knowledge: Rationalism vs. Empiricism,” *Philosophy Compass*, 3(2): 325–352.
 
 ### Collections
 
 Many works cited and further readings are found in the anthologies above: Boghossian & Peacocke (eds.) 2000, Coliva (ed.) 2012a, Coliva (ed.) 2012b, Frapolli (ed.) 2003, Gertler (ed.) 2003, Goldberg (ed.) 2007, Goldberg (ed.) 2015a, Hatzimoysis (ed.) 2011, Ludlow & Martin (eds.) 1998, Marvan (ed.) 2006, Nuccetelli (ed.) 2003, Schantz (ed.) 2004, Smithies & Stoljar (eds.) 2012, Villanueva (ed.) 1992, 1998, and Wright, et al. (eds.) 1998. Other relevant collections include:
 
-* Barber, A. (ed.), 2003, _Epistemology of Language_, New York: Oxford University Press.
-* Boghossian, P., 2008, _Content and Justification: Philosophical Papers_, New York: Oxford University Press.
-* Burge, T., 2006, _Foundations of Mind: Philosophical Essays Vol. 2_, Oxford: Clarendon Press.
-* Brueckner, A., 2010, _Essays on Skepticism_, Oxford: Oxford University Press.
-* Cassam, Q. (ed.), 1994, _Self-Knowledge_, Oxford: Oxford University Press.
-* Davidson, D., 2002, _Subjective, Intersubjective, Objective_, New York: Oxford University Press.
-* Hahn, M. & B. Ramberg (eds.), 2004, _Reflections and Replies: Essays on the Philosophy of Tyler Burge_, Cambridge, MA: MIT Press.
-* Pessin, A. & S. Goldberg (eds.), 1996, _The Twin Earth Chronicles_, Armonk, NY: M.E. Sharpe.
-* Wright, C., 2001, _Rails to Infinity: Essays on Wittgenstein’s_ Philosophical Investigations, Cambridge, MA: Harvard University Press.
+* Barber, A. (ed.), 2003, *Epistemology of Language*, New York: Oxford University Press.
+* Boghossian, P., 2008, *Content and Justification: Philosophical Papers*, New York: Oxford University Press.
+* Burge, T., 2006, *Foundations of Mind: Philosophical Essays Vol. 2*, Oxford: Clarendon Press.
+* Brueckner, A., 2010, *Essays on Skepticism*, Oxford: Oxford University Press.
+* Cassam, Q. (ed.), 1994, *Self-Knowledge*, Oxford: Oxford University Press.
+* Davidson, D., 2002, *Subjective, Intersubjective, Objective*, New York: Oxford University Press.
+* Hahn, M. & B. Ramberg (eds.), 2004, *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Cambridge, MA: MIT Press.
+* Pessin, A. & S. Goldberg (eds.), 1996, *The Twin Earth Chronicles*, Armonk, NY: M.E. Sharpe.
+* Wright, C., 2001, *Rails to Infinity: Essays on Wittgenstein’s* Philosophical Investigations, Cambridge, MA: Harvard University Press.
 
 ## Academic Tools
 
@@ -666,4 +665,4 @@ Many works cited and further readings are found in the anthologies above: Boghos
 [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [introspection](https://plato.stanford.edu/entries/introspection/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/) | [skepticism: and content externalism](https://plato.stanford.edu/entries/skepticism-content-externalism/)
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-[T. Parent](http://tparent.net/) <[_nontology@gmail.com_](mailto:nontology%40gmail%2ecom)>
+[T. Parent](http://tparent.net/) <[*nontology@gmail.com*](mailto:nontology%40gmail%2ecom)>

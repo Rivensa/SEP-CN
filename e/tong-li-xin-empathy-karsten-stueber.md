@@ -1,6 +1,6 @@
 # 同理心 empathy (Karsten Stueber)
 
-_首次发表于 2008 年 3 月 31 日星期一；实质性修订于 2019 年 6 月 27 日星期四_
+*首次发表于 2008 年 3 月 31 日星期一；实质性修订于 2019 年 6 月 27 日星期四*
 
 同理心的概念用来指代一系列心理能力，被认为是构成人类社会生物的核心，使我们能够了解其他人在想什么、感受什么，与他们建立情感联系，分享他们的想法和感受，并关心他们的幸福。自 18 世纪以来，特别是由于大卫·休谟和亚当·斯密的著作的影响，这些能力一直是学者们研究我们社会和道德本质的心理基础的中心。然而，同理心的概念在知识上是相对较新的。此外，由于不同学科的研究人员专注于同理心相关现象的非常特定的方面，人们可能不会对在许多不同的科学和非科学话语中与同理心概念相关的概念混乱和定义的多样性感到惊讶。本文的目的是通过调查其在各种哲学和心理学讨论中的历史，以及指出为什么同理心被认为在理解普通情境中的人类行为、在人文科学中以及在我们作为社会和道德主体的构成方面具有如此重要的地位来澄清同理心概念。更具体地说，在简短的历史介绍中阐明了同理心概念被创造的哲学背景之后，第二和第三部分将讨论与我们的同理心能力相关的认识维度。它们将探讨同理心是了解他人思想的主要认识手段，并且应被视为区分人文科学与自然科学的独特方法的主张。第四和第五部分将重点关注将同理心视为基本社会粘合剂的主张，并将理解同理心为使我们能够建立和维持社会关系并对彼此采取评价立场的主要心理机制。
 
@@ -134,243 +134,243 @@ Significantly, Hoffman combines his developmental explication of empathy with a 
 
 ## Bibliography
 
-* Abel, T., 1948. “The Operation Called _Verstehen_,” _The American Journal of Sociology_, 54: 211–18; reprinted in Dallmayr, Fred and Thomas McCarthy (eds.), _Understanding and Social Inquiry_, Notre Dame: Notre Dame University Press, 1977.
-* Aharoni,E., Sinnott-Armstrong, W., and Kiehl, K.A., 2012. “Can Psychopathic Offenders Discern Moral Wrong? A New Look at the Moral/Conventional Distinction,” _Journal of Abnormal Psychology_, 121: 484–497.
-* Allen, C., 2010. “Miror, Mirror in the Brain, what’s the Monkey Stand to Gain?” _Noûs_, 44: 372–391.
-* Baron-Cohen, S., 2003. _The Essential Difference: The Truth about the Male and Female Brain_, New York: Basic Books.
-* –––, 2011. _The Science of Evil: On Empathy and the Origins of Cruelty_, New York: Basic Books.
-* Baron-Cohen, S. and S. Wheelwright, 2004: “The Empathy Quotient: An Investigation of Adults with Asperger Syndrome or High Functioning Autism, and Normal Sex Differences,” _Journal of Autism and Developmental Disorders_, 34: 163–175.
-* Batson, C.D., 1991. _The Altruism Question: Toward a Social Psychological Answer_, Hillsdale, NJ.: Lawrence Erlbaum.
-* –––, 1997. “Self-Other Merging and the Empathy-Altruism Hypothesis: Reply to Neuberg et al.,” _Journal of Personality and Social Psychology_, 73: 517–522.
-* –––, 2009. “ These Things Called Empathy: Eight Related But Distinct Phenomona,” _The Social Neuroscience of Empathy_, J. Decety and W. Ickes (eds.), Cambridge, MA: MIT Press, 3–15.
-* –––, 2011. _Altruism in Humans_, Oxford: Oxford University Press.
-* –––, 2014. “Empathy–Induced Altruism and Morality: No Necessary Connection,” in _Empathy and Morality_, H. Maibom (ed.), Oxford: Oxford University Press, 41–58.
+* Abel, T., 1948. “The Operation Called *Verstehen*,” *The American Journal of Sociology*, 54: 211–18; reprinted in Dallmayr, Fred and Thomas McCarthy (eds.), *Understanding and Social Inquiry*, Notre Dame: Notre Dame University Press, 1977.
+* Aharoni,E., Sinnott-Armstrong, W., and Kiehl, K.A., 2012. “Can Psychopathic Offenders Discern Moral Wrong? A New Look at the Moral/Conventional Distinction,” *Journal of Abnormal Psychology*, 121: 484–497.
+* Allen, C., 2010. “Miror, Mirror in the Brain, what’s the Monkey Stand to Gain?” *Noûs*, 44: 372–391.
+* Baron-Cohen, S., 2003. *The Essential Difference: The Truth about the Male and Female Brain*, New York: Basic Books.
+* –––, 2011. *The Science of Evil: On Empathy and the Origins of Cruelty*, New York: Basic Books.
+* Baron-Cohen, S. and S. Wheelwright, 2004: “The Empathy Quotient: An Investigation of Adults with Asperger Syndrome or High Functioning Autism, and Normal Sex Differences,” *Journal of Autism and Developmental Disorders*, 34: 163–175.
+* Batson, C.D., 1991. *The Altruism Question: Toward a Social Psychological Answer*, Hillsdale, NJ.: Lawrence Erlbaum.
+* –––, 1997. “Self-Other Merging and the Empathy-Altruism Hypothesis: Reply to Neuberg et al.,” *Journal of Personality and Social Psychology*, 73: 517–522.
+* –––, 2009. “ These Things Called Empathy: Eight Related But Distinct Phenomona,” *The Social Neuroscience of Empathy*, J. Decety and W. Ickes (eds.), Cambridge, MA: MIT Press, 3–15.
+* –––, 2011. *Altruism in Humans*, Oxford: Oxford University Press.
+* –––, 2014. “Empathy–Induced Altruism and Morality: No Necessary Connection,” in *Empathy and Morality*, H. Maibom (ed.), Oxford: Oxford University Press, 41–58.
 * Batson, C.D., J. Fultz, and P. Schoenrade, 1987. “Distress and Empathy: Two Qualitatively Distinct Vicarious Emotions with Different Motivational Consequences,” Journal of Personality 55: 19–39.
-* Batson, C.D., R.R. Klein, L. Highberger, and L.L. Shaw, 1995. “Immorality From Empathy-Induced Altruism: When Compassion and Justice Conflict,” _Journal of Personality and Social Psychology_, 68: 1042–1054.
-* Batson, C.D., K. Sager, E. Garst, M. Kang, K. Rubchinsky, and K. Dawson, 1997a. “Is Empathy Induced Helping Due to Self-Other Merging?,” _Journal of Personality and Social Psychology_ 73: 495–509.
-* Batson, C.D., S. Early, and G.Salvarini, 1997b. “Perspective Taking: Imagining how Another Feels versus Imagining how You Would Feel,” _Personality and Social Personality Bulletin_, 23: 751–758.
-* Batson, C.D., D. Lishner, A.Carpenter, L. Dulin, S. Harjusola-Wevv, E. L. Stocks, S. Gale, O. Hassan, and B. Sampat, 2003. “‘…As you Would Have Them Do Unto You’: Does Imagining Yourself in the Other’s Place Stimulate Moral Action?,” _Personality and Social Psychology Bulletin_, 29: 1190–1201.
-* Bierhoff, H.-W., 2002. _Prosocial Behavior_, East Sussex: Psychology Press.
-* Blair, R., 1996. “Brief Report: Morality in the Autistic Child,” _Journal of Autism and Developmental Disorders_ 26: 571–579.
-* Blair, R., D. Mitchell, and D. Blair, 2005. _The Psychopath_, Oxford: Blackwell Publishing.
-* Bloom, P., 2016. _Against Empathy: The Case for Rational Compassion_, New York: Ecco.
-* Borg, E., 2007. “If Mirror Neurons Are the Answer, What was the Question?” _Journal of Consciousness Studies_, 14: 5–19.
-* Breithaupt, F., 2009. _Kulturen der Empathie_, Frankfurt a. M.: Suhrkamp.
-* Bruneau, E. and R. Saxe. 2012. “The Power of Being Heard: The Benefits of ‘;Perspective-Giving’; in the Context of Intergroup Conflict,” _Journal of Experimental Social Psychology_, 48: 855–866.
-* Choplan, B., M. McCain, J. Carbonell, and R. Hagen, 1985. “Empathy: Review of Available Measures,” _Journal of Personality and Social Psychology_, 48: 635–653.
-* Churchland, P., 1970. “The Logical Character of Action-Explanations,” _The Philosophical Review_, 79, 214–236.
-* Cialdini, R.B., S.L. Brown, B.P. Lewis, C. Luce, and S.L. Neuberg, 1997. “Reinterpreting the Empathy-Altruism Relationship: When One Into One Equals Oneness,” _Journal of Personality and Social Psychology_, 73: 481–494.
-* Cikara, M., E. Bruneau, J.J. Van Bavel, and R. Saxe. 2014. “Their Pain Gives Us Pleasure: How Intergroup Dynamics Shape Empathic Failures and Counter–Empathic Responses,” _Journal of Experimental Social Psychology_, 55: 110–115.
-* Collingwood, R.G., 1946. _The Idea of History_, Oxford: Clarendon Press.
-* Coplan, A., 2011. “Understanding Empathy: Its Features and Effects,” in _Empathy: Philosophical and Psychological Perspectives_, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 3–18.
-* Coplan, A. and P. Goldie (eds.), 2011. _Empathy: Philosophical and Psychological Perspectives_, Oxford: Oxford University Press.
-* Cronbach, L., 1955. “Processes Affecting Scores on ‘Understanding of Others’ and ‘Assumed Similarity’,” _Psychological Bulletin_, 52: 177–193.
-* Csibra, F., 2007. “Action Mirroring and Action Interpretation: An Alternative Account,” in _Sensorimotor Foundations of Higher Cognition (Attention and Performance XII)_, ed. P. Haggard, Y. Rosetti and M. Kawato, 435–459. Oxford: Oxford University Press.
-* Currie, G., and I. Ravenscroft, 2002. _Recreative Minds_, Oxford: Clarendon Press.
-* Curtis, R. and G. Koch, 2009. _Einfühlung: Zur Geschichte und Gegenwart eines ästhetischen Konzepts_, München: Wilhelm Fink Verlag.
-* Danto, Arthur, 1965. _Analytical Philosophy of History_, Cambridge: Cambridge University Press.
-* D’Arms, J., 2011. “Empathy, Approval, and Disapproval in Moral Sentimentalism,” _Sourthern Journal of Philosophy_ (Supplementary Volume), 49: 134–141.
-* Darwall, S., 1998. “Empathy, Sympathy, and Care,” _Philosophical Studies_, 89: 261–282.
-* –––, 2006. _The Second-Person Standpoint: Morality, Respect, and Accountability_, Cambridge, MA: Harvard University Press.
-* Davies M., and T. Stone (eds.), 1995. _Folk Psychology_, Oxford: Blackwell Publishers.
-* Davis, M., 1980. “A Multidimensional Approach to Individual Differences in Empathy”. _JSAS Catalog of Selected Documents in Psychology_, 10: 85.
-* –––, 1983. “Measuring Individual Differences in Empathy: Evidence for a Multidimensional Approach,” _Journal of Personality and Social Psychology_, 44: 113–126.
-* –––, 1994. _Empathy: A Social Psychological Approach_, Boulder: Westview Press.
-* Davis, M. and L. Kraus, 1997. “Personality and Empathic Accuracy,” in _Empathic Accuracy_, W. Ickes (ed.), New York/London: Guilford Press, 144–168.
-* Debes, R., 2010. “Which Empathy? Limitations in the Mirrored ”Understanding“ of Emotions,” _Synthese_, 175: 219–239.
-* –––, 2012. “Recasting Scottish Sentimentalism: The Pecularity of Moral Approval,” _Journal of Scottish Philosophy_, 10(1): 91–115.
-* –––, 2017. “The Authority of Empathy (Or How to Ground Sentimentalism),” in _Ethical Sentimentalism: New Perspectives_, R. Debes and K. Stueber (eds.), Cambridge: Cambridge University Press, 171–191.
-* Decety, J. 2010, “To What Extent is the Experience of Empathy Mediated by Shared Neural Circuits?,” _Emotion Review_, 2(3): 204–207.
-* –––, 2012. _Empathy: From Bench to Bedside_, Cambridge, MA: MIT Press.
-* Decety, J. and J.M. Cowell, 2015. “Empathy, Justice, and Moral Behavior,” _AJOB Neuroscience_, 6: 3–14.
-* Decety, J. and C. Lamm, 2006. “Human Empathy through the Lens of Social Neuroscience,” _The Scientific World Journal_, 6: 1146–1163.
-* Decety, J. and W. Ickes, 2009. _The Social Neuroscience of Empathy_, Cambridge, MA: MIT Press.
-* Decety, J. and K.J. Joder, 2016. “Empathy and Motivation for Justice: Cognitive Empathy and Concern, But Not Emotional Empathy, Predict Sensitivity to Injustice for Others,” _Social Neuroscience_, 11: 1–14.
-* Deigh, J., 1996. “Empathy and Universalizability,” in _Mind and Morals_, L. May, M. Friedman and A. Clark (eds.), Cambridge, MA: MIT Press, 199–219.
-* –––, 2011. “Empathy, Justice, and Jurisprudence,”_The Southern Journal of Philosophy_, 49 (Spindel Supplement): 73–90.
-* –––, 2018. “Is Empathy Required for Making Moral Judgment?,” in _Forms of Fellow Feeling: Empathy, Sympathy and Moral Agency_, N. Roughley and T. Schramme (eds.), Cambridge: Cambridge University Press, 245–264.
-* Deimling, W., 2017. “Hutchinson’s and Kant’s Critique of Sympathy,” in _Kant and the Scottish Enlightenment_, E. Robinson and C.W. Suprenant (eds.), New York: Routledge, 55–780.
-* Deonna, J.A., 2007. “The Structure of Empathy,” _Journal of Moral Philosophy_, 4: 99–116.
-* De Waal, Fr., 2006. _Primates and Philosophers: How Morality Evolved_, Princeton, N.J.: Princeton University Press.
-* –––., 2009. _The Age of Empathy: Nature’s Lessons for a Kinder Society_, New York: Random House.
-* DeVignemont, F., and T. Singer, 2006. “The Empathic Brain: How, When, and Why?” _Trends in Cognitive Sciences_, 10: 435–441.
-* Dilthey, W., 1961–. _Gesammelte Schriften_, 15 vols. Leipzig: Teubner Verlagsgesellschaft.
-* Dray, W., 1957. _Laws and Explanation in History_, Oxford: Clarendon Press.
-* –––, 1995. _History as Re-enactment_, Oxford: Oxford University Press.
-* Droysen, J.G., 1977. _Historik_, Stuttgart: Frommann-Holzboog.
-* Dymont, R., 1949. “A Scale of Measurement of Empathic Ability,” _Journal of Consulting Psychology_, 13: 127–133.
-* Eisenberg, N., 2000a. “Empathy and Sympathy,” M. Lewis and J.M. Haviland-Jones (eds.), _Handbook of Emotions_, New York/London: Guilford Press, 677–691.
-* –––, 2000b. “Emotion, Regulation, and Moral Development,” _Annual Review of Psychology_, 51: 665–697.
-* Eisenberg, N., and J. Strayer (eds.), 1987. _Empathy and Its Development_, Cambridge: Cambridge University Press.
-* Eisenberg, N., and P.A. Miller, 1987. “Empathy, Sympathy, and Altruism: Empirical and Conceptual Links,” ed. N. Eisenberg,and J. Strayer, _Empathy and Its Development_, 292–316. Cambridge: Cambridge University Press.
-* Eisenberg, N. and R. Fabes, 1998. “Prosocial Development,” W. Damon and N. Eisenberg (eds.), _Handbook of Child Psychology_ (Volume 3: Social, Emotional and Personality Development), 701–778. New York: Wiley.
-* Eisenberg, N., B. Murphy, and S. Shepard, 1997. “The Development of Empathic Accuracy,” in _Empathic Accuracy_, W. Ickes (ed.), New York/London: Guilford Press, 73–116.
-* Frazer, M., 2010. _The Enlightenment of Sympathy: Justice and the Moral Sentiments in the Eighteenth Century and Today_, Oxford: Oxford University Press.
-* Fricke, C., 2005. “Genesis und Geltung moralischer Normen: Ein Gedankenexperiment von Adam Smith,” in _Adam Smith als Moralphilosoph_, C. Fricke and H.P. Schütt (eds.), Berlin/New York: DeGruyter, 33–63.
+* Batson, C.D., R.R. Klein, L. Highberger, and L.L. Shaw, 1995. “Immorality From Empathy-Induced Altruism: When Compassion and Justice Conflict,” *Journal of Personality and Social Psychology*, 68: 1042–1054.
+* Batson, C.D., K. Sager, E. Garst, M. Kang, K. Rubchinsky, and K. Dawson, 1997a. “Is Empathy Induced Helping Due to Self-Other Merging?,” *Journal of Personality and Social Psychology* 73: 495–509.
+* Batson, C.D., S. Early, and G.Salvarini, 1997b. “Perspective Taking: Imagining how Another Feels versus Imagining how You Would Feel,” *Personality and Social Personality Bulletin*, 23: 751–758.
+* Batson, C.D., D. Lishner, A.Carpenter, L. Dulin, S. Harjusola-Wevv, E. L. Stocks, S. Gale, O. Hassan, and B. Sampat, 2003. “‘…As you Would Have Them Do Unto You’: Does Imagining Yourself in the Other’s Place Stimulate Moral Action?,” *Personality and Social Psychology Bulletin*, 29: 1190–1201.
+* Bierhoff, H.-W., 2002. *Prosocial Behavior*, East Sussex: Psychology Press.
+* Blair, R., 1996. “Brief Report: Morality in the Autistic Child,” *Journal of Autism and Developmental Disorders* 26: 571–579.
+* Blair, R., D. Mitchell, and D. Blair, 2005. *The Psychopath*, Oxford: Blackwell Publishing.
+* Bloom, P., 2016. *Against Empathy: The Case for Rational Compassion*, New York: Ecco.
+* Borg, E., 2007. “If Mirror Neurons Are the Answer, What was the Question?” *Journal of Consciousness Studies*, 14: 5–19.
+* Breithaupt, F., 2009. *Kulturen der Empathie*, Frankfurt a. M.: Suhrkamp.
+* Bruneau, E. and R. Saxe. 2012. “The Power of Being Heard: The Benefits of ‘;Perspective-Giving’; in the Context of Intergroup Conflict,” *Journal of Experimental Social Psychology*, 48: 855–866.
+* Choplan, B., M. McCain, J. Carbonell, and R. Hagen, 1985. “Empathy: Review of Available Measures,” *Journal of Personality and Social Psychology*, 48: 635–653.
+* Churchland, P., 1970. “The Logical Character of Action-Explanations,” *The Philosophical Review*, 79, 214–236.
+* Cialdini, R.B., S.L. Brown, B.P. Lewis, C. Luce, and S.L. Neuberg, 1997. “Reinterpreting the Empathy-Altruism Relationship: When One Into One Equals Oneness,” *Journal of Personality and Social Psychology*, 73: 481–494.
+* Cikara, M., E. Bruneau, J.J. Van Bavel, and R. Saxe. 2014. “Their Pain Gives Us Pleasure: How Intergroup Dynamics Shape Empathic Failures and Counter–Empathic Responses,” *Journal of Experimental Social Psychology*, 55: 110–115.
+* Collingwood, R.G., 1946. *The Idea of History*, Oxford: Clarendon Press.
+* Coplan, A., 2011. “Understanding Empathy: Its Features and Effects,” in *Empathy: Philosophical and Psychological Perspectives*, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 3–18.
+* Coplan, A. and P. Goldie (eds.), 2011. *Empathy: Philosophical and Psychological Perspectives*, Oxford: Oxford University Press.
+* Cronbach, L., 1955. “Processes Affecting Scores on ‘Understanding of Others’ and ‘Assumed Similarity’,” *Psychological Bulletin*, 52: 177–193.
+* Csibra, F., 2007. “Action Mirroring and Action Interpretation: An Alternative Account,” in *Sensorimotor Foundations of Higher Cognition (Attention and Performance XII)*, ed. P. Haggard, Y. Rosetti and M. Kawato, 435–459. Oxford: Oxford University Press.
+* Currie, G., and I. Ravenscroft, 2002. *Recreative Minds*, Oxford: Clarendon Press.
+* Curtis, R. and G. Koch, 2009. *Einfühlung: Zur Geschichte und Gegenwart eines ästhetischen Konzepts*, München: Wilhelm Fink Verlag.
+* Danto, Arthur, 1965. *Analytical Philosophy of History*, Cambridge: Cambridge University Press.
+* D’Arms, J., 2011. “Empathy, Approval, and Disapproval in Moral Sentimentalism,” *Sourthern Journal of Philosophy* (Supplementary Volume), 49: 134–141.
+* Darwall, S., 1998. “Empathy, Sympathy, and Care,” *Philosophical Studies*, 89: 261–282.
+* –––, 2006. *The Second-Person Standpoint: Morality, Respect, and Accountability*, Cambridge, MA: Harvard University Press.
+* Davies M., and T. Stone (eds.), 1995. *Folk Psychology*, Oxford: Blackwell Publishers.
+* Davis, M., 1980. “A Multidimensional Approach to Individual Differences in Empathy”. *JSAS Catalog of Selected Documents in Psychology*, 10: 85.
+* –––, 1983. “Measuring Individual Differences in Empathy: Evidence for a Multidimensional Approach,” *Journal of Personality and Social Psychology*, 44: 113–126.
+* –––, 1994. *Empathy: A Social Psychological Approach*, Boulder: Westview Press.
+* Davis, M. and L. Kraus, 1997. “Personality and Empathic Accuracy,” in *Empathic Accuracy*, W. Ickes (ed.), New York/London: Guilford Press, 144–168.
+* Debes, R., 2010. “Which Empathy? Limitations in the Mirrored ”Understanding“ of Emotions,” *Synthese*, 175: 219–239.
+* –––, 2012. “Recasting Scottish Sentimentalism: The Pecularity of Moral Approval,” *Journal of Scottish Philosophy*, 10(1): 91–115.
+* –––, 2017. “The Authority of Empathy (Or How to Ground Sentimentalism),” in *Ethical Sentimentalism: New Perspectives*, R. Debes and K. Stueber (eds.), Cambridge: Cambridge University Press, 171–191.
+* Decety, J. 2010, “To What Extent is the Experience of Empathy Mediated by Shared Neural Circuits?,” *Emotion Review*, 2(3): 204–207.
+* –––, 2012. *Empathy: From Bench to Bedside*, Cambridge, MA: MIT Press.
+* Decety, J. and J.M. Cowell, 2015. “Empathy, Justice, and Moral Behavior,” *AJOB Neuroscience*, 6: 3–14.
+* Decety, J. and C. Lamm, 2006. “Human Empathy through the Lens of Social Neuroscience,” *The Scientific World Journal*, 6: 1146–1163.
+* Decety, J. and W. Ickes, 2009. *The Social Neuroscience of Empathy*, Cambridge, MA: MIT Press.
+* Decety, J. and K.J. Joder, 2016. “Empathy and Motivation for Justice: Cognitive Empathy and Concern, But Not Emotional Empathy, Predict Sensitivity to Injustice for Others,” *Social Neuroscience*, 11: 1–14.
+* Deigh, J., 1996. “Empathy and Universalizability,” in *Mind and Morals*, L. May, M. Friedman and A. Clark (eds.), Cambridge, MA: MIT Press, 199–219.
+* –––, 2011. “Empathy, Justice, and Jurisprudence,”*The Southern Journal of Philosophy*, 49 (Spindel Supplement): 73–90.
+* –––, 2018. “Is Empathy Required for Making Moral Judgment?,” in *Forms of Fellow Feeling: Empathy, Sympathy and Moral Agency*, N. Roughley and T. Schramme (eds.), Cambridge: Cambridge University Press, 245–264.
+* Deimling, W., 2017. “Hutchinson’s and Kant’s Critique of Sympathy,” in *Kant and the Scottish Enlightenment*, E. Robinson and C.W. Suprenant (eds.), New York: Routledge, 55–780.
+* Deonna, J.A., 2007. “The Structure of Empathy,” *Journal of Moral Philosophy*, 4: 99–116.
+* De Waal, Fr., 2006. *Primates and Philosophers: How Morality Evolved*, Princeton, N.J.: Princeton University Press.
+* –––., 2009. *The Age of Empathy: Nature’s Lessons for a Kinder Society*, New York: Random House.
+* DeVignemont, F., and T. Singer, 2006. “The Empathic Brain: How, When, and Why?” *Trends in Cognitive Sciences*, 10: 435–441.
+* Dilthey, W., 1961–. *Gesammelte Schriften*, 15 vols. Leipzig: Teubner Verlagsgesellschaft.
+* Dray, W., 1957. *Laws and Explanation in History*, Oxford: Clarendon Press.
+* –––, 1995. *History as Re-enactment*, Oxford: Oxford University Press.
+* Droysen, J.G., 1977. *Historik*, Stuttgart: Frommann-Holzboog.
+* Dymont, R., 1949. “A Scale of Measurement of Empathic Ability,” *Journal of Consulting Psychology*, 13: 127–133.
+* Eisenberg, N., 2000a. “Empathy and Sympathy,” M. Lewis and J.M. Haviland-Jones (eds.), *Handbook of Emotions*, New York/London: Guilford Press, 677–691.
+* –––, 2000b. “Emotion, Regulation, and Moral Development,” *Annual Review of Psychology*, 51: 665–697.
+* Eisenberg, N., and J. Strayer (eds.), 1987. *Empathy and Its Development*, Cambridge: Cambridge University Press.
+* Eisenberg, N., and P.A. Miller, 1987. “Empathy, Sympathy, and Altruism: Empirical and Conceptual Links,” ed. N. Eisenberg,and J. Strayer, *Empathy and Its Development*, 292–316. Cambridge: Cambridge University Press.
+* Eisenberg, N. and R. Fabes, 1998. “Prosocial Development,” W. Damon and N. Eisenberg (eds.), *Handbook of Child Psychology* (Volume 3: Social, Emotional and Personality Development), 701–778. New York: Wiley.
+* Eisenberg, N., B. Murphy, and S. Shepard, 1997. “The Development of Empathic Accuracy,” in *Empathic Accuracy*, W. Ickes (ed.), New York/London: Guilford Press, 73–116.
+* Frazer, M., 2010. *The Enlightenment of Sympathy: Justice and the Moral Sentiments in the Eighteenth Century and Today*, Oxford: Oxford University Press.
+* Fricke, C., 2005. “Genesis und Geltung moralischer Normen: Ein Gedankenexperiment von Adam Smith,” in *Adam Smith als Moralphilosoph*, C. Fricke and H.P. Schütt (eds.), Berlin/New York: DeGruyter, 33–63.
 * Frith, U., and C.D. Frith, 2003. “Development and Neurophysiology of Mentalizing,” Philosophical Transactions of the Royal Society, Series B, 358: 459–473.
-* Fuchs, T., 2019. “Empathy, Group Identity, and the Mechanisms of Exclusion: An Investigation into the Limits of Empathy,” _Topoi_, 38: 239–250.
-* Gadamer, H.-G., 1989. _Truth and Method_, New York: Crossroad Publishing.
-* Gallagher, S., 2012. “Neurons, Neonates, and Narrativ: From Embodied Resonance to Empathic Understanding,” in _Moving Ourselves, Moving Others: Motion and Emotion in Intersubjectivity, Consciousness, and Language_, A. Foolen, U, Lüdtke, t. Racine and J. Zlatev (eds.), Amsterdam/Philadelphia: John Benjamins Publishing Company, 165–196.
-* Gallagher, S., and D. Hutto, 2008. “Understanding Others Through Primary Interaction and Narrative Practice,” in _The Shared Mind: Perspectives on Intersubjectivity_, J. Zlatev, T. Racine, C. Sinha, and E. Itkonen (eds.), Amsterdam/Philadelphia: John Benjamins Publishing Company, 17–38.
-* Gallese, V., 2001. “The ‘Shared Manifold’ Hypothesis: From Mirror Neurons to Empathy,” _Journal of Consciousness Studies_, 8: 33–50.
-* –––, 2003a. “The Roots of Empathy: The Shared Manifold Hypothesis and the Neural Basis of Intersubjectivity,” _Psychopathology_, 36: 171–180.
-* –––, 2003b. “The Manifold Nature of Interpersonal Relations: The Quest for a Common Mechanism,” _Philosophical Transactions of the Royal Society_, 358: 517–528.
-* –––, 2016. “Finding the Body in the Brain: From Simulation Theory to Embodied Simulation,” in _Goldman and His Critics_, B. McLaughlin and H.K. Kornblith (eds.), Oxford: Wiley, 297–314.
-* Gallese, V., C. Keysers, and G. Rizzolatti, 2004. “A Unifying View of the Basis of Social Cognition,” _Trends in Cognitive Science_, 8: 396–403.
-* Galinsky, A. and G. Moskowitz, 2001. “Perspective Taking: Decreasing Stereotype Expression, Stereotype Accessibility, and In–Group Favoritism,” _Journal of Personality and Social Psychology_, 78: 708–724.
+* Fuchs, T., 2019. “Empathy, Group Identity, and the Mechanisms of Exclusion: An Investigation into the Limits of Empathy,” *Topoi*, 38: 239–250.
+* Gadamer, H.-G., 1989. *Truth and Method*, New York: Crossroad Publishing.
+* Gallagher, S., 2012. “Neurons, Neonates, and Narrativ: From Embodied Resonance to Empathic Understanding,” in *Moving Ourselves, Moving Others: Motion and Emotion in Intersubjectivity, Consciousness, and Language*, A. Foolen, U, Lüdtke, t. Racine and J. Zlatev (eds.), Amsterdam/Philadelphia: John Benjamins Publishing Company, 165–196.
+* Gallagher, S., and D. Hutto, 2008. “Understanding Others Through Primary Interaction and Narrative Practice,” in *The Shared Mind: Perspectives on Intersubjectivity*, J. Zlatev, T. Racine, C. Sinha, and E. Itkonen (eds.), Amsterdam/Philadelphia: John Benjamins Publishing Company, 17–38.
+* Gallese, V., 2001. “The ‘Shared Manifold’ Hypothesis: From Mirror Neurons to Empathy,” *Journal of Consciousness Studies*, 8: 33–50.
+* –––, 2003a. “The Roots of Empathy: The Shared Manifold Hypothesis and the Neural Basis of Intersubjectivity,” *Psychopathology*, 36: 171–180.
+* –––, 2003b. “The Manifold Nature of Interpersonal Relations: The Quest for a Common Mechanism,” *Philosophical Transactions of the Royal Society*, 358: 517–528.
+* –––, 2016. “Finding the Body in the Brain: From Simulation Theory to Embodied Simulation,” in *Goldman and His Critics*, B. McLaughlin and H.K. Kornblith (eds.), Oxford: Wiley, 297–314.
+* Gallese, V., C. Keysers, and G. Rizzolatti, 2004. “A Unifying View of the Basis of Social Cognition,” *Trends in Cognitive Science*, 8: 396–403.
+* Galinsky, A. and G. Moskowitz, 2001. “Perspective Taking: Decreasing Stereotype Expression, Stereotype Accessibility, and In–Group Favoritism,” *Journal of Personality and Social Psychology*, 78: 708–724.
 * Gazzola, V., L. Aziz-Zadeh, and C. Keysers, 2006. “Empathy and the Somatotopic Auditory Mirror System in Humans,” Current Biology 16: 1824–1829.
-* Goldie, P., 2000. _The Emotions_, Oxford: Oxford University Press.
-* –––, 2011. “Anti-Empathy,” in _Empathy: Philosophical and Psychological Perspectives_, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 302–317.
-* Goldman, A., 2002. “Simulation Theory and Mental Concepts,” in _Simulation and Knowledge of Action_, ed. J. Dokic and J. Proust, 1–19. Amsterdam/Philadelphia: John Benjamins Publishing Company.
-* –––, 2006. _Simulating Minds: The Philosophy, Psychology, and Neuroscience of Mindreading_, Oxford: Oxford University Press.
-* –––, 2009. “Mirroring, Simulating, and Mindreading,” _Mind and Language_, 24: 235–252.
-* –––, 2011. “Two Routes to Empathy: Insights from Cognitive Neuroscience,” in _Empathy: Philosophical and Psychological Perspectives_, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 31–44.
-* Gordon, Robert M., 1995a. “The Simulation Theory: Objections and Misconceptions,” in _Folk Psychology_, M. Davies and T. Stone (eds.), Oxford: Blackwell Publishers, 100–122.
-* –––, 1995b. “Simulation Without Introspection from Me to You,” in _Mental Simulation_, M. Davies and T. Stone (eds.), Oxford: Blackwell Publishers, 53–67.
-* –––, 2000. “Sellars’s Rylean Revisited,” _Protosoziologie_, 14: 102–114.
-* Gopnik, A. and A.N. Meltzoff, 1997. _Words, Thoughts and Theories_: Cambridge, MA: MIT Press.
-* Greif, E. and R. Hogan, 1973. “The Theory and Measurement of Empathy,” _Journal of Counseling Psychology_, 20: 280–284.
-* Grimm, S., 2016. “How Understanding People Differs from Understanding the Natural World,” _Philosophical Issues_ (Noûs Supplement), 26: 209–225.
-* Grimm, S., C. Baumberger, and S. Ammon, 2017. _Explaining Understanding: New Perspectives from Epistemology and Philosophy of Science_, New York: Routledge.
-* Grondin, J., 1994. _Introduction to Philosophical Hermeneutics_, New Haven: Yale University Press.
-* Halpern, J., 2001. _From Detached Concern to Empathy: Humanizing Medical Practice_, New York: Oxford University Press.
-* Heal, J., 2003. _Mind, Reason and Imagination_, Cambridge: Cambridge University Press.
-* Heider, F., 1958: _The Psychology of Interpersonal Relations_, New York: Wiley.
-* Hempel, C., 1965. _Aspects of Scientific Explanations_, New York: Free Press.
-* Henderson, D., 1993. _Interpretation and Explanation in the Human Sciences_, Albany: State University of New York Press.
+* Goldie, P., 2000. *The Emotions*, Oxford: Oxford University Press.
+* –––, 2011. “Anti-Empathy,” in *Empathy: Philosophical and Psychological Perspectives*, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 302–317.
+* Goldman, A., 2002. “Simulation Theory and Mental Concepts,” in *Simulation and Knowledge of Action*, ed. J. Dokic and J. Proust, 1–19. Amsterdam/Philadelphia: John Benjamins Publishing Company.
+* –––, 2006. *Simulating Minds: The Philosophy, Psychology, and Neuroscience of Mindreading*, Oxford: Oxford University Press.
+* –––, 2009. “Mirroring, Simulating, and Mindreading,” *Mind and Language*, 24: 235–252.
+* –––, 2011. “Two Routes to Empathy: Insights from Cognitive Neuroscience,” in *Empathy: Philosophical and Psychological Perspectives*, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 31–44.
+* Gordon, Robert M., 1995a. “The Simulation Theory: Objections and Misconceptions,” in *Folk Psychology*, M. Davies and T. Stone (eds.), Oxford: Blackwell Publishers, 100–122.
+* –––, 1995b. “Simulation Without Introspection from Me to You,” in *Mental Simulation*, M. Davies and T. Stone (eds.), Oxford: Blackwell Publishers, 53–67.
+* –––, 2000. “Sellars’s Rylean Revisited,” *Protosoziologie*, 14: 102–114.
+* Gopnik, A. and A.N. Meltzoff, 1997. *Words, Thoughts and Theories*: Cambridge, MA: MIT Press.
+* Greif, E. and R. Hogan, 1973. “The Theory and Measurement of Empathy,” *Journal of Counseling Psychology*, 20: 280–284.
+* Grimm, S., 2016. “How Understanding People Differs from Understanding the Natural World,” *Philosophical Issues* (Noûs Supplement), 26: 209–225.
+* Grimm, S., C. Baumberger, and S. Ammon, 2017. *Explaining Understanding: New Perspectives from Epistemology and Philosophy of Science*, New York: Routledge.
+* Grondin, J., 1994. *Introduction to Philosophical Hermeneutics*, New Haven: Yale University Press.
+* Halpern, J., 2001. *From Detached Concern to Empathy: Humanizing Medical Practice*, New York: Oxford University Press.
+* Heal, J., 2003. *Mind, Reason and Imagination*, Cambridge: Cambridge University Press.
+* Heider, F., 1958: *The Psychology of Interpersonal Relations*, New York: Wiley.
+* Hempel, C., 1965. *Aspects of Scientific Explanations*, New York: Free Press.
+* Henderson, D., 1993. *Interpretation and Explanation in the Human Sciences*, Albany: State University of New York Press.
 * –––, 2011. “Let’s Be Flexible: Our Interpretive/Explanatory Toolbox, or In Praise of Using a Range of Tools,” _Journal of the Philosophy of History_5: 261–299.
-* Henderson, D., and T. Horgan, 2000. “Simulation and Epistemic Competence,” in _Empathy and Agency: The Problem of Understanding in the Human Sciences_, H.H. Kögler and K. Stueber (eds.), Boulder: Westview Press, 119–143.
-* Hickok, G., 2008. “Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans,” _Journal of Cognitive Neuroscience_, 21: 1229–1243.
-* –––, 2014. _The Myth of Mirror Neurons: The Real Neuroscience of Cognition and Communication_, New York: W.W. Norton and Company.
-* Hoffman, M., 1981. “Is Altruism Part of Human Nature?,” _Journal of Personality and Social Psychology_, 40: 121–137.
-* –––, 2000. _Empathy and Moral Development_, Cambridge: Cambridge University Press.
-* –––, 2011. “Empathy, Justice and the Law,” in _Empathy: Philosophical and Psychological Perspectives_, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 230–254.
-* –––, 2014. “Empathy, Justice and Social Change,” in _Empathy and Morality_, H. Maibom (ed.), Oxford: Oxford University Press, 71–96.
-* Hogan, R., 1969. “Development of an Empathy Scale,” _Journal of Consulting and Clinical Psychology_, 33: 307–316.
-* Hollan, D.W., 2012. “Emerging Issues in the Cross-Cultural Study of Empathy,” _Emotion Review_, 4: 70–78.
-* Hollan, D.W. and C.J. Throop, 2008. “Whatever Happened to Empathy? Introduction,” _Ethos_, 36: 385–401.
-* Hollan, D.W. and C.J. Throop, 2011. _The Anthropology of Empathy: Experiencing the Lives of Others in Pacific Societies_, New York: Berghahn Books.
-* Holz-Ebeling, F. and M. Steinmetz, 1995. “Wie brauchbar sind die vorliegenden Fragebogen zur Messung von Empathie? Kritische Analysen unter Berücksichtigung der Iteminhalte,” _Zeitschrift für Differentielle und Diagnostische Psychologie_, 16: 11–32.
-* Hume, D., 1739–40 \[1978]. _A Treatise of Human Nature_, Oxford: Oxford University Press, 1978.
-* –––, 1748 \[1983]. _An Enquiry Concerning the Principles of Morals_, Indianapolis: Hackett, 1983.
-* Husserl, E., 1931 \[1963]. _Cartesianische Meditationen und Pariser Vorträge_, Gesammelte Werke, vol. 1. The Hague: Martinus Nijhoff, 1963; translated as _Cartesian Meditations_, The Hague: Martinus Nijhoff, 1969.
-* Hutto, D., 2008. _Folk-Psychological Narratives, The Sociocultural Basis of Understanding Reasons_, Cambridge, MA: MIT Press.
-* Iacoboni, M., 2011. “Within Each Other: Neural Mechanisms for Empathy in the Primate Brain,”In _Empathy: Philosophical and Psychological Perspectives_, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 45–57.
+* Henderson, D., and T. Horgan, 2000. “Simulation and Epistemic Competence,” in *Empathy and Agency: The Problem of Understanding in the Human Sciences*, H.H. Kögler and K. Stueber (eds.), Boulder: Westview Press, 119–143.
+* Hickok, G., 2008. “Eight Problems for the Mirror Neuron Theory of Action Understanding in Monkeys and Humans,” *Journal of Cognitive Neuroscience*, 21: 1229–1243.
+* –––, 2014. *The Myth of Mirror Neurons: The Real Neuroscience of Cognition and Communication*, New York: W.W. Norton and Company.
+* Hoffman, M., 1981. “Is Altruism Part of Human Nature?,” *Journal of Personality and Social Psychology*, 40: 121–137.
+* –––, 2000. *Empathy and Moral Development*, Cambridge: Cambridge University Press.
+* –––, 2011. “Empathy, Justice and the Law,” in *Empathy: Philosophical and Psychological Perspectives*, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 230–254.
+* –––, 2014. “Empathy, Justice and Social Change,” in *Empathy and Morality*, H. Maibom (ed.), Oxford: Oxford University Press, 71–96.
+* Hogan, R., 1969. “Development of an Empathy Scale,” *Journal of Consulting and Clinical Psychology*, 33: 307–316.
+* Hollan, D.W., 2012. “Emerging Issues in the Cross-Cultural Study of Empathy,” *Emotion Review*, 4: 70–78.
+* Hollan, D.W. and C.J. Throop, 2008. “Whatever Happened to Empathy? Introduction,” *Ethos*, 36: 385–401.
+* Hollan, D.W. and C.J. Throop, 2011. *The Anthropology of Empathy: Experiencing the Lives of Others in Pacific Societies*, New York: Berghahn Books.
+* Holz-Ebeling, F. and M. Steinmetz, 1995. “Wie brauchbar sind die vorliegenden Fragebogen zur Messung von Empathie? Kritische Analysen unter Berücksichtigung der Iteminhalte,” *Zeitschrift für Differentielle und Diagnostische Psychologie*, 16: 11–32.
+* Hume, D., 1739–40 \[1978]. *A Treatise of Human Nature*, Oxford: Oxford University Press, 1978.
+* –––, 1748 \[1983]. *An Enquiry Concerning the Principles of Morals*, Indianapolis: Hackett, 1983.
+* Husserl, E., 1931 \[1963]. *Cartesianische Meditationen und Pariser Vorträge*, Gesammelte Werke, vol. 1. The Hague: Martinus Nijhoff, 1963; translated as *Cartesian Meditations*, The Hague: Martinus Nijhoff, 1969.
+* Hutto, D., 2008. *Folk-Psychological Narratives, The Sociocultural Basis of Understanding Reasons*, Cambridge, MA: MIT Press.
+* Iacoboni, M., 2011. “Within Each Other: Neural Mechanisms for Empathy in the Primate Brain,”In *Empathy: Philosophical and Psychological Perspectives*, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 45–57.
 * Ickes, W., 1993. “Empathic Accuracy,” Journal of Personality 61: 587–610.
-* –––(ed.), 1997. _Empathic Accuracy_, New York/London: Guilford Press.
-* –––, 2003. _Everyday Mindreading_, New York. Prometheus Book.
-* Jacob, P., 2008. “What Do Mirror Neurons Contribute to Human Social Cognition?” _Mind and Language_, 23: 190–223.
-* –––, 2011. “The Direct–Perception Model of Empathy: A Critique,” _Review of Philosophy and Psychology_, 2: 519–540.
-* Johnson, J., J. Cheek, and R. Smither, 1983. “The Structure of Empathy,” _Journal of Personality and Social Psychology_, 45: 1299–1312.
-* Jolliffe, D. and D.P. Farrington, 2006. “Development and Validation of the Basic Empathy Scale,” _Journal of Adolescence_, 29: 589–611.
-* Jordon, R., Amir, D. and P. Bloom, 2016. “Are Empathy and Concern Psychologically Distinct?” _Emotion_, 16: 1107–1116.
-* Kain, W. and J. Perner, 2003. “Do children with ADHD not need their frontal lobes for theory of mind?: A review of brain imaging and neuropsychological studies,” in _The Social Brain: Evolution and Pathology_, M. Brüne, H. Ribbert, and W. Schiefenhövel (eds.), Chichester, UK: John Wiley, 197–230.
-* Kauppinen, A., 2014. “Empathy, Emotion Regulation, and Moral Judgment,”in _Empathy and Morality_, H. Maibom (ed.), Oxford: Oxford University Press, 97–121.
-* –––, 2017a. “Empathy and Moral Judgment,”, in _The Routledge Handbook of the Philosophy of Empathy_, New York: Routledge, 215–226.
-* –––, 2017b. “Sentimentalism, Blameworthiness, and Wrongdoing,” in _Ethical Sentimentalism: New Perspectives_, R. Debes and K. Stueber (eds.), Cambridge: Cambridge University Press, 133–152.
-* Keen, S., 2007. _Empathy and the Novel_, Oxford: Oxford University Press.
-* Kelly, D., S. Stich, K. Haley, S. Eng, and D. Fessler, 2007. “Harm, Affect, and the Moral/Conventional Distinction,” _Mind and Language_, 22: 117–131.
-* Kennett, J., 2002. “Autism, Empathy and Moral Agency,” _The Philosophical Quarterly_, 50: 340–357.
-* –––, 2011. “Imagining Reasons,” _Southern Journal of Philosophy_ (Supplementary Volume), 49: 181–192.
-* Keysers, Chr., 2011. _The Empathic Brain: How the Discovery of Mirror Neurons Changes our Understanding of Human Nature_, Social Brain Press.
-* Kim, J., 1984. “Self-Understanding and Rationalizing Explanations,” _Philosophia Naturalis_, 21: 309–320.
-* –––, 1998. “Reasons and the First Person,” in _Human Action, Deliberation, and Causation_, J. Bransen and St. Cuypers (eds.), Dordrecht: Kluwer Academic Publishers, 67–87.
-* Kögler, H.-H. and K. Stueber, 2000. _Empathy and Agency: The Problem of Understanding in the Human Sciences_, Boulder: Westview Press.
-* Kteily, N. and E. Bruneau, 2017. “Darker Demons of Our Nature: The Need to (Re-)Focus Attention on Blatant Forms of Dehumanization,” _Current Directions in Psychological Science_, 26: 487–494.
-* Lamm, C., D. D. Batson, and J. Decety, 2007. “The Neural Substrate of Human Empathy: Effects of Perspective-Taking and Cognitive Appraisal,” _Journal of Cognitive Neuroscience_, 19: 42–58.
-* Lanzoni, S., 2018. _Empathy: A History_, New Haven: Yale University Press.
-* Leslie, A.M., R. Mallon, and J.A. DiCorcia, 2006. “Transgressors, Victims, and Cry Babies: Is Basic Moral Judgment Spared in Autism?,” _Social Neuroscience_, 1: 270–283.
-* Lipps, T., 1903a. “Einfühlung, Innere Nachahmung und Organempfindung,” _Archiv für gesamte Psychologie_ 1: 465–519; translated as “Empathy, Inner Imitation and Sense-Feelings,” in _A Modern Book of Esthetics_, 374–382. New York: Holt, Rinehart and Winston, 1979.
-* –––, 1903b. _Aesthetik_ (Volume 1), Hamburg: Voss Verlag.
-* –––, 1905. _Aesthetik_ (Volume 2), Hamburg: Voss Verlag.
-* –––, 1906. “Einfühlung und Ästhetischer Genuß,” _Die Zukunft_, 16: 100–114.
-* –––, 1907. “Das Wissen von Fremden Ichen,” _Psychologische Untersuchungen_, 1: 694–722.
-* –––, 1912/13. “Zur Einfühlung,” _Psychologische Untersuchungen_, 2: 111–491.
-* Maibom, H., 2005: “Moral Unreason: The Case of Psychopathy,” _Mind and Language_, 20: 237–257.
-* –––, 2007. “The Presence of Others,” _Philosophical Studies_, 132: 161–190.
-* –––, 2009. “Feeling for Others: Empathy, Sympathy, and Morality” _Inquiry_, 52: 483–499.
-* ––– (ed.), 2014. _Morality and Empathy_, Oxford: Oxford University Press.
-* –––, 2017. “Psychopathy: Morally Incapacitated Persons,” in _Handbook of the Philosophy of Medicine_, Th. Schramme and S. Edwards (eds.), Berlin/New York: Springer, 1131–1144.
-* Makkreel, R., 2000. “From Simulation to Structural Transposition: A Diltheyan Critique of Empathy and Defense of _Verstehen_”. In _Empathy and Agency: The Problem of Understanding in the Human Sciences_, H.H. Kögler and K. Stueber (eds.), Boulder: Westview Press, 181–193.
-* Marsh, A., 2014. “Empathy and Moral Deficits in Psychopaths,” in _Empathy and Morality_, H. Maibom (ed.), Oxford: Oxford University Press, 138–154.
-* Matravers, D., 2018. “ The Object of Empathic Emotions,” in _Philosophical Perspectives on Empathy: Theoretical Approaches and Empirical Challenges_, D. Matravers and A. Waldow (eds.), New York: Routledge, 60–73.
-* May, J., 2018. _Regard for Reason in the Moral Mind_, Oxford: Oxford University Press.
-* May, L., M. Friedman, and A. Clark, 1996. _Mind and Morals_, Cambridge, MA: MIT Press.
-* McGeer, V., 2008. “Varieties of Moral Agency: Lessons from Autism,” in _Moral Psychology_ (Volume 3), W. Sinnott-Armstrong (ed.), Cambridge, Mass.: MIT Press, 227–248.
-* Mead. G.H., 1934. _Mind, Self, and Society_, Chicago: University of Chicago Press.
-* Mehrabian, A. and N. Epstein, 1972. “A Measure of Emotional Empathy,” _Journal of Personality_, 40: 525–543.
-* Mehrabian, A., A.L. Young, and S. Sato, 1988. “Emotional Empathy and Associated Individual Differences,” _Current Psychology_: _Research and Review_, 7: 221–240.
-* Meltzoff, A., and R. Brooks, 2001. “‘Like Me’ as a Building Block for Understanding Other Minds: Bodily Acts, Attention, and Intention,” in _Intentions and Intentionality_, ed. B. Malle, L. Moses and D. Baldwin, 171–191. Cambridge, MA: MIT Press.
-* Nichols, S., 2001. “Mindreading and the Cognitive Architecture underlying Altruistic Motivation,” _Mind & Language_, 16: 425–455.
-* –––, 2004. _Sentimental Rules: On the Natural Foundation of Moral Judgment_, Oxford: Oxford University Press.
-* Nichols, S., and S. Stich, 2003. _Mindreading_, Oxford: Clarendon Press.
-* Neuberg, S.L., R. Cialdini, S.L. Brown, C. Luce, and B. Sagarin, 1997. “Does Empathy Lead to Anything More Than Superficial Helping?,” _Journal of Personality and Social Psychology_ 73: 510–516.
-* Oxley, J.C., 2011. _The Moral Dimensions of Empathy: Limits and Applications in Ethical Theory and Practice_, Basingstoke: Palgrave Macmillan.
-* Persson, I., and J. Savulescu, 2018. “The Moral Importance of Reflective Empathy,” _Neuroethics_, 11: 183–193.
-* Prandl, A., 1910. _Die Einfühlung_, Leipzig: Verlag von Johann Ambrosius Barth.
-* Preston, S., and F. de Waal, 2002a. “Empathy: Its Ultimate and Proximate Bases,” _Behavioral and Brain Sciences_, 25: 1–72.
-* –––, 2002b. “Communications of Emotions and the Possibility of Empathy in Animals,” ed. S. Post, L. Underwood, J. Schloss, and W. Hurblut, _Altruism and Altruistic Love: Science, Philosophy, and Religion in Dialogue_, 284–308. Oxford: Oxford University Press.
-* Prinz, J., 2011a. “Is Empathy Necessary for Morality?” in _Empathy: Philosophical and Psychological Perspectives_, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 211–229.
-* –––, 2011b. “Against Empathy,”_The Southern Journal of Philosophy_, 49 (Spindel Supplement): 214–233.
-* Ravenscroft, I., 1998. “What is it Like to be Someone Else? Simulation and Empathy,” _Ratio_, 11: 170–185.
-* Rhodes, M. and L. Chalik, 2013. “Social Categories as Markers of Intrinsic Interpersonal Obligations,” _Psychological Science_, 26: 999–1006.
-* Rifkin, J., 2009. _The Empathic Civilization: The Race to Global Consciousness in a World in Crisis_, New York: Tarcher/Penguin.
-* Rizzolatti, G. and L. Craighero, 2004. “The Mirror Neuron System,” _Annual Review Neuroscience_, 27: 169–192.
-* Rizzolatti, G. and C. Sinigaglia, 2008. _Mirrors in the Brain: How our Minds Share Actions and Emotions_, Oxford: Oxford University Press.
-* –––, 2016. “The Mirror Mechanism: A Basic Principle of Brain Function,” _Nature Review Neuroscience_, 17: 757–765.
-* Rogers, C., 1959. “A Theory of Therapy, Personality, and Interpersonal Relations, as Developed in the Client-Centered Framework,” in S. Koch (ed.), _Psychology: A Study of a Science_ (Vol. 3), New York: McGraw–Hill, 184–256.
-* –––, 1975. “Empathic: An Unappreciated Way of Being,” _The Counseling Psychologist_, 5: 2–10 (Reprinted in C. Rogers. 1980. _A Way of Being_, Boston: Houghton Mifflin, 137–164.
-* Roughley, N., 2018. “The Empathy in Moral Obligation: An Excercise in Creature Construction,” in _Forms of Fellow Feeling: Empathy, Sympathy and Moral Agency_, N. Roughley and T. Schramme (eds.), Cambridge: Cambridge University Press, 265–291.
-* Sayre-McCord, G., 1994. “On Why Hume’s 'General Point of View' Ins’t Ideal—And Shouldn’t Be,” _Social Philosophy and Policy_, 11: 202–228.
-* –––, 2013. “Hume and Smith on Sympathy, Approbation, and Moral Judgment,” _Social Philosophy and Policy_, 30: 208–236.
-* Sherman, N., 1998. “Empathy and Imagination,” _Midwest Studies in Philosophy_, 22: 82–119.
-* Seemann, A., 2011. _Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience_, Cambridge, MA: MIT Press.
-* Scheler, M., 1973. _Wesen und Form der Sympathie_, Bern/München: Francke Verlag; English translation, _The Nature of Sympathy_, London: Routledge & Kegan Paul 1954.
-* Schleiermacher, Fr., 1998. _Hermeneutics and Criticism_, edited by A. Bowie. Cambridge: Cambridge University Press.
-* Schopenhauer, A., 1995. _On the Basis of Morality_, Providence: Berghahn Books.
-* Simmons, A., 2014. “In Defense of the Moral Significance of Empathy,” _Ethical Theory and Moral Practice_, 17: 97–111.
-* Singer, T., and C. Lamm, 2009. “The Social Neuroscience of Empathy,” _The Year in Cognitive Neuroscience: Annals of the New York Academy of Sciences_, 1156, 81–96.
-* Slote, M., 2007. _The Ethics of Care and Empathy_, London: Routledge.
-* –––, 2010. _Moral Sentimentalism_, Oxford: Oxford University Press.
-* Smith, A., 1853. _The Theory of Moral Sentiments_, New York: August M. Kelley Publishers, 1966.
-* Sober, E. and D.S. Wilson, 1998. _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
-* Spinrad, T.L. and N.Eisenberg, 2014. “Empathy and Morality: A Developmental Psychology Perspective,” in _Empathy and Morality_, H. Maibom (ed.), Oxford: Oxford University Press, 59–70.
-* Stein, E., 1917. _Zum Problem der Einfühlung_, München: Kaffke Verlag, 1980; English translation, E. Stein, _On the Problem of Empathy_, Washington: ICS Publishers, 1989.
-* Stotland, E., 1969. “Exploratory Investigations of Empathy,” _Advances in Experimental Social Psychology_, (Vol. 4), L. Berkowitz (ed.), New York/London: Academic Press, 271–314.
-* Stueber, K., 2002. “The Psychological Basis of Historical Explanation: Reenactment, Simulation and the Fusion of Horizons,” _History and Theory_, 41: 24–42.
-* –––, 2006: _Rediscovering Empathy: Agency, Folk Psychology, and the Human Sciences_, Cambridge, MA: MIT Press.
-* –––, 2008. “Reasons, Generalizations, Empathy, and Narratives: The Epistemic Structure of Action Explanation,” _History and Theory_, 47: 31–43.
-* –––, 2009. “The Ethical Dimension of Folk-Psychology,” _Inquiry_, 52: 532–547.
-* –––, 2011a. “Imagination, Empathy, and Moral Deliberation: The Case of Imaginative Resistance,” _The Southern Journal of Philosophy_, 49 (Spindel Supplement): 156–180.
-* –––, 2011b. “Social Cognition and the Allure of the Second-Person Perspective: In Defense of Empathy and Simulation,” in _Joint Attention: New Developments in Psychology, Philosopy of Mind, and Social Neuroscience_, ed. A. Seemann, 265–292. Cambridge, MA: MIT Press.
-* –––, 2011c. “Moral Approval and the Dimensions of Empathy: Comments on Michael Slote’s _Moral Sentimentalism_,” _Analytic Philosophy_, 52: 328–336.
-* –––, 2012a. “Varieties of Empathy, Neuroscience and the Narrativist Challenge to the Theory of Mind Debate,” _Emotion Review_, 4: 55–63.
-* –––, 2012b.“Understanding versus Explanation: How to Think about the Distinction between the Human and the Natural Sciences,” _Inquiry_, 55: 17–32.
-* –––, 2017: “Smithian Constructivism: Elucidating the Reality of the Normative Domain,” in _Ethical Sentimentalism: New Perspectives_, R. Debes and K. Stueber (eds.), Cambridge, Cambridge University Press, 192–209.
-* Taft, R., 1955. “The Ability to Judge People,” _Psychological Bulletin_, 52: 1–23.
-* Titchener, E. B., 1909: _Lectures on the Experimental Psychology of Thought-Processes_, New York: Macmillan.
-* Tully, J. (ed.), 1988. _Meaning and Context: Quentin Skinner and his Critics_, Princeton: Princeton University Press.
-* Turiel, E., 1983. _The Development of Social Knowledge: Morality and Convention_, Cambridge: Cambridge University Press.
-* Throop, C.J., 2010. “Latitudes of Loss: On the Vicissitudes of Empathy,” _American Ethnologist_, 37: 771–782.
-* Vischer, R., 1873. “On the Optical Sense of Form: A Contribution to Aesthetics,” in _Empathy, Form, and Space_, H.F. Mallgrave and Eleftherios Ikonomou (eds., trans.), Santa Monica, CA: The Getty Center for the History of Art and the Humanities, 1994, 89–123.
-* Winch, P., 1958. _The Idea of a Social Science and its Relation to Philosophy_, London: Routledge and Kegan Paul.
-* Wispe, L., 1986. “The Distinction between Sympathy and Empathy: To Call Forth a Concept a Word is Needed,” in _Journal of Personality and Social Psychology_, 50: 314–321.
-* –––, 1987. “History of the Concept of Empathy,” in _Empathy and Its Development_, N. Eisenberg and J. Strayer (eds.), Cambridge: Cambridge University Press, 17–37.
-* –––, 1991. _The Psychology of Sympathy_, New York/London: Plenum Press.
-* Xu, X., X. Zuo, X. Wang, and S. Han, 2009. “Do You Feel My Pain? Racial Group Membership Modulates Empathic Neural Responses,” _Journal of Neuroscience_, 29: 8525–8529,
-* Zahavi, D., 2001. “Beyond Empathy: Phenomenological Approaches to Intersubjectivity,” _Journal of Consciousness Studies_, 8. 151–167.
-* –––, 2005. _Subjectivity and Selfhood: Investigating the First-Person Perspective_, Cambridge, MA: MIT Press.
-* –––, 2010. “Empathy, Embodiment and Interpersonal Understanding: From Lipps to Schutz,” _Inquiry_, 53: 285–306.
-* Zahavi, D., and S. Overgaard, 2012. “Empathy without Isomorphism: A Phenomenological Account,” in _Empathy: From Bench to Bedside_, J. Decety (ed.), Cambridge, MA: MIT Press, 3–20.
-* Zaki, J., 2014. “Empathy: A Motivated Account,” _Psychological Bulletin_, 140: 1608–1647.
-* Zaki, J. and K. Ochsner, 2012. “The Cognitive Neuroscience of Sharing and Understanding Others’ Emotions,” in _Empathy: From Bench to Bedside_, J. Decety (ed.), Cambridge, MA: MIT Press, 207–226.
-* Zalla, T., L. Barlassina, M. Buon, and M. Leboyer, 2011. “Moral Judment in Adults with Autism Spectrum Disorders,” _Cognition_, 12: 115–126.
-* Zhou, Q., C. Valiente, and N. Eisenberg, 2003. “Empathy and Its Measurement,” S.J. Lopez and C.R. Snyder (eds.), _Positive Psychological Assessment: A Handbook of Models and Measures_, Washington, DC: American Psychological Association, 269–284.
+* –––(ed.), 1997. *Empathic Accuracy*, New York/London: Guilford Press.
+* –––, 2003. *Everyday Mindreading*, New York. Prometheus Book.
+* Jacob, P., 2008. “What Do Mirror Neurons Contribute to Human Social Cognition?” *Mind and Language*, 23: 190–223.
+* –––, 2011. “The Direct–Perception Model of Empathy: A Critique,” *Review of Philosophy and Psychology*, 2: 519–540.
+* Johnson, J., J. Cheek, and R. Smither, 1983. “The Structure of Empathy,” *Journal of Personality and Social Psychology*, 45: 1299–1312.
+* Jolliffe, D. and D.P. Farrington, 2006. “Development and Validation of the Basic Empathy Scale,” *Journal of Adolescence*, 29: 589–611.
+* Jordon, R., Amir, D. and P. Bloom, 2016. “Are Empathy and Concern Psychologically Distinct?” *Emotion*, 16: 1107–1116.
+* Kain, W. and J. Perner, 2003. “Do children with ADHD not need their frontal lobes for theory of mind?: A review of brain imaging and neuropsychological studies,” in *The Social Brain: Evolution and Pathology*, M. Brüne, H. Ribbert, and W. Schiefenhövel (eds.), Chichester, UK: John Wiley, 197–230.
+* Kauppinen, A., 2014. “Empathy, Emotion Regulation, and Moral Judgment,”in *Empathy and Morality*, H. Maibom (ed.), Oxford: Oxford University Press, 97–121.
+* –––, 2017a. “Empathy and Moral Judgment,”, in *The Routledge Handbook of the Philosophy of Empathy*, New York: Routledge, 215–226.
+* –––, 2017b. “Sentimentalism, Blameworthiness, and Wrongdoing,” in *Ethical Sentimentalism: New Perspectives*, R. Debes and K. Stueber (eds.), Cambridge: Cambridge University Press, 133–152.
+* Keen, S., 2007. *Empathy and the Novel*, Oxford: Oxford University Press.
+* Kelly, D., S. Stich, K. Haley, S. Eng, and D. Fessler, 2007. “Harm, Affect, and the Moral/Conventional Distinction,” *Mind and Language*, 22: 117–131.
+* Kennett, J., 2002. “Autism, Empathy and Moral Agency,” *The Philosophical Quarterly*, 50: 340–357.
+* –––, 2011. “Imagining Reasons,” *Southern Journal of Philosophy* (Supplementary Volume), 49: 181–192.
+* Keysers, Chr., 2011. *The Empathic Brain: How the Discovery of Mirror Neurons Changes our Understanding of Human Nature*, Social Brain Press.
+* Kim, J., 1984. “Self-Understanding and Rationalizing Explanations,” *Philosophia Naturalis*, 21: 309–320.
+* –––, 1998. “Reasons and the First Person,” in *Human Action, Deliberation, and Causation*, J. Bransen and St. Cuypers (eds.), Dordrecht: Kluwer Academic Publishers, 67–87.
+* Kögler, H.-H. and K. Stueber, 2000. *Empathy and Agency: The Problem of Understanding in the Human Sciences*, Boulder: Westview Press.
+* Kteily, N. and E. Bruneau, 2017. “Darker Demons of Our Nature: The Need to (Re-)Focus Attention on Blatant Forms of Dehumanization,” *Current Directions in Psychological Science*, 26: 487–494.
+* Lamm, C., D. D. Batson, and J. Decety, 2007. “The Neural Substrate of Human Empathy: Effects of Perspective-Taking and Cognitive Appraisal,” *Journal of Cognitive Neuroscience*, 19: 42–58.
+* Lanzoni, S., 2018. *Empathy: A History*, New Haven: Yale University Press.
+* Leslie, A.M., R. Mallon, and J.A. DiCorcia, 2006. “Transgressors, Victims, and Cry Babies: Is Basic Moral Judgment Spared in Autism?,” *Social Neuroscience*, 1: 270–283.
+* Lipps, T., 1903a. “Einfühlung, Innere Nachahmung und Organempfindung,” *Archiv für gesamte Psychologie* 1: 465–519; translated as “Empathy, Inner Imitation and Sense-Feelings,” in *A Modern Book of Esthetics*, 374–382. New York: Holt, Rinehart and Winston, 1979.
+* –––, 1903b. *Aesthetik* (Volume 1), Hamburg: Voss Verlag.
+* –––, 1905. *Aesthetik* (Volume 2), Hamburg: Voss Verlag.
+* –––, 1906. “Einfühlung und Ästhetischer Genuß,” *Die Zukunft*, 16: 100–114.
+* –––, 1907. “Das Wissen von Fremden Ichen,” *Psychologische Untersuchungen*, 1: 694–722.
+* –––, 1912/13. “Zur Einfühlung,” *Psychologische Untersuchungen*, 2: 111–491.
+* Maibom, H., 2005: “Moral Unreason: The Case of Psychopathy,” *Mind and Language*, 20: 237–257.
+* –––, 2007. “The Presence of Others,” *Philosophical Studies*, 132: 161–190.
+* –––, 2009. “Feeling for Others: Empathy, Sympathy, and Morality” *Inquiry*, 52: 483–499.
+* ––– (ed.), 2014. *Morality and Empathy*, Oxford: Oxford University Press.
+* –––, 2017. “Psychopathy: Morally Incapacitated Persons,” in *Handbook of the Philosophy of Medicine*, Th. Schramme and S. Edwards (eds.), Berlin/New York: Springer, 1131–1144.
+* Makkreel, R., 2000. “From Simulation to Structural Transposition: A Diltheyan Critique of Empathy and Defense of *Verstehen*”. In *Empathy and Agency: The Problem of Understanding in the Human Sciences*, H.H. Kögler and K. Stueber (eds.), Boulder: Westview Press, 181–193.
+* Marsh, A., 2014. “Empathy and Moral Deficits in Psychopaths,” in *Empathy and Morality*, H. Maibom (ed.), Oxford: Oxford University Press, 138–154.
+* Matravers, D., 2018. “ The Object of Empathic Emotions,” in *Philosophical Perspectives on Empathy: Theoretical Approaches and Empirical Challenges*, D. Matravers and A. Waldow (eds.), New York: Routledge, 60–73.
+* May, J., 2018. *Regard for Reason in the Moral Mind*, Oxford: Oxford University Press.
+* May, L., M. Friedman, and A. Clark, 1996. *Mind and Morals*, Cambridge, MA: MIT Press.
+* McGeer, V., 2008. “Varieties of Moral Agency: Lessons from Autism,” in *Moral Psychology* (Volume 3), W. Sinnott-Armstrong (ed.), Cambridge, Mass.: MIT Press, 227–248.
+* Mead. G.H., 1934. *Mind, Self, and Society*, Chicago: University of Chicago Press.
+* Mehrabian, A. and N. Epstein, 1972. “A Measure of Emotional Empathy,” *Journal of Personality*, 40: 525–543.
+* Mehrabian, A., A.L. Young, and S. Sato, 1988. “Emotional Empathy and Associated Individual Differences,” *Current Psychology*: *Research and Review*, 7: 221–240.
+* Meltzoff, A., and R. Brooks, 2001. “‘Like Me’ as a Building Block for Understanding Other Minds: Bodily Acts, Attention, and Intention,” in *Intentions and Intentionality*, ed. B. Malle, L. Moses and D. Baldwin, 171–191. Cambridge, MA: MIT Press.
+* Nichols, S., 2001. “Mindreading and the Cognitive Architecture underlying Altruistic Motivation,” *Mind & Language*, 16: 425–455.
+* –––, 2004. *Sentimental Rules: On the Natural Foundation of Moral Judgment*, Oxford: Oxford University Press.
+* Nichols, S., and S. Stich, 2003. *Mindreading*, Oxford: Clarendon Press.
+* Neuberg, S.L., R. Cialdini, S.L. Brown, C. Luce, and B. Sagarin, 1997. “Does Empathy Lead to Anything More Than Superficial Helping?,” *Journal of Personality and Social Psychology* 73: 510–516.
+* Oxley, J.C., 2011. *The Moral Dimensions of Empathy: Limits and Applications in Ethical Theory and Practice*, Basingstoke: Palgrave Macmillan.
+* Persson, I., and J. Savulescu, 2018. “The Moral Importance of Reflective Empathy,” *Neuroethics*, 11: 183–193.
+* Prandl, A., 1910. *Die Einfühlung*, Leipzig: Verlag von Johann Ambrosius Barth.
+* Preston, S., and F. de Waal, 2002a. “Empathy: Its Ultimate and Proximate Bases,” *Behavioral and Brain Sciences*, 25: 1–72.
+* –––, 2002b. “Communications of Emotions and the Possibility of Empathy in Animals,” ed. S. Post, L. Underwood, J. Schloss, and W. Hurblut, *Altruism and Altruistic Love: Science, Philosophy, and Religion in Dialogue*, 284–308. Oxford: Oxford University Press.
+* Prinz, J., 2011a. “Is Empathy Necessary for Morality?” in *Empathy: Philosophical and Psychological Perspectives*, A. Coplan and P. Goldie (eds.), Oxford: Oxford University Press, 211–229.
+* –––, 2011b. “Against Empathy,”*The Southern Journal of Philosophy*, 49 (Spindel Supplement): 214–233.
+* Ravenscroft, I., 1998. “What is it Like to be Someone Else? Simulation and Empathy,” *Ratio*, 11: 170–185.
+* Rhodes, M. and L. Chalik, 2013. “Social Categories as Markers of Intrinsic Interpersonal Obligations,” *Psychological Science*, 26: 999–1006.
+* Rifkin, J., 2009. *The Empathic Civilization: The Race to Global Consciousness in a World in Crisis*, New York: Tarcher/Penguin.
+* Rizzolatti, G. and L. Craighero, 2004. “The Mirror Neuron System,” *Annual Review Neuroscience*, 27: 169–192.
+* Rizzolatti, G. and C. Sinigaglia, 2008. *Mirrors in the Brain: How our Minds Share Actions and Emotions*, Oxford: Oxford University Press.
+* –––, 2016. “The Mirror Mechanism: A Basic Principle of Brain Function,” *Nature Review Neuroscience*, 17: 757–765.
+* Rogers, C., 1959. “A Theory of Therapy, Personality, and Interpersonal Relations, as Developed in the Client-Centered Framework,” in S. Koch (ed.), *Psychology: A Study of a Science* (Vol. 3), New York: McGraw–Hill, 184–256.
+* –––, 1975. “Empathic: An Unappreciated Way of Being,” *The Counseling Psychologist*, 5: 2–10 (Reprinted in C. Rogers. 1980. *A Way of Being*, Boston: Houghton Mifflin, 137–164.
+* Roughley, N., 2018. “The Empathy in Moral Obligation: An Excercise in Creature Construction,” in *Forms of Fellow Feeling: Empathy, Sympathy and Moral Agency*, N. Roughley and T. Schramme (eds.), Cambridge: Cambridge University Press, 265–291.
+* Sayre-McCord, G., 1994. “On Why Hume’s 'General Point of View' Ins’t Ideal—And Shouldn’t Be,” *Social Philosophy and Policy*, 11: 202–228.
+* –––, 2013. “Hume and Smith on Sympathy, Approbation, and Moral Judgment,” *Social Philosophy and Policy*, 30: 208–236.
+* Sherman, N., 1998. “Empathy and Imagination,” *Midwest Studies in Philosophy*, 22: 82–119.
+* Seemann, A., 2011. *Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience*, Cambridge, MA: MIT Press.
+* Scheler, M., 1973. *Wesen und Form der Sympathie*, Bern/München: Francke Verlag; English translation, *The Nature of Sympathy*, London: Routledge & Kegan Paul 1954.
+* Schleiermacher, Fr., 1998. *Hermeneutics and Criticism*, edited by A. Bowie. Cambridge: Cambridge University Press.
+* Schopenhauer, A., 1995. *On the Basis of Morality*, Providence: Berghahn Books.
+* Simmons, A., 2014. “In Defense of the Moral Significance of Empathy,” *Ethical Theory and Moral Practice*, 17: 97–111.
+* Singer, T., and C. Lamm, 2009. “The Social Neuroscience of Empathy,” *The Year in Cognitive Neuroscience: Annals of the New York Academy of Sciences*, 1156, 81–96.
+* Slote, M., 2007. *The Ethics of Care and Empathy*, London: Routledge.
+* –––, 2010. *Moral Sentimentalism*, Oxford: Oxford University Press.
+* Smith, A., 1853. *The Theory of Moral Sentiments*, New York: August M. Kelley Publishers, 1966.
+* Sober, E. and D.S. Wilson, 1998. *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
+* Spinrad, T.L. and N.Eisenberg, 2014. “Empathy and Morality: A Developmental Psychology Perspective,” in *Empathy and Morality*, H. Maibom (ed.), Oxford: Oxford University Press, 59–70.
+* Stein, E., 1917. *Zum Problem der Einfühlung*, München: Kaffke Verlag, 1980; English translation, E. Stein, *On the Problem of Empathy*, Washington: ICS Publishers, 1989.
+* Stotland, E., 1969. “Exploratory Investigations of Empathy,” *Advances in Experimental Social Psychology*, (Vol. 4), L. Berkowitz (ed.), New York/London: Academic Press, 271–314.
+* Stueber, K., 2002. “The Psychological Basis of Historical Explanation: Reenactment, Simulation and the Fusion of Horizons,” *History and Theory*, 41: 24–42.
+* –––, 2006: *Rediscovering Empathy: Agency, Folk Psychology, and the Human Sciences*, Cambridge, MA: MIT Press.
+* –––, 2008. “Reasons, Generalizations, Empathy, and Narratives: The Epistemic Structure of Action Explanation,” *History and Theory*, 47: 31–43.
+* –––, 2009. “The Ethical Dimension of Folk-Psychology,” *Inquiry*, 52: 532–547.
+* –––, 2011a. “Imagination, Empathy, and Moral Deliberation: The Case of Imaginative Resistance,” *The Southern Journal of Philosophy*, 49 (Spindel Supplement): 156–180.
+* –––, 2011b. “Social Cognition and the Allure of the Second-Person Perspective: In Defense of Empathy and Simulation,” in *Joint Attention: New Developments in Psychology, Philosopy of Mind, and Social Neuroscience*, ed. A. Seemann, 265–292. Cambridge, MA: MIT Press.
+* –––, 2011c. “Moral Approval and the Dimensions of Empathy: Comments on Michael Slote’s *Moral Sentimentalism*,” *Analytic Philosophy*, 52: 328–336.
+* –––, 2012a. “Varieties of Empathy, Neuroscience and the Narrativist Challenge to the Theory of Mind Debate,” *Emotion Review*, 4: 55–63.
+* –––, 2012b.“Understanding versus Explanation: How to Think about the Distinction between the Human and the Natural Sciences,” *Inquiry*, 55: 17–32.
+* –––, 2017: “Smithian Constructivism: Elucidating the Reality of the Normative Domain,” in *Ethical Sentimentalism: New Perspectives*, R. Debes and K. Stueber (eds.), Cambridge, Cambridge University Press, 192–209.
+* Taft, R., 1955. “The Ability to Judge People,” *Psychological Bulletin*, 52: 1–23.
+* Titchener, E. B., 1909: *Lectures on the Experimental Psychology of Thought-Processes*, New York: Macmillan.
+* Tully, J. (ed.), 1988. *Meaning and Context: Quentin Skinner and his Critics*, Princeton: Princeton University Press.
+* Turiel, E., 1983. *The Development of Social Knowledge: Morality and Convention*, Cambridge: Cambridge University Press.
+* Throop, C.J., 2010. “Latitudes of Loss: On the Vicissitudes of Empathy,” *American Ethnologist*, 37: 771–782.
+* Vischer, R., 1873. “On the Optical Sense of Form: A Contribution to Aesthetics,” in *Empathy, Form, and Space*, H.F. Mallgrave and Eleftherios Ikonomou (eds., trans.), Santa Monica, CA: The Getty Center for the History of Art and the Humanities, 1994, 89–123.
+* Winch, P., 1958. *The Idea of a Social Science and its Relation to Philosophy*, London: Routledge and Kegan Paul.
+* Wispe, L., 1986. “The Distinction between Sympathy and Empathy: To Call Forth a Concept a Word is Needed,” in *Journal of Personality and Social Psychology*, 50: 314–321.
+* –––, 1987. “History of the Concept of Empathy,” in *Empathy and Its Development*, N. Eisenberg and J. Strayer (eds.), Cambridge: Cambridge University Press, 17–37.
+* –––, 1991. *The Psychology of Sympathy*, New York/London: Plenum Press.
+* Xu, X., X. Zuo, X. Wang, and S. Han, 2009. “Do You Feel My Pain? Racial Group Membership Modulates Empathic Neural Responses,” *Journal of Neuroscience*, 29: 8525–8529,
+* Zahavi, D., 2001. “Beyond Empathy: Phenomenological Approaches to Intersubjectivity,” *Journal of Consciousness Studies*, 8. 151–167.
+* –––, 2005. *Subjectivity and Selfhood: Investigating the First-Person Perspective*, Cambridge, MA: MIT Press.
+* –––, 2010. “Empathy, Embodiment and Interpersonal Understanding: From Lipps to Schutz,” *Inquiry*, 53: 285–306.
+* Zahavi, D., and S. Overgaard, 2012. “Empathy without Isomorphism: A Phenomenological Account,” in *Empathy: From Bench to Bedside*, J. Decety (ed.), Cambridge, MA: MIT Press, 3–20.
+* Zaki, J., 2014. “Empathy: A Motivated Account,” *Psychological Bulletin*, 140: 1608–1647.
+* Zaki, J. and K. Ochsner, 2012. “The Cognitive Neuroscience of Sharing and Understanding Others’ Emotions,” in *Empathy: From Bench to Bedside*, J. Decety (ed.), Cambridge, MA: MIT Press, 207–226.
+* Zalla, T., L. Barlassina, M. Buon, and M. Leboyer, 2011. “Moral Judment in Adults with Autism Spectrum Disorders,” *Cognition*, 12: 115–126.
+* Zhou, Q., C. Valiente, and N. Eisenberg, 2003. “Empathy and Its Measurement,” S.J. Lopez and C.R. Snyder (eds.), *Positive Psychological Assessment: A Handbook of Models and Measures*, Washington, DC: American Psychological Association, 269–284.
 
 ### Further Important Surveys of Empathy
 
-* Maibom, H. (ed.), 2017. _The Routledge Handbook of the Philosophy of Empathy_, New York: Routledge.
-* Matraver, D., 2017. _Empathy_, Cambridge: Polity Press.
+* Maibom, H. (ed.), 2017. *The Routledge Handbook of the Philosophy of Empathy*, New York: Routledge.
+* Matraver, D., 2017. *Empathy*, Cambridge: Polity Press.
 
 ## Academic Tools
 
@@ -389,4 +389,4 @@ Significantly, Hoffman combines his developmental explication of empathy with a 
 [Collingwood, Robin George](https://plato.stanford.edu/entries/collingwood/) | [folk psychology: as mental simulation](https://plato.stanford.edu/entries/folkpsych-simulation/) | [hermeneutics](https://plato.stanford.edu/entries/hermeneutics/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [moral sentimentalism](https://plato.stanford.edu/entries/moral-sentimentalism/) | [other minds](https://plato.stanford.edu/entries/other-minds/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Karsten Stueber](http://college.holycross.edu/faculty/kstueber/kstueber.html) <[_kstueber@holycross.edu_](mailto:kstueber%40holycross%2eedu)>
+[Karsten Stueber](http://college.holycross.edu/faculty/kstueber/kstueber.html) <[*kstueber@holycross.edu*](mailto:kstueber%40holycross%2eedu)>

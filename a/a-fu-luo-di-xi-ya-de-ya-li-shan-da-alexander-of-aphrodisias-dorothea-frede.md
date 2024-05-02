@@ -1,6 +1,5 @@
 # 阿芙罗蒂西亚的亚历山大 Alexander of Aphrodisias (Dorothea Frede)
 
-
 *首次发表于 2003 年 10 月 13 日；实质性修订于 2024 年 4 月 23 日*
 
 阿芙罗蒂西亚的亚历山大是一位伊壁鸠鲁学派的哲学家和评论家，活跃于公元 2 世纪末和 3 世纪初。他延续了安德洛尼库斯的传统，即在公元前 1 世纪由罗得的安德洛尼库斯编辑的亚里士多德的“秘传”著作上写详细的评论。这些著作似乎只是为他的学派使用而设计的。这一传统反映了公元前 2 世纪末开始的对亚里士多德哲学的逐渐复兴，并帮助亚里士多德在后来的古代哲学辩论中重新确立了活跃的地位。亚里士多德的哲学在他去世后的第二代中逐渐被忽视和混乱，一直处于斯多葛派、伊壁鸠鲁派和学院怀疑论者的阴影之下。安德洛尼库斯编辑的亚里士多德文集巩固了对亚里士多德哲学的新兴兴趣，尽管形式上有所不同：积极的研究被学术解释所取代，这些解释对于理解哲学家的难懂文本起到了重要作用。这些评论本身成为向一小部分高级学生阐述亚里士多德著作的材料。因此，每一代教师都会撰写自己的评论，通常会大量借鉴前辈的工作。因此，中世纪特有的对权威文本的学院式处理在公元前 1 世纪已经开始。由于他对亚里士多德的逻辑、物理学、心理学、形而上学和伦理学等广泛文本进行了细致而哲学性的解释，亚历山大成为后来的古代和阿拉伯传统中备受推崇的评论家。他经常被简称为“评论家”（ho exêgetês），后来与伊本·西那或阿维森纳共享这个称号。 因为关于亚历山大的生活和活动的证据很少，他的评论和与亚里士多德学说或多或少相关的短篇著作提供了我们对他作为哲学家和人的所有信息。正如这些著作所显示的，他的主要当代对手是斯多葛派，但也有一些与伽莲的争议的证据。亚历山大不仅被认为是古代评论家中最好的一位，而且被认为是最后一位严格的亚里士多德主义者，他的目标是将亚里士多德的哲学作为一个连贯的整体呈现和捍卫，以适应当代哲学讨论。后来的评论家是新柏拉图学派的成员，他们关注的是记录柏拉图和亚里士多德思想的实质性一致性，并将亚里士多德的作品整合到他们的新柏拉图哲学体系中。但他们继续不仅咨询和讨论，而且批评亚历山大的著作，这可能是其保存下来的原因。
@@ -118,7 +117,7 @@
 * *Alexander Aphrodisias: Enarratio de anima ex Aristotelis institutione*, Hieronymus Donatus (trans.), reprint of first edition Brescia 1495 (with intr. by Eckard Kessler). *Commentaria in Aristotelem Graeca: Versiones latinae temporis resuctitatarum litterarum*, (CAGL.) 13, Stuttgart: Frommann-Holzboog, 2008.
 * Alexander von Aphrodisias: *In libros meteorologicorum*, Alexander Piccolomineus (trans.), reprint of first edition Venice 1561, with introduction by Cristina Viano, Stuttgart: Frommann-Holzboog, 2010.
 
-#### 2. English translations of the commentaries (with notes):
+#### 2. English translations of the commentaries (with notes)
 
 Richard Sorabji (gen. ed.), London: Duckworth, Ithaca: Cornell University Press. Later: London: Bristol Classical Press. Presently: London: Bloomsbury Publishing.
 

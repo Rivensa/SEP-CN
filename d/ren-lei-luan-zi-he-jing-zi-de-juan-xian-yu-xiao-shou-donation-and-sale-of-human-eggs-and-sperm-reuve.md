@@ -28,7 +28,6 @@
 2. A 期望和/或打算 B 使用那些配子来创造 C（一个孩子或一些孩子）; 和
 3. Both *A* and *B* expect that and/or intend that *A* will *not* become a social or legal parent of *C*.
 
-
 ---
 
 ## 权利和义务的配子捐献者

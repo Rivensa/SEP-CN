@@ -4,8 +4,6 @@
 
 我们所有人都参与并利用有效的推理，但我们实际执行的推理在各种方面与大多数（形式）逻辑学家研究的推理有所不同。人类通常进行的推理涉及通过多种媒介获得的信息。相比之下，形式逻辑迄今主要关注的是基于一种形式信息的有效推理，即句子形式的信息。最近，许多哲学家、心理学家、逻辑学家、数学家和计算机科学家越来越意识到多模态推理的重要性，此外，许多研究已在非符号化，特别是图解表示系统领域展开。本文概述了这一新研究领域的总体方向，并着重讨论了证明中图表的逻辑地位、它们的表征功能和适当性、不同类型的图解系统，以及图表在人类认知中的作用。
 
-
-
 ---
 
 ## 引言
@@ -42,7 +40,7 @@
 莱昂哈德·欧拉（Leonhard Euler）是 18 世纪的数学家，他采用闭合曲线来说明三段论推理（Euler 1768）。他将四种范畴命题表示如图 1 所示。
 
 > ![Four cases the first labeled 'All A are B' has an inner circle labeled 'A' completely inside an outer circle labeled 'B'; the second labeled 'No A is B' has two nonoverlapping circles, one labeled 'A' and the other 'B'; the third labeled 'Some A is B' has two overlapping circles, the overlap is labeled 'A' and the nonoverlap bit of one circle is labeled 'B'; the fourth case labeled 'Some A is not B' has two overlapping circles, the nonoverlap bit of one is labeled 'A' and the nonoverlap bit of the other is labeled 'B'](https://plato.stanford.edu/entries/diagrams/fig1.png)
-> ** 图表 1: 欧拉图**
+> **图表 1: 欧拉图**
 
 对于这两个普遍性命题，系统以直观的方式采用圆圈之间的空间关系：如果标记为“A”的圆包含在标记为“B”的圆内，那么图表代表所有 A 都是 B 的信息。如果两个圆之间没有重叠部分，则图表传达了没有 A 是 B 的信息。
 
@@ -99,7 +97,7 @@
 对于普遍性陈述的表示，与欧拉图中明显清晰的空间包含关系不同，文恩的解决方案是“将它们[适当的区域]涂黑”（Venn 1881: 122）。通过使用这种句法设备，我们得到了如图 3 所示的普遍性陈述的图表。
 
 > ![Two Venn diagrams The first is titled 'All A are B' and consists of two overlapping circles labeled 'A' and 'B', the section of A that does not overlap with B is shaded The second is titled 'No A is B' and also consists of two overlapping circles labeled 'A' and 'B', the overlap of the two circles is shaded](https://plato.stanford.edu/entries/diagrams/fig3a.png)
-> ** 图表 3: Venn 的着色**
+> **图表 3: Venn 的着色**
 
 文氏在选择阴影的时候可能并非完全是随意的，因为阴影可以被解释为对集合空集的可视化。然而，应该注意到，阴影是一种欧拉没有使用过的新的句法设备。这种修订赋予了系统灵活性，使得某些兼容的信息可以在单个图表中表示。在下面的图表中，左侧的图表将“所有 A 都是 B”和“没有 A 是 B”这两个信息合并在一起，以视觉传达“没有任何东西是 A”的信息。右侧的图表代表了“所有 A 都是 B”和“所有 B 都是 A”，清楚地显示了 A 和 B 是相同的：
 
@@ -304,7 +302,7 @@ Manders 在 Manders 2008 [1995] 中区分了古代几何学中文本和图表之
 
 > ![An obtuse triange with a perpendicular dropping from one of the acute angles to the extension of the opposite side of the triangle](https://plato.stanford.edu/entries/diagrams/figure5.png)
 
-### 形式系统 FG 和 Eu。
+### 形式系统 FG 和 Eu
 
 因此，在代表性图表上进行欧几里得构造可能导致一个不具代表性的图表。形式化欧几里得图解证明的一个核心任务是解决这个问题——即，提供一种规则来区分构造图表中的一般共同特征和非一般特征。系统 FG 和 Eu 对这一任务采取了两种不同的方法。
 

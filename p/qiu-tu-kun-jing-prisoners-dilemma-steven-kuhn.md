@@ -1,6 +1,6 @@
 # 囚徒困境 prisoner’s dilemma (Steven Kuhn)
 
-_首次发表于1997年9月4日；实质性修订于2019年4月2日_
+*首次发表于1997年9月4日；实质性修订于2019年4月2日*
 
 Tanya和Cinque因抢劫Hibernia储蓄银行而被逮捕，并被分别关押在单独的隔离牢房中。他们两个都更关心自己的个人自由，而不是同伙的福祉。一个聪明的检察官向每个人提出以下选择：“你可以选择坦白或保持沉默。如果你坦白而你的同伙保持沉默，我将撤销对你的所有指控，并使用你的证词确保你的同伙被判重刑。同样，如果你的同伙坦白而你保持沉默，他们将获得自由，而你将被判刑。如果你们两个都坦白，我将得到两个定罪，但我会确保你们两个都获得提前假释。如果你们两个都保持沉默，我只能就非法持有武器的指控判你们轻微的刑罚。如果你想坦白，你必须在明天早上我回来之前给狱卒留下一张纸条。”
 
@@ -105,7 +105,7 @@ Orbell 和 Dawes 特别关注一个解释合作行为的原理，该原理基于
 
 一种常见观点是，多人囚徒困境结构反映在加勒特·哈丁所普及的“公地悲剧”中。一组相邻农民中的每个成员都更愿意让自己的牛在公地上放牧，而不是将其放在自己不足的土地上，但如果超过某个阈值的人使用公地，公地将变得不适合放牧。更一般地说，如果足够多的人付出成本 C，每个成员都可以获得一些社会利益 B。我们可以将支付矩阵表示如下：
 
-|   | <p>** 多于 n 个人<br>选择 C**</p> | <p>** n 或更少<br>选择 C**</p> |
+|   | <p>**多于 n 个人<br>选择 C**</p> | <p>**n 或更少<br>选择 C**</p> |
 | - | --------------------------- | ------------------------- |
 | C | C+B                         | C                         |
 | D | B                           | 0                         |
@@ -535,116 +535,116 @@ p1（p2，p3，p4）p3（T−R）（R−S）p4（T−R）（R−P）=1，≠（1
 ## Bibliography
 
 * Akin, Ethan, 2013, “The Iterated Prisoner’s Dilemma: Good Strategies and Their Dynamics,” arXiv:1211.0969v3 \[math.DS].
-* Aumann, Robert, 1995, “Backward Induction and Common Knowledge of Rationality,” _Games and Economic Behavior_, 8: 97–105.
-* –––, 1998, “Note on the Centipede Game,” _Games and Economic Behavior_, 23: 97–105.
-* Axelrod, Robert, 1981, “The Emergence of Cooperation Among Egoists,” _The American Political Science Review_, 75: 306–318.
-* –––, 1984, _The Evolution of Cooperation_, New York: Basic Books.
-* Axelrod, Robert and Douglas Dion, 1988, “The Further Evolution of Cooperation,”_Science_, 242 (December 9): 1385–1390.
-* Axelrod, Robert and William Hamilton, 1981, “The Evolution of Cooperation,” _Science_, 211 (March 27): 1390–1396.
-* Batali, John and Philip Kitcher, 1995, “Evolution of Altruism in Optional and Compulsory Games,” _Journal of Theoretical Biology_, 178: 161–171.
-* Beaufils, Bruno & J.P. Delahaye, and P. Mathieu, “Our Meeting With Gradual: A Good Strategy For The Iterated Prisoner's Dilemma,” _Proceedings of the Fifth International Workshop on the Synthesis and Simulation of Living Systems_, MIT Press, 202–212.
-* Becker, Neal and Ann Cudd, 1990, “Indefinitely Repeated Games: A Response to Carroll,” _Theory and Decision_, 28: 189–195.
-* Bendor, Jonathan, 1987, “In Good Times and Bad: Reciprocity in an Uncertain World,” _American Journal of Political Science_, 31: 531–558.
-* –––, 1993, “Uncertainty and the Evolution of Cooperation,” _Journal of Conflict Resolution_, 37: 709–733.
-* Bendor, Jonathan, and Piotr Swistak, 1995, “Types of Evolutionary Stability and the Problem of cooperations,” _Proceedings of the National Academy of Sciences_, 92 (April): 3596–3600.
-* Bendor, Jonathan, and Piotr Swistak, 1996, “The Controversy about the Evolution of Cooperation and the Evolutionary Roots of Social Institutions,” in Gasparski, Wojciech et al (eds), _Social Agency_, New Brunswick, N.J.: Transaction Publishers.
-* Bendor, Jonathan, and Piotr Swistak, 1997, “The Evolutionary Stability of Cooperations,” _American Political Science Review_, 91 (2): 290–307.
-* Bendor, Jonathan, and Piotr Swistak, 1998, “Evolutionary Equilibria: Characterization Theorems and Their Implications,” _Theory and Decision_, 45: 99–159.
-* Bendor, Jonathan, Roderick Kramer and Piotr Swistak, 1996, “Cooperation Under Uncertainty: What is New, What is True and What is Important?” _American Sociological Review_, 61 (April): 333–338.
-* Berg, Joyce, John Dickhaut and Kevin McCabe, 1995,  “Trust, Reciprocity and Social History?” _Games and Economic Behavior_, 10 (July): 122–142.
-* Bergstrom, T., 2002, “Evolution of Social Behavior: Individual and Group Selection Models,” _Journal of Economic Perspectives_, 16: 231–238.
-* Bicchieri, Cristina, 1989, “Self-refuting Theories of Strategic Interaction,” _Erkenntinis_, 30: 69–85.
+* Aumann, Robert, 1995, “Backward Induction and Common Knowledge of Rationality,” *Games and Economic Behavior*, 8: 97–105.
+* –––, 1998, “Note on the Centipede Game,” *Games and Economic Behavior*, 23: 97–105.
+* Axelrod, Robert, 1981, “The Emergence of Cooperation Among Egoists,” *The American Political Science Review*, 75: 306–318.
+* –––, 1984, *The Evolution of Cooperation*, New York: Basic Books.
+* Axelrod, Robert and Douglas Dion, 1988, “The Further Evolution of Cooperation,”*Science*, 242 (December 9): 1385–1390.
+* Axelrod, Robert and William Hamilton, 1981, “The Evolution of Cooperation,” *Science*, 211 (March 27): 1390–1396.
+* Batali, John and Philip Kitcher, 1995, “Evolution of Altruism in Optional and Compulsory Games,” *Journal of Theoretical Biology*, 178: 161–171.
+* Beaufils, Bruno & J.P. Delahaye, and P. Mathieu, “Our Meeting With Gradual: A Good Strategy For The Iterated Prisoner's Dilemma,” *Proceedings of the Fifth International Workshop on the Synthesis and Simulation of Living Systems*, MIT Press, 202–212.
+* Becker, Neal and Ann Cudd, 1990, “Indefinitely Repeated Games: A Response to Carroll,” *Theory and Decision*, 28: 189–195.
+* Bendor, Jonathan, 1987, “In Good Times and Bad: Reciprocity in an Uncertain World,” *American Journal of Political Science*, 31: 531–558.
+* –––, 1993, “Uncertainty and the Evolution of Cooperation,” *Journal of Conflict Resolution*, 37: 709–733.
+* Bendor, Jonathan, and Piotr Swistak, 1995, “Types of Evolutionary Stability and the Problem of cooperations,” *Proceedings of the National Academy of Sciences*, 92 (April): 3596–3600.
+* Bendor, Jonathan, and Piotr Swistak, 1996, “The Controversy about the Evolution of Cooperation and the Evolutionary Roots of Social Institutions,” in Gasparski, Wojciech et al (eds), *Social Agency*, New Brunswick, N.J.: Transaction Publishers.
+* Bendor, Jonathan, and Piotr Swistak, 1997, “The Evolutionary Stability of Cooperations,” *American Political Science Review*, 91 (2): 290–307.
+* Bendor, Jonathan, and Piotr Swistak, 1998, “Evolutionary Equilibria: Characterization Theorems and Their Implications,” *Theory and Decision*, 45: 99–159.
+* Bendor, Jonathan, Roderick Kramer and Piotr Swistak, 1996, “Cooperation Under Uncertainty: What is New, What is True and What is Important?” *American Sociological Review*, 61 (April): 333–338.
+* Berg, Joyce, John Dickhaut and Kevin McCabe, 1995,  “Trust, Reciprocity and Social History?” *Games and Economic Behavior*, 10 (July): 122–142.
+* Bergstrom, T., 2002, “Evolution of Social Behavior: Individual and Group Selection Models,” *Journal of Economic Perspectives*, 16: 231–238.
+* Bicchieri, Cristina, 1989, “Self-refuting Theories of Strategic Interaction,” *Erkenntinis*, 30: 69–85.
 * Bicchieri, Cristina and Allesandro Sontuoso, “I Cannot Cheat on You After We Talk,” in Martin Peterson (ed) 2015, 101–114.
-* Binmore, Kenneth, 1992, _Fun and Games_, Lexington, MA: D.C. Heath and Company.
-* –––, 1994, _Playing Fair: Game Theory and the Social Contract 1_, Cambridge, MA: MIT Press.
-* –––, 1997, “Rationality and Backward Induction,” _Journal of Economic Methodology_, 4: 23–41.
-* –––, 2005, _Natural Justice_, New York, NY: Oxford Univsity Press.
+* Binmore, Kenneth, 1992, *Fun and Games*, Lexington, MA: D.C. Heath and Company.
+* –––, 1994, *Playing Fair: Game Theory and the Social Contract 1*, Cambridge, MA: MIT Press.
+* –––, 1997, “Rationality and Backward Induction,” *Journal of Economic Methodology*, 4: 23–41.
+* –––, 2005, *Natural Justice*, New York, NY: Oxford Univsity Press.
 * –––, 2015,“Why All the Fuss: The Many Aspects of the Prisoner's Dilemma,” in Peterson (ed.), 16–34.
 * Bonanno, Giacomo, 2015, “Counterfactuals and the Prisoner's Dilemma,” in Martin Peterson (ed.) 2015, 133–155.
 * Bovens, Luc, 2015, “The Tragedy of the Commons as a Voting Game,” in Martin Peterson (ed.) 2015, 133–156-176.
-* Boyd, Robert and Jeffrey Lorberbaum, 1987, “No Pure Strategy is Evolutionarily Stable in the repeated Prisoner's Dilemma Game,” _Nature_, 327 (May 7): 58–59.
-* Carroll, J.W., 1987, “Indefinite Terminating Points and the Iterated Prisoner’s Dilemma,” _Theory and Decision_, 22: 247–256.
-* Cambell, Richmond and Lanning Snowden, 1985, _Paradoxes of Rationality and Cooperation_, Vancouver: University of British Columbia Press.
-* Danielson, Peter, 1992, _Artificial Morality: Virtual Robots for Virtual Games_, London: Routledge.
-* Davis, Laurence, 1977, “Prisoners, Paradox and Rationality,” _American Philosophical Quarterly_, 14: 319–327; reprinted in Campbell and Snowden, 45–58.
+* Boyd, Robert and Jeffrey Lorberbaum, 1987, “No Pure Strategy is Evolutionarily Stable in the repeated Prisoner's Dilemma Game,” *Nature*, 327 (May 7): 58–59.
+* Carroll, J.W., 1987, “Indefinite Terminating Points and the Iterated Prisoner’s Dilemma,” *Theory and Decision*, 22: 247–256.
+* Cambell, Richmond and Lanning Snowden, 1985, *Paradoxes of Rationality and Cooperation*, Vancouver: University of British Columbia Press.
+* Danielson, Peter, 1992, *Artificial Morality: Virtual Robots for Virtual Games*, London: Routledge.
+* Davis, Laurence, 1977, “Prisoners, Paradox and Rationality,” *American Philosophical Quarterly*, 14: 319–327; reprinted in Campbell and Snowden, 45–58.
 * –––, 1985, “Is the Symmetry Argument Valid?,” in Campbell and Snowden 1985, 255–262.
-* Donninger, Christian, 1986, “Is It Always Efficient to be Nice?” in Dickman and Mitter (eds.), _Paradoxical Effects of Social Behavior_, Heidelberg: Physica Verlag, 123–134.
-* Farrell, Joseph, and Roger Ware, 1989, “Evolutionary Stability in the Repeated Prisoner's Dilemma,” _Theoretical Population Biology_, 36: 161–167.
-* Gauthier, David, 1986, _Morals by Agreement_, Oxford: Clarendon Press.
-* Grim, Patrick, Gary Mar and Paul St. Denis, 1998, _The Philosophical Computer_, Cambrige, Mass: MIT Press.
-* Hardin, Garret, 1968, “The Tragedy of the Commons,” _Science_, 162 (December 13): 1243–1248.
-* Hilbe, Christian, Martin A. Nowak, and Karl Sigmund, 2013, “Evolution of extortion in Iterated Prisoner's Dilemma games,” _Proceedings of the National Academy of Sciences_, 110 (17): 6913–6918.
-* Howard, Nigel, 1971, _Paradoxes of Rationality_, Cambridge, MA: MIT Press.
-* Howard, J.V., 1988, “Cooperation in the Prisoner's Dilemma,” _Theory and Decision_, 24: 203–213.
-* Hurley, S.L., 1991, “Newcomb's Problem, Prisoners' Dilemma, and Collective Action,” _Synthese_, 86: 173–196.
-* Joyce, James, 1999, _The Foundations of Causal Decision Theory_, Cambridge University Press.
-* Jurišić, Marko, D. Kermek and M. Konecki, 2012, “A Review of Iterated Prisoner’s Dilemma Strategies,” _Proceedings of the 35th International Convention MIPRO_, 1093–1097.
-* Kavka, Gregory, 1983, “Hobbes War of All Against All,” _Ethics_, 93: 291–310.
-* –––, 1986, _Hobbesean Moral and Political Theory_, Princeton: Princeton University Press.
-* –––, 1991, “Is Individual Choice Less Problematic than Collective Choice?” _Economics and Philosophy_, 7: 291–310.
-* Kitcher, Philip, 1993, “The Evolution of Human Altruism” _Journal of Philosophy_, 90: 497–516.
-* –––, 2011, _The Ethical Project_, Cambridge, MA: Harvard University Press.
-* Kendall, Graham, Xin Yao and Siang Yew Chong, 2007, _The Iterated Prisoners’ Dilemma: 20 Years On_, Singapore: World Scientific Publishing Co.
-* Kollock, Peter, 1993, “An Eye For an Eye Leaves Everybody Blind: Cooperation and Accounting Systems,” _American Sociological Review_, 58: 768–786.
-* Kraines, David and Vivian Kraines, 1989, “Pavlov and the Prisoner's Dilemma,” _Theory and Decision_, 26: 47–79.
-* –––, 1993, “Learning to Cooperate with Pavlov: an Adaptive Strategy for the Iterated Prisoner's Dilemma with Noise,” _Theory and Decision_, 35: 107–150.
-* Kreps, David, 1990, “Corporate Culture and Economic Theory,” in Alt, J and K Shepsle (eds.), _Perspectives on Positive Political Economy_ Cambridge: Cambridge University Press, 90–142.
-* Kreps, David, Paul Milgrom, John Roberts and Robert Wilson, 1982, “Rational Cooperation in the Finitely Repeated Prisoner's Dilemma,” _Journal of Economic Theory_, 27: 245–252.
-* Kretz, Tobias, 2011, “A Round-Robin Tournament of the Iterated Prisoner's Dilemma with Complete Memory-Size-Three Strategies,” _Complex Systems_ 19: 363–389.
-* Kuhn, Steven, 1996, “Agreement Keeping and Indirect Moral Theory” _Journal of Philosophy_, 93: 105–128.
-* –––, 2004, “Reflections on Ethics and Game Theory” _Synthese_, 141: 1–44.
-* Kuhn, Steven, and Serge Moresi, 1995, “Pure and Utilitarian Prisoner's Dilemmas” _Economics and Philosophy_, 11: 123–133.
-* Lewis, David, 1979, “Prisoner's Dilemma Is a Newcomb Problem,” _Philosophy and Public Affairs_ 8: 235–240.
-* Linster, Bruce, 1992, “Evolutionary Stability in the Infinitely Repeated Prisoners' Dilemma Played by Two-State Moore Machines,” _Southern Economic Journal_, 58: 880–903.
-* –––, 1994, “Stochastic Evolutionary Dynamics in the Repeated Prisoners' Dilemma,” _Economic Inquiry_, XXXII: 342–357.
-* Maynard Smith, John, 1978, “The Evolution of Behavior,” _Scientific American_, 239: 176–192.
-* Molander, Per, 1985, “The Optimal Level of Generosity in a Selfish, Uncertain Environment,” _Journal of Conflict Resolution_, 29 (December): 611–619.
-* –––, 1992, “The Prevalence of Free Riding,” _Journal of Conflict Resolution_, 36 (December): 756–771.
-* Mukherji, Arijit, Vijay Rajan and James Slagle, 1996, “Robustness of Cooperation,” _Nature_, 379 (January 11): 125–126.
-* Nash, John, 1950, _Non Cooperative Games_, Princeton University PhD dissertation, reprinted in _Annals of Mathematics_ 54, 1951 (September) 286–295.
+* Donninger, Christian, 1986, “Is It Always Efficient to be Nice?” in Dickman and Mitter (eds.), *Paradoxical Effects of Social Behavior*, Heidelberg: Physica Verlag, 123–134.
+* Farrell, Joseph, and Roger Ware, 1989, “Evolutionary Stability in the Repeated Prisoner's Dilemma,” *Theoretical Population Biology*, 36: 161–167.
+* Gauthier, David, 1986, *Morals by Agreement*, Oxford: Clarendon Press.
+* Grim, Patrick, Gary Mar and Paul St. Denis, 1998, *The Philosophical Computer*, Cambrige, Mass: MIT Press.
+* Hardin, Garret, 1968, “The Tragedy of the Commons,” *Science*, 162 (December 13): 1243–1248.
+* Hilbe, Christian, Martin A. Nowak, and Karl Sigmund, 2013, “Evolution of extortion in Iterated Prisoner's Dilemma games,” *Proceedings of the National Academy of Sciences*, 110 (17): 6913–6918.
+* Howard, Nigel, 1971, *Paradoxes of Rationality*, Cambridge, MA: MIT Press.
+* Howard, J.V., 1988, “Cooperation in the Prisoner's Dilemma,” *Theory and Decision*, 24: 203–213.
+* Hurley, S.L., 1991, “Newcomb's Problem, Prisoners' Dilemma, and Collective Action,” *Synthese*, 86: 173–196.
+* Joyce, James, 1999, *The Foundations of Causal Decision Theory*, Cambridge University Press.
+* Jurišić, Marko, D. Kermek and M. Konecki, 2012, “A Review of Iterated Prisoner’s Dilemma Strategies,” *Proceedings of the 35th International Convention MIPRO*, 1093–1097.
+* Kavka, Gregory, 1983, “Hobbes War of All Against All,” *Ethics*, 93: 291–310.
+* –––, 1986, *Hobbesean Moral and Political Theory*, Princeton: Princeton University Press.
+* –––, 1991, “Is Individual Choice Less Problematic than Collective Choice?” *Economics and Philosophy*, 7: 291–310.
+* Kitcher, Philip, 1993, “The Evolution of Human Altruism” *Journal of Philosophy*, 90: 497–516.
+* –––, 2011, *The Ethical Project*, Cambridge, MA: Harvard University Press.
+* Kendall, Graham, Xin Yao and Siang Yew Chong, 2007, *The Iterated Prisoners’ Dilemma: 20 Years On*, Singapore: World Scientific Publishing Co.
+* Kollock, Peter, 1993, “An Eye For an Eye Leaves Everybody Blind: Cooperation and Accounting Systems,” *American Sociological Review*, 58: 768–786.
+* Kraines, David and Vivian Kraines, 1989, “Pavlov and the Prisoner's Dilemma,” *Theory and Decision*, 26: 47–79.
+* –––, 1993, “Learning to Cooperate with Pavlov: an Adaptive Strategy for the Iterated Prisoner's Dilemma with Noise,” *Theory and Decision*, 35: 107–150.
+* Kreps, David, 1990, “Corporate Culture and Economic Theory,” in Alt, J and K Shepsle (eds.), *Perspectives on Positive Political Economy* Cambridge: Cambridge University Press, 90–142.
+* Kreps, David, Paul Milgrom, John Roberts and Robert Wilson, 1982, “Rational Cooperation in the Finitely Repeated Prisoner's Dilemma,” *Journal of Economic Theory*, 27: 245–252.
+* Kretz, Tobias, 2011, “A Round-Robin Tournament of the Iterated Prisoner's Dilemma with Complete Memory-Size-Three Strategies,” *Complex Systems* 19: 363–389.
+* Kuhn, Steven, 1996, “Agreement Keeping and Indirect Moral Theory” *Journal of Philosophy*, 93: 105–128.
+* –––, 2004, “Reflections on Ethics and Game Theory” *Synthese*, 141: 1–44.
+* Kuhn, Steven, and Serge Moresi, 1995, “Pure and Utilitarian Prisoner's Dilemmas” *Economics and Philosophy*, 11: 123–133.
+* Lewis, David, 1979, “Prisoner's Dilemma Is a Newcomb Problem,” *Philosophy and Public Affairs* 8: 235–240.
+* Linster, Bruce, 1992, “Evolutionary Stability in the Infinitely Repeated Prisoners' Dilemma Played by Two-State Moore Machines,” *Southern Economic Journal*, 58: 880–903.
+* –––, 1994, “Stochastic Evolutionary Dynamics in the Repeated Prisoners' Dilemma,” *Economic Inquiry*, XXXII: 342–357.
+* Maynard Smith, John, 1978, “The Evolution of Behavior,” *Scientific American*, 239: 176–192.
+* Molander, Per, 1985, “The Optimal Level of Generosity in a Selfish, Uncertain Environment,” *Journal of Conflict Resolution*, 29 (December): 611–619.
+* –––, 1992, “The Prevalence of Free Riding,” *Journal of Conflict Resolution*, 36 (December): 756–771.
+* Mukherji, Arijit, Vijay Rajan and James Slagle, 1996, “Robustness of Cooperation,” *Nature*, 379 (January 11): 125–126.
+* Nash, John, 1950, *Non Cooperative Games*, Princeton University PhD dissertation, reprinted in *Annals of Mathematics* 54, 1951 (September) 286–295.
 * Northcott, Robert and Anna Alexandrova, 2015,“Prisoner's Dilemma Doesn't Explain Much,” in Peterson (ed), 64–84.
-* Nowak, Martin, and Robert May, 1992, “Evolutionary Games and Spatial Chaos,”_Nature_, 359 (October 29): 826–829.
-* Nowak, Martin and Karl Sigmund, 1992, “Tit for Tat in Heterogeneous Populations,” _Nature_, 355 (January 16): 250–253.
-* –––, 1993, “A Strategy of Win-stay, Lose-shift that Outperforms Tit-for-tat in the Prisoner's Dilemma Game,” _Nature_, 364 (July 1): 56–58.
-* Nowak, Martin, Robert May, and Karl Sigmund, 1995, “The Arithmetics of Mutual Help,” _Scientific American_, (June): 76–81.
-* Nozick, Robert, 1969, “Newcomb's Problem and Two Principles of Choice”, in N. Resher (ed.), _Essays in Honor of Carl G. Hempel_, Dordrecht: D. Reidel, 114–146; reprinted in Cambell and Snowden 1985, 107–132.
-* Orbell, John, and Robyn Dawes, 1993, “A ‘Cognitive Miser Miser’ Theory of Cooperative Advantage,” _American Political Science Reveiw_, 58: 787–800.
-* Orbell, John, and Robyn Dawes, 1993, “Social Welfare, Cooperators' Advantage and the Option of Not Playing the Game,” _American Sociological Reveiw_, 58: 787–800.
-* Peterson, Martin (ed), 2015, _The Prisoner's Dilemma_, Cambridge: Cambridge University Press.
-* Pettit, Phillip, 1986, “Free Riding and Foul Dealing,” _Journal of Philosophy_, 83: 361–379.
-* Pettit, Phillip and Robert Sugden, 1989, “The Backward Induction Paradox,” _Journal of Philosophy_, 86: 169–182.
-* Poundstone, William, 1992, _Prisoner's Dilemma_ New York: Doubleday.
-* Press, William and Freeman Dyson, 2012, “Iterated Prisoner's Dilemma Contains Strategeis That Dominate Any Evolutionary Opponent,” _Proceedings of the National Academy of Sciences_, 109: 10409–10413.
-* Quinn, Warren, 1990, “The Paradox of the Self-Torturer,” _Philosophical Studies_, 59: 79–90.
-* Rabinowicz, Wlodek, 1998, “Grappling with the Centipede: Defense of Backward Induction for BI-Terminating Games,” _Economics and Philosophy_, 14: 95–126.
-* Rapoport Ammon, DA Seale and AM Colman, 2015, “Is Tit-for-Tat the Answer? On the Conclusions Drawn from Axelrod's Tournaments,” _PLoS ONE_, 10(7): e0134128.
+* Nowak, Martin, and Robert May, 1992, “Evolutionary Games and Spatial Chaos,”*Nature*, 359 (October 29): 826–829.
+* Nowak, Martin and Karl Sigmund, 1992, “Tit for Tat in Heterogeneous Populations,” *Nature*, 355 (January 16): 250–253.
+* –––, 1993, “A Strategy of Win-stay, Lose-shift that Outperforms Tit-for-tat in the Prisoner's Dilemma Game,” *Nature*, 364 (July 1): 56–58.
+* Nowak, Martin, Robert May, and Karl Sigmund, 1995, “The Arithmetics of Mutual Help,” *Scientific American*, (June): 76–81.
+* Nozick, Robert, 1969, “Newcomb's Problem and Two Principles of Choice”, in N. Resher (ed.), *Essays in Honor of Carl G. Hempel*, Dordrecht: D. Reidel, 114–146; reprinted in Cambell and Snowden 1985, 107–132.
+* Orbell, John, and Robyn Dawes, 1993, “A ‘Cognitive Miser Miser’ Theory of Cooperative Advantage,” *American Political Science Reveiw*, 58: 787–800.
+* Orbell, John, and Robyn Dawes, 1993, “Social Welfare, Cooperators' Advantage and the Option of Not Playing the Game,” *American Sociological Reveiw*, 58: 787–800.
+* Peterson, Martin (ed), 2015, *The Prisoner's Dilemma*, Cambridge: Cambridge University Press.
+* Pettit, Phillip, 1986, “Free Riding and Foul Dealing,” *Journal of Philosophy*, 83: 361–379.
+* Pettit, Phillip and Robert Sugden, 1989, “The Backward Induction Paradox,” *Journal of Philosophy*, 86: 169–182.
+* Poundstone, William, 1992, *Prisoner's Dilemma* New York: Doubleday.
+* Press, William and Freeman Dyson, 2012, “Iterated Prisoner's Dilemma Contains Strategeis That Dominate Any Evolutionary Opponent,” *Proceedings of the National Academy of Sciences*, 109: 10409–10413.
+* Quinn, Warren, 1990, “The Paradox of the Self-Torturer,” *Philosophical Studies*, 59: 79–90.
+* Rabinowicz, Wlodek, 1998, “Grappling with the Centipede: Defense of Backward Induction for BI-Terminating Games,” *Economics and Philosophy*, 14: 95–126.
+* Rapoport Ammon, DA Seale and AM Colman, 2015, “Is Tit-for-Tat the Answer? On the Conclusions Drawn from Axelrod's Tournaments,” *PLoS ONE*, 10(7): e0134128.
 * Rogers , Alex, R.K. Dash , S.D. Ramchurn, P. Vytelingum and N.R. Jenning, 2007, “Error Correcting Codes for Team Coordination within a Noisy Iterated Prisoner’s Dilemma Tournament”, Chapter 9 of Kendall et al.
-* Rosenthal, R., 1981, “Games of Perfect Information, Predatory Pricing, and the Chain Store,” _Journal of Economic Theory_, 25: 92–100.
-* Santos, Francisco C., Jorge M. Pacheco and Brian Skyrms, 2011, “Co-evolution of Pre-play Signaling and Cooperation,” _Journal of Theoretical Biology_, 274 (1),30–35. .
-* Schelling, Thomas, 1978, _Micromotives and Macrobehavior_ New York: Norton.
-* Segal, Nancy and Scott Hershberger, 1999, “Cooperation and Competition Between Twins: Findings from a Prisoner's Dilemma Game,” _Evolution and Human Behavior_, 20: 29–51
-* Selten, Reinhard, 1975, “Reexamination of the Perfectness Concept of Equilibrium in Extensive Games,” _International Journal of Game Theory_, 4: 25–55.
-* –––, 1978, “The Chain-Store Paradox,” _Theory and Decision_, 9: 127–159.
-* –––, 1983, “Evolutionary Stability in Extensive Two-person Games,” _Mathematical Social Sciences_, 5: 269–363.
-* Sigmund, Karl, 1993, _Games of Life: Explorations in Ecology Evolution and Behavior_, Oxford: Oxford University Press.
-* Skyrms, Brian, 1990, _The Dynamics of Rational Deliberation_, Cambridge, MA: Harvard University Press.
-* –––, 1996, _Evolution of the Social Contract_, Cambridge, Cambridge University Press.
-* –––, 1998, “The Shadow of the Future,” in Coleman and Morris (eds.), _Rational Commitment and Social Justice: Essays for Gregory Kavka_, New York, Cambridge University Press.
-* –––, 2004, _The Stag Hunt and the Evolution of Social Structure_, Cambridge, Cambridge University Press.
+* Rosenthal, R., 1981, “Games of Perfect Information, Predatory Pricing, and the Chain Store,” *Journal of Economic Theory*, 25: 92–100.
+* Santos, Francisco C., Jorge M. Pacheco and Brian Skyrms, 2011, “Co-evolution of Pre-play Signaling and Cooperation,” *Journal of Theoretical Biology*, 274 (1),30–35. .
+* Schelling, Thomas, 1978, *Micromotives and Macrobehavior* New York: Norton.
+* Segal, Nancy and Scott Hershberger, 1999, “Cooperation and Competition Between Twins: Findings from a Prisoner's Dilemma Game,” *Evolution and Human Behavior*, 20: 29–51
+* Selten, Reinhard, 1975, “Reexamination of the Perfectness Concept of Equilibrium in Extensive Games,” *International Journal of Game Theory*, 4: 25–55.
+* –––, 1978, “The Chain-Store Paradox,” *Theory and Decision*, 9: 127–159.
+* –––, 1983, “Evolutionary Stability in Extensive Two-person Games,” *Mathematical Social Sciences*, 5: 269–363.
+* Sigmund, Karl, 1993, *Games of Life: Explorations in Ecology Evolution and Behavior*, Oxford: Oxford University Press.
+* Skyrms, Brian, 1990, *The Dynamics of Rational Deliberation*, Cambridge, MA: Harvard University Press.
+* –––, 1996, *Evolution of the Social Contract*, Cambridge, Cambridge University Press.
+* –––, 1998, “The Shadow of the Future,” in Coleman and Morris (eds.), *Rational Commitment and Social Justice: Essays for Gregory Kavka*, New York, Cambridge University Press.
+* –––, 2004, *The Stag Hunt and the Evolution of Social Structure*, Cambridge, Cambridge University Press.
 * Slany, Wolfgang and W. Kienreich, 2007, “On some winning strategies for the Iterated Prisoner’s Dilemma, or, Mr. Nice Guy and the Cosa Nostra,” Chapter 8 of Kendall et al.
-* Sobel, J.H., 2005, “Backward Induction Without Tears?,” in D. Vanderveken (ed.), _Logic, Thought and Action_, Berlin: Springer, 433–461.
-* –––, 1993, “Backward Induction Arguments: A Paradox Regained,” _Philosophy of Science_, 60: 114–133.
-* Sober, Elliott and David Sloan Wilson, 1998, _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
-* Stewart, Alexander and Joshua Plotkin, 2012, “Extortion and Cooperation in the Prisoner's Dilemm,” _Proceedings of the National Academy of Sciences_, 109: 10134–10135.
-* –––, 2013, “From Extortion to Generosity, Evolution in the Iterated Prisoner's Dilemm,” _Proceedings of the National Academy of Sciences_, 110: 15348–15353.
-* Sugden, R., 1986, _The Economics of Rights, Cooperation and Welfare_, New York, Basil Blackwell; 2nd edition, 2004, Basingstoke, UK: Palgrave MacMillan.
-* Szabó:, György and Christoph Hauert, 2002, “Evolutionary Prisoner's Dilemma Games with Optional Participation,” _Physical Review E_, 66: 062903.
-* Taylor, Michael, 1987, _The Possibility of Cooperation_, Cambridge: Cambridge University Press.
-* Trivers, Robert, 1971, “The Evolution of Reciprocal Altruism,” _Quarterly Review of Biology_, 46: 35–57.
-* Tzafestas, Elpida, 2000 “Toward adaptive cooperative behavior,” _Proceedings of the Sixth International Conference on the Simulation of Adaptive Behavior_, SAB-2000, 2, 334–340.
-* Vanderschraaf, Peter, 1998, “The Informal Game Theory in Hume's Account of Convention,” _Economics and Philosophy_, 14: 215–247.
-* Williamson, Timothy, 1992, “Inexact Knowledge,” _Mind_, 101: 217–242.
-* Wilson, D.S. and E. Sober, 1994, “Reintroducing Group Selection to the Human Behavioral Sciences,” _Behavioral and Brain Sciences_, 17: 585–654.
+* Sobel, J.H., 2005, “Backward Induction Without Tears?,” in D. Vanderveken (ed.), *Logic, Thought and Action*, Berlin: Springer, 433–461.
+* –––, 1993, “Backward Induction Arguments: A Paradox Regained,” *Philosophy of Science*, 60: 114–133.
+* Sober, Elliott and David Sloan Wilson, 1998, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
+* Stewart, Alexander and Joshua Plotkin, 2012, “Extortion and Cooperation in the Prisoner's Dilemm,” *Proceedings of the National Academy of Sciences*, 109: 10134–10135.
+* –––, 2013, “From Extortion to Generosity, Evolution in the Iterated Prisoner's Dilemm,” *Proceedings of the National Academy of Sciences*, 110: 15348–15353.
+* Sugden, R., 1986, *The Economics of Rights, Cooperation and Welfare*, New York, Basil Blackwell; 2nd edition, 2004, Basingstoke, UK: Palgrave MacMillan.
+* Szabó:, György and Christoph Hauert, 2002, “Evolutionary Prisoner's Dilemma Games with Optional Participation,” *Physical Review E*, 66: 062903.
+* Taylor, Michael, 1987, *The Possibility of Cooperation*, Cambridge: Cambridge University Press.
+* Trivers, Robert, 1971, “The Evolution of Reciprocal Altruism,” *Quarterly Review of Biology*, 46: 35–57.
+* Tzafestas, Elpida, 2000 “Toward adaptive cooperative behavior,” *Proceedings of the Sixth International Conference on the Simulation of Adaptive Behavior*, SAB-2000, 2, 334–340.
+* Vanderschraaf, Peter, 1998, “The Informal Game Theory in Hume's Account of Convention,” *Economics and Philosophy*, 14: 215–247.
+* Williamson, Timothy, 1992, “Inexact Knowledge,” *Mind*, 101: 217–242.
+* Wilson, D.S. and E. Sober, 1994, “Reintroducing Group Selection to the Human Behavioral Sciences,” *Behavioral and Brain Sciences*, 17: 585–654.
 
 ## Academic Tools
 
@@ -678,4 +678,4 @@ p1（p2，p3，p4）p3（T−R）（R−S）p4（T−R）（R−P）=1，≠（1
 The current (2019) version of this article has benefited from the advice and assistance of Clark Donley.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Steven Kuhn](http://explore.georgetown.edu/people/kuhns/?PageTemplateID=189) <[_kuhns@georgetown.edu_](mailto:kuhns%40georgetown%2eedu)>
+[Steven Kuhn](http://explore.georgetown.edu/people/kuhns/?PageTemplateID=189) <[*kuhns@georgetown.edu*](mailto:kuhns%40georgetown%2eedu)>

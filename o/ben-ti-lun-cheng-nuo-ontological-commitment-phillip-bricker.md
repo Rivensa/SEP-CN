@@ -1,6 +1,6 @@
 # 本体论承诺 ontological commitment (Phillip Bricker)
 
-_首次发表于2014年11月3日星期一_
+*首次发表于2014年11月3日星期一*
 
 本体论，正如词源所示，是对存在的研究，对存在的事物。本体论者问：有哪些实体或实体种类存在？除了人、水坑和质子等具体实体外，是否还有抽象实体，如集合或数字？除了（或代替）特定实体外，是否还有属性或普遍性，我们说这些实体是实例化它们的？这些问题一直以来分裂了哲学家们，至今仍然如此。
 
@@ -12,7 +12,6 @@ _首次发表于2014年11月3日星期一_
 
 以下文章概述并评估了最重要的本体论承诺方法。它从关注存在量词和变量值的奎因方法开始。然后将奎因方法与更一般的蕴涵方法进行对比，后者放弃了对量词的关注。然后考虑了一种加强的蕴涵方法，要求理论的本体论承诺成为该理论的真理生成者。然后退后一步，考察本体论承诺的概念如何以及在多大程度上适用于普通语言。文章最后考虑了与弗雷格和卡尔纳普相关的非正统观点。
 
- 
 ***
 
 ## 1. 本体论承诺的量词解释
@@ -430,118 +429,118 @@ Hirsch 的现实主义与 Carnap 的反现实主义形成鲜明对比。对于 C
 
 ## Bibliography
 
-* Adams, Robert, 1974, “Theories of Actuality”, _Noûs_, 8: 211–31.
-* Alston, William, 1958, “Ontological Commitments”, _Philosophical Studies_, 9: 8–17.
-* Armstrong, D. M., 1980, “Against Ostrich Nominalism: A Reply to Michael Devitt”, _Pacific Philosophical Quarterly_, 61: 440–449.
-* –––, 1989, _A Combinatorial Theory of Possibility_, Cambridge: Cambridge University Press.
-* –––, 1997, _A World of States of Affairs_, Cambridge: Cambridge University Press.
-* –––, 2004, _Truth and Truthmakers_, Cambridge: Cambridge University Press.
-* Azzouni, Jody, 2004, _Deflating Existential Consequence_, Oxford: Oxford University Press.
-* Balaguer, Mark, 1998, _Platonism and Anti-Platonism in Mathematics_, Oxford: Oxford University Press.
-* Bencivenga, Ermanno, 1986, “Free Logics”, in _Handbook of Philosophical Logic, Vol. III_, Dordrecht: Kluwer, 373–426.
-* Bigelow, John, 1988, _The Reality of Numbers: A Physicalist's Philosophy of Mathematics_, Oxford: Oxford University Press.
-* Boolos, 1984, “To Be is To Be the Value of A Variable (or To Be Some Values of Some Variables)”, _Journal of Philosophy_, 81: 430–49.
-* Bricker, Phillip, 2014, “Truthmaking: With and without Counterpart Theory”, in _A Companion to David Lewis_, Barry Loewer and Jonathan Schaffer (eds.), Oxford: Blackwell.
-* Brogaard, Berit, 2008, “Inscrutability and Ontological Commitment”, _Philosophical Studies_, 141: 21–42.
-* Cameron, Ross, 2008, “Truthmakers and Ontological Commitment: Or, How to Deal with Complex Objects and Mathematical Ontology without Getting into Trouble”, _Philosophical Studies_, 140: 1–18.
-* –––, 2010, “How to Have a Radically Minimal Ontology”, _Philosophical Studies_, 151: 249–64.
-* –––, forthcoming, “Truthmakers”, in _Oxford Handbook of Truth_, Michael Glanzberg (ed.), Oxford: Oxford University Press.
-* Carnap, Rudolf, 1950, “Empiricism, Semantics, and Ontology”, _Revue Internationale de Philosophie_, 4: 20–40; reprinted in Carnap 1956: 205–21.
-* –––, 1956, _Meaning and Necessity_, Chicago: University of Chicago Press.
-* Cartwright, Richard, 1954, “Ontology and the Theory of Meaning”, _Philosophy of Science_, 21(4): 316–325.
-* Chalmers, David, 2006, “The Foundations of Two-Dimensional Semantics”, in _Two-Dimensional Semantics_, M. Garcia-Carpintero and J. Macia (eds.), Oxford: Oxford University Press, 55–140.
-* Chalmers, David, D. Manley, and R. Wasserman (eds.), 2009, _Metametaphysics: New Essays on the Foundations of Ontology_, Oxford: Oxford University Press.
-* Church, Alonzo, 1958, “Symposium: Ontological Commitment”, _Journal of Philosophy_, 55: 1008–1014.
-* Davidson, Donald, 1967, “The Logical Form of Action Sentences”, reprinted in his _Essays on Action and Events_, 1980, 105–22, Oxford: Oxford University Press.
-* Devitt, Michael, 1980, “‘Ostrich Nominalism’ or ‘Mirage Realism’”, _Pacific Philosophical Quarterly_, 69: 433–9.
-* Dummett, Michael, 1973, _Frege: Philosophy of Language_, London: Duckworth.
-* Eklund, Matti, 2006, “Neo-Fregean Ontology”, _Philosophical Perspectives_, 20: 95–121.
-* Field, Hartry, 1980, _Science Without Numbers_, Oxford: Blackwell.
-* –––, 1984, “Platonism for Cheap? Crispin Wright on Frege's Context Principle”, _Canadian Journal of Philosophy_, 14: 637–62.
-* Fine, Kit, 1991, “The Study of Ontology”, _Noûs_, 25: 263–294.
-* –––, 2001, “The Question of Realism”, _Philosophers' Imprint_, 1: 1–30.
+* Adams, Robert, 1974, “Theories of Actuality”, *Noûs*, 8: 211–31.
+* Alston, William, 1958, “Ontological Commitments”, *Philosophical Studies*, 9: 8–17.
+* Armstrong, D. M., 1980, “Against Ostrich Nominalism: A Reply to Michael Devitt”, *Pacific Philosophical Quarterly*, 61: 440–449.
+* –––, 1989, *A Combinatorial Theory of Possibility*, Cambridge: Cambridge University Press.
+* –––, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
+* –––, 2004, *Truth and Truthmakers*, Cambridge: Cambridge University Press.
+* Azzouni, Jody, 2004, *Deflating Existential Consequence*, Oxford: Oxford University Press.
+* Balaguer, Mark, 1998, *Platonism and Anti-Platonism in Mathematics*, Oxford: Oxford University Press.
+* Bencivenga, Ermanno, 1986, “Free Logics”, in *Handbook of Philosophical Logic, Vol. III*, Dordrecht: Kluwer, 373–426.
+* Bigelow, John, 1988, *The Reality of Numbers: A Physicalist's Philosophy of Mathematics*, Oxford: Oxford University Press.
+* Boolos, 1984, “To Be is To Be the Value of A Variable (or To Be Some Values of Some Variables)”, *Journal of Philosophy*, 81: 430–49.
+* Bricker, Phillip, 2014, “Truthmaking: With and without Counterpart Theory”, in *A Companion to David Lewis*, Barry Loewer and Jonathan Schaffer (eds.), Oxford: Blackwell.
+* Brogaard, Berit, 2008, “Inscrutability and Ontological Commitment”, *Philosophical Studies*, 141: 21–42.
+* Cameron, Ross, 2008, “Truthmakers and Ontological Commitment: Or, How to Deal with Complex Objects and Mathematical Ontology without Getting into Trouble”, *Philosophical Studies*, 140: 1–18.
+* –––, 2010, “How to Have a Radically Minimal Ontology”, *Philosophical Studies*, 151: 249–64.
+* –––, forthcoming, “Truthmakers”, in *Oxford Handbook of Truth*, Michael Glanzberg (ed.), Oxford: Oxford University Press.
+* Carnap, Rudolf, 1950, “Empiricism, Semantics, and Ontology”, *Revue Internationale de Philosophie*, 4: 20–40; reprinted in Carnap 1956: 205–21.
+* –––, 1956, *Meaning and Necessity*, Chicago: University of Chicago Press.
+* Cartwright, Richard, 1954, “Ontology and the Theory of Meaning”, *Philosophy of Science*, 21(4): 316–325.
+* Chalmers, David, 2006, “The Foundations of Two-Dimensional Semantics”, in *Two-Dimensional Semantics*, M. Garcia-Carpintero and J. Macia (eds.), Oxford: Oxford University Press, 55–140.
+* Chalmers, David, D. Manley, and R. Wasserman (eds.), 2009, *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press.
+* Church, Alonzo, 1958, “Symposium: Ontological Commitment”, *Journal of Philosophy*, 55: 1008–1014.
+* Davidson, Donald, 1967, “The Logical Form of Action Sentences”, reprinted in his *Essays on Action and Events*, 1980, 105–22, Oxford: Oxford University Press.
+* Devitt, Michael, 1980, “‘Ostrich Nominalism’ or ‘Mirage Realism’”, *Pacific Philosophical Quarterly*, 69: 433–9.
+* Dummett, Michael, 1973, *Frege: Philosophy of Language*, London: Duckworth.
+* Eklund, Matti, 2006, “Neo-Fregean Ontology”, *Philosophical Perspectives*, 20: 95–121.
+* Field, Hartry, 1980, *Science Without Numbers*, Oxford: Blackwell.
+* –––, 1984, “Platonism for Cheap? Crispin Wright on Frege's Context Principle”, *Canadian Journal of Philosophy*, 14: 637–62.
+* Fine, Kit, 1991, “The Study of Ontology”, *Noûs*, 25: 263–294.
+* –––, 2001, “The Question of Realism”, *Philosophers' Imprint*, 1: 1–30.
 * –––, 2009, “The Question of Ontology”, in Chalmers, Manley, and Wasserman 2009, 157–77.
-* Fox, John, 1987, “Truthmaker”, _Australasian Journal of Philosophy_, 65: 188–207.
-* Frege, Gottlob, 1884, _Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl_, Breslau: W. Koebner. Translated as _The Foundations of Arithmetic: A logico-mathematical enquiry into the concept of number_, by J.L. Austin, Oxford: Blackwell, 2nd rev. ed., 1974.
-* –––, 1892, “Über Sinn und Bedeutung”, in _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50. Translated as “On Sense and Reference” by M. Black in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds.), Oxford: Blackwell, 1980, 56–78.
-* Gottlieb, Dale, 1974. “Reference and Ontology”, _Journal of Philosophy_, 71(17): 587–9.
-* Graff Fara, Delia, 2011, “Socratizing”, _American Philosophical Quarterly_, 48(3): 239–48.
-* Hale, Bob, 1996, “Grundlagen §64”, _Proceedings of the Aristotelian Society_, 97: 243–61. Reprinted in Hale and Wright 2001, 91–116.
+* Fox, John, 1987, “Truthmaker”, *Australasian Journal of Philosophy*, 65: 188–207.
+* Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner. Translated as *The Foundations of Arithmetic: A logico-mathematical enquiry into the concept of number*, by J.L. Austin, Oxford: Blackwell, 2nd rev. ed., 1974.
+* –––, 1892, “Über Sinn und Bedeutung”, in *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50. Translated as “On Sense and Reference” by M. Black in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds.), Oxford: Blackwell, 1980, 56–78.
+* Gottlieb, Dale, 1974. “Reference and Ontology”, *Journal of Philosophy*, 71(17): 587–9.
+* Graff Fara, Delia, 2011, “Socratizing”, *American Philosophical Quarterly*, 48(3): 239–48.
+* Hale, Bob, 1996, “Grundlagen §64”, *Proceedings of the Aristotelian Society*, 97: 243–61. Reprinted in Hale and Wright 2001, 91–116.
 * –––, 2001, “Singular Terms (1)” and “Singular Terms (2)”, in Hale and Wright 2001, 31–71.
-* Hale, Bob and Crispin Wright, 2001, _The Reason's Proper Study: Essays Towards a Neo-Fregean Philosophy of Mathematics_, Oxford: Clarendon Press.
+* Hale, Bob and Crispin Wright, 2001, *The Reason's Proper Study: Essays Towards a Neo-Fregean Philosophy of Mathematics*, Oxford: Clarendon Press.
 * Hawthorne, John, 2009, “Superficialism in Ontology”, in Chalmers, Manley, and Wasserman 2009, 213–30.
-* Hazen, Alan, 1993, “Against Pluralism”, _Australasian Journal of Philosophy_, 71: 132–44.
-* Heil, John, 2003, _From an Ontological Point of View_, Oxford: Oxford University Press.
-* Hirsch, Eli, 2002, “Quantifier Variance and Realism”, _Philosophical Issues_, 12: 51–73.
-* Hofweber, Thomas, 2005, “A Puzzle about Ontology”, _Noûs_, 39: 56–83.
-* –––, 2013, “Logic and Ontology”, _The Stanford Encyclopedia of Philosophy_ (Spring 2013 Edition), Edward N. Zalta (ed.), URL=<[Logic and Ontology (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/logic-ontology/)>
-* Hylton, Peter, 2007, _Quine_, New York: Routledge.
-* Jackson, Frank, 1980, “Ontological Commitment and Paraphrase”, _Philosophy_, 55: 303–15.
-* –––, 1989, “A Puzzle About Ontological Commitment”, in J. Heil (ed.), _Cause, Mind, and Reality_, Dordrecht: Kluwer, 191–200.
-* –––, 1998, _From Metaphysics to Ethics: A Defence of Conceptual Analysis_, Oxford: Oxford University Press.
-* Kripke, Saul, 1980, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* Lewis, David, 1968, “Counterpart Theory and Quantified Modal Logic”, _Journal of Philosophy_, 65: 113–26.
-* –––, 1973, _Counterfactuals_, Cambridge, MA: Harvard University Press.
-* –––, 1983, “New Work for a Theory of Universals”, _Australian Journal of Philosophy_, 61: 343–77.
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1990, “Noneism or Allism?”, _Mind_, 99(393): 24–31.
-* –––, 1991, _Parts of Classes_, Oxford: Blackwell.
-* –––, 2001, “Truthmaking and Difference-Making”, _Noûs_, 35: 602–15.
-* –––, 2003, “Things _Qua_ Truthmakers”, in Lillehammer and Rodriguez-Pereyra 2003, 25–38.
-* Lewis, David and Stephanie Lewis, 1970, “Holes”, _Australasian Journal of Philosophy_, 48: 206–12.
-* Lillehammer, H. and G. Rodriguez-Pereyra (eds.), 2003, _Real Metaphysics: Essays in honor of D. H. Mellor_, London: Routledge.
-* Linnebo, Oystein, 2013, “Plural Quantification”, _The Stanford Encyclopedia of Philosophy_ (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <[Plural Quantification (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/plural-quant/)>.
-* McBride, Fraser, 2013, “Truthmakers”, _The Stanford Encyclopedia of Philosophy_ (Spring 2013 Edition), Edward N. Zalta (ed.), URL=<[Truthmakers (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/truthmakers/)>.
-* McGinn, Colin, 2000, _Logical Properties_, Oxford: Oxford University Press.
-* Melia, Joseph, 1995, “On What There's Not”, _Analysis_, 55: 223–9.
-* –––, 2005, “Truthmaking Without Truthmakers”, in _Truthmakers_, H. Beebee and J. Dodd (eds.), Oxford: Oxford University Press.
+* Hazen, Alan, 1993, “Against Pluralism”, *Australasian Journal of Philosophy*, 71: 132–44.
+* Heil, John, 2003, *From an Ontological Point of View*, Oxford: Oxford University Press.
+* Hirsch, Eli, 2002, “Quantifier Variance and Realism”, *Philosophical Issues*, 12: 51–73.
+* Hofweber, Thomas, 2005, “A Puzzle about Ontology”, *Noûs*, 39: 56–83.
+* –––, 2013, “Logic and Ontology”, *The Stanford Encyclopedia of Philosophy* (Spring 2013 Edition), Edward N. Zalta (ed.), URL=<[Logic and Ontology (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/logic-ontology/)>
+* Hylton, Peter, 2007, *Quine*, New York: Routledge.
+* Jackson, Frank, 1980, “Ontological Commitment and Paraphrase”, *Philosophy*, 55: 303–15.
+* –––, 1989, “A Puzzle About Ontological Commitment”, in J. Heil (ed.), *Cause, Mind, and Reality*, Dordrecht: Kluwer, 191–200.
+* –––, 1998, *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press.
+* Kripke, Saul, 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Lewis, David, 1968, “Counterpart Theory and Quantified Modal Logic”, *Journal of Philosophy*, 65: 113–26.
+* –––, 1973, *Counterfactuals*, Cambridge, MA: Harvard University Press.
+* –––, 1983, “New Work for a Theory of Universals”, *Australian Journal of Philosophy*, 61: 343–77.
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1990, “Noneism or Allism?”, *Mind*, 99(393): 24–31.
+* –––, 1991, *Parts of Classes*, Oxford: Blackwell.
+* –––, 2001, “Truthmaking and Difference-Making”, *Noûs*, 35: 602–15.
+* –––, 2003, “Things *Qua* Truthmakers”, in Lillehammer and Rodriguez-Pereyra 2003, 25–38.
+* Lewis, David and Stephanie Lewis, 1970, “Holes”, *Australasian Journal of Philosophy*, 48: 206–12.
+* Lillehammer, H. and G. Rodriguez-Pereyra (eds.), 2003, *Real Metaphysics: Essays in honor of D. H. Mellor*, London: Routledge.
+* Linnebo, Oystein, 2013, “Plural Quantification”, *The Stanford Encyclopedia of Philosophy* (Spring 2013 Edition), Edward N. Zalta (ed.), URL = <[Plural Quantification (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/plural-quant/)>.
+* McBride, Fraser, 2013, “Truthmakers”, *The Stanford Encyclopedia of Philosophy* (Spring 2013 Edition), Edward N. Zalta (ed.), URL=<[Truthmakers (Stanford Encyclopedia of Philosophy/Spring 2013 Edition)](https://plato.stanford.edu/archives/spr2013/entries/truthmakers/)>.
+* McGinn, Colin, 2000, *Logical Properties*, Oxford: Oxford University Press.
+* Melia, Joseph, 1995, “On What There's Not”, *Analysis*, 55: 223–9.
+* –––, 2005, “Truthmaking Without Truthmakers”, in *Truthmakers*, H. Beebee and J. Dodd (eds.), Oxford: Oxford University Press.
 * Mellor, D. H., 2003, “Real Metaphysics: Replies”, in Lillehammer and Rodriguez-Pereyra 2003, 212–38.
-* Menzel, Christopher, 2013, “Possible Worlds”, _Stanford Encyclopedia of Philosophy_ (summer 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2014/entries/possible-worlds/](https://plato.stanford.edu/archives/sum2014/entries/possible-worlds/).
-* Michael, Michaelis, 2008, “Implicit Ontological Commitment”, _Philosophical Studies_, 141: 143–61.
-* Mulligan, Kevin, Peter Simons, and Barry Smith, 1984, “Truth-Makers”, _Philosophy and Phenomenological Research_, 44: 287–321.
-* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, _Notre Dame Journal of Formal Logic_, 38: 535–572.
-* Parsons, Josh, 1999, “There is no ‘Truthmaker Argument’ against Nominalism”, _Australasian Journal of Philosophy_, 77: 325–34.
-* Parsons, Terence, 1970, “Various Extensional Notions of Ontological Commitment”, _Philosophical Studies_, 22: 65–74.
-* Peacock, Howard, 2011, “Two Kinds of Ontological Commitment”, _Philosophical Quarterly_, 61(242): 79–104.
-* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
-* Potter, Michael and Timothy Smiley, 2001, “Abstraction by Recarving”, _Proceedings of the Aristotelian Society_, 101: 327–38.
-* Priest, Graham, 2001, _An Introduction to Non-Classical Logic_, Cambridge: Cambridge University Press.
-* –––, 2005, _Towards Non-Being: The Logic and Metaphysics of Intentionality_, Oxford: Oxford University Press.
-* Prior, A. N., 1971, _Objects of Thought_, Oxford: Oxford University Press.
-* Putnam, Hilary, 1971, _The Philosophy of Logic_, New York: Harper.
-* –––, 1987, “Truth and Convention: On Davidson's Refutation of Conceptual Relativism”, _Dialectica_, 41: 41–67.
-* Quine, W. V., 1948, “On What There Is”, _The Review of Metaphysics_, 2(1): 21–38. Reprinted in Quine 1953: 1–19.
-* –––, 1951a, “Ontology and Ideology”, _Philosophical Studies_, 2: 11–15.
-* –––, 1951b, “On Carnap's Views on Ontology”, _Philosophical Studies_, 2: 65–72.
-* –––, 1953, _From a Logical Point of View_, New York: Harper.
-* –––, 1960, _Word and Object_, Cambridge, MA: M.I.T.
-* –––, 1966, “Quantification and the Empty Domain”, in _Selected Logic Papers_, Cambridge, MA.: Harvard, 220–3.
-* –––, 1968, “Existence and Quantification”, in _Ontological Relativity and Other Essays_, New York: Columbia University Press, 91–113.
-* –––, 1970, _Philosophy of Logic_, Englewood Cliffs, NJ: Prentice Hall.
-* –––, 1974, _The Roots of Reference_, La Salle, IL: Open Court.
-* –––, 1977, “Facts of the Matter”, in _American Philosophy: from Edwards to Quine_, R. Shahan (ed.), Normal, OK: University of Oklahoma Press, 155–69.
-* Rayo, Agustin, 2007, “Ontological Commitment”, _Philosophy Compass_, 2(3): 428–44.
-* Rayo, Agustin and Stephen Yablo, 2001, “Nominalism Through De-Nominalization”, _Noûs_, 35: 74–92.
-* Resnick, Michael, 1988, “Second-Order Logic Still Wild”, _Journal of Philosophy_, 85: 75–87.
-* Restall, Greg, 1996, “Truthmakers, Entailment and Necessity”, _Australasian Journal of Philosophy_, 74: 331–40.
-* Rosen, Gideon, 1993, “The Refutation of Nominalism (?)”, _Philosophical Topics_, 21(2): 149–86.
-* Routley, Richard, 1982, _Exploring Meinong's Jungle_, Australian National University.
-* Schaffer, Jonathan, 2008, “Truthmaker Commitments”, _Philosophical Studies_, 141: 7–19.
+* Menzel, Christopher, 2013, “Possible Worlds”, *Stanford Encyclopedia of Philosophy* (summer 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2014/entries/possible-worlds/](https://plato.stanford.edu/archives/sum2014/entries/possible-worlds/).
+* Michael, Michaelis, 2008, “Implicit Ontological Commitment”, *Philosophical Studies*, 141: 143–61.
+* Mulligan, Kevin, Peter Simons, and Barry Smith, 1984, “Truth-Makers”, *Philosophy and Phenomenological Research*, 44: 287–321.
+* Nolan, Daniel, 1997, “Impossible Worlds: A Modest Approach”, *Notre Dame Journal of Formal Logic*, 38: 535–572.
+* Parsons, Josh, 1999, “There is no ‘Truthmaker Argument’ against Nominalism”, *Australasian Journal of Philosophy*, 77: 325–34.
+* Parsons, Terence, 1970, “Various Extensional Notions of Ontological Commitment”, *Philosophical Studies*, 22: 65–74.
+* Peacock, Howard, 2011, “Two Kinds of Ontological Commitment”, *Philosophical Quarterly*, 61(242): 79–104.
+* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
+* Potter, Michael and Timothy Smiley, 2001, “Abstraction by Recarving”, *Proceedings of the Aristotelian Society*, 101: 327–38.
+* Priest, Graham, 2001, *An Introduction to Non-Classical Logic*, Cambridge: Cambridge University Press.
+* –––, 2005, *Towards Non-Being: The Logic and Metaphysics of Intentionality*, Oxford: Oxford University Press.
+* Prior, A. N., 1971, *Objects of Thought*, Oxford: Oxford University Press.
+* Putnam, Hilary, 1971, *The Philosophy of Logic*, New York: Harper.
+* –––, 1987, “Truth and Convention: On Davidson's Refutation of Conceptual Relativism”, *Dialectica*, 41: 41–67.
+* Quine, W. V., 1948, “On What There Is”, *The Review of Metaphysics*, 2(1): 21–38. Reprinted in Quine 1953: 1–19.
+* –––, 1951a, “Ontology and Ideology”, *Philosophical Studies*, 2: 11–15.
+* –––, 1951b, “On Carnap's Views on Ontology”, *Philosophical Studies*, 2: 65–72.
+* –––, 1953, *From a Logical Point of View*, New York: Harper.
+* –––, 1960, *Word and Object*, Cambridge, MA: M.I.T.
+* –––, 1966, “Quantification and the Empty Domain”, in *Selected Logic Papers*, Cambridge, MA.: Harvard, 220–3.
+* –––, 1968, “Existence and Quantification”, in *Ontological Relativity and Other Essays*, New York: Columbia University Press, 91–113.
+* –––, 1970, *Philosophy of Logic*, Englewood Cliffs, NJ: Prentice Hall.
+* –––, 1974, *The Roots of Reference*, La Salle, IL: Open Court.
+* –––, 1977, “Facts of the Matter”, in *American Philosophy: from Edwards to Quine*, R. Shahan (ed.), Normal, OK: University of Oklahoma Press, 155–69.
+* Rayo, Agustin, 2007, “Ontological Commitment”, *Philosophy Compass*, 2(3): 428–44.
+* Rayo, Agustin and Stephen Yablo, 2001, “Nominalism Through De-Nominalization”, *Noûs*, 35: 74–92.
+* Resnick, Michael, 1988, “Second-Order Logic Still Wild”, *Journal of Philosophy*, 85: 75–87.
+* Restall, Greg, 1996, “Truthmakers, Entailment and Necessity”, *Australasian Journal of Philosophy*, 74: 331–40.
+* Rosen, Gideon, 1993, “The Refutation of Nominalism (?)”, *Philosophical Topics*, 21(2): 149–86.
+* Routley, Richard, 1982, *Exploring Meinong's Jungle*, Australian National University.
+* Schaffer, Jonathan, 2008, “Truthmaker Commitments”, *Philosophical Studies*, 141: 7–19.
 * –––, 2009, “On What Grounds What”, in Chalmers, Manley, and Wasserman 2009, 347–83.
-* –––, 2010, “The Least Discerning and Most Promiscuous Truthmaker”, _The Philosophical Quarterly_, 60 (239): 307–24.
-* Shapiro, Stewart, 2013, “Classical Logic”, _The Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Classical Logic (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/logic-classical/)>.
-* Schiffer, Stephen, 2003, _The Things We Mean_, Oxford: Clarendon Press.
-* Scheffler, Israel and Noam Chomsky, 1958, “What is Said to Be”, _Proceedings of the Aristotelian Society_, 59: 71–82.
-* Searle, John, 1969, _Speech Acts_, Cambridge: Cambridge University Press.
-* Sider, Theodore, 1999, “Presentism and Ontological Commitment”, _The Journal of Philosophy_, 96: 325–47.
-* –––, 2011, _Writing the Book of the World_, Oxford: Oxford University Press.
-* Stalnaker, Robert, 1976, “Possible Worlds”, _Noûs_, 10: 65–75.
-* Thomasson, Amie, 2008, “Existence Questions”, _Philosophical Studies_, 141: 63–78.
-* Van Inwagen, Peter, 1998, “Meta-Ontology”, _Erkenntnis_, 48 (2/3): 233–50.
-* Wright, Crispin, 1983, _Frege's Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
-* –––, 1990, “Field and Fregean Platonism”, in _Physicalism in Mathematics_, A. Irvine (ed.), Dordrecht: Kluwer. Reprinted in Hale and Wright 2001, 153–68.
-* Yablo, Stephan, 1998, “Does Ontology Rest on a Mistake?” _Proceedings of the Aristotelian Society_, 72(suppl.): 229–62.
-* –––, 1999, “A Paradox of Existence”, in _Empty Names, Fiction, and the Puzzle of Non-Existence_, A. Everitt and T. Hofweber (eds.), Stanford: CSLI, 275–312.
+* –––, 2010, “The Least Discerning and Most Promiscuous Truthmaker”, *The Philosophical Quarterly*, 60 (239): 307–24.
+* Shapiro, Stewart, 2013, “Classical Logic”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Classical Logic (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/logic-classical/)>.
+* Schiffer, Stephen, 2003, *The Things We Mean*, Oxford: Clarendon Press.
+* Scheffler, Israel and Noam Chomsky, 1958, “What is Said to Be”, *Proceedings of the Aristotelian Society*, 59: 71–82.
+* Searle, John, 1969, *Speech Acts*, Cambridge: Cambridge University Press.
+* Sider, Theodore, 1999, “Presentism and Ontological Commitment”, *The Journal of Philosophy*, 96: 325–47.
+* –––, 2011, *Writing the Book of the World*, Oxford: Oxford University Press.
+* Stalnaker, Robert, 1976, “Possible Worlds”, *Noûs*, 10: 65–75.
+* Thomasson, Amie, 2008, “Existence Questions”, *Philosophical Studies*, 141: 63–78.
+* Van Inwagen, Peter, 1998, “Meta-Ontology”, *Erkenntnis*, 48 (2/3): 233–50.
+* Wright, Crispin, 1983, *Frege's Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+* –––, 1990, “Field and Fregean Platonism”, in *Physicalism in Mathematics*, A. Irvine (ed.), Dordrecht: Kluwer. Reprinted in Hale and Wright 2001, 153–68.
+* Yablo, Stephan, 1998, “Does Ontology Rest on a Mistake?” *Proceedings of the Aristotelian Society*, 72(suppl.): 229–62.
+* –––, 1999, “A Paradox of Existence”, in *Empty Names, Fiction, and the Puzzle of Non-Existence*, A. Everitt and T. Hofweber (eds.), Stanford: CSLI, 275–312.
 
 ## Academic Tools
 
@@ -561,4 +560,4 @@ Hirsch 的现实主义与 Carnap 的反现实主义形成鲜明对比。对于 C
 [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [existence](https://plato.stanford.edu/entries/existence/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [grounding, metaphysical](https://plato.stanford.edu/entries/grounding/) | [logical consequence](https://plato.stanford.edu/entries/logical-consequence/) | [logic and ontology](https://plato.stanford.edu/entries/logic-ontology/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [Meinong, Alexius](https://plato.stanford.edu/entries/meinong/) | [modality: varieties of](https://plato.stanford.edu/entries/modality-varieties/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | ontology | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [properties](https://plato.stanford.edu/entries/properties/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [realism](https://plato.stanford.edu/entries/realism/) | [states of affairs](https://plato.stanford.edu/entries/states-of-affairs/) | [tropes](https://plato.stanford.edu/entries/tropes/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/)
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
-[Phillip Bricker](https://www.umass.edu/philosophy/faculty/faculty-pages/bricker.htm) <[_bricker@philos.umass.edu_](mailto:bricker%40philos%2eumass%2eedu)>
+[Phillip Bricker](https://www.umass.edu/philosophy/faculty/faculty-pages/bricker.htm) <[*bricker@philos.umass.edu*](mailto:bricker%40philos%2eumass%2eedu)>

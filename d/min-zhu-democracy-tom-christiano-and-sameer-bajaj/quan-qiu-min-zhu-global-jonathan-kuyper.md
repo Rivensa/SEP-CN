@@ -1,11 +1,10 @@
 # 全球民主 global (Jonathan Kuyper)
 
-_首次发布于 2015 年 2 月 23 日星期一_
+*首次发布于 2015 年 2 月 23 日星期一*
 
 全球民主是一门学术研究和政治行动的领域，关注如何使全球政治体系更加民主。这个主题已经成为政治哲学、国际关系、国际法和社会学等已有文献的核心研究领域。与全球正义一样，全球民主也对近几十年国际政治理论的出现起到了重要作用。全球正义学者倾向于关注国际机构如何分配负担和利益，而全球民主主义者则探讨如何在国家之外合法化政治权力。因此，全球民主关注的是如何合理化跨国决策以及谁有权参与全球规则、法律和法规的制定。
 
 这篇简短的文章包含四个部分，详细阐述了全球民主的可能性和问题。第一部分讨论了全球化对国家的影响以及对传统民主观念的意义。引入了全球民主赤字的概念，即个体在跨国决策中被排除在外的问题，并阐述了追求全球民主的原因。第二部分概述了一些重要的全球民主规范提案。具体而言，介绍了五种“全球民主模式”，并提出了一些普遍的批评意见。第三部分强调了最近追求“民主化价值观”的转向。这一文献的新方向既有方法论的意义，也有实质性的影响。最后一部分强调了应该在未来的全球民主研究中解决的持续批评。
-
 
 ***
 
@@ -137,79 +136,79 @@ _首次发布于 2015 年 2 月 23 日星期一_
 
 ### Bibliography
 
-* Agné, Hans, 2006, “A dogma of democratic theory and globalization: why politics need not include everyone it affects,” _European Journal of International Relations_, 12(3): 433–458.
-* Archibugi, Daniele, 2008, _The Global Commonwealth of Citizens: Toward Cosmopolitan Democracy_, Princeton: Princeton University Press.
-* –––, Koenig-Archibugi, Mathias, and Marchetti, Raffaele (eds.), 2012, _Global Democracy: Normative and Empirical Perspectives_, Cambridge: Cambridge University Press.
-* –––, and Held, David, 2011, “Cosmopolitan democracy: paths and agents,” _Ethics & International Affairs_, 25(4): 433–61.
-* Bäckstrand, Karin, 2006, “Democratizing Global Environmental Governance? Stakeholder Democracy after the World Summit on Sustainable Development,” _European Journal of International Relations_, 12(4): 467–498.
-* Beitz, Charles R., 1979, _Political Theory and International Relations_, Princeton: Princeton University Press.
-* Bexell, Magdalena, Tallberg, Jonas, and Uhlin, Anders, 2010, “Democracy in Global Governance: The Promises and Pitfalls of Transnational Actors,” _Global Governance_, 16(1): 81–101.
-* Bohman, James, 2007, _Democracy across Borders: From Dêmos to Dêmoi_, Cambridge, MA: MIT Press.
-* Bray, Daniel, 2013, “Pragmatist Ethics and the Will to Believe in Cosmopolitanism,” _International Theory_, 5(3): 446–76.
-* –––, and Slaughter, Steven, 2014, _Global Democratic Theory: Problems and Possibilities_, Cambridge: Polity.
-* Buchanan, Allen and Keohane, Robert O., 2006, “The Legitimacy of Global Governance Institutions,” _Ethics and International Affairs_, 20(4): 405–437.
-* Cabrera, Luis, 2004, _Political Theory of Global Justice: A Cosmopolitan Case for the World State_, London: Routledge.
-* Cohen, Joshua and Sabel, Charles, 2006, “Global Democracy?” _New York University Journal of International Law and Politics_, 37(4): 763–797.
+* Agné, Hans, 2006, “A dogma of democratic theory and globalization: why politics need not include everyone it affects,” *European Journal of International Relations*, 12(3): 433–458.
+* Archibugi, Daniele, 2008, *The Global Commonwealth of Citizens: Toward Cosmopolitan Democracy*, Princeton: Princeton University Press.
+* –––, Koenig-Archibugi, Mathias, and Marchetti, Raffaele (eds.), 2012, *Global Democracy: Normative and Empirical Perspectives*, Cambridge: Cambridge University Press.
+* –––, and Held, David, 2011, “Cosmopolitan democracy: paths and agents,” *Ethics & International Affairs*, 25(4): 433–61.
+* Bäckstrand, Karin, 2006, “Democratizing Global Environmental Governance? Stakeholder Democracy after the World Summit on Sustainable Development,” *European Journal of International Relations*, 12(4): 467–498.
+* Beitz, Charles R., 1979, *Political Theory and International Relations*, Princeton: Princeton University Press.
+* Bexell, Magdalena, Tallberg, Jonas, and Uhlin, Anders, 2010, “Democracy in Global Governance: The Promises and Pitfalls of Transnational Actors,” *Global Governance*, 16(1): 81–101.
+* Bohman, James, 2007, *Democracy across Borders: From Dêmos to Dêmoi*, Cambridge, MA: MIT Press.
+* Bray, Daniel, 2013, “Pragmatist Ethics and the Will to Believe in Cosmopolitanism,” *International Theory*, 5(3): 446–76.
+* –––, and Slaughter, Steven, 2014, *Global Democratic Theory: Problems and Possibilities*, Cambridge: Polity.
+* Buchanan, Allen and Keohane, Robert O., 2006, “The Legitimacy of Global Governance Institutions,” *Ethics and International Affairs*, 20(4): 405–437.
+* Cabrera, Luis, 2004, *Political Theory of Global Justice: A Cosmopolitan Case for the World State*, London: Routledge.
+* Cohen, Joshua and Sabel, Charles, 2006, “Global Democracy?” *New York University Journal of International Law and Politics*, 37(4): 763–797.
 * Dahl, Robert A., 1999, “Can international organizations be democratic? A skeptic's view,” In Ian Shapiro and Casiano Hacker-Cordón, (eds.) Democracy's Edges. Cambridge: Cambridge University Press, pp. 19–36.
-* de Búrca, Grainne, 2008, “Developing Democracy Beyond the State,” _Columbia Journal of Transnational Law_, 46(2): 101–158.
-* Dingwerth, Klaus, 2014, “Global democracy and the democratic minimum: Why a procedural account alone is insufficient,” _European Journal of International Relations_, 20(4): 1124–1147. doi:10.1177/1354066113509116
-* Dryzek, John, 2000, _Deliberative Democracy and Beyond: Liberals, Critics, Contestations_, Oxford: Oxford University Press.
-* –––, 2008, “Two paths to global democracy,” _Ethical Perspectives_, 15(4): 469–486.
-* –––, 2012, “Global civil society: the progress of post-Westphalian politics,” _Annual Review of Political Science_, 15: 101–19.
-* Erman, Eva, 2012, “In Search of Democratic Agency in Deliberative Governance,” _European Journal of International Relations_, 19(4): 847–68.
-* Falk, Richard, and Strauss, Andrew, 2001, “Toward Global Parliament,” _Foreign Affairs_, 80(1): 212–20.
-* Forst, Rainer, 2011, _The Right to Justification: Elements of a Constructivist Theory of Justice_, New York: Columbia University Press.
-* Gallie, Walter B., 1956, “Essentially contested concepts,” _Proceedings of the Aristotelean Society_, 56: 167–198.
-* Giddens, Anthony, 1985, _A Contemporary Critique of Historical Materialism, Vol. 2: The Nation State and Violence_, Cambridge: Polity.
-* Goodhart, Michael, 2005, _Democracy as Human Rights: Freedom and Equality in the Age of Globalization_, London: Routledge.
-* –––, 2008, “Human Rights and Global Democracy,” _Ethics & International Affairs_, 22(4): 395–420.
-* Goodin, Robert E., 2007, “Enfranchising All Affected Interests, and Its Alternatives,” _Philosophy & Public Affairs_, 35(1): 40–68.
-* –––, 2010, “Global democracy: in the beginning,” _International Theory_, 2(2): 175–209.
-* Habermas, Jürgen, 1996, _Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy_, W. Rehg (trans.). Cambridge, MA: MIT Press. \[German, 1992b]
-* –––, 2001, _The Postnational Constellation_, M. Pensky (trans., ed.). Cambridge, MA: MIT Press. \[German, 1998c]
-* –––, 2006, _The Divided West_, C. Cronin (trans.). Cambridge: Polity. \[German, 2004].
-* Hardt, Michael, and Negri, Antonio, 2000, _Empire_. , Cambridge, MA and New York: Harvard University Press.
-* Held, David, 1995, _Democracy and the Global Order_, Stanford: Stanford University Press.
-* –––, 2002, “Cosmopolitanism: Globalization Tamed?” _Review of International Studies_, 29(4): 465–480.
-* Hobbes, Thomas, 1986 \[1651], _Leviathan_, Markham: Penguin.
-* Huntington, Samuel, 1991, _The Third Wave: Democratization in the Late Twentieth Century_, Oklahoma: University of Oklahoma Press.
-* Kant, Immanuel, 1991 \[1795], “Idea for a Universal History with a Cosmopolitan Purpose” and “Perpetual Peace: A Philosophical Sketch,” in _Political Writings_, H. B. Nisbet (trans.), Hans Reiss (ed.), 2nd ed., New York: Cambridge University Press, 41–53 and 93–130.
-* Keane, John, 2009, _The Life and Death of Democracy_, London: Simon & Schuster.
-* Keohane, Robert O., Macedo, Stephen, and Moravcsik, Andrew, 2009, “Democracy-Enhancing Multilateralism,” _International Organization_, 63(1): 1–31.
-* Koenig-Archibugi, Mathias, 2011, “Is Global Democracy Possible?” _European Journal of International Relations_, 17(3): 519–542.
-* Kuper, Andrew, 2004, _Democracy beyond Borders: Justice and Representation in Global Institutions_, Oxford: Oxford University Press.
-* Kuyper, Jonathan W., 2014, “Global Democratization and International Regime Complexity,” _European Journal of International Relations_, 20(3): 620–46.
-* Landemore, Hélène, 2013, _Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many_, Princeton, NJ: Princeton University Press.
-* Linklater, Andrew, 1998, _The Transformation of Political Community_, Columbia: University of South Carolina Press.
-* Little, Adrian, and Macdonald, Kate, 2013, “Pathways to Global Democracy? Escaping the Statist Imaginary,” _Review of International Studies_, 39(4): 789–813.
-* Macdonald, Terry, 2008, _Global Stakeholder Democracy: Power and Representation Beyond Liberal States_, Oxford: Oxford University Press.
-* –––, and Macdonald, Kate, 2006, “Non-Electoral Accountability in Global Politics: Strengthening Democratic Control within the Global Garment Industry,” _European Journal of International Law_, 17(1): 89–119.
-* –––, and Ronzoni, Miriam, 2012, “Introduction: the idea of global political Justice,” _Critical Review of International Social and Political Philosophy_, 15(5): 521–33.
-* Marchetti, Raffaele, 2008, _Global Democracy: For and Against_, New York: Routledge.
-* Miller, David, 1995, _On Nationality_, Oxford: Oxford University Press.
-* Moravcsik, Andrew, 2004, “Is there a ‘democratic deficit’ in world politics? A framework For analysis,” _Government and Opposition_, 39(2): 336–363.
-* Morgenthau, Hans J., 1954, _Politics among Nations: The Struggle for Power and Peace_, 2nd ed., New York: Alfred A. Knopf.
-* Mouffe, Chantal, 2009, “Democracy in a multipolar world,” _Millennium_, 37(3): 549–561.
-* Nagel, Thomas, 2005, “The Problem of Global Justice,” _Philosophy and Public Affairs_, 33(2): 113–147.
-* Pettit, Philip, 1997, _Republicanism: A Theory of Freedom and Government_, Oxford: Clarendon Press.
-* Pogge, Thomas, 1992, “Cosmopolitanism and Sovereignty,” _Ethics_, 103(1): 48–75.
-* Rawls, John, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* –––, 1999, _The Law of Peoples_, Cambridge, MA: Harvard University Press.
-* Ruggie, John, G., 1998, “What Makes the World Hang Together? Neo-Utilitarianism and the Social Constructivist Challenge,” _International Organization_, 52(4): 855–85.
-* Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State,” _Philosophy & Public Affairs_, 35(1): 3–39.
-* Sassen, Saskia, 2003, “Globalization or denationalization?” _Review of International Political Economy_, 10(1): 1–22.
-* Scheuerman, William E., 2008, “Global Governance without Global Government? Habermas on Postnational Democracy,” _Political Theory_, 36(1): 133–151.
-* Scholte, Jan Aart, 2000, _Globalization: A Critical Introduction_, New York: St. Martin's.
-* –––, 2014, “Reinventing Global Democracy,” _European Journal of International Relations_, 20(1): 3–28.
-* Sen, Amartya, 2006, “What do we want from a theory of justice?” _The Journal of Philosophy_, 103(5): 215–38.
-* Singer, Peter, 1973, _Democracy and Disobedience_, Oxford: Oxford University Press.
-* Steffek, Jens, 2010, “Public accountability and the public sphere of international governance,” _Ethics and International Affairs_, 24(1): 45–67.
-* Tallberg, Jonas, Thomas Sommerer, Theresa Squatrito, and Christer Jönsson, 2013, _The opening up of international organizations_, New York: Cambridge University Press.
-* Tännsjö, Torbjörn, 2008, _Global Democracy: The Case for a World Government_, Edinburgh: Edinburgh University Press.
-* Valentini, Laura, 2012, “Assessing the global order: Justice, legitimacy, or political justice?” _Critical Review of International Social and Political Philosophy_, 15(5): 593–612.
-* Wendt, Alexander, 2003, “Why a World State is Inevitable,” _European Journal of International Relations_, 9(4): 491–542.
-* Zürn, Michael, 2000, “Democratic Governance Beyond the Nation-State: The EU and Other International Institutions,” _European Journal of International Relations_, 6(2): 183–221.
-* –––, Binder, Martin, and Ecker-Ehrhardt, Mattias, 2012, “International Authority and its Politicization,” _International Theory_, 4(1): 69–106.
+* de Búrca, Grainne, 2008, “Developing Democracy Beyond the State,” *Columbia Journal of Transnational Law*, 46(2): 101–158.
+* Dingwerth, Klaus, 2014, “Global democracy and the democratic minimum: Why a procedural account alone is insufficient,” *European Journal of International Relations*, 20(4): 1124–1147. doi:10.1177/1354066113509116
+* Dryzek, John, 2000, *Deliberative Democracy and Beyond: Liberals, Critics, Contestations*, Oxford: Oxford University Press.
+* –––, 2008, “Two paths to global democracy,” *Ethical Perspectives*, 15(4): 469–486.
+* –––, 2012, “Global civil society: the progress of post-Westphalian politics,” *Annual Review of Political Science*, 15: 101–19.
+* Erman, Eva, 2012, “In Search of Democratic Agency in Deliberative Governance,” *European Journal of International Relations*, 19(4): 847–68.
+* Falk, Richard, and Strauss, Andrew, 2001, “Toward Global Parliament,” *Foreign Affairs*, 80(1): 212–20.
+* Forst, Rainer, 2011, *The Right to Justification: Elements of a Constructivist Theory of Justice*, New York: Columbia University Press.
+* Gallie, Walter B., 1956, “Essentially contested concepts,” *Proceedings of the Aristotelean Society*, 56: 167–198.
+* Giddens, Anthony, 1985, *A Contemporary Critique of Historical Materialism, Vol. 2: The Nation State and Violence*, Cambridge: Polity.
+* Goodhart, Michael, 2005, *Democracy as Human Rights: Freedom and Equality in the Age of Globalization*, London: Routledge.
+* –––, 2008, “Human Rights and Global Democracy,” *Ethics & International Affairs*, 22(4): 395–420.
+* Goodin, Robert E., 2007, “Enfranchising All Affected Interests, and Its Alternatives,” *Philosophy & Public Affairs*, 35(1): 40–68.
+* –––, 2010, “Global democracy: in the beginning,” *International Theory*, 2(2): 175–209.
+* Habermas, Jürgen, 1996, *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, W. Rehg (trans.). Cambridge, MA: MIT Press. \[German, 1992b]
+* –––, 2001, *The Postnational Constellation*, M. Pensky (trans., ed.). Cambridge, MA: MIT Press. \[German, 1998c]
+* –––, 2006, *The Divided West*, C. Cronin (trans.). Cambridge: Polity. \[German, 2004].
+* Hardt, Michael, and Negri, Antonio, 2000, *Empire*. , Cambridge, MA and New York: Harvard University Press.
+* Held, David, 1995, *Democracy and the Global Order*, Stanford: Stanford University Press.
+* –––, 2002, “Cosmopolitanism: Globalization Tamed?” *Review of International Studies*, 29(4): 465–480.
+* Hobbes, Thomas, 1986 \[1651], *Leviathan*, Markham: Penguin.
+* Huntington, Samuel, 1991, *The Third Wave: Democratization in the Late Twentieth Century*, Oklahoma: University of Oklahoma Press.
+* Kant, Immanuel, 1991 \[1795], “Idea for a Universal History with a Cosmopolitan Purpose” and “Perpetual Peace: A Philosophical Sketch,” in *Political Writings*, H. B. Nisbet (trans.), Hans Reiss (ed.), 2nd ed., New York: Cambridge University Press, 41–53 and 93–130.
+* Keane, John, 2009, *The Life and Death of Democracy*, London: Simon & Schuster.
+* Keohane, Robert O., Macedo, Stephen, and Moravcsik, Andrew, 2009, “Democracy-Enhancing Multilateralism,” *International Organization*, 63(1): 1–31.
+* Koenig-Archibugi, Mathias, 2011, “Is Global Democracy Possible?” *European Journal of International Relations*, 17(3): 519–542.
+* Kuper, Andrew, 2004, *Democracy beyond Borders: Justice and Representation in Global Institutions*, Oxford: Oxford University Press.
+* Kuyper, Jonathan W., 2014, “Global Democratization and International Regime Complexity,” *European Journal of International Relations*, 20(3): 620–46.
+* Landemore, Hélène, 2013, *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*, Princeton, NJ: Princeton University Press.
+* Linklater, Andrew, 1998, *The Transformation of Political Community*, Columbia: University of South Carolina Press.
+* Little, Adrian, and Macdonald, Kate, 2013, “Pathways to Global Democracy? Escaping the Statist Imaginary,” *Review of International Studies*, 39(4): 789–813.
+* Macdonald, Terry, 2008, *Global Stakeholder Democracy: Power and Representation Beyond Liberal States*, Oxford: Oxford University Press.
+* –––, and Macdonald, Kate, 2006, “Non-Electoral Accountability in Global Politics: Strengthening Democratic Control within the Global Garment Industry,” *European Journal of International Law*, 17(1): 89–119.
+* –––, and Ronzoni, Miriam, 2012, “Introduction: the idea of global political Justice,” *Critical Review of International Social and Political Philosophy*, 15(5): 521–33.
+* Marchetti, Raffaele, 2008, *Global Democracy: For and Against*, New York: Routledge.
+* Miller, David, 1995, *On Nationality*, Oxford: Oxford University Press.
+* Moravcsik, Andrew, 2004, “Is there a ‘democratic deficit’ in world politics? A framework For analysis,” *Government and Opposition*, 39(2): 336–363.
+* Morgenthau, Hans J., 1954, *Politics among Nations: The Struggle for Power and Peace*, 2nd ed., New York: Alfred A. Knopf.
+* Mouffe, Chantal, 2009, “Democracy in a multipolar world,” *Millennium*, 37(3): 549–561.
+* Nagel, Thomas, 2005, “The Problem of Global Justice,” *Philosophy and Public Affairs*, 33(2): 113–147.
+* Pettit, Philip, 1997, *Republicanism: A Theory of Freedom and Government*, Oxford: Clarendon Press.
+* Pogge, Thomas, 1992, “Cosmopolitanism and Sovereignty,” *Ethics*, 103(1): 48–75.
+* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* –––, 1999, *The Law of Peoples*, Cambridge, MA: Harvard University Press.
+* Ruggie, John, G., 1998, “What Makes the World Hang Together? Neo-Utilitarianism and the Social Constructivist Challenge,” *International Organization*, 52(4): 855–85.
+* Sangiovanni, Andrea, 2007, “Global Justice, Reciprocity, and the State,” *Philosophy & Public Affairs*, 35(1): 3–39.
+* Sassen, Saskia, 2003, “Globalization or denationalization?” *Review of International Political Economy*, 10(1): 1–22.
+* Scheuerman, William E., 2008, “Global Governance without Global Government? Habermas on Postnational Democracy,” *Political Theory*, 36(1): 133–151.
+* Scholte, Jan Aart, 2000, *Globalization: A Critical Introduction*, New York: St. Martin's.
+* –––, 2014, “Reinventing Global Democracy,” *European Journal of International Relations*, 20(1): 3–28.
+* Sen, Amartya, 2006, “What do we want from a theory of justice?” *The Journal of Philosophy*, 103(5): 215–38.
+* Singer, Peter, 1973, *Democracy and Disobedience*, Oxford: Oxford University Press.
+* Steffek, Jens, 2010, “Public accountability and the public sphere of international governance,” *Ethics and International Affairs*, 24(1): 45–67.
+* Tallberg, Jonas, Thomas Sommerer, Theresa Squatrito, and Christer Jönsson, 2013, *The opening up of international organizations*, New York: Cambridge University Press.
+* Tännsjö, Torbjörn, 2008, *Global Democracy: The Case for a World Government*, Edinburgh: Edinburgh University Press.
+* Valentini, Laura, 2012, “Assessing the global order: Justice, legitimacy, or political justice?” *Critical Review of International Social and Political Philosophy*, 15(5): 593–612.
+* Wendt, Alexander, 2003, “Why a World State is Inevitable,” *European Journal of International Relations*, 9(4): 491–542.
+* Zürn, Michael, 2000, “Democratic Governance Beyond the Nation-State: The EU and Other International Institutions,” *European Journal of International Relations*, 6(2): 183–221.
+* –––, Binder, Martin, and Ecker-Ehrhardt, Mattias, 2012, “International Authority and its Politicization,” *International Theory*, 4(1): 69–106.
 
 ### Academic Tools
 
@@ -228,4 +227,4 @@ _首次发布于 2015 年 2 月 23 日星期一_
 [cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [economics \[normative\] and economic justice](https://plato.stanford.edu/entries/economic-justice/) | [globalization](https://plato.stanford.edu/entries/globalization/) | [justice: global](https://plato.stanford.edu/entries/justice-global/) | [justice: international distributive](https://plato.stanford.edu/entries/international-justice/) | [legitimacy, political](https://plato.stanford.edu/entries/legitimacy/) | [nationalism](https://plato.stanford.edu/entries/nationalism/) | [political realism: in international relations](https://plato.stanford.edu/entries/realism-intl-relations/) | [rights: human](https://plato.stanford.edu/entries/rights-human/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [world government](https://plato.stanford.edu/entries/world-government/)
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
-[Jonathan Kuyper](https://www.sv.uio.no/isv/english/people/aca/jonathwk/index.html) <[_jonathan.kuyper1@gmail.com_](mailto:jonathan%2ekuyper1%40gmail%2ecom)>
+[Jonathan Kuyper](https://www.sv.uio.no/isv/english/people/aca/jonathwk/index.html) <[*jonathan.kuyper1@gmail.com*](mailto:jonathan%2ekuyper1%40gmail%2ecom)>

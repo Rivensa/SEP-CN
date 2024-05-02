@@ -1,12 +1,10 @@
 # 约翰·格奥尔格·哈曼 Hamann, Johann Georg (Gwen Griffith-Dickson)
 
-
 *首次发表于2002年6月29日星期六；实质性修订于2022年2月5日星期六*
 
 约翰·格奥尔格·哈曼（1730-1788 年）生活和工作在普鲁士，在晚期德国启蒙运动的背景下。尽管他始终远离“专业”哲学圈子，从未担任过大学职位，但他因学识渊博而受到当时人们的尊重。他的著作甚至在他自己的时代就因向读者提出的挑战而臭名昭著。这些对解释和理解的挑战如今变得更加严峻。
 
 然而，越来越多来自哲学、神学、美学和德国研究领域的学者发现他的思想和见解对当代问题具有价值。他的核心关注点仍然相关：语言、知识、人的本质、性别和性别以及人类与上帝的关系。与此同时，他的观点在许多方面预示了对启蒙运动和现代性的后来挑战，仍然具有相关性甚至具有挑衅性。
- 
 
 ---
 
@@ -133,6 +131,7 @@
 如果有一个关键的基本思想是关于人类的，那就是人类是上帝的形象。这显然更多是神学的而非哲学的，但对于理解哈曼的哲学人类学来说是至关重要的。哈曼对这个永恒主题的处理在基督教思想史上几乎是非传统的。虽然罪恶和邪恶的经历是一个强大的主题，特别是在他早期的，信仰转变后的著作中，但他思想的基本动力是人与神之间的轻松交流。在这种交流中，语言是“新的、神秘的、无法表达但更加亲密的神圣能量和思想的联合、参与和共同体的标志、象征和保证”（N III, 32:21–24）。尽管他以非理性主义者而闻名，但推理也将我们与上帝联系在一起；上帝、自然和理性被描述为具有与光、眼睛和所见之物相同的关系，或者如同作者、文本和读者（ZH 5, 272:14–16）。
 
 必须记住，约翰·格奥尔格·哈曼承认他无法想象没有生殖器的创造精神；事实上，他非常乐意断言生殖器是生物与造物主之间独特的纽带。因此，神圣与人类之间的性关系有两个方面。首先，作为创造力的范例，它是我们神的样子最引人注目的方式。其次，作为最深刻统一的点，它是我们与另一个人类和神之间的结合点。挑衅性地，哈曼认为原罪及其叛乱体现在理性而非性行为中。过分的理性是我们试图像上帝一样的尝试；与此同时，假正经是拒绝上帝的形象，同时试图以错误的方式像上帝一样（无形）。因此，人们应该区分“像上帝”和“与上帝平等”。在西比拉的文章中，男性版本的追求与上帝平等（参见腓立比书2:6）是试图自给自足，成为一神论的上帝：唯一的统治者，拥有自我存在。相反，与异性的相遇应该使男人对女人的身体产生深刻的尊重态度，因为女人的身体是他自己存在的源泉，来自他的母亲。作为他自己喜悦的源泉，性爱也是对他自己依赖的承认，他缺乏自给自足和自主权。但是这种对另一个的依赖反而是造物主、父亲的神的样子，他在奉献自己时谦卑自己（这是哈曼在讨论上帝时最喜欢的主题之一）。与此同时，女人的诱惑是对人工清白的渴望；对上帝的无形和无感的秘密嫉妒。捍卫自己的贞洁是另一种神秘的自给自足尝试。 相反，这位女性必须勇敢地面对“火舌”，进行“无辜的牺牲献祭”，以实现她的神的样子；这种样子并非体无灵魂和缺乏激情，而是在充满激情的创造力中；在愿意具现化的过程中。因此，如果人类是按照神的形象创造的，那就是一个三位一体的神的形象，是‘父’、‘子’和‘圣灵’之间相互关爱的关系；在创造、拯救和火舌中找到。
+
 ## Bibliography
 
 All translations from Hamann’s works and letters in this entry are by Gwen Griffith Dickson in works cited below, except for the translation from the letter to Kraus, which is cited in the translation by Garrett Green, in James Schmidt (ed.), *What is Enlightenment? Eighteenth-Century Answers and Twentieth-Century Questions*, Berkeley and Los Angeles: University of California Press, 1996.
@@ -148,13 +147,13 @@ Citations from this source, in conformity with common practice for Hamann refere
 However, Hamann researchers have subsequently established that the Nadler edition unfortunately is beset by a number of errors. New editorial activity is underway on Hamann’s writings and on his letters:
 
 > Johann Georg Hamann, *Sokratische Denkwürdigkeiten. Wolken* (Historisch-kritische Ausgabe) [Philosophische Bibliothek: 748], Leonard Keidel und Janina Reibold (eds.), Hamburg: Meiner, 2021.
-> 
+>
 > Johann Georg Hamann, *Fliegender Brief* (Historisch-kritische Ausgabe) [Philosophische Bibliothek 707], 2 volumes, Janina Reibold (ed.), Hamburg: Meiner, 2018.
 
 ### Hamann’s Letters
 
 > Johann Georg Hamann, *Kommentierte Briefausgabe*, Leonard Keidel und Janina Reibold (eds.), Heidelberg, 2020, [available online](https://www.hamann-ausgabe.de/).
-> 
+>
 > Hamann, Johann Georg, *Briefwechsel*, edited by Walther Ziesemer and Arthur Henkel (from volume 4 on, edited by Henkel alone). 8 volumes. Wiesbaden/ Frankfurt: Insel Verlag, 1955–1975. Citations from this source are given as: ZH 4 etc. as above.
 
 ### Other selections

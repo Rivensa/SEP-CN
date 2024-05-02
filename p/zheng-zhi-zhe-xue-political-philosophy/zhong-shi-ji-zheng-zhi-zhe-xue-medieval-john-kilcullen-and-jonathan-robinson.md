@@ -1,10 +1,9 @@
 # 中世纪政治哲学 medieval (John Kilcullen and Jonathan Robinson)
 
-_首次发表于2006年7月14日；实质修订于2017年5月16日_
+*首次发表于2006年7月14日；实质修订于2017年5月16日*
 
 中世纪哲学是在中世纪期间在西欧产生的哲学。即使在中世纪学者中，对于这个时期的开始和结束时间也没有共识；\[1]然而，一般而言，从奥古斯丁（354-430）开始，并注意到中世纪哲学的影响甚至延续到笛卡尔（1596-1650）的诞生，这种说法可能既不完全正确也不完全错误。中世纪政治哲学是中世纪哲学中关注政治事务的部分。中世纪（以及早期现代时期）关于政治的哲学写作往往是试图影响公共事件的一种尝试，因此这个主题的历史涉及对这些事件的参考。它还涉及对中世纪文化的发展的参考，例如九世纪和十二世纪的复兴，以及法律制度和大学的发展。这一时期哲学与宗教之间的紧密关系也使得故事变得复杂。这些“超哲学”的联系是中世纪政治哲学在中世纪的发展过程中的原因之一，因为宗教和政治思想受到文化发展和事件压力的影响而发生了变化。本文的重点是拉丁中世纪的神学家和哲学家，文章的一般安排是按时间顺序排列的。\[2]
 
- 
 ***
 
 ## 1. 中世纪政治哲学的范围
@@ -103,7 +102,7 @@ _首次发表于2006年7月14日；实质修订于2017年5月16日_
 
 关于强制性政府和奴隶制的普遍观点由奥古斯丁表达。上帝并不打算让...\[人]统治除了非理性生物之外的任何东西：不是人统治人，而是人统治兽类。因此，最初的正义人被确立为牧羊人，而不是人类的国王。（上帝之城，XIX.15，第 942 页；引文参考 Dyson \[1998]的翻译）
 
-> did not intend that …\[man] should have lordship over any but irrational creatures: not man over man, but man over the beasts. Hence, the first just men were established as shepherds of flocks, rather than as kings of men. (_City of God_, XIX.15, p. 942; page references are to the translation by Dyson \[1998])
+> did not intend that …\[man] should have lordship over any but irrational creatures: not man over man, but man over the beasts. Hence, the first just men were established as shepherds of flocks, rather than as kings of men. (*City of God*, XIX.15, p. 942; page references are to the translation by Dyson \[1998])
 
 他继续说，奴隶制是对罪恶的公正惩罚，而 servi 之所以被称为“那些可能（公正地）在战争法律下被杀的人有时被饶恕”\[servabantur]。
 
@@ -138,7 +137,7 @@ _首次发表于2006年7月14日；实质修订于2017年5月16日_
 在中世纪的基督徒中，对政府的善恶至少有三种观点：
 
 * 政府可能是，并且应该是，由理想的基督教统治者统治，后来被新教徒称为“虔诚的王子”；这样的统治者将引导他的人民顺服于上帝。
-*   政府可能只是一种邪恶的暴政，是“尘世之城”的表现。正如教皇格里高利七世（1081 年）曾经写道：
+* 政府可能只是一种邪恶的暴政，是“尘世之城”的表现。正如教皇格里高利七世（1081 年）曾经写道：
 
     > 谁不知道国王和公爵是从那些不认识上帝的人那里得到他们的统治权的，这些人出于盲目的贪婪和难以忍受的傲慢，通过骄傲、掠夺、欺诈、谋杀和各种罪行来统治他们的同类，即人类，被世界的统治者，即魔鬼，推动着？（格里高利七世 1081 年：552；另见普尔 1920 年：201，注 5）
 * 政府的存在是为了组织“有善意的人”（用现代的说法），即两个城市的公民，他们对地上的和其他地上的好处都有兴趣，这些好处被基督徒和其他人都看重。这种对政府目标的有限观点可以在马尔西略斯和奥克汉姆（McGrade 1974: 109–33）中找到支持。
@@ -346,292 +345,292 @@ _首次发表于2006年7月14日；实质修订于2017年5月16日_
 
 ### General Surveys and Overviews
 
-* Burns, J.H. (ed.), 1988, _The Cambridge History of Medieval Political Thought c. 350–c. 1450_, Cambridge: Cambridge University Press.
-* Canning, Joseph, 1996, _A History of Medieval Political Thought 300–1450_, London: Routledge.
-*   Carlyle, R.W. and A.J. Carlyle, 1903–1936, _A History of Medieval Political Theory in the West_, 6 vols., Edinburgh: Blackwood.
+* Burns, J.H. (ed.), 1988, *The Cambridge History of Medieval Political Thought c. 350–c. 1450*, Cambridge: Cambridge University Press.
+* Canning, Joseph, 1996, *A History of Medieval Political Thought 300–1450*, London: Routledge.
+* Carlyle, R.W. and A.J. Carlyle, 1903–1936, *A History of Medieval Political Theory in the West*, 6 vols., Edinburgh: Blackwood.
 
-    * volume 1, 1903, _The Second Century to the Ninth_
-    * volume 2, 1909, _The Political Theories of the Roman Lawyers and the Canonists: From the Tenth Century to the Thirteenth_
-    * volume 3, 1915, _Political Theory from the Tenth Century to the Thirteenth_
-    * volume 4, 1922, _The Theories of the Relation of the Empire and the Papacy from the Tenth Century to the Twelfth_
-    * volume 5, 1928, _The Political Theory of the Thirteenth Century_
-    * volume 6, 1936, _Political Theory from 1300 to 1600_
+  * volume 1, 1903, *The Second Century to the Ninth*
+  * volume 2, 1909, *The Political Theories of the Roman Lawyers and the Canonists: From the Tenth Century to the Thirteenth*
+  * volume 3, 1915, *Political Theory from the Tenth Century to the Thirteenth*
+  * volume 4, 1922, *The Theories of the Relation of the Empire and the Papacy from the Tenth Century to the Twelfth*
+  * volume 5, 1928, *The Political Theory of the Thirteenth Century*
+  * volume 6, 1936, *Political Theory from 1300 to 1600*
 
     \[[Carlyle & Caryle available online](https://archive.org/search.php?query=creator%3A%22Carlyle%2C+R.+W.+%28Robert+Warrand%29%2C+Sir%2C+1859%E2%80%931934%22)]
-* Coleman, Janet, 2000, _A History of Political Thought: From the Middle Ages to the Renaissance_, Oxford: Blackwell.
-* Gierke, Otto Friedrich von, 1900, _Political Theories of the Middle Age_, Frederic William Maitland (trans.), Cambridge: Cambridge University Press. (Often reprinted.) \[[Gierke 1900 available online](https://archive.org/details/politicaltheorie00gier\0)]
-* Lagarde, Georges de, 1956–70, _La Naissance de l’esprit laïque au déclin du Moyen Âge_, 3rd edition, 5 vols., Louvain: E. Nauwelaerts.
-* McIlwain, Charles Howard, 1932, _The Growth of Political Thought in the West_, New York: Macmillan.
-* Miethke, Jürgen, 2000a, _De potestate papae: Die päpstliche Amtskompetenz im Widerstreit der politischen Theorie von Thomas von Aquin bis Wilhelm von Ockham_, Tübingen: Mohr Siebeck.
-* Morrall, John B., 1962, _Political Thought in Medieval Times_, New York: Harper Torchbooks. (Reprinted Toronto: University of Toronto Press, 1980.)
-* Oakley, Francis, 2010, _Empty Bottles of Gentilism: Kingship and the Divine in Late Antiquity and the Early Middle Ages (to 1050)_, New Haven: Yale University Press.
-* –––, 2012, _The Mortgage of the Past: Reshaping the Ancient Political Inheritance (1050–1300)_, New Haven: Yale University Press.
-* –––, 2015, _The Watershed of Modern Politics: Law, Virtue, Kingship, and Consent (1300–1650)_, New Haven: Yale University Press.
-* Ryan, Alan, 2012, _On Politics: A History of Political Thought from Herodotus to the Present_, 2 vols., New York: Liveright Publishing.
-* Skinner, Quentin, 1978, _Foundations of Modern Political Thought_, 2 vols., Cambridge: Cambridge University Press.
-* Ullmann, Walter, 1965, _A History of Political Thought: The Middle Ages_, Baltimore: Penguin Books.
+* Coleman, Janet, 2000, *A History of Political Thought: From the Middle Ages to the Renaissance*, Oxford: Blackwell.
+* Gierke, Otto Friedrich von, 1900, *Political Theories of the Middle Age*, Frederic William Maitland (trans.), Cambridge: Cambridge University Press. (Often reprinted.) \[[Gierke 1900 available online](https://archive.org/details/politicaltheorie00gier\0)]
+* Lagarde, Georges de, 1956–70, *La Naissance de l’esprit laïque au déclin du Moyen Âge*, 3rd edition, 5 vols., Louvain: E. Nauwelaerts.
+* McIlwain, Charles Howard, 1932, *The Growth of Political Thought in the West*, New York: Macmillan.
+* Miethke, Jürgen, 2000a, *De potestate papae: Die päpstliche Amtskompetenz im Widerstreit der politischen Theorie von Thomas von Aquin bis Wilhelm von Ockham*, Tübingen: Mohr Siebeck.
+* Morrall, John B., 1962, *Political Thought in Medieval Times*, New York: Harper Torchbooks. (Reprinted Toronto: University of Toronto Press, 1980.)
+* Oakley, Francis, 2010, *Empty Bottles of Gentilism: Kingship and the Divine in Late Antiquity and the Early Middle Ages (to 1050)*, New Haven: Yale University Press.
+* –––, 2012, *The Mortgage of the Past: Reshaping the Ancient Political Inheritance (1050–1300)*, New Haven: Yale University Press.
+* –––, 2015, *The Watershed of Modern Politics: Law, Virtue, Kingship, and Consent (1300–1650)*, New Haven: Yale University Press.
+* Ryan, Alan, 2012, *On Politics: A History of Political Thought from Herodotus to the Present*, 2 vols., New York: Liveright Publishing.
+* Skinner, Quentin, 1978, *Foundations of Modern Political Thought*, 2 vols., Cambridge: Cambridge University Press.
+* Ullmann, Walter, 1965, *A History of Political Thought: The Middle Ages*, Baltimore: Penguin Books.
 
 ### Anthologies of Translations
 
-* Lewis, Ewart (ed. and trans.), 1954, _Medieval Political Ideas_, 2 vols., London: Routledge. (Selections of varying lengths from the eleventh century until the end of the fifteenth; available online: [Lewis 1954, vol. 1](https://archive.org/details/medievalpolitica01lewi) and [Lewis 1954, vol. 2](https://archive.org/details/medievalpolitica02lewi))
-* McGrade, Arthur Stephen, John Kilcullen, and Matthew Kempshall (eds.), 2001, _The Cambridge Translations of Medieval Philosophical Texts, vol. 2: Ethics and Political Philosophy_, Cambridge: Cambridge University Press. (Fairly extensive selections from figures ranging from Albert the Great to John Wyclif.)
-* Nederman, Cary J. (trans.), 2002, _Political Thought in Early Fourteenth-Century England: Treatises by Walter of Milemete, William of Pagula, and William of Ockham_, Tempe, AZ: Arizona Center for Medieval and Renaissance Studies.
-* Nederman, Cary J. and Kate Langdon Forhan (eds.), 1993, _Readings in Medieval Political Theory, 1100–1400_, London: Routledge. (Reprinted: Indianapolis: Hackett, 2000.) (Briefer selections.)
-* O’Donovan, Oliver and Joan Lockwood O’Donovan, 1999, _From Irenaeus to Grotius: A Sourcebook in Christian Political Thought, 100–1625_, Grand Rapids, MI: William B. Eerdmans Publishing Company. (Especially useful its selection of materials from before 1100.)
-* Parens, Joshua and Joseph C. Macfarland (eds.), 2011, _Medieval Political Philosophy: A Sourcebook_, 2nd edition. Ithaca, NY: Cornell University Press. (Selections from authors writing in the medieval Islamic, Judaic, Christian traditions spanning the tenth through fourteenth centuries.)
-* Tierney, Brian, 1980, _The Crisis of Church and State 1050–1300_, Englewood Cliffs: Prentice-Hall. (Often reprinted.)
+* Lewis, Ewart (ed. and trans.), 1954, *Medieval Political Ideas*, 2 vols., London: Routledge. (Selections of varying lengths from the eleventh century until the end of the fifteenth; available online: [Lewis 1954, vol. 1](https://archive.org/details/medievalpolitica01lewi) and [Lewis 1954, vol. 2](https://archive.org/details/medievalpolitica02lewi))
+* McGrade, Arthur Stephen, John Kilcullen, and Matthew Kempshall (eds.), 2001, *The Cambridge Translations of Medieval Philosophical Texts, vol. 2: Ethics and Political Philosophy*, Cambridge: Cambridge University Press. (Fairly extensive selections from figures ranging from Albert the Great to John Wyclif.)
+* Nederman, Cary J. (trans.), 2002, *Political Thought in Early Fourteenth-Century England: Treatises by Walter of Milemete, William of Pagula, and William of Ockham*, Tempe, AZ: Arizona Center for Medieval and Renaissance Studies.
+* Nederman, Cary J. and Kate Langdon Forhan (eds.), 1993, *Readings in Medieval Political Theory, 1100–1400*, London: Routledge. (Reprinted: Indianapolis: Hackett, 2000.) (Briefer selections.)
+* O’Donovan, Oliver and Joan Lockwood O’Donovan, 1999, *From Irenaeus to Grotius: A Sourcebook in Christian Political Thought, 100–1625*, Grand Rapids, MI: William B. Eerdmans Publishing Company. (Especially useful its selection of materials from before 1100.)
+* Parens, Joshua and Joseph C. Macfarland (eds.), 2011, *Medieval Political Philosophy: A Sourcebook*, 2nd edition. Ithaca, NY: Cornell University Press. (Selections from authors writing in the medieval Islamic, Judaic, Christian traditions spanning the tenth through fourteenth centuries.)
+* Tierney, Brian, 1980, *The Crisis of Church and State 1050–1300*, Englewood Cliffs: Prentice-Hall. (Often reprinted.)
 
 ### Individual Authors in Translation
 
-* Augustine, \[c. 413–26], _The City of God against the Pagans_, R.W. Dyson (trans.), Cambridge: Cambridge University Press, 1998.
-* –––, \[c. 386/8], _On Free Choice of the Will_, Thomas Williams (trans.), Indianapolis: Hackett, 1993.
-* –––, _The Pilgrim City: Social and Political Ideas in the Writings of St. Augustine of Hippo_, edited and translated with introduction by R.W. Dyson, Rochester: Boydell Press, 2001.
-* –––, _Augustine: Political Writings_, E.M. Atkins and R.J. Dodaro (ed. and trans.), Cambridge: Cambridge University Press, 2001.
-* Burns, J.H., and Thomas M. Izbicki (eds.), 1997, _Conciliarism and Papalism_, Cambridge: Cambridge University Press.
-* Calcidius, \[c. 321], _On Plato’s Timaeus_, John Magee (ed. and trans.), Cambridge, MA: Harvard University Press, 2016.
-* Dante Alighieri, \[c. 1312/3], _Monarchia_, Richard Kay (ed., trans., and comm.), Toronto: Pontifical Institute of Mediaeval Studies, 1998.
-* Duns Scotus, John, \[c. 1300], _Political and Economic Philosophy_, Allan B. Wolter (ed. and trans.), St. Bonaventure, NY: The Franciscan Institute, 2001.
-* Dyson, Robert W. (ed. and trans.), 1999a, _Three Royalist Tracts, 1296–1302: Antequam essent clerici; Disputatio inter Clericum et Militem; Quaestio in utramque partem_, Bristol: Thoemmes Press.
-* ––– (ed. and trans.), 1999b, _Quaestio de potestate papae (Rex pacificus): An Enquiry Into The Power Of The Pope_, Lewiston: Edwin Mellen Press.
-* Giles of Rome \[d. 1316], 2004, _Giles of Rome’s “On Ecclesiastical Power”: A Medieval Theory of World Government_, R.W. Dyson (ed. and trans.), New York: Columbia University Press.
-* Gratian, \[c. 1140], _The Treatise on Laws: \[Decretum DD. 1–20] with the Ordinary Gloss_, A. Thompson and J. Gordley (trans.), Washington: Catholic University of America Press, 1993.
-* –––, _Gratian’s “Tractatus de penitentia”: A New Latin Edition with English Translation_, Atria A. Larson (ed. and trans.), Washington, DC: The Catholic University of America Press, 2016.
-* Izbicki, Thomas M. and Cary J. Nederman (eds. and trans.), 2000, _Three Tracts on Empire_, Bristol: Thoemmes Press. (Engelbert of Admont; Aeneas Silvius Piccolomini; Juan de Torquemada.)
-* James of Viterbo, \[c. 1302], _De regimine Christiano: A Critical Edition and Translation_, R.W. Dyson (ed. and trans.), Leiden: Brill, 2009.
-* John of Paris \[d. 1306], _On Royal and Papal Power_, John Watt (trans.), Toronto: Pontifical Institute of Mediaeval Studies, 1971.
-* Jonas of Orleans, \[c. 831], _A Ninth-Century Political Tract: The “De institutione regia”_, R.W. Dyson (trans.), Smithtown: Exposition Press, 1983.
-* Justinian, \[533], _Justinian’s “Institutes”_, Peter Birks and Grant McLeod (trans.), Ithaca: Cornell University Press, 1987. (Latin-English edition.)
-* –––, \[533], _The Digest of Justinian_, (revised English-language edition), 2 vols., A. Watson (ed.), Philadelphia: University of Pennsylvania Press, 1998.
-* –––, \[534], _The Codex of Justianian: A New Annotated Translation, with Parallel Latin and Greek Text Based on a Translation by Justice Fred H. Blume_, Bruce W. Frier (ed.), 3 vols., Cambridge: Cambridge University Press, 2016. \[[Blume’s original work—including also his translation of Justinian’s _Novels_—is available online](http://www.uwyo.edu/lawlib/blume-justinian/)]
-* Marsilius \[Marsiglio] of Padua, \[1324], _The_ Defensor Pacis, Alan Gewirth (trans.), 2 vols., New York: Columbia University of Press, 1951–6. (The translation in volume 2 was reprinted independently: Toronto: University of Toronto Press, 1980).
-* –––, \[1324], _The Defender of the Peace_, Annabel Brett (trans.), Cambridge: Cambridge University Press, 2005.
-* –––, \[c. 1339–41; 1324–6], Defensor Minor _and_ De Translatione Imperii, Cary J. Nederman (ed.), Cambridge: Cambridge University Press, 1993.
-* Ptolemy of Lucca, \[c. 1301/2], _On the Government of Rulers_, James M. Blythe (trans.), Philadelphia: University of Pennsylvania Press, 1997.
-* Suárez, Francisco (1548–1617), _Selections from Three Works_, Gwladys L. Williams, Ammi Brown, and John Waldron (trans.), Oxford: Clarendon Press, 1944.
-* –––, _De legibus_, Luciano Pereña et al. (eds.), 8 vols., (Corpus Hispanorum de Pace), Madrid: Consejo Superior de Investigaciones Cientificas, Institut Francisco de Vitoria, 1971–1981.
-* Thomas Aquinas \[d. 1274], _On Kingship: To the King of Cyprus_ (_De regno ad regem Cypri_), Gerald Phelan (trans.), revised with introduction and notes by I. Th. Eschmann, Toronto: Pontifical Institute of Mediaeval Studies, 1949. Reprinted 1978. \[[Aquinas _On Kingship_ available online](http://dhspriory.org/thomas/DeRegno.htm)]
-* –––, _Treatise on Law_, Richard J. Regan (trans.), Indianapolis: Hackett, 2000.
-* –––, _Thomas Aquinas: Political Writings_, R.W. Dyson (trans.), Cambridge: Cambridge University Press, 2002.
-* –––, _Commentary on Aristotle’s “Politics”_, Richard J. Regan (trans.), Indianapolis: Hackett, 2007.
-* Vitoria, Francisco de \[1492–1546], _Political Writings_, Anthony Pagden and Jeremy Lawrance (eds.), Cambridge: Cambridge University Press, 1991.
-* William of Ockham, \[c. 1341/2], _A Short Discourse on the Tyrannical Government Usurped by Some Who Are Called Highest Pontiffs_, Arthur Stephen McGrade (ed.), John Kilcullen (trans.), Cambridge: Cambridge University Press, 1992.
-* –––, \[c. 1334], _A Letter to the Friars Minor and Other Writings_, Arthur Stephen McGrade and John Kilcullen (eds.), Cambridge: Cambridge University Press, 1995.
-* –––, \[c. 1334–46], _Dialogus_, J. Ballweg, J. Kilcullen, G. Knysh, K. Ubl and J. Scott (ed. and trans.), 1995. \[[_Dialogus_ available online](http://www.britac.ac.uk/pubs/dialogus/)] (Note: one volume so far has been published as part of the _Opera politica_ series.)
-* –––, \[1346/7], _On the Power of Emperors and Popes_, Annabel Brett (trans.), Bristol: Thoemmes Press, 1998.
-* –––, \[c. 1332/3], _A Translation of William of Ockham’s “Work of Ninety Days”_, 2 vols., J. Kilcullen and J. Scott (trans.), Lewiston: Edwin Mellen Press, 2001.
-* –––, \[c. 1338–46], _De potestate papae et cleri / Die Amtsvollmacht von Papst und Klerus (III.1 Dialogus)_, Jürgen Miethke (trans., intro. and notes), Freibrug im Breisgau: Verlag Herder GmbH, 2015.
-* William of Saint-Amour, \[c. 1256], _De periculis novissimorum temporum: Edition, Translation, and Introduction_, Guy Geltner (ed. and trans.), Louvain: Peeters, 2008.
+* Augustine, \[c. 413–26], *The City of God against the Pagans*, R.W. Dyson (trans.), Cambridge: Cambridge University Press, 1998.
+* –––, \[c. 386/8], *On Free Choice of the Will*, Thomas Williams (trans.), Indianapolis: Hackett, 1993.
+* –––, *The Pilgrim City: Social and Political Ideas in the Writings of St. Augustine of Hippo*, edited and translated with introduction by R.W. Dyson, Rochester: Boydell Press, 2001.
+* –––, *Augustine: Political Writings*, E.M. Atkins and R.J. Dodaro (ed. and trans.), Cambridge: Cambridge University Press, 2001.
+* Burns, J.H., and Thomas M. Izbicki (eds.), 1997, *Conciliarism and Papalism*, Cambridge: Cambridge University Press.
+* Calcidius, \[c. 321], *On Plato’s Timaeus*, John Magee (ed. and trans.), Cambridge, MA: Harvard University Press, 2016.
+* Dante Alighieri, \[c. 1312/3], *Monarchia*, Richard Kay (ed., trans., and comm.), Toronto: Pontifical Institute of Mediaeval Studies, 1998.
+* Duns Scotus, John, \[c. 1300], *Political and Economic Philosophy*, Allan B. Wolter (ed. and trans.), St. Bonaventure, NY: The Franciscan Institute, 2001.
+* Dyson, Robert W. (ed. and trans.), 1999a, *Three Royalist Tracts, 1296–1302: Antequam essent clerici; Disputatio inter Clericum et Militem; Quaestio in utramque partem*, Bristol: Thoemmes Press.
+* ––– (ed. and trans.), 1999b, *Quaestio de potestate papae (Rex pacificus): An Enquiry Into The Power Of The Pope*, Lewiston: Edwin Mellen Press.
+* Giles of Rome \[d. 1316], 2004, *Giles of Rome’s “On Ecclesiastical Power”: A Medieval Theory of World Government*, R.W. Dyson (ed. and trans.), New York: Columbia University Press.
+* Gratian, \[c. 1140], *The Treatise on Laws: \[Decretum DD. 1–20] with the Ordinary Gloss*, A. Thompson and J. Gordley (trans.), Washington: Catholic University of America Press, 1993.
+* –––, *Gratian’s “Tractatus de penitentia”: A New Latin Edition with English Translation*, Atria A. Larson (ed. and trans.), Washington, DC: The Catholic University of America Press, 2016.
+* Izbicki, Thomas M. and Cary J. Nederman (eds. and trans.), 2000, *Three Tracts on Empire*, Bristol: Thoemmes Press. (Engelbert of Admont; Aeneas Silvius Piccolomini; Juan de Torquemada.)
+* James of Viterbo, \[c. 1302], *De regimine Christiano: A Critical Edition and Translation*, R.W. Dyson (ed. and trans.), Leiden: Brill, 2009.
+* John of Paris \[d. 1306], *On Royal and Papal Power*, John Watt (trans.), Toronto: Pontifical Institute of Mediaeval Studies, 1971.
+* Jonas of Orleans, \[c. 831], *A Ninth-Century Political Tract: The “De institutione regia”*, R.W. Dyson (trans.), Smithtown: Exposition Press, 1983.
+* Justinian, \[533], *Justinian’s “Institutes”*, Peter Birks and Grant McLeod (trans.), Ithaca: Cornell University Press, 1987. (Latin-English edition.)
+* –––, \[533], *The Digest of Justinian*, (revised English-language edition), 2 vols., A. Watson (ed.), Philadelphia: University of Pennsylvania Press, 1998.
+* –––, \[534], *The Codex of Justianian: A New Annotated Translation, with Parallel Latin and Greek Text Based on a Translation by Justice Fred H. Blume*, Bruce W. Frier (ed.), 3 vols., Cambridge: Cambridge University Press, 2016. \[[Blume’s original work—including also his translation of Justinian’s *Novels*—is available online](http://www.uwyo.edu/lawlib/blume-justinian/)]
+* Marsilius \[Marsiglio] of Padua, \[1324], *The* Defensor Pacis, Alan Gewirth (trans.), 2 vols., New York: Columbia University of Press, 1951–6. (The translation in volume 2 was reprinted independently: Toronto: University of Toronto Press, 1980).
+* –––, \[1324], *The Defender of the Peace*, Annabel Brett (trans.), Cambridge: Cambridge University Press, 2005.
+* –––, \[c. 1339–41; 1324–6], Defensor Minor *and* De Translatione Imperii, Cary J. Nederman (ed.), Cambridge: Cambridge University Press, 1993.
+* Ptolemy of Lucca, \[c. 1301/2], *On the Government of Rulers*, James M. Blythe (trans.), Philadelphia: University of Pennsylvania Press, 1997.
+* Suárez, Francisco (1548–1617), *Selections from Three Works*, Gwladys L. Williams, Ammi Brown, and John Waldron (trans.), Oxford: Clarendon Press, 1944.
+* –––, *De legibus*, Luciano Pereña et al. (eds.), 8 vols., (Corpus Hispanorum de Pace), Madrid: Consejo Superior de Investigaciones Cientificas, Institut Francisco de Vitoria, 1971–1981.
+* Thomas Aquinas \[d. 1274], *On Kingship: To the King of Cyprus* (*De regno ad regem Cypri*), Gerald Phelan (trans.), revised with introduction and notes by I. Th. Eschmann, Toronto: Pontifical Institute of Mediaeval Studies, 1949. Reprinted 1978. \[[Aquinas *On Kingship* available online](http://dhspriory.org/thomas/DeRegno.htm)]
+* –––, *Treatise on Law*, Richard J. Regan (trans.), Indianapolis: Hackett, 2000.
+* –––, *Thomas Aquinas: Political Writings*, R.W. Dyson (trans.), Cambridge: Cambridge University Press, 2002.
+* –––, *Commentary on Aristotle’s “Politics”*, Richard J. Regan (trans.), Indianapolis: Hackett, 2007.
+* Vitoria, Francisco de \[1492–1546], *Political Writings*, Anthony Pagden and Jeremy Lawrance (eds.), Cambridge: Cambridge University Press, 1991.
+* William of Ockham, \[c. 1341/2], *A Short Discourse on the Tyrannical Government Usurped by Some Who Are Called Highest Pontiffs*, Arthur Stephen McGrade (ed.), John Kilcullen (trans.), Cambridge: Cambridge University Press, 1992.
+* –––, \[c. 1334], *A Letter to the Friars Minor and Other Writings*, Arthur Stephen McGrade and John Kilcullen (eds.), Cambridge: Cambridge University Press, 1995.
+* –––, \[c. 1334–46], *Dialogus*, J. Ballweg, J. Kilcullen, G. Knysh, K. Ubl and J. Scott (ed. and trans.), 1995. \[[*Dialogus* available online](http://www.britac.ac.uk/pubs/dialogus/)] (Note: one volume so far has been published as part of the *Opera politica* series.)
+* –––, \[1346/7], *On the Power of Emperors and Popes*, Annabel Brett (trans.), Bristol: Thoemmes Press, 1998.
+* –––, \[c. 1332/3], *A Translation of William of Ockham’s “Work of Ninety Days”*, 2 vols., J. Kilcullen and J. Scott (trans.), Lewiston: Edwin Mellen Press, 2001.
+* –––, \[c. 1338–46], *De potestate papae et cleri / Die Amtsvollmacht von Papst und Klerus (III.1 Dialogus)*, Jürgen Miethke (trans., intro. and notes), Freibrug im Breisgau: Verlag Herder GmbH, 2015.
+* William of Saint-Amour, \[c. 1256], *De periculis novissimorum temporum: Edition, Translation, and Introduction*, Guy Geltner (ed. and trans.), Louvain: Peeters, 2008.
 
 ### Latin Editions of Principal Works
 
 Note: some texts exist in bilingual Latin-English editions and are listed in the above category.
 
-* Alexander of Hales, \[c. 1240], _Summa theologiae_, Quaracchi: Collegium S. Bonaventurae, 1948.
-* Augustine, \[c. 389/91], _De vera religione_, in _Sancti Aurelii Augustini de doctrina christiana \[et] de vera religione_, Joseph Martin (ed.), (Corpus christianorum series latina 32), Turnhout: Brepols, 1982.
-* –––, \[413–26], _De civitate Dei_, Bernard Dombart and Alphons Kalb (eds.), Turnholt: Brepols, 1955.
-* Bonaventure, \[d. 1274], _Opera omnia edita studio et cura PP. Collegii a S. Bonaventura_, Quaracchi: Collegium S. Bonaventurae, 1882. \[[Bonaventure available online](https://archive.org/search.php?query=title%3A%28Opera%20omnia%29%20AND%20creator%3A%28Bonaventure%2C%20Saint%2C%20Cardinal%2C%20ca.%201217%E2%80%931274%29)]
-* Friedberg, Aemilius (ed.), 1879, _Corpus iuris canonici_, Leipzig: Tauchnitz. \[[Friedberg 1879 vailable online](http://geschichte.digitale-sammlungen.de/decretum-gratiani/online/angebot)]
-* Gerson, Jean, \[1706 \[post.]], _Opera omnia_, M.L. Ellies Du Pin (ed.), Antwerp. Reprinted Hildesheim: Olms, 1987, 5 volumes. (Also contains works by other conciliarists.)
-* Giles of Rome \[Aegidius Romanus], \[d. 1316], _De regimine principum libri III_, Frankfurt: Minerva, 1968. \[Facsimile reprint of Rome edition, 1556; also [Giles of Rome available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10187984-5)]
-* Goldast, Melchior, 1611–14, _Monarchia sacri Romani imperii, sive tractatus de jurisdictione imperiali seu regia et pontificia seu sacerdotali_, 3 vols., Frankfurt/Main, Hanau. \[Available online: [Goldast, vol. 1](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491982-2), [Goldast, vol. 2](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491983-8), and [Goldast, vol. 3](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491987-0)]
-* Grech, Gundisalvus, 1967, _The Commentary of Peter of Auvergne on Aristotle’s “Politics”: The Inedited Part, Book III, less. I–VI. Introduction and Critical Text_, Rome: Desclée.
-* Gregory VII, 1081, “Letter to Bishop Hermann of Metz, March 15, 1081”, in Erich Caspar (ed.), 1923, _Das Register Gregors VII_, vol. 2, Berlin: Weidmann, pages 544-563 (liber VIII, n. 21). \[[Gregory VII 1081 available online](http://www.mgh.de/dmgh/resolving/MGH\Epp.\sel.\2,2\S.\544). An [English version of this letter](http://avalon.law.yale.edu/medieval/inv14.asp) is available at the Yale Avalon project.]
-* Gregory of Rimini, \[d. 1358], _Lectura super primum et secundum sententiarum_, A. Damasus Trapp et al. (eds.), Berlin: De Gruyter, 1980.
-* Guillaume de Pierre Godin, \[1318], _The Theory of Papal Monarchy in the Fourteenth Century: Guillaume de Pierre Godin, Tractatus de causa immediata ecclesiastice potestate_, William D. McCready (ed.), Toronto: Pontifical Institute of Mediaeval Studies, 1982.
-* John of Paris, \[c. 1302], _Johannes Quidort von Paris über königliche und päpstliche Gewalt (De regia potestate et papali): Textkritische Edition mit deutscher Übersetzung_, Fritz Bleienstein (ed. and trans.), Stuttgart: Ernst Klett Verlag, 1969.
-* Jonas of Orléans, \[c. 831], _Le métier de roi_ (_De institutione regia_), Alain Dubreucq (ed.), Paris: Les Éditions du Cerf, 1995.
-* Marsilius of Padua, \[1324], _Defensor pacis_, C.W. Previte-Orton (ed.), Cambridge: Cambridge University Press, 1928.
-* –––, _Defensor pacis_, Richard Scholz (ed.), Hannover: Hahnsche Buchhandlung, 1932–33. \[[Marsilius 1932–33 available online](http://www.mgh.de/dmgh/resolving/MGH\Fontes\iuris\7\S.\1)]
-* –––, _Œuvres mineures: Defensor minor, De translatione Imperii_, edited and translated with notes by Colette Jeudy and Jeannine Quillet, Paris: Éditions du Centre national de la recherche scientifique, 1979.
-* Scholz, Richard (ed.), 1903, _Die Publizistik zur Zeit Philipps des Schönen und Bonifaz’ VIII.: Ein Beitrag zur Geschichte der politischen Anschauungen des Mittelalters_, Stuttgart: Verlag von Ferdinand Enke. \[[Scholz 1903 available online](https://archive.org/details/diepublizistikz00schogoog)]
-* Vázquez de Menchaca, Fernando, 1572 \[post.], _Controversiarum illustrium aliarumque usu frequentium libri tres_, Frankfurt. \[[Vázquez de Menchaca 1572 available online](http://daten.digitale-sammlungen.de/\~db/0009/bsb00090821/image\1)]
-* William of Ockham, 1956–, _Opera politica_, H.S. Offler et al. (eds.), 5 vols. (to date), Manchester: Manchester University Press (vols. 1–3) / Oxford: Oxford University Press for the British Academy (vols. 4 and 8).
+* Alexander of Hales, \[c. 1240], *Summa theologiae*, Quaracchi: Collegium S. Bonaventurae, 1948.
+* Augustine, \[c. 389/91], *De vera religione*, in *Sancti Aurelii Augustini de doctrina christiana \[et] de vera religione*, Joseph Martin (ed.), (Corpus christianorum series latina 32), Turnhout: Brepols, 1982.
+* –––, \[413–26], *De civitate Dei*, Bernard Dombart and Alphons Kalb (eds.), Turnholt: Brepols, 1955.
+* Bonaventure, \[d. 1274], *Opera omnia edita studio et cura PP. Collegii a S. Bonaventura*, Quaracchi: Collegium S. Bonaventurae, 1882. \[[Bonaventure available online](https://archive.org/search.php?query=title%3A%28Opera%20omnia%29%20AND%20creator%3A%28Bonaventure%2C%20Saint%2C%20Cardinal%2C%20ca.%201217%E2%80%931274%29)]
+* Friedberg, Aemilius (ed.), 1879, *Corpus iuris canonici*, Leipzig: Tauchnitz. \[[Friedberg 1879 vailable online](http://geschichte.digitale-sammlungen.de/decretum-gratiani/online/angebot)]
+* Gerson, Jean, \[1706 \[post.]], *Opera omnia*, M.L. Ellies Du Pin (ed.), Antwerp. Reprinted Hildesheim: Olms, 1987, 5 volumes. (Also contains works by other conciliarists.)
+* Giles of Rome \[Aegidius Romanus], \[d. 1316], *De regimine principum libri III*, Frankfurt: Minerva, 1968. \[Facsimile reprint of Rome edition, 1556; also [Giles of Rome available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10187984-5)]
+* Goldast, Melchior, 1611–14, *Monarchia sacri Romani imperii, sive tractatus de jurisdictione imperiali seu regia et pontificia seu sacerdotali*, 3 vols., Frankfurt/Main, Hanau. \[Available online: [Goldast, vol. 1](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491982-2), [Goldast, vol. 2](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491983-8), and [Goldast, vol. 3](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10491987-0)]
+* Grech, Gundisalvus, 1967, *The Commentary of Peter of Auvergne on Aristotle’s “Politics”: The Inedited Part, Book III, less. I–VI. Introduction and Critical Text*, Rome: Desclée.
+* Gregory VII, 1081, “Letter to Bishop Hermann of Metz, March 15, 1081”, in Erich Caspar (ed.), 1923, *Das Register Gregors VII*, vol. 2, Berlin: Weidmann, pages 544-563 (liber VIII, n. 21). \[[Gregory VII 1081 available online](http://www.mgh.de/dmgh/resolving/MGH\Epp.\sel.\2,2\S.\544). An [English version of this letter](http://avalon.law.yale.edu/medieval/inv14.asp) is available at the Yale Avalon project.]
+* Gregory of Rimini, \[d. 1358], *Lectura super primum et secundum sententiarum*, A. Damasus Trapp et al. (eds.), Berlin: De Gruyter, 1980.
+* Guillaume de Pierre Godin, \[1318], *The Theory of Papal Monarchy in the Fourteenth Century: Guillaume de Pierre Godin, Tractatus de causa immediata ecclesiastice potestate*, William D. McCready (ed.), Toronto: Pontifical Institute of Mediaeval Studies, 1982.
+* John of Paris, \[c. 1302], *Johannes Quidort von Paris über königliche und päpstliche Gewalt (De regia potestate et papali): Textkritische Edition mit deutscher Übersetzung*, Fritz Bleienstein (ed. and trans.), Stuttgart: Ernst Klett Verlag, 1969.
+* Jonas of Orléans, \[c. 831], *Le métier de roi* (*De institutione regia*), Alain Dubreucq (ed.), Paris: Les Éditions du Cerf, 1995.
+* Marsilius of Padua, \[1324], *Defensor pacis*, C.W. Previte-Orton (ed.), Cambridge: Cambridge University Press, 1928.
+* –––, *Defensor pacis*, Richard Scholz (ed.), Hannover: Hahnsche Buchhandlung, 1932–33. \[[Marsilius 1932–33 available online](http://www.mgh.de/dmgh/resolving/MGH\Fontes\iuris\7\S.\1)]
+* –––, *Œuvres mineures: Defensor minor, De translatione Imperii*, edited and translated with notes by Colette Jeudy and Jeannine Quillet, Paris: Éditions du Centre national de la recherche scientifique, 1979.
+* Scholz, Richard (ed.), 1903, *Die Publizistik zur Zeit Philipps des Schönen und Bonifaz’ VIII.: Ein Beitrag zur Geschichte der politischen Anschauungen des Mittelalters*, Stuttgart: Verlag von Ferdinand Enke. \[[Scholz 1903 available online](https://archive.org/details/diepublizistikz00schogoog)]
+* Vázquez de Menchaca, Fernando, 1572 \[post.], *Controversiarum illustrium aliarumque usu frequentium libri tres*, Frankfurt. \[[Vázquez de Menchaca 1572 available online](http://daten.digitale-sammlungen.de/\~db/0009/bsb00090821/image\1)]
+* William of Ockham, 1956–, *Opera politica*, H.S. Offler et al. (eds.), 5 vols. (to date), Manchester: Manchester University Press (vols. 1–3) / Oxford: Oxford University Press for the British Academy (vols. 4 and 8).
 
 ### General Bibliography
 
-* Aristotle, \[c. 350 BCE], _The Politics_, Benjamin Jowett (trans.), Oxford: Clarendon Press, 1931. \[[Aristotle's The Politics available online](http://classics.mit.edu/Aristotle/politics.html)]
-* –––, \[c. 350 BCE], _The Nicomachean Ethics_, W.D. Ross (trans.), Oxford: Clarendon Press, 1954.
-* Arquillière, Henri-Xavier, 1955, _L’Augustinisme politique: essai sur la formation des théories politiques du Moyen Âge_, 2nd edition, revised and augmented, Paris: Vrin.
-* Bayle, Pierre, \[1686], _A Philosophical Commentary on These Words of the Gospel, Luke 14:23, “Compel Them to Come In, That My House May Be Full”_, John Kilcullen and Chandran Kukathas (eds.), Indianapolis: Liberty Fund, 2005.
-* Bayley, Charles C., 1949, “Pivotal Concepts in the Political Philosophy of William of Ockham”, _Journal of the History of Ideas_, 10(2): 199–218. doi:10.2307/2707415
-* Berman, Harold J., 1983, _Law and Revolution. The Formation of the Western Legal Tradition_, Cambridge: Harvard University Press.
-* Black, Anthony, 1970, _Monarchy and Community. Political Ideas in the Later Conciliar Controversy 1430–1450_, Cambridge: Cambridge University Press.
-* –––, 1979, _Council and Commune: The Conciliar Movement and the Fifteenth Century_, London: Burns and Oates.
+* Aristotle, \[c. 350 BCE], *The Politics*, Benjamin Jowett (trans.), Oxford: Clarendon Press, 1931. \[[Aristotle's The Politics available online](http://classics.mit.edu/Aristotle/politics.html)]
+* –––, \[c. 350 BCE], *The Nicomachean Ethics*, W.D. Ross (trans.), Oxford: Clarendon Press, 1954.
+* Arquillière, Henri-Xavier, 1955, *L’Augustinisme politique: essai sur la formation des théories politiques du Moyen Âge*, 2nd edition, revised and augmented, Paris: Vrin.
+* Bayle, Pierre, \[1686], *A Philosophical Commentary on These Words of the Gospel, Luke 14:23, “Compel Them to Come In, That My House May Be Full”*, John Kilcullen and Chandran Kukathas (eds.), Indianapolis: Liberty Fund, 2005.
+* Bayley, Charles C., 1949, “Pivotal Concepts in the Political Philosophy of William of Ockham”, *Journal of the History of Ideas*, 10(2): 199–218. doi:10.2307/2707415
+* Berman, Harold J., 1983, *Law and Revolution. The Formation of the Western Legal Tradition*, Cambridge: Harvard University Press.
+* Black, Anthony, 1970, *Monarchy and Community. Political Ideas in the Later Conciliar Controversy 1430–1450*, Cambridge: Cambridge University Press.
+* –––, 1979, *Council and Commune: The Conciliar Movement and the Fifteenth Century*, London: Burns and Oates.
 * –––, 1988, “The Conciliar Movement” in Burns 1988: 573–587.
-* Black, Jane, 2009, _Absolutism in Renaissance Milan: Plenitude of Power under the Visconti and the Sforza 1329–1535_, Oxford: Oxford University Press.
-* Blythe, James, 1992, _Ideal Government and the Mixed Constitution in the Middle Ages_, Princeton: Princeton University Press.
-* –––, 2009a, _The Life and Works of Tolomeo Fiadoni (Ptolemy of Lucca)_, Turnhout: Brepols.
-* –––, 2009b, _The Worldview and Thought of Tolomeo Fiadoni (Ptolemy of Lucca)_, Turnhout: Brepols.
-* Brett, Annabel, 1997, _Liberty, Right and Nature: Individual Rights in Later Scholastic Thought_, Cambridge: Cambridge University Press.
+* Black, Jane, 2009, *Absolutism in Renaissance Milan: Plenitude of Power under the Visconti and the Sforza 1329–1535*, Oxford: Oxford University Press.
+* Blythe, James, 1992, *Ideal Government and the Mixed Constitution in the Middle Ages*, Princeton: Princeton University Press.
+* –––, 2009a, *The Life and Works of Tolomeo Fiadoni (Ptolemy of Lucca)*, Turnhout: Brepols.
+* –––, 2009b, *The Worldview and Thought of Tolomeo Fiadoni (Ptolemy of Lucca)*, Turnhout: Brepols.
+* Brett, Annabel, 1997, *Liberty, Right and Nature: Individual Rights in Later Scholastic Thought*, Cambridge: Cambridge University Press.
 * –––, 2003, “Political Philosophy”, in McGrade 2003: 276–299.
-* Brown, Peter R.L., 1964, “Saint Augustine’s Attitude to Religious Coercion”, _Journal of Roman Studies_, 54(1/2): 107–116. doi:10.2307/298656
+* Brown, Peter R.L., 1964, “Saint Augustine’s Attitude to Religious Coercion”, *Journal of Roman Studies*, 54(1/2): 107–116. doi:10.2307/298656
 * Burns, J.H., 1991, “Conciliarism, Papalism, and Power, 1511–1518”, in Wood 1991: 409–428. doi:10.1017/S0143045900002076
-* Burns, J.H. and Mark Goldie (eds.), 1991, _The Cambridge History of Political Thought 1450–1700_, Cambridge: Cambridge University Press.
-* Canning, Joseph P., 2011, _Ideas of Power in the Late Middle Ages, 1296–1417_, Cambridge: Cambridge University Press.
+* Burns, J.H. and Mark Goldie (eds.), 1991, *The Cambridge History of Political Thought 1450–1700*, Cambridge: Cambridge University Press.
+* Canning, Joseph P., 2011, *Ideas of Power in the Late Middle Ages, 1296–1417*, Cambridge: Cambridge University Press.
 * Catapano, Giovanni, 2010, “Augustine”, in Gerson 2010: 552–581.
-* Chodorow, Stanley, 1972, _Christian Political Theory and Church Politics in the Mid-Twelfth Century: The Ecclesiology of Gratian's_ Decretum, Berkeley: University of California Press.
-* Coleman, Janet, 1983, “Medieval Discussions of Property: _Ratio_ and _Dominium_ according to John of Paris and Marsilius of Padua”, _History of Political Thought_, 4(2): 209–228.
+* Chodorow, Stanley, 1972, *Christian Political Theory and Church Politics in the Mid-Twelfth Century: The Ecclesiology of Gratian's* Decretum, Berkeley: University of California Press.
+* Coleman, Janet, 1983, “Medieval Discussions of Property: *Ratio* and *Dominium* according to John of Paris and Marsilius of Padua”, *History of Political Thought*, 4(2): 209–228.
 * –––, 1991, “The Dominican Political Theory of John of Paris in its Context”, in Wood 1991: 187–223. doi:10.1017/S0143045900001940
-* –––, 2011, “Medieval Political Theory c. 1000–1500”, in George Klosko (ed.), _The Oxford Handbook of the History of Political Philosophy_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238804.003.0012
-* Condorelli, Orazio, 2013, “«Quod omnes tangit, debet ab omnibus approbari». Note sull’origine e sull’utilizzazione del principio tra medioevo e prima età moderna”, _Ius Canonicum_, 53(105): 101–127.
-* Congar, Yves M.–J., 1958, “Quod omnes tangit ab omnibus tractari et approbari debet”, _Revue historique de droit français et étranger_, 36: 210–259. (Facsimile reprint in Congar 1982: essay no. III.)
-* –––, 1961, “Aspects ecclésiologiques de la querelle entre mendiants et séculiers dans la seconde moitié du XIIIe siècle et le début du XIVe”, _Archives d’histoire doctrinale et littéraire du moyen âge_, 28: 35–151.
-* –––, 1982, _Droit ancien et structures ecclésiales_, (Variorum Collected Studies Series CS159), London: Variorum Reprints.
-* Dondaine, F., 1979, “Introductio” to _De regno ad regem Cypri_, in Thomas Aquinas, _Opera Omnia_, 42: 421–444. Rome: Editori di San Tommaso.
-* Dupuy, Pierre (ed.), 1655, _Histoire du différend d’entre le Pape Boniface VIII et Philippe le Bel Roy de France_, Paris. \[[Dupuy 1655 available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10327786-8)]
-* Dyson, Robert W., 2003, _Normative Theories of Society and Government in Five Medieval Political Thinkers: St. Augustine, John of Salisbury, Giles of Rome, St. Thomas Aquinas, and Marsilius of Padua_, Lewiston: The Edwin Mellen Press.
-* Eschmann, Ignatius Th., 1958, “St Thomas Aquinas on the Two Powers”, _Mediaeval Studies_, 20: 177–205. doi:10.1484/J.MS.2.306636
-* Fasolt, Constantine, 1991, _Council and Hierarchy. The Political Thought of William Durant the Younger_, Cambridge: Cambridge University Press.
-* Finnis, John, 1998, _Aquinas: Moral, Political, and Legal Theory_, Oxford: Oxford University Press.
-* Flüeler, Christoph, 1993, _Rezeption und Interpretation der Aristotelischen Politica im späten Mittelalter_, 2 vols., Amsterdam: Benjamins.
-* Flüeler, Christoph, Lidia Lanza, and Marco Toste (eds.), 2015, _Peter of Auvergne: University Master of the 13th Century_, Berlin: Walter de Gruyter.
-* Garnett, George, 2006, _Marsilius of Padua and “The Truth of History”_, Oxford: Oxford University Press.
+* –––, 2011, “Medieval Political Theory c. 1000–1500”, in George Klosko (ed.), *The Oxford Handbook of the History of Political Philosophy*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238804.003.0012
+* Condorelli, Orazio, 2013, “«Quod omnes tangit, debet ab omnibus approbari». Note sull’origine e sull’utilizzazione del principio tra medioevo e prima età moderna”, *Ius Canonicum*, 53(105): 101–127.
+* Congar, Yves M.–J., 1958, “Quod omnes tangit ab omnibus tractari et approbari debet”, *Revue historique de droit français et étranger*, 36: 210–259. (Facsimile reprint in Congar 1982: essay no. III.)
+* –––, 1961, “Aspects ecclésiologiques de la querelle entre mendiants et séculiers dans la seconde moitié du XIIIe siècle et le début du XIVe”, *Archives d’histoire doctrinale et littéraire du moyen âge*, 28: 35–151.
+* –––, 1982, *Droit ancien et structures ecclésiales*, (Variorum Collected Studies Series CS159), London: Variorum Reprints.
+* Dondaine, F., 1979, “Introductio” to *De regno ad regem Cypri*, in Thomas Aquinas, *Opera Omnia*, 42: 421–444. Rome: Editori di San Tommaso.
+* Dupuy, Pierre (ed.), 1655, *Histoire du différend d’entre le Pape Boniface VIII et Philippe le Bel Roy de France*, Paris. \[[Dupuy 1655 available online](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10327786-8)]
+* Dyson, Robert W., 2003, *Normative Theories of Society and Government in Five Medieval Political Thinkers: St. Augustine, John of Salisbury, Giles of Rome, St. Thomas Aquinas, and Marsilius of Padua*, Lewiston: The Edwin Mellen Press.
+* Eschmann, Ignatius Th., 1958, “St Thomas Aquinas on the Two Powers”, *Mediaeval Studies*, 20: 177–205. doi:10.1484/J.MS.2.306636
+* Fasolt, Constantine, 1991, *Council and Hierarchy. The Political Thought of William Durant the Younger*, Cambridge: Cambridge University Press.
+* Finnis, John, 1998, *Aquinas: Moral, Political, and Legal Theory*, Oxford: Oxford University Press.
+* Flüeler, Christoph, 1993, *Rezeption und Interpretation der Aristotelischen Politica im späten Mittelalter*, 2 vols., Amsterdam: Benjamins.
+* Flüeler, Christoph, Lidia Lanza, and Marco Toste (eds.), 2015, *Peter of Auvergne: University Master of the 13th Century*, Berlin: Walter de Gruyter.
+* Garnett, George, 2006, *Marsilius of Padua and “The Truth of History”*, Oxford: Oxford University Press.
 * Gersh, Stphen, 2010, “Ancient Philosophy Becomes Medieval Philosophy”, in Gerson 2010: 894–914.
-* Gerson, Lloyd P. (ed.), 2010, _The Cambridge History of Philosophy in Late Antiquity_, 2 vols., Cambridge: Cambridge University Press.
-* Greenwood, Ryan, 2014, “War and Sovereignty in Medieval Roman Law”, _Law and History Review_, 32(1): 31–63. doi:10.1017/S0738248013000631
-* Griesbach, Marc F., 1959, “John of Paris as a Representative of Thomistic Political Philosophy”, in Charles O’Neil (ed.), _An Étienne Gilson Tribute_, Milwaukee: Marquette University Press, pp. 33–50.
-* Hagerlund, Hendrik (ed.), 2010, _Encyclopedia of Medieval Philosophy_, New York: Springer.
-* Hankins, James (ed.), 2000, _Renaissance Civic Humanism: Reappraisals and Reflections_, Cambridge: Cambridge University Press.
-* Hooker, Richard, \[1594–1597], _Of the Laws of Ecclesiastical Polity_, A.S. McGrade (ed.), Cambridge: Cambridge University Press, 1989.
-* Jones, Chris (ed.), 2015, _John of Paris: Beyond Royal and Papal Power_, Turnhout: Brepols.
-* Kempshall, Matthew, 1999, _The Common Good in Late Medieval Political Thought_, Oxford: Oxford University Press.
-* Kilcullen, John, 1991, “Ockham and Infallibility”, _The Journal of Religious History_, 16(4): 387–409. \[[Kilcullen 1991 preprint available online](http://www.britac.ac.uk/pubs/dialogus/winfal.html)] doi:10.1111/j.1467-9809.1991.tb00681.x
-* –––, 1999, “Ockham’s Political Writings”, in Paul Vincent Spade (ed.), _The Cambridge Companion to Ockham_, Cambridge: Cambridge University Press. \[[Kilcullen 1999 preprint available online](http://www.britac.ac.uk/pubs/dialogus/polth.html)]
+* Gerson, Lloyd P. (ed.), 2010, *The Cambridge History of Philosophy in Late Antiquity*, 2 vols., Cambridge: Cambridge University Press.
+* Greenwood, Ryan, 2014, “War and Sovereignty in Medieval Roman Law”, *Law and History Review*, 32(1): 31–63. doi:10.1017/S0738248013000631
+* Griesbach, Marc F., 1959, “John of Paris as a Representative of Thomistic Political Philosophy”, in Charles O’Neil (ed.), *An Étienne Gilson Tribute*, Milwaukee: Marquette University Press, pp. 33–50.
+* Hagerlund, Hendrik (ed.), 2010, *Encyclopedia of Medieval Philosophy*, New York: Springer.
+* Hankins, James (ed.), 2000, *Renaissance Civic Humanism: Reappraisals and Reflections*, Cambridge: Cambridge University Press.
+* Hooker, Richard, \[1594–1597], *Of the Laws of Ecclesiastical Polity*, A.S. McGrade (ed.), Cambridge: Cambridge University Press, 1989.
+* Jones, Chris (ed.), 2015, *John of Paris: Beyond Royal and Papal Power*, Turnhout: Brepols.
+* Kempshall, Matthew, 1999, *The Common Good in Late Medieval Political Thought*, Oxford: Oxford University Press.
+* Kilcullen, John, 1991, “Ockham and Infallibility”, *The Journal of Religious History*, 16(4): 387–409. \[[Kilcullen 1991 preprint available online](http://www.britac.ac.uk/pubs/dialogus/winfal.html)] doi:10.1111/j.1467-9809.1991.tb00681.x
+* –––, 1999, “Ockham’s Political Writings”, in Paul Vincent Spade (ed.), *The Cambridge Companion to Ockham*, Cambridge: Cambridge University Press. \[[Kilcullen 1999 preprint available online](http://www.britac.ac.uk/pubs/dialogus/polth.html)]
 * –––, 2001a, “Natural Law and Will in Ockham”, in Kilcullen and Scott 2001: 851–882. \[[Kilcullen 2001a preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/wwill.html)]
 * –––, 2001b, “The Origin of Property: Ockham, Grotius, Pufendorf and Some Others”, in Kilcullen and Scott 2001: 883–932. \[[Kilcullen 2001b preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/wprop.html)]
-* –––, 2001c, “Introduction to William of Ockham, _The Work of Ninety Days_”, in Kilcullen and Scott 2001: 1–46. \[[Kilcullen 2001c preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/ONDintro.html)]
-* –––, 2004, “Medieval Political Theory” in _Handbook of Political Theory_, G.F. Gauss and C. Kukathas (eds.), London: Sage, pp. 338–352. \[[Kilcullen 2004 preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/MedPolTh.html)]
+* –––, 2001c, “Introduction to William of Ockham, *The Work of Ninety Days*”, in Kilcullen and Scott 2001: 1–46. \[[Kilcullen 2001c preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/ONDintro.html)]
+* –––, 2004, “Medieval Political Theory” in *Handbook of Political Theory*, G.F. Gauss and C. Kukathas (eds.), London: Sage, pp. 338–352. \[[Kilcullen 2004 preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/MedPolTh.html)]
 * –––, 2010a, “Heresy” in Hagerlund 2010: 466–470. \[[Fuller version of Kilcullen 2010a available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/heresy.html)]
 * –––, 2010b, “Natural Law” in Hagerlund 2010: 831–839. \[[Fuller version of Kilcullen 2010b available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/NaturalLaw.html)]
 * –––, 2010c, “Natural Rights” in Hagerlund 2010: 867–873. \[[Fuller version of Kilcullen 2010c available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/NaturalRights.html)]
 * –––, 2010d, “Medieval and Modern Concepts of Rights: How Do They Differ” in Mäkinen 2010: 31–62. \[[Kilcullen 2010d preprint available online](http://pandora.nla.gov.au/pan/98441/20090504-1534/www.humanities.mq.edu.au/Ockham/HelsinkiA.html)]
-* Knysh, George, 1996, _Political Ockhamism_, Winnipeg: WCU Council of Learned Societies.
-* –––, 1997, _Fragments of Ockham Hermeneutics_, Winnipeg: WCU Council of Learned Societies.
-* Krueger, Elmar, 2007, _Der Traktat “de ecclesiastica potestate” des Aegidius Romanus: Eine spätmittelalterliche Herrschaftskonzeption des päpstlichen Universalismus_, Cologne: Böhlau.
-* Lambertini, Roberto, 2000, _La povertà pensata: Evoluzione storica della definizione dell’identità minoritica da Bonaventura ad Ockham_, Modena: Mucchi Editore.
-* –––, 2006, “Political _Quodlibeta_”, in Chris Schabel (ed.), _Theological Quodlibeta in the Middle Ages: The Thirteenth Century_, Leiden: Brill, pp. 439–474.
-* –––, 2012, “Political Theory in the Making: Theology, Philosophy and Politics at the Court of Lewis the Bavarian”, in _Philosophy and Theology in the ‘Studia’ of the Religious Orders and at Papal and Royal Courts_ Kent Emery, Jr., W.J. Courtenay, S.M. Metger (eds.), Leiden: Brill, pp. 701–724. doi:10.1484/M.RPM-EB.1.100995
-* –––, 2013, “Burley’s Commentary on the _Politics_: Exegetic Techniques and Political Language”, in Alessandro D. Conti (ed.), _A Companion to Walter Burley: Late Medieval Logician and Metaphysician_, Leiden: Brill, pp. 347–373.
-* –––, 2014a, “The Debate About Natural Rights in the Middle Ages: The Issue of Franciscan Poverty”, in Miira Tuominen, Sara Heinämaa, and Virpi Mäkinen (eds.), _New Perspectives on Aristotelianism and Its Critics_, Leiden: Brill, pp. 111–126.
+* Knysh, George, 1996, *Political Ockhamism*, Winnipeg: WCU Council of Learned Societies.
+* –––, 1997, *Fragments of Ockham Hermeneutics*, Winnipeg: WCU Council of Learned Societies.
+* Krueger, Elmar, 2007, *Der Traktat “de ecclesiastica potestate” des Aegidius Romanus: Eine spätmittelalterliche Herrschaftskonzeption des päpstlichen Universalismus*, Cologne: Böhlau.
+* Lambertini, Roberto, 2000, *La povertà pensata: Evoluzione storica della definizione dell’identità minoritica da Bonaventura ad Ockham*, Modena: Mucchi Editore.
+* –––, 2006, “Political *Quodlibeta*”, in Chris Schabel (ed.), *Theological Quodlibeta in the Middle Ages: The Thirteenth Century*, Leiden: Brill, pp. 439–474.
+* –––, 2012, “Political Theory in the Making: Theology, Philosophy and Politics at the Court of Lewis the Bavarian”, in *Philosophy and Theology in the ‘Studia’ of the Religious Orders and at Papal and Royal Courts* Kent Emery, Jr., W.J. Courtenay, S.M. Metger (eds.), Leiden: Brill, pp. 701–724. doi:10.1484/M.RPM-EB.1.100995
+* –––, 2013, “Burley’s Commentary on the *Politics*: Exegetic Techniques and Political Language”, in Alessandro D. Conti (ed.), *A Companion to Walter Burley: Late Medieval Logician and Metaphysician*, Leiden: Brill, pp. 347–373.
+* –––, 2014a, “The Debate About Natural Rights in the Middle Ages: The Issue of Franciscan Poverty”, in Miira Tuominen, Sara Heinämaa, and Virpi Mäkinen (eds.), *New Perspectives on Aristotelianism and Its Critics*, Leiden: Brill, pp. 111–126.
 * –––, 2014b, “Nature and the Origins of Power: An Examination of Selected Commentaries on the Sentences (Thirteenth and Fourteenth Centuries)”, in Van der Lugt 2014: 95–111.
 * –––, 2015, “Peter of Auvergne, Giles of Rome and Aristotle’s ‘Politica’”, in Flüeler, Lanza, and Toste 2015: 51–69.
 * Lanza, Lidia, 2015, “The ‘Scriptum super III–VIII libros Politicorum’: Some Episodes of its Fortune until the Early Renaissance”, in Flüeler, Lanza, and Toste 2015: 255–319.
-* Lecler, Joseph, \[1955] 1960, _Toleration and the Reformation_ (_Histoire de la tolérance au siècle de la Réforme_), 2 volumes, T.L. Westow (trans.), London: Longmans.
-* Leclercq, Jean, 1942, _Jean de Paris et l’ecclésiologie du XIIIe siècle_, Paris: Vrin.
-* Lee, Daniel, 2016, _Popular Sovereignty in Early Modern Constitutional Thought_, Oxford: Oxford University Press.
-* Lockwood, Shelley, 1991, “Marsilius of Padua and the Case for the Royal Ecclesiastical Supremacy”, _Transactions of the Royal Historical Society_, (6th series) 1: 89–119. doi:10.2307/3679031
-* Lubac, Henri de, 1984, _Théologies d’occasion_, Paris, Desclée de Brouwer.
+* Lecler, Joseph, \[1955] 1960, *Toleration and the Reformation* (*Histoire de la tolérance au siècle de la Réforme*), 2 volumes, T.L. Westow (trans.), London: Longmans.
+* Leclercq, Jean, 1942, *Jean de Paris et l’ecclésiologie du XIIIe siècle*, Paris: Vrin.
+* Lee, Daniel, 2016, *Popular Sovereignty in Early Modern Constitutional Thought*, Oxford: Oxford University Press.
+* Lockwood, Shelley, 1991, “Marsilius of Padua and the Case for the Royal Ecclesiastical Supremacy”, *Transactions of the Royal Historical Society*, (6th series) 1: 89–119. doi:10.2307/3679031
+* Lubac, Henri de, 1984, *Théologies d’occasion*, Paris, Desclée de Brouwer.
 * Luscombe, D.E., 1988, “Introduction: The Formation of Political Thought in the West”, in Burns 1988: 157–73.
-* –––, 1988b, “Thomas Aquinas and Conceptions of Hierarchy in the Thirteenth Century”, in Albert Zimmerman (ed.), _Thomas von Aquin: Werk un Wirkung im Licht Neuerer Forschungen: Miscellanea Mediaevalia 19_, pp. 261–277. Berlin and New York: Walter de Gruyter.
-* –––, 1992, “City and Politics Before the Coming of the _Politics_: Some Illustrations”, in David Abulafia, Michael J. Franklin and Miri Rubin (eds.), _Church and City 1000–1500: Essays in Honour of Christopher Brooke_, Cambridge: Cambridge University Press.
-* –––, 1998, “Hierarchy in the Later Middle Ages: Criticism and Change”, in O.G. Oexle and J. Canning (eds.), _Political Thought and the Realities of Power in the Middle Ages_, pp. 113–26. Gottingen: Vandenhoeck and Ruprecht.
+* –––, 1988b, “Thomas Aquinas and Conceptions of Hierarchy in the Thirteenth Century”, in Albert Zimmerman (ed.), *Thomas von Aquin: Werk un Wirkung im Licht Neuerer Forschungen: Miscellanea Mediaevalia 19*, pp. 261–277. Berlin and New York: Walter de Gruyter.
+* –––, 1992, “City and Politics Before the Coming of the *Politics*: Some Illustrations”, in David Abulafia, Michael J. Franklin and Miri Rubin (eds.), *Church and City 1000–1500: Essays in Honour of Christopher Brooke*, Cambridge: Cambridge University Press.
+* –––, 1998, “Hierarchy in the Later Middle Ages: Criticism and Change”, in O.G. Oexle and J. Canning (eds.), *Political Thought and the Realities of Power in the Middle Ages*, pp. 113–26. Gottingen: Vandenhoeck and Ruprecht.
 * –––, 2003, “Hierarchy”, in McGrade 2003: 60–72.
 * Luscombe, D.E. and Evans, G.R., 1988, “The Twelfth-Century Renaissance”, in Burns 1988: 306–40.
-* Luther, Martin, \[1539] 1915, “Preface to the First Part of his German Works”, in _Works of Martin Luther_, Henry Eyster Jacobs and Adolph Spaeth (trans.), Philadelphia: Holman. \[[Luther 1539 available online](https://en.wikisource.org/wiki/Works\of\Martin\Luther,\with\introductions\and\notes,\Volume\1/Luther's\Prefaces)]
-* MacQueen, D.J., 1972, “St. Augustine’s Concept of Property”, _Recherches augustiniennes_, 8: 187–229.
+* Luther, Martin, \[1539] 1915, “Preface to the First Part of his German Works”, in *Works of Martin Luther*, Henry Eyster Jacobs and Adolph Spaeth (trans.), Philadelphia: Holman. \[[Luther 1539 available online](https://en.wikisource.org/wiki/Works\of\Martin\Luther,\with\introductions\and\notes,\Volume\1/Luther's\Prefaces)]
+* MacQueen, D.J., 1972, “St. Augustine’s Concept of Property”, *Recherches augustiniennes*, 8: 187–229.
 * Magee, John, 2010, “Boethius”, in Gerson 2010: 788–812.
-* Mäkinen, Virpi, 2001, _Property Rights in the Late Medieval Discussion on Franciscan Poverty_, Leuven: Peeters.
-* –––, 2006, “The Influence of the Commentaries on Aristotle’s _Nichomachean Ethics_ and _Politics_ on the Discussion on Property Rights”, _Documenti e studi sulla tradizione filosofica medievale_, 17: 283–298.
-* –––(ed.), 2010, _The Nature of Rights: Moral and Political Aspects of Rights in Late Medieval and Early Modern Philosophy_ (Acta philosophica fennica 87), Helsinki: Societas philosophica fennica.
-* –––, 2012, “Moral Psychological Aspects in William of Ockham’s Theory of Natural Rights”, _American Catholic Philosophical Quarterly_, 86.3: 507–525.
-* Mäkinen, Virpi and Petter Korkman (eds.), 2006, _Transformations in Medieval and Early-Modern Rights Discourse_, Dordrecht: Springer.
+* Mäkinen, Virpi, 2001, *Property Rights in the Late Medieval Discussion on Franciscan Poverty*, Leuven: Peeters.
+* –––, 2006, “The Influence of the Commentaries on Aristotle’s *Nichomachean Ethics* and *Politics* on the Discussion on Property Rights”, *Documenti e studi sulla tradizione filosofica medievale*, 17: 283–298.
+* –––(ed.), 2010, *The Nature of Rights: Moral and Political Aspects of Rights in Late Medieval and Early Modern Philosophy* (Acta philosophica fennica 87), Helsinki: Societas philosophica fennica.
+* –––, 2012, “Moral Psychological Aspects in William of Ockham’s Theory of Natural Rights”, *American Catholic Philosophical Quarterly*, 86.3: 507–525.
+* Mäkinen, Virpi and Petter Korkman (eds.), 2006, *Transformations in Medieval and Early-Modern Rights Discourse*, Dordrecht: Springer.
 * Marenbon, John, 2011, “When Was Medieval Philosophy?”, inaugural Lecture as Honorary Professor of Medieval Philosophy in the University of Cambridge, delivered November 30, 2011. \[[Marenbon 2011 available online](https://api.repository.cam.ac.uk/server/api/core/bitstreams/c03ec232-a5c7-4326-8fdf-18686d4519ae/content)]
-* ––– (ed.), 2012, _The Oxford Handbook of Medieval Philosophy_, New York: Oxford University Press.
-* Markus, R.A., 1970, _Saeculum: History and Society in the Theology of St. Augustine_, Cambridge: Cambridge University Press.
+* ––– (ed.), 2012, *The Oxford Handbook of Medieval Philosophy*, New York: Oxford University Press.
+* Markus, R.A., 1970, *Saeculum: History and Society in the Theology of St. Augustine*, Cambridge: Cambridge University Press.
 * –––, 1988, “The Latin Fathers”, in Burns 1988: 92–122.
-* McGrade, Arthur Stephen, 1974, _The Political Thought of William of Ockham_, Cambridge: Cambridge University Press.
-* ––– (ed.), 2003, _The Cambridge Companion to Medieval Philosophy_, Cambridge: Cambridge University Press.
-* Michaud-Quantin, Pierre, 1970, _Universitas: Expressions du mouvement communautaire dans le moyen-âge_, Paris: J. Vrin.
-* Miethke, Jürgen, 1980, “Marsilius und Ockham: Publikum und Leser ihrer politischen Schriften im späteren Mittelalter”, _Medioevo_, 6: 534–58.
-* –––, 2000b, “Practical Intentions of Scholasticism: The Example of Political Theory”, in William J. Courtenay and Jürgen Miethke (eds.), _Universities and Schooling in Medieval Society_, Leiden: Brill, pp. 211–228.
-* –––, 2004, “The Power of Rulers and Violent Resistance Against an Unlawful Rule in the Political Theory of William of Ockham”, _Revista de ciencia política_, 24.1: 209–226.
-* –––, 2010, “_Dominium_, _ius_ und _lex_ in der politischen Theorie Wilhelms von Ockham”, in Alexander Fidora, Matthias Lutz-Bachmann, and Andreas Wagner (eds.), Lex _und_ Ius\*. Beiträge zur Grundlegung des Rechts in der Philosophie des Mittelalters und der Frühen Neuzeit\*, Stuttgart-Bad Cannstatt: Frommann-Holzboog.
-* –––, 2012, “Der ‘theoretische Armutsstreit’ im 14. Jahrhundert: Papst und Franziskanerorden im Konflikt um die Armut”, in Heinz-Dieter Heimann et al. (eds.), _Gelobte Armut: Armutskonzepte der franziskanischen Ordensfamilie vom Mittelalter bis in die Gegenwart_, Paderborn: Ferdinand Schöningh, pp. 243–283.
-* Miller, Fred D., Jr., 1995, _Nature, Justice, and Rights in Aristotle's_ Politics, Oxford: Oxford University Press.
-* Moreno-Riaño, Gerson (ed.), 2007, _The World of Marsilius of Padua_, Turnhout: Brepols. doi:10.1484/M.DISPUT-EB.6.09070802050003050105010501
-* Moulin, Léon, 1958, “_Sanior et maior pars_: Etude sur l’évolution des techniques électorales et déliberatoires dans les Ordres religieux du VI au XIII siècle”, _Revue historique du droit français et étranger_, (4e série) 36: 368–97, 491–529.
-* Muldoon, James, 1966, “_Extra ecclesiam non est imperium_: The Canonists and the Legitmacy of Secular Power”, _Studia Gratiana_, 9: 533–80. (Facsimile reprint in Muldoon 1998: essay no. 1.)
-* –––, 1971, “Boniface VIII’s Forty Years of Experience in the Law”, _The Jurist_, 31: 449–77.
-* –––, 1980, “John Wyclif and the Rights of the Infidels: The _Requerimiento_ Re-examined”, _The Americas_, 36: 301–16. (Facsimile reprint in Muldoon 1998: essay no. 5).
-* –––, 1998, _Canon Law, the Expansion of Europe, and World Order_, (Variorum Collected Studies Series CS612), Aldershot: Ashgate.
-* –––, 2006, “Francisco de Vitoria and Humanitarian Intervention”, _Journal of Military Ethics_, 5: 128–143.
-* Nederman, Cary J., 1990, “Conciliarism and Constitutionalism: Jean Gerson and Medieval Political Thought”, _History of European Ideas_, 12: 189–209.
-* –––, 1995, _Community and Consent: the Secular Political Theory of Marsiglio of Padua’s_ Defensor pacis. Lanham: Rowman & Littlefield.
-* –––, 1996, “Constitutionalism—Medieval and Modern: Against Neo-Figgisite Orthodoxy (Again)”, _History of Political Thought_, 17(2): 179–94.
-* –––, 2008, “Reading Aristotle through Rome: Republicanism and History in Ptolmey of Lucca’s _De regimine principium_”, _European Journal of Political Theory_, 7: 223–240.
-* –––, 2009, _Lineages of European Political Thought: Explorations along the Medieval/Modern Divide from John of Salisbury to Hegel_, Washington, DC: The Catholic University of America Press.
-* Nelson, Janet L., 1986, _Politics and Ritual in Early Medieval Europe_, London: The Hambledon Press.
+* McGrade, Arthur Stephen, 1974, *The Political Thought of William of Ockham*, Cambridge: Cambridge University Press.
+* ––– (ed.), 2003, *The Cambridge Companion to Medieval Philosophy*, Cambridge: Cambridge University Press.
+* Michaud-Quantin, Pierre, 1970, *Universitas: Expressions du mouvement communautaire dans le moyen-âge*, Paris: J. Vrin.
+* Miethke, Jürgen, 1980, “Marsilius und Ockham: Publikum und Leser ihrer politischen Schriften im späteren Mittelalter”, *Medioevo*, 6: 534–58.
+* –––, 2000b, “Practical Intentions of Scholasticism: The Example of Political Theory”, in William J. Courtenay and Jürgen Miethke (eds.), *Universities and Schooling in Medieval Society*, Leiden: Brill, pp. 211–228.
+* –––, 2004, “The Power of Rulers and Violent Resistance Against an Unlawful Rule in the Political Theory of William of Ockham”, *Revista de ciencia política*, 24.1: 209–226.
+* –––, 2010, “*Dominium*, *ius* und *lex* in der politischen Theorie Wilhelms von Ockham”, in Alexander Fidora, Matthias Lutz-Bachmann, and Andreas Wagner (eds.), Lex *und* Ius\*. Beiträge zur Grundlegung des Rechts in der Philosophie des Mittelalters und der Frühen Neuzeit\*, Stuttgart-Bad Cannstatt: Frommann-Holzboog.
+* –––, 2012, “Der ‘theoretische Armutsstreit’ im 14. Jahrhundert: Papst und Franziskanerorden im Konflikt um die Armut”, in Heinz-Dieter Heimann et al. (eds.), *Gelobte Armut: Armutskonzepte der franziskanischen Ordensfamilie vom Mittelalter bis in die Gegenwart*, Paderborn: Ferdinand Schöningh, pp. 243–283.
+* Miller, Fred D., Jr., 1995, *Nature, Justice, and Rights in Aristotle's* Politics, Oxford: Oxford University Press.
+* Moreno-Riaño, Gerson (ed.), 2007, *The World of Marsilius of Padua*, Turnhout: Brepols. doi:10.1484/M.DISPUT-EB.6.09070802050003050105010501
+* Moulin, Léon, 1958, “*Sanior et maior pars*: Etude sur l’évolution des techniques électorales et déliberatoires dans les Ordres religieux du VI au XIII siècle”, *Revue historique du droit français et étranger*, (4e série) 36: 368–97, 491–529.
+* Muldoon, James, 1966, “*Extra ecclesiam non est imperium*: The Canonists and the Legitmacy of Secular Power”, *Studia Gratiana*, 9: 533–80. (Facsimile reprint in Muldoon 1998: essay no. 1.)
+* –––, 1971, “Boniface VIII’s Forty Years of Experience in the Law”, *The Jurist*, 31: 449–77.
+* –––, 1980, “John Wyclif and the Rights of the Infidels: The *Requerimiento* Re-examined”, *The Americas*, 36: 301–16. (Facsimile reprint in Muldoon 1998: essay no. 5).
+* –––, 1998, *Canon Law, the Expansion of Europe, and World Order*, (Variorum Collected Studies Series CS612), Aldershot: Ashgate.
+* –––, 2006, “Francisco de Vitoria and Humanitarian Intervention”, *Journal of Military Ethics*, 5: 128–143.
+* Nederman, Cary J., 1990, “Conciliarism and Constitutionalism: Jean Gerson and Medieval Political Thought”, *History of European Ideas*, 12: 189–209.
+* –––, 1995, *Community and Consent: the Secular Political Theory of Marsiglio of Padua’s* Defensor pacis. Lanham: Rowman & Littlefield.
+* –––, 1996, “Constitutionalism—Medieval and Modern: Against Neo-Figgisite Orthodoxy (Again)”, *History of Political Thought*, 17(2): 179–94.
+* –––, 2008, “Reading Aristotle through Rome: Republicanism and History in Ptolmey of Lucca’s *De regimine principium*”, *European Journal of Political Theory*, 7: 223–240.
+* –––, 2009, *Lineages of European Political Thought: Explorations along the Medieval/Modern Divide from John of Salisbury to Hegel*, Washington, DC: The Catholic University of America Press.
+* Nelson, Janet L., 1986, *Politics and Ritual in Early Medieval Europe*, London: The Hambledon Press.
 * –––, 1988, “Kingship and Empire”, in Burns 1988: 211–251.
-* Noble, Thomas F.X., 2015, “Carolingian Religion”, _Church History_, 84.2: 287–307.
-* Oakley, Francis, 1962, “On the Road from Constance to 1688”, _Journal of British Studies_, 1: 1–32. (Repr.: in Oakley 1984.)
-* –––, 1964, _The Political Thought of Pierre d’Ailly: The Voluntarist Tradition_, New Haven: Yale University Press.
-* –––, 1965, “Almain and Major: Conciliar Theory on the Eve of the Reformation”, _American Historical Review_, 70: 673–90.
-* –––, 1969, “Figgis, Constance and the Divines of Paris”, _American Historical Review_, 75: 368–86. (Facsimile reprint in Oakley 1984.)
-* –––, 1984, _Natural Law, Conciliarism and Consent in the Late Middle Ages_ (Variorum Collected Studies Series CS189), London: Variorum Reprints.
+* Noble, Thomas F.X., 2015, “Carolingian Religion”, *Church History*, 84.2: 287–307.
+* Oakley, Francis, 1962, “On the Road from Constance to 1688”, *Journal of British Studies*, 1: 1–32. (Repr.: in Oakley 1984.)
+* –––, 1964, *The Political Thought of Pierre d’Ailly: The Voluntarist Tradition*, New Haven: Yale University Press.
+* –––, 1965, “Almain and Major: Conciliar Theory on the Eve of the Reformation”, *American Historical Review*, 70: 673–90.
+* –––, 1969, “Figgis, Constance and the Divines of Paris”, *American Historical Review*, 75: 368–86. (Facsimile reprint in Oakley 1984.)
+* –––, 1984, *Natural Law, Conciliarism and Consent in the Late Middle Ages* (Variorum Collected Studies Series CS189), London: Variorum Reprints.
 * –––, 1991, “Christian Obedience and Authority, 1520–1550”, in Burns and Goldie 1991: 159–192.
-* –––, 1995, “Nederman, Gerson, Conciliar Theory and Constitutionalism: _Sed Contra_”, _History of Political Thought_, 16(1): 1–19.
-* –––, 1996, “‘Anxieties of Influence’: Skinner, Figgis, Conciliarism and Early Modern Constitutionalism”, _Past and Present_, 151: 60–110 (Repr: in Oakley 1999.)
-* –––, 1999, _Politics and Eternity: Studies in the History of Medieval and Early-Modern Political Thought_, Leiden: Brill.
-* –––, 2003, _The Conciliarist Tradition: Constitutionalism in the Catholic Church 1300–1870_, Oxford: Oxford University Press.
-* Ouy, Gilbert, 1979, “Simon de Plumetot \[1371–1443] et sa bibliothèque”, in P. Crockshaw et al. (ed.), _Miscellanea codicologica F. Masai dicata MCMLXXIX_, (Les publications de Scriptorium ; v. 8), Gand: E. Story-Scientia S.P.R.L., vol. 2, pp. 353–81.
+* –––, 1995, “Nederman, Gerson, Conciliar Theory and Constitutionalism: *Sed Contra*”, *History of Political Thought*, 16(1): 1–19.
+* –––, 1996, “‘Anxieties of Influence’: Skinner, Figgis, Conciliarism and Early Modern Constitutionalism”, *Past and Present*, 151: 60–110 (Repr: in Oakley 1999.)
+* –––, 1999, *Politics and Eternity: Studies in the History of Medieval and Early-Modern Political Thought*, Leiden: Brill.
+* –––, 2003, *The Conciliarist Tradition: Constitutionalism in the Catholic Church 1300–1870*, Oxford: Oxford University Press.
+* Ouy, Gilbert, 1979, “Simon de Plumetot \[1371–1443] et sa bibliothèque”, in P. Crockshaw et al. (ed.), *Miscellanea codicologica F. Masai dicata MCMLXXIX*, (Les publications de Scriptorium ; v. 8), Gand: E. Story-Scientia S.P.R.L., vol. 2, pp. 353–81.
 * Quillet, Jeannine, 1988, “Community I. Community, Counsel and Representation” in Burns 1988: 520–572.
-* Pascoe, Louis B., 1973, _Jean Gerson: Principles of Church Reform_, Leiden: Brill.
-* Pasnau, Robert (ed.), 2010, _The Cambridge History of Medieval Philosophy_, 2 vols., Cambridge: Cambridge University Press.
-* Pennington, Kenneth, 1970, “Bartholomé de Las Casas and the Tradition of Medieval Law”, _Church History_, 39: 149–161. \[[Pennington 1970 revised version online](http://legalhistorysources.com/Law508/LasCasas2.html)]
-* –––, 1993a, _The Prince and the Law 1200–1600_, Berkeley: University of California Press.
-* –––, 1993b, _Popes, Canonists and Texts 1150–1550_ (Variorum Collected Series Studies CS412), London: Variorum.
-* –––, 2007, “Politics in Western Jurisprudence”, in Andrea Padovani and Peter G. Stein (eds.), _A Treatise of Legal Philosophy and General Jurisprudence_, vol. 7: _The Jurists’ Philosophy of Law from Rome to the Seventeenth Century_, Dordrecht: Springer, pp. 157–211. \[[Pennington 2007 online version](http://legalhistorysources.com/PoliticsWesternLaw.htm)]
-* –––, 2011, “The Beginning of Roman Law Jurisprudence and Teaching in the Twelfth Century: The _Authenticae_”, _Rivista internazionale di diritto comune_, 22: 35–53.
-* –––, 2014, “The Biography of Gratian, the Father of Canon Law”, _University of Villanova Law Review_, 59: 679–706.
-* Piaia, Gregorio, 1977, _Marsilio di Padova nella riforma e nella controriforma: Fortuna ed interpretazione_, Padua: Editrice Antenore.
-* Pocock, John G.A., 1975, _The Machiavellian Moment: Florentine Political Thought and the Atlantic Republican Tradition_, Princeton: Princeton University Press.
-* Poole, Reginald Lane, 1920, _Illustrations of the History of Medieval Thought and Learning_, (2nd edition). London: Society for Promoting Christian Knowledge. \[[Poole 1920 available online](https://archive.org/details/illustrationsoft029065mbp)]
-* Post, Gaines, 1946, “A Romano-Canonical Maxim, _Quod omnes tangit_, in Bracton”, _Traditio_, 4: 197–251. (Reprinted with the title “A Romano-Canonical Maxim, _Quod omnes tangit_, in Bracton and Early Parliaments” in Post 1964: 163–238).
-* –––, 1964, _Studies in Medieval Thought: Public Law and the State 1100–1322_, Princeton: Princeton University Press.
-* Potestà, Gian Luca, 1986, “Rm 13,1 in Ockham: Origine e legittimità del potere civile” _Cristianesimo nella storia_, 7: 465–492.
-* Quinn, John F., 1973, “St Bonaventure’s Fundamental Conception of Natural Law”, in Jacques Guy Bougerol (ed.), _S. Bonaventura, 1274–1974_, vol. 3: _Philosophica_, Grottaferrata: College of St Bonaventure, pp. 571–598.
-* Rivière, Jean, 1925, “In partem sollicitudinis: évolution d’une formule pontificale”, _Revue des sciences religieuses_, 5: 210–31.
-* –––, 1926, _Le problème de l’église et de l’état au temps de Philippe le Bel_, Louvain: “Spicilegium sacrum Lovaniense”,
-* Robinson, Jonathan, 2009, “William of Ockham on the Right to (Ab-)Use Goods”, _Franciscan Studies_, 67: 347–374. doi:10.1353/frc.0.0036
-* –––, 2011, “Property Rights in the Shift from ‘Community’ to ‘Michaelist’”, _Rivista internazionale di diritto comune_, 22: 141–181. \[[Robinson 2011 preprint available online](https://osf.io/26zt8/)]
-* –––, 2012, _William of Ockham’s Early Theory of Property Rights in Context_, Leiden: Brill.
-* –––, 2014a, “Ockham, the Sanctity of Rights, and the Canonists”, _Bulletin of Medieval Canon Law_, new series 31: 147–204. doi:10.1353/bmc.2014.0009 \[[Robinson 2014a preprint available online](https://osf.io/jvwt7/)]
-* –––, 2014b, “Walter Chatton on _Dominium_”, _History of Political Thought_, 35(4): 656–682.
-* Roumy, Franck, 2006, “L’origine et la diffusion de l’adage canonique _Necessitas non habet legem_ (VIIIe–XIIIe s.)”, in Wolfgang P. Müller and Mary E. Sommar (eds.), _Medieval Church Law and the Origins of the Western Legal Tradition: A Tribute to Kenneth Pennington_, Washington, DC: The Catholic University of America Press, pp. 301–319.
-* Russell, Frederick H., 1975, _The Just War in the Middle Ages_, Cambridge: Cambridge University Press.
+* Pascoe, Louis B., 1973, *Jean Gerson: Principles of Church Reform*, Leiden: Brill.
+* Pasnau, Robert (ed.), 2010, *The Cambridge History of Medieval Philosophy*, 2 vols., Cambridge: Cambridge University Press.
+* Pennington, Kenneth, 1970, “Bartholomé de Las Casas and the Tradition of Medieval Law”, *Church History*, 39: 149–161. \[[Pennington 1970 revised version online](http://legalhistorysources.com/Law508/LasCasas2.html)]
+* –––, 1993a, *The Prince and the Law 1200–1600*, Berkeley: University of California Press.
+* –––, 1993b, *Popes, Canonists and Texts 1150–1550* (Variorum Collected Series Studies CS412), London: Variorum.
+* –––, 2007, “Politics in Western Jurisprudence”, in Andrea Padovani and Peter G. Stein (eds.), *A Treatise of Legal Philosophy and General Jurisprudence*, vol. 7: *The Jurists’ Philosophy of Law from Rome to the Seventeenth Century*, Dordrecht: Springer, pp. 157–211. \[[Pennington 2007 online version](http://legalhistorysources.com/PoliticsWesternLaw.htm)]
+* –––, 2011, “The Beginning of Roman Law Jurisprudence and Teaching in the Twelfth Century: The *Authenticae*”, *Rivista internazionale di diritto comune*, 22: 35–53.
+* –––, 2014, “The Biography of Gratian, the Father of Canon Law”, *University of Villanova Law Review*, 59: 679–706.
+* Piaia, Gregorio, 1977, *Marsilio di Padova nella riforma e nella controriforma: Fortuna ed interpretazione*, Padua: Editrice Antenore.
+* Pocock, John G.A., 1975, *The Machiavellian Moment: Florentine Political Thought and the Atlantic Republican Tradition*, Princeton: Princeton University Press.
+* Poole, Reginald Lane, 1920, *Illustrations of the History of Medieval Thought and Learning*, (2nd edition). London: Society for Promoting Christian Knowledge. \[[Poole 1920 available online](https://archive.org/details/illustrationsoft029065mbp)]
+* Post, Gaines, 1946, “A Romano-Canonical Maxim, *Quod omnes tangit*, in Bracton”, *Traditio*, 4: 197–251. (Reprinted with the title “A Romano-Canonical Maxim, *Quod omnes tangit*, in Bracton and Early Parliaments” in Post 1964: 163–238).
+* –––, 1964, *Studies in Medieval Thought: Public Law and the State 1100–1322*, Princeton: Princeton University Press.
+* Potestà, Gian Luca, 1986, “Rm 13,1 in Ockham: Origine e legittimità del potere civile” *Cristianesimo nella storia*, 7: 465–492.
+* Quinn, John F., 1973, “St Bonaventure’s Fundamental Conception of Natural Law”, in Jacques Guy Bougerol (ed.), *S. Bonaventura, 1274–1974*, vol. 3: *Philosophica*, Grottaferrata: College of St Bonaventure, pp. 571–598.
+* Rivière, Jean, 1925, “In partem sollicitudinis: évolution d’une formule pontificale”, *Revue des sciences religieuses*, 5: 210–31.
+* –––, 1926, *Le problème de l’église et de l’état au temps de Philippe le Bel*, Louvain: “Spicilegium sacrum Lovaniense”,
+* Robinson, Jonathan, 2009, “William of Ockham on the Right to (Ab-)Use Goods”, *Franciscan Studies*, 67: 347–374. doi:10.1353/frc.0.0036
+* –––, 2011, “Property Rights in the Shift from ‘Community’ to ‘Michaelist’”, *Rivista internazionale di diritto comune*, 22: 141–181. \[[Robinson 2011 preprint available online](https://osf.io/26zt8/)]
+* –––, 2012, *William of Ockham’s Early Theory of Property Rights in Context*, Leiden: Brill.
+* –––, 2014a, “Ockham, the Sanctity of Rights, and the Canonists”, *Bulletin of Medieval Canon Law*, new series 31: 147–204. doi:10.1353/bmc.2014.0009 \[[Robinson 2014a preprint available online](https://osf.io/jvwt7/)]
+* –––, 2014b, “Walter Chatton on *Dominium*”, *History of Political Thought*, 35(4): 656–682.
+* Roumy, Franck, 2006, “L’origine et la diffusion de l’adage canonique *Necessitas non habet legem* (VIIIe–XIIIe s.)”, in Wolfgang P. Müller and Mary E. Sommar (eds.), *Medieval Church Law and the Origins of the Western Legal Tradition: A Tribute to Kenneth Pennington*, Washington, DC: The Catholic University of America Press, pp. 301–319.
+* Russell, Frederick H., 1975, *The Just War in the Middle Ages*, Cambridge: Cambridge University Press.
 * –––, 2010, “Just War”, in Pasnau 2010: 593–606.
-* Ryan, Magnus, 2015, “Political Thought”, in David Johnston (ed.), _The Cambridge Companion to Roman Law_, Cambridge: Cambridge University Press, pp. 423”451
-* Saak, Eric L., 2006, “The Episcopacy of Christ Augustinus of Ancona, OESA, and Political Augustinianism in the Later Middle Ages”, _Quaestio_, 6: 259–275.
-* Saenger, Paul, 1981, “John of Paris, Principal Author of the _Quaestio de potestate papae_ \[_Rex pacificus_]”, _Speculum_, 56: 41–55.
-* Schütrumpf, Eckart, 2014, _The Earliest Translations of Aristotle’s “Politics” and the Creation of Political Terminology_, Paderborn: Wilhelm Fink.
-* Schwartz, Daniel, 2008, “Francisco Suárez on Consent and Political Obligation”, _Vivarium_, 46: 59–81. doi:10.1163/156853408X252768
-* Seneca, \[c. 60 CE], _Ad Lucilium epistulae morales_, Richard M. Gummere (ed. and trans.), 3 vols., London: William Heinemann, 1917–25. \[Available online: [Seneca, vol. 1](https://archive.org/details/L075SenecaTheYoungerIVEpistulaeMoralesI140), [Seneca, vol. 2](https://archive.org/details/L076SenecaTheYoungerEpistulaeMoralesV6692), and [Seneca, vol. 3](https://archive.org/details/L077SenecaVIEpistles93124); also online [Seneca, Letter 90](https://en.wikisource.org/wiki/Moral\letters\to\Lucilius/Letter\90)]
-* Shogimen, Takashi, 2007, _Ockham and Political Discourse in the Late Middle Ages_, Cambridge: Cambridge University Press.
-* Sidgwick, Henry, 1907, _The Methods of Ethics_, London: Macmillan. \[[Sidgwick 1907 available online](https://archive.org/details/methodsethics03sidggoog)]
-* Smalley, Beryl, 1960, _English Friars and Antiquity in the Early Fourteenth Century_, Oxford: Basil Blackwell.
+* Ryan, Magnus, 2015, “Political Thought”, in David Johnston (ed.), *The Cambridge Companion to Roman Law*, Cambridge: Cambridge University Press, pp. 423”451
+* Saak, Eric L., 2006, “The Episcopacy of Christ Augustinus of Ancona, OESA, and Political Augustinianism in the Later Middle Ages”, *Quaestio*, 6: 259–275.
+* Saenger, Paul, 1981, “John of Paris, Principal Author of the *Quaestio de potestate papae* \[*Rex pacificus*]”, *Speculum*, 56: 41–55.
+* Schütrumpf, Eckart, 2014, *The Earliest Translations of Aristotle’s “Politics” and the Creation of Political Terminology*, Paderborn: Wilhelm Fink.
+* Schwartz, Daniel, 2008, “Francisco Suárez on Consent and Political Obligation”, *Vivarium*, 46: 59–81. doi:10.1163/156853408X252768
+* Seneca, \[c. 60 CE], *Ad Lucilium epistulae morales*, Richard M. Gummere (ed. and trans.), 3 vols., London: William Heinemann, 1917–25. \[Available online: [Seneca, vol. 1](https://archive.org/details/L075SenecaTheYoungerIVEpistulaeMoralesI140), [Seneca, vol. 2](https://archive.org/details/L076SenecaTheYoungerEpistulaeMoralesV6692), and [Seneca, vol. 3](https://archive.org/details/L077SenecaVIEpistles93124); also online [Seneca, Letter 90](https://en.wikisource.org/wiki/Moral\letters\to\Lucilius/Letter\90)]
+* Shogimen, Takashi, 2007, *Ockham and Political Discourse in the Late Middle Ages*, Cambridge: Cambridge University Press.
+* Sidgwick, Henry, 1907, *The Methods of Ethics*, London: Macmillan. \[[Sidgwick 1907 available online](https://archive.org/details/methodsethics03sidggoog)]
+* Smalley, Beryl, 1960, *English Friars and Antiquity in the Early Fourteenth Century*, Oxford: Basil Blackwell.
 * Somerville, J.P., 1991, “Absolutism and Royalism”, in Burns and Goldie 1991: 347–373.
-* St. Leger, James, 1962, _The “Etiamsi Daremus” of Hugo Grotius: A Study in the Origins of International Law_, Rome: Pontificium Athenaeum Internationale.
-* Strauss, Leo, 1953, _Natural Right and History_, Chicago: University of Chicago Press.
-* Syros, Vasileios, 2008, “A Note on the Transmission of Aristotle’s Political Ideas in Medieval Persia and Early-Modern India. Was There Any Arabic or Persian Translation of the _Politics_?” _Bulletin de Philosophie Médiévale_, 50: 303–309. doi:10.1484/J.BPM.3.597
-* Tierney, Brian, 1955, _Foundations of the Conciliar Theory: The Contributions of the Medieval Canonists from Gratian to the Great Schism_, Cambridge: Cambridge University Press. Enlarged new edition 1998 (Leiden: Brill).
-* –––, 1959, _Medieval Poor Law: A Sketch of Canonical Theory and Its Application in England_, Berkeley: University of California Press.
-* –––, 1969, “Hermeneutics and History: The Problem of _Haec Sancta_” in _Essays in Medieval History Presented to Bertie Wilkinson_, ed. T.A. Sandquist and M.R. Powicke, Toronto: University of Toronto Press.
-* –––, 1972, _Origins of Papal Infallibility, 1150–1350: A Study on the Concept of Infallibility, Sovereignty and Tradition in the Middle Ages_, Leiden: Brill.
-* –––, 1982, _Religion, Law and the Growth of Constitutional Thought, 1150–1650_, Cambridge: Cambridge University Press.
-* –––, 1997, _The Idea of Natural Rights: Studies on Natural Rights, Natural Law and Church Law 1150–1625_, Atlanta: Scholars Press.
-* –––, 2014, _Liberty and Law: The Idea of Permissive Natural Law, 1100–1800_, Washington, DC: The Catholic University of America Press.
+* St. Leger, James, 1962, *The “Etiamsi Daremus” of Hugo Grotius: A Study in the Origins of International Law*, Rome: Pontificium Athenaeum Internationale.
+* Strauss, Leo, 1953, *Natural Right and History*, Chicago: University of Chicago Press.
+* Syros, Vasileios, 2008, “A Note on the Transmission of Aristotle’s Political Ideas in Medieval Persia and Early-Modern India. Was There Any Arabic or Persian Translation of the *Politics*?” *Bulletin de Philosophie Médiévale*, 50: 303–309. doi:10.1484/J.BPM.3.597
+* Tierney, Brian, 1955, *Foundations of the Conciliar Theory: The Contributions of the Medieval Canonists from Gratian to the Great Schism*, Cambridge: Cambridge University Press. Enlarged new edition 1998 (Leiden: Brill).
+* –––, 1959, *Medieval Poor Law: A Sketch of Canonical Theory and Its Application in England*, Berkeley: University of California Press.
+* –––, 1969, “Hermeneutics and History: The Problem of *Haec Sancta*” in *Essays in Medieval History Presented to Bertie Wilkinson*, ed. T.A. Sandquist and M.R. Powicke, Toronto: University of Toronto Press.
+* –––, 1972, *Origins of Papal Infallibility, 1150–1350: A Study on the Concept of Infallibility, Sovereignty and Tradition in the Middle Ages*, Leiden: Brill.
+* –––, 1982, *Religion, Law and the Growth of Constitutional Thought, 1150–1650*, Cambridge: Cambridge University Press.
+* –––, 1997, *The Idea of Natural Rights: Studies on Natural Rights, Natural Law and Church Law 1150–1625*, Atlanta: Scholars Press.
+* –––, 2014, *Liberty and Law: The Idea of Permissive Natural Law, 1100–1800*, Washington, DC: The Catholic University of America Press.
 * Toste, Marco, 2014, “The Naturalness of Human Association in Medieval Political Thought Revisited”, in Van der Lugt 2014: 113–188.
 * –––, 2015, “An Original Way of Commenting on the Fifth Book of Aristotle’s ‘Politics’: The ‘Questiones super I–VII libros Politicorum’ of Peter of Auvergne”, in Flüeler, Lanza, and Toste 2015: 321–353.
-* Ubl, Karl, 2003, “Johannes Quidorts Weg zur Sozialphilosophie”, _Francia_, 30(1): 43–73.
-* –––, 2004, “Die Genese der Bulle _Unam sanctam_: Anlass, Vorlagen, Intention”, in Martin Kaufhold (ed.), _Politische Reflexion in der Welt des späten Mittelalters. Political Thought in the Age of Scholasticism: Essays in Honour of Jürgen Miethke_, Leiden: Brill, pp. 129–49.
-* Ubl, Karl, and Lars Vinx, 2000, “Kirche, Arbeit und Eigentum bei Johannes Quidort von Paris, OP († 1306)”, in Christoph Egger and Herwig Weigl (eds.), _Text-Schrift-Codex: Quellenkundliche Arbeiten aus dem Institut für Österreichische Geschichtsforschung_, Wien/München: Oldenbourg Wissenschaftsverlag, pp. 304–344.
-* –––, 2002, “Zur Transformation der Monarchie von Aristoteles bis Ockham”, _Vivarium_, 40: 41–74. doi:10.1163/15685340260223940
-* Ullmann, Walter, 1974, _A Short History of the Papacy in the Middle Ages_, London, Methuen.
-* van der Lugt, Maaike (ed.), 2014, _La nature comme source de la morale au Moyen Âge_, Florence: SISMEL – Edizioni del Galluzzo.
-* Varkemaa, Jussi, 2012, _Conrad Summenhart’s Theory of Individual Rights_, Leiden: Brill.
-* Watt, John, 1965, _The Theory of Papal Monarchy in the Thirteenth Century: The Contribution of the Canonists_, London: Burns and Oates.
+* Ubl, Karl, 2003, “Johannes Quidorts Weg zur Sozialphilosophie”, *Francia*, 30(1): 43–73.
+* –––, 2004, “Die Genese der Bulle *Unam sanctam*: Anlass, Vorlagen, Intention”, in Martin Kaufhold (ed.), *Politische Reflexion in der Welt des späten Mittelalters. Political Thought in the Age of Scholasticism: Essays in Honour of Jürgen Miethke*, Leiden: Brill, pp. 129–49.
+* Ubl, Karl, and Lars Vinx, 2000, “Kirche, Arbeit und Eigentum bei Johannes Quidort von Paris, OP († 1306)”, in Christoph Egger and Herwig Weigl (eds.), *Text-Schrift-Codex: Quellenkundliche Arbeiten aus dem Institut für Österreichische Geschichtsforschung*, Wien/München: Oldenbourg Wissenschaftsverlag, pp. 304–344.
+* –––, 2002, “Zur Transformation der Monarchie von Aristoteles bis Ockham”, *Vivarium*, 40: 41–74. doi:10.1163/15685340260223940
+* Ullmann, Walter, 1974, *A Short History of the Papacy in the Middle Ages*, London, Methuen.
+* van der Lugt, Maaike (ed.), 2014, *La nature comme source de la morale au Moyen Âge*, Florence: SISMEL – Edizioni del Galluzzo.
+* Varkemaa, Jussi, 2012, *Conrad Summenhart’s Theory of Individual Rights*, Leiden: Brill.
+* Watt, John, 1965, *The Theory of Papal Monarchy in the Thirteenth Century: The Contribution of the Canonists*, London: Burns and Oates.
 * –––, 1988, “Spiritual and Temporal Powers”, in Burns 1988: 367–423.
-* Wood, Diana (ed.), 1991, _The Church and Sovereignty c.590–1918: Essays in Honour of Michael Wilks_, (Studies in Church History, Subsidia 9), Oxford: Basil Blackwell.
+* Wood, Diana (ed.), 1991, *The Church and Sovereignty c.590–1918: Essays in Honour of Michael Wilks*, (Studies in Church History, Subsidia 9), Oxford: Basil Blackwell.
 
 ## Academic Tools
 
@@ -645,49 +644,49 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
 
 * **Bible**
   * [Douai-Rheims Bible](http://www.drbo.org/) (links in the article are to this site)
-  * [_Nova Vulgata_](http://www.vatican.va/archive/bible/nova\vulgata/documents/nova-vulgata\index\lt.html), Latin text of the Vulgate Bible
+  * [*Nova Vulgata*](http://www.vatican.va/archive/bible/nova\vulgata/documents/nova-vulgata\index\lt.html), Latin text of the Vulgate Bible
 * **Texts and Translations from** [**New Advent**](http://www.newadvent.org/)
   * Augustine:
-    * [_The City of God_](http://www.newadvent.org/fathers/1201.htm) (tr. Marcus Dodds)
-    * [_Confessions_](http://www.newadvent.org/fathers/1101.htm) (tr. J.G. Pilkington)
-    * [_Contra Faustum_](http://www.newadvent.org/fathers/1406.htm) (ed. Philip Schaff)
-    * [_Enchiridion_](http://www.newadvent.org/fathers/1302.htm) (tr. J.F. Shaw)
-    * [_Letters_](http://www.newadvent.org/fathers/1102.htm) (tr. J.G. Cunningham)
-    * [_Tractates on the Gospel of John_](http://www.newadvent.org/fathers/1701.htm) (ed. Philip Schaff)
-    * [_Confessions_](http://faculty.georgetown.edu/jod/conf/) (Latin), James J. O’Donnell, 1992, Oxford
+    * [*The City of God*](http://www.newadvent.org/fathers/1201.htm) (tr. Marcus Dodds)
+    * [*Confessions*](http://www.newadvent.org/fathers/1101.htm) (tr. J.G. Pilkington)
+    * [*Contra Faustum*](http://www.newadvent.org/fathers/1406.htm) (ed. Philip Schaff)
+    * [*Enchiridion*](http://www.newadvent.org/fathers/1302.htm) (tr. J.F. Shaw)
+    * [*Letters*](http://www.newadvent.org/fathers/1102.htm) (tr. J.G. Cunningham)
+    * [*Tractates on the Gospel of John*](http://www.newadvent.org/fathers/1701.htm) (ed. Philip Schaff)
+    * [*Confessions*](http://faculty.georgetown.edu/jod/conf/) (Latin), James J. O’Donnell, 1992, Oxford
   * Thomas Aquinas:
-    * [_Summa theologiae_](http://www.newadvent.org/summa/) (various translators)
-    * Other writings are available at the [_Corpus Thomisticum_](http://www.corpusthomisticum.org/), the fundamental website for the study of Aquinas
+    * [*Summa theologiae*](http://www.newadvent.org/summa/) (various translators)
+    * Other writings are available at the [*Corpus Thomisticum*](http://www.corpusthomisticum.org/), the fundamental website for the study of Aquinas
     * Alfred J. Freddoso maintains a list of online [Latin and English versions of the works of Aquinas](http://dhspriory.org/thomas/)
 * [**Christian Classics Ethereal Library**](http://www.ccel.org/)**,** Contains many texts in translation, including the [Early Church Fathers](http://www.ccel.org/fathers.html)
 * **Texts and Translations from the** [**Internet Medieval Sourcebook**](http://sourcebooks.fordham.edu/halsall/sbook.asp)**:**
-  * [Boniface VIII, _Unam sanctam_](http://sourcebooks.fordham.edu/halsall/source/B8-unam.asp) (tr. unattributed)
-  * [The Council of Constance, _Sacrosancta_](http://sourcebooks.fordham.edu/halsall/source/constance1.asp) (tr. J.H. Robinson)
-  * [The Council of Constance, _Frequens_](http://sourcebooks.fordham.edu/halsall/source/constance2.asp) (tr. J.H. Robinson)
+  * [Boniface VIII, *Unam sanctam*](http://sourcebooks.fordham.edu/halsall/source/B8-unam.asp) (tr. unattributed)
+  * [The Council of Constance, *Sacrosancta*](http://sourcebooks.fordham.edu/halsall/source/constance1.asp) (tr. J.H. Robinson)
+  * [The Council of Constance, *Frequens*](http://sourcebooks.fordham.edu/halsall/source/constance2.asp) (tr. J.H. Robinson)
   * [The Donation of Constantine](http://sourcebooks.fordham.edu/halsall/source/donatconst.asp) (tr. Ernest F. Henderson)
-  * [Jocelin of Brakelond: _Chronicle of the Abbey of St. Edmund_](http://sourcebooks.fordham.edu/halsall/basis/jocelin.asp#chron) (c. 1202 CE, translated by L.C. Jane, 1907)
+  * [Jocelin of Brakelond: *Chronicle of the Abbey of St. Edmund*](http://sourcebooks.fordham.edu/halsall/basis/jocelin.asp#chron) (c. 1202 CE, translated by L.C. Jane, 1907)
 * **Online editions, repositories of texts hosted online, and bibliographies:**
   * [An Analytic Bibligoraphy of On-line Neo-Latin Texts](http://www.philological.bham.ac.uk/bibliography/), Includes links to texts of medieval authors
   * [Bavarian State Library](https://www.bsb-muenchen.de/en/), Contains over 1 million digitally scanned items; fundamental resource for texts that only exist in early modern editions
   * [The Franciscan Archive: A WWW Resource on St. Francis & Franciscanism](http://www.franciscan-archive.org/), Contains texts and translations of many Franciscan authors
   * [The Internet Archive](https://archive.org/) now contains scans of many fundamental editions and studies of medieval texts that are out of copyright
   * [Monumenta Germaniae Historica](http://www.dmgh.de/) provides free access to texts edited in this venerable series
-  * J.P. Migne, _Patrologiae cursus completus_, [_Series latina_](http://patristica.net/latina/) and [_Series graeca_](http://patristica.net/graeca/)
-  * William of Ockham’s [_Dialogus_](http://www.britac.ac.uk/pubs/dialogus/), Contains other useful scholarly articles and resources
+  * J.P. Migne, *Patrologiae cursus completus*, [*Series latina*](http://patristica.net/latina/) and [*Series graeca*](http://patristica.net/graeca/)
+  * William of Ockham’s [*Dialogus*](http://www.britac.ac.uk/pubs/dialogus/), Contains other useful scholarly articles and resources
   * [Petrus de Alvernia](https://web.archive.org/web/20210227025834/http://www.paleography.unifr.ch/petrus\de\alvernia/), archive of a website at the University of Freiburg, devoted to the life and works of Peter of Auvergne, at the Internet Archive.
 * **Resources relating to Roman law and legal history:**
-  * [Roman Law Resources](http://www.iuscivile.com/), Hosted by Ernest Metzger; contains many useful items, including [important corrections and comments on the English language translation of the _Digest_](http://www.iuscivile.com/materials/digest/)
-  * Fred H. Blume’s translations and annotations to the _Code_ and _Novels_ of Justinian. (This translation is the basis for the recent translation from Cambridge University Press)
-    * [_Code_](http://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/)
-    * [_Novels_](http://www.uwyo.edu/lawlib/justinian-novels/)
-* S.P. Scott, [_The Civil Law_](https://droitromain.univ-grenoble-alpes.fr/Anglica/codjust\Scott.htm) in 17 volumes. Includes translations of Justinian’s _Institutes_, _Digest_, _Code_, and _Novels_. This translation should be used with caution.
+  * [Roman Law Resources](http://www.iuscivile.com/), Hosted by Ernest Metzger; contains many useful items, including [important corrections and comments on the English language translation of the *Digest*](http://www.iuscivile.com/materials/digest/)
+  * Fred H. Blume’s translations and annotations to the *Code* and *Novels* of Justinian. (This translation is the basis for the recent translation from Cambridge University Press)
+    * [*Code*](http://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/)
+    * [*Novels*](http://www.uwyo.edu/lawlib/justinian-novels/)
+* S.P. Scott, [*The Civil Law*](https://droitromain.univ-grenoble-alpes.fr/Anglica/codjust\Scott.htm) in 17 volumes. Includes translations of Justinian’s *Institutes*, *Digest*, *Code*, and *Novels*. This translation should be used with caution.
 * **Resources relating to canon law and legal history:**
   * Kenneth Pennington, [A Short History of Canon Law from Apostolic Times to 1917](http://legalhistorysources.com/Canon%20Law/ShortHistoryCanonLaw.htm)
   * Kenneth Pennington, [Medieval and Early Modern Jurists: A Bio-Bibliographical Listing](http://legalhistorysources.com/biobibl.htm), An extremely rich resource
-  * Bruce Brasington and Martin Brett, [Provisional Edition of Ivo of Chartres’ _Panormia_](http://www.wtamu.edu/\~bbrasington/panormia.html)
+  * Bruce Brasington and Martin Brett, [Provisional Edition of Ivo of Chartres’ *Panormia*](http://www.wtamu.edu/\~bbrasington/panormia.html)
   * [Projekt Pseudoisidor](http://www.pseudoisidor.mgh.de/html/uberblick\uber\die\falschungen.HTM), Contains a working edition of the text and extensive bibliography (last updated in 2006)
-  * Anders Winroth et al., [_Decretum Gratiani_: First Recension](https://sites.google.com/a/yale.edu/decretumgratiani/)
-* [**Wikipedia**](https://en.wikipedia.org/wiki/Main\Page) articles \[_Note:_ Wikipedia articles change frequently, and such changes are not subject to formal academic peer review.]
+  * Anders Winroth et al., [*Decretum Gratiani*: First Recension](https://sites.google.com/a/yale.edu/decretumgratiani/)
+* [**Wikipedia**](https://en.wikipedia.org/wiki/Main\Page) articles \[*Note:* Wikipedia articles change frequently, and such changes are not subject to formal academic peer review.]
   * [Carolingian Renaissance](http://en.wikipedia.org/wiki/Carolingian\Renaissance)
   * [Holy Roman Empire](http://en.wikipedia.org/wiki/Holy\Roman\Empire)
   * [Pseudo-Isidore](http://en.wikipedia.org/wiki/Pseudo-Isidore)
@@ -695,7 +694,7 @@ Note: some texts exist in bilingual Latin-English editions and are listed in the
   * [Douai Bible](http://en.wikipedia.org/wiki/Douai\Bible)
   * [Medieval University](http://en.wikipedia.org/wiki/Medieval\university)
   * [Vulgate](http://en.wikipedia.org/wiki/Vulgate)
-* _**Catholic Encyclopedia**_** articles hosted on New Advent:**
+* ***Catholic Encyclopedia*****articles hosted on New Advent:**
   * [Collections of Ancient Canons](http://www.newadvent.org/cathen/03281a.htm) (Jules Besson)
   * [Donation of Constantine](http://www.newadvent.org/cathen/05118a.htm) (J.P. Kirsch)
   * [False Decretals](http://www.newadvent.org/cathen/05773a.htm) (Louis Saltet)

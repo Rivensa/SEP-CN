@@ -1,12 +1,10 @@
 # 古代和中世纪的经验主义 ancient and medieval (Gregory W. Dawes)
 
-_首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2023 年 6 月 20 日星期二_
+*首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2023 年 6 月 20 日星期二*
 
 尽管经验主义通常被认为是一种现代学说，但它具有古老的根源，其现代形式源自中世纪晚期的发展。本文将首先概述三种不同形式的经验主义。它将考察经验主义态度的普雷萨克拉底学派和希波克拉底学派的起源，并讨论它在亚里士多德、希腊医学作家、伊壁鸠鲁学派、斯多亚学派和怀疑论者的作品中的发展。然后，它将审视十三和十四世纪哲学家和神学家的作品中亚里士多德和奥古斯丁观点的结合，研究魔法研究与经验主义之间的关联，神启学说的式微，以及逐渐淡化智力在知识获取中的作用。
 
 为什么要研究这些古代和中世纪的思想家？对于那些相信“除非通过历史，否则无法正确理解任何概念”的人来说（Comte 1934: 2），答案似乎是显而易见的。但即使是那些更倾向于直接从事哲学分析的人，也可能会发现这些思想家具有启发性。经验主义者一直难以解释日常生活和科学知识的关键方面。他们发现很难解释我们如何了解逻辑和数学真理、因果关系，以及（更一般地）世界的模态结构（事物如何可能）。由于我们仍然面临这些问题，我们可能能够从我们的前辈给出的答案中学到一些东西。
-
-
 
 ***
 
@@ -268,188 +266,188 @@ _首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2023 年 6 
 
 ### Primary Sources
 
-* Albert the Great, \[_A-DM_] _Liber mineralium_, in _Opera Omnia_, vol. 5, ed. Augustus Borgnet, Paris: Ludovicus Vivès, 1890, pp. 1–103; trans. Dorothy Wyckoff, _Book of Minerals_, Oxford: Clarendon Press, 1967.
-* Aquinas, Thomas, \[_DV_] _Quaestiones disputatae de veritate_ qq. 8–12, _Opera Omnia iussu Leonis XIII P.M. edita_ vol. 12, Rome: Sancta Sabina, 1970; trans. James V. McGlynn, in Thomas Aquinas, _Truth_, vol. 2, qq. 10–10, Chicago: Henry Regnery, 1953.
-* –––, \[_In DA_] _In Aristotelis librum De anima commentarium_, 3rd ed., ed. Angelo M. Pirotta; Turin: Marietti, 1948; trans. Robert Pasnau, in Thomas Aquinas, _A Commentary on Aristotle’s De anima_, Yale Library of Medieval Philosophy, New Haven, CN: Yale University Press, 1999.
-* –––, \[_In Meteor._], _In libris Aristotelis Meteorologicorum_, in _Commentaria in libros Aristotelis De caelo et mundo, De generatione et corruptione, et Meteorologicorum_, _Opera Omnia, iussu impensaque Leonis XIII edita_, vol. 3, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1886, pp. 325–421.
-* –––, \[_ST_] _Summa Theologiae_,
-  * 1a, qq. 1–49, _Opera Omnia, iussu impensaque Leonis XIII edita_, vol. 4, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1888; trans. Thomas Gornall, in St Thomas Aquinas, _Summa theologiae_, vol. 4 (1a 14–18), London: Blackfriars, 1964.
-  * 1a, qq. 50–119, _Opera Omnia, iussu impensaque Leonis XIII edita_, vol. 5, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1889; trans. Timothy Suttor, in St Thomas Aquinas, _Summa theologiae_, vol. 11 (1a 75–83), London: Blackfriars, 1970, and Paul T. Durbin, in St Thomas Aquinas, _Summa theologiae_, vol. 12 (1a 84–89), London: Blackfriars, 1968.
-  * 1a2ae, qq. 71–114, _Opera Omnia, iussu impensaque Leonis XIII edita_, vol. 7, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1892; trans. Cornelius Ernst, in St Thomas Aquinas, _Summa theologiae_, vol. 30 (1a2ae 106–14), London: Blackfriars, 1972.
-* Aristotle, \[_APo._], _Posterior Analytics_, trans. Hugh Tredennick, in _Aristotle: Posterior Analytics, Topica_, Loeb Classical Library, Cambridge, MA; London: William Heinemann, 1964, pp. 2–261.
-* –––, \[_APr._], _Prior Analytics_, trans. Hugh Tredennick, in _Aristotle: The Categories, On Interpretation, Prior Analytics_, Loeb Classical Library , Cambridge, MA; London: William Heinemann, 1962, pp. 182–531.
-* –––, \[_DA_], _De l’âme_, ed. A. Jannone, Collection des Universités de France, Paris: Les Belles Lettres, 1966; trans. W. S. Hett, in _Aristotle: On the Soul, Parva Naturalia, On Breath_, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1957, pp. 2–203.
-* –––, \[_DC_], _Du ciel_, ed. Paul Moraux, Collection des Universités de France, Paris: Les Belles Lettres, 1965; trans. W. K. C. Guthrie, in Aristotle, _On the Heavens_, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1960.
-* –––, \[_DS_], _On Prophecy in Sleep_, in _Aristotle: On the Soul, Parva Naturalia, On Breath_, trans. W. S. Hett, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1957, pp. 374–85.
-* –––, \[_EN_], _The Nicomachean Ethics_, trans. H. Rackham, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1947.
-* –––, \[_GA_], _De la génération des animaux_, ed. Pierre Louis, Collection des Universités de France, Paris: Les Belles Lettres, 1961; trans. A. L. Peck, in Aristotle, _Generation of Animals_, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1953.
-* –––, \[_GC_], _De la génération et la corruption_, ed. Marwan Rashed, Nouvelle édition, Collection des Universités de France, Paris: Les Belles Lettres, 2005; trans. W. S. Forster, in _Aristotle: On Sophistical Refutations, On Coming-to-Be and Passing Away, on the Cosmos_, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1955, pp. 157–329.
-* –––, \[_Met._], _Metaphysics_
+* Albert the Great, \[*A-DM*] *Liber mineralium*, in *Opera Omnia*, vol. 5, ed. Augustus Borgnet, Paris: Ludovicus Vivès, 1890, pp. 1–103; trans. Dorothy Wyckoff, *Book of Minerals*, Oxford: Clarendon Press, 1967.
+* Aquinas, Thomas, \[*DV*] *Quaestiones disputatae de veritate* qq. 8–12, *Opera Omnia iussu Leonis XIII P.M. edita* vol. 12, Rome: Sancta Sabina, 1970; trans. James V. McGlynn, in Thomas Aquinas, *Truth*, vol. 2, qq. 10–10, Chicago: Henry Regnery, 1953.
+* –––, \[*In DA*] *In Aristotelis librum De anima commentarium*, 3rd ed., ed. Angelo M. Pirotta; Turin: Marietti, 1948; trans. Robert Pasnau, in Thomas Aquinas, *A Commentary on Aristotle’s De anima*, Yale Library of Medieval Philosophy, New Haven, CN: Yale University Press, 1999.
+* –––, \[*In Meteor.*], *In libris Aristotelis Meteorologicorum*, in *Commentaria in libros Aristotelis De caelo et mundo, De generatione et corruptione, et Meteorologicorum*, *Opera Omnia, iussu impensaque Leonis XIII edita*, vol. 3, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1886, pp. 325–421.
+* –––, \[*ST*] *Summa Theologiae*,
+  * 1a, qq. 1–49, *Opera Omnia, iussu impensaque Leonis XIII edita*, vol. 4, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1888; trans. Thomas Gornall, in St Thomas Aquinas, *Summa theologiae*, vol. 4 (1a 14–18), London: Blackfriars, 1964.
+  * 1a, qq. 50–119, *Opera Omnia, iussu impensaque Leonis XIII edita*, vol. 5, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1889; trans. Timothy Suttor, in St Thomas Aquinas, *Summa theologiae*, vol. 11 (1a 75–83), London: Blackfriars, 1970, and Paul T. Durbin, in St Thomas Aquinas, *Summa theologiae*, vol. 12 (1a 84–89), London: Blackfriars, 1968.
+  * 1a2ae, qq. 71–114, *Opera Omnia, iussu impensaque Leonis XIII edita*, vol. 7, Rome: Typographia Polyglotta S. C. de Propaganda Fidei, 1892; trans. Cornelius Ernst, in St Thomas Aquinas, *Summa theologiae*, vol. 30 (1a2ae 106–14), London: Blackfriars, 1972.
+* Aristotle, \[*APo.*], *Posterior Analytics*, trans. Hugh Tredennick, in *Aristotle: Posterior Analytics, Topica*, Loeb Classical Library, Cambridge, MA; London: William Heinemann, 1964, pp. 2–261.
+* –––, \[*APr.*], *Prior Analytics*, trans. Hugh Tredennick, in *Aristotle: The Categories, On Interpretation, Prior Analytics*, Loeb Classical Library , Cambridge, MA; London: William Heinemann, 1962, pp. 182–531.
+* –––, \[*DA*], *De l’âme*, ed. A. Jannone, Collection des Universités de France, Paris: Les Belles Lettres, 1966; trans. W. S. Hett, in *Aristotle: On the Soul, Parva Naturalia, On Breath*, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1957, pp. 2–203.
+* –––, \[*DC*], *Du ciel*, ed. Paul Moraux, Collection des Universités de France, Paris: Les Belles Lettres, 1965; trans. W. K. C. Guthrie, in Aristotle, *On the Heavens*, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1960.
+* –––, \[*DS*], *On Prophecy in Sleep*, in *Aristotle: On the Soul, Parva Naturalia, On Breath*, trans. W. S. Hett, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1957, pp. 374–85.
+* –––, \[*EN*], *The Nicomachean Ethics*, trans. H. Rackham, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1947.
+* –––, \[*GA*], *De la génération des animaux*, ed. Pierre Louis, Collection des Universités de France, Paris: Les Belles Lettres, 1961; trans. A. L. Peck, in Aristotle, *Generation of Animals*, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1953.
+* –––, \[*GC*], *De la génération et la corruption*, ed. Marwan Rashed, Nouvelle édition, Collection des Universités de France, Paris: Les Belles Lettres, 2005; trans. W. S. Forster, in *Aristotle: On Sophistical Refutations, On Coming-to-Be and Passing Away, on the Cosmos*, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1955, pp. 157–329.
+* –––, \[*Met.*], *Metaphysics*
   * I–IX, trans. Hugh Tredennick, Loeb Classical Library, Cambridge, MA: Harvard University Press, London: William Heinemann, 1925.
   * X–XIV, trans. Hugh Tredennick, Loeb Classical Library, Cambridge, MA: Harvard University Press, London: William Heinemann, 1935.
-* –––, \[_Meteor._], _Meteorologica_, trans. H. D. P. Lee, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1962.
-* –––, \[_PA_], _Parts of Animals_, trans. A. L. Peck, in _Aristotle: Parts of Animals, Movement of Animals, Progression of Animals_, Loeb Classical Library, Cambridge, MA: Harvard University Press, London: William Heinemann, 1961, pp. 1–434.
-* –––, \[_Phys._], _The Physics_
+* –––, \[*Meteor.*], *Meteorologica*, trans. H. D. P. Lee, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1962.
+* –––, \[*PA*], *Parts of Animals*, trans. A. L. Peck, in *Aristotle: Parts of Animals, Movement of Animals, Progression of Animals*, Loeb Classical Library, Cambridge, MA: Harvard University Press, London: William Heinemann, 1961, pp. 1–434.
+* –––, \[*Phys.*], *The Physics*
   * I–IV, trans. Philip H. Wicksteed and Francis Cornford, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1957.
   * V–VIII, trans. Philip H. Wicksteed and Francis Cornford, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1968.
-* –––, \[_Rhet._], _The “Art” of Rhetoric_, trans. John Henry Freese, Loeb Classical Library, London: William Heinemann, New York: G. P. Putnam’s Sons, 1926.
-* –––, \[_Top._], _Topica_, trans. E. S. Forster, in _Aristotle: Posterior Analytics, Topica_, Loeb Classical Library, Cambridge, MA: Harvard University Press, London: William Heinemann, 1964, pp. 263–739.
-* Arnim, H. von, \[_SVF_], _Stoicorum Veterum Fragmenta_, vol. 2, Leipzig: Teubner, 1903.
-* Bacon, Roger, \[_In Phys._], _Questiones supra libros octo Physicorum Aristotelis_, ed. Ferdinand M. Delorme and Robert Steele, Opera hactenus inedita Rogeri Baconi, vol. 13, Oxford: Clarendon Press, 1935.
-* –––, \[_OM_] _The ‘Opus Maius’ of Roger Bacon_, ed. John Henry Bridges, vol. 2, Oxford: Clarendon Press, 1897; trans. Robert Belle Burke, _The Opus Majus of Roger Bacon_, vol. 2. New York: Russell & Russell, 1962.
-* Buridan, Jean, \[_SD_], _Summulae de dialectica_, trans. Gyula Klima, Yale Library of Medieval Philosophy 3, New Haven, CN: Yale University Press, 2001.
-* Cicero, Marcus Tullius, \[_Div._] _Cicero on Divination: De divinatione Book One_, trans. David Wardle, Clarendon Ancient History Series, Oxford: Clarendon Press.
-* Diels, Hermann, \[DK], _Die Fragmenter der Vorsokratiker_, 6th Edition, ed. Walther Kranz, Berlin: Weidmannsche Buchhandlung, 1952.
-* Diogenes Laërtius, \[DL], _Lives of Eminent Philosophers_, ed. Tiziano Dorandi, Cambridge Classical Texts and Commentaries 50, Cambridge: Cambridge University Press, 2013; trans. D. Hicks, in Diogenes Laërtius, _Lives of Eminent Philosophers_, Loeb Classical Library, vol. 1: Cambridge, MA: Harvard University Press, London: William Heinemann, 1959; vol. 2: London: William Heinemann, New York: G. P. Putnam’s Sons, 1925.
-* Epicurus, \[_Ep. Hdt._], _The Letter to Herodotus_, in _Epicurus: The Extant Remains_, trans. Cyril Bailey, Oxford: The Clarendon Press, 1926, pp. 18–55.
-* –––, \[_Ep. Pyth._], _The Letter to Pythocles_, in _Epicurus: The Extant Remains_, trans. Cyril Bailey, Oxford: The Clarendon Press, 1926, pp. 56–81.
-* Galen of Pergamon, \[_ME_], _On Medical Experience_, in R. Walzer (ed.), _Galen on Medical Experience_, Arabic and English; Oxford: Oxford University Press, 1944; see also Galen, _Three Treatises on the Nature of Science_, ed. Michael Frede, Indianapolis, IN: Hackett, 1985, pp. 49–106.
-* –––, \[_Op._], _Claudii Galeni Opera Omnia_, ed. K. G. Kühn, Leipzig: Karl Knobloch, 1821–1833.
-* –––, \[_SB_], _On the Sects for Beginners_, in _Scripta Minora_, vol. 3, ed. George Helmreich, Leipzig: B. G. Teubner, 1893, pp. 1–32; trans. Michael Frede, in _Three Treatises on the Nature of Science_, ed. Michael Frede, Indianapolis, IN: Hackett, 1985, pp. 3–20.
-* Graham, Daniel W. (ed.), 2010, _The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics_, Part 1, Cambridge: Cambridge University Press.
-* Grosseteste, Robert, \[_In APo._], _Commentarius in Posteriorum Analyticorum libros_, ed. Pietro Rossi, Corpus Philosophorum Medii Aevi, Testi e Studi II, Florence: Leo S. Olschki, 1981.
-* Henry of Ghent, \[_Summa_], _Summa (Quaestiones ordinariae)_, art. 1–5, ed. Gordon Wilson, _Henrici de Gandavo Opera omnia_ 21, Leuven: Leuven University Press, 2005; trans. Robert Pasnau, in _The Cambridge Translations of Medieval Philosophical Texts, vol 3: Mind and Knowledge_, ed. Robert Pasnau, Cambridge: Cambridge University Press, pp. 110–35.
-* Hippocrates of Cos, \[_AM_], _On Ancient Medicine_, ed. Mark J. Schiefsky, Studies in Ancient Medicine 28, Leiden: E. J. Brill, 2005.
-* Hume, David, 1902, “An Enquiry Concerning Human Understanding”, in _Enquiries Concerning the Human Understanding and Concerning the Principles of Morals_, ed. S. A. Selby-Bigge, 2nd edition, Oxford: Clarendon Press, pp. 5–165.
-* Leibniz, G. W., \[_NE_], _New Essays Concerning Human Understanding_, trans. Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1981.
-* Locke, John, \[_Essay_], _An Essay Concerning Human Understanding_, ed. Roger Woolhouse, London: Penguin Books, 1997.
-* Long, A. A. & D. N. Sedley \[LS] (eds), _The Hellenistic Philosophers_, Cambridge: Cambridge University Press, 1987.
-* Lucretius (T. Lucretius Carus), \[_RN_], _De rerum natura_, ed. Cyril Bailey, 2nd ed., Oxford Classical Texts, Oxford: Clarendon Press, 1922, trans. Ronald Melville, in _On the Nature of the Universe_, Oxford World’s Classics. Oxford: Oxford University Press, 1999.
-* Mozi (Mo Tzu), _The Mozi: A Complete Translation_, trans. Ian Johnston, Hong Kong: The Chinese University Press, 2010.
-* Nicholas of Autrecourt, \[_EO_], _Exigit ordo_ and _Utrum visio alicuius rei naturalis possit naturali intendi_ in J. R. O’Donnell, Nicholas of Autrecourt, _Mediaeval Studies_ 1 (1939), 179–280.
-* –––, _His Correspondence with Master Giles and Bernard of Arezzo: A Critical Edition from the Two Parisian Manuscripts_, ed. L. M De Rijk, Studien und Texte zur Geistesgeschichte des Mittelalters 42, Leiden: E. J. Brill, 1994.
-* Nicholas of Poland, \[_Ant._], _Antipocras_, ed. Karl Sudhoff, in Antipocras, Streitschrift für mystische Heilkunde in Versen des Magisters Nikolaus von Polen, _Archiv für Geschichte der Medizin_, 9(1/2), 1915: 31–52.
-* Ockham, William of, \[_In Phys._], _Expositio in libros Physicorum Aristotelis_, prologue & books 1–3, _Opera Philosophica_, vol. 4, ed. Vladimir Richter and Gerhard Leibold, St Bonaventure, NY: St Bonaventure University, 1985.
-* –––, \[_Ord._], _Scriptum in librum primum Sententiarum (Ordinatio)_,
-  * prologue & dist. 1, ed. Gedeon Gál and Stephan Brown, _Opera Theologica_, vol 1, St Bonaventure, NY: St Bonaventure University,1967; trans. Philotheus Boehner, in William of Ockham, _Philosophical Writings: A Selection_, Indianapolis, IN: Hackett, 1990, pp. 18–25.
-  * dist. 2–3, ed. Stephan Brown and Gedeon Gál, _Opera Theologica_, vol 2, St Bonaventure, NY: St Bonaventure University, 1970; trans. Philotheus Boehner, in William of Ockham, _Philosophical Writings: A Selection_, Indianapolis, IN: Hackett, 1990, pp. 41–43, and Paul Vincent Spade, in _Five Texts on the Medieval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham_, Indianapolis, IN: Hackett, 1994, pp. 114–231.
-  * dist. 19–48, ed. Gerard Etzkorn and Francis Kelley, _Opera Theologica_, vol 4, St Bonaventure, NY: St Bonaventure University, 1979.
-* –––, \[_Quodl._], _Quodlibeta septem_, ed. Joseph C. Wey, _Opera Theologica_, vol. 9, St Bonaventure, NY: St Bonaventure University, 1980; trans. Philotheus Boehner, in William of Ockham, _Philosophical Writings: A Selection_, Indianapolis, IN: Hackett, 1990, pp. 25–32.
-* –––, \[_Rep._], _Quaestiones in librum secundum Sententiarum (Reportatio)_, ed. Gedeon Gál and Rega Wood, _Opera Theologica_, vol. 5, St Bonaventure, NY: St Bonaventure University, 1981.
-* –––, \[_Sum._], _Summula philosophiae naturalis_, in _Opera Philosophica_, vol. 6, ed. Stephan Brown, St Bonaventure, NY: St Bonaventure University, 1984, pp. 135–394.
-* Plato, \[_Apol._] _Apology_, in _Euthyphro, Apology, Crito, Phaedo, Phaedrus_, trans. Harold North Fowler, Loeb Classical Library, Cambridge, MA: Harvard University Press, 1914, pp. 61–145.
-* –––, \[_Rep_.], _Republic_, ed. Chris Emlyn-Jones and William Preddy, Loeb Classical Library 276, Cambridge, MA: Harvard University Press, 2013.
-* Pseudo-Albertus, \[_PA-DM_], _Edición y Comentario de De Mirabilibus Mundi de Pseudo Alberto Magno_, ed. Rafael González Macho, PhD Thesis, Madrid: Universidad Nacional de Educación a Distancia, 2015.
-* Scotus, John Duns, \[_In Met._], _Quaestiones super libros Metaphysicorum Aristotelis_, I–V, ed. R. Andrews et al., _Opera Philosophica_, vol. 3, St Bonaventure, NY: St Bonaventure University, 1997.
-* –––, \[_Ord._], _Quaestiones in primum librum Sententiarum_ \[_Ordinatio_],
-  * dist. 3, _Opera Omnia_, vol. 3, ed. Carolus Balić et al., Vatican City: Typis Polyglottis Vaticanis, 1954; trans. Allan Wolter, in John Duns Scotus, _Philosophical Writings: A Selection_, ed. Allan Wolter, Library of Liberal Arts, Indianapolis, IN: Bobbs-Merrill, 1962, pp. 96–132.
-  * dist. 43–49, _Opera omnia_, vol. 14, ed. B. Hechich et al., Vatican City: Typis Polyglottis Vaticanis, 2013.
-* Sextus Empiricus, \[_M_], _Against the Logicians_, trans. R. G. Bury, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1933; see also _Sextus Empiricus against the Logicians_, ed. Richard Brett, Cambridge Texts in the History of Philosophy. Cambridge: Cambridge University Press, 2006.
-* –––, \[_PH_], _Outlines of Pyrrhonism_, trans. R. G. Bury, Loeb Classical Library, Cambridge. MA: Harvard University Press, London: William Heinemann, 1976; see also Sextus Empiricus, _Outlines of Scepticism_, ed. Julia Annas and Jonathan Barnes, Cambridge Texts in the History of Philosophy. Cambridge: Cambridge University Press, 2000.
-* Xunzi (Hsün Tzu), _Xunxi: A Translation and Study of the Complete Works_, vol. 3, trans. John Knoblock, Stanford, CA: Stanford University Press, 1994
+* –––, \[*Rhet.*], *The “Art” of Rhetoric*, trans. John Henry Freese, Loeb Classical Library, London: William Heinemann, New York: G. P. Putnam’s Sons, 1926.
+* –––, \[*Top.*], *Topica*, trans. E. S. Forster, in *Aristotle: Posterior Analytics, Topica*, Loeb Classical Library, Cambridge, MA: Harvard University Press, London: William Heinemann, 1964, pp. 263–739.
+* Arnim, H. von, \[*SVF*], *Stoicorum Veterum Fragmenta*, vol. 2, Leipzig: Teubner, 1903.
+* Bacon, Roger, \[*In Phys.*], *Questiones supra libros octo Physicorum Aristotelis*, ed. Ferdinand M. Delorme and Robert Steele, Opera hactenus inedita Rogeri Baconi, vol. 13, Oxford: Clarendon Press, 1935.
+* –––, \[*OM*] *The ‘Opus Maius’ of Roger Bacon*, ed. John Henry Bridges, vol. 2, Oxford: Clarendon Press, 1897; trans. Robert Belle Burke, *The Opus Majus of Roger Bacon*, vol. 2. New York: Russell & Russell, 1962.
+* Buridan, Jean, \[*SD*], *Summulae de dialectica*, trans. Gyula Klima, Yale Library of Medieval Philosophy 3, New Haven, CN: Yale University Press, 2001.
+* Cicero, Marcus Tullius, \[*Div.*] *Cicero on Divination: De divinatione Book One*, trans. David Wardle, Clarendon Ancient History Series, Oxford: Clarendon Press.
+* Diels, Hermann, \[DK], *Die Fragmenter der Vorsokratiker*, 6th Edition, ed. Walther Kranz, Berlin: Weidmannsche Buchhandlung, 1952.
+* Diogenes Laërtius, \[DL], *Lives of Eminent Philosophers*, ed. Tiziano Dorandi, Cambridge Classical Texts and Commentaries 50, Cambridge: Cambridge University Press, 2013; trans. D. Hicks, in Diogenes Laërtius, *Lives of Eminent Philosophers*, Loeb Classical Library, vol. 1: Cambridge, MA: Harvard University Press, London: William Heinemann, 1959; vol. 2: London: William Heinemann, New York: G. P. Putnam’s Sons, 1925.
+* Epicurus, \[*Ep. Hdt.*], *The Letter to Herodotus*, in *Epicurus: The Extant Remains*, trans. Cyril Bailey, Oxford: The Clarendon Press, 1926, pp. 18–55.
+* –––, \[*Ep. Pyth.*], *The Letter to Pythocles*, in *Epicurus: The Extant Remains*, trans. Cyril Bailey, Oxford: The Clarendon Press, 1926, pp. 56–81.
+* Galen of Pergamon, \[*ME*], *On Medical Experience*, in R. Walzer (ed.), *Galen on Medical Experience*, Arabic and English; Oxford: Oxford University Press, 1944; see also Galen, *Three Treatises on the Nature of Science*, ed. Michael Frede, Indianapolis, IN: Hackett, 1985, pp. 49–106.
+* –––, \[*Op.*], *Claudii Galeni Opera Omnia*, ed. K. G. Kühn, Leipzig: Karl Knobloch, 1821–1833.
+* –––, \[*SB*], *On the Sects for Beginners*, in *Scripta Minora*, vol. 3, ed. George Helmreich, Leipzig: B. G. Teubner, 1893, pp. 1–32; trans. Michael Frede, in *Three Treatises on the Nature of Science*, ed. Michael Frede, Indianapolis, IN: Hackett, 1985, pp. 3–20.
+* Graham, Daniel W. (ed.), 2010, *The Texts of Early Greek Philosophy: The Complete Fragments and Selected Testimonies of the Major Presocratics*, Part 1, Cambridge: Cambridge University Press.
+* Grosseteste, Robert, \[*In APo.*], *Commentarius in Posteriorum Analyticorum libros*, ed. Pietro Rossi, Corpus Philosophorum Medii Aevi, Testi e Studi II, Florence: Leo S. Olschki, 1981.
+* Henry of Ghent, \[*Summa*], *Summa (Quaestiones ordinariae)*, art. 1–5, ed. Gordon Wilson, *Henrici de Gandavo Opera omnia* 21, Leuven: Leuven University Press, 2005; trans. Robert Pasnau, in *The Cambridge Translations of Medieval Philosophical Texts, vol 3: Mind and Knowledge*, ed. Robert Pasnau, Cambridge: Cambridge University Press, pp. 110–35.
+* Hippocrates of Cos, \[*AM*], *On Ancient Medicine*, ed. Mark J. Schiefsky, Studies in Ancient Medicine 28, Leiden: E. J. Brill, 2005.
+* Hume, David, 1902, “An Enquiry Concerning Human Understanding”, in *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*, ed. S. A. Selby-Bigge, 2nd edition, Oxford: Clarendon Press, pp. 5–165.
+* Leibniz, G. W., \[*NE*], *New Essays Concerning Human Understanding*, trans. Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1981.
+* Locke, John, \[*Essay*], *An Essay Concerning Human Understanding*, ed. Roger Woolhouse, London: Penguin Books, 1997.
+* Long, A. A. & D. N. Sedley \[LS] (eds), *The Hellenistic Philosophers*, Cambridge: Cambridge University Press, 1987.
+* Lucretius (T. Lucretius Carus), \[*RN*], *De rerum natura*, ed. Cyril Bailey, 2nd ed., Oxford Classical Texts, Oxford: Clarendon Press, 1922, trans. Ronald Melville, in *On the Nature of the Universe*, Oxford World’s Classics. Oxford: Oxford University Press, 1999.
+* Mozi (Mo Tzu), *The Mozi: A Complete Translation*, trans. Ian Johnston, Hong Kong: The Chinese University Press, 2010.
+* Nicholas of Autrecourt, \[*EO*], *Exigit ordo* and *Utrum visio alicuius rei naturalis possit naturali intendi* in J. R. O’Donnell, Nicholas of Autrecourt, *Mediaeval Studies* 1 (1939), 179–280.
+* –––, *His Correspondence with Master Giles and Bernard of Arezzo: A Critical Edition from the Two Parisian Manuscripts*, ed. L. M De Rijk, Studien und Texte zur Geistesgeschichte des Mittelalters 42, Leiden: E. J. Brill, 1994.
+* Nicholas of Poland, \[*Ant.*], *Antipocras*, ed. Karl Sudhoff, in Antipocras, Streitschrift für mystische Heilkunde in Versen des Magisters Nikolaus von Polen, *Archiv für Geschichte der Medizin*, 9(1/2), 1915: 31–52.
+* Ockham, William of, \[*In Phys.*], *Expositio in libros Physicorum Aristotelis*, prologue & books 1–3, *Opera Philosophica*, vol. 4, ed. Vladimir Richter and Gerhard Leibold, St Bonaventure, NY: St Bonaventure University, 1985.
+* –––, \[*Ord.*], *Scriptum in librum primum Sententiarum (Ordinatio)*,
+  * prologue & dist. 1, ed. Gedeon Gál and Stephan Brown, *Opera Theologica*, vol 1, St Bonaventure, NY: St Bonaventure University,1967; trans. Philotheus Boehner, in William of Ockham, *Philosophical Writings: A Selection*, Indianapolis, IN: Hackett, 1990, pp. 18–25.
+  * dist. 2–3, ed. Stephan Brown and Gedeon Gál, *Opera Theologica*, vol 2, St Bonaventure, NY: St Bonaventure University, 1970; trans. Philotheus Boehner, in William of Ockham, *Philosophical Writings: A Selection*, Indianapolis, IN: Hackett, 1990, pp. 41–43, and Paul Vincent Spade, in *Five Texts on the Medieval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham*, Indianapolis, IN: Hackett, 1994, pp. 114–231.
+  * dist. 19–48, ed. Gerard Etzkorn and Francis Kelley, *Opera Theologica*, vol 4, St Bonaventure, NY: St Bonaventure University, 1979.
+* –––, \[*Quodl.*], *Quodlibeta septem*, ed. Joseph C. Wey, *Opera Theologica*, vol. 9, St Bonaventure, NY: St Bonaventure University, 1980; trans. Philotheus Boehner, in William of Ockham, *Philosophical Writings: A Selection*, Indianapolis, IN: Hackett, 1990, pp. 25–32.
+* –––, \[*Rep.*], *Quaestiones in librum secundum Sententiarum (Reportatio)*, ed. Gedeon Gál and Rega Wood, *Opera Theologica*, vol. 5, St Bonaventure, NY: St Bonaventure University, 1981.
+* –––, \[*Sum.*], *Summula philosophiae naturalis*, in *Opera Philosophica*, vol. 6, ed. Stephan Brown, St Bonaventure, NY: St Bonaventure University, 1984, pp. 135–394.
+* Plato, \[*Apol.*] *Apology*, in *Euthyphro, Apology, Crito, Phaedo, Phaedrus*, trans. Harold North Fowler, Loeb Classical Library, Cambridge, MA: Harvard University Press, 1914, pp. 61–145.
+* –––, \[*Rep*.], *Republic*, ed. Chris Emlyn-Jones and William Preddy, Loeb Classical Library 276, Cambridge, MA: Harvard University Press, 2013.
+* Pseudo-Albertus, \[*PA-DM*], *Edición y Comentario de De Mirabilibus Mundi de Pseudo Alberto Magno*, ed. Rafael González Macho, PhD Thesis, Madrid: Universidad Nacional de Educación a Distancia, 2015.
+* Scotus, John Duns, \[*In Met.*], *Quaestiones super libros Metaphysicorum Aristotelis*, I–V, ed. R. Andrews et al., *Opera Philosophica*, vol. 3, St Bonaventure, NY: St Bonaventure University, 1997.
+* –––, \[*Ord.*], *Quaestiones in primum librum Sententiarum* \[*Ordinatio*],
+  * dist. 3, *Opera Omnia*, vol. 3, ed. Carolus Balić et al., Vatican City: Typis Polyglottis Vaticanis, 1954; trans. Allan Wolter, in John Duns Scotus, *Philosophical Writings: A Selection*, ed. Allan Wolter, Library of Liberal Arts, Indianapolis, IN: Bobbs-Merrill, 1962, pp. 96–132.
+  * dist. 43–49, *Opera omnia*, vol. 14, ed. B. Hechich et al., Vatican City: Typis Polyglottis Vaticanis, 2013.
+* Sextus Empiricus, \[*M*], *Against the Logicians*, trans. R. G. Bury, Loeb Classical Library, London: William Heinemann, Cambridge, MA: Harvard University Press, 1933; see also *Sextus Empiricus against the Logicians*, ed. Richard Brett, Cambridge Texts in the History of Philosophy. Cambridge: Cambridge University Press, 2006.
+* –––, \[*PH*], *Outlines of Pyrrhonism*, trans. R. G. Bury, Loeb Classical Library, Cambridge. MA: Harvard University Press, London: William Heinemann, 1976; see also Sextus Empiricus, *Outlines of Scepticism*, ed. Julia Annas and Jonathan Barnes, Cambridge Texts in the History of Philosophy. Cambridge: Cambridge University Press, 2000.
+* Xunzi (Hsün Tzu), *Xunxi: A Translation and Study of the Complete Works*, vol. 3, trans. John Knoblock, Stanford, CA: Stanford University Press, 1994
 
 ### Secondary Sources
 
-* Adams, Marilyn McCord, 1979, “Was Ockham a Humean about Efficient Causality?”, _Franciscan Studies_, 39: 5–48
-* Allen, James, 2001, _Inference from Signs: Ancient Debates about the Nature of Evidence_, Oxford: Clarendon Press.
-* –––, 2004, “Experience as a Source and Ground of Theory in Epicureanism”, _Apeiron: A Journal for Ancient Philosophy and Science_, 37(4): 89–106.
-* Allers, Rudolf, 1942, “Intellectual Cognition”, in Robert E. Brennan (ed.), _Essays in Thomism_, New York: Sheed & Ward, pp. 41–62.
-* Annas, Julia, 1980, “Truth and Knowledge”, in Malcolm Schofield, Myles Burnyeat, & Jonathan Barnes (eds), _Doubt and Dogmatism: Studies in Hellenistic Epistemology_, Oxford: Clarendon Press, pp. 84–104.
-* –––, 1990, “Stoic Epistemology”, in Stephen Everson (ed.), _Epistemology_, Cambridge: Cambridge University Press, pp. 184–203.
-* Annas, Julia & Jonathan Barnes, 1985, _The Modes of Scepticism: Ancient Texts and Modern Interpretations_, Cambridge: Cambridge University Press.
-* Armstrong, David M., 1978, “Naturalism, Materialism and First Philosophy”, _Philosophia_, 8(2): 261–76.
-* Asmis, Elizabeth, 1984, _Epicurus’ Scientific Method_, Cornell Studies in Classical Philology, Ithaca, NY: Cornell University Press.
-* Banks, Erik C., 2003, _Ernst Mach’s World Elements: A Study in Natural Philosophy_, Western Ontario Series in Philosophy of Science 68, Dordrecht: Springer.
-* Barnes, Jonathan, 1982, _The Presocratic Philosophers_, Arguments of the Philosophers, rev. ed., London: Routledge.
-* –––, 1994, Introduction and Commentary, in _Aristotle: Posterior Analytics_, translated by Jonathan Barnes, 2nd ed., Oxford: Clarendon Press.
-* Bates, Todd, 2010, _Duns Scotus and the Problem of Universals_, Continuum Studies in Philosophy, London: Continuum.
-* Biard, Joël, 2001, “The Natural Order in John Buridan”, in J. M. M. H. Thijssen and Jack Zupko (eds), _The Metaphysics and Natural Philosophy of John Buridan_, Medieval and Early Modern Science, Leiden: E. J. Brill, pp. 77–95.
-* Bowman, Leonard J., 1973, “The Development of the Doctrine of the Agent Intellect in the Franciscan School of the Thirteenth Century”, _The Modern Schoolman_, 50(3): 251–79.
-* Brentano, Franz, 1992, “Nous Poiētikos: Survey of Earlier Interpretations”, in Amélie Oksenberg Rorty and Martha C. Nussbaum (eds.) _Essays on Aristotle’s De Anima_, Oxford: Clarendon Press, pp. 313–41.
-* Burnyeat, M. F., 1981, “Aristotle on Understanding Knowledge”, in Enrico Berti (ed.), _Aristotle on Science: The Posterior Analytics_ (Proceedings of the 8th Symposium Aristotelicum, Studia Aristotelica 9), Padova: Editrice Anenore, pp. 97–139.
-* –––, 1982, “The Origins of Non-Deductive Inference”, in Jonathan Barnes et al. (eds.), _Science and Speculation: Studies in Hellenistic Theory and Practice_, Cambridge: Cambridge University Press; Paris: Editions de la Maison des Sciences de l’Homme, pp. 193–238.
-* Chatterjee, Satischandra and Dhirendramohan Datta, 2004, _An Introduction to Indian Philosophy_, Calcutta: University of Calcutta Press.
-* Cherniss, Harold, 1935, _Aristotle’s Criticism of Presocratic Philosophy_, Baltimore, MD: The Johns Hopkins Press.
-* Clagett, Marshall, 1959, _The Science of Mechanics in the Middle Ages_, Publications in Medieval Science 4, Madison, WI: University of Wisconsin Press.
-* Colvert, Gavin T., 2000, “Cognition without Mirrors: Ockham’s Theory of Signification”, _The Modern Schoolman_, 77(3): 235–265.
-* Comte, August, 1934, _Cours de philosophie positive_ (1830), 6th ed., Paris: Editions Alfred Costes.
-* Copleston, F. C., 1974, “The Logical Empiricism of Nicholas of Autrecourt”, _Proceedings of the Aristotelian Society_, NS 74: 249–262.
-* Cranefield, Paul F., 1970, “On the Origin of the Phrase, _Nihil est in intellectu quod non prius fuerit in sensu_”, _Journal of the History of Medicine_, 25(1): 77–80.
-* Crombie, A. C., 1953, _Robert Grosseteste and the Origins of Experimental Science, 1100–1700_, Oxford: Clarendon Press.
-* –––, 1961, “Quantification in Medieval Physics”, _Isis_, 52(2): 143–60.
-* Daston, Lorraine, 1991, “Marvelous Facts and Miraculous Evidence in Early Modern Europe”, _Critical Inquiry_, 18(1): 93–124.
-* De Groot, Jean, 2014, _Aristotle’s Empiricism: Experience and Mechanics in the Fourth Century BC_. Las Vegas: Parmenides Publishing.
-* DeWitt, Norman Wentworth, 1954, _Epicurus and His Philosophy_, Minneapolis, MN: University of Minnesota Press.
-* Dillon, John, 2003, _The Heirs of Plato: A Study of the Old Academy_ (347–274 BC), Oxford: Clarendon Press.
-* Eamon, William and Gundolf Keil, 1987, _Plebs amat empirica_: Nicholas of Poland and His Critique of the Mediæval Medical Establishment, _Sudhoffs Archiv_: 180–196.
-* Foster, M. B., 1934, “The Christian Doctrine of Creation and the Rise of Modern Natural Science”, _Mind_, 43(172): 446–68.
-* Gasser-Wingate, Marc, 2021, _Aristotle’s Empiricism_, Oxford: Oxford University Press.
-* Gaukroger, Stephen, 1978, _Explanatory Structures: A Study of Concepts of Explanation in Early Physics and Philosophy_, Atlantic Highlands, NJ: Humanities Press.
-* Goddu, André, 1984, _The Physics of William of Ockham_, Studien und Texte zur Geistesgeschichte des Mittelalters 16, Leiden: E. J. Brill.
-* Gould, Josiah B., 1971, _The Philosophy of Chrysippus_, Philosophia Antiqua 17, Leiden: E. J. Brill.
-* Grant, Edward, 2020, _The Nature of Natural Philosophy in the Late Middle Ages_, Studies in Philosophy and the History of Philosophy 52, Washington, DC: Catholic University of America Press, pp. 225–52.
-* Hackett, Jeremiah, 2015, “Roger Bacon”, in _The Stanford Encyclopedia of Philosophy_ (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/roger-bacon/](https://plato.stanford.edu/archives/spr2015/entries/roger-bacon/)
-* Haldane, John, 2018, “Foreword”, in William M. R. Simpson, Robert C. Koons and Nicholas J. Teh (eds.), _Neo-Aristotelian Perspectives on Contemporary Science_, New York: Routledge, pp. 11–16.
-* Hankinson, R. J., 2003, “Stoic Epistemology”, in Brad Inwood (ed.), _The Cambridge Companion to the Stoics_, Cambridge: Cambridge University Press, pp. 59–84.
-* –––, “Galen on the Limitations of Knowledge”, in Christopher Gill, Tim Whitmarsh, & John Wilkins (eds.), _Galen and the World of Knowledge_, Greek Culture in the Roman World, Cambridge: Cambridge University Press, pp. 206–242.
-* –––, 2022. “Discovery, Method, and Justification: Galen and the Determination of Therapy”, in R. J. Hankinson & Matyáš Havrda (eds.), _Galen’s Epistemology: Experience, Reason, and Method in Ancient Medicine_, Cambridge: Cambridge University Press, pp. 79–115.
+* Adams, Marilyn McCord, 1979, “Was Ockham a Humean about Efficient Causality?”, *Franciscan Studies*, 39: 5–48
+* Allen, James, 2001, *Inference from Signs: Ancient Debates about the Nature of Evidence*, Oxford: Clarendon Press.
+* –––, 2004, “Experience as a Source and Ground of Theory in Epicureanism”, *Apeiron: A Journal for Ancient Philosophy and Science*, 37(4): 89–106.
+* Allers, Rudolf, 1942, “Intellectual Cognition”, in Robert E. Brennan (ed.), *Essays in Thomism*, New York: Sheed & Ward, pp. 41–62.
+* Annas, Julia, 1980, “Truth and Knowledge”, in Malcolm Schofield, Myles Burnyeat, & Jonathan Barnes (eds), *Doubt and Dogmatism: Studies in Hellenistic Epistemology*, Oxford: Clarendon Press, pp. 84–104.
+* –––, 1990, “Stoic Epistemology”, in Stephen Everson (ed.), *Epistemology*, Cambridge: Cambridge University Press, pp. 184–203.
+* Annas, Julia & Jonathan Barnes, 1985, *The Modes of Scepticism: Ancient Texts and Modern Interpretations*, Cambridge: Cambridge University Press.
+* Armstrong, David M., 1978, “Naturalism, Materialism and First Philosophy”, *Philosophia*, 8(2): 261–76.
+* Asmis, Elizabeth, 1984, *Epicurus’ Scientific Method*, Cornell Studies in Classical Philology, Ithaca, NY: Cornell University Press.
+* Banks, Erik C., 2003, *Ernst Mach’s World Elements: A Study in Natural Philosophy*, Western Ontario Series in Philosophy of Science 68, Dordrecht: Springer.
+* Barnes, Jonathan, 1982, *The Presocratic Philosophers*, Arguments of the Philosophers, rev. ed., London: Routledge.
+* –––, 1994, Introduction and Commentary, in *Aristotle: Posterior Analytics*, translated by Jonathan Barnes, 2nd ed., Oxford: Clarendon Press.
+* Bates, Todd, 2010, *Duns Scotus and the Problem of Universals*, Continuum Studies in Philosophy, London: Continuum.
+* Biard, Joël, 2001, “The Natural Order in John Buridan”, in J. M. M. H. Thijssen and Jack Zupko (eds), *The Metaphysics and Natural Philosophy of John Buridan*, Medieval and Early Modern Science, Leiden: E. J. Brill, pp. 77–95.
+* Bowman, Leonard J., 1973, “The Development of the Doctrine of the Agent Intellect in the Franciscan School of the Thirteenth Century”, *The Modern Schoolman*, 50(3): 251–79.
+* Brentano, Franz, 1992, “Nous Poiētikos: Survey of Earlier Interpretations”, in Amélie Oksenberg Rorty and Martha C. Nussbaum (eds.) *Essays on Aristotle’s De Anima*, Oxford: Clarendon Press, pp. 313–41.
+* Burnyeat, M. F., 1981, “Aristotle on Understanding Knowledge”, in Enrico Berti (ed.), *Aristotle on Science: The Posterior Analytics* (Proceedings of the 8th Symposium Aristotelicum, Studia Aristotelica 9), Padova: Editrice Anenore, pp. 97–139.
+* –––, 1982, “The Origins of Non-Deductive Inference”, in Jonathan Barnes et al. (eds.), *Science and Speculation: Studies in Hellenistic Theory and Practice*, Cambridge: Cambridge University Press; Paris: Editions de la Maison des Sciences de l’Homme, pp. 193–238.
+* Chatterjee, Satischandra and Dhirendramohan Datta, 2004, *An Introduction to Indian Philosophy*, Calcutta: University of Calcutta Press.
+* Cherniss, Harold, 1935, *Aristotle’s Criticism of Presocratic Philosophy*, Baltimore, MD: The Johns Hopkins Press.
+* Clagett, Marshall, 1959, *The Science of Mechanics in the Middle Ages*, Publications in Medieval Science 4, Madison, WI: University of Wisconsin Press.
+* Colvert, Gavin T., 2000, “Cognition without Mirrors: Ockham’s Theory of Signification”, *The Modern Schoolman*, 77(3): 235–265.
+* Comte, August, 1934, *Cours de philosophie positive* (1830), 6th ed., Paris: Editions Alfred Costes.
+* Copleston, F. C., 1974, “The Logical Empiricism of Nicholas of Autrecourt”, *Proceedings of the Aristotelian Society*, NS 74: 249–262.
+* Cranefield, Paul F., 1970, “On the Origin of the Phrase, *Nihil est in intellectu quod non prius fuerit in sensu*”, *Journal of the History of Medicine*, 25(1): 77–80.
+* Crombie, A. C., 1953, *Robert Grosseteste and the Origins of Experimental Science, 1100–1700*, Oxford: Clarendon Press.
+* –––, 1961, “Quantification in Medieval Physics”, *Isis*, 52(2): 143–60.
+* Daston, Lorraine, 1991, “Marvelous Facts and Miraculous Evidence in Early Modern Europe”, *Critical Inquiry*, 18(1): 93–124.
+* De Groot, Jean, 2014, *Aristotle’s Empiricism: Experience and Mechanics in the Fourth Century BC*. Las Vegas: Parmenides Publishing.
+* DeWitt, Norman Wentworth, 1954, *Epicurus and His Philosophy*, Minneapolis, MN: University of Minnesota Press.
+* Dillon, John, 2003, *The Heirs of Plato: A Study of the Old Academy* (347–274 BC), Oxford: Clarendon Press.
+* Eamon, William and Gundolf Keil, 1987, *Plebs amat empirica*: Nicholas of Poland and His Critique of the Mediæval Medical Establishment, *Sudhoffs Archiv*: 180–196.
+* Foster, M. B., 1934, “The Christian Doctrine of Creation and the Rise of Modern Natural Science”, *Mind*, 43(172): 446–68.
+* Gasser-Wingate, Marc, 2021, *Aristotle’s Empiricism*, Oxford: Oxford University Press.
+* Gaukroger, Stephen, 1978, *Explanatory Structures: A Study of Concepts of Explanation in Early Physics and Philosophy*, Atlantic Highlands, NJ: Humanities Press.
+* Goddu, André, 1984, *The Physics of William of Ockham*, Studien und Texte zur Geistesgeschichte des Mittelalters 16, Leiden: E. J. Brill.
+* Gould, Josiah B., 1971, *The Philosophy of Chrysippus*, Philosophia Antiqua 17, Leiden: E. J. Brill.
+* Grant, Edward, 2020, *The Nature of Natural Philosophy in the Late Middle Ages*, Studies in Philosophy and the History of Philosophy 52, Washington, DC: Catholic University of America Press, pp. 225–52.
+* Hackett, Jeremiah, 2015, “Roger Bacon”, in *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/roger-bacon/](https://plato.stanford.edu/archives/spr2015/entries/roger-bacon/)
+* Haldane, John, 2018, “Foreword”, in William M. R. Simpson, Robert C. Koons and Nicholas J. Teh (eds.), *Neo-Aristotelian Perspectives on Contemporary Science*, New York: Routledge, pp. 11–16.
+* Hankinson, R. J., 2003, “Stoic Epistemology”, in Brad Inwood (ed.), *The Cambridge Companion to the Stoics*, Cambridge: Cambridge University Press, pp. 59–84.
+* –––, “Galen on the Limitations of Knowledge”, in Christopher Gill, Tim Whitmarsh, & John Wilkins (eds.), *Galen and the World of Knowledge*, Greek Culture in the Roman World, Cambridge: Cambridge University Press, pp. 206–242.
+* –––, 2022. “Discovery, Method, and Justification: Galen and the Determination of Therapy”, in R. J. Hankinson & Matyáš Havrda (eds.), *Galen’s Epistemology: Experience, Reason, and Method in Ancient Medicine*, Cambridge: Cambridge University Press, pp. 79–115.
 * Harari, Orna, 2004, _Knowledge and Demonstration: Aristotle’s Posterior Analytic_s, New Synthese Historical Library 56, Dordrecht: Springer.
-* Harrison, Peter, 2002, “Voluntarism and Early Modern Science”, _History of Science_, 40(1): 63–89.
-* Hasper, Pieter Sjoerd & Joel Yurdin, 2014, “Between Perception and Scientific Knowledge: Aristotle’s Account of Experience”, in _Oxford Studies in Ancient Philosophy_ 47 (Winter), Brad Inwood (ed.), Oxford: Oxford University Press, pp. 119–150.
-* Heiser, Basil, 1942, “The _primum cognitum_ according to Duns Scotus”, _Franciscan Studies_ (New Series), 2(3): 193–216.
-* Henry, John, 2009, “Voluntarist Theology at the Origins of Modern Science: A Response to Peter Harrison”, _History of Science_, 47(1): 79–113.
-* Huffman, Carl, 2021, “Alcmaeon”, in _The Stanford Encyclopedia of Philosophy_ (Summer 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2021/entries/alcmaeon/](https://plato.stanford.edu/archives/sum2021/entries/alcmaeon/)
-* Hussey, Edward, 1999, “The Beginnings of Epistemology: From Plato to Philolaus”, in Stephen Everson (ed.), _Epistemology_, Companions to Ancient Thought 1, Cambridge: Cambridge University Press, pp. 11–38.
-* Hutchison, Keith, 1982, “What Happened to Occult Qualities in the Scientific Revolution?”, _Isis_, 73(2): 233–53.
-* Jayatilleke, K. N., 1963, _Early Buddhist Theory of Knowledge_, London: George Allen & Unwin.
-* Kahn, Charles H., 1979, _The Art and Thought of Heraclitus: An edition of the fragments with translation and commentary_, Cambridge: Cambridge University Press.
-* –––, 1981, “The Role of _Nous_ in the Cognition of First Principles in _Posterior Analytics_ II 19”, in Enrico Berti (ed.), _Aristotle on Science: The Posterior Analytics_ (Proceedings of the 8th Symposium Aristotelicum, Studia Aristotelica 9), Padova: Editrice Anenore, pp. 385–414.
-* King, Peter, 2003, “Two Conceptions of Experience”, _Medieval Philosophy and Theology_, 11(2): 203–226.
-* Kirk, G.S., J. E. Raven, and M. Schofield 1983, _The Presocratic Philosophers_, 2nd ed., Cambridge: Cambridge University Press.
-* Klocker, Harry R., 1980, “Ockham and the Divine Ideas”, _The Modern Schoolman_, 57(4): 348–60.
-* Kuksewicz, Z., 1982, “The Potential and the Agent Intellect”, in Norman Kretzmann, Anthony Kenny, Jan Pinborg (eds.), _The Cambridge History of Later Medieval Philosophy_, Cambridge: Cambridge University Press, pp. 595–601.
-* Kuriyama, Shigehisa, 1999, _The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine_, New York: Zone Books.
-* Lear, Jonathan, 1982, “Aristotle’s Philosophy of Mathematics”, _The Philosophical Review_, 41(2): 161–92.
-* Leff, Gordon, 1975, _William of Ockham: The Metamorphosis of Scholatic Discourse_, Manchester: Manchester University Press; Totowa, NJ: Rowman and Littlefield.
-* Lewis, Neil, 2013, “Robert Grosseteste”, _The Stanford Encyclopedia of Philosophy_, (Summer 2013 Edition), Edward N. Zalta (ed.), URL = <[Robert Grosseteste (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/grosseteste/)>
-* Lloyd, G. E. R., 1979, _Magic, Reason and Experience: Studies in the Origin and Development of Greek Science_, Cambridge: Cambridge University Press.
-* –––, 1992, _Polarity and Analogy: Two Types of Argumentation in Early Greek Thought_ (1966), Bristol: Bristol Classical Press; Indianapolis, IN: Hackett Publishing Co.
-* Loeb, Louis E., 1981, _From Descartes to Hume: Continental Metaphysics and the Development of Modern Philosophy_, Ithaca, NY: Cornell University Press.
-* Lowe, E. J., 1995, _Locke on Human Understanding_, Routledge Philosophy Guidebooks, London: Routledge.
-* Mach, Ernst,1992, “The Leading Thoughts of My Scientific Epistemology and Its Acceptance by Contemporaries (1910)”, in John Blackmore (ed.), _Ernst Mach—A Deeper Look: Documents and New Perspectives_, Boston Studies in the Philosophy of Science 143, Dordrecht, Springer, pp. 133–39.
-* Madden, Edward H., 1952, “The Enthymeme: Crossroads of Logic, Rhetoric, and Metaphysics”, _The Philosophical Review_, 61(3): 368–76.
-* Mansfeld, Jaap & David T. Runia, 2020, _Aëtiana V 1–4: An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts_, Philosophia Antiqua 153: 1–4, Leiden: Brill.
-* Markie, Peter, 2015, “Rationalism vs. Empiricism”, _The Stanford Encyclopedia of Philosophy_ (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/rationalism-empiricism/](https://plato.stanford.edu/archives/spr2015/entries/rationalism-empiricism/)
-* Marrone, Steven P., 1985, _Truth and Scientific Knowledge in the Thought of Henry of Ghent_, Speculum Anniversary Monographs 11, Cambridge, MA: Medieval Academy of America.
-* –––, 2011, “Henry of Ghent’s Epistemology”, in Gordon A. Wilson (ed.), _A Companion to Henry of Ghent_, Brill’s Companions to the Christian Tradition 23; Leiden: Brill, pp. 213–39.
-* Maurer, Armand, 1999, _The Philosophy of William of Ockham in the Light of Its Principles_, Studies and Texts 133, Toronto: Pontifical Institute of Mediaeval Studies.
-* Meyer, Stefan, 1992, “Mach Looks Through a Spinthariscope”, in John Blackmore (ed.), _Ernst Mach—A Deeper Look: Documents and New Perspectives_, Boston Studies in the Philosophy of Science 143, Dordrecht, Springer, pp. 151–52.
-* Milton, J. R., 2002, “The Limitations of Ancient Atomism”, in C. J. Tuplin and T. E. Rihll (eds), _Science and Mathematics in Ancient Greek Culture_, Oxford: Oxford University Press, pp. 178–95.
-* Moravcsik, J. M., 1975, “_Aitia_ as Generative Factor in Aristotle’s Philosophy”, _Dialogue_, 14(4): 622–638.
-* Normore, Calvin, 2007, “The Invention of Singular Thought”, in Henrik Lagerlund (ed.), _Forming the Mind: Essays on the Internal Senses and the Mind/Body Problem from Avicenna to the Medical Enlightenment_, Studies in the History of Philosophy of Mind 5, Dordrecht: Springer, pp. 109–28.
-* Norton, David Fate, 1981, “The myth of ‘British empiricism’”, _History of European Ideas_, 1(4): 331–44.
-* O’Keefe, Tim, 2010, _Epicureanism_, Ancient Philosophies, Durham: Acumen.
-* Owen, G. E. L., 1986, “Tithenai ta phainomena” (1961), in G. E. L. Owen, _Logic, Science, and Dialectic: Collected Papers in Greek Philosophy_, Martha Nussbaum (ed.), Ithaca, NY: Cornell University Press, pp. 239–251.
-* Owens, Joseph, 1966, “The Grounds of Universality in Aristotle”, _American Philosophical Quarterly_, 3(2): 162–69.
-* Pasnau, Robert, 2002, _Thomas Aquinas on Human Nature: A Philosophical Study of Summa theologiae 1a 75–89_, Cambridge: Cambridge University Press.
-* –––, 2011, “Scholastic Qualities, Primary and Secondary”, in Lawrence Nolan (ed.), _Primary and Secondary Qualities: The Historical and Ongoing Debate_, Oxford University Press, pp. 41–61.
-* –––, 2013, “Epistemology Idealized”, _Mind_, 122(488): 987–1021.
-* –––, 2015, “Divine Illumination”, _The Stanford Encyclopedia of Philosophy_, (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/illumination/](https://plato.stanford.edu/archives/spr2015/entries/illumination/)
-* Polansky, Ronald, 2007, _Aristotle’s De Anima_, Cambridge: Cambridge University Press.
-* Popper, Karl R., 1935 \[2002], _The Logic of Scientific Discovery_, London: Routledge.
-* Quine, W. V. O., 1995, “Naturalism; or, Living Within One’s Means”, _Dialectica_, 49: 251–61.
-* Reichenbach, Hans, 1938, _Experience and Prediction: An Analysis of the Foundations and the Structures of Knowledge_, Phoenix Books, Chicago: University of Chicago Press.
-* Reinhardt, Tobias, 2023, _Cicero’s_ Academici libri _and_ Lucullus\*: A Commentary with Introduction and Translation\*s, Oxford: Oxford University Press.
-* Ross, W. D., 1936, _Aristotle’s Physics: A Revised Text with Introduction and Commentary_, Oxford: Clarendon Press.
-* Ross, W. D., 1949, _Aristotle’s Prior and Posterior Analytics: A Revised Text with Introduction and Commentary_, Oxford: Clarendon Press.
-* Scott, Dominic, 1995, _Recollection and Experience: Plato’s Theory of Learning and its Successors_, Cambridge: Cambridge University Press.
-* Sedley, David, 1982, “On Signs”, in Jonathan Barnes et al. (eds.), _Science and Speculation: Studies in Hellenistic Theory and Practice_, Cambridge: Cambridge University Press; Paris: Editions de la Maison des Sciences de l’Homme, pp. 239–272.
-* Shapiro, Stewart, 2000, _Thinking about Mathematics: The Philosophy of Mathematics_, Oxford: Oxford University Press.
-* Singer, P. N., 2022. “The Relation between Perceptual Experience and _Logos_: Galen’s Clinical Perspective”, in R. J. Hankinson & Matyáš Havrda (eds.), _Galen’s Epistemology: Experience, Reason, and Method in Ancient Medicine_, Cambridge: Cambridge University Press, pp. 156–189.
-* Smith, Plínio Junqueira, 2022, _Sextus Empiricus’ Neo-Pyrrhonism: Skepticism as a Rationally Ordered Experience_, Synthese Library 457, Dordrecht: Springer.
-* Stiefel, Tina, 1992, “The Problem of Causal Inference in the Empirical World of Nicholas of Autrecourt”, _History of Science_ 30(3): 295–309.
-* Taylor, C. C. W., 1990, “Aristotle’s Epistemology”, in Stephen Everson (ed.), _Epistemology_, Companions to Ancient Thought 1, Cambridge: Cambridge University Press, pp. 116–42.
-* Thijssen, J. M. M. H., 1987, “John Buridan and Nicholas of Autrecourt on Causality and Induction”, _Traditio_, 43: 237–55.
-* Tieleman, Teun, 1996, _Galen and Chrysippus on the Soul: Argument and Refutation in the De Placitis Books II–III_, Philosophia Antiqua 68, Leiden: E. J. Brill.
-* van der Eijk, Philip J., 2005, “Galen’s Use of the Concept of ‘Qualified Experience’ in his Dietetic and Pharmacological Works”, in _Medicine and Philosophy in Classical Antiquity: Doctors and Philosophers on Nature, Soul, Health and Disease_, Cambridge: Cambridge University Press, pp. 279–298.
-* van Dyke, Christina, 2009, “An Aristotelian Theory of Divine Illumination: Robert Groesseteste’s Commentary on the _Posterior Analytics_”, _British Journal for the History of Philosophy_, 17(4): 685–704.
-* van Fraassen, Bas C., 1980, _The Scientific Image_, Clarendon Library of Logic and Philosophy, Oxford: Clarendon Press.
-* –––, 2002, _The Empirical Stance_, The Terry Lectures, New Haven, CN: Yale University Press.
-* Vos, Antonie, 2006, _The Philosophy of John Duns Scotus_, Edinburgh: Edinburgh University Press.
-* Weinberg, Julius Rudolph, 1948, _Nicholas of Autrecourt: A Study in 14th Century Thought_, Princeton, NJ: Princeton University Press.
-* Witt, Charlotte, 1989, _Substance and Essence in Aristotle: An Interpretation of Metaphysics VII–IX_, Ithaca, NY: Cornell University Press.
-* Wood, Allen W., 2002, _Unsettling Obligations: Essays on Reason, Reality and the Ethics of Belief_, CSLI Lecture Notes 146, Stanford, CA: CSLI Publications.
-* Wood, Rega, 2007, “Imagination and Experience in the Sensory Soul and Beyond: Richard Rufus, Roger Bacon, and Their Contemporaries”, in Henrik Lagerlund (ed.), _Forming the Mind: Essays on the Internal Senses and the Mind/Body Problem from Avicenna to the Medical Enlightenment_, Dordrecht: Springer, pp. 27–57.
+* Harrison, Peter, 2002, “Voluntarism and Early Modern Science”, *History of Science*, 40(1): 63–89.
+* Hasper, Pieter Sjoerd & Joel Yurdin, 2014, “Between Perception and Scientific Knowledge: Aristotle’s Account of Experience”, in *Oxford Studies in Ancient Philosophy* 47 (Winter), Brad Inwood (ed.), Oxford: Oxford University Press, pp. 119–150.
+* Heiser, Basil, 1942, “The *primum cognitum* according to Duns Scotus”, *Franciscan Studies* (New Series), 2(3): 193–216.
+* Henry, John, 2009, “Voluntarist Theology at the Origins of Modern Science: A Response to Peter Harrison”, *History of Science*, 47(1): 79–113.
+* Huffman, Carl, 2021, “Alcmaeon”, in *The Stanford Encyclopedia of Philosophy* (Summer 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2021/entries/alcmaeon/](https://plato.stanford.edu/archives/sum2021/entries/alcmaeon/)
+* Hussey, Edward, 1999, “The Beginnings of Epistemology: From Plato to Philolaus”, in Stephen Everson (ed.), *Epistemology*, Companions to Ancient Thought 1, Cambridge: Cambridge University Press, pp. 11–38.
+* Hutchison, Keith, 1982, “What Happened to Occult Qualities in the Scientific Revolution?”, *Isis*, 73(2): 233–53.
+* Jayatilleke, K. N., 1963, *Early Buddhist Theory of Knowledge*, London: George Allen & Unwin.
+* Kahn, Charles H., 1979, *The Art and Thought of Heraclitus: An edition of the fragments with translation and commentary*, Cambridge: Cambridge University Press.
+* –––, 1981, “The Role of *Nous* in the Cognition of First Principles in *Posterior Analytics* II 19”, in Enrico Berti (ed.), *Aristotle on Science: The Posterior Analytics* (Proceedings of the 8th Symposium Aristotelicum, Studia Aristotelica 9), Padova: Editrice Anenore, pp. 385–414.
+* King, Peter, 2003, “Two Conceptions of Experience”, *Medieval Philosophy and Theology*, 11(2): 203–226.
+* Kirk, G.S., J. E. Raven, and M. Schofield 1983, *The Presocratic Philosophers*, 2nd ed., Cambridge: Cambridge University Press.
+* Klocker, Harry R., 1980, “Ockham and the Divine Ideas”, *The Modern Schoolman*, 57(4): 348–60.
+* Kuksewicz, Z., 1982, “The Potential and the Agent Intellect”, in Norman Kretzmann, Anthony Kenny, Jan Pinborg (eds.), *The Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, pp. 595–601.
+* Kuriyama, Shigehisa, 1999, *The Expressiveness of the Body and the Divergence of Greek and Chinese Medicine*, New York: Zone Books.
+* Lear, Jonathan, 1982, “Aristotle’s Philosophy of Mathematics”, *The Philosophical Review*, 41(2): 161–92.
+* Leff, Gordon, 1975, *William of Ockham: The Metamorphosis of Scholatic Discourse*, Manchester: Manchester University Press; Totowa, NJ: Rowman and Littlefield.
+* Lewis, Neil, 2013, “Robert Grosseteste”, *The Stanford Encyclopedia of Philosophy*, (Summer 2013 Edition), Edward N. Zalta (ed.), URL = <[Robert Grosseteste (Stanford Encyclopedia of Philosophy/Summer 2013 Edition)](https://plato.stanford.edu/archives/sum2013/entries/grosseteste/)>
+* Lloyd, G. E. R., 1979, *Magic, Reason and Experience: Studies in the Origin and Development of Greek Science*, Cambridge: Cambridge University Press.
+* –––, 1992, *Polarity and Analogy: Two Types of Argumentation in Early Greek Thought* (1966), Bristol: Bristol Classical Press; Indianapolis, IN: Hackett Publishing Co.
+* Loeb, Louis E., 1981, *From Descartes to Hume: Continental Metaphysics and the Development of Modern Philosophy*, Ithaca, NY: Cornell University Press.
+* Lowe, E. J., 1995, *Locke on Human Understanding*, Routledge Philosophy Guidebooks, London: Routledge.
+* Mach, Ernst,1992, “The Leading Thoughts of My Scientific Epistemology and Its Acceptance by Contemporaries (1910)”, in John Blackmore (ed.), *Ernst Mach—A Deeper Look: Documents and New Perspectives*, Boston Studies in the Philosophy of Science 143, Dordrecht, Springer, pp. 133–39.
+* Madden, Edward H., 1952, “The Enthymeme: Crossroads of Logic, Rhetoric, and Metaphysics”, *The Philosophical Review*, 61(3): 368–76.
+* Mansfeld, Jaap & David T. Runia, 2020, *Aëtiana V 1–4: An Edition of the Reconstructed Text of the Placita with a Commentary and a Collection of Related Texts*, Philosophia Antiqua 153: 1–4, Leiden: Brill.
+* Markie, Peter, 2015, “Rationalism vs. Empiricism”, *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/rationalism-empiricism/](https://plato.stanford.edu/archives/spr2015/entries/rationalism-empiricism/)
+* Marrone, Steven P., 1985, *Truth and Scientific Knowledge in the Thought of Henry of Ghent*, Speculum Anniversary Monographs 11, Cambridge, MA: Medieval Academy of America.
+* –––, 2011, “Henry of Ghent’s Epistemology”, in Gordon A. Wilson (ed.), *A Companion to Henry of Ghent*, Brill’s Companions to the Christian Tradition 23; Leiden: Brill, pp. 213–39.
+* Maurer, Armand, 1999, *The Philosophy of William of Ockham in the Light of Its Principles*, Studies and Texts 133, Toronto: Pontifical Institute of Mediaeval Studies.
+* Meyer, Stefan, 1992, “Mach Looks Through a Spinthariscope”, in John Blackmore (ed.), *Ernst Mach—A Deeper Look: Documents and New Perspectives*, Boston Studies in the Philosophy of Science 143, Dordrecht, Springer, pp. 151–52.
+* Milton, J. R., 2002, “The Limitations of Ancient Atomism”, in C. J. Tuplin and T. E. Rihll (eds), *Science and Mathematics in Ancient Greek Culture*, Oxford: Oxford University Press, pp. 178–95.
+* Moravcsik, J. M., 1975, “*Aitia* as Generative Factor in Aristotle’s Philosophy”, *Dialogue*, 14(4): 622–638.
+* Normore, Calvin, 2007, “The Invention of Singular Thought”, in Henrik Lagerlund (ed.), *Forming the Mind: Essays on the Internal Senses and the Mind/Body Problem from Avicenna to the Medical Enlightenment*, Studies in the History of Philosophy of Mind 5, Dordrecht: Springer, pp. 109–28.
+* Norton, David Fate, 1981, “The myth of ‘British empiricism’”, *History of European Ideas*, 1(4): 331–44.
+* O’Keefe, Tim, 2010, *Epicureanism*, Ancient Philosophies, Durham: Acumen.
+* Owen, G. E. L., 1986, “Tithenai ta phainomena” (1961), in G. E. L. Owen, *Logic, Science, and Dialectic: Collected Papers in Greek Philosophy*, Martha Nussbaum (ed.), Ithaca, NY: Cornell University Press, pp. 239–251.
+* Owens, Joseph, 1966, “The Grounds of Universality in Aristotle”, *American Philosophical Quarterly*, 3(2): 162–69.
+* Pasnau, Robert, 2002, *Thomas Aquinas on Human Nature: A Philosophical Study of Summa theologiae 1a 75–89*, Cambridge: Cambridge University Press.
+* –––, 2011, “Scholastic Qualities, Primary and Secondary”, in Lawrence Nolan (ed.), *Primary and Secondary Qualities: The Historical and Ongoing Debate*, Oxford University Press, pp. 41–61.
+* –––, 2013, “Epistemology Idealized”, *Mind*, 122(488): 987–1021.
+* –––, 2015, “Divine Illumination”, *The Stanford Encyclopedia of Philosophy*, (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/illumination/](https://plato.stanford.edu/archives/spr2015/entries/illumination/)
+* Polansky, Ronald, 2007, *Aristotle’s De Anima*, Cambridge: Cambridge University Press.
+* Popper, Karl R., 1935 \[2002], *The Logic of Scientific Discovery*, London: Routledge.
+* Quine, W. V. O., 1995, “Naturalism; or, Living Within One’s Means”, *Dialectica*, 49: 251–61.
+* Reichenbach, Hans, 1938, *Experience and Prediction: An Analysis of the Foundations and the Structures of Knowledge*, Phoenix Books, Chicago: University of Chicago Press.
+* Reinhardt, Tobias, 2023, *Cicero’s* Academici libri *and* Lucullus\*: A Commentary with Introduction and Translation\*s, Oxford: Oxford University Press.
+* Ross, W. D., 1936, *Aristotle’s Physics: A Revised Text with Introduction and Commentary*, Oxford: Clarendon Press.
+* Ross, W. D., 1949, *Aristotle’s Prior and Posterior Analytics: A Revised Text with Introduction and Commentary*, Oxford: Clarendon Press.
+* Scott, Dominic, 1995, *Recollection and Experience: Plato’s Theory of Learning and its Successors*, Cambridge: Cambridge University Press.
+* Sedley, David, 1982, “On Signs”, in Jonathan Barnes et al. (eds.), *Science and Speculation: Studies in Hellenistic Theory and Practice*, Cambridge: Cambridge University Press; Paris: Editions de la Maison des Sciences de l’Homme, pp. 239–272.
+* Shapiro, Stewart, 2000, *Thinking about Mathematics: The Philosophy of Mathematics*, Oxford: Oxford University Press.
+* Singer, P. N., 2022. “The Relation between Perceptual Experience and *Logos*: Galen’s Clinical Perspective”, in R. J. Hankinson & Matyáš Havrda (eds.), *Galen’s Epistemology: Experience, Reason, and Method in Ancient Medicine*, Cambridge: Cambridge University Press, pp. 156–189.
+* Smith, Plínio Junqueira, 2022, *Sextus Empiricus’ Neo-Pyrrhonism: Skepticism as a Rationally Ordered Experience*, Synthese Library 457, Dordrecht: Springer.
+* Stiefel, Tina, 1992, “The Problem of Causal Inference in the Empirical World of Nicholas of Autrecourt”, *History of Science* 30(3): 295–309.
+* Taylor, C. C. W., 1990, “Aristotle’s Epistemology”, in Stephen Everson (ed.), *Epistemology*, Companions to Ancient Thought 1, Cambridge: Cambridge University Press, pp. 116–42.
+* Thijssen, J. M. M. H., 1987, “John Buridan and Nicholas of Autrecourt on Causality and Induction”, *Traditio*, 43: 237–55.
+* Tieleman, Teun, 1996, *Galen and Chrysippus on the Soul: Argument and Refutation in the De Placitis Books II–III*, Philosophia Antiqua 68, Leiden: E. J. Brill.
+* van der Eijk, Philip J., 2005, “Galen’s Use of the Concept of ‘Qualified Experience’ in his Dietetic and Pharmacological Works”, in *Medicine and Philosophy in Classical Antiquity: Doctors and Philosophers on Nature, Soul, Health and Disease*, Cambridge: Cambridge University Press, pp. 279–298.
+* van Dyke, Christina, 2009, “An Aristotelian Theory of Divine Illumination: Robert Groesseteste’s Commentary on the *Posterior Analytics*”, *British Journal for the History of Philosophy*, 17(4): 685–704.
+* van Fraassen, Bas C., 1980, *The Scientific Image*, Clarendon Library of Logic and Philosophy, Oxford: Clarendon Press.
+* –––, 2002, *The Empirical Stance*, The Terry Lectures, New Haven, CN: Yale University Press.
+* Vos, Antonie, 2006, *The Philosophy of John Duns Scotus*, Edinburgh: Edinburgh University Press.
+* Weinberg, Julius Rudolph, 1948, *Nicholas of Autrecourt: A Study in 14th Century Thought*, Princeton, NJ: Princeton University Press.
+* Witt, Charlotte, 1989, *Substance and Essence in Aristotle: An Interpretation of Metaphysics VII–IX*, Ithaca, NY: Cornell University Press.
+* Wood, Allen W., 2002, *Unsettling Obligations: Essays on Reason, Reality and the Ethics of Belief*, CSLI Lecture Notes 146, Stanford, CA: CSLI Publications.
+* Wood, Rega, 2007, “Imagination and Experience in the Sensory Soul and Beyond: Richard Rufus, Roger Bacon, and Their Contemporaries”, in Henrik Lagerlund (ed.), *Forming the Mind: Essays on the Internal Senses and the Mind/Body Problem from Avicenna to the Medical Enlightenment*, Dordrecht: Springer, pp. 27–57.
 
 ## Academic Tools
 
@@ -468,4 +466,4 @@ _首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2023 年 6 
 [Bacon, Roger](https://plato.stanford.edu/entries/roger-bacon/) | [divine: illumination](https://plato.stanford.edu/entries/illumination/) | [Grosseteste, Robert](https://plato.stanford.edu/entries/grosseteste/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Gregory W. Dawes](http://www.otago.ac.nz/philosophy/dept/staff-dawes.html) <[_gregory.dawes@otago.ac.nz_](mailto:gregory%2edawes%40otago%2eac%2enz)>
+[Gregory W. Dawes](http://www.otago.ac.nz/philosophy/dept/staff-dawes.html) <[*gregory.dawes@otago.ac.nz*](mailto:gregory%2edawes%40otago%2eac%2enz)>

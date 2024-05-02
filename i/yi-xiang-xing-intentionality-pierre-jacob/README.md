@@ -1,10 +1,9 @@
 # 意向性 intentionality (Pierre Jacob)
 
-_首次发表于2003年8月7日星期四；实质性修订于2023年2月7日星期二。_
+*首次发表于2003年8月7日星期四；实质性修订于2023年2月7日星期二。*
 
 在哲学中，意向性是心智和心理状态具有关于、代表或代表事物、属性和情况的能力。说一个个体的心理状态具有意向性是说它们是心理表征或具有内容。此外，如果一个说话者使用某种自然语言的词语或从形式语言中绘制图片或符号，目的是向他人传达她心理状态的内容，那么说话者使用的这些工具也具有内容或意向性。"意向性"是一个哲学家的词：自从19世纪末弗朗茨·布伦塔诺引入这个概念（即使不是这个词本身）以来，它一直被用来指代表征的难题，所有这些难题都位于心灵哲学和语言哲学的交界处。一幅狗的图片、一个专有名词（例如"Fido"）、普通名词"dog"或者由这个词所表达的概念都可以意味着、代表或者代表一个或多个毛茸茸的叫的生物。一个完整的思想、一个完整的句子或者一幅图片可以代表或描述一个情况。一些被代表的事物（例如恐龙）如何与表征（例如2018年的一个关于恐龙的人类思想或话语）在空间和时间上任意远离，而其他一些事物（例如数字）甚至可能根本不在空间和时间中？一些表征（例如直接引语，如"dinosaur"）如何代表它们自己？一个复杂的表征（例如一个完整的思想或一个完整的句子）如何从其组成部分的意义或内容中继承其意义或内容？人们应该如何理解图像表征的图像内容与类似命题的表征（思想和话语）的概念内容之间的关系？ 一个人应该如何理解个体心理状态的内容与个体用来表达其内部心理状态的外部符号的意义之间的关系？世界的表征是否是它们所代表的世界的一部分？一个人的所有心理状态都具有意向性吗，还是只有其中一部分？这个条目分为十个部分：
 
- 
 ***
 
 ## 1. 为什么称之为意向性？
@@ -99,7 +98,7 @@ _首次发表于2003年8月7日星期四；实质性修订于2023年2月7日星�
 
 表面上看，准英语句子“the F is G”的语法形式表明它用于表达一个主谓（或单数）命题，只有当体现谓词“F”所表示的属性的对象也体现谓词“G”所表示的属性时，该命题才为真。但是，罗素（1905 年）设计了一种方法——他著名的确定描述理论，通过一阶逻辑的逻辑公式，只涉及量词和变量，来消除英语中的定冠词“the”（如“the F”）。根据他的分析，“the F is G”可以被解释为普遍存在量化的命题（8）：
 
-8. ∃_x_\[_Fx_ & ∀_y_(_Fy_ → _y=x_) & _Gx_]
+8. ∃*x*\[*Fx* & ∀*y*(*Fy* → *y=x*) & *Gx*]
 
 （8）只有当存在且仅存在一个既是 F 又是 G 的个体时才为真。当没有事物或超过一个事物既是 F 又是 G 时，该命题将为假。
 
@@ -265,141 +264,141 @@ Chisholm（1957）和 Quine（1960）的共同遗产是意向性的语言观（�
 
 ## Bibliography
 
-* Adams, F., and Aizawa, K., 2001, “The bounds of cognition”, _Philosophical Psychology_, 14 (1): 43–64.
-* Anscombe, G.E.M., 1957, _Intention_, Oxford: Blackwell.
-* –––, 1965, “The intentionality of sensation: a grammatical feature,” reprinted in A. No‘, and E. Thompson (eds.), _Vision and Mind, Selected Readings in the Philosophy of Perception_, Cambridge, Mass.: MIT Press, 2002.
-* Baker, L.R., 1993, “Metaphysics and mental causation,” in J. Heil and A. Mele (eds.), _Mental Causation_, Oxford: Clarendon Press.
-* Bayne, T., and Montague, M. (eds.), 2011, _Cognitive Phenomenology_, Oxford and New York: Oxford University Press.
-* Bell, D., 1990, _Husserl_, London: Routledge and Kegan Paul.
-* Block, N., 1995, “On a confusion about a function of consciousness,” in N. Block, O. Flanagan, and G. Güzeldere (eds.), _The Nature of Consciousness_, Cambridge, Mass.: MIT Press.
-* –––, 1996, “Mental Paint and Mental Latex,” in E. Villenueva, (ed.) _Philosophical Issues 7_, Northridge: Ridgeview Publishing Company.
-* –––, 2007, “Consciousness, accessibility, and the mesh between psychology and neuroscience”, _Behavioral and Brain Sciences_, 30: 481–538.
-* Brentano, F., 1874 \[1911, 1973, 1995], _Psychology from an Empirical Standpoint_, London: Routledge and Kegan Paul.
-* Burge, T., 1977, “Belief _de re_,” _Journal of Philosophy_, 74: 338–62.
-* –––, 1979, “Individualism and the mental,” reprinted in D. Chalmers (ed.), _Philosophy of Mind, Classical and Contemporary Readings_, Oxford: Oxford University Press, 2002.
-* –––, 1982, “Other bodies,” in A. Woodfield, (ed.), _Thought and Object_, Oxford: Oxford University Press.
-* –––, 1986, “Individualism and psychology,” _Philosophical Review_, 95: 3–46.
-* –––, 1993, “Mind-Body causation and explanatory practice,” in J. Heil and A. Mele (eds.), _Mental Causation_, Oxford: Clarendon Press.
-* –––, 2010, _Origins of Objectivity_, Oxford: Oxford University Press.
-* Carnap, R., 1947, _Meaning and Necessity_, Chicago: Chicago University Press.
-* Chalmers, D., 1996, _The Conscious Mind_, Oxford: Oxford University Press.
-* ––– (ed.), 2002, _Philosophy of Mind, Classical and Contemporary Readings_, Oxford: Oxford University Press.
-* Chisholm, R. M., 1956, _Perceiving: a Philosophical Study_, reprinted in D. Rosenthal (ed.), _The Nature of Mind_, Oxford: Oxford University Press, 1990.
-* Chomsky, N., 2000, _New Horizons in the Study of Language and Mind_, Cambridge: Cambridge University Press.
-* Church, A., 1956, _Introduction to Mathematical Logic_ (Volume 1), Princeton, N.J.: Princeton University Press.
-* Churchland, P.M., 1989, _A Neurocomputational Perspective, The Nature of Mind and the Structure of Science_, Cambridge, Mass.: MIT Press.
-* Clark, A. and Chalmers, D., 1998, “The extended mind,” _Analysis_, 58 (1): 7–19.
-* Clark, A., 2008, _Supersizing the Mind, Embodiment, Action, and Cognitive Extension_, Oxford: Oxford University Press.
-* Crane, T. (ed.), 1992, _The Contents of Experience, Essays on Perception_, Cambridge: Cambridge University Press.
-* –––, 1998, “Intentionality as the mark of the mental,” in A. O’Hear (ed.), _Contemporary Issues in the Philosophy of Mind_, Cambridge: Cambridge University Press.
-* –––, 2003, _Elements of Mind, an Introduction to the Philosophy of Mind_, Oxford: Oxford University Press.
-* –––, 2007, “Intentionalism,” in A. Beckermann and P. McLaughlin (eds.), _Oxford Handbook to the Philosophy of Mind_, Oxford: Oxford University Press.
-* –––, 2013, _The Objects of Thought_, Oxford: Oxford University Press.
-* Davidson, D., 1980, _Essays on Events and Actions_, Oxford: Clarendon Press.
-* Dehaene, S., 2014, _Consciousness and the Brain_, New York: Penguin.
-* Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J. and Sergent, C., 2006, “Conscious, preconscious, and subliminal processing: a testable taxonomy,” _Trends in Cognitive Sciences_, 10: 204–211.
-* Dennett, D.C., 1969, _Content and Consciousness_, London: Routledge and Kean Paul.
-* –––, 1978, _Brainstorms, Philosophical Essays on Mind and Psychology_, Montgomery, VT: Bradford Books.
-* –––, 1987, _The Intentional Stance_, Cambridge, Mass.: MIT Press.
-* –––, 1988, “Quining qualia,” in D. Chalmers (ed.), _Philosophy of Mind, Classical and Contemporary Readings_, Oxford: Oxford University Press, 2002.
-* –––, 1991, _Consciousness Explained_, Boston: Little Brown.
-* –––, 1996, _Kinds of Mind_, New York: Norton.
-* –––, 2005, _Sweet Dreams: Philosophical Obstacles to a Science of Consciousness_, Cambridge, Mass.: MIT Press.
-* –––, 2017, _From Bacteria to Bach and Back Again_, New York: Basic Books.
-* Dretske, F., 1969, _Seeing and Knowing_, London: Routledge and Kegan Paul.
-* –––, 1980, “The intentionality of cognitive states,” in D. Rosenthal (ed.), _The Nature of Mind_, Oxford: Oxford University Press, 1990.
-* –––, 1981, _Knowledge and the Flow of Information_, Cambridge, Mass.: MIT Press.
-* –––, 1988, _Explaining Behavior_, Cambridge, Mass.: MIT Press.
-* –––, 1995, _Naturalizing the Mind_, Cambridge, Mass.: MIT Press.
-* –––, 2004, “Change blindness,” _Philosophical Studies_, 120: 1–18.
-* –––, 2007, “What change blindness teaches about consciousness,” _Philosophical Perspectives_, 21 (1): 215–220.
-* Dreyfus, H.L. (ed.), 1982, _Husserl, Intentionality and Cognitive Science_, Cambridge, Mass.: MIT Press.
-* Dummett, M., 1973, _Frege: Philosophy of Language_, New York: Harper and Row.
-* –––, 1991, “Frege and Husserl on reference,” in M. Dummett _The Seas of Language_, Oxford: Oxford University Press, 1993.
-* Evans, G., 1982, _The Varieties of Reference_, Oxford: The Clarendon Press.
-* Field, H., 1978, “Mental representation,” in N. Block, (ed.), _Readings in the Philosophy of Psychology_, Cambridge, Mass.: Harvard University Press, 1990.
-* Fodor, J.A., 1981, “Methodological solipsism considered as a research strategy in cognitive psychology,” in D. Rosenthal (ed.), _The Nature of Mind_, Oxford: Oxford University Press, 1990.
-* –––, 1975, _The Language of Thought_, New York: Crowell.
-* –––, 1987, _Psychosemantics_, Cambridge, Mass.: MIT Press.
-* –––, 1994, _The Elm and the Expert_, Cambridge, Mass.: MIT Press.
-* –––, 1998, _Concepts: Where Cognitive Science Went Wrong_, New York: Oxford University Press.
-* –––, 2008, _LOT2: The Language of Thought Revisited_, Oxford: Oxford University Press.
-* Føllesdal, D., 1982a, “Brentano and Husserl on intentional objects,” in H.L. Dreyfus (ed.), _The Nature of Mind_, Oxford: Oxford University Press.
-* –––, 1982b, “Husserl’s notion of _Noema_,” in H.L. Dreyfus (ed.), _The Nature of Mind_, Oxford: Oxford University Press.
-* Frege, G., 1892 \[1952], “On sense and reference,” in P. Geach and M. Black (eds.), _Philosophical Writings of Gottlob Frege_, Oxford: Blackwell, 1952.
-* Grice, P., 1957, “Meaning,” reprinted in P. Grice, _Studies in the Way of Words_, Cambridge, Mass.: Harvard University, 1989.
-* Guttenplan, S. (ed.), 1994, _A Companion Volume to the Philosophy of Mind_, Oxford: Blackwell.
-* Haugeland, J., 1981, “Semantic Engines: an Introduction to Mind Design,” in J. Haugeland (ed.), _Mind Design, philosophy, Psychology, Artificial Intelligence_, Cambridge, Mass.: MIT Press, 1981.
-* –––, 1995, “Mind embodied and embedded,” reprinted in J. Haugeland, J. _Having Thought: Essays in the Metaphysics of Mind_, Cambridge, MA: Harvard University Press, 1998.
-* Husserl, E. 1900 \[1970], _Logical Investigations_ (English translation by J.N. Findlay), London: Routledge and Kegan Paul.
-* –––, 1913, _Ideen zu einer Phänomenologie und phänomenologischen Philosophie_, Halle: Niemeyer.
-* Jacob, P., 1997, _What Minds Can Do_, Cambridge: Cambridge University Press.
-* Jeshion, R. (ed.), 2010, _New Essays on Singular Thought_, Oxford: Oxford University Press.
-* Kaplan, D., 1978, “Dthat,” in P. French, T. Uehling, and H. Wettstein (eds.), _Contemporary Perspectives in the Philosophy of Language_, Minneapolis: University of Minnesota Press, 1979.
-* –––, 1989, “Demonstratives,” in J. Almog, H. Wettstein, and J. Perry (eds.), _Themes from Kaplan_, Oxford: Oxford University Press.
-* Kim, J., 1993, _Mind and Supervenience_, Cambridge: Cambridge University Press.
-* –––, 1998, _Mind in a Physical World_, Cambridge, Mass.: MIT Press.
-* Kingsbury, J., Ryder, D. and Williford, K. (eds.), 2011, _Millikan and Her Critics_, Oxford: Blackwell.
-* Kistler, M., 2000, “Source and channel in the informational theory of mental content,” _Facta philosophica_, 2 (2): 213–235.
-* Kripke, S. 1972 \[1980], _Naming and Necessity_, Oxford: Blackwell.
-* –––, 1979, “A puzzle about belief,” in A. Margalit (ed.), _Meaning and Use_, Dordrecht: Reidel, 1979.
-* –––, 1982, _Wittgenstein on Rules and Private Language_, Oxford: Blackwell.
-* Loewer, B., 1987, “From information to intentionality,” _Synthese_, 70: 287–317.
-* –––, 1997, “A guide to naturalizing semantics”, in B. Hale and C. Wright (eds.), _A Companion Volume to the Philosophy of Language_, Oxford: Blackwell, 1997.
-* MacDonald, G. and Papineau, D. (eds.), 2006, _Teleosemantics: New Philosophical Essays_, Oxford: Oxford University Press.
-* Mally, E., 1912, _Gegenstandtheoretische Grundlagen der Logik und Logistik_, Leipzig: Barth.
-* McDowell, J., 1984, “_De re_ sense,” in C. Wright (ed.), _Frege, Tradition & Influence_, Oxford: Blackwell.
-* –––, 1994, _Mind and World_, Cambridge, Mass.: Harvard University Press.
-* McGinn, C., 1989, _Mental Content_, Oxford: Oxford University Press.
-* –––, 1990, _Problems of Consciousness_, Oxford: Blackwell.
-* Meinong, A., 1904, “Über Gegenstandtheorie” (English translation: “The theory of objects”), in R. Chisholm (ed.), _Realism and the Background of Phenomenology_, Glencoe: The Free Press, 1960.
-* Mill, J.S., 1884, _A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation_, New York: Harper.
-* Millikan, R.G., 1984, _Language, Thought and Other Biological Objects_, Cambridge, Mass.: MIT Press.
-* –––, 1993, _White Queen Psychology and Other Essays_, Cambridge, Mass.: MIT Press.
-* –––, 2000, _On Clear and Confused Ideas_, Cambridge: Cambridge University Press.
-* –––, 2004, _Varieties of Meaning: the 2002 Jean-Nicod Lectures_, Cambridge, Mass.: MIT Press.
-* –––, 2005, _Language_\*: a Biological Model\*, Oxford: Oxford University Press.
-* –––, 2017, _Beyond Concepts: Unicepts, Language, and Natural Information_, Oxford: Oxford University Press.
-* Naccache, L. and Dehaene, S., 2007, “Reportability and illusions of phenomenality in the light of the global neuronal workspace model”, _Behavioral and Brain Sciences_, 30: 518–520.
-* Neander, K., 1995, “Misrepresenting and malfunctioning,” _Philosophical Studies_, 79: 109–41.
-* –––, 2017, _A Mark of the Mental_, Cambridge, Mass.: MIT Press.
-* Parsons, T., 1980, _Nonexistent Objects_, New Haven: Yale University Press.
-* Peacocke, C., 1983, _Sense and Content: Experience, Thought and their Relations_, Oxford: Oxford University Press.
-* –––, 1992, _A Study of Concepts_, Cambridge, Mass.: MIT Press.
-* –––, 2001, “Does perception have nonconceptual content?” _The Journal of Philosophy_, 98: 239–64.
-* Perry, J., 1993, _The Essential Indexical and Other Essays_, Oxford: Oxford University Press.
-* –––, 1994, “Intentionality (2),” in S. Guttenplan, (ed.), _A Companion Volume to the Philosophy of Mind_, Oxford: Blackwell, 1994.
-* Premack, D.G. and Woodruff, G., 1978, “Does the chimpanzee have a theory of mind?” _Behavioral and Brain Sciences_, 1: 515–526.
-* Putnam, H., 1974, “The meaning of ‘meaning’,” in H. Putnam, _Philosophical Papers_, vol. II, _Language, Mind and Reality_, Cambridge: Cambridge University Press, 1975.
-* –––, 1986, “Information and the mental,” in E. LePore (ed.), _Truth and Interpretation, Perspectives on the Philosophy of Donald Davidson_, Oxford: Blackwell, 1986.
-* –––, 1988, _Representation and Reality_, Cambridge, Mass.: MIT Press.
-* –––, 1994, _Renewing Philosophy_, Cambridge, Mass.: Harvard University Press.
-* Quine, W.V.O., 1948, “On what there is,” reprinted in W.V.O. Quine, _From a Logical Point of View_, Cambridge, Mass.: Harvard University Press, 1953.
-* –––, 1960, _Word and Object_, Cambridge, Mass.: MIT Press.
-* Recanati, F., 2010, “Singular thought: In defence of acquaintance,” in R. Jeshion (ed.), _New Essays on Singular Thought_, Oxford: Oxford University Press.
-* Richard, M., 1990, _Propositional Attitudes_, Cambridge: Cambridge University Press.
-* Rorty, R., 1979, _Philosophy and the Mirror of Nature_, Oxford: Blackwell.
-* Rosenthal, D., 1986, “Two concepts of consciousness,” in D. Rosenthal (ed.), _The Nature of Mind_, Oxford: Oxford University Press, 1990.
-* ––– (ed.), 1990, _The Nature of Mind_, Oxford: Oxford University Press.
-* –––, 2005, _Consciousness and Mind_, Oxford: Oxford University Press.
-* Rowlands, M., 1999, _The Body in Mind_, Cambridge: Cambridge University Press.
-* Russell, B., 1903 \[1964], _The Principles of Mathematics_, London: George Allen and Unwin.
-* –––, 1905 \[1956], “On denoting,” in R. Marsh (ed.), _Bertrand Russell, Logic and Knowledge, Essays 1901–1950_, New York: Capricorn Books, 1956.
-* –––, 1911, _The Problems of Philosophy_,
-* –––, 1919, _Introduction to Mathematical Philosophy_, London: Allen and Unwin.
-* Salmon, N., 1986, _Frege’s Puzzle_, Cambridge, Mass.: MIT Press.
-* Searle, J., 1980, “Minds, brains and programs,” _The Behavioral and Brain Sciences_, 3 (3): 417–24.
-* –––, 1983, _Intentionality_, Cambridge: Cambridge University Press.
-* –––, 1992, _The Rediscovery of the Mind_, Cambridge, Mass.: MIT Press.
-* –––, 1994, “Intentionality (1),” in S. Guttenplan (ed.), _A Companion Volume to the Philosophy of Mind_, Oxford: Blackwell.
-* Shea, N., 2018, _Representation in Cognitive Science_, Oxford: Oxford University Press.
-* Shoemaker, S., 1996, _The First-Person Perspective and Other Essays_, Cambridge: Cambridge University Press.
-* Siewert, C., 1998, _The Significance of Consciousness_, Princeton: Princeton University Press.
-* Smith, B., 1994, _Austrian Philosophy, the Legacy of Franz Brentano_, Chicago and La Salle, Ill.: Open Court. \[[Preprint available online](http://ontology.buffalo.edu/smith/book/austrian\philosophy/)]
-* Stich, S., 1983, _From Folk Psychology to Cognitive Science, the Case Against Belief_, Cambridge, Mass.: MIT Press.
-* Strawson, G., 1994, _Mental Reality_, Cambridge, Mass.: MIT Press.
-* Tye, M., 1995, _Ten Problems of Consciousness_, Cambridge, Mass.: MIT Press.
-* Zalta, E.N., 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, Mass.: MIT Press.
+* Adams, F., and Aizawa, K., 2001, “The bounds of cognition”, *Philosophical Psychology*, 14 (1): 43–64.
+* Anscombe, G.E.M., 1957, *Intention*, Oxford: Blackwell.
+* –––, 1965, “The intentionality of sensation: a grammatical feature,” reprinted in A. No‘, and E. Thompson (eds.), *Vision and Mind, Selected Readings in the Philosophy of Perception*, Cambridge, Mass.: MIT Press, 2002.
+* Baker, L.R., 1993, “Metaphysics and mental causation,” in J. Heil and A. Mele (eds.), *Mental Causation*, Oxford: Clarendon Press.
+* Bayne, T., and Montague, M. (eds.), 2011, *Cognitive Phenomenology*, Oxford and New York: Oxford University Press.
+* Bell, D., 1990, *Husserl*, London: Routledge and Kegan Paul.
+* Block, N., 1995, “On a confusion about a function of consciousness,” in N. Block, O. Flanagan, and G. Güzeldere (eds.), *The Nature of Consciousness*, Cambridge, Mass.: MIT Press.
+* –––, 1996, “Mental Paint and Mental Latex,” in E. Villenueva, (ed.) *Philosophical Issues 7*, Northridge: Ridgeview Publishing Company.
+* –––, 2007, “Consciousness, accessibility, and the mesh between psychology and neuroscience”, *Behavioral and Brain Sciences*, 30: 481–538.
+* Brentano, F., 1874 \[1911, 1973, 1995], *Psychology from an Empirical Standpoint*, London: Routledge and Kegan Paul.
+* Burge, T., 1977, “Belief *de re*,” *Journal of Philosophy*, 74: 338–62.
+* –––, 1979, “Individualism and the mental,” reprinted in D. Chalmers (ed.), *Philosophy of Mind, Classical and Contemporary Readings*, Oxford: Oxford University Press, 2002.
+* –––, 1982, “Other bodies,” in A. Woodfield, (ed.), *Thought and Object*, Oxford: Oxford University Press.
+* –––, 1986, “Individualism and psychology,” *Philosophical Review*, 95: 3–46.
+* –––, 1993, “Mind-Body causation and explanatory practice,” in J. Heil and A. Mele (eds.), *Mental Causation*, Oxford: Clarendon Press.
+* –––, 2010, *Origins of Objectivity*, Oxford: Oxford University Press.
+* Carnap, R., 1947, *Meaning and Necessity*, Chicago: Chicago University Press.
+* Chalmers, D., 1996, *The Conscious Mind*, Oxford: Oxford University Press.
+* ––– (ed.), 2002, *Philosophy of Mind, Classical and Contemporary Readings*, Oxford: Oxford University Press.
+* Chisholm, R. M., 1956, *Perceiving: a Philosophical Study*, reprinted in D. Rosenthal (ed.), *The Nature of Mind*, Oxford: Oxford University Press, 1990.
+* Chomsky, N., 2000, *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press.
+* Church, A., 1956, *Introduction to Mathematical Logic* (Volume 1), Princeton, N.J.: Princeton University Press.
+* Churchland, P.M., 1989, *A Neurocomputational Perspective, The Nature of Mind and the Structure of Science*, Cambridge, Mass.: MIT Press.
+* Clark, A. and Chalmers, D., 1998, “The extended mind,” *Analysis*, 58 (1): 7–19.
+* Clark, A., 2008, *Supersizing the Mind, Embodiment, Action, and Cognitive Extension*, Oxford: Oxford University Press.
+* Crane, T. (ed.), 1992, *The Contents of Experience, Essays on Perception*, Cambridge: Cambridge University Press.
+* –––, 1998, “Intentionality as the mark of the mental,” in A. O’Hear (ed.), *Contemporary Issues in the Philosophy of Mind*, Cambridge: Cambridge University Press.
+* –––, 2003, *Elements of Mind, an Introduction to the Philosophy of Mind*, Oxford: Oxford University Press.
+* –––, 2007, “Intentionalism,” in A. Beckermann and P. McLaughlin (eds.), *Oxford Handbook to the Philosophy of Mind*, Oxford: Oxford University Press.
+* –––, 2013, *The Objects of Thought*, Oxford: Oxford University Press.
+* Davidson, D., 1980, *Essays on Events and Actions*, Oxford: Clarendon Press.
+* Dehaene, S., 2014, *Consciousness and the Brain*, New York: Penguin.
+* Dehaene, S., Changeux, J.-P., Naccache, L., Sackur, J. and Sergent, C., 2006, “Conscious, preconscious, and subliminal processing: a testable taxonomy,” *Trends in Cognitive Sciences*, 10: 204–211.
+* Dennett, D.C., 1969, *Content and Consciousness*, London: Routledge and Kean Paul.
+* –––, 1978, *Brainstorms, Philosophical Essays on Mind and Psychology*, Montgomery, VT: Bradford Books.
+* –––, 1987, *The Intentional Stance*, Cambridge, Mass.: MIT Press.
+* –––, 1988, “Quining qualia,” in D. Chalmers (ed.), *Philosophy of Mind, Classical and Contemporary Readings*, Oxford: Oxford University Press, 2002.
+* –––, 1991, *Consciousness Explained*, Boston: Little Brown.
+* –––, 1996, *Kinds of Mind*, New York: Norton.
+* –––, 2005, *Sweet Dreams: Philosophical Obstacles to a Science of Consciousness*, Cambridge, Mass.: MIT Press.
+* –––, 2017, *From Bacteria to Bach and Back Again*, New York: Basic Books.
+* Dretske, F., 1969, *Seeing and Knowing*, London: Routledge and Kegan Paul.
+* –––, 1980, “The intentionality of cognitive states,” in D. Rosenthal (ed.), *The Nature of Mind*, Oxford: Oxford University Press, 1990.
+* –––, 1981, *Knowledge and the Flow of Information*, Cambridge, Mass.: MIT Press.
+* –––, 1988, *Explaining Behavior*, Cambridge, Mass.: MIT Press.
+* –––, 1995, *Naturalizing the Mind*, Cambridge, Mass.: MIT Press.
+* –––, 2004, “Change blindness,” *Philosophical Studies*, 120: 1–18.
+* –––, 2007, “What change blindness teaches about consciousness,” *Philosophical Perspectives*, 21 (1): 215–220.
+* Dreyfus, H.L. (ed.), 1982, *Husserl, Intentionality and Cognitive Science*, Cambridge, Mass.: MIT Press.
+* Dummett, M., 1973, *Frege: Philosophy of Language*, New York: Harper and Row.
+* –––, 1991, “Frege and Husserl on reference,” in M. Dummett *The Seas of Language*, Oxford: Oxford University Press, 1993.
+* Evans, G., 1982, *The Varieties of Reference*, Oxford: The Clarendon Press.
+* Field, H., 1978, “Mental representation,” in N. Block, (ed.), *Readings in the Philosophy of Psychology*, Cambridge, Mass.: Harvard University Press, 1990.
+* Fodor, J.A., 1981, “Methodological solipsism considered as a research strategy in cognitive psychology,” in D. Rosenthal (ed.), *The Nature of Mind*, Oxford: Oxford University Press, 1990.
+* –––, 1975, *The Language of Thought*, New York: Crowell.
+* –––, 1987, *Psychosemantics*, Cambridge, Mass.: MIT Press.
+* –––, 1994, *The Elm and the Expert*, Cambridge, Mass.: MIT Press.
+* –––, 1998, *Concepts: Where Cognitive Science Went Wrong*, New York: Oxford University Press.
+* –––, 2008, *LOT2: The Language of Thought Revisited*, Oxford: Oxford University Press.
+* Føllesdal, D., 1982a, “Brentano and Husserl on intentional objects,” in H.L. Dreyfus (ed.), *The Nature of Mind*, Oxford: Oxford University Press.
+* –––, 1982b, “Husserl’s notion of *Noema*,” in H.L. Dreyfus (ed.), *The Nature of Mind*, Oxford: Oxford University Press.
+* Frege, G., 1892 \[1952], “On sense and reference,” in P. Geach and M. Black (eds.), *Philosophical Writings of Gottlob Frege*, Oxford: Blackwell, 1952.
+* Grice, P., 1957, “Meaning,” reprinted in P. Grice, *Studies in the Way of Words*, Cambridge, Mass.: Harvard University, 1989.
+* Guttenplan, S. (ed.), 1994, *A Companion Volume to the Philosophy of Mind*, Oxford: Blackwell.
+* Haugeland, J., 1981, “Semantic Engines: an Introduction to Mind Design,” in J. Haugeland (ed.), *Mind Design, philosophy, Psychology, Artificial Intelligence*, Cambridge, Mass.: MIT Press, 1981.
+* –––, 1995, “Mind embodied and embedded,” reprinted in J. Haugeland, J. *Having Thought: Essays in the Metaphysics of Mind*, Cambridge, MA: Harvard University Press, 1998.
+* Husserl, E. 1900 \[1970], *Logical Investigations* (English translation by J.N. Findlay), London: Routledge and Kegan Paul.
+* –––, 1913, *Ideen zu einer Phänomenologie und phänomenologischen Philosophie*, Halle: Niemeyer.
+* Jacob, P., 1997, *What Minds Can Do*, Cambridge: Cambridge University Press.
+* Jeshion, R. (ed.), 2010, *New Essays on Singular Thought*, Oxford: Oxford University Press.
+* Kaplan, D., 1978, “Dthat,” in P. French, T. Uehling, and H. Wettstein (eds.), *Contemporary Perspectives in the Philosophy of Language*, Minneapolis: University of Minnesota Press, 1979.
+* –––, 1989, “Demonstratives,” in J. Almog, H. Wettstein, and J. Perry (eds.), *Themes from Kaplan*, Oxford: Oxford University Press.
+* Kim, J., 1993, *Mind and Supervenience*, Cambridge: Cambridge University Press.
+* –––, 1998, *Mind in a Physical World*, Cambridge, Mass.: MIT Press.
+* Kingsbury, J., Ryder, D. and Williford, K. (eds.), 2011, *Millikan and Her Critics*, Oxford: Blackwell.
+* Kistler, M., 2000, “Source and channel in the informational theory of mental content,” *Facta philosophica*, 2 (2): 213–235.
+* Kripke, S. 1972 \[1980], *Naming and Necessity*, Oxford: Blackwell.
+* –––, 1979, “A puzzle about belief,” in A. Margalit (ed.), *Meaning and Use*, Dordrecht: Reidel, 1979.
+* –––, 1982, *Wittgenstein on Rules and Private Language*, Oxford: Blackwell.
+* Loewer, B., 1987, “From information to intentionality,” *Synthese*, 70: 287–317.
+* –––, 1997, “A guide to naturalizing semantics”, in B. Hale and C. Wright (eds.), *A Companion Volume to the Philosophy of Language*, Oxford: Blackwell, 1997.
+* MacDonald, G. and Papineau, D. (eds.), 2006, *Teleosemantics: New Philosophical Essays*, Oxford: Oxford University Press.
+* Mally, E., 1912, *Gegenstandtheoretische Grundlagen der Logik und Logistik*, Leipzig: Barth.
+* McDowell, J., 1984, “*De re* sense,” in C. Wright (ed.), *Frege, Tradition & Influence*, Oxford: Blackwell.
+* –––, 1994, *Mind and World*, Cambridge, Mass.: Harvard University Press.
+* McGinn, C., 1989, *Mental Content*, Oxford: Oxford University Press.
+* –––, 1990, *Problems of Consciousness*, Oxford: Blackwell.
+* Meinong, A., 1904, “Über Gegenstandtheorie” (English translation: “The theory of objects”), in R. Chisholm (ed.), *Realism and the Background of Phenomenology*, Glencoe: The Free Press, 1960.
+* Mill, J.S., 1884, *A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation*, New York: Harper.
+* Millikan, R.G., 1984, *Language, Thought and Other Biological Objects*, Cambridge, Mass.: MIT Press.
+* –––, 1993, *White Queen Psychology and Other Essays*, Cambridge, Mass.: MIT Press.
+* –––, 2000, *On Clear and Confused Ideas*, Cambridge: Cambridge University Press.
+* –––, 2004, *Varieties of Meaning: the 2002 Jean-Nicod Lectures*, Cambridge, Mass.: MIT Press.
+* –––, 2005, *Language*\*: a Biological Model\*, Oxford: Oxford University Press.
+* –––, 2017, *Beyond Concepts: Unicepts, Language, and Natural Information*, Oxford: Oxford University Press.
+* Naccache, L. and Dehaene, S., 2007, “Reportability and illusions of phenomenality in the light of the global neuronal workspace model”, *Behavioral and Brain Sciences*, 30: 518–520.
+* Neander, K., 1995, “Misrepresenting and malfunctioning,” *Philosophical Studies*, 79: 109–41.
+* –––, 2017, *A Mark of the Mental*, Cambridge, Mass.: MIT Press.
+* Parsons, T., 1980, *Nonexistent Objects*, New Haven: Yale University Press.
+* Peacocke, C., 1983, *Sense and Content: Experience, Thought and their Relations*, Oxford: Oxford University Press.
+* –––, 1992, *A Study of Concepts*, Cambridge, Mass.: MIT Press.
+* –––, 2001, “Does perception have nonconceptual content?” *The Journal of Philosophy*, 98: 239–64.
+* Perry, J., 1993, *The Essential Indexical and Other Essays*, Oxford: Oxford University Press.
+* –––, 1994, “Intentionality (2),” in S. Guttenplan, (ed.), *A Companion Volume to the Philosophy of Mind*, Oxford: Blackwell, 1994.
+* Premack, D.G. and Woodruff, G., 1978, “Does the chimpanzee have a theory of mind?” *Behavioral and Brain Sciences*, 1: 515–526.
+* Putnam, H., 1974, “The meaning of ‘meaning’,” in H. Putnam, *Philosophical Papers*, vol. II, *Language, Mind and Reality*, Cambridge: Cambridge University Press, 1975.
+* –––, 1986, “Information and the mental,” in E. LePore (ed.), *Truth and Interpretation, Perspectives on the Philosophy of Donald Davidson*, Oxford: Blackwell, 1986.
+* –––, 1988, *Representation and Reality*, Cambridge, Mass.: MIT Press.
+* –––, 1994, *Renewing Philosophy*, Cambridge, Mass.: Harvard University Press.
+* Quine, W.V.O., 1948, “On what there is,” reprinted in W.V.O. Quine, *From a Logical Point of View*, Cambridge, Mass.: Harvard University Press, 1953.
+* –––, 1960, *Word and Object*, Cambridge, Mass.: MIT Press.
+* Recanati, F., 2010, “Singular thought: In defence of acquaintance,” in R. Jeshion (ed.), *New Essays on Singular Thought*, Oxford: Oxford University Press.
+* Richard, M., 1990, *Propositional Attitudes*, Cambridge: Cambridge University Press.
+* Rorty, R., 1979, *Philosophy and the Mirror of Nature*, Oxford: Blackwell.
+* Rosenthal, D., 1986, “Two concepts of consciousness,” in D. Rosenthal (ed.), *The Nature of Mind*, Oxford: Oxford University Press, 1990.
+* ––– (ed.), 1990, *The Nature of Mind*, Oxford: Oxford University Press.
+* –––, 2005, *Consciousness and Mind*, Oxford: Oxford University Press.
+* Rowlands, M., 1999, *The Body in Mind*, Cambridge: Cambridge University Press.
+* Russell, B., 1903 \[1964], *The Principles of Mathematics*, London: George Allen and Unwin.
+* –––, 1905 \[1956], “On denoting,” in R. Marsh (ed.), *Bertrand Russell, Logic and Knowledge, Essays 1901–1950*, New York: Capricorn Books, 1956.
+* –––, 1911, *The Problems of Philosophy*,
+* –––, 1919, *Introduction to Mathematical Philosophy*, London: Allen and Unwin.
+* Salmon, N., 1986, *Frege’s Puzzle*, Cambridge, Mass.: MIT Press.
+* Searle, J., 1980, “Minds, brains and programs,” *The Behavioral and Brain Sciences*, 3 (3): 417–24.
+* –––, 1983, *Intentionality*, Cambridge: Cambridge University Press.
+* –––, 1992, *The Rediscovery of the Mind*, Cambridge, Mass.: MIT Press.
+* –––, 1994, “Intentionality (1),” in S. Guttenplan (ed.), *A Companion Volume to the Philosophy of Mind*, Oxford: Blackwell.
+* Shea, N., 2018, *Representation in Cognitive Science*, Oxford: Oxford University Press.
+* Shoemaker, S., 1996, *The First-Person Perspective and Other Essays*, Cambridge: Cambridge University Press.
+* Siewert, C., 1998, *The Significance of Consciousness*, Princeton: Princeton University Press.
+* Smith, B., 1994, *Austrian Philosophy, the Legacy of Franz Brentano*, Chicago and La Salle, Ill.: Open Court. \[[Preprint available online](http://ontology.buffalo.edu/smith/book/austrian\philosophy/)]
+* Stich, S., 1983, *From Folk Psychology to Cognitive Science, the Case Against Belief*, Cambridge, Mass.: MIT Press.
+* Strawson, G., 1994, *Mental Reality*, Cambridge, Mass.: MIT Press.
+* Tye, M., 1995, *Ten Problems of Consciousness*, Cambridge, Mass.: MIT Press.
+* Zalta, E.N., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, Mass.: MIT Press.
 
 ## Academic Tools
 
@@ -422,4 +421,4 @@ Chisholm（1957）和 Quine（1960）的共同遗产是意向性的语言观（�
 Thanks to David Chalmers, Steven Davis and Edward N. Zalta for penetrating comments.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Pierre Jacob](http://www.institutnicod.org/membres/membres-permanents/jacob-pierre/?lang=en) <[_jacobpiotr11@gmail.com_](mailto:jacobpiotr11%40gmail%2ecom)>
+[Pierre Jacob](http://www.institutnicod.org/membres/membres-permanents/jacob-pierre/?lang=en) <[*jacobpiotr11@gmail.com*](mailto:jacobpiotr11%40gmail%2ecom)>

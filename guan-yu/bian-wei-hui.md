@@ -1,7 +1,7 @@
 # 编委会
 
-
 ## 执行编辑
+
 |||
 | :---: | :---: |
 | 联合主编| [Edward N. Zalta](https://mally.stanford.edu//zalta.html)（斯坦福大学） <br>[Uri Nodelman](http://ai.stanford.edu/~nodelman/)（斯坦福大学） |
@@ -30,7 +30,7 @@
 |伦理学||
 | :---: | :---: |
 | 规范道德| [Holly Smith](http://philosophy.rutgers.edu/people/faculty/629-smith-holly)（罗格斯大学）<br>[Mark Timmons](http://timmons.faculty.arizona.edu/)（亚利桑那大学）<br>[Sarah Stroud](https://philosophy.unc.edu/people/sarah-stroud/)（北卡罗来纳大学）<br>[Thomas Hurka](https://thomashurka.com/)（多伦多大学） |
-| 道德心理学| [Walter Sinnott-Armstrong ](http://sites.duke.edu/wsa/)（杜克大学） |
+| 道德心理学| [Walter Sinnott-Armstrong](http://sites.duke.edu/wsa/)（杜克大学） |
 | 伦理史| [斯蒂芬·达沃尔](http://www-personal.umich.edu/~sdarwall/)（耶鲁大学） |
 | 元伦理学| [Sigrún Svavarsdóttir](http://ase.tufts.edu/philosophy/faculty/svavarsdottir.asp)（塔夫茨大学）<br>[Matthew Chrisman](https://www.ed.ac.uk/profile/matthew-chrisman)（爱丁堡大学）<br>[James Dreier](https://philosophy.brown.edu/people/jamie-dreier)（布朗大学）<br>[Sarah McGrath](https://sites.google.com/view/smcgrath/home)（普林斯顿大学） |
 
@@ -74,4 +74,4 @@
 | 17世纪哲学| [Alan Nelson](http://philosophy.unc.edu/people/faculty/alan-nelson/)（北卡罗来纳大学教堂山分校）<br>[Michael Della Rocca](http://www.yale.edu/philos/people/rocca_michael.html)（耶鲁大学）<br>[Karolina Hübner](http://karolinahubner.org/)（康奈尔大学）<br>[Jeffrey K. McDonough](https://philosophy.fas.harvard.edu/people/jeffrey-mcdonough)（哈佛大学） |
 | 18世纪哲学| [Lisa Downing](https://philosophy.osu.edu/people/downing.110)（俄亥俄州立大学）<br>[Douglas Jesseph](http://philosophy.usf.edu/faculty/djesseph/)（南佛罗里达大学）<br>[Antonia LoLordo](https://philosophy.virginia.edu/faculty/profile/al4h)（弗吉尼亚大学）<br>[Andrew Janiak](https://scholars.duke.edu/person/janiak)（杜克大学） |
 | 19世纪哲学| [Allen Wood](http://www.stanford.edu/~allenw/)（斯坦福大学）<br>[Kristin Gjesdal](https://sites.temple.edu/kristingjesdal/)（天普大学）<br>[William Mander](http://www.philosophy.ox.ac.uk/people/william-mander)（牛津大学） |
-| 20世纪哲学| [Juliet Floyd](http://www.bu.edu/philo/people/faculty/full-time/juliet-floyd/) (波士顿大学)<br>[Sara Heinämaa](https://www.jyu.fi/hytk/fi/laitokset/yfi/en/staff/heinamaa-sara/2022heinamaacv2017.pdf) (于韦斯屈莱大学)<br>[Axel Honneth](http://philosophy.columbia.edu/directories/faculty/axel-honneth) (哥伦比亚大学)<br>[Fred Kroon ](http://artsfaculty.auckland.ac.nz/staff/?UPI=fkro002)(奥克兰大学)<br>[Leonard Lawlor](https://philosophy.la.psu.edu/people/lul19) (宾夕法尼亚州立大学)<br>[David Sosa](http://www.utexas.edu/cola/philosophy/faculty/profile.php?id=jadems) (德克萨斯大学奥斯汀分校)<br>[Dan Zahavi](https://cfs.ku.dk/staff/?pure=en/persons/34520) (哥本哈根大学)<br>[Hans -Johann Glock](https://www.philosophie.uzh.ch/en/seminar/people/research/theory_glock/glock.html)（苏黎世大学）<br>[Cheryl Misak](https://www.cherylmisak.com/)（多伦多大学）<br>[Nicolas de Warren](https://philosophy.la.psu.edu/people/nicolas-de-warren/)（宾夕法尼亚州立大学） |
+| 20世纪哲学| [Juliet Floyd](http://www.bu.edu/philo/people/faculty/full-time/juliet-floyd/) (波士顿大学)<br>[Sara Heinämaa](https://www.jyu.fi/hytk/fi/laitokset/yfi/en/staff/heinamaa-sara/2022heinamaacv2017.pdf) (于韦斯屈莱大学)<br>[Axel Honneth](http://philosophy.columbia.edu/directories/faculty/axel-honneth) (哥伦比亚大学)<br>[Fred Kroon](http://artsfaculty.auckland.ac.nz/staff/?UPI=fkro002)(奥克兰大学)<br>[Leonard Lawlor](https://philosophy.la.psu.edu/people/lul19) (宾夕法尼亚州立大学)<br>[David Sosa](http://www.utexas.edu/cola/philosophy/faculty/profile.php?id=jadems) (德克萨斯大学奥斯汀分校)<br>[Dan Zahavi](https://cfs.ku.dk/staff/?pure=en/persons/34520) (哥本哈根大学)<br>[Hans -Johann Glock](https://www.philosophie.uzh.ch/en/seminar/people/research/theory_glock/glock.html)（苏黎世大学）<br>[Cheryl Misak](https://www.cherylmisak.com/)（多伦多大学）<br>[Nicolas de Warren](https://philosophy.la.psu.edu/people/nicolas-de-warren/)（宾夕法尼亚州立大学） |

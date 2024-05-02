@@ -1,9 +1,8 @@
 # 情色艺术 erotic (Hans Maes)
 
-_首次发表于 2014 年 8 月 20 日，实质修订于 2023 年 2 月 7 日_
+*首次发表于 2014 年 8 月 20 日，实质修订于 2023 年 2 月 7 日*
 
 什么是情色艺术？所有具有性主题的绘画都可以被归类为情色艺术吗？如何区分情色艺术和色情艺术？美学体验与情色体验有何关联或区别，它们是否兼容？人和艺术作品都可以具有感官吸引力，但在每种情况下的美是否实质上相同？区分裸体和裸露有多大帮助？我们能够在情色艺术和色情作品之间划定明确的界限吗？我们倾向于将艺术视为复杂的，将色情作品视为单一的，但这种区分有多具有说服力？色情作品常常被认为是有害的、物化的和剥削性的，但情色艺术在道德批评方面有多少免疫力？在回答这些问题时，本文将概述当前关于情色艺术的哲学辩论。它还将把这些辩论放置在历史背景下，并在结尾部分探讨一些重要的未来研究方向。
-
 
 ***
 
@@ -79,11 +78,11 @@ Levinson（2005）在情色艺术和他所称的“情色艺术品”之间做�
 
 > 在历史绘画和雕塑中，它包括裸体人物，其姿势、半遮盖和整体处理都旨在激发观者的情欲感。（1969 \[1818]: 207–8）
 
-值得注意的是，他并不反对描绘裸体人物本身 - 毕竟，“古人”几乎总是“没有...错误”（_同上_）。他反对的是对裸体的特定处理方式，这种处理方式旨在激发观者的情欲感。换句话说，他所指责和谴责的是情色艺术。像肖夫斯伯里和康德一样，他倾向于与食物进行比较。水果作为绘画的主题是可以接受的。
+值得注意的是，他并不反对描绘裸体人物本身 - 毕竟，“古人”几乎总是“没有...错误”（*同上*）。他反对的是对裸体的特定处理方式，这种处理方式旨在激发观者的情欲感。换句话说，他所指责和谴责的是情色艺术。像肖夫斯伯里和康德一样，他倾向于与食物进行比较。水果作为绘画的主题是可以接受的。
 
-因为它展示了自己作为花朵的进一步发展，以及作为自然的美丽产物，通过形式和色彩，而不需要我们被迫思考它的可食性。（_同上_：207-8）
+因为它展示了自己作为花朵的进一步发展，以及作为自然的美丽产物，通过形式和色彩，而不需要我们被迫思考它的可食性。（*同上*：207-8）
 
-但是不可接受的是准备和上菜的菜肴，以高度逼真的方式描绘出来。荷兰静物画描绘的牡蛎、鲱鱼、螃蟹、面包、黄油、啤酒、葡萄酒，会引起食欲，并且出于与情色画和雕塑相同的原因，即刺激性欲，它们是令人反感的：它们刺激意志，从而终结了对对象的审美思考。鉴于艺术的功能是促进审美体验，因此对于叔本华来说，“在艺术中，刺激是无处不在的，应该避免”（_同上_：208；参见尼尔 2012 年）。
+但是不可接受的是准备和上菜的菜肴，以高度逼真的方式描绘出来。荷兰静物画描绘的牡蛎、鲱鱼、螃蟹、面包、黄油、啤酒、葡萄酒，会引起食欲，并且出于与情色画和雕塑相同的原因，即刺激性欲，它们是令人反感的：它们刺激意志，从而终结了对对象的审美思考。鉴于艺术的功能是促进审美体验，因此对于叔本华来说，“在艺术中，刺激是无处不在的，应该避免”（*同上*：208；参见尼尔 2012 年）。
 
 ### 2.2 现代美学的遗产
 
@@ -215,13 +214,13 @@ Levinson（2005）在情色艺术和他所称的“情色艺术品”之间做�
 
 > 男人和女人像机器一样结合。对他们来说，爱只是表皮的刺痛，液体的涌动，颗粒通过纤维的冲击，没有其他更多的东西。（《哲学家特蕾兹》摘自 Leemans 2002: 257）
 
-（2）_正式和结构简洁？_ 启蒙时代的色情作品也用来解决另一个误解。有人认为，因为色情作品的主要目的是引起观众的性欲，他们被迫包含尽可能多的性暗示场景，几乎没有空间来发展情节或形式上的复杂性（Steiner 1975）。色情作家“只是编造了一个粗糙的开头借口；一旦开始，就会一直进行下去，最后却没有结束”（Sontag 1994: 39）。正如阿多诺已经指出的那样，色情作品缺乏文学作品所特有的开始-中间-结束的形式（Sontag 1994: 39）。然而，这远非是区分情色文学和色情作品的确凿标准。例如，学者们经常注意到色情小说《Histoire de Dom B… Portier des Chartreux》（1741）的结构复杂性，其中包含了嵌入式故事和多样的叙述者（Frappier-Mazur 1996: 211）。而《Thérèse》的精心构思，作者将各个部分安排得最大程度地折射出性欲，无论读者转向哪里，似乎都能看到激情四溢的性爱，这提供了另一个反例（Darnton 1995）。
+（2）*正式和结构简洁？* 启蒙时代的色情作品也用来解决另一个误解。有人认为，因为色情作品的主要目的是引起观众的性欲，他们被迫包含尽可能多的性暗示场景，几乎没有空间来发展情节或形式上的复杂性（Steiner 1975）。色情作家“只是编造了一个粗糙的开头借口；一旦开始，就会一直进行下去，最后却没有结束”（Sontag 1994: 39）。正如阿多诺已经指出的那样，色情作品缺乏文学作品所特有的开始-中间-结束的形式（Sontag 1994: 39）。然而，这远非是区分情色文学和色情作品的确凿标准。例如，学者们经常注意到色情小说《Histoire de Dom B… Portier des Chartreux》（1741）的结构复杂性，其中包含了嵌入式故事和多样的叙述者（Frappier-Mazur 1996: 211）。而《Thérèse》的精心构思，作者将各个部分安排得最大程度地折射出性欲，无论读者转向哪里，似乎都能看到激情四溢的性爱，这提供了另一个反例（Darnton 1995）。
 
-（3）_对观众的影响是单一维度的吗？_ 可以认为性唤起是一种如此强大的身体状态，以至于它必须排除所有其他功能，尤其是我们的认知能力。莱文森声称，这正是区分性唤起和性刺激的关键所在，他认为性刺激与审美欣赏所需的认知活动并不矛盾（2005: 232）。其他哲学家对这一有争议的区分提出了质疑（Blackburn 2006: 52; Maes 2012）。此外，即使接受性唤起类似动物的本质，也并不意味着它不能在认知上有回报并且在艺术上合适。正如对 Cleland 的《Fanny Hill》的评论者所指出的：
+（3）*对观众的影响是单一维度的吗？* 可以认为性唤起是一种如此强大的身体状态，以至于它必须排除所有其他功能，尤其是我们的认知能力。莱文森声称，这正是区分性唤起和性刺激的关键所在，他认为性刺激与审美欣赏所需的认知活动并不矛盾（2005: 232）。其他哲学家对这一有争议的区分提出了质疑（Blackburn 2006: 52; Maes 2012）。此外，即使接受性唤起类似动物的本质，也并不意味着它不能在认知上有回报并且在艺术上合适。正如对 Cleland 的《Fanny Hill》的评论者所指出的：
 
 阅读《范妮·希尔》中的一场景所引发的刺激在读者自身的本性中得到了论述。读者可能会被感动，重新评估禁欲主义的优点，重新评估思维控制身体的能力，重新阅读笛卡尔的著作，并再次思考思维和兽机之间的界限。（Braudy 1991: 85）
 
-（4）_简单解释吗？_ 虽然在涉及情色艺术作品时经常会出现解释问题，但人们对色情作品很少有解释上的疑虑。实际上，如果解释通常试图解释作品中对目标受众来说不太明显的元素（Carroll 2009），那么在色情作品的情况下似乎没有解释的必要，因为很明显为什么这些电影或小说会一个接一个地包含性爱场景。然而，这里也很重要的是不要草率下结论。可以从（至少）两种不同类型的解释项目中选择，每种类型都有一套自己的主要问题。“作品是关于什么的？”是一个问题。另一个问题是“作品揭示了作者或制作它的时代、地点、文化、社会的什么？”虽然前者是艺术批评学的核心问题，但后者的问题通常是文化历史学家、社会学家、精神分析学家提供的解释的起点。就色情作品而言，这些后者的解释将是一切但简单的，因为色情景观的复杂性令人难以置信，其中包括大量的禁忌、身体类型、性行为以及其他能引起人们兴奋的事物。正如劳拉·基普尼斯所说，色情作品为我们提供了“文化心理的王道”（2006: 118），因此可以成为解释的宝库。另一个问题——作品是关于什么的？——似乎不太相关，特别是与色情网站上找到的公式化和重复的视频剪辑相关的情况。然而，还有其他类型的色情作品，其中关于意义和“关于性质”的问题似乎非常相关，例如上面提到的哲学色情作品以及将在下一节中讨论的女权主义色情作品。
+（4）*简单解释吗？* 虽然在涉及情色艺术作品时经常会出现解释问题，但人们对色情作品很少有解释上的疑虑。实际上，如果解释通常试图解释作品中对目标受众来说不太明显的元素（Carroll 2009），那么在色情作品的情况下似乎没有解释的必要，因为很明显为什么这些电影或小说会一个接一个地包含性爱场景。然而，这里也很重要的是不要草率下结论。可以从（至少）两种不同类型的解释项目中选择，每种类型都有一套自己的主要问题。“作品是关于什么的？”是一个问题。另一个问题是“作品揭示了作者或制作它的时代、地点、文化、社会的什么？”虽然前者是艺术批评学的核心问题，但后者的问题通常是文化历史学家、社会学家、精神分析学家提供的解释的起点。就色情作品而言，这些后者的解释将是一切但简单的，因为色情景观的复杂性令人难以置信，其中包括大量的禁忌、身体类型、性行为以及其他能引起人们兴奋的事物。正如劳拉·基普尼斯所说，色情作品为我们提供了“文化心理的王道”（2006: 118），因此可以成为解释的宝库。另一个问题——作品是关于什么的？——似乎不太相关，特别是与色情网站上找到的公式化和重复的视频剪辑相关的情况。然而，还有其他类型的色情作品，其中关于意义和“关于性质”的问题似乎非常相关，例如上面提到的哲学色情作品以及将在下一节中讨论的女权主义色情作品。
 
 在结束时，值得一提的是 Eaton（2018）最近提出的一个论点，该论点基于对 16 世纪意大利情色图像功能的艺术历史考虑。Eaton 认为，情色艺术/色情之间的区别的根源——至少在那个特定的背景下——是阶级。在印刷文化开始威胁精英特权的同时，对一类特殊的非法图像的需求出现了。Eaton 认为，使情色表现超越可接受的界限的不是其极端的淫乱性，而是其广泛的可获得性，从而对维持阶级特权的机制之一构成威胁。
 
@@ -277,162 +276,162 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 
 ## Bibliography
 
-* Ahmad, Adil Mustafa, 1994, “The Erotic and the Pornographic in Arab Culture”, _British Journal of Aesthetics_, 34: 278–284.
-* Aki, Ishigami, 2013, “The Reception of Shunga in the Modern Era: From Meiji to the Pre-WWII Years”, _Japan Review_, 26: 37–55.
-* Bataille, Georges, 1985, _Visions of Excess: Selected Writings 1927–1939_, Allan Stoekl (ed. and trans.), Minneapolis: University of Minnesota Press.
-* –––, 1986, _Erotism: Death and Sensuality_, San Francisco: City Lights Books.
-* Beardsley, Monroe C., 1982, “Redefining Art”, in Michael J. Wreen & Donald M. Callen (eds.), _The Aesthetic Point of View_, Ithaca: Cornell University Press.
-* Bell, Clive, 1961 \[1914], _Art_, London: Grey Arrow.
-* Benovsky, Jiri, 2021, “Erotic Art as Proprioceptive Art”, _The British Journal of Aesthetics_, 61: 247–258.
-* Berger, John, 1972, _Ways of Seeing_, London: Penguin.
-* Blackburn, Simon, 2006, _Lust_, Oxford: Oxford University Press.
-* Braudy, Leo, 1991, _Native Informant: Essays on Film, Fiction, and Popular Culture_, Oxford: Oxford University Press.
-* Brown, Curtis, 2002, “Art, Oppression, and the Autonomy of Aesthetics”, in Alex Neill & Aaron Ridley (eds.), _Arguing About Art: Contemporary Philosophical Debates_, London: Routledge.
+* Ahmad, Adil Mustafa, 1994, “The Erotic and the Pornographic in Arab Culture”, *British Journal of Aesthetics*, 34: 278–284.
+* Aki, Ishigami, 2013, “The Reception of Shunga in the Modern Era: From Meiji to the Pre-WWII Years”, *Japan Review*, 26: 37–55.
+* Bataille, Georges, 1985, *Visions of Excess: Selected Writings 1927–1939*, Allan Stoekl (ed. and trans.), Minneapolis: University of Minnesota Press.
+* –––, 1986, *Erotism: Death and Sensuality*, San Francisco: City Lights Books.
+* Beardsley, Monroe C., 1982, “Redefining Art”, in Michael J. Wreen & Donald M. Callen (eds.), *The Aesthetic Point of View*, Ithaca: Cornell University Press.
+* Bell, Clive, 1961 \[1914], *Art*, London: Grey Arrow.
+* Benovsky, Jiri, 2021, “Erotic Art as Proprioceptive Art”, *The British Journal of Aesthetics*, 61: 247–258.
+* Berger, John, 1972, *Ways of Seeing*, London: Penguin.
+* Blackburn, Simon, 2006, *Lust*, Oxford: Oxford University Press.
+* Braudy, Leo, 1991, *Native Informant: Essays on Film, Fiction, and Popular Culture*, Oxford: Oxford University Press.
+* Brown, Curtis, 2002, “Art, Oppression, and the Autonomy of Aesthetics”, in Alex Neill & Aaron Ridley (eds.), *Arguing About Art: Contemporary Philosophical Debates*, London: Routledge.
 * Bullough, Edward, 1969, “Psychical Distance”, in F. Tillman & S.M. Cahn (eds.), New York: Harper & Row.
 * Cahill, Ann J., 2016, “Sexual Desire, Inequality, and the Possibility of Transformation”, in Irvin (ed.) 2016, 281–298.
-* Carroll, Noël, 2009, _On Criticism_, New York: Routledge.
-* Cembalest, Robin (ed.), 1989, “What is Pornography?” _Art News_, October Issue.
-* Clark, Kenneth, 1956, _The Nude: A Study in Ideal Beauty_, London: John Murray.
-* Collingwood, R.G., 1938, _The Principles of Art_, Oxford: Clarendon.
+* Carroll, Noël, 2009, *On Criticism*, New York: Routledge.
+* Cembalest, Robin (ed.), 1989, “What is Pornography?” *Art News*, October Issue.
+* Clark, Kenneth, 1956, *The Nude: A Study in Ideal Beauty*, London: John Murray.
+* Collingwood, R.G., 1938, *The Principles of Art*, Oxford: Clarendon.
 * Cooke, Brandon, 2012, “On the Ethical Distinction Between Art and Pornography”, in Maes & Levinson 2012.
-* Danto, Arthur C., 1995, _Playing with the Edge. The Photographic Achievement of Robert Mapplethorpe_, Berkeley: University of California Press.
-* –––, 2000, _The Madonna of the Future. Essays in a Pluralistic Art World_, Berkeley: University of California Press.
+* Danto, Arthur C., 1995, *Playing with the Edge. The Photographic Achievement of Robert Mapplethorpe*, Berkeley: University of California Press.
+* –––, 2000, *The Madonna of the Future. Essays in a Pluralistic Art World*, Berkeley: University of California Press.
 * Davidson, Maria del Guadalupe, 2016, “Black Silhouettes on White Walls: Kara Walker’s Magic Lantern”, in Irvin (ed.) 2016, 15–36.
 * Davies, David, 2012, “Pornography, Art, and the Intended Response of the Receiver”, in Maes & Levinson 2012.
-* Darnton, Robert, 1995, _The Forbidden Best-Sellers of Pre-Revolutionary France_, New York: W.W. Norton & Company.
-* Dutton, Denis, 2009, _The Art Instinct_, New York: Oxford University Press.
-* Dwyer, Susan (ed.), 1995, _The Problem of Pornography_, Belmont: Wadsworth.
-* Eaton, Anne W., 2003, “Where Ethics and Aesthetics Meet: Titian’s Rape of Europa”, _Hypathia_, 18: 159–188.
-* –––, 2007, “A Sensible Anti-Porn Feminism”, _Ethics_, 117: 674–715.
+* Darnton, Robert, 1995, *The Forbidden Best-Sellers of Pre-Revolutionary France*, New York: W.W. Norton & Company.
+* Dutton, Denis, 2009, *The Art Instinct*, New York: Oxford University Press.
+* Dwyer, Susan (ed.), 1995, *The Problem of Pornography*, Belmont: Wadsworth.
+* Eaton, Anne W., 2003, “Where Ethics and Aesthetics Meet: Titian’s Rape of Europa”, *Hypathia*, 18: 159–188.
+* –––, 2007, “A Sensible Anti-Porn Feminism”, *Ethics*, 117: 674–715.
 * –––, 2012, “What’s Wrong with the Female Nude? A Feminist Perspective on Art and Pornography”, in Maes & Levinson 2012.
 * –––, 2017, “Feminist Pornography”, in Mikkola (ed.) 2017.
-* –––, 2018, “‘A Lady on the Street but a Freak in the Bed’: On the Distinction Between Erotic Art and Pornography”, _The British Journal of Aesthetics_, 58: 469–488.
-* Elliott, George P., 1970, “Against Pornography”, in D. Hughes (ed.), _Perspectives on Pornography_, New York: St Martin’s Press.
-* Ellis, John, 2006, “On Pornography”, in P. Lehman (ed.), _Pornography: Film and Culture_, New Brunswick: Rutgers University Press.
-* Fokt, Simon, 2012, “Pornographic Art: A Case from Definitions”, _British Journal of Aesthetics_, 52: 287–300.
-* Frappier-Mazur, Lucienne, 1996, “Truth and the Obscene Word in Eighteenth-Century French Pornography”, in L. Hunt (ed.), _The Invention of Pornography_, New York: Zone Books.
-* Gaut, Berys, 2007, _Art, Emotion, and Ethics_, Oxford: Oxford University Press.
-* Gracyk, Theodore, 1987, “Pornography as Representation: Aesthetic Considerations”, _Journal of Aesthetic Education_, 21: 103–121.
-* Hammer, Martin, 1997, _The Naked Portrait_, Edinburgh: The National Galleries of Scotland.
-* Hunt, Lynn (ed.), 1996, _The Invention of Pornography_, New York: Zone Books.
-* Irvin, Sherri (ed.), 2016, _Body Aesthetics_, Oxford: Oxford University Press.
+* –––, 2018, “‘A Lady on the Street but a Freak in the Bed’: On the Distinction Between Erotic Art and Pornography”, *The British Journal of Aesthetics*, 58: 469–488.
+* Elliott, George P., 1970, “Against Pornography”, in D. Hughes (ed.), *Perspectives on Pornography*, New York: St Martin’s Press.
+* Ellis, John, 2006, “On Pornography”, in P. Lehman (ed.), *Pornography: Film and Culture*, New Brunswick: Rutgers University Press.
+* Fokt, Simon, 2012, “Pornographic Art: A Case from Definitions”, *British Journal of Aesthetics*, 52: 287–300.
+* Frappier-Mazur, Lucienne, 1996, “Truth and the Obscene Word in Eighteenth-Century French Pornography”, in L. Hunt (ed.), *The Invention of Pornography*, New York: Zone Books.
+* Gaut, Berys, 2007, *Art, Emotion, and Ethics*, Oxford: Oxford University Press.
+* Gracyk, Theodore, 1987, “Pornography as Representation: Aesthetic Considerations”, *Journal of Aesthetic Education*, 21: 103–121.
+* Hammer, Martin, 1997, *The Naked Portrait*, Edinburgh: The National Galleries of Scotland.
+* Hunt, Lynn (ed.), 1996, *The Invention of Pornography*, New York: Zone Books.
+* Irvin, Sherri (ed.), 2016, *Body Aesthetics*, Oxford: Oxford University Press.
 * Jacob, Margaret C., 1996, “The Materialist World of Pornography”, in Hunt 1996.
-* Julius, Anthony, 2002, _Transgressions: The Offences of Art_, Chicago: University of Chicago Press.
+* Julius, Anthony, 2002, *Transgressions: The Offences of Art*, Chicago: University of Chicago Press.
 * Kania, Andrew, 2012, “Concepts of Pornography: Aesthetics, Feminism, and Methodology”, in Maes & Levinson 2012.
-* Kant, Immanuel, 2000 \[1790], _Critique of the Power of Judgment_, Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans.), Cambridge: Cambridge University Press.
-* Kieran, Matthew, 2001, “Pornographic Art”, _Philosophy and Literature_, 25: 31–45.
-* –––, 2002, “On Obscenity: The Thrill and Repulsion of the Morally Prohibited”, _Philosophy and Phenomenological Research_, 64: 31–55.
-* Kipnis, Laura, 2006, “How to Look at Pornography”, in P. Lehman (ed.), _Pornography: Film and Culture_, New Brunswick: Rutgers University Press.
-* Kupfer, Joseph H., 1983, _Experience as Art. Aesthetics in Everyday Life_, Albany: SUNY Press.
-* Langton, Rae, 1993, “Speech Acts and Unspeakable Acts”, _Philosophy and Public Affairs_, 22: 293–330.
-* –––, 2009, _Sexual Solipsism. Philosophical Essays on Pornography and Objectification_, Oxford: Oxford University Press
-* Lavallee, Zoey, 2016, “What’s Wrong with the (White) Female Nude?” _Estetyka i Krytyka_, 41: 77–98.
-* Leemans, Inger, 2002, _Het woord is aan de onderkant. Radicale ideeën in Nederlandse pornografische romans_, Nijmegen: Vantilt.
-* Levinson, Jerrold, 2005, “Erotic Art and Pornographic Pictures”, _Philosophy and Literature_, 29: 228–240.
-* –––, 2006, “What is Erotic Art?” in Jerrold Levinson, _Contemplating Art_, Oxford: Oxford University Press.
-* Liedtke, Walter, 2009, “Johannes Vermeer (1632–1675) and The Milkmaid”, in _Heilbrunn Timeline of Art History_, New York: The Metropolitan Museum of Art. URL= [http://www.metmuseum.org/toah/hd/milk/hd_milk.htm](http://www.metmuseum.org/toah/hd/milk/hd_milk.htm) (August 2009).
+* Kant, Immanuel, 2000 \[1790], *Critique of the Power of Judgment*, Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans.), Cambridge: Cambridge University Press.
+* Kieran, Matthew, 2001, “Pornographic Art”, *Philosophy and Literature*, 25: 31–45.
+* –––, 2002, “On Obscenity: The Thrill and Repulsion of the Morally Prohibited”, *Philosophy and Phenomenological Research*, 64: 31–55.
+* Kipnis, Laura, 2006, “How to Look at Pornography”, in P. Lehman (ed.), *Pornography: Film and Culture*, New Brunswick: Rutgers University Press.
+* Kupfer, Joseph H., 1983, *Experience as Art. Aesthetics in Everyday Life*, Albany: SUNY Press.
+* Langton, Rae, 1993, “Speech Acts and Unspeakable Acts”, *Philosophy and Public Affairs*, 22: 293–330.
+* –––, 2009, *Sexual Solipsism. Philosophical Essays on Pornography and Objectification*, Oxford: Oxford University Press
+* Lavallee, Zoey, 2016, “What’s Wrong with the (White) Female Nude?” *Estetyka i Krytyka*, 41: 77–98.
+* Leemans, Inger, 2002, *Het woord is aan de onderkant. Radicale ideeën in Nederlandse pornografische romans*, Nijmegen: Vantilt.
+* Levinson, Jerrold, 2005, “Erotic Art and Pornographic Pictures”, *Philosophy and Literature*, 29: 228–240.
+* –––, 2006, “What is Erotic Art?” in Jerrold Levinson, *Contemplating Art*, Oxford: Oxford University Press.
+* Liedtke, Walter, 2009, “Johannes Vermeer (1632–1675) and The Milkmaid”, in *Heilbrunn Timeline of Art History*, New York: The Metropolitan Museum of Art. URL= [http://www.metmuseum.org/toah/hd/milk/hd_milk.htm](http://www.metmuseum.org/toah/hd/milk/hd_milk.htm) (August 2009).
 * Lintott, S. & S. Irvin, 2016, “Sex Objects and Sexy Subjects: A Feminist Reclamation of Sexiness”, in Irvin (ed.) 2016, 299–318.
-* Longford, F.P., 1972, _Pornography: The Longford Report_, London: Coronet Books.
-* Longino, Helen, 1980, “Pornography, Oppression, and Freedom”, in L. Lederer (ed.), _Take Back the Night: Women on Pornography_, New York: William Morrow.
-* Lorde, Audre, 1978, _Uses of the Erotic: The erotic as power_, New York: Out.
-* Lubey, Kathleen, 2022, _What Pornography Knows: Sex and Social Protest Since the Eighteenth Century_, Stanford: Stanford University Press.
-* MacKinnon, Catharine, 1987, “Francis Biddle’s Sister: Pornography, Civil Rights, and Speech”, in _Feminism Unmodified: Discourses on Life and Law_, Cambridge, MA: Harvard University Press.
-* Maes, Hans, 2009, “Art and Pornography”, _Journal of Aesthetic Education_, 43: 107–116.
-* –––, 2011, “Art or Porn: Clear Division or False Dilemma?” _Philosophy and Literature_, 35: 51–64.
+* Longford, F.P., 1972, *Pornography: The Longford Report*, London: Coronet Books.
+* Longino, Helen, 1980, “Pornography, Oppression, and Freedom”, in L. Lederer (ed.), *Take Back the Night: Women on Pornography*, New York: William Morrow.
+* Lorde, Audre, 1978, *Uses of the Erotic: The erotic as power*, New York: Out.
+* Lubey, Kathleen, 2022, *What Pornography Knows: Sex and Social Protest Since the Eighteenth Century*, Stanford: Stanford University Press.
+* MacKinnon, Catharine, 1987, “Francis Biddle’s Sister: Pornography, Civil Rights, and Speech”, in *Feminism Unmodified: Discourses on Life and Law*, Cambridge, MA: Harvard University Press.
+* Maes, Hans, 2009, “Art and Pornography”, *Journal of Aesthetic Education*, 43: 107–116.
+* –––, 2011, “Art or Porn: Clear Division or False Dilemma?” *Philosophy and Literature*, 35: 51–64.
 * –––, 2012, “Who Says Pornography Can’t Be Art?” in Maes & Levinson 2012.
-* ––– (ed.), 2013, _Pornographic Art and the Aesthetics of Pornography_, Basingstoke: Palgrave Macmillan.
+* ––– (ed.), 2013, *Pornographic Art and the Aesthetics of Pornography*, Basingstoke: Palgrave Macmillan.
 * –––, 2017, “Falling in Lust: Sexiness, Feminism, and Pornography”, in Mikkola (ed.) 2017.
-* –––, 2020, “Pornography and Melancholy”, _APA Newsletter Feminism and Philosophy_, 20(2): 14–18.
-* Maes, Hans & Jerrold Levinson (eds.), 2012, _Art and Pornography: Philosophical Essays_, Oxford: Oxford University Press.
-* Mag Uidhir, Christy, 2009, “Why Pornography Can’t Be Art”, _Philosophy and Literature_, 33: 193–203.
-* –––, 2010, “Failed-Art & Failed Art-Theory”, _Australasian Journal of Philosophy_, 88: 381–400.
-* Mahon, Alyce, 2005, _Eroticism & Art_, Oxford: OUP.
-* Maitra, Ishani, 2009, “Silencing Speech”, _Canadian Journal of Philosophy_, 39: 309–338.
-* Matthen, Mohan, 2011, “Art, Sexual Selection, Group Selection: Critical Notice of _The Art Instinct_”, _Canadian Journal of Philosophy_, 41: 337–356.
-* Mey, Kerstin, 2007, _Art & Obscenity_, London: I.B.Tauris.
+* –––, 2020, “Pornography and Melancholy”, *APA Newsletter Feminism and Philosophy*, 20(2): 14–18.
+* Maes, Hans & Jerrold Levinson (eds.), 2012, *Art and Pornography: Philosophical Essays*, Oxford: Oxford University Press.
+* Mag Uidhir, Christy, 2009, “Why Pornography Can’t Be Art”, *Philosophy and Literature*, 33: 193–203.
+* –––, 2010, “Failed-Art & Failed Art-Theory”, *Australasian Journal of Philosophy*, 88: 381–400.
+* Mahon, Alyce, 2005, *Eroticism & Art*, Oxford: OUP.
+* Maitra, Ishani, 2009, “Silencing Speech”, *Canadian Journal of Philosophy*, 39: 309–338.
+* Matthen, Mohan, 2011, “Art, Sexual Selection, Group Selection: Critical Notice of *The Art Instinct*”, *Canadian Journal of Philosophy*, 41: 337–356.
+* Mey, Kerstin, 2007, *Art & Obscenity*, London: I.B.Tauris.
 * Mikkola, Mari, 2013, “Pornography, Art, and Porno-Art”, in Maes 2013.
-* ––– (ed.), 2017, _Beyond Speech: Pornography and Analytic Feminist Philosophy_, Oxford: Oxford University Press.
-* –––, 2019, _Pornography: A Philosophical Introduction_, Oxford: Oxford University Press.
-* Mulvey, Laura, 1989, _Visual and Other Pleasures_, Bloomington: Indiana University Press.
-* Nanay, Bence, 2012, “Anti-Pornography: André Kertész’s _Distortions_”, in Maes & Levinson 2012.
-* Nead, Lynda, 1992, _The Female Nude: Art, Obscenity and Sexuality_, London: Routledge.
-* Nehamas, Alexander, 2007, _Only a Promise of Happiness: The Place of Beauty in a World of Art_, Princeton: Princeton UP.
+* ––– (ed.), 2017, *Beyond Speech: Pornography and Analytic Feminist Philosophy*, Oxford: Oxford University Press.
+* –––, 2019, *Pornography: A Philosophical Introduction*, Oxford: Oxford University Press.
+* Mulvey, Laura, 1989, *Visual and Other Pleasures*, Bloomington: Indiana University Press.
+* Nanay, Bence, 2012, “Anti-Pornography: André Kertész’s *Distortions*”, in Maes & Levinson 2012.
+* Nead, Lynda, 1992, *The Female Nude: Art, Obscenity and Sexuality*, London: Routledge.
+* Nehamas, Alexander, 2007, *Only a Promise of Happiness: The Place of Beauty in a World of Art*, Princeton: Princeton UP.
 * Neill, Alex, 2012, “The Pornographic, the Erotic, the Charming and the Sublime”, in Maes & Levinson 2012.
 * Newall, Michael, 2012, “An Aesthetics of Transgressive Pornography”, in Maes & Levinson 2012.
-* Nietzsche, Friedrich, 1956 \[1887] \[GM], _The Birth of Tragedy and The Genealogy of Morals_, Francis Golffing (trans.), New York: Doubleday.
-* –––, 1967–78, _Werke: Kritische Gesamtausgabe_, G. Colli and M. Montinari (eds.), 30 vols., Berlin: de Gruyter.
-* –––, 1968 \[TI], _Twilight of the Idols_, R.J. Hollingdale (trans.), Harmondsworth: Penguin.
-* –––, 1968 \[WP], _The Will to Power_, W. Kaufmann & R. Hollingdale (trans.), New York: Vintage Press.
-* Nussbaum, Martha C., 1995, “Objectification”, _Philosophy and Public Affairs_, Vol, 24, pp, 249–291.
-* –––, 2004, _Hiding from Humanity: Disgust, Shame and the Law_, Princeton: Princeton University Press.
-* O’Hear, Anthony, 1991, “Art and Censorship”, _Philosophy_, 66: 512–516.
+* Nietzsche, Friedrich, 1956 \[1887] \[GM], *The Birth of Tragedy and The Genealogy of Morals*, Francis Golffing (trans.), New York: Doubleday.
+* –––, 1967–78, *Werke: Kritische Gesamtausgabe*, G. Colli and M. Montinari (eds.), 30 vols., Berlin: de Gruyter.
+* –––, 1968 \[TI], *Twilight of the Idols*, R.J. Hollingdale (trans.), Harmondsworth: Penguin.
+* –––, 1968 \[WP], *The Will to Power*, W. Kaufmann & R. Hollingdale (trans.), New York: Vintage Press.
+* Nussbaum, Martha C., 1995, “Objectification”, *Philosophy and Public Affairs*, Vol, 24, pp, 249–291.
+* –––, 2004, *Hiding from Humanity: Disgust, Shame and the Law*, Princeton: Princeton University Press.
+* O’Hear, Anthony, 1991, “Art and Censorship”, *Philosophy*, 66: 512–516.
 * Patridge, Stephanie, 2013, “Exclusivism and Evaluation: Art, Erotica, and Pornography”, in Maes 2013.
-* Posner, Richard, 1994, _Sex and Reason_, Cambridge: Harvard University Press.
-* Ridington, Jillian, 1989, _Confronting Pornography: A Feminist on the Front Lines_, Vancouver: CRIAW ⁄ ICREF.
+* Posner, Richard, 1994, *Sex and Reason*, Cambridge: Harvard University Press.
+* Ridington, Jillian, 1989, *Confronting Pornography: A Feminist on the Front Lines*, Vancouver: CRIAW ⁄ ICREF.
 * Schellekens, Elisabeth, 2012, “Taking a Moral Perspective: On Voyeurism in Art”, in Maes & Levinson 2012.
-* Schopenhauer, Arthur, 1969 \[1818], _The World as Will and Representation_, Vol. 1, E.F. Payne (trans.), New York: Dover Publications.
-* –––, 2008, _The World as Will and Presentation_, Vol. 1, Richard E. Aquila with David Carus (trans.), New York: Pearson/Longman.
-* Scruton, Roger, 1986, _Sexual Desire_, New York: The Free Press.
-* –––, 2005, “Flesh from the Butcher: How to Distinguish Eroticism from Pornography”, _Times Literary Supplement_, 15 April 2005 11–13.
-* –––, 2009, _Beauty_, Oxford: Oxford University Press.
-* Shaftesbury, Third Earl of, 1964 \[1711], _Characteristics of Men, Manners, Opinions, Times_, John M. Robertson (ed.), New York: Bobbs Merrill.
-* Shusterman, Richard, 1999, “Somaesthetics: A Disciplinary Proposal”, _Journal of Aesthetics and Art Criticism_, 57: 299–313.
-* –––, 2005, “Somaesthetics and Burke’s Sublime”, _British Journal of Aesthetics_, 45: 323–341.
-* –––, 2007, “Asian Ars Erotica and the Question of Sexual Aesthetics”, _Journal of Aesthetics and Art Criticism_, 65: 55–68.
-* –––, 2008, “Aesthetic Experience: From Analysis to Eros”, in Richard Shusterman & A. Tomlin (eds.), _Aesthetic Experience_, London: Routledge, 79–97.
-* –––, 2021, _Ars Erotica: Sex and somaesthetics in the classical arts of love_, Cambridge: Cambridge University Press.
-* Sircello, Guy, 1979, “Beauty and Sex”, in D.F. Gustafson & B.L. Tapscott (eds.), _Body, Mind, and Method: Essays in Honor of Virgil C. Aldrich_, Boston: Reidel.
-* Sontag, Susan, 1994, “The Pornographic Imagination”, in _Styles of Radical Will_, London: Vintage.
-* Stendhal, 1926, _De l’amour_, Paris: Champion.
+* Schopenhauer, Arthur, 1969 \[1818], *The World as Will and Representation*, Vol. 1, E.F. Payne (trans.), New York: Dover Publications.
+* –––, 2008, *The World as Will and Presentation*, Vol. 1, Richard E. Aquila with David Carus (trans.), New York: Pearson/Longman.
+* Scruton, Roger, 1986, *Sexual Desire*, New York: The Free Press.
+* –––, 2005, “Flesh from the Butcher: How to Distinguish Eroticism from Pornography”, *Times Literary Supplement*, 15 April 2005 11–13.
+* –––, 2009, *Beauty*, Oxford: Oxford University Press.
+* Shaftesbury, Third Earl of, 1964 \[1711], *Characteristics of Men, Manners, Opinions, Times*, John M. Robertson (ed.), New York: Bobbs Merrill.
+* Shusterman, Richard, 1999, “Somaesthetics: A Disciplinary Proposal”, *Journal of Aesthetics and Art Criticism*, 57: 299–313.
+* –––, 2005, “Somaesthetics and Burke’s Sublime”, *British Journal of Aesthetics*, 45: 323–341.
+* –––, 2007, “Asian Ars Erotica and the Question of Sexual Aesthetics”, *Journal of Aesthetics and Art Criticism*, 65: 55–68.
+* –––, 2008, “Aesthetic Experience: From Analysis to Eros”, in Richard Shusterman & A. Tomlin (eds.), *Aesthetic Experience*, London: Routledge, 79–97.
+* –––, 2021, *Ars Erotica: Sex and somaesthetics in the classical arts of love*, Cambridge: Cambridge University Press.
+* Sircello, Guy, 1979, “Beauty and Sex”, in D.F. Gustafson & B.L. Tapscott (eds.), *Body, Mind, and Method: Essays in Honor of Virgil C. Aldrich*, Boston: Reidel.
+* Sontag, Susan, 1994, “The Pornographic Imagination”, in *Styles of Radical Will*, London: Vintage.
+* Stendhal, 1926, *De l’amour*, Paris: Champion.
 * Steinem, Gloria, 1995, “Erotica and Pornography: A Clear and Present Difference”, in Dwyer 1995.
-* Steiner, George, 1975, “Night Words: High Pornography and Human Privacy”, in R.C. Rist (ed.), _The Pornography Controversy_, New Brunswick: Transaction Books.
+* Steiner, George, 1975, “Night Words: High Pornography and Human Privacy”, in R.C. Rist (ed.), *The Pornography Controversy*, New Brunswick: Transaction Books.
 * Stock, Kathleen, 2012, “Pornography and Imagining About Oneself”, in Maes & Levinson 2012.
-* –––, 2015, “Sexual Objectification”, _Analysis_, 75: 191–195.
-* Taormino, Tristan, Constance Penley, Celine Parreñas Shimizu, and Mireille Miller-Young (eds.), 2013, _The Feminist Porn Book: The Politics of Producing Pleasure_, New York: The Feminist Press at CUNY.
-* Taylor, Paul C., 2016, _Black is beautiful: A philosophy of black aesthetics_, Malden, MA: John Wiley & Sons.
-* Thorneycroft, Ryan, 2021, “‘Facefuck Me’: Exploring Crip Porn”, _Porn Studies_, 1–13.
+* –––, 2015, “Sexual Objectification”, *Analysis*, 75: 191–195.
+* Taormino, Tristan, Constance Penley, Celine Parreñas Shimizu, and Mireille Miller-Young (eds.), 2013, *The Feminist Porn Book: The Politics of Producing Pleasure*, New York: The Feminist Press at CUNY.
+* Taylor, Paul C., 2016, *Black is beautiful: A philosophy of black aesthetics*, Malden, MA: John Wiley & Sons.
+* Thorneycroft, Ryan, 2021, “‘Facefuck Me’: Exploring Crip Porn”, *Porn Studies*, 1–13.
 * Todd, Cain, 2012, “Imagination, Fantasy, and Sexual Desire”, in Maes & Levinson 2012.
 * Van Brabandt, P. & J. Prinz, 2012, “Why Do Porn Films Suck?” in Maes & Levinson 2012.
-* Wallace, Marina, Martin Kemp, and Joanne Bernstein, 2007, _Seduced: Art and Sex from Antiquity to Now_, London: Merrel.
-* Webb, Peter, 1975, _The Erotic Arts_, London: Secker & Warburg.
-* Williams, Bernard (ed.), 1982, _Obscenity and Film Censorship: An Abridgement of the Williams Report_, Cambridge: Cambridge University Press.
+* Wallace, Marina, Martin Kemp, and Joanne Bernstein, 2007, *Seduced: Art and Sex from Antiquity to Now*, London: Merrel.
+* Webb, Peter, 1975, *The Erotic Arts*, London: Secker & Warburg.
+* Williams, Bernard (ed.), 1982, *Obscenity and Film Censorship: An Abridgement of the Williams Report*, Cambridge: Cambridge University Press.
 * Willis, Ellen, 1995, “Feminism, Moralism, and Pornography”, in Dwyer 1995: 170–176.
 * Zola, Emile, 1991, “Écrits sur l’art”, Paris: Gallimard.
 
 ### Painting, Sculptures, and Photographs Referenced
 
-* [_Isenheim Altarpiece_](http://www.musee-unterlinden.com/collections/lexperience-le-retable-dissenheim/retable/le-retable-dissenheim-un-chef-doeuvre-de-lart/) (1512–16), Unterlinden Museum, Colmar, France
-* Araki, Nobuyoshi, _The Look_ (1993)
-* Dix, Otto, _Old Couple_ (1923)
-* Emin, Tracey, [_Is Anal Sex Legal?_](http://www.tate.org.uk/art/artworks/emin-is-anal-sex-legal-t11890) (1998), Tate, London
-* Emin, Tracey, [_Is Legal Sex Anal?_](http://www.tate.org.uk/art/artworks/emin-is-legal-sex-anal-t11889) (1998), Tate, London
-* Grosz, George, [_Sex Murder in the Ackerstrasse_](http://collections.lacma.org/node/181305) (1916–7)
-* Delacroix, Eugène, [_Liberty Leading the People_](https://collections.louvre.fr/en/ark:/53355/cl010065872) (1830), Louvre
-* Goya, Francisco, [_The Naked Maja_](https://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-nude-maja/) (c. 1797–1800), Prado, Spain
-* Manet, Edouard, [_Olympia_](http://www.musee-orsay.fr/en/collections/works-in-focus/search/commentaire_id/olympia-7087.html) (1863) Musée d’Orsay, Paris
-* Ray, Man, [_The Prayer_](http://www.getty.edu/art/collection/objects/46735/man-ray-prayer-la-priere-american-negative-1930-print-1960/) (1930)
-* Rodin, Auguste, [_The Burghers of Calais_](http://en.wikipedia.org/wiki/The_Burghers_of_Calais)
-* Scanu, Maria, _Madonna del Naviganti_ (1999)
-* Smith, Kiki, _Tale_ (1992)
-* Smith, Kiki, [_Blood Pool_](http://www.artic.edu/aic/collections/artwork/122231) (1992)
-* Tintoretto, [_Crocifissione_](http://www.scuolagrandesanrocco.org/home/tintoretto/sala-dellalbergo-tintoretto/) (1565), Scuola Grande di San Rocco, Venice
-* Titian, [_Venus of Urbino_](http://www.uffizi.org/artworks/venus-of-urbino-by-titian/) (1538), Uffizi, Florence
-* Titian, [_Rape of Europa_](http://www.gardnermuseum.org/collection/artwork/3rd_floor/titian_room/europa) (1562), Isabella Stewart Gardner Museum
-* Vermeer, Johannes, [_Milk Maid_](https://www.rijksmuseum.nl/en/collection/SK-A-2344) (1657–58), Rijksmuseum, Amsterdam
-* Wegener, Gerda, _Les Délassements d’Eros_ (1925)
+* [*Isenheim Altarpiece*](http://www.musee-unterlinden.com/collections/lexperience-le-retable-dissenheim/retable/le-retable-dissenheim-un-chef-doeuvre-de-lart/) (1512–16), Unterlinden Museum, Colmar, France
+* Araki, Nobuyoshi, *The Look* (1993)
+* Dix, Otto, *Old Couple* (1923)
+* Emin, Tracey, [*Is Anal Sex Legal?*](http://www.tate.org.uk/art/artworks/emin-is-anal-sex-legal-t11890) (1998), Tate, London
+* Emin, Tracey, [*Is Legal Sex Anal?*](http://www.tate.org.uk/art/artworks/emin-is-legal-sex-anal-t11889) (1998), Tate, London
+* Grosz, George, [*Sex Murder in the Ackerstrasse*](http://collections.lacma.org/node/181305) (1916–7)
+* Delacroix, Eugène, [*Liberty Leading the People*](https://collections.louvre.fr/en/ark:/53355/cl010065872) (1830), Louvre
+* Goya, Francisco, [*The Naked Maja*](https://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-nude-maja/) (c. 1797–1800), Prado, Spain
+* Manet, Edouard, [*Olympia*](http://www.musee-orsay.fr/en/collections/works-in-focus/search/commentaire_id/olympia-7087.html) (1863) Musée d’Orsay, Paris
+* Ray, Man, [*The Prayer*](http://www.getty.edu/art/collection/objects/46735/man-ray-prayer-la-priere-american-negative-1930-print-1960/) (1930)
+* Rodin, Auguste, [*The Burghers of Calais*](http://en.wikipedia.org/wiki/The_Burghers_of_Calais)
+* Scanu, Maria, *Madonna del Naviganti* (1999)
+* Smith, Kiki, *Tale* (1992)
+* Smith, Kiki, [*Blood Pool*](http://www.artic.edu/aic/collections/artwork/122231) (1992)
+* Tintoretto, [*Crocifissione*](http://www.scuolagrandesanrocco.org/home/tintoretto/sala-dellalbergo-tintoretto/) (1565), Scuola Grande di San Rocco, Venice
+* Titian, [*Venus of Urbino*](http://www.uffizi.org/artworks/venus-of-urbino-by-titian/) (1538), Uffizi, Florence
+* Titian, [*Rape of Europa*](http://www.gardnermuseum.org/collection/artwork/3rd_floor/titian_room/europa) (1562), Isabella Stewart Gardner Museum
+* Vermeer, Johannes, [*Milk Maid*](https://www.rijksmuseum.nl/en/collection/SK-A-2344) (1657–58), Rijksmuseum, Amsterdam
+* Wegener, Gerda, *Les Délassements d’Eros* (1925)
 
 ### Literature and Films Referenced
 
-* Bell, Jennifer Lyon & Murielle Scherre (directors), 2010, _Skin.Like.Sun_.
-* de Boyer, Jean-Baptiste, 1748, _Thérèse Philosophe_.
-* Cleland, John, 1748, _Fanny Hill_.
-* Diderot, 1748, _Les Bijoux Indiscrets_.
-* Kiely, Molly, 1999, _That Kind of Girl_, Seattle: Eros Comix.
-* de Latouche, Jean-Charles Gervaise, 1741, _Histoire de Dom B… Portier des Chartreux_.
-* McEwan, Ian, 2007, _On Chesil Beach_, London: Jonathan Cape.
-* Östberg, Marit, 2015, _When We Are Together, We Can Be Everywhere_.
-* Sade, 1795, _La Philosophie dans le Boudoir_.
-* Engberg, Mia (producer), 2009, _Dirty Diaries_, a collection of Swedish movie shorts.
+* Bell, Jennifer Lyon & Murielle Scherre (directors), 2010, *Skin.Like.Sun*.
+* de Boyer, Jean-Baptiste, 1748, *Thérèse Philosophe*.
+* Cleland, John, 1748, *Fanny Hill*.
+* Diderot, 1748, *Les Bijoux Indiscrets*.
+* Kiely, Molly, 1999, *That Kind of Girl*, Seattle: Eros Comix.
+* de Latouche, Jean-Charles Gervaise, 1741, *Histoire de Dom B… Portier des Chartreux*.
+* McEwan, Ian, 2007, *On Chesil Beach*, London: Jonathan Cape.
+* Östberg, Marit, 2015, *When We Are Together, We Can Be Everywhere*.
+* Sade, 1795, *La Philosophie dans le Boudoir*.
+* Engberg, Mia (producer), 2009, *Dirty Diaries*, a collection of Swedish movie shorts.
 
 ## Academic Tools
 
@@ -459,7 +458,7 @@ Longino 只是众多试图捕捉色情作品在道德上存在问题的作者之
 
 ### Acknowledgments
 
-The author would like to acknowledge the helpful suggestions and comments offered in the preparation this article by Anne Eaton, Inger Leemans, Wijnand Mijnhardt, Annelies Monseré, Michael Newall, Katrien Schaubroeck. He also thanks the publisher Palgrave Macmillan for permission to re-use a few paragraphs from his introduction to the book _Pornographic Art and the Aesthetics of Pornography_ (2013).
+The author would like to acknowledge the helpful suggestions and comments offered in the preparation this article by Anne Eaton, Inger Leemans, Wijnand Mijnhardt, Annelies Monseré, Michael Newall, Katrien Schaubroeck. He also thanks the publisher Palgrave Macmillan for permission to re-use a few paragraphs from his introduction to the book *Pornographic Art and the Aesthetics of Pornography* (2013).
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Hans Maes <[_H.Maes@kent.ac.uk_](mailto:H%2eMaes%40kent%2eac%2euk)>
+Hans Maes <[*H.Maes@kent.ac.uk*](mailto:H%2eMaes%40kent%2eac%2euk)>

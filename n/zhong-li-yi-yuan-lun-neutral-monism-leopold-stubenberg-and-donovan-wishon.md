@@ -1,13 +1,12 @@
 # 中立一元论 neutral monism (Leopold Stubenberg and Donovan Wishon)
 
-_首次发表于2005年2月3日，实质修订于2023年1月31日。_
+*首次发表于2005年2月3日，实质修订于2023年1月31日。*
 
 中立一元论是一种一元论的形而上学。它认为终极现实是同一种类的。在这个意义上，中立一元论与更为熟悉的一元论版本——唯心主义和唯物主义一致。中立一元论与其一元论对手的区别在于，它声称终极现实的内在本质既不是心理的也不是物质的，而是在某种意义上介于两者之间的中立状态。
 
 中立一元论与许多中立实体或种类的存在是相容的。中立一元论也与非中立实体或种类的存在相容——例如心理和物质实体——只要它们在某种意义上是终极现实的中立内在本质的派生物。大多数中立一元论的版本在这两个方面都是多元主义的。它们被构想为解决心灵-身体问题的方案。它们的目标是通过展示二者都以更基本的中立实体为基础来弥合心理和物质实体之间的明显鸿沟。
 
 因此，任何中立一元论的版本都必须回答以下三个问题：（1）中立实体是什么，它们的本质是什么？（2）这些中立实体与物质的关系是什么？（3）这些中立实体与心灵的关系是什么？
- 
 
 ***
 
@@ -121,7 +120,7 @@ Baruch Spinoza（1632-77）和 David Hume（1711-76）经常被认为是中立�
 
 > 纯粹经验的第一个片段是思想——思考的片段以及所思考的内容——也许是关于哈佛纪念堂的，就像詹姆斯著名的例子一样(参见詹姆斯 1904a: 55ff)。而在最简单的情况下，纯粹经验的第二个片段是所思考的事物——纪念堂——以及对纪念堂的感知。假设思想引导我们到达纪念堂，现在我们站在纪念堂前面并看到它。正是这种引导功能(关于这一细节，詹姆斯有很多话要说)构成了思想的关联性，构成了思想是关于某个特定事物的事实。一旦思想引导我们到达纪念堂，
 
-The first piece of pure experience is the thought—the episode of thinking as well as the content that is thought—perhaps about Harvard’s Memorial Hall, as in James’s famous example (see James 1904a: 55ff). And, in the simplest case, the second piece of pure experience is the thing—Memorial Hall—that was thought of, as well as the perceiving of Memorial Hall. The thought has, let’s suppose, led us to Memorial Hall and now we stand in front of it and see it. It is this function of _leading_ (about the details of which James has much to say) that constitutes the thought’s intentionality, that constitutes the fact that the thought was a thought about a certain thing. Once the thought has led one to the Hall,
+The first piece of pure experience is the thought—the episode of thinking as well as the content that is thought—perhaps about Harvard’s Memorial Hall, as in James’s famous example (see James 1904a: 55ff). And, in the simplest case, the second piece of pure experience is the thing—Memorial Hall—that was thought of, as well as the perceiving of Memorial Hall. The thought has, let’s suppose, led us to Memorial Hall and now we stand in front of it and see it. It is this function of *leading* (about the details of which James has much to say) that constitutes the thought’s intentionality, that constitutes the fact that the thought was a thought about a certain thing. Once the thought has led one to the Hall,
 
 > 感知不仅验证了概念，证明了它作为认知感知的功能是真实的，而且作为中介链的终点，感知的存在创造了这个功能。无论终止这个链条的是什么，因为它现在证明自己是，它就是概念所“考虑到”的东西。（詹姆斯 1904a：60-1）
 
@@ -447,170 +446,170 @@ Mach、James 和 Russell 的传统中立一元论版本反映了他们的经验�
 
 ## Bibliography
 
-* Ahmed, Mafizuddin, 1989, _Bertrand Russell’s Neutral Monism_, New Delhi: Mittal Publications.
-* Alter, Torin and Yujin Nagasawa (eds.), 2015, _Consciousness in the Physical World: Perspectives on Russellian Monism_, Oxford: Oxford University Press.
-* Apostolova, Iva, 2004, “From Acquaintance to Neutral Monism: Russell’s Theory of Cognition 1910–1921”, _The Bertrand Russell Society Quarterly_, August (123). \[[Apostolova 2004 available online](https://www.lehman.edu/faculty/rcarey/BRSQ/04august.apostolova.htm)]
-* –––, 2022, “Does Neutral Monism Provide the Best Framework for Relational Memory?”, _Feminist Philosophy of Mind_, Jennifer McWeeny and Keya Maitra (eds.), New York: Oxford University Press, Chapter 18.
-* Apostolova, Iva and Nils Frederick-Wagner, 2020, “Two Sides of the Same Coin? Neutral Monism as an Attempt to Reconcile Subjectivity and Objectivity in Personal Identity”, _Metaphysica_, 20(1): 121–50.
-* Armstrong, David M., 1968, _A Materialist Theory of the Mind_, London: Routledge.
-* Avenarius, Richard, 1888/1890, _Kritik der Reinen Erfahrung_, Leipzig: Fues (R. Reisland).
-* –––, 1891, _Der Menschliche Weltbegriff, Fourth edition_, Leipzig: O.R. Reisland, 1927.
-* –––, 1894/95, “Bemerkungen zum Begriff des Gegenstandes der Psychologie”, _Vierteljahrsschrift für wissenschaftliche Philosophie_, XVIII, 137 and 400, XIV, 1 and 129; reprinted in the fourth edition of Avenarius 1891.
-* Ayer, A.J., 1971, _Russell and Moore. The Analytical Heritage_, London: Macmillan.
-* Backhaus, Wilf K., 1991, “Is Hume a Neutral Monist?”, _Southwest Philosophy Review_, 7(2): 1–15. doi:10.5840/swphilreview19917216
-* Bailey, Andrew, 2020, “William James, Pure Experience, and Panpsychism,” _The Routledge Handbook of Panpsychism_, William Seager (ed.), New York: Routledge, 66–77.
-* Banks, Erik C., 2003, _Ernst Mach’s World of Elements_, Dordrecht: Kluwer.
-* –––, 2014, _The Realistic Empiricism of Mach, James, and Russell. Neutral Monism Reconsidered_, Cambridge: Cambridge University Press.
-* –––, 2021, “The Case for Mach’s Neutral Monism”, _Interpreting Mach: Critical Essays_, John Preston (ed.), Cambridge: Cambridge University Press, 258–79.
-* Bode, B.H., 1905, “‘Pure Experience’ and the External World”, _The Journal of Philosophy, Psychology and Scientific Methods_, 2(1): 128–33.
-* –––, 1916, “Ernst Mach and the New Empiricism”, _The Journal of Philosophy, Psychology and Scientific Methods_, 13(1): 281–90.
-* Bogdanov, Alexander, 1904–06, _Empiriomonizm: Stat’i po Filosofii_, translated by David G. Rowley as _Empiriomonism: Essays in Philosophy, Books 1–3_, Boston: Brill, 2019
-* Bolender, John, 2001, “An Argument for Idealism”, _Journal for Consciousness Studies_, 8(4): 37–61.
-* Bostock, David, 2012, _Russell’s Logical Atomism_, Oxford: Oxford University Press.
-* Broad, C.D., 1925, _The Mind and Its Place in Nature_, London: Routledge; reprinted Paterson, N.J.: Littlefield, Adams & Co., 1960.
-* –––, 1959, “A Reply to My Critics”, in _The Philosophy of C.D. Broad_ (The Library of Living Philosophers: Volume 10), Paul Arthur Schilpp (ed.), New York: Tudor Publishing Company, 709–831.
-* Brüntrup, Godehard and Ludwig Jaskolla (eds), 2017, _Panpsychism: Contemporary Perspectives_, New York: Oxford University Press.
-* Carnap, Rudolf, 1928, _Der Logische Aufbau der Welt_, reprint of the fourth edition, Frankfurt: Ullstein, 1979; translated as _The Logical Structure of the World/Pseudoproblems in Philosophy_, Berkeley: University of California Press, 1968.
-* Chalmers, David, 1996, _The Conscious Mind. In Search of a Fundamental Theory_, New York: Oxford University Press.
-* –––, 2006, “Strong and Weak Emergence”, in _The Re-Emergence of Emergence_, Philip Clayton and Paul Davies (eds.), Oxford: Oxford University Press, 244–254.
+* Ahmed, Mafizuddin, 1989, *Bertrand Russell’s Neutral Monism*, New Delhi: Mittal Publications.
+* Alter, Torin and Yujin Nagasawa (eds.), 2015, *Consciousness in the Physical World: Perspectives on Russellian Monism*, Oxford: Oxford University Press.
+* Apostolova, Iva, 2004, “From Acquaintance to Neutral Monism: Russell’s Theory of Cognition 1910–1921”, *The Bertrand Russell Society Quarterly*, August (123). \[[Apostolova 2004 available online](https://www.lehman.edu/faculty/rcarey/BRSQ/04august.apostolova.htm)]
+* –––, 2022, “Does Neutral Monism Provide the Best Framework for Relational Memory?”, *Feminist Philosophy of Mind*, Jennifer McWeeny and Keya Maitra (eds.), New York: Oxford University Press, Chapter 18.
+* Apostolova, Iva and Nils Frederick-Wagner, 2020, “Two Sides of the Same Coin? Neutral Monism as an Attempt to Reconcile Subjectivity and Objectivity in Personal Identity”, *Metaphysica*, 20(1): 121–50.
+* Armstrong, David M., 1968, *A Materialist Theory of the Mind*, London: Routledge.
+* Avenarius, Richard, 1888/1890, *Kritik der Reinen Erfahrung*, Leipzig: Fues (R. Reisland).
+* –––, 1891, *Der Menschliche Weltbegriff, Fourth edition*, Leipzig: O.R. Reisland, 1927.
+* –––, 1894/95, “Bemerkungen zum Begriff des Gegenstandes der Psychologie”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, XVIII, 137 and 400, XIV, 1 and 129; reprinted in the fourth edition of Avenarius 1891.
+* Ayer, A.J., 1971, *Russell and Moore. The Analytical Heritage*, London: Macmillan.
+* Backhaus, Wilf K., 1991, “Is Hume a Neutral Monist?”, *Southwest Philosophy Review*, 7(2): 1–15. doi:10.5840/swphilreview19917216
+* Bailey, Andrew, 2020, “William James, Pure Experience, and Panpsychism,” *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 66–77.
+* Banks, Erik C., 2003, *Ernst Mach’s World of Elements*, Dordrecht: Kluwer.
+* –––, 2014, *The Realistic Empiricism of Mach, James, and Russell. Neutral Monism Reconsidered*, Cambridge: Cambridge University Press.
+* –––, 2021, “The Case for Mach’s Neutral Monism”, *Interpreting Mach: Critical Essays*, John Preston (ed.), Cambridge: Cambridge University Press, 258–79.
+* Bode, B.H., 1905, “‘Pure Experience’ and the External World”, *The Journal of Philosophy, Psychology and Scientific Methods*, 2(1): 128–33.
+* –––, 1916, “Ernst Mach and the New Empiricism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 13(1): 281–90.
+* Bogdanov, Alexander, 1904–06, *Empiriomonizm: Stat’i po Filosofii*, translated by David G. Rowley as *Empiriomonism: Essays in Philosophy, Books 1–3*, Boston: Brill, 2019
+* Bolender, John, 2001, “An Argument for Idealism”, *Journal for Consciousness Studies*, 8(4): 37–61.
+* Bostock, David, 2012, *Russell’s Logical Atomism*, Oxford: Oxford University Press.
+* Broad, C.D., 1925, *The Mind and Its Place in Nature*, London: Routledge; reprinted Paterson, N.J.: Littlefield, Adams & Co., 1960.
+* –––, 1959, “A Reply to My Critics”, in *The Philosophy of C.D. Broad* (The Library of Living Philosophers: Volume 10), Paul Arthur Schilpp (ed.), New York: Tudor Publishing Company, 709–831.
+* Brüntrup, Godehard and Ludwig Jaskolla (eds), 2017, *Panpsychism: Contemporary Perspectives*, New York: Oxford University Press.
+* Carnap, Rudolf, 1928, *Der Logische Aufbau der Welt*, reprint of the fourth edition, Frankfurt: Ullstein, 1979; translated as *The Logical Structure of the World/Pseudoproblems in Philosophy*, Berkeley: University of California Press, 1968.
+* Chalmers, David, 1996, *The Conscious Mind. In Search of a Fundamental Theory*, New York: Oxford University Press.
+* –––, 2006, “Strong and Weak Emergence”, in *The Re-Emergence of Emergence*, Philip Clayton and Paul Davies (eds.), Oxford: Oxford University Press, 244–254.
 * –––, 2015, “Panpsychism and Panprotopsychism”, in Alter and Nagasawa 2015: 246–276.
-* –––, 2020, “Idealism and the Mind-Body Problem”, _The Routledge Handbook of Panpsychism_, William Seager (ed.), New York: Routledge, 353–73.
-* Clarke, D.S. (ed.), 2004, _Panpsychism, Past and Recent Selected Readings_, New York: SUNY Press.
-* Coleman, Sam, 2014, “The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence”, _Erkenntnis_, 79(1): 19–44. doi:10.1007/s10670-013-9431-x
+* –––, 2020, “Idealism and the Mind-Body Problem”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 353–73.
+* Clarke, D.S. (ed.), 2004, *Panpsychism, Past and Recent Selected Readings*, New York: SUNY Press.
+* Coleman, Sam, 2014, “The Real Combination Problem: Panpsychism, Micro-Subjects, and Emergence”, *Erkenntnis*, 79(1): 19–44. doi:10.1007/s10670-013-9431-x
 * –––, 2017a, “Panpsychism and Neutral Monism: How to Make up One’s Mind”, in Brüntrup and Jaskolla 2017: 249–82.
-* –––, 2017b, “Neutral Monism. A Saner Solution To The Mind-Body Problem”, _Philosophy Now_, 121: 9–11.
-* –––, 2018, “The Evolution of Nagel’s Panpsychism”, _Klesis_, 41: 180–202.
-* –––, 2022, “Fred’s Red: On the Objectivity and Physicality of Mental Qualities”, _Synthese_, 200(4): 1–27.
-* Cooper, Wesley, 2002, _The Unity of William James’s Thought_, Nashville: Vanderbilt University Press.
-* Crawford, Sean, 2021, “Schlick, Carnap and Feigl on the Mind-Body Problem”, _Routledge Handbook to Logical Empiricism_, Thomas Uebel and Christoph Limbeck-Lilienau (eds.), London: Routledge, 238–47.
-* Dewey, John, 1916, _Essays in Experimental Logic_, Chicago: University of Chicago Press.
-* Eames, Elizabeth Ramsden, 1969, _Bertrand Russell’s Theory of Knowledge_, New York: Braziller.
-* Feigl, Herbert, 1958, “The ‘Mental’ and the ‘Physical’”, _Concepts, Theories, and the Mind-Body Problem_ (Minnesota Studies in the Philosophy of Science: Volume II), Minneapolis: University of Minnesota Press, 370–498.
-* –––, 1975, “Russell and Schlick. A Remarkable Agreement on a Monistic Solution of the Mind-Body Problem”, _Erkenntnis_, 9(1): 11–34.
-* Flage, Daniel E., 1982, “Hume’s Dualism”, _Noûs_, 16(4): 527–542. doi:10.2307/2215205
-* Floridi, Luciano, 2008, “A Defence of Informational Structural Realism”, _Synthese_ 161(2): 219–253. doi:10.1007/s11229-007-9163-z
-* –––, 2009, “Against Digital Ontology”, _Synthese_, 168(1): 151–178. doi:10.1007/s11229-008-9334-6
-* Fodor, Jerry, 1981, _Representations: Philosophical Essays on the Foundations of Cognitive Science_, Cambridge, MA: MIT Press.
-* Fredkin, Edward, 2003, “An Introduction to Digital Philosophy”, _International Journal of Theoretical Physics_, 42(2): 189–247.
-* Gale, Richard, 1997, “John Dewey’s Naturalization of William James”, _The Cambridge Companion to William James_, Ruth Anna Putnam (ed.), Cambridge: Cambridge University Press, 49–68.
-* –––, 2002, “The Metaphysics of John Dewey”, _Transactions of the Charles S. Peirce Society_, 38(4): 477–519.
-* –––, 2010, “The Naturalism of John Dewey”, _The Cambridge Companion to Dewey_, Molly Cochran (ed.), Cambridge: Cambridge University Press, 55–79.
-* Gherab-Martin, Karim J., 2013, “From Structuralism to Neutral Monism in Arthur S. Eddington’s Philosophy of Physics”, _Studies in History and Philosophy of Science_ (Part B: Studies in History and Philosophy of Modern Physics), 44(4): 500–12.
-* Globus, Gordon G., Grover Maxwell, and Irwin Savodnik, 1976, _Consciousness and the Brain: A Scientific and Philosophical Inquiry_, New York: Plenum Press.
-* Godfrey-Smith, Peter, 2013, “Not Sufficiently Reassuring”, _London Review of Books_, 35(2): 20–21.
-* –––, 2014, “John Dewey’s _Experience and Nature_”, _Topoi_, 33(1): 285–91.
-* Goff, Philip, 2017, _Consciousness and Fundamental Reality_, New York: Oxford University Press.
-* Hamilton, Andy, 1992, “Carnap’s Aufbau and the Legacy of Neutral Monism”, in _Science and Subjectivity: The Vienna Circle and Twentieth Century Philosophy_, David Bell and Wilhelm Vossenkuhl (eds.), Berlin: Akademie Verlag, 131–152.
-* Hatfield, Gary, 2002, “Sense-Data and the Philosophy of Mind: Russell, James, and Mach,” _Principia_, 6(2): 203–30.
-* Heil, John, 2013, _Philosophy of Mind. A Contemporary Introduction, 3rd edition_, New York and London: Routledge.
-* Hirst, R. J., 2006, “Phenomenalism”, in Donald M. Borchert (ed.), _Encyclopedia of Philosophy_ (Volume 7), 2nd edition, Detroit: Macmillan Reference USA, pp. 271–277.
-* Holman, Emmett, 2008, “Panpsychism, Physicalism, Neutral Monism and the Russellian Theory of Mind”, _Journal of Consciousness Studies_, 15(5): 48–67.
-* Holt, Edwin B., 1912, “The Place of Illusory Experience in a Realistic World”, in _The New Realism: Coöperative Studies in Philosophy_, Edwin B. Holt, Walter T. Marvin, William Pepperell Montague, Ralph Barton Perry, Walter B. Pitkin, and Edward Gleason Spaulding (eds.), New York: The Macmillan Company, 303–373.
-* –––, 1914, _The Concept of Consciousness_, London: George Allen & Company.
-* Hume, David, 1739, _A Treatise of Human Nature_, L.A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1975.
-* James, William, 1895, “The Knowing of Things Together”, _The Psychological Review_, 2(2): 105–124. doi:10.1037/h0073221
-* –––, 1904a, “A World of Pure Experience”, _Journal of Philosophy, Psychology and Scientific Methods_, 1(20, 21): 533–543, 561–570; reprinted in James 1912: 39–91.
-* –––, 1904b, “Does ‘Consciousness’ Exist?”, _Journal of Philosophy, Psychology and Scientific Methods_, 1(18): 477–491; reprinted in James 1912: 1–38.
-* –––, 1905, “La Notion De Conscience”, _Archives de Psychologie_, V (17); translated as “The Notion of Consciousness”, _Journal of Consciousness Studies_, 12(7) (2005): 55–64.
-* –––, 1912, _Essays in Radical Empiricism_, New York: Longmans, Green, & Co.; reprinted Lincoln: University of Nebraska Press 1996.
-* Johnston, Mark, 1992, “How to Speak of the Colors”, _Philosophical Studies_, 68(3): 221–263.
-* Krauss, Chiara Russo, 2019, _Wundt, Avenarius, and Scientific Psychology: A Debate at the Turn of the Century_, Cham: Palgrave Macmillan.
-* Ladyman, James and Don Ross, 2007, _Everything Must Go: Metaphysics Naturalized_, Oxford: Oxford University Press.
-* Lamberth, David C, 1999, _William James and the Metaphysics of Experience_, Cambridge: Cambridge University Press.
-* Landini, Gregory, 2011, _Russell_, London and New York: Routledge.
-* –––, 2017, “Well-Ordering in the Russell-Newman Controversy”, _Russell: The Journal of Bertrand Russell Studies_, 37 (Winter): 288–306.
-* Lewis, David K., 1966, “An Argument for the Identity Theory”, _The Journal of Philosophy_, 63(1): 17–25. doi:10.2307/2024524
-* –––, 1994, “Reduction of Mind”, in _A Companion to the Philosophy of Mind_, Samuel Guttenplan (ed.), Oxford: Blackwell, 197–209.
-* Lenin, V.I., 1909, _Materializm i Empirio-Kritisizm_, Translated as _Materialism and Empirio-Criticism_, Moscow: Foreign Languages Publishing House, 1959.
-* Lockwood, Michael, 1981, “What Was Russell’s Neutral Monism?”, _The Foundations of Analytic Philosophy_ (Midwest Studies in Philosophy: Volume VI): 143–158. doi:10.1111/j.1475-4975.1981.tb00433.x
-* Lloyd, Seth, 2006, _Programming the Universe: From the Big Bang to Quantum Computers_, London: Jonathan Cape.
-* Mach, Ernst, 1883, _Die Mechanik in ihrer Eniwickelung historisch-kritisch dargestellt_, fourth edition translated as _The Science of Mechanics_, Chicago: Open Court, 1919.
-* –––, 1886, _Die Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen_, fifth edition translated as _The Analysis of Sensations and the Relation of Physical to the Psychical_, New York: Dover, 1959.
-* –––, 1894, _Populärwisschenschaftliche Vorlesungen_, reprint of the fifth edition of 1923, Vienna: Böhlau Verlag, 1923; translated as _Popular Scientific Lectures_, La Salle: The Open Court Publishing Company, 1943.
-* –––, 1905, _Erkenntnis und Irrtum_, fifth edition translated as _Knowledge and Error_, Dordrecht: Reidel, 1976.
-* Maclean, Gülberk Koҫ, 2014, _Bertrand Russell’s Bundle Theory of Particulars_, New York: Bloomsbury Academic.
-* Martin, Charles B., 2008, _The Mind in Nature_, Oxford: Oxford University Press.
+* –––, 2017b, “Neutral Monism. A Saner Solution To The Mind-Body Problem”, *Philosophy Now*, 121: 9–11.
+* –––, 2018, “The Evolution of Nagel’s Panpsychism”, *Klesis*, 41: 180–202.
+* –––, 2022, “Fred’s Red: On the Objectivity and Physicality of Mental Qualities”, *Synthese*, 200(4): 1–27.
+* Cooper, Wesley, 2002, *The Unity of William James’s Thought*, Nashville: Vanderbilt University Press.
+* Crawford, Sean, 2021, “Schlick, Carnap and Feigl on the Mind-Body Problem”, *Routledge Handbook to Logical Empiricism*, Thomas Uebel and Christoph Limbeck-Lilienau (eds.), London: Routledge, 238–47.
+* Dewey, John, 1916, *Essays in Experimental Logic*, Chicago: University of Chicago Press.
+* Eames, Elizabeth Ramsden, 1969, *Bertrand Russell’s Theory of Knowledge*, New York: Braziller.
+* Feigl, Herbert, 1958, “The ‘Mental’ and the ‘Physical’”, *Concepts, Theories, and the Mind-Body Problem* (Minnesota Studies in the Philosophy of Science: Volume II), Minneapolis: University of Minnesota Press, 370–498.
+* –––, 1975, “Russell and Schlick. A Remarkable Agreement on a Monistic Solution of the Mind-Body Problem”, *Erkenntnis*, 9(1): 11–34.
+* Flage, Daniel E., 1982, “Hume’s Dualism”, *Noûs*, 16(4): 527–542. doi:10.2307/2215205
+* Floridi, Luciano, 2008, “A Defence of Informational Structural Realism”, *Synthese* 161(2): 219–253. doi:10.1007/s11229-007-9163-z
+* –––, 2009, “Against Digital Ontology”, *Synthese*, 168(1): 151–178. doi:10.1007/s11229-008-9334-6
+* Fodor, Jerry, 1981, *Representations: Philosophical Essays on the Foundations of Cognitive Science*, Cambridge, MA: MIT Press.
+* Fredkin, Edward, 2003, “An Introduction to Digital Philosophy”, *International Journal of Theoretical Physics*, 42(2): 189–247.
+* Gale, Richard, 1997, “John Dewey’s Naturalization of William James”, *The Cambridge Companion to William James*, Ruth Anna Putnam (ed.), Cambridge: Cambridge University Press, 49–68.
+* –––, 2002, “The Metaphysics of John Dewey”, *Transactions of the Charles S. Peirce Society*, 38(4): 477–519.
+* –––, 2010, “The Naturalism of John Dewey”, *The Cambridge Companion to Dewey*, Molly Cochran (ed.), Cambridge: Cambridge University Press, 55–79.
+* Gherab-Martin, Karim J., 2013, “From Structuralism to Neutral Monism in Arthur S. Eddington’s Philosophy of Physics”, *Studies in History and Philosophy of Science* (Part B: Studies in History and Philosophy of Modern Physics), 44(4): 500–12.
+* Globus, Gordon G., Grover Maxwell, and Irwin Savodnik, 1976, *Consciousness and the Brain: A Scientific and Philosophical Inquiry*, New York: Plenum Press.
+* Godfrey-Smith, Peter, 2013, “Not Sufficiently Reassuring”, *London Review of Books*, 35(2): 20–21.
+* –––, 2014, “John Dewey’s *Experience and Nature*”, *Topoi*, 33(1): 285–91.
+* Goff, Philip, 2017, *Consciousness and Fundamental Reality*, New York: Oxford University Press.
+* Hamilton, Andy, 1992, “Carnap’s Aufbau and the Legacy of Neutral Monism”, in *Science and Subjectivity: The Vienna Circle and Twentieth Century Philosophy*, David Bell and Wilhelm Vossenkuhl (eds.), Berlin: Akademie Verlag, 131–152.
+* Hatfield, Gary, 2002, “Sense-Data and the Philosophy of Mind: Russell, James, and Mach,” *Principia*, 6(2): 203–30.
+* Heil, John, 2013, *Philosophy of Mind. A Contemporary Introduction, 3rd edition*, New York and London: Routledge.
+* Hirst, R. J., 2006, “Phenomenalism”, in Donald M. Borchert (ed.), *Encyclopedia of Philosophy* (Volume 7), 2nd edition, Detroit: Macmillan Reference USA, pp. 271–277.
+* Holman, Emmett, 2008, “Panpsychism, Physicalism, Neutral Monism and the Russellian Theory of Mind”, *Journal of Consciousness Studies*, 15(5): 48–67.
+* Holt, Edwin B., 1912, “The Place of Illusory Experience in a Realistic World”, in *The New Realism: Coöperative Studies in Philosophy*, Edwin B. Holt, Walter T. Marvin, William Pepperell Montague, Ralph Barton Perry, Walter B. Pitkin, and Edward Gleason Spaulding (eds.), New York: The Macmillan Company, 303–373.
+* –––, 1914, *The Concept of Consciousness*, London: George Allen & Company.
+* Hume, David, 1739, *A Treatise of Human Nature*, L.A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1975.
+* James, William, 1895, “The Knowing of Things Together”, *The Psychological Review*, 2(2): 105–124. doi:10.1037/h0073221
+* –––, 1904a, “A World of Pure Experience”, *Journal of Philosophy, Psychology and Scientific Methods*, 1(20, 21): 533–543, 561–570; reprinted in James 1912: 39–91.
+* –––, 1904b, “Does ‘Consciousness’ Exist?”, *Journal of Philosophy, Psychology and Scientific Methods*, 1(18): 477–491; reprinted in James 1912: 1–38.
+* –––, 1905, “La Notion De Conscience”, *Archives de Psychologie*, V (17); translated as “The Notion of Consciousness”, *Journal of Consciousness Studies*, 12(7) (2005): 55–64.
+* –––, 1912, *Essays in Radical Empiricism*, New York: Longmans, Green, & Co.; reprinted Lincoln: University of Nebraska Press 1996.
+* Johnston, Mark, 1992, “How to Speak of the Colors”, *Philosophical Studies*, 68(3): 221–263.
+* Krauss, Chiara Russo, 2019, *Wundt, Avenarius, and Scientific Psychology: A Debate at the Turn of the Century*, Cham: Palgrave Macmillan.
+* Ladyman, James and Don Ross, 2007, *Everything Must Go: Metaphysics Naturalized*, Oxford: Oxford University Press.
+* Lamberth, David C, 1999, *William James and the Metaphysics of Experience*, Cambridge: Cambridge University Press.
+* Landini, Gregory, 2011, *Russell*, London and New York: Routledge.
+* –––, 2017, “Well-Ordering in the Russell-Newman Controversy”, *Russell: The Journal of Bertrand Russell Studies*, 37 (Winter): 288–306.
+* Lewis, David K., 1966, “An Argument for the Identity Theory”, *The Journal of Philosophy*, 63(1): 17–25. doi:10.2307/2024524
+* –––, 1994, “Reduction of Mind”, in *A Companion to the Philosophy of Mind*, Samuel Guttenplan (ed.), Oxford: Blackwell, 197–209.
+* Lenin, V.I., 1909, *Materializm i Empirio-Kritisizm*, Translated as *Materialism and Empirio-Criticism*, Moscow: Foreign Languages Publishing House, 1959.
+* Lockwood, Michael, 1981, “What Was Russell’s Neutral Monism?”, *The Foundations of Analytic Philosophy* (Midwest Studies in Philosophy: Volume VI): 143–158. doi:10.1111/j.1475-4975.1981.tb00433.x
+* Lloyd, Seth, 2006, *Programming the Universe: From the Big Bang to Quantum Computers*, London: Jonathan Cape.
+* Mach, Ernst, 1883, *Die Mechanik in ihrer Eniwickelung historisch-kritisch dargestellt*, fourth edition translated as *The Science of Mechanics*, Chicago: Open Court, 1919.
+* –––, 1886, *Die Analyse der Empfindungen und das Verhältnis des Physischen zum Psychischen*, fifth edition translated as *The Analysis of Sensations and the Relation of Physical to the Psychical*, New York: Dover, 1959.
+* –––, 1894, *Populärwisschenschaftliche Vorlesungen*, reprint of the fifth edition of 1923, Vienna: Böhlau Verlag, 1923; translated as *Popular Scientific Lectures*, La Salle: The Open Court Publishing Company, 1943.
+* –––, 1905, *Erkenntnis und Irrtum*, fifth edition translated as *Knowledge and Error*, Dordrecht: Reidel, 1976.
+* Maclean, Gülberk Koҫ, 2014, *Bertrand Russell’s Bundle Theory of Particulars*, New York: Bloomsbury Academic.
+* Martin, Charles B., 2008, *The Mind in Nature*, Oxford: Oxford University Press.
 * Maxwell, Grover, 1976, “Scientific Results and the Mind-Brain Issue: Some Afterthoughts”, in Globus et al. 1976: 329–358. doi:10.1007/978-1-4684-2196-5\_13
-* –––, 1978, “Rigid Designators and Mind-Brain Identity”, in _Perception and Cognition: Issues in the Foundations of Psychology_ (Minnesota Studies in the Philosophy of Science, Volume IX), Wade C. Savage (ed.), Minneapolis: University of Minnesota Press, 365–405.
+* –––, 1978, “Rigid Designators and Mind-Brain Identity”, in *Perception and Cognition: Issues in the Foundations of Psychology* (Minnesota Studies in the Philosophy of Science, Volume IX), Wade C. Savage (ed.), Minneapolis: University of Minnesota Press, 365–405.
 * Montero, Barbara Gail, 2015, “Russellian Physicalism”, in Alter and Nagasawa 2015: 209–223.
-* Muirhead, J.H., 1924, _Contemporary British Philosophy_, London: Allen & Unwin.
-* Nagel, Thomas, 2000, “The Psychophysical Nexus”, in _New Essays on the A Priori_, Paul Boghossian and Christopher Peacocke (eds.), Oxford: Clarendon Press; revised and reprinted in Nagel 2002: 194–235.
-* –––, 2002, _Concealment and Exposure_, Oxford: Oxford University Press.
-* –––, 2012, _Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False_, Oxford: Oxford University Press.
-* Pace Giannotta, Andrea, 2018, “The Concept of Experience in Husserl’s Phenomenology and James’ Radical Empiricism”, _Pragmatism Today_, 9(2): 33–42.
-* –––, 2021, “Panqualityism as a Critical Metaphysics for Neurophenomenology”, _Constructivist Foundations_, 16(2): 163–6.
-* Pereboom, Derk, 2011, _Consciousness and the Prospects of Physicalism_, New York: Oxford University Press.
+* Muirhead, J.H., 1924, *Contemporary British Philosophy*, London: Allen & Unwin.
+* Nagel, Thomas, 2000, “The Psychophysical Nexus”, in *New Essays on the A Priori*, Paul Boghossian and Christopher Peacocke (eds.), Oxford: Clarendon Press; revised and reprinted in Nagel 2002: 194–235.
+* –––, 2002, *Concealment and Exposure*, Oxford: Oxford University Press.
+* –––, 2012, *Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False*, Oxford: Oxford University Press.
+* Pace Giannotta, Andrea, 2018, “The Concept of Experience in Husserl’s Phenomenology and James’ Radical Empiricism”, *Pragmatism Today*, 9(2): 33–42.
+* –––, 2021, “Panqualityism as a Critical Metaphysics for Neurophenomenology”, *Constructivist Foundations*, 16(2): 163–6.
+* Pereboom, Derk, 2011, *Consciousness and the Prospects of Physicalism*, New York: Oxford University Press.
 * –––, 2015, “Consciousness, Physicalism, and Absolutely Intrinsic Properties”, in Alter and Nagasawa 2015: 300–323.
-* Perry, Ralph Barton, 1912, _Present Philosophical Tendencies_, Longmans, Green, and Co.; reprinted: New York: George Braziller, 1955.
-* Persson, Ingmar, 1985, _The Primacy of Perception: Towards a Neutral Monism_, Lund: Library of Theoria (Gleerup).
-* –––, 2006, “Consciousness as Existence as a Form of Neutral Monism”, _Journal of Consciousness Studies_, 13(7–8): 128–146.
-* Petzoldt, Joseph, 1900, _Einführung in die Philosophie der Reinen Erfahrung. Erster Band: Die Bestimmtheit der Seele_, Leipzig: B.G. Teubner.
-* –––, 1904, _Einführung in die Philosophie der Reinen Erfahrung. Zweiter Band: Auf dem Wege zum Dauernden_, Leipzig: B.G. Teubner.
-* –––, 1906, _Das Weltproblem vom Standpunkte des relativistischen Positivismus aus_, 2nd edition, Leipzig: B.G. Teubner, 1912.
-* Pincock, Christopher, 2018, “Neutral Monism”, _The Bloomsbury Companion to Bertrand Russell_, Russell Wahl (ed.), New York: Bloomsbury, 312–33.
-* Popper, Karl R. and John C. Eccles, 1977, _The Self and Its Brain_, London: Routledge & Kegan Paul.
-* Preston, John, 2021, “Phenomenalism, or Neutral Monism, in Mach’s _Analysis of Sensations_”, _Interpreting Mach: Critical Essays_, John Preston (ed.), Cambridge: Cambridge University Press, 235–57.
-* Price, H.H., 1932, _Perception_, 2nd revised edition, London: Methuen, 1950.
-* Riehl, Alois, 1887, _Der Philosophische Kritizismus, Geschichte und System III: Zur Wissenschaftstheorie und Metaphysik_, translated by A. Fairbanks as _The Principles of the Critical Philosophy: Introduction to the Theory of Science and Metaphysics_, London: Keegan Paul, Trench, Trübner & Co. 1894
-* Rosenkrantz, Gary and Joshua Hoffman (eds.), 2011, _Historical Dictionary of Metaphysics_, Lanham, Toronto, and Plymouth: Scarecrow Press.
+* Perry, Ralph Barton, 1912, *Present Philosophical Tendencies*, Longmans, Green, and Co.; reprinted: New York: George Braziller, 1955.
+* Persson, Ingmar, 1985, *The Primacy of Perception: Towards a Neutral Monism*, Lund: Library of Theoria (Gleerup).
+* –––, 2006, “Consciousness as Existence as a Form of Neutral Monism”, *Journal of Consciousness Studies*, 13(7–8): 128–146.
+* Petzoldt, Joseph, 1900, *Einführung in die Philosophie der Reinen Erfahrung. Erster Band: Die Bestimmtheit der Seele*, Leipzig: B.G. Teubner.
+* –––, 1904, *Einführung in die Philosophie der Reinen Erfahrung. Zweiter Band: Auf dem Wege zum Dauernden*, Leipzig: B.G. Teubner.
+* –––, 1906, *Das Weltproblem vom Standpunkte des relativistischen Positivismus aus*, 2nd edition, Leipzig: B.G. Teubner, 1912.
+* Pincock, Christopher, 2018, “Neutral Monism”, *The Bloomsbury Companion to Bertrand Russell*, Russell Wahl (ed.), New York: Bloomsbury, 312–33.
+* Popper, Karl R. and John C. Eccles, 1977, *The Self and Its Brain*, London: Routledge & Kegan Paul.
+* Preston, John, 2021, “Phenomenalism, or Neutral Monism, in Mach’s *Analysis of Sensations*”, *Interpreting Mach: Critical Essays*, John Preston (ed.), Cambridge: Cambridge University Press, 235–57.
+* Price, H.H., 1932, *Perception*, 2nd revised edition, London: Methuen, 1950.
+* Riehl, Alois, 1887, *Der Philosophische Kritizismus, Geschichte und System III: Zur Wissenschaftstheorie und Metaphysik*, translated by A. Fairbanks as *The Principles of the Critical Philosophy: Introduction to the Theory of Science and Metaphysics*, London: Keegan Paul, Trench, Trübner & Co. 1894
+* Rosenkrantz, Gary and Joshua Hoffman (eds.), 2011, *Historical Dictionary of Metaphysics*, Lanham, Toronto, and Plymouth: Scarecrow Press.
 * Russell, Bertrand, 1914a, “On Scientific Method in Philosophy”, in Russell 1917: 97–124.
-* –––, 1914b, “On the Nature of Acquaintance”, _The Monist_, 24: 1–16, 161–87, 435–53; reprinted in Russell 1956c: 125–74.
-* –––, 1914c, “On the Relation of Sense-Data to Physics”, _Scientia_, 16: 1–27; reprinted in Russell 1917: 145–179.
-* –––, 1917, _Mysticism and Logic_, London: Allen & Unwin.
-* –––, 1918a, “The Philosophy of Logical Atomism”, _The Monist_, 28: 595–527; ibid, 29: p33–63, 190–222, 345–80; reprinted in Russell 1956c: 175–283.
+* –––, 1914b, “On the Nature of Acquaintance”, *The Monist*, 24: 1–16, 161–87, 435–53; reprinted in Russell 1956c: 125–74.
+* –––, 1914c, “On the Relation of Sense-Data to Physics”, *Scientia*, 16: 1–27; reprinted in Russell 1917: 145–179.
+* –––, 1917, *Mysticism and Logic*, London: Allen & Unwin.
+* –––, 1918a, “The Philosophy of Logical Atomism”, *The Monist*, 28: 595–527; ibid, 29: p33–63, 190–222, 345–80; reprinted in Russell 1956c: 175–283.
 * –––, 1918b, “On Sensations and Ideas”, in Russell 1986.
-* –––, 1919, “On Propositions: What They Are and How They Mean”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 2: 1–43; reprinted in Russell 1956c: 283–321.
-* –––, 1921, _The Analysis of Mind_, Reprinted: London: George Allen & Unwin, 1978.
+* –––, 1919, “On Propositions: What They Are and How They Mean”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 2: 1–43; reprinted in Russell 1956c: 283–321.
+* –––, 1921, *The Analysis of Mind*, Reprinted: London: George Allen & Unwin, 1978.
 * –––, 1924, “Logical Atomism”, in J.H. Muirhead (ed.) 1924; reprinted in Russell 1956c: 321–343.
-* –––, 1927a, _The Analysis of Matter_, London: George Allen & Unwin.
-* –––, 1927b, _An Outline of Philosophy_, London: George Allen & Unwin.
-* –––, 1931, _The Scientific Outlook_, 2nd edition, London: Unwin Books, 1949.
+* –––, 1927a, *The Analysis of Matter*, London: George Allen & Unwin.
+* –––, 1927b, *An Outline of Philosophy*, London: George Allen & Unwin.
+* –––, 1931, *The Scientific Outlook*, 2nd edition, London: Unwin Books, 1949.
 * –––, 1946, “Reply to My Critics”, in Schilpp 1946: 679–741.
-* –––, 1948, _Human Knowledge. Its Scope and Limits_, London: Allen & Unwin; reprinted: New York: Simon & Schuster, 1978.
+* –––, 1948, *Human Knowledge. Its Scope and Limits*, London: Allen & Unwin; reprinted: New York: Simon & Schuster, 1978.
 * –––, 1956a, “Mind and Matter”, in Russell 1956b.
-* –––, 1956b, _Portraits from Memory_, London: Allen & Unwin.
-* –––, 1956c, _Logic and Knowledge. Essays 1901–1955_, Robert C. Marsh (ed.), London: Allen & Unwin.
-* –––, 1959, _My Philosophical Development_, London: George Allen \&Unwin.
-* –––, 1968, _Autobiography_ (Volume Two), London: George Allen & Unwin.
-* –––, 1986, _The Philosophy of Logical Atomism and Other Essays 1914–1918_ (Collected Papers: Volume 8), J.G. Slater (ed.), London: George Allen & Unwin: 252–55.
-* –––, 1996, “Analysis of Mind”, _A fresh Look at Empiricism 1927–42_ (Collected Papers of Bertrand Russell, Volume 10), John Slater and Peter Köllner (ed.), New York: Routledge.
-* Sayre, Kenneth, 1976, _Cybernetics and the Philosophy of Mind_, Atlantic Highlands: Humanities Press.
-* Schaffer, Jonathan, 2016, “Monism”, _The Stanford Encyclopedia of Philosophy (Spring 2016 edition)_, Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2016/entries/monism/).
-* Schlick, Moritz, 1918, _Allgemeine Erkenntnislehre_, second edition translated by A.E. Blumenberg as _General Theory of Knowledge_, New York: Springer, 2013
-* Schilpp, Paul Arthur, (ed.), 1946, _The Philosophy of Bertrand Russell_ (The Library of Living Philosophers: Volume 5), Evanston, Ill.: The Library of Living Philosophers, Inc.
-* Schneider, Susan, 2017, “Idealism, or Something Near Enough”, _Idealism: New Essays in Metaphysics_, Tyron Goldschmidt and Kenneth L. Pearce (eds.), New York: Oxford University Press, 275–90.
-* Seager, William, 2016, _Theories of Consciousness_, second edition, New York: Routledge.
-* Sellars, Wilfrid, 1963, _Science, Perception and Reality_, New York: Humanities Press.
-* Shani, Itay, 2022, “Eden Benumbed: A Critique of Panqualityism and the Disclosure View of Consciousness”, _Philosophia_, 50: 233–56.
-* Silberstein, Michael and Anthony Chemero, 2015, “Extending Neutral Monism to the Hard Problem”, _Journal of Consciousness Studies_, 22(3–4): 181–94.
-* Silberstein, Michael, 2020, “Neutral Monism Reborn: Breaking the Gridlock Between Emergence and Inherence”, _The Routledge Handbook of Panpsychism_, William Seager (ed.), New York: Routledge, 204–17.
-* Skrbina, David, 2005, _Panpsychism in the West_, Cambridge, MA: MIT Press.
-* –––, 2014, “Dualism, Dual-Aspectism, and the Mind”, in _Contemporary Dualism: A Defense_, Lavazza and Robinson (eds.), New York and London: Routledge, 220–244.
-* Spinoza, Baruch, 1677, _Ethics_, in _The Collected Works of Spinoza_, Edwin Curley (ed. and trans.), Princeton: Princeton University Press.
+* –––, 1956b, *Portraits from Memory*, London: Allen & Unwin.
+* –––, 1956c, *Logic and Knowledge. Essays 1901–1955*, Robert C. Marsh (ed.), London: Allen & Unwin.
+* –––, 1959, *My Philosophical Development*, London: George Allen \&Unwin.
+* –––, 1968, *Autobiography* (Volume Two), London: George Allen & Unwin.
+* –––, 1986, *The Philosophy of Logical Atomism and Other Essays 1914–1918* (Collected Papers: Volume 8), J.G. Slater (ed.), London: George Allen & Unwin: 252–55.
+* –––, 1996, “Analysis of Mind”, *A fresh Look at Empiricism 1927–42* (Collected Papers of Bertrand Russell, Volume 10), John Slater and Peter Köllner (ed.), New York: Routledge.
+* Sayre, Kenneth, 1976, *Cybernetics and the Philosophy of Mind*, Atlantic Highlands: Humanities Press.
+* Schaffer, Jonathan, 2016, “Monism”, *The Stanford Encyclopedia of Philosophy (Spring 2016 edition)*, Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2016/entries/monism/).
+* Schlick, Moritz, 1918, *Allgemeine Erkenntnislehre*, second edition translated by A.E. Blumenberg as *General Theory of Knowledge*, New York: Springer, 2013
+* Schilpp, Paul Arthur, (ed.), 1946, *The Philosophy of Bertrand Russell* (The Library of Living Philosophers: Volume 5), Evanston, Ill.: The Library of Living Philosophers, Inc.
+* Schneider, Susan, 2017, “Idealism, or Something Near Enough”, *Idealism: New Essays in Metaphysics*, Tyron Goldschmidt and Kenneth L. Pearce (eds.), New York: Oxford University Press, 275–90.
+* Seager, William, 2016, *Theories of Consciousness*, second edition, New York: Routledge.
+* Sellars, Wilfrid, 1963, *Science, Perception and Reality*, New York: Humanities Press.
+* Shani, Itay, 2022, “Eden Benumbed: A Critique of Panqualityism and the Disclosure View of Consciousness”, *Philosophia*, 50: 233–56.
+* Silberstein, Michael and Anthony Chemero, 2015, “Extending Neutral Monism to the Hard Problem”, *Journal of Consciousness Studies*, 22(3–4): 181–94.
+* Silberstein, Michael, 2020, “Neutral Monism Reborn: Breaking the Gridlock Between Emergence and Inherence”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 204–17.
+* Skrbina, David, 2005, *Panpsychism in the West*, Cambridge, MA: MIT Press.
+* –––, 2014, “Dualism, Dual-Aspectism, and the Mind”, in *Contemporary Dualism: A Defense*, Lavazza and Robinson (eds.), New York and London: Routledge, 220–244.
+* Spinoza, Baruch, 1677, *Ethics*, in *The Collected Works of Spinoza*, Edwin Curley (ed. and trans.), Princeton: Princeton University Press.
 * Stace, W.T., 1946, “Russell’s Neutral Monism”, in Schilpp 1946: 351–384.
-* Stoljar, Daniel, 2001, “Two Conceptions of the Physical”, _Philosophy and Phenomenological Research_ 62(2): 253–281. doi:10.2307/2653699
-* Strawson, Galen, 1994, _Mental Reality_, Cambridge, MA: MIT Press.
-* –––, 2006, “Panpsychism? Reply to Commentators with a Celebration of Descartes”, in Galen Strawson (ed.), _Consciousness and Its Place in Nature. Does Physicalism Entail Panpsychism?_, Exeter: Imprint Academic, 184–280.
+* Stoljar, Daniel, 2001, “Two Conceptions of the Physical”, *Philosophy and Phenomenological Research* 62(2): 253–281. doi:10.2307/2653699
+* Strawson, Galen, 1994, *Mental Reality*, Cambridge, MA: MIT Press.
+* –––, 2006, “Panpsychism? Reply to Commentators with a Celebration of Descartes”, in Galen Strawson (ed.), *Consciousness and Its Place in Nature. Does Physicalism Entail Panpsychism?*, Exeter: Imprint Academic, 184–280.
 * –––, 2015, “Real Materialism”, in Alter and Nagasawa 2015: 161–208.
 * –––, 2016, “Mind and Being. The Primacy of Panpsychism”, in Brüntrup and Jaskolla 2017: 161–208.
-* –––, 2020, “What Does ‘Physical’ Mean? A Prolegomenon to Physicalist Panpsychism”, _The Routledge Handbook of Panpsychism_, William Seager (ed.), New York: Routledge, 317–39.
+* –––, 2020, “What Does ‘Physical’ Mean? A Prolegomenon to Physicalist Panpsychism”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 317–39.
 * Stubenberg, Leopold, 2015, “Russell, Russellian Monism, and Panpsychism”, in Alter and Nagasawa 2015: 58–90.
 * –––, 2017, “Neutral Monism and Panpsychism”, in Brüntrup and Jaskolla 2017: 349–68.
-* Tegmark, Max, 2014, _Our Mathematical Universe. My Quest for the Ultimate Nature of Reality_, New York: Alfred A. Knopf.
-* Textor, Mark, 2021a, “Mach’s Neutral Monism”, _HOPOS: The Journal of the International Society for the History of Philosophy of Science_, 11(1): 143–65.
-* –––, 2021b, _The Disappearance of the Soul and the Turn against Metaphysics: Austrian Philosophy 1874–1918_, New York: Oxford University Press.
-* Tully, Robert E., 1988, “Russell’s Neutral Monism”, _Russell: The Journal of Bertrand Russell Studies_, 8(1): 209–24.
-* –––, 1993, “Three Studies of Neutral Monism”, _Russell: The Journal of Bertrand Russell Studies_, 13(1): 5–35 and 13(2): 185–202.
-* –––, 2003, “Russell’s Neutral Monism”, in Nicholas Griffin (ed.), _The Cambridge Companion to Bertrand Russell_, Cambridge: Cambridge University Press, 332–70.
-* Unger, Peter, 1999, “The Mystery of the Physical and the Matter of Qualities: A Paper for Professor Schaffer”, _New Directions in Philosophy_ (Midwest Studies in Philosophy: Volume 23): 75–99.
-* Van Cleve, James, 2022, “Two Problems in Spinoza’s Theory of Mind”, _Oxford Studies in the Philosophy of Mind_ (Volume 2), Uriah Kriegel (ed.), New York: Oxford University Press.
-* Van Gulick, Robert, 2014, “Consciousness”, _The Stanford Encyclopedia of Philosophy (Spring 2014 edition)_, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2014/entries/consciousness/)>.
-* Velmans, Max, 2008, “Reflexive Monism”, _Journal of Consciousness Studies_, 15(2): 5–50.
-* Westphal, Jonathan, 2016, _The Mind-Body Problem_, Cambridge, MA: MIT Press.
+* Tegmark, Max, 2014, *Our Mathematical Universe. My Quest for the Ultimate Nature of Reality*, New York: Alfred A. Knopf.
+* Textor, Mark, 2021a, “Mach’s Neutral Monism”, *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 11(1): 143–65.
+* –––, 2021b, *The Disappearance of the Soul and the Turn against Metaphysics: Austrian Philosophy 1874–1918*, New York: Oxford University Press.
+* Tully, Robert E., 1988, “Russell’s Neutral Monism”, *Russell: The Journal of Bertrand Russell Studies*, 8(1): 209–24.
+* –––, 1993, “Three Studies of Neutral Monism”, *Russell: The Journal of Bertrand Russell Studies*, 13(1): 5–35 and 13(2): 185–202.
+* –––, 2003, “Russell’s Neutral Monism”, in Nicholas Griffin (ed.), *The Cambridge Companion to Bertrand Russell*, Cambridge: Cambridge University Press, 332–70.
+* Unger, Peter, 1999, “The Mystery of the Physical and the Matter of Qualities: A Paper for Professor Schaffer”, *New Directions in Philosophy* (Midwest Studies in Philosophy: Volume 23): 75–99.
+* Van Cleve, James, 2022, “Two Problems in Spinoza’s Theory of Mind”, *Oxford Studies in the Philosophy of Mind* (Volume 2), Uriah Kriegel (ed.), New York: Oxford University Press.
+* Van Gulick, Robert, 2014, “Consciousness”, *The Stanford Encyclopedia of Philosophy (Spring 2014 edition)*, Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2016/entries/monism/](https://plato.stanford.edu/archives/spr2014/entries/consciousness/)>.
+* Velmans, Max, 2008, “Reflexive Monism”, *Journal of Consciousness Studies*, 15(2): 5–50.
+* Westphal, Jonathan, 2016, *The Mind-Body Problem*, Cambridge, MA: MIT Press.
 * Wishon, Donovan, 2015, “Russell on Russellian Monism”, in Alter and Nagasawa 2015: 91–118
-* –––, 2016, “Panpsychism, Panprotopsychism, and Neutral Monism”, _Philosophy: Mind_ (MacMillan Interdisciplinary Handbooks), Brian McLaughlin (ed.), Farmington Hills, MI: MacMillan, 51–70.
-* –––, 2020, “Russell’s Neutral Monism and Panpsychism”, _The Routledge Handbook of Panpsychism_, William Seager (ed.), New York: Routledge, 87–102.
-* –––, 2021, “Radical Empiricism, Neutral Monism, and the Elements of Mind”, _The Monist_, 104(1): 125–51.
+* –––, 2016, “Panpsychism, Panprotopsychism, and Neutral Monism”, *Philosophy: Mind* (MacMillan Interdisciplinary Handbooks), Brian McLaughlin (ed.), Farmington Hills, MI: MacMillan, 51–70.
+* –––, 2020, “Russell’s Neutral Monism and Panpsychism”, *The Routledge Handbook of Panpsychism*, William Seager (ed.), New York: Routledge, 87–102.
+* –––, 2021, “Radical Empiricism, Neutral Monism, and the Elements of Mind”, *The Monist*, 104(1): 125–51.
 
 ## Academic Tools
 
@@ -635,4 +634,4 @@ We would like to give a special thanks to Galen Strawson for many insightful dis
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Leopold Stubenberg](https://philosophy.nd.edu/people/emeritus/leopold-stubenberg/)\
-Donovan Wishon <[_dwishon@olemiss.edu_](mailto:dwishon%40olemiss%2eedu)>
+Donovan Wishon <[*dwishon@olemiss.edu*](mailto:dwishon%40olemiss%2eedu)>

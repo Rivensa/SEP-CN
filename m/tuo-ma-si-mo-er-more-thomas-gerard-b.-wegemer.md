@@ -8,7 +8,6 @@
 
 这个条目仅限于托马斯·莫尔对哲学的理解和实践，正如他所认为的那样，受到圣经启示的启迪。在智力上，他最深受柏拉图、亚里士多德、西塞罗、塞内加、圣经以及拉丁和希腊教父（尤其是奥古斯丁、耶罗尼米、巴西略和克里索斯托姆；请参见其他互联网资源中的协议）的影响。
 
- 
 ---
 
 ## 1. 引言
@@ -107,7 +106,7 @@ In fact, his criticisms of King Henry VII in Epigram 19 were so severe that soon
 
 《乌托邦》无疑是莫尔最著名、最具争议的对话，它结合了柏拉图和西塞罗的对话形式，其中包含了对每位作者的数十次引用，从标题开始。
 
-> *关于国家最佳状态和乌托邦新岛的小册子，真正的黄金手册，同样有益又有趣，由著名演说家托马斯·莫尔伦敦市著名市民和副郡长撰写（首次于 1551 年以英文出版，题为《关于国家最佳状态和乌托邦新岛的真正黄金手册，同样有益又有趣》）。* 
+> *关于国家最佳状态和乌托邦新岛的小册子，真正的黄金手册，同样有益又有趣，由著名演说家托马斯·莫尔伦敦市著名市民和副郡长撰写（首次于 1551 年以英文出版，题为《关于国家最佳状态和乌托邦新岛的真正黄金手册，同样有益又有趣》）。*
 > （首次以英文于 1551 年出版，题为《关于国家最佳状态和乌托邦新岛的真正黄金手册，同样有益又有趣》）
 
 是西塞罗将柏拉图的《理想国》翻译为《国家》并在他自己的《共和国》和《法律》中与柏拉图进行对话，莫尔在乌托邦中继续了这个对话。然而，莫尔从卢西安的对话中添加了喜剧元素，而忽视乌托邦中的幽默意味就是忽视他特有的喜剧讽刺。
@@ -453,7 +452,6 @@ Abbreviated citations used in the entry are given below.
   
 * –––, 2011, *Young Thomas More and the Arts of Liberty*, New York: Cambridge University Press. doi:10.1017/CBO9780511921834
   
-
 The journal [*Moreana*](https://www.euppublishing.com/loi/more) (1963– ) is published biannually by the Association Amici Thomae Mori and contains much important material.
 
 ### G. Bibliographic Studies

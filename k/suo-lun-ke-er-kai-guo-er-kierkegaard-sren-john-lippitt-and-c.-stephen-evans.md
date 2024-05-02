@@ -6,8 +6,6 @@
 
 Søren Aabye Kierkegaard（1813年至1855年）是一个惊人地多产的作家，他几乎所有的作品都是在1840年代写成的，很难分类，涵盖了哲学、神学、宗教和虔诚的写作、文学批评、心理学和社会批判。Kierkegaard的哲学方式反对系统建构，在方法上更多地借鉴了古代，特别是他的偶像苏格拉底，尽管他的作品也强烈而创造性地借鉴了《圣经》和其他基督教来源。反对系统建构意味着Kierkegaard经常被理解为黑格尔的主要对手，但近几十年的研究挑战了和复杂化了这种观点，表明Kierkegaard的一些核心思想是黑格尔思想的创造性发展，并且他批判的主要对象是当时对他有影响力的丹麦黑格尔派，而不是黑格尔本人（尤其是参见Stewart 2003和下文第4节）。他经常被称为“存在主义之父”，这个标签至少掩盖了一些，尤其是对那些将存在主义与萨特等无神论者联系起来的人而言。Kierkegaard的思想确实影响了现象学和存在主义传统中的思想家（包括海德格尔、萨特、贾斯帕斯、马塞尔和莱文纳斯），但也影响了非常不同的哲学传统中的思想家，比如维特根斯坦（他著名地将他描述为十九世纪“圣人”和“迄今为止最深刻的思想家”）。除了影响哲学家和神学家（包括他自己路德教传统内外的人），Kierkegaard的思想还影响了各种小说家和诗人（包括亨利克·易卜生、弗兰兹·卡夫卡、米格尔·德·乌纳穆诺、奥古斯特·斯特林伯格、W·H·奥登、沃克·波西、约翰·厄普代克、理查德·赖特、R·S·托马斯和黑文·金梅尔）；艺术家和电影制作人（包括爱德华·蒙克和卡尔·西奥多·德莱尔）；精神病医生和心理治疗师（包括路德维希·宾斯万格、卡尔·罗杰斯、罗洛·梅、R·D·兰恩和欧文·亚隆）。关于这些影响在哲学、神学和文学中的文章，请参见Carlisle 2013、Welz 2013、Shakespeare 2013、Rudd 2013、Lippitt 2013b、Barrett 2013、Lisi 2013和Pyper 2013。Kierkegaard之所以对如此多样化的人物产生影响，一个原因是他关注作为一个存在的、有限的人类意味着什么这个问题，他将这个关注与“内在性”联系起来，与他认为误解的想法形成对比，即人们可以以超然的方式理解现实，没有特定的观点。他认为，他所处的时代在各种方面都忘记了这个基本的真理，这是一种巨大的失败，体现在它的哲学和神学中。
 
- 
-
 ---
 
 ## 1. 生平与作品
@@ -176,7 +174,6 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
   Kierkegaard’s *Magister* dissertation.
   
-
 1843
 
 * *Either-Or: A Fragment of Life* edited by Victor Eremita (*Enten-Eller. Et Livs-Fragment*)
@@ -193,7 +190,6 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
 * *Four Upbuilding Discourses* by S. Kierkegaard (*Fire opbyggelige Taler)*
   
-
 1844
 
 * *Two Upbuilding Discourses* by S. Kierkegaard (*To opbyggelige Taler*)
@@ -210,7 +206,6 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
 * *Four Edifying Discourses* by S. Kierkegaard (*Fire opbyggelige Taler*)
   
-
 1845
 
 * *Three Discourses on Imagined Occasions* by S. Kierkegaard (*Tre Taler ved tœnkte Leiligheder)*
@@ -223,7 +218,6 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
 * Article in *The Fatherland* (*Fœdrelandet)* in which Frater Taciturnus (a character from *Stages on Life’s Way*) asked to be attacked in *The Corsair*
   
-
 1846
 
 * *Concluding Unscientific Postscript to Philosophical Fragments: A Mimetic-Pathetic-Dialectical Compilation, An Existential Contribution, by Johannes Climacus, published by S. Kierkegaard *(Affslutende Uvidenskabelig Efterskrift til de philosophiske Smuler)**
@@ -244,7 +238,6 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
   Published posthumously.
   
-
 1849
 
 * Second edition of *Either-Or*
@@ -270,14 +263,12 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
   Published posthumously.
   
-
 1854
 
 * “Was Bishop Mynster ‘a witness to the truth,’ one of ‘the true witnesses to the truth’—*is this the truth?*” by S. Kierkegaard in *Fœdrelandet* (“Var Biskop Mynster et ‘Sandhedsvidne’, et af ‘de rette Sandhedsvidner’, *er dette Sandhed?*”)
   
   The first of 21 articles in *Fœdrelandet*.
   
-
 1855
 
 * *This Must Be Said, So Let It Be Said,* by S. Kierkegaard (*Dette skal siges; saa vœre det da sagt*)
@@ -290,7 +281,6 @@ Kierkegaard 学术界的另一个重大分歧涉及那些认真对待 Kierkegaar
   
 * *The Changelessness of God: A Discourse* by S. Kierkegaard (*Guds Uforanderlighed. En Tale*)
   
-
 ## Bibliography
 
 ### A. Primary Literature: Works by Kierkegaard
@@ -357,14 +347,12 @@ The most used translations for most of Kierkegaard’s works is the *Kierkegaar
   
 * [WL] *Works of Love*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 16), Princeton, NJ: Princeton University Press, 1995.
   
-
 ##### Journals, Notebooks and Other Papers
 
 * [KJN] *Kierkegaard’s Journals and Notebooks*, N. J. Cappelørn et al. (ed.), Princeton, NJ: Princeton University Press, 2007–2020.
   
   Multi-volume translation of all Kierkegaard’s journals, notebooks and miscellaneous papers, based on the relevant parts of SKS.
   
-
 Two older selections from Kierkegaard’s unpublished works are:
 
 * [JP] *Søren Kierkegaards Journals and Papers*, Howard V. and Edna H. Hong (ed. and trans.), Bloomington: Indiana University Press, 1967–78, 7 volumes.
@@ -698,7 +686,6 @@ We have here focused on books: articles are only referenced if referred to in th
   
 * –––, 2014, *Kierkegaard’s Concept of Faith*, Grand Rapids, MI: Eerdmans.
   
-
 ## Academic Tools
 
 > | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=kierkegaard). |

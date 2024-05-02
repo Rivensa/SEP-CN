@@ -1,10 +1,8 @@
 # 个人自主权 personal (Sarah Buss and Andrea Westlund)
 
-_首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 日_
+*首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 日*
 
 自主代理是自我管理的代理。但是什么是自我管理的代理？自我管理并不能保证一个人在未来会有更多的选择，或者拥有自己最想要的机会。此外，一个人可以自我管理，却无法理解对错之间的区别，因此似乎一个自主代理可以做错事而不为其行为负责。那么，这种自我关系的必要和充分特征是什么？哲学家们对这个问题提供了各种不同的竞争性答案。
-
-
 
 ***
 
@@ -28,7 +26,7 @@ _首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 �
 
 ## 2. 个人自主权的四个或多或少重叠的解释
 
-哲学家们提出了许多不同的关于自主行为者与自己动机的特殊关系的解释。根据一个著名的概念，我们可以称之为“_一致主义_”，如果一个行为者之所以采取某种行动是因为这种动机与某种代表她对该行动的观点的心理状态相一致（和谐），那么她就能够自主地控制自己的行动。相关的心理状态因解释而异。根据一个流行的说法，一个行为者的观点是由她关于她的一级欲望中哪个欲望促使她行动的最高级欲望构成的。（Frankfurt 1988c）\[[1](https://plato.stanford.edu/entries/personal-autonomy/notes.html#note-1)]根据另一个说法，她的观点是由她（同时或长期）对哪些行动（最）值得执行的评价判断构成的。（Watson 1975）\[[2](https://plato.stanford.edu/entries/personal-autonomy/notes.html#note-2)]还有一个解释认为，行为者的行动与她更或多或少长期的计划之间也必须和谐一致（Bratman 1979 和 2007）。还有一些人提到了构成“关怀”的相对稳定的情感状态网络（Frankfurt 1988f 和 1999d，Jaworska，Shoemaker 2003）\[[3](https://plato.stanford.edu/entries/personal-autonomy/notes.html#note-3)]，或者行为者的性格特征（Dworkin, R.），或者她最为“整合”的心理状态（Arpaly 和 Schroeder）。
+哲学家们提出了许多不同的关于自主行为者与自己动机的特殊关系的解释。根据一个著名的概念，我们可以称之为“*一致主义*”，如果一个行为者之所以采取某种行动是因为这种动机与某种代表她对该行动的观点的心理状态相一致（和谐），那么她就能够自主地控制自己的行动。相关的心理状态因解释而异。根据一个流行的说法，一个行为者的观点是由她关于她的一级欲望中哪个欲望促使她行动的最高级欲望构成的。（Frankfurt 1988c）\[[1](https://plato.stanford.edu/entries/personal-autonomy/notes.html#note-1)]根据另一个说法，她的观点是由她（同时或长期）对哪些行动（最）值得执行的评价判断构成的。（Watson 1975）\[[2](https://plato.stanford.edu/entries/personal-autonomy/notes.html#note-2)]还有一个解释认为，行为者的行动与她更或多或少长期的计划之间也必须和谐一致（Bratman 1979 和 2007）。还有一些人提到了构成“关怀”的相对稳定的情感状态网络（Frankfurt 1988f 和 1999d，Jaworska，Shoemaker 2003）\[[3](https://plato.stanford.edu/entries/personal-autonomy/notes.html#note-3)]，或者行为者的性格特征（Dworkin, R.），或者她最为“整合”的心理状态（Arpaly 和 Schroeder）。
 
 所有这些观点都反映了这样一种直觉：如果一个人在执行某个行动时，她同时却站在一个她否定自己所做之事的立场上，那么这个行动就不能归因于她自己。更准确地说，如果一个行动不能成为自主权的一个实例，那么它就不能成为代理人的行为。根据这种直觉，如果一个人否定或以其他方式与自己的动机脱离关系，那么这些动机的力量就独立于她的权威。另一方面，如果她默许或明确支持这些动机，那么她的行动就是在她的许可下进行的，尽管不一定是她的命令。在什么条件下，一个人才算是支持或否定自己的动机？每个观点对这个问题都给出了不同的答案。
 
@@ -114,111 +112,111 @@ _首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 �
 
 ## Bibliography
 
-* Albritton, R., 1985, “Freedom of Will and Freedom of Action,” _Proceedings and Addresses of the American Philosophical Association_, 59(2): 239–251.
-* Allison, H., 1990, _Kant’s Theory of Freedom_, Cambridge: Cambridge University Press.
-* Anderson, J., 2003, “Autonomy and the Authority of Personal Commitments: From Internal Coherence to Social Normativity,” _Philosophical Explorations_, 6(2): 90–108.
-* –––, 2008, “Disputing Autonomy: Second-Order Desires and the Dynamics of Ascribing Autonomy,” _Sats: The Nordic Journal of Philosophy_, 9(1): 1–26.
+* Albritton, R., 1985, “Freedom of Will and Freedom of Action,” *Proceedings and Addresses of the American Philosophical Association*, 59(2): 239–251.
+* Allison, H., 1990, *Kant’s Theory of Freedom*, Cambridge: Cambridge University Press.
+* Anderson, J., 2003, “Autonomy and the Authority of Personal Commitments: From Internal Coherence to Social Normativity,” *Philosophical Explorations*, 6(2): 90–108.
+* –––, 2008, “Disputing Autonomy: Second-Order Desires and the Dynamics of Ascribing Autonomy,” *Sats: The Nordic Journal of Philosophy*, 9(1): 1–26.
 * Anderson, J. and Honneth, A., 2005, “Autonomy, Vulnerability, Recognition, and Justice,” in Christman and Anderson, 127–49.
-* Anderson, J. and Lux, W., 2004, “Knowing Your Own Strength: Accurate Self-Assessment as a Requirement for Personal Autonomy,” _Philosophy, Psychiatry, & Psychology_, 11(14): 279–94.
-* Anscombe, G. E., 1985, _Intention_, 2nd ed., Ithaca, New York: Cornell University Press.
-* Aristotle, 1999, _Nicomachean Ethics_, I and VII, T. Irwin (trans.), 2nd ed., Indianapolis: Hackett Publishing Co.
-* Arpaly, N., 2004, “Which Autonomy?” in J. Campbell, M. O’Rourke, and D. Shier (eds.), _Freedom and Determinism_, Cambridge, MA: MIT Press, 173–88.
-* –––, 2006, _Merit, Meaning, and Human Bondage: An Essay on Free Will_, Princeton: Princeton University Press.
-* Arpaly, N. and Schroeder, T., 1999, “Praise, Blame, and the Whole Self,” _Philosophical Studies_, 93: 161–88.
-* –––, 2013, _In Praise of Desire_, Oxford: Oxford University Press.
-* Audi, R., 1993, _Action, Intention, and Reason_, Ithaca: Cornell University Press.
-* Ayer, A.J., 1954, “Freedom and Necessity,” in _Philosophical Essays_, New York: St. Martin’s Press, 3–20.
-* –––, 1980, “Free-Will and Rationality,” in Zak van Straaten (ed.), _Philosophical Subjects: Essays Presented to P.F. Strawson_, Oxford: Clarendon, 1–13.
-* Benn, S. , 1988, _A Theory of Freedom_, New York: Cambridge University Press.
-* Bennett, J, 1980, “Accountability,” in _Philosophical Subjects: Essays Presented to P.F. Strawson_, van Straaten, Z. (ed.), Oxford: Clarendon Press, 14–47.
-* Benson, J., 1983, “Who is the Autonomous Man?”_Philosophy_, 58: 5–17.
-* Benson, P., 1994, “Free Agency and Self-worth,” _Journal of Philosophy_, 91: 650–68.
+* Anderson, J. and Lux, W., 2004, “Knowing Your Own Strength: Accurate Self-Assessment as a Requirement for Personal Autonomy,” *Philosophy, Psychiatry, & Psychology*, 11(14): 279–94.
+* Anscombe, G. E., 1985, *Intention*, 2nd ed., Ithaca, New York: Cornell University Press.
+* Aristotle, 1999, *Nicomachean Ethics*, I and VII, T. Irwin (trans.), 2nd ed., Indianapolis: Hackett Publishing Co.
+* Arpaly, N., 2004, “Which Autonomy?” in J. Campbell, M. O’Rourke, and D. Shier (eds.), *Freedom and Determinism*, Cambridge, MA: MIT Press, 173–88.
+* –––, 2006, *Merit, Meaning, and Human Bondage: An Essay on Free Will*, Princeton: Princeton University Press.
+* Arpaly, N. and Schroeder, T., 1999, “Praise, Blame, and the Whole Self,” *Philosophical Studies*, 93: 161–88.
+* –––, 2013, *In Praise of Desire*, Oxford: Oxford University Press.
+* Audi, R., 1993, *Action, Intention, and Reason*, Ithaca: Cornell University Press.
+* Ayer, A.J., 1954, “Freedom and Necessity,” in *Philosophical Essays*, New York: St. Martin’s Press, 3–20.
+* –––, 1980, “Free-Will and Rationality,” in Zak van Straaten (ed.), *Philosophical Subjects: Essays Presented to P.F. Strawson*, Oxford: Clarendon, 1–13.
+* Benn, S. , 1988, *A Theory of Freedom*, New York: Cambridge University Press.
+* Bennett, J, 1980, “Accountability,” in *Philosophical Subjects: Essays Presented to P.F. Strawson*, van Straaten, Z. (ed.), Oxford: Clarendon Press, 14–47.
+* Benson, J., 1983, “Who is the Autonomous Man?”*Philosophy*, 58: 5–17.
+* Benson, P., 1994, “Free Agency and Self-worth,” *Journal of Philosophy*, 91: 650–68.
 * –––, 2000, “Feeling Crazy: Self-worth and the Social Character of Responsibility,” in Mackenzie and Stoljar, 72–93.
 * –––, 2005, “Taking Ownership: Authority and Voice in Autonomous Agency,” in Christman and Anderson.
-* Berlin, I.,1969, _Four Essays on Liberty_, Oxford: Oxford University Press.
-* Berofsky, B. (ed.), 1966, _Free Will and Determinism_, New York: Harper and Row.
-* –––, 1983, “Autonomy,” in _How Many Questions? Essays in Honor of Sidney Morgenbesser_, L. Cauman, I. Levi, C. Parsons, and R. Schwartz (eds.), Indianapolis: Hackett Publishing Co., 301–19.
-* –––, 1987, _Freedom from Necessity: The Metaphysical Basis of Responsibility_, New York: Routledge and Kegan Paul.
-* –––, 1992, “On the Absolute Freedom of the Will,” _American Philosophical Quarterly_, 29: 279–89.
-* –––, 1995, _Liberation from Self: A Theory of Personal Autonomy_, New York: Routledge and Kegan Paul.
-* –––, 2003, “Identification, the Self, and Autonomy,” _Social Philosophy and Policy_, 20(2): 199–220.
+* Berlin, I.,1969, *Four Essays on Liberty*, Oxford: Oxford University Press.
+* Berofsky, B. (ed.), 1966, *Free Will and Determinism*, New York: Harper and Row.
+* –––, 1983, “Autonomy,” in *How Many Questions? Essays in Honor of Sidney Morgenbesser*, L. Cauman, I. Levi, C. Parsons, and R. Schwartz (eds.), Indianapolis: Hackett Publishing Co., 301–19.
+* –––, 1987, *Freedom from Necessity: The Metaphysical Basis of Responsibility*, New York: Routledge and Kegan Paul.
+* –––, 1992, “On the Absolute Freedom of the Will,” *American Philosophical Quarterly*, 29: 279–89.
+* –––, 1995, *Liberation from Self: A Theory of Personal Autonomy*, New York: Routledge and Kegan Paul.
+* –––, 2003, “Identification, the Self, and Autonomy,” *Social Philosophy and Policy*, 20(2): 199–220.
 * –––, 2005, “Autonomy Without Free Will,” in Taylor 2005, 58–86.
-* Bishop, J., 1989, _Natural Agency: An Essay on the Causal Theory of Action_, Cambridge: Cambridge University Press.
-* Bittner, R, “Autonomy, and Then,” _Philosophical Explanations_, 5(3): 217–28.
-* Bok, H., 1998, _Freedom and Responsibility_, Princeton: Princeton University Press.
-* Bonjour, L. 1976, “Determinism, Libertarianism, and Agent-causation,” _Southern Journal of Philosophy_, 14: 145–56.
-* Brand, M. and Walton, D. (eds.), 1976, _Action Theory_, Dordrecht: D. Reidel.
-* Bratman, M., 1979, “Practical Reasoning and Weakness of the Will,” _Noûs_, 13: 131–51.
-* –––, 1987, _Intention, Plans, and Practical Reason_, Cambridge, Mass.: Harvard University Press.
-* –––, 1996, “Identification, Decision, and Treating as a Reason,” _Philosophical Topics_, 24: 1–18.
-* –––, 1999, _Faces of Intention: Selected Essays on Intention and Agency_, Cambridge: Cambridge University Press.
+* Bishop, J., 1989, *Natural Agency: An Essay on the Causal Theory of Action*, Cambridge: Cambridge University Press.
+* Bittner, R, “Autonomy, and Then,” *Philosophical Explanations*, 5(3): 217–28.
+* Bok, H., 1998, *Freedom and Responsibility*, Princeton: Princeton University Press.
+* Bonjour, L. 1976, “Determinism, Libertarianism, and Agent-causation,” *Southern Journal of Philosophy*, 14: 145–56.
+* Brand, M. and Walton, D. (eds.), 1976, *Action Theory*, Dordrecht: D. Reidel.
+* Bratman, M., 1979, “Practical Reasoning and Weakness of the Will,” *Noûs*, 13: 131–51.
+* –––, 1987, *Intention, Plans, and Practical Reason*, Cambridge, Mass.: Harvard University Press.
+* –––, 1996, “Identification, Decision, and Treating as a Reason,” *Philosophical Topics*, 24: 1–18.
+* –––, 1999, *Faces of Intention: Selected Essays on Intention and Agency*, Cambridge: Cambridge University Press.
 * –––, 2002, “Hierarchy, Circularity, and Double Reduction,” in Buss and Overton, 65–85.
-* –––, 2003a, “A Desire of One’s Own,” _Journal of Philosophy_, 100(5): 221–42.
-* –––, 2003b, “Autonomy and Hierarchy,” _Social Philosophy and Policy_, 20(2): 156–76.
-* –––, 2004, “Three Theories of Self-Governance,” _Philosophical Topics_, 32: 21–46.
+* –––, 2003a, “A Desire of One’s Own,” *Journal of Philosophy*, 100(5): 221–42.
+* –––, 2003b, “Autonomy and Hierarchy,” *Social Philosophy and Policy*, 20(2): 156–76.
+* –––, 2004, “Three Theories of Self-Governance,” *Philosophical Topics*, 32: 21–46.
 * –––, 2005, “Planning Agency, Autonomous Agency,” in J. Taylor 2005, 33–57.
-* –––, 2007, _Structures of Agency: Essays_, Oxford: Oxford University Press.
-* –––, 2013, “The Fecundity of Planning Agency,” in _Oxford Studies in Agency and Responsibility_, 1(1): 47–69.
-* Buss, S., 1994, “Autonomy Reconsidered,” _Midwest Studies in Philosophy_, 9: 95–121.
-* –––, 1997, “Weakness of Will,” _Pacific Philosophical Quarterly_, 78(1): 13–44.
-* –––, 2012, “Autonomous Agency: Self-determination in the Passive Mode,” _Ethics_, 122 (4): 647–91.
-* –––, 2013, “The Possibility of Action as the Impossibility of Certain forms of Self–alienation,” in _Oxford Studies in Agency and Responsibility_, 1(1): 12–48.
-* Buss, S. and H. Overton (eds.), 2002, _Contours of Agency: Essays on Themes from Harry Frankfurt_, Cambridge, Mass.: MIT Press.
+* –––, 2007, *Structures of Agency: Essays*, Oxford: Oxford University Press.
+* –––, 2013, “The Fecundity of Planning Agency,” in *Oxford Studies in Agency and Responsibility*, 1(1): 47–69.
+* Buss, S., 1994, “Autonomy Reconsidered,” *Midwest Studies in Philosophy*, 9: 95–121.
+* –––, 1997, “Weakness of Will,” *Pacific Philosophical Quarterly*, 78(1): 13–44.
+* –––, 2012, “Autonomous Agency: Self-determination in the Passive Mode,” *Ethics*, 122 (4): 647–91.
+* –––, 2013, “The Possibility of Action as the Impossibility of Certain forms of Self–alienation,” in *Oxford Studies in Agency and Responsibility*, 1(1): 12–48.
+* Buss, S. and H. Overton (eds.), 2002, *Contours of Agency: Essays on Themes from Harry Frankfurt*, Cambridge, Mass.: MIT Press.
 * Chisholm, R., 1966, “Freedom and Action,” in Lehrer 1966, 11–44.
-* –––, 1971, “Reflections on Human Agency,” _Idealistic Studies_, 1: 36–46.
-* –––, 1976a, _Person and Object_, La Salle, Ill.: Open Court Press.
-* –––, 1976b, “The Agent as Cause,” in _Action Theory_, M. Brand and D. Walton (eds.), Dordrecht: D. Reidel Publishing Co.
-* –––, 1982a, “Replies,” in _Roderick M. Chisholm_, R.J. Bogdan (ed.), Dordrecht: D. Reidel Publishing Co., 1–16.
+* –––, 1971, “Reflections on Human Agency,” *Idealistic Studies*, 1: 36–46.
+* –––, 1976a, *Person and Object*, La Salle, Ill.: Open Court Press.
+* –––, 1976b, “The Agent as Cause,” in *Action Theory*, M. Brand and D. Walton (eds.), Dordrecht: D. Reidel Publishing Co.
+* –––, 1982a, “Replies,” in *Roderick M. Chisholm*, R.J. Bogdan (ed.), Dordrecht: D. Reidel Publishing Co., 1–16.
 * –––, 1982b, “Human Freedom and the Self,” in Watson, 24–45.
 * –––, 1995, “Agents, Causes, and Events: The Problem of Free Will,” in O’Connor 1995a, 95–100.
-* Christman, J., 1988, “Constructing the Inner Citadel: Recent Work on the Concept of Autonomy,” _Ethics_, 99: 109–124.
-* ––– (ed.), 1989, _The Inner Citadel: Essays on Individual Autonomy_, New York: Oxford University Press.
-* –––, 1991, “Autonomy and Personal History,” _Canadian Journal of Philosophy_, 21: 1–24.
-* –––, 1993, “Defending Historical Autonomy: A Reply to Professor Mele,” _Canadian Journal of Philosophy_, 23: 281–90.
-* –––, 2004, “Relational Autonomy, Liberal Individualism, and the Social Constitution of Selves,” _Philosophical Studies_, 117: 143–64.
-* Christman, J. and Anderson, J. (eds), 2005, _Autonomy and the Challenges to Liberalism: New Essays_, J. Christman and J. Anderson, New York: Cambridge University Press.
-* Clarke, R., 1993, “Toward a Credible Agent-Causal Account of Free Will,” _Noûs_, 27: 191–203, reprinted in O’Connor 1995a, 201–15.
-* –––, 1996, “Agent-Causation and Event-Causation in the Production of Free Action,” _Philosophical Topics_, 24: 19–48.
-* –––, 2003, _Libertarian Accounts of Free Will_, Oxford: Oxford University Press.
-* –––, 2008, “Incompatibilist (Nondeterministic) Theories of Free Will,” in _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[Incompatibilist (Nondeterministic) Theories of Free Will (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/incompatibilism-theories/)>.
-* –––, 2014, _Omissions_, New York: Oxford University Press.
-* Clarke, R., McKenna, M., and Smith, A. (eds.), 2015, _The Nature of Moral Responsibility_, New York: Oxford University Press.
-* Clarke, R. and Reed, T., 2015, “Free Will and Agential Powers,” in _Oxford Studies in Agency and Responsibility_, 3(1): 6–33.
-* Copp, D., 2005, “The Normativity of Self-Grounded Reason,” _Social Philosophy and Policy_, 22 (2): 165–203.
-* Cuypers, S., 2006, “The Trouble with Externalist Compatibilist Autonomy,” in _Philosophical Studies_, 129 (2): 171–196.
-* Darwall, S., 2006, “The Value of Autonomy and Autonomy of the Will,” _Ethics: An International Journal of Social, Political, and Legal Philosophy_, 116(2): 263–84.
-* Davidson, D., 1980, _Essays on Actions and Events_, Oxford: Clarendon Press.
-* –––, 1963, “Actions, Reason, and Causes,” _Journal of Philosophy_, 60: 685–700.
-* Deligiorgi, K., 2012, _The Scope of Autonomy: Kant and the Morality of Freedom_, Oxford: Oxford University Press.
-* Dennett, D., 1978, “On Giving Libertarians What They Say They Want,” in _Brainstorms_, Cambridge, Mass.: Branford Books, reprinted in O’Connor 1995a, 43–56.
-* –––, 1984, _Elbow Room: The Varieties of Free Will Worth Wanting_, Cambridge, Mass.: MIT Press.
-* Doris, J., Knobe, J., & Woolfolk, R., 2007, “Variantism about Responsibility,” _Philosophical Perspectives, 21, Philosophy of Mind_: 183–214.
-* Doris, J., 2015, _Talking to Our Selves: Reflection, Ignorance, and Agency_, Oxford: Oxford University Press.
-* Double, R., 1991, _The Non-Reality of Free Will_, Oxford: Oxford University Press.
-* Dworkin, G., 1970, “Acting Freely,” _Noûs_, 4: 367–83.
-* –––, 1976, “Autonomy and Behavior Control,” _Hastings Center Report_, 6: 23–28.
-* –––, 1988, _The Theory and Practice of Autonomy_, New York: Cambridge University Press.
+* Christman, J., 1988, “Constructing the Inner Citadel: Recent Work on the Concept of Autonomy,” *Ethics*, 99: 109–124.
+* ––– (ed.), 1989, *The Inner Citadel: Essays on Individual Autonomy*, New York: Oxford University Press.
+* –––, 1991, “Autonomy and Personal History,” *Canadian Journal of Philosophy*, 21: 1–24.
+* –––, 1993, “Defending Historical Autonomy: A Reply to Professor Mele,” *Canadian Journal of Philosophy*, 23: 281–90.
+* –––, 2004, “Relational Autonomy, Liberal Individualism, and the Social Constitution of Selves,” *Philosophical Studies*, 117: 143–64.
+* Christman, J. and Anderson, J. (eds), 2005, *Autonomy and the Challenges to Liberalism: New Essays*, J. Christman and J. Anderson, New York: Cambridge University Press.
+* Clarke, R., 1993, “Toward a Credible Agent-Causal Account of Free Will,” *Noûs*, 27: 191–203, reprinted in O’Connor 1995a, 201–15.
+* –––, 1996, “Agent-Causation and Event-Causation in the Production of Free Action,” *Philosophical Topics*, 24: 19–48.
+* –––, 2003, *Libertarian Accounts of Free Will*, Oxford: Oxford University Press.
+* –––, 2008, “Incompatibilist (Nondeterministic) Theories of Free Will,” in *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = <[Incompatibilist (Nondeterministic) Theories of Free Will (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/incompatibilism-theories/)>.
+* –––, 2014, *Omissions*, New York: Oxford University Press.
+* Clarke, R., McKenna, M., and Smith, A. (eds.), 2015, *The Nature of Moral Responsibility*, New York: Oxford University Press.
+* Clarke, R. and Reed, T., 2015, “Free Will and Agential Powers,” in *Oxford Studies in Agency and Responsibility*, 3(1): 6–33.
+* Copp, D., 2005, “The Normativity of Self-Grounded Reason,” *Social Philosophy and Policy*, 22 (2): 165–203.
+* Cuypers, S., 2006, “The Trouble with Externalist Compatibilist Autonomy,” in *Philosophical Studies*, 129 (2): 171–196.
+* Darwall, S., 2006, “The Value of Autonomy and Autonomy of the Will,” *Ethics: An International Journal of Social, Political, and Legal Philosophy*, 116(2): 263–84.
+* Davidson, D., 1980, *Essays on Actions and Events*, Oxford: Clarendon Press.
+* –––, 1963, “Actions, Reason, and Causes,” *Journal of Philosophy*, 60: 685–700.
+* Deligiorgi, K., 2012, *The Scope of Autonomy: Kant and the Morality of Freedom*, Oxford: Oxford University Press.
+* Dennett, D., 1978, “On Giving Libertarians What They Say They Want,” in *Brainstorms*, Cambridge, Mass.: Branford Books, reprinted in O’Connor 1995a, 43–56.
+* –––, 1984, *Elbow Room: The Varieties of Free Will Worth Wanting*, Cambridge, Mass.: MIT Press.
+* Doris, J., Knobe, J., & Woolfolk, R., 2007, “Variantism about Responsibility,” *Philosophical Perspectives, 21, Philosophy of Mind*: 183–214.
+* Doris, J., 2015, *Talking to Our Selves: Reflection, Ignorance, and Agency*, Oxford: Oxford University Press.
+* Double, R., 1991, *The Non-Reality of Free Will*, Oxford: Oxford University Press.
+* Dworkin, G., 1970, “Acting Freely,” *Noûs*, 4: 367–83.
+* –––, 1976, “Autonomy and Behavior Control,” *Hastings Center Report*, 6: 23–28.
+* –––, 1988, *The Theory and Practice of Autonomy*, New York: Cambridge University Press.
 * –––, 1989, “The Concept of Autonomy,” in Christman 1989, 54–62.
-* Dworkin, R., 1994, _Life’s Dominion_, New York: Random House, Inc.
-* Ekstrom, L., 1993, “A Coherence Theory of Autonomy,” _Philosophy and Phenomenological Research_, 53: 599–616.
-* Feinberg, J., 1970a, “Causing Voluntary Actions,” in J. Feinberg, _Doing and Deserving_, Princeton: Princeton University Press, 152–86.
-* –––, 1970b, “What Is So Special about Mental Illness?” in J. Feinberg, _Doing and Deserving_, Princeton: Princeton University Press, 272–92.
+* Dworkin, R., 1994, *Life’s Dominion*, New York: Random House, Inc.
+* Ekstrom, L., 1993, “A Coherence Theory of Autonomy,” *Philosophy and Phenomenological Research*, 53: 599–616.
+* Feinberg, J., 1970a, “Causing Voluntary Actions,” in J. Feinberg, *Doing and Deserving*, Princeton: Princeton University Press, 152–86.
+* –––, 1970b, “What Is So Special about Mental Illness?” in J. Feinberg, *Doing and Deserving*, Princeton: Princeton University Press, 272–92.
 * –––, 1989, “Autonomy,” in Christman 1989, 27–53.
-* Fischer, J., 1982, “Responsibility and Control,” _Journal of Philosophy_, 79: 24–40, reprinted in Fischer 1986, 174–90.
-* ––– (ed.), 1986, _Moral Responsibility_, Ithaca: Cornell University Press.
+* Fischer, J., 1982, “Responsibility and Control,” *Journal of Philosophy*, 79: 24–40, reprinted in Fischer 1986, 174–90.
+* ––– (ed.), 1986, *Moral Responsibility*, Ithaca: Cornell University Press.
 * –––, 1987, “Responsiveness and Moral Responsibility,” in Schoeman, 88–106.
-* –––, 1994, _The Metaphysics of Free Will: An Essay on Control_, Cambridge: Cambridge University Press.
-* –––, 1999, “Recent Work on Moral Responsibility,” _Ethics_, 110: 93–139
+* –––, 1994, *The Metaphysics of Free Will: An Essay on Control*, Cambridge: Cambridge University Press.
+* –––, 1999, “Recent Work on Moral Responsibility,” *Ethics*, 110: 93–139
 * –––, 2002, “Frankfurt-Style Compatibilism,” in Buss and Overton 2002, 1–26.
-* –––, 2006, _My Way: Essays on Moral Responsibility_, Oxford: Oxford University Press.
-* –––, 2012, “Responsibility and Autonomy: The Problem of Mission Creep,” _Philosophical Issues_, 22(1): 165–84.
-* –––, 2015, “Responsibility and the Actual Sequence,” _Oxford Studies in Agency and Moral Responsibility_, 3(1): 120–135.
-* –––, 2017, “Responsibility, Autonomy, and the Zygote Argument,” _Journal of Ethics_, 21: 223–237.
-* Fischer, J. and Ravizza,M., 1993, _Perspectives on Moral Responsibility_, Ithaca: Cornell University Press.
-* –––, 1998, _Responsibility and Control: A Theory of Moral Responsibility_, Cambridge: Cambridge University Press.
-* Fischer, J., Kane, R., Pereboom, D., and Vargas, M., 2007, _Four Views on Free Will_, Malden, MA: Blackwell Publishers.
-* Foot, Philippa, 1957, “Free Will as Involving Determinism,” _The Philosophical Review_, 66: 439–50, reprinted in Berofsky 1966, 95–108.
-* Frankfurt, H., 1988a, _The Importance of What We Care About_, Cambridge: Cambridge University Press.
+* –––, 2006, *My Way: Essays on Moral Responsibility*, Oxford: Oxford University Press.
+* –––, 2012, “Responsibility and Autonomy: The Problem of Mission Creep,” *Philosophical Issues*, 22(1): 165–84.
+* –––, 2015, “Responsibility and the Actual Sequence,” *Oxford Studies in Agency and Moral Responsibility*, 3(1): 120–135.
+* –––, 2017, “Responsibility, Autonomy, and the Zygote Argument,” *Journal of Ethics*, 21: 223–237.
+* Fischer, J. and Ravizza,M., 1993, *Perspectives on Moral Responsibility*, Ithaca: Cornell University Press.
+* –––, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
+* Fischer, J., Kane, R., Pereboom, D., and Vargas, M., 2007, *Four Views on Free Will*, Malden, MA: Blackwell Publishers.
+* Foot, Philippa, 1957, “Free Will as Involving Determinism,” *The Philosophical Review*, 66: 439–50, reprinted in Berofsky 1966, 95–108.
+* Frankfurt, H., 1988a, *The Importance of What We Care About*, Cambridge: Cambridge University Press.
 * –––, 1988b, “Alternate Possibilities and Moral Responsibility,” in Frankfurt 1988a, 1–10.
 * –––, 1988c, “Freedom of the Will and the Concept of a Person,” in Frankfurt 1988a, 11–25
 * –––, 1988d, “Three Concepts of Free Action: II,” in Frankfurt 1988a, 47–57.
@@ -226,7 +224,7 @@ _首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 �
 * –––, 1988f, “The Importance of What We Care About,” in Frankfurt 1988a, 80–94.
 * –––, 1988g, “Identification and Wholeheartedness,” in Frankfurt 1988a, 159–76.
 * –––, 1988h, “Rationality and the Unthinkable,” in Frankfurt 1988a, 177–90.
-* –––, 1999a, _Necessity, Volition and Love_, Cambridge: Cambridge University Press.
+* –––, 1999a, *Necessity, Volition and Love*, Cambridge: Cambridge University Press.
 * –––, 1999b, “The Faintest Passion,” in Frankfurt 1999a, 95–107.
 * –––, 1999c, “Autonomy, Necessity, and Love,” in Frankfurt 1999a, 129–41.
 * –––, 1999d, “On Caring,” in Frankfurt 1999a, 155–80.
@@ -237,194 +235,194 @@ _首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 �
 * –––, 2002e, “Reply to T.M. Scanlon,” in Buss and Overton, 184–88.
 * –––, 2002f, “Reply to Richard Moran,” in Buss and Overton, 218–25.
 * –––, 2002g, “Reply to Jonathan Lear,” in Buss and Overton, 293–97.
-* Friedman, M., 1986, “Autonomy and the Split-Level Self,” _Southern Journal of Philosophy_, 24: 19–35.
-* –––, 1989, “Autonomy in Social Context,” in C. Peden and J. Sterva (eds.), _Freedom, Equality, and Social Change_, Lewiston, NY: Edwin Mellen, 158–69.
-* –––, 2003, _Autonomy, Gender, and Politics_, New York: Oxford University Press.
-* Gert, B. and Duggan,T., 1979, “Free Will as the Ability to Will,” _Noûs_, 13: 197–217, reprinted in Fischer 1986, 205–24.
+* Friedman, M., 1986, “Autonomy and the Split-Level Self,” *Southern Journal of Philosophy*, 24: 19–35.
+* –––, 1989, “Autonomy in Social Context,” in C. Peden and J. Sterva (eds.), *Freedom, Equality, and Social Change*, Lewiston, NY: Edwin Mellen, 158–69.
+* –––, 2003, *Autonomy, Gender, and Politics*, New York: Oxford University Press.
+* Gert, B. and Duggan,T., 1979, “Free Will as the Ability to Will,” *Noûs*, 13: 197–217, reprinted in Fischer 1986, 205–24.
 * Ginet, C., 1996, “Might We Have No Choice?” in Lehrer 1966, 87–104.
-* –––, 1962, “Can the Will be Caused?,” _The Philosophical Review_, 71: 49–55.
-* –––, 1990, _On Action_, Cambridge: Cambridge University Press.
-* Greenspan, P., 1978, “Behavior Control and Freedom of Action,” _Philosophical Review_, 87: 225–40, reprinted in Fischer, _Moral Responsibility_, 191–204.
-* –––, 1999, “Impulse and Self-reflection: Frankfurtian Responsibility versus Free Will,” in _Philosophical Topics_, 3(4): 325–40.
-* Hampshire, S., 1965, _Freedom of the Individual_, New York: Harper and Row.
-* –––, 1983, _Thought and Action_, Notre Dame, Ind.: University of Notre Dame Press.
-* Harris, J., 2008, _Of Liberty and Necessity. The Free Will Debate in Eighteenth–Century British Philosophy_, Oxford: Oxford University Press.
-* Hill, T., 2013, “Kantian Autonomy and Contemporary Ideas of Autonomy,” in O. Sensen (ed.), _Kant on Moral Autonomy_, Cambridge: Cambridge University Press, 13–21.
+* –––, 1962, “Can the Will be Caused?,” *The Philosophical Review*, 71: 49–55.
+* –––, 1990, *On Action*, Cambridge: Cambridge University Press.
+* Greenspan, P., 1978, “Behavior Control and Freedom of Action,” *Philosophical Review*, 87: 225–40, reprinted in Fischer, *Moral Responsibility*, 191–204.
+* –––, 1999, “Impulse and Self-reflection: Frankfurtian Responsibility versus Free Will,” in *Philosophical Topics*, 3(4): 325–40.
+* Hampshire, S., 1965, *Freedom of the Individual*, New York: Harper and Row.
+* –––, 1983, *Thought and Action*, Notre Dame, Ind.: University of Notre Dame Press.
+* Harris, J., 2008, *Of Liberty and Necessity. The Free Will Debate in Eighteenth–Century British Philosophy*, Oxford: Oxford University Press.
+* Hill, T., 2013, “Kantian Autonomy and Contemporary Ideas of Autonomy,” in O. Sensen (ed.), *Kant on Moral Autonomy*, Cambridge: Cambridge University Press, 13–21.
 * –––, 1989, “The Kantian Conception of Autonomy,” in Christman, 91–108.
-* Hobart, R., 1934, “Free Will as Involving Determinism and Inconceivable Without It,” _Mind_, 43: 1–27, reprinted in Berofsky 1966, 63–94.
-* Holton, R., 1999, “Intention and Weakness of Will,” _Journal of Philosophy_, 96: 241–62
-* Honderich, T. (ed.), 1973, _Essays on Freedom of Action_, London: Rutledge & Kegan Paul.
-* –––, 1988, _The Consequences of Determinism_, Oxford: Clarendon Press.
-* Horgan, T., 2011, “The Phenomenology of Agency and Freedom: Lessons from Introspection and Lessons from Its Limits,” _Humana Mente_, 15: 77–97.
-* –––, 2015, “Injecting the Phenomenology of Agency into the Free Will Debate,” _Oxford Studies in Agency and Responsibility_, 3: 34–61.
-* Hornsby, J., 2004, “Agency and Actions,” in H. Steward and J. Hyman, eds., 2004, _Agency and Action_, Cambridge: Cambridge University Press, 1–23.
-* –––, 2004, “Agency and Alienation,” in de M. Caro and D. MacArthur (eds.), _Naturalism in Question_, Cambridge, MA: Harvard University Press, 173–87.
-* Hume, D., 1739/2000, _A Treatise of Human Nature_, Norton, D. and Norton, M. (eds.), Oxford: Oxford University Press.
-* –––, 1748/1999, _An Enquiry Concerning Human Understanding_, T. Beauchamp (ed.), Oxford: Oxford University Press.
-* –––, 1751/1975, _An Enquiry Concerning the Principles of Morals_, L. Selby-Bigge (ed.), 3rd. ed. (revised by R. Nidditch), Oxford: Clarendon Press.
-* Hyun, I., 2001, “Authentic Values and Individual Autonomy,” _Journal of Value Inquiry_, 35(2): 195–208.
-* Ismael, J., 2016, _How Physics Makes Us Free_, Oxford: Oxford University Press.
-* Jaworska, A., 2007a, “Caring and Full Moral Standing,” _Ethics_ 117(3): 460–97.
-* –––, 2007b, “Caring and Internality,” _Philosophy and Phenomenological Research_, 74(3): 529–568.
-* –––, 2009, “Caring, Minimal Autonomy, and the Limits of Liberalism,” in H. Lindemann M. Verkerk, and M. Walker (eds.), _Naturalized Bioethics: Toward Responsible Knowing and Practice_, Cambridge: Cambridge University Press, 80–105.
-* –––, 1999, “Respecting the Margins of Agency: Alzheimer’s Patients and the Capacity to Value,” _Philosophy and Public Affairs_, 28(2): 105–38.
-* Kane, R., 1985, _Free Will and Values_, Albany: State University of New York Press.
-* –––, 1996, _The Significance of Free Will_, New York: Oxford University Press.
-* ––– (ed.) 2002, _The Oxford Handbook of Free Will_, New York: Oxford University Press.
-* –––, 2007, “Libertarianism” and “Response to Fischer, Pereboom, and Vargas,” in J. Fischer, R. Kane, D. Pereboom, M. Vargas, _Four Views on Free Will_, Oxford: Blackwell Publishers.
-* Kant, I., 1785, _The Groundwork of the Metaphysics of Morals_, in _Practical Philosophy_, M. Gregor (ed. and trans.), in _The Cambridge Edition of the Works of Immanuel Kant_, P. Guyer and A. Wood (eds.), Cambridge: Cambridge University Press, 1996, 37–108.
-* –––, 1788, _Critique of Practical Reason_, in _Practical Philosophy_, Gregor, M. (ed. and trans.), in _The Cambridge Edition of the Works of Immanuel Kant_, P. Guyer and A. Wood (eds.), Cambridge: Cambridge University Press, 1996, 133–272.
-* –––, 1793, _Religion Within the Boundaries of Mere Reason_, in _Religion and Rational Theology_, G. Giovanni and A. Wood, A. (ed. and trans.), in _The Cambridge Edition of the Works of Immanuel Kant_, P. Guyer and A. Wood (eds.), Cambridge: Cambridge University Press, 1996, 39–216.
-* Kenny, A., 1976, _Freedom, Will, and Power_, Oxford: Blackwell.
-* Killmister, S., 2017, _Taking the Measure of Autonomy: A Four–Dimensional Theory of Self–governance_, Abingdon: Routledge.
-* Knobe, J., 2003, “Intentional Action and Side Effects in Ordinary Language,” _Analysis_, 63: 190–93.
-* Knobe, J and Doris, J. , 2010, “Strawsonian Variations: Folk Morality and the Search for a Unified Theory,” in _The Moral Psychology Handbook_, J. Doris (ed.), Oxford: Oxford University Press.
-* Korsgaard, C., 1996a, “Morality as Freedom,” in _Creating the Kingdom of Ends_, Cambridge: Cambridge University Press.
-* –––, 1996b, _The Sources of Normativity_, Cambridge: Cambridge University Press.
-* –––, 2008, _The Constitution of Agency: Essays on Practical Reason and Moral Psychology_, New York: Oxford University Press.
-* –––, 2009, _Self-Constitution: Agency, Identity, and Integrity_, Oxford: Oxford University Press.
-* LeBar, M., 2005, “Eudaimonist Autonomy,” _American Philosophical Quarterly_, 42(3): 171–83.
-* Lehrer, K. (ed.), 1966, _Freedom and Determinism_, New York: Random House.
-* –––, 1997, _Self-Trust_, Oxford; Oxford University Press.
-* –––, 2003, “Reason and Autonomy,” _Social Philosophy and Policy_, 20(2): 177–98.
-* Leiter, B., 2007, “Nietzsche’s Theory of the Will,” _Philosopher’s Imprint_, 7: 1–15.
-* Levy, N., 1981, “Autonomy and Addiction,” _Canadian Journal of Philosophy_, 36(3): 427–48.
-* Lewis, D., 1981, “Are We Free to Break the Laws?” _Theoria_, 47: 113–21.
-* –––, 1973, “Causation,” _Journal of Philosophy_, 70: 556–67.
-* –––, 1979, “Counterfactual Dependence and Time’s Arrow,” _Noûs_, 13: 455–76.
-* Libet, B., Gleason, C. A., Wright, E. W., and Pearl, D. K., 1983, “Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential): The unconscious initiation of a freely voluntary act,” _Brain_, 106: 623–642.
-* Libet, B.,Wright, E., Gleason, C., 1983, “Readiness potentials preceding unrestricted spontaneous pre-planned voluntary acts,” _Electroencephalographic and Clinical Neurophysiology_, 54: 322–325.
-* Libet, B., 1985, “Unconscious cerebral initiative and the role of conscious will in voluntary action,” _Behavioral and Brain Sciences_, 8: 529–566.
-* Lippert-Rasmussen, K , 2003, “Identification and Responsibility,” _Ethical Theory and Moral Practice_ 6(4): 349–76.
-* Locke, D., 1975, “Three Concepts of Free Action: I,” _Proceedings of the Aristotelian Society_, suppl. vol. 49: 95–112.
-* MacKay, D.M., 1960, “On the Logical Indeterminacy of a Free Choice,” _Mind_, 69: 31–46.
-* –––, 1971, “Choice in a Mechanistic Universe: A Reply to Some Critics,” _British Journal for the Philosophy of Science_, 22: 275–85.
-* –––, 1973, “The Logical Indeterminateness of Human Choice,” _British Journal for the Philosophy of Science_, 24: 405–408.
-* Mackenzie, C. and Stoljar, N. (eds.), 2000, _Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self_, Oxford: Oxford University Press.
-* Malcolm, N., 1968, “The Conceivability of Mechanism,” _The Philosophical Review_, 77: 45–72, reprinted in Watson 1982, 127–49.
-* McGreer, V. and Petit, P., 2015, “The Hard Problem of Responsibility,” _Oxford Studies in Agency and Responsibility_, 3(1): 160–88.
-* McKenna, M., 2005, “Reasons Reactivity & Incompatibilist Intuitions,” _Philosophical Explorations_, 8(2): 131–43.
-* –––, 2008, “A Hard-line Reply to Pereboom’s Four-case Argument,” _Philosophy and Phenomenological Research_, 77(1): 142–59.
-* –––, 2013, “Reasons-Responsiveness, Agents, and Mechanisms,” in _Oxford Studies in Agency and Responsibility_, 1: 151–183.
-* –––, 2014, “Resisting the Manipulation Argument: A Hard-liner Takes it on the Chin,” _Philosophy and Phenomenological Research_, 89: 467–84.
-* Mele, A., 1993, “History and Personal Autonomy,” _Canadian Journal of Philosophy_, 23: 271–80
-* –––, 1995, _Autonomous Agents: From Self-Control to Autonomy_, New York: Oxford University Press.
+* Hobart, R., 1934, “Free Will as Involving Determinism and Inconceivable Without It,” *Mind*, 43: 1–27, reprinted in Berofsky 1966, 63–94.
+* Holton, R., 1999, “Intention and Weakness of Will,” *Journal of Philosophy*, 96: 241–62
+* Honderich, T. (ed.), 1973, *Essays on Freedom of Action*, London: Rutledge & Kegan Paul.
+* –––, 1988, *The Consequences of Determinism*, Oxford: Clarendon Press.
+* Horgan, T., 2011, “The Phenomenology of Agency and Freedom: Lessons from Introspection and Lessons from Its Limits,” *Humana Mente*, 15: 77–97.
+* –––, 2015, “Injecting the Phenomenology of Agency into the Free Will Debate,” *Oxford Studies in Agency and Responsibility*, 3: 34–61.
+* Hornsby, J., 2004, “Agency and Actions,” in H. Steward and J. Hyman, eds., 2004, *Agency and Action*, Cambridge: Cambridge University Press, 1–23.
+* –––, 2004, “Agency and Alienation,” in de M. Caro and D. MacArthur (eds.), *Naturalism in Question*, Cambridge, MA: Harvard University Press, 173–87.
+* Hume, D., 1739/2000, *A Treatise of Human Nature*, Norton, D. and Norton, M. (eds.), Oxford: Oxford University Press.
+* –––, 1748/1999, *An Enquiry Concerning Human Understanding*, T. Beauchamp (ed.), Oxford: Oxford University Press.
+* –––, 1751/1975, *An Enquiry Concerning the Principles of Morals*, L. Selby-Bigge (ed.), 3rd. ed. (revised by R. Nidditch), Oxford: Clarendon Press.
+* Hyun, I., 2001, “Authentic Values and Individual Autonomy,” *Journal of Value Inquiry*, 35(2): 195–208.
+* Ismael, J., 2016, *How Physics Makes Us Free*, Oxford: Oxford University Press.
+* Jaworska, A., 2007a, “Caring and Full Moral Standing,” *Ethics* 117(3): 460–97.
+* –––, 2007b, “Caring and Internality,” *Philosophy and Phenomenological Research*, 74(3): 529–568.
+* –––, 2009, “Caring, Minimal Autonomy, and the Limits of Liberalism,” in H. Lindemann M. Verkerk, and M. Walker (eds.), *Naturalized Bioethics: Toward Responsible Knowing and Practice*, Cambridge: Cambridge University Press, 80–105.
+* –––, 1999, “Respecting the Margins of Agency: Alzheimer’s Patients and the Capacity to Value,” *Philosophy and Public Affairs*, 28(2): 105–38.
+* Kane, R., 1985, *Free Will and Values*, Albany: State University of New York Press.
+* –––, 1996, *The Significance of Free Will*, New York: Oxford University Press.
+* ––– (ed.) 2002, *The Oxford Handbook of Free Will*, New York: Oxford University Press.
+* –––, 2007, “Libertarianism” and “Response to Fischer, Pereboom, and Vargas,” in J. Fischer, R. Kane, D. Pereboom, M. Vargas, *Four Views on Free Will*, Oxford: Blackwell Publishers.
+* Kant, I., 1785, *The Groundwork of the Metaphysics of Morals*, in *Practical Philosophy*, M. Gregor (ed. and trans.), in *The Cambridge Edition of the Works of Immanuel Kant*, P. Guyer and A. Wood (eds.), Cambridge: Cambridge University Press, 1996, 37–108.
+* –––, 1788, *Critique of Practical Reason*, in *Practical Philosophy*, Gregor, M. (ed. and trans.), in *The Cambridge Edition of the Works of Immanuel Kant*, P. Guyer and A. Wood (eds.), Cambridge: Cambridge University Press, 1996, 133–272.
+* –––, 1793, *Religion Within the Boundaries of Mere Reason*, in *Religion and Rational Theology*, G. Giovanni and A. Wood, A. (ed. and trans.), in *The Cambridge Edition of the Works of Immanuel Kant*, P. Guyer and A. Wood (eds.), Cambridge: Cambridge University Press, 1996, 39–216.
+* Kenny, A., 1976, *Freedom, Will, and Power*, Oxford: Blackwell.
+* Killmister, S., 2017, *Taking the Measure of Autonomy: A Four–Dimensional Theory of Self–governance*, Abingdon: Routledge.
+* Knobe, J., 2003, “Intentional Action and Side Effects in Ordinary Language,” *Analysis*, 63: 190–93.
+* Knobe, J and Doris, J. , 2010, “Strawsonian Variations: Folk Morality and the Search for a Unified Theory,” in *The Moral Psychology Handbook*, J. Doris (ed.), Oxford: Oxford University Press.
+* Korsgaard, C., 1996a, “Morality as Freedom,” in *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press.
+* –––, 1996b, *The Sources of Normativity*, Cambridge: Cambridge University Press.
+* –––, 2008, *The Constitution of Agency: Essays on Practical Reason and Moral Psychology*, New York: Oxford University Press.
+* –––, 2009, *Self-Constitution: Agency, Identity, and Integrity*, Oxford: Oxford University Press.
+* LeBar, M., 2005, “Eudaimonist Autonomy,” *American Philosophical Quarterly*, 42(3): 171–83.
+* Lehrer, K. (ed.), 1966, *Freedom and Determinism*, New York: Random House.
+* –––, 1997, *Self-Trust*, Oxford; Oxford University Press.
+* –––, 2003, “Reason and Autonomy,” *Social Philosophy and Policy*, 20(2): 177–98.
+* Leiter, B., 2007, “Nietzsche’s Theory of the Will,” *Philosopher’s Imprint*, 7: 1–15.
+* Levy, N., 1981, “Autonomy and Addiction,” *Canadian Journal of Philosophy*, 36(3): 427–48.
+* Lewis, D., 1981, “Are We Free to Break the Laws?” *Theoria*, 47: 113–21.
+* –––, 1973, “Causation,” *Journal of Philosophy*, 70: 556–67.
+* –––, 1979, “Counterfactual Dependence and Time’s Arrow,” *Noûs*, 13: 455–76.
+* Libet, B., Gleason, C. A., Wright, E. W., and Pearl, D. K., 1983, “Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential): The unconscious initiation of a freely voluntary act,” *Brain*, 106: 623–642.
+* Libet, B.,Wright, E., Gleason, C., 1983, “Readiness potentials preceding unrestricted spontaneous pre-planned voluntary acts,” *Electroencephalographic and Clinical Neurophysiology*, 54: 322–325.
+* Libet, B., 1985, “Unconscious cerebral initiative and the role of conscious will in voluntary action,” *Behavioral and Brain Sciences*, 8: 529–566.
+* Lippert-Rasmussen, K , 2003, “Identification and Responsibility,” *Ethical Theory and Moral Practice* 6(4): 349–76.
+* Locke, D., 1975, “Three Concepts of Free Action: I,” *Proceedings of the Aristotelian Society*, suppl. vol. 49: 95–112.
+* MacKay, D.M., 1960, “On the Logical Indeterminacy of a Free Choice,” *Mind*, 69: 31–46.
+* –––, 1971, “Choice in a Mechanistic Universe: A Reply to Some Critics,” *British Journal for the Philosophy of Science*, 22: 275–85.
+* –––, 1973, “The Logical Indeterminateness of Human Choice,” *British Journal for the Philosophy of Science*, 24: 405–408.
+* Mackenzie, C. and Stoljar, N. (eds.), 2000, *Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self*, Oxford: Oxford University Press.
+* Malcolm, N., 1968, “The Conceivability of Mechanism,” *The Philosophical Review*, 77: 45–72, reprinted in Watson 1982, 127–49.
+* McGreer, V. and Petit, P., 2015, “The Hard Problem of Responsibility,” *Oxford Studies in Agency and Responsibility*, 3(1): 160–88.
+* McKenna, M., 2005, “Reasons Reactivity & Incompatibilist Intuitions,” *Philosophical Explorations*, 8(2): 131–43.
+* –––, 2008, “A Hard-line Reply to Pereboom’s Four-case Argument,” *Philosophy and Phenomenological Research*, 77(1): 142–59.
+* –––, 2013, “Reasons-Responsiveness, Agents, and Mechanisms,” in *Oxford Studies in Agency and Responsibility*, 1: 151–183.
+* –––, 2014, “Resisting the Manipulation Argument: A Hard-liner Takes it on the Chin,” *Philosophy and Phenomenological Research*, 89: 467–84.
+* Mele, A., 1993, “History and Personal Autonomy,” *Canadian Journal of Philosophy*, 23: 271–80
+* –––, 1995, *Autonomous Agents: From Self-Control to Autonomy*, New York: Oxford University Press.
 * –––, 2002, “Autonomy, Self-Control, and Weakness of Will,” in Kane, 529–548.
-* –––, 2004, “The Illusion of Conscious Will and the Causation of Intentional Actions,” _Philosophical Topics_, 32 (1/2): 193–213.
-* –––, 2009, _Effective Intentions: The Power of Conscious Will_, Oxford: Oxford University Press.
-* Meyers, D., 1987, “Personal Autonomy and the Paradox of Feminine Socialization,” _Journal of Philosophy_, 84: 619–28.
-* –––, 1989, _Self, Society, and Personal Choice_, New York: Columbia University Press.
-* Moran, R., 2001, _Authority and Estrangement: An Essay on Self-knowledge_, Princeton: Princeton University Press.
+* –––, 2004, “The Illusion of Conscious Will and the Causation of Intentional Actions,” *Philosophical Topics*, 32 (1/2): 193–213.
+* –––, 2009, *Effective Intentions: The Power of Conscious Will*, Oxford: Oxford University Press.
+* Meyers, D., 1987, “Personal Autonomy and the Paradox of Feminine Socialization,” *Journal of Philosophy*, 84: 619–28.
+* –––, 1989, *Self, Society, and Personal Choice*, New York: Columbia University Press.
+* Moran, R., 2001, *Authority and Estrangement: An Essay on Self-knowledge*, Princeton: Princeton University Press.
 * –––, 2002, “Frankfurt on Identification: Ambiguities of Activity in Mental Life,” in Buss and Overton, 189–217.
-* Morgenbesser, S. and Walsh, J.(eds.), 1962, _Free Will_, Englewood Cliffs, N.J.: Prentice-Hall.
-* Nagel, T., 1986, “The Problem of Autonomy,”in _The View from Nowhere_, New York: Oxford University Press, 110–20, reprinted in O’Connor 1995a, 33–42.
-* Nahmias, E., Mooris, S., Nadelhoffer, T. and Turner, J., 2005, “Surveying Freedom: Four Intuitions about Free Will and Moral Responsibility,” _Philosophical Psychology_, 18: 561–84.
-* Neely, W., 1974, “Freedom and Desire,” _Philosophical Review_, 83: 32–54.
-* Nelkin, D., 2007, “Do We Have a Coherent Set of Intuitions about Moral Responsibility?” _Midwest Studies in Philosophy_ 31: 243–59.
-* –––, 2011, _Making Sense of Freedom and Responsibility_, Oxford: Oxford University Press.
-* Nichols, S. and Knobe, J. , 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuitions,” _Noûs_, 41(4): 663–85.
-* Nozick, R., 1981, _Philosophical Explanations_, Cambridge, Mass.: Harvard University Press.
-* O’Connor, T., 1993, “Indeterminism and Free Agency: Three Recent Views,” _Philosophy and Phenomenological Research_, 53: 499–525.
-* ––– (ed.), 1995a, _Agents, Causes and Events: Essays on Indeterminism and Free Will_, New York: Oxford University Press.
-* –––, 1995b, “Agent Causation,” in O’Connor (ed.), _Agents, Causes, and Events_, New York: Oxford University Press, 173–200.
-* –––, 1996, “Why Agent Causation?” _Philosophical Topics_, 24: 143–51.
-* –––, 2000, _Persons and Causes: The Metaphysics of Free Will_, New York: Oxford University Press.
-* –––, 2000, _Persons and Causes_, New York: Oxford University Press.
-* –––, 2009, “Agent-Causal Power,” in _Dispositions and Causes_, Toby Handfield (ed.), Oxford: Oxford University Press, 184–214.
-* –––, 2010, “Free Will,” _The Stanford Encyclopedia of Philosophy_ (Winter 2010 Edition), Edward N. Zalta (ed.), URL = <[Free Will (Stanford Encyclopedia of Philosophy/Winter 2010 Edition)](https://plato.stanford.edu/archives/win2010/entries/freewill/)>.
-* Oshana, M. (ed.), 2015, _Personal Autonomy and Social Oppression_, Abingdon: Routledge.
-* Pereboom, D., 1995, “Determinism el Dente,” _Nous_, 29: 21–45.
-* –––, 2001, _Living Without Free Will_, Cambridge: Cambridge University Press.
-* –––, 2004, “Is Our Concept of Agent Causation Incoherent?,” _Philosophical Topics_, 32: 275–86.
-* –––, 2006a, “Kant on Transcendental Freedom,” _Philosophy and Phenomenological Research_, 73: 537–67.
-* –––, 2006b, “Reasons Responsiveness, Alternative Possibilities, and Manipulation Arguments Against Compatibilism: Reflections on John Martin Fischer’s _My Way_,” _Philosophical Books_, 47: 198–212.
-* –––, 2008, “A Hard-line Reply to the Multiple-Case Manipulation Argument,” _Philosophy and Phenomenological Research_, 77(1): 160–70.
-* –––, 2009, “Hard Incompatibilism and Its Rivals,” _Philosophical Studies_, 144: 21–33.
-* –––, 2014, _Free Will, Agency, and Meaning in Life_, New York: Oxford University Press.
-* –––, 2015, “The Phenomenology of Agency and Deterministic Agent Causation,” in _Horizons of Authenticity in Phenomenology, Existentialism, and Moral Psychology: Essays in Honor of Charles Guignon_, Megan Altman and Hans Gruenig (eds.), New York: Springer, 2015, 277–94.
-* Pink, T., 2016, _Self–determination_, Oxford: Oxford University Press.
-* Plato, 1997, _Protagoras_, Lombardo,S. and Bell, K. (trans.), in _Plato: Completed Works_, J. Cooper (ed.) and D. Hutchinson (asst. ed.), Indianapolis: Hacket Publishing Company, 746–790.
-* Radoilska, L. (ed.), 2012, _Autonomy and Mental Disorder_, Oxford: Oxford University Press.
-* Reath, A., 2006, _Agency and Autonomy in Kant’s Moral Theory: Selected Essays_, Oxford and New York: Oxford University Press.
-* Reid, T., 1788/1969, _Essays on the Active Powers of Man_, Cambridge, Mass.: MIT Press.
-* Richardson, H., 2001, “Autonomy’s Many Normative Presuppositions,” _American Philosophical Quarterly_, 38: 287–303.
-* Roughly, N., 2002, “The Uses of Hierarchy: Autonomy and Valuing,” _Philosophical Explanations_, 5(3): 167–85.
-* Rowe, W., 1987, “Two Concepts of Freedom,” _The Proceedings and Addresses of the American Philosophical Association_, 61: 43–64; reprinted in O’Connor 1995a, 151–72.
-* –––, 1991, “Responsibility, Agent-Causation, and Freedom: An Eighteenth-Century View,” _Ethics_ 101(2): 237–57, reprinted in Fischer and Ravizza (eds.), _Perspectives on Moral Responsibility_, 263–85.
-* Santiago, J., 2005, “Personal Autonomy: What’s Content Got to Do with It?” _Social Theory and Practice: An International and Interdisciplinary Journal of Social Philosophy_, 31(1): 77–104.
-* Sartorio, C., 2015, “Sensitivity to Reasons and Actual Sequences,” in David Shoemaker (ed.), 2015, _Oxford Studies in Agency and Responsibility_, 3(1): 104–19.
-* –––, 2016, _Causation and Free Will_, Oxford: Oxford University Press.
-* Sartre, J.-P., 1956, _Being and Nothingness_, H. Barnes (trans.), New York: Simon & Schuster.
+* Morgenbesser, S. and Walsh, J.(eds.), 1962, *Free Will*, Englewood Cliffs, N.J.: Prentice-Hall.
+* Nagel, T., 1986, “The Problem of Autonomy,”in *The View from Nowhere*, New York: Oxford University Press, 110–20, reprinted in O’Connor 1995a, 33–42.
+* Nahmias, E., Mooris, S., Nadelhoffer, T. and Turner, J., 2005, “Surveying Freedom: Four Intuitions about Free Will and Moral Responsibility,” *Philosophical Psychology*, 18: 561–84.
+* Neely, W., 1974, “Freedom and Desire,” *Philosophical Review*, 83: 32–54.
+* Nelkin, D., 2007, “Do We Have a Coherent Set of Intuitions about Moral Responsibility?” *Midwest Studies in Philosophy* 31: 243–59.
+* –––, 2011, *Making Sense of Freedom and Responsibility*, Oxford: Oxford University Press.
+* Nichols, S. and Knobe, J. , 2007, “Moral Responsibility and Determinism: The Cognitive Science of Folk Intuitions,” *Noûs*, 41(4): 663–85.
+* Nozick, R., 1981, *Philosophical Explanations*, Cambridge, Mass.: Harvard University Press.
+* O’Connor, T., 1993, “Indeterminism and Free Agency: Three Recent Views,” *Philosophy and Phenomenological Research*, 53: 499–525.
+* ––– (ed.), 1995a, *Agents, Causes and Events: Essays on Indeterminism and Free Will*, New York: Oxford University Press.
+* –––, 1995b, “Agent Causation,” in O’Connor (ed.), *Agents, Causes, and Events*, New York: Oxford University Press, 173–200.
+* –––, 1996, “Why Agent Causation?” *Philosophical Topics*, 24: 143–51.
+* –––, 2000, *Persons and Causes: The Metaphysics of Free Will*, New York: Oxford University Press.
+* –––, 2000, *Persons and Causes*, New York: Oxford University Press.
+* –––, 2009, “Agent-Causal Power,” in *Dispositions and Causes*, Toby Handfield (ed.), Oxford: Oxford University Press, 184–214.
+* –––, 2010, “Free Will,” *The Stanford Encyclopedia of Philosophy* (Winter 2010 Edition), Edward N. Zalta (ed.), URL = <[Free Will (Stanford Encyclopedia of Philosophy/Winter 2010 Edition)](https://plato.stanford.edu/archives/win2010/entries/freewill/)>.
+* Oshana, M. (ed.), 2015, *Personal Autonomy and Social Oppression*, Abingdon: Routledge.
+* Pereboom, D., 1995, “Determinism el Dente,” *Nous*, 29: 21–45.
+* –––, 2001, *Living Without Free Will*, Cambridge: Cambridge University Press.
+* –––, 2004, “Is Our Concept of Agent Causation Incoherent?,” *Philosophical Topics*, 32: 275–86.
+* –––, 2006a, “Kant on Transcendental Freedom,” *Philosophy and Phenomenological Research*, 73: 537–67.
+* –––, 2006b, “Reasons Responsiveness, Alternative Possibilities, and Manipulation Arguments Against Compatibilism: Reflections on John Martin Fischer’s *My Way*,” *Philosophical Books*, 47: 198–212.
+* –––, 2008, “A Hard-line Reply to the Multiple-Case Manipulation Argument,” *Philosophy and Phenomenological Research*, 77(1): 160–70.
+* –––, 2009, “Hard Incompatibilism and Its Rivals,” *Philosophical Studies*, 144: 21–33.
+* –––, 2014, *Free Will, Agency, and Meaning in Life*, New York: Oxford University Press.
+* –––, 2015, “The Phenomenology of Agency and Deterministic Agent Causation,” in *Horizons of Authenticity in Phenomenology, Existentialism, and Moral Psychology: Essays in Honor of Charles Guignon*, Megan Altman and Hans Gruenig (eds.), New York: Springer, 2015, 277–94.
+* Pink, T., 2016, *Self–determination*, Oxford: Oxford University Press.
+* Plato, 1997, *Protagoras*, Lombardo,S. and Bell, K. (trans.), in *Plato: Completed Works*, J. Cooper (ed.) and D. Hutchinson (asst. ed.), Indianapolis: Hacket Publishing Company, 746–790.
+* Radoilska, L. (ed.), 2012, *Autonomy and Mental Disorder*, Oxford: Oxford University Press.
+* Reath, A., 2006, *Agency and Autonomy in Kant’s Moral Theory: Selected Essays*, Oxford and New York: Oxford University Press.
+* Reid, T., 1788/1969, *Essays on the Active Powers of Man*, Cambridge, Mass.: MIT Press.
+* Richardson, H., 2001, “Autonomy’s Many Normative Presuppositions,” *American Philosophical Quarterly*, 38: 287–303.
+* Roughly, N., 2002, “The Uses of Hierarchy: Autonomy and Valuing,” *Philosophical Explanations*, 5(3): 167–85.
+* Rowe, W., 1987, “Two Concepts of Freedom,” *The Proceedings and Addresses of the American Philosophical Association*, 61: 43–64; reprinted in O’Connor 1995a, 151–72.
+* –––, 1991, “Responsibility, Agent-Causation, and Freedom: An Eighteenth-Century View,” *Ethics* 101(2): 237–57, reprinted in Fischer and Ravizza (eds.), *Perspectives on Moral Responsibility*, 263–85.
+* Santiago, J., 2005, “Personal Autonomy: What’s Content Got to Do with It?” *Social Theory and Practice: An International and Interdisciplinary Journal of Social Philosophy*, 31(1): 77–104.
+* Sartorio, C., 2015, “Sensitivity to Reasons and Actual Sequences,” in David Shoemaker (ed.), 2015, *Oxford Studies in Agency and Responsibility*, 3(1): 104–19.
+* –––, 2016, *Causation and Free Will*, Oxford: Oxford University Press.
+* Sartre, J.-P., 1956, *Being and Nothingness*, H. Barnes (trans.), New York: Simon & Schuster.
 * Scanlon, T., 2002, “Reasons and Passions,” in Buss and Overton.
-* Schatz, D., 1985, “Free Will and the Structure of Motivation,” in _Midwest Studies in Philosophy_, 10: 451–82.
-* Schoeman, F. (ed.), 1987, _Responsibility, Character and the Emotions: New Essays in Moral Philosophy_, Cambridge: Cambridge University Press.
-* Schroeder, T., 2015, “Obsessive-Compulsive Disorder and Moral Agency,” _Oxford Studies in Agency and Responsibility_, 3(1): 85–103.
-* Schroeter, F., 2004, “Endorsement and Autonomous Agency,” _Philosophy and Phenomenological Research_, 69(3): 633–59.
-* Searle, J., 2003, _Rationality in Action_, Cambridge, Mass.: MIT Press.
-* Sehon, S., 2016, _Free Will and Action Explanation_, Oxford: Oxford University Press.
-* Sher, G., 2006, “Out of Control,” _Ethics_ 116(2): 285–301.
-* Shoemaker, D., 2003, “Caring, Identification, and Agency,” _Ethics_, 114(1): 88–118.
-* –––, 2012, “Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility,” _Ethics_, 121(3): 602–32.
-* –––, 2013 (ed.), _Oxford Studies in Agency and Responsibility_ (Volume 1), Oxford: Oxford University Press.
-* –––, 2015 (ed.), _Oxford Studies in Agency and Responsibility_ (Volume 3), Oxford: Oxford University Press.
-* Slote, M., 1980, “Understanding Free Will,” _Journal of Philosophy_, 77: 136–51, reprinted in Fischer (ed.) 1986, 124–39.
-* –––, 1982, “Selective Necessity and the Free-Will Problem,” _Journal of Philosophy_, 79: 5–24.
-* Smith, A., 2008, “Control, Responsibility, and Moral Assessment,” _Philosophical Studies_ 138: 367–92.
-* –––, 2005, “Responsibility for Attitudes: Activity and Passivity in Mental Life,” _Ethics_ 115(2): 236–71.
-* –––, 2012, “Attributability, Answerability, and Accountability: In Defense of a Unified Account,” _Ethics_, 122: 575–589.
-* Spinoza, B. de, 1985, _Ethics_, E. Curley, (trans.), Princeton: Princeton University Press.
-* Sripada, C., 2015 “Moral Responsibility, Reasons, and the Self,” _Oxford Studies in Agency and Responsibility_, 3(1): 242–64.
-* Steward, H., 2012, _A Metaphysics of Freedom_, Oxford: Oxford University Press.
-* Strawson, G., 1986, _Freedom and Belief_, Oxford: Clarendon Press.
-* –––, 1994, “The Impossibility of Moral Responsibility,” _Philosophical Studies_, 75: 5–24.
-* Strawson, P.F., 1962, “Freedom and Resentment,” _Proceedings of the British Academy_, 48: 187–211.
-* –––, 1992, “Freedom and Necessity,” Chapter 10, _Analysis and Metaphysics: An Introduction to Metaphysics_, Oxford: Oxford University Press.
-* Stroud, S. and Tappolet, C. (eds.), 2003, _Weakness of Will and Practical Irrationality_, Oxford: Clarendon Press.
+* Schatz, D., 1985, “Free Will and the Structure of Motivation,” in *Midwest Studies in Philosophy*, 10: 451–82.
+* Schoeman, F. (ed.), 1987, *Responsibility, Character and the Emotions: New Essays in Moral Philosophy*, Cambridge: Cambridge University Press.
+* Schroeder, T., 2015, “Obsessive-Compulsive Disorder and Moral Agency,” *Oxford Studies in Agency and Responsibility*, 3(1): 85–103.
+* Schroeter, F., 2004, “Endorsement and Autonomous Agency,” *Philosophy and Phenomenological Research*, 69(3): 633–59.
+* Searle, J., 2003, *Rationality in Action*, Cambridge, Mass.: MIT Press.
+* Sehon, S., 2016, *Free Will and Action Explanation*, Oxford: Oxford University Press.
+* Sher, G., 2006, “Out of Control,” *Ethics* 116(2): 285–301.
+* Shoemaker, D., 2003, “Caring, Identification, and Agency,” *Ethics*, 114(1): 88–118.
+* –––, 2012, “Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility,” *Ethics*, 121(3): 602–32.
+* –––, 2013 (ed.), *Oxford Studies in Agency and Responsibility* (Volume 1), Oxford: Oxford University Press.
+* –––, 2015 (ed.), *Oxford Studies in Agency and Responsibility* (Volume 3), Oxford: Oxford University Press.
+* Slote, M., 1980, “Understanding Free Will,” *Journal of Philosophy*, 77: 136–51, reprinted in Fischer (ed.) 1986, 124–39.
+* –––, 1982, “Selective Necessity and the Free-Will Problem,” *Journal of Philosophy*, 79: 5–24.
+* Smith, A., 2008, “Control, Responsibility, and Moral Assessment,” *Philosophical Studies* 138: 367–92.
+* –––, 2005, “Responsibility for Attitudes: Activity and Passivity in Mental Life,” *Ethics* 115(2): 236–71.
+* –––, 2012, “Attributability, Answerability, and Accountability: In Defense of a Unified Account,” *Ethics*, 122: 575–589.
+* Spinoza, B. de, 1985, *Ethics*, E. Curley, (trans.), Princeton: Princeton University Press.
+* Sripada, C., 2015 “Moral Responsibility, Reasons, and the Self,” *Oxford Studies in Agency and Responsibility*, 3(1): 242–64.
+* Steward, H., 2012, *A Metaphysics of Freedom*, Oxford: Oxford University Press.
+* Strawson, G., 1986, *Freedom and Belief*, Oxford: Clarendon Press.
+* –––, 1994, “The Impossibility of Moral Responsibility,” *Philosophical Studies*, 75: 5–24.
+* Strawson, P.F., 1962, “Freedom and Resentment,” *Proceedings of the British Academy*, 48: 187–211.
+* –––, 1992, “Freedom and Necessity,” Chapter 10, *Analysis and Metaphysics: An Introduction to Metaphysics*, Oxford: Oxford University Press.
+* Stroud, S. and Tappolet, C. (eds.), 2003, *Weakness of Will and Practical Irrationality*, Oxford: Clarendon Press.
 * Stump, E., 1993,“Sanctification, Hardening of the Heart, and Frankfurt’s Concept of Free Will,” in Fischer and Ravizza, 211–236.
 * Taylor, C., 1982, “Responsibility for Self,” in Watson 1982, 111–26.
-* –––, 1989, _Sources of Self: The Making of Modern Identity_, Cambridge, MA: Harvard University Press.
-* Taylor, J. (ed.), 2005, _Personal Autonomy: New Essays on Personal Autonomy and Its Role in Contemporary Moral Philosophy_, Cambridge: Cambridge University Press.
-* –––, 1979, “What’s Wrong with Negative Liberty,” in _The Idea of Freedom: Essays in Honour of Isaiah Berlin_, Alan Ryan (ed.), Oxford: Oxford University Press, 175–93.
-* Taylor, R., 1966, _Action and Purpose_, Englewood Cliffs, N.J.: Prentice-Hall.
-* –––, 1982, “Agent and Patient,” _Erkenntnis_, 18: 111–26.
-* Thalberg, I., 1978, “Hierarchical Analyses of Unfree Action,” _Canadian Journal of Philosophy_, 8: 211–26.
-* Usher, M., 2006, “Control, Choice, and the Convergence/Divergence Dynamics: A Compatibilistic Probabilistic Theory of Free Will,” _Journal of Philosophy_, 103(4), 188–213.
+* –––, 1989, *Sources of Self: The Making of Modern Identity*, Cambridge, MA: Harvard University Press.
+* Taylor, J. (ed.), 2005, *Personal Autonomy: New Essays on Personal Autonomy and Its Role in Contemporary Moral Philosophy*, Cambridge: Cambridge University Press.
+* –––, 1979, “What’s Wrong with Negative Liberty,” in *The Idea of Freedom: Essays in Honour of Isaiah Berlin*, Alan Ryan (ed.), Oxford: Oxford University Press, 175–93.
+* Taylor, R., 1966, *Action and Purpose*, Englewood Cliffs, N.J.: Prentice-Hall.
+* –––, 1982, “Agent and Patient,” *Erkenntnis*, 18: 111–26.
+* Thalberg, I., 1978, “Hierarchical Analyses of Unfree Action,” *Canadian Journal of Philosophy*, 8: 211–26.
+* Usher, M., 2006, “Control, Choice, and the Convergence/Divergence Dynamics: A Compatibilistic Probabilistic Theory of Free Will,” *Journal of Philosophy*, 103(4), 188–213.
 * Van Inwagen, P., 1982, “The Incompatibility of Free Will and Determinism,” in Watson 1982, 46–58.
-* –––, 1983, _An Essay on Free Will_, Oxford: Clarendon Press.
-* –––, 2017, _Thinking about Free Will_, Cambridge: Cambridge University Press.
-* Velleman, J. D., 1989a, “Epistemic Freedom,” _Pacific Philosophical Quarterly_, 70: 73–97, reprinted in Velleman 2000, 32–55..
-* –––, 1989b, _Practical Reflection_, Princeton: Princeton University Press.
-* –––, 1992,“What Happens When Someone Acts?,” _Mind_, 101: 461–81, reprinted in Velleman 2000, 123–43.
-* –––, 2000, _The Possibility of Practical Reason_, Oxford: Clarendon Press.
+* –––, 1983, *An Essay on Free Will*, Oxford: Clarendon Press.
+* –––, 2017, *Thinking about Free Will*, Cambridge: Cambridge University Press.
+* Velleman, J. D., 1989a, “Epistemic Freedom,” *Pacific Philosophical Quarterly*, 70: 73–97, reprinted in Velleman 2000, 32–55..
+* –––, 1989b, *Practical Reflection*, Princeton: Princeton University Press.
+* –––, 1992,“What Happens When Someone Acts?,” *Mind*, 101: 461–81, reprinted in Velleman 2000, 123–43.
+* –––, 2000, *The Possibility of Practical Reason*, Oxford: Clarendon Press.
 * –––, 2002,“Identification and Identity,” in Buss and Overton, 91–123.
-* –––, 2005, _Self to Self: Selected Essays_, Cambridge: Cambridge University Press.
-* Veltman, A. and Piper, M., 2014 (eds.), _Autonomy, Oppression, and Gender_, Oxford: Oxford University Press.
-* Wallace, R.J., 1994, _Responsibility and the Moral Sentiments_, Cambridge, Mass.: Harvard University Press.
-* Watson, G., 1975, “Free Agency,” _Journal of Philosophy_, 72: 205–20, reprinted in Watson 1982, 96–110, and in Watson 2004, 13–32.
-* –––, 1977, “Skepticism about Weakness of Will,” _Philosophical Review_, 85: 316–39.
-* ––– (ed.), 1982, _Free Will_, Oxford: Oxford University Press.
-* –––, 1987, “Free Action and Free Will,” _Mind_, 96: 147–72; reprinted in Watson 2004, 161–96.
+* –––, 2005, *Self to Self: Selected Essays*, Cambridge: Cambridge University Press.
+* Veltman, A. and Piper, M., 2014 (eds.), *Autonomy, Oppression, and Gender*, Oxford: Oxford University Press.
+* Wallace, R.J., 1994, *Responsibility and the Moral Sentiments*, Cambridge, Mass.: Harvard University Press.
+* Watson, G., 1975, “Free Agency,” *Journal of Philosophy*, 72: 205–20, reprinted in Watson 1982, 96–110, and in Watson 2004, 13–32.
+* –––, 1977, “Skepticism about Weakness of Will,” *Philosophical Review*, 85: 316–39.
+* ––– (ed.), 1982, *Free Will*, Oxford: Oxford University Press.
+* –––, 1987, “Free Action and Free Will,” *Mind*, 96: 147–72; reprinted in Watson 2004, 161–96.
 * –––, 1993, “Responsibility and the Limits of Evil: Variations on a Strawsonian Theme,” in Fischer and Ravizza 1993, 119–50, reprinted in Watson 2004, 219–59.
-* –––, 1996, “Two Faces of Responsibility,” _Philosophical Topics_, 24 (2): 227–48, reprinted in Watson 2004, 260–87.
-* –––, 1999a, “Soft Libertarianism and Hard Compatibilism,” _Journal of Ethics_, 3 (4): 351–65, reprinted in Watson 2004, 197–215
-* –––, 1999b, “Disordered Appetites,” in _Addiction: Entries and Exits_, J. Elster (ed.), New York: Russell Sage Publications, 3–28, reprinted in Watson 2004, 59–87.
+* –––, 1996, “Two Faces of Responsibility,” *Philosophical Topics*, 24 (2): 227–48, reprinted in Watson 2004, 260–87.
+* –––, 1999a, “Soft Libertarianism and Hard Compatibilism,” *Journal of Ethics*, 3 (4): 351–65, reprinted in Watson 2004, 197–215
+* –––, 1999b, “Disordered Appetites,” in *Addiction: Entries and Exits*, J. Elster (ed.), New York: Russell Sage Publications, 3–28, reprinted in Watson 2004, 59–87.
 * –––, 2002, “Volitional Necessities,” in Buss and Overton 2002, 129–59, reprinted in Watson 2004, 88–122.
-* –––, 2003, (ed.), _Free Will, 2nd Edn._, Oxford: Oxford University Press.
-* –––, 2004, _Agency and Answerability: Selected Essays_, New York: Oxford University Press.
-* Wegner, D., 2002, _The Illusion of Conscious Will_, Cambridge, MA: MIT Press.
-* Westlund, A., 2003, “Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?” _Philosophical Review_, 112(4): 483–523.
+* –––, 2003, (ed.), *Free Will, 2nd Edn.*, Oxford: Oxford University Press.
+* –––, 2004, *Agency and Answerability: Selected Essays*, New York: Oxford University Press.
+* Wegner, D., 2002, *The Illusion of Conscious Will*, Cambridge, MA: MIT Press.
+* Westlund, A., 2003, “Selflessness and Responsibility for Self: Is Deference Compatible with Autonomy?” *Philosophical Review*, 112(4): 483–523.
 * Wiggins, D., “Towards a Reasonable Libertarianism,” in Honderich 1973, 31–62.
-* Williams, B., 1993, _Shame and Necessity_, Berkeley, California: University of California Press.
-* Wilson, G., 1989, _The Intentionality of Human Action_, Stanford: Stanford University Press.
-* Wolf, S., 1980, “Asymmetrical Freedom,” _Journal of Philosophy_, 77: 151–66, reprinted in Fischer 1986, 225–40.
-* –––, “The Importance of Free Will,” _Mind_, 90: 386–405, reprinted in Fischer and Ravizza 1993, 101–18.
+* Williams, B., 1993, *Shame and Necessity*, Berkeley, California: University of California Press.
+* Wilson, G., 1989, *The Intentionality of Human Action*, Stanford: Stanford University Press.
+* Wolf, S., 1980, “Asymmetrical Freedom,” *Journal of Philosophy*, 77: 151–66, reprinted in Fischer 1986, 225–40.
+* –––, “The Importance of Free Will,” *Mind*, 90: 386–405, reprinted in Fischer and Ravizza 1993, 101–18.
 * –––, 1987, “Sanity and the Metaphysics of Responsibility,” in Schoeman, 46–62.
-* –––, 1990, _Freedom within Reason_, New York: Oxford University Press.
-* Yaffe, G., 2000, _Liberty Worth the Name: Locke on Free Agency_, Princeton: Princeton University Press.
-* –––, 2004, _Manifest Activity: Thomas Reid’s Theory of Action_, Oxford: Oxford University Press.
-* Yeomans, C., 2015, _The Expansion of Autonomy: Hegel’s Pluralistic Philosophy of Action_, Oxford: Oxford University Press.
-* Young, Robert, 1986, _Personal Autonomy: Beyond Negative and Positive Liberty_, London: Croom Helm Ltd.
-* Zimmerman, D., 2003, “That Was Then, This Is Now: Personal History vs. Psychological Structure in Compatibilist Theories of Autonomous Agency,” _Noûs_, 37(4): 638–71.
+* –––, 1990, *Freedom within Reason*, New York: Oxford University Press.
+* Yaffe, G., 2000, *Liberty Worth the Name: Locke on Free Agency*, Princeton: Princeton University Press.
+* –––, 2004, *Manifest Activity: Thomas Reid’s Theory of Action*, Oxford: Oxford University Press.
+* Yeomans, C., 2015, *The Expansion of Autonomy: Hegel’s Pluralistic Philosophy of Action*, Oxford: Oxford University Press.
+* Young, Robert, 1986, *Personal Autonomy: Beyond Negative and Positive Liberty*, London: Croom Helm Ltd.
+* Zimmerman, D., 2003, “That Was Then, This Is Now: Personal History vs. Psychological Structure in Compatibilist Theories of Autonomous Agency,” *Noûs*, 37(4): 638–71.
 
 ## Academic Tools
 
@@ -440,7 +438,7 @@ _首次发布于 2002 年 5 月 28 日；实质性修订于 2018 年 2 月 15 �
 
 ## Related Entries
 
-[action](https://plato.stanford.edu/entries/action/) | [agency](https://plato.stanford.edu/entries/agency/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [authority](https://plato.stanford.edu/entries/authority/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [compatibilism](https://plato.stanford.edu/entries/compatibilism/) | [determinism: causal](https://plato.stanford.edu/entries/determinism-causal/) | [feminist philosophy, topics: perspectives on autonomy](https://plato.stanford.edu/entries/feminism-autonomy/) | [feminist philosophy, topics: perspectives on the self](https://plato.stanford.edu/entries/feminism-self/) | [free will](https://plato.stanford.edu/entries/freewill/) | [Hume, David: on free will](https://plato.stanford.edu/entries/hume-freewill/) | [incompatibilism: (nondeterministic) theories of free will](https://plato.stanford.edu/entries/incompatibilism-theories/) | [incompatibilism: arguments for](https://plato.stanford.edu/entries/incompatibilism-arguments/) | [intention](https://plato.stanford.edu/entries/intention/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [mental causation](https://plato.stanford.edu/entries/mental-causation/) | [moral motivation](https://plato.stanford.edu/entries/moral-motivation/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [Plato: ethics and politics in _The Republic_](https://plato.stanford.edu/entries/plato-ethics-politics/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [practical reason: and the structure of actions](https://plato.stanford.edu/entries/practical-reason-action/) | [Reid, Thomas](https://plato.stanford.edu/entries/reid/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [weakness of will](https://plato.stanford.edu/entries/weakness-will/)
+[action](https://plato.stanford.edu/entries/action/) | [agency](https://plato.stanford.edu/entries/agency/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [authority](https://plato.stanford.edu/entries/authority/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [compatibilism](https://plato.stanford.edu/entries/compatibilism/) | [determinism: causal](https://plato.stanford.edu/entries/determinism-causal/) | [feminist philosophy, topics: perspectives on autonomy](https://plato.stanford.edu/entries/feminism-autonomy/) | [feminist philosophy, topics: perspectives on the self](https://plato.stanford.edu/entries/feminism-self/) | [free will](https://plato.stanford.edu/entries/freewill/) | [Hume, David: on free will](https://plato.stanford.edu/entries/hume-freewill/) | [incompatibilism: (nondeterministic) theories of free will](https://plato.stanford.edu/entries/incompatibilism-theories/) | [incompatibilism: arguments for](https://plato.stanford.edu/entries/incompatibilism-arguments/) | [intention](https://plato.stanford.edu/entries/intention/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [mental causation](https://plato.stanford.edu/entries/mental-causation/) | [moral motivation](https://plato.stanford.edu/entries/moral-motivation/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [Plato: ethics and politics in *The Republic*](https://plato.stanford.edu/entries/plato-ethics-politics/) | [practical reason](https://plato.stanford.edu/entries/practical-reason/) | [practical reason: and the structure of actions](https://plato.stanford.edu/entries/practical-reason-action/) | [Reid, Thomas](https://plato.stanford.edu/entries/reid/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/) | [weakness of will](https://plato.stanford.edu/entries/weakness-will/)
 
 ### Acknowledgments
 
@@ -448,4 +446,4 @@ I am grateful to Sven Nyholm for prodding me to see ways in which I could improv
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Sarah Buss\
-[Andrea Westlund](https://philosophy.fsu.edu/people/faculty/andrea-westlund) <[_awestlund@fsu.edu_](mailto:awestlund%40fsu%2eedu)>
+[Andrea Westlund](https://philosophy.fsu.edu/people/faculty/andrea-westlund) <[*awestlund@fsu.edu*](mailto:awestlund%40fsu%2eedu)>

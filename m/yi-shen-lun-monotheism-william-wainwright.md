@@ -1,10 +1,9 @@
 # 一神论 monotheism (William Wainwright)
 
-_首次发表于2005年11月1日；实质性修订于2018年7月30日_
+*首次发表于2005年11月1日；实质性修订于2018年7月30日*
 
 一神论者相信现实的最终原则是上帝-一位全能、全知、善良的创造者，是除自身以外的一切事物的创造基础。一神论是认为只有这样一个上帝的观点。在简要讨论一神论的历史起源之后，本文将探讨五种最有影响力的试图确立上帝独特性的方法。我们将考虑来自上帝的简单性、完美性、主权性、全能性和对全然奉献的需求的论证。本文最后还将审视三个包含可能与一神论承诺相矛盾的传统神论传统-犹太的卡巴拉传统、基督教和斯里·瓦伊什纳维斯姆。
 
- 
 ***
 
 ## 1. 一神论的起源
@@ -338,40 +337,40 @@ Venkatanatha（1268-1369）提供了一种不同的解决方案。他确实区�
 
 ## Bibliography
 
-* Aquinas, St. Thomas, _On the Truth of the Catholic Faith: Summa Contra Gentiles, Book One_, Anton C. Pegis (trans.), Garden City, N. Y.: Doubleday Image Books, 1955.
-* Athanassiadi, Polymnia and Michael Frede (eds.), 1999, _Pagan Monotheism in Late Antiquity_, Oxford: Clarendon Press.
-* Azriel of Gerona, 1986, “Explanation of the Ten Sefirot,” in _The Early Kabbalah_, Joseph Dan (ed.), Ronald C. Kiener (trans.), (The Classics of Western Spirituality), New York: Paulist Press.
-* Bartel, T. W., 1994, “Could There be More than One Lord?,” _Faith and Philosophy_, 11: 357–78.
-* Cudworth, Ralph, 1678, _The True Intellectual System of the Universe_, Volume 1, London: Richard Royston; reprinted New York: Garland, 1978.
-* Davis, Stephen T., Daniel Kendell, and Gerald O’Collins (eds.), 1999, _The Trinity_, New York: Oxford University Press.
-* Eakin, Frank E., 1971, _The Religion and Culture of Israel_, Boston: Allyn & Bacon.
-* Epstein, Isidore, 1959, _Judaism: A Historical Presentation_, Harmondsworth, Middlesex: Penguin Books.
-* Gellman, Jerome, 2013, “The God of the Jews and the Jewish God,” in _The Routledge Companion to Theism_, eds. Charles Taliaferro, Victoria S. Harrison, Stewart Goetz, pp. 38–53, New York: Routledge.
-* al-Ghazali, _Al Ghazali’s Tract on Dogmatic Theology_, A. L. Tibawi (trans.), London: Luzac, 1965.
-* Gupta, Ravi M. (ed.), 2014, _Caitanya Vaisnava Philosophy: Tradition, Reason and Devotion_, Farnham, Surrey and Burlington, VT: Ashgate.
-* John of Damascus, _Writings_, Frederic H. Chase, Jr., (trans.), (The Fathers of the Church, Volume 37), Washington, D.C.: Catholic University of America Press, 1958.
-* John Duns Scotus, _Philosophical Writings_, Allan Wolter (trans.), Edinburgh: Thomas Nelson, 1962.
-* Kelly, J. N. D., 1972, _Early Christian Creeds_, 3rd edition, New York: Longman.
-* –––, 1977, _Early Christian Doctrines_, 5th ed., London: Adam & Charles Black.
-* Kumar, P. Pratap, 1997, _The Goddess Laksmi: The Divine Consort in South Indian Vaisnava Tradition_, (American Academy of Religion Academy Series, Number 95), Atlanta: Scholar’s Press.
-* Leftow, Brian, 1988, “The Roots of Eternity,” _Religious Studies_, 24: 189–212.
-* Mann, William E., 2004, “Anselm on the Trinity,” in _The Cambridge Companion to Anselm_, Brian Davies and Brian Leftow (eds.), Cambridge: Cambridge University Press.
-* McCall, Thomas and Michael C. Rea (eds.), 2009, _Philosophical and Theological Essays on the Trinity_, New York: Oxford University Press.
-* McCall, Thomas, 2010, _Which Trinity? Whose Monotheism? Philosophical and Systematic Theologians on the Metaphysics of the Trinity_, Grand Rapids, MI: Eerdman’s.
-* Meek, T. J., 1960, _Hebrew Origins_, New York: Harper Torchbooks.
-* Paley, William, _Natural Theology: Selections_, Indianapolis, IN: Bobbs-Merrill, 1963.
-* Plantinga, Cornelius, Jr., 1988, “Social Trinity and Tritheism,” in _Trinity, Incarnation, and Atonement_, Ronald J. Feenstra and Cornelius Plantinga, Jr. (eds.), Notre Dame, IN: University of Notre Dame Press.
-* Ramanuja, 1962, _The Vedanta Sutras with the Commentary by Ramanuja_, George Thibaut (trans.), Delhi: Motilal Banarsidass.
-* Rea, Michael C. and Jeffrey E. Brower, 2005, “Material Constitution and the Trinity,” _Faith and Philosophy_, 22: 57–76.
-* Rea, Michael C., 2009, “The Trinity,” in _The Oxford Handbook of Philosophical Theology_, Thomas P. Flint and Michael C. Rea (eds.), New York: Oxford University Press.
-* Ringgren, Helmer, 1966, _Israelite Religion_, Philadelphia: Fortress Press.
-* Scholem, Gershom G., 1946, _Major Trends in Jewish Mysticism_, New York: Schocken.
-* –––, 1987, _Origins of the Kabbalah_, Princeton, NJ: Princeton University Press.
-* Swinburne, Richard, 1994, _The Christian God_, Oxford: Clarendon Press, Chapter 8 (“The Trinity”).
-* Wainwright, William J., 1986, “Monotheism,” in _Rationality, Religious Belief, and Moral Commitment_, Robert Audi and William J. Wainwright (eds.), Ithaca, NY: Cornell University Press.
-* William of Ockham, _Philosophical Writings_, Philotheus Boehner (trans.), Indianapolis, IN: Bobbs-Merrill, 1964.
-* Wolfson, H. A., 1964, _The Philosophy of the Church Fathers_, vol. 1, _Faith, Trinity, Incarnation_, Cambridge: Harvard University Press.
-* Zagzebski, Linda, 1989, “Christian Monotheism,” _Faith and Philosophy_, 8: 3–18.
+* Aquinas, St. Thomas, *On the Truth of the Catholic Faith: Summa Contra Gentiles, Book One*, Anton C. Pegis (trans.), Garden City, N. Y.: Doubleday Image Books, 1955.
+* Athanassiadi, Polymnia and Michael Frede (eds.), 1999, *Pagan Monotheism in Late Antiquity*, Oxford: Clarendon Press.
+* Azriel of Gerona, 1986, “Explanation of the Ten Sefirot,” in *The Early Kabbalah*, Joseph Dan (ed.), Ronald C. Kiener (trans.), (The Classics of Western Spirituality), New York: Paulist Press.
+* Bartel, T. W., 1994, “Could There be More than One Lord?,” *Faith and Philosophy*, 11: 357–78.
+* Cudworth, Ralph, 1678, *The True Intellectual System of the Universe*, Volume 1, London: Richard Royston; reprinted New York: Garland, 1978.
+* Davis, Stephen T., Daniel Kendell, and Gerald O’Collins (eds.), 1999, *The Trinity*, New York: Oxford University Press.
+* Eakin, Frank E., 1971, *The Religion and Culture of Israel*, Boston: Allyn & Bacon.
+* Epstein, Isidore, 1959, *Judaism: A Historical Presentation*, Harmondsworth, Middlesex: Penguin Books.
+* Gellman, Jerome, 2013, “The God of the Jews and the Jewish God,” in *The Routledge Companion to Theism*, eds. Charles Taliaferro, Victoria S. Harrison, Stewart Goetz, pp. 38–53, New York: Routledge.
+* al-Ghazali, *Al Ghazali’s Tract on Dogmatic Theology*, A. L. Tibawi (trans.), London: Luzac, 1965.
+* Gupta, Ravi M. (ed.), 2014, *Caitanya Vaisnava Philosophy: Tradition, Reason and Devotion*, Farnham, Surrey and Burlington, VT: Ashgate.
+* John of Damascus, *Writings*, Frederic H. Chase, Jr., (trans.), (The Fathers of the Church, Volume 37), Washington, D.C.: Catholic University of America Press, 1958.
+* John Duns Scotus, *Philosophical Writings*, Allan Wolter (trans.), Edinburgh: Thomas Nelson, 1962.
+* Kelly, J. N. D., 1972, *Early Christian Creeds*, 3rd edition, New York: Longman.
+* –––, 1977, *Early Christian Doctrines*, 5th ed., London: Adam & Charles Black.
+* Kumar, P. Pratap, 1997, *The Goddess Laksmi: The Divine Consort in South Indian Vaisnava Tradition*, (American Academy of Religion Academy Series, Number 95), Atlanta: Scholar’s Press.
+* Leftow, Brian, 1988, “The Roots of Eternity,” *Religious Studies*, 24: 189–212.
+* Mann, William E., 2004, “Anselm on the Trinity,” in *The Cambridge Companion to Anselm*, Brian Davies and Brian Leftow (eds.), Cambridge: Cambridge University Press.
+* McCall, Thomas and Michael C. Rea (eds.), 2009, *Philosophical and Theological Essays on the Trinity*, New York: Oxford University Press.
+* McCall, Thomas, 2010, *Which Trinity? Whose Monotheism? Philosophical and Systematic Theologians on the Metaphysics of the Trinity*, Grand Rapids, MI: Eerdman’s.
+* Meek, T. J., 1960, *Hebrew Origins*, New York: Harper Torchbooks.
+* Paley, William, *Natural Theology: Selections*, Indianapolis, IN: Bobbs-Merrill, 1963.
+* Plantinga, Cornelius, Jr., 1988, “Social Trinity and Tritheism,” in *Trinity, Incarnation, and Atonement*, Ronald J. Feenstra and Cornelius Plantinga, Jr. (eds.), Notre Dame, IN: University of Notre Dame Press.
+* Ramanuja, 1962, *The Vedanta Sutras with the Commentary by Ramanuja*, George Thibaut (trans.), Delhi: Motilal Banarsidass.
+* Rea, Michael C. and Jeffrey E. Brower, 2005, “Material Constitution and the Trinity,” *Faith and Philosophy*, 22: 57–76.
+* Rea, Michael C., 2009, “The Trinity,” in *The Oxford Handbook of Philosophical Theology*, Thomas P. Flint and Michael C. Rea (eds.), New York: Oxford University Press.
+* Ringgren, Helmer, 1966, *Israelite Religion*, Philadelphia: Fortress Press.
+* Scholem, Gershom G., 1946, *Major Trends in Jewish Mysticism*, New York: Schocken.
+* –––, 1987, *Origins of the Kabbalah*, Princeton, NJ: Princeton University Press.
+* Swinburne, Richard, 1994, *The Christian God*, Oxford: Clarendon Press, Chapter 8 (“The Trinity”).
+* Wainwright, William J., 1986, “Monotheism,” in *Rationality, Religious Belief, and Moral Commitment*, Robert Audi and William J. Wainwright (eds.), Ithaca, NY: Cornell University Press.
+* William of Ockham, *Philosophical Writings*, Philotheus Boehner (trans.), Indianapolis, IN: Bobbs-Merrill, 1964.
+* Wolfson, H. A., 1964, *The Philosophy of the Church Fathers*, vol. 1, *Faith, Trinity, Incarnation*, Cambridge: Harvard University Press.
+* Zagzebski, Linda, 1989, “Christian Monotheism,” *Faith and Philosophy*, 8: 3–18.
 
 ## Academic Tools
 

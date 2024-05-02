@@ -1,6 +1,5 @@
 # 西奥多·W ·阿多诺 Adorno, Theodor W. (Lambert Zuidervaart)
 
-
 *首次发表于 2003 年 5 月 5 日；实质修订于 2015 年 10 月 26 日*
 
 西奥多·W ·阿多诺是二战后德国最重要的哲学家和社会评论家之一。尽管在英语哲学家中不如他的同时代人汉斯-格奥尔格·加达默（Hans-Georg Gadamer）那样知名，但阿多诺对战后德国的学者和知识分子产生了更大的影响力。在 1960 年代，他是对卡尔·波普尔（Karl Popper）的科学哲学和马丁·海德格尔（Martin Heidegger）的存在哲学最有影响力的挑战者。尤尔根·哈贝马斯（Jürgen Habermas）是 1970 年后德国最重要的社会哲学家，他是阿多诺的学生和助手。阿多诺的影响范围源于他的研究和所属的法兰克福学派的跨学科特性。它还源于他对西方哲学传统的彻底研究，特别是从康德开始，以及对当代西方社会的激进批判。他是一位开创性的社会哲学家，也是第一代批判理论的重要成员。
@@ -104,6 +103,7 @@
 > 面对可怜的存在而不屈服的思想，在其标准面前化为乌有，真理变为谬误，哲学变为愚蠢。然而哲学不能放弃，以免愚蠢在实际化的非理性中取得胜利……愚蠢是真理的形式，人类必须接受它，无论在不真实的环境中，他们是否放弃了真理。即使在最高峰上，艺术也是一种假象；但艺术从非假象中获得了这种假象……没有光照射在人们和事物上，超越性就不会出现。在对可交换世界的抵抗中，眼睛的抵抗是不希望世界的颜色消失的抵抗。在假象中，承诺了非假象（ND 404-5）。
 
 解释阿多诺哲学的持续评估中，解决这些段落至关重要。
+
 ## Bibliography
 
 Section 1 lists many of Adorno's books in English, including several he co-authored, in the order of their abbreviations. Section 2 lists some anthologies of Adorno's writings in English. Books listed in section 1 without abbreviations were originally published in English; all others were originally published in German. A date in parentheses following a title indicates either the first German edition or, in the case of posthumous publications, the date of the original lectures. Often the translations cited above have been silently modified. The abbreviation “GS” or “NS” after an entry below tells where this book can be found in Adorno's collected writings. “GS” indicates writings published during Adorno's lifetime and collected in the 20 volumes of Theodor W. Adorno, *Gesammelte Schriften*, edited by Rolf Tiedemann et al. (Frankfurt am Main: Suhrkamp, 1970–1986). “NS” indicates posthumous works that are appearing as editions of the Theodor W. Adorno Archive in the collection *Nachgelassene Schriften* (Frankfurt: Suhrkamp, 1993–).

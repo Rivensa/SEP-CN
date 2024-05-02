@@ -1,10 +1,9 @@
 # 艾萨克·本·所罗门·以色列 Israeli, Isaac (Leonard Levin, R. David Walker, and Shalom Sadik)
 
-_首次发表于2007年9月10日星期一；实质性修订于2022年7月6日星期三。_
+*首次发表于2007年9月10日星期一；实质性修订于2022年7月6日星期三。*
 
 艾萨克·本·所罗门·以色列（约公元 855 年至 955 年），不要与以色列的年轻人艾萨克·以色列（西班牙的天文学家，公元 1322 年去世）混淆，他曾担任非米德王朝创始人在北非的医生，并用阿拉伯语写了几部哲学和医学著作，随后被翻译成拉丁语和希伯来语广泛阅读。以色列是最早的中世纪犹太新柏拉图主义作家之一，尽管在思想上不如后来的犹太哲学家所罗门·伊本·加比罗尔（阿维斯布隆）、摩西·迈蒙尼德和格尔索尼德那样原创。他的作品反映并概括了当时的哲学范式，即通过新柏拉图主义的视角阅读亚里士多德的思想。以色列的思想在很大程度上受到阿拉伯哲学家阿尔-金迪（约公元 870 年去世）和现有的新柏拉图主义来源的影响，无论是亚里士多德的《神学》还是（根据 S·M·斯特恩的假设）一部伪作新柏拉图主义论文（阿拉伯原文已不复存在），后来由亚伯拉罕·伊本·哈斯代（公元 1240 年去世）翻译成希伯来语，并附在文学作品《王子与苦行者》中。尽管他的许多作品都是对这两个来源的释义和评论，但以色列的思想确实包括了与阿尔-金迪的一些分歧，例如阴影的发散思想，以及在阿尔-金迪的模型中所描述的思维过程的逆转。以色列的哲学著作被后来的几位犹太和基督教作家阅读，他们有时会引用他的话，有时则没有署名。他的医学著作在穆斯林和基督教领域的医生中广泛阅读和尊重了几个世纪。
 
- 
 ***
 
 ## 1. 传记
@@ -153,7 +152,7 @@ J.L. Teicher 认为以色列·艾萨克不是这部作品的作者（Teicher, 19
 
 伟大的犹太诗人和新柏拉图主义者所罗门·依本·加比罗尔（拉丁文称为 Avicebron 和 Avicebrol）很可能阅读了艾萨克·以色列的著作，以及广为流传的百科全书《纯洁兄弟的书信》（阿拉伯语：Rasa’il Ikhwan as-Safa’）。所罗门·依本·加比罗尔在某些方面与后者的思想模式相近。他也非常创新，因此很难评估艾萨克·以色列的影响。然而，以色列的《论灵与魂》很可能是唯一将新柏拉图主义的宇宙学和心理学与圣经证据相结合的哲学文本，而这一任务伊本·加比罗尔在他的礼拜诗《王国之冠》中非常成功地完成。伊本·加比罗尔对于灵性物质的观念很可能受到了以色列的影响。
 
-艾萨克·本·所罗门·以色列是西班牙黄金时代希伯来诗人之一，摩西·依本·以斯拉（约公元 1060 年至 1139 年）在他的著作《花园之书》中引用了以色列的观点，解释了隐喻和字面表达的含义（原文为犹太阿拉伯语：Kitab al-Hadiqa fi Macna ‘l-Majaz wa’l-Haqiqa）。斯特恩在他的文章《以撒·以色列和摩西·依本·以斯拉》中探讨了这个问题。科尔多瓦的诗人和哲学家约瑟夫·依本·扎迪克（约公元 1149 年去世）创作了一部名为《微观世界》的作品（犹太阿拉伯语原文已失传，但该作品以希伯来语翻译本《Ha-colam ha-Qatan》的形式保存下来），其中包含了许多受以色列影响的思想。阿尔特曼和斯特恩在《以撒·以色列》一书中阐明了这两位思想家之间的相似之处（第 30 页、44 页、73-74 页、117 页）。 _._
+艾萨克·本·所罗门·以色列是西班牙黄金时代希伯来诗人之一，摩西·依本·以斯拉（约公元 1060 年至 1139 年）在他的著作《花园之书》中引用了以色列的观点，解释了隐喻和字面表达的含义（原文为犹太阿拉伯语：Kitab al-Hadiqa fi Macna ‘l-Majaz wa’l-Haqiqa）。斯特恩在他的文章《以撒·以色列和摩西·依本·以斯拉》中探讨了这个问题。科尔多瓦的诗人和哲学家约瑟夫·依本·扎迪克（约公元 1149 年去世）创作了一部名为《微观世界》的作品（犹太阿拉伯语原文已失传，但该作品以希伯来语翻译本《Ha-colam ha-Qatan》的形式保存下来），其中包含了许多受以色列影响的思想。阿尔特曼和斯特恩在《以撒·以色列》一书中阐明了这两位思想家之间的相似之处（第 30 页、44 页、73-74 页、117 页）。 *.*
 
 艾萨克·以色列对穆斯林作家的哲学影响微乎其微。唯一一处已知的穆斯林作品中引用以色列哲学的例子出现在十一世纪西班牙的一本有关魔法的书籍《Ghayat al-Hakim》中，该书被翻译成拉丁文并在西方广泛传播，标题为《Picatrix》。尽管有些段落与以色列的著作直接对应，但作者并未提及他的名字。
 
@@ -163,42 +162,42 @@ J.L. Teicher 认为以色列·艾萨克不是这部作品的作者（Teicher, 19
 
 ### Primary Sources
 
-* Altmann, Alexander, 1957. “Isaac Israeli’s Book of Definitions: Some Fragments of a Second Hebrew Translation,” _Journal of Semitic Studies_, 2(3): 232–242.
-* Altmann, Alexander, 1956. “Isaac Israeli’s ‘Chapter on the Elements’ (MS Mantua),” _Journal of Jewish Studies_, 7 (1–2): 31–57.
-* Altmann, Alexander and S.M. Stern, 1958. _Isaac Israeli: A Neoplatonic Philosopher of the Early Tenth Century_, Oxford: Oxford University Press.
-* Fried, Salomon, 1884. _Das Buch uber die Elemente_, Leipzig: W. Drugulin.
-* Freudenthal, Gad, and Samuel M Stern. 2017. “The Hebrew Versions of Isaac Israeli’s Book of Definitions and Book on Spirit and Soul: Critical Editions (Posthumous Publication).” _Aleph: Historical Studies in Science and Judaism_ 17: 11–75.  Stern’s article is complemented by three Appendices: _Appendix A_: Andrei Iakovlevič Borisov, “Some New Fragments of Isaak Israeli’s Works” (1935); _Appendix B_: Y. Tzvi Langermann, “The Arabic Fragment from Israeli’s The Book on Spirit and Soul” (88-89); _Appendix C_: Gad Freudenthal,” Complementary Notes to S.M. Stern’s Study of Isaac Israeli’s _Book of Definitions_.” (90–93)
-* Hirschfield, Hartwig, 1896. _Festschrift zum 80. Geburtstag Moritz Steinschneiders._, Leipzig: O. Harrassowitz, pp. 131–42.
-* Hirschfield, Hartwig, 1902. “The Arabic Portion of the Cairo Genizah at Cambridge,” _Jewish Quarterly Review_, 15: 689–93.
-* Muckle, Joseph Thomas, 1937–8. “Isaac Israeli, Liber de Definicionibus,” _Archives d’histoire doctrinale et litteraire du moyen age_, 12: 299–340.
-* Stern, Samuel Miklos, 2017. “The Hebrew versions of Isaac Israeli’s ‘Book of Definitions’ and ‘Book on Spirit and Soul’: critical editions (posthumous publication)”, _Aleph_ 17(1): 11–93.
-* –––, 1956. “The Fragments of Isaac Israeli’s Book of Substances,” _Journal of Jewish Studies_, 7 (1–2): 13–29.
-* –––, 1955. “Isaac Israeli’s Book of Substances,” _Journal of Jewish Studies_, 6 (3): 133–145.
+* Altmann, Alexander, 1957. “Isaac Israeli’s Book of Definitions: Some Fragments of a Second Hebrew Translation,” *Journal of Semitic Studies*, 2(3): 232–242.
+* Altmann, Alexander, 1956. “Isaac Israeli’s ‘Chapter on the Elements’ (MS Mantua),” *Journal of Jewish Studies*, 7 (1–2): 31–57.
+* Altmann, Alexander and S.M. Stern, 1958. *Isaac Israeli: A Neoplatonic Philosopher of the Early Tenth Century*, Oxford: Oxford University Press.
+* Fried, Salomon, 1884. *Das Buch uber die Elemente*, Leipzig: W. Drugulin.
+* Freudenthal, Gad, and Samuel M Stern. 2017. “The Hebrew Versions of Isaac Israeli’s Book of Definitions and Book on Spirit and Soul: Critical Editions (Posthumous Publication).” *Aleph: Historical Studies in Science and Judaism* 17: 11–75.  Stern’s article is complemented by three Appendices: *Appendix A*: Andrei Iakovlevič Borisov, “Some New Fragments of Isaak Israeli’s Works” (1935); *Appendix B*: Y. Tzvi Langermann, “The Arabic Fragment from Israeli’s The Book on Spirit and Soul” (88-89); *Appendix C*: Gad Freudenthal,” Complementary Notes to S.M. Stern’s Study of Isaac Israeli’s *Book of Definitions*.” (90–93)
+* Hirschfield, Hartwig, 1896. *Festschrift zum 80. Geburtstag Moritz Steinschneiders.*, Leipzig: O. Harrassowitz, pp. 131–42.
+* Hirschfield, Hartwig, 1902. “The Arabic Portion of the Cairo Genizah at Cambridge,” *Jewish Quarterly Review*, 15: 689–93.
+* Muckle, Joseph Thomas, 1937–8. “Isaac Israeli, Liber de Definicionibus,” *Archives d’histoire doctrinale et litteraire du moyen age*, 12: 299–340.
+* Stern, Samuel Miklos, 2017. “The Hebrew versions of Isaac Israeli’s ‘Book of Definitions’ and ‘Book on Spirit and Soul’: critical editions (posthumous publication)”, *Aleph* 17(1): 11–93.
+* –––, 1956. “The Fragments of Isaac Israeli’s Book of Substances,” *Journal of Jewish Studies*, 7 (1–2): 13–29.
+* –––, 1955. “Isaac Israeli’s Book of Substances,” *Journal of Jewish Studies*, 6 (3): 133–145.
 
 ### Secondary Sources
 
-* Adamson, P., 2002, _The Arabic Plotinus: a Philosophical Study of the “Theology of Aristotle”_, London: Duckworth.
-* –––, 2007, _Al-Kindi_, New York: Oxford University Press.
-* Altmann, Alexander, 1979. “Creation and Emanation in Isaac Israeli: A Reappraisal,” in Isadore Twersky (ed.), _Studies in Medieval Jewish History and Literature_, Cambridge, MA: Harvard University Press, Vol. 1, pp. 1–15.
-* Blachere, Regis, 1935. _Kitab tabakat al-uman_ (_Livre des categories des nations_), _Traducion avec notes et indices_, Paris: Larose.
-* D’Ancona, C., 1991, “Per un Profilo Filosofico dell’Autore della ‘_Theologia di Aristotele_,’” _Medioevo_, 17: 82–134.
-* Ferre, Dolores, 2015. “Arabic into Hebrew, a case study: Isaac Israeli’s ‘Book on Fevers’”, _Medieval Encounters_, 21(1): 50–80.
-* Husik, Isaac, 1930. _A History of Mediaeval Jewish Philosophy_, New York: MacMillan, 1930.
-* Ivry, Alfred, 1974. _Al-Kindi’s Metaphysics_, Albany, NY: SUNY Press.
-* Langermann, Y. Tzvi, 2017. “From my notebooks Isaac Israeli (the Elder): some interesting remarks on the ‘Posterior Analytics’ in his ‘Book on Fevers’”, _Aleph_, 17(1): 157–166.
-* Muckle, Joseph Thomas, 1933. “Isaac Israeli’s Definition of Truth,” _Archives d’histoire Doctrinale et litteraire du moyen age_, 8: 5–8.
-* Pessin, Sarah, 2003. “Jewish Neoplatonism: Being above Being and Divine Emanation in Solomon Ibn Gabirol and Isaac Israeli,” in Daniel Frank (ed.), _The Cambridge Companion to Medieval Jewish Philosophy_, Cambridge: Cambridge University Press, pp. 91–110.
-* –––, 2015. “Neoplatonic Time in Isaac Israeli: On the Beginning of the End of Love \[as the Beginning of the Beginning of Love].” _Studies in Jewish History and Culture_ 48: 53–65.
-* Rudavsky, Tamar, 1997. “Medieval Jewish Neoplatonism,” in Oliver Leaman and Daniel Frank (eds.), _History of Jewish Philosophy_, London: Routledge, pp. 149–187.
-* Sadik, Shalom, 2013. “Décision humaine et animale dans la pensée de Rabbi Isaac Israeli”, _Journal of Jewish Thought & Philosophy_, 21(2): 143–160.
-* Sirat, Collette, 1985. _A History of Jewish Philosophy in the Middle Ages_, Cambridge: Cambridge University Press.
-* Stern, S.M., 1960. “Ibn Hasday’s Neoplatonist,” _Oriens_, (13–14): 58–120.
-* –––, 1957. “Isaac Israeli and Moses Ibn Ezra,” _Journal of Jewish Studies_, 8 (1–2): 83–89.
-* Stitskin, Leon, 1965–66. “Isaac ben Solomon Israeli: Philosophy as Self-Knowledge,” _Tradition_, 7–8: 89–94.
-* Teicher, Jacob Leon, 1956. “The Latin-Hebrew School of Translators in Spain in the twelfth century,” in _Homenaje a Millas-Vallicrosa_, Volume 2, Barcelona: Consejo Superior de Investigaciones Cientificas, pp. 416–22.
-* Wolfson, Harry Austryn, 1959. “Meaning of Ex Nihilo in Isaac Israeli,” _Jewish Quarterly Review_, 50: 1–12.
-* –––, 1961. “Notes on Isaac Israeli’s Internal Senses,” _Jewish Quarterly Review_, 51: 275–287.
-* Zimmerman, Fritz, 1986. “The Origins of the So Called Theology of Aristotle,” in J. Kraye, C.B. Schmitt, and W. F. Ryan, _Pseudo-Aristotle in the Middle Ages_, London: Warburg Institute, pp. 110–240.
+* Adamson, P., 2002, *The Arabic Plotinus: a Philosophical Study of the “Theology of Aristotle”*, London: Duckworth.
+* –––, 2007, *Al-Kindi*, New York: Oxford University Press.
+* Altmann, Alexander, 1979. “Creation and Emanation in Isaac Israeli: A Reappraisal,” in Isadore Twersky (ed.), *Studies in Medieval Jewish History and Literature*, Cambridge, MA: Harvard University Press, Vol. 1, pp. 1–15.
+* Blachere, Regis, 1935. *Kitab tabakat al-uman* (*Livre des categories des nations*), *Traducion avec notes et indices*, Paris: Larose.
+* D’Ancona, C., 1991, “Per un Profilo Filosofico dell’Autore della ‘*Theologia di Aristotele*,’” *Medioevo*, 17: 82–134.
+* Ferre, Dolores, 2015. “Arabic into Hebrew, a case study: Isaac Israeli’s ‘Book on Fevers’”, *Medieval Encounters*, 21(1): 50–80.
+* Husik, Isaac, 1930. *A History of Mediaeval Jewish Philosophy*, New York: MacMillan, 1930.
+* Ivry, Alfred, 1974. *Al-Kindi’s Metaphysics*, Albany, NY: SUNY Press.
+* Langermann, Y. Tzvi, 2017. “From my notebooks Isaac Israeli (the Elder): some interesting remarks on the ‘Posterior Analytics’ in his ‘Book on Fevers’”, *Aleph*, 17(1): 157–166.
+* Muckle, Joseph Thomas, 1933. “Isaac Israeli’s Definition of Truth,” *Archives d’histoire Doctrinale et litteraire du moyen age*, 8: 5–8.
+* Pessin, Sarah, 2003. “Jewish Neoplatonism: Being above Being and Divine Emanation in Solomon Ibn Gabirol and Isaac Israeli,” in Daniel Frank (ed.), *The Cambridge Companion to Medieval Jewish Philosophy*, Cambridge: Cambridge University Press, pp. 91–110.
+* –––, 2015. “Neoplatonic Time in Isaac Israeli: On the Beginning of the End of Love \[as the Beginning of the Beginning of Love].” *Studies in Jewish History and Culture* 48: 53–65.
+* Rudavsky, Tamar, 1997. “Medieval Jewish Neoplatonism,” in Oliver Leaman and Daniel Frank (eds.), *History of Jewish Philosophy*, London: Routledge, pp. 149–187.
+* Sadik, Shalom, 2013. “Décision humaine et animale dans la pensée de Rabbi Isaac Israeli”, *Journal of Jewish Thought & Philosophy*, 21(2): 143–160.
+* Sirat, Collette, 1985. *A History of Jewish Philosophy in the Middle Ages*, Cambridge: Cambridge University Press.
+* Stern, S.M., 1960. “Ibn Hasday’s Neoplatonist,” *Oriens*, (13–14): 58–120.
+* –––, 1957. “Isaac Israeli and Moses Ibn Ezra,” *Journal of Jewish Studies*, 8 (1–2): 83–89.
+* Stitskin, Leon, 1965–66. “Isaac ben Solomon Israeli: Philosophy as Self-Knowledge,” *Tradition*, 7–8: 89–94.
+* Teicher, Jacob Leon, 1956. “The Latin-Hebrew School of Translators in Spain in the twelfth century,” in *Homenaje a Millas-Vallicrosa*, Volume 2, Barcelona: Consejo Superior de Investigaciones Cientificas, pp. 416–22.
+* Wolfson, Harry Austryn, 1959. “Meaning of Ex Nihilo in Isaac Israeli,” *Jewish Quarterly Review*, 50: 1–12.
+* –––, 1961. “Notes on Isaac Israeli’s Internal Senses,” *Jewish Quarterly Review*, 51: 275–287.
+* Zimmerman, Fritz, 1986. “The Origins of the So Called Theology of Aristotle,” in J. Kraye, C.B. Schmitt, and W. F. Ryan, *Pseudo-Aristotle in the Middle Ages*, London: Warburg Institute, pp. 110–240.
 
 ## Academic Tools
 
@@ -219,4 +218,4 @@ J.L. Teicher 认为以色列·艾萨克不是这部作品的作者（Teicher, 19
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Leonard Levin\
 R. David Walker\
-Shalom Sadik <[_navitshalom@hotmail.com_](mailto:navitshalom%40hotmail%2ecom)>
+Shalom Sadik <[*navitshalom@hotmail.com*](mailto:navitshalom%40hotmail%2ecom)>

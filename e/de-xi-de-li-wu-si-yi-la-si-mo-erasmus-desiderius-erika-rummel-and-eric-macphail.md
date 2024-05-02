@@ -1,10 +1,8 @@
 # 德西德里乌斯·伊拉斯谟 Erasmus, Desiderius (Erika Rummel and Eric MacPhail)
 
-_首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2021 年 10 月 14 日星期四_
+*首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2021 年 10 月 14 日星期四*
 
 德西德里乌斯·伊拉斯谟（1467?–1536）虽然不是系统的哲学家，但我们在他的大量著作中可以看出某种伊拉斯谟式的思维习惯。他经常反思邀请哲学探讨的主题：自然与培养的影响，言语与事物之间的关系，政府的理想形式，信仰的本质以及知识论。即使他的观点不够系统化，但今天的历史学家对伊拉斯谟在这些主题上的观点仍然感兴趣，因为他的作品广泛流传，他在北欧的影响力深远。用现代术语来说，他是一个舆论领袖。如果需要一个通用标签，伊拉斯谟的思想最好被描述为“基督教人文主义”，即一种将基督教思想与古典传统相结合的生活哲学。他接受了人文主义对个体自我提升能力和教育在提升人类超越禽兽水平中的基本作用的信念。伊拉斯谟教育计划的核心是推广 docta pietas，即学术虔诚，或者他所称的“基督哲学”。作为一名圣经学者，他支持人文主义的 Ad fontes 呼声，即回到原始语言的文本，因此推动了对希伯来语、希腊语和拉丁语等圣经语言的研究。他处于现代语言学的前沿。他开创性地编辑了希腊语新约圣经，表明他对文本传承过程有一定了解，并制定了文本批判原则。在政治方面，伊拉斯谟主张共识、妥协和和平合作，这些理想他推荐给宗教改革辩论的参与者，尽管并不成功。他被他的同时代人视为宗教改革的先驱，但他因马丁·路德的教派主义而与之决裂。更根本地，这两位人在启发法和自由意志问题上存在分歧，并就此展开了一场论战。伊拉斯谟对路德的主张持怀疑态度。与改革者不同，他不相信圣经的明晰性，并将共识和传统作为解决那些无法得出理性结论的问题的标准。然而，伊拉斯谟很少涉足教义问题，更倾向于简单的信仰和虔诚，而非辩证法和学术推测。当天主教会将他的作品列入禁书目录时，伊拉斯谟的作品流传一度受到限制，但在启蒙运动期间，他被视为理性主义的先驱，他的思想得到了复兴。他最著名的作品《愚人颂》至今仍在印刷，这与 16 世纪的少数几本书之一。
-
-
 
 ***
 
@@ -136,7 +134,7 @@ _首次发表于 2017 年 9 月 27 日星期三；实质性修订于 2021 年 10
 
 在概述他的理想时，德西德里乌斯·伊拉斯谟运用了古典哲学家的概念，并将其基督化或调整以满足特定的修辞需求。他的思想中关键元素的持久存在贯穿了一生，并在不同文学体裁中表现出来，这表明这些想法，即使不能算得上是一种哲学，也发展成了一种可以被称为“伊拉斯谟式”的思维习惯。这尤其适用于他对虔诚的看法。
 
-## 6. _Pietas_ and _Philosophia Christi_
+## 6. *Pietas* and *Philosophia Christi*
 
 基督哲学这个术语首次出现在神学著作中。它是虔诚概念的一个方面，指导个体与上帝以及个体与社会之间适当关系的道德良心。在伊拉斯谟的精神著作中，虔诚是一个核心信条，因此横跨神学和哲学两个主题。
 
@@ -188,89 +186,89 @@ Pietas 并不依赖于学识。信仰是唯一的前提。这是伊拉斯谟在�
 
 ### Erasmus’ Works
 
-For a repertory of individual works and their early editions, see Ferdinand Van der Haeghen, _Bibliotheca Erasmiana: Répertoire des oeuvres d’Erasme_ (first published 1897, most recent reprinted Würzburg: Osthoff, 2005).
+For a repertory of individual works and their early editions, see Ferdinand Van der Haeghen, *Bibliotheca Erasmiana: Répertoire des oeuvres d’Erasme* (first published 1897, most recent reprinted Würzburg: Osthoff, 2005).
 
-Erasmus’ _Opera Omnia_ were first published in Basel: Froben, 1540. The arrangement of works adopted there has become the model for later editions. An authoritative critical edition (ASD) and an English translation (CWE) of his works are ongoing.
+Erasmus’ *Opera Omnia* were first published in Basel: Froben, 1540. The arrangement of works adopted there has become the model for later editions. An authoritative critical edition (ASD) and an English translation (CWE) of his works are ongoing.
 
-* \[Allen] _Opus Epistolarum Des. Erasmi Roterodami_, 12 vols., edited by P.S. Allen and others, Oxford: Oxford University Press, 1906–1958. doi:10.1093/actrade/9780198203414.book.1
-* \[ASD] _Opera Omnia Des. Erasmi Roterodami_, (no primary editor), Amsterdam: North Holland Press, 1969–. In 9 _ordines_ or categories, each of which has multiple volumes.
-* \[CWE] _The Collected Works of Erasmus_, (no primary editor), Toronto: University of Toronto Press, 1974–.
-* \[LB] _Opera Omnia Des. Erasmi Roterodami_, 10 vols. Leiden: Peter van der Aa, 1703–1706.
+* \[Allen] *Opus Epistolarum Des. Erasmi Roterodami*, 12 vols., edited by P.S. Allen and others, Oxford: Oxford University Press, 1906–1958. doi:10.1093/actrade/9780198203414.book.1
+* \[ASD] *Opera Omnia Des. Erasmi Roterodami*, (no primary editor), Amsterdam: North Holland Press, 1969–. In 9 *ordines* or categories, each of which has multiple volumes.
+* \[CWE] *The Collected Works of Erasmus*, (no primary editor), Toronto: University of Toronto Press, 1974–.
+* \[LB] *Opera Omnia Des. Erasmi Roterodami*, 10 vols. Leiden: Peter van der Aa, 1703–1706.
 
 Texts not (or not yet) included in these editions:
 
-* Ferguson, Wallace K. (ed.), _Erasmi Opuscula. A Supplement to the Opera Omnia_, The Hague: Martinus Nijhoff, 1933.
-* \[Holborn] Holborn, Hajo and Annemarie Holborn (eds.), _Desiderius Erasmus Roterodamus: Ausgewählte Werke_, Munich: Beck, 1933.
+* Ferguson, Wallace K. (ed.), *Erasmi Opuscula. A Supplement to the Opera Omnia*, The Hague: Martinus Nijhoff, 1933.
+* \[Holborn] Holborn, Hajo and Annemarie Holborn (eds.), *Desiderius Erasmus Roterodamus: Ausgewählte Werke*, Munich: Beck, 1933.
 
 ### Other Primary Works
 
-* Beda, Noël, 1526, “A Scholastic Response to Biblical Humanism: Noël Beda Against Lefèvre D’Etaples and Erasmus (1526)”, Mark Crane (trans.), _Humanistica Lovaniensia_, 59: 55–81, 2010.
-* Dilthey, Wilhelm, \[GS II], _Gesammelte Schriften II: Weltanschauung und Analyse des Menschen seit Renaissance und Reformation_, (_World-intuition and the Analysis of Humanity Since the Renaissance and Reformation_), Stuttgart: B.G. Teubner Verlagsgesellschaft, 1957.
-* Kessler, Johan, 1523–1539, _Johannes Kesslers Sabbata_, Emil Egli & Rudolf Schoch (eds.), St. Gallen: Vormals Huber & Co., 1902.
-* Pico della Mirandola, 1496, _On the Dignity of Man_, A. Robert Caponigri (trans.), Washington, DC: Regnery Publishing, 1996.
-* Titelmans, Frans, 1530, _Epistola apologetica … pro opere Collationum_, Antwerp: Grapheus.
+* Beda, Noël, 1526, “A Scholastic Response to Biblical Humanism: Noël Beda Against Lefèvre D’Etaples and Erasmus (1526)”, Mark Crane (trans.), *Humanistica Lovaniensia*, 59: 55–81, 2010.
+* Dilthey, Wilhelm, \[GS II], *Gesammelte Schriften II: Weltanschauung und Analyse des Menschen seit Renaissance und Reformation*, (*World-intuition and the Analysis of Humanity Since the Renaissance and Reformation*), Stuttgart: B.G. Teubner Verlagsgesellschaft, 1957.
+* Kessler, Johan, 1523–1539, *Johannes Kesslers Sabbata*, Emil Egli & Rudolf Schoch (eds.), St. Gallen: Vormals Huber & Co., 1902.
+* Pico della Mirandola, 1496, *On the Dignity of Man*, A. Robert Caponigri (trans.), Washington, DC: Regnery Publishing, 1996.
+* Titelmans, Frans, 1530, *Epistola apologetica … pro opere Collationum*, Antwerp: Grapheus.
 
 ### Biographies
 
-* Augustijn, Cornelis, 1991, _Erasmus: His Life, Works, and Influence_ (_Erasmus von Rotterdam: Leben, Werk, Wirkung_), J.C. Grayson (trans.), Toronto: University of Toronto Press; originally published in 1986.
-* Christ von Wedel, Christine, 2013, _Erasmus of Rotterdam: Advocate of a New Christianity_ (_Erasmus von Rotterdam: Anwalt eines neuzeitlichen Christentums_), Toronto: University of Toronto Press; originally published in 2003.
-* Halkin, Léon-Ernest, 1993, _Erasmus: A Critical Biography_ (_Erasme parmi nous_), John Tonkin (trans.), Oxford: Blackwell; originally published 1987.
-* Huizinga, Johan, 1912 \[1957], _Erasmus and the Age of Reformation_, F. Hopman (trans.), New York: Harper.
-* Margolin, Jean-Claude, 1995, _Érasme précepteur de l’Europe_, Paris: Julliard.
-* McConica, James K., 1991, _Erasmus_, Oxford: Oxford University Press.
-* Rummel, Erika, 2004, _Erasmus_, London: Continuum Press.
-* Schoeck, Richard J., 1990–1993, _Erasmus of Europe_, Edinburgh: Edinburgh University Press.
-  * 1990, Vol. 1: _The Making of a Humanist, 1467–1500_
-  * 1993, Vol. 2: _The Prince of Humanists, 1501–1536_
-* Tracy, James D., 1972, _Erasmus: The Growth of a Mind_, (Travaux d’humanisme et Renaissance, 126), Geneva: Droz.
+* Augustijn, Cornelis, 1991, *Erasmus: His Life, Works, and Influence* (*Erasmus von Rotterdam: Leben, Werk, Wirkung*), J.C. Grayson (trans.), Toronto: University of Toronto Press; originally published in 1986.
+* Christ von Wedel, Christine, 2013, *Erasmus of Rotterdam: Advocate of a New Christianity* (*Erasmus von Rotterdam: Anwalt eines neuzeitlichen Christentums*), Toronto: University of Toronto Press; originally published in 2003.
+* Halkin, Léon-Ernest, 1993, *Erasmus: A Critical Biography* (*Erasme parmi nous*), John Tonkin (trans.), Oxford: Blackwell; originally published 1987.
+* Huizinga, Johan, 1912 \[1957], *Erasmus and the Age of Reformation*, F. Hopman (trans.), New York: Harper.
+* Margolin, Jean-Claude, 1995, *Érasme précepteur de l’Europe*, Paris: Julliard.
+* McConica, James K., 1991, *Erasmus*, Oxford: Oxford University Press.
+* Rummel, Erika, 2004, *Erasmus*, London: Continuum Press.
+* Schoeck, Richard J., 1990–1993, *Erasmus of Europe*, Edinburgh: Edinburgh University Press.
+  * 1990, Vol. 1: *The Making of a Humanist, 1467–1500*
+  * 1993, Vol. 2: *The Prince of Humanists, 1501–1536*
+* Tracy, James D., 1972, *Erasmus: The Growth of a Mind*, (Travaux d’humanisme et Renaissance, 126), Geneva: Droz.
 
 ### Secondary Works
 
-* Bejczy, Istvan, 2001, _Erasmus and the Middle Ages: The Historical Consciousness of a Christian Humanist_, Leiden: Brill.
+* Bejczy, Istvan, 2001, *Erasmus and the Middle Ages: The Historical Consciousness of a Christian Humanist*, Leiden: Brill.
 * Béné, Charles, 1969, É_rasme et Saint Augustin, ou Influence de Saint Augustin sur l’humanisme d’Érasme_, Geneva: Droz,
-* Bentley, Jerry H., 1983, _Humanists and Holy Writ: New Testament Scholarship in the Renaissance_, Princeton: Princeton University Press.
-* Bierlaire, Franz, 1978, _Les colloques d’Erasme: réforme des études, réforme des moeurs et réforme de l’Eglise au XVIe siècle_, Paris: Les Belles Lettres.
-* Bietenholz, Peter, 2009, _Encounters With a Radical Erasmus: Erasmus’ Work as a Source of Radical Thought in Early Modern Europe_, Toronto: University of Toronto Press.
-* Boyle, Marjorie O’Rourke, 1977, _Erasmus on Language and Method in Theology_, Toronto: University of Toronto Press.
-* –––, 1981, _Christening Pagan Mysteries: Erasmus in Pursuit of Wisdom_, Toronto: University of Toronto Press.
-* –––, 1983, _Rhetoric and Reform: Erasmus’ Civil Dispute with Luther_, Cambridge, MA: Harvard University Press.
-* Chomarat, Jacques, 1981, _Grammaire et rhétorique chez Érasme_, Paris: Les Belles Lettres.
-* Christ von Wedel, Christine, 1981, _Das Nichtwissen bei Erasmus von Rotterdam: Zum philosophischen und theologischen Erkennen in der geistigen Entwicklung eines christlichen Humanisten_, Basel: Helbing & Lichtenhan.
-* Coppens, Joseph (ed.), 1969, _Scrinium Erasmianum_, 2 volumes, Leiden: Brill.
-* Cummings, Brian, 2013, “Erasmus and the Invention of Literature”, _Erasmus of Rotterdam Society Yearbook_, 33: 22–54.
-* Cytowska, Maria, 1976, “Erasme et la philosophie antique”, _Ziva Antika / Antiquité vivante_, 26: 453–462.
-* Dahrendorf, Ralf, “Erasmus-Menschen”, _Merkur, Deutsche Zeitschrift für europäisches Denken_ 53: 1063–1071.
-* Dealy, Ross, 2017, _The Stoic Origins of Erasmus’ Philosophy of Christ_, Toronto: University of Toronto Press.
-* De Molen, Richard, 1987, _The Spirituality of Erasmus_, Nieuwkoop: De Graaf.
-* Dodds, Gregory , 2009, _Exploiting Erasmus: The Erasmian Legacy and Religious Change in Early Modern England_, Toronto: University of Toronto Press.
-* Dolfen, Christian, 1936, _Die Stellung des Erasmus von Rotterdam zur scholastischen Methode_, Osnabrück: Meinders & Elstermann.
-* Eden, Kathy, 2001, _Friends Hold All Things in Common: Tradition, Intellectual Property, and the Adages of Erasmus_, New Haven: Yale University Press.
-* Godin, André, 1982, _Érasme lecteur d’Origène_, Geneva: Droz.
-* Gordon, Walter M., 1990, _Humanist Play and Belief: The Seriocomic Art of Desiderius Erasmus_, Toronto: University of Toronto Press.
-* Herwaarden, Jan van, 2003, _Between Saint James and Erasmus. Studies in late-medieval religious life: Devotion and Pilgrimage in the Netherlands_, (Studies in medieval and Reformation thought, 97), Wendie Schaffter and Donald Gardner (trans.), Leiden: Brill.
-* Hoffmann, Manfred, 1994, _Rhetoric and Theology: The Hermeneutic of Erasmus_, Toronto: University of Toronto Press.
-* Jardine, Lisa, 1993, _Erasmus, Man of Letters: The Construction of Charisma in Print_, Princeton: Princeton University Press.
-* Jonge, Henk Jan de, 1984, “Novum Testamentum a nobis versum: The Essence of Erasmus’ Edition of the New Testament”, _Journal of Theological Studies_, 35: 394–413.
-* Kerlen, Dietrich, 1976, _Assertio: Die Entwicklung von Luthers theologischem Anspruch und der Streit mit Erasmus von Rotterdam_, Wiesbaden: Franz Steiner.
-* Koerber, Eberhard von, 1967, _Die Staatstheorie des Erasmus von Rotterdam_, Berlin: Duncker & Humbolt.
-* Kohls, Ernst–Wilhelm, 1966, _Die Theologie des Erasmus_, 2 vols., Basel: F. Reinhardt.
-* Mansfield, Bruce, 1992, _Man on his Own: Interpretations of Erasmus c. 1750–1920_, Toronto: University of Toronto Press.
-* Monfasani, John, 2012, “Erasmus and the Philosophers”, _Erasmus of Rotterdam Society Yearbook_ (now _Erasmus Studies_), 32: 47–68. doi:10.1163/18749275-00000005
-* Nauert, Charles G., 2006, _Humanism and the Culture of Renaissance Europe_, 2nd edition, Cambridge: Cambridge University Press.
-* Pabel, M. Hilmar (ed.), 1995, _Erasmus’ Vision of the Church_, Kirksville: Sixteenth Century Journal Publishers.
-* Popkin, Richard, 1964, _The History of Scepticism from Erasmus to Descartes_, New York: Harper & Row.
-* Rabil, Albert, 1972, _Erasmus and the New Testament: The Mind of a Christian Humanist_, San Antonio: Trinity University Press.
-* Remer, Gary, 1996, _Humanism and the Rhetoric of Toleration_, University Park: Pennsylvania State University Press.
-* Rummel, Erika, 1995, _The Humanist-Scholastic Debate in the Renaissance and Reformation_, Cambridge, MA: Harvard University Press.
-* –––, 2000, _The Confessionalization of Humanism in Reformation Germany_, New York: Oxford University Press.
-* Ryle, Stephen (ed.), 2014, _Erasmus and the Renaissance Republic of Letters_, Turnhout: Brepols.
-* Steel, Carlos, 2008, “Erasmus and Aristotle”, _Erasmo da Rotterdam e la cultura europea / Erasmus of Rotterdam and European Culture. Atti dell’incontro di Studi nel V Centenario della Laurea di Erasmo all’Università di Torino_, Florence: Sismel, 149–174.
-* Tracy, James D., 1978, _The Politics of Erasmus: A Pacifist Intellectual and His Political Milieu_, Toronto: University of Toronto Press.
-* Trapman, Hans, Jan van Herwaarden and Adrie van der Laan (eds.), 2010, _Erasmus Politicus: Erasmus and Political Thought_, Leiden: Brill.
-* Vanautgaerden, Alexandre, 2012, _Érasme typographe: Humanisme et imprimerie au début du XVIe siècle_, Geneva: Droz.
-* Vessey, Mark (ed.), 2021, _Erasmus on Literature. His Ratio or ‘System’ of 1518/1519_, Toronto: University of Toronto Press.
-* Walter, Peter, 1991, _Theologie aus dem Geist der Rhetorik zur Schriftauslegung des Erasmus von Rotterdam_, Mainz: Mathias-Grünewald-Verlag.
-* Woodward, William, 1904 \[1971], _. Desiderius Erasmus Concerning the Aim and Method of Education_; reprinted, New York: B. Franklin.
+* Bentley, Jerry H., 1983, *Humanists and Holy Writ: New Testament Scholarship in the Renaissance*, Princeton: Princeton University Press.
+* Bierlaire, Franz, 1978, *Les colloques d’Erasme: réforme des études, réforme des moeurs et réforme de l’Eglise au XVIe siècle*, Paris: Les Belles Lettres.
+* Bietenholz, Peter, 2009, *Encounters With a Radical Erasmus: Erasmus’ Work as a Source of Radical Thought in Early Modern Europe*, Toronto: University of Toronto Press.
+* Boyle, Marjorie O’Rourke, 1977, *Erasmus on Language and Method in Theology*, Toronto: University of Toronto Press.
+* –––, 1981, *Christening Pagan Mysteries: Erasmus in Pursuit of Wisdom*, Toronto: University of Toronto Press.
+* –––, 1983, *Rhetoric and Reform: Erasmus’ Civil Dispute with Luther*, Cambridge, MA: Harvard University Press.
+* Chomarat, Jacques, 1981, *Grammaire et rhétorique chez Érasme*, Paris: Les Belles Lettres.
+* Christ von Wedel, Christine, 1981, *Das Nichtwissen bei Erasmus von Rotterdam: Zum philosophischen und theologischen Erkennen in der geistigen Entwicklung eines christlichen Humanisten*, Basel: Helbing & Lichtenhan.
+* Coppens, Joseph (ed.), 1969, *Scrinium Erasmianum*, 2 volumes, Leiden: Brill.
+* Cummings, Brian, 2013, “Erasmus and the Invention of Literature”, *Erasmus of Rotterdam Society Yearbook*, 33: 22–54.
+* Cytowska, Maria, 1976, “Erasme et la philosophie antique”, *Ziva Antika / Antiquité vivante*, 26: 453–462.
+* Dahrendorf, Ralf, “Erasmus-Menschen”, *Merkur, Deutsche Zeitschrift für europäisches Denken* 53: 1063–1071.
+* Dealy, Ross, 2017, *The Stoic Origins of Erasmus’ Philosophy of Christ*, Toronto: University of Toronto Press.
+* De Molen, Richard, 1987, *The Spirituality of Erasmus*, Nieuwkoop: De Graaf.
+* Dodds, Gregory , 2009, *Exploiting Erasmus: The Erasmian Legacy and Religious Change in Early Modern England*, Toronto: University of Toronto Press.
+* Dolfen, Christian, 1936, *Die Stellung des Erasmus von Rotterdam zur scholastischen Methode*, Osnabrück: Meinders & Elstermann.
+* Eden, Kathy, 2001, *Friends Hold All Things in Common: Tradition, Intellectual Property, and the Adages of Erasmus*, New Haven: Yale University Press.
+* Godin, André, 1982, *Érasme lecteur d’Origène*, Geneva: Droz.
+* Gordon, Walter M., 1990, *Humanist Play and Belief: The Seriocomic Art of Desiderius Erasmus*, Toronto: University of Toronto Press.
+* Herwaarden, Jan van, 2003, *Between Saint James and Erasmus. Studies in late-medieval religious life: Devotion and Pilgrimage in the Netherlands*, (Studies in medieval and Reformation thought, 97), Wendie Schaffter and Donald Gardner (trans.), Leiden: Brill.
+* Hoffmann, Manfred, 1994, *Rhetoric and Theology: The Hermeneutic of Erasmus*, Toronto: University of Toronto Press.
+* Jardine, Lisa, 1993, *Erasmus, Man of Letters: The Construction of Charisma in Print*, Princeton: Princeton University Press.
+* Jonge, Henk Jan de, 1984, “Novum Testamentum a nobis versum: The Essence of Erasmus’ Edition of the New Testament”, *Journal of Theological Studies*, 35: 394–413.
+* Kerlen, Dietrich, 1976, *Assertio: Die Entwicklung von Luthers theologischem Anspruch und der Streit mit Erasmus von Rotterdam*, Wiesbaden: Franz Steiner.
+* Koerber, Eberhard von, 1967, *Die Staatstheorie des Erasmus von Rotterdam*, Berlin: Duncker & Humbolt.
+* Kohls, Ernst–Wilhelm, 1966, *Die Theologie des Erasmus*, 2 vols., Basel: F. Reinhardt.
+* Mansfield, Bruce, 1992, *Man on his Own: Interpretations of Erasmus c. 1750–1920*, Toronto: University of Toronto Press.
+* Monfasani, John, 2012, “Erasmus and the Philosophers”, *Erasmus of Rotterdam Society Yearbook* (now *Erasmus Studies*), 32: 47–68. doi:10.1163/18749275-00000005
+* Nauert, Charles G., 2006, *Humanism and the Culture of Renaissance Europe*, 2nd edition, Cambridge: Cambridge University Press.
+* Pabel, M. Hilmar (ed.), 1995, *Erasmus’ Vision of the Church*, Kirksville: Sixteenth Century Journal Publishers.
+* Popkin, Richard, 1964, *The History of Scepticism from Erasmus to Descartes*, New York: Harper & Row.
+* Rabil, Albert, 1972, *Erasmus and the New Testament: The Mind of a Christian Humanist*, San Antonio: Trinity University Press.
+* Remer, Gary, 1996, *Humanism and the Rhetoric of Toleration*, University Park: Pennsylvania State University Press.
+* Rummel, Erika, 1995, *The Humanist-Scholastic Debate in the Renaissance and Reformation*, Cambridge, MA: Harvard University Press.
+* –––, 2000, *The Confessionalization of Humanism in Reformation Germany*, New York: Oxford University Press.
+* Ryle, Stephen (ed.), 2014, *Erasmus and the Renaissance Republic of Letters*, Turnhout: Brepols.
+* Steel, Carlos, 2008, “Erasmus and Aristotle”, *Erasmo da Rotterdam e la cultura europea / Erasmus of Rotterdam and European Culture. Atti dell’incontro di Studi nel V Centenario della Laurea di Erasmo all’Università di Torino*, Florence: Sismel, 149–174.
+* Tracy, James D., 1978, *The Politics of Erasmus: A Pacifist Intellectual and His Political Milieu*, Toronto: University of Toronto Press.
+* Trapman, Hans, Jan van Herwaarden and Adrie van der Laan (eds.), 2010, *Erasmus Politicus: Erasmus and Political Thought*, Leiden: Brill.
+* Vanautgaerden, Alexandre, 2012, *Érasme typographe: Humanisme et imprimerie au début du XVIe siècle*, Geneva: Droz.
+* Vessey, Mark (ed.), 2021, *Erasmus on Literature. His Ratio or ‘System’ of 1518/1519*, Toronto: University of Toronto Press.
+* Walter, Peter, 1991, *Theologie aus dem Geist der Rhetorik zur Schriftauslegung des Erasmus von Rotterdam*, Mainz: Mathias-Grünewald-Verlag.
+* Woodward, William, 1904 \[1971], *. Desiderius Erasmus Concerning the Aim and Method of Education*; reprinted, New York: B. Franklin.
 
 ## Academic Tools
 
@@ -282,8 +280,8 @@ Texts not (or not yet) included in these editions:
 
 ## Other Internet Resources
 
-* Nauert, Charles, “Desiderius Erasmus”, _The Stanford Encyclopedia of Philosophy_ (Fall 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/erasmus/](https://plato.stanford.edu/archives/fall2017/entries/erasmus/). \[This was the previous entry on Erasmus in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus).]
-* “[Erasmus, Desiderius](https://iep.utm.edu/erasmus/)”, entry by Eric MacPhail in the _The Internet Encyclopedia of Philosophy_.
+* Nauert, Charles, “Desiderius Erasmus”, *The Stanford Encyclopedia of Philosophy* (Fall 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2017/entries/erasmus/](https://plato.stanford.edu/archives/fall2017/entries/erasmus/). \[This was the previous entry on Erasmus in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=erasmus).]
+* “[Erasmus, Desiderius](https://iep.utm.edu/erasmus/)”, entry by Eric MacPhail in the *The Internet Encyclopedia of Philosophy*.
 * [Erasmus Center for Early Modern Studies](https://www.erasmus.org/), a joint initiative of Erasmus University Rotterdam and Rotterdam City Library.
 * [Erasmus of Rotterdam Society](https://erasmussociety.org/), with links to the Huygens Institute and its digitized edition of the Adages.
 
@@ -293,4 +291,4 @@ Texts not (or not yet) included in these editions:
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Erika Rummel\
-Eric MacPhail <[_macphai@indiana.edu_](mailto:macphai%40indiana%2eedu)>
+Eric MacPhail <[*macphai@indiana.edu*](mailto:macphai%40indiana%2eedu)>

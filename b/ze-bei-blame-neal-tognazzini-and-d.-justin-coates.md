@@ -1,6 +1,6 @@
 # 责备 blame (Neal Tognazzini and D. Justin Coates)
 
-_首次发表于 2014 年 4 月 15 日；实质性修订于 2018 年 8 月 17 日_
+*首次发表于 2014 年 4 月 15 日；实质性修订于 2018 年 8 月 17 日*
 
 责备是对某人或其行为具有负面规范意义的反应。一个典型的例子可能是当一个人对另一个人做错事时，后者会以怨恨和口头责备的方式回应，当然我们也会因为他人的态度和品质而责备他们（例如，参见 Smith 2005）。因此，责备的情景通常涉及对错误或不良行为、态度或品质的广泛内外反应（这些反应包括：信念、欲望、期望、情绪、制裁等等）。在对责备进行理论化思考时，哲学家通常提出了两个问题：
 
@@ -8,7 +8,6 @@ _首次发表于 2014 年 4 月 15 日；实质性修订于 2018 年 8 月 17 �
 * 在什么条件下以这些方式回应是合适的？
 
 许多理论家在处理这些问题时都有一个更大的理论议程：例如，为了更普遍地理解道德责任的条件和自由的本质（例如，Wallace 1994），或者为了阐明道德属性的内容（例如，Gibbard 1990）。但这些问题本身就很有趣，特别是因为责备是道德经验中如此普遍的特征。本文将批判性地讨论对上述关于责备的问题所提出的答案，旨在揭示责备的本质、伦理学和意义。（一个普遍但并非普遍的假设是赞扬是责备的对应物；然而，责备常常被认为是道德哲学中更重要的现象。）
-
 
 ***
 
@@ -24,7 +23,7 @@ _首次发表于 2014 年 4 月 15 日；实质性修订于 2018 年 8 月 17 �
 
 责备的认知理论认为，责备基本上是我们根据他们的行动、态度或品质对一个行动者做出的判断或评价。最早的责备认知理论之一是由 J.J.C. Smart（1961）提出的，他间接地发展了他对责备的分析，因为他首先区分了赞扬和_谴责_（而不是更自然的赞扬和责备之间的区别）。根据 Smart 的观点，赞扬或谴责一个个体只是将其作为某种特定类型的成员进行_评分_。正如 Smart 所说，这种评分与在超市判断一个苹果比其他苹果更好的评分没有什么不同。关键是，Smart 指出，尽管你可能因为一个年轻哲学家在推荐信中写作不佳而谴责他们，但你并不因此而责备他们。因此，对于 Smart 来说，责备与谴责是不同的。与谴责不同，责备不仅仅涉及对某人的行动或品质（在道德上）进行评分，因为责备还暗示着这个人对他们的行动或品质负有责任。因此，责备是一种暗示责任的负面评价判断。
 
-在类似的思路中，Gary Watson（1996）提出了一种与他所称之为“德性观点”相关的评价形式的责备。以这种方式责备某人是判断他们在某种卓越标准（_areté_）上失败。这也意味着坚持认为行动是可以归因于行动者的，它代表了他们的评价立场、实践身份，以及他们所代表的东西（Watson 1996）。与 Smart 一样，Watson 承认可以客观地做出这样的判断。因此，在 Smart 和 Watson 发展的关于评分和评价的责备理论中，没有任何关于责备的内容需要责备者以任何方式情绪激动。然而，与 Smart 不同的是，他将德性责备与暗示道德责任的评分形式_等同_起来，Watson 并不认为德性责备是对责备的一般_分析_。对于 Watson 来说，德性责备只是我们责备他人行动的众多方式之一。
+在类似的思路中，Gary Watson（1996）提出了一种与他所称之为“德性观点”相关的评价形式的责备。以这种方式责备某人是判断他们在某种卓越标准（*areté*）上失败。这也意味着坚持认为行动是可以归因于行动者的，它代表了他们的评价立场、实践身份，以及他们所代表的东西（Watson 1996）。与 Smart 一样，Watson 承认可以客观地做出这样的判断。因此，在 Smart 和 Watson 发展的关于评分和评价的责备理论中，没有任何关于责备的内容需要责备者以任何方式情绪激动。然而，与 Smart 不同的是，他将德性责备与暗示道德责任的评分形式_等同_起来，Watson 并不认为德性责备是对责备的一般_分析_。对于 Watson 来说，德性责备只是我们责备他人行动的众多方式之一。
 
 尽管许多人抵制将责备视为一种评分形式，但许多当代责备的解释仍保留了 Smart（和 Watson）的核心观点，即责备是一种评价判断。但是，什么样的评价判断才能成立呢？许多理论家将责备与基本上涉及被责备者的_道德_或_实践_自我如何参与行动的判断联系起来。这使得认知理论能够解释责备的特殊力量。毕竟，正如 T.M. Scanlon 所说，“考虑到大多数人关心他们的道德自我”（以及他人对他们道德自我的看法），涉及这些方面的判断并不是“_仅仅的_描述”（Scanlon 1986: 170）。Michael Zimmerman（1988）和 Ishtiyaque Haji（1998）更生动地阐述了这一观点，他们认为责备某人意味着判断出他们的态度、行动或品质使他们的道德自我上有一个_污点_或对他们的道德账簿有一个不利标记。正如 Zimmerman 所说，当我们责备某人时，我们判断
 
@@ -84,9 +83,9 @@ T. M. Scanlon（2008 年）对责备提出了一种有影响力的解释，这�
 
 Functional accounts of blame are analogous to functionalist theories of mental states or properties. Instead of identifying blame with any particular attitude (like a judgment or emotion) or combination of attitudes (like a belief-desire pair), functional accounts of blame identify blame by its functional role. This way of proceeding leaves open the particular attitude or combination of attitudes that constitute blame. In this way, functional accounts can be more flexible.
 
-According to one functional account of blame, the function of blame is protest. In other words, what we’re doing when we blame others is protesting their actions or character. But this, of course, means that any number of attitudes or combination of attitudes could be present in blame. Pamela Hieronymi (2001), Matthew Talbert (2012), and Victoria McGeer (2013) argue that reactive attitudes like resentment (and the expressions of these attitudes) serve as powerful forms of protest. Angela Smith (2013), on the other hand, argues that when we modify our attitudes and intentions as Scanlon envisions, but do so _as a form of protest_, then we are actually blaming. In other words, for Smith, it’s not enough that we modify our attitudes and intentions; the modification in question must serve a particular function, namely that of protest, to count as an instance of blame. And in order to count as a protest, it need not involve any particular emotional state. (See Franklin (2013) and Houston (1992) for more on the way in which blame allows us to stand up for our values.)
+According to one functional account of blame, the function of blame is protest. In other words, what we’re doing when we blame others is protesting their actions or character. But this, of course, means that any number of attitudes or combination of attitudes could be present in blame. Pamela Hieronymi (2001), Matthew Talbert (2012), and Victoria McGeer (2013) argue that reactive attitudes like resentment (and the expressions of these attitudes) serve as powerful forms of protest. Angela Smith (2013), on the other hand, argues that when we modify our attitudes and intentions as Scanlon envisions, but do so *as a form of protest*, then we are actually blaming. In other words, for Smith, it’s not enough that we modify our attitudes and intentions; the modification in question must serve a particular function, namely that of protest, to count as an instance of blame. And in order to count as a protest, it need not involve any particular emotional state. (See Franklin (2013) and Houston (1992) for more on the way in which blame allows us to stand up for our values.)
 
-There are at least two sources of concern for those theories that take protest to be the function of blame. First, it’s not clear that protest is independent of blame, such that one could specify what it is to protest without appealing to blaming attitudes. But if this is so, it’s not clear that appealing to the notion of protest will help us clarify the nature of blame. Second, protest seems paradigmatically _expressed_. Indeed, it’s hard to make sense of unexpressed protest. Do workers protest unfair labor conditions simply through their beliefs or attitudes? Or must they make such beliefs and attitudes known? And if it is the latter, then it’s not clear that protest could be the function of blame. After all, not all blame is expressed. These objections are not decisive, of course, but they do suggest that there is more work to be done in defense of protest views to help us better understand what the nature of protest is, such that appeals to protest can provide a non-circular account of blame.
+There are at least two sources of concern for those theories that take protest to be the function of blame. First, it’s not clear that protest is independent of blame, such that one could specify what it is to protest without appealing to blaming attitudes. But if this is so, it’s not clear that appealing to the notion of protest will help us clarify the nature of blame. Second, protest seems paradigmatically *expressed*. Indeed, it’s hard to make sense of unexpressed protest. Do workers protest unfair labor conditions simply through their beliefs or attitudes? Or must they make such beliefs and attitudes known? And if it is the latter, then it’s not clear that protest could be the function of blame. After all, not all blame is expressed. These objections are not decisive, of course, but they do suggest that there is more work to be done in defense of protest views to help us better understand what the nature of protest is, such that appeals to protest can provide a non-circular account of blame.
 
 当然，责备可能还有其他功能：例如，表达或传达谴责或不赞成。迈克尔·麦肯纳（2012 年，2013 年）提出了这样的观点。事实上，他声称责备是“对话性的”，因此起到了延续被责备者错误行为引发的对话的作用。特别是，麦肯纳认为，反应态度及其表达起到了这个功能。安东尼·达夫（Antony Duff）提出了类似的对责备目的的理解，即
 
@@ -204,13 +203,13 @@ G. A. Cohen 从不同的角度表达了同样的观点：
 
 这是一个很好的问题，为什么在这些情况下适当的责备只限于某些个体。也许隐私规范起了作用（Smith 2007; Nagel 1998），或者也许我们可以在这里与法律中的地位概念进行类比（Sabini and Silver 1982，但请参见 Bell 2013a 和 King 即将发表的文章），或者如果我们将责备视为一种回应，前提是被责备的人在某种程度上对其道德社区的成员负有责任，那么我们可以区分几个（重叠的）道德社区，每个人只属于其中的一部分，因此只有其中一部分支持我们适当地进行责备（Duff 2010: 126）。如果我们采纳 Scanlon 最近的责备观（2008），那么也许我们可以说，某些错误与我们无关，因为它们不会损害我们的任何关系，因此不会在这些关系中引起任何适当的责备性修改。（适当责备的所谓“业务条件”——如果错误与你无关，责备是不恰当的——这是另一个有助于区分为什么多管闲事的责备是有问题的和被责备的人可能提出的“你是谁”的指责性质的问题。）
 
-_道德运气_（以其各种形式）提供了另一个视角，从这个视角可以看出责备可能是不恰当的。考虑 Gary Watson（1987）对罗伯特·哈里斯的影响深远的讨论，哈里斯既是一个毫无疑问的残忍凶手，又是在悲剧性的成长环境中的受害者。鉴于他的历史，这是一个合理的问题，哈里斯是否是一个明智的责备对象 - 也就是说，哈里斯是否是一个道德上负有责任的行为者 - 但即使我们承认他是，这里还有另一个可能的责备障碍。Watson 这样表达：
+*道德运气*（以其各种形式）提供了另一个视角，从这个视角可以看出责备可能是不恰当的。考虑 Gary Watson（1987）对罗伯特·哈里斯的影响深远的讨论，哈里斯既是一个毫无疑问的残忍凶手，又是在悲剧性的成长环境中的受害者。鉴于他的历史，这是一个合理的问题，哈里斯是否是一个明智的责备对象 - 也就是说，哈里斯是否是一个道德上负有责任的行为者 - 但即使我们承认他是，这里还有另一个可能的责备障碍。Watson 这样表达：
 
 > 哈里斯的残忍是对他的环境的可理解的回应，这不仅为同情提供了立足点，还为这样一个想法提供了立足点：如果我也遭受了这样的环境，我很可能变得那样卑劣。令人不安的是，这种想法使人产生自己的道德自我是如此脆弱的想法。人们倾向于认为自己的道德敏感性比那更深（尽管不清楚这意味着什么）。这种想法不仅引起了本体论的颤栗，还产生了与他人的平等感：我也是一个潜在的罪人（Watson 1987，引自 Watson 2004: 245）。
 
 沃森在这里描述的责备障碍并不是指哈里斯可能不应受到责备（尽管他可能不应该），而是指“感谢上帝的恩典，我没有走上那条路”的表达方式所表达的思想。这是一种谦卑的观点，它可能会“玷污一个人对自己行动的看法，使一个人感到‘对自己的愤怒是自以为是和纵容的’”（2004 年：246），并使一个人感到“对自己的愤怒是自以为是和纵容的”（2004 年：254）。为了找到一个更好的术语，我们可以说这是对“虚拟伪善”的担忧，因为它确实与上面讨论的伪善担忧有相似的味道。这种思想大致是这样的：“如果我和他一样坏，我就没有资格责备他。但我们之间的区别只是运气的问题，我的良好道德运气当然不能成为我责备他的道德立场的基础。所以，尽管我从未做过那些可怕的事情，但我没有责备的立场。”
 
-还有一件关于责备者的事实值得一提，它可能会使责备的互动变得复杂，尽管这件事情不太适合我们一直在探讨的框架，因为它不是使责备“不合适”，而是使责备“无法被听到”的事情。我们指的是范妮莎·卡尔博内尔（即将出版）提出的一个概念，她称之为“_申诉者不公正_”。根据卡尔博内尔的说法，“当社会偏见或结构性不平等破坏了道德行为者参与幸福的道德对话的能力时，就会发生申诉者不公正——提出道德主张，指责错误行为，对他人的行为进行评判或谴责，追究责任，责备或惩罚，参与与参与者和替代反应态度相关的任何社会实践”（即将出版：16）。这里的思想是，参与道德对话的能力本身就需要一个社会环境，在这个环境中，责备者被认可为（并相信自己是）道德主张的有效来源，但对于边缘化群体的成员来说，这种环境可能不存在，因此使他们无法追究主导群体的成员的责任。因此，责备者的另一个事实——他们处于边缘化地位——可能使责备不合适。（有关相关讨论，请参见霍恩斯比 1995 年的论文。）再次强调，他们的责备并不是被“驳回”，而是根本就没有被听到作为道德对话的声音。
+还有一件关于责备者的事实值得一提，它可能会使责备的互动变得复杂，尽管这件事情不太适合我们一直在探讨的框架，因为它不是使责备“不合适”，而是使责备“无法被听到”的事情。我们指的是范妮莎·卡尔博内尔（即将出版）提出的一个概念，她称之为“*申诉者不公正*”。根据卡尔博内尔的说法，“当社会偏见或结构性不平等破坏了道德行为者参与幸福的道德对话的能力时，就会发生申诉者不公正——提出道德主张，指责错误行为，对他人的行为进行评判或谴责，追究责任，责备或惩罚，参与与参与者和替代反应态度相关的任何社会实践”（即将出版：16）。这里的思想是，参与道德对话的能力本身就需要一个社会环境，在这个环境中，责备者被认可为（并相信自己是）道德主张的有效来源，但对于边缘化群体的成员来说，这种环境可能不存在，因此使他们无法追究主导群体的成员的责任。因此，责备者的另一个事实——他们处于边缘化地位——可能使责备不合适。（有关相关讨论，请参见霍恩斯比 1995 年的论文。）再次强调，他们的责备并不是被“驳回”，而是根本就没有被听到作为道德对话的声音。
 
 ### 2.4 责备的种类
 
@@ -220,95 +219,95 @@ _道德运气_（以其各种形式）提供了另一个视角，从这个视角
 
 ## Bibliography
 
-* Arpaly, N., 2006, _Merit, Meaning, and Human Bondage: An Essay on Free Will_, Princeton: Princeton University Press.
-* Arpaly, N. and T. Schroeder, 2014, _In Praise of Desire_, New York: Oxford University Press.
-* Beade, G. A., forthcoming, “Who Can Blame Whom? Moral Standing to Blame and Punish Deprived Citizens”, _Criminal Law and Philosophy_.
-* Beardsley, E., 1969, “A Plea For Deserts”, _American Philosophical Quarterly_, 6: 33–42.
+* Arpaly, N., 2006, *Merit, Meaning, and Human Bondage: An Essay on Free Will*, Princeton: Princeton University Press.
+* Arpaly, N. and T. Schroeder, 2014, *In Praise of Desire*, New York: Oxford University Press.
+* Beade, G. A., forthcoming, “Who Can Blame Whom? Moral Standing to Blame and Punish Deprived Citizens”, *Criminal Law and Philosophy*.
+* Beardsley, E., 1969, “A Plea For Deserts”, *American Philosophical Quarterly*, 6: 33–42.
 * Bell, M., 2013a, “The Standing to Blame: A Critique”, in Coates & Tognazzini 2013: 263–281.
-* –––, 2013b, _Hard Feelings: The Moral Psychology of Contempt_, New York: Oxford University Press.
+* –––, 2013b, *Hard Feelings: The Moral Psychology of Contempt*, New York: Oxford University Press.
 * Bennett, C., 2013, “The Expressive Function of Blame”, in Coates & Tognazzini 2013: 66–83.
-* Carbonell, V., forthcoming, “Social Constraints on Moral Address”, _Philosophy and Phenomenological Research_.
-* Coates, D. Justin, 2016, “The Epistemic Norm of Blame,” _Ethical Theory and Moral Practice_, 19: 457–473.
-* Coates, D. J. and N. A. Tognazzini, 2012, “The Nature and Ethics of Blame”, _Philosophy Compass_, 7: 197–207.
-* ––– (eds.), 2013, _Blame: Its Nature and Norms_, New York: Oxford University Press.
-* Cohen, G. A., 2006, “Casting the First Stone: Who Can, and Who Can’t, Condemn the Terrorists?” _Royal Institute of Philosophy Supplement_, 58: 113–136.
-* Duff, R. A., 1986, _Trials and Punishments_. Cambridge: Cambridge University Press.
-* –––, 2010, “Blame, Moral Standing and the Legitimacy of the Criminal Trial”, _Ratio_, 23: 123–140.
-* Dworkin, G., 2000, “Morally Speaking”, in Edna Ullmann-Margalit (ed.), _Reasoning Practically_, New York: Oxford University Press, pp. 182–188.
-* Fischer, J. M., 1994, _The Metaphysics of Free Will: An Essay on Control_, Oxford: Blackwell.
-* Fischer, J. M. and M. Ravizza, 1998, _Responsibility and Control: A Theory of Moral Responsibility_, Cambridge: Cambridge University Press.
+* Carbonell, V., forthcoming, “Social Constraints on Moral Address”, *Philosophy and Phenomenological Research*.
+* Coates, D. Justin, 2016, “The Epistemic Norm of Blame,” *Ethical Theory and Moral Practice*, 19: 457–473.
+* Coates, D. J. and N. A. Tognazzini, 2012, “The Nature and Ethics of Blame”, *Philosophy Compass*, 7: 197–207.
+* ––– (eds.), 2013, *Blame: Its Nature and Norms*, New York: Oxford University Press.
+* Cohen, G. A., 2006, “Casting the First Stone: Who Can, and Who Can’t, Condemn the Terrorists?” *Royal Institute of Philosophy Supplement*, 58: 113–136.
+* Duff, R. A., 1986, *Trials and Punishments*. Cambridge: Cambridge University Press.
+* –––, 2010, “Blame, Moral Standing and the Legitimacy of the Criminal Trial”, *Ratio*, 23: 123–140.
+* Dworkin, G., 2000, “Morally Speaking”, in Edna Ullmann-Margalit (ed.), *Reasoning Practically*, New York: Oxford University Press, pp. 182–188.
+* Fischer, J. M., 1994, *The Metaphysics of Free Will: An Essay on Control*, Oxford: Blackwell.
+* Fischer, J. M. and M. Ravizza, 1998, *Responsibility and Control: A Theory of Moral Responsibility*, Cambridge: Cambridge University Press.
 * Franklin, C. E., 2013, “Valuing Blame”, in Coates & Tognazzini 2013: 207–223.
-* –––, 2018, _A Minimal Libertarianism: Free Will and the Promise of Reduction_, New York: Oxford University Press.
-* Fricker, M., 2016, “What is the Point of Blame? A Paradigm-Based Explanation”, _Noûs_, 50: 165–183.
-* Friedman, M., 2013, “How to Blame People Responsibly”, _The Journal of Value Inquiry_, 47: 271–284.
-* Fritz, K. G. and D. Miller, 2018, “Hypocrisy and the Standing to Blame”, _Pacific Philosophical Quarterly_, 99: 118–139.
-* Gibbard, A., 1990, _Wise Feelings, Apt Choices: A Theory of Normative Judgment_, Cambridge: Harvard University Press.
-* Ginet, C., 2000, “The Epistemic Requirements for Moral Responsibility”, _Nous_, 34: 267–277.
-* Haji, I., 1998, _Moral Appraisability: Puzzles, Proposals, and Perplexities_, New York: Oxford University Press.
-* Hart, H. L. A., 1968, _Punishment and Responsibility_, Oxford: Oxford University Press.
-* Herstein, O. J., 2017, “Understanding Standing: Permission to Deflect Reasons”, _Philosophical Studies_, 174: 3109–3132.
-* Hieronymi, P., 2001, “Articulating an Uncompromising Forgiveness”, _Philosophy and Phenomenological Research_, 62: 529–555.
-* –––, 2004, “The Force and Fairness of Blame”, _Philosophical Perspectives_, 18: 115–148.
-* –––, 2008, “Sher’s Defense of Blame”, _Philosophical Studies_, 137: 19–30.
-* Hornsby, J., 1995, “Disempowered Speech”, _Philosophical Topics_, 23: 127–147.
-* Houston, B., 1992, “In Praise of Blame”, _Hypatia_, 7: 128–147.
-* Kenner, L., 1967, “On Blaming”, _Mind_, 76: 238–249.
-* King, M. forthcoming, “Skepticism about the Standing to Blame”, in D. Shoemaker, ed., _Oxford Studies in Agency and Responsibility, vol. 6_, Oxford: Oxford University Press.
-* Levy, N., 2011, _Hard Luck_, New York: Oxford University Press.
-* Macnamara, C., 2011, “Holding Others Responsible”, _Philosophical Studies_, 152: 81–102.
-* –––, 2015, “Reactive Attitudes as Communicative Entities”, _Philosophy and Phenomenological Research_, 90: 546–569.
-* Mason, M., 2011, “Blame: Taking it Seriously”, _Philosophy and Phenomenological Research_, 83: 473–481.
+* –––, 2018, *A Minimal Libertarianism: Free Will and the Promise of Reduction*, New York: Oxford University Press.
+* Fricker, M., 2016, “What is the Point of Blame? A Paradigm-Based Explanation”, *Noûs*, 50: 165–183.
+* Friedman, M., 2013, “How to Blame People Responsibly”, *The Journal of Value Inquiry*, 47: 271–284.
+* Fritz, K. G. and D. Miller, 2018, “Hypocrisy and the Standing to Blame”, *Pacific Philosophical Quarterly*, 99: 118–139.
+* Gibbard, A., 1990, *Wise Feelings, Apt Choices: A Theory of Normative Judgment*, Cambridge: Harvard University Press.
+* Ginet, C., 2000, “The Epistemic Requirements for Moral Responsibility”, *Nous*, 34: 267–277.
+* Haji, I., 1998, *Moral Appraisability: Puzzles, Proposals, and Perplexities*, New York: Oxford University Press.
+* Hart, H. L. A., 1968, *Punishment and Responsibility*, Oxford: Oxford University Press.
+* Herstein, O. J., 2017, “Understanding Standing: Permission to Deflect Reasons”, *Philosophical Studies*, 174: 3109–3132.
+* Hieronymi, P., 2001, “Articulating an Uncompromising Forgiveness”, *Philosophy and Phenomenological Research*, 62: 529–555.
+* –––, 2004, “The Force and Fairness of Blame”, *Philosophical Perspectives*, 18: 115–148.
+* –––, 2008, “Sher’s Defense of Blame”, *Philosophical Studies*, 137: 19–30.
+* Hornsby, J., 1995, “Disempowered Speech”, *Philosophical Topics*, 23: 127–147.
+* Houston, B., 1992, “In Praise of Blame”, *Hypatia*, 7: 128–147.
+* Kenner, L., 1967, “On Blaming”, *Mind*, 76: 238–249.
+* King, M. forthcoming, “Skepticism about the Standing to Blame”, in D. Shoemaker, ed., *Oxford Studies in Agency and Responsibility, vol. 6*, Oxford: Oxford University Press.
+* Levy, N., 2011, *Hard Luck*, New York: Oxford University Press.
+* Macnamara, C., 2011, “Holding Others Responsible”, *Philosophical Studies*, 152: 81–102.
+* –––, 2015, “Reactive Attitudes as Communicative Entities”, *Philosophy and Phenomenological Research*, 90: 546–569.
+* Mason, M., 2011, “Blame: Taking it Seriously”, *Philosophy and Phenomenological Research*, 83: 473–481.
 * McGeer, V., 2013, “Civilizing Blame”, in Coates & Tognazzini 2013: 162–188.
-* McKenna, M., 2012, _Conversation and Responsibility_, New York: Oxford University Press.
+* McKenna, M., 2012, *Conversation and Responsibility*, New York: Oxford University Press.
 * –––, 2013, “Directed Blame and Conversation”, in Coates & Tognazzini 2013: 119–140.
-* Mele, A., 2011, “Moral Responsibility for Actions: Epistemic and Freedom Conditions”, _Philosophical Explorations_, 13: 101–111.
-* Menges, L., 2017, “The Emotion Account of Blame,” _Philosophical Studies_, 174: 257–273.
-* Nagel, T., 1998, “Concealment and Exposure”, _Philosophy and Public Affairs_, 27: 3–30.
-* Nelkin, D., 2011, _Making Sense of Freedom and Responsibility_, New York: Oxford University Press.
-* Nussbaum, M. C. 2001, _Upheavals of Thought: The Intelligence of Emotions_, Cambridge: Cambridge University Press.
-* Pickard, H., 2013, “Irrational Blame”, _Analysis_ 73: 613–626.
-* Priest, M., 2016, “Blame After Forgiveness”, _Ethical Theory and Moral Practice_, 19: 619–633.
-* Radzik, L., 2011, “On Minding Your Own Business: Differentiating Accountability Relations within the Moral Community”, _Social Theory and Practice_, 37: 574–598.
-* Rettler, L., 2018, “In Defense of Doxastic Blame,” _Synthese_, 195: 2205–2226.
-* Roadevin, C., 2018, “Hypocritical Blame, Fairness, and Standing”, _Metaphilosophy_, 49: 137–152.
-* Robichaud, P. and J. W. Wieland. (eds.), 2017, _Responsibility: The Epistemic Condition_, Oxford: Oxford University Press.
-* Rosen, G., 2004, “Skepticism about Moral Responsibility”, _Philosophical Perspectives_, 18: 295–313.
-* Sabini, J. and M. Silver, 1982, _Moralities of Everyday Life_, Oxford: Oxford University Press.
-* Scanlon, T. M., 1986, “The Significance of Choice”, _The Tanner Lectures on Human Values VIII_, Salt Lake City: University of Utah Press.
-* –––, 2008, _Moral Dimensions: Permissibility, Meaning, Blame_, Cambridge, MA: Harvard University Press.
+* Mele, A., 2011, “Moral Responsibility for Actions: Epistemic and Freedom Conditions”, *Philosophical Explorations*, 13: 101–111.
+* Menges, L., 2017, “The Emotion Account of Blame,” *Philosophical Studies*, 174: 257–273.
+* Nagel, T., 1998, “Concealment and Exposure”, *Philosophy and Public Affairs*, 27: 3–30.
+* Nelkin, D., 2011, *Making Sense of Freedom and Responsibility*, New York: Oxford University Press.
+* Nussbaum, M. C. 2001, *Upheavals of Thought: The Intelligence of Emotions*, Cambridge: Cambridge University Press.
+* Pickard, H., 2013, “Irrational Blame”, *Analysis* 73: 613–626.
+* Priest, M., 2016, “Blame After Forgiveness”, *Ethical Theory and Moral Practice*, 19: 619–633.
+* Radzik, L., 2011, “On Minding Your Own Business: Differentiating Accountability Relations within the Moral Community”, *Social Theory and Practice*, 37: 574–598.
+* Rettler, L., 2018, “In Defense of Doxastic Blame,” *Synthese*, 195: 2205–2226.
+* Roadevin, C., 2018, “Hypocritical Blame, Fairness, and Standing”, *Metaphilosophy*, 49: 137–152.
+* Robichaud, P. and J. W. Wieland. (eds.), 2017, *Responsibility: The Epistemic Condition*, Oxford: Oxford University Press.
+* Rosen, G., 2004, “Skepticism about Moral Responsibility”, *Philosophical Perspectives*, 18: 295–313.
+* Sabini, J. and M. Silver, 1982, *Moralities of Everyday Life*, Oxford: Oxford University Press.
+* Scanlon, T. M., 1986, “The Significance of Choice”, *The Tanner Lectures on Human Values VIII*, Salt Lake City: University of Utah Press.
+* –––, 2008, *Moral Dimensions: Permissibility, Meaning, Blame*, Cambridge, MA: Harvard University Press.
 * –––, 2013, “Interpreting Blame”, in Coates & Tognazzini 2013: 84–99.
-* Sher, G., 2006, _In Praise of Blame_, Oxford: Oxford University Press.
+* Sher, G., 2006, *In Praise of Blame*, Oxford: Oxford University Press.
 * –––, 2013, “Wrongdoing and Relationships: The Problem of the Stranger”, in Coates & Tognazzini 2013: 49–65.
-* Shoemaker, D., 2011, “Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility”, _Ethics_, 121: 602–632.
-* –––, 2015, _Responsibility from the Margins_, Oxford: Oxford University Press.
-* –––, 2017, “Response-Dependent Responsibility”, _The Philosophical Review_, 126: 481–527.
-* Smart, J. J. C., 1961, “Free Will, Praise and Blame”, _Mind_, 70: 291–306.
-* Smith, A. M., 2005, “Responsibility for Attitudes”, _Ethics_, 115: 236–271.
-* –––, 2007, “On Being Responsible and Holding Responsible”, _The Journal of Ethics_, 2: 465–484.
-* –––, 2008, “Character, Blameworthiness, and Blame: Comments on George Sher’s _In Praise of Blame_”, _Philosophical Studies_, 137: 31–39.
-* –––, 2012, “Attributability, Answerability, and Accountability: In Defense of a Unified Account”, _Ethics_, 122: 575–589.
+* Shoemaker, D., 2011, “Attributability, Answerability, and Accountability: Toward a Wider Theory of Moral Responsibility”, *Ethics*, 121: 602–632.
+* –––, 2015, *Responsibility from the Margins*, Oxford: Oxford University Press.
+* –––, 2017, “Response-Dependent Responsibility”, *The Philosophical Review*, 126: 481–527.
+* Smart, J. J. C., 1961, “Free Will, Praise and Blame”, *Mind*, 70: 291–306.
+* Smith, A. M., 2005, “Responsibility for Attitudes”, *Ethics*, 115: 236–271.
+* –––, 2007, “On Being Responsible and Holding Responsible”, *The Journal of Ethics*, 2: 465–484.
+* –––, 2008, “Character, Blameworthiness, and Blame: Comments on George Sher’s *In Praise of Blame*”, *Philosophical Studies*, 137: 31–39.
+* –––, 2012, “Attributability, Answerability, and Accountability: In Defense of a Unified Account”, *Ethics*, 122: 575–589.
 * –––, 2013, “Moral Blame and Moral Protest”, in Coates & Tognazzini 2013: 27–48.
-* Solomon, R. C., 1993, _The Passions: Emotions and the Meaning of Life_, Indianapolis: Hackett Publishing Company.
-* Strawson, P. F., 1962, “Freedom and Resentment”, _Proceedings of the British Academy_, 48: 1–25, reprinted in Watson 2003.
-* Szabados, B. and E. Soifer, 2004, _Hypocrisy: Ethical Investigations_, Broadview Press.
-* Talbert, M., 2012, “Moral Competence, Moral Blame, and Protest”, _The Journal of Ethics_, 16: 89–109.
-* Todd, P., 2012, “Manipulation and Moral Standing: An Argument for Incompatibilism”, _Philosophers’ Imprint_, 12 (March) \[[Todd 2012 available online](http://quod.lib.umich.edu/p/phimp/3521354.0012.007/1)].
-* –––, forthcoming. “A Unified Account of the Moral Standing to Blame”, _Nous_.
-* Tognazzini, N. A. 2015. “The Strains of Involvement,” in Clarke, McKenna, and Smith (eds.), _The Nature of Moral Responsibility_, New York: Oxford University Press, pp. 19–44.
-* van Inwagen, P., 1983, _An Essay on Free Will_, Oxford: Clarendon Press.
-* Vargas, Manuel, 2013. _Building Better Beings: A Theory of Moral Responsibility_, Oxford: Oxford University Press.
-* Wallace, R. J., 1994, _Responsibility and the Moral Sentiments_, Cambridge, MA: Harvard University Press.
-* –––, 2010, “Hypocrisy, Moral Address, and the Equal Standing of Persons”, _Philosophy & Public Affairs_, 38: 307–341.
-* –––, 2011, “Dispassionate Opprobrium: On Blame and the Reactive Sentiments”, in Wallace, Kumar, and Freeman (eds.), _Reasons and Recognition: Essays on the Philosophy of T. M. Scanlon_, New York: Oxford University Press, pp. 348–372.
-* Watson, G., 1987, “Responsibility and the Limits of Evil: Variations on a Strawsonian Theme”, in F. Schoeman (ed.), _Responsibility, Character, and the Emotions: Essays in Moral Psychology_, Cambridge: Cambridge University Press, pp. 256–286.
-* –––, 1996, “Two Faces of Responsibility”, _Philosophical Topics_, 24(2): 227–248.
-* –––, 2004, _Agency and Answerability_, Oxford: Clarendon Press.
-* –––, 2011, “The Trouble with Psychopaths”, in Wallace, Kumar, and Freeman (eds.), _Reasons and Recognition_, New York: Oxford University Press, pp. 307–331.
-* –––, 2013a, “Moral Agency”, in H, LaFollette (ed.), _The International Encyclopedia of Ethics_, Oxford: Blackwell, pp. 3322–3333.
-* –––, 2015. “A Moral Predicament in the Criminal Law”, _Inquiry_, 58: 168–188.
-* Wertheimer, R., 1998, “Constraining Condemning”, _Ethics_, 108: 489–501.
-* Wolf, S., 2011, “Blame, Italian Style”, in Wallace, Kumar, and Freeman (eds.), _Reasons and Recognition: Essay on the Philosophy of T. M. Scanlon_, New York: Oxford University Press, pp. 332–347.
-* Zimmerman, M., 1988, _An Essay on Moral Responsibility_, Totowa, NJ: Rowman & Littlefield.
+* Solomon, R. C., 1993, *The Passions: Emotions and the Meaning of Life*, Indianapolis: Hackett Publishing Company.
+* Strawson, P. F., 1962, “Freedom and Resentment”, *Proceedings of the British Academy*, 48: 1–25, reprinted in Watson 2003.
+* Szabados, B. and E. Soifer, 2004, *Hypocrisy: Ethical Investigations*, Broadview Press.
+* Talbert, M., 2012, “Moral Competence, Moral Blame, and Protest”, *The Journal of Ethics*, 16: 89–109.
+* Todd, P., 2012, “Manipulation and Moral Standing: An Argument for Incompatibilism”, *Philosophers’ Imprint*, 12 (March) \[[Todd 2012 available online](http://quod.lib.umich.edu/p/phimp/3521354.0012.007/1)].
+* –––, forthcoming. “A Unified Account of the Moral Standing to Blame”, *Nous*.
+* Tognazzini, N. A. 2015. “The Strains of Involvement,” in Clarke, McKenna, and Smith (eds.), *The Nature of Moral Responsibility*, New York: Oxford University Press, pp. 19–44.
+* van Inwagen, P., 1983, *An Essay on Free Will*, Oxford: Clarendon Press.
+* Vargas, Manuel, 2013. *Building Better Beings: A Theory of Moral Responsibility*, Oxford: Oxford University Press.
+* Wallace, R. J., 1994, *Responsibility and the Moral Sentiments*, Cambridge, MA: Harvard University Press.
+* –––, 2010, “Hypocrisy, Moral Address, and the Equal Standing of Persons”, *Philosophy & Public Affairs*, 38: 307–341.
+* –––, 2011, “Dispassionate Opprobrium: On Blame and the Reactive Sentiments”, in Wallace, Kumar, and Freeman (eds.), *Reasons and Recognition: Essays on the Philosophy of T. M. Scanlon*, New York: Oxford University Press, pp. 348–372.
+* Watson, G., 1987, “Responsibility and the Limits of Evil: Variations on a Strawsonian Theme”, in F. Schoeman (ed.), *Responsibility, Character, and the Emotions: Essays in Moral Psychology*, Cambridge: Cambridge University Press, pp. 256–286.
+* –––, 1996, “Two Faces of Responsibility”, *Philosophical Topics*, 24(2): 227–248.
+* –––, 2004, *Agency and Answerability*, Oxford: Clarendon Press.
+* –––, 2011, “The Trouble with Psychopaths”, in Wallace, Kumar, and Freeman (eds.), *Reasons and Recognition*, New York: Oxford University Press, pp. 307–331.
+* –––, 2013a, “Moral Agency”, in H, LaFollette (ed.), *The International Encyclopedia of Ethics*, Oxford: Blackwell, pp. 3322–3333.
+* –––, 2015. “A Moral Predicament in the Criminal Law”, *Inquiry*, 58: 168–188.
+* Wertheimer, R., 1998, “Constraining Condemning”, *Ethics*, 108: 489–501.
+* Wolf, S., 2011, “Blame, Italian Style”, in Wallace, Kumar, and Freeman (eds.), *Reasons and Recognition: Essay on the Philosophy of T. M. Scanlon*, New York: Oxford University Press, pp. 332–347.
+* Zimmerman, M., 1988, *An Essay on Moral Responsibility*, Totowa, NJ: Rowman & Littlefield.
 
 ## Academic Tools
 
@@ -320,8 +319,8 @@ _道德运气_（以其各种形式）提供了另一个视角，从这个视角
 
 ## Other Internet Resources
 
-* [“Praise and Blame”](http://www.iep.utm.edu/praise/), entry by Garrath Williams in the _Internet Encyclopedia of Philosophy_.
-* [Blame](http://www.radiolab.org/story/317421-blame/), an episode of the NPR show _Radiolab_.
+* [“Praise and Blame”](http://www.iep.utm.edu/praise/), entry by Garrath Williams in the *Internet Encyclopedia of Philosophy*.
+* [Blame](http://www.radiolab.org/story/317421-blame/), an episode of the NPR show *Radiolab*.
 
 ## Related Entries
 
@@ -332,5 +331,5 @@ _道德运气_（以其各种形式）提供了另一个视角，从这个视角
 Our sincere thanks to John Martin Fischer, Coleen Macnamara, Angela Smith, and Gary Watson for all of their help thinking about moral responsibility and blame over the past several years, and to the American Council of Learned Societies and The College of William & Mary for financial assistance during the research for this entry. Thanks also to Dee Payton and Patrick Todd for helpful discussions about the issue of standing.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Neal Tognazzini](http://nealzzini.wordpress.com/) <[_neal.tognazzini@wwu.edu_](mailto:neal%2etognazzini%40wwu%2eedu)>\
-[D. Justin Coates](http://djustincoates.com/) <[_djcoates@uh.edu_](mailto:djcoates%40uh%2eedu)>
+[Neal Tognazzini](http://nealzzini.wordpress.com/) <[*neal.tognazzini@wwu.edu*](mailto:neal%2etognazzini%40wwu%2eedu)>\
+[D. Justin Coates](http://djustincoates.com/) <[*djcoates@uh.edu*](mailto:djcoates%40uh%2eedu)>

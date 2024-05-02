@@ -1,9 +1,8 @@
 # 话语表征理论 discourse representation theory (Bart Geurts, David I. Beaver, and Emar Maier)
 
-_首次发表于 2007 年 5 月 22 日星期二；实质性修订于 2020 年 2 月 10 日星期一_
+*首次发表于 2007 年 5 月 22 日星期二；实质性修订于 2020 年 2 月 10 日星期一*
 
 在 20 世纪 80 年代初，Hans Kamp 提出了话语表征理论（DRT）作为处理语义学和语用学中代词和时态问题的理论框架（Kamp 1981）；Irene Heim（1982）独立开发了一个非常相似的理论。DRT 的独特特点将在下文中讨论，它是一种关于解释的心理主义和表征主义理论，不仅是关于单个句子的解释，还包括关于话语的解释。在这些方面，DRT 与 20 世纪 70 年代源自蒙塔古开创性工作的古典形式语义学有了明显的区别（Thomason 1974），但在其他方面，它延续了传统，例如在使用模型理论工具方面。与此同时，DRT 已经成为解释各种现象的框架，但我们将把注意力集中在少数几个方面：指代、时态、预设和命题态度。有关其他主题的工作参考，请参阅“进一步阅读”部分。
-
 
 ***
 
@@ -40,7 +39,7 @@ _首次发表于 2007 年 5 月 22 日星期二；实质性修订于 2020 年 2 
 
 很明显，代词的约束变量解释受到句法约束的限制。最重要的是，这种解释类型要求代词受其先行词的 c-指令控制，其中 c-指令定义如下：
 
-> _A_ c-commands _B_ iff _B_ is, or is contained in, a sister constituent of _A_’s.
+> *A* c-commands *B* iff *B* is, or is contained in, a sister constituent of *A*’s.
 
 句子\[2]的成分结构是\[S \[NP 农民]\[VP 打 \[NP 他的驴]]]。这里代词包含在其先行词的姐妹中，因此符合 c-命令约束。在\[3]中，“no farmer”不符合“his”的 c-命令，因此我们预测，正确地，代词不能被约束。
 
@@ -282,7 +281,7 @@ Pedro 没有拥有一头驴。
 
 \*\* 话语表征理论-合并\*\*
 
-* _K_⊕_K′_ = <_U\*\*K_ ∪ _U\*\*K′_ , _Con\*\*K_ ∪ _Con\*\*K′_ >
+* *K*⊕*K′* = <*U\*\*K* ∪ *U\*\*K′* , *Con\*\*K* ∪ *Con\*\*K′* >
 
 合并操作也用于将一个句子的 DRS 与表示前述话语的 DRS 结合在一起，因此，其思想是在（从 Muskens 1996 的讨论中可见）从句连接和句子串联之间没有原则性区别。
 
@@ -300,7 +299,7 @@ Pedro 没有拥有一头驴。
 |                         |
 | ----------------------- |
 | <p><br></p>             |
-| <p>** 击败(x,y)**<br></p> |
+| <p>**击败(x,y)**<br></p> |
 
 这些格式之间的选择仅仅是出于方便考虑，并没有任何理论意义。
 
@@ -540,77 +539,77 @@ DRT 的表征主义表现出比其他理论更为激进的一种方式是它也�
 
 ## Bibliography
 
-* Asher, N., 1986, “Belief in Discourse Representation Theory”, _Journal of Philosophical Logic_, 15: 127–189.
-* –––, 1987, “A typology for attitude verbs and their anaphoric properties”, _Linguistics and Philosophy_, 10: 125–197
-* –––, 1989, “Belief, acceptance and belief reports”, _Canadian Journal of Philosophy_, 19: 321–361.
-* –––, 1993, _Reference to Abstract Objects in Discourse_, Dordrecht: Kluwer.
-* Asher, N. and A. Lascarides, 2003, _Logics of Conversation_, Cambridge: Cambridge University Press.
-* Barwise, J., 1987, “Noun phrases, generalized quantifiers and anaphora”, in P. Gärdenfors (ed.), _Generalized Quantifiers: Linguistic and Logical Approaches_, Dordrecht: Reidel, 1–30.
+* Asher, N., 1986, “Belief in Discourse Representation Theory”, *Journal of Philosophical Logic*, 15: 127–189.
+* –––, 1987, “A typology for attitude verbs and their anaphoric properties”, *Linguistics and Philosophy*, 10: 125–197
+* –––, 1989, “Belief, acceptance and belief reports”, *Canadian Journal of Philosophy*, 19: 321–361.
+* –––, 1993, *Reference to Abstract Objects in Discourse*, Dordrecht: Kluwer.
+* Asher, N. and A. Lascarides, 2003, *Logics of Conversation*, Cambridge: Cambridge University Press.
+* Barwise, J., 1987, “Noun phrases, generalized quantifiers and anaphora”, in P. Gärdenfors (ed.), *Generalized Quantifiers: Linguistic and Logical Approaches*, Dordrecht: Reidel, 1–30.
 * Beaver, D., 1997, “Presupposition”, in van Benthem and ter Meulen 1997: 939–1008.
-* –––, 2001, _Presupposition and Assertion in Dynamic Semantics_, Stanford, CA: CSLI Publications.
-* –––, 2002, “Presupposition in DRT”, in D. Beaver, L. Casillas-Martinez, B. Clark and S. Kaufmann (eds), _The Construction of Meaning_, Stanford, CA: CSLI Publications.
-* Beaver, D. and H. Zeevat, 2007, “Accommodation”, in G. Ramchand and C. Reiss (eds), _The Oxford Handbook of Linguistic Interfaces_, Oxford: Oxford University Press.
-* Blackburn, P. and J. Bos, 2005, _Representation and Inference for Natural Language: A First Course in Computational Semantics_, Stanford, CA: CSLI Publications
-* Chomsky, N., 1986, _Barriers_ (Linguistic Inquiry Monograph 13), Cambridge, MA: MIT Press.
-* Dekker, P., 2012, _Dynamic Semantics_, Dordrecht: Springer.
-* Dever, J., 1999, “Compositionality as methodology”, _Linguistics and Philosophy_, 22: 311–326.
-* Evans, G., 1980, “Pronouns”, _Linguistic Inquiry_, 11: 337–436.
-* –––, 1985, _Mental Spaces: Aspects of Meaning Construction in Natural Language_, Cambridge, MA: MIT Press.
-* Geach, P.T., 1962, _Reference and Generality_, Ithaca, NY: Cornell University Press.
-* –––, 1967, “Intentional identity”, _The Journal of Philosophy_, 64: 627–632.
-* Geurts, B., 1999, _Presuppositions and Pronouns_, Oxford: Elsevier.
-* –––, 2002, “Donkey business”, _Linguistics and Philosophy_, 25: 129–156.
-* Groenendijk, J. and M. Stokhof, 1989, “Dynamic Montague Grammar”, in Kálmán, L. and L. Pólos (eds), _Logic and Language_, Budapest: Akadémiai.
-* –––, 1991, “Dynamic predicate logic”, _Linguistics and Philosophy_, 14: 39–100.
-* Heim, I., 1982, _The Semantics of Definite and Indefinite Noun Phrases_, Ph.D. thesis, University of Massachusetts, Amherst.
-* –––, 1990, “E-type pronouns and donkey anaphora”, _Linguistics and Philosophy_, 13: 137–178.
-* Hintikka, J., 1962, _Knowledge and Belief: An Introduction to the Logic of the Two Notions_, Cornell University Press.
-* Hobbs, J., 1979, “Coherence and coreference”, _Cognitive Science_, 3(1): 67–90.
-* Hunter, J., 2013, “Presuppositional indexicals”, _Journal of Semantics_, 30: 381–421.
+* –––, 2001, *Presupposition and Assertion in Dynamic Semantics*, Stanford, CA: CSLI Publications.
+* –––, 2002, “Presupposition in DRT”, in D. Beaver, L. Casillas-Martinez, B. Clark and S. Kaufmann (eds), *The Construction of Meaning*, Stanford, CA: CSLI Publications.
+* Beaver, D. and H. Zeevat, 2007, “Accommodation”, in G. Ramchand and C. Reiss (eds), *The Oxford Handbook of Linguistic Interfaces*, Oxford: Oxford University Press.
+* Blackburn, P. and J. Bos, 2005, *Representation and Inference for Natural Language: A First Course in Computational Semantics*, Stanford, CA: CSLI Publications
+* Chomsky, N., 1986, *Barriers* (Linguistic Inquiry Monograph 13), Cambridge, MA: MIT Press.
+* Dekker, P., 2012, *Dynamic Semantics*, Dordrecht: Springer.
+* Dever, J., 1999, “Compositionality as methodology”, *Linguistics and Philosophy*, 22: 311–326.
+* Evans, G., 1980, “Pronouns”, *Linguistic Inquiry*, 11: 337–436.
+* –––, 1985, *Mental Spaces: Aspects of Meaning Construction in Natural Language*, Cambridge, MA: MIT Press.
+* Geach, P.T., 1962, *Reference and Generality*, Ithaca, NY: Cornell University Press.
+* –––, 1967, “Intentional identity”, *The Journal of Philosophy*, 64: 627–632.
+* Geurts, B., 1999, *Presuppositions and Pronouns*, Oxford: Elsevier.
+* –––, 2002, “Donkey business”, *Linguistics and Philosophy*, 25: 129–156.
+* Groenendijk, J. and M. Stokhof, 1989, “Dynamic Montague Grammar”, in Kálmán, L. and L. Pólos (eds), *Logic and Language*, Budapest: Akadémiai.
+* –––, 1991, “Dynamic predicate logic”, *Linguistics and Philosophy*, 14: 39–100.
+* Heim, I., 1982, *The Semantics of Definite and Indefinite Noun Phrases*, Ph.D. thesis, University of Massachusetts, Amherst.
+* –––, 1990, “E-type pronouns and donkey anaphora”, *Linguistics and Philosophy*, 13: 137–178.
+* Hintikka, J., 1962, *Knowledge and Belief: An Introduction to the Logic of the Two Notions*, Cornell University Press.
+* Hobbs, J., 1979, “Coherence and coreference”, *Cognitive Science*, 3(1): 67–90.
+* Hunter, J., 2013, “Presuppositional indexicals”, *Journal of Semantics*, 30: 381–421.
 * Janssen, T.M.V., 1997, “Compositionality”, in van Benthem and ter Meulen 1997: 417–473.
-* Kamp, H., 1981, “A theory of truth and semantic representation”, in J.A.G. Groenendijk, T.M.V. Janssen, and M.B.J. Stokhof (eds), _Formal methods in the Study of Language_, Mathematical Centre Tracts 135, Amsterdam: Mathematisch Centrum, pp. 277–322.
-* –––, 1990, “Prolegomena to a structural account of belief and other attitudes”, in C.A. Anderson and J. Owens (eds). _Propositional Attitudes: the role of content in logic, language, and mind_, Stanford, CA: CSLI Publications, pp. 27–90.
-* –––, 1995, “Discourse Representation Theory”, in J. Verschueren, J.-O. Östman and J. Blommaert (eds), _Handbook of Pragmatics_, Amsterdam: John Benjamins, pp. 253–257.
-* –––, 2001, “The importance of presupposition”, in C. Rohrer, A. Roßdeutscher, and H. Kamp (eds), _Linguistic Form and its Computation_, Stanford, CA: CSLI Publications.
-* –––, 2001, “Computation and justification of presuppositions”, in M. Bras and L. Vieu (eds.) _Semantic and Pragmatic Issues in Discourse and Dialogue_, Amsterdam: Elsevier.
-* –––, 2015, “Using proper names as intermediaries between labelled entity representations”, _Erkenntnis_, 80: 263–312.
-* Kamp, H. and U. Reyle, 1993, _From Discourse to Logic_, Dordrecht: Kluwer.
-* –––, 1996, “A calculus for first order Discourse Representation Structures”, _Journal of Logic, Language, and Information_, 5: 297–348.
-* –––, 2011, “Discourse Representation Theory”, in C. Maienborn, K. von Heusinger, and P. Portner (eds), _Semantics_, Vol 1, Berlin: Mouton de Gruyter, pp. 872–923.
-* Kamp, H. and A. Bende-Farkas, 2019, “Epistemic Specificity from a Communication-Theoretic Perspective”, _Journal of Semantics_, 36(1): 1–51. doi:10.1093/jos/ffy005
-* Kamp, H. and A. Roßdeutscher, 1994, “DRS-construction and lexically driven inference”, _Theoretical Linguistics_, 20: 165–235.
-* Kamp, H., J. van Genabith, and U. Reyle, 2011, “Discourse Representation Theory”, in D. Gabbay (ed.), _Handbook of Philosophical Logic_, vol. 15. Berlin: Springer, 125–394
-* Kanazawa, M., 1994, “Weak vs. strong readings of donkey sentences and monotonicity inference in a dynamic setting”, _Linguistics and Philosophy_, 17: 109–158.
-* Karttunen, L., 1974, “Presupposition and linguistic context”, _Theoretical Linguistics_, 1: 181–194.
-* Krahmer, E., 1998, _Presupposition and Anaphora_, CSLI Lecture Notes 89, Stanford, CA: CSLI Publications.
-* Krifka, M., 1996, “Pragmatic strengthening in plural predications and donkey sentences”, in T. Galloway and J. Spence (eds.), _Proceedings from Semantics and Linguistic Theory_ (SALT) VI, Cornell University, Ithaca, NY, pp. 136–153.
-* Kripke, Saul, 1979, “A puzzle about belief”, in A. Margalit (ed.), _Meaning and Use_, Dordrecht: Reidel, pp. 239–283.
-* –––, 2009, “Presupposition and anaphora: remarks on the formulation of the projection problem”, _Linguistic Inquiry_, 40: 367–386.
-* Maier, E., 2009, “Proper names and indexicals trigger rigid presuppositions”, _Journal of Semantics_, 26: 253–315.
-* –––, 2010, “Presupposing acquaintance: a unified semantics for de dicto, de re and de se belief reports”, _Linguistics and Philosophy_, 32: 429–474.
-* –––, 2015, “Parasitic attitudes”, _Linguistics and Philosophy_, 38: 205–236.
-* –––, 2017, “Fictional names in psychologistic semantics”, _Theoretical Linguistics_, 43(1–2): 1–46.
-* Montague, R., 1970, “Universal grammar”, _Theoria_, 36: 373–398.
-* Muskens, R., 1996, “Combining Montague Semantics and Discourse Representation”, _Linguistics and Philosophy_, 19:143–186.
-* Neale, Stephen., 1990, _Descriptions_, MIT Press, Cambridge, MA.
-* Partee, B.H., 1973, “Some structural analogies between tenses and pronouns in English”, _The Journal of Philosophy_, 70: 601–609.
-* –––, 1984, “Nominal and temporal anaphora”, _Linguistics and Philosophy_, 7: 243–286.
-* Recanati, F., 2012, _Mental Files_, Oxford: Oxford University Press.
-* Rooth, M., 1987, “Noun phrase interpretation in Montague grammar, file change semantics, and situation semantics”, in P. Gärdenfors (ed.), _Generalized Quantifiers: Linguistic and Logical Approaches_, Dordrecht: Reidel, pp. 237–268.
-* Saurer, W., 1993, “A natural deduction system for discourse representation theory”, _Journal of Philosophical Logic_, 22: 249–302.
-* Stalnaker, R., 1974, “Pragmatic Presuppositions”, in Milton K. Munitz and Peter K. Unger (eds), _Semantics and Philosophy_, New York: New York University Press.
-* –––, 1998, “On the representation of context”, _Journal of Logic, Language and Information_, 7(1):3–19.
-* Thomason, R.H., 1974, _Formal philosophy: selected papers of Richard Montague_, New Haven: Yale University Press.
-* van Benthem, J. and A. ter Meulen (eds), 1997, _The Handbook of Logic and Language_, Amsterdam: Elsevier.
-* van der Sandt, R.A., 1992, “Presupposition projection as anaphora resolution”, _Journal of Semantics_, 9: 333–377.
-* van Eijck, J., 2006, “Discourse representation theory”, in K. Brown (ed.), _Encyclopedia of Language and Linguistics_ (2nd edition), Amsterdam: Elsevier.
+* Kamp, H., 1981, “A theory of truth and semantic representation”, in J.A.G. Groenendijk, T.M.V. Janssen, and M.B.J. Stokhof (eds), *Formal methods in the Study of Language*, Mathematical Centre Tracts 135, Amsterdam: Mathematisch Centrum, pp. 277–322.
+* –––, 1990, “Prolegomena to a structural account of belief and other attitudes”, in C.A. Anderson and J. Owens (eds). *Propositional Attitudes: the role of content in logic, language, and mind*, Stanford, CA: CSLI Publications, pp. 27–90.
+* –––, 1995, “Discourse Representation Theory”, in J. Verschueren, J.-O. Östman and J. Blommaert (eds), *Handbook of Pragmatics*, Amsterdam: John Benjamins, pp. 253–257.
+* –––, 2001, “The importance of presupposition”, in C. Rohrer, A. Roßdeutscher, and H. Kamp (eds), *Linguistic Form and its Computation*, Stanford, CA: CSLI Publications.
+* –––, 2001, “Computation and justification of presuppositions”, in M. Bras and L. Vieu (eds.) *Semantic and Pragmatic Issues in Discourse and Dialogue*, Amsterdam: Elsevier.
+* –––, 2015, “Using proper names as intermediaries between labelled entity representations”, *Erkenntnis*, 80: 263–312.
+* Kamp, H. and U. Reyle, 1993, *From Discourse to Logic*, Dordrecht: Kluwer.
+* –––, 1996, “A calculus for first order Discourse Representation Structures”, *Journal of Logic, Language, and Information*, 5: 297–348.
+* –––, 2011, “Discourse Representation Theory”, in C. Maienborn, K. von Heusinger, and P. Portner (eds), *Semantics*, Vol 1, Berlin: Mouton de Gruyter, pp. 872–923.
+* Kamp, H. and A. Bende-Farkas, 2019, “Epistemic Specificity from a Communication-Theoretic Perspective”, *Journal of Semantics*, 36(1): 1–51. doi:10.1093/jos/ffy005
+* Kamp, H. and A. Roßdeutscher, 1994, “DRS-construction and lexically driven inference”, *Theoretical Linguistics*, 20: 165–235.
+* Kamp, H., J. van Genabith, and U. Reyle, 2011, “Discourse Representation Theory”, in D. Gabbay (ed.), *Handbook of Philosophical Logic*, vol. 15. Berlin: Springer, 125–394
+* Kanazawa, M., 1994, “Weak vs. strong readings of donkey sentences and monotonicity inference in a dynamic setting”, *Linguistics and Philosophy*, 17: 109–158.
+* Karttunen, L., 1974, “Presupposition and linguistic context”, *Theoretical Linguistics*, 1: 181–194.
+* Krahmer, E., 1998, *Presupposition and Anaphora*, CSLI Lecture Notes 89, Stanford, CA: CSLI Publications.
+* Krifka, M., 1996, “Pragmatic strengthening in plural predications and donkey sentences”, in T. Galloway and J. Spence (eds.), *Proceedings from Semantics and Linguistic Theory* (SALT) VI, Cornell University, Ithaca, NY, pp. 136–153.
+* Kripke, Saul, 1979, “A puzzle about belief”, in A. Margalit (ed.), *Meaning and Use*, Dordrecht: Reidel, pp. 239–283.
+* –––, 2009, “Presupposition and anaphora: remarks on the formulation of the projection problem”, *Linguistic Inquiry*, 40: 367–386.
+* Maier, E., 2009, “Proper names and indexicals trigger rigid presuppositions”, *Journal of Semantics*, 26: 253–315.
+* –––, 2010, “Presupposing acquaintance: a unified semantics for de dicto, de re and de se belief reports”, *Linguistics and Philosophy*, 32: 429–474.
+* –––, 2015, “Parasitic attitudes”, *Linguistics and Philosophy*, 38: 205–236.
+* –––, 2017, “Fictional names in psychologistic semantics”, *Theoretical Linguistics*, 43(1–2): 1–46.
+* Montague, R., 1970, “Universal grammar”, *Theoria*, 36: 373–398.
+* Muskens, R., 1996, “Combining Montague Semantics and Discourse Representation”, *Linguistics and Philosophy*, 19:143–186.
+* Neale, Stephen., 1990, *Descriptions*, MIT Press, Cambridge, MA.
+* Partee, B.H., 1973, “Some structural analogies between tenses and pronouns in English”, *The Journal of Philosophy*, 70: 601–609.
+* –––, 1984, “Nominal and temporal anaphora”, *Linguistics and Philosophy*, 7: 243–286.
+* Recanati, F., 2012, *Mental Files*, Oxford: Oxford University Press.
+* Rooth, M., 1987, “Noun phrase interpretation in Montague grammar, file change semantics, and situation semantics”, in P. Gärdenfors (ed.), *Generalized Quantifiers: Linguistic and Logical Approaches*, Dordrecht: Reidel, pp. 237–268.
+* Saurer, W., 1993, “A natural deduction system for discourse representation theory”, *Journal of Philosophical Logic*, 22: 249–302.
+* Stalnaker, R., 1974, “Pragmatic Presuppositions”, in Milton K. Munitz and Peter K. Unger (eds), *Semantics and Philosophy*, New York: New York University Press.
+* –––, 1998, “On the representation of context”, *Journal of Logic, Language and Information*, 7(1):3–19.
+* Thomason, R.H., 1974, *Formal philosophy: selected papers of Richard Montague*, New Haven: Yale University Press.
+* van Benthem, J. and A. ter Meulen (eds), 1997, *The Handbook of Logic and Language*, Amsterdam: Elsevier.
+* van der Sandt, R.A., 1992, “Presupposition projection as anaphora resolution”, *Journal of Semantics*, 9: 333–377.
+* van Eijck, J., 2006, “Discourse representation theory”, in K. Brown (ed.), *Encyclopedia of Language and Linguistics* (2nd edition), Amsterdam: Elsevier.
 * van Eijck, J. and H. Kamp, 1997, “Representing discourse in context”, in van Benthem and ter Meulen 1997: 179–237.
-* van Leusen, N., 2007, _Description Grammar for Discourse_, Ph.D. thesis, University of Nijmegen.
-* Zeevat, H., 1984, “Belief”, in Landman F. and F. Veltman (eds.), _Varieties of Formal Semantics_, Dordrecht: Foris, pp. 405–425.
-* –––, 1989a, “Realism and definiteness”, in G. Chierchia, B.H. Partee, and R. Turner (eds.), _Properties, Types and Meaning_, Vol. 2, Dordrecht: Kluwer, pp. 269–297.
-* –––, 1989b, “A compositional approach to Discourse Representation Theory”, _Linguistics and Philosophy_, 12: 95–131.
-* –––, 1992, “Presupposition and accommodation in update semantics”, _Journal of Semantics_, 9: 379–412.
-* –––, 1996, “A neoclassical analysis of belief Sentences”, in _Proceedings of the 10th Amsterdam colloquium_, ILLC, University of Amsterdam, part III, p. 723–742.
+* van Leusen, N., 2007, *Description Grammar for Discourse*, Ph.D. thesis, University of Nijmegen.
+* Zeevat, H., 1984, “Belief”, in Landman F. and F. Veltman (eds.), *Varieties of Formal Semantics*, Dordrecht: Foris, pp. 405–425.
+* –––, 1989a, “Realism and definiteness”, in G. Chierchia, B.H. Partee, and R. Turner (eds.), *Properties, Types and Meaning*, Vol. 2, Dordrecht: Kluwer, pp. 269–297.
+* –––, 1989b, “A compositional approach to Discourse Representation Theory”, *Linguistics and Philosophy*, 12: 95–131.
+* –––, 1992, “Presupposition and accommodation in update semantics”, *Journal of Semantics*, 9: 379–412.
+* –––, 1996, “A neoclassical analysis of belief Sentences”, in *Proceedings of the 10th Amsterdam colloquium*, ILLC, University of Amsterdam, part III, p. 723–742.
 
 ## Academic Tools
 
@@ -633,6 +632,6 @@ DRT 的表征主义表现出比其他理论更为激进的一种方式是它也�
 We would like to thank the editors and reviewers of the Stanford Encyclopedia of Philosophy for helpful feedback, and Emilie Destruel for help with formatting.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Bart Geurts](http://www.ru.nl/ncs/bart/) <[_brtgrts@gmail.com_](mailto:brtgrts%40gmail%2ecom)>\
-[David I. Beaver](http://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97) <[_dib@mail.utexas.edu_](mailto:dib%40mail%2eutexas%2eedu)>\
-Emar Maier <[_emar.maier@gmail.com_](mailto:emar%2emaier%40gmail%2ecom)>
+[Bart Geurts](http://www.ru.nl/ncs/bart/) <[*brtgrts@gmail.com*](mailto:brtgrts%40gmail%2ecom)>\
+[David I. Beaver](http://www.utexas.edu/cola/linguistics/faculty/profile.php?id=dib97) <[*dib@mail.utexas.edu*](mailto:dib%40mail%2eutexas%2eedu)>\
+Emar Maier <[*emar.maier@gmail.com*](mailto:emar%2emaier%40gmail%2ecom)>

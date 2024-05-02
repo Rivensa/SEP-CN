@@ -1,12 +1,11 @@
 # 休谟的宗教学 on religion (Paul Russell and Anders Kraal)
 
-_首次发表于2005年10月4日星期二；实质性修订于2017年3月27日星期一_
+*首次发表于2005年10月4日星期二；实质性修订于2017年3月27日星期一*
 
 大卫·休谟关于宗教问题的各种著作是关于这一主题最重要和有影响力的贡献之一。在这些著作中，休谟对各种神学体系的哲学基础进行了系统的怀疑性批判。无论人们对休谟的整体哲学持何种解释，可以肯定的是，他最基本的哲学目标之一就是贬低传统神论信仰的教义和教条。然而，关于休谟的非宗教意图的确切性质和程度存在一些重要的分歧。其中最重要的一个问题是，休谟的怀疑立场是否导致了一个可以被恰当地称为“无神论”的观点。
 
 本文的主要目标是：（1）对休谟关于宗教的主要论证进行阐述，涉及到各种特定问题；（2）回答关于休谟在这个主题上的一般立场的问题。
 
- 
 ***
 
 ## 1. 宗教哲学家和思辨无神论者
@@ -129,23 +128,23 @@ _首次发表于2005年10月4日星期二；实质性修订于2017年3月27日�
 
 普通推理案例（例如，房子到人类建造者）与设计论之间的对比可以用这种方式来说明。
 
-| _**X**_ | = | 原因（建筑师，建筑师等） |
+| ***X*** | = | 原因（建筑师，建筑师等） |
 | ------- | - | ------------ |
-| _**Y**_ | = | 影响（房屋）       |
+| ***Y*** | = | 影响（房屋）       |
 
 | 1.  | _Y_1 ----_X_1         |       |
 | --- | --------------------- | ----- |
 | 2.  | _Y_2 ----_X_2         |       |
 | 3.  | _Y_3 ----_X_3         | …     |
-| \*. | _Y\*\*n_/ \[_X\*\*n_] | **?** |
+| \*. | *Y\*\*n*/ \[*X\*\*n*] | **?** |
 
 在这种情况下，我们对 Xs/Ys 的不断相互关联的经验使我们能够推断出 Yn 的未观察到的原因 Xn。我们的经验是一系列的关联（1,2,3），在每个对象种类内部（即 Xs 和 Ys 之间）存在着密切的相似性。我们直接经验到了这两种对象（即 Xs 和 Ys）。在设计论的情况下，我们的推断具有这种形式。
 
-| _**Z**_ | = | 原因（上帝/创造者） |
+| ***Z*** | = | 原因（上帝/创造者） |
 | ------- | - | ---------- |
-| _**W**_ | = | 结果（世界/宇宙）  |
+| ***W*** | = | 结果（世界/宇宙）  |
 
-> * <_**W**_> / \[_**Z**_\*] **?**
+> * <***W***> / \[***Z***\*] **?**
 
 我们只有一种 W 的经验（即我们对 W 的经验是独特的）。我们对 W 的经验是部分和不完整的（因此），因为我们在空间和时间上只了解到其中的一小部分。我们对任何 Z 都没有经验。在这种情况下，从我们（独特和部分的）对 W 的经验中推断出关于 Z\*的性质的唯一依据是假设 W 与 Y 这样的对象相似，广义上涵盖了所有人类的工艺品和作品。然而，这些效果之间存在着巨大的差异。由此可见，几乎没有依据可以假设 Z 类似于 X（即人类的思维或智能）。因此，从人类理解的角度来看，上帝的本质仍然是“神秘和难以理解的”。
 
@@ -353,100 +352,100 @@ _首次发表于2005年10月4日星期二；实质性修订于2017年3月27日�
 
 ### Hume’s Works
 
-In the entry above, we Follow the convention given in the Nortons’ _Treatise_ and Beauchamp’s _Enquiries_: we cite Book . Part . Section . Paragraph; followed by _page_ references to the Selby-Bigge/Nidditch editions. Thus T,1.2.3.4/ 34: will indicate _Treatise_ Bk.1, Pt.2, Sec.3, Para.4/ Selby-Bigge pg.34. References to the _Abstract_ \[**TA**] are to the two editions of the _Treatise_ mentioned above (paragraph/page). In the case of the _Enquiries_ I cite Section and Paragraph; followed by _page_ reference to the Selby-Bigge edition. Thus EU, 12.1/ 149 refers to _Enquiry Concerning Human Understanding_, Sect.12, Para. 1 / Selby-Bigge pg. 149.
+In the entry above, we Follow the convention given in the Nortons’ *Treatise* and Beauchamp’s *Enquiries*: we cite Book . Part . Section . Paragraph; followed by *page* references to the Selby-Bigge/Nidditch editions. Thus T,1.2.3.4/ 34: will indicate *Treatise* Bk.1, Pt.2, Sec.3, Para.4/ Selby-Bigge pg.34. References to the *Abstract* \[**TA**] are to the two editions of the *Treatise* mentioned above (paragraph/page). In the case of the *Enquiries* I cite Section and Paragraph; followed by *page* reference to the Selby-Bigge edition. Thus EU, 12.1/ 149 refers to *Enquiry Concerning Human Understanding*, Sect.12, Para. 1 / Selby-Bigge pg. 149.
 
-| **T**   | _A Treatise of Human Nature_, edited by L. A. Selby-Bigge, 2nd edition, revised by P.H. Nidditch, Oxford: Clarendon Press, 1975.                                                                                                                                     |
+| **T**   | *A Treatise of Human Nature*, edited by L. A. Selby-Bigge, 2nd edition, revised by P.H. Nidditch, Oxford: Clarendon Press, 1975.                                                                                                                                     |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|         | _A Treatise of Human Nature_, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000.                                                                                                                                        |
-| **MEM** | “Hume’s Early Memoranda, 1729–1740”, edited with a forward by E.C. Mossner, _Journal of the History of Ideas_, 9 (1948): 492–518.                                                                                                                                    |
-| **EF**  | “An early fragment on evil,” in _Hume and Hume’s Connexions_, ed. by M.A. Stewart & J. P. Wright, University Park, PA: Pennsylvania State University Press, 1994, 160–70.                                                                                            |
-| **LG**  | _A Letter from a Gentleman to his friend in Edinburgh_, ed. by E.C. Mossner and J.V. Price, Edinburgh: Edinburgh University Press, 1967.                                                                                                                             |
-| **EU**  | _Enquiry concerning Human Understanding_, in _Enquiries concerning Human Understanding and concerning the Principles of Morals_, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.                                  |
-|         | _Enquiry concerning Human Understanding_, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1999.                                                                                                                                                |
-| **EM**  | _Enquiry concerning the Principles of Morals_, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1998                                                                                                                                            |
-| **ESY** | _Essays: Moral, Political, and Literary_, revised edition by E.F. Miller, Indianapolis: Liberty Classics, 1985.                                                                                                                                                      |
-| **NHR** | _The Natural History of Religion_ (1757) in, _A Dissertation on the Passions, The Natural History of religion: A Critical Edition_, edited by T.L. Beauchamp, Oxford & New York: Clarendon Press, 2007. Section and paragraph references are to this edition.        |
-|         | _The Natural History of Religion_ (1757) in: _Dialogues and Natural History of Religion_, edited by J.A.C. Gaskin, Oxford & New York: Oxford University Press, 1993.                                                                                                 |
-|         | _The Natural History of Religion_, edited with an introduction by James Fieser, New York: Macmillan, 1992.                                                                                                                                                           |
-| **D**   | _Dialogues concerning Natural Religion and Other Writings_ (1779), edited by D. Coleman, Cambridge: Cambridge University Press, 2007. References are to the Part and paragraph numbers as provided in this edition. Page references after the slash are provided to: |
-|         | _Dialogues concerning Natural Religion_, 2nd edition, edited by N. Kemp Smith, Edinburgh: Nelson & Sons, 1947.                                                                                                                                                       |
-|         | _Dialogues concerning Natural Religion_ in _Dialogues and Natural History of Religion_, edited by J.A.C. Gaskin, Oxford & New York: Oxford University Press, 1993.                                                                                                   |
-|         | _Dialogues Concerning Natural Religion and the Posthumous Essays_, edited and introduced by R.H. Popkin, Indianapolis: Hackett, 1980.                                                                                                                                |
-|         | _Dialogues Concerning Natural Religion_, edited and introduced by Martin Bell, London: Penguin, 1990.                                                                                                                                                                |
-|         | _David Hume Writings on Religion_, edited and introduced by A. Flew, La Salle, Ill.: Open Court, 1992. \[This collection contains the complete _Dialogues_ along with a number of other works by Hume concerned with religion.]                                      |
-| **LET** | _The Letters of David Hume_, 2 Vols., edited by J.Y.T. Greig, Oxford: Clarendon, 1932.                                                                                                                                                                               |
-| **HE**  | _The History of England_, 6 Vols., edited by William B. Todd, Indianapolis: Liberty Classics, 1983.                                                                                                                                                                  |
+|         | *A Treatise of Human Nature*, edited by David Fate Norton and Mary J. Norton, Oxford/New York: Oxford University Press, 2000.                                                                                                                                        |
+| **MEM** | “Hume’s Early Memoranda, 1729–1740”, edited with a forward by E.C. Mossner, *Journal of the History of Ideas*, 9 (1948): 492–518.                                                                                                                                    |
+| **EF**  | “An early fragment on evil,” in *Hume and Hume’s Connexions*, ed. by M.A. Stewart & J. P. Wright, University Park, PA: Pennsylvania State University Press, 1994, 160–70.                                                                                            |
+| **LG**  | *A Letter from a Gentleman to his friend in Edinburgh*, ed. by E.C. Mossner and J.V. Price, Edinburgh: Edinburgh University Press, 1967.                                                                                                                             |
+| **EU**  | *Enquiry concerning Human Understanding*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, edited by L. A. Selby-Bigge, 3rd edition revised by P. H. Nidditch, Oxford: Clarendon Press, 1975.                                  |
+|         | *Enquiry concerning Human Understanding*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1999.                                                                                                                                                |
+| **EM**  | *Enquiry concerning the Principles of Morals*, edited by Tom L. Beauchamp, Oxford/New York: Oxford University Press, 1998                                                                                                                                            |
+| **ESY** | *Essays: Moral, Political, and Literary*, revised edition by E.F. Miller, Indianapolis: Liberty Classics, 1985.                                                                                                                                                      |
+| **NHR** | *The Natural History of Religion* (1757) in, *A Dissertation on the Passions, The Natural History of religion: A Critical Edition*, edited by T.L. Beauchamp, Oxford & New York: Clarendon Press, 2007. Section and paragraph references are to this edition.        |
+|         | *The Natural History of Religion* (1757) in: *Dialogues and Natural History of Religion*, edited by J.A.C. Gaskin, Oxford & New York: Oxford University Press, 1993.                                                                                                 |
+|         | *The Natural History of Religion*, edited with an introduction by James Fieser, New York: Macmillan, 1992.                                                                                                                                                           |
+| **D**   | *Dialogues concerning Natural Religion and Other Writings* (1779), edited by D. Coleman, Cambridge: Cambridge University Press, 2007. References are to the Part and paragraph numbers as provided in this edition. Page references after the slash are provided to: |
+|         | *Dialogues concerning Natural Religion*, 2nd edition, edited by N. Kemp Smith, Edinburgh: Nelson & Sons, 1947.                                                                                                                                                       |
+|         | *Dialogues concerning Natural Religion* in *Dialogues and Natural History of Religion*, edited by J.A.C. Gaskin, Oxford & New York: Oxford University Press, 1993.                                                                                                   |
+|         | *Dialogues Concerning Natural Religion and the Posthumous Essays*, edited and introduced by R.H. Popkin, Indianapolis: Hackett, 1980.                                                                                                                                |
+|         | *Dialogues Concerning Natural Religion*, edited and introduced by Martin Bell, London: Penguin, 1990.                                                                                                                                                                |
+|         | *David Hume Writings on Religion*, edited and introduced by A. Flew, La Salle, Ill.: Open Court, 1992. \[This collection contains the complete *Dialogues* along with a number of other works by Hume concerned with religion.]                                      |
+| **LET** | *The Letters of David Hume*, 2 Vols., edited by J.Y.T. Greig, Oxford: Clarendon, 1932.                                                                                                                                                                               |
+| **HE**  | *The History of England*, 6 Vols., edited by William B. Todd, Indianapolis: Liberty Classics, 1983.                                                                                                                                                                  |
 
 ### Primary Works
 
 #### Background
 
-* Baxter, Andrew, _Enquiry into the Nature of the Human Soul_, 2nd edition, 2 Vols., London, 1737; reprinted, Bristol: Thoemmes, 1990.
-* Bayle, Pierre, _Historical and Critical Dictionary_, 1702; selections translated and introduced by Ruchard Popkin, Indianapolis: Bobbs-Merrill, 1965.
-* Bentley, Richard, _Folly of Atheism_, in _Works of Richard Bentley_, 3 Vols., London, 1838, Vol. III; reprinted, New York: AMS Press, 1966.
-* Berkeley, George, _A Treatise Concerning the Principles of Knowledge_, 1710; edited with an introduction by Jonathan Dancy, Oxford & New York: Oxford University Press, 1998.
-* –––, _Three Dialogues between Hylas and Philonous_, 1713; edited with an introduction by Jonathan Dancy, Oxford & New York: Oxford University Press, 1998.
-* –––, _Alciphron, or the Minute Philosopher_, 1732; selections in _Alciphron in focus_, edited and introduced by David Berman, London: Routledge, 1993.
-* Browne, Peter, _Things Divine and Supernatural Conceived by Analogy with Things Natural and Human_, London, 1733.
-* Butler, Joseph, _The Analogy of Religion_, 1736; in _The Works of Joseph Butler_, edited by S. Halifax, 2 Vols., Oxford: Oxford University Press, 1849, Vol. I.
-* Clarke, Samuel, _A Demonstration of the Being and Attributes of God_, 1704; introduced and edited with other writings by E. Vailati, Cambridge: Cambridge University Press, 1998.
-* Cudworth, Ralph, _True Intellectual System of the Universe_, 2 Vols., London, 1678; reprinted, New York & London: Garland, 1978.
-* Descartes, Rene, _Meditations on First Philosophy_, Paris, 1641; in _The Philosophical Writings of Decartes_, translated by J. Cottingham, R. Stoothoff, D. Murdoch, 3 Vols., Cambridge: Cambridge Univesity Press, 1984, Vol. II.
-* Hobbes, Thomas, _Human Nature and De Corpore Politico_ \[_The Elements of Law_], 1640; edited with an introduction by J.C.A. Gaskin, Oxford & New York: Oxford University Press, 1994.
-* –––, _Leviathan_, London, 1651; edited with an introduction by E. Curley, Indianapolis: Hackett, 1994.
-* –––, _The Citizen_ \[_Philosophical Rudiments Concerning Govrnment and Society_], 1642; edited and introduced by B. Gert, _Man and Citizen_, Indianapolis: Hackett, 1991.
-* Leibniz, G.W., _Theodicy_, 1710; translated. E.M. Huggard, edited with an introduction by A. Farrer, London: Routledge & Kegan Paul, 1951.
-* Locke, John, _An Essay Concerning Human Understanding_, London, 1690; edited with a foreword by P.H. Nidditch, Oxford: Clarendon Press, 1975.
-* Lucretius, _The Nature of the Universe_, 55 B.C.E.; translated and introduced by R.E. Latham, Harmondsworth, Middx.: Penguin, 1951.
-* Malebranche, Nicolas, _Philosophical Selections_, edited by S. Nadler, Indianapolis: Hackett, 1992.
-* Spinoza, _Theological-Political Treatise_, 1670; translated with an introduction by R.H.M. Elwes, _The Chief Works of Spinoza_, New York: Dover, 1951.
-* –––, _Ethics_, 1677; translated by S. Shirley and edited with an introduction by S. Feldman, Indianapolis: Hackett, 1991.
+* Baxter, Andrew, *Enquiry into the Nature of the Human Soul*, 2nd edition, 2 Vols., London, 1737; reprinted, Bristol: Thoemmes, 1990.
+* Bayle, Pierre, *Historical and Critical Dictionary*, 1702; selections translated and introduced by Ruchard Popkin, Indianapolis: Bobbs-Merrill, 1965.
+* Bentley, Richard, *Folly of Atheism*, in *Works of Richard Bentley*, 3 Vols., London, 1838, Vol. III; reprinted, New York: AMS Press, 1966.
+* Berkeley, George, *A Treatise Concerning the Principles of Knowledge*, 1710; edited with an introduction by Jonathan Dancy, Oxford & New York: Oxford University Press, 1998.
+* –––, *Three Dialogues between Hylas and Philonous*, 1713; edited with an introduction by Jonathan Dancy, Oxford & New York: Oxford University Press, 1998.
+* –––, *Alciphron, or the Minute Philosopher*, 1732; selections in *Alciphron in focus*, edited and introduced by David Berman, London: Routledge, 1993.
+* Browne, Peter, *Things Divine and Supernatural Conceived by Analogy with Things Natural and Human*, London, 1733.
+* Butler, Joseph, *The Analogy of Religion*, 1736; in *The Works of Joseph Butler*, edited by S. Halifax, 2 Vols., Oxford: Oxford University Press, 1849, Vol. I.
+* Clarke, Samuel, *A Demonstration of the Being and Attributes of God*, 1704; introduced and edited with other writings by E. Vailati, Cambridge: Cambridge University Press, 1998.
+* Cudworth, Ralph, *True Intellectual System of the Universe*, 2 Vols., London, 1678; reprinted, New York & London: Garland, 1978.
+* Descartes, Rene, *Meditations on First Philosophy*, Paris, 1641; in *The Philosophical Writings of Decartes*, translated by J. Cottingham, R. Stoothoff, D. Murdoch, 3 Vols., Cambridge: Cambridge Univesity Press, 1984, Vol. II.
+* Hobbes, Thomas, *Human Nature and De Corpore Politico* \[*The Elements of Law*], 1640; edited with an introduction by J.C.A. Gaskin, Oxford & New York: Oxford University Press, 1994.
+* –––, *Leviathan*, London, 1651; edited with an introduction by E. Curley, Indianapolis: Hackett, 1994.
+* –––, *The Citizen* \[*Philosophical Rudiments Concerning Govrnment and Society*], 1642; edited and introduced by B. Gert, *Man and Citizen*, Indianapolis: Hackett, 1991.
+* Leibniz, G.W., *Theodicy*, 1710; translated. E.M. Huggard, edited with an introduction by A. Farrer, London: Routledge & Kegan Paul, 1951.
+* Locke, John, *An Essay Concerning Human Understanding*, London, 1690; edited with a foreword by P.H. Nidditch, Oxford: Clarendon Press, 1975.
+* Lucretius, *The Nature of the Universe*, 55 B.C.E.; translated and introduced by R.E. Latham, Harmondsworth, Middx.: Penguin, 1951.
+* Malebranche, Nicolas, *Philosophical Selections*, edited by S. Nadler, Indianapolis: Hackett, 1992.
+* Spinoza, *Theological-Political Treatise*, 1670; translated with an introduction by R.H.M. Elwes, *The Chief Works of Spinoza*, New York: Dover, 1951.
+* –––, *Ethics*, 1677; translated by S. Shirley and edited with an introduction by S. Feldman, Indianapolis: Hackett, 1991.
 
 #### Early Responses to Hume’s Philosophy of Religion
 
-* Fieser, James (ed.), _Early Responses to Hume’s Writings on Religion_, Bristol: Thoemmes Press, 2001. \[Vols. 5 and 6 of the series _Early Responses to Hume_.]
-* Tweyman, Stanley (ed.), _Hume on Miracles_, Bristol: Thoemmes, 1996.
+* Fieser, James (ed.), *Early Responses to Hume’s Writings on Religion*, Bristol: Thoemmes Press, 2001. \[Vols. 5 and 6 of the series *Early Responses to Hume*.]
+* Tweyman, Stanley (ed.), *Hume on Miracles*, Bristol: Thoemmes, 1996.
 
 ### Secondary Works
 
 #### Books
 
-* Bailey, Alan, and Dan O’Brien (eds.),2012, _The Continuum Companion to Hume_, London & New York: Continuum. \[See, in particular, the contributions by Pritchard & Richmond, Pyle and O’Connor.]
-* Bailey, Alan, and Dan O’Brien, 2014, _Hume’s Critique of Religion: \&RSQUO;Sick Men’s Dreams’_, Dordrecht: Springer.
-* Burns, R.M., 1981, _The Great Debate on Miracles: From Joseph Glanville to David Hume_, Lewisburg: Bucknell University Press.
-* Earman, John, 2000, _Hume’s Abject Failure: The Argument Against Miracles_, Oxford; New York: Clarendon Press.
-* Ferreira,M. Jamie, 1986, _Scepticism and Reasonable Doubt: The British Naturalist Tradition in Wilkins, Hume Reid and Newman_, Oxford: Clarendon Press.
-* Fogelin, Robert J., 2003, _A Defense of Hume on Miracles_, Princeton: Princeton University Press.
-* Gaskin, J.C.A., 1988, _Hume’s Philosophy of Religion_, 2nd ed., London: Macmillan.
-* Herdt, Jennifer, 1997, _Religion and Faction in Hume’s Moral Philosophy_, Cambridge: Cambridge University Press.
-* Holden, Thomas, 2010, _Spectres of False Divinity: Hume’s Moral Atheism_, Cambridge: Cambridge University Press.
-* Hurlbutt, Robert H., 1985, _Hume, Newton and the Design Argument_, revised edition, Lincoln & London: University of Nebraska Press.
-* Israel, Jonathan, 2001, _Radical Enlightenment: Philosophy and the Making of Modernity 1650-1750_, Oxford: Oxford University Press.
-* Jeffner, Anders, 1966, _Butler and Hume on Religion: A Comparative Analysis_, Stockholm: Diakonistyrelsens Bokforlag.
-* Johnson, David, 1999, _Hume, Holism, and Miracles_ , Ithaca: Cornell University Press.
-* Kemp Smith, Norman, 1947, Introduction to his edition of _Dialogues Concerning Natural Religion_, 2nd edition, Edinburgh: Nelson.
-* Levine, Michael P., 1989, _Hume and the Problem of Miracles: A Solution_, Dordrecht: Kluwer.
-* MacIntosh, J.J., 2006, _Boyle on Atheism_, Toronto: University of Toronto Press.
-* Mackie, J.L., 1982, _The Miracle of Theism: Arguments for and against the Existence of God_, Oxford: Clarendon Press. \[This book is not directly on Hume’s philosophy of religion but discusses his views on various relevant topics at some length in several chapters.]
-* Millican, Peter (ed.), 2002, _Reading Hume on Human Understanding_, Oxford: Clarendon Press. \[See, in particular, the articles by Millican, Garrett and Gaskin.]
-* O’Connor, David, 2001, _Hume On Religion_, London & New York: Routledge.
-* Penelhum, Terence, 2000, _Themes in Hume: The Self, the Will, Religion_, Oxford: Clarendon Press, esp. Ch. 9–13.
-* Phillips, D.Z., and Timothy Tessin, eds.,1999, _Religion and Hume’s Legacy_, London: Palgrave Macmillan.
-* Radcliffe, Elizabeth S. (ed.), 2011, _A Companion to Hume_, Oxford: Wiley-Blackwell. \[See, in particular, the contributions by Penelhum, Bell and Levine.]
-* Russell, Paul, 2008, _The Riddle of Hume’s_ Treatise\*: Scepticism, Naturalism and Irreligion\*, Oxford & New York: Oxford University Press.
-* Russell, Paul (ed.), 2016, _The Oxford Handbook of David Hume_, New York: Oxford University Press. \[See, in particular, the contributions by Russell, Bell, Newlands, Levine, Yandell and Lecaldano.]
-* Sennett, James F., and Douglas Groothuis (eds.), 1986, _In Defence of Natural Theology: A Post-Humean Assessment_, Downers Grove, IL: InterVarsity Press.
-* Siebert, Donald. T., 1990, _The Moral Animus of David Hume_, Newark: University of Delaware Press.
-* Stephen, Leslie, 1962 \[1902], _History of English Thought in the Eighteenth Century_, 3rd edition, London: Harcourt, Brace & World.
-* Tweyman, Stanley, 1986, _Scepticism and Belief in Hume’s_ Dialogues Concerning Natural Religion, Dordrecht: Martinus Nijhoff.
-* Vanzo, Alberto, 2016, _“Empiricism and Rationalism in Nineteenth-Century Histories of Philosophy”_, Journal of the History of Ideas 77, 253-282.
-* Yandell, Keith E., 1990, _Hume’s “Inexplicable Mystery”: His Views on Religion_, Philadelphia: Temple University Press.
+* Bailey, Alan, and Dan O’Brien (eds.),2012, *The Continuum Companion to Hume*, London & New York: Continuum. \[See, in particular, the contributions by Pritchard & Richmond, Pyle and O’Connor.]
+* Bailey, Alan, and Dan O’Brien, 2014, *Hume’s Critique of Religion: \&RSQUO;Sick Men’s Dreams’*, Dordrecht: Springer.
+* Burns, R.M., 1981, *The Great Debate on Miracles: From Joseph Glanville to David Hume*, Lewisburg: Bucknell University Press.
+* Earman, John, 2000, *Hume’s Abject Failure: The Argument Against Miracles*, Oxford; New York: Clarendon Press.
+* Ferreira,M. Jamie, 1986, *Scepticism and Reasonable Doubt: The British Naturalist Tradition in Wilkins, Hume Reid and Newman*, Oxford: Clarendon Press.
+* Fogelin, Robert J., 2003, *A Defense of Hume on Miracles*, Princeton: Princeton University Press.
+* Gaskin, J.C.A., 1988, *Hume’s Philosophy of Religion*, 2nd ed., London: Macmillan.
+* Herdt, Jennifer, 1997, *Religion and Faction in Hume’s Moral Philosophy*, Cambridge: Cambridge University Press.
+* Holden, Thomas, 2010, *Spectres of False Divinity: Hume’s Moral Atheism*, Cambridge: Cambridge University Press.
+* Hurlbutt, Robert H., 1985, *Hume, Newton and the Design Argument*, revised edition, Lincoln & London: University of Nebraska Press.
+* Israel, Jonathan, 2001, *Radical Enlightenment: Philosophy and the Making of Modernity 1650-1750*, Oxford: Oxford University Press.
+* Jeffner, Anders, 1966, *Butler and Hume on Religion: A Comparative Analysis*, Stockholm: Diakonistyrelsens Bokforlag.
+* Johnson, David, 1999, *Hume, Holism, and Miracles* , Ithaca: Cornell University Press.
+* Kemp Smith, Norman, 1947, Introduction to his edition of *Dialogues Concerning Natural Religion*, 2nd edition, Edinburgh: Nelson.
+* Levine, Michael P., 1989, *Hume and the Problem of Miracles: A Solution*, Dordrecht: Kluwer.
+* MacIntosh, J.J., 2006, *Boyle on Atheism*, Toronto: University of Toronto Press.
+* Mackie, J.L., 1982, *The Miracle of Theism: Arguments for and against the Existence of God*, Oxford: Clarendon Press. \[This book is not directly on Hume’s philosophy of religion but discusses his views on various relevant topics at some length in several chapters.]
+* Millican, Peter (ed.), 2002, *Reading Hume on Human Understanding*, Oxford: Clarendon Press. \[See, in particular, the articles by Millican, Garrett and Gaskin.]
+* O’Connor, David, 2001, *Hume On Religion*, London & New York: Routledge.
+* Penelhum, Terence, 2000, *Themes in Hume: The Self, the Will, Religion*, Oxford: Clarendon Press, esp. Ch. 9–13.
+* Phillips, D.Z., and Timothy Tessin, eds.,1999, *Religion and Hume’s Legacy*, London: Palgrave Macmillan.
+* Radcliffe, Elizabeth S. (ed.), 2011, *A Companion to Hume*, Oxford: Wiley-Blackwell. \[See, in particular, the contributions by Penelhum, Bell and Levine.]
+* Russell, Paul, 2008, *The Riddle of Hume’s* Treatise\*: Scepticism, Naturalism and Irreligion\*, Oxford & New York: Oxford University Press.
+* Russell, Paul (ed.), 2016, *The Oxford Handbook of David Hume*, New York: Oxford University Press. \[See, in particular, the contributions by Russell, Bell, Newlands, Levine, Yandell and Lecaldano.]
+* Sennett, James F., and Douglas Groothuis (eds.), 1986, *In Defence of Natural Theology: A Post-Humean Assessment*, Downers Grove, IL: InterVarsity Press.
+* Siebert, Donald. T., 1990, *The Moral Animus of David Hume*, Newark: University of Delaware Press.
+* Stephen, Leslie, 1962 \[1902], *History of English Thought in the Eighteenth Century*, 3rd edition, London: Harcourt, Brace & World.
+* Tweyman, Stanley, 1986, *Scepticism and Belief in Hume’s* Dialogues Concerning Natural Religion, Dordrecht: Martinus Nijhoff.
+* Vanzo, Alberto, 2016, *“Empiricism and Rationalism in Nineteenth-Century Histories of Philosophy”*, Journal of the History of Ideas 77, 253-282.
+* Yandell, Keith E., 1990, *Hume’s “Inexplicable Mystery”: His Views on Religion*, Philadelphia: Temple University Press.
 
 ### Bibliographies
 
 * [Hume Studies](http://www.humesociety.org/hs/). \[This journal provides a comprehensive review of Hume literature, updated annually.]
-* Morris, William, “David Hume,” _Stanford Encyclopedia of Philosophy_ (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[David Hume (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/hume/)>. \[Contains an excellent bibliography relating to Hume’s philosophy in general.]
-* A helpful bibliography of readings relating to Hume’s views on religion, including many important articles on this topic, may be found in Bailey & O’Brien (eds.), _The Continuum Companion to Hume_, as cited above.
+* Morris, William, “David Hume,” *Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[David Hume (Stanford Encyclopedia of Philosophy/Winter 2012 Edition)](https://plato.stanford.edu/archives/win2012/entries/hume/)>. \[Contains an excellent bibliography relating to Hume’s philosophy in general.]
+* A helpful bibliography of readings relating to Hume’s views on religion, including many important articles on this topic, may be found in Bailey & O’Brien (eds.), *The Continuum Companion to Hume*, as cited above.
 
 ## Academic Tools
 
@@ -460,11 +459,11 @@ In the entry above, we Follow the convention given in the Nortons’ _Treatise_ 
 
 * [davidhume.org](http://www.davidhume.org/), University of Leeds Electronic Text Centre and Hertford College/Oxford.
 * [The Hume Society](http://www.humesociety.org/)
-* [David Hume](http://www.iep.utm.edu/hume/), by James Fieser (entry in the _Internet Encyclopedia of Philosophy_).
+* [David Hume](http://www.iep.utm.edu/hume/), by James Fieser (entry in the *Internet Encyclopedia of Philosophy*).
 
 ### Podcasts
 
-* [Philosophy: The Classics](http://philclassics.libsyn.com/hume\dialogues), web page with a link to an audio stream of Nigel Warburton giving his summary of Hume’s _Dialogues_, from his book _Philosophy: The Classics_.
+* [Philosophy: The Classics](http://philclassics.libsyn.com/hume\dialogues), web page with a link to an audio stream of Nigel Warburton giving his summary of Hume’s *Dialogues*, from his book *Philosophy: The Classics*.
 * [Philosophy Bites: Paul Russell on David Hume’s Philosophy of Irreligion](http://philosophybites.com/2011/04/paul-russell-on-david-humes-treatise.html), web page with a link to audio file.
 * [Philosophy Bites: Peter Millican on Hume’s Significance](http://philosophybites.com/2008/04/peter-millican.html), web page with link to audio file.
 * [Philosophy Bites: Stewart Sutherland on Hume on Design](http://philosophybites.com/2007/10/stewart-sutherl.html), web page with link to audio file.
@@ -478,5 +477,5 @@ In the entry above, we Follow the convention given in the Nortons’ _Treatise_ 
 The author and editors are grateful to Doug Jesseph for comments on an earlier version of this article.
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-[Paul Russell](https://www.fil.lu.se/en/person/PaulRussell/) <[_paul.russell@fil.lu.se_](mailto:paul%2erussell%40fil%2elu%2ese)>\
-Anders Kraal <[_anders.kraal@ubc.ca_](mailto:anders%2ekraal%40ubc%2eca)>
+[Paul Russell](https://www.fil.lu.se/en/person/PaulRussell/) <[*paul.russell@fil.lu.se*](mailto:paul%2erussell%40fil%2elu%2ese)>\
+Anders Kraal <[*anders.kraal@ubc.ca*](mailto:anders%2ekraal%40ubc%2eca)>

@@ -1,10 +1,8 @@
 # 数学哲学中的唯名论 nominalism (Otávio Bueno)
 
-_首次发表于2013年9月16日星期一_
+*首次发表于2013年9月16日星期一*
 
 关于数学的唯名论（或数学唯名论）是一种观点，根据这种观点，数学对象、关系和结构要么根本不存在，要么它们不作为抽象对象存在（它们既不位于时空中，也没有因果能力）。在后一种情况下，会提供一些适当的具体替代物来代表数学对象。广义上讲，数学唯名论有两种形式：一些观点要求重新阐述数学（或科学）理论，以避免对数学对象的承诺（例如，Field 1980；Hellman 1989），而另一些观点则不重新阐述数学或科学理论，而是提供了一种解释，说明在使用这些理论时不涉及对数学对象的承诺（例如，Azzouni 2004）。这两种唯名论形式都受到了审视，并根据它们如何解决数学哲学中的五个核心问题进行了评估（即与数学的认识论、本体论和应用以及统一语义的问题以及数学和科学理论需要被字面理解的条件）。
-
- 
 
 ***
 
@@ -169,11 +167,11 @@ _首次发表于2013年9月16日星期一_
 
 这两个选项的开始方式相同。假设
 
-> (1) ¬◊_T_.
+> (1) ¬◊*T*.
 
 我们必须确立
 
-> (2) ∃_fA_1…_A\*\*n_ ¬◊(_A_1∧…∧_A\*\*n_).
+> (2) ∃_fA_1…*A\*\*n* ¬◊(_A_1∧…∧*A\*\*n*).
 
 由(1)和(MTP#)可以推导出
 
@@ -287,7 +285,7 @@ and thus
 
 第一个问题是应用数学陈述的一般形式（Hellman 1989，第 118-124 页）。这些陈述涉及三个关键组成部分：应用数学中使用的结构，数学结构应用于的非数学对象，以及描述数学结构与非数学对象之间特定关系的应用陈述。相关数学结构可以用集合论来表达。让我们称应用背景中使用的集合论为 Z。（这是可有限公理化的二阶泽尔梅洛集合论；我将用∧Z 表示 Z 的公理的合取。）在应用背景中感兴趣的非数学对象可以在 Z 中表示为 Urelemente，即不是集合的对象。我们将‘U’作为一个陈述，说明某些感兴趣的非数学对象被包括为 Z 的结构中的 Urelemente。最后，‘A’是应用陈述，描述 Z 的相关数学结构与 U 中描述的非数学对象之间的特定关系。所涉及的特定关系取决于具体情况。现在我们可以呈现一个应用数学陈述的一般形式（Hellman 1989，第 119 页）：
 
-> ☐∀_X_∀_f_ ((∧_Z_ & _U_)_X_ (∈_f_) → _A_).
+> ☐∀*X*∀*f* ((∧*Z* & *U*)*X* (∈*f*) → *A*).
 
 在前提中，‘(∧Z & U)X (∈f)’是将策尔梅洛集合论公理写出后，将所有量词相对于二阶变量 X 进行相对化，并将成员关系符号‘∈’替换为二元关系变量‘f’的缩写。根据应用数学的陈述，如果存在满足策尔梅洛集合论 Z 公理的结构，其中包括 U 中提到的一些非数学对象，那么在这样的结构中 A 成立。陈述 A 表达了问题中的关系，例如物理系统与某些集合论结构之间的同构或同态关系。这是被解释为表达某些数学结构（作为∧Z 的结构）与世界中研究的实体（Urelemente）之间将会存在的关系的假设组成部分。
 
@@ -453,67 +451,67 @@ Colyvan 为相反的观点辩护（Colyvan 2001b），坚持认为数学应用�
 
 ## Bibliography
 
-* Azzouni, J., 1994, _Metaphysical Myths, Mathematical Practice: The Ontology and Epistemology of the Exact Sciences_, Cambridge: Cambridge University Press.
-* –––, 1997, “Applied Mathematics, Existential Commitment and the Quine-Putnam Indispensability Thesis”, _Philosophia Mathematica_, 5: 193–209.
-* –––, 2000, “Applying Mathematics: An Attempt to Design a Philosophical Problem”, _The Monist_, 83: 209–227.
-* –––, 2004, _Deflating Existential Consequence: A Case for Nominalism_, New York: Oxford University Press.
-* –––, 2006, _Tracking Reason: Proof, Consequence, and Truth_, New York: Oxford University Press.
-* –––, 2007, “Ontological Commitment in the Vernacular”, _Noûs_, 41: 204–226.
-* –––, 2009a, “Empty _de re_ Attitudes about Numbers”, _Philosophia Mathematica_, 17: 163–188.
-* ––– 2009b, “Evading Truth Commitments: The Problem Reanalyzed”, _Logique et Analyse_, 206: 139–176.
-* –––, 2010a, _Talking about Nothing: Numbers, Hallucinations, and Fictions_, New York: Oxford University Press.
-* ––– 2010b, “Ontology and the Word ‘Exist’: Uneasy Relations”, _Philosophia Mathematica_, 18: 74–101.
+* Azzouni, J., 1994, *Metaphysical Myths, Mathematical Practice: The Ontology and Epistemology of the Exact Sciences*, Cambridge: Cambridge University Press.
+* –––, 1997, “Applied Mathematics, Existential Commitment and the Quine-Putnam Indispensability Thesis”, *Philosophia Mathematica*, 5: 193–209.
+* –––, 2000, “Applying Mathematics: An Attempt to Design a Philosophical Problem”, *The Monist*, 83: 209–227.
+* –––, 2004, *Deflating Existential Consequence: A Case for Nominalism*, New York: Oxford University Press.
+* –––, 2006, *Tracking Reason: Proof, Consequence, and Truth*, New York: Oxford University Press.
+* –––, 2007, “Ontological Commitment in the Vernacular”, *Noûs*, 41: 204–226.
+* –––, 2009a, “Empty *de re* Attitudes about Numbers”, *Philosophia Mathematica*, 17: 163–188.
+* ––– 2009b, “Evading Truth Commitments: The Problem Reanalyzed”, *Logique et Analyse*, 206: 139–176.
+* –––, 2010a, *Talking about Nothing: Numbers, Hallucinations, and Fictions*, New York: Oxford University Press.
+* ––– 2010b, “Ontology and the Word ‘Exist’: Uneasy Relations”, *Philosophia Mathematica*, 18: 74–101.
 * –––, 2011, “Nominalistic Content”, in Cellucci, Grosholtz, and Ippoliti (eds.) 2011, pp. 33–51.
-* –––, 2012, “Taking the Easy Road Out of Dodge”, _Mind_, 121: 951–965. (Paper published in 2013.)
-* Balaguer, M., 1998, _Platonism and Anti-Platonism in Mathematics_, New York: Oxford University Press.
-* Benacerraf, P., 1973, “Mathematical Truth”, _Journal of Philosophy_, 70: 661–679.
-* Benacerraf, P., and Putnam, H. (eds.), 1983, _Philosophy of Mathematics: Selected Readings_, second edition, Cambridge: Cambridge University Press.
-* Boolos, G., and Jeffrey, R., 1989, _Computability and Logic_, third edition, Cambridge: Cambridge University Press.
-* Bueno, O., 2003, “Is It Possible to Nominalize Quantum Mechanics?”, _Philosophy of Science_, 70: 1424–1436.
-* –––, 2008, “Nominalism and Mathematical Intuition”, _Protosociology_, 25: 89–107.
+* –––, 2012, “Taking the Easy Road Out of Dodge”, *Mind*, 121: 951–965. (Paper published in 2013.)
+* Balaguer, M., 1998, *Platonism and Anti-Platonism in Mathematics*, New York: Oxford University Press.
+* Benacerraf, P., 1973, “Mathematical Truth”, *Journal of Philosophy*, 70: 661–679.
+* Benacerraf, P., and Putnam, H. (eds.), 1983, *Philosophy of Mathematics: Selected Readings*, second edition, Cambridge: Cambridge University Press.
+* Boolos, G., and Jeffrey, R., 1989, *Computability and Logic*, third edition, Cambridge: Cambridge University Press.
+* Bueno, O., 2003, “Is It Possible to Nominalize Quantum Mechanics?”, *Philosophy of Science*, 70: 1424–1436.
+* –––, 2008, “Nominalism and Mathematical Intuition”, *Protosociology*, 25: 89–107.
 * –––, 2009, “Mathematical Fictionalism”, in Bueno and Linnebo (eds.) 2009, pp. 59–79.
-* Bueno, O., French, S., and Ladyman, J., 2002, “On Representing the Relationship between the Mathematical and the Empirical”, _Philosophy of Science_, 69: 497–518.
-* Bueno, O., and Linnebo, Ø. (eds.), 2009, _New Waves in Philosophy of Mathematics_, Hampshire: Palgrave MacMillan.
-* Bueno, O., and Zalta, E., 2005, “A Nominalist's Dilemma and its Solution”, _Philosophia Mathematica_, 13: 294–307.
-* Burgess, J., and Rosen, G., 1997, _A Subject With No Object: Strategies for Nominalistic Interpretation of Mathematics_, Oxford: Clarendon Press.
-* Cellucci, C., Grosholtz, E., and Ippoliti, E. (eds.), 2011, _Logic and Knowledge_, Newcastle: Cambridge Scholars Publishing.
-* Chihara, C.S., 1990, _Constructibility and Mathematical Existence_, Oxford: Clarendon Press.
-* Colyvan, M., 2001a, _The Indispensability of Mathematics_, New York: Oxford University Press.
-* –––, 2001b, “The Miracle of Applied Mathematics”, _Synthese_, 127: 265–277.
-* –––, 2010, “There's No Easy Road to Nominalism”, _Mind_, 119: 285–306.
-* da Costa, N., and French, S., 2003, _Science and Partial Truth_, New York: Oxford University Press.
-* Field, H., 1980, _Science without Numbers: A Defense of Nominalism_, Princeton, N.J.: Princeton University Press.
-* –––, 1984, “Is Mathematical Knowledge Just Logical Knowledge?”, _Philosophical Review_, 93: 509–552; reprinted with a postscript and some changes in Field 1989, pp. 79–124.
-* –––, 1989, _Realism, Mathematics and Modality_, Oxford: Basil Blackwell.
-* –––, 1991, “Metalogic and Modality”, _Philosophical Studies_, 62: 1–22.
-* –––, 1992, “A Nominalistic Proof of the Conservativeness of Set Theory”, _Journal of Philosophical Logic_, 21: 111–123.
-* Friedman, J., 2005, “Modal Platonism: An Easy Way to Avoid Ontological Commitment to Abstract Entities”, _Journal of Philosophical Logic_, 34: 227–273.
+* Bueno, O., French, S., and Ladyman, J., 2002, “On Representing the Relationship between the Mathematical and the Empirical”, *Philosophy of Science*, 69: 497–518.
+* Bueno, O., and Linnebo, Ø. (eds.), 2009, *New Waves in Philosophy of Mathematics*, Hampshire: Palgrave MacMillan.
+* Bueno, O., and Zalta, E., 2005, “A Nominalist's Dilemma and its Solution”, *Philosophia Mathematica*, 13: 294–307.
+* Burgess, J., and Rosen, G., 1997, *A Subject With No Object: Strategies for Nominalistic Interpretation of Mathematics*, Oxford: Clarendon Press.
+* Cellucci, C., Grosholtz, E., and Ippoliti, E. (eds.), 2011, *Logic and Knowledge*, Newcastle: Cambridge Scholars Publishing.
+* Chihara, C.S., 1990, *Constructibility and Mathematical Existence*, Oxford: Clarendon Press.
+* Colyvan, M., 2001a, *The Indispensability of Mathematics*, New York: Oxford University Press.
+* –––, 2001b, “The Miracle of Applied Mathematics”, *Synthese*, 127: 265–277.
+* –––, 2010, “There's No Easy Road to Nominalism”, *Mind*, 119: 285–306.
+* da Costa, N., and French, S., 2003, *Science and Partial Truth*, New York: Oxford University Press.
+* Field, H., 1980, *Science without Numbers: A Defense of Nominalism*, Princeton, N.J.: Princeton University Press.
+* –––, 1984, “Is Mathematical Knowledge Just Logical Knowledge?”, *Philosophical Review*, 93: 509–552; reprinted with a postscript and some changes in Field 1989, pp. 79–124.
+* –––, 1989, *Realism, Mathematics and Modality*, Oxford: Basil Blackwell.
+* –––, 1991, “Metalogic and Modality”, *Philosophical Studies*, 62: 1–22.
+* –––, 1992, “A Nominalistic Proof of the Conservativeness of Set Theory”, *Journal of Philosophical Logic*, 21: 111–123.
+* Friedman, J., 2005, “Modal Platonism: An Easy Way to Avoid Ontological Commitment to Abstract Entities”, *Journal of Philosophical Logic*, 34: 227–273.
 * Gödel, K., 1944, “Russell's Mathematical Logic”, in Schilpp (ed.) 1944, pp. 125–153; reprinted in Benacerraf and Putnam (eds.) 1983, pp. 447–469.
-* –––, 1947, “What Is Cantor's Continuum Problem?”, _American Mathematical Monthly_, 54: 515–525; revised and expanded version in Benacerraf and Putnam (eds.) 1983, pp. 470–485.
-* Goodman, N., and Quine, W. V., 1947, “Steps Toward a Constructive Nominalism”, _Journal of Symbolic Logic_, 12: 105–122.
-* Hale, B., and Wright, C., 2001, _The Reason's Proper Study: Essays Towards a Neo-Fregean Philosophy of Mathematics_, Oxford: Clarendon Press.
-* Hellman, G., 1989, _Mathematics without Numbers: Towards a Modal-Structural Interpretation_, Oxford: Clarendon Press.
-* –––, 1996, “Structuralism without Structures”, _Philosophia Mathematica_, 4: 100–123.
-* Hilbert, D., 1971, _Foundations of Geometry_, La Salle: Open Court; English translation of the tenth German edition, published in 1968.
-* Leng, M., 2010, _Mathematics and Reality_, New York: Oxford University Press.
-* Lewis, D., 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* Malament, D., 1982, “Review of Field, _Science without Numbers_”, _Journal of Philosophy_, 79: 523–534.
-* Melia, J., 1995, “On What There's Not”, _Analysis_, 55: 223–229.
-* –––, 1998, “Field's Programme: Some Interference”, _Analysis_, 58: 63–71.
-* –––, 2000, “Weaseling Away the Indispensability Argument”, _Mind_, 109: 455–479.
-* Putnam, H., 1967, “Mathematics without Foundations”, _The Journal of Philosophy_, 64(1): 5–22; reprinted in Benacerraf and Hilary Putnam 1983: 295–312.
-* –––, 1971, _Philosophy of Logic_, New York: Harper and Row; reprinted in Putnam 1979, pp. 323–357.
-* –––, 1979, _Mathematics, Matter and Method_ (Philosophical Papers: Volume 1), second edition, Cambridge: Cambridge University Press.
-* Quine, W. V., 1960, _Word and Object_, Cambridge, Mass.: The MIT Press.
-* Resnik, M., 1997, _Mathematics as a Science of Patterns_, Oxford: Clarendon Press.
-* Schilpp, P.A. (ed.), 1944, _The Philosophy of Bertrand Russell_ (The Library of Living Philosophers), Chicago: Northwestern University.
-* Shapiro, S., 1997, _Philosophy of Mathematics: Structure and Ontology_, New York: Oxford University Press.
-* Simons, P., 2010, _Philosophy and Logic in Central Europe from Bolzano to Tarski_, Dordrecht: Kluwer.
-* van Fraassen, B.C., 1980, _The Scientific Image_, Oxford: Clarendon Press.
-* –––, 1991, _Quantum Mechanics: An Empiricist View_, Oxford: Clarendon Press.
-* von Neumann, J., 1932, _Mathematical Foundations of Quantum Mechanics_, English translation, Princeton: Princeton University Press, 1955.
-* Weyl, H., 1928, _Gruppentheorie un Quantenmechanik_, Leipzig: S. S. Hirzel; English translation, _The Theory of Groups and Quantum Mechanics_, H.P. Roberton (trans.), New York: Dover, 1931.
-* Yablo, S., 2001, “Go Figure: A Path through Fictionalism”, _Midwest Studies in Philosophy_, 25: 72–102.
+* –––, 1947, “What Is Cantor's Continuum Problem?”, *American Mathematical Monthly*, 54: 515–525; revised and expanded version in Benacerraf and Putnam (eds.) 1983, pp. 470–485.
+* Goodman, N., and Quine, W. V., 1947, “Steps Toward a Constructive Nominalism”, *Journal of Symbolic Logic*, 12: 105–122.
+* Hale, B., and Wright, C., 2001, *The Reason's Proper Study: Essays Towards a Neo-Fregean Philosophy of Mathematics*, Oxford: Clarendon Press.
+* Hellman, G., 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press.
+* –––, 1996, “Structuralism without Structures”, *Philosophia Mathematica*, 4: 100–123.
+* Hilbert, D., 1971, *Foundations of Geometry*, La Salle: Open Court; English translation of the tenth German edition, published in 1968.
+* Leng, M., 2010, *Mathematics and Reality*, New York: Oxford University Press.
+* Lewis, D., 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* Malament, D., 1982, “Review of Field, *Science without Numbers*”, *Journal of Philosophy*, 79: 523–534.
+* Melia, J., 1995, “On What There's Not”, *Analysis*, 55: 223–229.
+* –––, 1998, “Field's Programme: Some Interference”, *Analysis*, 58: 63–71.
+* –––, 2000, “Weaseling Away the Indispensability Argument”, *Mind*, 109: 455–479.
+* Putnam, H., 1967, “Mathematics without Foundations”, *The Journal of Philosophy*, 64(1): 5–22; reprinted in Benacerraf and Hilary Putnam 1983: 295–312.
+* –––, 1971, *Philosophy of Logic*, New York: Harper and Row; reprinted in Putnam 1979, pp. 323–357.
+* –––, 1979, *Mathematics, Matter and Method* (Philosophical Papers: Volume 1), second edition, Cambridge: Cambridge University Press.
+* Quine, W. V., 1960, *Word and Object*, Cambridge, Mass.: The MIT Press.
+* Resnik, M., 1997, *Mathematics as a Science of Patterns*, Oxford: Clarendon Press.
+* Schilpp, P.A. (ed.), 1944, *The Philosophy of Bertrand Russell* (The Library of Living Philosophers), Chicago: Northwestern University.
+* Shapiro, S., 1997, *Philosophy of Mathematics: Structure and Ontology*, New York: Oxford University Press.
+* Simons, P., 2010, *Philosophy and Logic in Central Europe from Bolzano to Tarski*, Dordrecht: Kluwer.
+* van Fraassen, B.C., 1980, *The Scientific Image*, Oxford: Clarendon Press.
+* –––, 1991, *Quantum Mechanics: An Empiricist View*, Oxford: Clarendon Press.
+* von Neumann, J., 1932, *Mathematical Foundations of Quantum Mechanics*, English translation, Princeton: Princeton University Press, 1955.
+* Weyl, H., 1928, *Gruppentheorie un Quantenmechanik*, Leipzig: S. S. Hirzel; English translation, *The Theory of Groups and Quantum Mechanics*, H.P. Roberton (trans.), New York: Dover, 1931.
+* Yablo, S., 2001, “Go Figure: A Path through Fictionalism”, *Midwest Studies in Philosophy*, 25: 72–102.
 
 ## Academic Tools
 
@@ -536,4 +534,4 @@ Colyvan 为相反的观点辩护（Colyvan 2001b），坚持认为数学应用�
 My thanks go to two anonymous referees for their helpful comments on earlier versions of this entry. Their suggestions led to significant improvements. My thanks are also due to Jody Azzouni, Uri Nodelman, and Ed Zalta for all of their comments and help.
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
-[Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio\Bueno.html) <[_otaviobueno@mac.com_](mailto:otaviobueno%40mac%2ecom)>
+[Otávio Bueno](http://www.as.miami.edu/personal/obueno/Site/Otavio\Bueno.html) <[*otaviobueno@mac.com*](mailto:otaviobueno%40mac%2ecom)>

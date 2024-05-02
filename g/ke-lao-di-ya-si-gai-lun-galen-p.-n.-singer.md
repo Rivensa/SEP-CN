@@ -1,13 +1,12 @@
 # 克劳迪亚斯·盖伦 Galen (P. N. Singer)
 
-_首次发表于 2016 年 3 月 18 日；实质性修订于 2021 年 12 月 3 日_
+*首次发表于 2016 年 3 月 18 日；实质性修订于 2021 年 12 月 3 日*
 
 盖伦（Galēnos，公元 129 年至约公元 200 年）主要是一位医学作家，但他对当时的哲学辩论有着深刻的参与和影响。他写了许多逻辑和伦理学的著作，还在他的医学科学著作中讨论了其他哲学领域，尤其是认识论、自然界的因果关系和心灵哲学。他的医学著作，有时也涉及哲学，对中世纪甚至更晚的时期，包括欧洲和（通过阿拉伯-伊斯兰传播）其他地区都产生了巨大的影响。自科学革命以来，他一直被知识界，包括哲学家们所忽视，但近年来，他的科学知识、逻辑贡献以及对伦理学、道德心理学和心灵-身体关系的讨论引起了相当多的学术关注。
 
 盖伦是西方古代最多产的知识分子之一，他的著作涉及 21 卷，每卷大约 1000 页，以标准希腊文版本计算（还有一些专业哲学著作仅存阿拉伯文、叙利亚文、希伯来文或拉丁文翻译），总字数超过 400 万字。尽管他的大部分科学和医学著作幸存，但他的许多专业哲学著作却未能保存下来。他是一位极具对抗性的作者，在公元 2 世纪罗马高度修辞和学术竞争的知识文化中积极参与（所谓的“第二雄辩”）；他极易离题。他经常通过对抗对手的辩论和对他的知识英雄，尤其是柏拉图和希波克拉底的文本解释和评论来表达自己的观点。尽管他对希腊哲学传统和“经典”哲学文本有着深刻的了解，使用哲学术语和论证方式，但他并不将自己定义为哲学家，经常表达对哲学“学派”从业者的敌意。
 
 对“盖伦哲学家”研究的上述简要介绍也可以作为任何此类研究所面临的特殊挑战的初步警示：庞大的文本体系，其中许多文本结构松散，并且未经现代学术界审查；多种文体（大部分并非主要哲学文体）、辩证语境和修辞论证，这些都是我们必须从中重建他的哲学观点的；他对哲学术语的折衷和非语境化使用以达到自己的目的；以及他在哲学专著中的某些特定损失。
- 
 
 ***
 
@@ -63,7 +62,7 @@ _首次发表于 2016 年 3 月 18 日；实质性修订于 2021 年 12 月 3 �
 
 在作品的后期段落（VIII.1, 484–6）中，总结其核心论点时，这一论证以以下三段论的形式表述：
 
-> where the source of the nerves is, there is the _hēgemonikon_ but the source of the nerves is in the brain the _hēgemonikon_, then, is in the brain.
+> where the source of the nerves is, there is the *hēgemonikon* but the source of the nerves is in the brain the *hēgemonikon*, then, is in the brain.
 
 这种表述不仅表明盖伦致力于演绎-三段论的表达方法，而且还涉及由此产生的一些问题。首先，如果我们根据上述概念特征来考虑这个三段论，我们会期待第一个前提是或者源自于理性明显的命题；也就是说，这个前提应该是不言自明的，或者直接由所接受的 hēgemonikon 的本质或定义得出。然后，第二个前提提供了一些经验观察的结果——某种对感知的明显事物。结论将不可避免地由这两者的结合得出。但是这里的第一个前提能否被视为定义性的或者按所需的意义来说是分析性的呢？神经显然不是 hēgemonikon 的被接受定义或共同概念的一部分，或者至少只有在经过相当长的论证之后才能成为这样，这个论证本身涉及经验输入和各种形式的推理（例如从似然性和类比）。反过来，也不能说这个陈述对感官是明显的：那将把一个经验信息的陈述与从我们的基本概念之一（hēgemonikon 的本质）以抽象方式得出的陈述混为一谈，也将侵犯这个三段论中第二个前提的领域，因为这个前提包含了动物解剖和生理观察的结果。
 
@@ -139,7 +138,7 @@ _首次发表于 2016 年 3 月 18 日；实质性修订于 2021 年 12 月 3 �
 
 专家们发现盖伦在逻辑学上的理论贡献不仅在解释上存在问题（尽管参见 Bobzien 2004），而且在其自身的清晰和一致性阐述以及系统地提供现有传统所缺失的内容方面都存在挫折。似乎清楚的是，盖伦在这一领域做出了独特而在某些方面有影响力和具有挑战性的贡献，以一种独创的方式回应了亚里士多德和斯多噶派的逻辑传统；即使在最抽象的逻辑分析领域，他仍然关注逻辑的实际价值及其与事物的相关性。
 
-## 从强烈的亚里士多德观点出发，盖伦坚持在自然界的描述中确定目的性原因的重要性，尤其是涉及动物和人类的描述；在他对物质因果关系的阐述中，他似乎也深受亚里士多德的影响，特别是四质或四元素理论，这一理论在他对自然界变化，尤其是生物界变化的描述中起着核心作用。这两种类型的因果解释贯穿盖伦的著作，它们在不同的背景下得到不同的表述；在下面的 5.2 节中，我们将更详细地考虑它们以及它们彼此之间和其他因果方案的关系性质。首先，我们将考虑盖伦对因果方案和因果术语的明确讨论。
+## 从强烈的亚里士多德观点出发，盖伦坚持在自然界的描述中确定目的性原因的重要性，尤其是涉及动物和人类的描述；在他对物质因果关系的阐述中，他似乎也深受亚里士多德的影响，特别是四质或四元素理论，这一理论在他对自然界变化，尤其是生物界变化的描述中起着核心作用。这两种类型的因果解释贯穿盖伦的著作，它们在不同的背景下得到不同的表述；在下面的 5.2 节中，我们将更详细地考虑它们以及它们彼此之间和其他因果方案的关系性质。首先，我们将考虑盖伦对因果方案和因果术语的明确讨论
 
 5.1 明确的因果分类
 
@@ -287,10 +286,10 @@ It seems that material causation is adequate in some areas, while design-based c
 
 * (a)“亚里士多德说灵魂是身体的形式……他必须假定这些品质的混合\[即物质的品质]是形式，这样看来灵魂的实质……将成为某种混合……”（《医学论》3, 380–1）；
 * (b)“……如果灵魂的推理形式是可死的，那么它也将是一种特定的混合，即大脑的混合”（同上）；
-* (c)“… it is better to state … that the mortal part of the soul actually _is_ precisely this: the mixture of the body” (_QAM_ 4, 386);
+* (c)“… it is better to state … that the mortal part of the soul actually *is* precisely this: the mixture of the body” (*QAM* 4, 386);
 * (d)“Andronicus … says that \[the soul] is either a mixture or a capacity dependent on the mixture; I disapprove of the addition of ‘capacity’ … it is not possible to say anything other than the mixture …” (ibid.).
 
-On this basis, some have taken this assertion of the identity of soul and mixture as representing Galen’s final position, or at least that which he finds most plausible (see most recently Marechal 2019; Vinkesteijn 2019). A consideration of all the relevant evidence seems to lead to a less clear-cut picture. Interpretation of _QAM_ must take into account the polemical nature and structure of the text, which is aimed at refuting the extreme denial of bodily influence by certain “self-styled Platonists”, and in that context proceeds by giving as strong a statement as possible of the physicalist aspect of the theories found in a range of medical and philosophical authorites (Hippocrates, Plato, Aristotle, the Stoics; see Lloyd 1988). More specifically, what look like the clearest identity statements ((a) and (d) above) come in dialectical contexts; it is at least arguable that Galen is here asserting the identity position not as his own but as the correct _Aristotelian_ conclusion, on the basis of their equation of soul with form (Singer 2013, Ch. 4). (It should also be mentioned that the passages in question are not free from textual and interpretive problems.) Passages (b) and (c), meanwhile, clearly affirm the identity of the _mortal_ parts of the soul with bodily mixtures. That, then, would be a definitive conclusion about the non-rational parts; but, within this same text, even after statement (d), Galen leaves open the Platonic possibility that the (rational) soul is a non-bodily substance. As we have seen ([§3.4](https://plato.stanford.edu/entries/galen/#LimiPurpKnow)), such indeterminacy is consistent with his explicit statements of ignorance—including in texts probably later than _QAM_—on this very question, the “substance of the soul”. (Those other statements do not in fact specify that it is only the _rational_ soul that is at issue; but, as we have seen, Galen may, somewhat confusingly, use “_psuchē_” with that narrower reference.) Other relevant evidence is the lack of clarity, in the medical texts mentioned above, as to the causal relation between mental events and physical correlates; and that some kind of interactionist picture seems implied by statements about the mutually beneficial relationship of soul and body and of their respective training (especially in _San. Tu._ , e.g., I.8, 19–21). An important contribution to the discussion is Havrda 2017, arguing, on the basis of a wide range of texts, that for Galen mixture provides a sufficient causal account of all but a distinct range of goal-directed functions.
+On this basis, some have taken this assertion of the identity of soul and mixture as representing Galen’s final position, or at least that which he finds most plausible (see most recently Marechal 2019; Vinkesteijn 2019). A consideration of all the relevant evidence seems to lead to a less clear-cut picture. Interpretation of *QAM* must take into account the polemical nature and structure of the text, which is aimed at refuting the extreme denial of bodily influence by certain “self-styled Platonists”, and in that context proceeds by giving as strong a statement as possible of the physicalist aspect of the theories found in a range of medical and philosophical authorites (Hippocrates, Plato, Aristotle, the Stoics; see Lloyd 1988). More specifically, what look like the clearest identity statements ((a) and (d) above) come in dialectical contexts; it is at least arguable that Galen is here asserting the identity position not as his own but as the correct *Aristotelian* conclusion, on the basis of their equation of soul with form (Singer 2013, Ch. 4). (It should also be mentioned that the passages in question are not free from textual and interpretive problems.) Passages (b) and (c), meanwhile, clearly affirm the identity of the *mortal* parts of the soul with bodily mixtures. That, then, would be a definitive conclusion about the non-rational parts; but, within this same text, even after statement (d), Galen leaves open the Platonic possibility that the (rational) soul is a non-bodily substance. As we have seen ([§3.4](https://plato.stanford.edu/entries/galen/#LimiPurpKnow)), such indeterminacy is consistent with his explicit statements of ignorance—including in texts probably later than *QAM*—on this very question, the “substance of the soul”. (Those other statements do not in fact specify that it is only the *rational* soul that is at issue; but, as we have seen, Galen may, somewhat confusingly, use “*psuchē*” with that narrower reference.) Other relevant evidence is the lack of clarity, in the medical texts mentioned above, as to the causal relation between mental events and physical correlates; and that some kind of interactionist picture seems implied by statements about the mutually beneficial relationship of soul and body and of their respective training (especially in *San. Tu.* , e.g., I.8, 19–21). An important contribution to the discussion is Havrda 2017, arguing, on the basis of a wide range of texts, that for Galen mixture provides a sufficient causal account of all but a distinct range of goal-directed functions.
 
 QAM 还包含了一个关于物理决定论与道德责任问题的引人注目的论述：当品质不是“来自他自己”而是来自身体混合时，人们如何能够适当地赞扬或责备某人？（QAM 11, 405）。这种在历史上独特的表述似乎依赖于一种明确而不妥协的唯物主义观点；然而，以这种形式陈述的论断在盖伦文集中是独一无二的。
 
@@ -347,198 +346,198 @@ QAM 还包含了一个关于物理决定论与道德责任问题的引人注目�
 Page numbers given in references in the article are those of the translation or, in the absence of translation, of the Greek edition, cited here.
 
 \[**CMG**]\
-_Corpus Medicorum Graecorum_, various editors, Leipzig: Teubner, and Berlin: Akademie Verlag, 1914– ; [CMG available online](http://cmg.bbaw.de/epubl/online/editionen.html).
+*Corpus Medicorum Graecorum*, various editors, Leipzig: Teubner, and Berlin: Akademie Verlag, 1914– ; [CMG available online](http://cmg.bbaw.de/epubl/online/editionen.html).
 
 \[**Kühn**]\
-_C. Galeni Opera Omnia_, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien\&statut=charge\&fille=o\&cotemere=45674).
+*C. Galeni Opera Omnia*, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien\&statut=charge\&fille=o\&cotemere=45674).
 
 \[**SM**]\
-_C. Galeni Pergameni Scripta Minora_, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html).
+*C. Galeni Pergameni Scripta Minora*, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html).
 
 **A.1.2 Collections of Translations**
 
-* Singer, P.N., 1997a, _Galen: Selected Works_, Oxford: Oxford University Press.
-* Singer, P.N. (ed.), 2013, _Galen: Psychological Writings_, Cambridge: Cambridge University Press.
-* Walzer, R. and M. Frede, 1985, _Galen: Three Treatises on the Nature of Science_, Indianapolis: Hackett.
+* Singer, P.N., 1997a, *Galen: Selected Works*, Oxford: Oxford University Press.
+* Singer, P.N. (ed.), 2013, *Galen: Psychological Writings*, Cambridge: Cambridge University Press.
+* Walzer, R. and M. Frede, 1985, *Galen: Three Treatises on the Nature of Science*, Indianapolis: Hackett.
 
 N.B. In several cases, noted below, translations also appear alongside the Greek text in the CMG edition.
 
 #### A.2 Texts by Galen
 
-\[_**Aff. Pecc. Dig.**_]\
-_Affections and Errors of the Soul_ (_De propriorum animi cuiuslibet affectuum et peccatorum dignotione et curatione_), ed. W. de Boer, CMG V 4.1.1, 1937; English trans. in Singer 1997a and 2013.
+\[***Aff. Pecc. Dig.***]\
+*Affections and Errors of the Soul* (*De propriorum animi cuiuslibet affectuum et peccatorum dignotione et curatione*), ed. W. de Boer, CMG V 4.1.1, 1937; English trans. in Singer 1997a and 2013.
 
-\[_**CC**_]\
-_Containing Causes_ (_De causis contentivis_), ed. and English trans. M. Lyons, K. Kalbfleisch, J. Kollesch, D. Nickel, and G. Strohmaier, CMG, Supplementum Orientale II, 1969.
+\[***CC***]\
+*Containing Causes* (*De causis contentivis*), ed. and English trans. M. Lyons, K. Kalbfleisch, J. Kollesch, D. Nickel, and G. Strohmaier, CMG, Supplementum Orientale II, 1969.
 
-\[_**CP**_]\
-_Antecedent Causes_ (_De causis procatarcticis_), ed. and English trans. R.J. Hankinson, _Galen on Antecedent Causes_, Cambridge: Cambridge University Press, 1998.
+\[***CP***]\
+*Antecedent Causes* (*De causis procatarcticis*), ed. and English trans. R.J. Hankinson, *Galen on Antecedent Causes*, Cambridge: Cambridge University Press, 1998.
 
-\[_**Di. Dec.**_]\
-_Critical Days_ (_De diebus decretoriis_), ed. and English trans. G. M. Cooper, _Galen, De diebus decretoriis, from Greek into Arabic_, Ashgate, 2011.
+\[***Di. Dec.***]\
+*Critical Days* (*De diebus decretoriis*), ed. and English trans. G. M. Cooper, *Galen, De diebus decretoriis, from Greek into Arabic*, Ashgate, 2011.
 
-\[_**Dig. Puls.**_]\
-_The Distinction between Pulses_ (_De dignoscendis pulsibus_), ed. Kühn VIII, pp. 766–961.
+\[***Dig. Puls.***]\
+*The Distinction between Pulses* (*De dignoscendis pulsibus*), ed. Kühn VIII, pp. 766–961.
 
-\[_**Foet. Form.**_]\
-_The Shaping of the Embryo_ (_De foetuum formatione_), ed. and German trans. D. Nickel, CMG V 3.3, 2001; English trans. in Singer 1997a.
+\[***Foet. Form.***]\
+*The Shaping of the Embryo* (*De foetuum formatione*), ed. and German trans. D. Nickel, CMG V 3.3, 2001; English trans. in Singer 1997a.
 
-\[_**Hipp. Elem.**_]\
-_Elements According to Hippocrates_ (_De elementis ex Hippocrate_), ed. and English trans. P. de Lacy, CMG V 1.2, 1996.
+\[***Hipp. Elem.***]\
+*Elements According to Hippocrates* (*De elementis ex Hippocrate*), ed. and English trans. P. de Lacy, CMG V 1.2, 1996.
 
-\[_**HNH**_]\
-_Commentary on Hippocrates’ “Nature of the Human Being”_ (_In Hippocratis De natura hominis_), ed. J. Mewaldt, CMG V 9.1, 1914.
+\[***HNH***]\
+*Commentary on Hippocrates’ “Nature of the Human Being”* (*In Hippocratis De natura hominis*), ed. J. Mewaldt, CMG V 9.1, 1914.
 
-\[_**Ind.**_]\
-_Avoiding Distress_ (_De indolentia_), ed. and French trans. V. Boudon-Millot and J. Jouanna, with A. Pietrobelli, _Galien: Oeuvres_, IV, Paris: Les Belles Lettres, 2010; English trans. by V. Nutton in Singer 2013.
+\[***Ind.***]\
+*Avoiding Distress* (*De indolentia*), ed. and French trans. V. Boudon-Millot and J. Jouanna, with A. Pietrobelli, *Galien: Oeuvres*, IV, Paris: Les Belles Lettres, 2010; English trans. by V. Nutton in Singer 2013.
 
-\[_**Inst. Log.**_]\
-_Introduction to Logic_ (_Institutio logica_), ed. K. Kalbfleisch, Leipzig: Teubner, 1896, [Inst. Log. available online](http://cmg.bbaw.de/epubl/online/wa\galen\inst\log.php); English trans. J. S. Kieffer, _Galen’s Institutio Logica_, Baltimore, 1964.
+\[***Inst. Log.***]\
+*Introduction to Logic* (*Institutio logica*), ed. K. Kalbfleisch, Leipzig: Teubner, 1896, [Inst. Log. available online](http://cmg.bbaw.de/epubl/online/wa\galen\inst\log.php); English trans. J. S. Kieffer, *Galen’s Institutio Logica*, Baltimore, 1964.
 
-\[_**Lib. Prop.**_]\
-_My Own Books_ (_De libris propriis_, ed. and French trans. V. Boudon-Millot in _Galien: Oeuvres_, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
+\[***Lib. Prop.***]\
+*My Own Books* (*De libris propriis*, ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
 
-\[_**MM**_]\
-_The Method of Healing_ (_De methodo medendi_), ed. Kühn X, pp. 1–1021; English trans. I. Johnston and G.H.R. Horsley, 3 vols., Loeb Classical Library, 2011.
+\[***MM***]\
+*The Method of Healing* (*De methodo medendi*), ed. Kühn X, pp. 1–1021; English trans. I. Johnston and G.H.R. Horsley, 3 vols., Loeb Classical Library, 2011.
 
-\[_**Mor.**_]\
-_Character Traits_ (_De moribus_), Arabic text ed. P. Kraus, “Kitāb al-Akhlāq li-Jālīnus”, _Bulletin of the Faculty of Arts of the Egyptian University_, 5.1 (1937): 1–51; English trans. by D. Davies in Singer 2013.
+\[***Mor.***]\
+*Character Traits* (*De moribus*), Arabic text ed. P. Kraus, “Kitāb al-Akhlāq li-Jālīnus”, *Bulletin of the Faculty of Arts of the Egyptian University*, 5.1 (1937): 1–51; English trans. by D. Davies in Singer 2013.
 
-\[_**Mot. Musc.**_]\
-_The Motion of Muscles_ (_De motu musculorum_), ed. and Italian trans. P. Rosa, Pisa and Rome: Fabrizio Serra, 2009.
+\[***Mot. Musc.***]\
+*The Motion of Muscles* (*De motu musculorum*), ed. and Italian trans. P. Rosa, Pisa and Rome: Fabrizio Serra, 2009.
 
-\[_**Nat. Fac.**_]\
-_Natural Capacities_ (_De naturalibus facultatibus_), ed. G. Helmreich, SM III, 1893; English trans. A.J. Brock, Loeb Classical Library, 1916.
+\[***Nat. Fac.***]\
+*Natural Capacities* (*De naturalibus facultatibus*), ed. G. Helmreich, SM III, 1893; English trans. A.J. Brock, Loeb Classical Library, 1916.
 
-\[_**Opt. Doc.**_]\
-_The Best Teaching_ (_De optima doctrina_), ed. and Italian trans. A. Barigazzi, CMG V 1.1, 1991.
+\[***Opt. Doc.***]\
+*The Best Teaching* (*De optima doctrina*), ed. and Italian trans. A. Barigazzi, CMG V 1.1, 1991.
 
-\[_**Opt. Med.**_]\
-_The Best Doctor is Also a Philosopher_ (_Quod optimus medicus sit quoque philosophus_), ed. and French trans. V. Boudon-Millot in _Galien: Oeuvres_, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
+\[***Opt. Med.***]\
+*The Best Doctor is Also a Philosopher* (*Quod optimus medicus sit quoque philosophus*), ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
 
-\[_**Ord. Lib. Prop.**_]\
-_The Order of My Own Books_ (_De ordine librorum propriorum_), ed. and French trans. V. Boudon-Millot in _Galien: Oeuvres_, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
+\[***Ord. Lib. Prop.***]\
+*The Order of My Own Books* (*De ordine librorum propriorum*), ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
 
-\[_**PHP**_]\
-_The Doctrines of Hippocrates and Plato_ (_De placitis Hippocratis et Platonis_, ed. and English trans. P. de Lacy, CMG V 4.1.2, 1978–84, 2nd edn. 2005.
+\[***PHP***]\
+*The Doctrines of Hippocrates and Plato* (*De placitis Hippocratis et Platonis*, ed. and English trans. P. de Lacy, CMG V 4.1.2, 1978–84, 2nd edn. 2005.
 
-\[_**Praen.**_]\
-_Prognosis_ (_De praenotione ad Epigenem_), ed. and English trans. V. Nutton, CMG V 8.1, 1979.
+\[***Praen.***]\
+*Prognosis* (*De praenotione ad Epigenem*), ed. and English trans. V. Nutton, CMG V 8.1, 1979.
 
-\[_**Praes. Puls.**_]\
-_Prognosis by the Pulse_ (_De praesagitione ex pulsibus_), ed. Kühn IX, pp. 205–430.
+\[***Praes. Puls.***]\
+*Prognosis by the Pulse* (*De praesagitione ex pulsibus*), ed. Kühn IX, pp. 205–430.
 
-\[_**Prop. Plac.**_]\
-_My Own Doctrines_ (_De propriis placitis_), ed. and English trans. V. Nutton, CMG V 3.2, 1999 (ed. and French trans. of fuller Greek text V. Boudon-Millot and A. Pietrobelli, “Galien Ressuscité: Édition Princeps du Texte Grec du De Propriis Placitis”, _Revue des Études Grecques_, 118 (2005): 168–213).
+\[***Prop. Plac.***]\
+*My Own Doctrines* (*De propriis placitis*), ed. and English trans. V. Nutton, CMG V 3.2, 1999 (ed. and French trans. of fuller Greek text V. Boudon-Millot and A. Pietrobelli, “Galien Ressuscité: Édition Princeps du Texte Grec du De Propriis Placitis”, *Revue des Études Grecques*, 118 (2005): 168–213).
 
-\[_**QAM**_]\
-_The Capacities of the Soul Depend on the Mixture of the Body_ (_Quod animi mores corporis temperamenta sequantur_), ed. I. Müller, SM II, 1891; English trans. in Singer 1997a and 2013.
+\[***QAM***]\
+*The Capacities of the Soul Depend on the Mixture of the Body* (*Quod animi mores corporis temperamenta sequantur*), ed. I. Müller, SM II, 1891; English trans. in Singer 1997a and 2013.
 
-\[_**San. Tu.**_]\
-_Matters of Health_ (_De sanitate tuenda_), ed. K. Koch, CMG V 4.2, 1923.
+\[***San. Tu.***]\
+*Matters of Health* (*De sanitate tuenda*), ed. K. Koch, CMG V 4.2, 1923.
 
-\[_**Sem.**_]\
-_Semen_ (_De semine_), ed. and English trans. P. de Lacy, CMG V 3.1, 1992.
+\[***Sem.***]\
+*Semen* (*De semine*), ed. and English trans. P. de Lacy, CMG V 3.1, 1992.
 
-\[_**SI**_]\
-_Sects for Beginners_ (_De sectis ad eos qui introducuntur_), ed. G. Helmreich, SM III, 1893; translation in Walzer and Frede 1985.
+\[***SI***]\
+*Sects for Beginners* (*De sectis ad eos qui introducuntur*), ed. G. Helmreich, SM III, 1893; translation in Walzer and Frede 1985.
 
-\[_**SMT**_]\
-_The Powers of Simple Drugs_ (_De simplicium medicamentorum temperamentis ac facultatibus_), ed. Kühn XI, pp. 379–892 and XII, pp. 1–377.
+\[***SMT***]\
+*The Powers of Simple Drugs* (*De simplicium medicamentorum temperamentis ac facultatibus*), ed. Kühn XI, pp. 379–892 and XII, pp. 1–377.
 
-\[_**Symp. Caus.**_]
+\[***Symp. Caus.***]
 
-_The Causes of Symptoms_, ed. Kühn VII, pp. 85–272.
+*The Causes of Symptoms*, ed. Kühn VII, pp. 85–272.
 
-\[_**Temp.**_]\
-_Mixtures_ (_De temperamentis_), ed. G. Helmreich, Teubner, 1904, \[[_Temp._ available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
+\[***Temp.***]\
+*Mixtures* (*De temperamentis*), ed. G. Helmreich, Teubner, 1904, \[[*Temp.* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
 
-\[_**UP**_]\
-_The Function of the Parts of the Body_ (_De usu partium_), ed. G. Helmreich, Teubner, 1907–9, \[[_UP_ available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html)]; English trans. M.T. May, _Galen on the Usefulness of the Parts of the Body_, Ithaca, N.Y.: Cornell University Press, 1968.
+\[***UP***]\
+*The Function of the Parts of the Body* (*De usu partium*), ed. G. Helmreich, Teubner, 1907–9, \[[*UP* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben\galen.html)]; English trans. M.T. May, *Galen on the Usefulness of the Parts of the Body*, Ithaca, N.Y.: Cornell University Press, 1968.
 
 ### B. Secondary literature
 
-* Adamson, P., R. Hansberger, and J. Wilberding (eds.), 2014, _Philosophical Themes in Galen_, London: Institute of Classical Studies.
-* Allen, J., 2001, _Inference from Signs: Ancient Debates about the Nature of Evidence_, Oxford: Clarendon Press.
-* Barnes, J., 1991, “Galen on Logic and Therapy”, in _Galen’s Method of Healing_, R.J. Durling and F. Kudlien (eds.), Leiden: Brill, pp. 50–102.
-* Barton, T.S., 1994, _Power and Knowledge: Astrology, Physiognomics, and Medicine under the Roman Empire_, Ann Arbor: University of Michigan Press.
-* Bobzien, S., 2004, “Peripatetic Hypothetical Syllogistic in Galen”, _Rhizai_, 2: 57–102.
-* Boudon-Millot, V., 2012, _Galien de Pergame: un médecin grec à Rome_, Paris: Les Belles Lettres.
-* Chiaradonna, R., 2013, “Universals in Ancient Medicine”, in _Universals in Ancient Philosophy_, G. Galluzzo and R. Chiaradonna (eds.), Pisa: Edizioni della Normale, pp. 381–423.
-* Devinant, J., 2018, “Mental Disorders and Psychological Suffering in Galen’s Cases”, in _Mental Illness in Ancient Medicine: from Celsus to Paul of Aegina_, C. Thumiger and P. N. Singer (eds.), Leiden: Brill, pp. 198–221.
-* –––, 2020, _Les Troubles psychiques selon Galien: étude d’un système de pensée_, Paris: Les Belles Lettres.
-* Donini, P.L., 1980, “Motivi filosofici in Galeno”, _Parola del passato_, 35(94): 333–70.
-* –––, 1992, “Galeno e la filosofia”, in _A\*\*ufstieg und Niedergang der römsichen Welt_, vol.II.36.5, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 3484–3504.
+* Adamson, P., R. Hansberger, and J. Wilberding (eds.), 2014, *Philosophical Themes in Galen*, London: Institute of Classical Studies.
+* Allen, J., 2001, *Inference from Signs: Ancient Debates about the Nature of Evidence*, Oxford: Clarendon Press.
+* Barnes, J., 1991, “Galen on Logic and Therapy”, in *Galen’s Method of Healing*, R.J. Durling and F. Kudlien (eds.), Leiden: Brill, pp. 50–102.
+* Barton, T.S., 1994, *Power and Knowledge: Astrology, Physiognomics, and Medicine under the Roman Empire*, Ann Arbor: University of Michigan Press.
+* Bobzien, S., 2004, “Peripatetic Hypothetical Syllogistic in Galen”, *Rhizai*, 2: 57–102.
+* Boudon-Millot, V., 2012, *Galien de Pergame: un médecin grec à Rome*, Paris: Les Belles Lettres.
+* Chiaradonna, R., 2013, “Universals in Ancient Medicine”, in *Universals in Ancient Philosophy*, G. Galluzzo and R. Chiaradonna (eds.), Pisa: Edizioni della Normale, pp. 381–423.
+* Devinant, J., 2018, “Mental Disorders and Psychological Suffering in Galen’s Cases”, in *Mental Illness in Ancient Medicine: from Celsus to Paul of Aegina*, C. Thumiger and P. N. Singer (eds.), Leiden: Brill, pp. 198–221.
+* –––, 2020, *Les Troubles psychiques selon Galien: étude d’un système de pensée*, Paris: Les Belles Lettres.
+* Donini, P.L., 1980, “Motivi filosofici in Galeno”, *Parola del passato*, 35(94): 333–70.
+* –––, 1992, “Galeno e la filosofia”, in *A\*\*ufstieg und Niedergang der römsichen Welt*, vol.II.36.5, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 3484–3504.
 * –––, 2008, “Psychology”, in Hankinson 2008b: 184–209.
-* Frede, M., 2003, “Galen’s Theology”, in _Galien et la philosophie_, J. Barnes and J. Jouanna (eds.), Geneva: Fondation Hardt, pp. 73–126.
-* Gill, C., 2010, _Naturalistic Psychology in Galen and Stoicism_, Oxford: Oxford University Press.
-* Gill, C., T. Whitmarsh, and J. Wilkins (eds.), 2009, _Galen and the World of Knowledge_, Cambridge: Cambridge University Press.
+* Frede, M., 2003, “Galen’s Theology”, in *Galien et la philosophie*, J. Barnes and J. Jouanna (eds.), Geneva: Fondation Hardt, pp. 73–126.
+* Gill, C., 2010, *Naturalistic Psychology in Galen and Stoicism*, Oxford: Oxford University Press.
+* Gill, C., T. Whitmarsh, and J. Wilkins (eds.), 2009, *Galen and the World of Knowledge*, Cambridge: Cambridge University Press.
 * Gleason, M., 2009, “Shock and Awe: The Performance Dimension of Galen’s Anatomy Demonstrations”, in Gill et al. 2009, pp. 85–114.
-* Grmek, M. and D. Gourevitch, 1994, “Aux sources de la doctrine médicale de Galien: l’enseignement de Marinus, Quintus, et Numisianus”, in _A\*\*ufstieg und Niedergang der römsichen Welt_, vol.II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp.1491–1528.
-* Hankinson, R.J., 1991a, _Galen On the Therapeutic Method_, books I and II, Oxford: Clarendon Press.
-* –––, 1991b, “Galen’s Anatomy of the Soul”, _Phronesis_, 36: 197–233.
-* –––, 1992, “Galen’s Philosophical Eclecticism”, in _A\*\*ufstieg und Niedergang der römsichen Welt_, vol.II.36.5, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 3505–22.
-* –––, 1993, “Actions and Passions: Affection, Emotion, and Moral Self-Management in Galen’s Psychological Philosophy”, in _Passions and Perceptions: Studies in the Hellenistic Philosophy of Mind_, J. Brunschwig and M. C. Nussbaum (eds.), Cambridge: Cambridge University Press, pp. 184–222.
-* –––, 1994a, “Galen’s Concept of Scientific Progress”, in _Aufstieg und Niedergang der römsichen Welt_, vol.II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 1775–89.
-* –––, 1994b, “Galen’s Theory of Causation”, in _Aufstieg und Niedergang der römsichen Welt_, vol. II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 1757–74.
-* –––, 1998, _Cause and Explanation in Ancient Greek Thought_, Oxford: Clarendon Press.
+* Grmek, M. and D. Gourevitch, 1994, “Aux sources de la doctrine médicale de Galien: l’enseignement de Marinus, Quintus, et Numisianus”, in *A\*\*ufstieg und Niedergang der römsichen Welt*, vol.II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp.1491–1528.
+* Hankinson, R.J., 1991a, *Galen On the Therapeutic Method*, books I and II, Oxford: Clarendon Press.
+* –––, 1991b, “Galen’s Anatomy of the Soul”, *Phronesis*, 36: 197–233.
+* –––, 1992, “Galen’s Philosophical Eclecticism”, in *A\*\*ufstieg und Niedergang der römsichen Welt*, vol.II.36.5, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 3505–22.
+* –––, 1993, “Actions and Passions: Affection, Emotion, and Moral Self-Management in Galen’s Psychological Philosophy”, in *Passions and Perceptions: Studies in the Hellenistic Philosophy of Mind*, J. Brunschwig and M. C. Nussbaum (eds.), Cambridge: Cambridge University Press, pp. 184–222.
+* –––, 1994a, “Galen’s Concept of Scientific Progress”, in *Aufstieg und Niedergang der römsichen Welt*, vol.II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 1775–89.
+* –––, 1994b, “Galen’s Theory of Causation”, in *Aufstieg und Niedergang der römsichen Welt*, vol. II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 1757–74.
+* –––, 1998, *Cause and Explanation in Ancient Greek Thought*, Oxford: Clarendon Press.
 * –––, 2008a, “Epistemology”, in Hankinson 2008b, pp. 157–83.
-* ––– (ed.), 2008b, _The Cambridge Companion to Galen_, Cambridge: Cambridge University Press.
-* –––, 2014, “Galen and the Ontology of Powers”, _British Journal for the History of Philosophy_, 22(5): 951–73.
-* –––, 2017, “Substance, Element, Quality, Mixture: Galen’s Physics and his Hippocratic Inheritance”, _Aitia: Regards sur la culture hellénistique au XXIe siècle_, 7(2) (_Études sur le De elementis de Galien_), https://doi.org/10.4000/aitia.1863
+* ––– (ed.), 2008b, *The Cambridge Companion to Galen*, Cambridge: Cambridge University Press.
+* –––, 2014, “Galen and the Ontology of Powers”, *British Journal for the History of Philosophy*, 22(5): 951–73.
+* –––, 2017, “Substance, Element, Quality, Mixture: Galen’s Physics and his Hippocratic Inheritance”, *Aitia: Regards sur la culture hellénistique au XXIe siècle*, 7(2) (*Études sur le De elementis de Galien*), https://doi.org/10.4000/aitia.1863
 * –––, 2021, “Discovery, Method, and Justification: Galen and the Determination of Therapy”, in Hankinson and Havrda 2021, pp. 79–115.
-* Hankinson, R. J. and M. Havrda (eds.), 2021, _Galen’s Epistemology: Experience, Reason, and Method in Ancient Medicine_, Cambridge: Cambridge University Press.
-* Havrda, M., 2015, “The Purpose of Galen’s Treatise _On Demonstration_”, _Early Science and Medicine_, 20: 265–87.
-* –––, 2017, “Body and Cosmos in Galen’s Account of the Soul”, _Phronesis_, 62: 69–89.
+* Hankinson, R. J. and M. Havrda (eds.), 2021, *Galen’s Epistemology: Experience, Reason, and Method in Ancient Medicine*, Cambridge: Cambridge University Press.
+* Havrda, M., 2015, “The Purpose of Galen’s Treatise *On Demonstration*”, *Early Science and Medicine*, 20: 265–87.
+* –––, 2017, “Body and Cosmos in Galen’s Account of the Soul”, *Phronesis*, 62: 69–89.
 * –––, 2021, “From Problems to Demonstrations: Two Case Studies of Galen’s Method”, in Hankinson and Havrda 2021, pp. 116–35.
-* Kaufman, D., 2014, “Galen on the Therapy of Distress and the Limits of Emotional Therapy”, _Oxford Studies in Ancient Philosophy_, 47: 275–96.
+* Kaufman, D., 2014, “Galen on the Therapy of Distress and the Limits of Emotional Therapy”, *Oxford Studies in Ancient Philosophy*, 47: 275–96.
 * Kupreeva, I., 2014, “Galen’s Theory of Elements”, in Adamson et al., pp. 153–96.
 * Leith, D., 2014, “Galen’s Refutation of Atomism”, in Adamson et al., pp. 213–34.
-* Lloyd G.E.R., 1988, “Scholarship, Authority, and Argument in Galen’s _Quod Animi Mores_”, in Manuli and Vegetti 1988: 11–42.
-* –––, 1993, “Galen on Hellenistics and Hippocrateans: Contemporary Battles and Past Authorities”, in _Galen und das hellenistische Erbe_, J. Kollesch and D. Nickel (eds.), Stuttgart: Franz Steiner Verlag, pp. 125–43.
-* Manetti, D. and A. Roselli, 1994, “Galenno commentatore di Ippocrate”, in _Au\*\*fstieg und Niedergang der römsichen Welt_, vol. II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 1529–1635.
-* Manuli, P., 1986, “Traducibilità e moteplicità dei linguaggi nel _De placitis_ di Galeno”, in _Storiografia e dossografia nella filosofia antica_, G. Cambiano (ed.), Turin: Tirrenia Stampatori, pp. 245–65.
-* –––, 1988, “La passione nel _De placitis_ di Galeno”, in Manuli and Vegettti 1988, pp. 185–214.
-* Manuli, P. and M. Vegetti (eds.), 1988, _Le opere psicologiche di Galeno: atti del terzo colloquio galenico internazionale, Pavia, 10–12 settembre 1986_, Naples: Bibliopolis.
-* Marechal, P., 2019, “Galen’s Constitutive Materialism”, _Ancient Philosophy,_ 39: 191–209.&#x20;
-* Mattern, S.P., 2008, _Galen and the Rhetoric of Healing_, Baltimore: Johns Hopkins University Press.
-* –––, 2013, _The Prince of Medicine: Galen in the Roman Empire_, Oxford: Oxford University Press.
-* Moraux, P., 1984, _Der Aristotelismus bei den Griechen von Andronikos bis Alexander von Aphrodisias_, II: _Der Aristotelismus im I und II. Jh. n. Chr_., Berlin and New York: De Gruyter.
+* Lloyd G.E.R., 1988, “Scholarship, Authority, and Argument in Galen’s *Quod Animi Mores*”, in Manuli and Vegetti 1988: 11–42.
+* –––, 1993, “Galen on Hellenistics and Hippocrateans: Contemporary Battles and Past Authorities”, in *Galen und das hellenistische Erbe*, J. Kollesch and D. Nickel (eds.), Stuttgart: Franz Steiner Verlag, pp. 125–43.
+* Manetti, D. and A. Roselli, 1994, “Galenno commentatore di Ippocrate”, in *Au\*\*fstieg und Niedergang der römsichen Welt*, vol. II.37.2, W. Haase (ed.), Berlin and New York: Walter de Gruyter & Co., pp. 1529–1635.
+* Manuli, P., 1986, “Traducibilità e moteplicità dei linguaggi nel *De placitis* di Galeno”, in *Storiografia e dossografia nella filosofia antica*, G. Cambiano (ed.), Turin: Tirrenia Stampatori, pp. 245–65.
+* –––, 1988, “La passione nel *De placitis* di Galeno”, in Manuli and Vegettti 1988, pp. 185–214.
+* Manuli, P. and M. Vegetti (eds.), 1988, *Le opere psicologiche di Galeno: atti del terzo colloquio galenico internazionale, Pavia, 10–12 settembre 1986*, Naples: Bibliopolis.
+* Marechal, P., 2019, “Galen’s Constitutive Materialism”, *Ancient Philosophy,* 39: 191–209.&#x20;
+* Mattern, S.P., 2008, *Galen and the Rhetoric of Healing*, Baltimore: Johns Hopkins University Press.
+* –––, 2013, *The Prince of Medicine: Galen in the Roman Empire*, Oxford: Oxford University Press.
+* Moraux, P., 1984, *Der Aristotelismus bei den Griechen von Andronikos bis Alexander von Aphrodisias*, II: *Der Aristotelismus im I und II. Jh. n. Chr*., Berlin and New York: De Gruyter.
 * Morison, B., 2008, “Logic”, in Hankinson 2008b, pp. 66–115.
-* Nutton, V., 1973, “The Chronology of Galen’s Early Career”, _Classical Quarterly_, 23: 158–71.
-* –––, 1984, “Galen in the Eyes of his Contemporaries”, _Bulletin of the History of Medicine_, 58: 315–24.
-* Petit, C., 2019 (ed.), _Galen’s Treatise Περὶ ἀλυπίας (De indolentia) in Context: A Tale of Resilience_, Leiden: Brill.
-* Pietrobelli, A., 2013, “Galien agnostique: un texte caviardé par la tradition”, _Revue des Études Grecques_, 126(1): 103–35.
-* Rocca, J., 2020, “Pneuma as a Holistic Concept in Galen”, in _Holism in Ancient Medicine and its Reception_, C. Thumiger (ed.), Leiden: Brill, pp. 268–91.
-* Salas, L. A., 2020, _Cutting Words: Polemical Dimensions of Galen’s Anatomical Experiments_, Leiden: Brill.
-* Singer, P.N., 1996, “Notes on Galen’s Hippocrates”, in _Studi di storia di medicina antica e medievale in memoria di Paola Manuli_, M. Vegetti and S. Gastaldi (eds.), Florence: La Nuova Italia, pp. 66–76.
-* –––, 1997b, “Levels of Explanation in Galen”, _Classical Quarterly_, 47: 525–42.
-* ––– (ed.), 2013, _Galen: Psychological Writings_, trans. with introductions and notes by V. Nutton, D. Davies, and P. N. Singer, with the collaboration of P. Tassinari, Cambridge: Cambridge University Press.
+* Nutton, V., 1973, “The Chronology of Galen’s Early Career”, *Classical Quarterly*, 23: 158–71.
+* –––, 1984, “Galen in the Eyes of his Contemporaries”, *Bulletin of the History of Medicine*, 58: 315–24.
+* Petit, C., 2019 (ed.), *Galen’s Treatise Περὶ ἀλυπίας (De indolentia) in Context: A Tale of Resilience*, Leiden: Brill.
+* Pietrobelli, A., 2013, “Galien agnostique: un texte caviardé par la tradition”, *Revue des Études Grecques*, 126(1): 103–35.
+* Rocca, J., 2020, “Pneuma as a Holistic Concept in Galen”, in *Holism in Ancient Medicine and its Reception*, C. Thumiger (ed.), Leiden: Brill, pp. 268–91.
+* Salas, L. A., 2020, *Cutting Words: Polemical Dimensions of Galen’s Anatomical Experiments*, Leiden: Brill.
+* Singer, P.N., 1996, “Notes on Galen’s Hippocrates”, in *Studi di storia di medicina antica e medievale in memoria di Paola Manuli*, M. Vegetti and S. Gastaldi (eds.), Florence: La Nuova Italia, pp. 66–76.
+* –––, 1997b, “Levels of Explanation in Galen”, *Classical Quarterly*, 47: 525–42.
+* ––– (ed.), 2013, *Galen: Psychological Writings*, trans. with introductions and notes by V. Nutton, D. Davies, and P. N. Singer, with the collaboration of P. Tassinari, Cambridge: Cambridge University Press.
 * –––, 2014, “Galen and the Philosophers: Philosophical Engagement, Shadowy Contemporaries, Aristotelian Engagement”, in Adamson et al. 2014, pp. 7–38.
-* –––, 2017, “The Essence of Rage: Galen on Emotional Disturbances and their Physical Correlates”, in _Selfhood and Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill_, R. Seaford, J. Wilkins, and M. Wright (eds.), Oxford: Oxford University Press, pp. 161–96.
-* –––, 2018, “Galen’s Pathological Soul: Diagnosis and Therapy in Ethical and Medical Texts and Contexts”, in _Mental Mental Illness in Ancient Medicine: from Celsus to Paul of Aegina_, C. Thumiger and P.N. Singer (eds.), Leiden: Brill, pp. 381–420.
-* –––, 2019a, “Galen and the Culture of Pergamon: A View of Greek Medical–Intellectual Life in Roman Asia”, in _2. Uluslararası Bergama Sempozyumu, 9–10 Mayıs 2013_, B. Türkmen, F. Kurunaz, N. Ermiṣ, and Y. Ekıncı Daniṣan (eds.), Bergama/Izmir, pp.131–69.
+* –––, 2017, “The Essence of Rage: Galen on Emotional Disturbances and their Physical Correlates”, in *Selfhood and Soul: Essays on Ancient Thought and Literature in Honour of Christopher Gill*, R. Seaford, J. Wilkins, and M. Wright (eds.), Oxford: Oxford University Press, pp. 161–96.
+* –––, 2018, “Galen’s Pathological Soul: Diagnosis and Therapy in Ethical and Medical Texts and Contexts”, in *Mental Mental Illness in Ancient Medicine: from Celsus to Paul of Aegina*, C. Thumiger and P.N. Singer (eds.), Leiden: Brill, pp. 381–420.
+* –––, 2019a, “Galen and the Culture of Pergamon: A View of Greek Medical–Intellectual Life in Roman Asia”, in *2. Uluslararası Bergama Sempozyumu, 9–10 Mayıs 2013*, B. Türkmen, F. Kurunaz, N. Ermiṣ, and Y. Ekıncı Daniṣan (eds.), Bergama/Izmir, pp.131–69.
 * –––, 2019b, “New Light and Old Texts: Galen on his own Books”, in Petit (ed.), pp. 91–132.
 * –––, 2019c, “A New Distress: Galen’s Ethics in Περὶ ἀλυπίας and Beyond”, in Petit (ed.), pp. 180–98.
-* –––, 2020a, “A Change in the Substance: Theory and its Limits in Galen’s _Simples_”, _Archives Internatioinales d’Histoire des Sciences_, 70: 16–53.
-* –––, 2020b, “Galen on Pneuma: Between Metaphysical Speculation and Anatomical Theory”, in _The Concept of Pneuma After Aristotle_, S. Coughlin, D. Leith, and O. Lewis (eds.), Berlin: Edition Topoi, pp. 237–81.
-* –––, 2021a, “Beyond and Behind the Commentary: Galen on Hippocrates on Elements”, in _Hippocrates East and West: Commentaries in the Greek, Latin, Syriac and Arabic Traditions_, P. E. Pormann (ed.), Leiden: Brill, pp. 114–46.
-* –––, 2021b, “The Relationship Between Perceptual Experience and _Logos_: Galen's Clinical Perspective”, in Hankinson and Havrda 2021, pp. 156–89.
-* Singer, P.N. and P.J. van der Eijk, 2018, _Galen: Works on Human Nature, vol. I: Mixtures (De temperamentis)_, translated with introduction and notes, Cambridge: Cambridge University Press.
-* Tieleman, T., 1996, _Galen and Chrysippus on the Soul: Argumentation and Refutation in the De Placitis, Books II-III_, Leiden: Brill.
-* van der Eijk, P.J., 1997, “Galen on the Use of the Concept of ‘Qualified Experience’ in his Dietetic and Pharmacological Works”, repr. in his _Medicine and Philosophy in Classical Antiquity_, Cambridge: Cambridge University Press, 2005, pp. 279–98.
+* –––, 2020a, “A Change in the Substance: Theory and its Limits in Galen’s *Simples*”, *Archives Internatioinales d’Histoire des Sciences*, 70: 16–53.
+* –––, 2020b, “Galen on Pneuma: Between Metaphysical Speculation and Anatomical Theory”, in *The Concept of Pneuma After Aristotle*, S. Coughlin, D. Leith, and O. Lewis (eds.), Berlin: Edition Topoi, pp. 237–81.
+* –––, 2021a, “Beyond and Behind the Commentary: Galen on Hippocrates on Elements”, in *Hippocrates East and West: Commentaries in the Greek, Latin, Syriac and Arabic Traditions*, P. E. Pormann (ed.), Leiden: Brill, pp. 114–46.
+* –––, 2021b, “The Relationship Between Perceptual Experience and *Logos*: Galen's Clinical Perspective”, in Hankinson and Havrda 2021, pp. 156–89.
+* Singer, P.N. and P.J. van der Eijk, 2018, *Galen: Works on Human Nature, vol. I: Mixtures (De temperamentis)*, translated with introduction and notes, Cambridge: Cambridge University Press.
+* Tieleman, T., 1996, *Galen and Chrysippus on the Soul: Argumentation and Refutation in the De Placitis, Books II-III*, Leiden: Brill.
+* van der Eijk, P.J., 1997, “Galen on the Use of the Concept of ‘Qualified Experience’ in his Dietetic and Pharmacological Works”, repr. in his *Medicine and Philosophy in Classical Antiquity*, Cambridge: Cambridge University Press, 2005, pp. 279–98.
 * –––, 2008, “Therapeutics”, in Hankinson 2008b, pp. 283–303.
-* –––, 2015, “Galen on the Assessment of Bodily Mixtures”, in _The Frontiers of Ancient Science: Essays in Honor of Heinrich von Staden_, K.-D. Fischer and B. Holmes (eds.), Berlin: De Gruyter, pp. 675–98.
-* –––, 2017, “The Place of Disease in a Teleological World-View”, in _Teleology in the Ancient World: Philosophical and Medical Approaches_, J. Rocca (ed.), Cambridge: Cambridge University Press, pp. 203–16.
-* –––, 2020, “Galen on Soul, Mixture and Pneuma”, in _Body and Soul in Hellenistic Philosophy_, B. Inwood and J. Warren (eds.), Cambridge: Cambridge University Press, pp. 62–88.
-* Vegetti, M., 1999, “Tradition and Truth: Forms of Philosophical-Scientific Historiography in Galen’s _De Placitis_”, in _Ancient Histories of Medicine: Essays in Medical Doxography and Historiography in Classical Antiquity_, P. van der Eijk (ed.), Leiden: Brill, pp. 227–43.
-* Vinkesteijn, R., 2019, “Mixing Body and Soul: Galen on the Substance of the Soul in _QAM_ and _De propriis placitis_”, _Phronesis_, 65(2): 224–46.
-* Von Staden, H., 1992, “The Discovery of the Body: Human Dissection and its Cultural Contexts in Ancient Greece”, _Yale Journal of Biology and Medicine_, 65: 223–41.
-* –––, 1995, “Anatomy as Rhetoric: Galen on Dissection and Persuasion”, _Journal of the History of Medicine and Allied Sciences_, 50: 47–66.
-* –––, 1997, “Galen and the Second Sophistic”, in _Aristotle and After_, R. Sorabji (ed.), London: Institute of Classical Studies, pp. 33–54.
-* –––, 2000, “Body, Soul, and Nerves: Epicurus, Herophilus, Erasistratus, the Stoics, and Galen”, in _Psyche and Soma: Physicians and Metaphysicians on the Mind-Body Problem from Antiquity to the Enlightenment_, J.P. Wright and P. Potter (eds.), Oxford: Oxford University Press, pp. 79–116.
-* –––, 2009, “Staging the Past, Staging Oneself: Galen on Hellenistic Exegetical Traditions”, in _Galen and the World of Knowledge_, C. Gill, T. Whitmarsh, and J. Wilkins (eds.), Cambridge: Cambridge University Press, pp. 132–56.
-* Walzer, R. and M. Frede, 1985, _Galen: Three Treatises on the Nature of Science_, Indianapolis: Hackett.
+* –––, 2015, “Galen on the Assessment of Bodily Mixtures”, in *The Frontiers of Ancient Science: Essays in Honor of Heinrich von Staden*, K.-D. Fischer and B. Holmes (eds.), Berlin: De Gruyter, pp. 675–98.
+* –––, 2017, “The Place of Disease in a Teleological World-View”, in *Teleology in the Ancient World: Philosophical and Medical Approaches*, J. Rocca (ed.), Cambridge: Cambridge University Press, pp. 203–16.
+* –––, 2020, “Galen on Soul, Mixture and Pneuma”, in *Body and Soul in Hellenistic Philosophy*, B. Inwood and J. Warren (eds.), Cambridge: Cambridge University Press, pp. 62–88.
+* Vegetti, M., 1999, “Tradition and Truth: Forms of Philosophical-Scientific Historiography in Galen’s *De Placitis*”, in *Ancient Histories of Medicine: Essays in Medical Doxography and Historiography in Classical Antiquity*, P. van der Eijk (ed.), Leiden: Brill, pp. 227–43.
+* Vinkesteijn, R., 2019, “Mixing Body and Soul: Galen on the Substance of the Soul in *QAM* and *De propriis placitis*”, *Phronesis*, 65(2): 224–46.
+* Von Staden, H., 1992, “The Discovery of the Body: Human Dissection and its Cultural Contexts in Ancient Greece”, *Yale Journal of Biology and Medicine*, 65: 223–41.
+* –––, 1995, “Anatomy as Rhetoric: Galen on Dissection and Persuasion”, *Journal of the History of Medicine and Allied Sciences*, 50: 47–66.
+* –––, 1997, “Galen and the Second Sophistic”, in *Aristotle and After*, R. Sorabji (ed.), London: Institute of Classical Studies, pp. 33–54.
+* –––, 2000, “Body, Soul, and Nerves: Epicurus, Herophilus, Erasistratus, the Stoics, and Galen”, in *Psyche and Soma: Physicians and Metaphysicians on the Mind-Body Problem from Antiquity to the Enlightenment*, J.P. Wright and P. Potter (eds.), Oxford: Oxford University Press, pp. 79–116.
+* –––, 2009, “Staging the Past, Staging Oneself: Galen on Hellenistic Exegetical Traditions”, in *Galen and the World of Knowledge*, C. Gill, T. Whitmarsh, and J. Wilkins (eds.), Cambridge: Cambridge University Press, pp. 132–56.
+* Walzer, R. and M. Frede, 1985, *Galen: Three Treatises on the Nature of Science*, Indianapolis: Hackett.
 
 ## Academic Tools
 
@@ -561,4 +560,4 @@ _The Function of the Parts of the Body_ (_De usu partium_), ed. G. Helmreich, Te
 The author wishes to acknowledge the support of both the Wellcome Trust and the Alexander von Humboldt Foundation for funding of the research project in the course of which this article was written.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-P. N. Singer <[_pn\_singer@yahoo.co.uk_](mailto:pn\_singer%40yahoo%2eco%2euk)>
+P. N. Singer <[*pn\_singer@yahoo.co.uk*](mailto:pn\_singer%40yahoo%2eco%2euk)>

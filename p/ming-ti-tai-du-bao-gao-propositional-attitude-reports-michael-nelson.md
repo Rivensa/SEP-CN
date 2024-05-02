@@ -1,6 +1,6 @@
 # 命题态度报告 propositional attitude reports (Michael Nelson)
 
-_首次发表于2000年2月16日；实质修订于2019年2月14日_
+*首次发表于2000年2月16日；实质修订于2019年2月14日*
 
 命题态度报告句涉及人们与命题之间的认知关系。一个典型的例子是句子“吉尔相信杰克摔坏了他的王冠”。可以说，“相信”、“希望”和“知道”都是命题态度动词，当其后跟一个包含表达命题的完整句子（一个 that 从句）时，形成命题态度报告句。对命题的认知关系的归属也可以采取其他形式。例如，“杰克相信吉尔说的话”和“杰克相信吉尔相信的一切”都是命题态度归属，即使态度动词后面没有跟一个 that 从句。一些哲学家和语言学家还声称，像“吉尔希望杰克摔倒”、“杰克和吉尔正在寻找水”和“杰克害怕吉尔”这样的句子，也可以分析为命题态度归属句，第一个句子可能表达的是吉尔希望杰克摔倒，第二个句子表达的是杰克和吉尔努力寻找水，第三个句子表达的是杰克害怕吉尔会伤害他。但是这样的分析是有争议的。（参见关于内涵及及物动词的条目。）
 
@@ -442,240 +442,240 @@ Kripke 关于 Pierre 和 Paderewski 以及 Richard 的难题，就像 Frege 的�
 
 ## Bibliography
 
-* Bach, K., 2016. ‘The essential indexicality of intentional action’, _Philosophical Quarterly_, 66: 439–457.
-* –––, 1993. ‘Sometimes a great notion: A critical notice of Mark Crimmins’, _Talk about Beliefs_’, _Mind and Language_, 8: 431–441.
-* –––, 1994. _Thought and Reference_, New York: Oxford University Press.
-* –––, 1997. ‘Do belief reports report beliefs?’ _Pacific Philosophical Quarterly_, 78: 215–241.
-* Barber, A., 2000. ‘A pragmatic treatment of simple sentences’, _Analysis_, 60: 300–308.
-* Barwise, J. and Perry, J., 1983. _Situations and Attitudes_, Cambridge: MIT Press.
-* Bealer, G., 1982. _Quality and Concept_, Oxford: Oxford University Press.
-* –––, 1993. ‘A solution to Frege’s puzzle’, _Philosophical Perspectives_, 7: 17–60.
-* Berg, J., 1983. _Pragmatics and the Semantics of Belief_, Ph.D dissertation, Philosophy Department, UCLA.
-* Bigelow, J., 1980. ‘Believing in sentences’, _Australasian Journal of Philosophy_, 58: 1–18.
-* Blackburn, S., 1975. ‘The identity of propositions’, in S. Blackburn (ed.), _Meaning, Reference, and Necessity_, Cambridge: Cambridge University Press, 182–205.
-* Boër, S., 1994. ‘Propositional attitudes and formal ontology’, _Synthese_, 98: 187–242.
-* –––, 1995. ‘Propositional attitudes and compositional semantics’, _Philosophical Perspectives_, 9: 341–380.
-* –––, 2007. _Thought-Content: On the Ontology of Belief and the Semantics of Belief Attribution_, Dordrecht: Springer.
-* Boër, S. and W. Lycan, 1980. ‘Who me?’ _Philosophical Review_, 89: 427–466.
-* –––, 1986. _Knowing Who_, Cambridge: Cambridge University Press.
-* Braun, D., 1991. ‘Proper names, cognitive contents, and beliefs’, _Philosophical Studies_, 62: 289–305.
-* –––, 1998. ‘Understanding belief reports’, _Philosophical Review_, 107: 555–595.
-* –––, 2000. ‘Russellianism and psychological generalizations’, _Noûs_, 34: 203–236.
-* –––, 2001a. ‘Russellianism and prediction’, _Philosophical Studies_, 105: 59–105.
-* –––, 2001b. ‘Russellianism and explanation’, _Philosophical Perspectives_, 15: 253–289.
-* –––, 2006a. ‘Illogical, but rational’, _Noûs_, 40: 376–379.
-* –––, 2006b. ‘Now you know who Hong Oak Yun is’, _Philosophical Issues_, 16: 24–42.
-* Braun, D. and Saul, J., 2002. ‘Simple sentences, substitution, and mistaken evaluations’, _Philosophical Studies_, 111: 1–41.
-* Burge, T., 1977a. ‘Kaplan, Quine, and suspended belief’, _Philosophical Studies_, 31: 197–203.
-* –––, 1977b. ‘_De re_ Belief’, _Journal of Philosophy_, 74: 338–362.
-* –––, 1986. ‘On Davidson’s ‘Saying that’’, in E. LePore (ed.), _Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson_, Oxford: Blackwell, 190–210.
-* Cappelen, H and J. Dever, 2014. _The Inessential Indexical_, Oxford: Oxford University Press.
-* Carnap, R., 1947 \[1958]. _Meaning and Necessity: A Study in Semantics and Modal Logic_, 2nd, enlarged paperback edition, Chicago: The University of Chicago Press; originally published in 1947.
-* Carston, R., 1988. ‘Implicature, explicature, and truth-theoretic semantics’, in R. Kempson (ed.), _Mental Representations: The interface between language and reality_, Cambridge: Cambridge University Press, 155–181.
-* –––, 2002. _Thoughts and Utterances: The pragmatics of explicit communication_, Oxford: Blackwell.
-* –––, 2016. ‘Linguistic conventions and the role of pragmatics’, _Mind & Language_, 31: 612–624.
-* Castañeda, H.-N., 1966. ‘“He”: A study in the logic of self-consciousness’, _Ratio_, 8: 130–157.
-* –––, 1967. ‘Indicators and quasi-indicators’, _American Philosophical Quarterly_, 4: 85–100.
-* –––, 1987. ‘Self-consciousness, demonstrative reference, and the self-ascription view of believing’, _Philosophical Perspectives_, 1: 405–454.
-* –––, 1999. _The Phenomeno-Logic of the I: Essays on Self-Consciousness_, J. Hart and T. Kapitan (eds.), Bloomington: Indiana University Press.
-* Chisholm, R., 1976a. ‘Knowledge and belief: _de dicto_ and _de re_’, _Philosophical Studies_, 29: 1–20.
-* –––, 1976b. _Person and Object_, La Salle, Ill.: Open Court.
-* –––, 1979. ‘Objects and Persons: Revisions and replies’, in E. Sosa (ed.), _Essays on the Philosophy of Roderick M. Chisholm_, Amsterdam: Rodopi: 317–388.
-* –––, 1981. _The First Person_, Minneapolis: University of Minnesota Press.
-* Church, A., 1943. Review of Quine ‘Notes on existence and necessity’, _Journal of Symbolic Logic_, 8: 45–7.
-* –––, 1950. ‘On Carnap’s analysis of statements of assertion and belief’, _Analysis_, 10: 97–99.
-* –––, 1951. ‘A formulation of the logic of sense and denotation’, in P. Henle, M. Kallen, and S.K. Langer (eds.), _Structure, Method, and Meaning: Essays in honor of Henry M. Scheffer_, New York: Liberal Arts Press, 1951, 3–24.
-* Clapp, L., 1995. ‘How to be direct and innocent: A criticism of Crimmins and Perry’s theory of attitude ascriptions’ _Linguistics and Philosophy_, 18: 529–565.
-* –––, 2002. ‘Davidson’s program and interpreted logical forms’, _Linguistics and Philosophy_, 25: 261–97.
-* Corazza, E., 1994. ‘Perspectival thoughts and psychological generalizations’, _Dialectica_, 48: 307–336.
-* –––, 2004. _Reflecting the Mind: Indexicality and Quasi-Indexicality_, Oxford: Clarendon Press.
-* –––, 2007. ‘Thinking the unthinkable: An excursion into Z-land’, in M. O’Rourke and C. Washington (eds.), _Situating Semantics: Essays on the work of John Perry_, Cambridge, Mass.: MIT Press, 427–450.
-* Crane, T., 2011. ‘The singularity of singular thought’ _Proceedings of the Aristotelian Society Supplementary Volume_, 85: 21–43.
-* –––, 2013. _The Objects of Thought_, Oxford: Oxford University Press.
-* Cresswell, M., 1990. _Entities and Indices_, Dordrecht: Kluwer.
-* –––, 1996. _Semantic Indexicality_, Dordrecht: Kluwer.
-* Crimmins, M., 1992a. _Talk about Beliefs_, Cambridge, Mass: MIT Press.
-* –––, 1992b. ‘Context in the attitudes’ _Linguistics and Philosophy_, 15: 185–198.
-* –––, 1993. ‘So-labeled neo-Fregeanism’ _Philosophical Studies_, 69: 265–79.
-* –––, 1995a. ‘Notional specificity’, _Mind and Language_, 10: 464–477.
-* –––, 1995b. ‘Contextuality, reflexivity, iteration, logic’, _Philosophical Perspectives_, 9: 381–439.
-* Crimmins, M. and J. Perry, 1989. ‘The prince and the phone booth: Reporting puzzling beliefs’, _Journal of Philosophy_, 86: 685–711.
-* Cumming, S., 2008. ‘Variabilism’, _Philosophical Review_, 117: 525–554.
-* Davidson, D., 1967. ‘Truth and meaning’ _Synthese_, 17: 304–23.
-* –––, 1968. ‘On saying that’, _Synthese_, 19: 130–146.
-* Dokic, J., 2006. ‘From linguistic contextualism to situated cognition: The case of _Ad Hoc_ concepts’, _Philosophical Psychology_, 19: 309–328.
-* Donnellan, K., 1990. ‘Genuine names and knowledge by acquaintance’, _Dialectica_, 44: 99–112.
-* Dummett, M., 1973. _Frege: Philosophy of Language_, London: Duckworth.
-* Evans, G., 1982. _The Varieties of Reference_, Oxford: Oxford University Press.
-* –––, 1985. _Collected Papers_, Oxford: Oxford University Press.
-* Fine, K., 2007. _Semantic Relationism_, Oxford: Blackwell Publishing.
-* –––, 2014. ‘Recurrence: A rejoinder’ _Philosophical Studies_, 169: 425–428.
-* Fitch, G., 1984. ‘Two aspects of belief’, _Philosophy and Phenomenological Research_, 45: 87–101.
-* –––, 1987. _Naming and Believing_, Dordrecht: Reidel.
-* Forbes, G., 1989. _Languages of Possibility_, Cambridge: Basil Blackwell.
-* –––, 1990. ‘The indispensability of Sinn’ _Philosophical Review_, 99: 535–563.
-* –––, 1993. ‘Reply to Marks’, _Philosophical Studies_, 69: 281–295.
-* –––, 1996. ‘Substitutivity and the coherence of quantifying in’, _Philosophical Review_, 105: 337–372.
-* –––, 1997. ‘How much substitutivity’, _Analysis_, 57: 109–113.
-* –––, 1999. ‘Enlightened semantics for simple sentences’, _Analysis_, 59: 86–91.
-* –––, 2000. ‘Objectual attitudes’, _Linguistics and Philosophy_, 23: 141–183.
-* –––, 2002. ‘Intensionality’, _Proceedings of the Aristotelian Society_ (Supplement), 76: 75–99.
-* Foster, J., 1976. ‘Meaning and truth theory’, in G. Evans and J. McDowell (eds.). _Truth and Meaning: Essays in Semantics_, Oxford: Oxford University Press, 1976, pp. 1–32.
-* Frege, G., 1892 \[1948]. ‘Sense and reference’ _Philosophical Review_, 57 (1948): 209–230; originally published in 1892.
-* –––, 1904. Correspondence with Russell, in N. Salmon and S. Soames (eds.). _Propositions and Attitudes_, Oxford: Oxford University Press, 1988, p.56.
-* –––, 1918 \[1956]. ‘The thought: A logical inquiry’ _Mind_, 65 (1956): 289–311; originally published in 1918.
-* Garcia-Carpintero, M., 2013. ‘The self file and immunity to error through misidentification’ _Disputatio_, 36: 191–206.
-* –––, 2017. ‘The philosophical significance of the _de se_’ _Inquiry_, 60: 253–276.
-* –––, 2017. ‘The Mill-Frege theory of proper names’ _Mind_, 127(508): 1107–1168
-* Garcia-Carpintero, M. and S. Torre, 2016. _About Oneself_, Oxford: Oxford University Press.
-* Grice, H.P., 1967 \[1975]. ‘Logic and conversation’, in P. Cole and J. Morgan (eds.), _Syntax and Semantics_, 3 (1975): 41–58; originally delivered as William James lectures at Harvard University in 1967.
-* –––, 1978. ‘Further notes on logic and conversation’, _Syntax and Semantics_, 9: 113–128.
-* –––, 1981. ‘Presupposition and conversational implicature’, in P. Cole (ed.), _Radical Pragmatics_, New York: Academic Press, pp. 183–198.
-* Harman, G., 1972. ‘Logical form’, _Foundations of Language_, 9: 38–65.
-* Hawthorne, J. and D. Manley, 2012. _The Reference Book_, Oxford: Oxford University Press.
-* Heck, R., 2002. ‘Do demonstratives have senses?’ _Philosopher’s Imprint_, 2/2 \[[available online](http://hdl.handle.net/2027/spo.3521354.0002.002)].
-* –––, 2012. ‘Solving Frege’s puzzle’ _Journal of Philosophy_, 109: 132–174.
-* –––, 2014. ‘In defense of formal relationism’ _Thought_, 3: 243–250.
-* Higginbotham, J., 1991. ‘Belief and logical form’ _Mind and Language_, 6: 344–69.
-* Hintikka, J., 1969. ‘Semantics for propositional attitudes’, in J. Davis et al. (eds.), _Philosophical Logic_, Dordrecht: D. Reidel.
-* Horn, L. and S. Bayer, 1984. ‘Short-circuited implicature: A negative contribution’, _Linguistics and Philosophy_, 7: 397–414.
-* Jaszczolt, K. M., 1999. _Discourse, Belief, and Intentions: Semantic defaults and propositional attitude ascriptions_, Oxford: Elsevier Science.
-* –––, 2000. ‘The default-based context-dependence of belief reports’, in K. M. Jaszczolt (ed.), _The Pragmatics of Propositional Attitude Reports_, Oxford: Elsevier Science, 169–185.
-* Jeshion, R., 2002. ‘Acquaintanceless _de re_ belief’, in J. Campbell, M. O’Rourke, and D. Shier, (eds.), _Meaning and Truth: Investigations in philosophical semantics_, New York: Seven Bridges Press, 53–78.
-* –––, 2010. _New Essays on Singular Thought_, Oxford: Oxford University Press.
-* Kaplan, D., 1969. ‘Quantifying in’, _Synthese_, 19: 178–214.
-* –––, 1970, ‘What is Russell’s theory of descriptions?’, in W. Yourgrau, A. Breck, and H. Bondi (eds.), _Physics, Logic, and History_, New York: Plenum, 277–88.
-* –––, 1977. ‘Demonstratives’, in J. Almog, J. Perry, H. and Wettstein (eds.). 1989. _Themes from Kaplan_, Oxford: Oxford University Press, 481–563.
-* –––, 1986. ‘Opacity’, in L. Hahn and P. Schilpp (eds.). _The Philosophy of W.V. Quine_, La Salle: Open Court, 229–89.
-* Kazmi, A., 1987. ‘Quantification and opacity’ _Linguistics and Philosophy_, 10: 77–100.
-* Kripke, S., 1979. ‘A puzzle about belief’, in A. Margalit (ed.). _Meaning and Use_, Dordrecht: Reidel, 1979, 239–283.
-* –––, 1980. _Naming and Necessity_, Oxford: Blackwell; originally delivered as a series of lecture at Princeton University in 1970.
-* –––, 2013. _Reference and Existence: The John Locke Lectures_, Oxford: Oxford University Press; originally delivered as a series of lecture at Oxford University in 1973.
-* Larson, R. and P. Ludlow, 1993. ‘Interpreted logical forms’, _Synthese_, 95: 305–55.
-* Larson, R. and G. Segal, 1995. _Knowledge of Meaning: Semantic Value and Logical Form_, Cambridge, Mass.: MIT Press.
-* Lepore, E. and B. Loewer, 1989. ‘You can say that again’, _Midwest Studies in Philosophy_, 14: 338–56.
-* Lewis, D., 1972. ‘General semantics’, in D. Davidson and G. Harman (eds.), _Semantics of Natural Language_, Dordrecht: D. Reidel, 169–218.
-* –––, 1979. ‘Attitudes _de dicto_ and _de se_’ _Philosophical Review_, 88: 513–543.
-* –––, 1981. ‘What puzzling Pierre believes’ _Australasian Journal of Philosophy_, 59: 283–289.
-* –––, 1986. _On the Plurality of Worlds_, Oxford: Basil Blackwell.
-* Linsky, L., 1971. _Reference and Modality_, London: Oxford University Press.
-* Ludlow, P., 1995. ‘Logical form and the hidden indexical theory: A reply to Schiffer’, _Journal of Philosophy_, 92: 102–107.
-* –––, 1996. ‘The adicity of ‘believes’ and the hidden indexical theory’, _Analysis_, 56: 97–101.
-* –––, 2000. ‘Interpreted logical forms, belief attribution, and the dynamic lexicon’, in M. Jaszczolt (ed.), _The Pragmatics of Propositional Attitude Reports_, Oxford: Elsevier Science, 2000, 31–42.
-* Magidor, O., 2015. ‘The myth of the _de se_’, _Philosophical Perspectives_, 29: 249–283.
-* Martin, M., 2002. ‘Particular thoughts and singular thought’, _Royal Institute of Philosophy Supplement_, 51: 173–214.
-* McFetridge, J., 1980. ‘Propositions and Davidson’s account of indirect discourse’, _Proceedings of the Aristotelian Society_, 76: 131–45.
-* McKay, T., 1981. ‘On proper names in belief ascriptions’, _Philosophical Studies_, 39: 287–303.
-* –––, 1986. ‘His burning pants’, _Notre Dame Journal of Formal Logic_, 27: 393–400.
-* –––, 1991. ‘Representing _de re_ beliefs’ _Linguistics and Philosophy_, 14: 711–739.
-* Merricks, T., 2015. _Propositions_, Oxford: Oxford University Press.
-* Moore, J., 1999. ‘Saving substitutivity in simple sentences’, _Analysis_, 59: 91–105.
-* Morgan, J., 1978. ‘Two types of convention in indirect speech acts’, _Syntax and Semantics_, 9: 261–280.
-* Nelson, M., 2002. ‘Puzzling pairs’, _Philosophical Studies_, 108: 109–119.
-* –––, 2005. ‘The problem of puzzling pairs’ _Linguistics and Philosophy_, 28: 319–50.
-* Perry, J., 1977. ‘Frege on demonstratives’ _Philosophical Review_, 86: 474–97; reprinted in Perry 1993 and 2000.
-* –––, 1980. ‘Belief and acceptance’, _Midwest Studies in Philosophy_, 5: 533–542; reprinted in Perry 1993 and 2000.
-* –––, 1979. ‘The problem of the essential indexical’, _Noûs_, 13: 3–21; reprinted in Perry 1993 and 2000.
-* –––, 1993 _The Problem of the Essential Indexical_, Oxford: Oxford University Press.
-* –––, 1990. ‘Self-notions’, _Logos_, 11: 17–31.
-* –––, 1997. ‘Rip Van Winkle and other characters’ _The European Review of Analytical Philosophy_, 2: 13–39; reprinted in Perry 2000.
-* –––, 1998. ‘Myself and I’, in M. Stamm (ed.) _Philosophie in Synthetisher Absicht_, Stuttgart: Klett-Cotta, 83–103; reprinted in Perry 2000.
-* –––, 2000 _The Problem of the Essential Indexical_, expanded edition, Stanford: CSLI Publications.
-* –––, 2001 _Reference and Reflexivity_, Stanford: CSLI Publications.
-* Pickel, B., 2015. ‘Variables and attitudes’, _Noûs_, 49: 333–356.
-* Pickel, B. and B. Rabern, 2017. ‘Does semantic relationism solve Frege’s puzzle’, _Journal of Philosophical Logic_, 46: 97–118.
-* Pietroski, P., 1996. ‘Fregean innocence’, _Mind and Language_, 11: 338–70.
-* Pinillos, A., 2011. ‘Coreference and meaning’ _Philosophical Studies_, 154: 301–324.
-* Predelli, S., 1999. ‘Saul, Salmon, and Superman’, _Analysis_, 59: 113–116.
-* Quine, W., 1956 ‘Quantifiers and propositional attitudes’, _Journal of Philosophy_, 53: 177–187.
-* –––, 1953 \[1980]. ‘Reference and modality’, 2nd revised version, in W. Quine, _From a Logical Point of View_, 2nd edition, revised printing. New York: Harper and Row, 1980, 139–59; originally published in 1953.
-* Recanati, F., 1993. _Direct Reference: From Language to Thought_, Oxford: Blackwell.
-* –––, 1995. ‘Quasi-singular propositions: The semantics of belief reports’, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 69: 175–194.
-* –––, 1997. ‘The dynamics of situations’ _European Review of Philosophy_, 2: 41–75.
-* –––, 2002. ‘Unarticulated constituents’ _Linguistics and Philosophy_, 25: 299–345.
-* –––, 2007a. ‘Relativized propositions’, in M. O’Rourke and C. Washington (eds.), _Situating Semantics: Essays on the work of John Perry_, Cambridge, Mass.: MIT Press, 119–153.
-* –––, 2007b. _Perspectival Thought: A plea for (moderate) relativism_, Oxford: Oxford University Press.
-* –––, 2012. _Mental Files_, Oxford: Oxford University Press.
-* –––, 2016. _Mental Files in Flux_, Oxford: Oxford University Press.
-* Reddam, P., 1982. _Pragmatics and the Language of Belief_, Ph.D dissertation, USC.
-* Reimer, M., 1995. ‘A defense of _de re_ belief reports’, _Mind and Language_, 10: 446–463.
-* Richard, M., 1983. ‘Direct reference and ascriptions of belief’, _Journal of Philosophical Logic_, 12: 425–452.
-* –––, 1987. ‘Attitude ascriptions, semantic theory, and pragmatic evidence’, _Proceedings of the Aristotelian Society_, 87: 243–62.
-* –––, 1988. ‘Taking the Fregean seriously’, in D. Austin (ed.), _Philosophical Analysis_, Dordrecht: Kluwer, 1988, 219–39.
-* –––, 1989. ‘How I say what you think’ _Midwest Studies in Philosophy_, 14: 317–337.
-* –––, 1990. _Propositional Attitudes: An Essay on Thoughts and How We Ascribe Them_, Cambridge University Press.
-* –––, 1993a. ‘Attitudes in context’ _Linguistics and Philosophy_, 16: 123–148.
-* –––, 1993b. ‘Sense, necessity and belief’ _Philosophical Studies_, 69: 243–263.
-* –––, 1993c. ‘Boër and Lycan’s _Knowing Who_’, _Noûs_, 27: 235–242.
-* –––, 1995. ‘Defective contexts, accommodation, and normalization’, _Canadian Journal of Philosophy_, 25: 551–70.
-* –––, 1997. ‘Propositional attitudes’, in B. Hale and C. Wright (eds.), _A Companion to Philosophy of Language_, Oxford: Blackwell, 197–226.
-* –––, 2001. ‘Seeking a Centaur, adoring Adonis: Intensional transitives and empty terms’, _Midwest Studies in Philosophy_, 25: 103–127.
-* Rumfitt, I., 1993. ‘Content and context: The paratactic theory revisited and revised’, _Mind_, 102: 429–54.
-* Russell, B., 1903. _The Principles of Mathematics_, Cambridge: Cambridge University Press.
-* –––, 1904. Correspondence with Frege, in N. Salmon and S. Soames (eds.). _Propositions and Attitudes_, Oxford: Oxford University Press, 1988, p. 57.
-* –––, 1905. ‘On denoting’, _Mind_, 14: 479–493.
-* –––, 1910. ‘Knowledge by acquaintance and knowledge by description’, _Proceedings of the Aristotelian Society_, 11: 108–28.
-* –––, 1912. _The Problems of Philosophy_, Oxford: Oxford University Press.
-* Sainsbury, M., 1993. ‘Russell on names and communication’, in A. D. Irvine and G. A. Wedeking (eds.), _Russell and Analytic Philosophy_, Toronto: The University of Toronto Press, 3–21.
-* Salmon, N., 1985. ‘Reflexivity’, _Notre Dame Journal of Formal Logic_, 27: 401–29.
-* Salmon, N., 1986. _Frege’s Puzzle_, Cambridge, Massachusetts: MIT Press.
-* –––, 1989. ‘Illogical belief’, _Philosophical Perspectives_, 3: 243–285.
-* –––, 1992. ‘Reflections on reflexivity’ _Linguistics and Philosophy_, 15: 53–63.
-* –––, 1995a. ‘Being of two minds: Belief with doubt’, _Noûs_, 29: 1–20.
-* –––, 1995b. ‘Relational belief’, in P. Leonardi and M. Santambrogio (eds.), _On Quine: New essays_, Cambridge: Cambridge University Press, 206–228.
-* –––, 1997. ‘Is _de re_ belief reducible to _de dicto_?’, in A. Kazmi (ed.), _Meaning and Reference_ (_The Canadian Journal of Philosophy_: Supplementary Volume 23), 85–110.
-* –––, 2006. ‘The resilience of illogical belief’, _Noûs_, 40: 369–375.
-* –––, 2012. ‘Recurrence’ _Philosophical Studies_, 159: 407–441.
-* –––, 2015. ‘Recurrence again’ _Philosophical Studies_, 172: 445–457.
-* Saul, J., 1993. ‘Still an attitude problem’ _Linguistics and Philosophy_, 16: 423–435.
-* –––, 1996. _The Problem with Attitudes_, Ph.D Dissertation, Princeton University.
-* –––, 1997a. ‘Substitution and simple sentences’ _Analysis_, 57: 102–108.
-* –––, 1997b. ‘Substitution and simple sentences’, _Analysis_, 57: 102–106.
-* –––, 1998. ‘The pragmatics of attitude ascription’ _Philosophical Studies_, 92: 363–389.
-* –––, 1999a. ‘The road to hell: Intentions and propositional attitude ascription’, _Mind and Language_, 14: 356–375.
-* –––, 1999b. ‘The best of intentions: Ignorance, idiosyncrasy, and belief reporting’, _Canadian Journal of Philosophy_, 29: 29–48.
-* –––, 1999c. ‘Substitution, simple sentences, and sex scandals’, _Analysis_, 59: 106–112.
-* Schiffer, S., 1977. ‘Naming and knowing’, _Midwest Studies in Philosophy_, 2: 28–41.
-* –––, 1987. ‘The ‘Fido’-Fido theory of belief’, _Philosophical Perspectives_, 1: 455–480.
-* –––, 1987b. _Remnants of Meaning_, Cambridge, Mass.: MIT Press.
-* –––, 1990. ‘The mode-of-presentation problem’ in C. Anderson and J. Owens (eds.). _Propositional Attitudes_, Stanford: CSLI Publications.
-* –––, 1992. ‘Belief ascription’, _Journal of Philosophy_, 89: 499–521.
-* –––, 1994. ‘A paradox of meaning’ _Noûs_, 28: 279–324.
-* –––, 1996. ‘The hidden-indexical theory’s logical-form problem: A rejoinder’, _Analysis_, 56: 92–7.
-* –––, 2006. ‘A problem for a direct-reference theory of belief reports’, _Noûs_, 40: 361–368.
-* Searle, J., 1975. ‘Indirect speech acts’, _Syntax and Semantics_, 3: 59–82.
-* Sider, T., 1995. ‘Three problems for Richard’s theory of belief ascriptions’, _Canadian Journal of Philosophy_, 25: 487–513.
-* Soames, S., 1985. ‘Lost innocence’, _Linguistics and Philosophy_, 8: 59–72.
-* –––, 1987. ‘Substitutivity’, in J. Thomson (ed.), _On Being and Saying_, Cambridge: MIT Press, 99–132.
-* –––, 1989. ‘Direct reference, propositional attitudes and semantic content’, _Philosophical Topics_, 15: 44–87.
-* –––, 1989b. ‘Semantics and semantic competence’ _Philosophical Perspectives_, 3: 575–96.
-* –––, 1992. ‘Truth, meaning, and understanding’ _Philosophical Studies_, 65: 17–35.
-* –––, 1995. ‘Beyond singular propositions’ _Canadian Journal of Philosophy_, 25: 515–549.
-* –––, 2002. _Beyond Rigidity: The Unfinished Semantic Agenda of_ Naming and Necessity. New York: Oxford University Press.
-* –––, 2003. _Philosophical Analysis in the Twentieth Century, Volume II: The Age of Meaning_, Princeton: Princeton University Press.
-* Sosa, D., 1996. ‘The import of the puzzle of belief’ _Philosophical Review_, 105: 373–434.
-* Sosa, E., 1970 ‘Propositional attitudes _de dicto_ and _de re_’, _Journal of Philosophy_, 67: 883–896.
-* Spencer, C., 2006 ‘Do conversational implicatures explain substitutivity failures?’, _Pacific Philosophical Quarterly_, 87: 126–139.
-* Stalnaker, R., 1981. ‘Indexical belief’ _Synthese_, 49: 129–152.
-* –––, 1984. _Inquiry_, Cambridge, Mass.: MIT Press.
-* –––, 1987. ‘Semantics for belief’ _Philosophical Topics_, 15: 177–90.
-* –––, 1988. ‘Belief attribution and context’ in R. Grimm and D. Merril (eds.), _Contents of Thought_, Tucson: University of Arizona, 1988, 156–81.
-* Stanley, J., 2000. ‘Context and logical form’ _Linguistics and Philosophy_, 23: 391–434.
-* –––, 2002. ‘Making it articulated’, _Mind and Language_, 17: 149–168.
-* Taschek, W., 1988. ‘Would a Fregean be puzzled by Pierre?’, _Mind_, 97: 99–104.
-* –––, 1992. ‘Frege’s puzzle, sense, and information content’, _Mind_, 101: 767–92.
-* –––, 1995a. ‘Belief, substitution, and logical structure’, _Noûs_, 29: 71–95.
-* –––, 1995b. ‘On belief content and that-clauses’, _Mind and Language_, 10: 274–298.
-* –––, 1997. ‘Putting Pierre and Peter in context: On ascribing beliefs’, in D. Jurtronic-Tihomirovic (ed.), _The Maribor Papers in Naturalized Semantics_, Maribor: Maribor.
-* –––, 1998. ‘On ascribing beliefs: Content in context’, _Journal of Philosophy_, 95: 323–353.
-* Taylor, K., 1995. ‘Meaning, reference and cognitive significance’, _Mind and Language_, 10: 129–180.
-* –––, 2002. ‘_De re_ and _de dicto_: Against the conventional wisdom’, _Philosophical Perspectives_, 16: 225–265.
-* –––, 2003. _Reference and the Rational Mind_, Stanford: CSLI Publications.
-* –––, 2007. ‘Misplace modification and the illusion of opacity’, in M. O’Rourke and C. Washington (eds.), _Situating Semantics: Essays on the work of John Perry_, Cambridge, Mass.: MIT Press, 215–250.
-* Yagisawa, T., 1997. ‘Salmon trapping’, _Philosophy and Phenomenological Research_, 57: 351–370.
-* Tye, M., 1978. ‘The puzzle of Hesperus and Phosphorus’ _Australasian Journal of Philosophy_, 56: 219–224.
-* Zalta, E., 1983. _Abstract Objects: An Introduction to Axiomatic Metaphysics_, Dordrecht: D. Reidel.
-* –––, 2001. ‘Fregean Senses, Modes of Presentation, and Concepts’, _Philosophical Perspectives_, 15: 333–357.
+* Bach, K., 2016. ‘The essential indexicality of intentional action’, *Philosophical Quarterly*, 66: 439–457.
+* –––, 1993. ‘Sometimes a great notion: A critical notice of Mark Crimmins’, *Talk about Beliefs*’, *Mind and Language*, 8: 431–441.
+* –––, 1994. *Thought and Reference*, New York: Oxford University Press.
+* –––, 1997. ‘Do belief reports report beliefs?’ *Pacific Philosophical Quarterly*, 78: 215–241.
+* Barber, A., 2000. ‘A pragmatic treatment of simple sentences’, *Analysis*, 60: 300–308.
+* Barwise, J. and Perry, J., 1983. *Situations and Attitudes*, Cambridge: MIT Press.
+* Bealer, G., 1982. *Quality and Concept*, Oxford: Oxford University Press.
+* –––, 1993. ‘A solution to Frege’s puzzle’, *Philosophical Perspectives*, 7: 17–60.
+* Berg, J., 1983. *Pragmatics and the Semantics of Belief*, Ph.D dissertation, Philosophy Department, UCLA.
+* Bigelow, J., 1980. ‘Believing in sentences’, *Australasian Journal of Philosophy*, 58: 1–18.
+* Blackburn, S., 1975. ‘The identity of propositions’, in S. Blackburn (ed.), *Meaning, Reference, and Necessity*, Cambridge: Cambridge University Press, 182–205.
+* Boër, S., 1994. ‘Propositional attitudes and formal ontology’, *Synthese*, 98: 187–242.
+* –––, 1995. ‘Propositional attitudes and compositional semantics’, *Philosophical Perspectives*, 9: 341–380.
+* –––, 2007. *Thought-Content: On the Ontology of Belief and the Semantics of Belief Attribution*, Dordrecht: Springer.
+* Boër, S. and W. Lycan, 1980. ‘Who me?’ *Philosophical Review*, 89: 427–466.
+* –––, 1986. *Knowing Who*, Cambridge: Cambridge University Press.
+* Braun, D., 1991. ‘Proper names, cognitive contents, and beliefs’, *Philosophical Studies*, 62: 289–305.
+* –––, 1998. ‘Understanding belief reports’, *Philosophical Review*, 107: 555–595.
+* –––, 2000. ‘Russellianism and psychological generalizations’, *Noûs*, 34: 203–236.
+* –––, 2001a. ‘Russellianism and prediction’, *Philosophical Studies*, 105: 59–105.
+* –––, 2001b. ‘Russellianism and explanation’, *Philosophical Perspectives*, 15: 253–289.
+* –––, 2006a. ‘Illogical, but rational’, *Noûs*, 40: 376–379.
+* –––, 2006b. ‘Now you know who Hong Oak Yun is’, *Philosophical Issues*, 16: 24–42.
+* Braun, D. and Saul, J., 2002. ‘Simple sentences, substitution, and mistaken evaluations’, *Philosophical Studies*, 111: 1–41.
+* Burge, T., 1977a. ‘Kaplan, Quine, and suspended belief’, *Philosophical Studies*, 31: 197–203.
+* –––, 1977b. ‘*De re* Belief’, *Journal of Philosophy*, 74: 338–362.
+* –––, 1986. ‘On Davidson’s ‘Saying that’’, in E. LePore (ed.), *Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson*, Oxford: Blackwell, 190–210.
+* Cappelen, H and J. Dever, 2014. *The Inessential Indexical*, Oxford: Oxford University Press.
+* Carnap, R., 1947 \[1958]. *Meaning and Necessity: A Study in Semantics and Modal Logic*, 2nd, enlarged paperback edition, Chicago: The University of Chicago Press; originally published in 1947.
+* Carston, R., 1988. ‘Implicature, explicature, and truth-theoretic semantics’, in R. Kempson (ed.), *Mental Representations: The interface between language and reality*, Cambridge: Cambridge University Press, 155–181.
+* –––, 2002. *Thoughts and Utterances: The pragmatics of explicit communication*, Oxford: Blackwell.
+* –––, 2016. ‘Linguistic conventions and the role of pragmatics’, *Mind & Language*, 31: 612–624.
+* Castañeda, H.-N., 1966. ‘“He”: A study in the logic of self-consciousness’, *Ratio*, 8: 130–157.
+* –––, 1967. ‘Indicators and quasi-indicators’, *American Philosophical Quarterly*, 4: 85–100.
+* –––, 1987. ‘Self-consciousness, demonstrative reference, and the self-ascription view of believing’, *Philosophical Perspectives*, 1: 405–454.
+* –––, 1999. *The Phenomeno-Logic of the I: Essays on Self-Consciousness*, J. Hart and T. Kapitan (eds.), Bloomington: Indiana University Press.
+* Chisholm, R., 1976a. ‘Knowledge and belief: *de dicto* and *de re*’, *Philosophical Studies*, 29: 1–20.
+* –––, 1976b. *Person and Object*, La Salle, Ill.: Open Court.
+* –––, 1979. ‘Objects and Persons: Revisions and replies’, in E. Sosa (ed.), *Essays on the Philosophy of Roderick M. Chisholm*, Amsterdam: Rodopi: 317–388.
+* –––, 1981. *The First Person*, Minneapolis: University of Minnesota Press.
+* Church, A., 1943. Review of Quine ‘Notes on existence and necessity’, *Journal of Symbolic Logic*, 8: 45–7.
+* –––, 1950. ‘On Carnap’s analysis of statements of assertion and belief’, *Analysis*, 10: 97–99.
+* –––, 1951. ‘A formulation of the logic of sense and denotation’, in P. Henle, M. Kallen, and S.K. Langer (eds.), *Structure, Method, and Meaning: Essays in honor of Henry M. Scheffer*, New York: Liberal Arts Press, 1951, 3–24.
+* Clapp, L., 1995. ‘How to be direct and innocent: A criticism of Crimmins and Perry’s theory of attitude ascriptions’ *Linguistics and Philosophy*, 18: 529–565.
+* –––, 2002. ‘Davidson’s program and interpreted logical forms’, *Linguistics and Philosophy*, 25: 261–97.
+* Corazza, E., 1994. ‘Perspectival thoughts and psychological generalizations’, *Dialectica*, 48: 307–336.
+* –––, 2004. *Reflecting the Mind: Indexicality and Quasi-Indexicality*, Oxford: Clarendon Press.
+* –––, 2007. ‘Thinking the unthinkable: An excursion into Z-land’, in M. O’Rourke and C. Washington (eds.), *Situating Semantics: Essays on the work of John Perry*, Cambridge, Mass.: MIT Press, 427–450.
+* Crane, T., 2011. ‘The singularity of singular thought’ *Proceedings of the Aristotelian Society Supplementary Volume*, 85: 21–43.
+* –––, 2013. *The Objects of Thought*, Oxford: Oxford University Press.
+* Cresswell, M., 1990. *Entities and Indices*, Dordrecht: Kluwer.
+* –––, 1996. *Semantic Indexicality*, Dordrecht: Kluwer.
+* Crimmins, M., 1992a. *Talk about Beliefs*, Cambridge, Mass: MIT Press.
+* –––, 1992b. ‘Context in the attitudes’ *Linguistics and Philosophy*, 15: 185–198.
+* –––, 1993. ‘So-labeled neo-Fregeanism’ *Philosophical Studies*, 69: 265–79.
+* –––, 1995a. ‘Notional specificity’, *Mind and Language*, 10: 464–477.
+* –––, 1995b. ‘Contextuality, reflexivity, iteration, logic’, *Philosophical Perspectives*, 9: 381–439.
+* Crimmins, M. and J. Perry, 1989. ‘The prince and the phone booth: Reporting puzzling beliefs’, *Journal of Philosophy*, 86: 685–711.
+* Cumming, S., 2008. ‘Variabilism’, *Philosophical Review*, 117: 525–554.
+* Davidson, D., 1967. ‘Truth and meaning’ *Synthese*, 17: 304–23.
+* –––, 1968. ‘On saying that’, *Synthese*, 19: 130–146.
+* Dokic, J., 2006. ‘From linguistic contextualism to situated cognition: The case of *Ad Hoc* concepts’, *Philosophical Psychology*, 19: 309–328.
+* Donnellan, K., 1990. ‘Genuine names and knowledge by acquaintance’, *Dialectica*, 44: 99–112.
+* Dummett, M., 1973. *Frege: Philosophy of Language*, London: Duckworth.
+* Evans, G., 1982. *The Varieties of Reference*, Oxford: Oxford University Press.
+* –––, 1985. *Collected Papers*, Oxford: Oxford University Press.
+* Fine, K., 2007. *Semantic Relationism*, Oxford: Blackwell Publishing.
+* –––, 2014. ‘Recurrence: A rejoinder’ *Philosophical Studies*, 169: 425–428.
+* Fitch, G., 1984. ‘Two aspects of belief’, *Philosophy and Phenomenological Research*, 45: 87–101.
+* –––, 1987. *Naming and Believing*, Dordrecht: Reidel.
+* Forbes, G., 1989. *Languages of Possibility*, Cambridge: Basil Blackwell.
+* –––, 1990. ‘The indispensability of Sinn’ *Philosophical Review*, 99: 535–563.
+* –––, 1993. ‘Reply to Marks’, *Philosophical Studies*, 69: 281–295.
+* –––, 1996. ‘Substitutivity and the coherence of quantifying in’, *Philosophical Review*, 105: 337–372.
+* –––, 1997. ‘How much substitutivity’, *Analysis*, 57: 109–113.
+* –––, 1999. ‘Enlightened semantics for simple sentences’, *Analysis*, 59: 86–91.
+* –––, 2000. ‘Objectual attitudes’, *Linguistics and Philosophy*, 23: 141–183.
+* –––, 2002. ‘Intensionality’, *Proceedings of the Aristotelian Society* (Supplement), 76: 75–99.
+* Foster, J., 1976. ‘Meaning and truth theory’, in G. Evans and J. McDowell (eds.). *Truth and Meaning: Essays in Semantics*, Oxford: Oxford University Press, 1976, pp. 1–32.
+* Frege, G., 1892 \[1948]. ‘Sense and reference’ *Philosophical Review*, 57 (1948): 209–230; originally published in 1892.
+* –––, 1904. Correspondence with Russell, in N. Salmon and S. Soames (eds.). *Propositions and Attitudes*, Oxford: Oxford University Press, 1988, p.56.
+* –––, 1918 \[1956]. ‘The thought: A logical inquiry’ *Mind*, 65 (1956): 289–311; originally published in 1918.
+* Garcia-Carpintero, M., 2013. ‘The self file and immunity to error through misidentification’ *Disputatio*, 36: 191–206.
+* –––, 2017. ‘The philosophical significance of the *de se*’ *Inquiry*, 60: 253–276.
+* –––, 2017. ‘The Mill-Frege theory of proper names’ *Mind*, 127(508): 1107–1168
+* Garcia-Carpintero, M. and S. Torre, 2016. *About Oneself*, Oxford: Oxford University Press.
+* Grice, H.P., 1967 \[1975]. ‘Logic and conversation’, in P. Cole and J. Morgan (eds.), *Syntax and Semantics*, 3 (1975): 41–58; originally delivered as William James lectures at Harvard University in 1967.
+* –––, 1978. ‘Further notes on logic and conversation’, *Syntax and Semantics*, 9: 113–128.
+* –––, 1981. ‘Presupposition and conversational implicature’, in P. Cole (ed.), *Radical Pragmatics*, New York: Academic Press, pp. 183–198.
+* Harman, G., 1972. ‘Logical form’, *Foundations of Language*, 9: 38–65.
+* Hawthorne, J. and D. Manley, 2012. *The Reference Book*, Oxford: Oxford University Press.
+* Heck, R., 2002. ‘Do demonstratives have senses?’ *Philosopher’s Imprint*, 2/2 \[[available online](http://hdl.handle.net/2027/spo.3521354.0002.002)].
+* –––, 2012. ‘Solving Frege’s puzzle’ *Journal of Philosophy*, 109: 132–174.
+* –––, 2014. ‘In defense of formal relationism’ *Thought*, 3: 243–250.
+* Higginbotham, J., 1991. ‘Belief and logical form’ *Mind and Language*, 6: 344–69.
+* Hintikka, J., 1969. ‘Semantics for propositional attitudes’, in J. Davis et al. (eds.), *Philosophical Logic*, Dordrecht: D. Reidel.
+* Horn, L. and S. Bayer, 1984. ‘Short-circuited implicature: A negative contribution’, *Linguistics and Philosophy*, 7: 397–414.
+* Jaszczolt, K. M., 1999. *Discourse, Belief, and Intentions: Semantic defaults and propositional attitude ascriptions*, Oxford: Elsevier Science.
+* –––, 2000. ‘The default-based context-dependence of belief reports’, in K. M. Jaszczolt (ed.), *The Pragmatics of Propositional Attitude Reports*, Oxford: Elsevier Science, 169–185.
+* Jeshion, R., 2002. ‘Acquaintanceless *de re* belief’, in J. Campbell, M. O’Rourke, and D. Shier, (eds.), *Meaning and Truth: Investigations in philosophical semantics*, New York: Seven Bridges Press, 53–78.
+* –––, 2010. *New Essays on Singular Thought*, Oxford: Oxford University Press.
+* Kaplan, D., 1969. ‘Quantifying in’, *Synthese*, 19: 178–214.
+* –––, 1970, ‘What is Russell’s theory of descriptions?’, in W. Yourgrau, A. Breck, and H. Bondi (eds.), *Physics, Logic, and History*, New York: Plenum, 277–88.
+* –––, 1977. ‘Demonstratives’, in J. Almog, J. Perry, H. and Wettstein (eds.). 1989. *Themes from Kaplan*, Oxford: Oxford University Press, 481–563.
+* –––, 1986. ‘Opacity’, in L. Hahn and P. Schilpp (eds.). *The Philosophy of W.V. Quine*, La Salle: Open Court, 229–89.
+* Kazmi, A., 1987. ‘Quantification and opacity’ *Linguistics and Philosophy*, 10: 77–100.
+* Kripke, S., 1979. ‘A puzzle about belief’, in A. Margalit (ed.). *Meaning and Use*, Dordrecht: Reidel, 1979, 239–283.
+* –––, 1980. *Naming and Necessity*, Oxford: Blackwell; originally delivered as a series of lecture at Princeton University in 1970.
+* –––, 2013. *Reference and Existence: The John Locke Lectures*, Oxford: Oxford University Press; originally delivered as a series of lecture at Oxford University in 1973.
+* Larson, R. and P. Ludlow, 1993. ‘Interpreted logical forms’, *Synthese*, 95: 305–55.
+* Larson, R. and G. Segal, 1995. *Knowledge of Meaning: Semantic Value and Logical Form*, Cambridge, Mass.: MIT Press.
+* Lepore, E. and B. Loewer, 1989. ‘You can say that again’, *Midwest Studies in Philosophy*, 14: 338–56.
+* Lewis, D., 1972. ‘General semantics’, in D. Davidson and G. Harman (eds.), *Semantics of Natural Language*, Dordrecht: D. Reidel, 169–218.
+* –––, 1979. ‘Attitudes *de dicto* and *de se*’ *Philosophical Review*, 88: 513–543.
+* –––, 1981. ‘What puzzling Pierre believes’ *Australasian Journal of Philosophy*, 59: 283–289.
+* –––, 1986. *On the Plurality of Worlds*, Oxford: Basil Blackwell.
+* Linsky, L., 1971. *Reference and Modality*, London: Oxford University Press.
+* Ludlow, P., 1995. ‘Logical form and the hidden indexical theory: A reply to Schiffer’, *Journal of Philosophy*, 92: 102–107.
+* –––, 1996. ‘The adicity of ‘believes’ and the hidden indexical theory’, *Analysis*, 56: 97–101.
+* –––, 2000. ‘Interpreted logical forms, belief attribution, and the dynamic lexicon’, in M. Jaszczolt (ed.), *The Pragmatics of Propositional Attitude Reports*, Oxford: Elsevier Science, 2000, 31–42.
+* Magidor, O., 2015. ‘The myth of the *de se*’, *Philosophical Perspectives*, 29: 249–283.
+* Martin, M., 2002. ‘Particular thoughts and singular thought’, *Royal Institute of Philosophy Supplement*, 51: 173–214.
+* McFetridge, J., 1980. ‘Propositions and Davidson’s account of indirect discourse’, *Proceedings of the Aristotelian Society*, 76: 131–45.
+* McKay, T., 1981. ‘On proper names in belief ascriptions’, *Philosophical Studies*, 39: 287–303.
+* –––, 1986. ‘His burning pants’, *Notre Dame Journal of Formal Logic*, 27: 393–400.
+* –––, 1991. ‘Representing *de re* beliefs’ *Linguistics and Philosophy*, 14: 711–739.
+* Merricks, T., 2015. *Propositions*, Oxford: Oxford University Press.
+* Moore, J., 1999. ‘Saving substitutivity in simple sentences’, *Analysis*, 59: 91–105.
+* Morgan, J., 1978. ‘Two types of convention in indirect speech acts’, *Syntax and Semantics*, 9: 261–280.
+* Nelson, M., 2002. ‘Puzzling pairs’, *Philosophical Studies*, 108: 109–119.
+* –––, 2005. ‘The problem of puzzling pairs’ *Linguistics and Philosophy*, 28: 319–50.
+* Perry, J., 1977. ‘Frege on demonstratives’ *Philosophical Review*, 86: 474–97; reprinted in Perry 1993 and 2000.
+* –––, 1980. ‘Belief and acceptance’, *Midwest Studies in Philosophy*, 5: 533–542; reprinted in Perry 1993 and 2000.
+* –––, 1979. ‘The problem of the essential indexical’, *Noûs*, 13: 3–21; reprinted in Perry 1993 and 2000.
+* –––, 1993 *The Problem of the Essential Indexical*, Oxford: Oxford University Press.
+* –––, 1990. ‘Self-notions’, *Logos*, 11: 17–31.
+* –––, 1997. ‘Rip Van Winkle and other characters’ *The European Review of Analytical Philosophy*, 2: 13–39; reprinted in Perry 2000.
+* –––, 1998. ‘Myself and I’, in M. Stamm (ed.) *Philosophie in Synthetisher Absicht*, Stuttgart: Klett-Cotta, 83–103; reprinted in Perry 2000.
+* –––, 2000 *The Problem of the Essential Indexical*, expanded edition, Stanford: CSLI Publications.
+* –––, 2001 *Reference and Reflexivity*, Stanford: CSLI Publications.
+* Pickel, B., 2015. ‘Variables and attitudes’, *Noûs*, 49: 333–356.
+* Pickel, B. and B. Rabern, 2017. ‘Does semantic relationism solve Frege’s puzzle’, *Journal of Philosophical Logic*, 46: 97–118.
+* Pietroski, P., 1996. ‘Fregean innocence’, *Mind and Language*, 11: 338–70.
+* Pinillos, A., 2011. ‘Coreference and meaning’ *Philosophical Studies*, 154: 301–324.
+* Predelli, S., 1999. ‘Saul, Salmon, and Superman’, *Analysis*, 59: 113–116.
+* Quine, W., 1956 ‘Quantifiers and propositional attitudes’, *Journal of Philosophy*, 53: 177–187.
+* –––, 1953 \[1980]. ‘Reference and modality’, 2nd revised version, in W. Quine, *From a Logical Point of View*, 2nd edition, revised printing. New York: Harper and Row, 1980, 139–59; originally published in 1953.
+* Recanati, F., 1993. *Direct Reference: From Language to Thought*, Oxford: Blackwell.
+* –––, 1995. ‘Quasi-singular propositions: The semantics of belief reports’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 69: 175–194.
+* –––, 1997. ‘The dynamics of situations’ *European Review of Philosophy*, 2: 41–75.
+* –––, 2002. ‘Unarticulated constituents’ *Linguistics and Philosophy*, 25: 299–345.
+* –––, 2007a. ‘Relativized propositions’, in M. O’Rourke and C. Washington (eds.), *Situating Semantics: Essays on the work of John Perry*, Cambridge, Mass.: MIT Press, 119–153.
+* –––, 2007b. *Perspectival Thought: A plea for (moderate) relativism*, Oxford: Oxford University Press.
+* –––, 2012. *Mental Files*, Oxford: Oxford University Press.
+* –––, 2016. *Mental Files in Flux*, Oxford: Oxford University Press.
+* Reddam, P., 1982. *Pragmatics and the Language of Belief*, Ph.D dissertation, USC.
+* Reimer, M., 1995. ‘A defense of *de re* belief reports’, *Mind and Language*, 10: 446–463.
+* Richard, M., 1983. ‘Direct reference and ascriptions of belief’, *Journal of Philosophical Logic*, 12: 425–452.
+* –––, 1987. ‘Attitude ascriptions, semantic theory, and pragmatic evidence’, *Proceedings of the Aristotelian Society*, 87: 243–62.
+* –––, 1988. ‘Taking the Fregean seriously’, in D. Austin (ed.), *Philosophical Analysis*, Dordrecht: Kluwer, 1988, 219–39.
+* –––, 1989. ‘How I say what you think’ *Midwest Studies in Philosophy*, 14: 317–337.
+* –––, 1990. *Propositional Attitudes: An Essay on Thoughts and How We Ascribe Them*, Cambridge University Press.
+* –––, 1993a. ‘Attitudes in context’ *Linguistics and Philosophy*, 16: 123–148.
+* –––, 1993b. ‘Sense, necessity and belief’ *Philosophical Studies*, 69: 243–263.
+* –––, 1993c. ‘Boër and Lycan’s *Knowing Who*’, *Noûs*, 27: 235–242.
+* –––, 1995. ‘Defective contexts, accommodation, and normalization’, *Canadian Journal of Philosophy*, 25: 551–70.
+* –––, 1997. ‘Propositional attitudes’, in B. Hale and C. Wright (eds.), *A Companion to Philosophy of Language*, Oxford: Blackwell, 197–226.
+* –––, 2001. ‘Seeking a Centaur, adoring Adonis: Intensional transitives and empty terms’, *Midwest Studies in Philosophy*, 25: 103–127.
+* Rumfitt, I., 1993. ‘Content and context: The paratactic theory revisited and revised’, *Mind*, 102: 429–54.
+* Russell, B., 1903. *The Principles of Mathematics*, Cambridge: Cambridge University Press.
+* –––, 1904. Correspondence with Frege, in N. Salmon and S. Soames (eds.). *Propositions and Attitudes*, Oxford: Oxford University Press, 1988, p. 57.
+* –––, 1905. ‘On denoting’, *Mind*, 14: 479–493.
+* –––, 1910. ‘Knowledge by acquaintance and knowledge by description’, *Proceedings of the Aristotelian Society*, 11: 108–28.
+* –––, 1912. *The Problems of Philosophy*, Oxford: Oxford University Press.
+* Sainsbury, M., 1993. ‘Russell on names and communication’, in A. D. Irvine and G. A. Wedeking (eds.), *Russell and Analytic Philosophy*, Toronto: The University of Toronto Press, 3–21.
+* Salmon, N., 1985. ‘Reflexivity’, *Notre Dame Journal of Formal Logic*, 27: 401–29.
+* Salmon, N., 1986. *Frege’s Puzzle*, Cambridge, Massachusetts: MIT Press.
+* –––, 1989. ‘Illogical belief’, *Philosophical Perspectives*, 3: 243–285.
+* –––, 1992. ‘Reflections on reflexivity’ *Linguistics and Philosophy*, 15: 53–63.
+* –––, 1995a. ‘Being of two minds: Belief with doubt’, *Noûs*, 29: 1–20.
+* –––, 1995b. ‘Relational belief’, in P. Leonardi and M. Santambrogio (eds.), *On Quine: New essays*, Cambridge: Cambridge University Press, 206–228.
+* –––, 1997. ‘Is *de re* belief reducible to *de dicto*?’, in A. Kazmi (ed.), *Meaning and Reference* (*The Canadian Journal of Philosophy*: Supplementary Volume 23), 85–110.
+* –––, 2006. ‘The resilience of illogical belief’, *Noûs*, 40: 369–375.
+* –––, 2012. ‘Recurrence’ *Philosophical Studies*, 159: 407–441.
+* –––, 2015. ‘Recurrence again’ *Philosophical Studies*, 172: 445–457.
+* Saul, J., 1993. ‘Still an attitude problem’ *Linguistics and Philosophy*, 16: 423–435.
+* –––, 1996. *The Problem with Attitudes*, Ph.D Dissertation, Princeton University.
+* –––, 1997a. ‘Substitution and simple sentences’ *Analysis*, 57: 102–108.
+* –––, 1997b. ‘Substitution and simple sentences’, *Analysis*, 57: 102–106.
+* –––, 1998. ‘The pragmatics of attitude ascription’ *Philosophical Studies*, 92: 363–389.
+* –––, 1999a. ‘The road to hell: Intentions and propositional attitude ascription’, *Mind and Language*, 14: 356–375.
+* –––, 1999b. ‘The best of intentions: Ignorance, idiosyncrasy, and belief reporting’, *Canadian Journal of Philosophy*, 29: 29–48.
+* –––, 1999c. ‘Substitution, simple sentences, and sex scandals’, *Analysis*, 59: 106–112.
+* Schiffer, S., 1977. ‘Naming and knowing’, *Midwest Studies in Philosophy*, 2: 28–41.
+* –––, 1987. ‘The ‘Fido’-Fido theory of belief’, *Philosophical Perspectives*, 1: 455–480.
+* –––, 1987b. *Remnants of Meaning*, Cambridge, Mass.: MIT Press.
+* –––, 1990. ‘The mode-of-presentation problem’ in C. Anderson and J. Owens (eds.). *Propositional Attitudes*, Stanford: CSLI Publications.
+* –––, 1992. ‘Belief ascription’, *Journal of Philosophy*, 89: 499–521.
+* –––, 1994. ‘A paradox of meaning’ *Noûs*, 28: 279–324.
+* –––, 1996. ‘The hidden-indexical theory’s logical-form problem: A rejoinder’, *Analysis*, 56: 92–7.
+* –––, 2006. ‘A problem for a direct-reference theory of belief reports’, *Noûs*, 40: 361–368.
+* Searle, J., 1975. ‘Indirect speech acts’, *Syntax and Semantics*, 3: 59–82.
+* Sider, T., 1995. ‘Three problems for Richard’s theory of belief ascriptions’, *Canadian Journal of Philosophy*, 25: 487–513.
+* Soames, S., 1985. ‘Lost innocence’, *Linguistics and Philosophy*, 8: 59–72.
+* –––, 1987. ‘Substitutivity’, in J. Thomson (ed.), *On Being and Saying*, Cambridge: MIT Press, 99–132.
+* –––, 1989. ‘Direct reference, propositional attitudes and semantic content’, *Philosophical Topics*, 15: 44–87.
+* –––, 1989b. ‘Semantics and semantic competence’ *Philosophical Perspectives*, 3: 575–96.
+* –––, 1992. ‘Truth, meaning, and understanding’ *Philosophical Studies*, 65: 17–35.
+* –––, 1995. ‘Beyond singular propositions’ *Canadian Journal of Philosophy*, 25: 515–549.
+* –––, 2002. *Beyond Rigidity: The Unfinished Semantic Agenda of* Naming and Necessity. New York: Oxford University Press.
+* –––, 2003. *Philosophical Analysis in the Twentieth Century, Volume II: The Age of Meaning*, Princeton: Princeton University Press.
+* Sosa, D., 1996. ‘The import of the puzzle of belief’ *Philosophical Review*, 105: 373–434.
+* Sosa, E., 1970 ‘Propositional attitudes *de dicto* and *de re*’, *Journal of Philosophy*, 67: 883–896.
+* Spencer, C., 2006 ‘Do conversational implicatures explain substitutivity failures?’, *Pacific Philosophical Quarterly*, 87: 126–139.
+* Stalnaker, R., 1981. ‘Indexical belief’ *Synthese*, 49: 129–152.
+* –––, 1984. *Inquiry*, Cambridge, Mass.: MIT Press.
+* –––, 1987. ‘Semantics for belief’ *Philosophical Topics*, 15: 177–90.
+* –––, 1988. ‘Belief attribution and context’ in R. Grimm and D. Merril (eds.), *Contents of Thought*, Tucson: University of Arizona, 1988, 156–81.
+* Stanley, J., 2000. ‘Context and logical form’ *Linguistics and Philosophy*, 23: 391–434.
+* –––, 2002. ‘Making it articulated’, *Mind and Language*, 17: 149–168.
+* Taschek, W., 1988. ‘Would a Fregean be puzzled by Pierre?’, *Mind*, 97: 99–104.
+* –––, 1992. ‘Frege’s puzzle, sense, and information content’, *Mind*, 101: 767–92.
+* –––, 1995a. ‘Belief, substitution, and logical structure’, *Noûs*, 29: 71–95.
+* –––, 1995b. ‘On belief content and that-clauses’, *Mind and Language*, 10: 274–298.
+* –––, 1997. ‘Putting Pierre and Peter in context: On ascribing beliefs’, in D. Jurtronic-Tihomirovic (ed.), *The Maribor Papers in Naturalized Semantics*, Maribor: Maribor.
+* –––, 1998. ‘On ascribing beliefs: Content in context’, *Journal of Philosophy*, 95: 323–353.
+* Taylor, K., 1995. ‘Meaning, reference and cognitive significance’, *Mind and Language*, 10: 129–180.
+* –––, 2002. ‘*De re* and *de dicto*: Against the conventional wisdom’, *Philosophical Perspectives*, 16: 225–265.
+* –––, 2003. *Reference and the Rational Mind*, Stanford: CSLI Publications.
+* –––, 2007. ‘Misplace modification and the illusion of opacity’, in M. O’Rourke and C. Washington (eds.), *Situating Semantics: Essays on the work of John Perry*, Cambridge, Mass.: MIT Press, 215–250.
+* Yagisawa, T., 1997. ‘Salmon trapping’, *Philosophy and Phenomenological Research*, 57: 351–370.
+* Tye, M., 1978. ‘The puzzle of Hesperus and Phosphorus’ *Australasian Journal of Philosophy*, 56: 219–224.
+* Zalta, E., 1983. *Abstract Objects: An Introduction to Axiomatic Metaphysics*, Dordrecht: D. Reidel.
+* –––, 2001. ‘Fregean Senses, Modes of Presentation, and Concepts’, *Philosophical Perspectives*, 15: 333–357.
 
 ## Academic Tools
 
@@ -687,7 +687,7 @@ Kripke 关于 Pierre 和 Paderewski 以及 Richard 的难题，就像 Frege 的�
 
 ## Other Internet Resources
 
-* McKay, Thomas, “Propositional Attitude Reports”, _Stanford Encyclopedia of Philosophy_ (Fall 2005 Edition), Edward N. Zalta (ed.), URL = <[Propositional Attitude Reports (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](http://plato.stanford.edu/archives/fall2005/entries/prop-attitude-reports/)>. \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ – see the [version history](http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=prop-attitude-reports).]
+* McKay, Thomas, “Propositional Attitude Reports”, *Stanford Encyclopedia of Philosophy* (Fall 2005 Edition), Edward N. Zalta (ed.), URL = <[Propositional Attitude Reports (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](http://plato.stanford.edu/archives/fall2005/entries/prop-attitude-reports/)>. \[This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](http://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=prop-attitude-reports).]
 
 ## Related Entries
 
@@ -698,4 +698,4 @@ Kripke 关于 Pierre 和 Paderewski 以及 Richard 的难题，就像 Frege 的�
 The editors note that as of the February 2019 update, no content by the original author, Thomas McKay, remains in this entry. So he is no longer listed as an author.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-Michael Nelson <[_mnelson@ucr.edu_](mailto:mnelson%40ucr%2eedu)>
+Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>

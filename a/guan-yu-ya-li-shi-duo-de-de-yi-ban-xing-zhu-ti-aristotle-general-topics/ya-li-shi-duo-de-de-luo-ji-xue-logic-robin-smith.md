@@ -8,10 +8,9 @@
 
 本文是从后者的角度来写的。因此，它涉及的是亚里士多德的逻辑，这并不总是与所谓的“亚里士多德式”逻辑相同。
 
-
 ------
 
-##  1. 引言
+## 1. 引言
 
 亚里士多德的逻辑著作包含了我们所拥有的最早期的形式逻辑研究。因此，更加令人惊讶的是，它们共同构成了一个高度发展的逻辑理论，这个理论能够在许多世纪里获得巨大的尊重：康德与亚里士多德相隔的距离是我们与他之间的十倍，甚至认为在这两千年的间隔中没有什么重要的东西被添加到亚里士多德的观点中。
 
@@ -21,11 +20,11 @@
 
 古代评论家将亚里士多德的几部著作归为《工具论》（Organon）一书，并认为它们构成了他的逻辑著作
 
-1.  *范畴论*
-2.  *论释义*
-3.  *先验分析*
-4.  *《后分析》*
-5.  *主题*
+1. *范畴论*
+2. *论释义*
+3. *先验分析*
+4. *《后分析》*
+5. *主题*
 6. *关于诡辩术 (On Sophistical Refutations)*
 
 事实上，《Organon》这个标题反映了一个更晚的争议，即逻辑是否是哲学的一部分（正如斯多葛派所坚持的那样），还是仅仅是哲学所使用的工具（正如后来的亚里士多德学派所认为的）；称逻辑著作为“工具”是在这一点上选择立场的一种方式。亚里士多德本人从未使用过这个术语，也没有给出这些特定论著构成某种群体的明显迹象，尽管《论题》和《分析》之间经常互相交叉引用。另一方面，亚里士多德将《先分析》和《后分析》视为一部作品，而《论辩术反驳》是《论题》的最后一部分，或者说是附录。这些作品还应包括《修辞学》，它明确表示依赖于《论题》。
@@ -62,7 +61,7 @@
 
 在《论释义》中，亚里士多德认为，一个命题必须始终肯定或否定一个主语的一个谓语。因此，他不承认句子复合体，比如连词和析取词，作为单一命题。这似乎是他的一个有意选择：例如，他认为，一个连词只是一组命题，其内在统一性不比一篇长篇故事中的句子序列更多（例如，整部《伊利亚特》，以亚里士多德自己的例子）。由于他也将否定视为两种基本命题之一，他不将否定视为句子复合体。他对条件句和析取句的处理更难评估，但无论如何，很明显亚里士多德没有努力发展句子逻辑。这对他的演绎理论的一些后果是重要的。
 
-###  4.1 术语
+### 4.1 术语
 
 主张的主语和谓语是术语。术语（horos）可以是个体的，例如苏格拉底，柏拉图，也可以是普遍的，例如人类，马，动物，白色。主语可以是个体的或普遍的，但谓语只能是普遍的：苏格拉底是人类，柏拉图不是马，马是动物，人类不是马。
 
@@ -114,11 +113,11 @@
 | Iab                                                          | a 属于一些 b（一些 b 是 a）     |
 | Oab                                                          | a 不属于所有 b（有些 b 不是 a） |
 
-##  5. 推论论证
+## 5. 推论论证
 
 亚里士多德作为逻辑学家最著名的成就是他的推理理论，传统上被称为三段论（尽管亚里士多德并未这样称呼）。这一理论实际上是一种非常特定类型的推理理论：具有两个前提的推理，每个前提都是一个范畴句，共有一个术语，并且结论是一个范畴句，其术语正好是这两个前提不共享的两个术语。亚里士多德将前提共享的术语称为中项（meson），而前提中的另外两个术语分别称为极端（akron）。中项必须是每个前提的主语或谓语，这可以通过三种方式实现：中项可以是一个前提的主语，另一个前提的谓语，两个前提的谓语，或两个前提的主语。亚里士多德将这些术语排列称为形式（schêmata）：
 
-###  5.1 图表
+### 5.1 图表
 
 | | 第一图 | 第二图 | 第三图 | | --- | --- | --- | --- | --- | --- | --- | | | 谓语 | 主语 | 谓语 | 主语 | 谓语 | 主语 | | 前提 | a | b | a | b | a | c | | 前提 | b | c | a | c | b | c | | 结论 | a | c | b | c | a | b |
 
@@ -241,9 +240,9 @@ Eab→EbaIab→IbaAab→Iba
 
 亚里士多德在对模态三段论的处理上建立在他对非模态（陈述性）三段论的论述之上：他逐步通过他已经证明的三段论，并考虑在一个或两个前提中添加模态修饰的后果。因此，他经常探讨的问题形式是：“这是一个陈述性三段论；如果我在前提中添加这些模态修饰，那么什么样的模态修饰形式的结论（如果有的话）会得出？”。前提可以具有三种模态性质：必然的、可能的或陈述性的。亚里士多德按顺序处理这些组合：
 
-*  两个必要的前提
+* 两个必要的前提
 * 一个必要前提和一个断言前提
-*  两个可能的前提
+* 两个可能的前提
 * 一个断言前提和一个可能前提
 * 一个必要的前提和一个可能的前提
 
@@ -251,7 +250,7 @@ Eab→EbaIab→IbaAab→Iba
 
 由于这是他的程序，方便起见，可以用相应的非情态三段论加上表示前提和结论情态的三个字母来描述情态三段论：N = “必然的”，P = “可能的”，A = “断言的”。因此，“Barbara NAN” 意味着 “带有必然主前提、断言次前提和必然结论的 Barbara 形式”。我也将字母 “N” 和 “P” 作为前缀用于前提；没有前缀的前提是断言的。因此，Barbara NAN 将是 NAab,Abc⊢NAac。
 
-####  5.6.3 情态转换
+#### 5.6.3 情态转换
 
 与陈述三段论的情况类似，亚里士多德利用转换规则来证明有效性。必然前提的转换规则与陈述前提的转换规则完全类似：
 
@@ -298,11 +297,11 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 《后分析学》第一部分的剩余部分主要涉及两个任务：阐明演绎和演绎科学的性质，并回答对其可能性提出的重要挑战。亚里士多德首先告诉我们，演绎是一种前提为：的推论。
 
-1.  真实
-2.  主要的 (prota)
+1. 真实
+2. 主要的 (prota)
 3. 直接 (amesa, “没有中间”)
 4. 比结论更为人熟知或更为熟悉的
-5.  在结论之前
+5. 在结论之前
 6. 结论的原因 (aitia)
 
 除了第一个条件外，所有这些条件的解释都引起了很多争议。亚里士多德明确认为科学是对原因的认识，在演绎中，对前提的认识导致了对结论的认识。第四个条件表明，演绎的认识者必须对它们有更好的认识状态，因此现代解释者经常认为亚里士多德在这里定义了一种认识论上的正当化。然而，正如上文所指出的，亚里士多德正在定义一种特殊类型的知识。因此，与现代认识论中对正当化的讨论相比可能是误导的。
@@ -347,7 +346,7 @@ PAab→PEabPEab→PAabPIab→POabPOab→PIab
 
 请参阅亚里士多德心理学条目的第 7 节，了解更多关于他对心灵看法的内容。
 
-##  7. 定义
+## 7. 定义
 
 定义（horos，horismos）对于柏拉图和早期学院来说是一个重要问题。关注回答“某物是什么？”的问题是柏拉图大部分对话的核心，其中一些（尤其是《辩士篇》）提出了寻找定义的方法。外部来源（有时是喜剧演员的讽刺言论）也反映了学院对定义的关注。亚里士多德本人将寻找定义的追求追溯到苏格拉底。
 
@@ -373,7 +372,7 @@ X 的定义不仅必须本质上是关于它的，而且必须只是关于它的
 
 亚里士多德有时将种类、特有属性、定义和偶然性视为包括所有可能的断言（例如《论题》第一卷）。后来的评论家将这四个概念和区别性质列为五种可断言的范畴，因此它们对晚古代哲学和中世纪哲学具有重要意义（例如波菲利）。
 
-###  7.3 类别
+### 7.3 类别
 
 本质断言的概念与传统上所称的范畴（katêgoriai）有关。一言以蔽之，亚里士多德因坚持“范畴学说”而闻名。这一学说究竟是什么，范畴又是什么，都是相当棘手的问题。它们也很快将我们带出他的逻辑领域，进入他的形而上学领域。在这里，我将尝试给出一个非常一般性的概述，从一个相对简单的问题开始：“有哪些范畴？”
 
@@ -467,11 +466,11 @@ X 的定义不仅必须本质上是关于它的，而且必须只是关于它的
 在分类论证主题中提出的方法依赖于结论中存在某些“共同”术语（koina）-共同之处在于它们不属于任何主题，但可能在关于任何事物的论证中发挥作用。我们发现多次以类似顺序列出涉及这些术语的论证。通常，它们包括：
 
 1. 对立（antikeimena，antitheseis）
-2.  对立物 (enantia)
+2. 对立物 (enantia)
 3. 矛盾（apophaseis）
 4. 拥有与缺乏（hexis kai sterêsis）
-5.  亲属 (pros ti)
-6.  情况 (ptôseis)
+5. 亲属 (pros ti)
+6. 情况 (ptôseis)
 7. “更多与更少以及同样”
 
 四种对立类型最为典型。每种类型指代一种术语对，即两个术语如何相互对立。相反是极端对立或相反的极端，如热和冷，干燥和潮湿，好和坏。矛盾对包括一个术语及其否定：好，不好。拥有（或条件）和缺乏由视力和盲目来说明。亲属是现代意义上的相对术语：一对包括一个术语及其相关的术语，例如大和小，父母和子女。
@@ -480,7 +479,7 @@ X 的定义不仅必须本质上是关于它的，而且必须只是关于它的
 
 在标题更多和更少以及同样的情况下，亚里士多德将一些有些杂乱的论证模式分为一组，这些模式都以某种方式涉及“更多”、“更少”和“同样”这些术语。例如：“如果任何 A 都是 B，那么更多（更少）的 A 就是更多（更少）的 B”；“如果 A 比 C 更可能是 B，而 A 不是 B，那么 C 也不是”；“如果 A 比 B 更可能，而 B 是事实，那么 A 也是事实”。
 
-####  8.2.2 主题 (IGNORE)
+#### 8.2.2 主题 (IGNORE)
 
 在《专题论》的核心是亚里士多德所称的“地点”或“位置”的一系列主题（topoi）。不幸的是，尽管很明显他将大部分《专题论》（第二至第六卷）视为这些主题的集合，但他从未明确定义这个术语。因此，解释者对于什么是地点存在相当大的分歧。有关讨论可见于 Brunschwig 1967，Slomkowski 1996，Primavesi 1997 和 Smith 1997。
 
@@ -572,99 +571,99 @@ X 的定义不仅必须本质上是关于它的，而且必须只是关于它的
 
 ## Bibliography
 
-* Ackrill, J. L., 1961. _Aristotle’s Categories and De Interpretatione_ (Clarendon Aristotle Series),Oxford: Clarendon Press.
+* Ackrill, J. L., 1961. *Aristotle’s Categories and De Interpretatione* (Clarendon Aristotle Series),Oxford: Clarendon Press.
 * Barnes, Jonathan, 1981. “Proof and the Syllogism”, 17–59 in Berti 1981.
-* ––– (trans.), 1994. _Aristotle, Posterior Analytics_ (translation with commentary), 2nd edition, Oxford: Clarendon Press.
-* Becker, Albrecht, 1933. _Die Aristotelische Theorie der Möglichkeitsschlüsse_, Berlin: Junker und Dunnhaupt.
-* Berti, Enrico (ed.), 1981. _Aristotle on Science: The Posterior Analytics_, Padua: Antenore.
-* Bolton, Robert, 1990. “The Epistemological Basis of Aristotelian Dialectic,” 185–236 in D. Devereux and P. Pellegrin (eds.), _Biologie, logique, et metaphysique chez Aristote_, Paris: Editions du CNRS, 1990.
-* Broadie, Sarah \[Waterlow], 1982. _Passage and Possibility_, Oxford: Clarendon Press.
-* Brunschwig, Jacques (ed. & trans.), 1967. _Aristote, Topiques I–IV_, Paris: Les Belles Lettres.
-* –––, 2007. _Aristote, Topiques V–VIII_, Paris: Les Belles Lettres.
-* –––, 1984. 31–40 in “Aristotle on Arguments without Winners or Losers”. _Wissenschaftskolleg – Jahrbuch 1984/85_, Berlin.
+* ––– (trans.), 1994. *Aristotle, Posterior Analytics* (translation with commentary), 2nd edition, Oxford: Clarendon Press.
+* Becker, Albrecht, 1933. *Die Aristotelische Theorie der Möglichkeitsschlüsse*, Berlin: Junker und Dunnhaupt.
+* Berti, Enrico (ed.), 1981. *Aristotle on Science: The Posterior Analytics*, Padua: Antenore.
+* Bolton, Robert, 1990. “The Epistemological Basis of Aristotelian Dialectic,” 185–236 in D. Devereux and P. Pellegrin (eds.), *Biologie, logique, et metaphysique chez Aristote*, Paris: Editions du CNRS, 1990.
+* Broadie, Sarah \[Waterlow], 1982. *Passage and Possibility*, Oxford: Clarendon Press.
+* Brunschwig, Jacques (ed. & trans.), 1967. *Aristote, Topiques I–IV*, Paris: Les Belles Lettres.
+* –––, 2007. *Aristote, Topiques V–VIII*, Paris: Les Belles Lettres.
+* –––, 1984. 31–40 in “Aristotle on Arguments without Winners or Losers”. *Wissenschaftskolleg – Jahrbuch 1984/85*, Berlin.
 * Burnyeat, Myles, 1981. “Aristotle on Understanding Knowledge”, 97–139 in Berti 1981.
-* Bydén, Börje (translator & commentator), 2000. _Aristoteles, De Interpretatione, Om Sofistiska Vederläggningar_, Stockholm: Thales.
-* Clark, Michael, 1980. _The Place of Syllogistic in Logical Theory_, Nottingham: Nottingham University Press.
-* Code, Alan, 1986. “Aristotle’s Investigation of a Basic Logical Principle: Which Science Investigates the Principle of Non-Contradiction?”, _Canadian Journal of Philosophy_, 16: 341–358.
-* Corcoran, John, 1972. “Completeness of an Ancient Logic”, _Journal of Symbolic Logic_, 37: 696–705.
-* –––, 1973. “A Mathematical Model of Aristotle’s Syllogistic”, _Archiv für Geschichte der Philosophie_, 55: 191–219.
-* Cresswell, Max, Adrian Rini, and Edwin Mares (eds.), 2016. _Logical Modalities from Aristotle to Carnap: The Story of Necessity_, Cambridge: Cambridge University Press.
-* Crivelli, Paolo, 2011. “Aristotle on Syllogisms from a Hypothesis”, in Angela Longo (ed.), _Argument from Hypothesis in Ancient Philosophy_, Naples: Bibliopolis, 95–184.
-* Dancy, Russell, 1975. _Sense and Contradiction_, Dordrecht: D. Reidel,
-* Döring, Klaus, 1989. “Gab es eine Dialektische Schule?” _Phronesis_, 34: 293–310.
-* Dorion, Louis-André (tr. & comm.), 1995. _Les Réfutations sophistiques_, Paris: J. Vrin.
-* Duncombe, Matthew, and Catarina Dutilh Novaes, 2016. “Dialectic and Logic in Aristotle and His Tradition.” _History and Philosophy of Logic_, 37: 1–8.
-* Ebbesen, Sten, 1981. _Commentators and Commentaries on Aristotle’s Sophistici Elenchi_, 3 volumes, Leiden: E. J. Brill.
-* Ebert, Theodor, 1985. “Gattungen der Prädikate und Gattungen des Seienden bei Aristoteles: Zum Verhältnis von Kat. 4 und Top. I.9”, _Archiv für Geschichte der Philosophie_, 67: 113–138.
-* –––, 2008. “In Defence of the Dialectical School”, in F. Alesse, et al. (eds.), _Anthropine Sophia_, Naples: Bibliopolis, 275–293.
-* –––, 2015. “What Is a Perfect Syllogismi in Aristotle’s Syllogistic?” _Ancient Philosophy_, 35: 351–374.
-* ––– and Nortmann, Ulrich, 2007. _Aristoteles, Analytica Priora, Buch I_, German translation with commentary, Berlin: Akademie Verlag.
-* Ebrey, David, 2015. “Why Are There No Conditionals in Aristotle’s Logic?” _Journal of the History of Philosophy_, 53: 185–205.
-* Evans, J. D. G., 1977. _Aristotle’s Concept of Dialectic_, Cambridge: Cambridge University Press.
-* Fait, Paolo (tr. & comm.), 2007. _Aristotele, Le confutazione sofistiche_, Rome-Bari: Edizione Laterza.
-* –––, 2013. “The ‘False Validating Premiss’ in Aristotle’s Doctrine of Fallacies. An Interpretation of _Sophistical Refutations_ 8”, in Rapp and Hasper 2013, 238–267.
-* Ferejohn, Michael, 1980. _The Origins of Aristotelian Science_, New Haven: Yale University Press.
-* Frede, Dorothea, 1970. _Aristoteles und die Seeschlacht_, Goettingen.
-* –––, 2012. “The _Endoxon_ Mystique: What _Endoxa_ Are and What They Are Not”, _Oxford Studies in Ancient Philosophy_, 43: 185–215.
-* Frede, Michael, 1974. “Stoic vs. Peripatetic Syllogistic”, _Archiv für Geschichte der Philosophie_, 56 (1): 1–32.
-* –––, 1981. “Categories in Aristotle”, reprinted in M. Frede, _Essays in Ancient Philosophy_, Minneapolis: University of Minnesota Press, 1987, 29–48.
-* Hambruch, Ernst, 1904. _Logische Regeln der Platonischen Schule in der Aristotelischen Topik_, Berlin: Weidemann.
-* Hamlyn, D. W., 1990. “Aristotle on Dialectic”, _Philosophy_, 65: 465–476.
-* Hasper, Pieter Sjoerd, 2013. “Aristotle’s _Sophistical Refutations_. A Translation”, in Rapp and Hasper 2013, 13–53.
-* Hecquet, Myriam (tr. & comm.), 2019. _Aristote, Les réfutations sophistiques_, Paris: Libraire Philosophique J. Vrin.
-* Hintikka, Jaakko, 1973. _Time and Necessity; Studies in Aristotle’s Theory of Modality_, Oxford: Clarendon Press.
-* Ierodiakonou, Katerina, 2002. “Aristotle’s Use of Examples in the _Prior Analytics_”, _Phronesis_, 47: 127–152.
-* Irwin, Terence, 1988. _Aristotle’s First Principles_, Oxford: Clarendon Press.
-* Johnson, Fred, 1994. “Apodictic Syllogisms: Deductions and Decision Procedures”, _History and Philosophy of Logic_, 16: 1–18.
-* Judson, Lindsay, 2019. “Aristotle and Crossing the Boundaries between the Sciences.” _Archiv für Geschichte der Philosophie_, 101: 177–204.
-* Le Blond, J. M., 1939. _Logique et méthode chez Aristote_, Paris: J. Vrin.
-* Lear, Jonathan, 1980. _Aristotle and Logical Theory_, Cambridge University Press.
-* Łukasiewicz, Jan, 1957. _Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic_, second edition, Oxford: Clarendon Press.
-* –––, 1910. _O Zasadzie Sprzecznosci u Arystotelesa. Studium Krytyczne_ \[On the Principle of Contradiction in Aristotle. A Critical Study], Krakow: Polska Akademia Umieijetnosci; English translation as “On the Principle of Contradiction in Aristotle”, M. Wedin (trans.), _Review of Metaphysics_, 24 (1971): 485–509.
-* Leszl, Walter, 2004. “Aristotle’s Logical Works and His Conception of Logic”, _Topoi_, 23: 71–100.
-* Malink, Marko, 2008. “_ΤΩI_ vs. _ΤΩN_ in _Prior Analytics_ 1.1–22”, _Classical Quarterly_, 58: 519–536.
-* –––, 2006. “A Reconstruction of Aristotle’s Modal Syllogistic”, _History and Philosophy of Logic_, 27 (2): 95–141.
-* –––, 2013. _Aristotle’s Modal Syllogistic_, Cambridge, MA: Harvard University Press.
-* –––, 2015. “The Beginnings of Formal Logic: Deduction in Aristotle’s _Topics_ vs. _Prior Analytics_”, _Phronesis_, 60: 267–309.
-* McCall, Storrs, 1963. _Aristotle’s Modal Syllogistic_, Amsterdam: North-Holland.
-* McKirahan, Richard, 1992. _Principles and Proofs_, Princeton: Princeton University Press.
-* Moraux, Paul, 1968. “La joute dialectique d’après le huitième livre des _Topiques_”, in Owen 1968.
-* Morison, Ben, 2008. “What Was Aristotle’s Concept of Logical Form?”, in Morison and Katerina Ierodiakonou (eds.), _Episteme, Etc._ ,Oxford: Oxford University Press, 172–188.
-* Nortmann, Ulrich, 1996. _Modale Syllogismen, mögliche Welten, Essentialismus: eine Analyse der aristotelischen Modallogik_, Berlin: De Gruyter.
-* –––, 2002. “The Logic of Necessity in Aristotle: An Outline of Approaches to the Modal Syllogistic, Together with a General Account of _de dicto_- and _de re_-Necessity”, _History and Philosophy of Logic_, 23: 253–265.
-* Nussbaum, Martha, 1986. _The Fragility of Goodness_, Cambridge: Cambridge University Press.
-* Owen, G. E. L., 1961. “_Tithenai ta phainomena_”, in S. Mansion (ed.), _Aristote et les problèmes de méthode_, Louvain: Presses Universitaires de Louvain.
-* ––– (ed.), 1968. _Aristotle on Dialectic: The Topics_ (Proceedings of the Third Symposium Aristotelicum), Cambridge: Cambridge University Press.
-* Patterson, Richard, 1995. _Aristotle’s Modal Logic: Essence and Entailment in the Organon_, Cambridge: Cambridge University Press.
-* Patzig, Günther, 1969. _Aristotle’s Theory of the Syllogism_, Jonathan Barnes (trans.), Dordrecht: D. Reidel.
-* Peterson, Sandra, 1969. _The Masker Paradox_. Ph. D. Dissertation, Princeton.
-* Primavesi, Oliver, 1996. _Die aristotelische Topik_, Munich: C. H. Beck.
-* Rapp, Christopher, and Pieter Sjoerd Hasper, 2013. _Logical Analysis and History of Philosophy_ 15 (Special Issue: Fallacious Arguments in Ancient Philosophy).
-* Rini, Adriane, 2011. _Aristotle’s Modal Proofs: Prior Analytics A8–22 in Predicate Logic_, Dordrecht: Springer.
-* Ross, W. D. (ed.), 1951. _Aristotle’s Prior and Posterior Analytics_, Oxford: Clarendon Press.
-* Sedley, David, 1977. “Diodorus Cronus and Hellenistic Philosophy” _Proceedings of the Cambridge Philological Society_, 203 NS 23: 74–120.
-* Slomkowski, Paul, 1997. _Aristotle’s Topics_, Leiden: Brill.
-* Smiley, Timothy, 1973. “What Is a Syllogism?”, _Journal of Philosophical Logic_, 2: 136–154.
-* –––, 1994. “Aristotle’s Completeness Proof”, _Ancient Philosophy_, 14 (Special Issue): 25–38.
-* Smith, Robin, 1982. “What Is Aristotelian Ecthesis?” _History and Philosophy of Logic_, 3: 113–127.
-* Smith, Robin (translator & commentator), 1989. _Aristotle’s Prior Analytics_, Indianapolis: Hackett.
-* –––, 1997. _Aristotle, Topics I, VIII, and Selections_ (Clarendon Aristotle Series), Oxford: Clarendon Press.
-* Solmsen, Friedrich, 1929. _Die Entwicklung der aristotelischen Logik und Rhetorik_, Berlin: Weidmann.
-* Stocks, J. L., 1933. “The Composition of Aristotle’s Logical Works.” _Classical Quartely_, 27: 115–124.
-* Striker, Gisela (translator & commentator), 2009. _Aristotle, Prior Analytics I_ (Clarendon Aristotle Series), Gisela Striker (trans.), Oxford: Clarendon Press.
-* Striker, Gisela, 1985. “Notwendigkeit mit Lücken”, _Neue Hefte für Philosophie_, 24/25: 146–164.
-* –––, 1994. “Modal vs. Assertoric Syllogistic”, _Ancient Philosophy_, 14 (Special Issue): 39–51.
-* Swanson, Carrie, 2013. “Aristotle’s Expansion of the Taxonomy of Fallacy in _De Sophisticis Elenchis_ 8”, in Rapp and Hasper 2013, 200–237.
-* –––, 2016. “Begging the Question As a Criticism of an Argument in Itself in _Topics_ 8.11”, _History and Philosophy of Logic_, 37: 33–77.
-* –––, 2017. “Aristotle on Ignorance of the Definition of Refutation”, _Apeiron_, 50: 153–196.
-* Thom, Paul, 1981. _The Syllogism_, Munich: Philosophia Verlag.
-* –––, 1996. _The Logic of Essentialism: An Interpretation of Aristotle’s Modal Syllogistic_, Dordrecht: Kluwer.
-* Thomason, Steven K., 1993. “Semantic Analysis of the Modal Syllogistic”, _Journal of Philosophical Logic_, 22: 111–128.
-* van Rijen, Jeroen, 1989. _Aspects of Aristotle’s Logic of Modalities_, Dordrecht: Reidel.
-* Weidemann, Hermann (translator & commentator), 1994. _Aristoteles, Peri Hermeneias_, Berlin: Akademie Verlag.
-* –––, 2004. “Aristotle on the Reducibility of All Valid Syllogistic Moods to the Two Universal Moods of the First Figure (Apr A7, 29b1–25)”, _History and Philosophy of Logic_, 25: 73–78.
-* Whitaker, C. W. A., 1996. _Aristotle’s De Interpretatione: Contradiction and Dialectic_, Oxford: Clarendon Press.
-* Wedin, Michael V., 1990. “Negation and Quantification in Aristotle”, _History and Philosophy of Logic_, 11 (2): 131–150.
+* Bydén, Börje (translator & commentator), 2000. *Aristoteles, De Interpretatione, Om Sofistiska Vederläggningar*, Stockholm: Thales.
+* Clark, Michael, 1980. *The Place of Syllogistic in Logical Theory*, Nottingham: Nottingham University Press.
+* Code, Alan, 1986. “Aristotle’s Investigation of a Basic Logical Principle: Which Science Investigates the Principle of Non-Contradiction?”, *Canadian Journal of Philosophy*, 16: 341–358.
+* Corcoran, John, 1972. “Completeness of an Ancient Logic”, *Journal of Symbolic Logic*, 37: 696–705.
+* –––, 1973. “A Mathematical Model of Aristotle’s Syllogistic”, *Archiv für Geschichte der Philosophie*, 55: 191–219.
+* Cresswell, Max, Adrian Rini, and Edwin Mares (eds.), 2016. *Logical Modalities from Aristotle to Carnap: The Story of Necessity*, Cambridge: Cambridge University Press.
+* Crivelli, Paolo, 2011. “Aristotle on Syllogisms from a Hypothesis”, in Angela Longo (ed.), *Argument from Hypothesis in Ancient Philosophy*, Naples: Bibliopolis, 95–184.
+* Dancy, Russell, 1975. *Sense and Contradiction*, Dordrecht: D. Reidel,
+* Döring, Klaus, 1989. “Gab es eine Dialektische Schule?” *Phronesis*, 34: 293–310.
+* Dorion, Louis-André (tr. & comm.), 1995. *Les Réfutations sophistiques*, Paris: J. Vrin.
+* Duncombe, Matthew, and Catarina Dutilh Novaes, 2016. “Dialectic and Logic in Aristotle and His Tradition.” *History and Philosophy of Logic*, 37: 1–8.
+* Ebbesen, Sten, 1981. *Commentators and Commentaries on Aristotle’s Sophistici Elenchi*, 3 volumes, Leiden: E. J. Brill.
+* Ebert, Theodor, 1985. “Gattungen der Prädikate und Gattungen des Seienden bei Aristoteles: Zum Verhältnis von Kat. 4 und Top. I.9”, *Archiv für Geschichte der Philosophie*, 67: 113–138.
+* –––, 2008. “In Defence of the Dialectical School”, in F. Alesse, et al. (eds.), *Anthropine Sophia*, Naples: Bibliopolis, 275–293.
+* –––, 2015. “What Is a Perfect Syllogismi in Aristotle’s Syllogistic?” *Ancient Philosophy*, 35: 351–374.
+* ––– and Nortmann, Ulrich, 2007. *Aristoteles, Analytica Priora, Buch I*, German translation with commentary, Berlin: Akademie Verlag.
+* Ebrey, David, 2015. “Why Are There No Conditionals in Aristotle’s Logic?” *Journal of the History of Philosophy*, 53: 185–205.
+* Evans, J. D. G., 1977. *Aristotle’s Concept of Dialectic*, Cambridge: Cambridge University Press.
+* Fait, Paolo (tr. & comm.), 2007. *Aristotele, Le confutazione sofistiche*, Rome-Bari: Edizione Laterza.
+* –––, 2013. “The ‘False Validating Premiss’ in Aristotle’s Doctrine of Fallacies. An Interpretation of *Sophistical Refutations* 8”, in Rapp and Hasper 2013, 238–267.
+* Ferejohn, Michael, 1980. *The Origins of Aristotelian Science*, New Haven: Yale University Press.
+* Frede, Dorothea, 1970. *Aristoteles und die Seeschlacht*, Goettingen.
+* –––, 2012. “The *Endoxon* Mystique: What *Endoxa* Are and What They Are Not”, *Oxford Studies in Ancient Philosophy*, 43: 185–215.
+* Frede, Michael, 1974. “Stoic vs. Peripatetic Syllogistic”, *Archiv für Geschichte der Philosophie*, 56 (1): 1–32.
+* –––, 1981. “Categories in Aristotle”, reprinted in M. Frede, *Essays in Ancient Philosophy*, Minneapolis: University of Minnesota Press, 1987, 29–48.
+* Hambruch, Ernst, 1904. *Logische Regeln der Platonischen Schule in der Aristotelischen Topik*, Berlin: Weidemann.
+* Hamlyn, D. W., 1990. “Aristotle on Dialectic”, *Philosophy*, 65: 465–476.
+* Hasper, Pieter Sjoerd, 2013. “Aristotle’s *Sophistical Refutations*. A Translation”, in Rapp and Hasper 2013, 13–53.
+* Hecquet, Myriam (tr. & comm.), 2019. *Aristote, Les réfutations sophistiques*, Paris: Libraire Philosophique J. Vrin.
+* Hintikka, Jaakko, 1973. *Time and Necessity; Studies in Aristotle’s Theory of Modality*, Oxford: Clarendon Press.
+* Ierodiakonou, Katerina, 2002. “Aristotle’s Use of Examples in the *Prior Analytics*”, *Phronesis*, 47: 127–152.
+* Irwin, Terence, 1988. *Aristotle’s First Principles*, Oxford: Clarendon Press.
+* Johnson, Fred, 1994. “Apodictic Syllogisms: Deductions and Decision Procedures”, *History and Philosophy of Logic*, 16: 1–18.
+* Judson, Lindsay, 2019. “Aristotle and Crossing the Boundaries between the Sciences.” *Archiv für Geschichte der Philosophie*, 101: 177–204.
+* Le Blond, J. M., 1939. *Logique et méthode chez Aristote*, Paris: J. Vrin.
+* Lear, Jonathan, 1980. *Aristotle and Logical Theory*, Cambridge University Press.
+* Łukasiewicz, Jan, 1957. *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, second edition, Oxford: Clarendon Press.
+* –––, 1910. *O Zasadzie Sprzecznosci u Arystotelesa. Studium Krytyczne* \[On the Principle of Contradiction in Aristotle. A Critical Study], Krakow: Polska Akademia Umieijetnosci; English translation as “On the Principle of Contradiction in Aristotle”, M. Wedin (trans.), *Review of Metaphysics*, 24 (1971): 485–509.
+* Leszl, Walter, 2004. “Aristotle’s Logical Works and His Conception of Logic”, *Topoi*, 23: 71–100.
+* Malink, Marko, 2008. “*ΤΩI* vs. *ΤΩN* in *Prior Analytics* 1.1–22”, *Classical Quarterly*, 58: 519–536.
+* –––, 2006. “A Reconstruction of Aristotle’s Modal Syllogistic”, *History and Philosophy of Logic*, 27 (2): 95–141.
+* –––, 2013. *Aristotle’s Modal Syllogistic*, Cambridge, MA: Harvard University Press.
+* –––, 2015. “The Beginnings of Formal Logic: Deduction in Aristotle’s *Topics* vs. *Prior Analytics*”, *Phronesis*, 60: 267–309.
+* McCall, Storrs, 1963. *Aristotle’s Modal Syllogistic*, Amsterdam: North-Holland.
+* McKirahan, Richard, 1992. *Principles and Proofs*, Princeton: Princeton University Press.
+* Moraux, Paul, 1968. “La joute dialectique d’après le huitième livre des *Topiques*”, in Owen 1968.
+* Morison, Ben, 2008. “What Was Aristotle’s Concept of Logical Form?”, in Morison and Katerina Ierodiakonou (eds.), *Episteme, Etc.* ,Oxford: Oxford University Press, 172–188.
+* Nortmann, Ulrich, 1996. *Modale Syllogismen, mögliche Welten, Essentialismus: eine Analyse der aristotelischen Modallogik*, Berlin: De Gruyter.
+* –––, 2002. “The Logic of Necessity in Aristotle: An Outline of Approaches to the Modal Syllogistic, Together with a General Account of *de dicto*- and *de re*-Necessity”, *History and Philosophy of Logic*, 23: 253–265.
+* Nussbaum, Martha, 1986. *The Fragility of Goodness*, Cambridge: Cambridge University Press.
+* Owen, G. E. L., 1961. “*Tithenai ta phainomena*”, in S. Mansion (ed.), *Aristote et les problèmes de méthode*, Louvain: Presses Universitaires de Louvain.
+* ––– (ed.), 1968. *Aristotle on Dialectic: The Topics* (Proceedings of the Third Symposium Aristotelicum), Cambridge: Cambridge University Press.
+* Patterson, Richard, 1995. *Aristotle’s Modal Logic: Essence and Entailment in the Organon*, Cambridge: Cambridge University Press.
+* Patzig, Günther, 1969. *Aristotle’s Theory of the Syllogism*, Jonathan Barnes (trans.), Dordrecht: D. Reidel.
+* Peterson, Sandra, 1969. *The Masker Paradox*. Ph. D. Dissertation, Princeton.
+* Primavesi, Oliver, 1996. *Die aristotelische Topik*, Munich: C. H. Beck.
+* Rapp, Christopher, and Pieter Sjoerd Hasper, 2013. *Logical Analysis and History of Philosophy* 15 (Special Issue: Fallacious Arguments in Ancient Philosophy).
+* Rini, Adriane, 2011. *Aristotle’s Modal Proofs: Prior Analytics A8–22 in Predicate Logic*, Dordrecht: Springer.
+* Ross, W. D. (ed.), 1951. *Aristotle’s Prior and Posterior Analytics*, Oxford: Clarendon Press.
+* Sedley, David, 1977. “Diodorus Cronus and Hellenistic Philosophy” *Proceedings of the Cambridge Philological Society*, 203 NS 23: 74–120.
+* Slomkowski, Paul, 1997. *Aristotle’s Topics*, Leiden: Brill.
+* Smiley, Timothy, 1973. “What Is a Syllogism?”, *Journal of Philosophical Logic*, 2: 136–154.
+* –––, 1994. “Aristotle’s Completeness Proof”, *Ancient Philosophy*, 14 (Special Issue): 25–38.
+* Smith, Robin, 1982. “What Is Aristotelian Ecthesis?” *History and Philosophy of Logic*, 3: 113–127.
+* Smith, Robin (translator & commentator), 1989. *Aristotle’s Prior Analytics*, Indianapolis: Hackett.
+* –––, 1997. *Aristotle, Topics I, VIII, and Selections* (Clarendon Aristotle Series), Oxford: Clarendon Press.
+* Solmsen, Friedrich, 1929. *Die Entwicklung der aristotelischen Logik und Rhetorik*, Berlin: Weidmann.
+* Stocks, J. L., 1933. “The Composition of Aristotle’s Logical Works.” *Classical Quartely*, 27: 115–124.
+* Striker, Gisela (translator & commentator), 2009. *Aristotle, Prior Analytics I* (Clarendon Aristotle Series), Gisela Striker (trans.), Oxford: Clarendon Press.
+* Striker, Gisela, 1985. “Notwendigkeit mit Lücken”, *Neue Hefte für Philosophie*, 24/25: 146–164.
+* –––, 1994. “Modal vs. Assertoric Syllogistic”, *Ancient Philosophy*, 14 (Special Issue): 39–51.
+* Swanson, Carrie, 2013. “Aristotle’s Expansion of the Taxonomy of Fallacy in *De Sophisticis Elenchis* 8”, in Rapp and Hasper 2013, 200–237.
+* –––, 2016. “Begging the Question As a Criticism of an Argument in Itself in *Topics* 8.11”, *History and Philosophy of Logic*, 37: 33–77.
+* –––, 2017. “Aristotle on Ignorance of the Definition of Refutation”, *Apeiron*, 50: 153–196.
+* Thom, Paul, 1981. *The Syllogism*, Munich: Philosophia Verlag.
+* –––, 1996. *The Logic of Essentialism: An Interpretation of Aristotle’s Modal Syllogistic*, Dordrecht: Kluwer.
+* Thomason, Steven K., 1993. “Semantic Analysis of the Modal Syllogistic”, *Journal of Philosophical Logic*, 22: 111–128.
+* van Rijen, Jeroen, 1989. *Aspects of Aristotle’s Logic of Modalities*, Dordrecht: Reidel.
+* Weidemann, Hermann (translator & commentator), 1994. *Aristoteles, Peri Hermeneias*, Berlin: Akademie Verlag.
+* –––, 2004. “Aristotle on the Reducibility of All Valid Syllogistic Moods to the Two Universal Moods of the First Figure (Apr A7, 29b1–25)”, *History and Philosophy of Logic*, 25: 73–78.
+* Whitaker, C. W. A., 1996. *Aristotle’s De Interpretatione: Contradiction and Dialectic*, Oxford: Clarendon Press.
+* Wedin, Michael V., 1990. “Negation and Quantification in Aristotle”, *History and Philosophy of Logic*, 11 (2): 131–150.
 
 ## Academic Tools
 
@@ -687,4 +686,4 @@ X 的定义不仅必须本质上是关于它的，而且必须只是关于它的
 I am indebted to Alan Code, Marc Cohen, and Theodor Ebert for helpful criticisms of earlier versions of this article. I thank Franz Fritsche, Nikolai Biryukov, Ralph E. Kenyon, Johann Dirry, Ben Greenberg, Hasan Masoud, Marc Michael Hämmerling, James Whitely, and edward@logicmuseum.com for calling my attention to errors.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Robin Smith](http://philosophy.tamu.edu/html/bio-Smith.html) <[_rasmith@tamu.edu_](mailto:rasmith%40tamu%2eedu)>
+[Robin Smith](http://philosophy.tamu.edu/html/bio-Smith.html) <[*rasmith@tamu.edu*](mailto:rasmith%40tamu%2eedu)>

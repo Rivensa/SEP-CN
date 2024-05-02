@@ -1,14 +1,12 @@
 # 女性主义对跨性别议题的观点 perspectives on trans issues (Talia Bettcher)
 
-_首次发表于 2009 年 9 月 26 日星期六；实质性修订于 2014 年 1 月 8 日星期三_
+*首次发表于 2009 年 9 月 26 日星期六；实质性修订于 2014 年 1 月 8 日星期三*
 
 女性主义与跨性别理论和政治之间的关系令人意外地紧张。本文的目标是概述交叉点上的一些关键哲学问题，只有通过关注女性主义和跨性别政治在美国的历史发展才能实现这一目标。“跨性别”作为一种政治和“跨性别研究”作为“酷儿研究”的孪生体（Stryker 2004）于 1990 年代初出现，这种出现与女性主义以及酷儿理论和政治交织在一起。（这些术语将在下文中解释。）因此，本文将按照大致的时间顺序进行。
 
 一个主要的哲学主题集涉及自我及其与性别身体和性别之间关系的竞争概念。(生物性别通常与性别区分开来，后者被视为基于性别而分配的文化角色)。自我是否优先于性别认同的建立？性别是运行性别程序的“硬件”，还是性别本身完全是文化的？如果自我不可避免地沉浸在文化性别中，如何才能抵抗性别压迫？此外，这些问题的答案应如何影响女性主义政治和理论？它们应如何影响跨性别政治和理论？
 
 一个相关的主题集涉及在制定性别压迫理论和抵抗策略时所面临的政治和哲学困难：如果跨性别者作为跨性别者受到压迫，女性作为女性受到压迫，那么似乎我们需要至少两种不同性别压迫的解释。这两种不同的模式是否导致彼此不可避免地对立的政治？如果是这样，那么我们如何才能容纳那些作为女性和跨性别者受到压迫的个体？非跨性别女性主义者和跨性别活动家之间的联盟如何可能？共同点在哪里？紧张关系在哪里？
-
-
 
 ***
 
@@ -234,7 +232,7 @@ Halberstam 声称，在“性别转变”的情况下进行外科手术有助于
 
 在普罗瑟看来，跨性别叙事是由一种感觉驱动的，即在自己的身体中感到不自在，通过手术改变的旅程，最终达到回归自我的归宿（和自己的身体）（1995 年，490 页）。从这个角度来看，身体和身体上的不适构成了“深度”或“现实”，与通过表现性别行为使其成为性别认同的容器的观点形成对比。基于此，普罗瑟得出结论，即酷儿理论利用跨性别者来削弱性别仅仅是表演的观点未能充分体现叙事和归属感在跨性别身份中的重要性。
 
-Drawing on Feinberg's _Stone Butch Blues_, Prosser argues that transgender (construed as a departure from traditional transsexuality) likewise involves a narrative structure. In this case, however, the narrative involves making a home of the in-between space between man and woman (1995, 500). Since, however, it involves more than mere performance (i.e., dysphoria concerning one's body) as well as the centrality of narrative, it ought to be distinguished from generic understandings of queer. He later alters his view slightly, placing transgender in a liminal space between queer and transsexual, admitting far more ambivalence around the notion of home and belonging (1998, 177).
+Drawing on Feinberg's *Stone Butch Blues*, Prosser argues that transgender (construed as a departure from traditional transsexuality) likewise involves a narrative structure. In this case, however, the narrative involves making a home of the in-between space between man and woman (1995, 500). Since, however, it involves more than mere performance (i.e., dysphoria concerning one's body) as well as the centrality of narrative, it ought to be distinguished from generic understandings of queer. He later alters his view slightly, placing transgender in a liminal space between queer and transsexual, admitting far more ambivalence around the notion of home and belonging (1998, 177).
 
 Prosser 强调叙事在跨性别者身份中的重要性可能是正确的，然而，他能否保持他希望在跨性别、变性和酷儿之间划清的界限并不明显。身份的叙事结构（以及家园和归属感的概念）对许多人（包括自认为酷儿的人）可能很重要。而对于 Prosser 来说，变性/跨性别叙事的独特之处在于它们涉及一种身体不归属感，但并不清楚为什么这种症状不会出现在非跨性别认同的人群中。此外，他的观点似乎默认了对于跨性别者来说总是有一个“家”的观点可以返回（或者至少想象）。然而，这就假定了跨性别者有办法找到这种归属感（在他们的身体等方面）。然而，考虑到经济现实，这一点远非明显。事实上，考虑到语言资源的匮乏，甚至无法解释跨性别经历，很难想象在某些情况下如何构建一个虚拟的家。
 
@@ -370,95 +368,95 @@ Talia Mae Bettcher (2012a; 2013; 2014) 反对传统的错误身体论述跨性�
 
 ## Bibliography
 
-* Anzaldúa, Gloria, 1987, _Borderlands/la frontera: The new mestiza_, San Francisco: Spinsters/Aunt Lute.
-* Benjamin, Harry, 1966, _The transsexual phenomenon_, New York: Julian Press.
-* Bettcher, Talia Mae, 2006a, “Understanding transphobia: Authenticity and sexual abuse”, in _Trans/Forming feminisms: Transfeminist voices speak out_, (ed.) Krista Scott-Dixon, Toronto: Sumach Press, 203–10.
-* –––, 2006b, “Appearance, reality, and gender deception: Reflections on transphobic violence and the politics of pretence”, in _Violence, victims, and justifications_, Felix Murchadha (ed.), New York Peter Lang Press, 174–200.
-* –––, 2007, “Evil deceivers and make-believers: Transphobic violence and the politics of illusion”, _Hypatia: A Journal of Feminist Philosophy_, 22 (3): 43–65.
-* –––, 2009, “Trans identities and first-person authority”, in _You've changed: Sex reassignment and personal identity_, Laurie Shrage (ed.), Oxford: Oxford University Press, 98–120.
-* –––, 2012a, “Trans women and the meaning of ‘woman'”, in _Philosophy of sex: Contemporary readings (sixth edition)_, Nicholas Power, Raja Halwani, Alan Soble eds.),New York: Rowan & Littlefield, 233–250.
-* –––, 2012b, “Full-frontal morality: The naked truth about gender”, _Hypatia: A Journal of Feminist Philosophy_, 27 (2): 319–337.
-* –––, 2013, “Trans women and ‘interpretive intimacy’: Some initial reflections”, in _The essential handbook of women's sexuality_ (volume two), Donna Marie Castañeda (ed.), Santa Barbara: Praeger, 51–68.
-* –––, 2014, “Trapped in the wrong theory: Re-Thinking trans oppression and resistance”, _Signs: Journal of Women in Culture and Society_, 39 (2): 43–65.
-* Bettcher, Talia Mae and Ann Garry, 2009, _Transgender studies and feminism: Theory, politics, and gender realities_(special issue), _Hypatia: A Journal of Feminist Philosophy_, 24 (3).
-* Bornstein, Kate, 1994, _Gender outlaw: On men, women, and the rest of us_, New York: Routledge.
-* Butler, Judith, 1990, _Gender trouble: Feminism and the subversion of identity_, New York: Routledge.
-* –––, 1991, “Imitation and gender insubordination”, in _Inside/Out: Lesbian theories, gay theories_, (ed.) Diana Fuss, New York: Routledge, pp. 13–31.
-* –––, 1993, _Bodies that matter: On the discursive limits of sex_, New York: Routledge.
-* –––, 2004, _Undoing gender_, New York: Routledge.
-* Califia, Patrick, 1997, _Sex changes: Transgender politics_, San Francisco: Cleis Press.
-* Combahee River Collective, 1981, “A Black feminist statement”, in _This bridge called my back: Writing by radical Women of Color_, Cherríe Moraga and Gloria Anzaldúa (eds.), New York: Kitchen Table, 210–218.
-* Conn, Canary, 1974, _Canary: The story of a transsexual_, Los Angeles: Nash.
-* Currah, Paisley, Lisa Jean Moore and Susan Stryker, 2008, _Trans-_ (special issue), _Women's Studies Quarterly_, 36 (3 & 4).
-* Daly, Mary, 1978, _Gyn/Ecology: The metaethics of radical feminism_, Boston: Beacon Press.
-* Ellis, Havelock, 1943, _Studies in the psychology of sex_, 2 vols., New York: Random House.
-* Enke, Anne (ed.), 2012, _Transfeminist perspectives in and beyond transgender and gender studies_, Philadelphia: Temple University Press.
-* Feinberg, Leslie, 1992, _Transgender liberation: A movement whose time has come_, New York: World View Forum.
-* –––, 1993, _Stone butch blues: A novel_, Los Angeles: Alyson Books.
-* –––, 1996, _Transgender warriors: Making history from Joan of Arc to Dennis Rodham_, Boston: Beacon Press.
-* –––, 1998, _Trans liberation: Beyond pink or blue_, Boston: Beacon Press.
-* Frye, Marilyn, 1983, “In and out of harm's way”, in _The politics of reality: Essays in feminist theory_, Berkeley: The Crossing Press, 52–83.
-* Garfinkel, Harold, 1967, _Studies in ethnomethodology_, Oxford: Polity Press.
-* Greenson, Ralph R., 1964, “On homosexuality and gender identity”, _International Journal of Psycho-Analysis_, 45: 217.
-* Halberstam, Judith, 1994, “F2M: The making of female masculinity”, in _The lesbian postmodern_, Laura Doan (ed.), New York: Columbia University Press, 210–28.
-* –––, 1998a, “Transgender butch”, _GLQ: A Journal of Lesbian and Gay Studies_, 4 (2): 287–310.
-* –––, 1998b, _Female masculinity_, Durham: Duke University Press.
-* Halberstam, Judith and C. Jacob Hale, 1998, “Butch/Ftm border wars: A note on collaboration”, _GLQ: A Journal of Lesbian and Gay studies_, 4 (2): 283–5.
-* Hale, C. Jacob, 1996, “Are lesbians women?”, _Hypatia: A Journal of Feminist Philosophy_, 11 (2): 94–121.
-* –––, 1998a, “Consuming the living, Dis(re)membering the dead in the butch/Ftm Borderlands”, _GLQ: A Journal of Lesbian and Gay Studies_, 4 (2): 311–348.
-* –––, 1998b, “Tracing a ghostly memory in my throat: Reflections on Ftm feminist voice and agency”, in _Men doing feminism_, T. Digby (ed.), New York: Routledge, 99–129.
-* Haraway, Donna. J., 1991, “A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century”, in _Simians, cyborgs, and women: The reinvention of nature_, New York: Routledge, pp. 149–182.
-* Hausman, Bernice, 1995, _Changing sex: Transsexualism, technology, and the idea of gender_, Durham, N.C., Duke University Press.
-* Heyes, Cressida, 2000, _Line drawings: Defining women through feminist practice_, Ithaca: Cornell University Press.
-* –––, 2003, “Feminist solidarity after queer theory: The case of transgender”, _Signs: Journal of Women in Culture and Society_, 28 (4): 1093–1120.
-* –––, 2006, “Changing race, changing sex: The ethics of self-transformation”, _Journal of Social Philosophy_, 37 (2): 266–282.
-* Hirshfeld, Magnus, 1991, _Transvestites: The erotic drive to cross-dress_, (trans) Michael A. Lombardi-Nash, Buffalo: Prometheus Books.
-* hooks, bell, 1992, “Is Paris burning?” In _Black looks: Race and representation_, Boston: South End Press, pp. 145–156.
-* Jeffreys, Sheila, 2003, _Unpacking queer politics_, Cambridge: Polity Press.
-* Kessler, Suzanne and W. McKenna, 1978, _Gender: An ethnomethodological approach._ New York: John Wiley and Sons.
-* Koyama, Emi. 2003, “The transfeminist manifesto”, in _Catching a wave: Reclaiming feminism for the 21st century_, Rory Dicker and Alison Piepmeier (eds.), Boston: Northeastern University Press, pp. 244–259.
-* –––, 2006, “Whose feminism is it anyway? The unspoken racism of the trans inclusion debate”, in _The transgender studies reader_, S. Stryker and S. Whittle (eds.), New York: Routledge, pp. 698–705.
-* Krafft-Ebing, Richard von, 1965, _Psychopathia sexualis with especial reference to the antipathic sexual instinct: A medico-forensic study_, translated from the Twelfth German Edition with Introduction by Franklin S. Klaf, New York: Stein and Day.
-* Lugones, María, 1987, “Playfulness, ‘world’-travelling, and loving perception”, _Hypatia: A Journal of Feminist Philosophy_, 2: 3–19.
-* –––, 1990, “Structure/antistructure and agency under oppression”, _Journal of Philosophy_, 87 (10): 500–507.
-* Martino, Mario, 1977, _Emergence_ with harriet, New York: Crown Publishers.
-* Meyerowitz, Joanne, 2002, _How sex changed: A history of transsexuality in the United States_, Cambridge, MA: Harvard University Press.
-* Minkowitz, Donna, 1994, “Love hurts. Brandon Teena was a woman who lived and loved as a man. She was killed for carrying it off”, _Village Voice_ 19 April, 24–30.
-* Money, John, 1955, “Hermaphroditism, gender, and precocity in hyperadrenocorticism: Psychological findings”, _Bulletin of the Johns Hopkins Hospital_, 96: 254, 258.
-* Money, John; Joan G. Hampson, John L. Hampson, 1955, “Hermaphroditism: Recommendations concerning assignment of sex, change of sex, and psychologic management”, _Bulletin of the John Hopkins Hospital_, 97: 284.
-* –––, 1955, “An examination of some basic sexual concepts: The evidence of human hermaphroditism”, _Bulletin of the John Hopkins Hospital_, 97: 301–19.
-* –––, 1956, “Sexual incongruities and psychopathology: The evidence of human hermaphroditism”, _Bulletin of the John Hopkins Hospital_, 98: 43–57.
-* –––, 1957 “Emprinting and the establishment of gender role”, _American Medical Association Archives of Neurology and Psychiatry_, 77: 333–336.
-* Money, John and Ehrhardt, Anke, 1972, _Man & woman, boy and girl_, Baltimore: Johns Hopkins University Press.
-* Morgan, Robin, 1977, _Going too far: The personal chronicle of a feminist_, New York: Random House.
-* Morris, Jan, 1974, _Conundrum_, New York: Harcourt Brace Jovanich.
-* Namaste, Viviane, K., 2000, “‘Tragic Misreadings’: Queer theory's erasure of transgender subjectivity” in V. Namaste _Invisible lives: The erasure of transsexual and transgendered people_, Chicago: University of Chicago Press, 9–23. Originally by K. Namaste in _Queer studies: A lesbian, gay, bisexual, and transgender anthology_, Brett Beemyn and Mickey Eliason (eds.), New York: New York University Press, 1996, 183–206.
-* –––, 2005, “Against transgender rights: Understanding the imperialism of contemporary transgender politics”, in _Sex change, social change: Reflections on identity, institutions, and imperialism_, Toronto: Women's Press. pp. 103–126.
-* Overall, Christine, 2004, “Transsexualism and ‘transracialism’”, _Social Philosophy Today_, 20 (3): 184 and 185.
-* –––, 2009, “Sex/gender transitions and life-changing aspirations”, in _You've changed: Sex reassignment and personal identity_, Laurie Shrage (ed.), Oxford: Oxford University Press, 11–27.
-* –––, 2012, “Trans persons, cisgender persons, and gender identities”, in _Philosophy of sex: Contemporary readings (sixth edition)_, Nicholas Power, Raja Halwani, Alan Soble eds.),New York: Rowan & Littlefield, 251–267.
-* Prosser, Jay, 1995, “No place like home: The transgendered narrative of Leslie Feinberg's _Stone butch blues_ ”, _Modern fiction studies_, 41 (3): 483–514.
-* –––, 1997, “Transgender”, in _Lesbian and gay studies: A critical introduction_, Andy Medhurst and Sally R. Munt (eds.), London: Cassell, pp. 309–326.
-* –––, 1998, _Second skins: The body narratives of transsexuality_, New York: Columbia University Press.
-* Radicalesbians, 1988, “The woman identified woman”, in _For lesbians only: A separatist anthology_, Sarah Hoagland and Julia Penelope (eds.). London: Onlywomen, 17–21.
-* Raymond, Janice, 1979, _The transsexual empire: The making of the she-male_, Boston: Beacon Press.
-* –––, 1994, _The transsexual empire: The making of the she-male_, re-issued with a new introduction on transgender, New York: Teachers College Press.
-* Riddell, Carol, 2006, “A divided sisterhood: A critical review of Janice Raymond's _The transsexual empire_”, in _The transgender studies reader_, Susan Stryker and Stephen Whittle (eds.), New York: Routledge, pp. 144–158.
-* Rubin, Henry, 2003, _Self-made men: Identity and embodiment among transsexual men_, Nashville, TN: Vanderbilt University Press.
-* Salamon, Gayle, 2010, _Assuming a body: Transgender and rhetorics of materiality_, New York: Columbia University Press.
-* Scheman, Naomi, 1996, “Queering the center by centering the queer: Reflections on transsexuals and secular Jews”, in _Feminists rethink the self_, Diana Tietjens Meyers (ed.), Boulder, CO: Westview Press, pp. 124–162.
-* Schilder, Paul, 1950, _The image and appearance of the human body_, New York: John Wiley & Sons.
-* Scott-Dixon, Krista, 2006, _Trans/forming feminisms: Trans-feminist voices speak out_, Toronto: Sumach Press.
-* Serano, Julia, 2007, _Whipping girl: A transsexual woman on sexism and the scapegoating of femininity_, Emeryville, CA: Seal Press.
-* Shrage, Laurie, 2009, _You've changed: Sex reassignment and personal identity_, Oxford: Oxford University Press.
-* Stoller, Robert J., 1964, “A contribution to the study of gender identity”, _International Journal of Psycho-Analysis_, 45: 220.
-* Stone, Sandy, 1991, “The _Empire_ strikes back: A posttransexual manifesto”, in _Body guards: The cultural politics of gender ambiguity_, Julia Epstein and Kristina Straub (eds.), New York: Routledge, pp. 280–304.
-* Stryker, Susan, 1994, “My words to Victor Frankenstein above the village of Chamounix: Performing transgender rage”, _GLQ: A Journal of gay and lesbian studies_, 1 (3): 237–54.
-* –––, 2004, “Transgender studies: Queer theory's evil twin”, _GLQ: A journal of lesbian and gay studies_, 10 (2): 212–215.
-* –––, 2008, _Transgender history_, Berkeley: Seal Press.
-* Stryker, Susan and Aren Z. Aizura (eds.), 2013, _The transgender studies reader 2_, New York: Routledge.
-* Stryker, Susan and Stephen Whittle (eds.), 2006, _The transgender studies reader_, New York: Routledge.
-* Wittig, Monique, 1992, _The straight mind and other essays_, Boston: Beacon Press.
+* Anzaldúa, Gloria, 1987, *Borderlands/la frontera: The new mestiza*, San Francisco: Spinsters/Aunt Lute.
+* Benjamin, Harry, 1966, *The transsexual phenomenon*, New York: Julian Press.
+* Bettcher, Talia Mae, 2006a, “Understanding transphobia: Authenticity and sexual abuse”, in *Trans/Forming feminisms: Transfeminist voices speak out*, (ed.) Krista Scott-Dixon, Toronto: Sumach Press, 203–10.
+* –––, 2006b, “Appearance, reality, and gender deception: Reflections on transphobic violence and the politics of pretence”, in *Violence, victims, and justifications*, Felix Murchadha (ed.), New York Peter Lang Press, 174–200.
+* –––, 2007, “Evil deceivers and make-believers: Transphobic violence and the politics of illusion”, *Hypatia: A Journal of Feminist Philosophy*, 22 (3): 43–65.
+* –––, 2009, “Trans identities and first-person authority”, in *You've changed: Sex reassignment and personal identity*, Laurie Shrage (ed.), Oxford: Oxford University Press, 98–120.
+* –––, 2012a, “Trans women and the meaning of ‘woman'”, in *Philosophy of sex: Contemporary readings (sixth edition)*, Nicholas Power, Raja Halwani, Alan Soble eds.),New York: Rowan & Littlefield, 233–250.
+* –––, 2012b, “Full-frontal morality: The naked truth about gender”, *Hypatia: A Journal of Feminist Philosophy*, 27 (2): 319–337.
+* –––, 2013, “Trans women and ‘interpretive intimacy’: Some initial reflections”, in *The essential handbook of women's sexuality* (volume two), Donna Marie Castañeda (ed.), Santa Barbara: Praeger, 51–68.
+* –––, 2014, “Trapped in the wrong theory: Re-Thinking trans oppression and resistance”, *Signs: Journal of Women in Culture and Society*, 39 (2): 43–65.
+* Bettcher, Talia Mae and Ann Garry, 2009, *Transgender studies and feminism: Theory, politics, and gender realities*(special issue), *Hypatia: A Journal of Feminist Philosophy*, 24 (3).
+* Bornstein, Kate, 1994, *Gender outlaw: On men, women, and the rest of us*, New York: Routledge.
+* Butler, Judith, 1990, *Gender trouble: Feminism and the subversion of identity*, New York: Routledge.
+* –––, 1991, “Imitation and gender insubordination”, in *Inside/Out: Lesbian theories, gay theories*, (ed.) Diana Fuss, New York: Routledge, pp. 13–31.
+* –––, 1993, *Bodies that matter: On the discursive limits of sex*, New York: Routledge.
+* –––, 2004, *Undoing gender*, New York: Routledge.
+* Califia, Patrick, 1997, *Sex changes: Transgender politics*, San Francisco: Cleis Press.
+* Combahee River Collective, 1981, “A Black feminist statement”, in *This bridge called my back: Writing by radical Women of Color*, Cherríe Moraga and Gloria Anzaldúa (eds.), New York: Kitchen Table, 210–218.
+* Conn, Canary, 1974, *Canary: The story of a transsexual*, Los Angeles: Nash.
+* Currah, Paisley, Lisa Jean Moore and Susan Stryker, 2008, *Trans-* (special issue), *Women's Studies Quarterly*, 36 (3 & 4).
+* Daly, Mary, 1978, *Gyn/Ecology: The metaethics of radical feminism*, Boston: Beacon Press.
+* Ellis, Havelock, 1943, *Studies in the psychology of sex*, 2 vols., New York: Random House.
+* Enke, Anne (ed.), 2012, *Transfeminist perspectives in and beyond transgender and gender studies*, Philadelphia: Temple University Press.
+* Feinberg, Leslie, 1992, *Transgender liberation: A movement whose time has come*, New York: World View Forum.
+* –––, 1993, *Stone butch blues: A novel*, Los Angeles: Alyson Books.
+* –––, 1996, *Transgender warriors: Making history from Joan of Arc to Dennis Rodham*, Boston: Beacon Press.
+* –––, 1998, *Trans liberation: Beyond pink or blue*, Boston: Beacon Press.
+* Frye, Marilyn, 1983, “In and out of harm's way”, in *The politics of reality: Essays in feminist theory*, Berkeley: The Crossing Press, 52–83.
+* Garfinkel, Harold, 1967, *Studies in ethnomethodology*, Oxford: Polity Press.
+* Greenson, Ralph R., 1964, “On homosexuality and gender identity”, *International Journal of Psycho-Analysis*, 45: 217.
+* Halberstam, Judith, 1994, “F2M: The making of female masculinity”, in *The lesbian postmodern*, Laura Doan (ed.), New York: Columbia University Press, 210–28.
+* –––, 1998a, “Transgender butch”, *GLQ: A Journal of Lesbian and Gay Studies*, 4 (2): 287–310.
+* –––, 1998b, *Female masculinity*, Durham: Duke University Press.
+* Halberstam, Judith and C. Jacob Hale, 1998, “Butch/Ftm border wars: A note on collaboration”, *GLQ: A Journal of Lesbian and Gay studies*, 4 (2): 283–5.
+* Hale, C. Jacob, 1996, “Are lesbians women?”, *Hypatia: A Journal of Feminist Philosophy*, 11 (2): 94–121.
+* –––, 1998a, “Consuming the living, Dis(re)membering the dead in the butch/Ftm Borderlands”, *GLQ: A Journal of Lesbian and Gay Studies*, 4 (2): 311–348.
+* –––, 1998b, “Tracing a ghostly memory in my throat: Reflections on Ftm feminist voice and agency”, in *Men doing feminism*, T. Digby (ed.), New York: Routledge, 99–129.
+* Haraway, Donna. J., 1991, “A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century”, in *Simians, cyborgs, and women: The reinvention of nature*, New York: Routledge, pp. 149–182.
+* Hausman, Bernice, 1995, *Changing sex: Transsexualism, technology, and the idea of gender*, Durham, N.C., Duke University Press.
+* Heyes, Cressida, 2000, *Line drawings: Defining women through feminist practice*, Ithaca: Cornell University Press.
+* –––, 2003, “Feminist solidarity after queer theory: The case of transgender”, *Signs: Journal of Women in Culture and Society*, 28 (4): 1093–1120.
+* –––, 2006, “Changing race, changing sex: The ethics of self-transformation”, *Journal of Social Philosophy*, 37 (2): 266–282.
+* Hirshfeld, Magnus, 1991, *Transvestites: The erotic drive to cross-dress*, (trans) Michael A. Lombardi-Nash, Buffalo: Prometheus Books.
+* hooks, bell, 1992, “Is Paris burning?” In *Black looks: Race and representation*, Boston: South End Press, pp. 145–156.
+* Jeffreys, Sheila, 2003, *Unpacking queer politics*, Cambridge: Polity Press.
+* Kessler, Suzanne and W. McKenna, 1978, *Gender: An ethnomethodological approach.* New York: John Wiley and Sons.
+* Koyama, Emi. 2003, “The transfeminist manifesto”, in *Catching a wave: Reclaiming feminism for the 21st century*, Rory Dicker and Alison Piepmeier (eds.), Boston: Northeastern University Press, pp. 244–259.
+* –––, 2006, “Whose feminism is it anyway? The unspoken racism of the trans inclusion debate”, in *The transgender studies reader*, S. Stryker and S. Whittle (eds.), New York: Routledge, pp. 698–705.
+* Krafft-Ebing, Richard von, 1965, *Psychopathia sexualis with especial reference to the antipathic sexual instinct: A medico-forensic study*, translated from the Twelfth German Edition with Introduction by Franklin S. Klaf, New York: Stein and Day.
+* Lugones, María, 1987, “Playfulness, ‘world’-travelling, and loving perception”, *Hypatia: A Journal of Feminist Philosophy*, 2: 3–19.
+* –––, 1990, “Structure/antistructure and agency under oppression”, *Journal of Philosophy*, 87 (10): 500–507.
+* Martino, Mario, 1977, *Emergence* with harriet, New York: Crown Publishers.
+* Meyerowitz, Joanne, 2002, *How sex changed: A history of transsexuality in the United States*, Cambridge, MA: Harvard University Press.
+* Minkowitz, Donna, 1994, “Love hurts. Brandon Teena was a woman who lived and loved as a man. She was killed for carrying it off”, *Village Voice* 19 April, 24–30.
+* Money, John, 1955, “Hermaphroditism, gender, and precocity in hyperadrenocorticism: Psychological findings”, *Bulletin of the Johns Hopkins Hospital*, 96: 254, 258.
+* Money, John; Joan G. Hampson, John L. Hampson, 1955, “Hermaphroditism: Recommendations concerning assignment of sex, change of sex, and psychologic management”, *Bulletin of the John Hopkins Hospital*, 97: 284.
+* –––, 1955, “An examination of some basic sexual concepts: The evidence of human hermaphroditism”, *Bulletin of the John Hopkins Hospital*, 97: 301–19.
+* –––, 1956, “Sexual incongruities and psychopathology: The evidence of human hermaphroditism”, *Bulletin of the John Hopkins Hospital*, 98: 43–57.
+* –––, 1957 “Emprinting and the establishment of gender role”, *American Medical Association Archives of Neurology and Psychiatry*, 77: 333–336.
+* Money, John and Ehrhardt, Anke, 1972, *Man & woman, boy and girl*, Baltimore: Johns Hopkins University Press.
+* Morgan, Robin, 1977, *Going too far: The personal chronicle of a feminist*, New York: Random House.
+* Morris, Jan, 1974, *Conundrum*, New York: Harcourt Brace Jovanich.
+* Namaste, Viviane, K., 2000, “‘Tragic Misreadings’: Queer theory's erasure of transgender subjectivity” in V. Namaste *Invisible lives: The erasure of transsexual and transgendered people*, Chicago: University of Chicago Press, 9–23. Originally by K. Namaste in *Queer studies: A lesbian, gay, bisexual, and transgender anthology*, Brett Beemyn and Mickey Eliason (eds.), New York: New York University Press, 1996, 183–206.
+* –––, 2005, “Against transgender rights: Understanding the imperialism of contemporary transgender politics”, in *Sex change, social change: Reflections on identity, institutions, and imperialism*, Toronto: Women's Press. pp. 103–126.
+* Overall, Christine, 2004, “Transsexualism and ‘transracialism’”, *Social Philosophy Today*, 20 (3): 184 and 185.
+* –––, 2009, “Sex/gender transitions and life-changing aspirations”, in *You've changed: Sex reassignment and personal identity*, Laurie Shrage (ed.), Oxford: Oxford University Press, 11–27.
+* –––, 2012, “Trans persons, cisgender persons, and gender identities”, in *Philosophy of sex: Contemporary readings (sixth edition)*, Nicholas Power, Raja Halwani, Alan Soble eds.),New York: Rowan & Littlefield, 251–267.
+* Prosser, Jay, 1995, “No place like home: The transgendered narrative of Leslie Feinberg's *Stone butch blues* ”, *Modern fiction studies*, 41 (3): 483–514.
+* –––, 1997, “Transgender”, in *Lesbian and gay studies: A critical introduction*, Andy Medhurst and Sally R. Munt (eds.), London: Cassell, pp. 309–326.
+* –––, 1998, *Second skins: The body narratives of transsexuality*, New York: Columbia University Press.
+* Radicalesbians, 1988, “The woman identified woman”, in *For lesbians only: A separatist anthology*, Sarah Hoagland and Julia Penelope (eds.). London: Onlywomen, 17–21.
+* Raymond, Janice, 1979, *The transsexual empire: The making of the she-male*, Boston: Beacon Press.
+* –––, 1994, *The transsexual empire: The making of the she-male*, re-issued with a new introduction on transgender, New York: Teachers College Press.
+* Riddell, Carol, 2006, “A divided sisterhood: A critical review of Janice Raymond's *The transsexual empire*”, in *The transgender studies reader*, Susan Stryker and Stephen Whittle (eds.), New York: Routledge, pp. 144–158.
+* Rubin, Henry, 2003, *Self-made men: Identity and embodiment among transsexual men*, Nashville, TN: Vanderbilt University Press.
+* Salamon, Gayle, 2010, *Assuming a body: Transgender and rhetorics of materiality*, New York: Columbia University Press.
+* Scheman, Naomi, 1996, “Queering the center by centering the queer: Reflections on transsexuals and secular Jews”, in *Feminists rethink the self*, Diana Tietjens Meyers (ed.), Boulder, CO: Westview Press, pp. 124–162.
+* Schilder, Paul, 1950, *The image and appearance of the human body*, New York: John Wiley & Sons.
+* Scott-Dixon, Krista, 2006, *Trans/forming feminisms: Trans-feminist voices speak out*, Toronto: Sumach Press.
+* Serano, Julia, 2007, *Whipping girl: A transsexual woman on sexism and the scapegoating of femininity*, Emeryville, CA: Seal Press.
+* Shrage, Laurie, 2009, *You've changed: Sex reassignment and personal identity*, Oxford: Oxford University Press.
+* Stoller, Robert J., 1964, “A contribution to the study of gender identity”, *International Journal of Psycho-Analysis*, 45: 220.
+* Stone, Sandy, 1991, “The *Empire* strikes back: A posttransexual manifesto”, in *Body guards: The cultural politics of gender ambiguity*, Julia Epstein and Kristina Straub (eds.), New York: Routledge, pp. 280–304.
+* Stryker, Susan, 1994, “My words to Victor Frankenstein above the village of Chamounix: Performing transgender rage”, *GLQ: A Journal of gay and lesbian studies*, 1 (3): 237–54.
+* –––, 2004, “Transgender studies: Queer theory's evil twin”, *GLQ: A journal of lesbian and gay studies*, 10 (2): 212–215.
+* –––, 2008, *Transgender history*, Berkeley: Seal Press.
+* Stryker, Susan and Aren Z. Aizura (eds.), 2013, *The transgender studies reader 2*, New York: Routledge.
+* Stryker, Susan and Stephen Whittle (eds.), 2006, *The transgender studies reader*, New York: Routledge.
+* Wittig, Monique, 1992, *The straight mind and other essays*, Boston: Beacon Press.
 
 ## Academic Tools
 
@@ -482,4 +480,4 @@ Talia Mae Bettcher (2012a; 2013; 2014) 反对传统的错误身体论述跨性�
 [feminist philosophy, approaches: intersections between analytic and continental philosophy](https://plato.stanford.edu/entries/femapproach-analy-cont/) | [feminist philosophy, topics: perspectives on power](https://plato.stanford.edu/entries/feminist-power/) | [feminist philosophy, topics: perspectives on sex and gender](https://plato.stanford.edu/entries/feminism-gender/) | [feminist philosophy, topics: perspectives on the body](https://plato.stanford.edu/entries/feminist-body/) | [feminist philosophy, topics: perspectives on the self](https://plato.stanford.edu/entries/feminism-self/)
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
-Talia Bettcher <[_tbettch@calstatela.edu_](mailto:tbettch%40calstatela%2eedu)>
+Talia Bettcher <[*tbettch@calstatela.edu*](mailto:tbettch%40calstatela%2eedu)>

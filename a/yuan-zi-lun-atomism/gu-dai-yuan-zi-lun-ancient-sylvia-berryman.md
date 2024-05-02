@@ -1,13 +1,12 @@
 # 古代原子论 ancient (Sylvia Berryman)
 
-_首次发布于 2005 年 8 月 23 日；实质性修订于 2022 年 10 月 18 日_
+*首次发布于 2005 年 8 月 23 日；实质性修订于 2022 年 10 月 18 日*
 
 古代世界不同地区的许多哲学学派认为宇宙由某种“原子”或最小部分组成，尽管出于不同的原因。虽然现代术语“原子”源自古希腊形容词“atomos”，字面意思是“不可切割的”，但我们可以将第一个可以描述为原子论的理论发展归功于古代印度哲学。虽然我们从古希腊人那里得到了现代术语，他们在理论化自然界的基本组成部分时，哲学讨论涵盖了各种形式的最小单位、不可分割的单位或基本构件。学术上对“原子论”一词的使用涵盖了在广泛不同的背景下的整体论理论（Zilioli 2021）；这里没有讨论该术语的所有可能含义。其他文章中更详细地讨论了几种古代原子论理论：读者可以参考各个条目的详细讨论，由相关专家撰写（请参阅本文末尾的相关条目列表）。
 
 有时人们将“原子论”一词理解为解释物质世界变化的理论，即通过微小物质粒子的重新排列来解释变化，或者理解为任何种类的大小——几何延伸、时间和空间——都由不可分割的部分组成。对数学最小单位的理论是为了回应类似于古代希腊哲学家泽诺（公元前 5 世纪）关于大小无限可分性的悖论。然而，最小部分的理论可能是出于与数学问题无关的完全不同的原因引入的：古代印度哲学中的原子论似乎是出于反映语言所显示的现实的形而上学结构分析中使用的范畴的愿望（Carpenter 2021）。在希腊传统中，原子被认为是永恒和不可毁灭的粒子，它们在可见的经验世界中的变化中持续存在，但这并不总是古代原子论理论的特征。一些印度哲学体系认为原子是被创造的，可以经历转化或毁灭，或者它们只是经验的瞬时特征。来自一神论学派的原子论者，包括中世纪伊斯兰卡拉姆哲学家和十七世纪的人物如皮埃尔·加桑迪，将原子论理论改编为允许上帝创造和毁灭原子的理论。一些学者（Pyle 1997）将原子论思想的特定流派视为理想类型，然而原子论思想的多样性似乎不符合这一限制（Lüthy、Murdoch 和 Newman 2001）。
 
 微观粒子的相互作用是解释自然界可察觉变化的一种引人注目的方式。即使亚里士多德——常常被视为原子论的主要敌人——也承认物质的数量可能存在下限，以实现某些属性。但并非所有的原子论都基于表象与现实的区别：佛教哲学家提出了时间和空间中具有最小延伸的现象瞬间，以反映人类经验的短暂性。原子论中有时会出现原子之间的虚空空间，但并非总是如此。
-
 
 ***
 
@@ -37,7 +36,7 @@ Nyāya 和 Vaiśeṣika 的原子论者认为，当对现有物质施加秩序�
 
 ### 1.2 佛教原子论理论
 
-在佛陀（公元前 6 世纪）之后的几个世纪里发展起来的佛教哲学，特别是阿毗达摩学派，系统化了一系列关注人类生活经验的文本的基本哲学。佛教理论中被认为是原子论的实体不是物质，而是瞬间事件，即“法”（_dharmas_或_dhammas_）：“有感知经验的组成部分，构成一个人的世界的不可约“基本单元””（Ronkin 2005, 41）。这些原子细节可以是心理的或物理的，并且在当代学术界已经与特质理论或过程形而上学进行了比较。与原子物质的理论不同，佛教原子不由多个属性组成。与尼亚亚-瓦伊舍什卡原子论者相反，佛教徒否认存在一种基础物质来统一罐子的颜色和重量等不同属性（Bhaduri 1947）。原子属性实例不是孤立发生的，就像名词和动词单独存在没有意义一样。
+在佛陀（公元前 6 世纪）之后的几个世纪里发展起来的佛教哲学，特别是阿毗达摩学派，系统化了一系列关注人类生活经验的文本的基本哲学。佛教理论中被认为是原子论的实体不是物质，而是瞬间事件，即“法”（*dharmas_或_dhammas*）：“有感知经验的组成部分，构成一个人的世界的不可约“基本单元””（Ronkin 2005, 41）。这些原子细节可以是心理的或物理的，并且在当代学术界已经与特质理论或过程形而上学进行了比较。与原子物质的理论不同，佛教原子不由多个属性组成。与尼亚亚-瓦伊舍什卡原子论者相反，佛教徒否认存在一种基础物质来统一罐子的颜色和重量等不同属性（Bhaduri 1947）。原子属性实例不是孤立发生的，就像名词和动词单独存在没有意义一样。
 
 尽管原子在佛教思想中有时具有现象学的特征，但关于组合性的问题与其他古代原子论理论中的问题相似（Goodman 2004，Carpenter 2021）。接受物质和灵魂等类别的瓦伊舍什卡思想影响了阿毗达摩本体论的表达，这种表达有时导致了“本体化”的指责，即从佛教思想的经验性焦点转向更系统的形而上学（Ronkin 2005）。物质原子首次出现在佛教思想中是在达摩斯里（公元 2 世纪）的作品中，并在婆修般若（公元 5 世纪）和僧伽跋陀罗（公元 5 世纪）的作品中得到体现（Ronkin 2005, 56）。
 
@@ -77,7 +76,7 @@ Nyāya 和 Vaiśeṣika 的原子论者认为，当对现有物质施加秩序�
 
 早期的希腊原子论者试图通过他们关于原子和虚空的简单本体论来解释自然世界的形成。勒克尼普斯认为，在无限的虚空中，有无限多的原子永远运动着，这些原子可以通过旋转运动在足够大的原子团簇中随机形成宇宙系统或“宇宙”。原子是否被认为具有重量作为一种固有属性，导致它们都朝某个给定的方向下落，或者重量仅仅是原子（除非被击中，否则它们可以在任何方向上移动）朝着系统中心移动的倾向，这是有争议的。当形成一个涡旋时，它在外缘形成了一层原子膜，外层的原子着火，形成了太阳和星星。这些“宇宙”是暂时的，不是出于目的或设计。地球被描述为位于我们宇宙中心的一个扁平圆柱形鼓。
 
-物种不被视为永久的抽象形式，而是由原子的偶然组合而成。生物被认为具有生命的原则或灵魂（_psychê_）；这被认为是由火热的原子组成的。有机体被认为是通过种子繁殖：德谟克利特似乎认为父母双方都会产生由身体各器官碎片组成的种子。从父母相关器官中提取的部分在新的混合物中占主导地位，决定了后代所继承的特征。据报道，德谟克利特对人类起源进行了阐述。他还被称为一种文化人类学的创始人（Cole 1967），因为他对宇宙起源的描述包括了人类制度的起源，包括语言、社会和政治组织。
+物种不被视为永久的抽象形式，而是由原子的偶然组合而成。生物被认为具有生命的原则或灵魂（*psychê*）；这被认为是由火热的原子组成的。有机体被认为是通过种子繁殖：德谟克利特似乎认为父母双方都会产生由身体各器官碎片组成的种子。从父母相关器官中提取的部分在新的混合物中占主导地位，决定了后代所继承的特征。据报道，德谟克利特对人类起源进行了阐述。他还被称为一种文化人类学的创始人（Cole 1967），因为他对宇宙起源的描述包括了人类制度的起源，包括语言、社会和政治组织。
 
 关于德谟克利特观点的大量报道涉及伦理格言：一些学者试图将这些格言视为系统化或依赖于原子论物理学，而其他人则对两者之间的联系的紧密性表示怀疑。由于几个格言强调“快乐”的价值，德谟克利特有时被描绘为“笑哲学家”。享乐主义和原子论之间的频繁联系可能源于否认除了直接经验之外的任何善的来源；将经验归结为原子的摩擦可能导致人们认为原子论者过于关注物质上的快乐。
 
@@ -97,7 +96,7 @@ Nyāya 和 Vaiśeṣika 的原子论者认为，当对现有物质施加秩序�
 
 亚里士多德的一个论证（《物理学》1.4, 187b14–21）有时被后来的作家视为证据，表明亚里士多德允许自然事物中存在最小自然物。亚里士多德写道，存在一种最小的物质基质大小，使得给定自然组织的形式能够发生。例如，血液和骨骼都是由一定比例的土、气、火和水组成的物质：在血液或骨骼的形式出现之前，这些物质成分必须达到一定的最小量。尽管这个教义与亚里士多德认为物质成分在任何点上仍然是连续和可分割的观点是相容的，但有时新柏拉图主义评论家和后来对与原子论的和解感兴趣的来源将其解读为亚里士多德支持存在最小物质部分的证据。
 
-在晚期古代，这场辩论似乎已经远离了提出最小物质部分或原子的激进解决方案——这种观点似乎很少有支持者——转而成为一个关于“自下而上”解释可能性与将新兴属性视为“附随”的需求之间的难题，而不仅仅是必要物质基础的产物。在这里，传统上翻译为“附随”的术语——_epigignomai_——指的是形式被认为来自一个独特的源头并存在于合适的物质中，而不是由物质基质产生的观念：它并不完全对应于 20 世纪后期心灵哲学中所制定的技术概念。约翰·菲洛波诺斯提出形式附随的最小阈值的原因是因为物质解释的不足，因为物质的变化与质量的变化没有数值上的相关性，因此无法完全解释，而不是因为对最小部分的担忧（Berryman 2002）。
+在晚期古代，这场辩论似乎已经远离了提出最小物质部分或原子的激进解决方案——这种观点似乎很少有支持者——转而成为一个关于“自下而上”解释可能性与将新兴属性视为“附随”的需求之间的难题，而不仅仅是必要物质基础的产物。在这里，传统上翻译为“附随”的术语——*epigignomai*——指的是形式被认为来自一个独特的源头并存在于合适的物质中，而不是由物质基质产生的观念：它并不完全对应于 20 世纪后期心灵哲学中所制定的技术概念。约翰·菲洛波诺斯提出形式附随的最小阈值的原因是因为物质解释的不足，因为物质的变化与质量的变化没有数值上的相关性，因此无法完全解释，而不是因为对最小部分的担忧（Berryman 2002）。
 
 学者们强调了伊斯兰哲学家在发展中世纪拉丁哲学中被称为“最小自然”学说的重要性（Dijksterhuis 1961, 205; Glasner 2001; McGinnis 2015）。罗马的吉尔斯在多米尼加思想中特别发展了自然最小的概念：在这些讨论中，给定物质的最小尺寸与一个问题相关，即在成为不同元素之前，一个元素的给定数量只能被稀释到一定程度（Duhem 1985, 35–45）。
 
@@ -109,7 +108,7 @@ Diodorus Cronus（公元前 4 世纪晚期）是所谓辩证学派的成员，�
 
 也许借鉴了亚里士多德的一个论证（《感觉学》7，449a20-31），Diodorus 显然使用了这样一个观点：在给定距离上，一个物体能够被看见的最小尺寸作为存在不可分割的大小的基础。他的论证从这样一个观点开始：在一个给定物体能够被看见的最小尺寸和它无法被看见的最大尺寸之间存在尺寸差异。除非我们承认，在某个大小上，一个物体既是不可见的又是可见的（或者既不是），否则就不可能存在这两个大小之间的其他大小。大小必须以离散的单位增加。
 
-塞克斯图斯·恩皮里科斯（_AM_ 10.48ff）报道了迪奥多罗斯的一个论点，也得出结论：大小具有离散的间隔。它还否认了运动物体的存在，坚持认为物体既不在它们所在的地方时运动，也不在它们所不在的地方时运动。由于这些选择被提出为穷尽的，结论必须是物体永远不会运动。然而，迪奥多罗斯并没有断言一切都是静态的，他认为物体必须在没有运动的情况下移动：它们只是在某一时刻在一个地方，而在另一时刻在另一个地方。
+塞克斯图斯·恩皮里科斯（*AM* 10.48ff）报道了迪奥多罗斯的一个论点，也得出结论：大小具有离散的间隔。它还否认了运动物体的存在，坚持认为物体既不在它们所在的地方时运动，也不在它们所不在的地方时运动。由于这些选择被提出为穷尽的，结论必须是物体永远不会运动。然而，迪奥多罗斯并没有断言一切都是静态的，他认为物体必须在没有运动的情况下移动：它们只是在某一时刻在一个地方，而在另一时刻在另一个地方。
 
 除了假设存在不可分割的最小物体和大小之外，迪奥多罗斯似乎还假设存在不可分割的最小时间单位。关于运动的论证并没有明确表明他承诺了什么，但这是一个合理的推论：考虑到他坚持认为物体在任何给定的时间总是在一个地方或另一个地方，他可能会认为时间的无限可分性会带来关于位置变化是否发生的不确定性的威胁。
 
@@ -197,161 +196,161 @@ For works on atomism in the Indian philosophical traditions, on Leucippus, Democ
 
 ### General
 
-* Dijksterhuis, E.J., 1961. _The Mechanization of the World Picture_, trans. C. Dikshoorn. Oxford: Oxford University Press.
-* Furley, David J., 1987. _The Greek Cosmologists vol 1: The Formation of the Atomic Theory and its Earliest Critics_, Cambridge: Cambridge University Press.
-* Konstan, David, 1982. ‘Atomism and its Heritage: Minimal Parts,’ _Ancient Philosophy_, 2: 60–75.
-* Lasswitz, Kurd, 1890. _Geschichte der Atomistik vom Mittelalter bis Newton_, Hamburg: Verlag von Leopold Voss.
-* Lüthy, Christoph, John E. Murdoch and William R. Newman, 2001. ‘Introduction: Corpuscles, Atoms, Particles and Minima,’ in _Late Medieval and Early Modern Corpuscular Matter Theories_, Leiden: Brill, 1–38.
-* Pines, Shlomo, 1997. _Studies in Islamic Atomism_, trans. Tzvi Langermann. Jerusalem: The Hebrew University, Magnes Press.
-* Pyle, Andrew, 1997. _Atomism and Its Critics: From Democritus to Newton_, Bristol: Thoemmes Press.
-* Rashed, Marwan, 2005. ‘Natural philosophy,’ in Peter Adamson and Richard C. Taylor (eds.), _The Cambridge Companion to Arabic Philosophy_, Cambridge: Cambridge University Press, 287–307.
-* Sorabji, Richard, 1982. ‘Atoms and Time Atoms,’ in N. Kretzmann (ed.), _Infinity and Continuity in Ancient and Medieval Thought_, Ithaca NY: Cornell University Press, 37–86.
-* –––, 1983. _Time, Creation and the Continuum: Theories in Antiquity and the Early Middle Ages_, London and Ithaca, NY: Duckworth and Cornell University Press.
-* Zilioli, Ugo (ed.), 2021. _Atomism in Philosophy: A History from Antiquity to the Present_, London: Bloomsbury Publishing.
+* Dijksterhuis, E.J., 1961. *The Mechanization of the World Picture*, trans. C. Dikshoorn. Oxford: Oxford University Press.
+* Furley, David J., 1987. *The Greek Cosmologists vol 1: The Formation of the Atomic Theory and its Earliest Critics*, Cambridge: Cambridge University Press.
+* Konstan, David, 1982. ‘Atomism and its Heritage: Minimal Parts,’ *Ancient Philosophy*, 2: 60–75.
+* Lasswitz, Kurd, 1890. *Geschichte der Atomistik vom Mittelalter bis Newton*, Hamburg: Verlag von Leopold Voss.
+* Lüthy, Christoph, John E. Murdoch and William R. Newman, 2001. ‘Introduction: Corpuscles, Atoms, Particles and Minima,’ in *Late Medieval and Early Modern Corpuscular Matter Theories*, Leiden: Brill, 1–38.
+* Pines, Shlomo, 1997. *Studies in Islamic Atomism*, trans. Tzvi Langermann. Jerusalem: The Hebrew University, Magnes Press.
+* Pyle, Andrew, 1997. *Atomism and Its Critics: From Democritus to Newton*, Bristol: Thoemmes Press.
+* Rashed, Marwan, 2005. ‘Natural philosophy,’ in Peter Adamson and Richard C. Taylor (eds.), *The Cambridge Companion to Arabic Philosophy*, Cambridge: Cambridge University Press, 287–307.
+* Sorabji, Richard, 1982. ‘Atoms and Time Atoms,’ in N. Kretzmann (ed.), *Infinity and Continuity in Ancient and Medieval Thought*, Ithaca NY: Cornell University Press, 37–86.
+* –––, 1983. *Time, Creation and the Continuum: Theories in Antiquity and the Early Middle Ages*, London and Ithaca, NY: Duckworth and Cornell University Press.
+* Zilioli, Ugo (ed.), 2021. *Atomism in Philosophy: A History from Antiquity to the Present*, London: Bloomsbury Publishing.
 
 ### Atomism in Classical Indian Philosophy
 
-* Bhaduri, Sadananda, 1947. _Studies in Nyāya-Vaiśeṣika Metaphysics_, Poona: Bhandarkar Oriental Research Institute
-* Carpenter, Amber, 2014. _Indian Buddhist Philosophy_, Durham: Routledge.
-* Carpenter, Amber with Ngaserin, Sherice, 2021. ‘Atoms and Orientation: Vasubandhu’s solution to the problem of contact,’ in Ugo Zilioli (ed.), _Atomism in Philosophy_, London: Bloomsbury Academic Publishing, 159–81.
-* Chatterjee, Amita, 2017. ‘Naturalism in Classical Indian Philosophy’, _Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/naturalism-india/](https://plato.stanford.edu/archives/win2017/entries/naturalism-india/).
-* Dasgupta, Surendranath, 1987. _Natural Science of the Ancient Hindus_, edited by Debiprasad Chattopadhyaya. New Delhi: Indian Council of Philosophical Research
-* Ganeri, Jonardon, 2001. _Philosophy in Classical India_, London: Routledge.
-* –––, 2019. ‘Analytic Philosophy in Early Modern India’, _Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/sum2019/entries/early-modern-india/](https://plato.stanford.edu/archives/sum2019/entries/early-modern-india/).
-* Gangopadhyaya, M., 1980. _Indian Atomism: History and Sources_, Calcutta: K.P. Bagchi.
-* Goodman, Charles, 2004. ‘The _Treasury of Metaphysics_ and the Physical World,’ _Philosophical Quarterly_, 54(216): 389–401.
-* Keith, Arthur Berriedale, 1921. _Indian Logic and Atomism: An Exposition of the Nyāya and Vaiceṣika Nyâya Systems_, Oxford: Oxford University Press.
-* Kumar, Shashi Prabha, 2019. _Categories, Creation and Cognition in Vaiśeṣika Philosophy_, Springer.
-* Matilal, Bimal Krishna, 1977. _Nyāya-Vaiśeṣika: A History of Indian Literature_, 6.2. Wiesbaden: Otto Harrassowitz.
-* –––, 1986. _Perception: An Essay on Classical Indian Theories of Knowledge_, Oxford: Clarendon Press.
-* Mehta, Mohan Lal, 1954. _Outlines of Jaina Philosophy: The Essentials of Jaina Ontology, Epistemology and Ethics_, Bangalore: The Jain Mission Society.
-* Mishra, A.K., 2006. ‘Atomism of Nyāya-Vaiśeṣika and Jainism’, _Indian Journal of the History of Science_, 41: 247–61.
-* Needham, Joseph, 1969. _The Grand Titration: Science and Society in East and West_, London: George Allen and Unwin Ltd.
-* Nyayavijayaji, Muni Shri, 1998. _Jaina Philosophy and Religion_, translated by Nagin J. Shah. Delhi: Motilal Banarsidass Publishers.
-* Phillips, Stephen H., 1995. _Classical Indian Metaphysics: Refutations of Realism and the Emergence of ‘New Logic’_, Chicago: Open Court.
-* Ronkin, Noa, 2005. _Early Buddhist Metaphysics_, London: Routledge.
-* Sarkar, Sahotra, 2021. ‘Aggregates versus Wholes: An unresolved debate between the Nyāya-Vaiśeṣika and Buddhist schools in ancient Indian atomism,’ in Ugo Zilioli (ed.), _Atomism in Philosophy_, London: Bloomsbury Academic Publishing, 182–97.
-* Thakar, Anantalal, 2003. _Origin and Development of the_ _Vaiśeṣika System_ (PHISPC, Volume II, Part 4), New Delhi: Center for Studies in Civilizations.
+* Bhaduri, Sadananda, 1947. *Studies in Nyāya-Vaiśeṣika Metaphysics*, Poona: Bhandarkar Oriental Research Institute
+* Carpenter, Amber, 2014. *Indian Buddhist Philosophy*, Durham: Routledge.
+* Carpenter, Amber with Ngaserin, Sherice, 2021. ‘Atoms and Orientation: Vasubandhu’s solution to the problem of contact,’ in Ugo Zilioli (ed.), *Atomism in Philosophy*, London: Bloomsbury Academic Publishing, 159–81.
+* Chatterjee, Amita, 2017. ‘Naturalism in Classical Indian Philosophy’, *Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/naturalism-india/](https://plato.stanford.edu/archives/win2017/entries/naturalism-india/).
+* Dasgupta, Surendranath, 1987. *Natural Science of the Ancient Hindus*, edited by Debiprasad Chattopadhyaya. New Delhi: Indian Council of Philosophical Research
+* Ganeri, Jonardon, 2001. *Philosophy in Classical India*, London: Routledge.
+* –––, 2019. ‘Analytic Philosophy in Early Modern India’, *Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/sum2019/entries/early-modern-india/](https://plato.stanford.edu/archives/sum2019/entries/early-modern-india/).
+* Gangopadhyaya, M., 1980. *Indian Atomism: History and Sources*, Calcutta: K.P. Bagchi.
+* Goodman, Charles, 2004. ‘The *Treasury of Metaphysics* and the Physical World,’ *Philosophical Quarterly*, 54(216): 389–401.
+* Keith, Arthur Berriedale, 1921. *Indian Logic and Atomism: An Exposition of the Nyāya and Vaiceṣika Nyâya Systems*, Oxford: Oxford University Press.
+* Kumar, Shashi Prabha, 2019. *Categories, Creation and Cognition in Vaiśeṣika Philosophy*, Springer.
+* Matilal, Bimal Krishna, 1977. *Nyāya-Vaiśeṣika: A History of Indian Literature*, 6.2. Wiesbaden: Otto Harrassowitz.
+* –––, 1986. *Perception: An Essay on Classical Indian Theories of Knowledge*, Oxford: Clarendon Press.
+* Mehta, Mohan Lal, 1954. *Outlines of Jaina Philosophy: The Essentials of Jaina Ontology, Epistemology and Ethics*, Bangalore: The Jain Mission Society.
+* Mishra, A.K., 2006. ‘Atomism of Nyāya-Vaiśeṣika and Jainism’, *Indian Journal of the History of Science*, 41: 247–61.
+* Needham, Joseph, 1969. *The Grand Titration: Science and Society in East and West*, London: George Allen and Unwin Ltd.
+* Nyayavijayaji, Muni Shri, 1998. *Jaina Philosophy and Religion*, translated by Nagin J. Shah. Delhi: Motilal Banarsidass Publishers.
+* Phillips, Stephen H., 1995. *Classical Indian Metaphysics: Refutations of Realism and the Emergence of ‘New Logic’*, Chicago: Open Court.
+* Ronkin, Noa, 2005. *Early Buddhist Metaphysics*, London: Routledge.
+* Sarkar, Sahotra, 2021. ‘Aggregates versus Wholes: An unresolved debate between the Nyāya-Vaiśeṣika and Buddhist schools in ancient Indian atomism,’ in Ugo Zilioli (ed.), *Atomism in Philosophy*, London: Bloomsbury Academic Publishing, 182–97.
+* Thakar, Anantalal, 2003. *Origin and Development of the* *Vaiśeṣika System* (PHISPC, Volume II, Part 4), New Delhi: Center for Studies in Civilizations.
 
 ### Leucippus and Democritus
 
-* Guthrie, W.K.C., 1967. _A History of Greek Philosophy vol. 1: The Earlier Presocratics and the Pythagoreans_, Cambridge: Cambridge University Press.
-* Heidel, W.A., 1940. ‘The Pythagoreans and Greek Mathematics,’ _American Journal of Philology_, 61: 1–33.
-* Makin, Stephen, 1993. _Indifference Arguments_, Oxford: Oxford University Press.
-* Mihai, Adrian, 2021. ‘Atomism and the Cambridge Platonists,’ in Ugo Zilioli (ed.), _Atomism in Philosophy: A History from Antiquity to the Present_, London: Bloomsbury Publishing, 206–71.
-* More, Henry, 1653. _Conjectura Cabbalistica_, London: J. Flesher.
-* Owen, G.E.L., 1957–8. ‘Zeno and the mathematicians,’ _Proceedings of the Aristotelian Society_, 58: 199–222.
-* Sedley, David, 2008. ‘Atomism’s Eleatic Roots,’ in Patricia Curd and Daniel W. Graham (eds.), _The Oxford Handbook of Presocratic Philosophy_, Oxford: Oxford University Press, 305–332.
-* Tannéry, Paul, 1887. _L’Histoire de la science h_é_llène_, Paris: Georg Olms.
+* Guthrie, W.K.C., 1967. *A History of Greek Philosophy vol. 1: The Earlier Presocratics and the Pythagoreans*, Cambridge: Cambridge University Press.
+* Heidel, W.A., 1940. ‘The Pythagoreans and Greek Mathematics,’ *American Journal of Philology*, 61: 1–33.
+* Makin, Stephen, 1993. *Indifference Arguments*, Oxford: Oxford University Press.
+* Mihai, Adrian, 2021. ‘Atomism and the Cambridge Platonists,’ in Ugo Zilioli (ed.), *Atomism in Philosophy: A History from Antiquity to the Present*, London: Bloomsbury Publishing, 206–71.
+* More, Henry, 1653. *Conjectura Cabbalistica*, London: J. Flesher.
+* Owen, G.E.L., 1957–8. ‘Zeno and the mathematicians,’ *Proceedings of the Aristotelian Society*, 58: 199–222.
+* Sedley, David, 2008. ‘Atomism’s Eleatic Roots,’ in Patricia Curd and Daniel W. Graham (eds.), *The Oxford Handbook of Presocratic Philosophy*, Oxford: Oxford University Press, 305–332.
+* Tannéry, Paul, 1887. *L’Histoire de la science h_é_llène*, Paris: Georg Olms.
 
 ### Plato, Platonists and Pythagoreans
 
-* Dillon, John, 2003. _The Heirs of Plato: A Study of the Old Academy (347–274 BC)_, Oxford: Clarendon Press.
-* Konstan, David, 1988. ‘Points, Lines, and Infinity: Aristotle’s _Physics_ Zeta and Hellenistic Philosophy,’ in John J. Cleary (ed.), _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 3: 1–32.
-* Mueller, Ian, 2000. ‘Plato’s Geometrical Chemistry and Its Exegesis in Antiquity,’, in P. Suppes, J. Moravcsik and H. Mendell (eds.), _Ancient and Medieval Traditions in the Exact Sciences: Essays in Memory of Wilbur Knorr_, Stanford: CSLI Publications, 159–76.
-* Opsomer, J., 2012. ‘In Defence of Geometric Atomism: Explaining Elemental Properties,’ in J. Wilberding and C. Horn (ed), _Neoplatonism and the Philosophy of Nature_, Oxford: Oxford University Press, 147–73.
-* Pines, Shlomo, 1986. ‘A New Fragment of Xenocrates and its Implications,’ in _Studies in Arabic Versions of Greek Texts and in Medieval Science_, Jerusalem: The Magnes Press, 3–95.
-* Sambursky, S., 1962. _The Physical World of Late Antiquity_, London: Routledge.
-* Sattler, Barbara, 2021. ‘Platonic Reception – Atomism and the Atomists in Plato’s _Timaeus_,’ in Chelsea C. Harry and Justin Habash (eds.), _Brill’s Companion to the Reception of Presocratic Natural Philosophy in Later Classical Thought_, Leiden: Brill, 429–52 .
-* Sedley, David, 2004. ‘_On Generation and Corruption_ 1.2,’ in Frans de Haas and Jaap Mansfeld (eds.), _Aristotle_: On Generation and Corruption, _Book 1: Symposium Aristotelicum_, Oxford: Clarendon Press, 65–89.
-* Siorvanes, Lucas, 1996. _Proclus: Neo-Platonic Philosophy and Science_, Edinburgh: Edinburgh University Press.
+* Dillon, John, 2003. *The Heirs of Plato: A Study of the Old Academy (347–274 BC)*, Oxford: Clarendon Press.
+* Konstan, David, 1988. ‘Points, Lines, and Infinity: Aristotle’s *Physics* Zeta and Hellenistic Philosophy,’ in John J. Cleary (ed.), *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 3: 1–32.
+* Mueller, Ian, 2000. ‘Plato’s Geometrical Chemistry and Its Exegesis in Antiquity,’, in P. Suppes, J. Moravcsik and H. Mendell (eds.), *Ancient and Medieval Traditions in the Exact Sciences: Essays in Memory of Wilbur Knorr*, Stanford: CSLI Publications, 159–76.
+* Opsomer, J., 2012. ‘In Defence of Geometric Atomism: Explaining Elemental Properties,’ in J. Wilberding and C. Horn (ed), *Neoplatonism and the Philosophy of Nature*, Oxford: Oxford University Press, 147–73.
+* Pines, Shlomo, 1986. ‘A New Fragment of Xenocrates and its Implications,’ in *Studies in Arabic Versions of Greek Texts and in Medieval Science*, Jerusalem: The Magnes Press, 3–95.
+* Sambursky, S., 1962. *The Physical World of Late Antiquity*, London: Routledge.
+* Sattler, Barbara, 2021. ‘Platonic Reception – Atomism and the Atomists in Plato’s *Timaeus*,’ in Chelsea C. Harry and Justin Habash (eds.), *Brill’s Companion to the Reception of Presocratic Natural Philosophy in Later Classical Thought*, Leiden: Brill, 429–52 .
+* Sedley, David, 2004. ‘*On Generation and Corruption* 1.2,’ in Frans de Haas and Jaap Mansfeld (eds.), *Aristotle*: On Generation and Corruption, *Book 1: Symposium Aristotelicum*, Oxford: Clarendon Press, 65–89.
+* Siorvanes, Lucas, 1996. *Proclus: Neo-Platonic Philosophy and Science*, Edinburgh: Edinburgh University Press.
 
 ### Minima Naturalia in Aristotelian Thought
 
-* Berryman, Sylvia, 2002. ‘The Sweetness of Honey: Philoponus against the Doctors on Supervenient Qualities,’ in Cees Leijenhorst, Christoph Lüthy and Johannes M.M.H. Thijssen (eds.), _The Dynamics of Aristotelian Natural Philosophy from Antiquity to the Seventeenth Century_, Leiden: Brill, 65–79.
-* Dijksterhuis, E.J., 1961. _The Mechanization of the World Picture_, trans. C. Dikshoorn. Oxford: Oxford University Press.
-* Duhem, Pierre, 1985. _Medieval Cosmology: Theories of Infinity, Place, Time, Void, and the Plurality of Worlds_, ed. and trans. Roger Ariew. Chicago: University of Chicago Press.
-* Glasner, Ruth, 2001. ‘Ibn Rushd’s Theory of Minima Naturalia,’ _Arabic Sciences and Philosophy_, 11: 9–26
-* McGinnis, Jon, 2015. ‘A Small Discovery: Avicenna’s Theory of _Minima Naturalia_,‘ _Journal of the History of Philosophy_, 53(1): 1–24.
-* Murdoch, John E., 2001. ‘The Medieval and Renaissance Tradition of _Minima Naturalia_,’ in Christoph Lüthy, John E. Murdoch and William R. Newman (eds.), _Late Medieval and Early Modern Corpuscular Matter Theories_, Leiden: Brill, 91–132.
-* Rashed, Marwan, 2005. ‘Natural philosophy,’ in Peter Adamson and Richard C. Taylor (eds.), _The Cambridge Companion to Arabic Philosophy_, Cambridge: Cambridge University Press, 287–307.
+* Berryman, Sylvia, 2002. ‘The Sweetness of Honey: Philoponus against the Doctors on Supervenient Qualities,’ in Cees Leijenhorst, Christoph Lüthy and Johannes M.M.H. Thijssen (eds.), *The Dynamics of Aristotelian Natural Philosophy from Antiquity to the Seventeenth Century*, Leiden: Brill, 65–79.
+* Dijksterhuis, E.J., 1961. *The Mechanization of the World Picture*, trans. C. Dikshoorn. Oxford: Oxford University Press.
+* Duhem, Pierre, 1985. *Medieval Cosmology: Theories of Infinity, Place, Time, Void, and the Plurality of Worlds*, ed. and trans. Roger Ariew. Chicago: University of Chicago Press.
+* Glasner, Ruth, 2001. ‘Ibn Rushd’s Theory of Minima Naturalia,’ *Arabic Sciences and Philosophy*, 11: 9–26
+* McGinnis, Jon, 2015. ‘A Small Discovery: Avicenna’s Theory of *Minima Naturalia*,‘ *Journal of the History of Philosophy*, 53(1): 1–24.
+* Murdoch, John E., 2001. ‘The Medieval and Renaissance Tradition of *Minima Naturalia*,’ in Christoph Lüthy, John E. Murdoch and William R. Newman (eds.), *Late Medieval and Early Modern Corpuscular Matter Theories*, Leiden: Brill, 91–132.
+* Rashed, Marwan, 2005. ‘Natural philosophy,’ in Peter Adamson and Richard C. Taylor (eds.), *The Cambridge Companion to Arabic Philosophy*, Cambridge: Cambridge University Press, 287–307.
 
 ### Diodorus Cronus
 
-* Denyer, Nicholas, 1981. ‘The Atomism of Diodorus Cronus,’ _Prudentia_, 13: 33–45.
-* Sedley, David, 1977. ‘Diodorus Cronus and Hellenistic Philosophy,’ _Proceedings of the Cambridge Philological Society_ (New Series), 23: 74–120.
+* Denyer, Nicholas, 1981. ‘The Atomism of Diodorus Cronus,’ *Prudentia*, 13: 33–45.
+* Sedley, David, 1977. ‘Diodorus Cronus and Hellenistic Philosophy,’ *Proceedings of the Cambridge Philological Society* (New Series), 23: 74–120.
 
 ### Epicurean Atomism
 
-* Clay, Diskin, 1998. _Paradosis and Survival: Three Chapters in the History of Epicurean Philosophy_, Ann Arbor: University of Michigan Press.
-* Fish, Jeffrey and Kirk R. Sanders, 2011. _Epicurus and the Epicurean Tradition_, Cambridge: Cambridge University Press.
-* Frischer, B., 1982. _The Sculpted Word: Epicureanism and Philosophical Recruitment in Ancient Greece_, Berkeley: University of California Press.
-* Gigante, Marcello, 1995. _Philodemus in Italy: The Books from Herculaneum_, translated by Dirk Obbink, Ann Arbor: University of Michigan Press.
-* Konstan, David, 1979. ‘Problems in Epicurean Physics,’ _Isis_, 70(3): 394–418
-* Netz, Reviel, 2015. ‘Were There Epicurean Mathematicians?’ _Oxford Studies in Ancient Philosophy_, XLIX: 283–320.
-* O’Keefe, Tim, 2005. _Epicurus on Freedom_, Cambridge: Cambridge University Press.
-* Sedley, David, 1988. ‘Epicurean Anti-Reductionism,’ in Jonathan Barnes and Mario Mignucci (eds.), _Matter and Metaphysics_, Naples: Bibliopolis, 297–327 .
-* –––, 1998. _Lucretius and the Transformation of Greek Wisdom_, Cambridge: Cambridge University Press.
-* Smith, Martin Ferguson, 1993. _Diogenes of Oinoanda: The Epicurean Inscription_, Edited with Introduction, Translation and Notes, Naples: Bibliopolis.
-* Warren, James, 2002. _Epicurus and Democritean Ethics: An Archaeology of_ Ataraxia, Cambridge: Cambridge University Press.
-* Warren, James (ed.), 2009. _Cambridge Companion to Epicureanism_, Cambridge: Cambridge University Press.
+* Clay, Diskin, 1998. *Paradosis and Survival: Three Chapters in the History of Epicurean Philosophy*, Ann Arbor: University of Michigan Press.
+* Fish, Jeffrey and Kirk R. Sanders, 2011. *Epicurus and the Epicurean Tradition*, Cambridge: Cambridge University Press.
+* Frischer, B., 1982. *The Sculpted Word: Epicureanism and Philosophical Recruitment in Ancient Greece*, Berkeley: University of California Press.
+* Gigante, Marcello, 1995. *Philodemus in Italy: The Books from Herculaneum*, translated by Dirk Obbink, Ann Arbor: University of Michigan Press.
+* Konstan, David, 1979. ‘Problems in Epicurean Physics,’ *Isis*, 70(3): 394–418
+* Netz, Reviel, 2015. ‘Were There Epicurean Mathematicians?’ *Oxford Studies in Ancient Philosophy*, XLIX: 283–320.
+* O’Keefe, Tim, 2005. *Epicurus on Freedom*, Cambridge: Cambridge University Press.
+* Sedley, David, 1988. ‘Epicurean Anti-Reductionism,’ in Jonathan Barnes and Mario Mignucci (eds.), *Matter and Metaphysics*, Naples: Bibliopolis, 297–327 .
+* –––, 1998. *Lucretius and the Transformation of Greek Wisdom*, Cambridge: Cambridge University Press.
+* Smith, Martin Ferguson, 1993. *Diogenes of Oinoanda: The Epicurean Inscription*, Edited with Introduction, Translation and Notes, Naples: Bibliopolis.
+* Warren, James, 2002. *Epicurus and Democritean Ethics: An Archaeology of* Ataraxia, Cambridge: Cambridge University Press.
+* Warren, James (ed.), 2009. *Cambridge Companion to Epicureanism*, Cambridge: Cambridge University Press.
 
 ### Atomism and Particle Theories in Ancient Greek Sciences
 
-* Berryman, Sylvia, 2002. ‘Galen and the Mechanical Philosophy,’ _Apeiron: a journal for ancient philosophy and science_, 235–53.
-* –––, 2011. ‘The Evidence for Strato of Lampsacus in Hero of Alexandria,’ in Marie-Laurence Desclos and W.W. Fortenbaugh (eds.), _Strato of Lampsacus_, New Brunswick, NJ: Transaction Publishers.
-* Copenhaver, Brian, 1998. ‘The Occultist Tradition and Its Critics,’ in Daniel Garber and Michael Ayers, _The Cambridge History of Seventeenth-Century Philosophy_ (Volume 1), Cambridge: Cambridge University Press, 454–512.
-* Damiani, Vincenzo, 2021. ‘The Reception of Atomism in Ancient Medical Literature: From Hippocrates to Galen,’ in Ugo Zilioli (ed.), _Atomism in Philosophy_, London: Bloomsbury Academic Publishing, 39–60.
-* Drachmann, A. G., 1948. _Ktesibios, Philon and Heron: A Study in Ancient Pneumatics_, Copenhagen: Munksgaard.
-* Gottschalk, Hans, 1980. _Heracleides of Pontus_, Oxford: Clarendon Press.
-* Langermann, Tzvi, 2009. ‘Islamic Atomism and the Galenic Tradition,’ _History of Science_, 47: 1–20.
-* Leith, David, 2014. ‘Galen’s Refutation of Atomism,’ in Peter Adamson, Rotraud Hansberger and James Wilberding (eds.), _Philosophical Themes in Galen_ (_Bulletin of the Institute of Classical Studies_: Supplementary Volume 114), London: Institute of Classical Studies, 213–234 .
-* Sedley, David, 1987. ‘Philoponus’ Conception of Space,’ 140–153 in Richard Sorabji (ed.), _Philoponus and the Rejection of Aristotelian Science_, London: Gerald Duckworth.
-* Vallance, J.T., 1990. _The Lost Theory of Asclepiades of Bithynia_, Oxford: Oxford University Press.
+* Berryman, Sylvia, 2002. ‘Galen and the Mechanical Philosophy,’ *Apeiron: a journal for ancient philosophy and science*, 235–53.
+* –––, 2011. ‘The Evidence for Strato of Lampsacus in Hero of Alexandria,’ in Marie-Laurence Desclos and W.W. Fortenbaugh (eds.), *Strato of Lampsacus*, New Brunswick, NJ: Transaction Publishers.
+* Copenhaver, Brian, 1998. ‘The Occultist Tradition and Its Critics,’ in Daniel Garber and Michael Ayers, *The Cambridge History of Seventeenth-Century Philosophy* (Volume 1), Cambridge: Cambridge University Press, 454–512.
+* Damiani, Vincenzo, 2021. ‘The Reception of Atomism in Ancient Medical Literature: From Hippocrates to Galen,’ in Ugo Zilioli (ed.), *Atomism in Philosophy*, London: Bloomsbury Academic Publishing, 39–60.
+* Drachmann, A. G., 1948. *Ktesibios, Philon and Heron: A Study in Ancient Pneumatics*, Copenhagen: Munksgaard.
+* Gottschalk, Hans, 1980. *Heracleides of Pontus*, Oxford: Clarendon Press.
+* Langermann, Tzvi, 2009. ‘Islamic Atomism and the Galenic Tradition,’ *History of Science*, 47: 1–20.
+* Leith, David, 2014. ‘Galen’s Refutation of Atomism,’ in Peter Adamson, Rotraud Hansberger and James Wilberding (eds.), *Philosophical Themes in Galen* (*Bulletin of the Institute of Classical Studies*: Supplementary Volume 114), London: Institute of Classical Studies, 213–234 .
+* Sedley, David, 1987. ‘Philoponus’ Conception of Space,’ 140–153 in Richard Sorabji (ed.), *Philoponus and the Rejection of Aristotelian Science*, London: Gerald Duckworth.
+* Vallance, J.T., 1990. *The Lost Theory of Asclepiades of Bithynia*, Oxford: Oxford University Press.
 
 ### Atomism in the Islamic World
 
-* Adamson, Peter, 2014. ‘Galen on Void,’ in Peter Adamson, Rotraud Hansberger and James Wilberding (eds.), _Philosophical Themes in Galen_ (_Bulletin of the Institute of Classical Studies_, Supplementary Volume 114), London: Institute of Classical Studies, 197–212.
-* –––, 2016. _Philosophy in the Islamic World_, _A History of Philosophy Without any Gaps_ (Volume 3), Oxford: Oxford University Press.
-* Baffioni, Carmela, 1982. _Atomismo e Antiatomismo nel Pensiero Islamico_, Naples: Istituto Universitario Orientale.
-* –––, 2011. ‘Presocratics in the Arab World’, in Lagerlund H. (eds.) _Encyclopedia of Medieval Philosophy_, Dordrecht: Springer, 1073–6. doi:10.1007/978-1-4020-9729-4\*416
-* Ben-Shammai, Hagai, 1985. ‘Studies in Karaite Atomism,’ _Jerusalem Studies in Arabic and Islam_, 6: 243–93.
-* Dhanani, Alnoor, 1994. _The Physical Theory of Kalam_, Leiden: E.J. Brill.
-* –––, 2013. ‘Atoms and Atomism,’ _The Oxford Encyclopedia of Philosophy, Science and Technology in Islam_, Oxford: Oxford University Press.
-* –––. 2015. ‘The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent _Kalām_ Discussions of Atomism,’ _Arabic Sciences and Philosophy_, 25: 79–104.
-* Dhanani A. 2016. ‘Atomism in Islamic Thought,’ in H. Selin (ed.), _Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures_ Dordrecht: Springer. doi:10.1007/978-1-4020-4425-0\*8463
-* –––, 2017. ‘_Al-Mawaqif fi ‘ilm al-kalam_ by ‘Adud al-din al-Iji (d. 1355), and its commentaries’, in Khaled al-Rouayheb and Sabine Schmidtke (eds.), _An Oxford Companion to Islamic Philosophy_, Oxford: Oxford University Press.
-* Hill, Donald R., 1974. _The Book of Knowledge of Ingenious Mechanical Devices by Ibn al-Razzāz al-Jazarī_, Dordrecht: D. Reidel.
-* –––, 1979. _The Book of Ingenious Devices by the Banū (sons of) Mūsà bin Shākir_, Dordrecht: D. Reidel.
-* Langermann, Tzvi, 2009. ‘Islamic Atomism and the Galenic Tradition,’ _History of Science_, 47: 1–20.
-* Lugal, Necati and Aydin Sayili, 1951. ‘Fārābi’s Article on Vacuum,’ _Türk Tarih Kurumu Yayinlarindan_, 15(1): 21–36.
-* Koetschet, Pauline, 2019. _Abū Bakr al-Rāzī, Doutes sur Galien_, Berlin: De Gruyter.
-* McGinnis, Jon, 2003. ‘The Topology of Time: An Analysis of Medieval Islamic Accounts of Discrete and Continuous Time,’ _The Modern Schoolman_, 81: 5–25.
-* Pines, Shlomo, 1979. ‘Etudes sur Awhad al-Zaman Abu al-Barakat al-Baghdadi’, in _The Collected Works of Shlomo Pines Volume 1: Studies in Studies in Abu’l-Barakat al-Baghdadi: Physics and Metaphysics_, Jerusalem: The Magnes Press, 1–95.
-* –––, 1986. ‘What was original in Arabic Science?’ in _Studies in Arabic Versions of Greek Texts and in Medieval Science_, Jerusalem: The Magnes Press, 329–53.
-* –––, 1997. _Studies in Islamic Atomism_, Tzvi Langermann (trans.), Jerusalem: The Hebrew University Magnes Press.
-* Rashed, Marwan, 2005. ‘Natural philosophy,’ in Peter Adamson and Richard C. Taylor (eds.), _The Cambridge Companion to Arabic Philosophy_, Cambridge: Cambridge University Press, 287–307.
-* Sorabji, Richard R.K., 1983. _Time, Creation and the Continuum: Theories in Antiquity and the early Middle Ages_, London and Ithaca, NY: Cornell University Press.
-* van Ess, Josef, 2018. _Theology and Society in the Second and Third Centuries of The Hijra: A History of Religious Thought in Early Islam_ (Volume 4), Gwendolin Goldbloom (trans.), Leiden: Brill, 514–34.
-* Wolfson, Harry Austryn, 1976. _The Philosophy of the Kalam_, Cambridge MA: Harvard University Press.
-* Zamboni, Francesco Omar, 2021. ‘Atomism and Islamic Thought,’ in Ugo Zilioli (ed.), _Atomism in Philosophy_, London: Bloomsbury Academic Publishing, 198–215.
+* Adamson, Peter, 2014. ‘Galen on Void,’ in Peter Adamson, Rotraud Hansberger and James Wilberding (eds.), *Philosophical Themes in Galen* (*Bulletin of the Institute of Classical Studies*, Supplementary Volume 114), London: Institute of Classical Studies, 197–212.
+* –––, 2016. *Philosophy in the Islamic World*, *A History of Philosophy Without any Gaps* (Volume 3), Oxford: Oxford University Press.
+* Baffioni, Carmela, 1982. *Atomismo e Antiatomismo nel Pensiero Islamico*, Naples: Istituto Universitario Orientale.
+* –––, 2011. ‘Presocratics in the Arab World’, in Lagerlund H. (eds.) *Encyclopedia of Medieval Philosophy*, Dordrecht: Springer, 1073–6. doi:10.1007/978-1-4020-9729-4\*416
+* Ben-Shammai, Hagai, 1985. ‘Studies in Karaite Atomism,’ *Jerusalem Studies in Arabic and Islam*, 6: 243–93.
+* Dhanani, Alnoor, 1994. *The Physical Theory of Kalam*, Leiden: E.J. Brill.
+* –––, 2013. ‘Atoms and Atomism,’ *The Oxford Encyclopedia of Philosophy, Science and Technology in Islam*, Oxford: Oxford University Press.
+* –––. 2015. ‘The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent *Kalām* Discussions of Atomism,’ *Arabic Sciences and Philosophy*, 25: 79–104.
+* Dhanani A. 2016. ‘Atomism in Islamic Thought,’ in H. Selin (ed.), *Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures* Dordrecht: Springer. doi:10.1007/978-1-4020-4425-0\*8463
+* –––, 2017. ‘*Al-Mawaqif fi ‘ilm al-kalam* by ‘Adud al-din al-Iji (d. 1355), and its commentaries’, in Khaled al-Rouayheb and Sabine Schmidtke (eds.), *An Oxford Companion to Islamic Philosophy*, Oxford: Oxford University Press.
+* Hill, Donald R., 1974. *The Book of Knowledge of Ingenious Mechanical Devices by Ibn al-Razzāz al-Jazarī*, Dordrecht: D. Reidel.
+* –––, 1979. *The Book of Ingenious Devices by the Banū (sons of) Mūsà bin Shākir*, Dordrecht: D. Reidel.
+* Langermann, Tzvi, 2009. ‘Islamic Atomism and the Galenic Tradition,’ *History of Science*, 47: 1–20.
+* Lugal, Necati and Aydin Sayili, 1951. ‘Fārābi’s Article on Vacuum,’ *Türk Tarih Kurumu Yayinlarindan*, 15(1): 21–36.
+* Koetschet, Pauline, 2019. *Abū Bakr al-Rāzī, Doutes sur Galien*, Berlin: De Gruyter.
+* McGinnis, Jon, 2003. ‘The Topology of Time: An Analysis of Medieval Islamic Accounts of Discrete and Continuous Time,’ *The Modern Schoolman*, 81: 5–25.
+* Pines, Shlomo, 1979. ‘Etudes sur Awhad al-Zaman Abu al-Barakat al-Baghdadi’, in *The Collected Works of Shlomo Pines Volume 1: Studies in Studies in Abu’l-Barakat al-Baghdadi: Physics and Metaphysics*, Jerusalem: The Magnes Press, 1–95.
+* –––, 1986. ‘What was original in Arabic Science?’ in *Studies in Arabic Versions of Greek Texts and in Medieval Science*, Jerusalem: The Magnes Press, 329–53.
+* –––, 1997. *Studies in Islamic Atomism*, Tzvi Langermann (trans.), Jerusalem: The Hebrew University Magnes Press.
+* Rashed, Marwan, 2005. ‘Natural philosophy,’ in Peter Adamson and Richard C. Taylor (eds.), *The Cambridge Companion to Arabic Philosophy*, Cambridge: Cambridge University Press, 287–307.
+* Sorabji, Richard R.K., 1983. *Time, Creation and the Continuum: Theories in Antiquity and the early Middle Ages*, London and Ithaca, NY: Cornell University Press.
+* van Ess, Josef, 2018. *Theology and Society in the Second and Third Centuries of The Hijra: A History of Religious Thought in Early Islam* (Volume 4), Gwendolin Goldbloom (trans.), Leiden: Brill, 514–34.
+* Wolfson, Harry Austryn, 1976. *The Philosophy of the Kalam*, Cambridge MA: Harvard University Press.
+* Zamboni, Francesco Omar, 2021. ‘Atomism and Islamic Thought,’ in Ugo Zilioli (ed.), *Atomism in Philosophy*, London: Bloomsbury Academic Publishing, 198–215.
 
 ### Ancient Greek Atomism in Later European Philosophy
 
-* Boas, Marie, 1949. ‘Hero’s _Pneumatica_: A Study of Its Transmission and Influence,’ _Isis_, 40(1): 38–48.
-* Dijksterhuis, E.J., 1961. _The Mechanization of the World Picture_, trans. C. Dikshoorn. Oxford: Oxford University Press.
-* Duhem, Pierre, 1985. _Medieval Cosmology: Theories of Infinity, Place, Time, Void, and the Plurality of Worlds_, ed. and trans. Roger Ariew, Chicago: University of Chicago Press.
-* Freudenthal, Gad, 2003. ‘Review of _Late Medieval and Early Modern Corpuscular Matter Theories_,’ _Journal of the History of Philosophy_, 41(2): 273–4.
-* Grant, Edward, 1996. ‘Review of Bernhard Pabst, _Atomtheorien des Lateinischen Mittelalters_’ _Isis_, 87(2): 346–7.
-* Grellard, Christophe and Aurélien Robert (eds.), 2009. _Atomism in Late Medieval Philosophy and Theology_, Leiden: Brill.
-* Grellard, Christophe, 2009. ‘Nicolas of Autrecourt’s Atomistic Physics,’ in Grellard and Robert (eds.), _Atomism in Late Medieval Philosophy and Theology_, Leiden: Brill, 107–126.
-* Kargon, Robert H., 1966. _Atomism in England from Hariot to Newton_, Oxford: Clarendon Press.
-* Lüthy, Christoph, John E. Murdoch and William R. Newman (eds.), 2001. _Late Medieval and Early Modern Corpuscular Matter Theories_, Leiden: Brill.
-* Milton, J.R., 2002. ‘The Limitations of Ancient Atomism,’ in C.J. Tuplin and T.E. Rihll, _Science and Mathematics in Ancient Greek Culture_, Oxford: Oxford University Press, 178–95.
-* Murdoch, John E., 1974. ‘Naissance et Développement de l’Atomisme au Bas Moyen Âge Latin,’ in _Cahiers d’Études Médiévales II. La science de la nature: théories et pratiques_, Montreal: Bellarmin, 11–32.
-* –––, 1984. ‘Atomism and Motion in the Fourteenth Century,’ in Everett Mendelsohn (ed), _Transformation and Tradition in the Sciences_, Cambridge: Cambridge University Press, 45–66.
-* Newman, William R., 2006. _Atomism and Alchemy: Chymistry and the Experimental Origins of the Scientific Revolution_, Chicago: University of Chicago Press.
-* –––, 2009. ‘The Significance of “Chymical Atomism”,’ _Early Science and Medicine_, 14: 248–64.
-* Pabst, Bernhard, 1991. ‘Atomism II: Medieval Theories,’ in Hans Burkhardt and Barry Smith (eds.), _Handbook of Metaphysics and Ontology_ (Volume 1: A-K), Munich: Philosophia Verlag, 63–5.
-* –––, 1994. _Atomtheorien des Lateinischen Mittelalters_, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Palmerino, Carla Rita, 2001. ‘Galileo’s and Gassendi’s Solutions to the _Rota Aristotelis_ Paradox: A Bridge Between Matter and Motion Theories,’ in Lüthy, Murdoch and Newman (eds.), _Late Medieval and Early Modern Corpuscular Matter Theories_, Leiden: Brill, 381–422.
-* Robert, Aurélien, 2009. ‘William of Crathorn’s Mereotopological Atomism,’ in Grellard and Robert (eds.), _Atomism in Late Medieval Philosophy and Theology_, Leiden: Brill, 127–62.
-* Wilson, Catherine, 2008. _Epicureanism at the Origins of Modernity_, Oxford: Clarendon Press.
+* Boas, Marie, 1949. ‘Hero’s *Pneumatica*: A Study of Its Transmission and Influence,’ *Isis*, 40(1): 38–48.
+* Dijksterhuis, E.J., 1961. *The Mechanization of the World Picture*, trans. C. Dikshoorn. Oxford: Oxford University Press.
+* Duhem, Pierre, 1985. *Medieval Cosmology: Theories of Infinity, Place, Time, Void, and the Plurality of Worlds*, ed. and trans. Roger Ariew, Chicago: University of Chicago Press.
+* Freudenthal, Gad, 2003. ‘Review of *Late Medieval and Early Modern Corpuscular Matter Theories*,’ *Journal of the History of Philosophy*, 41(2): 273–4.
+* Grant, Edward, 1996. ‘Review of Bernhard Pabst, *Atomtheorien des Lateinischen Mittelalters*’ *Isis*, 87(2): 346–7.
+* Grellard, Christophe and Aurélien Robert (eds.), 2009. *Atomism in Late Medieval Philosophy and Theology*, Leiden: Brill.
+* Grellard, Christophe, 2009. ‘Nicolas of Autrecourt’s Atomistic Physics,’ in Grellard and Robert (eds.), *Atomism in Late Medieval Philosophy and Theology*, Leiden: Brill, 107–126.
+* Kargon, Robert H., 1966. *Atomism in England from Hariot to Newton*, Oxford: Clarendon Press.
+* Lüthy, Christoph, John E. Murdoch and William R. Newman (eds.), 2001. *Late Medieval and Early Modern Corpuscular Matter Theories*, Leiden: Brill.
+* Milton, J.R., 2002. ‘The Limitations of Ancient Atomism,’ in C.J. Tuplin and T.E. Rihll, *Science and Mathematics in Ancient Greek Culture*, Oxford: Oxford University Press, 178–95.
+* Murdoch, John E., 1974. ‘Naissance et Développement de l’Atomisme au Bas Moyen Âge Latin,’ in *Cahiers d’Études Médiévales II. La science de la nature: théories et pratiques*, Montreal: Bellarmin, 11–32.
+* –––, 1984. ‘Atomism and Motion in the Fourteenth Century,’ in Everett Mendelsohn (ed), *Transformation and Tradition in the Sciences*, Cambridge: Cambridge University Press, 45–66.
+* Newman, William R., 2006. *Atomism and Alchemy: Chymistry and the Experimental Origins of the Scientific Revolution*, Chicago: University of Chicago Press.
+* –––, 2009. ‘The Significance of “Chymical Atomism”,’ *Early Science and Medicine*, 14: 248–64.
+* Pabst, Bernhard, 1991. ‘Atomism II: Medieval Theories,’ in Hans Burkhardt and Barry Smith (eds.), *Handbook of Metaphysics and Ontology* (Volume 1: A-K), Munich: Philosophia Verlag, 63–5.
+* –––, 1994. *Atomtheorien des Lateinischen Mittelalters*, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Palmerino, Carla Rita, 2001. ‘Galileo’s and Gassendi’s Solutions to the *Rota Aristotelis* Paradox: A Bridge Between Matter and Motion Theories,’ in Lüthy, Murdoch and Newman (eds.), *Late Medieval and Early Modern Corpuscular Matter Theories*, Leiden: Brill, 381–422.
+* Robert, Aurélien, 2009. ‘William of Crathorn’s Mereotopological Atomism,’ in Grellard and Robert (eds.), *Atomism in Late Medieval Philosophy and Theology*, Leiden: Brill, 127–62.
+* Wilson, Catherine, 2008. *Epicureanism at the Origins of Modernity*, Oxford: Clarendon Press.
 
 ### Early Modern Indian Atomism
 
-* Ganeri, Jonardon, 2011. _The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_, Oxford: Oxford University Press.
-* Phillips, Stephen H., 1995. _Classical Indian Metaphysics: Refutations of Realism and the Emergence of ‘New Logic’_, Chicago: Open Court.
+* Ganeri, Jonardon, 2011. *The Lost Age of Reason: Philosophy in Early Modern India 1450–1700*, Oxford: Oxford University Press.
+* Phillips, Stephen H., 1995. *Classical Indian Metaphysics: Refutations of Realism and the Emergence of ‘New Logic’*, Chicago: Open Court.
 
 ## Academic Tools
 
@@ -364,7 +363,7 @@ For works on atomism in the Indian philosophical traditions, on Leucippus, Democ
 ## Other Internet Resources
 
 * [Atomism](http://faculty.washington.edu/smcohen/320/atomism.htm), maintained by S. Marc Cohen, University of Washington
-* [The Final Cut: Democritus and Leucippus](http://www.historyofphilosophy.net/democritus-and-leucippus), at _History of Philosophy Without Gaps_, maintained by Peter Adamson, King’s College London
+* [The Final Cut: Democritus and Leucippus](http://www.historyofphilosophy.net/democritus-and-leucippus), at *History of Philosophy Without Gaps*, maintained by Peter Adamson, King’s College London
 * [Atomism](https://en.wikipedia.org/w/index.php?title=Atomism\&oldid=1113841441), entry in Wikipedia.
 * [Christopher Taylor](https://oxford.academia.edu/ChristopherTaylor), site at Academia.edu – this website gives access to CCW Taylor’s English translation of the fragments of Democritus as collected by S. Luria.
 
@@ -379,4 +378,4 @@ This attempt to survey address similarities and differences in atomist thought b
 In expanding the article to a more comprehensive crosscultural treatment, I particularly thank Alnoor Dhanani and Robert Wisnovsky for helpful advice and comments on atomism in Islamic thought; Amber Carpenter, Jonardon Ganeri and Cat Prueitt for invaluable help in writing the sections on Indian atomism; William Newman and Christoph Lüthy for feedback and references on the transmission of Islamic atomism into medieval Europe; and Ted Slingerland for advice on atomism in Chinese philosophy.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Sylvia Berryman <[_sberrym@interchange.ubc.ca_](mailto:sberrym%40interchange%2eubc%2eca)>
+Sylvia Berryman <[*sberrym@interchange.ubc.ca*](mailto:sberrym%40interchange%2eubc%2eca)>

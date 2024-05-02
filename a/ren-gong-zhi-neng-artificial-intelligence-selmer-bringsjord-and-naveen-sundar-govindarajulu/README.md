@@ -1,12 +1,10 @@
 # 人工智能 artificial intelligence (Selmer Bringsjord and Naveen Sundar Govindarajulu)
 
-_首次发布于 2018 年 7 月 12 日_
+*首次发布于 2018 年 7 月 12 日*
 
 人工智能（AI）是致力于构建人造动物（或至少在适当的情境下_看起来_像动物的人造生物）的领域，对许多人来说，也包括构建人造人（或至少在适当的情境下_看起来_像人的人造生物）\[[1](https://plato.stanford.edu/entries/artificial-intelligence/notes.html#note-1)]。这些目标立即使得人工智能成为许多哲学家感兴趣的学科，并且这一点已经得到证实（例如），许多哲学家积极尝试证明这些目标实际上是不可/可达到的。在建设性方面，人工智能中使用的许多核心形式和技术都源自哲学，并且仍然在哲学中得到广泛使用和完善：一阶逻辑及其扩展；适用于建模信念态度和道义推理的内涵逻辑；归纳逻辑、概率论和概率推理；实践推理和规划等等。鉴于此，一些哲学家将人工智能研究和开发视为哲学的一部分。
 
 在本文中，简要回顾了人工智能的历史，讨论了该领域的定义，并提供了该领域的概述。此外，还通过具体例子讨论了哲学人工智能（作为哲学的一部分进行的人工智能研究和开发）和人工智能的哲学。文章以一些关于人工智能未来的_必要的_推测性评论结束。
-
-
 
 ***
 
@@ -48,7 +46,7 @@ _首次发布于 2018 年 7 月 12 日_
 
 ![AIMA2e 封面](https://plato.stanford.edu/entries/artificial-intelligence/2ebig.jpg)
 
-_AIMA2e_（Russell & Norvig 2002）的封面
+*AIMA2e*（Russell & Norvig 2002）的封面
 
 你在那里看到的是一些可能出现在某个想象中的人工智能研究者桌子上和周围的杂项纪念品。例如，如果你仔细看，你会特别看到：图灵的照片，透过窗户看到的大本钟（也许 R\&N 意识到了图灵曾经著名地认为具有通用图灵机能力的物理机器在物理上是不可能的：他开玩笑说它的大小必须和大本钟一样），亚里士多德的《动物运动论》中描述的规划算法，[弗雷格关于一阶逻辑的迷人符号表示法](https://plato.stanford.edu/entries/frege/)，刘易斯·卡罗尔（1958）对三段论推理的图示表示，拉蒙·卢尔（Ramon Lull）在他 13 世纪的《大艺术》中的概念生成轮，以及其他一些富有意味的物品（包括一个巧妙、递归且近乎自我恭维的触动，即《AIMA》本身的副本）。虽然这里的空间不足以建立所有的历史联系，但我们可以从这些物品的出现推断出（当然我们指的是古代的物品）：AI 确实非常非常古老。即使那些坚持认为 AI 至少在某种程度上是一个人造物建设企业的人也必须承认，鉴于这些物品，AI 是古老的，因为不仅仅是从智能在本质上是计算的角度进行理论化的观点可以追溯到人类历史的遥远过去：例如，卢尔的轮子标志着一种试图在计算中捕捉智能的尝试，而是在一个物理的人造物中_体现_了那种计算。\[[14](https://plato.stanford.edu/entries/artificial-intelligence/notes.html#note-14)]
 
@@ -72,7 +70,7 @@ AIMA 现已进入第三版，对于对人工智能历史以及心灵哲学历史
 
 \| **基于行为的：** | 像人类一样行动的系统。 | 像理性行动的系统。 |
 
-_根据 AIMA，人工智能的四个可能目标_
+*根据 AIMA，人工智能的四个可能目标*
 
 请注意，这四个可能性确实反映了（至少是相当大一部分的）相关文献。例如，哲学家约翰·霍根兰（1985 年）在他说到人工智能是“让计算机思考的令人兴奋的新尝试……以完全和字面意义上的方式成为有思想的机器”时，属于人类/推理象限。（迄今为止，这是最受欢迎的叙事并进行探索的象限。最近的《西部世界》电视剧就是一个有力的例子。）卢格尔和斯塔布菲尔德（1993 年）在他们写道：“涉及智能行为自动化的计算机科学分支。”时，似乎属于理想/行动象限。图灵最突出地占据了人类/行动的立场，只有那些能够像人类一样行动的系统才能通过他的测试。“理性思考”的立场由温斯顿（1992 年）辩护。（尽管断言这里给出的四个分类是穷尽的可能会有争议，但在目前的文献调查中，这样的断言似乎是相当合理的。）
 
@@ -82,7 +80,7 @@ _根据 AIMA，人工智能的四个可能目标_
 
 !['感知历史'到'代理功能'到'行为'到'环境'到'感知历史'; 同样 '环境'到/从'状态历史'到'绩效度量'](https://plato.stanford.edu/entries/artificial-intelligence/rationality_diagram_3.png)
 
-_罗素对智能/理性的基本图景_
+*罗素对智能/理性的基本图景*
 
 让我们对这个图解进行一些解读，并首先看一下可以从中得出的**完美理性**的描述。在环境 E（来自环境类 E）中，代理的行为产生了该环境的一系列状态或快照。一个性能度量 U 评估这个序列；请注意上图中标有“性能度量”的方框。我们用 V(f,E,U)表示代理函数 f 在 E 上操作时根据 U 的_期望_效用。\[[16](https://plato.stanford.edu/entries/artificial-intelligence/notes.html#note-16)]现在我们将完美理性的代理与代理函数进行了等同：
 
@@ -108,7 +106,7 @@ Popt，M = argmaxP∈P（M）V（Agent（P，M），E，U）
 
 ## 3. 人工智能的方法论
 
-有许多方法可以“划分”人工智能。迄今为止，总结该领域最明智和最有成效的方法是再次参考《人工智能：一种现代方法》（_AIMA_）的文本，因为它对该领域进行了全面的概述。
+有许多方法可以“划分”人工智能。迄今为止，总结该领域最明智和最有成效的方法是再次参考《人工智能：一种现代方法》（*AIMA*）的文本，因为它对该领域进行了全面的概述。
 
 ### 3.1 智能代理的连续性
 
@@ -120,25 +118,25 @@ Popt，M = argmaxP∈P（M）V（Agent（P，M），E，U）
 
 ![具有传感器和执行器的代理接收感知并执行动作的图示](https://plato.stanford.edu/entries/artificial-intelligence/agent-environment.png)
 
-_智能代理的印象主义概述_
+*智能代理的印象主义概述*
 
 _AIMA_的内容基本上是从充实这个图像中得出的；也就是说，上面的图像对应着智能代理实现的整体功能的不同表示方式。从最弱的代理到更强大的代理，存在着一种递进的关系。下面的图像给出了本书早期讨论的一种简单代理的高层视图。（尽管简单，这种代理对应着 Rodney Brooks 在 1991 年设计和实现的无表示代理的架构。）
 
 ![没有对世界的内部模型进行交互的简单反射型智能体](https://plato.stanford.edu/entries/artificial-intelligence/simple-reflex-agent.png)
 
-_一个简单的反射型智能体_
+*一个简单的反射型智能体*
 
 随着书的进展，代理人变得越来越复杂，并且它们所代表的功能的实现越来越多地依赖于目前人工智能所能提供的资源。下图概述了一个比简单的反射型代理人更聪明的代理人。这个更聪明的代理人具有内部建模外部世界的能力，因此不仅仅受限于当前可以直接感知的事物。
 
 ![具有世界模型的反射型代理人与环境互动](https://plato.stanford.edu/entries/artificial-intelligence/reflexstate-agent.png)
 
-_一个更复杂的反射型智能体_
+*一个更复杂的反射型智能体*
 
 《AIMA》分为七个部分。当读者逐步阅读这些部分时，她将会了解到每个部分讨论的智能体所具备的能力。第一部分是对基于智能体的视角的介绍。第二部分关注的是赋予智能体在明确定义的环境中提前几步思考的能力。这里的例子包括能够成功玩完全信息游戏（如国际象棋）的智能体。第三部分涉及具有陈述性知识并能够以大多数哲学家和逻辑学家熟悉的方式进行推理的智能体（例如，基于知识的智能体推断出应采取哪些行动来实现其目标）。本书的第四部分通过以概率方式进行推理，为智能体提供了处理不确定性的能力。\[[19](https://plato.stanford.edu/entries/artificial-intelligence/notes.html#note-19)]第五部分赋予智能体学习的能力。下图显示了学习智能体的整体结构。
 
 ![能够与环境互动学习的代理人](https://plato.stanford.edu/entries/artificial-intelligence/learning-agent.png)
 
-_一个学习代理人_
+*一个学习代理人*
 
 最后一组赋予代理人的能力使他们能够进行交流。这些能力在第六部分中有所涉及。
 
@@ -216,7 +214,7 @@ Wi⊨ϕ
 
 CL 如何实现两个系统之间的互操作性？假设其中一个系统基于逻辑 L，另一个系统基于 L'。（为了简化说明，假设两个逻辑都是一阶逻辑。）思想是，一个理论ΦL，即 L 中的一组公式，可以被翻译成 CL，产生ΦCL，然后这个理论可以被翻译成Φ'L。CL 因此成为一种_inter lingua_。请注意，在 L 中什么被视为良构公式可能与 L'中的不同。这两个逻辑也可能有不同的证明理论。例如，L 中的推理可能基于归结，而 L'中的推理则是自然演绎的。最后，符号集将不同。尽管存在这些差异，但通过翻译，可以在翻译中产生所需的行为。无论如何，这是希望。这里的技术挑战是巨大的，但联邦资金越来越多地用于解决互操作性问题。
 
-现在讨论本节的第三个主题：所谓的**编码降级**。这个技术很容易理解。假设我们手头有一组一阶公理Φ。众所周知，对于任意公式ϕ，判断它是否可以从Φ推导出来是图灵不可判定的：在一般情况下，没有图灵机或等价物可以正确地返回“是”或“否”。然而，如果所讨论的域是有限的，我们可以将这个问题编码降级为命题演算。所有事物都具有 F 的断言当然等价于断言 Fa，Fb，Fc，只要域只包含这三个对象。因此，一阶量化公式在命题演算中变成了一个合取式。确定这样的合取式是否可以从在命题演算中表示的公理中推导出来是图灵可判定的，并且在某些情况下，这个检查可以在命题演算中非常快速地完成；_非常快速_。对于对编码降级到命题演算感兴趣的读者，可以参考 Bart Selman 最近的[DARPA 赞助的工作](http://www.cs.cornell.edu/selman/papers/index.html)。请注意，编码降级的目标不一定是命题演算。因为机器在内涵逻辑中找到证明通常比在直接的一阶逻辑中更困难，所以将前者编码降级为后者通常是方便的。例如，命题模态逻辑可以在多排序逻辑（FOL 的一种变体）中进行编码；参见（Arkoudas＆Bringsjord 2005）。这样的编码降级的重要用途可以在一组称为_描述逻辑_的系统中找到，这些系统比一阶逻辑更具表达能力，但比命题逻辑更具表达能力（Baader 等人，2003）。描述逻辑用于推理给定领域中的本体，并且已经成功地应用于生物医学领域（Smith 等人，2007）。
+现在讨论本节的第三个主题：所谓的**编码降级**。这个技术很容易理解。假设我们手头有一组一阶公理Φ。众所周知，对于任意公式ϕ，判断它是否可以从Φ推导出来是图灵不可判定的：在一般情况下，没有图灵机或等价物可以正确地返回“是”或“否”。然而，如果所讨论的域是有限的，我们可以将这个问题编码降级为命题演算。所有事物都具有 F 的断言当然等价于断言 Fa，Fb，Fc，只要域只包含这三个对象。因此，一阶量化公式在命题演算中变成了一个合取式。确定这样的合取式是否可以从在命题演算中表示的公理中推导出来是图灵可判定的，并且在某些情况下，这个检查可以在命题演算中非常快速地完成；*非常快速*。对于对编码降级到命题演算感兴趣的读者，可以参考 Bart Selman 最近的[DARPA 赞助的工作](http://www.cs.cornell.edu/selman/papers/index.html)。请注意，编码降级的目标不一定是命题演算。因为机器在内涵逻辑中找到证明通常比在直接的一阶逻辑中更困难，所以将前者编码降级为后者通常是方便的。例如，命题模态逻辑可以在多排序逻辑（FOL 的一种变体）中进行编码；参见（Arkoudas＆Bringsjord 2005）。这样的编码降级的重要用途可以在一组称为_描述逻辑_的系统中找到，这些系统比一阶逻辑更具表达能力，但比命题逻辑更具表达能力（Baader 等人，2003）。描述逻辑用于推理给定领域中的本体，并且已经成功地应用于生物医学领域（Smith 等人，2007）。
 
 ### 3.3 非逻辑主义人工智能：摘要
 
@@ -228,7 +226,7 @@ CL 如何实现两个系统之间的互操作性？假设其中一个系统基�
 
 ![通过激活函数生成输出的加权输入之和](https://plato.stanford.edu/entries/artificial-intelligence/neuron-unit_1.png)
 
-_人造神经网络中的“神经元”（来自 AIMA3e）_
+*人造神经网络中的“神经元”（来自 AIMA3e）*
 
 通常假设一些单元与外部环境共生；这些单元形成了**输入**和**输出**单元的集合。每个单元都有一个当前的**激活水平**，即其输出，并且可以根据其输入和这些输入上的权重计算出下一个时刻的激活水平。这个计算完全是局部的：一个单元只考虑网络中的邻居。这个局部计算分为两个阶段。首先，**输入函数**ini 给出了单元输入值的加权和，即输入激活值乘以它们的权重的总和：
 
@@ -242,7 +240,7 @@ ai=g(ini)=g(∑jWjiaj)
 
 ![具有 3 层的神经网络](https://plato.stanford.edu/entries/artificial-intelligence/neural-net_1.png)
 
-_一个简单的三层人造神经网络（来自 AIMA3e）_
+*一个简单的三层人造神经网络（来自 AIMA3e）*
 
 正如你可以想象的那样，有许多不同类型的神经网络。主要的区别在于**前馈**和**循环**网络。在前馈网络中，如上图所示，正如它们的名字所暗示的那样，链接将信息向一个方向传递，没有循环；而循环网络允许循环回溯，并且可能变得相当复杂。有关更详细的介绍，请参见
 
@@ -303,7 +301,7 @@ T={⟨x1,f(x1)⟩,⟨x2,f(x2)⟩,…,⟨xn,f(xn)⟩}.
 
 最近，神经计算技术在机器学习领域出现了另一次复兴。机器学习的工作方式是，在给定一个问题（比如识别手写数字{0,1,…,9}或人脸）时，机器学习专家或领域专家会构建一个用于该任务的**特征向量表示**函数。这个函数将输入转换为一种格式，试图丢弃输入中的无关信息，只保留对任务有用的信息。经过转换的输入被称为**特征**。对于识别人脸来说，无关信息可能是场景中的光照量，而相关信息可能是关于面部特征的信息。然后，机器会接收到一系列由特征表示的输入以及这些输入的理想或真实输出值。这将学习挑战从需要从示例中学习函数 f 的挑战转变为需要从可能更容易的数据中学习的挑战。这里的函数 r 是计算输入的特征向量表示的函数。形式上，假设 f 是函数 g 和 r 的组合。也就是说，对于任何输入 x，f(x)=g(r(x))。这用 f=g∘r 表示。对于任何输入，首先计算特征，然后应用函数 g。如果特征表示 r 由领域专家提供，学习问题将变得更简单，特征表示的难度取决于任务的难度。在极端情况下，特征向量可能隐藏在输入中一个容易提取的答案形式，而在另一个极端情况下，特征表示可能只是纯粹的输入。
 
-对于非平凡的问题，选择正确的表示方式至关重要。例如，AI 领域的一个重大变革之一是由于明斯基和帕佩特（1969）证明感知机甚至无法学习二进制的**异或**函数，但如果我们选择正确的表示方式，感知机是可以学习这个函数的。特征工程已经成为机器学习中最费时的任务之一，以至于被认为是机器学习的 _“黑魔法”_ 之一。学习方法的另一个重要的黑魔法是选择正确的参数。这些黑魔法需要丰富的人类专业知识和经验，而这些知识和经验很难在没有充分学徒期的情况下获得（Domingos 2012）。另一个更大的问题是，特征工程的任务只是以新的形式进行的知识表示。
+对于非平凡的问题，选择正确的表示方式至关重要。例如，AI 领域的一个重大变革之一是由于明斯基和帕佩特（1969）证明感知机甚至无法学习二进制的**异或**函数，但如果我们选择正确的表示方式，感知机是可以学习这个函数的。特征工程已经成为机器学习中最费时的任务之一，以至于被认为是机器学习的 *“黑魔法”* 之一。学习方法的另一个重要的黑魔法是选择正确的参数。这些黑魔法需要丰富的人类专业知识和经验，而这些知识和经验很难在没有充分学徒期的情况下获得（Domingos 2012）。另一个更大的问题是，特征工程的任务只是以新的形式进行的知识表示。
 
 鉴于这种情况，最近出现了一种自动学习特征表示函数 r 的方法的复兴；这些方法有可能绕过传统上需要大量人力的工作。这些方法主要基于现在被称为**深度神经网络**的技术。这些网络只是具有两个或更多隐藏层的神经网络。通过使用一个或多个隐藏层来学习 r，这些网络使我们能够学习特征函数 r。从原始感官数据中学习而不需要太多基于手工特征工程的学习方式现在有了自己的术语：**深度学习**。一个通用而简洁的定义（Bengio 等人，2015 年）是：
 
@@ -381,7 +379,7 @@ P(Hx∣∣d)=P(d∣∣Hx)∗P(Hx)P(d)
 
 计算机游戏为人工智能技术提供了一个强大的测试平台，因为它们可以捕捉到测试人工智能技术所必需的重要部分，同时抽象或移除可能超出核心人工智能研究范围的细节，例如设计更好的硬件或处理法律问题（Laird 和 VanLent 2001）。在商业部署人工智能方面取得了相当成功的游戏子类是实时战略游戏。实时战略游戏是玩家在有限资源下管理军队的游戏。一个目标是不断与其他玩家战斗并削弱对手的力量。实时战略游戏与策略游戏的不同之处在于玩家实时同时规划行动，而不需要轮流进行。这类游戏具有一些令人着迷的挑战，这使得这类游戏成为部署简单人工智能代理的有吸引力的场所。关于实时战略游戏中使用的人工智能的概述可以在（Robertson 和 Watson 2015）中找到。
 
-尽管取得了显著的成功，人工智能的一些其他尝试却在默默地缓慢进行。例如，与数十年来一直没有解决方案的数学开放问题相比，与人工智能相关的方法在解决这些问题上取得了胜利。其中最值得注意的问题可能是证明“_所有的 Robbins 代数都是布尔代数_”的陈述。这个问题在上世纪 30 年代被猜测出来，证明最终在 Otter 自动定理证明器的努力下于 1996 年发现，仅经过几个月的努力（Kolata 1996，Wos 2013）。类似的领域，如形式验证，也已经发展到了可以半自动验证重要的硬件/软件组件的程度（Kaufmann 等人 2000 和 Chajed 等人 2017）。
+尽管取得了显著的成功，人工智能的一些其他尝试却在默默地缓慢进行。例如，与数十年来一直没有解决方案的数学开放问题相比，与人工智能相关的方法在解决这些问题上取得了胜利。其中最值得注意的问题可能是证明“*所有的 Robbins 代数都是布尔代数*”的陈述。这个问题在上世纪 30 年代被猜测出来，证明最终在 Otter 自动定理证明器的努力下于 1996 年发现，仅经过几个月的努力（Kolata 1996，Wos 2013）。类似的领域，如形式验证，也已经发展到了可以半自动验证重要的硬件/软件组件的程度（Kaufmann 等人 2000 和 Chajed 等人 2017）。
 
 其他相关领域，如（自然）语言翻译，仍有很长的路要走，但已经足够好，让我们在受限条件下使用它们。对于机器翻译等任务，目前尚无定论，似乎需要同时使用统计方法（Lopez 2008）和符号方法（España-Bonet 2011）。这两种方法现在在实际应用中取得了可比较但有限的成功。福特公司部署的翻译系统最初是为将制造过程指令从英语翻译成其他语言而开发的，最初是基于规则的系统，具有福特公司和领域特定的词汇和语言。随着该系统在翻译手册之外获得新的用途，例如福特公司内部的普通用户翻译自己的文件（Rychtyckyj and Plesco 2012），它逐渐发展为结合统计技术和基于规则的技术的系统。
 
@@ -449,7 +447,7 @@ CRA 基于一个思想实验，其中西尔本人扮演主角。他在一个房�
 
 ![中文房间的输入/输出图](https://plato.stanford.edu/entries/artificial-intelligence/cr1.png)
 
-_中文房间，示意图_
+*中文房间，示意图*
 
 现在，基于这个思想实验的论点是什么？即使你以前从未听说过 CRA，你无疑可以看出基本思想：塞尔（在盒子里）被认为是计算机所能拥有的一切，因为他不懂中文，所以没有计算机能够具有这样的理解能力。塞尔只是毫无意识地移动着波浪线，而（根据这个论点）这就是计算机的全部本质。\[[39](https://plato.stanford.edu/entries/artificial-intelligence/notes.html#note-39)]
 
@@ -539,225 +537,225 @@ Searle（2014）认为 Bostrom 的书是误导和基本错误的，我们不需�
 
 ## Bibliography
 
-* Adams, E. W., 1996, _A Primer of Probability Logic_, Stanford, CA: CSLI.
-* Almeida, J., Frade, M., Pinto, J. & de Sousa, S., 2011, _Rigorous Software Development: An Introduction to Program Verification_, New York, NY: Spinger.
-* Alpaydin, E., 2014, _Introduction to Machine Learning_, Cambridge, MA: MIT Press.
-* Amir, E. & Maynard-Reid, P., 1999, “Logic-Based Subsumption Architecture,” in _Proceedings of the 16th International Joint Conference on Artificial Intelligence (IJCAI-1999)_, (San Francisco, CA: MIT Morgan Kaufmann), pp. 147–152.
-* Amir, E. & Maynard-Reid, P., 2000, “Logic-Based Subsumption Architecture: Empirical Evaluation,” in _Proceedings of the AAAI Fall Symposium on Parallel Architectures for Cognition_.
-* Amir, E. & Maynard-Reid, P., 2001, “LiSA: A Robot Driven by Logical Subsumption,” in _Proceedings of the Fifth Symposium on the Logical Formalization of Commonsense Reasoning_, (New York, NY).
-* Anderson, C. A., 1983, “The Paradox of the Knower,” _The Journal of Philosophy,_ 80.6: 338–355.
-* Anderson, J. & Lebiere, C., 2003, “The Newell Test for a Theory of Cognition,” _Behavioral and Brain Sciences_, 26: 587–640.
-* Ashcraft, M., 1994, _Human Memory and Cognition_, New York, NY: HarperCollins.
-* Arkin, R., 2009, _Governing Lethal Behavior in Autonomous Robots_, London: Chapman and Hall/CRC Imprint, Taylor and Francis Group.
-* Arkoudas, K. & Bringsjord, S., 2005, “Vivid: A Framework for Heterogeneous Problem Solving,” _Artificial Intelligence_, 173.15: 1367–1405.
-* Arkoudas, K. & Bringsjord, S., 2005, “Metareasoning for Multi-agent Epistemic Logics,” in _Fifth International Conference on Computational Logic In Multi-Agent Systems (CLIMA 2004)_, in the series _Lecture Notes in Artificial Intelligence (LNAI)_, volume 3487, New York, NY: Springer-Verlag, pp. 111–125.
-* Arkoudas, K., 2000, _Denotational Proof Languages_, PhD dissertation, Massachusetts Institute of Technology (Computer Science).
-* Baader, F., Calvanese, D., McGuinness, D. L., Nardi, D., & Patel-Schneider, P. F., eds., 2003, _The Description Logic Handbook: Theory, Implementation, and Applications_, New York, NY: Cambridge University Press.
-* Smith, B., Ashburner, M., Rosse, C., Bard, J., Bug, W., Ceusters, W., Goldberg, L. J., Eilbeck, K., Ireland, A., Mungall, C. J., The OBI Consortium, Leontis, N., Rocca-Serra, P., Ruttenberg, A., Sansone, S., Scheuermann, R. H., Shah, N., Whetzel, P. L. & Lewis, S., 2007, “The OBO Foundry: Coordinated Evolution of Ontologies to Support Biomedical Data Integration,” _Nature Biotechnology_ 25, 1251–1255.
-* Barwise, J. & Etchemendy, J., 1999, _Language, Proof, and Logic_, New York, NY: Seven Bridges Press.
-* Barwise, J. & Etchemendy, J., 1995, “Heterogeneous Logic,” in _Diagrammatic Reasoning: Cognitive and Computational Perspectives_, J. Glasgow, N.H. Narayanan, & B. Chandrasekaran, eds., Cambridge, MA: MIT Press, pp. 211–234.
-* Baldi, P., Sadowski P. & Whiteson D., 2014, “Searching for Exotic Particles in High-energy Physics with Deep Learning,” _Nature Communications_. \[[Available online](http://www.nature.com/ncomms/2014/140702/ncomms5308/full/ncomms5308.html)]
-* Barwise, J. & Etchemendy, J., 1994, _Hyperproof_, Stanford, CA: CSLI.
-* Barwise, J. & Etchemendy, J., 1990, “Infons and Inference,” in _Situation Theory and its Applications, (Vol 1)_, Cooper, Mukai, and Perry (eds), CSLI Lecture Notes #22, CSLI Press, pp. 33–78.
-* Bello, P. & Bringsjord S., 2013, “On How to Build a Moral Machine,” _Topoi,_ 32.2: 251–266.
-* Bengio, Y., Goodfellow, I., & Courville, A., 2016, _Deep Learning_, Cambridge: MIT Press. \[[Available online](http://www.deeplearningbook.org/)]
-* Bengio, Y., Courville, A. & Vincent, P., 2013, “Representation Learning: A Review and New Perspectives,” _Pattern Analysis and Machine Intelligence, IEEE Transactions,_ 35.8: 1798–1828.
-* Berners-Lee, T., Hendler, J. & Lassila, O., 2001, “The Semantic Web,” _Scientific American,_ 284: 34–43.
-* Bishop, M. & Preston, J., 2002, _Views into the Chinese Room: New Essays on Searle and Artificial Intelligence_, Oxford, UK: Oxford University Press.
-* Boden, M., 1994, “Creativity and Computers,” in _Artificial Intelligence and Computers_, T. Dartnall, ed., Dordrecht, The Netherlands: Kluwer, pp. 3–26.
-* Boolos, G. S., Burgess, J.P., & Jeffrey., R.C., 2007, _Computability and Logic 5th edition,_ Cambridge: Cambridge University Press.
-* Bostrom, N., 2014, _Superintelligence: Paths, Dangers, Strategies_, Oxford, UK: Oxford University Press.
-* Bowie, G.L., 1982, “Lucas’ Number is Finally Up,” _Journal of Philosophical Logic_, 11: 279–285.
-* Brachman, R. & Levesque, H., 2004, _Knowledge Representation and Reasoning_, San Francisco, CA: Morgan Kaufmann/Elsevier.
+* Adams, E. W., 1996, *A Primer of Probability Logic*, Stanford, CA: CSLI.
+* Almeida, J., Frade, M., Pinto, J. & de Sousa, S., 2011, *Rigorous Software Development: An Introduction to Program Verification*, New York, NY: Spinger.
+* Alpaydin, E., 2014, *Introduction to Machine Learning*, Cambridge, MA: MIT Press.
+* Amir, E. & Maynard-Reid, P., 1999, “Logic-Based Subsumption Architecture,” in *Proceedings of the 16th International Joint Conference on Artificial Intelligence (IJCAI-1999)*, (San Francisco, CA: MIT Morgan Kaufmann), pp. 147–152.
+* Amir, E. & Maynard-Reid, P., 2000, “Logic-Based Subsumption Architecture: Empirical Evaluation,” in *Proceedings of the AAAI Fall Symposium on Parallel Architectures for Cognition*.
+* Amir, E. & Maynard-Reid, P., 2001, “LiSA: A Robot Driven by Logical Subsumption,” in *Proceedings of the Fifth Symposium on the Logical Formalization of Commonsense Reasoning*, (New York, NY).
+* Anderson, C. A., 1983, “The Paradox of the Knower,” *The Journal of Philosophy,* 80.6: 338–355.
+* Anderson, J. & Lebiere, C., 2003, “The Newell Test for a Theory of Cognition,” *Behavioral and Brain Sciences*, 26: 587–640.
+* Ashcraft, M., 1994, *Human Memory and Cognition*, New York, NY: HarperCollins.
+* Arkin, R., 2009, *Governing Lethal Behavior in Autonomous Robots*, London: Chapman and Hall/CRC Imprint, Taylor and Francis Group.
+* Arkoudas, K. & Bringsjord, S., 2005, “Vivid: A Framework for Heterogeneous Problem Solving,” *Artificial Intelligence*, 173.15: 1367–1405.
+* Arkoudas, K. & Bringsjord, S., 2005, “Metareasoning for Multi-agent Epistemic Logics,” in *Fifth International Conference on Computational Logic In Multi-Agent Systems (CLIMA 2004)*, in the series *Lecture Notes in Artificial Intelligence (LNAI)*, volume 3487, New York, NY: Springer-Verlag, pp. 111–125.
+* Arkoudas, K., 2000, *Denotational Proof Languages*, PhD dissertation, Massachusetts Institute of Technology (Computer Science).
+* Baader, F., Calvanese, D., McGuinness, D. L., Nardi, D., & Patel-Schneider, P. F., eds., 2003, *The Description Logic Handbook: Theory, Implementation, and Applications*, New York, NY: Cambridge University Press.
+* Smith, B., Ashburner, M., Rosse, C., Bard, J., Bug, W., Ceusters, W., Goldberg, L. J., Eilbeck, K., Ireland, A., Mungall, C. J., The OBI Consortium, Leontis, N., Rocca-Serra, P., Ruttenberg, A., Sansone, S., Scheuermann, R. H., Shah, N., Whetzel, P. L. & Lewis, S., 2007, “The OBO Foundry: Coordinated Evolution of Ontologies to Support Biomedical Data Integration,” *Nature Biotechnology* 25, 1251–1255.
+* Barwise, J. & Etchemendy, J., 1999, *Language, Proof, and Logic*, New York, NY: Seven Bridges Press.
+* Barwise, J. & Etchemendy, J., 1995, “Heterogeneous Logic,” in *Diagrammatic Reasoning: Cognitive and Computational Perspectives*, J. Glasgow, N.H. Narayanan, & B. Chandrasekaran, eds., Cambridge, MA: MIT Press, pp. 211–234.
+* Baldi, P., Sadowski P. & Whiteson D., 2014, “Searching for Exotic Particles in High-energy Physics with Deep Learning,” *Nature Communications*. \[[Available online](http://www.nature.com/ncomms/2014/140702/ncomms5308/full/ncomms5308.html)]
+* Barwise, J. & Etchemendy, J., 1994, *Hyperproof*, Stanford, CA: CSLI.
+* Barwise, J. & Etchemendy, J., 1990, “Infons and Inference,” in *Situation Theory and its Applications, (Vol 1)*, Cooper, Mukai, and Perry (eds), CSLI Lecture Notes #22, CSLI Press, pp. 33–78.
+* Bello, P. & Bringsjord S., 2013, “On How to Build a Moral Machine,” *Topoi,* 32.2: 251–266.
+* Bengio, Y., Goodfellow, I., & Courville, A., 2016, *Deep Learning*, Cambridge: MIT Press. \[[Available online](http://www.deeplearningbook.org/)]
+* Bengio, Y., Courville, A. & Vincent, P., 2013, “Representation Learning: A Review and New Perspectives,” *Pattern Analysis and Machine Intelligence, IEEE Transactions,* 35.8: 1798–1828.
+* Berners-Lee, T., Hendler, J. & Lassila, O., 2001, “The Semantic Web,” *Scientific American,* 284: 34–43.
+* Bishop, M. & Preston, J., 2002, *Views into the Chinese Room: New Essays on Searle and Artificial Intelligence*, Oxford, UK: Oxford University Press.
+* Boden, M., 1994, “Creativity and Computers,” in *Artificial Intelligence and Computers*, T. Dartnall, ed., Dordrecht, The Netherlands: Kluwer, pp. 3–26.
+* Boolos, G. S., Burgess, J.P., & Jeffrey., R.C., 2007, *Computability and Logic 5th edition,* Cambridge: Cambridge University Press.
+* Bostrom, N., 2014, *Superintelligence: Paths, Dangers, Strategies*, Oxford, UK: Oxford University Press.
+* Bowie, G.L., 1982, “Lucas’ Number is Finally Up,” *Journal of Philosophical Logic*, 11: 279–285.
+* Brachman, R. & Levesque, H., 2004, *Knowledge Representation and Reasoning*, San Francisco, CA: Morgan Kaufmann/Elsevier.
 * Bringsjord, S., Arkoudas K. & Bello P., 2006, “Toward a General Logicist Methodology for Engineering Ethically Correct Robots,” IEEE Intelligent Systems, 21.4: 38–44.
-* Bringsjord, S. & Ferrucci, D., 1998, “Logic and Artificial Intelligence: Divorced, Still Married, Separated…?” _Minds and Machines_, 8: 273–308.
-* Bringsjord, S. & Schimanski, B., 2003, “What is Artificial Intelligence? Psychometric AI as an Answer,” _Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-2003)_, (San Francisco, CA: MIT Morgan Kaufmann), pp. 887–893.
-* Bringsjord, S. & Ferrucci, D., 2000, _Artificial Intelligence and Literary Creativity: Inside the Mind of Brutus, a Storytelling Machine_, Mahwah, NJ: Lawrence Erlbaum.
-* Bringsjord, S. & van Heuveln, B., 2003, “The Mental Eye Defense of an Infinitized Version of Yablo’s Paradox,” _Analysis_ 63.1: 61–70.
-* Bringsjord S. & Xiao, H., 2000, “A Refutation of Penrose’s Gödelian Case Against Artificial Intelligence,” _Journal of Experimental and Theoretical Artificial Intelligence_, 12: 307–329.
-* Bringsjord, S. & Zenzen, M., 2002, “Toward a Formal Philosophy of Hypercomputation,” _Minds and Machines_, 12: 241–258.
-* Bringsjord, S., 2000, “Animals, Zombanimals, and the Total Turing Test: The Essence of Artificial Intelligence,” _Journal of Logic, Language, and Information_, 9: 397–418.
-* Bringsjord, S., 1998, “Philosophy and ‘Super’ Computation,” _The Digital Phoenix: How Computers are Changing Philosophy_, J. Moor and T. Bynam, eds., Oxford, UK: Oxford University Press, pp. 231–252.
-* Bringsjord, S., 1991, “Is the Connectionist-Logicist Clash one of AI’s Wonderful Red Herrings?” _Journal of Experimental & Theoretical AI_, 3.4: 319–349.
-* Bringsjord, S., Govindarajulu N. S., Eberbach, E. & Yang, Y., 2012, “Perhaps the Rigorous Modeling of Economic Phenomena Requires Hypercomputation,” _International Journal of Unconventional Computing,_ 8.1: 3–32. \[[Preprint available online](http://kryten.mm.rpi.edu/SB_NSG_EE_YY_28-9-2010.pdf)]
-* Bringsjord, S., 2011, “Psychometric Artificial Intelligence,” _Journal of Experimental and Theoretical Artificial Intelligence_, 23.3: 271–277.
-* Bringsjord, S. & Govindarajulu N. S., 2012, “Given the Web, What is Intelligence, Really?” _Metaphilosophy_ 43.12: 464–479.
-* Brooks, R. A., 1991, “Intelligence Without Representation,” _Artificial Intelligence_, 47: 139–159.
-* Browne, C. B., Powley, E. & Whitehouse, D., 2012, “A Survey of Monte Carlo Tree Search Methods,” _A Survey of Monte Carlo Tree Search Methods_, 4.1: 1–43.
-* Buchanan, B. G., 2005, “A (Very) Brief History of Artificial Intelligence,” _AI Magazine_, 26.4: 53–60.
-* Carroll, L., 1958, _Symbolic Logic; Game of Logic_, New York, NY: Dover.
-* Cassimatis, N., 2006, “Cognitive Substrate for Human-Level Intelligence,” _AI Magazine_, 27.2: 71–82.
-* Chajed, T., Chen, H., Chlipala, A., Kaashoek, F., Zeldovich, N., & Ziegler, D., 2017, “Research Highlight: Certifying a File System using Crash Hoare Logic: Correctness in the Presence of Crashes,” _Communications of the ACM (CACM),_ 60.4: 75–84.
-* Chalmers, D., 2010, “The Singularity: A Philosophical Analysis,” _Journal of Consciousness Studies_, 17: 7–65.
-* Charniak, E., 1993, _Statistical Language Learning_, Cambridge: MIT Press.
-* Charniak, E. & McDermott, D., 1985, _Introduction to Artificial Intelligence_, Reading, MA: Addison Wesley.
-* Chellas, B., 1980, _Modal Logic: An Introduction_, Cambridge, UK: Cambridge University Press.
-* Chisholm, R., 1957, _Perceiving_, Ithaca, NY: Cornell University Press.
-* Chisholm, R., 1966, _Theory of Knowledge_, Englewood Cliffs, NJ: Prentice-Hall.
-* Chisholm, R., 1977, _Theory of Knowledge 2nd ed_, Englewood Cliffs, NJ: Prentice-Hall.
-* Clark, A., 2003, _Natural-Born Cyborgs_, Oxford, UK: Oxford University Press.
-* Clark, M. H., 2010, _Cognitive Illusions and the Lying Machine: A Blueprint for Sophistic Mendacity_, PhD dissertation, Rensselaer Polytechnic Institute (Cognitive Science).
-* Copeland, B. J., 1998, “Super Turing Machines,” _Complexity_, 4: 30–32.
-* Copi, I. & Cohen, C., 2004, _Introduction to Logic_, Saddle River, NJ: Prentice-Hall.
-* Dennett, D., 1998, “Artificial Life as Philosophy,” in his _Brainchildren: Essays on Designing Minds_, Cambridge, MA: MIT Press, pp. 261–263.
-* Dennett, D., 1994, “The Practical Requirements for Making a Conscious Robot,” _Philosophical Transactions of the Royal Society of London_, 349: 133–146.
-* Dennett, D., 1979, “Artificial Intelligence as Philosophy and as Psychology,” _Philosophical Perspectives in Artificial Intelligence_, M. Ringle, ed., Atlantic Highlands, NJ: Humanities Press, pp. 57–80.
-* Descartes, 1637, R., in Haldane, E. and Ross, G.R.T., translators, 1911, _The Philosophical Works of Descartes, Volume 1,_ Cambridge, UK: Cambridge University Press.
-* Dick, P. K., 1968, _Do Androids Dream of Electric Sheep?_, New York, NY: Doubleday.
-* Domingos, P., 2012, “A Few Useful Things to Know about Machine Learning,” _Communications of the ACM_, 55.10: 78–87.
-* Dreyfus, H., 1972, _What Computers Can’t Do_, Cambridge, MA: MIT Press.
-* Dreyfus, H., 1992, _What Computers Still Can’t Do_, Cambridge, MA: MIT Press.
-* Dreyfus, H. & Dreyfus, S., 1987, _Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer_, New York, NY: Free Press.
-* Ebbinghaus, H., Flum, J. & Thomas, W., 1984, _Mathematical Logic_, New York, NY: Springer-Verlag.
-* Eden, A., Moor, J., Soraker, J. & Steinhart, E., 2013, _Singularity Hypotheses: A Scientific and Philosophical Assessment_, New York, NY: Springer.
-* España-Bonet, C., Enache, R., Slaski, A., Ranta, A., Màrquez L. & Gonzàlez, M., 2011, “Patent Translation within the MOLTO project,” in _Proceedings of the 4th Workshop on Patent Translation, MT Summit XIII_, pp. 70–78.
-* Evans, G., 1968, “A Program for the Solution of a Class of Geometric-Analogy Intelligence-Test Questions,” in M. Minsky, ed., _Semantic Information Processing_, Cambridge, MA: MIT Press, pp. 271–353.
-* Fagin, R., Halpern, J. Y., Moses, Y. & Vardi, M., 2004, _Reasoning About Knowledge_, Cambridge, MA: MIT Press.
-* Ferrucci, D. & Lally, A., 2004, “UIMA: An Architectural Approach to Unstructured Information Processing in the Corporate Research Environment,” _Natural Language Engineering_, 10.3–4: 327–348. Cambridge, UK: Cambridge University Press.
-* Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A., Lally, A., Murdock, J., Nyberg, E., Prager, J., Schlaefer, N. & Welty, C., 2010, “Building Watson: An Overview of the DeepQA Project,” _AI Magazine_, 31.3: 59–79.
-* Finnsson, H., 2012, “Generalized Monte-Carlo Tree Search Extensions for General Game Playing,” in _Proceedings of the Twenty-Sixth AAAI Conference on Artificial Intelligence (AAAI-2012)_, Toronto, Canda, pp. 1550–1556.
-* Fitelson, B., 2005, “Inductive Logic,” in Pfeifer, J. and Sarkar, S., eds., _Philosophy of Science: An Encyclopedia_, London, UK: Routledge, pp. 384–394.
-* Floridi, L., 2015, “Singularitarians, AItheists, and Why the Problem with Artificial Intelligence is H.A.L. (Humanity At Large), not HAL,” _APA Newsletter: Philosophy and Computers_, 14.2: 8–11.
-* Foot, P., 1967, “The Problem of Abortion and the Doctrine of the Double Effect,” _Oxford Review_, 5: 5–15.
-* Forbus, K. D. & Hinrichs, T. R., 2006, “Companion Cognitive Systems: A Step toward Human-Level AI,” _AI Magazine,_ 27.2: 83.
-* Ford, K. M., Glymour C. & Hayes P., 1997, “On the Other Hand … Cognitive Prostheses,” _AI Magazine,_ 18.3: 104.
-* Friedland, N., Allen, P., Matthews, G., Witbrock, M., Baxter, D., Curtis, J., Shepard, B., Miraglia, P., Angele, J., Staab, S., Moench, E., Oppermann, H., Wenke, D., Israel, D., Chaudhri, V., Porter, B., Barker, K., Fan, J., Yi Chaw, S., Yeh, P., Tecuci, D. & Clark, P., 2004, “Project Halo: Towards a Digital Aristotle,” _AI Magazine_, 25.4: 29–47.
-* Genesereth, M., Love, N. & Pell B., 2005, “General Game Playing: Overview of the AAAI Competition,” _AI Magazine_, 26.2: 62–72. \[[Available online](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI-09/paper/viewFile/566/775)]
-* Ginsberg, M., 1993, _Essentials of Artificial Intelligence_, New York, NY: Morgan Kaufmann.
-* Glymour, G., 1992, _Thinking Things Through_, Cambridge, MA: MIT Press.
-* Goertzel, B. & Pennachin, C., eds., 2007, _Artificial General Intelligence_, Berlin, Heidelberg: Springer-Verlag.
-* Gold, M., 1965, “Limiting Recursion,” _Journal of Symbolic Logic_, 30.1: 28–47.
-* Goldstine, H. & von Neumann, J., 1947, “Planning and Coding of Problems for an Electronic Computing Instrument,” _IAS Reports_ Institute for Advanced Study, Princeton, NJ. \[This remarkable work is [available online](https://library.ias.edu/files/pdfs/ecp/planningcodingof0103inst.pdf) from the Institute for Advanced Study. Please note that this paper is Part II of a three-volume set. The first volume was devoted to a preliminary discussion, and the first author on it was Arthur Burks, joining Goldstine and von Neumann.]
-* Good, I., 1965, “Speculations Concerning the First Ultraintelligent Machines,” in _Advances in Computing_ (vol. 6), F. Alt and M. Rubinoff, eds., New York, NY: Academic Press, pp. 31–38.
-* Govindarajulu, N. S., Bringsjord, S. & Licato J., 2013, “On Deep Computational Formalization of Natural Language,” in _Proceedings of the Workshop “Formalizing Mechanisms for Artificial General Intelligence and Cognition (Formal MAGiC),”_ Osnabrück, Germany: PICS.
-* Govindarajulu, N. S., & Bringsjord, S., 2015, “Ethical Regulation of Robots Must Be Embedded in Their Operating Systems” in Trappl, R., ed., _A Construction Manual for Robot’s Ethical Systems: Requirements, Methods, Implementations_, Berlin, DE: Springer.
-* Govindarajulu, N. S., & Bringsjord, S., 2017, “On Automating the Doctrine of Double Effect,” in _Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)_, pp. 4722–4730. doi:10.24963/ijcai.2017/658
-* Granger, R., 2004a, “Derivation and Analysis of Basic Computational Operations of Thalamocortical Circuits,” _Journal of Cognitive Neuroscience_ 16: 856–877.
-* Granger, R., 2004b, “Brain Circuit Implementation: High-precision Computation from Low-Precision Components,” in _Toward Replacement Parts for the Brain_, T. Berger and D. Glanzman, eds., Cambridge, MA: MIT Press, pp. 277–294.
-* Griewank, A., 2000, _Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation_, Philadlphia, PA: Society for Industrial and Applied Mathematics (SIAM).
-* Guizzo, E., 2011, “How Google’s Self-driving Car Works,” _IEEE Spectrum Online_. [\[Available online\]](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/how-google-self-driving-car-works)
-* Hailperin, T., 1996, _Sentential Probability Logic: Origins, Development, Current Status, and Technical Applications,_ Bethlehem, United States: Lehigh University Press.
-* Hailperin, T., 2010, _Logic with a Probability Semantics,_ Bethlehem, United States: Lehigh University Press.
-* Halpern, J. Y., 1990, “An Analysis of First-order Logics of Probability,” _Artificial Intelligence,_ 46: 311–350.
-* Halpern, J., Harper, R., Immerman, N., Kolaitis, P. G., Vardi, M. & Vianu, V., 2001, “On the Unusual Effectiveness of Logic in Computer Science,” _The Bulletin of Symbolic Logic_, 7.2: 213–236.
-* Hamkins, J. & Lewis, A., 2000, “Infinite Time Turing Machines,” _Journal of Symbolic Logic_, 65.2: 567–604.
-* Harnad, S., 1991, “Other Bodies, Other Minds: A Machine Incarnation of an Old Philosophical Problem,” _Minds and Machines_, 1.1: 43–54.
-* Haugeland, J., 1985, _Artificial Intelligence: The Very Idea_, Cambridge, MA: MIT Press.
-* Hendler, J. & Jennifer G., 2008, “Metcalfe’s Law, Web 2.0, and the Semantic Web,” _Web Semantics: Science, Services and Agents on the World Wide Web,_ 6.1: 14–20.
-* Hinton, G., Deng, L., Yu, D., Dahl, G.E., Mohamed, A. R., Jaitly, N., Senior, A., Vanhoucke, V., Nguyen, P., Sainath, T. & Kingsbury, B., 2012, “Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups,” _IEEE Signal Processing Magazine_, 29.6: 82–97.
-* Hoffman, R. R., Hayes, P. J. & Ford, K. M., 2001, “Human-Centered Computing: Thinking In and Out of the Box,” _IEEE Intelligent Systems_, 16.5: 76–78.
-* Hoffman, R. R., Bradshaw J. M., Hayes P. J. & Ford K. M., 2003, “ The Borg Hypothesis,” _IEEE Intelligent Systems_, 18.5: 73–75.
-* Hofstadter, D. & McGraw, G., 1995, “Letter Spirit: Esthetic Perception and Creative Play in the Rich Microcosm of the Roman Alphabet,” in Hofstadter’s _Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought_, New York, NY: Basic Books, pp. 407–488.
-* Hornik, K., Stinchcombe, M. & White, H., 1989, “Multilayer Feedforward Networks are Universal Approximators,” _Neural Networks_, 2.5: 359–366.
-* Hutter, M., 2005, _Universal Artificial Intelligence_, Berlin: Springer.
-* Joy, W., 2000, “Why the Future Doesn’t Need Us,” _Wired_ 8.4. \[[Available online](https://www.wired.com/2000/04/joy-2/)]
-* Kahneman, D., 2013. _Thinking, Fast and Slow_, New York, NY: Farrar, Straus, and Giroux.
-* Kaufmann, M., Manolios, P. & Moore, J. S., 2000, _Computer-Aided Reasoning: ACL2 Case Studies_, Dordrecht, The Netherlands: Kluwer Academic Publishers.
-* Klenk, M., Forbus, K., Tomai, E., Kim,H. & Kyckelhahn, B., 2005, “Solving Everyday Physical Reasoning Problems by Analogy using Sketches,” in _Proceedings of 20th National Conference on Artificial Intelligence_ (AAAI-05), Pittsburgh, PA.
-* Kolata, G., 1996, “Computer Math Proof Shows Reasoning Power,” in _New York Times_. \[[Availabe online](http://www.nytimes.com/library/cyber/week/1210math.html)]
-* Koller, D., Levy, A. & Pfeffer, A., 1997, “P-CLASSIC: A Tractable Probablistic Description Logic,” in _Proceedings of the AAAI 1997 Meeting_, 390–397.
-* Kurzweil, R., 2006, _The Singularity Is Near: When Humans Transcend Biology_, New York, NY: Penguin USA.
-* Kurzweil, R., 2000, _The Age of Spiritual Machines: When Computers Exceed Human Intelligence_, New York, NY: Penguin USA.
-* LaForte, G., Hayes P. & Ford, K., 1998, “Why Gödel’s Theorem Cannot Refute Computationslism,” _Artificial Intelligence_, 104: 265–286.
-* Laird, J. E., 2012, _The Soar Cognitive Architecture_, Cambridge, MA: MIT Press.
-* Laird, J. & VanLent M., 2001, “Human-level AI’s Killer Application: Interactive Computer Games,” _AI Magazine_ 22.2:15–26.
-* LeCun, Y., Bengio, Y. & Hinton G., 2015, “Deep Learning,” _Nature_, 521: 436–444.
-* Lenat, D., 1983, “EURISKO: A Program that Learns New Heuristics and Domain Concepts,” _Artificial Intelligence_, 21(1-2): 61–98. doi:10.1016/s0004-3702(83)80005-8
-* Lenat, D., & Guha, R. V., 1990, _Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project_, Reading, MA: Addison Wesley.
-* Lenzen, W., 2004, “Leibniz’s Logic,” in Gabbay, D., Woods, J. and Kanamori, A., eds., _Handbook of the History of Logic_, Elsevier, Amsterdam, The Netherlands, pp. 1–83.
-* Lewis, H. & Papadimitriou, C., 1981, _Elements of the Theory of Computation_, Prentice Hall, Englewood Cliffs, NJ: Prentice Hall.
-* Litt, A., Eliasmith, C., Kroon, F., Weinstein, S. & Thagard, P., 2006, “Is the Brain a Quantum Computer?” _Cognitive Science_ 30: 593–603.
-* Lucas, J. R., 1964, “Minds, Machines, and Gödel,” in _Minds and Machines_, A. R. Anderson, ed., Prentice-Hall, NJ: Prentice-Hall, pp. 43–59.
-* Luger, G., 2008, _Artificial Intelligence: Structures and Strategies for Complex Problem Solving_, New York, NY: Pearson.
-* Luger, G. & Stubblefield, W., 1993, _Artificial Intelligence: Structures and Strategies for Complex Problem Solving_, Redwood, CA: Benjamin Cummings.
-* Lopez, A., 2008, “Statistical Machine Translation,” _ACM Computing Surveys_, 40.3: 1–49.
-* Malle, B. F., Scheutz, M., Arnold, T., Voiklis, J. & Cusimano, C., 2015, “Sacrifice One For the Good of Many?: People Apply Different Moral Norms to Human and Robot Agents,” in _Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI ’15)_ (New York, NY: ACM), pp. 117–124.
-* Manzano, M., 1996, _Extensions of First Order Logic_, Cambridge, UK: Cambridge University Press.
-* Marcus, G., 2013, “Why Can’t My Computer Understand Me?,” in _The New Yorker_, August 2013. \[[Available online](http://www.newyorker.com/online/blogs/elements/2013/08/why-cant-my-computer-understand-me.html)]
-* McCarthy, J. & Hayes, P., 1969, “Some Philosophical Problems from the Standpoint of Artificial Intelligence,” in _Machine Intelligence 4_, B. Meltzer and D. Michie, eds., Edinburgh: Edinburgh University Press, 463–502.
-* Mueller, E., 2006, _Commonsense Reasoning_, San Francisco, CA: Morgan Kaufmann.
-* Murphy, K. P., 2012, _Machine Learning: A Probabilistic Perspective_, Cambridge, MA: MIT Press.
-* Minsky, M. & Pappert, S., 1969, _Perceptrons: An Introduction to Computational Geometry_, Cambridge, MA: MIT Press.
-* Montague, R., 1970, “Universal Grammar,” _Theoria,_ 36, 373–398.
-* Moor, J., 2006, “The Nature, Importance, and Difficulty of Machine Ethics”, _IEEE Intelligent Systems_ 21.4: 18–21.
-* Moor, J., 1985, “What is Computer Ethics?” _Metaphilosophy_ 16.4: 266–274.
-* Moor, J., ed., 2003, _The Turing Test: The Elusive Standard of Artificial Intelligence_, Dordrecht, The Netherlands: Kluwer Academic Publishers.
-* Moravec, H., 1999, _Robot: Mere Machine to Transcendant Mind_, Oxford, UK: Oxford University Press,
-* Naumowicz, A. & Kornilowicz., A., 2009, “A Brief Overview of Mizar,” in _Theorem Proving in Higher Order Logics,_ S. Berghofer, T. Nipkow, C. Urban & M. Wenzel, eds., Berlin: Springer, pp. 67–72.
-* Newell, N., 1973, “You Can’t Play 20 Questions with Nature and Win: Projective Comments on the Papers of this Symposium”, in _Visual Information Processing_, W. Chase, ed., New York, NY: Academic Press, pp. 283–308.
-* Nilsson, N., 1998, _Artificial Intelligence: A New Synthesis_, San Francisco, CA: Morgan Kaufmann.
-* Nilsson, N., 1987, _Principles of Artificial Intelligence_, New York, NY: Springer-Verlag.
-* Nilsson, N., 1991, “Logic and Artificial Intelligence,” _Artificial Intelligence_, 47: 31–56.
-* Nozick, R., 1970, “Newcomb’s Problem and Two Principles of Choice,” in _Essays in Honor of Carl G. Hempel_, N. Rescher, ed., Highlands, NJ: Humanities Press, pp. 114–146. This appears to be the very first published treatment of NP – though the paradox goes back to its creator: William Newcomb, a physicist.
-* Osherson, D., Stob, M. & Weinstein, S., 1986, _Systems That Learn_, Cambridge, MA: MIT Press.
-* Pearl, J., 1988, _Probabilistic Reasoning in Intelligent Systems_, San Mateo, CA: Morgan Kaufmann.
-* Pennington, J., Socher R., & Manning C. D., 2014, “GloVe: Global Vectors for Word Representation,” in _Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)_, pp. 1532–1543. \[[Available online](http://www.aclweb.org/anthology/D14-1162)]
-* Penrose, R., 1989, _The Emperor’s New Mind_, Oxford, UK: Oxford University Press.
-* Penrose, R., 1994, _Shadows of the Mind_, Oxford, UK: Oxford University Press.
-* Penrose, R., 1996, “Beyond the Doubting of a Shadow: A Reply to Commentaries on _Shadows of the Mind,_” _Psyche_, 2.3. This paper is available [online.](http://www.calculemus.org/MathUniversalis/NS/10/01penrose.html)
-* Pereira, L., & Saptawijaya A., 2016, _Programming Machine Ethics,_ Berlin, Germany: Springer
-* Pinker, S., 1997, _How the Mind Works,_ New York, NY: Norton.
-* Pollock, J., 2006, _Thinking about Acting: Logical Foundations for Rational Decision Making,_ Oxford, UK: Oxford University Press.
-* Pollock, J., 2001, “Defeasible Reasoning with Variable Degrees of Justification,” _Artificial Intelligence_, 133, 233–282.
-* Pollock, J., 1995, _Cognitive Carpentry: A Blueprint for How to Build a Person_, Cambridge, MA: MIT Press.
-* Pollock, J., 1992, “How to Reason Defeasibly,” _Artificial Intelligence_, 57, 1–42.
-* Pollock, J., 1989, _How to Build a Person: A Prolegomenon_, Cambridge, MA: MIT Press.
-* Pollock, J., 1974, _Knowledge and Justification_, Princeton, NJ: Princeton University Press.
-* Pollock, J., 1967, “Criteria and our Knowledge of the Material World,” _Philosophical Review_, 76, 28–60.
-* Pollock, J., 1965, _Analyticity and Implication,_ PhD dissertation, University of California at Berkeley (Philosophy).
-* Potter, M.D., 2004, _Set Theory and its Philosophy_, Oxford, UK: Oxford University Press
-* Preston, J. & Bishop, M., 2002, _Views into the Chinese Room: New Essays on Searle and Artificial Intelligence_, Oxford, UK: Oxford University Press.
-* Putnam, H., 1965, “Trial and Error Predicates and a Solution to a Problem of Mostowski,” _Journal of Symbolic Logic,_ 30.1, 49–57.
-* Putnam, H., 1963, “Degree of Confirmation and Inductive Logic,” in _The Philosophy of Rudolf Carnap_, Schilipp, P., ed., Open Court, pp. 270–292.
-* Rajat, R., Anand, M. & Ng, A. Y., 2009, “Large-scale Deep Unsupervised Learning Using Graphics Processors,” in _Proceedings of the 26th Annual International Conference on Machine Learning_, ACM, pp. 873–880.
-* Rapaport, W., 1988, “Syntactic Semantics: Foundations of Computational Natural-Language Understanding,” in _Aspects of Artificial Intelligence_, J. H. Fetzer ed., Dordrecht, The Netherlands: Kluwer Academic Publishers, 81–131.
-* Rapaport, W. & Shapiro, S., 1999, “Cognition and Fiction: An Introduction,” _Understanding Language Understanding: Computational Models of Reading_, A. Ram & K. Moorman, eds., Cambridge, MA: MIT Press, 11–25. \[[Available online](https://cse.buffalo.edu/\~rapaport/Papers/fiction.ashwin.pdf)]
-* Reeke, G. & Edelman, G., 1988, “Real Brains and Artificial Intelligence,” in _The Artificial Intelligence Debate: False Starts, Real Foundations_, Cambridge, MA: MIT Press, pp. 143–173.
-* Richardson, M. & Domingos, P., 2006, “Markov Logic Networks,” _Machine Learning,_ 62.1–2:107–136.
-* Robertson, G. & Watson, I., 2015, “A Review of Real-Time Strategy Game AI,” _AI Magazine_, 35.4: 75–104.
-* Rosenschein, S. & Kaelbling, L., 1986, “The Synthesis of Machines with Provable Epistemic Properties,” in _Proceedings of the 1986 Conference on Theoretical Aspects of Reasoning About Knowledge_, San Mateo, CA: Morgan Kaufmann, pp. 83–98.
-* Rumelhart, D. & McClelland, J., 1986, eds., _Parallel Distributed Processing_, Cambridge, MA: MIT Press.
-* Russell, S., 1997, “Rationality and Intelligence,” _Artificial Intelligence_, 94: 57–77. \[[Version available online from author](https://people.eecs.berkeley.edu/\~russell/papers/aij-cnt.pdf)]
-* Russell, S. & Norvig, P., 1995, _Artificial Intelligence: A Modern Approach_, Saddle River, NJ: Prentice Hall.
-* Russell, S. & Norvig, P., 2002, _Artificial Intelligence: A Modern Approach 2nd edition_, Saddle River, NJ: Prentice Hall.
-* Russell, S. & Norvig, P., 2009, _Artificial Intelligence: A Modern Approach 3rd edition_, Saddle River, NJ: Prentice Hall.
-* Rychtyckyj, N. & Plesco, C., 2012, “Applying Automated Language Translation at a Global Enterprise Level,” _AI Magazine_, 34.1: 43–54.
-* Scanlon, T. M., 1982, “Contractualism and Utilitarianism,” in A. Sen and B. Williams, eds., _Utilitarianism and Beyond,_ Cambridge: Cambridge University Press, pp. 103–128.
-* Schank, R., 1972, “Conceptual Dependency: A Theory of Natural Language Understanding,” _Cognitive Psychology_, 3.4: 532–631.
-* Schaul, T. & Schmidhüber, J., 2010, “Metalearning,” _Scholarpedia_ 5(6): 4650. URL: http://www.scholarpedia.org/article/Metalearning
-* Schmidhüber, J., 2009, “Ultimate Cognition à la Gödel,” _Cognitive Computation_ 1.2: 177–193.
-* Searle, J., 1997, _The Mystery of Consciousness_, New York, NY: New York Review of Books.
-* Searle, J., 1980, “Minds, Brains and Programs,” _Behavioral and Brain Sciences_, 3: 417–424.
-* Searle, J., 1984, _Minds, Brains and Science,_ Cambridge, MA: Harvard University Press. The Chinese Room Argument is covered in Chapter Two, “Can Computers Think?”.
-* Searle, J., 2014, “What Your Computer Can’t Know,” _New York Review of Books_, October 9.
-* Shapiro, S., 2000, “An Introduction to SNePS 3,” in _Conceptual Structures: Logical, Linguistic, and Computational Issues. Lecture Notes in Artificial Intelligence 1867_, B. Ganter & G. W. Mineau, eds., Springer-Verlag, 510–524.
-* Shapiro, S., 2003, “Mechanism, Truth, and Penrose’s New Argument,” _Journal of Philosophical Logic_, 32.1: 19–42.
-* Siegelmann, H., 1999, _Neural Networks and Analog Computation: Beyond the Turing Limit_, Boston, MA: Birkhauser.
-* Siegelmann, H. & and Sontag, E., 1994, “Analog Computation Via Neural Nets,” _Theoretical Computer Science_, 131: 331–360.
-* Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., van den Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel T. & Hassabis D., 2016, “Mastering the Game of Go with Deep Neural Networks and Tree Search,” _Nature_, 529: 484–489.
-* Shin, S-J, 2002, _The Iconic Logic of Peirce’s Graphs,_ Cambridge, MA: MIT Press.
-* Smolensky, P., 1988, “On the Proper Treatment of Connectionism,” _Behavioral & Brain Sciences_, 11: 1–22.
-* Somers, J., 2013, “The Man Who Would Teach Machines to Think,” in _The Atlantic_. \[[Available online](http://theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/)]
-* Stanovich, K. & West, R., 2000, “Individual Differences in Reasoning: Implications for the Rationality Debate,” _Behavioral and Brain Sciences_, 23.5: 645–665.
-* Strzalkowski, T. & Harabagiu, M. S., 2006, eds., _Advances in Open Domain Question Answering_; in the series Text, Speech and Language Technology, volume 32, Dordrecht, The Netherlands: Springer-Verlag.
-* Sun, R., 2002, _Duality of the Mind: A Bottom Up Approach Toward Cognition_, Mahwah, NJ: Lawrence Erlbaum.
-* Sun, R., 1994, _Integrating Rules and Connectionism for Robust Commonsense Reasoning_, New York, NY: John Wiley and Sons.
-* Sutton R. S. & Barto A. G., 1998, _Reinforcement Learning: An Introduction_, Cambridge, MA: MIT Press.
-* Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I. & Fergus, R., 2014, “Intriguing Properties of Neural Networks,” in _Second International Conference on Learning Representations_, Banff, Canada. \[[Available online](https://arxiv.org/pdf/1312.6199.pdf)]
-* Hastie, T., Tibshirani, R., & Jerome, F., 2009, _The Elements of Statistical Learning_, in the series _Springer Series in Statistics_, New York: Springer.
-* Turing, A., 1950, “Computing Machinery and Intelligence,” _Mind_, LIX: 433–460.
-* Turing, A., 1936, “On Computable Numbers with Applications to the Entscheidung-Problem,” _Proceedings of the London Mathematical Society_, 42: 230–265.
-* Vilalta, R. & Drissi, Y., 2002, “A Perspective View and Survey of Meta-learning,” _Artificial Intelligence Review_, 18.2:77–95.
-* Voronkov, A., 1995, “The Anatomy of Vampire: Implementing Bottom-Up Procedures with Code Trees,” _Journal of Automated Reasoning_, 15.2.
-* Wallach, W. & Allen, C., 2010, _Moral Machines: Teaching Robots Right from Wrong,_ Oxford, UK: Oxford University Press.
-* Wermter, S. & Sun, R., 2001 (Spring), “The Present and the Future of Hybrid Neural Symbolic Systems: Some Reflections from the Neural Information Processing Systems Workshop,” _AI Magazine_, 22.1: 123–125.
-* Suppes, P., 1972, _Axiomatic Set Theory_, New York, NY: Dover.
-* Whiteson, S. & Whiteson, D., 2009, “Machine Learning for Event Selection in High Energy Physics,” _Engineering Applications of Artificial Intelligence_ 22.8: 1203–1217.
-* Williams, D. E., Hinton G. E., & Williams R. J., 1986 “Learning Representations by Back-propagating Errors,” _Nature_, 323.10: 533–536.
-* Winston, P., 1992, _Artificial Intelligence_, Reading, MA: Addison-Wesley.
-* Wos, L., Overbeek, R., Lusk R. & Boyle, J., 1992, _Automated Reasoning: Introduction and Applications (2nd edition)_, New York, NY: McGraw-Hill.
-* Wos, L., 2013, “The Legacy of a Great Researcher,” in _Automated Reasoning and Mathematics: Essays in Memory of William McCune_, Bonacina, M.P. & Stickel, M.E., eds., 1–14. Berlin: Springer.
-* Zalta, E., 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: Bradford Books.
+* Bringsjord, S. & Ferrucci, D., 1998, “Logic and Artificial Intelligence: Divorced, Still Married, Separated…?” *Minds and Machines*, 8: 273–308.
+* Bringsjord, S. & Schimanski, B., 2003, “What is Artificial Intelligence? Psychometric AI as an Answer,” *Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-2003)*, (San Francisco, CA: MIT Morgan Kaufmann), pp. 887–893.
+* Bringsjord, S. & Ferrucci, D., 2000, *Artificial Intelligence and Literary Creativity: Inside the Mind of Brutus, a Storytelling Machine*, Mahwah, NJ: Lawrence Erlbaum.
+* Bringsjord, S. & van Heuveln, B., 2003, “The Mental Eye Defense of an Infinitized Version of Yablo’s Paradox,” *Analysis* 63.1: 61–70.
+* Bringsjord S. & Xiao, H., 2000, “A Refutation of Penrose’s Gödelian Case Against Artificial Intelligence,” *Journal of Experimental and Theoretical Artificial Intelligence*, 12: 307–329.
+* Bringsjord, S. & Zenzen, M., 2002, “Toward a Formal Philosophy of Hypercomputation,” *Minds and Machines*, 12: 241–258.
+* Bringsjord, S., 2000, “Animals, Zombanimals, and the Total Turing Test: The Essence of Artificial Intelligence,” *Journal of Logic, Language, and Information*, 9: 397–418.
+* Bringsjord, S., 1998, “Philosophy and ‘Super’ Computation,” *The Digital Phoenix: How Computers are Changing Philosophy*, J. Moor and T. Bynam, eds., Oxford, UK: Oxford University Press, pp. 231–252.
+* Bringsjord, S., 1991, “Is the Connectionist-Logicist Clash one of AI’s Wonderful Red Herrings?” *Journal of Experimental & Theoretical AI*, 3.4: 319–349.
+* Bringsjord, S., Govindarajulu N. S., Eberbach, E. & Yang, Y., 2012, “Perhaps the Rigorous Modeling of Economic Phenomena Requires Hypercomputation,” *International Journal of Unconventional Computing,* 8.1: 3–32. \[[Preprint available online](http://kryten.mm.rpi.edu/SB_NSG_EE_YY_28-9-2010.pdf)]
+* Bringsjord, S., 2011, “Psychometric Artificial Intelligence,” *Journal of Experimental and Theoretical Artificial Intelligence*, 23.3: 271–277.
+* Bringsjord, S. & Govindarajulu N. S., 2012, “Given the Web, What is Intelligence, Really?” *Metaphilosophy* 43.12: 464–479.
+* Brooks, R. A., 1991, “Intelligence Without Representation,” *Artificial Intelligence*, 47: 139–159.
+* Browne, C. B., Powley, E. & Whitehouse, D., 2012, “A Survey of Monte Carlo Tree Search Methods,” *A Survey of Monte Carlo Tree Search Methods*, 4.1: 1–43.
+* Buchanan, B. G., 2005, “A (Very) Brief History of Artificial Intelligence,” *AI Magazine*, 26.4: 53–60.
+* Carroll, L., 1958, *Symbolic Logic; Game of Logic*, New York, NY: Dover.
+* Cassimatis, N., 2006, “Cognitive Substrate for Human-Level Intelligence,” *AI Magazine*, 27.2: 71–82.
+* Chajed, T., Chen, H., Chlipala, A., Kaashoek, F., Zeldovich, N., & Ziegler, D., 2017, “Research Highlight: Certifying a File System using Crash Hoare Logic: Correctness in the Presence of Crashes,” *Communications of the ACM (CACM),* 60.4: 75–84.
+* Chalmers, D., 2010, “The Singularity: A Philosophical Analysis,” *Journal of Consciousness Studies*, 17: 7–65.
+* Charniak, E., 1993, *Statistical Language Learning*, Cambridge: MIT Press.
+* Charniak, E. & McDermott, D., 1985, *Introduction to Artificial Intelligence*, Reading, MA: Addison Wesley.
+* Chellas, B., 1980, *Modal Logic: An Introduction*, Cambridge, UK: Cambridge University Press.
+* Chisholm, R., 1957, *Perceiving*, Ithaca, NY: Cornell University Press.
+* Chisholm, R., 1966, *Theory of Knowledge*, Englewood Cliffs, NJ: Prentice-Hall.
+* Chisholm, R., 1977, *Theory of Knowledge 2nd ed*, Englewood Cliffs, NJ: Prentice-Hall.
+* Clark, A., 2003, *Natural-Born Cyborgs*, Oxford, UK: Oxford University Press.
+* Clark, M. H., 2010, *Cognitive Illusions and the Lying Machine: A Blueprint for Sophistic Mendacity*, PhD dissertation, Rensselaer Polytechnic Institute (Cognitive Science).
+* Copeland, B. J., 1998, “Super Turing Machines,” *Complexity*, 4: 30–32.
+* Copi, I. & Cohen, C., 2004, *Introduction to Logic*, Saddle River, NJ: Prentice-Hall.
+* Dennett, D., 1998, “Artificial Life as Philosophy,” in his *Brainchildren: Essays on Designing Minds*, Cambridge, MA: MIT Press, pp. 261–263.
+* Dennett, D., 1994, “The Practical Requirements for Making a Conscious Robot,” *Philosophical Transactions of the Royal Society of London*, 349: 133–146.
+* Dennett, D., 1979, “Artificial Intelligence as Philosophy and as Psychology,” *Philosophical Perspectives in Artificial Intelligence*, M. Ringle, ed., Atlantic Highlands, NJ: Humanities Press, pp. 57–80.
+* Descartes, 1637, R., in Haldane, E. and Ross, G.R.T., translators, 1911, *The Philosophical Works of Descartes, Volume 1,* Cambridge, UK: Cambridge University Press.
+* Dick, P. K., 1968, *Do Androids Dream of Electric Sheep?*, New York, NY: Doubleday.
+* Domingos, P., 2012, “A Few Useful Things to Know about Machine Learning,” *Communications of the ACM*, 55.10: 78–87.
+* Dreyfus, H., 1972, *What Computers Can’t Do*, Cambridge, MA: MIT Press.
+* Dreyfus, H., 1992, *What Computers Still Can’t Do*, Cambridge, MA: MIT Press.
+* Dreyfus, H. & Dreyfus, S., 1987, *Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*, New York, NY: Free Press.
+* Ebbinghaus, H., Flum, J. & Thomas, W., 1984, *Mathematical Logic*, New York, NY: Springer-Verlag.
+* Eden, A., Moor, J., Soraker, J. & Steinhart, E., 2013, *Singularity Hypotheses: A Scientific and Philosophical Assessment*, New York, NY: Springer.
+* España-Bonet, C., Enache, R., Slaski, A., Ranta, A., Màrquez L. & Gonzàlez, M., 2011, “Patent Translation within the MOLTO project,” in *Proceedings of the 4th Workshop on Patent Translation, MT Summit XIII*, pp. 70–78.
+* Evans, G., 1968, “A Program for the Solution of a Class of Geometric-Analogy Intelligence-Test Questions,” in M. Minsky, ed., *Semantic Information Processing*, Cambridge, MA: MIT Press, pp. 271–353.
+* Fagin, R., Halpern, J. Y., Moses, Y. & Vardi, M., 2004, *Reasoning About Knowledge*, Cambridge, MA: MIT Press.
+* Ferrucci, D. & Lally, A., 2004, “UIMA: An Architectural Approach to Unstructured Information Processing in the Corporate Research Environment,” *Natural Language Engineering*, 10.3–4: 327–348. Cambridge, UK: Cambridge University Press.
+* Ferrucci, D., Brown, E., Chu-Carroll, J., Fan, J., Gondek, D., Kalyanpur, A., Lally, A., Murdock, J., Nyberg, E., Prager, J., Schlaefer, N. & Welty, C., 2010, “Building Watson: An Overview of the DeepQA Project,” *AI Magazine*, 31.3: 59–79.
+* Finnsson, H., 2012, “Generalized Monte-Carlo Tree Search Extensions for General Game Playing,” in *Proceedings of the Twenty-Sixth AAAI Conference on Artificial Intelligence (AAAI-2012)*, Toronto, Canda, pp. 1550–1556.
+* Fitelson, B., 2005, “Inductive Logic,” in Pfeifer, J. and Sarkar, S., eds., *Philosophy of Science: An Encyclopedia*, London, UK: Routledge, pp. 384–394.
+* Floridi, L., 2015, “Singularitarians, AItheists, and Why the Problem with Artificial Intelligence is H.A.L. (Humanity At Large), not HAL,” *APA Newsletter: Philosophy and Computers*, 14.2: 8–11.
+* Foot, P., 1967, “The Problem of Abortion and the Doctrine of the Double Effect,” *Oxford Review*, 5: 5–15.
+* Forbus, K. D. & Hinrichs, T. R., 2006, “Companion Cognitive Systems: A Step toward Human-Level AI,” *AI Magazine,* 27.2: 83.
+* Ford, K. M., Glymour C. & Hayes P., 1997, “On the Other Hand … Cognitive Prostheses,” *AI Magazine,* 18.3: 104.
+* Friedland, N., Allen, P., Matthews, G., Witbrock, M., Baxter, D., Curtis, J., Shepard, B., Miraglia, P., Angele, J., Staab, S., Moench, E., Oppermann, H., Wenke, D., Israel, D., Chaudhri, V., Porter, B., Barker, K., Fan, J., Yi Chaw, S., Yeh, P., Tecuci, D. & Clark, P., 2004, “Project Halo: Towards a Digital Aristotle,” *AI Magazine*, 25.4: 29–47.
+* Genesereth, M., Love, N. & Pell B., 2005, “General Game Playing: Overview of the AAAI Competition,” *AI Magazine*, 26.2: 62–72. \[[Available online](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI-09/paper/viewFile/566/775)]
+* Ginsberg, M., 1993, *Essentials of Artificial Intelligence*, New York, NY: Morgan Kaufmann.
+* Glymour, G., 1992, *Thinking Things Through*, Cambridge, MA: MIT Press.
+* Goertzel, B. & Pennachin, C., eds., 2007, *Artificial General Intelligence*, Berlin, Heidelberg: Springer-Verlag.
+* Gold, M., 1965, “Limiting Recursion,” *Journal of Symbolic Logic*, 30.1: 28–47.
+* Goldstine, H. & von Neumann, J., 1947, “Planning and Coding of Problems for an Electronic Computing Instrument,” *IAS Reports* Institute for Advanced Study, Princeton, NJ. \[This remarkable work is [available online](https://library.ias.edu/files/pdfs/ecp/planningcodingof0103inst.pdf) from the Institute for Advanced Study. Please note that this paper is Part II of a three-volume set. The first volume was devoted to a preliminary discussion, and the first author on it was Arthur Burks, joining Goldstine and von Neumann.]
+* Good, I., 1965, “Speculations Concerning the First Ultraintelligent Machines,” in *Advances in Computing* (vol. 6), F. Alt and M. Rubinoff, eds., New York, NY: Academic Press, pp. 31–38.
+* Govindarajulu, N. S., Bringsjord, S. & Licato J., 2013, “On Deep Computational Formalization of Natural Language,” in *Proceedings of the Workshop “Formalizing Mechanisms for Artificial General Intelligence and Cognition (Formal MAGiC),”* Osnabrück, Germany: PICS.
+* Govindarajulu, N. S., & Bringsjord, S., 2015, “Ethical Regulation of Robots Must Be Embedded in Their Operating Systems” in Trappl, R., ed., *A Construction Manual for Robot’s Ethical Systems: Requirements, Methods, Implementations*, Berlin, DE: Springer.
+* Govindarajulu, N. S., & Bringsjord, S., 2017, “On Automating the Doctrine of Double Effect,” in *Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)*, pp. 4722–4730. doi:10.24963/ijcai.2017/658
+* Granger, R., 2004a, “Derivation and Analysis of Basic Computational Operations of Thalamocortical Circuits,” *Journal of Cognitive Neuroscience* 16: 856–877.
+* Granger, R., 2004b, “Brain Circuit Implementation: High-precision Computation from Low-Precision Components,” in *Toward Replacement Parts for the Brain*, T. Berger and D. Glanzman, eds., Cambridge, MA: MIT Press, pp. 277–294.
+* Griewank, A., 2000, *Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation*, Philadlphia, PA: Society for Industrial and Applied Mathematics (SIAM).
+* Guizzo, E., 2011, “How Google’s Self-driving Car Works,” *IEEE Spectrum Online*. [\[Available online\]](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/how-google-self-driving-car-works)
+* Hailperin, T., 1996, *Sentential Probability Logic: Origins, Development, Current Status, and Technical Applications,* Bethlehem, United States: Lehigh University Press.
+* Hailperin, T., 2010, *Logic with a Probability Semantics,* Bethlehem, United States: Lehigh University Press.
+* Halpern, J. Y., 1990, “An Analysis of First-order Logics of Probability,” *Artificial Intelligence,* 46: 311–350.
+* Halpern, J., Harper, R., Immerman, N., Kolaitis, P. G., Vardi, M. & Vianu, V., 2001, “On the Unusual Effectiveness of Logic in Computer Science,” *The Bulletin of Symbolic Logic*, 7.2: 213–236.
+* Hamkins, J. & Lewis, A., 2000, “Infinite Time Turing Machines,” *Journal of Symbolic Logic*, 65.2: 567–604.
+* Harnad, S., 1991, “Other Bodies, Other Minds: A Machine Incarnation of an Old Philosophical Problem,” *Minds and Machines*, 1.1: 43–54.
+* Haugeland, J., 1985, *Artificial Intelligence: The Very Idea*, Cambridge, MA: MIT Press.
+* Hendler, J. & Jennifer G., 2008, “Metcalfe’s Law, Web 2.0, and the Semantic Web,” *Web Semantics: Science, Services and Agents on the World Wide Web,* 6.1: 14–20.
+* Hinton, G., Deng, L., Yu, D., Dahl, G.E., Mohamed, A. R., Jaitly, N., Senior, A., Vanhoucke, V., Nguyen, P., Sainath, T. & Kingsbury, B., 2012, “Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups,” *IEEE Signal Processing Magazine*, 29.6: 82–97.
+* Hoffman, R. R., Hayes, P. J. & Ford, K. M., 2001, “Human-Centered Computing: Thinking In and Out of the Box,” *IEEE Intelligent Systems*, 16.5: 76–78.
+* Hoffman, R. R., Bradshaw J. M., Hayes P. J. & Ford K. M., 2003, “ The Borg Hypothesis,” *IEEE Intelligent Systems*, 18.5: 73–75.
+* Hofstadter, D. & McGraw, G., 1995, “Letter Spirit: Esthetic Perception and Creative Play in the Rich Microcosm of the Roman Alphabet,” in Hofstadter’s *Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought*, New York, NY: Basic Books, pp. 407–488.
+* Hornik, K., Stinchcombe, M. & White, H., 1989, “Multilayer Feedforward Networks are Universal Approximators,” *Neural Networks*, 2.5: 359–366.
+* Hutter, M., 2005, *Universal Artificial Intelligence*, Berlin: Springer.
+* Joy, W., 2000, “Why the Future Doesn’t Need Us,” *Wired* 8.4. \[[Available online](https://www.wired.com/2000/04/joy-2/)]
+* Kahneman, D., 2013. *Thinking, Fast and Slow*, New York, NY: Farrar, Straus, and Giroux.
+* Kaufmann, M., Manolios, P. & Moore, J. S., 2000, *Computer-Aided Reasoning: ACL2 Case Studies*, Dordrecht, The Netherlands: Kluwer Academic Publishers.
+* Klenk, M., Forbus, K., Tomai, E., Kim,H. & Kyckelhahn, B., 2005, “Solving Everyday Physical Reasoning Problems by Analogy using Sketches,” in *Proceedings of 20th National Conference on Artificial Intelligence* (AAAI-05), Pittsburgh, PA.
+* Kolata, G., 1996, “Computer Math Proof Shows Reasoning Power,” in *New York Times*. \[[Availabe online](http://www.nytimes.com/library/cyber/week/1210math.html)]
+* Koller, D., Levy, A. & Pfeffer, A., 1997, “P-CLASSIC: A Tractable Probablistic Description Logic,” in *Proceedings of the AAAI 1997 Meeting*, 390–397.
+* Kurzweil, R., 2006, *The Singularity Is Near: When Humans Transcend Biology*, New York, NY: Penguin USA.
+* Kurzweil, R., 2000, *The Age of Spiritual Machines: When Computers Exceed Human Intelligence*, New York, NY: Penguin USA.
+* LaForte, G., Hayes P. & Ford, K., 1998, “Why Gödel’s Theorem Cannot Refute Computationslism,” *Artificial Intelligence*, 104: 265–286.
+* Laird, J. E., 2012, *The Soar Cognitive Architecture*, Cambridge, MA: MIT Press.
+* Laird, J. & VanLent M., 2001, “Human-level AI’s Killer Application: Interactive Computer Games,” *AI Magazine* 22.2:15–26.
+* LeCun, Y., Bengio, Y. & Hinton G., 2015, “Deep Learning,” *Nature*, 521: 436–444.
+* Lenat, D., 1983, “EURISKO: A Program that Learns New Heuristics and Domain Concepts,” *Artificial Intelligence*, 21(1-2): 61–98. doi:10.1016/s0004-3702(83)80005-8
+* Lenat, D., & Guha, R. V., 1990, *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*, Reading, MA: Addison Wesley.
+* Lenzen, W., 2004, “Leibniz’s Logic,” in Gabbay, D., Woods, J. and Kanamori, A., eds., *Handbook of the History of Logic*, Elsevier, Amsterdam, The Netherlands, pp. 1–83.
+* Lewis, H. & Papadimitriou, C., 1981, *Elements of the Theory of Computation*, Prentice Hall, Englewood Cliffs, NJ: Prentice Hall.
+* Litt, A., Eliasmith, C., Kroon, F., Weinstein, S. & Thagard, P., 2006, “Is the Brain a Quantum Computer?” *Cognitive Science* 30: 593–603.
+* Lucas, J. R., 1964, “Minds, Machines, and Gödel,” in *Minds and Machines*, A. R. Anderson, ed., Prentice-Hall, NJ: Prentice-Hall, pp. 43–59.
+* Luger, G., 2008, *Artificial Intelligence: Structures and Strategies for Complex Problem Solving*, New York, NY: Pearson.
+* Luger, G. & Stubblefield, W., 1993, *Artificial Intelligence: Structures and Strategies for Complex Problem Solving*, Redwood, CA: Benjamin Cummings.
+* Lopez, A., 2008, “Statistical Machine Translation,” *ACM Computing Surveys*, 40.3: 1–49.
+* Malle, B. F., Scheutz, M., Arnold, T., Voiklis, J. & Cusimano, C., 2015, “Sacrifice One For the Good of Many?: People Apply Different Moral Norms to Human and Robot Agents,” in *Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction (HRI ’15)* (New York, NY: ACM), pp. 117–124.
+* Manzano, M., 1996, *Extensions of First Order Logic*, Cambridge, UK: Cambridge University Press.
+* Marcus, G., 2013, “Why Can’t My Computer Understand Me?,” in *The New Yorker*, August 2013. \[[Available online](http://www.newyorker.com/online/blogs/elements/2013/08/why-cant-my-computer-understand-me.html)]
+* McCarthy, J. & Hayes, P., 1969, “Some Philosophical Problems from the Standpoint of Artificial Intelligence,” in *Machine Intelligence 4*, B. Meltzer and D. Michie, eds., Edinburgh: Edinburgh University Press, 463–502.
+* Mueller, E., 2006, *Commonsense Reasoning*, San Francisco, CA: Morgan Kaufmann.
+* Murphy, K. P., 2012, *Machine Learning: A Probabilistic Perspective*, Cambridge, MA: MIT Press.
+* Minsky, M. & Pappert, S., 1969, *Perceptrons: An Introduction to Computational Geometry*, Cambridge, MA: MIT Press.
+* Montague, R., 1970, “Universal Grammar,” *Theoria,* 36, 373–398.
+* Moor, J., 2006, “The Nature, Importance, and Difficulty of Machine Ethics”, *IEEE Intelligent Systems* 21.4: 18–21.
+* Moor, J., 1985, “What is Computer Ethics?” *Metaphilosophy* 16.4: 266–274.
+* Moor, J., ed., 2003, *The Turing Test: The Elusive Standard of Artificial Intelligence*, Dordrecht, The Netherlands: Kluwer Academic Publishers.
+* Moravec, H., 1999, *Robot: Mere Machine to Transcendant Mind*, Oxford, UK: Oxford University Press,
+* Naumowicz, A. & Kornilowicz., A., 2009, “A Brief Overview of Mizar,” in *Theorem Proving in Higher Order Logics,* S. Berghofer, T. Nipkow, C. Urban & M. Wenzel, eds., Berlin: Springer, pp. 67–72.
+* Newell, N., 1973, “You Can’t Play 20 Questions with Nature and Win: Projective Comments on the Papers of this Symposium”, in *Visual Information Processing*, W. Chase, ed., New York, NY: Academic Press, pp. 283–308.
+* Nilsson, N., 1998, *Artificial Intelligence: A New Synthesis*, San Francisco, CA: Morgan Kaufmann.
+* Nilsson, N., 1987, *Principles of Artificial Intelligence*, New York, NY: Springer-Verlag.
+* Nilsson, N., 1991, “Logic and Artificial Intelligence,” *Artificial Intelligence*, 47: 31–56.
+* Nozick, R., 1970, “Newcomb’s Problem and Two Principles of Choice,” in *Essays in Honor of Carl G. Hempel*, N. Rescher, ed., Highlands, NJ: Humanities Press, pp. 114–146. This appears to be the very first published treatment of NP – though the paradox goes back to its creator: William Newcomb, a physicist.
+* Osherson, D., Stob, M. & Weinstein, S., 1986, *Systems That Learn*, Cambridge, MA: MIT Press.
+* Pearl, J., 1988, *Probabilistic Reasoning in Intelligent Systems*, San Mateo, CA: Morgan Kaufmann.
+* Pennington, J., Socher R., & Manning C. D., 2014, “GloVe: Global Vectors for Word Representation,” in *Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP 2014)*, pp. 1532–1543. \[[Available online](http://www.aclweb.org/anthology/D14-1162)]
+* Penrose, R., 1989, *The Emperor’s New Mind*, Oxford, UK: Oxford University Press.
+* Penrose, R., 1994, *Shadows of the Mind*, Oxford, UK: Oxford University Press.
+* Penrose, R., 1996, “Beyond the Doubting of a Shadow: A Reply to Commentaries on *Shadows of the Mind,*” *Psyche*, 2.3. This paper is available [online.](http://www.calculemus.org/MathUniversalis/NS/10/01penrose.html)
+* Pereira, L., & Saptawijaya A., 2016, *Programming Machine Ethics,* Berlin, Germany: Springer
+* Pinker, S., 1997, *How the Mind Works,* New York, NY: Norton.
+* Pollock, J., 2006, *Thinking about Acting: Logical Foundations for Rational Decision Making,* Oxford, UK: Oxford University Press.
+* Pollock, J., 2001, “Defeasible Reasoning with Variable Degrees of Justification,” *Artificial Intelligence*, 133, 233–282.
+* Pollock, J., 1995, *Cognitive Carpentry: A Blueprint for How to Build a Person*, Cambridge, MA: MIT Press.
+* Pollock, J., 1992, “How to Reason Defeasibly,” *Artificial Intelligence*, 57, 1–42.
+* Pollock, J., 1989, *How to Build a Person: A Prolegomenon*, Cambridge, MA: MIT Press.
+* Pollock, J., 1974, *Knowledge and Justification*, Princeton, NJ: Princeton University Press.
+* Pollock, J., 1967, “Criteria and our Knowledge of the Material World,” *Philosophical Review*, 76, 28–60.
+* Pollock, J., 1965, *Analyticity and Implication,* PhD dissertation, University of California at Berkeley (Philosophy).
+* Potter, M.D., 2004, *Set Theory and its Philosophy*, Oxford, UK: Oxford University Press
+* Preston, J. & Bishop, M., 2002, *Views into the Chinese Room: New Essays on Searle and Artificial Intelligence*, Oxford, UK: Oxford University Press.
+* Putnam, H., 1965, “Trial and Error Predicates and a Solution to a Problem of Mostowski,” *Journal of Symbolic Logic,* 30.1, 49–57.
+* Putnam, H., 1963, “Degree of Confirmation and Inductive Logic,” in *The Philosophy of Rudolf Carnap*, Schilipp, P., ed., Open Court, pp. 270–292.
+* Rajat, R., Anand, M. & Ng, A. Y., 2009, “Large-scale Deep Unsupervised Learning Using Graphics Processors,” in *Proceedings of the 26th Annual International Conference on Machine Learning*, ACM, pp. 873–880.
+* Rapaport, W., 1988, “Syntactic Semantics: Foundations of Computational Natural-Language Understanding,” in *Aspects of Artificial Intelligence*, J. H. Fetzer ed., Dordrecht, The Netherlands: Kluwer Academic Publishers, 81–131.
+* Rapaport, W. & Shapiro, S., 1999, “Cognition and Fiction: An Introduction,” *Understanding Language Understanding: Computational Models of Reading*, A. Ram & K. Moorman, eds., Cambridge, MA: MIT Press, 11–25. \[[Available online](https://cse.buffalo.edu/\~rapaport/Papers/fiction.ashwin.pdf)]
+* Reeke, G. & Edelman, G., 1988, “Real Brains and Artificial Intelligence,” in *The Artificial Intelligence Debate: False Starts, Real Foundations*, Cambridge, MA: MIT Press, pp. 143–173.
+* Richardson, M. & Domingos, P., 2006, “Markov Logic Networks,” *Machine Learning,* 62.1–2:107–136.
+* Robertson, G. & Watson, I., 2015, “A Review of Real-Time Strategy Game AI,” *AI Magazine*, 35.4: 75–104.
+* Rosenschein, S. & Kaelbling, L., 1986, “The Synthesis of Machines with Provable Epistemic Properties,” in *Proceedings of the 1986 Conference on Theoretical Aspects of Reasoning About Knowledge*, San Mateo, CA: Morgan Kaufmann, pp. 83–98.
+* Rumelhart, D. & McClelland, J., 1986, eds., *Parallel Distributed Processing*, Cambridge, MA: MIT Press.
+* Russell, S., 1997, “Rationality and Intelligence,” *Artificial Intelligence*, 94: 57–77. \[[Version available online from author](https://people.eecs.berkeley.edu/\~russell/papers/aij-cnt.pdf)]
+* Russell, S. & Norvig, P., 1995, *Artificial Intelligence: A Modern Approach*, Saddle River, NJ: Prentice Hall.
+* Russell, S. & Norvig, P., 2002, *Artificial Intelligence: A Modern Approach 2nd edition*, Saddle River, NJ: Prentice Hall.
+* Russell, S. & Norvig, P., 2009, *Artificial Intelligence: A Modern Approach 3rd edition*, Saddle River, NJ: Prentice Hall.
+* Rychtyckyj, N. & Plesco, C., 2012, “Applying Automated Language Translation at a Global Enterprise Level,” *AI Magazine*, 34.1: 43–54.
+* Scanlon, T. M., 1982, “Contractualism and Utilitarianism,” in A. Sen and B. Williams, eds., *Utilitarianism and Beyond,* Cambridge: Cambridge University Press, pp. 103–128.
+* Schank, R., 1972, “Conceptual Dependency: A Theory of Natural Language Understanding,” *Cognitive Psychology*, 3.4: 532–631.
+* Schaul, T. & Schmidhüber, J., 2010, “Metalearning,” *Scholarpedia* 5(6): 4650. URL: http://www.scholarpedia.org/article/Metalearning
+* Schmidhüber, J., 2009, “Ultimate Cognition à la Gödel,” *Cognitive Computation* 1.2: 177–193.
+* Searle, J., 1997, *The Mystery of Consciousness*, New York, NY: New York Review of Books.
+* Searle, J., 1980, “Minds, Brains and Programs,” *Behavioral and Brain Sciences*, 3: 417–424.
+* Searle, J., 1984, *Minds, Brains and Science,* Cambridge, MA: Harvard University Press. The Chinese Room Argument is covered in Chapter Two, “Can Computers Think?”.
+* Searle, J., 2014, “What Your Computer Can’t Know,” *New York Review of Books*, October 9.
+* Shapiro, S., 2000, “An Introduction to SNePS 3,” in *Conceptual Structures: Logical, Linguistic, and Computational Issues. Lecture Notes in Artificial Intelligence 1867*, B. Ganter & G. W. Mineau, eds., Springer-Verlag, 510–524.
+* Shapiro, S., 2003, “Mechanism, Truth, and Penrose’s New Argument,” *Journal of Philosophical Logic*, 32.1: 19–42.
+* Siegelmann, H., 1999, *Neural Networks and Analog Computation: Beyond the Turing Limit*, Boston, MA: Birkhauser.
+* Siegelmann, H. & and Sontag, E., 1994, “Analog Computation Via Neural Nets,” *Theoretical Computer Science*, 131: 331–360.
+* Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., van den Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel T. & Hassabis D., 2016, “Mastering the Game of Go with Deep Neural Networks and Tree Search,” *Nature*, 529: 484–489.
+* Shin, S-J, 2002, *The Iconic Logic of Peirce’s Graphs,* Cambridge, MA: MIT Press.
+* Smolensky, P., 1988, “On the Proper Treatment of Connectionism,” *Behavioral & Brain Sciences*, 11: 1–22.
+* Somers, J., 2013, “The Man Who Would Teach Machines to Think,” in *The Atlantic*. \[[Available online](http://theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/)]
+* Stanovich, K. & West, R., 2000, “Individual Differences in Reasoning: Implications for the Rationality Debate,” *Behavioral and Brain Sciences*, 23.5: 645–665.
+* Strzalkowski, T. & Harabagiu, M. S., 2006, eds., *Advances in Open Domain Question Answering*; in the series Text, Speech and Language Technology, volume 32, Dordrecht, The Netherlands: Springer-Verlag.
+* Sun, R., 2002, *Duality of the Mind: A Bottom Up Approach Toward Cognition*, Mahwah, NJ: Lawrence Erlbaum.
+* Sun, R., 1994, *Integrating Rules and Connectionism for Robust Commonsense Reasoning*, New York, NY: John Wiley and Sons.
+* Sutton R. S. & Barto A. G., 1998, *Reinforcement Learning: An Introduction*, Cambridge, MA: MIT Press.
+* Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I. & Fergus, R., 2014, “Intriguing Properties of Neural Networks,” in *Second International Conference on Learning Representations*, Banff, Canada. \[[Available online](https://arxiv.org/pdf/1312.6199.pdf)]
+* Hastie, T., Tibshirani, R., & Jerome, F., 2009, *The Elements of Statistical Learning*, in the series *Springer Series in Statistics*, New York: Springer.
+* Turing, A., 1950, “Computing Machinery and Intelligence,” *Mind*, LIX: 433–460.
+* Turing, A., 1936, “On Computable Numbers with Applications to the Entscheidung-Problem,” *Proceedings of the London Mathematical Society*, 42: 230–265.
+* Vilalta, R. & Drissi, Y., 2002, “A Perspective View and Survey of Meta-learning,” *Artificial Intelligence Review*, 18.2:77–95.
+* Voronkov, A., 1995, “The Anatomy of Vampire: Implementing Bottom-Up Procedures with Code Trees,” *Journal of Automated Reasoning*, 15.2.
+* Wallach, W. & Allen, C., 2010, *Moral Machines: Teaching Robots Right from Wrong,* Oxford, UK: Oxford University Press.
+* Wermter, S. & Sun, R., 2001 (Spring), “The Present and the Future of Hybrid Neural Symbolic Systems: Some Reflections from the Neural Information Processing Systems Workshop,” *AI Magazine*, 22.1: 123–125.
+* Suppes, P., 1972, *Axiomatic Set Theory*, New York, NY: Dover.
+* Whiteson, S. & Whiteson, D., 2009, “Machine Learning for Event Selection in High Energy Physics,” *Engineering Applications of Artificial Intelligence* 22.8: 1203–1217.
+* Williams, D. E., Hinton G. E., & Williams R. J., 1986 “Learning Representations by Back-propagating Errors,” *Nature*, 323.10: 533–536.
+* Winston, P., 1992, *Artificial Intelligence*, Reading, MA: Addison-Wesley.
+* Wos, L., Overbeek, R., Lusk R. & Boyle, J., 1992, *Automated Reasoning: Introduction and Applications (2nd edition)*, New York, NY: McGraw-Hill.
+* Wos, L., 2013, “The Legacy of a Great Researcher,” in *Automated Reasoning and Mathematics: Essays in Memory of William McCune*, Bonacina, M.P. & Stickel, M.E., eds., 1–14. Berlin: Springer.
+* Zalta, E., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: Bradford Books.
 
 ## Academic Tools
 
@@ -769,9 +767,9 @@ Searle（2014）认为 Bostrom 的书是误导和基本错误的，我们不需�
 
 ## Other Internet Resources
 
-* [Artificial Intelligence Positioned to be a Game-changer](http://www.cbsnews.com/news/60-minutes-artificial-intelligence-charlie-rose-robot-sophia/), an excellent segment on AI from CBS’s esteemed _60 Minutes_ program, this gives a popular science level overview of the current state of AI (as of Ocotober, 2016). The videos in the segment covers applications of AI, Watson’s evolution from winning _Jeopardy!_ to fighting cancer and advances in robotics.
+* [Artificial Intelligence Positioned to be a Game-changer](http://www.cbsnews.com/news/60-minutes-artificial-intelligence-charlie-rose-robot-sophia/), an excellent segment on AI from CBS’s esteemed *60 Minutes* program, this gives a popular science level overview of the current state of AI (as of Ocotober, 2016). The videos in the segment covers applications of AI, Watson’s evolution from winning *Jeopardy!* to fighting cancer and advances in robotics.
 * [MacroVU’s Map Coverage of the Great Debates of AI](http://affect-reason-utility.com/ai/ai.html)
-* _AIMA_ textbook:
+* *AIMA* textbook:
   * [web site for first edition (1995)](http://www.cs.berkeley.edu/\~russell/aima1e.html)
   * [web site for second edition (2002)](http://aima.cs.berkeley.edu/2nd-ed/)
   * [web site for the third edition (2009)](http://aima.cs.berkeley.edu/)
@@ -787,7 +785,7 @@ Searle（2014）认为 Bostrom 的书是误导和基本错误的，我们不需�
 * Baydin A.G., Pearlmutter, B. A., Radul, A. A. & Siskind J. M., 2015, “Automatic Differentiation in Machine Learning: A Survey,” arXiv:1502.05767 \[cs.SC]. URL: [\[1502.05767\] Automatic differentiation in machine learning: a survey](http://arxiv.org/abs/1502.05767)
 * Benenson, 2016, “[Classification Datasets Results,](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)” URL = [http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html) (Last accessed in July 2018).
 * LeCun, Y., Cortes, C. and Burges, C. J.C, 2017, “THE MNIST DATABASE of handwritten digits,” URL = http://yann.lecun.com/exdb/mnist/ (Last accessed in July 2018).
-* Levesque, J. H., 2013, “[On Our Best Behaviour](http://www.cs.toronto.edu/\~hector/Papers/ijcai-13-paper.pdf),” _Speech for the IJCAI 2013 Award for Research Excellence_, Beijing.
+* Levesque, J. H., 2013, “[On Our Best Behaviour](http://www.cs.toronto.edu/\~hector/Papers/ijcai-13-paper.pdf),” *Speech for the IJCAI 2013 Award for Research Excellence*, Beijing.
 
 ### Online Courses on AI
 
@@ -801,8 +799,8 @@ Searle（2014）认为 Bostrom 的书是误导和基本错误的，我们不需�
 
 ### Acknowledgments
 
-Thanks are due to Peter Norvig and Prentice-Hall for allowing figures from _AIMA_ to be used in this entry. Thanks are due as well to the many first-rate (human) minds who have read earlier drafts of this entry, and provided helpful feedback. Without the support of our AI research and development from both ONR and AFOSR, our knowledge of AI and ML would confessedly be acutely narrow, and we are grateful for the support. We are also very grateful to the anonymous referees who provided us with meticulous reviews in our reviewing round in late 2015 to early 2016. Special acknowledgements are due to the SEP editors and, in particular, Uri Nodelman for patiently working with us throughout and for providing technical and insightful editorial help.
+Thanks are due to Peter Norvig and Prentice-Hall for allowing figures from *AIMA* to be used in this entry. Thanks are due as well to the many first-rate (human) minds who have read earlier drafts of this entry, and provided helpful feedback. Without the support of our AI research and development from both ONR and AFOSR, our knowledge of AI and ML would confessedly be acutely narrow, and we are grateful for the support. We are also very grateful to the anonymous referees who provided us with meticulous reviews in our reviewing round in late 2015 to early 2016. Special acknowledgements are due to the SEP editors and, in particular, Uri Nodelman for patiently working with us throughout and for providing technical and insightful editorial help.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Selmer Bringsjord](http://www.rpi.edu/\~brings) <[_Selmer.Bringsjord@gmail.com_](mailto:Selmer%2eBringsjord%40gmail%2ecom)>\
-Naveen Sundar Govindarajulu <[_Naveen.Sundar.G@gmail.com_](mailto:Naveen%2eSundar%2eG%40gmail%2ecom)>
+[Selmer Bringsjord](http://www.rpi.edu/\~brings) <[*Selmer.Bringsjord@gmail.com*](mailto:Selmer%2eBringsjord%40gmail%2ecom)>\
+Naveen Sundar Govindarajulu <[*Naveen.Sundar.G@gmail.com*](mailto:Naveen%2eSundar%2eG%40gmail%2ecom)>

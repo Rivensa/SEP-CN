@@ -1,6 +1,6 @@
 # 注意力 attention (Christopher Mole)
 
-_首次发布于 2009 年 9 月 8 日；实质性修订于 2021 年 10 月 26 日_
+*首次发布于 2009 年 9 月 8 日；实质性修订于 2021 年 10 月 26 日*
 
 注意力参与了我们心理生活的选择性指向。这种选择性的本质是现有注意力理论之间争议的主要点之一。一些最有影响力的理论将注意力的选择性视为大脑处理多个可感知刺激的复杂属性的能力限制所导致的结果。其他理论认为，注意力的选择性是思考主体有意识地同时考虑多个思维过程的能力限制所导致的结果。第三组理论试图解释注意力的选择性，而不需要提及能力的限制。这些后者的理论将注意力的选择性与维持单一连贯行动过程所需的选择性、根据预期精确度对感觉信息进行加权，或者相互抑制的处理流之间的竞争联系起来。
 
@@ -9,7 +9,6 @@ _首次发布于 2009 年 9 月 8 日；实质性修订于 2021 年 10 月 26 �
 注意力也是哲学上感兴趣的一个话题，因为它与许多其他哲学上令人困惑的现象似乎有关。有经验和理论考虑表明，注意力与_意识_密切相关，并且对于这种关系是必要的、充分的（或两者都是或两者都不是）存在争议。还有争议——被认为对于关于意识的再现论的可行性至关重要——关于注意力如何调节有意识体验的现象特征的方式。不同的考虑将注意力与_指示性引用_、对_他人心智_的理解的发展以及_意志_的行使联系起来。一些传统美德伦理学的研究认为注意力在道德上很重要，因为至少有一些美德要求人适当地关注。注意力在一些关于_情感_的认识论意义的理论和一些关于自我归属心理状态的认识论特殊性的讨论中也被赋予了重要角色。
 
 关于注意力与这些其他现象的关系的争议通常包括对通过对注意力在神经心理学和认知水平上的实证研究发展起来的理论的哲学意义的辩论。注意力的文化和经济方面也成为哲学上的一个关注点，一些理论家认为新媒体的社会意义主要是由于这些媒体以新颖的方式吸引并争夺我们的注意力。
-
 
 ***
 
@@ -196,7 +195,7 @@ Treisman 提出的解决方案利用了“空间”表示是无处不在的事�
 
 对于 Treisman 声称注意力的窗口与特征绑定的窗口相对应这一解释的解释性重要性，有多种理解方式。Treisman 早期的工作将这一主张作为识别注意力过程的尝试（通过告诉我们它们是特征整合的过程）。在她的后期工作中，所提供的解释不再仅仅是注意力扮演解释对象的角色，而是绑定过程扮演解释因子的角色。她后来的主张是解决绑定问题是注意力所能实现的选择性的一种作用。
 
-有一些工作将特征整合理论应用于更宏大的解释目标中。该理论在约翰·坎贝尔（John Campbell）2002 年的《指称与意识》（_Reference and Consciousness_）中发挥了重要作用，试图通过注意力来解释指示性表达的参照是如何由其制作者确定并由其消费者理解的（参见第 3.2 节[3.2](https://plato.stanford.edu/entries/attention/#AttDemRef)）。特雷斯曼（Treisman）本人也提出，虽然不确定，但特征整合理论的后代可能为“主观体验世界的有界、统一、解释性、个人视角”提供部分解释（特雷斯曼，2003 年，111 页）。她进一步提出，同样不确定地表示，这种理论提供的解释“应该为我们提供有关创造意识的条件的所有信息”（_op cit_）。
+有一些工作将特征整合理论应用于更宏大的解释目标中。该理论在约翰·坎贝尔（John Campbell）2002 年的《指称与意识》（*Reference and Consciousness*）中发挥了重要作用，试图通过注意力来解释指示性表达的参照是如何由其制作者确定并由其消费者理解的（参见第 3.2 节[3.2](https://plato.stanford.edu/entries/attention/#AttDemRef)）。特雷斯曼（Treisman）本人也提出，虽然不确定，但特征整合理论的后代可能为“主观体验世界的有界、统一、解释性、个人视角”提供部分解释（特雷斯曼，2003 年，111 页）。她进一步提出，同样不确定地表示，这种理论提供的解释“应该为我们提供有关创造意识的条件的所有信息”（*op cit*）。
 
 与那些认为特征绑定理论将成为我们关于注意力、意识统一或其他任何事物的理论的重要组成部分的人相对立的是一些哲学家（以及较少数的心理学家），他们否认特征绑定会产生任何需要严肃认知装置来解决的问题。这些主张出于各种原因而提出，通常作为认知神经科学概念框架的大规模修订提案的一部分。凯文·奥雷根（Kevin O'Regan）和阿尔瓦·诺埃（Alva Noë）在他们对感知需要对所感知的事物进行表示的观念的一般攻击中，拒绝了绑定问题“本质上是一个伪问题”的观点（奥雷根和诺埃，2001 年，967 页）。文森特·迪洛洛（Vincent Di Lollo）提出，产生绑定问题的神经编码假设已经被取代，结果绑定问题变得不明确（迪洛洛，2012 年）。而 M.R.本内特（M.R. Bennett）和 P.M.S.哈克（P.M.S. Hacker）在他们批判神经科学哲学基础的专著中声称，在神经科学中流行的表示和信息概念存在各种混淆，这些混淆导致神经科学家普遍发表“对所谓的绑定问题的混乱陈述”（本内特和哈克，2003 年，14 页）。关于绑定问题的这些关于其地位的辩论（由 Plate，2007 年回顾）涉及认知科学的基础问题。它们已不再专门关注对注意力的解释。
 
@@ -234,7 +233,7 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 这一理论的支持者声称，它“使我们能够以新的视角看待注意力，并提供其在我们整体心理经济中的功能角色的替代概念”（Hohwy，2014，第 191 页）。根据这些“替代概念”，注意力根据预期的_精确度_调整传入的预测误差信号的权重（Hohwy，2012）。这里所说的“精确度”是指与准确性相对比的意义。所谓“准确性”是指信号所指示的值与实际值之间的差异的度量，而“精确度”是指信号中的随机波动的度量，即使实际输入保持不变。从这个意义上说，一个校准不准确的仪器可能非常精确，但并不特别准确。
 
-各种经验证据使得大脑在处理知觉信号时考虑到预期的精确度成为可能。例如，在腹语师幻觉中，预期的精确度可能起到了一定的作用：因为视觉被期望能够更精确地指示位置，所以听觉听到的声音似乎来自其源头所在的位置。其他考虑同样使得注意力在适应这些预期精确度的变化中发挥作用，当我们从一个上下文转移到另一个上下文时。如果我们预期视觉信号可能是嘈杂的——也许是因为浓雾开始降临——那么我们可能会比平常更加重视听觉信号中存在的信息。注意力在实现这种权重变化中似乎起到了作用。这一理论的支持者声称，“注意力只不过是层次推理中的精确度优化”（Hohwy，1014，第 244 页，引用 Feldman＆Friston，2010）。Ransom _et al_. 提出，通过将注意力始终视为精确度优化，这一理论难以解释某些形式的自愿注意力（Ransom _et al_.，2017）。Clark 提出，如果将自愿注意力的来源确定为信念而不是欲望，就可以应对这一挑战（Clark，2017）。
+各种经验证据使得大脑在处理知觉信号时考虑到预期的精确度成为可能。例如，在腹语师幻觉中，预期的精确度可能起到了一定的作用：因为视觉被期望能够更精确地指示位置，所以听觉听到的声音似乎来自其源头所在的位置。其他考虑同样使得注意力在适应这些预期精确度的变化中发挥作用，当我们从一个上下文转移到另一个上下文时。如果我们预期视觉信号可能是嘈杂的——也许是因为浓雾开始降临——那么我们可能会比平常更加重视听觉信号中存在的信息。注意力在实现这种权重变化中似乎起到了作用。这一理论的支持者声称，“注意力只不过是层次推理中的精确度优化”（Hohwy，1014，第 244 页，引用 Feldman＆Friston，2010）。Ransom *et al*. 提出，通过将注意力始终视为精确度优化，这一理论难以解释某些形式的自愿注意力（Ransom *et al*.，2017）。Clark 提出，如果将自愿注意力的来源确定为信念而不是欲望，就可以应对这一挑战（Clark，2017）。
 
 ### 2.6 竞争理论和认知统一
 
@@ -318,7 +317,7 @@ Watzl 还声称，任何缺乏这种结构的心灵因此都会缺乏对世界�
 
 这些实验中没有一个能够证明注意力对于意识总是必要的观点。这个观点是一个普遍量化的观点，并不是由其中任何一个实例所蕴含的。而且，我们在这些实验中看到的是否真的是未被关注的物体完全消失在意识之外也不清楚。例如，参与者对大猩猩的出现一无所知，这与大猩猩的存在_确实_对他们的不注意体验产生了显著的差异是相容的。为了解释这些参与者的无知，我们只需要说未被关注的大猩猩所产生的任何显著差异都是参与者无法用来回答实验者关于场景中是否发生了奇怪事件的问题的差异。这可能是一种在认知上无法使用的显著差异（参见 Wolfe，1998），或者可能是一种无法使用的差异，因为它过于无结构和不成熟，无法在认知上动员起来。在这种情况下，不注意的效果将是不注意的失认，而不是不注意的失明（参见 Simons，2000）。
 
-对于未被关注的物品的绝对遗忘，或者对它们的彻底失认，从行为和回顾性内省的角度来看，可能与不注意的失明无法区分。因此，对于不注意的失明和变化失明效应的任何解释的支持者来说，排除其他解释并不是一件简单的事情。个人源数据（如使用神经影像学的实验）可能是我们唯一可以依靠的数据来源。（参见 Rees，_et al_。1999 年，一个使用 fMRI 数据来反驳关于不注意的失明效应涉及书面文字的遗忘解释的例子）。
+对于未被关注的物品的绝对遗忘，或者对它们的彻底失认，从行为和回顾性内省的角度来看，可能与不注意的失明无法区分。因此，对于不注意的失明和变化失明效应的任何解释的支持者来说，排除其他解释并不是一件简单的事情。个人源数据（如使用神经影像学的实验）可能是我们唯一可以依靠的数据来源。（参见 Rees，*et al*。1999 年，一个使用 fMRI 数据来反驳关于不注意的失明效应涉及书面文字的遗忘解释的例子）。
 
 在变化盲视范式中，只有叙事上不重要的差异才会被忽视。因此，变化盲视效应可能被视为显示，在没有注意力的情况下存在意识，其内容仅限于场景的整体要旨。在实验上，对这两种解释进行裁决存在困难。当整体要旨的特征似乎在没有注意力的情况下被感知到时，主张注意力对意识是必要的人可能会回答说，对这些项目已经付出了注意力，要么以分散的、非焦点的方式（Prettyman，2013），要么因为这些特征是短暂且无意识地引起注意的（Prinz，2012，第 119 页）。在没有对完全不注意进行实验操作的情况下，这些竞争性解释无法排除，结果是关于超越注意力的意识程度的实证辩论目前陷入了某种僵局，实验者只能声称在“几乎没有”注意力的情况下已经证明了感知（Li 等，2002 年，Reddy 等，2004 年，Reddy 等，2006 年），因此对注意力和意识可分离的假设只能提供不确定的支持（Koch＆Tsuchiya，2007 年）。
 
@@ -456,225 +455,225 @@ Bence Nanay 提出了一个具有相似目标的立场 - 不追求给出审美�
 
 ## Bibliography
 
-* Allport, A., 1987, “Selection for action: Some behavioural and neurophysiological considerations of attention and action”, in _Perspectives on perception and action_, A. Sanders and H. Heuer (eds.), Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 395–419.
-* –––, 1993, “Attention and Control: Have we been asking the wrong questions? A critical review of twenty five years”, in _Attention and Performance XIV: Synergies in experimental psychology, artificial intelligence, and cognitive neuroscience_, D.E. Meyer & S. Kornblum (eds.), Cambridge MA: MIT Press, pp. 183–218.
-* Allport, D. A., Antonis, B. & Reynolds, P., 1972, “On the Division of Attention: A Disproof of the Single Channel Hypothesis”, _The Quarterly Journal of Experimental Psychology_, 24(2): 225–235.
-* Armstrong, K.M., & Moore, T., 2007, “Rapid enhancement of visual cortical response discriminability by microstimulation of the frontal eye field”, _Proceedings of the National Academy of Sciences_ (USA), 104(22): 9499–9504.
-* Arvidson, S. P., 2006, _Sphere of Attention: Context and Margin_, Dordrecht: Kluwer Academic Publishers.
-* Atchley, P., & Lane, S. 2014, “Cognition in the Attention Economy”, Chapter Four of Brian H. Ross (ed.) _Psychology of Learning and Motivation_, 61: 133–177. Waltham, MA: Elsevier.
-* Bagnoli, C., 2003, “Respect and Loving Attention”, _Canadian Journal of Philosophy_, 33 (4): 483–516
-* Bain, A., 1888, _The Emotions and the Will_, 3rd ed., London: Longmans Green and Co.
-* Barkasi, M., 2019, “The role of experience in demonstrative thought”, _Mind and Language_, 34(5): 648–666.
-* Battich, L., & Geurts, B., 2020, “Joint attention and perceptual experience”, _Synthese_, online 05 March 2020. doi:10.1007/s11229-020-02602-6
-* Beck, D.M., & Kastner, S., 2009, “Top-down and bottom-up mechanisms in biasing competition in the human brain”, _Vision Research_, 49(10): 1154–1165.
-* Beller, J., 2012, _The cinematic mode of production: Attention economy and the society of the spectacle_. Hanover, NH: Dartmouth College Press.
-* Bennett, M.R. & Hacker, P.M.S., 2003, _Philosophical Foundations of Neuroscience_, Oxford: Blackwell.
-* Bhargava, V.R. & Velasquez, M., 2020, “Ethics of the Attention Economy: The Problem of Social Media Addiction”, _Business Ethics Quarterly,_ 31(3): 321–359.
-* Block, N., 2010, “Attention and mental paint”, _Philosophical Issues_, 20(1): 23–63.
-* –––, 2013a, “The Grains of Vision and Attention”, _Thought_, 1(3): 170–84.
-* –––, 2013b, “Seeing and Windows of Integration”, _Thought_, 2(1): 29–39.
-* Bommarito, N., 2013. “Modesty as a Virtue of Attention”, _Philosophical Review_, 122(1): 93–117.
-* Bradley, F.H., 1886, “Is There a Special Activity of Attention?”, _Mind_, 11(43): 305–323.
-* Bradley, F.H., 1902, “On Active Attention”, _Mind_, 11(41): 1–30.
-* Brady, M.S., 2010, “Virtue, emotion and attention”, _Metaphilosophy_ 41 (1-2):115–131.
-* –––, 2013, _Emotional Insight: The Epistemic Role of Emotional Experience_ Oxford: Oxford University Press.
-* Broadbent, D. E., 1958, _Perception and Communication_, Oxford: Pergamon Press.
-* –––, 1971, _Decision and Stress_, London: Academic Press.
-* –––, 1982, “Task-Combination and Selective Intake of Information”, _Acta Psychologica_, 50: 253–290
-* Buehler, D., 2019, “Flexible occurrent control”, _Philosophical Studies_, 176 (8): 2119–2137.
-* Bundesen, C., 1987, “Visual attention: race models for selection from multielement displays”, _Psychological Research_, 49: 173–92
-* Bundesen, C. & Habekost, T., 2008, _Principles of Visual Attention: Linking Mind and Brain_, Oxford: Oxford University Press.
-* Byrne, A., 2018, _Transparency and Self-Knowlege_, Oxford: Oxford University Press.
-* Call, J., & Tomasello, M., 2005, “What Chimpanzees Know About Seeing, Revised: An Explanation of the Third Kind”, in N. Eilan, C. Hoerl, T. McCormack & J. Roessler (eds.) _Joint Attention: Communication and Other Minds_, Oxford: Oxford University Press, pp. 45–64.
-* Carroll, L., 1895, “What the Tortoise Said to Achilles”, _Mind_, 4(14): 278–280
-* Carrasco, M., Ling, S., & Read, S., 2004, “Attention alters appearance”, _Nature Neuroscience_, 7(3): 308–313
-* Carruthers, P., 2015, _The Centred Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought_, Oxford: Oxford University Press.
-* Castro, C., & Pham, A., 2020, “Is the Attention Economy Noxious?” _Philosophers’ Imprint_, 20(17): 1–13.
-* Campbell, J., 2002, _Reference and Consciousness_, Oxford: Oxford University Press.
-* Chalmers, D. J., 2004, “The Representational Character of Experience”, in B. Leiter (ed.), _The Future for Philosophy_, Oxford: Oxford University Press. pp. 153–181.
-* Chomsky, N., 1957, _Syntactic Structures_, The Hague: Mouton
-* –––, 1959, “Review of Verbal Behavior”, _Language_, 35: 26–58.
-* Clark, A., 2013, “Whatever next? Predictive brains, situated agents, and the future of cognitive science” _Behavioral and Brain Sciences_, 36(3): 181–204
-* –––, 2015, _Surfing Uncertainty: Prediction, action, and the embodied mind_, Oxford: Oxford University Press
-* –––, 2017, “Predictions, precision, and agentive attention” _Consciousness and Cognition_, 56: 115–119.
-* Cohen, M.A., Cavanagh P., Chun M.M., & Nakayama K., 2012, “The attentional requirements of consciousness”, _Trends in Cognitive Sciences_, 16(8): 411–7.
-* Collingwood, R.G., 1938, _The Principles of Art_, Oxford: Clarendon Press.
-* Dashiell, J., 1928, _Fundamentals of Objective Psychology_, London: George, Allen and Unwin
-* Dayer, A., & Jennings, C. D., 2021, “Attention in Skilled Behavior: An Argument for Pluralism”, _Review of Philosophy and Psychology_, 12 (3): 615–638.
-* De Brigard, F. 2010, “Consciousness, Attention and Commonsense”_Journal of Consciousness Studies_, 17(9–10): 189–201.
-* Debus, D., 2015, “Losing Oneself: On the Value of Full Attention”, _European Journal of Philosophy_, 23(4): 1174–91.
-* Dehaene, S., Changeux, J.P., Nacchache, L., Sackut, J., Sergent, C., 2006, “Conscious, preconscious, and subliminal processing: a testable taxonomy”, _Trends in Cognitive Science_, 10: 204–211.
-* Desimone, R. and Duncan, J., 1995, “Neural mechanisms of selective visual attention”, _Annual Review of Neuroscience_, 18: 193–222.
-* Descartes. R., “Replies to Objections”, in _The Philosophical Writings Of Descartes_ (3 volumes), translated by J. Cottingham, R. Stoothoff, D. Murdoch, and A. Kenny, Cambridge: Cambridge University Press, 1988.
-* Deubel, H., & Schneider, W. X., 2004, “Attentional Selection in Sequential Manual Movements, Movements Around an Obstacle and in Grasping”, in G.W. Humphries and M.J. Riddoch (eds.) _Attention in Action_, Hove: Psychology Press, pp. 61–91.
-* Deutsch, J.A. & Deutsch, D., 1963, “Attention: Some Theoretical Considerations”, _Psychological Review_, 70: 80–90.
-* Dickie, G., 1964, “The Myth of the Aesthetic Attitude”, _American Philosophical Quarterly_, 1(1): 56–65
-* Dickie, I., 2011, “Visual Attention Fixes Demonstrative Reference by Eliminating Referential Luck”, in C. Mole, D. Smithies, and W. Wu (eds.) _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 292–321.
-* –––, 2015, _Fixing Reference_, Oxford: Oxford University Press.
-* Di Lollo, V., 2012, “The feature-binding problem is an ill-posed problem”, _Trends in Cognitive Sciences_, 16(6): 317–321.
-* Driver, J., 2001, “A selective review of selective attention research from the past century”, _British Journal of Psychology_, 92: 53–57.
-* Duncan, J., 1984, “Selective attention and the organization of visual information”, _Journal of Experimental Psychology: General_, 113: 501—517.
-* Duncan, J., 1996, “Cooperating brain systems in selective perception and action”. In T. Inui and J. L. McClelland (eds.), _Attention and performance XVI: Information Integration in Perception and Communication_, Cambridge, MA: The MIT Press, pp. 549–578.
-* Eilan, N. 1998, “Perceptual Intentionality, Attention and Consciousness”, in A. O’Hear (ed.) _Royal Institute of Philosophy Supplement 43: Current Issues in Philosophy of Mind_, Cambridge: Cambridge University Press.
-* Eilan, N., Hoerl, C., McCormack, T. & Roessler, J., 2005, _Joint Attention: Communication and Other Minds_, Oxford: Oxford University Press
-* Fernandez-Duque, D. & Johnson, M.L., 2002, “Cause and effect theories of attention: The role of conceptual metaphors”, _Review of General Psychology_, 6 (2): 153–165.
-* Fiebich, A., & Gallagher, S., 2013, “Joint attention in joint action”. _Philosophical Psychology_, 26(4): 571–87.
-* Fortney, M., 2019, “Conceptualizing Intellectual Attention”. _Theory and Psychology_, 29(6): 775–788.
-* –––, 2020, “Directing internal attention towards ongoing thought”, _Consciousness and Cognition_, 85: 103025
-* Franck, G., 1998, _Ökonomie der Aufmerksamkeit: Ein Entwurf_, München: Carl Hanser & Co.
-* Fredriksson, A., & Panizza, S., 2020, “Ethical Attention and the Self in Iris Murdoch and Maurice Merleau-Ponty”, _Journal of the British Society for Phenomenology_, online 29 Oct 2020. doi:10.1080/00071773.2020.1836978
-* Friston K., Kilner J., & Harrison L., 2006, “A free energy principle for the brain”, _Journal of Physiology, Paris_, 100(1–3): 70–87.
-* Fuller, S., & Carrasco, M., 2006, “Exogenous attention and color perception: Performance and appearance of saturation and hue”, _Vision Research_, 46(23): 4032–4047.
-* Geach, P., 1957, _Mental Acts: Their Content and Their Objects_, London: Routledge and Kegan Paul.
-* Goldhaber, M. H., 1997. “The Attention Economy on the Net”, _First Monday,_ 2(4). doi:10.5210/fm.v2i4.519 \[[Goldhaber 1997 available online](https://journals.uic.edu/ojs/index.php/fm/article/view/519/440)]
-* Goldie, P., 2004. “Emotion, reason and virtue”, in Dylan Evans & Pierre Cruse (eds.), _Emotion, Evolution, and Rationality_. Oxford: Oxford University Press, pp. 249–267.
-* Graziano, M. S., & Webb, T. W., 2014, “A mechanistic theory of consciousness”, _International Journal of Machine Consciousness_, 6(2): 163–176.
-* Gurwitsch, A., 1964, _The Field of Consciousness_, Pittsburgh: Duquesne University Press.
-* Hamblin, C. L., 1958, “Questions”, _The Australasian Journal of Philosophy_, 36: 159–168.
-* Hamilton, W.H., 1876, _Lectures on Metaphysics and Logic, Volume II: Lectures on Logic_, New York: Sheldon and Company.
-* Hatfield, G., 1995, “Attention in Early Scientific Psychology”, in _Visual Attention_, R. Wright (ed.), Oxford: Oxford University Press. Reprinted as Chapter 13 in his 2009 _Perception and Cognition: Essays in the Philosophy of Psychology_, Oxford: Oxford University Press, pp. 388–408.
-* Helmholtz, H. L. F., 1863, _Die Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik_; translated by A.J. Ellis, _On the Sensations of Tone as a Physiological Basis for The Theory of Music_, London: Longman, Green and Co., 1875.
+* Allport, A., 1987, “Selection for action: Some behavioural and neurophysiological considerations of attention and action”, in *Perspectives on perception and action*, A. Sanders and H. Heuer (eds.), Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 395–419.
+* –––, 1993, “Attention and Control: Have we been asking the wrong questions? A critical review of twenty five years”, in *Attention and Performance XIV: Synergies in experimental psychology, artificial intelligence, and cognitive neuroscience*, D.E. Meyer & S. Kornblum (eds.), Cambridge MA: MIT Press, pp. 183–218.
+* Allport, D. A., Antonis, B. & Reynolds, P., 1972, “On the Division of Attention: A Disproof of the Single Channel Hypothesis”, *The Quarterly Journal of Experimental Psychology*, 24(2): 225–235.
+* Armstrong, K.M., & Moore, T., 2007, “Rapid enhancement of visual cortical response discriminability by microstimulation of the frontal eye field”, *Proceedings of the National Academy of Sciences* (USA), 104(22): 9499–9504.
+* Arvidson, S. P., 2006, *Sphere of Attention: Context and Margin*, Dordrecht: Kluwer Academic Publishers.
+* Atchley, P., & Lane, S. 2014, “Cognition in the Attention Economy”, Chapter Four of Brian H. Ross (ed.) *Psychology of Learning and Motivation*, 61: 133–177. Waltham, MA: Elsevier.
+* Bagnoli, C., 2003, “Respect and Loving Attention”, *Canadian Journal of Philosophy*, 33 (4): 483–516
+* Bain, A., 1888, *The Emotions and the Will*, 3rd ed., London: Longmans Green and Co.
+* Barkasi, M., 2019, “The role of experience in demonstrative thought”, *Mind and Language*, 34(5): 648–666.
+* Battich, L., & Geurts, B., 2020, “Joint attention and perceptual experience”, *Synthese*, online 05 March 2020. doi:10.1007/s11229-020-02602-6
+* Beck, D.M., & Kastner, S., 2009, “Top-down and bottom-up mechanisms in biasing competition in the human brain”, *Vision Research*, 49(10): 1154–1165.
+* Beller, J., 2012, *The cinematic mode of production: Attention economy and the society of the spectacle*. Hanover, NH: Dartmouth College Press.
+* Bennett, M.R. & Hacker, P.M.S., 2003, *Philosophical Foundations of Neuroscience*, Oxford: Blackwell.
+* Bhargava, V.R. & Velasquez, M., 2020, “Ethics of the Attention Economy: The Problem of Social Media Addiction”, *Business Ethics Quarterly,* 31(3): 321–359.
+* Block, N., 2010, “Attention and mental paint”, *Philosophical Issues*, 20(1): 23–63.
+* –––, 2013a, “The Grains of Vision and Attention”, *Thought*, 1(3): 170–84.
+* –––, 2013b, “Seeing and Windows of Integration”, *Thought*, 2(1): 29–39.
+* Bommarito, N., 2013. “Modesty as a Virtue of Attention”, *Philosophical Review*, 122(1): 93–117.
+* Bradley, F.H., 1886, “Is There a Special Activity of Attention?”, *Mind*, 11(43): 305–323.
+* Bradley, F.H., 1902, “On Active Attention”, *Mind*, 11(41): 1–30.
+* Brady, M.S., 2010, “Virtue, emotion and attention”, *Metaphilosophy* 41 (1-2):115–131.
+* –––, 2013, *Emotional Insight: The Epistemic Role of Emotional Experience* Oxford: Oxford University Press.
+* Broadbent, D. E., 1958, *Perception and Communication*, Oxford: Pergamon Press.
+* –––, 1971, *Decision and Stress*, London: Academic Press.
+* –––, 1982, “Task-Combination and Selective Intake of Information”, *Acta Psychologica*, 50: 253–290
+* Buehler, D., 2019, “Flexible occurrent control”, *Philosophical Studies*, 176 (8): 2119–2137.
+* Bundesen, C., 1987, “Visual attention: race models for selection from multielement displays”, *Psychological Research*, 49: 173–92
+* Bundesen, C. & Habekost, T., 2008, *Principles of Visual Attention: Linking Mind and Brain*, Oxford: Oxford University Press.
+* Byrne, A., 2018, *Transparency and Self-Knowlege*, Oxford: Oxford University Press.
+* Call, J., & Tomasello, M., 2005, “What Chimpanzees Know About Seeing, Revised: An Explanation of the Third Kind”, in N. Eilan, C. Hoerl, T. McCormack & J. Roessler (eds.) *Joint Attention: Communication and Other Minds*, Oxford: Oxford University Press, pp. 45–64.
+* Carroll, L., 1895, “What the Tortoise Said to Achilles”, *Mind*, 4(14): 278–280
+* Carrasco, M., Ling, S., & Read, S., 2004, “Attention alters appearance”, *Nature Neuroscience*, 7(3): 308–313
+* Carruthers, P., 2015, *The Centred Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought*, Oxford: Oxford University Press.
+* Castro, C., & Pham, A., 2020, “Is the Attention Economy Noxious?” *Philosophers’ Imprint*, 20(17): 1–13.
+* Campbell, J., 2002, *Reference and Consciousness*, Oxford: Oxford University Press.
+* Chalmers, D. J., 2004, “The Representational Character of Experience”, in B. Leiter (ed.), *The Future for Philosophy*, Oxford: Oxford University Press. pp. 153–181.
+* Chomsky, N., 1957, *Syntactic Structures*, The Hague: Mouton
+* –––, 1959, “Review of Verbal Behavior”, *Language*, 35: 26–58.
+* Clark, A., 2013, “Whatever next? Predictive brains, situated agents, and the future of cognitive science” *Behavioral and Brain Sciences*, 36(3): 181–204
+* –––, 2015, *Surfing Uncertainty: Prediction, action, and the embodied mind*, Oxford: Oxford University Press
+* –––, 2017, “Predictions, precision, and agentive attention” *Consciousness and Cognition*, 56: 115–119.
+* Cohen, M.A., Cavanagh P., Chun M.M., & Nakayama K., 2012, “The attentional requirements of consciousness”, *Trends in Cognitive Sciences*, 16(8): 411–7.
+* Collingwood, R.G., 1938, *The Principles of Art*, Oxford: Clarendon Press.
+* Dashiell, J., 1928, *Fundamentals of Objective Psychology*, London: George, Allen and Unwin
+* Dayer, A., & Jennings, C. D., 2021, “Attention in Skilled Behavior: An Argument for Pluralism”, *Review of Philosophy and Psychology*, 12 (3): 615–638.
+* De Brigard, F. 2010, “Consciousness, Attention and Commonsense”*Journal of Consciousness Studies*, 17(9–10): 189–201.
+* Debus, D., 2015, “Losing Oneself: On the Value of Full Attention”, *European Journal of Philosophy*, 23(4): 1174–91.
+* Dehaene, S., Changeux, J.P., Nacchache, L., Sackut, J., Sergent, C., 2006, “Conscious, preconscious, and subliminal processing: a testable taxonomy”, *Trends in Cognitive Science*, 10: 204–211.
+* Desimone, R. and Duncan, J., 1995, “Neural mechanisms of selective visual attention”, *Annual Review of Neuroscience*, 18: 193–222.
+* Descartes. R., “Replies to Objections”, in *The Philosophical Writings Of Descartes* (3 volumes), translated by J. Cottingham, R. Stoothoff, D. Murdoch, and A. Kenny, Cambridge: Cambridge University Press, 1988.
+* Deubel, H., & Schneider, W. X., 2004, “Attentional Selection in Sequential Manual Movements, Movements Around an Obstacle and in Grasping”, in G.W. Humphries and M.J. Riddoch (eds.) *Attention in Action*, Hove: Psychology Press, pp. 61–91.
+* Deutsch, J.A. & Deutsch, D., 1963, “Attention: Some Theoretical Considerations”, *Psychological Review*, 70: 80–90.
+* Dickie, G., 1964, “The Myth of the Aesthetic Attitude”, *American Philosophical Quarterly*, 1(1): 56–65
+* Dickie, I., 2011, “Visual Attention Fixes Demonstrative Reference by Eliminating Referential Luck”, in C. Mole, D. Smithies, and W. Wu (eds.) *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 292–321.
+* –––, 2015, *Fixing Reference*, Oxford: Oxford University Press.
+* Di Lollo, V., 2012, “The feature-binding problem is an ill-posed problem”, *Trends in Cognitive Sciences*, 16(6): 317–321.
+* Driver, J., 2001, “A selective review of selective attention research from the past century”, *British Journal of Psychology*, 92: 53–57.
+* Duncan, J., 1984, “Selective attention and the organization of visual information”, *Journal of Experimental Psychology: General*, 113: 501—517.
+* Duncan, J., 1996, “Cooperating brain systems in selective perception and action”. In T. Inui and J. L. McClelland (eds.), *Attention and performance XVI: Information Integration in Perception and Communication*, Cambridge, MA: The MIT Press, pp. 549–578.
+* Eilan, N. 1998, “Perceptual Intentionality, Attention and Consciousness”, in A. O’Hear (ed.) *Royal Institute of Philosophy Supplement 43: Current Issues in Philosophy of Mind*, Cambridge: Cambridge University Press.
+* Eilan, N., Hoerl, C., McCormack, T. & Roessler, J., 2005, *Joint Attention: Communication and Other Minds*, Oxford: Oxford University Press
+* Fernandez-Duque, D. & Johnson, M.L., 2002, “Cause and effect theories of attention: The role of conceptual metaphors”, *Review of General Psychology*, 6 (2): 153–165.
+* Fiebich, A., & Gallagher, S., 2013, “Joint attention in joint action”. *Philosophical Psychology*, 26(4): 571–87.
+* Fortney, M., 2019, “Conceptualizing Intellectual Attention”. *Theory and Psychology*, 29(6): 775–788.
+* –––, 2020, “Directing internal attention towards ongoing thought”, *Consciousness and Cognition*, 85: 103025
+* Franck, G., 1998, *Ökonomie der Aufmerksamkeit: Ein Entwurf*, München: Carl Hanser & Co.
+* Fredriksson, A., & Panizza, S., 2020, “Ethical Attention and the Self in Iris Murdoch and Maurice Merleau-Ponty”, *Journal of the British Society for Phenomenology*, online 29 Oct 2020. doi:10.1080/00071773.2020.1836978
+* Friston K., Kilner J., & Harrison L., 2006, “A free energy principle for the brain”, *Journal of Physiology, Paris*, 100(1–3): 70–87.
+* Fuller, S., & Carrasco, M., 2006, “Exogenous attention and color perception: Performance and appearance of saturation and hue”, *Vision Research*, 46(23): 4032–4047.
+* Geach, P., 1957, *Mental Acts: Their Content and Their Objects*, London: Routledge and Kegan Paul.
+* Goldhaber, M. H., 1997. “The Attention Economy on the Net”, *First Monday,* 2(4). doi:10.5210/fm.v2i4.519 \[[Goldhaber 1997 available online](https://journals.uic.edu/ojs/index.php/fm/article/view/519/440)]
+* Goldie, P., 2004. “Emotion, reason and virtue”, in Dylan Evans & Pierre Cruse (eds.), *Emotion, Evolution, and Rationality*. Oxford: Oxford University Press, pp. 249–267.
+* Graziano, M. S., & Webb, T. W., 2014, “A mechanistic theory of consciousness”, *International Journal of Machine Consciousness*, 6(2): 163–176.
+* Gurwitsch, A., 1964, *The Field of Consciousness*, Pittsburgh: Duquesne University Press.
+* Hamblin, C. L., 1958, “Questions”, *The Australasian Journal of Philosophy*, 36: 159–168.
+* Hamilton, W.H., 1876, *Lectures on Metaphysics and Logic, Volume II: Lectures on Logic*, New York: Sheldon and Company.
+* Hatfield, G., 1995, “Attention in Early Scientific Psychology”, in *Visual Attention*, R. Wright (ed.), Oxford: Oxford University Press. Reprinted as Chapter 13 in his 2009 *Perception and Cognition: Essays in the Philosophy of Psychology*, Oxford: Oxford University Press, pp. 388–408.
+* Helmholtz, H. L. F., 1863, *Die Lehre von den Tonempfindungen als physiologische Grundlage für die Theorie der Musik*; translated by A.J. Ellis, *On the Sensations of Tone as a Physiological Basis for The Theory of Music*, London: Longman, Green and Co., 1875.
 * Henry, A., 2017, “Agentialism and the Objection from Attention Capture” paper presented to Canadian Philosophical Association, Ryerson University, Toronto, 29 May 2017.
-* –––, 2019, _An Agent of Attention: An Inquiry into the Source of Our Control_, Doctoral dissertation, University of Toronto, Canada.
-* Hine, R., 2010, “Attention as Experience: Through ‘Thick’ and ‘Thin’” _Journal of Consciousness Studies_, 17(9–10): 202–220.
-* Hirst, W., Spelke, E.S., Reaves, C.C., Caharack, G. & Neisser, U., 1980, “Dividing attention without alternation or automaticity”, _Journal of Experimental Psychology: General_, 109: 98–117.
-* Hobson, P., & Hobson, J., 2011,“Joint Attention or Joint Engagement? Insights from Autism”, in A. Seemann (ed.) _Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience_, Cambridge, MA: The MIT Press, pp. 115–136.
-* Hochstetter, G., 2016, “Attention in bodily awareness”, _Synthese_, 193 (12): 3819–3842.
-* Horgan, T. & Potrč, M., 2011, “Attention, Morphological Content, and Epistemic Justification”, _Croatian Journal of Philosophy_, 11(1): 73–86.
-* Hohwy, J. 2012, “Attention and Consciousness in the Hypothesis Testing Brain”, _Frontiers in Psychology_, 3: 96.
-* –––, 2013, _The Predictive Mind_, Oxford: Oxford University Press.
-* Irving, Z.C., 2016, “Mind-wandering is unguided attention: accounting for the ‘purposeful’ wanderer.” _Philosophical Studies_, 173(2): 547–571.
-* James, W., 1880, “The Feeling of Effort”, _Mind_, 5(20): 582.
-* James, W., 1890, _The Principles of Psychology_, New York: Dover.
-* Jennings, C. D., 2015. “Consciousness Without Attention”, _Journal of the American Philosophical Association_, 1(2): 276–95.
-* Jiang, Y., Costello, P., Fang, F., Huang, M., He, S., & Purves, D., 2006, “A gender- and sexual orientation-dependent spatial attentional effect of invisible images”, _Proceedings of the National Academy of Sciences_ (USA), 1003(45): 17048–17052.
-* Johnston, J.C. & McCann, R.S., 2006, “On the locus of dual-task interference: Is there a bottleneck at the stimulus classification stage?”, _The Quarterly Journal of Experimental Psychology_, 59: 694–719.
-* Kames, H.H., 1769, _Elements of Criticism_ (4th edition), Edinburgh: A. Millar and T. Cadell.
-* Kanner, L., 1943, “Autistic Disturbances of Affective Contact”, _The Nervous Child_, 2: 217–250.
-* Kastner, S. & Ungerleider L.G., 2000, “Mechanisms of Visual Attention in The Human Cortex”, _Annual Review of Neuroscience_, 23: 315–341.
-* Kentridge, R.W. & Heywood, C.A., 2001, “Attention and Alerting: Cognitive Processes Spared in Blindsight”, in _Out of Mind: Varieties of Unconscious Processing_, B. De Gelder, E.H.F. De Haan and C.A. Heywood (eds.), Oxford: Oxford University Press.
-* Kentridge, R.W., Heywood, C.A. & Weiskrantz, L., 2004, “Spatial attention speeds discrimination without awareness in blindsight”, _Neuropsychologia_, 42(6): 831–5.
-* Kinsbourne, M., 1995, “Awareness of one’s own body: An attentional theory of its nature, development, and brain basis”, in J. L. Bermudez, T. Marcel, & N. Eilan (Eds.), _The Body and The Self_, Cambridge, MA: The MIT Press, pp. 205–224.
-* –––, 2002, “The brain and body awareness”, in T. Pruzinsky & T. Cash (Eds.), _Body Images: A Handbook of theory, research, and clinical practice_, New York: Guilford, pp. 22–39.
-* Koch, C. & Tsuchiya, N., 2007, “Attention and consciousness: Two distinct brain processes”, _Trends in Cognitive Sciences_, 11: 16–22.
-* Koch, C. & Ullman, S., 1985, “Shifts in selective visual attention: Towards the underlying neural circuitry”, _Human Neurobiology_, 4(4): 219–227.
-* Koralus, P., 2014, “The Erotetic Theory of Attention: Questions, Focus, and Distraction”, _Mind and Language_, 29 (1): 26–50.
-* Kravitz, D., & Behrmann, M., 2011, “Space-, object-, and feature-based attention interact to organize visual scenes.” _Attention, Perception and Psychophysics_, 73(8): 2434–2447.
-* Lavie, N., & Tsal, Y., 1994, “Perceptual load as a major determinant of the locus of selection in visual attention”, _Perception & Psychophysics_, 56: 183–197.
-* Lavie, N., Hirst, A., De Fockert, J., & Viding, E., 2004, “Load Theory of Selective Attention and Cognitive Control”, _Journal of Experimental Psychology_ (General, 133(3): 399–354.
-* Lavie, N., 2005, “Distracted and confused?: Selective Attention Under Load”, _Trends in Cognitive Sciences_, 9(2): 75–82.
-* Levy, Y., 2019, “Is attending a mental process?”, _Mind and Language_, 34(3): 283–298.
-* Li, F.F., VanRullen, R., Koch, C., & Perona, P., 2002, “Rapid natural scene categorization in the near absence of attention”, _Proceeding of the National Academy of Science_ (USA), 99(14): 9596–9601
-* Locke, J., 1689, _An Essay Concerning Human Understanding_, P. Nidditch (ed.), Oxford: Oxford University Press, 1979.
-* Logan, G., 1996, “The CODE theory of visual attention: An integration of space-based and object-based attention”, _Psychological Review_, 103(4): 603–649.
-* Lopes, D., 2016, _Beyond Art_, Oxford: Oxford University Press.
-* Mack, A. & Rock, I., 1998, _Inattentional Blindness_, Cambridge MA: MIT Press.
-* Macpherson, F., 2006, “Ambiguous figures and the content of experience”, _Noûs_, 40(1): 82–117.
-* Macaluso, E., Noppeney, U., Talsma, D., Vercillo, T., Hartcher-O’Brien, J., Adam, R., 2016, “The curious incident of attention in multisensory integration: bottom-up vs. top-down”, _Multisensory Research_, 29(6): 557–583.
-* Merleau-Ponty, M. 1962, _Phenomenology of Perception_, C. Smith (trans.), London: Routledge & Kegan Paul.
-* Merritt, M. & Valaris, M., 2017, “Attention and Synthesis in Kant’s Conception of Experience”, _The Philosophical Quarterly_, 67(268): 571–92.
-* Mole, C., 2006, “Attention, Self, and _The Sovereignty of Good_”, in A. Rowe (ed.), _Iris Murdoch: A Reassessment_, Basingstoke: Palgrave Macmillan.
-* –––, 2008a, “Attention and Consciousness”, _Journal of Consciousness Studies_, 15(4): 86–104.
-* –––, 2008b, “Attention in the Absence of Consciousness?”, _Trends in Cognitive Sciences_, 12(2): 44.
-* –––, 2011, _Attention is Cognitive Unison: An Essay in Philosophical Psychology_, New York: Oxford University Press.
-* –––, 2012, “Nineteen Fifty-Eight: Information Technology and the Reconceptualisation of Creativity”, _The Cambridge Quarterly_, 40(4): 301–327.
-* –––, 2014a, “Attention to Unseen Objects”, _Journal of Consciousness Studies_, 21(11–12): 41–56.
-* –––, 2014b, “Attention and Cognitive Penetration”, in J. Zeimbekis & A. Raftopoulos (eds.), _The Cognitive Penetrability of Perception: New Philosophical Perspectives_, New York: Oxford University Press, pp. 218–237.
-* –––, 2017, “Skylduboðið um að veita athygli”, _Hugur: Tímarit Um Heimspeki_, 28: 17–28.
-* –––, 2020, “The role of attention in multisensory integration”, _Multisensory Research_, 34(3): 337–349.
-* Montemayor, C. & Haladjian, H.H., 2015, _Consciousness, Attention, and Conscious Attention_, Cambridge MA: The MIT Press.
-* Moore, C. & Dunham, P.J., 1995, _Joint Attention: Its Origins and Role in Development_, Hove: Erlbaum
-* Moore, T. & Armstrong K.M., 2003, “Selective gating of visual signals by microstimulation of frontal cortex”, _Nature_, 421(6921): 370–3.
-* Moore, T., Armstrong, K., & Fallah, M., 2003, “Visualmotor Origins of Covert Spatial Attention”, _Neuron_, 40: 671–83.
-* Nanay, B., 2010, “Attention and perceptual content”, _Analysis_, 70(2): 263–70
-* –––, 2011, “Ambiguous figures, attention, and perceptual content: reply to Jagnow.” _Phenomenology and the Cognitive Sciences_, 10(4): 557–561.
-* –––, 2015, “Aesthetic attention”, _Journal of Consciousness Studies_, 22(5–6): 96–118.
-* –––, 2016, _Aesthetics as Philosophy of Perception_, Oxford: Oxford University Press.
-* Neisser, U., 1976, _Cognition and Reality_, San Francisco: Freeman.
-* Neumann, O., 1987, “Beyond Capacity: A functional view of attention”, in _Perspectives on perception and action_, A. Sanders and H. Heuer (eds.), Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 361–394.
-* Nguyen, C.T., 2020, _Games: Agency as Art_, New York: Oxford University Press.
-* Nobre, A.C., & Coull, J.T., 2010, _Attention and Time_, Oxford: Oxford University Press.
-* Nobre, A.C, & van Ede, F., 2018, “Anticipated moments: Temporal structure in attention”, _Nature Reviews Neuroscience,_ 19 (1): 34–48.
-* Norman, L., Heywood, C., & Kentridge, R., 2013, “Object-Based Attention Without Awareness” _Psychological Science_, 24(6): 836–843.
-* O’Connor, D.H., Fukui, M. M., Pinsk, M.A., & Kastner, S., 2002, “Attention modulates responses in the human lateral geniculate nucleus”, _Nature Neuroscience_, 5: 1203–1209.
-* Odell, J., 2019, _How to Do Nothing: Resisting the Attention Economy_, Brooklyn, NY: Melville House.
-* O’Regan, K., & Noë, A., 2001, “A sensorimotor account of vision and visual consciousness”, _Behavioral and Brain Sciences_, 24: 939–1031.
-* Peacocke, C., 2005, “Joint Attention: Its Nature, Reflexivity, and Relation to Common Knowledge”, in N. Eilan, C. Hoerl, T. McCormack & J. Roessler (eds.), _Joint Attention: Communication and Other Minds_, Oxford: Oxford University Press, pp. 298–324.
-* Pessoa, L., 2013, _The Cognitive-Emotional Brain: From Interactions to Integration_, Oxford: Oxford University Press.
-* Phillips, I., 2011, “Attention and Iconic Memory”, in C. Mole, D. Smithies, and W. Wu (eds.), _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 204–227.
-* Pillsbury, W.B., 1908, _Attention_, New York: Macmillan.
-* Plate, J., 2007, “An analysis of the binding problem”, _Philosophical Psychology_, 20: 773–92.
-* Posner, M.I. & Boies, S.J., 1971, “Components of attention”, _Psychological Review_, 78(5): 391–408.
-* Prettyman, A., 2013, _Attention and Conscious Perception_, Ph.D. Dissertation, University of Toronto.
-* Prinz, J., 2005, “A Neurofunctional Theory of Consciousnes”, in _Cognition and the brain: The Philosophy and Neuroscience Movement_, A. Brook and K. Akins (eds.) New York: Cambridge University Press. pp. 381–396
-* ––– 2011, “Is Attention Necessary and Sufficient for Consciousness?”, in C. Mole, D. Smithies, and W. Wu (eds.), _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 174–203.
-* –––, 2012, _The Conscious Brain: How Attention Endgenders Experience_, New York: Oxford University Press.
-* Prinz, W. & Hommel, B., 2002, _Attention and Performance XIX: Common Mechanisms of Perception and Action_, Oxford: Oxford University Press.
-* Ransom, M., Fazelpour, S. & Mole, C., 2017, “Attention in the predictive mind”, _Consciousness and Cognition_, 47: 99–112.
-* Reddy, L., Reddy, L., & Koch, C., 2006, “Face identification in the near-absence of focal attention”, _Vision Research_, 46(15): 2336–2343.
-* Reddy, L., Wilken, P., & Koch, C., 2004, “Face-gender discrimination is possible in the near-absence of attention”, _Journal of Vision_, 4: 106–117.
-* Reddy, V., 2010, “Engaging Minds in the First Year: The Developing Awareness of Attention and Intention”, in G. Bremner (ed.), _Handbook of Infant Development_, Oxford: Wiley Blackwell, pp. 365–393.
-* Rees, G., Russell, C., Frith, C.D., & Driver, J., 1999, “Inattentional Blindness Versus Inattentional Amnesia for Fixate Ignored Words”, _Science_, 286(5449): 2504–7.
-* Rensink, R., 2002, “Change Detection”, _Annual Review of Psychology_, 53: 4245–277.
-* Rensink, R.A., O’Regan, J.K., & Clark, J.J., 1997, “To see or not to see: The need for attention to perceive changes in scenes” _Psychological Science_, 8: 368–373.
-* Reynolds, J., & Desimone, R., 2000, “Competitive mechanisms subserve selective visual attention”, in _Image, Language, Brain: Papers from the first mind articulation project symposium_, A. Marantz, Y. Miyashita, & W. O’Neil (eds.), Cambridge, MA: The MIT Press pp. 233–247.
-* Ribot, T.H., 1889, _Psychologie De L’attention_, Paris: Librairie Félix Alcan. Trans. as _The Psychology of Attention_, Chicago: Open Court Publishing, 1890.
-* Riccardi, M., 2019, “Perceptual presence: an attentional account”, _Synthese_, 196 (7): 2907–2926.
-* Richards, B. 2013, “Identity-Crowding and Object-Seeing: A Reply to Block” _Thought_, 2(1): 9–19.
-* Rizzolatti, G., Riggio, L., Dascola, I., & Umiltá, C., 1987, “Reorienting Attention Across the Horizontal And Vertical Meridians: Evidence in Favour of a Premotor Theory of Attention”, _Neuropsychologia_, 25 (1A): 31–40
-* Roessler, J., 2011, “Perceptual Attention and the Space of Reasons”, in C. Mole, D. Smithies, and W. Wu (eds.), _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 274–292.
-* Rosen, L. D., Carrier, L. M., & Cheever, N. A., 2013, “Facebook and texting made me do it: Media-induced task-switching while studying”. _Computers in Human Behavior_, 29(3), 948–958.
-* Russell, Bertrand, 1913, _Theory of Knowledge_, in E. Eames (ed.), _Theory of Knowledge_, Oxford: Routledge, 1987.
-* Ryle, G., 1949, _The Concept of Mind_, London: Hutchinson.
-* Schwitzgebel, E., 2007, “Do you have a constant tactile experience of your feet in your shoes? Or, is experience limited to what’s in attention?”, _Journal of Consciousness Studies_, 14(3): 5–35.
-* Seemann, A. (ed.), 2011, _Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience_, Cambridge MA: The MIT Press.
-* Shibuya, H., & Bundesen, C., 1988, “Visual selection from multielement displays: measuring and modelling effects of exposure duration”, _Journal of Experimental Psychology: Human Perception and Performance_, 14: 591–600.
-* Siegel, S., & Silins, N., 2014, “Consciousness, attention, and justification”, in D. Dodd and E. Zardini(eds.), _Scepticism and Perceptual Jusification_, Oxford: Oxford University Press, pp. 149–69.
-* Silins, N., & Siegel, S., 2019, “Attention and perceptual justification” in A. Pautz and D. Stoljar (eds.), _Blockheads! Essays on Ned Block’s Philosophy of Mind and Consciousness,_ Cambridge MA: The MIT Press, pp. 487–504.
-* Simon, H.A. 1971, “Designing organizations for an information rich world.” in Martin Greenberger (ed). _Computers, communications, and the public interest_, Baltimore: Johns Hopkins Press, pp. 37–72.
-* Simons, D., & Chabris, C., 1999, “Gorillas in our midst: Sustained inattentional blindness for dynamic events”, _Perception_, 28: 1059–1074.
-* Simons, D., 2000, “Attentional capture and inattentional blindness”, _Trends in Cognitive Sciences_, 4: 147–155.
-* Skinner, B.F., 1957, _Verbal Behavior_, New York: Appleton-Century-Crofts.
-* Smithies, D., 2011, “Attention is Rational Access Consciousness”, in C. Mole, D. Smithies, and W. Wu (eds.), _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 247–273.
-* Sodian, B., & Kristen-Antonow, S., 2015, “Declarative joint attention as a foundation of theory of mind” _Developmental Psychology_, 51 (9): 1190–1200.
-* Speaks, J., 2010, “Attention and Intentionalism”, _Philosophical Quarterly_, 60(239): 325–342.
-* Stewart, D., 1792, _Elements of the Philosophy of the Human Mind_, Cambridge MA: J. Monroe & Co.
-* Stout, G.F., 1891, “Apperception and the Movement of Attention” _Mind_, 16(61): 23–53.
-* Stout, R., 2006, _The Inner Life of a Rational Agent_, Edinburgh: Edinburgh University Press.
-* Suits, B., 1978, _The Grasshopper: Games, Life, and Utopia_ Toronto: University of Toronto Press.
-* Summerfield, C., & Egner, T., 2013, “Attention and Decision-Making”, in A.C. Nobre and S. Kastner (eds.), _The Oxford Handbook of Attention_, Oxford: Oxford University Press.
-* Taylor, J.H. 2013, “Is the grain of vision finer than the grain of attention? Response to Block” _Thought_, 2(1): 20–28.
-* –––, 2015, “Against unifying accounts of attention”, _Erkenntnis_, 80(1): 39–56.
-* –––, 2018, “Attention, psychology, and pluralism”, _The British Journal for the Philosophy of Science,_ 69 (4): 935–956.
-* Thalabard, É., 2020, “L’attention et la justification des croyances perceptives” _Revue de la Société de Philosophie des Sciences_, 7(3): 1–15.
-* Thomas, C., 2020, “Simone Weil: The Ethics of Affliction and the Aesthetics of Attention” _International Journal of Philosophical Studies_, 28(2), 145–167
-* Tiippana, K., Andersen, T. S., Sams, M., 2004, “Visual attention modulates audiovisual speech perception”, _European Journal of Cognitive Psychology_, 16(3): 457–472.
-* Tipper, S.P, Howard, L. A., & Houghton, G., 1998, “Action-based mechanisms of attention”, _Philosophical Transactions of the Royal Society of London_ (Series B), 335: 1385–1392.
-* Tipper, S.P., & Driver, J. 1988, “Negative Priming Between Pictures and Words in A Selective Attention task: Evidence for semantic processing of ignored stimuli”, _Memory and Cognition_, 16(1): 64–70
-* Titchener, E.B., 1908, _Lectures on the Elementary Psychology of Feeling and Attention_, New York : The Macmillan Company.
-* –––, 1910, “Attention as Sensory Clearness”, _The Journal of Philosophy, Psychology and Scientific Methods_, 7(7): 180–182.
-* Treisman, A., 1999, “Feature Binding, Attention and Object Perception”, in _Attention, Space and Action_, G.W. Humphries, J. Duncan and A. Treisman (eds.), Oxford: Oxford University Press, pp. 91–111.
-* –––, 2003, “Consciousness and Perceptual Binding”, in Axel Cleeremans (ed.) _The Unity of Consciousness: Binding, Integration and Dissociation_, Oxford: Oxford University Press.
-* Trevarthen, C., 2011, “The Generation of Human Meaning: How Shared Experience Grows in Infancy”, in A. Seemann (ed.), _Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience_, Cambridge, MA: The MIT Press pp. 73–115.
-* van der Berg, S., 2019, “The Motivational Structure of Appreciation”, _Philosophical Quarterly_, 69(276): 445–466.
-* Vecera, S., 2000, “Towards a Biased Competition Account of Object-Based Segregation and Attention”, _Brain and Mind_, 1: 353–384.
-* Ward, J., 1918, _Psychological Principles_, Cambridge: Cambridge University Press.
-* Watchel, P.L., 1967, “Conceptions of broad and narrow attention”, _Psychological Bulletin_, 68(6): 417–429.
-* Watzl, S., 2011, “Attention as Structuring of the Stream of Consciousness”, in C. Mole, D. Smithies, and W. Wu (eds.), _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 145–173.
-* –––, 2017, _Structuring Mind: The Nature of Attention and how it Shapes Consciousness_, Oxford: Oxford University Press.
-* Webb, T.W., & Graziano, M. S., 2015, “The attention schema theory: a mechanistic account of subjective awareness”, _Frontiers in Psychology_, 6: 500.
-* Weil, S., 1986, _Simone Weil: An Anthology_, S. Miles (ed.) New York: Grove Press.
-* White, A., 1964, _Attention_, Oxford: Basil Blackwell.
-* Williams, J., 2018, _Stand out of our Light: Freedom and Resistance in the Attention Economy_, Cambridge: Cambridge University Press.
-* Williams, J.J., 2021, “Kant on Aesthetic Attention” _The British Journal of Aesthetics_, online 12 May 2021, doi:10.1093/aesthj/ayaa057
-* Wolff, C., 1732, _Empirical Psychology, Treated According to the Scientific Method_, Frankfurt and Leipzig: Officina Libraria Rengeriana.
-* Wolff, J. M., 1999, “Inattentional Amnesia” in _Fleeting Memories: Cognition of Brief Visual Stimuli_, V. Coltheart (ed.), Cambridge, MA: The MIT Press, pp. 71–94.
-* Wright, R. D., & Ward, L. M., 2008, _Orienting of Attention_, New York: Oxford University Press.
-* Wu, W., 2011a, “Confronting many-many problems: Attention and agentive control”, _Noûs_, 45(1): 51–60.
-* –––, 2011b, “Attention as Selection for Action”, in Christopher Mole, Declan Smithies, and Wayne Wu (eds.), _Attention: Philosophical and Psychological Essays_, New York: Oxford University Press, pp. 97–116.
-* –––, 2014, _Attention_, London: Routledge.
-* –––, 2019. “Action always involves attention”. _Analysis_, 79(4): 693–703.
-* Yantis, S., 1998, “Control of Visual Attention”, in H. Pashler (ed.), _Attention_, New York: Psychology Press
+* –––, 2019, *An Agent of Attention: An Inquiry into the Source of Our Control*, Doctoral dissertation, University of Toronto, Canada.
+* Hine, R., 2010, “Attention as Experience: Through ‘Thick’ and ‘Thin’” *Journal of Consciousness Studies*, 17(9–10): 202–220.
+* Hirst, W., Spelke, E.S., Reaves, C.C., Caharack, G. & Neisser, U., 1980, “Dividing attention without alternation or automaticity”, *Journal of Experimental Psychology: General*, 109: 98–117.
+* Hobson, P., & Hobson, J., 2011,“Joint Attention or Joint Engagement? Insights from Autism”, in A. Seemann (ed.) *Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience*, Cambridge, MA: The MIT Press, pp. 115–136.
+* Hochstetter, G., 2016, “Attention in bodily awareness”, *Synthese*, 193 (12): 3819–3842.
+* Horgan, T. & Potrč, M., 2011, “Attention, Morphological Content, and Epistemic Justification”, *Croatian Journal of Philosophy*, 11(1): 73–86.
+* Hohwy, J. 2012, “Attention and Consciousness in the Hypothesis Testing Brain”, *Frontiers in Psychology*, 3: 96.
+* –––, 2013, *The Predictive Mind*, Oxford: Oxford University Press.
+* Irving, Z.C., 2016, “Mind-wandering is unguided attention: accounting for the ‘purposeful’ wanderer.” *Philosophical Studies*, 173(2): 547–571.
+* James, W., 1880, “The Feeling of Effort”, *Mind*, 5(20): 582.
+* James, W., 1890, *The Principles of Psychology*, New York: Dover.
+* Jennings, C. D., 2015. “Consciousness Without Attention”, *Journal of the American Philosophical Association*, 1(2): 276–95.
+* Jiang, Y., Costello, P., Fang, F., Huang, M., He, S., & Purves, D., 2006, “A gender- and sexual orientation-dependent spatial attentional effect of invisible images”, *Proceedings of the National Academy of Sciences* (USA), 1003(45): 17048–17052.
+* Johnston, J.C. & McCann, R.S., 2006, “On the locus of dual-task interference: Is there a bottleneck at the stimulus classification stage?”, *The Quarterly Journal of Experimental Psychology*, 59: 694–719.
+* Kames, H.H., 1769, *Elements of Criticism* (4th edition), Edinburgh: A. Millar and T. Cadell.
+* Kanner, L., 1943, “Autistic Disturbances of Affective Contact”, *The Nervous Child*, 2: 217–250.
+* Kastner, S. & Ungerleider L.G., 2000, “Mechanisms of Visual Attention in The Human Cortex”, *Annual Review of Neuroscience*, 23: 315–341.
+* Kentridge, R.W. & Heywood, C.A., 2001, “Attention and Alerting: Cognitive Processes Spared in Blindsight”, in *Out of Mind: Varieties of Unconscious Processing*, B. De Gelder, E.H.F. De Haan and C.A. Heywood (eds.), Oxford: Oxford University Press.
+* Kentridge, R.W., Heywood, C.A. & Weiskrantz, L., 2004, “Spatial attention speeds discrimination without awareness in blindsight”, *Neuropsychologia*, 42(6): 831–5.
+* Kinsbourne, M., 1995, “Awareness of one’s own body: An attentional theory of its nature, development, and brain basis”, in J. L. Bermudez, T. Marcel, & N. Eilan (Eds.), *The Body and The Self*, Cambridge, MA: The MIT Press, pp. 205–224.
+* –––, 2002, “The brain and body awareness”, in T. Pruzinsky & T. Cash (Eds.), *Body Images: A Handbook of theory, research, and clinical practice*, New York: Guilford, pp. 22–39.
+* Koch, C. & Tsuchiya, N., 2007, “Attention and consciousness: Two distinct brain processes”, *Trends in Cognitive Sciences*, 11: 16–22.
+* Koch, C. & Ullman, S., 1985, “Shifts in selective visual attention: Towards the underlying neural circuitry”, *Human Neurobiology*, 4(4): 219–227.
+* Koralus, P., 2014, “The Erotetic Theory of Attention: Questions, Focus, and Distraction”, *Mind and Language*, 29 (1): 26–50.
+* Kravitz, D., & Behrmann, M., 2011, “Space-, object-, and feature-based attention interact to organize visual scenes.” *Attention, Perception and Psychophysics*, 73(8): 2434–2447.
+* Lavie, N., & Tsal, Y., 1994, “Perceptual load as a major determinant of the locus of selection in visual attention”, *Perception & Psychophysics*, 56: 183–197.
+* Lavie, N., Hirst, A., De Fockert, J., & Viding, E., 2004, “Load Theory of Selective Attention and Cognitive Control”, *Journal of Experimental Psychology* (General, 133(3): 399–354.
+* Lavie, N., 2005, “Distracted and confused?: Selective Attention Under Load”, *Trends in Cognitive Sciences*, 9(2): 75–82.
+* Levy, Y., 2019, “Is attending a mental process?”, *Mind and Language*, 34(3): 283–298.
+* Li, F.F., VanRullen, R., Koch, C., & Perona, P., 2002, “Rapid natural scene categorization in the near absence of attention”, *Proceeding of the National Academy of Science* (USA), 99(14): 9596–9601
+* Locke, J., 1689, *An Essay Concerning Human Understanding*, P. Nidditch (ed.), Oxford: Oxford University Press, 1979.
+* Logan, G., 1996, “The CODE theory of visual attention: An integration of space-based and object-based attention”, *Psychological Review*, 103(4): 603–649.
+* Lopes, D., 2016, *Beyond Art*, Oxford: Oxford University Press.
+* Mack, A. & Rock, I., 1998, *Inattentional Blindness*, Cambridge MA: MIT Press.
+* Macpherson, F., 2006, “Ambiguous figures and the content of experience”, *Noûs*, 40(1): 82–117.
+* Macaluso, E., Noppeney, U., Talsma, D., Vercillo, T., Hartcher-O’Brien, J., Adam, R., 2016, “The curious incident of attention in multisensory integration: bottom-up vs. top-down”, *Multisensory Research*, 29(6): 557–583.
+* Merleau-Ponty, M. 1962, *Phenomenology of Perception*, C. Smith (trans.), London: Routledge & Kegan Paul.
+* Merritt, M. & Valaris, M., 2017, “Attention and Synthesis in Kant’s Conception of Experience”, *The Philosophical Quarterly*, 67(268): 571–92.
+* Mole, C., 2006, “Attention, Self, and *The Sovereignty of Good*”, in A. Rowe (ed.), *Iris Murdoch: A Reassessment*, Basingstoke: Palgrave Macmillan.
+* –––, 2008a, “Attention and Consciousness”, *Journal of Consciousness Studies*, 15(4): 86–104.
+* –––, 2008b, “Attention in the Absence of Consciousness?”, *Trends in Cognitive Sciences*, 12(2): 44.
+* –––, 2011, *Attention is Cognitive Unison: An Essay in Philosophical Psychology*, New York: Oxford University Press.
+* –––, 2012, “Nineteen Fifty-Eight: Information Technology and the Reconceptualisation of Creativity”, *The Cambridge Quarterly*, 40(4): 301–327.
+* –––, 2014a, “Attention to Unseen Objects”, *Journal of Consciousness Studies*, 21(11–12): 41–56.
+* –––, 2014b, “Attention and Cognitive Penetration”, in J. Zeimbekis & A. Raftopoulos (eds.), *The Cognitive Penetrability of Perception: New Philosophical Perspectives*, New York: Oxford University Press, pp. 218–237.
+* –––, 2017, “Skylduboðið um að veita athygli”, *Hugur: Tímarit Um Heimspeki*, 28: 17–28.
+* –––, 2020, “The role of attention in multisensory integration”, *Multisensory Research*, 34(3): 337–349.
+* Montemayor, C. & Haladjian, H.H., 2015, *Consciousness, Attention, and Conscious Attention*, Cambridge MA: The MIT Press.
+* Moore, C. & Dunham, P.J., 1995, *Joint Attention: Its Origins and Role in Development*, Hove: Erlbaum
+* Moore, T. & Armstrong K.M., 2003, “Selective gating of visual signals by microstimulation of frontal cortex”, *Nature*, 421(6921): 370–3.
+* Moore, T., Armstrong, K., & Fallah, M., 2003, “Visualmotor Origins of Covert Spatial Attention”, *Neuron*, 40: 671–83.
+* Nanay, B., 2010, “Attention and perceptual content”, *Analysis*, 70(2): 263–70
+* –––, 2011, “Ambiguous figures, attention, and perceptual content: reply to Jagnow.” *Phenomenology and the Cognitive Sciences*, 10(4): 557–561.
+* –––, 2015, “Aesthetic attention”, *Journal of Consciousness Studies*, 22(5–6): 96–118.
+* –––, 2016, *Aesthetics as Philosophy of Perception*, Oxford: Oxford University Press.
+* Neisser, U., 1976, *Cognition and Reality*, San Francisco: Freeman.
+* Neumann, O., 1987, “Beyond Capacity: A functional view of attention”, in *Perspectives on perception and action*, A. Sanders and H. Heuer (eds.), Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 361–394.
+* Nguyen, C.T., 2020, *Games: Agency as Art*, New York: Oxford University Press.
+* Nobre, A.C., & Coull, J.T., 2010, *Attention and Time*, Oxford: Oxford University Press.
+* Nobre, A.C, & van Ede, F., 2018, “Anticipated moments: Temporal structure in attention”, *Nature Reviews Neuroscience,* 19 (1): 34–48.
+* Norman, L., Heywood, C., & Kentridge, R., 2013, “Object-Based Attention Without Awareness” *Psychological Science*, 24(6): 836–843.
+* O’Connor, D.H., Fukui, M. M., Pinsk, M.A., & Kastner, S., 2002, “Attention modulates responses in the human lateral geniculate nucleus”, *Nature Neuroscience*, 5: 1203–1209.
+* Odell, J., 2019, *How to Do Nothing: Resisting the Attention Economy*, Brooklyn, NY: Melville House.
+* O’Regan, K., & Noë, A., 2001, “A sensorimotor account of vision and visual consciousness”, *Behavioral and Brain Sciences*, 24: 939–1031.
+* Peacocke, C., 2005, “Joint Attention: Its Nature, Reflexivity, and Relation to Common Knowledge”, in N. Eilan, C. Hoerl, T. McCormack & J. Roessler (eds.), *Joint Attention: Communication and Other Minds*, Oxford: Oxford University Press, pp. 298–324.
+* Pessoa, L., 2013, *The Cognitive-Emotional Brain: From Interactions to Integration*, Oxford: Oxford University Press.
+* Phillips, I., 2011, “Attention and Iconic Memory”, in C. Mole, D. Smithies, and W. Wu (eds.), *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 204–227.
+* Pillsbury, W.B., 1908, *Attention*, New York: Macmillan.
+* Plate, J., 2007, “An analysis of the binding problem”, *Philosophical Psychology*, 20: 773–92.
+* Posner, M.I. & Boies, S.J., 1971, “Components of attention”, *Psychological Review*, 78(5): 391–408.
+* Prettyman, A., 2013, *Attention and Conscious Perception*, Ph.D. Dissertation, University of Toronto.
+* Prinz, J., 2005, “A Neurofunctional Theory of Consciousnes”, in *Cognition and the brain: The Philosophy and Neuroscience Movement*, A. Brook and K. Akins (eds.) New York: Cambridge University Press. pp. 381–396
+* ––– 2011, “Is Attention Necessary and Sufficient for Consciousness?”, in C. Mole, D. Smithies, and W. Wu (eds.), *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 174–203.
+* –––, 2012, *The Conscious Brain: How Attention Endgenders Experience*, New York: Oxford University Press.
+* Prinz, W. & Hommel, B., 2002, *Attention and Performance XIX: Common Mechanisms of Perception and Action*, Oxford: Oxford University Press.
+* Ransom, M., Fazelpour, S. & Mole, C., 2017, “Attention in the predictive mind”, *Consciousness and Cognition*, 47: 99–112.
+* Reddy, L., Reddy, L., & Koch, C., 2006, “Face identification in the near-absence of focal attention”, *Vision Research*, 46(15): 2336–2343.
+* Reddy, L., Wilken, P., & Koch, C., 2004, “Face-gender discrimination is possible in the near-absence of attention”, *Journal of Vision*, 4: 106–117.
+* Reddy, V., 2010, “Engaging Minds in the First Year: The Developing Awareness of Attention and Intention”, in G. Bremner (ed.), *Handbook of Infant Development*, Oxford: Wiley Blackwell, pp. 365–393.
+* Rees, G., Russell, C., Frith, C.D., & Driver, J., 1999, “Inattentional Blindness Versus Inattentional Amnesia for Fixate Ignored Words”, *Science*, 286(5449): 2504–7.
+* Rensink, R., 2002, “Change Detection”, *Annual Review of Psychology*, 53: 4245–277.
+* Rensink, R.A., O’Regan, J.K., & Clark, J.J., 1997, “To see or not to see: The need for attention to perceive changes in scenes” *Psychological Science*, 8: 368–373.
+* Reynolds, J., & Desimone, R., 2000, “Competitive mechanisms subserve selective visual attention”, in *Image, Language, Brain: Papers from the first mind articulation project symposium*, A. Marantz, Y. Miyashita, & W. O’Neil (eds.), Cambridge, MA: The MIT Press pp. 233–247.
+* Ribot, T.H., 1889, *Psychologie De L’attention*, Paris: Librairie Félix Alcan. Trans. as *The Psychology of Attention*, Chicago: Open Court Publishing, 1890.
+* Riccardi, M., 2019, “Perceptual presence: an attentional account”, *Synthese*, 196 (7): 2907–2926.
+* Richards, B. 2013, “Identity-Crowding and Object-Seeing: A Reply to Block” *Thought*, 2(1): 9–19.
+* Rizzolatti, G., Riggio, L., Dascola, I., & Umiltá, C., 1987, “Reorienting Attention Across the Horizontal And Vertical Meridians: Evidence in Favour of a Premotor Theory of Attention”, *Neuropsychologia*, 25 (1A): 31–40
+* Roessler, J., 2011, “Perceptual Attention and the Space of Reasons”, in C. Mole, D. Smithies, and W. Wu (eds.), *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 274–292.
+* Rosen, L. D., Carrier, L. M., & Cheever, N. A., 2013, “Facebook and texting made me do it: Media-induced task-switching while studying”. *Computers in Human Behavior*, 29(3), 948–958.
+* Russell, Bertrand, 1913, *Theory of Knowledge*, in E. Eames (ed.), *Theory of Knowledge*, Oxford: Routledge, 1987.
+* Ryle, G., 1949, *The Concept of Mind*, London: Hutchinson.
+* Schwitzgebel, E., 2007, “Do you have a constant tactile experience of your feet in your shoes? Or, is experience limited to what’s in attention?”, *Journal of Consciousness Studies*, 14(3): 5–35.
+* Seemann, A. (ed.), 2011, *Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience*, Cambridge MA: The MIT Press.
+* Shibuya, H., & Bundesen, C., 1988, “Visual selection from multielement displays: measuring and modelling effects of exposure duration”, *Journal of Experimental Psychology: Human Perception and Performance*, 14: 591–600.
+* Siegel, S., & Silins, N., 2014, “Consciousness, attention, and justification”, in D. Dodd and E. Zardini(eds.), *Scepticism and Perceptual Jusification*, Oxford: Oxford University Press, pp. 149–69.
+* Silins, N., & Siegel, S., 2019, “Attention and perceptual justification” in A. Pautz and D. Stoljar (eds.), *Blockheads! Essays on Ned Block’s Philosophy of Mind and Consciousness,* Cambridge MA: The MIT Press, pp. 487–504.
+* Simon, H.A. 1971, “Designing organizations for an information rich world.” in Martin Greenberger (ed). *Computers, communications, and the public interest*, Baltimore: Johns Hopkins Press, pp. 37–72.
+* Simons, D., & Chabris, C., 1999, “Gorillas in our midst: Sustained inattentional blindness for dynamic events”, *Perception*, 28: 1059–1074.
+* Simons, D., 2000, “Attentional capture and inattentional blindness”, *Trends in Cognitive Sciences*, 4: 147–155.
+* Skinner, B.F., 1957, *Verbal Behavior*, New York: Appleton-Century-Crofts.
+* Smithies, D., 2011, “Attention is Rational Access Consciousness”, in C. Mole, D. Smithies, and W. Wu (eds.), *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 247–273.
+* Sodian, B., & Kristen-Antonow, S., 2015, “Declarative joint attention as a foundation of theory of mind” *Developmental Psychology*, 51 (9): 1190–1200.
+* Speaks, J., 2010, “Attention and Intentionalism”, *Philosophical Quarterly*, 60(239): 325–342.
+* Stewart, D., 1792, *Elements of the Philosophy of the Human Mind*, Cambridge MA: J. Monroe & Co.
+* Stout, G.F., 1891, “Apperception and the Movement of Attention” *Mind*, 16(61): 23–53.
+* Stout, R., 2006, *The Inner Life of a Rational Agent*, Edinburgh: Edinburgh University Press.
+* Suits, B., 1978, *The Grasshopper: Games, Life, and Utopia* Toronto: University of Toronto Press.
+* Summerfield, C., & Egner, T., 2013, “Attention and Decision-Making”, in A.C. Nobre and S. Kastner (eds.), *The Oxford Handbook of Attention*, Oxford: Oxford University Press.
+* Taylor, J.H. 2013, “Is the grain of vision finer than the grain of attention? Response to Block” *Thought*, 2(1): 20–28.
+* –––, 2015, “Against unifying accounts of attention”, *Erkenntnis*, 80(1): 39–56.
+* –––, 2018, “Attention, psychology, and pluralism”, *The British Journal for the Philosophy of Science,* 69 (4): 935–956.
+* Thalabard, É., 2020, “L’attention et la justification des croyances perceptives” *Revue de la Société de Philosophie des Sciences*, 7(3): 1–15.
+* Thomas, C., 2020, “Simone Weil: The Ethics of Affliction and the Aesthetics of Attention” *International Journal of Philosophical Studies*, 28(2), 145–167
+* Tiippana, K., Andersen, T. S., Sams, M., 2004, “Visual attention modulates audiovisual speech perception”, *European Journal of Cognitive Psychology*, 16(3): 457–472.
+* Tipper, S.P, Howard, L. A., & Houghton, G., 1998, “Action-based mechanisms of attention”, *Philosophical Transactions of the Royal Society of London* (Series B), 335: 1385–1392.
+* Tipper, S.P., & Driver, J. 1988, “Negative Priming Between Pictures and Words in A Selective Attention task: Evidence for semantic processing of ignored stimuli”, *Memory and Cognition*, 16(1): 64–70
+* Titchener, E.B., 1908, *Lectures on the Elementary Psychology of Feeling and Attention*, New York : The Macmillan Company.
+* –––, 1910, “Attention as Sensory Clearness”, *The Journal of Philosophy, Psychology and Scientific Methods*, 7(7): 180–182.
+* Treisman, A., 1999, “Feature Binding, Attention and Object Perception”, in *Attention, Space and Action*, G.W. Humphries, J. Duncan and A. Treisman (eds.), Oxford: Oxford University Press, pp. 91–111.
+* –––, 2003, “Consciousness and Perceptual Binding”, in Axel Cleeremans (ed.) *The Unity of Consciousness: Binding, Integration and Dissociation*, Oxford: Oxford University Press.
+* Trevarthen, C., 2011, “The Generation of Human Meaning: How Shared Experience Grows in Infancy”, in A. Seemann (ed.), *Joint Attention: New Developments in Psychology, Philosophy of Mind, and Social Neuroscience*, Cambridge, MA: The MIT Press pp. 73–115.
+* van der Berg, S., 2019, “The Motivational Structure of Appreciation”, *Philosophical Quarterly*, 69(276): 445–466.
+* Vecera, S., 2000, “Towards a Biased Competition Account of Object-Based Segregation and Attention”, *Brain and Mind*, 1: 353–384.
+* Ward, J., 1918, *Psychological Principles*, Cambridge: Cambridge University Press.
+* Watchel, P.L., 1967, “Conceptions of broad and narrow attention”, *Psychological Bulletin*, 68(6): 417–429.
+* Watzl, S., 2011, “Attention as Structuring of the Stream of Consciousness”, in C. Mole, D. Smithies, and W. Wu (eds.), *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 145–173.
+* –––, 2017, *Structuring Mind: The Nature of Attention and how it Shapes Consciousness*, Oxford: Oxford University Press.
+* Webb, T.W., & Graziano, M. S., 2015, “The attention schema theory: a mechanistic account of subjective awareness”, *Frontiers in Psychology*, 6: 500.
+* Weil, S., 1986, *Simone Weil: An Anthology*, S. Miles (ed.) New York: Grove Press.
+* White, A., 1964, *Attention*, Oxford: Basil Blackwell.
+* Williams, J., 2018, *Stand out of our Light: Freedom and Resistance in the Attention Economy*, Cambridge: Cambridge University Press.
+* Williams, J.J., 2021, “Kant on Aesthetic Attention” *The British Journal of Aesthetics*, online 12 May 2021, doi:10.1093/aesthj/ayaa057
+* Wolff, C., 1732, *Empirical Psychology, Treated According to the Scientific Method*, Frankfurt and Leipzig: Officina Libraria Rengeriana.
+* Wolff, J. M., 1999, “Inattentional Amnesia” in *Fleeting Memories: Cognition of Brief Visual Stimuli*, V. Coltheart (ed.), Cambridge, MA: The MIT Press, pp. 71–94.
+* Wright, R. D., & Ward, L. M., 2008, *Orienting of Attention*, New York: Oxford University Press.
+* Wu, W., 2011a, “Confronting many-many problems: Attention and agentive control”, *Noûs*, 45(1): 51–60.
+* –––, 2011b, “Attention as Selection for Action”, in Christopher Mole, Declan Smithies, and Wayne Wu (eds.), *Attention: Philosophical and Psychological Essays*, New York: Oxford University Press, pp. 97–116.
+* –––, 2014, *Attention*, London: Routledge.
+* –––, 2019. “Action always involves attention”. *Analysis*, 79(4): 693–703.
+* Yantis, S., 1998, “Control of Visual Attention”, in H. Pashler (ed.), *Attention*, New York: Psychology Press
 
 ## Academic Tools
 
@@ -696,4 +695,4 @@ Bence Nanay 提出了一个具有相似目标的立场 - 不追求给出审美�
 [behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [Bradley, Francis Herbert](https://plato.stanford.edu/entries/bradley/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [Collingwood, Robin George: aesthetics](https://plato.stanford.edu/entries/collingwood-aesthetics/) | [common knowledge](https://plato.stanford.edu/entries/common-knowledge/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [free will](https://plato.stanford.edu/entries/freewill/) | [Helmholtz, Hermann von](https://plato.stanford.edu/entries/hermann-helmholtz/) | [James, William](https://plato.stanford.edu/entries/james/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [Ryle, Gilbert](https://plato.stanford.edu/entries/ryle/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Christopher Mole](https://philosophy.ubc.ca/profile/christopher-mole/) <[_cmole@mail.ubc.ca_](mailto:cmole%40mail%2eubc%2eca)>
+[Christopher Mole](https://philosophy.ubc.ca/profile/christopher-mole/) <[*cmole@mail.ubc.ca*](mailto:cmole%40mail%2eubc%2eca)>

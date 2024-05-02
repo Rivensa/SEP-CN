@@ -1,9 +1,9 @@
 # 古典印度哲学中的逻辑学 logic (Brendan Gillon)
 
-_首次发表于2011年4月19日；实质性修订于2023年8月23日_
+*首次发表于2011年4月19日；实质性修订于2023年8月23日*
 
 推理的实践和辩论的实践在印度早期的文本中有所记录。对于推理和辩论的本质的关注出现在最早的哲学文本中，它们的处理与本体论、认识论和辩证法的问题密切相关。这些问题在古典和中世纪印度哲学的时期继续成为哲学讨论的中心。本文将记录印度哲学家在古典和前古典时期对这些问题的回答。
- 
+
 ***
 
 ## 1. 推理和逻辑
@@ -354,202 +354,202 @@ Dignāga 的最后一项贡献可以在他的《Pramāṇa-samuccaya》的第六
 
 ### Original Texts
 
-* _Abhidharma-samuccaya_ (_Compendium of the higher teachings_) by Asaṅga; Edition: Tatia 1976; French translation: Rahula 1971; English summary: Griffiths 1999.
-* _Bǎi lùn_ (百論) (_Śataka-śāstra_, _Treatise in one hundred verses_) by Āryadeva; Edition: _Taishō Chinese Tripiṭaka_ 1569; English translation: Tucci 1930; English summary: Lang 1999.
-* _Caraka-saṃhitā_ (_Caraka’s collection_) by Agniveśa; Edition: Sharma and Dash 1976; English translation: Sharma and Dash 1976; French translation: Papin 2006; Reference: CS sthāna.adhyāya.sūtra
-* _Fāng biàn xīn lùn_ (方便心論 , _Treatise on the heart of means_) (reconstructed title: _Upāya-hṛdaya_); Edition: _Taishō Chinese Tripiṭaka_ 1632; English translation (chapter 1): Gillon and Katsura 2017; Reference: T 1632 page.horizontal-band.vertical-line
-* _Hetu-bindu_ (_Drop of reason_) by Dharmakīrti; Edition: Steinkellner 2016; English translation: Gokhale 1997.
-* _Hetu-cakra-ḍamaru_ (_The drum wheel of reason_) by Dignāga\
+* *Abhidharma-samuccaya* (*Compendium of the higher teachings*) by Asaṅga; Edition: Tatia 1976; French translation: Rahula 1971; English summary: Griffiths 1999.
+* *Bǎi lùn* (百論) (*Śataka-śāstra*, *Treatise in one hundred verses*) by Āryadeva; Edition: *Taishō Chinese Tripiṭaka* 1569; English translation: Tucci 1930; English summary: Lang 1999.
+* *Caraka-saṃhitā* (*Caraka’s collection*) by Agniveśa; Edition: Sharma and Dash 1976; English translation: Sharma and Dash 1976; French translation: Papin 2006; Reference: CS sthāna.adhyāya.sūtra
+* *Fāng biàn xīn lùn* (方便心論 , *Treatise on the heart of means*) (reconstructed title: *Upāya-hṛdaya*); Edition: *Taishō Chinese Tripiṭaka* 1632; English translation (chapter 1): Gillon and Katsura 2017; Reference: T 1632 page.horizontal-band.vertical-line
+* *Hetu-bindu* (*Drop of reason*) by Dharmakīrti; Edition: Steinkellner 2016; English translation: Gokhale 1997.
+* *Hetu-cakra-ḍamaru* (*The drum wheel of reason*) by Dignāga\
   Edition (Tibetan): He and van der Kuijp 2016\
   English translation: He and van der Kuijp 2016
-* _Hetu-vidyā_, part of _Yoga-ācāra-bhūmi-śāstra_\
+* *Hetu-vidyā*, part of *Yoga-ācāra-bhūmi-śāstra*\
   Edition: Yaita 2005 pp. 95–124; English translation: Wayman 1999 pp. 3–41
-* _Kathā-vatthu_ (_Points of controversy_) by Moggaliputta Tissa; Edition: Kāśyapa 1961; English translation: Aung and Davids 1915; English summary: McDermott 1996.
-* _Milinda-pañha_ (_Questions of King Milinda_)\
+* *Kathā-vatthu* (*Points of controversy*) by Moggaliputta Tissa; Edition: Kāśyapa 1961; English translation: Aung and Davids 1915; English summary: McDermott 1996.
+* *Milinda-pañha* (*Questions of King Milinda*)\
   Edition: Trenckner 1880; English translation: Davids 1890; French translation: Nolot 1995; English summary: Potter 1996.
-* _Mūla-madhyamaka-kārikā_ (_Basic verses on the middle way_) by Nāgārjuna; Edition: de Jong 1977; English translation: Siderits and Katsura 2013; Reference: MMK chapter.verse
-* _Nyāya-bhāṣya_ (_Commentary on logic_), a commentary on the _Nyāya-sūtra_, by Vātsyāyana, who is also known as Pakṣilasvāmin; Edition: Taranatha and Amarendramohan 1936; English translation: Jha 1913; French translation: Angot 2009; Reference: NSB adhyāya.āhnika.sūtra
-* _Nyāya-bindu_ (_Drop of logic_) by Dharmakīrti; Edition: Malvania 1955; English translation: Shcherbatskoï 1930 v. 2; Reference: NB chapter.passage
-* _Nyāya-mukha_ (_Introduction to logic_) by Dignāga\
-  Edition: no published edition; Chinese translation: _Taishō Chinese Tripiṭaka_ no. 1628; English translation: Tucci 1930; Reference: NM.
-* _Nyāya-praveśa_ (_Primer on logic_) by Śaṅkarasvāmin; Edition: Dhruva 1930; English translation: Gillon and Love 1980; Tachikawa 1971.
-* _Nyāya-sūtra_ (_Aphorisms on logic_) by Gautama, who is also known as Akṣapāda; Edition: Taranatha and Amarendramohan (eds.) 1936; English translation: Jha 1913; French translation: Angot 2009; Reference: NS adhyāya.āhnika.sūtra.
-* _Nyāya-vārttika_ (_Glosses on logic_) by Uddyotakara, a commentary on the _Nyāya-bhāṣya_; Edition: Taranatha and Amarendramohan 1936; English translation: Jha 1913; French translation: Angot 2009.
-* _Padārtha-dharma-saṃgraha_ (_Summary of categories and properties_), by Praśastapāda; Edition: Bronkhorst and Ramseier (eds.) 1994; English translation: Jha 1916.
-* _Pramāṇa-samuccaya_ (_Compendium on epistemic means of cognition_) by Dignāga; Edition: Original Sanskrit text lost; English translation: first chapter, Hattori 1968; second chapter, Hayes 1988 ch. 6; fifth chapter, Hayes 1988 ch. 7, Pind 2015\
+* *Mūla-madhyamaka-kārikā* (*Basic verses on the middle way*) by Nāgārjuna; Edition: de Jong 1977; English translation: Siderits and Katsura 2013; Reference: MMK chapter.verse
+* *Nyāya-bhāṣya* (*Commentary on logic*), a commentary on the *Nyāya-sūtra*, by Vātsyāyana, who is also known as Pakṣilasvāmin; Edition: Taranatha and Amarendramohan 1936; English translation: Jha 1913; French translation: Angot 2009; Reference: NSB adhyāya.āhnika.sūtra
+* *Nyāya-bindu* (*Drop of logic*) by Dharmakīrti; Edition: Malvania 1955; English translation: Shcherbatskoï 1930 v. 2; Reference: NB chapter.passage
+* *Nyāya-mukha* (*Introduction to logic*) by Dignāga\
+  Edition: no published edition; Chinese translation: *Taishō Chinese Tripiṭaka* no. 1628; English translation: Tucci 1930; Reference: NM.
+* *Nyāya-praveśa* (*Primer on logic*) by Śaṅkarasvāmin; Edition: Dhruva 1930; English translation: Gillon and Love 1980; Tachikawa 1971.
+* *Nyāya-sūtra* (*Aphorisms on logic*) by Gautama, who is also known as Akṣapāda; Edition: Taranatha and Amarendramohan (eds.) 1936; English translation: Jha 1913; French translation: Angot 2009; Reference: NS adhyāya.āhnika.sūtra.
+* *Nyāya-vārttika* (*Glosses on logic*) by Uddyotakara, a commentary on the *Nyāya-bhāṣya*; Edition: Taranatha and Amarendramohan 1936; English translation: Jha 1913; French translation: Angot 2009.
+* *Padārtha-dharma-saṃgraha* (*Summary of categories and properties*), by Praśastapāda; Edition: Bronkhorst and Ramseier (eds.) 1994; English translation: Jha 1916.
+* *Pramāṇa-samuccaya* (*Compendium on epistemic means of cognition*) by Dignāga; Edition: Original Sanskrit text lost; English translation: first chapter, Hattori 1968; second chapter, Hayes 1988 ch. 6; fifth chapter, Hayes 1988 ch. 7, Pind 2015\
   Reference: PS chapter.verse
-* _Pramāṇa-vārttika_ (_Gloss on epistemic means of cognition_) by Dharmakīrti; Edition: Pandeya 1989; English translation: first chapter to verse 38 with autocommentary, Hayes and Gillon 1991 and Gillon and Hayes 2008; first chapter verses 312 – 340 with autocommentary, Eltschinger, Krasser and Taber (trans.) 2012; fourth chapter, Tillemans 2000.
-* _Pramāṇa-viniścaya_ (_Settling on what the epistemic means of cognition are_) by Dharmakīrti; Edition of first and second chapters: Steinkellner 2007; Edition of third: Hugon and Tomabechi 2011.
-* _Prasanna-padā_ (_Clear-worded_ (_Commentary_)) by Candrakīrti, a commentary on _Mūla-madhyamaka-kārikā_; Edition: Shastri 1983; English translation: Sprung 1977.
-* _Praśastapāda-bhāṣya_ (_Praśastapāda’s Commentary_): see _Padārtha-dharma-saṃgraha_.
-* _Rúshí lùn_ (如實論, _Treatise on truth_) (reconstructed title: _Tarka-śāstra_); Edition: _Taishō Chinese Tripiṭaka_ 1633; Reference: T 1633 page.horizontal-band.vertical-line
-* _Saṃdhi-nirmocana-sūtra_ (_Aphorisms on release from bondage_)\
+* *Pramāṇa-vārttika* (*Gloss on epistemic means of cognition*) by Dharmakīrti; Edition: Pandeya 1989; English translation: first chapter to verse 38 with autocommentary, Hayes and Gillon 1991 and Gillon and Hayes 2008; first chapter verses 312 – 340 with autocommentary, Eltschinger, Krasser and Taber (trans.) 2012; fourth chapter, Tillemans 2000.
+* *Pramāṇa-viniścaya* (*Settling on what the epistemic means of cognition are*) by Dharmakīrti; Edition of first and second chapters: Steinkellner 2007; Edition of third: Hugon and Tomabechi 2011.
+* *Prasanna-padā* (*Clear-worded* (*Commentary*)) by Candrakīrti, a commentary on *Mūla-madhyamaka-kārikā*; Edition: Shastri 1983; English translation: Sprung 1977.
+* *Praśastapāda-bhāṣya* (*Praśastapāda’s Commentary*): see *Padārtha-dharma-saṃgraha*.
+* *Rúshí lùn* (如實論, *Treatise on truth*) (reconstructed title: *Tarka-śāstra*); Edition: *Taishō Chinese Tripiṭaka* 1633; Reference: T 1633 page.horizontal-band.vertical-line
+* *Saṃdhi-nirmocana-sūtra* (*Aphorisms on release from bondage*)\
   Edition: Lamotte 1935; English translation: Powers 1993; French Translation: Lamotte 1935.
-* _Śataka-śāstra_: see _Bǎi lùn_.
-* _Śloka-vārttika_ (_Gloss in verses_), a commentary on Śabara’s commentary on Jaimini’s _Mīmāṁsā Sūtra_, Bk. 1, Ch. 1, by Kumārila Bhaṭṭa; Edition: Musalgaonkar 1979; Translation: Jha 1924.
-* _Tarka-śāstra_: see _Rú shí lùn_.
-* _Upāya-hṛdaya_: see _Fāng biàn xīn lùn_.
-* _Vāda-nyāya_ (_Logic of debate_) by Dharmakīrti; Edition: Much 1991, Shastri 1972\
+* *Śataka-śāstra*: see *Bǎi lùn*.
+* *Śloka-vārttika* (*Gloss in verses*), a commentary on Śabara’s commentary on Jaimini’s *Mīmāṁsā Sūtra*, Bk. 1, Ch. 1, by Kumārila Bhaṭṭa; Edition: Musalgaonkar 1979; Translation: Jha 1924.
+* *Tarka-śāstra*: see *Rú shí lùn*.
+* *Upāya-hṛdaya*: see *Fāng biàn xīn lùn*.
+* *Vāda-nyāya* (*Logic of debate*) by Dharmakīrti; Edition: Much 1991, Shastri 1972\
   English translation: Gokhale 1993\
   German translation: Much 1991
-* _Vāda-vidhi_ (_Rules of debate_) by Vasubandhu; Edition: Frauwallner 1957; Ono 2020; English translation: Anacker 1984 ch. 3.
-* _Vaidalya-prakaraṇa_ (_Tract on pulverization_) by Nāgārjuna; Edition: Tibetan translation; English translation: Westerhof 2018.
-* _Vaiśeṣika-sūtra_ (_Aphorisms on individuation_) by Kaṇāda; Edition: Jambuvijāyajī 1961; English translation: Sinha 1911; Reference: VS adhyāya.āhnika.sūtra
-* _Vākyapadīya_ (_On sentences and words_) by Bhartṛhari; Edition: Rau 1977; English translation: Subramania Iyer, K. A. 1965, 1971, 1974, 1977; German translation: Rau 1988\
+* *Vāda-vidhi* (*Rules of debate*) by Vasubandhu; Edition: Frauwallner 1957; Ono 2020; English translation: Anacker 1984 ch. 3.
+* *Vaidalya-prakaraṇa* (*Tract on pulverization*) by Nāgārjuna; Edition: Tibetan translation; English translation: Westerhof 2018.
+* *Vaiśeṣika-sūtra* (*Aphorisms on individuation*) by Kaṇāda; Edition: Jambuvijāyajī 1961; English translation: Sinha 1911; Reference: VS adhyāya.āhnika.sūtra
+* *Vākyapadīya* (*On sentences and words*) by Bhartṛhari; Edition: Rau 1977; English translation: Subramania Iyer, K. A. 1965, 1971, 1974, 1977; German translation: Rau 1988\
   Reference: VP kāṇḍa.kārikā or kāṇḍa.samuddeśa.kārikā
-* _Vigraha-vyāvartinī_ (_Tract on pulverization_) by Nāgārjuna; Edition: Bhattacharya 1978; English translation: Bhattacharya 1978; Westerhof 2010.
-* _Yamaka_ (_Couplets_), Edition: Rhys Davids, C. A. F. (ed.) 1911; English summary: Lang 1996.
-* _Yogācāra-bhūmi-śāstra_, attributed to Asaṅga; English summary: Potter, Schmithausen, Davidson 1999.
+* *Vigraha-vyāvartinī* (*Tract on pulverization*) by Nāgārjuna; Edition: Bhattacharya 1978; English translation: Bhattacharya 1978; Westerhof 2010.
+* *Yamaka* (*Couplets*), Edition: Rhys Davids, C. A. F. (ed.) 1911; English summary: Lang 1996.
+* *Yogācāra-bhūmi-śāstra*, attributed to Asaṅga; English summary: Potter, Schmithausen, Davidson 1999.
 
 ### General Works
 
-* Bochenski, Joseph M., 1956, _Formale Logik_. Munich: Verlag Karl Alber. English Translation: Thomas (trans.) 1961.
-* Chi, Richard S. Y., 1969, _Buddhist formal logic: a study of Dignāga’s Hetucakra and K’uei-chi’s Great Commentary on the Nyāyapraveśa_, London: The Royal Asiatic Society of Great Britain.
-* Ganeri, Jonardon (ed.), 2001, _Indian logic: a reader_, Richmond: Curzon.
-* –––, 2004, _Indian logic_, in Gabbay and Woods (eds.) 2004, v. 1, pp. 241–266.
-* Hamblin, Charles Leonard, 1970, _Fallacies_, London: Methuen.
+* Bochenski, Joseph M., 1956, *Formale Logik*. Munich: Verlag Karl Alber. English Translation: Thomas (trans.) 1961.
+* Chi, Richard S. Y., 1969, *Buddhist formal logic: a study of Dignāga’s Hetucakra and K’uei-chi’s Great Commentary on the Nyāyapraveśa*, London: The Royal Asiatic Society of Great Britain.
+* Ganeri, Jonardon (ed.), 2001, *Indian logic: a reader*, Richmond: Curzon.
+* –––, 2004, *Indian logic*, in Gabbay and Woods (eds.) 2004, v. 1, pp. 241–266.
+* Hamblin, Charles Leonard, 1970, *Fallacies*, London: Methuen.
 * Herzberger, Hans H., 1982, “Three systems of Buddhist logic”, in Matilal and Evans (eds.) 1986, 59–76.
-* Jayatilleke, Kulatissa Nanda, 1963, _Early Buddhist theory of knowledge_, London: George Allen and Unwin Ltd.
-* Katsura, Shōryū, 1998, _Indojin no ronrigaku : mondōhō kara kinōhō e_ (_Logic of the Indians : from dialectics to induction_) (in Japanese), Tokyo, Chūōkōronsha (_chūōkōshinsho_: 1142). Translated into Chinese by Xiāo, Píng and Yáng, Jīnpíng 2010.
-* Matilal, Bimal Krishna, 1971, _Epistemology, logic, and grammar in Indian philosophical analysis_, The Hague: Mouton and Co. (Series Minor: 111).
-* –––, 1985, _Logic, language, and reality: an introduction to Indian philosophical studies_, Delhi: Motilal Banarsidass, 2nd edition, 1990. See chapters 1 and 2.
-* –––, 1998, _The character of logic in India_, Jonardon Ganeri and Heeraman Tiwari (eds.), New York, USA: State University of New York Press.
-* Matilal, Bimal Krishna and Evans, Robert D. (eds.), 1986, _Buddhist logic and epistemology_, Dordrecht: D. Reidel Publishing Co.
-* Patil, Parimal G., 2010, “History, Philology, and the Philosophical Study of Sanskrit Texts: Jonardon Ganeri’s _Philosophy in Classical India_”, _Journal of Indian Philosophy_: 38:163–202.
-* Perrett, Roy W., 1984, “The problem of induction in Indian philosophy”, _Philosophy East and West_, 34: 161–174.
-* Potter, Karl H., 1977, _Introduction to the Philosophy of Nyāya-Vaiśeṣika_, in, _Encyclopedia of Indian Philosophies_ v. 2, Part I. Chapter 9 (_Logical Theory_).
-* Oetke, Claus, 1994, _Studies on the doctrine of trairūpya_, Vienna, Arbeitskreis für Tibetische und Buddhistische Studien (_Wiener Studien zur Tibetologie und Buddhismuskunde_: 33).
-* Randle, Herbert Niel, 1930, _Indian logic in the early schools. A study of the Nyāyadarśana in its relation to the early logic of other schools_, Oxford: Oxford University Press.
-* Shcherbatskoï, Fedor Ippolitovich (Stcherbatsky, F. Th.), 1930, _Buddhist logic_, 2 vols, Saint Petersburg (formerly, Leningrad), Academy of Sciences of the U. S. S. R. (_Bibliotheca Buddhica_: v. 26). Reprinted: Dover Publications, New York, New York, 1962.
-* Solomon, Esther A., 1976, _Indian Dialectics: Methods of Philosophical Discussion_, 2 vols, Ahmedabad, B. J. Institute of Learning and Research (_Research Series_: 70).
-* Staal, J. F., 1973, “The concept of pakṣa in Indian logic”, _Journal of Indian Philosophy_, 2: 155–166. Reprinted: Staal (ed.) 1988, ch. 7.
-* ––– (ed.), 1988, _Universals: studies in Indian logic and linguistics_, Chicago: The University of Chicago Press.
-* Thomas, Ivo (trans.), 1961, _A history of formal logic_, Notre Dame: University of Notre Dame Press. 2nd edition, 1970. Translation: Bochenski 1956. Reprinted: Chelsea Publishing Co., New York.
-* Tillemans, Tom J. F., 1990, “On _sapakṣa_”, _Journal of Indian Philosophy_, 18: 53–80.
-* –––, 1992, “La logique bouddhique est-elle une logique non-classique ou deviante?”, _Les cahiers de philosophie_, 14: 183–198.
-* Vidyabhusana, Satis Chandra, 1921, _A history of Indian logic: ancient, medieval and modern_. Calcutta: Calcutta University. Reprinted: Motilal Banarsidass, Delhi, 1971.
-* Xiāo, Píng (肖平) and Yáng Jīpíng (楊金萍) (trs), 2010, _yīndù rén de luóji : cóng wèndǎfǎ dào guīnàfǎ_ (印度的: 答法到法). Beijing: zōngjiào wénhuà chūbǎnshè (北京; 宗教文化出版社) (Chinese translation of Katsura 1998).
+* Jayatilleke, Kulatissa Nanda, 1963, *Early Buddhist theory of knowledge*, London: George Allen and Unwin Ltd.
+* Katsura, Shōryū, 1998, *Indojin no ronrigaku : mondōhō kara kinōhō e* (*Logic of the Indians : from dialectics to induction*) (in Japanese), Tokyo, Chūōkōronsha (*chūōkōshinsho*: 1142). Translated into Chinese by Xiāo, Píng and Yáng, Jīnpíng 2010.
+* Matilal, Bimal Krishna, 1971, *Epistemology, logic, and grammar in Indian philosophical analysis*, The Hague: Mouton and Co. (Series Minor: 111).
+* –––, 1985, *Logic, language, and reality: an introduction to Indian philosophical studies*, Delhi: Motilal Banarsidass, 2nd edition, 1990. See chapters 1 and 2.
+* –––, 1998, *The character of logic in India*, Jonardon Ganeri and Heeraman Tiwari (eds.), New York, USA: State University of New York Press.
+* Matilal, Bimal Krishna and Evans, Robert D. (eds.), 1986, *Buddhist logic and epistemology*, Dordrecht: D. Reidel Publishing Co.
+* Patil, Parimal G., 2010, “History, Philology, and the Philosophical Study of Sanskrit Texts: Jonardon Ganeri’s *Philosophy in Classical India*”, *Journal of Indian Philosophy*: 38:163–202.
+* Perrett, Roy W., 1984, “The problem of induction in Indian philosophy”, *Philosophy East and West*, 34: 161–174.
+* Potter, Karl H., 1977, *Introduction to the Philosophy of Nyāya-Vaiśeṣika*, in, *Encyclopedia of Indian Philosophies* v. 2, Part I. Chapter 9 (*Logical Theory*).
+* Oetke, Claus, 1994, *Studies on the doctrine of trairūpya*, Vienna, Arbeitskreis für Tibetische und Buddhistische Studien (*Wiener Studien zur Tibetologie und Buddhismuskunde*: 33).
+* Randle, Herbert Niel, 1930, *Indian logic in the early schools. A study of the Nyāyadarśana in its relation to the early logic of other schools*, Oxford: Oxford University Press.
+* Shcherbatskoï, Fedor Ippolitovich (Stcherbatsky, F. Th.), 1930, *Buddhist logic*, 2 vols, Saint Petersburg (formerly, Leningrad), Academy of Sciences of the U. S. S. R. (*Bibliotheca Buddhica*: v. 26). Reprinted: Dover Publications, New York, New York, 1962.
+* Solomon, Esther A., 1976, *Indian Dialectics: Methods of Philosophical Discussion*, 2 vols, Ahmedabad, B. J. Institute of Learning and Research (*Research Series*: 70).
+* Staal, J. F., 1973, “The concept of pakṣa in Indian logic”, *Journal of Indian Philosophy*, 2: 155–166. Reprinted: Staal (ed.) 1988, ch. 7.
+* ––– (ed.), 1988, *Universals: studies in Indian logic and linguistics*, Chicago: The University of Chicago Press.
+* Thomas, Ivo (trans.), 1961, *A history of formal logic*, Notre Dame: University of Notre Dame Press. 2nd edition, 1970. Translation: Bochenski 1956. Reprinted: Chelsea Publishing Co., New York.
+* Tillemans, Tom J. F., 1990, “On *sapakṣa*”, *Journal of Indian Philosophy*, 18: 53–80.
+* –––, 1992, “La logique bouddhique est-elle une logique non-classique ou deviante?”, *Les cahiers de philosophie*, 14: 183–198.
+* Vidyabhusana, Satis Chandra, 1921, *A history of Indian logic: ancient, medieval and modern*. Calcutta: Calcutta University. Reprinted: Motilal Banarsidass, Delhi, 1971.
+* Xiāo, Píng (肖平) and Yáng Jīpíng (楊金萍) (trs), 2010, *yīndù rén de luóji : cóng wèndǎfǎ dào guīnàfǎ* (印度的: 答法到法). Beijing: zōngjiào wénhuà chūbǎnshè (北京; 宗教文化出版社) (Chinese translation of Katsura 1998).
 
 ### References
 
-* Akamatsu, Akihiko (ed.), 2000, _Felicitation volume on the occasion of the 70th birthday of Dr. Tosaki Hiromasa, Culture and logic in India_. Fukuoka, Japan: Kyushu University Press.
-* Anacker, Stefan (trans.), 1984, _Seven works of Vasubandhu: the buddhist psychological doctor_, Delhi: Motilal Banarsidass.
-* Angot, Michel (trans.), 2009, _Le Nyāya-Sūtra de Gautama Akṣapāda. Le Nyāya-bhāṣya d’Akṣapāda Pakṣilasvāmin. L’art de conduire la pensée en Inde ancienne_, Paris: Les Belles Lettres.
-* Aung, Shwe Zan and Caroline Anne Foley Rhys Davids (trans.), 1915, _Points of controversy, or subjects of discourse, being a translation of the Kathā-vatthu from the Abhidhamma-piṭika_, London, The Pali Text Society.
-* Bagchi, Sitansusekhar, 1953, _Inductive reasoning: a study of tarka and its role in Indian logic_, Calcutta: Munishchandra Sinha.
-* Bhattacharya, Kamaleswar (trans.), 1978, _The dialectical method of Nagarjuna_: _Vigrahavyāvartanī_, Delhi: Motilal Banarsidass.
-* Bronkhorst, Johannes and Yves Ramseier (eds.), 1994, _Word index to the Praśastapādabhāṣya: a complete word index to the printed editions of the Praśastapādabhāṣya_, Delhi, Motilal Banarsidass.
-* Dhruva, Ānandaśaṅkar (ed.), 1930, _The Nyāyapraveśa: Sanskrit text with commentaries_, Baroda, Oriental Institute (_Gaekwad’s Oriental Series_), 2nd, 1968.
-* Eltschinger, Vincent, Helmut Krasser and John Taber 2012 _Can the Veda speak?_. _Dharmakīrti against Mīmāṁsā exegetics and Vedic authority. An Annotated translation of PVSV 164,24 – 176,16_. Vienna, Verlag der Österreichischen Akademie der Wissenschaften (_Sitzungsberichte der philosophisch-historischen Klasse_: 831) (_Beiträge zur Kultur-und Geistesgeschichte Asiens_: 74).
+* Akamatsu, Akihiko (ed.), 2000, *Felicitation volume on the occasion of the 70th birthday of Dr. Tosaki Hiromasa, Culture and logic in India*. Fukuoka, Japan: Kyushu University Press.
+* Anacker, Stefan (trans.), 1984, *Seven works of Vasubandhu: the buddhist psychological doctor*, Delhi: Motilal Banarsidass.
+* Angot, Michel (trans.), 2009, *Le Nyāya-Sūtra de Gautama Akṣapāda. Le Nyāya-bhāṣya d’Akṣapāda Pakṣilasvāmin. L’art de conduire la pensée en Inde ancienne*, Paris: Les Belles Lettres.
+* Aung, Shwe Zan and Caroline Anne Foley Rhys Davids (trans.), 1915, *Points of controversy, or subjects of discourse, being a translation of the Kathā-vatthu from the Abhidhamma-piṭika*, London, The Pali Text Society.
+* Bagchi, Sitansusekhar, 1953, *Inductive reasoning: a study of tarka and its role in Indian logic*, Calcutta: Munishchandra Sinha.
+* Bhattacharya, Kamaleswar (trans.), 1978, *The dialectical method of Nagarjuna*: *Vigrahavyāvartanī*, Delhi: Motilal Banarsidass.
+* Bronkhorst, Johannes and Yves Ramseier (eds.), 1994, *Word index to the Praśastapādabhāṣya: a complete word index to the printed editions of the Praśastapādabhāṣya*, Delhi, Motilal Banarsidass.
+* Dhruva, Ānandaśaṅkar (ed.), 1930, *The Nyāyapraveśa: Sanskrit text with commentaries*, Baroda, Oriental Institute (*Gaekwad’s Oriental Series*), 2nd, 1968.
+* Eltschinger, Vincent, Helmut Krasser and John Taber 2012 *Can the Veda speak?*. *Dharmakīrti against Mīmāṁsā exegetics and Vedic authority. An Annotated translation of PVSV 164,24 – 176,16*. Vienna, Verlag der Österreichischen Akademie der Wissenschaften (*Sitzungsberichte der philosophisch-historischen Klasse*: 831) (*Beiträge zur Kultur-und Geistesgeschichte Asiens*: 74).
 * Franco, Eli, 2003, “The Discussion of pramāṇas in the Spitzer Manuscript,” in B. Gillon (ed.): 121–138.
-* –––, 2004, _The Spitzer Manuscript. The Oldest Philosophical Manuscript in Sanskrit_, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* Frauwallner, Erich, 1933, “Zu den Fragmenten buddhistischer Logiker im Nyāya-vārttikam”, _Wiener Zeitschrift für die Kunde Morgansland_: 40: 281–304.
-* –––, 1957, “Vasubandhu’s Vādavidhiḥ”, _Wiener Zeitschrift für die Kunde Süd- und Ostasiens und Archiv für Indische Philosophie_, 1: 104–146.
-* –––, 1961, Landmarks in the History of Indian Logic. _Wiener Zeitschrift für die Kunde Süd und ostasiens und Archiv für Indische Philosophie_: 5: 125–148.
-* Gabbay, Dov and Woods, John (eds) 2004–2012 _Handbook of the history of logic_. Amsterdam, The Netherlands: Elsevier.
-* Ganeri, Jonardon, 2001 “Argumentation, dialogue and the _Kathāvatthu_”, _Journal of Indian Philosophy_, 29: 485–493.
+* –––, 2004, *The Spitzer Manuscript. The Oldest Philosophical Manuscript in Sanskrit*, Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* Frauwallner, Erich, 1933, “Zu den Fragmenten buddhistischer Logiker im Nyāya-vārttikam”, *Wiener Zeitschrift für die Kunde Morgansland*: 40: 281–304.
+* –––, 1957, “Vasubandhu’s Vādavidhiḥ”, *Wiener Zeitschrift für die Kunde Süd- und Ostasiens und Archiv für Indische Philosophie*, 1: 104–146.
+* –––, 1961, Landmarks in the History of Indian Logic. *Wiener Zeitschrift für die Kunde Süd und ostasiens und Archiv für Indische Philosophie*: 5: 125–148.
+* Gabbay, Dov and Woods, John (eds) 2004–2012 *Handbook of the history of logic*. Amsterdam, The Netherlands: Elsevier.
+* Ganeri, Jonardon, 2001 “Argumentation, dialogue and the *Kathāvatthu*”, *Journal of Indian Philosophy*, 29: 485–493.
 * Gillon, Brendan S., 1991, “Dharmakīrti and the problem of induction”, in Steinkellner (ed.) 1991: 53–58.
-* –––, 1999, “Another look at the Sanskrit particle _eva_”, in Katsura (ed.) 1999: 117–130.
-* –––, 2010, “Obversion and contraposition in the _Nyāyabhāṣya_”, in Gillon (ed.) 2010: 167–182.
-* ––– (ed.), 2010, _Logic in earliest classical India_, Delhi, Motilal Banarsidass Publishers (_Papers of the 12th World Sanskrit Conference_, 10(2).
+* –––, 1999, “Another look at the Sanskrit particle *eva*”, in Katsura (ed.) 1999: 117–130.
+* –––, 2010, “Obversion and contraposition in the *Nyāyabhāṣya*”, in Gillon (ed.) 2010: 167–182.
+* ––– (ed.), 2010, *Logic in earliest classical India*, Delhi, Motilal Banarsidass Publishers (*Papers of the 12th World Sanskrit Conference*, 10(2).
 * –––, 2020, “The emergence of the canonical Indian syllogism as revealed by early Chinese Buddhist texts”, in Moriyama (ed.) 2020, chapter 2.
-* Gillon, Brendan S. and Richard P. Hayes (trans.), 2008, “Dharmakīrti on the role of causation in inference as presented in _Pramāṇavārttika Svopajñavṛtti_ 11–38”, _Journal of Indian Philosophy_, 36: 335–404.
-* Gillon, Brendan S. and Katsura Shoryu (trs), 2017, “English Translation of the __Upāyahṛdaya_ (pt. 1)”, _Journal of Indian and Tibetan Studies_ (_Indogaku Chibettogaku Kenkyu_), 20: 195–232. URL:http://www.jits-ryukoku.net/.
-* Gillon, Brendan S. and Martha Lyle Love (trs), 1980, “Indian logic revisited: _Nyāyapraveśa_ reviewed”, _Journal of Indian Philosophy_, 8:349–384.
-* Gokhale, Pradīpa P. (ed.) (trans.), 1993, _Vādanyāya of Dharmakīrti: the logic of debate, critically edited and translated with introduction and notes_, Delhi, Sri Satguru Publications.
-* ––– (ed.) (trans.), 1997, _Hetubindu of Dharmakīrti: a Sanskrit version translated with an introduction and notes_, Delhi, Sri Satguru Publications (_Bibliotheca Indo-Buddhica series_: no. 183).
-* Griffiths, Paul J., 1999, “_Abhidharmasamuccaya_ (Asaṅga),” in: K. H. Potter, ed, _Encyclopedia of Indian Philosophies_, v. 8 (_Buddhist Philosophy from 100 to 350 A. D._, ch. 168 (434–452).
-* Hattori, Masaaki (ed.) (trans.), 1968, _Dignāga, On Perception_: _being the Pratyakṣapariccheda of Dignāga’s Pramāṇa-samuccaya from the Sanskrit fragments and the Tibetan Versions_. Cambridge, Massachusetts: Harvard University Press.
-* Hayes, Richard P., 1980, “Dignāga’s views on reasoning (_svārthānumāna_)”, _Journal of Indian Philosophy_, 8: 219–277.
-* –––, 1988, _Dignāga on the interpretation of signs_. Dordrecht: Kluwer (_Studies of Classical India_: 9).
-* Hayes, Richard P. and Brendan S. Gillon (trs), 1991, “Introduction to Dharmakīrti’s theory of inference as presented in _Pramāṇa-vārttaka Svopaj navṛtti_ 1–10”, _Journal of Indian Philosophy_, 19: 1–73.
-* He, Huanhuan and Leonard W. J. van der Kuijp, 2016, “Once Again on the Hetucakraḍamaru: Rotating the Wheels”, _Journal of Indian Philosophy_: 44: 267–302.
-* Hugon, Pacale and Toru Tomabechi (eds), 2011, _Dharmakīrti’s Pramāṇaviniścaya, Chapter 3, with a preface by Tom J.F. Tillemans_, Beijing/Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press.
-* Jambuvijāyajī (ed.), 1961, _Vaiśeṣikasūtra of Kaṇāda, with the commentary of Candrānanda_, Baroda, Oriental Institute (_Gaekwad’s Oriental Series_), 2nd, 1982.
-* Jha, Ganganatha (trans.), 1913, _The Nyāya-sūtras of Gautāma, with the bhāṣya of Vātsyāyana and the Vārtika of Uddyotakara, translated into English, with notes from Vāchaspati Mishra’s Nyāya-vārtika-tātparyaṭīkā, Udayana’s Pariśuddhi and Raghūttama’s Bhāṣyacandra_, Delhi, Motilal Banarsidass, 1984 (reprint).
-* ––– (trans.), 1916, _Padārthadharmasaṃgraha of Praśastapāda, with the Nyāyakandalī of Śrīdhara_, Vārāṇasī: Chaukhambha Orientalia, 1982 (reprint).
-* ––– (trans.), 1924, _Ślokavārttika, translated from the original Sanskrit, with extracts from the commentaries Kāśikā of Sucaritamiśra and Nyāyaratnākara of Pārthasārathimiśra_, Delhi, Sri Satguru Publications, 1983 (reprint).
-* de Jong, Jan Willem (ed.), 1977, _Mūlamadhyamakakārikāḥ / Nāgārjuna_, Madras, Adyar Library and Research Centre.
-* Kajiyama, Yūichi, 1989, “On the authorship of the _Upāya-hṛdaya_”, in Steinkellner (ed.) 1991: 107–117.
-* Kāśyapa, Jagadīśa (ed.) 1961 _Abhidhammapiṭake Kathāvatthupāli_, Nālandā, Bihārarājakīya Pālipakasanamaṇḍala (_Nālandā-Devanāgarī-Pāli-ganthamālāya_).
-* Katsura, Shōryū, 1985, “On trairūpya formulae”, in _Buddhism and its relation to other religions: essays in honour of Dr. Shozen Kumoi on his seventieth birthday_, Kyoto, Heirakuji Shoten, 161–172.
-* –––, 1986, “On the origin and development of the concept of _vyāpti_ in Indian logic”, _Hiroshima Tetsugakkai_, 38:1–16.
-* ––– (ed.), 1999, _Dharmakīrti’s thought and its impact on Indian and Tibetan philosophy_. Proceedings of the Third International Dharmakīrti Conference (Hiroshima, 11–16 November, 1997). Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
-* –––, 2000, “Dignāga on _trairūpya_ reconsidered: a reply to Prof. Oetke”, in Akamatsu (ed.) 2000: 241–266.
+* Gillon, Brendan S. and Richard P. Hayes (trans.), 2008, “Dharmakīrti on the role of causation in inference as presented in *Pramāṇavārttika Svopajñavṛtti* 11–38”, *Journal of Indian Philosophy*, 36: 335–404.
+* Gillon, Brendan S. and Katsura Shoryu (trs), 2017, “English Translation of the _*Upāyahṛdaya* (pt. 1)”, *Journal of Indian and Tibetan Studies* (*Indogaku Chibettogaku Kenkyu*), 20: 195–232. URL:http://www.jits-ryukoku.net/.
+* Gillon, Brendan S. and Martha Lyle Love (trs), 1980, “Indian logic revisited: *Nyāyapraveśa* reviewed”, *Journal of Indian Philosophy*, 8:349–384.
+* Gokhale, Pradīpa P. (ed.) (trans.), 1993, *Vādanyāya of Dharmakīrti: the logic of debate, critically edited and translated with introduction and notes*, Delhi, Sri Satguru Publications.
+* ––– (ed.) (trans.), 1997, *Hetubindu of Dharmakīrti: a Sanskrit version translated with an introduction and notes*, Delhi, Sri Satguru Publications (*Bibliotheca Indo-Buddhica series*: no. 183).
+* Griffiths, Paul J., 1999, “*Abhidharmasamuccaya* (Asaṅga),” in: K. H. Potter, ed, *Encyclopedia of Indian Philosophies*, v. 8 (*Buddhist Philosophy from 100 to 350 A. D.*, ch. 168 (434–452).
+* Hattori, Masaaki (ed.) (trans.), 1968, *Dignāga, On Perception*: *being the Pratyakṣapariccheda of Dignāga’s Pramāṇa-samuccaya from the Sanskrit fragments and the Tibetan Versions*. Cambridge, Massachusetts: Harvard University Press.
+* Hayes, Richard P., 1980, “Dignāga’s views on reasoning (*svārthānumāna*)”, *Journal of Indian Philosophy*, 8: 219–277.
+* –––, 1988, *Dignāga on the interpretation of signs*. Dordrecht: Kluwer (*Studies of Classical India*: 9).
+* Hayes, Richard P. and Brendan S. Gillon (trs), 1991, “Introduction to Dharmakīrti’s theory of inference as presented in *Pramāṇa-vārttaka Svopaj navṛtti* 1–10”, *Journal of Indian Philosophy*, 19: 1–73.
+* He, Huanhuan and Leonard W. J. van der Kuijp, 2016, “Once Again on the Hetucakraḍamaru: Rotating the Wheels”, *Journal of Indian Philosophy*: 44: 267–302.
+* Hugon, Pacale and Toru Tomabechi (eds), 2011, *Dharmakīrti’s Pramāṇaviniścaya, Chapter 3, with a preface by Tom J.F. Tillemans*, Beijing/Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press.
+* Jambuvijāyajī (ed.), 1961, *Vaiśeṣikasūtra of Kaṇāda, with the commentary of Candrānanda*, Baroda, Oriental Institute (*Gaekwad’s Oriental Series*), 2nd, 1982.
+* Jha, Ganganatha (trans.), 1913, *The Nyāya-sūtras of Gautāma, with the bhāṣya of Vātsyāyana and the Vārtika of Uddyotakara, translated into English, with notes from Vāchaspati Mishra’s Nyāya-vārtika-tātparyaṭīkā, Udayana’s Pariśuddhi and Raghūttama’s Bhāṣyacandra*, Delhi, Motilal Banarsidass, 1984 (reprint).
+* ––– (trans.), 1916, *Padārthadharmasaṃgraha of Praśastapāda, with the Nyāyakandalī of Śrīdhara*, Vārāṇasī: Chaukhambha Orientalia, 1982 (reprint).
+* ––– (trans.), 1924, *Ślokavārttika, translated from the original Sanskrit, with extracts from the commentaries Kāśikā of Sucaritamiśra and Nyāyaratnākara of Pārthasārathimiśra*, Delhi, Sri Satguru Publications, 1983 (reprint).
+* de Jong, Jan Willem (ed.), 1977, *Mūlamadhyamakakārikāḥ / Nāgārjuna*, Madras, Adyar Library and Research Centre.
+* Kajiyama, Yūichi, 1989, “On the authorship of the *Upāya-hṛdaya*”, in Steinkellner (ed.) 1991: 107–117.
+* Kāśyapa, Jagadīśa (ed.) 1961 *Abhidhammapiṭake Kathāvatthupāli*, Nālandā, Bihārarājakīya Pālipakasanamaṇḍala (*Nālandā-Devanāgarī-Pāli-ganthamālāya*).
+* Katsura, Shōryū, 1985, “On trairūpya formulae”, in *Buddhism and its relation to other religions: essays in honour of Dr. Shozen Kumoi on his seventieth birthday*, Kyoto, Heirakuji Shoten, 161–172.
+* –––, 1986, “On the origin and development of the concept of *vyāpti* in Indian logic”, *Hiroshima Tetsugakkai*, 38:1–16.
+* ––– (ed.), 1999, *Dharmakīrti’s thought and its impact on Indian and Tibetan philosophy*. Proceedings of the Third International Dharmakīrti Conference (Hiroshima, 11–16 November, 1997). Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 2000, “Dignāga on *trairūpya* reconsidered: a reply to Prof. Oetke”, in Akamatsu (ed.) 2000: 241–266.
 * –––, 2004a, “The role of dṛṣṭānta in Dignḡa’s logic”, in Katsura and Steinkellner (eds.), 135–174.
-* –––, 2004b, “Pakṣa, sapakṣa and asapakṣa in Dignāga’s logic”, _Hōrin_, 11: 119–128.
-* Katsura, Shōryū and Steinkellner, Ernst (eds.) 2004 _The role of the example (dṛṣṭānta) in classical Indian logic_. Vienna, Arbeitskreis für Tibetische und Buddhistische Studien (_Wiener Studien zur Tibetologie und Buddhismuskunde_: 58).
-* Keating, Malcolm (ed.), 2020, _Controversial reasoning in Indian philosophy: Major texts and arguments on Arthāpatti_, London: Bloomsbury Academic.
-* Kieffer-Pulz, Petra and Hartmann, Jens-Uwe (eds.), 1997, _Bauddhavidyāsudhākaraḥ: Studies in Honour of Heinz Bechert on the Occasion of His 65th Birthday_, Swisttal-Odendorf, Indica et Tibetica Verlag (_Monographien zu den Sprachen und Literaturen des indo-tibetischen Kulturraumes_: 30).
-* Lamotte, Étienne (ed.) (trans.), 1935, _Saṁdhi-nirmocana-sūtra_: _L’explication des mystères_ (_Texte Tibétain édité et traduit_), Louvain, Université de Louvain (_Recueil de travaux publiés par les membres des Conférences d’Histoire et de Philologie_: 2_e_ Série, 343 Fascicule).
-* Lang, Karen, 1996, “_Yamaka_,” in Potter (ed.): ch. 12.
-* –––, 1999, “_Śataka_,” in Potter (ed.): ch. 49.
-* Malvania, Dalsukhbhai (ed.), 1955, _Paṇḍita Durveka Miśra’s Dharmottarapradīpa, being a sub-commentary on Dharmottara’s Nyāyabinduṭīkā, a commentary on Dharmakīrti’s Nyāyabindu_, Patna, Kashiprasad Jayaswal Research Institute, 2nd edition, 1971.
-* Manné, Joy, 1992, “The _Dīgha Nikāya_ Debates,” _Buddhist Studies Review_, 9: 117–136.
-* McDermott, James P., 1996, “_Kathāvatthu_,” in Potter (ed.): ch. 8.
-* Much, Michael Torsten (ed.) (trans.), 1991, _Dharmakīrtis Vādanyāya. Teil I. Sanskrit-Text. Teil II. Übersetzung und Anmerkungen_, Vienna: Austrian Academy of Sciences Press, 1991.
-* Muroyama, Shinya (ed.), 2020, _Transmission and transformation of Buddhist logic and epistemology in East Asia_. Vienna, University of Vienna (_Arbeitskreis für Tibetische und Buddhistische Studien_).
-* Musalgaonkar, Gajānan Śastrī (ed.), 1979, _Mīmāṁsādarśana : tatra śrikumārilabhaṭṭa-viracitam mīmāṁsā-ślokavārtikam, tacca śabarabhāṣyeṇa, nyāyaratnākaravyākhyayā tīppaṇṇā_ \[sic] _ca saṃvalitam_, Vārāṇasī, Bhāratīya Vidyā Prakāśana.
-* Nolot, Édith (trans.), 1995, _Entretiens de Milinda et Nâgasena_, Paris, Gallimard.
-* Oetke, Claus, 1994, _Studies on the doctrine of trairūpya_, Vienna, Arbeitskreis für Tibetische und Buddhistische Studien (_Wiener Studien zur Tibetologie und Buddhismuskunde_: 33).
-* –––, 1996, “Ancient Indian logic as a theory of non-monotonic reasoning”, _Journal of Indian Philosophy_ 24: 447–539.
-* Ono, Motoi, 2020 “On the _Rushi lun_ — its original title, the issue of its incompleteness and its authorship”, in Moriyama (ed.): chapter 1.
-* Pandeya, Ram Chandra (ed.), 1989, _ācāryadharmakīteḥ pramāṇavārttikam: granthakartṛviracitayā svopajñavṛttyā ācāryamanorathanandikṛtayā pramāṇavārttikavṛttyā ca samupetam_, Delhi, Motilal Barnasidass.
-* Papin, Jena (trans.), 2006, _Traité fondamental de la médecine Ayurvédique_, 3 vols, Paris: Éditions Almora.
-* Paul, Gregor (ed.), 2015, _Logic in Buddhist Scholasticism: from philosophical, philological, historical and comparative perspectives_. Lumbini, Lumbini International Research Institute (LIRI seminar proceedings series: 7).
-* Pind, Ole Holten (ed.) (trans.), 2015, _Dignāga’s philosophy of language. Pramāṇasamuccayavṛtti V on anyāpoha_. Part 1: text; Part 2: translation and annotation. Vienna: Austrian Academy of Sciences Press.
-* Potter, Karl H., 1996, “_Milindapañho_,” in K. H. Potter (ed.): ch. 22.
-* ––– (ed.), 1996, _Encyclopedia of Indian Philosophies_, v. 7 (_Abhidharma Buddhism 150 A. D._), Delhi: Motilal Banarsidass.
-* ––– (ed.), 1999, _Encyclopedia of Indian Philosophies_, v. 8 (_Buddhist Philosophy from 100 to 350 A. D._), Delhi: Motilal Banarsidass.
-* Potter, Karl H., Lambert Schmithausen, and Ronald Davidson, 1999, “_Yoga-ācāra-bhūmi-śāstra_ (Asaṅga)” in Potter (ed.): ch. 166.
-* Powers, C. John (trans.), 1993, _Hermeneutics and Tradition in the Saṃdhinirmocanana-sūtra_, Leiden: E. J. Brill (_Buddhist tradition series_: v. 53).
-* Preisendanz, Karin, 2009, “Logic, debate and epistemology in ancient Indian medical science — an investigation into the history and historiography of Indian philosophy”, _Indian Journal of history of science_, 44: 261–312.
-* –––, 2010, “Reasoning as a science, its role and early dharma literature, and the emergence of the term _nyāya_”, in Gillon (ed.): 27–66.
-* Rahula, Walpola (trans.), 1971, _Le compendium de la super-doctrine (philosophie) (Abhidharmasamuccaya) d’Asaṅga_, Paris, École française d’Extrême-Orient.
-* Randle, Herbert Niel, 1930, _Indian logic in the early schools. A study of the Nyāyadarśana in its relation to the early logic of other schools_, Oxford: Oxford University Press.
-* Rau, Wilhelm (ed.), 1977, Bhartṛharis _Vākyapadīya_: _Die Mūlakārikās nach den Handschriften herausgegeben und mit einem Pāda-Index versehen_, Wiesbaden, Steiner (_Abhandlungen für die Kunde des Morgenlandes_: 42, 4).
-* ––– (trans.), 1988, Bhartṛharis _Vākyapadīya_: _vollständiger Wortindex zu den mūlakārikās_, Mainz/Stuttgart, Steiner, Akademie der Wissenschaften und der Literature.
-* Rhys Davids and Caroline Augusta Foley (ed.), 1911, _Yamaka_, being the sixth book of the Abhidhammapiṭaka, Oxford: Oxford University Press, _Pali Text Society_: v. 1, 1911; v. 2, 1913.
-* Rhys Davids, Thomas William (trans.), 1890, _The questions of King Milinda_, London: Pali Text Society (_Sacred books of the East_: v. 35–36). Reprinted: Dover: New York, 1963.
-* Sharma, Ram Karan and Dash, Bhagawam (eds.)(trans.), 1976, _Agniveśa’s Caraka saṃhita: text with English translation and critical exposition based on Cakrapaṇi Datta’s Ayurveda dīpika_, Vārāṇasī, Chowkhamba Sanskrit Series Office (_Chowkhamba Sanskrit Studies_: 94)
-* Shastri, Dvārikādasa (ed.), 1972, _Vādanyāyaprakaraṇam ācāryaśantarakṣitakṛtavipañcitārthavyākhyāyutam evaṃ ācāryaprabhācandrakṛtavyākhyānāthā saṃbandhaparīkṣā_, Vārāṇasī, Bauddhabhāratī.
-* ––– (ed.), 1983, _Āryanāgārjunīyam Madhyamakaśāstram: Candrakīrtteḥ Prasannapadākhyavṛttyā samvalitam_, Vārāṇasī, Bauddhabhāratī.
-* Shcherbatskoï, Fedor Ippolitovich (Stcherbatsky, F. Th.), 1930, _Buddhist logic_, 2 vols, Saint Petersburg (formerly, Leningrad), Academy of Sciences of the U. S. S. R. (_Bibliotheca Buddhica_: v. 26). Reprinted: Dover: New York, 1962.
-* Siderits, Mark and Katsura, Shōryū (trans.), 2013, _Nāgārjuna’s Middle Way_. Mūlamadhyamakakārikā. Boston, Masssachusetts: Wisdom Publications.
-* Sinha, Nandalal (ed.) (trans.), 1911, _The Vaiśeṣika sūtras of Kaṇāda, with the commentary of Śāṅkara Miśra and extracts from the gloss of Jayanārāyaṇa. Together with notes from the commentary of Chandrakānta and an introd. by the translator_, Allahabad, Pāṇini Office _Sacred books of the Hindus_: v. 6, pts. 1–4). Reprinted: AMS Press: New York, 1974.
-* Solomon, Esther A., 1976, _Indian Dialectics: Methods of Philosophical Discussion_. 2 vols, Ahmedabad, B. J. Institute of Learning and Research (_Research Series_: 70).
-* Sprung, Mervyn (trans.), 1977, _Lucid exposition of the middle way: the essential chapters from the Prasannapadā of Candrakīrti_ (in collaboration with T.R.V. Murti and U.S. Vyas), London, Routledge and K. Paul.
-* Steinkellner, Ernst, 1966, “Bemerkungen zu Īśvarasenas Lehre vom Grund”, _Wiener Zeitschrift für die Kunde Südasiens_, 10: 73–85.
-* ––– (ed.), 1991, _Studies in the Buddhist Epistemological Tradition_. Proceedings of the Second International Dharmakīrti Conference (Vienna, 11–16 June, 1989). Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
+* –––, 2004b, “Pakṣa, sapakṣa and asapakṣa in Dignāga’s logic”, *Hōrin*, 11: 119–128.
+* Katsura, Shōryū and Steinkellner, Ernst (eds.) 2004 *The role of the example (dṛṣṭānta) in classical Indian logic*. Vienna, Arbeitskreis für Tibetische und Buddhistische Studien (*Wiener Studien zur Tibetologie und Buddhismuskunde*: 58).
+* Keating, Malcolm (ed.), 2020, *Controversial reasoning in Indian philosophy: Major texts and arguments on Arthāpatti*, London: Bloomsbury Academic.
+* Kieffer-Pulz, Petra and Hartmann, Jens-Uwe (eds.), 1997, *Bauddhavidyāsudhākaraḥ: Studies in Honour of Heinz Bechert on the Occasion of His 65th Birthday*, Swisttal-Odendorf, Indica et Tibetica Verlag (*Monographien zu den Sprachen und Literaturen des indo-tibetischen Kulturraumes*: 30).
+* Lamotte, Étienne (ed.) (trans.), 1935, *Saṁdhi-nirmocana-sūtra*: *L’explication des mystères* (*Texte Tibétain édité et traduit*), Louvain, Université de Louvain (*Recueil de travaux publiés par les membres des Conférences d’Histoire et de Philologie*: 2_e_ Série, 343 Fascicule).
+* Lang, Karen, 1996, “*Yamaka*,” in Potter (ed.): ch. 12.
+* –––, 1999, “*Śataka*,” in Potter (ed.): ch. 49.
+* Malvania, Dalsukhbhai (ed.), 1955, *Paṇḍita Durveka Miśra’s Dharmottarapradīpa, being a sub-commentary on Dharmottara’s Nyāyabinduṭīkā, a commentary on Dharmakīrti’s Nyāyabindu*, Patna, Kashiprasad Jayaswal Research Institute, 2nd edition, 1971.
+* Manné, Joy, 1992, “The *Dīgha Nikāya* Debates,” *Buddhist Studies Review*, 9: 117–136.
+* McDermott, James P., 1996, “*Kathāvatthu*,” in Potter (ed.): ch. 8.
+* Much, Michael Torsten (ed.) (trans.), 1991, *Dharmakīrtis Vādanyāya. Teil I. Sanskrit-Text. Teil II. Übersetzung und Anmerkungen*, Vienna: Austrian Academy of Sciences Press, 1991.
+* Muroyama, Shinya (ed.), 2020, *Transmission and transformation of Buddhist logic and epistemology in East Asia*. Vienna, University of Vienna (*Arbeitskreis für Tibetische und Buddhistische Studien*).
+* Musalgaonkar, Gajānan Śastrī (ed.), 1979, *Mīmāṁsādarśana : tatra śrikumārilabhaṭṭa-viracitam mīmāṁsā-ślokavārtikam, tacca śabarabhāṣyeṇa, nyāyaratnākaravyākhyayā tīppaṇṇā* \[sic] *ca saṃvalitam*, Vārāṇasī, Bhāratīya Vidyā Prakāśana.
+* Nolot, Édith (trans.), 1995, *Entretiens de Milinda et Nâgasena*, Paris, Gallimard.
+* Oetke, Claus, 1994, *Studies on the doctrine of trairūpya*, Vienna, Arbeitskreis für Tibetische und Buddhistische Studien (*Wiener Studien zur Tibetologie und Buddhismuskunde*: 33).
+* –––, 1996, “Ancient Indian logic as a theory of non-monotonic reasoning”, *Journal of Indian Philosophy* 24: 447–539.
+* Ono, Motoi, 2020 “On the *Rushi lun* — its original title, the issue of its incompleteness and its authorship”, in Moriyama (ed.): chapter 1.
+* Pandeya, Ram Chandra (ed.), 1989, *ācāryadharmakīteḥ pramāṇavārttikam: granthakartṛviracitayā svopajñavṛttyā ācāryamanorathanandikṛtayā pramāṇavārttikavṛttyā ca samupetam*, Delhi, Motilal Barnasidass.
+* Papin, Jena (trans.), 2006, *Traité fondamental de la médecine Ayurvédique*, 3 vols, Paris: Éditions Almora.
+* Paul, Gregor (ed.), 2015, *Logic in Buddhist Scholasticism: from philosophical, philological, historical and comparative perspectives*. Lumbini, Lumbini International Research Institute (LIRI seminar proceedings series: 7).
+* Pind, Ole Holten (ed.) (trans.), 2015, *Dignāga’s philosophy of language. Pramāṇasamuccayavṛtti V on anyāpoha*. Part 1: text; Part 2: translation and annotation. Vienna: Austrian Academy of Sciences Press.
+* Potter, Karl H., 1996, “*Milindapañho*,” in K. H. Potter (ed.): ch. 22.
+* ––– (ed.), 1996, *Encyclopedia of Indian Philosophies*, v. 7 (*Abhidharma Buddhism 150 A. D.*), Delhi: Motilal Banarsidass.
+* ––– (ed.), 1999, *Encyclopedia of Indian Philosophies*, v. 8 (*Buddhist Philosophy from 100 to 350 A. D.*), Delhi: Motilal Banarsidass.
+* Potter, Karl H., Lambert Schmithausen, and Ronald Davidson, 1999, “*Yoga-ācāra-bhūmi-śāstra* (Asaṅga)” in Potter (ed.): ch. 166.
+* Powers, C. John (trans.), 1993, *Hermeneutics and Tradition in the Saṃdhinirmocanana-sūtra*, Leiden: E. J. Brill (*Buddhist tradition series*: v. 53).
+* Preisendanz, Karin, 2009, “Logic, debate and epistemology in ancient Indian medical science — an investigation into the history and historiography of Indian philosophy”, *Indian Journal of history of science*, 44: 261–312.
+* –––, 2010, “Reasoning as a science, its role and early dharma literature, and the emergence of the term *nyāya*”, in Gillon (ed.): 27–66.
+* Rahula, Walpola (trans.), 1971, *Le compendium de la super-doctrine (philosophie) (Abhidharmasamuccaya) d’Asaṅga*, Paris, École française d’Extrême-Orient.
+* Randle, Herbert Niel, 1930, *Indian logic in the early schools. A study of the Nyāyadarśana in its relation to the early logic of other schools*, Oxford: Oxford University Press.
+* Rau, Wilhelm (ed.), 1977, Bhartṛharis *Vākyapadīya*: *Die Mūlakārikās nach den Handschriften herausgegeben und mit einem Pāda-Index versehen*, Wiesbaden, Steiner (*Abhandlungen für die Kunde des Morgenlandes*: 42, 4).
+* ––– (trans.), 1988, Bhartṛharis *Vākyapadīya*: *vollständiger Wortindex zu den mūlakārikās*, Mainz/Stuttgart, Steiner, Akademie der Wissenschaften und der Literature.
+* Rhys Davids and Caroline Augusta Foley (ed.), 1911, *Yamaka*, being the sixth book of the Abhidhammapiṭaka, Oxford: Oxford University Press, *Pali Text Society*: v. 1, 1911; v. 2, 1913.
+* Rhys Davids, Thomas William (trans.), 1890, *The questions of King Milinda*, London: Pali Text Society (*Sacred books of the East*: v. 35–36). Reprinted: Dover: New York, 1963.
+* Sharma, Ram Karan and Dash, Bhagawam (eds.)(trans.), 1976, *Agniveśa’s Caraka saṃhita: text with English translation and critical exposition based on Cakrapaṇi Datta’s Ayurveda dīpika*, Vārāṇasī, Chowkhamba Sanskrit Series Office (*Chowkhamba Sanskrit Studies*: 94)
+* Shastri, Dvārikādasa (ed.), 1972, *Vādanyāyaprakaraṇam ācāryaśantarakṣitakṛtavipañcitārthavyākhyāyutam evaṃ ācāryaprabhācandrakṛtavyākhyānāthā saṃbandhaparīkṣā*, Vārāṇasī, Bauddhabhāratī.
+* ––– (ed.), 1983, *Āryanāgārjunīyam Madhyamakaśāstram: Candrakīrtteḥ Prasannapadākhyavṛttyā samvalitam*, Vārāṇasī, Bauddhabhāratī.
+* Shcherbatskoï, Fedor Ippolitovich (Stcherbatsky, F. Th.), 1930, *Buddhist logic*, 2 vols, Saint Petersburg (formerly, Leningrad), Academy of Sciences of the U. S. S. R. (*Bibliotheca Buddhica*: v. 26). Reprinted: Dover: New York, 1962.
+* Siderits, Mark and Katsura, Shōryū (trans.), 2013, *Nāgārjuna’s Middle Way*. Mūlamadhyamakakārikā. Boston, Masssachusetts: Wisdom Publications.
+* Sinha, Nandalal (ed.) (trans.), 1911, *The Vaiśeṣika sūtras of Kaṇāda, with the commentary of Śāṅkara Miśra and extracts from the gloss of Jayanārāyaṇa. Together with notes from the commentary of Chandrakānta and an introd. by the translator*, Allahabad, Pāṇini Office *Sacred books of the Hindus*: v. 6, pts. 1–4). Reprinted: AMS Press: New York, 1974.
+* Solomon, Esther A., 1976, *Indian Dialectics: Methods of Philosophical Discussion*. 2 vols, Ahmedabad, B. J. Institute of Learning and Research (*Research Series*: 70).
+* Sprung, Mervyn (trans.), 1977, *Lucid exposition of the middle way: the essential chapters from the Prasannapadā of Candrakīrti* (in collaboration with T.R.V. Murti and U.S. Vyas), London, Routledge and K. Paul.
+* Steinkellner, Ernst, 1966, “Bemerkungen zu Īśvarasenas Lehre vom Grund”, *Wiener Zeitschrift für die Kunde Südasiens*, 10: 73–85.
+* ––– (ed.), 1991, *Studies in the Buddhist Epistemological Tradition*. Proceedings of the Second International Dharmakīrti Conference (Vienna, 11–16 June, 1989). Vienna: Verlag der Österreichischen Akademie der Wissenschaften.
 * –––, 1993, “Buddhist logic: the search for certainty”, in Yoshinori 1993: 171–187.
-* –––, 1997, “Kumārila, Īśvarasena, Dharmakīrti in dialogue. A new interpretation of Pramāṇavārttika I 33”, in Kieffer-Pulz _et al._ 1997: 625–646.
-* ––– (ed.), 2007, _Dharmakīrti’s Pramāṇaviniścaya, Chapters 1 and 2_, Beijing/Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press.
+* –––, 1997, “Kumārila, Īśvarasena, Dharmakīrti in dialogue. A new interpretation of Pramāṇavārttika I 33”, in Kieffer-Pulz *et al.* 1997: 625–646.
+* ––– (ed.), 2007, *Dharmakīrti’s Pramāṇaviniścaya, Chapters 1 and 2*, Beijing/Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press.
 * –––, 2015, “On Dharmakīrti’s proposal to solve the induction problem”, in Paul (ed.): 169–185.
-* ––– (ed.), 2016, _Dharmakīrti’s Hetubindu, on the basis of preparatory work by Helmut Krasser, with a transliteration of the Gilgit fragment by Klaus Wille_. Beijing/Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press.
-* –––, 2017, _Early Indian Epistemology and Logic: Fragments from Jinendrabuddhi’s Pramāṇasamuccayaṭīkā 1 and 2_. Tokyo: International Institute for Buddhist Studies.
-* –––, 2022, _A Splash of the Logical Reason: Dharmakı̄rti’s Hetubindu Translated_, Vienna: Austrian Academy of Sciences Press.
-* Subramania Iyer, K. A. (trans.), 1965, _The Vākyapadīya of Bhartṛhari with the Vṛtti: chapter I, English translation_, Pune, Deccan College (_Deccan College Building Centenary and Silver Jubilee Series_: v. 26).
-* ––– (trans.), 1971, _The Vākyapadīya of Bhartṛhari, chapter 3, part I: English translation_, Pune, Deccan College (_Deccan College Building Centenary and Silver Jubilee Series_: v. 71).
-* ––– (trans.), 1974, _Vākyapadīya of Bhartṛhari with the commentary of Helārāja, kāṇḍa III, part II; English translation with exegetical notes_, Delhi, Motilal Banarsidass.
-* ––– (trans.), 1977, _Vākyapadīya of Bhartṛhari, kāṇḍa II; English translation with exegetical notes_, Delhi, Motilal Banarsidass.
-* Taber, John, 2004, “Is Indian logic nonmonotonic?”, _Philosophy East and West_, 54: 143–170.
-* Tachikawa, Musashi, 1971, “A sixth-century manual of Indian logic. A translation of the _Nyȳapraveśa_”, _Journal of Indian Philosophy_, 1: 111–145.
-* Taranatha and Amarendramohan (eds), 1936, _Nyāya-darśanam with Vātsyāyana’s Bhāṣya, Uddyotakara’s Vārttika, Vācaspati Miśra’s Tātparyaṭīkā and Viśvanātha’s Vṛtti_, Delhi, Munshiram Mahoharlal Publishers Limited, 1985 (reprint).
-* Tatia, Nathamal (ed.), 1976, _Abhidharmasamuccaya-bhāṣyam_, Patna, Kashi Prasad Jayaswal Institute (_Tibetan Sanskrit Works Series_: 17), 2nd edition, 2005.
-* Tillemans, Tom J. F. (trans.), 2000, _Dharmakīrti’s Pramāṇa-vārttaka: An annotated translation of the fourth chapter (parārthānumāna)_, Vienna, Verlag der Österreichischen Akademie der Wissenschaften (_Sitzungsberrichte philosophisch-historische Klasse_: 675) (_Veröffentlichungen der Kommission für Sprachen und Kulturen Südasiens_: 32).
-* Todeschini, Alberto, 2011, _Debating Buddhists: The Abhidharmasamuccaya on debate and argumentation_, diss., University of Virginia.
-* Trenckner, Vilheim (ed.), 1880, _The Milindapañho with Milinda-ṭīkā_, London, Pali Text Society, indexed by C. J. Rylands and Caroline A F Rhys Davids, re-edited by Padmanabh S. Jaini 1961. Reprinted: 1986.
-* Tucci, Giuseppe, 1929, _Pre-Dinnāga Texts on Logic from Chinese Sources_, Baroda, Oriental Institute (_Gaekwad’s Oriental Series_: 49).
-* ––– (trans.), 1930, _The Nyāyamukha of Dignāga_: _The Oldest Buddhist Test on Logic_, Heidelberg, Otto Harrasowitch (_Materialen sur Kunde des Buddhismus_: 15).
+* ––– (ed.), 2016, *Dharmakīrti’s Hetubindu, on the basis of preparatory work by Helmut Krasser, with a transliteration of the Gilgit fragment by Klaus Wille*. Beijing/Vienna: China Tibetology Publishing House/Austrian Academy of Sciences Press.
+* –––, 2017, *Early Indian Epistemology and Logic: Fragments from Jinendrabuddhi’s Pramāṇasamuccayaṭīkā 1 and 2*. Tokyo: International Institute for Buddhist Studies.
+* –––, 2022, *A Splash of the Logical Reason: Dharmakı̄rti’s Hetubindu Translated*, Vienna: Austrian Academy of Sciences Press.
+* Subramania Iyer, K. A. (trans.), 1965, *The Vākyapadīya of Bhartṛhari with the Vṛtti: chapter I, English translation*, Pune, Deccan College (*Deccan College Building Centenary and Silver Jubilee Series*: v. 26).
+* ––– (trans.), 1971, *The Vākyapadīya of Bhartṛhari, chapter 3, part I: English translation*, Pune, Deccan College (*Deccan College Building Centenary and Silver Jubilee Series*: v. 71).
+* ––– (trans.), 1974, *Vākyapadīya of Bhartṛhari with the commentary of Helārāja, kāṇḍa III, part II; English translation with exegetical notes*, Delhi, Motilal Banarsidass.
+* ––– (trans.), 1977, *Vākyapadīya of Bhartṛhari, kāṇḍa II; English translation with exegetical notes*, Delhi, Motilal Banarsidass.
+* Taber, John, 2004, “Is Indian logic nonmonotonic?”, *Philosophy East and West*, 54: 143–170.
+* Tachikawa, Musashi, 1971, “A sixth-century manual of Indian logic. A translation of the *Nyȳapraveśa*”, *Journal of Indian Philosophy*, 1: 111–145.
+* Taranatha and Amarendramohan (eds), 1936, *Nyāya-darśanam with Vātsyāyana’s Bhāṣya, Uddyotakara’s Vārttika, Vācaspati Miśra’s Tātparyaṭīkā and Viśvanātha’s Vṛtti*, Delhi, Munshiram Mahoharlal Publishers Limited, 1985 (reprint).
+* Tatia, Nathamal (ed.), 1976, *Abhidharmasamuccaya-bhāṣyam*, Patna, Kashi Prasad Jayaswal Institute (*Tibetan Sanskrit Works Series*: 17), 2nd edition, 2005.
+* Tillemans, Tom J. F. (trans.), 2000, *Dharmakīrti’s Pramāṇa-vārttaka: An annotated translation of the fourth chapter (parārthānumāna)*, Vienna, Verlag der Österreichischen Akademie der Wissenschaften (*Sitzungsberrichte philosophisch-historische Klasse*: 675) (*Veröffentlichungen der Kommission für Sprachen und Kulturen Südasiens*: 32).
+* Todeschini, Alberto, 2011, *Debating Buddhists: The Abhidharmasamuccaya on debate and argumentation*, diss., University of Virginia.
+* Trenckner, Vilheim (ed.), 1880, *The Milindapañho with Milinda-ṭīkā*, London, Pali Text Society, indexed by C. J. Rylands and Caroline A F Rhys Davids, re-edited by Padmanabh S. Jaini 1961. Reprinted: 1986.
+* Tucci, Giuseppe, 1929, *Pre-Dinnāga Texts on Logic from Chinese Sources*, Baroda, Oriental Institute (*Gaekwad’s Oriental Series*: 49).
+* ––– (trans.), 1930, *The Nyāyamukha of Dignāga*: *The Oldest Buddhist Test on Logic*, Heidelberg, Otto Harrasowitch (*Materialen sur Kunde des Buddhismus*: 15).
 * Uno, Tomoyuki 2009 On the Theory of Logic in the Niryukti Literature. 14th World Sanskrit Congress, Kyoto, Japan.
-* Wayman, Alex (ed.) (trans.), 1999, _A millennium of Buddhist logic_. Delhi, Motilal Banarsidass.
-* von Hinüber, Otto, 1996, _Handbook of Pāli literature_, Berlin: Walter deGruyter.
-* Watanabe, Fumimaro, 1983, _Philosophy and its development in the Nikāyas and Abhidhamma_, Delhi: Motilal Banarsidass.
-* Westerhof, Jan (trans.), 2010, _The dispeller of disputes: Nagarjuna’s Vigrahavyavartani_, Oxford, Oxford University Press.
-* –––, 2018, _Crushing the categories_ (_Vaidalyaprakaraṇa_), Somerville, Massachusetts, Wisdom Books.
-* Yaita, Hideomi, 2005, _Three Sanskrit Texts from the Buddhist Pramāṇa-Tradition – The Hetuvidyā Section in the Yogācārabhūmi, the Dharmottaraṭippanaka, and the Tarkarahasya_, Naritasan: Naritasan Institute for Buddhist Studies.
-* Yoshimizu, Chizuko, 2010, “The logic of the _Saṃdhinirmocanasūtra_: establishing right reasoning based on similarity (_sārūpya_) and dissimilarity (_vairūpya_)”, in Gillon (ed.): 139–166.
-* Yoshinori, Takeuchi (ed.), 1993, _Buddhist Spirituality: Indian, Southeast Asian, Tibetan, and Early Chinese_, New York: Crossroad.
+* Wayman, Alex (ed.) (trans.), 1999, *A millennium of Buddhist logic*. Delhi, Motilal Banarsidass.
+* von Hinüber, Otto, 1996, *Handbook of Pāli literature*, Berlin: Walter deGruyter.
+* Watanabe, Fumimaro, 1983, *Philosophy and its development in the Nikāyas and Abhidhamma*, Delhi: Motilal Banarsidass.
+* Westerhof, Jan (trans.), 2010, *The dispeller of disputes: Nagarjuna’s Vigrahavyavartani*, Oxford, Oxford University Press.
+* –––, 2018, *Crushing the categories* (*Vaidalyaprakaraṇa*), Somerville, Massachusetts, Wisdom Books.
+* Yaita, Hideomi, 2005, *Three Sanskrit Texts from the Buddhist Pramāṇa-Tradition – The Hetuvidyā Section in the Yogācārabhūmi, the Dharmottaraṭippanaka, and the Tarkarahasya*, Naritasan: Naritasan Institute for Buddhist Studies.
+* Yoshimizu, Chizuko, 2010, “The logic of the *Saṃdhinirmocanasūtra*: establishing right reasoning based on similarity (*sārūpya*) and dissimilarity (*vairūpya*)”, in Gillon (ed.): 139–166.
+* Yoshinori, Takeuchi (ed.), 1993, *Buddhist Spirituality: Indian, Southeast Asian, Tibetan, and Early Chinese*, New York: Crossroad.
 
 ## Academic Tools
 
@@ -561,7 +561,7 @@ Dignāga 的最后一项贡献可以在他的《Pramāṇa-samuccaya》的第六
 
 ## Other Internet Resources
 
-* [Bibliography of Indian Philosophies](https://web.archive.org/web/20200102063233/http://faculty.washington.edu/kpotter/) by Karl Potter, written for the _Encyclopedia of Indian Philosophies_, maintained by Christine Keyt.
+* [Bibliography of Indian Philosophies](https://web.archive.org/web/20200102063233/http://faculty.washington.edu/kpotter/) by Karl Potter, written for the *Encyclopedia of Indian Philosophies*, maintained by Christine Keyt.
 * Please contact the author with any suggestions about other sites.
 
 ## Related Entries
@@ -573,4 +573,4 @@ Dignāga 的最后一项贡献可以在他的《Pramāṇa-samuccaya》的第六
 I am grateful to Shoryu Katsura for comments on two previous versions of this entry. I also thank Yasutaka Muroya for several important corrections and suggestions to this version and the preceding one.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Brendan Gillon](http://www.mcgill.ca/linguistics/people/faculty/gillon/) <[_brendan.gillon@mcgill.ca_](mailto:brendan%2egillon%40mcgill%2eca)>
+[Brendan Gillon](http://www.mcgill.ca/linguistics/people/faculty/gillon/) <[*brendan.gillon@mcgill.ca*](mailto:brendan%2egillon%40mcgill%2eca)>

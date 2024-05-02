@@ -1,8 +1,8 @@
 # 闪-托夫·伊本·法拉奎拉 Falaquera, Shem Tov Ibn (Steve Harvey)
+
 *首次发表于 2007 年 7 月 2 日星期一；实质性修订于 2020 年 8 月 28 日星期五*
 
 沙姆-托夫·本·约瑟夫·伊本·法拉奎拉（约公元 1225 年至 1295 年），曾是一位诗人和犹太哲学家，通常在犹太哲学史中被忽视，即使是该领域的学生也不太熟悉；然而，很少有中世纪犹太哲学家能与他在古希腊、中世纪伊斯兰和犹太哲学家的著作方面的学识和知识相匹敌。法拉奎拉的主要目标似乎是激发并教育同教信仰者对哲学和科学的兴趣，既是为了本身的价值，也是为了正确理解经文。在这样做的过程中，他对犹太哲学史作出了重要贡献。
-
 
 ---
 
@@ -110,7 +110,6 @@ Below is a list of editions and translations of Falaquera’s works. References 
   
 * *Shelemut ha-Ma‘asim* (The Perfection of Actions). Ed. Raphael Jospe, *Torah and Sophia,* 417–458.
   
-
 ### Secondary Sources
 
 * Chiesa, Bruno, 1986, “Note su al-Fârâbî, Averroe’ e Ibn Bâgga (Avempace) in traduzione ebraica.” *Henoch*, 8: 79–86.

@@ -1,14 +1,12 @@
 # 露丝·巴肯·马库斯 Marcus, Ruth Barcan (Roberta Ballarin)
 
-_首次发表于2024年3月5日_
+*首次发表于2024年3月5日*
 
 露丝·巴肯·马库斯（1921-2012）是二十世纪下半叶最有影响力的哲学家之一。她在 1946 年的第一篇发表作品中首次构建了量化模态逻辑的形式系统\[1]。她在量化模态逻辑方面的开创性工作对于本质逻辑的初步发展起到了至关重要的作用。它还为模态形而上学的产生和发展奠定了基础，这是一个富有成果的研究领域，她在其中也做出了重要的哲学贡献。马库斯的有影响力的哲学工作超越了逻辑和形而上学。她在认识论方面发表了重要的著作，涉及信念和理性，以及伦理学方面的道德困境和义务逻辑，并对斯宾诺莎和罗素的学术研究做出了贡献。她的哲学观点——关于语言、本质主义、信念和道德困境——深受自然主义的影响，避免了理性主义的理想化。
 
 巴肯·马库斯是 20 世纪 50 年代至上世纪末一些主要而激烈的哲学辩论中积极参与和权威的参与者。在五六十年代，她与奎因形成了强烈的对立，为模态逻辑的合法性以及模态形而上学的合法性做出了重要贡献。她的工作桥接了两个非常不同的哲学时代，并为七十年代的语言哲学和形而上学的哲学革命铺平了道路。作为一位罕见的女性逻辑学家和哲学家，她也是一位开创性的学者，积极参与职业生涯，决心改革和改进其机构。
 
 本条目着重介绍 露丝·巴肯·马库斯在形式逻辑、形而上学、认识论和伦理学方面的重要贡献。它只涉及她所涉及的争议，只要它们与她的哲学发展相关。在本条目中，露丝·巴肯·马库斯有时被称为 Barcan，有时被称为马库斯，有时被称为 巴肯·马库斯，主要根据时间背景，以一种自然而然的方式，不会引起混淆。
-
- 
 
 ***
 
@@ -42,7 +40,7 @@ _首次发表于2024年3月5日_
 
 Barcan 在元语言中使用希腊字母：大写希腊字母表示良构公式（wff's），小写希腊字母表示（个体、命题和函数）变量。公理被给定为模式，从而消除了 Lewis 的统一替换规则的需要。否定、合取、存在量词和可能性运算符（钻石◊）被视为原始的。析取、物质蕴涵（条件）、物质等价（双条件）、全称量词和必然性运算符（方框□）在它们的术语中被定义。（A⇒B）被定义为∼◊(A∧∼B)，它等价于□(A→B)。
 
-_Barcan 的 1946 年量化 S2 系统_
+*Barcan 的 1946 年量化 S2 系统*
 
 *
 * 公理模式\*
@@ -191,7 +189,7 @@ Barcan 不将身份视为原始的，因此 2.6 和 2.18 都不是公理。2.6 �
 
 证明中有趣的部分是证明从左到右的前两个步骤，我们从β1 和β2 实际上是无法区分的陈述转移到它们在实际属性方面是必然无法区分的（如果属性的域是相对于世界的）。在 S22 中，只有材料条件成立。巴肯对这个结果的证明不可避免地让我们想起克里普克在《身份与必然性》（1971）开头几页中对身份的必然性的证明。巴肯和克里普克的证明具有类似的结构。我们从 x 和 y 之间的（某种形式的）身份暗示它们是无法区分的开始，鉴于 x 的一个属性是在某种意义上必然与 x 相同，我们得出结论 y 也具有该属性。但也存在差异。克里普克的起点是原始的身份，它暗示了无法区分性（通过莱布尼兹定律），但没有用它的术语来定义。因此，克里普克推导出了身份的无限制必然性。巴肯的起点是定义为无法区分的材料身份，没有属性区分这两个对象，由此推导出没有属性可以区分它们。此外，克里普克的证明根本不是以属性为基础，而是以必然性陈述为基础。巴肯的证明是以属性为基础的，尽管是作为从公式派生的抽象的指称（关于这一点，请参见 Wiggins 1976a 和 1976b）。此外，就巴肯的结果而言，如果我仍然不是真正的身份，即必然无法区分不足以成为身份，那么对象可能确实仍然是两个。
 
-接下来，巴肯证明了以下结果，这些结果仅在更强的系统 S42 中成立：身份的严格等价性和身份的必然性（定理 2.32 _），以及身份的严格等价性和材料身份（定理 2.33_）。
+接下来，巴肯证明了以下结果，这些结果仅在更强的系统 S42 中成立：身份的严格等价性和身份的必然性（定理 2.32 *），以及身份的严格等价性和材料身份（定理 2.33*）。
 
 关于同一性的严格等价性和同一性的必然性，证明使用了 S4 的特征公理。鉴于在 S4 中□A 和□□A 的严格等价性，我们得出物质同一性的必然性严格等于物质同一性的必然性 ⊢□□(β1Imβ2)⇔□(β1Imβ2)。由于物质同一性的必然性严格等于同一性（定理 2.23）（β1Iβ2）可以替换上述等式中的□(β1Imβ2)，得到：
 
@@ -594,156 +592,156 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 #### Published as Ruth C. Barcan
 
-* 1946a, “A Functional Calculus of First Order Based on Strict Implication”, _Journal of Symbolic Logic_, 11(1): 1–16. doi:10.2307/2269159
-* 1946b, “The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication”, _Journal of Symbolic Logic_, 11(4): 115–118. doi:10.2307/2268309
-* 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, _Journal of Symbolic Logic_, 12(1): 12–15. doi:10.2307/2267171
-* 1948, “Review of ‘Modality and Description’, by Arthur Francis Smullyan \[[Smullyan 1948](https://plato.stanford.edu/entries/ruth-barcan-marcus/#smullyan48)]”, _Journal of Symbolic Logic_, 13(3): 149–150. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 36–38. doi:10.2307/2267830
+* 1946a, “A Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(1): 1–16. doi:10.2307/2269159
+* 1946b, “The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(4): 115–118. doi:10.2307/2268309
+* 1947, “The Identity of Individuals in a Strict Functional Calculus of Second Order”, *Journal of Symbolic Logic*, 12(1): 12–15. doi:10.2307/2267171
+* 1948, “Review of ‘Modality and Description’, by Arthur Francis Smullyan \[[Smullyan 1948](https://plato.stanford.edu/entries/ruth-barcan-marcus/#smullyan48)]”, *Journal of Symbolic Logic*, 13(3): 149–150. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 36–38. doi:10.2307/2267830
 
 #### Published as 露丝·巴肯·马库斯
 
-* 1950, “The Elimination of Contextually Defined Predicates in a Modal System”, _Journal of Symbolic Logic_, 15(2): 92. doi:10.2307/2266968
-* 1953, “Strict Implication, Deducibility and the Deduction Theorem”, _Journal of Symbolic Logic_, 18(3): 234–236. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 71–73. doi:10.2307/2267407
-* 1960, “Extensionality”, _Mind_, 69(273): 55–62. doi:10.1093/mind/LXIX.273.55
-* 1961, “Modalities and Intensional Languages”, _Synthese_, 13(4): 303–322. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 3–23. doi:10.1007/BF00486629
-* 1962a, “Discussion on the Paper of Ruth B.马库斯”, with W. V. Quine, Saul A. Kripke, J. McCarty, and Dagfinn Føllesdal, _Synthese_, 14(2–3): 132–143. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 24–35. doi:10.1007/BF00881990
-* 1962b, “Interpreting Quantification”, _Inquiry_, 5(1–4): 252–259. doi:10.1080/00201746208601353
-* 1963a, “Classes and Attributes in Extended Modal Systems”, _Proceedings of a Colloquium on Modal and Many-Valued Logics, Helsinki, 23–26 August, 1962_, in _Acta Philosophica Fennica_, 16: 123–136.
-* 1963b, “Reply to Dr. Lambert”, _Inquiry_, 6(1–4): 325–327. doi:10.1080/00201746308601386
-* 1965, “Review of _Aristotle’s Modal Syllogisms_, by Storrs McCall”, _The Philosophical Review_, 74(4): 539–541. doi:10.2307/2183133
-* 1966, “Iterated Deontic Modalities”, _Mind_, 75(300): 580–582. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 39–43. doi:10.1093/mind/LXXV.300.580
-* 1967, “Essentialism in Modal Logic”, _Noûs_, 1(1): 91–96. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 45–51. doi:10.2307/2214714
-* 1968, “Modal Logic”, in _Contemporary Philosophy: Logic and Foundations of Mathematics_, Vol 1, Raymond Klibansky (ed.), Firenze: La Nuova Italia, pp. 87–101.
-* 1971, “Essential Attribution”, _The Journal of Philosophy_, 68(7): 187–202. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 53–70. doi:10.2307/2024901
-* 1972, “Quantification and Ontology”, _Noûs_, 6(3): 240–250. doi:10.2307/2214772
-* 1974, “Classes, Collections, and Individuals”, _American Philosophical Quarterly_, 11(3): 227–232. Reprinted with revisions as “Classes, Collections, Assortments, and Individuals”, in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 89–100.
+* 1950, “The Elimination of Contextually Defined Predicates in a Modal System”, *Journal of Symbolic Logic*, 15(2): 92. doi:10.2307/2266968
+* 1953, “Strict Implication, Deducibility and the Deduction Theorem”, *Journal of Symbolic Logic*, 18(3): 234–236. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 71–73. doi:10.2307/2267407
+* 1960, “Extensionality”, *Mind*, 69(273): 55–62. doi:10.1093/mind/LXIX.273.55
+* 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 3–23. doi:10.1007/BF00486629
+* 1962a, “Discussion on the Paper of Ruth B.马库斯”, with W. V. Quine, Saul A. Kripke, J. McCarty, and Dagfinn Føllesdal, *Synthese*, 14(2–3): 132–143. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 24–35. doi:10.1007/BF00881990
+* 1962b, “Interpreting Quantification”, *Inquiry*, 5(1–4): 252–259. doi:10.1080/00201746208601353
+* 1963a, “Classes and Attributes in Extended Modal Systems”, *Proceedings of a Colloquium on Modal and Many-Valued Logics, Helsinki, 23–26 August, 1962*, in *Acta Philosophica Fennica*, 16: 123–136.
+* 1963b, “Reply to Dr. Lambert”, *Inquiry*, 6(1–4): 325–327. doi:10.1080/00201746308601386
+* 1965, “Review of *Aristotle’s Modal Syllogisms*, by Storrs McCall”, *The Philosophical Review*, 74(4): 539–541. doi:10.2307/2183133
+* 1966, “Iterated Deontic Modalities”, *Mind*, 75(300): 580–582. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 39–43. doi:10.1093/mind/LXXV.300.580
+* 1967, “Essentialism in Modal Logic”, *Noûs*, 1(1): 91–96. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 45–51. doi:10.2307/2214714
+* 1968, “Modal Logic”, in *Contemporary Philosophy: Logic and Foundations of Mathematics*, Vol 1, Raymond Klibansky (ed.), Firenze: La Nuova Italia, pp. 87–101.
+* 1971, “Essential Attribution”, *The Journal of Philosophy*, 68(7): 187–202. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 53–70. doi:10.2307/2024901
+* 1972, “Quantification and Ontology”, *Noûs*, 6(3): 240–250. doi:10.2307/2214772
+* 1974, “Classes, Collections, and Individuals”, *American Philosophical Quarterly*, 11(3): 227–232. Reprinted with revisions as “Classes, Collections, Assortments, and Individuals”, in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 89–100.
 * 1975, “Does the Principle of Substitutivity Rest on a Mistake?”, in [Anderson,马库斯, and Martin 1975](https://plato.stanford.edu/entries/ruth-barcan-marcus/#AMM75): 31–38. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 101–109.
-* 1975/76, “Dispensing with _Possibilia_”, _Proceedings and Addresses of the American Philosophical Association_, 49: 39–51. Reprinted in Richard H. Hull (ed.), _The American Philosophical Association Centennial Series_, 2013: 401–412. doi:10.2307/3129990 doi:10.5840/apapa2013260
-* 1976, “Wiggins on Identity, Necessity, and Physicalism”, in _Philosophy of Logic: Papers and Discussions_, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 132–146.
-* 1978a, “Nominalism and the Substitutional Quantifier”, _Monist_, 61(3): 351–362. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 111–124. doi:10.5840/monist197861331
-* 1978b, “Review of _Names and Descriptions_ by Leonard Linsky”, _The Philosophical Review_, 87(3): 497–504.
-* 1980a, “Hilpinen’s Interpretations of Modal Logic”, in Georg H. von Wright (ed.), _Logic and Philosophy / Logique et Philosophie_, Dordrecht: Springer, pp. 31–36. doi:10.1007/978-94-009-8820-0\_4
-* 1980b, “Moral Dilemmas and Consistency”, _The Journal of Philosophy_, 77(3): 121–136. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 125–141. doi:10.2307/2025665
-* 1981a, “A Proposed Solution to a Puzzle about Belief”, in _The Foundations of Analytic Philosophy_ (Midwest Studies in Philosophy, 6), Peter A. French, Theodore E. Uehling, and Howard K. Wettstein (eds), Minneapolis, MN: University of Minnesota Press, pp. 501–510.
-* 1981b, “Modal Logic, Modal Semantics and Their Applications”, in _Tome 1 Philosophie du Langage, Logique Philosophique / Volume 1 Philosophy of Language, Philosophical Logic_, Guttorm Fløistad and G. H. Von Wright (eds), Dordrecht: Springer Netherlands, 279–298. doi:10.1007/978-94-009-8356-4\_11
-* 1983a, “Bar-On on Spinoza’s Ontological Proof”, in _Spinoza: His Thought and Work_, Nathan Rotenstreich and Norma Schneider (eds), Jerusalem: The Israel Academy of Sciences and Humanities, pp. 110–119.
-* 1983b, “Rationality and Believing the Impossible”, _The Journal of Philosophy_, 80(6): 321–338. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93) 143–161. doi:10.2307/2026334
-* 1985, “Is There Irrationality in the Existence of a Plurality of Philosophical Theories”, _Dialectica_, 39(4): 321–328. doi:10.1111/j.1746-8361.1985.tb01600.x
-* 1986a, “On Some Post-1920s Views of Russell on Particularity, Identity, and Individuation”, In Jules Vuillemin (ed.), _Mérites et Limites des Méthodes Logiques en Philosophie_, Paris: J. Vrin. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 177–188.
-* 1986b, “Possibilia and Possible Worlds”, _Grazer Philosophische Studien_, 25/26: 107–133. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 189–213. doi:10.5840/gps1985/8625/265
-* 1986c, “Spinoza and the Ontological Proof”, in _Human Nature and Natural Knowledge_ (Boston Studies in the Philosophy of Science 89), Alan Donagan, Anthony N. Perovich, and Michael V. Wedin (eds), Dordrecht: Springer Netherlands, 153–166. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 163–176. doi:10.1007/978-94-009-5349-9\8
-* 1988a, “F.B. Fitch 1908–1987”, _Proceedings and Addresses of the American Philosophical Association_, 61(3): 551–553.
-* 1988b, “Letter to the Editor”, _Proceedings and Addresses of the American Philosophical Association_, 61(5): 867–868.
-* 1989, “Introduction”, in _Themes from Kaplan_, Joseph Almog, John Perry, and Howard K. Wettstein (eds), Oxford: Oxford University Press: pp. 3–4.
-* 1990a, “A Backward Look at Quine’s Animadversions on Modalities”, in _Perspectives on Quine_, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, pp. 230–243. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 215–232.
-* 1990b, “Max Black (1909–1988)”, _Dialectica_, 44(1–2): 5–8. doi:10.1111/j.1746-8361.1990.tb01647.x
-* 1990c, “Some Revisionary Proposals about Belief and Believing”, _Philosophy and Phenomenological Research_, 50(supplement): 133–153. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 233–255. doi:10.2307/2108036
-* 1991, “Barcan Formula”, in _Handbook of Metaphysics and Ontology_, Hans Burkhardt and Barry Smith (eds), Munich: Philosophia Verlag, pp. 76–77.
-* 1993, _Modalities: Philosophical Essays_, New York: Oxford University Press. doi:10.1093/0195096576.001.0001
-* 1995, “The Anti-Naturalism of Some Language Centered Accounts of Belief”, _Dialectica_, 49(2–4): 113–130. doi:10.1111/j.1746-8361.1995.tb00157.x
-* 1996, “More about Moral Dilemmas”, in _Moral Dilemmas and Moral Theory_, Homer E. Mason (ed.), Oxford: Oxford University Press, pp. 23–35. doi:10.1093/oso/9780195096811.003.0003
-* 1997, “Are Possible, Non Actual Objects Real?”, _Revue Internationale de Philosophie_, 51(200/2): 251–257.
-* 2005, “露丝·巴肯·马库斯”, in _Formal Philosophy_, Vincent F. Hendricks and John Symons (eds), USA: Automatic Press, 131–140. A short interview with马库斯.
-* 2010, “A Philosopher’s Calling” (Dewey lecture, Eastern 2009), _Proceedings and Addresses of the American Philosophical Association_, 84(2): 75–92. Reprinted in [Frauchiger 2015](https://plato.stanford.edu/entries/ruth-barcan-marcus/#frauchiger15): 17–37.
-* 2011, “C. I. Lewis on Intensional Predicate Logic: A Letter Dated May 11, 1960”, _History and Philosophy of Logic_, 32(2): 103–106. doi:10.1080/01445340.2010.522368
+* 1975/76, “Dispensing with *Possibilia*”, *Proceedings and Addresses of the American Philosophical Association*, 49: 39–51. Reprinted in Richard H. Hull (ed.), *The American Philosophical Association Centennial Series*, 2013: 401–412. doi:10.2307/3129990 doi:10.5840/apapa2013260
+* 1976, “Wiggins on Identity, Necessity, and Physicalism”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 132–146.
+* 1978a, “Nominalism and the Substitutional Quantifier”, *Monist*, 61(3): 351–362. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 111–124. doi:10.5840/monist197861331
+* 1978b, “Review of *Names and Descriptions* by Leonard Linsky”, *The Philosophical Review*, 87(3): 497–504.
+* 1980a, “Hilpinen’s Interpretations of Modal Logic”, in Georg H. von Wright (ed.), *Logic and Philosophy / Logique et Philosophie*, Dordrecht: Springer, pp. 31–36. doi:10.1007/978-94-009-8820-0\_4
+* 1980b, “Moral Dilemmas and Consistency”, *The Journal of Philosophy*, 77(3): 121–136. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 125–141. doi:10.2307/2025665
+* 1981a, “A Proposed Solution to a Puzzle about Belief”, in *The Foundations of Analytic Philosophy* (Midwest Studies in Philosophy, 6), Peter A. French, Theodore E. Uehling, and Howard K. Wettstein (eds), Minneapolis, MN: University of Minnesota Press, pp. 501–510.
+* 1981b, “Modal Logic, Modal Semantics and Their Applications”, in *Tome 1 Philosophie du Langage, Logique Philosophique / Volume 1 Philosophy of Language, Philosophical Logic*, Guttorm Fløistad and G. H. Von Wright (eds), Dordrecht: Springer Netherlands, 279–298. doi:10.1007/978-94-009-8356-4\_11
+* 1983a, “Bar-On on Spinoza’s Ontological Proof”, in *Spinoza: His Thought and Work*, Nathan Rotenstreich and Norma Schneider (eds), Jerusalem: The Israel Academy of Sciences and Humanities, pp. 110–119.
+* 1983b, “Rationality and Believing the Impossible”, *The Journal of Philosophy*, 80(6): 321–338. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93) 143–161. doi:10.2307/2026334
+* 1985, “Is There Irrationality in the Existence of a Plurality of Philosophical Theories”, *Dialectica*, 39(4): 321–328. doi:10.1111/j.1746-8361.1985.tb01600.x
+* 1986a, “On Some Post-1920s Views of Russell on Particularity, Identity, and Individuation”, In Jules Vuillemin (ed.), *Mérites et Limites des Méthodes Logiques en Philosophie*, Paris: J. Vrin. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 177–188.
+* 1986b, “Possibilia and Possible Worlds”, *Grazer Philosophische Studien*, 25/26: 107–133. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 189–213. doi:10.5840/gps1985/8625/265
+* 1986c, “Spinoza and the Ontological Proof”, in *Human Nature and Natural Knowledge* (Boston Studies in the Philosophy of Science 89), Alan Donagan, Anthony N. Perovich, and Michael V. Wedin (eds), Dordrecht: Springer Netherlands, 153–166. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 163–176. doi:10.1007/978-94-009-5349-9\8
+* 1988a, “F.B. Fitch 1908–1987”, *Proceedings and Addresses of the American Philosophical Association*, 61(3): 551–553.
+* 1988b, “Letter to the Editor”, *Proceedings and Addresses of the American Philosophical Association*, 61(5): 867–868.
+* 1989, “Introduction”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard K. Wettstein (eds), Oxford: Oxford University Press: pp. 3–4.
+* 1990a, “A Backward Look at Quine’s Animadversions on Modalities”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, pp. 230–243. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 215–232.
+* 1990b, “Max Black (1909–1988)”, *Dialectica*, 44(1–2): 5–8. doi:10.1111/j.1746-8361.1990.tb01647.x
+* 1990c, “Some Revisionary Proposals about Belief and Believing”, *Philosophy and Phenomenological Research*, 50(supplement): 133–153. Reprinted with revisions in [马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93): 233–255. doi:10.2307/2108036
+* 1991, “Barcan Formula”, in *Handbook of Metaphysics and Ontology*, Hans Burkhardt and Barry Smith (eds), Munich: Philosophia Verlag, pp. 76–77.
+* 1993, *Modalities: Philosophical Essays*, New York: Oxford University Press. doi:10.1093/0195096576.001.0001
+* 1995, “The Anti-Naturalism of Some Language Centered Accounts of Belief”, *Dialectica*, 49(2–4): 113–130. doi:10.1111/j.1746-8361.1995.tb00157.x
+* 1996, “More about Moral Dilemmas”, in *Moral Dilemmas and Moral Theory*, Homer E. Mason (ed.), Oxford: Oxford University Press, pp. 23–35. doi:10.1093/oso/9780195096811.003.0003
+* 1997, “Are Possible, Non Actual Objects Real?”, *Revue Internationale de Philosophie*, 51(200/2): 251–257.
+* 2005, “露丝·巴肯·马库斯”, in *Formal Philosophy*, Vincent F. Hendricks and John Symons (eds), USA: Automatic Press, 131–140. A short interview with马库斯.
+* 2010, “A Philosopher’s Calling” (Dewey lecture, Eastern 2009), *Proceedings and Addresses of the American Philosophical Association*, 84(2): 75–92. Reprinted in [Frauchiger 2015](https://plato.stanford.edu/entries/ruth-barcan-marcus/#frauchiger15): 17–37.
+* 2011, “C. I. Lewis on Intensional Predicate Logic: A Letter Dated May 11, 1960”, *History and Philosophy of Logic*, 32(2): 103–106. doi:10.1080/01445340.2010.522368
 
 #### Coauthored Work
 
-* Anderson, Alan Ross, 露丝·巴肯·马库斯, and Richard M. Martin (eds), 1975, _The Logical Enterprise_, New Haven, CT: Yale University Press. \*马库斯, Ruth B., Bruce Kuklick, and Sacvan Bercovitch, 1979, “Letter on Uninformed Consent”, _Science_, 205(4407, 17 August): 644. doi:10.1126/science.205.4407.644.b \*马库斯, Ruth Barcan, Georg Dorn, and Paul Weingartner (eds), 1986, _Logic, Methodology, and Philosophy of Science, VII: Proceedings of the Seventh International Congress of Logic, Methodology, and Philosophy of Science, Salzburg, 1983_, (Studies in Logic and the Foundations of Mathematics 114), Amsterdam/New York: North-Holland.
+* Anderson, Alan Ross, 露丝·巴肯·马库斯, and Richard M. Martin (eds), 1975, *The Logical Enterprise*, New Haven, CT: Yale University Press. \*马库斯, Ruth B., Bruce Kuklick, and Sacvan Bercovitch, 1979, “Letter on Uninformed Consent”, *Science*, 205(4407, 17 August): 644. doi:10.1126/science.205.4407.644.b \*马库斯, Ruth Barcan, Georg Dorn, and Paul Weingartner (eds), 1986, *Logic, Methodology, and Philosophy of Science, VII: Proceedings of the Seventh International Congress of Logic, Methodology, and Philosophy of Science, Salzburg, 1983*, (Studies in Logic and the Foundations of Mathematics 114), Amsterdam/New York: North-Holland.
 
 #### Festschriften
 
-* Sinnott-Armstrong, Walter, Diana Raffman, and Nicholas Asher (eds), 1995, _Modality, Morality, and Belief: Essays in Honor of 露丝·巴肯·马库斯_, Cambridge/New York: Cambridge University Press.
-* Lauener, Henri (ed.), 1999, _Festschrift zu Ehren von 露丝·巴肯·马库斯_, special issue of _Dialectica_, 53(3/4).
-* Marti, Genoveva (ed.), 2013, “Monographic Section on 露丝·巴肯·马库斯(1921–2012)”, _Theoria: A Revista de Teoría y Fundamentos de la Ciencia_, 28/3(78): 353–436.
-* Frauchiger, Michael (ed.), 2015, _Modalities, Identity, Belief, and Moral Dilemmas: Themes from 巴肯·马库斯_ (Lauener Library of Analytical Philosophy 3), Berlin: De Gruyter. doi:10.1515/9783110429558
+* Sinnott-Armstrong, Walter, Diana Raffman, and Nicholas Asher (eds), 1995, *Modality, Morality, and Belief: Essays in Honor of 露丝·巴肯·马库斯*, Cambridge/New York: Cambridge University Press.
+* Lauener, Henri (ed.), 1999, *Festschrift zu Ehren von 露丝·巴肯·马库斯*, special issue of *Dialectica*, 53(3/4).
+* Marti, Genoveva (ed.), 2013, “Monographic Section on 露丝·巴肯·马库斯(1921–2012)”, *Theoria: A Revista de Teoría y Fundamentos de la Ciencia*, 28/3(78): 353–436.
+* Frauchiger, Michael (ed.), 2015, *Modalities, Identity, Belief, and Moral Dilemmas: Themes from 巴肯·马库斯* (Lauener Library of Analytical Philosophy 3), Berlin: De Gruyter. doi:10.1515/9783110429558
 
 ### Secondary Literature
 
-* Ballarin, Roberta, 2004, “The Interpretation of Necessity and the Necessity of Interpretation”, _Journal of Philosophy_, 101(12): 609–638. doi:10.5840/jphil20041011210
-* –––, 2012, “Quine on Intensional Entities: Modality and Quantification, Truth and Satisfaction”, _Journal of Applied Logic_, 10(3): 238–249. doi:10.1016/j.jal.2012.04.001
-* –––, 2021, “Quine on Modality”, in _The Routledge Handbook of Modality_, Otávio Bueno and Scott A. Shalkowski (eds), London: Routledge, pp. 390–399.
-* Bergmann, Gustav, 1948, “Contextual Definitions in Nonextensional Languages”, _Journal of Symbolic Logic_, 13(3): 140. doi:10.2307/2267815
-* Burgess, John P., 1997, “Quinus Ab Omni Nævo Vindicatus”, in _Meaning and Reference_, Ali A. Kazmi (ed.), _Canadian Journal of Philosophy Supplementary Volume 23_, 25–65. doi:10.1080/00455091.1997.10715961
-* –––, 2014, “On a Derivation of the Necessity of Identity”, _Synthese_, 191(7): 1567–1585. doi:10.1007/s11229-013-0351-8
-* Carnap, Rudolf, 1946, “Modalities and Quantification”, _Journal of Symbolic Logic_, 11(2): 33–64. doi:10.2307/2268610
-* Chellas, Brian Farrell, 1980, _Modal Logic: An Introduction_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511621192
-* Church, Alonzo, 1942, “Review of ‘Whitehead and the Rise of Modern Logic’, by Willard V. Quine“, _Journal of Symbolic Logic_, 7(2): 100–101. doi:10.2307/2266316
-* –––, 1943, “Review of ‘Notes on Existence and Necessity’, by Willard V. Quine \[[Quine 1943](https://plato.stanford.edu/entries/ruth-barcan-marcus/#quine43)]”, _Journal of Symbolic Logic_, 8(2): 45–47. doi:10.2307/2267994
-* Cresswell, Max J., 2001, “露丝·巴肯·马库斯(1921–)”, in _A Companion to Analytic Philosophy_ (Blackwell Companions to Philosophy 20), A. P. Martinich and David Sosa (eds), Oxford/Malden, MA: Blackwell, 357–360. doi:10.1002/9780470998656.ch29
-* Deutsch, Harry, 1994, “Logic for Contigent Beings”, _Journal of Philosophical Research_, 19: 273–329. doi:10.5840/jpr\_1994\_6
-* Donnellan, Keith S., 1970, “Proper Names and Identifying Descriptions”, _Synthese_, 21(3–4): 335–358. doi:10.1007/BF00484804
-* Dunn, J. Michael and Nuel D. Belnap, 1968, “The Substitution Interpretation of the Quantifiers”, _Noûs_, 2(2): 177–185. doi:10.2307/2214704
-* Feys, Robert, 1965, _Modal Logics_ (Collection de Logique Mathématique, Sér. B, 4), Louvain: E. Nauwelaerts.
-* Fine, Kit, 1990, “Quine on Quantifying In”, in _Propositional Attitudes. The Role of Content in Logic, Language, and Mind_ (CSLI Lecture Notes 20), C. Anthony Anderson and Joseph Owens (eds), Stanford, CA: CSLI Publications, pp. 1–25.
-* Fitch, Frederic B., 1949, “The Problem of the Morning Star and the Evening Star”, _Philosophy of Science_, 16(2): 137–141. doi:10.1086/287026
-* –––, 1952, _Symbolic Logic. An Introduction_, New York: The Ronald Press Company.
-* Fitting, Melvin, 2007, “Modal Proof Theory”, in _Handbook of Modal Logic_ (Studies in Logic and Practical Reasoning 3), Patrick Blackburn, Johan van Benthem, and Frank Wolter (eds), Amsterdam/Boston: Elsevier, 85–138. doi:10.1016/S1570-2464(07)80005-X
-* Føllesdal, Dagfinn, 2004, _Referential Opacity and Modal Logic_ (Studies in Philosophy), New York: Routledge. His 1961 PhD thesis as modified in 1963 with an extensive introduction added. doi:10.4324/9780203337295
-* Foot, Philippa, 1983, “Moral Realism and Moral Dilemma”, _The Journal of Philosophy_, 80(7): 379–398. doi:10.2307/2026455
-* Franks, Curtis, 2021, “The Deduction Theorem (Before and After Herbrand)”, _History and Philosophy of Logic_, 42(2): 129–159. doi:10.1080/01445340.2021.1889117
-* Frege, Gottlob, 1892 \[1948], “Über Sinn und Bedeutung”, _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50. English translation, 1948, “Sense and Reference”, Max Black (trans.), _The Philosophical Review_, 57(3): 209–230. doi:10.2307/2181485
-* Hakli, Raul and Sara Negri, 2012, “Does the Deduction Theorem Fail for Modal Logic?”, _Synthese_, 187(3): 849–867. doi:10.1007/s11229-011-9905-9
-* Hilpinen, Risto, 1980, “Some Epistemological Interpretations of Modal Logic”, in _Logic and Philosophy / Logique et Philosophie_, G. H. Von Wright (ed.), Dordrecht: Springer Netherlands, 19–29. doi:10.1007/978-94-009-8820-0\_3
-* Hintikka, Jaakko, 1963, “The Modes of Modality”, _Acta Philosophica Fennica_, 16: 65–81.
-* Holt, Jim, 1996, “Whose Idea Is It, Anyway? A Philosophers’ Feud”, _Lingua Franca_, February 1996: 28–39.
-* Hull, Richard, 2013, “Biography: Ruth Charlotte 巴肯·马库斯”, in _The American Philosophical Association Centennial Series_, Richard H. Hull (ed.), 2013: 397–400.
-* Humphreys, Paul W. and James H. Fetzer (eds), 1998, _The New Theory of Reference: Kripke,马库斯, and Its Origins_ (Synthese Library 270), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-011-5250-1
-* Janssen-Lauret, Frederique, 2016, “Meta-Ontology, Naturalism, and the Quine-巴肯·马库斯Debate”, in _Quine and His Place in History_ (History of Analytic Philosophy), Frederique Janssen-Lauret and Gary Kemp (eds), London: Palgrave Macmillan UK, 146–167. doi:10.1057/9781137472519\_12
-* –––, 2022, “露丝·巴肯·马库斯and Quantified Modal Logic”, _British Journal for the History of Philosophy_, 30(2): 353–383. doi: 10.1080/09608788.2021.1984872
-* Kaplan, David, 1986, “Opacity”, in _The Philosophy of W.V. Quine_ (Library of Living Philosophers 18), Lewis Edwin Hahn and Paul Arthur Schilpp (eds), La Salle, IL: Open Court, 229–289.
-* –––, 1989, “Demonstratives. An Essay on the Semantics, Logic, Metaphysics, and Epistemology of Demonstratives and Other Indexicals”, in _Themes from Kaplan_, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
-* Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, _Journal of Symbolic Logic_, 24(1): 1–14. doi:10.2307/2964568
-* –––, 1963, “Semantical Considerations on Modal Logic”, _Acta Philosophica Fennica_, 16: 83–94.
-* –––, 1965, “Semantical Analysis of Modal Logic II. Non-Normal Modal Propositional Calculi”, in _The Theory of Models: Proceedings of the 1963 International Symposium at Berkeley_ (Studies in Logic and the Foundations of Mathematics), John W. Addison, Leon Henkin, and Alfred Tarski (eds), Amsterdam/New York: North-Holland, 206–220. doi:10.1016/B978-0-7204-2233-7.50026-5
-* –––, 1971, “Identity and Necessity”, in _Identity and Individuation_ (Studies in Contemporary Philosophy), Milton Karl Munitz (ed.), New York: New York University Press, 135–164.
-* –––, 1972 \[1980], “Naming and Necessity”, in _Semantics of Natural Language_, Donald Davidson and Gilbert Harman (eds.), (Synthese Library), Dordrecht: Reidel. Originally lectures given at Princeton University in 1970. Reprinted and enlarged as a book in 1980, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* –––, 1976, “Is There a Problem About Substitutional Quantification?”, in _Truth and Meaning: Essays in Semantics_, Gareth Evans and John McDowell (eds), Oxford: Clarendon Press, 324–419.
-* –––, 1979, “A Puzzle about Belief”, in _Meaning and Use: Papers Presented at the Second Jerusalem Philosophical Encounter_ (Studies in Linguistics and Philosophy 3), Avishai Margalit (ed.), Dordrecht/Boston: D. Reidel, 239–283. doi:10.1007/978-1-4020-4104-4\_20
-* –––, 2017a, “Quantified Modality and Essentialism”, _Noûs_, 51(2): 221–234. doi:10.1111/nous.12126
-* –––, 2017b, “Quantified Modal Logic and Quine’s Critique: Some Further Observations”, _Noûs_, 51(2): 235–237. doi:10.1111/nous.12127
-* Lemmon, Edward John, 1957, “New Foundations for Lewis Modal Systems”, _Journal of Symbolic Logic_, 22(2): 176–186. doi:10.2307/2964179
-* Lewis, Clarence Irving, 1918, _A Survey of Symbolic Logic_, Berkeley, CA: University of California Press.
-* Lewis, Clarence Irving and Cooper Harold Langford, 1932, _Symbolic Logic_, London: Century. Second edition 1959, New York: Dover.
-* Linsky, Bernard and Edward N. Zalta, 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives_, 8: 431–458. doi:10.2307/2214181
-* –––, 1996, “In Defense of the Contingently Nonconcrete”, _Philosophical Studies_, 84(2–3): 283–294. doi:10.1007/BF00354491
-* Linsky, Leonard (ed.), 1971, _Reference and Modality_ (Oxford Readings in Philosophy), London: Oxford University Press.
-* –––, 1972, “Two Concepts of Quantification”, _Noûs_, 6(3): 224. doi:10.2307/2214771
-* Martin, Richard M., 1962, “Existential Quantification and the ‘Regimentation’ of Ordinary Language”, _Mind_, 71(284): 525–529. doi:10.1093/mind/LXXI.284.525
-* McKinsey, John C.C. and Alfred Tarski, 1948, “Some Theorems About the Sentential Calculi of Lewis and Heyting”, _Journal of Symbolic Logic_, 13(1): 1–15.
-* Neale, Stephen, 2000, “On a Milestone of Empiricism”, in _Knowledge, Language and Logic: Questions for Quine_ (Boston Studies in the Philosophy and History of Science 210), Alex Orenstein and Petr Kotatko (eds), Boston: Kluwer Academic, 237–346. doi:10.1007/978-94-011-3933-5\_18
-* –––, 2001, “No Plagiarism Here. The Originality of Saul Kripke. Review of ‘The New Theory of Reference’ by P.W. Humphreys and J.H. Fetzer (eds.) \[[Humphreys & Fetzer 1998](https://plato.stanford.edu/entries/ruth-barcan-marcus/#HF98)]”, _Times Literary Supplement_, issue 5106 (9 February 2001): 12–13.
-* Parry, William Tuthill, 1934, “The Postulates for ‘Strict Implication’”, _Mind_, 43(169): 78–80. doi:10.1093/mind/XLIII.169.78
-* Parsons, Terence, 1967, “Grades of Essentialism in Quantified Modal Logic”, _Noûs_, 1(2): 181–191. doi:10.2307/2214584
-* –––, 1969, “Essentialism and Quantified Modal Logic”, _The Philosophical Review_, 78(1): 35–52.
+* Ballarin, Roberta, 2004, “The Interpretation of Necessity and the Necessity of Interpretation”, *Journal of Philosophy*, 101(12): 609–638. doi:10.5840/jphil20041011210
+* –––, 2012, “Quine on Intensional Entities: Modality and Quantification, Truth and Satisfaction”, *Journal of Applied Logic*, 10(3): 238–249. doi:10.1016/j.jal.2012.04.001
+* –––, 2021, “Quine on Modality”, in *The Routledge Handbook of Modality*, Otávio Bueno and Scott A. Shalkowski (eds), London: Routledge, pp. 390–399.
+* Bergmann, Gustav, 1948, “Contextual Definitions in Nonextensional Languages”, *Journal of Symbolic Logic*, 13(3): 140. doi:10.2307/2267815
+* Burgess, John P., 1997, “Quinus Ab Omni Nævo Vindicatus”, in *Meaning and Reference*, Ali A. Kazmi (ed.), *Canadian Journal of Philosophy Supplementary Volume 23*, 25–65. doi:10.1080/00455091.1997.10715961
+* –––, 2014, “On a Derivation of the Necessity of Identity”, *Synthese*, 191(7): 1567–1585. doi:10.1007/s11229-013-0351-8
+* Carnap, Rudolf, 1946, “Modalities and Quantification”, *Journal of Symbolic Logic*, 11(2): 33–64. doi:10.2307/2268610
+* Chellas, Brian Farrell, 1980, *Modal Logic: An Introduction*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511621192
+* Church, Alonzo, 1942, “Review of ‘Whitehead and the Rise of Modern Logic’, by Willard V. Quine“, *Journal of Symbolic Logic*, 7(2): 100–101. doi:10.2307/2266316
+* –––, 1943, “Review of ‘Notes on Existence and Necessity’, by Willard V. Quine \[[Quine 1943](https://plato.stanford.edu/entries/ruth-barcan-marcus/#quine43)]”, *Journal of Symbolic Logic*, 8(2): 45–47. doi:10.2307/2267994
+* Cresswell, Max J., 2001, “露丝·巴肯·马库斯(1921–)”, in *A Companion to Analytic Philosophy* (Blackwell Companions to Philosophy 20), A. P. Martinich and David Sosa (eds), Oxford/Malden, MA: Blackwell, 357–360. doi:10.1002/9780470998656.ch29
+* Deutsch, Harry, 1994, “Logic for Contigent Beings”, *Journal of Philosophical Research*, 19: 273–329. doi:10.5840/jpr\_1994\_6
+* Donnellan, Keith S., 1970, “Proper Names and Identifying Descriptions”, *Synthese*, 21(3–4): 335–358. doi:10.1007/BF00484804
+* Dunn, J. Michael and Nuel D. Belnap, 1968, “The Substitution Interpretation of the Quantifiers”, *Noûs*, 2(2): 177–185. doi:10.2307/2214704
+* Feys, Robert, 1965, *Modal Logics* (Collection de Logique Mathématique, Sér. B, 4), Louvain: E. Nauwelaerts.
+* Fine, Kit, 1990, “Quine on Quantifying In”, in *Propositional Attitudes. The Role of Content in Logic, Language, and Mind* (CSLI Lecture Notes 20), C. Anthony Anderson and Joseph Owens (eds), Stanford, CA: CSLI Publications, pp. 1–25.
+* Fitch, Frederic B., 1949, “The Problem of the Morning Star and the Evening Star”, *Philosophy of Science*, 16(2): 137–141. doi:10.1086/287026
+* –––, 1952, *Symbolic Logic. An Introduction*, New York: The Ronald Press Company.
+* Fitting, Melvin, 2007, “Modal Proof Theory”, in *Handbook of Modal Logic* (Studies in Logic and Practical Reasoning 3), Patrick Blackburn, Johan van Benthem, and Frank Wolter (eds), Amsterdam/Boston: Elsevier, 85–138. doi:10.1016/S1570-2464(07)80005-X
+* Føllesdal, Dagfinn, 2004, *Referential Opacity and Modal Logic* (Studies in Philosophy), New York: Routledge. His 1961 PhD thesis as modified in 1963 with an extensive introduction added. doi:10.4324/9780203337295
+* Foot, Philippa, 1983, “Moral Realism and Moral Dilemma”, *The Journal of Philosophy*, 80(7): 379–398. doi:10.2307/2026455
+* Franks, Curtis, 2021, “The Deduction Theorem (Before and After Herbrand)”, *History and Philosophy of Logic*, 42(2): 129–159. doi:10.1080/01445340.2021.1889117
+* Frege, Gottlob, 1892 \[1948], “Über Sinn und Bedeutung”, *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50. English translation, 1948, “Sense and Reference”, Max Black (trans.), *The Philosophical Review*, 57(3): 209–230. doi:10.2307/2181485
+* Hakli, Raul and Sara Negri, 2012, “Does the Deduction Theorem Fail for Modal Logic?”, *Synthese*, 187(3): 849–867. doi:10.1007/s11229-011-9905-9
+* Hilpinen, Risto, 1980, “Some Epistemological Interpretations of Modal Logic”, in *Logic and Philosophy / Logique et Philosophie*, G. H. Von Wright (ed.), Dordrecht: Springer Netherlands, 19–29. doi:10.1007/978-94-009-8820-0\_3
+* Hintikka, Jaakko, 1963, “The Modes of Modality”, *Acta Philosophica Fennica*, 16: 65–81.
+* Holt, Jim, 1996, “Whose Idea Is It, Anyway? A Philosophers’ Feud”, *Lingua Franca*, February 1996: 28–39.
+* Hull, Richard, 2013, “Biography: Ruth Charlotte 巴肯·马库斯”, in *The American Philosophical Association Centennial Series*, Richard H. Hull (ed.), 2013: 397–400.
+* Humphreys, Paul W. and James H. Fetzer (eds), 1998, *The New Theory of Reference: Kripke,马库斯, and Its Origins* (Synthese Library 270), Dordrecht/Boston: Kluwer Academic Publishers. doi:10.1007/978-94-011-5250-1
+* Janssen-Lauret, Frederique, 2016, “Meta-Ontology, Naturalism, and the Quine-巴肯·马库斯Debate”, in *Quine and His Place in History* (History of Analytic Philosophy), Frederique Janssen-Lauret and Gary Kemp (eds), London: Palgrave Macmillan UK, 146–167. doi:10.1057/9781137472519\_12
+* –––, 2022, “露丝·巴肯·马库斯and Quantified Modal Logic”, *British Journal for the History of Philosophy*, 30(2): 353–383. doi: 10.1080/09608788.2021.1984872
+* Kaplan, David, 1986, “Opacity”, in *The Philosophy of W.V. Quine* (Library of Living Philosophers 18), Lewis Edwin Hahn and Paul Arthur Schilpp (eds), La Salle, IL: Open Court, 229–289.
+* –––, 1989, “Demonstratives. An Essay on the Semantics, Logic, Metaphysics, and Epistemology of Demonstratives and Other Indexicals”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
+* Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, *Journal of Symbolic Logic*, 24(1): 1–14. doi:10.2307/2964568
+* –––, 1963, “Semantical Considerations on Modal Logic”, *Acta Philosophica Fennica*, 16: 83–94.
+* –––, 1965, “Semantical Analysis of Modal Logic II. Non-Normal Modal Propositional Calculi”, in *The Theory of Models: Proceedings of the 1963 International Symposium at Berkeley* (Studies in Logic and the Foundations of Mathematics), John W. Addison, Leon Henkin, and Alfred Tarski (eds), Amsterdam/New York: North-Holland, 206–220. doi:10.1016/B978-0-7204-2233-7.50026-5
+* –––, 1971, “Identity and Necessity”, in *Identity and Individuation* (Studies in Contemporary Philosophy), Milton Karl Munitz (ed.), New York: New York University Press, 135–164.
+* –––, 1972 \[1980], “Naming and Necessity”, in *Semantics of Natural Language*, Donald Davidson and Gilbert Harman (eds.), (Synthese Library), Dordrecht: Reidel. Originally lectures given at Princeton University in 1970. Reprinted and enlarged as a book in 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* –––, 1976, “Is There a Problem About Substitutional Quantification?”, in *Truth and Meaning: Essays in Semantics*, Gareth Evans and John McDowell (eds), Oxford: Clarendon Press, 324–419.
+* –––, 1979, “A Puzzle about Belief”, in *Meaning and Use: Papers Presented at the Second Jerusalem Philosophical Encounter* (Studies in Linguistics and Philosophy 3), Avishai Margalit (ed.), Dordrecht/Boston: D. Reidel, 239–283. doi:10.1007/978-1-4020-4104-4\_20
+* –––, 2017a, “Quantified Modality and Essentialism”, *Noûs*, 51(2): 221–234. doi:10.1111/nous.12126
+* –––, 2017b, “Quantified Modal Logic and Quine’s Critique: Some Further Observations”, *Noûs*, 51(2): 235–237. doi:10.1111/nous.12127
+* Lemmon, Edward John, 1957, “New Foundations for Lewis Modal Systems”, *Journal of Symbolic Logic*, 22(2): 176–186. doi:10.2307/2964179
+* Lewis, Clarence Irving, 1918, *A Survey of Symbolic Logic*, Berkeley, CA: University of California Press.
+* Lewis, Clarence Irving and Cooper Harold Langford, 1932, *Symbolic Logic*, London: Century. Second edition 1959, New York: Dover.
+* Linsky, Bernard and Edward N. Zalta, 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives*, 8: 431–458. doi:10.2307/2214181
+* –––, 1996, “In Defense of the Contingently Nonconcrete”, *Philosophical Studies*, 84(2–3): 283–294. doi:10.1007/BF00354491
+* Linsky, Leonard (ed.), 1971, *Reference and Modality* (Oxford Readings in Philosophy), London: Oxford University Press.
+* –––, 1972, “Two Concepts of Quantification”, *Noûs*, 6(3): 224. doi:10.2307/2214771
+* Martin, Richard M., 1962, “Existential Quantification and the ‘Regimentation’ of Ordinary Language”, *Mind*, 71(284): 525–529. doi:10.1093/mind/LXXI.284.525
+* McKinsey, John C.C. and Alfred Tarski, 1948, “Some Theorems About the Sentential Calculi of Lewis and Heyting”, *Journal of Symbolic Logic*, 13(1): 1–15.
+* Neale, Stephen, 2000, “On a Milestone of Empiricism”, in *Knowledge, Language and Logic: Questions for Quine* (Boston Studies in the Philosophy and History of Science 210), Alex Orenstein and Petr Kotatko (eds), Boston: Kluwer Academic, 237–346. doi:10.1007/978-94-011-3933-5\_18
+* –––, 2001, “No Plagiarism Here. The Originality of Saul Kripke. Review of ‘The New Theory of Reference’ by P.W. Humphreys and J.H. Fetzer (eds.) \[[Humphreys & Fetzer 1998](https://plato.stanford.edu/entries/ruth-barcan-marcus/#HF98)]”, *Times Literary Supplement*, issue 5106 (9 February 2001): 12–13.
+* Parry, William Tuthill, 1934, “The Postulates for ‘Strict Implication’”, *Mind*, 43(169): 78–80. doi:10.1093/mind/XLIII.169.78
+* Parsons, Terence, 1967, “Grades of Essentialism in Quantified Modal Logic”, *Noûs*, 1(2): 181–191. doi:10.2307/2214584
+* –––, 1969, “Essentialism and Quantified Modal Logic”, *The Philosophical Review*, 78(1): 35–52.
 * –––, 1995, “露丝·巴肯·马库斯and the Barcan Formula”, in [Sinnott-Armstrong, Raffman, and Asher 1995](https://plato.stanford.edu/entries/ruth-barcan-marcus/#SRA95): 3–11.
-* Prior, Arthur N., 1956, “Modality and Quantification in S5”, _Journal of Symbolic Logic_, 21(1): 60–62. doi:10.2307/2268488
-* Putnam, Hilary, 1973, “Meaning and Reference”, _The Journal of Philosophy_, 70(19): 699–711. doi:10.2307/2025079
-* Quine, Willard V., 1943, “Notes on Existence and Necessity”, _The Journal of Philosophy_, 40(5): 113–127. doi:10.2307/2017458
-* –––, 1946, “Review of ‘A Functional Calculus of First Order Based on Strict Implication’, by Ruth C. Barcan \[[Barcan 1946a](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan46a)]”, _Journal of Symbolic Logic_, 11(3): 96–97. doi:10.2307/2266766
-* –––, 1947a, “The Problem of Interpreting Modal Logic”, _Journal of Symbolic Logic_, 12(2): 43–48. doi:10.2307/2267247
-* –––, 1947b, “Review of ‘The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication’, by Ruth C. Barcan \[[Barcan 1946b](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan46b)]”, _Journal of Symbolic Logic_, 12(3): 95–95. doi:10.2307/2267231
-* –––, 1947c, “Review of ‘The Identity of Individuals in a Strict Functional Calculus of Second Order’, by Ruth C. Barcan \[[Barcan 1947](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan47)]”, _Journal of Symbolic Logic_, 12(3): 95–96. doi:10.2307/2267230
-* –––, 1948, “On What There Is”, _The Review of Metaphysics_, 2(5): 21–38.
-* –––, 1953a, “Mr. Strawson on Logical Theory”, _Mind_, 62(248): 433–451. doi:10.1093/mind/LXII.248.433
-* –––, 1953b, “Reference and Modality”, in _From a Logical Point of View: 9 Logico-Philosophical Essays_, Cambridge, MA: Harvard University Press, pp. 139–159.
-* –––, 1953c, “Three Grades of Modal Involvement”, in _Proceedings of the 11th International Congress of Philosophy_, Volume 14, Amsterdam: North-Holland, pp. 65–81. doi:10.5840/wcp11195314450
-* –––, 1958, “Corrections to the Review of ‘The Identity of Individuals in a Strict Functional Calculus of Second Order’, by Ruth C. Barcan \[[Barcan 1947](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan47)]”, _Journal of Symbolic Logic_, 23(3): 342. doi:10.2307/2964293
-* –––, 1961, “Reply to Professor马库斯”, _Synthese_, 13(4): 323–330. doi:10.1007/BF00486630
-* –––, 1990, “Comment on马库斯”, in _Perspectives on Quine_, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, p. 244.
-* Russell, Bertrand and Alfred N. Whitehead, 1910, 1912, 1913, _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press.
-* Simchen, Ori, 2013, “The Barcan Formula in Metaphysics”, _THEORIA. An International Journal for Theory, History and Foundations of Science_, 28(3): 375–392. doi:10.1387/theoria.6918
-* Smullyan, Arthur Francis, 1947, “Review of ‘The Problem of Interpreting Modal Logic’, by W. V. Quine \[[Quine 1947a](https://plato.stanford.edu/entries/ruth-barcan-marcus/#quine47a)]”, _The Journal of Symbolic Logic_, 12(4): 139–141. doi:10.2307/2266498
-* –––, 1948, “Modality and Description”, _Journal of Symbolic Logic_, 13(1): 31–37. doi:10.2307/2268137
-* Strassfeld, Jonathan, 2022, “‘I Am Aware That This Letter May Be Offensive’: The Unapologetic Achievements of 露丝·巴肯·马库斯and Marjorie Glicksman Grene”, _Journal of the History of Ideas_, 83(4): 579–600. doi:10.1353/jhi.2022.0038
-* Strawson, Peter F., 1952, _Introduction to Logical Theory_, London: Methuen.
-* Wiggins, David, 1976a, “Identity, Necessity and Physicalism”, in _Philosophy of Logic: Papers and Discussions_, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 96–132.
-* –––, 1976b, “Reply to Comments”, in _Philosophy of Logic: Papers and Discussions_, Stephan Körner (ed.), Berkeley, CA: University of California Press, 159–179.
-* Williams, Bernard, 1973, _Problems of the Self_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621253
-* Williamson, Timothy, 1995, “Review of _Modalities. Philosophical Essays_, by 露丝·巴肯·马库斯\[[马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93)]”, _Philosophical Books_, 36(2): 120–122. doi:10.1111/j.1468-0149.1995.tb02919.x
-* –––, 1998, “Bare Possibilia”, _Erkenntnis_, 48(2/3): 257–273. doi:10.1023/A:1005331819843
-* –––, 2013a, “In Memoriam: 露丝·巴肯·马库斯1921–2012”, _The Bulletin of Symbolic Logic_, 19(1): 123–126. doi:10.2178/bsl.1901070
-* –––, 2013b, _Modal Logic as Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
-* Zeman, Joseph Jay, 1973, _Modal Logic: The Lewis-Modal Systems_, London: Clarendon Press.
+* Prior, Arthur N., 1956, “Modality and Quantification in S5”, *Journal of Symbolic Logic*, 21(1): 60–62. doi:10.2307/2268488
+* Putnam, Hilary, 1973, “Meaning and Reference”, *The Journal of Philosophy*, 70(19): 699–711. doi:10.2307/2025079
+* Quine, Willard V., 1943, “Notes on Existence and Necessity”, *The Journal of Philosophy*, 40(5): 113–127. doi:10.2307/2017458
+* –––, 1946, “Review of ‘A Functional Calculus of First Order Based on Strict Implication’, by Ruth C. Barcan \[[Barcan 1946a](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan46a)]”, *Journal of Symbolic Logic*, 11(3): 96–97. doi:10.2307/2266766
+* –––, 1947a, “The Problem of Interpreting Modal Logic”, *Journal of Symbolic Logic*, 12(2): 43–48. doi:10.2307/2267247
+* –––, 1947b, “Review of ‘The Deduction Theorem in a Functional Calculus of First Order Based on Strict Implication’, by Ruth C. Barcan \[[Barcan 1946b](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan46b)]”, *Journal of Symbolic Logic*, 12(3): 95–95. doi:10.2307/2267231
+* –––, 1947c, “Review of ‘The Identity of Individuals in a Strict Functional Calculus of Second Order’, by Ruth C. Barcan \[[Barcan 1947](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan47)]”, *Journal of Symbolic Logic*, 12(3): 95–96. doi:10.2307/2267230
+* –––, 1948, “On What There Is”, *The Review of Metaphysics*, 2(5): 21–38.
+* –––, 1953a, “Mr. Strawson on Logical Theory”, *Mind*, 62(248): 433–451. doi:10.1093/mind/LXII.248.433
+* –––, 1953b, “Reference and Modality”, in *From a Logical Point of View: 9 Logico-Philosophical Essays*, Cambridge, MA: Harvard University Press, pp. 139–159.
+* –––, 1953c, “Three Grades of Modal Involvement”, in *Proceedings of the 11th International Congress of Philosophy*, Volume 14, Amsterdam: North-Holland, pp. 65–81. doi:10.5840/wcp11195314450
+* –––, 1958, “Corrections to the Review of ‘The Identity of Individuals in a Strict Functional Calculus of Second Order’, by Ruth C. Barcan \[[Barcan 1947](https://plato.stanford.edu/entries/ruth-barcan-marcus/#barcan47)]”, *Journal of Symbolic Logic*, 23(3): 342. doi:10.2307/2964293
+* –––, 1961, “Reply to Professor马库斯”, *Synthese*, 13(4): 323–330. doi:10.1007/BF00486630
+* –––, 1990, “Comment on马库斯”, in *Perspectives on Quine*, Robert B. Barrett and Roger F. Gibson (eds), Oxford/Cambridge, MA: Blackwell, p. 244.
+* Russell, Bertrand and Alfred N. Whitehead, 1910, 1912, 1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press.
+* Simchen, Ori, 2013, “The Barcan Formula in Metaphysics”, *THEORIA. An International Journal for Theory, History and Foundations of Science*, 28(3): 375–392. doi:10.1387/theoria.6918
+* Smullyan, Arthur Francis, 1947, “Review of ‘The Problem of Interpreting Modal Logic’, by W. V. Quine \[[Quine 1947a](https://plato.stanford.edu/entries/ruth-barcan-marcus/#quine47a)]”, *The Journal of Symbolic Logic*, 12(4): 139–141. doi:10.2307/2266498
+* –––, 1948, “Modality and Description”, *Journal of Symbolic Logic*, 13(1): 31–37. doi:10.2307/2268137
+* Strassfeld, Jonathan, 2022, “‘I Am Aware That This Letter May Be Offensive’: The Unapologetic Achievements of 露丝·巴肯·马库斯and Marjorie Glicksman Grene”, *Journal of the History of Ideas*, 83(4): 579–600. doi:10.1353/jhi.2022.0038
+* Strawson, Peter F., 1952, *Introduction to Logical Theory*, London: Methuen.
+* Wiggins, David, 1976a, “Identity, Necessity and Physicalism”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, pp. 96–132.
+* –––, 1976b, “Reply to Comments”, in *Philosophy of Logic: Papers and Discussions*, Stephan Körner (ed.), Berkeley, CA: University of California Press, 159–179.
+* Williams, Bernard, 1973, *Problems of the Self*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621253
+* Williamson, Timothy, 1995, “Review of *Modalities. Philosophical Essays*, by 露丝·巴肯·马库斯\[[马库斯1993](https://plato.stanford.edu/entries/ruth-barcan-marcus/#marcus93)]”, *Philosophical Books*, 36(2): 120–122. doi:10.1111/j.1468-0149.1995.tb02919.x
+* –––, 1998, “Bare Possibilia”, *Erkenntnis*, 48(2/3): 257–273. doi:10.1023/A:1005331819843
+* –––, 2013a, “In Memoriam: 露丝·巴肯·马库斯1921–2012”, *The Bulletin of Symbolic Logic*, 19(1): 123–126. doi:10.2178/bsl.1901070
+* –––, 2013b, *Modal Logic as Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
+* Zeman, Joseph Jay, 1973, *Modal Logic: The Lewis-Modal Systems*, London: Clarendon Press.
 
 ## Academic Tools
 
@@ -762,13 +760,13 @@ Kripke 的论文关注信念报告，即我们归因信念的实践。在她对 
 
 ## Related Entries
 
-[belief](https://plato.stanford.edu/entries/belief/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [existence](https://plato.stanford.edu/entries/existence/) | [identity](https://plato.stanford.edu/entries/identity/) | [Lewis, Clarence Irving](https://plato.stanford.edu/entries/lewis-ci/) | [logic, history of: modal logic](https://plato.stanford.edu/entries/logic-modal-origins/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: deontic](https://plato.stanford.edu/entries/logic-deontic/) | [logic: intensional](https://plato.stanford.edu/entries/logic-intensional/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [moral dilemmas](https://plato.stanford.edu/entries/moral-dilemmas/) | [names](https://plato.stanford.edu/entries/names/) | [natural deduction systems in logic](https://plato.stanford.edu/entries/natural-deduction/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
+[belief](https://plato.stanford.edu/entries/belief/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [existence](https://plato.stanford.edu/entries/existence/) | [identity](https://plato.stanford.edu/entries/identity/) | [Lewis, Clarence Irving](https://plato.stanford.edu/entries/lewis-ci/) | [logic, history of: modal logic](https://plato.stanford.edu/entries/logic-modal-origins/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: deontic](https://plato.stanford.edu/entries/logic-deontic/) | [logic: intensional](https://plato.stanford.edu/entries/logic-intensional/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [moral dilemmas](https://plato.stanford.edu/entries/moral-dilemmas/) | [names](https://plato.stanford.edu/entries/names/) | [natural deduction systems in logic](https://plato.stanford.edu/entries/natural-deduction/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
 
 ### Acknowledgments
 
-I corresponded with 露丝·巴肯·马库斯in 1999 and then 2006. During the 1998–99 academic year, 马库斯attended some meetings of the UCLA weekly workshop in philosophy of language run by David Kaplan, Joseph Almog and Tony Martin. She was kind enough to read some of my work and in March 1999 she sent me a generous and supportive hand-written letter of comments where she also expounded some of her views. In 2006 we corresponded by email about the Barcan formula and on that occasion she sent me copies of some of her correspondence with Quine, _inter alia_. Her last email to me ended with the self-standing sentence “Perhaps you might want to do that”. This I took to be an invitation to write about some of her work.
+I corresponded with 露丝·巴肯·马库斯in 1999 and then 2006. During the 1998–99 academic year, 马库斯attended some meetings of the UCLA weekly workshop in philosophy of language run by David Kaplan, Joseph Almog and Tony Martin. She was kind enough to read some of my work and in March 1999 she sent me a generous and supportive hand-written letter of comments where she also expounded some of her views. In 2006 we corresponded by email about the Barcan formula and on that occasion she sent me copies of some of her correspondence with Quine, *inter alia*. Her last email to me ended with the self-standing sentence “Perhaps you might want to do that”. This I took to be an invitation to write about some of her work.
 
 I thank Graham Moore who has assisted me in the early stages of preparation of this entry.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-Roberta Ballarin <[_rballari@mail.ubc.ca_](mailto:rballari%40mail%2eubc%2eca)>
+Roberta Ballarin <[*rballari@mail.ubc.ca*](mailto:rballari%40mail%2eubc%2eca)>

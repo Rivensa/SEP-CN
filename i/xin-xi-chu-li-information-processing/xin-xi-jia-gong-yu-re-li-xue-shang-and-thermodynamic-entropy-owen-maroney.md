@@ -1,10 +1,9 @@
 # 信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)
 
-_首次发表于2009年9月15日星期二_
+*首次发表于2009年9月15日星期二*
 
 信息加工的原则是否必要来证明统计力学的一致性？计算操作的物理实现是否由于其逻辑属性而具有基本的热力学成本？这两个问题是与 Szilard 引擎（Maxwell 的恶魔思想实验的一种变体）、Landauer 原理（被认为是计算的热力学基本原理）以及两者之间可能的联系相关的大量文献的核心。对这些问题的各种尝试揭示了统计力学基础中的许多未解之谜。
 
- 
 ***
 
 ## 1. 麦克斯韦、西拉德和兰道尔
@@ -87,12 +86,12 @@ Bennett (1973)在 Landauer 的基础上进行了扩展，但他认为在计算�
 
 根据经验观察，在任何闭合循环中，其唯一结果是在温度为 T**i 的热浴中产生热量 Q**i（需要执行的工作 W=∑i Q\*\*i），克劳修斯不等式：
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _Q\*\*i_ |
-| _T\*\*i_ |
+| *Q\*\*i* |
+| *T\*\*i* |
 
 > ≥ 0
 
@@ -108,100 +107,100 @@ Bennett (1973)在 Landauer 的基础上进行了扩展，但他认为在计算�
 
 现在假设存在一个过程，将系统从热力学状态 A 转变为热力学状态 B，同时在温度为 T**i 的热源中产生热量 q**i，并且一个相反的过程，从 B 到 A，以相同的热源中产生热量_q′_ i，以使得等式成立：
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _q\*\*i_ |
-| _T\*\*i_ |
+| *q\*\*i* |
+| *T\*\*i* |
 
-> \+∑_i_
+> \+∑*i*
 
 |          |
 | -------- |
-| _q′i_    |
-| _T\*\*i_ |
+| *q′i*    |
+| *T\*\*i* |
 
 > \= 0
 
 达到。根据不等式，如果存在任何将系统从状态 A 转变为状态 B 的过程，同时在温度为 T**i 的热浴中产生热量 Q**i，则有：
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _Q\*\*i_ |
-| _T\*\*i_ |
+| *Q\*\*i* |
+| *T\*\*i* |
 
-> \+∑_i_
+> \+∑*i*
 
 |          |
 | -------- |
-| _q′i_    |
-| _T\*\*i_ |
+| *q′i*    |
+| *T\*\*i* |
 
 > ≥ 0
 
 和所以：
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _Q\*\*i_ |
-| _T\*\*i_ |
+| *Q\*\*i* |
+| *T\*\*i* |
 
-> ≥ ∑_i_
+> ≥ ∑*i*
 
 |          |
 | -------- |
-| _q\*\*i_ |
-| _T\*\*i_ |
+| *q\*\*i* |
+| *T\*\*i* |
 
 > .
 
 该术语
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _q\*\*i_ |
-| _T\*\*i_ |
+| *q\*\*i* |
+| *T\*\*i* |
 
 定义了与通过任何可能将系统从状态 A 转变为状态 B 的过程产生的热量相关的最小量。克劳修斯认识到这可以用来通过测量传递给热浴的热量来定义热力学状态的函数，当系统在两个状态之间变化时。该函数，热力学熵 SΘ，由
 
-> _S_Θ(_A_) − _S_Θ(_B_) = ∑_i_
+> _S_Θ(*A*) − _S_Θ(*B*) = ∑*i*
 
 |          |
 | -------- |
-| _q\*\*i_ |
-| _T\*\*i_ |
+| *q\*\*i* |
+| *T\*\*i* |
 
 对于任何其他过程，
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _Q\*\*i_ |
-| _T\*\*i_ |
+| *Q\*\*i* |
+| *T\*\*i* |
 
-> ≥ ∑_i_
+> ≥ ∑*i*
 
 |          |
 | -------- |
-| _q\*\*i_ |
-| _T\*\*i_ |
+| *q\*\*i* |
+| *T\*\*i* |
 
 所以对于任何可能的过程：
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _Q\*\*i_ |
-| _T\*\*i_ |
+| *Q\*\*i* |
+| *T\*\*i* |
 
 > ≥ SΘ(A) - SΘ(B)
 
@@ -209,14 +208,14 @@ Bennett (1973)在 Landauer 的基础上进行了扩展，但他认为在计算�
 
 热力学熵的定义依赖于能够达到平等的循环过程，这些过程被称为可逆过程。这些可逆过程的存在使得可以确定热力学状态之间的熵差，并通过对所有状态的推广，定义了一个在全局上唯一的热力学熵函数（通过重新调整 S' = a^-1 S + b，其中 a 和 b 是常数，a 是温度尺度的乘法常数）。值得注意的是，如果存在无法通过可逆过程连接的状态，仍然可以定义一个满足条件的熵函数。
 
-> ∑_i_
+> ∑*i*
 
 |          |
 | -------- |
-| _Q\*\*i_ |
-| _T\*\*i_ |
+| *Q\*\*i* |
+| *T\*\*i* |
 
-> ≥ _S_Θ(_A_) − _S_Θ(_B_)
+> ≥ _S_Θ(*A*) − _S_Θ(*B*)
 
 对于所有可能的过程，但其值不会被唯一确定（即存在满足不等式的多个函数）。
 
@@ -224,14 +223,14 @@ Bennett (1973)在 Landauer 的基础上进行了扩展，但他认为在计算�
 
 为了使状态变量的变化无穷小，状态空间必须是连续的。一系列状态将在状态空间中表示为连续的曲线。通过这些无穷小变化连接 A 到 B 的曲线用积分代替了求和。T\*\*i 可以用系统的温度 T 代替，热量 dQ 现在是系统吸收的热量，得到：
 
-> _S_Θ(_B_) − _S_Θ(_A_) =  _B_  ∫
+> _S_Θ(*B*) − _S_Θ(*A*) =  *B*  ∫
 >
 > * 一个\*
 
 |          |
 | -------- |
-| _d\*\*Q_ |
-| _T_      |
+| *d\*\*Q* |
+| *T*      |
 
 克劳修斯不等式确保了从 A 到 B 的所有准静态可逆路径上的这个值是相同的。值得注意的是，准静态可逆路径是一种理想化，只能在无限慢过程的极限情况下达到。
 
@@ -239,7 +238,7 @@ Bennett (1973)在 Landauer 的基础上进行了扩展，但他认为在计算�
 
 对于统计力学，我们需要考虑一个微观状态空间和该空间中状态的动力学演化。经典情况下，这将是一个相空间，一个 N 体系统具有 3N 个位置自由度和 3N 个动量自由度。相空间中的一个点对应于所有 N 个物体的组合物理状态。动力学几乎总是被假设为哈密顿的。哈密顿流保持测度 d**X3NdP3N 不变。这个测度可以用来定义相空间区域 R 的体积 V**R，如下所示：
 
-| _V\*\*R_ | = | <p>∫<br><em>R</em></p> | _d\*\*x_3_N_​_**d**_​_p_3_N_ |
+| *V\*\*R* | = | <p>∫<br><em>R</em></p> | *d\*\*x_3_N_​***d***​_p_3_N* |
 | -------- | - | ---------------------- | ---------------------------- |
 
 这个非常重要的结果是李乌维尔定理，它表明一组状态所占据的相空间体积在经过哈密顿演化时不会改变。
@@ -262,20 +261,20 @@ Gibbs 对统计力学的方法基于状态空间上的概率分布 p(X3N, P3N)�
 
 这个熵是在哈密顿流下恒定的，这是由于 Liouville 定理的结果。虽然这保证了熵是不减的，但它对于解释熵增加的出现提出了问题。处理这个问题的标准方法称为粗粒化。粗粒化用一个“更平滑”的概率分布 p′(X3N, P3N | i) 替换每个宏观状态的概率分布 p(X3N, P3N | i)，通常是“均匀”分布：
 
-> _p_′(_X_3_N_, _P_3_N_ | _i_) =
+> *p*′(*X_3_N*, *P_3_N* | *i*) =
 
 |                           |
 | ------------------------- |
 | 1                         |
-| ∫_R\*\*i_d_X_3_N_d_P_3_N_ |
+| ∫*R\*\*i_d_X_3_N_d_P_3_N* |
 
 在 R**i 内，p′(X3N, P3N | i) = 0 在 R**i 外。现在，宏观状态的粗粒化熵满足
 
-> _S_′_G\*\*i_ = −_k_ ∫_R\*\*ip_′(_X_3_N_, _P_3_N_ | _i_) ln _p_′(_X_3_N_, _P_3_N_ | _i_) d_X_3_N_d_P_3_N_ ≥ _S_​_**G**_​_i_ .
+> *S*′*G\*\*i* = −*k* ∫*R\*\*ip*′(*X_3_N*, *P_3_N* | *i*) ln *p*′(*X_3_N*, *P_3_N* | *i*) d_X_3_N_d_P_3_N_ ≥ *S_​***G***​_i* .
 
 整体粗粒化概率分布 p′(X3N, P3N) = ∑i p′(X3N, P3N | i) p\*\*i 的熵是
 
-> _S_′_G_ = −_k_ ∫ _p_′(_X_3_N_, _P_3_N_) ln _p_′(_X_3_N_, _P_3_N_) d_X_3_N_d_P_3_N_ = ∑_ip\*\*i_(_S_′_G\*\*i_ −_k_ ln _p\*\*i_) ≥ _S\*\*G_.
+> *S*′*G* = −*k* ∫ *p*′(*X_3_N*, *P_3_N*) ln *p*′(*X_3_N*, *P_3_N*) d_X_3_N_d_P_3_N_ = ∑*ip\*\*i*(*S*′*G\*\*i* −*k* ln *p\*\*i*) ≥ *S\*\*G*.
 
 粗粒化概率分布避免了 Liouville 定理，连续的粗粒化增加了粗粒化的 Gibbs 熵。粗粒化的理由通常归因于我们对原始概率分布 p(X3N, P3N | i)的细粒化结构不敏感。这种做法的可接受性是 Gibbs 统计力学方法的主要问题之一。
 
@@ -371,7 +370,7 @@ Hemmo 和 Shenker 考虑了这种功的提取是否需要保留分子初始位�
 
 In his earliest paper, Landauer derived the cost of performing the reset operation by simply assuming that there is an equivalence between the Shannon information of a distribution of logical states, and thermodynamic entropy of a physical system that can represent those logical states. A reduction in the Shannon information content of the logical states would then reduce the thermodynamic entropy of the physical system. Landauer then further assumed that the second law holds true and that this reduction must produce a thermodynamic entropy increase elsewhere. Viewed in this way, his argument appears to contain elements both of the profound and the sound horns of Earman and Norton's (1998, 1999) dilemma. It follows the profound horn in identifying Shannon information with thermodynamic entropy and the sound horn in assuming the validity of the second law.
 
-It is less clear that Landauer himself thought he was introducing a new principle. It seems more plausible that he was taking for granted the Gibbsian approach to statistical mechanics, which identified _p_ ln _p_ as the statistical mechanical entropy long before Shannon's work, and the non-decrease of this entropy through coarse-graining. As such, the validity of Landauer's principle would still require the structure of Gibbsian statistical mechanics to be self-consistent and the appropriate representation of thermal systems. At the very least this cannot be taken for granted unless it has already been established that untamed demons do not exist and so the unquestioned use of Landauer's principle in exorcisms of the demon would still appear to be circular.
+It is less clear that Landauer himself thought he was introducing a new principle. It seems more plausible that he was taking for granted the Gibbsian approach to statistical mechanics, which identified *p* ln *p* as the statistical mechanical entropy long before Shannon's work, and the non-decrease of this entropy through coarse-graining. As such, the validity of Landauer's principle would still require the structure of Gibbsian statistical mechanics to be self-consistent and the appropriate representation of thermal systems. At the very least this cannot be taken for granted unless it has already been established that untamed demons do not exist and so the unquestioned use of Landauer's principle in exorcisms of the demon would still appear to be circular.
 
 然而，这并不能说明分析计算的热力学是一项完全无意义的任务。从逻辑操作本身的结构中是否可以推断出物理实现逻辑操作的热力学后果，可能是一个有根据的问题（尽管显然不能完全脱离基本物理学对这些设备构造的说法）。此外，如果能够证明兰道尔原理是不正确的，并且信息可以以任意低的成本重置，那么似乎要么存在无法控制的恶魔，要么在斯扎拉德引擎的运行中必须发现一些进一步的热量产生源。
 
@@ -387,9 +386,9 @@ It is less clear that Landauer himself thought he was introducing a new principl
 
 当逻辑自由度的状态空间区域减少一半时，根据刘维尔定理，环境自由度的状态空间区域必须增加一倍。然后认为这必然涉及环境中的热量产生。这最后一步需要一些理由。在玻尔兹曼方法中，宏观态的温度通常由以下公式定义
 
-|      | ∂_S\*\*B_ |   | _V_ | = | 1 | . |
+|      | ∂*S\*\*B* |   | *V* | = | 1 | . |
 | ---- | --------- | - | --- | - | - | - |
-| ∂_E_ | _T_       |   |     |   |   |   |
+| ∂*E* | *T*       |   |     |   |   |   |
 
 如果这个系统非常大，假设它的温度在吸收少量热量时几乎不发生变化。因此，如果物理体积保持不变，只有通过加热才会发生能量变化，那么热量和熵之间的关系为ΔQ = T ΔS**B。满足这些条件的系统可以被视为良好的热源。热源的相空间体积加倍意味着玻尔兹曼熵增加了 k ln 2，因此需要吸收 k**T ln 2 的热量。
 
@@ -465,41 +464,41 @@ Szilard引擎和Landauer原理似乎都提出了一个关于知识和热力学�
 
 A comprehensive annotated bibliography of the subject, up until 2003, is included in the collection (Leff and Rex 2003), which also contains many key articles, mainly supporting the Landauer-Penrose-Bennett position. A detailed analysis of the history of Maxwell's demon, the Szilard engine and critiques of information theoretic exorcisms are in Earman and Norton (1998, 1999) with Norton (2005) providing a similar critique of Landauer's principle.
 
-* Albert, D.Z., 2001, _Time and Chance_, Cambridge, Massachusetts: Harvard University Press.
-* Allahverdyan, A.E. and T.M. Nieuwenhuizen, “Breakdown of the Landauer bound for information erasure in the quantum regime”, _Physical Review E_, 64: 0561171–0561179.
-* Bennett, C.H., 1973, “Logical reversibility of computation”, _IBM Journal of Research and Development_, 17: 525–532.
-* Bennett, C.H., 1982, “The thermodynamics of computation—a review”, _International Journal of Theoretical Physics_, 21(12): 905–940.
-* Bennett, C.H., 2003, “Notes on Landauer's principle, reversible computation, and Maxwell's demon”, _Studies in the History and Philosophy of Modern Physics_, 34: 501–510.
-* Brillouin, L., 1951, “Maxwell's demon cannot operate: Information and entropy I”, _Journal of Applied Physics_, 22: 334–337.
-* Brillouin, L., 1956, _Science and Information Theory_, New York: Academic Press.
-* Earman, J. and J.D. Norton, 1998, “Exorcist XIV: The wrath of Maxwell's demon. Part I. From Maxwell to Szilard”, _Studies in the History and Philosophy of Modern Physics_, 29: 435–471.
-* Earman, J. and J.D. Norton, 1999, “Exorcist XIV: The wrath of Maxwell's demon. Part II. From Szilard to Landauer”, _Studies in the History and Philosophy of Modern Physics_, 30: 1–40.
-* Feyerabend, P.K., 1966, “On the possibility of a perpetuum mobile of the second kind”, in _Mind, Matter and Method: Essays in Philosophy and Science in Honor of Herbert Feigel_, P.K. Feyerabend and G. Maxwell (eds.), Minneapolis, Minnesota: University of Minnesota Press, pp. 409–412.
-* Gabor, D., 1964, “Light and Information”, _Progress in Optics_, 1: 111–153.
-* Groisman, B., J. Ladyman, S. Presnell, and T. Short, 2007, “The connection between logical and thermodynamic irreversibility”, _Studies in the History and Philosophy of Modern Physics_, 38: 58–79.
-* Landauer, R., 1961, “Irreversibility and heat generation in the computing process”, _IBM Journal of Research and Development_, 5: 183–191.
-* Leff, H.S. and A.F. Rex, 1990, _Maxwell's Demon: Entropy, Information, Computing_, Princeton, New Jersey: Princeton University Press.
-* Leff, H.S. and A.F. Rex, 2003, _Maxwell's Demon 2: Entropy, Classical and Quantum Information, Computing_, Philadelphia, Pennsylvania: Institute of Physics Publishing.
-* Maroney, O.J.E., 2005, “The (absence of a) relationship between thermodynamic and logical irreversibility”, _Studies in the History and Philosophy of Modern Physics_, 36: 355–374.
-* Maroney, O.J.E., 2009, “Generalising Landauer's principle”, _Physical Review E_, 79: 031105.
-* Maxwell, J.C., 1867, Letter to P.G. Tait, 11 December 1867, in _Life and Scientific Work of Peter Guthrie Tait_, C.G.Knott (author), Cambridge: Cambridge University Press, 1911, pp. 213–215.
-* Norton, J.D., 2005, “Eaters of the lotus: Landauer's principle and the return of Maxwell's demon”, _Studies in the History and Philosophy of Modern Physics_, 36: 375–411.
-* Penrose, O., 1970, _Foundations of Statistical Mechanics_, Oxford: Pergamon Press.
-* Piechocinska, B., 2000, “Information erasure”, _Physical Review A_, 61: 1–9.
-* Porod, W., 1988, “Comment on ‘Energy requirements in communication’”, _Applied Physics Letters_, 52: 2191.
-* Rothstein, J., 1951, “Information, measurement and quantum mechanics”, _Science_, 114: 171–175.
-* Shizume, K., 1995, “Heat generation required by erasure”, _Physical Review E_, 52: 3495–3499.
-* Smoluchowski, M. von, 1914, “Gültigkeitsgrenzen des zweiten Hauptsatzes der Wärmtheorie”, _Vorträge über die Kinetische Theorie der Materie und der Elektrizität_, Leipzig: Teubner, 1914, pp. 89–121.
-* Szilard, L., 1929, “On the Decrease of Entropy in a Thermodynamic System by the Intervention of Intelligent Beings”, _Zeitschrift fur Physik_ 53: 840–856. English translation in _The Collected Works of Leo Szilard: Scientific Papers_, B.T. Feld and G. Weiss Szilard (eds.), Cambridge, Massachusetts: MIT Press, 1972, pp. 103–129.
-* Turgut, S., 2009, “Relations between entropies produced in non-deterministic thermodynamic processes”, _Physical Review E_, 79: 041102.
-* Uffink, J., 2001, “Bluff your way in the second law of thermodynamics”, _Studies in the History and Philosophy of Modern Physics_, 32: 305–394.
-* Uffink, J., 2006, “Compendium of the foundations of classical statistical physics” in _Philosophy of Physics (Handbook of the Philosophy of Science)_, J. Butterfield and J. Earman (eds.), Amsterdam: North Holland, Part B, pp. 923–1074.
-* von Neumann, J., 1932, _Mathematical Foundations of Quantum Mechanics_, English translation, Princeton, New Jersey: Princeton University Press, 1955.
-* von Neumann, J., 1949, “The Role of High and of Extremely High Complication”, Fourth University of Illinois lecture, in _Theory of Self-Reproducing Automata_, A.W. Burks (ed.), Champaign, Illinois: University of Illinois Press, 1966, pp. 64–73.
-* Zhang, K. and K. Zhang, 1992, “Mechanical models of Maxwell's demon with noninvariant phase volume”, _Physical Review A_, 46: 4598–4605.
-* Zurek, W.H., 1986, “Maxwell's demon, Szilard's engine and quantum measurements”, in _Frontiers of Nonequilibrium Statistical Physics_, G.T. Moore and M.O. Scully (eds.), New York: Plenum Press, pp. 151–161.
-* Zurek, W.H., 1989a, “Algorithmic randomness and physical entropy”, _Physical Review A_, 40: 4731–4751.
-* Zurek, W.H., 1989b, “Thermodynamic cost of computation, algorithmic complexity and the information metric”, _Nature_, 347: 119–124.
+* Albert, D.Z., 2001, *Time and Chance*, Cambridge, Massachusetts: Harvard University Press.
+* Allahverdyan, A.E. and T.M. Nieuwenhuizen, “Breakdown of the Landauer bound for information erasure in the quantum regime”, *Physical Review E*, 64: 0561171–0561179.
+* Bennett, C.H., 1973, “Logical reversibility of computation”, *IBM Journal of Research and Development*, 17: 525–532.
+* Bennett, C.H., 1982, “The thermodynamics of computation—a review”, *International Journal of Theoretical Physics*, 21(12): 905–940.
+* Bennett, C.H., 2003, “Notes on Landauer's principle, reversible computation, and Maxwell's demon”, *Studies in the History and Philosophy of Modern Physics*, 34: 501–510.
+* Brillouin, L., 1951, “Maxwell's demon cannot operate: Information and entropy I”, *Journal of Applied Physics*, 22: 334–337.
+* Brillouin, L., 1956, *Science and Information Theory*, New York: Academic Press.
+* Earman, J. and J.D. Norton, 1998, “Exorcist XIV: The wrath of Maxwell's demon. Part I. From Maxwell to Szilard”, *Studies in the History and Philosophy of Modern Physics*, 29: 435–471.
+* Earman, J. and J.D. Norton, 1999, “Exorcist XIV: The wrath of Maxwell's demon. Part II. From Szilard to Landauer”, *Studies in the History and Philosophy of Modern Physics*, 30: 1–40.
+* Feyerabend, P.K., 1966, “On the possibility of a perpetuum mobile of the second kind”, in *Mind, Matter and Method: Essays in Philosophy and Science in Honor of Herbert Feigel*, P.K. Feyerabend and G. Maxwell (eds.), Minneapolis, Minnesota: University of Minnesota Press, pp. 409–412.
+* Gabor, D., 1964, “Light and Information”, *Progress in Optics*, 1: 111–153.
+* Groisman, B., J. Ladyman, S. Presnell, and T. Short, 2007, “The connection between logical and thermodynamic irreversibility”, *Studies in the History and Philosophy of Modern Physics*, 38: 58–79.
+* Landauer, R., 1961, “Irreversibility and heat generation in the computing process”, *IBM Journal of Research and Development*, 5: 183–191.
+* Leff, H.S. and A.F. Rex, 1990, *Maxwell's Demon: Entropy, Information, Computing*, Princeton, New Jersey: Princeton University Press.
+* Leff, H.S. and A.F. Rex, 2003, *Maxwell's Demon 2: Entropy, Classical and Quantum Information, Computing*, Philadelphia, Pennsylvania: Institute of Physics Publishing.
+* Maroney, O.J.E., 2005, “The (absence of a) relationship between thermodynamic and logical irreversibility”, *Studies in the History and Philosophy of Modern Physics*, 36: 355–374.
+* Maroney, O.J.E., 2009, “Generalising Landauer's principle”, *Physical Review E*, 79: 031105.
+* Maxwell, J.C., 1867, Letter to P.G. Tait, 11 December 1867, in *Life and Scientific Work of Peter Guthrie Tait*, C.G.Knott (author), Cambridge: Cambridge University Press, 1911, pp. 213–215.
+* Norton, J.D., 2005, “Eaters of the lotus: Landauer's principle and the return of Maxwell's demon”, *Studies in the History and Philosophy of Modern Physics*, 36: 375–411.
+* Penrose, O., 1970, *Foundations of Statistical Mechanics*, Oxford: Pergamon Press.
+* Piechocinska, B., 2000, “Information erasure”, *Physical Review A*, 61: 1–9.
+* Porod, W., 1988, “Comment on ‘Energy requirements in communication’”, *Applied Physics Letters*, 52: 2191.
+* Rothstein, J., 1951, “Information, measurement and quantum mechanics”, *Science*, 114: 171–175.
+* Shizume, K., 1995, “Heat generation required by erasure”, *Physical Review E*, 52: 3495–3499.
+* Smoluchowski, M. von, 1914, “Gültigkeitsgrenzen des zweiten Hauptsatzes der Wärmtheorie”, *Vorträge über die Kinetische Theorie der Materie und der Elektrizität*, Leipzig: Teubner, 1914, pp. 89–121.
+* Szilard, L., 1929, “On the Decrease of Entropy in a Thermodynamic System by the Intervention of Intelligent Beings”, *Zeitschrift fur Physik* 53: 840–856. English translation in *The Collected Works of Leo Szilard: Scientific Papers*, B.T. Feld and G. Weiss Szilard (eds.), Cambridge, Massachusetts: MIT Press, 1972, pp. 103–129.
+* Turgut, S., 2009, “Relations between entropies produced in non-deterministic thermodynamic processes”, *Physical Review E*, 79: 041102.
+* Uffink, J., 2001, “Bluff your way in the second law of thermodynamics”, *Studies in the History and Philosophy of Modern Physics*, 32: 305–394.
+* Uffink, J., 2006, “Compendium of the foundations of classical statistical physics” in *Philosophy of Physics (Handbook of the Philosophy of Science)*, J. Butterfield and J. Earman (eds.), Amsterdam: North Holland, Part B, pp. 923–1074.
+* von Neumann, J., 1932, *Mathematical Foundations of Quantum Mechanics*, English translation, Princeton, New Jersey: Princeton University Press, 1955.
+* von Neumann, J., 1949, “The Role of High and of Extremely High Complication”, Fourth University of Illinois lecture, in *Theory of Self-Reproducing Automata*, A.W. Burks (ed.), Champaign, Illinois: University of Illinois Press, 1966, pp. 64–73.
+* Zhang, K. and K. Zhang, 1992, “Mechanical models of Maxwell's demon with noninvariant phase volume”, *Physical Review A*, 46: 4598–4605.
+* Zurek, W.H., 1986, “Maxwell's demon, Szilard's engine and quantum measurements”, in *Frontiers of Nonequilibrium Statistical Physics*, G.T. Moore and M.O. Scully (eds.), New York: Plenum Press, pp. 151–161.
+* Zurek, W.H., 1989a, “Algorithmic randomness and physical entropy”, *Physical Review A*, 40: 4731–4751.
+* Zurek, W.H., 1989b, “Thermodynamic cost of computation, algorithmic complexity and the information metric”, *Nature*, 347: 119–124.
 
 ## Academic Tools
 
@@ -524,4 +523,4 @@ A comprehensive annotated bibliography of the subject, up until 2003, is include
 Many thanks to John Norton for his helpful suggestions and editing during the production of this article.
 
 [Copyright © 2009](https://plato.stanford.edu/info.html#c) by\
-[Owen Maroney](https://www.philosophy.ox.ac.uk/people/owen-maroney) <[_owen.maroney@philosophy.ox.ac.uk_](mailto:owen%2emaroney%40philosophy%2eox%2eac%2euk)>
+[Owen Maroney](https://www.philosophy.ox.ac.uk/people/owen-maroney) <[*owen.maroney@philosophy.ox.ac.uk*](mailto:owen%2emaroney%40philosophy%2eox%2eac%2euk)>

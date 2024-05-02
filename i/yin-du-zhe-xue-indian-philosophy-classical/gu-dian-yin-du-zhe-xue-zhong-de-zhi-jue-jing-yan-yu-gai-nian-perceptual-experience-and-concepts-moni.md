@@ -1,12 +1,10 @@
 # 古典印度哲学中的知觉经验与概念 perceptual experience and concepts (Monima Chadha)
 
-_首次发表于2010年12月2日，实质修订于2021年1月12日_
+*首次发表于2010年12月2日，实质修订于2021年1月12日*
 
 古典印度哲学接受知觉经验作为知识的主要手段（pramāṇa）。知觉经验（pratyakṣa）在词源上根源于感官或感官器官（akṣa），可以翻译为感知意识，而 pramāṇa 则源自知识（pramā），字面意思是“认知行为中的工具”。然而，古典印度哲学家对知觉的标准解释（除了佛教徒和吠陀派）是，它是在自我内部产生的认知——知识主体——从感官对象接触后的心理运作中产生的。因此，它既不是认知行为中的工具，也不仅仅是感知意识。下面的第 2 节中给出了各种古典印度哲学流派对知觉的定义。
 
 概念也是如此。在古典印度哲学中，对概念理解为一般术语的意义没有一个统一的概念或定义。相反，我们有各种观点，从将概念视为真实属性、本质或普遍性的坚实实在主义，到只承认具有唯一性的个别事物的极端名义主义，以及介于两者之间的概念主义的版本。坚实实在主义立场由 Nyāya-Vaiśeṣika 和 Mīmāṃsā学派辩护，名义主义由佛教学派辩护，概念主义由吠陀派和耆那教徒辩护。我将不在这里讨论概念主义立场或他们的论证，因为最终这个立场会崩溃成为一种实在主义或名义主义的版本。
-
- 
 
 ***
 
@@ -178,7 +176,7 @@ apoha教义和Ganeri的混合版本可能很巧妙，但这与能够满足印度
 
 对这种观点的标准回应是依靠直觉，即虚幻经验是寄生在真实经验之上的。纳亚亚学派的瓦奇亚亚纳解释说，错误的认知依赖于一个主要认知作为其基础。“这是一个人”对于一根树干来说，它不是一个人，它的基础是一个关于一个人的主要认知。如果过去从未感知到一个人，那么在不是一个人的东西中产生一个关于一个人的错误认知是不可能的（《尼亚亚经论注释》，4.2.35）。同样的论点也被不二论的创始人善卡拉提出。他挑战婆罗门学派的观点，认为它是不连贯的；当佛教徒说“作为内部意识的内容似乎是外部的”时，他们实际上是假设了外部事物的存在，即使他们否认它...因为他们使用了“似乎”这个词...因为他们意识到有一个认知在外部出现...因为没有人会这样说：维什努米特拉看起来像一个不孕的女人的儿子。（《梵经论注释》，2.2.28）
 
-> assuming the existence of an external thing even while they deny it … For they use the phrase ‘as though’ … because they become aware of a cognition appearing externally … For nobody speaks thus: Viṣnumitra appears like the son of a barren woman. (_Brahma-Sūtra-Bhāṣya_, 2.2.28)
+> assuming the existence of an external thing even while they deny it … For they use the phrase ‘as though’ … because they become aware of a cognition appearing externally … For nobody speaks thus: Viṣnumitra appears like the son of a barren woman. (*Brahma-Sūtra-Bhāṣya*, 2.2.28)
 
 Feldman（2005年，第534页）认为，这并不足以击败瓦苏班度的唯心主义。毫无疑问，x的幻觉经验需要一个记忆印象，这可以由先前的认知产生，但并不需要先前的经验是真实的，因为这样的印象可以由幻觉经验产生。Feldman举了一个只在梦中经历过蛇的人的例子。他可以把绳子误认为蛇，因为先前的梦境经验提供了必要的记忆印象。然而，Feldman的论点忽略了瓦茨亚亚纳和尚卡拉提出的关切的重要性。他们以我们无法想象（梦见、幻觉等）一个绝对不真实的事物，比如一个不孕的女人的儿子，为理由来反驳瓦苏班度的论点。在这里，背后起作用的是尼亚亚的想象理论，它认为想象某事物就是将属于一种事物的属性叠加或归因于一种不同种类的事物，前提是两种对象之间存在某种相似性（乌迪约塔卡拉的尼亚亚-苏特拉-巴沙，3.1.1）。例如，想象一个半人半马是将属于人类的属性归于马的事物。两种事物之间有一些共同之处：都是动物，都有腿。然而，一个“绝对不真实”的事物没有任何属性，因此更不可能与现实存在的事物有任何共同之处。因此，它们不能成为想象的对象。
 
@@ -190,61 +188,61 @@ Uddyotakara 在反对怀疑论者方面提出了更强的论据。在他的 Nyā
 
 ### Texts in English translation
 
-* Aksapada Gautama, _Nyāya-Sūtra, with Vatsyayana’s Nyayabhasya, Uddyotakara’s Nyayavartikka, and Udayana’a Parisuddhi_, A. Thakur (ed. and trans.), vol. 1, Mithila, 1967.
-* Bhartr̥hari, _Vākyapadīya_, Abhyankar K.V. and Limaye V.P. (eds.), Poona University, 1965.
-* Gaṅgeśa, _Tattvacintāmaṇi_, _Epistemology Of Perception: Gaṅgeśa’s_ _Tattvacintāmaṇi, Jewel Of Reflection On The Truth (About Epistemology): The Perception Chapter (Pratyakṣa-khaṇḍa), Transliterated Text, Translation, And Philosophical Commentary_, by Stephen H. Phillips and N.S. Ramanuja Tatacharya. Treasury of the Indic Sciences. New York: American Institute of Buddhist Studies, 2004.
-* Jayanta Bhatta _Nyayamanjari: The Buddhist Refutation of jati_. A Critical Edition (trans.) Kei Kataoka in _The Memoirs of Institute for Advanced Studies on Asia_, 160: 636(1)–594(43), 2011.
-* Uddyotakara, “_NyāyaVārttika”_, in _The Nyāya-Sūtras of Gauṭama: With the Nyāya-sūtra-Bhāṣya of Vātsyāyana and the Nyaya-Vartika of Uddyotakara_, Gangānāṭha Jhā (trans.), Delhi: Motilal Banarsidass, 1984.
-* Uddyotakara, “The Nyāya Proofs for the Existence of the Soul”,  Translations from the introductory commentary on _Nyāya-Sūtra-Bhāṣya_, Arindam Chakrabarti (trans.), published as an appendix to A. Chakrabarti, _Journal of Indian Philosophy_, 10: 211–238, (1982).
-* Vācaspati Miśra, _Nyāyavārttikatātparyaṭīkā_, Anantlal Thaur (ed.), Indian Council of Philosophical Research, 1996.
-* Vasubandhu, _Viṃśatikā-Vṛtti_, _Triṃśatika_, and _Tri-Svabhāva-Nirdeśa_, Thomas Kochumuttom (trans.), in _A Buddhist Doctrine of Experience: A New Translation and Interpretation of the Works of Vasubandhu the Yogācārin_, Delhi: Motilal Banarsidass, 1982.
-* Kumarila Bhatta,  _A Hindu Critique of Buddhist Epistemology_: _The ‘Determination of Perception’ Chapter of Kumarila Bhatta’s Slokavarttika_ commentary by J. Taber (trans.), Routledge Curzon Hindu Studies Series, New York: Routledge Curzon, 2005.
-* Kumarila Bhatta, _Kumārila on Apoha: an Annotated Translation of the Apoha Chapter of Kumārila’s Ślokavārttika_, in “Meaning and Non-existence: Kumārila’s Refutation of Dignāga’s Theory of Exclusion,” trans. John Taber and Kei Kataoka (_forthcoming_). Wien: Verlag der Österreichischen Akademie der Wissenschaften, forthcoming.
-* Dharmakīrti, _Dharmakīrti’s Theory of Exclusion (Apoha). Part 1, On Concealing: An Annotated Translation of Pramāṇavārttikasvavṛtti 24, 16–45, 20 (Pramāṇavārttika 1.40– 91)_ by Vincent Eltschinger, John Taber, Michael Torsten Much, and Isabelle Ratié, Tokyo: International Institute for Buddhist Studies, 2018.
+* Aksapada Gautama, *Nyāya-Sūtra, with Vatsyayana’s Nyayabhasya, Uddyotakara’s Nyayavartikka, and Udayana’a Parisuddhi*, A. Thakur (ed. and trans.), vol. 1, Mithila, 1967.
+* Bhartr̥hari, *Vākyapadīya*, Abhyankar K.V. and Limaye V.P. (eds.), Poona University, 1965.
+* Gaṅgeśa, *Tattvacintāmaṇi*, *Epistemology Of Perception: Gaṅgeśa’s* *Tattvacintāmaṇi, Jewel Of Reflection On The Truth (About Epistemology): The Perception Chapter (Pratyakṣa-khaṇḍa), Transliterated Text, Translation, And Philosophical Commentary*, by Stephen H. Phillips and N.S. Ramanuja Tatacharya. Treasury of the Indic Sciences. New York: American Institute of Buddhist Studies, 2004.
+* Jayanta Bhatta *Nyayamanjari: The Buddhist Refutation of jati*. A Critical Edition (trans.) Kei Kataoka in *The Memoirs of Institute for Advanced Studies on Asia*, 160: 636(1)–594(43), 2011.
+* Uddyotakara, “*NyāyaVārttika”*, in *The Nyāya-Sūtras of Gauṭama: With the Nyāya-sūtra-Bhāṣya of Vātsyāyana and the Nyaya-Vartika of Uddyotakara*, Gangānāṭha Jhā (trans.), Delhi: Motilal Banarsidass, 1984.
+* Uddyotakara, “The Nyāya Proofs for the Existence of the Soul”,  Translations from the introductory commentary on *Nyāya-Sūtra-Bhāṣya*, Arindam Chakrabarti (trans.), published as an appendix to A. Chakrabarti, *Journal of Indian Philosophy*, 10: 211–238, (1982).
+* Vācaspati Miśra, *Nyāyavārttikatātparyaṭīkā*, Anantlal Thaur (ed.), Indian Council of Philosophical Research, 1996.
+* Vasubandhu, *Viṃśatikā-Vṛtti*, *Triṃśatika*, and *Tri-Svabhāva-Nirdeśa*, Thomas Kochumuttom (trans.), in *A Buddhist Doctrine of Experience: A New Translation and Interpretation of the Works of Vasubandhu the Yogācārin*, Delhi: Motilal Banarsidass, 1982.
+* Kumarila Bhatta,  *A Hindu Critique of Buddhist Epistemology*: *The ‘Determination of Perception’ Chapter of Kumarila Bhatta’s Slokavarttika* commentary by J. Taber (trans.), Routledge Curzon Hindu Studies Series, New York: Routledge Curzon, 2005.
+* Kumarila Bhatta, *Kumārila on Apoha: an Annotated Translation of the Apoha Chapter of Kumārila’s Ślokavārttika*, in “Meaning and Non-existence: Kumārila’s Refutation of Dignāga’s Theory of Exclusion,” trans. John Taber and Kei Kataoka (*forthcoming*). Wien: Verlag der Österreichischen Akademie der Wissenschaften, forthcoming.
+* Dharmakīrti, *Dharmakīrti’s Theory of Exclusion (Apoha). Part 1, On Concealing: An Annotated Translation of Pramāṇavārttikasvavṛtti 24, 16–45, 20 (Pramāṇavārttika 1.40– 91)* by Vincent Eltschinger, John Taber, Michael Torsten Much, and Isabelle Ratié, Tokyo: International Institute for Buddhist Studies, 2018.
 
 ### General works
 
-* Armstrong, D. M., 1978, _Universals and Scientific Realism_ (Volumes I and II), Cambridge: Cambridge University Press.
-* Appelbaum, D., 1982, “A Note on Pratyakṣa in Advaita Vedānta”, _Philosophy East and West_ 32:2, pp. 201–205.
-* Bhatt, Govardhan P., 1989, _The Basic Ways of Knowing_, Delhi: Motilal Banarsidass.
-* Bhattacharyya, Sibajiban, 1987, _Gangesa’s Theory of Indeterminate Perception Part 2: Containing the text of Gangesa’s Nirvikalpakavada with an English translation and explanatory notes_. Indian Council of Philosophical Research, New Delhi.
-* Bilimoria, P., 1980, “Perception (Pratyakṣa) in Advaita Vedānta”, _Philosophy East and West_, 30(1): 35–44.
-* Chadha, M., 2014, “On Knowing Universals: The Nyāya Way”, _Philosophy East and West_, 64(3): 287–303.
-* –––, 2001, “Perceptual Cognition: A Nyāya-Kantian Approach”, _Philosophy East and West_, 51(2): 197–209
-* –––, 2004, “Perceiving Particulars-as-Such Is Incoherent: A Reply to Mark Siderits”, _Philosophy East and West_, 54(3): 382–389
-* –––, 2006, “Yet Another Attempt to Salvage Pristine Perceptions!”, _Philosophy East and West_, 56(2): 333–342
-* Chakrabarti, A., 2000, “Against Immaculate Perception: Seven Reasons for Eliminating Nirvikalpaka Perceptions from Nyāya”, _Philosophy East and West_, 50(1): 1–8.
-* –––, 2006, “On Perceiving Properties”, in P.F. Strawson, and A. Chakrabarti (eds.), _Universals, Concepts and Qualities: New Essays on the Meaning of Predicates_, Aldershot: Ashgate, pp. 309–319.
-* –––, 2001, “Reply to Stephen Phillips”, _Philosophy East and West_, 51(1): 114–115.
-* –––, 2004, “Seeing Without Recognizing? More on Denuding Perceptual Content”, _Philosophy East and West_, 54(3): 365–367
-* –––, 1995, “Non-Particular Individuals”, in P. K. Sen and R. R. Verma (eds.), _The Philosophy of P. F. Strawson_, New Delhi: Indian Council of Philosophical Research, pp. 124–144.
-* Chakrabarti K., 1975, “The Nyāya-Vaiśeṣika theory of universals”, _Journal of Indian Philosophy_, 3: 363–382.
-* Chaturvedi, A., 2020, “There is Something Wrong with Raw Perception, After All: Vyāsatīrtha’s Refutation of Nirvikalpaka-Pratyakṣa”, _Journal of Indian Philosophy_, 48: 255–314.
-* Coseru, C., 2012, _Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy_, New York: Oxford University Press.
-* Dreyfus, G. B. J., 2011, “Apoha as a Naturalized account of Concept Formation”, in M. Siderits, T. Tillemans, and A. Chakrabarti (eds.), _Apoha: Buddhist Nominalism and Human Cognition_, New York: Columbia University Press, pp. 207–228.
-* –––, 1997, _Recognizing reality: Dharmakīrti’s philosophy and its Tibetan interpretations_, New York: State University of New York Press.
-* Feldman, J., 2005, “Vasubandhu’s Illusion Argument and the Parasitism of Illusion upon Veridical Experience”, _Philosophy East and West_, 55(4): 529–541.
-* Ganeri, J., 2011, “Apoha, Feature Placing and Sensory Content”, in M. Siderits, T. Tillemans, and A. Chakrabarti (eds.), _Apoha: Buddhist Nominalism and Human Cognition_, New York: Columbia University Press, pp. 228–46.
-* Gupta, B., Dharmarajadhvarindra, and Anantakrishna Sastri, N. S., 1991, _Perceiving in Advaita Vedanta: Ppistemological Analysis and Interpretation_, London: Associated University Presses.
-* Kellner, Brigit, 2004, “Why Infer and not Just Look? Dharmakīrti on the Psychology of Inferential Processes”, in _The Role of the Example (Drṣṭānta) in Classical Indian Logic_, Shoryu Katsura and Ernst Steinkellner (eds.), Wien: Arbeitskreis für tibetische und buddhistische Studien, Universität Wien.
-* –––, 2017a, “Proving Idealism: Dharmakīrti”, _Oxford Hanbook of Indian Philosophy_, Oxford: Oxford University Press, 307–326.
-* –––, 2017b, “Proofs of Idealism in Buddhist Epistemology: Dharmakīrti’s Refutation of External Objects”, in Jorg Tuske (ed.), _Indian Epistemology and Metaphysics_, London: Bloomsbury Academic, 102–128.
-* Kellner, B. and Taber, J., 2014, “Studies in Yogācāra-Vijñānavāda idealism I: The interpretation of Vasubandhu’s Viṃśikā”, _Asiatische Studien – Études Asiatiques_, 68(3): 709–756. doi:10.1515/asia-2014-0060
-* Lewis, D., 1983, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61: 343–77.
-* Lusthaus, D., 2002, _Buddhist Phenomenology: A Philosophical Investigation of Yogacara Buddhism and the Ch’eng Wei-shih Lun_ (Curzon Critical Studies in Buddhism Series), London: Routledge.
-* Matilal, B.K., 1971, _Epistemology, Logic, and Grammar in Indian Philosophical Analysis_, Berlin: De Gruyter.
-* –––, 1986, _Perception: An Essay on Classical Indian Theories of Knowledge_, Oxford: Clarendon Press.
-* Mohanty, J.N., 2000, _Classical Indian Philosophy_, Lanham, MD: Rowman and Littlefield.
-* Mondal, P. K., 1982, “Some aspects of perception in old Nyaya”, _Journal of Indian Philosophy_, 10(4): 357–376.
-* Phillips, S. H., 2001, “There’s Nothing Wrong with Raw Perception: A Response to Chakrabarti’s Attack on Nyāya’s ‘Nirvikalpaka Pratyakṣa’”, _Philosophy East and West_, 51(1): 104–113
-* –––, 2004, “Perceiving Particulars Blindly: Remarks on a Nyāya-Buddhist Controversy”, _Philosophy East and West_, 54(3): 389–403
-* –––, 2019, “Perception in Nyāya”, in B. Glenney and J. F. Silva (eds.) _The Senses and the History of Philosophy_, London: Routledge.
-* Sen, P.K., 2011, “The Apoha Theory of Meaning: A Critical Account”, in _Apoha: Buddhist Nominalism and Human Cognition_, edited by Mark Siderits, Tom Tillemans, and Arindam Chakrabarti, New York: Columbia University Press.
-* Siderits, M., 2004, “Perceiving Particulars: A Buddhist Defense”, _Philosophy East and West_, 54(3): 367–382.
-* Taber, J., 2017, “A Road Not Taken in Indian Epistemology: Kumārila’s Defense of the Perceptibility of Universals”, in J. Tuske (ed.), _Indian Epistemology and Metaphysics_, London: Bloomsbury Academic, pp. 234–269.
-* Taber, J. and Kataoka, K. (forthcoming). _Meaning and Non-existence: Kumārila’s Refutation of Dignāga’s Theory of Exclusion_, Wein: Verlag der Österreichischen Akademie der Wissenschaften.
-* Thrasher, A. W., 1993, _The Advaita Vedanta of_ Brahma-Siddhi, Delhi: Motilal Banarsidas.
-* Wezler, A. and Motegi, S., 1998, (eds.) _Yuktidipika_: The Most Significant Commentary on the _Samkhyakarika_, Volume 1 (Alt und Neu-Indische Studien, No. 41), Stuttgart: Franz Steiner Verlag.
+* Armstrong, D. M., 1978, *Universals and Scientific Realism* (Volumes I and II), Cambridge: Cambridge University Press.
+* Appelbaum, D., 1982, “A Note on Pratyakṣa in Advaita Vedānta”, *Philosophy East and West* 32:2, pp. 201–205.
+* Bhatt, Govardhan P., 1989, *The Basic Ways of Knowing*, Delhi: Motilal Banarsidass.
+* Bhattacharyya, Sibajiban, 1987, *Gangesa’s Theory of Indeterminate Perception Part 2: Containing the text of Gangesa’s Nirvikalpakavada with an English translation and explanatory notes*. Indian Council of Philosophical Research, New Delhi.
+* Bilimoria, P., 1980, “Perception (Pratyakṣa) in Advaita Vedānta”, *Philosophy East and West*, 30(1): 35–44.
+* Chadha, M., 2014, “On Knowing Universals: The Nyāya Way”, *Philosophy East and West*, 64(3): 287–303.
+* –––, 2001, “Perceptual Cognition: A Nyāya-Kantian Approach”, *Philosophy East and West*, 51(2): 197–209
+* –––, 2004, “Perceiving Particulars-as-Such Is Incoherent: A Reply to Mark Siderits”, *Philosophy East and West*, 54(3): 382–389
+* –––, 2006, “Yet Another Attempt to Salvage Pristine Perceptions!”, *Philosophy East and West*, 56(2): 333–342
+* Chakrabarti, A., 2000, “Against Immaculate Perception: Seven Reasons for Eliminating Nirvikalpaka Perceptions from Nyāya”, *Philosophy East and West*, 50(1): 1–8.
+* –––, 2006, “On Perceiving Properties”, in P.F. Strawson, and A. Chakrabarti (eds.), *Universals, Concepts and Qualities: New Essays on the Meaning of Predicates*, Aldershot: Ashgate, pp. 309–319.
+* –––, 2001, “Reply to Stephen Phillips”, *Philosophy East and West*, 51(1): 114–115.
+* –––, 2004, “Seeing Without Recognizing? More on Denuding Perceptual Content”, *Philosophy East and West*, 54(3): 365–367
+* –––, 1995, “Non-Particular Individuals”, in P. K. Sen and R. R. Verma (eds.), *The Philosophy of P. F. Strawson*, New Delhi: Indian Council of Philosophical Research, pp. 124–144.
+* Chakrabarti K., 1975, “The Nyāya-Vaiśeṣika theory of universals”, *Journal of Indian Philosophy*, 3: 363–382.
+* Chaturvedi, A., 2020, “There is Something Wrong with Raw Perception, After All: Vyāsatīrtha’s Refutation of Nirvikalpaka-Pratyakṣa”, *Journal of Indian Philosophy*, 48: 255–314.
+* Coseru, C., 2012, *Perceiving Reality: Consciousness, Intentionality, and Cognition in Buddhist Philosophy*, New York: Oxford University Press.
+* Dreyfus, G. B. J., 2011, “Apoha as a Naturalized account of Concept Formation”, in M. Siderits, T. Tillemans, and A. Chakrabarti (eds.), *Apoha: Buddhist Nominalism and Human Cognition*, New York: Columbia University Press, pp. 207–228.
+* –––, 1997, *Recognizing reality: Dharmakīrti’s philosophy and its Tibetan interpretations*, New York: State University of New York Press.
+* Feldman, J., 2005, “Vasubandhu’s Illusion Argument and the Parasitism of Illusion upon Veridical Experience”, *Philosophy East and West*, 55(4): 529–541.
+* Ganeri, J., 2011, “Apoha, Feature Placing and Sensory Content”, in M. Siderits, T. Tillemans, and A. Chakrabarti (eds.), *Apoha: Buddhist Nominalism and Human Cognition*, New York: Columbia University Press, pp. 228–46.
+* Gupta, B., Dharmarajadhvarindra, and Anantakrishna Sastri, N. S., 1991, *Perceiving in Advaita Vedanta: Ppistemological Analysis and Interpretation*, London: Associated University Presses.
+* Kellner, Brigit, 2004, “Why Infer and not Just Look? Dharmakīrti on the Psychology of Inferential Processes”, in *The Role of the Example (Drṣṭānta) in Classical Indian Logic*, Shoryu Katsura and Ernst Steinkellner (eds.), Wien: Arbeitskreis für tibetische und buddhistische Studien, Universität Wien.
+* –––, 2017a, “Proving Idealism: Dharmakīrti”, *Oxford Hanbook of Indian Philosophy*, Oxford: Oxford University Press, 307–326.
+* –––, 2017b, “Proofs of Idealism in Buddhist Epistemology: Dharmakīrti’s Refutation of External Objects”, in Jorg Tuske (ed.), *Indian Epistemology and Metaphysics*, London: Bloomsbury Academic, 102–128.
+* Kellner, B. and Taber, J., 2014, “Studies in Yogācāra-Vijñānavāda idealism I: The interpretation of Vasubandhu’s Viṃśikā”, *Asiatische Studien – Études Asiatiques*, 68(3): 709–756. doi:10.1515/asia-2014-0060
+* Lewis, D., 1983, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61: 343–77.
+* Lusthaus, D., 2002, *Buddhist Phenomenology: A Philosophical Investigation of Yogacara Buddhism and the Ch’eng Wei-shih Lun* (Curzon Critical Studies in Buddhism Series), London: Routledge.
+* Matilal, B.K., 1971, *Epistemology, Logic, and Grammar in Indian Philosophical Analysis*, Berlin: De Gruyter.
+* –––, 1986, *Perception: An Essay on Classical Indian Theories of Knowledge*, Oxford: Clarendon Press.
+* Mohanty, J.N., 2000, *Classical Indian Philosophy*, Lanham, MD: Rowman and Littlefield.
+* Mondal, P. K., 1982, “Some aspects of perception in old Nyaya”, *Journal of Indian Philosophy*, 10(4): 357–376.
+* Phillips, S. H., 2001, “There’s Nothing Wrong with Raw Perception: A Response to Chakrabarti’s Attack on Nyāya’s ‘Nirvikalpaka Pratyakṣa’”, *Philosophy East and West*, 51(1): 104–113
+* –––, 2004, “Perceiving Particulars Blindly: Remarks on a Nyāya-Buddhist Controversy”, *Philosophy East and West*, 54(3): 389–403
+* –––, 2019, “Perception in Nyāya”, in B. Glenney and J. F. Silva (eds.) *The Senses and the History of Philosophy*, London: Routledge.
+* Sen, P.K., 2011, “The Apoha Theory of Meaning: A Critical Account”, in *Apoha: Buddhist Nominalism and Human Cognition*, edited by Mark Siderits, Tom Tillemans, and Arindam Chakrabarti, New York: Columbia University Press.
+* Siderits, M., 2004, “Perceiving Particulars: A Buddhist Defense”, *Philosophy East and West*, 54(3): 367–382.
+* Taber, J., 2017, “A Road Not Taken in Indian Epistemology: Kumārila’s Defense of the Perceptibility of Universals”, in J. Tuske (ed.), *Indian Epistemology and Metaphysics*, London: Bloomsbury Academic, pp. 234–269.
+* Taber, J. and Kataoka, K. (forthcoming). *Meaning and Non-existence: Kumārila’s Refutation of Dignāga’s Theory of Exclusion*, Wein: Verlag der Österreichischen Akademie der Wissenschaften.
+* Thrasher, A. W., 1993, *The Advaita Vedanta of* Brahma-Siddhi, Delhi: Motilal Banarsidas.
+* Wezler, A. and Motegi, S., 1998, (eds.) *Yuktidipika*: The Most Significant Commentary on the *Samkhyakarika*, Volume 1 (Alt und Neu-Indische Studien, No. 41), Stuttgart: Franz Steiner Verlag.
 
 ## Academic Tools
 
@@ -263,4 +261,4 @@ Uddyotakara 在反对怀疑论者方面提出了更强的论据。在他的 Nyā
 [Early Modern India, analytic philosophy in](https://plato.stanford.edu/entries/early-modern-india/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [perception: epistemological problems of](https://plato.stanford.edu/entries/perception-episprob/) | [perception: the contents of](https://plato.stanford.edu/entries/perception-contents/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Monima Chadha <[_Monima.Chadha@arts.monash.edu.au_](mailto:Monima%2eChadha%40arts%2emonash%2eedu%2eau)>
+Monima Chadha <[*Monima.Chadha@arts.monash.edu.au*](mailto:Monima%2eChadha%40arts%2emonash%2eedu%2eau)>

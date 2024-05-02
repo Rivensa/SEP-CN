@@ -1,9 +1,8 @@
 # 阿拉伯和伊斯兰自然哲学与自然科学 Arabic and Islamic Natural Philosophy and Natural Science
 
-_首次发表于 2006 年 12 月 19 日；实质性修订于 2022 年 2 月 3 日_
+*首次发表于 2006 年 12 月 19 日；实质性修订于 2022 年 2 月 3 日*
 
-自然哲学，或物理学，在严格意义上是对自然的研究；然而，由于大多数中世纪自然哲学家所指的“自然”是指属于某种本质的变化或运动的内在原理，因此自然哲学更具体地被认定为对物体的研究，因为它们是运动的主体，因此也与运动所必需的条件有关，如无限、位置、虚空和时间。在中世纪的阿拉伯语世界中，有两个主要的知识传统进行自然哲学的研究：伊斯兰神学（_kalam_）和哲学（_falsafa_）。伊斯兰神学一般从一个原子论的框架来探讨物理问题，对于其中一些神学家来说，这个框架不仅适用于物体的构成，还适用于运动和时间，最终在后来的伊斯兰神学家中形成了一种只将因果代理权保留给上帝的偶然论世界观。哲学（_falsafa_）则源于希腊的知识世界，更具体地说是源于亚里士多德的哲学思想，后来由后期亚里士多德学派和新柏拉图主义评论家解释，并由伽利略在生物学和解剖学以及托勒密在天文学方面进行了补充。以下内容首先介绍了伊斯兰神学家中的原子论理论，然后是阿拉伯语哲学家对亚里士多德自然哲学的发展以及他们在该领域的独特贡献。
-
+自然哲学，或物理学，在严格意义上是对自然的研究；然而，由于大多数中世纪自然哲学家所指的“自然”是指属于某种本质的变化或运动的内在原理，因此自然哲学更具体地被认定为对物体的研究，因为它们是运动的主体，因此也与运动所必需的条件有关，如无限、位置、虚空和时间。在中世纪的阿拉伯语世界中，有两个主要的知识传统进行自然哲学的研究：伊斯兰神学（*kalam*）和哲学（*falsafa*）。伊斯兰神学一般从一个原子论的框架来探讨物理问题，对于其中一些神学家来说，这个框架不仅适用于物体的构成，还适用于运动和时间，最终在后来的伊斯兰神学家中形成了一种只将因果代理权保留给上帝的偶然论世界观。哲学（*falsafa*）则源于希腊的知识世界，更具体地说是源于亚里士多德的哲学思想，后来由后期亚里士多德学派和新柏拉图主义评论家解释，并由伽利略在生物学和解剖学以及托勒密在天文学方面进行了补充。以下内容首先介绍了伊斯兰神学家中的原子论理论，然后是阿拉伯语哲学家对亚里士多德自然哲学的发展以及他们在该领域的独特贡献。
 
 ***
 
@@ -13,7 +12,7 @@ _首次发表于 2006 年 12 月 19 日；实质性修订于 2022 年 2 月 3 �
 
 尽管一些早期的穆斯林神学家认为基本上只有偶然事件存在，而物体是由一束束偶然事件组成的，而其他人则认为只有实体物体存在，其他一切都是由这些物体相互渗透而构成的，但大多数穆斯林神学家在他们的本体论中都包括了原子和偶然事件，以及上帝。这种本体论被证明是合理的一种方式是从世界的时间性创造开始的。有人认为，如果世界没有被创造，那么就会经历无限多的过去日子；然而，无限，更不用说穿越它了，是不可能的，这是不言而喻的。因此，世界必须在某个最初的时刻被创造。在这种情况下，世界必须有一个创造者。因此，有创造者，即上帝，和被创造物。被创造物进一步分为占据空间的物质或原子，以及不占据空间的偶然事件。
 
-对于穆斯林神学家来说，占据空间（_taḥayyuz_）是任何事物成为实体的必然结果，而占据空间这一属性证实了实体的存在；因为占据空间被认为是一种直接被感知的属性，因此无法被否认。因此，实体的存在是一种直接的认知。大多数穆斯林神学家还认为这些实体也具有原子结构。这并不意味着他们认为人类可以直接感知单个原子的存在，他们并不认为可以；然而，他们相信可以证明世界的最终物质构成部分必须是离散的，而不是连续的。总的来说，他们关于原子而不是连续物质的论证使用了涉及无限的悖论。例如，有人认为，如果一个物体是连续的，那么它将是无限可分的，这种情况下，物体将有无限多个部分，所有这些部分都粘在一起形成物体，并与无限多的分割相对应。然而，实际无限的存在是荒谬的，因此物体的分割必须在有限数量的不可分割的部分或原子处终止。说物体只有潜在无限多个部分与分割相对应而不是实际无限多个部分是没有用的；因为有人认为，如果某物真正是潜在的，那么某个能够实现这种潜在性的因素，比如上帝，必须具有带来或实现这种潜在性的能力。因此，让上帝带来所谓的潜在无限多个分割，这种情况下将会有实际无限多个部分，这又是荒谬的。同样，说这些分割既不是实际的也不是潜在的，只是想象的，是没有用的，因为真正不可能的事物是无法想象的，而且据信，实际无限的存在是真正不可能的。关于物质的原子结构的另一个论证是对泽诺的二分悖论的变体，以蚂蚁爬过一只凉鞋为例。论证认为，如果一个物体是连续的，那么当一只蚂蚁试图穿过一只凉鞋时，它首先需要到达凉鞋的中点，但在它到达中点之前，它需要到达它的中点，依此类推，无限次。由于无法穿越无限，蚂蚁永远无法穿过凉鞋，但当然像凉鞋这样的物体是可以穿过的，因此物体不能是连续的，而必须由有限数量的原子部分组成。另一个论证观察到，大小的差异是由构成物体的组成部分的数量差异所解释的。现在，如果物体是连续的，因此由无限多个部分组成，那么构成芥末籽的部分和构成山的部分的数量将是相同的，即无限。因此，这两个物体在大小上不应该有差异；因为一个无限不能超过另一个，然而这样的结论显然是错误的。最终，大多数伊斯兰思辨神学家得出结论，构成宇宙的物质必须是离散的，而不是连续的。
+对于穆斯林神学家来说，占据空间（*taḥayyuz*）是任何事物成为实体的必然结果，而占据空间这一属性证实了实体的存在；因为占据空间被认为是一种直接被感知的属性，因此无法被否认。因此，实体的存在是一种直接的认知。大多数穆斯林神学家还认为这些实体也具有原子结构。这并不意味着他们认为人类可以直接感知单个原子的存在，他们并不认为可以；然而，他们相信可以证明世界的最终物质构成部分必须是离散的，而不是连续的。总的来说，他们关于原子而不是连续物质的论证使用了涉及无限的悖论。例如，有人认为，如果一个物体是连续的，那么它将是无限可分的，这种情况下，物体将有无限多个部分，所有这些部分都粘在一起形成物体，并与无限多的分割相对应。然而，实际无限的存在是荒谬的，因此物体的分割必须在有限数量的不可分割的部分或原子处终止。说物体只有潜在无限多个部分与分割相对应而不是实际无限多个部分是没有用的；因为有人认为，如果某物真正是潜在的，那么某个能够实现这种潜在性的因素，比如上帝，必须具有带来或实现这种潜在性的能力。因此，让上帝带来所谓的潜在无限多个分割，这种情况下将会有实际无限多个部分，这又是荒谬的。同样，说这些分割既不是实际的也不是潜在的，只是想象的，是没有用的，因为真正不可能的事物是无法想象的，而且据信，实际无限的存在是真正不可能的。关于物质的原子结构的另一个论证是对泽诺的二分悖论的变体，以蚂蚁爬过一只凉鞋为例。论证认为，如果一个物体是连续的，那么当一只蚂蚁试图穿过一只凉鞋时，它首先需要到达凉鞋的中点，但在它到达中点之前，它需要到达它的中点，依此类推，无限次。由于无法穿越无限，蚂蚁永远无法穿过凉鞋，但当然像凉鞋这样的物体是可以穿过的，因此物体不能是连续的，而必须由有限数量的原子部分组成。另一个论证观察到，大小的差异是由构成物体的组成部分的数量差异所解释的。现在，如果物体是连续的，因此由无限多个部分组成，那么构成芥末籽的部分和构成山的部分的数量将是相同的，即无限。因此，这两个物体在大小上不应该有差异；因为一个无限不能超过另一个，然而这样的结论显然是错误的。最终，大多数伊斯兰思辨神学家得出结论，构成宇宙的物质必须是离散的，而不是连续的。
 
 然而，学者们对这些神学家物理学中所假设的不可分割部分是应该被视为有延展性还是点状的问题存在分歧。Shlomo Pines 认为，尽管后来的穆斯林神学家认为原子具有一定的尺寸，因此被认为是有延展性的，但早期的神学家将其看作是点状的。Pines 于 1936 年撰写了他关于伊斯兰原子论的开创性研究《Beiträge zur islamischen Atomenlehre》；然而，自那时以来，更多的_kalām_文本已经问世。根据这些新的来源，Alnoor Dhanani（Dhanani 1994, 90–140）成功地挑战了 Pines 的观点，并提出了早期和后来的穆斯林神学家的原子类似于伊壁鸠鲁的最小部分的论点。在这方面，原子是最小的占据空间单位，具有完全简单的内部结构。因此，原子既没有物理特征也没有概念特征，可以将其分割。由于对原子的这种理解，尽管它们作为构成它们的各种大小的组成部分（如线、平面和固体）的组件发挥作用，但从技术上讲，它们不能被称为具有长度、宽度和深度；因为长度、宽度和深度总是由极限所限制，而原子根本就没有极限，而是扮演着那些具有长度、宽度和深度的事物的极限本身的角色。
 
@@ -39,21 +38,21 @@ _首次发表于 2006 年 12 月 19 日；实质性修订于 2022 年 2 月 3 �
 
 与运动和变化相关的问题是因果关系，即“是什么或谁引起了变化？”许多早期神学家都支持一种称为“tawallud”的生成论，这保留了人类的一定程度的因果效力，而大多数后来的神学家则采取了一种偶然论的世界观，将所有的能动性都保留给了上帝。对于早期神学家来说，因果效力需要一个完全的知识（ʿilm），即知道自己在行动以及行动的结果。因此，因果效力仅限于上帝和人类。大多数早期神学家认为人类有能力产生某些行动。问题是，人类是否仅在自己身上产生行动，还是也在其他事物上产生行动。那些认为人类可以在自己以外的事物上产生效果的人使用了一个关于代理的知识标准的论证。他们举例说，当一个人打另一个人时，他知道打另一个人，这种情况下的知识是关于打另一个人的行动（al-Ashʿarī 1980, 401–402）。概括来说，这个论证似乎是说，如果一个人知道自己是一个行动者（早期神学家默认人类是行动者），那么他必须知道他的行动的效果，然而他知道某些行动的效果在其他人身上，比如打人并造成疼痛。相反，其他人认为人类只在自己内部产生行动，而是上帝在其他人身上产生效果，例如，一个人可能产生愿意扔石头的行动，但是是上帝实际上使石头移动。为了捍卫这个论点，有一种方法是观察到上帝一次性创造所有的物体，并且在每一刻都重新创造它们（Ibid, 404）。这个假设似乎是，由于上帝在每一刻都重新创造人类或其他物体，因此没有一个物体在两个时刻之间存活，以至于在一个时刻在人体中产生的意愿行动在第二个时刻对某个其他物体具有因果效力；因为从某种意义上说，一个时刻的意愿行动的任何所谓效力与第二个时刻的事件完全无关。
 
-这个后一种论证的逻辑结论实际上几乎等同于偶然论，也就是说，每一刻上帝都重新创造世界，包括其原子和意外事件，以及所有的行动，无论是人类的还是其他的，因此只有上帝才是引起我们世界发生事件的原因。事实上，后来的神学家们会接受这样一种偶然论的世界观。然而，他们更喜欢的偶然论论证并不是上面概述的那种，而是基于可能性（_istiṭāʿa_）的论证。\[[3](https://plato.stanford.edu/entries/arabic-islamic-natural/notes.html#note-3)] 大致上，这个论证是说，只有当一个生物具备执行某个行动的可能性时，它才会执行这个行动。每当生物具备这个可能性时，这个可能性要么被实现，要么没有。一方面，肯定一个未实现的存在物，比如一个未实现的可能性，等同于肯定一个不存在的存在物，这是一个明显的矛盾。另一方面，如果可能性被实现，那么生物必须执行相应的行动，并且当它具备实现的可能性时，它将始终如此，但当然，被创造的事物有时会行动，有时不会。因此，生物执行任何给定行动的可能性必须在其行动时为其创造，而不断创造这种可能性的是上帝，因此实际上是上帝在每一刻引起某事物的行动。简而言之，所有的行动都必须属于上帝，只属于上帝。
+这个后一种论证的逻辑结论实际上几乎等同于偶然论，也就是说，每一刻上帝都重新创造世界，包括其原子和意外事件，以及所有的行动，无论是人类的还是其他的，因此只有上帝才是引起我们世界发生事件的原因。事实上，后来的神学家们会接受这样一种偶然论的世界观。然而，他们更喜欢的偶然论论证并不是上面概述的那种，而是基于可能性（*istiṭāʿa*）的论证。\[[3](https://plato.stanford.edu/entries/arabic-islamic-natural/notes.html#note-3)] 大致上，这个论证是说，只有当一个生物具备执行某个行动的可能性时，它才会执行这个行动。每当生物具备这个可能性时，这个可能性要么被实现，要么没有。一方面，肯定一个未实现的存在物，比如一个未实现的可能性，等同于肯定一个不存在的存在物，这是一个明显的矛盾。另一方面，如果可能性被实现，那么生物必须执行相应的行动，并且当它具备实现的可能性时，它将始终如此，但当然，被创造的事物有时会行动，有时不会。因此，生物执行任何给定行动的可能性必须在其行动时为其创造，而不断创造这种可能性的是上帝，因此实际上是上帝在每一刻引起某事物的行动。简而言之，所有的行动都必须属于上帝，只属于上帝。
 
 ### 1.4 阿尔·纳扎姆和跳跃
 
-同样作为一个普遍规律，大多数思辨神学家采用了一个原子主义的框架来解释自然现象；然而，即使在伊斯兰神学传统内部，这种立场也不是没有批评者，其中最臭名昭著的批评者就是伊布拉欣·纳扎姆（约 840 年去世）。纳扎姆否认了大多数神学家的原子-意外本体论，而是坚持认为除了运动的意外之外，我们世界中的一切都是物体。此外，物体以及空间都没有原子结构，而是根据纳扎姆的观点具有连续性。肯定连续的空间和运动使纳扎姆容易受到类似于泽诺悖论的困扰，事实上，原子论者阿布·胡达伊勒公开用上面概述的蚂蚁和凉鞋悖论来对抗他。纳扎姆的解决办法是坚持认为一个移动的物体，比如一只蚂蚁，可以通过一次跳跃（_ṭafra_）穿越具有无限中间点的连续空间。总体思想是，一个移动的物体可以通过进行有限次数的跳跃来覆盖连续的空间，并且在每次跳跃期间，移动的物体不在中间的空间中。换句话说，一个移动的物体从某个第一个地方跳到连续的量上的第三个地方，而没有经过两者之间的第二个地方。
+同样作为一个普遍规律，大多数思辨神学家采用了一个原子主义的框架来解释自然现象；然而，即使在伊斯兰神学传统内部，这种立场也不是没有批评者，其中最臭名昭著的批评者就是伊布拉欣·纳扎姆（约 840 年去世）。纳扎姆否认了大多数神学家的原子-意外本体论，而是坚持认为除了运动的意外之外，我们世界中的一切都是物体。此外，物体以及空间都没有原子结构，而是根据纳扎姆的观点具有连续性。肯定连续的空间和运动使纳扎姆容易受到类似于泽诺悖论的困扰，事实上，原子论者阿布·胡达伊勒公开用上面概述的蚂蚁和凉鞋悖论来对抗他。纳扎姆的解决办法是坚持认为一个移动的物体，比如一只蚂蚁，可以通过一次跳跃（*ṭafra*）穿越具有无限中间点的连续空间。总体思想是，一个移动的物体可以通过进行有限次数的跳跃来覆盖连续的空间，并且在每次跳跃期间，移动的物体不在中间的空间中。换句话说，一个移动的物体从某个第一个地方跳到连续的量上的第三个地方，而没有经过两者之间的第二个地方。
 
 尽管 al-Naẓẓām 的建议具有违直觉的性质，但他认为连原子论者也不得不假设存在跳跃。他让人们想象一下磨盘的旋转。在一次旋转中，轮边上的一个原子将穿过与轮子周长相等的距离，而轮轴上的一个原子将穿过与轮轴周长相等但较短的距离。由于轮边上的原子在相同的时间内以较大的距离移动，所以它必须比轮轴上的原子移动得更快。接下来，al-Naẓẓām 观察到解释这一现象只有两种方式：要么轮边上的原子跳过一些中间的原子单元，要么轮轴上的原子在一些原子单元上停留片刻，等轮边上的原子追上来。原子论者对速度差异的解释是，移动较慢的物体在间隔上停留的次数比移动较快的物体多；然而，al-Naẓẓām 认为这种解释在旋转的磨盘上是不适用的，因为在这种情况下，磨盘会分裂，因为某些原子停留而其他原子继续移动。换句话说，一开始靠近的一些原子会随着移动而相互远离，因为靠近边缘的原子需要移动更长的距离，而靠近轴的原子只需移动各自的距离，因此原子相互远离，整个磨盘会分裂和破碎。然而，al-Naẓẓām 认为，直接观察到石头并没有分裂，因此即使是原子论者也必须承认存在跳跃。（有关 al-Naẓẓām 的跳跃理论及其可能的历史来源，请参见 Chase（2019）的讨论。）
 
-## 2. _Falsafa_：伊斯兰世界中的新柏拉图主义亚里士多德主义
+## 2. *Falsafa*：伊斯兰世界中的新柏拉图主义亚里士多德主义
 
 ### 2.1 运动的定义和形式
 
 以上提供了中世纪阿拉伯世界自然哲学中一种突出的智力方法的非常概括的概述。自然哲学的第二个主要传统_falsafa_起源于亚里士多德的物理著作和围绕它们产生的希腊-阿拉伯评论传统。\[4]由于自然哲学，至少在希腊科学传统中，是对自然的研究，而自然是运动或变化的原因，因此在广义的亚里士多德框架内理解运动是自然哲学家在_falsafa_传统中的主要关注点。亚里士多德本人将运动定义为“潜在性的_entelekheia_，因为它是这样的”（《物理学》，III 1）。早期希腊评论的解释问题之一是如何理解亚里士多德定义中的这个难以理解的术语_entelekheia_，这似乎是亚里士多德自己创造的术语。有人认为_entelekheia_必须指的是朝着某个目标或完美的进展或过程。其他人认为_entelekheia_在某种程度上必须指的是某个部分目标或完美的完成实际性。因此，古代世界的争议在于_entelekheia_是否是一个过程术语。如果_entelekheia_是一个过程术语，那么亚里士多德对运动的定义如何描述一个过程就很清楚了，但它在定义中假设了一个过程术语，而亚里士多德对运动的定义旨在提供关于过程的最基本的解释，因此不应该预设一个过程。如果_entelekheia_不是一个过程术语，那么亚里士多德的定义避免了循环论证，但它不再清楚地描述一个过程，因为完成或完美是一个过程的结束，而不是过程本身。以上大致介绍了阿拉伯语哲学家对亚里士多德运动定义的一个关键哲学辩论。\[5]
 
-这个术语问题的一部分在于亚里士多德的《物理学》的阿拉伯翻译本身解决了一部分；在那里，亚里士多德的定义被翻译为“运动是潜在性的完美（_kamāl_），因为它是这样的”，其中将_entelekheia_翻译为“完美”会明显偏向于阿拉伯语的亚里士多德主义者反对该术语的过程解释。因此，对这些哲学家来说，主要问题是解释亚里士多德的运动定义实际上如何描述一个过程。也许对这个问题最复杂的解决方案是阿维森纳的解决方案，他实际上主张瞬间运动（Avicenna 2009，II.1，4-6；Hasnawi 2001；McGinnis 2006a）。\[6]阿维森纳通过区分两种运动的意义来开始他的分析，一种可以称为“遍历运动”，另一种可以称为“中间运动”。当一个人观察一个物体处于两种不同的相反状态时，就会发生遍历运动，例如，从这里到那里。现在在世界上，一个移动的物体在运动过程中不会同时部分地在这里和那里。因此，在世界上，运动不是一种在任何时刻实际上在这里和那里之间延伸的连续的东西，就像距离在两点之间连续延伸一样；相反，这两种状态之间的关系被印在心中，正是这种心理印象引发了遍历运动的概念，即将运动视为连续的延伸量的概念。
+这个术语问题的一部分在于亚里士多德的《物理学》的阿拉伯翻译本身解决了一部分；在那里，亚里士多德的定义被翻译为“运动是潜在性的完美（*kamāl*），因为它是这样的”，其中将_entelekheia_翻译为“完美”会明显偏向于阿拉伯语的亚里士多德主义者反对该术语的过程解释。因此，对这些哲学家来说，主要问题是解释亚里士多德的运动定义实际上如何描述一个过程。也许对这个问题最复杂的解决方案是阿维森纳的解决方案，他实际上主张瞬间运动（Avicenna 2009，II.1，4-6；Hasnawi 2001；McGinnis 2006a）。\[6]阿维森纳通过区分两种运动的意义来开始他的分析，一种可以称为“遍历运动”，另一种可以称为“中间运动”。当一个人观察一个物体处于两种不同的相反状态时，就会发生遍历运动，例如，从这里到那里。现在在世界上，一个移动的物体在运动过程中不会同时部分地在这里和那里。因此，在世界上，运动不是一种在任何时刻实际上在这里和那里之间延伸的连续的东西，就像距离在两点之间连续延伸一样；相反，这两种状态之间的关系被印在心中，正是这种心理印象引发了遍历运动的概念，即将运动视为连续的延伸量的概念。
 
 至于中间运动，即存在于心外的运动，这就是阿维森纳对瞬间运动的新颖分析发挥作用的地方。他首先指出，亚里士多德定义中所涉及的完美既不能指的是运动的起点，也不能指的是运动的终点，因为在第一种情况下，运动尚未开始，在第二种情况下，运动已经完成。因此，完美必须指的是移动物体在这两个极端之间的中间状态时的某种完美。因此，例如，一个在_x_和_z_之间移动的物体既不在_x_也不在_z_处运动，而只有在_x_和_z_之间的空间中运动时才运动。转而，这个中间状态可以指的是两个极端之间的整个连续介质，也可以指的是一个点。因此，中间状态可能指的是整个运动沿着_x_和_z_之间的整个连续距离，也可能指的是移动物体在距离上的一个或另一个单一点，例如_y_。阿维森纳接下来观察到，在移动物体连续运动的每一瞬间，它都在运动，但没有一个瞬间是整个运动作为某个延伸量存在的。因此，运动定义中的完美必须指的是在起点和终点之间的某个点上移动物体的完美，尽管移动物体在该点上只停留了一瞬间。正是因为移动物体只在中间点上停留了一瞬间，才保证了物体正在经历运动；因为如果它在某个点上停留的时间超过一瞬间，也就是一段时间，那么物体实际上就在那个点上静止了。
 
@@ -79,9 +78,9 @@ _首次发表于 2006 年 12 月 19 日；实质性修订于 2022 年 2 月 3 �
 
 尽管上述论证提供了一些关于中世纪阿拉伯语中运动形式的描述，这些描述是在_falsafa_传统中讨论的，但在运动分析中还涉及其他因果因素和必要条件。其中一些最重要的条件是（1）无限（尤其是在连续的描述中，例如连续作为潜在无限可分割的东西），（2）位置，与位置密切相关的是（3）虚空，以及（4）时间。
 
-反对无限的_实际_存在的标准论证可以追溯到至少[al-Kindī](https://plato.stanford.edu/entries/al-kindi/)，并贯穿整个阿拉伯或伊斯兰哲学的古典时期，直至至少 as-Suhrawardī（al-Kindī 1950，115–116 和 202–203；Avicenna 1983，III.8，212–214；id.，1985，IV.11，244–246；Ibn Bājja 1978，36–37；Ibn Ṭufayl 1936，75–77；以及 as-Suhrawardī 1999，44）\[[7](https://plato.stanford.edu/entries/arabic-islamic-natural/notes.html#note-7)]。论证的简化版本如下所述。想象两根刚性梁，不能伸展。此外，假设这些梁无限延伸到空间中。接下来，想象从其中一根梁上移除了一段有限长度_x_，例如地球和我们银河系末端之间的距离；将从中移除_x_的梁称为_R_。现在想象_R_被拉向地球，然后与未移除任何东西的梁进行比较。将未移除任何东西的梁称为原始梁_O_。在这种情况下，由于梁是刚性的，_R_不能伸展以延伸额外的长度_x_。因此，_R_必须比_O_短一个长度等于_x_。现在想象这两根梁并排放置并进行比较。由于它们是并排的，要么_R_与_O_完全对应，因此在空间范围上与_O_相等，要么_R_不及_O_。一方面，如果_R_不比_O_短，而是完全对应并且与_O_相等，则_R_不少于_O_。但是假设_R_比长度_x_少，因此存在矛盾。另一方面，如果_R_在延伸到空间的一侧不及_O_，则_R_在不及_O_的地方是_R_的极限，此时_R_在延伸到空间的一侧和地球一侧都是有限的。在这种情况下，_R_是有限的，但假设它是无限的，这是另一个矛盾。简而言之，如果实际上存在一个无限延伸，并且可以通过一些有限量的缩短（假设为给定），那么缩短的量必须等于或小于原始的无限延伸；然而，任何一种情况都会导致矛盾。因此，导致矛盾的前提，即实际上存在一个无限延伸，必须被拒绝。
+反对无限的_实际_存在的标准论证可以追溯到至少[al-Kindī](https://plato.stanford.edu/entries/al-kindi/)，并贯穿整个阿拉伯或伊斯兰哲学的古典时期，直至至少 as-Suhrawardī（al-Kindī 1950，115–116 和 202–203；Avicenna 1983，III.8，212–214；id.，1985，IV.11，244–246；Ibn Bājja 1978，36–37；Ibn Ṭufayl 1936，75–77；以及 as-Suhrawardī 1999，44）\[[7](https://plato.stanford.edu/entries/arabic-islamic-natural/notes.html#note-7)]。论证的简化版本如下所述。想象两根刚性梁，不能伸展。此外，假设这些梁无限延伸到空间中。接下来，想象从其中一根梁上移除了一段有限长度_x_，例如地球和我们银河系末端之间的距离；将从中移除_x_的梁称为_R_。现在想象_R_被拉向地球，然后与未移除任何东西的梁进行比较。将未移除任何东西的梁称为原始梁_O_。在这种情况下，由于梁是刚性的，*R_不能伸展以延伸额外的长度_x*。因此，*R_必须比_O_短一个长度等于_x*。现在想象这两根梁并排放置并进行比较。由于它们是并排的，要么_R_与_O_完全对应，因此在空间范围上与_O_相等，要么_R_不及_O_。一方面，如果_R_不比_O_短，而是完全对应并且与_O_相等，则_R_不少于_O_。但是假设_R_比长度_x_少，因此存在矛盾。另一方面，如果_R_在延伸到空间的一侧不及_O_，则_R_在不及_O_的地方是_R_的极限，此时_R_在延伸到空间的一侧和地球一侧都是有限的。在这种情况下，_R_是有限的，但假设它是无限的，这是另一个矛盾。简而言之，如果实际上存在一个无限延伸，并且可以通过一些有限量的缩短（假设为给定），那么缩短的量必须等于或小于原始的无限延伸；然而，任何一种情况都会导致矛盾。因此，导致矛盾的前提，即实际上存在一个无限延伸，必须被拒绝。
 
-al-Kindī继续使用这个论证的结论来维持时间本身必须是有限的，并且因此世界存在的时间段必须是有限的。因此，他根据这个论证得出结论，世界必须在某个时间的第一个时刻被创造，因此不是永恒的（al-Kindī 1950，121–122 和 205–206）。al-Kindī对宇宙的时间有限性的论证也是_kalām_的拥护者所偏爱的论证，也就是威廉·莱恩·克雷格最近重新流行的[“](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)​\*[Kalām](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)_​_[_宇宙论证”_](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)_（Craig，2000）。与 al-Kindī将上述论证应用于时间相反，大多数后来的_falsafa\*传统的哲学家认为上述论证的结论仅意味着实际无限的大小或数量不能存在，也就是说，不能存在某个完全完成的无限，其所有部分在同一时刻存在。在不是所有大小或其部分同时存在的情况下，例如时间及其部分，过去、现在和未来，他们认为无限是可能存在的，尽管只是潜在存在。
+al-Kindī继续使用这个论证的结论来维持时间本身必须是有限的，并且因此世界存在的时间段必须是有限的。因此，他根据这个论证得出结论，世界必须在某个时间的第一个时刻被创造，因此不是永恒的（al-Kindī 1950，121–122 和 205–206）。al-Kindī对宇宙的时间有限性的论证也是_kalām_的拥护者所偏爱的论证，也就是威廉·莱恩·克雷格最近重新流行的[“](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)​\*[Kalām](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)*​*[*宇宙论证”*](https://plato.stanford.edu/entries/cosmological-argument/#KalaCosmArgu)_（Craig，2000）。与 al-Kindī将上述论证应用于时间相反，大多数后来的_falsafa\*传统的哲学家认为上述论证的结论仅意味着实际无限的大小或数量不能存在，也就是说，不能存在某个完全完成的无限，其所有部分在同一时刻存在。在不是所有大小或其部分同时存在的情况下，例如时间及其部分，过去、现在和未来，他们认为无限是可能存在的，尽管只是潜在存在。
 
 除了提供理解宇宙永恒性的手段之外，潜在无限的概念对许多自然哲学家来说也是有用的，因为它提供了解释连续性的方式。严格来说，阿拉伯语哲学家遵循亚里士多德在《物理学》第 5 卷第 3 章中给出的连续性定义，即两个相邻的极限变得相同。然而，他们进一步解释了这个定义，认为连续性可以被无限地分割成更小的部分，也就是说，可以无限地潜在地分割。显然，连续性的概念与原子论者对连续性的反对相冲突，我们在上面已经看到了这一点。为了回应这些论据，哲学家坚持认为连续的大小实际上是一个统一的整体，因此它并不由无限数量的部分组成，因此也没有实际上无限数量的分割（例如，阿维森纳 1983，III.2，8-10）。他们进一步认为，严格来说，连续的大小甚至不能说有无限数量的潜在分割，至少不能以这样的方式说，即无限数量的未实现的分割在连续的大小中潜在存在，以至于它们可以同时全部实现。对于哲学家来说，分割并不真正存在于大小中，无论是实际上还是潜在地；相反，连续的大小在无限地可分割的意义上是指人们可以在大小内部无限地假设意外的分割。这些意外的分割就像指向左边时的“左侧”和指向右边时的“右侧”。除了这种假设之外，大小内部并没有真正的左右分割。换句话说，在大小中没有任何东西阻止或妨碍人们在心理上假设越来越小的分割。例如，想象 1/2，再想象 1/2，依此类推；然而，除非经过心理（甚至物理）的标记，这些一半并不真正或实际上存在于大小中。因此，当哲学家说连续性在潜在上是无限可分的时，他们的意思是不可能完成分割的过程，使其结果成为实际上无限数量的部分。因此，神学家对连续性在潜在上是无限可分的反对意味着一个内在的矛盾，即如果连续性在潜在上是无限可分的，那么必须存在一个能够实现所有潜在分割的力量，比如上帝；因为这样的论证荒谬地暗示了一个定义上无法完成的事情已经完成了。
 
@@ -91,9 +90,9 @@ al-Kindī继续使用这个论证的结论来维持时间本身必须是有限�
 
 对于原子论最常见的数学批评是，如果原子论是正确的，那么人们甚至无法近似使用毕达哥拉斯定理，而毕达哥拉斯定理是数学中最有证据的定理（例如，阿维森纳 1983，III.4，190）。这个论证从设想原子空间类似于国际象棋棋盘开始，这是对神学家如何思考原子空间的一个公平近似。接下来，想象在这个原子空间上刻画一个直角等腰三角形，其腿长为四个原子。三角形的斜边长度必须等于沿着所谓的原子正方形对角线的原子数量；然而，鉴于空间是原子的，这个长度只有四个原子长。现在，根据毕达哥拉斯定理，腿长的平方加上斜边的平方应该等于斜边的平方，如果空间是原子的，那么就会得到 42 + 42 = 42，但这显然是错误的。由于荒谬性是由于同时接受空间是原子的和毕达哥拉斯定理这两个假设引起的，所以其中一个必须被拒绝，而显而易见的候选者是否认存在最小的原子单位。说原子的对角线比它的边长长没有任何好处；因为这样的假设意味着存在比最小部分更短的长度，即原子的对角线据其边长所称的长度，但比最短长度更短的长度是矛盾的。简而言之，似乎如果毕达哥拉斯定理是正确的，那么神学家的原子论是错误的。
 
-反对原子论的第二种论证涉及显示概念上最小部分的概念在哲学和科学上的不足（例如，阿维森纳 1983，III.4，189-190）。争议的焦点是原子如何聚集以产生我们周围观察到的物质体。似乎有四种可能的方式：（1）原子可以相继排列，但彼此之间不能接触；或者原子可以相互接触，这种情况下它们可能通过（2）相邻，（3）连续，或者（4）相互渗透来实现。显然，我们观察到的物体是统一的整体，也就是说，它们的部分是在一起的，因此形成固体而不是“云状”。因此，原子不能仅仅是相继排列。如果原子通过相互渗透来相互接触，那么物体永远不会比一个原子大，但这个结果在经验上是错误的。因此，原子必须通过相邻或连续来接触。在这种情况下，想象三个原子_A_​_**B**_​_C_，它们要么是相邻的，要么是连续的。在这种情况下，_B_必须将_A_与_C_分开；因为如果_B_没有将_A_与_C_分开，那么例如，尽管_B_存在，_A_仍然可以与_C_接触，从而实际上是_B_渗透了_A_；但这个替代方案已经被排除了。因此，必须有某个东西_x_使得_B_与_A_接触，有某个东西_y_使得_B_与_C_接触，而_x_和_y_必须彼此分离，否则_A_和_C_将不会相互分离。然而，在这种情况下，_B_可以在概念上被划分为_x_和_y_，但是_B_被假定为概念上不可分割的，因此存在矛盾。简而言之，原子论者的概念上不可分割的部分无法解释我们周围观察到的物质体的存在。
+反对原子论的第二种论证涉及显示概念上最小部分的概念在哲学和科学上的不足（例如，阿维森纳 1983，III.4，189-190）。争议的焦点是原子如何聚集以产生我们周围观察到的物质体。似乎有四种可能的方式：（1）原子可以相继排列，但彼此之间不能接触；或者原子可以相互接触，这种情况下它们可能通过（2）相邻，（3）连续，或者（4）相互渗透来实现。显然，我们观察到的物体是统一的整体，也就是说，它们的部分是在一起的，因此形成固体而不是“云状”。因此，原子不能仅仅是相继排列。如果原子通过相互渗透来相互接触，那么物体永远不会比一个原子大，但这个结果在经验上是错误的。因此，原子必须通过相邻或连续来接触。在这种情况下，想象三个原子_A_​_**B***​_C*，它们要么是相邻的，要么是连续的。在这种情况下，_B_必须将_A_与_C_分开；因为如果_B_没有将_A_与_C_分开，那么例如，尽管_B_存在，*A_仍然可以与_C_接触，从而实际上是_B_渗透了_A*；但这个替代方案已经被排除了。因此，必须有某个东西_x_使得_B_与_A_接触，有某个东西_y_使得_B_与_C_接触，而_x_和_y_必须彼此分离，否则_A_和_C_将不会相互分离。然而，在这种情况下，*B_可以在概念上被划分为_x_和_y*，但是_B_被假定为概念上不可分割的，因此存在矛盾。简而言之，原子论者的概念上不可分割的部分无法解释我们周围观察到的物质体的存在。
 
-尽管他们拒绝了概念上最小的部分，但某些穆斯林哲学家，继承亚里士多德（《物理学》1.4，187b13-21）和一些希腊评论家（如约翰·菲洛波诺斯（570 年去世））的观点，承认物体确实有物理上最小的部分。确切地说，他们承认了“最小自然单位”，即特定类型的物体（如水或肉）在物理上可以被分割到什么程度，仍然保持该特定类型的物体，而不是转化为其他类型的物体（阿维森纳，2009 年，III.12，2-9；阿维洛斯，1962 年，_ad_ 1.4 和 3.7；有关研究，请参见格拉斯纳，2001 年和 2009 年，第 8 章；塞拉米，2012 年；麦金尼斯，2015 年）。为了理解他们对“最小自然单位”的论证的一个版本（阿维森纳 2009，III.12，8），首先必须考虑到元素和元素变化的理论，这是它的前提。根据古代和中世纪的元素理论，每个传统的四个元素都与两个主要品质相关联，每个品质来自两对。这些对包括主要品质热/冷和湿/干。地球元素与冷干品质相关联，水与冷湿品质相关联，空气与热湿品质相关联，火与热干品质相关联。这些主要品质与元素的物质原因有关。当通过物理因果过程改变这些主要品质时，即元素中发生某种运动或变化，例如热度、冷度、干燥度或湿度的增加或减少，这种改变会准备或预先使基础物质适合接受新的实质形式。因此，例如，当水（再次与冷湿组合相关联）被充分加热时，基础的品质性倾向不再适合水的实质形式。因此，在加热过程中的某个时刻，物质接受了一种新的实质形式，该形式与物质的新的基础品质性倾向相容，即物质接受了空气的形式。事实上，从剧烈加热水产生的蒸汽确实具有明确的类似空气的品质。刚刚描述的类似的解释也适用于更复杂的混合物，如血液、肉和种子，它们参与动植物的生成。
+尽管他们拒绝了概念上最小的部分，但某些穆斯林哲学家，继承亚里士多德（《物理学》1.4，187b13-21）和一些希腊评论家（如约翰·菲洛波诺斯（570 年去世））的观点，承认物体确实有物理上最小的部分。确切地说，他们承认了“最小自然单位”，即特定类型的物体（如水或肉）在物理上可以被分割到什么程度，仍然保持该特定类型的物体，而不是转化为其他类型的物体（阿维森纳，2009 年，III.12，2-9；阿维洛斯，1962 年，*ad* 1.4 和 3.7；有关研究，请参见格拉斯纳，2001 年和 2009 年，第 8 章；塞拉米，2012 年；麦金尼斯，2015 年）。为了理解他们对“最小自然单位”的论证的一个版本（阿维森纳 2009，III.12，8），首先必须考虑到元素和元素变化的理论，这是它的前提。根据古代和中世纪的元素理论，每个传统的四个元素都与两个主要品质相关联，每个品质来自两对。这些对包括主要品质热/冷和湿/干。地球元素与冷干品质相关联，水与冷湿品质相关联，空气与热湿品质相关联，火与热干品质相关联。这些主要品质与元素的物质原因有关。当通过物理因果过程改变这些主要品质时，即元素中发生某种运动或变化，例如热度、冷度、干燥度或湿度的增加或减少，这种改变会准备或预先使基础物质适合接受新的实质形式。因此，例如，当水（再次与冷湿组合相关联）被充分加热时，基础的品质性倾向不再适合水的实质形式。因此，在加热过程中的某个时刻，物质接受了一种新的实质形式，该形式与物质的新的基础品质性倾向相容，即物质接受了空气的形式。事实上，从剧烈加热水产生的蒸汽确实具有明确的类似空气的品质。刚刚描述的类似的解释也适用于更复杂的混合物，如血液、肉和种子，它们参与动植物的生成。
 
 至于对于“最小自然物”的存在的证明本身，它始于重申分割的两种方式：物理分割——导致数量的实际分割、分离或破碎，以及概念分割——涉及仅仅是心理上的分割或假设，使数量保持完整。再次，这个论证特指物理可分性。论证如下：给定物质的数量越小，它就越容易受到周围物体的作用。例如，其他条件相同，水体冷却一吨熔化的铁所需的时间比冷却一盎司熔化的铁所需的时间更长，同样地，高炉能够更快地加热同样的一盎司铁而不是一吨。因此，给定物质的物理分割越小，减少的物质就越倾向于周围物体的主要特性。在某个限度以下，周围物体的主要特性的强度与被分割物体的特性之间的比例是这样的，周围物体的特性克服了被分割物体的特性。在那一刻，被分割物质的潜在品质倾向发生改变，以至于不再适合其元素形式，物质接收到一个新的实质形式。例如，想象一杯被炎热干燥的夏季空气所包围的水。现在想象一半的水量，然后继续取一半。在某个点上，水的量变得如此之小，以至于水几乎瞬间蒸发，或者按照中世纪自然哲学家的说法，那微小的物理量中的水的形式立即被空气的形式所取代。简而言之，对于这些思想家来说，元素以及更复杂的混合物都有自然的最小限度，超过这个限度它们就不能被分割，同时仍能保持它们的种类形式，因为周围物体的主要特性会改变那个物体，使其不再适合维持其最初的形式。因此，论证得出结论，存在着“最小自然物”。
 
@@ -121,7 +120,7 @@ al-Kindī继续使用这个论证的结论来维持时间本身必须是有限�
 
 伊斯兰地区的自然哲学家们对时间的拓扑学问题也表现出浓厚的兴趣：“时间是有限的还是无限的？”以及“时间是‘直线型’还是‘循环型’？”在阿拉伯语哲学家中，阿尔-坎迪是唯一肯定时间有限的人；大多数其他哲学家认为时间必然是无限的，因为它没有起点。各种哲学家为这个命题辩护的方式表明，直线型和循环型的时间观念都存在于_falsafa_传统中，其中阿维森纳主张直线型的时间观念，而阿维罗斯主张循环型的时间观念。
 
-再次，这个问题出现的领域是关于时间永恒性的证明。例如，阿维森纳通过基于较慢和较快运动物体所能覆盖的距离差异的一种新颖证明，将时间与运动的可能性或能力（_imk7amacr;n_）联系起来（阿维森纳 1985 年，228-229 页）。然后他通过_归谬法_进行论证。我们假设时间是有限的，因此宇宙的运动必须有一个开始的时刻。即使宇宙的运动在某个时刻开始，论证继续进行，显然造物主仍然有可能进行更早的运动。在这种情况下，存在着在所谓的第一个时刻之前进行运动的能力或可能性，但是根据阿维森纳的观点，时间只是一种运动的特定能力或可能性。因此，在所谓的第一个时刻之前一定存在着一段时间，这是荒谬的。阿维森纳得出结论说，由于同样的论证适用于任何所谓的时间的第一个时刻，时间没有起点，因此必须是无限的。显然，阿维森纳论证中隐含的时间观念是一个无限延伸的时间线。
+再次，这个问题出现的领域是关于时间永恒性的证明。例如，阿维森纳通过基于较慢和较快运动物体所能覆盖的距离差异的一种新颖证明，将时间与运动的可能性或能力（*imk7amacr;n*）联系起来（阿维森纳 1985 年，228-229 页）。然后他通过_归谬法_进行论证。我们假设时间是有限的，因此宇宙的运动必须有一个开始的时刻。即使宇宙的运动在某个时刻开始，论证继续进行，显然造物主仍然有可能进行更早的运动。在这种情况下，存在着在所谓的第一个时刻之前进行运动的能力或可能性，但是根据阿维森纳的观点，时间只是一种运动的特定能力或可能性。因此，在所谓的第一个时刻之前一定存在着一段时间，这是荒谬的。阿维森纳得出结论说，由于同样的论证适用于任何所谓的时间的第一个时刻，时间没有起点，因此必须是无限的。显然，阿维森纳论证中隐含的时间观念是一个无限延伸的时间线。
 
 阿维罗斯也提出了一个关于时间没有起点的论证，但是这次是以将时间看作一个圆圈的方式（阿维罗斯 1991 年，第三题）。正如前面所解释的，对于阿维罗斯来说，时间是天体的循环运动的结果和度量，因此时间本身也是循环的。现在，正如圆圈上的任何一个点都是某个弧的起点和终点一样，所以时间中的任何时刻都必须是某个时间段的起点和终点。因此，时间没有起点。然而，它没有起点并不是指直线没有起点的意义，而是指圆圈上没有哪个点可以被称为圆圈的起点。尽管阿维罗斯没有明确声称所有事件和事物都会再次发生，但他的论证似乎暗示了这样的结论。
 
@@ -139,91 +138,91 @@ al-Kindī继续使用这个论证的结论来维持时间本身必须是有限�
 
 ### Primary Sources
 
-* Aristotle, 1964/65, _al-Ṭabīʿa_, 2. vols., Cairo: The General Egyptian Book Organization.
-* al-Ash‘ari, 1980, _Die dogmatischen Lehren der Anhänger des Islam_, Wiesbaden: Franz Steiner Verlag, G.m.b.H.
-* –––, 1953, _al-Lumaʾ_, in _The Theology of al-Ashʿarī_, R.J. McCarthy (ed. & trans.), Beirut: Imprimerie catholique.
-* Averroes, 1962, _Long Commentary on the Physics_, in _Aristotelis Opera cum Averrois Commentariis_, Vol. IV, Frankfurt am Main: Minerva, G.m.b.H.
-* –––, 1991, _Averroes’ Questions in Physics_, H. T. Goldstein (trans.), Dordrecht: Kluwer Academic Publishers.
-* –––, 2003, _Averrois Cordubensis Commentum magnum super libro De celo et mundo Aristotelis_, F. J. Carmody and R. Arnzen (eds.), 2 vols., Louvain: Peeters.
-* Avicenna, 1956, _Kitāb al-Burhān_, A.E. Affifi (ed.), Cairo L’Organization Egyptiene Générale du Livre.
-* –––, 1985, _Najāt_, M.T. Danishpazhuh (ed.), Tehran: Danishgah-i Tihran.
-* –––, 1983, _Shifāʾ, Kitāb al-Samāʿ al-ṭabīʿī_, S. Zayed (ed.), Cairo: The General Book Organization.
-* –––, 1996, _Shifa’, Kitāb al-Samāʿ al-ṭabīʿī_, J. Al-Yasin (ed.), Beirut: Dar al- Manahil.
-* –––, 2009, _The Physics of_ The Healing, J. McGinnis (ed. and trans.), Provo: Brigham Young University Press.
-* al-Baqillanī, 1986, _Inṣāf_, ‘A. Haydar (ed.), Beirut: ‘Alim al-Kutub.
-* –––, 1957, _Kitāb al-Tamhīd_, R.J. McCarthy (ed.), Beirut: Librairie Orientale.
-* al-F7amacr;r7amacr;b7imacr;, 1951, _Fârâbî’s Article on Vacuum_, N. Lugal and A. Sayili (ed. and trans.), Ankara: Türk Tarih Kurumu Basimevi. (Page reference in brackets to the Arabic.)
-* –––, 1985, _On the Perfect State_, R. Walzer (ed. and trans.), Oxford: Oxford University Press.
-* –––, 1964, _As-Siyasa al-madaniya al-mulaqqab bi-mabadi’ al-mawjudat_, F. Najjar (ed.), Beirut: Imprimerie Catholique.
-* Ibn Bājja, 1973, _Sharh as-sama‘ al-tabi‘i ‘ala Aristutalis_, M. Fakhry (ed.), Beirut: Dar an-Nahar li-N-Nashr.
-* Ibn Bājja, 1978, _Shuruhat al-sama‘ at-tabi‘i_, M. Ziyada (ed.), Beirut: Dar al-Kindi/Dar al-Fikr.
-* Al-Juwaynī, 1950, _Kitab al-Irshad ila qawati‘ al-adillah fi usul li-i‘ tiqad_, M. Musa and ‘A. al-Hamid (eds.), Cairo: Maktabat al-Khanji.
-* –––, 2000, _A Guide to the Conclusive Proofs for the Principles of Belief_, P. Walker (trans.), Lebanon: Garnet Publishing.
-* al-Kindī, 1950, _Rasa’il al-Kindi al-falsafiyya_, M. ‘A. Abu Rida (ed.), Cairo: Dar al-Fikr al-‘Arabi.
-* Maimonides, Moses, 1963, _The Guide of the Perplexed_, S. Pines (trans.), Chicago: University of Chicago Press.
-* Mullā Ṣadrā, 2001, _Sharh al-Hidaya al-Athiriyya li-Ṣadr al-Din Muhammad al-Shirazi_, M.M. Fuladkar (ed.), Beirut: Dar Iḥyaʾ al-Turath al-‘Arabi.
-* al-Rāzī, Abū Ḥātim, 2011, _The Proofs of Prophecy_, T. Khalidi (ed. and trans.), Provo: Brigham Young University Press.
-* al-Rāzī, Abū Bakr, 1939, _Opera Philosophica_, P. Kraus (ed.), Cairo: n.p.
-* –––, 2007, “On the Five Eternals,” selections in _Classical Arabic Philosophy: An Anthology of Sources_, J. McGinnis and D. C. Reisman (trans.), Indianapolis/Cambridge: Hackett Publishing Co., pp. 44–49
-* ar-Rāzī, Fakhr al-Dīn, 1990, _al-Mabhith al-mashriqiyya_, M.M. Billah al-Baghdadi (ed.), Beirut: Dar al-Kitāb al-‘Arabi.
-* as-Suhrawardī, 1999, _The Philosophy of Illumination_, J. Walbridge and H. Ziai (ed. & trans.), Provo, UT: Brigham Young University Press.
-* Ibn Ṭufayl, 1936, _Hayy Ben Yaqdhân, Roman Philosophique D’Ibn Thofaïl_, L. Gautier (ed. and trans.), Beirut: Imprimerie catholique.
+* Aristotle, 1964/65, *al-Ṭabīʿa*, 2. vols., Cairo: The General Egyptian Book Organization.
+* al-Ash‘ari, 1980, *Die dogmatischen Lehren der Anhänger des Islam*, Wiesbaden: Franz Steiner Verlag, G.m.b.H.
+* –––, 1953, *al-Lumaʾ*, in *The Theology of al-Ashʿarī*, R.J. McCarthy (ed. & trans.), Beirut: Imprimerie catholique.
+* Averroes, 1962, *Long Commentary on the Physics*, in *Aristotelis Opera cum Averrois Commentariis*, Vol. IV, Frankfurt am Main: Minerva, G.m.b.H.
+* –––, 1991, *Averroes’ Questions in Physics*, H. T. Goldstein (trans.), Dordrecht: Kluwer Academic Publishers.
+* –––, 2003, *Averrois Cordubensis Commentum magnum super libro De celo et mundo Aristotelis*, F. J. Carmody and R. Arnzen (eds.), 2 vols., Louvain: Peeters.
+* Avicenna, 1956, *Kitāb al-Burhān*, A.E. Affifi (ed.), Cairo L’Organization Egyptiene Générale du Livre.
+* –––, 1985, *Najāt*, M.T. Danishpazhuh (ed.), Tehran: Danishgah-i Tihran.
+* –––, 1983, *Shifāʾ, Kitāb al-Samāʿ al-ṭabīʿī*, S. Zayed (ed.), Cairo: The General Book Organization.
+* –––, 1996, *Shifa’, Kitāb al-Samāʿ al-ṭabīʿī*, J. Al-Yasin (ed.), Beirut: Dar al- Manahil.
+* –––, 2009, *The Physics of* The Healing, J. McGinnis (ed. and trans.), Provo: Brigham Young University Press.
+* al-Baqillanī, 1986, *Inṣāf*, ‘A. Haydar (ed.), Beirut: ‘Alim al-Kutub.
+* –––, 1957, *Kitāb al-Tamhīd*, R.J. McCarthy (ed.), Beirut: Librairie Orientale.
+* al-F7amacr;r7amacr;b7imacr;, 1951, *Fârâbî’s Article on Vacuum*, N. Lugal and A. Sayili (ed. and trans.), Ankara: Türk Tarih Kurumu Basimevi. (Page reference in brackets to the Arabic.)
+* –––, 1985, *On the Perfect State*, R. Walzer (ed. and trans.), Oxford: Oxford University Press.
+* –––, 1964, *As-Siyasa al-madaniya al-mulaqqab bi-mabadi’ al-mawjudat*, F. Najjar (ed.), Beirut: Imprimerie Catholique.
+* Ibn Bājja, 1973, *Sharh as-sama‘ al-tabi‘i ‘ala Aristutalis*, M. Fakhry (ed.), Beirut: Dar an-Nahar li-N-Nashr.
+* Ibn Bājja, 1978, *Shuruhat al-sama‘ at-tabi‘i*, M. Ziyada (ed.), Beirut: Dar al-Kindi/Dar al-Fikr.
+* Al-Juwaynī, 1950, *Kitab al-Irshad ila qawati‘ al-adillah fi usul li-i‘ tiqad*, M. Musa and ‘A. al-Hamid (eds.), Cairo: Maktabat al-Khanji.
+* –––, 2000, *A Guide to the Conclusive Proofs for the Principles of Belief*, P. Walker (trans.), Lebanon: Garnet Publishing.
+* al-Kindī, 1950, *Rasa’il al-Kindi al-falsafiyya*, M. ‘A. Abu Rida (ed.), Cairo: Dar al-Fikr al-‘Arabi.
+* Maimonides, Moses, 1963, *The Guide of the Perplexed*, S. Pines (trans.), Chicago: University of Chicago Press.
+* Mullā Ṣadrā, 2001, *Sharh al-Hidaya al-Athiriyya li-Ṣadr al-Din Muhammad al-Shirazi*, M.M. Fuladkar (ed.), Beirut: Dar Iḥyaʾ al-Turath al-‘Arabi.
+* al-Rāzī, Abū Ḥātim, 2011, *The Proofs of Prophecy*, T. Khalidi (ed. and trans.), Provo: Brigham Young University Press.
+* al-Rāzī, Abū Bakr, 1939, *Opera Philosophica*, P. Kraus (ed.), Cairo: n.p.
+* –––, 2007, “On the Five Eternals,” selections in *Classical Arabic Philosophy: An Anthology of Sources*, J. McGinnis and D. C. Reisman (trans.), Indianapolis/Cambridge: Hackett Publishing Co., pp. 44–49
+* ar-Rāzī, Fakhr al-Dīn, 1990, *al-Mabhith al-mashriqiyya*, M.M. Billah al-Baghdadi (ed.), Beirut: Dar al-Kitāb al-‘Arabi.
+* as-Suhrawardī, 1999, *The Philosophy of Illumination*, J. Walbridge and H. Ziai (ed. & trans.), Provo, UT: Brigham Young University Press.
+* Ibn Ṭufayl, 1936, *Hayy Ben Yaqdhân, Roman Philosophique D’Ibn Thofaïl*, L. Gautier (ed. and trans.), Beirut: Imprimerie catholique.
 
 ### Secondary Sources
 
-* Adamson, P., 2017, “Fakhr al-Dīn al-Rāzī on Place,” _Arabic Sciences and Philosophy_, 27: 205–236.
-* Adamson, P. and Lammer, A., 2020, “Fakhr al-Dīn al-Rāzī’s Platonist Account of the Essence of Time,” in _Philosophical Theology in Islam_, A. Shihadeh and J. Thiele (eds.) Leiden/Boston: Brill, pp. 95–122.
-* Ahmed, A. Q., 2016, “The Reception of Avicenna’s Theory of Motion in the Twelfth Century,” _Arabic Sciences and Philosophy_, 26: 215–243.
-* Baffioni, C., 1982, _Atomismo e antiatomismo nel pensiero islamico_, Series minor, Istituto universitario orientale (Naples) Seminario di studi asiatici, 16, Rome: Herder.
-* Cerami, C., 2012, “Mélange, _minima naturalia_ et croissance animale dans le _Commentaire moyen_ d’Averroès au _De genratione et corruptione_ I,5,” in _La Nature et le vide dans la physique médiévale: Études dédiées à Edward Grant_, J. Biard and S. Rommevaux (eds.) Turnhout: Brepols, pp. 137–64.
-* Chase, M., 2019, “Damascius and al-Nazzām on the Atomic Leap,” _Mnemosyne_, 72(4): 585–620.
-* Craig, W. L., 2000, _The Kalam Cosmological Argument_, Eugene: Wipf & Stock Publishers.
-* Dhanani, A., 1994, _The Physical Theory of Kalam: Atoms, Space, and Void in Basrian Mu‘tazili Cosmology_, Leiden: E. J. Brill.
-* –––, 2002, “Problems in Eleventh-Century _Kalam_ Physics,” _Bulletin of the Royal Institute for Inter-Faith Studies_, 4: 73–96.
-* –––, 2015, “The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent _Kalām_ Physics,” _Arabic Sciences and Philosophy_, 25: 79–104.
-* Frank, R., 1978, _Beings and Their Attributes: the teaching of the Basrian School of the Mu‘tazila in the Classical Period_, Albany: State University of New York Press.
-* Giannakis, E., 1998, “Yahya ibn ‘Adi Against John Philoponus on Place and Void,” in _Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften_, 12: 245–302.
-* Glasner, R. 2001, “Ibn Rushd’s Theory of _minima maturalia_,” _Arabic Sciences and Philosophy_, 11: 9–26.
-* –––, 2009, _Averroes’ Physics: A Turning Point in Medieval Natural Philosophy_, Oxford: Oxford University Press.
-* Harvey, S., 2004, “The Impact of Philoponus’ _Commentary on the Physics_ on Averroes’ Three Commentaries on the _Physics_,” in _Philosophy, Science and Exegesis in Greek, Arabic and Latin Commentaries_ (Volume 2), P. Adamson, H. Baltussen and M. W. F. Stone (eds.), London: Institute of Classical Studies, pp. 89–105.
-* Hasnawi, A., 1977, “Certain Notions of Time in Arab-Muslim Philosophy,” in _Time and the Philosophies_, Paul Ricoeur (ed.), Paris: UNESCO, pp. 49–79.
-* –––, 1984, “La dynamique d’Ibn Sina,” in _Études sur Avicenne_, J. Jolivet and R. Rashed (eds.), Paris: Les Belles Lettres, pp. 103–23.
-* –––, 2001, “La definition du mouvement dans _la Physique_ du _Šifa_’ d’Avicenne,” _Arabic Sciences and Philosophy_, 11: 219–255.
-* –––, 2004, “Le Statut categorical du mouvement chez Avicenne: Contexte grec et postérité médiévale latine,” in _De Zénon d’Élée a Poincaré: Recueil d’études en homage a Roshdi Rashed_, R. Morelon and A. Hasnawi (eds.), Louvain-Paris: Peeters, pp. 607–22.
-* Lammer, A., 1994, _The Elements of Avicenna’s Physics: Greek Sources and Arabic Innovations_, Berlin, Boston: de Gruyters, 2017.
-* Lettinck, P., 1994, _Aristotle’s Physics and Its Reception in the Arabic World_, Leiden: E. J. Brill.
-* –––, 1999, “Ibn Sina on Atomism,” _al-Shajarah_, 4: 1–51.
-* MacDonald, D. B., 1927, “Continuous Re-Creation and Atomic Time in Muslim Scholastic Theology,” _Isis_, 9: 326–344.
-* Maróth, M., 2011, “Averroes on the void,” in _La lumiére de l’intellect. La pensèe scientifique et philosophique d’Averroés dans son temps. Actes du IVe colloque international de la SIHSPAI_, A. Hasnaoui (ed.), Leuven: Peeters, pp. 11–22.
-* McGinnis, J., 2003, “The Topology of Time: an Analysis of Medieval Islamic Accounts of Discrete and Continuous Time,” _The Modern Schoolman_, 81: 5–25.
-* –––, 2004, “On the Moment of Substantial Change: a Vexed Question in the History of Ideas,” in _Interpreting Avicenna: Science and Philosophy in Medieval Islam_, J. McGinnis (ed.), Leiden: E. J. Brill, pp. 42–61.
-* –––, 2006a, “A Medieval Arabic Analysis of Motion at an Instant: The Avicennan Sources to the _Forma Fluens/Fluxus Formae_ Debate,” _British Journal for the History of Philosophy_, 39: 1989–205.
-* –––, 2006b, “Positioning Heaven: the Infidelity of a Faithful Aristotelian,” _Phronesis_, 51: 140–161.
-* –––, 2010, “Avicennan Infinity: A Select History of the Infinite through Avicenna,” _Documenti e Studi_, 21: 199–222.
-* –––, 2013, “Pointers, Guides, Founts and Gifts: The Reception of Avicennan Physics in the East,” _Oriens_, 41: 433–456.
-* –––, 2015, “A Small Discovery: Avicenna’s Theory of _Minima Naturalia_,” _Journal of the History of Philosophy_, 53: 1–24.
-* –––, 2018, “Changing Motion: The Place (and Misplace) of Avicenna’s Theory of Motion in the Post-Classical Islamic World,” _in The Arabic, Hebrew and Latin Reception of Avicenna’s Physics and Cosmology_, D. N. Hasse and A. Bertolacci (eds.) Scientia graeco-arabica 23, Berlin: De Gruyter, pp. 272–305.
-* Nasr, S. H., 1993, _An Introduction to Islamic Cosmological Doctrines_, Albany: State University of New York Press.
-* Nony, S., 2011, “La Dynamique d’Abû l-Barakât: Faire le vide pour Penser le Changement du Changement,” in _In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century_, P. Adamson (ed.), London: Warburg Institute, pp. 93–116.
-* Pines, S., 1936, _Beiträge zur islamischen Atomenlehre_, Berlin: A. Heine G.m.b.H.; 1997, _Studies in Islamic Atomism_, M. Schwarz (trans.), Jerusalem: The Magnes Press.
-* –––, 1979a, “Études sur Awhad al-Zaman Abu’l-Barakat al-Baghdadi,” in _Studies in Abu’l-Barakat al-Baghdadi, Physics and Metaphysics_ (The Collected Works of Shlomo Pines, Volume 1), Jerusalem: The Magnes Press, pp. 1–95.
-* –––, 1979b, “Nouvelles Études sur Awhad al-Zaman Abu’l-Barakat al-Baghdadi,” in _Studies in Abu’l-Barakat al-Baghdadi, Physics and Metaphysics_ (The Collected Works of Shlomo Pines, Volume 1), Jerusalem: The Magnes Press, pp. 96–73.
-* –––, 1979c, “Note on Abu’l-Barakat’s Celestial Physics,” in _Studies in Abu’l-Barakat al-Baghdadi, Physics and Metaphysics_ (The Collected Works of Shlomo Pines, Volume 1), Jerusalem: The Magnes Press, pp. 175–80.
-* Rashed, M., 2005, “Natural Philosophy,” in the _Cambridge Companion to Arabic Philosophy_, P. Adamson and R. Taylor (eds.), Cambridge: Cambridge University Press, pp. 287–307.
-* –––, 2008, “Avicenna’s Theory of Primary Mixture,” _Arabic Sciences and Philosophy_, 18: 19–58.
-* –––, 2011, “Le concept de lieu: Ibn al-Haytham, Averroés,” in _La lumiére de l’intellect. La pensèe scientifique et philosophique d’Averroés dans son temps. Actes du IVe colloque international de la SIHSPAI_, A. Hasnaoui (ed.), Leuven: Peeters, pp. 3–9.
-* Sabra, A.I., 1997, “Thabit ibn Qurra on the Infinite and Other Puzzles,” in _Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften_, 11: 1–33.
-* –––, 2006, “_Kalam_ Atomism As an Alternative Philosophy to Hellenizing _Falsafa_,” in _Arabic Theology, Arabic Philosophy. From the Many to the One: Essays in Celebration of Richard M. Frank_, J. E. Montgomery (ed.), Leuven: Peeters, pp. 199–272.
-* Sayili, A., 1984, “Ibn Sînâ and Buridan on the Dynamics of Projectile Motion” in _Ibn Sînâ, Dogumunum Bininci Yili Armagani_, A. Sayili (ed.), Ankara: Türk Tarih Kurumu Basimevi, pp. 141–60.
-* Setia, A., 2008, “Time, Motion, Distance, and Change in the Kalam of Fakhr al-Din al-Razi: a Preliminary Survey with Special Reference to the _Matalib Aliyyah_,” in _Islam & Science_, 6: 13–42.
-* Shamsi, F. A., 1984, “Ibn Sina’s Argument against Atomicity,” _Uluslararasi Ibni Sînâ Sempozyumu Bildirileri_, Ankara: Kultur ve Turism Bakanligi, pp. 479–94.
-* Stone, A., 2008, “Avicenna’s Theory of Primary Mixture,” _Arabic Sciences and Philosophy_, 18: 99–119.
-* van Ess, J., 2002, “60 Years After Shlomo Pines’s Beiträge and Half a Century of Research on Atomism in Islamic Theology,” in _Kleine Schriften_, H. Biesterfeldt (ed.) Leiden: Brill, II, pp. 1121–44.
-* Walbridge, J., 2012 “_Kalam_ Illuminationists, Place, and the Void,” in _La Nature et le Vide dans la Physique Médiévale_, J. Biard and S. Rommevauz (eds.), Turnhout: Brepols, pp. 119–35.
-* Wisnovsky, R., 2003, _Avicenna’s Metaphysics in Context_, Ithaca, NY: Cornell University Press.
-* Wolfson, H. A., 1929, _Crescas’ Critique of Aristotle: Problems of Aristotle’s Physics in Jewish and Arabic Philosophy_, Cambridge, MA: Harvard University Press.
-* –––, 1976, _The Philosophy of Kalam_, Cambridge: Harvard University Press.
-* Zarepour, M. S., 2020, “Avicenna on Mathematical Infinity,” _Archiv für Geschichte der Philosophie_, 102.3: 379–425.
+* Adamson, P., 2017, “Fakhr al-Dīn al-Rāzī on Place,” *Arabic Sciences and Philosophy*, 27: 205–236.
+* Adamson, P. and Lammer, A., 2020, “Fakhr al-Dīn al-Rāzī’s Platonist Account of the Essence of Time,” in *Philosophical Theology in Islam*, A. Shihadeh and J. Thiele (eds.) Leiden/Boston: Brill, pp. 95–122.
+* Ahmed, A. Q., 2016, “The Reception of Avicenna’s Theory of Motion in the Twelfth Century,” *Arabic Sciences and Philosophy*, 26: 215–243.
+* Baffioni, C., 1982, *Atomismo e antiatomismo nel pensiero islamico*, Series minor, Istituto universitario orientale (Naples) Seminario di studi asiatici, 16, Rome: Herder.
+* Cerami, C., 2012, “Mélange, *minima naturalia* et croissance animale dans le *Commentaire moyen* d’Averroès au *De genratione et corruptione* I,5,” in *La Nature et le vide dans la physique médiévale: Études dédiées à Edward Grant*, J. Biard and S. Rommevaux (eds.) Turnhout: Brepols, pp. 137–64.
+* Chase, M., 2019, “Damascius and al-Nazzām on the Atomic Leap,” *Mnemosyne*, 72(4): 585–620.
+* Craig, W. L., 2000, *The Kalam Cosmological Argument*, Eugene: Wipf & Stock Publishers.
+* Dhanani, A., 1994, *The Physical Theory of Kalam: Atoms, Space, and Void in Basrian Mu‘tazili Cosmology*, Leiden: E. J. Brill.
+* –––, 2002, “Problems in Eleventh-Century *Kalam* Physics,” *Bulletin of the Royal Institute for Inter-Faith Studies*, 4: 73–96.
+* –––, 2015, “The Impact of Ibn Sīnā’s Critique of Atomism on Subsequent *Kalām* Physics,” *Arabic Sciences and Philosophy*, 25: 79–104.
+* Frank, R., 1978, *Beings and Their Attributes: the teaching of the Basrian School of the Mu‘tazila in the Classical Period*, Albany: State University of New York Press.
+* Giannakis, E., 1998, “Yahya ibn ‘Adi Against John Philoponus on Place and Void,” in *Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften*, 12: 245–302.
+* Glasner, R. 2001, “Ibn Rushd’s Theory of *minima maturalia*,” *Arabic Sciences and Philosophy*, 11: 9–26.
+* –––, 2009, *Averroes’ Physics: A Turning Point in Medieval Natural Philosophy*, Oxford: Oxford University Press.
+* Harvey, S., 2004, “The Impact of Philoponus’ *Commentary on the Physics* on Averroes’ Three Commentaries on the *Physics*,” in *Philosophy, Science and Exegesis in Greek, Arabic and Latin Commentaries* (Volume 2), P. Adamson, H. Baltussen and M. W. F. Stone (eds.), London: Institute of Classical Studies, pp. 89–105.
+* Hasnawi, A., 1977, “Certain Notions of Time in Arab-Muslim Philosophy,” in *Time and the Philosophies*, Paul Ricoeur (ed.), Paris: UNESCO, pp. 49–79.
+* –––, 1984, “La dynamique d’Ibn Sina,” in *Études sur Avicenne*, J. Jolivet and R. Rashed (eds.), Paris: Les Belles Lettres, pp. 103–23.
+* –––, 2001, “La definition du mouvement dans *la Physique* du *Šifa*’ d’Avicenne,” *Arabic Sciences and Philosophy*, 11: 219–255.
+* –––, 2004, “Le Statut categorical du mouvement chez Avicenne: Contexte grec et postérité médiévale latine,” in *De Zénon d’Élée a Poincaré: Recueil d’études en homage a Roshdi Rashed*, R. Morelon and A. Hasnawi (eds.), Louvain-Paris: Peeters, pp. 607–22.
+* Lammer, A., 1994, *The Elements of Avicenna’s Physics: Greek Sources and Arabic Innovations*, Berlin, Boston: de Gruyters, 2017.
+* Lettinck, P., 1994, *Aristotle’s Physics and Its Reception in the Arabic World*, Leiden: E. J. Brill.
+* –––, 1999, “Ibn Sina on Atomism,” *al-Shajarah*, 4: 1–51.
+* MacDonald, D. B., 1927, “Continuous Re-Creation and Atomic Time in Muslim Scholastic Theology,” *Isis*, 9: 326–344.
+* Maróth, M., 2011, “Averroes on the void,” in *La lumiére de l’intellect. La pensèe scientifique et philosophique d’Averroés dans son temps. Actes du IVe colloque international de la SIHSPAI*, A. Hasnaoui (ed.), Leuven: Peeters, pp. 11–22.
+* McGinnis, J., 2003, “The Topology of Time: an Analysis of Medieval Islamic Accounts of Discrete and Continuous Time,” *The Modern Schoolman*, 81: 5–25.
+* –––, 2004, “On the Moment of Substantial Change: a Vexed Question in the History of Ideas,” in *Interpreting Avicenna: Science and Philosophy in Medieval Islam*, J. McGinnis (ed.), Leiden: E. J. Brill, pp. 42–61.
+* –––, 2006a, “A Medieval Arabic Analysis of Motion at an Instant: The Avicennan Sources to the *Forma Fluens/Fluxus Formae* Debate,” *British Journal for the History of Philosophy*, 39: 1989–205.
+* –––, 2006b, “Positioning Heaven: the Infidelity of a Faithful Aristotelian,” *Phronesis*, 51: 140–161.
+* –––, 2010, “Avicennan Infinity: A Select History of the Infinite through Avicenna,” *Documenti e Studi*, 21: 199–222.
+* –––, 2013, “Pointers, Guides, Founts and Gifts: The Reception of Avicennan Physics in the East,” *Oriens*, 41: 433–456.
+* –––, 2015, “A Small Discovery: Avicenna’s Theory of *Minima Naturalia*,” *Journal of the History of Philosophy*, 53: 1–24.
+* –––, 2018, “Changing Motion: The Place (and Misplace) of Avicenna’s Theory of Motion in the Post-Classical Islamic World,” *in The Arabic, Hebrew and Latin Reception of Avicenna’s Physics and Cosmology*, D. N. Hasse and A. Bertolacci (eds.) Scientia graeco-arabica 23, Berlin: De Gruyter, pp. 272–305.
+* Nasr, S. H., 1993, *An Introduction to Islamic Cosmological Doctrines*, Albany: State University of New York Press.
+* Nony, S., 2011, “La Dynamique d’Abû l-Barakât: Faire le vide pour Penser le Changement du Changement,” in *In the Age of Averroes: Arabic Philosophy in the Sixth/Twelfth Century*, P. Adamson (ed.), London: Warburg Institute, pp. 93–116.
+* Pines, S., 1936, *Beiträge zur islamischen Atomenlehre*, Berlin: A. Heine G.m.b.H.; 1997, *Studies in Islamic Atomism*, M. Schwarz (trans.), Jerusalem: The Magnes Press.
+* –––, 1979a, “Études sur Awhad al-Zaman Abu’l-Barakat al-Baghdadi,” in *Studies in Abu’l-Barakat al-Baghdadi, Physics and Metaphysics* (The Collected Works of Shlomo Pines, Volume 1), Jerusalem: The Magnes Press, pp. 1–95.
+* –––, 1979b, “Nouvelles Études sur Awhad al-Zaman Abu’l-Barakat al-Baghdadi,” in *Studies in Abu’l-Barakat al-Baghdadi, Physics and Metaphysics* (The Collected Works of Shlomo Pines, Volume 1), Jerusalem: The Magnes Press, pp. 96–73.
+* –––, 1979c, “Note on Abu’l-Barakat’s Celestial Physics,” in *Studies in Abu’l-Barakat al-Baghdadi, Physics and Metaphysics* (The Collected Works of Shlomo Pines, Volume 1), Jerusalem: The Magnes Press, pp. 175–80.
+* Rashed, M., 2005, “Natural Philosophy,” in the *Cambridge Companion to Arabic Philosophy*, P. Adamson and R. Taylor (eds.), Cambridge: Cambridge University Press, pp. 287–307.
+* –––, 2008, “Avicenna’s Theory of Primary Mixture,” *Arabic Sciences and Philosophy*, 18: 19–58.
+* –––, 2011, “Le concept de lieu: Ibn al-Haytham, Averroés,” in *La lumiére de l’intellect. La pensèe scientifique et philosophique d’Averroés dans son temps. Actes du IVe colloque international de la SIHSPAI*, A. Hasnaoui (ed.), Leuven: Peeters, pp. 3–9.
+* Sabra, A.I., 1997, “Thabit ibn Qurra on the Infinite and Other Puzzles,” in *Zeitschrift für Geschichte der arabisch-islamischen Wissenschaften*, 11: 1–33.
+* –––, 2006, “*Kalam* Atomism As an Alternative Philosophy to Hellenizing *Falsafa*,” in *Arabic Theology, Arabic Philosophy. From the Many to the One: Essays in Celebration of Richard M. Frank*, J. E. Montgomery (ed.), Leuven: Peeters, pp. 199–272.
+* Sayili, A., 1984, “Ibn Sînâ and Buridan on the Dynamics of Projectile Motion” in *Ibn Sînâ, Dogumunum Bininci Yili Armagani*, A. Sayili (ed.), Ankara: Türk Tarih Kurumu Basimevi, pp. 141–60.
+* Setia, A., 2008, “Time, Motion, Distance, and Change in the Kalam of Fakhr al-Din al-Razi: a Preliminary Survey with Special Reference to the *Matalib Aliyyah*,” in *Islam & Science*, 6: 13–42.
+* Shamsi, F. A., 1984, “Ibn Sina’s Argument against Atomicity,” *Uluslararasi Ibni Sînâ Sempozyumu Bildirileri*, Ankara: Kultur ve Turism Bakanligi, pp. 479–94.
+* Stone, A., 2008, “Avicenna’s Theory of Primary Mixture,” *Arabic Sciences and Philosophy*, 18: 99–119.
+* van Ess, J., 2002, “60 Years After Shlomo Pines’s Beiträge and Half a Century of Research on Atomism in Islamic Theology,” in *Kleine Schriften*, H. Biesterfeldt (ed.) Leiden: Brill, II, pp. 1121–44.
+* Walbridge, J., 2012 “*Kalam* Illuminationists, Place, and the Void,” in *La Nature et le Vide dans la Physique Médiévale*, J. Biard and S. Rommevauz (eds.), Turnhout: Brepols, pp. 119–35.
+* Wisnovsky, R., 2003, *Avicenna’s Metaphysics in Context*, Ithaca, NY: Cornell University Press.
+* Wolfson, H. A., 1929, *Crescas’ Critique of Aristotle: Problems of Aristotle’s Physics in Jewish and Arabic Philosophy*, Cambridge, MA: Harvard University Press.
+* –––, 1976, *The Philosophy of Kalam*, Cambridge: Harvard University Press.
+* Zarepour, M. S., 2020, “Avicenna on Mathematical Infinity,” *Archiv für Geschichte der Philosophie*, 102.3: 379–425.
 
 ## Academic Tools
 
@@ -242,4 +241,4 @@ al-Kindī继续使用这个论证的结论来维持时间本身必须是有限�
 [al-Kindi](https://plato.stanford.edu/entries/al-kindi/) | [Aristotle, Special Topics: natural philosophy](https://plato.stanford.edu/entries/aristotle-natphil/) | [atomism: ancient](https://plato.stanford.edu/entries/atomism-ancient/) | [Ibn Rushd \[Averroes\]](https://plato.stanford.edu/entries/ibn-rushd/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [Maimonides](https://plato.stanford.edu/entries/maimonides/) | [Neoplatonism](https://plato.stanford.edu/entries/neoplatonism/) | [Philoponus](https://plato.stanford.edu/entries/philoponus/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Jon McGinnis](https://www.umsl.edu/\~philo/People/Faculty/index.html) <[_mcginnis@umsl.edu_](mailto:mcginnis%40umsl%2eedu)>
+[Jon McGinnis](https://www.umsl.edu/\~philo/People/Faculty/index.html) <[*mcginnis@umsl.edu*](mailto:mcginnis%40umsl%2eedu)>

@@ -15,7 +15,6 @@
 
 本文概述了最近关于这些问题的研究，并在此过程中讨论了其他问题。本文的目标不是提供关于位置形而上学的一般解释。相反，它侧重于与位置及其与分体论的相互作用有关的问题（例如，Kleinschmidt（2014）中收集的论文）。
 
- 
 [补充：位置系统](https://plato.stanford.edu/entries/location-mereology/systems-of-location.html)
 
 ---

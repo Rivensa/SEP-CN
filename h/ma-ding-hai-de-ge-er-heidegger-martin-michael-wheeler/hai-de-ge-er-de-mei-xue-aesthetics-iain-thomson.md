@@ -1,9 +1,9 @@
 # 海德格尔的美学 aesthetics (Iain Thomson)
 
-_首次发表于2010年2月4日星期四；实质性修订于2024年4月3日星期三_
+*首次发表于2010年2月4日星期四；实质性修订于2024年4月3日星期三*
 
 马丁·海德格尔 反对现代哲学“美学”传统，因为他支持真正的“艺术作品”，他认为美学方法对艺术的处理是模糊的。 海德格尔对美学的批判和他对艺术的倡导因此形成了一个互补的整体。第 1 节通过简要概述 马丁·海德格尔 的哲学立场反对美学，支持艺术，为读者定位。第 2 节解释 马丁·海德格尔 对美学的哲学批判，展示他为什么认为美学源自现代“主体主义”，并导致晚现代的“框架化”，海德格尔试图从内部超越这些历史世界观，部分地通过他对艺术的现象学解释。第 3 节澄清了这种试图从内部超越现代美学的努力，重点放在 马丁·海德格尔 试图通过文森特·梵高的一个特定（“存在”的）艺术作品，来建立一个从艺术的本体真理到艺术的本体真理的现象学桥梁。正如我们将看到的，海德格尔试图展示艺术如何帮助我们进入一个真正有意义的后现代时代。第 4 节通过解释这种对 马丁·海德格尔 项目的理解，使我们能够解决围绕他对梵高解释的长期争议。
- 
+
 ***
 
 ## 1. 《马丁·海德格尔的美学》简介：超越矛盾修辞
@@ -92,7 +92,7 @@ _首次发表于2010年2月4日星期四；实质性修订于2024年4月3日星�
 
 遵循现象学的原则，我们应该以一种不受我们从形而上学传统中继承的假设扭曲的方式描述我们对艺术的体验，然而，至少有两个原因使这变得更容易说而不易行。首先，主体/客体二分法在我们的自我理解中根深蒂固，以至于已经成为隐含地构建基本美学方法的结构（正如我们所见）。其次，立即清楚在何处（更不用说如何）寻找以非美学方式发现艺术是不明显的。实际上，我们现在似乎自然地认为，使我们对艺术对象的体验具有重要意义的是，这些体验使我们作为人类主体暂时超越了我们自己主观性的范围，通过与艺术对象取得联系，因为这些超越性的体验可以深刻丰富我们的主观体验。
 
-然而，在海德格尔看来，这种美学视角颠倒了故事。我们并不是从我们的主观领域开始，暂时离开这些领域以体验艺术对象，然后再次回到主观性中，通过我们在艺术对象的外部世界中冒险捕获的“战利品”来丰富自己（BT 89/SZ 62）。相反，事实正好相反：人类的_存在_最初是“站在外面”(_ek-sistere_)的，与我们通常理解自己的世界紧密相关。我们偶尔会经历自己作为主体面对客体的经验（例如，当我们试图学习以现实主义方式绘画时，或当我们发现自己站在一个艺术品前感到困惑时），但是将自己视为主体面对客体的经验相对较少，并且发生在我们与我们的实践关切的世界的更基本经验的背景下，这种经验表现为我们与世界的基本自我/世界交织，而我们总是会回到这种经验中。
+然而，在海德格尔看来，这种美学视角颠倒了故事。我们并不是从我们的主观领域开始，暂时离开这些领域以体验艺术对象，然后再次回到主观性中，通过我们在艺术对象的外部世界中冒险捕获的“战利品”来丰富自己（BT 89/SZ 62）。相反，事实正好相反：人类的_存在_最初是“站在外面”(*ek-sistere*)的，与我们通常理解自己的世界紧密相关。我们偶尔会经历自己作为主体面对客体的经验（例如，当我们试图学习以现实主义方式绘画时，或当我们发现自己站在一个艺术品前感到困惑时），但是将自己视为主体面对客体的经验相对较少，并且发生在我们与我们的实践关切的世界的更基本经验的背景下，这种经验表现为我们与世界的基本自我/世界交织，而我们总是会回到这种经验中。
 
 “在马丁·海德格尔喜欢说的话中，我们通常并且主要地，不是站在世界中的实体之外，冷静地观察它们，甚至是充满激情地观察，希望超越一个我们通常已经超越的孤立主观领域。那么，为什么我们要偏袒那种疏离的主体/客体框架，当我们试图从哲学角度接近艺术时所产生的呢？我们不应该；试图在审美方法论的范围内接近艺术，就好比试图通过盯着一辆坏了的自行车来学习骑车的感觉：它过于偏袒观察者的疏离视角，以至于参与性视角被遮蔽和遗忘。在海德格尔看来，现代哲学中现象学上的错误前提误导了美学，使其在错误的地方寻找艺术作品，将其误认为是人类与世界基本互动的衍生而非基本层面，从而将对外部对象的强烈主观体验误认为是真正艺术作品的邂逅。”
 
@@ -400,119 +400,119 @@ Schapiro写信给马丁·海德格尔，想要了解他实际上是在何时何�
 
 Abbreviations Used for Works by Heidegger (translations often modified)
 
-| BT   | _Being and Time_. J. Macquarrie and E. Robinson, trans. New York: Harper & Row, 1962.                                                                                   |
+| BT   | *Being and Time*. J. Macquarrie and E. Robinson, trans. New York: Harper & Row, 1962.                                                                                   |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CP   | _Contributions to Philosophy (From Enowning)_. P. Emad and K. Maly, trans. Bloomington, IN: Indiana University Press, 1999.                                             |
-| EP   | _The End of Philosophy_. J. Stambaugh, trans. New York: Harper & Row, 1973.                                                                                             |
-| DT   | _Discourse on Thinking_. J. Anderson and E. Freund, trans. New York: Harper & Row, 1966.                                                                                |
-| EHP  | _Elucidations of Hölderlin’s Poetry_. K. Hoeller, trans. New York: Humanity Books, 2000.                                                                                |
-| G    | _Gelassenheit_. Pfulligen: Neske, 1959.                                                                                                                                 |
-| GA5  | _Gesamtausgabe_, Vol. 5: _Holzwege_. Friedrich-Wilhelm von Herrmann, ed. Frankfurt: V. Klostermann, 1977.                                                               |
-| GA7  | _Gesamtausgabe_ Vol. 7: _Vorträge und Aufsätze_. Friedrich-Wilhelm von Herrmann, ed. Frankfurt a. M.: V. Klostermann, 2000.                                             |
-| GA8  | _Gesamtausgabe_ Vol. 8: _Was Heißt Denken?_ P.-L. Coriando, ed. Frankfurt a. M.: V. Klostermann, 2002.                                                                  |
-| GA9  | _Gesamtausgabe_ Vol. 9: _Wegmarken_. Friedrich-Wilhelm von Herrmann, ed. Frankfurt a. M.: V. Klostermann, 1976.                                                         |
-| GA20 | _Gesamtausgabe_, Vol. 20: _Prolegomena zur Geschichte des Zeitbegriffs_. Petra Jaeger, ed. Frankfurt: V. Klostermann, 1979.                                             |
-| GA39 | _Gesamtausgabe_, Vol. 39: _Hölderlins Hymnen “Germanien” und “Der Rhein,”_ S. Ziegler, ed., Frankfurt: V. Klostermann, 1980.                                            |
-| GA40 | _Gesamtausgabe_, Vol. 40. _Einführung in die Metaphysik_. Petra Jaeger, ed. Frankfurt: V. Klostermann, 1983.                                                            |
-| GA41 | _Gesamtausgabe_, Vol. 41. _Die Frage nach dem Ding_. Petra Jaeger, ed. Frankfurt: V. Klostermann, 1984.                                                                 |
-| GA43 | _Gesamtausgabe_, Vol. 43. _Nietzsche: Der Wille zue Macht als Kunst. Bernd Heimbüchel_, ed. Frankfurt: V. Klostermann, 1985.                                            |
-| GA53 | _Gesamtausgabe_, Vol. 53. _Hölderlins Hymne “Der Ister,” Walter Biemel_, ed. Frankfurt: V. Klostermann, 1984.                                                           |
-| GA65 | _Gesamtausgabe_, Vol. 65: _Beiträge zur Philosophie (Vom Ereignis)_. Friedrich-Wilhelm von Herrmann, ed. Frankfurt: V. Klostermann, 1989.                               |
-| HB   | “Selected Letters from the Heidegger-Blochmann Correspondence.” F. Edler, trans. _Graduate Faculty Philosophy Journal_ 14–15 (1992): 559–77.                            |
-| HBC  | Heidegger, Martin, and Blochmann, Elizabeth. _Martin Heidegger-Elizabeth Blochmann, Briefwechsel 1918–1969_. Ed. J. W. Storck. Marbach: Deutsche Literaturarchiv, 1989. |
-| HCT  | _History of the Concept of Time_. T. Kisiel, trans. Bloomington and Indianapolis: Indiana University Press, 1985.                                                       |
-| HHI  | _Hölderlin’s Hymn “The Ister”_, W. McNeill and J. Davis, trans. Bloomington and Indianapolis: Indiana University Press, 1996.                                           |
-| ID   | _Identity and Difference_. J. Stambaugh, trans. New York: Harper & Row, 1969.                                                                                           |
-| IM   | _Introduction to Metaphysics_. G. Fried and R. Polt, trans. New Haven: Yale University Press, 2000.                                                                     |
-| N1   | _Nietzsche: The Will to Power as Art_. David Farrell Krell, ed. and trans. New York: Harper & Row, 1979.                                                                |
-| OBT  | _Off the Beaten Path_. J. Young and K. Haynes, eds. and trans. Cambridge: Cambridge University Press, 2002.                                                             |
-| P    | _Pathmarks_. William McNeill, ed. Cambridge: Cambridge University Press, 1998.                                                                                          |
-| PLT  | _Poetry, Language, Thought_. A. Hofstadter, trans. New York: Harper & Row, 1971.                                                                                        |
-| QCT  | _The Question Concerning Technology_. W. Lovitt, trans. New York: Harper and Row, 1977.                                                                                 |
-| QT   | _The Question Concerning the Thing_. J. Reid and B. Crowe, trans. New York: Rowman and Littlefield, 2018.                                                               |
-| SZ   | _Sein und Zeit_. Tübingen: M. Niemeyer, 1993.                                                                                                                           |
-| WCT  | _What Is Called Thinking?_ J. G. Gray, trans. New York: Harper & Row, 1968.                                                                                             |
+| CP   | *Contributions to Philosophy (From Enowning)*. P. Emad and K. Maly, trans. Bloomington, IN: Indiana University Press, 1999.                                             |
+| EP   | *The End of Philosophy*. J. Stambaugh, trans. New York: Harper & Row, 1973.                                                                                             |
+| DT   | *Discourse on Thinking*. J. Anderson and E. Freund, trans. New York: Harper & Row, 1966.                                                                                |
+| EHP  | *Elucidations of Hölderlin’s Poetry*. K. Hoeller, trans. New York: Humanity Books, 2000.                                                                                |
+| G    | *Gelassenheit*. Pfulligen: Neske, 1959.                                                                                                                                 |
+| GA5  | *Gesamtausgabe*, Vol. 5: *Holzwege*. Friedrich-Wilhelm von Herrmann, ed. Frankfurt: V. Klostermann, 1977.                                                               |
+| GA7  | *Gesamtausgabe* Vol. 7: *Vorträge und Aufsätze*. Friedrich-Wilhelm von Herrmann, ed. Frankfurt a. M.: V. Klostermann, 2000.                                             |
+| GA8  | *Gesamtausgabe* Vol. 8: *Was Heißt Denken?* P.-L. Coriando, ed. Frankfurt a. M.: V. Klostermann, 2002.                                                                  |
+| GA9  | *Gesamtausgabe* Vol. 9: *Wegmarken*. Friedrich-Wilhelm von Herrmann, ed. Frankfurt a. M.: V. Klostermann, 1976.                                                         |
+| GA20 | *Gesamtausgabe*, Vol. 20: *Prolegomena zur Geschichte des Zeitbegriffs*. Petra Jaeger, ed. Frankfurt: V. Klostermann, 1979.                                             |
+| GA39 | *Gesamtausgabe*, Vol. 39: *Hölderlins Hymnen “Germanien” und “Der Rhein,”* S. Ziegler, ed., Frankfurt: V. Klostermann, 1980.                                            |
+| GA40 | *Gesamtausgabe*, Vol. 40. *Einführung in die Metaphysik*. Petra Jaeger, ed. Frankfurt: V. Klostermann, 1983.                                                            |
+| GA41 | *Gesamtausgabe*, Vol. 41. *Die Frage nach dem Ding*. Petra Jaeger, ed. Frankfurt: V. Klostermann, 1984.                                                                 |
+| GA43 | *Gesamtausgabe*, Vol. 43. *Nietzsche: Der Wille zue Macht als Kunst. Bernd Heimbüchel*, ed. Frankfurt: V. Klostermann, 1985.                                            |
+| GA53 | *Gesamtausgabe*, Vol. 53. *Hölderlins Hymne “Der Ister,” Walter Biemel*, ed. Frankfurt: V. Klostermann, 1984.                                                           |
+| GA65 | *Gesamtausgabe*, Vol. 65: *Beiträge zur Philosophie (Vom Ereignis)*. Friedrich-Wilhelm von Herrmann, ed. Frankfurt: V. Klostermann, 1989.                               |
+| HB   | “Selected Letters from the Heidegger-Blochmann Correspondence.” F. Edler, trans. *Graduate Faculty Philosophy Journal* 14–15 (1992): 559–77.                            |
+| HBC  | Heidegger, Martin, and Blochmann, Elizabeth. *Martin Heidegger-Elizabeth Blochmann, Briefwechsel 1918–1969*. Ed. J. W. Storck. Marbach: Deutsche Literaturarchiv, 1989. |
+| HCT  | *History of the Concept of Time*. T. Kisiel, trans. Bloomington and Indianapolis: Indiana University Press, 1985.                                                       |
+| HHI  | *Hölderlin’s Hymn “The Ister”*, W. McNeill and J. Davis, trans. Bloomington and Indianapolis: Indiana University Press, 1996.                                           |
+| ID   | *Identity and Difference*. J. Stambaugh, trans. New York: Harper & Row, 1969.                                                                                           |
+| IM   | *Introduction to Metaphysics*. G. Fried and R. Polt, trans. New Haven: Yale University Press, 2000.                                                                     |
+| N1   | *Nietzsche: The Will to Power as Art*. David Farrell Krell, ed. and trans. New York: Harper & Row, 1979.                                                                |
+| OBT  | *Off the Beaten Path*. J. Young and K. Haynes, eds. and trans. Cambridge: Cambridge University Press, 2002.                                                             |
+| P    | *Pathmarks*. William McNeill, ed. Cambridge: Cambridge University Press, 1998.                                                                                          |
+| PLT  | *Poetry, Language, Thought*. A. Hofstadter, trans. New York: Harper & Row, 1971.                                                                                        |
+| QCT  | *The Question Concerning Technology*. W. Lovitt, trans. New York: Harper and Row, 1977.                                                                                 |
+| QT   | *The Question Concerning the Thing*. J. Reid and B. Crowe, trans. New York: Rowman and Littlefield, 2018.                                                               |
+| SZ   | *Sein und Zeit*. Tübingen: M. Niemeyer, 1993.                                                                                                                           |
+| WCT  | *What Is Called Thinking?* J. G. Gray, trans. New York: Harper & Row, 1968.                                                                                             |
 
 ### Secondary Sources
 
-* Babich, B. E., 2003, “From Van Gogh’s Museum to the Temple at Bassae: Heidegger’s Truth of Art and Schapiro’s Art History,” _Culture, Theory & Critique_, 44(2): 151–69.
-* Bartky, S., 1981, “Heidegger’s Philosophy of Art,” in T. Sheehan (ed.), _Heidegger: The Man and the Thinker_, Chicago: Precedent Publishing.
-* Bernasconi, R., 1998, “Heidegger’s Displacement of the Concept of Art,” in M. Kelly (ed.), _Encyclopedia of Aesthetics_ (Volume 2), Oxford: Oxford University Press.
-* –––, 1999, “The Greatness of the Work of Art,” in J. Risser (ed.), _Heidegger Toward the Turn: Essays on the Work of the 1930s_, Albany: SUNY Press.
-* Brodsley, D., 1981, _L.A. Freeway: An Appreciative Essay_, Berkeley: University of California Press.
-* Carman, T., 1998, “Heidegger, Martin: Survey of Thought,” in Kelly, ed., _Encyclopedia of Aesthetics_ (Volume 2), Oxford: Oxford University Press.
-* Cooper, D. (ed.), 1995, _A Companion to Aesthetics_, Oxford: Blackwell.
-* Craven, D., 1994, “Meyer Schapiro, Karl Korsch, and the Emergence of Critical Theory,” _The Oxford Art Journal_ 17(1): 42–54.
-* –––, 1997, “A Series of Interviews: Meyer Schapiro and Lillian Milgram Schapiro with David Craven,” _Res_, 31: 151–68.
-* Crawford, M. B., 2009, _Shop Class as Soulcraft: An Inquiry Into the Value of Work_, New York: Penguin.
-* Crowell, S., 2010, “Phenomenology and Aesthetics; or, Why Art Matters,” in _Phenomenology and the Visual Arts_, Joseph Parry (ed.), London: Routledge.
-* Derrida, J., 1985, _The Ear of the Other: Otobiography, Transference, Translation_, C. V. MacDonald (ed.), P. Kamuf and A. Ronell (trans.), New York: Schocken Books.
-* –––, 1987, _The Truth in Painting_, G. Bennington and I. McLeod (trans.), Chicago: University of Chicago Press.
-* Dreyfus, H. L., 1991, _Being-in-the-World: A Commentary on Heidegger’s_ Being and Time, _Division I_, Cambridge, MA: MIT Press.
-* –––, 2005, “Heidegger’s Ontology of Art,” in H. L. Dreyfus and M. A. Wrathall (eds.), _A Companion to Heidegger_, Oxford: Blackwell.
-* –––, 2009, _On the Internet_, 2nd ed., London: Routledge.
-* Dreyfus, H. L., and S. D. Kelly, 2011, _All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age_, New York: Free Press.
-* Edwards, C., 2004, _The Shoes of Van Gogh: A Spiritual and Artistic Journey to the Ordinary_, New York: The Crossroad Publishing Company.
-* Eldred, M., 2006, “Heidegger’s Hölderlin and John Cage,” _Artefact_ (12), [available online](http://www.arte-fact.org/heicagen.html).
-* Foucault, M., 1983, _This Is Not a Pipe_, J. Harkness (ed. and trans.), Berkeley: University of California Press.
-* Friedman, M., 2000, _A Parting of the Ways_: _Carnap, Cassirer, and Heidegger_, Chicago: Open Court.
-* Geulen, E., 2006, _The End of Art: Readings in a Rumor after Hegel_, J. McFarland (trans.), Stanford: Stanford University Press.
-* Gover, K., 2008, “The Overlooked Work of Art in ‘The Origin of the Work of Art,’” _International Philosophical Quarterly_, 48(2): 143–54.
-* Guignon, C., 1983, _Heidegger and the Problem of Knowledge_, Indianapolis: Hackett.
-* –––, 2003, “The Origin of the Work of Art” _Midwest Studies in Philosophy_, 27(1): 25–44.
-* Hammermeister, K., 2002, _The German Aesthetic Tradition_, Cambridge: Cambridge University Press.
-* Hansen, R. L., 2017, “Immanent Transcendence in the Work of Art: Jaspers and Heidegger on Van Gogh,” in _Van Gogh Among the Philosophers: Painting, Thinking, Being_, David Nichols (ed.), Lanham: Lexington.
-* Harries, K., 1998, “Heidegger’s Confrontation with Aesthetics,” in M. Kelly (ed.), _Encyclopedia of Aesthetics_ (Volume 2), Oxford: Oxford University Press.
-* –––, 2009, _Art Matters: A Critical Commentary on Heidegger’s_ “The Origin of the Work of Art,” Dordrecht: Springer.
-* Kelly, M., 2003, _Iconoclasm in Aesthetics_, Cambridge: Cambridge University Press.
-* Kockelmans, J., 1985, _Heidegger on Art and Art Works_, Dordrecht: Nijhoff.
-* Longtin, R., 2017, “Immanent Transcendence in the Work of Art: Heidegger and Jaspers on Van Gogh,” in Nichols (ed.), _Van Gogh Among the Philosophers: Painting, Thinking, Being_, Lanham, MD: Lexington, pp. 137–58.
-* Martin, W., 2006, _Theories of Judgment: Psychology, Logic Phenomenology_, Cambridge: Cambridge University Press.
-* Mitchell, A. J., 2010, _Heidegger Among the Sculptors: Body, Space, and the Art of Dwelling_, Stanford: Stanford University Press.
-* Mulhall, S., 2019, “Heidegger’s Fountain: Ecstasis, Mimesis, and Engrossment in the Origin of the Work of Art,” _Proceedings of the Aristotelian Society_, CXIX(2): 4–22.
-* Nowell-Smith, D., 2012, “The Art of Fugue: Heidegger on Rhythm,” _Gatherings: The Heidegger Circle Annual_, 2: 41–64.
-* O’Halloran, P., 2020, “What if Heidegger used Fountain instead of van Gogh’s Shoes to Launch the Origin of a Work of Art?”, _The Marcel Duchamp Studies Online Journal_ (18 August 2020). \[[O’Halloran 2020 available online](https://www.toutfait.com/what-if-heidegger-used-fountain-instead-of-van-goghs-shoes-to-launch-the-origin-of-a-work-of-art)]
-* Olafson, F. A., 1987, _Heidegger and the Philosophy of Mind_, New Haven, Yale University Press.
-* Petzet, H. W., 1993, _Encounters and Dialogues with Martin Heidegger, 1929–1976_, P. Emad and K. Maly (trans.), Chicago: The University of Chicago Press.
-* Pippin, R., 2014, _After the Beautiful: Hegel and the Philosophy of Pictorial Modernism_, Chicago: University of Chicago Press.
-* Pöggeler, O., 1972, _Philosophie und Politik bei Heidegger_, Freiburg: Alber.
-* Richardson, J., 1986, _Existential Epistemology: A Heideggerian Critique of the Cartesian Project_, Oxford: Clarendon.
-* Rentmeester, C. and Warren, Jeff R. (eds), 2022, _Heidegger and Music_, Lanham, MD: Rowman & Littlefield.
-* Rorty, R., 1991, _Essays on Heidegger and Others: Philosophical Papers Volume 2_, Cambridge: Cambridge University Press.
-* Sallis, J., 2008, _Transfigurements: On the True Sense of Art_, Chicago: University of Chicago Press.
-* Sandel, M. J., 2007, _The Case Against Perfection: Ethics in the Age of Genetic Engineering_, Cambridge, MA; Belknap.
-* Seubold, G., 1993, “Heideggers nachgelassene Klee-Notizen,” _Heidegger Studies_ 9, 5–12
-* –––, 1996, _Kunst als Ereignis: Heideggers Weg zu einer nicht mehr metaphysischen Kunst_, Bonn: Bouvier Verlag.
-* Schapiro, M., 1968, “The Still Life as a Personal Object—A Note on Heidegger and van Gogh,” in M. Schapiro, _Theory and Philosophy of Art: Style, Artist, and Society_, New York: George Braziller, 1994.
-* –––, 1994, “Further Notes on Heidegger and van Gogh,” in M. Schapiro, _Theory and Philosophy of Art: Style, Artist, and Society_, New York: George Braziller.
-* Schmidt, D., 2013, _Heidegger, Klee, and Gadamer on Gesture and Genesis_, Bloomington: Indiana University Press.
-* Sharr, A., 2006, _Heidegger’s Hut_, Cambridge, MA; The MIT Press.
-* Shermer, M., 2008, “Patternicity: Finding Meaningful Patterns in Meaningless Noise,” _Scientific American Magazine_, December, \[[available online](http://www.scientificamerican.com/article.cfm?id=patternicity-finding-meaningful-patterns)].
-* Taminiaux, J., 1993, “The Origin of ‘The Origin of the Work of Art,’” in J. Sallis (ed.), _Reading Heidegger: Commemorations_, Bloomington: Indiana University Press.
-* Taylor, C., 2007, _A Secular Age_. Cambridge, MA: Harvard University Press.
-* Thomson, I., 1998, “The Silence of the Limbs: Critiquing Culture from a Heideggerian Understanding of the Work of Art,” _Enculturation_, 2(1), \[[available online](http://www.enculturation.net/2\1/thomson.html)].
-* –––, 2004, “Ontology and Ethics at the Intersection of Phenomenology and Environmental Philosophy,” _Inquiry_, 47(4): 380–412.
-* –––, 2004b, “Heidegger’s Perfectionist Philosophy of Education in _Being and Time_,” _Continental Philosophy Review_, 37(4): 439–467.
-* –––, 2005, _Heidegger on Ontotheology: Technology and the Politics of Education_, Cambridge: Cambridge University Press.
-* –––, 2011, _Heidegger, Art, and Postmodernity_, Cambridge: Cambridge University Press.
-* –––, 2013A, “Death and Demise in _Being and Time_,” in Mark Wrathall (ed.), _The Cambridge Companion to Being and Time_, Cambridge: Cambridge University Press.
-* –––, 2013B, “Heideggerian Perfectionism and the Phenomenology of the Pedagogical Truth Event,” in Kevin Hermberg and Paul Gyllenhammer (eds.), _Phenomenology and Virtue Ethics_, London: Bloomsbury.
-* –––, 2016, “Heideggerian Phenomenology and the Postmetaphysical Politics of Ontological Pluralism,” in S. West Gurley and Geoffrey Pfeifer (eds.), _Phenomenology and the Political_, London: Rowman and Littlefield.
-* –––, 2017A, “Heidegger’s Nazism in the Light of his early _Black Notebooks_: A View from America,” in Alfred Denker and Holger Zaborowski (eds.), _Zur Hermeneutik der ‘Schwarzen Hefte’: Heidegger Jahrbuch 11_, Freiburg: Karl Alber.
-* –––, 2017B, “Thinking Love: Heidegger and Arendt,” _Continental Philosophy Review_, 50(4): 453–78.
-* –––, 2021, “The Nothing,” in Mark Wrathall (ed.), _The Heidegger Lexicon_, Cambridge: Cambridge University Press.
-* –––, 2005, _Rethinking Death in and after Heidegger_, Cambridge: Cambridge University Press.
-* Torsen, I., 2014, “What Was Abstract Art? (From the Point of View of Heidegger),” _The Journal of Aesthetics and Art Criticism_, 72(3): 291–302.
-* –––, 2016, “Disinterest and Truth. On Heidegger’s Interpretation of Kant’s Aesthetics,” _British Journal of Aesthetics_, 56(1): 15–32.
-* –––, 2018, “The Problem of Agency in Heidegger’s Interpretation of Van Gogh,” in _Van Gogh Among the Philosophers: Painting, Thinking, Being_, David Nichols (ed.), Lanham: Lexington.
-* Van Gogh, V., 1872–89 \[1991], _The Complete Letters of Vincent van Gogh_, 3 volumes, R. Harrison (ed.), J. van Gogh-Bonger, (trans.), Boston, MA: Bulfinch.
-* Vattimo, G., 2008, _Art’s Claim to Truth_, S. Zabala (ed.), L. D’Isanto (trans.), New York: Columbia University Press.
-* Von Herrmann. F.-W., 1980, _Heideggers Philosophie der Kunst_, Frankfurt: Klostermann.
-* Wolin, R., 1990, _The Politics of Being: The Political Thought of Martin Heidegger_, New York: Columbia University Press.
-* Wrathall, M. A., 2006, _How to Read Heidegger_, New York: Norton.
-* –––, 2011, “The Phenomenological Relevance of Art,” in Joseph D. Parry (ed.), _Art and Phenomenology_, London: Routledge University Press, 9–30.
-* Wright, K., 1998, “Heidegger and Hölderlin,” in M. Kelly (ed.), _Encyclopedia of Aesthetics_ (Volume 2), Oxford: Oxford University Press.
-* Young, J., 2001, _Heidegger’s Philosophy of Art_, Cambridge: Cambridge University Press.
+* Babich, B. E., 2003, “From Van Gogh’s Museum to the Temple at Bassae: Heidegger’s Truth of Art and Schapiro’s Art History,” *Culture, Theory & Critique*, 44(2): 151–69.
+* Bartky, S., 1981, “Heidegger’s Philosophy of Art,” in T. Sheehan (ed.), *Heidegger: The Man and the Thinker*, Chicago: Precedent Publishing.
+* Bernasconi, R., 1998, “Heidegger’s Displacement of the Concept of Art,” in M. Kelly (ed.), *Encyclopedia of Aesthetics* (Volume 2), Oxford: Oxford University Press.
+* –––, 1999, “The Greatness of the Work of Art,” in J. Risser (ed.), *Heidegger Toward the Turn: Essays on the Work of the 1930s*, Albany: SUNY Press.
+* Brodsley, D., 1981, *L.A. Freeway: An Appreciative Essay*, Berkeley: University of California Press.
+* Carman, T., 1998, “Heidegger, Martin: Survey of Thought,” in Kelly, ed., *Encyclopedia of Aesthetics* (Volume 2), Oxford: Oxford University Press.
+* Cooper, D. (ed.), 1995, *A Companion to Aesthetics*, Oxford: Blackwell.
+* Craven, D., 1994, “Meyer Schapiro, Karl Korsch, and the Emergence of Critical Theory,” *The Oxford Art Journal* 17(1): 42–54.
+* –––, 1997, “A Series of Interviews: Meyer Schapiro and Lillian Milgram Schapiro with David Craven,” *Res*, 31: 151–68.
+* Crawford, M. B., 2009, *Shop Class as Soulcraft: An Inquiry Into the Value of Work*, New York: Penguin.
+* Crowell, S., 2010, “Phenomenology and Aesthetics; or, Why Art Matters,” in *Phenomenology and the Visual Arts*, Joseph Parry (ed.), London: Routledge.
+* Derrida, J., 1985, *The Ear of the Other: Otobiography, Transference, Translation*, C. V. MacDonald (ed.), P. Kamuf and A. Ronell (trans.), New York: Schocken Books.
+* –––, 1987, *The Truth in Painting*, G. Bennington and I. McLeod (trans.), Chicago: University of Chicago Press.
+* Dreyfus, H. L., 1991, *Being-in-the-World: A Commentary on Heidegger’s* Being and Time, *Division I*, Cambridge, MA: MIT Press.
+* –––, 2005, “Heidegger’s Ontology of Art,” in H. L. Dreyfus and M. A. Wrathall (eds.), *A Companion to Heidegger*, Oxford: Blackwell.
+* –––, 2009, *On the Internet*, 2nd ed., London: Routledge.
+* Dreyfus, H. L., and S. D. Kelly, 2011, *All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age*, New York: Free Press.
+* Edwards, C., 2004, *The Shoes of Van Gogh: A Spiritual and Artistic Journey to the Ordinary*, New York: The Crossroad Publishing Company.
+* Eldred, M., 2006, “Heidegger’s Hölderlin and John Cage,” *Artefact* (12), [available online](http://www.arte-fact.org/heicagen.html).
+* Foucault, M., 1983, *This Is Not a Pipe*, J. Harkness (ed. and trans.), Berkeley: University of California Press.
+* Friedman, M., 2000, *A Parting of the Ways*: *Carnap, Cassirer, and Heidegger*, Chicago: Open Court.
+* Geulen, E., 2006, *The End of Art: Readings in a Rumor after Hegel*, J. McFarland (trans.), Stanford: Stanford University Press.
+* Gover, K., 2008, “The Overlooked Work of Art in ‘The Origin of the Work of Art,’” *International Philosophical Quarterly*, 48(2): 143–54.
+* Guignon, C., 1983, *Heidegger and the Problem of Knowledge*, Indianapolis: Hackett.
+* –––, 2003, “The Origin of the Work of Art” *Midwest Studies in Philosophy*, 27(1): 25–44.
+* Hammermeister, K., 2002, *The German Aesthetic Tradition*, Cambridge: Cambridge University Press.
+* Hansen, R. L., 2017, “Immanent Transcendence in the Work of Art: Jaspers and Heidegger on Van Gogh,” in *Van Gogh Among the Philosophers: Painting, Thinking, Being*, David Nichols (ed.), Lanham: Lexington.
+* Harries, K., 1998, “Heidegger’s Confrontation with Aesthetics,” in M. Kelly (ed.), *Encyclopedia of Aesthetics* (Volume 2), Oxford: Oxford University Press.
+* –––, 2009, *Art Matters: A Critical Commentary on Heidegger’s* “The Origin of the Work of Art,” Dordrecht: Springer.
+* Kelly, M., 2003, *Iconoclasm in Aesthetics*, Cambridge: Cambridge University Press.
+* Kockelmans, J., 1985, *Heidegger on Art and Art Works*, Dordrecht: Nijhoff.
+* Longtin, R., 2017, “Immanent Transcendence in the Work of Art: Heidegger and Jaspers on Van Gogh,” in Nichols (ed.), *Van Gogh Among the Philosophers: Painting, Thinking, Being*, Lanham, MD: Lexington, pp. 137–58.
+* Martin, W., 2006, *Theories of Judgment: Psychology, Logic Phenomenology*, Cambridge: Cambridge University Press.
+* Mitchell, A. J., 2010, *Heidegger Among the Sculptors: Body, Space, and the Art of Dwelling*, Stanford: Stanford University Press.
+* Mulhall, S., 2019, “Heidegger’s Fountain: Ecstasis, Mimesis, and Engrossment in the Origin of the Work of Art,” *Proceedings of the Aristotelian Society*, CXIX(2): 4–22.
+* Nowell-Smith, D., 2012, “The Art of Fugue: Heidegger on Rhythm,” *Gatherings: The Heidegger Circle Annual*, 2: 41–64.
+* O’Halloran, P., 2020, “What if Heidegger used Fountain instead of van Gogh’s Shoes to Launch the Origin of a Work of Art?”, *The Marcel Duchamp Studies Online Journal* (18 August 2020). \[[O’Halloran 2020 available online](https://www.toutfait.com/what-if-heidegger-used-fountain-instead-of-van-goghs-shoes-to-launch-the-origin-of-a-work-of-art)]
+* Olafson, F. A., 1987, *Heidegger and the Philosophy of Mind*, New Haven, Yale University Press.
+* Petzet, H. W., 1993, *Encounters and Dialogues with Martin Heidegger, 1929–1976*, P. Emad and K. Maly (trans.), Chicago: The University of Chicago Press.
+* Pippin, R., 2014, *After the Beautiful: Hegel and the Philosophy of Pictorial Modernism*, Chicago: University of Chicago Press.
+* Pöggeler, O., 1972, *Philosophie und Politik bei Heidegger*, Freiburg: Alber.
+* Richardson, J., 1986, *Existential Epistemology: A Heideggerian Critique of the Cartesian Project*, Oxford: Clarendon.
+* Rentmeester, C. and Warren, Jeff R. (eds), 2022, *Heidegger and Music*, Lanham, MD: Rowman & Littlefield.
+* Rorty, R., 1991, *Essays on Heidegger and Others: Philosophical Papers Volume 2*, Cambridge: Cambridge University Press.
+* Sallis, J., 2008, *Transfigurements: On the True Sense of Art*, Chicago: University of Chicago Press.
+* Sandel, M. J., 2007, *The Case Against Perfection: Ethics in the Age of Genetic Engineering*, Cambridge, MA; Belknap.
+* Seubold, G., 1993, “Heideggers nachgelassene Klee-Notizen,” *Heidegger Studies* 9, 5–12
+* –––, 1996, *Kunst als Ereignis: Heideggers Weg zu einer nicht mehr metaphysischen Kunst*, Bonn: Bouvier Verlag.
+* Schapiro, M., 1968, “The Still Life as a Personal Object—A Note on Heidegger and van Gogh,” in M. Schapiro, *Theory and Philosophy of Art: Style, Artist, and Society*, New York: George Braziller, 1994.
+* –––, 1994, “Further Notes on Heidegger and van Gogh,” in M. Schapiro, *Theory and Philosophy of Art: Style, Artist, and Society*, New York: George Braziller.
+* Schmidt, D., 2013, *Heidegger, Klee, and Gadamer on Gesture and Genesis*, Bloomington: Indiana University Press.
+* Sharr, A., 2006, *Heidegger’s Hut*, Cambridge, MA; The MIT Press.
+* Shermer, M., 2008, “Patternicity: Finding Meaningful Patterns in Meaningless Noise,” *Scientific American Magazine*, December, \[[available online](http://www.scientificamerican.com/article.cfm?id=patternicity-finding-meaningful-patterns)].
+* Taminiaux, J., 1993, “The Origin of ‘The Origin of the Work of Art,’” in J. Sallis (ed.), *Reading Heidegger: Commemorations*, Bloomington: Indiana University Press.
+* Taylor, C., 2007, *A Secular Age*. Cambridge, MA: Harvard University Press.
+* Thomson, I., 1998, “The Silence of the Limbs: Critiquing Culture from a Heideggerian Understanding of the Work of Art,” *Enculturation*, 2(1), \[[available online](http://www.enculturation.net/2\1/thomson.html)].
+* –––, 2004, “Ontology and Ethics at the Intersection of Phenomenology and Environmental Philosophy,” *Inquiry*, 47(4): 380–412.
+* –––, 2004b, “Heidegger’s Perfectionist Philosophy of Education in *Being and Time*,” *Continental Philosophy Review*, 37(4): 439–467.
+* –––, 2005, *Heidegger on Ontotheology: Technology and the Politics of Education*, Cambridge: Cambridge University Press.
+* –––, 2011, *Heidegger, Art, and Postmodernity*, Cambridge: Cambridge University Press.
+* –––, 2013A, “Death and Demise in *Being and Time*,” in Mark Wrathall (ed.), *The Cambridge Companion to Being and Time*, Cambridge: Cambridge University Press.
+* –––, 2013B, “Heideggerian Perfectionism and the Phenomenology of the Pedagogical Truth Event,” in Kevin Hermberg and Paul Gyllenhammer (eds.), *Phenomenology and Virtue Ethics*, London: Bloomsbury.
+* –––, 2016, “Heideggerian Phenomenology and the Postmetaphysical Politics of Ontological Pluralism,” in S. West Gurley and Geoffrey Pfeifer (eds.), *Phenomenology and the Political*, London: Rowman and Littlefield.
+* –––, 2017A, “Heidegger’s Nazism in the Light of his early *Black Notebooks*: A View from America,” in Alfred Denker and Holger Zaborowski (eds.), *Zur Hermeneutik der ‘Schwarzen Hefte’: Heidegger Jahrbuch 11*, Freiburg: Karl Alber.
+* –––, 2017B, “Thinking Love: Heidegger and Arendt,” *Continental Philosophy Review*, 50(4): 453–78.
+* –––, 2021, “The Nothing,” in Mark Wrathall (ed.), *The Heidegger Lexicon*, Cambridge: Cambridge University Press.
+* –––, 2005, *Rethinking Death in and after Heidegger*, Cambridge: Cambridge University Press.
+* Torsen, I., 2014, “What Was Abstract Art? (From the Point of View of Heidegger),” *The Journal of Aesthetics and Art Criticism*, 72(3): 291–302.
+* –––, 2016, “Disinterest and Truth. On Heidegger’s Interpretation of Kant’s Aesthetics,” *British Journal of Aesthetics*, 56(1): 15–32.
+* –––, 2018, “The Problem of Agency in Heidegger’s Interpretation of Van Gogh,” in *Van Gogh Among the Philosophers: Painting, Thinking, Being*, David Nichols (ed.), Lanham: Lexington.
+* Van Gogh, V., 1872–89 \[1991], *The Complete Letters of Vincent van Gogh*, 3 volumes, R. Harrison (ed.), J. van Gogh-Bonger, (trans.), Boston, MA: Bulfinch.
+* Vattimo, G., 2008, *Art’s Claim to Truth*, S. Zabala (ed.), L. D’Isanto (trans.), New York: Columbia University Press.
+* Von Herrmann. F.-W., 1980, *Heideggers Philosophie der Kunst*, Frankfurt: Klostermann.
+* Wolin, R., 1990, *The Politics of Being: The Political Thought of Martin Heidegger*, New York: Columbia University Press.
+* Wrathall, M. A., 2006, *How to Read Heidegger*, New York: Norton.
+* –––, 2011, “The Phenomenological Relevance of Art,” in Joseph D. Parry (ed.), *Art and Phenomenology*, London: Routledge University Press, 9–30.
+* Wright, K., 1998, “Heidegger and Hölderlin,” in M. Kelly (ed.), *Encyclopedia of Aesthetics* (Volume 2), Oxford: Oxford University Press.
+* Young, J., 2001, *Heidegger’s Philosophy of Art*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -525,7 +525,7 @@ Abbreviations Used for Works by Heidegger (translations often modified)
 ## Other Internet Resources
 
 * [Ereignis—Martin Heidegger in English](http://www.beyng.com/)
-* [_A Pair of Shoes_](http://www.vangoghmuseum.nl/vgm/index.jsp?page=1576), 1886, Vincent van Gogh, at the Van Gogh Museum
+* [*A Pair of Shoes*](http://www.vangoghmuseum.nl/vgm/index.jsp?page=1576), 1886, Vincent van Gogh, at the Van Gogh Museum
 
 ## Related Entries
 
@@ -536,4 +536,4 @@ hegel-aesethetics | [Heidegger, Martin](https://plato.stanford.edu/entries/heide
 Earlier versions of this work were presented as the Gale Memorial Lecture to the Department of Art and Art History, University of New Mexico, in Albuquerque (17 November 2008), and to the International Society for Phenomenological Studies, in Asilomar, California (21 July 2009). For helpful comments and criticisms, I would especially like to thank Kelly Becker, David Craven, Steven Crowell, Hubert Dreyfus, Manfred Frings, Charles Guignon, Allison Hagerman, Brent Kalar, Joachim Oberst, Tao Raspoli, Matthew Ratcliffe, Joseph Rouse, Joseph Schear, Gino Signoracci, Tina Tahir, Mungo Thomson, Mark Wrathall, and several anonymous referees.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Iain Thomson](http://www.unm.edu/\~ithomson/) <[_ithomson@unm.edu_](mailto:ithomson%40unm%2eedu)>
+[Iain Thomson](http://www.unm.edu/\~ithomson/) <[*ithomson@unm.edu*](mailto:ithomson%40unm%2eedu)>

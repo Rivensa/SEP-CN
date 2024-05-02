@@ -8,7 +8,6 @@
 
 由于这个主题的广泛性，本条目专注于英美哲学传统中对想象的当代讨论。有关想象的历史讨论的概述，请参阅有关心理意象的二十世纪前和二十世纪早期的条目部分；有关想象的著名历史记载，请参阅亚里士多德、托马斯·霍布斯、大卫·休谟、伊曼努尔·康德和吉尔伯特·赖尔的相应条目；有关更详细和全面的历史调查，请参阅布兰恩 1991 年的著作；有关现象学传统中想象的复杂而广泛的讨论，请参阅凯西 2000 年的著作。
 
- 
 ---
 
 ## 1. 想象的本质
@@ -131,10 +130,10 @@ Amy Kind 和 Peter Kung（2016b）提出了想象使用的难题，即想象力�
 | **Monitoring**                    | Typical  | Typical  |
 | **Inference**                    | Typical  | Typical  |
 | **Updater**                    | Typical  | Atypical |
-| ** 特定领域系统**   | Typical  | Variable |
-| ** 脚本详述器**     | Variable | Atypical |
-| ** 输入者（标点）** | Typical  | Typical  |
-| ** 输入者（流式）** | Typical  | Atypical |
+| **特定领域系统**   | Typical  | Variable |
+| **脚本详述器**     | Variable | Atypical |
+| **输入者（标点）** | Typical  | Typical  |
+| **输入者（流式）** | Typical  | Atypical |
 
 表 1. 想象与假设之间的建筑相似性和差异（Weinberg＆Meskin 2006）。
 

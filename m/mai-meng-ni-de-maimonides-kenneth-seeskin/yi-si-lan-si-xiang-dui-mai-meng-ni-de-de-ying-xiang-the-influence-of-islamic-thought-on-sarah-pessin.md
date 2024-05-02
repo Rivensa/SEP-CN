@@ -1,4 +1,5 @@
 # 伊斯兰思想对迈蒙尼德的影响 the influence of Islamic thought on (Sarah Pessin)
+
 *首次发表于2005年6月30日；实质修订于2014年5月28日。*
 
 作为一个有远见的思想家和多产作家，迈蒙尼德（1135/8-1204）涉及的主题广泛，从物理学到犹太法律，从神学到政治学，从心理学到圣经解释学，再到哲学和医学。迈蒙尼德的著作本身就非常丰富和复杂，然而，必须在 12-13 世纪的伊斯兰文化背景下理解，因为它们展现了早期希腊和伊斯兰哲学传统的痕迹。在本文中，我们将揭示迈蒙尼德作品中一些伊斯兰哲学和神学基础，重点关注亚里士多德的神学以及法拉比（约 870-950）、阿维森纳（伊本·西那，980-1037）、加齐（1058-1111）和阿维罗伊斯（伊本·鲁什德，1126-1198）的著作。
@@ -10,8 +11,6 @@
 (b) 虽然我在最后列出了一份选定的二次阅读书目，读者应特别注意 Shlomo Pines 的《导读译者介绍》。这是他对《导读》的英文译本的一篇著名且常被引用的文章，其中他讨论了迈蒙尼德思想中所涉及的希腊和伊斯兰源泉[1]。尽管这是一份经典资源，但 Pines 的文章仍然存在学术争议（例如，正如我们将在下文中看到的那样，与 Pines 相反，越来越多的学者发现阿维罗伊斯和阿尔加扎利对迈蒙尼德的《导读》产生了直接影响）。
 
 (c) 最后，还应该注意的是，正如我们将看到的那样，迈蒙尼德的哲学深受新柏拉图主义的形而上学概念的影响，例如“流出”（或“溢出”）和神的超越。虽然我将讨论这些概念及其在迈蒙尼德及其伊斯兰哲学背景中的出现，尽管我将尝试基本解释这些柏拉图式的形而上学思想如何运作，但任何试图完全解释这些思想的努力都超出了当前条目的范围。在这方面，读者可以参考关于普罗提诺斯和希腊、犹太和伊斯兰源泉中新柏拉图主义形而上学的一手和二手资料。
-
- 
 
 ---
 
@@ -432,7 +431,6 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
 
 迈蒙尼德与伊斯兰哲学家在这些主题上的共享思想的证据丰富。正如从引用的伊斯兰来源中清楚可见的那样，想象力、寓言、政治和宗教在迈蒙尼德思想中的这些相互关联的特征也是阿尔法拉比、伊本·西那和阿维罗伊斯的政治哲学著作的标志。在我们的调查中，理解《指南》的伊斯兰哲学背景对于理解迈蒙尼德思想的复杂性至关重要。
 
-
 ## Bibliography
 
 ### A. Primary Sources
@@ -502,7 +500,6 @@ Commenting on this cosmic dynamic at the very start of the Guide, Maimonides und
   * Munk, S. (ed., with variant readings by Joel, Issachar). *Dalālat al-hā‘irīn*. Jerusalem: J. Junovitch, 1931.
 * For other primary texts, see Marx 1935.
   
-
 #### 7. Plotinus
 
 * *The Enneads*. Armstrong, A. H. (tr.) Plotinus, *The Enneads*. The Loeb Classical Library. Cambridge: Harvard University Press, 1966.

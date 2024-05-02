@@ -128,13 +128,13 @@ Cicero 是奥古斯丁对希腊化哲学的主要来源，尤其是学院派怀�
 
 ### Bibliographical tools
 
-#### General:
+#### General
 
 *Bulletin Augustinien*, included in the second issue of each year of the [Revue d’Études Augustiniennes et Patristiques.](https://www.brepolsonline.net/loi/rea) Reports and reviews all publications on Augustine that appeared during the year.
 
 [Finding Augustine](https://findingaugustine.org/), an open access bibliographical collection on Augustine and his legacy produced by the Augustinian Historical Institute (Leuven, Belgium) and Villanova University.
 
-#### More specialized:
+#### More specialized
 
 Catapano, Giovanni, *L’idea di filosofia in Agostino. Guida bibliografica*, Padova: Il Poligrafo, 2000.
 
@@ -202,7 +202,6 @@ A bilingual edition of the anti-Pelagian treatises with full annotation is:
   
 * [*BAC*] *Obras completas de San Agustín. Edición bilingüe (Biblioteca de Autores Cristianos)*, 41 vols., Victorino Capánaga et al. (eds.), 1946–2002. Complete.
   
-
 ### Commentaries
 
 Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentaries on Augustine’s writings are rare, especially in English. Here is a selection:

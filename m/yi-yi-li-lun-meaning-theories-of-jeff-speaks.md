@@ -1,9 +1,9 @@
 # 意义理论 meaning, theories of (Jeff Speaks)
 
-_首次发表于2010年1月26日；实质修订于2019年6月27日_
+*首次发表于2010年1月26日；实质修订于2019年6月27日*
 
 “意义理论”这个术语在过去一个世纪的许多哲学争议中以某种方式出现。不幸的是，这个术语也被用来表示许多不同的事物。在本条目中，重点是两种“意义理论”。第一种理论是语义理论，它是一种将语言表达式赋予语义内容的理论。第二种理论是意义的基础理论，它是一种陈述事实的理论，这些事实决定了表达式具有的语义内容。在简要介绍之后，依次讨论这两种理论。
- 
+
 ***
 
 ## 1. 意义理论的两种类型
@@ -247,7 +247,7 @@ _首次发表于2010年1月26日；实质修订于2019年6月27日_
 
 解答这一挑战的第一步是提供一个判断两个表达式意义不同的标准，可以如下所述。在他的 1906 年论文《我逻辑学教义的简要概述》中，弗雷格似乎支持以下标准：
 
-> _弗雷格对意义差异的标准_ 如果且仅当某个理性的能够理解两者的代理人在反思后判断 S 为真而不判断 S_为真时，两个句子 S 和 S_在意义上有差异。
+> *弗雷格对意义差异的标准* 如果且仅当某个理性的能够理解两者的代理人在反思后判断 S 为真而不判断 S_为真时，两个句子 S 和 S_在意义上有差异。
 
 对于这个表述，有一个担忧是关于一对句子的表面存在，比如“如果奥巴马存在，那么奥巴马=奥巴马”和“如果麦凯恩存在，那么麦凯恩=麦凯恩”，任何理性的人都会认为两者都是真的。这些句子在内容上似乎有差异，但这被上述标准所排除。解决这个问题的一个想法是，用一个表达式替换另一个表达式所导致的差异来陈述我们对表达式意义差异的标准：
 
@@ -434,7 +434,7 @@ _首次发表于2010年1月26日；实质修订于2019年6月27日_
 
 在这里，最突出的例子可能是“知道”是一个指示性的观点在最近的认识论中所起的作用。这个观点通常被称为“关于知识的语境主义”；而一般来说，认为某个术语 F 是指示性的观点通常被称为“关于 F 的语境主义”。关于知识的语境主义之所以有趣，部分原因是它承诺提供一种折中的立场，介于两种相对立的认识论立场之间：怀疑论观点认为我们对周围环境的了解几乎没有什么，而独断论观点认为我们可以知道自己不处于各种笛卡尔怀疑场景中。（因此，例如，独断论者认为我可以知道我正在坐着，而怀疑论者认为我无法排除这样一种可能性，即我处于一个与我实际情况在主观上无法区分的怀疑场景中。）这两种立场都似乎不太吸引人——怀疑论之所以不吸引人，是因为似乎我偶尔可以知道，例如，我正在坐着；而独断论之所以不吸引人，是因为很难看出我如何能够排除这样一种可能性，即我处于一个与我实际情况在主观上无法区分的怀疑场景中。
 
-But the disjunction of these positions can seem, not just unappealing, but inevitable; for the proposition that I am sitting entails that I am not a brain in a vat, and it’s hard to see—presuming that I know that this entailment holds—how I could know the former without thereby being in a position to know the latter. The contextualist about “knows” aims to provide the answer: the extension of “knows” depends on features of the context of utterance. Perhaps—to take one among many possible contextualist views—a pair of a subject and a proposition _p_ will be in the extension of “knows” relative to a context only if that subject is able to rule out every possibility which is both (i) inconsistent with _p_ and (ii) salient in _C_. The idea is that “I know that I am sitting down” can be true in a normal setting, simply because the possibility that I am a brain in a vat is not normally salient; but typically “I know that I am not a brain in a vat” will be false, since discussion of skeptical scenarios makes them salient, and (if the skeptical scenario is well-designed) I will lack the evidence needed to rule them out. See for discussion, among many other places, the entry on [epistemic contextualism](https://plato.stanford.edu/entries/contextualism-epistemology/), Cohen (1986), DeRose (1992), and David Lewis (1996).
+But the disjunction of these positions can seem, not just unappealing, but inevitable; for the proposition that I am sitting entails that I am not a brain in a vat, and it’s hard to see—presuming that I know that this entailment holds—how I could know the former without thereby being in a position to know the latter. The contextualist about “knows” aims to provide the answer: the extension of “knows” depends on features of the context of utterance. Perhaps—to take one among many possible contextualist views—a pair of a subject and a proposition *p* will be in the extension of “knows” relative to a context only if that subject is able to rule out every possibility which is both (i) inconsistent with *p* and (ii) salient in *C*. The idea is that “I know that I am sitting down” can be true in a normal setting, simply because the possibility that I am a brain in a vat is not normally salient; but typically “I know that I am not a brain in a vat” will be false, since discussion of skeptical scenarios makes them salient, and (if the skeptical scenario is well-designed) I will lack the evidence needed to rule them out. See for discussion, among many other places, the entry on [epistemic contextualism](https://plato.stanford.edu/entries/contextualism-epistemology/), Cohen (1986), DeRose (1992), and David Lewis (1996).
 
 Having introduced one important contextualist thesis, let’s return to the general question which faces the semantic theorist, which is: How do we tell when an expression is context-sensitive? Contextualism about knowledge, after all, can hardly get off the ground unless “knows” really is a context-sensitive expression. “I” and “here” wear their context-sensitivity on their sleeves; but “knows” does not. What sort of argument would suffice to show that an expression is an indexical?
 
@@ -665,176 +665,176 @@ Horwich 的核心思想是我们对句子的接受受到某些法则的支配，
 
 ## Bibliography
 
-* Ayer, Alfred Jules, 1936, _Language, Truth, and Logic_, London: Victor Gollancz.
-* Beaney, Michael (ed.), 1997, _The Frege Reader_, Oxford: Basil Blackwell.
-* Bezuidenhout, Anne, 2002, Truth-Conditional Pragmatics, _Philosophical Perspectives_, 16: 105–134.
-* Brandom, Robert B., 1994, _Making It Explicit: Reasoning, Representing, and Discursive Commitment_, Cambridge, MA: Harvard University Press.
-* –––, 2000, _Articulating Reasons: An Introduction to Inferentialism_, Cambridge, MA: Harvard University Press.
-* Braun, David, 1993, “Empty Names”, _Noûs_, 27(4): 449–469. doi:10.2307/2215787
-* Braun, David and Jennifer Saul, 2002, “Simple Sentences, Substitutions, and Mistaken Evaluations”, _Philosophical Studies_, 111(1): 1–41. doi:10.1023/A:1021287328280
-* Burge, Tyler, 1975, “On Knowledge and Convention”, _The Philosophical Review_, 84(2): 249–255. doi:10.2307/2183970
-* –––, 1986, “On Davidson’s ‘Saying That’”, in _Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson_, Ernest Lepore (ed.), Oxford: Blackwell Publishing, 190–210.
-* Burgess, Alexis and Brett Sherman (eds.), 2014, _Metasemantics: New Essays on the Foundations of Meaning_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669592.001.0001
-* Caplan, Ben, 2005, “Against Widescopism”, _Philosophical Studies_, 125(2): 167–190. doi:10.1007/s11098-004-7814-1
-* Cappelen, Herman and John Hawthorne, 2009, _Relativism and Monadic Truth_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199560554.001.0001
-* Cappelen, Herman and Ernie Lepore, 2005, _Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism_, Malden, MA: Blackwell Publishing. doi:10.1002/9780470755792
-* Carnap, Rudolf, 1947, _Meaning and Necessity: A Study in Semantics and Modal Logic_, Chicago: University of Chicago Press.
-* Carston, Robyn, 2002, _Thoughts and Utterances: The Pragmatics of Explicit Communication_, Malden, MA: Blackwell Publishing. doi:10.1002/9780470754603
-* Chalmers, David J., 2004, “Epistemic Two-Dimensional Semantics”, _Philosophical Studies_, 118(1/2): 153–226. doi:10.1023/B:PHIL.0000019546.17135.e0
-* –––, 2006, “The Foundations of Two-Dimensional Semantics”, in _Two-Dimensional Semantics_, Manuel Garcia-Carpintero and Josep Macià (eds.), Oxford: Clarendon Press, 55–140.
-* –––, 2011, “Propositions and Attitude Ascriptions: A Fregean Account”, _Noûs_, 45(4): 595–639. doi:10.1111/j.1468-0068.2010.00788.x
-* Chisholm, Roderick M., 1981, _The First Person: An Essay on Reference and Intentionality_, Minneapolis, MN: University of Minnesota Press.
-* Chomsky, Noam, 2000, _New Horizons in the Study of Language and Mind_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811937
-* Cohen, Stewart, 1986, “Knowledge and Context”, _The Journal of Philosophy_, 83(10): 574–583. doi:10.2307/2026434
-* Davidson, Donald, 1967, “Truth and Meaning”, _Synthese_, 17(1): 304–323; reprinted in Davidson 1984: 17–36. doi:10.1007/BF00485035
-* –––, 1968, “On Saying That”, _Synthese_, 19(1–2): 130–146. doi:10.1007/BF00568054
-* –––, 1973, “Radical Interpretation”, _Dialectica_, 27(3–4): 313–328. doi:10.1111/j.1746-8361.1973.tb00623.x
-* –––, 1974a, “Belief and the Basis of Meaning”, _Synthese_, 27(3–4): 309–323. doi:10.1007/BF00484597
-* –––, 1974b, “On the Very Idea of a Conceptual Scheme”, _Proceedings and Addresses of the American Philosophical Association_, 47: 5–20; reprinted in Davidson 1984: 183–198. doi:10.2307/3129898
+* Ayer, Alfred Jules, 1936, *Language, Truth, and Logic*, London: Victor Gollancz.
+* Beaney, Michael (ed.), 1997, *The Frege Reader*, Oxford: Basil Blackwell.
+* Bezuidenhout, Anne, 2002, Truth-Conditional Pragmatics, *Philosophical Perspectives*, 16: 105–134.
+* Brandom, Robert B., 1994, *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Cambridge, MA: Harvard University Press.
+* –––, 2000, *Articulating Reasons: An Introduction to Inferentialism*, Cambridge, MA: Harvard University Press.
+* Braun, David, 1993, “Empty Names”, *Noûs*, 27(4): 449–469. doi:10.2307/2215787
+* Braun, David and Jennifer Saul, 2002, “Simple Sentences, Substitutions, and Mistaken Evaluations”, *Philosophical Studies*, 111(1): 1–41. doi:10.1023/A:1021287328280
+* Burge, Tyler, 1975, “On Knowledge and Convention”, *The Philosophical Review*, 84(2): 249–255. doi:10.2307/2183970
+* –––, 1986, “On Davidson’s ‘Saying That’”, in *Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson*, Ernest Lepore (ed.), Oxford: Blackwell Publishing, 190–210.
+* Burgess, Alexis and Brett Sherman (eds.), 2014, *Metasemantics: New Essays on the Foundations of Meaning*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199669592.001.0001
+* Caplan, Ben, 2005, “Against Widescopism”, *Philosophical Studies*, 125(2): 167–190. doi:10.1007/s11098-004-7814-1
+* Cappelen, Herman and John Hawthorne, 2009, *Relativism and Monadic Truth*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199560554.001.0001
+* Cappelen, Herman and Ernie Lepore, 2005, *Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism*, Malden, MA: Blackwell Publishing. doi:10.1002/9780470755792
+* Carnap, Rudolf, 1947, *Meaning and Necessity: A Study in Semantics and Modal Logic*, Chicago: University of Chicago Press.
+* Carston, Robyn, 2002, *Thoughts and Utterances: The Pragmatics of Explicit Communication*, Malden, MA: Blackwell Publishing. doi:10.1002/9780470754603
+* Chalmers, David J., 2004, “Epistemic Two-Dimensional Semantics”, *Philosophical Studies*, 118(1/2): 153–226. doi:10.1023/B:PHIL.0000019546.17135.e0
+* –––, 2006, “The Foundations of Two-Dimensional Semantics”, in *Two-Dimensional Semantics*, Manuel Garcia-Carpintero and Josep Macià (eds.), Oxford: Clarendon Press, 55–140.
+* –––, 2011, “Propositions and Attitude Ascriptions: A Fregean Account”, *Noûs*, 45(4): 595–639. doi:10.1111/j.1468-0068.2010.00788.x
+* Chisholm, Roderick M., 1981, *The First Person: An Essay on Reference and Intentionality*, Minneapolis, MN: University of Minnesota Press.
+* Chomsky, Noam, 2000, *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811937
+* Cohen, Stewart, 1986, “Knowledge and Context”, *The Journal of Philosophy*, 83(10): 574–583. doi:10.2307/2026434
+* Davidson, Donald, 1967, “Truth and Meaning”, *Synthese*, 17(1): 304–323; reprinted in Davidson 1984: 17–36. doi:10.1007/BF00485035
+* –––, 1968, “On Saying That”, *Synthese*, 19(1–2): 130–146. doi:10.1007/BF00568054
+* –––, 1973, “Radical Interpretation”, *Dialectica*, 27(3–4): 313–328. doi:10.1111/j.1746-8361.1973.tb00623.x
+* –––, 1974a, “Belief and the Basis of Meaning”, *Synthese*, 27(3–4): 309–323. doi:10.1007/BF00484597
+* –––, 1974b, “On the Very Idea of a Conceptual Scheme”, *Proceedings and Addresses of the American Philosophical Association*, 47: 5–20; reprinted in Davidson 1984: 183–198. doi:10.2307/3129898
 * –––, 1976, “Reply to Foster”, in Evans and McDowell (eds.) 1976: 33–41.
-* –––, 1984, _Inquiries into Truth and Interpretation_, Oxford: Oxford University Press.
-* –––, 2005, _Truth and Predication_, Cambridge, MA: Harvard University Press.
-* Davis, Wayne A., 2002, _Meaning, Expression and Thought_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498763
-* DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, _Philosophy and Phenomenological Research_, 52(4): 913–929. doi:10.2307/2107917
-* Devitt, Michael, 1981, _Designation_, New York: Columbia University Press. \[[Devitt 1981 available online](https://devitt.commons.gc.cuny.edu/files/2012/11/designation.pdf)]
-* Devitt, Michael and Kim Sterelny, 1987, _Language and Reality: An Introduction to the Philosophy of Language_, Cambridge, MA: MIT Press.
-* Dickie, Imogen, 2015, _Fixing Reference_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198755616.001.0001
-* Dummett, Michael A.E., 1981, _The Interpretation of Frege’s Philosophy_, Cambridge, MA: Harvard University Press.
+* –––, 1984, *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press.
+* –––, 2005, *Truth and Predication*, Cambridge, MA: Harvard University Press.
+* Davis, Wayne A., 2002, *Meaning, Expression and Thought*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498763
+* DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52(4): 913–929. doi:10.2307/2107917
+* Devitt, Michael, 1981, *Designation*, New York: Columbia University Press. \[[Devitt 1981 available online](https://devitt.commons.gc.cuny.edu/files/2012/11/designation.pdf)]
+* Devitt, Michael and Kim Sterelny, 1987, *Language and Reality: An Introduction to the Philosophy of Language*, Cambridge, MA: MIT Press.
+* Dickie, Imogen, 2015, *Fixing Reference*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198755616.001.0001
+* Dummett, Michael A.E., 1981, *The Interpretation of Frege’s Philosophy*, Cambridge, MA: Harvard University Press.
 * Egan, Andy, John Hawthorne, and Brian Weatherson, 2005, “Epistemic Modals in Context”, in Preyer and Peter 2005: 131–170.
-* Egan, Andy and Brian Weatherson (eds.), 2011, _Epistemic Modality_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199591596.001.0001
-* Evans, Gareth, 1973, “The Causal Theory of Names”, _Proceedings of the Aristotelian Society_ (Supplement), 47 (1): 187–208.
-* –––, 1981, “Understanding Demonstratives”, in _Meaning and Understanding_, Herman Parret and Jacques Bouveresse (eds.), New York: Walter de Gruyter, 280–304; reprinted in his 1996 _Collected Papers_, Oxford: Clarendon Press, 291–304.
-* Evans, Gareth and John McDowell (eds.), 1976, _Truth and Meaning: Essays in Semantics_, Oxford: Clarendon Press.
-* Fine, Kit, 2007, _Semantic Relationism_, New York: Blackwell Publishing.
+* Egan, Andy and Brian Weatherson (eds.), 2011, *Epistemic Modality*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199591596.001.0001
+* Evans, Gareth, 1973, “The Causal Theory of Names”, *Proceedings of the Aristotelian Society* (Supplement), 47 (1): 187–208.
+* –––, 1981, “Understanding Demonstratives”, in *Meaning and Understanding*, Herman Parret and Jacques Bouveresse (eds.), New York: Walter de Gruyter, 280–304; reprinted in his 1996 *Collected Papers*, Oxford: Clarendon Press, 291–304.
+* Evans, Gareth and John McDowell (eds.), 1976, *Truth and Meaning: Essays in Semantics*, Oxford: Clarendon Press.
+* Fine, Kit, 2007, *Semantic Relationism*, New York: Blackwell Publishing.
 * Foster, J.A., 1976, “Meaning and Truth Theory”, in Evans and McDowell (eds.) 1976: 1–32.
-* Frege, Gottlob, 1879 \[1997], _Begriffsschrift_, Halle: Louis Nebert; translated and reprinted in Beaney 1997: 47–79.
-* –––, 1892 \[1960], “Über Sinn und Bedeutung” (On Sense and Reference), _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50. Translated and reprinted in _Translations from the Philosophical Writings of Gottlob Frege_, Peter Geach and Max Black (eds.), Oxford: Basil Blackwell, 1960, 56–78.
+* Frege, Gottlob, 1879 \[1997], *Begriffsschrift*, Halle: Louis Nebert; translated and reprinted in Beaney 1997: 47–79.
+* –––, 1892 \[1960], “Über Sinn und Bedeutung” (On Sense and Reference), *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50. Translated and reprinted in *Translations from the Philosophical Writings of Gottlob Frege*, Peter Geach and Max Black (eds.), Oxford: Basil Blackwell, 1960, 56–78.
 * –––, 1906 \[1997], “Kurze Übersicht meiner logischen Lehren?”, unpublished. Translated as “A Brief Survey of My Logical Doctrines”, in Beaney 1997: 299–300.
-* Geach, P. T., 1960, “Ascriptivism”, _The Philosophical Review_, 69(2): 221–225. doi:10.2307/2183506
-* –––, 1965, “Assertion”, _The Philosophical Review_, 74(4): 449–465. doi:10.2307/2183123
-* Gibbard, Allan, 1990, _Wise Choices, Apt Feelings: A Theory of Normative Judgment_, Cambridge, MA: Harvard University Press.
-* –––, 2003, _Thinking How to Live_, Cambridge, MA: Harvard University Press.
-* Gilmore, Cody, 2014, “Parts of Propositions”, in _Mereology and Location_, Shieva Kleinschmidt (ed.), Oxford: Oxford University Press, 156–208. doi:10.1093/acprof:oso/9780199593828.003.0009
+* Geach, P. T., 1960, “Ascriptivism”, *The Philosophical Review*, 69(2): 221–225. doi:10.2307/2183506
+* –––, 1965, “Assertion”, *The Philosophical Review*, 74(4): 449–465. doi:10.2307/2183123
+* Gibbard, Allan, 1990, *Wise Choices, Apt Feelings: A Theory of Normative Judgment*, Cambridge, MA: Harvard University Press.
+* –––, 2003, *Thinking How to Live*, Cambridge, MA: Harvard University Press.
+* Gilmore, Cody, 2014, “Parts of Propositions”, in *Mereology and Location*, Shieva Kleinschmidt (ed.), Oxford: Oxford University Press, 156–208. doi:10.1093/acprof:oso/9780199593828.003.0009
 * –––, forthcoming, “Why 0-adic Relations Have Truth Conditions”, in Tillman forthcoming.
-* Gluer, Kathrin and Åsa Wikforss, 2009, “Against Content Normativity”, _Mind_, 118(469): 31–70. doi:10.1093/mind/fzn154
-* Graff Fara, Delia, 2015, “Names Are Predicates”, _Philosophical Review_, 124(1): 59–117. doi:10.1215/00318108-2812660
-* Grice, H. P., 1957, “Meaning”, _The Philosophical Review_, 66(3): 377–388; reprinted in Grice 1989: 213–223. doi:10.2307/2182440
-* –––, 1969, “Utterer’s Meaning and Intention”, _The Philosophical Review_, 78(2): 147–177; reprinted in Grice 1989: 86–116. doi:10.2307/2184179
-* –––, 1989, _Studies in the Way of Words_, Cambridge, MA: Harvard University Press.
-* Hanks, Peter W., 2007, “The Content–Force Distinction”, _Philosophical Studies_, 134(2): 141–164. doi:10.1007/s11098-007-9080-5
-* –––, 2011, “Structured Propositions as Types”, _Mind_, 120(477): 11–52. doi:10.1093/mind/fzr011
-* Hare, R. M., 1952, _The Language of Morals_, Oxford: Oxford University Press. doi:10.1093/0198810776.001.0001
-* Hattiangadi, Anandi, 2007, _Oughts and Thoughts: Scepticism and the Normativity of Meaning_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219025.001.0001
-* Hawthorne, John, 2007, “Craziness and Metasemantics”, _Philosophical Review_, 116(3): 427–440. doi:10.1215/00318108-2007-004
-* –––, 2006, “Testing for Context-Dependence”, _Philosophy and Phenomenological Research_, 73(2): 443–450. doi:10.1111/j.1933-1592.2006.tb00627.x
-* –––, 1990, “A Note on ‘Languages and Language’”, _Australasian Journal of Philosophy_, 68(1): 116–118. doi:10.1080/00048409012340233
-* Heim, Irene, 1982, _The Semantics of Definite and Indefinite Noun Phrases_, Ph.D. thesis, Department of Linguistics, University of Massachusetts at Amherst
-* Heim, Irene and Angelika Kratzer, 1998, _Semantics in Generative Grammar_, (Blackwell Textbooks in Linguistics 13), Malden, MA: Blackwell.
-* Horwich, Paul, 1998, _Meaning_, Oxford: Oxford University Press. doi:10.1093/019823824X.001.0001
-* –––, 2005, _Reflections on Meaning_, Oxford: Clarendon Press. doi:10.1093/019925124X.001.0001
-* Jeshion, Robin, 2015, “Referentialism and Predicativism About Proper Names”, _Erkenntnis_, 80(S2): 363–404. doi:10.1007/s10670-014-9700-3
-* Johnston, Mark, 1988, “The End of the Theory of Meaning”, _Mind & Language_, 3(1): 28–42. doi:10.1111/j.1468-0017.1988.tb00131.x
-* Kamp, Hans, 1971, “Formal Properties of ‘Now’”, _Theoria_, 37(3): 227–273. doi:10.1111/j.1755-2567.1971.tb00071.x
-* –––, 1981, “A Theory of Truth and Semantic Representation”, in _Formal Methods in the Study of Language_, Jeroen A. G. Groenendijk, Theo M. V. Janssen, and M. B. J. Stokhof (eds.), Amsterdam: Mathematisch Centrum; reprinted in in _Formal Semantics: The Essential Readings_, Paul Portner and Barbara H. Partee (eds.), Oxford: Blackwell Publishers, 189–222. doi:10.1002/9780470758335.ch8
-* Kaplan, David, 1989, “Demonstratives”, in _Themes from Kaplan_, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
-* Keller, Lorraine, 2013, “The Metaphysics of Propositional Constituency”, _Canadian Journal of Philosophy_, 43(5–6): 655–678. doi:10.1080/00455091.2013.870735
-* King, Jeffrey C., 2003, “Tense, Modality, and Semantic Values”, _Philosophical Perspectives_, 17(1): 195–246. doi:10.1111/j.1520-8583.2003.00009.x
-* –––, 2007, _The Nature and Structure of Content_, Oxford: Oxford University Press.
+* Gluer, Kathrin and Åsa Wikforss, 2009, “Against Content Normativity”, *Mind*, 118(469): 31–70. doi:10.1093/mind/fzn154
+* Graff Fara, Delia, 2015, “Names Are Predicates”, *Philosophical Review*, 124(1): 59–117. doi:10.1215/00318108-2812660
+* Grice, H. P., 1957, “Meaning”, *The Philosophical Review*, 66(3): 377–388; reprinted in Grice 1989: 213–223. doi:10.2307/2182440
+* –––, 1969, “Utterer’s Meaning and Intention”, *The Philosophical Review*, 78(2): 147–177; reprinted in Grice 1989: 86–116. doi:10.2307/2184179
+* –––, 1989, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
+* Hanks, Peter W., 2007, “The Content–Force Distinction”, *Philosophical Studies*, 134(2): 141–164. doi:10.1007/s11098-007-9080-5
+* –––, 2011, “Structured Propositions as Types”, *Mind*, 120(477): 11–52. doi:10.1093/mind/fzr011
+* Hare, R. M., 1952, *The Language of Morals*, Oxford: Oxford University Press. doi:10.1093/0198810776.001.0001
+* Hattiangadi, Anandi, 2007, *Oughts and Thoughts: Scepticism and the Normativity of Meaning*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219025.001.0001
+* Hawthorne, John, 2007, “Craziness and Metasemantics”, *Philosophical Review*, 116(3): 427–440. doi:10.1215/00318108-2007-004
+* –––, 2006, “Testing for Context-Dependence”, *Philosophy and Phenomenological Research*, 73(2): 443–450. doi:10.1111/j.1933-1592.2006.tb00627.x
+* –––, 1990, “A Note on ‘Languages and Language’”, *Australasian Journal of Philosophy*, 68(1): 116–118. doi:10.1080/00048409012340233
+* Heim, Irene, 1982, *The Semantics of Definite and Indefinite Noun Phrases*, Ph.D. thesis, Department of Linguistics, University of Massachusetts at Amherst
+* Heim, Irene and Angelika Kratzer, 1998, *Semantics in Generative Grammar*, (Blackwell Textbooks in Linguistics 13), Malden, MA: Blackwell.
+* Horwich, Paul, 1998, *Meaning*, Oxford: Oxford University Press. doi:10.1093/019823824X.001.0001
+* –––, 2005, *Reflections on Meaning*, Oxford: Clarendon Press. doi:10.1093/019925124X.001.0001
+* Jeshion, Robin, 2015, “Referentialism and Predicativism About Proper Names”, *Erkenntnis*, 80(S2): 363–404. doi:10.1007/s10670-014-9700-3
+* Johnston, Mark, 1988, “The End of the Theory of Meaning”, *Mind & Language*, 3(1): 28–42. doi:10.1111/j.1468-0017.1988.tb00131.x
+* Kamp, Hans, 1971, “Formal Properties of ‘Now’”, *Theoria*, 37(3): 227–273. doi:10.1111/j.1755-2567.1971.tb00071.x
+* –––, 1981, “A Theory of Truth and Semantic Representation”, in *Formal Methods in the Study of Language*, Jeroen A. G. Groenendijk, Theo M. V. Janssen, and M. B. J. Stokhof (eds.), Amsterdam: Mathematisch Centrum; reprinted in in *Formal Semantics: The Essential Readings*, Paul Portner and Barbara H. Partee (eds.), Oxford: Blackwell Publishers, 189–222. doi:10.1002/9780470758335.ch8
+* Kaplan, David, 1989, “Demonstratives”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press, 481–563.
+* Keller, Lorraine, 2013, “The Metaphysics of Propositional Constituency”, *Canadian Journal of Philosophy*, 43(5–6): 655–678. doi:10.1080/00455091.2013.870735
+* King, Jeffrey C., 2003, “Tense, Modality, and Semantic Values”, *Philosophical Perspectives*, 17(1): 195–246. doi:10.1111/j.1520-8583.2003.00009.x
+* –––, 2007, *The Nature and Structure of Content*, Oxford: Oxford University Press.
 * –––, 2014, “Naturalized Propositions”, in King, Soames, and Speaks (eds.) 2014: 47–70.
-* King, Jeffrey C., Scott Soames, and Jeff Speaks (eds.), 2014, _New Thinking about Propositions_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693764.001.0001
-* Kirk-Giannini, Cameron Domenico and Ernie Lepore, 2017, “De Ray: On the Boundaries of the Davidsonian Semantic Programme”, _Mind_, 126(503): 697–714. doi:10.1093/mind/fzv186
-* Kolbel, Max, 2001, “Two Dogmas of Davidsonian Semantics”, _The Journal of Philosophy_, 98(12): 613–635. doi:10.2307/3649462
-* Kripke, Saul A., 1972, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* –––, 1979, “A Puzzle about Belief”, in _Meaning and Use_, Avishai Margalit (ed.), (Synthese Language Library 3), Dordrecht: Springer Netherlands, 239–283. doi:10.1007/978-1-4020-4104-4\_20
-* –––, 1982, _Wittgenstein on Rules and Private Language: An Elementary Exposition_, Cambridge, MA: Harvard University Press.
-* Larson, Richard K. and Peter Ludlow, 1993, “Interpreted Logical Forms”, _Synthese_, 95(3): 305–355. doi:10.1007/BF01063877
-* Larson, Richard K and Gabriel Segal, 1995, _Knowledge of Meaning: An Introduction to Semantic Theory_, Cambridge, MA: MIT Press.
-* Lasersohn, Peter, 2005, “Context Dependence, Disagreement, and Predicates of Personal Taste\*”, _Linguistics and Philosophy_, 28(6): 643–686. doi:10.1007/s10988-005-0596-x
-* Laurence, Stephen, 1996, “A Chomskian Alternative to Convention-Based Semantics”, _Mind_, 105(418): 269–301. doi:10.1093/mind/105.418.269
-* Lepore, Ernest and Kirk Ludwig, 2007, _Donald Davidson’s Truth-Theoretic Semantics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199290932.001.0001
-* Lepore, Ernest and Barry Loewer, 1989, “You Can Say _That_ Again”, _Midwest Studies in Philosophy_, 14: 338–356. doi:10.1111/j.1475-4975.1989.tb00196.x
-* Lewis, David, 1970, “General Semantics”, _Synthese_, 22(1–2): 18–67. doi:10.1007/BF00413598
-* –––, 1975, “Languages and Language”, in _Language, Mind, and Knowledge_, Keith Gunderson (ed.), Minneapolis: University of Minnesota Press.
-* –––, 1979, “Attitudes _De Dicto_ and _De Se_”, _The Philosophical Review_, 88(4): 513–543. doi:10.2307/2184843
-* –––, 1980, “Index, Context, and Content”, in _Philosophy and Grammar_, Stig Kanger and Sven Ōhman (eds.) (Synthese Library 143), Dordrecht: Springer Netherlands, 79–100. doi:10.1007/978-94-009-9012-8\_6
-* –––, 1983, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61(4): 343–377. doi:10.1080/00048408312341131
-* –––, 1984, “Putnam’s Paradox”, _Australasian Journal of Philosophy_, 62(3): 221–236. doi:10.1080/00048408412340013
-* –––, 1996, “Elusive Knowledge”, _Australasian Journal of Philosophy_, 74(4): 549–567. doi:10.1080/00048409612347521
+* King, Jeffrey C., Scott Soames, and Jeff Speaks (eds.), 2014, *New Thinking about Propositions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199693764.001.0001
+* Kirk-Giannini, Cameron Domenico and Ernie Lepore, 2017, “De Ray: On the Boundaries of the Davidsonian Semantic Programme”, *Mind*, 126(503): 697–714. doi:10.1093/mind/fzv186
+* Kolbel, Max, 2001, “Two Dogmas of Davidsonian Semantics”, *The Journal of Philosophy*, 98(12): 613–635. doi:10.2307/3649462
+* Kripke, Saul A., 1972, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* –––, 1979, “A Puzzle about Belief”, in *Meaning and Use*, Avishai Margalit (ed.), (Synthese Language Library 3), Dordrecht: Springer Netherlands, 239–283. doi:10.1007/978-1-4020-4104-4\_20
+* –––, 1982, *Wittgenstein on Rules and Private Language: An Elementary Exposition*, Cambridge, MA: Harvard University Press.
+* Larson, Richard K. and Peter Ludlow, 1993, “Interpreted Logical Forms”, *Synthese*, 95(3): 305–355. doi:10.1007/BF01063877
+* Larson, Richard K and Gabriel Segal, 1995, *Knowledge of Meaning: An Introduction to Semantic Theory*, Cambridge, MA: MIT Press.
+* Lasersohn, Peter, 2005, “Context Dependence, Disagreement, and Predicates of Personal Taste\*”, *Linguistics and Philosophy*, 28(6): 643–686. doi:10.1007/s10988-005-0596-x
+* Laurence, Stephen, 1996, “A Chomskian Alternative to Convention-Based Semantics”, *Mind*, 105(418): 269–301. doi:10.1093/mind/105.418.269
+* Lepore, Ernest and Kirk Ludwig, 2007, *Donald Davidson’s Truth-Theoretic Semantics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199290932.001.0001
+* Lepore, Ernest and Barry Loewer, 1989, “You Can Say *That* Again”, *Midwest Studies in Philosophy*, 14: 338–356. doi:10.1111/j.1475-4975.1989.tb00196.x
+* Lewis, David, 1970, “General Semantics”, *Synthese*, 22(1–2): 18–67. doi:10.1007/BF00413598
+* –––, 1975, “Languages and Language”, in *Language, Mind, and Knowledge*, Keith Gunderson (ed.), Minneapolis: University of Minnesota Press.
+* –––, 1979, “Attitudes *De Dicto* and *De Se*”, *The Philosophical Review*, 88(4): 513–543. doi:10.2307/2184843
+* –––, 1980, “Index, Context, and Content”, in *Philosophy and Grammar*, Stig Kanger and Sven Ōhman (eds.) (Synthese Library 143), Dordrecht: Springer Netherlands, 79–100. doi:10.1007/978-94-009-9012-8\_6
+* –––, 1983, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61(4): 343–377. doi:10.1080/00048408312341131
+* –––, 1984, “Putnam’s Paradox”, *Australasian Journal of Philosophy*, 62(3): 221–236. doi:10.1080/00048408412340013
+* –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567. doi:10.1080/00048409612347521
 * Lewis, Karen S., 2014, “Do We Need Dynamic Semantics?”, in Burgess and Sherman 2014: 231–258. doi:10.1093/acprof:oso/9780199669592.003.0010
-* MacFarlane, John, 2014, _Assessment Sensitivity: Relative Truth and Its Applications_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682751.001.0001
-* MacFarlane, John, 2016, “I – Vagueness as Indecision”, _Aristotelian Society Supplementary Volume_, 90(1): 255–283. doi:10.1093/arisup/akw013
-* Marcus, Ruth Barcan, 1961, “Modalities and Intensional Languages”, _Synthese_, 13(4): 303–322. doi:10.1007/BF00486629
-* McDowell, John, 1977, “On the Sense and Reference of a Proper Name”, _Mind_, 86(342): 159–185. doi:10.1093/mind/LXXXVI.342.159
-* McGilvray, James, 1998, “Meanings Are Syntactically Individuated and Found in the Head”, _Mind & Language_, 13(2): 225–280. doi:10.1111/1468-0017.00076
-* McGlone, Michael, 2012, “Propositional Structure and Truth Conditions”, _Philosophical Studies_, 157(2): 211–225. doi:10.1007/s11098-010-9633-x
-* McKeown-Green, Arthur Jonathan, 2002, _The Primacy of Public Language_, PhD Dissertation, Princeton University.
-* Merricks, Trenton, 2015, _Propositions_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732563.001.0001
-* Merrill, G. H., 1980, “The Model-Theoretic Argument against Realism”, _Philosophy of Science_, 47(1): 69–81. doi:10.1086/288910
-* Moltmann, Friederike, 2013, “Propositions, Attitudinal Objects, and the Distinction between Actions and Products”, _Canadian Journal of Philosophy_, 43(5–6): 679–701. doi:10.1080/00455091.2014.892770
-* Montague, Richard, 1974, _Formal Philosophy: The Selected Papers of Richard Montague_, R. Thomason (ed.), New Haven, CT: Yale University Press.
-* Moss, Sarah, 2012, “The Role of Linguistics in the Philosophy of Language”, in _Routledge Companion to the Philosophy of Language_, Delia Graff Fara and Gillian Russell (eds.), Routledge.
-* –––, 2013, “Epistemology Formalized”, _Philosophical Review_, 122(1): 1–43. doi:10.1215/00318108-1728705
-* Neale, Stephen, 1992, “Paul Grice and the Philosophy of Language”, _Linguistics and Philosophy_, 15(5): 509–559. doi:10.1007/BF00630629
-* Nolan, Daniel P., 2013, “Impossible Worlds”, _Philosophy Compass_, 8(4): 360–372. doi:10.1111/phc3.12027
-* Perry, John, 1977, “Frege on Demonstratives”, _The Philosophical Review_, 86(4): 474–497. doi:10.2307/2184564
-* –––, 1979, “The Problem of the Essential Indexical”, _Noûs_, 13(1): 3–21. doi:10.2307/2214792
-* Pietroski, Paul M., 2003, “The Character of Natural Language Semantics”, in _Epistemology of Language_, Alex Barber (ed.), Oxford: Oxford University Press, 217–256.
+* MacFarlane, John, 2014, *Assessment Sensitivity: Relative Truth and Its Applications*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199682751.001.0001
+* MacFarlane, John, 2016, “I – Vagueness as Indecision”, *Aristotelian Society Supplementary Volume*, 90(1): 255–283. doi:10.1093/arisup/akw013
+* Marcus, Ruth Barcan, 1961, “Modalities and Intensional Languages”, *Synthese*, 13(4): 303–322. doi:10.1007/BF00486629
+* McDowell, John, 1977, “On the Sense and Reference of a Proper Name”, *Mind*, 86(342): 159–185. doi:10.1093/mind/LXXXVI.342.159
+* McGilvray, James, 1998, “Meanings Are Syntactically Individuated and Found in the Head”, *Mind & Language*, 13(2): 225–280. doi:10.1111/1468-0017.00076
+* McGlone, Michael, 2012, “Propositional Structure and Truth Conditions”, *Philosophical Studies*, 157(2): 211–225. doi:10.1007/s11098-010-9633-x
+* McKeown-Green, Arthur Jonathan, 2002, *The Primacy of Public Language*, PhD Dissertation, Princeton University.
+* Merricks, Trenton, 2015, *Propositions*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732563.001.0001
+* Merrill, G. H., 1980, “The Model-Theoretic Argument against Realism”, *Philosophy of Science*, 47(1): 69–81. doi:10.1086/288910
+* Moltmann, Friederike, 2013, “Propositions, Attitudinal Objects, and the Distinction between Actions and Products”, *Canadian Journal of Philosophy*, 43(5–6): 679–701. doi:10.1080/00455091.2014.892770
+* Montague, Richard, 1974, *Formal Philosophy: The Selected Papers of Richard Montague*, R. Thomason (ed.), New Haven, CT: Yale University Press.
+* Moss, Sarah, 2012, “The Role of Linguistics in the Philosophy of Language”, in *Routledge Companion to the Philosophy of Language*, Delia Graff Fara and Gillian Russell (eds.), Routledge.
+* –––, 2013, “Epistemology Formalized”, *Philosophical Review*, 122(1): 1–43. doi:10.1215/00318108-1728705
+* Neale, Stephen, 1992, “Paul Grice and the Philosophy of Language”, *Linguistics and Philosophy*, 15(5): 509–559. doi:10.1007/BF00630629
+* Nolan, Daniel P., 2013, “Impossible Worlds”, *Philosophy Compass*, 8(4): 360–372. doi:10.1111/phc3.12027
+* Perry, John, 1977, “Frege on Demonstratives”, *The Philosophical Review*, 86(4): 474–497. doi:10.2307/2184564
+* –––, 1979, “The Problem of the Essential Indexical”, *Noûs*, 13(1): 3–21. doi:10.2307/2214792
+* Pietroski, Paul M., 2003, “The Character of Natural Language Semantics”, in *Epistemology of Language*, Alex Barber (ed.), Oxford: Oxford University Press, 217–256.
 * –––, 2005, “Meaning Before Truth”, in Preyer and Peter 2005: 255–302.
-* –––, 2018, _Conjoining Meanings: Semantics Without Truth Values_, Oxford: Oxford University Press. doi:10.1093/oso/9780198812722.001.0001
-* Plantinga, Alvin, 1974, _The Nature of Necessity_, Clarendon Press.
-* –––, 1978, “The Boethian Compromise”, _American Philosophical Quarterly_, 15(2): 129–138.
-* Preyer, Gerhard and Georg Peter (eds.), 2005, _Contextualism in Philosophy: Knowledge, Meaning, and Truth_, Oxford: Clarendon Press.
-* Prior, A. N., 1960, “The Runabout Inference-Ticket”, _Analysis_, 21(2): 38–39. doi:10.1093/analys/21.2.38
-* Putnam, Hilary, 1980, “Models and Reality”, _Journal of Symbolic Logic_, 45(3): 464–482. doi:10.2307/2273415
-* –––, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625398
-* Quine, W.V.O., 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* –––, 1970 \[1986], _Philosophy of Logic_, New Jersey: Prentice Hall; second edition, 1986. (Page reference is to the second edition.)
-* Ray, Greg, 2014, “Meaning and Truth”, _Mind_, 123(489): 79–100. doi:10.1093/mind/fzu026
-* Recanati, François, 2004, _Literal Meaning_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511615382
-* –––, 2010, _Truth-Conditional Pragmatics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199226993.001.0001
-* Richard, Mark, 1981, “Temporalism and Eternalism”, _Philosophical Studies_, 39(1): 1–13. doi:10.1007/BF00354808
-* –––, 2013, “What Are Propositions?”, _Canadian Journal of Philosophy_, 43(5–6): 702–719. doi:10.1080/00455091.2013.870738
-* Rosen, Gideon, 1997, “Who Makes the Rules Around Here?”, _Philosophy and Phenomenological Research_, 57(1): 163–171. doi:10.2307/2953786
-* Rothschild, Daniel, 2007, “Presuppositions and Scope”:,_Journal of Philosophy_, 104(2): 71–106. doi:10.5840/jphil2007104233
-* Rothschild, Daniel and Seth Yalcin, 2016, “Three Notions of Dynamicness in Language”, _Linguistics and Philosophy_, 39(4): 333–355. doi:10.1007/s10988-016-9188-1
-* Russell, Bertrand, 1903, _The Principles of Mathematics_, Cambridge: Cambridge University Press.
-* Salmon, Nathan U., 1986, _Frege’s Puzzle_, Atascadero, CA: Ridgeview Publishing Company.
-* –––, 1990, “A Millian Heir Rejects the Wages of _Sinn_”, in _Propositional Attitudes: The Role of Content in Logic, Language, and Mind_, C. Anthony Anderson and Joseph Owens (eds.), (CSLI Lecture Notes 20), Stanford, CA: CSLI Publications.
-* Searle, John R., 1962, “Meaning and Speech Acts”, _The Philosophical Review_, 71(4): 423–432. doi:10.2307/2183455
-* Schiffer, Stephen, 1972, _Meaning_, Oxford: Oxford University Press.
-* –––, 1987, _Remnants of Meaning_, Cambridge, MA: MIT Press.
-* –––, 2000, “Review: Horwich on Meaning”, _Philosophical Quarterly_, 50(201): 527–536.
-* –––, 2006, “Two Perspectives on Knowledge of Language”, _Philosophical Issues_, 16: 275–287. doi:10.1111/j.1533-6077.2006.00114.x
-* Schroeder, Mark, 2008, _Being For: Evaluating the Semantic Program of Expressivism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199534654.001.0001
-* Sellars, Wilfrid, 1968, _Science and Metaphysics: Variations on Kantian Themes_, New York: Humanities Press.
-* Sider, Theodore, 2011, _Writing the Book of the World_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
-* Soames, Scott, 1988, “Direct Reference, Propositional Attitudes, and Semantic Content”, in _Propositions and Attitudes_, Nathan Salmon and Scott Soames (eds.), Oxford: Oxford University Press, 197–239.
-* –––, 1992, “Truth, Meaning, and Understanding”, _Philosophical Studies_, 65(1–2): 17–35. doi:10.1007/BF00571314
-* –––, 1997, “Skepticism about Meaning: Indeterminacy, Normativity, and the Rule-Following Paradox”, _Canadian Journal of Philosophy_, 27 Supplementary Volume 23: 211–249. doi:10.1080/00455091.1997.10715967
-* –––, 1997, “Skepticism About Meaning: Indeterminacy, Normativity, and the Rule-following Paradox”, _Canadian Journal of Philosophy_ (Supplementary Volume), 23: 211–249.
-* –––, 1998, “The Modal Argument: Wide Scope and Rigidified Descriptions”, _Noûs_, 32(1): 1–22. doi:10.1111/0029-4624.00084
-* –––, 2002, _Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity_, Oxford: Oxford University Press. doi:10.1093/0195145283.001.0001
-* –––, 2010, _Philosophy of Language_, Princeton, NJ: Princeton University Press.
+* –––, 2018, *Conjoining Meanings: Semantics Without Truth Values*, Oxford: Oxford University Press. doi:10.1093/oso/9780198812722.001.0001
+* Plantinga, Alvin, 1974, *The Nature of Necessity*, Clarendon Press.
+* –––, 1978, “The Boethian Compromise”, *American Philosophical Quarterly*, 15(2): 129–138.
+* Preyer, Gerhard and Georg Peter (eds.), 2005, *Contextualism in Philosophy: Knowledge, Meaning, and Truth*, Oxford: Clarendon Press.
+* Prior, A. N., 1960, “The Runabout Inference-Ticket”, *Analysis*, 21(2): 38–39. doi:10.1093/analys/21.2.38
+* Putnam, Hilary, 1980, “Models and Reality”, *Journal of Symbolic Logic*, 45(3): 464–482. doi:10.2307/2273415
+* –––, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625398
+* Quine, W.V.O., 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* –––, 1970 \[1986], *Philosophy of Logic*, New Jersey: Prentice Hall; second edition, 1986. (Page reference is to the second edition.)
+* Ray, Greg, 2014, “Meaning and Truth”, *Mind*, 123(489): 79–100. doi:10.1093/mind/fzu026
+* Recanati, François, 2004, *Literal Meaning*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511615382
+* –––, 2010, *Truth-Conditional Pragmatics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199226993.001.0001
+* Richard, Mark, 1981, “Temporalism and Eternalism”, *Philosophical Studies*, 39(1): 1–13. doi:10.1007/BF00354808
+* –––, 2013, “What Are Propositions?”, *Canadian Journal of Philosophy*, 43(5–6): 702–719. doi:10.1080/00455091.2013.870738
+* Rosen, Gideon, 1997, “Who Makes the Rules Around Here?”, *Philosophy and Phenomenological Research*, 57(1): 163–171. doi:10.2307/2953786
+* Rothschild, Daniel, 2007, “Presuppositions and Scope”:,*Journal of Philosophy*, 104(2): 71–106. doi:10.5840/jphil2007104233
+* Rothschild, Daniel and Seth Yalcin, 2016, “Three Notions of Dynamicness in Language”, *Linguistics and Philosophy*, 39(4): 333–355. doi:10.1007/s10988-016-9188-1
+* Russell, Bertrand, 1903, *The Principles of Mathematics*, Cambridge: Cambridge University Press.
+* Salmon, Nathan U., 1986, *Frege’s Puzzle*, Atascadero, CA: Ridgeview Publishing Company.
+* –––, 1990, “A Millian Heir Rejects the Wages of *Sinn*”, in *Propositional Attitudes: The Role of Content in Logic, Language, and Mind*, C. Anthony Anderson and Joseph Owens (eds.), (CSLI Lecture Notes 20), Stanford, CA: CSLI Publications.
+* Searle, John R., 1962, “Meaning and Speech Acts”, *The Philosophical Review*, 71(4): 423–432. doi:10.2307/2183455
+* Schiffer, Stephen, 1972, *Meaning*, Oxford: Oxford University Press.
+* –––, 1987, *Remnants of Meaning*, Cambridge, MA: MIT Press.
+* –––, 2000, “Review: Horwich on Meaning”, *Philosophical Quarterly*, 50(201): 527–536.
+* –––, 2006, “Two Perspectives on Knowledge of Language”, *Philosophical Issues*, 16: 275–287. doi:10.1111/j.1533-6077.2006.00114.x
+* Schroeder, Mark, 2008, *Being For: Evaluating the Semantic Program of Expressivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199534654.001.0001
+* Sellars, Wilfrid, 1968, *Science and Metaphysics: Variations on Kantian Themes*, New York: Humanities Press.
+* Sider, Theodore, 2011, *Writing the Book of the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
+* Soames, Scott, 1988, “Direct Reference, Propositional Attitudes, and Semantic Content”, in *Propositions and Attitudes*, Nathan Salmon and Scott Soames (eds.), Oxford: Oxford University Press, 197–239.
+* –––, 1992, “Truth, Meaning, and Understanding”, *Philosophical Studies*, 65(1–2): 17–35. doi:10.1007/BF00571314
+* –––, 1997, “Skepticism about Meaning: Indeterminacy, Normativity, and the Rule-Following Paradox”, *Canadian Journal of Philosophy*, 27 Supplementary Volume 23: 211–249. doi:10.1080/00455091.1997.10715967
+* –––, 1997, “Skepticism About Meaning: Indeterminacy, Normativity, and the Rule-following Paradox”, *Canadian Journal of Philosophy* (Supplementary Volume), 23: 211–249.
+* –––, 1998, “The Modal Argument: Wide Scope and Rigidified Descriptions”, *Noûs*, 32(1): 1–22. doi:10.1111/0029-4624.00084
+* –––, 2002, *Beyond Rigidity: The Unfinished Semantic Agenda of Naming and Necessity*, Oxford: Oxford University Press. doi:10.1093/0195145283.001.0001
+* –––, 2010, *Philosophy of Language*, Princeton, NJ: Princeton University Press.
 * –––, 2014. “Cognitive Propositions”, in King, Soames, and Speaks 2014: 91–125.
-* Sosa, David, 2001, “Rigidity in the Scope of Russell’s Theory”, _Noûs_, 35(1): 1–38. doi:10.1111/0029-4624.00286
+* Sosa, David, 2001, “Rigidity in the Scope of Russell’s Theory”, *Noûs*, 35(1): 1–38. doi:10.1111/0029-4624.00286
 * Speaks, Jeff, 2014, “Propositions Are Properties of Everything or Nothing”, in King, Soames, and Speaks 2014: 71–90.
-* Sperber, D. & Wilson, D., 1995, _Relevance_, Blackwell.
-* Stalnaker, Robert C., 1984, _Inquiry_, Cambridge, MA: MIT Press.
-* Stanley, Jason, 2007, _Language in Context: Selected Essays_, Oxford: Clarendon Press.
-* Stich, Stephen P. and Ted A. Warfield (eds.), 1994, _Mental Representation: A Reader_, Cambridge, MA: Blackwell.
-* Stojnić, Una, 2019, “Content in a Dynamic Context”, _Noûs_, 53(2): 394–432. doi:10.1111/nous.12220
-* Sullivan, Meghan, 2014, “Change We Can Believe In (and Assert): Change We Can Believe In (and Assert)”, _Noûs_, 48(3): 474–495. doi:10.1111/j.1468-0068.2012.00874.x
-* Tarski, Alfred, 1944, “The Semantic Conception of Truth: And the Foundations of Semantics”, _Philosophy and Phenomenological Research_, 4(3): 341–376. doi:10.2307/2102968
-* Taschek, William W., 1995, “Belief, Substitution, and Logical Structure”, _Noûs_, 29(1): 71–95. doi:10.2307/2215727
-* Tillman, Chris (ed.), forthcoming, _Routledge Handbook of Propositions_, Abingdon, UK: Routledge.
-* Inwagen, Peter van, 2004, “A Theory of Properties”, in _Oxford Studies in Metaphysics_, volume 1, Dean W Zimmerman (ed.), Oxford: Clarendon Press, 107–138.
+* Sperber, D. & Wilson, D., 1995, *Relevance*, Blackwell.
+* Stalnaker, Robert C., 1984, *Inquiry*, Cambridge, MA: MIT Press.
+* Stanley, Jason, 2007, *Language in Context: Selected Essays*, Oxford: Clarendon Press.
+* Stich, Stephen P. and Ted A. Warfield (eds.), 1994, *Mental Representation: A Reader*, Cambridge, MA: Blackwell.
+* Stojnić, Una, 2019, “Content in a Dynamic Context”, *Noûs*, 53(2): 394–432. doi:10.1111/nous.12220
+* Sullivan, Meghan, 2014, “Change We Can Believe In (and Assert): Change We Can Believe In (and Assert)”, *Noûs*, 48(3): 474–495. doi:10.1111/j.1468-0068.2012.00874.x
+* Tarski, Alfred, 1944, “The Semantic Conception of Truth: And the Foundations of Semantics”, *Philosophy and Phenomenological Research*, 4(3): 341–376. doi:10.2307/2102968
+* Taschek, William W., 1995, “Belief, Substitution, and Logical Structure”, *Noûs*, 29(1): 71–95. doi:10.2307/2215727
+* Tillman, Chris (ed.), forthcoming, *Routledge Handbook of Propositions*, Abingdon, UK: Routledge.
+* Inwagen, Peter van, 2004, “A Theory of Properties”, in *Oxford Studies in Metaphysics*, volume 1, Dean W Zimmerman (ed.), Oxford: Clarendon Press, 107–138.
 * Weatherson, Brian and Andy Egan, 2011, “Introduction: Epistemic Modals and Epistemic Modality”, in Egan and Weatherson 2011: 1–18. doi:10.1093/acprof:oso/9780199591596.003.0001
-* Wilson, Deirdre and Dan Sperber, 2012, _Meaning and Relevance_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139028370
-* Wittgenstein, Ludwig, 1922, _Tractatus Logico-Philosophicus_, C. K. Ogden (trans.), London: Routledge & Kegan Paul. Originally published as “Logisch-Philosophische Abhandlung”, in _Annalen der Naturphilosophische_, XIV (3/4), 1921.
-* –––, 1953, _Philosophical Investigations_, G.E.M. Anscombe (trans.), New York: MacMillan.
-* Yalcin, Seth, 2007, “Epistemic Modals”, _Mind_, 116(464): 983–1026. doi:10.1093/mind/fzm983
+* Wilson, Deirdre and Dan Sperber, 2012, *Meaning and Relevance*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139028370
+* Wittgenstein, Ludwig, 1922, *Tractatus Logico-Philosophicus*, C. K. Ogden (trans.), London: Routledge & Kegan Paul. Originally published as “Logisch-Philosophische Abhandlung”, in *Annalen der Naturphilosophische*, XIV (3/4), 1921.
+* –––, 1953, *Philosophical Investigations*, G.E.M. Anscombe (trans.), New York: MacMillan.
+* Yalcin, Seth, 2007, “Epistemic Modals”, *Mind*, 116(464): 983–1026. doi:10.1093/mind/fzm983
 * –––, 2014, “Semantics and Metasemantics in the Context of Generative Grammar”, in Burgess and Sherman 2014: 17–54. doi:10.1093/acprof:oso/9780199669592.003.0002
-* –––, 2018, “Belief as Question-Sensitive”, _Philosophy and Phenomenological Research_, 97(1): 23–47. doi:10.1111/phpr.12330
+* –––, 2018, “Belief as Question-Sensitive”, *Philosophy and Phenomenological Research*, 97(1): 23–47. doi:10.1111/phpr.12330
 
 ## Academic Tools
 
@@ -854,4 +854,4 @@ Horwich 的核心思想是我们对句子的接受受到某些法则的支配，
 [action](https://plato.stanford.edu/entries/action/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [contextualism, epistemic](https://plato.stanford.edu/entries/contextualism-epistemology/) | [convention](https://plato.stanford.edu/entries/convention/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [discourse representation theory](https://plato.stanford.edu/entries/discourse-representation-theory/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Grice, Paul](https://plato.stanford.edu/entries/grice/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [meaning: normativity of](https://plato.stanford.edu/entries/meaning-normativity/) | [meaning: of words](https://plato.stanford.edu/entries/word-meaning/) | [meaning holism](https://plato.stanford.edu/entries/meaning-holism/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [names](https://plato.stanford.edu/entries/names/) | [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) | [paradox: Skolem’s](https://plato.stanford.edu/entries/paradox-skolem/) | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [rigid designators](https://plato.stanford.edu/entries/rigid-designators/) | [Sellars, Wilfrid](https://plato.stanford.edu/entries/sellars/) | [semantics: dynamic](https://plato.stanford.edu/entries/dynamic-semantics/) | [semantics: proof-theoretic](https://plato.stanford.edu/entries/proof-theoretic-semantics/) | [semantics: two-dimensional](https://plato.stanford.edu/entries/two-dimensional-semantics/) | [situations: in natural language semantics](https://plato.stanford.edu/entries/situations-semantics/) | [Tarski, Alfred: truth definitions](https://plato.stanford.edu/entries/tarski-truth/) | [tense and aspect](https://plato.stanford.edu/entries/tense-aspect/) | [time](https://plato.stanford.edu/entries/time/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Jeff Speaks](http://www3.nd.edu/\~jspeaks/) <[_jspeaks@nd.edu_](mailto:jspeaks%40nd%2eedu)>
+[Jeff Speaks](http://www3.nd.edu/\~jspeaks/) <[*jspeaks@nd.edu*](mailto:jspeaks%40nd%2eedu)>

@@ -1,6 +1,6 @@
 # 批判理论（法兰克福学派）critical theory (Robin Celikates and Jeffrey Flynn)
 
-_首次发表于 2023 年 12 月 12 日_
+*首次发表于 2023 年 12 月 12 日*
 
 \[编辑说明：罗宾·塞利卡特斯（Robin Celikates）和杰弗里·弗林（Jeffrey Flynn）的以下新条目取代了以前作者关于这个主题的条目。]
 
@@ -9,8 +9,6 @@ _首次发表于 2023 年 12 月 12 日_
 在更广义上，有许多不同的批判理论流派作为对各种社会和政治运动的解放目标进行反思性参与的形式出现，例如女性主义理论、批判种族理论、酷儿理论以及后殖民/去殖民理论。在另一种第三意义上，“批判理论”或有时仅称为“理论”用来指代与精神分析和后结构主义相关的理论家的作品，例如米歇尔·福柯和雅克·德里达（也请参阅这些单独的条目以及关于后现代主义的条目）。
 
 本条目主要关注法兰克福学派的批判理论，但在各个点上向外扩展，讨论该传统与一系列批判理论和社会发展的关系。当今对批判理论进行广泛探讨的需要是由一系列当代社会、政治、经济和生态危机和斗争以及对欧洲中心主义知识生产的批判所引发的。
-
-
 
 ***
 
@@ -120,7 +118,7 @@ _首次发表于 2023 年 12 月 12 日_
 
 In the early 1970s, Habermas largely abandoned this framework, based in an anthropology of knowledge, though he did continue to pursue some of its themes, and epistemological questions have remained central to his work in at least two domains: first, in his “postmetaphysical” (non-foundationalist and fallibilistic) understanding of philosophy as a form of critical reflection at the intersection between science and society (Habermas 1983a, Ch. 1) and, second, in his critique of naturalism, especially neuroscience as a form of positivism or scientism that absolutizes the observer’s perspective, thereby negating the irreducibility of the participants’ perspective and occluding the normative structure of interpersonal communication (Habermas 2005, Ch. 6).
 
-Habermas increasingly came to the view that critical theory needed more robust social-theoretical and normative foundations, since, in his eyes, the totalizing critique of the first generation had proven to be self-undermining (1985, Ch. 5) and his own approach in _Knowledge and Human Interests_ had conflated the reconstruction of invariant structures of communication (formal pragmatics) with the critique of the false consciousness of particular persons and societies (1973a). Habermas’s alternative path, after abandoning that methodological framework, was to focus on communicative reason in a two-volume magnum opus titled _The Theory of Communicative Action_ (1981). By contrast with an instrumentalist understanding of reason and action, Habermas’s “communicative turn” starts from a reconstruction of the rational and normative potential of everyday interactions.
+Habermas increasingly came to the view that critical theory needed more robust social-theoretical and normative foundations, since, in his eyes, the totalizing critique of the first generation had proven to be self-undermining (1985, Ch. 5) and his own approach in *Knowledge and Human Interests* had conflated the reconstruction of invariant structures of communication (formal pragmatics) with the critique of the false consciousness of particular persons and societies (1973a). Habermas’s alternative path, after abandoning that methodological framework, was to focus on communicative reason in a two-volume magnum opus titled *The Theory of Communicative Action* (1981). By contrast with an instrumentalist understanding of reason and action, Habermas’s “communicative turn” starts from a reconstruction of the rational and normative potential of everyday interactions.
 
 This turn involves a multidimensional paradigm shift, illustrating the theoretical ambition of Habermas’ enterprise. He develops a theory of communicative action and rationality that is anchored in everyday practices of communication, in which we raise validity claims whose normative dynamic is context-transcendent and which allow for consensus-based coordination of action. He provides a historical reconstruction of modern rationalization processes, in which social integration via authority or shared tradition has been increasingly replaced by an expanded use of communicative reason in response to the pressure to cooperate. Finally, he constructs a two-level model of society based on the distinction between “system” and “lifeworld,” claiming that the regulation of coexistence in modern societies depends on both communication oriented towards mutual understanding (“lifeworld”) and on the anonymous systems of state bureaucracy and the capitalist market (“system”).
 
@@ -361,351 +359,351 @@ Honneth 和 Jaeggi 的方法都体现了一种内在批判的概念，紧密联�
 
 ## Bibliography
 
-* Abromeit, John, 2016, “Critical Theory and the Persistence of Right-Wing Populism”, _Logos: A Journal of Modern Society and Culture_, 15(2) \[[Abromeit 2016 available online](https://logosjournal.com/2016/abromeit/)].
-* Adorno, Theodor W., 1931 \[year this lecture was given], “Die Aktualität der Philosophie”, in Theodor W. Adorno, _Gesammelte Schriften I: Philosophische Frühschriften_, Rolf Tiedemann (ed.), Frankfurt am Main: Suhrkamp, 1973, pp. 325–344; translated as “The Actuality of Philosophy”, Benjamin Snow (trans.), _Telos_, 31 (1977): 120–133.
-* –––, 1936 “Wiesengrund-Adorno an Benjamin, 18. März 1936”, in Theodor W. Adorno and Walter Benjamin, _Briefwechsel 1928–1940_, Henri Lonitz (ed.), Frankfurt am Main, 1994, pp. 168–177; translated as March 18, 1936, “Wiesengrund-Adorno to Benjamin, March 18, 1936”, Theodor W. Adorno and Walter Benjamin\*, The Complete Correspondence 1928–1940\*,, Nicholas Walker (trans.), Henri Lonitz (ed.), Cambridge: Polity Press, 1999, pp. 127–133.
-* –––, 1938, “Über den Fetischcharakter in der Musik und die Regression des Hörens”, _Zeitschrift für Sozialforschung_, 7(3), 321–356; translated as “On the Fetish Character in Music and the Regression of Listening”, Susan L. Gillespie (trans.), in Theodor W. Adorno, _Essays on Music_, Richard Leppert (ed.), Berkeley: University of California Press, 2002, pp. 288–317.
-* –––, 1951a, “Kulturkritik und Gesellschaft”, in Karl Gustav Specht (ed.), _Soziologische Forschung unserer Zeit_, Köln and Opladen: Westdeutscher Verlag, 1951, pp. 228–240, republished in Theodor W. Adorno, _Prismen: Kulturkritik und Gesellschaft_, Frankfurt am Main: Suhrkamp, 1955, pp. 7–31; translated as “Cultural Criticism and Society”, in Theodor W. Adorno, _Prisms_, Samuel Weber and Shierry Weber (trans.), Cambridge, MA: MIT Press, 1981, pp. 17–34.
-* –––, 1951b, “Freudian Theory and the Pattern of Fascist Propaganda”, in Géza Roheim (ed.), _Psychoanalysis and the Social Sciences Vol. 3_, New York: International Universities Press, 279–300. Reprinted in _The Culture Industry: Selected Essays on Mass Culture_, Jay Bernstein (ed.), New York: Routledge, 1991, pp. 132–157.
-* –––, 1951c, _Minima Moralia: Reflexionen aus dem beschädigten Leben_, Frankfurt am Main: Suhrkamp; translated as _Minima Moralia: Reflections from Damaged Life_, Edmund Jephcott (trans.), London: Verso, 2005.
-* –––, 1955, “Schuld und Abwehr”, in Friedrich Pollock (ed.), _Gruppenexperiment: Ein Studienbericht_, Frankfurt am Main: Europäische Verlagsanstalt, 278–428; translated as _Guilt and Defense: On the Legacies of National Socialism in Postwar Germany_, Jeffrey K. Olick and Andrew J. Perrin (eds./trans.), Cambridge, MA: Harvard University Press, 2010.
-* –––, 1957, “Soziologie und empirische Forschung”, in K . Ziegler (ed.), _Wesen und Wirklichkeit des Menschen: Festschrift für Helmuth Plessner_, Göttingen: Vandenhoeck & Ruprecht, pp. 245–260; translated as “Sociology and Empirical Research”, Glyn Adey and David Frisby (trans.), in Theodor W. Adorno et al. (eds.), _The Positivist Dispute in German Sociology_, London: Heinemann, 1976, pp. 68–86.
-* –––, 1963a \[year this transcribed lecture course was given], _Probleme der Moralphilosophie_, Frankfurt am Main: Suhrkamp, 1996; translated as _Problems of Moral Philosophy_, Rodney Livingstone (trans.), Stanford, CA: Stanford University Press, 2000.
-* –––, 1963b, _Drei Studien zu Hegel_, Frankfurt am Main: Suhrkamp; translated as _Hegel: Three Studies_, Shierry Weber Nicholsen (trans.), Cambridge, MA: MIT Press, 1993.
-* –––, 1966a, _Negative Dialektik_, Frankfurt am Main: Suhrkamp; translated as _Negative Dialectics_, E. B. Ashton (trans.), New York: Seabury Press, 1973.
-* –––, 1966b, “Gesellschaft”, in Hermann Kunst and Siegfried Grundmann (eds.), _Evangelisches_ _Staatslexikon_, Stuttgart: Kreuz Verlag, pp. 636–643; translated as “Society”, Fredric R. Jameson (trans.), _Salmagundi_, 10–11 (1969): 144–153.
-* –––, 1969a, “Zur Spezifikation der kritischen Theorie”, in Theodor W. Adorno Archiv (ed.), _Adorno. Eine Bildmonographie_, Frankfurt am Main: Suhrkamp, p. 292.
-* –––, 1969b, “Marginalien zu Theorie und Praxis”, _Die Zeit_, No. 33 (1969); translated as “Marginalia to Theory and Praxis”, Henry W. Pickford (trans.), in _Critical Models: Interventions and Catchwords_, New York: Columbia University Press, 2005, pp. 259–278.
-* –––, 1967a \[year this transcribed lecture was given], _Aspekte des neuen Rechtsradikalismus_, Berlin: Suhrkamp, 1999; translated as _Aspects of the New Right-Wing Extremism_, Wieland Hoban (trans.), Cambridge: Polity, 2020.
-* –––, 1967b, “Résumé über Kulturindustrie”, in Theodor W. Adorno, _Ohne Leitbild: Parva Aesthetica_, Frankfurt am Main: Suhrkamp, pp. 60–70; translated as “The Culture Industry Reconsidered”, Anson G. Rabinbach (trans.), in Jay Bernstein, (ed.), _The Culture Industry: Selected Essays on Mass Culture_, New York: Routledge, 1991, pp. 98–106.
-* –––, 1970, _Ästhetische_ _Theorie_, Frankfurt am Main: Suhrkamp; translated as _Aesthetic Theory_, Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press, 1977.
-* Adorno, Theodor W., Else Frenkel-Brunswik, Daniel Levinson, and Nevitt Sanford, 1950, _The Authoritarian Personality_, with a new Introduction by Peter E. Gordon, New York: Verso, 2019.
-* Adorno, Theodor W., Hans Albert, Ralf Dahrendorf, Jürgen Habermas, Harald Pilot, and Karl R. Popper, 1969, _Der Positivismusstreit in der deutschen Soziologie_, Neuwied/Berlin: Luchterhand; translated as _The Positivist Dispute in German Sociology_, Glyn Adey and David Frisby (trans.), London: Heinemann, 1976.
-* Adorno, Theodor W. and Herbert Marcuse, 1969, “Correspondence on the German Student Movement”, _New Left Review_, 233 (1999), 123–136.
-* Agamben, Giorgio, 1995, _Homo Sacer: Il potere sovrano e la nuda vita_, Turin: Einaudi; translated as _Homo Sacer: Sovereign Power and Bare Life_, Daniel Heller-Roazen (trans.), Stanford: Stanford University Press, 1998.
-* Allen, Amy, 2008, _The Politics of Our Selves: Power, Autonomy, and Gender in Contemporary Critical Theory_, New York: Columbia University Press.
-* –––, 2010, “Third Generation Critical Theory: Benhabib, Fraser, and Honneth”, in Rosi Braidotti (ed.), _After Poststructuralism: Transitions and Transformations_, Durham: Acumen, pp. 129–48.
-* –––, 2012, “The Public Sphere: Ideology and/or Ideal?”, _Political Theory_, 40(6): 822–829. doi:10.1177/0090591712457664
-* –––, 2014, “Reason, Power and History: Re-reading the _Dialectic of Enlightenment_”, _Thesis Eleven_, 120(1): 10–25. doi:10.1177/0725513613519588
-* –––, 2015, “Emancipation without Utopia: Subjection, Modernity, and the Normative Claims of Feminist Critical Theory”, _Hypatia_, 30(3): 513–29. doi:10.1111/hypa.12160
-* –––, 2016, _The End of Progress: Decolonizing the Normative Foundations of Critical Theory_, New York: Columbia University Press.
-* –––, 2019, “Critical Theory and Feminism”, in Gordon, Peter, Espen Hammer, and Axel Honneth (eds.), _The Routledge Companion to the Frankfurt School_, London: Routledge, pp. 528–541.
-* –––, 2021, _Critique on the Couch: Why Critical Theory Needs Psychoanalysis_, New York: Columbia University Press.
-* Allen, Amy, and Eduardo Mendieta, (eds.), 2021, _Decolonizing Ethics: The Critical Theory of Enrique Dussel_, University Park, PA: Pennsylvania State University Press.
-* Allen, Amy, and Brian O’Connor (eds.), 2019, _Transitional Subjects: Critical Theory and Object Relations_, New York: Columbia University Press.
-* Anderson, Joel, 2000, “The ‘Third Generation’ of the Frankfurt School”, _Intellectual History Newsletter_ 22, 49–61.
-* Apel, Karl-Otto, 1985, “Ist die Ethik der idealen Kommunikationsgemeinschaft eine Utopie? Zum Verhältnis von Ethik, Utopie und Utopiekritik”, in Wilhelm Vosskamp (ed.), _Utopieforschung_, Frankfurt: Suhrkamp; translated as “Is the Ideal Communication Community a Utopia? On the Relationship between Ethics, Utopia, and the Critique of Utopia”, David Frisby (trans.), in Seyla Benhabib and Fred Dallmayr (eds.), _The Communicative Ethics Controversy_, Cambridge, MA: MIT Press, 1990, pp. 23–59.
-* –––, 1989, “Normative Begründung der ‘Kritischen Theorie’” durch Rekurs auf lebensweltliche Sittlichkeit? Ein transzendentalpragmatisch orientierter Versuch, mit Habermas gegen Habermas zu denken”, in Axel Honneth, Thomas McCarthy, Claus Offe, and Albrecht Wellmer (eds.), _Zwischenbetrachtungen im Prozess der Aufklärung: Jürgen Habermas zum 60. Geburtstag_, Frankfurt am Main: Suhrkamp, 15–65; translated as “Normatively Grounding ‘Critical Theory’ through Recourse to Lifeworld? A Transcendental-Pragmatic Attempt to Think With Habermas Against Habermas”, William Rehg (trans.), in Axel Honneth, Thomas McCarthy, Claus Offe, and Albrecht Wellmer (eds.), _Philosophical Interventions Into the Unfinished Project of Enlightenment_, Cambridge, MA: MIT Press, 1992, pp. 125–70.
-* Azmanova, Albena, 2014, “Crisis? Capitalism is Doing Very Well. How is Critical Theory?”, _Constellations_, 21(3): 351–365. doi:10.1215/00382876-7165857
-* –––, 2020, _Capitalism on Edge: How Fighting Precarity Can Achieve Radical Change Without Crisis or Utopia_, New York: Columbia University Press.
-* Balibar, Etienne, and Immanuel Wallerstein, 1988, _Race, nation, classe: les identités ambiguës_, Paris: La Découverte; translated as _Race, Nation, Class. Ambiguous Identities_, Chris Turner (trans.), New York: Verso, 1991.
-* Bardawil, Fadi, 2018, “Césaire with Adorno: Critical Theory and the Colonial Problem”, _South Atlantic Quarterly_, 117(4): 773–789. doi:10.1215/00382876-7165857
-* Baum, Bruce, 2015, “Decolonizing Critical Theory”, _Constellations_, 22(3): 420–434. doi:10.1111/1467-8675.12169
-* Baynes, Kenneth, 2016, _Habermas_, New York: Routledge.
-* Benhabib, Seyla, 1986, _Critique, Norm, and Utopia: A Study of the Foundations of Critical Theory_, New York: Columbia University Press.
-* –––, 1992, _Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics_, New York: Routledge.
-* –––, 2004, _The Rights of Others: Aliens, Residents, and Citizens_, Cambridge: Cambridge University Press.
-* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995, _Feminist Contentions: A Philosophical Exchange_, New York: Routledge.
-* Benjamin, Walter, 1920/21, “Zur Kritik der Gewalt”, in _Archiv für Sozialwissenschaft und Sozialpolitik_, 47(3): 809–832; translated as “Toward the Critique of Violence”, Julia Ng (trans.), in Peter Fenves and Julia Ng (eds.), _Toward the Critique of Violence: A Critical Edition_, Stanford University Press, 2021, pp. 39–60.
-* –––, 1936, “Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit”, originally published as “L’œuvre d’art à l’époque de sa réproduction mécanisée”, Pierre Klossowski (trans.), _Zeitschrift für Sozialforschung_, 5(1), 40–68, all textual variants can be found in Walter Benjamin, _Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit_ (Walter Benjamin Werke und Nachlaß: Kritische Gesamtausgabe vol. 16), Burkhardt Lindner (ed.), Berlin: Suhrkamp, 2012, the essay was translated as “The Work of Art in the Age of its Technological Reproducibility”, Michael W. Jennings (trans.), _Grey Room_, 39 (2010): 11–37. doi:10.1162/grey.2010.1.39.11
-* –––, 1940, “Über den Begriff der Geschichte”, in Walter Benjamin, _Gesammelte_ _Schriften I_, Rolf Tiedemann and Hermann Schweppenhäuser (eds.), Frankfurt am Main, 1974, pp. 691–706; translated as “On the Concept of History”, Harry Zohn (trans.) in Howard Eiland and Michael W. Jennings (eds.) _Walter Benjamin: Selected Writings_ (Volume 4), Cambridge, MA: Harvard University Press, 2006, pp. 389–400.
-* –––, 1955, _Schriften_, 2 vols., Theodor W. Adorno and Gretel Adorno (eds.), Frankfurt am Main: Suhrkamp; translated in parts as _Illuminations_, Harry Zohn (trans.), Hannah Arendt (ed.), New York: Harcourt, Brace & World, 1968.
-* Bernstein, Jay, 2001, _Adorno: Disenchantment and Ethics_, Cambridge: Cambridge University Press.
-* Bernstein, Richard, 2010, _The Pragmatic Turn_, Malden, MA: Polity.
-* –––, 2022, _The Vicissitudes of Nature: From Spinoza to Freud_, Malden, MA: Polity.
-* Bhambra, Gurminder K., 2021, “Decolonizing Critical Theory?: Epistemological Justice, Progress, Reparations”, _Critical Times_, 4(1): 73–89. doi:10.1215/26410478-8855227
-* Bhambra, Gurminder K., and John Holmwood, 2021, _Colonialism and Modern Social Theory_, Malden, MA: Polity.
-* Biro, Andrew, 2011, _Critical Ecologies: The Frankfurt School and Contemporary Environmental Crises_, Toronto: University of Toronto Press.
-* Bohman, James, 2003, “Critical Theory as Practical Knowledge: Participants, Observers, and Critics”, in S. P. Turner and P. A. Roth (eds.), _The Blackwell Guide to the Philosophy of the Social Sciences_, Oxford: Blackwell, pp. 91–109.
-* –––, 2007, _Democracy Across Borders: From_ Dêmos _to_ Dêmoi, Cambridge, MA: MIT Press.
-* Bojadžijev, Manuela, 2020, “Anti-Racism as Method”, in John Solomos (ed.), _The Routledge International Handbook of Contemporary Racisms_, London: Routledge 2020, pp. 193–204.
-* Bourdieu, Pierre, 1980, _Le sens pratique_, Paris: Minuit; translated as _The Logic of Practic_e, Richard Nice (trans.), Stanford: Stanford University Press, 1992.
-* Brown, Wendy (ed.), 2006, “Feminist Theory and the Frankfurt School”: a Special Issue of _differences: A Journal of Feminist Cultural Studies_, 17(1).
-* –––, 2019, _In the Ruins of Neoliberalism: The Rise of Antidemocratic Politics in the West_, New York: Columbia University Press.
-* –––, 2022, “Rethinking Politics and Freedom in the Anthropocene”, _Crisis and Critique_, 9(2): 24–44 \[[Brown 2022 available online](https://www.crisiscritique.org/storage/app/media/nov-25/wendy-brown.pdf)].
-* Brown, Wendy, and Rainer Forst, 2014, _The Power of Tolerance: A Debate_, New York: Columbia University Press.
-* Brown, Wendy, Peter Gordon, and Max Pensky, 2018, _Authoritarianism. Three Inquiries in Critical Theory_, Chicago: The University of Chicago Press.
-* Brunkhorst, Hauke, 1983, “Paradigmenkern und Theoriedynamik der Kritischen Theorie der Gesellschaft”, _Soziale_ _Welt_, 34: 22–36; translated as “Paradigm-core and theory-dynamics in critical social theory: people and programs”, Peter Krockenberger (trans.), _Philosophy & Social Criticism_, 24(6) (1998): 67–110.
-* –––, 2002, _Solidarität: Von der Bürgerfreundschaft zur globalen Rechtsgenossenschaft_, Frankfurt am Main: Suhrkamp; translated as _Solidarity: From Civic Friendship to a Global Legal Community_, Jeffrey Flynn (trans.), Cambridge, MA: MIT Press, 2005.
-* –––, 2014, _Critical Theory of Legal Revolutions: Evolutionary Perspectives_, New York: Bloomsbury.
-* Buchstein, Hubertus, 2020, “Otto Kirchheimer and the Frankfurt School: Failed Collaborations in the Search for a Critical Theory of Politics”, _New German Critique_, 47(2): 81–106.
-* Buck-Morss, Susan, 1977, _The Origin of Negative Dialectics: Theodor W. Adorno, Walter Benjamin and the Frankfurt Institute_, New York: The Free Press.
-* –––, 1989, _The Dialectics of Seeing: Walter Benjamin and the Arcades Project_, Cambridge, MA: MIT Press.
-* –––, 1992, “Aesthetics and Anaesthetics: Walter Benjamin’s Artwork Essay Reconsidered”, _October_, 62: 3–41. doi:10.2307/778700
-* –––, 2009, _Hegel, Haiti, and Universal History_, Pittsburgh: University of Pittsburgh Press.
-* Butler, Judith, 1990, _Gender Trouble_, London: Routledge.
-* –––, 1997, _The Psychic Life of Power: Theories in Subjection_, Stanford, CA: Stanford University Press.
-* –––, 2012, _Parting Ways: Jewishness and the Critique of Zionism_, New York: Columbia University Press.
-* –––, 2015, _Notes Toward a Performative Theory of Assembly_, Cambridge, MA: Harvard University Press.
-* Butler, Judith, Jürgen Habermas, Charles Taylor, and Cornel West, 2011, _The Power of Religion in the Public Sphere_, New York: Columbia University Press.
-* Cassegård, Carl, 2021, _Toward a Critical Theory of Nature: Capital, Ecology, and Dialectics_, New York: Bloomsbury.
-* Catlin, Jonathon, 2023, “Antisemitism and Racism ‘After Auschwitz’: Adorno on the ‘Hellish Unity’ of ‘Permanent Catastrophe’ ”, in Marcel Stoetzler (ed.), _Critical Theory and the Critique of Antisemitism_, New York: Bloomsbury, pp. 203–230.
-* Celikates, Robin, 2006, “From Critical Social Theory to a Social Theory of Critique: On the Critique of Ideology after the Pragmatic Turn”, _Constellations_, 13(1): 21–40. doi:10.1111/j.1351-0487.2006.00438.x
-* –––, 2009, _Kritik als soziale Praxis: Gesellschaftliche Selbstverständigung und kritische Theorie_, Frankfurt am Main: Campus; translated as _Critique as Social Practice: Critical Theory and Social Self-Understanding_, Naomi van Steenbergen (trans.), London: Rowman & Littlefield, 2018.
-* –––, 2019a, “Critical Theory and the Unfinished Project of Mediating Theory and Practice”, in Peter Gordon, Espen Hammer, and Axel Honneth (eds.), _The Routledge Companion to the Frankfurt School_, London: Routledge, pp. 206–220.
-* –––, 2019b, “Constituent Power Beyond Exceptionalism: Irregular Migration, Disobedience, and (Re-)Constitution”, _Journal of International Political Theory_, 15(1): 67–81. doi:10.1177/1755088218808311
-* –––, 2022, “Remaking the Demos ‘from Below’? Critical Theory, Migrant Struggles, and Epistemic Resistance”, in Didier Fassin and Axel Honneth (eds.), _Crisis Under Critique: How People Assess, Transform, and Respond to Critical Situations_, New York: Columbia University Press, pp. 97–120.
-* Celikates, Robin, Sally Haslanger, and Jason Stanley (eds.), forthcoming, _Analyzing Ideology_, Oxford: Oxford University Press.
-* Celikates, Robin, Axel Honneth, and Rahel Jaeggi, 2023, “The Working Sovereign: A conversation with Axel Honneth”, _Journal of Classical Sociology_, 23(3): 318–338. doi:10.1177/1468795X231170980
-* Chambers, Simone, 2022, “Can Postmetaphysical Reason Escape its Provincial Roots?”, in Tom Bailey (ed.), _Deprovincializing Habermas: Global Perspectives_, _Second Edition_, New York: Routledge, pp. 229–248.
-* Chari, Anita, 2015, _A Political Economy of the Senses: Neoliberalism, Reification, Critique_, New York: Columbia University Press.
-* Cohen, Jean L., and Andrew Arato, 1992, _Civil Society and Political Theory_, Cambridge, MA: MIT Press.
-* Collins, Patricia Hill, 1990, _Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment_, London: Routledge. Second edition published in 2000.
-* –––, 2019, _Intersectionality as Critical Social Theory_, Durham and London: Duke University Press. doi:10.1515/9781478007098
-* Cook, Deborah, 2004, _Adorno, Habermas, and the Search for a Rational Society_, London and New York: Routledge.
-* –––, 2011, _Adorno on Nature_, Durham: Acumen.
-* Cooke, Maeve, 2006, _Re-Presenting the Good Society_, Cambridge, MA: MIT Press.
-* –––, 2020, “Ethics and Politics in the Anthropocene”, _Philosophy & Social Criticism_, 46(10): 1167–1181. doi:10.1177/0191453720903491
-* –––, 2023, “Reenvisioning Freedom: Human Agency in Times of Ecological Disaster”, _Constellations_, 30: 119–127. doi:10.1111/1467-8675.12681
-* Cordero, Rodrigo, 2017, _Crisis and Critique: On the Fragile Foundations of Social Life_, New York: Routledge.
-* Coulthard, Glen Sean, 2014, _Red Skin, White Masks: Rejecting the Colonial Politics of Recognition_, Minneapolis: University of Minnesota Press.
-* Crenshaw, Kimberlé, Neil Gotanda, Gary Peller, and Kendall Thomas, 1995, “Introduction”, _Critical Race Theory: The Key Writings that Formed the Movement_, New York: The New Press, pp. viii–xxxii.
-* Davis, Angela Y., 1983, _Women, Race and Class_, New York: Vintage.
-* –––, 2004, “Marcuse’s Legacies”, in John Abromeit and W. Mark Cobb (eds.), _Herbert Marcuse: A Critical Reader_. New York, Routledge, pp. 43–50.
-* –––, 2005, _Abolition Democracy_, New York: Seven Stories Press.
-* Dean, Jodi, 2016, _Crowds and Party_, London: Verso.
-* Dejours, Christophe, Jean-Philippe Deranty, Emmanuel Renault, and Nicholas H. Smith, 2018, _The Return of Work in Critical Theory: Self, Society, Politics_, New York: Columbia University Press.
-* Demirović, Alex, 2016, “The Frankfurt School, Critical Theory, and Sociology at the Institute for Social Research (1950 to 1960)”, in Gabriel R. Ricci (ed.), _The Persistence of Critical Theory_, London: Routledge, pp. 25–40.
-* Deranty, Jean-Philippe, 2021, “Negativity in Recognition: Post-Freudian Legacies in Contemporary Critical Theory”, in Ikäheimo, Heikki, Kristina Lepold and Titus Stahl (eds.), _Recognition and Ambivalence_, New York: Columbia University Press, pp. 223–255.
-* Derrida, Jacques, 1990 \[year the lecture was given], _Force de loi_, Paris: Galilée, 1994; translated as “The Force of Law”, Mary Quaintance (trans.), in Drucilla Cornell, Michel Rosenfeld, and David G. Carlson (eds.), _Deconstruction and the Possibility of Justice_, New York: Routledge, 1992, pp. 3–67.
-* Dews, Peter, 1987, _Logics of Disintegration: Poststructuralist Thought and the Claims of Critical Theory_, London: Verso.
-* Dubiel, Helmut, 1978, _Wissenschaftsorganisation und politische Erfahrung: Studien zur frühen Kritischen Theorie_, Frankfurt am Main: Suhrkamp; translated as _Theory and Politics: Studies in the Development of Critical Theory_, Benjamin Gregg (trans.), Cambridge, MA: MIT Press, 1985.
-* Du Bois, W. E. B., 1935, _Black Reconstruction in America, 1860–1880_, New York: The Free Press, 1998.
-* Dussel, Enrique, 1998, _Ética de la Liberación en la edad de globalización y de la exclusión_; translated as _Ethics of Liberation in the Age of Globalization and Exclusion_, Eduardo Mendieta, Camilo Pérez Bustillo, Yolanda Angulo, and Nelson Maldonado-Torres (trans.), Durham, NC: Duke University Press, 2013.
-* –––, 2011, “From Critical Theory to the Philosophy of Liberation: Some Themes for Dialogue”, _Transmodernity_, 1(2): 16–43. doi.org:10.5070/T412011806
-* Eagleton, Terry, 1991, _Ideology: An Introduction_, London, Verso.
-* Feenberg, Andrew, 2023a, “Marcuse’s Critique of Technology Today”, _Philosophy & Social Criticism_ 49(6): 672–685. doi:10.1177/01914537231164657
-* –––, 2023b, _The Ruthless Critique of Everything Existing: Nature and Revolution in Marcuse’s Philosophy of Praxis_, London: Verso.
-* Ferrara, Alessandro, 2008, _The Force of the Example: Explorations in the Paradigm of Judgment_, New York: Columbia University Press.
-* Ferrarese, Estelle, 2018, _La fragilité du souci des autres: Adorno et le care_, Lyon: ENS Éditions; translated as _The Fragility of Concern for Others: Adorno and the Ethics of Care_, Steven Corcoran (trans.), Edinburgh: Edinburgh University Press, 2020.
-* Finlayson, James Gordon, 2007, “Political, Moral and Critical Theory: On the Practical Philosophy of the Frankfurt School”, in Michael Rosen and B. Leiter (eds.), _The Oxford Handbook of Continental Philosophy_, Oxford: Oxford University Press, pp. 626–670.
-* –––, 2015, “The Artwork and the Promesse du Bonheur in Adorno”, _European Journal of Philosophy_, 23(3): 392–419. doi:10.1111/j.1468-0378.2012.00542.x
-* –––, 2019, _The Habermas-Rawls Debate_, New York: Columbia University Press.
-* Flynn, Jeffrey, 2014a, _Reframing the Intercultural Dialogue on Human Rights: A Philosophical Approach_, New York: Routledge.
-* –––, 2014b, “Truth, Objectivity, and Experience after the Pragmatic Turn: Bernstein on Habermas’s ‘Kantian Pragmatism’ ”, in Judith M. Green (ed.), _Richard J Bernstein and the Pragmatist Turn in Contemporary Philosophy_, Basingstoke and New York: Palgrave Macmillan, pp. 190–209.
-* –––, 2022, “Decentering Eurocentrism through Dialogue”, in Tom Bailey (ed.), _Deprovincializing Habermas: Global Perspectives_, _Second Edition_, New York: Routledge, pp. 249–270.
-* Fong, Benjamin Y., 2016, _Death and Mastery: Psychoanalytic Drive Theory and the Subject of Late Capitalism_, New York: Columbia University Press.
-* Forst, Rainer, 2007, _Das Recht auf Rechtfertigung: Elemente einer konstruktivistischen Theorie der Gerechtigkeit_, Berlin: Suhrkamp; translated as _The Right to Justification: Elements of a Constructivist Theory of Justice_, Jeffrey Flynn (trans.), New York: Columbia University Press, 2011.
-* –––, 2011, _Kritik der Rechtfertigungsverhältnisse_, Berlin: Suhrkamp; translated as _Justification and Critique: Towards a Critical Theory of Politics_, Ciaran Cronin (trans.), Cambridge: Polity, 2014.
-* –––, 2017, “Noumenal Alienation: Rousseau, Kant and Marx on the Dialectics of Self-Determination”, _Kantian Review_, 22(4): 523–551. doi:10.1017/S1369415417000267
-* –––, 2021a, _Die noumenale Republik: Kritischer Konstruktivismus nach Kant_, Berlin: Suhrkamp; translation, _The Noumenal Republic: Critical Constructivism after Kant_, Ciaran Cronin (trans.), forthcoming.
-* –––, (ed)., 2021b, “Symposium on Jürgen Habermas, _Auch eine Geschichte der Philosophie_”, _Constellations_, 28(1): 1–147.
-* –––, 2023, “The rule of unreason: Analyzing (Anti-)Democratic Regression”, _Constellations_, 30(3): 217–224. doi:10.1111/1467-8675.12671
-* Foucault, Michel, 1973 \[year this lecture was given], “La vérités et les formes juridiques”, _Chimères_, 10 (1990): 8–28; translated as “Truth and Juridical Forms”, in Michel Foucault, _Power_, ed. James D. Faubion, New York: New Press, 2000, pp. 31–45.
-* Fraser, Nancy, 1981, “Foucault on Modern Power: Empirical Insights and Normative Confusions”, _PRAXIS International_, 3: 272–287.
-* –––, 1985, “What’s Critical about Critical Theory? The Case of Habermas and Gender”, _New German Critique_, 35: 97–131. doi:10.2307/488202
-* –––, 1989, _Unruly Practices: Power, Discourse, and Gender in Contemporary Social Theory_, Minneapolis: University of Minnesota Press.
-* –––, 1990, “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.” _Social Text_, 25/26: 56–80.
-* –––, 2011, “Marketization, Social Protection, Emancipation: Toward a Neo-Polanyian Conception of Capitalist Crisis”, in Craig Calhoun and Georgi Derlugian (eds.), _Business as Usual: The Roots of the Global Financial Meltdown_, New York University Press, pp. 137–58.
-* –––, 2013, _Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis_, London: Verso.
-* –––, 2014, “Behind Marx’s Hidden Abode”, _New Left Review_, 86: 55–72.
-* –––, 2016, “Contradictions of Capital and Care”, _New Left Review_, 100: 99–117.
-* –––, 2021, “Climates of Capital”, _New Left Review_, 127: 94–127.
-* –––, 2022, _Cannibal Capitalism: How Our System is Devouring Democracy, Care, and the Planet – And What We Can Do about It_, New York: Verso.
-* Fraser, Nancy, et al., 2014, _Transnationalizing_ _the Public Sphere_, Kate Nash (ed.), Cambridge: Polity.
-* Fraser, Nancy, and Axel Honneth, 2003, _Redistribution or Recognition? A Philosophical-Political Exchange_, New York: Verso.
-* Fraser, Nancy and Rahel Jaeggi, 2018, _Capitalism: A Conversation in Critical Theory_, Brian Milstein (ed.), Cambridge: Polity.
-* Freyenhagen, Fabian, 2014, “Adorno’s Politics: Theory and Praxis in Germany’s 1960s”, _Philosophy & Social Criticism_, 40: 867–893. doi:10.1177/0191453714545198
-* –––, 2018, “Critical Theory: Self-Reflexive Theorizing and Struggles for Emancipation”, in: _Oxford Research Encyclopedia of Politics_ \[[Freyenhagen 2018 available online](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-195)].
-* Fricker, Miranda, 2007, _Epistemic Injustice_, Oxford: Oxford University Press.
-* Fromm, Erich, 1936, “Studien über Autorität und Familie. Sozialpsychologischer Teil”, in Max Horkheimer (ed.), _Schriften des Instituts für Sozialforschung, Vol. V: Studien über Autorität und Familie_, Paris: Librairie Félix Alcan; translated as “Studies on Authority and the Family. Socio-psychological Dimensions”, _Fromm Forum_, 24 (2020): 8–58.
-* –––, 1961, _Marx’s Concept of Man_, New York: Continuum.
-* Gago, Verónica, 2019, _La potencia feminista: O el deseo de cambiarlo todo_, Buenos Aires: Tinta Limón; translated as _Feminist International: How to Change Everything_, Liz Mason-Deese (trans.), London: Verso, 2020.
-* Gambetti, Zeynep, 2020, “Exploratory Notes on the Origins of New Fascisms”, _Critical Times_, 3(1): 1–32. doi:10.1215/26410478-8189841
-* Geuss, Raymond, 1981, _The Idea of a Critical Theory_, Cambridge: Cambridge University Press.
-* Gilmore, Ruth Wilson, 2022, _Abolition Geography: Essays Towards Liberation_, London: Verso.
-* Gordon, Peter, 2017, “The Authoritarian Personality Revisited”, _boundary 2_, 44(2): 31–56. doi:10.1215/01903659-3826618
-* –––, 2023, _A Precarious Happiness: Adorno and the Sources of Normativity_, Chicago: University of Chicago Press. doi:10.4324/9780429443374
-* Gordon, Peter, Espen Hammer, and Axel Honneth (eds.), 2019, _The Routledge Companion to the Frankfurt School_, London: Routledge. doi:10.4324/9780429443374
-* Gregoratto, Federica, Heikki Ikäheimo, Emmanuel Renault, Arvi Särkelä, and Italo Testa, 2022, “Critical Naturalism: A Manifesto”, _Krisis: Journal for Contemporary Philosophy_, 42(1): 108–24. doi:10.21827/krisis.42.1.38637
-* Grüner, Eduardo, 2010, _La oscuridad y las luces_, Buenos Aires: Edhasa; translated as _The Haitian Revolution: Capitalism, Slavery and Counter-Modernity_, Ramsey McGlazer (trans.), Cambridge: Polity, 2019.
-* Habermas, Jürgen, 1962, _Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft_, Neuwied, Berlin: Luchterhand; translated as _The Structural Transformation of the Public Sphere: An Inquiry Into a Category of Bourgeois Society_, Thomas Burger and Frederick Lawrence (trans.), Cambridge, MA: MIT Press, 1989.
-* –––, 1963, _Theorie und Praxis: Sozialphilosophische Studien_, Neuwied am Rhein and Berlin: Luchterhand. New and extended edition Frankfurt am Main: Suhrkamp, 1971; translated as _Theory and Practice_, John Viertel (trans.), Boston: Beacon Press, 1973.
-* –––, 1968a, _Technik und Wissenschaft als ‘Ideologie’_, Frankfurt am Main: Suhrkamp; translated as Chapters 4–6 of _Toward a Rational Society: Student Protest, Science, and Politics_, Jeremy J. Shapiro (trans.), Boston: Beacon Press, 1970.
-* –––, 1968b, _Erkenntnis und Interesse_, Frankfurt am Main: Suhrkamp; translated as _Knowledge and Human Interests_, Jeremy J. Shapiro (trans.), Boston: Beacon Press, 1971.
-* –––, 1973a, “Nachwort”, in Jürgen Habermas, _Erkenntnis und Interesse, Mit einem neuen Nachwort_, Frankfurt am Main: Suhrkamp, pp. 367–417; translated as “A Postscript to _Knowledge and Human Interests_”, Christian Lenhardt (trans.), _Philosophy of the Social Sciences_, 3: 157–189.
-* –––, 1973b, _Legitimationsprobleme_ _im Spätkapitalismus_, Frankfurt am Main: Suhrkamp; translated as _Legitimation Crisis_, Thomas McCarthy (trans.), Boston: Beacon Press, 1975.
-* –––, 1981, _Theorie des kommunikativen Handelns_, 2 vols., Frankfurt am Main: Suhrkamp; translated as _The Theory of Communicative Action_, 2 vols., Thomas A. McCarthy (trans.), Boston: Beacon Press, 1984.
-* –––, 1983a, _Moralbewusstsein und kommunikatives Handeln_, Frankfurt am Main: Suhrkamp, translated as _Moral Consciousness and Communicative Action_, Christian Lenhardt and Shierry Weber Nicholsen (trans.), Cambridge, MA: MIT Press, 1990.
-* –––, 1983b, “Ziviler Ungehorsam: Testfall für den demokratischen Rechtsstaat”, in Peter Glotz (ed.), _Ziviler Ungehorsam im Rechtsstaat_, Frankfurt am Main: Suhrkamp, pp. 29–53; translated as “Civil Disobedience: Litmus Test for the Democratic Constitutional State”, _Berkeley Journal of Sociology_, 30: 95–116.
-* –––, 1985, _Der philosophische Diskurs der Moderne: Zwölf Vorlesungen_, Frankfurt am Main: Suhrkamp; translated as _The Philosophical Discourse of Modernity: Twelve Lectures_, Frederick Lawrence (trans.), Cambridge, MA: MIT Press, 1987.
-* –––, 1991, _Erläuterungen zur Diskursethik_, Frankfurt am Main: Suhrkamp; translated as _Justification and Application: Remarks on Discourse Ethics_, Ciaran Cronin (trans.), Cambridge, MA: MIT Press, 1993.
-* –––, 1992, _Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats_, Frankfurt am Main: Suhrkamp; translated as _Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy_, William Rehg (trans.), Cambridge, MA: MIT Press, 1996.
-* –––, 1995a, “Reconciliation Through the Public Use of Reason: Remarks on John Rawls’s Political Liberalism”, _The Journal of Philosophy_, 92(3): 109–131. doi:10.5840/jphil199592335
-* –––, 1995b, “Kants Idee des ewigen Friedens aus dem historischen Abstand von 200 Jahren”, _Kritische Jusitiz_, 3: 293–319; translated as “Kant’s Idea of Perpetual Peace, with the Benefit of Two Hundred Years’ Hindsight”, in James Bohman and Matthias Lutz-Bachmann (eds.), _Perpetual Peace: Essays on Kant’s Cosmopolitan Ideal_, Cambridge, MA: MIT Press, 1997, pp. 113–153.
-* –––, 1996, “Vernünftig versus Wahr oder die Moral der Weltbilder”, in _Die Einbeziehung des Anderen: Studien zur politischen Theorie_, Frankfurt am Main: Suhrkamp; translated as “‘Reasonable’ versus ‘True,’ or the Morality of Worldviews”, Ciaran Cronin (trans.), in _The Inclusion of the Other: Studies in Political Theory_, Ciaran Cronin and Pablo De Greiff (eds.), Cambridge, MA: MIT Press, 1998, pp. 75-105.
-* –––, 1998, _Die postnationale Konstellation: politische Essays_, Frankfurt am Main: Suhrkamp; translated as _The Postnational Constellation: Political Essays_, Max Pensky (ed./trans.), Cambridge, MA: MIT Press, 2001.
-* –––, 1999, _Wahrheit und Rechtfertigung: philosophische Aufsätze_, Frankfurt am Main: Suhrkamp; translated as _Truth and Justification_, Barbara Fultner (trans.), Cambridge, MA: MIT Press, 2003.
-* –––, 2005, _Zwischen_ _Naturalismus und Religion. Philosophische Aufsätze_, Frankfurt am Main: Suhrkamp; translated as _Between Naturalism and Religion_, Ciaran Cronin (trans.), Malden, MA: Polity, 2008.
-* –––, 2006, “Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension? The Impact of Normative Theory on Empirical Research”, _Communication Theory_, 16(4): 411–426. doi:10.1111/j.1468-2885.2006.00280.x
-* –––, 2019, _Auch eine Geschichte der Philosophie_, 2 vols., Berlin: Suhrkamp; part of volume 1 translated as _Also a History of Philosophy, Volume 1: The Project of a Genealogy of Postmetaphysical Thinking_, Ciaran Cronin (trans.), Cambridge: Polity, 2023.
-* –––, 2021, “Überlegungen und Hypothesen zu einem erneuten Strukturwandel der politischen Öffentlichkeit”, in: Martin Seeliger and Sebastian Sevignani (eds.), _Ein neuer Strukturwandel der Öffentlichkeit?_, Baden-Baden: Nomos Verlag, 470–500; translated as “Reflections and Hypotheses on a Further Structural Transformation of the Political Public Sphere”, Ciaran Cronin (trans.), _Theory, Culture & Society_, 39(4) (2022): 145–171. doi:10.1177/02632764221112341
-* Hall, Stuart, 2021, _Selected Writings on Race and Difference_, Durham, NC: Duke University Press.
-* Harcourt, Bernard E., 2020, _Critique and Praxis_, New York: Columbia University Press.
-* Haslanger, Sally, 2017a, “Culture and Critique”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 91: 149–173. doi:10.1093/arisup/akx001
-* –––, 2017b, “Racism, Ideology, and Social Movements”, _Res Philosophica_, 94(1): 1–22. doi:10.11612/RESPHIL.1547
-* Heath, Joseph, 2014, “Rebooting Discourse Ethics”, _Philosophy & Social Criticism_, 40(9): 829–866. doi:10.1177/0191453714545340
-* Hedrick, Todd, 2010, _Rawls and Habermas: Reason, Pluralism, and the Claims of Political Philosophy_, Stanford, CA: Stanford University Press.
-* –––, 2019, _Reconciliation and Reification: Freedom’s Semblance and Actuality from Hegel to Contemporary Critical Theory_, Oxford: Oxford University Press.
-* Heberle, Renée (ed.), 2006, _Feminist Interpretations of Theodor Adorno_, University Park, PA: The Pennsylvania University Press.
-* Honneth, Axel, 1985, _Kritik der Macht: Reflexionsstufen einer kritischen Gesellschaftstheorie_, Frankfurt am Main: Suhrkamp; translated as _Critique of Power: Reflective Stages in a Critical Social Theory_, Kenneth Baynes (trans.), Cambridge, MA: MIT Press, 1991.
-* –––, 1992, _Kampf um Anerkennung: Zur moralischen Grammatik sozialer Konflikte_, Frankfurt am Main: Suhrkamp; translated as _The Struggle for Recognition: The Moral Grammar of Social Conflicts_, Joel Anderson (trans.), Cambridge: Polity, 1995.
-* –––, 1994, “Die soziale Dynamik von Mißachtung: Zur Ortsbestimmung einer kritischen Gesellschaftstheorie”, _Leviathan_, 22(1): 78–93; translated as “The Social Dynamics of Disrespect: On the Location of Critical Theory Today”, John Farrell (trans.), _Constellations_, 1(2): 255–69, reprinted in in Axel Honneth, _Disrespect: The Normative Foundations of Critical Theory_, Cambridge: Polity Press, 2007, pp. 63–79.
-* –––, 1998, “Über die Möglichkeit einer erschließenden Kritik. Die _Dialektik der Aufklärung_ im Horizont gegenwärtiger Debatten über Sozialkritik”, _Paradigmi. Rivista di critica filosofica_, 16(48): 501–514; translated as “The Possibility of a Disclosing Critique of Society: The _Dialectic of Enlightenment_ in Light of Current Debates in Social Criticism”, _Constellations_, 7(1) (2000): 116–127. doi:10.1111/1467-8675.00173
-* –––, 2000, _Das Andere der Gerechtigkeit_; translated as _Disrespect: The Normative Foundations of Critical Theory_, Joseph Ganahl (trans.), Cambridge: Polity, 2007.
-* –––, 2001, _Leiden an Unbestimmtheit: Eine Reaktualisierung der Hegelschen Rechtsphilosophie_, Stuttgart: Reclam; translated as _The Pathologies of Individual Freedom: Hegel’s Social Theory_, Ladislaus Löb (trans.), Princeton: Princeton University Press, 2010.
-* –––, 2003, “Redistribution as Recognition”, in N. Fraser and A. Honneth (eds.), _Redistribution or Recognition? A Political-Philosophical Exchange_, London: Verso, pp. 110–197.
-* –––, 2004, “Eine soziale Pathologie der Vernunft. Zur intellektuellen Erbschaft der Kritischen Theorie”, in Christoph Halbig and Michael Quante (eds.), _Axel Honneth: Sozialphilosophie zwischen Kritik und Anerkennung_, Münster: LIT-Verlag, pp. 9-32; translated as “A Social Pathology of Reason: On the Intellectual Legacy of Critical Theory”, in A. Honneth\*, Pathologies of Reason: On the Legacy of Critical Theory\*, New York: Columbia University Press, 2009, pp. 19-42.
-* –––, 2005, _Verdinglichung: Eine anerkennungstheoretische Studie_, Frankfurt am Main: Suhrkamp; translated as _Reification_, Martin Jay (ed.), New York: Oxford University Press, 2008.
-* –––, 2010, _Das Ich im Wir: Studien zur Anerkennungstheorie_, Berlin: Suhrkamp; translated as _The I in We: Studies in the Theory of Recognition_, Joseph Ganahl (trans.), Cambridge: Polity, 2012.
-* –––, 2011, _Das Recht der Freiheit: Grundriß einer demokratischen Sittlichkeit_, Berlin: Suhrkamp; translated as _Freedom’s Right: The Social Foundations of Democratic Life_, Joseph Ganahl (trans.), New York: Columbia University Press, 2014.
-* –––, 2017, “Is There an Emancipatory Interest? An Attempt to Answer Critical Theory’s Most Fundamental Question”, _European Journal of Philosophy_, 25: 908–920. doi:10.1111/ejop.12321
-* –––, 2022, “‘Labour’, A Brief History of a Modern Concept”, _Philosophy_, 97(2), 149–167. doi:10.1017/S003181912100036X
-* –––, 2023, _Der arbeitende Souverän_, Berlin: Suhrkamp; translation, _The Working Sovereign_, Cambridge: Polity, forthcoming.
-* Honneth, Axel, and Hans Joas (eds.), 1986, _Kommunikatives_ _Handeln: Beiträge zu Jürgen Habermas ‘Theorie des Kommunikativen Handelns_, Frankfurt am Main: Suhrkamp; translated as _Communicative Action: Essays on Jürgen Habermas’s_ The Theory of Communicative Action, Jeremy Gaines and Doris L. Jones (trans.), Cambridge, MA: MIT Press, 1991.
-* Horkheimer, Max, 1931, “Die gegenwärtige Lage der Sozialphilosophie und die Aufgaben eines Instituts für Sozialforschung”, _Frankfurter Universitätsreden_, XXXVII: 3–16; translated as “The Present Situation of Social Philosophy and the Tasks of an Institute for Social Research”, John Torpey (trans.), in Max Horkheimer, _Between Philosophy and Social Science: Selected Early Writings_, Cambridge, MA: MIT Press, 1993, pp. 1–14. Retranslated as “The State of Contemporary Social Philosophy and the Tasks of an Institute for Social Research”, _Journal for Cultural Research_, Peter Wagner (trans.), 22(2) (2018): 113–121. doi:10.1080/14797585.2018.1461354
-* –––, 1933, “Materialismus und Moral”, _Zeitschrift für Sozialforschung_, 2(2): 162–197; translated as “Materialism and Morality”, G. Frederick Hunter (trans.), in Max Horkheimer, _Between Philosophy and Social Science: Selected Early Writings_, Cambridge: MIT Press, 1993, pp. 15–47.
-* –––, 1936a, “Egoismus und Freiheitsbewegung: Zur Anthropologie des bürgerlichen Zeitalters”, _Zeitschrift für Sozialforschung_, 5(2): 161–234; translated as “Egoism and Freedom Movements: On the Anthropology of the Bourgeois Era”, G. Frederick Hunter (trans.), in Max Horkheimer, _Between Philosophy and Social Science: Selected Early Writings_, Cambridge: MIT Press, 1993, pp. 49–110.
-* ––– (ed.), 1936b, _Studien über Autorität und Familie: Forschungsberichte aus dem Institut für Sozialforschung_, Paris: Librairie Félix Alcan.
-* –––, 1937a, “Traditionelle und kritische Theorie”, _Zeitschrift für Sozialforschung_, 6(2): 245–294; translated as “Traditional and Critical Theory”, Matthew J. O’Connell (trans.), in Max Horkheimer, _Critical Theory: Selected Essays_, New York: Continuum, 1972, pp. 188–243.
-* –––, 1937b, “Nachtrag”, _Zeitschrift für Sozialforschung_, 6(3): 625–631; translated as “Postscript”, Matthew J. O’Connell (trans.), in Max Horkheimer, _Critical Theory: Selected Essays_, New York: Continuum, 1972, pp. 244–252.
-* –––, 1941, “Art and Mass Culture”, _Zeitschrift für Sozialforschung_, 9(2), 290–304, republished in Max Horkheimer, _Critical Theory: Selected Essays_, New York: Continuum, 1972, pp. 273–290.
-* Horkheimer, Max, and Theodor W. Adorno, 1947, _Dialektik_ _der Aufklärung: Philosophische Fragmente_, Amsterdam: Querido; translated as _Dialectic of Enlightenment_, Edmund Jephcott (trans.), Stanford, CA: Stanford University Press, 2002.
-* Hoy, David Couzens and Thomas McCarthy, 1994, _Critical Theory_, Oxford: Blackwell.
-* Ibsen, Malte Froslee, 2023, _A Critical Theory of Global Justice: The Frankfurt School and World Society_, Oxford: Oxford University Press.
-* Ikäheimo, Heikki, Kristina Lepold and Titus Stahl (eds.), 2021, _Recognition and Ambivalence_, New York: Columbia University Press.
-* Ingram, David, 2018, _World Crisis and Underdevelopment: A Critical Theory of Poverty, Agency, and Coercion_, Cambridge: Cambridge University Press.
-* Ingram, James, 2013, _Radical Cosmopolitics: The Ethics and Politics of Democratic Universalism_, New York: Columbia University Press.
-* –––, 2019, “Critical Theory and Postcolonialism”, in Gordon, Peter, Espen Hammer, and Axel Honneth (eds.), _The Routledge Companion to the Frankfurt School_, London: Routledge, pp. 500–513.
-* Jaeggi, Rahel, 2005, _Entfremdung: Zur Aktualität eines sozialphilosophischen Problems_, Campus; translated as _Alienation_, Frederick Neuhouser and Alan E. Smith (trans.), New York: Columbia University Press, 2014.
-* –––, 2008, “Re-Thinking Ideology”, in Christopher Zurn, Boujdewijn de Bruijn (eds.), _New_ _Waves in Political Philosophy_, Basingstoke: Palgrave Macmillan, 2008.
-* –––, 2014, _Kritik von Lebensformen_, Berlin.: Suhrkamp; translated as _Critique of Forms of Life_, Ciaran Cronin (trans.), Cambridge, MA: Harvard University Press, 2018.
-* –––, 2017a, “Crisis, Contradiction, and the Task of a Critical Theory”, in Banu Bargu und Chiara Bottici (eds.), _Feminism, Capitalism, and Critique. Essays in Honor of Nancy Fraser_, Basingstoke: Palgrave Macmillan, pp. 209–224.
-* –––, 2017b, “Pathologies of Work”, _Women’s Studies Quarterly_, 45(3/4): 59–76. doi:10.1353/wsq.2017.0044
-* –––, 2022, “Modes of Regression: The Case of Ressentiment”, _Critical Times_, 5(3): 501–537. doi:10.1215/26410478-10030204
-* Jay, Martin, 1973, _The Dialectical Imagination_, Boston and Toronto: Little, Brown.
-* –––, 1984, _Marxism and Totality_, Cambridge: Polity.
-* Kelley, Robin D. G., 2002, _Freedom Dreams: The Black Radical Imagination_, Boston: Beacon Press. Revised and expanded edition published in 2022.
-* Kerner, Ina, 2018, “Postcolonial Theories as Global Critical Theories”, _Constellations_, 25(4): 614– 628. doi:10.1111/1467-8675.12346
-* Klein, Steven, 2020, _The Work of Politics: Making a Democratic Welfare State_, Cambridge: Cambridge University Press.
-* Kompridis, Nikolas, 2006, _Critique and Disclosure: Critical Theory between Past and Future_, Cambridge, MA: MIT Press.
-* Koopman, Colin, 2013, _Genealogy as Critique_, Bloomington: Indiana University Press.
-* Kracauer, Siegfried, 1927, “Das Ornament der Masse”, _Frankfurter Zeitung_, July 9–10, 1927; translated as “Mass Ornament”, Barbara Correll and Jack Zipes (trans.) _New German Critique_, 5 (1975): 67–76.
-* –––, 2013, _Totalitäre_ _Propaganda_, Bernd Stiegler (ed.), Berlin: Suhrkamp. Selections are translated as part of “Studies of Totalitarianism, Propaganda, and the Masses (1936–1940)” in Siegfried Kracauer, _Selected Writings on Media, Propaganda, and Political Communication_, Jaeho Kang, Graeme Gilloch, and John Abromeit (eds.), New York: Columbia University Press, 2022.
-* Laclau, Ernesto, 1992, “Beyond Emancipation”, in _Emancipation(s)_, London: Verso, 1996, pp. 1–19.
-* Lafont, Cristina, 2019, _Democracy without Shortcuts_: _A Participatory Conception of Deliberative Democracy_, Oxford: Oxford University Press.
-* Lara, Maria Pia, 1998, _Moral Textures: Feminist Narratives in the Public Sphere_, Cambridge: Polity.
-* –––, 2021, _Beyond the Public Sphere: Film and the Feminist Imaginary_, Evanston, IL: Northwestern University Press.
-* Leeb, Claudia, 2017, _Power and Feminist Agency in Capitalism: Toward a New Theory of the Political Subject_, Oxford: Oxford University Press.
-* Löwenthal, Leo, and Norbert Guterman, 1949, _Prophets of Deceit: A Study of the Techniques of the American Agitator_ (Studies in Prejudice: Volume 5), with a new Introduction by Alberto Toscano, London: Verso, 2021.
-* Löwy, Michael, 2001, _Walter Benjamin: Avertissement d’incendie_, Paris: Presses Universitaires de France; translated as _Fire Alarm: Reading Walter Benjamin’s ‘On the Concept of History’_, Chris Turner (trans.), London: Verso, 2016.
-* Loick, Daniel, 2012, _Kritik der Souveränität_, Frankfurt: Campus; translated as _A Critique of Sovereignty_, Amanda DeMarco (trans.) London: Rowman & Littlefield, 2018.
-* –––, 2021, “The Ethical Life of Counter-Communities”, _Critical Times_, 4(1): 1–28. doi:10.1215/26410478-8855203
-* Lukács, Georg, 1923, “Verdinglichung und das Bewußtsein des Proletariats”, in _Geschichte_ _und Klassenbewußtsein_, Berlin: Malik; translated as “Reification and the Consciousness of the Proletariat”, in _History and Class Consciousness_, Rodney Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 83–222.
-* –––, 1963, “Vorwort” to _Die Theorie des Romans_, Berlin: Luchterhand; translated as _The Theory of the Novel_, Anna Bostock (trans.), Cambridge, MA: MIT Press, 1974.
-* Malm, Andreas, 2020, _How to Blow Up a Pipeline: Learning to Fight in a World on Fire_, London: Verso.
-* Marasco, Robyn, 2006, “‘Already the Effect of the Whip’: Critical Theory and the Feminine Ideal”, _differences_, 17(1): 88–115. doi:10.1215/10407391-2005-005
-* –––, 2015, _The Highway of Despair: Critical Theory After Hegel_, New York: Columbia University Press.
-* –––, 2018, “There’s a Fascist in the Family: Critical Theory and Antiauthoritarianism”, _South Atlantic Quarterly_, 117(4): 791–813. doi:10.1215/00382876-7165871
-* Marcuse, Herbert, 1937, “Philosophie und kritische Theorie”, _Zeitschrift für Sozialforschung_, 6(3): 625–647; translated as “Philosophy and Critical Theory”, in H. Marcuse (ed.), _Negations_, Jeremy J. Shapiro (trans), London: MayFlyBooks, 1968, pp. 99–117.
-* –––, 1941, _Reason and Revolution: Hegel and the Rise of Social Theory_, Oxford: Oxford University Press.
-* –––, 1955, _Eros and Civilization_, Boston: Beacon Press.
-* –––, 1964, _One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society_, Boston: Beacon Press.
-* –––, 1967, “Liberation from the Affluent Society” in Douglas Kellner (ed.), _The New Left and the 1960s: Collected Papers of Herbert Marcuse, Volume 3_, New York: Routledge, 2004.
-* –––, 1968, “Beyond One-Dimensional Man”, in Douglas Kellner (ed.), _Towards a Critical Theory of Society_, _Collected Papers of Herbert Marcuse, Volume 2_, New York: Routledge, 2001.
-* –––, 1969, _An Essay on Liberation_, Boston: Beacon Press.
-* –––, 1974, “Marxism and Feminism”, _Women’s Studies_, 2: 279–288.
-* Marx, Karl, 1843, “Brief an Ruge, September 1843”, in Karl Marx and Friedrich Engels, _Briefwechsel bis April 1846_ (Karl Marx/Friedrich Engels Gesamtausgabe, vol. III.1), Berlin: Dietz: 1975, pp. 54–57; translated as “Letter to Ruge, September 1843”, in _Karl Marx: Early Writings_ (Karl Marx/Friedrich Engels Collected Works, vol. 1), Rodney Livingstone (trans.), London: Lawrence and Wishart, 1975, pp. 209–211.
-* –––, 1844, “Zur Kritik der Hegelschen Rechtsphilosophie: Einleitung”, in _Karl Marx: Werke, Artikel, Entwürfe: März 1843 – August 1944_ (Karl Marx/Friedrich Engels Gesamtausgabe, vol. I.2), Berlin: Dietz, 1975, pp. 170–184; translated as “Contribution to the Critique of Hegel’s Philosophy of Law”, Martin Milligan and Barbara Ruhemann (trans.), in _Karl Marx March 1843_ – _August 1944_ (Karl Marx/Friedrich Engels Collected Works, vol. 3), London: Lawrence and Wishart, 1975, pp. 3–127.
-* –––, 1846, _Die deutsche Ideologie: Manuskripte und Drucke_ (Karl Marx/Friedrich Engels Gesamtausgabe, vol. I.5), Berlin: De Gruyter/Akademie, 2017; translated as _The German Ideology_ (Karl Marx/Friedrich Engels Collected Works, vol. 5), Clemens Dutt, W. Lough, and C. P. Magill (trans.), London: Lawrence and Wishart, 1976.
-* –––, 1867, _Das Kapital: Kritik der politischen Ökonomie. Erster Band (Hamburg 1867)_ (Karl Marx/Friedrich Engels Gesamtausgabe, vol. II.5), Berlin: Dietz, 1983; translated as _Capital, Volume I_ (Karl Marx/Friedrich Engels Collected Works, vol. 35), London: Lawrence and Wishart, 1996.
-* Mbembe, Achille, 2016, _Politiques de l’inimitié_; translated as _Necropolitics_, Steven Corcoran (trans.), Durham, NC: Duke University Press, 2019.
-* McAfee, Noëlle, 2019, _Fear of Breakdown: Politics and Psychoanalysis_, New York: Columbia University Press.
-* McCarthy, Thomas, 1991, _Ideals and Illusions_: _On Reconstruction and Deconstruction in Contemporary Critical Theory_, Cambridge, MA: MIT Press.
-* –––, 2004, “Political Philosophy and Racial Injustice: From Normative to Critical Theory” in Seyla Benhabib and Nancy Fraser (eds.), _Pragmatism, Critique, Judgment: Essays for Richard J. Bernstein_, Cambridge, MA: MIT Press, pp. 147–168.
-* –––, 2009, _Race, Empire, and the Idea of Human Development_, Cambridge: Cambridge University Press.
-* McNay, Lois, 2022, _The Gender of Critical Theory: On the Experiential Grounds of Critique_, Oxford: Oxford University Press.
-* Medina, José, 2013, _The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations_, Oxford: Oxford University Press.
-* Meehan, Johanna (ed.), 1995, _Feminists Read Habermas: Gendering the Subject of Discourse_, New York: Routledge.
-* Mendieta, Eduardo, 2007, _Global Fragments: Globalizations, Latinamericanisms, and Critical Theory_, New York: SUNY Press.
-* Menke, Christoph, 1988, _Die Souveränität der Kunst: Ästhetische Erfahrung nach Adorno und Derrida_; translated as _The Sovereignty of Art: Aesthetic Negativity in Adorno and Derrida_, Neil Solomon (trans.), Cambridge, MA: MIT Press, 1998.
-* –––, 2000, _Spiegelungen der Gleichheit_, Berlin: Akademie; translated as _Reflections of Equality_, Howard Rouse and Andrei Denejkine (trans.), Stanford, CA: Stanford University Press, 2006.
-* –––, 2015, _Kritik der Rechte_, Berlin: Suhrkamp; translated as _Critique of Rights_, Christopher Turner (trans.), Cambridge: Polity, 2020.
-* Mills, Charles, 1988, “Alternative Epistemologies”, _Social Theory and Practice_, 14(3): 237–63.
-* –––, 2003, _From Class to Race: Essays in White Marxism and Black Radicalism_, New York: Rowman & Littlefield.
-* –––, 2017, “Criticizing Critical Theory”, in _Critical Theory in Critical Times: Transforming the Global Political and Economic Order_, Penelope Deutscher and Cristina Lafont (eds.), New York: Columbia University Press, pp. 233–250.
-* Milstein, Brian, 2015, _Commercium: Critical Theory from a Cosmopolitan Point of View_, New York: Rowman & Littlefield.
-* Moten, Fred, and Stefano Harney, 2013, _The Undercommons: Fugitive Planning and Black Study_, London: Minor Compositions/Autonomedia.
-* Müller-Doohm, Stefan, 2003, _Adorno: Eine Biographie_, Frankfurt am Main: Suhrkamp; translated as _Adorno: A Biography_, Rodney Livingstone (trans.), Cambridge: Polity, 2005.
-* Negt, Oskar, and Alexander Kluge, 1972, _Öffentlichkeit und Erfahrung: Zur Organisationsanalyse von bürgerlicher und proletarischer Öffentlichkeit_, Frankfurt: Suhrkamp; translated as _Public Sphere and Experience: Analysis of the Bourgeois and Proletarian Public Sphere_, Peter Labanyi, Jamie Owen Daniel, and Assenka Oksiloff (trans.), London: Verso, 2016.
-* Neuhouser, Frederick, 2022, _Diagnosing Social Pathology: Rousseau, Hegel, Marx, and Durkheim_, Cambridge: Cambridge University Press.
-* Neumann, Franz L., 1944, _Behemoth: The Structure and Practice of National Socialism, 1933–1944_, New York: Oxford University Press.
-* Ng, Julia, 2023, “The Action of Non-Action: Walter Benjamin, Wu Wei and the Nature of Capitalism”, _Theory, Culture & Society_, 40(4–5): 219–238. doi:10.1177/02632764231169944
-* Ng, Karen, 2015, “Ideology Critique from Hegel and Marx to Critical Theory”, _Constellations_, 22(3): 393–404. doi:10.1111/1467-8675.12170
-* O’Connor, Brian, 2004, _Adorno’s Negative Dialectic: Philosophy and the Possibility of a Critical Rationality_, Cambridge, MA: MIT Press.
-* Offe, Claus, 1984, _Contradictions of the Welfare State_, John Keane (ed.), Cambridge, MA: The MIT Press.
-* Outlaw, Lucius T., Jr., 2005, _Critical Social Theory in the Interests of Black Folks_, London: Rowman & Littlefield.
-* Owen, David, 2002, “Criticism and Captivity: On Genealogy and Critical Theory”, _European Journal of Philosophy_, 10: 216–230. doi:10.1111/1468-0378.00158
-* Pensky, Max, 1993, _Melancholy Dialectics: Walter Benjamin and the Play of Mourning_, Amherst, MA: University of Massachusetts Press.
-* –––, 2019, “Western Marxism: Revolutions in Theory”, in Peter Gordon and Warren Breckman (eds.), _The Cambridge History of Modern European Thought, Volume 2: The Twentieth Century_, Cambridge: Cambridge University Press, pp. 259–288.
-* Pickford, Henry, 2023, “Adorno and the Categories of Resistance”, _Constellations_. doi:10.1111/1467-8675.12652
-* Pollock, Friedrich, 1941, “State Capitalism: Its Possibilities and Limitations”, _Studies in Philosophy and Social Science_, 9: 200–225.
-* Postone, Moishe, 1980, “Anti-Semitism and National Socialism: Notes on the German Reaction to ‘Holocaust’ ”, _New German Critique_, 19: 97–115. doi:10.2307/487974
-* –––, 1993, _Time, Labor, and Domination: A Reinterpretation of Marx’s Critical Theory_, Cambridge: Cambridge University Press.
-* Rabinbach, Anson, 2000, “Why Were the Jews Sacrificed? The Place of Anti-Semitism in _Dialectic of Enlightenment”_, _New German Critiqu_e, 81: 49–64. doi:10.2307/488545
-* Rawls, John, 1993, _Political Liberalism_, New York: Columbia University Press.
-* –––, 1995, “Political Liberalism: Reply to Habermas”, _The Journal of Philosophy_, 92(3): 132–180. doi:10.2307/2940843
-* Redecker, Eva von, 2018, _Praxis und Revolution_, Frankfurt am Main: Campus; translated as _Praxis and Revolution: A Theory of Social Transformation_, Lucy Duggan (trans.), New York: Columbia University Press, 2022.
-* –––, 2020, “Ownership’s Shadow: Neoauthoritarianism as Defense of Phantom Possession”, _Critical Times_, 3(1): 33–67. doi:10.1215/26410478-8189849
-* Renault, Emmanuel, 2004, _L’expérience de l’injustice: Reconnaissance et clinique de l’injustice_, Paris: La Découverte; translated as _The Experience of Injustice: A Theory of Recognition_, Richard A. Lynch (trans.), New York: Columbia University Press, 2019.
-* –––, 2008, _Souffrances sociales: Sociologie, psychologie et politique_, Paris: La Découverte; translated as _Social Suffering: Sociology, Psychology, Politics_, Maude Dews (trans.), London: Rowman & Littlefield International, 2017.
-* Rensmann, Lars, 2017, _The Politics of Unreason: The Frankfurt School and the Origins of Modern Antisemitism_, Albany, NY: State University of New York Press.
-* Roberts, Neil, 2015, _Freedom as Marronage_, Chicago: University of Chicago Press.
-* Rorty, Richard, 1985, “Habermas and Lyotard on Postmodernism”, in Richard J. Bernstein (ed.), _Habermas and Modernity_, Cambridge, MA: MIT Press, pp. 161–75.
-* Rosa, Hartmut, 2016, _Resonanz: Eine Soziologie der Weltbeziehung_, Berlin: Suhrkamp; translated as _Resonance: A Sociology of Our Relationship to the World_, James C. Wagner (trans.), Cambridge: Polity, 2019.
-* Rosa, Hartmut, Christoph Henning, and Arthur Bueno (eds.), 2021, _Critical Theory and New Materialisms_, New York: Routledge.
-* Rosen, Michael, 1996, _On Voluntary Servitude: False Consciousness and the Theory of Ideology_, Cambridge, MA: Harvard University Press.
-* Rössler, Beate, 2007, “Work, Recognition, Emancipation”, in Bert van den Brink and David Owen (eds.), _Recognition and Power: Axel Honneth and the Tradition of Critical Social Theory_. Cambridge: Cambridge University Press, pp. 135–163.
-* Saar, M. 2002, “Genealogy and Subjectivity”, _European Journal of Philosophy_, 10(2): 231–245. doi:10.1111/1468-0378.00159
-* –––, 2018, “What Is Social Philosophy? Or: Order, Practice, Subject”, _Proceedings of the Aristotelian Society_, 118(2): 207–223. doi:10.1093/arisoc/aoy009
-* –––, 2020, “Rethinking Resistance: Critical Theory before and after Deleuze”, _Coils of the Serpent: Journal for the Study of Contemporary Power_, 5(6): 68–80. \[[Saar 2020 available online](https://ul.qucosa.de/api/qucosa%3A72855/attachment/ATT-0/)].
-* Said, Edward, 1993, _Culture and Imperialism_, New York: Vintage.
-* Schaub, Jörg, 2015, “Misdevelopments, Pathologies, and Normative Revolutions: Normative Reconstruction as Method of Critical Theory”, _Critical Horizons_, 16(2): 107–130. doi:10.1179/1440991715Z.00000000043
-* Scheuerman, William, 1994, _Between the Norm and the Exception: The Frankfurt School and the Rule of Law_, Cambridge, MA: MIT Press.
-* –––, (ed.), 1996, _The Rule of Law under Siege: Selected Essays of Franz L. Neumann and Otto Kirchheimer_, Berkeley: University of California Press.
-* –––, 2018, _Civil Disobedience_, Cambridge: Polity Press.
-* Sealey, Kris F. and Benjamin P. Davis (eds.), forthcoming, _Creolizing Critical Theory: New Voices in Caribbean Philosophy_, New York: Rowman & Littlefield.
-* Seeliger, Martin and Sebastian Sevignani (eds.), 2022, _Special Issue: A New Structural Transformation of the Public Sphere?_, _Theory, Culture & Society_, 39(4).
-* Shelby, Tommie, 2003, “Ideology, Racism, and Critical Social Theory”, _Philosophical Forum_, 34(2): 153–188. doi:10.1111/1467-9191.00132
-* Smith, William, 2013, _Civil Disobedience and Deliberative Democracy_, London: Routledge.
-* Stahl, Titus, 2013a, _Immanente Kritik: Elemente einer Theorie sozialer Praktiken_, Frankfurt: Campus; translated as _Immanent Critique_, John-Baptiste Oduor (trans.), London: Rowman & Littlefield, 2022.
-* –––, 2013b, “Habermas and the Project of Immanent Critique”, _Constellations_, 20(4): 533–552. doi:10.1111/1467-8675.12057
-* Stanley, Jason, 2015, _How Propaganda Works_, Princeton: Princeton University Press.
-* Thompson, Michael J. (ed.), 2017, _The Palgrave Handbook of Critical Theory_, New York: Palgrave Macmillan. doi:10.1057/978-1-137-55801-5
-* Vázquez-Arroyo, Antonio Y., 2018, “Critical Theory, Colonialism, and the Historicity of Thought”, _Constellations_, 25: 54–70. doi:10.1111/1467-8675.12348
-* Virno, Paolo, 2004, _A Grammar of the Multitude: For an Analysis of Contemporary Forms of Life_, New York: Semiotext(e).
-* Vogel, Steven, 1996, _Against Nature: The Concept of Nature in Critical Theory_, New York: SUNY Press.
-* –––, 2011, “On Nature and Alienation”, in Andrew Biro (ed.), _Critical Ecologies: The Frankfurt School and Contemporary Environmental Crises_, Toronto: University of Toronto Press.
-* Vogelmann, Frieder, 2016, “Measuring, Disrupting, Emancipating: Three Pictures of Critique”, _Constellations_, 24(1): 101–112. doi:10.1111/1467-8675.12254
-* –––, 2021, “One Step Forward, Two Steps Back: Idealism in Critical Theory”, _Constellations_, 28(3): 322–336. doi:10.1111/1467-8675.12548
-* Warner, Michael, 2002, _Publics and Counterpublics_, New York: Zone Books.
-* Wellmer, Albrecht, 1969, _Kritische_ _Gesellschaftstheorie und Positivismus_, Frankfurt am Main: Suhrkamp; translated as _Critical Theory of Society_, John Gumming (trans.), New York: Herder and Herder, 1971.
-* –––, 1983, “Reason, Utopia, and the Dialectic of Enlightenment”, _Praxis International_, 3(2): 83–107.
-* –––, 1985/86, _Zur Dialektik von Moderne und Postmoderne_, Frankfurt am Main: Suhrkamp, 1985, and _Ethik und Dialog_, Frankfurt am Main: Suhrkamp, 1986. Portions of both books are translated in _The Persistence of Modernity: Aesthetics, Ethics and Postmodernism_, David Midgley (trans.), Cambridge, MA: MIT Press, 1991.
-* –––, 1993, _Endspiele: Die unversöhnliche Moderne_, Frankfurt am Main: Suhrkamp; translated as _Endgames: The Irreconcilable Nature of Modernity_, David Midgley (trans.), Cambridge, MA: MIT Press 1998.
-* –––, 2014, “On Critical Theory”, _Social Research_, 81(3): 705–733. doi:10.1353/sor.2014.0045
-* Wheatland, Thomas, 2009, _The Frankfurt School in Exile_, Minneapolis: University of Minnesota Press.
-* Whitebook, Joel, 1995, _Perversion and Utopia: A Study in Psychoanalysis and Critical Theory_, Cambridge, MA: MIT Press.
-* –––, 2021, “Misuse of Winnicott: On Axel Honneth’s Appropriation of Psychoanalysis”, _Constellations_, 28(3): 306–321. doi:10.1111/1467-8675.12582
-* Wiggershaus, Rolf, 1986, _Die Frankfurter Schule: Geschichte, theoretische Entwicklung, politische Bedeutung_, München: Hanser; translated as _The Frankfurt School: Its History, Theories, and Political Significance_, Michael Robertson (trans.), Cambridge, MA: MIT Press, 1994.
-* Wimbauer, Christine, 2023, “Taking Care Seriously: Gendering Honneth’s _The Working Sovereign – A Normative Theory of Work_”, _Journal of Classical Sociology_, 23(3): 389–400. doi:10.1177/1468795X231170827
-* Wolin, Richard, 1994, _Walter Benjamin: An Aesthetic of Redemption_, Berkeley: University of California Press.
-* Young, Iris Marion, 2000, _Inclusion and Democracy_, Oxford: Oxford University Press.
-* –––, 2001, “Activist Challenges to Deliberative Democracy”, _Political Theory_, 29(5): 670–90. doi:10.1177/0090591701029005004
-* –––, 2007, “Recognition of Love’s Labor: Considering Axel Honneth’s Feminism”, in Bert van den Brink and David Owen (eds.), _Recognition and Power: Axel Honneth and the Tradition of Critical Social Theory_. Cambridge: Cambridge University Press, pp. 189–212.
-* Zaretsky, Eli, 2022, “Donald Trump and the Paranoid Position”, _Critical Historical Studies_, 9(1): 133–157. doi:10.1086/719127
-* Zurn, Christopher, 2011, “Social pathologies as second-order disorders”, in Danielle Petherbridge (ed.), _Axel Honneth: Critical Essays_, Leiden: Brill, pp. 345–70.
-* –––, 2015, _Axel Honneth: A Critical Theory of the Social_, Cambridge: Polity.
+* Abromeit, John, 2016, “Critical Theory and the Persistence of Right-Wing Populism”, *Logos: A Journal of Modern Society and Culture*, 15(2) \[[Abromeit 2016 available online](https://logosjournal.com/2016/abromeit/)].
+* Adorno, Theodor W., 1931 \[year this lecture was given], “Die Aktualität der Philosophie”, in Theodor W. Adorno, *Gesammelte Schriften I: Philosophische Frühschriften*, Rolf Tiedemann (ed.), Frankfurt am Main: Suhrkamp, 1973, pp. 325–344; translated as “The Actuality of Philosophy”, Benjamin Snow (trans.), *Telos*, 31 (1977): 120–133.
+* –––, 1936 “Wiesengrund-Adorno an Benjamin, 18. März 1936”, in Theodor W. Adorno and Walter Benjamin, *Briefwechsel 1928–1940*, Henri Lonitz (ed.), Frankfurt am Main, 1994, pp. 168–177; translated as March 18, 1936, “Wiesengrund-Adorno to Benjamin, March 18, 1936”, Theodor W. Adorno and Walter Benjamin\*, The Complete Correspondence 1928–1940\*,, Nicholas Walker (trans.), Henri Lonitz (ed.), Cambridge: Polity Press, 1999, pp. 127–133.
+* –––, 1938, “Über den Fetischcharakter in der Musik und die Regression des Hörens”, *Zeitschrift für Sozialforschung*, 7(3), 321–356; translated as “On the Fetish Character in Music and the Regression of Listening”, Susan L. Gillespie (trans.), in Theodor W. Adorno, *Essays on Music*, Richard Leppert (ed.), Berkeley: University of California Press, 2002, pp. 288–317.
+* –––, 1951a, “Kulturkritik und Gesellschaft”, in Karl Gustav Specht (ed.), *Soziologische Forschung unserer Zeit*, Köln and Opladen: Westdeutscher Verlag, 1951, pp. 228–240, republished in Theodor W. Adorno, *Prismen: Kulturkritik und Gesellschaft*, Frankfurt am Main: Suhrkamp, 1955, pp. 7–31; translated as “Cultural Criticism and Society”, in Theodor W. Adorno, *Prisms*, Samuel Weber and Shierry Weber (trans.), Cambridge, MA: MIT Press, 1981, pp. 17–34.
+* –––, 1951b, “Freudian Theory and the Pattern of Fascist Propaganda”, in Géza Roheim (ed.), *Psychoanalysis and the Social Sciences Vol. 3*, New York: International Universities Press, 279–300. Reprinted in *The Culture Industry: Selected Essays on Mass Culture*, Jay Bernstein (ed.), New York: Routledge, 1991, pp. 132–157.
+* –––, 1951c, *Minima Moralia: Reflexionen aus dem beschädigten Leben*, Frankfurt am Main: Suhrkamp; translated as *Minima Moralia: Reflections from Damaged Life*, Edmund Jephcott (trans.), London: Verso, 2005.
+* –––, 1955, “Schuld und Abwehr”, in Friedrich Pollock (ed.), *Gruppenexperiment: Ein Studienbericht*, Frankfurt am Main: Europäische Verlagsanstalt, 278–428; translated as *Guilt and Defense: On the Legacies of National Socialism in Postwar Germany*, Jeffrey K. Olick and Andrew J. Perrin (eds./trans.), Cambridge, MA: Harvard University Press, 2010.
+* –––, 1957, “Soziologie und empirische Forschung”, in K . Ziegler (ed.), *Wesen und Wirklichkeit des Menschen: Festschrift für Helmuth Plessner*, Göttingen: Vandenhoeck & Ruprecht, pp. 245–260; translated as “Sociology and Empirical Research”, Glyn Adey and David Frisby (trans.), in Theodor W. Adorno et al. (eds.), *The Positivist Dispute in German Sociology*, London: Heinemann, 1976, pp. 68–86.
+* –––, 1963a \[year this transcribed lecture course was given], *Probleme der Moralphilosophie*, Frankfurt am Main: Suhrkamp, 1996; translated as *Problems of Moral Philosophy*, Rodney Livingstone (trans.), Stanford, CA: Stanford University Press, 2000.
+* –––, 1963b, *Drei Studien zu Hegel*, Frankfurt am Main: Suhrkamp; translated as *Hegel: Three Studies*, Shierry Weber Nicholsen (trans.), Cambridge, MA: MIT Press, 1993.
+* –––, 1966a, *Negative Dialektik*, Frankfurt am Main: Suhrkamp; translated as *Negative Dialectics*, E. B. Ashton (trans.), New York: Seabury Press, 1973.
+* –––, 1966b, “Gesellschaft”, in Hermann Kunst and Siegfried Grundmann (eds.), *Evangelisches* *Staatslexikon*, Stuttgart: Kreuz Verlag, pp. 636–643; translated as “Society”, Fredric R. Jameson (trans.), *Salmagundi*, 10–11 (1969): 144–153.
+* –––, 1969a, “Zur Spezifikation der kritischen Theorie”, in Theodor W. Adorno Archiv (ed.), *Adorno. Eine Bildmonographie*, Frankfurt am Main: Suhrkamp, p. 292.
+* –––, 1969b, “Marginalien zu Theorie und Praxis”, *Die Zeit*, No. 33 (1969); translated as “Marginalia to Theory and Praxis”, Henry W. Pickford (trans.), in *Critical Models: Interventions and Catchwords*, New York: Columbia University Press, 2005, pp. 259–278.
+* –––, 1967a \[year this transcribed lecture was given], *Aspekte des neuen Rechtsradikalismus*, Berlin: Suhrkamp, 1999; translated as *Aspects of the New Right-Wing Extremism*, Wieland Hoban (trans.), Cambridge: Polity, 2020.
+* –––, 1967b, “Résumé über Kulturindustrie”, in Theodor W. Adorno, *Ohne Leitbild: Parva Aesthetica*, Frankfurt am Main: Suhrkamp, pp. 60–70; translated as “The Culture Industry Reconsidered”, Anson G. Rabinbach (trans.), in Jay Bernstein, (ed.), *The Culture Industry: Selected Essays on Mass Culture*, New York: Routledge, 1991, pp. 98–106.
+* –––, 1970, *Ästhetische* *Theorie*, Frankfurt am Main: Suhrkamp; translated as *Aesthetic Theory*, Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press, 1977.
+* Adorno, Theodor W., Else Frenkel-Brunswik, Daniel Levinson, and Nevitt Sanford, 1950, *The Authoritarian Personality*, with a new Introduction by Peter E. Gordon, New York: Verso, 2019.
+* Adorno, Theodor W., Hans Albert, Ralf Dahrendorf, Jürgen Habermas, Harald Pilot, and Karl R. Popper, 1969, *Der Positivismusstreit in der deutschen Soziologie*, Neuwied/Berlin: Luchterhand; translated as *The Positivist Dispute in German Sociology*, Glyn Adey and David Frisby (trans.), London: Heinemann, 1976.
+* Adorno, Theodor W. and Herbert Marcuse, 1969, “Correspondence on the German Student Movement”, *New Left Review*, 233 (1999), 123–136.
+* Agamben, Giorgio, 1995, *Homo Sacer: Il potere sovrano e la nuda vita*, Turin: Einaudi; translated as *Homo Sacer: Sovereign Power and Bare Life*, Daniel Heller-Roazen (trans.), Stanford: Stanford University Press, 1998.
+* Allen, Amy, 2008, *The Politics of Our Selves: Power, Autonomy, and Gender in Contemporary Critical Theory*, New York: Columbia University Press.
+* –––, 2010, “Third Generation Critical Theory: Benhabib, Fraser, and Honneth”, in Rosi Braidotti (ed.), *After Poststructuralism: Transitions and Transformations*, Durham: Acumen, pp. 129–48.
+* –––, 2012, “The Public Sphere: Ideology and/or Ideal?”, *Political Theory*, 40(6): 822–829. doi:10.1177/0090591712457664
+* –––, 2014, “Reason, Power and History: Re-reading the *Dialectic of Enlightenment*”, *Thesis Eleven*, 120(1): 10–25. doi:10.1177/0725513613519588
+* –––, 2015, “Emancipation without Utopia: Subjection, Modernity, and the Normative Claims of Feminist Critical Theory”, *Hypatia*, 30(3): 513–29. doi:10.1111/hypa.12160
+* –––, 2016, *The End of Progress: Decolonizing the Normative Foundations of Critical Theory*, New York: Columbia University Press.
+* –––, 2019, “Critical Theory and Feminism”, in Gordon, Peter, Espen Hammer, and Axel Honneth (eds.), *The Routledge Companion to the Frankfurt School*, London: Routledge, pp. 528–541.
+* –––, 2021, *Critique on the Couch: Why Critical Theory Needs Psychoanalysis*, New York: Columbia University Press.
+* Allen, Amy, and Eduardo Mendieta, (eds.), 2021, *Decolonizing Ethics: The Critical Theory of Enrique Dussel*, University Park, PA: Pennsylvania State University Press.
+* Allen, Amy, and Brian O’Connor (eds.), 2019, *Transitional Subjects: Critical Theory and Object Relations*, New York: Columbia University Press.
+* Anderson, Joel, 2000, “The ‘Third Generation’ of the Frankfurt School”, *Intellectual History Newsletter* 22, 49–61.
+* Apel, Karl-Otto, 1985, “Ist die Ethik der idealen Kommunikationsgemeinschaft eine Utopie? Zum Verhältnis von Ethik, Utopie und Utopiekritik”, in Wilhelm Vosskamp (ed.), *Utopieforschung*, Frankfurt: Suhrkamp; translated as “Is the Ideal Communication Community a Utopia? On the Relationship between Ethics, Utopia, and the Critique of Utopia”, David Frisby (trans.), in Seyla Benhabib and Fred Dallmayr (eds.), *The Communicative Ethics Controversy*, Cambridge, MA: MIT Press, 1990, pp. 23–59.
+* –––, 1989, “Normative Begründung der ‘Kritischen Theorie’” durch Rekurs auf lebensweltliche Sittlichkeit? Ein transzendentalpragmatisch orientierter Versuch, mit Habermas gegen Habermas zu denken”, in Axel Honneth, Thomas McCarthy, Claus Offe, and Albrecht Wellmer (eds.), *Zwischenbetrachtungen im Prozess der Aufklärung: Jürgen Habermas zum 60. Geburtstag*, Frankfurt am Main: Suhrkamp, 15–65; translated as “Normatively Grounding ‘Critical Theory’ through Recourse to Lifeworld? A Transcendental-Pragmatic Attempt to Think With Habermas Against Habermas”, William Rehg (trans.), in Axel Honneth, Thomas McCarthy, Claus Offe, and Albrecht Wellmer (eds.), *Philosophical Interventions Into the Unfinished Project of Enlightenment*, Cambridge, MA: MIT Press, 1992, pp. 125–70.
+* Azmanova, Albena, 2014, “Crisis? Capitalism is Doing Very Well. How is Critical Theory?”, *Constellations*, 21(3): 351–365. doi:10.1215/00382876-7165857
+* –––, 2020, *Capitalism on Edge: How Fighting Precarity Can Achieve Radical Change Without Crisis or Utopia*, New York: Columbia University Press.
+* Balibar, Etienne, and Immanuel Wallerstein, 1988, *Race, nation, classe: les identités ambiguës*, Paris: La Découverte; translated as *Race, Nation, Class. Ambiguous Identities*, Chris Turner (trans.), New York: Verso, 1991.
+* Bardawil, Fadi, 2018, “Césaire with Adorno: Critical Theory and the Colonial Problem”, *South Atlantic Quarterly*, 117(4): 773–789. doi:10.1215/00382876-7165857
+* Baum, Bruce, 2015, “Decolonizing Critical Theory”, *Constellations*, 22(3): 420–434. doi:10.1111/1467-8675.12169
+* Baynes, Kenneth, 2016, *Habermas*, New York: Routledge.
+* Benhabib, Seyla, 1986, *Critique, Norm, and Utopia: A Study of the Foundations of Critical Theory*, New York: Columbia University Press.
+* –––, 1992, *Situating the Self: Gender, Community and Postmodernism in Contemporary Ethics*, New York: Routledge.
+* –––, 2004, *The Rights of Others: Aliens, Residents, and Citizens*, Cambridge: Cambridge University Press.
+* Benhabib, Seyla, Judith Butler, Drucilla Cornell, and Nancy Fraser, 1995, *Feminist Contentions: A Philosophical Exchange*, New York: Routledge.
+* Benjamin, Walter, 1920/21, “Zur Kritik der Gewalt”, in *Archiv für Sozialwissenschaft und Sozialpolitik*, 47(3): 809–832; translated as “Toward the Critique of Violence”, Julia Ng (trans.), in Peter Fenves and Julia Ng (eds.), *Toward the Critique of Violence: A Critical Edition*, Stanford University Press, 2021, pp. 39–60.
+* –––, 1936, “Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit”, originally published as “L’œuvre d’art à l’époque de sa réproduction mécanisée”, Pierre Klossowski (trans.), *Zeitschrift für Sozialforschung*, 5(1), 40–68, all textual variants can be found in Walter Benjamin, *Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit* (Walter Benjamin Werke und Nachlaß: Kritische Gesamtausgabe vol. 16), Burkhardt Lindner (ed.), Berlin: Suhrkamp, 2012, the essay was translated as “The Work of Art in the Age of its Technological Reproducibility”, Michael W. Jennings (trans.), *Grey Room*, 39 (2010): 11–37. doi:10.1162/grey.2010.1.39.11
+* –––, 1940, “Über den Begriff der Geschichte”, in Walter Benjamin, *Gesammelte* *Schriften I*, Rolf Tiedemann and Hermann Schweppenhäuser (eds.), Frankfurt am Main, 1974, pp. 691–706; translated as “On the Concept of History”, Harry Zohn (trans.) in Howard Eiland and Michael W. Jennings (eds.) *Walter Benjamin: Selected Writings* (Volume 4), Cambridge, MA: Harvard University Press, 2006, pp. 389–400.
+* –––, 1955, *Schriften*, 2 vols., Theodor W. Adorno and Gretel Adorno (eds.), Frankfurt am Main: Suhrkamp; translated in parts as *Illuminations*, Harry Zohn (trans.), Hannah Arendt (ed.), New York: Harcourt, Brace & World, 1968.
+* Bernstein, Jay, 2001, *Adorno: Disenchantment and Ethics*, Cambridge: Cambridge University Press.
+* Bernstein, Richard, 2010, *The Pragmatic Turn*, Malden, MA: Polity.
+* –––, 2022, *The Vicissitudes of Nature: From Spinoza to Freud*, Malden, MA: Polity.
+* Bhambra, Gurminder K., 2021, “Decolonizing Critical Theory?: Epistemological Justice, Progress, Reparations”, *Critical Times*, 4(1): 73–89. doi:10.1215/26410478-8855227
+* Bhambra, Gurminder K., and John Holmwood, 2021, *Colonialism and Modern Social Theory*, Malden, MA: Polity.
+* Biro, Andrew, 2011, *Critical Ecologies: The Frankfurt School and Contemporary Environmental Crises*, Toronto: University of Toronto Press.
+* Bohman, James, 2003, “Critical Theory as Practical Knowledge: Participants, Observers, and Critics”, in S. P. Turner and P. A. Roth (eds.), *The Blackwell Guide to the Philosophy of the Social Sciences*, Oxford: Blackwell, pp. 91–109.
+* –––, 2007, *Democracy Across Borders: From* Dêmos *to* Dêmoi, Cambridge, MA: MIT Press.
+* Bojadžijev, Manuela, 2020, “Anti-Racism as Method”, in John Solomos (ed.), *The Routledge International Handbook of Contemporary Racisms*, London: Routledge 2020, pp. 193–204.
+* Bourdieu, Pierre, 1980, *Le sens pratique*, Paris: Minuit; translated as _The Logic of Practic_e, Richard Nice (trans.), Stanford: Stanford University Press, 1992.
+* Brown, Wendy (ed.), 2006, “Feminist Theory and the Frankfurt School”: a Special Issue of *differences: A Journal of Feminist Cultural Studies*, 17(1).
+* –––, 2019, *In the Ruins of Neoliberalism: The Rise of Antidemocratic Politics in the West*, New York: Columbia University Press.
+* –––, 2022, “Rethinking Politics and Freedom in the Anthropocene”, *Crisis and Critique*, 9(2): 24–44 \[[Brown 2022 available online](https://www.crisiscritique.org/storage/app/media/nov-25/wendy-brown.pdf)].
+* Brown, Wendy, and Rainer Forst, 2014, *The Power of Tolerance: A Debate*, New York: Columbia University Press.
+* Brown, Wendy, Peter Gordon, and Max Pensky, 2018, *Authoritarianism. Three Inquiries in Critical Theory*, Chicago: The University of Chicago Press.
+* Brunkhorst, Hauke, 1983, “Paradigmenkern und Theoriedynamik der Kritischen Theorie der Gesellschaft”, *Soziale* *Welt*, 34: 22–36; translated as “Paradigm-core and theory-dynamics in critical social theory: people and programs”, Peter Krockenberger (trans.), *Philosophy & Social Criticism*, 24(6) (1998): 67–110.
+* –––, 2002, *Solidarität: Von der Bürgerfreundschaft zur globalen Rechtsgenossenschaft*, Frankfurt am Main: Suhrkamp; translated as *Solidarity: From Civic Friendship to a Global Legal Community*, Jeffrey Flynn (trans.), Cambridge, MA: MIT Press, 2005.
+* –––, 2014, *Critical Theory of Legal Revolutions: Evolutionary Perspectives*, New York: Bloomsbury.
+* Buchstein, Hubertus, 2020, “Otto Kirchheimer and the Frankfurt School: Failed Collaborations in the Search for a Critical Theory of Politics”, *New German Critique*, 47(2): 81–106.
+* Buck-Morss, Susan, 1977, *The Origin of Negative Dialectics: Theodor W. Adorno, Walter Benjamin and the Frankfurt Institute*, New York: The Free Press.
+* –––, 1989, *The Dialectics of Seeing: Walter Benjamin and the Arcades Project*, Cambridge, MA: MIT Press.
+* –––, 1992, “Aesthetics and Anaesthetics: Walter Benjamin’s Artwork Essay Reconsidered”, *October*, 62: 3–41. doi:10.2307/778700
+* –––, 2009, *Hegel, Haiti, and Universal History*, Pittsburgh: University of Pittsburgh Press.
+* Butler, Judith, 1990, *Gender Trouble*, London: Routledge.
+* –––, 1997, *The Psychic Life of Power: Theories in Subjection*, Stanford, CA: Stanford University Press.
+* –––, 2012, *Parting Ways: Jewishness and the Critique of Zionism*, New York: Columbia University Press.
+* –––, 2015, *Notes Toward a Performative Theory of Assembly*, Cambridge, MA: Harvard University Press.
+* Butler, Judith, Jürgen Habermas, Charles Taylor, and Cornel West, 2011, *The Power of Religion in the Public Sphere*, New York: Columbia University Press.
+* Cassegård, Carl, 2021, *Toward a Critical Theory of Nature: Capital, Ecology, and Dialectics*, New York: Bloomsbury.
+* Catlin, Jonathon, 2023, “Antisemitism and Racism ‘After Auschwitz’: Adorno on the ‘Hellish Unity’ of ‘Permanent Catastrophe’ ”, in Marcel Stoetzler (ed.), *Critical Theory and the Critique of Antisemitism*, New York: Bloomsbury, pp. 203–230.
+* Celikates, Robin, 2006, “From Critical Social Theory to a Social Theory of Critique: On the Critique of Ideology after the Pragmatic Turn”, *Constellations*, 13(1): 21–40. doi:10.1111/j.1351-0487.2006.00438.x
+* –––, 2009, *Kritik als soziale Praxis: Gesellschaftliche Selbstverständigung und kritische Theorie*, Frankfurt am Main: Campus; translated as *Critique as Social Practice: Critical Theory and Social Self-Understanding*, Naomi van Steenbergen (trans.), London: Rowman & Littlefield, 2018.
+* –––, 2019a, “Critical Theory and the Unfinished Project of Mediating Theory and Practice”, in Peter Gordon, Espen Hammer, and Axel Honneth (eds.), *The Routledge Companion to the Frankfurt School*, London: Routledge, pp. 206–220.
+* –––, 2019b, “Constituent Power Beyond Exceptionalism: Irregular Migration, Disobedience, and (Re-)Constitution”, *Journal of International Political Theory*, 15(1): 67–81. doi:10.1177/1755088218808311
+* –––, 2022, “Remaking the Demos ‘from Below’? Critical Theory, Migrant Struggles, and Epistemic Resistance”, in Didier Fassin and Axel Honneth (eds.), *Crisis Under Critique: How People Assess, Transform, and Respond to Critical Situations*, New York: Columbia University Press, pp. 97–120.
+* Celikates, Robin, Sally Haslanger, and Jason Stanley (eds.), forthcoming, *Analyzing Ideology*, Oxford: Oxford University Press.
+* Celikates, Robin, Axel Honneth, and Rahel Jaeggi, 2023, “The Working Sovereign: A conversation with Axel Honneth”, *Journal of Classical Sociology*, 23(3): 318–338. doi:10.1177/1468795X231170980
+* Chambers, Simone, 2022, “Can Postmetaphysical Reason Escape its Provincial Roots?”, in Tom Bailey (ed.), *Deprovincializing Habermas: Global Perspectives*, *Second Edition*, New York: Routledge, pp. 229–248.
+* Chari, Anita, 2015, *A Political Economy of the Senses: Neoliberalism, Reification, Critique*, New York: Columbia University Press.
+* Cohen, Jean L., and Andrew Arato, 1992, *Civil Society and Political Theory*, Cambridge, MA: MIT Press.
+* Collins, Patricia Hill, 1990, *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*, London: Routledge. Second edition published in 2000.
+* –––, 2019, *Intersectionality as Critical Social Theory*, Durham and London: Duke University Press. doi:10.1515/9781478007098
+* Cook, Deborah, 2004, *Adorno, Habermas, and the Search for a Rational Society*, London and New York: Routledge.
+* –––, 2011, *Adorno on Nature*, Durham: Acumen.
+* Cooke, Maeve, 2006, *Re-Presenting the Good Society*, Cambridge, MA: MIT Press.
+* –––, 2020, “Ethics and Politics in the Anthropocene”, *Philosophy & Social Criticism*, 46(10): 1167–1181. doi:10.1177/0191453720903491
+* –––, 2023, “Reenvisioning Freedom: Human Agency in Times of Ecological Disaster”, *Constellations*, 30: 119–127. doi:10.1111/1467-8675.12681
+* Cordero, Rodrigo, 2017, *Crisis and Critique: On the Fragile Foundations of Social Life*, New York: Routledge.
+* Coulthard, Glen Sean, 2014, *Red Skin, White Masks: Rejecting the Colonial Politics of Recognition*, Minneapolis: University of Minnesota Press.
+* Crenshaw, Kimberlé, Neil Gotanda, Gary Peller, and Kendall Thomas, 1995, “Introduction”, *Critical Race Theory: The Key Writings that Formed the Movement*, New York: The New Press, pp. viii–xxxii.
+* Davis, Angela Y., 1983, *Women, Race and Class*, New York: Vintage.
+* –––, 2004, “Marcuse’s Legacies”, in John Abromeit and W. Mark Cobb (eds.), *Herbert Marcuse: A Critical Reader*. New York, Routledge, pp. 43–50.
+* –––, 2005, *Abolition Democracy*, New York: Seven Stories Press.
+* Dean, Jodi, 2016, *Crowds and Party*, London: Verso.
+* Dejours, Christophe, Jean-Philippe Deranty, Emmanuel Renault, and Nicholas H. Smith, 2018, *The Return of Work in Critical Theory: Self, Society, Politics*, New York: Columbia University Press.
+* Demirović, Alex, 2016, “The Frankfurt School, Critical Theory, and Sociology at the Institute for Social Research (1950 to 1960)”, in Gabriel R. Ricci (ed.), *The Persistence of Critical Theory*, London: Routledge, pp. 25–40.
+* Deranty, Jean-Philippe, 2021, “Negativity in Recognition: Post-Freudian Legacies in Contemporary Critical Theory”, in Ikäheimo, Heikki, Kristina Lepold and Titus Stahl (eds.), *Recognition and Ambivalence*, New York: Columbia University Press, pp. 223–255.
+* Derrida, Jacques, 1990 \[year the lecture was given], *Force de loi*, Paris: Galilée, 1994; translated as “The Force of Law”, Mary Quaintance (trans.), in Drucilla Cornell, Michel Rosenfeld, and David G. Carlson (eds.), *Deconstruction and the Possibility of Justice*, New York: Routledge, 1992, pp. 3–67.
+* Dews, Peter, 1987, *Logics of Disintegration: Poststructuralist Thought and the Claims of Critical Theory*, London: Verso.
+* Dubiel, Helmut, 1978, *Wissenschaftsorganisation und politische Erfahrung: Studien zur frühen Kritischen Theorie*, Frankfurt am Main: Suhrkamp; translated as *Theory and Politics: Studies in the Development of Critical Theory*, Benjamin Gregg (trans.), Cambridge, MA: MIT Press, 1985.
+* Du Bois, W. E. B., 1935, *Black Reconstruction in America, 1860–1880*, New York: The Free Press, 1998.
+* Dussel, Enrique, 1998, *Ética de la Liberación en la edad de globalización y de la exclusión*; translated as *Ethics of Liberation in the Age of Globalization and Exclusion*, Eduardo Mendieta, Camilo Pérez Bustillo, Yolanda Angulo, and Nelson Maldonado-Torres (trans.), Durham, NC: Duke University Press, 2013.
+* –––, 2011, “From Critical Theory to the Philosophy of Liberation: Some Themes for Dialogue”, *Transmodernity*, 1(2): 16–43. doi.org:10.5070/T412011806
+* Eagleton, Terry, 1991, *Ideology: An Introduction*, London, Verso.
+* Feenberg, Andrew, 2023a, “Marcuse’s Critique of Technology Today”, *Philosophy & Social Criticism* 49(6): 672–685. doi:10.1177/01914537231164657
+* –––, 2023b, *The Ruthless Critique of Everything Existing: Nature and Revolution in Marcuse’s Philosophy of Praxis*, London: Verso.
+* Ferrara, Alessandro, 2008, *The Force of the Example: Explorations in the Paradigm of Judgment*, New York: Columbia University Press.
+* Ferrarese, Estelle, 2018, *La fragilité du souci des autres: Adorno et le care*, Lyon: ENS Éditions; translated as *The Fragility of Concern for Others: Adorno and the Ethics of Care*, Steven Corcoran (trans.), Edinburgh: Edinburgh University Press, 2020.
+* Finlayson, James Gordon, 2007, “Political, Moral and Critical Theory: On the Practical Philosophy of the Frankfurt School”, in Michael Rosen and B. Leiter (eds.), *The Oxford Handbook of Continental Philosophy*, Oxford: Oxford University Press, pp. 626–670.
+* –––, 2015, “The Artwork and the Promesse du Bonheur in Adorno”, *European Journal of Philosophy*, 23(3): 392–419. doi:10.1111/j.1468-0378.2012.00542.x
+* –––, 2019, *The Habermas-Rawls Debate*, New York: Columbia University Press.
+* Flynn, Jeffrey, 2014a, *Reframing the Intercultural Dialogue on Human Rights: A Philosophical Approach*, New York: Routledge.
+* –––, 2014b, “Truth, Objectivity, and Experience after the Pragmatic Turn: Bernstein on Habermas’s ‘Kantian Pragmatism’ ”, in Judith M. Green (ed.), *Richard J Bernstein and the Pragmatist Turn in Contemporary Philosophy*, Basingstoke and New York: Palgrave Macmillan, pp. 190–209.
+* –––, 2022, “Decentering Eurocentrism through Dialogue”, in Tom Bailey (ed.), *Deprovincializing Habermas: Global Perspectives*, *Second Edition*, New York: Routledge, pp. 249–270.
+* Fong, Benjamin Y., 2016, *Death and Mastery: Psychoanalytic Drive Theory and the Subject of Late Capitalism*, New York: Columbia University Press.
+* Forst, Rainer, 2007, *Das Recht auf Rechtfertigung: Elemente einer konstruktivistischen Theorie der Gerechtigkeit*, Berlin: Suhrkamp; translated as *The Right to Justification: Elements of a Constructivist Theory of Justice*, Jeffrey Flynn (trans.), New York: Columbia University Press, 2011.
+* –––, 2011, *Kritik der Rechtfertigungsverhältnisse*, Berlin: Suhrkamp; translated as *Justification and Critique: Towards a Critical Theory of Politics*, Ciaran Cronin (trans.), Cambridge: Polity, 2014.
+* –––, 2017, “Noumenal Alienation: Rousseau, Kant and Marx on the Dialectics of Self-Determination”, *Kantian Review*, 22(4): 523–551. doi:10.1017/S1369415417000267
+* –––, 2021a, *Die noumenale Republik: Kritischer Konstruktivismus nach Kant*, Berlin: Suhrkamp; translation, *The Noumenal Republic: Critical Constructivism after Kant*, Ciaran Cronin (trans.), forthcoming.
+* –––, (ed)., 2021b, “Symposium on Jürgen Habermas, *Auch eine Geschichte der Philosophie*”, *Constellations*, 28(1): 1–147.
+* –––, 2023, “The rule of unreason: Analyzing (Anti-)Democratic Regression”, *Constellations*, 30(3): 217–224. doi:10.1111/1467-8675.12671
+* Foucault, Michel, 1973 \[year this lecture was given], “La vérités et les formes juridiques”, *Chimères*, 10 (1990): 8–28; translated as “Truth and Juridical Forms”, in Michel Foucault, *Power*, ed. James D. Faubion, New York: New Press, 2000, pp. 31–45.
+* Fraser, Nancy, 1981, “Foucault on Modern Power: Empirical Insights and Normative Confusions”, *PRAXIS International*, 3: 272–287.
+* –––, 1985, “What’s Critical about Critical Theory? The Case of Habermas and Gender”, *New German Critique*, 35: 97–131. doi:10.2307/488202
+* –––, 1989, *Unruly Practices: Power, Discourse, and Gender in Contemporary Social Theory*, Minneapolis: University of Minnesota Press.
+* –––, 1990, “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.” *Social Text*, 25/26: 56–80.
+* –––, 2011, “Marketization, Social Protection, Emancipation: Toward a Neo-Polanyian Conception of Capitalist Crisis”, in Craig Calhoun and Georgi Derlugian (eds.), *Business as Usual: The Roots of the Global Financial Meltdown*, New York University Press, pp. 137–58.
+* –––, 2013, *Fortunes of Feminism: From State-Managed Capitalism to Neoliberal Crisis*, London: Verso.
+* –––, 2014, “Behind Marx’s Hidden Abode”, *New Left Review*, 86: 55–72.
+* –––, 2016, “Contradictions of Capital and Care”, *New Left Review*, 100: 99–117.
+* –––, 2021, “Climates of Capital”, *New Left Review*, 127: 94–127.
+* –––, 2022, *Cannibal Capitalism: How Our System is Devouring Democracy, Care, and the Planet – And What We Can Do about It*, New York: Verso.
+* Fraser, Nancy, et al., 2014, *Transnationalizing* *the Public Sphere*, Kate Nash (ed.), Cambridge: Polity.
+* Fraser, Nancy, and Axel Honneth, 2003, *Redistribution or Recognition? A Philosophical-Political Exchange*, New York: Verso.
+* Fraser, Nancy and Rahel Jaeggi, 2018, *Capitalism: A Conversation in Critical Theory*, Brian Milstein (ed.), Cambridge: Polity.
+* Freyenhagen, Fabian, 2014, “Adorno’s Politics: Theory and Praxis in Germany’s 1960s”, *Philosophy & Social Criticism*, 40: 867–893. doi:10.1177/0191453714545198
+* –––, 2018, “Critical Theory: Self-Reflexive Theorizing and Struggles for Emancipation”, in: *Oxford Research Encyclopedia of Politics* \[[Freyenhagen 2018 available online](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-195)].
+* Fricker, Miranda, 2007, *Epistemic Injustice*, Oxford: Oxford University Press.
+* Fromm, Erich, 1936, “Studien über Autorität und Familie. Sozialpsychologischer Teil”, in Max Horkheimer (ed.), *Schriften des Instituts für Sozialforschung, Vol. V: Studien über Autorität und Familie*, Paris: Librairie Félix Alcan; translated as “Studies on Authority and the Family. Socio-psychological Dimensions”, *Fromm Forum*, 24 (2020): 8–58.
+* –––, 1961, *Marx’s Concept of Man*, New York: Continuum.
+* Gago, Verónica, 2019, *La potencia feminista: O el deseo de cambiarlo todo*, Buenos Aires: Tinta Limón; translated as *Feminist International: How to Change Everything*, Liz Mason-Deese (trans.), London: Verso, 2020.
+* Gambetti, Zeynep, 2020, “Exploratory Notes on the Origins of New Fascisms”, *Critical Times*, 3(1): 1–32. doi:10.1215/26410478-8189841
+* Geuss, Raymond, 1981, *The Idea of a Critical Theory*, Cambridge: Cambridge University Press.
+* Gilmore, Ruth Wilson, 2022, *Abolition Geography: Essays Towards Liberation*, London: Verso.
+* Gordon, Peter, 2017, “The Authoritarian Personality Revisited”, *boundary 2*, 44(2): 31–56. doi:10.1215/01903659-3826618
+* –––, 2023, *A Precarious Happiness: Adorno and the Sources of Normativity*, Chicago: University of Chicago Press. doi:10.4324/9780429443374
+* Gordon, Peter, Espen Hammer, and Axel Honneth (eds.), 2019, *The Routledge Companion to the Frankfurt School*, London: Routledge. doi:10.4324/9780429443374
+* Gregoratto, Federica, Heikki Ikäheimo, Emmanuel Renault, Arvi Särkelä, and Italo Testa, 2022, “Critical Naturalism: A Manifesto”, *Krisis: Journal for Contemporary Philosophy*, 42(1): 108–24. doi:10.21827/krisis.42.1.38637
+* Grüner, Eduardo, 2010, *La oscuridad y las luces*, Buenos Aires: Edhasa; translated as *The Haitian Revolution: Capitalism, Slavery and Counter-Modernity*, Ramsey McGlazer (trans.), Cambridge: Polity, 2019.
+* Habermas, Jürgen, 1962, *Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Kategorie der bürgerlichen Gesellschaft*, Neuwied, Berlin: Luchterhand; translated as *The Structural Transformation of the Public Sphere: An Inquiry Into a Category of Bourgeois Society*, Thomas Burger and Frederick Lawrence (trans.), Cambridge, MA: MIT Press, 1989.
+* –––, 1963, *Theorie und Praxis: Sozialphilosophische Studien*, Neuwied am Rhein and Berlin: Luchterhand. New and extended edition Frankfurt am Main: Suhrkamp, 1971; translated as *Theory and Practice*, John Viertel (trans.), Boston: Beacon Press, 1973.
+* –––, 1968a, *Technik und Wissenschaft als ‘Ideologie’*, Frankfurt am Main: Suhrkamp; translated as Chapters 4–6 of *Toward a Rational Society: Student Protest, Science, and Politics*, Jeremy J. Shapiro (trans.), Boston: Beacon Press, 1970.
+* –––, 1968b, *Erkenntnis und Interesse*, Frankfurt am Main: Suhrkamp; translated as *Knowledge and Human Interests*, Jeremy J. Shapiro (trans.), Boston: Beacon Press, 1971.
+* –––, 1973a, “Nachwort”, in Jürgen Habermas, *Erkenntnis und Interesse, Mit einem neuen Nachwort*, Frankfurt am Main: Suhrkamp, pp. 367–417; translated as “A Postscript to *Knowledge and Human Interests*”, Christian Lenhardt (trans.), *Philosophy of the Social Sciences*, 3: 157–189.
+* –––, 1973b, *Legitimationsprobleme* *im Spätkapitalismus*, Frankfurt am Main: Suhrkamp; translated as *Legitimation Crisis*, Thomas McCarthy (trans.), Boston: Beacon Press, 1975.
+* –––, 1981, *Theorie des kommunikativen Handelns*, 2 vols., Frankfurt am Main: Suhrkamp; translated as *The Theory of Communicative Action*, 2 vols., Thomas A. McCarthy (trans.), Boston: Beacon Press, 1984.
+* –––, 1983a, *Moralbewusstsein und kommunikatives Handeln*, Frankfurt am Main: Suhrkamp, translated as *Moral Consciousness and Communicative Action*, Christian Lenhardt and Shierry Weber Nicholsen (trans.), Cambridge, MA: MIT Press, 1990.
+* –––, 1983b, “Ziviler Ungehorsam: Testfall für den demokratischen Rechtsstaat”, in Peter Glotz (ed.), *Ziviler Ungehorsam im Rechtsstaat*, Frankfurt am Main: Suhrkamp, pp. 29–53; translated as “Civil Disobedience: Litmus Test for the Democratic Constitutional State”, *Berkeley Journal of Sociology*, 30: 95–116.
+* –––, 1985, *Der philosophische Diskurs der Moderne: Zwölf Vorlesungen*, Frankfurt am Main: Suhrkamp; translated as *The Philosophical Discourse of Modernity: Twelve Lectures*, Frederick Lawrence (trans.), Cambridge, MA: MIT Press, 1987.
+* –––, 1991, *Erläuterungen zur Diskursethik*, Frankfurt am Main: Suhrkamp; translated as *Justification and Application: Remarks on Discourse Ethics*, Ciaran Cronin (trans.), Cambridge, MA: MIT Press, 1993.
+* –––, 1992, *Faktizität und Geltung: Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats*, Frankfurt am Main: Suhrkamp; translated as *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), Cambridge, MA: MIT Press, 1996.
+* –––, 1995a, “Reconciliation Through the Public Use of Reason: Remarks on John Rawls’s Political Liberalism”, *The Journal of Philosophy*, 92(3): 109–131. doi:10.5840/jphil199592335
+* –––, 1995b, “Kants Idee des ewigen Friedens aus dem historischen Abstand von 200 Jahren”, *Kritische Jusitiz*, 3: 293–319; translated as “Kant’s Idea of Perpetual Peace, with the Benefit of Two Hundred Years’ Hindsight”, in James Bohman and Matthias Lutz-Bachmann (eds.), *Perpetual Peace: Essays on Kant’s Cosmopolitan Ideal*, Cambridge, MA: MIT Press, 1997, pp. 113–153.
+* –––, 1996, “Vernünftig versus Wahr oder die Moral der Weltbilder”, in *Die Einbeziehung des Anderen: Studien zur politischen Theorie*, Frankfurt am Main: Suhrkamp; translated as “‘Reasonable’ versus ‘True,’ or the Morality of Worldviews”, Ciaran Cronin (trans.), in *The Inclusion of the Other: Studies in Political Theory*, Ciaran Cronin and Pablo De Greiff (eds.), Cambridge, MA: MIT Press, 1998, pp. 75-105.
+* –––, 1998, *Die postnationale Konstellation: politische Essays*, Frankfurt am Main: Suhrkamp; translated as *The Postnational Constellation: Political Essays*, Max Pensky (ed./trans.), Cambridge, MA: MIT Press, 2001.
+* –––, 1999, *Wahrheit und Rechtfertigung: philosophische Aufsätze*, Frankfurt am Main: Suhrkamp; translated as *Truth and Justification*, Barbara Fultner (trans.), Cambridge, MA: MIT Press, 2003.
+* –––, 2005, *Zwischen* *Naturalismus und Religion. Philosophische Aufsätze*, Frankfurt am Main: Suhrkamp; translated as *Between Naturalism and Religion*, Ciaran Cronin (trans.), Malden, MA: Polity, 2008.
+* –––, 2006, “Political Communication in Media Society: Does Democracy Still Enjoy an Epistemic Dimension? The Impact of Normative Theory on Empirical Research”, *Communication Theory*, 16(4): 411–426. doi:10.1111/j.1468-2885.2006.00280.x
+* –––, 2019, *Auch eine Geschichte der Philosophie*, 2 vols., Berlin: Suhrkamp; part of volume 1 translated as *Also a History of Philosophy, Volume 1: The Project of a Genealogy of Postmetaphysical Thinking*, Ciaran Cronin (trans.), Cambridge: Polity, 2023.
+* –––, 2021, “Überlegungen und Hypothesen zu einem erneuten Strukturwandel der politischen Öffentlichkeit”, in: Martin Seeliger and Sebastian Sevignani (eds.), *Ein neuer Strukturwandel der Öffentlichkeit?*, Baden-Baden: Nomos Verlag, 470–500; translated as “Reflections and Hypotheses on a Further Structural Transformation of the Political Public Sphere”, Ciaran Cronin (trans.), *Theory, Culture & Society*, 39(4) (2022): 145–171. doi:10.1177/02632764221112341
+* Hall, Stuart, 2021, *Selected Writings on Race and Difference*, Durham, NC: Duke University Press.
+* Harcourt, Bernard E., 2020, *Critique and Praxis*, New York: Columbia University Press.
+* Haslanger, Sally, 2017a, “Culture and Critique”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 91: 149–173. doi:10.1093/arisup/akx001
+* –––, 2017b, “Racism, Ideology, and Social Movements”, *Res Philosophica*, 94(1): 1–22. doi:10.11612/RESPHIL.1547
+* Heath, Joseph, 2014, “Rebooting Discourse Ethics”, *Philosophy & Social Criticism*, 40(9): 829–866. doi:10.1177/0191453714545340
+* Hedrick, Todd, 2010, *Rawls and Habermas: Reason, Pluralism, and the Claims of Political Philosophy*, Stanford, CA: Stanford University Press.
+* –––, 2019, *Reconciliation and Reification: Freedom’s Semblance and Actuality from Hegel to Contemporary Critical Theory*, Oxford: Oxford University Press.
+* Heberle, Renée (ed.), 2006, *Feminist Interpretations of Theodor Adorno*, University Park, PA: The Pennsylvania University Press.
+* Honneth, Axel, 1985, *Kritik der Macht: Reflexionsstufen einer kritischen Gesellschaftstheorie*, Frankfurt am Main: Suhrkamp; translated as *Critique of Power: Reflective Stages in a Critical Social Theory*, Kenneth Baynes (trans.), Cambridge, MA: MIT Press, 1991.
+* –––, 1992, *Kampf um Anerkennung: Zur moralischen Grammatik sozialer Konflikte*, Frankfurt am Main: Suhrkamp; translated as *The Struggle for Recognition: The Moral Grammar of Social Conflicts*, Joel Anderson (trans.), Cambridge: Polity, 1995.
+* –––, 1994, “Die soziale Dynamik von Mißachtung: Zur Ortsbestimmung einer kritischen Gesellschaftstheorie”, *Leviathan*, 22(1): 78–93; translated as “The Social Dynamics of Disrespect: On the Location of Critical Theory Today”, John Farrell (trans.), *Constellations*, 1(2): 255–69, reprinted in in Axel Honneth, *Disrespect: The Normative Foundations of Critical Theory*, Cambridge: Polity Press, 2007, pp. 63–79.
+* –––, 1998, “Über die Möglichkeit einer erschließenden Kritik. Die *Dialektik der Aufklärung* im Horizont gegenwärtiger Debatten über Sozialkritik”, *Paradigmi. Rivista di critica filosofica*, 16(48): 501–514; translated as “The Possibility of a Disclosing Critique of Society: The *Dialectic of Enlightenment* in Light of Current Debates in Social Criticism”, *Constellations*, 7(1) (2000): 116–127. doi:10.1111/1467-8675.00173
+* –––, 2000, *Das Andere der Gerechtigkeit*; translated as *Disrespect: The Normative Foundations of Critical Theory*, Joseph Ganahl (trans.), Cambridge: Polity, 2007.
+* –––, 2001, *Leiden an Unbestimmtheit: Eine Reaktualisierung der Hegelschen Rechtsphilosophie*, Stuttgart: Reclam; translated as *The Pathologies of Individual Freedom: Hegel’s Social Theory*, Ladislaus Löb (trans.), Princeton: Princeton University Press, 2010.
+* –––, 2003, “Redistribution as Recognition”, in N. Fraser and A. Honneth (eds.), *Redistribution or Recognition? A Political-Philosophical Exchange*, London: Verso, pp. 110–197.
+* –––, 2004, “Eine soziale Pathologie der Vernunft. Zur intellektuellen Erbschaft der Kritischen Theorie”, in Christoph Halbig and Michael Quante (eds.), *Axel Honneth: Sozialphilosophie zwischen Kritik und Anerkennung*, Münster: LIT-Verlag, pp. 9-32; translated as “A Social Pathology of Reason: On the Intellectual Legacy of Critical Theory”, in A. Honneth\*, Pathologies of Reason: On the Legacy of Critical Theory\*, New York: Columbia University Press, 2009, pp. 19-42.
+* –––, 2005, *Verdinglichung: Eine anerkennungstheoretische Studie*, Frankfurt am Main: Suhrkamp; translated as *Reification*, Martin Jay (ed.), New York: Oxford University Press, 2008.
+* –––, 2010, *Das Ich im Wir: Studien zur Anerkennungstheorie*, Berlin: Suhrkamp; translated as *The I in We: Studies in the Theory of Recognition*, Joseph Ganahl (trans.), Cambridge: Polity, 2012.
+* –––, 2011, *Das Recht der Freiheit: Grundriß einer demokratischen Sittlichkeit*, Berlin: Suhrkamp; translated as *Freedom’s Right: The Social Foundations of Democratic Life*, Joseph Ganahl (trans.), New York: Columbia University Press, 2014.
+* –––, 2017, “Is There an Emancipatory Interest? An Attempt to Answer Critical Theory’s Most Fundamental Question”, *European Journal of Philosophy*, 25: 908–920. doi:10.1111/ejop.12321
+* –––, 2022, “‘Labour’, A Brief History of a Modern Concept”, *Philosophy*, 97(2), 149–167. doi:10.1017/S003181912100036X
+* –––, 2023, *Der arbeitende Souverän*, Berlin: Suhrkamp; translation, *The Working Sovereign*, Cambridge: Polity, forthcoming.
+* Honneth, Axel, and Hans Joas (eds.), 1986, *Kommunikatives* *Handeln: Beiträge zu Jürgen Habermas ‘Theorie des Kommunikativen Handelns*, Frankfurt am Main: Suhrkamp; translated as *Communicative Action: Essays on Jürgen Habermas’s* The Theory of Communicative Action, Jeremy Gaines and Doris L. Jones (trans.), Cambridge, MA: MIT Press, 1991.
+* Horkheimer, Max, 1931, “Die gegenwärtige Lage der Sozialphilosophie und die Aufgaben eines Instituts für Sozialforschung”, *Frankfurter Universitätsreden*, XXXVII: 3–16; translated as “The Present Situation of Social Philosophy and the Tasks of an Institute for Social Research”, John Torpey (trans.), in Max Horkheimer, *Between Philosophy and Social Science: Selected Early Writings*, Cambridge, MA: MIT Press, 1993, pp. 1–14. Retranslated as “The State of Contemporary Social Philosophy and the Tasks of an Institute for Social Research”, *Journal for Cultural Research*, Peter Wagner (trans.), 22(2) (2018): 113–121. doi:10.1080/14797585.2018.1461354
+* –––, 1933, “Materialismus und Moral”, *Zeitschrift für Sozialforschung*, 2(2): 162–197; translated as “Materialism and Morality”, G. Frederick Hunter (trans.), in Max Horkheimer, *Between Philosophy and Social Science: Selected Early Writings*, Cambridge: MIT Press, 1993, pp. 15–47.
+* –––, 1936a, “Egoismus und Freiheitsbewegung: Zur Anthropologie des bürgerlichen Zeitalters”, *Zeitschrift für Sozialforschung*, 5(2): 161–234; translated as “Egoism and Freedom Movements: On the Anthropology of the Bourgeois Era”, G. Frederick Hunter (trans.), in Max Horkheimer, *Between Philosophy and Social Science: Selected Early Writings*, Cambridge: MIT Press, 1993, pp. 49–110.
+* ––– (ed.), 1936b, *Studien über Autorität und Familie: Forschungsberichte aus dem Institut für Sozialforschung*, Paris: Librairie Félix Alcan.
+* –––, 1937a, “Traditionelle und kritische Theorie”, *Zeitschrift für Sozialforschung*, 6(2): 245–294; translated as “Traditional and Critical Theory”, Matthew J. O’Connell (trans.), in Max Horkheimer, *Critical Theory: Selected Essays*, New York: Continuum, 1972, pp. 188–243.
+* –––, 1937b, “Nachtrag”, *Zeitschrift für Sozialforschung*, 6(3): 625–631; translated as “Postscript”, Matthew J. O’Connell (trans.), in Max Horkheimer, *Critical Theory: Selected Essays*, New York: Continuum, 1972, pp. 244–252.
+* –––, 1941, “Art and Mass Culture”, *Zeitschrift für Sozialforschung*, 9(2), 290–304, republished in Max Horkheimer, *Critical Theory: Selected Essays*, New York: Continuum, 1972, pp. 273–290.
+* Horkheimer, Max, and Theodor W. Adorno, 1947, *Dialektik* *der Aufklärung: Philosophische Fragmente*, Amsterdam: Querido; translated as *Dialectic of Enlightenment*, Edmund Jephcott (trans.), Stanford, CA: Stanford University Press, 2002.
+* Hoy, David Couzens and Thomas McCarthy, 1994, *Critical Theory*, Oxford: Blackwell.
+* Ibsen, Malte Froslee, 2023, *A Critical Theory of Global Justice: The Frankfurt School and World Society*, Oxford: Oxford University Press.
+* Ikäheimo, Heikki, Kristina Lepold and Titus Stahl (eds.), 2021, *Recognition and Ambivalence*, New York: Columbia University Press.
+* Ingram, David, 2018, *World Crisis and Underdevelopment: A Critical Theory of Poverty, Agency, and Coercion*, Cambridge: Cambridge University Press.
+* Ingram, James, 2013, *Radical Cosmopolitics: The Ethics and Politics of Democratic Universalism*, New York: Columbia University Press.
+* –––, 2019, “Critical Theory and Postcolonialism”, in Gordon, Peter, Espen Hammer, and Axel Honneth (eds.), *The Routledge Companion to the Frankfurt School*, London: Routledge, pp. 500–513.
+* Jaeggi, Rahel, 2005, *Entfremdung: Zur Aktualität eines sozialphilosophischen Problems*, Campus; translated as *Alienation*, Frederick Neuhouser and Alan E. Smith (trans.), New York: Columbia University Press, 2014.
+* –––, 2008, “Re-Thinking Ideology”, in Christopher Zurn, Boujdewijn de Bruijn (eds.), *New* *Waves in Political Philosophy*, Basingstoke: Palgrave Macmillan, 2008.
+* –––, 2014, *Kritik von Lebensformen*, Berlin.: Suhrkamp; translated as *Critique of Forms of Life*, Ciaran Cronin (trans.), Cambridge, MA: Harvard University Press, 2018.
+* –––, 2017a, “Crisis, Contradiction, and the Task of a Critical Theory”, in Banu Bargu und Chiara Bottici (eds.), *Feminism, Capitalism, and Critique. Essays in Honor of Nancy Fraser*, Basingstoke: Palgrave Macmillan, pp. 209–224.
+* –––, 2017b, “Pathologies of Work”, *Women’s Studies Quarterly*, 45(3/4): 59–76. doi:10.1353/wsq.2017.0044
+* –––, 2022, “Modes of Regression: The Case of Ressentiment”, *Critical Times*, 5(3): 501–537. doi:10.1215/26410478-10030204
+* Jay, Martin, 1973, *The Dialectical Imagination*, Boston and Toronto: Little, Brown.
+* –––, 1984, *Marxism and Totality*, Cambridge: Polity.
+* Kelley, Robin D. G., 2002, *Freedom Dreams: The Black Radical Imagination*, Boston: Beacon Press. Revised and expanded edition published in 2022.
+* Kerner, Ina, 2018, “Postcolonial Theories as Global Critical Theories”, *Constellations*, 25(4): 614– 628. doi:10.1111/1467-8675.12346
+* Klein, Steven, 2020, *The Work of Politics: Making a Democratic Welfare State*, Cambridge: Cambridge University Press.
+* Kompridis, Nikolas, 2006, *Critique and Disclosure: Critical Theory between Past and Future*, Cambridge, MA: MIT Press.
+* Koopman, Colin, 2013, *Genealogy as Critique*, Bloomington: Indiana University Press.
+* Kracauer, Siegfried, 1927, “Das Ornament der Masse”, *Frankfurter Zeitung*, July 9–10, 1927; translated as “Mass Ornament”, Barbara Correll and Jack Zipes (trans.) *New German Critique*, 5 (1975): 67–76.
+* –––, 2013, *Totalitäre* *Propaganda*, Bernd Stiegler (ed.), Berlin: Suhrkamp. Selections are translated as part of “Studies of Totalitarianism, Propaganda, and the Masses (1936–1940)” in Siegfried Kracauer, *Selected Writings on Media, Propaganda, and Political Communication*, Jaeho Kang, Graeme Gilloch, and John Abromeit (eds.), New York: Columbia University Press, 2022.
+* Laclau, Ernesto, 1992, “Beyond Emancipation”, in *Emancipation(s)*, London: Verso, 1996, pp. 1–19.
+* Lafont, Cristina, 2019, *Democracy without Shortcuts*: *A Participatory Conception of Deliberative Democracy*, Oxford: Oxford University Press.
+* Lara, Maria Pia, 1998, *Moral Textures: Feminist Narratives in the Public Sphere*, Cambridge: Polity.
+* –––, 2021, *Beyond the Public Sphere: Film and the Feminist Imaginary*, Evanston, IL: Northwestern University Press.
+* Leeb, Claudia, 2017, *Power and Feminist Agency in Capitalism: Toward a New Theory of the Political Subject*, Oxford: Oxford University Press.
+* Löwenthal, Leo, and Norbert Guterman, 1949, *Prophets of Deceit: A Study of the Techniques of the American Agitator* (Studies in Prejudice: Volume 5), with a new Introduction by Alberto Toscano, London: Verso, 2021.
+* Löwy, Michael, 2001, *Walter Benjamin: Avertissement d’incendie*, Paris: Presses Universitaires de France; translated as *Fire Alarm: Reading Walter Benjamin’s ‘On the Concept of History’*, Chris Turner (trans.), London: Verso, 2016.
+* Loick, Daniel, 2012, *Kritik der Souveränität*, Frankfurt: Campus; translated as *A Critique of Sovereignty*, Amanda DeMarco (trans.) London: Rowman & Littlefield, 2018.
+* –––, 2021, “The Ethical Life of Counter-Communities”, *Critical Times*, 4(1): 1–28. doi:10.1215/26410478-8855203
+* Lukács, Georg, 1923, “Verdinglichung und das Bewußtsein des Proletariats”, in *Geschichte* *und Klassenbewußtsein*, Berlin: Malik; translated as “Reification and the Consciousness of the Proletariat”, in *History and Class Consciousness*, Rodney Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 83–222.
+* –––, 1963, “Vorwort” to *Die Theorie des Romans*, Berlin: Luchterhand; translated as *The Theory of the Novel*, Anna Bostock (trans.), Cambridge, MA: MIT Press, 1974.
+* Malm, Andreas, 2020, *How to Blow Up a Pipeline: Learning to Fight in a World on Fire*, London: Verso.
+* Marasco, Robyn, 2006, “‘Already the Effect of the Whip’: Critical Theory and the Feminine Ideal”, *differences*, 17(1): 88–115. doi:10.1215/10407391-2005-005
+* –––, 2015, *The Highway of Despair: Critical Theory After Hegel*, New York: Columbia University Press.
+* –––, 2018, “There’s a Fascist in the Family: Critical Theory and Antiauthoritarianism”, *South Atlantic Quarterly*, 117(4): 791–813. doi:10.1215/00382876-7165871
+* Marcuse, Herbert, 1937, “Philosophie und kritische Theorie”, *Zeitschrift für Sozialforschung*, 6(3): 625–647; translated as “Philosophy and Critical Theory”, in H. Marcuse (ed.), *Negations*, Jeremy J. Shapiro (trans), London: MayFlyBooks, 1968, pp. 99–117.
+* –––, 1941, *Reason and Revolution: Hegel and the Rise of Social Theory*, Oxford: Oxford University Press.
+* –––, 1955, *Eros and Civilization*, Boston: Beacon Press.
+* –––, 1964, *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society*, Boston: Beacon Press.
+* –––, 1967, “Liberation from the Affluent Society” in Douglas Kellner (ed.), *The New Left and the 1960s: Collected Papers of Herbert Marcuse, Volume 3*, New York: Routledge, 2004.
+* –––, 1968, “Beyond One-Dimensional Man”, in Douglas Kellner (ed.), *Towards a Critical Theory of Society*, *Collected Papers of Herbert Marcuse, Volume 2*, New York: Routledge, 2001.
+* –––, 1969, *An Essay on Liberation*, Boston: Beacon Press.
+* –––, 1974, “Marxism and Feminism”, *Women’s Studies*, 2: 279–288.
+* Marx, Karl, 1843, “Brief an Ruge, September 1843”, in Karl Marx and Friedrich Engels, *Briefwechsel bis April 1846* (Karl Marx/Friedrich Engels Gesamtausgabe, vol. III.1), Berlin: Dietz: 1975, pp. 54–57; translated as “Letter to Ruge, September 1843”, in *Karl Marx: Early Writings* (Karl Marx/Friedrich Engels Collected Works, vol. 1), Rodney Livingstone (trans.), London: Lawrence and Wishart, 1975, pp. 209–211.
+* –––, 1844, “Zur Kritik der Hegelschen Rechtsphilosophie: Einleitung”, in *Karl Marx: Werke, Artikel, Entwürfe: März 1843 – August 1944* (Karl Marx/Friedrich Engels Gesamtausgabe, vol. I.2), Berlin: Dietz, 1975, pp. 170–184; translated as “Contribution to the Critique of Hegel’s Philosophy of Law”, Martin Milligan and Barbara Ruhemann (trans.), in *Karl Marx March 1843* – *August 1944* (Karl Marx/Friedrich Engels Collected Works, vol. 3), London: Lawrence and Wishart, 1975, pp. 3–127.
+* –––, 1846, *Die deutsche Ideologie: Manuskripte und Drucke* (Karl Marx/Friedrich Engels Gesamtausgabe, vol. I.5), Berlin: De Gruyter/Akademie, 2017; translated as *The German Ideology* (Karl Marx/Friedrich Engels Collected Works, vol. 5), Clemens Dutt, W. Lough, and C. P. Magill (trans.), London: Lawrence and Wishart, 1976.
+* –––, 1867, *Das Kapital: Kritik der politischen Ökonomie. Erster Band (Hamburg 1867)* (Karl Marx/Friedrich Engels Gesamtausgabe, vol. II.5), Berlin: Dietz, 1983; translated as *Capital, Volume I* (Karl Marx/Friedrich Engels Collected Works, vol. 35), London: Lawrence and Wishart, 1996.
+* Mbembe, Achille, 2016, *Politiques de l’inimitié*; translated as *Necropolitics*, Steven Corcoran (trans.), Durham, NC: Duke University Press, 2019.
+* McAfee, Noëlle, 2019, *Fear of Breakdown: Politics and Psychoanalysis*, New York: Columbia University Press.
+* McCarthy, Thomas, 1991, *Ideals and Illusions*: *On Reconstruction and Deconstruction in Contemporary Critical Theory*, Cambridge, MA: MIT Press.
+* –––, 2004, “Political Philosophy and Racial Injustice: From Normative to Critical Theory” in Seyla Benhabib and Nancy Fraser (eds.), *Pragmatism, Critique, Judgment: Essays for Richard J. Bernstein*, Cambridge, MA: MIT Press, pp. 147–168.
+* –––, 2009, *Race, Empire, and the Idea of Human Development*, Cambridge: Cambridge University Press.
+* McNay, Lois, 2022, *The Gender of Critical Theory: On the Experiential Grounds of Critique*, Oxford: Oxford University Press.
+* Medina, José, 2013, *The Epistemology of Resistance: Gender and Racial Oppression, Epistemic Injustice, and Resistant Imaginations*, Oxford: Oxford University Press.
+* Meehan, Johanna (ed.), 1995, *Feminists Read Habermas: Gendering the Subject of Discourse*, New York: Routledge.
+* Mendieta, Eduardo, 2007, *Global Fragments: Globalizations, Latinamericanisms, and Critical Theory*, New York: SUNY Press.
+* Menke, Christoph, 1988, *Die Souveränität der Kunst: Ästhetische Erfahrung nach Adorno und Derrida*; translated as *The Sovereignty of Art: Aesthetic Negativity in Adorno and Derrida*, Neil Solomon (trans.), Cambridge, MA: MIT Press, 1998.
+* –––, 2000, *Spiegelungen der Gleichheit*, Berlin: Akademie; translated as *Reflections of Equality*, Howard Rouse and Andrei Denejkine (trans.), Stanford, CA: Stanford University Press, 2006.
+* –––, 2015, *Kritik der Rechte*, Berlin: Suhrkamp; translated as *Critique of Rights*, Christopher Turner (trans.), Cambridge: Polity, 2020.
+* Mills, Charles, 1988, “Alternative Epistemologies”, *Social Theory and Practice*, 14(3): 237–63.
+* –––, 2003, *From Class to Race: Essays in White Marxism and Black Radicalism*, New York: Rowman & Littlefield.
+* –––, 2017, “Criticizing Critical Theory”, in *Critical Theory in Critical Times: Transforming the Global Political and Economic Order*, Penelope Deutscher and Cristina Lafont (eds.), New York: Columbia University Press, pp. 233–250.
+* Milstein, Brian, 2015, *Commercium: Critical Theory from a Cosmopolitan Point of View*, New York: Rowman & Littlefield.
+* Moten, Fred, and Stefano Harney, 2013, *The Undercommons: Fugitive Planning and Black Study*, London: Minor Compositions/Autonomedia.
+* Müller-Doohm, Stefan, 2003, *Adorno: Eine Biographie*, Frankfurt am Main: Suhrkamp; translated as *Adorno: A Biography*, Rodney Livingstone (trans.), Cambridge: Polity, 2005.
+* Negt, Oskar, and Alexander Kluge, 1972, *Öffentlichkeit und Erfahrung: Zur Organisationsanalyse von bürgerlicher und proletarischer Öffentlichkeit*, Frankfurt: Suhrkamp; translated as *Public Sphere and Experience: Analysis of the Bourgeois and Proletarian Public Sphere*, Peter Labanyi, Jamie Owen Daniel, and Assenka Oksiloff (trans.), London: Verso, 2016.
+* Neuhouser, Frederick, 2022, *Diagnosing Social Pathology: Rousseau, Hegel, Marx, and Durkheim*, Cambridge: Cambridge University Press.
+* Neumann, Franz L., 1944, *Behemoth: The Structure and Practice of National Socialism, 1933–1944*, New York: Oxford University Press.
+* Ng, Julia, 2023, “The Action of Non-Action: Walter Benjamin, Wu Wei and the Nature of Capitalism”, *Theory, Culture & Society*, 40(4–5): 219–238. doi:10.1177/02632764231169944
+* Ng, Karen, 2015, “Ideology Critique from Hegel and Marx to Critical Theory”, *Constellations*, 22(3): 393–404. doi:10.1111/1467-8675.12170
+* O’Connor, Brian, 2004, *Adorno’s Negative Dialectic: Philosophy and the Possibility of a Critical Rationality*, Cambridge, MA: MIT Press.
+* Offe, Claus, 1984, *Contradictions of the Welfare State*, John Keane (ed.), Cambridge, MA: The MIT Press.
+* Outlaw, Lucius T., Jr., 2005, *Critical Social Theory in the Interests of Black Folks*, London: Rowman & Littlefield.
+* Owen, David, 2002, “Criticism and Captivity: On Genealogy and Critical Theory”, *European Journal of Philosophy*, 10: 216–230. doi:10.1111/1468-0378.00158
+* Pensky, Max, 1993, *Melancholy Dialectics: Walter Benjamin and the Play of Mourning*, Amherst, MA: University of Massachusetts Press.
+* –––, 2019, “Western Marxism: Revolutions in Theory”, in Peter Gordon and Warren Breckman (eds.), *The Cambridge History of Modern European Thought, Volume 2: The Twentieth Century*, Cambridge: Cambridge University Press, pp. 259–288.
+* Pickford, Henry, 2023, “Adorno and the Categories of Resistance”, *Constellations*. doi:10.1111/1467-8675.12652
+* Pollock, Friedrich, 1941, “State Capitalism: Its Possibilities and Limitations”, *Studies in Philosophy and Social Science*, 9: 200–225.
+* Postone, Moishe, 1980, “Anti-Semitism and National Socialism: Notes on the German Reaction to ‘Holocaust’ ”, *New German Critique*, 19: 97–115. doi:10.2307/487974
+* –––, 1993, *Time, Labor, and Domination: A Reinterpretation of Marx’s Critical Theory*, Cambridge: Cambridge University Press.
+* Rabinbach, Anson, 2000, “Why Were the Jews Sacrificed? The Place of Anti-Semitism in *Dialectic of Enlightenment”*, _New German Critiqu_e, 81: 49–64. doi:10.2307/488545
+* Rawls, John, 1993, *Political Liberalism*, New York: Columbia University Press.
+* –––, 1995, “Political Liberalism: Reply to Habermas”, *The Journal of Philosophy*, 92(3): 132–180. doi:10.2307/2940843
+* Redecker, Eva von, 2018, *Praxis und Revolution*, Frankfurt am Main: Campus; translated as *Praxis and Revolution: A Theory of Social Transformation*, Lucy Duggan (trans.), New York: Columbia University Press, 2022.
+* –––, 2020, “Ownership’s Shadow: Neoauthoritarianism as Defense of Phantom Possession”, *Critical Times*, 3(1): 33–67. doi:10.1215/26410478-8189849
+* Renault, Emmanuel, 2004, *L’expérience de l’injustice: Reconnaissance et clinique de l’injustice*, Paris: La Découverte; translated as *The Experience of Injustice: A Theory of Recognition*, Richard A. Lynch (trans.), New York: Columbia University Press, 2019.
+* –––, 2008, *Souffrances sociales: Sociologie, psychologie et politique*, Paris: La Découverte; translated as *Social Suffering: Sociology, Psychology, Politics*, Maude Dews (trans.), London: Rowman & Littlefield International, 2017.
+* Rensmann, Lars, 2017, *The Politics of Unreason: The Frankfurt School and the Origins of Modern Antisemitism*, Albany, NY: State University of New York Press.
+* Roberts, Neil, 2015, *Freedom as Marronage*, Chicago: University of Chicago Press.
+* Rorty, Richard, 1985, “Habermas and Lyotard on Postmodernism”, in Richard J. Bernstein (ed.), *Habermas and Modernity*, Cambridge, MA: MIT Press, pp. 161–75.
+* Rosa, Hartmut, 2016, *Resonanz: Eine Soziologie der Weltbeziehung*, Berlin: Suhrkamp; translated as *Resonance: A Sociology of Our Relationship to the World*, James C. Wagner (trans.), Cambridge: Polity, 2019.
+* Rosa, Hartmut, Christoph Henning, and Arthur Bueno (eds.), 2021, *Critical Theory and New Materialisms*, New York: Routledge.
+* Rosen, Michael, 1996, *On Voluntary Servitude: False Consciousness and the Theory of Ideology*, Cambridge, MA: Harvard University Press.
+* Rössler, Beate, 2007, “Work, Recognition, Emancipation”, in Bert van den Brink and David Owen (eds.), *Recognition and Power: Axel Honneth and the Tradition of Critical Social Theory*. Cambridge: Cambridge University Press, pp. 135–163.
+* Saar, M. 2002, “Genealogy and Subjectivity”, *European Journal of Philosophy*, 10(2): 231–245. doi:10.1111/1468-0378.00159
+* –––, 2018, “What Is Social Philosophy? Or: Order, Practice, Subject”, *Proceedings of the Aristotelian Society*, 118(2): 207–223. doi:10.1093/arisoc/aoy009
+* –––, 2020, “Rethinking Resistance: Critical Theory before and after Deleuze”, *Coils of the Serpent: Journal for the Study of Contemporary Power*, 5(6): 68–80. \[[Saar 2020 available online](https://ul.qucosa.de/api/qucosa%3A72855/attachment/ATT-0/)].
+* Said, Edward, 1993, *Culture and Imperialism*, New York: Vintage.
+* Schaub, Jörg, 2015, “Misdevelopments, Pathologies, and Normative Revolutions: Normative Reconstruction as Method of Critical Theory”, *Critical Horizons*, 16(2): 107–130. doi:10.1179/1440991715Z.00000000043
+* Scheuerman, William, 1994, *Between the Norm and the Exception: The Frankfurt School and the Rule of Law*, Cambridge, MA: MIT Press.
+* –––, (ed.), 1996, *The Rule of Law under Siege: Selected Essays of Franz L. Neumann and Otto Kirchheimer*, Berkeley: University of California Press.
+* –––, 2018, *Civil Disobedience*, Cambridge: Polity Press.
+* Sealey, Kris F. and Benjamin P. Davis (eds.), forthcoming, *Creolizing Critical Theory: New Voices in Caribbean Philosophy*, New York: Rowman & Littlefield.
+* Seeliger, Martin and Sebastian Sevignani (eds.), 2022, *Special Issue: A New Structural Transformation of the Public Sphere?*, *Theory, Culture & Society*, 39(4).
+* Shelby, Tommie, 2003, “Ideology, Racism, and Critical Social Theory”, *Philosophical Forum*, 34(2): 153–188. doi:10.1111/1467-9191.00132
+* Smith, William, 2013, *Civil Disobedience and Deliberative Democracy*, London: Routledge.
+* Stahl, Titus, 2013a, *Immanente Kritik: Elemente einer Theorie sozialer Praktiken*, Frankfurt: Campus; translated as *Immanent Critique*, John-Baptiste Oduor (trans.), London: Rowman & Littlefield, 2022.
+* –––, 2013b, “Habermas and the Project of Immanent Critique”, *Constellations*, 20(4): 533–552. doi:10.1111/1467-8675.12057
+* Stanley, Jason, 2015, *How Propaganda Works*, Princeton: Princeton University Press.
+* Thompson, Michael J. (ed.), 2017, *The Palgrave Handbook of Critical Theory*, New York: Palgrave Macmillan. doi:10.1057/978-1-137-55801-5
+* Vázquez-Arroyo, Antonio Y., 2018, “Critical Theory, Colonialism, and the Historicity of Thought”, *Constellations*, 25: 54–70. doi:10.1111/1467-8675.12348
+* Virno, Paolo, 2004, *A Grammar of the Multitude: For an Analysis of Contemporary Forms of Life*, New York: Semiotext(e).
+* Vogel, Steven, 1996, *Against Nature: The Concept of Nature in Critical Theory*, New York: SUNY Press.
+* –––, 2011, “On Nature and Alienation”, in Andrew Biro (ed.), *Critical Ecologies: The Frankfurt School and Contemporary Environmental Crises*, Toronto: University of Toronto Press.
+* Vogelmann, Frieder, 2016, “Measuring, Disrupting, Emancipating: Three Pictures of Critique”, *Constellations*, 24(1): 101–112. doi:10.1111/1467-8675.12254
+* –––, 2021, “One Step Forward, Two Steps Back: Idealism in Critical Theory”, *Constellations*, 28(3): 322–336. doi:10.1111/1467-8675.12548
+* Warner, Michael, 2002, *Publics and Counterpublics*, New York: Zone Books.
+* Wellmer, Albrecht, 1969, *Kritische* *Gesellschaftstheorie und Positivismus*, Frankfurt am Main: Suhrkamp; translated as *Critical Theory of Society*, John Gumming (trans.), New York: Herder and Herder, 1971.
+* –––, 1983, “Reason, Utopia, and the Dialectic of Enlightenment”, *Praxis International*, 3(2): 83–107.
+* –––, 1985/86, *Zur Dialektik von Moderne und Postmoderne*, Frankfurt am Main: Suhrkamp, 1985, and *Ethik und Dialog*, Frankfurt am Main: Suhrkamp, 1986. Portions of both books are translated in *The Persistence of Modernity: Aesthetics, Ethics and Postmodernism*, David Midgley (trans.), Cambridge, MA: MIT Press, 1991.
+* –––, 1993, *Endspiele: Die unversöhnliche Moderne*, Frankfurt am Main: Suhrkamp; translated as *Endgames: The Irreconcilable Nature of Modernity*, David Midgley (trans.), Cambridge, MA: MIT Press 1998.
+* –––, 2014, “On Critical Theory”, *Social Research*, 81(3): 705–733. doi:10.1353/sor.2014.0045
+* Wheatland, Thomas, 2009, *The Frankfurt School in Exile*, Minneapolis: University of Minnesota Press.
+* Whitebook, Joel, 1995, *Perversion and Utopia: A Study in Psychoanalysis and Critical Theory*, Cambridge, MA: MIT Press.
+* –––, 2021, “Misuse of Winnicott: On Axel Honneth’s Appropriation of Psychoanalysis”, *Constellations*, 28(3): 306–321. doi:10.1111/1467-8675.12582
+* Wiggershaus, Rolf, 1986, *Die Frankfurter Schule: Geschichte, theoretische Entwicklung, politische Bedeutung*, München: Hanser; translated as *The Frankfurt School: Its History, Theories, and Political Significance*, Michael Robertson (trans.), Cambridge, MA: MIT Press, 1994.
+* Wimbauer, Christine, 2023, “Taking Care Seriously: Gendering Honneth’s *The Working Sovereign – A Normative Theory of Work*”, *Journal of Classical Sociology*, 23(3): 389–400. doi:10.1177/1468795X231170827
+* Wolin, Richard, 1994, *Walter Benjamin: An Aesthetic of Redemption*, Berkeley: University of California Press.
+* Young, Iris Marion, 2000, *Inclusion and Democracy*, Oxford: Oxford University Press.
+* –––, 2001, “Activist Challenges to Deliberative Democracy”, *Political Theory*, 29(5): 670–90. doi:10.1177/0090591701029005004
+* –––, 2007, “Recognition of Love’s Labor: Considering Axel Honneth’s Feminism”, in Bert van den Brink and David Owen (eds.), *Recognition and Power: Axel Honneth and the Tradition of Critical Social Theory*. Cambridge: Cambridge University Press, pp. 189–212.
+* Zaretsky, Eli, 2022, “Donald Trump and the Paranoid Position”, *Critical Historical Studies*, 9(1): 133–157. doi:10.1086/719127
+* Zurn, Christopher, 2011, “Social pathologies as second-order disorders”, in Danielle Petherbridge (ed.), *Axel Honneth: Critical Essays*, Leiden: Brill, pp. 345–70.
+* –––, 2015, *Axel Honneth: A Critical Theory of the Social*, Cambridge: Polity.
 
 ## Academic Tools
 
@@ -722,7 +720,7 @@ Honneth 和 Jaeggi 的方法都体现了一种内在批判的概念，紧密联�
 * [International Consortium of Critical Theory Programs](https://criticaltheoryconsortium.org/)
 * [Critical Theory in the Global South](https://criticaltheory.northwestern.edu/mellon-project/critical-theory-in-the-global-south/)
 * [The Syllabus Exchange Platform](https://ktpluralisieren.net/eng/)
-* Bohman, James, “Critical Theory”, _Stanford Encyclopedia of Philosophy_ (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2023/entries/critical-theory/](https://plato.stanford.edu/archives/fall2023/entries/critical-theory/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=critical-theory).]
+* Bohman, James, “Critical Theory”, *Stanford Encyclopedia of Philosophy* (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2023/entries/critical-theory/](https://plato.stanford.edu/archives/fall2023/entries/critical-theory/). \[This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* – see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=critical-theory).]
 
 ## Related Entries
 
@@ -733,5 +731,5 @@ Honneth 和 Jaeggi 的方法都体现了一种内在批判的概念，紧密联�
 The authors would like to thank Amy Allen, Axel Honneth, Noëlle McAfee, and Martin Saar for their very helpful comments on earlier drafts and Christian Meyer for judicious editorial assistance.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Robin Celikates <[_robin.celikates@fu-berlin.de_](mailto:robin%2ecelikates%40fu-berlin%2ede)>\
-[Jeffrey Flynn](http://jeffreyflynn.weebly.com/) <[_jeflynn@fordham.edu_](mailto:jeflynn%40fordham%2eedu)>
+Robin Celikates <[*robin.celikates@fu-berlin.de*](mailto:robin%2ecelikates%40fu-berlin%2ede)>\
+[Jeffrey Flynn](http://jeffreyflynn.weebly.com/) <[*jeflynn@fordham.edu*](mailto:jeflynn%40fordham%2eedu)>

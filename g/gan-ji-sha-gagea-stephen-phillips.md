@@ -6,7 +6,6 @@
 
 纽亚雅是一个多维系统，相互交织的观点使其不符合印度哲学被理想主义和神秘主义取向的刻板印象。该学派的创始文本是纽亚雅经（约公元 100 年），在甘吉沙之前就已经引发了大量评论。纽亚雅在日常谈论和体验的对象方面是广义的现实主义者。甘吉沙提出了一种可以称之为知识和理由的可靠主义理论，事实上是一种超可靠主义，对于外部主义者来说，知识的来源——感知、推理、类比和证词，他的主要关注点——被构想为事实性的。他最重要的成就之一是对一般知识和作为推理基础的自然“普遍性”的定义，以及对知识传递中的意义的条件的分析。他还以简洁的方式阐述了主要类型的谬误和认识论的否定者。甘吉沙提出并在长篇论述中辩护了（a）自我作为一种特殊物质的论证，（b）证明了他在辩论和推理理论中的神论论证，以及（c）对“解脱”（mukti）可能性的辩护，这既活跃了早期纽亚雅的观点——特别是瓦兹亚亚纳（约公元 400 年）——也在其他几个传统和学派中产生了影响。纽亚雅本身有一部丰富的文学作品，延伸至现代，并且在传统学者中延续至今。
 
- 
 ---
 
 ## 1. 历史细节
@@ -119,9 +118,9 @@
 
 > | *pakṣa*            | (a) 推理主体；一个典型例子中的山                           |
 > | ------------- | ------------------------------------------------------------ |
-> | * 修行*     | (H) 证明者（“hetu”是一个同义词）；烟熏味                 |
-> | * 所证明的* | (S) 被证明的属性；火热                                     |
-> | * 涵盖*     | ∀x(Hx→Sx) 推理基础 普遍性;<br />“无论烟在何处，火就在那里” |
+> | *修行*     | (H) 证明者（“hetu”是一个同义词）；烟熏味                 |
+> | *所证明的* | (S) 被证明的属性；火热                                     |
+> | *涵盖*     | ∀x(Hx→Sx) 推理基础 普遍性;<br />“无论烟在何处，火就在那里” |
 
 例如，他对一个推理主体，pakṣa (2020: 734) 进行了表征:
 
@@ -327,55 +326,54 @@ Gaṅgeśa 的定义旨在解决关于非位置普及属性的推理问题，比
 * **Perception** chapter.
   
   > **Editions**.
-  > 
+  >
   > 1. Ed. N.S. Ramanuja Tatacharya. 1972. With the *Prakāśa* commentary by Rucidatta Miśra and a subcommentary by Rāmakṛṣṇādhvarin. Kendriya Sanskrit Vidyapeetha Series 20. Tirupati.
   > 2. Ed. Kamakhyanath Tarkavagish. 1884–1901 (reprint 1991). With the *Māthurī* commentary of Mathurānātha. Calcutta: Asiatic Society.
-  > 
+  >
   > **Translation**. V.P. Bhatta. 2012. *Perception, the Pratyakṣa khaṇḍa of the Tattvacintāmaṇi*. Delhi: Eastern Book Linkers.
-  > 
+  >
   > **Translation of sections**. The *jnapti-vāda*: Mohanty 1989. The *abhāva-vāda*: Matilal 1968. The *nirvikalpaka-vāda*: Sibajiban Bhattacharyya 1993. *Gaṅgeśa’s Theory of Indeterminate Perception*, Part Two. New Delhi: Indian Council of Philosophical Research.
   
 * **Inference** chapter.
   
   > **Editions**
-  > 
+  >
   > 1. Ed. N.S. Ramanuja Tatacharya. 1982 and 1999. With the *Prakāśa* commentary by Rucidatta Miśra and a subcommentary by Dharmarājādhvarin. 2 vols. Kendriya Sanskrit Vidyapeetha Series 33. Tirupati.
   > 2. Ed. Kamakhyanath Tarkavagish. 1884–1901 (reprint 1991). With the commentary of Mathurānātha. 2 vols. Calcutta: Asiatic Society.
-  > 
+  >
   > **Translation of sections**. The *vyāpti-vāda*: C. Goekoop. 1967. *The Logic of Invariable Concomitance in the Tattvacintāmaṇi*. Dordrecht: D. Reidel. The *vyāpti-graha-vāda*: Mrinalkanti Gangopadhyay. 1975. “Gaṅgeśa on Vyāptigraha: The Means for the Ascertainment of Invariable Concomitance.” *Journal of Indian Philosophy* 3:167–208. The *upādhi-vāda*:
-  > 
+  >
   > 1. Erich Frauwallner, *Die Lehre von der Zusätzlichen Bestimmung in Gaṅgeśa’s Tattvacintāmaṇi*. Vienna: Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse, Sitzungsberichte, 266. Band 2. Abhandlung, 1970.
   > 2. Kisor Chakrabarti 2010. The *pakṣatā-vāda*: Dravid 2007. The *kevalânvaya-vāda*: Matilal 1968b. The *īśvarânumāna-vāda*: John Vattanky. 1984. *Gaṅgeśa’s Philosophy of God*. Madras: Adyar.
   
 * **Analogy** chapter.
   
   > **Editions**
-  > 
+  >
   > 1. Ed. Gaurinath Sastri. 1983. With the *Pragalbhī* commentary by Pragalbhācārya. Varanasi: Sampurnanand Sanskrit University.
   > 2. Ed. Kamakhanath Tarkavagish. With the *Dīpanī* commentary by Kṛṣṇakānta (reprint 1990). Calcutta: Asiatic Society.
   
 * **Testimony** chapter.
   
   > **Editions**
-  > 
+  >
   > 1. Ed. Kamakhyanath Tarkavagish. 1884–1901 (reprint 1990). With the commentaries of Mathurānātha and Jayadeva. 2 vols. Calcutta: Asiatic Society.
   > 2. Ed. S.R. Saha and P.K. Mukhopadhyaya, *The Śabdakhaṇḍa of Gaṅgeśa’s Tattvacintāmaṇi*, Calcutta: Jadavpur Univesity and K.P. Bagchi. 1991.
-  > 
+  >
   > **Translation**. V.P. Bhatta. 2005. 2 vols. Delhi: Eastern Book Linkers.
-  > 
+  >
   > **Translation of sections**: The *vidhi-vāda*: V.N. Jha. 1987. *The Philosophy of Injunctions*. Delhi: Pratibha Prakashan. The *apūrva-vāda*: V.N. Jha, 1986. *The Logic of the Intermediate Causal Link*. Delhi: Sri Satguru Publications. The section on *yoga-rūḍhi*: Subash Chandra Dash. 1992. *Gaṅgeśa on Yogarūḍhi*. Delhi: Sri Satguru Publications. The *ākhyāta-vāda*: Toshihoru Wada, in four installments:
-  > 
+  >
   > 1. 2007. “Gaṅgeśa on the Meaning of Verbal Suffixes 1,” in K. Preisendanz, ed. *Expanding and Merging Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm Halbfass*. Vienna: Austrian Academy of Sciences, pp. 415-29;
   > 2. 2012. “Gaṅgeśa on the Meaning of Verbal Suffixes 2,” in C. Watanabe, M. Desmarais, and Y. Honda, eds., *Saṃskṛta-Sādhutā: Goodness of Sanskrit: Studies in Honor of Professor Ashok N. Aklujkar*. New Delhi: D. K. Printworld, pp. 528-44;
   > 3. 2013. “Gaṅgeśa on the Meaning of Verbal Suffixes 3,” *Nagoya Studies in Indian Culure and Buddhism: Saṃbhāṣā* 30:1-14;
   > 4. 2014. “Gaṅgeśa on the Meaning of Verbal Suffixes,” *Sanskrit Studies* 3: 178-209.
-  > 
+  >
   > The *dhātu-vāda*: Toshihoru Wada, in two installments:
-  > 
+  >
   > 1. 2115. “Gaṅgeśa on the Meaning of Verbal Roots (*dhātu*),” *Indologica Taurinensia* 41-42: 193-218;
   > 2. 2016. “Gaṅgeśa on the Meaning of Verbal Roots (*dhātu*),”*Journal of UA Foundation for Indological Studies*, vol. 2: *Festschrift Professor Karl H. Potter*, pp. 35-50.
   
-
 #### Other Primary Literature
 
 * Dharmakīrti. *Vāda-nyāya*. Tr. Pradeep P. Gokhale. 1993. *Vādanyāya of Dharmakīrti: The Logic of Debate*. Delhi: Sri Satguru Publications.

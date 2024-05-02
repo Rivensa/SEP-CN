@@ -1,9 +1,9 @@
 # 隐喻 metaphor (David Hills)
 
-_首次发表于2011年8月19日，实质修订于2022年8月12日。_
+*首次发表于2011年8月19日，实质修订于2022年8月12日。*
 
 隐喻是一种诗意或修辞上雄心勃勃的词语使用，是一种比喻性的而非字面上的使用。它引起了比传统上被认可的其他修辞手法更多的哲学兴趣和哲学争议。
- 
+
 ***
 
 ## 1. 部件的命名
@@ -544,124 +544,124 @@ Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进�
 
 ## Bibliography
 
-* Aristotle, 1987, _Rhetoric: A Theory of Civic Discourse_, George A. Kennedy (trans.), Oxford: Oxford University Press, 1987.
-* –––, 1987, _Poetics I, With the Tractatus Coislinianus, a Hypothetical Reconstruction of Poetics II, and the Fragments of the On the Poets_, Richard Janko (trans.), Indianapolis: Hackett, 1987.
-* –––, 2018, _Rhetoric,_ C.D.C. Reeve (trans.), Indianapolis: Hackett.
-* Bach, Kent, 2005, “Context _Ex Machina_,” in _Semantics vs. Pragmatics_, Zoltan Szabó (ed.), Oxford and New York: Oxford University Press, pp. 15–44.
-* Barfield, Owen, 1962, “Poetic Diction and Legal Fiction,” in _The Importance of Language_, Max Black (ed.), Englewood Cliffs, New Jersey: Prentice-Hall, 1962, 57–71.
-* Beardsley, Monroe C., 1962, “The Metaphorical Twist,” _Philosophy and Phenomenological Research_, 22(3): 293–307.
-* Bezuidenhout, Anne, 2001, “Metaphor and What is Said: A Defense of a Direct Expression View of Metaphor,” _Midwest Studies in Philosophy_, 25(1): 156–86.
-* –––, 2002, “Truth Conditional Pragmatics,” _Philosophical Perspectives_, 16: 105–34.
-* Black, Max, 1954, “Metaphor,” _Proceedings of the Aristotelian Society_, 55: 273–94.
-* Blasko, Dawn G. and Cynthia M. Connine, 1993, “Effects of Familiarity and Aptness on Metaphor Processing,” _Journal of Experimental Psychology: Learning, Memory, and Cognition_ 19(2): 295–308.
-* Borg, Emma, 2004. _Minimal Semantics_, Oxford: Oxford University Press.
-* Boys-Stones, G.R. (ed.), 2003, _Metaphor, Allegory, and the Classical Tradition: Ancient Thought and Modern Revisions_, Oxford and New York: Oxford University Press.
-* Bowdle, Brian F. and Dedre Gentner, 2005, “The Career of Metaphor,” _Psychological Review_ 112(1): 193–216.
-* Brooke-Rose, Christine, 1958, _A Grammar of Metaphor,_ London: Secker & Warburg.
-* Brooks, Cleanth, 1947, “The Heresy of Paraphrase,” in _The Well Wrought Urn: Studies in the Structure of Poetry_, New York: Reynal & Hitchcock, 1947, 192–214.
-* Camp, Elisabeth, 2006, “Contextualism, Metaphor, and What is Said,” _Mind & Language_, 21(3): 280–309.
-* –––, 2006. “Metaphor and That Certain ‘Je Ne Sais Quoi’,” _Philosophical Studies_ 129(1): 1–25.
-* –––, 2013, “Metaphor and Varieties of Meaning,” in _A Companion to Donald Davidson,_ Ernest Lepore and Kirk Ludwig (eds.), Hoboken: Wiley-Blackwell, 361–78.
-* Cappelen, Herman, and Ernie Lepore, 2005, _Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism_, Oxford: Blackwell Publishing.
-* Carston, Robyn, 2002, “The Pragmatics of On-Line Concept Construction,” in _Thoughts and Utterances: The Pragmatics of Explicit Communication_, Malden, MA and Oxford: Blackwell Publishing, 320–75.
-* Cavell, Stanley, 1969, “Aesthetic Problems of Modern Philosophy,” in _Must We Mean What We Say? A Book of Essays_, New York: Charles Scribner’s Sons, 73–96.
-* Cicero, _De Oratore_, in _On the Ideal Orator_, James M. May and Jakob Wisse (trans.), London and New York: Oxford University Press, 2001.
-* Clark, Billy, 2003, _Relevance Theory._ Cambridge and New York: Cambridge University Press.
-* Clark, Herbert H., 1992, “Making Sense of Nonce Sense,” in _Arenas of Language Use_, Chicago and London: Chicago University Press and CSLI, 305–40.
-* Cohen, Ted, 1978, “Metaphor and the Cultivation of Intimacy,” _Critical Inquiry_, 5(1): 3–12.
-* –––, 2008, _Thinking of Others: On the Talent for Metaphor_, Princeton: Princeton University Press.
-* Croft, William and D. Alan Cruse, 2004, _Cognitive Linguistics_, Cambridge and New York: Cambridge University Press.
-* Currie, Gregory and Jacopo Frascaroli, 2021, “Poetry and the Possibility of Paraphrase,” _Journal of Aesthetics and Art Criticism_ 79(4): 428–39.
-* Dancygier, Barbara and Eve Sweetser. _Figurative Language_, Cambridge: Cambridge University Press, 2014.
-* Davidson, Donald, 1978, “What Metaphors Mean.” _Critical Inquiry_, 5(1) : 31–47. Reprinted in _Inquiries into Truth and Interpretation_, Oxford and New York: Oxford University Press, 1984, 245–264.
+* Aristotle, 1987, *Rhetoric: A Theory of Civic Discourse*, George A. Kennedy (trans.), Oxford: Oxford University Press, 1987.
+* –––, 1987, *Poetics I, With the Tractatus Coislinianus, a Hypothetical Reconstruction of Poetics II, and the Fragments of the On the Poets*, Richard Janko (trans.), Indianapolis: Hackett, 1987.
+* –––, 2018, *Rhetoric,* C.D.C. Reeve (trans.), Indianapolis: Hackett.
+* Bach, Kent, 2005, “Context *Ex Machina*,” in *Semantics vs. Pragmatics*, Zoltan Szabó (ed.), Oxford and New York: Oxford University Press, pp. 15–44.
+* Barfield, Owen, 1962, “Poetic Diction and Legal Fiction,” in *The Importance of Language*, Max Black (ed.), Englewood Cliffs, New Jersey: Prentice-Hall, 1962, 57–71.
+* Beardsley, Monroe C., 1962, “The Metaphorical Twist,” *Philosophy and Phenomenological Research*, 22(3): 293–307.
+* Bezuidenhout, Anne, 2001, “Metaphor and What is Said: A Defense of a Direct Expression View of Metaphor,” *Midwest Studies in Philosophy*, 25(1): 156–86.
+* –––, 2002, “Truth Conditional Pragmatics,” *Philosophical Perspectives*, 16: 105–34.
+* Black, Max, 1954, “Metaphor,” *Proceedings of the Aristotelian Society*, 55: 273–94.
+* Blasko, Dawn G. and Cynthia M. Connine, 1993, “Effects of Familiarity and Aptness on Metaphor Processing,” *Journal of Experimental Psychology: Learning, Memory, and Cognition* 19(2): 295–308.
+* Borg, Emma, 2004. *Minimal Semantics*, Oxford: Oxford University Press.
+* Boys-Stones, G.R. (ed.), 2003, *Metaphor, Allegory, and the Classical Tradition: Ancient Thought and Modern Revisions*, Oxford and New York: Oxford University Press.
+* Bowdle, Brian F. and Dedre Gentner, 2005, “The Career of Metaphor,” *Psychological Review* 112(1): 193–216.
+* Brooke-Rose, Christine, 1958, *A Grammar of Metaphor,* London: Secker & Warburg.
+* Brooks, Cleanth, 1947, “The Heresy of Paraphrase,” in *The Well Wrought Urn: Studies in the Structure of Poetry*, New York: Reynal & Hitchcock, 1947, 192–214.
+* Camp, Elisabeth, 2006, “Contextualism, Metaphor, and What is Said,” *Mind & Language*, 21(3): 280–309.
+* –––, 2006. “Metaphor and That Certain ‘Je Ne Sais Quoi’,” *Philosophical Studies* 129(1): 1–25.
+* –––, 2013, “Metaphor and Varieties of Meaning,” in *A Companion to Donald Davidson,* Ernest Lepore and Kirk Ludwig (eds.), Hoboken: Wiley-Blackwell, 361–78.
+* Cappelen, Herman, and Ernie Lepore, 2005, *Insensitive Semantics: A Defense of Semantic Minimalism and Speech Act Pluralism*, Oxford: Blackwell Publishing.
+* Carston, Robyn, 2002, “The Pragmatics of On-Line Concept Construction,” in *Thoughts and Utterances: The Pragmatics of Explicit Communication*, Malden, MA and Oxford: Blackwell Publishing, 320–75.
+* Cavell, Stanley, 1969, “Aesthetic Problems of Modern Philosophy,” in *Must We Mean What We Say? A Book of Essays*, New York: Charles Scribner’s Sons, 73–96.
+* Cicero, *De Oratore*, in *On the Ideal Orator*, James M. May and Jakob Wisse (trans.), London and New York: Oxford University Press, 2001.
+* Clark, Billy, 2003, *Relevance Theory.* Cambridge and New York: Cambridge University Press.
+* Clark, Herbert H., 1992, “Making Sense of Nonce Sense,” in *Arenas of Language Use*, Chicago and London: Chicago University Press and CSLI, 305–40.
+* Cohen, Ted, 1978, “Metaphor and the Cultivation of Intimacy,” *Critical Inquiry*, 5(1): 3–12.
+* –––, 2008, *Thinking of Others: On the Talent for Metaphor*, Princeton: Princeton University Press.
+* Croft, William and D. Alan Cruse, 2004, *Cognitive Linguistics*, Cambridge and New York: Cambridge University Press.
+* Currie, Gregory and Jacopo Frascaroli, 2021, “Poetry and the Possibility of Paraphrase,” *Journal of Aesthetics and Art Criticism* 79(4): 428–39.
+* Dancygier, Barbara and Eve Sweetser. *Figurative Language*, Cambridge: Cambridge University Press, 2014.
+* Davidson, Donald, 1978, “What Metaphors Mean.” *Critical Inquiry*, 5(1) : 31–47. Reprinted in *Inquiries into Truth and Interpretation*, Oxford and New York: Oxford University Press, 1984, 245–264.
 * –––, 1986, “A Nice Derangement of Epitaphs,” in Truth and Interpretation: Perspectives on the Philosophy of Donald Davidson, Ernest Lepore (ed.), Oxford and New York: Blackwell, 433–46.
-* –––, 2005, “Locating Literary Language,” in _Truth, Language, and History_, Oxford: Clarendon Press, 167–181.
-* Davis, Wayne A., 1998, _Implicature: Intention, Convention, and Principle in the Failure of Gricean Theory_, New York: Cambridge University Press.
-* Donnellan, Keith S., 1966, “Reference and Definite Descriptions”, _Philosophical Review_, 75(3): 281–304.
-* Donoghue, Denis, 2014, _Metaphor_, Cambridge, Massachusetts and London: Harvard University Press.
-* Fauconnier, Gilles, 1994, _Mental Spaces: Aspects of Meaning Construction in Natural Languages_, New York: Cambridge University Press.
-* Fauconnier, Gilles, and Mark Turner, 1998, “Conceptual Integration Networks,” _Cognitive Science_, 22(2): 133–187.
-* –––, 2002, _The Way We Think: Conceptual Blending and the Mind’s Hidden Complexities_, New York: Basic Books.
-* Fogelin, Robert J., 1988, _Figuratively Speaking_, New Haven: Yale University Press. A revised edition was issued by Oxford University Press in 2011.
-* Frye, Northrop, 1957, _Anatomy of Criticism: Four Essays_, Princeton: Princeton University Press.
-* Gass, William H., 1972, “In Terms of the Toenail: Fiction and the Figures of Life,” in _Fiction and the Figures of Life_, New York: Vintage, 55–78.
-* –––, 1975, _On Being Blue: A Philosophical Inquiry_, Boston: David R. Godine.
-* Geary, James, 2011, _I is an Other: The Secret Life of Metaphor and How it Shapes the Way We See the World_, New York: HarperCollins.
-* Gibbs, Jr., Raymond W., 1994, _The Poetics of Mind: Figurative Thought, Language, and Understanding_. Cambridge and New York: Cambridge University Press.
-* –––, 2017, _Metaphor Wars: Conceptual Metaphors in Human Life,_ Cambridge and New York: Cambridge University Press.
-* Giora, Rachel, 2003, _On Our Mind: Salience, Context, and Figurative Language._ Oxford and New York: Oxford University Press.
-* Glucksberg, Sam, 2001, _Understanding Figurative Language: From Metaphors to Idioms._ Oxford and New York: Oxford University Press.
-* Glucksberg, Sam, Patricia Gildea, and Howard B. Booklin, 1982, “On Understanding Nonliteral Speech: Can People Ignore Metaphors?” _Journal of Verbal Learning and Verbal Behavior_, 21: 85–98.
-* Goatly, Andrew 2011, _The Language of Metaphors,_ 2nd ed. London and New York: Routledge.
-* Goodman, Nelson, 1976, _Languages of Art_, Indianapolis: Hackett Publishing Company.
-* –––, 1979, “Metaphor as Moonlighting,” _Critical Inquiry_, 6(1): 125–130.
-* Grice, Herbert Paul, 1989, “Logic and Conversation, Lecture 2” in _Studies in the Way of Words_, Cambridge, Massachusetts and London: Harvard University Press, 22–40.
-* Guetti, James L., 1993, “Gambling With Language: Metaphor,” in _Wittgenstein and the Grammar of Literary Experience_, Athens: University of Georgia Press, 122–146.
-* Halliwell, Stephen, 2002, _The Aesthetics of Mimesis: Ancient Texts and Modern Problems_, Princeton and Oxford: Princeton University Press.
-* Hills, David, 1997, “Aptness and Truth in Verbal Metaphor,” _Philosophical Topics_, 25(1): 117–153.
-* –––, 2008, “Problems of Paraphrase: Bottom’s Dream,” _Baltic International Yearbook of Cognition, Logic, and Communication_, 3. URL= [http://thebalticyearbook.org/journals/baltic/article/view/22/21](http://thebalticyearbook.org/journals/baltic/article/view/22/21)
-* –––, 2017, “The What and the How of Metaphorical Imagining, Part One.” _Philosophical Studies_ 174(1): 13–31.
-* Hollander, John, 1985, _Vision and Resonance: Two Senses of Poetic Form_, 2nd edition, New Haven: Yale University Press.
-* Holyoak, Keith James, 2019, _The Spider’s Thread: Metaphor in Mind, Brain, and Poetry._ Cambridge, Massachusetts: MIT Press.
-* Horn, Laurence R., 1988, _A Natural History of Negation_, Chicago, University of Chicago Press, 1988. A reissue edition with a new introduction was published by Stanford: CSLI Publications, 2001.
-* Kaplan, David, 1989, “Demonstratives,” in _Themes From Kaplan_, Joseph Almog, Howard K. Wettstein, and John Perry (eds.), New York: Oxford University Press, 481–563.
-* Kirby, John T., 1997, “Aristotle on Metaphor,” _The American Journal of Philology_, 118(4): 517–554.
-* Kittay, Eva Feder, 1987, _Metaphor: Its Cognitive Force and Linguistic Structure_, Oxford and New York: Clarendon Press.
-* Kövecses, Zoltán, 2010, _Metaphor: A Practical Introduction,_ 2nd ed. Oxford and New York: Oxford University Press.
-* Kripke, Saul, 1977, “Speaker’s Reference and Semantic Reference,” _Midwest Studies in Philosophy_, 2: 255–276.
-* Lakoff, George, 1993, “The Contemporary Theory of Metaphor.” In _Metaphor and Thought_, 2nd edition, Andrew Ortony (ed.), Cambridge: Cambridge University Press, 202–251.
-* Lakoff, George, and Mark Johnson, 2003, “Afterword,” in _Metaphors We Live By_, 2nd edition, Chicago and London: University of Chicago Press, 170–190.
-* Lamarque, Peter, 2015, “Semantic Finegrainedness and Poetic Value,” in _The Philosophy of Poetry,_ John Gibson (ed.), Oxford University Press, 18–36.
-* Lee, David, 2001, _Cognitive Linguistics: An Introduction_, Oxford and New York: Oxford University Press.
-* Lepore, Ernie, 2009, “The Heresy of Paraphrase: When the Medium Really is the Message,” _Midwest Studies in Philosophy_, 33(1): 177–97.
-* Lepore, Ernie, and Matthew Stone, 2010, “Against Metaphorical Meaning,” _Topoi_, 29(2): 165–180.
-* –––, 2015, _Imagination and Convention: Distinguishing Grammar and Inference in Language_, Oxford: Oxford University Press.
-* Levinson, Jerrold, 2001, “Who’s Afraid of a Paraphrase?” _Theoria_ 67(1): 7–23.
-* Levinson, Stephen C., 2000, _Presumptive Meanings: The Theory of Generalized Conversational Implicature_, Cambridge, Massachusetts: MIT Press.
-* Lewis, David, 1969, _Convention: A Philosophical Study_, Cambridge, Massachusetts: Harvard University Press.
-* –––, 1979, “Scorekeeping in a Language Game,” _Journal of Philosophical Logic_, 8(1): 339–357.
-* Littlemore, Jeanette, 2019, _Metaphors in the Mind: Sources of Variation in Embodied Metaphor,_ Cambridge: Cambridge University Press.
-* Lloyd, G.E.R., 1996, “The Metaphors of Metaphors,” in _Aristotelian Explorations_, Cambridge: Cambridge University Press, 205–222.
-* Martinich, A.P., 1984, “A Theory for Metaphor,” _Journal of Literary Semantics_, 13(1): 35–56.
-* Montague, Richard, 1974, _Formal Philosophy; Selected Papers of Richard Montague_, Richmond H. Thomason (ed.), New Haven: Yale University Press.
-* Moran, Richard, 1989, “Seeing and Believing: Metaphor, Image, and Force,” _Critical Inquiry_, 16(1): 87–112.
-* –––, 1996, “Artifice and Persuasion: The Work of Metaphor in the _Rhetoric_,” in _Essays on Aristotle’s Rhetoric_, Amelie Rorty (ed.), Berkeley: University of California Press.
-* Nowottny, Winifred, 1962, _The Language Poets Use_, New York: Oxford University Press.
-* Ortony, Andrew, 1979, “The Role of Similarity in Similes and Metaphors,” in _Metaphor and Thought_, 1st edition, Andrew Ortony (ed.), Cambridge: Cambridge University Press, 186–201.
-* Ortony, Andrew, Diane L. Schallert, Ralph E. Reynolds, and Stephen J. Antos, 1978, “Interpreting Metaphors and Idioms: Some Effects of Context on Comprehension,” _Journal of Verbal Learning and Verbal Behavior_, 17(4): 465–77.
-* Quintilian, _Institutio Oratoria_, in _The Orator’s Education_, 5. vols, Donald A. Russell (trans.), Loeb Classical Library, Cambridge, Massachusetts and London: Harvard University Press, 2001.
-* Recanati, François, 2004, _Literal Meaning_, Cambridge and New York: Cambridge University Press.
-* Reimer, Marga, 1996, “The Problem of Dead Metaphor,” _Philosophical Studies_, 82(1): 13–25.
-* –––, 2001, “Davidson on Metaphor,” _Midwest Studies in Philosophy_, 25(1): 142–156.
-* –––, 2004, “What Malapropisms Mean: A Reply to Donald Davidson,” _Erkenntnis_, 60(3): 317–334.
-* Reimer, Marga and Elisabeth Camp, 2008, “Metaphor,” in _Oxford Handbook of the Philosophy of Language,_ Ernest Lepore and Barry C. Smith (eds.), Oxford: Oxford University Press, 845–63.
-* Richards, Ivor A., 1936, _The Philosophy of Rhetoric_, London and New York: Oxford University Press.
-* Richie, L. David, 2013, _Metaphor (Key Topics in Semantics and Pragmatics)_, Cambridge and New York: Cambridge University Press.
-* Ricoeur, Paul, 1978, “The Metaphorical Process as Cognition, Imagination, and Feeling,” _Critical Inquiry_, 5(1): 143–159.
-* –––, 1977, _The Rule of Metaphor: Multi-Disciplinary Studies of the Creation of Meaning in Language_, Robert Czerny (trans.), Toronto and Buffalo: University of Toronto Press.
-* Saul, Jennifer M., 2001, “Review of Wayne A. Davis, _Implicature: Intention, Convention, and the Failure of Gricean Theory_,” _Noûs_, 35(4): 630–641.
-* Scott, Kate, Billy Clark, and Robyn Carston, eds, 2019, _Relevance, Pragmatics and Interpretation: Essays in Honour of Deirdre Wilson._ Cambridge: Cambridge University Press.
-* Scott, William C., 2006, “Similes in a Shifting Scene: _Iliad_, Book 11,” _Classical Philology_, 101(2): 103–114.
-* Searle, John R., 1979a, “Metaphor,” in _Expression and Meaning: Studies in the Theory of Speech Acts_, Cambridge and New York: Cambridge University Press, 76–116.
-* –––, 1979b, “Literal Meaning,” in _Expression and Meaning: Studies in the Theory of Speech Acts_, Cambridge and New York: Cambridge University Press, 117–36.
-* Skulsky, Harold, 1986, “Metaphorese.” _Noûs_, 20(3): 351–69.
-* –––, 1992, _Language Recreated: Seventeenth-Century Metaphorists and the Act of Metaphor_, Athens: University of Georgia Press.
-* Sparshott, Francis E., 1974, “ ‘As,’ Or the Limits of Metaphor,” _New Literary History_, 6(1): 75–94.
-* Sperber, Dan, and Deirdre Wilson, 1985, “Loose Talk,” _Proceedings of The Aristotelian Society_, 86: 153–171.
-* –––, 1995, _Relevance: Communication and Cognition_, 2nd edition, Oxford and Cambridge, Massachusetts: Blackwell.
-* –––, 2008, “A Deflationary Account of Metaphors,” in _The Cambridge Handbook of Metaphor and Thought_, Raymond W. Gibbs, Jr. (ed.), Cambridge and New York: Cambridge University Press, 84–105.
-* Stalnaker, Robert, 1999, _Context and Content: Essays on Intentionality in Speech and Thought_, Oxford and New York: Oxford University Press.
-* Stanley, Jason, 2007, _Language in Context: Selected Essays_, Oxford: Oxford University Press.
-* Stern, Josef, 2000, _Metaphor in Context_, Cambridge, Massachusetts: MIT Press.
-* Stryk, Lucien, and Takashi Ikemoto, 1995, _Zen Poetry: Let the Spring Breeze Enter_, New York: Grove Press.
-* Travis, Charles, 2008, “Introduction,” in _Occasion-Sensitivity: Selected Essays_, Oxford and New York: Oxford University Press, 1–16.
-* Turbayne, Colin Murray, 1970, _The Myth of Metaphor,_ rev ed., Columbia, South Carolina: University of South Carolina Press. First published by Yale University Press in 1962.
-* Turner, Mark, 1998, “Figure,” in _Figurative Language and Thought_, Albert N. Katz (ed.), New York and Oxford: Oxford University Press, 44–87.
-* Tversky, Amos, 1977, “Features of Similarity,” _Psychological Review_, 84(4): 327–352.
-* Walton, Kendall L, 1990, _Mimesis as Make-Believe: On the Foundations of the Representational Arts_, Cambridge, Massachusetts and London: Harvard University Press.
-* –––, 1993, “Metaphor and Prop Oriented Make-Believe,” _European Journal of Philosophy_, 1(1): 39–57.
-* White, Roger M., 1996, _The Structure of Metaphor: The Way the Language of Metaphor Works_, Oxford and Cambridge, MA: Blackwell.
-* Wilson, Deirdre, and Dan Sperber, 2002, “Truthfulness and Relevance,” _Mind_, 111(443): 583–632.
+* –––, 2005, “Locating Literary Language,” in *Truth, Language, and History*, Oxford: Clarendon Press, 167–181.
+* Davis, Wayne A., 1998, *Implicature: Intention, Convention, and Principle in the Failure of Gricean Theory*, New York: Cambridge University Press.
+* Donnellan, Keith S., 1966, “Reference and Definite Descriptions”, *Philosophical Review*, 75(3): 281–304.
+* Donoghue, Denis, 2014, *Metaphor*, Cambridge, Massachusetts and London: Harvard University Press.
+* Fauconnier, Gilles, 1994, *Mental Spaces: Aspects of Meaning Construction in Natural Languages*, New York: Cambridge University Press.
+* Fauconnier, Gilles, and Mark Turner, 1998, “Conceptual Integration Networks,” *Cognitive Science*, 22(2): 133–187.
+* –––, 2002, *The Way We Think: Conceptual Blending and the Mind’s Hidden Complexities*, New York: Basic Books.
+* Fogelin, Robert J., 1988, *Figuratively Speaking*, New Haven: Yale University Press. A revised edition was issued by Oxford University Press in 2011.
+* Frye, Northrop, 1957, *Anatomy of Criticism: Four Essays*, Princeton: Princeton University Press.
+* Gass, William H., 1972, “In Terms of the Toenail: Fiction and the Figures of Life,” in *Fiction and the Figures of Life*, New York: Vintage, 55–78.
+* –––, 1975, *On Being Blue: A Philosophical Inquiry*, Boston: David R. Godine.
+* Geary, James, 2011, *I is an Other: The Secret Life of Metaphor and How it Shapes the Way We See the World*, New York: HarperCollins.
+* Gibbs, Jr., Raymond W., 1994, *The Poetics of Mind: Figurative Thought, Language, and Understanding*. Cambridge and New York: Cambridge University Press.
+* –––, 2017, *Metaphor Wars: Conceptual Metaphors in Human Life,* Cambridge and New York: Cambridge University Press.
+* Giora, Rachel, 2003, *On Our Mind: Salience, Context, and Figurative Language.* Oxford and New York: Oxford University Press.
+* Glucksberg, Sam, 2001, *Understanding Figurative Language: From Metaphors to Idioms.* Oxford and New York: Oxford University Press.
+* Glucksberg, Sam, Patricia Gildea, and Howard B. Booklin, 1982, “On Understanding Nonliteral Speech: Can People Ignore Metaphors?” *Journal of Verbal Learning and Verbal Behavior*, 21: 85–98.
+* Goatly, Andrew 2011, *The Language of Metaphors,* 2nd ed. London and New York: Routledge.
+* Goodman, Nelson, 1976, *Languages of Art*, Indianapolis: Hackett Publishing Company.
+* –––, 1979, “Metaphor as Moonlighting,” *Critical Inquiry*, 6(1): 125–130.
+* Grice, Herbert Paul, 1989, “Logic and Conversation, Lecture 2” in *Studies in the Way of Words*, Cambridge, Massachusetts and London: Harvard University Press, 22–40.
+* Guetti, James L., 1993, “Gambling With Language: Metaphor,” in *Wittgenstein and the Grammar of Literary Experience*, Athens: University of Georgia Press, 122–146.
+* Halliwell, Stephen, 2002, *The Aesthetics of Mimesis: Ancient Texts and Modern Problems*, Princeton and Oxford: Princeton University Press.
+* Hills, David, 1997, “Aptness and Truth in Verbal Metaphor,” *Philosophical Topics*, 25(1): 117–153.
+* –––, 2008, “Problems of Paraphrase: Bottom’s Dream,” *Baltic International Yearbook of Cognition, Logic, and Communication*, 3. URL= [http://thebalticyearbook.org/journals/baltic/article/view/22/21](http://thebalticyearbook.org/journals/baltic/article/view/22/21)
+* –––, 2017, “The What and the How of Metaphorical Imagining, Part One.” *Philosophical Studies* 174(1): 13–31.
+* Hollander, John, 1985, *Vision and Resonance: Two Senses of Poetic Form*, 2nd edition, New Haven: Yale University Press.
+* Holyoak, Keith James, 2019, *The Spider’s Thread: Metaphor in Mind, Brain, and Poetry.* Cambridge, Massachusetts: MIT Press.
+* Horn, Laurence R., 1988, *A Natural History of Negation*, Chicago, University of Chicago Press, 1988. A reissue edition with a new introduction was published by Stanford: CSLI Publications, 2001.
+* Kaplan, David, 1989, “Demonstratives,” in *Themes From Kaplan*, Joseph Almog, Howard K. Wettstein, and John Perry (eds.), New York: Oxford University Press, 481–563.
+* Kirby, John T., 1997, “Aristotle on Metaphor,” *The American Journal of Philology*, 118(4): 517–554.
+* Kittay, Eva Feder, 1987, *Metaphor: Its Cognitive Force and Linguistic Structure*, Oxford and New York: Clarendon Press.
+* Kövecses, Zoltán, 2010, *Metaphor: A Practical Introduction,* 2nd ed. Oxford and New York: Oxford University Press.
+* Kripke, Saul, 1977, “Speaker’s Reference and Semantic Reference,” *Midwest Studies in Philosophy*, 2: 255–276.
+* Lakoff, George, 1993, “The Contemporary Theory of Metaphor.” In *Metaphor and Thought*, 2nd edition, Andrew Ortony (ed.), Cambridge: Cambridge University Press, 202–251.
+* Lakoff, George, and Mark Johnson, 2003, “Afterword,” in *Metaphors We Live By*, 2nd edition, Chicago and London: University of Chicago Press, 170–190.
+* Lamarque, Peter, 2015, “Semantic Finegrainedness and Poetic Value,” in *The Philosophy of Poetry,* John Gibson (ed.), Oxford University Press, 18–36.
+* Lee, David, 2001, *Cognitive Linguistics: An Introduction*, Oxford and New York: Oxford University Press.
+* Lepore, Ernie, 2009, “The Heresy of Paraphrase: When the Medium Really is the Message,” *Midwest Studies in Philosophy*, 33(1): 177–97.
+* Lepore, Ernie, and Matthew Stone, 2010, “Against Metaphorical Meaning,” *Topoi*, 29(2): 165–180.
+* –––, 2015, *Imagination and Convention: Distinguishing Grammar and Inference in Language*, Oxford: Oxford University Press.
+* Levinson, Jerrold, 2001, “Who’s Afraid of a Paraphrase?” *Theoria* 67(1): 7–23.
+* Levinson, Stephen C., 2000, *Presumptive Meanings: The Theory of Generalized Conversational Implicature*, Cambridge, Massachusetts: MIT Press.
+* Lewis, David, 1969, *Convention: A Philosophical Study*, Cambridge, Massachusetts: Harvard University Press.
+* –––, 1979, “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8(1): 339–357.
+* Littlemore, Jeanette, 2019, *Metaphors in the Mind: Sources of Variation in Embodied Metaphor,* Cambridge: Cambridge University Press.
+* Lloyd, G.E.R., 1996, “The Metaphors of Metaphors,” in *Aristotelian Explorations*, Cambridge: Cambridge University Press, 205–222.
+* Martinich, A.P., 1984, “A Theory for Metaphor,” *Journal of Literary Semantics*, 13(1): 35–56.
+* Montague, Richard, 1974, *Formal Philosophy; Selected Papers of Richard Montague*, Richmond H. Thomason (ed.), New Haven: Yale University Press.
+* Moran, Richard, 1989, “Seeing and Believing: Metaphor, Image, and Force,” *Critical Inquiry*, 16(1): 87–112.
+* –––, 1996, “Artifice and Persuasion: The Work of Metaphor in the *Rhetoric*,” in *Essays on Aristotle’s Rhetoric*, Amelie Rorty (ed.), Berkeley: University of California Press.
+* Nowottny, Winifred, 1962, *The Language Poets Use*, New York: Oxford University Press.
+* Ortony, Andrew, 1979, “The Role of Similarity in Similes and Metaphors,” in *Metaphor and Thought*, 1st edition, Andrew Ortony (ed.), Cambridge: Cambridge University Press, 186–201.
+* Ortony, Andrew, Diane L. Schallert, Ralph E. Reynolds, and Stephen J. Antos, 1978, “Interpreting Metaphors and Idioms: Some Effects of Context on Comprehension,” *Journal of Verbal Learning and Verbal Behavior*, 17(4): 465–77.
+* Quintilian, *Institutio Oratoria*, in *The Orator’s Education*, 5. vols, Donald A. Russell (trans.), Loeb Classical Library, Cambridge, Massachusetts and London: Harvard University Press, 2001.
+* Recanati, François, 2004, *Literal Meaning*, Cambridge and New York: Cambridge University Press.
+* Reimer, Marga, 1996, “The Problem of Dead Metaphor,” *Philosophical Studies*, 82(1): 13–25.
+* –––, 2001, “Davidson on Metaphor,” *Midwest Studies in Philosophy*, 25(1): 142–156.
+* –––, 2004, “What Malapropisms Mean: A Reply to Donald Davidson,” *Erkenntnis*, 60(3): 317–334.
+* Reimer, Marga and Elisabeth Camp, 2008, “Metaphor,” in *Oxford Handbook of the Philosophy of Language,* Ernest Lepore and Barry C. Smith (eds.), Oxford: Oxford University Press, 845–63.
+* Richards, Ivor A., 1936, *The Philosophy of Rhetoric*, London and New York: Oxford University Press.
+* Richie, L. David, 2013, *Metaphor (Key Topics in Semantics and Pragmatics)*, Cambridge and New York: Cambridge University Press.
+* Ricoeur, Paul, 1978, “The Metaphorical Process as Cognition, Imagination, and Feeling,” *Critical Inquiry*, 5(1): 143–159.
+* –––, 1977, *The Rule of Metaphor: Multi-Disciplinary Studies of the Creation of Meaning in Language*, Robert Czerny (trans.), Toronto and Buffalo: University of Toronto Press.
+* Saul, Jennifer M., 2001, “Review of Wayne A. Davis, *Implicature: Intention, Convention, and the Failure of Gricean Theory*,” *Noûs*, 35(4): 630–641.
+* Scott, Kate, Billy Clark, and Robyn Carston, eds, 2019, *Relevance, Pragmatics and Interpretation: Essays in Honour of Deirdre Wilson.* Cambridge: Cambridge University Press.
+* Scott, William C., 2006, “Similes in a Shifting Scene: *Iliad*, Book 11,” *Classical Philology*, 101(2): 103–114.
+* Searle, John R., 1979a, “Metaphor,” in *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge and New York: Cambridge University Press, 76–116.
+* –––, 1979b, “Literal Meaning,” in *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge and New York: Cambridge University Press, 117–36.
+* Skulsky, Harold, 1986, “Metaphorese.” *Noûs*, 20(3): 351–69.
+* –––, 1992, *Language Recreated: Seventeenth-Century Metaphorists and the Act of Metaphor*, Athens: University of Georgia Press.
+* Sparshott, Francis E., 1974, “ ‘As,’ Or the Limits of Metaphor,” *New Literary History*, 6(1): 75–94.
+* Sperber, Dan, and Deirdre Wilson, 1985, “Loose Talk,” *Proceedings of The Aristotelian Society*, 86: 153–171.
+* –––, 1995, *Relevance: Communication and Cognition*, 2nd edition, Oxford and Cambridge, Massachusetts: Blackwell.
+* –––, 2008, “A Deflationary Account of Metaphors,” in *The Cambridge Handbook of Metaphor and Thought*, Raymond W. Gibbs, Jr. (ed.), Cambridge and New York: Cambridge University Press, 84–105.
+* Stalnaker, Robert, 1999, *Context and Content: Essays on Intentionality in Speech and Thought*, Oxford and New York: Oxford University Press.
+* Stanley, Jason, 2007, *Language in Context: Selected Essays*, Oxford: Oxford University Press.
+* Stern, Josef, 2000, *Metaphor in Context*, Cambridge, Massachusetts: MIT Press.
+* Stryk, Lucien, and Takashi Ikemoto, 1995, *Zen Poetry: Let the Spring Breeze Enter*, New York: Grove Press.
+* Travis, Charles, 2008, “Introduction,” in *Occasion-Sensitivity: Selected Essays*, Oxford and New York: Oxford University Press, 1–16.
+* Turbayne, Colin Murray, 1970, *The Myth of Metaphor,* rev ed., Columbia, South Carolina: University of South Carolina Press. First published by Yale University Press in 1962.
+* Turner, Mark, 1998, “Figure,” in *Figurative Language and Thought*, Albert N. Katz (ed.), New York and Oxford: Oxford University Press, 44–87.
+* Tversky, Amos, 1977, “Features of Similarity,” *Psychological Review*, 84(4): 327–352.
+* Walton, Kendall L, 1990, *Mimesis as Make-Believe: On the Foundations of the Representational Arts*, Cambridge, Massachusetts and London: Harvard University Press.
+* –––, 1993, “Metaphor and Prop Oriented Make-Believe,” *European Journal of Philosophy*, 1(1): 39–57.
+* White, Roger M., 1996, *The Structure of Metaphor: The Way the Language of Metaphor Works*, Oxford and Cambridge, MA: Blackwell.
+* Wilson, Deirdre, and Dan Sperber, 2002, “Truthfulness and Relevance,” *Mind*, 111(443): 583–632.
 
 ## Academic Tools
 
@@ -675,7 +675,7 @@ Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进�
 
 * [A history of metaphor](http://www.bbc.co.uk/programmes/b00w227c), BBC Radio 4 program produced by Thomas Morris.
 * [Conceptual Metaphor Home Page](http://web.archive.org/web/20110716110429/http://cogsci.berkeley.edu/lakoff/), archived copy of a webpage that was maintained by George Lakoff (U. California/Berkeley).
-* [Mapping the Brain’s Metaphor Circuitry: Metaphorical Thought in Everyday Reason,](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00958/full) A review article by George Lakoff for _Frontiers in Human Neuroscience,_ Dec 16 2014.
+* [Mapping the Brain’s Metaphor Circuitry: Metaphorical Thought in Everyday Reason,](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00958/full) A review article by George Lakoff for *Frontiers in Human Neuroscience,* Dec 16 2014.
 * [The Art of the Metaphor,](https://www.youtube.com/watch?v=A0edKgL9EgM) a TED-Ed Lesson by Jane Hirschfeld.
 * [Metaphorically Speaking,](https://www.youtube.com/watch?v=2cU56SWXHFw) a TED Talk by James Geary.
 * [Liz Camp on Metaphor,](https://www.youtube.com/watch?v=i5EmZh\Obi8) a Phil 101 Episode.
@@ -688,4 +688,4 @@ Hills（1997 年，2008 年）和 Walton（2000 年）对沃尔顿的解释进�
 [Aristotle, General Topics: rhetoric](https://plato.stanford.edu/entries/aristotle-rhetoric/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [descriptions](https://plato.stanford.edu/entries/descriptions/) | [fictionalism](https://plato.stanford.edu/entries/fictionalism/) | [Grice, Paul](https://plato.stanford.edu/entries/grice/) | [Hamann, Johann Georg](https://plato.stanford.edu/entries/hamann/) | [implicature](https://plato.stanford.edu/entries/implicature/) | [Kuhn, Thomas](https://plato.stanford.edu/entries/thomas-kuhn/) | [Plato: rhetoric and poetry](https://plato.stanford.edu/entries/plato-rhetoric/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [Ricoeur, Paul](https://plato.stanford.edu/entries/ricoeur/) | [speech acts](https://plato.stanford.edu/entries/speech-acts/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-David Hills <[_dhills@stanford.edu_](mailto:dhills%40stanford%2eedu)>
+David Hills <[*dhills@stanford.edu*](mailto:dhills%40stanford%2eedu)>

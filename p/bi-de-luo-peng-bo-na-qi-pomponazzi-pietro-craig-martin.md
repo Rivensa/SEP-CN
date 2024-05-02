@@ -3,7 +3,6 @@
 *首次发表于2017年11月7日；实质修订于2021年10月19日。*
 
 彼得罗·彭波那齐（1462-1525）是意大利文艺复兴时期的一位杰出哲学家。他主要在帕多瓦和博洛尼亚的大学任教，他对亚里士多德的自然哲学和心理学发展出了创新的方法。他因对灵魂的死亡和看似神奇现象以及宗教发展的自然解释进行哲学调查而获得特别的声誉和声名狼藉。彭波那齐以他对宗教教义的哲学挑战以及他使用亚历山大·阿弗罗迪西亚斯的著作和斯多噶哲学思想来铸造他认为更纯净或更准确的亚里士多德自然哲学和心理学解释而闻名。
- 
 
 ---
 
@@ -93,7 +92,6 @@
 
 尽管受到许多负面评价，但一些16世纪的哲学家继续追随彭波那齐的方法。例如，比萨大学的哲学教授西蒙内·波尔齐奥，遵循他对人类智力的死灵论和亚历山大观点（Del Soldato 2010）。尽管17世纪的许多人谴责他的灵魂随身体一同死亡的观点，但皮埃尔·贝尔免除了彭波那齐的不虔诚之罪，认为他是思想自由的榜样，并赞扬他对抗来世诱惑的伦理教导（Bayle 1740: vol. 3, 777–83）。19世纪，他受到实证主义者的支持，如欧内斯特·雷南和罗伯托·阿尔迪戈，他们将彭波那齐视为反对宗教压迫的科学精神的典范（Ardigò 1869; Renan 1852: 284–88）。在20世纪，一些学者赞同17世纪放荡者的观点，将彭波那齐解读为不真诚、宣扬宗教欺骗或坚决反基督教的敌人（见Busson 1957: 44–69; Charbonnel 1919: 220–74, 389–438）。因此，他被一些人称为“激进哲学家”（见Pine 1986）。其他学者，如布鲁诺·纳尔迪和保罗·奥斯卡尔·克里斯泰勒的观点，将他置于中世纪哲学的世俗传统背景中，将神学与哲学分离（Bianchi 2008）。根据这种解释，彭波那齐不一定是现代时期教会与科学冲突的始作俑者或先驱，而更应该被理解为延续自13世纪扎根的学院哲学实践，其中包括开放的探究。
 
-
 ##
 
 Bibliography
@@ -153,7 +151,6 @@ For extensive bibliographies, including lists of manuscripts and editions of uni
   
 * 2018, *Expositio super I De anima Aristotelis et Commentatoris 1503 riportata da Antonio Surian*, edited by Massimiliano Chianese, Rome: Storia e Letteratura.
   
-
 ### Other Primary Sources
 
 * Alexander of Aphrodisias, *On Fate*, edited and translated by R. W. Sharples, London: Duckworth, 1983.
@@ -174,7 +171,6 @@ For extensive bibliographies, including lists of manuscripts and editions of uni
   
 * Ficino, Marsilius, *Platonic Theology*, 6 volumes, edited and translated by Michael J.B. Allen and James Hankins, Cambridge, MA: Harvard University Press, 2001–06.
   
-
 ### Secondary Works Cited
 
 * Ardigò, Roberto, 1869, *Pietro Pomponazzi*, Mantua: Soave.

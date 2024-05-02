@@ -1,6 +1,6 @@
 # 克隆 cloning (Katrien Devolder)
 
-_首次发表于 2008 年 9 月 17 日；实质性修订于 2021 年 12 月 10 日_
+*首次发表于 2008 年 9 月 17 日；实质性修订于 2021 年 12 月 10 日*
 
 多莉(Dolly)是第一只从体细胞克隆出来的哺乳动物，像羔羊一样天真地来到这个世界。然而，就在 1997 年 2 月她出生的消息宣布后不久，引起了恐慌和争议(Wilmut 等，1997)。一个重要的，对许多人来说令人不安的问题出现了：如果克隆羊是可能的，科学家们是否很快会开始克隆人类；如果他们这样做了，这样做是否是错误或不明智的？
 
@@ -9,7 +9,6 @@ _首次发表于 2008 年 9 月 17 日；实质性修订于 2021 年 12 月 10 �
 多莉现在被填充并摆放在苏格兰国家博物馆展出。许多国家或司法管辖区已经在法律上禁止人类克隆，或正在这样做的过程中。在一些国家，包括法国和新加坡，人类的生殖克隆是一种犯罪行为。2005 年，联合国教科文组织通过了一项关于人类克隆的《宣言》，呼吁全面禁止人类克隆（有关自 2008 年以来联合国教科文组织关于人类克隆辩论的审议，请参见 Langlois，2017 年）。人类生殖克隆的辩论似乎已经接近尾声。然而，由于哺乳动物的生殖克隆在几个国家已经变得日常化，有理由相信在未来某个时候，人类也会被克隆。此外，即使在不久的将来无法进行_生殖_克隆，克隆用于研究和治疗目的的可能性很大。
 
 本文描述了克隆伦理学中最重要的争议领域。我将重点关注人类克隆（而不是动物克隆），因为人类克隆一直是克隆辩论的焦点。
-
 
 ***
 
@@ -53,7 +52,7 @@ Dolly 是第一只通过 SCNT 技术诞生的哺乳动物。Ian Wilmut 和他在
 
 ### 2.2 需要卵母细胞
 
-研究和治疗克隆需要大量高质量的供体卵母细胞。关于如何获取这些卵母细胞会引发伦理问题。卵母细胞捐赠涉及各种风险和不适（有关风险的审查，请参阅《评估人类卵母细胞捐赠用于干细胞研究的医学风险委员会 _，_ 2007 年》）。参与此类捐赠引发的最紧迫的伦理问题之一是应该应用何种知情同意模型。与考虑试管婴儿的妇女不同，非医学卵母细胞捐赠者不是临床患者。他们无法从捐赠中获得任何生殖或医学上的好处（尽管 Kalfoglou & Gittelsohn，2000 年，认为他们可能会获得心理上的好处）。Magnus 和 Cho（2005 年）认为，捐赠的妇女不应被归类为研究对象，因为与其他研究不同，捐赠者的风险不在于研究本身，而在于为研究所需材料的获取。他们建议为那些为了他人的利益（在这种情况下是未来的不可识别的人）而自身承担重大风险的人创建一个名为“研究捐赠者”的新类别，并且风险并非发生在实际研究中，而是在为研究获取材料的过程中。也有人提出，可以将活体器官无偿捐赠者的知情同意作为一个模型，因为在这两种情况下，受益者将是陌生人，而不是捐赠者。然而，对于后一种建议的批评者指出，这两种捐赠方式之间存在不相似之处。反映在关于无私捐赠的规定中的一般伦理规则，即患者必须有很高的治疗成功机会，这一规则在用于克隆研究的卵母细胞捐赠案例中被违反（George，2007 年）。
+研究和治疗克隆需要大量高质量的供体卵母细胞。关于如何获取这些卵母细胞会引发伦理问题。卵母细胞捐赠涉及各种风险和不适（有关风险的审查，请参阅《评估人类卵母细胞捐赠用于干细胞研究的医学风险委员会 *，* 2007 年》）。参与此类捐赠引发的最紧迫的伦理问题之一是应该应用何种知情同意模型。与考虑试管婴儿的妇女不同，非医学卵母细胞捐赠者不是临床患者。他们无法从捐赠中获得任何生殖或医学上的好处（尽管 Kalfoglou & Gittelsohn，2000 年，认为他们可能会获得心理上的好处）。Magnus 和 Cho（2005 年）认为，捐赠的妇女不应被归类为研究对象，因为与其他研究不同，捐赠者的风险不在于研究本身，而在于为研究所需材料的获取。他们建议为那些为了他人的利益（在这种情况下是未来的不可识别的人）而自身承担重大风险的人创建一个名为“研究捐赠者”的新类别，并且风险并非发生在实际研究中，而是在为研究获取材料的过程中。也有人提出，可以将活体器官无偿捐赠者的知情同意作为一个模型，因为在这两种情况下，受益者将是陌生人，而不是捐赠者。然而，对于后一种建议的批评者指出，这两种捐赠方式之间存在不相似之处。反映在关于无私捐赠的规定中的一般伦理规则，即患者必须有很高的治疗成功机会，这一规则在用于克隆研究的卵母细胞捐赠案例中被违反（George，2007 年）。
 
 鉴于捐赠者面临的风险、捐赠者没有直接的医疗利益，以及克隆研究的不确定潜力，毫不奇怪，为这类研究进行无私的卵母细胞捐赠的数量非常少。可能需要财政激励措施来增加用于克隆研究的卵母细胞供应。在包括美国在内的一些国家，出售和购买卵母细胞是合法的。一些人反对这些做法，因为他们认为卵母细胞是身体的一部分，认为它们不应该进入市场：在他们看来，人体及其部分的价值不应以金钱或其他可交换货物来表达。一些人还担心，通过商业化卵母细胞，妇女们本身可能会成为工具性利用的对象（Alpers & Lo 1995）。然而，许多人一致认为，对商品化的担忧并不能证明完全禁止对卵母细胞捐赠者支付报酬是正义所需，正义要求他们得到经济补偿以弥补他们所承受的不便、负担和医疗风险，这是其他研究对象的标准做法（Steinbock 2004；Mertes & Pennings 2007）。一个相关的担忧是财政或其他补偿提议对卵母细胞捐赠的自愿性产生的影响。妇女，特别是来自发展中国家的经济弱势妇女，可能会被不当诱使甚至被胁迫出售他们的卵母细胞（Dickinson 2002）。Baylis 和 McLeod（2007）强调了同时避免不当诱因和剥削是多么困难：价格太低会导致剥削；避免剥削的价格会导致不当诱因。
 
@@ -149,7 +148,7 @@ Strong（2008）认为，这些担忧是基于一个谬误的推论。渴望有�
 
 ### 3.4 人类尊严
 
-联合国教科文组织关于人类基因组和人权的宣言（1997 年）是第一个谴责人类生殖克隆作为违背人类尊严的做法的国际文书。该宣言第 11 条规定：“_不得允许违背人类尊严的做法，如对人类进行生殖克隆..._ ” 这一立场得到世界卫生组织、欧洲议会和其他几个国际文书的支持。批评者指出，关于人类尊严的引用存在问题，因为很少明确说明人类尊严应如何理解，谁的尊严受到威胁，以及尊严如何与克隆伦理相关（Harris 2004 年，第 2 章，Birnbacher 2005 年，McDougall 2008 年）。一些评论者指出，侵犯人类尊严的是基因组的复制（Kass 1998 年）；其他人指出，这种解释可能会被视为对基因相同的双胞胎的侮辱，而我们通常不认为双胞胎会威胁人类尊严（尽管过去的一些社会曾经这样认为），也不会阻止双胞胎的出生。相反，试管婴儿技术，涉及增加产生双胞胎的‘风险’，是一种被广泛接受的生育治疗方法。
+联合国教科文组织关于人类基因组和人权的宣言（1997 年）是第一个谴责人类生殖克隆作为违背人类尊严的做法的国际文书。该宣言第 11 条规定：“*不得允许违背人类尊严的做法，如对人类进行生殖克隆...* ” 这一立场得到世界卫生组织、欧洲议会和其他几个国际文书的支持。批评者指出，关于人类尊严的引用存在问题，因为很少明确说明人类尊严应如何理解，谁的尊严受到威胁，以及尊严如何与克隆伦理相关（Harris 2004 年，第 2 章，Birnbacher 2005 年，McDougall 2008 年）。一些评论者指出，侵犯人类尊严的是基因组的复制（Kass 1998 年）；其他人指出，这种解释可能会被视为对基因相同的双胞胎的侮辱，而我们通常不认为双胞胎会威胁人类尊严（尽管过去的一些社会曾经这样认为），也不会阻止双胞胎的出生。相反，试管婴儿技术，涉及增加产生双胞胎的‘风险’，是一种被广泛接受的生育治疗方法。
 
 人类尊严通常与康德的范畴命题的第二形式相关，即我们永远不应仅仅把一个人当作达到目的的手段的观念。然而，我已经在第 4.2.2 节中讨论过这个问题。
 
@@ -159,90 +158,90 @@ Strong（2008）认为，这些担忧是基于一个谬误的推论。渴望有�
 
 ## Bibliography
 
-* Agar, N., 2004, _Liberal Eugenics: In Defense of Human Enhancement_, Oxford: Blackwell Publishing.
-* Ahlberg, J. and Brighouse, H., 2011, “An argument against cloning,” _Canadian Journal of Philosophy_, 40(4): 539–566.
-* Alpers, A. and Lo, B., 1995, “Commodification and commercialization in human embryo research,” _Stanford Law & Policy Review_, 6(2): 39–46.
-* American Medical Association, AMA, (1999), _Report of the Council on Ethical and Judicial Affairs_, American Medical Association.
-* Annas, G., 1998, “The prospect of human cloning: an opportunity for national and international cooperation,” in _Human Cloning: Biomedical Ethical Reviews_ , J. Humber and R. Almeder (eds.), New Jersey: Humana Press.
-* Asch, A. and Wasserman, D., 2005, “Where is the sin in synecdoche,” in _Quality of life and human difference: genetic testing, health care_, _and disability_, D. Wasserman, R.S. Wachbroit, and J.E. Bickenbach (eds.), New York: Cambridge University Press.
-* Baylis, F., and C. McLeod, 2007, “The stem cell debate continues: the buying and selling of eggs for research,” _Journal of Medical Ethics_, 33(12): 726–731.
-* Birnbacher, D., 2005, “Human cloning and human dignity,” _Reproductive Biomedicine Online_ (Supplement), 10: 50–55.
-* Boland, M.J., Hazen, J.L., Nazor, K.L., Rodriguez, A.R., Gifford, W., Martin, G., Kupriyanov, S., and Baldwin, K.K., 2009, “Adult mice generated from induced pluripotent stem cells,” _Nature_, 461(7260): 91–94.
-* Brock, D.W., 1998, “Cloning human beings: an assessment of the ethical issues pro and con,” in _Facts and Fantasies about Human Cloning_, M.C. Nussbaum and C.R. Sunstein (eds.), New York: Norton: 141–164.
-* –––, 2002, “Human Cloning and Our Sense of Self, ” _Science_, 269: 314–316.
-* Brown, M.T., 2009, “Moral complicity in induced pluripotent stem cell research,” _Kennedy Institute of Ethics Journal_, 19(1): 1–22.
-* Buchanan, A., Brock, D.W., Daniels, N., Wikler, D., 2000, _From Chance to Choice: Genetics & Justice_, New York: Cambridge Univ. Press.
-* Buchanan, A., 2007, “Institutions, beliefs and ethics: eugenics as a case study,” _Journal of Political Philosophy_, 15(1): 22–45.
-* Cervera, R.P. and Stojkovic, M., 2007, “Human embryonic stem cell derivation and nuclear transfer: impact on regenerative therapeutics and drug discovery,” _Clinical Pharmacology & Therapeutics_, 82(3): 310–315.
-* Cole-Turner, R. (ed.), 1997, _Human Cloning: Religious Responses_, Louisville, KY: Westminster John Knox Press.
-* Committee on Assessing the Medical Risks of Human Oocyte Donation for Stem Cell Research, 2007, _Assessing the Medical Risks of Human Oocyte Donation for Stem Cell Research: Workshop Report_, Washington D.C.: The National Academies Press.
-* Deckers, J., 2007, “Are those who subscribe to the view that early embryos are persons irrational and inconsistent? A reply to Brock,” _Journal of Medical Ethics_, 33(2): 102–6.
-* Deech, R., 1999, “Human Cloning and public policy,” In _The Genetic Revolution and Human Rights_, J. Burley (ed.), Oxford: Oxford University Press: Chapter 4.
-* Devolder, K., 2005, “Creating and sacrificing embryos for stem cells,” _Journal of Medical Ethics_, 31(6): 366–370.
-* –––, 2015, _The Ethics of Embryonic Stem Cell Research_, Oxford: Oxford University Press.
-* Devolder, K. and Savulescu, J., 2006, “The moral imperative to conduct cloning and stem cell research,” _Cambridge Quarterly of Healthcare Ethics_, 15(1): 7–21.
-* Dickinson, D., 2002, “Commodification of human tissue: implications for feminist and development ethics,” _Developing World Bioethics_, 2(1): 55–63.
-* Doerflinger, R.M., 1999, “The ethics of funding embryonic stem cell research: A Catholic viewpoint,” _Kennedy Institute of Ethics Journal_, 9(2): 137–150.
-* Douglas, T. and Savulescu, J., 2009, “Destroying unwanted embryos in research,” _EMBO Reports_, 10(4): 307–312.
-* Feinberg, J., 1980, “A Child’s Right to an open future,” in _Whose Child? Parental Rights, Parental Authority and State Power_, W. Aiken (ed.), Totowa, NJ: Rowman & Littlefield: 124–153.
-* FitzPatrick, W., 2003, “Surplus embryos, nonreproductive cloning, and the intend/foresee distinction,” _Hastings Center Report_, 33(3): 29–36.
-* Fletcher, J.F., 1988, _The Ethics of Genetic Control: Ending Reproductive Roulette_, New York: Prometheus.
-* French, A.J. _et al_., 2008, “Development of human cloned blastocysts following somatic cell nuclear transfer with adult fibroblasts,” _Stem Cells_, 26(2): 485–93.
-* George, K., 2007, “What about the women? Ethical and policy aspects of egg supply for cloning research,” _Reproductive BioMedicine Online_, 15(2): 127–133.
-* Gruen, L., 2007, “Oocytes for sale?,” _Metaphilosophy_, 38(2–3): 285–308.
-* Hansen, J.E., 2002, “Embryonic stem cell production through therapeutic cloning has fewer ethical problems than stem cell harvest from surplus IVF embryos,” _Journal of Medical Ethics_, 28(2): 86–8.
-* Harris, J., 1997, “Goodbye Dolly: The ethics of human cloning,” _Journal of Medical Ethics_, 23(6): 353–360.
-* –––, 2004, _On Cloning_, London: Routledge.
-* Häyry, M., 2003, “Philosophical arguments for and against human reproductive cloning,” _Bioethics_, 17(5–6): 447–459.
-* Holm, S., 1998, “A life in the shadow: one reason why we should not clone humans,” _Cambridge Quarterly of Healthcare Ethics_, 7: 160–162.
-* Jonas, H., 1974, _Philosophical Essays: From Ancient Creed to Technological Man_, Englewood Cliffs, NJ: Prentice-Hall.
-* Kalfoglou, A.L., Gittelsohn, J.A., 2000, “A qualitative follow-up study of women’s experiences with oocyte donation,” _Human Reproduction_, 15(4): 798–805.
+* Agar, N., 2004, *Liberal Eugenics: In Defense of Human Enhancement*, Oxford: Blackwell Publishing.
+* Ahlberg, J. and Brighouse, H., 2011, “An argument against cloning,” *Canadian Journal of Philosophy*, 40(4): 539–566.
+* Alpers, A. and Lo, B., 1995, “Commodification and commercialization in human embryo research,” *Stanford Law & Policy Review*, 6(2): 39–46.
+* American Medical Association, AMA, (1999), *Report of the Council on Ethical and Judicial Affairs*, American Medical Association.
+* Annas, G., 1998, “The prospect of human cloning: an opportunity for national and international cooperation,” in *Human Cloning: Biomedical Ethical Reviews* , J. Humber and R. Almeder (eds.), New Jersey: Humana Press.
+* Asch, A. and Wasserman, D., 2005, “Where is the sin in synecdoche,” in *Quality of life and human difference: genetic testing, health care*, *and disability*, D. Wasserman, R.S. Wachbroit, and J.E. Bickenbach (eds.), New York: Cambridge University Press.
+* Baylis, F., and C. McLeod, 2007, “The stem cell debate continues: the buying and selling of eggs for research,” *Journal of Medical Ethics*, 33(12): 726–731.
+* Birnbacher, D., 2005, “Human cloning and human dignity,” *Reproductive Biomedicine Online* (Supplement), 10: 50–55.
+* Boland, M.J., Hazen, J.L., Nazor, K.L., Rodriguez, A.R., Gifford, W., Martin, G., Kupriyanov, S., and Baldwin, K.K., 2009, “Adult mice generated from induced pluripotent stem cells,” *Nature*, 461(7260): 91–94.
+* Brock, D.W., 1998, “Cloning human beings: an assessment of the ethical issues pro and con,” in *Facts and Fantasies about Human Cloning*, M.C. Nussbaum and C.R. Sunstein (eds.), New York: Norton: 141–164.
+* –––, 2002, “Human Cloning and Our Sense of Self, ” *Science*, 269: 314–316.
+* Brown, M.T., 2009, “Moral complicity in induced pluripotent stem cell research,” *Kennedy Institute of Ethics Journal*, 19(1): 1–22.
+* Buchanan, A., Brock, D.W., Daniels, N., Wikler, D., 2000, *From Chance to Choice: Genetics & Justice*, New York: Cambridge Univ. Press.
+* Buchanan, A., 2007, “Institutions, beliefs and ethics: eugenics as a case study,” *Journal of Political Philosophy*, 15(1): 22–45.
+* Cervera, R.P. and Stojkovic, M., 2007, “Human embryonic stem cell derivation and nuclear transfer: impact on regenerative therapeutics and drug discovery,” *Clinical Pharmacology & Therapeutics*, 82(3): 310–315.
+* Cole-Turner, R. (ed.), 1997, *Human Cloning: Religious Responses*, Louisville, KY: Westminster John Knox Press.
+* Committee on Assessing the Medical Risks of Human Oocyte Donation for Stem Cell Research, 2007, *Assessing the Medical Risks of Human Oocyte Donation for Stem Cell Research: Workshop Report*, Washington D.C.: The National Academies Press.
+* Deckers, J., 2007, “Are those who subscribe to the view that early embryos are persons irrational and inconsistent? A reply to Brock,” *Journal of Medical Ethics*, 33(2): 102–6.
+* Deech, R., 1999, “Human Cloning and public policy,” In *The Genetic Revolution and Human Rights*, J. Burley (ed.), Oxford: Oxford University Press: Chapter 4.
+* Devolder, K., 2005, “Creating and sacrificing embryos for stem cells,” *Journal of Medical Ethics*, 31(6): 366–370.
+* –––, 2015, *The Ethics of Embryonic Stem Cell Research*, Oxford: Oxford University Press.
+* Devolder, K. and Savulescu, J., 2006, “The moral imperative to conduct cloning and stem cell research,” *Cambridge Quarterly of Healthcare Ethics*, 15(1): 7–21.
+* Dickinson, D., 2002, “Commodification of human tissue: implications for feminist and development ethics,” *Developing World Bioethics*, 2(1): 55–63.
+* Doerflinger, R.M., 1999, “The ethics of funding embryonic stem cell research: A Catholic viewpoint,” *Kennedy Institute of Ethics Journal*, 9(2): 137–150.
+* Douglas, T. and Savulescu, J., 2009, “Destroying unwanted embryos in research,” *EMBO Reports*, 10(4): 307–312.
+* Feinberg, J., 1980, “A Child’s Right to an open future,” in *Whose Child? Parental Rights, Parental Authority and State Power*, W. Aiken (ed.), Totowa, NJ: Rowman & Littlefield: 124–153.
+* FitzPatrick, W., 2003, “Surplus embryos, nonreproductive cloning, and the intend/foresee distinction,” *Hastings Center Report*, 33(3): 29–36.
+* Fletcher, J.F., 1988, *The Ethics of Genetic Control: Ending Reproductive Roulette*, New York: Prometheus.
+* French, A.J. *et al*., 2008, “Development of human cloned blastocysts following somatic cell nuclear transfer with adult fibroblasts,” *Stem Cells*, 26(2): 485–93.
+* George, K., 2007, “What about the women? Ethical and policy aspects of egg supply for cloning research,” *Reproductive BioMedicine Online*, 15(2): 127–133.
+* Gruen, L., 2007, “Oocytes for sale?,” *Metaphilosophy*, 38(2–3): 285–308.
+* Hansen, J.E., 2002, “Embryonic stem cell production through therapeutic cloning has fewer ethical problems than stem cell harvest from surplus IVF embryos,” *Journal of Medical Ethics*, 28(2): 86–8.
+* Harris, J., 1997, “Goodbye Dolly: The ethics of human cloning,” *Journal of Medical Ethics*, 23(6): 353–360.
+* –––, 2004, *On Cloning*, London: Routledge.
+* Häyry, M., 2003, “Philosophical arguments for and against human reproductive cloning,” *Bioethics*, 17(5–6): 447–459.
+* Holm, S., 1998, “A life in the shadow: one reason why we should not clone humans,” *Cambridge Quarterly of Healthcare Ethics*, 7: 160–162.
+* Jonas, H., 1974, *Philosophical Essays: From Ancient Creed to Technological Man*, Englewood Cliffs, NJ: Prentice-Hall.
+* Kalfoglou, A.L., Gittelsohn, J.A., 2000, “A qualitative follow-up study of women’s experiences with oocyte donation,” *Human Reproduction*, 15(4): 798–805.
 * Kass, L.R., 1998, “The wisdom of repugnance: why we should ban the cloning of humans,” _Valparaiso University Law Rev_iew 32(2): 679–705.
-* Kevles, D.J., 1995, \[1985], _In the Name of Eugenics: Genetics and the Uses of Human Heredity_, Cambridge, MA: Harvard University Press; first edition, 1985.
-* Kiessling, A.A., 2001, “In the stem-cell debate, new concepts need new words,” _Nature_, 413(6855): 453.
-* Kitcher, P., 1997, “Whose self is it, anyway?,” _Sciences (New York)_, 37(5): 58–62.
-* Langlois, A., 2017. “The global governance of human cloning: the case of UNESCO,” _Palgrave Communications_, 3: 17019. doi:10.1057/palcomms.2017.19
-* Levick, S.E., 2004, _Clone Being: Exploring the Psychological and Social Dimensions_, Lanham: Rowman & Littlefield Publishers, Inc.
-* Levy, N. and Lotz, M., 2005, “Reproductive cloning and a (kind of) genetic fallacy,” _Bioethics_, 19: 232–250.
-* Lipschutz, J.H., 1999, “To clone or not to clone–a Jewish perspective,” _Journal of Medical Ethics_, 25(2): 105–7.
-* Ma, H., O’Neil, R.C., Gutierrez, N.M., Hariharan, M., Zhang, Z.Z., He, Y., Cinnioglu, C., Kayali, R., Kang, E., Lee, Y., et al., 2017, “Functional Human Oocytes Generated by Transfer of Polar Body Genomes,” _Cell Stem Cell_, 20: 112–119.
-* Macintosh, K.L., 2005, _Illegal Beings. Human Clones and the Law_, New York: Cambridge University Press.
-* Magnus, D. and Cho, M.K., 2005, “Issues in oocyte donation for stem cell research,” _Science_, 308: 1747–8.
-* McDougall, R., 2008, “A resource-based version of the argument that cloning is an affront to human dignity,” _Journal of Medical Ethics_, 34(4): 259–261.
-* McHugh, P.R., 2004, “Zygote and ’clonote‘ – the ethical use of embryonic stem cells,” _New England Journal of Medicine_, 351(3): 209–11.
-* McGee G. (ed.), 2000, _The Human Cloning Debate_, 2nd edition, Berkeley, CA: Berkeley Hills Books.
-* Mertes, H. and Pennings, G., 2007, “Oocyte donation in stem cell research,” _Human Reproduction_, 22(3): 629–634.
-* National Bioethics Advisory Commission, NBAC, (1999), _Ethical Issues in Human Stem Cell Research_, Rockville, MD: NBAC.
-* Noggle, S., Fung, H.L., Gore, A., Martinez, H., Satriani, K.C., et al., 2011, “Human oocytes reprogram somatic cells to a pluripotent state,” _Nature_, 478(7367): 70–5.
-* O’Neil, O., 2002, _Autonomy and Trust in Bioethics (Gifford Lectures 2001)_, Cambridge: Cambridge University Press.
-* Paul, D., 1995, _Controlling Human Heredity: 1865 to Present_, Atlantic Highlands, NJ: Humanities Press.
-* Pence, G., 1998, _Who’s Afraid of Human Cloning?_, Lanham, MD: Rowman & Littlefield.
-* Pera, M. and Trounson, A., 2013, “Cloning debate: Stem-cell researchers must stay engaged,” _Nature_, 498: 159–161.
-* President’s Council on Bioethics \[PCBE], 2002, _Human Cloning and Human Dignity: An Ethical Inquiry_, Washington D.C.: PCBE.
-* Putnam, H., 1997, “Cloning people,” in _The Genetic Revolution and Human Rights_, J. Burley (ed.), Oxford: Oxford Univ. Press: 1–13.
-* Ramsey, P., 1966, “Moral and religious implications of genetic control,” in _Genetics and the Future Man_, J.D. Roslansky (ed.), New York: Appleton-Century Crofts, 107–69.
-* Rao, M. and Condic M.L., 2008, “Alternative sources of pluripotent stem cells: scientific solutions to an ethical dilemma,” _Stem Cells and Development_, 17(1): 1–10.
-* Resnik, D.B., 2001, “Regulating the market for human eggs,” _Bioethics_, 15(1): 1–25.
-* Roberts, C., Throsby, K., 2008, “Paid to share: IVF patients, eggs and stem cell research,” _Social Science & Medicine_, 66(1): 159–169.
-* Robertson, J.A, 1995, “Symbolic issues in embryo research,” _Hastings Center Report_, 25(1): 37–38.
-* Rulli, T., 2016, “Preferring a Genetically-Related Child,” _Journal of Moral Philosophy_, 13: 669–698.
-* Sadeghi, M., 2007, “Islamic perspectives on human cloning,” _Human Reproduction and Genetic Ethics_, 13(2): 32–40.
-* Saitou, M. and Miyauchi, H., 2016, “Gametogenesis from Pluripotent Stem Cells,” _Cell Stem Cell_, 18: 721–735.
-* Sandel, M.J., 2007, _The Case Against Perfection. Ethics in the Age of Genetic Engineering_, Cambridge, MA: Belknap Press.
-* Saunders, R. and Savulescu, J., 2008, “Research ethics and lessons from Hwanggate: what can we learn from the Korean cloning fraud?,” _Journal of Medical Ethics_, 34(3): 214–221.
-* Savulescu, J., 1999, “Should we clone human beings? Cloning as a source of tissue transplantation,” _Journal of Medical Ethics_, 25: 87–95.
-* Segal, N.L., 2000, _Entwined Lives: Twins and What They Tell Us About Human Behavior_, New York: Plume.
-* Sparrow, R. 2006. “Cloning, Parenthood, and Genetic Relatedness,” _Bioethics_, 20(6): 308–318.
-* Steinbock, B., 2001, “Respect for human embryos,” in _Cloning and the Future of Human Embryo Research_, P. Lauritzen (ed.), Oxford: Oxford University Press: 21–33.
-* –––, 2004, “Payment for egg donation and surrogacy,” _Mount Sinai Journal of Medicine_, 71(4): 255–265.
-* Strong, C., 2005, “Harming by conceiving: a review of misconceptions and a new analysis,” _The Journal of Medicine and Philosophy_, 30: 491–516.
-* –––, 2008, “Cloning and adoption: a reply to Levy and Lotz,” _Bioethics_, 22(2): 130–136.
-* Tachibana, M., Amato, P., Sparman, M., Gutierrez, N.M., Tippner-Hedges, R., Ma, H., Kang, E., Fulati, A., Lee, H.S., Sritanaudomchai, H., et al., 2013, “Human Embryonic Stem Cells Derived by Somatic Cell Nuclear Transfer,” _Cell_, 153: 1228–1238.
-* Tooley, M., 1998, “The moral status of the cloning of humans,” in _Human Cloning: Biomedical Ethical Reviews_, J. Humber and R. Almeder (eds.), Totowa, NJ: Humana Press: 65–102.
-* Walters, L., 2004, “Human embryonic stem cell research: an intercultural perspective,” _Kennedy Institute of Ethics Journal_, 14(1): 3–38.
-* Wilmut, I., Schnieke, A.E., McWhir J., et al., 1997, “Viable offspring derived from fetal and adult mammalian cells,” _Nature_, 385:810–3.
-* Wilmut, I., Campbell, K.H., Tudge, C., 2001, _The Second Creation: The Age of Biological Control_, London: Headline Book Publishing.
-* Whitworth, K.M. and Prather, R.S., 2010, “Somatic cell nuclear transfer efficiency: How can it be improved through nuclear remodeling and reprogramming?,” _Molecular Reproduction and Development_, 77(12): 1001–1015.
+* Kevles, D.J., 1995, \[1985], *In the Name of Eugenics: Genetics and the Uses of Human Heredity*, Cambridge, MA: Harvard University Press; first edition, 1985.
+* Kiessling, A.A., 2001, “In the stem-cell debate, new concepts need new words,” *Nature*, 413(6855): 453.
+* Kitcher, P., 1997, “Whose self is it, anyway?,” *Sciences (New York)*, 37(5): 58–62.
+* Langlois, A., 2017. “The global governance of human cloning: the case of UNESCO,” *Palgrave Communications*, 3: 17019. doi:10.1057/palcomms.2017.19
+* Levick, S.E., 2004, *Clone Being: Exploring the Psychological and Social Dimensions*, Lanham: Rowman & Littlefield Publishers, Inc.
+* Levy, N. and Lotz, M., 2005, “Reproductive cloning and a (kind of) genetic fallacy,” *Bioethics*, 19: 232–250.
+* Lipschutz, J.H., 1999, “To clone or not to clone–a Jewish perspective,” *Journal of Medical Ethics*, 25(2): 105–7.
+* Ma, H., O’Neil, R.C., Gutierrez, N.M., Hariharan, M., Zhang, Z.Z., He, Y., Cinnioglu, C., Kayali, R., Kang, E., Lee, Y., et al., 2017, “Functional Human Oocytes Generated by Transfer of Polar Body Genomes,” *Cell Stem Cell*, 20: 112–119.
+* Macintosh, K.L., 2005, *Illegal Beings. Human Clones and the Law*, New York: Cambridge University Press.
+* Magnus, D. and Cho, M.K., 2005, “Issues in oocyte donation for stem cell research,” *Science*, 308: 1747–8.
+* McDougall, R., 2008, “A resource-based version of the argument that cloning is an affront to human dignity,” *Journal of Medical Ethics*, 34(4): 259–261.
+* McHugh, P.R., 2004, “Zygote and ’clonote‘ – the ethical use of embryonic stem cells,” *New England Journal of Medicine*, 351(3): 209–11.
+* McGee G. (ed.), 2000, *The Human Cloning Debate*, 2nd edition, Berkeley, CA: Berkeley Hills Books.
+* Mertes, H. and Pennings, G., 2007, “Oocyte donation in stem cell research,” *Human Reproduction*, 22(3): 629–634.
+* National Bioethics Advisory Commission, NBAC, (1999), *Ethical Issues in Human Stem Cell Research*, Rockville, MD: NBAC.
+* Noggle, S., Fung, H.L., Gore, A., Martinez, H., Satriani, K.C., et al., 2011, “Human oocytes reprogram somatic cells to a pluripotent state,” *Nature*, 478(7367): 70–5.
+* O’Neil, O., 2002, *Autonomy and Trust in Bioethics (Gifford Lectures 2001)*, Cambridge: Cambridge University Press.
+* Paul, D., 1995, *Controlling Human Heredity: 1865 to Present*, Atlantic Highlands, NJ: Humanities Press.
+* Pence, G., 1998, *Who’s Afraid of Human Cloning?*, Lanham, MD: Rowman & Littlefield.
+* Pera, M. and Trounson, A., 2013, “Cloning debate: Stem-cell researchers must stay engaged,” *Nature*, 498: 159–161.
+* President’s Council on Bioethics \[PCBE], 2002, *Human Cloning and Human Dignity: An Ethical Inquiry*, Washington D.C.: PCBE.
+* Putnam, H., 1997, “Cloning people,” in *The Genetic Revolution and Human Rights*, J. Burley (ed.), Oxford: Oxford Univ. Press: 1–13.
+* Ramsey, P., 1966, “Moral and religious implications of genetic control,” in *Genetics and the Future Man*, J.D. Roslansky (ed.), New York: Appleton-Century Crofts, 107–69.
+* Rao, M. and Condic M.L., 2008, “Alternative sources of pluripotent stem cells: scientific solutions to an ethical dilemma,” *Stem Cells and Development*, 17(1): 1–10.
+* Resnik, D.B., 2001, “Regulating the market for human eggs,” *Bioethics*, 15(1): 1–25.
+* Roberts, C., Throsby, K., 2008, “Paid to share: IVF patients, eggs and stem cell research,” *Social Science & Medicine*, 66(1): 159–169.
+* Robertson, J.A, 1995, “Symbolic issues in embryo research,” *Hastings Center Report*, 25(1): 37–38.
+* Rulli, T., 2016, “Preferring a Genetically-Related Child,” *Journal of Moral Philosophy*, 13: 669–698.
+* Sadeghi, M., 2007, “Islamic perspectives on human cloning,” *Human Reproduction and Genetic Ethics*, 13(2): 32–40.
+* Saitou, M. and Miyauchi, H., 2016, “Gametogenesis from Pluripotent Stem Cells,” *Cell Stem Cell*, 18: 721–735.
+* Sandel, M.J., 2007, *The Case Against Perfection. Ethics in the Age of Genetic Engineering*, Cambridge, MA: Belknap Press.
+* Saunders, R. and Savulescu, J., 2008, “Research ethics and lessons from Hwanggate: what can we learn from the Korean cloning fraud?,” *Journal of Medical Ethics*, 34(3): 214–221.
+* Savulescu, J., 1999, “Should we clone human beings? Cloning as a source of tissue transplantation,” *Journal of Medical Ethics*, 25: 87–95.
+* Segal, N.L., 2000, *Entwined Lives: Twins and What They Tell Us About Human Behavior*, New York: Plume.
+* Sparrow, R. 2006. “Cloning, Parenthood, and Genetic Relatedness,” *Bioethics*, 20(6): 308–318.
+* Steinbock, B., 2001, “Respect for human embryos,” in *Cloning and the Future of Human Embryo Research*, P. Lauritzen (ed.), Oxford: Oxford University Press: 21–33.
+* –––, 2004, “Payment for egg donation and surrogacy,” *Mount Sinai Journal of Medicine*, 71(4): 255–265.
+* Strong, C., 2005, “Harming by conceiving: a review of misconceptions and a new analysis,” *The Journal of Medicine and Philosophy*, 30: 491–516.
+* –––, 2008, “Cloning and adoption: a reply to Levy and Lotz,” *Bioethics*, 22(2): 130–136.
+* Tachibana, M., Amato, P., Sparman, M., Gutierrez, N.M., Tippner-Hedges, R., Ma, H., Kang, E., Fulati, A., Lee, H.S., Sritanaudomchai, H., et al., 2013, “Human Embryonic Stem Cells Derived by Somatic Cell Nuclear Transfer,” *Cell*, 153: 1228–1238.
+* Tooley, M., 1998, “The moral status of the cloning of humans,” in *Human Cloning: Biomedical Ethical Reviews*, J. Humber and R. Almeder (eds.), Totowa, NJ: Humana Press: 65–102.
+* Walters, L., 2004, “Human embryonic stem cell research: an intercultural perspective,” *Kennedy Institute of Ethics Journal*, 14(1): 3–38.
+* Wilmut, I., Schnieke, A.E., McWhir J., et al., 1997, “Viable offspring derived from fetal and adult mammalian cells,” *Nature*, 385:810–3.
+* Wilmut, I., Campbell, K.H., Tudge, C., 2001, *The Second Creation: The Age of Biological Control*, London: Headline Book Publishing.
+* Whitworth, K.M. and Prather, R.S., 2010, “Somatic cell nuclear transfer efficiency: How can it be improved through nuclear remodeling and reprogramming?,” *Molecular Reproduction and Development*, 77(12): 1001–1015.
 
 ## Academic Tools
 
@@ -261,4 +260,4 @@ Strong（2008）认为，这些担忧是基于一个谬误的推论。渴望有�
 [donation of human organs](https://plato.stanford.edu/entries/organ-donation/) | [ethics, biomedical: stem cell research](https://plato.stanford.edu/entries/stem-cells/) | [eugenics](https://plato.stanford.edu/entries/eugenics/) | [feminist philosophy, topics: perspectives on reproduction and the family](https://plato.stanford.edu/entries/feminism-family/) | [informed consent](https://plato.stanford.edu/entries/informed-consent/) | [moral status, grounds of](https://plato.stanford.edu/entries/grounds-moral-status/) | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [respect](https://plato.stanford.edu/entries/respect/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Katrien Devolder](http://www.philosophy.ox.ac.uk/people/katrien-devolder) <[_katrien.devolder@philosophy.ox.ac.uk_](mailto:katrien%2edevolder%40philosophy%2eox%2eac%2euk)>
+[Katrien Devolder](http://www.philosophy.ox.ac.uk/people/katrien-devolder) <[*katrien.devolder@philosophy.ox.ac.uk*](mailto:katrien%2edevolder%40philosophy%2eox%2eac%2euk)>

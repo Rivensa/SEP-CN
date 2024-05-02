@@ -1,13 +1,12 @@
 # 证据的法律概念 the legal concept of (Hock Lai Ho)
 
-_首次发表于 2015 年 11 月 13 日星期五；实质性修订于 2021 年 10 月 8 日星期五_
+*首次发表于 2015 年 11 月 13 日星期五；实质性修订于 2021 年 10 月 8 日星期五*
 
 证据的法律概念既不是静态的也不是普遍的。在以审判通过烈焰试炼为时代的中世纪对证据的理解，对现代的感知来说会相当陌生（Ho 2003–2004），而当今世界各个法律体系之间也没有共同的证据和证明方法。即使在西方法律传统中，英美法和欧洲大陆法之间存在着重大差异（见 Damaška 1973, 1975, 1992, 1994, 1997）。本文重点关注的是在英美法系法律传统中运作的现代证据概念。\[ 1] 它集中讨论了与法律中事实主张的证明相关的证据。
 
 可能看起来很明显，必须存在一个与普通证据概念有所区别的法律证据概念。毕竟，在法律中有许多关于在法庭上可以或不可以作为证据引入的特殊规则，关于如何呈现证据以及可以将其用于何种用途，以及关于建立证明所需的证据的力量或充分性等。但是法律在某些关键问题上保持沉默。在解决法庭前的事实争议时，陪审团或在庭审中的法官必须依赖于非法律原则。学术界曾试图系统分析这些原则在法律事实查明中的运作（Wigmore 1937; Anderson, Schum, and Twining 2009）。据称，这些原则具有一般性质。基于“从证据中推断以测试假设并证明结论的逻辑”在不同学科中受相同原则支配的基础上（Twining and Hampsher-Monk 2003: 4），已经着手开展了开发跨学科证据分析框架的雄心勃勃项目（Schum 1994），并构建了一个跨学科的“证据综合科学”（Dawid, Twining, and Vasilaki 2011; cf. Tillers 2008）。
 
 虽然法律和其他背景下的证据推理可能具有某些共同特征，但仍然存在一些法律证据和证明方法的特点（Rescher and Joynt 1959）。第 1 节（“证据概念”）确定了法律话语中证据的不同含义。律师们谈论证据时，他们指的是什么？他们心中所想的是什么？第 2 节（“接受证据的条件”）从法律证据的概念角度探讨了法律中什么算作证据。法律规定了什么条件必须满足才能被法庭接受为证据？第 3 节（“证据的力量”）将注意力转向证据已经被法庭接受的阶段。这里的重点是法庭如何权衡证据以作出裁决。在这方面，将讨论证据的三个属性：证明价值、充分性和完整程度。
-
 
 ***
 
@@ -247,183 +246,183 @@ Cohen 建议，证据标准应完全被构想为证据权重的问题，根据�
 
 ## Bibliography
 
-* Abimbola, A., 2001, “Abductive Reasoning in Law: Taxonomy and Inference to the Best Explanation”, _Cardozo Law Review_, 22: 1683–1689.
-* Aitken, C., P. Roberts, and G. Jackson, 2010, _Fundamentals of Probability and Statistical Evidence in Criminal Proceedings: Guidance for Judges, Lawyers, Forensic Scientists and Expert Witnessess_, London: Royal Statistical Society. \[[Aitken, Roberts, and Jackson 2010 available online](http://www.rss.org.uk/Images/PDF/influencing-change/rss-fundamentals-probability-statistical-evidence.pdf)]
-* Allen, R., 1986, “A Reconceptualization of Civil Trials”, _Boston University Law Review_, 66: 401–437.
-* –––, 1991, “The Nature of Juridical Proof”, _Cardozo Law Review_, 13: 373–422.
-* –––, 1992, “The Myth of Conditional Relevancy”, _Loyola of Los Angeles Law Review_, 25: 871–884.
-* –––, 1994, “Factual Ambiguity and a Theory of Evidence”, _Northwestern University Law Review_, 88: 604–640.
-* –––, 2020, “Naturalized Epistemology and the Law of Evidence Revisited”, _Quaestio Facti: International Journal on Evidential Reasoning_, 2: 1–32.
-* Allen, R. and S. Jehl, 2003, “Burdens of Persuasion in Civil Cases: Algorithms v. Explanations”, _Michigan State Law Review_, 4: 893–944.
-* Allen, R. and B. Leiter, 2001, “Naturalized Epistemology and the Law of Evidence”, _Virginia Law Review_, 87: 1491–1550.
-* Allen, R. and M. Pardo, 2007a, “The Problematic Value of Mathematical Models of Evidence”, _Journal of Legal Studies_, 36: 107–140.
-* –––, 2007b, “Probability, Explanation and Inference: a Reply”, _International Journal of Evidence and Proof_, 11: 307–317.
-* –––, 2019, “Relative Plausibility and its Critics”, _International Journal of Evidence and Proof_, 23: 5–59.
-* Allen, R. and P. Roberts (eds.), 2007, _International Journal of Evidence and Proof (Special Issue on the Reference Class Problem)_, vol. 11, no.4.
-* Allen, R. and A. Stein, 2013, “Evidence, Probability and the Burden of Proof”, _Arizona Law Review_, 55: 557–602.
-* Amaya, A., 2008, “Justification, Coherence, and Epistemic Responsibility in Legal Fact-finding”, _Episteme_, 5: 306–319.
-* –––, 2009, “Inference to the Best Explanation”, in _Legal Evidence and Proof: Statistics, Stories and Logic_, H. Kaptein, H. Prakken, and B. Verheij (eds.), Burlington: Ashgate, pp. 135–159.
-* –––, 2011, “Legal Justification by Optimal Coherence”, _Ratio Juris_, 24: 304–329.
-* –––, 2013, “Coherence, Evidence, and Legal Proof”, _Legal Theory_, 19: 1–43.
-* –––, 2015, _The Tapestry of Reason: An Inquiry into the Nature of Coherence and its Role in Legal Argument_, Oxford: Hart and Portland.
-* Anderson, T., D. Schum, and W. Twining, 2009, _Analysis of Evidence_, Cambridge: Cambridge University Press, 3rd edition.
-* Ball, V., 1980, “The Myth of Conditional Relevancy”, _Georgia Law Review_, 14: 435–469.
-* Bartels, R., 1981, “Punishment and the Burden of Proof in Criminal Cases: A Modest Proposal”, _Iowa Law Review_, 66: 899–930.
-* Beltrán, J., 2006, “Legal Proof and Fact Finders’ Beliefs”, _Legal Theory_, 12: 293–314.
-* Bentham, J., 1825, _A Treatise on Judicial Evidence_, M. Dumont (ed.), London: Paget.
-* –––, 1827, _Rationale of Judicial Evidence, Specially Applied to English Practice_, J. Mill (ed.), London: Hunt and Clarke.
-* Blackstone, W., 1770, _Commentaries on the Laws of England_, vol. 4, Dublin.
-* Blome-Tillmann, M., 2017, “‘More Likely Than Not’ – Knowledge First and the Role of Bare Statistical Evidence in Courts of Law”, in _Knowledge First: Approaches in Epistemology and Mind_, J. Carter, E. Gordon, and B. Jarvis (eds.), Oxford: Oxford University Press, pp. 278–292.
-* Buchak, L., 2014, “Belief, Credence, and Norms”, _Philosophical Studies_, 169: 285–311.
-* Callen, C., 1982, “Notes on a Grand Illusion: Some Limits on the Use of Bayesian Theory in Evidence Law”, _Indiana Law Journal_, 57: 1–44.
-* Cheng, E., 2009, “A Practical Solution to the Reference Class Problem”, _Columbia Law Review_, 109: 2081–2105.
-* –––, 2013, “Reconceptualising the Burden of Proof”, _Yale Law Journal_, 122: 1254–1279.
-* Cohen, L., 1977, _The Probable and the Provable_, Oxford: Oxford University Press.
-* –––, 1986, “The Role of Evidential Weight in Criminal Proof”, _Boston University Law Review_, 66: 635–649.
-* –––, 1991, “Should a Jury Say What It Believes or What It Accepts?”, _Cardozo Law Review_, 13: 465–483.
-* –––, 1992, _An Essay on Belief and Acceptance_, Oxford: Clarendon Press.
-* Colyvan, M., H. Regan, and S. Ferson, 2001, “Is it a Crime to Belong to a Reference Class?”, _Journal of Political Philosophy_, 9: 168–181.
-* Cullison, A., 1969, “Probability Analysis of Judicial Fact-finding: A Preliminary Outline of the Subjective Approach”, _Toledo Law Review_, 1: 538–598.
-* Damaška, M., 1973, “Evidentiary Barriers to Conviction and Two Models of Criminal Procedure: A Comparative Study”, _University of Pennsylvania Law Review_, 121: 506–589.
-* –––, 1975, “Presentation of Evidence and Factfinding Precision”, _University of Pennsylvania Law Review_, 123: 1083–1105.
-* –––, 1992, “Of Hearsay and Its Analogues”, _Minnesota Law Review_, 76: 425–458.
-* –––, 1994, “Propensity Evidence in Continental Legal Systems”, _Chicago Kent Law Review_, 70: 55–67.
-* –––, 1997, _Evidence Law Adrift_, New Haven: Yale University Press.
-* –––, 2006, “The Jury and the Law of Evidence: Real and Imagined Interconnections”, _Law, Probability and Risk_, 5: 255–265.
-* –––, 2019, _Evaluation of Evidence: Pre-modern and Modern Approaches_, Cambridge: Cambridge University Press.
-* Davis, D. and W. Follette, 2002, “Rethinking the Probative Value of Evidence: Base Rates, Intuitive Profiling and the ‘_Post_diction’ of Behavior”, _Law and Human Behavior_, 26: 133–158.
-* –––, 2003, “Toward an Empirical Approach to Evidentiary Ruling”, 27 _Law and Human Behavior_, 27: 661–684.
-* Dawid, P., W. Twining, and M. Vasilaki, 2011, _Evidence, Inference and Enquiry_, Oxford: Oxford University Press for the British Academy.
-* Duff, A., et al., 2007, _The Trial on Trial_ (Volume 3: Towards a Normative Theory of the Criminal Trial), Oxford: Hart.
-* Dworkin, R., 1981, “Principle, Policy, Procedure”, in _Crime, Proof and Punishment, Essays in Memory of Sir Rupert Cross_, C. Tapper (ed.), London: Butterworths, pp. 193–225.
-* Eggleston, R., 1983, _Evidence, Probability and Proof_, London: Weidenfeld & Nicolson, 2nd edition.
-* Enoch, D., L. Spectre, and T. Fisher, 2012, “Statistical Evidence, Sensitivity, and the Legal Value of Knowledge”, _Philosophy and Public Affairs_, 40(3): 197–224.
-* Enoch, D. and L. Spectre, 2019, “Sensitivity, Safety, and the Law: a Reply to Pardo”, _Legal Theory_, 25: 178–199.
-* Enoch, D. and T. Fisher, 2015, “Sense and ‘Sensitivity’: Epistemic and Instrumental Approaches to Statistical Evidence”, _Stanford Law Review_, 67: 557–611.
-* Finkelstein, M. and B. Levin, 2003, “On the Probative Value of Evidence from a Screening Search”, _Jurimetrics_, 43: 265–290.
-* Franklin, J., 2010, “Feature Selection Methods for Solving the Reference Class Problem: Comment on Edward K. Cheng, ‘A Practical Solution to the Reference Class Problem’”, _Columbia Law Review Sidebar_, 110: 12–23.
-* –––, 2011, “The Objective Bayesian Conceptualisation of Proof and Reference Class Problems”, _Sydney Law Review_, 33: 545–561.
-* –––, 2012, “Discussion Paper: How much of Commonsense and Legal Reasoning is Formalizable? A Review of Conceptual Obstacles”, _Law, Probability and Risk_, 11: 225–245.
-* Friedman, R., 1986, “A Close Look at Probative Value”, _Boston University Law Review_, 33: 733–759.
-* –––, 1994, “Conditional Probative Value: Neoclassicism Without Myth”, _Michigan Law Review_, 93:439–484.
-* –––, 1997, “Dealing with Evidential Deficiency”, _Cardozo Law Review_, 18: 1961–1986.
-* –––, 2000, “A Presumption of Innocence, Not of Even Odds”, _Stanford Law Review_, 52:873–887.
-* –––, 2001, “‘E’ is for Eclectic: Multiple Perspectives on Evidence”, _Virginia Law Review_, 87: 2029–2054.
-* Friedman, R. and R. Park, 2003, “Sometimes What Everybody Thinks They Know Is True”, _Law and Human Behavior_, 27: 629–644.
-* Gardiner, G., 2019a, “The Reasonable and the Relevant: Legal Standards of Proof”, _Philosophy and Public Affairs_, 47: 288–318.
-* –––, 2019b, “Legal Burdens of Proof and Statistical Evidence”, in _The Routledge Handbook of Applied Epistemology_, in D. Coady and J. Chase (eds.), Oxford: Routledge.
-* –––, 2020, “Profiling and Proof: Are Statistics Safe?”, _Philosophy_, 95: 161–183.
-* –––, forthcoming, “Legal Evidence and Knowledge”, in M. Lasonen-Aarnio and C. Littlejohn (eds.), _The Routledge Handbook of the Philosophy of Evidence_, Oxford: Routledge.
-* Goldman, A., 1999, _Knowledge in a Social World_, Oxford: Oxford University Press.
-* –––, 2002, “Quasi-Objective Bayesianism and Legal Evidence”, _Jurimetrics_, 42: 237–260.
-* –––, 2005, “Legal Evidence” in _The Blackwell Guide to the Philosophy of Law and Legal Theory_, M. Goldring and W. Edmundson (eds.), Malden, MA: Blackwell, pp. 163–175.
-* Griffin, L., 2013, “Narrative, Truth, and Trial”, _Georgetown Law Journal_, 101: 281–335.
-* Haack, S., 1993,_Evidence and Inquiry, Towards Reconstruction in Epistemology_, Oxford: Blackwell.
-* –––, 2003, “Clues to the Puzzle of Scientific Evidence: a More-So Story” in S. Haack, _Defending Science: Within Reasons_, New York: Prometheus, pp. 57–91.
-* –––, 2004, “Epistemology Legalized: or, Truth, Justice and the American Way”, _American Journal of Jurisprudence_, 49: 43–61.
-* –––, 2008a, “Proving Causation: The Holism of Warrant and the Atomism of _Daubert_”, _Journal of Health and Biomedical Law_, 4: 253–289.
-* –––, 2008b, “Warrant, Causation, and the Atomism of Evidence Law”, _Episteme_, 5: 253–266.
-* –––, 2009, _Evidence and Inquiry: A Pragmatist Reconstruction of Epistemology_, New York: Prometheus (expanded edition of Haack 1993).
-* –––, 2012, “The Embedded Epistemologist: Dispatches from the Legal Front”, _Ratio Juris_, 25: 206–235.
-* –––, 2014, “Legal Probabilism: An Epistemological Dissent” in S. Haack, _Evidence Matters: Science, Proof, and Truth in the Law_, Cambridge: Cambridge University Press, pp. 47–77.
-* Ho, H.L., 2003–2004, “The Legitimacy of Medieval Proof”, _Journal of Law and Religion_, 19: 259–298.
-* –––, 2008, _A Philosophy of Evidence Law: Justice in the Search for Truth_, Oxford: Oxford University Press.
-* Jackson, J. and S. Doran, 2010, “Evidence” in _A Companion to Philosophy of Law and Legal Theory_, 2nd edition, D. Patterson (ed.), Malden, MA : Wiley-Blackwell, pp. 177–187.
-* James, G., 1941, “Relevancy, Probability and the Law”, _California Law Review_, 29: 689–705.
-* Josephson, J., 2001, “On the Proof Dynamics of Inference to the Best Explanation”, _Cardozo Law Review_ 22: 1621–1643.
-* Kaplan, J., 1968, “Decision Theory and the Fact-finding Process”, _Stanford Law Review_, 20: 1065–1092.
-* Kaplow, L., 2012, “Burden of Proof”, _Yale Law Journal_, 121: 738–859.
-* Kaye, D., 1986a, “Quantifying Probative Value”, _Boston University Law Review_, 66: 761–766.
-* –––, 1986b, “Do We Need a Calculus of Weight to Understand Proof Beyond Reasonable Doubt?”, _Boston University Law Review_, 66: 657–672.
-* Kaye, D. and J. Koehler, 2003, “The Misquantification of Probative Value”, _Law and Human Behavior_, 27: 645–659.
-* Keynes, J., 1921, _A Treatise on Probability_, London: MacMillan.
-* Laudan, L., 2006, _Truth, Error, and Criminal Law: An Essay in Legal Epistemology_, Cambridge: Cambridge University Press.
-* –––, 2007, “Strange Bedfellows: Inference to the Best Explanation and the Criminal Standard of Proof”, _International Journal of Evidence and Proof_, 11: 292–306.
-* Laudan, L. and H. Saunders, 2009, “Re-Thinking the Criminal Standard of Proof: Seeking Consensus about the Utilities of Trial Outcomes”, _International Commentary on Evidence_, 7(2), article 1 (online journal).
-* Lawson, G., 2017, _Evidence of the Law: Proving Legal Claims_, Chicago: University of Chicago Press.
-* Leiter, B., 1997, “Why Even Good Philosophy of Science Would Not Make for Good Philosophy of Evidence”, _Brigham Young University Law Review_, 803–819.
-* Lempert, R., 1977, “Modeling Relevance”, _Michigan Law Review_, 75: 1021–1057.
-* Lillquist, E., 2002, “Recasting Reasonable Doubt: Decision Theory and the Virtues of Variability”, _University of California Davies Law Review_, 36: 85–197.
-* Littlejohn, C., 2020, “Truth, Knowledge, and the Standard of Proof in Criminal Law”, _Synthese_, 197: 5253–5286.
-* –––, 2021, “Justified Belief and Just Conviction” in _The Social Epistemology of Legal Trials_, Z. Hoskins and J. Robson (eds.), New York: Routledge, pp. 106–123.
-* MacCrimmon, M., 2001–2002, “What is ‘Common’ about Common Sense?: Cautionary Tales for Travelers Crossing Disciplinary Boundaries”, _Cardozo Law Review_, 22: 1433–1460.
-* McCormick, C., 2013, _McCormick on Evidence_, K. Broun et al. (eds.), St. Paul, Minnesota: Thomson Reuters/WestLaw, 7th edition.
-* McNamara, P., 1986, “The Canons of Evidence: Rules of Exclusion or Rules of Use?”, _Adelaide Law Review_, 10: 341–364.
-* Mnookin, J., 2006, “Bifurcation and the Law of Evidence”, _University of Pennsylvania Law Review PENNumbra_, 155: 134–145.
-* –––, 2013, “Atomism, Holism, and the Judicial Assessment of Evidence”, _University of California at Los Angeles Law Review_, 60: 1524–1585.
-* Montrose, J., 1954, “Basic Concepts of the Law of Evidence”, _Law Quarterly Review_, 70: 527–555.
-* Morgan, E., 1929, “Functions of Judge and Jury in the Determination of Preliminary Questions of Fact”, _Harvard Law Review_, 43: 165–191.
-* –––, 1936–37, “The Jury and the Exclusionary Rules of Evidence”, _University of Chicago Law Review_, 4: 247–258.
-* Moss, S., 2018, _Probabilistic Knowledge_, Oxford: Oxford University Press.
-* –––, forthcoming, “Knowledge and Legal Proof” in _Oxford Studies in Epistemology_ (Volume 7), T. Gendler and J. Hawthorne (eds.), Oxford: Oxford University Press.
-* Nance, D., 1988, “The Best Evidence Principle”, _Iowa Law Review_, 73: 227–297.
-* –––, 1990, “Conditional Relevance Reinterpreted”, _Boston University Law Review_, 70: 447–507.
-* –––, 2001, “Naturalized Epistemology and the Critique of Evidence Theory”, _Virginia Law Review_, 87: 1551–1618.
-* –––, 2007a, “Allocating the Risk of Error”, _Legal Theory_, 13: 129–164.
-* –––, 2007b, “The Reference Class Problem and Mathematical Models of Inference”, _International Journal of Evidence and Proof_, 11: 259–273.
-* –––, 2008, “The Weights of Evidence”, _Episteme_, 5: 267–281.
-* –––, 2010, “Adverse Inferences About Adverse Inferences: Restructuring Juridical Roles for Responding to Evidence Tampering by Parties to Litigation”, _Boston University Law Review_, 90: 1089–1146.
-* –––, 2016, _The Burdens of Proof – Discriminatory Power, Weight of Evidence and Tenacity of Belief_, Cambridge: Cambridge University Press.
-* Nance, D. and S. Morris, 2002, “An Empirical Assessment of Presentation Formats for Trace Evidence with a Relatively Large and Quantifiable Random Match Probability”, _Jurimetrics_, 42: 403–447.
-* Nelkin, D., 2021, “Rational Belief and Statistical Evidence — Blame, Bias and the Law” in _Lotteries, Knowledge, and Rational Belief_, I. Douven (ed.), Cambridge: Cambridge University Press, pp. 6–27.
-* Nesson, C., 1979, “Reasonable Doubt and Permissive Inferences: the Value of Complexity”, _Harvard Law Review_, 92: 1187–1225.
-* –––, 1985, “The Evidence or the Event? On Judicial Proof and the Acceptability of Verdicts”, _Harvard Law Review_, 98: 1357–1392.
-* Pardo, M., 2000, “Juridical Proof, Evidence, and Pragmatic Meaning: Toward Evidentiary Holism”, _Northwestern University Law Review_, 95: 399–442.
-* –––, 2005, “The Field of Evidence and the Field of Knowledge”, _Law and Philosophy_, 24: 321–392.
-* –––, 2007, “The Political Morality of Evidence Law”, _International Commentary on Evidence_, 5(2), essay 1 (online journal).
-* –––, 2010, “The Gettier Problem and Legal Proof”, _Legal Theory_, 16: 37–57.
-* –––, 2013, “The Nature and Purpose of Evidence Theory”, _Vanderbilt Law Review_, 66: 547–613.
-* –––, 2018, “Safety vs. Sensitivity: Possible Worlds and the Law of Evidence”, _Legal Theory_, 24: 50–75.
-* Pardo, M.S. and R.J. Allen, 2008, “Juridical Proof and the Best Explanation”, _Law and Philosophy_, 27: 223–268.
-* Park, R., 1986, “The Hearsay Rule and the Stability of Verdicts: A Response to Professor Nesson”, _Minnesota Law Review_, 70: 1057–1072.
-* Park, R. et al., 2010, “Bayes Wars Redivivus: An Exchange”, _International Commentary on Evidence_, 8(1), article 1 (online journal).
-* Pattenden, R., 1996–7, “The Discretionary Exclusion of Relevant Evidence in English Civil Proceedings”, _International Journal of Evidence and Proof_, 1: 361–385.
-* Pennington, N. and R. Hastie, 1991, “A Cognitive Model of Juror Decision Making: The Story Model”, _Cardozo Law Review_, 13: 519–557.
-* –––, 1993, “The Story Model for Juror Decision-making” in _Inside the Juror: The Psychology of Juror Decision Making_, R. Hastie (ed.), Cambridge: Cambridge University Press, pp. 192–221.
-* Picinali, F., 2013, “Two Meanings of ‘Reasonableness’: Dispelling the ‘Floating’ Reasonable Doubt”, _Modern Law Review_, 76: 845–875.
-* Pollock, F., 1876, “Stephen’s Digest of the Law of Evidence”, _The Forthnightly Review_, 20: 383–394.
-* –––, 1899, “Review of _A Preliminary Treatise on Evidence at the Common Law_ by James Bradley Thayer, _Law Quarterly Review_”, 15: 86–87.
-* Posner, R., 1999, “An Economic Approach to the Law of Evidence”, _Stanford Law Review_, 51: 1477–1546.
-* Pritchard, D., 2015, “Risk”, _Metaphilosophy_, 46: 436–461.
-* –––, 2018, “Legal Risk, Legal Evidence and the Arithmetic of Criminal Justice”, _Jurisprudence_, 9: 108–119.
-* Rescher, N. and C. Joynt, 1959, “Evidence in History and in the Law”, _Journal of Philosophy_, 56: 561–578.
-* Redmayne, M., 1996, “Standards of Proof in Civil Litigation”, _Modern Law Review_, 62: 167–195.
-* –––, 2006, “The Structure of Evidence Law”, _Oxford Journal of Legal Studies_, 26: 805–822.
-* –––, 2008, “Exploring the Proof Paradoxes”, _Legal Theory_, 14: 281–309.
-* Ribeiro, G., 2019, “The Case for Varying Standards of Proof”, _San Diego Law Review_, 56: 161–219.
-* Roberts, P. and C. Aitken, 2014, _The Logic of Forensic Proof: Inferential Reasoning in Criminal Evidence and Forensic Science_, London: Royal Statistical Society. \[[Roberts and Aitken 2014 available online](http://www.rss.org.uk/Images/PDF/influencing-change/rss-inferential-reasoning-criminal-evidence-forensic-science.pdf)]
-* Roberts, P. and A. Zuckerman, 2010, _Criminal Evidence_ , Oxford: Oxford University Press, 2nd edition.
-* Robertson, B. and G. Vignaux, 1995, _Interpreting Evidence: Evaluating Forensic Science in the Courtroom_, Chichester: John Wiley.
-* Schauer, F., 2006, “On the Supposed Jury-Dependence of Evidence Law”, _University of Pennsylvania Law Review_, 155: 165–202.
-* –––, 2008, “In Defense of Rule-Based Evidence Law: And Epistemology Too”, _Episteme_ 5: 295–305.
-* Schum, D., 1979, “A Review of a Case Against Blaise Pascal and His Heirs”, _Michigan Law Review_, 77:446–483.
-* –––, 1994, _The Evidential Foundations of Probabilistic Reasoning_, New York: John Wiley & Sons.
-* –––, 1998, “Legal Evidence and Inference” in _Routledge Encyclopedia of Philosophy_, E. Craig (ed.), London: Routledge, pp. 500–506.
-* –––, 2001, “Species of Abductive Reasoning in Fact Investigation in Law”, _Cardozo Law Review_, 22:1645–1681.
-* Simon, D., 2004, “A Third View of the Black Box: Cognitive Coherence in Legal Decision Making”, _University of Chicago Law Review_, 71: 511–586.
-* –––, 2011, “Limited Diagnosticity of Criminal Trials”, _Vanderbilt Law Review_, 64: 143–223.
-* Smith, M., 2018, “When Does Evidence Suffice for Conviction?”, _Mind_, 127: 1193–1218.
-* Stein, A., 2005, _Foundations of Evidence Law_, Oxford: Oxford University Press.
-* Stephen, J., 1872, _The Indian Evidence Act, with an Introduction on the Principles of Judicial Evidence_, Calcutta: Thacker, Spink & Co.
-* –––, 1886, _A Digest of the Law of Evidence_, London: William Clowes & Sons, 5th edition.
-* Sullivan, S., 2019, “A Likelihood Story: The Theory of Legal Fact-finding”, _University of Colorado Law Review_, 90: 1–66.
-* Thayer, J., 1898, _A Preliminary Treatise on Evidence at the Common Law_, Boston: Little, Brown & Co.
-* Thomson, J., 1986, “Liability and Individualized Evidence”, _Law and Contemporary Problems_, 49(3): 199–219.
-* Tillers, P., 2005, “If Wishes were Horses: Discursive Comments on Attempts to Prevent Individuals from Being Unfairly Burdened by their Reference Classes”, _Law, Probability and Risk_, 4: 33–39.
-* –––, 2008, “Are there Universal Principles or Forms of Evidential Inference? Of Inference Networks and Onto-Epistemology” in _Crime, Procedure and Evidence in a Comparative and International Context_, J. Jackson, M. Langer, and P. Tillers (eds.), Oxford: Hart, pp. 179–198.
-* Tillers, P. and E. Green (eds.), 1988, _Probability and Inference in the Law of Evidence: The Limits and Uses of Bayesianism_, Dordrecht: Kluwer.
-* Trautman, H., 1952, “Logical or Legal Relevancy: A Conflict in Theory”, _Vanderbilt Law Review_, 5: 385–413.
-* Tribe, L., 1971, “Trial by Mathematics: Precision and Ritual in the Legal Process”, _Harvard Law Review_, 84: 1329–1393
-* Twining, W., 1985, _Theories of Evidence: Bentham and Wigmore_, London: Weidenfeld and Nicolson.
-* –––, 2006, _Rethinking Evidence: Exploratory Essays_, Cambridge: Cambridge University Press, 2nd edition.
-* Twining, W. and I. Hampsher-Monk, 2003, _Evidence and Inference in History and Law: Interdisciplinary Dialogues_, Evanston, Illinois: Northwestern University Press.
-* Whitworth, G., 1881, _The Theory of Relevancy for the Purpose of Judicial Evidence_, Bombay: Thacker & Co.
-* Wigmore, J., 1913, “Review of _A Treatise on Facts, or the Weight and Value of Evidence_ by Charles C. Moore”, _Illinois Law Review_, 3: 477–478.
-* –––, 1935, _A Students’ Textbook of the Law of Evidence_, Brooklyn: Foundation Press.
-* –––, 1937, _Science of Judicial Proof, as Given by Logic, Psychology, and General Experience and Illustrated in Judicial Trials_, Boston: Little, Brown and Co.
-* –––, 1983a, _Evidence in Trials at Common Law_, vol. 1, P. Tillers (ed.), Boston: Little, Brown and Co.
-* –––, 1983b, _Evidence in Trials at Common Law_, vol. 1A, P. Tillers (ed.), Boston: Little, Brown and Co.
-* Wills, W., 1852, _An Essay on the Principles of Circumstantial Evidence_, Philadelphia: T & J W Johnson, reprint from the third London edition.
+* Abimbola, A., 2001, “Abductive Reasoning in Law: Taxonomy and Inference to the Best Explanation”, *Cardozo Law Review*, 22: 1683–1689.
+* Aitken, C., P. Roberts, and G. Jackson, 2010, *Fundamentals of Probability and Statistical Evidence in Criminal Proceedings: Guidance for Judges, Lawyers, Forensic Scientists and Expert Witnessess*, London: Royal Statistical Society. \[[Aitken, Roberts, and Jackson 2010 available online](http://www.rss.org.uk/Images/PDF/influencing-change/rss-fundamentals-probability-statistical-evidence.pdf)]
+* Allen, R., 1986, “A Reconceptualization of Civil Trials”, *Boston University Law Review*, 66: 401–437.
+* –––, 1991, “The Nature of Juridical Proof”, *Cardozo Law Review*, 13: 373–422.
+* –––, 1992, “The Myth of Conditional Relevancy”, *Loyola of Los Angeles Law Review*, 25: 871–884.
+* –––, 1994, “Factual Ambiguity and a Theory of Evidence”, *Northwestern University Law Review*, 88: 604–640.
+* –––, 2020, “Naturalized Epistemology and the Law of Evidence Revisited”, *Quaestio Facti: International Journal on Evidential Reasoning*, 2: 1–32.
+* Allen, R. and S. Jehl, 2003, “Burdens of Persuasion in Civil Cases: Algorithms v. Explanations”, *Michigan State Law Review*, 4: 893–944.
+* Allen, R. and B. Leiter, 2001, “Naturalized Epistemology and the Law of Evidence”, *Virginia Law Review*, 87: 1491–1550.
+* Allen, R. and M. Pardo, 2007a, “The Problematic Value of Mathematical Models of Evidence”, *Journal of Legal Studies*, 36: 107–140.
+* –––, 2007b, “Probability, Explanation and Inference: a Reply”, *International Journal of Evidence and Proof*, 11: 307–317.
+* –––, 2019, “Relative Plausibility and its Critics”, *International Journal of Evidence and Proof*, 23: 5–59.
+* Allen, R. and P. Roberts (eds.), 2007, *International Journal of Evidence and Proof (Special Issue on the Reference Class Problem)*, vol. 11, no.4.
+* Allen, R. and A. Stein, 2013, “Evidence, Probability and the Burden of Proof”, *Arizona Law Review*, 55: 557–602.
+* Amaya, A., 2008, “Justification, Coherence, and Epistemic Responsibility in Legal Fact-finding”, *Episteme*, 5: 306–319.
+* –––, 2009, “Inference to the Best Explanation”, in *Legal Evidence and Proof: Statistics, Stories and Logic*, H. Kaptein, H. Prakken, and B. Verheij (eds.), Burlington: Ashgate, pp. 135–159.
+* –––, 2011, “Legal Justification by Optimal Coherence”, *Ratio Juris*, 24: 304–329.
+* –––, 2013, “Coherence, Evidence, and Legal Proof”, *Legal Theory*, 19: 1–43.
+* –––, 2015, *The Tapestry of Reason: An Inquiry into the Nature of Coherence and its Role in Legal Argument*, Oxford: Hart and Portland.
+* Anderson, T., D. Schum, and W. Twining, 2009, *Analysis of Evidence*, Cambridge: Cambridge University Press, 3rd edition.
+* Ball, V., 1980, “The Myth of Conditional Relevancy”, *Georgia Law Review*, 14: 435–469.
+* Bartels, R., 1981, “Punishment and the Burden of Proof in Criminal Cases: A Modest Proposal”, *Iowa Law Review*, 66: 899–930.
+* Beltrán, J., 2006, “Legal Proof and Fact Finders’ Beliefs”, *Legal Theory*, 12: 293–314.
+* Bentham, J., 1825, *A Treatise on Judicial Evidence*, M. Dumont (ed.), London: Paget.
+* –––, 1827, *Rationale of Judicial Evidence, Specially Applied to English Practice*, J. Mill (ed.), London: Hunt and Clarke.
+* Blackstone, W., 1770, *Commentaries on the Laws of England*, vol. 4, Dublin.
+* Blome-Tillmann, M., 2017, “‘More Likely Than Not’ – Knowledge First and the Role of Bare Statistical Evidence in Courts of Law”, in *Knowledge First: Approaches in Epistemology and Mind*, J. Carter, E. Gordon, and B. Jarvis (eds.), Oxford: Oxford University Press, pp. 278–292.
+* Buchak, L., 2014, “Belief, Credence, and Norms”, *Philosophical Studies*, 169: 285–311.
+* Callen, C., 1982, “Notes on a Grand Illusion: Some Limits on the Use of Bayesian Theory in Evidence Law”, *Indiana Law Journal*, 57: 1–44.
+* Cheng, E., 2009, “A Practical Solution to the Reference Class Problem”, *Columbia Law Review*, 109: 2081–2105.
+* –––, 2013, “Reconceptualising the Burden of Proof”, *Yale Law Journal*, 122: 1254–1279.
+* Cohen, L., 1977, *The Probable and the Provable*, Oxford: Oxford University Press.
+* –––, 1986, “The Role of Evidential Weight in Criminal Proof”, *Boston University Law Review*, 66: 635–649.
+* –––, 1991, “Should a Jury Say What It Believes or What It Accepts?”, *Cardozo Law Review*, 13: 465–483.
+* –––, 1992, *An Essay on Belief and Acceptance*, Oxford: Clarendon Press.
+* Colyvan, M., H. Regan, and S. Ferson, 2001, “Is it a Crime to Belong to a Reference Class?”, *Journal of Political Philosophy*, 9: 168–181.
+* Cullison, A., 1969, “Probability Analysis of Judicial Fact-finding: A Preliminary Outline of the Subjective Approach”, *Toledo Law Review*, 1: 538–598.
+* Damaška, M., 1973, “Evidentiary Barriers to Conviction and Two Models of Criminal Procedure: A Comparative Study”, *University of Pennsylvania Law Review*, 121: 506–589.
+* –––, 1975, “Presentation of Evidence and Factfinding Precision”, *University of Pennsylvania Law Review*, 123: 1083–1105.
+* –––, 1992, “Of Hearsay and Its Analogues”, *Minnesota Law Review*, 76: 425–458.
+* –––, 1994, “Propensity Evidence in Continental Legal Systems”, *Chicago Kent Law Review*, 70: 55–67.
+* –––, 1997, *Evidence Law Adrift*, New Haven: Yale University Press.
+* –––, 2006, “The Jury and the Law of Evidence: Real and Imagined Interconnections”, *Law, Probability and Risk*, 5: 255–265.
+* –––, 2019, *Evaluation of Evidence: Pre-modern and Modern Approaches*, Cambridge: Cambridge University Press.
+* Davis, D. and W. Follette, 2002, “Rethinking the Probative Value of Evidence: Base Rates, Intuitive Profiling and the ‘_Post_diction’ of Behavior”, *Law and Human Behavior*, 26: 133–158.
+* –––, 2003, “Toward an Empirical Approach to Evidentiary Ruling”, 27 *Law and Human Behavior*, 27: 661–684.
+* Dawid, P., W. Twining, and M. Vasilaki, 2011, *Evidence, Inference and Enquiry*, Oxford: Oxford University Press for the British Academy.
+* Duff, A., et al., 2007, *The Trial on Trial* (Volume 3: Towards a Normative Theory of the Criminal Trial), Oxford: Hart.
+* Dworkin, R., 1981, “Principle, Policy, Procedure”, in *Crime, Proof and Punishment, Essays in Memory of Sir Rupert Cross*, C. Tapper (ed.), London: Butterworths, pp. 193–225.
+* Eggleston, R., 1983, *Evidence, Probability and Proof*, London: Weidenfeld & Nicolson, 2nd edition.
+* Enoch, D., L. Spectre, and T. Fisher, 2012, “Statistical Evidence, Sensitivity, and the Legal Value of Knowledge”, *Philosophy and Public Affairs*, 40(3): 197–224.
+* Enoch, D. and L. Spectre, 2019, “Sensitivity, Safety, and the Law: a Reply to Pardo”, *Legal Theory*, 25: 178–199.
+* Enoch, D. and T. Fisher, 2015, “Sense and ‘Sensitivity’: Epistemic and Instrumental Approaches to Statistical Evidence”, *Stanford Law Review*, 67: 557–611.
+* Finkelstein, M. and B. Levin, 2003, “On the Probative Value of Evidence from a Screening Search”, *Jurimetrics*, 43: 265–290.
+* Franklin, J., 2010, “Feature Selection Methods for Solving the Reference Class Problem: Comment on Edward K. Cheng, ‘A Practical Solution to the Reference Class Problem’”, *Columbia Law Review Sidebar*, 110: 12–23.
+* –––, 2011, “The Objective Bayesian Conceptualisation of Proof and Reference Class Problems”, *Sydney Law Review*, 33: 545–561.
+* –––, 2012, “Discussion Paper: How much of Commonsense and Legal Reasoning is Formalizable? A Review of Conceptual Obstacles”, *Law, Probability and Risk*, 11: 225–245.
+* Friedman, R., 1986, “A Close Look at Probative Value”, *Boston University Law Review*, 33: 733–759.
+* –––, 1994, “Conditional Probative Value: Neoclassicism Without Myth”, *Michigan Law Review*, 93:439–484.
+* –––, 1997, “Dealing with Evidential Deficiency”, *Cardozo Law Review*, 18: 1961–1986.
+* –––, 2000, “A Presumption of Innocence, Not of Even Odds”, *Stanford Law Review*, 52:873–887.
+* –––, 2001, “‘E’ is for Eclectic: Multiple Perspectives on Evidence”, *Virginia Law Review*, 87: 2029–2054.
+* Friedman, R. and R. Park, 2003, “Sometimes What Everybody Thinks They Know Is True”, *Law and Human Behavior*, 27: 629–644.
+* Gardiner, G., 2019a, “The Reasonable and the Relevant: Legal Standards of Proof”, *Philosophy and Public Affairs*, 47: 288–318.
+* –––, 2019b, “Legal Burdens of Proof and Statistical Evidence”, in *The Routledge Handbook of Applied Epistemology*, in D. Coady and J. Chase (eds.), Oxford: Routledge.
+* –––, 2020, “Profiling and Proof: Are Statistics Safe?”, *Philosophy*, 95: 161–183.
+* –––, forthcoming, “Legal Evidence and Knowledge”, in M. Lasonen-Aarnio and C. Littlejohn (eds.), *The Routledge Handbook of the Philosophy of Evidence*, Oxford: Routledge.
+* Goldman, A., 1999, *Knowledge in a Social World*, Oxford: Oxford University Press.
+* –––, 2002, “Quasi-Objective Bayesianism and Legal Evidence”, *Jurimetrics*, 42: 237–260.
+* –––, 2005, “Legal Evidence” in *The Blackwell Guide to the Philosophy of Law and Legal Theory*, M. Goldring and W. Edmundson (eds.), Malden, MA: Blackwell, pp. 163–175.
+* Griffin, L., 2013, “Narrative, Truth, and Trial”, *Georgetown Law Journal*, 101: 281–335.
+* Haack, S., 1993,*Evidence and Inquiry, Towards Reconstruction in Epistemology*, Oxford: Blackwell.
+* –––, 2003, “Clues to the Puzzle of Scientific Evidence: a More-So Story” in S. Haack, *Defending Science: Within Reasons*, New York: Prometheus, pp. 57–91.
+* –––, 2004, “Epistemology Legalized: or, Truth, Justice and the American Way”, *American Journal of Jurisprudence*, 49: 43–61.
+* –––, 2008a, “Proving Causation: The Holism of Warrant and the Atomism of *Daubert*”, *Journal of Health and Biomedical Law*, 4: 253–289.
+* –––, 2008b, “Warrant, Causation, and the Atomism of Evidence Law”, *Episteme*, 5: 253–266.
+* –––, 2009, *Evidence and Inquiry: A Pragmatist Reconstruction of Epistemology*, New York: Prometheus (expanded edition of Haack 1993).
+* –––, 2012, “The Embedded Epistemologist: Dispatches from the Legal Front”, *Ratio Juris*, 25: 206–235.
+* –––, 2014, “Legal Probabilism: An Epistemological Dissent” in S. Haack, *Evidence Matters: Science, Proof, and Truth in the Law*, Cambridge: Cambridge University Press, pp. 47–77.
+* Ho, H.L., 2003–2004, “The Legitimacy of Medieval Proof”, *Journal of Law and Religion*, 19: 259–298.
+* –––, 2008, *A Philosophy of Evidence Law: Justice in the Search for Truth*, Oxford: Oxford University Press.
+* Jackson, J. and S. Doran, 2010, “Evidence” in *A Companion to Philosophy of Law and Legal Theory*, 2nd edition, D. Patterson (ed.), Malden, MA : Wiley-Blackwell, pp. 177–187.
+* James, G., 1941, “Relevancy, Probability and the Law”, *California Law Review*, 29: 689–705.
+* Josephson, J., 2001, “On the Proof Dynamics of Inference to the Best Explanation”, *Cardozo Law Review* 22: 1621–1643.
+* Kaplan, J., 1968, “Decision Theory and the Fact-finding Process”, *Stanford Law Review*, 20: 1065–1092.
+* Kaplow, L., 2012, “Burden of Proof”, *Yale Law Journal*, 121: 738–859.
+* Kaye, D., 1986a, “Quantifying Probative Value”, *Boston University Law Review*, 66: 761–766.
+* –––, 1986b, “Do We Need a Calculus of Weight to Understand Proof Beyond Reasonable Doubt?”, *Boston University Law Review*, 66: 657–672.
+* Kaye, D. and J. Koehler, 2003, “The Misquantification of Probative Value”, *Law and Human Behavior*, 27: 645–659.
+* Keynes, J., 1921, *A Treatise on Probability*, London: MacMillan.
+* Laudan, L., 2006, *Truth, Error, and Criminal Law: An Essay in Legal Epistemology*, Cambridge: Cambridge University Press.
+* –––, 2007, “Strange Bedfellows: Inference to the Best Explanation and the Criminal Standard of Proof”, *International Journal of Evidence and Proof*, 11: 292–306.
+* Laudan, L. and H. Saunders, 2009, “Re-Thinking the Criminal Standard of Proof: Seeking Consensus about the Utilities of Trial Outcomes”, *International Commentary on Evidence*, 7(2), article 1 (online journal).
+* Lawson, G., 2017, *Evidence of the Law: Proving Legal Claims*, Chicago: University of Chicago Press.
+* Leiter, B., 1997, “Why Even Good Philosophy of Science Would Not Make for Good Philosophy of Evidence”, *Brigham Young University Law Review*, 803–819.
+* Lempert, R., 1977, “Modeling Relevance”, *Michigan Law Review*, 75: 1021–1057.
+* Lillquist, E., 2002, “Recasting Reasonable Doubt: Decision Theory and the Virtues of Variability”, *University of California Davies Law Review*, 36: 85–197.
+* Littlejohn, C., 2020, “Truth, Knowledge, and the Standard of Proof in Criminal Law”, *Synthese*, 197: 5253–5286.
+* –––, 2021, “Justified Belief and Just Conviction” in *The Social Epistemology of Legal Trials*, Z. Hoskins and J. Robson (eds.), New York: Routledge, pp. 106–123.
+* MacCrimmon, M., 2001–2002, “What is ‘Common’ about Common Sense?: Cautionary Tales for Travelers Crossing Disciplinary Boundaries”, *Cardozo Law Review*, 22: 1433–1460.
+* McCormick, C., 2013, *McCormick on Evidence*, K. Broun et al. (eds.), St. Paul, Minnesota: Thomson Reuters/WestLaw, 7th edition.
+* McNamara, P., 1986, “The Canons of Evidence: Rules of Exclusion or Rules of Use?”, *Adelaide Law Review*, 10: 341–364.
+* Mnookin, J., 2006, “Bifurcation and the Law of Evidence”, *University of Pennsylvania Law Review PENNumbra*, 155: 134–145.
+* –––, 2013, “Atomism, Holism, and the Judicial Assessment of Evidence”, *University of California at Los Angeles Law Review*, 60: 1524–1585.
+* Montrose, J., 1954, “Basic Concepts of the Law of Evidence”, *Law Quarterly Review*, 70: 527–555.
+* Morgan, E., 1929, “Functions of Judge and Jury in the Determination of Preliminary Questions of Fact”, *Harvard Law Review*, 43: 165–191.
+* –––, 1936–37, “The Jury and the Exclusionary Rules of Evidence”, *University of Chicago Law Review*, 4: 247–258.
+* Moss, S., 2018, *Probabilistic Knowledge*, Oxford: Oxford University Press.
+* –––, forthcoming, “Knowledge and Legal Proof” in *Oxford Studies in Epistemology* (Volume 7), T. Gendler and J. Hawthorne (eds.), Oxford: Oxford University Press.
+* Nance, D., 1988, “The Best Evidence Principle”, *Iowa Law Review*, 73: 227–297.
+* –––, 1990, “Conditional Relevance Reinterpreted”, *Boston University Law Review*, 70: 447–507.
+* –––, 2001, “Naturalized Epistemology and the Critique of Evidence Theory”, *Virginia Law Review*, 87: 1551–1618.
+* –––, 2007a, “Allocating the Risk of Error”, *Legal Theory*, 13: 129–164.
+* –––, 2007b, “The Reference Class Problem and Mathematical Models of Inference”, *International Journal of Evidence and Proof*, 11: 259–273.
+* –––, 2008, “The Weights of Evidence”, *Episteme*, 5: 267–281.
+* –––, 2010, “Adverse Inferences About Adverse Inferences: Restructuring Juridical Roles for Responding to Evidence Tampering by Parties to Litigation”, *Boston University Law Review*, 90: 1089–1146.
+* –––, 2016, *The Burdens of Proof – Discriminatory Power, Weight of Evidence and Tenacity of Belief*, Cambridge: Cambridge University Press.
+* Nance, D. and S. Morris, 2002, “An Empirical Assessment of Presentation Formats for Trace Evidence with a Relatively Large and Quantifiable Random Match Probability”, *Jurimetrics*, 42: 403–447.
+* Nelkin, D., 2021, “Rational Belief and Statistical Evidence — Blame, Bias and the Law” in *Lotteries, Knowledge, and Rational Belief*, I. Douven (ed.), Cambridge: Cambridge University Press, pp. 6–27.
+* Nesson, C., 1979, “Reasonable Doubt and Permissive Inferences: the Value of Complexity”, *Harvard Law Review*, 92: 1187–1225.
+* –––, 1985, “The Evidence or the Event? On Judicial Proof and the Acceptability of Verdicts”, *Harvard Law Review*, 98: 1357–1392.
+* Pardo, M., 2000, “Juridical Proof, Evidence, and Pragmatic Meaning: Toward Evidentiary Holism”, *Northwestern University Law Review*, 95: 399–442.
+* –––, 2005, “The Field of Evidence and the Field of Knowledge”, *Law and Philosophy*, 24: 321–392.
+* –––, 2007, “The Political Morality of Evidence Law”, *International Commentary on Evidence*, 5(2), essay 1 (online journal).
+* –––, 2010, “The Gettier Problem and Legal Proof”, *Legal Theory*, 16: 37–57.
+* –––, 2013, “The Nature and Purpose of Evidence Theory”, *Vanderbilt Law Review*, 66: 547–613.
+* –––, 2018, “Safety vs. Sensitivity: Possible Worlds and the Law of Evidence”, *Legal Theory*, 24: 50–75.
+* Pardo, M.S. and R.J. Allen, 2008, “Juridical Proof and the Best Explanation”, *Law and Philosophy*, 27: 223–268.
+* Park, R., 1986, “The Hearsay Rule and the Stability of Verdicts: A Response to Professor Nesson”, *Minnesota Law Review*, 70: 1057–1072.
+* Park, R. et al., 2010, “Bayes Wars Redivivus: An Exchange”, *International Commentary on Evidence*, 8(1), article 1 (online journal).
+* Pattenden, R., 1996–7, “The Discretionary Exclusion of Relevant Evidence in English Civil Proceedings”, *International Journal of Evidence and Proof*, 1: 361–385.
+* Pennington, N. and R. Hastie, 1991, “A Cognitive Model of Juror Decision Making: The Story Model”, *Cardozo Law Review*, 13: 519–557.
+* –––, 1993, “The Story Model for Juror Decision-making” in *Inside the Juror: The Psychology of Juror Decision Making*, R. Hastie (ed.), Cambridge: Cambridge University Press, pp. 192–221.
+* Picinali, F., 2013, “Two Meanings of ‘Reasonableness’: Dispelling the ‘Floating’ Reasonable Doubt”, *Modern Law Review*, 76: 845–875.
+* Pollock, F., 1876, “Stephen’s Digest of the Law of Evidence”, *The Forthnightly Review*, 20: 383–394.
+* –––, 1899, “Review of *A Preliminary Treatise on Evidence at the Common Law* by James Bradley Thayer, *Law Quarterly Review*”, 15: 86–87.
+* Posner, R., 1999, “An Economic Approach to the Law of Evidence”, *Stanford Law Review*, 51: 1477–1546.
+* Pritchard, D., 2015, “Risk”, *Metaphilosophy*, 46: 436–461.
+* –––, 2018, “Legal Risk, Legal Evidence and the Arithmetic of Criminal Justice”, *Jurisprudence*, 9: 108–119.
+* Rescher, N. and C. Joynt, 1959, “Evidence in History and in the Law”, *Journal of Philosophy*, 56: 561–578.
+* Redmayne, M., 1996, “Standards of Proof in Civil Litigation”, *Modern Law Review*, 62: 167–195.
+* –––, 2006, “The Structure of Evidence Law”, *Oxford Journal of Legal Studies*, 26: 805–822.
+* –––, 2008, “Exploring the Proof Paradoxes”, *Legal Theory*, 14: 281–309.
+* Ribeiro, G., 2019, “The Case for Varying Standards of Proof”, *San Diego Law Review*, 56: 161–219.
+* Roberts, P. and C. Aitken, 2014, *The Logic of Forensic Proof: Inferential Reasoning in Criminal Evidence and Forensic Science*, London: Royal Statistical Society. \[[Roberts and Aitken 2014 available online](http://www.rss.org.uk/Images/PDF/influencing-change/rss-inferential-reasoning-criminal-evidence-forensic-science.pdf)]
+* Roberts, P. and A. Zuckerman, 2010, *Criminal Evidence* , Oxford: Oxford University Press, 2nd edition.
+* Robertson, B. and G. Vignaux, 1995, *Interpreting Evidence: Evaluating Forensic Science in the Courtroom*, Chichester: John Wiley.
+* Schauer, F., 2006, “On the Supposed Jury-Dependence of Evidence Law”, *University of Pennsylvania Law Review*, 155: 165–202.
+* –––, 2008, “In Defense of Rule-Based Evidence Law: And Epistemology Too”, *Episteme* 5: 295–305.
+* Schum, D., 1979, “A Review of a Case Against Blaise Pascal and His Heirs”, *Michigan Law Review*, 77:446–483.
+* –––, 1994, *The Evidential Foundations of Probabilistic Reasoning*, New York: John Wiley & Sons.
+* –––, 1998, “Legal Evidence and Inference” in *Routledge Encyclopedia of Philosophy*, E. Craig (ed.), London: Routledge, pp. 500–506.
+* –––, 2001, “Species of Abductive Reasoning in Fact Investigation in Law”, *Cardozo Law Review*, 22:1645–1681.
+* Simon, D., 2004, “A Third View of the Black Box: Cognitive Coherence in Legal Decision Making”, *University of Chicago Law Review*, 71: 511–586.
+* –––, 2011, “Limited Diagnosticity of Criminal Trials”, *Vanderbilt Law Review*, 64: 143–223.
+* Smith, M., 2018, “When Does Evidence Suffice for Conviction?”, *Mind*, 127: 1193–1218.
+* Stein, A., 2005, *Foundations of Evidence Law*, Oxford: Oxford University Press.
+* Stephen, J., 1872, *The Indian Evidence Act, with an Introduction on the Principles of Judicial Evidence*, Calcutta: Thacker, Spink & Co.
+* –––, 1886, *A Digest of the Law of Evidence*, London: William Clowes & Sons, 5th edition.
+* Sullivan, S., 2019, “A Likelihood Story: The Theory of Legal Fact-finding”, *University of Colorado Law Review*, 90: 1–66.
+* Thayer, J., 1898, *A Preliminary Treatise on Evidence at the Common Law*, Boston: Little, Brown & Co.
+* Thomson, J., 1986, “Liability and Individualized Evidence”, *Law and Contemporary Problems*, 49(3): 199–219.
+* Tillers, P., 2005, “If Wishes were Horses: Discursive Comments on Attempts to Prevent Individuals from Being Unfairly Burdened by their Reference Classes”, *Law, Probability and Risk*, 4: 33–39.
+* –––, 2008, “Are there Universal Principles or Forms of Evidential Inference? Of Inference Networks and Onto-Epistemology” in *Crime, Procedure and Evidence in a Comparative and International Context*, J. Jackson, M. Langer, and P. Tillers (eds.), Oxford: Hart, pp. 179–198.
+* Tillers, P. and E. Green (eds.), 1988, *Probability and Inference in the Law of Evidence: The Limits and Uses of Bayesianism*, Dordrecht: Kluwer.
+* Trautman, H., 1952, “Logical or Legal Relevancy: A Conflict in Theory”, *Vanderbilt Law Review*, 5: 385–413.
+* Tribe, L., 1971, “Trial by Mathematics: Precision and Ritual in the Legal Process”, *Harvard Law Review*, 84: 1329–1393
+* Twining, W., 1985, *Theories of Evidence: Bentham and Wigmore*, London: Weidenfeld and Nicolson.
+* –––, 2006, *Rethinking Evidence: Exploratory Essays*, Cambridge: Cambridge University Press, 2nd edition.
+* Twining, W. and I. Hampsher-Monk, 2003, *Evidence and Inference in History and Law: Interdisciplinary Dialogues*, Evanston, Illinois: Northwestern University Press.
+* Whitworth, G., 1881, *The Theory of Relevancy for the Purpose of Judicial Evidence*, Bombay: Thacker & Co.
+* Wigmore, J., 1913, “Review of *A Treatise on Facts, or the Weight and Value of Evidence* by Charles C. Moore”, *Illinois Law Review*, 3: 477–478.
+* –––, 1935, *A Students’ Textbook of the Law of Evidence*, Brooklyn: Foundation Press.
+* –––, 1937, *Science of Judicial Proof, as Given by Logic, Psychology, and General Experience and Illustrated in Judicial Trials*, Boston: Little, Brown and Co.
+* –––, 1983a, *Evidence in Trials at Common Law*, vol. 1, P. Tillers (ed.), Boston: Little, Brown and Co.
+* –––, 1983b, *Evidence in Trials at Common Law*, vol. 1A, P. Tillers (ed.), Boston: Little, Brown and Co.
+* Wills, W., 1852, *An Essay on the Principles of Circumstantial Evidence*, Philadelphia: T & J W Johnson, reprint from the third London edition.
 
 ## Academic Tools
 
@@ -443,4 +442,4 @@ Cohen 建议，证据标准应完全被构想为证据权重的问题，根据�
 [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [epistemology](https://plato.stanford.edu/entries/epistemology/) | [evidence](https://plato.stanford.edu/entries/evidence/) | [legal probabilism](https://plato.stanford.edu/entries/legal-probabilism/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Hock Lai Ho <[_lawhohl@nus.edu.sg_](mailto:lawhohl%40nus%2eedu%2esg)>
+Hock Lai Ho <[*lawhohl@nus.edu.sg*](mailto:lawhohl%40nus%2eedu%2esg)>

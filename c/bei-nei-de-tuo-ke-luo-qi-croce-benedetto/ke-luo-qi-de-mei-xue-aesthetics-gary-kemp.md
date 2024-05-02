@@ -1,11 +1,10 @@
 # 克罗齐的美学 aesthetics (Gary Kemp)
 
-_首次发表于 2008 年 5 月 4 日星期日；实质性修订于 2021 年 10 月 8 日_
+*首次发表于 2008 年 5 月 4 日星期日；实质性修订于 2021 年 10 月 8 日*
 
 拿波利的贝内代托·克罗齐（1860-1952 年）是 20 世纪上半叶美学和文学批评领域的主导人物，对哲学也有一定影响，尽管影响力不及前者。但他的名声并未持续，无论在意大利还是英语世界。他并不缺乏传播者和愿意将其作品翻译成英语的人：H.卡尔是前者的早期代表，R.G.柯林伍德也许两者兼具，D.安斯利为克罗齐的大部分主要作品提供了翻译服务。但在第二次世界大战后，他的声望迅速下降。事实上，很难找到一个声誉如此迅速下滑的人物；这有些不公平，尤其是考虑到柯林伍德的美学仍在研究之中，尽管其许多主要观点往往被认为是从克罗齐那里借鉴而来。造成这种情况的原因令人猜测，但有两点是可能的。首先，克罗齐的一般哲学非常符合前一个世纪的思维。随着英国的理想主义和历史主义体系被拉塞尔、摩尔和艾尔等人取代，以及分析哲学的兴起，克罗齐的体系被大陆上的新思想所淘汰——从海德格尔和萨特到解构主义。其次，克罗齐在其著名的早期作品中的表达方式现在看来有些断然而独断；充满了少年时的信念和愤怒，这种风格很少能持久。在某些关键点上，对立立场被描述为愚蠢，或者被认为是对简单真理的混乱表达，只等待克罗齐适当表达（然而，他与约翰·杜威的后来交流——参见克罗齐 1952 年，道格拉斯 1970 年，维托里奥 2012 年——发现他更加认真负责）。当然，这些否定具有一定的份量——克罗齐的阅读量巨大，言外之意远比表面看到的更有见地——但除非读者已经确信这里终于是真理，否则这些否定的数量和激烈程度将引起不信任。由于早期作品以及他长期担任《评论》杂志主编使他一举成名并备受钦佩，而后来的岁月除了与法西斯分子斗争外，还致力于其他事务，因此并不奇怪他从未完全改变这种习惯。
 
 然而，克罗齐对美学的重要贡献——对艺术是表达这一观念的有趣新角度——可以更多或更少地与周围的哲学和争论分开。接下来，我们将首先看到这一学说与其原始哲学背景的联系，然后我们将尝试剪断这些联系。
-
 
 ***
 
@@ -139,7 +138,7 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 ## 10. 问题
 
-我们还没有讨论克罗齐美学的许多内容，包括他对修辞学的批评（Aes. 67–73; PPH 233–35），他对“流派批评”的贬低——也就是说，他的主张是不同艺术形式之间最终没有美学差异（Aes. 111–17, EA 53–60, PPH 229–33）——以及他对心理学和其他自然主义艺术观点的谴责（_Aes._ 87–93; EA 41–7）。此外，还有他对美学史的宏伟而有争议的概述（Aes. 155–474）。但这些是相对细节的问题；现在我们已经足够了解整个理论，可以通过提及一些一般性批评来结束。
+我们还没有讨论克罗齐美学的许多内容，包括他对修辞学的批评（Aes. 67–73; PPH 233–35），他对“流派批评”的贬低——也就是说，他的主张是不同艺术形式之间最终没有美学差异（Aes. 111–17, EA 53–60, PPH 229–33）——以及他对心理学和其他自然主义艺术观点的谴责（*Aes.* 87–93; EA 41–7）。此外，还有他对美学史的宏伟而有争议的概述（Aes. 155–474）。但这些是相对细节的问题；现在我们已经足够了解整个理论，可以通过提及一些一般性批评来结束。
 
 ### 10.1 行动与沉思
 
@@ -167,43 +166,43 @@ Croce 无疑是正确的，希望区分这些事物，但他的官方立场—�
 
 Works by Croce:
 
-* 1902\. _Estetica come scienza dell’espressione e linguistica generale_, Florence: Sandron.
-* 1909 \[1922]. _Aesthetic: As science of expression and general linguistic_, translated by Douglas Ainslie, New York: Noonday. Cited as _Aes_.
-* 1909\. _Logica come scienza del concetto puro_, Florence: Sandron.
-* 1909\. _Filosofia della practica, economica ed etica_, Florence: Sandron.
-* 1913\. _Breviario di estetica_, Naples: Laterza.
-* 1917\. _Logic as the Science of the Pure Concept_, translated by Douglas Ainslie, London: Macmillan.
-* 1917\. _Philosophy of the Practical, Economic and Ethic_, translated by Douglas Ainslie, London: Macmillan.
-* 1921\. _The Essence of Aesthetic_, translated by Douglas Ainslie, London: Heinemann. Noted as _EA_. (Likely to be superseded by the 1992 translation below.)
+* 1902\. *Estetica come scienza dell’espressione e linguistica generale*, Florence: Sandron.
+* 1909 \[1922]. *Aesthetic: As science of expression and general linguistic*, translated by Douglas Ainslie, New York: Noonday. Cited as *Aes*.
+* 1909\. *Logica come scienza del concetto puro*, Florence: Sandron.
+* 1909\. *Filosofia della practica, economica ed etica*, Florence: Sandron.
+* 1913\. *Breviario di estetica*, Naples: Laterza.
+* 1917\. *Logic as the Science of the Pure Concept*, translated by Douglas Ainslie, London: Macmillan.
+* 1917\. *Philosophy of the Practical, Economic and Ethic*, translated by Douglas Ainslie, London: Macmillan.
+* 1921\. *The Essence of Aesthetic*, translated by Douglas Ainslie, London: Heinemann. Noted as *EA*. (Likely to be superseded by the 1992 translation below.)
 *
-  1952. ‘Dewey’s Aesthetics and Theory of Knowledge, translated by F. Simoni, _The Journal of Aesthetics and Art Criticism_, 11(1): 1–6.
-* 1995 \[1965]. _Guide to Aesthetics_, translated by Patrick Romanell, Indianopolis: Hackett.
-* 1966\. _Philosophy, Poetry, History: An Anthology of Essays_, translated and introduced by Cecil Sprigge, London: Oxford University Press. Noted as _PPH_
-* 1992\. _The Aesthetic as the Science of Expression and of the Linguistic in General Part I: Theory_, translated by Colin Lyas, Cambridge: Cambridge University Press.
-* 2007\. _Breviary of Aesthetics: Four Lectures_, translated by Hiroko Fudemoto, Toronto: University of Toronto Press.
-* 2017\. _A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism_, edited and translated by Massimo Verdicchio, Ontario: University of Toronto Press.
+  1952. ‘Dewey’s Aesthetics and Theory of Knowledge, translated by F. Simoni, *The Journal of Aesthetics and Art Criticism*, 11(1): 1–6.
+* 1995 \[1965]. *Guide to Aesthetics*, translated by Patrick Romanell, Indianopolis: Hackett.
+* 1966\. *Philosophy, Poetry, History: An Anthology of Essays*, translated and introduced by Cecil Sprigge, London: Oxford University Press. Noted as *PPH*
+* 1992\. *The Aesthetic as the Science of Expression and of the Linguistic in General Part I: Theory*, translated by Colin Lyas, Cambridge: Cambridge University Press.
+* 2007\. *Breviary of Aesthetics: Four Lectures*, translated by Hiroko Fudemoto, Toronto: University of Toronto Press.
+* 2017\. *A Croce Reader: Aesthetics, Philosophy, History, and Literary Criticism*, edited and translated by Massimo Verdicchio, Ontario: University of Toronto Press.
 
 ### Secondary Sources
 
-* Bosanquet, B., 1919. ‘Croce’s Aesthetic’, _Proceedings of the British Academy_, IX: 261–288.
-* –––, 1920. ‘Reply to Carr’, _Mind_, XXIX(2): 212–15.
-* Carr, H. W., 1917. _The Philosophy of Benedetto Croce_, London: Macmillan.
-* Donagan, A., 1962. _The Later Philosophy of R.G. Collingwood_, Oxford: Clarendon.
-* Douglas, G. H., 1970. A Reconsideration of the Dewey-Croce Exchange, _The Journal of Aesthetics and Art Criticism_, 28(4): 497–504.
-* Ducasse, C., 1929. _The Philosophy of Art_, New York: Dial.
-* de Gennaro, A. 1968. ‘Benedetto Croce and Herbert Read’, _The Journal of Aesthetics and Art Criticism_, 26(3): 307–310.
-* Hospers, J. 1956. ‘The Croce-Collingwood Theory of Art’, _Philosophy_, 31(119): 291–308.
-* Jones, P. 1972. ‘A Critical Outline of Collingwood’s Philosophy of Art’, in _Critical Essays on the Philosophy of R.G. Collingwood_, edited by Michael Krausz, Oxford: Clarendon: 42–65.
-* Kemp, G. 2003. ‘The Croce-Collingwood Theory as Theory’, _The Journal of Aesthetics and Art Criticism_, 61(2): 171–193.
-* Moss, M. E., 1987. _Benedetto Croce reconsidered: truth and error in theories of art, literature, and history_, London: University of New England Press.
-* Orsini, G., 1961. _Benedetto Croce: Philosophy of Art and Literary Critic_, Carbondale: Southern Illinois University Press.
-* Patankar R. B., 1962. ‘What Does Croce Mean by ‘Expression’?’, _The British Journal of Aesthetics_, 2(2): 112–125.
-* Paton, M., 1985. ‘Getting Croce Straight’, _The Brit Journal of Aesthetics_, 25(3): 252–265.
-* Peters, R., 2011. _History as Thought and Action: The Philosophies of Croce, Gentile, de Ruggiero and Collingwood_, Exeter: Imprint Academic.
-* Scaglione, A., 1959. ‘Croce’s Definition of Literary Criticism’, _The Journal of Aesthetics and Art Criticism_, 17(4): 447–456.
-* Shusterman, R., 1988. ‘Croce on Interpretation: Deconstruction and Pragmatism’, _New Literary History_, 20(1): 199–216.
-* Tilghman B., 1970. _The Expression of Emotion in the Visual Arts: A Philosophical Inquiry_, The Hague: Martinus Nijhoff.
-* Vittorio M., 2012. ‘Reflections on the Croce–Dewey exchange’, _Modern Italy_, 17(1): 31–49. \[[available online](http://www.tandfonline.com/doi/pdf/10.1080/13532944.2012.633345)].
+* Bosanquet, B., 1919. ‘Croce’s Aesthetic’, *Proceedings of the British Academy*, IX: 261–288.
+* –––, 1920. ‘Reply to Carr’, *Mind*, XXIX(2): 212–15.
+* Carr, H. W., 1917. *The Philosophy of Benedetto Croce*, London: Macmillan.
+* Donagan, A., 1962. *The Later Philosophy of R.G. Collingwood*, Oxford: Clarendon.
+* Douglas, G. H., 1970. A Reconsideration of the Dewey-Croce Exchange, *The Journal of Aesthetics and Art Criticism*, 28(4): 497–504.
+* Ducasse, C., 1929. *The Philosophy of Art*, New York: Dial.
+* de Gennaro, A. 1968. ‘Benedetto Croce and Herbert Read’, *The Journal of Aesthetics and Art Criticism*, 26(3): 307–310.
+* Hospers, J. 1956. ‘The Croce-Collingwood Theory of Art’, *Philosophy*, 31(119): 291–308.
+* Jones, P. 1972. ‘A Critical Outline of Collingwood’s Philosophy of Art’, in *Critical Essays on the Philosophy of R.G. Collingwood*, edited by Michael Krausz, Oxford: Clarendon: 42–65.
+* Kemp, G. 2003. ‘The Croce-Collingwood Theory as Theory’, *The Journal of Aesthetics and Art Criticism*, 61(2): 171–193.
+* Moss, M. E., 1987. *Benedetto Croce reconsidered: truth and error in theories of art, literature, and history*, London: University of New England Press.
+* Orsini, G., 1961. *Benedetto Croce: Philosophy of Art and Literary Critic*, Carbondale: Southern Illinois University Press.
+* Patankar R. B., 1962. ‘What Does Croce Mean by ‘Expression’?’, *The British Journal of Aesthetics*, 2(2): 112–125.
+* Paton, M., 1985. ‘Getting Croce Straight’, *The Brit Journal of Aesthetics*, 25(3): 252–265.
+* Peters, R., 2011. *History as Thought and Action: The Philosophies of Croce, Gentile, de Ruggiero and Collingwood*, Exeter: Imprint Academic.
+* Scaglione, A., 1959. ‘Croce’s Definition of Literary Criticism’, *The Journal of Aesthetics and Art Criticism*, 17(4): 447–456.
+* Shusterman, R., 1988. ‘Croce on Interpretation: Deconstruction and Pragmatism’, *New Literary History*, 20(1): 199–216.
+* Tilghman B., 1970. *The Expression of Emotion in the Visual Arts: A Philosophical Inquiry*, The Hague: Martinus Nijhoff.
+* Vittorio M., 2012. ‘Reflections on the Croce–Dewey exchange’, *Modern Italy*, 17(1): 31–49. \[[available online](http://www.tandfonline.com/doi/pdf/10.1080/13532944.2012.633345)].
 
 ## Academic Tools
 
@@ -226,4 +225,4 @@ Works by Croce:
 Thanks to Dr. Martine Lejeune of the Department for Applied Linguistics, College Ghent, for bibliographical help and for pointing out certain errors in the original entry. The SEP editors would like to thank Filippo Contesi for notifying us of a number of typographical infelicities in this entry.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[_gary.kemp@glasgow.ac.uk_](mailto:gary%2ekemp%40glasgow%2eac%2euk)>
+[Gary Kemp](http://www.gla.ac.uk/schools/humanities/staff/garykemp/) <[*gary.kemp@glasgow.ac.uk*](mailto:gary%2ekemp%40glasgow%2eac%2euk)>

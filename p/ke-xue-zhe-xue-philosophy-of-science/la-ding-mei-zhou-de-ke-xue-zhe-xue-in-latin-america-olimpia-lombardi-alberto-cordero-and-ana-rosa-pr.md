@@ -1,6 +1,6 @@
 # 拉丁美洲的科学哲学 in Latin America (Olimpia Lombardi, Alberto Cordero, and Ana Rosa Pérez Ransanz)
 
-_首次发表于2015年12月2日星期三；实质性修订于2024年3月8日星期五。_
+*首次发表于2015年12月2日星期三；实质性修订于2024年3月8日星期五。*
 
 当科学哲学在 20 世纪 40 年代末成为一个专业领域时，拉丁美洲的贡献立即加入了国际辩论的前沿。来自亚洲次大陆的科学哲学家自那时以来一直扩大了他们的存在。本文旨在概述亚洲次大陆的科学哲学。主要关注的是拉丁美洲地区的思想家们所做出的贡献，重点放在“主流科学哲学”上——这是一门以研究科学知识、形而上学、方法论和价值观为中心的学科，广泛采用分析风格，如《科学哲学》、《认识论》、《英国科学哲学杂志》和《科学史与科学哲学研究》等高质量期刊上发表的作品所示。
 
@@ -8,7 +8,6 @@ _首次发表于2015年12月2日星期三；实质性修订于2024年3月8日星
 
 本文力图提供一个公正客观的画面，但当然只能提供一个有选择性的概述，这是由作者对该领域的解释所影响的选择所构成的。
 
- 
 ***
 
 ## 1. 历史背景
@@ -385,774 +384,774 @@ Charbel El-Hani 的兴趣主要集中在生物哲学和生物教学方法论上�
 
 ## Bibliography
 
-* Abeledo, Horacio, 1995, “Lewis’s Causation: An Almost Fatal Example”, _Crítica: Revista Hispanoamericana de Filosofía_, 27(81): 79–100. doi:10.22201/iifs.18704905e.1995.1029
-* –––, 2000, “Lewis, Causation, Barometers: Dubious Fate of an Example”, _Crítica: Revista Hispanoamericana de Filosofía_, 32(94): 127–144. doi:10.22201/iifs.18704905e.2000.842
-* Accorinti, Hernán Lucas, 2019, “Incompatible Models in Chemistry: The Case of Electronegativity”, _Foundations of Chemistry_, 21(1): 71–81. doi:10.1007/s10698-018-09328-x
-* Accorinti, Hernán Lucas and Juan Camilo Martínez González, 2022, “Models and Idealizations in Quantum Chemistry: The Case of the Born-Oppenheimer Approximation”, in _Philosophical Perspectives in Quantum Chemistry_, Olimpia Lombardi, Juan Camilo Martínez González, and Sebastian Fortin (eds.), Synthese Library Series, Cham: Springer, 107–125. doi:10.1007/978-3-030-98373-4\_5
-* Acuña, Pablo, 2014a, “On the Empirical Equivalence between Special Relativity and Lorentz׳s Ether Theory”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 46: 283–302. doi:10.1016/j.shpsb.2014.01.002
-* –––, 2014b, “Artificial Examples of Empirical Equivalence”, in _New Directions in the Philosophy of Science_, Maria Carla Galavotti, Dennis Dieks, Wenceslao J. Gonzalez, Stephan Hartmann, Thomas Uebel, and Marcel Weber (eds.), (The Philosophy of Science in a European Perspective 5), Cham: Springer International Publishing, 453–467. doi:10.1007/978-3-319-04382-1\_31
-* –––, 2016a, “Minkowski Spacetime and Lorentz Invariance: The Cart and the Horse or Two Sides of a Single Coin?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 55: 1–12. doi:10.1016/j.shpsb.2016.04.002
-* –––, 2016b, “Inertial Trajectories in de Broglie-Bohm Quantum Theory: An Unexpected Problem”, _International Studies in the Philosophy of Science_, 30(3): 201–230. doi:10.1080/02698595.2017.1316107
-* –––, 2019, “Charting the Landscape of Interpretation, Theory Rivalry, and Underdetermination in Quantum Mechanics”, _Synthese_, 198(2): 1711-1740. doi:10.1007/s11229-019-02159-z
-* –––, 2021a, “Von Neumann’s Theorem Revisited”, _Foundations of Physics_, 51(3): #73. doi:10.1007/s10701-021-00474-5
-* –––, 2021b, “Must Hidden Variables Theories Be Contextual? Kochen & Specker Meet von Neumann and Gleason”, _European Journal for Philosophy of Science_, 11(2): #41. doi:10.1007/s13194-021-00347-8
-* –––, 2021c, “Charting the Landscape of Interpretation, Theory Rivalry, and Underdetermination in Quantum Mechanics”, _Synthese_, 198(2): 1711–1740. doi:10.1007/s11229-019-02159-z
-* –––, 2023, “Scientific Understanding in Astronomical Models from Eudoxus to Kepler”, in _Current Debates in Philosophy of Science: In Honor of Roberto Torretti_, Cristián Soto (ed.), Synthese Library Series, Cham: Springer, 289–340. doi:10.1007/978-3-031-32375-1\_12
-* Acuña, Pablo and Dennis Dieks, 2014, “Another Look at Empirical Equivalence and Underdetermination of Theory Choice”, _European Journal for Philosophy of Science_, 4(2): 153–180. doi:10.1007/s13194-013-0080-3
-* Adúriz-Bravo, Agustín, 2004, “Methodology and Politics: A Proposal to Teach the Structuring Ideas of the Philosophy of Science through the Pendulum”, _Science & Education_, 13(7–8): 717–731. doi:10.1007/s11191-004-5720-8
-* –––, 2007, “A Proposal to Teach the Nature of Science (NOS) to Science Teachers: The Structuring Theoretical Fields of NOS”, _Review of Science, Mathematics, and ICT Education_, 1(2): 41–56. doi:10.26220/rev.109 \[[Adúriz-Bravo 2007 available online](https://resmicte.library.upatras.gr/review/article/view/109)]
-* –––, 2011, “Fostering Model-Based School Scientific Argumentation Among Prospective Science Teachers”, _US-China Education Review_, 8: 718–723.
-* –––, 2013, “A ‘Semantic’ View of Scientific Models for Science Education”, _Science & Education_, 22(7): 1593–1611. doi:10.1007/s11191-011-9431-7
-* –––, 2014, “Teaching the Nature of Science with Scientific Narratives”, _Interchange_, 45(3–4): 167–184. doi:10.1007/s10780-015-9229-7
-* Adúriz-Bravo, Agustín and Mercè Izquierdo-Aymerich, 2005, “Utilising the ‘3P-Model’ to Characterise the Discipline of Didactics of Science”, _Science & Education_, 14(1): 29–41. doi:10.1007/s11191-004-0068-7
-* –––, 2009, “A Research-Informed Instructional Unit to Teach the Nature of Science to Pre-Service Science Teachers”, _Science & Education_, 18(9): 1177–1192. doi:10.1007/s11191-009-9189-3
-* Adúriz-Bravo, Agustín, Cristian Merino, and Mercè Izquierdo-Aymerich, 2012, “An Approach to the Construction of Chemistry Curricula on the Basis of Structuring Theoretical Fields”, _Journal of Science Education_, 13: 42–45.
-* Adúriz-Bravo, Agustín and Alger Sans Pinillos, 2023, “Abduction as a Mode of Inference in Science Education”, _Science and Education_, 32(7–8): 993–1020. doi:10.1007/s11191-022-00366-8.
-* Aguiar, Orlando, Hannah Sevian, and Charbel N. El-Hani, 2018, “Teaching About Energy: Application of the Conceptual Profile Theory to Overcome the Encapsulation of School Science Knowledge”, _Science & Education_, 27(9–10): 863–893. doi:10.1007/s11191-018-0010-z
-* Aguilera, Mariela, 2019, “Pictures, Content, and Normativity: The Semantic of Graphic Rules”, _Phenomenology and Mind_, 17: 136–149. doi:10.13128/pam-8032
-* –––, 2021, “Heterogeneous Inferences with Maps”, _Synthese_, 199(1–2): 3805–3824. doi:10.1007/s11229-020-02957-w
-* Aiello, Matías, Mario Castagnino, and Olimpia Lombardi, 2008, “The Arrow of Time: From Universe Time-Asymmetry to Local Irreversible Processes”, _Foundations of Physics_, 38(3): 257–292. doi:10.1007/s10701-007-9202-0
-* Alassia, Fiorela, 2023, “Correction to: A Process Ontology Approach in Biochemistry: The Case of GPCRs and Biosignaling”. _Foundations of Chemistry_, 25(1): 189–206. doi:10.1007/s10698-022-09461-8
-* Alchourrón, Carlos E., 1996, “Detachment and Defeasibility in Deontic Logic”, _Studia Logica_, 57(1): 5–18. doi:10.1007/BF00370667
-* Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, _Journal of Symbolic Logic_, 50(2): 510–530. doi:10.2307/2274239
-* Alchourrón, Carlos E. and David Makinson, 1981, “Hierarchies of Regulations and Their Logic”, in _New Studies in Deontic Logic_, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 125–148. doi:10.1007/978-94-009-8484-4\_5
-* –––, 2008, “On the Logic of Theory Change: Contraction Functions and Their Associated Revision Functions”, _Theoria_, 48(1): 14–37. doi:10.1111/j.1755-2567.1982.tb00480.x
-* Aliseda, Atocha, 2003, “Mathematical Reasoning Vs. Abductive Reasoning: A Structural Approach”, _Synthese_, 134(1/2): 25–44. doi:10.1023/A:1022127429205
-* –––, 2006, _Abductive Reasoning: Logical Investigations into Discovery and Explanation_, (Synthese Library 330), Dordrecht: Kluwer Academic Publishers. doi:10.1007/1-4020-3907-7
-* –––, 2022, “On Schurz’s Construction Paradigm of Scientific Theory Development”, _Journal for General Philosophy of Science_, 54(3): 473–490. doi:10.1007/s10838-021-09593-z
-* –––, 2023, “Introduction to Logics of Hypothetical Reasoning, Abduction, and Evidence”, in Lorenzo Magnani (ed.), _Handbook of Abductive Cognition_, Cham: Springer, 247–250. doi:10.1007/978-3-031-10135-9\_82
-* Aliseda, Atocha and Laura Leonides, 2013, “Hypotheses Testing in Adaptive Logics: An Application to Medical Diagnosis”, _Logic Journal of IGPL_, 21(6): 915–930. doi:10.1093/jigpal/jzt005
-* Alleva, Karina, José Díez, and Lucia Federico, 2017, “Models, Theory Structure and Mechanisms in Biochemistry: The Case of Allosterism”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 63: 1–14. doi:10.1016/j.shpsc.2017.03.004
-* Alonso-Pavón, José, Jocelyn Cheé-Santiago, María Lucía Granados-Riveros, Marco Ornelas-Cruces, Erica Torrens-Rojas, and Ana Barahona, 2021, “Genetics in Mexico: Mapping the Discipline”, _Archives Internationales d’Histoire des Sciences_, 71(187): 6–35. doi:10.1484/J.ARIHS.5.127400
-* Altamirano-Bustamante, Myriam, Adalberto de Hoyos, and León Olivé, 2011, “Theory of Knowledge and Biotech Patents: Worlds Apart?”, _Nature Biotechnology_, 29(11): 977–978. doi:10.1038/nbt.2026
-* Amaya, Santiago, 2013, “Slips”, _Noûs_, 47(3): 559–576. doi:10.1111/j.1468-0068.2011.00838.x
-* –––, 2015, “The Argument from Slips”, in _Agency, Freedom, and Moral Responsibility_, Andrei Buckareff, Carlos Moya, and Sergi Rosell (eds.), London: Palgrave Macmillan, 13–29. doi:10.1057/9781137414953\_2
-* –––, 2021, “Out of Habit”, _Synthese_, 198(12), 11161–11185. doi:10.1007/s11229-020-02780-3
-* Amaya, Santiago and John M. Doris, 2015, “No Excuses: Performance Mistakes in Morality”, in _Handbook of Neuroethics_, Jens Clausen and Neil Levy (eds.), Dordrecht: Springer, 253–272. doi:10.1007/978-94-007-4707-4\_120
-* Anaya-Muñoz, Víctor Hugo, Vivette García-Deister, and Edna Suárez-Díaz, 2017, “Flattening and Unpacking Human Genetic Variation in Mexico, Postwar to Present”, _Science in Context_, 30(1): 89–112. doi:10.1017/S0269889717000047
-* Arango-Muñoz, Santiago, 2011, “Two Levels of Metacognition”, _Philosophia_, 39(1): 71–82. doi:10.1007/s11406-010-9279-0
-* –––, 2013, “Scaffolded Memory and Metacognitive Feelings”, _Review of Philosophy and Psychology_, 4(1): 135–152. doi:10.1007/s13164-012-0124-1
-* –––, 2014, “The Nature of Epistemic Feelings”, _Philosophical Psychology_, 27(2): 193–211. doi:10.1080/09515089.2012.732002
-* –––, 2019, “Cognitive Phenomenology and Metacognitive Feelings”, _Mind & Language_, 34(2): 247–262. doi:10.1111/mila.12215
-* Arango-Muñoz, Santiago and Juan Pablo Bermúdez, 2018, “Remembering as a Mental Action”, in _New Directions in the Philosophy of Memory_, Kourken Michaelian, Dorothea Debus, and Denis Perrin (eds.), New York: Routledge, 75–96. doi:10.4324/9781315159591
-* –––, 2021, “Intentional Mind-wandering as Intentional Omission: The Surrealist Method”, _Synthese_, 199(3-4), 7727–7748. doi:10.1007/s11229-021-03135-2
-* Ardenghi, Juan Sebastián, Mario Castagnino, and Olimpia Lombardi, 2009, “Quantum Mechanics: Modal Interpretation and Galilean Transformations”, _Foundations of Physics_, 39(9): 1023–1045. doi:10.1007/s10701-009-9313-x
-* Ardenghi, Juan Sebastián, Olimpia Lombardi, and Martín Narvaja, 2013, “Modal Interpretations and Consecutive Measurements”, in _EPSA11 Perspectives and Foundational Problems in Philosophy of Science_, Vassilios Karakostas and Dennis Dieks (eds.), Cham: Springer International Publishing, 207–217. doi:10.1007/978-3-319-01306-0\_17
-* Arenhart, Jonas Rafael Becker, 2017, “The Received View on Quantum Non-Individuality: Formal and Metaphysical Analysis”, _Synthese_, 194(4), 1323–1347. doi:10.1007/s11229-015-0997-5
-* –––, 2021, “The Evidence Approach to Paraconsistency versus the Paraconsistent Approach to Evidence”, _Synthese_, 198(12): 11537–11559. doi:10.1007/s11229-020-02813-x
-* –––, 2022a, “Interpreting Philosophical Interpretations of Paraconsistency”, _Synthese_, 200(6): #449. doi:10.1007/s11229-022-03941-2
-* –––, 2022b, “Newton da Costa on Hypothetical Models in Logic and on the Modal Status of Logical Laws”, _Axiomathes_, 32(6):1191–1211. doi:10.1007/s10516-021-09577-0
-* –––, 2022c, “Logical Anti‐exceptionalism Meets the “Logic‐as‐Models” approach”, _Theoria_, 88(6): 1211–1227. doi:10.1111/theo.12436
-* Arenhart, Jonas Becker and Raoni Wohnrath Arroyo, 2021, “On Physics, Metaphysics, and Metametaphysics”, _Metaphilosophy_, 52(2): 175–199. doi:10.1111/meta.12486
-* Arenhart, Jonas Rafael Becker and Décio Krause, 2014a, “From Primitive Identity to the Non-Individuality of Quantum Objects”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 46: 273–282. doi:10.1016/j.shpsb.2014.01.004
-* –––, 2014b, “Why Non-Individuality? A Discussion on Individuality, Identity, and Cardinality in the Quantum Context”, _Erkenntnis_, 79(1): 1–18. doi:10.1007/s10670-013-9429-4
-* –––, 2023, “Quasi-truth and Defective Knowledge in Science: A Critical Examination” _Manuscrito_, 46(2): 122–155. doi:10.1590/0100-6045.2023.v46n2.jd
-* Arroyo, Raoni Wohnrath and Jonas Becker Arenhart, 2022a, “The Epistemic Value of Metaphysics”, _Synthese_, 200: #337. doi:10.1007/s11229-022-03833-5
-* –––, 2022b, “Whence Deep Realism for Everettian Quantum Mechanics?”, _Foundations of Physics_, 52(6): #121. doi:10.1007/s10701-022-00643-0
-* Ávila, Alfonso, 2006, “What is Philosophy of Mathematics Looking for?”, in _18 Unconventional Essays on the Nature of Mathematics_, Reuben Hersh (ed.), New York: Springer, 236–249. doi:10.1007/0-387-29831-2\_14
-* Ávila, Ignacio, 2014, “Evans on Bodily Awareness and Perceptual Self-Location”, _European Journal of Philosophy_, 22(2): 269–287. doi:10.1111/j.1468-0378.2012.00525.x
-* –––, 2015, “Perceiving the Intrinsic Properties of Objects: On Noë’s Enactive View”, _Phenomenology and the Cognitive Sciences_, 14(1): 55–71. doi:10.1007/s11097-013-9311-5
-* –––, 2017, “Is Bodily Awareness a Form of Perception?”, _Phenomenology and the Cognitive Sciences_, 16(3): 337–354. doi:10.1007/s11097-016-9453-3
-* Baedke, Jan, Alejandro Fábregas-Tejeda, and Francisco Vergara-Silva, 2020, “Does the Extended Evolutionary Synthesis Entail Extended Explanatory Power?”, _Biology and Philosophy_, 35(1): 1–22. doi:10.1007/s10539-020-9736-5
-* Baedke, Jan and Siobhan F. Mc Manus, 2018, “From Seconds to Eons: Time Scales, Hierarchies, and Processes in Evo-Devo”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 72: 38–48. doi:10.1016/j.shpsc.2018.10.006
-* Bair, Jacques, Piotr Błaszczyk, Elías Fuentes Guillén, Peter Heinig, Vladimir Kanovei, and Mikhail G. Katz, 2020, “Continuity Between Cauchy and Bolzano: Issues of Antecedents and Priority”, _British Journal for the History of Mathematics_, 35(3): 207–224. doi:10.1080/26375451.2020.1770015
-* Balzer, Wolfgang and Pablo Lorenzano, 2000, “The Logical Structure of Classical Genetics”, _Journal for General Philosophy of Science_, 31(2): 243–266. doi:10.1023/A:1026544916567
-* Baptista, Geilsa Costa Santos and Charbel Niño El-Hani, 2009, “The Contribution of Ethnobiology to the Construction of a Dialogue Between Ways of Knowing: A Case Study in a Brazilian Public High School”, _Science & Education_, 18(3–4): 503–520. doi:10.1007/s11191-008-9173-3
-* Barahona, Ana, 2007, “Science and Representation: The Case of Genetic Maps”, _History and Philosophy of the Life Sciences_, 29(2): 145–159.
-* –––, 2022, “Games and Genes: Human Diversity Meets Cytogenetics. Mexico 1968”, _History and Philosophy of the Life Sciences_, 44(4): #56. doi:10.1007/s40656-022-00521-y
-* Baravalle, Lorenzo and Luciana Zaterka (eds.), _Life and Evolution: Latin American Essays on the History and Philosophy of Biology_, Basel: Springer Nature Switzerland. doi:10.1007/978-3-030-39589-6
-* Barrio, Eduardo Alejandro, 2010, “Theories of Truth without Standard Models and Yablo’s Sequences”, _Studia Logica_, 96(3): 375–391. doi:10.1007/s11225-010-9289-8
-* Barrio, Eduardo Alejandro and Walter Carnielli (eds), 2020a, “Volume I: Recovery Operators in Logics of Formal Inconsistency”, special issue of _Logic Journal of the IGPL_, 28(5).
-* ––– (eds), 2020b, “Volume II: New advances in Logics of Formal Inconsistency”, special issue of _Logic Journal of the IGPL_, 28(5).
-* Barrio, Eduardo Alejandro, Nicolas Clerbout, and Shahid Rahman, 2020, “Introducing Consistency in a Dialogical Framework for Paraconsistent Logic”, _Logic Journal of the IGPL_, 28(5): 953-972. doi:10.1093/jigpal/jzy069
-* Barrio, Eduardo Alejandro and Bruno Da Ré, 2018a, “Truth without Standard Models: Some Conceptual Problems Reloaded”, _Journal of Applied Non-Classical Logics_, 28(1): 122–139. doi:10.1080/11663081.2017.1397326
-* –––, 2018b, “Paraconsistency and Its Philosophical Interpretations”, _The Australasian Journal of Logic_, 15(2): 151–170. doi:10.26686/ajl.v15i2.4860
-* Barrio, Eduardo and Paul Egre, 2022, Special Issue on Substructural Logics and Metainferences, _Journal of Philosophical Logic_, 51(6).
-* Barrio, Eduardo Alejandro, Federico Matias Pailos, and Damian Enrique Szmuc, 2017, “A Paraconsistent Route to Semantic Closure”, _Logic Journal of the IGPL_, 25(4): 387–407. doi:10.1093/jigpal/jzx009
-* –––, 2018a, “What Is a Paraconsistent Logic?”, in _Contradictions, from Consistency to Inconsistency_, Walter Carnielli and Jacek Malinowski (eds.), (Trends in Logic 47), Cham: Springer International Publishing, 89–108. doi:10.1007/978-3-319-98797-2\_5
-* –––, 2018b, “Substructural Logics, Pluralism and Collapse”, _Synthese_, 198(Suppl 20): 4991-5007. doi:10.1007/s11229-018-01963-3
-* –––, 2020a, “A Recovery Operator for Nontransitive Approaches”, _The Review of Symbolic Logic_, 13(1): 80-104. doi:10.1017/S1755020318000369
-* –––, 2020b, “A Hierarchy of Classical and Paraconsistent Logics”, _Journal of Philosophical Logic_, 49(1): 93–120. doi:10.1007/s10992-019-09513-z
-* Barrio, Eduardo Alejandro and Lavinia Picollo, 2013, “Notes on ω-Inconsistent Theories of Truth in Second-Order Languages”, _The Review of Symbolic Logic_, 6(4): 733–741. doi:10.1017/S1755020313000269
-* Barrio, Eduardo Alejandro and Gonzalo Rodriguez-Pereyra, 2015, “Truthmaker Maximalism Defended Again”, _Analysis_, 75(1): 3–8. doi:10.1093/analys/anu121
-* Barrio, Eduardo Alejandro, Lucas Rosenblatt, and Diego Tajer, 2015, “The Logics of Strict-Tolerant Logic”, _Journal of Philosophical Logic_, 44(5): 551–571. doi:10.1007/s10992-014-9342-6
-* –––, 2021, “Capturing Naive Validity in the Cut-Free Approach”, _Synthese_, 199(3): 707–723: doi:10.1007/s11229-016-1199-5
-* Barceló Aspeitia, Axel Arturo, Ángeles Eraña, and Robert Stainton, 2010, “The Contribution of Domain Specificity in the Highly Modular Mind”, _Minds and Machines_, 20(1): 19–27. doi:10.1007/s11023-010-9183-1
-* Beebee, Helen, 1997, “Counterfactual Dependence and Broken Barometers: A Response to Flichman’s Argument”, _Crítica: Revista Hispanoamericana de Filosofía_, 29(86): 107–119. doi:10.22201/iifs.18704905e.1997.1065
-* Beirlaen, Mathieu and Atocha Aliseda, 2014, “A Conditional Logic for Abduction”, _Synthese_, 191(15): 3733–3758. doi:10.1007/s11229-014-0496-0
-* Belvedresi, Rosa E., 2012, “Global History and the Idea of Universal History”, in _New Perspectives in Global History_, Daniel Brauer, Iwan D’Aprile, Günther Lottes, and Concha Roldán (eds.), Hannover: Wehrhahn Verlag, 65–71.
-* –––, 2018, “A Philosophical Inquiry into the Future as a Category of Historical Time”, in _Philosophy of Globalization_, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 449–461. doi:10.1515/9783110492415-033
-* –––, 2019, “Empathy and Historical Understanding: a Reappraisal of ‘Empathic Unsettlement’”, in _Empathy: Emotional, Ethical and Epistemological Narratives_, Ricardo Gutiérrez Aguilar (ed.), Leiden: Brill, 162–177. doi:10.1163/9789004398122\_014
-* Benítez, Federico, Diego Maltrana, and Pablo Razeto-Barry, 2022, “(Re)interpreting _E=mc_2”, _Foundations of Physics_, 52(1): #15. doi:10.1007/s10701-021-00530-0
-* Benítez, Laura, 1993, _El Mundo en René Descartes_, Mexico D.F.: UNAM.
-* –––, 2000, “Los _lunarios_ en la perspectiva de la filosofía natural de Carlos de Sigüenza y Góngora”, in _Carlos de Sigüenza y Góngora. Homenaje 1700–2000_, Alice Mayer (ed.), México D.F.: UNAM, 125–144.
-* –––, 2004, _Descartes y el Conocimiento del Mundo Natural_, Mexico D.F.: Porrúa.
-* –––, 2019, “Sensibility and Understanding in the Epistemological Thought of Sor Juana Inés de la Cruz”, in _Feminist History of Philosophy: The Recovery and Evaluation of Women’s Philosophical Thought_, Eileen O’Neill and Marcy P. Lascano (eds.), Cham: Springer, 75–96. doi:10.1007/978-3-030-18118-5\_4
-* Benítez, Laura and José A. Robles, 2000, _Espacio e Infinito en la Perspectiva de la Modernidad_, México D.F.: Ediciones Cruz.
-* –––, 2006, _De Newton y los Newtonianos: entre Descartes y Berkeley_, Buenos Aires: Universidad Nacional de Quilmes.
-* Bermúdez, Juan Pablo, 2017, “Do We Reflect While Performing Skillful Actions? Automaticity, Control, and the Perils of Distraction”, _Philosophical Psychology_, 30(7): 896–924. doi:10.1080/09515089.2017.1325457
-* –––, 2021a, “The Skill of Self-control”, _Synthese_, 199(3–4): 6251–6273. doi:10.1007/s11229-021-03068-w
-* –––, 2021b, “Willpower Needs Tactical Skill”, _Behavioral and Brain Sciences_, 44(e32): 17–18. doi:10.31234/osf.io/32yxk
-* Bermúdez, Juan Pablo and Olivier Massin, 2023, “Efforts and Their Feelings”, _Philosophy Compass_, 18(1): #e12894. doi:10.1111/phc3.12894
-* Bermúdez, Juan Pablo, Samuel Murray, Louis Chartrand, and Sergio Barbosa, 2021, “What’s Inside Is All That Counts? The Contours of Everyday Thinking About Self-Control”, _Review of Philosophy and Psychology_, 14(1): 33–55. doi:10.1007/s13164-021-00573-2
-* Bizzo, Nelio and Charbel N. El-Hani, 2009, “Darwin and Mendel: Evolution and Genetics”, _Journal of Biological Education_, 43(3): 108–114. doi:10.1080/00219266.2009.9656164
-* Bodanza, Gustavo Adrián, 2002, “Disjunctions and Specificity in Suppositional Defeasible Argumentation”, _Logic Journal of IGPL_, 10(1): 23–49. doi:10.1093/jigpal/10.1.23
-* –––, 2023, “On _F_-Systems: A Graph-Theoretic Model for Paradoxes Involving a Falsity Predicate and Its Application to Argumentation Frameworks”, _Journal of Logic, Language and Information_, 32(3): 373–393. doi:10.1007/s10849-023-09394-1
-* Bodanza, Gustavo Adrián and Claudio Andrés Alessio, 2017, “Rethinking Specificity in Defeasible Reasoning and Its Effect in Argument Reinstatement”, _Information and Computation_, 255: 287–310. doi:10.1016/j.ic.2017.01.006
-* Bodanza, Gustavo and Enrique Hernández-Manfredini, 2023, “The Status of Arguments in Abstract Argumentation Frameworks. A Tableaux Method.” _Manuscrito_, 46(2): 66–108. doi:10.1590/0100-6045.2023.v46n2.ge
-* Bodanza, Gustavo and Fernando Tohmé, 2005, “Local Logics, Non-Monotonicity and Defeasible Argumentation”, _Journal of Logic, Language and Information_, 14(1): 1–12. doi:10.1007/s10849-005-4510-2
-* –––, 2009, “Two Approaches to the Problems of Self-Attacking Arguments and General Odd-Length Cycles of Attack”, _Journal of Applied Logic_, 7(4): 403–420. doi:10.1016/j.jal.2007.06.012
-* Bodanza, Gustavo, Fernando Tohmé, and Marcelo Auday, 2017, “Collective Argumentation: A Survey of Aggregation Issues around Argumentation Frameworks”, _Argument & Computation_, 8(1): 1–34. doi:10.3233/AAC-160014
-* Bodanza, Gustavo, Fernando Tohmé, and Guillermo Simari, 2016, “Beyond Admissibility: Accepting Cycles in Argumentation with Game Protocols for Cogency Criteria”, _Journal of Logic and Computation_, 26(4): 1235–1255. doi:10.1093/logcom/exu004
-* Boido, Angel Guillermo, 1996, _Noticias del Planeta Tierra. Galileo Galilei y la Revolución Científica_, Buenos Aires: A-Z Editora.
-* Bobenrieth, Andrés, 1998, “Five Philosophical Problems Related to Paraconsistent Logic”, _Logique et Analyse_, 41(161–163): 21–30.
-* Borge, Bruno, 2015, “Realismo científico hoy: a 40 años de la formulación del argumento del no-milagro”, _Acta Scientiarum. Human and Social Sciences_, 37(2): 221–233. doi:10.4025/actascihumansoc.v37i2.26933
-* –––, 2021, “Disagreement About Scientific Ontology”, _Journal for General Philosophy of Science_, on line first. doi:10.1007/s10838-020-09542-2
-* Borge, Bruno and Nélida Gentile (eds.), 2019, _La Ciencia y el Mundo Inobservable. Discusiones Contemporáneas en torno al Realismo Científico_, Buenos Aires: Eudeba.
-* Borge, Bruno and Nicolás Lo Guercio, 2021, “Learning from Scientific Disagreement”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 36(3): 375–398. doi:10.1387/theoria.21967
-* Brauer, Daniel, 2018, “Theory and Practice of Historical Writing in Times of Globalization”, in _Philosophy of Globalization_, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 397–408. doi:10.1515/9783110492415-029
-* Brauer, Daniel, Iwan Michelangelo D’Aprile, Günther Lottes, and Concha Roldán (eds.), 2012, _New Perspectives in Global History_, Hannover: Wehrhahn Verlag.
-* Bueno-Hernández, Alfredo, Ana Barahona, Juan J. Morrone, David Espinosa and Fabiola Juárez-Barrera, 2023, “Historiographical Approaches to Biogeography: A Critical Review”, _History and Philosophy of the Life Sciences_, 45(3): #27. doi:10.1007/s40656-023-00580-9
-* Bunge, Mario, 1959a, _Causality; the Place of the Causal Principle in Modern Science_, Cambridge, MA: Harvard University Press.
-* –––, 1959b, _Metascientific Queries_, Springfield, IL: C. C. Thomas.
-* –––, 1960, “The Place of Induction in Science”, _Philosophy of Science_, 27(3): 262–270. doi:10.1086/287745
-* –––, 1961a, “Kinds and Criteria of Scientific Laws”, _Philosophy of Science_, 28(3): 260–281. doi:10.1086/287809
-* –––, 1961b, “The Weight of Simplicity in the Construction and Assaying of Scientific Theories”, _Philosophy of Science_, 28(2): 120–149. doi:10.1086/287794
-* –––, 1962a, “The Complexity of Simplicity”, _Journal of Philosophy_, 59(5): 113–135. doi:10.2307/2023305
-* –––, 1962b, _Intuition and Science_, Englewood Cliffs, NJ: Prentice-Hall.
-* –––, 1963, _The Myth of Simplicity. Problems of Scientific Philosophy_, Englewood Cliffs, NJ: Prentice-Hall.
-* –––, 1967, _Foundations of Physics_, New York: Springer-Verlag.
-* –––, 1974–1989, _Treatise on Basic Philosophy_, 8 volumes, Dordrecht: Reidel.
-* –––, 2003, _Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge_, Toronto: University of Toronto Press.
-* –––, 2006, _Chasing Reality: Strife over Realism_, Toronto: University of Toronto Press.
-* –––, 2013, _Medical Philosophy: Conceptual Issues in Medicine_, London: World Scientific Publishing Company.
-* –––, 2014, _Memorias entre Dos Mundos_, Buenos Aires: Gedisa.
-* Caponi, Gustavo, 2013, “Teleología naturalizada: los conceptos de función, aptitud y adaptación en la teoría de la selección natural”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 28(1): 97–114. doi:10.1387/theoria.3000
-* –––, 2022, “The Darwinian Turn in the Understanding of Biological Environment”, _Biological Theory_, 17: 20–35. doi:10.1007/s13752-020-00344-9
-* Cardona Suárez, Carlos Alberto, 2016, “Kepler: Analogies in the search for the law of refraction”, _Studies in History and Philosophy of Science Part A_, 59: 22–-35. doi:10.1016/j.shpsa.2016.05.004
-* Cardona Suárez, Carlos Alberto and Juliana Gutiérrez Valderrama, 2020, “The Law of Refraction and Kepler’s Heuristics”, _Archive for History of Exact Sciences_, 74: 45–75. doi:10.1007/s00407-019-00236-w
-* Carman, Christián Carlos, 2005a, “‘Realismo científico’ se dice de muchas maneras, al menos de 1111: una elucidación del término ‘realismo científico’”, _Scientiae Studia_, 3(1): 43–64. doi:10.1590/S1678-31662005000100003
-* –––, 2005b, “La distinción teórico/observacional: ¿favorece o perjudica al realismo científico?”, _Crítica: Revista Hispanoamericana de Filosofía_, 37(111): 83–96. doi:10.22201/iifs.18704905e.2005.461
-* –––, 2005c, “El argumento inductivo de Harré: algunas inconsistencias”, _Ágora: Papeles de Filosofía_, 24(2): 245–259. \[[Carman 2005c available online](http://hdl.handle.net/10347/1298)]
-* –––, 2009, “Rounding Numbers: Ptolemy’s Calculation of the Earth–Sun Distance”, _Archive for History of Exact Sciences_, 63(2): 205–242. doi:10.1007/s00407-008-0038-6
-* –––, 2010a, “Predicciones coincidentes (un reformulación del argumento del no-milagro)”, _Ágora: Papeles de Filosofía_, 29(1): 25–51. \[[Carman 2010b available online](http://hdl.handle.net/10347/7363)]
-* –––, 2010b, “On the Determination of Planetary Distances in the Ptolemaic System”, _International Studies in the Philosophy of Science_, 24(3): 257–265. doi:10.1080/02698595.2010.522408
-* –––, 2014, “Two Problems in Aristarchus’s Treatise _On the Sizes and Distances of the Sun and Moon_”, _Archive for History of Exact Sciences_, 68(1): 35–65. doi:10.1007/s00407-013-0123-3
-* –––, 2015, “The Planetary Increase of Brightness during Retrograde Motion: An Explanandum Constructed Ad Explanantem”, _Studies in History and Philosophy of Science Part A_, 54: 90–101. doi:10.1016/j.shpsa.2015.09.007
-* –––, 2017a, “Martianus Capella’s Calculation of the Size of the Moon”, _Archive for History of Exact Sciences_, 71(2): 193–210. doi:10.1007/s00407-016-0185-0
-* –––, 2017b, “Heraclides of Pontus on the Solar Anomaly”, _Almagest_, 8(1): 119–125. doi:10.1484/J.ALMAGEST.5.113699
-* –––, 2018, “The First Copernican Was Copernicus: The Difference between Pre-Copernican and Copernican Heliocentrism”, _Archive for History of Exact Sciences_, 72(1): 1–20. doi:10.1007/s00407-017-0198-3
-* –––, 2020, “Tycho Brahe’s _Calculi ad Corrigenda Elementa Orbitae Saturni_ and the Technical Aspects of His Planetary Model of Saturn”, _Archive for History of Exact Sciences_, 74(6): 565–586. doi:10.1007/s00407-020-00253-0
-* –––, 2021, “The Tychonic Method for Calculating the Ratio between the Eccentricities of Mars”, _Journal for the History of Astronomy_, 52(2): 212–234. doi:10.1177/00218286211014311
-* –––, 2022a, “The Challenge of Scientific Realism to Intelligent Design”, _European Journal for Philosophy of Religion_, 14(4): 42–69. doi:10.24204/ejpr.2022.3685
-* –––, 2022b, “The Great Martian Catastrophe and how Tycho (Re-)fixed it”, _Almagest. International Journal for the History of Scientific Ideas_, 13(1): 42–57. doi:10.1484/J.ALMAGEST.5.131488
-* –––, 2022c, “François Viète’s Method for Calculating the Eccentricity in a Bisected Model and Its Possible Application to Kepler’s Vicarious Hypothesis”, _Historia Mathematica_, 58: 71–91. doi:10.1016/j.hm.2021.09.002
-* Carman, Christián Carlos and José Díez, 2015, “Did Ptolemy Make Novel Predictions? Launching Ptolemaic Astronomy into the Scientific Realism Debate”, _Studies in History and Philosophy of Science Part A_, 52: 20–34. doi:10.1016/j.shpsa.2015.04.002
-* Carman, Christián Carlos and James Evans, 2014, “On the Epoch of the Antikythera Mechanism and Its Eclipse Predictor”, _Archive for History of Exact Sciences_, 68(6): 693–774. doi:10.1007/s00407-014-0145-5
-* Carman, Christián Carlos and Gonzalo Recio, 2022, “Tycho Brahe’s Appendix ad _Observationes anni 1593_ and the Date of Brahe’s Theory of Mars, the Prototype for Kepler’s Vicarious Hypothesis”, _Journal for the History of Astronomy_, 53(3): 239–265. doi:10.1177/00218286221099993
-* Carman, Christián Carlos, Alan Thorndike, and James Evans, 2012, “On the Pin-and-Slot Device of the Antikythera Mechanism, with a New Application to the Superior Planets”, _Journal for the History of Astronomy_, 43(1): 93–116. doi:10.1177/002182861204300106
-* Carnielli, Walter and Marcelo Coniglio, 2007 \[2016], “Combining Logics”, in _The Stanford Encyclopedia of Philosophy_, (Winter 2016), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/logic-combining/](https://plato.stanford.edu/archives/win2016/entries/logic-combining/)
-* Carnielli, Walter, Marcelo Coniglio, and Itala D’Ottaviano, 2009, “New Dimensions on Translations Between Logics”, _Logica Universalis_, 3(1): 1–18. doi:10.1007/s11787-009-0002-5
-* Carnielli, Walter, Marcelo Coniglio, and João Marcos, 2007, “Logics of Formal Inconsistency”, in _Handbook of Philosophical Logic, Volume 14_, Dov Gabbay and Franz Guenthner (eds.), Dordrecht: Springer Netherlands, 1–93. doi:10.1007/978-1-4020-6324-4\_1
-* Carnielli, Walter and Jacek Malinowski (eds.), 2018, _Contradictions, from Consistency to Inconsistency_. Cham: Springer. doi:10.1007/978-3-319-98797-2
-* Carnielli, Walter and Abilio Rodrigues, 2019, “An Epistemic Approach to Paraconsistency: A Logic of Evidence and Truth”, _Synthese_, 196(9): 3789–3813. doi:10.1007/s11229-017-1621-7
-* Carrillo, Natalia and Tarja Knuuttila, 2021, “An Artifactual Perspective on Idealization: Constant Capacitance and the Hodgkin and Huxley Model”, in _Models and Idealizations in Science: Artifactual and Fictional Approaches_, Alejandro Cassini and Juan Redmond (eds.), Cham: Springer, 51–70. doi:10.1007/978-3-030-65802-1\_2.
-* –––, 2022, “Holistic Idealization: An Artifactual Standpoint.” _Studies in the History and Philosophy of Science_, 91: 49–59. doi:10.1016/j.shpsa.2021.10.009
-* –––, 2023, “Mechanisms and the Problem of Abstract Models”, _European Journal for Philosophy of Science_, 13(3): #27. doi:10.1007/s13194-023-00530-z
-* Casanueva, Mario, 1997, “Genetics and Fertilization: a Good Marriage”, in _Representations of Scientific Rationality_, Andoni Ibarra and Thomas Mormann (eds.). Amsterdam: Rodopi, 321–358. doi:10.1163/9789004457614\_014
-* –––, 2011, “A Structuralist Reconstrucion of the Mechanism of Natural Selection in Set Theory, and Graph Formats”, in _Darwin’s Evolving Legacy_, Jorge Martínez Contreras and Aura Ponce de León (eds), México: Siglo XXI, 177–192.
-* Casanueva, Mario and Bernado Bolaños (eds), 2009, _El Giro Pictórico. Epistemología de la Imagen_, Cuajimalpa: Anthropos-UAM.
-* Casanueva, Mario and Ximena González-Grandón, 2016, “Introduction: Models, Images and Representations”, _Scientiae Studia_, 14(1): 9–18. doi:10.11606/S1678-31662016000100002
-* Cassini, Alejandro, 2003, “Confirmación hipotético-deductiva y confirmación bayesiana”, _Análisis Filosófico_, 23(1): 41–84.
-* –––, 2013, “Modelos, idealizaciones: una crítica del ficcionalismo”, _Principia: An International Journal of Epistemology_, 17(3): 345. doi:10.5007/1808-1711.2013v17n3p345
-* –––, 2018, “Modelos sin target”, _Artefactos. Revista de Estudios de la Ciencia y la Tecnología_, 7(2): 185–209. doi:10.14201/art201872185209
-* Cassini, Alejandro and Marcelo Leonardo Levinas, 2005, “La reinterpretación radical del experimento de Michelson-Morley por la relatividad especial”, _Scientiae Studia_, 3(4): 547–581. doi:10.1590/S1678-31662005000400002
-* –––, 2008, “La explicación de Einstein del efecto fotoeléctrico: un análisis histórico-epistemológico”, _Revista Latinoamericana de Filosofía_, 34(1): 5–38.
-* –––, 2009, “El éter relativista: un cambio conceptual inconcluso”, _Crítica: Revista Hispanoamericana de Filosofía_, 41(123): 3–38. doi:10.22201/iifs.18704905e.2009.912
-* –––, 2019, “Einstein’s Reinterpretation of the Fizeau Experiment: How It Turned out to Be Crucial for Special Relativity”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 65: 55–72. doi:10.1016/j.shpsb.2018.08.004
-* Cassini, Alejandro, Leonardo Levinas, and Hernán Pringe, 2013, “Einstein y el efecto Compton”, _Scientiae Studia_, 11(1): 185–209. doi:10.1590/S1678-31662013000100009
-* –––, 2015, “Einstein y la evidencia experimental a favor de la hipótesis del cuanto de luz”, _Scientiae Studia_, 13(1): 73–96. doi:10.1590/S1678-31662015000100004
-* Castagnino, Mario, Sebastian Fortin, and Olimpia Lombardi, 2010, “Is the decoherence of a system the result of its interaction with the environment?”, _Modern Physics Letters A_, 25(17): 1431–1439. doi:10.1142/S0217732310032664
-* Castagnino, Mario, Manuel Gadella, and Olimpia Lombardi, 2006, “Time-Reversal, Irreversibility and Arrow of Time in Quantum Mechanics”, _Foundations of Physics_, 36(3): 407–426. doi:10.1007/s10701-005-9021-0
-* Castagnino, Mario, Roberto Laura, and Olimpia Lombardi, 2007, “A General Conceptual Framework for Decoherence in Closed and Open Systems”, _Philosophy of Science_, 74(5): 968–980. doi:10.1086/525637
-* Castagnino, Mario and Olimpia Lombardi, 2004, “Self-Induced Decoherence: A New Approach”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 35(1): 73–107. doi:10.1016/j.shpsb.2003.03.001
-* –––, 2005, “Self‐Induced Decoherence and the Classical Limit of Quantum Mechanics”, _Philosophy of Science_, 72(5): 764–776. doi:10.1086/508945
-* –––, 2007, “Non-Integrability and Mixing in Quantum Systems: On the Way to Quantum Chaos”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 38(3): 482–513. doi:10.1016/j.shpsb.2006.07.002
-* –––, 2009, “The Global Non-Entropic Arrow of Time: From Global Geometrical Asymmetry to Local Energy Flow”, _Synthese_, 169(1): 1–25. doi:10.1007/s11229-009-9495-y
-* Castagnino, Mario, Olimpia Lombardi, and Luis Lara, 2003, “The Global Arrow of Time as a Geometrical Property of the Universe”, _Foundations of Physics_, 33(6): 877–912. doi:10.1023/A:1025665410999
-* Chamizo, José Antonio, 2013, “Technochemistry: One of the Chemists’ Ways of Knowing”, _Foundations of Chemistry_, 15(2): 157–170. doi:10.1007/s10698-013-9179-z
-* –––, 2017, “The Fifth Chemical Revolution: 1973–1999”, _Foundations of Chemistry_, 19(2): 157–179. doi:10.1007/s10698-017-9280-9
-* –––, 2019, “About Continuity and Rupture in the History of Chemistry: The Fourth Chemical Revolution (1945–1966)”, _Foundations of Chemistry_, 21(1): 11–29. doi:10.1007/s10698-018-9308-9
-* Ciepielewski, Gerardo Sanjuán, Elías Okon, and Daniel Sudarsky, 2021, “On Superdeterministic Rejections of Settings Independence”, _The British Journal for the Philosophy of Science_, 74(2): 435–467. doi:10.1086/714819
-* Cocchiarella, Nino B. and Max A. Freund, 2008, _Modal Logic: An Introduction to Its Syntax and Semantics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195366587.001.0001
-* Comte, Auguste, 1851, _Système de Politique Positive, Ou, Traite de Sociologie Instituant La Religion de L’Humanite_, Paris: La Libraire Scientifique e Industrielle de L. Mathias. \[[Comte 1851 available online](https://ia902505.us.archive.org/34/items/systmedepoliti01comt/systmedepoliti01comt.pdf)]
-* Córdoba, Mariana, 2020, “Making Genders: The Biotechnological and Legal Management of Identity”, in _Feminist Philosophy of Technology (second volume of the book series Techno:Phil - Aktuelle Herausforderungen der Technikphilosophie_, Berlin: Springer, pp. 225–243. doi:10.1007/978-3-476-04967-4\_12
-* –––, 2021, “The Biological Turn on Personal Identity. The Role Of Science as a Response to Children’s Appropriation in Argentinian Dictatorship (1976-1983)”, _Foundations of Science_, 26(2): 405–427. doi:10.1007/s10699-019-09628-1
-* Córdoba, Mariana and Olimpia Lombardi, 2013, “A Kantian Perspective for the Philosophy of Chemistry”, in _The Philosophy of Chemistry: Practices, Methodologies, and Concepts_, Jean-Pierre Llored (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing, 478–490.
-* Córdoba, Mariana and Alfio Zambon, 2017, “How to Handle Nanomaterials? The Re-Entry of Individuals into the Philosophy of Chemistry”, _Foundations of Chemistry_, 19(3): 185–196. doi:10.1007/s10698-017-9283-6
-* Crelier, Andrés, 2022, “Attributing Psychological Predicates to Non-human Animals: Literalism and its Limits”, _Review of Philosophy and Psychology_, on line first. doi:10.1007/s13164-022-00643-z
-* Crespo, Ricardo F., Fernando Tohmé, and Daniel Heymann, 2010, “Abducing the Crisis”, in _Model-Based Reasoning in Science and Technology_, Lorenzo Magnani, Walter Carnielli, and Claudio Pizzi (eds.), (Studies in Computational Intelligence 314), Berlin, Heidelberg: Springer Berlin Heidelberg, 179–198. doi:10.1007/978-3-642-15223-8\_9
-* Cupani, Alberto, 2023, “The Specificity of Technological Knowledge”, in _Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community_, Helena Mateus Jerónimo (ed.), Cham: Springer, 145–161. doi:10.1007/978-3-031-14630-5\_10
-* Cussins, Adrian, 2012, “Environmental Representation of the Body”, _Review of Philosophy and Psychology_, 3(1): 15–32. doi:10.1007/s13164-012-0086-3
-* Da Costa, Newton C. A., Otávio Bueno, and Steven French, 1998, “The Logic of Pragmatic Truth”, _Journal of Philosophical Logic_, 27(6): 603–620. doi:10.1023/A:1004304228785
-* Da Costa, Newton C. A., and Steven French, 1989, “Pragmatic Truth and the Logic of Induction”, _The British Journal for the Philosophy of Science_, 40(3): 333–356. doi:10.1093/bjps/40.3.333
-* –––, 1990, “The Model-Theoretic Approach in the Philosophy of Science”, _Philosophy of Science_, 57(2): 248–265. doi:10.1086/289546
-* –––, 1991, “On Russell’s Principle of Induction”, _Synthese_, 86(2): 285–295. doi:10.1007/BF00485812
-* –––, 1993, “A Model Theoretic Approach to ‘Natural’ Reasoning”, _International Studies in the Philosophy of Science_, 7(2): 177–190. doi:10.1080/02698599308573462
-* –––, 2003, _Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning_, (Oxford Studies in the Philosophy of Science), Oxford: Oxford University Press. doi:10.1093/019515651X.001.0001
-* Da Costa, Newton C. A. and Décio Krause, 1994, “Schrödinger Logics”, _Studia Logica_, 53(4): 533–550. doi:10.1007/BF01057649
-* –––, 1997, “An Intensional Schrödinger Logic”, _Notre Dame Journal of Formal Logic_, 38(2): 179–194. doi:10.1305/ndjfl/1039724886
-* –––, 2014, “Physics, Inconsistency, and Quasi-Truth”, _Synthese_, 191(13): 3041–3055. doi:10.1007/s11229-014-0472-8
-* –––, 2016, “An Application of Paraconsistent Logic to Physics: Complementarity”, in _Towards Paraconsistent Engineering_, Seiki Akama (ed.), (Intelligent Systems Reference Library 110), Cham: Springer International Publishing, 25–34. doi:10.1007/978-3-319-40418-9\_3
-* Da Costa, Newton and Jonas Becker Arenhart, 2018, “Full-Blooded Anti-Exceptionalism About Logic”, _Australasian Journal of Logic_, 15(2): 362–380. doi:10.26686/ajl.v15i2.4865
-* Da Costa, Newton and Olimpia Lombardi, 2014, “Quantum Mechanics: Ontology Without Individuals”, _Foundations of Physics_, 44(12): 1246–1257. doi:10.1007/s10701-014-9793-1
-* Da Costa, Newton, Olimpia Lombardi, and Mariano Lastiri, 2013, “A Modal Ontology of Properties for Quantum Mechanics”, _Synthese_, 190(17): 3671–3693. doi:10.1007/s11229-012-0218-4
-* Da Ré, Bruno and Lucas Rosenblatt, 2018, “Contraction, Infinitary Quantifiers, and Omega Paradoxes”, _Journal of Philosophical Logic_, 47(4): 611–629. doi:10.1007/s10992-017-9441-2
-* Dagnino, Renato, 2023, “Solidary Technoscience: A Concept for the Philosophy of Technology”, in _Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community_, Helena Mateus Jerónimo (ed.), Cham: Springer, 305–320. doi:10.1007/978-3-031-14630-5\_17
-* Dalla Chiara, Maria Luisa, Roberto Giuntini, and Décio Krause, 1998, “Quasi Set Theories for Microobjects: A Comparison”, in _Interpreting Bodies: Classical and Quantum Objects in Modern Physics_, Elena Castellani (ed), Princeton: Princeton University Press, 142–153.
-* Danón, Laura, 2019a, “Neo-pragmatism, Primitive Intentionality and Animal Minds”, _Philosophia: Philosophical Quarterly of Israel_, 47(1): 39–58. doi:10.1007/s11406-018-9963-z
-* –––, 2019b, “Animal Normativity”, _Phenomenology and the Mind_, 17: 176–187. doi:10.13128/pam-8035
-* –––, 2022a, “Modest Propositional Contents in Non-human Animals”, _Philosophies_, 7(5): #93. doi:10.3390/philosophies7050093
-* –––, 2022b, “Conceptual Recombination and Stimulus-Independence in Non-Human Animals”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 37(3): 309–330. doi:10.1387/theoria.23638
-* Danón, Laura and Daniel Kalpokas, 2017, “Perceiving Mental States: Co-Presence and Constitution”, _Filosofia Unisinos_, 18(2): 87–97. doi:10.4013/fsu.2017.182.03
-* De Barros, José Acacio, Federico Holik, and Décio Krause, 2022, “Quantum Identity, Content, and Context: From Classical to Non-classical Logic”, in _From Electrons to Elephants and Elections: Exploring the Role of Content and Context_, Shyam Wuppuluri and Ian Stewart (eds.), The Frontiers Collection, Cham: Springer, 489–521. doi:10.1007/978-3-030-92192-7\_27
-* de Carvalho, Ítalo Nascimento, Charbel N. El-Hani, and Nei Nunes-Neto, 2020, “How Should We Select Conceptual Content for Biology High School Curricula?”, _Science & Education_, 29(3): 513–547. doi:10.1007/s11191-020-00115-9
-* De la Vega, Iván and Hebe Vessuri, 2008, “Science and Mobility: Is Physical Location Relevant?”, _Technology in Society_, 30(1): 71–83. doi:10.1016/j.techsoc.2007.10.003
-* Díaz, José-Luis, 1995, “Hunting for Consciousness in the Brain: What Is (the Name of) the Game?”, _Behavioral and Brain Sciences_, 18(4): 679–680. doi:10.1017/S0140525X00040437
-* –––, 2000, “Mind-Body Unity, Dual Aspect, and the Emergence of Consciousness”, _Philosophical Psychology_, 13(3): 393–403. doi:10.1080/09515080050128187
-* Díez, José and Pablo Lorenzano, 2013, “Who Got What Wrong? Fodor and Piattelli on Darwin: Guiding Principles and Explanatory Models in Natural Selection”, _Erkenntnis_, 78(5): 1143–1175. doi:10.1007/s10670-012-9414-3
-* –––, 2015, “Are Natural Selection Explanatory Models a Priori?”, _Biology & Philosophy_, 30(6): 787–809. doi:10.1007/s10539-015-9498-7
-* Díez, José, Gonzalo Recio, and Christián Carman, 2022, “Does Explaining Past Success Require (Enough) Retention? The Case of Ptolemaic Astronomy”, _Journal for General Philosophy of Science_, 53(4): 323–344. doi:10.1007/s10838-021-09589-9
-* Di Paolo, Ezequiel, Diego Lawler, and Andrés Vaccari, 2023, “Toward an Enactive Conception of Productive Practices: Beyond Material Agency”, _Philosophy & Technology_, 36(2): #31. doi:10.1007/s13347-023-00632-9
-* Domenech, Graciela, Federico Holik, and Décio Krause, 2008, “Q-Spaces and the Foundations of Quantum Mechanics”, _Foundations of Physics_, 38(11): 969–994. doi:10.1007/s10701-008-9246-9
-* Domingues, Ivan, 2023, “Four Visions of Technology”, in _Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community_, Helena Mateus Jerónimo (ed.), Cham: Springer, 127–144. doi:10.1007/978-3-031-14630-5\_9
-* Dos Santos, Vanessa Carvalho, Leyla Mariane Joaquim, and Charbel Niño El-Hani, 2012, “Hybrid Deterministic Views About Genes in Biology Textbooks: A Key Problem in Genetics Teaching”, _Science & Education_, 21(4): 543–578. doi:10.1007/s11191-011-9348-1
-* Dussel, Enrique D., 1995, _The Invention of the Americas : Eclipse of “the Other” and the Myth of Modernity_, Michael D. Barber (trans.), New York: Continuum. Translated from: Dussel, Enrique D., 1993, _El Encubrimiento del Otro. Hacia el origen del mito de la modernidad_, Madrid: Nueva Utopía.
-* Earman, John, 1974, “An Attempt to Add a Little Direction to ‘The Problem of the Direction of Time’”, _Philosophy of Science_, 41(1): 15–47. doi:10.1086/288568
-* Edgington, Dorothy, 1990, “Explanation, Causation and Laws”, _Crítica: Revista Hispanoamericana de Filosofía_, 22(66): 55–73. doi:10.22201/iifs.18704905e.1990.776
-* El-Hani, Charbel Niño, 2008, “Theory-Based Approaches to the Concept of Life”, _Journal of Biological Education_, 42(4): 147–149. doi:10.1080/00219266.2008.9656132
-* –––, 2015, “Mendel in Genetics Teaching: Some Contributions from History of Science and Articles for Teachers”, _Science & Education_, 24(1–2): 173–204. doi:10.1007/s11191-014-9685-y
-* El-Hani, Charbel Niño and Claus Emmeche, 2000, “On Some Theoretical Grounds for an Organism-Centered Biology: Property Emergence, Supervenience, and Downward Causation”, _Theory in Biosciences_, 119(3–4): 234–275. doi:10.1007/s12064-000-0018-0
-* El-Hani, Charbel Niño and Antonio Marcos Pereira, 1999, “Understanding Biological Causation”, in _Where Biology Meets Psychology: Philosophical Essays_, Valerie Hardcastle (ed.), Cambridge MA: MIT Press, 333–356. doi:10.7551/mitpress/7220.003.0018
-* El-Hani, Charbel Niño, João Queiroz, and Claus Emmeche, 2006, “A Semiotic Analysis of the Genetic Information System”, _Semiotica_, 2006(160): 1–68. doi:10.1515/SEM.2006.039
-* El-Hani, Charbel N., João Queiroz, and Frederik Stjernfelt, 2010, “Firefly Femmes Fatales: A Case Study in the Semiotics of Deception”, _Biosemiotics_, 3(1): 33–55. doi:10.1007/s12304-009-9048-2
-* Eraña, Angeles, 2012, “Dual Process Theories versus Massive Modularity Hypotheses”, _Philosophical Psychology_, 25(6): 855–872. doi:10.1080/09515089.2011.631994
-* Erduran, Sibel, Agustin Adúriz Bravo, and Rachel Mamlok Naaman, 2007, “Developing Epistemologically Empowered Teachers: Examining the Role of Philosophy of Chemistry in Teacher Education”, _Science & Education_, 16(9–10): 975–989. doi:10.1007/s11191-006-9072-4
-* Esposito, Maurizio, 2011, “Utopianism in the British Evolutionary Synthesis”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 42(1): 40–49. doi:10.1016/j.shpsc.2010.11.007
-* –––, 2017, “Expectation and Futurity: The Remarkable Success of Genetic Determinism”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 62: 1–9. doi:10.1016/j.shpsc.2017.01.001
-* Estany, Ana y Sergio Martínez, 2014, “«Scaffolding» and «Affordance» as Integrative Concepts in the Cognitive Sciences”, _Philosophical Psychology_, 27(1): 98–111. doi:10.1080/09515089.2013.828569
-* Estrada, Amadeo, Edna Suárez-Díaz, and Arturo Becerra, 2022. “Reconstructing the Last Common Ancestor: Epistemological and Empirical Challenges”, _Acta Biotheoretica_, 70: #15. doi:10.1007/s10441-022-09439-1
-* Estrada-González, Luis, 2011, “On the Meaning of Connectives (Apropos of a Non-Necessitarianist Challenge)”, _Logica Universalis_, 5(1):115–126. doi:10.1007/s11787-011-0025-6
-* –––, 2013, “Models of Possibilism and Trivialism”, _Logic and Logical Philosophy_, 21(2): 175–205. doi:10.12775/LLP.2012.010
-* –––, 2017, “Impossible Worlds and the Intensional Sense of ‘and’”, _Argumenta_, 2(2): 227–239. doi: 10.23811/43.arg2017.gon
-* –––, 2023, “An Easy Road to Multi-contra-classicality”, _Erkenntnis_, 88(6): 2591–2608. doi:10.1007/s10670-021-00468-9
-* Estrada-González, Luis and Claudia Lucía Tanús-Pimentel, 2021, “Variable Sharing in Connexive Logic”, _Journal of Philosophical Logic_, 50(6): 1377–1388. doi: 10.1007/s10992-021-09602-y
-* Evans, James and Christián Carlos Carman, 2019, “Babylonian Solar Theory on the Antikythera Mechanism”, _Archive for History of Exact Sciences_, 73(6): 619–659. doi:10.1007/s00407-019-00237-9.
-* Evans, James, Christián Carlos Carman, and Alan S. Thorndike, 2010, “Solar Anomaly and Planetary Displays in the Antikythera Mechanism”, _Journal for the History of Astronomy_, 41(1): 1–39. doi:10.1177/002182861004100101
-* Fernández-Pinto, Manuela, 2015a, “Tensions in Agnotology: Normativity in the Studies of Commercially Driven Ignorance”, _Social Studies of Science_, 45(2): 294–315. doi:10.1177/0306312714565491
-* –––, 2015b, “Commercialization and the Limits of Well-Ordered Science”, _Perspectives on Science_, 23(2): 173–191. doi:10.1162/POSC\_a\_00166
-* –––, 2017, “To Know or Better Not to: Agnotology and the Social Construction of Ignorance in Commercially Driven Research”, _Science and Technology Studies_, 30(2): 53–72. doi:10.23987/sts.61030
-* –––, 2018, “Democratizing Strategies for Industry-Funded Medical Research: A Cautionary Tale”, _Philosophy of Science_, 85(5): 882–894. doi:10.1086/699720
-* –––, 2020a, “Open Science for private Interests? How the Logic of Open Science Contributes to the Commercialization of Research”, _Frontiers in Research Metrics and Analytics_, 5: 1–10. doi:10.3389/frma.2020.588331
-* –––, 2020b, “Commercial Interests and the Erosion of Trust in Science”, _Philosophy of Science_, 87(5): 1003–1013. doi:10.1086/710521
-* –––, 2023, “Methodological and Cognitive Biases in Science: Issues for Current Research and Ways to Counteract Them”, _Perspectives on Science_, 31(5): 535–554. doi:10.1162/posc\_a\_00589
-* Ferreira, Tiago Alfredo S., Charbel N. El-Hani, and Waldomiro José da Silva-Filho, 2016, “Knowledge, Belief, and Science Education: A Contribution from the Epistemology of Testimony”, _Science & Education_, 25(7–8): 775–794. doi:10.1007/s11191-016-9834-6
-* Filomeno, Aldo, 2016, “Fundamentality, Effectiveness, and Objectivity of Gauge Symmetries”, _International Studies in the Philosophy of Science_, 30 (1): 19–37, doi:10.1080/02698595.2016.1240459
-* –––, 2019, “Stable Regularities without Governing Laws?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 66: 186–197. doi:10.1016/j.shpsb.2019.03.001
-* –––, 2021, “Are Non-Accidental Regularities a Cosmic Coincidence? Revisiting a Central Threat to Humean Laws”, _Synthese_, 198(6): 5205–5227. doi:10.1007/s11229-019-02397-1
-* –––, 2023, “On Metaphysics’ Independence from Truthmaking. Or, Why Humean Supervenience is Compatible with the Growing Block Universe”, _Erkenntnis_, 88(4): 1467–1480. doi:10.1007/s10670-021-00411-y
-* Fiore, Camillo and Lucas Rosenblatt, 2023, “Recapture Results and Classical Logic”, _Mind_, 132(527): 762–788. doi:10.1093/mind/fzad006
-* Flichman, Eduardo H., 1989, “The Causalist Program. Rational or Irrational Persistence?”, _Crítica: Revista Hispanoamericana de Filosofía_, 21(62): 29–53. doi:10.22201/iifs.18704905e.1989.713
-* –––, 1990, “A Crucial Distinction: Initial Data and Law Application Instances”, _Crítica: Revista Hispanoamericana de Filosofía_, 22(66): 75–85. doi:10.22201/iifs.18704905e.1990.777
-* –––, 1995, “Hard and Soft Accidental Uniformities”, _Philosophy of Science_, 62(1): 31–43. doi:10.1086/289837
-* –––, 2000, “Lewis’s Causation: A Fatal Example. A Response to Dorothy Edgington, Helen Beebee and Horacio Abeledo”, _Crítica: Revista Hispanoamericana de Filosofía_, 32(94): 89–125. doi:10.22201/iifs.18704905e.2000.841
-* Folguera, Guillermo, Erica Carrizo, and Alicia Massarini, 2014, “Análisis de los aspectos epistemológicos y sociales presentes en el discurso tecno-científico referido a los organismos genéticamente modificados (OGM) cultivados en la Argentina”, _Revista CTS_, 9(25): 91–119. \[[Folguera, Carrizo, and Massarini 2014 available online](http://www.revistacts.net/contenido/numero-25/analisis-de-los-aspectos-epistemologicos-y-sociales-presentes-en-el-discurso-tecno-cientifico-referido-a-los-organismos-geneticamente-modificados-ogm-cultivados-en-la-argentina/)]
-* Folguera, Guillermo and Olimpia Lombardi, 2012, “The Relationship between Microevolution and Macroevolution, and the Structure of the Extended Synthesis”, _History and Philosophy of the Life Sciences_, 34(4): 539–559.
-* Fortin, Sebastian and Olimpia Lombardi, 2014, “Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer To?”, _Foundations of Physics_, 44(4): 426–446. doi:10.1007/s10701-014-9791-3
-* –––, 2016, “A Top-down View of the Classical Limit of Quantum Mechanics”, in _Quantum Structural Studies: Classical Emergence from the Quantum Level_, Ruth E Kastner, Jasmina Jeknić-Dugić, and George Jaroszkiewicz (eds.), Singapore: World Scientific, 435–468. doi:10.1142/9781786341419\_0014
-* –––, 2017, “Interpretation and Decoherence: A Contribution to the Debate Vassallo & Esfeld Versus Crull”, _Foundations of Physics_, 47(11): 1423–1427. doi:10.1007/s10701-017-0121-4
-* –––, 2018, “Understanding Decoherence as an Irreversible Process”, _International Journal of Quantum Foundations_, 4(4): 247–267.
-* Fortin, Sebastian, Olimpia Lombardi, and Juan Camilo Martínez González, 2016, “Isomerism and Decoherence”, _Foundations of Chemistry_, 18(3): 225–240. doi:10.1007/s10698-016-9251-6
-* –––, 2017, “The Relationship between Chemistry and Physics from the Perspective of Bohmian Mechanics”, _Foundations of Chemistry_, 19(1): 43–59. doi:10.1007/s10698-017-9277-4
-* –––, 2018, “A New Application of the Modal-Hamiltonian Interpretation of Quantum Mechanics: The Problem of Optical Isomerism”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 62: 123–135. doi:10.1016/j.shpsb.2017.06.008
-* –––, 2019, “The Correspondence Principle and the Understanding of Decoherence”, _Foundations of Physics_, 49(12): 1372–1393. doi: 10.1007/s10701-019-00309-4
-* –––, 2020, “The Frauchiger-Renner Argument: A New No-Go Result?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 70: 1–7. doi:10.1016/j.shpsb.2019.12.002
-* –––, 2021, “Is the Problem of Molecular Structure Just the Quantum Measurement Problem?”, _Foundations of Chemistry_, 23(3): 379–395. doi:10.1007/s10698-021-09402-x
-* –––, 2022, “Entanglement and Indistinguishability in a Quantum Ontology of Properties”, _Studies in History and Philosophy of Science_, 91: 234–243. doi:10.1016/j.shpsa.2021.11.017
-* Fortin, Sebastian, Olimpia Lombardi, and Matías Pasqualini, 2022, “Relational Event-Time in Quantum Mechanics”, _Foundations of Physics_, 52(1): #10. doi:10.1007/s10701-021-00528-8
-* Francese, Christian and Guillermo Folguera, 2018, “Saberes simplificados, tecnociencia y omisión de riesgos. El caso de los organismos genéticamente modificados”, _RUNA, Archivo para las Ciencias del Hombre_, 39(2): 5–27. doi:10.34096/runa.v39i2.4251
-* Freire, Olival, Jr., 2015, _The Quantum Dissidents: Rebuilding the Foundations of Quantum Mechanics (1950–1990)_, Berlin and Heidelberg: Springer. doi:10.1007/978-3-662-44662-1
-* French, Steven and Décio Krause, 1995, “Vague Identity and Quantum Non-Individuality”, _Analysis_, 55(1): 20–26. doi:10.1093/analys/55.1.20
-* –––, 1999, “The Logic of Quanta”, in _Conceptual Foundations of Quantum Field Theory_, Tian Yu Cao (ed.), Cambridge: Cambridge University Press, 324–342. doi:10.1017/CBO9780511470813.027
-* –––, 2003, “Quantum Vagueness”, _Erkenntnis_, 59(1): 97–124. doi:10.1023/A:1023921928559
-* –––, 2006, _Identity in Physics: A Historical, Philosophical, and Formal Analysis_, Oxford: Oxford University Press. doi:10.1093/0199278245.001.0001
-* –––, 2010, “Remarks on the Theory of Quasi-Sets”, _Studia Logica_, 95(1–2): 101–124. doi:10.1007/s11225-010-9249-3
-* Freund, Max Alberto, 2001, “A Temporal Logic for Sortals”, _Studia Logica_, 69(3): 351–380. doi:10.1023/A:1013840126121
-* –––, 2004, “A Modal Sortal Logic”, _Journal of Philosophical Logic_, 33(3): 237–260. doi:10.1023/B:LOGI.0000031381.56344.a9
-* –––, 2007, “A Two Dimensional Tense-Modal Sortal Logic”, _Journal of Philosophical Logic_, 36(5): 571–598. doi:10.1007/s10992-007-9050-6
-* –––, 2015, “A Modal-Tense Sortal Logic with Variable-Domain Second-Order Quantification”, _The Australasian Journal of Logic_, 12(1): art. 5. doi:10.26686/ajl.v12i1.2084
-* Frondizi, Risieri, 1943, “Contemporary Argentine Philosophy”, _Philosophy and Phenomenological Research_, 4(2): 180–186. doi:10.2307/2103068
-* Fuentes Guillén, Elías, 2022, “Bolzano’s Theory of _meßbare Zahlen_: Insights and Uncertainties Regarding the Number Continuum”, in _Handbook of the History and Philosophy of Mathematical Practice_, Bharath Sriraman (ed.), Cham: Springer, 1–38. doi:10.1007/978-3-030-19071-2\_96-2
-* –––, 2023, “Bolzano on Bolzano: A Hitherto Unknown Announcement of Bolzano’s _Beyträge_”, _History and Philosophy of Logic_, 44(4): 442–458. doi:10.1080/01445340.2022.2147750
-* Fuentes Guillén, Elías and Davide Crippa, 2021, “The 1804 Examination for the Chair of Elementary Mathematics at the University of Prague”, _Historia Mathematica_, 57: 24–54.e18. doi:10.1016/j.hm.2021.07.001
-* Fuentes Guillén, Elías and Carmen Martínez Adame, 2020, “The Notion of Variable Quantities ω in Bolzano’s Early Works”, _Historia Mathematica_, 50: 25–49. doi:10.1016/j.hm.2019.07.002
-* Gambini, Rodolfo, Luis Pedro García Pintos, and Jorge Pullin, 2010, “Undecidability and the Problem of Outcomes in Quantum Measurements”, _Foundations of Physics_, 40(1): 93–115. doi:10.1007/s10701-009-9376-8
-* –––, 2011, “An Axiomatic Formulation of the Montevideo Interpretation of Quantum Mechanics”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 42(4): 256–263. doi:10.1016/j.shpsb.2011.10.002
-* García, Claudia Lorena, 2007, “Cognitive Modularity, Biological Modularity, and Evolvability”, _Biological Theory_, 2(1): 62–73. doi:10.1162/biot.2007.2.1.62
-* –––, 2010, “Functional Homology and Functional Variation in Evolutionary Cognitive Science”, _Biological Theory_, 5(2): 124–135. doi:10.1162/BIOT\_a\_00036
-* –––, 2015, “Computer Simulations and Experiments: In Vivo-In Vitro Conditions in Biochemistry”, _Foundations of Chemistry_, 17(1): 49–65. doi:10.1007/s10698-015-9215-2
-* García, Pío, 2008, “Discovery by Serendipity: A New Context for an Old Riddle”, _Foundations of Chemistry_, 11(1): 33–42. doi:10.1007/s10698-008-9061-6
-* García, Rolando, 1981, _Nature Pleads Not Guilty_, Oxford: Pergamon Press.
-* ––– (ed.), 1997, _La Epistemología Genética y la Ciencia Contemporánea_, Barcelona: Gedisa
-* –––, 2000, _El Conocimiento en Construcción. De las Formulaciones de Jean Piaget a la Teoría de los Sistemas Complejos_, Barcelona: Gedisa.
-* García Bacca, Juan David, 1941, _Filosofía de las Ciencias. Teoría de la Relatividad_, México: Editorial Séneca.
-* –––, 1962, _Filosofía de las Ciencias. La Física_, Caracas: Instituto Pedagógico.
-* –––, 1963, _Historia Filosófica de la Ciencia_, México: Universidad Autónoma de México.
-* –––, 1977, _Teoría y Metateoría de la Ciencia. Curso Sistemático. Vol. I: Teoría de la Ciencia_, Caracas: Universidad Central de Venezuela.
-* –––, 1984, _Teoría y Metateoría de la Ciencia. Vol. II_, Caracas: Universidad Central de Venezuela.
-* García-Deister, Vivette and Carlos López-Beltrán, 2015, “País de Gordos/País de Muertos : Obesity, Death and Nation in Biomedical and Forensic Genetics in Mexico”, _Social Studies of Science_, 45(6): 797–815. doi:10.1177/0306312715608449
-* García-Deister, Vivette and Lindsay A. Smith, 2020, “Migrant Flows and Necro-Sovereignty: The Itineraries of Bodies, Samples, and Data Across the US-Mexico Borderlands”, _BioSocieties_, 15: 420–437. doi:10.1057/s41292-019-00166-4
-* García-Ramírez, Eduardo, 2011, “A Cognitive Theory of Empty Names”, _Review of Philosophy and Psychology_, 2(4): 785–807. doi:10.1007/s13164-011-0078-8
-* García-Ramírez, Eduardo and Marilyn Shatz, 2011, “On Problems with Descriptivism: Psychological Assumptions and Empirical Evidence”, _Mind & Language_, 26(1): 53–77. doi:10.1111/j.1468-0017.2010.01410.x
-* Garcia Romano, Leticia, Maricel Occelli, and Agustín Adúriz-Bravo, 2021, “School Scientific Argumentation Enriched by Digital Technologies: Results With Pre- and In-Service Science Teachers”, _EURASIA Journal of Mathematics, Science and Technology Education_, 17(7): #em1982. doi:10.29333/ejmste/10990
-* García Sienra, Adolfo, 1988, “Axiomatic Foundations of the Marxian Theory of Value”, _Erkenntnis_ 29(3): 299–341. doi: 10.1007/bf00183068
-* –––, 1989, “Open Problems in the Foundations of Price Formation Dynamics”, _Erkenntnis_, 30(1): 87–99. doi:10.1007/bf00184817
-* Gentile, Nélida, 2013, _La Tesis de la Inconmensurabilidad: A 50 Años de la Estructura de las Revoluciones Científicas_, Buenos Aires: Editorial Eudeba.
-* –––, 2019, “A Quasi-Regularist View of Laws”, _Principia: An International Journal of Epistemology_, 23(3): 445–459. doi:10.5007/1808-1711.2019v23n3p445
-* Gentile, Nélida and Susana Lucero, 2021, “On the Explanatory Power of Dispositional Realism”, _Journal for General Philosophy of Science_, on line first. doi:10.1007/s10838-020-09539-x
-* Gericke, Niklas M., Mariana Hagberg, Vanessa Carvalho dos Santos, Leyla Mariane Joaquim, and Charbel N. El-Hani, 2014, “Conceptual Variation or Incoherence? Textbook Discourse on Genes in Six Countries”, _Science & Education_, 23(2): 381–416. doi:10.1007/s11191-012-9499-8
-* Ginnobili, Santiago, 2016, “Missing Concepts in Natural Selection Theory Reconstructions”, _History and Philosophy of the Life Sciences_, 38(3): art. 8. doi:10.1007/s40656-016-0109-y
-* –––, 2022, “Darwinian functional biology”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 37(2): 233–255. doi: 10.1387/theoria.22645
-* –––, 2023a, “Darwinian Beauty”, _Manuscrito_, 46(4): 1–32. doi:10.1590/0100-6045.2023.v46n4.sg
-* –––, 2023b, “Sexual Selection and the Brotherhood of Humans: Does the Argument of _The Descent of Man_ Confirm The Sacred Cause Thesis?”, _Principia_, Vol. 27, nº2, pp. 335–361. doi:10.5007/1808-1711.2023.e90604
-* Ginnobili, Santiago and Daniel Blanco, 2019, “Wallace’s and Darwin’s Natural Selection Theories”, _Synthese_, 196(3): 991–1017. doi:10.1007/s11229-017-1491-z
-* Giovannini, Eduardo N., 2016, “Bridging the Gap Between Analytic and Synthetic Geometry: Hilbert’s Axiomatic Approach”, _Synthese_, 193(1): 31–70. doi:10.1007/s11229-015-0743-z
-* Giovannini, Eduardo N., Edward H. Haeusler, Abel Lassalle-Casanave, and Paulo A. S. Veloso, 2022, “De Zolt’s Postulate: An Abstract Approach”, _Review of Symbolic Logic_, 15(1): 197–224. doi:10.1017/s1755020319000339
-* Giovannini, Eduardo N. and Georg Schiemer, 2019, “What are Implicit Definitions?”, _Erkenntnis_, 86(6): 1661–1691. doi:10.1007/s10670-019-00176-5
-* Gómez, Ricardo Juan, 2002, “El mito de la neutralidad valorativa de la economía neoliberal”, _Energeia: Revista Internacional de Filosofía y Epistemología de las Ciencias_, 1(1): 32–51. \[[Gómez 2002 available online](http://dspace.uces.edu.ar:8180/xmlui/handle/123456789/487)]
-* –––, 2003, “Filosofía posmoderna: sobre muertes anunciadas y otros menesteres”, in _El Filosofar Hoy_, Oscar Nudler and Francisco Naishtat (eds.), Buenos Aires: Biblos, 77–89.
-* –––, 2010, “What is that Thing Called Philosophy of Technology?”, in _History and Philosophy af Science and Technology -Volume IV_, Pablo Lorenzano, Hans-Jörg Rheinberger, Eduardo Ortiz, and Carlos Delfino Galles (eds.), Oxford: Eolss Publishers, 47–81.
-* –––, 2012, “On Economics and the Impossibility of Its Reduction to Physics”, in _Perspectives on Epistemology and Economics_, Andrés Lazzarini and Diego Weisman (eds.), Buenos Aires: Universidad de Buenos Aires, 139-160.
-* –––, 2017a, “El fin de todos los fines. ¿Acaso no había llegado el Fin de la Historia?”, _Theorein. Revista de Ciencias Sociales_, 2(1): 73–94. doi:10.26807/theorein.v2i1.8
-* –––, 2017b, “Tecnología y nueva ética”, _De Raíz Diversa. Revista Especializada En Estudios Latinoamericanos_, 3(6): 115–136. doi:10.22201/ppela.24487988e.2016.6.58428
-* Gómez-Salazar, Mónica, 2017, “Onto-Epistemological Pluralism, Social Practices, Human Rights And White Racism”, _Cultura: International Journal of Philosophy of Culture and Axiology_, 14(2): 89–106. doi:10.3726/cul.2017.02.05
-* Gómez-Torrente, Mario, 1998, “Logical Truth and Tarskian Logical Truth”, _Synthese_, 117(3): 375–408. doi:10.1023/A:1005165824990
-* –––, 2000, “A Note on Formality and Logical Consequence”, _Journal of Philosophical Logic_, 29(5): 529–539. doi:10.1023/A:1026510905204
-* –––, 2002, “The Problem of Logical Constants”, _Bulletin of Symbolic Logic_, 8(1): 1–37. doi:10.2178/bsl/1182353851
-* –––, 2006 \[2019], “Logical Truth”, in _The Stanford Encyclopedia of Philosophy_, (Spring 2019), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/logical-truth/](https://plato.stanford.edu/archives/spr2019/entries/logical-truth/)
-* –––, 2008, “Are There Model‐Theoretic Logical Truths That Are Not Logically True?”, in _New Essays on Tarski and Philosophy_, Douglas Patterson (ed.), Oxford: Oxford University Press, 340–368. doi:10.1093/acprof:oso/9780199296309.003.0013
-* –––, 2009, “Rereading Tarski on Logical Consequence”, _Review of Symbolic Logic_, 2(2): 249–297. doi:10.1017/s1755020309090200
-* –––, 2015, “On the Essence and Identity of Numbers”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 30(3): 317–329. doi:10.1387/theoria.14099
-* –––, 2020, “Logical Form, Truth Conditions, and Adequate Formalization”, _Disputatio_, 12(58): 209–222. doi:10.2478/disp-2020-0010
-* –––, 2021, “The Problem of Logical Constants and the Semantic Tradition: From Invariantist Views to a Pragmatic Account”, in _The Semantic Conception of Logic: Essays on Consequence, Invariance, and Meaning_, Gil Sagi and Jack Woods (eds.), Cambridge: Cambridge University Press, 35–54. doi:10.1017/9781108524919.003
-* González, Juan C., 2010, “On Pink Elephants, Floating Daggers, and Other Philosophical Myths”, _Phenomenology and the Cognitive Sciences_, 9(2): 193–211. doi:10.1007/s11097-010-9164-0
-* –––, 2013, “Interactive Fiat Objects”, _Review of Philosophy and Psychology_, 4(2): 205–217. doi:10.1007/s13164-012-0121-4
-* –––, 2016, “Blurring the Differences Between the Dream, Perceptual and Hallucinatory Experiences is Not the Answer”, _Constructivist Foundations_, 11(2): 417–419. \[[González 2016 available online](https://constructivist.info/11/2/417.gonzalez)]
-* González, Juan C., Paul Bach-y-Rita, and Steven J. Haase, 2005, “Perceptual Recalibration in Sensory Substitution and Perceptual Modification”, _Pragmatics & Cognition_, 13(3): 481–500. doi:10.1075/pc.13.3.05gon
-* González, Maria Eunice Quilici, 2005, “Information and Mechanical Models of Intelligence: What Can We Learn from Cognitive Science?”, _Pragmatics & Cognition_, 13(3): 565–582. doi:10.1075/pc.13.3.09qui
-* González, Maria Eunice Quilici, Mariana Claudia Broens, and Fabricio Loffredo D’Ottaviano, 2007, “Abductive Reasoning, Information, and Mechanical Systems”, in _Model-Based Reasoning in Science, Technology, and Medicine_, Lorenzo Magnani and Ping Li (eds.), (Studies in Computational Intelligence, 64), Berlin, Heidelberg: Springer Berlin Heidelberg, 91–102. doi:10.1007/978-3-540-71986-1\_4
-* González, Maria Eunice Quilici and Osvaldo Pessoa, Jr, 2008, “Emergence of Autonomy in Contemporary Artificial Agents: Any Novelty?” _Cybernetics & Human Knowing_, 15(3–4): 42–49.
-* González Valerio, María Antonia and Polona Tratnik, 2023, _Through the Scope of Life. Art and (Bio)Technologies Philosophically Revisited_, Cham: Springer. doi:10.1007/978-3-031-31736-1
-* Granger, Gilles Gaston, 1955, _Lógica e Filosofia das Ciências_, São Paulo: Edições Melhoramentos.
-* Griffiths, Robert B., 2015, “Consistent Quantum Measurements”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 52: 188–197. doi:10.1016/j.shpsb.2015.07.002
-* Guerrero Pino, Germán, 2003, _Estudios Kuhnianos_, Santiago de Cali: Universidad del Valle.
-* –––, 2008, “Individuación de las teorías en el enfoque semántico”, _Principia: An International Journal of Epistemology_, 12(1): 97–119. doi:10.5007/1808-1711.2008v12n1p97
-* –––, 2010, “La Noción de Modelo en el Enfoque Semántico de las Teorías”, _Praxis Filosófica_, 31: 169–185. doi:10.25100/pfilosofica.v0i31.3434
-* Guillaumin, Godfrey, 2005, _El Surgimiento de la Noción de Evidencia. Un Estudio de Epistemología Histórica sobre la Idea de Evidencia Científica_, Mexico D.F.: UNAM.
-* –––, 2017, “Scientific Measurement as Cognitive Integration: The Role of Cognitive Integration in the Growth of Scientific Knowledge”, in _Reasoning in Measurement_, Nicola Mössner and Alfred Nordmann (eds.), London: Routledge, 189–202. doi:10.4324/9781781448717
-* Harding, Sandra, Tania Pérez-Bustos, and Manuela Fernández-Pinto, 2019, “Entangled Sciences of Gender, Sexuality and Race: Latin American Issues”, _Tapuya: Latin American Science, Technology and Society_, 2(1): 335–339. doi:10.1080/25729861.2019.1685754
-* Haselager, Willem and Maria Eunice Q. González 2007a, “The Meaningful Body: on Differences Between Artificial and Organic Creatures”, in _Artificial Cognition Systems_, Angelo Loula, Ricardo Gudwin, and João Queiroz (eds.), Hershey: Idea Group Publishers, 238–250.
-* –––, 2007b, “Mechanicism and Autonomy: What Can Robotics Teach Us about Human Cognition and Action?”, _Pragmatics & Cognition_, 15(3): 407–412. doi:10.1075/pc.15.3.02has
-* Hettema, Hinne, 2012, _Reducing Chemistry to Physics. Limits, Models, Consequences_, Groningen: Rijksuniversiteit Groningen.
-* –––, 2014, “Linking Chemistry with Physics: A Reply to Lombardi”, _Foundations of Chemistry_, 16(3): 193–200. doi:10.1007/s10698-014-9200-1
-* Hilb, C., 1994, “Equality and the Limit of Liberty”, in _The Making of Political Identities_, Ernesto Laclau (ed), London: Verso, 103–114.
-* Holik, Federico, Juan Pablo Jorge, Décio Krause, and Olimpia Lombardi, 2022, “Quasi-Set Theory: A Formal Approach to a Quantum Ontology of Properties”, _Synthese_, 200(5): #401. doi:10.1007/s11229-022-03884-8
-* Hutto, Daniel D. and Glenda Satne, 2017, “Demystifying Davidson: Radical Interpretation Meets Radical Enactivism”, _Argumenta_, 5(1): 127–144. doi:10.14275/2465-2334/20175.HUT
-* Inêz, Tiago Guimarães, Breno Pascal de Lacerda Brito, and Charbel N. El-Hani, 2023, “A Model for Teaching About the Nature of Science in the Context of Biological Education”, _Science & Education_, 32(1): 231–276. doi:10.1007/s11191-021-00285-0
-* Izquierdo-Aymerich, Mercè and Agustín Adúriz-Bravo, 2003, “Epistemological Foundations of School Science”, _Science & Education_, 12(1): 27–43. doi:10.1023/A:1022698205904
-* –––, 2009, “Physical Construction of the Chemical Atom: Is It Convenient to Go All the Way Back?”, _Science & Education_, 18(3–4): 443–455. doi:10.1007/s11191-008-9156-4
-* Jaimes Arriaga, Jesus Alberto, Sebastian Fortin, and Olimpia Lombardi, 2019, “A New Chapter in the Problem of the Reduction of Chemistry to Physics: The Quantum Theory of Atoms in Molecules”, _Foundations of Chemistry_, 21(1): 125–136. doi:10.1007/s10698-018-09332-1
-* Jaramillo Uribe, Juan Manuel, 2009, “Estructuralismo francés y estructuralismo metateórico”, _Discusiones Filosóficas_, 10(15): 23–50.
-* –––, 2014, “Realismo estructural y estructuralismo metateórico”, _Estudios de Filosofía_, 50: 171–193. doi:10.17533/udea.ef.21144
-* Jaramillo Uribe, Juan Manuel, Luz Marina Duque M., Omar Díaz Saldaña, Germán Guerrero Pino, Luis Humberto Hernández, Martín Johani Urquijo, and Adolfo León Gómez, 1997, _Thomas Kuhn_, Santiago de Cali: Universidad del Valle.
-* Kalpokas, Daniel, 2019, “Perception: A Blind Spot in Brandom’s Normative Pragmatics”, _Disputatio. Philosophical Research Bulletin_, 8(9): 237–258. doi:10.5281/zenodo.3236910
-* –––, 2020a, “Perception as a Propositional Attitude”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 35(2): 155–174. doi:10.1387/theoria.20574
-* –––, 2020b, “Two Versions of the Conceptual Content of Experience”, _International Journal of Philosophical Studies_, 28(1): 36–55. doi:10.1080/09672559.2019.1690542
-* –––, 2022a, “Perception as a Contentful Relation”, _European Journal of Philosophy_, 30(2): 740–754. doi:10.1111/ejop.12688
-* –––, 2022b, “Brandom on Perceptual Knowledge”, _Journal of Transcendental Philosophy_, 3(1): 49–70. doi:10.1515/jtph-2021-0018
-* Kent, Michael, Vivette García-Deister, Carlos López-Beltrán, Ricardo Ventura Santos, Ernesto Schwartz-Marín, and Peter Wade, 2015, “Building the Genomic Nation: ‘Homo Brasilis’ and the ‘Genoma Mexicano’ in Comparative Cultural Perspective”, _Social Studies of Science_, 45(6): 839–861. doi:10.1177/0306312715611262
-* Klier, Gabriela, Tomás Busan, Federico Di Pasquo, Paula Blois, Christian Francese, and Guillermo Folguera, 2017, “Natural Sciences and Environmental Issues: A Contribution from the Philosophy of Environmental Sciences”, _International Journal of Environment and Health_, 8(4): 255–271. doi:10.1504/IJENVH.2017.088112
-* Klimovsky, Gregorio, 1971, “Ciencia e ideología”, _Ciencia Nueva_, 10: 12–21. See in http://www.politicascti.net/images/ciencianueva/CIENCIANUEVA10.pdf
-* –––, 1994, _Las Desventuras del Conocimiento Científico. Una introducción a la epistemología_, Buenos Aires: A-Z Editora.
-* –––, 2008, _Mis Diversas Existencias. Apuntes para una autobiografía_, Buenos Aires: A-Z Editora.
-* Klimovsky, Gregorio and Guillermo Boido, 2005, _Las Desventuras del Conocimiento Matemático_, Buenos Aires: A-Z Editora.
-* Klimovsky, Gregorio and Cecilia Hidalgo, 1998, _La Inexplicable Sociedad_, Buenos Aires: A-Z Editora.
-* Klimovsky, Gregorio, Oscar Varsavsky, Jorge Schvarzer, Manuel Sadosky, Conrado Eggers Lan, Thomas Moro Simpson, and Rolando García, 1975, _Ciencia e Ideología. Aportes polémicos_, Buenos Aires: Ediciones Ciencia Nueva; [Klimovsky et al. 1975 available online](https://issuu.com/ciencianueva/docs/ciencia\e\ideologia-aportes\polemic).
-* Knuuttila, Tarja and Vivette García Deister, 2019, “Modelling Gene Regulation: (De)Compositional and Template-Based Strategies”, _Studies in History and Philosophy of Science Part A_, 77: 101–111. doi:10.1016/j.shpsa.2017.11.002
-* Krause, Décio, 1991, “Multisets, Quasi-Sets and Weyl’s Aggregates”, _The Journal of Non-Classical Logic_, 8(2): 9–39.
-* –––, 1992, “On a Quasi-Set Theory”, _Notre Dame Journal of Formal Logic_, 33(3): 402–411. doi:10.1305/ndjfl/1093634404
-* –––, 1996a, “Remarks on Individuation, Quantum Objects and Logic”, _Logique et Analyse_, 39(155–156): 325–333.
-* –––, 1996b, “Axioms for Collections of Indistinguishable Objects”, _Logique et Analyse_, 39(153–154): 69–93.
-* –––, 2000, “Remarks on Quantum Ontology”, _Synthese_, 125(1/2): 155–167. doi:10.1023/A:1005235125284
-* –––, 2022, “Quantifying Over Indiscernibles”, _Axiomathes_, 32(3): 931–946. doi:10.1007/s10516-022-09646-y
-* –––, 2023, “On Identity, Indiscernibility and (Non-)Individuality in the Quantum Domain”, _Philosophical Transactions of the Royal Society A_, 381(2255): #20220096. doi:10.1098/rsta.2022.0096
-* Krause, Décio and Jonas R. Becker Arenhart, 2012, “A Discussion on Quantum Non-Individuality”, _Journal of Applied Non-Classical Logics_, 22(1–2): 105–124. doi:10.1080/11663081.2012.682447
-* –––, 2014, “Separability and Non-Individuality: Is It Possible to Conciliate (at Least a Form of) Einstein’s Realism with Quantum Mechanics?”, _Foundations of Physics_, 44(12): 1269–1288. doi:10.1007/s10701-014-9808-y
-* –––, 2016a, “Individuality, Quantum Physics, and a Metaphysics of Nonindividuals”, in _Individuals Across the Sciences_, Alexandre Guay and Thomas Pradeu (eds.), Oxford: Oxford University Press, 61–82. doi:10.1093/acprof:oso/9780199382514.003.0005
-* –––, 2016b, _The Logical Foundations of Scientific Theories: Languages, Structures, and Models_, London: Routledge.
-* Krause, Décio, Jonas Becker Arenhart, and Otávio Bueno, 2022, “The Non-Individuals Interpretation of Quantum Mechanics”, in _The Oxford Handbook of the History of Quantum Interpretations_, Olival Freire Jr (ed.), Oxford: Oxford University Press, 1135–1154. doi:10.1093/oxfordhb/9780198844495.013.0047
-* Krause, Décio and Steven French, 1995, “A Formal Framework for Quantum Non-Individuality”, _Synthese_, 102(1): 195–214. doi:10.1007/BF01063905
-* –––, 2007, “Quantum Sortal Predicates”, _Synthese_, 154(3): 417–430. doi:10.1007/s11229-006-9127-8
-* Krause, Décio, Adonai S. Sant’Anna, and A. G. Volkov, 1999, “Quasi-Set Theory for Bosons and Fermions: Quantum Distributions”, _Foundations of Physics Letters_, 12(1): 51–66. doi:10.1023/A:1021678721611
-* Kreimer, Pablo and Hebe Vessuri, 2018, “Latin American Science, Technology, and Society: A Historical and Reflexive Approach”, _Tapuya: Latin American Science, Technology and Society_, 1(1): 17–37. doi:10.1080/25729861.2017.1368622
-* Kuechle, Graciela and Diego Ríos, 2015, “Optimization-Based Explanations”, _Philosophy of the Social Sciences_, 45(4–5): 481–496. doi:10.1177/0048393115586999
-* Labarca, Martín and Olimpia Lombardi, 2010, “Why Orbitals Do Not Exist?”, _Foundations of Chemistry_, 12(2): 149–157. doi:10.1007/s10698-010-9086-5
-* Lacey, Hugh and Pablo Rubén Mariconda, 2012, “The Eagle and the Starlings: Galileo’s Argument for the Autonomy of Science–How Pertinent Is It Today?”, _Studies in History and Philosophy of Science Part A_, 43(1): 122–131. doi:10.1016/j.shpsa.2011.10.012
-* –––, 2014a, “O modelo das interações entre as atividades científicas e os valores”, _Scientiae Studia_, 12(4): 643–668. doi:10.1590/S1678-31662014000500002
-* –––, 2014b, “O modelo da interação entre as atividades científicas e os valores na interpretação das práticas científicas contemporâneas”, _Estudos Avançados_, 28(82): 181–199. doi:10.1590/S0103-40142014000300012
-* –––, 2023, “Commercially-Oriented Technoscience and the Need for Multi-Strategic Research”, in _Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community_, Helena Mateus Jerónimo (ed.), Cham: Springer, 221–336. doi:10.1007/978-3-031-14630-5\_18
-* La Greca, María Inés, 2023, “The Other Side of The Linguistic Turn: Theory of History and the Negotiation of Humanity”, _Rethinking History_, 27(1): 3–25. doi: 10.1080/13642529.2022.2143672
-* Laspra, Belén and José Antonio López Cerezo (eds.), 2018, _Spanish Philosophy of Technology: Contemporary Work from the Spanish Speaking Community_, (Philosophy of Engineering and Technology 24), Cham: Springer International Publishing. doi:10.1007/978-3-319-71958-0
-* Laureano-Cruces, Ana Lilia and Axel Arturo Barceló-Aspeitia, 2003, “Formal Verification of Multi-Agent Systems Behaviour Emerging from Cognitive Task Analysis”, _Journal of Experimental & Theoretical Artificial Intelligence_, 15(4): 407–431. doi:10.1080/0952813031000119719
-* Lawler, Diego, 2018, “Praxeology Approaches Technology: The Ontology and Epistemology of Our Technological Practices”, in _Spanish Philosophy of Technology_, Belén Laspra and Jose Antonio López Cerezo (eds.), 17–30. doi:10.1007/978-3-319-71958-0\_2
-* Lazzarini, Andrés and Diego Weisman (eds.), 2012, _Perspectives on Epistemology of Economics. Essays on Methodology of Economics_, Buenos Aires: Facultad de Ciencias Económicas. \[[Lazzarini and Weisman (eds) 2012 available online](https://plato.stanford.edu/entries/phil-science-latin-america/)]
-* Leuschner, Anna and Manuela Fernández Pinto, 2021, “How Dissent on Gender Bias in Academia Affects Science and Society: Learning from the Case of Climate Change Denial”, _Philosophy of Science_, 88(4), 573–593. doi:10.1086/713903
-* –––, 2022, “Exploring the limits of dissent: the case of shooting bias”, _Synthese_, 200 (4):1–19. doi:10.1007/s11229-022-03783-y
-* Lewis, David, 1973, _Counterfactuals_, Oxford: Blackwell.
-* Lewowicz, Lucía, 2004, “El carácter no universal del lenguaje en las últimas obras de Kuhn”, _Análisis Filosófico_, 24(2): 195–214.
-* –––, 2005, _Del Relativismo Lingüístico al Relativismo Ontológico en el último Kuhn_, Montevideo: Universidad de la República.
-* –––, 2007, “Inconmensurabilidad y no solapamiento. Una ambigüedad planteada a través del concepto de categoría taxonómica en el último Kuhn”, in Pablo Lorenzano and Hernán Miguel (eds.), _Filosofía e Historia de la Ciencia en el Cono Sur_, Buenos Aires: CCC Educando, 293–300 .
-* Lewowicz, Lucía and Olimpia Lombardi, 2013, “Stuff versus Individuals”, _Foundations of Chemistry_, 15(1): 65–77. doi:10.1007/s10698-012-9152-2
-* Leyva, Gustavo, 2014, “Democracy in Latin America: An Unfinished Project”, _Journal of the British Society for Phenomenology_, 45(1): 59–71. doi:10.1080/00071773.2014.915643
-* Linares Salgado, Jorge Enrique, 2018, “The Promises of Synthetic Biology: New Bioartefacts and Their Ethical and Societal Consequences”, in _Spanish Philosophy of Technology_, Belén Laspra and Jose Antonio López Cerezo (eds.), 179–194. doi:10.1007/978-3-319-71958-0\_13
-* –––, 2019, _Adiós a la Naturaleza. La Revolución Bio-artefactual_, Madrid: Plaza & Valdés
-* Lombardi, Olimpia, 2004, “What Is Information?”, _Foundations of Science_, 9(2): 105–134. doi:10.1023/B:FODA.0000025034.53313.7c
-* –––, 2005, “Dretske, Shannon’s Theory and the Interpretation of Information”, _Synthese_, 144(1): 23–39. doi:10.1007/s11229-005-9127-0
-* –––, 2012, “Prigogine and the Many Voices of Nature”, _Foundations of Chemistry_, 14(3): 205–219. doi:10.1007/s10698-011-9140-y
-* –––, 2013, “Book Review: Hinne Hettema: _Reducing Chemistry to Physics. Limits, Models, Consequences_, Groningen: Rijksuniversiteit Groningen, Groningen, 2012”, _Hyle: International Journal for Philosophy of Chemistry_, 19(1): 135–137. \[[Lombardi 2013 available online](http://www.hyle.org/journal/issues/19-1/rev\lombardi.htm)]
-* –––, 2014a, “The Ontological Autonomy of the Chemical World: Facing the Criticisms”, in _Philosophy of Chemistry: Growth of a New Discipline_, Eric Scerri and Lee McIntyre (eds.), (Boston Studies in the Philosophy and History of Science 306), Dordrecht: Springer Netherlands, 23–38. doi:10.1007/978-94-017-9364-3\_3
-* –––, 2014b, “Linking Chemistry with Physics: Arguments and Counterarguments”, _Foundations of Chemistry_, 16(3): 181–192. doi:10.1007/s10698-013-9197-x
-* –––, 2023a, “Pluralist Realism: Where Onticity and Practice Meet”, in _Practical realist philosophy of science. Reflecting on Rein Vihalemm’s ideas_, Ave Mets, Endla Lõhkivi, Jaana Eigi-Watkin, and Peeter Müürsepp (eds.), Lanham (Maryland): Lexington Books, in press.
-* –––, 2023b,“A Kantian-Rooted Pluralist Realism for Science”, in _Current Debates in Philosophy of Science: In Honor of Roberto Torretti_, Cristián Soto (ed.), Synthese Library Series, Cham: Springer, 77–95. doi:10.1007/978-3-031-32375-1\_5
-* –––, 2023c, “ Not Individuals, Nor Even Objects: On the Ontological Nature of Quantum Systems”, in _Non-Reflexive Logics, Non-Individuals, and the Philosophy of Quantum Mechanics. Essays in Honour of the Philosophy of Décio Krause_, Jonas Becker Arenhart and Raoni Wohnrath Arroyo (eds.), Synthese Library Series, Cham: Springer, 45–77. doi:10.1007/978-3-031-31840-5\_4
-* –––, 2023d, “Entanglement and Indistinguishability: Facing Some Challenges from a New Perspective”, _Philosophical Transactions of the Royal Society A_, 381(2255): #20220101. doi:10.1098/rsta.2022.0101
-* Lombardi, Olimpia and Juan Sebastián Ardenghi, 2022, “How Different Interpretations of Quantum Mechanics Can Enrich Each Other: The Case of the Relational Quantum Mechanics and the Modal-Hamiltonian Interpretation”, _Foundations of Physics_, 52(3): #64. doi:10.1007/s10701-022-00580-y
-* Lombardi, Olimpia, Juan Sebastián Ardenghi, Sebastian Fortin, and Mario Castagnino, 2011, “Compatibility between Environment-Induced Decoherence and the Modal-Hamiltonian Interpretation of Quantum Mechanics”, _Philosophy of Science_, 78(5): 1024–1036. doi:10.1086/662253
-* Lombardi, Olimpia and Mario Castagnino, 2008, “A Modal-Hamiltonian Interpretation of Quantum Mechanics”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 39(2): 380–443. doi:10.1016/j.shpsb.2008.01.003
-* –––, 2010, “Matters Are Not so Clear on the Physical Side”, _Foundations of Chemistry_, 12(2): 159–166. doi:10.1007/s10698-010-9090-9
-* Lombardi, Olimpia, Mario Castagnino, and Juan Sebastián Ardenghi, 2010, “The Modal-Hamiltonian Interpretation and the Galilean Covariance of Quantum Mechanics”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 41(2): 93–103. doi:10.1016/j.shpsb.2010.02.002
-* Lombardi, Olimpia and Dennis Dieks, 2016, “Particles in a Quantum Ontology of Properties”, in _Metaphysics in Contemporary Physics_, Tomasz Bigaj and Christian Wüthrich (eds.), Leiden: Brill-Rodopi, 123–143. doi:10.1163/9789004310827\_007
-* Lombardi, Olimpia, Sebastian Fortin, and Mario Castagnino, 2012, “The Problem of Identifying the System and the Environment in the Phenomenon of Decoherence”, in _EPSA Philosophy of Science: Amsterdam 2009_, Henk W. de Regt, Stephan Hartmann, and Samir Okasha (eds.), Dordrecht: Springer Netherlands, 161–174. doi:10.1007/978-94-007-2404-4\_15
-* Lombardi, Olimpia, Sebastian Fortin, and Cristian López, 2015, “Measurement, Interpretation and Information”, _Entropy_, 17(12): 7310–7330. doi:10.3390/e17117310
-* –––, 2016, “Deflating the Deflationary View of Information”, _European Journal for Philosophy of Science_, 6(2): 209–230. doi:10.1007/s13194-015-0128-7
-* Lombardi, Olimpia, Sebastian Fortin, and Leonardo Vanni, 2015, “A Pluralist View about Information”, _Philosophy of Science_, 82(5): 1248–1259. doi:10.1086/683650
-* Lombardi, Olimpia, Federico Holik, and Leonardo Vanni, 2016a, “What Is Shannon Information?”, _Synthese_, 193(7): 1983–2012. doi:10.1007/s11229-015-0824-z
-* –––, 2016b, “What Is Quantum Information?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 56: 17–26. doi:10.1016/j.shpsb.2016.10.001
-* Lombardi, Olimpia and Martín Labarca, 2005, “The Ontological Autonomy of the Chemical World”, _Foundations of Chemistry_, 7(2): 125–148. doi:10.1007/s10698-004-0980-6
-* –––, 2006, “The Ontological Autonomy of the Chemical World: A Response to Needham”, _Foundations of Chemistry_, 8(1): 81–92. doi:10.1007/s10698-005-9004-4
-* Lombardi, Olimpia and Cristian López, 2018, “What Does ‘Information’ Mean in Integrated Information Theory?”, _Entropy_, 20(12): 894–912. doi:10.3390/e20120894
-* Lombardi, Olimpia and Chérif Matta, 2022, “Coarse-graining and the Quantum Theory of Atoms in Molecules”, in _Philosophical Perspectives in Quantum Chemistry_, Olimpia Lombardi, Juan Camilo Martínez González, and Sebastian Fortin (eds.), Synthese Library Series, Cham: Springer, 217–241. doi:10.1007/978-3-030-98373-4\_10
-* Lombardi, Olimpia and Ana Rosa Pérez Ransanz, 2012, _Los Múltiples Mundos de la Ciencia. Un Realismo Pluralista y su Aplicación a la Filosofía de la Física_, México: UNAM-Siglo XXI.
-* López, Cristian, 2019, “Roads to the past: how to go and not to go backward in time in quantum theories”, _European Journal for Philosophy of Science_, 9: art. 27. doi:10.1007/s13194-019-0250-z
-* –––, 2021a, “Three Facets of Time-Reversal Symmetry”, _European Journal for Philosophy of Science_, 11(2): #51. doi:10.1007/s13194-021-00355-8
-* –––, 2021b, “The Physics and Philosophy of Time Reversal in Standard Quantum Mechanics”, _Synthese_, 199(5-6): 14267–14292. doi:10.1007/s11229-021-03420-0
-* –––, 2022a, “Time’s Direction and Orthodox Quantum Mechanics: Time Symmetry and Measurement”, _Journal for General Philosophy of Science_, 53(4): 421–440. doi:10.1007/s10838-021-09582-2
-* –––, 2022b, “Spontaneous Collapse Theories and Primitivism About Time’s Direction”. _Foundations of Physics_, 52(5): #112. doi:10.1007/s10701-022-00632-3
-* –––, 2023a, “The Metaphysical Under-Determination of Time Reversal”, _Synthese_, 201(1): #29. doi:10.1007/s11229-023-04039-z
-* –––, 2023b, “Should Physical Symmetries Guide Metaphysics? Two Reasons Why They Should Maybe Not”, _European Journal for the Philosophy of Science_, 13(2): #23. doi:10.1007/s13194-023-00525-w
-* López, Cristian and Michael Esfeld, 2023, “Humean Time Reversal”. _Synthese_, 202: #31. doi:10.1007/s11229-023-04247-7
-* López, Cristian and Olimpia Lombardi, 2019, “No Communication without Manipulation: A Causal-Deflationary View of Information”, _Studies in History and Philosophy of Science Part A_, 73: 34–43. doi:10.1016/j.shpsa.2018.06.003
-* López Austin, Alfredo, 2005, _El Modelo en la Ciencia y la Cultura_, México D.F.: UNAM-Siglo XXI.
-* López-Beltrán, Carlos, 1994, “Forging Heredity: From Metaphor to Cause, a Reification Story”, _Studies in History and Philosophy of Science Part A_, 25(2): 211–235. doi:10.1016/0039-3681(94)90028-0
-* –––, 2006, “Storytelling, Statistics and Hereditary Thought: The Narrative Support of Early Statistics”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(1): 41–58. doi:10.1016/j.shpsc.2005.12.003
-* Lorenzano, Pablo, 1998, “Sobre las leyes en la biología”, _Episteme (Porto Alegre)_, 3(7): 261–272.
-* –––, 2007, “Leyes fundamentales y leyes de la biología”, _Scientiae Studia_, 5(2): 185–214. doi:10.1590/S1678-31662007000200004
-* –––, 2013, “The Semantic Conception and the Structuralist View of Theories: A Critique of Suppe’s Criticisms”, _Studies in History and Philosophy of Science Part A_, 44(4): 600–607. doi:10.1016/j.shpsa.2013.09.001
-* –––, 2014, “What Is the Status of the Hardy-Weinberg Law within Population Genetics?”, in _European Philosophy of Science: Philosophy of Science in Europe and the Viennese Heritage_, Maria Carla Galavotti, Elisabeth Nemeth, and Friedrich Stadler (eds.), Cham: Springer International Publishing, 159–172. doi:10.1007/978-3-319-01899-7\_11
-* –––, 2023a, “Paradigm”, in _The SAGE Encyclopedia of Theory in Science, Technology, Engineering, and Mathematics_, James Mattingly (ed.), Thousand Oaks, CA: SAGE Publications, 633–638. doi: 10.4135/9781071872383.n145
-* –––, 2023b, “Philosophy of Biology in Latin America”, _The Stanford Encyclopedia of Philosophy_ (Fall 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2023/entries/phil-bio-latin-america/](https://plato.stanford.edu/archives/fall2023/entries/phil-bio-latin-america/)
-* Lorenzano, Pablo and José Díez, 2002, “La concepción estructuralista en el contexto de la filosofía de la ciencia del siglo XX”, in Pablo Lorenzano and José Díez (eds.), _Desarrollos Actuales de la Metateoría Estructuralista: Problemas y Discusiones_, Buenos Aires: Universidad Nacional de Quilmes, 13–78.
-* –––, 2022, “Scientific Explanation as Ampliative, Specialized Embedding: The Case of Classical Genetics”, _Synthese_, 200(6): #510. doi: 10.1007/s11229-022-03983-6
-* Losada, Marcelo and Olimpia Lombardi, 2018, “Histories in Quantum Mechanics: Distinguishing between Formalism and Interpretation”, _European Journal for Philosophy of Science_, 8(3): 367–394. doi:10.1007/s13194-017-0197-x
-* Ludwig, David and Charbel El-Hani, 2020, “Philosophy of Ethnobiology: Understanding Knowledge Integration and Its Limitations”, _Journal of Ethnobiology_, 40(1): 3–20. doi:10.2993/0278-0771-40.1.3
-* Lythgoe, Esteban, 2011, “Ricoeur’s Concept of Testimony”, _Analecta Hermeneutica_, 3: lythgoe. \[[Lythgoe 2011 available online](https://journals.library.mun.ca/ojs/index.php/analecta/issue/view/33/showToc)]
-* –––, 2014, “Social Imagination, Abused Memory, and the Political Place of History in Memory, History, Forgetting”, _Études Ricoeuriennes / Ricoeur Studies_, 5(2): 35–47. doi:10.5195/ERRS.2014.249
-* Maffía, Diana H., 2001, “Conocimiento y subjetividad”, in _Ciencia y Género_, Eulalia Pérez Sedeño and Paloma Alcalá Cortijo (eds.), Madrid: Universidad Complutense, 329–333.
-* –––, 2005, “Conocimiento y emoción”, _Arbor: Ciencia Pensamiento y Cultura_, 181(716): 515–521. doi:10.3989/arbor.2005.i716.408
-* –––, 2006, “El vínculo crítico entre género y ciencia”, _Clepsydra: Revista de Estudios de Género y Teoría Feminista_, 5: 37–57.
-* –––, 2007, “Epistemología feminista: la subversión semiótica de las mujeres en la ciencia”, _Revista Venezolana de Estudios de la Mujer_, 12(28): 63–98.
-* Maltrana, Diego, 2015, “Symmetries as By-Products of Conserved Quantities, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 52: 358–368. doi:10.1016/j.shpsb.2015.10.006
-* Maltrana, Diego, Manuel Herrera, and Federico Benitez, 2022, “Einstein’s Theory of Theories and Mechanicism”, _International Studies in the Philosophy of Science_, 35(2): 153–170. doi:10.1080/02698595.2022.2130661
-* Maltrana, Diego and Nicolás Sepúlveda-Quiroz, 2022, “The Heuristic Power of Theory Classification, the Case of General Relativity” _Foundations of Physics_, 52(4): #94. doi:10.1007/s10701-022-00614-5
-* Manero, Jorge, 2019, “Imprints of the Underlying Structure of Physical Theories”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 68: 71–89. doi:10.1016/j.shpsb.2019.06.005
-* –––, “Quantum Pointillism with Relational Identity”, _Synthese_, 199(3-4): 10639–10666. doi:10.1007/s11229-021-03262-w
-* Marcos, Alfredo and Ana Rosa Pérez Ransanz, 2015, “La Filosofía de la Ciencia en Iberoamérica en el Siglo XX”, en _Filosofía Iberoamericana del siglo XX. Filosofía Teórica e Historia de la Filosofía_, Reyes Mate, Osvaldo Guariglia, and León Olivé (eds.), _Enciclopedia Iberoamericana de Filosofía_, Madrid: Trotta-CSIC, 171–230
-* Marcos, João, 2009, “What Is a Non-Truth-Functional Logic?”, _Studia Logica_, 92(2): 215–240. doi:10.1007/s11225-009-9196-z
-* Mariconda, Pablo Rubén, 1999, “Galileu e a teoria das marés”, _Cadernos de História e Filosofia da Ciência_, 9(1–2): 33–71.
-* –––, 2008, “_As Mecânicas_ de Galileu: as máquinas simples e a perspectiva técnica moderna”, _Scientia Studia_, 6(4): 565–606. doi:10.1590/S1678-31662008000400006
-* –––, 2014, “Technological Risks, Transgenic Agriculture and Alternatives”, _Scientiae Studia_, 12(spe): 75–104. doi:10.1590/S1678-31662014000400005
-* Marques, Beatriz Sorrentino and Osvaldo Frota Pessoa, 2017, “Presuppositions about the Role of Consciousness in the Agent Causation Conception of Agents and the Problem of the Disappearing Agent”, _Cognitive Systems Research_, 43: 45–52. doi:10.1016/j.cogsys.2016.12.003
-* Martínez, Isabel C., Silvia A. Español, and Diana I. Pérez, 2018, “The Interactive Origin and the Aesthetic Modelling of Image-Schemas and Primary Metaphors”, _Integrative Psychological and Behavioral Science_, 52(4): 646–671. doi:10.1007/s12124-018-9432-z
-* Martínez, Maximiliano and Maurizio Esposito, 2014, “Multilevel Causation and the Extended Synthesis”, _Biological Theory_, 9(2): 209–220. doi:10.1007/s13752-014-0161-3
-* Martínez, Maximiliano and Andrés Moya, 2011, “Natural Selection and Multi-Level Causation”, _Philosophy and Theory in Biology_, 3: art. 2. doi:10.3998/ptb.6959004.0003.002
-* Martínez, Sergio F., 1990, “A Search for the Physical Content of Luders’ Rule”, _Synthese_, 82(1): 97–125. doi:10.1007/BF00413671
-* –––, 1991, “Lüders’s Rule as a Description of Individual State Transformations”, _Philosophy of Science_, 58(3): 359–376. doi:10.1086/289622
-* –––, 1997, _De los Efectos a las Causas_, México D. F.: UNAM-Paidós.
-* –––, 2003, _Geografía de las Prácticas Científicas: Racionalidad, Heurística y Normatividad_, México D.F.: UNAM.
-* –––, 2013, “Technological Scaffoldings for the Evolution of Culture and Cognition”, in _Developing Scaffolds in Evolution, Culture, and Cognition_, Linnda R. Caporael, James R. Griesemer, and William C. Wimsatt (eds.), Cambridge MA: MIT Press, 249–264. doi:10.7551/mitpress/9780262019552.003.0012
-* –––, 2019, “What is Innovation: New Lessons from Biology”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 34(3): 343–355. doi:10.1387/theoria.18863
-* Martínez, Sergio and Natalia Carrillo, 2022, “The Metaphoric Sources of Scientific Innovation”, in _Metaphors and Analogies in Sciences and Humanities_, Shyam Wuppuluri and A. C. Grayling (eds.), Synthese Library Series, Cham: Springer, 33–47. doi:10.1007/978-3-030-90688-7\_2
-* Martínez, Sergio and Xiang Huang, 2011, “Epistemic Groundings of Abstraction and Their Cognitive Dimension”, _Philosophy of Science_, 78(3): 490–-511. doi:10.1086/660305
-* Martínez González, Juan Camilo, 2020, “About the Ontology of Quantum Chemistry”, _Tópicos_, 58: 325–348. doi:10.21555/top.v0i58.1045
-* Martínez González, Juan Camilo, Sebastian Fortin, and Olimpia Lombardi, 2019, “Why Molecular Structure Cannot Be Strictly Reduced to Quantum Mechanics”, _Foundations of Chemistry_, 21(1): 31–45. doi:10.1007/s10698-018-9310-2
-* Martínez-Ordaz, María del Rosario, 2021, “The Ignorance Behind Inconsistency Toleration”, _Synthese_, 198(9): 8665–8686. doi:10.1007/s11229-020-02593-4
-* –––, 2022a, “A Methodological Shift in Favor of (Some) Paraconsistency in the Sciences”, _Logica Universalis_, 16(1): 335–354. doi:10.1007/s11787-022-00302-y
-* –––, 2022b, “Is There Anything Special About the Ignorance Involved in Big Data Practices?”, in _Philosophy of Computing_, Björn Lundgren and Nancy Abigail Nuñez Hernández (eds.), _Philosophy of Computing_. Cham: Springer, Cham, 113–140. doi:10.1007/978-3-030-75267-5\_4
-* –––, 2023, “Scientific Understanding Through Big Data: From Ignorance to Insights to Understanding”, _Possibility Studies & Society_, 1(3): 279–299. doi:10.1177/27538699231176523
-* Matta, Chérif, Olimpia Lombardi, and Jesús Jaimes Arriaga, 2020, “Two-Step Emergence: The Quantum Theory of Atoms in Molecules as a Bridge Between Quantum Mechanics and Molecular Chemistry”, _Foundations of Chemistry_, 22(1): 107–129. doi:10.1007/s10698-020-09352-w
-* Maudlin, Tim, Elías Okon, and Daniel Sudarsky, 2020, “On the Status of Conservation Laws in Physics: Implications for Semiclassical Gravity”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 69: 67–81. doi:10.1016/j.shpsb.2019.10.004
-* Mc Manus, Fabrizzio (now Siobhan) Guerrero, 2009, “Rational Disagreements in Phylogenetics”, _Acta Biotheoretica_, 57(1–2): 99–127. doi:10.1007/s10441-009-9072-2
-* –––, 2012, “Development and Mechanistic Explanation”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 43(2): 532–541. doi:10.1016/j.shpsc.2011.12.001
-* –––, 2014, “Homosexuality, Homophobia, and Biomedical Sciences in Twentieth Century Mexico”, _Sexuality & Culture_, 18(2): 235–256. doi:10.1007/s12119-013-9193-2
-* –––, 2016, “Los géneros del saber: feminismo analítico, filosofía de la ciencia y conocimiento científico”, _INTERdisciplina_, 4(8): 59–87. doi:10.22201/ceiich.24485705e.2016.8.54969
-* Mc Manus, Siobhan Guerrero, 2018, “Biological Explanations and Their Limits: Paleoanthropology Among the Sciences”, in _Rethinking Human Evolution_, Jeffrey Schwartz (ed.), Cambridge, MA: The MIT Press, 31–52. doi:10.7551/mitpress/11032.003.0004
-* –––, 2019, “Transgenderism and Transracialism: Ontological Contrasts between Gender and Race”, _Diánoia_, 64(82): 3–30. doi:10.22201/iifs.18704913e.2019.82.1633
-* Melogno, Pablo, 2022, “From Externalism to Internalism: The Historiographical Development of Thomas Kuhn”, _Foundations of Science_, 27(2): 371–385. doi:10.1007/s10699-021-09801-5
-* Melogno, Pablo and Leandro Giri, 2023, “Towards a Genealogy of Thomas Kuhn’s Semantics”, _Perspectives on Science_, 31(4): 385–404. doi:10.1162/posc\_a\_00591
-* Melogno, Pablo, Hernán Miguel, and Leandro Giri (eds.), 2022, _Perspectives on Kuhn. Contemporary Approaches to the Philosophy of Thomas Kuhn_, Cham: Springer. doi:10.1007/978-3-031-16371-5
-* Mercado, Alexis, Karenia Córdova, and Hebe Vessuri, 2022, “The Technology of Need: Technology of Sustainability?”, _Tapuya: Latin American Science, Technology and Society_, 5: #041789. doi:10.1080/25729861.2022.2041789
-* Meyer, Lia Midori Nascimento, Gilberto Cafezeiro Bomfim, and Charbel Niño El-Hani, 2013, “How to Understand the Gene in the Twenty-First Century?”, _Science & Education_, 22(2): 345–374. doi:10.1007/s11191-011-9390-z
-* Mikenberg, Irene, Newton C. A. da Costa, and Rolando Chuaqui, 1986, “Pragmatic Truth and Approximation to Truth”, _Journal of Symbolic Logic_, 51(1): 201–221. doi:10.2307/2273956
-* Miró-Quesada, Francisco, 1954, _Filosofía de las Matemáticas_, Lima:UNMSM.
-* –––, 1962, _Apuntes para una Teoría de la Razón_, Lima: UNMSM.
-* –––, 2013, _Esquema de una Teoría de la Razón_, Lima: Universidad Ricardo Palmaem.
-* Montano, Ulianov, 2014, _Explaining Beauty in Mathematics: An Aesthetic Theory of Mathematics_, Synthese Library Series. Cham: Springer. doi:10.1007/978-3-319-03452-2
-* Moreira-dos-Santos, Frederik and Charbel N. El-Hani, 2017, “Belief, Knowledge and Understanding: How to Deal with the Relations Between Different Cultural Perspectives in Classrooms”, _Science & Education_, 26(3–4): 215–245. doi:10.1007/s11191-017-9891-5
-* Moro, Rodrigo, Gustavo A. Bodanza, and Esteban Freidin, 2011, “Sets or Frequencies? How to Help People Solve Conditional Probability Problems”, _Journal of Cognitive Psychology_, 23(7): 843–857. doi:10.1080/20445911.2011.579072
-* Mortari, Cezar A., 2007, “Restricted Classical Modal Logics”, _Logic Journal of IGPL_, 15(5–6): 741–757. doi:10.1093/jigpal/jzm046
-* Moulines, C. Ulises, 1982, _Exploraciones Metacientíficas_, Madrid: Alianza Editorial.
-* Muciño, Ricardo and Elías Okon, 2020, “Wigner’s Convoluted Friends”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 72: 87–90. doi:10.1016/j.shpsb.2020.07.001
-* Muciño, Ricardo, Elías Okon, and Daniel Sudarsky, 2022, “Assessing Relational Quantum Mechanics”, _Synthese_, 200(5), #399. doi:10.1007/s11229-022-03886-6
-* Mudrovcic, María Inés, 2013, “About Lost Futures or the Political Heart of History”, _Historein_, 14(1): 7–21. doi:10.12681/historein.228
-* –––, 2014, “Time, History, and Philosophy of History”, _Journal of the Philosophy of History_, 8(2): 217–242. doi:10.1163/18722636-12341272
-* –––, 2019, “The Politics of Time, The Politics of History: Who Are My Contemporaries?”, _Rethinking History_, 23(4): 456–473, doi:10.1080/13642529.2019.1677295
-* Munévar, Gonzalo, 1981, _Radical Knowledge: A Philosophical Inquiry into the Nature and Limits of Science_, Indianapolis: Hackett Publishing.
-* –––, 1998, _Evolution and the Naked Truth: A Darwinian Approach to Philosophy_, Aldershot: Taylor and Francis.
-* –––, 2006, _Variaciones sobre Temas de Feyerabend_, Cali: Programa Editorial Universidad del Valle.
-* Nachman, Robert G., 1977, “Positivism, Modernization, and the Middle Class in Brazil”, _The Hispanic American Historical Review_, 57(1): 1–23. doi:10.2307/2513540
-* Naishtat, Francisco S., 2000, “Continuity of Political Philosophy: War and Peace in Secularized Politics”, _Diogenes_, 48(192): 76–85. doi:10.1177/039219210004819207
-* –––, 2010a, “Governance, Sovereignty and Profane Hope in a Globalised Catastrophe-World”, _Diogenes_, 57(4): 46–55. doi:10.1177/0392192112436455
-* –––, 2010b, “The Figures of Terror and the Philosophical Debate on Modernity”, in _Terror, Terrorism, States and Societies. A Historical and Philosophical Perspective_, Samir Kumar Das and Rada Iveković (eds.), New Delhi: Women Unlimited, 284–294.
-* –––, 2011, “Global Justice and Politics: on the Transition from the Normative to the Political Level”, in _The Borders of Justice_, Étienne Balibar, Sandra Mezzadra, and Ranabir Samaddar (eds.), Philadelphia: Temple University Press, 33–51.
-* –––, 2012, “The Problematic Reception of Latin American Emancipation in Marx’a Historiography”, in _New Perspectives in Global History_, Daniel Brauer, Iwan D’Aprile, Günther Lottes, and Concha Roldán (eds.), Hannover: Wehrhahn Verlag, 49–64.
-* –––, 2018, “The Crisis of Historical Time at the Beginning of the Twentieth Century: An Early Counterpoint Between Benjamin and Heidegger as a Crucial Issue for Thinking Modernity, Globalization and its Historical Space”, in _Philosophy of Globalization_, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin-Boston: De Gruyter, 435–448. doi:10.1515/9783110492415-032
-* Needham, Paul, 2006, “Ontological Reduction: A Comment on Lombardi and Labarca”, _Foundations of Chemistry_, 8(1): 73–80. doi:10.1007/s10698-005-9002-6
-* Nieto Olarte, Mauricio, 2000, _Remedios para el Imperio: Historia Natural y la Apropiación del Nuevo Mundo_, Bogotá: Instituto Colombiano de Antropología e Historia.
-* –––, 2007, _Orden Natural y Orden Social: Ciencia y Política en el Semanario del Nuevo Reino de Granada_, Madrid: CSIC.
-* Nieves Delgado, Abigail, 2018, “Science, Politics and the Production of Biological Knowledge: New Trends and Old Challenges”, _Journal for General Philosophy of Science_, 49(3): 467–473. doi:10.1007/s10838-018-9406-3
-* Nieves Delgado, Abigail, David Ludwig, and Charbel El-Hani, 2023, “Pluralist Ethnobiology: Between Philosophical Reflection and Transdisciplinary Action”, _Journal of Ethnobiology_, 43(3): 1–7. doi:10.1177/02780771231194774
-* Nudler, Oscar, 1990, “On Conflicts and Metaphors: Toward an Extended Rationality”, in _Conflict: Human Needs Theory_, John Burton (ed.), London: Palgrave Macmillan UK, 177–201. doi:10.1007/978-1-349-21000-8\_9
-* –––, 2002, “Campos controversiales y progreso en filosofía”, _Manuscrito: Revista Internacional de Filosofia_, 25(2): 337–352.
-* –––, 2004, “Hacia un modelo de cambio conceptual: espacios controversiales y refocalización”, _Revista de Filosofía_, 29(2): 7–19.
-* ––– (ed.), 2011, _Controversy Spaces. A Model of Scientific and Philosophical Change_, Amsterdam-Philadelphia: John Benjamin.
-* Nunes-Neto, Nei, Alvaro Moreno, and Charbel N. El-Hani, 2014, “Function in Ecology: An Organizational Approach”, _Biology & Philosophy_, 29(1): 123–141. doi:10.1007/s10539-013-9398-7
-* Núñez Jover, Jorge, 1985, _Indagaciones Metodológicas Acerca de las Revoluciones Científicas. Filosofía y Ciencia_, La Habana: Editorial de Ciencias Sociales.
-* –––, 1989, _Interpretación Teórica de la Ciencia_, La Habana: Editorial de Ciencias Sociales.
-* Okon, Elias and Daniel Sudarsky, 2014a, “On the Consistency of the Consistent Histories Approach to Quantum Mechanics”, _Foundations of Physics_, 44(1): 19–33. doi:10.1007/s10701-013-9760-2
-* –––, 2014b, “Measurements According to Consistent Histories”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 48: 7–12. doi:10.1016/j.shpsb.2014.08.011
-* –––, 2014c, “Benefits of Objective Collapse Models for Cosmology and Quantum Gravity”, _Foundations of Physics_, 44(2): 114–143. doi:10.1007/s10701-014-9772-6
-* –––, 2015a, “The Consistent Histories Formalism and the Measurement Problem”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 52: 217–222. doi:10.1016/j.shpsb.2015.07.008
-* –––, 2015b, “The Black Hole Information Paradox and the Collapse of the Wave Function”, _Foundations of Physics_, 45(4): 461–470. doi:10.1007/s10701-015-9877-6
-* –––, 2017, “Black Holes, Information Loss and the Measurement Problem”, _Foundations of Physics_, 47(1): 120–131. doi:10.1007/s10701-016-0048-1
-* –––, 2018a, “The Weight of Collapse: Dynamical Reduction Models in General Relativistic Contexts”, in _Collapse of the Wave Function: Models, Ontology, Origin, and Implications_, Shan Gao (ed.), Cambridge University Press, 312–345. doi:10.1017/9781316995457.018
-* –––, 2018b, “Losing Stuff Down a Black Hole”, _Foundations of Physics_, 48(4): 411–428. doi:10.1007/s10701-018-0154-3
-* Oldofredi, Andrea and Cristian López, 2020, “On the Classification Between y-Ontic and y-Epistemic Ontological Models”, _Foundations of Physics_, 50(11): 1315–1345. doi:10.1007/s10701-020-00377-x
-* Olivé, León, 1988 \[1993], _Conocimiento, Sociedad y Realidad. Problemas del Análisis Social del Conocimiento y el Realismo Científico_, México, D.F.: Fondo de Cultura Económica. Translated as _Knowledge, Society and Reality: Problems of the Social Analysis of Knowledge and of Scientific Realism_, David Sosa (trans.), Amsterdam: Rodopi, 1993.
-* –––, 2000, _El Bien, el Mal y la Razón: Facetas de la Ciencia y de la Tecnología_, México: Paidós.
-* –––, 2007, _La Ciencia y la Tecnología en la Sociedad del Conocimiento: Ética, Política y Epistemología_, México: Fondo de Cultura Económica.
-* Orozco-Echeverri, Sergio, 2023, “Popular Science as Knowledge: Early Modern Iberian-American _Repertorios De Los Tiempos_”, _Galilaeana_, 20(1): 34–61. doi:10.57617/gal-4
-* Orozco-Echeverri, Sergio and Sebastián Molina-Betancur, 2019, “José Celestino Mutis’ Appropriation of Newton’s Experimental Physics in New Granada (1761-1808)”, _History of Science_, 57(3): 291–323. doi:10.1177/0073275319827203
-* –––, 2021, “A _Mestizo_ Cosmographer in the New Kingdom of Granada: Astronomy and Chronology in Sánchez de Cozar Guanientá’s Tratado (c.1696)”, _Annals of Science_, 78(3): 295–333, doi:10.1080/00033790.2021.1944667
-* Ortiz-Revilla, Jairo, Agustín Adúriz-Bravo, and Ileana M. Greca, 2020, “Framework for Epistemological Discussion on Integrated STEM Education”, _Science & Education_, 29(4): 857–880. doi:10.1007/s11191-020-00131-9
-* Osorio Marulanda, Carlos Augusto, 2018, “Philosophy of Activism and Community Management in Water Systems”, in _Spanish Philosophy of Technology_, Belén Laspra and Jose Antonio López Cerezo (eds.), 211–222. doi:10.1007/978-3-319-71958-0\_15
-* Otero, Mario H. (ed.), 1997, _Kuhn Hoy_, Montevideo: Universidad de la República.
-* Oyarzún R., Pablo, 2007, “Memory, Moment, and Tears: A Speculative Approach to the Problem of Latin American Singularities”, _CR: The New Centennial Review_, 7(3): 1–20. doi:10.1353/ncr.0.0000
-* –––, 2012, “On the Concept of Authority”, _CR: The New Centennial Review_, 11(3): 225–252. doi:10.1353/ncr.2012.0017
-* –––, 2017, “Fear and Abyss: Two Figures of Power”, _CR: The New Centennial Review_, 17(3): 219–235.
-* Páez, Andrés, 2006, _Explanations in K. An Analysis of Explanation as a Belief Revision Operation_, Oberhausen: Athena Verlag.
-* –––, 2009, “Artificial Explanations: The Epistemological Interpretation of Explanation in AI”, _Synthese_, 170(1): 131–146. doi:10.1007/s11229-008-9361-3
-* –––, 2019, “The Pragmatic Turn in Explainable Artificial Intelligence (XAI)”, _Minds & Machines_, 29(3): 441–459. doi:10.1007/s11023-019-09502-w
-* Palti, Elías José, 2004, “The ‘Return of the Subject’ As a Historico-Intellectual Problem”, _History and Theory_, 43(1): 57–82. doi:10.1111/j.1468-2303.2004.00265.x
-* –––, 2005, “On the Thesis of the Essential Contestability of Concepts, and 19th Century Latin American Intellectual History”, _Redescriptions: Political Thought, Conceptual History and Feminist Theory_, 9(1): 113–134. doi:10.7227/R.9.1.7
-* –––, 2006, “The Problem of ‘Misplaced Ideas’ Revisited: Beyond the ‘History of Ideas’ in Latin America”, _Journal of the History of Ideas_, 67(1): 149–179. doi:10.1353/jhi.2006.0009
-* –––, 2009, “Beyond Revisionism: The Bicentennial of Independence, the Early Republican Experience, and Intellectual History in Latin America”, _Journal of the History of Ideas_, 70(4): 593–614. doi:10.1353/jhi.0.0058
-* –––, 2010, “From Ideas to Concepts to Metaphors: The German Tradition of Intellectual History and the Complex Fabric of Language”, _History and Theory_, 49(2): 194–211. doi:10.1111/j.1468-2303.2010.00539.x
-* –––, 2014, “The ‘Theoretical Revolution’ in Intellectual History: From the History of Political Ideas to the History of Political Languages”, _History and Theory_, 53(3): 387–405. doi:10.1111/hith.10719
-* –––, 2018, “Koselleck—Foucault: The Birth and Death of Philosophy of History”, in _Philosophy of Globalization_, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 409–422. doi:10.1515/9783110492415-030
-* –––, 2021, “Deleuze’s Foucault: On the Possibility of an Outside of Knowledge/Power”, _History and Theory, Studies in the Philosophy of History_, 60(4): 20–35. doi:10.1111/hith.12234
-* Parente, Diego, 2018, “Synthetic Life: Organisms, Machines, and the Nature of Synthetic Biology Products”, in _Spanish Philosophy of Technology_, Belén Laspra and Jose Antonio López Cerezo (eds.), 31–41. doi:10.1007/978-3-319-71958-0\_3
-* Pedace, Karina, Tomás Balmaceda, Diego Lawler, Diana I. Pérez , and Maximiliano Zeller, 2020, “Natural Born Transhumans”, _Revista de Filosofia Aurora_, 32(55): 112–131. doi:10.7213/1980-5934.32.055.ds07
-* Pelegrin, Diego and Christián Carman, 2019, “_Accurata delineatio motuum stellae Martis_: How Accurate Is Kepler’s Pretzel Diagram?”, _Isis_, 110(4): 726–741. doi:10.1086/706936
-* Pérez, Moira, 2023, “Contracting Imaginations: On the Political and Hermeneutical Monopoly of Identity Politics”, _Dialectical Anthropology_, 47: 85–96. doi: 10.1007/s10624-023-09683-y
-* Pérez Ransanz, Ana Rosa, 1985, “El Concepto de Teoría Empírica según van Fraassen”, _Crítica_, 17(51): 3–12 (English version: 13–19). doi:10.22201/iifs.18704905e.1985.578
-* –––, 1999, _Kuhn y el Cambio Científico_, México, D.F.: Fondo de Cultura Económica. Reprinted in 2000 and 2012.
-* Pérez Ransanz, Ana Rosa and Cristina Di Gregori, 2012, “Experience, Emotions and Creativity”, in _The Paths of Creation. Creativity in Science and Art_, Sixto Castro and Alfredo Marcos (eds.), Berna: Peter Lang, 97–114. doi:10.3726/978-3-0351-0307-6
-* Pérez Ransanz, Ana Rosa and Ambrosio Velasco Gómez (eds.), 2011, _Racionalidad en Ciencia y Tecnología. Nuevas Perspectivas Iberoamericanas_, México D.F.: UNAM.
-* Pessoa Jr., Osvaldo, 1997, “Can the Decoherence Approach Help to Solve the Measurement Problem?”, _Synthese_, 113(3): 323–346. doi:10.1023/A:1004994303863
-* –––, 2005, “Towards a Modal Logical Treatment of Quantum Physics”, _Logic Journal of the IGPL_, 13(1): 139–147. doi:10.1093/jigpal/jzi009
-* Piaget, Jean and Rolando García, 1971, _Les Explications Causales_, Paris: Presses Universitaires de France.
-* –––, 1983, _Psychogenèse et Histoire des Sciences_, Paris: Flammarion.
-* –––, 1987, _Vers une Logique des Significations_, Gêneve: Murionde Science Nouvelle.
-* Picollo, Lavinia María, 2013, “Yablo’s Paradox in Second-Order Languages: Consistency and Unsatisfiability”, _Studia Logica_, 101(3): 601–617. doi:10.1007/s11225-012-9399-6
-* Piscoya, Luis, 1993, _Metapedagogía: un Análisis de las Denominadas Ciencias de la Educación_, Lima: Ediciones Episteme.
-* –––, 1995, _Investigación Científica y Educacional: un Enfoque Epistemológico_, Lima: Amaru Editores.
-* Poliseli, Luana, Jeferson Coutinho, Blandina Viana, Federica Russo, and Charbel N. El-Hani, 2022, “Philosophy of Science in Practice in Ecological Model Building”, _Biology & Philosophy_, 37: #21. doi:10.1007/s10539-022-09851-4
-* Putnam, Hilary, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625398
-* –––, 1987, _The Many Faces of Realism_, The Paul Carus Lectures, LaSalle, IL: Open Court.
-* Queiroz, João, 2012, “Dicent Symbols in Non-Human Semiotic Processes”, _Biosemiotics_, 5(3): 319–329. doi:10.1007/s12304-011-9138-9
-* Queiroz, João and Charbel Niño El-Hani, 2006, “Towards a Multi-Level Approach to the Emergence of Meaning Processes in Living Systems”, _Acta Biotheoretica_, 54(3): 179–206. doi:10.1007/s10441-006-8177-0
-* Queiroz, João, Claus Emmeche, Kalevi Kull, and Charbel El-Hani, 2011, “The Biosemiotic Approach in Biology: Theoretical Bases and Applied Models”, in _Information and Living Systems: Philosophical and Scientific Perspectives_, George Terzis and Robert Arp (eds.), Cambridge, MA: The MIT Press, 91–130. doi:10.7551/mitpress/9780262201742.003.0005
-* Queiroz, João, Frederik Stjernfelt, and Charbel Niño El-Hani, 2014, “Dicent Symbols and Proto-Propositions in Biological Mimicry”, in _Peirce and Biosemiotics: A Guess at the Riddle of Life_, Vinicius Romanini and Eliseo Fernández (eds.), (Biosemiotics 11), Dordrecht: Springer Netherlands, 199–213. doi:10.1007/978-94-007-7732-3\_11
-* Quezada Pulido, Wilfredo, 2002, “Causalidad física: procesos causales y cantidades conservadas”, _Revista de Filosofía_, 58: 79–99.
-* –––, 2007, “Causalidad por manipulación y el problema del antropomorfismo”, _Cuadernos de Filosofía_, 25: 9–26.
-* Quintanilla Pérez-Wicht, Pablo, 2006, “La recepción del positivismo en Latinoamérica”, _Logos Latinoamericano_, second series, 1(6): 65–76. \[[Quintanilla 2006 available online](http://sisbib.unmsm.edu.pe/bibvirtualdata/publicaciones/logos/2006\n6/a06.pdf)]
-* Rahman, Sahid and Walter A. Carnielli, 2000, “The Dialogical Approach to Paraconsistency”, _Synthese_, 125(1/2): 201–232. doi:10.1023/A:1005294523930
-* Ramírez Sánchez, José Carlos and Adolfo García de la Sienra, 2020, “The Complicated Pairing between Dynamic Systems Techniques and Economics”, _Investigación Económica_, 79(314): 28–50. doi: 10.22201/fe.01851667p.2020.314.76042
-* Ratto, Adrián, 2018, “Where Is History Heading? Concerning the Idea of Progress”, in _Philosophy of Globalization_, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 423–434. doi:10.1515/9783110492415-031
-* Recio, Gonzalo L. and Christián C. Carman, 2018, “On the Equant Point for the Planets and the Moon”, _Journal for the History of Astronomy_, 49(4): 401–424. doi:10.1177/0021828618809222
-* Restrepo, Guillermo, 2013, “To Mathematize, or Not to Mathematize Chemistry”, _Foundations of Chemistry_, 15(2): 185–197. doi:10.1007/s10698-013-9183-3
-* Restrepo, Guillermo and Leonardo Pachón, 2007, “Mathematical Aspects of the Periodic Law”, _Foundations of Chemistry_, 9(2): 189–214. doi:10.1007/s10698-006-9026-6
-* Restrepo, Guillermo and José L. Villaveces, 2011, “Chemistry, a Lingua Philosophica”, _Foundations of Chemistry_, 13(3): 233–249. doi:10.1007/s10698-011-9123-z
-* –––, 2012, “Mathematical Thinking in Chemistry”, _Hyle: International Journal for Philosophy of Chemistry_, 18(1): 3–22. \[[Restrepo and Villaveces 2012 available online](http://www.hyle.org/journal/issues/18-1/restrepo-villaveces.htm)]
-* –––, 2013, “Discrete Mathematical Chemistry: Social Aspects of Its Emergence and Reception”, _Hyle: International Journal for Philosophy of Chemistry_, 19(1): 19–33. \[[Restrepo and Villaveces available online](http://www.hyle.org/journal/issues/19-1/restrepo-villaveces.htm)]
-* Revel Chion, Andrea and Agustín Adúriz-Bravo, 2022, “In Sickness and in Health”. _Science & Education_, 31: 269–291. doi:10.1007/s11191-021-00258-3
-* Rietti, Sara and Diana Maffía, 2005, “Género, ciencia y ciudadanía”, _Arbor: Ciencia Pensamiento y Cultura_, 181(716): 539–544. doi:10.3989/arbor.2005.i716.411
-* Rios, Diego, 2004, “Mechanistic Explanations in the Social Sciences”, _Current Sociology_, 52(1): 75–89. doi:10.1177/0011392104039315
-* –––, 2005, “Social Complexity and the Micro-Macro Link”, _Current Sociology_, 53(5): 773–787. doi:10.1177/0011392105055018
-* –––, 2009, “Comment”, in _Philosophy of the Social Sciences_, Chrysostomos Mantzavinos (ed.), Cambridge: Cambridge University Press, 92–98. doi:10.1017/CBO9780511812880.008
-* Ríos, Diego and Graciela Kuechle, 2022, “Multiple Realization and Evolutionary Dynamics: A Fitness-Based Account”, _Australasian Journal of Philosophy_, 100(1): 149–164. doi:10.1080/00048402.2020.1839920
-* Ríos Pozzi, Diego, 2007, “System’s Effects. Some Comments on Methodological Individualism”, _L’Année sociologique_, 57(1): 63–82. doi:10.3917/anso.071.0063
-* Robles, José A. and Laura Benítez (eds.), 2004, _La Filosofía Natural en los Pensadores de la Modernidad_, México D.F.: UNAM.
-* Rodríguez Medina, Leandro, 2014, _Centers and Peripheries in Knowledge Production_, New York and London: Routledge.
-* Rodríguez, Pablo and Javier Blanco, 2017, “Organization and Information in Simondon’s Theory of Individuation”, _Culture and Organization_, 23(1): 34–43. doi:10.1080/14759551.2016.1240745
-* Roffé, Ariel Jonathan, 2019, “Drift as Constitutive: Conclusions from a Formal Reconstruction of Population Genetics”, _History and Philosophy of the Life Sciences_, 41(4): #55. doi: 10.1007/s40656-019-0294-6
-* –––, 2020, “Dynamic Homology and Circularity in Cladistic Analysis”, _Biology & Philosophy_, 35(1): #21. doi: 10.1007/s10539-020-9737-4
-* Roffé, Ariel Jonathan and Santiago Ginnobili, 2019, “Optimality Models and the Propensity Interpretation of Fitness”, _Acta Biotheoretica_, 68(3): 367–385. doi: 10.1007/s10441-019-09369-5
-* Roldán, Concha, 2018, “The Thinning and Deformation of Ethical and Political Concepts in the Era of Globalization”, in _Philosophy of Globalization_, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 109–122. doi:10.1515/9783110492415-009
-* Roldán, Concha, Daniel Brauer, and Johannes Rohbeck (eds.), 2018, _Philosophy of Globalization_, Berlin: De Gruyter. doi:10.1515/9783110492415
-* Romero-Maltrana, Diego, 2015, “Symmetries as By-Products of Conserved Quantities”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 52: 358–368. doi:10.1016/j.shpsb.2015.10.006
-* Romero-Maltrana, Diego, Federico Benítez, and Cristián Soto, 2018, “A Proposal for a Coherent Ontology of Fundamental Entities”, _Foundations of Science_, 23(4): 705–717. doi:10.1007/s10699-018-9548-0
-* Rosas, Alejandro, 2002, “Psychological and Evolutionary Evidence for Altruism”, _Biology & Philosophy_, 17(1): 93–107. doi:10.1023/A:1012967912103
-* –––, 2008a, “The Return of Reciprocity: A Psychological Approach to the Evolution of Cooperation”, _Biology & Philosophy_, 23(4): 555–566. doi:10.1007/s10539-007-9065-y
-* –––, 2008b, “Multilevel Selection and Human Altruism”, _Biology & Philosophy_, 23(2): 205–215. doi:10.1007/s10539-007-9083-9
-* –––, 2010, “Evolutionary Game Theory Meets Social Science: Is There a Unifying Rule for Human Cooperation?”, _Journal of Theoretical Biology_, 264(2): 450–456. doi:10.1016/j.jtbi.2010.02.015
-* –––, 2012, “Towards a Unified Theory of Reciprocity”, _Behavioral and Brain Sciences_, 35(1): 36–37. doi:10.1017/S0140525X11001312
-* –––, 2021, “Against the Evolutionary Debunking of Morality: Deconstructing a Philosophical Myth”, in _Empirically Engaged Evolutionary Ethics_, Helen de Cruz and Johan de Smedt (eds.), Synthese Library Series, Cham: Springer, 135–150. doi:10.1007/978-3-030-68802-8\_7
-* Rosas, Alejandro and Juan Pablo Bermúdez, 2018, “Viewing Others as Equals: The Non-Cognitive Roots of Shared Intentionality”, _Review of Philosophy and Psychology_, 9(3): 485–502. doi:10.1007/s13164-018-0394-3
-* Rosas, Alejandro, Juan Pablo Bermúdez, and Antonio Gutiérrez, 2018, “Is a Bad Will a Weak Will? Cognitive Dispositions Modulate Folk Attributions of Weakness of Will”, _Philosophical Explorations_, 21(3): 350–363. doi:10.1080/13869795.2018.1457709
-* Rosas, Alejandro and Michael Koenigs, 2014, “Beyond ‘Utilitarianism’: Maximizing the Clinical Impact of Moral Judgment Research”, _Social Neuroscience_, 9(6): 661–667. doi:10.1080/17470919.2014.937506
-* Rosas, Alejandro, Hugo Viciana, Esteban Caviedes, and Alejandra Arciniegas, 2019, “Hot Utilitarianism and Cold Deontology: Insights from a Response Patterns Approach to Sacrificial and Real World Dilemmas”, _Social Neuroscience_, 14(2): 125–135. doi:10.1080/17470919.2018.1464945
-* Rosenblatt, Lucas, 2021a, “Towards a Non-classical Meta-theory for Substructural Approaches to Paradox”, _Journal of Philosophical Logic_, 50 (5): 1007–1055. doi:10.1007/s10992-020-09589-y
-* –––, 2021b, “Classical Recapture and Maximality”, _Philosophical Studies_, 178(6): 1951–1970. doi:10.1007/s11098-020-01517-9
-* –––, 2022, “Should the Non‐Classical Logician be Embarrassed”, _Philosophy and Phenomenological Research_, 104(2): 388–407. doi:10.1111/phpr.12770
-* –––, 2023, “Paradoxicality without Paradox”, _Erkenntnis_, 88(3): 1347–1366. doi:10.1007/s10670-021-00405-w
-* Rosenblatt, Lucas and Camila Gallovich, 2022, “Paradoxicality in Kripke’s theory of truth”, _Synthese_, 200(2): #71. doi:10.1007/s11229-022-03625-x
-* Rosenblatt, Lucas and Damián E. Szmuc, 2014, “On Pathological Truths”, _The Review of Symbolic Logic_, 7(4): 601–617. doi:10.1017/S1755020314000239
-* Sabato, Jorge (ed.), 1975, _El Pensamiento Latinoamericano en la Problemática Ciencia-Tecnología-Desarrollo-Dependencia_, Buenos Aires: Paidos. New edition in 2011, Buenos Aires: Ediciones Biblioteca Nacional.
-* Salcedo-Gómez, Mariana and Claudia Lorena García, 2023, “Functional Systems as Explanatory Tools in Psychiatry”, _Philosophical Explorations_, on line first. doi:10.1080/13869795.2023.2229858
-* Salmerón, Fernando, 1968, _La Filosofía y las Matemáticas_, Mexico D.F.: Ediciones Productividad.
-* Samaniego, Fernanda, 2013, “Causality and Intervention in the Spin-Echo Experiments”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 28(3): 477–497. doi:10.1387/theoria.6136
-* –––, 2014, “Causation and the Interventionist Vector of Explanatory Depth”, in _New Advances in Causation, Agency and Moral Responsibility_, Fabio Bacchini, Stefano Caputo, and Massimo Dell’Utri (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, 1–17.
-* –––, 2015, “Manipulating Spins: Causality and Decoherence”, in _Recent Developments in the Philosophy of Science: EPSA13 Helsinki_, Uskali Mäki, Ioannis Votsis, Stéphanie Ruphy, and Gerhard Schurz (eds.), (European Studies in Philosophy of Science 1), Cham: Springer International Publishing, 183–193. doi:10.1007/978-3-319-23015-3\_14
-* –––, 2022, “Bi-Directionality in Causal Relationships”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 37(1): 103–109. doi:10.1387/theoria.22695
-* Sandrone, Darío, Andrés Vaccari, and Diego Lawler, 2022, “The Centrality of the Machine in the Thought of Jacques Lafitte”, _Philosophy & Technology_, 35(2): #28. doi:10.1007/s13347-022-00523-5
-* Sant’Anna, Adonai S. and Décio Krause, 1997, “Indistinguishable Particles and Hidden Variables”, _Foundations of Physics Letters_, 10(5): 409–426. doi:10.1007/BF02764019
-* Santos, Gil, Gabriel Vallejos, and Davide Vecchi, 2020, “A Relational-Constructionist Account of Protein Macrostructure and Function”, _Foundations of Chemistry_, 22(3): 363–382. doi:10.1007/s10698-020-09373-5
-* Saritaş, Davut, Hasan Özcan, and Agustín Adúriz-Bravo, 2021, “Observation and Inference in Chemistry Teaching: a Model-Based Approach to the Integration of the Macro and Submicro Levels”, _Science & Education_, 30: 1289–1314. doi:10.1007/s11191-021-00216-z
-* Scarano, Eduardo R., 2012, “Economics as a Separate Science: A Critical Review”, in _Perspectives on Epistemology and Economics_, Andrés Lazzarini and Diego Weisman (eds.), Buenos Aires: Universidad de Buenos Aires, 73–98.
-* Schuster, Félix Gustavo, 1992, _El Método en las Ciencias Sociales_, Buenos Aires: Centro Editor de América Latina.
-* Sebastián, Miguel Ángel, 2014, “Dreams: An Empirical Way to Settle the Discussion between Cognitive and Non-Cognitive Theories of Consciousness”, _Synthese_, 191(2): 263–285. doi:10.1007/s11229-013-0385-y
-* Sebastián, Miguel Ángel and Marc Artiga, 2020, “Can Informational Theories Account for Metarepresentation?”, _Topoi_, 39(1): 81-94. doi:10.1007/s11245-017-9514-4
-* Sfara, Emiliano and Charbel El-Hani, 2023, “Ecosystem Health and Malfunctions: An Organisational Perspective”, _Biology & Philosophy_, 38(5): #37. doi:10.1007/s10539-023-09927-9
-* Skidelsky, Liza, 2013, “Faculty of Language, Functional Models, and Mechanisms”, _Journal of Cognitive Science_, 14(2): 111–149. \[[Skidelsky 2013 available online](https://www.researchgate.net/publication/285084124\Faculty\of\Language\Functional\Models\and\Mechanisms)]
-* Smith, Lindsay A. and Vivette García-Deister, 2021, “Genetic Syncretism: Latin American Forensics and Global Indigenous Organizing”, _BioSocieties_, 16: 447–469. doi:10.1057/s41292-021-00263-3
-* Soler-Toscano, Fernando, Ángel Nepomuceno-Fernández, and Atocha Aliseda-Llera, 2009, “Abduction via C -Tableaux and δ-Resolution”, _Journal of Applied Non-Classical Logics_, 19(2): 211–225. doi:10.3166/jancl.19.211-225
-* Soto, Cristián, 2015, “The Current State of the Metaphysics of Science Debate”, _Philosophica_, 90(1): 23–60. doi:10.21825/philosophica.82121
-* –––, 2017, “Globally and Locally Applied Naturalistic Metaphysics”, _Manuscrito: International Journal of Philosophy_, 40(3): 33–50. doi:10.1590/0100-6045.2017.V40N3.CS
-* –––, 2019, “The Epistemic Indispensability Argument”, _Journal for General Philosophy of Science_, 50(1): 145–161. doi:10.1007/s10838-018-9437-9
-* –––, 2023a, “Roberto Torretti’s Philosophy of Science”, in _Current Debates in Philosophy of Science: In Honor of Roberto Torretti_, Cristián Soto (ed.), Synthese Library Series, Cham: Springer, 15–36. doi:10.1007/978-3-031-32375-1\_2
-* ––– (ed.), 2023b, _Current Debates in Philosophy of Science: In Honor of Roberto Torretti_, Synthese Library Series, Cham: Springer.
-* Soto, Cristián and Otávio Bueno, 2019, “A Framework for an Inferential Conception of Physical Laws”, _Principia: An International Journal of Epistemology_, 23(3): 423–444. doi:10.5007/1808-1711.2019v23n3p423
-* Soto, Cristián and Diego Romero, 2020, “Local Selective Realism: Shifting from Classical to Quantum Electrodynamics”, _Foundations of Science_, 25(4): 955–970. doi:10.1007/s10699-020-09663-3
-* Spehrs, Adriana, 2021, “Dispositional Realism, Conflicting Models and Contrastive Explanation”, _Journal for General Philosophy of Science_, on line first. doi:10.1007/s10838-020-09544-0
-* Suárez-Díaz, Edna, 2001, “Satellite-DNA: A Case-Study for the Evolution of Experimental Techniques”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 32(1): 31–57. doi:10.1016/s1369-8486(00)00026-1
-* –––, 2007, “The Rhetoric of Informational Molecules: Authority and Promises in the Early Study of Molecular Evolution”, _Science in Context_, 20(4): 649–677. doi:10.1017/S0269889707001482
-* –––, 2009, “Molecular Evolution: Concepts and the Origin of Disciplines”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 40(1): 43–53. doi:10.1016/j.shpsc.2008.12.006
-* –––, 2010, “Making Room for New Faces: Evolution, Genomics and the Growth of Bioinformatics”, _History and Philosophy of the Life Sciences_, 32(1): 65–89.
-* –––, 2013, “Variation, Differential Reproduction and Oscillation: The Evolution of Nucleic Acid Hybridization”, _History and Philosophy of the Life Sciences_, 35(1): 39–44.
-* –––, 2014a, “The Long and Winding Road of Molecular Data in Phylogenetic Analysis”, _Journal of the History of Biology_, 47(3): 443–478. doi:10.1007/s10739-013-9373-9
-* –––, 2014b, “Indigenous Populations in Mexico: Medical Anthropology in the Work of Ruben Lisker in the 1960s”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 47: 108–117. doi:10.1016/j.shpsc.2014.05.011
-* Suárez-Díaz, Edna and Victor H. Anaya-Muñoz, 2008, “History, Objectivity, and the Construction of Molecular Phylogenies”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 39(4): 451–468. doi:10.1016/j.shpsc.2008.09.002
-* Suárez\[-Díaz], Edna and Ana Barahona, 1996, “The Experimental Roots of the Neutral Theory of Molecular Evolution”, _History and Philosophy of the Life Sciences_, 18(1): 55–81.
-* Suárez Pascal, Carlos David, 2017, “Merging Biological Metaphors. Creativity, Darwinism and Biosemiotics”, _Biosemiotics_, 10(3): 369–378. doi:10.1007/s12304-017-9297-4
-* –––, 2021, “N. R. Hanson and von Uexküll: A Biosemiotic and Evolutionary Account of Theories”, _Journal for General Philosophy of Science_, 52(2):247–261. doi:10.1007/s10838-021-09552-8
-* Taccetta, Natalia, 2021, “Disappearance and Archive Fevers in Film: The Rewriting of History and Practical Uses of the Past”, _Rethinking History_, 27(1): 26–50. doi: 10.1080/13642529.2022.2144024
-* Tajer, Diego, 2020, “_LFIs_ and Methods of Classical Recapture”, _Logic Journal of the IGPL_, 28(5): 807–816. doi:10.1093/jigpal/jzy060
-* Teijeiro, Paula, 2020a, “Subvaluationism and Classical Recapture”, _Logic Journal of the IGPL_, 28(5): 832–844. doi:10.1093/jigpal/jzy062
-* –––, 2020b, “Not a Knot”, _Thought: A Journal of Philosophy_, 9(1): 14–24. doi:10.1002/tht3.437
-* –––, 2021, “Vague Connectives”, _Philosophical Studies_, 180 (5-6): 1559–1578. doi:10.1007/s11098-022-01817-2
-* Tohmé, Fernando, 2022, “Introduction to Abduction and Economics”, in Lorenzo Magnani (ed.), _Handbook of Abductive Cognition_, Cham: Springer. doi:10.1007/978-3-030-68436-5\_87-1
-* Tohmé, Fernando, Gianluca Caterina, and Rocco Gangle, 2015, “Abduction: A Categorical Characterization”, _Journal of Applied Logic_, 13(1): 78–90. doi:10.1016/j.jal.2014.12.004
-* Tohmé, Fernando and Ricardo Crespo, 2013, “Abduction in Economics: A Conceptual Framework and Its Model”, _Synthese_, 190(18): 4215–4237. doi:10.1007/s11229-013-0268-2
-* Torrens, Erica and Ana Barahona, 2019, “Castes and Trees: The Link Between European and Mexican Representations of Human Taxonomy”, _Philosophy, Theory and Practice in Biology_, 11: #19. doi:10.3998/ptpbio.16039257.0011.019
-* Torrens, Erica, Juan Manuel Rodríguez Caso, and Ana Barahona, 2021, “The Teaching of Biological Evolution in Mexican Socialist Textbooks in the 1930s”, _Culture & History_, 10(2): #e022. doi:10.3989/chdj.2021.022
-* Torres, Juan Manuel, 1997, “On the Limits of Enhancement in Human Gene Transfer: Drawing the Line”, _Journal of Medicine and Philosophy_, 22(1): 43–53. doi:10.1093/jmp/22.1.43
-* –––, 2002, “The Importance of Genetic Services for the Theory of Health: A Basis for an Integrating View of Health”, _Medicine, Health Care and Philosophy_, 5(1): 43–51. doi:10.1023/A:1014280007453
-* –––, 2006, “Genetic Tools, Kuhnean Theoretical Shift and the Geneticization Process”, _Medicine, Health Care and Philosophy_, 9(1): 3–12. doi:10.1007/s11019-005-8317-3
-* Torretti, Roberto, 1967 \[2005], _Manuel Kant. Estudio sobre los Fundamentos de la Filosofía Crítica_, Santiago: Ediciones de la Universidad de Chile. (Third revised edition, Santiago: Ediciones Universidad Diego Portales, 2005).
-* –––, 1978, _Philosophy of Geometry from Riemann to Poincaré_, Dordrecht: Reidel (Corrected reprint, 1984). doi:10.1007/978-94-009-9909-1
-* –––, 1985, _Relativity and Geometry_, Oxford: Pergamon Press (Corrected reprint, New York: Dover, 1996).
-* –––, 1990, _Creative Understanding: Philosophical Reflections on Physics_, Chicago: The University of Chicago Press.
-* –––, 1999, _The Philosophy of Physics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172981
-* –––, 2000, “‘Scientific Realism’ and Scientific Practice”, in _The Reality of the Unobservable: Observability, Unobservability and Their Impact on the Issue of Scientific Realism_, Evandro Agazzi and Massimo Pauri (eds.), (Boston Studies in the Philosophy of Science 215), Dordrecht: Springer Netherlands, 113–122. Reprinted in 2007 as “El realismo científico y la ciencia como es”, in _Escritos Filosóficos 1986–2006_, Santiago de Chile: Universidad Diego Portales, 75–98. doi:10.1007/978-94-015-9391-5\_6
-* –––, 2008, “Objectivity: A Kantian Perspective”, _Kant and Philosophy of Science Today_, Michela Massimi (ed.), _Royal Institute of Philosophy Supplement_, 63: 81–94. doi:10.1017/S1358246108000052
-* Tossato, Claudemir Roque and Pablo Rubén Mariconda, 2010, “O método da astronomia segundo Kepler”, _Scientiae Studia_, 8(3): 339–366. doi:10.1590/S1678-31662010000300003
-* Tozzi, Verónica, 2009, “Figuring Malvinas War Experience. Heuristic and History as An Unfulfilled Promise”, in _Re-Figuring Hayden White_, Frank Ankersmit, Ewa Domanska, and Hans Kellner (eds.), Stanford, CA: Stanford University Press, 261–280.
-* –––, 2012a, “Pragmatist Contributions to a New Philosophy of History”, _Pragmatism Today_, 3(1): 121–131.
-* –––, 2012b, “The Epistemic and Moral Role of Testimony”, _History and Theory_, 51(1): 1–17. doi:10.1111/j.1468-2303.2012.00609.x
-* –––, 2016, “Dewey, Mead, John Ford, and the Writing of History: Pragmatist Contributions to Narrativism”, _European Journal of Pragmatism and American Philosophy_, 8(2): 167–189. doi:10.4000/ejpap.641
-* –––, 2018, “A Pragmatist View on Two Accounts of the Nature of Our ‘Connection’ with the Past: Hayden White and David Carr Thirty Years Later”, _Rethinking History_, 22(1): 65–85. doi:10.1080/13642529.2017.1423010
-* –––, 2021, “Narrativism”, in _The Routledge Companion to Historical Theory_, Chiel van den Akker (ed.), London: Routledge, Chapter 8, doi: 10.4324/9780367821814
-* –––, 2023, “Historical Irrealism: Paul A. Roth and the Epistemic Value of Narrative Explanation”, _Rethinking History_, 27(1): 144-157. doi:10.1080/13642529.2022.2158647
-* Vaccari, Andrés Pablo, 2013, “Artifact Dualism, Materiality, and the Hard Problem of Ontology: Some Critical Remarks on the Dual Nature of Technical Artifacts Program”, _Philosophy & Technology_, 26(1): 7–29. doi:10.1007/s13347-011-0059-y
-* –––, 2015, “Transhumanism and Human Enhancement: A Post-mortem”, _Bioethica Forum_, 8(1): 22–23. doi:10.24894/BF.2015.08006
-* –––, 2017, “Against Cognitive Artifacts: Extended Cognition and the Problem of Defining ‘Artifact’”, _Phenomenology and the Cognitive Sciences_, 16(5): 879–892. doi:10.1007/s11097-016-9484-9
-* –––, 2020, “Neosubstantivism As Cosmotechnics”, _Angelaki_, 25(4): 39–53. doi:10.1080/0969725x.2020.1790834
-* –––, 2022, “Cosmotechnical Thought Between Substantivism and the Empirical Turn”, _Foundations of Science_, 27(4): 1279–1284 (2022). doi:10.1007/s10699-020-09754-1
-* van Fraassen, Bas C., 1985, “On the Question of Identification of a Scientific Theory (A Reply to “van Fraassen’s Concept of a Scientific Theory” by Pérez Ransanz)”, _Crítica_, 17(51): 21–25 (Spanish version: 26–29). doi:10.22201/iifs.18704905e.1985.581
-* Varsavsky, Oscar, 1971, “Ideología y verdad”, _Ciencia Nueva_, 12: 44–47.
-* Vasquez, Emily Elizabeth and Vivette García Deister, 2019, “Mexican Samples, Latino DNA: The Trajectory of a National Genome in Transnational Science”, _Engaging Science, Technology, and Society_, 5: 107–134. doi:10.17351/ests2019.199
-* Vega-Encabo, Jesús and Diego Lawler, 2014, “Creating Artifactual Kinds”, in _Artefact Kinds: Ontology and the Human-Made World_, Maarten Franssen, Peter Kroes, Thomas A.C. Reydon, and Pieter E. Vermaas (eds.), Cham: Springer International Publishing, 105–124. doi:10.1007/978-3-319-00801-1\_7
-* Velasco Gómez, Ambrosio (ed.), 1997, _Racionalidad y Cambio Científico_, México F. F.: UNAM-Paidós.
-* –––, 2004, “Toward a Political Philosophy of Science”, _Philosophy Today_, 48 (Supplement): 116–121
-* –––, 2012, “Rationality in Science and the Arts: Common Sense and Heuristics”, in _The Paths of Creation. Creativity in Science and Art_, Sixto Castro and Alfredo Marcos (eds.), Berna: Peter Lang, 71–80. doi:10.3726/978-3-0351-0307-6
-* –––, 2015a, “Rationality and Method”, in _The Routledge Companion to Hermeneutics_, Jeff Malpas y Hans-Helmuth Gander (eds), London: Routledge, 251–266. doi:10.4324/9781315771854.ch19
-* –––, 2015b, “Ibero-American Republican Humanism and the Intellectual Roots of Mexican Independence”, in _The Traditions of Liberty in the Atlantic World_, Francisco Colom González and Angel Rivero (eds.), Leiden: Brill. doi:10.1163/9789004299689\_005
-* –––, 2023, “Situational analysis of Scientific Traditions: Popper´s Hermeneutical and Political Turn in Philosophy of Science”, _Journal of Philosophical Investigations_, 17(42): 127–139. doi:10.22034/jpiut.2000.16577
-* Verdugo, Carlos, 2009, “Popper’s Thesis of the Unity of Scientific Method: Method Versus Techniques”, in _Rethinking Popper_, Zuzana Parusniková and Robert S. Cohen (eds.), (Boston Studies in The Philosophy of Science 272), Dordrecht: Springer Netherlands, 155–160. doi:10.1007/978-1-4020-9338-8\_12
-* Vessuri, Hebe, 2000, “Mode 2 or the Emblematic Disestablishment of Science: A View from the Edge”, _Science, Technology and Society_, 5(2): 195–207. doi:10.1177/097172180000500204
-* –––, 2003, “Science, Politics, and Democratic Participation in Policy-Making: A Latin American View”, _Technology in Society_, 25(2): 263–273. doi:10.1016/S0160-791X(03)00020-4
-* –––, 2019, “Crises that Mismatch Canons in Science: Provincialization, Transnationality, Conviviality?”, _Tapuya: Latin American Science, Technology and Society_, 2(1): 26–31. doi:10.1080/25729861.2019.1586193
-* Vessuri, Hebe and Leandro Rodríguez-Medina, 2022, “Producing Knowledge in Latin America: Social Sciences Research Assessment with a Geopolitical Perspective”, in _Handbook on Research Assessment in the Social Sciences_, Tim C. E. Engels (ed.), Cheltenham: Edward Elgar Publishing, 472–490. doi:10.4337/9781800372559.00039
-* Villani, Giovanni, Elena Ghibaudi, and Luigi Cerruti, 2018, “The Orbital: A Pivotal Concept in the Relationship between Chemistry and Physics? A Comment to the Work by Fortin and Coauthors”, _Foundations of Chemistry_, 20(2): 89–97. doi:10.1007/s10698-017-9293-4
-* Villoro, Luis, 1982, _Creer, Saber, Conocer_, Mexico D.F.: Siglo XXI.
-* Wade, Peter, Carlos López-Beltrán, Eduardo Restrepo, and Ricardo Ventura Santos (eds.), 2014, _Mestizo Genomics: Race Mixture, Nation, and Science in Latin America_, Durham-London: Duke University Press.
-* –––, 2015, “Genomic Research, Publics and Experts in Latin America: Nation, Race and Body”, _Social Studies of Science_, 45(6): 775–796. doi:10.1177/0306312715623108
-* Zambon, Alfio, 2018, “A Representation of the Periodic System Based on Atomic-Number Triads”, _Foundations of Chemistry_, 20(1): 51–74. doi:10.1007/s10698-017-9297-0
-* –––, 2019, “Periodicity Trees in a Secondary Criterion of Periodic Classification: Its Implications for Science Teaching and Communication”, _Substantia_, 3(2): 101–114. doi:10.13128/Substantia-502
-* –––, 2022, “Chemical Reactivity: Cause-Effect or Interaction?”, _Foundations of Chemistry_, 24(3): 375–387. doi:10.1007/s10698-022-09430-1
-* Zambon, Alfio and Mariana Córdoba, 2021, “Nanomaterials and Intertheoretical Relations: Macro and Nanochemistry as Emergent Levels”, _Foundations of Science_, 26(2): 355–370. doi: 10.1007/s10699-020-09723-8
-* Zea, Leopoldo, 1943–1944, _El Positivismo en México_, Vol. 1 (1943), Vol. 2 (1944), Mexico D.F.: Fondo de Cultura Económica.
+* Abeledo, Horacio, 1995, “Lewis’s Causation: An Almost Fatal Example”, *Crítica: Revista Hispanoamericana de Filosofía*, 27(81): 79–100. doi:10.22201/iifs.18704905e.1995.1029
+* –––, 2000, “Lewis, Causation, Barometers: Dubious Fate of an Example”, *Crítica: Revista Hispanoamericana de Filosofía*, 32(94): 127–144. doi:10.22201/iifs.18704905e.2000.842
+* Accorinti, Hernán Lucas, 2019, “Incompatible Models in Chemistry: The Case of Electronegativity”, *Foundations of Chemistry*, 21(1): 71–81. doi:10.1007/s10698-018-09328-x
+* Accorinti, Hernán Lucas and Juan Camilo Martínez González, 2022, “Models and Idealizations in Quantum Chemistry: The Case of the Born-Oppenheimer Approximation”, in *Philosophical Perspectives in Quantum Chemistry*, Olimpia Lombardi, Juan Camilo Martínez González, and Sebastian Fortin (eds.), Synthese Library Series, Cham: Springer, 107–125. doi:10.1007/978-3-030-98373-4\_5
+* Acuña, Pablo, 2014a, “On the Empirical Equivalence between Special Relativity and Lorentz׳s Ether Theory”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 46: 283–302. doi:10.1016/j.shpsb.2014.01.002
+* –––, 2014b, “Artificial Examples of Empirical Equivalence”, in *New Directions in the Philosophy of Science*, Maria Carla Galavotti, Dennis Dieks, Wenceslao J. Gonzalez, Stephan Hartmann, Thomas Uebel, and Marcel Weber (eds.), (The Philosophy of Science in a European Perspective 5), Cham: Springer International Publishing, 453–467. doi:10.1007/978-3-319-04382-1\_31
+* –––, 2016a, “Minkowski Spacetime and Lorentz Invariance: The Cart and the Horse or Two Sides of a Single Coin?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 55: 1–12. doi:10.1016/j.shpsb.2016.04.002
+* –––, 2016b, “Inertial Trajectories in de Broglie-Bohm Quantum Theory: An Unexpected Problem”, *International Studies in the Philosophy of Science*, 30(3): 201–230. doi:10.1080/02698595.2017.1316107
+* –––, 2019, “Charting the Landscape of Interpretation, Theory Rivalry, and Underdetermination in Quantum Mechanics”, *Synthese*, 198(2): 1711-1740. doi:10.1007/s11229-019-02159-z
+* –––, 2021a, “Von Neumann’s Theorem Revisited”, *Foundations of Physics*, 51(3): #73. doi:10.1007/s10701-021-00474-5
+* –––, 2021b, “Must Hidden Variables Theories Be Contextual? Kochen & Specker Meet von Neumann and Gleason”, *European Journal for Philosophy of Science*, 11(2): #41. doi:10.1007/s13194-021-00347-8
+* –––, 2021c, “Charting the Landscape of Interpretation, Theory Rivalry, and Underdetermination in Quantum Mechanics”, *Synthese*, 198(2): 1711–1740. doi:10.1007/s11229-019-02159-z
+* –––, 2023, “Scientific Understanding in Astronomical Models from Eudoxus to Kepler”, in *Current Debates in Philosophy of Science: In Honor of Roberto Torretti*, Cristián Soto (ed.), Synthese Library Series, Cham: Springer, 289–340. doi:10.1007/978-3-031-32375-1\_12
+* Acuña, Pablo and Dennis Dieks, 2014, “Another Look at Empirical Equivalence and Underdetermination of Theory Choice”, *European Journal for Philosophy of Science*, 4(2): 153–180. doi:10.1007/s13194-013-0080-3
+* Adúriz-Bravo, Agustín, 2004, “Methodology and Politics: A Proposal to Teach the Structuring Ideas of the Philosophy of Science through the Pendulum”, *Science & Education*, 13(7–8): 717–731. doi:10.1007/s11191-004-5720-8
+* –––, 2007, “A Proposal to Teach the Nature of Science (NOS) to Science Teachers: The Structuring Theoretical Fields of NOS”, *Review of Science, Mathematics, and ICT Education*, 1(2): 41–56. doi:10.26220/rev.109 \[[Adúriz-Bravo 2007 available online](https://resmicte.library.upatras.gr/review/article/view/109)]
+* –––, 2011, “Fostering Model-Based School Scientific Argumentation Among Prospective Science Teachers”, *US-China Education Review*, 8: 718–723.
+* –––, 2013, “A ‘Semantic’ View of Scientific Models for Science Education”, *Science & Education*, 22(7): 1593–1611. doi:10.1007/s11191-011-9431-7
+* –––, 2014, “Teaching the Nature of Science with Scientific Narratives”, *Interchange*, 45(3–4): 167–184. doi:10.1007/s10780-015-9229-7
+* Adúriz-Bravo, Agustín and Mercè Izquierdo-Aymerich, 2005, “Utilising the ‘3P-Model’ to Characterise the Discipline of Didactics of Science”, *Science & Education*, 14(1): 29–41. doi:10.1007/s11191-004-0068-7
+* –––, 2009, “A Research-Informed Instructional Unit to Teach the Nature of Science to Pre-Service Science Teachers”, *Science & Education*, 18(9): 1177–1192. doi:10.1007/s11191-009-9189-3
+* Adúriz-Bravo, Agustín, Cristian Merino, and Mercè Izquierdo-Aymerich, 2012, “An Approach to the Construction of Chemistry Curricula on the Basis of Structuring Theoretical Fields”, *Journal of Science Education*, 13: 42–45.
+* Adúriz-Bravo, Agustín and Alger Sans Pinillos, 2023, “Abduction as a Mode of Inference in Science Education”, *Science and Education*, 32(7–8): 993–1020. doi:10.1007/s11191-022-00366-8.
+* Aguiar, Orlando, Hannah Sevian, and Charbel N. El-Hani, 2018, “Teaching About Energy: Application of the Conceptual Profile Theory to Overcome the Encapsulation of School Science Knowledge”, *Science & Education*, 27(9–10): 863–893. doi:10.1007/s11191-018-0010-z
+* Aguilera, Mariela, 2019, “Pictures, Content, and Normativity: The Semantic of Graphic Rules”, *Phenomenology and Mind*, 17: 136–149. doi:10.13128/pam-8032
+* –––, 2021, “Heterogeneous Inferences with Maps”, *Synthese*, 199(1–2): 3805–3824. doi:10.1007/s11229-020-02957-w
+* Aiello, Matías, Mario Castagnino, and Olimpia Lombardi, 2008, “The Arrow of Time: From Universe Time-Asymmetry to Local Irreversible Processes”, *Foundations of Physics*, 38(3): 257–292. doi:10.1007/s10701-007-9202-0
+* Alassia, Fiorela, 2023, “Correction to: A Process Ontology Approach in Biochemistry: The Case of GPCRs and Biosignaling”. *Foundations of Chemistry*, 25(1): 189–206. doi:10.1007/s10698-022-09461-8
+* Alchourrón, Carlos E., 1996, “Detachment and Defeasibility in Deontic Logic”, *Studia Logica*, 57(1): 5–18. doi:10.1007/BF00370667
+* Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50(2): 510–530. doi:10.2307/2274239
+* Alchourrón, Carlos E. and David Makinson, 1981, “Hierarchies of Regulations and Their Logic”, in *New Studies in Deontic Logic*, Risto Hilpinen (ed.), Dordrecht: Springer Netherlands, 125–148. doi:10.1007/978-94-009-8484-4\_5
+* –––, 2008, “On the Logic of Theory Change: Contraction Functions and Their Associated Revision Functions”, *Theoria*, 48(1): 14–37. doi:10.1111/j.1755-2567.1982.tb00480.x
+* Aliseda, Atocha, 2003, “Mathematical Reasoning Vs. Abductive Reasoning: A Structural Approach”, *Synthese*, 134(1/2): 25–44. doi:10.1023/A:1022127429205
+* –––, 2006, *Abductive Reasoning: Logical Investigations into Discovery and Explanation*, (Synthese Library 330), Dordrecht: Kluwer Academic Publishers. doi:10.1007/1-4020-3907-7
+* –––, 2022, “On Schurz’s Construction Paradigm of Scientific Theory Development”, *Journal for General Philosophy of Science*, 54(3): 473–490. doi:10.1007/s10838-021-09593-z
+* –––, 2023, “Introduction to Logics of Hypothetical Reasoning, Abduction, and Evidence”, in Lorenzo Magnani (ed.), *Handbook of Abductive Cognition*, Cham: Springer, 247–250. doi:10.1007/978-3-031-10135-9\_82
+* Aliseda, Atocha and Laura Leonides, 2013, “Hypotheses Testing in Adaptive Logics: An Application to Medical Diagnosis”, *Logic Journal of IGPL*, 21(6): 915–930. doi:10.1093/jigpal/jzt005
+* Alleva, Karina, José Díez, and Lucia Federico, 2017, “Models, Theory Structure and Mechanisms in Biochemistry: The Case of Allosterism”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 63: 1–14. doi:10.1016/j.shpsc.2017.03.004
+* Alonso-Pavón, José, Jocelyn Cheé-Santiago, María Lucía Granados-Riveros, Marco Ornelas-Cruces, Erica Torrens-Rojas, and Ana Barahona, 2021, “Genetics in Mexico: Mapping the Discipline”, *Archives Internationales d’Histoire des Sciences*, 71(187): 6–35. doi:10.1484/J.ARIHS.5.127400
+* Altamirano-Bustamante, Myriam, Adalberto de Hoyos, and León Olivé, 2011, “Theory of Knowledge and Biotech Patents: Worlds Apart?”, *Nature Biotechnology*, 29(11): 977–978. doi:10.1038/nbt.2026
+* Amaya, Santiago, 2013, “Slips”, *Noûs*, 47(3): 559–576. doi:10.1111/j.1468-0068.2011.00838.x
+* –––, 2015, “The Argument from Slips”, in *Agency, Freedom, and Moral Responsibility*, Andrei Buckareff, Carlos Moya, and Sergi Rosell (eds.), London: Palgrave Macmillan, 13–29. doi:10.1057/9781137414953\_2
+* –––, 2021, “Out of Habit”, *Synthese*, 198(12), 11161–11185. doi:10.1007/s11229-020-02780-3
+* Amaya, Santiago and John M. Doris, 2015, “No Excuses: Performance Mistakes in Morality”, in *Handbook of Neuroethics*, Jens Clausen and Neil Levy (eds.), Dordrecht: Springer, 253–272. doi:10.1007/978-94-007-4707-4\_120
+* Anaya-Muñoz, Víctor Hugo, Vivette García-Deister, and Edna Suárez-Díaz, 2017, “Flattening and Unpacking Human Genetic Variation in Mexico, Postwar to Present”, *Science in Context*, 30(1): 89–112. doi:10.1017/S0269889717000047
+* Arango-Muñoz, Santiago, 2011, “Two Levels of Metacognition”, *Philosophia*, 39(1): 71–82. doi:10.1007/s11406-010-9279-0
+* –––, 2013, “Scaffolded Memory and Metacognitive Feelings”, *Review of Philosophy and Psychology*, 4(1): 135–152. doi:10.1007/s13164-012-0124-1
+* –––, 2014, “The Nature of Epistemic Feelings”, *Philosophical Psychology*, 27(2): 193–211. doi:10.1080/09515089.2012.732002
+* –––, 2019, “Cognitive Phenomenology and Metacognitive Feelings”, *Mind & Language*, 34(2): 247–262. doi:10.1111/mila.12215
+* Arango-Muñoz, Santiago and Juan Pablo Bermúdez, 2018, “Remembering as a Mental Action”, in *New Directions in the Philosophy of Memory*, Kourken Michaelian, Dorothea Debus, and Denis Perrin (eds.), New York: Routledge, 75–96. doi:10.4324/9781315159591
+* –––, 2021, “Intentional Mind-wandering as Intentional Omission: The Surrealist Method”, *Synthese*, 199(3-4), 7727–7748. doi:10.1007/s11229-021-03135-2
+* Ardenghi, Juan Sebastián, Mario Castagnino, and Olimpia Lombardi, 2009, “Quantum Mechanics: Modal Interpretation and Galilean Transformations”, *Foundations of Physics*, 39(9): 1023–1045. doi:10.1007/s10701-009-9313-x
+* Ardenghi, Juan Sebastián, Olimpia Lombardi, and Martín Narvaja, 2013, “Modal Interpretations and Consecutive Measurements”, in *EPSA11 Perspectives and Foundational Problems in Philosophy of Science*, Vassilios Karakostas and Dennis Dieks (eds.), Cham: Springer International Publishing, 207–217. doi:10.1007/978-3-319-01306-0\_17
+* Arenhart, Jonas Rafael Becker, 2017, “The Received View on Quantum Non-Individuality: Formal and Metaphysical Analysis”, *Synthese*, 194(4), 1323–1347. doi:10.1007/s11229-015-0997-5
+* –––, 2021, “The Evidence Approach to Paraconsistency versus the Paraconsistent Approach to Evidence”, *Synthese*, 198(12): 11537–11559. doi:10.1007/s11229-020-02813-x
+* –––, 2022a, “Interpreting Philosophical Interpretations of Paraconsistency”, *Synthese*, 200(6): #449. doi:10.1007/s11229-022-03941-2
+* –––, 2022b, “Newton da Costa on Hypothetical Models in Logic and on the Modal Status of Logical Laws”, *Axiomathes*, 32(6):1191–1211. doi:10.1007/s10516-021-09577-0
+* –––, 2022c, “Logical Anti‐exceptionalism Meets the “Logic‐as‐Models” approach”, *Theoria*, 88(6): 1211–1227. doi:10.1111/theo.12436
+* Arenhart, Jonas Becker and Raoni Wohnrath Arroyo, 2021, “On Physics, Metaphysics, and Metametaphysics”, *Metaphilosophy*, 52(2): 175–199. doi:10.1111/meta.12486
+* Arenhart, Jonas Rafael Becker and Décio Krause, 2014a, “From Primitive Identity to the Non-Individuality of Quantum Objects”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 46: 273–282. doi:10.1016/j.shpsb.2014.01.004
+* –––, 2014b, “Why Non-Individuality? A Discussion on Individuality, Identity, and Cardinality in the Quantum Context”, *Erkenntnis*, 79(1): 1–18. doi:10.1007/s10670-013-9429-4
+* –––, 2023, “Quasi-truth and Defective Knowledge in Science: A Critical Examination” *Manuscrito*, 46(2): 122–155. doi:10.1590/0100-6045.2023.v46n2.jd
+* Arroyo, Raoni Wohnrath and Jonas Becker Arenhart, 2022a, “The Epistemic Value of Metaphysics”, *Synthese*, 200: #337. doi:10.1007/s11229-022-03833-5
+* –––, 2022b, “Whence Deep Realism for Everettian Quantum Mechanics?”, *Foundations of Physics*, 52(6): #121. doi:10.1007/s10701-022-00643-0
+* Ávila, Alfonso, 2006, “What is Philosophy of Mathematics Looking for?”, in *18 Unconventional Essays on the Nature of Mathematics*, Reuben Hersh (ed.), New York: Springer, 236–249. doi:10.1007/0-387-29831-2\_14
+* Ávila, Ignacio, 2014, “Evans on Bodily Awareness and Perceptual Self-Location”, *European Journal of Philosophy*, 22(2): 269–287. doi:10.1111/j.1468-0378.2012.00525.x
+* –––, 2015, “Perceiving the Intrinsic Properties of Objects: On Noë’s Enactive View”, *Phenomenology and the Cognitive Sciences*, 14(1): 55–71. doi:10.1007/s11097-013-9311-5
+* –––, 2017, “Is Bodily Awareness a Form of Perception?”, *Phenomenology and the Cognitive Sciences*, 16(3): 337–354. doi:10.1007/s11097-016-9453-3
+* Baedke, Jan, Alejandro Fábregas-Tejeda, and Francisco Vergara-Silva, 2020, “Does the Extended Evolutionary Synthesis Entail Extended Explanatory Power?”, *Biology and Philosophy*, 35(1): 1–22. doi:10.1007/s10539-020-9736-5
+* Baedke, Jan and Siobhan F. Mc Manus, 2018, “From Seconds to Eons: Time Scales, Hierarchies, and Processes in Evo-Devo”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 72: 38–48. doi:10.1016/j.shpsc.2018.10.006
+* Bair, Jacques, Piotr Błaszczyk, Elías Fuentes Guillén, Peter Heinig, Vladimir Kanovei, and Mikhail G. Katz, 2020, “Continuity Between Cauchy and Bolzano: Issues of Antecedents and Priority”, *British Journal for the History of Mathematics*, 35(3): 207–224. doi:10.1080/26375451.2020.1770015
+* Balzer, Wolfgang and Pablo Lorenzano, 2000, “The Logical Structure of Classical Genetics”, *Journal for General Philosophy of Science*, 31(2): 243–266. doi:10.1023/A:1026544916567
+* Baptista, Geilsa Costa Santos and Charbel Niño El-Hani, 2009, “The Contribution of Ethnobiology to the Construction of a Dialogue Between Ways of Knowing: A Case Study in a Brazilian Public High School”, *Science & Education*, 18(3–4): 503–520. doi:10.1007/s11191-008-9173-3
+* Barahona, Ana, 2007, “Science and Representation: The Case of Genetic Maps”, *History and Philosophy of the Life Sciences*, 29(2): 145–159.
+* –––, 2022, “Games and Genes: Human Diversity Meets Cytogenetics. Mexico 1968”, *History and Philosophy of the Life Sciences*, 44(4): #56. doi:10.1007/s40656-022-00521-y
+* Baravalle, Lorenzo and Luciana Zaterka (eds.), *Life and Evolution: Latin American Essays on the History and Philosophy of Biology*, Basel: Springer Nature Switzerland. doi:10.1007/978-3-030-39589-6
+* Barrio, Eduardo Alejandro, 2010, “Theories of Truth without Standard Models and Yablo’s Sequences”, *Studia Logica*, 96(3): 375–391. doi:10.1007/s11225-010-9289-8
+* Barrio, Eduardo Alejandro and Walter Carnielli (eds), 2020a, “Volume I: Recovery Operators in Logics of Formal Inconsistency”, special issue of *Logic Journal of the IGPL*, 28(5).
+* ––– (eds), 2020b, “Volume II: New advances in Logics of Formal Inconsistency”, special issue of *Logic Journal of the IGPL*, 28(5).
+* Barrio, Eduardo Alejandro, Nicolas Clerbout, and Shahid Rahman, 2020, “Introducing Consistency in a Dialogical Framework for Paraconsistent Logic”, *Logic Journal of the IGPL*, 28(5): 953-972. doi:10.1093/jigpal/jzy069
+* Barrio, Eduardo Alejandro and Bruno Da Ré, 2018a, “Truth without Standard Models: Some Conceptual Problems Reloaded”, *Journal of Applied Non-Classical Logics*, 28(1): 122–139. doi:10.1080/11663081.2017.1397326
+* –––, 2018b, “Paraconsistency and Its Philosophical Interpretations”, *The Australasian Journal of Logic*, 15(2): 151–170. doi:10.26686/ajl.v15i2.4860
+* Barrio, Eduardo and Paul Egre, 2022, Special Issue on Substructural Logics and Metainferences, *Journal of Philosophical Logic*, 51(6).
+* Barrio, Eduardo Alejandro, Federico Matias Pailos, and Damian Enrique Szmuc, 2017, “A Paraconsistent Route to Semantic Closure”, *Logic Journal of the IGPL*, 25(4): 387–407. doi:10.1093/jigpal/jzx009
+* –––, 2018a, “What Is a Paraconsistent Logic?”, in *Contradictions, from Consistency to Inconsistency*, Walter Carnielli and Jacek Malinowski (eds.), (Trends in Logic 47), Cham: Springer International Publishing, 89–108. doi:10.1007/978-3-319-98797-2\_5
+* –––, 2018b, “Substructural Logics, Pluralism and Collapse”, *Synthese*, 198(Suppl 20): 4991-5007. doi:10.1007/s11229-018-01963-3
+* –––, 2020a, “A Recovery Operator for Nontransitive Approaches”, *The Review of Symbolic Logic*, 13(1): 80-104. doi:10.1017/S1755020318000369
+* –––, 2020b, “A Hierarchy of Classical and Paraconsistent Logics”, *Journal of Philosophical Logic*, 49(1): 93–120. doi:10.1007/s10992-019-09513-z
+* Barrio, Eduardo Alejandro and Lavinia Picollo, 2013, “Notes on ω-Inconsistent Theories of Truth in Second-Order Languages”, *The Review of Symbolic Logic*, 6(4): 733–741. doi:10.1017/S1755020313000269
+* Barrio, Eduardo Alejandro and Gonzalo Rodriguez-Pereyra, 2015, “Truthmaker Maximalism Defended Again”, *Analysis*, 75(1): 3–8. doi:10.1093/analys/anu121
+* Barrio, Eduardo Alejandro, Lucas Rosenblatt, and Diego Tajer, 2015, “The Logics of Strict-Tolerant Logic”, *Journal of Philosophical Logic*, 44(5): 551–571. doi:10.1007/s10992-014-9342-6
+* –––, 2021, “Capturing Naive Validity in the Cut-Free Approach”, *Synthese*, 199(3): 707–723: doi:10.1007/s11229-016-1199-5
+* Barceló Aspeitia, Axel Arturo, Ángeles Eraña, and Robert Stainton, 2010, “The Contribution of Domain Specificity in the Highly Modular Mind”, *Minds and Machines*, 20(1): 19–27. doi:10.1007/s11023-010-9183-1
+* Beebee, Helen, 1997, “Counterfactual Dependence and Broken Barometers: A Response to Flichman’s Argument”, *Crítica: Revista Hispanoamericana de Filosofía*, 29(86): 107–119. doi:10.22201/iifs.18704905e.1997.1065
+* Beirlaen, Mathieu and Atocha Aliseda, 2014, “A Conditional Logic for Abduction”, *Synthese*, 191(15): 3733–3758. doi:10.1007/s11229-014-0496-0
+* Belvedresi, Rosa E., 2012, “Global History and the Idea of Universal History”, in *New Perspectives in Global History*, Daniel Brauer, Iwan D’Aprile, Günther Lottes, and Concha Roldán (eds.), Hannover: Wehrhahn Verlag, 65–71.
+* –––, 2018, “A Philosophical Inquiry into the Future as a Category of Historical Time”, in *Philosophy of Globalization*, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 449–461. doi:10.1515/9783110492415-033
+* –––, 2019, “Empathy and Historical Understanding: a Reappraisal of ‘Empathic Unsettlement’”, in *Empathy: Emotional, Ethical and Epistemological Narratives*, Ricardo Gutiérrez Aguilar (ed.), Leiden: Brill, 162–177. doi:10.1163/9789004398122\_014
+* Benítez, Federico, Diego Maltrana, and Pablo Razeto-Barry, 2022, “(Re)interpreting _E=mc_2”, *Foundations of Physics*, 52(1): #15. doi:10.1007/s10701-021-00530-0
+* Benítez, Laura, 1993, *El Mundo en René Descartes*, Mexico D.F.: UNAM.
+* –––, 2000, “Los *lunarios* en la perspectiva de la filosofía natural de Carlos de Sigüenza y Góngora”, in *Carlos de Sigüenza y Góngora. Homenaje 1700–2000*, Alice Mayer (ed.), México D.F.: UNAM, 125–144.
+* –––, 2004, *Descartes y el Conocimiento del Mundo Natural*, Mexico D.F.: Porrúa.
+* –––, 2019, “Sensibility and Understanding in the Epistemological Thought of Sor Juana Inés de la Cruz”, in *Feminist History of Philosophy: The Recovery and Evaluation of Women’s Philosophical Thought*, Eileen O’Neill and Marcy P. Lascano (eds.), Cham: Springer, 75–96. doi:10.1007/978-3-030-18118-5\_4
+* Benítez, Laura and José A. Robles, 2000, *Espacio e Infinito en la Perspectiva de la Modernidad*, México D.F.: Ediciones Cruz.
+* –––, 2006, *De Newton y los Newtonianos: entre Descartes y Berkeley*, Buenos Aires: Universidad Nacional de Quilmes.
+* Bermúdez, Juan Pablo, 2017, “Do We Reflect While Performing Skillful Actions? Automaticity, Control, and the Perils of Distraction”, *Philosophical Psychology*, 30(7): 896–924. doi:10.1080/09515089.2017.1325457
+* –––, 2021a, “The Skill of Self-control”, *Synthese*, 199(3–4): 6251–6273. doi:10.1007/s11229-021-03068-w
+* –––, 2021b, “Willpower Needs Tactical Skill”, *Behavioral and Brain Sciences*, 44(e32): 17–18. doi:10.31234/osf.io/32yxk
+* Bermúdez, Juan Pablo and Olivier Massin, 2023, “Efforts and Their Feelings”, *Philosophy Compass*, 18(1): #e12894. doi:10.1111/phc3.12894
+* Bermúdez, Juan Pablo, Samuel Murray, Louis Chartrand, and Sergio Barbosa, 2021, “What’s Inside Is All That Counts? The Contours of Everyday Thinking About Self-Control”, *Review of Philosophy and Psychology*, 14(1): 33–55. doi:10.1007/s13164-021-00573-2
+* Bizzo, Nelio and Charbel N. El-Hani, 2009, “Darwin and Mendel: Evolution and Genetics”, *Journal of Biological Education*, 43(3): 108–114. doi:10.1080/00219266.2009.9656164
+* Bodanza, Gustavo Adrián, 2002, “Disjunctions and Specificity in Suppositional Defeasible Argumentation”, *Logic Journal of IGPL*, 10(1): 23–49. doi:10.1093/jigpal/10.1.23
+* –––, 2023, “On *F*-Systems: A Graph-Theoretic Model for Paradoxes Involving a Falsity Predicate and Its Application to Argumentation Frameworks”, *Journal of Logic, Language and Information*, 32(3): 373–393. doi:10.1007/s10849-023-09394-1
+* Bodanza, Gustavo Adrián and Claudio Andrés Alessio, 2017, “Rethinking Specificity in Defeasible Reasoning and Its Effect in Argument Reinstatement”, *Information and Computation*, 255: 287–310. doi:10.1016/j.ic.2017.01.006
+* Bodanza, Gustavo and Enrique Hernández-Manfredini, 2023, “The Status of Arguments in Abstract Argumentation Frameworks. A Tableaux Method.” *Manuscrito*, 46(2): 66–108. doi:10.1590/0100-6045.2023.v46n2.ge
+* Bodanza, Gustavo and Fernando Tohmé, 2005, “Local Logics, Non-Monotonicity and Defeasible Argumentation”, *Journal of Logic, Language and Information*, 14(1): 1–12. doi:10.1007/s10849-005-4510-2
+* –––, 2009, “Two Approaches to the Problems of Self-Attacking Arguments and General Odd-Length Cycles of Attack”, *Journal of Applied Logic*, 7(4): 403–420. doi:10.1016/j.jal.2007.06.012
+* Bodanza, Gustavo, Fernando Tohmé, and Marcelo Auday, 2017, “Collective Argumentation: A Survey of Aggregation Issues around Argumentation Frameworks”, *Argument & Computation*, 8(1): 1–34. doi:10.3233/AAC-160014
+* Bodanza, Gustavo, Fernando Tohmé, and Guillermo Simari, 2016, “Beyond Admissibility: Accepting Cycles in Argumentation with Game Protocols for Cogency Criteria”, *Journal of Logic and Computation*, 26(4): 1235–1255. doi:10.1093/logcom/exu004
+* Boido, Angel Guillermo, 1996, *Noticias del Planeta Tierra. Galileo Galilei y la Revolución Científica*, Buenos Aires: A-Z Editora.
+* Bobenrieth, Andrés, 1998, “Five Philosophical Problems Related to Paraconsistent Logic”, *Logique et Analyse*, 41(161–163): 21–30.
+* Borge, Bruno, 2015, “Realismo científico hoy: a 40 años de la formulación del argumento del no-milagro”, *Acta Scientiarum. Human and Social Sciences*, 37(2): 221–233. doi:10.4025/actascihumansoc.v37i2.26933
+* –––, 2021, “Disagreement About Scientific Ontology”, *Journal for General Philosophy of Science*, on line first. doi:10.1007/s10838-020-09542-2
+* Borge, Bruno and Nélida Gentile (eds.), 2019, *La Ciencia y el Mundo Inobservable. Discusiones Contemporáneas en torno al Realismo Científico*, Buenos Aires: Eudeba.
+* Borge, Bruno and Nicolás Lo Guercio, 2021, “Learning from Scientific Disagreement”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 36(3): 375–398. doi:10.1387/theoria.21967
+* Brauer, Daniel, 2018, “Theory and Practice of Historical Writing in Times of Globalization”, in *Philosophy of Globalization*, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 397–408. doi:10.1515/9783110492415-029
+* Brauer, Daniel, Iwan Michelangelo D’Aprile, Günther Lottes, and Concha Roldán (eds.), 2012, *New Perspectives in Global History*, Hannover: Wehrhahn Verlag.
+* Bueno-Hernández, Alfredo, Ana Barahona, Juan J. Morrone, David Espinosa and Fabiola Juárez-Barrera, 2023, “Historiographical Approaches to Biogeography: A Critical Review”, *History and Philosophy of the Life Sciences*, 45(3): #27. doi:10.1007/s40656-023-00580-9
+* Bunge, Mario, 1959a, *Causality; the Place of the Causal Principle in Modern Science*, Cambridge, MA: Harvard University Press.
+* –––, 1959b, *Metascientific Queries*, Springfield, IL: C. C. Thomas.
+* –––, 1960, “The Place of Induction in Science”, *Philosophy of Science*, 27(3): 262–270. doi:10.1086/287745
+* –––, 1961a, “Kinds and Criteria of Scientific Laws”, *Philosophy of Science*, 28(3): 260–281. doi:10.1086/287809
+* –––, 1961b, “The Weight of Simplicity in the Construction and Assaying of Scientific Theories”, *Philosophy of Science*, 28(2): 120–149. doi:10.1086/287794
+* –––, 1962a, “The Complexity of Simplicity”, *Journal of Philosophy*, 59(5): 113–135. doi:10.2307/2023305
+* –––, 1962b, *Intuition and Science*, Englewood Cliffs, NJ: Prentice-Hall.
+* –––, 1963, *The Myth of Simplicity. Problems of Scientific Philosophy*, Englewood Cliffs, NJ: Prentice-Hall.
+* –––, 1967, *Foundations of Physics*, New York: Springer-Verlag.
+* –––, 1974–1989, *Treatise on Basic Philosophy*, 8 volumes, Dordrecht: Reidel.
+* –––, 2003, *Emergence and Convergence: Qualitative Novelty and the Unity of Knowledge*, Toronto: University of Toronto Press.
+* –––, 2006, *Chasing Reality: Strife over Realism*, Toronto: University of Toronto Press.
+* –––, 2013, *Medical Philosophy: Conceptual Issues in Medicine*, London: World Scientific Publishing Company.
+* –––, 2014, *Memorias entre Dos Mundos*, Buenos Aires: Gedisa.
+* Caponi, Gustavo, 2013, “Teleología naturalizada: los conceptos de función, aptitud y adaptación en la teoría de la selección natural”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 28(1): 97–114. doi:10.1387/theoria.3000
+* –––, 2022, “The Darwinian Turn in the Understanding of Biological Environment”, *Biological Theory*, 17: 20–35. doi:10.1007/s13752-020-00344-9
+* Cardona Suárez, Carlos Alberto, 2016, “Kepler: Analogies in the search for the law of refraction”, *Studies in History and Philosophy of Science Part A*, 59: 22–-35. doi:10.1016/j.shpsa.2016.05.004
+* Cardona Suárez, Carlos Alberto and Juliana Gutiérrez Valderrama, 2020, “The Law of Refraction and Kepler’s Heuristics”, *Archive for History of Exact Sciences*, 74: 45–75. doi:10.1007/s00407-019-00236-w
+* Carman, Christián Carlos, 2005a, “‘Realismo científico’ se dice de muchas maneras, al menos de 1111: una elucidación del término ‘realismo científico’”, *Scientiae Studia*, 3(1): 43–64. doi:10.1590/S1678-31662005000100003
+* –––, 2005b, “La distinción teórico/observacional: ¿favorece o perjudica al realismo científico?”, *Crítica: Revista Hispanoamericana de Filosofía*, 37(111): 83–96. doi:10.22201/iifs.18704905e.2005.461
+* –––, 2005c, “El argumento inductivo de Harré: algunas inconsistencias”, *Ágora: Papeles de Filosofía*, 24(2): 245–259. \[[Carman 2005c available online](http://hdl.handle.net/10347/1298)]
+* –––, 2009, “Rounding Numbers: Ptolemy’s Calculation of the Earth–Sun Distance”, *Archive for History of Exact Sciences*, 63(2): 205–242. doi:10.1007/s00407-008-0038-6
+* –––, 2010a, “Predicciones coincidentes (un reformulación del argumento del no-milagro)”, *Ágora: Papeles de Filosofía*, 29(1): 25–51. \[[Carman 2010b available online](http://hdl.handle.net/10347/7363)]
+* –––, 2010b, “On the Determination of Planetary Distances in the Ptolemaic System”, *International Studies in the Philosophy of Science*, 24(3): 257–265. doi:10.1080/02698595.2010.522408
+* –––, 2014, “Two Problems in Aristarchus’s Treatise *On the Sizes and Distances of the Sun and Moon*”, *Archive for History of Exact Sciences*, 68(1): 35–65. doi:10.1007/s00407-013-0123-3
+* –––, 2015, “The Planetary Increase of Brightness during Retrograde Motion: An Explanandum Constructed Ad Explanantem”, *Studies in History and Philosophy of Science Part A*, 54: 90–101. doi:10.1016/j.shpsa.2015.09.007
+* –––, 2017a, “Martianus Capella’s Calculation of the Size of the Moon”, *Archive for History of Exact Sciences*, 71(2): 193–210. doi:10.1007/s00407-016-0185-0
+* –––, 2017b, “Heraclides of Pontus on the Solar Anomaly”, *Almagest*, 8(1): 119–125. doi:10.1484/J.ALMAGEST.5.113699
+* –––, 2018, “The First Copernican Was Copernicus: The Difference between Pre-Copernican and Copernican Heliocentrism”, *Archive for History of Exact Sciences*, 72(1): 1–20. doi:10.1007/s00407-017-0198-3
+* –––, 2020, “Tycho Brahe’s *Calculi ad Corrigenda Elementa Orbitae Saturni* and the Technical Aspects of His Planetary Model of Saturn”, *Archive for History of Exact Sciences*, 74(6): 565–586. doi:10.1007/s00407-020-00253-0
+* –––, 2021, “The Tychonic Method for Calculating the Ratio between the Eccentricities of Mars”, *Journal for the History of Astronomy*, 52(2): 212–234. doi:10.1177/00218286211014311
+* –––, 2022a, “The Challenge of Scientific Realism to Intelligent Design”, *European Journal for Philosophy of Religion*, 14(4): 42–69. doi:10.24204/ejpr.2022.3685
+* –––, 2022b, “The Great Martian Catastrophe and how Tycho (Re-)fixed it”, *Almagest. International Journal for the History of Scientific Ideas*, 13(1): 42–57. doi:10.1484/J.ALMAGEST.5.131488
+* –––, 2022c, “François Viète’s Method for Calculating the Eccentricity in a Bisected Model and Its Possible Application to Kepler’s Vicarious Hypothesis”, *Historia Mathematica*, 58: 71–91. doi:10.1016/j.hm.2021.09.002
+* Carman, Christián Carlos and José Díez, 2015, “Did Ptolemy Make Novel Predictions? Launching Ptolemaic Astronomy into the Scientific Realism Debate”, *Studies in History and Philosophy of Science Part A*, 52: 20–34. doi:10.1016/j.shpsa.2015.04.002
+* Carman, Christián Carlos and James Evans, 2014, “On the Epoch of the Antikythera Mechanism and Its Eclipse Predictor”, *Archive for History of Exact Sciences*, 68(6): 693–774. doi:10.1007/s00407-014-0145-5
+* Carman, Christián Carlos and Gonzalo Recio, 2022, “Tycho Brahe’s Appendix ad *Observationes anni 1593* and the Date of Brahe’s Theory of Mars, the Prototype for Kepler’s Vicarious Hypothesis”, *Journal for the History of Astronomy*, 53(3): 239–265. doi:10.1177/00218286221099993
+* Carman, Christián Carlos, Alan Thorndike, and James Evans, 2012, “On the Pin-and-Slot Device of the Antikythera Mechanism, with a New Application to the Superior Planets”, *Journal for the History of Astronomy*, 43(1): 93–116. doi:10.1177/002182861204300106
+* Carnielli, Walter and Marcelo Coniglio, 2007 \[2016], “Combining Logics”, in *The Stanford Encyclopedia of Philosophy*, (Winter 2016), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/logic-combining/](https://plato.stanford.edu/archives/win2016/entries/logic-combining/)
+* Carnielli, Walter, Marcelo Coniglio, and Itala D’Ottaviano, 2009, “New Dimensions on Translations Between Logics”, *Logica Universalis*, 3(1): 1–18. doi:10.1007/s11787-009-0002-5
+* Carnielli, Walter, Marcelo Coniglio, and João Marcos, 2007, “Logics of Formal Inconsistency”, in *Handbook of Philosophical Logic, Volume 14*, Dov Gabbay and Franz Guenthner (eds.), Dordrecht: Springer Netherlands, 1–93. doi:10.1007/978-1-4020-6324-4\_1
+* Carnielli, Walter and Jacek Malinowski (eds.), 2018, *Contradictions, from Consistency to Inconsistency*. Cham: Springer. doi:10.1007/978-3-319-98797-2
+* Carnielli, Walter and Abilio Rodrigues, 2019, “An Epistemic Approach to Paraconsistency: A Logic of Evidence and Truth”, *Synthese*, 196(9): 3789–3813. doi:10.1007/s11229-017-1621-7
+* Carrillo, Natalia and Tarja Knuuttila, 2021, “An Artifactual Perspective on Idealization: Constant Capacitance and the Hodgkin and Huxley Model”, in *Models and Idealizations in Science: Artifactual and Fictional Approaches*, Alejandro Cassini and Juan Redmond (eds.), Cham: Springer, 51–70. doi:10.1007/978-3-030-65802-1\_2.
+* –––, 2022, “Holistic Idealization: An Artifactual Standpoint.” *Studies in the History and Philosophy of Science*, 91: 49–59. doi:10.1016/j.shpsa.2021.10.009
+* –––, 2023, “Mechanisms and the Problem of Abstract Models”, *European Journal for Philosophy of Science*, 13(3): #27. doi:10.1007/s13194-023-00530-z
+* Casanueva, Mario, 1997, “Genetics and Fertilization: a Good Marriage”, in *Representations of Scientific Rationality*, Andoni Ibarra and Thomas Mormann (eds.). Amsterdam: Rodopi, 321–358. doi:10.1163/9789004457614\_014
+* –––, 2011, “A Structuralist Reconstrucion of the Mechanism of Natural Selection in Set Theory, and Graph Formats”, in *Darwin’s Evolving Legacy*, Jorge Martínez Contreras and Aura Ponce de León (eds), México: Siglo XXI, 177–192.
+* Casanueva, Mario and Bernado Bolaños (eds), 2009, *El Giro Pictórico. Epistemología de la Imagen*, Cuajimalpa: Anthropos-UAM.
+* Casanueva, Mario and Ximena González-Grandón, 2016, “Introduction: Models, Images and Representations”, *Scientiae Studia*, 14(1): 9–18. doi:10.11606/S1678-31662016000100002
+* Cassini, Alejandro, 2003, “Confirmación hipotético-deductiva y confirmación bayesiana”, *Análisis Filosófico*, 23(1): 41–84.
+* –––, 2013, “Modelos, idealizaciones: una crítica del ficcionalismo”, *Principia: An International Journal of Epistemology*, 17(3): 345. doi:10.5007/1808-1711.2013v17n3p345
+* –––, 2018, “Modelos sin target”, *Artefactos. Revista de Estudios de la Ciencia y la Tecnología*, 7(2): 185–209. doi:10.14201/art201872185209
+* Cassini, Alejandro and Marcelo Leonardo Levinas, 2005, “La reinterpretación radical del experimento de Michelson-Morley por la relatividad especial”, *Scientiae Studia*, 3(4): 547–581. doi:10.1590/S1678-31662005000400002
+* –––, 2008, “La explicación de Einstein del efecto fotoeléctrico: un análisis histórico-epistemológico”, *Revista Latinoamericana de Filosofía*, 34(1): 5–38.
+* –––, 2009, “El éter relativista: un cambio conceptual inconcluso”, *Crítica: Revista Hispanoamericana de Filosofía*, 41(123): 3–38. doi:10.22201/iifs.18704905e.2009.912
+* –––, 2019, “Einstein’s Reinterpretation of the Fizeau Experiment: How It Turned out to Be Crucial for Special Relativity”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 65: 55–72. doi:10.1016/j.shpsb.2018.08.004
+* Cassini, Alejandro, Leonardo Levinas, and Hernán Pringe, 2013, “Einstein y el efecto Compton”, *Scientiae Studia*, 11(1): 185–209. doi:10.1590/S1678-31662013000100009
+* –––, 2015, “Einstein y la evidencia experimental a favor de la hipótesis del cuanto de luz”, *Scientiae Studia*, 13(1): 73–96. doi:10.1590/S1678-31662015000100004
+* Castagnino, Mario, Sebastian Fortin, and Olimpia Lombardi, 2010, “Is the decoherence of a system the result of its interaction with the environment?”, *Modern Physics Letters A*, 25(17): 1431–1439. doi:10.1142/S0217732310032664
+* Castagnino, Mario, Manuel Gadella, and Olimpia Lombardi, 2006, “Time-Reversal, Irreversibility and Arrow of Time in Quantum Mechanics”, *Foundations of Physics*, 36(3): 407–426. doi:10.1007/s10701-005-9021-0
+* Castagnino, Mario, Roberto Laura, and Olimpia Lombardi, 2007, “A General Conceptual Framework for Decoherence in Closed and Open Systems”, *Philosophy of Science*, 74(5): 968–980. doi:10.1086/525637
+* Castagnino, Mario and Olimpia Lombardi, 2004, “Self-Induced Decoherence: A New Approach”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 35(1): 73–107. doi:10.1016/j.shpsb.2003.03.001
+* –––, 2005, “Self‐Induced Decoherence and the Classical Limit of Quantum Mechanics”, *Philosophy of Science*, 72(5): 764–776. doi:10.1086/508945
+* –––, 2007, “Non-Integrability and Mixing in Quantum Systems: On the Way to Quantum Chaos”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 38(3): 482–513. doi:10.1016/j.shpsb.2006.07.002
+* –––, 2009, “The Global Non-Entropic Arrow of Time: From Global Geometrical Asymmetry to Local Energy Flow”, *Synthese*, 169(1): 1–25. doi:10.1007/s11229-009-9495-y
+* Castagnino, Mario, Olimpia Lombardi, and Luis Lara, 2003, “The Global Arrow of Time as a Geometrical Property of the Universe”, *Foundations of Physics*, 33(6): 877–912. doi:10.1023/A:1025665410999
+* Chamizo, José Antonio, 2013, “Technochemistry: One of the Chemists’ Ways of Knowing”, *Foundations of Chemistry*, 15(2): 157–170. doi:10.1007/s10698-013-9179-z
+* –––, 2017, “The Fifth Chemical Revolution: 1973–1999”, *Foundations of Chemistry*, 19(2): 157–179. doi:10.1007/s10698-017-9280-9
+* –––, 2019, “About Continuity and Rupture in the History of Chemistry: The Fourth Chemical Revolution (1945–1966)”, *Foundations of Chemistry*, 21(1): 11–29. doi:10.1007/s10698-018-9308-9
+* Ciepielewski, Gerardo Sanjuán, Elías Okon, and Daniel Sudarsky, 2021, “On Superdeterministic Rejections of Settings Independence”, *The British Journal for the Philosophy of Science*, 74(2): 435–467. doi:10.1086/714819
+* Cocchiarella, Nino B. and Max A. Freund, 2008, *Modal Logic: An Introduction to Its Syntax and Semantics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195366587.001.0001
+* Comte, Auguste, 1851, *Système de Politique Positive, Ou, Traite de Sociologie Instituant La Religion de L’Humanite*, Paris: La Libraire Scientifique e Industrielle de L. Mathias. \[[Comte 1851 available online](https://ia902505.us.archive.org/34/items/systmedepoliti01comt/systmedepoliti01comt.pdf)]
+* Córdoba, Mariana, 2020, “Making Genders: The Biotechnological and Legal Management of Identity”, in *Feminist Philosophy of Technology (second volume of the book series Techno:Phil - Aktuelle Herausforderungen der Technikphilosophie*, Berlin: Springer, pp. 225–243. doi:10.1007/978-3-476-04967-4\_12
+* –––, 2021, “The Biological Turn on Personal Identity. The Role Of Science as a Response to Children’s Appropriation in Argentinian Dictatorship (1976-1983)”, *Foundations of Science*, 26(2): 405–427. doi:10.1007/s10699-019-09628-1
+* Córdoba, Mariana and Olimpia Lombardi, 2013, “A Kantian Perspective for the Philosophy of Chemistry”, in *The Philosophy of Chemistry: Practices, Methodologies, and Concepts*, Jean-Pierre Llored (ed.), Newcastle upon Tyne: Cambridge Scholars Publishing, 478–490.
+* Córdoba, Mariana and Alfio Zambon, 2017, “How to Handle Nanomaterials? The Re-Entry of Individuals into the Philosophy of Chemistry”, *Foundations of Chemistry*, 19(3): 185–196. doi:10.1007/s10698-017-9283-6
+* Crelier, Andrés, 2022, “Attributing Psychological Predicates to Non-human Animals: Literalism and its Limits”, *Review of Philosophy and Psychology*, on line first. doi:10.1007/s13164-022-00643-z
+* Crespo, Ricardo F., Fernando Tohmé, and Daniel Heymann, 2010, “Abducing the Crisis”, in *Model-Based Reasoning in Science and Technology*, Lorenzo Magnani, Walter Carnielli, and Claudio Pizzi (eds.), (Studies in Computational Intelligence 314), Berlin, Heidelberg: Springer Berlin Heidelberg, 179–198. doi:10.1007/978-3-642-15223-8\_9
+* Cupani, Alberto, 2023, “The Specificity of Technological Knowledge”, in *Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community*, Helena Mateus Jerónimo (ed.), Cham: Springer, 145–161. doi:10.1007/978-3-031-14630-5\_10
+* Cussins, Adrian, 2012, “Environmental Representation of the Body”, *Review of Philosophy and Psychology*, 3(1): 15–32. doi:10.1007/s13164-012-0086-3
+* Da Costa, Newton C. A., Otávio Bueno, and Steven French, 1998, “The Logic of Pragmatic Truth”, *Journal of Philosophical Logic*, 27(6): 603–620. doi:10.1023/A:1004304228785
+* Da Costa, Newton C. A., and Steven French, 1989, “Pragmatic Truth and the Logic of Induction”, *The British Journal for the Philosophy of Science*, 40(3): 333–356. doi:10.1093/bjps/40.3.333
+* –––, 1990, “The Model-Theoretic Approach in the Philosophy of Science”, *Philosophy of Science*, 57(2): 248–265. doi:10.1086/289546
+* –––, 1991, “On Russell’s Principle of Induction”, *Synthese*, 86(2): 285–295. doi:10.1007/BF00485812
+* –––, 1993, “A Model Theoretic Approach to ‘Natural’ Reasoning”, *International Studies in the Philosophy of Science*, 7(2): 177–190. doi:10.1080/02698599308573462
+* –––, 2003, *Science and Partial Truth: A Unitary Approach to Models and Scientific Reasoning*, (Oxford Studies in the Philosophy of Science), Oxford: Oxford University Press. doi:10.1093/019515651X.001.0001
+* Da Costa, Newton C. A. and Décio Krause, 1994, “Schrödinger Logics”, *Studia Logica*, 53(4): 533–550. doi:10.1007/BF01057649
+* –––, 1997, “An Intensional Schrödinger Logic”, *Notre Dame Journal of Formal Logic*, 38(2): 179–194. doi:10.1305/ndjfl/1039724886
+* –––, 2014, “Physics, Inconsistency, and Quasi-Truth”, *Synthese*, 191(13): 3041–3055. doi:10.1007/s11229-014-0472-8
+* –––, 2016, “An Application of Paraconsistent Logic to Physics: Complementarity”, in *Towards Paraconsistent Engineering*, Seiki Akama (ed.), (Intelligent Systems Reference Library 110), Cham: Springer International Publishing, 25–34. doi:10.1007/978-3-319-40418-9\_3
+* Da Costa, Newton and Jonas Becker Arenhart, 2018, “Full-Blooded Anti-Exceptionalism About Logic”, *Australasian Journal of Logic*, 15(2): 362–380. doi:10.26686/ajl.v15i2.4865
+* Da Costa, Newton and Olimpia Lombardi, 2014, “Quantum Mechanics: Ontology Without Individuals”, *Foundations of Physics*, 44(12): 1246–1257. doi:10.1007/s10701-014-9793-1
+* Da Costa, Newton, Olimpia Lombardi, and Mariano Lastiri, 2013, “A Modal Ontology of Properties for Quantum Mechanics”, *Synthese*, 190(17): 3671–3693. doi:10.1007/s11229-012-0218-4
+* Da Ré, Bruno and Lucas Rosenblatt, 2018, “Contraction, Infinitary Quantifiers, and Omega Paradoxes”, *Journal of Philosophical Logic*, 47(4): 611–629. doi:10.1007/s10992-017-9441-2
+* Dagnino, Renato, 2023, “Solidary Technoscience: A Concept for the Philosophy of Technology”, in *Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community*, Helena Mateus Jerónimo (ed.), Cham: Springer, 305–320. doi:10.1007/978-3-031-14630-5\_17
+* Dalla Chiara, Maria Luisa, Roberto Giuntini, and Décio Krause, 1998, “Quasi Set Theories for Microobjects: A Comparison”, in *Interpreting Bodies: Classical and Quantum Objects in Modern Physics*, Elena Castellani (ed), Princeton: Princeton University Press, 142–153.
+* Danón, Laura, 2019a, “Neo-pragmatism, Primitive Intentionality and Animal Minds”, *Philosophia: Philosophical Quarterly of Israel*, 47(1): 39–58. doi:10.1007/s11406-018-9963-z
+* –––, 2019b, “Animal Normativity”, *Phenomenology and the Mind*, 17: 176–187. doi:10.13128/pam-8035
+* –––, 2022a, “Modest Propositional Contents in Non-human Animals”, *Philosophies*, 7(5): #93. doi:10.3390/philosophies7050093
+* –––, 2022b, “Conceptual Recombination and Stimulus-Independence in Non-Human Animals”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 37(3): 309–330. doi:10.1387/theoria.23638
+* Danón, Laura and Daniel Kalpokas, 2017, “Perceiving Mental States: Co-Presence and Constitution”, *Filosofia Unisinos*, 18(2): 87–97. doi:10.4013/fsu.2017.182.03
+* De Barros, José Acacio, Federico Holik, and Décio Krause, 2022, “Quantum Identity, Content, and Context: From Classical to Non-classical Logic”, in *From Electrons to Elephants and Elections: Exploring the Role of Content and Context*, Shyam Wuppuluri and Ian Stewart (eds.), The Frontiers Collection, Cham: Springer, 489–521. doi:10.1007/978-3-030-92192-7\_27
+* de Carvalho, Ítalo Nascimento, Charbel N. El-Hani, and Nei Nunes-Neto, 2020, “How Should We Select Conceptual Content for Biology High School Curricula?”, *Science & Education*, 29(3): 513–547. doi:10.1007/s11191-020-00115-9
+* De la Vega, Iván and Hebe Vessuri, 2008, “Science and Mobility: Is Physical Location Relevant?”, *Technology in Society*, 30(1): 71–83. doi:10.1016/j.techsoc.2007.10.003
+* Díaz, José-Luis, 1995, “Hunting for Consciousness in the Brain: What Is (the Name of) the Game?”, *Behavioral and Brain Sciences*, 18(4): 679–680. doi:10.1017/S0140525X00040437
+* –––, 2000, “Mind-Body Unity, Dual Aspect, and the Emergence of Consciousness”, *Philosophical Psychology*, 13(3): 393–403. doi:10.1080/09515080050128187
+* Díez, José and Pablo Lorenzano, 2013, “Who Got What Wrong? Fodor and Piattelli on Darwin: Guiding Principles and Explanatory Models in Natural Selection”, *Erkenntnis*, 78(5): 1143–1175. doi:10.1007/s10670-012-9414-3
+* –––, 2015, “Are Natural Selection Explanatory Models a Priori?”, *Biology & Philosophy*, 30(6): 787–809. doi:10.1007/s10539-015-9498-7
+* Díez, José, Gonzalo Recio, and Christián Carman, 2022, “Does Explaining Past Success Require (Enough) Retention? The Case of Ptolemaic Astronomy”, *Journal for General Philosophy of Science*, 53(4): 323–344. doi:10.1007/s10838-021-09589-9
+* Di Paolo, Ezequiel, Diego Lawler, and Andrés Vaccari, 2023, “Toward an Enactive Conception of Productive Practices: Beyond Material Agency”, *Philosophy & Technology*, 36(2): #31. doi:10.1007/s13347-023-00632-9
+* Domenech, Graciela, Federico Holik, and Décio Krause, 2008, “Q-Spaces and the Foundations of Quantum Mechanics”, *Foundations of Physics*, 38(11): 969–994. doi:10.1007/s10701-008-9246-9
+* Domingues, Ivan, 2023, “Four Visions of Technology”, in *Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community*, Helena Mateus Jerónimo (ed.), Cham: Springer, 127–144. doi:10.1007/978-3-031-14630-5\_9
+* Dos Santos, Vanessa Carvalho, Leyla Mariane Joaquim, and Charbel Niño El-Hani, 2012, “Hybrid Deterministic Views About Genes in Biology Textbooks: A Key Problem in Genetics Teaching”, *Science & Education*, 21(4): 543–578. doi:10.1007/s11191-011-9348-1
+* Dussel, Enrique D., 1995, *The Invention of the Americas : Eclipse of “the Other” and the Myth of Modernity*, Michael D. Barber (trans.), New York: Continuum. Translated from: Dussel, Enrique D., 1993, *El Encubrimiento del Otro. Hacia el origen del mito de la modernidad*, Madrid: Nueva Utopía.
+* Earman, John, 1974, “An Attempt to Add a Little Direction to ‘The Problem of the Direction of Time’”, *Philosophy of Science*, 41(1): 15–47. doi:10.1086/288568
+* Edgington, Dorothy, 1990, “Explanation, Causation and Laws”, *Crítica: Revista Hispanoamericana de Filosofía*, 22(66): 55–73. doi:10.22201/iifs.18704905e.1990.776
+* El-Hani, Charbel Niño, 2008, “Theory-Based Approaches to the Concept of Life”, *Journal of Biological Education*, 42(4): 147–149. doi:10.1080/00219266.2008.9656132
+* –––, 2015, “Mendel in Genetics Teaching: Some Contributions from History of Science and Articles for Teachers”, *Science & Education*, 24(1–2): 173–204. doi:10.1007/s11191-014-9685-y
+* El-Hani, Charbel Niño and Claus Emmeche, 2000, “On Some Theoretical Grounds for an Organism-Centered Biology: Property Emergence, Supervenience, and Downward Causation”, *Theory in Biosciences*, 119(3–4): 234–275. doi:10.1007/s12064-000-0018-0
+* El-Hani, Charbel Niño and Antonio Marcos Pereira, 1999, “Understanding Biological Causation”, in *Where Biology Meets Psychology: Philosophical Essays*, Valerie Hardcastle (ed.), Cambridge MA: MIT Press, 333–356. doi:10.7551/mitpress/7220.003.0018
+* El-Hani, Charbel Niño, João Queiroz, and Claus Emmeche, 2006, “A Semiotic Analysis of the Genetic Information System”, *Semiotica*, 2006(160): 1–68. doi:10.1515/SEM.2006.039
+* El-Hani, Charbel N., João Queiroz, and Frederik Stjernfelt, 2010, “Firefly Femmes Fatales: A Case Study in the Semiotics of Deception”, *Biosemiotics*, 3(1): 33–55. doi:10.1007/s12304-009-9048-2
+* Eraña, Angeles, 2012, “Dual Process Theories versus Massive Modularity Hypotheses”, *Philosophical Psychology*, 25(6): 855–872. doi:10.1080/09515089.2011.631994
+* Erduran, Sibel, Agustin Adúriz Bravo, and Rachel Mamlok Naaman, 2007, “Developing Epistemologically Empowered Teachers: Examining the Role of Philosophy of Chemistry in Teacher Education”, *Science & Education*, 16(9–10): 975–989. doi:10.1007/s11191-006-9072-4
+* Esposito, Maurizio, 2011, “Utopianism in the British Evolutionary Synthesis”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 42(1): 40–49. doi:10.1016/j.shpsc.2010.11.007
+* –––, 2017, “Expectation and Futurity: The Remarkable Success of Genetic Determinism”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 62: 1–9. doi:10.1016/j.shpsc.2017.01.001
+* Estany, Ana y Sergio Martínez, 2014, “«Scaffolding» and «Affordance» as Integrative Concepts in the Cognitive Sciences”, *Philosophical Psychology*, 27(1): 98–111. doi:10.1080/09515089.2013.828569
+* Estrada, Amadeo, Edna Suárez-Díaz, and Arturo Becerra, 2022. “Reconstructing the Last Common Ancestor: Epistemological and Empirical Challenges”, *Acta Biotheoretica*, 70: #15. doi:10.1007/s10441-022-09439-1
+* Estrada-González, Luis, 2011, “On the Meaning of Connectives (Apropos of a Non-Necessitarianist Challenge)”, *Logica Universalis*, 5(1):115–126. doi:10.1007/s11787-011-0025-6
+* –––, 2013, “Models of Possibilism and Trivialism”, *Logic and Logical Philosophy*, 21(2): 175–205. doi:10.12775/LLP.2012.010
+* –––, 2017, “Impossible Worlds and the Intensional Sense of ‘and’”, *Argumenta*, 2(2): 227–239. doi: 10.23811/43.arg2017.gon
+* –––, 2023, “An Easy Road to Multi-contra-classicality”, *Erkenntnis*, 88(6): 2591–2608. doi:10.1007/s10670-021-00468-9
+* Estrada-González, Luis and Claudia Lucía Tanús-Pimentel, 2021, “Variable Sharing in Connexive Logic”, *Journal of Philosophical Logic*, 50(6): 1377–1388. doi: 10.1007/s10992-021-09602-y
+* Evans, James and Christián Carlos Carman, 2019, “Babylonian Solar Theory on the Antikythera Mechanism”, *Archive for History of Exact Sciences*, 73(6): 619–659. doi:10.1007/s00407-019-00237-9.
+* Evans, James, Christián Carlos Carman, and Alan S. Thorndike, 2010, “Solar Anomaly and Planetary Displays in the Antikythera Mechanism”, *Journal for the History of Astronomy*, 41(1): 1–39. doi:10.1177/002182861004100101
+* Fernández-Pinto, Manuela, 2015a, “Tensions in Agnotology: Normativity in the Studies of Commercially Driven Ignorance”, *Social Studies of Science*, 45(2): 294–315. doi:10.1177/0306312714565491
+* –––, 2015b, “Commercialization and the Limits of Well-Ordered Science”, *Perspectives on Science*, 23(2): 173–191. doi:10.1162/POSC\_a\_00166
+* –––, 2017, “To Know or Better Not to: Agnotology and the Social Construction of Ignorance in Commercially Driven Research”, *Science and Technology Studies*, 30(2): 53–72. doi:10.23987/sts.61030
+* –––, 2018, “Democratizing Strategies for Industry-Funded Medical Research: A Cautionary Tale”, *Philosophy of Science*, 85(5): 882–894. doi:10.1086/699720
+* –––, 2020a, “Open Science for private Interests? How the Logic of Open Science Contributes to the Commercialization of Research”, *Frontiers in Research Metrics and Analytics*, 5: 1–10. doi:10.3389/frma.2020.588331
+* –––, 2020b, “Commercial Interests and the Erosion of Trust in Science”, *Philosophy of Science*, 87(5): 1003–1013. doi:10.1086/710521
+* –––, 2023, “Methodological and Cognitive Biases in Science: Issues for Current Research and Ways to Counteract Them”, *Perspectives on Science*, 31(5): 535–554. doi:10.1162/posc\_a\_00589
+* Ferreira, Tiago Alfredo S., Charbel N. El-Hani, and Waldomiro José da Silva-Filho, 2016, “Knowledge, Belief, and Science Education: A Contribution from the Epistemology of Testimony”, *Science & Education*, 25(7–8): 775–794. doi:10.1007/s11191-016-9834-6
+* Filomeno, Aldo, 2016, “Fundamentality, Effectiveness, and Objectivity of Gauge Symmetries”, *International Studies in the Philosophy of Science*, 30 (1): 19–37, doi:10.1080/02698595.2016.1240459
+* –––, 2019, “Stable Regularities without Governing Laws?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 66: 186–197. doi:10.1016/j.shpsb.2019.03.001
+* –––, 2021, “Are Non-Accidental Regularities a Cosmic Coincidence? Revisiting a Central Threat to Humean Laws”, *Synthese*, 198(6): 5205–5227. doi:10.1007/s11229-019-02397-1
+* –––, 2023, “On Metaphysics’ Independence from Truthmaking. Or, Why Humean Supervenience is Compatible with the Growing Block Universe”, *Erkenntnis*, 88(4): 1467–1480. doi:10.1007/s10670-021-00411-y
+* Fiore, Camillo and Lucas Rosenblatt, 2023, “Recapture Results and Classical Logic”, *Mind*, 132(527): 762–788. doi:10.1093/mind/fzad006
+* Flichman, Eduardo H., 1989, “The Causalist Program. Rational or Irrational Persistence?”, *Crítica: Revista Hispanoamericana de Filosofía*, 21(62): 29–53. doi:10.22201/iifs.18704905e.1989.713
+* –––, 1990, “A Crucial Distinction: Initial Data and Law Application Instances”, *Crítica: Revista Hispanoamericana de Filosofía*, 22(66): 75–85. doi:10.22201/iifs.18704905e.1990.777
+* –––, 1995, “Hard and Soft Accidental Uniformities”, *Philosophy of Science*, 62(1): 31–43. doi:10.1086/289837
+* –––, 2000, “Lewis’s Causation: A Fatal Example. A Response to Dorothy Edgington, Helen Beebee and Horacio Abeledo”, *Crítica: Revista Hispanoamericana de Filosofía*, 32(94): 89–125. doi:10.22201/iifs.18704905e.2000.841
+* Folguera, Guillermo, Erica Carrizo, and Alicia Massarini, 2014, “Análisis de los aspectos epistemológicos y sociales presentes en el discurso tecno-científico referido a los organismos genéticamente modificados (OGM) cultivados en la Argentina”, *Revista CTS*, 9(25): 91–119. \[[Folguera, Carrizo, and Massarini 2014 available online](http://www.revistacts.net/contenido/numero-25/analisis-de-los-aspectos-epistemologicos-y-sociales-presentes-en-el-discurso-tecno-cientifico-referido-a-los-organismos-geneticamente-modificados-ogm-cultivados-en-la-argentina/)]
+* Folguera, Guillermo and Olimpia Lombardi, 2012, “The Relationship between Microevolution and Macroevolution, and the Structure of the Extended Synthesis”, *History and Philosophy of the Life Sciences*, 34(4): 539–559.
+* Fortin, Sebastian and Olimpia Lombardi, 2014, “Partial Traces in Decoherence and in Interpretation: What Do Reduced States Refer To?”, *Foundations of Physics*, 44(4): 426–446. doi:10.1007/s10701-014-9791-3
+* –––, 2016, “A Top-down View of the Classical Limit of Quantum Mechanics”, in *Quantum Structural Studies: Classical Emergence from the Quantum Level*, Ruth E Kastner, Jasmina Jeknić-Dugić, and George Jaroszkiewicz (eds.), Singapore: World Scientific, 435–468. doi:10.1142/9781786341419\_0014
+* –––, 2017, “Interpretation and Decoherence: A Contribution to the Debate Vassallo & Esfeld Versus Crull”, *Foundations of Physics*, 47(11): 1423–1427. doi:10.1007/s10701-017-0121-4
+* –––, 2018, “Understanding Decoherence as an Irreversible Process”, *International Journal of Quantum Foundations*, 4(4): 247–267.
+* Fortin, Sebastian, Olimpia Lombardi, and Juan Camilo Martínez González, 2016, “Isomerism and Decoherence”, *Foundations of Chemistry*, 18(3): 225–240. doi:10.1007/s10698-016-9251-6
+* –––, 2017, “The Relationship between Chemistry and Physics from the Perspective of Bohmian Mechanics”, *Foundations of Chemistry*, 19(1): 43–59. doi:10.1007/s10698-017-9277-4
+* –––, 2018, “A New Application of the Modal-Hamiltonian Interpretation of Quantum Mechanics: The Problem of Optical Isomerism”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 62: 123–135. doi:10.1016/j.shpsb.2017.06.008
+* –––, 2019, “The Correspondence Principle and the Understanding of Decoherence”, *Foundations of Physics*, 49(12): 1372–1393. doi: 10.1007/s10701-019-00309-4
+* –––, 2020, “The Frauchiger-Renner Argument: A New No-Go Result?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 70: 1–7. doi:10.1016/j.shpsb.2019.12.002
+* –––, 2021, “Is the Problem of Molecular Structure Just the Quantum Measurement Problem?”, *Foundations of Chemistry*, 23(3): 379–395. doi:10.1007/s10698-021-09402-x
+* –––, 2022, “Entanglement and Indistinguishability in a Quantum Ontology of Properties”, *Studies in History and Philosophy of Science*, 91: 234–243. doi:10.1016/j.shpsa.2021.11.017
+* Fortin, Sebastian, Olimpia Lombardi, and Matías Pasqualini, 2022, “Relational Event-Time in Quantum Mechanics”, *Foundations of Physics*, 52(1): #10. doi:10.1007/s10701-021-00528-8
+* Francese, Christian and Guillermo Folguera, 2018, “Saberes simplificados, tecnociencia y omisión de riesgos. El caso de los organismos genéticamente modificados”, *RUNA, Archivo para las Ciencias del Hombre*, 39(2): 5–27. doi:10.34096/runa.v39i2.4251
+* Freire, Olival, Jr., 2015, *The Quantum Dissidents: Rebuilding the Foundations of Quantum Mechanics (1950–1990)*, Berlin and Heidelberg: Springer. doi:10.1007/978-3-662-44662-1
+* French, Steven and Décio Krause, 1995, “Vague Identity and Quantum Non-Individuality”, *Analysis*, 55(1): 20–26. doi:10.1093/analys/55.1.20
+* –––, 1999, “The Logic of Quanta”, in *Conceptual Foundations of Quantum Field Theory*, Tian Yu Cao (ed.), Cambridge: Cambridge University Press, 324–342. doi:10.1017/CBO9780511470813.027
+* –––, 2003, “Quantum Vagueness”, *Erkenntnis*, 59(1): 97–124. doi:10.1023/A:1023921928559
+* –––, 2006, *Identity in Physics: A Historical, Philosophical, and Formal Analysis*, Oxford: Oxford University Press. doi:10.1093/0199278245.001.0001
+* –––, 2010, “Remarks on the Theory of Quasi-Sets”, *Studia Logica*, 95(1–2): 101–124. doi:10.1007/s11225-010-9249-3
+* Freund, Max Alberto, 2001, “A Temporal Logic for Sortals”, *Studia Logica*, 69(3): 351–380. doi:10.1023/A:1013840126121
+* –––, 2004, “A Modal Sortal Logic”, *Journal of Philosophical Logic*, 33(3): 237–260. doi:10.1023/B:LOGI.0000031381.56344.a9
+* –––, 2007, “A Two Dimensional Tense-Modal Sortal Logic”, *Journal of Philosophical Logic*, 36(5): 571–598. doi:10.1007/s10992-007-9050-6
+* –––, 2015, “A Modal-Tense Sortal Logic with Variable-Domain Second-Order Quantification”, *The Australasian Journal of Logic*, 12(1): art. 5. doi:10.26686/ajl.v12i1.2084
+* Frondizi, Risieri, 1943, “Contemporary Argentine Philosophy”, *Philosophy and Phenomenological Research*, 4(2): 180–186. doi:10.2307/2103068
+* Fuentes Guillén, Elías, 2022, “Bolzano’s Theory of *meßbare Zahlen*: Insights and Uncertainties Regarding the Number Continuum”, in *Handbook of the History and Philosophy of Mathematical Practice*, Bharath Sriraman (ed.), Cham: Springer, 1–38. doi:10.1007/978-3-030-19071-2\_96-2
+* –––, 2023, “Bolzano on Bolzano: A Hitherto Unknown Announcement of Bolzano’s *Beyträge*”, *History and Philosophy of Logic*, 44(4): 442–458. doi:10.1080/01445340.2022.2147750
+* Fuentes Guillén, Elías and Davide Crippa, 2021, “The 1804 Examination for the Chair of Elementary Mathematics at the University of Prague”, *Historia Mathematica*, 57: 24–54.e18. doi:10.1016/j.hm.2021.07.001
+* Fuentes Guillén, Elías and Carmen Martínez Adame, 2020, “The Notion of Variable Quantities ω in Bolzano’s Early Works”, *Historia Mathematica*, 50: 25–49. doi:10.1016/j.hm.2019.07.002
+* Gambini, Rodolfo, Luis Pedro García Pintos, and Jorge Pullin, 2010, “Undecidability and the Problem of Outcomes in Quantum Measurements”, *Foundations of Physics*, 40(1): 93–115. doi:10.1007/s10701-009-9376-8
+* –––, 2011, “An Axiomatic Formulation of the Montevideo Interpretation of Quantum Mechanics”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 42(4): 256–263. doi:10.1016/j.shpsb.2011.10.002
+* García, Claudia Lorena, 2007, “Cognitive Modularity, Biological Modularity, and Evolvability”, *Biological Theory*, 2(1): 62–73. doi:10.1162/biot.2007.2.1.62
+* –––, 2010, “Functional Homology and Functional Variation in Evolutionary Cognitive Science”, *Biological Theory*, 5(2): 124–135. doi:10.1162/BIOT\_a\_00036
+* –––, 2015, “Computer Simulations and Experiments: In Vivo-In Vitro Conditions in Biochemistry”, *Foundations of Chemistry*, 17(1): 49–65. doi:10.1007/s10698-015-9215-2
+* García, Pío, 2008, “Discovery by Serendipity: A New Context for an Old Riddle”, *Foundations of Chemistry*, 11(1): 33–42. doi:10.1007/s10698-008-9061-6
+* García, Rolando, 1981, *Nature Pleads Not Guilty*, Oxford: Pergamon Press.
+* ––– (ed.), 1997, *La Epistemología Genética y la Ciencia Contemporánea*, Barcelona: Gedisa
+* –––, 2000, *El Conocimiento en Construcción. De las Formulaciones de Jean Piaget a la Teoría de los Sistemas Complejos*, Barcelona: Gedisa.
+* García Bacca, Juan David, 1941, *Filosofía de las Ciencias. Teoría de la Relatividad*, México: Editorial Séneca.
+* –––, 1962, *Filosofía de las Ciencias. La Física*, Caracas: Instituto Pedagógico.
+* –––, 1963, *Historia Filosófica de la Ciencia*, México: Universidad Autónoma de México.
+* –––, 1977, *Teoría y Metateoría de la Ciencia. Curso Sistemático. Vol. I: Teoría de la Ciencia*, Caracas: Universidad Central de Venezuela.
+* –––, 1984, *Teoría y Metateoría de la Ciencia. Vol. II*, Caracas: Universidad Central de Venezuela.
+* García-Deister, Vivette and Carlos López-Beltrán, 2015, “País de Gordos/País de Muertos : Obesity, Death and Nation in Biomedical and Forensic Genetics in Mexico”, *Social Studies of Science*, 45(6): 797–815. doi:10.1177/0306312715608449
+* García-Deister, Vivette and Lindsay A. Smith, 2020, “Migrant Flows and Necro-Sovereignty: The Itineraries of Bodies, Samples, and Data Across the US-Mexico Borderlands”, *BioSocieties*, 15: 420–437. doi:10.1057/s41292-019-00166-4
+* García-Ramírez, Eduardo, 2011, “A Cognitive Theory of Empty Names”, *Review of Philosophy and Psychology*, 2(4): 785–807. doi:10.1007/s13164-011-0078-8
+* García-Ramírez, Eduardo and Marilyn Shatz, 2011, “On Problems with Descriptivism: Psychological Assumptions and Empirical Evidence”, *Mind & Language*, 26(1): 53–77. doi:10.1111/j.1468-0017.2010.01410.x
+* Garcia Romano, Leticia, Maricel Occelli, and Agustín Adúriz-Bravo, 2021, “School Scientific Argumentation Enriched by Digital Technologies: Results With Pre- and In-Service Science Teachers”, *EURASIA Journal of Mathematics, Science and Technology Education*, 17(7): #em1982. doi:10.29333/ejmste/10990
+* García Sienra, Adolfo, 1988, “Axiomatic Foundations of the Marxian Theory of Value”, *Erkenntnis* 29(3): 299–341. doi: 10.1007/bf00183068
+* –––, 1989, “Open Problems in the Foundations of Price Formation Dynamics”, *Erkenntnis*, 30(1): 87–99. doi:10.1007/bf00184817
+* Gentile, Nélida, 2013, *La Tesis de la Inconmensurabilidad: A 50 Años de la Estructura de las Revoluciones Científicas*, Buenos Aires: Editorial Eudeba.
+* –––, 2019, “A Quasi-Regularist View of Laws”, *Principia: An International Journal of Epistemology*, 23(3): 445–459. doi:10.5007/1808-1711.2019v23n3p445
+* Gentile, Nélida and Susana Lucero, 2021, “On the Explanatory Power of Dispositional Realism”, *Journal for General Philosophy of Science*, on line first. doi:10.1007/s10838-020-09539-x
+* Gericke, Niklas M., Mariana Hagberg, Vanessa Carvalho dos Santos, Leyla Mariane Joaquim, and Charbel N. El-Hani, 2014, “Conceptual Variation or Incoherence? Textbook Discourse on Genes in Six Countries”, *Science & Education*, 23(2): 381–416. doi:10.1007/s11191-012-9499-8
+* Ginnobili, Santiago, 2016, “Missing Concepts in Natural Selection Theory Reconstructions”, *History and Philosophy of the Life Sciences*, 38(3): art. 8. doi:10.1007/s40656-016-0109-y
+* –––, 2022, “Darwinian functional biology”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 37(2): 233–255. doi: 10.1387/theoria.22645
+* –––, 2023a, “Darwinian Beauty”, *Manuscrito*, 46(4): 1–32. doi:10.1590/0100-6045.2023.v46n4.sg
+* –––, 2023b, “Sexual Selection and the Brotherhood of Humans: Does the Argument of *The Descent of Man* Confirm The Sacred Cause Thesis?”, *Principia*, Vol. 27, nº2, pp. 335–361. doi:10.5007/1808-1711.2023.e90604
+* Ginnobili, Santiago and Daniel Blanco, 2019, “Wallace’s and Darwin’s Natural Selection Theories”, *Synthese*, 196(3): 991–1017. doi:10.1007/s11229-017-1491-z
+* Giovannini, Eduardo N., 2016, “Bridging the Gap Between Analytic and Synthetic Geometry: Hilbert’s Axiomatic Approach”, *Synthese*, 193(1): 31–70. doi:10.1007/s11229-015-0743-z
+* Giovannini, Eduardo N., Edward H. Haeusler, Abel Lassalle-Casanave, and Paulo A. S. Veloso, 2022, “De Zolt’s Postulate: An Abstract Approach”, *Review of Symbolic Logic*, 15(1): 197–224. doi:10.1017/s1755020319000339
+* Giovannini, Eduardo N. and Georg Schiemer, 2019, “What are Implicit Definitions?”, *Erkenntnis*, 86(6): 1661–1691. doi:10.1007/s10670-019-00176-5
+* Gómez, Ricardo Juan, 2002, “El mito de la neutralidad valorativa de la economía neoliberal”, *Energeia: Revista Internacional de Filosofía y Epistemología de las Ciencias*, 1(1): 32–51. \[[Gómez 2002 available online](http://dspace.uces.edu.ar:8180/xmlui/handle/123456789/487)]
+* –––, 2003, “Filosofía posmoderna: sobre muertes anunciadas y otros menesteres”, in *El Filosofar Hoy*, Oscar Nudler and Francisco Naishtat (eds.), Buenos Aires: Biblos, 77–89.
+* –––, 2010, “What is that Thing Called Philosophy of Technology?”, in *History and Philosophy af Science and Technology -Volume IV*, Pablo Lorenzano, Hans-Jörg Rheinberger, Eduardo Ortiz, and Carlos Delfino Galles (eds.), Oxford: Eolss Publishers, 47–81.
+* –––, 2012, “On Economics and the Impossibility of Its Reduction to Physics”, in *Perspectives on Epistemology and Economics*, Andrés Lazzarini and Diego Weisman (eds.), Buenos Aires: Universidad de Buenos Aires, 139-160.
+* –––, 2017a, “El fin de todos los fines. ¿Acaso no había llegado el Fin de la Historia?”, *Theorein. Revista de Ciencias Sociales*, 2(1): 73–94. doi:10.26807/theorein.v2i1.8
+* –––, 2017b, “Tecnología y nueva ética”, *De Raíz Diversa. Revista Especializada En Estudios Latinoamericanos*, 3(6): 115–136. doi:10.22201/ppela.24487988e.2016.6.58428
+* Gómez-Salazar, Mónica, 2017, “Onto-Epistemological Pluralism, Social Practices, Human Rights And White Racism”, *Cultura: International Journal of Philosophy of Culture and Axiology*, 14(2): 89–106. doi:10.3726/cul.2017.02.05
+* Gómez-Torrente, Mario, 1998, “Logical Truth and Tarskian Logical Truth”, *Synthese*, 117(3): 375–408. doi:10.1023/A:1005165824990
+* –––, 2000, “A Note on Formality and Logical Consequence”, *Journal of Philosophical Logic*, 29(5): 529–539. doi:10.1023/A:1026510905204
+* –––, 2002, “The Problem of Logical Constants”, *Bulletin of Symbolic Logic*, 8(1): 1–37. doi:10.2178/bsl/1182353851
+* –––, 2006 \[2019], “Logical Truth”, in *The Stanford Encyclopedia of Philosophy*, (Spring 2019), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/logical-truth/](https://plato.stanford.edu/archives/spr2019/entries/logical-truth/)
+* –––, 2008, “Are There Model‐Theoretic Logical Truths That Are Not Logically True?”, in *New Essays on Tarski and Philosophy*, Douglas Patterson (ed.), Oxford: Oxford University Press, 340–368. doi:10.1093/acprof:oso/9780199296309.003.0013
+* –––, 2009, “Rereading Tarski on Logical Consequence”, *Review of Symbolic Logic*, 2(2): 249–297. doi:10.1017/s1755020309090200
+* –––, 2015, “On the Essence and Identity of Numbers”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 30(3): 317–329. doi:10.1387/theoria.14099
+* –––, 2020, “Logical Form, Truth Conditions, and Adequate Formalization”, *Disputatio*, 12(58): 209–222. doi:10.2478/disp-2020-0010
+* –––, 2021, “The Problem of Logical Constants and the Semantic Tradition: From Invariantist Views to a Pragmatic Account”, in *The Semantic Conception of Logic: Essays on Consequence, Invariance, and Meaning*, Gil Sagi and Jack Woods (eds.), Cambridge: Cambridge University Press, 35–54. doi:10.1017/9781108524919.003
+* González, Juan C., 2010, “On Pink Elephants, Floating Daggers, and Other Philosophical Myths”, *Phenomenology and the Cognitive Sciences*, 9(2): 193–211. doi:10.1007/s11097-010-9164-0
+* –––, 2013, “Interactive Fiat Objects”, *Review of Philosophy and Psychology*, 4(2): 205–217. doi:10.1007/s13164-012-0121-4
+* –––, 2016, “Blurring the Differences Between the Dream, Perceptual and Hallucinatory Experiences is Not the Answer”, *Constructivist Foundations*, 11(2): 417–419. \[[González 2016 available online](https://constructivist.info/11/2/417.gonzalez)]
+* González, Juan C., Paul Bach-y-Rita, and Steven J. Haase, 2005, “Perceptual Recalibration in Sensory Substitution and Perceptual Modification”, *Pragmatics & Cognition*, 13(3): 481–500. doi:10.1075/pc.13.3.05gon
+* González, Maria Eunice Quilici, 2005, “Information and Mechanical Models of Intelligence: What Can We Learn from Cognitive Science?”, *Pragmatics & Cognition*, 13(3): 565–582. doi:10.1075/pc.13.3.09qui
+* González, Maria Eunice Quilici, Mariana Claudia Broens, and Fabricio Loffredo D’Ottaviano, 2007, “Abductive Reasoning, Information, and Mechanical Systems”, in *Model-Based Reasoning in Science, Technology, and Medicine*, Lorenzo Magnani and Ping Li (eds.), (Studies in Computational Intelligence, 64), Berlin, Heidelberg: Springer Berlin Heidelberg, 91–102. doi:10.1007/978-3-540-71986-1\_4
+* González, Maria Eunice Quilici and Osvaldo Pessoa, Jr, 2008, “Emergence of Autonomy in Contemporary Artificial Agents: Any Novelty?” *Cybernetics & Human Knowing*, 15(3–4): 42–49.
+* González Valerio, María Antonia and Polona Tratnik, 2023, *Through the Scope of Life. Art and (Bio)Technologies Philosophically Revisited*, Cham: Springer. doi:10.1007/978-3-031-31736-1
+* Granger, Gilles Gaston, 1955, *Lógica e Filosofia das Ciências*, São Paulo: Edições Melhoramentos.
+* Griffiths, Robert B., 2015, “Consistent Quantum Measurements”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 52: 188–197. doi:10.1016/j.shpsb.2015.07.002
+* Guerrero Pino, Germán, 2003, *Estudios Kuhnianos*, Santiago de Cali: Universidad del Valle.
+* –––, 2008, “Individuación de las teorías en el enfoque semántico”, *Principia: An International Journal of Epistemology*, 12(1): 97–119. doi:10.5007/1808-1711.2008v12n1p97
+* –––, 2010, “La Noción de Modelo en el Enfoque Semántico de las Teorías”, *Praxis Filosófica*, 31: 169–185. doi:10.25100/pfilosofica.v0i31.3434
+* Guillaumin, Godfrey, 2005, *El Surgimiento de la Noción de Evidencia. Un Estudio de Epistemología Histórica sobre la Idea de Evidencia Científica*, Mexico D.F.: UNAM.
+* –––, 2017, “Scientific Measurement as Cognitive Integration: The Role of Cognitive Integration in the Growth of Scientific Knowledge”, in *Reasoning in Measurement*, Nicola Mössner and Alfred Nordmann (eds.), London: Routledge, 189–202. doi:10.4324/9781781448717
+* Harding, Sandra, Tania Pérez-Bustos, and Manuela Fernández-Pinto, 2019, “Entangled Sciences of Gender, Sexuality and Race: Latin American Issues”, *Tapuya: Latin American Science, Technology and Society*, 2(1): 335–339. doi:10.1080/25729861.2019.1685754
+* Haselager, Willem and Maria Eunice Q. González 2007a, “The Meaningful Body: on Differences Between Artificial and Organic Creatures”, in *Artificial Cognition Systems*, Angelo Loula, Ricardo Gudwin, and João Queiroz (eds.), Hershey: Idea Group Publishers, 238–250.
+* –––, 2007b, “Mechanicism and Autonomy: What Can Robotics Teach Us about Human Cognition and Action?”, *Pragmatics & Cognition*, 15(3): 407–412. doi:10.1075/pc.15.3.02has
+* Hettema, Hinne, 2012, *Reducing Chemistry to Physics. Limits, Models, Consequences*, Groningen: Rijksuniversiteit Groningen.
+* –––, 2014, “Linking Chemistry with Physics: A Reply to Lombardi”, *Foundations of Chemistry*, 16(3): 193–200. doi:10.1007/s10698-014-9200-1
+* Hilb, C., 1994, “Equality and the Limit of Liberty”, in *The Making of Political Identities*, Ernesto Laclau (ed), London: Verso, 103–114.
+* Holik, Federico, Juan Pablo Jorge, Décio Krause, and Olimpia Lombardi, 2022, “Quasi-Set Theory: A Formal Approach to a Quantum Ontology of Properties”, *Synthese*, 200(5): #401. doi:10.1007/s11229-022-03884-8
+* Hutto, Daniel D. and Glenda Satne, 2017, “Demystifying Davidson: Radical Interpretation Meets Radical Enactivism”, *Argumenta*, 5(1): 127–144. doi:10.14275/2465-2334/20175.HUT
+* Inêz, Tiago Guimarães, Breno Pascal de Lacerda Brito, and Charbel N. El-Hani, 2023, “A Model for Teaching About the Nature of Science in the Context of Biological Education”, *Science & Education*, 32(1): 231–276. doi:10.1007/s11191-021-00285-0
+* Izquierdo-Aymerich, Mercè and Agustín Adúriz-Bravo, 2003, “Epistemological Foundations of School Science”, *Science & Education*, 12(1): 27–43. doi:10.1023/A:1022698205904
+* –––, 2009, “Physical Construction of the Chemical Atom: Is It Convenient to Go All the Way Back?”, *Science & Education*, 18(3–4): 443–455. doi:10.1007/s11191-008-9156-4
+* Jaimes Arriaga, Jesus Alberto, Sebastian Fortin, and Olimpia Lombardi, 2019, “A New Chapter in the Problem of the Reduction of Chemistry to Physics: The Quantum Theory of Atoms in Molecules”, *Foundations of Chemistry*, 21(1): 125–136. doi:10.1007/s10698-018-09332-1
+* Jaramillo Uribe, Juan Manuel, 2009, “Estructuralismo francés y estructuralismo metateórico”, *Discusiones Filosóficas*, 10(15): 23–50.
+* –––, 2014, “Realismo estructural y estructuralismo metateórico”, *Estudios de Filosofía*, 50: 171–193. doi:10.17533/udea.ef.21144
+* Jaramillo Uribe, Juan Manuel, Luz Marina Duque M., Omar Díaz Saldaña, Germán Guerrero Pino, Luis Humberto Hernández, Martín Johani Urquijo, and Adolfo León Gómez, 1997, *Thomas Kuhn*, Santiago de Cali: Universidad del Valle.
+* Kalpokas, Daniel, 2019, “Perception: A Blind Spot in Brandom’s Normative Pragmatics”, *Disputatio. Philosophical Research Bulletin*, 8(9): 237–258. doi:10.5281/zenodo.3236910
+* –––, 2020a, “Perception as a Propositional Attitude”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 35(2): 155–174. doi:10.1387/theoria.20574
+* –––, 2020b, “Two Versions of the Conceptual Content of Experience”, *International Journal of Philosophical Studies*, 28(1): 36–55. doi:10.1080/09672559.2019.1690542
+* –––, 2022a, “Perception as a Contentful Relation”, *European Journal of Philosophy*, 30(2): 740–754. doi:10.1111/ejop.12688
+* –––, 2022b, “Brandom on Perceptual Knowledge”, *Journal of Transcendental Philosophy*, 3(1): 49–70. doi:10.1515/jtph-2021-0018
+* Kent, Michael, Vivette García-Deister, Carlos López-Beltrán, Ricardo Ventura Santos, Ernesto Schwartz-Marín, and Peter Wade, 2015, “Building the Genomic Nation: ‘Homo Brasilis’ and the ‘Genoma Mexicano’ in Comparative Cultural Perspective”, *Social Studies of Science*, 45(6): 839–861. doi:10.1177/0306312715611262
+* Klier, Gabriela, Tomás Busan, Federico Di Pasquo, Paula Blois, Christian Francese, and Guillermo Folguera, 2017, “Natural Sciences and Environmental Issues: A Contribution from the Philosophy of Environmental Sciences”, *International Journal of Environment and Health*, 8(4): 255–271. doi:10.1504/IJENVH.2017.088112
+* Klimovsky, Gregorio, 1971, “Ciencia e ideología”, *Ciencia Nueva*, 10: 12–21. See in http://www.politicascti.net/images/ciencianueva/CIENCIANUEVA10.pdf
+* –––, 1994, *Las Desventuras del Conocimiento Científico. Una introducción a la epistemología*, Buenos Aires: A-Z Editora.
+* –––, 2008, *Mis Diversas Existencias. Apuntes para una autobiografía*, Buenos Aires: A-Z Editora.
+* Klimovsky, Gregorio and Guillermo Boido, 2005, *Las Desventuras del Conocimiento Matemático*, Buenos Aires: A-Z Editora.
+* Klimovsky, Gregorio and Cecilia Hidalgo, 1998, *La Inexplicable Sociedad*, Buenos Aires: A-Z Editora.
+* Klimovsky, Gregorio, Oscar Varsavsky, Jorge Schvarzer, Manuel Sadosky, Conrado Eggers Lan, Thomas Moro Simpson, and Rolando García, 1975, *Ciencia e Ideología. Aportes polémicos*, Buenos Aires: Ediciones Ciencia Nueva; [Klimovsky et al. 1975 available online](https://issuu.com/ciencianueva/docs/ciencia\e\ideologia-aportes\polemic).
+* Knuuttila, Tarja and Vivette García Deister, 2019, “Modelling Gene Regulation: (De)Compositional and Template-Based Strategies”, *Studies in History and Philosophy of Science Part A*, 77: 101–111. doi:10.1016/j.shpsa.2017.11.002
+* Krause, Décio, 1991, “Multisets, Quasi-Sets and Weyl’s Aggregates”, *The Journal of Non-Classical Logic*, 8(2): 9–39.
+* –––, 1992, “On a Quasi-Set Theory”, *Notre Dame Journal of Formal Logic*, 33(3): 402–411. doi:10.1305/ndjfl/1093634404
+* –––, 1996a, “Remarks on Individuation, Quantum Objects and Logic”, *Logique et Analyse*, 39(155–156): 325–333.
+* –––, 1996b, “Axioms for Collections of Indistinguishable Objects”, *Logique et Analyse*, 39(153–154): 69–93.
+* –––, 2000, “Remarks on Quantum Ontology”, *Synthese*, 125(1/2): 155–167. doi:10.1023/A:1005235125284
+* –––, 2022, “Quantifying Over Indiscernibles”, *Axiomathes*, 32(3): 931–946. doi:10.1007/s10516-022-09646-y
+* –––, 2023, “On Identity, Indiscernibility and (Non-)Individuality in the Quantum Domain”, *Philosophical Transactions of the Royal Society A*, 381(2255): #20220096. doi:10.1098/rsta.2022.0096
+* Krause, Décio and Jonas R. Becker Arenhart, 2012, “A Discussion on Quantum Non-Individuality”, *Journal of Applied Non-Classical Logics*, 22(1–2): 105–124. doi:10.1080/11663081.2012.682447
+* –––, 2014, “Separability and Non-Individuality: Is It Possible to Conciliate (at Least a Form of) Einstein’s Realism with Quantum Mechanics?”, *Foundations of Physics*, 44(12): 1269–1288. doi:10.1007/s10701-014-9808-y
+* –––, 2016a, “Individuality, Quantum Physics, and a Metaphysics of Nonindividuals”, in *Individuals Across the Sciences*, Alexandre Guay and Thomas Pradeu (eds.), Oxford: Oxford University Press, 61–82. doi:10.1093/acprof:oso/9780199382514.003.0005
+* –––, 2016b, *The Logical Foundations of Scientific Theories: Languages, Structures, and Models*, London: Routledge.
+* Krause, Décio, Jonas Becker Arenhart, and Otávio Bueno, 2022, “The Non-Individuals Interpretation of Quantum Mechanics”, in *The Oxford Handbook of the History of Quantum Interpretations*, Olival Freire Jr (ed.), Oxford: Oxford University Press, 1135–1154. doi:10.1093/oxfordhb/9780198844495.013.0047
+* Krause, Décio and Steven French, 1995, “A Formal Framework for Quantum Non-Individuality”, *Synthese*, 102(1): 195–214. doi:10.1007/BF01063905
+* –––, 2007, “Quantum Sortal Predicates”, *Synthese*, 154(3): 417–430. doi:10.1007/s11229-006-9127-8
+* Krause, Décio, Adonai S. Sant’Anna, and A. G. Volkov, 1999, “Quasi-Set Theory for Bosons and Fermions: Quantum Distributions”, *Foundations of Physics Letters*, 12(1): 51–66. doi:10.1023/A:1021678721611
+* Kreimer, Pablo and Hebe Vessuri, 2018, “Latin American Science, Technology, and Society: A Historical and Reflexive Approach”, *Tapuya: Latin American Science, Technology and Society*, 1(1): 17–37. doi:10.1080/25729861.2017.1368622
+* Kuechle, Graciela and Diego Ríos, 2015, “Optimization-Based Explanations”, *Philosophy of the Social Sciences*, 45(4–5): 481–496. doi:10.1177/0048393115586999
+* Labarca, Martín and Olimpia Lombardi, 2010, “Why Orbitals Do Not Exist?”, *Foundations of Chemistry*, 12(2): 149–157. doi:10.1007/s10698-010-9086-5
+* Lacey, Hugh and Pablo Rubén Mariconda, 2012, “The Eagle and the Starlings: Galileo’s Argument for the Autonomy of Science–How Pertinent Is It Today?”, *Studies in History and Philosophy of Science Part A*, 43(1): 122–131. doi:10.1016/j.shpsa.2011.10.012
+* –––, 2014a, “O modelo das interações entre as atividades científicas e os valores”, *Scientiae Studia*, 12(4): 643–668. doi:10.1590/S1678-31662014000500002
+* –––, 2014b, “O modelo da interação entre as atividades científicas e os valores na interpretação das práticas científicas contemporâneas”, *Estudos Avançados*, 28(82): 181–199. doi:10.1590/S0103-40142014000300012
+* –––, 2023, “Commercially-Oriented Technoscience and the Need for Multi-Strategic Research”, in *Portuguese Philosophy of Technology. Legacies and Contemporary Work from the Portuguese-Speaking Community*, Helena Mateus Jerónimo (ed.), Cham: Springer, 221–336. doi:10.1007/978-3-031-14630-5\_18
+* La Greca, María Inés, 2023, “The Other Side of The Linguistic Turn: Theory of History and the Negotiation of Humanity”, *Rethinking History*, 27(1): 3–25. doi: 10.1080/13642529.2022.2143672
+* Laspra, Belén and José Antonio López Cerezo (eds.), 2018, *Spanish Philosophy of Technology: Contemporary Work from the Spanish Speaking Community*, (Philosophy of Engineering and Technology 24), Cham: Springer International Publishing. doi:10.1007/978-3-319-71958-0
+* Laureano-Cruces, Ana Lilia and Axel Arturo Barceló-Aspeitia, 2003, “Formal Verification of Multi-Agent Systems Behaviour Emerging from Cognitive Task Analysis”, *Journal of Experimental & Theoretical Artificial Intelligence*, 15(4): 407–431. doi:10.1080/0952813031000119719
+* Lawler, Diego, 2018, “Praxeology Approaches Technology: The Ontology and Epistemology of Our Technological Practices”, in *Spanish Philosophy of Technology*, Belén Laspra and Jose Antonio López Cerezo (eds.), 17–30. doi:10.1007/978-3-319-71958-0\_2
+* Lazzarini, Andrés and Diego Weisman (eds.), 2012, *Perspectives on Epistemology of Economics. Essays on Methodology of Economics*, Buenos Aires: Facultad de Ciencias Económicas. \[[Lazzarini and Weisman (eds) 2012 available online](https://plato.stanford.edu/entries/phil-science-latin-america/)]
+* Leuschner, Anna and Manuela Fernández Pinto, 2021, “How Dissent on Gender Bias in Academia Affects Science and Society: Learning from the Case of Climate Change Denial”, *Philosophy of Science*, 88(4), 573–593. doi:10.1086/713903
+* –––, 2022, “Exploring the limits of dissent: the case of shooting bias”, *Synthese*, 200 (4):1–19. doi:10.1007/s11229-022-03783-y
+* Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell.
+* Lewowicz, Lucía, 2004, “El carácter no universal del lenguaje en las últimas obras de Kuhn”, *Análisis Filosófico*, 24(2): 195–214.
+* –––, 2005, *Del Relativismo Lingüístico al Relativismo Ontológico en el último Kuhn*, Montevideo: Universidad de la República.
+* –––, 2007, “Inconmensurabilidad y no solapamiento. Una ambigüedad planteada a través del concepto de categoría taxonómica en el último Kuhn”, in Pablo Lorenzano and Hernán Miguel (eds.), *Filosofía e Historia de la Ciencia en el Cono Sur*, Buenos Aires: CCC Educando, 293–300 .
+* Lewowicz, Lucía and Olimpia Lombardi, 2013, “Stuff versus Individuals”, *Foundations of Chemistry*, 15(1): 65–77. doi:10.1007/s10698-012-9152-2
+* Leyva, Gustavo, 2014, “Democracy in Latin America: An Unfinished Project”, *Journal of the British Society for Phenomenology*, 45(1): 59–71. doi:10.1080/00071773.2014.915643
+* Linares Salgado, Jorge Enrique, 2018, “The Promises of Synthetic Biology: New Bioartefacts and Their Ethical and Societal Consequences”, in *Spanish Philosophy of Technology*, Belén Laspra and Jose Antonio López Cerezo (eds.), 179–194. doi:10.1007/978-3-319-71958-0\_13
+* –––, 2019, *Adiós a la Naturaleza. La Revolución Bio-artefactual*, Madrid: Plaza & Valdés
+* Lombardi, Olimpia, 2004, “What Is Information?”, *Foundations of Science*, 9(2): 105–134. doi:10.1023/B:FODA.0000025034.53313.7c
+* –––, 2005, “Dretske, Shannon’s Theory and the Interpretation of Information”, *Synthese*, 144(1): 23–39. doi:10.1007/s11229-005-9127-0
+* –––, 2012, “Prigogine and the Many Voices of Nature”, *Foundations of Chemistry*, 14(3): 205–219. doi:10.1007/s10698-011-9140-y
+* –––, 2013, “Book Review: Hinne Hettema: *Reducing Chemistry to Physics. Limits, Models, Consequences*, Groningen: Rijksuniversiteit Groningen, Groningen, 2012”, *Hyle: International Journal for Philosophy of Chemistry*, 19(1): 135–137. \[[Lombardi 2013 available online](http://www.hyle.org/journal/issues/19-1/rev\lombardi.htm)]
+* –––, 2014a, “The Ontological Autonomy of the Chemical World: Facing the Criticisms”, in *Philosophy of Chemistry: Growth of a New Discipline*, Eric Scerri and Lee McIntyre (eds.), (Boston Studies in the Philosophy and History of Science 306), Dordrecht: Springer Netherlands, 23–38. doi:10.1007/978-94-017-9364-3\_3
+* –––, 2014b, “Linking Chemistry with Physics: Arguments and Counterarguments”, *Foundations of Chemistry*, 16(3): 181–192. doi:10.1007/s10698-013-9197-x
+* –––, 2023a, “Pluralist Realism: Where Onticity and Practice Meet”, in *Practical realist philosophy of science. Reflecting on Rein Vihalemm’s ideas*, Ave Mets, Endla Lõhkivi, Jaana Eigi-Watkin, and Peeter Müürsepp (eds.), Lanham (Maryland): Lexington Books, in press.
+* –––, 2023b,“A Kantian-Rooted Pluralist Realism for Science”, in *Current Debates in Philosophy of Science: In Honor of Roberto Torretti*, Cristián Soto (ed.), Synthese Library Series, Cham: Springer, 77–95. doi:10.1007/978-3-031-32375-1\_5
+* –––, 2023c, “ Not Individuals, Nor Even Objects: On the Ontological Nature of Quantum Systems”, in *Non-Reflexive Logics, Non-Individuals, and the Philosophy of Quantum Mechanics. Essays in Honour of the Philosophy of Décio Krause*, Jonas Becker Arenhart and Raoni Wohnrath Arroyo (eds.), Synthese Library Series, Cham: Springer, 45–77. doi:10.1007/978-3-031-31840-5\_4
+* –––, 2023d, “Entanglement and Indistinguishability: Facing Some Challenges from a New Perspective”, *Philosophical Transactions of the Royal Society A*, 381(2255): #20220101. doi:10.1098/rsta.2022.0101
+* Lombardi, Olimpia and Juan Sebastián Ardenghi, 2022, “How Different Interpretations of Quantum Mechanics Can Enrich Each Other: The Case of the Relational Quantum Mechanics and the Modal-Hamiltonian Interpretation”, *Foundations of Physics*, 52(3): #64. doi:10.1007/s10701-022-00580-y
+* Lombardi, Olimpia, Juan Sebastián Ardenghi, Sebastian Fortin, and Mario Castagnino, 2011, “Compatibility between Environment-Induced Decoherence and the Modal-Hamiltonian Interpretation of Quantum Mechanics”, *Philosophy of Science*, 78(5): 1024–1036. doi:10.1086/662253
+* Lombardi, Olimpia and Mario Castagnino, 2008, “A Modal-Hamiltonian Interpretation of Quantum Mechanics”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(2): 380–443. doi:10.1016/j.shpsb.2008.01.003
+* –––, 2010, “Matters Are Not so Clear on the Physical Side”, *Foundations of Chemistry*, 12(2): 159–166. doi:10.1007/s10698-010-9090-9
+* Lombardi, Olimpia, Mario Castagnino, and Juan Sebastián Ardenghi, 2010, “The Modal-Hamiltonian Interpretation and the Galilean Covariance of Quantum Mechanics”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 41(2): 93–103. doi:10.1016/j.shpsb.2010.02.002
+* Lombardi, Olimpia and Dennis Dieks, 2016, “Particles in a Quantum Ontology of Properties”, in *Metaphysics in Contemporary Physics*, Tomasz Bigaj and Christian Wüthrich (eds.), Leiden: Brill-Rodopi, 123–143. doi:10.1163/9789004310827\_007
+* Lombardi, Olimpia, Sebastian Fortin, and Mario Castagnino, 2012, “The Problem of Identifying the System and the Environment in the Phenomenon of Decoherence”, in *EPSA Philosophy of Science: Amsterdam 2009*, Henk W. de Regt, Stephan Hartmann, and Samir Okasha (eds.), Dordrecht: Springer Netherlands, 161–174. doi:10.1007/978-94-007-2404-4\_15
+* Lombardi, Olimpia, Sebastian Fortin, and Cristian López, 2015, “Measurement, Interpretation and Information”, *Entropy*, 17(12): 7310–7330. doi:10.3390/e17117310
+* –––, 2016, “Deflating the Deflationary View of Information”, *European Journal for Philosophy of Science*, 6(2): 209–230. doi:10.1007/s13194-015-0128-7
+* Lombardi, Olimpia, Sebastian Fortin, and Leonardo Vanni, 2015, “A Pluralist View about Information”, *Philosophy of Science*, 82(5): 1248–1259. doi:10.1086/683650
+* Lombardi, Olimpia, Federico Holik, and Leonardo Vanni, 2016a, “What Is Shannon Information?”, *Synthese*, 193(7): 1983–2012. doi:10.1007/s11229-015-0824-z
+* –––, 2016b, “What Is Quantum Information?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 56: 17–26. doi:10.1016/j.shpsb.2016.10.001
+* Lombardi, Olimpia and Martín Labarca, 2005, “The Ontological Autonomy of the Chemical World”, *Foundations of Chemistry*, 7(2): 125–148. doi:10.1007/s10698-004-0980-6
+* –––, 2006, “The Ontological Autonomy of the Chemical World: A Response to Needham”, *Foundations of Chemistry*, 8(1): 81–92. doi:10.1007/s10698-005-9004-4
+* Lombardi, Olimpia and Cristian López, 2018, “What Does ‘Information’ Mean in Integrated Information Theory?”, *Entropy*, 20(12): 894–912. doi:10.3390/e20120894
+* Lombardi, Olimpia and Chérif Matta, 2022, “Coarse-graining and the Quantum Theory of Atoms in Molecules”, in *Philosophical Perspectives in Quantum Chemistry*, Olimpia Lombardi, Juan Camilo Martínez González, and Sebastian Fortin (eds.), Synthese Library Series, Cham: Springer, 217–241. doi:10.1007/978-3-030-98373-4\_10
+* Lombardi, Olimpia and Ana Rosa Pérez Ransanz, 2012, *Los Múltiples Mundos de la Ciencia. Un Realismo Pluralista y su Aplicación a la Filosofía de la Física*, México: UNAM-Siglo XXI.
+* López, Cristian, 2019, “Roads to the past: how to go and not to go backward in time in quantum theories”, *European Journal for Philosophy of Science*, 9: art. 27. doi:10.1007/s13194-019-0250-z
+* –––, 2021a, “Three Facets of Time-Reversal Symmetry”, *European Journal for Philosophy of Science*, 11(2): #51. doi:10.1007/s13194-021-00355-8
+* –––, 2021b, “The Physics and Philosophy of Time Reversal in Standard Quantum Mechanics”, *Synthese*, 199(5-6): 14267–14292. doi:10.1007/s11229-021-03420-0
+* –––, 2022a, “Time’s Direction and Orthodox Quantum Mechanics: Time Symmetry and Measurement”, *Journal for General Philosophy of Science*, 53(4): 421–440. doi:10.1007/s10838-021-09582-2
+* –––, 2022b, “Spontaneous Collapse Theories and Primitivism About Time’s Direction”. *Foundations of Physics*, 52(5): #112. doi:10.1007/s10701-022-00632-3
+* –––, 2023a, “The Metaphysical Under-Determination of Time Reversal”, *Synthese*, 201(1): #29. doi:10.1007/s11229-023-04039-z
+* –––, 2023b, “Should Physical Symmetries Guide Metaphysics? Two Reasons Why They Should Maybe Not”, *European Journal for the Philosophy of Science*, 13(2): #23. doi:10.1007/s13194-023-00525-w
+* López, Cristian and Michael Esfeld, 2023, “Humean Time Reversal”. *Synthese*, 202: #31. doi:10.1007/s11229-023-04247-7
+* López, Cristian and Olimpia Lombardi, 2019, “No Communication without Manipulation: A Causal-Deflationary View of Information”, *Studies in History and Philosophy of Science Part A*, 73: 34–43. doi:10.1016/j.shpsa.2018.06.003
+* López Austin, Alfredo, 2005, *El Modelo en la Ciencia y la Cultura*, México D.F.: UNAM-Siglo XXI.
+* López-Beltrán, Carlos, 1994, “Forging Heredity: From Metaphor to Cause, a Reification Story”, *Studies in History and Philosophy of Science Part A*, 25(2): 211–235. doi:10.1016/0039-3681(94)90028-0
+* –––, 2006, “Storytelling, Statistics and Hereditary Thought: The Narrative Support of Early Statistics”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(1): 41–58. doi:10.1016/j.shpsc.2005.12.003
+* Lorenzano, Pablo, 1998, “Sobre las leyes en la biología”, *Episteme (Porto Alegre)*, 3(7): 261–272.
+* –––, 2007, “Leyes fundamentales y leyes de la biología”, *Scientiae Studia*, 5(2): 185–214. doi:10.1590/S1678-31662007000200004
+* –––, 2013, “The Semantic Conception and the Structuralist View of Theories: A Critique of Suppe’s Criticisms”, *Studies in History and Philosophy of Science Part A*, 44(4): 600–607. doi:10.1016/j.shpsa.2013.09.001
+* –––, 2014, “What Is the Status of the Hardy-Weinberg Law within Population Genetics?”, in *European Philosophy of Science: Philosophy of Science in Europe and the Viennese Heritage*, Maria Carla Galavotti, Elisabeth Nemeth, and Friedrich Stadler (eds.), Cham: Springer International Publishing, 159–172. doi:10.1007/978-3-319-01899-7\_11
+* –––, 2023a, “Paradigm”, in *The SAGE Encyclopedia of Theory in Science, Technology, Engineering, and Mathematics*, James Mattingly (ed.), Thousand Oaks, CA: SAGE Publications, 633–638. doi: 10.4135/9781071872383.n145
+* –––, 2023b, “Philosophy of Biology in Latin America”, *The Stanford Encyclopedia of Philosophy* (Fall 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2023/entries/phil-bio-latin-america/](https://plato.stanford.edu/archives/fall2023/entries/phil-bio-latin-america/)
+* Lorenzano, Pablo and José Díez, 2002, “La concepción estructuralista en el contexto de la filosofía de la ciencia del siglo XX”, in Pablo Lorenzano and José Díez (eds.), *Desarrollos Actuales de la Metateoría Estructuralista: Problemas y Discusiones*, Buenos Aires: Universidad Nacional de Quilmes, 13–78.
+* –––, 2022, “Scientific Explanation as Ampliative, Specialized Embedding: The Case of Classical Genetics”, *Synthese*, 200(6): #510. doi: 10.1007/s11229-022-03983-6
+* Losada, Marcelo and Olimpia Lombardi, 2018, “Histories in Quantum Mechanics: Distinguishing between Formalism and Interpretation”, *European Journal for Philosophy of Science*, 8(3): 367–394. doi:10.1007/s13194-017-0197-x
+* Ludwig, David and Charbel El-Hani, 2020, “Philosophy of Ethnobiology: Understanding Knowledge Integration and Its Limitations”, *Journal of Ethnobiology*, 40(1): 3–20. doi:10.2993/0278-0771-40.1.3
+* Lythgoe, Esteban, 2011, “Ricoeur’s Concept of Testimony”, *Analecta Hermeneutica*, 3: lythgoe. \[[Lythgoe 2011 available online](https://journals.library.mun.ca/ojs/index.php/analecta/issue/view/33/showToc)]
+* –––, 2014, “Social Imagination, Abused Memory, and the Political Place of History in Memory, History, Forgetting”, *Études Ricoeuriennes / Ricoeur Studies*, 5(2): 35–47. doi:10.5195/ERRS.2014.249
+* Maffía, Diana H., 2001, “Conocimiento y subjetividad”, in *Ciencia y Género*, Eulalia Pérez Sedeño and Paloma Alcalá Cortijo (eds.), Madrid: Universidad Complutense, 329–333.
+* –––, 2005, “Conocimiento y emoción”, *Arbor: Ciencia Pensamiento y Cultura*, 181(716): 515–521. doi:10.3989/arbor.2005.i716.408
+* –––, 2006, “El vínculo crítico entre género y ciencia”, *Clepsydra: Revista de Estudios de Género y Teoría Feminista*, 5: 37–57.
+* –––, 2007, “Epistemología feminista: la subversión semiótica de las mujeres en la ciencia”, *Revista Venezolana de Estudios de la Mujer*, 12(28): 63–98.
+* Maltrana, Diego, 2015, “Symmetries as By-Products of Conserved Quantities, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 52: 358–368. doi:10.1016/j.shpsb.2015.10.006
+* Maltrana, Diego, Manuel Herrera, and Federico Benitez, 2022, “Einstein’s Theory of Theories and Mechanicism”, *International Studies in the Philosophy of Science*, 35(2): 153–170. doi:10.1080/02698595.2022.2130661
+* Maltrana, Diego and Nicolás Sepúlveda-Quiroz, 2022, “The Heuristic Power of Theory Classification, the Case of General Relativity” *Foundations of Physics*, 52(4): #94. doi:10.1007/s10701-022-00614-5
+* Manero, Jorge, 2019, “Imprints of the Underlying Structure of Physical Theories”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 68: 71–89. doi:10.1016/j.shpsb.2019.06.005
+* –––, “Quantum Pointillism with Relational Identity”, *Synthese*, 199(3-4): 10639–10666. doi:10.1007/s11229-021-03262-w
+* Marcos, Alfredo and Ana Rosa Pérez Ransanz, 2015, “La Filosofía de la Ciencia en Iberoamérica en el Siglo XX”, en *Filosofía Iberoamericana del siglo XX. Filosofía Teórica e Historia de la Filosofía*, Reyes Mate, Osvaldo Guariglia, and León Olivé (eds.), *Enciclopedia Iberoamericana de Filosofía*, Madrid: Trotta-CSIC, 171–230
+* Marcos, João, 2009, “What Is a Non-Truth-Functional Logic?”, *Studia Logica*, 92(2): 215–240. doi:10.1007/s11225-009-9196-z
+* Mariconda, Pablo Rubén, 1999, “Galileu e a teoria das marés”, *Cadernos de História e Filosofia da Ciência*, 9(1–2): 33–71.
+* –––, 2008, “*As Mecânicas* de Galileu: as máquinas simples e a perspectiva técnica moderna”, *Scientia Studia*, 6(4): 565–606. doi:10.1590/S1678-31662008000400006
+* –––, 2014, “Technological Risks, Transgenic Agriculture and Alternatives”, *Scientiae Studia*, 12(spe): 75–104. doi:10.1590/S1678-31662014000400005
+* Marques, Beatriz Sorrentino and Osvaldo Frota Pessoa, 2017, “Presuppositions about the Role of Consciousness in the Agent Causation Conception of Agents and the Problem of the Disappearing Agent”, *Cognitive Systems Research*, 43: 45–52. doi:10.1016/j.cogsys.2016.12.003
+* Martínez, Isabel C., Silvia A. Español, and Diana I. Pérez, 2018, “The Interactive Origin and the Aesthetic Modelling of Image-Schemas and Primary Metaphors”, *Integrative Psychological and Behavioral Science*, 52(4): 646–671. doi:10.1007/s12124-018-9432-z
+* Martínez, Maximiliano and Maurizio Esposito, 2014, “Multilevel Causation and the Extended Synthesis”, *Biological Theory*, 9(2): 209–220. doi:10.1007/s13752-014-0161-3
+* Martínez, Maximiliano and Andrés Moya, 2011, “Natural Selection and Multi-Level Causation”, *Philosophy and Theory in Biology*, 3: art. 2. doi:10.3998/ptb.6959004.0003.002
+* Martínez, Sergio F., 1990, “A Search for the Physical Content of Luders’ Rule”, *Synthese*, 82(1): 97–125. doi:10.1007/BF00413671
+* –––, 1991, “Lüders’s Rule as a Description of Individual State Transformations”, *Philosophy of Science*, 58(3): 359–376. doi:10.1086/289622
+* –––, 1997, *De los Efectos a las Causas*, México D. F.: UNAM-Paidós.
+* –––, 2003, *Geografía de las Prácticas Científicas: Racionalidad, Heurística y Normatividad*, México D.F.: UNAM.
+* –––, 2013, “Technological Scaffoldings for the Evolution of Culture and Cognition”, in *Developing Scaffolds in Evolution, Culture, and Cognition*, Linnda R. Caporael, James R. Griesemer, and William C. Wimsatt (eds.), Cambridge MA: MIT Press, 249–264. doi:10.7551/mitpress/9780262019552.003.0012
+* –––, 2019, “What is Innovation: New Lessons from Biology”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 34(3): 343–355. doi:10.1387/theoria.18863
+* Martínez, Sergio and Natalia Carrillo, 2022, “The Metaphoric Sources of Scientific Innovation”, in *Metaphors and Analogies in Sciences and Humanities*, Shyam Wuppuluri and A. C. Grayling (eds.), Synthese Library Series, Cham: Springer, 33–47. doi:10.1007/978-3-030-90688-7\_2
+* Martínez, Sergio and Xiang Huang, 2011, “Epistemic Groundings of Abstraction and Their Cognitive Dimension”, *Philosophy of Science*, 78(3): 490–-511. doi:10.1086/660305
+* Martínez González, Juan Camilo, 2020, “About the Ontology of Quantum Chemistry”, *Tópicos*, 58: 325–348. doi:10.21555/top.v0i58.1045
+* Martínez González, Juan Camilo, Sebastian Fortin, and Olimpia Lombardi, 2019, “Why Molecular Structure Cannot Be Strictly Reduced to Quantum Mechanics”, *Foundations of Chemistry*, 21(1): 31–45. doi:10.1007/s10698-018-9310-2
+* Martínez-Ordaz, María del Rosario, 2021, “The Ignorance Behind Inconsistency Toleration”, *Synthese*, 198(9): 8665–8686. doi:10.1007/s11229-020-02593-4
+* –––, 2022a, “A Methodological Shift in Favor of (Some) Paraconsistency in the Sciences”, *Logica Universalis*, 16(1): 335–354. doi:10.1007/s11787-022-00302-y
+* –––, 2022b, “Is There Anything Special About the Ignorance Involved in Big Data Practices?”, in *Philosophy of Computing*, Björn Lundgren and Nancy Abigail Nuñez Hernández (eds.), *Philosophy of Computing*. Cham: Springer, Cham, 113–140. doi:10.1007/978-3-030-75267-5\_4
+* –––, 2023, “Scientific Understanding Through Big Data: From Ignorance to Insights to Understanding”, *Possibility Studies & Society*, 1(3): 279–299. doi:10.1177/27538699231176523
+* Matta, Chérif, Olimpia Lombardi, and Jesús Jaimes Arriaga, 2020, “Two-Step Emergence: The Quantum Theory of Atoms in Molecules as a Bridge Between Quantum Mechanics and Molecular Chemistry”, *Foundations of Chemistry*, 22(1): 107–129. doi:10.1007/s10698-020-09352-w
+* Maudlin, Tim, Elías Okon, and Daniel Sudarsky, 2020, “On the Status of Conservation Laws in Physics: Implications for Semiclassical Gravity”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 69: 67–81. doi:10.1016/j.shpsb.2019.10.004
+* Mc Manus, Fabrizzio (now Siobhan) Guerrero, 2009, “Rational Disagreements in Phylogenetics”, *Acta Biotheoretica*, 57(1–2): 99–127. doi:10.1007/s10441-009-9072-2
+* –––, 2012, “Development and Mechanistic Explanation”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(2): 532–541. doi:10.1016/j.shpsc.2011.12.001
+* –––, 2014, “Homosexuality, Homophobia, and Biomedical Sciences in Twentieth Century Mexico”, *Sexuality & Culture*, 18(2): 235–256. doi:10.1007/s12119-013-9193-2
+* –––, 2016, “Los géneros del saber: feminismo analítico, filosofía de la ciencia y conocimiento científico”, *INTERdisciplina*, 4(8): 59–87. doi:10.22201/ceiich.24485705e.2016.8.54969
+* Mc Manus, Siobhan Guerrero, 2018, “Biological Explanations and Their Limits: Paleoanthropology Among the Sciences”, in *Rethinking Human Evolution*, Jeffrey Schwartz (ed.), Cambridge, MA: The MIT Press, 31–52. doi:10.7551/mitpress/11032.003.0004
+* –––, 2019, “Transgenderism and Transracialism: Ontological Contrasts between Gender and Race”, *Diánoia*, 64(82): 3–30. doi:10.22201/iifs.18704913e.2019.82.1633
+* Melogno, Pablo, 2022, “From Externalism to Internalism: The Historiographical Development of Thomas Kuhn”, *Foundations of Science*, 27(2): 371–385. doi:10.1007/s10699-021-09801-5
+* Melogno, Pablo and Leandro Giri, 2023, “Towards a Genealogy of Thomas Kuhn’s Semantics”, *Perspectives on Science*, 31(4): 385–404. doi:10.1162/posc\_a\_00591
+* Melogno, Pablo, Hernán Miguel, and Leandro Giri (eds.), 2022, *Perspectives on Kuhn. Contemporary Approaches to the Philosophy of Thomas Kuhn*, Cham: Springer. doi:10.1007/978-3-031-16371-5
+* Mercado, Alexis, Karenia Córdova, and Hebe Vessuri, 2022, “The Technology of Need: Technology of Sustainability?”, *Tapuya: Latin American Science, Technology and Society*, 5: #041789. doi:10.1080/25729861.2022.2041789
+* Meyer, Lia Midori Nascimento, Gilberto Cafezeiro Bomfim, and Charbel Niño El-Hani, 2013, “How to Understand the Gene in the Twenty-First Century?”, *Science & Education*, 22(2): 345–374. doi:10.1007/s11191-011-9390-z
+* Mikenberg, Irene, Newton C. A. da Costa, and Rolando Chuaqui, 1986, “Pragmatic Truth and Approximation to Truth”, *Journal of Symbolic Logic*, 51(1): 201–221. doi:10.2307/2273956
+* Miró-Quesada, Francisco, 1954, *Filosofía de las Matemáticas*, Lima:UNMSM.
+* –––, 1962, *Apuntes para una Teoría de la Razón*, Lima: UNMSM.
+* –––, 2013, *Esquema de una Teoría de la Razón*, Lima: Universidad Ricardo Palmaem.
+* Montano, Ulianov, 2014, *Explaining Beauty in Mathematics: An Aesthetic Theory of Mathematics*, Synthese Library Series. Cham: Springer. doi:10.1007/978-3-319-03452-2
+* Moreira-dos-Santos, Frederik and Charbel N. El-Hani, 2017, “Belief, Knowledge and Understanding: How to Deal with the Relations Between Different Cultural Perspectives in Classrooms”, *Science & Education*, 26(3–4): 215–245. doi:10.1007/s11191-017-9891-5
+* Moro, Rodrigo, Gustavo A. Bodanza, and Esteban Freidin, 2011, “Sets or Frequencies? How to Help People Solve Conditional Probability Problems”, *Journal of Cognitive Psychology*, 23(7): 843–857. doi:10.1080/20445911.2011.579072
+* Mortari, Cezar A., 2007, “Restricted Classical Modal Logics”, *Logic Journal of IGPL*, 15(5–6): 741–757. doi:10.1093/jigpal/jzm046
+* Moulines, C. Ulises, 1982, *Exploraciones Metacientíficas*, Madrid: Alianza Editorial.
+* Muciño, Ricardo and Elías Okon, 2020, “Wigner’s Convoluted Friends”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 72: 87–90. doi:10.1016/j.shpsb.2020.07.001
+* Muciño, Ricardo, Elías Okon, and Daniel Sudarsky, 2022, “Assessing Relational Quantum Mechanics”, *Synthese*, 200(5), #399. doi:10.1007/s11229-022-03886-6
+* Mudrovcic, María Inés, 2013, “About Lost Futures or the Political Heart of History”, *Historein*, 14(1): 7–21. doi:10.12681/historein.228
+* –––, 2014, “Time, History, and Philosophy of History”, *Journal of the Philosophy of History*, 8(2): 217–242. doi:10.1163/18722636-12341272
+* –––, 2019, “The Politics of Time, The Politics of History: Who Are My Contemporaries?”, *Rethinking History*, 23(4): 456–473, doi:10.1080/13642529.2019.1677295
+* Munévar, Gonzalo, 1981, *Radical Knowledge: A Philosophical Inquiry into the Nature and Limits of Science*, Indianapolis: Hackett Publishing.
+* –––, 1998, *Evolution and the Naked Truth: A Darwinian Approach to Philosophy*, Aldershot: Taylor and Francis.
+* –––, 2006, *Variaciones sobre Temas de Feyerabend*, Cali: Programa Editorial Universidad del Valle.
+* Nachman, Robert G., 1977, “Positivism, Modernization, and the Middle Class in Brazil”, *The Hispanic American Historical Review*, 57(1): 1–23. doi:10.2307/2513540
+* Naishtat, Francisco S., 2000, “Continuity of Political Philosophy: War and Peace in Secularized Politics”, *Diogenes*, 48(192): 76–85. doi:10.1177/039219210004819207
+* –––, 2010a, “Governance, Sovereignty and Profane Hope in a Globalised Catastrophe-World”, *Diogenes*, 57(4): 46–55. doi:10.1177/0392192112436455
+* –––, 2010b, “The Figures of Terror and the Philosophical Debate on Modernity”, in *Terror, Terrorism, States and Societies. A Historical and Philosophical Perspective*, Samir Kumar Das and Rada Iveković (eds.), New Delhi: Women Unlimited, 284–294.
+* –––, 2011, “Global Justice and Politics: on the Transition from the Normative to the Political Level”, in *The Borders of Justice*, Étienne Balibar, Sandra Mezzadra, and Ranabir Samaddar (eds.), Philadelphia: Temple University Press, 33–51.
+* –––, 2012, “The Problematic Reception of Latin American Emancipation in Marx’a Historiography”, in *New Perspectives in Global History*, Daniel Brauer, Iwan D’Aprile, Günther Lottes, and Concha Roldán (eds.), Hannover: Wehrhahn Verlag, 49–64.
+* –––, 2018, “The Crisis of Historical Time at the Beginning of the Twentieth Century: An Early Counterpoint Between Benjamin and Heidegger as a Crucial Issue for Thinking Modernity, Globalization and its Historical Space”, in *Philosophy of Globalization*, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin-Boston: De Gruyter, 435–448. doi:10.1515/9783110492415-032
+* Needham, Paul, 2006, “Ontological Reduction: A Comment on Lombardi and Labarca”, *Foundations of Chemistry*, 8(1): 73–80. doi:10.1007/s10698-005-9002-6
+* Nieto Olarte, Mauricio, 2000, *Remedios para el Imperio: Historia Natural y la Apropiación del Nuevo Mundo*, Bogotá: Instituto Colombiano de Antropología e Historia.
+* –––, 2007, *Orden Natural y Orden Social: Ciencia y Política en el Semanario del Nuevo Reino de Granada*, Madrid: CSIC.
+* Nieves Delgado, Abigail, 2018, “Science, Politics and the Production of Biological Knowledge: New Trends and Old Challenges”, *Journal for General Philosophy of Science*, 49(3): 467–473. doi:10.1007/s10838-018-9406-3
+* Nieves Delgado, Abigail, David Ludwig, and Charbel El-Hani, 2023, “Pluralist Ethnobiology: Between Philosophical Reflection and Transdisciplinary Action”, *Journal of Ethnobiology*, 43(3): 1–7. doi:10.1177/02780771231194774
+* Nudler, Oscar, 1990, “On Conflicts and Metaphors: Toward an Extended Rationality”, in *Conflict: Human Needs Theory*, John Burton (ed.), London: Palgrave Macmillan UK, 177–201. doi:10.1007/978-1-349-21000-8\_9
+* –––, 2002, “Campos controversiales y progreso en filosofía”, *Manuscrito: Revista Internacional de Filosofia*, 25(2): 337–352.
+* –––, 2004, “Hacia un modelo de cambio conceptual: espacios controversiales y refocalización”, *Revista de Filosofía*, 29(2): 7–19.
+* ––– (ed.), 2011, *Controversy Spaces. A Model of Scientific and Philosophical Change*, Amsterdam-Philadelphia: John Benjamin.
+* Nunes-Neto, Nei, Alvaro Moreno, and Charbel N. El-Hani, 2014, “Function in Ecology: An Organizational Approach”, *Biology & Philosophy*, 29(1): 123–141. doi:10.1007/s10539-013-9398-7
+* Núñez Jover, Jorge, 1985, *Indagaciones Metodológicas Acerca de las Revoluciones Científicas. Filosofía y Ciencia*, La Habana: Editorial de Ciencias Sociales.
+* –––, 1989, *Interpretación Teórica de la Ciencia*, La Habana: Editorial de Ciencias Sociales.
+* Okon, Elias and Daniel Sudarsky, 2014a, “On the Consistency of the Consistent Histories Approach to Quantum Mechanics”, *Foundations of Physics*, 44(1): 19–33. doi:10.1007/s10701-013-9760-2
+* –––, 2014b, “Measurements According to Consistent Histories”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 48: 7–12. doi:10.1016/j.shpsb.2014.08.011
+* –––, 2014c, “Benefits of Objective Collapse Models for Cosmology and Quantum Gravity”, *Foundations of Physics*, 44(2): 114–143. doi:10.1007/s10701-014-9772-6
+* –––, 2015a, “The Consistent Histories Formalism and the Measurement Problem”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 52: 217–222. doi:10.1016/j.shpsb.2015.07.008
+* –––, 2015b, “The Black Hole Information Paradox and the Collapse of the Wave Function”, *Foundations of Physics*, 45(4): 461–470. doi:10.1007/s10701-015-9877-6
+* –––, 2017, “Black Holes, Information Loss and the Measurement Problem”, *Foundations of Physics*, 47(1): 120–131. doi:10.1007/s10701-016-0048-1
+* –––, 2018a, “The Weight of Collapse: Dynamical Reduction Models in General Relativistic Contexts”, in *Collapse of the Wave Function: Models, Ontology, Origin, and Implications*, Shan Gao (ed.), Cambridge University Press, 312–345. doi:10.1017/9781316995457.018
+* –––, 2018b, “Losing Stuff Down a Black Hole”, *Foundations of Physics*, 48(4): 411–428. doi:10.1007/s10701-018-0154-3
+* Oldofredi, Andrea and Cristian López, 2020, “On the Classification Between y-Ontic and y-Epistemic Ontological Models”, *Foundations of Physics*, 50(11): 1315–1345. doi:10.1007/s10701-020-00377-x
+* Olivé, León, 1988 \[1993], *Conocimiento, Sociedad y Realidad. Problemas del Análisis Social del Conocimiento y el Realismo Científico*, México, D.F.: Fondo de Cultura Económica. Translated as *Knowledge, Society and Reality: Problems of the Social Analysis of Knowledge and of Scientific Realism*, David Sosa (trans.), Amsterdam: Rodopi, 1993.
+* –––, 2000, *El Bien, el Mal y la Razón: Facetas de la Ciencia y de la Tecnología*, México: Paidós.
+* –––, 2007, *La Ciencia y la Tecnología en la Sociedad del Conocimiento: Ética, Política y Epistemología*, México: Fondo de Cultura Económica.
+* Orozco-Echeverri, Sergio, 2023, “Popular Science as Knowledge: Early Modern Iberian-American *Repertorios De Los Tiempos*”, *Galilaeana*, 20(1): 34–61. doi:10.57617/gal-4
+* Orozco-Echeverri, Sergio and Sebastián Molina-Betancur, 2019, “José Celestino Mutis’ Appropriation of Newton’s Experimental Physics in New Granada (1761-1808)”, *History of Science*, 57(3): 291–323. doi:10.1177/0073275319827203
+* –––, 2021, “A *Mestizo* Cosmographer in the New Kingdom of Granada: Astronomy and Chronology in Sánchez de Cozar Guanientá’s Tratado (c.1696)”, *Annals of Science*, 78(3): 295–333, doi:10.1080/00033790.2021.1944667
+* Ortiz-Revilla, Jairo, Agustín Adúriz-Bravo, and Ileana M. Greca, 2020, “Framework for Epistemological Discussion on Integrated STEM Education”, *Science & Education*, 29(4): 857–880. doi:10.1007/s11191-020-00131-9
+* Osorio Marulanda, Carlos Augusto, 2018, “Philosophy of Activism and Community Management in Water Systems”, in *Spanish Philosophy of Technology*, Belén Laspra and Jose Antonio López Cerezo (eds.), 211–222. doi:10.1007/978-3-319-71958-0\_15
+* Otero, Mario H. (ed.), 1997, *Kuhn Hoy*, Montevideo: Universidad de la República.
+* Oyarzún R., Pablo, 2007, “Memory, Moment, and Tears: A Speculative Approach to the Problem of Latin American Singularities”, *CR: The New Centennial Review*, 7(3): 1–20. doi:10.1353/ncr.0.0000
+* –––, 2012, “On the Concept of Authority”, *CR: The New Centennial Review*, 11(3): 225–252. doi:10.1353/ncr.2012.0017
+* –––, 2017, “Fear and Abyss: Two Figures of Power”, *CR: The New Centennial Review*, 17(3): 219–235.
+* Páez, Andrés, 2006, *Explanations in K. An Analysis of Explanation as a Belief Revision Operation*, Oberhausen: Athena Verlag.
+* –––, 2009, “Artificial Explanations: The Epistemological Interpretation of Explanation in AI”, *Synthese*, 170(1): 131–146. doi:10.1007/s11229-008-9361-3
+* –––, 2019, “The Pragmatic Turn in Explainable Artificial Intelligence (XAI)”, *Minds & Machines*, 29(3): 441–459. doi:10.1007/s11023-019-09502-w
+* Palti, Elías José, 2004, “The ‘Return of the Subject’ As a Historico-Intellectual Problem”, *History and Theory*, 43(1): 57–82. doi:10.1111/j.1468-2303.2004.00265.x
+* –––, 2005, “On the Thesis of the Essential Contestability of Concepts, and 19th Century Latin American Intellectual History”, *Redescriptions: Political Thought, Conceptual History and Feminist Theory*, 9(1): 113–134. doi:10.7227/R.9.1.7
+* –––, 2006, “The Problem of ‘Misplaced Ideas’ Revisited: Beyond the ‘History of Ideas’ in Latin America”, *Journal of the History of Ideas*, 67(1): 149–179. doi:10.1353/jhi.2006.0009
+* –––, 2009, “Beyond Revisionism: The Bicentennial of Independence, the Early Republican Experience, and Intellectual History in Latin America”, *Journal of the History of Ideas*, 70(4): 593–614. doi:10.1353/jhi.0.0058
+* –––, 2010, “From Ideas to Concepts to Metaphors: The German Tradition of Intellectual History and the Complex Fabric of Language”, *History and Theory*, 49(2): 194–211. doi:10.1111/j.1468-2303.2010.00539.x
+* –––, 2014, “The ‘Theoretical Revolution’ in Intellectual History: From the History of Political Ideas to the History of Political Languages”, *History and Theory*, 53(3): 387–405. doi:10.1111/hith.10719
+* –––, 2018, “Koselleck—Foucault: The Birth and Death of Philosophy of History”, in *Philosophy of Globalization*, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 409–422. doi:10.1515/9783110492415-030
+* –––, 2021, “Deleuze’s Foucault: On the Possibility of an Outside of Knowledge/Power”, *History and Theory, Studies in the Philosophy of History*, 60(4): 20–35. doi:10.1111/hith.12234
+* Parente, Diego, 2018, “Synthetic Life: Organisms, Machines, and the Nature of Synthetic Biology Products”, in *Spanish Philosophy of Technology*, Belén Laspra and Jose Antonio López Cerezo (eds.), 31–41. doi:10.1007/978-3-319-71958-0\_3
+* Pedace, Karina, Tomás Balmaceda, Diego Lawler, Diana I. Pérez , and Maximiliano Zeller, 2020, “Natural Born Transhumans”, *Revista de Filosofia Aurora*, 32(55): 112–131. doi:10.7213/1980-5934.32.055.ds07
+* Pelegrin, Diego and Christián Carman, 2019, “*Accurata delineatio motuum stellae Martis*: How Accurate Is Kepler’s Pretzel Diagram?”, *Isis*, 110(4): 726–741. doi:10.1086/706936
+* Pérez, Moira, 2023, “Contracting Imaginations: On the Political and Hermeneutical Monopoly of Identity Politics”, *Dialectical Anthropology*, 47: 85–96. doi: 10.1007/s10624-023-09683-y
+* Pérez Ransanz, Ana Rosa, 1985, “El Concepto de Teoría Empírica según van Fraassen”, *Crítica*, 17(51): 3–12 (English version: 13–19). doi:10.22201/iifs.18704905e.1985.578
+* –––, 1999, *Kuhn y el Cambio Científico*, México, D.F.: Fondo de Cultura Económica. Reprinted in 2000 and 2012.
+* Pérez Ransanz, Ana Rosa and Cristina Di Gregori, 2012, “Experience, Emotions and Creativity”, in *The Paths of Creation. Creativity in Science and Art*, Sixto Castro and Alfredo Marcos (eds.), Berna: Peter Lang, 97–114. doi:10.3726/978-3-0351-0307-6
+* Pérez Ransanz, Ana Rosa and Ambrosio Velasco Gómez (eds.), 2011, *Racionalidad en Ciencia y Tecnología. Nuevas Perspectivas Iberoamericanas*, México D.F.: UNAM.
+* Pessoa Jr., Osvaldo, 1997, “Can the Decoherence Approach Help to Solve the Measurement Problem?”, *Synthese*, 113(3): 323–346. doi:10.1023/A:1004994303863
+* –––, 2005, “Towards a Modal Logical Treatment of Quantum Physics”, *Logic Journal of the IGPL*, 13(1): 139–147. doi:10.1093/jigpal/jzi009
+* Piaget, Jean and Rolando García, 1971, *Les Explications Causales*, Paris: Presses Universitaires de France.
+* –––, 1983, *Psychogenèse et Histoire des Sciences*, Paris: Flammarion.
+* –––, 1987, *Vers une Logique des Significations*, Gêneve: Murionde Science Nouvelle.
+* Picollo, Lavinia María, 2013, “Yablo’s Paradox in Second-Order Languages: Consistency and Unsatisfiability”, *Studia Logica*, 101(3): 601–617. doi:10.1007/s11225-012-9399-6
+* Piscoya, Luis, 1993, *Metapedagogía: un Análisis de las Denominadas Ciencias de la Educación*, Lima: Ediciones Episteme.
+* –––, 1995, *Investigación Científica y Educacional: un Enfoque Epistemológico*, Lima: Amaru Editores.
+* Poliseli, Luana, Jeferson Coutinho, Blandina Viana, Federica Russo, and Charbel N. El-Hani, 2022, “Philosophy of Science in Practice in Ecological Model Building”, *Biology & Philosophy*, 37: #21. doi:10.1007/s10539-022-09851-4
+* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625398
+* –––, 1987, *The Many Faces of Realism*, The Paul Carus Lectures, LaSalle, IL: Open Court.
+* Queiroz, João, 2012, “Dicent Symbols in Non-Human Semiotic Processes”, *Biosemiotics*, 5(3): 319–329. doi:10.1007/s12304-011-9138-9
+* Queiroz, João and Charbel Niño El-Hani, 2006, “Towards a Multi-Level Approach to the Emergence of Meaning Processes in Living Systems”, *Acta Biotheoretica*, 54(3): 179–206. doi:10.1007/s10441-006-8177-0
+* Queiroz, João, Claus Emmeche, Kalevi Kull, and Charbel El-Hani, 2011, “The Biosemiotic Approach in Biology: Theoretical Bases and Applied Models”, in *Information and Living Systems: Philosophical and Scientific Perspectives*, George Terzis and Robert Arp (eds.), Cambridge, MA: The MIT Press, 91–130. doi:10.7551/mitpress/9780262201742.003.0005
+* Queiroz, João, Frederik Stjernfelt, and Charbel Niño El-Hani, 2014, “Dicent Symbols and Proto-Propositions in Biological Mimicry”, in *Peirce and Biosemiotics: A Guess at the Riddle of Life*, Vinicius Romanini and Eliseo Fernández (eds.), (Biosemiotics 11), Dordrecht: Springer Netherlands, 199–213. doi:10.1007/978-94-007-7732-3\_11
+* Quezada Pulido, Wilfredo, 2002, “Causalidad física: procesos causales y cantidades conservadas”, *Revista de Filosofía*, 58: 79–99.
+* –––, 2007, “Causalidad por manipulación y el problema del antropomorfismo”, *Cuadernos de Filosofía*, 25: 9–26.
+* Quintanilla Pérez-Wicht, Pablo, 2006, “La recepción del positivismo en Latinoamérica”, *Logos Latinoamericano*, second series, 1(6): 65–76. \[[Quintanilla 2006 available online](http://sisbib.unmsm.edu.pe/bibvirtualdata/publicaciones/logos/2006\n6/a06.pdf)]
+* Rahman, Sahid and Walter A. Carnielli, 2000, “The Dialogical Approach to Paraconsistency”, *Synthese*, 125(1/2): 201–232. doi:10.1023/A:1005294523930
+* Ramírez Sánchez, José Carlos and Adolfo García de la Sienra, 2020, “The Complicated Pairing between Dynamic Systems Techniques and Economics”, *Investigación Económica*, 79(314): 28–50. doi: 10.22201/fe.01851667p.2020.314.76042
+* Ratto, Adrián, 2018, “Where Is History Heading? Concerning the Idea of Progress”, in *Philosophy of Globalization*, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 423–434. doi:10.1515/9783110492415-031
+* Recio, Gonzalo L. and Christián C. Carman, 2018, “On the Equant Point for the Planets and the Moon”, *Journal for the History of Astronomy*, 49(4): 401–424. doi:10.1177/0021828618809222
+* Restrepo, Guillermo, 2013, “To Mathematize, or Not to Mathematize Chemistry”, *Foundations of Chemistry*, 15(2): 185–197. doi:10.1007/s10698-013-9183-3
+* Restrepo, Guillermo and Leonardo Pachón, 2007, “Mathematical Aspects of the Periodic Law”, *Foundations of Chemistry*, 9(2): 189–214. doi:10.1007/s10698-006-9026-6
+* Restrepo, Guillermo and José L. Villaveces, 2011, “Chemistry, a Lingua Philosophica”, *Foundations of Chemistry*, 13(3): 233–249. doi:10.1007/s10698-011-9123-z
+* –––, 2012, “Mathematical Thinking in Chemistry”, *Hyle: International Journal for Philosophy of Chemistry*, 18(1): 3–22. \[[Restrepo and Villaveces 2012 available online](http://www.hyle.org/journal/issues/18-1/restrepo-villaveces.htm)]
+* –––, 2013, “Discrete Mathematical Chemistry: Social Aspects of Its Emergence and Reception”, *Hyle: International Journal for Philosophy of Chemistry*, 19(1): 19–33. \[[Restrepo and Villaveces available online](http://www.hyle.org/journal/issues/19-1/restrepo-villaveces.htm)]
+* Revel Chion, Andrea and Agustín Adúriz-Bravo, 2022, “In Sickness and in Health”. *Science & Education*, 31: 269–291. doi:10.1007/s11191-021-00258-3
+* Rietti, Sara and Diana Maffía, 2005, “Género, ciencia y ciudadanía”, *Arbor: Ciencia Pensamiento y Cultura*, 181(716): 539–544. doi:10.3989/arbor.2005.i716.411
+* Rios, Diego, 2004, “Mechanistic Explanations in the Social Sciences”, *Current Sociology*, 52(1): 75–89. doi:10.1177/0011392104039315
+* –––, 2005, “Social Complexity and the Micro-Macro Link”, *Current Sociology*, 53(5): 773–787. doi:10.1177/0011392105055018
+* –––, 2009, “Comment”, in *Philosophy of the Social Sciences*, Chrysostomos Mantzavinos (ed.), Cambridge: Cambridge University Press, 92–98. doi:10.1017/CBO9780511812880.008
+* Ríos, Diego and Graciela Kuechle, 2022, “Multiple Realization and Evolutionary Dynamics: A Fitness-Based Account”, *Australasian Journal of Philosophy*, 100(1): 149–164. doi:10.1080/00048402.2020.1839920
+* Ríos Pozzi, Diego, 2007, “System’s Effects. Some Comments on Methodological Individualism”, *L’Année sociologique*, 57(1): 63–82. doi:10.3917/anso.071.0063
+* Robles, José A. and Laura Benítez (eds.), 2004, *La Filosofía Natural en los Pensadores de la Modernidad*, México D.F.: UNAM.
+* Rodríguez Medina, Leandro, 2014, *Centers and Peripheries in Knowledge Production*, New York and London: Routledge.
+* Rodríguez, Pablo and Javier Blanco, 2017, “Organization and Information in Simondon’s Theory of Individuation”, *Culture and Organization*, 23(1): 34–43. doi:10.1080/14759551.2016.1240745
+* Roffé, Ariel Jonathan, 2019, “Drift as Constitutive: Conclusions from a Formal Reconstruction of Population Genetics”, *History and Philosophy of the Life Sciences*, 41(4): #55. doi: 10.1007/s40656-019-0294-6
+* –––, 2020, “Dynamic Homology and Circularity in Cladistic Analysis”, *Biology & Philosophy*, 35(1): #21. doi: 10.1007/s10539-020-9737-4
+* Roffé, Ariel Jonathan and Santiago Ginnobili, 2019, “Optimality Models and the Propensity Interpretation of Fitness”, *Acta Biotheoretica*, 68(3): 367–385. doi: 10.1007/s10441-019-09369-5
+* Roldán, Concha, 2018, “The Thinning and Deformation of Ethical and Political Concepts in the Era of Globalization”, in *Philosophy of Globalization*, Concha Roldán, Daniel Brauer, and Johannes Rohbeck (eds.), Berlin: De Gruyter, 109–122. doi:10.1515/9783110492415-009
+* Roldán, Concha, Daniel Brauer, and Johannes Rohbeck (eds.), 2018, *Philosophy of Globalization*, Berlin: De Gruyter. doi:10.1515/9783110492415
+* Romero-Maltrana, Diego, 2015, “Symmetries as By-Products of Conserved Quantities”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 52: 358–368. doi:10.1016/j.shpsb.2015.10.006
+* Romero-Maltrana, Diego, Federico Benítez, and Cristián Soto, 2018, “A Proposal for a Coherent Ontology of Fundamental Entities”, *Foundations of Science*, 23(4): 705–717. doi:10.1007/s10699-018-9548-0
+* Rosas, Alejandro, 2002, “Psychological and Evolutionary Evidence for Altruism”, *Biology & Philosophy*, 17(1): 93–107. doi:10.1023/A:1012967912103
+* –––, 2008a, “The Return of Reciprocity: A Psychological Approach to the Evolution of Cooperation”, *Biology & Philosophy*, 23(4): 555–566. doi:10.1007/s10539-007-9065-y
+* –––, 2008b, “Multilevel Selection and Human Altruism”, *Biology & Philosophy*, 23(2): 205–215. doi:10.1007/s10539-007-9083-9
+* –––, 2010, “Evolutionary Game Theory Meets Social Science: Is There a Unifying Rule for Human Cooperation?”, *Journal of Theoretical Biology*, 264(2): 450–456. doi:10.1016/j.jtbi.2010.02.015
+* –––, 2012, “Towards a Unified Theory of Reciprocity”, *Behavioral and Brain Sciences*, 35(1): 36–37. doi:10.1017/S0140525X11001312
+* –––, 2021, “Against the Evolutionary Debunking of Morality: Deconstructing a Philosophical Myth”, in *Empirically Engaged Evolutionary Ethics*, Helen de Cruz and Johan de Smedt (eds.), Synthese Library Series, Cham: Springer, 135–150. doi:10.1007/978-3-030-68802-8\_7
+* Rosas, Alejandro and Juan Pablo Bermúdez, 2018, “Viewing Others as Equals: The Non-Cognitive Roots of Shared Intentionality”, *Review of Philosophy and Psychology*, 9(3): 485–502. doi:10.1007/s13164-018-0394-3
+* Rosas, Alejandro, Juan Pablo Bermúdez, and Antonio Gutiérrez, 2018, “Is a Bad Will a Weak Will? Cognitive Dispositions Modulate Folk Attributions of Weakness of Will”, *Philosophical Explorations*, 21(3): 350–363. doi:10.1080/13869795.2018.1457709
+* Rosas, Alejandro and Michael Koenigs, 2014, “Beyond ‘Utilitarianism’: Maximizing the Clinical Impact of Moral Judgment Research”, *Social Neuroscience*, 9(6): 661–667. doi:10.1080/17470919.2014.937506
+* Rosas, Alejandro, Hugo Viciana, Esteban Caviedes, and Alejandra Arciniegas, 2019, “Hot Utilitarianism and Cold Deontology: Insights from a Response Patterns Approach to Sacrificial and Real World Dilemmas”, *Social Neuroscience*, 14(2): 125–135. doi:10.1080/17470919.2018.1464945
+* Rosenblatt, Lucas, 2021a, “Towards a Non-classical Meta-theory for Substructural Approaches to Paradox”, *Journal of Philosophical Logic*, 50 (5): 1007–1055. doi:10.1007/s10992-020-09589-y
+* –––, 2021b, “Classical Recapture and Maximality”, *Philosophical Studies*, 178(6): 1951–1970. doi:10.1007/s11098-020-01517-9
+* –––, 2022, “Should the Non‐Classical Logician be Embarrassed”, *Philosophy and Phenomenological Research*, 104(2): 388–407. doi:10.1111/phpr.12770
+* –––, 2023, “Paradoxicality without Paradox”, *Erkenntnis*, 88(3): 1347–1366. doi:10.1007/s10670-021-00405-w
+* Rosenblatt, Lucas and Camila Gallovich, 2022, “Paradoxicality in Kripke’s theory of truth”, *Synthese*, 200(2): #71. doi:10.1007/s11229-022-03625-x
+* Rosenblatt, Lucas and Damián E. Szmuc, 2014, “On Pathological Truths”, *The Review of Symbolic Logic*, 7(4): 601–617. doi:10.1017/S1755020314000239
+* Sabato, Jorge (ed.), 1975, *El Pensamiento Latinoamericano en la Problemática Ciencia-Tecnología-Desarrollo-Dependencia*, Buenos Aires: Paidos. New edition in 2011, Buenos Aires: Ediciones Biblioteca Nacional.
+* Salcedo-Gómez, Mariana and Claudia Lorena García, 2023, “Functional Systems as Explanatory Tools in Psychiatry”, *Philosophical Explorations*, on line first. doi:10.1080/13869795.2023.2229858
+* Salmerón, Fernando, 1968, *La Filosofía y las Matemáticas*, Mexico D.F.: Ediciones Productividad.
+* Samaniego, Fernanda, 2013, “Causality and Intervention in the Spin-Echo Experiments”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 28(3): 477–497. doi:10.1387/theoria.6136
+* –––, 2014, “Causation and the Interventionist Vector of Explanatory Depth”, in *New Advances in Causation, Agency and Moral Responsibility*, Fabio Bacchini, Stefano Caputo, and Massimo Dell’Utri (eds.), Newcastle upon Tyne: Cambridge Scholars Publishing, 1–17.
+* –––, 2015, “Manipulating Spins: Causality and Decoherence”, in *Recent Developments in the Philosophy of Science: EPSA13 Helsinki*, Uskali Mäki, Ioannis Votsis, Stéphanie Ruphy, and Gerhard Schurz (eds.), (European Studies in Philosophy of Science 1), Cham: Springer International Publishing, 183–193. doi:10.1007/978-3-319-23015-3\_14
+* –––, 2022, “Bi-Directionality in Causal Relationships”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 37(1): 103–109. doi:10.1387/theoria.22695
+* Sandrone, Darío, Andrés Vaccari, and Diego Lawler, 2022, “The Centrality of the Machine in the Thought of Jacques Lafitte”, *Philosophy & Technology*, 35(2): #28. doi:10.1007/s13347-022-00523-5
+* Sant’Anna, Adonai S. and Décio Krause, 1997, “Indistinguishable Particles and Hidden Variables”, *Foundations of Physics Letters*, 10(5): 409–426. doi:10.1007/BF02764019
+* Santos, Gil, Gabriel Vallejos, and Davide Vecchi, 2020, “A Relational-Constructionist Account of Protein Macrostructure and Function”, *Foundations of Chemistry*, 22(3): 363–382. doi:10.1007/s10698-020-09373-5
+* Saritaş, Davut, Hasan Özcan, and Agustín Adúriz-Bravo, 2021, “Observation and Inference in Chemistry Teaching: a Model-Based Approach to the Integration of the Macro and Submicro Levels”, *Science & Education*, 30: 1289–1314. doi:10.1007/s11191-021-00216-z
+* Scarano, Eduardo R., 2012, “Economics as a Separate Science: A Critical Review”, in *Perspectives on Epistemology and Economics*, Andrés Lazzarini and Diego Weisman (eds.), Buenos Aires: Universidad de Buenos Aires, 73–98.
+* Schuster, Félix Gustavo, 1992, *El Método en las Ciencias Sociales*, Buenos Aires: Centro Editor de América Latina.
+* Sebastián, Miguel Ángel, 2014, “Dreams: An Empirical Way to Settle the Discussion between Cognitive and Non-Cognitive Theories of Consciousness”, *Synthese*, 191(2): 263–285. doi:10.1007/s11229-013-0385-y
+* Sebastián, Miguel Ángel and Marc Artiga, 2020, “Can Informational Theories Account for Metarepresentation?”, *Topoi*, 39(1): 81-94. doi:10.1007/s11245-017-9514-4
+* Sfara, Emiliano and Charbel El-Hani, 2023, “Ecosystem Health and Malfunctions: An Organisational Perspective”, *Biology & Philosophy*, 38(5): #37. doi:10.1007/s10539-023-09927-9
+* Skidelsky, Liza, 2013, “Faculty of Language, Functional Models, and Mechanisms”, *Journal of Cognitive Science*, 14(2): 111–149. \[[Skidelsky 2013 available online](https://www.researchgate.net/publication/285084124\Faculty\of\Language\Functional\Models\and\Mechanisms)]
+* Smith, Lindsay A. and Vivette García-Deister, 2021, “Genetic Syncretism: Latin American Forensics and Global Indigenous Organizing”, *BioSocieties*, 16: 447–469. doi:10.1057/s41292-021-00263-3
+* Soler-Toscano, Fernando, Ángel Nepomuceno-Fernández, and Atocha Aliseda-Llera, 2009, “Abduction via C -Tableaux and δ-Resolution”, *Journal of Applied Non-Classical Logics*, 19(2): 211–225. doi:10.3166/jancl.19.211-225
+* Soto, Cristián, 2015, “The Current State of the Metaphysics of Science Debate”, *Philosophica*, 90(1): 23–60. doi:10.21825/philosophica.82121
+* –––, 2017, “Globally and Locally Applied Naturalistic Metaphysics”, *Manuscrito: International Journal of Philosophy*, 40(3): 33–50. doi:10.1590/0100-6045.2017.V40N3.CS
+* –––, 2019, “The Epistemic Indispensability Argument”, *Journal for General Philosophy of Science*, 50(1): 145–161. doi:10.1007/s10838-018-9437-9
+* –––, 2023a, “Roberto Torretti’s Philosophy of Science”, in *Current Debates in Philosophy of Science: In Honor of Roberto Torretti*, Cristián Soto (ed.), Synthese Library Series, Cham: Springer, 15–36. doi:10.1007/978-3-031-32375-1\_2
+* ––– (ed.), 2023b, *Current Debates in Philosophy of Science: In Honor of Roberto Torretti*, Synthese Library Series, Cham: Springer.
+* Soto, Cristián and Otávio Bueno, 2019, “A Framework for an Inferential Conception of Physical Laws”, *Principia: An International Journal of Epistemology*, 23(3): 423–444. doi:10.5007/1808-1711.2019v23n3p423
+* Soto, Cristián and Diego Romero, 2020, “Local Selective Realism: Shifting from Classical to Quantum Electrodynamics”, *Foundations of Science*, 25(4): 955–970. doi:10.1007/s10699-020-09663-3
+* Spehrs, Adriana, 2021, “Dispositional Realism, Conflicting Models and Contrastive Explanation”, *Journal for General Philosophy of Science*, on line first. doi:10.1007/s10838-020-09544-0
+* Suárez-Díaz, Edna, 2001, “Satellite-DNA: A Case-Study for the Evolution of Experimental Techniques”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 32(1): 31–57. doi:10.1016/s1369-8486(00)00026-1
+* –––, 2007, “The Rhetoric of Informational Molecules: Authority and Promises in the Early Study of Molecular Evolution”, *Science in Context*, 20(4): 649–677. doi:10.1017/S0269889707001482
+* –––, 2009, “Molecular Evolution: Concepts and the Origin of Disciplines”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(1): 43–53. doi:10.1016/j.shpsc.2008.12.006
+* –––, 2010, “Making Room for New Faces: Evolution, Genomics and the Growth of Bioinformatics”, *History and Philosophy of the Life Sciences*, 32(1): 65–89.
+* –––, 2013, “Variation, Differential Reproduction and Oscillation: The Evolution of Nucleic Acid Hybridization”, *History and Philosophy of the Life Sciences*, 35(1): 39–44.
+* –––, 2014a, “The Long and Winding Road of Molecular Data in Phylogenetic Analysis”, *Journal of the History of Biology*, 47(3): 443–478. doi:10.1007/s10739-013-9373-9
+* –––, 2014b, “Indigenous Populations in Mexico: Medical Anthropology in the Work of Ruben Lisker in the 1960s”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 47: 108–117. doi:10.1016/j.shpsc.2014.05.011
+* Suárez-Díaz, Edna and Victor H. Anaya-Muñoz, 2008, “History, Objectivity, and the Construction of Molecular Phylogenies”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 39(4): 451–468. doi:10.1016/j.shpsc.2008.09.002
+* Suárez\[-Díaz], Edna and Ana Barahona, 1996, “The Experimental Roots of the Neutral Theory of Molecular Evolution”, *History and Philosophy of the Life Sciences*, 18(1): 55–81.
+* Suárez Pascal, Carlos David, 2017, “Merging Biological Metaphors. Creativity, Darwinism and Biosemiotics”, *Biosemiotics*, 10(3): 369–378. doi:10.1007/s12304-017-9297-4
+* –––, 2021, “N. R. Hanson and von Uexküll: A Biosemiotic and Evolutionary Account of Theories”, *Journal for General Philosophy of Science*, 52(2):247–261. doi:10.1007/s10838-021-09552-8
+* Taccetta, Natalia, 2021, “Disappearance and Archive Fevers in Film: The Rewriting of History and Practical Uses of the Past”, *Rethinking History*, 27(1): 26–50. doi: 10.1080/13642529.2022.2144024
+* Tajer, Diego, 2020, “*LFIs* and Methods of Classical Recapture”, *Logic Journal of the IGPL*, 28(5): 807–816. doi:10.1093/jigpal/jzy060
+* Teijeiro, Paula, 2020a, “Subvaluationism and Classical Recapture”, *Logic Journal of the IGPL*, 28(5): 832–844. doi:10.1093/jigpal/jzy062
+* –––, 2020b, “Not a Knot”, *Thought: A Journal of Philosophy*, 9(1): 14–24. doi:10.1002/tht3.437
+* –––, 2021, “Vague Connectives”, *Philosophical Studies*, 180 (5-6): 1559–1578. doi:10.1007/s11098-022-01817-2
+* Tohmé, Fernando, 2022, “Introduction to Abduction and Economics”, in Lorenzo Magnani (ed.), *Handbook of Abductive Cognition*, Cham: Springer. doi:10.1007/978-3-030-68436-5\_87-1
+* Tohmé, Fernando, Gianluca Caterina, and Rocco Gangle, 2015, “Abduction: A Categorical Characterization”, *Journal of Applied Logic*, 13(1): 78–90. doi:10.1016/j.jal.2014.12.004
+* Tohmé, Fernando and Ricardo Crespo, 2013, “Abduction in Economics: A Conceptual Framework and Its Model”, *Synthese*, 190(18): 4215–4237. doi:10.1007/s11229-013-0268-2
+* Torrens, Erica and Ana Barahona, 2019, “Castes and Trees: The Link Between European and Mexican Representations of Human Taxonomy”, *Philosophy, Theory and Practice in Biology*, 11: #19. doi:10.3998/ptpbio.16039257.0011.019
+* Torrens, Erica, Juan Manuel Rodríguez Caso, and Ana Barahona, 2021, “The Teaching of Biological Evolution in Mexican Socialist Textbooks in the 1930s”, *Culture & History*, 10(2): #e022. doi:10.3989/chdj.2021.022
+* Torres, Juan Manuel, 1997, “On the Limits of Enhancement in Human Gene Transfer: Drawing the Line”, *Journal of Medicine and Philosophy*, 22(1): 43–53. doi:10.1093/jmp/22.1.43
+* –––, 2002, “The Importance of Genetic Services for the Theory of Health: A Basis for an Integrating View of Health”, *Medicine, Health Care and Philosophy*, 5(1): 43–51. doi:10.1023/A:1014280007453
+* –––, 2006, “Genetic Tools, Kuhnean Theoretical Shift and the Geneticization Process”, *Medicine, Health Care and Philosophy*, 9(1): 3–12. doi:10.1007/s11019-005-8317-3
+* Torretti, Roberto, 1967 \[2005], *Manuel Kant. Estudio sobre los Fundamentos de la Filosofía Crítica*, Santiago: Ediciones de la Universidad de Chile. (Third revised edition, Santiago: Ediciones Universidad Diego Portales, 2005).
+* –––, 1978, *Philosophy of Geometry from Riemann to Poincaré*, Dordrecht: Reidel (Corrected reprint, 1984). doi:10.1007/978-94-009-9909-1
+* –––, 1985, *Relativity and Geometry*, Oxford: Pergamon Press (Corrected reprint, New York: Dover, 1996).
+* –––, 1990, *Creative Understanding: Philosophical Reflections on Physics*, Chicago: The University of Chicago Press.
+* –––, 1999, *The Philosophy of Physics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172981
+* –––, 2000, “‘Scientific Realism’ and Scientific Practice”, in *The Reality of the Unobservable: Observability, Unobservability and Their Impact on the Issue of Scientific Realism*, Evandro Agazzi and Massimo Pauri (eds.), (Boston Studies in the Philosophy of Science 215), Dordrecht: Springer Netherlands, 113–122. Reprinted in 2007 as “El realismo científico y la ciencia como es”, in *Escritos Filosóficos 1986–2006*, Santiago de Chile: Universidad Diego Portales, 75–98. doi:10.1007/978-94-015-9391-5\_6
+* –––, 2008, “Objectivity: A Kantian Perspective”, *Kant and Philosophy of Science Today*, Michela Massimi (ed.), *Royal Institute of Philosophy Supplement*, 63: 81–94. doi:10.1017/S1358246108000052
+* Tossato, Claudemir Roque and Pablo Rubén Mariconda, 2010, “O método da astronomia segundo Kepler”, *Scientiae Studia*, 8(3): 339–366. doi:10.1590/S1678-31662010000300003
+* Tozzi, Verónica, 2009, “Figuring Malvinas War Experience. Heuristic and History as An Unfulfilled Promise”, in *Re-Figuring Hayden White*, Frank Ankersmit, Ewa Domanska, and Hans Kellner (eds.), Stanford, CA: Stanford University Press, 261–280.
+* –––, 2012a, “Pragmatist Contributions to a New Philosophy of History”, *Pragmatism Today*, 3(1): 121–131.
+* –––, 2012b, “The Epistemic and Moral Role of Testimony”, *History and Theory*, 51(1): 1–17. doi:10.1111/j.1468-2303.2012.00609.x
+* –––, 2016, “Dewey, Mead, John Ford, and the Writing of History: Pragmatist Contributions to Narrativism”, *European Journal of Pragmatism and American Philosophy*, 8(2): 167–189. doi:10.4000/ejpap.641
+* –––, 2018, “A Pragmatist View on Two Accounts of the Nature of Our ‘Connection’ with the Past: Hayden White and David Carr Thirty Years Later”, *Rethinking History*, 22(1): 65–85. doi:10.1080/13642529.2017.1423010
+* –––, 2021, “Narrativism”, in *The Routledge Companion to Historical Theory*, Chiel van den Akker (ed.), London: Routledge, Chapter 8, doi: 10.4324/9780367821814
+* –––, 2023, “Historical Irrealism: Paul A. Roth and the Epistemic Value of Narrative Explanation”, *Rethinking History*, 27(1): 144-157. doi:10.1080/13642529.2022.2158647
+* Vaccari, Andrés Pablo, 2013, “Artifact Dualism, Materiality, and the Hard Problem of Ontology: Some Critical Remarks on the Dual Nature of Technical Artifacts Program”, *Philosophy & Technology*, 26(1): 7–29. doi:10.1007/s13347-011-0059-y
+* –––, 2015, “Transhumanism and Human Enhancement: A Post-mortem”, *Bioethica Forum*, 8(1): 22–23. doi:10.24894/BF.2015.08006
+* –––, 2017, “Against Cognitive Artifacts: Extended Cognition and the Problem of Defining ‘Artifact’”, *Phenomenology and the Cognitive Sciences*, 16(5): 879–892. doi:10.1007/s11097-016-9484-9
+* –––, 2020, “Neosubstantivism As Cosmotechnics”, *Angelaki*, 25(4): 39–53. doi:10.1080/0969725x.2020.1790834
+* –––, 2022, “Cosmotechnical Thought Between Substantivism and the Empirical Turn”, *Foundations of Science*, 27(4): 1279–1284 (2022). doi:10.1007/s10699-020-09754-1
+* van Fraassen, Bas C., 1985, “On the Question of Identification of a Scientific Theory (A Reply to “van Fraassen’s Concept of a Scientific Theory” by Pérez Ransanz)”, *Crítica*, 17(51): 21–25 (Spanish version: 26–29). doi:10.22201/iifs.18704905e.1985.581
+* Varsavsky, Oscar, 1971, “Ideología y verdad”, *Ciencia Nueva*, 12: 44–47.
+* Vasquez, Emily Elizabeth and Vivette García Deister, 2019, “Mexican Samples, Latino DNA: The Trajectory of a National Genome in Transnational Science”, *Engaging Science, Technology, and Society*, 5: 107–134. doi:10.17351/ests2019.199
+* Vega-Encabo, Jesús and Diego Lawler, 2014, “Creating Artifactual Kinds”, in *Artefact Kinds: Ontology and the Human-Made World*, Maarten Franssen, Peter Kroes, Thomas A.C. Reydon, and Pieter E. Vermaas (eds.), Cham: Springer International Publishing, 105–124. doi:10.1007/978-3-319-00801-1\_7
+* Velasco Gómez, Ambrosio (ed.), 1997, *Racionalidad y Cambio Científico*, México F. F.: UNAM-Paidós.
+* –––, 2004, “Toward a Political Philosophy of Science”, *Philosophy Today*, 48 (Supplement): 116–121
+* –––, 2012, “Rationality in Science and the Arts: Common Sense and Heuristics”, in *The Paths of Creation. Creativity in Science and Art*, Sixto Castro and Alfredo Marcos (eds.), Berna: Peter Lang, 71–80. doi:10.3726/978-3-0351-0307-6
+* –––, 2015a, “Rationality and Method”, in *The Routledge Companion to Hermeneutics*, Jeff Malpas y Hans-Helmuth Gander (eds), London: Routledge, 251–266. doi:10.4324/9781315771854.ch19
+* –––, 2015b, “Ibero-American Republican Humanism and the Intellectual Roots of Mexican Independence”, in *The Traditions of Liberty in the Atlantic World*, Francisco Colom González and Angel Rivero (eds.), Leiden: Brill. doi:10.1163/9789004299689\_005
+* –––, 2023, “Situational analysis of Scientific Traditions: Popper´s Hermeneutical and Political Turn in Philosophy of Science”, *Journal of Philosophical Investigations*, 17(42): 127–139. doi:10.22034/jpiut.2000.16577
+* Verdugo, Carlos, 2009, “Popper’s Thesis of the Unity of Scientific Method: Method Versus Techniques”, in *Rethinking Popper*, Zuzana Parusniková and Robert S. Cohen (eds.), (Boston Studies in The Philosophy of Science 272), Dordrecht: Springer Netherlands, 155–160. doi:10.1007/978-1-4020-9338-8\_12
+* Vessuri, Hebe, 2000, “Mode 2 or the Emblematic Disestablishment of Science: A View from the Edge”, *Science, Technology and Society*, 5(2): 195–207. doi:10.1177/097172180000500204
+* –––, 2003, “Science, Politics, and Democratic Participation in Policy-Making: A Latin American View”, *Technology in Society*, 25(2): 263–273. doi:10.1016/S0160-791X(03)00020-4
+* –––, 2019, “Crises that Mismatch Canons in Science: Provincialization, Transnationality, Conviviality?”, *Tapuya: Latin American Science, Technology and Society*, 2(1): 26–31. doi:10.1080/25729861.2019.1586193
+* Vessuri, Hebe and Leandro Rodríguez-Medina, 2022, “Producing Knowledge in Latin America: Social Sciences Research Assessment with a Geopolitical Perspective”, in *Handbook on Research Assessment in the Social Sciences*, Tim C. E. Engels (ed.), Cheltenham: Edward Elgar Publishing, 472–490. doi:10.4337/9781800372559.00039
+* Villani, Giovanni, Elena Ghibaudi, and Luigi Cerruti, 2018, “The Orbital: A Pivotal Concept in the Relationship between Chemistry and Physics? A Comment to the Work by Fortin and Coauthors”, *Foundations of Chemistry*, 20(2): 89–97. doi:10.1007/s10698-017-9293-4
+* Villoro, Luis, 1982, *Creer, Saber, Conocer*, Mexico D.F.: Siglo XXI.
+* Wade, Peter, Carlos López-Beltrán, Eduardo Restrepo, and Ricardo Ventura Santos (eds.), 2014, *Mestizo Genomics: Race Mixture, Nation, and Science in Latin America*, Durham-London: Duke University Press.
+* –––, 2015, “Genomic Research, Publics and Experts in Latin America: Nation, Race and Body”, *Social Studies of Science*, 45(6): 775–796. doi:10.1177/0306312715623108
+* Zambon, Alfio, 2018, “A Representation of the Periodic System Based on Atomic-Number Triads”, *Foundations of Chemistry*, 20(1): 51–74. doi:10.1007/s10698-017-9297-0
+* –––, 2019, “Periodicity Trees in a Secondary Criterion of Periodic Classification: Its Implications for Science Teaching and Communication”, *Substantia*, 3(2): 101–114. doi:10.13128/Substantia-502
+* –––, 2022, “Chemical Reactivity: Cause-Effect or Interaction?”, *Foundations of Chemistry*, 24(3): 375–387. doi:10.1007/s10698-022-09430-1
+* Zambon, Alfio and Mariana Córdoba, 2021, “Nanomaterials and Intertheoretical Relations: Macro and Nanochemistry as Emergent Levels”, *Foundations of Science*, 26(2): 355–370. doi: 10.1007/s10699-020-09723-8
+* Zea, Leopoldo, 1943–1944, *El Positivismo en México*, Vol. 1 (1943), Vol. 2 (1944), Mexico D.F.: Fondo de Cultura Económica.
 
 ## Academic Tools
 
@@ -1174,6 +1173,6 @@ Charbel El-Hani 的兴趣主要集中在生物哲学和生物教学方法论上�
 [epistemology: in Latin America](https://plato.stanford.edu/entries/epistemology-latin-america/) | [feminist philosophy, approaches: Latin American feminism](https://plato.stanford.edu/entries/feminism-latin-america/) | [Latin American Philosophy](https://plato.stanford.edu/entries/latin-american-philosophy/) | [Latin American Philosophy: analytic philosophy in](https://plato.stanford.edu/entries/latin-american-analytic/) | [Latin American Philosophy: metaphilosophical foundations](https://plato.stanford.edu/entries/latin-american-metaphilosophy/) | [liberation, philosophy of](https://plato.stanford.edu/entries/liberation/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-Olimpia Lombardi <[_olimpiafilo@arnet.com.ar_](mailto:olimpiafilo%40arnet%2ecom%2ear)>\
-[Alberto Cordero](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Alberto-Cordero) <[_acordelec@outlook.com_](mailto:acordelec%40outlook%2ecom)>\
-Ana Rosa Pérez Ransanz <[_perezransanz@yahoo.com_](mailto:perezransanz%40yahoo%2ecom)>
+Olimpia Lombardi <[*olimpiafilo@arnet.com.ar*](mailto:olimpiafilo%40arnet%2ecom%2ear)>\
+[Alberto Cordero](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Faculty-Bios/Alberto-Cordero) <[*acordelec@outlook.com*](mailto:acordelec%40outlook%2ecom)>\
+Ana Rosa Pérez Ransanz <[*perezransanz@yahoo.com*](mailto:perezransanz%40yahoo%2ecom)>

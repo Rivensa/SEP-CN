@@ -1,4 +1,5 @@
 # 约翰内斯·司各特·爱留根纳 Eriugena, John Scottus (Dermot Moran and Adrian Guiu)
+
 *首次发表于 2003 年 8 月 28 日星期四；实质性修订于 2019 年 10 月 30 日星期三*
 
 约翰内斯·司各特·爱留根纳（约公元 800 年至 877 年），在一份手稿中自称“Eriugena”，被他的同时代人称为“爱尔兰人”（scottus—在 9 世纪，爱尔兰被称为“Scotia Maior”，其居民被称为“scotti”），是早期修道院时期最重要的爱尔兰知识分子。他通常被认为是查理曼时代以及从博伊修斯到安瑟尔姆整个拉丁哲学时期中最杰出的哲学家（就独创性而言）。爱留根纳也可以说是阿拉伯新柏拉图主义者阿尔·坎迪的同时代人，尽管这种并行关系尚待探讨。自 17 世纪以来，通常将这位爱尔兰哲学家称为约翰·司各特（或“Scotus”）·爱留根纳，以区别于 13 世纪的约翰·邓斯·司各特（见条目）。
@@ -12,8 +13,6 @@
 自然被定义为 universitas rerum，“所有事物的总体”，包括那些存在的事物（ea quae sunt）以及那些不存在的事物（ea quae non sunt）。这种神圣的本质可以分为一组四个“种类”或“分部”（divisiones），但仍然保持与它们的源头的统一。这四个自然的分部一起被理解为上帝，被呈现为“一切事物的起始、中间和终结”。
 
 除了在第九世纪对法国产生轻微影响外，爱留根纳的宇宙论思想对当时的哲学家和神学家来说似乎概念上过于先进，因此他的哲学体系在第十和十一世纪通常被忽视。他的主要作品《Periphyseon》在十二世纪的新柏拉图主义者中得到复兴，并且在奥古斯都敦尼斯的《自然之钥》（Clavis Physicae）中流传。《Periphyseon》在沙特尔和圣维克多的哲学家中很受欢迎（例如，圣维克多的休格提到了它），但在十三世纪被谴责，与大卫·迪南特和阿莫里·德·贝讷的著作一起，因为它们宣扬上帝与创造物的同一性。在十四和十五世纪，爱留根纳继续对基督教新柏拉图主义者产生相对隐秘但重要的影响，如迈斯特·埃克哈特和尼古拉斯·库萨。他的作品首次印刷出版是在十七世纪，但直到十九世纪才重新引起兴趣，尤其是在黑格尔的追随者中，他们将爱留根纳视为先验唯心主义的先驱，是“西方的普罗克洛斯”（Hauréau, 1872）和“先验哲学之父”（Huber, 1861）。第一个真正学术性的尝试，以确立他的生平、作品和影响的事实，是由比利时学者 Maiul Cappuyns 进行的，他于 1933 年的作品《Jean Scot Erigène: sa vie, son oeuvre, sa pensée》仍然可靠。许多有价值的二十世纪研究（例如，Contreni, 1992; Marenbon, 1981, 2006; Schrimpf, 1982; O’Meara, 1969, 1988）探讨了爱留根纳的卡洛林时代背景和与拉丁作家的延续。然而，对他思想的系统研究（Beierwaltes, 1980, 1987, 1990; Gersh, 1978, 2006; Moran, 1989, 1999）也认识到他是一位高度原创的形而上学家和先验思想家，其作品超越了他所处时代和表达方式的局限。
-
-
 
 ---
 
@@ -93,7 +92,7 @@ Periphyseon 的方法非常独特，它交替运用自然哲学和圣经解释�
 
 奥古斯丁的原初原因概念（primordiales causae）以及马克西姆斯的 logoi 概念使得爱留根纳能够建立一个基于可知物种的现实本体论，这些可知物种存在于被创造的存在中（见 Erismann，2011）。
 
-### 格里高利·尼西亚的格里高利、格里高利·纳齐安则和大巴索。
+### 格里高利·尼西亚的格里高利、格里高利·纳齐安则和大巴索
 
 爱留根纳引用了尼西亚的格里高利的《形象论》约 25%的内容，因为他在《自然论》中提到了《论人类的创造》。尼西亚的格里高利和大巴西流的创世记提供了缺失的部分，并补充了爱留根纳从《提摩太斯》部分拉丁文翻译中得出的宇宙论。巴西流的《六日创造论》为他提供了一个阅读《创世记》文字的模型。
 
@@ -217,7 +216,6 @@ Eriugena’s cosmological account has been criticized for collapsing the differe
 
 爱留根纳是一位独创的哲学家，以一种既保留神圣超然性又保留普遍存在性的方式阐述上帝与创造之间的关系。他关于人性的理论是理性主义和知识主义的，但也是负面的。他关于地点和时间作为心灵定义结构的理论，预示了康德，他的辩证推理预示了黑格尔。但最重要的是，爱留根纳是一位强调人性最终统一以及通过它与整个创造与上帝统一的神秘主义者。
 
-
 ## Bibliography
 
 The Theory and History of Ontology website provides an almost exhaustive bibliography in two parts:
@@ -306,7 +304,6 @@ PL stands for *Patrologia Latina* (in Latin) and PG for *Patrologia Graeca* 
   
 * –––, *De mystica theologia* (*Mystical Theology*), PG, volume 3, 1857, 997–1064. [[PG 3 (*Mystical Theology* available online](https://archive.org/details/Patrologia_Graeca_vol_003/page/n497)]
   
-
 ### Secondary Literature
 
 * Allard, Guy (ed.), 1986, *Jean Scot écrivain*, Montréal: Bellarmin.

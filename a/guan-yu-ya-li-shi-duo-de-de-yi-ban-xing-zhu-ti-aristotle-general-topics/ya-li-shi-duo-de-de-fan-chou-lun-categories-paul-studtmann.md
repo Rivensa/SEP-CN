@@ -1,13 +1,12 @@
 # 亚里士多德的范畴论 categories (Paul Studtmann)
 
-_首次发表于 2007 年 9 月 7 日；实质性修订于 2021 年 2 月 2 日_
+*首次发表于 2007 年 9 月 7 日；实质性修订于 2021 年 2 月 2 日*
 
 亚里士多德的《范畴论》是一部非常重要的哲学著作。它不仅呈现了亚里士多德自己哲学思辨的骨干，而且对许多西方传统中最伟大的哲学家的体系产生了无与伦比的影响。《范畴论》中的一系列学说，我将在此称之为“范畴主义”，为亚里士多德的各种哲学研究提供了研究框架，涵盖了他在《物理学》中对时间和变化的讨论，到《形而上学》中关于存在的科学，甚至延伸到他在《Nicomachean Ethics》中对柏拉图伦理学的否定。除了他自己的作品之外，亚里士多德的范畴主义还吸引了普罗提诺、波菲利、阿奎那、笛卡尔、斯宾诺莎、莱布尼兹、洛克、伯克利、休谟、康德、黑格尔、布伦塔诺和海德格尔等各种不同的哲学家的关注（仅举几例），他们或多或少地接受、捍卫、修改或拒绝了其核心观点。所有这些哲学家以不同的方式认为有必要与亚里士多德的范畴方案的特点达成一致。
 
 显然，亚里士多德开创的范畴主义事业在哲学心灵中深入人心。尽管如此，尽管其广泛影响力，但试图描述范畴主义面临着重大困难：专家们对其最重要和基本的方面存在分歧。以下每个问题都得到了备受尊敬的学者和哲学家截然不同的答案。范畴分类的对象是什么？亚里士多德的方案背后有什么谓词理论？范畴主义与亚里士多德的另一个重要本体论理论——物质形态论之间的关系是什么？如果有的话，物质在范畴方案中的位置是什么？亚里士多德何时写下《范畴论》？亚里士多德是否写下《范畴论》？《范畴论》中的种类列表是亚里士多德经过深思熟虑的列表，还是他在其他地方修改了自己的观点？亚里士多德在《范畴论》中对实体的观点是否与他在《形而上学》中的观点一致？亚里士多德是否使用某种方法来生成他的范畴列表？亚里士多德的范畴主义在整体或部分上在哲学上是否可辩护？如果只是部分可辩护，范畴主义的哪个部分是可辩护的？
 
 鉴于专家对亚里士多德的《范畴论》甚至最基本方面的意见分歧，不可避免地，试图对其基本立场进行中立描述的尝试将被一些学者视为错误的，甚至可能是严重错误的。可以尝试通过评论每个学术辩论和观点来解决这个问题，但这样的项目将无法展现亚里士多德范畴主义最引人注目的特点。因此，在接下来的内容中，我将采取不同的方式。首先，我将以一种自然但可能过于简化的方式解释亚里士多德范畴方案的主要结构，同时暂停一下，注意一些特别有争议的观点。然后，我将讨论一个关于范畴的重要学术和哲学辩论，即亚里士多德是否通过某种系统的程序生成了他著名的列表。这场辩论之所以有趣，很大程度上是因为它涉及到最基本的形而上学主题之一：什么是正确的范畴系统？我最终并不关心提出亚里士多德《范畴论》的“正确”解释。相反，我只希望为这部永远迷人的作品的内容提供一个有用的介绍。
-
 
 ***
 
@@ -47,9 +46,9 @@ _首次发表于 2007 年 9 月 7 日；实质性修订于 2021 年 2 月 2 日_
 
 ### 2.1 总论
 
-在提供了他的第一个分类系统之后，亚里士多德转向了_predicamenta_并提出了第二个分类系统，这个系统占据了《范畴论》剩余部分的大部分篇幅。亚里士多德将他所称之为_ta legomena_（τἃ λεγόμενα），即“所说的事物”，分为十种不同的类型（1b25）。根据亚里士多德的说法，所说的事物是指词语（_De Int_ 16a3），因此自然而然地将他的第二个系统解释为对词语的分类。由于英语中的“category”一词源自希腊语中的“predicate”，人们可能自然而然地将第二个系统视为对不同类型的语言谓词的分类。然而，关于第二个分类系统的主题存在着相当大的争议。
+在提供了他的第一个分类系统之后，亚里士多德转向了_predicamenta_并提出了第二个分类系统，这个系统占据了《范畴论》剩余部分的大部分篇幅。亚里士多德将他所称之为_ta legomena_（τἃ λεγόμενα），即“所说的事物”，分为十种不同的类型（1b25）。根据亚里士多德的说法，所说的事物是指词语（*De Int* 16a3），因此自然而然地将他的第二个系统解释为对词语的分类。由于英语中的“category”一词源自希腊语中的“predicate”，人们可能自然而然地将第二个系统视为对不同类型的语言谓词的分类。然而，关于第二个分类系统的主题存在着相当大的争议。
 
-有三个理由可以认为亚里士多德的主要兴趣不是词语，而是词语所对应的世界中的对象。首先，他的说法_ta legomena_实际上是模棱两可的，既可以是“所说的事物”，其中这些事物可能是词语，也可能不是词语，也可以是“所谈论的事物”，其中这些事物更自然地被认为是通过词语所指称的事物。其次，亚里士多德对各个范畴所属项目的例子通常是超语言的。例如，他对物质的例子是一个个体人和一匹马。第三，亚里士多德明确接受了一种意义理论，即词语按照约定表示概念，而概念自然地表示世界上的对象（_De Int_ 16a3）。因此，即使他在某种意义上对词语进行分类，将他的分类视为最终由我们的词语所对应的世界中的对象所驱动是很自然的。
+有三个理由可以认为亚里士多德的主要兴趣不是词语，而是词语所对应的世界中的对象。首先，他的说法_ta legomena_实际上是模棱两可的，既可以是“所说的事物”，其中这些事物可能是词语，也可能不是词语，也可以是“所谈论的事物”，其中这些事物更自然地被认为是通过词语所指称的事物。其次，亚里士多德对各个范畴所属项目的例子通常是超语言的。例如，他对物质的例子是一个个体人和一匹马。第三，亚里士多德明确接受了一种意义理论，即词语按照约定表示概念，而概念自然地表示世界上的对象（*De Int* 16a3）。因此，即使他在某种意义上对词语进行分类，将他的分类视为最终由我们的词语所对应的世界中的对象所驱动是很自然的。
 
 那些对亚里士多德第二个分类系统的语言解释不满意的学者们已经朝着几个方向发展。有些人将亚里士多德解释为对概念进行分类。然而，对语言解释提出的异议同样也可以对概念解释提出。其他学者将亚里士多德解释为对超语言和超概念现实进行分类。最后，一些学者通过将亚里士多德解释为对语言谓词进行分类，_只要_它们与语义上重要的方式与世界相关联，从而综合了语言和超语言的解释。尽管我认为后一种解释可能是最能经受严密文本审查的解释，但第二个分类系统的一般特征最容易通过关注超语言解释来看清楚。因此，在接下来的内容中，我将简化问题，假设亚里士多德的第一个分类系统实际上是对超语言项目的分类；并且我将注意到这种解释面临困难的地方。
 
@@ -91,9 +90,9 @@ _首次发表于 2007 年 9 月 7 日；实质性修订于 2021 年 2 月 2 日_
 * 无感知能力的 — 植物
 * 有感知能力的 — 动物
 
-_非理性的—非人类动物_
+*非理性的—非人类动物*
 
-_理性的—人类_
+*理性的—人类*
 
 这个属/种的等级体系远非完整——亚里士多德的生物学论文包含了一个非常丰富的动物分类学，既没有被捕捉到，也显然与非理性和理性动物的划分不相符——但它确实很好地说明了亚里士多德范畴论的一般结构。这个分类学中最低的种类逐渐转变为越来越一般的种类，直到达到最高的种类——实体。此外，关于自然种类成员是世界上一种基本类型的实体的想法有一些相当直观的东西，因此每个这样的实体都属于一种逐渐一般化的种类系统。当然，有人可能认为某种种类高于实体。但除了存在，或者也许更一般的种类“事物”之外，不清楚还有什么种类，而且正如我已经说过的，亚里士多德不仅拒绝了存在是一个属的观念，而且很难看出“事物”的相关意义是什么，如果这不仅仅是“实体”的另一个词的话。
 
@@ -126,7 +125,7 @@ _理性的—人类_
 
 在讨论数量之后，亚里士多德讨论了亲属关系这个范畴，无论是解释上还是哲学上，都比他对数量的讨论更加困难。现代哲学家可能会自然而然地认为这个范畴包含了我们现在所称之为“关系”的东西。但这是一个错误。这个范畴的名称是“ta pros ti”（τὰ πρός τι），字面意思是“朝向某事物的东西”。换句话说，亚里士多德似乎是在对世界中的事物进行分类，因为它们是朝向其他事物的。然而，对于亚里士多德来说，事物之所以朝向其他事物，是因为它们适用于某种关系谓词。亚里士多德说：如果事物“作为这样的事物”被说成是其他事物的一部分，或者以某种方式与其他事物相关联，那么它们就被称为“亲属关系”。例如，更大的事物“作为这样的事物”被说成是其他事物的一部分，因为它被说成比某事物更大（6a36）。
 
-或许对亚里士多德讨论的最直接理解是以下这样的。他注意到语言中的某些谓词在逻辑上是不完整的 - 它们不用于形式为“_a_ 是 _F_”的简单主谓句，而是需要某种形式的补充。说“三大”是说一些不完整的东西 - 要完成它，需要说三大于什么。尽管如此，亚里士多德接受了一个学说，即世界上的属性总是存在于一个主体中。换句话说，尽管亚里士多德容忍了关系谓词，并且他确实认为世界上的对象与其他对象有关，但他不接受关系作为一种真正的实体类型。因此，亚里士多德的相对范畴是语言关系的一种中间形式，即关系谓词，和本体论方面，即关系本身。
+或许对亚里士多德讨论的最直接理解是以下这样的。他注意到语言中的某些谓词在逻辑上是不完整的 - 它们不用于形式为“*a* 是 *F*”的简单主谓句，而是需要某种形式的补充。说“三大”是说一些不完整的东西 - 要完成它，需要说三大于什么。尽管如此，亚里士多德接受了一个学说，即世界上的属性总是存在于一个主体中。换句话说，尽管亚里士多德容忍了关系谓词，并且他确实认为世界上的对象与其他对象有关，但他不接受关系作为一种真正的实体类型。因此，亚里士多德的相对范畴是语言关系的一种中间形式，即关系谓词，和本体论方面，即关系本身。
 
 对于我们的目的，我们不需要确定如何最好地解释亚里士多德的相对论，而是可以考虑一些亚里士多德讨论引发的问题。首先，任何对关系属性感到舒适的人无疑会发现亚里士多德的讨论有些混乱。尽管亚里士多德确实讨论了关系谓词的重要特征，例如，关系谓词涉及一种相互参照（6b28），但他的基本立场是，世界上的所有属性都是非关系的，这看起来是错误的。其次，亚里士多德的相对范畴引发了解释问题，特别是关于他的范畴方案究竟意味着分类的问题。与数量的情况一样，亚里士多德似乎关注的是相关的事物，而不是关系本身。事实上，从该范畴的名称可以看出这一点。
 
@@ -182,7 +181,7 @@ Ackrill 发现亚里士多德对质量的划分最多也就是没有动机。而
 
 根据康德的观点，亚里士多德的范畴列表是一个非系统的、但却是一次杰出的哲学头脑风暴的结果。因此，它不能作为一个正确的范畴集合而稳固存在。
 
-事实证明，尽管康德不知道亚里士多德可能生成他的范畴列表的任何程序，但学者们提出了许多建议。这些建议可以分为四类，我将称之为：(1) _问题方法_；(2) _语法方法_；(3) _模态方法_；(4) _中世纪派生方法_。
+事实证明，尽管康德不知道亚里士多德可能生成他的范畴列表的任何程序，但学者们提出了许多建议。这些建议可以分为四类，我将称之为：(1) *问题方法*；(2) *语法方法*；(3) *模态方法*；(4) *中世纪派生方法*。
 
 J.L.阿克里尔（1963 年）是问题方法的最杰出的捍卫者。他以亚里士多德在《论题》I 9 中的言论作为他解释的证据。阿克里尔声称有两种不同的方法来生成范畴，每种方法都涉及提问。根据第一种方法，我们要问一个单一的问题——它是什么？——尽可能多地问事物。所以，例如，我们可以问苏格拉底，苏格拉底是什么？我们可以回答——苏格拉底是一个人。然后我们可以把同样的问题转向我们给出的答案：人是什么？我们可以回答：人是一种动物。最终，这个提问的过程将引导我们到达某个最高种类，本例中是实体。另一方面，如果我们开始问苏格拉底的颜色，比如他的白色，我们最终会得到最高种类的质量。阿克里尔声称，当这个过程完全进行时，将得到亚里士多德的十个不同且不可约的种类。根据第二种提问方法，我们要尽可能多地问一个单一的主要物质的不同问题。所以，例如，我们可以问——苏格拉底有多高？苏格拉底在哪里？苏格拉底是什么？在回答这些问题时，我们会回答五英尺，在雅典集市，人。然后我们会意识到我们对各种问题的回答分为十个不可约的种类。
 
@@ -232,81 +231,81 @@ Haaparanta 和 Koskinen（2012）以 Michael Loux（2012b）对亚里士多德�
 
 ## Bibliography
 
-* Ackrill, J. L., 1963. _Aristotle: Categories and De Interpretatione_, Oxford: Clarendon Press.
-* Allen, R. E., 1969. “Individual Properties in Aristotle’s _Categories_,” _Phronesis_ 14: 31–39.
-* Alwishah, Ahmed, and Hayes, Josh (eds.), 2015. _Aristotle and the Arabic Tradition_, Cambridge: Cambridge University Press.
-* Ammonius. _On Aristotle Categories_, S.M. Cohen and G.B. Matthews, (trans.), London/Ithaca: New York, 1991.
-* Annas, J., 1974. “Individuals in Aristotle’s _Categories_: Two Queries,” _Phronesis_, 19: 146–152.
-* Aquinas, Thomas. _Summa Theologica_, translated by the Fathers of the English Dominican Province, New York, NY: Benzinger Bros, 1948.
-* –––. _Commentary on Aristotle’s_ Metaphysics, J.P. Rowan, (trans.), Notre Dame: Dumb Ox Press, 1961.
-* –––. _Treatise on the Virtues_, John A. Oesterle (trans.), Notre Dame: University of Notre Dame Press, 1984.
-* Brentano, Franz. _On the Several Senses of Being in Aristotle_, R. George (trans. and ed.), Berkeley: University of California Press, 1975.
-* Baumer, Michael, 1993. “Chasing Aristotle’s Categories Down the Tree of Grammar,” _Journal of Philosophical Research_, XVIII: 341–449.
-* Bonitz, J., 1853. “Ueber die Kategorien des Aristoteles”, _Sitzungsberichte der Wiener Akademie_, 10: 591–645.
-* Code, Alan, 1985. “On the Origins of Some Aristotelian Theses About Predication,” in J. Bogen and J. E. McGuire (eds.), _How Things Are: Studies in Predication and the History of Philosophy_, Dordrecht: Reidel, pp. 101–131.
-* Cresswell, M.J., 1975. “What Is Aristotle’s Theory of Universals?” _Australasian Journal of Philosophy_, 53: 238–247.
-* Dancy, R., 1975. “On Some of Aristotle’s First Thoughts about Substances,” _Philosophical Review_, 84: 338–373.
-* –––, 1978. “On some of Aristotle’s Second Thoughts about Substances: Matter,” _Philosophical Review_, 87: 372–413.
-* –––, 1983. “Aristotle on Existence,” _Synthèse_, 54: 409–442.
-* Devereux, Daniel T., 1992. “Inherence and Primary Substance in Aristotle’s _Categories_,” _Ancient Philosophy_ 12: 113–131.
-* De Vogel, C.J., 1960. “The Legend of the Platonizing Aristotle,” in _Aristotle and Plato in the Mid-Fourth Century_, I. Düring (ed.), Goteborg, pp. 248–256.
-* Dexippus. _On Aristotle Categories_, John Dillon (trans.), London/Ithaca: New York, 1990.
-* Driscoll, J., 1981. “_Eidê_ in Aristotle’s Earlier and Later Theories of Substance,” in D. J. O’Meara (ed.), _Studies in Aristotle_, Washington: Catholic University Press, pp. 129–159.
-* Düring, I., 1960. “Aristotle on Ultimate Principles From ‘Nature and Reality’,” in _Aristotle and Plato in the Mid-Fourth Century_, I. Düring (ed.), Goteborg, pp. 35–55.
-* Duerlinger, J., 1970. “Predication and Inherence in Aristotle’s _Categories_,” _Phronesis_, 15: 179–203.
-* Edelhoff, A.L., 2020. _Aristotle on Ontological Priority in the Categories_, Cambridge: Cambridge University Press.
-* Engmann, J., 1973. “Aristotle’s Distinction Between Substance and Universal,” _Phronesis_, 18: 139–155.
-* Ferejohn, M.T., 1980. “Aristotle on Focal Meaning and the Unity of Science,” _Phronesis_, 25: 117–128.
-* Furth, Montgomery, 1978. “Trans-temporal Stability in Aristotelian Substances,” _Journal of Philosophy_, 75: 627–32.
-* –––, 1988. _Substance, Form and Psyche: an Aristotelian Metaphysics_, Cambridge: Cambridge University Press.
-* Graham, D. W., 1987. _Aristotle’s Two Systems_, Oxford: Oxford University Press.
-* Granger, H., 1980. “A Defense of the Traditional Position concerning Aristotle’s non-substantial Particulars,” _Canadian Journal of Philosophy_, 10: 593–606.
-* –––, 1984. “Aristotle on Genus and Differentia,” _Journal of the History of Philosophy_, 22: 1–24.
-* –––, 1989. “Aristotle’s Natural Kinds,” _Philosophy_, 64: 245–247.
-* Griffin, M., 2015. _Aristotle’s Categories in the Early Roman Empire_, Oxford: Oxford University Press.
-* Haaparanta, Leila, and Heikki J. Koskinen (eds.), 2012. _Categories of Being: Essays on Metaphysics and Logic_, Oxford: Oxford University Press.
-* Heinaman, R., 1981a. “Non-substantial Individuals in the _Categories_,” _Phronesis_, 26: 295–307.
-* Irwin, T. H., 1988. _Aristotle’s First Principles_, Oxford: Clarendon Press.
-* Jones, B., 1972. “Individuals in Aristotle’s _Categories_,” _Phronesis_, 17: 107–123.
-* –––, 1975. “An Introduction to the first five chapters of Aristotle’s _Categories_,” _Phronesis_, 20: 146–172.
-* Kahm, Nick, 2015. “Aquinas on Quality,” _British Journal of the History of Philosophy_, 24(1): 23–44.
-* Kant, Immanuel, _Critique of Pure Reason_, N. Kemp Smith (trans.), London: St. Martin’s Press, 1965.
+* Ackrill, J. L., 1963. *Aristotle: Categories and De Interpretatione*, Oxford: Clarendon Press.
+* Allen, R. E., 1969. “Individual Properties in Aristotle’s *Categories*,” *Phronesis* 14: 31–39.
+* Alwishah, Ahmed, and Hayes, Josh (eds.), 2015. *Aristotle and the Arabic Tradition*, Cambridge: Cambridge University Press.
+* Ammonius. *On Aristotle Categories*, S.M. Cohen and G.B. Matthews, (trans.), London/Ithaca: New York, 1991.
+* Annas, J., 1974. “Individuals in Aristotle’s *Categories*: Two Queries,” *Phronesis*, 19: 146–152.
+* Aquinas, Thomas. *Summa Theologica*, translated by the Fathers of the English Dominican Province, New York, NY: Benzinger Bros, 1948.
+* –––. *Commentary on Aristotle’s* Metaphysics, J.P. Rowan, (trans.), Notre Dame: Dumb Ox Press, 1961.
+* –––. *Treatise on the Virtues*, John A. Oesterle (trans.), Notre Dame: University of Notre Dame Press, 1984.
+* Brentano, Franz. *On the Several Senses of Being in Aristotle*, R. George (trans. and ed.), Berkeley: University of California Press, 1975.
+* Baumer, Michael, 1993. “Chasing Aristotle’s Categories Down the Tree of Grammar,” *Journal of Philosophical Research*, XVIII: 341–449.
+* Bonitz, J., 1853. “Ueber die Kategorien des Aristoteles”, *Sitzungsberichte der Wiener Akademie*, 10: 591–645.
+* Code, Alan, 1985. “On the Origins of Some Aristotelian Theses About Predication,” in J. Bogen and J. E. McGuire (eds.), *How Things Are: Studies in Predication and the History of Philosophy*, Dordrecht: Reidel, pp. 101–131.
+* Cresswell, M.J., 1975. “What Is Aristotle’s Theory of Universals?” *Australasian Journal of Philosophy*, 53: 238–247.
+* Dancy, R., 1975. “On Some of Aristotle’s First Thoughts about Substances,” *Philosophical Review*, 84: 338–373.
+* –––, 1978. “On some of Aristotle’s Second Thoughts about Substances: Matter,” *Philosophical Review*, 87: 372–413.
+* –––, 1983. “Aristotle on Existence,” *Synthèse*, 54: 409–442.
+* Devereux, Daniel T., 1992. “Inherence and Primary Substance in Aristotle’s *Categories*,” *Ancient Philosophy* 12: 113–131.
+* De Vogel, C.J., 1960. “The Legend of the Platonizing Aristotle,” in *Aristotle and Plato in the Mid-Fourth Century*, I. Düring (ed.), Goteborg, pp. 248–256.
+* Dexippus. *On Aristotle Categories*, John Dillon (trans.), London/Ithaca: New York, 1990.
+* Driscoll, J., 1981. “*Eidê* in Aristotle’s Earlier and Later Theories of Substance,” in D. J. O’Meara (ed.), *Studies in Aristotle*, Washington: Catholic University Press, pp. 129–159.
+* Düring, I., 1960. “Aristotle on Ultimate Principles From ‘Nature and Reality’,” in *Aristotle and Plato in the Mid-Fourth Century*, I. Düring (ed.), Goteborg, pp. 35–55.
+* Duerlinger, J., 1970. “Predication and Inherence in Aristotle’s *Categories*,” *Phronesis*, 15: 179–203.
+* Edelhoff, A.L., 2020. *Aristotle on Ontological Priority in the Categories*, Cambridge: Cambridge University Press.
+* Engmann, J., 1973. “Aristotle’s Distinction Between Substance and Universal,” *Phronesis*, 18: 139–155.
+* Ferejohn, M.T., 1980. “Aristotle on Focal Meaning and the Unity of Science,” *Phronesis*, 25: 117–128.
+* Furth, Montgomery, 1978. “Trans-temporal Stability in Aristotelian Substances,” *Journal of Philosophy*, 75: 627–32.
+* –––, 1988. *Substance, Form and Psyche: an Aristotelian Metaphysics*, Cambridge: Cambridge University Press.
+* Graham, D. W., 1987. *Aristotle’s Two Systems*, Oxford: Oxford University Press.
+* Granger, H., 1980. “A Defense of the Traditional Position concerning Aristotle’s non-substantial Particulars,” *Canadian Journal of Philosophy*, 10: 593–606.
+* –––, 1984. “Aristotle on Genus and Differentia,” *Journal of the History of Philosophy*, 22: 1–24.
+* –––, 1989. “Aristotle’s Natural Kinds,” *Philosophy*, 64: 245–247.
+* Griffin, M., 2015. *Aristotle’s Categories in the Early Roman Empire*, Oxford: Oxford University Press.
+* Haaparanta, Leila, and Heikki J. Koskinen (eds.), 2012. *Categories of Being: Essays on Metaphysics and Logic*, Oxford: Oxford University Press.
+* Heinaman, R., 1981a. “Non-substantial Individuals in the *Categories*,” *Phronesis*, 26: 295–307.
+* Irwin, T. H., 1988. *Aristotle’s First Principles*, Oxford: Clarendon Press.
+* Jones, B., 1972. “Individuals in Aristotle’s *Categories*,” *Phronesis*, 17: 107–123.
+* –––, 1975. “An Introduction to the first five chapters of Aristotle’s *Categories*,” *Phronesis*, 20: 146–172.
+* Kahm, Nick, 2015. “Aquinas on Quality,” *British Journal of the History of Philosophy*, 24(1): 23–44.
+* Kant, Immanuel, *Critique of Pure Reason*, N. Kemp Smith (trans.), London: St. Martin’s Press, 1965.
 * Knuttilla, S., 2012. “The Metaphysics of the Categories in John Duns Scotus,” in Haaparanta and Koskinen (eds.) 2012, pp. 62–77.
 * Kukkonen, T., 2012. “Dividing Being: Before and After Avicenna,” in Haaparanta and Koskinen (eds.) 2012, pp. 36–61.
 * Loux, M., 2012a. “Substances, Coincidentals, and Aristotle’s Constituent Ontology,” in Shields (ed.) 2012, pp. 372–399.
 * –––, 2012b. “Being, Categories and Universal Reference in Aristotle,” in Haaparanta and Koskinen (eds.) 2012, pp. 17–35.
-* Matthews, Gareth B., 1989. “The Enigma of _Categories_ la20ff and Why it Matters,” _Apeiron_, 22: 91–104.
-* McMahon, William, 1987a, “Radulphus Brito on the Sufficiency of the Categories,” _Cahiers de l’Institut du Moyen-Age Grec et Latin_, 39: pp. 81–96
-* –––, 1987b. “Aristotelian Categorial Theory Viewed as a Theory of Componential Semantics,” in Hans Aarsleff, Louis G. Kelly and Hans Josef Niederhe (eds.), _Studies in the History of the Language Sciences_, XXXVIII: 53–64.
-* Moravcsik, J.M.E., 1967a. “Aristotle on Predication,” _Philosophical Review_, 76: 80–96.
-* –––, 1967b. “Aristotle’s Theory of Categories,” in _Aristotle: A Collection of Critical Essays_, Garden City: Doubleday & Co., pp. 125–148.
+* Matthews, Gareth B., 1989. “The Enigma of *Categories* la20ff and Why it Matters,” *Apeiron*, 22: 91–104.
+* McMahon, William, 1987a, “Radulphus Brito on the Sufficiency of the Categories,” *Cahiers de l’Institut du Moyen-Age Grec et Latin*, 39: pp. 81–96
+* –––, 1987b. “Aristotelian Categorial Theory Viewed as a Theory of Componential Semantics,” in Hans Aarsleff, Louis G. Kelly and Hans Josef Niederhe (eds.), *Studies in the History of the Language Sciences*, XXXVIII: 53–64.
+* Moravcsik, J.M.E., 1967a. “Aristotle on Predication,” *Philosophical Review*, 76: 80–96.
+* –––, 1967b. “Aristotle’s Theory of Categories,” in *Aristotle: A Collection of Critical Essays*, Garden City: Doubleday & Co., pp. 125–148.
 * Normore, C., 2012, “Ockham on Being,” in Haaparanta and Koskinen (eds.): 78–98.
-* Owen, G.E.L., 1960. “Logic and Metaphysics in some early works of Aristotle,” in _Aristotle and Plato in the Mid-Fourth Century_, Düring (ed.), Gotenborg, pp. 163-190.
-* –––, 1965a. “Inherence,” _Phronesis_, 10: 97–105.
-* –––, 1965b. “Aristotle on the Snares of Ontology,” in R. Bambrough (ed.), _New Essays on Plato and Aristotle_, London: Routledge and Kegan Paul, pp. 69–95.
-* –––, 1965c. “The Platonism of Aristotle,” _Proceedings of the British Academy_, 50: 125–150; reprinted in Barnes, Schofield, and Sorabji (eds.), _Articles on Aristotle_ (Volume 1: _Science_), London: Duckworth.
-* –––, 1978. “Particular and General,” _Proceedings of the Aristotelian Society_, 79: 1–21.
-* Owens, Joseph. 1978. _The Doctrine of Being in the Aristotelian Metaphysics_, 3d edition, revised, Toronto: Pontifical Institute of Mediaeval Studies.
-* Porphyry. _On Aristotle’s Categories_, Steven K. Strange, (trans.). Ithaca: Cornell University Press, 1992.
-* –––. _Isagoge_, in _Five Texts on the Medieval Problem of Universals_, Paul Vincent Spade (trans. and ed.) Indianapolis: Hackett, 1994.
-* Ross, David. 1960. “The Development of Aristotle’s Thought,” in _Aristotle and Plato in the Mid-Fourth Century_, I. Düring (ed.), Goteborg, pp. 1–17.
-* Schofield M. (ed.), 2013. _Aristotle, Plato, and Pythagoreanism in the First Century BC_, Cambridge: Cambridge University Press.
-* Schofield, M., and R. R. K. Sorabji (eds.), 1975. _Articles on Aristotle_ (Volume 1: Science), London: Duckworth, pp. 14–34.
+* Owen, G.E.L., 1960. “Logic and Metaphysics in some early works of Aristotle,” in *Aristotle and Plato in the Mid-Fourth Century*, Düring (ed.), Gotenborg, pp. 163-190.
+* –––, 1965a. “Inherence,” *Phronesis*, 10: 97–105.
+* –––, 1965b. “Aristotle on the Snares of Ontology,” in R. Bambrough (ed.), *New Essays on Plato and Aristotle*, London: Routledge and Kegan Paul, pp. 69–95.
+* –––, 1965c. “The Platonism of Aristotle,” *Proceedings of the British Academy*, 50: 125–150; reprinted in Barnes, Schofield, and Sorabji (eds.), *Articles on Aristotle* (Volume 1: *Science*), London: Duckworth.
+* –––, 1978. “Particular and General,” *Proceedings of the Aristotelian Society*, 79: 1–21.
+* Owens, Joseph. 1978. *The Doctrine of Being in the Aristotelian Metaphysics*, 3d edition, revised, Toronto: Pontifical Institute of Mediaeval Studies.
+* Porphyry. *On Aristotle’s Categories*, Steven K. Strange, (trans.). Ithaca: Cornell University Press, 1992.
+* –––. *Isagoge*, in *Five Texts on the Medieval Problem of Universals*, Paul Vincent Spade (trans. and ed.) Indianapolis: Hackett, 1994.
+* Ross, David. 1960. “The Development of Aristotle’s Thought,” in *Aristotle and Plato in the Mid-Fourth Century*, I. Düring (ed.), Goteborg, pp. 1–17.
+* Schofield M. (ed.), 2013. *Aristotle, Plato, and Pythagoreanism in the First Century BC*, Cambridge: Cambridge University Press.
+* Schofield, M., and R. R. K. Sorabji (eds.), 1975. *Articles on Aristotle* (Volume 1: Science), London: Duckworth, pp. 14–34.
 * Shields, Christopher, 2012, “Being Qua Being,” in Shields (ed.) 2012, pp. 343–371.
-* Shields, Christopher (ed.), 2012. _Oxford Handbook of Aristotle_, Oxford: Oxford University Press.
-* Simplicius. _On Aristotle’s Categories 9–15_, R. Gaskin (trans.), London/Ithaca: New York, 2000.
-* –––. _On Aristotle’s Categories 5–6_, Frans De Haas and B. Fleet (trans.), London/Ithaca: New York, 2001.
-* –––. _On Aristotle’s Categories 7–8_, B. Fleet (trans.), London/Ithaca: New York, 2002.
-* –––. _On Aristotle’s Categories 1–4_, M. Chase (trans.), London/Ithaca: New York, 2003.
-* Stough, C. L., 1972. “Language and Ontology in Aristotle’s _Categories_,” _Journal of the History of Philosophy_, 10: 261–272.
-* Studtmann, P., 2008. _The Foundations of Aristotle’s Categorial Scheme_, Milwaukee: Marquette University Press.
+* Shields, Christopher (ed.), 2012. *Oxford Handbook of Aristotle*, Oxford: Oxford University Press.
+* Simplicius. *On Aristotle’s Categories 9–15*, R. Gaskin (trans.), London/Ithaca: New York, 2000.
+* –––. *On Aristotle’s Categories 5–6*, Frans De Haas and B. Fleet (trans.), London/Ithaca: New York, 2001.
+* –––. *On Aristotle’s Categories 7–8*, B. Fleet (trans.), London/Ithaca: New York, 2002.
+* –––. *On Aristotle’s Categories 1–4*, M. Chase (trans.), London/Ithaca: New York, 2003.
+* Stough, C. L., 1972. “Language and Ontology in Aristotle’s *Categories*,” *Journal of the History of Philosophy*, 10: 261–272.
+* Studtmann, P., 2008. *The Foundations of Aristotle’s Categorial Scheme*, Milwaukee: Marquette University Press.
 * –––, 2012. “Aristotle’s Categorial Scheme,” in Shields (ed.) 2012, pp. 63–80.
-* –––, 2003a. “Aristotle’s Category of Quality: A Regimented Interpretation,” _Apeiron_, 36(3): 205–227.
-* –––, 2003b. “Aristotle’s Category of Quantity: A Unified Interpretation,” _Apeiron_, 37(1): 69–91.
-* Thorp, J. W., 1974. “Aristotle’s Use of _Categories_,” _Phronesis_, 19: 238–256.
-* Trendelenburg, Adolf, 1846. _Geschichte der Kategorienlehre_, Berlin: Verlag von G. Bethge.
-* Tuominem, M, 2009. _The Ancient Commentators on Plato and Aristotle_, New York: Acumen.
-* Wedin, Michael V., 1993. “Nonsubstantial Individuals,” _Phronesis_, 38: 137–165.
+* –––, 2003a. “Aristotle’s Category of Quality: A Regimented Interpretation,” *Apeiron*, 36(3): 205–227.
+* –––, 2003b. “Aristotle’s Category of Quantity: A Unified Interpretation,” *Apeiron*, 37(1): 69–91.
+* Thorp, J. W., 1974. “Aristotle’s Use of *Categories*,” *Phronesis*, 19: 238–256.
+* Trendelenburg, Adolf, 1846. *Geschichte der Kategorienlehre*, Berlin: Verlag von G. Bethge.
+* Tuominem, M, 2009. *The Ancient Commentators on Plato and Aristotle*, New York: Acumen.
+* Wedin, Michael V., 1993. “Nonsubstantial Individuals,” *Phronesis*, 38: 137–165.
 
 ## Academic Tools
 
@@ -318,7 +317,7 @@ Haaparanta 和 Koskinen（2012）以 Michael Loux（2012b）对亚里士多德�
 
 ## Other Internet Resources
 
-* Aquinas, Thomas, [_Summa Theologica_](http://www.newadvent.org/summa/), earlier edition of the translation cited in the Bibliography.
+* Aquinas, Thomas, [*Summa Theologica*](http://www.newadvent.org/summa/), earlier edition of the translation cited in the Bibliography.
 
 \[Please contact the author with other suggestions.]
 
@@ -327,4 +326,4 @@ Haaparanta 和 Koskinen（2012）以 Michael Loux（2012b）对亚里士多德�
 [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [substance](https://plato.stanford.edu/entries/substance/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Paul Studtmann <[_pastudtmann@davidson.edu_](mailto:pastudtmann%40davidson%2eedu)>
+Paul Studtmann <[*pastudtmann@davidson.edu*](mailto:pastudtmann%40davidson%2eedu)>

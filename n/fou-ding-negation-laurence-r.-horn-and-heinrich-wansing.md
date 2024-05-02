@@ -1,10 +1,8 @@
 # 否定 negation (Laurence R. Horn and Heinrich Wansing)
 
-_首次发表于2015年1月7日，实质修订于2020年2月20日。_
+*首次发表于2015年1月7日，实质修订于2020年2月20日。*
 
 否定首先是语义对立的现象。作为这样一个现象，否定将表达式 e 与另一个在某种程度上与 e 的意义相对立的表达式联系起来。这种关系可以在句法和语用上以不同的方式实现。此外，存在不同类型的语义对立。第 1 节主要涉及自然语言中的否定和对立，从历史和系统的角度来看。第 2 节从哲学逻辑的角度着重讨论否定作为一元连词。否定的历史在 Horn 1989 和 Speranza 和 Horn 2012 中得到了全面的研究和调查。
-
- 
 
 ***
 
@@ -86,11 +84,11 @@ b.
 
 否定的概念通常在语义上限制于命题之间的矛盾对立，其中¬A 可以被解释为“不是 A 的情况”。如亚里士多德的《范畴论》（11b17）中所介绍的，对立的种类（apophasis）被划分为包括相反和矛盾的物种。矛盾的对立，无论是肯定和否定的一个单一断言（苏格拉底是聪明的/苏格拉底不聪明）还是量化表达式（所有的快乐都是好的/一些快乐不好），既是互相排斥的，也是互相穷尽的，而相反的对立（苏格拉底是聪明的/苏格拉底是愚蠢的；所有的快乐都是好的/没有一种快乐是好的）并不互相穷尽它们的领域。相反的命题不能同时为真，尽管它们可以同时为假。矛盾对的成员不能同时为真或假；矛盾对“在真和假之间划分”（参见关于矛盾和传统对立方阵的条目）。
 
-Contrary terms (_enantia_) come in two varieties (_Cat._ 11b38ff.). In immediate or logical contraries (_odd_/_even_, _sick_/_well_), a true middle—an entity satisfying the range of the two opposed terms but falling under neither of them—is excluded, e.g., an integer neither odd nor even. But mediate contrary pairs (_black_/_white_, _good_/_bad_) allow for a middle—a shade between black and white, a man or an act neither good nor bad. Neither mediate nor immediate contraries fall under the purview of the Law of Excluded Middle \[LEM] (_tertium non datur_).
+Contrary terms (*enantia*) come in two varieties (*Cat.* 11b38ff.). In immediate or logical contraries (*odd*/*even*, *sick*/*well*), a true middle—an entity satisfying the range of the two opposed terms but falling under neither of them—is excluded, e.g., an integer neither odd nor even. But mediate contrary pairs (*black*/*white*, *good*/*bad*) allow for a middle—a shade between black and white, a man or an act neither good nor bad. Neither mediate nor immediate contraries fall under the purview of the Law of Excluded Middle \[LEM] (*tertium non datur*).
 
-For immediate contraries formed by narrow-scope predicate term negation, the rendering _a is not-F_ in the traditional quasi-English phrasing corresponds to what Aristotle expresses through word order, utilizing the distinction between e.g., _einai mê leukon_ “to be not-white” and _mê einai leukon_ “not to be white” (_Prior Analytics_ I 51b10). For Aristotle, _a is neither F nor not-F_ can be true if a doesn’t exist (_Santa is neither white nor not-white_) or isn’t the kind of thing that can be _F_ (_The number 7 is neither white nor not-white_), given that _not-F_ is taken to affirm the negative property _non-F-ness_ of the subject rather than denying a positive property.
+For immediate contraries formed by narrow-scope predicate term negation, the rendering *a is not-F* in the traditional quasi-English phrasing corresponds to what Aristotle expresses through word order, utilizing the distinction between e.g., *einai mê leukon* “to be not-white” and *mê einai leukon* “not to be white” (*Prior Analytics* I 51b10). For Aristotle, *a is neither F nor not-F* can be true if a doesn’t exist (*Santa is neither white nor not-white*) or isn’t the kind of thing that can be *F* (*The number 7 is neither white nor not-white*), given that *not-F* is taken to affirm the negative property *non-F-ness* of the subject rather than denying a positive property.
 
-Other cases in which apparent contradictories can be seen as contraries, and thus immune from any application of LEM, are future contingents (_There will be_/_will not be a sea battle tomorrow_; cf. _De Int._ Chapter 9) and, in more recent work (Alxatib and Pelletier 2011, Ripley 2011a), vague predications. Thus _a is neither F nor not-F_ is often judged true when _F_ is a vague predicate (_bald, rich, tall_), although in the latter case speakers may also be willing to affirm that _a_ is both _F_ and not-_F_, which complicates matters (see the entries on [contradiction](https://plato.stanford.edu/entries/contradiction/), [future contingents](https://plato.stanford.edu/entries/future-contingents/), and [vagueness](https://plato.stanford.edu/entries/vagueness/)).
+Other cases in which apparent contradictories can be seen as contraries, and thus immune from any application of LEM, are future contingents (*There will be*/*will not be a sea battle tomorrow*; cf. *De Int.* Chapter 9) and, in more recent work (Alxatib and Pelletier 2011, Ripley 2011a), vague predications. Thus *a is neither F nor not-F* is often judged true when *F* is a vague predicate (*bald, rich, tall*), although in the latter case speakers may also be willing to affirm that *a* is both *F* and not-*F*, which complicates matters (see the entries on [contradiction](https://plato.stanford.edu/entries/contradiction/), [future contingents](https://plato.stanford.edu/entries/future-contingents/), and [vagueness](https://plato.stanford.edu/entries/vagueness/)).
 
 ### 1.5 否定、预设和特指术语
 
@@ -318,7 +316,7 @@ a.
 
 b.
 
-没有人（_不）见过吉安尼。“Nobody has seen Gianni”我没有和任何人（_ 不）说话。“With nobody have I spoken”
+没有人（*不）见过吉安尼。“Nobody has seen Gianni”我没有和任何人（* 不）说话。“With nobody have I spoken”
 
 否定协调是许多非标准英语变体的特点，尤其是在非正式的言语或歌词中（“我无法得到满足”）\[8]。非洲裔美国方言英语中的否定协调语法已经得到了特别深入的研究；参见 Green 2002 的有影响力的分析。
 
@@ -716,233 +714,233 @@ Humberstone（2000a，368）对拒绝主义提出质疑，要求拒绝主义者�
 
 ## Bibliography
 
-* Almukdad, A. and D. Nelson, 1984, “Constructible falsity and inexact predicates”, _Journal of Symbolic Logic_, 49: 231–233.
-* Alxatib, S. and F. J. Pelletier, 2011, “The psychology of vagueness: Borderline cases and contradictions”, _Mind and Language_, 26: 287–326.
-* Aristotle, \[_Cat._] and \[_De Int._], _Categories and De Interpretatione_, ed. and trans. by J. Ackrill, Oxford: Clarendon, 1963.
-* –––, \[Met.], _Metaphysics_, H. Apostle (ed.), Bloomington: Indiana University Press, 1966.
-* –––, _Prior Analytics_, trans. Hugh Tredinnick, Cambridge: Harvard University Press, 1967.
-* –––, \[_Soph. Elen._], _Sophistici Elenchi_, translated as _On Sophistical Refutations_, by W. A. Pickard-Cambridge, online book, Raleigh: Alex Catalogue.
-* Atlas, J. D., 1977, “Negation, ambiguity, and presupposition”, _Linguistics and Philosophy_, 1: 321–36.
-* –––, 2012, “Negation”, in K. Allan and K. Jaszczolt (eds.), _Cambridge Handbook of Pragmatics_, 351–376. Cambridge: Cambridge University Press.
+* Almukdad, A. and D. Nelson, 1984, “Constructible falsity and inexact predicates”, *Journal of Symbolic Logic*, 49: 231–233.
+* Alxatib, S. and F. J. Pelletier, 2011, “The psychology of vagueness: Borderline cases and contradictions”, *Mind and Language*, 26: 287–326.
+* Aristotle, \[*Cat.*] and \[*De Int.*], *Categories and De Interpretatione*, ed. and trans. by J. Ackrill, Oxford: Clarendon, 1963.
+* –––, \[Met.], *Metaphysics*, H. Apostle (ed.), Bloomington: Indiana University Press, 1966.
+* –––, *Prior Analytics*, trans. Hugh Tredinnick, Cambridge: Harvard University Press, 1967.
+* –––, \[*Soph. Elen.*], *Sophistici Elenchi*, translated as *On Sophistical Refutations*, by W. A. Pickard-Cambridge, online book, Raleigh: Alex Catalogue.
+* Atlas, J. D., 1977, “Negation, ambiguity, and presupposition”, *Linguistics and Philosophy*, 1: 321–36.
+* –––, 2012, “Negation”, in K. Allan and K. Jaszczolt (eds.), *Cambridge Handbook of Pragmatics*, 351–376. Cambridge: Cambridge University Press.
 * Avron, A., 1999, “Negation: Two points of view”, in Gabbay and Wansing 1999: 3–22.
-* –––, 2002, “On negation, completeness and consistency”, in D. Gabbay and F. Guenthner (eds.), _Handbook of Philosophical Logic, vol. 9_, 287–319, Dordrecht: Kluwer.
-* van der Auwera, J., 1996, “Modality: The three-layered scalar square”, _Journal of Semantics_, 13: 181–95.
+* –––, 2002, “On negation, completeness and consistency”, in D. Gabbay and F. Guenthner (eds.), *Handbook of Philosophical Logic, vol. 9*, 287–319, Dordrecht: Kluwer.
+* van der Auwera, J., 1996, “Modality: The three-layered scalar square”, *Journal of Semantics*, 13: 181–95.
 * –––, 2010, “On the diachrony of negation”, in Horn 2010b: 73–109.
-* Ayer, A. J., 1952, “Negation”, _Journal of Philosophy_, 49: 797–815.
-* Bar-Asher Siegal, E., 2015, “The case for external sentential negation: Evidence from Jewish Babylonian Aramaic”, _Linguistics_, 53: 1031–1078.
-* Barker, C., 2018, “Negative polarity as scope marking”, _Linguistics and Philosophy,_, 41: 483–510.
-* Bartsch, R., 1973, “‘Negative transportation’ gibt es nicht”, _Linguistische Berichte_, 27: 1–7.
-* Beaver, D. and B. Clark, 2008, _Sense and Sensitivity: How Focus Determines Meaning_, Oxford: Wiley-Blackwell.
-* Belnap, N. D., 1977a, “A useful four-valued logic”, in J.M. Dunn and G. Epstein (eds.) _Modern Uses of Multiple-Valued Logic_, 5–37, Dordrecht: Reidel.
-* –––, 1977b, “How a computer should think”, in G. Ryle (ed.), _Contemporary Aspects of Philosophy_, 30–56, Stocksfield: Oriel Press.
-* Bendall, K., 1978, “Natural deduction, separation, and the meaning of logical operators”, _Journal of Philosophical Logic_, 7: 245–276.
-* –––, 1979, “Negation as a sign of negative judgment”, _Notre Dame Journal of Formal Logic_, 20: 68–76.
-* van Benthem, J., 1979, “What Is Dialectical Logic?”, _Erkenntnis_, 14: 333–347.
-* Bergson, H., 1911, _Creative Evolution_, trans. A. Mitchell, New York: Modern.
-* Berto, F., 2014, “A Modality Called ‘Negation’”, _Mind_, 124: 761–793.
-* Berto, F. and G. Restall, 2019, “Negation on the Australian Plan”, _Journal of Philosophical Logic_, https://doi.org/10.1007/s10992-019-09510-2.
-* Bimbó, K. and J.M. Dunn, 2008, _Generalized Galois Logics. Relational Semantics of Nonclassical Logical Calculi_, Stanford: CSLI Publications.
-* Birkhoff, G. and J. von Neumann, 1936, “The logic of quantum mechanics”, _The Annals of Mathematics_, 37: 823–843.
-* Blanchette, F., 2009, _English Negative Concord, Negative Polarity, and Double Negation_, Ph.D. Dissertation, CUNY Graduate Center, New York \[[Blanchette 2015 available online](https://tinyurl.com/y5z89efk)].
-* Bogen, James, 1991, “Aristotelian contraries”, _Topoi_, 10: 53–66.
-* Bosanquet, B., 1888, _Logic, Vol. 1_, Oxford: Clarendon.
-* Braakhuis, H.A.G., 1979, _De 13de eeuwse tractaten over syncategorematische termen_, University of Leiden, Ph.D. thesis.
-* Brown, P. and C. Levinson, 1987, _Politeness: Some Universals in Language Usage_, Cambridge: Cambridge University Press.
-* Burton-Roberts, Noel, 1989, _The Limits to Debate: A Revised Theory of Semantic Presupposition_, Cambridge: Cambridge University Press.
-* –––, 1999, “Presupposition-cancellation and metalinguistic negation: A reply to Carston”, _Journal of Linguistics_, 25: 347–364.
-* Carston, R., 1996, “Metalinguistic negation and echoic use”, _Journal of Linguistics_, 25: 309–30.
-* –––, 1999, “Negation, presupposition and metarepresentation: A response to Noel Burton-Roberts”, _Journal of Linguistics_, 25: 365–389.
-* Chellas, B. F., 1980, _Modal Logic. An Introduction_, Cambridge: Cambridge University Press.
-* Chierchia, G., 2013, _Logic in Logic in Grammar: Polarity, Free Choice, and Intervention_, Oxford: Oxford University Press.
-* Clark, K., 1978, “Negation as Failure”, in H. Gallaire and J. Minker (eds.), _Logic and Data Bases_, 292–322, Plenum Press: New York.
-* Colacito, A., D. de Jongh and A. L. Vargas, 2017, “Subminimal negation”, _Soft Computing_, 21: 165–174.
-* Collins, C. and P. Postal, 2014, _Classical NEG-Raising: An Essay in the Syntax of Negation_, Cambridge, MA: MIT Press.
-* –––, 2018, “Disentangling two distinct notions of NEG raising”, _Semantics and Pragmatics_, 11.5: 1–21 (Early access version). \[[Collins and Postal 2018 available online.](https://tinyurl.com/y297wluk)]
-* Copeland B.J., 1979, “On when a semantics is not a semantics”, _Journal of Philosophical Logic_, 8: 399–413.
+* Ayer, A. J., 1952, “Negation”, *Journal of Philosophy*, 49: 797–815.
+* Bar-Asher Siegal, E., 2015, “The case for external sentential negation: Evidence from Jewish Babylonian Aramaic”, *Linguistics*, 53: 1031–1078.
+* Barker, C., 2018, “Negative polarity as scope marking”, *Linguistics and Philosophy,*, 41: 483–510.
+* Bartsch, R., 1973, “‘Negative transportation’ gibt es nicht”, *Linguistische Berichte*, 27: 1–7.
+* Beaver, D. and B. Clark, 2008, *Sense and Sensitivity: How Focus Determines Meaning*, Oxford: Wiley-Blackwell.
+* Belnap, N. D., 1977a, “A useful four-valued logic”, in J.M. Dunn and G. Epstein (eds.) *Modern Uses of Multiple-Valued Logic*, 5–37, Dordrecht: Reidel.
+* –––, 1977b, “How a computer should think”, in G. Ryle (ed.), *Contemporary Aspects of Philosophy*, 30–56, Stocksfield: Oriel Press.
+* Bendall, K., 1978, “Natural deduction, separation, and the meaning of logical operators”, *Journal of Philosophical Logic*, 7: 245–276.
+* –––, 1979, “Negation as a sign of negative judgment”, *Notre Dame Journal of Formal Logic*, 20: 68–76.
+* van Benthem, J., 1979, “What Is Dialectical Logic?”, *Erkenntnis*, 14: 333–347.
+* Bergson, H., 1911, *Creative Evolution*, trans. A. Mitchell, New York: Modern.
+* Berto, F., 2014, “A Modality Called ‘Negation’”, *Mind*, 124: 761–793.
+* Berto, F. and G. Restall, 2019, “Negation on the Australian Plan”, *Journal of Philosophical Logic*, https://doi.org/10.1007/s10992-019-09510-2.
+* Bimbó, K. and J.M. Dunn, 2008, *Generalized Galois Logics. Relational Semantics of Nonclassical Logical Calculi*, Stanford: CSLI Publications.
+* Birkhoff, G. and J. von Neumann, 1936, “The logic of quantum mechanics”, *The Annals of Mathematics*, 37: 823–843.
+* Blanchette, F., 2009, *English Negative Concord, Negative Polarity, and Double Negation*, Ph.D. Dissertation, CUNY Graduate Center, New York \[[Blanchette 2015 available online](https://tinyurl.com/y5z89efk)].
+* Bogen, James, 1991, “Aristotelian contraries”, *Topoi*, 10: 53–66.
+* Bosanquet, B., 1888, *Logic, Vol. 1*, Oxford: Clarendon.
+* Braakhuis, H.A.G., 1979, *De 13de eeuwse tractaten over syncategorematische termen*, University of Leiden, Ph.D. thesis.
+* Brown, P. and C. Levinson, 1987, *Politeness: Some Universals in Language Usage*, Cambridge: Cambridge University Press.
+* Burton-Roberts, Noel, 1989, *The Limits to Debate: A Revised Theory of Semantic Presupposition*, Cambridge: Cambridge University Press.
+* –––, 1999, “Presupposition-cancellation and metalinguistic negation: A reply to Carston”, *Journal of Linguistics*, 25: 347–364.
+* Carston, R., 1996, “Metalinguistic negation and echoic use”, *Journal of Linguistics*, 25: 309–30.
+* –––, 1999, “Negation, presupposition and metarepresentation: A response to Noel Burton-Roberts”, *Journal of Linguistics*, 25: 365–389.
+* Chellas, B. F., 1980, *Modal Logic. An Introduction*, Cambridge: Cambridge University Press.
+* Chierchia, G., 2013, *Logic in Logic in Grammar: Polarity, Free Choice, and Intervention*, Oxford: Oxford University Press.
+* Clark, K., 1978, “Negation as Failure”, in H. Gallaire and J. Minker (eds.), *Logic and Data Bases*, 292–322, Plenum Press: New York.
+* Colacito, A., D. de Jongh and A. L. Vargas, 2017, “Subminimal negation”, *Soft Computing*, 21: 165–174.
+* Collins, C. and P. Postal, 2014, *Classical NEG-Raising: An Essay in the Syntax of Negation*, Cambridge, MA: MIT Press.
+* –––, 2018, “Disentangling two distinct notions of NEG raising”, *Semantics and Pragmatics*, 11.5: 1–21 (Early access version). \[[Collins and Postal 2018 available online.](https://tinyurl.com/y297wluk)]
+* Copeland B.J., 1979, “On when a semantics is not a semantics”, *Journal of Philosophical Logic*, 8: 399–413.
 * Dahl, Ö., 2010, “Typology of negation”, in Horn 2010b: 9–38.
-* Dalla Chiara, M.L., R. Giuntini, R. Leporini, and G. Sergioli, 2018, _Quantum Computation and Logic. How Quantum Computers Have Inspired Logical Investigations_, Dordrecht: Springer.
-* De, M., 2011, _Negation in Context_, Ph.D. thesis, University of St Andrews, Scotland.
-* –––, 2013, “Empirical negation”, _Acta Analytica_, 28: 49–69.
-* De, M. and H. Omori, 2018, “There is more to negation than modality”, _Journal of Philosophical Logic_, 47: 281–299.
-* Došen, K., 1984, “Negative modal operators in intuitionistic logic”, _Publications de l’Institut Mathématique. Nouvelle Série_, 35(49): 3–14. \[[Došen 1984 also available online](https://eudml.org/doc/255086)].
-* –––, 1986, “Negation as a modal operator”, _Reports on Mathematical Logic_, 20: 15–27.
+* Dalla Chiara, M.L., R. Giuntini, R. Leporini, and G. Sergioli, 2018, *Quantum Computation and Logic. How Quantum Computers Have Inspired Logical Investigations*, Dordrecht: Springer.
+* De, M., 2011, *Negation in Context*, Ph.D. thesis, University of St Andrews, Scotland.
+* –––, 2013, “Empirical negation”, *Acta Analytica*, 28: 49–69.
+* De, M. and H. Omori, 2018, “There is more to negation than modality”, *Journal of Philosophical Logic*, 47: 281–299.
+* Došen, K., 1984, “Negative modal operators in intuitionistic logic”, *Publications de l’Institut Mathématique. Nouvelle Série*, 35(49): 3–14. \[[Došen 1984 also available online](https://eudml.org/doc/255086)].
+* –––, 1986, “Negation as a modal operator”, *Reports on Mathematical Logic*, 20: 15–27.
 * –––, 1999, “Negation in the Light of Modal Logic”, in Gabbay and Wansing 1999: 77–86.
-* Ducrot, O., 1972, _Dire et ne pas dire_, Paris: Hermann.
-* –––, 1973, _La preuve et le dire_, Tours: Mame.
-* Dummett, M., 1996, _The seas of language_, Oxford: Oxford University Press.
-* Dunn, J.M., 1976, “Intuitive semantics for first-degree entailments and ‘coupled trees’”, _Philosophical Studies_, 29: 149–168.
-* –––, 1993, “Star and perp: Two treatments of negation”, in J.Tomberlin (ed.), _Philosophical Perspectives (Philosophy of Language and Logic)_, 7, 331–357.
+* Ducrot, O., 1972, *Dire et ne pas dire*, Paris: Hermann.
+* –––, 1973, *La preuve et le dire*, Tours: Mame.
+* Dummett, M., 1996, *The seas of language*, Oxford: Oxford University Press.
+* Dunn, J.M., 1976, “Intuitive semantics for first-degree entailments and ‘coupled trees’”, *Philosophical Studies*, 29: 149–168.
+* –––, 1993, “Star and perp: Two treatments of negation”, in J.Tomberlin (ed.), *Philosophical Perspectives (Philosophy of Language and Logic)*, 7, 331–357.
 * –––, 1996, “Generalized ortho negation”, in Wansing 1996: 3–26.
 * –––, 1999, “A comparative study of various model-theoretic treatments of negation: a history of formal negation”, in Gabbay and Wansing 1999: 23–51.
-* –––, 2000, “Partiality and its dual”, _Studia Logica_, 66: 5–40.
-* Dunn, J.M. and C. Zhou, 2005, “Negation in the context of gaggle theory”, _Studia Logica_, 80: 235–264.
-* Englebretsen, G., 1981, _Logical Negation_, Assen: Van Gorcum.
-* Espinal, M.T., 1992, “Expletive negation and logical absorption”, _The Linguistic Review_, 9: 333–358.
-* Fauconnier, G., 1975, “Polarity and the scale principle”, in _CLS 11_, 188–199. Chicago: Chicago Linguistic Society.
-* von Fintel, K., 1997, “Bare plurals, bare conditionals, and _only_”, _Journal of Semantics_, 14: 1–56.
-* –––, 2004, “Would you believe it? The king of France is back”, in A. Bezuidenhout and M. Reimer (eds.), _Descriptions and Beyond_, 269–96, Oxford: Oxford University Press.
-* Fodor, J. D., 1970, _The Linguistic Description of Opaque Contexts_, Ph.D. thesis, MIT.
-* –––, 1979, “In defense of the truth-value gap”, in D. Dinneen and C.-K. Oh (eds.), _Syntax and Semantics 11: Presupposition_, 199–224, New York: Academic Press.
-* Frege, G., 1892, “On Sinn and Bedeutung”, in M. Beaney (ed.), _The Frege Reader_, 151–71, Oxford: Blackwell.
-* –––, 1919, “Negation”, in M. Beaney (ed.), _The Frege Reader_, 346–61, Oxford: Blackwell.
-* Gabbay, D.M., 1988, “What is negation in a system?”, in F. Drake and J. Truss (eds.), _Logic Colloquium ’86_, 95–112, Amsterdam: Elsevier.
-* Gabbay, D.M., F.J. Pelletier, and J. Woods (eds.), 2012, _Logic: A History of its Central Concepts, Vol. 11 (Handbook of the History of Logic)_, Amsterdam: Elsevier.
-* Gabbay, D.M. and H. Wansing, 1996, “What is negation in a system? Negation in structured consequence relations”, in A. Fuhrmann and H. Rott (eds.), _Logic, Action and Information_, 328–350, Berlin: de Gruyter.
-* ––– (eds.), 1999, _What is Negation?_, Dordrecht: Kluwer.
-* Gajewski, J., 2007, “Neg-raising and polarity”, _Linguistics and Philosophy_, 30: 289–328.
-* Gazdar, G., 1979, _Pragmatics: Implicature, Presupposition, and Logical Form_, New York: Academic Press.
-* Geach, P.T., 1965, “Assertion”, _The Philosophical Review_, 74: 449–465.
-* –––, 1972, _Logic Matters_, Berkeley: University of California Press.
-* Geurts, B., 1998, “The mechanisms of denial”, _Language_, 74: 274–307.
-* Giannakidou, A., 2011, “Negative and positive polarity items”, in K. von Heusinger, C. Maienborn and P. Portner (eds.), _Semantics: An International Handbook of Natural Language Meaning_, Vol. 2, 1660–1712, Berlin: de Gruyter.
-* Giora, R., 2007, “A good Arab is not a dead Arab”: On the accessibility of negated concepts, in I. Kecskes & L. Horn (eds.), _Explorations in Pragmatics: Linguistic, Cognitive and Intercultural Aspects_, 129–162, Berlin: Mouton de Gruyter.
-* Givón, T., 1978, “Negation in language: pragmatics, function, ontology”, in P. Cole (ed.), _Syntax and Semantics 9: Pragmatics_, 69–112, New York: Academic Press.
-* Goldblatt, R., 1974, “Semantic analysis of orthologic”, _Journal of Philosophical Logic_, 3: 19–35.
-* Goré, R., 2000, “Dual intuitionistic logic revisited”, in R. Dyckhoff (ed.), _Proceedings of the International Conference on Automated Reasoning with Analytic Tableaux and Related Methods_, 252–267, Berlin: Springer.
-* Green, L., 2002, _African American English: A Linguistic Introduction_, Cambridge: Cambridge University Press.
-* Grice, H. P., 1989, _Studies in the Way of Words_, Cambridge: Harvard University Press.
-* Grimm, P., 2005, “What is a contradiction?”, in G. Priest, JC Beall, and B. Armour-Garb (eds.), _The Law of Non-Contradiction: New Philosophcial Essays_, 49–72, Oxford: Oxford University Press.
-* Gurevich, Y., 1977, “Intuitionistic logic with strong negation”, _Studia Logica_, 36: 49–59.
-* Haegeman, L. 2000, “Negative preposing, negative inversion, and the split CP”, in L. Horn and Y. Kato (eds.), _Negation and Polarity: Syntactic and Semantic Perspectives_, Oxford: Oxford University Press, 147–192.
-* Hazen, A., 1992, “Subminimal negation”, _Philosophy Department Preprint_, 1/92, University of Melbourne.
-* Heine, B. and T. Kuteva, 2007, _The Genesis of Grammar_, Oxford: Oxford University Press.
-* Henry, D., 1967, _The Logic of St. Anselm_, Oxford: Clarendon.
-* Heyting, A., 1956, _Intuitionism: An Introduction_, Amsterdam: North-Holland Publishing.
-* Hintikka, J., 1968, “Epistemic Logic and the Methods of Philosophical Analysis”, _Australasian Journal of Philosophy_, 46: 37–51.
-* –––, _Logic, Language-Games and Information: Kantian Themes in the Philosophy of Logic_, Oxford: Clarendon Press.
-* Hoffmann, M., 1987, _Negatio Contrarii: A Study of Latin Litotes_, Assen: Van Gorcum.
-* Hopkins, J., 1972, _A Companion to the Study of St. Anselm_, Minneapolis: University of Minnesota Press.
-* Horn, L.R., 1978, “Remarks on neg-raising”, in P. Cole (ed.), _Syntax and Semantics 9: Pragmatics_, 129–220, New York: Academic Press.
-* –––, 1989, _A Natural History of Negation_, Chicago: University of Chicago Press. Reissued, Stanford, CA: CSLI Publications, 2001.
-* –––, 2000, “From _if_ to _iff_: Conditional perfection as pragmatic strengthening”, _Journal of Pragmatics_, 32: 289–326.
-* –––, 2005, “An un-paper for the unsyntactician”, in S. Mufwene et al. (eds.), _Polymorphous Linguistics: Jim McCawley’s Legacy_, 329–365, Cambridge: MIT Press.
+* –––, 2000, “Partiality and its dual”, *Studia Logica*, 66: 5–40.
+* Dunn, J.M. and C. Zhou, 2005, “Negation in the context of gaggle theory”, *Studia Logica*, 80: 235–264.
+* Englebretsen, G., 1981, *Logical Negation*, Assen: Van Gorcum.
+* Espinal, M.T., 1992, “Expletive negation and logical absorption”, *The Linguistic Review*, 9: 333–358.
+* Fauconnier, G., 1975, “Polarity and the scale principle”, in *CLS 11*, 188–199. Chicago: Chicago Linguistic Society.
+* von Fintel, K., 1997, “Bare plurals, bare conditionals, and *only*”, *Journal of Semantics*, 14: 1–56.
+* –––, 2004, “Would you believe it? The king of France is back”, in A. Bezuidenhout and M. Reimer (eds.), *Descriptions and Beyond*, 269–96, Oxford: Oxford University Press.
+* Fodor, J. D., 1970, *The Linguistic Description of Opaque Contexts*, Ph.D. thesis, MIT.
+* –––, 1979, “In defense of the truth-value gap”, in D. Dinneen and C.-K. Oh (eds.), *Syntax and Semantics 11: Presupposition*, 199–224, New York: Academic Press.
+* Frege, G., 1892, “On Sinn and Bedeutung”, in M. Beaney (ed.), *The Frege Reader*, 151–71, Oxford: Blackwell.
+* –––, 1919, “Negation”, in M. Beaney (ed.), *The Frege Reader*, 346–61, Oxford: Blackwell.
+* Gabbay, D.M., 1988, “What is negation in a system?”, in F. Drake and J. Truss (eds.), *Logic Colloquium ’86*, 95–112, Amsterdam: Elsevier.
+* Gabbay, D.M., F.J. Pelletier, and J. Woods (eds.), 2012, *Logic: A History of its Central Concepts, Vol. 11 (Handbook of the History of Logic)*, Amsterdam: Elsevier.
+* Gabbay, D.M. and H. Wansing, 1996, “What is negation in a system? Negation in structured consequence relations”, in A. Fuhrmann and H. Rott (eds.), *Logic, Action and Information*, 328–350, Berlin: de Gruyter.
+* ––– (eds.), 1999, *What is Negation?*, Dordrecht: Kluwer.
+* Gajewski, J., 2007, “Neg-raising and polarity”, *Linguistics and Philosophy*, 30: 289–328.
+* Gazdar, G., 1979, *Pragmatics: Implicature, Presupposition, and Logical Form*, New York: Academic Press.
+* Geach, P.T., 1965, “Assertion”, *The Philosophical Review*, 74: 449–465.
+* –––, 1972, *Logic Matters*, Berkeley: University of California Press.
+* Geurts, B., 1998, “The mechanisms of denial”, *Language*, 74: 274–307.
+* Giannakidou, A., 2011, “Negative and positive polarity items”, in K. von Heusinger, C. Maienborn and P. Portner (eds.), *Semantics: An International Handbook of Natural Language Meaning*, Vol. 2, 1660–1712, Berlin: de Gruyter.
+* Giora, R., 2007, “A good Arab is not a dead Arab”: On the accessibility of negated concepts, in I. Kecskes & L. Horn (eds.), *Explorations in Pragmatics: Linguistic, Cognitive and Intercultural Aspects*, 129–162, Berlin: Mouton de Gruyter.
+* Givón, T., 1978, “Negation in language: pragmatics, function, ontology”, in P. Cole (ed.), *Syntax and Semantics 9: Pragmatics*, 69–112, New York: Academic Press.
+* Goldblatt, R., 1974, “Semantic analysis of orthologic”, *Journal of Philosophical Logic*, 3: 19–35.
+* Goré, R., 2000, “Dual intuitionistic logic revisited”, in R. Dyckhoff (ed.), *Proceedings of the International Conference on Automated Reasoning with Analytic Tableaux and Related Methods*, 252–267, Berlin: Springer.
+* Green, L., 2002, *African American English: A Linguistic Introduction*, Cambridge: Cambridge University Press.
+* Grice, H. P., 1989, *Studies in the Way of Words*, Cambridge: Harvard University Press.
+* Grimm, P., 2005, “What is a contradiction?”, in G. Priest, JC Beall, and B. Armour-Garb (eds.), *The Law of Non-Contradiction: New Philosophcial Essays*, 49–72, Oxford: Oxford University Press.
+* Gurevich, Y., 1977, “Intuitionistic logic with strong negation”, *Studia Logica*, 36: 49–59.
+* Haegeman, L. 2000, “Negative preposing, negative inversion, and the split CP”, in L. Horn and Y. Kato (eds.), *Negation and Polarity: Syntactic and Semantic Perspectives*, Oxford: Oxford University Press, 147–192.
+* Hazen, A., 1992, “Subminimal negation”, *Philosophy Department Preprint*, 1/92, University of Melbourne.
+* Heine, B. and T. Kuteva, 2007, *The Genesis of Grammar*, Oxford: Oxford University Press.
+* Henry, D., 1967, *The Logic of St. Anselm*, Oxford: Clarendon.
+* Heyting, A., 1956, *Intuitionism: An Introduction*, Amsterdam: North-Holland Publishing.
+* Hintikka, J., 1968, “Epistemic Logic and the Methods of Philosophical Analysis”, *Australasian Journal of Philosophy*, 46: 37–51.
+* –––, *Logic, Language-Games and Information: Kantian Themes in the Philosophy of Logic*, Oxford: Clarendon Press.
+* Hoffmann, M., 1987, *Negatio Contrarii: A Study of Latin Litotes*, Assen: Van Gorcum.
+* Hopkins, J., 1972, *A Companion to the Study of St. Anselm*, Minneapolis: University of Minnesota Press.
+* Horn, L.R., 1978, “Remarks on neg-raising”, in P. Cole (ed.), *Syntax and Semantics 9: Pragmatics*, 129–220, New York: Academic Press.
+* –––, 1989, *A Natural History of Negation*, Chicago: University of Chicago Press. Reissued, Stanford, CA: CSLI Publications, 2001.
+* –––, 2000, “From *if* to *iff*: Conditional perfection as pragmatic strengthening”, *Journal of Pragmatics*, 32: 289–326.
+* –––, 2005, “An un-paper for the unsyntactician”, in S. Mufwene et al. (eds.), *Polymorphous Linguistics: Jim McCawley’s Legacy*, 329–365, Cambridge: MIT Press.
 * –––, 2010a, “Multiple negation in English and other languages”, in Horn 2010b: 111–148.
-* ––– (ed.), 2010b, _The Expression of Negation_, Berlin: Mouton de Gruyter.
-* –––, 2012, “Histoire d’\*O: Lexical pragmatics and the geometry of opposition”, in J.-Y. Béziau and G. Payette (eds.), _The Square of Opposition: A General Framework for Cognition_, 383–416, Bern: Peter Lang.
-* –––, 2015, “On the contrary: Disjunctive syllogism and pragmatic strengthening”, in A. Koslow and A. Buchsbaum (eds.), _The Road to Universal Logic_, 151–201. Heidelberg: Birkhäuser (Springer).
-* –––, 2016, “Licensing NPIs: Some negative (and positive) results”, in P. Larrivée and C. Lee (eds.), _Negation and Polarity: Experimental Perspectives_, 281–306. Berlin: Springer.
-* –––, 2017, “Lie-toe-tease: Double negatives and unexcluded middles”, _Philosophical Studies_, 174: 79–103.
-* –––, 2018, “An (abridged) atlas of negation”, in K. Turner and L. Horn (eds.), _Pragmatics, Truth and Underspecification: Towards an Atlas of Meaning_, 3–53, Leiden: Brill. (CRiSPI 34.)
-* Humberstone, L., 1986, “Extensionality in sentence position”, _Journal of Philosophical Logic_, 15: 27–54.
-* –––, 1995, “Negation by iteration”, _Theoria_, 61: 1–24.
-* –––, 2000a, “The Revival of Rejective Negation”, _Journal of Philosophical Logic_, 29: 331–381.
-* –––, 2000b, “Contra-classical logics”, _Australasian Journal of Philosophy_, 78: 438–474.
-* –––, 2003, “Note on contraries and subcontraries”, _Noûs_, 37: 690–705.
-* –––, 2005, “Contrariety and subcontrariety: the anatomy of negation (with special reference to an example of J.-Y. Béziau)”, _Theoria_, 75: 241–262.
-* –––, 2011, _The Connectives_, Cambridge: MIT Press.
-* –––, 2018, “Sentence Connectives in Formal Logic”, _The Stanford Encyclopedia of Philosophy_ (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/connectives-logic/](https://plato.stanford.edu/archives/sum2018/entries/connectives-logic/).
-* –––, 2019, “Priest On Negation”, in C. Baskent and T.M. Ferguson (eds.), _Graham Priest on Dialetheism and Paraconsistency_, Dordrecht: Springer, 285–341.
-* Israel, M., 2011, _The Grammar of Polarity: Pragmatics, Sensitivity, and the Logic of Scales_, Cambridge: Cambridge University Press.
-* Jackendoff, R., 1969, “An interpretive theory of negation”, _Foundations of Language_, 5: 218–241.
-* Jaspers, D., 2005. _Operators in the Lexicon: On the Negative Logic of Natural Language_, Universiteit Leiden dissertation, Utrecht: LOT.
-* Jespersen, O., 1917, _Negation in English and Other Languages_, Copenhagen: Høst.
-* Johansson, I., 1937, “Der Minimalkalkül, ein reduzierter intuitionistischer Formalismus”, _Compositio Mathematica_, 4: 119–136.
-* Just, M.A. and Carpenter, P.A., 1971, “Comprehension of negation with quantification”, _Journal of Verbal Learning and Verbal Behavior_, 12: 21–31.
-* Kamide, N., 2013, “A hierarchy of weak double negations”, _Studia Logica_, 101: 1277–1297.
-* –––, 2017, “Paraconsistent double negations as classical and intuitionistic negations”, _Studia Logica_, 105: 1167–1191.
-* Kamide, N. and H. Wansing, 2012, “Proof theory of Nelson’s paraconsistent logic: A uniform perspective”, _Theoretical Computer Science_, 415: 1–38.
-* Kapsner, A., 2014, _Logics and Falsifications. A New Perspective on Constructivist Semantics_, Dordrecht: Springer.
-* Katz, J., 1972, _Semantic Theory_, New York: Harper & Row.
-* Keenan, E. and L. Faltz, 1985, _Boolean Semantics for Natural Language_, Dordrecht: D. Reidel.
-* Kiparsky, P. and C. Condoravdi, 2006, “Tracking Jespersen’s cycle”, in M. Janse (ed.), _Proceedings of the Second International Conference of Modern Greek Dialects and Linguistic Theory_, 172–197. Patras: University of Patras Press.
-* Kleene, S., 1952, _Introduction to Metamathematics_, Amsterdam: North-Holland.
-* Klima, E., 1964, “Negation in English”, in J. A. Fodor and J. J. Katz (eds.), _The Structure of Language_, 246–323, Englewood Cliffs: Prentice-Hall.
-* Kolmogorov, A. N., 1925, “On the principle of excluded middle”, English translation in J. van Heijenoort (ed.), _From Frege to Gödel: a Source Book in Mathematical Logic, 1879–1931_(third ed.), Cambridge (Mass.): Harvard University Press, 1977, 414–437.
-* Kürbis, N., 2019, _Proof and Falsity: A Logical Investigation_, Cambridge, Cambridge University Press.
-* Labov, W., 1972, “Negative attraction and negative concord in English grammar”, _Language_, 48: 773–818.
-* Ladusaw, W., 1980, _Negative Polarity as Inherent Scope Relations_, New York: Garland.
-* –––, 1996, “Negation and polarity items”, in S. Lappin (ed.), _Handbook of Contemporary Semantic Theory_, 299–319. Oxford: Blackwell.
-* Lahav, O. and A. Avron, 2013, “A Unified Semantic Framework for Fully Structural Propositional Sequent Systems”, _ACM Transactions on Computational Logic_, 14: 27:1–27:33.
-* Lahav, O., J. Marcos, and J. Zohar, 2017, “Sequent Systems for Negative Modalities”, _Logica Universalis_, 11: 345–382.
+* ––– (ed.), 2010b, *The Expression of Negation*, Berlin: Mouton de Gruyter.
+* –––, 2012, “Histoire d’\*O: Lexical pragmatics and the geometry of opposition”, in J.-Y. Béziau and G. Payette (eds.), *The Square of Opposition: A General Framework for Cognition*, 383–416, Bern: Peter Lang.
+* –––, 2015, “On the contrary: Disjunctive syllogism and pragmatic strengthening”, in A. Koslow and A. Buchsbaum (eds.), *The Road to Universal Logic*, 151–201. Heidelberg: Birkhäuser (Springer).
+* –––, 2016, “Licensing NPIs: Some negative (and positive) results”, in P. Larrivée and C. Lee (eds.), *Negation and Polarity: Experimental Perspectives*, 281–306. Berlin: Springer.
+* –––, 2017, “Lie-toe-tease: Double negatives and unexcluded middles”, *Philosophical Studies*, 174: 79–103.
+* –––, 2018, “An (abridged) atlas of negation”, in K. Turner and L. Horn (eds.), *Pragmatics, Truth and Underspecification: Towards an Atlas of Meaning*, 3–53, Leiden: Brill. (CRiSPI 34.)
+* Humberstone, L., 1986, “Extensionality in sentence position”, *Journal of Philosophical Logic*, 15: 27–54.
+* –––, 1995, “Negation by iteration”, *Theoria*, 61: 1–24.
+* –––, 2000a, “The Revival of Rejective Negation”, *Journal of Philosophical Logic*, 29: 331–381.
+* –––, 2000b, “Contra-classical logics”, *Australasian Journal of Philosophy*, 78: 438–474.
+* –––, 2003, “Note on contraries and subcontraries”, *Noûs*, 37: 690–705.
+* –––, 2005, “Contrariety and subcontrariety: the anatomy of negation (with special reference to an example of J.-Y. Béziau)”, *Theoria*, 75: 241–262.
+* –––, 2011, *The Connectives*, Cambridge: MIT Press.
+* –––, 2018, “Sentence Connectives in Formal Logic”, *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/connectives-logic/](https://plato.stanford.edu/archives/sum2018/entries/connectives-logic/).
+* –––, 2019, “Priest On Negation”, in C. Baskent and T.M. Ferguson (eds.), *Graham Priest on Dialetheism and Paraconsistency*, Dordrecht: Springer, 285–341.
+* Israel, M., 2011, *The Grammar of Polarity: Pragmatics, Sensitivity, and the Logic of Scales*, Cambridge: Cambridge University Press.
+* Jackendoff, R., 1969, “An interpretive theory of negation”, *Foundations of Language*, 5: 218–241.
+* Jaspers, D., 2005. *Operators in the Lexicon: On the Negative Logic of Natural Language*, Universiteit Leiden dissertation, Utrecht: LOT.
+* Jespersen, O., 1917, *Negation in English and Other Languages*, Copenhagen: Høst.
+* Johansson, I., 1937, “Der Minimalkalkül, ein reduzierter intuitionistischer Formalismus”, *Compositio Mathematica*, 4: 119–136.
+* Just, M.A. and Carpenter, P.A., 1971, “Comprehension of negation with quantification”, *Journal of Verbal Learning and Verbal Behavior*, 12: 21–31.
+* Kamide, N., 2013, “A hierarchy of weak double negations”, *Studia Logica*, 101: 1277–1297.
+* –––, 2017, “Paraconsistent double negations as classical and intuitionistic negations”, *Studia Logica*, 105: 1167–1191.
+* Kamide, N. and H. Wansing, 2012, “Proof theory of Nelson’s paraconsistent logic: A uniform perspective”, *Theoretical Computer Science*, 415: 1–38.
+* Kapsner, A., 2014, *Logics and Falsifications. A New Perspective on Constructivist Semantics*, Dordrecht: Springer.
+* Katz, J., 1972, *Semantic Theory*, New York: Harper & Row.
+* Keenan, E. and L. Faltz, 1985, *Boolean Semantics for Natural Language*, Dordrecht: D. Reidel.
+* Kiparsky, P. and C. Condoravdi, 2006, “Tracking Jespersen’s cycle”, in M. Janse (ed.), *Proceedings of the Second International Conference of Modern Greek Dialects and Linguistic Theory*, 172–197. Patras: University of Patras Press.
+* Kleene, S., 1952, *Introduction to Metamathematics*, Amsterdam: North-Holland.
+* Klima, E., 1964, “Negation in English”, in J. A. Fodor and J. J. Katz (eds.), *The Structure of Language*, 246–323, Englewood Cliffs: Prentice-Hall.
+* Kolmogorov, A. N., 1925, “On the principle of excluded middle”, English translation in J. van Heijenoort (ed.), *From Frege to Gödel: a Source Book in Mathematical Logic, 1879–1931*(third ed.), Cambridge (Mass.): Harvard University Press, 1977, 414–437.
+* Kürbis, N., 2019, *Proof and Falsity: A Logical Investigation*, Cambridge, Cambridge University Press.
+* Labov, W., 1972, “Negative attraction and negative concord in English grammar”, *Language*, 48: 773–818.
+* Ladusaw, W., 1980, *Negative Polarity as Inherent Scope Relations*, New York: Garland.
+* –––, 1996, “Negation and polarity items”, in S. Lappin (ed.), *Handbook of Contemporary Semantic Theory*, 299–319. Oxford: Blackwell.
+* Lahav, O. and A. Avron, 2013, “A Unified Semantic Framework for Fully Structural Propositional Sequent Systems”, *ACM Transactions on Computational Logic*, 14: 27:1–27:33.
+* Lahav, O., J. Marcos, and J. Zohar, 2017, “Sequent Systems for Negative Modalities”, *Logica Universalis*, 11: 345–382.
 * Lenzen, W., 1996, “Necessary conditions for negation operators”, in Wansing 1996: 37–58.
-* Löbner, S., 2000, “Polarity and natural language: Predication, quantification, and negation in particularizing and characterizing sentences”, _Linguistics and Philosophy_, 23: 213–308.
-* Łukasiewicz, J., 1930, “Philosophical remarks on many-valued systems of propositional logics”, in S. McCall (ed.), _Polish Logic 1920–1939_, 40–65, Oxford: Clarendon.
-* Malinowski, G., 1993, _Many-valued Logics_, Oxford: Clarendon.
-* Marcos, J., 2005, “On negation: Pure local rules”, _Journal of Applied Logic_, 3: 185–219.
-* Mares, E., 2004, _Relevant Logic: A Philosophical Interpretation_, Cambridge: Cambridge University Press.
-* Mates, B., 1953, _Stoic Logic_, Berkeley: University of California Press.
-* McCall, S., 1967, “Contrariety”, _Notre Dame Journal of Formal Logic_, 8: 121–138.
+* Löbner, S., 2000, “Polarity and natural language: Predication, quantification, and negation in particularizing and characterizing sentences”, *Linguistics and Philosophy*, 23: 213–308.
+* Łukasiewicz, J., 1930, “Philosophical remarks on many-valued systems of propositional logics”, in S. McCall (ed.), *Polish Logic 1920–1939*, 40–65, Oxford: Clarendon.
+* Malinowski, G., 1993, *Many-valued Logics*, Oxford: Clarendon.
+* Marcos, J., 2005, “On negation: Pure local rules”, *Journal of Applied Logic*, 3: 185–219.
+* Mares, E., 2004, *Relevant Logic: A Philosophical Interpretation*, Cambridge: Cambridge University Press.
+* Mates, B., 1953, *Stoic Logic*, Berkeley: University of California Press.
+* McCall, S., 1967, “Contrariety”, *Notre Dame Journal of Formal Logic*, 8: 121–138.
 * –––, 2012, “A History of Connexivity”, in Gabbay, Pelletier, and Woods 2012: 415–449.
-* McCawley, J.D., 1991, “Contrastive negation and metalinguistic negation”, _Chicago Linguistic Society_, 27.2: 189–206.
-* Miestamo, M., 2005, _Standard Negation: The Negation of Declarative Verbal Main Clauses in a Typological Perspective_, Berlin: Mouton de Gruyter.
-* Montague, R., 1973, “The proper treatment of quantification in ordinary English”, in K.J.J. Hintikka, J.M.E. Moravcsik, and P. Suppes (eds.), _Approaches to Natural Language_, 221–242. Dordrecht: Reidel,
-* Nelson, D., 1949, “Constructible falsity”, _Journal of Symbolic Logic_, 14: 16–26.
-* –––, 1959, “Negation and separation of concepts in constructive systems”, in A. Heyting (ed.), _Constructivity in Mathematics_, 208–225, Amsterdam: North-Holland.
-* Niki, S., forthcoming, “Subminimal Logics in Light of Vakarelov’s Logic”, _Studia Logica_, first online November 1, 2019. doi:10.1007/s11225-019-09884-z
-* Odintsov, S., 2008, _Constructive negations and paraconsistency_, Dordrecht: Springer.
-* Omori H. and Wansing, H., 2017, “40 years of FDE: An Introductory Overview”, _Studia Logica_, 105: 1021–1049.
-* –––, 2018,“On Contra-classical variants of Nelson logic N4 and its classical extension”, _Review of Symbolic Logic_, 11: 805–820.
-* Onishi, T., 2015, “ Substructural negations”, _Australasian Journal of Logic_, 12: 177–202.
-* Oesterle, J., 1962, _Aristotle: On Interpretation. Commentary by St. Thomas and Cajetan_, Milwaukee: Marquette University Press.
-* Pacuit, E., 2017, _Neighborhood Semantics for Modal Logic_, Dordrecht: Springer.
-* Paoli, F., 2019, “Bilattice logics and demi-negation”, in H. Omori and H. Wansing (ed.), _New Essays on Belnap-Dunn Logic_, 223–243, Dordrecht: Springer.
-* Parsons, T., 1984, “Assertion, denial, and the liar paradox”, _Journal of Philosophical Logic_, 13: 137–152.
-* Payne, T., 1985, “Negation”, in T. Shopen (ed.), _Language Typology and Syntactic Description, Vol. 1_, 197–242. Cambridge: Cambridge University Press.
-* Penka, D., 2011, _Negative Indefinites_, Oxford: Oxford University Press.
-* Peters, S. and D. Westerståhl, 2006, _Quantifiers in Language and Logic_, Oxford: Oxford University Press.
-* Pitts, A., 2009, “Exploring a ‘pragmatic ambiguity’ of negation”, _Language_, 87: 346–368.
-* Plato, _The Sophist_, B. Jowett, trans., New York: Random House, 1937.
-* Price, H., 1983, “Sense, assertion, Dummett, and denial”, _Mind_, 92: 161–173.
-* –––, 1990, “Why ‘not’?”, _Mind_, 99: 221–238.
-* Priest, G., 1979, “The logic of paradox”, _Journal of Philosophical Logic_, 8: 219–241.
+* McCawley, J.D., 1991, “Contrastive negation and metalinguistic negation”, *Chicago Linguistic Society*, 27.2: 189–206.
+* Miestamo, M., 2005, *Standard Negation: The Negation of Declarative Verbal Main Clauses in a Typological Perspective*, Berlin: Mouton de Gruyter.
+* Montague, R., 1973, “The proper treatment of quantification in ordinary English”, in K.J.J. Hintikka, J.M.E. Moravcsik, and P. Suppes (eds.), *Approaches to Natural Language*, 221–242. Dordrecht: Reidel,
+* Nelson, D., 1949, “Constructible falsity”, *Journal of Symbolic Logic*, 14: 16–26.
+* –––, 1959, “Negation and separation of concepts in constructive systems”, in A. Heyting (ed.), *Constructivity in Mathematics*, 208–225, Amsterdam: North-Holland.
+* Niki, S., forthcoming, “Subminimal Logics in Light of Vakarelov’s Logic”, *Studia Logica*, first online November 1, 2019. doi:10.1007/s11225-019-09884-z
+* Odintsov, S., 2008, *Constructive negations and paraconsistency*, Dordrecht: Springer.
+* Omori H. and Wansing, H., 2017, “40 years of FDE: An Introductory Overview”, *Studia Logica*, 105: 1021–1049.
+* –––, 2018,“On Contra-classical variants of Nelson logic N4 and its classical extension”, *Review of Symbolic Logic*, 11: 805–820.
+* Onishi, T., 2015, “ Substructural negations”, *Australasian Journal of Logic*, 12: 177–202.
+* Oesterle, J., 1962, *Aristotle: On Interpretation. Commentary by St. Thomas and Cajetan*, Milwaukee: Marquette University Press.
+* Pacuit, E., 2017, *Neighborhood Semantics for Modal Logic*, Dordrecht: Springer.
+* Paoli, F., 2019, “Bilattice logics and demi-negation”, in H. Omori and H. Wansing (ed.), *New Essays on Belnap-Dunn Logic*, 223–243, Dordrecht: Springer.
+* Parsons, T., 1984, “Assertion, denial, and the liar paradox”, *Journal of Philosophical Logic*, 13: 137–152.
+* Payne, T., 1985, “Negation”, in T. Shopen (ed.), *Language Typology and Syntactic Description, Vol. 1*, 197–242. Cambridge: Cambridge University Press.
+* Penka, D., 2011, *Negative Indefinites*, Oxford: Oxford University Press.
+* Peters, S. and D. Westerståhl, 2006, *Quantifiers in Language and Logic*, Oxford: Oxford University Press.
+* Pitts, A., 2009, “Exploring a ‘pragmatic ambiguity’ of negation”, *Language*, 87: 346–368.
+* Plato, *The Sophist*, B. Jowett, trans., New York: Random House, 1937.
+* Price, H., 1983, “Sense, assertion, Dummett, and denial”, *Mind*, 92: 161–173.
+* –––, 1990, “Why ‘not’?”, *Mind*, 99: 221–238.
+* Priest, G., 1979, “The logic of paradox”, *Journal of Philosophical Logic*, 8: 219–241.
 * –––, 1999, “What not? A defence of dialetheic theory of negation”, in Gabbay and Wansing 1999: 101–120.
-* –––, 2006, _Doubt Truth to be a Liar_, Oxford: Oxford University Press.
-* –––, 2008, _An Introduction to Non-Classical Logic: From Ifs to Is_, second edition, Cambridge: Cambridge University Press.
-* –––, 2010, “The logic of the _catuskoti_”, _Comparative Philosophy_, 1: 24–54.
-* Prior, A. N., 2006, “Negation”, in D.M. Borchert (ed.), _Encyclopedia of Philosophy, 2nd ed._, Vol. 6, 522–530, New York: Macmillan.
-* Pullum, G., 2002, “Negation”, Chapter 9 in R. Huddleston & G. Pullum, _The Cambridge Grammar of the English Language_, Cambridge: Cambridge University Press.
-* Quine, W. V. O., 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* Ramsey, F. P., 1927, “Facts and Propositions”, _Proceedings of the Aristotelian Society (Suppl. Vol.)_, 7: 153–170.
-* Rauszer, C., 1980, _An Algebraic and Kripke-style Approach to a Certain Extension of Intuitionistic Logic_, Dissertationes Mathematicae 167, Institute of Mathematics, Polish Academy of Sciences, Warsaw.
+* –––, 2006, *Doubt Truth to be a Liar*, Oxford: Oxford University Press.
+* –––, 2008, *An Introduction to Non-Classical Logic: From Ifs to Is*, second edition, Cambridge: Cambridge University Press.
+* –––, 2010, “The logic of the *catuskoti*”, *Comparative Philosophy*, 1: 24–54.
+* Prior, A. N., 2006, “Negation”, in D.M. Borchert (ed.), *Encyclopedia of Philosophy, 2nd ed.*, Vol. 6, 522–530, New York: Macmillan.
+* Pullum, G., 2002, “Negation”, Chapter 9 in R. Huddleston & G. Pullum, *The Cambridge Grammar of the English Language*, Cambridge: Cambridge University Press.
+* Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* Ramsey, F. P., 1927, “Facts and Propositions”, *Proceedings of the Aristotelian Society (Suppl. Vol.)*, 7: 153–170.
+* Rauszer, C., 1980, *An Algebraic and Kripke-style Approach to a Certain Extension of Intuitionistic Logic*, Dissertationes Mathematicae 167, Institute of Mathematics, Polish Academy of Sciences, Warsaw.
 * Restall, G., 1999, “Negation in relevant logics (How I stopped worrying and learned to love the Routley Star)”, in Gabbay and Wansing 1999: 53–76.
-* –––, 2000, _An Introduction to Substructural Logics_, London: Routledge, London.
-* Ripley, D., 2009, _Negation in Natural Language_, Ph.D. Dissertation, Philosophy Department, University of North Carolina/Chapel Hill \[[Ripley 2009 available online](https://cdr.lib.unc.edu/record/uuid:8b50aebb-e71a-48a7-881e-d863d2e77ce1)].
-* –––, 2011a, “Contradictions at the borders”, in R. Nouwen, R. van Rooij, U. Sauerland and H.-C. Schmitz (eds.), _Vagueness in Communication_, 169–188, Berlin: Springer.
-* –––, 2011b, “Negation, denial, and rejection”, _Philosophy Compass_, 6: 622–629.
-* Rooth, M., 1992, “A theory of focus interpretation”, _Natural Language Semantics_, 1: 75–116.
-* Routley, R. and V. Routley, 1972, “Semantics for first degree entailment”, _Noûs_, 6: 335–59.
-* –––, 1985, “Negation and contradiction”, _Revista Colombiana de Matemáticas_, 19: 201–230.
-* Rumfitt, I., 2000, “”Yes“ and ”no“”, _Mind_, 109: 781–823.
-* Russell, B., 1905, “On denoting”, _Mind_, 14: 479–93.
-* Sánchez Valencia, V., 1994, “Monotonicity in medieval logic”, _Language and Cognition_, 4: 161–174.
-* Segerberg, K., 1971, _An Essay in Classical Modal Logic_, vol. 1–3, Uppsala Philosophical Studies, Uppsala University.
-* Seuren, P. and D. Jaspers, 2014, “Logico-cognitive structure in the lexicon”, _Language_, 90: 607–43.
-* Shramko, Y., 2005, “Dual intuitionistic logic and a variety of negations: the logic of scientific research”, _Studia Logica_, 80: 347–367.
-* Shramko, Y. and H. Wansing, 2011, _Truth and Falsehood. An Inquiry into Generalized Logical Values_, Dordrecht: Springer.
-* Smiley T., 1993, “Can Contradictions Be True?. I”, _Proceedings of the Aristotelian Society_, 67: 17–34.
-* –––, 1996, “ Rejection”, _Analysis_, 56:1–9.
-* Sommers, F. and G. Englebretsen, 2000, _An Invitation to Formal Reasoning: The Logic of Terms_, Aldershot: Ashgate.
+* –––, 2000, *An Introduction to Substructural Logics*, London: Routledge, London.
+* Ripley, D., 2009, *Negation in Natural Language*, Ph.D. Dissertation, Philosophy Department, University of North Carolina/Chapel Hill \[[Ripley 2009 available online](https://cdr.lib.unc.edu/record/uuid:8b50aebb-e71a-48a7-881e-d863d2e77ce1)].
+* –––, 2011a, “Contradictions at the borders”, in R. Nouwen, R. van Rooij, U. Sauerland and H.-C. Schmitz (eds.), *Vagueness in Communication*, 169–188, Berlin: Springer.
+* –––, 2011b, “Negation, denial, and rejection”, *Philosophy Compass*, 6: 622–629.
+* Rooth, M., 1992, “A theory of focus interpretation”, *Natural Language Semantics*, 1: 75–116.
+* Routley, R. and V. Routley, 1972, “Semantics for first degree entailment”, *Noûs*, 6: 335–59.
+* –––, 1985, “Negation and contradiction”, *Revista Colombiana de Matemáticas*, 19: 201–230.
+* Rumfitt, I., 2000, “”Yes“ and ”no“”, *Mind*, 109: 781–823.
+* Russell, B., 1905, “On denoting”, *Mind*, 14: 479–93.
+* Sánchez Valencia, V., 1994, “Monotonicity in medieval logic”, *Language and Cognition*, 4: 161–174.
+* Segerberg, K., 1971, *An Essay in Classical Modal Logic*, vol. 1–3, Uppsala Philosophical Studies, Uppsala University.
+* Seuren, P. and D. Jaspers, 2014, “Logico-cognitive structure in the lexicon”, *Language*, 90: 607–43.
+* Shramko, Y., 2005, “Dual intuitionistic logic and a variety of negations: the logic of scientific research”, *Studia Logica*, 80: 347–367.
+* Shramko, Y. and H. Wansing, 2011, *Truth and Falsehood. An Inquiry into Generalized Logical Values*, Dordrecht: Springer.
+* Smiley T., 1993, “Can Contradictions Be True?. I”, *Proceedings of the Aristotelian Society*, 67: 17–34.
+* –––, 1996, “ Rejection”, *Analysis*, 56:1–9.
+* Sommers, F. and G. Englebretsen, 2000, *An Invitation to Formal Reasoning: The Logic of Terms*, Aldershot: Ashgate.
 * Speranza, J.L. and L. Horn, 2012, “A brief history of negation”, in Gabbay, Pelletier, and Woods 2012: 127–174.
-* Spruyt, J., 1989, _Peter of Spain on Composition and Negation_, Nijmegen: Ingenium.
-* Strawson, P.F., 1950, “On referring”, _Mind_, 59: 320–44.
-* –––, 1952, _Introduction to Logical Theory_, London: Methuen.
-* de Swart, H., 2011, _Expression and Interpretation of Negation: An OT Typology_, Dordrecht: Springer.
-* Tottie, G. and A. Neukom-Hermann, 2010, Quantifier-negation interaction in English: A corpus linguistic study of _all...not_ constructions. In Horn 2010b: 149–185.
-* Vakarelov, D., 1977, _Theory of Negation in Certain Logical Systems: Algebraic and Semantic Approach_, Ph.D. thesis, University of Warsaw.
-* –––, 1989a, “Intuitive semantics for some three-valued logics connected with information, contrariety and subcontrariety”, _Studia Logica_, 48: 565–575.
-* –––, 1989b, “Consistency, Completeness and Negations”, in G. Priest, R. Routley, and J. Norman (eds.), _Paraconsistent Logic: Essays on the Inconsistent_, 328–368, Munich: Philosophia Verlag.
-* Varzi, A.C. and M. Warglien, 2003, “The Geometry of Negation”, _Journal of Applied Non-Classical Logics_, 13:9–19.
-* Wagner, G., 1994, _Vivid Logic: Knowledge-Based Reasoning with Two Kinds of Negation_, Lecture Notes in Computer Science Volume 764, Berlin: Springer.
-* Wansing, H., 1993, _The Logic of Information Structures_, Lecture Notes in AI 681, Berlin: Springer.
-* –––, 1994, “Sequent calculi for normal modal propositional logics”, _Journal of Logic and Computation_, 4: 125–142.
-* ––– (ed.), 1996, _Negation. A Notion in Focus_, Berlin: de Gruyter.
-* –––, 1998, _Displaying Modal Logic_, Dordrecht: Kluwer.
-* –––, 2001, “Negation”, in L. Goble (ed.), _The Blackwell Guide to Philosophical Logic_, 415–436, Oxford: Blackwell Publishers.
-* –––, 2002, “Sequent systems for modal logics”, in D. Gabbay and F. Guenthner (eds.), _Handbook of Philosophical Logic. Vol. 8_, 61–145, Dordrecht: Springer.
-* –––, 2005, “Connexive modal logic”, in R. Schmidt et al. (eds.), _Advances in Modal Logic. Volume 5_, 367–383, London: King’s College Publications. \[[Wansing 2005 also available online](http://www.aiml.net/volumes/volume5/)]
-* –––, 2006, “Contradiction and contrariety. Priest on negation”, in J. Malinowski and A. Pietruszczak (eds.), _Essays in Logic and Ontology_, 81–93, Amsterdam: Rodopi.
-* –––, 2008, “Constructive negation, implication, and co-implication”, _Journal of Non-Classical Logics_, 18: 341–364.
-* –––, 2016a, “Falsification, natural deduction, and bi-intuitionistic logic”, _Journal of Logic and Computation_, 26: 425–450 (first online 2013).
-* –––, 2016b, “On split negation, strong negation, information, falsification, and verification”, in K. Bimbó (ed.), _J. Michael Dunn on Information Based Logics_, 161–189: Dordrecht: Springer.
-* Wansing, H. and D. Skurt, 2018, “Negation as cancellation, connexive logic, and qLPm”, _Australasian Journal of Logic_, 15: 476–488.
-* Wason, P.C., 1965, “The contexts of plausible denial”, _Journal of Verbal Learning and Verbal Behavior_, 4: 7–11.
-* Wilson, D., 1975, _Presupposition and Non-Truth-Conditional Semantics_, New York: Academic Press.
-* Wittgenstein, Ludwig, 1953, _Philosophical Investigations_, trans. E. Anscombe, New York: Macmillan.
-* Wood, L.M., 1933, “The paradox of negative judgment”, _Philosophical Review_, 42: 412–23.
-* van der Wouden, T., 1996, _Negative Contexts: Collocation, Polarity, and Multiple Negation_, London: Routledge.
-* von Wright, G.H., 1959, “On the logic of negation”, _Societas Scientiarum Fennica, Commentationes Physico-Mathematicae_, 22: 1–30.
-* Zeijlstra, H., 2004, _Sentential Negation and Negative Concord_, Utrecht: LOT.
-* Zwarts, F., 1998, “Three types of polarity”, in F. Hamm and E. Hinrichs (eds.), _Plural Quantification_, 177–238. Dordrecht: Kluwer.
+* Spruyt, J., 1989, *Peter of Spain on Composition and Negation*, Nijmegen: Ingenium.
+* Strawson, P.F., 1950, “On referring”, *Mind*, 59: 320–44.
+* –––, 1952, *Introduction to Logical Theory*, London: Methuen.
+* de Swart, H., 2011, *Expression and Interpretation of Negation: An OT Typology*, Dordrecht: Springer.
+* Tottie, G. and A. Neukom-Hermann, 2010, Quantifier-negation interaction in English: A corpus linguistic study of *all...not* constructions. In Horn 2010b: 149–185.
+* Vakarelov, D., 1977, *Theory of Negation in Certain Logical Systems: Algebraic and Semantic Approach*, Ph.D. thesis, University of Warsaw.
+* –––, 1989a, “Intuitive semantics for some three-valued logics connected with information, contrariety and subcontrariety”, *Studia Logica*, 48: 565–575.
+* –––, 1989b, “Consistency, Completeness and Negations”, in G. Priest, R. Routley, and J. Norman (eds.), *Paraconsistent Logic: Essays on the Inconsistent*, 328–368, Munich: Philosophia Verlag.
+* Varzi, A.C. and M. Warglien, 2003, “The Geometry of Negation”, *Journal of Applied Non-Classical Logics*, 13:9–19.
+* Wagner, G., 1994, *Vivid Logic: Knowledge-Based Reasoning with Two Kinds of Negation*, Lecture Notes in Computer Science Volume 764, Berlin: Springer.
+* Wansing, H., 1993, *The Logic of Information Structures*, Lecture Notes in AI 681, Berlin: Springer.
+* –––, 1994, “Sequent calculi for normal modal propositional logics”, *Journal of Logic and Computation*, 4: 125–142.
+* ––– (ed.), 1996, *Negation. A Notion in Focus*, Berlin: de Gruyter.
+* –––, 1998, *Displaying Modal Logic*, Dordrecht: Kluwer.
+* –––, 2001, “Negation”, in L. Goble (ed.), *The Blackwell Guide to Philosophical Logic*, 415–436, Oxford: Blackwell Publishers.
+* –––, 2002, “Sequent systems for modal logics”, in D. Gabbay and F. Guenthner (eds.), *Handbook of Philosophical Logic. Vol. 8*, 61–145, Dordrecht: Springer.
+* –––, 2005, “Connexive modal logic”, in R. Schmidt et al. (eds.), *Advances in Modal Logic. Volume 5*, 367–383, London: King’s College Publications. \[[Wansing 2005 also available online](http://www.aiml.net/volumes/volume5/)]
+* –––, 2006, “Contradiction and contrariety. Priest on negation”, in J. Malinowski and A. Pietruszczak (eds.), *Essays in Logic and Ontology*, 81–93, Amsterdam: Rodopi.
+* –––, 2008, “Constructive negation, implication, and co-implication”, *Journal of Non-Classical Logics*, 18: 341–364.
+* –––, 2016a, “Falsification, natural deduction, and bi-intuitionistic logic”, *Journal of Logic and Computation*, 26: 425–450 (first online 2013).
+* –––, 2016b, “On split negation, strong negation, information, falsification, and verification”, in K. Bimbó (ed.), *J. Michael Dunn on Information Based Logics*, 161–189: Dordrecht: Springer.
+* Wansing, H. and D. Skurt, 2018, “Negation as cancellation, connexive logic, and qLPm”, *Australasian Journal of Logic*, 15: 476–488.
+* Wason, P.C., 1965, “The contexts of plausible denial”, *Journal of Verbal Learning and Verbal Behavior*, 4: 7–11.
+* Wilson, D., 1975, *Presupposition and Non-Truth-Conditional Semantics*, New York: Academic Press.
+* Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, trans. E. Anscombe, New York: Macmillan.
+* Wood, L.M., 1933, “The paradox of negative judgment”, *Philosophical Review*, 42: 412–23.
+* van der Wouden, T., 1996, *Negative Contexts: Collocation, Polarity, and Multiple Negation*, London: Routledge.
+* von Wright, G.H., 1959, “On the logic of negation”, *Societas Scientiarum Fennica, Commentationes Physico-Mathematicae*, 22: 1–30.
+* Zeijlstra, H., 2004, *Sentential Negation and Negative Concord*, Utrecht: LOT.
+* Zwarts, F., 1998, “Three types of polarity”, in F. Hamm and E. Hinrichs (eds.), *Plural Quantification*, 177–238. Dordrecht: Kluwer.
 
 ## Academic Tools
 
@@ -955,7 +953,7 @@ Humberstone（2000a，368）对拒绝主义提出质疑，要求拒绝主义者�
 ## Other Internet Resources
 
 * Georgiev, D., T. Tinchev, and D. Vakarelov, [SQEMA](http://www.fmi.uni-sofia.bg/fmi/logic/sqema/index.jsp), Sofia University.
-* Horn, L., “[Negation](http://tinyurl.com/qxudaar),” _Oxford Bibliographies_.
+* Horn, L., “[Negation](http://tinyurl.com/qxudaar),” *Oxford Bibliographies*.
 * van der Sandt, R. and E. Maier, 2003, [Denials in discourse](http://philpapers.org/archive/VANDID), University of Nijmegen.
 * Yu, J., 2010, “[Negation from the perspective of neighborhood semantics](https://www.sinoss.net/uploadfile/2010/1130/7107.pdf).”
 
@@ -968,5 +966,5 @@ Humberstone（2000a，368）对拒绝主义提出质疑，要求拒绝主义者�
 We would like to thank anonymous referees of the Stanford Encyclopedia of Philosophy, David Ripley, and João Marcos for their detailed and thoughtful comments.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[_laurence.horn@yale.edu_](mailto:laurence%2ehorn%40yale%2eedu)>\
-[Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[_Heinrich.Wansing@rub.de_](mailto:Heinrich%2eWansing%40rub%2ede)>
+[Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[*laurence.horn@yale.edu*](mailto:laurence%2ehorn%40yale%2eedu)>\
+[Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>

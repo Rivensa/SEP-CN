@@ -1,6 +1,6 @@
 # 确定物与可确定物 determinates and determinables (Jessica Wilson)
 
-_首次发表于 2017 年 2 月 7 日星期二；实质性修订于 2023 年 1 月 18 日星期三_
+*首次发表于 2017 年 2 月 7 日星期二；实质性修订于 2023 年 1 月 18 日星期三*
 
 确定物与可确定物在第一实例是一种类型级属性，它们之间存在着独特的规范关系：‘确定物-可确定物’关系（简称‘确定性’）。例如，颜色是一个确定物，具有红色、蓝色和其他具体颜色的色调作为可确定物；形状是一个确定物，具有矩形、椭圆和其他具体（包括许多不规则的）形状作为可确定物；质量是一个确定物，具有具体的质量值作为可确定物。反映确定物可以具有不同程度或级别的规范化，将属性描述为确定物或可确定物通常是相对的；例如，红色是颜色的一个确定物，也是绯红色的一个确定物。
 
@@ -9,7 +9,6 @@ _首次发表于 2017 年 2 月 7 日星期二；实质性修订于 2023 年 1 �
 当然，外表可能具有欺骗性，有处理确定物及其规范方式的通货膨胀术语。这些策略是否成功或失败并不是小事。确定物和确定性的显著特征可能成为支持存在真实特征不是最大特定的最佳理由，如果这种说法成立，将对广泛的哲学问题产生深远影响。
 
 以下内容分为五个部分。在§1 中，我们追溯了确定性被视为一种特殊规范形式的历史轨迹的关键点。在§2 中，我们介绍了确定物、可确定物及其关系的常见先进特征；在这里，我们还讨论了（从现实角度看）关系延伸到超越属性的本体范畴。在§3 中，我们勾勒了确定物与可确定物的主要反现实主义、还原主义和非还原主义解释，说明了这些解释如何试图适应确定物与可确定物的表面特征，并标记了主要关注点和回应；在这里，我们还讨论了确定性的结构或逻辑的某些解释。在§4 中，我们考虑了认为可确定物在形而上学上优先于确定物的理由和反对理由。在§5 中，我们提出了这些概念的三个应用，其中确定物和/或可确定物的独特特征被视为理解自然物理定律、心理/高层因果关系以及形而上学（包括量子）不确定性的关键。
-
 
 ***
 
@@ -601,146 +600,146 @@ F=K(M1M2)/D
 
 ## Bibliography
 
-* Akiba, Ken, 2004, “Vagueness in the World”, _Noûs_, 38(3): 407–29. doi:10.1111/j.0029-4624.2004.00476.x
-* Antony, Louise M, 2003, “Who’s Afraid of Disjunctive Properties?” _Philosophical Issues_, 13(1): 1–21. doi:10.1111/1533-6077.00001
-* Aristotle, _Metaphysics_, in J.A. Barnes (ed.), _The Complete Works of Aristotle: The Revised Oxford Translation_, Oxford: Oxford University Press, 1984.
-* Armstrong, David M., 1978a, _Universals and Scientific Realism, Vol I: Nominalism and Realism_, Cambridge: Cambridge University Press.
-* –––, 1978b, _Universals and Scientific Realism, Vol II: A Theory of Universals_, Cambridge: Cambridge University Press.
-* –––, 1989, _Universals: An Opinionated Introduction_, Boulder, Colorado: Westview Press.
-* –––, 1997, _A World of States of Affairs_, Cambridge: Cambridge University Press.
-* –––, 2010, _Sketch for a Systematic Metaphysics_, Oxford: Oxford University Press.
-* Bacon, John, 1995, _Universals and Property Instances: The Alphabet of Being_, Oxford: Blackwell.
-* Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed”, _Noûs_, 44(4): 601–627. doi:10.1111/j.1468-0068.2010.00762.x
-* Barnes, Elizabeth, and J. Robert G. Williams, 2011, “A Theory of Metaphysical Indeterminacy”, in _Oxford Studies in Metaphysics_, Volume 6, K. Bennett and D. W. Zimmerman (eds), Oxford: Oxford University Press, 103–48. doi:10.1093/acprof:oso/9780199603039.003.0003
-* Batterman, Robert, 1998, “Why Equilibrium Statistical Mechanics Works: Universality and the Renormalization Group”, _Philosophy of Science_, 65(2): 183–208. doi:10.1086/392634
-* Berkeley, George, 1710, “A Treatise Concerning the Principles of Human Knowledge”, reprinted in 1948–1957, _The Works of George Berkeley_, vol. 2, A.A. Luce and T.E. Jessop (eds), London: Thomas Nelson, pages 21–115.
-* Bernstein, Sara, 2014, “Two Problems for Proportionality About Omissions”, _Dialectica_, 68(3): 429–41. doi:10.1111/1746-8361.12071
-* Bigelow, John, and Robert Pargetter, 1990, _Science and Necessity_, Cambridge: Cambridge University Press.
-* Bokulich, Alisa, 2014, “Metaphysical Indeterminacy, Properties, and Quantum Theory”, _Res Philosophica_, 91(3): 449–475. doi:10.11612/resphil.2014.91.3.11
-* Brentano, Franz, 1982, _Descriptive Psychology_, London: Routledge, 1995.
-* Calosi, Claudio, 2019, “Determinables, Location, and Indeterminacy”, _Synthese_, 198(5): 4191–4202.
-* Calosi, Claudio and Cristian Mariani, 2021, “Quantum Indeterminacy”, _Philosophy Compass_, 16: e12731.
-* Calosi, Claudio and Jessica Wilson, 2019, “Quantum Metaphysical Indeterminacy”, _Philosophical Studies_, 176(10): 2599–2627.
-* –––, 2021, “Quantum Indeterminacy and the Double-Slit Experiment”, _Philosophical Studies_, 178: 3291–3317.
-* –––, forthcoming, “Quantum Indeterminacy in the Multiverse”, in Valia Allori (ed.), _Quantum Mechanics and Fundamentality_, Berlin: Springer.
-* Christensen, Jonas, 2014, “Determinable Properties and Overdetermination of Causal Powers”, _Philosophia_, 42(3): 695–711. doi:10.1007/s11406-014-9517-y
-* Clapp, Lenny, 2001, “Disjunctive Properties: Multiple Realizations”, _Journal of Philosophy_, 98(3): 111–36. doi:10.2307/2678378
-* Clarke, Randolph, 1999, “Nonreductive Physicalism and the Causal Powers of the Mental”, _Erkenntnis_, 51(2): 295–322. doi:10.1023/A:1005581414518
-* Cook Wilson, John, 1926, _Statement and Inference_, 2 volumes, Oxford: Clarendon Press.
-* Correia, Fabrice, 2005, _Existential Dependence and Cognate Notions_, Munich: Philosophia Verlag.
-* Cruse, David A., 1995, _Lexical Semantics_, Cambridge: Cambridge University Press.
-* Darby, George, 2010, “Quantum Mechanics and Metaphysical Indeterminacy”, _Australasian Journal of Philosophy_, 88(2): 227–245. doi:10.1080/00048400903097786
-* Denby, David A., 2001, “Determinable Nominalism”, _Philosophical Studies_, 102(3): 297–327. doi:10.1023/A:1010314926955
-* Descartes, René, 1644, _Principles of Philosophy_, V. R. Miller and R.P. Miller (trans.), Dordrecht: Reidel, 1983.
-* Dosanjh, Ranpal, 2021, “Token-Distinctness and the Disjunctive Strategy”, _Erkenntnis_, 86(3): 715–732.
-* Dowe, Phil, 2010, “Proportionality and Omissions”, _Analysis_, 70(3): 446–451. doi:10.1093/analys/anq033
-* Eddon, Maya, 2007, “Armstrong on Quantities and Resemblance”, _Philosophical Studies_, 136(3): 385–404. doi:10.1007/s11098-005-5384-5
-* Ehring, Douglas, 1996, “Mental Causation, Determinables, and Property Instances”, _Noûs_, 30(4): 461–480. doi:10.2307/2216114
-* Elder, Crawford L., 1996, “Realism and Determinable Properties”, _Philosophy and Phenomenological Research_, 56(1): 149–159. doi:10.2307/2108471
-* Fales, Evan, 1990, _Causation and Universals_, London: Routledge.
-* Fine, Kit, 1994, “Essence and Modality: The Second _Philosophical Perspectives_ Lecture ”, _Philosophical Perspectives_, 8: 1–16. doi:10.2307/2214160
-* –––, 2011, “An Abstract Characterization of the Determinate/Determinable Distinction”, _Philosophical Perspectives_, 25(1): 161–87. doi:10.1111/j.1520-8583.2011.00224.x
-* –––, 2012a, “A Difficulty for the Possible Worlds Analysis of Counterfactuals”, _Synthese_, 189(1): 29–57. doi:10.1007/s11229-012-0094-y
-* –––, 2012b, “Counterfactuals Without Possible Worlds”, _Journal of Philosophy_, 109(3): 221–246. doi:10.5840/jphil201210938
-* Fletcher, Samuel and David Taylor, 2021, “Quantum Indeterminacy and the Eigenstate-Eigenvalue Link”, _Synthese_, 199: 11181–11212. doi:10.1007/s11229-021-03285-3
-* French, Steven, 2014, _The Structure of the World: Metaphysics and Representation_, Oxford: Oxford University Press.
-* Funkhouser, Eric, 2006, “The Determinable-Determinate Relation”, _Noûs_, 40(3): 548–569. doi:10.1111/j.1468-0068.2006.00623.x
-* –––, 2014, _The Logical Structure of Kinds_, Oxford: Oxford University Press.
-* Gillett, Carl and Bradley Rives, 2005, “The Nonexistence of Determinables: Or, a World of Absolute Determinates as Default Hypothesis”, _Noûs_, 39(3): 483–504. doi:10.1111/j.0029-4624.2005.00510.x
-* Glick, David, 2017, “Against Quantum Indeterminacy”, _Thought_, 6(3): 204–213.
-* Granger, Edgar Herbert, 1984, “Aristotle on Genus and Differentia”, _Journal of the History of Philosophy_, 22(1): 1–23. doi:10.1353/hph.1984.0001
-* Ho, Chien-Hsing, 2020, “Ontic Indeterminacy: Chinese Madhyamaka in the Contemporary Context”, _Australasian Journal of Philosophy_, 98(3): 419–433.
-* Hellie, Benj, 2005, “Noise and perceptual indiscriminability”, _Mind_, 114(455): 481–508.
-* Heil, John, 2003, “Levels of Reality”, _Ratio_, 16(3): 205–21. doi:10.1111/1467-9329.00218
-* Hooker, Cliff A., 1981, “Towards a General Theory of Reduction”, _Dialogue_
+* Akiba, Ken, 2004, “Vagueness in the World”, *Noûs*, 38(3): 407–29. doi:10.1111/j.0029-4624.2004.00476.x
+* Antony, Louise M, 2003, “Who’s Afraid of Disjunctive Properties?” *Philosophical Issues*, 13(1): 1–21. doi:10.1111/1533-6077.00001
+* Aristotle, *Metaphysics*, in J.A. Barnes (ed.), *The Complete Works of Aristotle: The Revised Oxford Translation*, Oxford: Oxford University Press, 1984.
+* Armstrong, David M., 1978a, *Universals and Scientific Realism, Vol I: Nominalism and Realism*, Cambridge: Cambridge University Press.
+* –––, 1978b, *Universals and Scientific Realism, Vol II: A Theory of Universals*, Cambridge: Cambridge University Press.
+* –––, 1989, *Universals: An Opinionated Introduction*, Boulder, Colorado: Westview Press.
+* –––, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
+* –––, 2010, *Sketch for a Systematic Metaphysics*, Oxford: Oxford University Press.
+* Bacon, John, 1995, *Universals and Property Instances: The Alphabet of Being*, Oxford: Blackwell.
+* Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed”, *Noûs*, 44(4): 601–627. doi:10.1111/j.1468-0068.2010.00762.x
+* Barnes, Elizabeth, and J. Robert G. Williams, 2011, “A Theory of Metaphysical Indeterminacy”, in *Oxford Studies in Metaphysics*, Volume 6, K. Bennett and D. W. Zimmerman (eds), Oxford: Oxford University Press, 103–48. doi:10.1093/acprof:oso/9780199603039.003.0003
+* Batterman, Robert, 1998, “Why Equilibrium Statistical Mechanics Works: Universality and the Renormalization Group”, *Philosophy of Science*, 65(2): 183–208. doi:10.1086/392634
+* Berkeley, George, 1710, “A Treatise Concerning the Principles of Human Knowledge”, reprinted in 1948–1957, *The Works of George Berkeley*, vol. 2, A.A. Luce and T.E. Jessop (eds), London: Thomas Nelson, pages 21–115.
+* Bernstein, Sara, 2014, “Two Problems for Proportionality About Omissions”, *Dialectica*, 68(3): 429–41. doi:10.1111/1746-8361.12071
+* Bigelow, John, and Robert Pargetter, 1990, *Science and Necessity*, Cambridge: Cambridge University Press.
+* Bokulich, Alisa, 2014, “Metaphysical Indeterminacy, Properties, and Quantum Theory”, *Res Philosophica*, 91(3): 449–475. doi:10.11612/resphil.2014.91.3.11
+* Brentano, Franz, 1982, *Descriptive Psychology*, London: Routledge, 1995.
+* Calosi, Claudio, 2019, “Determinables, Location, and Indeterminacy”, *Synthese*, 198(5): 4191–4202.
+* Calosi, Claudio and Cristian Mariani, 2021, “Quantum Indeterminacy”, *Philosophy Compass*, 16: e12731.
+* Calosi, Claudio and Jessica Wilson, 2019, “Quantum Metaphysical Indeterminacy”, *Philosophical Studies*, 176(10): 2599–2627.
+* –––, 2021, “Quantum Indeterminacy and the Double-Slit Experiment”, *Philosophical Studies*, 178: 3291–3317.
+* –––, forthcoming, “Quantum Indeterminacy in the Multiverse”, in Valia Allori (ed.), *Quantum Mechanics and Fundamentality*, Berlin: Springer.
+* Christensen, Jonas, 2014, “Determinable Properties and Overdetermination of Causal Powers”, *Philosophia*, 42(3): 695–711. doi:10.1007/s11406-014-9517-y
+* Clapp, Lenny, 2001, “Disjunctive Properties: Multiple Realizations”, *Journal of Philosophy*, 98(3): 111–36. doi:10.2307/2678378
+* Clarke, Randolph, 1999, “Nonreductive Physicalism and the Causal Powers of the Mental”, *Erkenntnis*, 51(2): 295–322. doi:10.1023/A:1005581414518
+* Cook Wilson, John, 1926, *Statement and Inference*, 2 volumes, Oxford: Clarendon Press.
+* Correia, Fabrice, 2005, *Existential Dependence and Cognate Notions*, Munich: Philosophia Verlag.
+* Cruse, David A., 1995, *Lexical Semantics*, Cambridge: Cambridge University Press.
+* Darby, George, 2010, “Quantum Mechanics and Metaphysical Indeterminacy”, *Australasian Journal of Philosophy*, 88(2): 227–245. doi:10.1080/00048400903097786
+* Denby, David A., 2001, “Determinable Nominalism”, *Philosophical Studies*, 102(3): 297–327. doi:10.1023/A:1010314926955
+* Descartes, René, 1644, *Principles of Philosophy*, V. R. Miller and R.P. Miller (trans.), Dordrecht: Reidel, 1983.
+* Dosanjh, Ranpal, 2021, “Token-Distinctness and the Disjunctive Strategy”, *Erkenntnis*, 86(3): 715–732.
+* Dowe, Phil, 2010, “Proportionality and Omissions”, *Analysis*, 70(3): 446–451. doi:10.1093/analys/anq033
+* Eddon, Maya, 2007, “Armstrong on Quantities and Resemblance”, *Philosophical Studies*, 136(3): 385–404. doi:10.1007/s11098-005-5384-5
+* Ehring, Douglas, 1996, “Mental Causation, Determinables, and Property Instances”, *Noûs*, 30(4): 461–480. doi:10.2307/2216114
+* Elder, Crawford L., 1996, “Realism and Determinable Properties”, *Philosophy and Phenomenological Research*, 56(1): 149–159. doi:10.2307/2108471
+* Fales, Evan, 1990, *Causation and Universals*, London: Routledge.
+* Fine, Kit, 1994, “Essence and Modality: The Second *Philosophical Perspectives* Lecture ”, *Philosophical Perspectives*, 8: 1–16. doi:10.2307/2214160
+* –––, 2011, “An Abstract Characterization of the Determinate/Determinable Distinction”, *Philosophical Perspectives*, 25(1): 161–87. doi:10.1111/j.1520-8583.2011.00224.x
+* –––, 2012a, “A Difficulty for the Possible Worlds Analysis of Counterfactuals”, *Synthese*, 189(1): 29–57. doi:10.1007/s11229-012-0094-y
+* –––, 2012b, “Counterfactuals Without Possible Worlds”, *Journal of Philosophy*, 109(3): 221–246. doi:10.5840/jphil201210938
+* Fletcher, Samuel and David Taylor, 2021, “Quantum Indeterminacy and the Eigenstate-Eigenvalue Link”, *Synthese*, 199: 11181–11212. doi:10.1007/s11229-021-03285-3
+* French, Steven, 2014, *The Structure of the World: Metaphysics and Representation*, Oxford: Oxford University Press.
+* Funkhouser, Eric, 2006, “The Determinable-Determinate Relation”, *Noûs*, 40(3): 548–569. doi:10.1111/j.1468-0068.2006.00623.x
+* –––, 2014, *The Logical Structure of Kinds*, Oxford: Oxford University Press.
+* Gillett, Carl and Bradley Rives, 2005, “The Nonexistence of Determinables: Or, a World of Absolute Determinates as Default Hypothesis”, *Noûs*, 39(3): 483–504. doi:10.1111/j.0029-4624.2005.00510.x
+* Glick, David, 2017, “Against Quantum Indeterminacy”, *Thought*, 6(3): 204–213.
+* Granger, Edgar Herbert, 1984, “Aristotle on Genus and Differentia”, *Journal of the History of Philosophy*, 22(1): 1–23. doi:10.1353/hph.1984.0001
+* Ho, Chien-Hsing, 2020, “Ontic Indeterminacy: Chinese Madhyamaka in the Contemporary Context”, *Australasian Journal of Philosophy*, 98(3): 419–433.
+* Hellie, Benj, 2005, “Noise and perceptual indiscriminability”, *Mind*, 114(455): 481–508.
+* Heil, John, 2003, “Levels of Reality”, *Ratio*, 16(3): 205–21. doi:10.1111/1467-9329.00218
+* Hooker, Cliff A., 1981, “Towards a General Theory of Reduction”, *Dialogue*
   * “Part I: Historical and Scientific Setting”, 20(1): 38–59. doi:10.1017/S0012217300023088
   * “Part II: Identity in Reduction”, 20(2): 201–236. doi:10.1017/S0012217300023301
   * “Part III: Cross-Categorical Reduction”, 20(3): 496–529. doi:10.1017/S0012217300023593
-* Horgan, Terence, 1989, “Mental Quausation”, _Philosophical Perspectives_ 3, Philosophy of Mind and Action Theory, 47–76. doi:10.2307/2214263
-* –––, 1993, “From Supervenience to Superdupervenience: Meeting the Demands of a Material World”, _Mind_, 102(408): 555–586. doi:10.1093/mind/102.408.555
-* Hübner, Karolina and Róbert Mátyási, 2022. “Spinoza on Expression and Grounds of Intelligibility”, _Philosophical Quarterly_, 72(3): 628–651.
-* Hume, David, 1739–40, _A Treatise of Human Nature_, Oxford: Oxford University Press.
-* Hurley, Susan L., 1989, _Natural Reasons: Personality and Polity_, Oxford: Oxford University Press.
-* Jenkins, Carrie S., 2011, “Is Metaphysical Dependence Irreflexive?” _The Monist_, 94(2): 267–276. doi:10.5840/monist201194213
-* Johansson, Ingvar, 2000, “Determinables as Universals”, _The Monist_, 83(1): 101–121. doi:/10.5840/monist20008312
-* –––, 2004, _Ontological Investigations: An Inquiry into the Categories of Nature, Man and Society_, Frankfurt: Ontos Verlag.
-* Johnson, William Ernest, 1921, _Logic_ (Part 1), Cambridge: Cambridge University Press.
-* –––, 1924, _Logic_ (Part III: The Logical Foundations of Science), Cambridge: Cambridge University Press.
-* Kallestrup, Jesper, 2020, “From Epistemic Basing to Epistemic Grounding”, in _Well-founded Belief: New Essays on the Epistemic Basing Relation_, J. A. Carter and P. Bondy (eds), Routledge, 251–274.
-* Kim, Jaegwon, 1989, “The Myth of Nonreductive Materialism”, _Proceedings and Addresses of the American Philosophical Association_, 63: 31–47. doi:10.2307/3130081
-* –––, 1993, “The Non-Reductivist’s Troubles with Mental Causation”, in _Mental Causation_, J. Heil and A. Mele (eds), Oxford: Oxford University Press, 189–210.
-* Kistler, Max, 2005, “Necessary Laws”, in _Natures Principles_, J. Faye, P. Needham, U. Scheffler, and M. Urchs (eds), Springer, 201–227. doi:10.1007/1-4020-3258-7\_8
-* Koslicki, Kathrin, 2016, “Where Grounding and Causation Part Ways: Comments on Jonathan Schaffer”, _Philosophical Studies_, 173(1): 101–112. doi:10.1007/s11098-014-0436-3
-* Kripke, Saul, 1980, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* Lee, Matthew Brandon and Paul Silva Jr., 2022, “Toward a Lockean Unification of Formal and Traditional Epistemology”, _Episteme_, 19(1): 111–129. doi:10.1017/epi.2020.11
-* Leibniz, Gottfried Wilhelm, 1704, _Nouveaux Essais sur l_’_entendement humain_ (New Essays on Human Understanding), translation from Alfred Gideon Langley, 1896, New York: Macmillan.
-* Lewis, David, 1983, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61(4): 343–377. doi:10.1080/00048408312341131
-* –––, 1986, _On the Plurality of Worlds_, London: Blackwell.
-* Locke, John, 1690, _An Essay Concerning Human Understanding_, Oxford: Clarendon, 1975.
-* MacBride, Fraser, 2005, “Lewis’s Animadversions on the Truthmaker Principle”, in _Truthmakers: The Contemporary Debate_, H. Beebee and J. Dodd (eds), Oxford: Oxford University Press, 117–40. doi:10.1093/acprof:oso/9780199283569.003.0008
-* MacDonald, Cynthia, and Graham MacDonald, 1986, “Mental Causes and Explanation of Action”, _Philosophical Quarterly_, 36(143): 145–158. doi:10.2307/2219765
-* Mamlouk, A. M. and Thomas Martinetz, 2004, “On the Dimensions of the Olfactory Perception Space”, _Neurocomputing_, 58–60: 1019–1025, \[[reprint available online](http://www.inb.uni-luebeck.de/publications/pdfs/MaMa04.pdf)].
-* Massin, Olivier, 2013, “Determinables and Brute Similarities”, in _Johanssonian Investigations: Essays in Honour of Ingvar Johansson on His Seventieth Birthday_, C. Svennerlind, J. Almäng, R. Ingthorsson (eds), Heusenstamm: Ontos Verlag, pages 388–420. doi:10.1515/9783110322507.388
-* McDaniel, Kris, 2010, “A Return to the Analogy of Being”, _Philosophy and Phenomenological Research_, 81(3): 688–717. doi:10.1111/j.1933-1592.2010.00378.x
-* McLaughlin, Brian P., 2007, “Mental Causation and Shoemaker-Realization”, _Erkenntnis_, 67(2): 149–172. doi:10.1007/s10670-007-9069-7
-* McLaughlin, Brian and Karen Bennett, 2005, “Supervenience”, _The Stanford Encyclopedia of Philosophy_ (Fall 2005 Edition), Edward N. Zalta (ed.), URL = <[Supervenience (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/supervenience/)>.
-* Meinertsen, Bo R., 2021, “Mellors Question: Are Determinables Properties of Properties or of Particulars?”, _American Philosophical Quarterly_, 58(3): 291–305.
-* Mellor, D. H., 1995, _The Facts of Causation_, London: Routledge.
-* Melnyk, Andrew, 2006, “Realization and the Formulation of Physicalism”, _Philosophical Studies_, 131(1): 127–155. doi:10.1007/s11098-005-5986-y
-* Mill, John S., 1843/1973, _A System of Logic_, Toronto: University of Toronto Press.
-* Morganti, Matteo, 2011, “The Partial Identity Account of Partial Similarity Revisited”, _Philosophia_, 39(3): 527–546. doi:10.1007/s11406-010-9290-5
-* Mulligan, Kevin, 1992, _Language, Truth and Ontology_, Dordrecht: Kluwer.
-* –––, 2006, “Ascent, Propositions and Other Formal Objects”, in _Propositions: Semantic and Ontological Issues_ (Grazer Philosophische Studien 72), M. Carrara and E. Sacchi (eds), Amsterdam: Rodopi, pages 29–48.
-* –––, 2014, “Formal Concepts”, in _The History and Philosophy of Polish Logic: Essays in Honour of Jan Woleński_, K. Mulligan, K. Kijania-Placek, and T. Placek (eds), London: Palgrave Macmillan UK, pages 205–23.
-* Paul, Laurie A., 2002, “Logical Parts”, _Noûs_, 36(4): 578–596. doi:10.1111/1468-0068.00402
-* –––, 2012, “Building the World from Its Fundamental Constituents”, _Philosophical Studies_, 158(2): 221–256. doi:10.1007/s11098-012-9885-8
-* Pearl, Judea, 2000, _Causality_, Cambridge: Cambridge University Press.
-* Poli, Roberto, 2004, “W. E. Johnson’s Determinable-Determinate Opposition and His Theory of Abstraction”, in F. Coniglione, R. Poli, and R. Rollinger (eds), _Idealization XI: Historical Studies on Abstraction and Idealization_, Poznań Studies in the Philosophy of the Sciences and the Humanities 82/11, 163–196. doi:10.1163/9789004333215\_009
-* Prior, Arthur N., 1949, “Determinables, Determinates, and Determinants (I,II)”, _Mind_, 58(229): 1–20, 58(230): 178–94. doi:10.1093/mind/LVIII.229.1 and doi:10.1093/mind/LVIII.230.178
-* Robertson Ishii, Teresa and Philip Atkins, “Essential vs. Accidental Properties”, _The Stanford Encyclopedia of Philosophy_ (Winter 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2020/entries/essential-accidental/](https://plato.stanford.edu/archives/win2020/entries/essential-accidental/).
-* Rodriguez-Pereyra, Gonzalo, 2002, _Resemblance Nominalism: A Solution to the Problem of Universals_, Oxford: Oxford University Press.
-* –––, 2015, “Grounding is Not a Strict Order”, _Journal of the American Philosophical Association_, 1(3): 517–534.
-* Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in _Modality: Metaphysics, Logic, and Epistemology_, B. Hale and A. Hoffmann (eds), Oxford: Oxford University Press, 109–36. doi:10.1093/acprof:oso/9780199565818.003.0007
-* Rosen, Gideon and Nicholas J. J. Smith, 2004, “Worldly Indeterminacy: A Rough Guide”, _Australasian Journal of Philosophy_, 82(1): 185–198. doi:10.1080/713659795
+* Horgan, Terence, 1989, “Mental Quausation”, *Philosophical Perspectives* 3, Philosophy of Mind and Action Theory, 47–76. doi:10.2307/2214263
+* –––, 1993, “From Supervenience to Superdupervenience: Meeting the Demands of a Material World”, *Mind*, 102(408): 555–586. doi:10.1093/mind/102.408.555
+* Hübner, Karolina and Róbert Mátyási, 2022. “Spinoza on Expression and Grounds of Intelligibility”, *Philosophical Quarterly*, 72(3): 628–651.
+* Hume, David, 1739–40, *A Treatise of Human Nature*, Oxford: Oxford University Press.
+* Hurley, Susan L., 1989, *Natural Reasons: Personality and Polity*, Oxford: Oxford University Press.
+* Jenkins, Carrie S., 2011, “Is Metaphysical Dependence Irreflexive?” *The Monist*, 94(2): 267–276. doi:10.5840/monist201194213
+* Johansson, Ingvar, 2000, “Determinables as Universals”, *The Monist*, 83(1): 101–121. doi:/10.5840/monist20008312
+* –––, 2004, *Ontological Investigations: An Inquiry into the Categories of Nature, Man and Society*, Frankfurt: Ontos Verlag.
+* Johnson, William Ernest, 1921, *Logic* (Part 1), Cambridge: Cambridge University Press.
+* –––, 1924, *Logic* (Part III: The Logical Foundations of Science), Cambridge: Cambridge University Press.
+* Kallestrup, Jesper, 2020, “From Epistemic Basing to Epistemic Grounding”, in *Well-founded Belief: New Essays on the Epistemic Basing Relation*, J. A. Carter and P. Bondy (eds), Routledge, 251–274.
+* Kim, Jaegwon, 1989, “The Myth of Nonreductive Materialism”, *Proceedings and Addresses of the American Philosophical Association*, 63: 31–47. doi:10.2307/3130081
+* –––, 1993, “The Non-Reductivist’s Troubles with Mental Causation”, in *Mental Causation*, J. Heil and A. Mele (eds), Oxford: Oxford University Press, 189–210.
+* Kistler, Max, 2005, “Necessary Laws”, in *Natures Principles*, J. Faye, P. Needham, U. Scheffler, and M. Urchs (eds), Springer, 201–227. doi:10.1007/1-4020-3258-7\_8
+* Koslicki, Kathrin, 2016, “Where Grounding and Causation Part Ways: Comments on Jonathan Schaffer”, *Philosophical Studies*, 173(1): 101–112. doi:10.1007/s11098-014-0436-3
+* Kripke, Saul, 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Lee, Matthew Brandon and Paul Silva Jr., 2022, “Toward a Lockean Unification of Formal and Traditional Epistemology”, *Episteme*, 19(1): 111–129. doi:10.1017/epi.2020.11
+* Leibniz, Gottfried Wilhelm, 1704, *Nouveaux Essais sur l*’*entendement humain* (New Essays on Human Understanding), translation from Alfred Gideon Langley, 1896, New York: Macmillan.
+* Lewis, David, 1983, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61(4): 343–377. doi:10.1080/00048408312341131
+* –––, 1986, *On the Plurality of Worlds*, London: Blackwell.
+* Locke, John, 1690, *An Essay Concerning Human Understanding*, Oxford: Clarendon, 1975.
+* MacBride, Fraser, 2005, “Lewis’s Animadversions on the Truthmaker Principle”, in *Truthmakers: The Contemporary Debate*, H. Beebee and J. Dodd (eds), Oxford: Oxford University Press, 117–40. doi:10.1093/acprof:oso/9780199283569.003.0008
+* MacDonald, Cynthia, and Graham MacDonald, 1986, “Mental Causes and Explanation of Action”, *Philosophical Quarterly*, 36(143): 145–158. doi:10.2307/2219765
+* Mamlouk, A. M. and Thomas Martinetz, 2004, “On the Dimensions of the Olfactory Perception Space”, *Neurocomputing*, 58–60: 1019–1025, \[[reprint available online](http://www.inb.uni-luebeck.de/publications/pdfs/MaMa04.pdf)].
+* Massin, Olivier, 2013, “Determinables and Brute Similarities”, in *Johanssonian Investigations: Essays in Honour of Ingvar Johansson on His Seventieth Birthday*, C. Svennerlind, J. Almäng, R. Ingthorsson (eds), Heusenstamm: Ontos Verlag, pages 388–420. doi:10.1515/9783110322507.388
+* McDaniel, Kris, 2010, “A Return to the Analogy of Being”, *Philosophy and Phenomenological Research*, 81(3): 688–717. doi:10.1111/j.1933-1592.2010.00378.x
+* McLaughlin, Brian P., 2007, “Mental Causation and Shoemaker-Realization”, *Erkenntnis*, 67(2): 149–172. doi:10.1007/s10670-007-9069-7
+* McLaughlin, Brian and Karen Bennett, 2005, “Supervenience”, *The Stanford Encyclopedia of Philosophy* (Fall 2005 Edition), Edward N. Zalta (ed.), URL = <[Supervenience (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/supervenience/)>.
+* Meinertsen, Bo R., 2021, “Mellors Question: Are Determinables Properties of Properties or of Particulars?”, *American Philosophical Quarterly*, 58(3): 291–305.
+* Mellor, D. H., 1995, *The Facts of Causation*, London: Routledge.
+* Melnyk, Andrew, 2006, “Realization and the Formulation of Physicalism”, *Philosophical Studies*, 131(1): 127–155. doi:10.1007/s11098-005-5986-y
+* Mill, John S., 1843/1973, *A System of Logic*, Toronto: University of Toronto Press.
+* Morganti, Matteo, 2011, “The Partial Identity Account of Partial Similarity Revisited”, *Philosophia*, 39(3): 527–546. doi:10.1007/s11406-010-9290-5
+* Mulligan, Kevin, 1992, *Language, Truth and Ontology*, Dordrecht: Kluwer.
+* –––, 2006, “Ascent, Propositions and Other Formal Objects”, in *Propositions: Semantic and Ontological Issues* (Grazer Philosophische Studien 72), M. Carrara and E. Sacchi (eds), Amsterdam: Rodopi, pages 29–48.
+* –––, 2014, “Formal Concepts”, in *The History and Philosophy of Polish Logic: Essays in Honour of Jan Woleński*, K. Mulligan, K. Kijania-Placek, and T. Placek (eds), London: Palgrave Macmillan UK, pages 205–23.
+* Paul, Laurie A., 2002, “Logical Parts”, *Noûs*, 36(4): 578–596. doi:10.1111/1468-0068.00402
+* –––, 2012, “Building the World from Its Fundamental Constituents”, *Philosophical Studies*, 158(2): 221–256. doi:10.1007/s11098-012-9885-8
+* Pearl, Judea, 2000, *Causality*, Cambridge: Cambridge University Press.
+* Poli, Roberto, 2004, “W. E. Johnson’s Determinable-Determinate Opposition and His Theory of Abstraction”, in F. Coniglione, R. Poli, and R. Rollinger (eds), *Idealization XI: Historical Studies on Abstraction and Idealization*, Poznań Studies in the Philosophy of the Sciences and the Humanities 82/11, 163–196. doi:10.1163/9789004333215\_009
+* Prior, Arthur N., 1949, “Determinables, Determinates, and Determinants (I,II)”, *Mind*, 58(229): 1–20, 58(230): 178–94. doi:10.1093/mind/LVIII.229.1 and doi:10.1093/mind/LVIII.230.178
+* Robertson Ishii, Teresa and Philip Atkins, “Essential vs. Accidental Properties”, *The Stanford Encyclopedia of Philosophy* (Winter 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2020/entries/essential-accidental/](https://plato.stanford.edu/archives/win2020/entries/essential-accidental/).
+* Rodriguez-Pereyra, Gonzalo, 2002, *Resemblance Nominalism: A Solution to the Problem of Universals*, Oxford: Oxford University Press.
+* –––, 2015, “Grounding is Not a Strict Order”, *Journal of the American Philosophical Association*, 1(3): 517–534.
+* Rosen, Gideon, 2010, “Metaphysical Dependence: Grounding and Reduction”, in *Modality: Metaphysics, Logic, and Epistemology*, B. Hale and A. Hoffmann (eds), Oxford: Oxford University Press, 109–36. doi:10.1093/acprof:oso/9780199565818.003.0007
+* Rosen, Gideon and Nicholas J. J. Smith, 2004, “Worldly Indeterminacy: A Rough Guide”, *Australasian Journal of Philosophy*, 82(1): 185–198. doi:10.1080/713659795
 * Salmieri, Gregory, 2008, “Aristotle and the Problem of Concepts”, Ph.D. Dissertation, Pittsburgh, PA: University of Pittsburgh. \[ [Salmieri 2008 available online](http://d-scholarship.pitt.edu/8125/)]
-* Sanford, David H., 2014, “Determinates vs. Determinables”, _The Stanford Encyclopedia of Philosophy_ (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/determinate-determinables/](https://plato.stanford.edu/archives/win2014/entries/determinate-determinables/).
-* Schaffer, Jonathan, 2004, “Quiddistic Knowledge”, in _Lewisian Themes_, in F. Jackson and G. Priest (eds), Oxford: Oxford University Press, 210–230.
-* –––, 2012, “Grounding, Transitivity, and Contrastivity”, in _Metaphysical Grounding: Understanding the Structure of Reality_, Fabrice Correia and Benjamin Schnieder (eds), Cambridge: Cambridge University Press, 122–138.
-* –––, 2016a, “Ground Rules: Lessons from Wilson”, in _Scientific Composition and Metaphysical Ground_, K. Aizawa and C. Gillett (eds), London: Palgrave-Macmillan, 143–169. doi:10.1057/978-1-137-56216-6\_6
-* –––, 2016b, “Grounding in the Image of Causation”, _Philosophical Studies_, 173(1): 49–100. doi:10.1007/s11098-014-0438-1
-* Schroeren, David, 2021, “Quantum Metaphysical Indeterminacy and the Ontological Foundations of Orthodoxy”, _Studies in History and Philosophy of Science_ (Part A), 90: 235–246.
-* Searle, John, 1959, “Determinables and the Notion of Resemblance”, _The Aristotelian Society, Supplement_, 33(1): 141–58. doi:10.1093/aristoteliansupp/33.1.125
-* Segelberg, Ivar, 1999, _Three Essays in Phenomenology and Ontology_, H. Hochberg and S. Ringstroöm-Hochberg (trans.), Stockholm: Thales.
-* Shoemaker, Sydney, 1980, “Causality and Properties”, in _Time and Cause_, P. van Inwagen (ed), Dordrecht: D. Reidel, 109–135.
-* –––, 2001, “Realization and Mental Causation”, in _Proceedings of the 20th World Congress in Philosophy_, Cambridge: Philosophy Documentation Center, 23–33.
-* –––, 2007, _Physical Realization_, Oxford: Oxford University Press.
-* Skow, Bradford, 2010, “Deep Metaphysical Indeterminacy”, _Philosophical Quarterly_, 60(241): 851–858. doi:10.1111/j.1467-9213.2010.672.x
-* Spinoza, Benedictus, 1677/1885, _The Collected Writings of Spinoza_ (Volume 1: The Ethics), Edwin Curley (trans.), Princeton: Princeton University Press.
-* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993, _Causation, Prediction, and Search_, Cambridge, MA: MIT Press.
-* Stazicker, James, 2018, “The Visual Presence of Determinable Properties”, in F. Dorsch and F. Macpherson (eds.), _Phenomenal Presence_, Oxford: Oxford University Press.
-* Stout, George Frederick, 1930, _Studies in Philosophy and Psychology_, London: MacMillan.
-* Strevens, Michael, 2004, “The Causal and Unification Accounts of Explanation Unified—Causally”, _Noûs_, 38(1): 154–176. doi:10.1111/j.1468-0068.2004.00466.x
-* Sturgeon, Scott (2008). “Reason and the Grain of Belief”, _Noûs_, 42(1), 139–65.
-* Tappolet, Christine, 2004, “Through Thick and Thin: _Good_ and Its Determinates”, _Dialectica_, 58(2): 207–221. doi:10.1111/j.1746-8361.2004.tb00297.x
-* Torza, Alessandro, 2020, “Quantum Metaphysical Indeterminacy and Worldly Incompleteness”, _Synthese_, 197: 4251–4264.
-* Unger, Peter, 1980, “The Problem of the Many”, _Midwest Studies in Philosophy_, 5(1): 411–468. doi:10.1111/j.1475-4975.1980.tb00416.x
-* van der Schaar, Maria Sandra, 1991, _G.F. Stout’s Theory of Judgment and Proposition Proefschrift Ter Verkrijging van de Graad van Doktor_, Ph.D. Dissertation, Leiden University.
-* von Wachter, Daniel, 2000, “A World of Fields”, _Poznan Studies in the Philosophy of the Sciences and the Humanities_, 76: 305–326.
-* Walter, Sven, 2007, “Determinables, Determinates, and Causal Relevance”, _The Canadian Journal of Philosophy_, 37(2): 217–243. doi:10.1353/cjp.2007.0020
-* Wilson, Alastair, 2020, _The Nature of Contingency: Quantum Physics as Modal Realism_, Oxford: Oxford University Press.
-* Wilson, Jessica M., 1999, “How Superduper Does a Physicalist Supervenience Need to Be?” _Philosophical Quarterly_, 49(194): 33–52. doi:10.1111/1467-9213.00127
-* –––, 2005, “Supervenience-Based Formulations of Physicalism”, _Noûs_, 39(3): 426–459. doi:10.1111/j.0029-4624.2005.00508.x
-* –––, 2009, “Determination, Realization, and Mental Causation”, _Philosophical Studies_, 145(1): 149–169. doi:10.1007/s11098-009-9384-8
-* –––, 2010, “What Is Hume’s Dictum, and Why Believe It?” _Philosophy and Phenomenological Research_, 80(3): 595–637. doi:10.1111/j.1933-1592.2010.00342.x
-* –––, 2012, “Fundamental Determinables”, _Philosophers’ Imprint_, 12(4): 1–17. \[[Wilson 2012 available online](http://hdl.handle.net/2027/spo.3521354.0012.004)]
-* –––, 2013, “A Determinable-Based Account of Metaphysical Indeterminacy”, _Inquiry_, 56(4): 359–385. doi:10.1080/0020174X.2013.816251
-* –––, 2014, “No Work for a Theory of Grounding”, _Inquiry_, 57(5–6): 535–579. doi:10.1080/0020174X.2014.907542
-* –––, 2016, “The Unity and Priority Arguments for Grounding”, in _Scientific Composition and Metaphysical Ground_, K. Aizawa and C. Gillett (eds), London: Palgrave-Macmillan, 171–204. doi:10.1057/978-1-137-56216-6\_7
-* –––, 2021, _Metaphysical Emergence_, Oxford: Oxford University Press.
-* Wolff, J. E., 2015, “Spin as a Determinable”, _Topoi_, 34(2): 379–86. doi:10.1007/s11245-015-9319-2
-* –––, 2020, _The Metaphysics of Quantities_, Oxford: Oxford University Press.
-* Worley, Sara, 1997, “Determination and Mental Causation”, _Erkenntnis_, 46(3): 281–304. doi:10.1023/A:1005301816477
-* Yablo, Stephen, 1992, “Mental Causation”, _The Philosophical Review_, 101(2): 245–280. doi:10.2307/2185535
+* Sanford, David H., 2014, “Determinates vs. Determinables”, *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/determinate-determinables/](https://plato.stanford.edu/archives/win2014/entries/determinate-determinables/).
+* Schaffer, Jonathan, 2004, “Quiddistic Knowledge”, in *Lewisian Themes*, in F. Jackson and G. Priest (eds), Oxford: Oxford University Press, 210–230.
+* –––, 2012, “Grounding, Transitivity, and Contrastivity”, in *Metaphysical Grounding: Understanding the Structure of Reality*, Fabrice Correia and Benjamin Schnieder (eds), Cambridge: Cambridge University Press, 122–138.
+* –––, 2016a, “Ground Rules: Lessons from Wilson”, in *Scientific Composition and Metaphysical Ground*, K. Aizawa and C. Gillett (eds), London: Palgrave-Macmillan, 143–169. doi:10.1057/978-1-137-56216-6\_6
+* –––, 2016b, “Grounding in the Image of Causation”, *Philosophical Studies*, 173(1): 49–100. doi:10.1007/s11098-014-0438-1
+* Schroeren, David, 2021, “Quantum Metaphysical Indeterminacy and the Ontological Foundations of Orthodoxy”, *Studies in History and Philosophy of Science* (Part A), 90: 235–246.
+* Searle, John, 1959, “Determinables and the Notion of Resemblance”, *The Aristotelian Society, Supplement*, 33(1): 141–58. doi:10.1093/aristoteliansupp/33.1.125
+* Segelberg, Ivar, 1999, *Three Essays in Phenomenology and Ontology*, H. Hochberg and S. Ringstroöm-Hochberg (trans.), Stockholm: Thales.
+* Shoemaker, Sydney, 1980, “Causality and Properties”, in *Time and Cause*, P. van Inwagen (ed), Dordrecht: D. Reidel, 109–135.
+* –––, 2001, “Realization and Mental Causation”, in *Proceedings of the 20th World Congress in Philosophy*, Cambridge: Philosophy Documentation Center, 23–33.
+* –––, 2007, *Physical Realization*, Oxford: Oxford University Press.
+* Skow, Bradford, 2010, “Deep Metaphysical Indeterminacy”, *Philosophical Quarterly*, 60(241): 851–858. doi:10.1111/j.1467-9213.2010.672.x
+* Spinoza, Benedictus, 1677/1885, *The Collected Writings of Spinoza* (Volume 1: The Ethics), Edwin Curley (trans.), Princeton: Princeton University Press.
+* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993, *Causation, Prediction, and Search*, Cambridge, MA: MIT Press.
+* Stazicker, James, 2018, “The Visual Presence of Determinable Properties”, in F. Dorsch and F. Macpherson (eds.), *Phenomenal Presence*, Oxford: Oxford University Press.
+* Stout, George Frederick, 1930, *Studies in Philosophy and Psychology*, London: MacMillan.
+* Strevens, Michael, 2004, “The Causal and Unification Accounts of Explanation Unified—Causally”, *Noûs*, 38(1): 154–176. doi:10.1111/j.1468-0068.2004.00466.x
+* Sturgeon, Scott (2008). “Reason and the Grain of Belief”, *Noûs*, 42(1), 139–65.
+* Tappolet, Christine, 2004, “Through Thick and Thin: *Good* and Its Determinates”, *Dialectica*, 58(2): 207–221. doi:10.1111/j.1746-8361.2004.tb00297.x
+* Torza, Alessandro, 2020, “Quantum Metaphysical Indeterminacy and Worldly Incompleteness”, *Synthese*, 197: 4251–4264.
+* Unger, Peter, 1980, “The Problem of the Many”, *Midwest Studies in Philosophy*, 5(1): 411–468. doi:10.1111/j.1475-4975.1980.tb00416.x
+* van der Schaar, Maria Sandra, 1991, *G.F. Stout’s Theory of Judgment and Proposition Proefschrift Ter Verkrijging van de Graad van Doktor*, Ph.D. Dissertation, Leiden University.
+* von Wachter, Daniel, 2000, “A World of Fields”, *Poznan Studies in the Philosophy of the Sciences and the Humanities*, 76: 305–326.
+* Walter, Sven, 2007, “Determinables, Determinates, and Causal Relevance”, *The Canadian Journal of Philosophy*, 37(2): 217–243. doi:10.1353/cjp.2007.0020
+* Wilson, Alastair, 2020, *The Nature of Contingency: Quantum Physics as Modal Realism*, Oxford: Oxford University Press.
+* Wilson, Jessica M., 1999, “How Superduper Does a Physicalist Supervenience Need to Be?” *Philosophical Quarterly*, 49(194): 33–52. doi:10.1111/1467-9213.00127
+* –––, 2005, “Supervenience-Based Formulations of Physicalism”, *Noûs*, 39(3): 426–459. doi:10.1111/j.0029-4624.2005.00508.x
+* –––, 2009, “Determination, Realization, and Mental Causation”, *Philosophical Studies*, 145(1): 149–169. doi:10.1007/s11098-009-9384-8
+* –––, 2010, “What Is Hume’s Dictum, and Why Believe It?” *Philosophy and Phenomenological Research*, 80(3): 595–637. doi:10.1111/j.1933-1592.2010.00342.x
+* –––, 2012, “Fundamental Determinables”, *Philosophers’ Imprint*, 12(4): 1–17. \[[Wilson 2012 available online](http://hdl.handle.net/2027/spo.3521354.0012.004)]
+* –––, 2013, “A Determinable-Based Account of Metaphysical Indeterminacy”, *Inquiry*, 56(4): 359–385. doi:10.1080/0020174X.2013.816251
+* –––, 2014, “No Work for a Theory of Grounding”, *Inquiry*, 57(5–6): 535–579. doi:10.1080/0020174X.2014.907542
+* –––, 2016, “The Unity and Priority Arguments for Grounding”, in *Scientific Composition and Metaphysical Ground*, K. Aizawa and C. Gillett (eds), London: Palgrave-Macmillan, 171–204. doi:10.1057/978-1-137-56216-6\_7
+* –––, 2021, *Metaphysical Emergence*, Oxford: Oxford University Press.
+* Wolff, J. E., 2015, “Spin as a Determinable”, *Topoi*, 34(2): 379–86. doi:10.1007/s11245-015-9319-2
+* –––, 2020, *The Metaphysics of Quantities*, Oxford: Oxford University Press.
+* Worley, Sara, 1997, “Determination and Mental Causation”, *Erkenntnis*, 46(3): 281–304. doi:10.1023/A:1005301816477
+* Yablo, Stephen, 1992, “Mental Causation”, *The Philosophical Review*, 101(2): 245–280. doi:10.2307/2185535
 
 ## Academic Tools
 
@@ -752,7 +751,7 @@ F=K(M1M2)/D
 
 ## Other Internet Resources
 
-* Sanford, David H., “Determinates vs. Determinables,” _Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/determinate-determinables/](https://plato.stanford.edu/archives/win2016/entries/determinate-determinables/). \[This was the previous entry on determinates and determinables in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=determinate-determinables).]
+* Sanford, David H., “Determinates vs. Determinables,” *Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/determinate-determinables/](https://plato.stanford.edu/archives/win2016/entries/determinate-determinables/). \[This was the previous entry on determinates and determinables in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=determinate-determinables).]
 
 ## Related Entries
 
@@ -763,4 +762,4 @@ F=K(M1M2)/D
 The author would like to thank Benj Hellie, Steven French, Olivier Massin, two SEP referees, and the SEP editors, for helpful comments on this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Jessica Wilson <[_jessica.m.wilson@utoronto.ca_](mailto:jessica%2em%2ewilson%40utoronto%2eca)>
+Jessica Wilson <[*jessica.m.wilson@utoronto.ca*](mailto:jessica%2em%2ewilson%40utoronto%2eca)>

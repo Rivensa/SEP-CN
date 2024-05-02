@@ -1,10 +1,8 @@
 # 埃德蒙·伯克 Burke, Edmund (Ian Harris)
 
-_首次发表于 2004 年 2 月 23 日星期一；实质性修订于 2020 年 5 月 24 日星期日_
+*首次发表于 2004 年 2 月 23 日星期一；实质性修订于 2020 年 5 月 24 日星期日*
 
 埃德蒙·伯克，《法国革命反思录》的作者，被广泛认为是一位经典的政治思想家：人们较少了解的是，他的知识成就取决于他对哲学的理解以及在实践著作和演讲中对其的运用，而这些是他主要以此而闻名的。本文探讨了他在政治思想中运用哲学的特点和意义。这一思想对知识史和政治行为至关重要。本文是首次尝试审视其哲学特性，并将后者与伯克的政治活动联系起来。通过这样做，它展示了伯克思想中哲学元素的重要性，以及这些元素对他的政治思想产生的重要影响。
-
-
 
 ***
 
@@ -76,7 +74,7 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 从伯克对复合抽象词的描述中可以明显推断出，使用这些词汇是为了触及读者或听众的体验，而说服在讨论政治时是不可避免的核心内容：这适用于实践而非理论的主题。事实上，这些术语暗示讨论政治的重点必须是影响行动，而不仅仅是其他方面。伯克在管理言辞方面有着极高的技巧，这始于在三一学院的辩论，然后在其他场合继续，包括下议院。由于这种语言具有说服力，其目标是在听众或读者的心中建立赞同态度和反对态度。
 
-这并不是伯克政治实践中唯一的哲学方面。在讨论政治时的一个重要概念工具是关系。关系是那些既是经院哲学家又是洛克共同使用的术语之一。它既表示比较又表示联系。比较是一种宝贵的程序，因为它使事件、制度和人物能够从多个角度被看待，从而提高或降低它们的重要性和地位。联系同样宝贵，因为某人或某事所占的位置可以用来支持或批评他们的角色，以及展示合作对立的价值。最重要的是，无论哪种意义上的关系都可以被广泛应用，正如勒克莱尔克在他的《逻辑学》中所指出的那样（伯克在三一学院读过），关系不可胜数——_sunt autem innumerae relationes_（勒克莱尔克 1692 年，第 1 部分，第 4 章，第 1 节，第 19 页）。
+这并不是伯克政治实践中唯一的哲学方面。在讨论政治时的一个重要概念工具是关系。关系是那些既是经院哲学家又是洛克共同使用的术语之一。它既表示比较又表示联系。比较是一种宝贵的程序，因为它使事件、制度和人物能够从多个角度被看待，从而提高或降低它们的重要性和地位。联系同样宝贵，因为某人或某事所占的位置可以用来支持或批评他们的角色，以及展示合作对立的价值。最重要的是，无论哪种意义上的关系都可以被广泛应用，正如勒克莱尔克在他的《逻辑学》中所指出的那样（伯克在三一学院读过），关系不可胜数——*sunt autem innumerae relationes*（勒克莱尔克 1692 年，第 1 部分，第 4 章，第 1 节，第 19 页）。
 
 伯克对哲学史的构想也对他的政治实践至关重要。"每个时代都有其自己的风俗和取决于它们的政治"（TCD，W＆S，1981-2015，ii 258）。伯克在英格兰周围看到的风俗与他在中世纪看到的风俗是连续的，或者向后推断，其中强大的行政政府通过其他机构的平衡来确保公民自由。在伯克所处的时代，最明显的这些机构是在光荣革命（1688-1689 年）确立了议会的主权，在权利法案（1689 年）中暗示了这一点，在定居法案（1701 年）中行使了这一点，并通过镇压从 1708 年到 1746 年试图重新确立君主主权的企图来确认了这一点。伯克理解这种安排中的法律是受议会通过和保障的，因为这是由议会通过和保障的法律。在议会中，通过下议院、上议院和国王的相互依赖来保障。这种主权具有这种公共性质使得英国国家成为受益于非常高度金融信用的对象，这增加了议会的权力。从将领土理解为皇家财产到将国家构想为公共意志的英国历史的漫长而缓慢的发展，在伯克的时代已经达到了一个阶段，即这种意志是通过议会的决定来表达的，这种决定在很大程度上受到君主的影响。因此，伯克的政治活动假定了议会主权。
 
@@ -172,7 +170,7 @@ Locke 的《人类理解论》于 1690 年首次尝试对心灵运作进行全�
 
 #### Burke’s Writings
 
-There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome hitherto. For the present, there is, in nine, large substantive volumes,: _Writings and Speeches of Edmund Burke_, P. Langford (general editor), Oxford:Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
+There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome hitherto. For the present, there is, in nine, large substantive volumes,: *Writings and Speeches of Edmund Burke*, P. Langford (general editor), Oxford:Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
 
 | \[**ATX**] | American Taxation.                                |
 | ---------- | ------------------------------------------------- |
@@ -184,48 +182,48 @@ There is no complete edition of Burke’s works: their quantity, the character o
 | \[**TCD**] | Thoughts on the Cause of the Present Discontents. |
 | \[**TPL**] | Tracts relating to Popery Laws.                   |
 
-* \[Burke, William, and Edmund Burke], 1757, _An Account of the European Settlements_, London (and later editions).
-* Somerset, H.V.F, ed., 1957, _A Notebook of Edmund Burke_, Cambridge, Cambridge University Press.
+* \[Burke, William, and Edmund Burke], 1757, *An Account of the European Settlements*, London (and later editions).
+* Somerset, H.V.F, ed., 1957, *A Notebook of Edmund Burke*, Cambridge, Cambridge University Press.
 
 #### Burke’s Correspondence
 
-* Copeland, T.W., 1958–78, (general ed.), _The Correspondence of Edmund Burke_, Cambridge and Chicago, Cambridge University Press and University of Chicago Press, (ten volumes). Cited as Corr.
-* Kelly, J., 2014, ‘A missing letter by Edmund Burke’, _Eighteenth-Century Ireland_, 29: 142–8.
-* Lock, F.P., 1997, 1999, 2003 ‘Unpublished Burke Letters’, _English Historical Review_, 112: 119–141; 114: 636–657; 118: 940–982.
-* Lonsdale, R., 1982, ‘An Uncollected Letter of Edmund Burke’, _Notes and Queries_, 29(3): 202.
-* Walsh, P., 2009 ‘A new Burke letter from 1778’, _Eighteenth-Century Ireland_, 24: 159–63.
+* Copeland, T.W., 1958–78, (general ed.), *The Correspondence of Edmund Burke*, Cambridge and Chicago, Cambridge University Press and University of Chicago Press, (ten volumes). Cited as Corr.
+* Kelly, J., 2014, ‘A missing letter by Edmund Burke’, *Eighteenth-Century Ireland*, 29: 142–8.
+* Lock, F.P., 1997, 1999, 2003 ‘Unpublished Burke Letters’, *English Historical Review*, 112: 119–141; 114: 636–657; 118: 940–982.
+* Lonsdale, R., 1982, ‘An Uncollected Letter of Edmund Burke’, *Notes and Queries*, 29(3): 202.
+* Walsh, P., 2009 ‘A new Burke letter from 1778’, *Eighteenth-Century Ireland*, 24: 159–63.
 
 There is further unprinted correspondence in various repositories. The primary collections of Burke manuscripts are at Sheffield City Archives and Northamptonshire Record Office, both in the United Kingdom, but there is further material by Burke in a wider range of places; the material in manuscript bearing on him is extremely bulky, diverse and scattered.
 
 ### Secondary Literature
 
-There is relatively little recent literature primarily on Burke’s philosophical writings, however ‘philosophical’ is defined, though there is much that makes reference to or use of them: thus a bibliography of writings about his views on beauty, gender, and political organization, as well as his literary temper and practical activities would be disproportionately long. The reader is therefore invited to range freely. The secondary literature as a whole is listed up to about 1980 in Clara I. Gandy and Peter J. Stanlis, 1983, _Edmund Burke: A Bibliography of Secondary Studies to 1982_, New York, Garland. There are annual listings in the _Modern Humanities Research Association_’s volumes.
+There is relatively little recent literature primarily on Burke’s philosophical writings, however ‘philosophical’ is defined, though there is much that makes reference to or use of them: thus a bibliography of writings about his views on beauty, gender, and political organization, as well as his literary temper and practical activities would be disproportionately long. The reader is therefore invited to range freely. The secondary literature as a whole is listed up to about 1980 in Clara I. Gandy and Peter J. Stanlis, 1983, *Edmund Burke: A Bibliography of Secondary Studies to 1982*, New York, Garland. There are annual listings in the *Modern Humanities Research Association*’s volumes.
 
 For matters discussed here, the reader is referred to:
 
-* Burke, Edmund, 1958, _Philosophical Enquiry_, ed. J.T. Boulton, London, Routledge (later edition, Oxford, Blackwell, 1987)
-* Canavan, F., 1957, ‘Edmund Burke’s College Study of Philosophy’, _Notes and Queries_ (New Series), 4: 538–543.
-* Sewell Jr, R.B., 1938, ‘Rousseau’s Second Discourse in England from 1755 to 1762’, _Philological Quarterly_, 17: 97–114.
-* Wecter, D., 1940, ‘Burke’s Theory of Words, Images and Emotions’, _Publications of the Modern Language Association_, 55: 167–181.
+* Burke, Edmund, 1958, *Philosophical Enquiry*, ed. J.T. Boulton, London, Routledge (later edition, Oxford, Blackwell, 1987)
+* Canavan, F., 1957, ‘Edmund Burke’s College Study of Philosophy’, *Notes and Queries* (New Series), 4: 538–543.
+* Sewell Jr, R.B., 1938, ‘Rousseau’s Second Discourse in England from 1755 to 1762’, *Philological Quarterly*, 17: 97–114.
+* Wecter, D., 1940, ‘Burke’s Theory of Words, Images and Emotions’, *Publications of the Modern Language Association*, 55: 167–181.
 
 ### Other works cited
 
-* Berkeley, G., _Principles of Human Knowledge_, _The Querist_, and _Discourse Addressed to Magistrates_, in _The Works of George Berkeley_, A.A. Luce and T.E Jessop (eds.), , 9 volumes, London: Nelson, 1948–57.
-* Broad, C.D., 1952, _Ethics and the History of Philosophy_, London: Routledge.
-* Butler, M., 1984, _Burke, Paine, Godwin and the Revolution Controversy_, Cambridge: Cambridge University Press.
-* Coleridge, S.T., _Biographica Literaria_, James Engell and W. Jackson Bate (eds.), Princeton: Princeton University Press, 1983.
-* Freeman, M., 1992, ‘Edmund Burke’, in Volume 1 (109–11) of Laurence C. Becker and Charlotte B. Becker (eds.), _Encyclopaedia of Ethics_, 2 volumes, Garland: New York.
-* Gore-Brown, R., 1953, _Chancellor Thurlow_, London: Routledge.
-* Goldsmith, Oliver, 1774, _Retaliation: a poem_, London: G. Kearsly. [\[Goldsmith 1774 available online\].](http://www.bartleby.com/41/309.html)
-* Historical Manuscripts Commission, 1905, _Report on the Manuscripts of the Marquess of Lothian_, London: Stationery Office.
-* Hull, C.H., and H.W.V. Temperley (eds.), 1911–12, ‘Debates on the Declaratory Act and the Repeal of the Stamp Act’, _American Historical Review_, 17: 563–586.
-* Le Clerc, J., 1692, _Logica: sive ars ratiocinandi_, London: Awnsham & John Churchill.
-* Mill, J.S., 1859, _On Liberty_, London: Longman.
-* Norman, J., 2013, _Edmund Burke. The First Conservative_ , New York: Basic Books.
-* Robinson, Nicholas K., 1996, _Edmund Burke: a life in caricature_, New Haven: Yale University Press.
-* Sidgwick, H., 1877, ‘Bentham and Benthamism in Politics and Ethics’, in _Essays on Ethics and Method_, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000.
-* Spurgeon, C.F.E., 1922, _Mysticism in English Literature (edn.2)_ , Cambridge: Cambridge University Press.
-* Williamson, P., 1999, _Stanley Baldwin_, Cambridge: Cambridge University Press.
+* Berkeley, G., *Principles of Human Knowledge*, *The Querist*, and *Discourse Addressed to Magistrates*, in *The Works of George Berkeley*, A.A. Luce and T.E Jessop (eds.), , 9 volumes, London: Nelson, 1948–57.
+* Broad, C.D., 1952, *Ethics and the History of Philosophy*, London: Routledge.
+* Butler, M., 1984, *Burke, Paine, Godwin and the Revolution Controversy*, Cambridge: Cambridge University Press.
+* Coleridge, S.T., *Biographica Literaria*, James Engell and W. Jackson Bate (eds.), Princeton: Princeton University Press, 1983.
+* Freeman, M., 1992, ‘Edmund Burke’, in Volume 1 (109–11) of Laurence C. Becker and Charlotte B. Becker (eds.), *Encyclopaedia of Ethics*, 2 volumes, Garland: New York.
+* Gore-Brown, R., 1953, *Chancellor Thurlow*, London: Routledge.
+* Goldsmith, Oliver, 1774, *Retaliation: a poem*, London: G. Kearsly. [\[Goldsmith 1774 available online\].](http://www.bartleby.com/41/309.html)
+* Historical Manuscripts Commission, 1905, *Report on the Manuscripts of the Marquess of Lothian*, London: Stationery Office.
+* Hull, C.H., and H.W.V. Temperley (eds.), 1911–12, ‘Debates on the Declaratory Act and the Repeal of the Stamp Act’, *American Historical Review*, 17: 563–586.
+* Le Clerc, J., 1692, *Logica: sive ars ratiocinandi*, London: Awnsham & John Churchill.
+* Mill, J.S., 1859, *On Liberty*, London: Longman.
+* Norman, J., 2013, *Edmund Burke. The First Conservative* , New York: Basic Books.
+* Robinson, Nicholas K., 1996, *Edmund Burke: a life in caricature*, New Haven: Yale University Press.
+* Sidgwick, H., 1877, ‘Bentham and Benthamism in Politics and Ethics’, in *Essays on Ethics and Method*, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000.
+* Spurgeon, C.F.E., 1922, *Mysticism in English Literature (edn.2)* , Cambridge: Cambridge University Press.
+* Williamson, P., 1999, *Stanley Baldwin*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -245,4 +243,4 @@ For matters discussed here, the reader is referred to:
 [Berkeley, George](https://plato.stanford.edu/entries/berkeley/) | [conservatism](https://plato.stanford.edu/entries/conservatism/) | [ethics: natural law tradition](https://plato.stanford.edu/entries/natural-law-ethics/) | ideas | [Locke, John](https://plato.stanford.edu/entries/locke/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Ian Harris <[_ich1@leicester.ac.uk_](mailto:ich1%40leicester%2eac%2euk)>
+Ian Harris <[*ich1@leicester.ac.uk*](mailto:ich1%40leicester%2eac%2euk)>

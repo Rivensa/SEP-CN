@@ -1,14 +1,12 @@
 # 计算语言学 computational (Lenhart Schubert)
 
-_首次发表于2014年2月6日星期四；实质性修订于2014年2月26日星期三。_
+*首次发表于2014年2月6日星期四；实质性修订于2014年2月26日星期三。*
 
 > “人类的知识是用语言表达的。因此，计算语言学非常重要。” –马克·斯蒂德曼（Mark Steedman），ACL 主席演讲（2007 年）
 
 计算语言学是一门科学和工程学科，关注从计算的角度理解书面和口头语言，并构建能够有用地处理和生成语言的工具，无论是批量处理还是对话设置。在语言是思维的镜子的程度上，对语言的计算理解也能提供对思考和智能的洞察。而且，由于语言是我们最自然、最多才多艺的交流方式，具备语言能力的计算机将极大地促进我们与各种机器和软件的互动，并以真正满足我们需求的方式，将互联网上的大量文本和其他资源放在我们的指尖之间。
 
 下文概述了计算语言学的目标和方法（从历史的角度），然后详细介绍了语言结构和分析的基本概念（第 2 节），解释（第 3-5 节）和语言使用（第 6-7 节），以及语言知识的获取（第 8 节），自然语言处理中的统计和机器学习技术（第 9 节）和其他应用（第 10 节）。
-
- 
 
 ***
 
@@ -62,11 +60,11 @@ _首次发表于2014年2月6日星期四；实质性修订于2014年2月26日星
 
 一个典型（稍微简化的）上下文无关文法的样本片段如下，其中短语类型用特征-值对进行注释：
 
-| S\[vform:_v_]                  | → | NP\[pers:_p_numb:_n_case:subj] VP\[vform:_v_pers:_p_numb:_n_] |
+| S\[vform:*v*]                  | → | NP\[pers:_p_numb:_n_case:subj] VP\[vform:_v_pers:_p_numb:*n*] |
 | ------------------------------ | - | ------------------------------------------------------------- |
-| VP\[vform:_v_pers:_p_numb:_n_] | → | V\[subcat:\_np vform:_v_pers:_p_numb:_n_] NP\[case:obj]       |
-| NP\[pers:3 numb:_n_]           | → | Det\[pers:3 numb:_n_] N\[numb:_n_]                            |
-| NP\[numb:_n_pers:3 case:_c_]   | → | Name\[numb:_n_pers:3 case:_c_]                                |
+| VP\[vform:_v_pers:_p_numb:*n*] | → | V\[subcat:\_np vform:_v_pers:_p_numb:*n*] NP\[case:obj]       |
+| NP\[pers:3 numb:*n*]           | → | Det\[pers:3 numb:*n*] N\[numb:*n*]                            |
+| NP\[numb:_n_pers:3 case:*c*]   | → | Name\[numb:_n_pers:3 case:*c*]                                |
 
 这里的 v、n、p、c 是可以取值为“过去”、“现在”、“基本”、“过去分词”等（即各种动词形式）、“1”、“2”、“3”（第一、第二、第三人称）、“单数”、“复数”以及“主语”、“宾语”等的变量。subcat 特征指示了动词的补语要求。词典将提供如下条目：
 
@@ -176,21 +174,21 @@ _首次发表于2014年2月6日星期四；实质性修订于2014年2月26日星
 
 第三，VP′-规则中，变量 x 和 y 被假定为 e 类型（它们取基本个体作为值），并且及物动词的指称应被视为一个函数，该函数首先应用于宾语，然后应用于主语（产生一个从世界到真值的函数-一个句子意义）。VP′-规则中的λ抽象可以理解为确保宾语 NP（像任何 NP 一样，它表示一个二阶属性）正确应用于一个普通属性（即成为某个 x 的爱对象的属性），并且结果是相对于（仍然开放的）主语位置的谓词。以下是一个解释性的样本词汇：
 
-| V      | → | _**loves**_;  | V′    | = | loves                               |
+| V      | → | ***loves***;  | V′    | = | loves                               |
 | ------ | - | ------------- | ----- | - | ----------------------------------- |
-| Det    | → | _**a**_;      | Det′  | = | λ_P_λ_Q_(∃_x_\[_P_(_x_) ∧_Q_(_x_)]) |
+| Det    | → | ***a***;      | Det′  | = | λ_P_λ_Q_(∃*x*\[*P*(*x*) ∧*Q*(*x*)]) |
 | （作为比较： |   |               |       |   |                                     |
-| Det    | → | _**every**_;  | Det′  | = | λ_P_λ_Q_(∀_x_\[_P_(_x_) ⊃_Q_(_x_)]) |
-| N      | → | _**mortal**_; | N′    | = | mortal                              |
-| Name   | → | _**Thetis**_; | Name′ | = | λ_P_(_P_(Thetis))                   |
+| Det    | → | ***every***;  | Det′  | = | λ_P_λ_Q_(∀*x*\[*P*(*x*) ⊃*Q*(*x*)]) |
+| N      | → | ***mortal***; | N′    | = | mortal                              |
+| Name   | → | ***Thetis***; | Name′ | = | λ_P_(*P*(Thetis))                   |
 
 注意将不定冠词（第 2 行）解释为广义量词——实际上是对两个普通属性的二阶谓词，其中这些属性具有交叉的真值域。我们可以使用原子符号表示这个二阶谓词，但上述扩展方式显示了广义量词与普通存在量词的关系。虽然这是一个相当自明的问题，但在第 4.1 节中，我们将说明句子“Thetis 爱一个凡人”经过一些λ转换后产生以下表示：
 
-> (∃_x_ \[mortal(_x_) ∧ loves(_x_)(Thetis)]).
+> (∃*x* \[mortal(*x*) ∧ loves(*x*)(Thetis)]).
 
 (英语句子还具有一种泛指或习惯性的解读，“Thetis 爱一般的凡人”，但我们在这里忽略了这种解读。）这种解释看起来相当经典，但这仅仅是因为我们在上述规则的词汇语义中将广义量词约简为普通量词，而不是使用原子符号。蒙塔古特别关注如“John 寻找一只独角兽”之类的内涵表达。这并不要求存在一只独角兽才能使其成立——John 与独角兽属性有一定的关系，而不是与一只现有的独角兽有关。因此，蒙塔古将所有谓词参数都视为内涵；即，他将“John 寻找一只独角兽”翻译为
 
-> seeks(λ_Q_ ∃_x_\[unicorn(∧_x_) ∧ _Q_(∧_x_)]) (∧john),
+> seeks(λ_Q_ ∃*x*\[unicorn(∧*x*) ∧ *Q*(∧*x*)]) (∧john),
 
 可以简化为将独角兽扩展化为独角兽\*的版本：
 
@@ -218,7 +216,7 @@ _首次发表于2014年2月6日星期四；实质性修订于2014年2月26日星
 
 但也可以采取更传统的方法，首先避免在谓词的语义中使用“柯里化”（Schönfinkel-Church-Curry）函数，而是使用关系解释，使用词汇语义公式，如 loves′ = λyλx(loves(x, y))，其次，未作用域的 NP 解释被视为未作用域的限定量词（Schubert＆Pelletier 1982）。因此，上述未作用域的 LF 将是 knows(⟨∃poem⟩, ⟨∀person⟩)，量词的作用域以及它们的限制器的作用现在涉及“提升”量词以使其作用于句式公式，并同时引入变量。对应于两种替代作用域的两个结果是
 
-> (∃_y_: poem(_y_))(∀_x_: person(_x_))knows(_x_, _y_),
+> (∃*y*: poem(*y*))(∀*x*: person(*x*))knows(*x*, *y*),
 
 和
 
@@ -228,7 +226,7 @@ _首次发表于2014年2月6日星期四；实质性修订于2014年2月26日星
 
 逻辑语义学中的一个重要创新是话语表示理论（DRT）（Kamp 1981; Heim 1982），旨在系统地解释指代。部分目标是为指代代词的名词短语（NP）的（不）可及性提供语义解释，例如在对比的例子中，“John doesn't drive a car; \*he owns it”和“John drives a car; he owns it”。更重要的是，目标是解释涉及驴子指代的句子的令人困惑的语义，例如“如果 John 拥有一头驴，他就会打它。”不仅 NP 作为 if 从句的宾语，作为指代 it 的指称是可及的，与传统的句法约束理论（基于 C-命令的概念）相反，而且我们似乎还获得了一种解释类型“John 打败了他拥有的每一头驴”，这种类型无法通过“提升”嵌入的不定冠词 a donkey 以使其在整个句子上获得作用域来获得。还有一种较弱的解读类型，“如果 John 拥有一头驴，他就会打一头他拥有的驴”，这种解读也无法通过任何作用域分析获得。Kamp 和 Heim 提出了一种动态的句子解释过程，其中逐步建立了一个话语表示结构（DRS）。DRS 由一组话语指称（变量）和一组条件组成，其中这些条件可以是简单的断言或关于话语指称的方程，或者是 DRS 的逻辑组合（而不是条件的组合）。对于所考虑的句子的 DRS 可以线性地写为
 
-> \[: \[_x_, _y_: john(_x_), donkey(_y_)] **⇒** \[_u_, _v_: he(_u_), it(_v_), beats(_u_, _v_), _u_=_x_, _v_=_y_]]
+> \[: \[*x*, *y*: john(*x*), donkey(*y*)] **⇒** \[*u*, *v*: he(*u*), it(*v*), beats(*u*, *v*), *u*=*x*, *v*=*y*]]
 
 或者以图示形式表示为
 
@@ -384,7 +382,7 @@ Barwise 和 Perry（1983）在他们的情境语义中重新构思了这个想�
 
 一些计算语言学家和人工智能研究人员希望在避免标准一阶逻辑之外的表达设备方面更进一步。在 FOL 中处理内涵性的一种策略是将所有谓词功能化，只保留一个或两个。例如，我们可以将像罗密欧爱朱丽叶这样的谓词作为在特定时间“持有”的函数值来处理：Holds(loves(Romeo, Juliet), t)。在这里，爱被视为产生具体化属性的函数，而 Holds（或在某些提案中为 True），以及可能的相等性，是表示语言中唯一的谓词。然后，我们可以不借助内涵语义来形式化（3.14），例如
 
-> _**Holds**_(_believes_(_John, infinite_(_Universe_)), _t_)
+> ***Holds***(*believes*(*John, infinite*(*Universe*)), *t*)
 
 （其中 t 是某个特定的时间）。在（3.18）中，人类或许可以被表示为随时间变化的所有人的集合：
 
@@ -404,7 +402,7 @@ Barwise 和 Perry（1983）在他们的情境语义中重新构思了这个想�
 
 概念标准化涉及更根本的变化：我们用较小的词汇库中的规范术语替换表面谓词（以及可能是表示性词汇的其他元素），并/或使用主题角色或框架槽进行分解。例如，在地理领域，我们可以用一个单一的规范关系（例如，borders-on）替换（国家之间的）is next to、is adjacent to、borders on、is a neighbor of、shares a border with 等关系。在物理、交流和心理事件领域，我们可能进一步将谓词分解为原始谓词的配置。例如，我们可以用 Schank 的方式来表达“x walks”。
 
-> ∃_e, e_′(ptrans(_e, x, x_) ∧ move(_e′, x, feet-of_(_x_)) ∧ by-means-of(_e′, e_)),
+> ∃*e, e*′(ptrans(*e, x, x*) ∧ move(*e′, x, feet-of*(*x*)) ∧ by-means-of(*e′, e*)),
 
 其中 ptrans(e, x, y)是一个原始谓词，表示事件 e 是由代理人 x 对物体 y 进行的物理运输，move 表示代理人的身体运动，by-means-of 表示移动事件和物理运输事件之间的工具行动关系。正如前面讨论的那样，这些多参数谓词可以进一步分解，将 ptrans(e, x, y)重写为 ptrans(e)∧agent(e, x)∧theme(e, y)，等等。与逻辑规范化一样，概念规范化旨在简化推理，并最大程度地减少推理所依赖的公理的需求。
 
@@ -420,7 +418,7 @@ Barwise 和 Perry（1983）在他们的情境语义中重新构思了这个想�
 
 在代表性主义范式内工作的一些认知动机研究人员特别关注认知架构，包括概念之间的联想链接，记忆类型和表示类型之间的区别（例如，情景记忆与语义记忆，短期记忆与长期记忆，陈述性知识与程序性知识），以及此类架构的可观察处理后果，例如意义消歧，相似性判断和在处理延迟中反映的认知负荷。其他人更关注揭示似乎潜在于语言和思维之下的实际内部概念词汇和推理规则。M. Ross Quillian 的语义记忆模型以及 Rumelhart，Norman 和 Lindsay（Rumelhart 等人，1972 年; Norman 等人，1975 年）以及 Anderson 和 Bower（1973 年）开发的模型代表了前一种观点，而 Schank 及其合作者（Schank 和 Colby，1973 年; Schank 和 Abelson，1977 年; Schank 和 Riesbeck，1981 年; Dyer，1983 年）代表了后一种观点。在关于语义表示的认知动机理论中的一个共同线索是使用图形语义记忆模型，旨在捕捉概念之间的直接关系以及更间接的关联，如图 3 所示：
 
-> !\[[two trees, all parents connect](https://plato.stanford.edu/entries/computational-linguistics/fig3.png) __ 图 3__
+> !\[[two trees, all parents connect](https://plato.stanford.edu/entries/computational-linguistics/fig3.png) __图 3__
 
 这个特定的例子是基于Quillian（1968）的松散基础上的。Quillian提出，语义记忆的一个功能是通过扩散激活来实现词义消歧。例如，处理句子“他给植物浇水”会激活水和植物这两个词，这种激活会传播到与这些词直接关联的概念，并进一步传播到这些概念的邻居，以此类推。最初激活的词的首选意义将是导致来自不同词的激活信号早期“交叉”的意义。特别是，从植物的第一个意义（生物植物的意义）传播的激活信号将在四个步骤内到达与水这个概念对应的物质，沿着表示植物可能从水中获取食物的路径，而从作为动词使用的水这个词到达同样的概念只需要两个步骤，其语义表示将表达给某个目标对象供水的想法。虽然将植物理解为制造设备的意义最终可能也会导致对水概念的激活，但相应的激活路径会更长，因此植物作为生物的意义将“胜出”。
 
@@ -964,254 +962,254 @@ NL 用户界面的主题涵盖了各种各样的 NL 应用，从最小程度依�
 
 ## Bibliography
 
-* Aist, G. & J. Mostow, 2009, “Predictable and educational spoken dialogues: Pilot results,” in _Proceedings of the 2009 ISCA Workshop on Speech and Language Technology in Education_ (SLaTE 2009). Birmingham, UK: University of Birmingham. \[[Aist & Mostow 2009 available online (pdf)](http://www.eee.bham.ac.uk/SLaTE2009/papers/SLaTE2009-39-v2.pdf)]
-* Allen, J.F., 1995, _Natural Language Understanding_, Redwood City: Benjamin/Cummings.
-* Allen J., W. de Beaumont, L. Galescu, J. Orfan, M. Swift, and C.M. Teng, 2013, “Automatically deriving event ontologies for a commonsense knowledge base,” in _Proceedings of the 10th International Conference on Computational Semantics (IWCS 2013)_, University of Potsdam, Germany, March 19–22. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Allen et al. 2013 available online (pdf)](http://aclweb.org/anthology/W/W13/W13-0103.pdf)]
-* Allen, J., G. Ferguson, N. Blaylock, D. Byron, N. Chambers, M. Dzikovska, L. Galescu, and M. Swift, 2006, “Chester: Towards a personal medical advisor,” _Biomedical Informatics_, 39(5): 500–513.
-* Allen, J.F. and C.R. Perreault, 1980, “A plan-based analysis of indirect speech acts,” _Computational Linguistics_, 6(3–4): 167–182.
-* Ambite, J.-L., V.K. Chaudhri, R. Fikes, J. Jenkins, S. Mishra, M. Muslea, T. Uribe, and G. Yang, 2006, “Design and implementation of the CALO query manager,” _21st National Conference on Artificial Intelligence_ (AAAI-06), July 16–20, Boston, MA; Menlo Park, CA: AAAI Press, 1751–1758.
-* Andersen, P.M., P.J. Hayes, A.K. Huettner, L.M. Schmandt, I.B. Nirenburg, and S.P. Weinstein, 1992, “Automatic extraction of facts from press releases to generate news stories,” in _Proceedings of the 3rd Conference on Applied Natural Language Processing (ANLC '92)_, Trento, Italy, March 31–April 3. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 170–177. \[[Andersen et al. 1992 available online (pdf)](http://aclweb.org/anthology/A92-1024.pdf)]
-* Anderson, J., 1983, _The Architecture of Cognition_, Mahwah, NJ: Lawrence Erlbaum.
-* –––, 1993, _Rules of the Mind_, Hillsdale, NJ: Lawrence Erlbaum.
-* Anderson, J. & G. Bower, 1973, _Human Associative Memory_, Washington, DC: Winston.
-* Androutsopoulos, I. and G. Ritchie, 2000, “Database Interfaces,” R. Dale, H. Somers, and H. Moisl (eds.), _Handbook of Natural Language Processing_, Chapter 9, Boca Raton, FL: CRC Press.
-* Asher, N. and A. Lascarides, 2003, _Logics of Conversation (Studies in Natural Language Processing)_, New York: Cambridge University Press.
-* Auer, S., C. Bizer, G. Kobilarov, J. Lehmann, R. Cyganiak, and Zachary Ives, 2007, “DBpedia: a nucleus for a web of open data,” in _Proceedings of the 6th International Semantic Web Conference_ (ISWC 2007), Nov. 11–15, Busan, Korea. \[[Auer et al. 2007 available online (pdf)](https://www.cis.upenn.edu/\~zives/research/dbpedia.pdf)
-* Austin, J.L., 1962, _How to Do Things with Words: The William James Lectures Delivered at Harvard University in 1955_, J.O. Urmson (ed.), Oxford: Clarendon Press.
+* Aist, G. & J. Mostow, 2009, “Predictable and educational spoken dialogues: Pilot results,” in *Proceedings of the 2009 ISCA Workshop on Speech and Language Technology in Education* (SLaTE 2009). Birmingham, UK: University of Birmingham. \[[Aist & Mostow 2009 available online (pdf)](http://www.eee.bham.ac.uk/SLaTE2009/papers/SLaTE2009-39-v2.pdf)]
+* Allen, J.F., 1995, *Natural Language Understanding*, Redwood City: Benjamin/Cummings.
+* Allen J., W. de Beaumont, L. Galescu, J. Orfan, M. Swift, and C.M. Teng, 2013, “Automatically deriving event ontologies for a commonsense knowledge base,” in *Proceedings of the 10th International Conference on Computational Semantics (IWCS 2013)*, University of Potsdam, Germany, March 19–22. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Allen et al. 2013 available online (pdf)](http://aclweb.org/anthology/W/W13/W13-0103.pdf)]
+* Allen, J., G. Ferguson, N. Blaylock, D. Byron, N. Chambers, M. Dzikovska, L. Galescu, and M. Swift, 2006, “Chester: Towards a personal medical advisor,” *Biomedical Informatics*, 39(5): 500–513.
+* Allen, J.F. and C.R. Perreault, 1980, “A plan-based analysis of indirect speech acts,” *Computational Linguistics*, 6(3–4): 167–182.
+* Ambite, J.-L., V.K. Chaudhri, R. Fikes, J. Jenkins, S. Mishra, M. Muslea, T. Uribe, and G. Yang, 2006, “Design and implementation of the CALO query manager,” *21st National Conference on Artificial Intelligence* (AAAI-06), July 16–20, Boston, MA; Menlo Park, CA: AAAI Press, 1751–1758.
+* Andersen, P.M., P.J. Hayes, A.K. Huettner, L.M. Schmandt, I.B. Nirenburg, and S.P. Weinstein, 1992, “Automatic extraction of facts from press releases to generate news stories,” in *Proceedings of the 3rd Conference on Applied Natural Language Processing (ANLC '92)*, Trento, Italy, March 31–April 3. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 170–177. \[[Andersen et al. 1992 available online (pdf)](http://aclweb.org/anthology/A92-1024.pdf)]
+* Anderson, J., 1983, *The Architecture of Cognition*, Mahwah, NJ: Lawrence Erlbaum.
+* –––, 1993, *Rules of the Mind*, Hillsdale, NJ: Lawrence Erlbaum.
+* Anderson, J. & G. Bower, 1973, *Human Associative Memory*, Washington, DC: Winston.
+* Androutsopoulos, I. and G. Ritchie, 2000, “Database Interfaces,” R. Dale, H. Somers, and H. Moisl (eds.), *Handbook of Natural Language Processing*, Chapter 9, Boca Raton, FL: CRC Press.
+* Asher, N. and A. Lascarides, 2003, *Logics of Conversation (Studies in Natural Language Processing)*, New York: Cambridge University Press.
+* Auer, S., C. Bizer, G. Kobilarov, J. Lehmann, R. Cyganiak, and Zachary Ives, 2007, “DBpedia: a nucleus for a web of open data,” in *Proceedings of the 6th International Semantic Web Conference* (ISWC 2007), Nov. 11–15, Busan, Korea. \[[Auer et al. 2007 available online (pdf)](https://www.cis.upenn.edu/\~zives/research/dbpedia.pdf)
+* Austin, J.L., 1962, *How to Do Things with Words: The William James Lectures Delivered at Harvard University in 1955*, J.O. Urmson (ed.), Oxford: Clarendon Press.
 * Ayuso, D., M. Bates, R. Bobrow, M. Meteer, L. Ramshaw, V. Shaked, and R. Weischedel, 1990, “Research and development in natural language understanding as part of the strategic computing program,” BBN Report No. 7191, BBN Systems and Technologies, Cambridge, MA.
-* Baars, B.J., 1997, _In the Theater of Consciousness: The Workspace of the Mind_, New York: Oxford University Press.
-* Bach, E., 1976, “An extension of classical transformational grammar,” in _Proceedings of the 1976 Conference on Linguistic Metatheory_, Michigan State University, 183–224. \[[Bach 1976 available online](https://web.archive.org/web/20140721180952/http://people.umass.edu/\~ebach/papers/extcl.htm)]
-* Bach, E., R. Oehrle, and D. Wheeler (eds.), 1987, _Categorial Grammars and Natural Language Structures_, Dortrecht: D. Reidel.
-* Baker, S., 2011, _Final Jeopardy_, Boston: Houghton Mifflin Harcourt.
-* Banarescu, L., C. Bonial, S. Cai, M. Georgescu, K. Griffitt, U. Hermjakob, K. Knight, K. Koehn, M. Palmer, and N. Schneider, 2013, “Abstract Meaning Representation for Sembanking”, in _Proceedings of the 7th Linguistic Annotation Workshop & Interoperability with Discourse_, Sofia, Bulgaria, Aug. 8–9. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Banarescu et al. 2013 available online (pdf)](http://aclweb.org/anthology/W/W13/W13-2322.pdf)]
-* Banko, M., M.J. Cafarella, S. Soderland, M. Broadhead, and O. Etzioni, 2007. “Open information extraction from the Web,” in _Proceedings of the International Joint Conference on Artificial Intelligence_ (IJCAI-07), Hyderabad, India, January 6–12. \[[Banko et al. 2007 available online (pdf)](http://web.eecs.umich.edu/\~michjc/papers/banko\ijcai07.pdf)]
-* Bar-Hillel, Y., 1960, “The present status of automatic translation of languages,” _Advances in Computers_, 1: 91–163.
-* Barker, C., 2004, “Continuations in natural language”, in Hayo Thielecke (ed.), _Proceedings of the 4th ACM SIGPLAN Continuations Workshop_ (CW'04), Venice, Italy, Jan. 17. Birmingham, UK: University of Birmingham. \[[Barker 2004 available online](http://www.cs.bham.ac.uk/\~hxt/cw04/cw04-program.html)]
-* Barker, K., B. Porter, and P. Clark, 2001, “A library of generic concepts for composing knowledge bases,” in _Proceedings of the 1st International Conference on Knowledge Capture_, Victoria, B.C., Canada, October 21–23. New York, NY: ACM, pp. 14–21. \[[Barker, Porter, and Clark 2001 preprint available online](http://www.cs.utexas.edu/users/mfkb/papers/kcap01.pdf)]
-* Barnden, J.A., 2001, “Uncertainty and conflict handling in the ATT-Meta context-based system for metaphorical reasoning,” in _Proceedings of the 3rd International Conference on Modeling and Using Context_, V. Akman, P. Bouquet, R. Thomason, and R.A. Young (eds.), Lecture Notes in Artificial Intelligence, Vol. 2116, Berlin: Springer, pp. 15–29.
-* –––, 2006, “Artificial intelligence, figurative language, and cognitive linguistics,” in G. Kristiansen _et al._ (eds.), _Cognitive Linguistics: Current Applications and Future Perspectives_, Berlin: Mouton de Gruyter, 431–459.
-* Barwise, J. and R. Cooper, 1981, “Generalized quantifiers and natural language,” _Linguistics and Philosophy_, 4(2): 159–219.
-* Barwise, J., and J. Perry, 1983, _Situations and Attitudes_, Chicago: University of Chicago Press.
-* Bengio, Y., 2008, “Neural net language models,” _Scholarpedia_, 3(1): 3881. \[[Bengio 2008 available online](http://www.scholarpedia.org/article/Neural\net\language\models)]
-* Bickmore, T., D. Schulman, and C. Sidner, 2011, “Modeling the intentional structure of health behavior change dialogue,” _Journal of Biomedical Informatics_, 44: 183–197.
-* Bishop, C.M., 2006, _Pattern Recognition and Machine Learning_, New York: Springer.
-* Blutner, R., 2004, “Nonmonotonic inferences and neural networks”, _Synthese_, 141(2): 143–174.
-* Bobrow, D.G., 1968, “Natural language input for a computer problem-solving system,” in M. Minsky (ed.), _Semantic Information Processing_, Cambridge, MA: MIT Press, 146–226.
-* Boser, B.E., I.M. Guyon, and V.N. Vapnik, 1992, “A training algorithm for optimal margin classifiers,” in D. Haussler (ed.), _5th Annual ACM Workshop on COLT_, Pittsburgh, PA: ACM Press, 144–152.
-* Bouaud, J., B. Bachimont, and P. Zweigenbaum, 1996, “Processing metonymy: a domain-model heuristic graph traversal approach,” in _Proceedings of the 16th International Conference on Computational Linguistics (COLING'96)_, Center for Sprogteknologi Copenhagen, Denmark, Aug. 5–9. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 137–142. \[[Bouaud, Bachimont, and Zweigenbaum 1996 available online (pdf)](http://aclweb.org/anthology/C/C96/C96-1025.pdf)]
-* Bourne, C.P. and T.B. Hahn, 2003, _A History of Online Information Services, 1963–1976_, Cambridge, MA: MIT Press.
-* Boyer, K.E., E.Y. Ha, M.D. Wallis, R. Phillips, M.A. Vouk, and J.C. Lester, 2009, “Discovering tutorial dialogue strategies with Hidden Markov Models”, in _Proceedings of the 14th International Conference on Artificial Intelligence in Education_ (AIED 2009), Brighton, U.K.: IOS Press, pp. 141–148.
-* Brakel, P. and S.L. Frank, 2009, “Strong systematicity in sentence processing by simple recurrent networks,” in N.A. Taatgen and H. van Rijn (eds.), _Proceedings of the 31st Annual Conference of the Cognitive Science Society_, July 30 – Aug. 1, VU University Amsterdam; Red Hook, NY: Curran Associates, Inc., pp. 1599–1604.
-* Brown, J.S. and R.R. Burton, 1975, “Multiple representations of knowledge for tutorial reasoning,” in D.G. Bobrow and A. Collins (eds.), _Representation and Understanding_, Academic Press, New York, 311–349.
-* Browne, A. and R. Sun, 2001, “Connectionist inference models”, _Neural Networks_, 14: 1331–1355.
-* Browne, A. and R. Sun, 1999, “Connectionist variable binding”, _Expert Systems_, 16(3): 189–207.
-* Bühler, D. and W. Minker, 2011, _Domain-Level Reasoning for Spoken Dialogue Systems_, Boston, MA: Springer.
-* Bunt, H.C., 1985, _Mass Terms and Model-Theoretic Semantics_, Cambridge, UK and New York: Cambridge University Press.
-* Burgard, W., A.B. Cremers, D. Fox, D. Hahnel, G. Lakemeyer, D. Schulz, W. Steiner, and S. Thrun, 1999, “Experiences with an interactive museum tour-guide robot,” _Articial Intelligence_, 114(1–2): 3–55.
-* Bylander, T., 1994, “The computational complexity of propositional STRIPS planning,” _Artificial Intelligence_, 69: 165–204.
-* Callaway, C., M. Dzikovska, E. Farrow, M. Marques-Pita, C. Matheson, and J. Moore, 2007, “The Beetle and BeeDiff tutoring systems,” in _Proceedings of the 2007 Workshop on Spoken Language Technology for Education_ (SLaTE), Farmington, PA, Oct. 1–3. Carnegie Mellon University and ISCA Archive. \[[Callaway et al. 2007 available online](http://isca-speech.org/archive\open/slate\2007/sle7\092.html)]
-* Campbell, J., M. Core, R. Artstein, L. Armstrong, A. Hartholt, C. Wilson, K. Georgila, F. Morbini, E. Haynes, D. Gomboc, M. Birch, J. Bobrow, H.C. Lane, J. Gerten, A. Leuski, D. Traum, M. Trimmer, R. DiNinni, M. Bosack, T. Jones, R.E. Clark, and K.A. Yates, 2011, “Developing INOTS to support interpersonal skills practice,” in _Proceedings of the 32nd Annual IEEE Aerospace Conference_ (IEEEAC), Big Sky, MT, March 5–12, Institute of Electrical and Electronics Engineers (IEEE), 3222–3235.
-* Carbonell, J., 1980, “Metaphor—a key to extensible semantic analysis,” in N.K. Sondheimer (ed.), _Proceedings of the 18th Meeting of the Association for Computational Linguistics_ (ACL'80), University of Pennsylvania, PA, June 19–22. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 17–21. \[[Carbonell 1980 available online (pdf)](http://aclweb.org/anthology/P/P80/P80-1004.pdf)]
-* Carlson, G.N., 1977, _Reference to Kinds in English_, Doctoral Dissertation, University of Massachusetts, Amherst, MA. Also New York: Garland Publishing, 1980.
-* –––, 1982, “Generic terms and generic sentences,” _Journal of Philosophical Logic_, 11: 145–181.
-* –––, 2011, “Generics and habituals,” in C. Maienborn, K. von Heusinger, and P. Portner (eds.), _Semantics: An International Handbook of Natural Language Meaning_, Berlin: Mouton de Gruyter.
-* Carlson, G.N. and F.J. Pelletier 1995, _The Generic Book_, Chicago: University of Chicago Press.
-* Carpenter, B., 1997, _Type-Logical Semantics_, Cambridge, MA: MIT Press.
+* Baars, B.J., 1997, *In the Theater of Consciousness: The Workspace of the Mind*, New York: Oxford University Press.
+* Bach, E., 1976, “An extension of classical transformational grammar,” in *Proceedings of the 1976 Conference on Linguistic Metatheory*, Michigan State University, 183–224. \[[Bach 1976 available online](https://web.archive.org/web/20140721180952/http://people.umass.edu/\~ebach/papers/extcl.htm)]
+* Bach, E., R. Oehrle, and D. Wheeler (eds.), 1987, *Categorial Grammars and Natural Language Structures*, Dortrecht: D. Reidel.
+* Baker, S., 2011, *Final Jeopardy*, Boston: Houghton Mifflin Harcourt.
+* Banarescu, L., C. Bonial, S. Cai, M. Georgescu, K. Griffitt, U. Hermjakob, K. Knight, K. Koehn, M. Palmer, and N. Schneider, 2013, “Abstract Meaning Representation for Sembanking”, in *Proceedings of the 7th Linguistic Annotation Workshop & Interoperability with Discourse*, Sofia, Bulgaria, Aug. 8–9. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Banarescu et al. 2013 available online (pdf)](http://aclweb.org/anthology/W/W13/W13-2322.pdf)]
+* Banko, M., M.J. Cafarella, S. Soderland, M. Broadhead, and O. Etzioni, 2007. “Open information extraction from the Web,” in *Proceedings of the International Joint Conference on Artificial Intelligence* (IJCAI-07), Hyderabad, India, January 6–12. \[[Banko et al. 2007 available online (pdf)](http://web.eecs.umich.edu/\~michjc/papers/banko\ijcai07.pdf)]
+* Bar-Hillel, Y., 1960, “The present status of automatic translation of languages,” *Advances in Computers*, 1: 91–163.
+* Barker, C., 2004, “Continuations in natural language”, in Hayo Thielecke (ed.), *Proceedings of the 4th ACM SIGPLAN Continuations Workshop* (CW'04), Venice, Italy, Jan. 17. Birmingham, UK: University of Birmingham. \[[Barker 2004 available online](http://www.cs.bham.ac.uk/\~hxt/cw04/cw04-program.html)]
+* Barker, K., B. Porter, and P. Clark, 2001, “A library of generic concepts for composing knowledge bases,” in *Proceedings of the 1st International Conference on Knowledge Capture*, Victoria, B.C., Canada, October 21–23. New York, NY: ACM, pp. 14–21. \[[Barker, Porter, and Clark 2001 preprint available online](http://www.cs.utexas.edu/users/mfkb/papers/kcap01.pdf)]
+* Barnden, J.A., 2001, “Uncertainty and conflict handling in the ATT-Meta context-based system for metaphorical reasoning,” in *Proceedings of the 3rd International Conference on Modeling and Using Context*, V. Akman, P. Bouquet, R. Thomason, and R.A. Young (eds.), Lecture Notes in Artificial Intelligence, Vol. 2116, Berlin: Springer, pp. 15–29.
+* –––, 2006, “Artificial intelligence, figurative language, and cognitive linguistics,” in G. Kristiansen *et al.* (eds.), *Cognitive Linguistics: Current Applications and Future Perspectives*, Berlin: Mouton de Gruyter, 431–459.
+* Barwise, J. and R. Cooper, 1981, “Generalized quantifiers and natural language,” *Linguistics and Philosophy*, 4(2): 159–219.
+* Barwise, J., and J. Perry, 1983, *Situations and Attitudes*, Chicago: University of Chicago Press.
+* Bengio, Y., 2008, “Neural net language models,” *Scholarpedia*, 3(1): 3881. \[[Bengio 2008 available online](http://www.scholarpedia.org/article/Neural\net\language\models)]
+* Bickmore, T., D. Schulman, and C. Sidner, 2011, “Modeling the intentional structure of health behavior change dialogue,” *Journal of Biomedical Informatics*, 44: 183–197.
+* Bishop, C.M., 2006, *Pattern Recognition and Machine Learning*, New York: Springer.
+* Blutner, R., 2004, “Nonmonotonic inferences and neural networks”, *Synthese*, 141(2): 143–174.
+* Bobrow, D.G., 1968, “Natural language input for a computer problem-solving system,” in M. Minsky (ed.), *Semantic Information Processing*, Cambridge, MA: MIT Press, 146–226.
+* Boser, B.E., I.M. Guyon, and V.N. Vapnik, 1992, “A training algorithm for optimal margin classifiers,” in D. Haussler (ed.), *5th Annual ACM Workshop on COLT*, Pittsburgh, PA: ACM Press, 144–152.
+* Bouaud, J., B. Bachimont, and P. Zweigenbaum, 1996, “Processing metonymy: a domain-model heuristic graph traversal approach,” in *Proceedings of the 16th International Conference on Computational Linguistics (COLING'96)*, Center for Sprogteknologi Copenhagen, Denmark, Aug. 5–9. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 137–142. \[[Bouaud, Bachimont, and Zweigenbaum 1996 available online (pdf)](http://aclweb.org/anthology/C/C96/C96-1025.pdf)]
+* Bourne, C.P. and T.B. Hahn, 2003, *A History of Online Information Services, 1963–1976*, Cambridge, MA: MIT Press.
+* Boyer, K.E., E.Y. Ha, M.D. Wallis, R. Phillips, M.A. Vouk, and J.C. Lester, 2009, “Discovering tutorial dialogue strategies with Hidden Markov Models”, in *Proceedings of the 14th International Conference on Artificial Intelligence in Education* (AIED 2009), Brighton, U.K.: IOS Press, pp. 141–148.
+* Brakel, P. and S.L. Frank, 2009, “Strong systematicity in sentence processing by simple recurrent networks,” in N.A. Taatgen and H. van Rijn (eds.), *Proceedings of the 31st Annual Conference of the Cognitive Science Society*, July 30 – Aug. 1, VU University Amsterdam; Red Hook, NY: Curran Associates, Inc., pp. 1599–1604.
+* Brown, J.S. and R.R. Burton, 1975, “Multiple representations of knowledge for tutorial reasoning,” in D.G. Bobrow and A. Collins (eds.), *Representation and Understanding*, Academic Press, New York, 311–349.
+* Browne, A. and R. Sun, 2001, “Connectionist inference models”, *Neural Networks*, 14: 1331–1355.
+* Browne, A. and R. Sun, 1999, “Connectionist variable binding”, *Expert Systems*, 16(3): 189–207.
+* Bühler, D. and W. Minker, 2011, *Domain-Level Reasoning for Spoken Dialogue Systems*, Boston, MA: Springer.
+* Bunt, H.C., 1985, *Mass Terms and Model-Theoretic Semantics*, Cambridge, UK and New York: Cambridge University Press.
+* Burgard, W., A.B. Cremers, D. Fox, D. Hahnel, G. Lakemeyer, D. Schulz, W. Steiner, and S. Thrun, 1999, “Experiences with an interactive museum tour-guide robot,” *Articial Intelligence*, 114(1–2): 3–55.
+* Bylander, T., 1994, “The computational complexity of propositional STRIPS planning,” *Artificial Intelligence*, 69: 165–204.
+* Callaway, C., M. Dzikovska, E. Farrow, M. Marques-Pita, C. Matheson, and J. Moore, 2007, “The Beetle and BeeDiff tutoring systems,” in *Proceedings of the 2007 Workshop on Spoken Language Technology for Education* (SLaTE), Farmington, PA, Oct. 1–3. Carnegie Mellon University and ISCA Archive. \[[Callaway et al. 2007 available online](http://isca-speech.org/archive\open/slate\2007/sle7\092.html)]
+* Campbell, J., M. Core, R. Artstein, L. Armstrong, A. Hartholt, C. Wilson, K. Georgila, F. Morbini, E. Haynes, D. Gomboc, M. Birch, J. Bobrow, H.C. Lane, J. Gerten, A. Leuski, D. Traum, M. Trimmer, R. DiNinni, M. Bosack, T. Jones, R.E. Clark, and K.A. Yates, 2011, “Developing INOTS to support interpersonal skills practice,” in *Proceedings of the 32nd Annual IEEE Aerospace Conference* (IEEEAC), Big Sky, MT, March 5–12, Institute of Electrical and Electronics Engineers (IEEE), 3222–3235.
+* Carbonell, J., 1980, “Metaphor—a key to extensible semantic analysis,” in N.K. Sondheimer (ed.), *Proceedings of the 18th Meeting of the Association for Computational Linguistics* (ACL'80), University of Pennsylvania, PA, June 19–22. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 17–21. \[[Carbonell 1980 available online (pdf)](http://aclweb.org/anthology/P/P80/P80-1004.pdf)]
+* Carlson, G.N., 1977, *Reference to Kinds in English*, Doctoral Dissertation, University of Massachusetts, Amherst, MA. Also New York: Garland Publishing, 1980.
+* –––, 1982, “Generic terms and generic sentences,” *Journal of Philosophical Logic*, 11: 145–181.
+* –––, 2011, “Generics and habituals,” in C. Maienborn, K. von Heusinger, and P. Portner (eds.), *Semantics: An International Handbook of Natural Language Meaning*, Berlin: Mouton de Gruyter.
+* Carlson, G.N. and F.J. Pelletier 1995, *The Generic Book*, Chicago: University of Chicago Press.
+* Carpenter, B., 1997, *Type-Logical Semantics*, Cambridge, MA: MIT Press.
 * Cercone, N., P. McFetridge, F. Popowich, D. Fass, C. Groeneboer, and G. Hall, 1993, “The systemX natural language interface: design, implementation, and evaluation,” Tech. Rep. CSS-IS TR 93-03, Centre for Systems Science, Simon Fraser University, Burnaby, BC, Canada.
-* Chambers, N. and D. Jurafsky, 2009, “Unsupervised learning of narrative schemas and their participants,” in _Proceedings of the 47th Annual Meeting of the Association for Computational Linguistics_ (ACL-09), Singapore, Aug. 2–7. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Chambers and Jurafsky 2009 available online (pdf)](http://aclweb.org/anthology/P/P09/P09-1068.pdf)]
-* Chater, N. and M. Oaksford (Eds.), 2008, _The Probabilistic Mind: Prospects for Rational Models of Cognition_, Oxford University Press.
-* Chen, P., W. Ding, C. Bowes, and D. Brown, 2009, “A fully unsupervised word sense disambiguation method using dependency knowledge,” in _Proceedings of the Annual Conference of the North American Chapter of the ACL_ (NAACL'09), Boulder, CO, June. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 28–36. \[[Chen et al. 2009 available online (pdf)](http://aclweb.org/anthology/N/N09/N09-1004.pdf)]
-* Chomsky, N., 1956, “Three models for the description of language,” _IRE Transactions on Information Theory_, 2: 113–124. \[[Chomsky 1956 available online (pdf)](http://www.chomsky.info/articles/195609--.pdf)]
-* –––, 1957, _Syntactic Structures_, Paris: Mouton.
-* Clark, A., C. Fox, and S. Lappin (eds), 2010, _The Handbook of Computational Linguistics and Natural Language Processing_, Chichester, UK: Wiley Blackwell.
-* Clarke, Daoud, 2012, “A context-theoretic framework for compositionality in distributional semantics,” _Computational Linguistics_, 38(1): 41–71.
-* Cohen, A., 2002, “Genericity”, in F. Hamm and T.E. Zimmermann (eds.), _Semantics_, vol. 10, Hamburg: H. Buske Verlag, 59–89.
-* Cohen, S.B., K. Stratos, M. Collins, D.P. Foster, and L. Ungar, 2013, “Experiments with spectral learning of Latent-Variable PCFGs,” _Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_ (NAACL HLT 2013), June 9–13, Atlanta, GA. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Cohen et al. 2013 available online (pdf)](http://aclweb.org/anthology/N/N13/N13-1015.pdf)]
-* Cohen, P.R. and R. Perreault, 1979, “Elements of a plan based theory of speech acts,” _Cognitive Science_, 3(3): 177–212.
-* Cole, R., B. Wise, and S. van Vuuren, 2007, “How Marni teaches children to read,” _Educational Technology_, 47(1): 14–18.
+* Chambers, N. and D. Jurafsky, 2009, “Unsupervised learning of narrative schemas and their participants,” in *Proceedings of the 47th Annual Meeting of the Association for Computational Linguistics* (ACL-09), Singapore, Aug. 2–7. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Chambers and Jurafsky 2009 available online (pdf)](http://aclweb.org/anthology/P/P09/P09-1068.pdf)]
+* Chater, N. and M. Oaksford (Eds.), 2008, *The Probabilistic Mind: Prospects for Rational Models of Cognition*, Oxford University Press.
+* Chen, P., W. Ding, C. Bowes, and D. Brown, 2009, “A fully unsupervised word sense disambiguation method using dependency knowledge,” in *Proceedings of the Annual Conference of the North American Chapter of the ACL* (NAACL'09), Boulder, CO, June. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 28–36. \[[Chen et al. 2009 available online (pdf)](http://aclweb.org/anthology/N/N09/N09-1004.pdf)]
+* Chomsky, N., 1956, “Three models for the description of language,” *IRE Transactions on Information Theory*, 2: 113–124. \[[Chomsky 1956 available online (pdf)](http://www.chomsky.info/articles/195609--.pdf)]
+* –––, 1957, *Syntactic Structures*, Paris: Mouton.
+* Clark, A., C. Fox, and S. Lappin (eds), 2010, *The Handbook of Computational Linguistics and Natural Language Processing*, Chichester, UK: Wiley Blackwell.
+* Clarke, Daoud, 2012, “A context-theoretic framework for compositionality in distributional semantics,” *Computational Linguistics*, 38(1): 41–71.
+* Cohen, A., 2002, “Genericity”, in F. Hamm and T.E. Zimmermann (eds.), *Semantics*, vol. 10, Hamburg: H. Buske Verlag, 59–89.
+* Cohen, S.B., K. Stratos, M. Collins, D.P. Foster, and L. Ungar, 2013, “Experiments with spectral learning of Latent-Variable PCFGs,” *Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (NAACL HLT 2013), June 9–13, Atlanta, GA. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Cohen et al. 2013 available online (pdf)](http://aclweb.org/anthology/N/N13/N13-1015.pdf)]
+* Cohen, P.R. and R. Perreault, 1979, “Elements of a plan based theory of speech acts,” *Cognitive Science*, 3(3): 177–212.
+* Cole, R., B. Wise, and S. van Vuuren, 2007, “How Marni teaches children to read,” *Educational Technology*, 47(1): 14–18.
 * Coles, L.S., 1972, “Techniques for Information Retrieval Using an Inferential Question-Answering System with Natural-Language Input”, Technical Note 74, SRI Project 8696, SRI International.
-* Conesa, J., V.C. Storey, and V. Sugumaran, 2010, “Usability of upper-level ontologies: the case of ResearchCyc,” _Data & Knowledge Engineering_, 69(4): 343–356.
-* Copestake, A., D. Flickinger, I. Sag, and C. Pollard, 2005, “Minimal Recursion Semantics: An introduction,” _Research in Language and Computation_, 3(2–3): 281–332.
-* Core, M., D. Traum, H.C. Lane, W. Swartout, S. Marsella, J. Gratch, and M. van Lent, 2006, “Teaching negotiation skills through practice and reflection with virtual humans,” _Simulation: Transactions of the Society for Modeling and Simulation_, 82: 685–701.
-* Cortes, C. and V.N. Vapnik, 1995, “Support-vector networks”, _Machine Learning_, 20(3): 273–297.
-* Cour, T., C. Jordan, E. Miltsakaki, and B. Taskar, 2008, “Movie/Script: alignment and parsing of video and text transcription,” _European Conference on Computer Vision_ (ECCV), October, Marseille, France.
-* Crocker, M.W., 2010, “Computational Psycholinguistics”, in A. Clark, C. Fox, and S. Lappin (eds), _The Handbook of Computational Linguistics and Natural Language Processing_, Chichester, UK: Wiley Blackwell.
-* Crouch, R., 1995, “Ellipsis and quantification: a substitutional approach,” in _Proceedings of the European Chapter of the Association for Computational Linguistics_ (EACL'95), University College Dublin, March 27–31. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 229–236. \[[Crouch 1995 available online (pdf)](http://aclweb.org/anthology/E/E95/E95-1032.pdf)]
-* Dagan, I., R. Bar-Haim, I. Szpektor, I. Greental, and E. Shnarch, 2008, “Natural language as the basis for meaning representation and inference,” in A. Gelbukh (ed.), _Computational Linguistics and Intelligent Text Processing_, Lecture Notes in Computer Science 4919, Berlin: Springer, 151–170.
-* Dalrymple, M., S.M. Shieber, and F.C.N. Pereira, 1991, “Ellipsis and higher-order unification,” _Linguistics and Philosophy_, 14: 399–452.
-* Damásio, A.R., 1994, _Descartes' Error: Emotion, Reason, and the Human Brain_, Kirkwood, NY: Putnam Publishing.
-* Damerau, F.J., 1981, “Operating statistics for the Transformational Question Answering System,” _American Journal of Computational Linguistics_, 7(1): 30–42.
-* Davidson, D., 1967a, “The logical form of action sentences”, in N. Rescher (ed.), _The Logic of Decision and Action_, Pittsburgh, PA: University of Pittsburgh Press.
-* d'Avila Garcez, A.S., 2004. “On Gabbay's fibring methodology for Bayesian and neural networks”, in D. Gillies (ed.), _Laws and Models in Science_, workshop sponsored by the European Science Foundation (ESF), King's College Publications.
-* DeJong, G.F., 1982, “An overview of the FRUMP system,” in W.G. Lehnert and M.H. Ringle (eds.), _Strategies for Natural Language Processing_, Erlbaum, 149–176.
-* Della Pietra, S., V. Della Pietra, and J. Lafferty, 1997, “Inducing features of random fields,” _Machine Intelligence_, 19(4): 380–393.
-* de Salvo Braz, R., R. Girju, V. Punyakanok, D. Roth, and M. Sammons, 2005, “An inference model for semantic entailment and question answering,” in _Proceedings of the American Association for Artificial Intelligence_ (AAAI-05), Pittsburgh, PA, July 9–13. Menlo Park, CA: AAAI Press, pp. 1043–1049.
-* Dowty, D., 1991, “Thematic proto-roles and argument selection,” _Language_, 67(3): 547–619.
-* Duda, R.O. and P.E. Hart, 1973, _Pattern Classification and Scene Analysis_, New York: Wiley.
-* Duda, R.O., P.E. Hart, and D.G. Stork, 2001, _Pattern Classification_, New York: Wiley.
-* Dyer, M.G., 1983, _In-Depth Understanding_, Cambridge, MA: MIT Press.
-* Earley, J., 1970, “An efficient context-free parsing algorithm,” _Communications of the ACM_, 13(2): 94–102.
-* Faaborg, A., W. Daher, H. Lieberman, and J. Espinosa, 2005, “How to wreck a nice beach you sing calm incense,” in R.St. Amant, J. Riedl, and A. Jameson (eds.), _Proceedings of the International Conference on Intelligent User Interfaces_ (IUI-05), San Diego, CA, January 10–13. ACM Press. \[[Faaborg et al. 2005 preprint available (pdf)](http://web.media.mit.edu/\~lieber/Publications/Wreck-a-Nice-Beach.pdf)]
-* Falkenhainer, B., K.D. Forbus, and D. Gentner, 1989, “The Structure-Mapping Engine: algorithm and examples,” _Artificial Intelligence_, 41: 1–63.
-* Fan, J., K. Barker, and B. Porter, 2009, “Automatic interpretation of loosely encoded input,” _Artificial Intelligence_ 173(2): 197–220.
-* Fass, D., 1991, “Met\*: a method for discriminating metonymy and metaphor by computer,” _Computational Linguistics_, 17(1): 49–90.
-* Feldman, J.A., 2006, _From Molecule to Metaphor: A Neural Theory of Language_, Cambridge, MA: Bradford Books, MIT Press.
-* Feldman, J.A. and D.H. Ballard ,1982, “Connectionist models and their properties,” _Cognitive Science_, 6: 205–254.
-* Ferguson, G. and J.F. Allen, 1998, “TRIPS: An integrated intelligent problem-solving assistant,” in _Proceedings of the 15th National Conference on Artificial Intelligence_ (AAAI-98). Menlo Park, CA: AAAI Press, pp. 567–573.
-* –––, 2007, “Mixed-initiative systems for collaborative problem solving,” _AI Magazine_, 28(2): 23–32.
-* Ferrucci, D.A., 2012, “This is Watson,” _IBM Journal of Research and Development_, 56(3–4).
-* Ferrucci, D., E. Brown, J. Chu-Carroll, J. Fan, D. Gondek, A.A Kalyanpur, A. Lally, J.W. Murdock, E. Nyberg, J. Prager, N. Schlaefer, and C. Welty, 2010, “Building Watson: An overview of the DeepQA project,” _AI Magazine_, 31(3): 59–79.
-* Fine, A.B., T.F. Jaeger, T.A. Farmer, and T. Qian, 2013, “Rapid expectation adaptation during syntactic comprehension,” _PLoS ONE_, 8(1): e77661.
-* Fleischman, M., and D. Roy, 2005, “Intentional context in situated language learning,” in _9th Conference on Computational Natural Language Learning (CoNLL-2005)_, Ann Arbor, MI, June 29–30. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Fleischman and Roy 2005 available online (pdf)](http://aclweb.org/anthology/signll.html#2005\0W05-0614.pdf)]
-* Gärdenfors, P., 2000, _Conceptual Spaces: The Geometry of Thought_, Cambridge, MA: MIT Press.
-* Ge, R. and R.J. Mooney, 2009, “Learning a compositional semantic parser using an existing syntactic parser,” in _Proceedings of the Joint Conference of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing_ (ACL-IJCNLP 2009), Suntec, Singapore, August. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 611–619. \[[Ge and Mooney 2009 available online (pdf)](http://aclweb.org/anthology/P/P09/P09-1069.pdf)]
-* Geib, C.W., 2004, “Assessing the complexity of plan recognition,” in _Proceedings of the 19th National Conference on Artifical intelligence_ (AAAI'04), San Jose, CA, July 25–29. Menlo Park, CA: AAAI Press, pp. 507–512.
-* Glickman, O. and I. Dagan, 2005, “A probabilistic setting and lexical cooccurrence model for textual entailment,” in _Proceedings of ACL Workshop on Empirical Modeling of Semantic Equivalence and Entailment_, Ann Arbor, MI, June 30. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Glickman and Dagan 2005 available online (pdf)](http://aclweb.org/anthology/W/W05/W05-1208.pdf)].
-* Gluck, M.A. and D.E. Rumelhart, 1990, _Neuroscience and Connectionist Theory_, Hillsdale, NJ: Lawrence Erlbaum.
-* Goldberg, A.E., 2003, “Constructions: a new theoretical approach to language,” _Trends in Cognitive Sciences_, 7(5): 219–224.
-* Goldman, R.P. and E. Charniak, 1991, “Probabilistic text understanding,” in _Proceedings of the 3rd International Workshop on AI and Statistics_, Fort Lauderdale, FL. Also published in D.J. Hand (ed.), 1993, _Artificial Intelligence Frontiers in Statistics: AI and Statistics III_, London, UK: Chapman & Hall.
-* Gordon, J. and L.K. Schubert, 2010, “Quantificational sharpening of commonsense knowledge,” _Common Sense Knowledge Symposium_ (CSK-10), AAAI 2010 Fall Symposium Series, November 11-13, Arlington, VA, AAAI Technical Report FS-10-02, Menlo Park, CA: AAAI Press.
-* Gregory, H. and S. Lappin, 1997, “A computational model of ellipsis resolution,” in _Proceedings of the Conference on Formal Grammar (Linguistic Aspects of Logical and Computational Perspectives on Language)_, 9th ESSLLI, Aix-en-Provence, France: European Summer School, August 11–27.
-* Grice, H.P., 1968, “Utterer's meaning, sentence meaning and word meaning,” _Foundations of Language_, 4: 225–242.
-* Groenendijk, J. and M. Stokhof, 1991, “Dynamic predicate logic,” _Linguistics and Philosophy_, 14(1): 39–100.
-* Grosz, B.J. and C.L. Sidner, 1986, “Attention, intentions, and the structure of discourse,” _Computational Linguistics_, 12(3, July-September): 175–204.
-* Hadamard, J., 1945, _The Psychology of Invention in the Mathematical Field_, Princeton, NJ: Princeton University Press.
-* Haghighi, A. and D. Klein, 2010, “Coreference resolution in a modular, entity-centered model,” in _Proceedings of the Annual Conference of the North American Chapter of the ACL_ (HLT-NAACL 2010), Los Angeles, June. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 385–393. \[[Haghighi and Klein 2010 available online (pdf)](http://aclweb.org/anthology/N/N10/N10-1061.pdf)]
-* Hardt, D., 1997, “An empirical approach to VP ellipsis,” _Computational Linguistics_, 23(4): 525–541.
-* Harris, L.R., 1984, “Experience with INTELLECT: Artificial Intelligence technology transfer,” _AI Magazine_, 5(2): 43–50.
-* Havasi, C., R. Speer, and J. Alonso, 2007, “ConceptNet 3: a flexible, multilingual semantic network for common sense knowledge,” in N. Nicolov, G. Angelova, and R. Mitkov (eds.), _Proceedings of Recent Advances in Natural Language Processing_ (RANLP-07), Borovets, Bulgaria, Sept. 27–29. Amsterdam:John Benjamins.
-* Hearst, M., 1992, “Automatic acquisition of hyponyms from large text corpora,” in _Proceedings of the 14th International Conference on Computational Linguistics_ (COLING-92), Nantes, France, Aug. 23–28. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 539–545. \[[Hearst 1992 available online (pdf)](http://aclweb.org/anthology/C/C92/C92-2082.pdf)]
-* Heim, I.R., 1982, _The Semantics of Definite and Indefinite Noun Phrases_, Doctoral dissertaton, University of Massachusetts, Amherst.
-* Henderson, J., 1994, “Connectionist syntactic parsing using temporal variable binding,” _Journal of Psycholinguistic Research_ 23(5): 353–379.
-* Hendrix, G.G., E.D. Sacerdoti, D. Sagalowicz, and J. Slocum, 1978, “Developing a natural language interface to complex data,” _ACM Transactions on Database Systems_, 3(2): 105–147.
-* Hewitt, C., 1969, “PLANNER: A language for proving theorems in robots,” in D.E. Wlaker and L.M. Norton (eds.), _Proceedings of the International Joint Conference on Artificial Intelligence_ (IJCAI'69), Washington, D.C., May 7–9. Los Altos, CA: William Kaufmann, pp. 295–301.
-* Hobbs, J.R., 1979, “Coherence and coreference,” _Cognitive Science_, 3(1): 67–90.
-* –––, 2003, “The logical notation: Ontological promiscuity,” in J.R. Hobbs, _Discourse and Inference_ (in progress). \[[Hobbs 2003 preprint available online](http://www.isi.edu/\~hobbs/disinf-tc.html)].
-* Hobbs, J.R., D.E. Appelt, J. Bear, M. Kameyama, M.E. Stickel, and M. Tyson, 1997, “FASTUS: A cascaded finite-state transducer for extracting information from natural-language text,” in E. Roche and Y. Schabes (eds.), _Finite-State Language Processing_, Cambridge, MA: MIT Press, 383–406.
-* Hobbs, J.R. and A. Gordon, 2005, “Encoding knowledge of commonsense psychology,” in _7th International Symposium on Logical Formalizations of Commonsense Reasoning_ (Commonsense 2005), Corfu, Greece, May 22–24. \[[Hobbs and Gordon 2005 available online (pdf)](https://www.isi.edu/\~hobbs/corfu-cpk.pdf)]
-* Hobbs, J.R., M.E. Stickel, D.E. Appelt, and P. Martin, 1993, “Interpretation as abduction,” _Artificial Intelligence_, 63: 69–142.
-* Hoffmann, R., S. Amershi, K. Patel, F. Wu, J. Fogarty, and D. Weld, 2009, “Amplifying community content creation with mixed-initiative information extraction,” _ACM Conference on Human Factors in Computing Systems_ (CHI 2009), Boston, MA, April 4–9. New York: ACM Press.
-* Hofstadter, D. R. and the Fluid Analogy Research Group, 1995, _Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought_, New York: Basic Books.
-* Hovy, E., 1988, “Planning coherent multisentential text,” in _Proceedings of the 26th Annual Meeting of the ACL_ (ACL'88), Buffalo, NY. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 179–186. \[[Hovy 1988 available online (pdf)](http://aclweb.org/anthology/P/P88/P88-1020.pdf)]
-* Humphrey, N., 1992, _A History of the Mind: Evolution and the Birth of Consciousness_, New York: Simon & Schuster.
-* Ide, N. and J. Véronis, 1994, “Knowledge extraction from machine-readable dictionaries: An evaluation”, in P. Steffens (ed.), _Machine Translation and the Lexicon_, Berlin: Springer-Verlag.
-* Jackendoff, R.S., 1990, _Semantic Structures_, Cambridge, MA: MIT Press.
-* Johnson-Laird, P.N., 1983, _Mental Models: Toward a Cognitive Science of Language, Inference and Consciousness_, Cambridge, MA: Harvard University Press.
-* Johnston, B. and M.-A. Williams, 2009, “Autonomous learning of commonsense simulations,” in _Proceedings of Commonsense 2009_, Toronto, Canada, June 1–3. Commonsense Reasoning. \[[Johnston and Williams 2009 available online (pdf)](http://commonsensereasoning.org/2009/papers/commonsense2009paper12.pdf)]
-* Jordan, P., M. Makatchev, U. Pappuswamy, K. VanLehn, and P. Albacete, 2006, “A natural language tutorial dialogue system for physics,” in G.C.J. Sutcliffe and R.G. Goebel (eds.), _Proceedings of the 19th International Florida Artificial Intelligence Research Society_ (FLAIRS-06). Menlo Park, CA: AAAI Press.
-* Jurafsky, D. and J.H. Martin, 2009, _Speech and Language Processing_, 2nd edition. Upper Saddle River, NJ: Pearson Higher Education, Prentice-Hall; original edition, 2000, Upper Saddle River, NJ: Pearson Higher Education, Prentice-Hall.
-* Kamp, H., 1981, “A theory of truth and semantic representation,” in J. Groenendijk, T. Janssen, and M. Stokhof (eds.), _Formal Methods in the Study of Language_, Mathematics Center, Amsterdam.
-* Kasabov, N., 1996, _Foundations of Neural Networks, Fuzzy Systems and Knowledge Engineering_, Cambridge, MA: MIT Press.
-* Kecman, V., 2001, _Learning and Soft Computing_, Cambridge, MA: MIT Press.
-* Kim, J. and R.J. Mooney, 2012, “Unsupervised PCFG induction for grounded language learning with highly ambiguous supervision,” in _Proceedings of the Conference on Empirical Methods in Natural Language Processing and Natural Language Learning_ (EMNLP-CoNLL ‘12), July 12–14, Jeju, Korea. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Kim and Mooney 2012 available online (pdf)](http://aclweb.org/anthology/D/D12/D12-1040.pdf)]
-* Koehn, Philipp, 2010, _Statistical Machine Translation_, Cambridge, UK: Cambridge University Press.
-* Kosslyn, S.M., 1994, _Image and Brain: The Resolution of the Imagery Debate_, Cambridge, MA: MIT Press.
-* Kuhlmann, M., 2013, “Mildly non-projective dependency grammar,” _Computational Linguistics_, 39(2): 355–387.
-* Lafferty, J., A. McCallum, and F. Pereira, 2001, “Conditional random fields: Probabilistic models for segmenting and labeling sequence data,” in C.E. Brodley and A. Pohoreckyj Danyluk (eds.), _International Conference on Machine Learning_ (ICML), Williams College, MA, June 28–July 1. San Francisco: Morgan Kaufmann.
-* Lakoff, G. and M. Johnson, 1980, _Metaphors We Live By_, Chicago: University of Chicago Press.
-* Landman, F., 1991, _Structures for Semantics_, SLAP 45, Dordrecht: Kluwer.
-* Landman, F., 1989, “Groups I & II”, _Linguistics and Philosophy_, 12(5): 559–605 and 12(6): 723–744.
-* –––, 2000, _Events and Plurality_, Dortrecht: Kluwer.
-* Lenat, D., 1995, “CYC: A large-scale investment in knowledge infrastructure,” _Communications of the ACM_, 38(11): 33–38.
-* Lewis, D.K., 1970, “General semantics,” _Synthese_, 22: 18–67. Reprinted in D. Davidson and G. Harman (eds.), 1972, _Semantics of Natural Language_, Dortrecht: D. Reidel.
-* Lieberman, H., H. Liu, P. Singh, and B. Barry, 2004. “Beating some common sense into interactive applications,” _AI Magazine_, 25(4): 63–76.
-* Lin, D. and P. Pantel, 2001, “DIRT—Discovery of Inference Rules from Text,” in _Proceedings of the 7th ACM Conference on Knowledge Discovery and Data Mining_ (KDD-2001), San Francisco, CA, August 26–29. New York: ACM Digital Library, pp. 323–328.
-* Lindsay, R., 1963, “Inferential memory as the basis of machines which understand natural language”, in E. Feigenbaum and J. Feldman (eds.), _Computers and Thought_, New York: McGraw-Hill.
-* Link, G. 1983, “The logical analysis of plurals and mass terms: a lattice-theoretical approach”, in R. Bauerle, C. Schwarze, and and A. von Stechow (eds.), _Meaning, Use, and Interpretations of Language_, Berlin: de Gruyter.
-* Litman, D.J. and S. Silliman, 2004, “ITSPOKE: An intelligent tutoring spoken dialogue system,” in _Proceedings of the Human Language Technology Conference: 4th Meeting of the North American Chapter of the Association for Computational Linguistics_ (HLT/NAACL-04). Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 233–236. \[[Litman and Silliman 2004 available online (pdf)](http://aclweb.org/anthology/N/N04/N04-3002.pdf)]
-* MacCartney, B. and C.D. Manning, 2009, “An extended model of natural logic,” in _Proceedings of the 8th International Conference on Computational Semantics_ (IWCS-8), Tilburg University, Netherlands. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[MacCartney and Manning 2009 available online (pdf)](http://aclweb.org/anthology/W/W09/W09-3714.pdf)]
-* Manger, R., V.L. Plantamura, and B. Soucek, 1994, “Classification with holographic neural networks,” in V.L. Plantamura, B. Soucek, and G. Visaggio (eds.), _Frontier Decision Support Concepts_, New York: John Wiley and Sons, 91–106.
-* Mann, W. and S.A. Thompson, 1987, “Rhetorical structure theory: description and construction of text structures,” in G. Kempen (ed.), _Natural Language Generation: Recent Advances in Artificial Intelligence, Psychology, and Linguistics_, Dortrecht: Kluwer Academic Publishers, 85–96.
-* Mann, W.C. and S.A. Thompson, 1988, “Rhetorical Structure Theory: toward a functional theory of text organization.” _Text_, 8(3): 243–281.
-* Manning, C.D. and H. Schütze, 1999, _Foundations of Statistical Natural Language Processing_, Cambridge, MA: MIT Press.
-* Markert, K. and M. Nissim, 2007, “SemEval-2007 Task 08: metonymy resolution at SemEval-2007,” in _Proceedings of SemEval 2007_, Prague. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Markert and Nissim 2007 available online (pdf)](http://aclweb.org/anthology/S/S07/S07-1007.pdf)]
-* Martin, J.H., 1990, _A Computational Model of Metaphor Interpretation_, New York: Academic Press.
-* Massaro, D.W., M.M. Cohen, M. Tabain, J. Beskow, and R. Clark, 2012, “Animated speech: Research progress and applications,” in G. Bailly, P. Perrier, and E. Vatiokis-Bateson (eds.), _Audiovisual Speech Processing_, Cambridge, UK: Cambridge University Press, 309–345.
-* May, A., 2012, “Machine translation,” chapter 19 of A. Clark, C. Fox, and S. Lappin (eds.), _The Handbook of Computational Linguistics and Natural Language Processing_, Chichester, UK: Wiley Blackwell.
+* Conesa, J., V.C. Storey, and V. Sugumaran, 2010, “Usability of upper-level ontologies: the case of ResearchCyc,” *Data & Knowledge Engineering*, 69(4): 343–356.
+* Copestake, A., D. Flickinger, I. Sag, and C. Pollard, 2005, “Minimal Recursion Semantics: An introduction,” *Research in Language and Computation*, 3(2–3): 281–332.
+* Core, M., D. Traum, H.C. Lane, W. Swartout, S. Marsella, J. Gratch, and M. van Lent, 2006, “Teaching negotiation skills through practice and reflection with virtual humans,” *Simulation: Transactions of the Society for Modeling and Simulation*, 82: 685–701.
+* Cortes, C. and V.N. Vapnik, 1995, “Support-vector networks”, *Machine Learning*, 20(3): 273–297.
+* Cour, T., C. Jordan, E. Miltsakaki, and B. Taskar, 2008, “Movie/Script: alignment and parsing of video and text transcription,” *European Conference on Computer Vision* (ECCV), October, Marseille, France.
+* Crocker, M.W., 2010, “Computational Psycholinguistics”, in A. Clark, C. Fox, and S. Lappin (eds), *The Handbook of Computational Linguistics and Natural Language Processing*, Chichester, UK: Wiley Blackwell.
+* Crouch, R., 1995, “Ellipsis and quantification: a substitutional approach,” in *Proceedings of the European Chapter of the Association for Computational Linguistics* (EACL'95), University College Dublin, March 27–31. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 229–236. \[[Crouch 1995 available online (pdf)](http://aclweb.org/anthology/E/E95/E95-1032.pdf)]
+* Dagan, I., R. Bar-Haim, I. Szpektor, I. Greental, and E. Shnarch, 2008, “Natural language as the basis for meaning representation and inference,” in A. Gelbukh (ed.), *Computational Linguistics and Intelligent Text Processing*, Lecture Notes in Computer Science 4919, Berlin: Springer, 151–170.
+* Dalrymple, M., S.M. Shieber, and F.C.N. Pereira, 1991, “Ellipsis and higher-order unification,” *Linguistics and Philosophy*, 14: 399–452.
+* Damásio, A.R., 1994, *Descartes' Error: Emotion, Reason, and the Human Brain*, Kirkwood, NY: Putnam Publishing.
+* Damerau, F.J., 1981, “Operating statistics for the Transformational Question Answering System,” *American Journal of Computational Linguistics*, 7(1): 30–42.
+* Davidson, D., 1967a, “The logical form of action sentences”, in N. Rescher (ed.), *The Logic of Decision and Action*, Pittsburgh, PA: University of Pittsburgh Press.
+* d'Avila Garcez, A.S., 2004. “On Gabbay's fibring methodology for Bayesian and neural networks”, in D. Gillies (ed.), *Laws and Models in Science*, workshop sponsored by the European Science Foundation (ESF), King's College Publications.
+* DeJong, G.F., 1982, “An overview of the FRUMP system,” in W.G. Lehnert and M.H. Ringle (eds.), *Strategies for Natural Language Processing*, Erlbaum, 149–176.
+* Della Pietra, S., V. Della Pietra, and J. Lafferty, 1997, “Inducing features of random fields,” *Machine Intelligence*, 19(4): 380–393.
+* de Salvo Braz, R., R. Girju, V. Punyakanok, D. Roth, and M. Sammons, 2005, “An inference model for semantic entailment and question answering,” in *Proceedings of the American Association for Artificial Intelligence* (AAAI-05), Pittsburgh, PA, July 9–13. Menlo Park, CA: AAAI Press, pp. 1043–1049.
+* Dowty, D., 1991, “Thematic proto-roles and argument selection,” *Language*, 67(3): 547–619.
+* Duda, R.O. and P.E. Hart, 1973, *Pattern Classification and Scene Analysis*, New York: Wiley.
+* Duda, R.O., P.E. Hart, and D.G. Stork, 2001, *Pattern Classification*, New York: Wiley.
+* Dyer, M.G., 1983, *In-Depth Understanding*, Cambridge, MA: MIT Press.
+* Earley, J., 1970, “An efficient context-free parsing algorithm,” *Communications of the ACM*, 13(2): 94–102.
+* Faaborg, A., W. Daher, H. Lieberman, and J. Espinosa, 2005, “How to wreck a nice beach you sing calm incense,” in R.St. Amant, J. Riedl, and A. Jameson (eds.), *Proceedings of the International Conference on Intelligent User Interfaces* (IUI-05), San Diego, CA, January 10–13. ACM Press. \[[Faaborg et al. 2005 preprint available (pdf)](http://web.media.mit.edu/\~lieber/Publications/Wreck-a-Nice-Beach.pdf)]
+* Falkenhainer, B., K.D. Forbus, and D. Gentner, 1989, “The Structure-Mapping Engine: algorithm and examples,” *Artificial Intelligence*, 41: 1–63.
+* Fan, J., K. Barker, and B. Porter, 2009, “Automatic interpretation of loosely encoded input,” *Artificial Intelligence* 173(2): 197–220.
+* Fass, D., 1991, “Met\*: a method for discriminating metonymy and metaphor by computer,” *Computational Linguistics*, 17(1): 49–90.
+* Feldman, J.A., 2006, *From Molecule to Metaphor: A Neural Theory of Language*, Cambridge, MA: Bradford Books, MIT Press.
+* Feldman, J.A. and D.H. Ballard ,1982, “Connectionist models and their properties,” *Cognitive Science*, 6: 205–254.
+* Ferguson, G. and J.F. Allen, 1998, “TRIPS: An integrated intelligent problem-solving assistant,” in *Proceedings of the 15th National Conference on Artificial Intelligence* (AAAI-98). Menlo Park, CA: AAAI Press, pp. 567–573.
+* –––, 2007, “Mixed-initiative systems for collaborative problem solving,” *AI Magazine*, 28(2): 23–32.
+* Ferrucci, D.A., 2012, “This is Watson,” *IBM Journal of Research and Development*, 56(3–4).
+* Ferrucci, D., E. Brown, J. Chu-Carroll, J. Fan, D. Gondek, A.A Kalyanpur, A. Lally, J.W. Murdock, E. Nyberg, J. Prager, N. Schlaefer, and C. Welty, 2010, “Building Watson: An overview of the DeepQA project,” *AI Magazine*, 31(3): 59–79.
+* Fine, A.B., T.F. Jaeger, T.A. Farmer, and T. Qian, 2013, “Rapid expectation adaptation during syntactic comprehension,” *PLoS ONE*, 8(1): e77661.
+* Fleischman, M., and D. Roy, 2005, “Intentional context in situated language learning,” in *9th Conference on Computational Natural Language Learning (CoNLL-2005)*, Ann Arbor, MI, June 29–30. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Fleischman and Roy 2005 available online (pdf)](http://aclweb.org/anthology/signll.html#2005\0W05-0614.pdf)]
+* Gärdenfors, P., 2000, *Conceptual Spaces: The Geometry of Thought*, Cambridge, MA: MIT Press.
+* Ge, R. and R.J. Mooney, 2009, “Learning a compositional semantic parser using an existing syntactic parser,” in *Proceedings of the Joint Conference of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing* (ACL-IJCNLP 2009), Suntec, Singapore, August. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 611–619. \[[Ge and Mooney 2009 available online (pdf)](http://aclweb.org/anthology/P/P09/P09-1069.pdf)]
+* Geib, C.W., 2004, “Assessing the complexity of plan recognition,” in *Proceedings of the 19th National Conference on Artifical intelligence* (AAAI'04), San Jose, CA, July 25–29. Menlo Park, CA: AAAI Press, pp. 507–512.
+* Glickman, O. and I. Dagan, 2005, “A probabilistic setting and lexical cooccurrence model for textual entailment,” in *Proceedings of ACL Workshop on Empirical Modeling of Semantic Equivalence and Entailment*, Ann Arbor, MI, June 30. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Glickman and Dagan 2005 available online (pdf)](http://aclweb.org/anthology/W/W05/W05-1208.pdf)].
+* Gluck, M.A. and D.E. Rumelhart, 1990, *Neuroscience and Connectionist Theory*, Hillsdale, NJ: Lawrence Erlbaum.
+* Goldberg, A.E., 2003, “Constructions: a new theoretical approach to language,” *Trends in Cognitive Sciences*, 7(5): 219–224.
+* Goldman, R.P. and E. Charniak, 1991, “Probabilistic text understanding,” in *Proceedings of the 3rd International Workshop on AI and Statistics*, Fort Lauderdale, FL. Also published in D.J. Hand (ed.), 1993, *Artificial Intelligence Frontiers in Statistics: AI and Statistics III*, London, UK: Chapman & Hall.
+* Gordon, J. and L.K. Schubert, 2010, “Quantificational sharpening of commonsense knowledge,” *Common Sense Knowledge Symposium* (CSK-10), AAAI 2010 Fall Symposium Series, November 11-13, Arlington, VA, AAAI Technical Report FS-10-02, Menlo Park, CA: AAAI Press.
+* Gregory, H. and S. Lappin, 1997, “A computational model of ellipsis resolution,” in *Proceedings of the Conference on Formal Grammar (Linguistic Aspects of Logical and Computational Perspectives on Language)*, 9th ESSLLI, Aix-en-Provence, France: European Summer School, August 11–27.
+* Grice, H.P., 1968, “Utterer's meaning, sentence meaning and word meaning,” *Foundations of Language*, 4: 225–242.
+* Groenendijk, J. and M. Stokhof, 1991, “Dynamic predicate logic,” *Linguistics and Philosophy*, 14(1): 39–100.
+* Grosz, B.J. and C.L. Sidner, 1986, “Attention, intentions, and the structure of discourse,” *Computational Linguistics*, 12(3, July-September): 175–204.
+* Hadamard, J., 1945, *The Psychology of Invention in the Mathematical Field*, Princeton, NJ: Princeton University Press.
+* Haghighi, A. and D. Klein, 2010, “Coreference resolution in a modular, entity-centered model,” in *Proceedings of the Annual Conference of the North American Chapter of the ACL* (HLT-NAACL 2010), Los Angeles, June. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 385–393. \[[Haghighi and Klein 2010 available online (pdf)](http://aclweb.org/anthology/N/N10/N10-1061.pdf)]
+* Hardt, D., 1997, “An empirical approach to VP ellipsis,” *Computational Linguistics*, 23(4): 525–541.
+* Harris, L.R., 1984, “Experience with INTELLECT: Artificial Intelligence technology transfer,” *AI Magazine*, 5(2): 43–50.
+* Havasi, C., R. Speer, and J. Alonso, 2007, “ConceptNet 3: a flexible, multilingual semantic network for common sense knowledge,” in N. Nicolov, G. Angelova, and R. Mitkov (eds.), *Proceedings of Recent Advances in Natural Language Processing* (RANLP-07), Borovets, Bulgaria, Sept. 27–29. Amsterdam:John Benjamins.
+* Hearst, M., 1992, “Automatic acquisition of hyponyms from large text corpora,” in *Proceedings of the 14th International Conference on Computational Linguistics* (COLING-92), Nantes, France, Aug. 23–28. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 539–545. \[[Hearst 1992 available online (pdf)](http://aclweb.org/anthology/C/C92/C92-2082.pdf)]
+* Heim, I.R., 1982, *The Semantics of Definite and Indefinite Noun Phrases*, Doctoral dissertaton, University of Massachusetts, Amherst.
+* Henderson, J., 1994, “Connectionist syntactic parsing using temporal variable binding,” *Journal of Psycholinguistic Research* 23(5): 353–379.
+* Hendrix, G.G., E.D. Sacerdoti, D. Sagalowicz, and J. Slocum, 1978, “Developing a natural language interface to complex data,” *ACM Transactions on Database Systems*, 3(2): 105–147.
+* Hewitt, C., 1969, “PLANNER: A language for proving theorems in robots,” in D.E. Wlaker and L.M. Norton (eds.), *Proceedings of the International Joint Conference on Artificial Intelligence* (IJCAI'69), Washington, D.C., May 7–9. Los Altos, CA: William Kaufmann, pp. 295–301.
+* Hobbs, J.R., 1979, “Coherence and coreference,” *Cognitive Science*, 3(1): 67–90.
+* –––, 2003, “The logical notation: Ontological promiscuity,” in J.R. Hobbs, *Discourse and Inference* (in progress). \[[Hobbs 2003 preprint available online](http://www.isi.edu/\~hobbs/disinf-tc.html)].
+* Hobbs, J.R., D.E. Appelt, J. Bear, M. Kameyama, M.E. Stickel, and M. Tyson, 1997, “FASTUS: A cascaded finite-state transducer for extracting information from natural-language text,” in E. Roche and Y. Schabes (eds.), *Finite-State Language Processing*, Cambridge, MA: MIT Press, 383–406.
+* Hobbs, J.R. and A. Gordon, 2005, “Encoding knowledge of commonsense psychology,” in *7th International Symposium on Logical Formalizations of Commonsense Reasoning* (Commonsense 2005), Corfu, Greece, May 22–24. \[[Hobbs and Gordon 2005 available online (pdf)](https://www.isi.edu/\~hobbs/corfu-cpk.pdf)]
+* Hobbs, J.R., M.E. Stickel, D.E. Appelt, and P. Martin, 1993, “Interpretation as abduction,” *Artificial Intelligence*, 63: 69–142.
+* Hoffmann, R., S. Amershi, K. Patel, F. Wu, J. Fogarty, and D. Weld, 2009, “Amplifying community content creation with mixed-initiative information extraction,” *ACM Conference on Human Factors in Computing Systems* (CHI 2009), Boston, MA, April 4–9. New York: ACM Press.
+* Hofstadter, D. R. and the Fluid Analogy Research Group, 1995, *Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought*, New York: Basic Books.
+* Hovy, E., 1988, “Planning coherent multisentential text,” in *Proceedings of the 26th Annual Meeting of the ACL* (ACL'88), Buffalo, NY. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 179–186. \[[Hovy 1988 available online (pdf)](http://aclweb.org/anthology/P/P88/P88-1020.pdf)]
+* Humphrey, N., 1992, *A History of the Mind: Evolution and the Birth of Consciousness*, New York: Simon & Schuster.
+* Ide, N. and J. Véronis, 1994, “Knowledge extraction from machine-readable dictionaries: An evaluation”, in P. Steffens (ed.), *Machine Translation and the Lexicon*, Berlin: Springer-Verlag.
+* Jackendoff, R.S., 1990, *Semantic Structures*, Cambridge, MA: MIT Press.
+* Johnson-Laird, P.N., 1983, *Mental Models: Toward a Cognitive Science of Language, Inference and Consciousness*, Cambridge, MA: Harvard University Press.
+* Johnston, B. and M.-A. Williams, 2009, “Autonomous learning of commonsense simulations,” in *Proceedings of Commonsense 2009*, Toronto, Canada, June 1–3. Commonsense Reasoning. \[[Johnston and Williams 2009 available online (pdf)](http://commonsensereasoning.org/2009/papers/commonsense2009paper12.pdf)]
+* Jordan, P., M. Makatchev, U. Pappuswamy, K. VanLehn, and P. Albacete, 2006, “A natural language tutorial dialogue system for physics,” in G.C.J. Sutcliffe and R.G. Goebel (eds.), *Proceedings of the 19th International Florida Artificial Intelligence Research Society* (FLAIRS-06). Menlo Park, CA: AAAI Press.
+* Jurafsky, D. and J.H. Martin, 2009, *Speech and Language Processing*, 2nd edition. Upper Saddle River, NJ: Pearson Higher Education, Prentice-Hall; original edition, 2000, Upper Saddle River, NJ: Pearson Higher Education, Prentice-Hall.
+* Kamp, H., 1981, “A theory of truth and semantic representation,” in J. Groenendijk, T. Janssen, and M. Stokhof (eds.), *Formal Methods in the Study of Language*, Mathematics Center, Amsterdam.
+* Kasabov, N., 1996, *Foundations of Neural Networks, Fuzzy Systems and Knowledge Engineering*, Cambridge, MA: MIT Press.
+* Kecman, V., 2001, *Learning and Soft Computing*, Cambridge, MA: MIT Press.
+* Kim, J. and R.J. Mooney, 2012, “Unsupervised PCFG induction for grounded language learning with highly ambiguous supervision,” in *Proceedings of the Conference on Empirical Methods in Natural Language Processing and Natural Language Learning* (EMNLP-CoNLL ‘12), July 12–14, Jeju, Korea. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Kim and Mooney 2012 available online (pdf)](http://aclweb.org/anthology/D/D12/D12-1040.pdf)]
+* Koehn, Philipp, 2010, *Statistical Machine Translation*, Cambridge, UK: Cambridge University Press.
+* Kosslyn, S.M., 1994, *Image and Brain: The Resolution of the Imagery Debate*, Cambridge, MA: MIT Press.
+* Kuhlmann, M., 2013, “Mildly non-projective dependency grammar,” *Computational Linguistics*, 39(2): 355–387.
+* Lafferty, J., A. McCallum, and F. Pereira, 2001, “Conditional random fields: Probabilistic models for segmenting and labeling sequence data,” in C.E. Brodley and A. Pohoreckyj Danyluk (eds.), *International Conference on Machine Learning* (ICML), Williams College, MA, June 28–July 1. San Francisco: Morgan Kaufmann.
+* Lakoff, G. and M. Johnson, 1980, *Metaphors We Live By*, Chicago: University of Chicago Press.
+* Landman, F., 1991, *Structures for Semantics*, SLAP 45, Dordrecht: Kluwer.
+* Landman, F., 1989, “Groups I & II”, *Linguistics and Philosophy*, 12(5): 559–605 and 12(6): 723–744.
+* –––, 2000, *Events and Plurality*, Dortrecht: Kluwer.
+* Lenat, D., 1995, “CYC: A large-scale investment in knowledge infrastructure,” *Communications of the ACM*, 38(11): 33–38.
+* Lewis, D.K., 1970, “General semantics,” *Synthese*, 22: 18–67. Reprinted in D. Davidson and G. Harman (eds.), 1972, *Semantics of Natural Language*, Dortrecht: D. Reidel.
+* Lieberman, H., H. Liu, P. Singh, and B. Barry, 2004. “Beating some common sense into interactive applications,” *AI Magazine*, 25(4): 63–76.
+* Lin, D. and P. Pantel, 2001, “DIRT—Discovery of Inference Rules from Text,” in *Proceedings of the 7th ACM Conference on Knowledge Discovery and Data Mining* (KDD-2001), San Francisco, CA, August 26–29. New York: ACM Digital Library, pp. 323–328.
+* Lindsay, R., 1963, “Inferential memory as the basis of machines which understand natural language”, in E. Feigenbaum and J. Feldman (eds.), *Computers and Thought*, New York: McGraw-Hill.
+* Link, G. 1983, “The logical analysis of plurals and mass terms: a lattice-theoretical approach”, in R. Bauerle, C. Schwarze, and and A. von Stechow (eds.), *Meaning, Use, and Interpretations of Language*, Berlin: de Gruyter.
+* Litman, D.J. and S. Silliman, 2004, “ITSPOKE: An intelligent tutoring spoken dialogue system,” in *Proceedings of the Human Language Technology Conference: 4th Meeting of the North American Chapter of the Association for Computational Linguistics* (HLT/NAACL-04). Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 233–236. \[[Litman and Silliman 2004 available online (pdf)](http://aclweb.org/anthology/N/N04/N04-3002.pdf)]
+* MacCartney, B. and C.D. Manning, 2009, “An extended model of natural logic,” in *Proceedings of the 8th International Conference on Computational Semantics* (IWCS-8), Tilburg University, Netherlands. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[MacCartney and Manning 2009 available online (pdf)](http://aclweb.org/anthology/W/W09/W09-3714.pdf)]
+* Manger, R., V.L. Plantamura, and B. Soucek, 1994, “Classification with holographic neural networks,” in V.L. Plantamura, B. Soucek, and G. Visaggio (eds.), *Frontier Decision Support Concepts*, New York: John Wiley and Sons, 91–106.
+* Mann, W. and S.A. Thompson, 1987, “Rhetorical structure theory: description and construction of text structures,” in G. Kempen (ed.), *Natural Language Generation: Recent Advances in Artificial Intelligence, Psychology, and Linguistics*, Dortrecht: Kluwer Academic Publishers, 85–96.
+* Mann, W.C. and S.A. Thompson, 1988, “Rhetorical Structure Theory: toward a functional theory of text organization.” *Text*, 8(3): 243–281.
+* Manning, C.D. and H. Schütze, 1999, *Foundations of Statistical Natural Language Processing*, Cambridge, MA: MIT Press.
+* Markert, K. and M. Nissim, 2007, “SemEval-2007 Task 08: metonymy resolution at SemEval-2007,” in *Proceedings of SemEval 2007*, Prague. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Markert and Nissim 2007 available online (pdf)](http://aclweb.org/anthology/S/S07/S07-1007.pdf)]
+* Martin, J.H., 1990, *A Computational Model of Metaphor Interpretation*, New York: Academic Press.
+* Massaro, D.W., M.M. Cohen, M. Tabain, J. Beskow, and R. Clark, 2012, “Animated speech: Research progress and applications,” in G. Bailly, P. Perrier, and E. Vatiokis-Bateson (eds.), *Audiovisual Speech Processing*, Cambridge, UK: Cambridge University Press, 309–345.
+* May, A., 2012, “Machine translation,” chapter 19 of A. Clark, C. Fox, and S. Lappin (eds.), *The Handbook of Computational Linguistics and Natural Language Processing*, Chichester, UK: Wiley Blackwell.
 * Mayberry, III, M.R. and R. Miikkulainen, 2008, “Incremental nonmonotonic sentence interpretation through semantic self-organization,” Technical Report AI08-12, Dept. of Computer Science, University of Texas, Austin, TX.
-* Maybury, M.T. (ed.), 2004, _New Directions in Question Answering_, Cambridge, MA: AAAI and MIT Press.
-* McCarthy, J., 1990, “First order theories of individual concepts and propositions,” in J. McCarthy and V. Lifschitz (eds.), 1990, _Formalizing Common Sense: Papers by John McCarthy_, 119–141. (Note: An earlier version appeared in J.E. Hayes, D. Michie, and L. Mikulich (eds.), 1979, _Machine Intelligence 9_, Chichester/Halsted, New York: Ellis Norwood, 129–148. \[See also the \[[most recent version](http://www-formal.stanford.edu/jmc/concepts.pdf), 2000.]
-* McClain, M. and S. Levinson, 2007, “Semantic based learning of syntax in an autonomous robot,” _International Journal of Humanoid Robotics_, 4(2): 321–346.
-* McCord, M., 1986, “Focalizers, the scoping problem, and semantic interpretation rules in logic grammars,” in M. Van Caneghem and D.H.D. Warren (eds.), _Logic Programming and its Applications_, Norwood, NJ: Ablex, 223–243.
-* McKeown, K.R., 1985, _Text Generation: Using Discourse Strategies and Focus Constraints to Generate Natural Language Text_, Cambridge, UK: Cambridge University Press.
-* Minsky, M., 1968, _Semantic Information Processing_, Cambridge, MA: MIT Press.
-* Moldovan, D.I. and V. Rus, 2001, “Logic form transformation of WordNet and its applicability to question answering,” in _Proceedings of ACL 2001, Association for Computational Linguistics_, Toulouse, France, July 6–11. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 402–409. \[[Moldovan and Rus 2001 available online (pdf)](http://aclweb.org/anthology/P/P01/P01-1052.pdf)]
-* Montague, R., 1970, “English as a formal language,” in B. Visentini _et al._ (eds.), _Linguaggi nella società e nella tecnicà_, Milan: Edizioni di Comunita, 189–224.
-* –––, R., 1973, “The proper treatment of quantification in ordinary English,” in K.J.J. Hintikka, J.M.E. Moravcsik, and P. Suppes (eds.), _Approaches to Natural Language_, Dortrecht: D. Reidel.
-* Mooney, R.J., 2007, “Learning for semantic parsing,” in A. Gelbukh (ed.), _Proceedings of the 8th International Conference on Computational Linguistics and Intelligent Text Processing_ (CICLing 2007), Mexico City, February. Berlin: Springer, pp. 311–324.
-* Moore, J.D. and C.L. Paris, 1988, “Constructing coherent texts using rhetorical relations,” in _Proceedings of the 10th Annual Conference of the Cognitive Science Society_ (COGSCI-88), Montreal, Canada, August 17–19. New York: Taylor & Francis, pp. 199–204.
-* –––, 1993, “Planning texts for advisory dialogues: capturing intentional and rhetorical information,” _Computational Linguistics_, 19(4): 651–694.
-* Mostow, J. & J. Beck, 2007, “When the rubber meets the road: Lessons from the in-school adventures of an automated reading tutor that listens,” in B. Schneider & S.-K. McDonald (eds.), _Scale-Up in Education_ (Vol. 2), Lanham, MD: Rowman & Littlefield Publishers, 183–200.
-* Movellan, J.R., M. Eckhardt, M. Virnes, and A. Rodriguez, 2009, “Sociable robot improves toddler vocabulary skills,” in _Proceedings of the International Conference on Human Robot Interaction_ (HRI2009), San Diego, CA, March 11–13. New York: ACM Digital Library.
-* Narayanan, S., 1997, _KARMA: Knowledge-based Action Representations for Metaphor and Aspect_, Doctoral thesis, U.C. Berkeley, CA.
-* Newell, A. and H.A. Simon, 1976, “Computer science as empirical inquiry: symbols and search,” _Communications of the ACM_, 19(3): 113–126.
-* Nielsen, L.A., 2004, “Verb phrase ellipsis detection using automatically parsed text”, in _Proceedings of the 20th International Conference on Computational Linguistics_ (COLING'04), Geneva, Switzerland. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Nielsen 2004 available online (pdf)](http://aclweb.org/anthology/C/C04/C04-1157.pdf)]
-* Norman, D.A., D.E. Rumelhart, and the LNR Research Group, 1975, _Explorations in Cognition_, New York: W.H. Freeman and Company.
-* Onyshkevych, B., 1998, “Nominal metonymy processing,” _COLING-ACL Workshop on the Computational Treatment of Nominals_, Aug. 10–14, Quebec, Canada. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Onyshkevych 1998 available online (pdf)](http://aclweb.org/anthology/W/W98/W98-0613.pdf)]
-* Paivio, A., 1986, _Mental representations: a dual coding approach_, Oxford, England: Oxford University Press.
-* Palmer, M., D. Gildea, and N. Xue, 2010, _Semantic Role Labeling_, San Rafael, CA: Morgan & Claypool.
-* Palmer-Brown, D., J.A. Tepper, and H.M. Powell, 2002, “Connectionist natural language parsing,” _Trends in Cognitive Sciences_ 6(October): 437–442.
-* Pantel, P., R. Bhagat, B. Coppola, T. Chklovski, and E. Hovy, 2007, “ISP: Learning Inferential Selectional Preferences,” in _Proceedings of North American Association for Computational Linguistics / Human Language Technology_ (NAACL-HLT'07), Rochester, NY. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 564–571. \[[Pantel et al. 2007 available online (pdf)](http://aclweb.org/anthology/N/N07/N07-1071.pdf)]
-* Parsons, T., 1990, _Events in the Semantics of English: A Study in Subatomic Semantics_, Cambridge, MA: MIT Press.
-* Pereira, F.C.N. and D.H.D. Warren, 1982, “An efficient easily adaptable system for interpreting natural language queries,” _American Journal of Computational Linguistics_, 8(3–4): 110–122.
-* Pierce, J.R., J.B. Carroll, _et al._, 1966, _Language and Machines—Computers in Translation and Linguistics_. ALPAC report, National Academy of Sciences, National Research Council, Washington, DC.
-* Pinker, S., 1994, _The Language Instinct_, New York: Harper.
-* –––, 2007, _The Stuff of Thought_, New York: Penguin Group.
-* Plate, T.A., 2003, _Holographic Reduced Representation: Distributed Representation for Cognitive Structures_, Stanford, CA: CSLI Publications.
-* Poincaré, H., 1913, “Mathematical creation,” in H. Poincaré (with an introduction by J. Royce), _The Foundations of Science: Science and Method, Book I (Science and the Scientist)_, chapter III, New York: The Science Press.
-* Pon-Barry, H., K. Schultz, Owen E. Bratt, B. Clark, and S. Peters, 2006, “Responding to student uncertainty in spoken tutorial dialogue systems,” _International Journal of Artificial Intelligence in Education_, 16(2): 171–194.
-* Poon, H., 2013, “Grounded unsupervised semantic parsing,” in _Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics_ (ACL-13), Sofia, Bulgaria, Aug. 4–9. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Poon 2013 available online (pdf)](http://aclweb.org/anthology/P/P13/P13-1092.pdf)]
-* Poon, H. and P. Domingos, 2009, “Unsupervised semantic parsing,” in _Proceedings of the Conference on Empirical Methods in Natural Language Processing_ (EMNLP), Singapore, Aug. 6–7. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Poon and Domingos 2009 available online (pdf)](http://aclweb.org/anthology/D/D09/D09-1001.pdf)]
-* Pullum, G., 2011, “Remarks by Noam Chomsky in London”, _Linguist_, November 14, 2011, 22.4631. \[[Pullum 2011 available online](http://linguistlist.org/issues/22/22-4631.html)]
-* Pulman, S., J. Boye, M. Cavazza, Smith and C. R. Santos de la Cámara, 2010, “How was your day?” in _Proceedings of the 2010 Workshop on Companionable Dialogue Systems_, Uppsala, Sweden, July. Stroudsburg, PA: Association for Computational Linguistics, 37–42.
-* Quillian, M.R., 1968, “Semantic memory,” in M. Minsky (ed.) _Semantic Information Processing_, Cambridge, MA: MIT Press, 227–270.
-* Ramsay, W., S.P. Stich, and J. Garon, 1991, “Connectionism, eliminativism and the future of folk psychology,” in W. Ramsay, S.P. Stich, and D.E. Rumelhart (eds.), _Philosophy and Connectionist Theory_, Hillsdale, NJ: Lawrence Erlbaum.
-* Rapaport, W.J., 1995, “Understanding understanding: Syntactic semantics and computational cognition,” in J.E. Tomberlin (ed.), _AI, Connectionism, and Philosophical Psychology, Philosophical Perspectives_, Vol. 9, Atascadero, CA: Ridgeview Publishing, 49–88.
-* Raphael, B., 1968, “SIR: A computer program for semantic infomation retrieval,” in M. Minsky (ed.) _Semantic Information Processing_, Cambridge, MA: MIT Press, 33–145.
+* Maybury, M.T. (ed.), 2004, *New Directions in Question Answering*, Cambridge, MA: AAAI and MIT Press.
+* McCarthy, J., 1990, “First order theories of individual concepts and propositions,” in J. McCarthy and V. Lifschitz (eds.), 1990, *Formalizing Common Sense: Papers by John McCarthy*, 119–141. (Note: An earlier version appeared in J.E. Hayes, D. Michie, and L. Mikulich (eds.), 1979, *Machine Intelligence 9*, Chichester/Halsted, New York: Ellis Norwood, 129–148. \[See also the \[[most recent version](http://www-formal.stanford.edu/jmc/concepts.pdf), 2000.]
+* McClain, M. and S. Levinson, 2007, “Semantic based learning of syntax in an autonomous robot,” *International Journal of Humanoid Robotics*, 4(2): 321–346.
+* McCord, M., 1986, “Focalizers, the scoping problem, and semantic interpretation rules in logic grammars,” in M. Van Caneghem and D.H.D. Warren (eds.), *Logic Programming and its Applications*, Norwood, NJ: Ablex, 223–243.
+* McKeown, K.R., 1985, *Text Generation: Using Discourse Strategies and Focus Constraints to Generate Natural Language Text*, Cambridge, UK: Cambridge University Press.
+* Minsky, M., 1968, *Semantic Information Processing*, Cambridge, MA: MIT Press.
+* Moldovan, D.I. and V. Rus, 2001, “Logic form transformation of WordNet and its applicability to question answering,” in *Proceedings of ACL 2001, Association for Computational Linguistics*, Toulouse, France, July 6–11. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 402–409. \[[Moldovan and Rus 2001 available online (pdf)](http://aclweb.org/anthology/P/P01/P01-1052.pdf)]
+* Montague, R., 1970, “English as a formal language,” in B. Visentini *et al.* (eds.), *Linguaggi nella società e nella tecnicà*, Milan: Edizioni di Comunita, 189–224.
+* –––, R., 1973, “The proper treatment of quantification in ordinary English,” in K.J.J. Hintikka, J.M.E. Moravcsik, and P. Suppes (eds.), *Approaches to Natural Language*, Dortrecht: D. Reidel.
+* Mooney, R.J., 2007, “Learning for semantic parsing,” in A. Gelbukh (ed.), *Proceedings of the 8th International Conference on Computational Linguistics and Intelligent Text Processing* (CICLing 2007), Mexico City, February. Berlin: Springer, pp. 311–324.
+* Moore, J.D. and C.L. Paris, 1988, “Constructing coherent texts using rhetorical relations,” in *Proceedings of the 10th Annual Conference of the Cognitive Science Society* (COGSCI-88), Montreal, Canada, August 17–19. New York: Taylor & Francis, pp. 199–204.
+* –––, 1993, “Planning texts for advisory dialogues: capturing intentional and rhetorical information,” *Computational Linguistics*, 19(4): 651–694.
+* Mostow, J. & J. Beck, 2007, “When the rubber meets the road: Lessons from the in-school adventures of an automated reading tutor that listens,” in B. Schneider & S.-K. McDonald (eds.), *Scale-Up in Education* (Vol. 2), Lanham, MD: Rowman & Littlefield Publishers, 183–200.
+* Movellan, J.R., M. Eckhardt, M. Virnes, and A. Rodriguez, 2009, “Sociable robot improves toddler vocabulary skills,” in *Proceedings of the International Conference on Human Robot Interaction* (HRI2009), San Diego, CA, March 11–13. New York: ACM Digital Library.
+* Narayanan, S., 1997, *KARMA: Knowledge-based Action Representations for Metaphor and Aspect*, Doctoral thesis, U.C. Berkeley, CA.
+* Newell, A. and H.A. Simon, 1976, “Computer science as empirical inquiry: symbols and search,” *Communications of the ACM*, 19(3): 113–126.
+* Nielsen, L.A., 2004, “Verb phrase ellipsis detection using automatically parsed text”, in *Proceedings of the 20th International Conference on Computational Linguistics* (COLING'04), Geneva, Switzerland. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Nielsen 2004 available online (pdf)](http://aclweb.org/anthology/C/C04/C04-1157.pdf)]
+* Norman, D.A., D.E. Rumelhart, and the LNR Research Group, 1975, *Explorations in Cognition*, New York: W.H. Freeman and Company.
+* Onyshkevych, B., 1998, “Nominal metonymy processing,” *COLING-ACL Workshop on the Computational Treatment of Nominals*, Aug. 10–14, Quebec, Canada. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Onyshkevych 1998 available online (pdf)](http://aclweb.org/anthology/W/W98/W98-0613.pdf)]
+* Paivio, A., 1986, *Mental representations: a dual coding approach*, Oxford, England: Oxford University Press.
+* Palmer, M., D. Gildea, and N. Xue, 2010, *Semantic Role Labeling*, San Rafael, CA: Morgan & Claypool.
+* Palmer-Brown, D., J.A. Tepper, and H.M. Powell, 2002, “Connectionist natural language parsing,” *Trends in Cognitive Sciences* 6(October): 437–442.
+* Pantel, P., R. Bhagat, B. Coppola, T. Chklovski, and E. Hovy, 2007, “ISP: Learning Inferential Selectional Preferences,” in *Proceedings of North American Association for Computational Linguistics / Human Language Technology* (NAACL-HLT'07), Rochester, NY. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 564–571. \[[Pantel et al. 2007 available online (pdf)](http://aclweb.org/anthology/N/N07/N07-1071.pdf)]
+* Parsons, T., 1990, *Events in the Semantics of English: A Study in Subatomic Semantics*, Cambridge, MA: MIT Press.
+* Pereira, F.C.N. and D.H.D. Warren, 1982, “An efficient easily adaptable system for interpreting natural language queries,” *American Journal of Computational Linguistics*, 8(3–4): 110–122.
+* Pierce, J.R., J.B. Carroll, *et al.*, 1966, *Language and Machines—Computers in Translation and Linguistics*. ALPAC report, National Academy of Sciences, National Research Council, Washington, DC.
+* Pinker, S., 1994, *The Language Instinct*, New York: Harper.
+* –––, 2007, *The Stuff of Thought*, New York: Penguin Group.
+* Plate, T.A., 2003, *Holographic Reduced Representation: Distributed Representation for Cognitive Structures*, Stanford, CA: CSLI Publications.
+* Poincaré, H., 1913, “Mathematical creation,” in H. Poincaré (with an introduction by J. Royce), *The Foundations of Science: Science and Method, Book I (Science and the Scientist)*, chapter III, New York: The Science Press.
+* Pon-Barry, H., K. Schultz, Owen E. Bratt, B. Clark, and S. Peters, 2006, “Responding to student uncertainty in spoken tutorial dialogue systems,” *International Journal of Artificial Intelligence in Education*, 16(2): 171–194.
+* Poon, H., 2013, “Grounded unsupervised semantic parsing,” in *Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics* (ACL-13), Sofia, Bulgaria, Aug. 4–9. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Poon 2013 available online (pdf)](http://aclweb.org/anthology/P/P13/P13-1092.pdf)]
+* Poon, H. and P. Domingos, 2009, “Unsupervised semantic parsing,” in *Proceedings of the Conference on Empirical Methods in Natural Language Processing* (EMNLP), Singapore, Aug. 6–7. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Poon and Domingos 2009 available online (pdf)](http://aclweb.org/anthology/D/D09/D09-1001.pdf)]
+* Pullum, G., 2011, “Remarks by Noam Chomsky in London”, *Linguist*, November 14, 2011, 22.4631. \[[Pullum 2011 available online](http://linguistlist.org/issues/22/22-4631.html)]
+* Pulman, S., J. Boye, M. Cavazza, Smith and C. R. Santos de la Cámara, 2010, “How was your day?” in *Proceedings of the 2010 Workshop on Companionable Dialogue Systems*, Uppsala, Sweden, July. Stroudsburg, PA: Association for Computational Linguistics, 37–42.
+* Quillian, M.R., 1968, “Semantic memory,” in M. Minsky (ed.) *Semantic Information Processing*, Cambridge, MA: MIT Press, 227–270.
+* Ramsay, W., S.P. Stich, and J. Garon, 1991, “Connectionism, eliminativism and the future of folk psychology,” in W. Ramsay, S.P. Stich, and D.E. Rumelhart (eds.), *Philosophy and Connectionist Theory*, Hillsdale, NJ: Lawrence Erlbaum.
+* Rapaport, W.J., 1995, “Understanding understanding: Syntactic semantics and computational cognition,” in J.E. Tomberlin (ed.), *AI, Connectionism, and Philosophical Psychology, Philosophical Perspectives*, Vol. 9, Atascadero, CA: Ridgeview Publishing, 49–88.
+* Raphael, B., 1968, “SIR: A computer program for semantic infomation retrieval,” in M. Minsky (ed.) *Semantic Information Processing*, Cambridge, MA: MIT Press, 33–145.
 * Ratnaparkhi A., 1997, “A simple introduction to maximum entropy models for natural language processing”, Technical Report 97–08, Institute for Research in Cognitive Science, University of Pennsylvania.
-* Reichenbach, H., 1947, _Elements of Symbolic Logic_, New York: MacMillan.
-* Rich, C. and C.L. Sidner, 1998, “COLLAGEN: A collaboration manager for software interface agents,” _User Modeling and User-Adapted Interaction_, 8(3–4): 315–350.
-* Robinson, D.N., 2007, _Consciousness and Mental Life_, New York, NY: Columbia University Press.
-* Rumelhart, D.E., P.H. Lindsay, and D.A. Norman, 1972, “A process model for long-term memory,” in E. Tulving and W. Donaldson, _Organization and Memory_, New York: Academic Press, 197–246.
-* Rumelhart, D.E. and J. McClelland, 1986, _Parallel Distributed Processing: Explorations in the Microstructure of Cognition_, Cambridge, MA: MIT Bradford Books.
-* Salton, G., 1989, _Automatic Text Processing: The Transformation, Analysis and Retrieval of Information by Computer_, Boston, MA: Addison-Wesley.
-* Scha, R., 1981, “Distributive, collective and cumulative quantification,” in J. Groenendijk, T. Janssen, and M. Stokhof (eds.), _Formal Methods in the Study of Language_, Amsterdam: Mathematical Centre Tracts.
-* Schank, R.C. and R.P. Abelson, 1977, _Scripts, Plans, Goals and Understanding_, Hillsdale, NJ: Lawrence Erlbaum.
-* Schank, R.C. and K.M. Colby, 1973, _Computer Models of Thought and Language_, San Francisco: W.H. Freeman and Co.
-* Schank, R.C. and C.K. Riesbeck, 1981, _Inside Computer Understanding_, Hillsdale, NJ: Lawrence Erlbaum.
-* Scheutz, M., R. Cantrell, and P. Schermerhorn, 2011 “Toward human-like task-based dialogue processing for HRI,” _AI Magazine_ 32(4): 77–84.
-* Schoenmackers, S., J. Davis, O. Etzioni, and D.S. Weld, 2010, “Learning first-order Horn clauses from Web text,” in _Proceedings of the Conference on Empirical Methods in Natural Language Processing_ (EMNLP 2010), MIT, MA, Oct. 9–11. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Schoenmackers et al. available online (pdf)](http://aclweb.org/anthology/D/D10/D10-1106.pdf)]
-* Schubert, L.K., 2000, “The situations we talk about”, in J. Minker (ed.), _Logic-Based Artificial Intelligence_, Dortrecht: Kluwer, 407–439.
-* –––, 2007, “Implicit Skolemization: efficient reference to dependent entities,” _Research on Language and Computation_ 5, April, (special volume on Binding Theory, edited by A. Butler, E. Keenan, J. Mattausch and C.-C. Shan): 69-86.
-* Schubert, L.K. and F.J. Pelletier, 1982, “From English to logic: Context-free computation of ‘conventional’ logical translations”, _American Journal Computational Linguistics_, 8: 27–44; reprinted in B.J. Grosz, K. Sparck Jones, and B.L. Webber (eds.), 1986, _Readings in Natural Language Processing_, Los Altos, CA: Morgan Kaufmann, 293–311.
-* Schubert, L.K. and M. Tong, 2003, “Extracting and evaluating general world knowledge from the Brown Corpus,” in _Proceedings of the HLT-NAACL Workshop on Text Meaning_, Edmonton, Alberta, May 31. Stroudsburg, PA: Association for Computational Linguistics (ACL), 7–13. \[[Schubert and Tong 2003 available online (pdf)](http://aclweb.org/anthology/W/W03/W03-0902.pdf)]
-* Searle, J., 1969, _Speech Acts_, Cambridge, UK: Cambridge University Press.
-* Sebestyen, G.S., 1962, _Decision-Making Processes in Pattern Recognition_, New York: Macmillan.
-* Sha, F. and F. Pereira, 2003, “Shallow parsing with conditional random fields,” _Human Language Technology Conference_ (HLT-NAACL 2003), May 27 – June 1, Edmonton, Canada. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Sha and Pereira 2003 available online (pdf)](http://aclweb.org/anthology/N/N03/N03-1028.pdf)]
-* Singh, P., T. Lin, E.T. Mueller, G. Lim, T. Perkins, and W.l. Zhu, 2002, “Open Mind Common Sense: Knowledge acquisition from the general public,” in _Proceedings of the 1st International Conference on Ontologies, Databases, and Applications of Semantics for Large Scale Information Systems_ (ODBASE 2002), Irvine, California, October 29–31. Lecture Notes in Computer Science, Volume 2519, New York: Springer, pp. 1223–1237.
-* Smith, R.W., D.R. Hipp, and A.W. Biermann, 1995, “An architecture for voice dialogue systems based on Prolog-style theorem proving,” _Computational Linguistics_, 21: 281–320.
-* Smolensky, P., 1988, “On the proper treatment of connectionism,” _The Behavioral and Brain Sciences_, 11: 1–23.
+* Reichenbach, H., 1947, *Elements of Symbolic Logic*, New York: MacMillan.
+* Rich, C. and C.L. Sidner, 1998, “COLLAGEN: A collaboration manager for software interface agents,” *User Modeling and User-Adapted Interaction*, 8(3–4): 315–350.
+* Robinson, D.N., 2007, *Consciousness and Mental Life*, New York, NY: Columbia University Press.
+* Rumelhart, D.E., P.H. Lindsay, and D.A. Norman, 1972, “A process model for long-term memory,” in E. Tulving and W. Donaldson, *Organization and Memory*, New York: Academic Press, 197–246.
+* Rumelhart, D.E. and J. McClelland, 1986, *Parallel Distributed Processing: Explorations in the Microstructure of Cognition*, Cambridge, MA: MIT Bradford Books.
+* Salton, G., 1989, *Automatic Text Processing: The Transformation, Analysis and Retrieval of Information by Computer*, Boston, MA: Addison-Wesley.
+* Scha, R., 1981, “Distributive, collective and cumulative quantification,” in J. Groenendijk, T. Janssen, and M. Stokhof (eds.), *Formal Methods in the Study of Language*, Amsterdam: Mathematical Centre Tracts.
+* Schank, R.C. and R.P. Abelson, 1977, *Scripts, Plans, Goals and Understanding*, Hillsdale, NJ: Lawrence Erlbaum.
+* Schank, R.C. and K.M. Colby, 1973, *Computer Models of Thought and Language*, San Francisco: W.H. Freeman and Co.
+* Schank, R.C. and C.K. Riesbeck, 1981, *Inside Computer Understanding*, Hillsdale, NJ: Lawrence Erlbaum.
+* Scheutz, M., R. Cantrell, and P. Schermerhorn, 2011 “Toward human-like task-based dialogue processing for HRI,” *AI Magazine* 32(4): 77–84.
+* Schoenmackers, S., J. Davis, O. Etzioni, and D.S. Weld, 2010, “Learning first-order Horn clauses from Web text,” in *Proceedings of the Conference on Empirical Methods in Natural Language Processing* (EMNLP 2010), MIT, MA, Oct. 9–11. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Schoenmackers et al. available online (pdf)](http://aclweb.org/anthology/D/D10/D10-1106.pdf)]
+* Schubert, L.K., 2000, “The situations we talk about”, in J. Minker (ed.), *Logic-Based Artificial Intelligence*, Dortrecht: Kluwer, 407–439.
+* –––, 2007, “Implicit Skolemization: efficient reference to dependent entities,” *Research on Language and Computation* 5, April, (special volume on Binding Theory, edited by A. Butler, E. Keenan, J. Mattausch and C.-C. Shan): 69-86.
+* Schubert, L.K. and F.J. Pelletier, 1982, “From English to logic: Context-free computation of ‘conventional’ logical translations”, *American Journal Computational Linguistics*, 8: 27–44; reprinted in B.J. Grosz, K. Sparck Jones, and B.L. Webber (eds.), 1986, *Readings in Natural Language Processing*, Los Altos, CA: Morgan Kaufmann, 293–311.
+* Schubert, L.K. and M. Tong, 2003, “Extracting and evaluating general world knowledge from the Brown Corpus,” in *Proceedings of the HLT-NAACL Workshop on Text Meaning*, Edmonton, Alberta, May 31. Stroudsburg, PA: Association for Computational Linguistics (ACL), 7–13. \[[Schubert and Tong 2003 available online (pdf)](http://aclweb.org/anthology/W/W03/W03-0902.pdf)]
+* Searle, J., 1969, *Speech Acts*, Cambridge, UK: Cambridge University Press.
+* Sebestyen, G.S., 1962, *Decision-Making Processes in Pattern Recognition*, New York: Macmillan.
+* Sha, F. and F. Pereira, 2003, “Shallow parsing with conditional random fields,” *Human Language Technology Conference* (HLT-NAACL 2003), May 27 – June 1, Edmonton, Canada. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Sha and Pereira 2003 available online (pdf)](http://aclweb.org/anthology/N/N03/N03-1028.pdf)]
+* Singh, P., T. Lin, E.T. Mueller, G. Lim, T. Perkins, and W.l. Zhu, 2002, “Open Mind Common Sense: Knowledge acquisition from the general public,” in *Proceedings of the 1st International Conference on Ontologies, Databases, and Applications of Semantics for Large Scale Information Systems* (ODBASE 2002), Irvine, California, October 29–31. Lecture Notes in Computer Science, Volume 2519, New York: Springer, pp. 1223–1237.
+* Smith, R.W., D.R. Hipp, and A.W. Biermann, 1995, “An architecture for voice dialogue systems based on Prolog-style theorem proving,” *Computational Linguistics*, 21: 281–320.
+* Smolensky, P., 1988, “On the proper treatment of connectionism,” *The Behavioral and Brain Sciences*, 11: 1–23.
 * Smolensky, P., G. Legendre, and Y. Miyata, 1992, “Principles for an integrated connectionist and symbolic theory of higher cognition,” Technical Report CU-CS-600-92, Computer Science Department, University of Colorado, Boulder, CO.
-* Snow, R., B. O'Connor, D. Jurafsky, and A.Y. Ng, 2008, “Cheap and fast—but is it good? Evaluating non-expert annotations for natural language tasks,” in _Proceedings of Conference on Empirical Methods in Natural Language Processing_ (EMNLP 2008), Waikiki, Honolulu, Oct. 25–27. Stroudsburg, PA: Association for Computational Linguistics (ACL), 254–263. \[[Snow et al. 2008 available online (pdf)](http://aclweb.org/anthology/D/D08/D08-1027.pdf)]
-* Steedman, Mark, 2007, “Presidential Address to the 45th Annual Meeting of the ACL”, Prague, June 2007. Also printed in 2008, “On becoming a discipline”, _Computational Linguistics_, 34(1): 137–144. \[[Steedman 2007 \[2008\] available online](http://www.mitpressjournals.org/toc/coli/34/1)]
-* Sun, R., 2001, “Hybrid systems and connectionist implementationalism” (also listed as 2006, “Connectionist implementationalism and hybrid systems,”), in L. Nadel (ed.) _Encyclopedia of Cognitive Science_, London, UK: MacMillan.
-* Tenenbaum, J. B., C. Kemp, T.L. Griffiths, and N.D. Goodman, 2011, “How to grow a mind: Statistics, structure, and abstraction,” _Science_, 331: 1279–1285.
-* Thompson, F.B., P.C. Lockermann, B.H. Dostert, and R. Deverill, 1969, “REL: A rapidly extensible language system,” in _Proceedings of the 24th ACM National Conference_, New York: ACM Digital Library, pp. 399–417.
-* Thompson, F.B. and B.H. Thompson, 1975, “Practical natural language processing: The REL system as prototype,” in M. Rubinoff and M.C. Yovits (eds.), _Advances in Computers_, vol. 13, New York: Academic Press, 109–168.
-* Turney, P.D., 2008, “The Latent Relation Mapping Engine: algorithm and experiments,” _Journal of Artificial Intelligence Research_, 33: 615–655.
-* Van Durme, B., P. Michalak, and L.K. Schubert, 2009, “Deriving generalized knowledge from corpora using WordNet abstraction”, _12th Conference of the European Chapter of the Association for Computational Linguistics_ (EACL-09), Athens, Greece, Mar. 30–Apr. 3. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Van Durme, Michalak and Schubert 2009 available online (pdf)](http://aclweb.org/anthology/E/E09/E09-1092.pdf)]
-* Veale, T. and Y. Hao, 2008, “A fluid knowledge representation for understanding and generating creative metaphors,” _The 22nd International Conference on Computational Linguistics_ (COLING 2008), Manchester, UK, Aug. 18–22. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 945–952. \[[Veale and Hao 2008 available online (pdf)](http://aclweb.org/anthology/C/C08/C08-1119.pdf)]
-* Vijay-Shankar, K. and D.J. Weir, 1994, “Parsing some constrained grammar formalisms,” _Computational Linguistics_, 19(4): 591–636.
-* von Ahn, L., M. Kedia, and M. Blum, 2006, “Verbosity: A game for collecting common-sense knowledge,” in R. Grinter, T. Rodden, P. Aoki, E. Cutrell, R. Jeffries, and G. Olson (eds.), _Proceedings of the SICHI Conference on Human Factors in Computing Systems_ (CHI 2006), Montreal, Canada, April 22–27. New York: ACM Digital Library, pp. 75–78.
-* Weischedel, R.M. and N.K. Sondheimer, 1983, “Meta-rules as a basis for processing ill-formed input,” _American Journal of Computational Linguistics_, 9(3–4): 161–177.
-* Widdows, D., 2004, _Geometry and Meaning_, Stanford, CA: CSLI Publications.
-* Wilks, Y., 1978, “Making preferences more active,” _Artificial Intelligence_, 11(3): 197–223; also in N.V. Findler (ed.), 1979, _Associative Networks: Representation and Use of Knowledge_, Orlando, FL: Academic Press, 239–266.
-* –––, 2010, “Is a companion a distinctive kind of relationship with a machine?” in _Proceedings of the 2010 Workshop on Companionable Dialogue Systems_, (CDS ‘10), Uppsala, Sweden. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 13–18. \[[Wilks 2010 available online (pdf)](http://aclweb.org/anthology/W/W10/W10-27.pdf)]
-* Winograd, T., 1972, _Understanding Natural Language_, New York: Academic Press.
+* Snow, R., B. O'Connor, D. Jurafsky, and A.Y. Ng, 2008, “Cheap and fast—but is it good? Evaluating non-expert annotations for natural language tasks,” in *Proceedings of Conference on Empirical Methods in Natural Language Processing* (EMNLP 2008), Waikiki, Honolulu, Oct. 25–27. Stroudsburg, PA: Association for Computational Linguistics (ACL), 254–263. \[[Snow et al. 2008 available online (pdf)](http://aclweb.org/anthology/D/D08/D08-1027.pdf)]
+* Steedman, Mark, 2007, “Presidential Address to the 45th Annual Meeting of the ACL”, Prague, June 2007. Also printed in 2008, “On becoming a discipline”, *Computational Linguistics*, 34(1): 137–144. \[[Steedman 2007 \[2008\] available online](http://www.mitpressjournals.org/toc/coli/34/1)]
+* Sun, R., 2001, “Hybrid systems and connectionist implementationalism” (also listed as 2006, “Connectionist implementationalism and hybrid systems,”), in L. Nadel (ed.) *Encyclopedia of Cognitive Science*, London, UK: MacMillan.
+* Tenenbaum, J. B., C. Kemp, T.L. Griffiths, and N.D. Goodman, 2011, “How to grow a mind: Statistics, structure, and abstraction,” *Science*, 331: 1279–1285.
+* Thompson, F.B., P.C. Lockermann, B.H. Dostert, and R. Deverill, 1969, “REL: A rapidly extensible language system,” in *Proceedings of the 24th ACM National Conference*, New York: ACM Digital Library, pp. 399–417.
+* Thompson, F.B. and B.H. Thompson, 1975, “Practical natural language processing: The REL system as prototype,” in M. Rubinoff and M.C. Yovits (eds.), *Advances in Computers*, vol. 13, New York: Academic Press, 109–168.
+* Turney, P.D., 2008, “The Latent Relation Mapping Engine: algorithm and experiments,” *Journal of Artificial Intelligence Research*, 33: 615–655.
+* Van Durme, B., P. Michalak, and L.K. Schubert, 2009, “Deriving generalized knowledge from corpora using WordNet abstraction”, *12th Conference of the European Chapter of the Association for Computational Linguistics* (EACL-09), Athens, Greece, Mar. 30–Apr. 3. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Van Durme, Michalak and Schubert 2009 available online (pdf)](http://aclweb.org/anthology/E/E09/E09-1092.pdf)]
+* Veale, T. and Y. Hao, 2008, “A fluid knowledge representation for understanding and generating creative metaphors,” *The 22nd International Conference on Computational Linguistics* (COLING 2008), Manchester, UK, Aug. 18–22. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 945–952. \[[Veale and Hao 2008 available online (pdf)](http://aclweb.org/anthology/C/C08/C08-1119.pdf)]
+* Vijay-Shankar, K. and D.J. Weir, 1994, “Parsing some constrained grammar formalisms,” *Computational Linguistics*, 19(4): 591–636.
+* von Ahn, L., M. Kedia, and M. Blum, 2006, “Verbosity: A game for collecting common-sense knowledge,” in R. Grinter, T. Rodden, P. Aoki, E. Cutrell, R. Jeffries, and G. Olson (eds.), *Proceedings of the SICHI Conference on Human Factors in Computing Systems* (CHI 2006), Montreal, Canada, April 22–27. New York: ACM Digital Library, pp. 75–78.
+* Weischedel, R.M. and N.K. Sondheimer, 1983, “Meta-rules as a basis for processing ill-formed input,” *American Journal of Computational Linguistics*, 9(3–4): 161–177.
+* Widdows, D., 2004, *Geometry and Meaning*, Stanford, CA: CSLI Publications.
+* Wilks, Y., 1978, “Making preferences more active,” *Artificial Intelligence*, 11(3): 197–223; also in N.V. Findler (ed.), 1979, *Associative Networks: Representation and Use of Knowledge*, Orlando, FL: Academic Press, 239–266.
+* –––, 2010, “Is a companion a distinctive kind of relationship with a machine?” in *Proceedings of the 2010 Workshop on Companionable Dialogue Systems*, (CDS ‘10), Uppsala, Sweden. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 13–18. \[[Wilks 2010 available online (pdf)](http://aclweb.org/anthology/W/W10/W10-27.pdf)]
+* Winograd, T., 1972, *Understanding Natural Language*, New York: Academic Press.
 * Woods, W.A., R.M. Kaplan, B.L. Nash-Webber, 1972, “The Lunar Sciences Natural Language Information System: Final Report”, BBN Report No. 2378, Bolt Beranek and Newman Inc., Cambridge, MA. (Available from NTIS as N72-28984.)
-* Yarowsky, D., 1992, “Word-sense disambiguation using statistical models of Roget's categories trained on large corpora,” in _Proceedings of the 14th International Conference on Computational Linguistics_ (COLING-92), Nantes, France. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 454–60. \[[Yarowsky 1992 available online (pdf)](http://aclweb.org/anthology/C/C92/C92-2070.pdf)]
-* Younger, D.H., 1967, “Recognition and parsing of context-free languages in time _n_3,” _Information and Control_, 10(2): 189–208.
-* Zettlemoyer, L.S. and M. Collins, 2007, “On-line learning of relaxed CCG grammars for parsing to logical form,” in _Proceedings of the Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning_ (EMNLP-CoNLL 2007), Prague, June 28–30. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Zettlemoyer and Collins 2007 available online (pdf)](http://aclweb.org/anthology/D/D07/D07-1071.pdf)]
+* Yarowsky, D., 1992, “Word-sense disambiguation using statistical models of Roget's categories trained on large corpora,” in *Proceedings of the 14th International Conference on Computational Linguistics* (COLING-92), Nantes, France. Stroudsburg, PA: Association for Computational Linguistics (ACL), pp. 454–60. \[[Yarowsky 1992 available online (pdf)](http://aclweb.org/anthology/C/C92/C92-2070.pdf)]
+* Younger, D.H., 1967, “Recognition and parsing of context-free languages in time _n_3,” *Information and Control*, 10(2): 189–208.
+* Zettlemoyer, L.S. and M. Collins, 2007, “On-line learning of relaxed CCG grammars for parsing to logical form,” in *Proceedings of the Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning* (EMNLP-CoNLL 2007), Prague, June 28–30. Stroudsburg, PA: Association for Computational Linguistics (ACL). \[[Zettlemoyer and Collins 2007 available online (pdf)](http://aclweb.org/anthology/D/D07/D07-1071.pdf)]
 
 ## Academic Tools
 
@@ -1236,4 +1234,4 @@ NL 用户界面的主题涵盖了各种各样的 NL 应用，从最小程度依�
 The author and editors would like to thank an anonymous external referee for the time he spent and the advice he gave us for improving the presentation in this entry.
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
-[Lenhart Schubert](http://www.cs.rochester.edu/\~schubert/) <[_schubert@cs.rochester.edu_](mailto:schubert%40cs%2erochester%2eedu)>
+[Lenhart Schubert](http://www.cs.rochester.edu/\~schubert/) <[*schubert@cs.rochester.edu*](mailto:schubert%40cs%2erochester%2eedu)>

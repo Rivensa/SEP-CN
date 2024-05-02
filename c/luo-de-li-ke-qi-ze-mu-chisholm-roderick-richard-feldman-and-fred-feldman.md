@@ -1,10 +1,8 @@
 # 罗德里克·奇泽姆 Chisholm, Roderick (Richard Feldman and Fred Feldman)
 
-_首次发表于 2008 年 12 月 8 日星期一；实质性修订于 2023 年 10 月 27 日星期五_
+*首次发表于 2008 年 12 月 8 日星期一；实质性修订于 2023 年 10 月 27 日星期五*
 
 罗德里克·奇泽姆被广泛认为是 20 世纪最具创造力、多产和有影响力的美国哲学家之一。奇泽姆从事认识论、形而上学、伦理学、语言哲学、心灵哲学等领域的研究。他的工作构成了一个宏大的哲学体系，有点类似于莱布尼茨或笛卡尔的风格。奇泽姆不断完善自己的观点，有时甚至彻底修改。他是一位多产的作家。他在\[LLP]中的著作目录包括 320 项引用，其中包括期刊文章、评论和书籍。他在认识论方面的工作单独来看可能已经足以确立他作为美国哲学界杰出人物的地位。然而，他在形而上学和伦理学的几个领域也做出了重要贡献。因此，在简短的文章中要全面介绍奇泽姆的体系是不可能的。因此，在本文中，我们尝试呈现的只是对奇泽姆最独特和重要观点的简要描述。我们并不声称在任何领域呈现他的“最终、权威观点”。我们也不讨论关于他观点的批判性二手文献。
-
-
 
 ***
 
@@ -46,15 +44,15 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 在\[TK1]（22）中，罗德里克·奇泽姆提出了对认识评估中一些核心术语的定义：
 
-> _p_对于_S_在_t_时是_合理的_ =df_相信_p_对于_S_在_t_时比不持有_p\*更合理。
+> *p_对于_S_在_t_时是_合理的* =df_相信_p_对于_S_在_t_时比不持有_p\*更合理。
 
 %%
 
-> _p_ 在 _df_ 时对于 _S_ 是可以接受的，但是在 _t_ 时坚持 _p_ 对于 _S_ 不比相信 _p_ 更合理。
+> *p* 在 *df* 时对于 *S* 是可以接受的，但是在 *t* 时坚持 *p* 对于 *S* 不比相信 *p* 更合理。
 
 %%
 
-> _p_ 在 _t_ = _df_ 时对 _S_ 是 _显而易见_ 的（i）_p_ 在 _t_ 时对 _S_ 是合理的，并且（ii）不存在命题 _q_，使得 _S_ 在 _t_ 时相信 _q_ 比相信 _p_ 更合理。
+> *p* 在 *t* = *df* 时对 *S* 是 *显而易见* 的（i）*p* 在 *t* 时对 *S* 是合理的，并且（ii）不存在命题 *q*，使得 *S* 在 *t* 时相信 *q* 比相信 *p* 更合理。
 
 罗德里克·奇泽姆认为这些概念之间存在逻辑关系。因此，例如，他说，如果某事是显而易见的，那么它至少是合理的。根据奇泽姆，了解命题的一个关键必要条件是该命题是显而易见的。在他的一些早期作品中，奇泽姆将知识分析为显而易见的真实信念。在随后的作品中，他针对盖蒂问题对此进行了修改。
 
@@ -72,11 +70,11 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 > (C) 如果存在一个可感知的特征_F_，使得_S_相信自己感知到某物具有_F_，那么_S_明显感知到自己正在感知到具有_F_的东西，并且存在具有_F_的东西。 (\[TK1], 47)
 
-原则 (C) 仅适用于 _F_ 是一个可感知的特征的情况。这将是一个适合于感官之一的特征，或者是一个共同的可感知特征。但即使受到如此限制，(C) 似乎是一个非常强大的原则，因为它似乎暗示着我们关于外部世界对象的一些信念是显而易见的 — 这将足以构成奇泽姆当时接受的知识分析所需的知识。
+原则 (C) 仅适用于 *F* 是一个可感知的特征的情况。这将是一个适合于感官之一的特征，或者是一个共同的可感知特征。但即使受到如此限制，(C) 似乎是一个非常强大的原则，因为它似乎暗示着我们关于外部世界对象的一些信念是显而易见的 — 这将足以构成奇泽姆当时接受的知识分析所需的知识。
 
 然而，在接下来的一页中，奇泽姆对 (C) 表达了一些严重的保留意见。他提到了与初步义务陈述类似的比喻。这些义务可以被推翻。后来的言论表明，奇泽姆原本打算让 (C) 被理解为仅仅是初步证据的原则。因此，真正的原则似乎是：
 
-(C′) 如果存在一个明显的特征_F_，使得_S_相信他感知到某物具有_F_，_而这种信念并非发生在某种更为重要的更广泛情境的一部分_，那么对_S_来说，他正在感知某物具有_F_，以及存在某物具有_F_，是_显而易见_的。
+(C′) 如果存在一个明显的特征_F_，使得_S_相信他感知到某物具有_F_，*而这种信念并非发生在某种更为重要的更广泛情境的一部分*，那么对_S_来说，他正在感知某物具有_F_，以及存在某物具有_F_，是_显而易见_的。
 
 原则(C′)比原则(C)要保守得多。如果我们思考一下什么情况会构成原则(C)的反例，就会发现这一点。想象一个这样的情况：一个人非常清楚地知道自己刚刚服用了一些致幻药物。假设他知道这些药物的典型效果。假设他有充分理由相信不存在独角兽，但现在他相信自己正在感知某物是一只独角兽。
 
@@ -84,15 +82,15 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 接着是关于记忆的三个原则：
 
-(D) If _S_ believes he remembers having perceived something to have _F_, then the proposition that he does remember having perceived something to have _F_, as well as the proposition that he did perceive that something had _F_, and the proposition that something was _F_, is _acceptable_ for _S_.
+(D) If *S* believes he remembers having perceived something to have *F*, then the proposition that he does remember having perceived something to have *F*, as well as the proposition that he did perceive that something had *F*, and the proposition that something was *F*, is *acceptable* for *S*.
 
 %%
 
-(E) If _F_ is a sensible characteristic, and _S_ believes he remembers having perceived something to have _F_, then the proposition that he does remember having perceived something to have _F_, as well as the proposition that he did perceive that something had _F_, and the proposition that something was _F_, is _reasonable_ for _S_.
+(E) If *F* is a sensible characteristic, and *S* believes he remembers having perceived something to have *F*, then the proposition that he does remember having perceived something to have *F*, as well as the proposition that he did perceive that something had *F*, and the proposition that something was *F*, is *reasonable* for *S*.
 
 %%
 
-如果存在一个自我呈现的状态 _P_，使得 _S_ 相信他记得曾经在 _P_ 中，那么他记得自己曾经在 _P_ 中的命题，以及他曾经在 _P_ 中的命题，对于 _S_ 来说是_合理的_。
+如果存在一个自我呈现的状态 *P*，使得 *S* 相信他记得曾经在 *P* 中，那么他记得自己曾经在 *P* 中的命题，以及他曾经在 *P* 中的命题，对于 *S* 来说是_合理的_。
 
 这些原则都无法解释我们如何对过去有所了解，因为这些原则都不意味着关于过去的信念可以上升到_显而易见_的地位 — 根据奇泽姆的观点，一个人只有当某个事实对他来说是显而易见时，他才能知道这个事实。
 
@@ -114,7 +112,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 评论家可能会抱怨说，这套原则不完整且略显粗略。(事实上，尽管有关记忆的原则，但在这个体系中甚至没有解释某人如何能够对过去有所了解。) 罗德里克·奇泽姆 只是给了我们可能回答经验知识如何可能的问题的草图。但它揭示了他思想中的基础主义、连贯主义、奇泽姆式认识原则主义结构。所有后来的变体都保留了这些特征。这些原则最具特色的地方在于它们不是更一般的逻辑原则的实例，罗德里克·奇泽姆 也没有声称它们之所以成立是因为任何关于因果关系或可靠性的事实。它们被呈现为基础的认识论事实。
 
-## 4. 认识论 II —— 其他认识论学说。
+## 4. 认识论 II —— 其他认识论学说
 
 根据罗德里克·奇泽姆（Chisholm），认识论包括苏格拉底式的探究问题“我们能知道什么？”和“知识的标准是什么？”他认为，任何试图回答这些问题的人都会面临一个难题。似乎要回答第一个问题，就需要一个标准来区分已知和未知的事物。换句话说，需要回答第二个问题。但他认为，要回答第二个问题，就需要列出自己所知道的事物，以便确定区分知识和其对立面的特征。换句话说，需要回答第一个问题。奇泽姆担心，缺乏这样的答案，人们将无法确信任何提出的知识标准是否正确。奇泽姆称那些认为自己有答案可以用来回答第一个问题的人为“方法主义者”，认为自己有答案可以用来回答第二个问题的人为“特指主义者”。奇泽姆本人是特指主义者，但他声称自己没有论据反驳方法主义，也没有论据反驳认为在没有对另一个问题事先回答的情况下，两个问题都无法得到答案的观点。在许多地方，他说标准问题只能通过迂回地提出问题来回答。
 
@@ -130,7 +128,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 奇泽姆指出，这种观点与前分析数据存在严重冲突，因为如果认真对待，这意味着没有任何东西在感知，或感受疼痛和快乐。他继续声称，休谟支持捆绑理论的论据基于一些证据，这些证据预设（与该理论相反）存在一个正在感知和思考的对象。奇泽姆指出，休谟提到了一些场合，_他_进入他所称之为自己的东西；休谟说在这些场合，_他_偶然发现某种特定的感知；他说_他_从未注意到除了感知之外的任何东西。做所有这些进入、跌倒和未注意到的事情的是谁或什么？它是某个单一的东西吗？它在进入、跌倒和未注意到的时间内持续存在吗？如果是的话，那么这正是休谟似乎担心拒绝的那个存在。
 
-许多哲学家支持了某些形式的唯物主义。根据其中一些理论，每个人都应该被视为他或她的身体。身体是物理和心理属性的承载者。只要一个人的身体存在，这个人就会持续存在。然而，奇泽姆对这类理论总感到不安。他最独特的反对线之一涉及使用一些形而上学的区别。考虑一艘通过不断更换零件而持续存在的船。首先更换一块木板，然后又一块，直到一段时间后，船的许多原始部件不再存在。奇泽姆通过描述每次船存在时都是因为当时存在着某个特定的零件集合来描述这种情况。在某一时刻存在的零件集合是一个“_ens per se_” —— 它以自身的方式存在；但船是一个“_ens per alio_” —— 它存在是因为其他一些东西存在的缘故。不同的零件集合在不同的时间代表或替代船。在某些情况下，一个事物在某个时间具有某种属性是因为其他时间发生的事实。例如，一个人可能在某个时间是寡妇，但那是因为早些时候发生的婚姻和死亡。其他属性不是以这种方式根植于其他时间的事实。关于那些不是根植于拥有它们的时间之外的事实的属性，奇泽姆对于那些以自身方式存在和那些因其他事物而存在的事物之间的差异提出了有趣的主张。船（一个_ens per alio_）在某些时间具有属性，是因为它的替身（_entia per se_）在那些时间具有这些属性。
+许多哲学家支持了某些形式的唯物主义。根据其中一些理论，每个人都应该被视为他或她的身体。身体是物理和心理属性的承载者。只要一个人的身体存在，这个人就会持续存在。然而，奇泽姆对这类理论总感到不安。他最独特的反对线之一涉及使用一些形而上学的区别。考虑一艘通过不断更换零件而持续存在的船。首先更换一块木板，然后又一块，直到一段时间后，船的许多原始部件不再存在。奇泽姆通过描述每次船存在时都是因为当时存在着某个特定的零件集合来描述这种情况。在某一时刻存在的零件集合是一个“*ens per se*” —— 它以自身的方式存在；但船是一个“*ens per alio*” —— 它存在是因为其他一些东西存在的缘故。不同的零件集合在不同的时间代表或替代船。在某些情况下，一个事物在某个时间具有某种属性是因为其他时间发生的事实。例如，一个人可能在某个时间是寡妇，但那是因为早些时候发生的婚姻和死亡。其他属性不是以这种方式根植于其他时间的事实。关于那些不是根植于拥有它们的时间之外的事实的属性，奇泽姆对于那些以自身方式存在和那些因其他事物而存在的事物之间的差异提出了有趣的主张。船（一个_ens per alio_）在某些时间具有属性，是因为它的替身（*entia per se*）在那些时间具有这些属性。
 
 一个著名的古老论点揭示了关于船只在时间上身份的重要性。假设一艘船（称之为“忒修斯 1”）在很久以前的某个特定时间由一定数量的零件构成。假设那个集合中的零件逐渐被更新的零件所替换。最终，我们发现自己有了一艘船（“忒修斯 2”），这是所有这些逐渐替换的结果。它是忒修斯 1 的明显“后代”。然而，假设被丢弃的零件都被保存，最终被重新组装以构成一艘船（称之为“忒修斯 3”）。假设忒修斯 3 包含构成最初船只忒修斯 1 的所有零件且仅这些零件。由于忒修斯 3 与忒修斯 1 在零件上是一一对应的，人们倾向于将忒修斯 3 与忒修斯 1 等同起来。但由于忒修斯 2 是通过一系列逐个较小的替换从忒修斯 1 中产生的，人们也倾向于将忒修斯 2 与忒修斯 1 等同起来。我们不能一致地顺从这两种倾向，因为显然忒修斯 2 与忒修斯 3 是不同的。奇泽姆建议，世界上的事实使这种情况有些不确定。如果在现实世界中出现这样的情况，我们将把决定权交给法庭，以确定哪艘船是最初船只的合法继承者。如果法院裁定忒修斯 2 是忒修斯 1 的“真正”后代，那么我们将不得不出于一切实际目的接受这个结论。
 
@@ -164,7 +162,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 因此，我们遇到了一个问题。当我们说一个人本可以做出不同选择时，我们是什么意思呢？奇泽姆首先介绍了一些概念，这些概念将作为他阐述的概念原语。其中第一个是奇泽姆称之为“因果贡献”的概念。如果一个事件有助于导致另一个事件发生，那么我们就有了一种熟悉的因果贡献。但在其他情况下，导致某个事件发生的不是一个事件，而是一个人（1966 年，284 页）。如果有的话，一个人导致某个事件发生的情况将被描述为“主体因果”。奇泽姆声称，在早些时代，哲学家们可能会认为主体因果是一个熟悉的概念；他们可能会假定事件因果是由此来解释的。他意识到在他撰写这篇文章时，这些概念之间的优先关系可能已经颠倒。
 
-罗德里克·奇泽姆 使用的第二个概念是“承担”或“努力”的概念。这是一个不可简化的目的论概念。它引入了目的或目标的概念。奇泽姆利用了这个未定义的表达：“_S_ 为了让 _A_ 发生而努力，从而使 _B_ 发生”。例如，假设一个人拨打某个电话号码，意图让洛杉矶的某部电话响铃。让史密斯为这个人；让 _B_ 为史密斯拨打电话的情形；让 _A_ 为电话在洛杉矶响铃的情形。那么使用奇泽姆未定义的技术术语，可以说史密斯在努力让 _A_ 发生的过程中使 _B_ 发生。
+罗德里克·奇泽姆 使用的第二个概念是“承担”或“努力”的概念。这是一个不可简化的目的论概念。它引入了目的或目标的概念。奇泽姆利用了这个未定义的表达：“*S* 为了让 *A* 发生而努力，从而使 *B* 发生”。例如，假设一个人拨打某个电话号码，意图让洛杉矶的某部电话响铃。让史密斯为这个人；让 *B* 为史密斯拨打电话的情形；让 *A* 为电话在洛杉矶响铃的情形。那么使用奇泽姆未定义的技术术语，可以说史密斯在努力让 *A* 发生的过程中使 *B* 发生。
 
 从史密斯努力让电话响铃这一事实，并不意味着电话实际上响了。也许电话已经摘机了。因此，努力具有某种故意的方面。此外，假设洛杉矶的电话实际上是区号内唯一的紫色电话。即使史密斯拨号是为了让那部电话响铃，也不能推断他是为了让区号内唯一的紫色电话响铃而拨号。也许史密斯不知道电话的颜色；也许他不在乎让紫色电话响铃。因此，努力的概念具有进一步的故意特征。
 
@@ -172,7 +170,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 在某些情况下，一个人可能有自由去努力实现某种状态的发生，而且如果他努力去实现，他会成功。这些事情直接在一个人的掌控之中。奇泽姆指出，他因此使能力的概念“在宪法上有点靠不住”。
 
-在其他情况下，一个人可能并不能直接控制某种状态，但可能存在一系列事物 <_p_, _q_, _r_, _s_>，使得他可以直接控制 _p_，如果他实现了 _p_，那么他就可以直接控制 _q_，如果...他就可以直接控制 _s_。在这种情况下，这个人间接地控制了 _s_。
+在其他情况下，一个人可能并不能直接控制某种状态，但可能存在一系列事物 <*p*, *q*, *r*, *s*>，使得他可以直接控制 *p*，如果他实现了 *p*，那么他就可以直接控制 *q*，如果...他就可以直接控制 *s*。在这种情况下，这个人间接地控制了 *s*。
 
 有了这些概念，罗德里克·奇泽姆准备回答他最初提出的问题。再假设某个人今天早上没有去波士顿。说他本可以做出不同选择 —— 也就是说他本可以今天早上去波士顿 —— 只是说截至今天早上，去波士顿要么直接要么间接地在他的控制之下。奇泽姆声称 —— 这种解释“他本可以做出不同选择”的方式似乎颇具说服力 —— 这解释了那些相信自由意志的人在说某人本可以做出不同选择时心中所想的。此外，由于各种定义上的技术细节，显然罗德里克·奇泽姆对“他本可以做出不同选择”的含义的阐释对于那些对于以上所述理论构成困难的所有情况都是合适的。
 
@@ -205,7 +203,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 奇泽姆不希望将事实定义为可能发生的事情，因为他认为其中一些事实不可能发生。因此，他提议改为说，如果可能存在某人接受“p”，那么“p”就是一个事实。即使“p”不可能发生，仍然可能有人接受它。正如杰格文·金（Kim 1979）指出的那样，奇泽姆试图定义“事实”有些奇怪，因为这应该是他本体论中的一个基本项目。此外，正如金也指出的那样，这个定义的价值存疑，因为关于我们“接受”的项目的性质存在相当大的分歧。有些人认为它们是句子；其他人可能认为它们是某种心理项目。奇泽姆式的事实可能旨在既不是语言的也不是心理的。
 
-对于罗德里克·奇泽姆来说，_蕴涵_不仅仅是一个逻辑概念。如果_p_蕴涵_q_，那么不仅_p_在逻辑上暗示_q_，而且必须是这样，无论谁接受_p_也必须接受_q_。奇泽姆利用这种独特的“故意性”蕴涵概念来解释事实的同一条件。当_p_和_q_是事实时，只有当_p_蕴涵_q_且_q_蕴涵_p_时，_p_才是与_q_相同的事实。这解释了为什么奇泽姆说 _《马密恩的作者被封爵》_ 这一事实与 _《威弗利的作者被封爵》_ 这一事实是不同的，即使威弗利的作者碰巧是马密恩的作者。因此，对于奇泽姆来说，事实是非常细粒度的实体。
+对于罗德里克·奇泽姆来说，*蕴涵_不仅仅是一个逻辑概念。如果_p_蕴涵_q*，那么不仅_p_在逻辑上暗示_q_，而且必须是这样，无论谁接受_p_也必须接受_q_。奇泽姆利用这种独特的“故意性”蕴涵概念来解释事实的同一条件。当_p_和_q_是事实时，只有当_p_蕴涵_q_且_q_蕴涵_p_时，_p_才是与_q_相同的事实。这解释了为什么奇泽姆说 *《马密恩的作者被封爵》* 这一事实与 *《威弗利的作者被封爵》* 这一事实是不同的，即使威弗利的作者碰巧是马密恩的作者。因此，对于奇泽姆来说，事实是非常细粒度的实体。
 
 考虑由句子“有人在走路”表达的事实。奇泽姆想要表达的是，每当有人走路时，这种事实就会发生，并且在没有人走路时就不会发生。其他事实不是这样的。对于它们来说，有时发生有时不发生是不可能的。奇泽姆声称，这为本体论的简化提供了机会。我们可以将_命题_定义为这种后一种事实——有时发生和有时不发生是不可能的。因此，_真_命题是发生的命题；_假_命题是不发生的命题。奇泽姆认为，我们可以理解逻辑原则是关于这些命题的。通过说一个_事实_是一个真命题，奇泽姆获得了另一种本体论简化。
 
@@ -226,7 +224,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 5. 事态（有些类似事件；有些类似命题；有些类似事实）
 6. 集合
 
-随着时间的推移，罗德里克·奇泽姆 对这幅图景感到不满。他认为，困难的一个主要来源是对“时间”的承诺。此外，尽管它们在本体论中占据着绝对核心的位置，但他开始对事实状态感到不安。他的一些担忧显然是由于与同事金在权的交谈而产生的，金在权已经发展出了一种不同的事件理论。根据金在权的理论，如果我们有一个合适的对象 _a_，属性 _F_，和时间 _t_，并且 _a_ 在 _t_ 时具有 _F_，那么就会有一个事件，_a_ 的 _在 t 时具有 F_。事件是物体在某个时间具有某种属性。
+随着时间的推移，罗德里克·奇泽姆 对这幅图景感到不满。他认为，困难的一个主要来源是对“时间”的承诺。此外，尽管它们在本体论中占据着绝对核心的位置，但他开始对事实状态感到不安。他的一些担忧显然是由于与同事金在权的交谈而产生的，金在权已经发展出了一种不同的事件理论。根据金在权的理论，如果我们有一个合适的对象 *a*，属性 *F*，和时间 *t*，并且 *a* 在 *t* 时具有 *F*，那么就会有一个事件，*a* 的 *在 t 时具有 F*。事件是物体在某个时间具有某种属性。
 
 在他的论文《没有时间的事件：本体论论文》（1990 年）中，罗德里克·奇泽姆提出了一种新的、甚至更为简约的本体论方案。正如标题所示，时间被放逐了。此外，事实状态消失了，被新类别“状态”取代。奇泽姆式的状态在某些方面类似于金姆式的事件。如果我们有一个合适的偶然存在的对象_a_，并且有一个合适的属性_F_，那么，如果_a_实际上具有_F_，那么就有状态_a_的_是 F_。这样的状态就是一个事件。如果_a_没有_F_，那么就没有这样的状态。不存在不发生的状态。
 
@@ -275,7 +273,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 ## 9. 罗德里克·奇泽姆 — “奇泽姆悖论”
 
-罗德里克·奇泽姆 的论文“通过可能世界的认同：一些问题”（1967b）是 1967 年新期刊 _Noûs_ 的第一期的主要文章。在那篇文章中，奇泽姆 提出了一个引发了大量讨论和辩论的论证。该论证的一个变体随后出现在奇泽姆 1973 年在美国形而上学协会的主席演讲“部分作为整体的必要性”中。这篇文章与 \[P\&O] 的附录 B 非常相似。这些论文中提出的难题已经被称为“奇泽姆 悖论”的版本（尽管必须指出，“奇泽姆 悖论”这个术语也被广泛认为是指下文第 11 节讨论的违背义务命令的问题）。
+罗德里克·奇泽姆 的论文“通过可能世界的认同：一些问题”（1967b）是 1967 年新期刊 *Noûs* 的第一期的主要文章。在那篇文章中，奇泽姆 提出了一个引发了大量讨论和辩论的论证。该论证的一个变体随后出现在奇泽姆 1973 年在美国形而上学协会的主席演讲“部分作为整体的必要性”中。这篇文章与 \[P\&O] 的附录 B 非常相似。这些论文中提出的难题已经被称为“奇泽姆 悖论”的版本（尽管必须指出，“奇泽姆 悖论”这个术语也被广泛认为是指下文第 11 节讨论的违背义务命令的问题）。
 
 罗德里克·奇泽姆在 1967b 年的论文中的目标是关于形而上学的观点的一个流行集合。许多哲学家 — 或许可以追溯到莱布尼茨 — 似乎在讨论必然性和可能性时预设了这些观点。中心主义信条是存在许多可能的世界。实际世界只是其中之一，其特点是这里发生的事情实际上就是发生的事情。说一个陈述是_真实的_ 就是说它在_实际世界_ 是真实的。说一个陈述是_可能的_ 就是说它在_某个可能的世界_ 是真实的。说一个陈述是必然的就是说它在_每一个可能的世界_ 是真实的。因此，我们有了一种关于 de dicto 模态性的解释。
 
@@ -285,7 +283,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 奇泽姆接着想象一系列世界，在这些世界中，亚当和挪亚逐渐交换他们名字中的字母。这个系列以一个完全“交换名字”的世界结束。在那个世界中，亚当被称为“挪亚”，挪亚被称为“亚当”。继续深入，奇泽姆想象一个世界_w\*\*n_，在那个世界中，亚当和挪亚交换了所有的性质，所以在_w\*\*n_中，亚当拥有挪亚在_w_1 中拥有的所有性质，而挪亚拥有亚当在_w_1 中拥有的所有性质。然后，奇泽姆提出一系列棘手的问题：
 
-我们应该说亚当（_w_1 中的）与挪亚（_w_1 中的）是同一人吗？我们应该说挪亚（_w\*\*n_中的）与亚当（_w_1 中的）是同一人吗？换句话说，是否存在一个_x_，使得_x_在_w_1 中是亚当，在_w\*\*n_中是挪亚，是否存在一个_y_，使得_y_在_w_1 中是挪亚，在_w\*\*n_中是亚当？我们该如何决定？...这两个亚当、两个挪亚和两个世界难以分辨吗？上帝可能有足够的理由创造_w_1 而不是_w\*\*n_吗？（3-4）
+我们应该说亚当（_w_1 中的）与挪亚（_w_1 中的）是同一人吗？我们应该说挪亚（*w\*\*n_中的）与亚当（*w_1 中的）是同一人吗？换句话说，是否存在一个_x*，使得_x_在_w_1 中是亚当，在_w\*\*n_中是挪亚，是否存在一个_y*，使得_y_在_w_1 中是挪亚，在_w\*\*n_中是亚当？我们该如何决定？...这两个亚当、两个挪亚和两个世界难以分辨吗？上帝可能有足够的理由创造_w_1 而不是_w\*\*n_吗？（3-4）
 
 奇泽姆扩展了这个例子。他指出，发生在亚当和挪亚身上的事情可能发生在任何人身上。假设一个人在一个世界中的“角色”由他在那里拥有的一组性质定义。我们可以说，一个可能世界_w\*\*s_是实际世界_w_1 的“角色交换世界”，只要在_w\*\*s_中扮演的角色与_w_1 中的角色完全相同，但至少有一些角色在_w\*\*s_中是由另一个人扮演的，而不是在_w_1 中扮演的那个人。因此，角色交换世界在除了扮演角色的个体的裸身份之外，与彼此和实际世界难以分辨。奇泽姆说：
 
@@ -295,7 +293,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 在《部分作为整体的本质》（1973 年）中，罗德里克·奇泽姆提出了一个类似结构的论点。然而，在这种情况下，奇泽姆的目标是一种他称之为“完全、无拘无束的部分本质主义”的信条。这个观点是，没有什么东西在本质上拥有它的部分 — 任何由部分构成的东西都可以由不同的部分构成。
 
-奇泽姆开始他的论证，勾勒了一些奇特的例子，然后转向一个熟悉的案例。他要求我们考虑一对桌子，_x_ 和 _y_。每张桌子都是由更小的部分组成的。就像在亚当和挪亚的情况下一样，奇泽姆想象了一系列小的变化。他在这里想象的不是性质的逐渐变化，而是部分的逐渐变化。首先，他描述了一个可能的世界，在这个世界中 _x_ 和 _y_ 交换了一个小部分。然后，他描述了更多的可能世界，在这些世界中更多的小部分被交换。最后，我们达到了一个可能的世界，在这个世界中 _x_ 和 _y_ 交换了它们所有的部分：实际上是 _x_ 的一切部分现在都成为了 _y_ 的一部分；实际上是 _y_ 的一切部分现在都成为了 _x_ 的一部分。
+奇泽姆开始他的论证，勾勒了一些奇特的例子，然后转向一个熟悉的案例。他要求我们考虑一对桌子，*x* 和 *y*。每张桌子都是由更小的部分组成的。就像在亚当和挪亚的情况下一样，奇泽姆想象了一系列小的变化。他在这里想象的不是性质的逐渐变化，而是部分的逐渐变化。首先，他描述了一个可能的世界，在这个世界中 *x* 和 *y* 交换了一个小部分。然后，他描述了更多的可能世界，在这些世界中更多的小部分被交换。最后，我们达到了一个可能的世界，在这个世界中 *x* 和 *y* 交换了它们所有的部分：实际上是 *x* 的一切部分现在都成为了 *y* 的一部分；实际上是 *y* 的一切部分现在都成为了 *x* 的一部分。
 
 这个例子让罗德里克·奇泽姆觉得困惑并不难理解。因为我们已经来到了这样一个世界，被确定为_x_的桌子由实际上构成_y_的所有部分组成；被确定为_y_的桌子由实际上构成_x_的所有部分组成。这个世界实际上是否与现实世界不同？有什么可能的依据表明由_x_部分组成的桌子是_y_？为什么那张桌子不是_x_？它在部分上与实际的_x_ 是无法区分的。
 
@@ -317,7 +315,7 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 奇泽姆更倾向于通过他伦理学中的一个基本概念来阐述关于对某些对象的某些情感反应的适当性的主张。这就是_要求_的概念。我们可以说，沉思那个对象_要求_产生那种情感反应，而不是说对某个对象有某种情感反应是正确的或适当的。有了这些概念，奇泽姆建议，我们可以定义伦理学的所有核心概念。
 
-说一个事物_A_比另一个事物_B_更本质上好，根据罗德里克·奇泽姆的观点，只是说，对于任何人_x_，_x_仅仅通过对_A_和_B_的思考，就要求_x_更喜欢_A_而不是_B_。考虑到石头的存在这一事实。当然，我们可能会因为石头的有用性而感到高兴，但是出于其本身而去热爱这种情况是不正确的。仅仅思考这种情况既不需要爱也不需要恨。它似乎是本质上中立的。一个本质上好的事物是比一个中立的事物更本质上好的事物；一个本质上坏的事物是这样的，一个本质上中立的事物比它更本质上好。因此，根据奇泽姆的观点，我们可以完全根据偏好和要求来定义内在的善、恶和中立。
+说一个事物_A_比另一个事物_B_更本质上好，根据罗德里克·奇泽姆的观点，只是说，对于任何人_x_，*x_仅仅通过对_A_和_B_的思考，就要求_x_更喜欢_A_而不是_B*。考虑到石头的存在这一事实。当然，我们可能会因为石头的有用性而感到高兴，但是出于其本身而去热爱这种情况是不正确的。仅仅思考这种情况既不需要爱也不需要恨。它似乎是本质上中立的。一个本质上好的事物是比一个中立的事物更本质上好的事物；一个本质上坏的事物是这样的，一个本质上中立的事物比它更本质上好。因此，根据奇泽姆的观点，我们可以完全根据偏好和要求来定义内在的善、恶和中立。
 
 在某些情况下，一个复杂的情况包含一些好的部分和一些坏的部分。我们可以给好的部分分配正数，给坏的部分分配负数，以表示它们各自的内在价值量。整个情况的内在价值可能仅仅是这些部分价值的总和。在这种情况下，奇泽姆会说好的部分的正价值被坏的部分的负价值“抵消”了。
 
@@ -337,21 +335,21 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 罗德里克·奇泽姆 在伦理学中最具影响力的批判性论文之一是《违背义务的命令与义务逻辑》。许多哲学家注意到了必然性陈述（例如，“红色的东西是有颜色的”）与义务性陈述（例如，“承诺是需要遵守的”）之间的类比。他们还注意到了必然性、可能性和不可能性的真理模态与义务、许可和禁止的真理模态之间的结构相似性。人们自然而然地认为，必然性可以被理解为在所有可能的世界中都是真实的。因此，类比地，一些人提出了一些义务逻辑系统，其中义务将被理解为在所有道德完美的世界中都是真实的。许可（和禁止）的陈述将分别被视为在一些（或没有）道德完美的世界中是真实的。这产生了一个直接的义务逻辑。
 
-罗德里克·奇泽姆 认识到，然而，基于这些假设的任何系统（并利用标准的连接词）将无法表达某些熟悉且重要的事实。其中之一是，许多情况下我们的道德义务基本取决于我们的道德缺陷。例如，一个人可能有道德义务为某些不端行为道歉 —— 但显然在一个道德完美的世界中，他不会道歉，因为在这样一个世界中，他本来就不会有不端行为。想必，在一个道德完美的世界中是不会有道歉的。如果让‘_O_(Smith apologizes)’表达这样一个观念，即 Smith 有道德义务道歉，那么想象中的语义显然无法解释这种说法可能是真实的。在任何道德完美的世界中，Smith 都不会为任何事情道歉。
+罗德里克·奇泽姆 认识到，然而，基于这些假设的任何系统（并利用标准的连接词）将无法表达某些熟悉且重要的事实。其中之一是，许多情况下我们的道德义务基本取决于我们的道德缺陷。例如，一个人可能有道德义务为某些不端行为道歉 —— 但显然在一个道德完美的世界中，他不会道歉，因为在这样一个世界中，他本来就不会有不端行为。想必，在一个道德完美的世界中是不会有道歉的。如果让‘*O*(Smith apologizes)’表达这样一个观念，即 Smith 有道德义务道歉，那么想象中的语义显然无法解释这种说法可能是真实的。在任何道德完美的世界中，Smith 都不会为任何事情道歉。
 
 罗德里克·奇泽姆 描绘了这样一种情况：一个人（我们可以称之为‘史密斯’）有义务去帮助他的邻居（我们可以称之为‘琼斯’）。假设最好事先通知琼斯，奇泽姆想象，史密斯也有一个有条件的义务，即如果他打算前来帮助，就事先通知琼斯。另一方面，如果他打算不去帮助琼斯，那么史密斯的义务就是避免告诉他自己将前来帮助。最后，奇泽姆假设史密斯将不会前来帮助琼斯。
 
 在奇泽姆描述的情况中，没有任何不连贯甚至令人惊讶的地方，然而似乎没有一种足以表达这些陈述的方法存在于任何现存的义务逻辑系统中。无论义务运算符、物质和形式条件句、时间限制等如何摆弄，形式语言句子简单地无法保留熟悉的普通语言句子的逻辑特征。例如，考虑以下句子：
 
-> (a1) _O_(史密斯前去帮助琼斯)
+> (a1) *O*(史密斯前去帮助琼斯)
 
 %%
 
-> (b1) _O_(Smith goes to the aid of Jones → Smith 告诉 Jones 他要来了)
+> (b1) *O*(Smith goes to the aid of Jones → Smith 告诉 Jones 他要来了)
 
 %%
 
-> (c1) ~~(史密斯前去援助琼斯) →~~ \~_O_~~​~~(\~史密斯告诉琼斯他要来了)
+> (c1) ~~(史密斯前去援助琼斯) →~~ \~*O*~~​~~(\~史密斯告诉琼斯他要来了)
 
 %%
 
@@ -359,11 +357,11 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 罗德里克·奇泽姆指出，在许多现存的道德逻辑系统中，存在一个一般原则（“义务分离”），可以验证从（a1）和（b1）推导出的推论：
 
-> （e1）_O_（史密斯告诉琼斯他要来了）
+> （e1）*O*（史密斯告诉琼斯他要来了）
 
 当(c1)和(d1)蕴涵：
 
-> (f1) _O_(\~Smith 告诉 Jones 他要来了)
+> (f1) *O*(\~Smith 告诉 Jones 他要来了)
 
 (e1)和(f1)的连接几乎是矛盾的，告诉史密斯他既有义务警告琼斯，也有义务不警告琼斯。如果我们假设如果你有义务做某事，那么你就没有义务避免做它，我们就会得出一个明显的矛盾。对于该情况的其他可能表达未能保留原始句子的其他逻辑特征。
 
@@ -377,15 +375,15 @@ Chisholm 以制定定义并随后根据反例进行修订而闻名。《哲学�
 
 > 因此，定义内在价值的这种方式利用了“要求”的概念。有理由认为，“要求”的概念是伦理学的核心概念。它提供了基本内在价值概念的充分定义。而且它还具有以下优点：它提供了一种将价值理论的概念（“价值论”）归约为伦理学的概念（“义务论”）的方法。【B\&IV，53】
 
-在几篇论文中，罗德里克·奇泽姆试图展示如何通过对需求这一基本概念的呼应来定义价值论和义务论的核心概念。这些论文生动地展示了奇泽姆最具特色的哲学程序之一 — 通过对一小组未定义的原始概念清晰地定义一系列相关概念。在这种情况下，他试图解释伦理学领域中令人困惑和棘手的概念。他只使用了一些未定义的概念。其中一个 — _需求_ — 似乎承担着所有独特的规范负担。（将奇泽姆在伦理学中为_需求_所做的努力与他在认识论中为_比...更合理_所做的努力进行比较将会很有趣。这些项目似乎展示了相同的方法论倾向。）
+在几篇论文中，罗德里克·奇泽姆试图展示如何通过对需求这一基本概念的呼应来定义价值论和义务论的核心概念。这些论文生动地展示了奇泽姆最具特色的哲学程序之一 — 通过对一小组未定义的原始概念清晰地定义一系列相关概念。在这种情况下，他试图解释伦理学领域中令人困惑和棘手的概念。他只使用了一些未定义的概念。其中一个 — *需求* — 似乎承担着所有独特的规范负担。（将奇泽姆在伦理学中为_需求_所做的努力与他在认识论中为_比...更合理_所做的努力进行比较将会很有趣。这些项目似乎展示了相同的方法论倾向。）
 
-在《需求的伦理学》中，奇泽姆使用‘_pRq_’来缩写‘_p_将要求_q_’。需求的相关概念在这样的陈述中起作用：‘如果我承诺和你见面吃午饭，那就要求我和你见面吃午饭。’当_q_被某事物_p_要求，并且_p_实际发生时，_q_的实际需求就产生了。因此，如果我实际上承诺和你见面吃午饭，那么就有一个要求我出现的需求。但即使是实际的，需求也是可推翻的。它可能被推翻。当一项行动以这种方式实际上被要求时，至少被视为一项初步义务。如果我在去吃午饭的路上遇到受伤的陌生人，而且只有我有资格照料他的伤势，那么这进一步的事实将推翻我与你见面吃午饭的初步义务。基于此，奇泽姆将全面义务定义为未被推翻的需求。换句话说：
+在《需求的伦理学》中，奇泽姆使用‘*pRq*’来缩写‘*p_将要求_q*’。需求的相关概念在这样的陈述中起作用：‘如果我承诺和你见面吃午饭，那就要求我和你见面吃午饭。’当_q_被某事物_p_要求，并且_p_实际发生时，_q_的实际需求就产生了。因此，如果我实际上承诺和你见面吃午饭，那么就有一个要求我出现的需求。但即使是实际的，需求也是可推翻的。它可能被推翻。当一项行动以这种方式实际上被要求时，至少被视为一项初步义务。如果我在去吃午饭的路上遇到受伤的陌生人，而且只有我有资格照料他的伤势，那么这进一步的事实将推翻我与你见面吃午饭的初步义务。基于此，奇泽姆将全面义务定义为未被推翻的需求。换句话说：
 
-_q_在一切考虑下是义务=_df_
+_q_在一切考虑下是义务=*df*
 
-> ∃_p_(_pRq_ & _p_发生 & \~∃_s_(_s_发生 & \~((_p_&_s_)_Rq_)))
+> ∃*p*(*pRq* & _p_发生 & \~∃*s*(_s_发生 & \~((*p*&*s*)*Rq*)))
 
-这种义务概念并不局限于行动。这是一个“应该是”的概念。为了解释“应该做”，奇泽姆引入另一个运算符，‘_A_’。‘_Ap_’表达了一个人成功地实现了事态_p_的想法。利用这一进一步的表达，奇泽姆通过说_S_应该实现某种事态_p_这一陈述仅仅意味着_OAp_。
+这种义务概念并不局限于行动。这是一个“应该是”的概念。为了解释“应该做”，奇泽姆引入另一个运算符，‘*A*’。‘*Ap*’表达了一个人成功地实现了事态_p_的想法。利用这一进一步的表达，奇泽姆通过说_S_应该实现某种事态_p_这一陈述仅仅意味着_OAp_。
 
 一旦我们有了对全面考虑的义务的定义，很容易定义许可、禁止和无端性。奇泽姆以预期的方式做到了这一点。
 
@@ -393,9 +391,9 @@ _q_在一切考虑下是义务=_df_
 
 此外，奇泽姆试图将他的概念方案应用于伦理学中一些长期存在的难题。其中之一是有关超 erogatory 行为的难题。超 erogatory 行为据说是“超越职责范围”的行为 —— 是一种杰出的善行，但可以选择不做。后果主义者很难解释如何可能存在这样的事情，因为他们通常说职责要求我们尽力而为。在那之上怎么可能还有其他事情呢？如果是“额外的好事”，为什么可以选择不去做呢？
 
-奇泽姆提出通过说，当某个行为的“客体”绝对应该是，但其代理人既不被迫实现它也不被迫停止实现它时，可以解释为超度行为。他使用‘_PAq_’来缩写‘_S_ is permitted to bring about _q_’，其中允许被理解为不被迫停止的缺席：
+奇泽姆提出通过说，当某个行为的“客体”绝对应该是，但其代理人既不被迫实现它也不被迫停止实现它时，可以解释为超度行为。他使用‘*PAq*’来缩写‘*S* is permitted to bring about *q*’，其中允许被理解为不被迫停止的缺席：
 
-> _S_的做_q_是超度=_df_ _Oq_ & _P_\~_Aq_ & _PAq_
+> _S_的做_q_是超度=*df* *Oq* & *P*\~*Aq* & *PAq*
 
 在随后的论文中，罗德里克·奇泽姆 进一步阐述了他对所谓要求概念的有用性的看法。
 
@@ -405,7 +403,7 @@ _q_在一切考虑下是义务=_df_
 
 尽管如此，有几个或多或少是基本的奇泽姆主义信条。我们已经勾勒了其中一些信条。在这里，我们列出了奇泽姆写的一些讨论这些信条的内容。我们继续提及其他人撰写的一些书籍和论文，其中他们对奇泽姆的观点进行阐述或批评。
 
-在认识论中，罗德里克·奇泽姆将我们表达的基本原始概念确定为这样一个观念：_相较于相信 q，相信 p 对于 S 更为合理_。他试图通过这一概念来定义认识评估的其他术语。此外，他假设我们实际上确实知道许多我们认为自己知道的事情。他认为一个人可以有正当理由相信许多关于自己当前心理状态的基础命题。他认为认识论的一个核心课题是制定认识原则，以展示我们如何在这个现在、内在、以自我为中心的基础上获得正当理由相信关于外部世界、过去以及其他问题性事物的观念。
+在认识论中，罗德里克·奇泽姆将我们表达的基本原始概念确定为这样一个观念：*相较于相信 q，相信 p 对于 S 更为合理*。他试图通过这一概念来定义认识评估的其他术语。此外，他假设我们实际上确实知道许多我们认为自己知道的事情。他认为一个人可以有正当理由相信许多关于自己当前心理状态的基础命题。他认为认识论的一个核心课题是制定认识原则，以展示我们如何在这个现在、内在、以自我为中心的基础上获得正当理由相信关于外部世界、过去以及其他问题性事物的观念。
 
 奇泽姆观点的早期阐述可在\[PPS]中找到。随后的阐述出现在\[TK]的三个版本以及\[FK]中。\[FK]是一本关于认识论的文章集。其中一些是专为\[FK]新写的，但大多数是奇泽姆已经发表文章的略作修改版本。因此，\[FK]全面展示了奇泽姆在认识论中独特观点。
 
@@ -449,81 +447,81 @@ Kim 1979 年的文章对奇泽姆早期观点进行了非常有帮助的批判�
 
 #### Cited Books by Chisholm
 
-| \[PPS]   | _Perceiving: A Philosophical Study_, Ithaca: Cornell University Press, 1957                                                         |
+| \[PPS]   | *Perceiving: A Philosophical Study*, Ithaca: Cornell University Press, 1957                                                         |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| \[TK1]   | _Theory of knowledge_, Englewood Cliffs, N.J.: Prentice Hall, 1st edition, 1966; 2nd edition, 1977 \[TK2]; 3rd edition 1989 \[TK3]. |
-| \[P\&O]  | _Person and Object: A Metaphysical Study_, La Salle, IL: Open Court, 1976.                                                          |
-| \[FP]    | _The First Person: An Essay on Reference and Intentionality_, Minneapolis: University of Minnesota Press, 1981.                     |
-| \[FK]    | _The Foundations of Knowing_, Minneapolis: University of Minnesota Press, 1982.                                                     |
-| \[B\&IV] | _Brentano and Intrinsic Value_, Cambridge and New York: Cambridge University Press, 1986.                                           |
-| \[OM]    | _On Metaphysics_, Minneapolis: University of Minnesota Press, 1989.                                                                 |
-| \[RTC]   | _A Realistic Theory of Categories: An Essay on Ontology_, Cambridge and New York: Cambridge University Press, 1996.                 |
+| \[TK1]   | *Theory of knowledge*, Englewood Cliffs, N.J.: Prentice Hall, 1st edition, 1966; 2nd edition, 1977 \[TK2]; 3rd edition 1989 \[TK3]. |
+| \[P\&O]  | *Person and Object: A Metaphysical Study*, La Salle, IL: Open Court, 1976.                                                          |
+| \[FP]    | *The First Person: An Essay on Reference and Intentionality*, Minneapolis: University of Minnesota Press, 1981.                     |
+| \[FK]    | *The Foundations of Knowing*, Minneapolis: University of Minnesota Press, 1982.                                                     |
+| \[B\&IV] | *Brentano and Intrinsic Value*, Cambridge and New York: Cambridge University Press, 1986.                                           |
+| \[OM]    | *On Metaphysics*, Minneapolis: University of Minnesota Press, 1989.                                                                 |
+| \[RTC]   | *A Realistic Theory of Categories: An Essay on Ontology*, Cambridge and New York: Cambridge University Press, 1996.                 |
 
 #### Cited Articles by Chisholm
 
-* 1942, “The Problem of the Speckled Hen,” _Mind_ 51(204): 368–373.
-* 1955–6, “Sentences about Believing,” _Proceedings of the Aristotelian Society_, 56: 125–148.
-* 1963, “Contrary-to-Duty Imperatives and Deontic Logic,” _Analysis_, 24: 33–36.
-* 1964, “The Ethics of Requirement,” _American Philosophical Quarterly_, 1: 147–153.
-* 1966, “Freedom and Action,” in _Freedom and Determinism_, K. Lehrer (ed.), New York: Random House, pp. 11–44; reprinted in Myles Brand (ed.), _The Nature of Human Action_, Glenview, IL: Scott Foresman and Company, 1970, pp. 283–292.
-* 1967a, “He Could Have Done Otherwise,” _Journal of Philosophy_, 4: 409–417; reprinted in Myles Brand (ed.), _The Nature of Human Action_, Glenview, IL: Scott Foresman and Company, 1970, pp. 293–301.
-* 1967b, “Identity through Possible Worlds: Some Questions,” _Noûs_, 1(1): 1–8.
-* 1967c, “Intentionality,” _The Encyclopedia of Philosophy_ (Volume 5), Paul Edwards (ed.), London: Macmillan, pp. 201–4.
-* 1968, “The Defeat of Good and Evil,”, _Proceedings and Addresses of the American Philosophical Association_, 42: 21–38.
-* 1970, “Events and Propositions,” _Noûs_, 4: 15–24.
-* 1971, “States of Affairs Again,” _Noûs_, 5: 179–189.
-* 1973, “Parts as Essential to Their Wholes,” _Review of Metaphysics_, 26: 581–603.
-* 1974, “Practical Reason and the Logic of Requirement,” in S. Korner (ed.), _Practical Reason_, Oxford: Basil Blackwell, pp. 1–17.
-* 1978, “Is There a Mind-Body Problem?,” _Philosophical Exchange_, 2: 24–34.
+* 1942, “The Problem of the Speckled Hen,” *Mind* 51(204): 368–373.
+* 1955–6, “Sentences about Believing,” *Proceedings of the Aristotelian Society*, 56: 125–148.
+* 1963, “Contrary-to-Duty Imperatives and Deontic Logic,” *Analysis*, 24: 33–36.
+* 1964, “The Ethics of Requirement,” *American Philosophical Quarterly*, 1: 147–153.
+* 1966, “Freedom and Action,” in *Freedom and Determinism*, K. Lehrer (ed.), New York: Random House, pp. 11–44; reprinted in Myles Brand (ed.), *The Nature of Human Action*, Glenview, IL: Scott Foresman and Company, 1970, pp. 283–292.
+* 1967a, “He Could Have Done Otherwise,” *Journal of Philosophy*, 4: 409–417; reprinted in Myles Brand (ed.), *The Nature of Human Action*, Glenview, IL: Scott Foresman and Company, 1970, pp. 293–301.
+* 1967b, “Identity through Possible Worlds: Some Questions,” *Noûs*, 1(1): 1–8.
+* 1967c, “Intentionality,” *The Encyclopedia of Philosophy* (Volume 5), Paul Edwards (ed.), London: Macmillan, pp. 201–4.
+* 1968, “The Defeat of Good and Evil,”, *Proceedings and Addresses of the American Philosophical Association*, 42: 21–38.
+* 1970, “Events and Propositions,” *Noûs*, 4: 15–24.
+* 1971, “States of Affairs Again,” *Noûs*, 5: 179–189.
+* 1973, “Parts as Essential to Their Wholes,” *Review of Metaphysics*, 26: 581–603.
+* 1974, “Practical Reason and the Logic of Requirement,” in S. Korner (ed.), *Practical Reason*, Oxford: Basil Blackwell, pp. 1–17.
+* 1978, “Is There a Mind-Body Problem?,” *Philosophical Exchange*, 2: 24–34.
 * 1986, “Self-Profile,” in \[RMCp], pp. 3–77.
-* 1990, “Events without Times: An Essay in Ontology,” _Noûs_, 24: 413–428.
-* 1991, “On the Simplicity of the Soul,” _Philosophical Perspectives_, 5: 157–81.
+* 1990, “Events without Times: An Essay in Ontology,” *Noûs*, 24: 413–428.
+* 1991, “On the Simplicity of the Soul,” *Philosophical Perspectives*, 5: 157–81.
 * 1996, “Persons and Their Bodies: Some Unanswered Questions,” in \[RTC], pp. 99–105.
-* 2005, “Intrinsic Value,” in Toni Rønnow-Rasmussen & Michael J. Zimmerman (eds.), _Recent Work on Intrinsic Value_, Dordrecht: Springer, pp. 1–10.
+* 2005, “Intrinsic Value,” in Toni Rønnow-Rasmussen & Michael J. Zimmerman (eds.), *Recent Work on Intrinsic Value*, Dordrecht: Springer, pp. 1–10.
 
 ### Secondary Literature
 
 #### Collections
 
-| \[A\&M]  | _Analysis and Metaphysics: Essays in Honor of Roderick Chisholm_, (Philosophical Studies Series in Philosophy: Volume 4), Keith Lehrer (ed.), Dordrecht: D. Reidel Publishing Company, 1975. |
+| \[A\&M]  | *Analysis and Metaphysics: Essays in Honor of Roderick Chisholm*, (Philosophical Studies Series in Philosophy: Volume 4), Keith Lehrer (ed.), Dordrecht: D. Reidel Publishing Company, 1975. |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[RMCp]  | _Roderick M. Chisholm_ (Profiles: Volume 7), Radu J. Bogdan (ed.), Dordrecht: D. Reidel Publishing Company, 1986.                                                                            |
-| \[EPRMC] | _Essays on the Philosophy of Roderick M. Chisholm_, Ernest Sosa (ed.), Amsterdam: Grazer Philosophische Studien, (Volumes 7–8) 1979.                                                         |
-| \[LLP]   | _The Philosophy of Roderick M. Chisholm_ (The Library of Living Philosophers: Volume 25), Lewis Edwin Hahn (ed.), Chicago, La Salle: Open Court, 1997.                                       |
-| \[PLRMC] | _Metaphilosophy_ (Special Issue: The Philosophical Legacy of Roderick M. Chisholm), Volume 34, Number 5, Amen T. Marsoobian (ed.), October 2003.                                             |
+| \[RMCp]  | *Roderick M. Chisholm* (Profiles: Volume 7), Radu J. Bogdan (ed.), Dordrecht: D. Reidel Publishing Company, 1986.                                                                            |
+| \[EPRMC] | *Essays on the Philosophy of Roderick M. Chisholm*, Ernest Sosa (ed.), Amsterdam: Grazer Philosophische Studien, (Volumes 7–8) 1979.                                                         |
+| \[LLP]   | *The Philosophy of Roderick M. Chisholm* (The Library of Living Philosophers: Volume 25), Lewis Edwin Hahn (ed.), Chicago, La Salle: Open Court, 1997.                                       |
+| \[PLRMC] | *Metaphilosophy* (Special Issue: The Philosophical Legacy of Roderick M. Chisholm), Volume 34, Number 5, Amen T. Marsoobian (ed.), October 2003.                                             |
 
 #### Cited Secondary Literature
 
-* Amico, R., 1993, _The Problem of the Criterion_, Lanham, MD: Rowman and Littlefield.
-* Baker, L. R., 2002, “The ontological status of persons,” _Philosophy and Phenomenological Research_, 65(2): 370–88.
+* Amico, R., 1993, *The Problem of the Criterion*, Lanham, MD: Rowman and Littlefield.
+* Baker, L. R., 2002, “The ontological status of persons,” *Philosophy and Phenomenological Research*, 65(2): 370–88.
 * Brandl, J., 1997, “Recurrent Problems — On Chisholm’s Two Theories of Events,” in \[LLP], pp. 457–477.
-* Brentano, F., 1874, _Psychology from an Empirical Standpoint_, translated by A.C. Rancurello, D.B. Terrell, and L. McAlister, London: Routledge, 1973.
-* Chandler, H., 1966, “Essence and Accident,” _Analysis_, 26: 185–188.
-* Davidson, D., 1970, “Events as Particulars,” _Noûs_, 4(1): 25–32.
-* Ekstrom, L. W. (ed.), 2000, _Agency and Responsibility: Essays on the Metaphysics of Freedom_, Boulder, CO: Westview.
+* Brentano, F., 1874, *Psychology from an Empirical Standpoint*, translated by A.C. Rancurello, D.B. Terrell, and L. McAlister, London: Routledge, 1973.
+* Chandler, H., 1966, “Essence and Accident,” *Analysis*, 26: 185–188.
+* Davidson, D., 1970, “Events as Particulars,” *Noûs*, 4(1): 25–32.
+* Ekstrom, L. W. (ed.), 2000, *Agency and Responsibility: Essays on the Metaphysics of Freedom*, Boulder, CO: Westview.
 * Foley, R., 1997, “Chisholm’s Epistemic Principles,” in \[LLP], pp. 241–264.
-* Forbes, G., 1984, “Two Solutions to Chisholm’s Paradox,” _Philosophical Studies_, 46: 171–187.
-* Gustafsson, J. F., 2014, “Neither ‘Good’ in Terms of ‘Better’ nor ‘Better’ in Terms of ‘Good’,” _Noûs_, 48(1): 466–473.
-* Heidelberger, H., 1969, “Chisholm’s Epistemic Principles,” _Noûs_, 3(1): 73–82.
+* Forbes, G., 1984, “Two Solutions to Chisholm’s Paradox,” *Philosophical Studies*, 46: 171–187.
+* Gustafsson, J. F., 2014, “Neither ‘Good’ in Terms of ‘Better’ nor ‘Better’ in Terms of ‘Good’,” *Noûs*, 48(1): 466–473.
+* Heidelberger, H., 1969, “Chisholm’s Epistemic Principles,” *Noûs*, 3(1): 73–82.
 * Kim, J., 1979, “States of Affairs, Events, and Propositions,” in \[EPRMC], pp. 147–162.
 * Kim, Jaegwon, 2003, “Chisholm’s Legacy on Intentionality,” in \[PLRMC], pp. 649–662.
-* Lemos, N., 2004, _Common Sense: A Contemporary Defense_, New York: Cambridge University Press.
-* –––, 2005, “Chisholm’s Definition of Organic Unity,” in Toni Rønnow-Rasmussen & Michael J. Zimmerman (eds.), _Recent Work on Intrinsic Value_, Dordrecht: Springer, pp. 319–23.
-* Lewis, D., 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* Mackie, P., 2008, “Transworld Identity,” _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2008/entries/identity-transworld/](https://plato.stanford.edu/archives/fall2008/entries/identity-transworld/).
-* Parfit, D., 1971, “Personal Identity,” _The Philosophical Review_, 80(1): 3–27.
-* Plantinga, A., 1975, “On Mereological Essentialism,” _Review of Metaphysics_, 28(3): 468–476.
+* Lemos, N., 2004, *Common Sense: A Contemporary Defense*, New York: Cambridge University Press.
+* –––, 2005, “Chisholm’s Definition of Organic Unity,” in Toni Rønnow-Rasmussen & Michael J. Zimmerman (eds.), *Recent Work on Intrinsic Value*, Dordrecht: Springer, pp. 319–23.
+* Lewis, D., 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* Mackie, P., 2008, “Transworld Identity,” *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2008/entries/identity-transworld/](https://plato.stanford.edu/archives/fall2008/entries/identity-transworld/).
+* Parfit, D., 1971, “Personal Identity,” *The Philosophical Review*, 80(1): 3–27.
+* Plantinga, A., 1975, “On Mereological Essentialism,” *Review of Metaphysics*, 28(3): 468–476.
 * Quinn, P., 1997, “Tiny Selves: Chisholm on the Simplicity of the Soul,” in \[LLP], pp. 56–66.
-* Rosenkrantz, G. S., 1998, “A Realistic Theory of Categories: An Essay in Ontology,” _The Philosophical Review_, 107(4): 650–3.
-* Salmon, N., 1996, “Trans-world Identification and Stipulation,” _Philosophical Studies_, 84(2): 203–223.
+* Rosenkrantz, G. S., 1998, “A Realistic Theory of Categories: An Essay in Ontology,” *The Philosophical Review*, 107(4): 650–3.
+* Salmon, N., 1996, “Trans-world Identification and Stipulation,” *Philosophical Studies*, 84(2): 203–223.
 * Sanford, D., 1997, “Chisholm on Brentano’s Thesis,” in \[LLP], pp. 201–214.
 * Sosa, E., 1997, “Chisholm’s Epistemology and Epistemic Internalism,” in \[LLP], pp. 267–287.
-* Steen, M., 2008, “Chisholm’s chaning conception of ordinary objects,” _Grazier Philosophische Studien_, 76(1): 15–46
+* Steen, M., 2008, “Chisholm’s chaning conception of ordinary objects,” *Grazier Philosophische Studien*, 76(1): 15–46
 * Taylor, R., 1975, “A Tribute,” in \[A\&M], pp. 1–8.
-* Tucker, M., 2016, “Two Kinds of Value Pluralism,” _Utilitas_, 28(3): 333–46.
-* von Wachter, D., 2003, “Free Agents as Cause,” in Klaus Petrus (ed.), _On Human Persons_, Frankfurt: Ontos Verlag, pp. 183–94.
+* Tucker, M., 2016, “Two Kinds of Value Pluralism,” *Utilitas*, 28(3): 333–46.
+* von Wachter, D., 2003, “Free Agents as Cause,” in Klaus Petrus (ed.), *On Human Persons*, Frankfurt: Ontos Verlag, pp. 183–94.
 * Zimmerman, D., 1997, “Chisholm and the Essences of Events,” in \[LLP], pp. 73–93.
-* Zimmerman, M. J., 2010, “Chisholm,” in Timothy O’Connor & Constantine Sandis (eds.), _A Companion to the Philosophy of Action_, Oxford: Wiley-Blackwell, pp. 578–588.
+* Zimmerman, M. J., 2010, “Chisholm,” in Timothy O’Connor & Constantine Sandis (eds.), *A Companion to the Philosophy of Action*, Oxford: Wiley-Blackwell, pp. 578–588.
 
 ## Academic Tools
 
@@ -535,8 +533,8 @@ Kim 1979 年的文章对奇泽姆早期观点进行了非常有帮助的批判�
 
 ## Other Internet Resources
 
-* Legum, R. 2021, “[>Roderick M. Chisholm: Epistemology](https://iep.utm.edu/roderick-chisholm-epistemology/),” entry in the _Internet Encyclopedia of Philosophy_.
-* McCain, K., 2014, “[Problem of the Criterion](https://iep.utm.edu/problem-of-the-criterion/),” entry in the _Internet Encyclopedia of Philosophy_.
+* Legum, R. 2021, “[>Roderick M. Chisholm: Epistemology](https://iep.utm.edu/roderick-chisholm-epistemology/),” entry in the *Internet Encyclopedia of Philosophy*.
+* McCain, K., 2014, “[Problem of the Criterion](https://iep.utm.edu/problem-of-the-criterion/),” entry in the *Internet Encyclopedia of Philosophy*.
 * [Banquet Address for the Chisholm Memorial Conference](http://www-unix.oit.umass.edu/\~ffeldman/ChisholmMemorial.htm), by Fred Feldman.
 * [The Philosophical Lexicon](http://luigigobbi.com/philosophicallexicon.htm)
 
@@ -545,5 +543,5 @@ Kim 1979 年的文章对奇泽姆早期观点进行了非常有帮助的批判�
 [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | [categories](https://plato.stanford.edu/entries/categories/) | [epistemology](https://plato.stanford.edu/entries/epistemology/) | [epistemology: naturalism in](https://plato.stanford.edu/entries/epistemology-naturalized/) | [events](https://plato.stanford.edu/entries/events/) | [free will](https://plato.stanford.edu/entries/freewill/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [identity: transworld](https://plato.stanford.edu/entries/identity-transworld/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [logic: deontic](https://plato.stanford.edu/entries/logic-deontic/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/) | [sense data](https://plato.stanford.edu/entries/sense-data/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Richard Feldman](http://www.rochester.edu/College/phl/people/faculty/feldman\richard/index.html) <[_richard.feldman@rochester.edu_](mailto:richard%2efeldman%40rochester%2eedu)>\
-[Fred Feldman](http://www.umass.edu/philosophy/faculty/faculty-pages/feldman.htm) <[_ffeldman@philos.umass.edu_](mailto:ffeldman%40philos%2eumass%2eedu)>
+[Richard Feldman](http://www.rochester.edu/College/phl/people/faculty/feldman\richard/index.html) <[*richard.feldman@rochester.edu*](mailto:richard%2efeldman%40rochester%2eedu)>\
+[Fred Feldman](http://www.umass.edu/philosophy/faculty/faculty-pages/feldman.htm) <[*ffeldman@philos.umass.edu*](mailto:ffeldman%40philos%2eumass%2eedu)>

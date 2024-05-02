@@ -1,13 +1,12 @@
 # 本真性 authenticity (Somogy Varga and Charles Guignon)
 
-_首次发布于 2014 年 9 月 11 日；实质性修订于 2020 年 2 月 20 日_
+*首次发布于 2014 年 9 月 11 日；实质性修订于 2020 年 2 月 20 日*
 
 术语“真实”在强烈的意义上被用来表示“无可争议的起源或作者”，或者在较弱的意义上表示“忠于原作”或“可靠、准确的表达”。说某物是真实的意思是说它是它所宣称的，或者是它所声称的，无论是起源还是作者。但是，当讨论真实性作为一个被归属于人类的特征时，真实和衍生之间的区别更加复杂。因为在这种情况下，问题出现了：什么是成为自己，与自己合一，或真正代表自己？与真实性概念相关的难题的多样性与形而上学、认识论和道德问题相连（有关最近的讨论，请参见纽曼和史密斯 2016 年；海尔德克和托姆森 2014 年）。一方面，成为自己是不可避免的，因为每当一个人做出选择或行动时，都是自己在做这些事情。但另一方面，我们有时倾向于说，我们所进行的一些思考、决策和行动并不是真正属于自己，因此并不真正表达了自己是谁。在这里，问题不再是形而上学的性质，而是关于道德心理学、身份和责任的问题。
 
 当以后一种意义使用时，这个描述描绘了一个按照自己的欲望、动机、理想或信念行事的人，这些欲望、动机、理想或信念不仅仅是她自己的（与他人相对），而且还真实地表达了她的本质。伯纳德·威廉姆斯在指定真实性时捕捉到了这一点，他将真实性定义为“某些事物在某种意义上真正是你，或者表达了你是什么，而其他事物则不是”（引自吉尼翁 2004 年：viii）。
 
 除了作为哲学辩论的一个话题外，真实性也是一种普遍的理想，影响着社会和政治思维。事实上，近期西方知识发展的一个显著特点就是转向了所谓的“真实性时代”（泰勒 2007 年；费拉拉 1998 年）。因此，理解这个概念还涉及对其历史和哲学源头的调查，以及它对当代社会的社会政治观念的影响。
-
 
 ***
 
@@ -75,13 +74,13 @@ _首次发布于 2014 年 9 月 11 日；实质性修订于 2020 年 2 月 20 �
 
 在我们所有行动都有助于实现一个总体项目或一系列项目的程度上，我们的积极生活可以被看作是体现某种生活项目。在海德格尔的观点中，我们存在是为了我们自己：扮演角色和表达个性特征有助于在我们自己的情况下实现对人类是什么的某种形象。存在具有一种指向性或目的性，赋予我们的生活故事一定程度的联系。在很大程度上，拥有这样的生活计划并不需要对目标进行深思熟虑或谋划手段。它源于我们作为历史文化的成员的能力，我们在成长过程中已经在很大程度上掌握了这种文化，进入了一个共同的世界。这种心照不宣的“预先理解”使我们能够在熟悉的日常世界中与事物和他人一起生活。
 
-海德格尔认为，具体理解和行动的所有可能性都是由社会背景中开放的共享实践所造成的，这是我们所处的社会环境所开启的，他称之为“他们”（_das Man_）。与社会存在与我们的人性相对立的情况完全不同，海德格尔认为我们始终是本质上和无法逃避的社会存在。正如他所说，
+海德格尔认为，具体理解和行动的所有可能性都是由社会背景中开放的共享实践所造成的，这是我们所处的社会环境所开启的，他称之为“他们”（*das Man*）。与社会存在与我们的人性相对立的情况完全不同，海德格尔认为我们始终是本质上和无法逃避的社会存在。正如他所说，
 
 > 他们本身规定了最接近的世界解释方式。存在是为了他们而以日常方式存在……从他们的角度来看，作为他们，我“给予”自己……（1962 \[1927]：167，翻译有修改）
 
 要成为一名教师，例如，我必须采用（或许融合）一些事先由现有的规范和职业行为准则提前规定的课堂呈现和与学生打交道的现成风格。
 
-说我们总是他们，并不意味着我们是自动机。海德格尔认为，即使在“平庸的日常”中，我们也在不断做出反映我们对自己的理解的选择。然而，在平庸的日常中，我们通常是漂泊的，扮演着“群体”或“人群”的其中一员，这是海德格尔所称的“堕落”（_Verfallen_）的一种生活形式。海德格尔（1962 \[1927]：220）强调，将这种生活方式称为“堕落”并不意味着它是“一种坏的或可悲的存在属性，也许更先进的人类文化阶段可以摆脱它”（1962 \[1927]：220）。相反，由于社会世界没有出口-因为它是“唯一的游戏”-它在首先创造了共享可理解性的背景，让我们能够完全成为人类。然而，海德格尔意识到这种堕落的存在方式存在着深层次的问题。他提出，在“做自己所做的事情”时，我们没有真正承认自己是谁。我们没有将自己的选择作为自己的选择，并且结果是，我们并不真正是我们自己生活的作者。在我们的生活是无主或被否认的程度上，存在是不真实的（_uneigentlich_），不是我们自己的（_eigen_）。
+说我们总是他们，并不意味着我们是自动机。海德格尔认为，即使在“平庸的日常”中，我们也在不断做出反映我们对自己的理解的选择。然而，在平庸的日常中，我们通常是漂泊的，扮演着“群体”或“人群”的其中一员，这是海德格尔所称的“堕落”（*Verfallen*）的一种生活形式。海德格尔（1962 \[1927]：220）强调，将这种生活方式称为“堕落”并不意味着它是“一种坏的或可悲的存在属性，也许更先进的人类文化阶段可以摆脱它”（1962 \[1927]：220）。相反，由于社会世界没有出口-因为它是“唯一的游戏”-它在首先创造了共享可理解性的背景，让我们能够完全成为人类。然而，海德格尔意识到这种堕落的存在方式存在着深层次的问题。他提出，在“做自己所做的事情”时，我们没有真正承认自己是谁。我们没有将自己的选择作为自己的选择，并且结果是，我们并不真正是我们自己生活的作者。在我们的生活是无主或被否认的程度上，存在是不真实的（*uneigentlich*），不是我们自己的（*eigen*）。
 
 我们作为他们自己的存在，是分散、分心和遗忘的状态。但海德格尔说，这种“向下的跳跃”只捕捉到了存在的一个方面。为了能够实现真实性的能力，我们必须经历个人的转变，这个转变将我们从堕落中解脱出来。这只有在生活中出现某些基本的洞察力时才可能实现。第一个重大转变可能发生在一个人经历强烈的焦虑时。在焦虑中，那个似乎能够保证安全的熟悉世界突然崩溃了，在这个世界崩溃中，我们发现事物的意义“完全缺失”（1962 \[1927]: 186）。我们发现自己孤独无助，没有世俗的支持来维持我们的存在。在焦虑中，存在遭遇到自己作为一个“个体”的存在，最终是孤独的。用海德格尔的话来说，“焦虑使存在个体化，从而揭示它为‘solus ipse’”（1962 \[1927]: 188）。第二个转变事件是面对自己“最本质的”可能性，即死亡可能导致所有可能性的丧失。在面对自己的有限性时，我们发现我们始终是未来导向的事件或项目，对于这种持续向前的运动来说，关键不在于实现可能性，而在于我们如何对待自己的生活。海德格尔试图设想一种他称之为“预期向前”（Vorlaufen）的生活方式，即一种明智而强烈地执行自己的项目的生活方式，无论这些项目是什么。第三个转变事件是聆听良心的呼唤。良心呼唤我们的是我们在德语中“有罪”的事实，这意味着我们有一个“债务”（Schuld），对自己负责。良心告诉我们，我们没有达到我们可以成为的样子，我们有义务以坚决和全情投入的态度去生活。这种坚决性在职业承诺的案例中表现得很明显，其中一个人听到了呼唤，并感觉被吸引去追求那个呼唤。
 
@@ -99,9 +98,9 @@ _首次发布于 2014 年 9 月 11 日；实质性修订于 2020 年 2 月 20 �
 
 1943 年出版的萨特的巨著《存在与虚无》：《本体论的现象学论文》对二十世纪下半叶的哲学思想和知识生活产生了重要影响。他在这本书中的主要目标是“否定传统哲学以及资产阶级文化的‘严肃精神’”（Sartre 1992a \[1943]: 796）。严肃精神的假设是：（1）存在着超越人类的超验价值，（2）事物的价值是其实际存在的一部分。相比之下，萨特的观点是，所有的价值都是由人类在情境中的互动中产生的，因此价值是人类构建的，而不是事物中存在的超人类存在。
 
-为了探讨人类存在的问题，萨特审视了我们的日常生活，重点关注了两个特定的方面。他指出，人类像世界上的其他实体一样，具有一些具体的特征，构成了他所称之为他们的“事实性”或者“本质”（_en soi_）的东西。事实性构成了我们必须处理的“给定性”的要素：我发现自己有过去、有身体和社会环境，这些都限制了我能做的事情。这种“只是存在”首先是偶然的：对于我存在的理由或原因没有先验的证明。在萨特看来，“本身”甚至没有任何确定的特征，因为每一个确定（每一个“这个，_不是_那个”）都是通过我们对事物的具体解释首先引入到存在的整体中的。
+为了探讨人类存在的问题，萨特审视了我们的日常生活，重点关注了两个特定的方面。他指出，人类像世界上的其他实体一样，具有一些具体的特征，构成了他所称之为他们的“事实性”或者“本质”（*en soi*）的东西。事实性构成了我们必须处理的“给定性”的要素：我发现自己有过去、有身体和社会环境，这些都限制了我能做的事情。这种“只是存在”首先是偶然的：对于我存在的理由或原因没有先验的证明。在萨特看来，“本身”甚至没有任何确定的特征，因为每一个确定（每一个“这个，_不是_那个”）都是通过我们对事物的具体解释首先引入到存在的整体中的。
 
-虽然人类与世界上其他实体共享他们的“事实性”，但他们在实体的整体中是独特的，因为他们能够通过反思和自我意识与“本身”保持距离。作为一个人类，我与世界中的其他物品不同之处在于，我能够通过询问自己是否想成为某种特定类型的人来质疑自己的存在。这种获取距离的能力在存在的整体中插入了一个“非”或“不存在”，使我能够将周围的事物有意义地区分开来。此外，人类意识是“非”的源头，因为它本身就是“虚无”。换句话说，一个人不仅仅是“本身”，还是“为自己（_pour soi_）”，因此被萨特称为“超越性”。作为超越性，我总是比事实性更多，因为作为超越我的原始存在，我面对着未来自我定义的广阔可能性。
+虽然人类与世界上其他实体共享他们的“事实性”，但他们在实体的整体中是独特的，因为他们能够通过反思和自我意识与“本身”保持距离。作为一个人类，我与世界中的其他物品不同之处在于，我能够通过询问自己是否想成为某种特定类型的人来质疑自己的存在。这种获取距离的能力在存在的整体中插入了一个“非”或“不存在”，使我能够将周围的事物有意义地区分开来。此外，人类意识是“非”的源头，因为它本身就是“虚无”。换句话说，一个人不仅仅是“本身”，还是“为自己（*pour soi*）”，因此被萨特称为“超越性”。作为超越性，我总是比事实性更多，因为作为超越我的原始存在，我面对着未来自我定义的广阔可能性。
 
 萨特关于超越的概念与自由的观念密切相关。人类在某种意义上是自由的，因为他们有能力选择如何解释事物，并且在这些解释中决定事物如何计数或有意义。我们通过自由构成世界，以至于我们对事物的看法决定了现实将如何被整理和对我们的重要性。同时，我们通过自己的选择构成了自己：尽管我所处的情境的事实性对我可能的自我解释产生了一些限制，但决定这些限制的意义始终取决于我自己，这意味着我认为的限制实际上是由我自己的解释或赋予意义的活动产生的。这些限制是在先前的承诺的背景下理解的，根据这些承诺，情境变得可理解，作为提供某些行动和/或评估方式的情境。正是我们先前的承诺塑造了我们的世界，使情境和对象可理解为威胁或有利、容易或充满障碍，或更一般地，作为提供某些行动的情境（萨特 1992a \[1943]：489）。我们的参与为我们的情境和动机提供了一个解释结构，并在情境对我们的出现方式中显露出来-作为重要的、需要我们关注的等等（1992a \[1943]：485）。
 
@@ -149,7 +148,7 @@ _首次发布于 2014 年 9 月 11 日；实质性修订于 2020 年 2 月 20 �
 
 因此，我们不仅需要他人的认可来形成自己的身份，还必须（批判性地）与共同的价值取向进行交流。换句话说，泰勒指出，真实性需要对构成我们集体视野的价值进行适当的吸收。
 
-在他的《反思真实性》中，亚历山德罗·费拉拉也致力于捍卫真实性作为一种理想，但与泰勒不同的是，他对真实性与有效性之间的社会和哲学问题感兴趣。根据费拉拉的诊断，我们目前正在目睹一场深刻的转变，除了影响文化、价值观和规范外，还触及“有效性的基础”，从而影响“我们与现实相关并复制我们生活形式的符号网络的基石”（费拉拉 1998 年：1）。这一转变的核心是将“幸福”（_eudaimonia_）重新定义为真实性的规范理想，这有助于重建对规范性的当代理解。对于费拉拉来说，它可以为一个新的普遍有效性理想提供基础，“最终与‘美学’所关联的典型独特性或启迪性独特性模式相联系”（费拉拉 1998 年：10）。真实性的特点是个体、集体或符号身份的“自我一致性”（费拉拉 1998 年：70），被认为提供了一种不基于可普遍化而是基于典型化的新的普遍有效性。费拉拉将辛梅尔关于个体法则的观念视为这种反普遍化普世主义的一个有益示例，正是这一特点使其更适合现代西方社会面临的多元主义背景。最近，费拉拉（2019 年）认为真实性目前面临着“双重悖论”，并且被许多批评家误解为解构主义的否定。
+在他的《反思真实性》中，亚历山德罗·费拉拉也致力于捍卫真实性作为一种理想，但与泰勒不同的是，他对真实性与有效性之间的社会和哲学问题感兴趣。根据费拉拉的诊断，我们目前正在目睹一场深刻的转变，除了影响文化、价值观和规范外，还触及“有效性的基础”，从而影响“我们与现实相关并复制我们生活形式的符号网络的基石”（费拉拉 1998 年：1）。这一转变的核心是将“幸福”（*eudaimonia*）重新定义为真实性的规范理想，这有助于重建对规范性的当代理解。对于费拉拉来说，它可以为一个新的普遍有效性理想提供基础，“最终与‘美学’所关联的典型独特性或启迪性独特性模式相联系”（费拉拉 1998 年：10）。真实性的特点是个体、集体或符号身份的“自我一致性”（费拉拉 1998 年：70），被认为提供了一种不基于可普遍化而是基于典型化的新的普遍有效性。费拉拉将辛梅尔关于个体法则的观念视为这种反普遍化普世主义的一个有益示例，正是这一特点使其更适合现代西方社会面临的多元主义背景。最近，费拉拉（2019 年）认为真实性目前面临着“双重悖论”，并且被许多批评家误解为解构主义的否定。
 
 Golomb（1995）提供了一个有关真实性概念的起源和发展的信息性历史概述，同时关注文学和哲学来源。尽管不断提醒我们真实性固有的社会维度，但这里的一个成就是关注真实性“最好锻造和展现”的边界情境（同上：201）。Golomb 对真实性的伦理价值持中立立场，认为“没有理由认为真实性比不真实性更好或更有价值”（同上：202）。
 
@@ -161,107 +160,107 @@ Varga（2011a）分享了一个基本假设，即真实性具有一定的潜力�
 
 ## Bibliography
 
-* Adorno, Theodor W., 1973, _The Jargon of Authenticity_, trans. Knut Tarnowski and Frederic Will, Evanston, IL: Northwestern University Press.
-* –––, 1974, _Minima Moralia: Reflections from Damaged Life_, trans. E. F. N. Jephcott. London: NLB.
-* Aho, Kevin, 2014, _Existentialism: An Introduction_, Cambridge: Polity.
-* Anderson, Joel, 1995, “Review Essay: The Persistence of Authenticity”, _Philosophy and Social Criticism_, 21(1): 101–109.
-* Augustine, St., 1953, _De vera religione_, (_On True Religion_), trans. by J.H.S. Burleigh, South Bend, Indiana: Gateway.
-* –––, 1988, _Tractates on the Gospel of John_ 1–10, translated by John W. Rettig. (The Fathers of the Church, 78), Washington, DC: Catholic University of America Press.
-* Bauer, K., 2017, “To be or Not to be Authentic. In Defense of Authenticity as an Ethical Ideal”, _Ethical Theory and Moral Practice_, 20(3): 567–580.
-* Beauvoir, Simone de, 1970 \[1947], _The Ethics of Ambiguity_, New York: The Citadel Press.
-* Bell, Daniel, 1976, _The Cultural Contradictions of Capitalism_, New York: Basic Books.
-* Bell, Linda A., 1989, _Sartre’s Ethics of Authenticity_, Tuscaloosa: The University of Alabama Press.
-* Bellah, Robert N. et al., 1985, _Habits of the Heart_, Berkeley: University of California Press.
-* Benjamin, Walter, 1973, “The Work of Art in the Age of Mechanical Reproduction”, in _Illuminations_, ed. by Hannah Arendt, Glasgow: Fontana.
-* Berlin, Isaiah, 2000, _Three Critics of the Enlightenment: Vico, Hamann, Herder_, Princeton: Princeton University Press.
-* Berger, Peter, 1970, “On the Obsolescence of the Concept of Honor”, _European Journal of Sociology_, 11(2): 338–347; reprinted in S. Hauerwas and A. MacIntyre, eds., _Revisions: Changing Perspectives in Moral Philosophy_, Notre Dame University Press, 1983.
-* Berman, Marshall, 1970, _The Politics of Authenticity: Radical Individualism and the Emergence of Modern Society_, New York: Atheneum.
-* Bialystok, L., 2014, “Authenticity and the Limits of Philosophy”, _Dialogue_, 53(2): 271–298.
-* Blattner, William, 2006, _Heidegger’s Being and Time_, New York: Continuum.
-* Bloom, Allan, 1987, _The Closing of the American Mind_, New York: Simon and Schuster.
-* Calhoun, Cheshire, 1995, “Standing for something”, _The Journal of Philosophy_, 92: 235–60.
-* Carman, Taylor, 2003, _Heidegger’s Analytic: Interpretation, Discourse, and Authenticity in Being and Time_, New York: Cambridge University Press.
-* Carnegie, Dale, 1948, _How to Stop Worrying and Start Living_, New York: Simon & Schuster.
-* Darnton, Robert, 1984, _The Great Cat Massacre and Other Episodes in French Cultural History_, New York: Viking.
-* Davenport, John J., 2012, _Narrative Identity, Autonomy, and Morality: From Frankfurt and MacIntyre to Kierkegaard_, New York: Routledge.
-* Despland, Michel, 1975, “Can Conscience Be Hypocritical? The Contrasting Analyses of Kant and Hegel”, _The Harvard Theological Review_, 68 (3/4): 357–370.
-* Dreyfus, Hubert L, 1991, _Being-in-the-World. A Commentary on Heidegger’s Being and Time Division I_, Cambridge, MA: MIT Press.
-* Dutton, Denis, 2003, _Authenticity in Art_, in _The Oxford Handbook of Aesthetics_, ed. by Jerrold Levinson. New York: Oxford University Press.
-* Dworkin, Gerald, 1988, _The Theory and Practice of Autonomy_, New York: Cambridge University Press.
-* Fairlie, Henry, 1978, “Too rich for heroes”, _Harper’s_, 257: 33–42; 97–98.
-* Farrell, James J., 1997, _The Spirit of the Sixties_, London: Routledge.
-* Feldman, S., 2014, _Against Authenticity: Why You Shouldn’t Be Yourself_, Lanham, MD: Lexington Books.
-* Ferrara, Alessandro, 1993, _Modernity and Authenticity: A Study of the Social and Ethical Thought of Jean-Jacques Rousseau_, Albany, NY: Sunny Press.
-* –––, 1998, _Reflective Authenticity_, London: Routledge.
-* –––, 2009, “Authenticity Without a True Self”, in Ph. Vannini and J.P. Williams (eds.), _Authenticity in Culture, Self, and Society_, Farnham: Ashgate, pp. 21–36.
-* –––, 2017, _Rousseau and Critical Theory_, Boston and Leiden, Brill.
-* –––, 2019, “The Dual Paradox of Authenticity in the 21st Century”, in Th. Claviez, K. Imesch, and B. Sweers (eds.), _Critique of Authenticity_, Wilmington, DE: Vernon Press.
-* Foucault, Michel, 1980, _The History of Sexuality: Volume I: An Introduction_, New York: Vintage Books.
-* –––, 1984, “On the Genealogy of Ethics: An Overview of Work in Progress,” in _The Foucault Reader_, Paul Rabinow (ed.), New York: Pantheon, pp. 340–372.
-* –––, 1983, “The Subject and Power”, in _Michel Foucault Beyond Structuralism and Hermeneutics_ by Hubert L. Dreyfus and Paul Rabinow, Chicago: University of Chicago Press.
-* –––, 1988, “An Aesthetics of Existence”, in _Michel Foucault: Politics, Philosophy, Culture_, edited by Lawrence D.Kritzman, pp. 47–53, New York: Routledge.
-* –––, 1994, _The Order of Things: An Archaeology of the Human Sciences_, New York: Vintage Books.
-* Golomb, Jacob, 1995, _In Search of Authenticity from Kierkegaard to Camus_, Routledge: London, New York.
-* Gray, Glenn J., 1965, “Salvation on the campus: Why existentialism is capturing the students”, _Harper’s_, 230: 53–59.
-* Guignon, Charles, 2004, _On Being Authentic_, London: Routledge.
-* –––, 2008, “Authenticity”, _Philosophy Compass_, 3: 277–290.
-* Hadot, Pierre, 1992, “Reflections on the notion of the ‘cultivation of the self’”, in Timothy J. Armstrong (ed.), _Michel Foucault, Philosopher_, New York: Routledge, pp. 225–232.
-* Hegel, G.W.F., 2002 \[1807], _The Phenomenology of Mind_, Vol. 2. London: Routledge.
-* Heidegger, Martin, 1962 \[1927], _Being and Time_, J. Macquarrie & E. Robinson (trans.), New York: Harper & Row.
-* Heldke, Lisa, and Thomsen, Jens, 2014, “Two Concepts of Authenticity”, _Social Philosophy Today_, 30: 79–94.
-* Honneth, Axel, 1994, “Schwerpunkt: Autonomie und Authentizität”, _Deutsche Zeitschrift für Philosophie_, 42(1): 59–60.
-* Jay, Martin, 2004, “Mimesis and Mimetology: Adorno and Lacoue-Labarthe”, in _Critical Theory_, Vol. 4, D. Rasmussen and J. Swindal (eds), London: Sage, pp. 265–283.
-* Jeffries, Stuart, 2002, “Bernard Williams: The Quest for Truth”, _The Guardian_, November 29, 2. \[[Jeffries 2002 available online](http://www.theguardian.com/books/2002/nov/30/academicexperts.highereducation)]
-* Kierkegaard, Søren, 1962 \[1846], _The Present Age_, A. Dru (trans.), NY: Harper Torchbooks.
-* –––, 1992 \[1846], _Concluding Unscientific Postscript to “Philosophical Fragments”, Vol. 1_, Princeton: Princeton University Press,
-* –––, 1983 \[1843], _Fear and Trembling and Repetition_, Princeton: Princeton University Press.
-* –––, 1980 \[1849], _The Sickness Unto Death: The Christian Psychological Exposition for Upbuilding and Awakening_, trans., H. V. Hong and E. H. Hong. Princeton: Princeton University Press.
-* Lasch, C., 1979, _The Culture of Narcissism: American Life in an Age of Diminishing Expectations_, New York: Norton.
-* MacKay, K., forthcoming, “Authenticity and Normative Authority: Addressing the Agency Dilemma with Values of One’s Own”, _Journal of Social Philosophy_, first online 01 December 2019. doi:10.1111/josp.12309
-* McManus, D., 2019, “On a Judgment of One’s Own: Heideggerian Authenticity, Standpoints, and All Things Considered”, _Mind_, 128(512): 1181–1204.
-* Menke, Christoph, 2005, “_Innere Natur und soziale Normativität: Die Idee der Selbstverwirklichung_”, in _Die kulturellen Werte Europas_, edited by Hans Joas and Klaus Wiegandt, Frankfurt am Main: Fischer, pp. 304–352.
-* Newman, G.E., and Smith, R.K., 2016, “Kinds of Authenticity”, _Philosophy Compass_, 11(10): 609–618.
-* Novak, Michael, 1976, “The family out of favor”, _Harper’s_, 252: 37–46.
-* Nussbaum, Martha, 1994, _Therapy of Desire. Theory and Practice in Hellenistic Ethics_, Princeton: Princeton University Press.
-* Oshana, Marina, 2007, “Autonomy and the Question of Authenticity”, _Social Theory and Practice_, 33(3): 411–429.
-* Orwell, Miles, 1989, _The Real Thing: Imitation and Authenticity in American Culture_, 1880–1940. North Carolina: University of North Carolina Press.
-* Potter, Andrew, 2010, _The Authenticity Hoax: How We Got Lost Trying to Find Ourselves_, San Francisco: HarperCollins.
-* Ricoeur, P., 1970, _Freud and Philosophy: An Essay on Interpretation_, trans., S. Savage, New Haven, Conn.: Yale Univ Press.
-* Riesmann, David, 1950, _The Lonely Crowd. A Study of the Changing American Character_, Written with Nathan Glazer and Reuel Denney, New Haven, Conn.: Yale University Press.
-* Rings, M., 2017, “Authenticity, Self-fulfillment, and Self-acknowledgment”, _The Journal of Value Inquiry_, 51(3): 475–489.
-* Roessler, B., 2012, “Authenticity of cultures and of persons”, _Philosophy and Social Criticism_, 38(4-5): 445–455.
-* Rorty, Richard, 1989, _Contingency, Irony and Solidarity_, Cambridge: Cambridge University Press.
-* Rossinow, Doug, 1998, _The Politics of Authenticity: Liberalism, Christianity and the New Left in America_, New York: Columbia University Press.
-* Rousseau, Jean-Jacques, 1979 \[1762], _Émile_, Alan Bloom (trans.), New York: Basic Books.
-* –––, 1957 \[1770], _The Confessions of Jean-Jacques Rousseau_, Lester Crocker (ed.), New York: Pocket Books.
-* –––, 1992 \[1754], _Discourse on the Origin of Inequality_, Donald A.Cress (trans.), Indianapolis: Hackett.
-* –––, 1997 \[1761], _Julie, or, The new Heloise: Letters of Two Lovers Who Live in a Small Town at the Foot of the Alps_, P. Stewart and J. Hanover (trans.), Lebanon, NH: University Press of New England.
-* Sartre, Jean-Paul, 1948, _Anti-semite and Jew_, New York: Schocken Press.
-* –––, 1992a \[1943], _Being and Nothingness: A Phenomenological Essay on Ontology_, New York: Washington Square Press.
-* –––, 1992b \[1947–48], _Notebooks for an Ethics_, Chicago: University of Chicago Press.
-* –––, 1946, “The Humanism of Existentialism”, reprinted in Charles Guignon and Derk Pereboom (eds.), _Existentialism: Basic Writings_, Indianapolis, IN: Hackett Publishing Co., 2001.
-* Schmid, H.B., 2017, “Authentic Role Play: A Political Solution to an Existential Paradox”, in H. Schmid and G. Thonhauser (eds.), _From Conventionalism to Social Authenticity_ (Studies in the Philosophy of Sociality: Volume 10), Cham: Springer. doi:10.1007/978-3-319-56865-2\*14
-* Schneewind, J. B., 1998, _The Invention of Autonomy: A History of Modern Philosophy_, Cambridge: Cambridge University Press
-* Sennett, Richard, 1993, _The Conscience of the Eye: The Design and Social Life of Cities_, London: Faber & Faber.
-* Sennett, Richard and Richard Cobb, 1972, _The Hidden Injuries of Class_, New York: Knopf.
-* Sheldrake, Philip F., 2003, “Christian Spirituality as a Way of Living Publicly: A Dialectic of the Mystical and Prophetic”, _Spiritus: A Journal of Christian Spirituality_, 3(1): 19–37.
-* Sisk, John P., 1973, “On being an object”, _Harper’s_, 247: 60–64.
-* Slater, Philip Elliot, 1970, _The pursuit of loneliness: American culture at the breaking point_, Boston: Beacon Press.
-* Taylor, Charles, 1989, _Sources of the Self. The Making of the Modern Identity_, Cambridge: CUP.
-* –––, 1991, _The Ethics of Authenticity_, Cambridge: Harvard University Press.
-* –––, 1995, “The politics of recognition”, in _Philosophical Arguments_, by Charles Taylor, 225–257. Cambridge Ma: Harvard University Press.
-* –––, 2007, _A Secular Age_, Cambridge: Harvard University Press.
-* Thomson, Irene Taviss, 2000, _In conflict no longer: self and society in contemporary America_, Oxford: Rowmann & Littlefield.
-* Trilling, Lionel, 1972, _Sincerity and Authenticity_, Cambridge: Harvard University Press.
-* Varga, S., 2011a, _Authenticity as an Ethical Ideal_, New York: Routledge.
-* –––, 2011b, “Self-Realization and Owing to Others. A Morality Constraint?” _International Journal of Philosophical Studies_, 19: 71–82.
-* Whyte, William H., 1956, _The Organizational Man_, New York, Simon and Schuster.
-* Williams, Bernard, 1973, _Utilitarianism: For and Against_, Cambridge: Cambridge University Press 108–118.
-* –––, 1985, “Moral Luck”, in _Moral Luck: Philosophical Papers 1973–1980_, Cambridge: Cambridge University Press.
-* –––, 2002, _Truth and Truthfulness: An Essay in Genealogy_, Princeton: Princeton University Press.
-* –––, 2002, _Truth and Truthfulness_, New Jersey: Princeton University Press.
-* Wolf, Susan, 1997, “Meaning and Morality”, _Proceedings of the Aristotelian Society_, 97: 299–315.
-* Yankelovich, Daniel, 1981, _New Rules: Searching for Self-Fulfillment in a World Turned Upside Down_, New York: Random House.
+* Adorno, Theodor W., 1973, *The Jargon of Authenticity*, trans. Knut Tarnowski and Frederic Will, Evanston, IL: Northwestern University Press.
+* –––, 1974, *Minima Moralia: Reflections from Damaged Life*, trans. E. F. N. Jephcott. London: NLB.
+* Aho, Kevin, 2014, *Existentialism: An Introduction*, Cambridge: Polity.
+* Anderson, Joel, 1995, “Review Essay: The Persistence of Authenticity”, *Philosophy and Social Criticism*, 21(1): 101–109.
+* Augustine, St., 1953, *De vera religione*, (*On True Religion*), trans. by J.H.S. Burleigh, South Bend, Indiana: Gateway.
+* –––, 1988, *Tractates on the Gospel of John* 1–10, translated by John W. Rettig. (The Fathers of the Church, 78), Washington, DC: Catholic University of America Press.
+* Bauer, K., 2017, “To be or Not to be Authentic. In Defense of Authenticity as an Ethical Ideal”, *Ethical Theory and Moral Practice*, 20(3): 567–580.
+* Beauvoir, Simone de, 1970 \[1947], *The Ethics of Ambiguity*, New York: The Citadel Press.
+* Bell, Daniel, 1976, *The Cultural Contradictions of Capitalism*, New York: Basic Books.
+* Bell, Linda A., 1989, *Sartre’s Ethics of Authenticity*, Tuscaloosa: The University of Alabama Press.
+* Bellah, Robert N. et al., 1985, *Habits of the Heart*, Berkeley: University of California Press.
+* Benjamin, Walter, 1973, “The Work of Art in the Age of Mechanical Reproduction”, in *Illuminations*, ed. by Hannah Arendt, Glasgow: Fontana.
+* Berlin, Isaiah, 2000, *Three Critics of the Enlightenment: Vico, Hamann, Herder*, Princeton: Princeton University Press.
+* Berger, Peter, 1970, “On the Obsolescence of the Concept of Honor”, *European Journal of Sociology*, 11(2): 338–347; reprinted in S. Hauerwas and A. MacIntyre, eds., *Revisions: Changing Perspectives in Moral Philosophy*, Notre Dame University Press, 1983.
+* Berman, Marshall, 1970, *The Politics of Authenticity: Radical Individualism and the Emergence of Modern Society*, New York: Atheneum.
+* Bialystok, L., 2014, “Authenticity and the Limits of Philosophy”, *Dialogue*, 53(2): 271–298.
+* Blattner, William, 2006, *Heidegger’s Being and Time*, New York: Continuum.
+* Bloom, Allan, 1987, *The Closing of the American Mind*, New York: Simon and Schuster.
+* Calhoun, Cheshire, 1995, “Standing for something”, *The Journal of Philosophy*, 92: 235–60.
+* Carman, Taylor, 2003, *Heidegger’s Analytic: Interpretation, Discourse, and Authenticity in Being and Time*, New York: Cambridge University Press.
+* Carnegie, Dale, 1948, *How to Stop Worrying and Start Living*, New York: Simon & Schuster.
+* Darnton, Robert, 1984, *The Great Cat Massacre and Other Episodes in French Cultural History*, New York: Viking.
+* Davenport, John J., 2012, *Narrative Identity, Autonomy, and Morality: From Frankfurt and MacIntyre to Kierkegaard*, New York: Routledge.
+* Despland, Michel, 1975, “Can Conscience Be Hypocritical? The Contrasting Analyses of Kant and Hegel”, *The Harvard Theological Review*, 68 (3/4): 357–370.
+* Dreyfus, Hubert L, 1991, *Being-in-the-World. A Commentary on Heidegger’s Being and Time Division I*, Cambridge, MA: MIT Press.
+* Dutton, Denis, 2003, *Authenticity in Art*, in *The Oxford Handbook of Aesthetics*, ed. by Jerrold Levinson. New York: Oxford University Press.
+* Dworkin, Gerald, 1988, *The Theory and Practice of Autonomy*, New York: Cambridge University Press.
+* Fairlie, Henry, 1978, “Too rich for heroes”, *Harper’s*, 257: 33–42; 97–98.
+* Farrell, James J., 1997, *The Spirit of the Sixties*, London: Routledge.
+* Feldman, S., 2014, *Against Authenticity: Why You Shouldn’t Be Yourself*, Lanham, MD: Lexington Books.
+* Ferrara, Alessandro, 1993, *Modernity and Authenticity: A Study of the Social and Ethical Thought of Jean-Jacques Rousseau*, Albany, NY: Sunny Press.
+* –––, 1998, *Reflective Authenticity*, London: Routledge.
+* –––, 2009, “Authenticity Without a True Self”, in Ph. Vannini and J.P. Williams (eds.), *Authenticity in Culture, Self, and Society*, Farnham: Ashgate, pp. 21–36.
+* –––, 2017, *Rousseau and Critical Theory*, Boston and Leiden, Brill.
+* –––, 2019, “The Dual Paradox of Authenticity in the 21st Century”, in Th. Claviez, K. Imesch, and B. Sweers (eds.), *Critique of Authenticity*, Wilmington, DE: Vernon Press.
+* Foucault, Michel, 1980, *The History of Sexuality: Volume I: An Introduction*, New York: Vintage Books.
+* –––, 1984, “On the Genealogy of Ethics: An Overview of Work in Progress,” in *The Foucault Reader*, Paul Rabinow (ed.), New York: Pantheon, pp. 340–372.
+* –––, 1983, “The Subject and Power”, in *Michel Foucault Beyond Structuralism and Hermeneutics* by Hubert L. Dreyfus and Paul Rabinow, Chicago: University of Chicago Press.
+* –––, 1988, “An Aesthetics of Existence”, in *Michel Foucault: Politics, Philosophy, Culture*, edited by Lawrence D.Kritzman, pp. 47–53, New York: Routledge.
+* –––, 1994, *The Order of Things: An Archaeology of the Human Sciences*, New York: Vintage Books.
+* Golomb, Jacob, 1995, *In Search of Authenticity from Kierkegaard to Camus*, Routledge: London, New York.
+* Gray, Glenn J., 1965, “Salvation on the campus: Why existentialism is capturing the students”, *Harper’s*, 230: 53–59.
+* Guignon, Charles, 2004, *On Being Authentic*, London: Routledge.
+* –––, 2008, “Authenticity”, *Philosophy Compass*, 3: 277–290.
+* Hadot, Pierre, 1992, “Reflections on the notion of the ‘cultivation of the self’”, in Timothy J. Armstrong (ed.), *Michel Foucault, Philosopher*, New York: Routledge, pp. 225–232.
+* Hegel, G.W.F., 2002 \[1807], *The Phenomenology of Mind*, Vol. 2. London: Routledge.
+* Heidegger, Martin, 1962 \[1927], *Being and Time*, J. Macquarrie & E. Robinson (trans.), New York: Harper & Row.
+* Heldke, Lisa, and Thomsen, Jens, 2014, “Two Concepts of Authenticity”, *Social Philosophy Today*, 30: 79–94.
+* Honneth, Axel, 1994, “Schwerpunkt: Autonomie und Authentizität”, *Deutsche Zeitschrift für Philosophie*, 42(1): 59–60.
+* Jay, Martin, 2004, “Mimesis and Mimetology: Adorno and Lacoue-Labarthe”, in *Critical Theory*, Vol. 4, D. Rasmussen and J. Swindal (eds), London: Sage, pp. 265–283.
+* Jeffries, Stuart, 2002, “Bernard Williams: The Quest for Truth”, *The Guardian*, November 29, 2. \[[Jeffries 2002 available online](http://www.theguardian.com/books/2002/nov/30/academicexperts.highereducation)]
+* Kierkegaard, Søren, 1962 \[1846], *The Present Age*, A. Dru (trans.), NY: Harper Torchbooks.
+* –––, 1992 \[1846], *Concluding Unscientific Postscript to “Philosophical Fragments”, Vol. 1*, Princeton: Princeton University Press,
+* –––, 1983 \[1843], *Fear and Trembling and Repetition*, Princeton: Princeton University Press.
+* –––, 1980 \[1849], *The Sickness Unto Death: The Christian Psychological Exposition for Upbuilding and Awakening*, trans., H. V. Hong and E. H. Hong. Princeton: Princeton University Press.
+* Lasch, C., 1979, *The Culture of Narcissism: American Life in an Age of Diminishing Expectations*, New York: Norton.
+* MacKay, K., forthcoming, “Authenticity and Normative Authority: Addressing the Agency Dilemma with Values of One’s Own”, *Journal of Social Philosophy*, first online 01 December 2019. doi:10.1111/josp.12309
+* McManus, D., 2019, “On a Judgment of One’s Own: Heideggerian Authenticity, Standpoints, and All Things Considered”, *Mind*, 128(512): 1181–1204.
+* Menke, Christoph, 2005, “*Innere Natur und soziale Normativität: Die Idee der Selbstverwirklichung*”, in *Die kulturellen Werte Europas*, edited by Hans Joas and Klaus Wiegandt, Frankfurt am Main: Fischer, pp. 304–352.
+* Newman, G.E., and Smith, R.K., 2016, “Kinds of Authenticity”, *Philosophy Compass*, 11(10): 609–618.
+* Novak, Michael, 1976, “The family out of favor”, *Harper’s*, 252: 37–46.
+* Nussbaum, Martha, 1994, *Therapy of Desire. Theory and Practice in Hellenistic Ethics*, Princeton: Princeton University Press.
+* Oshana, Marina, 2007, “Autonomy and the Question of Authenticity”, *Social Theory and Practice*, 33(3): 411–429.
+* Orwell, Miles, 1989, *The Real Thing: Imitation and Authenticity in American Culture*, 1880–1940. North Carolina: University of North Carolina Press.
+* Potter, Andrew, 2010, *The Authenticity Hoax: How We Got Lost Trying to Find Ourselves*, San Francisco: HarperCollins.
+* Ricoeur, P., 1970, *Freud and Philosophy: An Essay on Interpretation*, trans., S. Savage, New Haven, Conn.: Yale Univ Press.
+* Riesmann, David, 1950, *The Lonely Crowd. A Study of the Changing American Character*, Written with Nathan Glazer and Reuel Denney, New Haven, Conn.: Yale University Press.
+* Rings, M., 2017, “Authenticity, Self-fulfillment, and Self-acknowledgment”, *The Journal of Value Inquiry*, 51(3): 475–489.
+* Roessler, B., 2012, “Authenticity of cultures and of persons”, *Philosophy and Social Criticism*, 38(4-5): 445–455.
+* Rorty, Richard, 1989, *Contingency, Irony and Solidarity*, Cambridge: Cambridge University Press.
+* Rossinow, Doug, 1998, *The Politics of Authenticity: Liberalism, Christianity and the New Left in America*, New York: Columbia University Press.
+* Rousseau, Jean-Jacques, 1979 \[1762], *Émile*, Alan Bloom (trans.), New York: Basic Books.
+* –––, 1957 \[1770], *The Confessions of Jean-Jacques Rousseau*, Lester Crocker (ed.), New York: Pocket Books.
+* –––, 1992 \[1754], *Discourse on the Origin of Inequality*, Donald A.Cress (trans.), Indianapolis: Hackett.
+* –––, 1997 \[1761], *Julie, or, The new Heloise: Letters of Two Lovers Who Live in a Small Town at the Foot of the Alps*, P. Stewart and J. Hanover (trans.), Lebanon, NH: University Press of New England.
+* Sartre, Jean-Paul, 1948, *Anti-semite and Jew*, New York: Schocken Press.
+* –––, 1992a \[1943], *Being and Nothingness: A Phenomenological Essay on Ontology*, New York: Washington Square Press.
+* –––, 1992b \[1947–48], *Notebooks for an Ethics*, Chicago: University of Chicago Press.
+* –––, 1946, “The Humanism of Existentialism”, reprinted in Charles Guignon and Derk Pereboom (eds.), *Existentialism: Basic Writings*, Indianapolis, IN: Hackett Publishing Co., 2001.
+* Schmid, H.B., 2017, “Authentic Role Play: A Political Solution to an Existential Paradox”, in H. Schmid and G. Thonhauser (eds.), *From Conventionalism to Social Authenticity* (Studies in the Philosophy of Sociality: Volume 10), Cham: Springer. doi:10.1007/978-3-319-56865-2\*14
+* Schneewind, J. B., 1998, *The Invention of Autonomy: A History of Modern Philosophy*, Cambridge: Cambridge University Press
+* Sennett, Richard, 1993, *The Conscience of the Eye: The Design and Social Life of Cities*, London: Faber & Faber.
+* Sennett, Richard and Richard Cobb, 1972, *The Hidden Injuries of Class*, New York: Knopf.
+* Sheldrake, Philip F., 2003, “Christian Spirituality as a Way of Living Publicly: A Dialectic of the Mystical and Prophetic”, *Spiritus: A Journal of Christian Spirituality*, 3(1): 19–37.
+* Sisk, John P., 1973, “On being an object”, *Harper’s*, 247: 60–64.
+* Slater, Philip Elliot, 1970, *The pursuit of loneliness: American culture at the breaking point*, Boston: Beacon Press.
+* Taylor, Charles, 1989, *Sources of the Self. The Making of the Modern Identity*, Cambridge: CUP.
+* –––, 1991, *The Ethics of Authenticity*, Cambridge: Harvard University Press.
+* –––, 1995, “The politics of recognition”, in *Philosophical Arguments*, by Charles Taylor, 225–257. Cambridge Ma: Harvard University Press.
+* –––, 2007, *A Secular Age*, Cambridge: Harvard University Press.
+* Thomson, Irene Taviss, 2000, *In conflict no longer: self and society in contemporary America*, Oxford: Rowmann & Littlefield.
+* Trilling, Lionel, 1972, *Sincerity and Authenticity*, Cambridge: Harvard University Press.
+* Varga, S., 2011a, *Authenticity as an Ethical Ideal*, New York: Routledge.
+* –––, 2011b, “Self-Realization and Owing to Others. A Morality Constraint?” *International Journal of Philosophical Studies*, 19: 71–82.
+* Whyte, William H., 1956, *The Organizational Man*, New York, Simon and Schuster.
+* Williams, Bernard, 1973, *Utilitarianism: For and Against*, Cambridge: Cambridge University Press 108–118.
+* –––, 1985, “Moral Luck”, in *Moral Luck: Philosophical Papers 1973–1980*, Cambridge: Cambridge University Press.
+* –––, 2002, *Truth and Truthfulness: An Essay in Genealogy*, Princeton: Princeton University Press.
+* –––, 2002, *Truth and Truthfulness*, New Jersey: Princeton University Press.
+* Wolf, Susan, 1997, “Meaning and Morality”, *Proceedings of the Aristotelian Society*, 97: 299–315.
+* Yankelovich, Daniel, 1981, *New Rules: Searching for Self-Fulfillment in a World Turned Upside Down*, New York: Random House.
 
 ## Academic Tools
 
@@ -280,5 +279,5 @@ Varga（2011a）分享了一个基本假设，即真实性具有一定的潜力�
 [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [autonomy: personal](https://plato.stanford.edu/entries/personal-autonomy/) | [Beauvoir, Simone de](https://plato.stanford.edu/entries/beauvoir/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [integrity](https://plato.stanford.edu/entries/integrity/) | [Kierkegaard, Søren](https://plato.stanford.edu/entries/kierkegaard/) | [Sartre, Jean-Paul](https://plato.stanford.edu/entries/sartre/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Somogy Varga <[_varga@cas.au.dk_](mailto:varga%40cas%2eau%2edk)>\
+Somogy Varga <[*varga@cas.au.dk*](mailto:varga%40cas%2eau%2edk)>\
 Charles Guignon

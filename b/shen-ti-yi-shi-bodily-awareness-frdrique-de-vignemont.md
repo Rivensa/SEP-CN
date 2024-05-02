@@ -1,6 +1,6 @@
 # 身体意识 bodily awareness (Frédérique de Vignemont)
 
-_首次发表于 2011 年 8 月 9 日；实质性修订于 2020 年 7 月 8 日_
+*首次发表于 2011 年 8 月 9 日；实质性修订于 2020 年 7 月 8 日*
 
 在感官层面上，我们通过外部和内部感知不断接收有关自己身体的信息流。我们不仅可以看到和触摸自己的身体，还有几个内部感受器传达有关肢体位置、身体平衡和生理状况的信息。与外部感知不同，内部感知流永远不会停止，也无法自主控制。因此，大量的信息始终可用，无论我们是否想要，无论我们是否关注。在这方面，我们的身体可以被视为我们最了解的对象。然而，尽管有众多信息源，身体意识的现象学是有限的。在痛苦和学习的情况下，我们的身体似乎成为我们兴趣的核心，但当我们在街上行走时，我们很少意识到腿部的精确位置和脚底与地面的接触。例如，Schwitzgebel（2007）询问了佩戴随机间隔发出哔哔声的设备的参与者左脚在哔哔声之前有多频繁地有触觉体验。他发现答案有很大的变异性，但有一个参与者报告只有 16%的时间有触觉感觉。我们的意识领域主要被我们的环境占据，而不是允许我们感知和在其中移动的身体媒介。因此，生活中最持久和最重要的对象也可能是最难捉摸的对象（Leder 1990；Merleau-Ponty 1945；O’Shaughnessy 1980）。
 
@@ -40,9 +40,9 @@ _触觉感受_是由皮肤机械感受器介导的（见触觉词条）。触觉
 
 _身体意识_提供有关身体位置和运动的信息，尽管有时将身体意识的概念扩大到涵盖所有身体感觉（Bermúdez 1998）。身体意识的机制包括肌肉纺锤体，对肌肉伸展敏感，高尔基腱器官，对肌腱张力敏感，以及关节感受器，对关节位置敏感。一个问题是这些信号是否引起感觉（Anscombe 1962）。
 
-_平衡感_依赖于视觉、触觉，更重要的是内耳的_前庭系统_，它提供有关身体平衡的信息。它包括三个大致正交的半规管，对头部在空间中的运动加速度敏感，以及两个耳石器官，对重力的拉力敏感。它回答了两个问题：（1）“哪边是上？”和（2）“我朝哪里走？”就像身体意识一样，人们可能会质疑是否存在平衡的现象学。除了头晕的情况外，在正常意识中似乎确实缺乏前庭体验。前庭系统被认为在自我定位方面起着重要作用，通过将主体锚定在其位置上，并在世界中定位主体（Wong 2017）。
+*平衡感_依赖于视觉、触觉，更重要的是内耳的_前庭系统*，它提供有关身体平衡的信息。它包括三个大致正交的半规管，对头部在空间中的运动加速度敏感，以及两个耳石器官，对重力的拉力敏感。它回答了两个问题：（1）“哪边是上？”和（2）“我朝哪里走？”就像身体意识一样，人们可能会质疑是否存在平衡的现象学。除了头晕的情况外，在正常意识中似乎确实缺乏前庭体验。前庭系统被认为在自我定位方面起着重要作用，通过将主体锚定在其位置上，并在世界中定位主体（Wong 2017）。
 
-_疼痛_对哲学家们提出了许多挑战（参见疼痛条目），而疼痛经历的多样性使问题变得更加复杂（Corns 2014）。从生理学角度来看，我们的皮肤上有_伤害感受器_，对危险的机械刺激、机械热刺激或热化学刺激作出反应。根据主导理论，有害信号通过脊髓水平的门控机制被各种因素抑制、增强或扭曲，该机制控制着从周围到大脑结构的信号量，并通过中央门控机制（Melzack＆Wall 1983）。一个重要问题是解释疼痛的感觉成分，它代表了感觉的位置和强度，以及情感成分，即其不愉快性，它激发了保护性行为。为了解决这个问题，最近的再现主义理论提出疼痛具有评价内容（Bain 2013）或命令内容（Klein 2015；Martinez 2011；Hall 2008）。
+*疼痛_对哲学家们提出了许多挑战（参见疼痛条目），而疼痛经历的多样性使问题变得更加复杂（Corns 2014）。从生理学角度来看，我们的皮肤上有_伤害感受器*，对危险的机械刺激、机械热刺激或热化学刺激作出反应。根据主导理论，有害信号通过脊髓水平的门控机制被各种因素抑制、增强或扭曲，该机制控制着从周围到大脑结构的信号量，并通过中央门控机制（Melzack＆Wall 1983）。一个重要问题是解释疼痛的感觉成分，它代表了感觉的位置和强度，以及情感成分，即其不愉快性，它激发了保护性行为。为了解决这个问题，最近的再现主义理论提出疼痛具有评价内容（Bain 2013）或命令内容（Klein 2015；Martinez 2011；Hall 2008）。
 
 _身体意识_提供有关身体生理状况的信息，以维持最佳的体内平衡，包括心血管、呼吸、能量（饮食和葡萄糖）以及液体（电解质和水）平衡。最近有人提出，身体意识在巩固“身体自我”（Damasio 1999；Craig 2003；Seth 2013；Tsakiris & de Preester 2018）方面起着重要作用。然而，关于如何定义身体意识存在争议（Ceunen、Vlaeyen、& Van Diest 2016）。它是否仅包括有关有机体内稳态的信息，如 Sherrington（1906）最初提出的，还是包括具有情感成分的任何感觉，因此包括疼痛和情感触觉，如 Craig（2003）最近所假设的？
 
@@ -88,7 +88,7 @@ David Armstrong（1962）是唯一一个提供所有这些身体体验分类法�
 
 McGinn（1996：8）声称：“身体感觉不像知觉经验那样具有意向对象”。他的观点得到了许多人的认同，至少有两个原因：（i）身体不能既作为我们感知世界的锚点，又作为感知对象，以免陷入无限循环；（ii）身体感觉不需要识别和重新识别身体，因为它们只提供关于身体本身的信息。
 
-第一个反对意见来自梅洛-庞蒂（1945：92），他声称：“身体不是外部物体中的另一个”。他区分了由肌肉和骨骼构成的客观身体和我们在先反思意识中体验到的生活身体（_corps propre_）。他认为，生活身体不是可以从不同角度感知的对象，也不是可以被放置或定位在客观空间中的对象。相反，它是零点（胡塞尔 1913 年），从这个零点可以看到客观空间。如果一个人对生活身体采取客观立场，那么客观化的身体将无法成为我们感知世界的锚点。同样，加拉格尔（2003）认为，身体经验不应该以感知的方式理解。加拉格尔运用维特根斯坦将自我区分为主体和客体的区别，认为生活身体必须被看作是主体。只有这样，它才能成为我们对世界的有意识的体验的基础。然而，主体性与意向性并不矛盾。可以说，一个人可以将自我视为主体（Bermúdez 1998）。此外，生活身体可以成为感知对象，而不必转化为其他对象之一。例如，Dokic（2003）声称，身体感觉展示了一种_特殊_的感知意识，但它仍然是感知的。
+第一个反对意见来自梅洛-庞蒂（1945：92），他声称：“身体不是外部物体中的另一个”。他区分了由肌肉和骨骼构成的客观身体和我们在先反思意识中体验到的生活身体（*corps propre*）。他认为，生活身体不是可以从不同角度感知的对象，也不是可以被放置或定位在客观空间中的对象。相反，它是零点（胡塞尔 1913 年），从这个零点可以看到客观空间。如果一个人对生活身体采取客观立场，那么客观化的身体将无法成为我们感知世界的锚点。同样，加拉格尔（2003）认为，身体经验不应该以感知的方式理解。加拉格尔运用维特根斯坦将自我区分为主体和客体的区别，认为生活身体必须被看作是主体。只有这样，它才能成为我们对世界的有意识的体验的基础。然而，主体性与意向性并不矛盾。可以说，一个人可以将自我视为主体（Bermúdez 1998）。此外，生活身体可以成为感知对象，而不必转化为其他对象之一。例如，Dokic（2003）声称，身体感觉展示了一种_特殊_的感知意识，但它仍然是感知的。
 
 对感知模型的第二个反对意见源于 Shoemaker（1994）的感知标准模型。在他的观点中，感知的一个关键条件是获取信息的方式允许对所感知对象进行识别和重新识别。身体感觉的困难在于它们似乎只能让人们接触到一个对象，即自己的身体。对这个反对意见已经提出了几种答案。例如，Schwenkler（2013）回应说，身体感觉仍然传达了关于不同身体部位的事实，因此它们传达了关于不同对象的事实。然而，这是否足以驳斥这个反对意见尚不清楚。另一方面，Martin（1995）则捍卫了他所称的唯一对象观点，即身体感觉只涉及自己的身体，而当它们不涉及自己的身体时，它们是虚幻的或幻觉的。然而，在他的观点中，这并不妨碍身体感觉成为感知的一部分。事实上，人们将自己的身体体验为一个有界的对象。通过意识到身体的边界，人们可以意识到一个包含自己的身体和其他对象的更大空间（参见 Bermúdez 1998）。
 
@@ -219,196 +219,196 @@ McGinn（1996：8）声称：“身体感觉不像知觉经验那样具有意向
 
 ## Bibliography
 
-* Alsmith, Adrian J. T., 2015, “Mental Activity & the Sense ofOwnership”, _Review of Philosophy and Psychology_, 6(4): 881–896. doi:10.1007/s13164-014-0208-1
-* –––, forthcoming, “Bodily Structure and Body Representation”, _Synthese_, first online: 5 April 2019. doi:10.1007/s11229-019-02200-1
-* Anema, Helen A., Martine J.E. van Zandvoort, Edward H.F. de Haan, L. Jaap Kappelle, Paul. L.M. de Kort, Ben P.W. Jansen, and H. Chris Dijkerman, 2009, “A Double Dissociation between Somatosensory Processing for Perception and Action”, _Neuropsychologia_, 47(6): 1615–1620. doi:10.1016/j.neuropsychologia.2008.11.001
-* Anscombe, G. E. M., 1957, _Intention_, Oxford: Blackwell.
-* –––, 1962, “On Sensations of Position”, _Analysis_, 22(3): 55–58. doi:10.1093/analys/22.3.55
-* Armstrong, David Malet, 1962, _Bodily Sensations_, London: Routledge and Paul.
-* Ataria, Yochai, 2018, _Body Disownership in Complex Posttraumatic Stress Disorder_, New York: Palgrave Macmillan US. doi:10.1057/978-1-349-95366-0
-* Aydede, Murat, 2009, “Is Feeling Pain the Perception of Something?”, _Journal of Philosophy_, 106(10): 531–567. doi:10.5840/jphil20091061033
-* Baier, Kurt, 1964, “The Place of a Pain”, _The Philosophical Quarterly_, 14(55): 138–150. doi:10.2307/2955550
-* Baier, Bernhard and Hans-Otto Karnath, 2008, “Tight Link Between Our Sense of Limb Ownership and Self-Awareness of Actions”, _Stroke_, 39(2): 486–488. doi:10.1161/STROKEAHA.107.495606
-* Bain, David, 2013, “What Makes Pains Unpleasant?”, _Philosophical Studies_, 166(S1): 69–89. doi:10.1007/s11098-012-0049-7
-* Bennett, David J. and Christopher Hill (eds.), 2014, _Sensory Integration and the Unity of Consciousness_, Cambridge, MA: MIT Press.
-* Bermúdez, José Luis, 1998, _The Paradox of Self-Consciousness_, Cambridge, MA: MIT Press.
-* –––, 2005, “The Phenomenology of Bodily Awareness”, in _Phenomenology and Philosophy of Mind_, David Woodruff Smith and Amie Lynn Thomasson (eds.), Oxford: Clarendon Press, 295–316.
-* –––, 2011, “Bodily Awareness and Self-Consciousness”, in _Oxford Handbook of the Self_, Shaun Gallagher (ed.), Oxford: Oxford University Press.
-* –––, 2015, “Bodily Ownership, Bodily Awareness and Knowledge without Observation”, _Analysis_, 75(1): 37–45. doi:10.1093/analys/anu119
-* –––, 2018, _The Bodily Self: Selected Essays_, Cambridge, MA: MIT Press.
-* Bermúdez, José Luis, Naomi Eilan, and Anthony Marcel (eds.), 1995, _The Body and the Self_, Cambridge, MA: MIT Press.
-* Billon, Alexandre, 2015, “Why Are We Certain That We Exist?”, _Philosophy and Phenomenological Research_, 91(3): 723–759. doi:10.1111/phpr.12113
-* –––, 2016, “Making Sense of the Cotard Syndrome: Insights from the Study of Depersonalisation: Making Sense of the Cotard Syndrome”, _Mind & Language_, 31(3): 356–391. doi:10.1111/mila.12110
+* Alsmith, Adrian J. T., 2015, “Mental Activity & the Sense ofOwnership”, *Review of Philosophy and Psychology*, 6(4): 881–896. doi:10.1007/s13164-014-0208-1
+* –––, forthcoming, “Bodily Structure and Body Representation”, *Synthese*, first online: 5 April 2019. doi:10.1007/s11229-019-02200-1
+* Anema, Helen A., Martine J.E. van Zandvoort, Edward H.F. de Haan, L. Jaap Kappelle, Paul. L.M. de Kort, Ben P.W. Jansen, and H. Chris Dijkerman, 2009, “A Double Dissociation between Somatosensory Processing for Perception and Action”, *Neuropsychologia*, 47(6): 1615–1620. doi:10.1016/j.neuropsychologia.2008.11.001
+* Anscombe, G. E. M., 1957, *Intention*, Oxford: Blackwell.
+* –––, 1962, “On Sensations of Position”, *Analysis*, 22(3): 55–58. doi:10.1093/analys/22.3.55
+* Armstrong, David Malet, 1962, *Bodily Sensations*, London: Routledge and Paul.
+* Ataria, Yochai, 2018, *Body Disownership in Complex Posttraumatic Stress Disorder*, New York: Palgrave Macmillan US. doi:10.1057/978-1-349-95366-0
+* Aydede, Murat, 2009, “Is Feeling Pain the Perception of Something?”, *Journal of Philosophy*, 106(10): 531–567. doi:10.5840/jphil20091061033
+* Baier, Kurt, 1964, “The Place of a Pain”, *The Philosophical Quarterly*, 14(55): 138–150. doi:10.2307/2955550
+* Baier, Bernhard and Hans-Otto Karnath, 2008, “Tight Link Between Our Sense of Limb Ownership and Self-Awareness of Actions”, *Stroke*, 39(2): 486–488. doi:10.1161/STROKEAHA.107.495606
+* Bain, David, 2013, “What Makes Pains Unpleasant?”, *Philosophical Studies*, 166(S1): 69–89. doi:10.1007/s11098-012-0049-7
+* Bennett, David J. and Christopher Hill (eds.), 2014, *Sensory Integration and the Unity of Consciousness*, Cambridge, MA: MIT Press.
+* Bermúdez, José Luis, 1998, *The Paradox of Self-Consciousness*, Cambridge, MA: MIT Press.
+* –––, 2005, “The Phenomenology of Bodily Awareness”, in *Phenomenology and Philosophy of Mind*, David Woodruff Smith and Amie Lynn Thomasson (eds.), Oxford: Clarendon Press, 295–316.
+* –––, 2011, “Bodily Awareness and Self-Consciousness”, in *Oxford Handbook of the Self*, Shaun Gallagher (ed.), Oxford: Oxford University Press.
+* –––, 2015, “Bodily Ownership, Bodily Awareness and Knowledge without Observation”, *Analysis*, 75(1): 37–45. doi:10.1093/analys/anu119
+* –––, 2018, *The Bodily Self: Selected Essays*, Cambridge, MA: MIT Press.
+* Bermúdez, José Luis, Naomi Eilan, and Anthony Marcel (eds.), 1995, *The Body and the Self*, Cambridge, MA: MIT Press.
+* Billon, Alexandre, 2015, “Why Are We Certain That We Exist?”, *Philosophy and Phenomenological Research*, 91(3): 723–759. doi:10.1111/phpr.12113
+* –––, 2016, “Making Sense of the Cotard Syndrome: Insights from the Study of Depersonalisation: Making Sense of the Cotard Syndrome”, *Mind & Language*, 31(3): 356–391. doi:10.1111/mila.12110
 * –––, 2017, “Mineness First: Three Challenges to the Recent Theories of the Sense of Bodily Ownership”, in Vignemont and Alsmith 2017: 189–216.
-* Block, Ned, 1983, “Mental Pictures and Cognitive Science”, _The Philosophical Review_, 92(4): 499–541. doi:10.2307/2184879
-* –––, 2005, “Review _Action in Perception_ by Alva Noë”:, _Journal of Philosophy_, 102(5): 259–272. doi:10.5840/jphil2005102524
-* Bonnier, Pierre, 1905, “L’Aschématie”, _Revue Neurologique_, 13: 605–609.
-* Botvinick, Matthew and Jonathan Cohen, 1998, “Rubber Hands ‘Feel’ Touch That Eyes See”, _Nature_, 391(6669): 756–756. doi:10.1038/35784
-* Bradley, Adam, forthcoming, “The Feeling of Bodily Ownership”, _Philosophy and Phenomenological Research_, first online: 28 October 2019. doi:10.1111/phpr.12657
+* Block, Ned, 1983, “Mental Pictures and Cognitive Science”, *The Philosophical Review*, 92(4): 499–541. doi:10.2307/2184879
+* –––, 2005, “Review *Action in Perception* by Alva Noë”:, *Journal of Philosophy*, 102(5): 259–272. doi:10.5840/jphil2005102524
+* Bonnier, Pierre, 1905, “L’Aschématie”, *Revue Neurologique*, 13: 605–609.
+* Botvinick, Matthew and Jonathan Cohen, 1998, “Rubber Hands ‘Feel’ Touch That Eyes See”, *Nature*, 391(6669): 756–756. doi:10.1038/35784
+* Bradley, Adam, forthcoming, “The Feeling of Bodily Ownership”, *Philosophy and Phenomenological Research*, first online: 28 October 2019. doi:10.1111/phpr.12657
 * Brewer, Bill, 1995, “Bodily Awareness and the Self”, in Bermúdez, Marcel, and Eilan 1995: 291–310.
-* Briscoe, Robert, 2009, “Egocentric Spatial Representation in Action and Perception”, _Philosophy and Phenomenological Research_, 79(2): 423–460. doi:10.1111/j.1933-1592.2009.00284.x
-* –––, 2014, “Spatial Content and Motoric Significance”, _AVANT. The Journal of the Philosophical-Interdisciplinary Vanguard_, 5(2): 199–217. doi:10.26913/50202014.0109.0009
-* –––, forthcoming, “Bodily Awareness and Novel Multisensory Features”, _Synthese_, first online 28 February 2019. doi:10.1007/s11229-019-02156-2
-* Brooks, Rodney A., 1991, “Intelligence without Representation”, _Artificial Intelligence_, 47(1–3): 139–159. doi:10.1016/0004-3702(91)90053-M
-* Brugger, Peter, Bigna Lenggenhager, and Melita J. Giummarra, 2013, “Xenomelia: A Social Neuroscience View of Altered Bodily Self-Consciousness”, _Frontiers in Psychology_, 4: 204.
-* Burge, Tyler, 2010, _Origins of Objectivity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199581405.001.0001
-* Carman, Taylor, 1999, “The Body in Husserl and Merleau-Ponty”, _Philosophical Topics_, 27(2): 205–226.
-* Carruthers, Glenn, 2008, “Types of Body Representation and the Sense of Embodiment”, _Consciousness and Cognition_, 17(4): 1302–1316. doi:10.1016/j.concog.2008.02.001
+* Briscoe, Robert, 2009, “Egocentric Spatial Representation in Action and Perception”, *Philosophy and Phenomenological Research*, 79(2): 423–460. doi:10.1111/j.1933-1592.2009.00284.x
+* –––, 2014, “Spatial Content and Motoric Significance”, *AVANT. The Journal of the Philosophical-Interdisciplinary Vanguard*, 5(2): 199–217. doi:10.26913/50202014.0109.0009
+* –––, forthcoming, “Bodily Awareness and Novel Multisensory Features”, *Synthese*, first online 28 February 2019. doi:10.1007/s11229-019-02156-2
+* Brooks, Rodney A., 1991, “Intelligence without Representation”, *Artificial Intelligence*, 47(1–3): 139–159. doi:10.1016/0004-3702(91)90053-M
+* Brugger, Peter, Bigna Lenggenhager, and Melita J. Giummarra, 2013, “Xenomelia: A Social Neuroscience View of Altered Bodily Self-Consciousness”, *Frontiers in Psychology*, 4: 204.
+* Burge, Tyler, 2010, *Origins of Objectivity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199581405.001.0001
+* Carman, Taylor, 1999, “The Body in Husserl and Merleau-Ponty”, *Philosophical Topics*, 27(2): 205–226.
+* Carruthers, Glenn, 2008, “Types of Body Representation and the Sense of Embodiment”, *Consciousness and Cognition*, 17(4): 1302–1316. doi:10.1016/j.concog.2008.02.001
 * Cassam, Quassim, 1995, “Introspection and Bodily Self-ascription”, in Bermúdez, Marcel, and Eilan 1995: 311–336.
-* –––, 1997, _Self and World_, New York: Oxford University Press.
-* Ceunen, Erik, Johan W. S. Vlaeyen, and Ilse Van Diest, 2016, “On the Origin of Interoception”, _Frontiers in Psychology_, 7: art. 743. doi:10.3389/fpsyg.2016.00743
-* Chadha, Monima, 2018, “No-Self and the Phenomenology of Ownership”, _Australasian Journal of Philosophy_, 96(1): 14–27. doi:10.1080/00048402.2017.1307236
-* Chen, Cheryl K., 2011, “Bodily Awareness and Immunity to Error through Misidentification: Bodily Awareness and Immunity to Error through Misidentification”, _European Journal of Philosophy_, 19(1): 21–38. doi:10.1111/j.1468-0378.2009.00363.x
-* Clark, Andy, 1997, _Being There: Putting Brain, Body and World Together Again_, Cambridge, MA: MIT Press
-* Coburn, Robert C., 1966, “Pains and Space”, _Journal of Philosophy_, 63(13): 381–396. doi:10.2307/2024284
+* –––, 1997, *Self and World*, New York: Oxford University Press.
+* Ceunen, Erik, Johan W. S. Vlaeyen, and Ilse Van Diest, 2016, “On the Origin of Interoception”, *Frontiers in Psychology*, 7: art. 743. doi:10.3389/fpsyg.2016.00743
+* Chadha, Monima, 2018, “No-Self and the Phenomenology of Ownership”, *Australasian Journal of Philosophy*, 96(1): 14–27. doi:10.1080/00048402.2017.1307236
+* Chen, Cheryl K., 2011, “Bodily Awareness and Immunity to Error through Misidentification: Bodily Awareness and Immunity to Error through Misidentification”, *European Journal of Philosophy*, 19(1): 21–38. doi:10.1111/j.1468-0378.2009.00363.x
+* Clark, Andy, 1997, *Being There: Putting Brain, Body and World Together Again*, Cambridge, MA: MIT Press
+* Coburn, Robert C., 1966, “Pains and Space”, *Journal of Philosophy*, 63(13): 381–396. doi:10.2307/2024284
 * Cole, Jonathan and Jacques Paillard, 1995, “Living without Touch and Peripheral Information about Body Position and Movement: Studies with Deafferented Subjects”, in Bermúdez, Marcel, and Eilan 1995: 245–266.
 * Coliva, Annalisa, 2012, “Which ‘Key to All Mythologies’ about the Self? A Note on Where the Illusions of Transcendence Come from and How to Resist Them”, in Prosser and Recanati 2012: 22–45. doi:10.1017/CBO9781139043274.003
-* Condillac, Étienne Bonnot de, 1754 \[1997], _Traité des sensations_, 2 volumes, Paris: Durand. Reprinted in _Traité des sensations, Traité des animaux_, Paris: Fayard, 1997.
-* Corns, Jennifer, 2014, “The Inadequacy of Unitary Characterizations of Pain”, _Philosophical Studies_, 169(3): 355–378. doi:10.1007/s11098-013-0186-7
-* Coslett, H.B, 1998, “Evidence for a disturbance of body schema in neglect”, _Brain and Cognition_, 37: 527–544.
-* Craig, A. D. (Bud), 2003, “Interoception: The Sense of the Physiological Condition of the Body”, _Current Opinion in Neurobiology_, 13(4): 500–505. doi:10.1016/S0959-4388(03)00090-4
-* Crane, Tim (ed.), 1992, _The Contents of Experience_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554582
-* Damasio, Antonio, 1999, _The Feeling of What Happens: Body and Emotion in the Making of Consciousness_, London: William Heinemann.
-* De Preester, Helena, 2007, “The Deep Bodily Origins of the Subjective Perspective: Models and Their Problems”, _Consciousness and Cognition_, 16(3): 604–618. doi:10.1016/j.concog.2007.05.002
-* Descartes, René, 1649, _The Passions of the Soul_, Indianapolis, IN: Hackett, 1989.
-* Dijkerman, H. Chris and Edward H. F. de Haan, 2007, “Somatosensory Processes Subserving Perception and Action”, _Behavioral and Brain Sciences_, 30(2): 189–201. doi:10.1017/S0140525X07001392
-* Dokic, Jéróme, 2003, “The Sense of Ownership: An Analogy Between Sensation and Action”, in _Agency and Self-Awareness: Issues in Philosophy and Psychology_, Johannes Roessler and Naomi Eilan (eds.), Oxford: Oxford University Press, 321–344.
-* Ehrsson, H. Henrik, Katja Wiech, Nikolaus Weiskopf, Raymond J. Dolan, and Richard E. Passingham, 2007, “Threatening a Rubber Hand That You Feel Is Yours Elicits a Cortical Anxiety Response”, _Proceedings of the National Academy of Sciences_, 104(23): 9828–9833. doi:10.1073/pnas.0610011104
+* Condillac, Étienne Bonnot de, 1754 \[1997], *Traité des sensations*, 2 volumes, Paris: Durand. Reprinted in *Traité des sensations, Traité des animaux*, Paris: Fayard, 1997.
+* Corns, Jennifer, 2014, “The Inadequacy of Unitary Characterizations of Pain”, *Philosophical Studies*, 169(3): 355–378. doi:10.1007/s11098-013-0186-7
+* Coslett, H.B, 1998, “Evidence for a disturbance of body schema in neglect”, *Brain and Cognition*, 37: 527–544.
+* Craig, A. D. (Bud), 2003, “Interoception: The Sense of the Physiological Condition of the Body”, *Current Opinion in Neurobiology*, 13(4): 500–505. doi:10.1016/S0959-4388(03)00090-4
+* Crane, Tim (ed.), 1992, *The Contents of Experience*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554582
+* Damasio, Antonio, 1999, *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*, London: William Heinemann.
+* De Preester, Helena, 2007, “The Deep Bodily Origins of the Subjective Perspective: Models and Their Problems”, *Consciousness and Cognition*, 16(3): 604–618. doi:10.1016/j.concog.2007.05.002
+* Descartes, René, 1649, *The Passions of the Soul*, Indianapolis, IN: Hackett, 1989.
+* Dijkerman, H. Chris and Edward H. F. de Haan, 2007, “Somatosensory Processes Subserving Perception and Action”, *Behavioral and Brain Sciences*, 30(2): 189–201. doi:10.1017/S0140525X07001392
+* Dokic, Jéróme, 2003, “The Sense of Ownership: An Analogy Between Sensation and Action”, in *Agency and Self-Awareness: Issues in Philosophy and Psychology*, Johannes Roessler and Naomi Eilan (eds.), Oxford: Oxford University Press, 321–344.
+* Ehrsson, H. Henrik, Katja Wiech, Nikolaus Weiskopf, Raymond J. Dolan, and Richard E. Passingham, 2007, “Threatening a Rubber Hand That You Feel Is Yours Elicits a Cortical Anxiety Response”, *Proceedings of the National Academy of Sciences*, 104(23): 9828–9833. doi:10.1073/pnas.0610011104
 * Ernst, Marc O., 2006, “A Bayesian view on multimodal cue integration”, in Knoblich, Thornton, Grosjean, & Shiffrar 2006: 105–131.
-* Evans, Gareth, 1982, _The Varieties of Reference_, Oxford: Oxford University Press.
-* Fulkerson, Matthew, 2014, _The First Sense: A Philosophical Study of Human Touch_, Cambridge, MA: MIT Press.
-* Gadsby, Stephen, 2017, “Distorted Body Representations in Anorexia Nervosa”, _Consciousness and Cognition_, 51: 17–33. doi:10.1016/j.concog.2017.02.015
-* –––, 2018, “How Are the Spatial Characteristics of the Body Represented? A Reply to Pitron & deVignemont”, _Consciousness and Cognition_, 62: 163–168. doi:10.1016/j.concog.2018.04.011
-* Gadsby, Stephen and Daniel Williams, 2018, “Action, Affordances, and Anorexia: Body Representation and Basic Cognition”, _Synthese_, 195(12): 5297–5317. doi:10.1007/s11229-018-1843-3
-* Gallagher, Shaun, 1986, “Body Image and Body Schema: Aconceptual Clarification”, _Journal of Mind and Behavior_, 7(4): 541–554.
+* Evans, Gareth, 1982, *The Varieties of Reference*, Oxford: Oxford University Press.
+* Fulkerson, Matthew, 2014, *The First Sense: A Philosophical Study of Human Touch*, Cambridge, MA: MIT Press.
+* Gadsby, Stephen, 2017, “Distorted Body Representations in Anorexia Nervosa”, *Consciousness and Cognition*, 51: 17–33. doi:10.1016/j.concog.2017.02.015
+* –––, 2018, “How Are the Spatial Characteristics of the Body Represented? A Reply to Pitron & deVignemont”, *Consciousness and Cognition*, 62: 163–168. doi:10.1016/j.concog.2018.04.011
+* Gadsby, Stephen and Daniel Williams, 2018, “Action, Affordances, and Anorexia: Body Representation and Basic Cognition”, *Synthese*, 195(12): 5297–5317. doi:10.1007/s11229-018-1843-3
+* Gallagher, Shaun, 1986, “Body Image and Body Schema: Aconceptual Clarification”, *Journal of Mind and Behavior*, 7(4): 541–554.
 * –––, 1995, “Body Schema and Intentionality”, in Bermúdez, Marcel, and Eilan 1995: 225–244.
-* –––, 2003, “Bodily Self-Awareness and Object Perception”, _Theoria et Historia Scientiarum_, 7(1): 53–68. doi:10.12775/ths.2003.004
-* –––, 2005, _How the Body Shapes the Mind_, New York: Oxford University Press. doi:10.1093/0199271941.001.0001
-* –––, 2008, “Are Minimal Representations Still Representations?”, _International Journal of Philosophical Studies_, 16(3): 351–369. doi:10.1080/09672550802113243
-* Gatzia, Dimitria Electra and Berit Broogard (eds.), 2020, _The Epistemology of Non-Visual Perception_, Oxford: Oxford University Press. doi:10.1093/oso/9780190648916.001.0001
-* Gendler, Tamar Szabó, 2008, “Alief in Action (and Reaction)”, _Mind & Language_, 23(5): 552–585. doi:10.1111/j.1468-0017.2008.00352.x
-* Gibson, James J., 1979, _The Ecological Approach to Perception_, Boston: Houghton Mifflin
-* Goldenberg, Georg, 2003, “Goldsten and Gel’s case Schn.: A classic case in neuropsychology?” in _Classic Cases in Neuropsychology_, Volume 2, Chris Code, Claus-W. Wellesch, Yves Loenette, Andre Roch Lecours (eds.), Hove, NY: Psychology Press, 281–299.
-* Guillot, Marie, 2017, “_I Me Mine_: On a Confusion Concerning the Subjective Character of Experience”, _Review of Philosophy and Psychology_, 8(1): 23–53. doi:10.1007/s13164-016-0313-4
-* Guillot, Marie and Manuel García-Carpintero (eds.), forthcoming, _The Sense of Mineness_, Oxford: Oxford University Press.
-* Gurwitsch, Aron, 1985, _Marginal Consciousness_, Athens, OH: Ohio University Press.
+* –––, 2003, “Bodily Self-Awareness and Object Perception”, *Theoria et Historia Scientiarum*, 7(1): 53–68. doi:10.12775/ths.2003.004
+* –––, 2005, *How the Body Shapes the Mind*, New York: Oxford University Press. doi:10.1093/0199271941.001.0001
+* –––, 2008, “Are Minimal Representations Still Representations?”, *International Journal of Philosophical Studies*, 16(3): 351–369. doi:10.1080/09672550802113243
+* Gatzia, Dimitria Electra and Berit Broogard (eds.), 2020, *The Epistemology of Non-Visual Perception*, Oxford: Oxford University Press. doi:10.1093/oso/9780190648916.001.0001
+* Gendler, Tamar Szabó, 2008, “Alief in Action (and Reaction)”, *Mind & Language*, 23(5): 552–585. doi:10.1111/j.1468-0017.2008.00352.x
+* Gibson, James J., 1979, *The Ecological Approach to Perception*, Boston: Houghton Mifflin
+* Goldenberg, Georg, 2003, “Goldsten and Gel’s case Schn.: A classic case in neuropsychology?” in *Classic Cases in Neuropsychology*, Volume 2, Chris Code, Claus-W. Wellesch, Yves Loenette, Andre Roch Lecours (eds.), Hove, NY: Psychology Press, 281–299.
+* Guillot, Marie, 2017, “*I Me Mine*: On a Confusion Concerning the Subjective Character of Experience”, *Review of Philosophy and Psychology*, 8(1): 23–53. doi:10.1007/s13164-016-0313-4
+* Guillot, Marie and Manuel García-Carpintero (eds.), forthcoming, *The Sense of Mineness*, Oxford: Oxford University Press.
+* Gurwitsch, Aron, 1985, *Marginal Consciousness*, Athens, OH: Ohio University Press.
 * Haggard, Patrick, Tony Cheng, Brianna Beck, and Francesca Fardo, 2017, “Spatial Perception and the Sense of Touch”, in Vignemont and Alsmith 2017: 97–114
-* Hall, Richard J., 2008, “If It Itches, Scratch!”, _Australasian Journal of Philosophy_, 86(4): 525–535. doi:10.1080/00048400802346813
-* Harcourt, Edward, 2008, “Wittgenstein and Bodily Self-Knowledge”, _Philosophy and Phenomenological Research_, 77(2): 299–333. doi:10.1111/j.1933-1592.2008.00193.x
-* Head, Henry and Gordon Holmes, 1911, “Sensory Disturbances from Cerebral Lesions”, _Brain_, 34(2–3): 102–254. doi:10.1093/brain/34.2-3.102
-* Henri, Michel, 1965, _Philosophie et Phénoménologie du corps_, Paris: Presses Universitaire de France.
-* Hilti, Leonie Maria and Peter Brugger, 2010, “Incarnation and Animation: Physical versus Representational Deficits of Body Integrity”, _Experimental Brain Research_, 204(3): 315–326. doi:10.1007/s00221-009-2043-7
-* Holly, W. J., 1986, “The Spatial Coordinates of Pain”, _The Philosophical Quarterly_, 36(144): 343–356. doi:10.2307/2220189
+* Hall, Richard J., 2008, “If It Itches, Scratch!”, *Australasian Journal of Philosophy*, 86(4): 525–535. doi:10.1080/00048400802346813
+* Harcourt, Edward, 2008, “Wittgenstein and Bodily Self-Knowledge”, *Philosophy and Phenomenological Research*, 77(2): 299–333. doi:10.1111/j.1933-1592.2008.00193.x
+* Head, Henry and Gordon Holmes, 1911, “Sensory Disturbances from Cerebral Lesions”, *Brain*, 34(2–3): 102–254. doi:10.1093/brain/34.2-3.102
+* Henri, Michel, 1965, *Philosophie et Phénoménologie du corps*, Paris: Presses Universitaire de France.
+* Hilti, Leonie Maria and Peter Brugger, 2010, “Incarnation and Animation: Physical versus Representational Deficits of Body Integrity”, *Experimental Brain Research*, 204(3): 315–326. doi:10.1007/s00221-009-2043-7
+* Holly, W. J., 1986, “The Spatial Coordinates of Pain”, *The Philosophical Quarterly*, 36(144): 343–356. doi:10.2307/2220189
 * Hopkins, Robert, 2011, “Re-imagining, Re-Viewing and Re-Touching”, in Mcpherson 2011: 261–283.
-* Hochstetter, Gregor, 2016, “Attention in Bodily Awareness”, _Synthese_, 193(12): 3819–3842. doi:10.1007/s11229-016-1141-x
-* Hurley, Susan, 1998, _Consciousness in Action_, Cambridge, MA: Harvard University Press.
-* Husserl, Edmund, 1913, _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy_ (Second Book: Studies in the Phenomenology of Constitution), R. Rojcewicz and A. Schuwer (trans.), Dordrecht: Kluwer, 1989.
-* James, William, 1890, _The Principles of Psychology_, 2 volumes, New York: Henry Holt.
-* Kammers, M.P.M., F. de Vignemont, L. Verhagen, and H.C. Dijkerman, 2009, “The Rubber Hand Illusion in Action”, _Neuropsychologia_, 47(1): 204–211. doi:10.1016/j.neuropsychologia.2008.07.028
-* Katz, David, 1925, _The World of Touch_, Hillsdale, NJ: Erlbaum.
+* Hochstetter, Gregor, 2016, “Attention in Bodily Awareness”, *Synthese*, 193(12): 3819–3842. doi:10.1007/s11229-016-1141-x
+* Hurley, Susan, 1998, *Consciousness in Action*, Cambridge, MA: Harvard University Press.
+* Husserl, Edmund, 1913, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy* (Second Book: Studies in the Phenomenology of Constitution), R. Rojcewicz and A. Schuwer (trans.), Dordrecht: Kluwer, 1989.
+* James, William, 1890, *The Principles of Psychology*, 2 volumes, New York: Henry Holt.
+* Kammers, M.P.M., F. de Vignemont, L. Verhagen, and H.C. Dijkerman, 2009, “The Rubber Hand Illusion in Action”, *Neuropsychologia*, 47(1): 204–211. doi:10.1016/j.neuropsychologia.2008.07.028
+* Katz, David, 1925, *The World of Touch*, Hillsdale, NJ: Erlbaum.
 * Kinsbourne, Marcel, 1995, “Awareness of One’s Own Body: An Attentionnal Theory of Its Nature, Development, and Brain Basis”, in Bermúdez, Marcel, and Eilan 1995: 205–224.
-* Kinsbourne, Marcel and Henrietta Lempert, 1980, “Human Figure Representation by Blind Children”, _The Journal of General Psychology_, 102(1): 33–37. doi:10.1080/00221309.1980.9920961
-* Klein, Colin, 2015, _What the Body Commands: The Imperative Theory of Pain_, Cambridge, MA: The MIT Press.
-* Knoblich, Günther, Ian M. Thornton, Marc Grosjean, and Maggie Shiffrar (eds.) 2005, _Human Body Perception from the Inside Out_, New York: Oxford University Press.
-* Leder, Drew, 1990, _The Absent Body_, Chicago: Chicago University Press.
-* Legrand, Dorothée, 2006, “The Bodily Self: The Sensori-Motor Roots of Pre-Reflective Self-Consciousness”, _Phenomenology and the Cognitive Sciences_, 5(1): 89–118. doi:10.1007/s11097-005-9015-6
-* Lhermitte, J., 1942, “De l’image corporelle”, _Revue Neurologique_, 74: 20–38.
+* Kinsbourne, Marcel and Henrietta Lempert, 1980, “Human Figure Representation by Blind Children”, *The Journal of General Psychology*, 102(1): 33–37. doi:10.1080/00221309.1980.9920961
+* Klein, Colin, 2015, *What the Body Commands: The Imperative Theory of Pain*, Cambridge, MA: The MIT Press.
+* Knoblich, Günther, Ian M. Thornton, Marc Grosjean, and Maggie Shiffrar (eds.) 2005, *Human Body Perception from the Inside Out*, New York: Oxford University Press.
+* Leder, Drew, 1990, *The Absent Body*, Chicago: Chicago University Press.
+* Legrand, Dorothée, 2006, “The Bodily Self: The Sensori-Motor Roots of Pre-Reflective Self-Consciousness”, *Phenomenology and the Cognitive Sciences*, 5(1): 89–118. doi:10.1007/s11097-005-9015-6
+* Lhermitte, J., 1942, “De l’image corporelle”, *Revue Neurologique*, 74: 20–38.
 * Longo, Matthew R., 2017, “Body Representations and the Sense of Self”, in Vignemont and Alsmith 2017: 75–96.
-* Longo, Matthew R., Friederike Schüür, Marjolein P.M. Kammers, Manos Tsakiris, and Patrick Haggard, 2008, “What Is Embodiment? A Psychometric Approach”, _Cognition_, 107(3): 978–998. doi:10.1016/j.cognition.2007.12.004
-* Longo, Matthew R. and Patrick Haggard, 2010, “An Implicit Body Representation Underlying Human Position Sense”, _Proceedings of the National Academy of Sciences_, 107(26): 11727–11732. doi:10.1073/pnas.1003483107
-* Lyons, Jack, 2011, “Circularity, Reliability, and the Cognitive Penetrability of Perception”, _Philosophical Issues_, 21(1): 289–311. doi:10.1111/j.1533-6077.2011.00205.x
-* Mach, Ernst, 1914, _The Analysis of Sensations_, La Salle, Ill.: Open Court.
-* Maine de Biran, F. P. G., 1812 \[2001], _Essai sur les fondements de la psychologie_, Paris: Vrin.
-* Mandrigin, Alisa, forthcoming, “The Where of Bodily Awareness”, _Synthese_, first online: 8 April 2019. doi:10.1007/s11229-019-02171-3
-* Margolis, Joseph, 1966, “Awareness of Sensations and of the Location of Sensations”, _Analysis_, 27(1): 29–32. doi:10.1093/analys/27.1.29
-* Marchetti, Clelia and Sergio Della Sala, 1998, “Disentangling the Alien and Anarchic Hand”, _Cognitive Neuropsychiatry_, 3(3): 191–207. doi:10.1080/135468098396143
-* Marr, David, 1982, _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_, San Francisco, CA: W.H. Freeman.
+* Longo, Matthew R., Friederike Schüür, Marjolein P.M. Kammers, Manos Tsakiris, and Patrick Haggard, 2008, “What Is Embodiment? A Psychometric Approach”, *Cognition*, 107(3): 978–998. doi:10.1016/j.cognition.2007.12.004
+* Longo, Matthew R. and Patrick Haggard, 2010, “An Implicit Body Representation Underlying Human Position Sense”, *Proceedings of the National Academy of Sciences*, 107(26): 11727–11732. doi:10.1073/pnas.1003483107
+* Lyons, Jack, 2011, “Circularity, Reliability, and the Cognitive Penetrability of Perception”, *Philosophical Issues*, 21(1): 289–311. doi:10.1111/j.1533-6077.2011.00205.x
+* Mach, Ernst, 1914, *The Analysis of Sensations*, La Salle, Ill.: Open Court.
+* Maine de Biran, F. P. G., 1812 \[2001], *Essai sur les fondements de la psychologie*, Paris: Vrin.
+* Mandrigin, Alisa, forthcoming, “The Where of Bodily Awareness”, *Synthese*, first online: 8 April 2019. doi:10.1007/s11229-019-02171-3
+* Margolis, Joseph, 1966, “Awareness of Sensations and of the Location of Sensations”, *Analysis*, 27(1): 29–32. doi:10.1093/analys/27.1.29
+* Marchetti, Clelia and Sergio Della Sala, 1998, “Disentangling the Alien and Anarchic Hand”, *Cognitive Neuropsychiatry*, 3(3): 191–207. doi:10.1080/135468098396143
+* Marr, David, 1982, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*, San Francisco, CA: W.H. Freeman.
 * Martin, Michael G.F., 1992, “Sight and Touch”, in Crane 1992: 199–201. doi:10.1017/CBO9780511554582.010
-* –––, 1993, “Sense Modalities and Spatial Properties”, in _Spatial Representations: Problems in Philosophy and Psychology_, Naoimi Eilan, Rosaleen McCarty and Bill Brewer (eds.), Oxford: Oxford University Press.
+* –––, 1993, “Sense Modalities and Spatial Properties”, in *Spatial Representations: Problems in Philosophy and Psychology*, Naoimi Eilan, Rosaleen McCarty and Bill Brewer (eds.), Oxford: Oxford University Press.
 * –––, 1995, “Bodily Awareness: A Sense of Ownership”, in Bermúdez, Marcel, and Eilan 1995: 267–290 .
-* Martínez, Manolo, 2011, “Imperative Content and the Painfulness of Pain”, _Phenomenology and the Cognitive Sciences_, 10(1): 67–90. doi:10.1007/s11097-010-9172-0
-* Matthen, Mohan (ed.), 2015, _The Oxford Handbook of Philosophy of Perception_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199600472.001.0001
+* Martínez, Manolo, 2011, “Imperative Content and the Painfulness of Pain”, *Phenomenology and the Cognitive Sciences*, 10(1): 67–90. doi:10.1007/s11097-010-9172-0
+* Matthen, Mohan (ed.), 2015, *The Oxford Handbook of Philosophy of Perception*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199600472.001.0001
 * –––, forthcoming, “ The Dual Structure ofc touch”, in Vignemont, Wong, Serino, and Farnè forthcoming.
-* McDowell, John, 2011, “Anscombe on bodily self-knowledge”, in _Essays on Anscombe’s “Intention”_, Anton Ford, Jennifer Hornsby, and Frederick Stoutland (eds.), Cambridge MA: MIT Press, 128–146.
-* McGinn, Colin, 1996, _The Character of Mind: An Introduction to the Philosophy of Mind_, Oxford, New York: Oxford University Press.
-* McGlone, Francis, Johan Wessberg, and Håkan Olausson, 2014, “Discriminative and Affective Touch: Sensing and Feeling”, _Neuron_, 82(4): 737–755. doi:10.1016/j.neuron.2014.05.001
-* Mcpherson, Fiona (ed.), 2011, _The Senses: Classic and Contemporary Philosophical Perspectives_, Oxford: Oxford University Press.
-* Medina, Jared and H. Branch Coslett, 2016, “What Can Errors Tell Us about Body Representations?”, _Cognitive Neuropsychology_, 33(1–2): 5–25. doi:10.1080/02643294.2016.1188065
-* Melzack, Ronald and Patrick D. Wall, 1983, _The Challenge of Pain_, New York: Basic Books
-* Merleau-Ponty, Maurice, 1945, _Phénoménologie de la perception_, Paris: Gallimard.
-* Milner, David and Mel Goodale, 1995, _The Visual Brain in Action_, New York: Oxford University Press.
-* Mishara, Aaron L., 2004, “The Disconnection of External and Internal in the Conscious Experience of Schizophrenia: Phenomenological, Literary and Neuroanatomical Archaeologies of Self”, _Philosophica_, 73: 87–126.
-* Mizumoto, Masaharu and Masato Ishikawa, 2005, “Immunity to Error Through Misidentification and the Bodily Illusion Experiment”, _Journal of Consciousness Studies_, 12(7): 3–19.
-* Moro, Valentina, Massimiliano Zampini, and Salvatore M. Aglioti, 2004, “Changes in Spatial Position of Hands Modify Tactile Extinction but Not Disownership of Contralesional Hand in Two Right Brain-Damaged Patients”, _Neurocase_, 10(6): 437–443. doi:10.1080/13554790490894020
-* Moseley, G. Lorimer, Alberto Gallace, and Gian Domenico Iannetti, 2012, “Spatially Defined Modulation of Skin Temperature and Hand Ownership of Both Hands in Patients with Unilateral Complex Regional Pain Syndrome”, _Brain_, 135(12): 3676–3686. doi:10.1093/brain/aws297
-* Munro, Daniel, forthcoming, “Visual and Bodily Sensational Perception: An Epistemic Asymmetry”, _Synthese_, first online: 27 June 2019. doi:10.1007/s11229-019-02304-8
-* Murillo Lara, Luis Alejandro, 2018, “Explaining the Felt Location of Bodily Sensations through Body Representations”, _Consciousness and Cognition_, 60: 17–24. doi:10.1016/j.concog.2018.01.007
-* Nielsen, M., 1938, “Gerstmann Syndrome: Finger Agnosia, Agraphia, Confusion of Right and Left and Acalculia: Comparison of This Syndrome with Disturbance of Body Scheme Resulting from Lesions of the Right Side of the Brain”, _Archives of Neurology & Psychiatry_, 39(3), 536–560. doi:10.1001/archneurpsyc.1938.02270030114009
-* Noë, Alva, 2004, _Action in Perception_, Cambridge, MA: MIT Press.
-* Noordhof, Paul, 2001, “In Pain”, _Analysis_, 61(2): 95–97. doi:10.1093/analys/61.2.95
-* O’Callaghan, Casey, 2020, _A Multisensory Theory of Perception_, Oxford: Oxford University Press. 92–117
-* O’Regan, J. Kevin, 2011, _Why Red Doesn’t Sound Like a Bell: Understanding the Feel of Consciousness_, Oxford: Oxford University Press.
-* O’Regan, J. Kevin and Alva Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness”, _Behavioral and Brain Sciences_, 24(5): 939–973. doi:10.1017/S0140525X01000115
-* O’Shaughnessy, Brian, 1980, _The Will_, Vol. 1. Cambridge: Cambridge University Press.
-* –––, 1989, “The Sense of Touch”, _Australasian Journal of Philosophy_, 67(1): 37–58. doi:10.1080/00048408912343671
+* McDowell, John, 2011, “Anscombe on bodily self-knowledge”, in *Essays on Anscombe’s “Intention”*, Anton Ford, Jennifer Hornsby, and Frederick Stoutland (eds.), Cambridge MA: MIT Press, 128–146.
+* McGinn, Colin, 1996, *The Character of Mind: An Introduction to the Philosophy of Mind*, Oxford, New York: Oxford University Press.
+* McGlone, Francis, Johan Wessberg, and Håkan Olausson, 2014, “Discriminative and Affective Touch: Sensing and Feeling”, *Neuron*, 82(4): 737–755. doi:10.1016/j.neuron.2014.05.001
+* Mcpherson, Fiona (ed.), 2011, *The Senses: Classic and Contemporary Philosophical Perspectives*, Oxford: Oxford University Press.
+* Medina, Jared and H. Branch Coslett, 2016, “What Can Errors Tell Us about Body Representations?”, *Cognitive Neuropsychology*, 33(1–2): 5–25. doi:10.1080/02643294.2016.1188065
+* Melzack, Ronald and Patrick D. Wall, 1983, *The Challenge of Pain*, New York: Basic Books
+* Merleau-Ponty, Maurice, 1945, *Phénoménologie de la perception*, Paris: Gallimard.
+* Milner, David and Mel Goodale, 1995, *The Visual Brain in Action*, New York: Oxford University Press.
+* Mishara, Aaron L., 2004, “The Disconnection of External and Internal in the Conscious Experience of Schizophrenia: Phenomenological, Literary and Neuroanatomical Archaeologies of Self”, *Philosophica*, 73: 87–126.
+* Mizumoto, Masaharu and Masato Ishikawa, 2005, “Immunity to Error Through Misidentification and the Bodily Illusion Experiment”, *Journal of Consciousness Studies*, 12(7): 3–19.
+* Moro, Valentina, Massimiliano Zampini, and Salvatore M. Aglioti, 2004, “Changes in Spatial Position of Hands Modify Tactile Extinction but Not Disownership of Contralesional Hand in Two Right Brain-Damaged Patients”, *Neurocase*, 10(6): 437–443. doi:10.1080/13554790490894020
+* Moseley, G. Lorimer, Alberto Gallace, and Gian Domenico Iannetti, 2012, “Spatially Defined Modulation of Skin Temperature and Hand Ownership of Both Hands in Patients with Unilateral Complex Regional Pain Syndrome”, *Brain*, 135(12): 3676–3686. doi:10.1093/brain/aws297
+* Munro, Daniel, forthcoming, “Visual and Bodily Sensational Perception: An Epistemic Asymmetry”, *Synthese*, first online: 27 June 2019. doi:10.1007/s11229-019-02304-8
+* Murillo Lara, Luis Alejandro, 2018, “Explaining the Felt Location of Bodily Sensations through Body Representations”, *Consciousness and Cognition*, 60: 17–24. doi:10.1016/j.concog.2018.01.007
+* Nielsen, M., 1938, “Gerstmann Syndrome: Finger Agnosia, Agraphia, Confusion of Right and Left and Acalculia: Comparison of This Syndrome with Disturbance of Body Scheme Resulting from Lesions of the Right Side of the Brain”, *Archives of Neurology & Psychiatry*, 39(3), 536–560. doi:10.1001/archneurpsyc.1938.02270030114009
+* Noë, Alva, 2004, *Action in Perception*, Cambridge, MA: MIT Press.
+* Noordhof, Paul, 2001, “In Pain”, *Analysis*, 61(2): 95–97. doi:10.1093/analys/61.2.95
+* O’Callaghan, Casey, 2020, *A Multisensory Theory of Perception*, Oxford: Oxford University Press. 92–117
+* O’Regan, J. Kevin, 2011, *Why Red Doesn’t Sound Like a Bell: Understanding the Feel of Consciousness*, Oxford: Oxford University Press.
+* O’Regan, J. Kevin and Alva Noë, 2001, “A Sensorimotor Account of Vision and Visual Consciousness”, *Behavioral and Brain Sciences*, 24(5): 939–973. doi:10.1017/S0140525X01000115
+* O’Shaughnessy, Brian, 1980, *The Will*, Vol. 1. Cambridge: Cambridge University Press.
+* –––, 1989, “The Sense of Touch”, *Australasian Journal of Philosophy*, 67(1): 37–58. doi:10.1080/00048408912343671
 * –––, 1995, “Proprioception and the Body Image”, in Bermúdez, Marcel, and Eilan 1995: 175–204.
-* –––, 2000, _Consciousness and the World_, Oxford: Oxford University Press.
-* Paillard, Jacques, 1999, “Body schema and body image: A double dissociation in deafferented patients”, in G. N. Gantchev, S. Mori, and J. Massion (eds.), _Motor Control, Today and Tomorrow_, Sofia: Professor Marius Drinov Academic Publishing House, 197–214.
-* Paillard, Jacques, François Michel, and George Stelmach, 1983, “Localization Without Content: A Tactile Analogue of ‘Blind Sight’”, _Archives of Neurology_, 40(9): 548. doi:10.1001/archneur.1983.04050080048008
+* –––, 2000, *Consciousness and the World*, Oxford: Oxford University Press.
+* Paillard, Jacques, 1999, “Body schema and body image: A double dissociation in deafferented patients”, in G. N. Gantchev, S. Mori, and J. Massion (eds.), *Motor Control, Today and Tomorrow*, Sofia: Professor Marius Drinov Academic Publishing House, 197–214.
+* Paillard, Jacques, François Michel, and George Stelmach, 1983, “Localization Without Content: A Tactile Analogue of ‘Blind Sight’”, *Archives of Neurology*, 40(9): 548. doi:10.1001/archneur.1983.04050080048008
 * Peacocke, Christopher, 1992, “Scenarios, Concepts, and Perception”, in Crane 1992: 105–135. doi:10.1017/CBO9780511554582.006
-* –––, 2012, “Explaining _de se_ Phenomena”, in Prosser and Recanati 2012: 144–157. doi:10.1017/CBO9781139043274.009
-* –––, 2014, _The Mirror of the World: Subjects, Consciousness, and Self-Consciousness_, Oxford: Oxford University Press.
+* –––, 2012, “Explaining *de se* Phenomena”, in Prosser and Recanati 2012: 144–157. doi:10.1017/CBO9781139043274.009
+* –––, 2014, *The Mirror of the World: Subjects, Consciousness, and Self-Consciousness*, Oxford: Oxford University Press.
 * –––, 2017, “Philosophical Reflections on the First Person, the Body, and Agency”, in Vignemont and Alsmith 2017: 289–310.
-* –––, 2019, _The Primacy of Metaphysics_, Oxford: Oxford University Press
-* Penfield, Wilder and Theodore Rasmussen, 1950, _The Cerebral Cortex of Man_, New York: MacMillan.
-* Pitron, Victor, Adrian Alsmith, and Frédérique de Vignemont, 2018, “How Do the Body Schema and the Body Image Interact?”, _Consciousness and Cognition_, 65: 352–358. doi:10.1016/j.concog.2018.08.007
-* Prosser, Simon and Francois Recanati (eds.), 2012, _Immunity to Error through Misidentification: New Essays_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139043274
-* Ratcliffe, Matthew, 2008, _Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality_, Oxford: Oxford University Press.
-* Reid, Thomas, 1764, _An Inquiry into the Human Mind on the Principles of Common Sense_, Edinburgh: University of Edinburgh Press, 2000.
-* Richardson, Louise, 2013, “Bodily Sensation and Tactile Perception”, _Philosophy and Phenomenological Research_, 86(1): 134–154. doi:10.1111/j.1933-1592.2011.00504.x
-* Romano, Daniele, Martina Gandola, Gabriella Bottini, and Angelo Maravita, 2014, “Arousal Responses to Noxious Stimuli in Somatoparaphrenia and Anosognosia: Clues to Body Awareness”, _Brain_, 137(4): 1213–1223. doi:10.1093/brain/awu009
-* Romano, Daniele and Angelo Maravita, 2019, “The Dynamic Nature of the Sense of Ownership after Brain Injury. Clues from Asomatognosia and Somatoparaphrenia”, _Neuropsychologia_, 132: 107119. doi:10.1016/j.neuropsychologia.2019.107119
-* Salje, Léa, 2017, “Crossed Wires about Crossed Wires: Somatosensation and Immunity to Error through Misidentification: Crossed Wires about Crossed Wires”, _Dialectica_, 71(1): 35–56. doi:10.1111/1746-8361.12170
-* Schilder, Paul Ferdinand, 1935, _The Image and Appearance of the Human Body_, New York: International Universities Press.
-* Schwenkler, John, 2013, “The Objects of Bodily Awareness”, _Philosophical Studies_, 162(2): 465–472. doi:10.1007/s11098-011-9777-3
-* –––, 2014, “Vision, Self-Location, and the Phenomenology of the ‘Point of View’:”, _Noûs_, 48(1): 137–155. doi:10.1111/j.1468-0068.2012.00871.x
-* Schwitzgebel, Erica, 2007, “Do You Have Constant Tactile Experience of Your Feet in Your Shoes? Or Is Experience Limited to What’s in Attention?”, _Journal of Consciousness Studies_, 14(3): 5–35.
-* Schwoebel, John and H. Branch Coslett, 2005, “Evidence for Multiple, Distinct Representations of the Human Body”, _Journal of Cognitive Neuroscience_, 17(4): 543–553. doi:10.1162/0898929053467587
+* –––, 2019, *The Primacy of Metaphysics*, Oxford: Oxford University Press
+* Penfield, Wilder and Theodore Rasmussen, 1950, *The Cerebral Cortex of Man*, New York: MacMillan.
+* Pitron, Victor, Adrian Alsmith, and Frédérique de Vignemont, 2018, “How Do the Body Schema and the Body Image Interact?”, *Consciousness and Cognition*, 65: 352–358. doi:10.1016/j.concog.2018.08.007
+* Prosser, Simon and Francois Recanati (eds.), 2012, *Immunity to Error through Misidentification: New Essays*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139043274
+* Ratcliffe, Matthew, 2008, *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*, Oxford: Oxford University Press.
+* Reid, Thomas, 1764, *An Inquiry into the Human Mind on the Principles of Common Sense*, Edinburgh: University of Edinburgh Press, 2000.
+* Richardson, Louise, 2013, “Bodily Sensation and Tactile Perception”, *Philosophy and Phenomenological Research*, 86(1): 134–154. doi:10.1111/j.1933-1592.2011.00504.x
+* Romano, Daniele, Martina Gandola, Gabriella Bottini, and Angelo Maravita, 2014, “Arousal Responses to Noxious Stimuli in Somatoparaphrenia and Anosognosia: Clues to Body Awareness”, *Brain*, 137(4): 1213–1223. doi:10.1093/brain/awu009
+* Romano, Daniele and Angelo Maravita, 2019, “The Dynamic Nature of the Sense of Ownership after Brain Injury. Clues from Asomatognosia and Somatoparaphrenia”, *Neuropsychologia*, 132: 107119. doi:10.1016/j.neuropsychologia.2019.107119
+* Salje, Léa, 2017, “Crossed Wires about Crossed Wires: Somatosensation and Immunity to Error through Misidentification: Crossed Wires about Crossed Wires”, *Dialectica*, 71(1): 35–56. doi:10.1111/1746-8361.12170
+* Schilder, Paul Ferdinand, 1935, *The Image and Appearance of the Human Body*, New York: International Universities Press.
+* Schwenkler, John, 2013, “The Objects of Bodily Awareness”, *Philosophical Studies*, 162(2): 465–472. doi:10.1007/s11098-011-9777-3
+* –––, 2014, “Vision, Self-Location, and the Phenomenology of the ‘Point of View’:”, *Noûs*, 48(1): 137–155. doi:10.1111/j.1468-0068.2012.00871.x
+* Schwitzgebel, Erica, 2007, “Do You Have Constant Tactile Experience of Your Feet in Your Shoes? Or Is Experience Limited to What’s in Attention?”, *Journal of Consciousness Studies*, 14(3): 5–35.
+* Schwoebel, John and H. Branch Coslett, 2005, “Evidence for Multiple, Distinct Representations of the Human Body”, *Journal of Cognitive Neuroscience*, 17(4): 543–553. doi:10.1162/0898929053467587
 * Serrahima, Carlota, forthcoming, “The Bounded Body: On the Sense of Bodily Ownership and the Experience of Space”, in Guillot and Garcia-Carpintero forthcoming.
-* Seth, Anil K., 2013, “Interoceptive Inference, Emotion, and the Embodied Self”, _Trends in Cognitive Sciences_, 17(11): 565–573. doi:10.1016/j.tics.2013.09.007
-* Sherrington, Charles Scott, 1906, _The Integrative Action of the Nervous System_, New Haven, CT: Yale University Press.
-* Shoemaker, Sydney S., 1968, “Self-Reference and Self-Awareness”, _The Journal of Philosophy_, 65(19): 555. doi:10.2307/2024121
-* –––, 1994, “Self-Knowledge and ‘Inner Sense’” (Royce Lectures), _Philosophy and Phenomenological Research_, 54: 249–314; Lecture I: The Object Perception Model”, 54(2): 249–269. doi:10.2307/2108488
-* Sirigu, Angela, Jordan Grafman, Karen Bressler, and Trey Sunderland, 1991, “Multiple Representations Contribute to Body Knowledge Processing: Evidence from a Case of Autotopagnosia”, _Brain_, 114(1): 629–642. doi:10.1093/brain/114.1.629
-* Smith, A.D., 2002, _The Problem of Perception_, Cambridge, MA: Harvard University Press.
-* Smith, Adrian J.T., 2009, “Acting on (Bodily) Experience”, _Psyche_, 15(1): 82–99.
-* Smith, Joel, 2006, “Bodily Awareness, Imagination and the Self”, _European Journal of Philosophy_, 14(1): 49–68. doi:10.1111/j.1468-0378.2006.00243.x
-* Stein, Barry E. and M. Alex Meredith, 1993, _The Merging of the Senses_, Cambridge, MA: MIT Press.
-* Thelen, Esther and Linda B. Smith, 1994, _A Dynamic Systems Approach to the Development of Cognition and Action_, Cambridge, MA: MIT Press
-* Thompson, Evan, 2005, “Sensorimotor Subjectivity and the Enactive Approach to Experience”, _Phenomenology and the Cognitive Sciences_, 4(4): 407–427. doi:10.1007/s11097-005-9003-x
+* Seth, Anil K., 2013, “Interoceptive Inference, Emotion, and the Embodied Self”, *Trends in Cognitive Sciences*, 17(11): 565–573. doi:10.1016/j.tics.2013.09.007
+* Sherrington, Charles Scott, 1906, *The Integrative Action of the Nervous System*, New Haven, CT: Yale University Press.
+* Shoemaker, Sydney S., 1968, “Self-Reference and Self-Awareness”, *The Journal of Philosophy*, 65(19): 555. doi:10.2307/2024121
+* –––, 1994, “Self-Knowledge and ‘Inner Sense’” (Royce Lectures), *Philosophy and Phenomenological Research*, 54: 249–314; Lecture I: The Object Perception Model”, 54(2): 249–269. doi:10.2307/2108488
+* Sirigu, Angela, Jordan Grafman, Karen Bressler, and Trey Sunderland, 1991, “Multiple Representations Contribute to Body Knowledge Processing: Evidence from a Case of Autotopagnosia”, *Brain*, 114(1): 629–642. doi:10.1093/brain/114.1.629
+* Smith, A.D., 2002, *The Problem of Perception*, Cambridge, MA: Harvard University Press.
+* Smith, Adrian J.T., 2009, “Acting on (Bodily) Experience”, *Psyche*, 15(1): 82–99.
+* Smith, Joel, 2006, “Bodily Awareness, Imagination and the Self”, *European Journal of Philosophy*, 14(1): 49–68. doi:10.1111/j.1468-0378.2006.00243.x
+* Stein, Barry E. and M. Alex Meredith, 1993, *The Merging of the Senses*, Cambridge, MA: MIT Press.
+* Thelen, Esther and Linda B. Smith, 1994, *A Dynamic Systems Approach to the Development of Cognition and Action*, Cambridge, MA: MIT Press
+* Thompson, Evan, 2005, “Sensorimotor Subjectivity and the Enactive Approach to Experience”, *Phenomenology and the Cognitive Sciences*, 4(4): 407–427. doi:10.1007/s11097-005-9003-x
 * Tsakiris, Manos, 2017, “The Material Me: Unifying the Exteroceptive and Interoceptive Sides of the Bodily Self”, in Vignemont and Alsmith 2017: 335–362.
-* Tsakiris, Manos and Helena de Preester (eds.), 2018, _The Interoceptive Mind: From Homeostasis to Awareness_, Oxford: Oxford University Press. doi:10.1093/oso/9780198811930.001.0001
-* Turvey, M. T. and Claudia Carello, , 1995, “Some Dynamical Themes in Perception and Action”, in _Mind as Motion: Exploration in the Dynamics of Cognition_, Robert F. Port and Timothy Van Gelder (eds.), Cambridge, MA: MIT Press, 373–402.
-* Tye, Michael, 2002, “On the Location of a Pain”, _Analysis_, 62(2): 150–153. doi:10.1093/analys/62.2.150
-* Van Beers, Robert J., Anne C. Sittig, and Jan J. Denier van der Gon, 1999, “Integration of Proprioceptive and Visual Position-Information: An Experimentally Supported Model”, _Journal of Neurophysiology_, 81(3): 1355–1364. doi:10.1152/jn.1999.81.3.1355
-* Van Gelder, Tim, 1995, “What Might Cognition Be, If Not Computation?”:, _Journal of Philosophy_, 92(7): 345–381. doi:10.2307/2941061
-* Vesey, G.N.A., 1964, “Bodily Sensations”, _Australasian Journal of Philosophy_, 42(2): 232–247. doi:10.1080/00048406412341201
-* de Vignemont, Frédérique, 2007, “Habeas Corpus: The Sense of Ownership of One‘s Own Body”, _Mind & Language_, 22(4): 427–449. doi:10.1111/j.1468-0017.2007.00315.x
-* –––, 2011, “A Mosquito Bite Against the Enactive Approach to Bodily Experiences”, _Journal of Philosophy_, 108(4): 188–204. doi:10.5840/jphil2011108411
+* Tsakiris, Manos and Helena de Preester (eds.), 2018, *The Interoceptive Mind: From Homeostasis to Awareness*, Oxford: Oxford University Press. doi:10.1093/oso/9780198811930.001.0001
+* Turvey, M. T. and Claudia Carello, , 1995, “Some Dynamical Themes in Perception and Action”, in *Mind as Motion: Exploration in the Dynamics of Cognition*, Robert F. Port and Timothy Van Gelder (eds.), Cambridge, MA: MIT Press, 373–402.
+* Tye, Michael, 2002, “On the Location of a Pain”, *Analysis*, 62(2): 150–153. doi:10.1093/analys/62.2.150
+* Van Beers, Robert J., Anne C. Sittig, and Jan J. Denier van der Gon, 1999, “Integration of Proprioceptive and Visual Position-Information: An Experimentally Supported Model”, *Journal of Neurophysiology*, 81(3): 1355–1364. doi:10.1152/jn.1999.81.3.1355
+* Van Gelder, Tim, 1995, “What Might Cognition Be, If Not Computation?”:, *Journal of Philosophy*, 92(7): 345–381. doi:10.2307/2941061
+* Vesey, G.N.A., 1964, “Bodily Sensations”, *Australasian Journal of Philosophy*, 42(2): 232–247. doi:10.1080/00048406412341201
+* de Vignemont, Frédérique, 2007, “Habeas Corpus: The Sense of Ownership of One‘s Own Body”, *Mind & Language*, 22(4): 427–449. doi:10.1111/j.1468-0017.2007.00315.x
+* –––, 2011, “A Mosquito Bite Against the Enactive Approach to Bodily Experiences”, *Journal of Philosophy*, 108(4): 188–204. doi:10.5840/jphil2011108411
 * –––, 2012, “Bodily Immunity to Error”, in Prosser and Recanati 2012: 224–246. doi:10.1017/CBO9781139043274.013
-* –––, 2014, “A Multimodal Conception of Bodily Awareness”, _Mind_, 123(492): 989–1020. doi:10.1093/mind/fzu089
-* –––, 2018, _Mind the Body: An Exploration of Bodily Self-Awareness_, Oxford: Oxford University Press. doi:10.1093/oso/9780198735885.001.0001
-* –––, 2020, “What Phenomenal Contrast for Bodily Ownership?”, _Journal of the American Philosophical Association_, 6(1): 117–137. doi:10.1017/apa.2019.34
-* de Vignemont, Frédérique and Massin, Olivier, 2015, “Touch”, in _Oxford Handbook of philosophy of perception_, Mohan Matthen (ed.), Oxford: Oxford University Press.
-* de Vignemont, Frédérique and Adrian J. T. Alsmith (eds.), 2017, _The Subject’s Matter: Self-Consciousness and the Body_, (Representation and Mind), Cambridge, MA: MIT Press.
-* de Vignemont, Frédérique, Andrea Serino, Hong Yu Wong, and Alessandro Farnè (eds.), forthcoming, _The World at Our Fingertips: a Multidisciplinary Investigation of Peripersonal Space_, Oxford: Oxford University Press.
-* Welch, Robert B. and David H. Warren, 1980, “Immediate Perceptual Response to Intersensory Discrepancy”, _Psychological Bulletin_, 88(3): 638–667. doi:10.1037/0033-2909.88.3.638
-* Wittgenstein, Ludwig, 1958, _Blue and Brown Books_, Oxford: Blackwell.
-* –––, 1978, _Philosophical Investigations_, G.E.M. Anscombe (trans.), Oxford: Blackwell.
-* Wong, Hong Yu, 2015, “On the Significance of Bodily Awareness for Bodily Action: Figure 1”, _The Philosophical Quarterly_, 65(261): 790–812. doi:10.1093/pq/pqv007
+* –––, 2014, “A Multimodal Conception of Bodily Awareness”, *Mind*, 123(492): 989–1020. doi:10.1093/mind/fzu089
+* –––, 2018, *Mind the Body: An Exploration of Bodily Self-Awareness*, Oxford: Oxford University Press. doi:10.1093/oso/9780198735885.001.0001
+* –––, 2020, “What Phenomenal Contrast for Bodily Ownership?”, *Journal of the American Philosophical Association*, 6(1): 117–137. doi:10.1017/apa.2019.34
+* de Vignemont, Frédérique and Massin, Olivier, 2015, “Touch”, in *Oxford Handbook of philosophy of perception*, Mohan Matthen (ed.), Oxford: Oxford University Press.
+* de Vignemont, Frédérique and Adrian J. T. Alsmith (eds.), 2017, *The Subject’s Matter: Self-Consciousness and the Body*, (Representation and Mind), Cambridge, MA: MIT Press.
+* de Vignemont, Frédérique, Andrea Serino, Hong Yu Wong, and Alessandro Farnè (eds.), forthcoming, *The World at Our Fingertips: a Multidisciplinary Investigation of Peripersonal Space*, Oxford: Oxford University Press.
+* Welch, Robert B. and David H. Warren, 1980, “Immediate Perceptual Response to Intersensory Discrepancy”, *Psychological Bulletin*, 88(3): 638–667. doi:10.1037/0033-2909.88.3.638
+* Wittgenstein, Ludwig, 1958, *Blue and Brown Books*, Oxford: Blackwell.
+* –––, 1978, *Philosophical Investigations*, G.E.M. Anscombe (trans.), Oxford: Blackwell.
+* Wong, Hong Yu, 2015, “On the Significance of Bodily Awareness for Bodily Action: Figure 1”, *The Philosophical Quarterly*, 65(261): 790–812. doi:10.1093/pq/pqv007
 * –––, 2017, “In and Out of Balance”, in de Vignemont and Alsmith 2017: 311–334.
 * Wu, Wayne, forthcoming, “Mineness and Introspective Data”, in Guillot and Garcia-Carpintero forthcoming.
-* Zahavi, Dan and Josef Parnas, 1998, “Phenomenal Consciousness and Self-awareness. A Phenomenological Critique of Representational Theory”, _Journal of Consciousness Studies_, 5(5–6): 687–705.
+* Zahavi, Dan and Josef Parnas, 1998, “Phenomenal Consciousness and Self-awareness. A Phenomenological Critique of Representational Theory”, *Journal of Consciousness Studies*, 5(5–6): 687–705.
 
 ## Academic Tools
 
@@ -428,4 +428,4 @@ McGinn（1996：8）声称：“身体感觉不像知觉经验那样具有意向
 [action](https://plato.stanford.edu/entries/action/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [emotion](https://plato.stanford.edu/entries/emotion/) | [Merleau-Ponty, Maurice](https://plato.stanford.edu/entries/merleau-ponty/) | [pain](https://plato.stanford.edu/entries/pain/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [self-consciousness: phenomenological approaches to](https://plato.stanford.edu/entries/self-consciousness-phenomenological/) | [self-knowledge](https://plato.stanford.edu/entries/self-knowledge/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Frédérique de Vignemont](http://fvignemont.googlepages.com/) <[_frederique.de.vignemont@ens.fr_](mailto:frederique%2ede%2evignemont%40ens%2efr)>
+[Frédérique de Vignemont](http://fvignemont.googlepages.com/) <[*frederique.de.vignemont@ens.fr*](mailto:frederique%2ede%2evignemont%40ens%2efr)>

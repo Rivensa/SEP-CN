@@ -1,11 +1,10 @@
 # 西塞罗 Cicero (Raphael Woolf)
 
-_首次发布于 2022 年 1 月 14 日星期五_
+*首次发布于 2022 年 1 月 14 日星期五*
 
 马库斯·图利乌斯·西塞罗（前 106-前 43 年）以其在罗马共和国晚期动荡时期的杰出政治家和演说家而为后世所熟知。除了是他所处时代的主要政治人物外，他还写作颇丰。在他的著作中，大约有十几部哲学作品流传至今。哲学是西塞罗毕生的热情所在。除了可以称之为他严格的哲学著作外，他所写的许多其他作品，包括演讲、修辞学著作和大量书信，都显示出他对哲学的兴趣。在现代学术研究方面，西塞罗哲学作品的价值直到最近被认为主要在于提供关于他所处时代主要哲学学派思想的信息：其中包括斯多儿派、伊壁鸠鲁学派和新柏拉图主义怀疑论。然而，部分原因是他与前辈们交流的创造性方式，如今人们越来越将他作为一个具有独立思想价值的哲学思想家来研究。
 
 在这篇文章中，我们无法做更多的事情，只能简要概述一些西塞罗主要的哲学著作和思想。重点将放在让人感受到他哲学方法的独特性上，特别关注他的哲学忠诚和创作方法如何有助于形成一个值得注意的哲学观念。
-
 
 ***
 
@@ -87,7 +86,7 @@ Cicero clearly expects his readers to notice these moves. One might say that to 
 
 西塞罗的第二个，也是最激烈的哲学创作时期发生在他生命的最后几年，这一时期目睹了凯撒大流士的独裁统治，然后是被暗杀。后一事件使西塞罗的政治声望暂时上升，但最终只带来了对共和政府恢复的徒劳希望。政治局势，加上个人悲剧 - 他的女儿图莉娅在分娩中去世 - 导致了西塞罗在这段时间内产生了大量涉及各种哲学主题的重要作品。正如他在《论众神的本质》（1.7）的序言中所说，他的抱负是要撰写一部涵盖“整个哲学”的综合性著作 - 一部关于这一主题的真正百科全书。
 
-对于本条目，采取了更为选择性的方法。以下将重点介绍三部晚期对话，但晚期还见证了两部作品的创作，这两部作品对非专家来说可能相对熟悉：关于实践行为的《论职责》（_De Officiis_）和关于情感理论的《图库拉讨论》（_Tusculan Disputations_），以及三部主要探讨斯多葛主题的作品：《论命运》（_De Fato_）、《论占卜》（_De Divinatione_）和《斯多葛悖论》（_Paradoxa Stoicorum_），以及两部关于伦理特定问题的作品：《论老年》（_De Senectute_）和《论友谊》（_De Amicitia_）。接下来，将讨论该时期在认识论、伦理理论和神学三个核心主题上的更多作品，以便对西塞罗作为一位学院怀疑论者和哲学对话作家的独特方法进行代表性阐述。
+对于本条目，采取了更为选择性的方法。以下将重点介绍三部晚期对话，但晚期还见证了两部作品的创作，这两部作品对非专家来说可能相对熟悉：关于实践行为的《论职责》（*De Officiis*）和关于情感理论的《图库拉讨论》（*Tusculan Disputations*），以及三部主要探讨斯多葛主题的作品：《论命运》（*De Fato*）、《论占卜》（*De Divinatione*）和《斯多葛悖论》（*Paradoxa Stoicorum*），以及两部关于伦理特定问题的作品：《论老年》（*De Senectute*）和《论友谊》（*De Amicitia*）。接下来，将讨论该时期在认识论、伦理理论和神学三个核心主题上的更多作品，以便对西塞罗作为一位学院怀疑论者和哲学对话作家的独特方法进行代表性阐述。
 
 ### 6.1 认识论
 
@@ -219,88 +218,88 @@ Cotta 触及了宗教中权威的重要角色。如果质疑传统的权威，�
 
 ### Primary Literature
 
-All of Cicero’s works are available with Latin text and facing English translation in the _Loeb Classical Library_ series. A selection of translations and commentaries on individual works is given below:
+All of Cicero’s works are available with Latin text and facing English translation in the *Loeb Classical Library* series. A selection of translations and commentaries on individual works is given below:
 
-* Annas, Julia and Raphael Woolf, 2001, _Cicero, On Moral Ends_, Cambridge: Cambridge University Press.
-* Brittain, Charles, 2006, _Cicero, On Academic Scepticism_, Translated with Introduction and Notes, Indianapolis: Hackett Publishing Co.
-* Douglas, A. E., 1985, _Cicero, Tusculan Disputations I_, edited and translated with Notes, Warminster: Aris & Phillips.
-* –––, 1990, _Cicero, Tusculan Disputations II and V_, edited and translated with notes, Warminster: Aris & Phillips.
-* Griffin, M. T. and E. M. Atkins, 1991, _Cicero, On Duties_, Cambridge: Cambridge University Press.
-* Graver, Margaret, 2002, _Cicero on the Emotions: Tusculan Disputation 3 and 4_, translated with commentary, Chicago and London: University of Chicago Press.
-* Powell, J. G. F., 1990, _Cicero, On Friendship and the Dream of Scipio_, edited and translated with introduction and notes, Warminster: Aris & Phillips.
-* Rudd, Niall and Jonathan Powell, 1998, _Cicero, The Republic and the Laws_, translated with introduction and notes, Oxford: Oxford University Press.
-* Sharples, R. W., 1991, _Cicero: On Fate & Boethius: The Consolation of Philosophy_, edited and translated with introduction and commentary, Warminster: Aris & Phillips.
-* Walsh, P. G., 1998, _Cicero, The Nature of the Gods_, translated with introduction and notes, Oxford: Oxford University Press.
-* Wardle, David, 2006, _Cicero, On Divination Book 1_, translated with introduction and commentary, Oxford: Oxford University Press.
-* Wright, M. R., 1990, _Cicero, On Stoic Good and Evil: De Finibus 3 and Paradoxa Stoicorum_, edited and translated with introduction and commentary, Warminster: Aris & Phillips.
-* Zetzel, James, 2017, _Cicero, On the Commonwealth and On the Laws_, Cambridge: Cambridge University Press, 2nd edition.
+* Annas, Julia and Raphael Woolf, 2001, *Cicero, On Moral Ends*, Cambridge: Cambridge University Press.
+* Brittain, Charles, 2006, *Cicero, On Academic Scepticism*, Translated with Introduction and Notes, Indianapolis: Hackett Publishing Co.
+* Douglas, A. E., 1985, *Cicero, Tusculan Disputations I*, edited and translated with Notes, Warminster: Aris & Phillips.
+* –––, 1990, *Cicero, Tusculan Disputations II and V*, edited and translated with notes, Warminster: Aris & Phillips.
+* Griffin, M. T. and E. M. Atkins, 1991, *Cicero, On Duties*, Cambridge: Cambridge University Press.
+* Graver, Margaret, 2002, *Cicero on the Emotions: Tusculan Disputation 3 and 4*, translated with commentary, Chicago and London: University of Chicago Press.
+* Powell, J. G. F., 1990, *Cicero, On Friendship and the Dream of Scipio*, edited and translated with introduction and notes, Warminster: Aris & Phillips.
+* Rudd, Niall and Jonathan Powell, 1998, *Cicero, The Republic and the Laws*, translated with introduction and notes, Oxford: Oxford University Press.
+* Sharples, R. W., 1991, *Cicero: On Fate & Boethius: The Consolation of Philosophy*, edited and translated with introduction and commentary, Warminster: Aris & Phillips.
+* Walsh, P. G., 1998, *Cicero, The Nature of the Gods*, translated with introduction and notes, Oxford: Oxford University Press.
+* Wardle, David, 2006, *Cicero, On Divination Book 1*, translated with introduction and commentary, Oxford: Oxford University Press.
+* Wright, M. R., 1990, *Cicero, On Stoic Good and Evil: De Finibus 3 and Paradoxa Stoicorum*, edited and translated with introduction and commentary, Warminster: Aris & Phillips.
+* Zetzel, James, 2017, *Cicero, On the Commonwealth and On the Laws*, Cambridge: Cambridge University Press, 2nd edition.
 
 ### Secondary Literature
 
 There is a growing literature on Cicero as a philosopher. Set out below is a selection, with an emphasis on more recent scholarship, intended to serve as an accessible overview of resources that readers may find helpful in tackling Cicero’s thought. For those new to his philosophy, useful orientation may be found in the collections of essays edited by Powell 1995, Nicgorski 2012, and Atkins and Bénatouïl 2021; and in the pieces by Powell 2007, Schofield 2013, and Zetzel 2013.
 
-* Allen, James, 2014, “Why There Are Ends of Both Goods and Evils in Ancient Ethical Theory”, in M.-K. Lee (ed.), _Strategies of Argument: Essays in Ancient Epistemology, Ethics, and Logic_, Oxford: Oxford University Press, pp. 231–54.
-* Alonso, Fernando, 2013, “Cosmopolitanism and Natural Law in Cicero”, in F. Contreras (ed.), _The Threads of Natural Law: Unravelling a Philosophical Tradition_, Dordrecht: Springer, pp. 27–36.
-* Altman, William, 2008, “Tullia’s Secret Shrine: Birth and Death in Cicero’s _De Finibus_”, _Ancient Philosophy_, 28: 373–93.
-* Annas, Julia, 1989, “Cicero on Stoic Moral Philosophy and Private Property”, in M. T. Griffin and J. Barnes (eds.), _Philosophia Togata I: Essays on Philosophy and Roman Society_, Oxford: Clarendon Press, pp. 151–73.
-* –––, 2013, “Plato’s Laws and Cicero’s _De Legibus_”, in M. Schofield (ed.), _Aristotle, Plato and Pythagoreanism in the First Century BC_, Cambridge: Cambridge University Press, 2013, pp. 206–24.
-* Annas, Julia and Gábor Betegh, (eds.), 2016, _Cicero’s De Finibus: Philosophical Approaches_, Cambridge: Cambridge University Press.
-* Asmis, Elizabeth, 2004, “The State as a Partnership: Cicero’s Definition of _Res Publica_ in His Work On the State”, _History of Political Thought_, 25: 569–98.
-* –––, 2005, “A New Kind of Model: Cicero’s Roman Constitution in _De Republica_”, _American Journal of Philology_, 126: 377–416.
-* –––, 2008, “Cicero on Natural Law and the Laws of the State”, _Classical Antiquity_, 27: 1–34.
-* Atkins, E. M., 2000, “Cicero”, in C. Rowe and M. Schofield (eds.), _The Cambridge History of Greek_ _and Roman Political Thought_, Cambridge: Cambridge University Press, pp. 477–516.
-* Atkins, Jed, 2013, _Cicero on Politics and the Limits of Reason: The Republic and Laws_, Cambridge: Cambridge University Press.
-* Atkins, Jed and Thomas Bénatouïl (eds.), 2021, _The Cambridge Companion to Cicero’s Philosophy_, Cambridge: Cambridge University Press.
-* Baraz, Yelena, 2012, _A Written Republic: Cicero’s Philosophical Politics_, Princeton and Oxford: Princeton University Press.
-* Bishop, Caroline, 2019, _Cicero, Greek Learning and the Making of a Roman Classic_, Oxford: Oxford University Press.
-* Brittain, Charles, 2016, “Cicero’s Sceptical Methods: The Example of the _De Finibus_”, in Annas and Betegh, pp. 12–40.
-* Cappello, Orazio, 2019, _The School of Doubt: Skepticism, History and Politics in Cicero’s Academica_, Leiden and Boston: Brill.
-* DeFilippo, Joseph, 2000, “Cicero vs Cotta in _De Natura Deorum_”, _Ancient Philosophy_, 20: 169–87.
+* Allen, James, 2014, “Why There Are Ends of Both Goods and Evils in Ancient Ethical Theory”, in M.-K. Lee (ed.), *Strategies of Argument: Essays in Ancient Epistemology, Ethics, and Logic*, Oxford: Oxford University Press, pp. 231–54.
+* Alonso, Fernando, 2013, “Cosmopolitanism and Natural Law in Cicero”, in F. Contreras (ed.), *The Threads of Natural Law: Unravelling a Philosophical Tradition*, Dordrecht: Springer, pp. 27–36.
+* Altman, William, 2008, “Tullia’s Secret Shrine: Birth and Death in Cicero’s *De Finibus*”, *Ancient Philosophy*, 28: 373–93.
+* Annas, Julia, 1989, “Cicero on Stoic Moral Philosophy and Private Property”, in M. T. Griffin and J. Barnes (eds.), *Philosophia Togata I: Essays on Philosophy and Roman Society*, Oxford: Clarendon Press, pp. 151–73.
+* –––, 2013, “Plato’s Laws and Cicero’s *De Legibus*”, in M. Schofield (ed.), *Aristotle, Plato and Pythagoreanism in the First Century BC*, Cambridge: Cambridge University Press, 2013, pp. 206–24.
+* Annas, Julia and Gábor Betegh, (eds.), 2016, *Cicero’s De Finibus: Philosophical Approaches*, Cambridge: Cambridge University Press.
+* Asmis, Elizabeth, 2004, “The State as a Partnership: Cicero’s Definition of *Res Publica* in His Work On the State”, *History of Political Thought*, 25: 569–98.
+* –––, 2005, “A New Kind of Model: Cicero’s Roman Constitution in *De Republica*”, *American Journal of Philology*, 126: 377–416.
+* –––, 2008, “Cicero on Natural Law and the Laws of the State”, *Classical Antiquity*, 27: 1–34.
+* Atkins, E. M., 2000, “Cicero”, in C. Rowe and M. Schofield (eds.), *The Cambridge History of Greek* *and Roman Political Thought*, Cambridge: Cambridge University Press, pp. 477–516.
+* Atkins, Jed, 2013, *Cicero on Politics and the Limits of Reason: The Republic and Laws*, Cambridge: Cambridge University Press.
+* Atkins, Jed and Thomas Bénatouïl (eds.), 2021, *The Cambridge Companion to Cicero’s Philosophy*, Cambridge: Cambridge University Press.
+* Baraz, Yelena, 2012, *A Written Republic: Cicero’s Philosophical Politics*, Princeton and Oxford: Princeton University Press.
+* Bishop, Caroline, 2019, *Cicero, Greek Learning and the Making of a Roman Classic*, Oxford: Oxford University Press.
+* Brittain, Charles, 2016, “Cicero’s Sceptical Methods: The Example of the *De Finibus*”, in Annas and Betegh, pp. 12–40.
+* Cappello, Orazio, 2019, *The School of Doubt: Skepticism, History and Politics in Cicero’s Academica*, Leiden and Boston: Brill.
+* DeFilippo, Joseph, 2000, “Cicero vs Cotta in *De Natura Deorum*”, *Ancient Philosophy*, 20: 169–87.
 * Ferrary, Jean-Louis, 1995, “The Statesman and the Law in the Political Philosophy of Cicero”, in Laks and Schofield, pp. 48–73.
-* Fosl, Peter, 1994, “Doubt and Divinity: Cicero’s Influence on Hume’s Religious Skepticism”, _Hume Studies_, 20: 103–20.
-* Fuhrmann, Manfred, 1992, _Cicero and the Roman Republic_, translated by W. E. Yuill, Oxford: Basil Blackwell.
-* Gildenhard, Ingo, 2007, _Paideia Romana: Cicero’s Tusculan Disputations_, _Proceedings of the Cambridge Philological Society_ (Supplementary Volume 30), Cambridge: Cambridge University Press.
-* Gill, Christopher, 1988, “Person and Personality: The Four-Personae Theory in Cicero’s De Officiis I”, _Oxford Studies in Ancient Philosophy_, 6: 169–99.
-* Glucker, John, 1988, “Cicero’s Philosophical Affiliations” in J. Dillon and A. A. Long (eds.), _The Question of “Eclecticism”: Studies in Later Greek Philosophy_, Berkely and Los Angeles: University of California Press, pp. 34–69.
-* Görler, Woldemar, 1995, “Silencing the Troublemaker: _De Legibus_ I.39 and the Continuity of Cicero’s Scepticism”, in Powell (ed.), pp. 85–113.
-* Gorman, Robert, 2005, _The Socratic Method in the Dialogues of Cicero_, Stuttgart: Franz Steiner.
-* Graver, Margaret, 2009, “Cicero’s Philosophy of Religion”, in G. Oppy and N. Trakakis (eds.), _History of the Western Philosophy of Religion_ (Volume 1), Durham: Acumen Publishing, pp. 119–32.
-* Griffin, Miriam, 2011, “The Politics of Virtue: Three Puzzles in Cicero’s _De Officiis_”, in B. Morison and K. Ierodiakonou (eds.), _Episteme etc.: Essays in Honour of Jonathan Barnes_, New York: Oxford University Press, pp. 310-28.
-* Hösle, Vittorio, 2008, “Cicero’s Plato”, _Wiener Studien_, 121: 145–70.
-* Inwood, Brad, 1990, “_Rhetorica Disputatio_: The Strategy of _De Finibus_ II”, _Apeiron_, 23: 143–64.
-* Inwood, Brad and Jaap Mansfeld (eds.), 1997, _Assent and Argument: Studies in Cicero’s Academic Books_, Leiden: Brill.
-* Laks, André and Malcolm Schofield (eds.), 1995, _Justice and Generosity_, Cambridge: Cambridge University Press.
-* Long, A. A., 1995a, “Cicero’s Politics in _De Officiis_”, in Laks and Schofield, pp. 213–40.
+* Fosl, Peter, 1994, “Doubt and Divinity: Cicero’s Influence on Hume’s Religious Skepticism”, *Hume Studies*, 20: 103–20.
+* Fuhrmann, Manfred, 1992, *Cicero and the Roman Republic*, translated by W. E. Yuill, Oxford: Basil Blackwell.
+* Gildenhard, Ingo, 2007, *Paideia Romana: Cicero’s Tusculan Disputations*, *Proceedings of the Cambridge Philological Society* (Supplementary Volume 30), Cambridge: Cambridge University Press.
+* Gill, Christopher, 1988, “Person and Personality: The Four-Personae Theory in Cicero’s De Officiis I”, *Oxford Studies in Ancient Philosophy*, 6: 169–99.
+* Glucker, John, 1988, “Cicero’s Philosophical Affiliations” in J. Dillon and A. A. Long (eds.), *The Question of “Eclecticism”: Studies in Later Greek Philosophy*, Berkely and Los Angeles: University of California Press, pp. 34–69.
+* Görler, Woldemar, 1995, “Silencing the Troublemaker: *De Legibus* I.39 and the Continuity of Cicero’s Scepticism”, in Powell (ed.), pp. 85–113.
+* Gorman, Robert, 2005, *The Socratic Method in the Dialogues of Cicero*, Stuttgart: Franz Steiner.
+* Graver, Margaret, 2009, “Cicero’s Philosophy of Religion”, in G. Oppy and N. Trakakis (eds.), *History of the Western Philosophy of Religion* (Volume 1), Durham: Acumen Publishing, pp. 119–32.
+* Griffin, Miriam, 2011, “The Politics of Virtue: Three Puzzles in Cicero’s *De Officiis*”, in B. Morison and K. Ierodiakonou (eds.), *Episteme etc.: Essays in Honour of Jonathan Barnes*, New York: Oxford University Press, pp. 310-28.
+* Hösle, Vittorio, 2008, “Cicero’s Plato”, *Wiener Studien*, 121: 145–70.
+* Inwood, Brad, 1990, “*Rhetorica Disputatio*: The Strategy of *De Finibus* II”, *Apeiron*, 23: 143–64.
+* Inwood, Brad and Jaap Mansfeld (eds.), 1997, *Assent and Argument: Studies in Cicero’s Academic Books*, Leiden: Brill.
+* Laks, André and Malcolm Schofield (eds.), 1995, *Justice and Generosity*, Cambridge: Cambridge University Press.
+* Long, A. A., 1995a, “Cicero’s Politics in *De Officiis*”, in Laks and Schofield, pp. 213–40.
 * –––, 1995b, “Cicero’s Plato and Aristotle”, in Powell (ed.), 37–61.
-* Long, A. G., 2015, “Academic Eloquence and the End of Cicero’s _De Finibus_”, _Ancient Philosophy_, 35: 183–98.
-* McConnell, Sean, 2014, _Philosophical Life in Cicero’s Letters_, Cambridge: Cambridge University Press.
-* Nicgorski, Walter (ed.), 2012, _Cicero’s Practical Philosophy_, Notre Dame: University of Notre Dame Press.
-* Nussbaum, Martha, 2000, “Duties of Justice, Duties of Material Aid: Cicero’s Problematic Legacy”, _Journal of Political Philosophy_, 8: 176–206.
-* Powell, J. G. F., 2007, “Cicero”, in R. Sorabji and R. W. Sharples (eds.), _Greek and Roman Philosophy 100 BC–200 AD II_, _Bulletin of the Institute of Classical Studies_ (Supplement), 94: 333–45.
-* ––– (ed.), 1995, _Cicero the Philosopher_, Oxford: Clarendon Press.
-* Powell, J. G. F. and J. A. North (eds.), 2001, _Cicero’s Republic_, _Bulletin of the Institute of Classical Studies_ (Supplement), Number 76.
-* Rawson, Elizabeth, 1994, _Cicero: A Portrait_, Bristol: Bristol Classical Press.
-* Reydams-Schils, Gretchen, 2016, “Teaching Pericles: Cicero on the Study of Nature”, in G. Williams and K. Volk (eds.), _Roman Reflections: Studies in Latin Philosophy_, New York: Oxford University Press, pp. 91–107.
-* Schofield, Malcolm, 1986, “Cicero for and against Divination”, _Journal of Roman Studies_, 76: 47–65.
-* –––, 2002, ‘Academic Therapy: Philo of Larissa and Cicero’s Project in the _Tusculans_’, in G. Clark and T. Rajak (eds.), _Philosophy and Power in the Graeco-Roman World_, Oxford: Oxford University Press, pp. 91–109.
-* –––, 2008, “Ciceronian Dialogue”, in S. Goldhill (ed.), _The End of Dialogue in Antiquity_, Cambridge: Cambridge University Press, pp. 63–84.
+* Long, A. G., 2015, “Academic Eloquence and the End of Cicero’s *De Finibus*”, *Ancient Philosophy*, 35: 183–98.
+* McConnell, Sean, 2014, *Philosophical Life in Cicero’s Letters*, Cambridge: Cambridge University Press.
+* Nicgorski, Walter (ed.), 2012, *Cicero’s Practical Philosophy*, Notre Dame: University of Notre Dame Press.
+* Nussbaum, Martha, 2000, “Duties of Justice, Duties of Material Aid: Cicero’s Problematic Legacy”, *Journal of Political Philosophy*, 8: 176–206.
+* Powell, J. G. F., 2007, “Cicero”, in R. Sorabji and R. W. Sharples (eds.), *Greek and Roman Philosophy 100 BC–200 AD II*, *Bulletin of the Institute of Classical Studies* (Supplement), 94: 333–45.
+* ––– (ed.), 1995, *Cicero the Philosopher*, Oxford: Clarendon Press.
+* Powell, J. G. F. and J. A. North (eds.), 2001, *Cicero’s Republic*, *Bulletin of the Institute of Classical Studies* (Supplement), Number 76.
+* Rawson, Elizabeth, 1994, *Cicero: A Portrait*, Bristol: Bristol Classical Press.
+* Reydams-Schils, Gretchen, 2016, “Teaching Pericles: Cicero on the Study of Nature”, in G. Williams and K. Volk (eds.), *Roman Reflections: Studies in Latin Philosophy*, New York: Oxford University Press, pp. 91–107.
+* Schofield, Malcolm, 1986, “Cicero for and against Divination”, *Journal of Roman Studies*, 76: 47–65.
+* –––, 2002, ‘Academic Therapy: Philo of Larissa and Cicero’s Project in the *Tusculans*’, in G. Clark and T. Rajak (eds.), *Philosophy and Power in the Graeco-Roman World*, Oxford: Oxford University Press, pp. 91–109.
+* –––, 2008, “Ciceronian Dialogue”, in S. Goldhill (ed.), *The End of Dialogue in Antiquity*, Cambridge: Cambridge University Press, pp. 63–84.
 * –––, 2013, “Writing Philosophy”, in Steel (ed.), pp. 73–87.
-* –––, 2021, _Cicero: Political Philosophy_, Oxford: Oxford University Press.
-* Steel, Catherine (ed.), 2013, _The Cambridge Companion to Cicero_, Cambridge: Cambridge University Press.
-* Striker, Gisela, 1995, “Cicero and Greek Philosophy”, _Harvard Studies in Classical Philology_, 97: 53–61.
-* Stuart-Buttle, Tim, 2020, “Hume, Cicero, and Eighteenth-Century Moral Philosophy”, in F. Loughlin and A. Johnston (eds.), _Antiquity and Enlightenment Culture: New Approaches and Perspectives_, Leiden: Brill, pp. 195–218.
-* Tempest, Kathryn, 2011, _Cicero: Politics and Persuasion in Ancient Rome_, London: Continuum.
-* Thorsrud, Harald, 2012, “Radical and Mitigated Skepticism in Cicero’s _Academica_”, in Nicgorski (ed.) 2012, pp. 133–51.
-* Warren, James, 2013, “The Harm of Death in Cicero’s First _Tuscuslan Disputation_”, in J. Stacey Taylor (ed.), _The Metaphysics and Ethics of Death_, Oxford: Oxford University Press, pp. 44–70.
-* Williams, Bernard, 2006, _The Sense of the Past: Essays in the History of Philosophy_, Princeton and Oxford: Princeton University Press, pp. 3–48.
-* Wood, Neal, 1988, _Cicero’s Social and Political Thought_, Berkeley: University of California Press.
-* Woolf, Raphael, 2007, “Particularism, Promises and Persons in Cicero’s _De Officiis_”, _Oxford Studies in Ancient Philosophy_, 33: 317–46.
-* –––, 2013, “Cicero and Gyges”, _Classical Quarterly_, 63: 801–12.
-* –––, 2015, _Cicero: The Philosophy of a Roman Sceptic_, Abingdon: Routledge.
-* –––, 2021, “Unnatural Law: A Ciceronian Perspective”, in P. Adamson and C. Rapp (eds.), _State and Nature: Studies in Ancient and Medieval Philosophy_, Berlin: DeGruyter, pp. 221–45.
-* Wynne, J. P. F., 2018, “Cicero”, in D. Machuca and B. Reid (eds.), _Skepticism: From Antiquity to the Present_, London: Bloomsbury, pp. 93–101.
-* –––, 2019, _Cicero on the Philosophy of Religion_, Cambridge: Cambridge University Press.
-* –––, 2021, “Cicero’s _Tusculan Disputations_: A Sceptical Reading”, _Oxford Studies in Ancient Philosophy_, 58: 205–238.
+* –––, 2021, *Cicero: Political Philosophy*, Oxford: Oxford University Press.
+* Steel, Catherine (ed.), 2013, *The Cambridge Companion to Cicero*, Cambridge: Cambridge University Press.
+* Striker, Gisela, 1995, “Cicero and Greek Philosophy”, *Harvard Studies in Classical Philology*, 97: 53–61.
+* Stuart-Buttle, Tim, 2020, “Hume, Cicero, and Eighteenth-Century Moral Philosophy”, in F. Loughlin and A. Johnston (eds.), *Antiquity and Enlightenment Culture: New Approaches and Perspectives*, Leiden: Brill, pp. 195–218.
+* Tempest, Kathryn, 2011, *Cicero: Politics and Persuasion in Ancient Rome*, London: Continuum.
+* Thorsrud, Harald, 2012, “Radical and Mitigated Skepticism in Cicero’s *Academica*”, in Nicgorski (ed.) 2012, pp. 133–51.
+* Warren, James, 2013, “The Harm of Death in Cicero’s First *Tuscuslan Disputation*”, in J. Stacey Taylor (ed.), *The Metaphysics and Ethics of Death*, Oxford: Oxford University Press, pp. 44–70.
+* Williams, Bernard, 2006, *The Sense of the Past: Essays in the History of Philosophy*, Princeton and Oxford: Princeton University Press, pp. 3–48.
+* Wood, Neal, 1988, *Cicero’s Social and Political Thought*, Berkeley: University of California Press.
+* Woolf, Raphael, 2007, “Particularism, Promises and Persons in Cicero’s *De Officiis*”, *Oxford Studies in Ancient Philosophy*, 33: 317–46.
+* –––, 2013, “Cicero and Gyges”, *Classical Quarterly*, 63: 801–12.
+* –––, 2015, *Cicero: The Philosophy of a Roman Sceptic*, Abingdon: Routledge.
+* –––, 2021, “Unnatural Law: A Ciceronian Perspective”, in P. Adamson and C. Rapp (eds.), *State and Nature: Studies in Ancient and Medieval Philosophy*, Berlin: DeGruyter, pp. 221–45.
+* Wynne, J. P. F., 2018, “Cicero”, in D. Machuca and B. Reid (eds.), *Skepticism: From Antiquity to the Present*, London: Bloomsbury, pp. 93–101.
+* –––, 2019, *Cicero on the Philosophy of Religion*, Cambridge: Cambridge University Press.
+* –––, 2021, “Cicero’s *Tusculan Disputations*: A Sceptical Reading”, *Oxford Studies in Ancient Philosophy*, 58: 205–238.
 * Zetzel, James, 2013, “Political Philosophy”, in Steel (ed.) 2013, pp. 181–95.
 
 ## Academic Tools
@@ -313,7 +312,7 @@ There is a growing literature on Cicero as a philosopher. Set out below is a sel
 
 ## Other Internet Resources
 
-* There are two useful episodes on Cicero as a philosopher in Professor Peter Adamson’s _History of Philosophy Without any Gaps_ podcast:
+* There are two useful episodes on Cicero as a philosopher in Professor Peter Adamson’s *History of Philosophy Without any Gaps* podcast:
   * [Rhetorical Questions: Cicero](https://historyofphilosophy.net/cicero)
   * [Raphael Woolf on Cicero](https://historyofphilosophy.net/cicero-woolf)
 
@@ -322,4 +321,4 @@ There is a growing literature on Cicero as a philosopher. Set out below is a sel
 [Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [Carneades](https://plato.stanford.edu/entries/carneades/) | [Epicurus](https://plato.stanford.edu/entries/epicurus/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [ethics: natural law tradition](https://plato.stanford.edu/entries/natural-law-ethics/) | [fideism](https://plato.stanford.edu/entries/fideism/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Plato](https://plato.stanford.edu/entries/plato/) | [political philosophy: ancient](https://plato.stanford.edu/entries/ancient-political/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [Theophrastus](https://plato.stanford.edu/entries/theophrastus/) | [Williams, Bernard](https://plato.stanford.edu/entries/williams-bernard/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Raphael Woolf](https://www.kcl.ac.uk/people/raphael-woolf) <[_raphael.g.woolf@kcl.ac.uk_](mailto:raphael%2eg%2ewoolf%40kcl%2eac%2euk)>
+[Raphael Woolf](https://www.kcl.ac.uk/people/raphael-woolf) <[*raphael.g.woolf@kcl.ac.uk*](mailto:raphael%2eg%2ewoolf%40kcl%2eac%2euk)>

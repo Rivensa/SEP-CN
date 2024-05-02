@@ -1,12 +1,10 @@
 # 斯科伦悖论 Skolem’s (Timothy Bays)
 
-_首次发表于2009年1月12日；实质性修订于2014年11月11日。_
+*首次发表于2009年1月12日；实质性修订于2014年11月11日。*
 
 斯科伦悖论涉及经典逻辑中两个定理之间的表面冲突。勒文海姆-斯科伦定理说，如果一个一阶理论有无穷模型，那么它有模型的域只能是可数的。康托尔定理说，有些集合是不可数的。当我们注意到康托尔集合论的基本原理——即用来证明康托尔关于不可数集存在的定理的原理——本身可以被表述为一组一阶句子时，斯科伦悖论就出现了。那么，用来证明不可数集存在的原理怎么能被一个只能是可数的模型满足呢？一个可数的模型怎么能满足那个说有不可数个数学对象的一阶句子——例如，不可数个实数？
 
 对这个悖论的哲学讨论主要集中在三个主要问题上。首先，有一个纯粹的数学问题：为什么斯科伦悖论没有在集合论中引入明显的矛盾？其次，有一个历史问题。斯科伦本人对为什么斯科伦悖论不构成一个直接的数学矛盾给出了一个相当好的解释；那么，为什么斯科伦和他的同时代人继续认为这个悖论在哲学上如此令人困扰呢？最后，有一个纯粹的哲学问题：斯科伦悖论对我们对集合论的理解和/或集合论语言的语义有什么启示（如果有的话）？
-
- 
 
 ***
 
@@ -91,7 +89,7 @@ _首次发表于2009年1月12日；实质性修订于2014年11月11日。_
 
 对于这些问题的简短回答是：可数模型“误解”集合论公理的程度与它们误解Ω(x)这个公式的程度一样严重。暂时假设 M 是传递的，并考虑幂集公理：\[24]
 
-> ∀_x_ ∃_y_ ∀_z_ \[_z_ ⊆ _x_ ↔ _z_ ∈ _y_ ]
+> ∀*x* ∃*y* ∀*z* \[*z* ⊆ *x* ↔ *z* ∈ *y* ]
 
 在其普通英文解释中，这个公理表示每个集合都有一个幂集——一个包含了与我们开始的集合的所有子集的集合。\[25] 然而，在模型论解释中，这个公理表示的是一种更弱的情况。对于任意的 X ∈ M，这个公理确保我们可以找到一个 Y ∈ M，它恰好包含了那些也属于 M 的 X 的子集（即，Y = { Z | Z ⊆ X ∧ Z ∈ M }）。但是，如果 X 是无限的，那么大多数 X 的子集都不会存在于 M 的域中（因为，毕竟，X 有 2ℵ0 个子集，而 M 的域只是可数的）。因此，由幂集公理的模型论解释生成的 Y 将比 X 的真正幂集要小得多（Fraenkel 等，1984 年；Tennant 和 McCarty，1987 年；Shapiro，1991 年；Hallett，1994 年；Giaquinto，2002 年；Bays，2007a 年）。
 
@@ -235,77 +233,77 @@ Button（2011）认为，尽管这种技术批评对于明确引用下降的 Lö
 
 ## Bibliography
 
-* Anderson, D., 1993, “What is the Model-Theoretic Argument,” _The Journal of Philosophy_, 93: 311–22.
-* Badesa, C., 2004, _The Birth of Model Theory_, Princeton: Princeton University Press.
-* Bays, T., 2001, “On Putnam and his Models,” _The Journal of Philosophy_, 98: 331–50.
+* Anderson, D., 1993, “What is the Model-Theoretic Argument,” *The Journal of Philosophy*, 93: 311–22.
+* Badesa, C., 2004, *The Birth of Model Theory*, Princeton: Princeton University Press.
+* Bays, T., 2001, “On Putnam and his Models,” *The Journal of Philosophy*, 98: 331–50.
 * –––, 2007a, “The Mathematics of Skolem's Paradox,” in Jacquette 2007, pp. 615-648.
-* –––, 2007b, “More on Putnam's Models: A Response to Bellotti,” _Erkenntnis_, 67: 119–135.
-* –––, 2008, “Two Arguments against Realism,” _The Philosophical Quarterly_, 58: 193–213.
-* Bellotti, L., 2005, “Putnam and Constructibility,” _Erkenntnis_, 62: 395–409.
-* –––, 2006, “Skolem, the Skolem ‘Paradox’ and Informal Mathematics,” _Theoria_, 72: 177–220.
-* Benacerraf, P., 1965, “What the Numbers Could Not Be,” in _Philosophy of Mathematics_, Cambridge: Cambridge University Press, 1983, pp. 272-294.
-* –––, 1985, “Skolem and the Skeptic,” _Proceedings of the Aristotelian Society_, 59: 85–115.
-* Button, T., 2011, “The Metamathematics of Putnam's Model-Theoretic Arguments,” _Erkenntnis_, 74: 321–349.
-* Chambers, T., 2000, “A Quick Reply to Putnam's Paradox,” _Mind_, 109: 195–197.
-* Devitt, M., 1984, _Realism & Truth_, Princeton: Princeton University Press.
-* Douven, I., 1999, “Putnam's Model-Theoretic Argument Reconstructed,” _The Journal of Philosophy_, 96: 479–90.
-* Ebbinghaus, H. D., Flum, J., and Thomas, W., 1994, _Mathematical Logic_, Amsterdam: Springer.
-* Ebbinghaus, H. D., 2003, “Zermelo: Definiteness and the Universe of Definable Sets,” _History and Philosophy of Logic_, 24: 197–219.
+* –––, 2007b, “More on Putnam's Models: A Response to Bellotti,” *Erkenntnis*, 67: 119–135.
+* –––, 2008, “Two Arguments against Realism,” *The Philosophical Quarterly*, 58: 193–213.
+* Bellotti, L., 2005, “Putnam and Constructibility,” *Erkenntnis*, 62: 395–409.
+* –––, 2006, “Skolem, the Skolem ‘Paradox’ and Informal Mathematics,” *Theoria*, 72: 177–220.
+* Benacerraf, P., 1965, “What the Numbers Could Not Be,” in *Philosophy of Mathematics*, Cambridge: Cambridge University Press, 1983, pp. 272-294.
+* –––, 1985, “Skolem and the Skeptic,” *Proceedings of the Aristotelian Society*, 59: 85–115.
+* Button, T., 2011, “The Metamathematics of Putnam's Model-Theoretic Arguments,” *Erkenntnis*, 74: 321–349.
+* Chambers, T., 2000, “A Quick Reply to Putnam's Paradox,” *Mind*, 109: 195–197.
+* Devitt, M., 1984, *Realism & Truth*, Princeton: Princeton University Press.
+* Douven, I., 1999, “Putnam's Model-Theoretic Argument Reconstructed,” *The Journal of Philosophy*, 96: 479–90.
+* Ebbinghaus, H. D., Flum, J., and Thomas, W., 1994, *Mathematical Logic*, Amsterdam: Springer.
+* Ebbinghaus, H. D., 2003, “Zermelo: Definiteness and the Universe of Definable Sets,” *History and Philosophy of Logic*, 24: 197–219.
 * –––, 2007, “Löwenheim-Skolem Theorems,” in Jacquette 2007, pp. 587–614.
-* Fine, A., 1968, “Quantification over the Real Numbers,” _Philosophical Studies_, 19: 27–31.
-* Fraenkel, A., Bar-Hillel, Y., and Levy, A., 1984, _Foundations of Set Theory_, Amsterdam: North-Holland.
-* Gaifman, H., 2004, “Non-Standard Models in a Broader Perspective,” in _Non-Standard Models of Arithmetic and Set Theory_, A. Enayat and R. Kossak, (eds.), New York: American Mathematical Society, pp. 1–22.
-* Garcia-Carpintero, M., 1996, “The Model-Theoretic Argument: Another Turn of the Screw,” _Erkenntnis_, 44: 305–316.
-* George, A., 1985, “Skolem and the Löwenheim-Skolem Theorems,” _History and Philosophy of Logic_, 6: 75–89.
-* Giaquinto, M., 2002, _The Search for Certainty_, Oxford: Oxford University Press.
-* Goodstein, R. L., 1963, “The Significance of Incompleteness Theorems,” _British Journal for the Philosophy of Science_, 14: 208–220.
-* Hacking, I., 1983, _Representing and Intervening_, Cambridge: Cambridge University Press.
-* Hafner, J., 2005, _From Metamathematics to Philosophy: A Critical Assessment of Putnam's Model-Theoretic Argument_, Ph.D. Thesis, UC Berkeley.
-* Hamkins, J. D., 2011, “The Set-Theoretic Multiverse: A Natural Context for Set Theory,” _Annals of the Japan Association for Philosophy of Science_, 19: 37–55.
-* –––, 2012, “The Set-Theoretic Multiverse,” _Review of Symbolic Logic_, 5: 416–449.
-* Hale, B. and Wright, C., 1997, “Putnam's Model Theoretic Argument against Metaphysical Realism,” in _A Companion to the Philosophy of Language_, B. Hale and C. Wright, (eds.), Oxford: Blackwell, pp. 427–457.
-* Hallett, M., 1994, “Putnam and the Skolem Paradox,” in _Reading Putnam_, P. Clark and B. Hale, (eds.), Oxford: Oxford University Press, pp. 66–97.
-* Hart, W., 1970, “Skolem's Promises and Paradoxes,” _The Journal of Philosophy_, 67: 98–109.
-* Haukioja, J., 2001, “Not So Quick: A Reply to Chambers,” _Mind_, 110: 699–702.
-* Jacquette, D., (ed.), 2007, _Philosophy of Logic_, London: Elsevier.
-* Jané, I., 2001, “Reflections on Skolem's Relativity of Set-Theoretical Concepts,” _Philosophia Mathematica_, 3: 129–153.
-* Jech, T., 1978, _Set Theory_, San Diego: Academic Press.
-* Kleene, S., 1967, _Mathematical Logic_, New York: John Wiley & Sons.
-* Klenk, V., 1976, “Intended Models and the Löwenheim-Skolem Theorem,” _The Journal of Philosophical Logic_, 5: 475–489.
-* Kneale, W. and Kneale, M., 1962, _The Development of Logic_, Oxford: Clarendon Press.
-* Kroon, F., 2001, “Chambers on Putnam's Paradox,” _Mind_, 110: 703–708.
-* Kunnen, K., 1980, _Set Theory_, Amsterdam: North-Holland.
-* Levin, M., 1997, “Putnam on Reference and Constructible sets,” _British Journal for the Philosophy of Science_, 48: 55–67.
-* Lewis, D., 1984, “Putnam's Paradox,” _Australasian Journal of Philosophy_, 62: 221–236.
-* Lindström, P., 1966, “First-order Predicate Logic with Generalized Quantifiers,” _Theoria_, 32: 186–195.
-* –––, 1969, “On Extensions of Elementary Logic,” _Theoria_, 35: 1–11.
+* Fine, A., 1968, “Quantification over the Real Numbers,” *Philosophical Studies*, 19: 27–31.
+* Fraenkel, A., Bar-Hillel, Y., and Levy, A., 1984, *Foundations of Set Theory*, Amsterdam: North-Holland.
+* Gaifman, H., 2004, “Non-Standard Models in a Broader Perspective,” in *Non-Standard Models of Arithmetic and Set Theory*, A. Enayat and R. Kossak, (eds.), New York: American Mathematical Society, pp. 1–22.
+* Garcia-Carpintero, M., 1996, “The Model-Theoretic Argument: Another Turn of the Screw,” *Erkenntnis*, 44: 305–316.
+* George, A., 1985, “Skolem and the Löwenheim-Skolem Theorems,” *History and Philosophy of Logic*, 6: 75–89.
+* Giaquinto, M., 2002, *The Search for Certainty*, Oxford: Oxford University Press.
+* Goodstein, R. L., 1963, “The Significance of Incompleteness Theorems,” *British Journal for the Philosophy of Science*, 14: 208–220.
+* Hacking, I., 1983, *Representing and Intervening*, Cambridge: Cambridge University Press.
+* Hafner, J., 2005, *From Metamathematics to Philosophy: A Critical Assessment of Putnam's Model-Theoretic Argument*, Ph.D. Thesis, UC Berkeley.
+* Hamkins, J. D., 2011, “The Set-Theoretic Multiverse: A Natural Context for Set Theory,” *Annals of the Japan Association for Philosophy of Science*, 19: 37–55.
+* –––, 2012, “The Set-Theoretic Multiverse,” *Review of Symbolic Logic*, 5: 416–449.
+* Hale, B. and Wright, C., 1997, “Putnam's Model Theoretic Argument against Metaphysical Realism,” in *A Companion to the Philosophy of Language*, B. Hale and C. Wright, (eds.), Oxford: Blackwell, pp. 427–457.
+* Hallett, M., 1994, “Putnam and the Skolem Paradox,” in *Reading Putnam*, P. Clark and B. Hale, (eds.), Oxford: Oxford University Press, pp. 66–97.
+* Hart, W., 1970, “Skolem's Promises and Paradoxes,” *The Journal of Philosophy*, 67: 98–109.
+* Haukioja, J., 2001, “Not So Quick: A Reply to Chambers,” *Mind*, 110: 699–702.
+* Jacquette, D., (ed.), 2007, *Philosophy of Logic*, London: Elsevier.
+* Jané, I., 2001, “Reflections on Skolem's Relativity of Set-Theoretical Concepts,” *Philosophia Mathematica*, 3: 129–153.
+* Jech, T., 1978, *Set Theory*, San Diego: Academic Press.
+* Kleene, S., 1967, *Mathematical Logic*, New York: John Wiley & Sons.
+* Klenk, V., 1976, “Intended Models and the Löwenheim-Skolem Theorem,” *The Journal of Philosophical Logic*, 5: 475–489.
+* Kneale, W. and Kneale, M., 1962, *The Development of Logic*, Oxford: Clarendon Press.
+* Kroon, F., 2001, “Chambers on Putnam's Paradox,” *Mind*, 110: 703–708.
+* Kunnen, K., 1980, *Set Theory*, Amsterdam: North-Holland.
+* Levin, M., 1997, “Putnam on Reference and Constructible sets,” *British Journal for the Philosophy of Science*, 48: 55–67.
+* Lewis, D., 1984, “Putnam's Paradox,” *Australasian Journal of Philosophy*, 62: 221–236.
+* Lindström, P., 1966, “First-order Predicate Logic with Generalized Quantifiers,” *Theoria*, 32: 186–195.
+* –––, 1969, “On Extensions of Elementary Logic,” *Theoria*, 35: 1–11.
 * Löwenheim, L., 1915, “On Possibilities in the Calculus of Relatives,” in van Heijenoort 1967, pp. 228–251.
-* McIntosh, C., 1979, “Skolem's Criticisms of Set Theory,” _Nous_, 13: 313–334.
-* Muller, F., 2005, “Deflating Skolem,” _Synthese_, 143: 223–253.
-* Myhill, J., 1967, “On the Ontological Significance of the Löwenheim-Skolem Theorem,” in _Contemporary Readings in Logical Theory_, I. Copi and J. Gould, (eds.), New York: Macmillan, pp. 40–51.
+* McIntosh, C., 1979, “Skolem's Criticisms of Set Theory,” *Nous*, 13: 313–334.
+* Muller, F., 2005, “Deflating Skolem,” *Synthese*, 143: 223–253.
+* Myhill, J., 1967, “On the Ontological Significance of the Löwenheim-Skolem Theorem,” in *Contemporary Readings in Logical Theory*, I. Copi and J. Gould, (eds.), New York: Macmillan, pp. 40–51.
 * Putnam, H., 1980, “Models and Reality,” in Putnam 1983, pp. 1–25.
-* –––, 1983, _Realism and Reason_, Cambridge: Cambridge University Press.
-* –––, 1989, “Model Theory and the ‘factuality’ of Semantics,” in _Reflections on Chomsky_, A. George, (ed.), Cambridge: Blackwell, pp. 213–231.
-* Resnik, M., 1966, “On Skolem's Paradox,” _The Journal of Philosophy_, 63: 425–438.
-* –––, 1969, “More on Skolem's Paradox,” _Noûs_, 3: 185–196.
-* Shapiro, S., 1991, _Foundations without Foundationalism_, Oxford: Oxford University Press.
-* Shoenfield, J., 67, _Mathematical Logic_, Natick, MA.: Association for Symbolic Logic.
+* –––, 1983, *Realism and Reason*, Cambridge: Cambridge University Press.
+* –––, 1989, “Model Theory and the ‘factuality’ of Semantics,” in *Reflections on Chomsky*, A. George, (ed.), Cambridge: Blackwell, pp. 213–231.
+* Resnik, M., 1966, “On Skolem's Paradox,” *The Journal of Philosophy*, 63: 425–438.
+* –––, 1969, “More on Skolem's Paradox,” *Noûs*, 3: 185–196.
+* Shapiro, S., 1991, *Foundations without Foundationalism*, Oxford: Oxford University Press.
+* Shoenfield, J., 67, *Mathematical Logic*, Natick, MA.: Association for Symbolic Logic.
 * Skolem, T., 1922, “Some Remarks on Axiomitized Set Theory,” in van Heijenoort 1967, pp. 290–301.
 * –––, 1955, “A Critical Remark on Foundational Research,” in Skolem 1970, pp. 581–586.
 * –––, 1958, “Une Relativisation des Notions Mathematiques Fondementales,” in Skolem 1970, pp. 587–600.
-* –––, 1970, _Selected Works in Logic_, Oslo: Uiversitetsforlaget.
-* Taylor, B., 1991, “ ‘Just More Theory’: A Manoeuvre in Putnam's Model-Theoretic Argument for Antirealism,” _Australasian Journal of Philosophy_, 69: 152–166.
-* Taylor, G., 1993, “Zermelo, Reductionism, and the Philosophy of Mathematics,” _Notre Dame Journal of Formal Logic_, 34: 539–563.
-* Tennant, N. and McCarty, C., 1987, “Skolem's Paradox and Constructivism,” _The Journal of Philosophical Logic_, 16: 165–202.
-* Thomas, W., 1968, “Platonism and the Skolem Paradox,” _Analysis_, 28: 193–196.
-* –––, 1971, “On Behalf of the Skolemite,” _Analysis_, 31: 177–186.
-* Van Cleve, J. 1992, “Semantic Supervenience and Referential Indeterminacy,” _The Journal of Philosophy_, 89: 344–361.
-* van Dalen, D., 1997, _Logic and Structure_, Amsterdam: Springer.
-* van Heijenoort, J. (ed.), 1967, _From Frege to Gödel_, Cambridge, Mass.: Harvard University Press.
-* Velleman, D., 1998, “Review of Levin 1997,” _Mathematical Reviews_, 98c: 1364.
-* Wang, H., 1964, _A Survey of Mathematical Logic_, Amsterdam: North-Holland.
-* Wright, C., 1985, “Skolem and the Skeptic,” _Proceedings of the Aristotelian Society_, 59: 116–137.
-* Zermelo, E., 1930, “Über Grenzzahlen und Megenbereiche: Neue Untersuchungen über die Grundlagen der Mengenlehre,” _Fundamenta Mathematicae_, 16: 29–47.
+* –––, 1970, *Selected Works in Logic*, Oslo: Uiversitetsforlaget.
+* Taylor, B., 1991, “ ‘Just More Theory’: A Manoeuvre in Putnam's Model-Theoretic Argument for Antirealism,” *Australasian Journal of Philosophy*, 69: 152–166.
+* Taylor, G., 1993, “Zermelo, Reductionism, and the Philosophy of Mathematics,” *Notre Dame Journal of Formal Logic*, 34: 539–563.
+* Tennant, N. and McCarty, C., 1987, “Skolem's Paradox and Constructivism,” *The Journal of Philosophical Logic*, 16: 165–202.
+* Thomas, W., 1968, “Platonism and the Skolem Paradox,” *Analysis*, 28: 193–196.
+* –––, 1971, “On Behalf of the Skolemite,” *Analysis*, 31: 177–186.
+* Van Cleve, J. 1992, “Semantic Supervenience and Referential Indeterminacy,” *The Journal of Philosophy*, 89: 344–361.
+* van Dalen, D., 1997, *Logic and Structure*, Amsterdam: Springer.
+* van Heijenoort, J. (ed.), 1967, *From Frege to Gödel*, Cambridge, Mass.: Harvard University Press.
+* Velleman, D., 1998, “Review of Levin 1997,” *Mathematical Reviews*, 98c: 1364.
+* Wang, H., 1964, *A Survey of Mathematical Logic*, Amsterdam: North-Holland.
+* Wright, C., 1985, “Skolem and the Skeptic,” *Proceedings of the Aristotelian Society*, 59: 116–137.
+* Zermelo, E., 1930, “Über Grenzzahlen und Megenbereiche: Neue Untersuchungen über die Grundlagen der Mengenlehre,” *Fundamenta Mathematicae*, 16: 29–47.
 
 ## Academic Tools
 
@@ -326,4 +324,4 @@ Button（2011）认为，尽管这种技术批评对于明确引用下降的 Lö
 [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: second-order and higher-order](https://plato.stanford.edu/entries/logic-higher-order/) | [model theory](https://plato.stanford.edu/entries/model-theory/) | [model theory: first-order](https://plato.stanford.edu/entries/modeltheory-fo/) | [paradoxes: and contemporary logic](https://plato.stanford.edu/entries/paradoxes-contemporary-logic/) | [set theory](https://plato.stanford.edu/entries/set-theory/) | [set theory: early development](https://plato.stanford.edu/entries/settheory-early/) | [set theory: Zermelo’s axiomatization of](https://plato.stanford.edu/entries/zermelo-set-theory/)
 
 [Copyright © 2014](https://plato.stanford.edu/info.html#c) by\
-[Timothy Bays](http://www.nd.edu/\~tbays) <[_timothy.bays.5@nd.edu_](mailto:timothy%2ebays%2e5%40nd%2eedu)>
+[Timothy Bays](http://www.nd.edu/\~tbays) <[*timothy.bays.5@nd.edu*](mailto:timothy%2ebays%2e5%40nd%2eedu)>

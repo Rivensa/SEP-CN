@@ -6,8 +6,6 @@
 
 在早期现代哲学时期，至少有十几种经济思想流派。令人印象深刻的是，到了十八世纪末，许多关于货币、市场和贸易的核心原则和法则已经被阐明，许多经济学方法——模型构建、时间序列分析、统计估计、博弈论和决策理论——已经存在。总的来说，作为当时主要被称为“商业科学”的经济学，它是一个成熟的探究，并且，正如早期现代时期的自然科学一样，它在很大程度上依赖于其哲学根源。
 
-
-
 ---
 
 ## 经济思想学派
@@ -222,7 +220,6 @@ Smith 在他的《道德情感论》中观察到，“人性是女人的美德�
 
 史密斯对人性的描绘充满了这些黑暗的思想，类似于曼德维尔的玩世不恭。我们花费整个生命试图获得认可，基于同情的关注，大多数时候容易受到虚荣和贪婪的影响。他关于穷人之子的寓言，一个被野心驱使着变得富有的人，最终意识到在他的一生结束时，他所遭受的“为了侍奉那些他憎恨的人”和“对那些他鄙视的人谄媚”的侮辱，剥夺了他可能获得的“真正的宁静”，如果他知道自己的位置并保持贫穷的话，他本可以实现这一点。 （史密斯 1759 [1976: 181]）。只有在他的生命结束时，他才意识到“财富和伟大只是些小玩意”，而他在攀登过程中所遭受的友谊的丧失和“他的敌人的不公正”让他失去了内心的平静（同上）。史密斯指出，路边的乞丐比国王睡得更香甜，生活中更好的目标是实现内心的平静。亚当·史密斯，最常被认为代表资本主义声音的哲学家，对其强调强化人性的低级特征的倾向毫不客气。尽管他支持底层人民生活水平的提高，但他更主张坚忍。生活就像一场彩票，最好做好应对逆境的准备。正如史密斯所言，财富也许可以“避开夏日的阵雨，[但]无法避开冬日的暴风雨”（史密斯 1759 [1976: 183]）。因此，早期现代经济学提供了实用的智慧，并成为塑造智慧和美德生活的重要资源。
 
-
 ## Bibliography
 
 ### Primary Literature
@@ -415,7 +412,6 @@ Smith 在他的《道德情感论》中观察到，“人性是女人的美德�
   
 * Xenophon, *Œconomicus*, E.C. Merchant and O.J. Todd (trans.), in *Memorabilia, Œconomicus, Symposium, Apology*, Cambridge MA: Harvard University Press.
   
-
 ### Secondary Literature
 
 * Apeldoorn, Laurens van, 2017, “‘The Nutrition of a Commonwealth:’ On Hobbes’s Economic Thought”, in *History of Economic Rationalities: Economic Reasoning as Knowledge and Practice Authority*, Jakob Bek-Thomsen, Christian Olaf Christiansen, Stefan Gaarsmand Jacobsen, and Mikkel Thorup (eds.), (Ethical Economy 54), Dordrecht: Springer International Publishing, 21–30. doi:10.1007/978-3-319-52815-1_3

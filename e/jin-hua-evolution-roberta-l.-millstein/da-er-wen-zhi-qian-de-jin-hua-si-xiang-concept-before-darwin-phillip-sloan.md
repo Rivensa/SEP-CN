@@ -1,11 +1,10 @@
 # 达尔文之前的进化思想 concept before Darwin (Phillip Sloan)
 
-_首次发表于 2019 年 6 月 17 日星期一；实质性修订于 2023 年 11 月 30 日星期四_
+*首次发表于 2019 年 6 月 17 日星期一；实质性修订于 2023 年 11 月 30 日星期四*
 
 “进化”在当代讨论中指的是有机物种随时间变化的理论。在 19 世纪下半叶之前，这个术语主要是以胚胎学的意义使用，用来指代个体胚胎的发育。这种用法上的模糊性也围绕着德语术语 Entwicklungsgeschichte，最初是在胚胎学的背景下使用的。1852 年，英国哲学家赫伯特·斯宾塞（1820-1903）使用这个术语来表示从“同质性”到“异质性”的宇宙和生物学变化，并在那里谈到了“进化论”。在 19 世纪 60 年代，这个术语在某些语境中被用来指代物种变化（Bowler 1975）。达尔文本人直到《人类的由来》（1871）才开始使用这个具体术语来描述他的理论。由于本文将概述《物种起源》之前这些理论的广泛历史，术语“变形论”将在本文中通常用来指代 19 世纪 60 年代意义转变之前的物种变化理论，这个术语在 1835 年左右开始在法国生物学文献中普遍使用。自达尔文以来，“进化”这个术语通常，如果不是专门，与自然选择理论联系在一起，作为导致这种物种变化在历史时间内发生的主要原因。
 
 这篇文章对该主题进行了广泛的历史回顾，直至“达尔文革命”时期。达尔文时期将在单独的条目《达尔文：从物种起源到人类的衰落》中进行讨论。问题将在以下标题下进行审查：
-
 
 ***
 
@@ -51,7 +50,7 @@ _首次发表于 2019 年 6 月 17 日星期一；实质性修订于 2023 年 11
 
 第二个传统试图通过将地球的历史解释为“现实主义者”，并将其与《创世记》的记载相协调来实现。这样的综合是英国牧师托马斯·伯内特（1635-1715 年）的具体努力。伯内特试图将笛卡尔派生的地球起源历史记载与摩西传统的创世记账目相协调。在伯内特的记载中，地球始于一个由神圣行动塑造的原始混沌，通过一系列变化逐渐分离大陆，颠倒极点，并发生摩西洪水，最终形成现有的地球。为了解释生物的起源，伯内特依赖于原始伊甸园世界中“土地的自发多产”，类似于奥古斯丁关于创造性种子理论，而不是通过神圣行动直接创造完整的形态（伯内特 1684 年：第 2 卷，第 2 章，第 4 段，第 187 页\[1965 年：141 页]）。通过将这一记载与《创世记》第一章的圣经故事联系起来，伯内特与笛卡尔的反事实主义决裂，首次提供了一个据称是笛卡尔式发展性自然历史的字面解释，同时也包括生命形式的起源。
 
-### 机制、先前存在理论和物种固定性。
+### 机制、先前存在理论和物种固定性
 
 随后提出的各种关于“地球理论”的观点，如约翰·雷（John Ray，1627-1705）、约翰·伍德沃德（John Woodward，1665-1728）和威廉·惠斯顿（William Whiston，1667-1752）等自然哲学家的观点，未能就生物起源的自然解释问题达成共识（Rudwick 1972, 2005）。17 世纪关于个体生物胚胎起源的新思考成为一个特定的焦点，对这一问题的思考与物种起源的推测密切相关。
 
@@ -259,133 +258,133 @@ Lamarck 构想的群体复杂排列和排序是他的《动物哲学》中附加
 
 ## Bibliography
 
-* Appel, Toby A., 1987, _The Cuvier-Geoffroy Debate: French Biology in the Decades Before Darwin_, Oxford: Oxford University Press.
-* Aquinas, Thomas, _Summa Theologiae_, in S. Thomae de Aquino, _Opera omnia_, \[available online].
-* Aristotle, _The Complete Works of Aristotle: the Revised Oxford Translation_, 2 volumes, Jonathan Barnes (ed.), Princeton, NJ: Princeton University Press, 1984.
+* Appel, Toby A., 1987, *The Cuvier-Geoffroy Debate: French Biology in the Decades Before Darwin*, Oxford: Oxford University Press.
+* Aquinas, Thomas, *Summa Theologiae*, in S. Thomae de Aquino, *Opera omnia*, \[available online].
+* Aristotle, *The Complete Works of Aristotle: the Revised Oxford Translation*, 2 volumes, Jonathan Barnes (ed.), Princeton, NJ: Princeton University Press, 1984.
 * Aucante, Vincent, 2006, “Descartes’s Experimental Method and the Generation of Animals”, in Smith 2006: 65–79. doi:10.1017/CBO9780511498572.004
-* Augustine of Hippo, \[GL], _De Genesi ad Litteram_, translated by J. H. Taylor as _The Literal Meaning of Genesis_ (Ancient Christian Writers, 41), New York: Newman Press, 1982. (Latin text available online)
-* Blanckaert, Claude, Claudine Cohen, Pietro Corsi, and Jean-Louis Fischer (eds.), 1997, _Le Muséum au Premier siècle de son Histoire_, Paris: Editions du Muséum national d’histoire naturelle.
-* Bowler, Peter J., 1975, “The Changing Meaning of ‘Evolution’”, _Journal of the History of Ideas_, 36(1): 95–114. doi:10.2307/2709013
-* –––, 2003, _Evolution: the History of an Idea_, third edition, Berkeley, CA: University of California Press.
-* –––, 2013, _Darwin Deleted: Imagining a World Without Darwin_, Chicago: University of Chicago Press.
-* Buffon, Georges-Louis LeClerc, Le Comte de, 1753, “L’asne”, _Histoire Naturelle_, volume 4. Collected in Buffon \[OP].
-* –––, 1765, “De la Nature. Seconde Vue”, in _Histoire Naturelle_, volume 13, Paris: L’Imprimerie Royale, pp. i–xx. Collected in Buffon \[OP]. \[Buffon 1765 available online]
-* –––, 1779 \[1988], _Les Époques de la Nature_, Paris: De l’imprimerie royale. Critical edition, Jacques Roger (ed.), Paris: Muséum national d’histoire naturelle.
-* –––, \[OP], _Oeuvres philosophiques_, Jean Piveteau (ed.), Paris: Presses Universitaires de France, 1954.
+* Augustine of Hippo, \[GL], *De Genesi ad Litteram*, translated by J. H. Taylor as *The Literal Meaning of Genesis* (Ancient Christian Writers, 41), New York: Newman Press, 1982. (Latin text available online)
+* Blanckaert, Claude, Claudine Cohen, Pietro Corsi, and Jean-Louis Fischer (eds.), 1997, *Le Muséum au Premier siècle de son Histoire*, Paris: Editions du Muséum national d’histoire naturelle.
+* Bowler, Peter J., 1975, “The Changing Meaning of ‘Evolution’”, *Journal of the History of Ideas*, 36(1): 95–114. doi:10.2307/2709013
+* –––, 2003, *Evolution: the History of an Idea*, third edition, Berkeley, CA: University of California Press.
+* –––, 2013, *Darwin Deleted: Imagining a World Without Darwin*, Chicago: University of Chicago Press.
+* Buffon, Georges-Louis LeClerc, Le Comte de, 1753, “L’asne”, *Histoire Naturelle*, volume 4. Collected in Buffon \[OP].
+* –––, 1765, “De la Nature. Seconde Vue”, in *Histoire Naturelle*, volume 13, Paris: L’Imprimerie Royale, pp. i–xx. Collected in Buffon \[OP]. \[Buffon 1765 available online]
+* –––, 1779 \[1988], *Les Époques de la Nature*, Paris: De l’imprimerie royale. Critical edition, Jacques Roger (ed.), Paris: Muséum national d’histoire naturelle.
+* –––, \[OP], *Oeuvres philosophiques*, Jean Piveteau (ed.), Paris: Presses Universitaires de France, 1954.
 * –––, \[HN], _Histoire naturelle, génèrale et particuliè_re, introduit et annoté par Stéphane Schmitt, avec la collaboration de Cédric Crémière, 14 volumes, Paris: Champion, 2007– 2020.
-* Burkhardt, Richard W., Jr., 1977, _The Spirit of System: Lamarck and Evolutionary Biology_, Cambridge, MA: Harvard University Press.
-* Burnet, Thomas, 1684 \[1965], _The Theory of the Earth_, London, reprinted as _The Sacred Theory of the Earth_, London: Centaur Press, 1965. \[Burnett 1684 available online]
-* Carroll, William E., 2015, “After Darwin, Aquinas: A Universe Created and Evolving”, in _Darwin in the Twenty-First Century: Nature, Humanity, and God_, Phillip R. Sloan, Gerald P. McKenny, and Kathleen Eggleson (eds.), Notre Dame, Indiana: University of Notre Dame Press.
-* Chambers, Robert, 1844 \[1994], _Vestiges of the Natural History of Creation_, Edinburgh. A facsimile reprint of first edition, James A. Secord (ed.), Chicago: University of Chicago Press, 1994. \[Chambers 1844 third edition, 1845, available online]
-* Châtelet, Émilie Du, 1740, _Institutions de Physique_ (_Foundations of Physics_), Paris; second edition under the title _Institutions physique_, 1742; \[[English translation of Du Châtelet 1740 available online](https://www.kbrading.org/translations).
-* Corsi, Pietro, 1983 \[1988], _Oltre Il Mito: Lamarck e Le Scienze Naturali Del Suo Tempo_, (Saggi 255), Bologna: Mulino. Translated, with revisions and updates, as _The Age of Lamarck: Evolutionary Theories in France 1790–1830_, Jonathan Mandelbaum (trans.), Berkeley, CA: University of California Press.
-* –––, 2001, _Lamarck: Genèse et enjeux du transformisme, 1770–1830_, Paris: CNRS Editions. Revised version of Corsi 1983 \[1988].
-* –––, 2011, “The Revolutions of Evolution: Geoffroy and Lamarck, 1825–1840,” _Bulletin du Musée d’anthropologies préhistorique de Monaco_, 51: 97–122.
-* –––, 2012, “Idola Tribus: Lamarck, Politics and Religion in the Early Nineteenth Century”, in _The Theory of Evolution and its Impact_, Aldo Fasolo (ed.): 11–39, Dordrecht and New York: Springer. doi:10.1007/978-88-470-1974-4\_2
-* –––, 2021, “Edinburgh Lamarckians? The Authorship of Three Anonymous Papers (1826–1829),” _Journal of the History of Biology_, 54: 345–374, doi.org/10.1007/s10739-021-00646-5.
-* Dales, Richard C. and Omar Argerami, 1991, _Aristotle’s Teaching on the Eternity of the World in Medieval Latin Texts on the Eternity of the World_, Leiden: Brill. doi:10.1163/9789004246720.008
-* Descartes, René, 1664 \[1972], _Traité de l’homme_. Translated as _Treatise of Man_, Thomas Steele Hall (trans.) (Harvard Monographs in the History of Science), Cambridge, MA: Harvard University Press.
-* –––, 1647 \[1983], _Principia Philosophiae_. Translated as _Principles of Philosophy_, second edition, V. R. Miller and R. P. Miller (trans.), Dordrecht: Reidel, 1983.
-* –––, 1677, _L’homme, et la formation du foetus_, Paris. \[Descartes 1677 available online]
-* Desmond, Adrian J., 1989, _The Politics of Evolution: Morphology, Medicine, and Reform in Radical London_, (Science and Its Conceptual Foundations), Chicago: University of Chicago Press.
+* Burkhardt, Richard W., Jr., 1977, *The Spirit of System: Lamarck and Evolutionary Biology*, Cambridge, MA: Harvard University Press.
+* Burnet, Thomas, 1684 \[1965], *The Theory of the Earth*, London, reprinted as *The Sacred Theory of the Earth*, London: Centaur Press, 1965. \[Burnett 1684 available online]
+* Carroll, William E., 2015, “After Darwin, Aquinas: A Universe Created and Evolving”, in *Darwin in the Twenty-First Century: Nature, Humanity, and God*, Phillip R. Sloan, Gerald P. McKenny, and Kathleen Eggleson (eds.), Notre Dame, Indiana: University of Notre Dame Press.
+* Chambers, Robert, 1844 \[1994], *Vestiges of the Natural History of Creation*, Edinburgh. A facsimile reprint of first edition, James A. Secord (ed.), Chicago: University of Chicago Press, 1994. \[Chambers 1844 third edition, 1845, available online]
+* Châtelet, Émilie Du, 1740, *Institutions de Physique* (*Foundations of Physics*), Paris; second edition under the title *Institutions physique*, 1742; \[[English translation of Du Châtelet 1740 available online](https://www.kbrading.org/translations).
+* Corsi, Pietro, 1983 \[1988], *Oltre Il Mito: Lamarck e Le Scienze Naturali Del Suo Tempo*, (Saggi 255), Bologna: Mulino. Translated, with revisions and updates, as *The Age of Lamarck: Evolutionary Theories in France 1790–1830*, Jonathan Mandelbaum (trans.), Berkeley, CA: University of California Press.
+* –––, 2001, *Lamarck: Genèse et enjeux du transformisme, 1770–1830*, Paris: CNRS Editions. Revised version of Corsi 1983 \[1988].
+* –––, 2011, “The Revolutions of Evolution: Geoffroy and Lamarck, 1825–1840,” *Bulletin du Musée d’anthropologies préhistorique de Monaco*, 51: 97–122.
+* –––, 2012, “Idola Tribus: Lamarck, Politics and Religion in the Early Nineteenth Century”, in *The Theory of Evolution and its Impact*, Aldo Fasolo (ed.): 11–39, Dordrecht and New York: Springer. doi:10.1007/978-88-470-1974-4\_2
+* –––, 2021, “Edinburgh Lamarckians? The Authorship of Three Anonymous Papers (1826–1829),” *Journal of the History of Biology*, 54: 345–374, doi.org/10.1007/s10739-021-00646-5.
+* Dales, Richard C. and Omar Argerami, 1991, *Aristotle’s Teaching on the Eternity of the World in Medieval Latin Texts on the Eternity of the World*, Leiden: Brill. doi:10.1163/9789004246720.008
+* Descartes, René, 1664 \[1972], *Traité de l’homme*. Translated as *Treatise of Man*, Thomas Steele Hall (trans.) (Harvard Monographs in the History of Science), Cambridge, MA: Harvard University Press.
+* –––, 1647 \[1983], *Principia Philosophiae*. Translated as *Principles of Philosophy*, second edition, V. R. Miller and R. P. Miller (trans.), Dordrecht: Reidel, 1983.
+* –––, 1677, *L’homme, et la formation du foetus*, Paris. \[Descartes 1677 available online]
+* Desmond, Adrian J., 1989, *The Politics of Evolution: Morphology, Medicine, and Reform in Radical London*, (Science and Its Conceptual Foundations), Chicago: University of Chicago Press.
 * Detlefsen, Karen, 2006, “Explanation and Demonstration in the Haller- Wolff Debate”, in Smith 2006: 235–261. doi:10.1017/CBO9780511498572.012
-* Dupré, John, 1993, _The Disorder of Things_, Cambridge, MA: Harvard University Press.
-* Elshakry, Marwa, 2013, _Reading Darwin in Arabic, 1860–1950_, Chicago: The University of Chicago Press.
-* Ereshefsky, Marc (ed.), 1992, _The Units of Evolution: Essays on the Nature of Species_, Cambridge, MA: MIT Press.
+* Dupré, John, 1993, *The Disorder of Things*, Cambridge, MA: Harvard University Press.
+* Elshakry, Marwa, 2013, *Reading Darwin in Arabic, 1860–1950*, Chicago: The University of Chicago Press.
+* Ereshefsky, Marc (ed.), 1992, *The Units of Evolution: Essays on the Nature of Species*, Cambridge, MA: MIT Press.
 * Fisher, Saul, 2006, “The Soul as Vehicle for Genetic Information: Gassendi’s Account of Inheritance”, in Smith 2006: 103–123. doi:10.1017/CBO9780511498572.006
-* Garden, George, 1686, “A Discourse Concerning the Modern Theory of Generation”, _Philosophical Transactions of the Royal Society of London_, 17(192): 474–483. doi:10.1098/rstl.1686.0085
-* Gaukroger, Stephen, 2006, _The Emergence of a Scientific Culture: Science and the Shaping of Modernity 1210–1685_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199296446.001.0001
-* –––, 2010, _The Collapse of Mechanism and the Rise of Sensibility: Science and the Shaping of Modernity, 1680–1760_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199594931.001.0001
-* Geoffroy Sainte-Hilaire, ´Etienne, 1829, “De la continuité du règne animal, par voie de génération, depuis les premiers âges du monde jusqu’à nos jours Sur les rapports de historiques et actuellement vivants et les espèce antédiluviennes et perdues”. _Le Globe_, 7 (26): 207.
-* Ghiselin, Michael T., 1997, _Metaphysics and the Origin of Species_, (SUNY Series in Philosophy and Biology), Albany, NY: State University of New York Press.
-* Gould, Stephen Jay, 1977, _Ontogeny and Phylogeny_, Cambridge, MA: Belknap Press of Harvard University Press.
-* Greene, John C., 1959, _The Death of Adam: Evolution and Its Impact on Western Thought_, Ames, Iowa: Iowa State University Press.
-* Grene, Marjorie and David Depew, 2004, _The Philosophy of Biology: An Episodic History_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819018
-* Guerrini, Anita, 1987, “Archibald Pitcairne and Newtonian Medicine”,_Medical History_, 31(1): 70–83. doi:10.1017/S0025727300046329
-* Haines, Valerie A., 1988, “Is Spencer’s Theory an Evolutionary Theory?”, _American Journal of Sociology_, 93(5): 1200–1223. doi:10.1086/228869
-* Harvey, William, 1651, _Exercitationes de generatione animalium_, London; translated as _The Generation of Animals_ in _The Works of William Harvey, M.D._, Robert Willis (trans.), London: C. and J. Adlard, 1847. \[Harvey 1651 \[1847] available online]
-* Hoffheimer, Michael H., 1982, “Maupertuis and the Eighteenth-Century Critique of Preexistence”, _Journal of the History of Biology_, 15(1): 119–144. doi:10.1007/BF00132007
-* Hofstadter, Richard, 1944 \[1955], _Social Darwinism in American Thought_, Philadelphia, PA: University of Pennsylvania Press. Revised edition, Boston: Beacon, 1955.
-* Hoquet, Thierry, 2005, _Buffon: Histoire Naturelle et Philosophie_, (Les dix- huitièmes siècles, 92), Paris: Champion.
-* –––, 2007, _Buffon-Linné: Éternels Rivaux de La Biologie?_, (Quai Des Sciences), Paris: Dunod.
-* Hull, David L., 1965 \[1992], “The Effect of Essentialism on Taxonomy – Two Thousand Years of Stasis” (two parts), _The British Journal for the Philosophy of Science_, 15(60): 314–326 and 16(61): 1–18; eprinted in Ereshefsky 1992: 199–225. doi:10.1093/bjps/XV.60.314doi:10.1093/bjps/XVI.61.1
+* Garden, George, 1686, “A Discourse Concerning the Modern Theory of Generation”, *Philosophical Transactions of the Royal Society of London*, 17(192): 474–483. doi:10.1098/rstl.1686.0085
+* Gaukroger, Stephen, 2006, *The Emergence of a Scientific Culture: Science and the Shaping of Modernity 1210–1685*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199296446.001.0001
+* –––, 2010, *The Collapse of Mechanism and the Rise of Sensibility: Science and the Shaping of Modernity, 1680–1760*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199594931.001.0001
+* Geoffroy Sainte-Hilaire, ´Etienne, 1829, “De la continuité du règne animal, par voie de génération, depuis les premiers âges du monde jusqu’à nos jours Sur les rapports de historiques et actuellement vivants et les espèce antédiluviennes et perdues”. *Le Globe*, 7 (26): 207.
+* Ghiselin, Michael T., 1997, *Metaphysics and the Origin of Species*, (SUNY Series in Philosophy and Biology), Albany, NY: State University of New York Press.
+* Gould, Stephen Jay, 1977, *Ontogeny and Phylogeny*, Cambridge, MA: Belknap Press of Harvard University Press.
+* Greene, John C., 1959, *The Death of Adam: Evolution and Its Impact on Western Thought*, Ames, Iowa: Iowa State University Press.
+* Grene, Marjorie and David Depew, 2004, *The Philosophy of Biology: An Episodic History*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819018
+* Guerrini, Anita, 1987, “Archibald Pitcairne and Newtonian Medicine”,*Medical History*, 31(1): 70–83. doi:10.1017/S0025727300046329
+* Haines, Valerie A., 1988, “Is Spencer’s Theory an Evolutionary Theory?”, *American Journal of Sociology*, 93(5): 1200–1223. doi:10.1086/228869
+* Harvey, William, 1651, *Exercitationes de generatione animalium*, London; translated as *The Generation of Animals* in *The Works of William Harvey, M.D.*, Robert Willis (trans.), London: C. and J. Adlard, 1847. \[Harvey 1651 \[1847] available online]
+* Hoffheimer, Michael H., 1982, “Maupertuis and the Eighteenth-Century Critique of Preexistence”, *Journal of the History of Biology*, 15(1): 119–144. doi:10.1007/BF00132007
+* Hofstadter, Richard, 1944 \[1955], *Social Darwinism in American Thought*, Philadelphia, PA: University of Pennsylvania Press. Revised edition, Boston: Beacon, 1955.
+* Hoquet, Thierry, 2005, *Buffon: Histoire Naturelle et Philosophie*, (Les dix- huitièmes siècles, 92), Paris: Champion.
+* –––, 2007, *Buffon-Linné: Éternels Rivaux de La Biologie?*, (Quai Des Sciences), Paris: Dunod.
+* Hull, David L., 1965 \[1992], “The Effect of Essentialism on Taxonomy – Two Thousand Years of Stasis” (two parts), *The British Journal for the Philosophy of Science*, 15(60): 314–326 and 16(61): 1–18; eprinted in Ereshefsky 1992: 199–225. doi:10.1093/bjps/XV.60.314doi:10.1093/bjps/XVI.61.1
 * –––, 1999, “On the Plurality of Species: Questioning the Party Line”, in R.A. Wilson 1999: 23–48.
-* Jenkins, Bill, 2019, _Evolution before Darwin: Theories of the Transmutation of Species in Edinburgh, 1804–1834_, Edinburgh: Edinburgh University Press.
-* Jin, Xiaoxing, 2019, “Translation and Transmutation: The _Origin of Species_ in China”, _The British Journal for the History of Science_, 52(1): 117–141. doi:10.1017/S0007087418000808
-* –––, 2020, “The Evolution of Evolutionism in China, 1870–1930,” _Isis_, 111: 146–66. doi: /10.1086/708367
+* Jenkins, Bill, 2019, *Evolution before Darwin: Theories of the Transmutation of Species in Edinburgh, 1804–1834*, Edinburgh: Edinburgh University Press.
+* Jin, Xiaoxing, 2019, “Translation and Transmutation: The *Origin of Species* in China”, *The British Journal for the History of Science*, 52(1): 117–141. doi:10.1017/S0007087418000808
+* –––, 2020, “The Evolution of Evolutionism in China, 1870–1930,” *Isis*, 111: 146–66. doi: /10.1086/708367
 * Kirby, Jeremy, 2013, “Origins and the Greeks”, in Ruse (ed.) 2013, pp. 32–38.
-* Lamarck, Jean Baptiste Pierre Antoine de Monet de, 1798, _Flore françoise, ou, Description succincte de toutes les plantes qui croissent naturellement en France_, 3 volumes, Paris: l’Imprimerie Royale. doi:10.5962/bhl.title.9461 \[Available online Lamarck 1798 vol. 1, Lamarck 1798 vol. 2, Lamarck 1798 vol. 3]
-* –––, 1809, _Philosophie Zoologique_, two volumes, Paris: Dentu. \[Available online Lamarck 1809 vol. 1, Lamarck 1809 vol. 2; English trans. by Hugh Elliot, reprint New York: Hafner, 1963]
-* –––, 1815–22, _Histoire naturelle des animaux sans vertèbres_, Paris: Verdière. doi:10.5962/bhl.title.12712 \[Lamarck 1815–22, vol. 1, available online]
-* –––, 1817–19 \[1991], Articles from the _Nouveau dictionnaire d’histoire naturelle_, 36 volumes, Joseph Virey (ed.), Paris, reprinted in _Articles d’Histoire naturelle: Lamarck_, Jacques Roger and Goulven Laurent (eds.), Paris: Belin.
-* Le Guyader, Hervé, 1998 \[2004], _Etienne Geoffroy Saint-Hilaire, 1772– 1844: Un Naturaliste Visionnaire_, (Un Savant, Une Époque), Paris: Belin. Translated as _Étienne Geoffroy Saint-Hilaire, 1772–1844: A Visionary Naturalist_, Marjorie Grene (trans.), Chicago: University of Chicago Press, 2004.
-* Lennox, James G., 1985 \[2001], “Are Aristotelian Species Eternal?”, in _Aristotle on Nature and Living Things: Philosophical and Historical Studies: Presented to David M. Balme on His Seventieth Birthday_, Allan Gotthelf (ed.), Pittsburgh, PA: Mathesis Publications, 67–84. Reprinted in Lennox 2001: 131–159.
-* –––, 1987 \[2001], “Kinds, Forms of Kinds, and the More and the Less in Aristotle’s Biology”, in _Philosophical Issues in Aristotle’s Biology_, Allan Gotthelf and James G. Lennox (eds.), Cambridge: Cambridge University Press, 339–359. Reprinted in Lennox 2001: 160–181. doi:10.1017/CBO9780511552564.019
-* –––, 1993, “Darwin Was a Teleologist”, _Biology & Philosophy_, 8(4): 409– 421. doi:10.1007/BF00857687
-* –––, 2001, _Aristotle’s Philosophy of Biology: Studies in the Origins of Life Science_, Cambridge: Cambridge University Press.
-* Lightman, Bernard V. (ed.), 2016, _Global Spencerism: The Communication and Appropriation of a British Evolutionist_, (Cultural Dynamics of Science, 1), Leiden: Brill.
-* Lovejoy, Arthur O., 1911 \[1959], “Buffon and the Problem of Species”, two parts, _Popular Science Monthly_, 79 (November): 464–473 and 79(December): 554–567. Reprinted, 1959, _Forerunners of Darwin: 1745–1859_, Bentley Glass, Owsei Temkin, and William L. Strauss (eds.), Baltimore, MD: Johns Hopkins Press, 84–113.
-* Lucretius, Titus, \[RN], _The Way Things Are: the De Rerum Natura of Titus Lucretius Carus_, translated by Rolfe Humphries, Bloomington, IND: Indiana University Press, 1968.
-* MacPherson, Ryan, 2015, _Debating Evolution Before Darwinism: An Exploration of Science and Religion in America_, _1844–1859_, Mankato, MN: Into Your Hands Press.
-* Malebranche, Nicholas, 1674/75, _De la Recherche de la vérité_ (_Concerning the Search after Truth_), two volumes, Paris. \[Malebranche 1674/75 available online]
-* Maillet, Benôit de, 1748, _Telliamed ou entretiens d’un philosophe indien avec un missionnaire françois, sur la diminution de la Mer, la formation de la Terre, l’Origine de l’Homme, etc._, Jean Baptiste de Mascrier (ed.), Amsterdam. \[Maillet 1748 available online]
-* Maupertuis, Pierre de, 1745 \[1966], _Vénus physique_, translated S. B. Boas, New York: Johnson Reprint.
-* Newton, Isaac, 1729 \[1999], _Philosophiæ Naturalis Principia Mathematica_ (_Mathematical Principles of Natural Philosophy_), 3rd edition; I. Bernard Cohen and Anne Whitman (trans.), Berkeley: University of California Press.
-* –––, 1730, _Opticks: Or, A Treatise of the Reflections, Refractions, Inflections and Colours of Light_, fourth edition, London: William Innys, first edition in 1704, reprint New York: Dover. \[[Newton 1730 available online](https://www.gutenberg.org/files/33504/33504-h/33504-h.htm)]
-* Oderberg, David S., 2007, _Real Essentialism_, New York and London: Routledge.
-* Oldroyd, David, 1996, _Thinking About the Earth: A History of Ideas in Geology_, Cambridge, MA: Harvard University Press.
-* Owen, Richard, 1846,“On the Archetype and Homologies of the Vertebrate Skeleton,” _Reports of the British Association for the Advancement of Science_ (1846), 169–340.
-* Owen, Richard, 1849 \[2007], _On the Nature of the Limbs_, London, 1849, reprinted and edited by Ronald Amundson, Chicago: University of Chicago Press.
-* Pinto-Correia, Clara, 1997, _The Ovary of Eve: Egg and Sperm ad Preformation_, Chicago: University of Chicago Press.
-* Pusey, James Reeve, 1983, _China and Charles Darwin_, (Harvard East Asian Monographs, 100), Cambridge, MA: Council on East Asian Studies, Harvard University.
+* Lamarck, Jean Baptiste Pierre Antoine de Monet de, 1798, *Flore françoise, ou, Description succincte de toutes les plantes qui croissent naturellement en France*, 3 volumes, Paris: l’Imprimerie Royale. doi:10.5962/bhl.title.9461 \[Available online Lamarck 1798 vol. 1, Lamarck 1798 vol. 2, Lamarck 1798 vol. 3]
+* –––, 1809, *Philosophie Zoologique*, two volumes, Paris: Dentu. \[Available online Lamarck 1809 vol. 1, Lamarck 1809 vol. 2; English trans. by Hugh Elliot, reprint New York: Hafner, 1963]
+* –––, 1815–22, *Histoire naturelle des animaux sans vertèbres*, Paris: Verdière. doi:10.5962/bhl.title.12712 \[Lamarck 1815–22, vol. 1, available online]
+* –––, 1817–19 \[1991], Articles from the *Nouveau dictionnaire d’histoire naturelle*, 36 volumes, Joseph Virey (ed.), Paris, reprinted in *Articles d’Histoire naturelle: Lamarck*, Jacques Roger and Goulven Laurent (eds.), Paris: Belin.
+* Le Guyader, Hervé, 1998 \[2004], *Etienne Geoffroy Saint-Hilaire, 1772– 1844: Un Naturaliste Visionnaire*, (Un Savant, Une Époque), Paris: Belin. Translated as *Étienne Geoffroy Saint-Hilaire, 1772–1844: A Visionary Naturalist*, Marjorie Grene (trans.), Chicago: University of Chicago Press, 2004.
+* Lennox, James G., 1985 \[2001], “Are Aristotelian Species Eternal?”, in *Aristotle on Nature and Living Things: Philosophical and Historical Studies: Presented to David M. Balme on His Seventieth Birthday*, Allan Gotthelf (ed.), Pittsburgh, PA: Mathesis Publications, 67–84. Reprinted in Lennox 2001: 131–159.
+* –––, 1987 \[2001], “Kinds, Forms of Kinds, and the More and the Less in Aristotle’s Biology”, in *Philosophical Issues in Aristotle’s Biology*, Allan Gotthelf and James G. Lennox (eds.), Cambridge: Cambridge University Press, 339–359. Reprinted in Lennox 2001: 160–181. doi:10.1017/CBO9780511552564.019
+* –––, 1993, “Darwin Was a Teleologist”, *Biology & Philosophy*, 8(4): 409– 421. doi:10.1007/BF00857687
+* –––, 2001, *Aristotle’s Philosophy of Biology: Studies in the Origins of Life Science*, Cambridge: Cambridge University Press.
+* Lightman, Bernard V. (ed.), 2016, *Global Spencerism: The Communication and Appropriation of a British Evolutionist*, (Cultural Dynamics of Science, 1), Leiden: Brill.
+* Lovejoy, Arthur O., 1911 \[1959], “Buffon and the Problem of Species”, two parts, *Popular Science Monthly*, 79 (November): 464–473 and 79(December): 554–567. Reprinted, 1959, *Forerunners of Darwin: 1745–1859*, Bentley Glass, Owsei Temkin, and William L. Strauss (eds.), Baltimore, MD: Johns Hopkins Press, 84–113.
+* Lucretius, Titus, \[RN], *The Way Things Are: the De Rerum Natura of Titus Lucretius Carus*, translated by Rolfe Humphries, Bloomington, IND: Indiana University Press, 1968.
+* MacPherson, Ryan, 2015, *Debating Evolution Before Darwinism: An Exploration of Science and Religion in America*, *1844–1859*, Mankato, MN: Into Your Hands Press.
+* Malebranche, Nicholas, 1674/75, *De la Recherche de la vérité* (*Concerning the Search after Truth*), two volumes, Paris. \[Malebranche 1674/75 available online]
+* Maillet, Benôit de, 1748, *Telliamed ou entretiens d’un philosophe indien avec un missionnaire françois, sur la diminution de la Mer, la formation de la Terre, l’Origine de l’Homme, etc.*, Jean Baptiste de Mascrier (ed.), Amsterdam. \[Maillet 1748 available online]
+* Maupertuis, Pierre de, 1745 \[1966], *Vénus physique*, translated S. B. Boas, New York: Johnson Reprint.
+* Newton, Isaac, 1729 \[1999], *Philosophiæ Naturalis Principia Mathematica* (*Mathematical Principles of Natural Philosophy*), 3rd edition; I. Bernard Cohen and Anne Whitman (trans.), Berkeley: University of California Press.
+* –––, 1730, *Opticks: Or, A Treatise of the Reflections, Refractions, Inflections and Colours of Light*, fourth edition, London: William Innys, first edition in 1704, reprint New York: Dover. \[[Newton 1730 available online](https://www.gutenberg.org/files/33504/33504-h/33504-h.htm)]
+* Oderberg, David S., 2007, *Real Essentialism*, New York and London: Routledge.
+* Oldroyd, David, 1996, *Thinking About the Earth: A History of Ideas in Geology*, Cambridge, MA: Harvard University Press.
+* Owen, Richard, 1846,“On the Archetype and Homologies of the Vertebrate Skeleton,” *Reports of the British Association for the Advancement of Science* (1846), 169–340.
+* Owen, Richard, 1849 \[2007], *On the Nature of the Limbs*, London, 1849, reprinted and edited by Ronald Amundson, Chicago: University of Chicago Press.
+* Pinto-Correia, Clara, 1997, *The Ovary of Eve: Egg and Sperm ad Preformation*, Chicago: University of Chicago Press.
+* Pusey, James Reeve, 1983, *China and Charles Darwin*, (Harvard East Asian Monographs, 100), Cambridge, MA: Council on East Asian Studies, Harvard University.
 * Pyle, Andrew, 2006, “Malebranche on Animal Generation: Preexistence and the Microscope”, in Smith 2006: 194–214. doi:10.1017/CBO9780511498572.010
-* Reill, Peter H., 1992, “Buffon and Historical Thought in Germany and Great Britain”, in _Buffon 88: actes du Colloque international pour le bicentenaire de la mort de Buffon_ (Paris, Montbard, Dijon, 14–22 juin 1988), Jean Gayon (ed.), Paris: J. Vrin, 667–680.
-* –––, 2005, _Vitalizing Nature in the Enlightenment_, Berkeley: University of California Press.
-* Richards, Richard A., 2010, _The Species Problem: A Philosophical Analysis_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511762222
-* Richards, Robert J., 2002, _The Romantic Conception of Life: Science and Philosophy in the Age of Goethe_, (Science and Its Conceptual Foundations), Chicago: University of Chicago Press.
-* Roe, Shirley A., 1981, _Matter, Life, and Generation: Eighteenth-Century Embryology and the Haller-Wolff Debate_, Cambridge: Cambridge University Press.
-* Roger, Jacques, 1989, _Buffon, un Philosophe au Jardin du Roi_, Paris: Librairie Arthème Fayard.
-* –––, 1993, _Les Sciences de la Vie dans la pensée Française du XVIIIe Siècle: La generation des animaux de Descartes à l’Encyclopédie_, revised edition, Paris: Albin Michel.
-* –––, 1997a. _The Life Sciences in Eighteenth-Century French Thought_, Keith Rodney Benson (ed.). Robert Ellrich (trans.), Stanford, CA: Stanford University Press.
-* –––, 1997b, _Buffon: A Life in Natural History_, L. Pearce Williams (ed.). Sarah Lucille Bonnefoi (trans.), Ithaca, NY: Cornell University Press.
-* Rudwick, Martin John Spencer, 1972, _The Meaning of Fossils: Episodes in the History of Palaeontology_, (History of Science Library), London: Macdonald.
-* –––, 2005, _Bursting the Limits of Time: The Reconstruction of Geohistory in the Age of Revolution_, Chicago: University of Chicago Press.
-* Rupke, Nicolaas A., 1993, “Richard Owen’s Vertebrate Archetype”, _Isis_, 84(2): 231–251. doi:10.1086/356461
-* –––, 1994, _Richard Owen: Victorian Naturalist_, New Haven, CT: Yale University Press.
-* –––, 2009, _Richard Owen: Biology Without Darwin_, Chicago, IL: University of Chicago Press.
-* Ruse, Michael, 1996, _Monad to Man: The Concept of Progress in Evolutionary Biology_, Cambridge, MA: Harvard University Press.
-* –––, 2013, “Evolution Before Darwin”, in _The Cambridge Encyclopedia of Darwin and Evolutionary Thought_, Michael Ruse, (ed.), Cambridge: Cambridge University Press, pp. 39–45.
-* Schmitt, Stéphane, 2019, “From Paris to Moscow via Leipzig (1749– 1787): Translational Metamorphoses of Buffon’s _Histoire naturelle_”, _Erudition and the Republic of Letters_, 4: 33–74.
-* Schofield, Robert E., 1970, _Mechanism and Materialism: British Natural Philosophy in an Age of Reason_, Princeton, NJ: Princeton University Press.
-* Secord, James A., 2000, _Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation_, Chicago, IL: University of Chicago Press.
-* Sedley, David N., 2007, _Creationism and Its Critics in Antiquity_, (Sather Classical Lectures, 66), Berkeley, CA: University of California Press.
-* Shank, John B., 2008, _The Newton Wars and the Beginning of the French Enlightenment_, Chicago, Il.: University of Chicago Press.
-* Sloan, Phillip R., 1973, “The Idea of Racial Degeneracy in Buffon’s _Histoire naturelle_”, _Studies in Eighteenth Century Culture_, 3: 293– 321.
-* –––, 1987, “From Logical Universals to Historical Individuals: Buffon’s Idea of Biological Species”, in J-L. Fischer and J. Roger (eds.), _Histoire du Concept d’Espèce dans les Sciences de la Vie_, Paris: Fondation Singer-Polignac, 101–140.
-* –––,1992a, “Organic Molecules Revisited”, in _Buffon 88: actes du Colloque international pour le bicentenaire de la mort de Buffon_ (Paris, Montbard, Dijon, 14–22 juin 1988), Jean Gayon (ed.), Paris: J. Vrin, 415–438.
-* –––, (ed.), 1992b, _Richard Owen’s Hunterian Lectures, May–June 1837_, Chicago: University of Chicago Press.
-* –––, 2003, “Whewell’s Philosophy of Discovery and the Archetype of the Vertebrate Skeleton: The Role of German Philosophy of Science in Richard Owen’s Biology”, _Annals of Science_, 60: 39–61. doi:10.1080/713801780
-* –––, 2006a, “Kant on the History of Nature: The Ambiguous Heritage of the Critical Philosophy for Natural History”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 627–648. doi:10.1016/j.shpsc.2006.09.003
-* –––, 2006b, “Natural History”, in _The Cambridge History of Eighteenth- Century Philosophy_, volume 2, Knud Haakonssen (ed.), Cambridge: Cambridge University Press, 903–938. doi:10.1017/CHOL9780521867436.012
-* –––, 2007, “Kant and British Bioscience”, in _Understanding Purpose: Kant and the Philosophy of Biology_, (NAKS Studies in Philosophy, 8), Philippe Huneman (ed.), Rochester, NY: University of Rochester Press, 149–171.
-* –––, 2013, “The Species Problem and History”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(2): 237–241. doi:10.1016/j.shpsc.2013.01.001
-* –––, 2014, “The Essence of Race: Kant and Late Enlightenment Reflections”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 47(A): 191–195. doi:10.1016/j.shpsc.2014.06.001
-* –––, 2019, “Metaphysics and ‘Vital’ Materialism: Émilie Du Châtelet and the Origins of French Vitalism”, in _Philosophy of Biology before Biology_, Cécilia Bognon-Küss and Charles T. Wolfe (eds.), London: Routledge, chp. 3.
-* Smith, Justin E. H. (ed.), 2006, _The Problem of Animal Generation in Early Modern Philosophy_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498572
-* Spary, E. C., 2000, _Utopia’s Garden: French Natural History from Old Regime to Revolution_, Chicago: University of Chicago Press.
-* Spencer, Herbert, 1852, “The Development Hypothesis”, _The Leader_, March 20 (published anonymously). Reprinted in his _Essays Scientific, Political & Speculative_, three volumes, London: Williams and Norgate, 1891, pp.1–7. \[Spencer 1852 available online]
-* Stamos, David N., 2003, _The Species Problem: Biological Species, Ontology, and the Metaphysics of Biology_, Lanham: Lexington Books.
-* Stephanson, Raymond and Darren Wagner (eds.), 2015, _The Secrets of Generation: Reproduction in the Long Eighteenth Century_, Toronto: University of Toronto Press.
-* Steno, Nicholas, 1669, _De solido intra solidum naturaliter contento dissertationis prodromus_, Florence. Translated as _The prodromus of Nicolaus Steno’s dissertation concerning a solid body enclosed by process of nature within a solid_, John Garrett Winter (trans.), New York: Macmillan, 1916. \[Steno 1669 and Steno 1669 \[1916] available online]
-* Terrall, Mary, 2002, _The Man Who Flattened the Earth: Maupertuis and the Sciences in the Enlightenment_, Chicago: The University of Chicago Press.
-* Wheeler, Quentin D. and Rudolf Meier (eds.), 2000, _Species Concepts and Phylogenetic Theory: A Debate_, New York: Columbia University Press.
-* Wilkins, John S., 2009, _Species: A History of the Idea_, (Species and Systematics 1), Berkeley, CA: University of California Press.
+* Reill, Peter H., 1992, “Buffon and Historical Thought in Germany and Great Britain”, in *Buffon 88: actes du Colloque international pour le bicentenaire de la mort de Buffon* (Paris, Montbard, Dijon, 14–22 juin 1988), Jean Gayon (ed.), Paris: J. Vrin, 667–680.
+* –––, 2005, *Vitalizing Nature in the Enlightenment*, Berkeley: University of California Press.
+* Richards, Richard A., 2010, *The Species Problem: A Philosophical Analysis*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511762222
+* Richards, Robert J., 2002, *The Romantic Conception of Life: Science and Philosophy in the Age of Goethe*, (Science and Its Conceptual Foundations), Chicago: University of Chicago Press.
+* Roe, Shirley A., 1981, *Matter, Life, and Generation: Eighteenth-Century Embryology and the Haller-Wolff Debate*, Cambridge: Cambridge University Press.
+* Roger, Jacques, 1989, *Buffon, un Philosophe au Jardin du Roi*, Paris: Librairie Arthème Fayard.
+* –––, 1993, *Les Sciences de la Vie dans la pensée Française du XVIIIe Siècle: La generation des animaux de Descartes à l’Encyclopédie*, revised edition, Paris: Albin Michel.
+* –––, 1997a. *The Life Sciences in Eighteenth-Century French Thought*, Keith Rodney Benson (ed.). Robert Ellrich (trans.), Stanford, CA: Stanford University Press.
+* –––, 1997b, *Buffon: A Life in Natural History*, L. Pearce Williams (ed.). Sarah Lucille Bonnefoi (trans.), Ithaca, NY: Cornell University Press.
+* Rudwick, Martin John Spencer, 1972, *The Meaning of Fossils: Episodes in the History of Palaeontology*, (History of Science Library), London: Macdonald.
+* –––, 2005, *Bursting the Limits of Time: The Reconstruction of Geohistory in the Age of Revolution*, Chicago: University of Chicago Press.
+* Rupke, Nicolaas A., 1993, “Richard Owen’s Vertebrate Archetype”, *Isis*, 84(2): 231–251. doi:10.1086/356461
+* –––, 1994, *Richard Owen: Victorian Naturalist*, New Haven, CT: Yale University Press.
+* –––, 2009, *Richard Owen: Biology Without Darwin*, Chicago, IL: University of Chicago Press.
+* Ruse, Michael, 1996, *Monad to Man: The Concept of Progress in Evolutionary Biology*, Cambridge, MA: Harvard University Press.
+* –––, 2013, “Evolution Before Darwin”, in *The Cambridge Encyclopedia of Darwin and Evolutionary Thought*, Michael Ruse, (ed.), Cambridge: Cambridge University Press, pp. 39–45.
+* Schmitt, Stéphane, 2019, “From Paris to Moscow via Leipzig (1749– 1787): Translational Metamorphoses of Buffon’s *Histoire naturelle*”, *Erudition and the Republic of Letters*, 4: 33–74.
+* Schofield, Robert E., 1970, *Mechanism and Materialism: British Natural Philosophy in an Age of Reason*, Princeton, NJ: Princeton University Press.
+* Secord, James A., 2000, *Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation*, Chicago, IL: University of Chicago Press.
+* Sedley, David N., 2007, *Creationism and Its Critics in Antiquity*, (Sather Classical Lectures, 66), Berkeley, CA: University of California Press.
+* Shank, John B., 2008, *The Newton Wars and the Beginning of the French Enlightenment*, Chicago, Il.: University of Chicago Press.
+* Sloan, Phillip R., 1973, “The Idea of Racial Degeneracy in Buffon’s *Histoire naturelle*”, *Studies in Eighteenth Century Culture*, 3: 293– 321.
+* –––, 1987, “From Logical Universals to Historical Individuals: Buffon’s Idea of Biological Species”, in J-L. Fischer and J. Roger (eds.), *Histoire du Concept d’Espèce dans les Sciences de la Vie*, Paris: Fondation Singer-Polignac, 101–140.
+* –––,1992a, “Organic Molecules Revisited”, in *Buffon 88: actes du Colloque international pour le bicentenaire de la mort de Buffon* (Paris, Montbard, Dijon, 14–22 juin 1988), Jean Gayon (ed.), Paris: J. Vrin, 415–438.
+* –––, (ed.), 1992b, *Richard Owen’s Hunterian Lectures, May–June 1837*, Chicago: University of Chicago Press.
+* –––, 2003, “Whewell’s Philosophy of Discovery and the Archetype of the Vertebrate Skeleton: The Role of German Philosophy of Science in Richard Owen’s Biology”, *Annals of Science*, 60: 39–61. doi:10.1080/713801780
+* –––, 2006a, “Kant on the History of Nature: The Ambiguous Heritage of the Critical Philosophy for Natural History”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 627–648. doi:10.1016/j.shpsc.2006.09.003
+* –––, 2006b, “Natural History”, in *The Cambridge History of Eighteenth- Century Philosophy*, volume 2, Knud Haakonssen (ed.), Cambridge: Cambridge University Press, 903–938. doi:10.1017/CHOL9780521867436.012
+* –––, 2007, “Kant and British Bioscience”, in *Understanding Purpose: Kant and the Philosophy of Biology*, (NAKS Studies in Philosophy, 8), Philippe Huneman (ed.), Rochester, NY: University of Rochester Press, 149–171.
+* –––, 2013, “The Species Problem and History”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(2): 237–241. doi:10.1016/j.shpsc.2013.01.001
+* –––, 2014, “The Essence of Race: Kant and Late Enlightenment Reflections”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 47(A): 191–195. doi:10.1016/j.shpsc.2014.06.001
+* –––, 2019, “Metaphysics and ‘Vital’ Materialism: Émilie Du Châtelet and the Origins of French Vitalism”, in *Philosophy of Biology before Biology*, Cécilia Bognon-Küss and Charles T. Wolfe (eds.), London: Routledge, chp. 3.
+* Smith, Justin E. H. (ed.), 2006, *The Problem of Animal Generation in Early Modern Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498572
+* Spary, E. C., 2000, *Utopia’s Garden: French Natural History from Old Regime to Revolution*, Chicago: University of Chicago Press.
+* Spencer, Herbert, 1852, “The Development Hypothesis”, *The Leader*, March 20 (published anonymously). Reprinted in his *Essays Scientific, Political & Speculative*, three volumes, London: Williams and Norgate, 1891, pp.1–7. \[Spencer 1852 available online]
+* Stamos, David N., 2003, *The Species Problem: Biological Species, Ontology, and the Metaphysics of Biology*, Lanham: Lexington Books.
+* Stephanson, Raymond and Darren Wagner (eds.), 2015, *The Secrets of Generation: Reproduction in the Long Eighteenth Century*, Toronto: University of Toronto Press.
+* Steno, Nicholas, 1669, *De solido intra solidum naturaliter contento dissertationis prodromus*, Florence. Translated as *The prodromus of Nicolaus Steno’s dissertation concerning a solid body enclosed by process of nature within a solid*, John Garrett Winter (trans.), New York: Macmillan, 1916. \[Steno 1669 and Steno 1669 \[1916] available online]
+* Terrall, Mary, 2002, *The Man Who Flattened the Earth: Maupertuis and the Sciences in the Enlightenment*, Chicago: The University of Chicago Press.
+* Wheeler, Quentin D. and Rudolf Meier (eds.), 2000, *Species Concepts and Phylogenetic Theory: A Debate*, New York: Columbia University Press.
+* Wilkins, John S., 2009, *Species: A History of the Idea*, (Species and Systematics 1), Berkeley, CA: University of California Press.
 * Wilson, Catherine, 2006, “Kant and the Speculative Sciences of Origins”, in Smith 2006: 375–401. doi:10.1017/CBO9780511498572.017
-* Wilson, Robert A. (ed.), 1999, _Species: New Interdisciplinary Essays_, Cambridge, MA: MIT Press.
-* Winsor, Mary P., 2006, “The Creation of the Essentialism Story: An Exercise in Metahistory”, _History and Philosophy of the Life Sciences_, 28(2): 149–174.
-* Wolfe, Charles, 2014, “On the Role of Newtonian Analogies in Eighteenth-Century Life Science”, in _Newton and Empiricism_, Zvi Biener and Eric Schliesser (eds.), Oxford: Oxford University Press, 223–261. doi:10.1093/acprof:oso/9780199337095.003.0010
-* Zalasiewicz, J. A., Anne-Sophie Milon, and Mateusz Zalasiewicz (eds/trans), 2018, _The Epochs of Nature: George-Louis Leclerc, le comte de Buffon_, Chicago: The University of Chicago Press.
-* Zammito, John H., 2018a, _The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling_, Chicago: University of Chicago Press.
+* Wilson, Robert A. (ed.), 1999, *Species: New Interdisciplinary Essays*, Cambridge, MA: MIT Press.
+* Winsor, Mary P., 2006, “The Creation of the Essentialism Story: An Exercise in Metahistory”, *History and Philosophy of the Life Sciences*, 28(2): 149–174.
+* Wolfe, Charles, 2014, “On the Role of Newtonian Analogies in Eighteenth-Century Life Science”, in *Newton and Empiricism*, Zvi Biener and Eric Schliesser (eds.), Oxford: Oxford University Press, 223–261. doi:10.1093/acprof:oso/9780199337095.003.0010
+* Zalasiewicz, J. A., Anne-Sophie Milon, and Mateusz Zalasiewicz (eds/trans), 2018, *The Epochs of Nature: George-Louis Leclerc, le comte de Buffon*, Chicago: The University of Chicago Press.
+* Zammito, John H., 2018a, *The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling*, Chicago: University of Chicago Press.
 
 ## Academic Tools
 
@@ -397,17 +396,17 @@ Lamarck 构想的群体复杂排列和排序是他的《动物哲学》中附加
 
 ## Other Internet Resources
 
-* [Jean-Baptiste Lamarck (1744–1829](http://www.victorianweb.org/science/lamarck1.html), entry by David Clifford at _The Victorian Web_ pages.
+* [Jean-Baptiste Lamarck (1744–1829](http://www.victorianweb.org/science/lamarck1.html), entry by David Clifford at *The Victorian Web* pages.
 * The [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/browse/authors/a) has some works available online by, among others,
   * [George-Louis LeClerc, Comte de Buffon](https://www.biodiversitylibrary.org/creator/2134#/titles)
 * [Carl Linnaeus](https://www.nrm.se/en/forskningochsamlingar/botanik/botaniskhistoria/carlvonlinne.480.html), Botanical History, article by Mats Wedin, hosted by the Swedish Museum of Natural History.
 * [History of Evolutionary Thought](https://evolution.berkeley.edu/evolibrary/article/history\01), hosted by University of California, Berkeley
 
-[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [altruism](https://plato.stanford.edu/entries/altruism/) | [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | [Aristotle, General Topics: biology](https://plato.stanford.edu/entries/aristotle-biology/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [Châtelet, Émilie du](https://plato.stanford.edu/entries/emilie-du-chatelet/) | [creationism](https://plato.stanford.edu/entries/creationism/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [evolution: from the _Origin of Species_ to the _Descent of Man_](https://plato.stanford.edu/entries/origin-descent/) | [fitness](https://plato.stanford.edu/entries/fitness/) | [genetics: ecological](https://plato.stanford.edu/entries/ecological-genetics/) | [life](https://plato.stanford.edu/entries/life/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [species](https://plato.stanford.edu/entries/species/) | [Spencer, Herbert](https://plato.stanford.edu/entries/spencer/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
+[adaptationism](https://plato.stanford.edu/entries/adaptationism/) | [altruism](https://plato.stanford.edu/entries/altruism/) | [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | [Aristotle, General Topics: biology](https://plato.stanford.edu/entries/aristotle-biology/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [Châtelet, Émilie du](https://plato.stanford.edu/entries/emilie-du-chatelet/) | [creationism](https://plato.stanford.edu/entries/creationism/) | [Darwinism](https://plato.stanford.edu/entries/darwinism/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [evolution: from the *Origin of Species* to the *Descent of Man*](https://plato.stanford.edu/entries/origin-descent/) | [fitness](https://plato.stanford.edu/entries/fitness/) | [genetics: ecological](https://plato.stanford.edu/entries/ecological-genetics/) | [life](https://plato.stanford.edu/entries/life/) | [Malebranche, Nicolas](https://plato.stanford.edu/entries/malebranche/) | [natural selection](https://plato.stanford.edu/entries/natural-selection/) | [natural selection: units and levels of](https://plato.stanford.edu/entries/selection-units/) | [species](https://plato.stanford.edu/entries/species/) | [Spencer, Herbert](https://plato.stanford.edu/entries/spencer/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
 
 ### Acknowledgments
 
 The author wishes to acknowledge the valuable comments of colleagues on this and a previous version of this article from David Depew, Robert J. Richards, Pietro Corsi, M. Katherine Tillman and the anonymous reviewers for the Stanford Encyclopedia of Philosophy.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Phillip Sloan](http://pls.nd.edu/faculty/phillip-sloan/) <[_sloan.1@nd.edu_](mailto:sloan%2e1%40nd%2eedu)>
+[Phillip Sloan](http://pls.nd.edu/faculty/phillip-sloan/) <[*sloan.1@nd.edu*](mailto:sloan%2e1%40nd%2eedu)>

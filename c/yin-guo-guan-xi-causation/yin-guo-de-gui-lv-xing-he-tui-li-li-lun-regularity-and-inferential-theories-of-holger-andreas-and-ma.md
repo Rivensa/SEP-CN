@@ -1,11 +1,10 @@
 # 因果的规律性和推理理论 regularity and inferential theories of (Holger Andreas and Mario Guenther)
 
-_首次发布于 2021 年 7 月 27 日星期二_
+*首次发布于 2021 年 7 月 27 日星期二*
 
 一个原因通常会被其效应紧随其后。这个想法是因果关系的规律理论的核心。最有影响力的规律理论可以在休谟（1739）那里找到。这一理论已被密尔（1843）细化，他坚持相关的规律是自然法则。直到戴维·刘易斯（1973）批评了规律理论并提出了根据反事实的因果关系分析（请参阅[因果关系的反事实理论](https://plato.stanford.edu/entries/causation-counterfactual/)）。从那时起，反事实理论逐渐兴起，而规律理论则越来越不被使用。
 
 规律与推理密切相关。当一个原因必然导致其效应时，合理地从原因推断出效应。在逻辑实证主义和逻辑方法对信念变化的影响之后，那些明确以推理关系分析因果关系的理论开始出现。基本思想是，在适当的背景理论和适当的逻辑的情况下，效应可以从相应的原因中推断出来。推理理论为那些导致规律理论衰落的问题提供了解决方案。因此，这些理论可以被视为规律理论的继承者。
-
 
 ***
 
@@ -555,7 +554,7 @@ A1∧…∧Ak⇒B1∨…∨Bn
 
 另一个挑战是因果的方向。大卫·刘易斯（1973 年，1979 年）认为反事实本身就提供了因果方向的解释。然而，这种解释结果相当有争议，很少被采纳（例如，参见 Frisch 2014: 204n）。为了确定因果方向，规律性和推理理论往往依赖于对因果关系之间时间顺序的广义休谟约束。这一举措的代价是排除了逆时间因果。我们必须思考这个问题有多严重。到目前为止，关于逆向因果这个概念的普遍认识以及实际的经验证据都没有（参见[逆向因果](https://plato.stanford.edu/entries/causation-backwards/)的条目）。因果方向仍然是规律性、推理性和反事实方法中的一个争议点。
 
-总的来说，当代的规律性和推理理论取得了一些显著进展。有效的批评在很大程度上已经被克服，许多因果场景——这些场景对因果关系的反事实解释仍然具有挑战性——已经得到解决。特别是，Baumgartner（2013 年），Beckers 和 Vennekens（2018 年）以及 Andreas 和 Günther（2020 年）都解决了包括过度决定、早期和晚期抢先以及转换在内的一系列场景。鉴于这些最新进展，不应再认为反事实因果理论明显优于规律性和推理理论。_首次发布于 2021 年 7 月 27 日_
+总的来说，当代的规律性和推理理论取得了一些显著进展。有效的批评在很大程度上已经被克服，许多因果场景——这些场景对因果关系的反事实解释仍然具有挑战性——已经得到解决。特别是，Baumgartner（2013 年），Beckers 和 Vennekens（2018 年）以及 Andreas 和 Günther（2020 年）都解决了包括过度决定、早期和晚期抢先以及转换在内的一系列场景。鉴于这些最新进展，不应再认为反事实因果理论明显优于规律性和推理理论。*首次发布于 2021 年 7 月 27 日*
 
 一个原因通常会引起其效应。这个想法是规律性因果理论的核心。最有影响力的规律性理论可以在休谟（1739 年）的著作中找到。这一理论在米尔（1843 年）的改进下得到了完善，米尔坚持认为相关的规律是自然法则。直到戴维·刘易斯（1973 年）批评了规律性理论并提出了用反事实来分析因果关系之后，进一步的改进曾经很受欢迎（参见[反事实因果理论](https://plato.stanford.edu/entries/causation-counterfactual/)）。从那时起，反事实因果理论崛起，而规律性理论则越来越不被使用。
 
@@ -838,7 +837,7 @@ C 和 E 是实际事件，以及
 
 在逻辑经验主义哲学中固有的是对传统形而上学的强烈反对。毫不奇怪，许多逻辑经验主义者受 Hume 的经验主义原则指导。甚至一些科学语言的概念被怀疑具有形而上学的性质。维特根斯坦（1922: 5.136）认为相信普遍因果律是迷信。他还否认自然法则能够解释自然现象（6.371n）。弗兰克（1932: Ch. V, IX）指出了确切阐述普遍因果律的几个困难。罗素（1913）认为因果的概念充满混乱，最好从哲学词汇中排除。
 
-Ramsey (1931)比 Russell (1913)和 Wittgenstein (1922)更不怀疑对因果关系进行分析的前景。他对因果关系的描述似乎是最接近 Hume 最初分析的逻辑经验主义分析。它的核心在于“_可变假设_”的概念。这样的假设是一个普遍量化的蕴涵，其真假我们目前无法验证。一个例子是说所有人类都是有限生命的这句话。这句话超出了我们有限的经验。因为没有办法最终确定所有人类——过去、现在和未来——都是有限生命的。
+Ramsey (1931)比 Russell (1913)和 Wittgenstein (1922)更不怀疑对因果关系进行分析的前景。他对因果关系的描述似乎是最接近 Hume 最初分析的逻辑经验主义分析。它的核心在于“*可变假设*”的概念。这样的假设是一个普遍量化的蕴涵，其真假我们目前无法验证。一个例子是说所有人类都是有限生命的这句话。这句话超出了我们有限的经验。因为没有办法最终确定所有人类——过去、现在和未来——都是有限生命的。
 
 相信普遍假设包括“一般性表述”和“特定信念的习惯” (Ramsey 1931: 241)。也就是说，我们愿意相信普遍性句子的实例，尽管我们目前无法验证它们。Ramsey 在这里将关于习惯或惯例形成的 Hume 思想融入到普遍性句子的非正式语义中。
 
@@ -974,7 +973,7 @@ Spohn 认为我们应该相对于_小世界_来理解因果关系，这样上下
 
 需要最后一步来捕捉非直接因果关系。如果有序对 (C,E) 在直接因果关系的传递闭包中，则 C 是 E 的原因，可能是非直接的。也就是说，如果存在序列 ⟨C,C1,…,Cn,E⟩ (n≥0)，使得序列中的每个元素都是其后继的直接原因（如果存在后继），则 C 是 E 的原因。
 
-最值得注意的是，因果关系的排名理论解决了由共同原因情景引起的虚假因果问题。解决方案相当微妙。假设 C 是 E 和 F 的共同原因，其中 F 在 E 之前发生。那么关键问题是 F 是否是在 C 的情境中 E 的原因。Spohn (2006: 106) 认为不是。请回想，如果在 C 的情境中 F 是 E 的原因，则 _F_
+最值得注意的是，因果关系的排名理论解决了由共同原因情景引起的虚假因果问题。解决方案相当微妙。假设 C 是 E 和 F 的共同原因，其中 F 在 E 之前发生。那么关键问题是 F 是否是在 C 的情境中 E 的原因。Spohn (2006: 106) 认为不是。请回想，如果在 C 的情境中 F 是 E 的原因，则 *F*
 
 β(E∣C∩F)>β(E∣C∩¬F),
 
@@ -1130,79 +1129,79 @@ A1∧…∧Ak⇒B1∨…∨Bn
 
 ## Bibliography
 
-* Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, _Journal of Symbolic Logic_, 50(2): 510–530. doi:10.2307/2274239
-* Andreas, Holger, 2019, “Explanatory Conditionals”, _Philosophy of Science_, 86(5): 993–1004. doi:10.1086/705447
-* Andreas, Holger and Mario Günther, 2019, “On the Ramsey Test Analysis of ‘Because’”, _Erkenntnis_, 84(6): 1229–1262. doi:10.1007/s10670-018-0006-8
-* –––, 2020, “Causation in Terms of Production”, _Philosophical Studies_, 177(6): 1565–1591. doi:10.1007/s11098-019-01275-3
-* Baumgartner, Michael, 2008, “Regularity Theories Reassessed”, _Philosophia_, 36(3): 327–354. doi:10.1007/s11406-007-9114-4
-* –––, 2013, “A Regularity Theoretic Approach to Actual Causation”, _Erkenntnis_, 78(S1): 85–109. doi:10.1007/s10670-013-9438-3
-* Baumgartner, Michael and Christoph Falk, forthcoming, “Boolean Difference-Making: A Modern Regularity Theory of Causation”, _The British Journal for the Philosophy of Science_, first online: December 2020. doi:10.1093/bjps/axz047
-* Beckers, Sander and Joost Vennekens, 2018, “A Principled Approach to Defining Actual Causation”, _Synthese_, 195(2): 835–862. doi:10.1007/s11229-016-1247-1
-* Beebee, Helen, 2006, _Hume on Causation_, London: Routledge. doi:10.4324/9780203966600
-* Beebee, Helen, Christopher Hitchcock, and Peter Menzies (eds.), 2009, _The Oxford Handbook of Causation_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199279739.001.0001
-* Bochman, Alexander, 2018, “Actual Causality in a Logical Setting”, in _Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence_, Stockholm, Sweden: International Joint Conferences on Artificial Intelligence Organization, 1730–1736. doi:10.24963/ijcai.2018/239
-* Bromberger, Sylvain, 1966, “Why-Questions”, in _Mind and Cosmos: Essays in Contemporary Science and Philosophy_, R. Colodny (ed.), Pittsburgh: University of Pittsburgh Press, 86–111.
-* Carroll, John W., 2003 \[2016], “Laws of Nature”, _The Stanford Encyclopedia of Philosophy_ (Fall 2016), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/](https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/)
-* Davidson, Donald, 1967, “Causal Relations”, _The Journal of Philosophy_, 64(21): 691–703. doi:10.2307/2023853
-* –––, 1995, “Laws and Cause”, _Dialectica_, 49(2–4): 263–280. doi:10.1111/j.1746-8361.1995.tb00165.x
-* Dowe, Phil, 2000, _Physical Causation_, (Cambridge Studies in Probability, Induction and Decision Theory), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570650
-* Faye, Jan, 2001 \[2018], “Backward Causation”, _The Stanford Encyclopedia of Philosophy_ (Summer 2018), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/sum2018/entries/causation-backwards/](https://plato.stanford.edu/archives/sum2018/entries/causation-backwards/)
-* Frank, Philipp, 1932, _Das Kausalgesetz und Seine Grenzen_, Wien: Springer.
-* Friederich, Simon and Peter W. Evans, 2019, “Retrocausality in Quantum Mechanics”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019) Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/](https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/)
-* Frisch, Mathias, 2014, _Causal Reasoning in Physics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139381772
-* Garrett, Don, 1993, “The Representation of Causation and Hume’s Two Definitions of ‘Cause’”, _Noûs_, 27(2): 167–190. doi:10.2307/2215754
-* –––, 1997, _Cognition and Commitment in Hume’s Philosophy_, New York: Oxford University Press.
+* Alchourrón, Carlos E., Peter Gärdenfors, and David Makinson, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions”, *Journal of Symbolic Logic*, 50(2): 510–530. doi:10.2307/2274239
+* Andreas, Holger, 2019, “Explanatory Conditionals”, *Philosophy of Science*, 86(5): 993–1004. doi:10.1086/705447
+* Andreas, Holger and Mario Günther, 2019, “On the Ramsey Test Analysis of ‘Because’”, *Erkenntnis*, 84(6): 1229–1262. doi:10.1007/s10670-018-0006-8
+* –––, 2020, “Causation in Terms of Production”, *Philosophical Studies*, 177(6): 1565–1591. doi:10.1007/s11098-019-01275-3
+* Baumgartner, Michael, 2008, “Regularity Theories Reassessed”, *Philosophia*, 36(3): 327–354. doi:10.1007/s11406-007-9114-4
+* –––, 2013, “A Regularity Theoretic Approach to Actual Causation”, *Erkenntnis*, 78(S1): 85–109. doi:10.1007/s10670-013-9438-3
+* Baumgartner, Michael and Christoph Falk, forthcoming, “Boolean Difference-Making: A Modern Regularity Theory of Causation”, *The British Journal for the Philosophy of Science*, first online: December 2020. doi:10.1093/bjps/axz047
+* Beckers, Sander and Joost Vennekens, 2018, “A Principled Approach to Defining Actual Causation”, *Synthese*, 195(2): 835–862. doi:10.1007/s11229-016-1247-1
+* Beebee, Helen, 2006, *Hume on Causation*, London: Routledge. doi:10.4324/9780203966600
+* Beebee, Helen, Christopher Hitchcock, and Peter Menzies (eds.), 2009, *The Oxford Handbook of Causation*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199279739.001.0001
+* Bochman, Alexander, 2018, “Actual Causality in a Logical Setting”, in *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence*, Stockholm, Sweden: International Joint Conferences on Artificial Intelligence Organization, 1730–1736. doi:10.24963/ijcai.2018/239
+* Bromberger, Sylvain, 1966, “Why-Questions”, in *Mind and Cosmos: Essays in Contemporary Science and Philosophy*, R. Colodny (ed.), Pittsburgh: University of Pittsburgh Press, 86–111.
+* Carroll, John W., 2003 \[2016], “Laws of Nature”, *The Stanford Encyclopedia of Philosophy* (Fall 2016), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/](https://plato.stanford.edu/archives/fall2016/entries/laws-of-nature/)
+* Davidson, Donald, 1967, “Causal Relations”, *The Journal of Philosophy*, 64(21): 691–703. doi:10.2307/2023853
+* –––, 1995, “Laws and Cause”, *Dialectica*, 49(2–4): 263–280. doi:10.1111/j.1746-8361.1995.tb00165.x
+* Dowe, Phil, 2000, *Physical Causation*, (Cambridge Studies in Probability, Induction and Decision Theory), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570650
+* Faye, Jan, 2001 \[2018], “Backward Causation”, *The Stanford Encyclopedia of Philosophy* (Summer 2018), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/sum2018/entries/causation-backwards/](https://plato.stanford.edu/archives/sum2018/entries/causation-backwards/)
+* Frank, Philipp, 1932, *Das Kausalgesetz und Seine Grenzen*, Wien: Springer.
+* Friederich, Simon and Peter W. Evans, 2019, “Retrocausality in Quantum Mechanics”, *The Stanford Encyclopedia of Philosophy* (Summer 2019) Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/](https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/)
+* Frisch, Mathias, 2014, *Causal Reasoning in Physics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139381772
+* Garrett, Don, 1993, “The Representation of Causation and Hume’s Two Definitions of ‘Cause’”, *Noûs*, 27(2): 167–190. doi:10.2307/2215754
+* –––, 1997, *Cognition and Commitment in Hume’s Philosophy*, New York: Oxford University Press.
 * –––, 2009, “Hume”, in Beebee, Hitchcock, and Menzies 2009: 73–91.
-* Gärdenfors, Peter, 1988, _Knowledge in Flux_, Cambridge, MA: MIT Press.
-* –––, 1991, “Belief Revision and Nonmonotonic Logic: Two Sides of the Same Coin?: Abstract”, in _Logics in AI_, J. van Eijck (ed.), (Lecture Notes in Computer Science 478), Berlin, Heidelberg: Springer Berlin Heidelberg, 52–54. doi:10.1007/BFb0018432
-* Goodman, Nelson, 1955, _Fact, Fiction, and Forecast_, Cambridge, MA: Harvard University Press.
-* Grove, Adam, 1988, “Two Modellings for Theory Change”, _Journal of Philosophical Logic_, 17(2): 157–170. doi:10.1007/BF00247909
-* Halpern, Joseph, 2016, _Actual Causality_, Cambridge, MA: MIT Press.
-* Hart, H. L. A. and Tony Honoré, 1985, _Causation in the Law_, second edition, Oxford: Clarendon Press.
-* Hempel, Carl G., 1965, _Aspects of Scientific Explanation_, New York: The Free Press.
-* Hempel, Carl G. and Paul Oppenheim, 1948, “Studies in the Logic of Explanation”, _Philosophy of Science_, 15(2): 135–175. doi:10.1086/286983
-* Hitchcock, Christopher, 1997 \[2018], “Probabilistic Causation”, _The Stanford Encyclopedia of Philosophy_ (Fall 2018), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/fall2018/entries/causation-probabilistic/](https://plato.stanford.edu/archives/fall2018/entries/causation-probabilistic/)
-* –––, 2018 \[2020], “Causal Models”, _The Stanford Encyclopedia of Philosophy_ (Summer 2020), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/sum2020/entries/causal-models/](https://plato.stanford.edu/archives/sum2020/entries/causal-models/)
-* Hume, David, 1739 \[1978], _A Treatise of Human Nature_, London. Second edition of L. A. Selby-Bigge & P. H. Nidditch (eds.), Oxford: Clarendon Press, 1978.
-* Lewis, David, 1973, _Counterfactuals_, Oxford: Blackwell.
-* –––, 1973, “Causation”, _Journal of Philosophy_, 70(17): 556–567. doi:10.2307/2025310
-* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, _Noûs_, 13(4): 455–476. doi:10.2307/2215339
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* Mackie, J. L., 1965, “Causes and Conditions”, _American Philosophical Quarterly_, 2(4): 245–264.
-* –––, 1974, _The Cement of the Universe: A Study of Causation_, Oxford: Clarendon Press.
-* McLaughlin, Brian and Karen Bennett, 2005 \[2018], “Supervenience”, _The Stanford Encyclopedia of Philosophy_ (Winter 2018), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2018/entries/supervenience/](https://plato.stanford.edu/archives/win2018/entries/supervenience/)
-* Menzies, Peter and Helen Beebee, 2019 \[2020], “Counterfactual Theories of Causation”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/spr2020/entries/causation-counterfactual/](https://plato.stanford.edu/archives/spr2020/entries/causation-counterfactual/)
-* Mill, John Stuart, 1843, _A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence, and the Methods of Scientific Investigation_, two volumes, London: Parker.
-* Moore, Michael, 2019, “Causation in the Law”, _The Stanford Encyclopedia of Philosophy_ (Winter 2019), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2019/entries/causation-law/](https://plato.stanford.edu/archives/win2019/entries/causation-law/)
-* Morris, William Edward and Charlotte R. Brown, 2014 \[2020], “David Hume”, _The Stanford Encyclopedia of Philosophy_ (Summer 2020), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/sum2020/entries/hume/](https://plato.stanford.edu/archives/sum2020/entries/hume/)
-* Pap, Arthur, 1952, “Philosophical Analysis, Translation Schemas, and the Regularity Theory of Causation”, _The Journal of Philosophy_, 49(21): 657–666. doi:10.2307/2020991
-* Paul, L. A. and Ned Hall, 2013, _Causation: A User’s Guide_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673445.001.0001
-* Pearl, Judea, 2000, _Causality: Models, Reasoning and Inference_, New York: Cambridge University Press. Second edition, 2009.
-* Psillos, Stathis, 2002, _Causation and Explanation_, London: Routledge. doi:10.4324/9781315710716
+* Gärdenfors, Peter, 1988, *Knowledge in Flux*, Cambridge, MA: MIT Press.
+* –––, 1991, “Belief Revision and Nonmonotonic Logic: Two Sides of the Same Coin?: Abstract”, in *Logics in AI*, J. van Eijck (ed.), (Lecture Notes in Computer Science 478), Berlin, Heidelberg: Springer Berlin Heidelberg, 52–54. doi:10.1007/BFb0018432
+* Goodman, Nelson, 1955, *Fact, Fiction, and Forecast*, Cambridge, MA: Harvard University Press.
+* Grove, Adam, 1988, “Two Modellings for Theory Change”, *Journal of Philosophical Logic*, 17(2): 157–170. doi:10.1007/BF00247909
+* Halpern, Joseph, 2016, *Actual Causality*, Cambridge, MA: MIT Press.
+* Hart, H. L. A. and Tony Honoré, 1985, *Causation in the Law*, second edition, Oxford: Clarendon Press.
+* Hempel, Carl G., 1965, *Aspects of Scientific Explanation*, New York: The Free Press.
+* Hempel, Carl G. and Paul Oppenheim, 1948, “Studies in the Logic of Explanation”, *Philosophy of Science*, 15(2): 135–175. doi:10.1086/286983
+* Hitchcock, Christopher, 1997 \[2018], “Probabilistic Causation”, *The Stanford Encyclopedia of Philosophy* (Fall 2018), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/fall2018/entries/causation-probabilistic/](https://plato.stanford.edu/archives/fall2018/entries/causation-probabilistic/)
+* –––, 2018 \[2020], “Causal Models”, *The Stanford Encyclopedia of Philosophy* (Summer 2020), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/sum2020/entries/causal-models/](https://plato.stanford.edu/archives/sum2020/entries/causal-models/)
+* Hume, David, 1739 \[1978], *A Treatise of Human Nature*, London. Second edition of L. A. Selby-Bigge & P. H. Nidditch (eds.), Oxford: Clarendon Press, 1978.
+* Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell.
+* –––, 1973, “Causation”, *Journal of Philosophy*, 70(17): 556–567. doi:10.2307/2025310
+* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13(4): 455–476. doi:10.2307/2215339
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* Mackie, J. L., 1965, “Causes and Conditions”, *American Philosophical Quarterly*, 2(4): 245–264.
+* –––, 1974, *The Cement of the Universe: A Study of Causation*, Oxford: Clarendon Press.
+* McLaughlin, Brian and Karen Bennett, 2005 \[2018], “Supervenience”, *The Stanford Encyclopedia of Philosophy* (Winter 2018), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2018/entries/supervenience/](https://plato.stanford.edu/archives/win2018/entries/supervenience/)
+* Menzies, Peter and Helen Beebee, 2019 \[2020], “Counterfactual Theories of Causation”, *The Stanford Encyclopedia of Philosophy* (Spring 2020), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/spr2020/entries/causation-counterfactual/](https://plato.stanford.edu/archives/spr2020/entries/causation-counterfactual/)
+* Mill, John Stuart, 1843, *A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence, and the Methods of Scientific Investigation*, two volumes, London: Parker.
+* Moore, Michael, 2019, “Causation in the Law”, *The Stanford Encyclopedia of Philosophy* (Winter 2019), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2019/entries/causation-law/](https://plato.stanford.edu/archives/win2019/entries/causation-law/)
+* Morris, William Edward and Charlotte R. Brown, 2014 \[2020], “David Hume”, *The Stanford Encyclopedia of Philosophy* (Summer 2020), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/sum2020/entries/hume/](https://plato.stanford.edu/archives/sum2020/entries/hume/)
+* Pap, Arthur, 1952, “Philosophical Analysis, Translation Schemas, and the Regularity Theory of Causation”, *The Journal of Philosophy*, 49(21): 657–666. doi:10.2307/2020991
+* Paul, L. A. and Ned Hall, 2013, *Causation: A User’s Guide*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199673445.001.0001
+* Pearl, Judea, 2000, *Causality: Models, Reasoning and Inference*, New York: Cambridge University Press. Second edition, 2009.
+* Psillos, Stathis, 2002, *Causation and Explanation*, London: Routledge. doi:10.4324/9781315710716
 * –––, 2009, “Regularity Theories”, in Beebee, Hitchcock, and Menzies 2009: 131–157.
-* Ramsey, Frank Plumpton, 1928 \[1978], “Universals of Law and of Fact”, manuscript. Printed in his _Foundations: Essays in Philosophy, Logic, Mathematics, and Economics_, D. H. Mellor (ed.), London: Routledge & Kegan Paul, 1978.
-* –––, 1931, “General Propositions and Causality”, in his _The Foundations of Mathematics and Other Logical Essays_, R. B. Braithwaite (ed.),, New York: Humanities Press, 1931, 237–255.
-* Reichenbach, Hans, 1956, _The Direction of Time_, Berkeley/Los Angeles, CA: University of California Press.
-* Rott, Hans, 1986, “Ifs, Though, and Because”, _Erkenntnis_, 25(3): 345–370. doi:10.1007/BF00175348
-* Russell, Bertrand, 1913, “On the Notion of Cause”, _Proceedings of the Aristotelian Society_, 13(1): 1–26. doi:10.1093/aristotelian/13.1.1
-* –––, 1921 \[1961], “Psychological and Physical Causal Laws”, Lecture V of _The Analysis of Mind_, London: George Allen and Unwin, 93–107. Reprinted in _The Basic Writings of Bertrand Russell_, Robert E. Egner, and Lester E. Denonn (eds.), New York: Simon and Schuster, 1961, 287–295.
-* Spohn, Wolfgang, 1988, “Ordinal Conditional Functions: A Dynamic Theory of Epistemic States”, in _Causation in Decision, Belief Change, and Statistics: Proceedings of the Irvine Conference on Probability and Causations, Volume II_, William L. Harper and Brian Skyrms (eds.), Dordrecht: Kluwer, 105–134. doi:10.1007/978-94-009-2865-7\_6
-* –––, 2006, “Causation: An Alternative”, _The British Journal for the Philosophy of Science_, 57(1): 93–119. doi:10.1093/bjps/axi151
-* –––, 2012, _The Laws of Belief: Ranking Theory and Its Philosophical Applications_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697502.001.0001
-* –––, 2018, “How the Modalities Come into the World”, _Erkenntnis_, 83(1): 89–112. doi:10.1007/s10670-016-9874-y
-* Stalnaker, Robert, 1968, “A Theory of Conditionals”, in _Studies in Logical Theory_ (American Philosophical Quarterly Monograph Series), Nicholas Rescher (ed.), Oxford: Blackwell, 98–112.
-* Strawson, Galen, 1989, _The Secret Connexion: Causation, Realism, and David Hume_, Oxford: Oxford University Press.
-* Strevens, Michael, 2004, “The Causal and Unification Approaches to Explanation Unified-Causally”, _Noûs_, 38(1): 154–176. doi:10.1111/j.1468-0068.2004.00466.x
-* –––, 2007, “Mackie Remixed”, in _Causation and Explanation_, Joseph Keim Campbell, Michael O’Rourke, & Harry S. Silverstein (eds.), MIT Press, 4–93.
-* –––, 2008, _Depth: An Account of Scientific Explanation_, Cambridge, MA: Harvard University Press.
-* Venn, John, 1889, _The Principles of Empirical or Inductive Logic_, London: Macmillan.
-* Weatherson, Brian, 2009 \[2016], “David Lewis”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2016/entries/david-lewis/](https://plato.stanford.edu/archives/win2016/entries/david-lewis/)
-* Wittgenstein, Ludwig, 1922, _Tractatus Logico-Philosophicus_, London: Routledge & Kegan Paul.
-* Woodward, James, 2001 \[2016], “Causation and Manipulability”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2016/entries/causation-mani/](https://plato.stanford.edu/archives/win2016/entries/causation-mani/)
-* –––, 2003, _Making Things Happen: A Theory of Causal Explanation_, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
-* Wright, John P., 1983, _The Sceptical Realism of David Hume_, Manchester: Manchester University Press.
-* Wright, Richard W., 1985, “Causation in Tort Law”, _California Law Review_, 73(6): 1735–1828.
-* –––, 2011, “The NESS Account of Natural Causation: A Response to Criticisms”, in _Perspectives on Causation_, Richard Goldberg (ed.), Portland, OR: Hart Publishing, ch. 14.
+* Ramsey, Frank Plumpton, 1928 \[1978], “Universals of Law and of Fact”, manuscript. Printed in his *Foundations: Essays in Philosophy, Logic, Mathematics, and Economics*, D. H. Mellor (ed.), London: Routledge & Kegan Paul, 1978.
+* –––, 1931, “General Propositions and Causality”, in his *The Foundations of Mathematics and Other Logical Essays*, R. B. Braithwaite (ed.),, New York: Humanities Press, 1931, 237–255.
+* Reichenbach, Hans, 1956, *The Direction of Time*, Berkeley/Los Angeles, CA: University of California Press.
+* Rott, Hans, 1986, “Ifs, Though, and Because”, *Erkenntnis*, 25(3): 345–370. doi:10.1007/BF00175348
+* Russell, Bertrand, 1913, “On the Notion of Cause”, *Proceedings of the Aristotelian Society*, 13(1): 1–26. doi:10.1093/aristotelian/13.1.1
+* –––, 1921 \[1961], “Psychological and Physical Causal Laws”, Lecture V of *The Analysis of Mind*, London: George Allen and Unwin, 93–107. Reprinted in *The Basic Writings of Bertrand Russell*, Robert E. Egner, and Lester E. Denonn (eds.), New York: Simon and Schuster, 1961, 287–295.
+* Spohn, Wolfgang, 1988, “Ordinal Conditional Functions: A Dynamic Theory of Epistemic States”, in *Causation in Decision, Belief Change, and Statistics: Proceedings of the Irvine Conference on Probability and Causations, Volume II*, William L. Harper and Brian Skyrms (eds.), Dordrecht: Kluwer, 105–134. doi:10.1007/978-94-009-2865-7\_6
+* –––, 2006, “Causation: An Alternative”, *The British Journal for the Philosophy of Science*, 57(1): 93–119. doi:10.1093/bjps/axi151
+* –––, 2012, *The Laws of Belief: Ranking Theory and Its Philosophical Applications*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697502.001.0001
+* –––, 2018, “How the Modalities Come into the World”, *Erkenntnis*, 83(1): 89–112. doi:10.1007/s10670-016-9874-y
+* Stalnaker, Robert, 1968, “A Theory of Conditionals”, in *Studies in Logical Theory* (American Philosophical Quarterly Monograph Series), Nicholas Rescher (ed.), Oxford: Blackwell, 98–112.
+* Strawson, Galen, 1989, *The Secret Connexion: Causation, Realism, and David Hume*, Oxford: Oxford University Press.
+* Strevens, Michael, 2004, “The Causal and Unification Approaches to Explanation Unified-Causally”, *Noûs*, 38(1): 154–176. doi:10.1111/j.1468-0068.2004.00466.x
+* –––, 2007, “Mackie Remixed”, in *Causation and Explanation*, Joseph Keim Campbell, Michael O’Rourke, & Harry S. Silverstein (eds.), MIT Press, 4–93.
+* –––, 2008, *Depth: An Account of Scientific Explanation*, Cambridge, MA: Harvard University Press.
+* Venn, John, 1889, *The Principles of Empirical or Inductive Logic*, London: Macmillan.
+* Weatherson, Brian, 2009 \[2016], “David Lewis”, *The Stanford Encyclopedia of Philosophy* (Winter 2016), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2016/entries/david-lewis/](https://plato.stanford.edu/archives/win2016/entries/david-lewis/)
+* Wittgenstein, Ludwig, 1922, *Tractatus Logico-Philosophicus*, London: Routledge & Kegan Paul.
+* Woodward, James, 2001 \[2016], “Causation and Manipulability”, *The Stanford Encyclopedia of Philosophy* (Winter 2016), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2016/entries/causation-mani/](https://plato.stanford.edu/archives/win2016/entries/causation-mani/)
+* –––, 2003, *Making Things Happen: A Theory of Causal Explanation*, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
+* Wright, John P., 1983, *The Sceptical Realism of David Hume*, Manchester: Manchester University Press.
+* Wright, Richard W., 1985, “Causation in Tort Law”, *California Law Review*, 73(6): 1735–1828.
+* –––, 2011, “The NESS Account of Natural Causation: A Response to Criticisms”, in *Perspectives on Causation*, Richard Goldberg (ed.), Portland, OR: Hart Publishing, ch. 14.
 
 ## Academic Tools
 
@@ -1225,5 +1224,5 @@ A1∧…∧Ak⇒B1∨…∨Bn
 We would like to thank Michael Baumgartner, Sander Beckers, Wolfgang Spohn, Michael Strevens, and an anonymous referee for very valuable advice on an earlier version of this entry. Of course, we remain responsible for the final version.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Holger Andreas](https://holgerandreas.wordpress.com/) <[_holger.andreas@ubc.ca_](mailto:holger%2eandreas%40ubc%2eca)>\
-[Mario Guenther](http://www.mario-guenther.com/) <[_Mario.Guenther111188@gmail.com_](mailto:Mario%2eGuenther111188%40gmail%2ecom)>
+[Holger Andreas](https://holgerandreas.wordpress.com/) <[*holger.andreas@ubc.ca*](mailto:holger%2eandreas%40ubc%2eca)>\
+[Mario Guenther](http://www.mario-guenther.com/) <[*Mario.Guenther111188@gmail.com*](mailto:Mario%2eGuenther111188%40gmail%2ecom)>

@@ -1,16 +1,14 @@
 # 审美判断 aesthetic judgment (Nick Zangwill)
 
-_首次发表于 2003 年 2 月 28 日；实质性修订于 2023 年 2 月 16 日_
+*首次发表于 2003 年 2 月 28 日；实质性修订于 2023 年 2 月 16 日*
 
 美是我们生活中重要的一部分。丑陋也是如此。因此，自古以来，哲学家们一直对我们对美和丑的体验和判断感兴趣。他们试图理解这些体验和判断的本质，并且也想知道这些体验和判断是否合法。这两个项目在 20 世纪形成了一个更加明确的形式，当时我们生活的这一部分在欧洲和北美的知识界都受到了持续的攻击。自 18 世纪以来，关于美的大部分讨论都使用了“审美”的概念，因此这个概念特别受到了批评。对审美的这种蔑视可能源于更广泛的文化清教主义，它害怕审美与快乐之间的联系。曾经有一段时间，从 20 世纪 60 年代到 90 年代，甚至暗示一件艺术品之所以好是因为它令人愉悦，而不是认知上、道德上或政治上有益，都会招致嘲笑。（现在这种情况不那么普遍了。）20 世纪对美或审美的概念并不友好。然而，总有一些思想家（包括哲学家以及研究特定艺术的其他人）坚持认真思考美和审美。在本文的第一部分，我们将研究伊曼努尔·康德给出的关于美的判断的特别丰富的论述。一个“品味的判断”的概念对康德的论述以及几乎所有从事传统美学研究的人来说都是核心的，因此我们首先要考察康德对品味判断的描述。在第二部分，我们将研究 20 世纪思想家们提出的问题。在第三部分，我们考虑康德认为是品味判断的一部分的客观性。最后，在第四部分，我们利用康德对品味判断的描述来考虑审美的概念是否可行。
-
-
 
 ***
 
 ## 1. 审美判断
 
-什么是审美判断？康德将判断为审美判断的两个基本必要条件隔离出来——_主观性_和_普遍性_（康德 1790/2000）。其他条件也可能对判断为审美判断起到贡献，但它们是基于这两个基本条件的结果或前提。在这方面，康德遵循了休谟和其他英国感性主义传统作家的先例（休谟 1757/1985）。
+什么是审美判断？康德将判断为审美判断的两个基本必要条件隔离出来——*主观性_和_普遍性*（康德 1790/2000）。其他条件也可能对判断为审美判断起到贡献，但它们是基于这两个基本条件的结果或前提。在这方面，康德遵循了休谟和其他英国感性主义传统作家的先例（休谟 1757/1985）。
 
 ### 1.1 主观性
 
@@ -136,7 +134,7 @@ _首次发表于 2003 年 2 月 28 日；实质性修订于 2023 年 2 月 16 �
 
 ### 3.1 无私：更有雄心和更少雄心
 
-在康德对审美判断的主观普遍性讨论中，一个起着重要作用的概念是无私性；这个概念吸引了许多人。康德提出了两个观点：(a)美的愉悦是“无私的”；(b)只有美的愉悦是“无私的”(康德 1790 年，5: 204–210 \[2000: 90–96: 42–50])。这些观点对康德的项目非常重要，因为康德将无私性与审美判断的普遍有效性联系在一起。在我们进一步讨论之前，重要的是要认识到德语词“_interesse_”在 18 世纪的德语中有着特殊的意义，不应与听起来相似的英语单词或现代德语单词混淆。对康德来说，_interesse_意味着一种与欲望无关的愉悦；它既不以欲望为基础，也不产生欲望。
+在康德对审美判断的主观普遍性讨论中，一个起着重要作用的概念是无私性；这个概念吸引了许多人。康德提出了两个观点：(a)美的愉悦是“无私的”；(b)只有美的愉悦是“无私的”(康德 1790 年，5: 204–210 \[2000: 90–96: 42–50])。这些观点对康德的项目非常重要，因为康德将无私性与审美判断的普遍有效性联系在一起。在我们进一步讨论之前，重要的是要认识到德语词“*interesse*”在 18 世纪的德语中有着特殊的意义，不应与听起来相似的英语单词或现代德语单词混淆。对康德来说，_interesse_意味着一种与欲望无关的愉悦；它既不以欲望为基础，也不产生欲望。
 
 我们应该区分康德更为雄心勃勃的论点，即“只有”美的愉悦是无私的，与他较为谦虚的论断，即美的愉悦是无私的——因为原则上可能存在其他无私的愉悦。然而，即使是较为谦虚的论断也是有争议的。
 
@@ -224,162 +222,162 @@ _首次发表于 2003 年 2 月 28 日；实质性修订于 2023 年 2 月 16 �
 
 ### References
 
-*   Barker, John, 2009, “Mathematical Beauty”, _Sztuka i Filozofia_, 35: 65–74.
+* Barker, John, 2009, “Mathematical Beauty”, *Sztuka i Filozofia*, 35: 65–74.
 
     A powerful defence of the claim that mathematical and logical proofs have aesthetic properties.
-*   Beardsley, Monroe C., 1958, _Aesthetics: Problems in the Philosophy of Criticism_, Indianapolis, IN: Hackett.
+* Beardsley, Monroe C., 1958, *Aesthetics: Problems in the Philosophy of Criticism*, Indianapolis, IN: Hackett.
 
     An extraordinary work, impressive in scope, deploying the notion of the aesthetic. The target of Dickie’s critique.
-*   –––, 1982, _The Aesthetic Point of View: Selected Essays_, Ithaca, NY: Cornell University Press.
+* –––, 1982, *The Aesthetic Point of View: Selected Essays*, Ithaca, NY: Cornell University Press.
 
     A selection of Beardsley’s essays.
-*   Blackburn, Simon, 1998, _Ruling Passions: A Theory of Practical Reasoning_, Oxford: Oxford University Press.
+* Blackburn, Simon, 1998, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Oxford University Press.
 
     A defense of expressivism, a modern version of Hume’s sentimentalism.
-*   Budd, Malcolm, 2001, “The Pure Judgement of Taste as an Aesthetic Reflective Judgement”, _British Journal of Aesthetics_, 41(3): 247–260. doi:10.1093/bjaesthetics/41.3.247
+* Budd, Malcolm, 2001, “The Pure Judgement of Taste as an Aesthetic Reflective Judgement”, *British Journal of Aesthetics*, 41(3): 247–260. doi:10.1093/bjaesthetics/41.3.247
 
     Refreshingly less deferential than many writings on Kant.
-*   Burke, Edmund, 1757 \[1998], _A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful_, London: R. and J. Dodsley. Reprinted Harmonsworth: Penguin, 1998.
+* Burke, Edmund, 1757 \[1998], *A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*, London: R. and J. Dodsley. Reprinted Harmonsworth: Penguin, 1998.
 
     A classic, although it is sometimes eccentric.
-*   Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, _Analysis_, 52(1): 28–32. doi:10.1093/analys/52.1.28
+* Burton, Stephan L., 1992, “‘Thick’ Concepts Revised”, *Analysis*, 52(1): 28–32. doi:10.1093/analys/52.1.28
 
     An insightful account of substantive aesthetic descriptions, and also of so-called “thick moral concepts”.
-*   Cohen, Ted, 1973, “ Aesthetic/Non-Aesthetic and the Concept of Taste: A Critique of Sibley’s Position”, _Theoria_, 39(1–3): 113–152. doi:10.1111/j.1755-2567.1973.tb00633.x
+* Cohen, Ted, 1973, “ Aesthetic/Non-Aesthetic and the Concept of Taste: A Critique of Sibley’s Position”, *Theoria*, 39(1–3): 113–152. doi:10.1111/j.1755-2567.1973.tb00633.x
 
     Argues that Sibley’s account of what makes concepts aesthetic will not do.
-*   Cova, Florian and Nicholas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, _Monist_, 95(2): 241–263. doi:10.5840/monist201295214
+* Cova, Florian and Nicholas Pain, 2012, “Can Folk Aesthetics Ground Aesthetic Realism?”, *Monist*, 95(2): 241–263. doi:10.5840/monist201295214
 
     Argues that folk aesthetic is not normativist.
-*   Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, _Journal of Philosophy_, 62(5): 129–136. doi:10.2307/2023490
+* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, *Journal of Philosophy*, 62(5): 129–136. doi:10.2307/2023490
 
     Argues that Beardsley’s account of aesthetic experience will not do.
-*   Davidson, Donald, 1970 \[1980], “Mental Events”, in _Experience and Theory_, Lawrence Foster and J. W. Swanson (eds), Amherst, MA: University of Massachusetts Press and Duckworth. Reprinted in _Essays on Actions and Events_, Oxford: Clarendon Press, 1980, ch. 11. doi:10.1093/0199246270.003.0011
+* Davidson, Donald, 1970 \[1980], “Mental Events”, in *Experience and Theory*, Lawrence Foster and J. W. Swanson (eds), Amherst, MA: University of Massachusetts Press and Duckworth. Reprinted in *Essays on Actions and Events*, Oxford: Clarendon Press, 1980, ch. 11. doi:10.1093/0199246270.003.0011
 
     A classic paper in the philosophy of mind arguing for a version of materialism without strict laws relating the mental and the physical.
-*   Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, _Philosophical Perspectives_, 8: 1–16. doi:10.2307/2214160
+* Fine, Kit, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, *Philosophical Perspectives*, 8: 1–16. doi:10.2307/2214160
 
     Distinguishes essence from modality; of general philosophical importance.
-*   Gombrich, Ernst H., 1959, _Art and Illusion: A Study in the Psychology of Pictorial Representation_, London: Phaiden.
+* Gombrich, Ernst H., 1959, *Art and Illusion: A Study in the Psychology of Pictorial Representation*, London: Phaiden.
 
     Argues for anti-formalism by appeal to indiscernibles.
-* Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic Rationality”, _The Journal of Philosophy_, 115(3): 113–140.
-* –––, 2022, “Aesthetic Knowledge”, _Philosophical Studies_, 179: 2507–2535.
-*   Hanslick, Eduard, 1986, _On the Musically Beautiful_, transl. Geoffrey Payzant, Indianapolis: Hackett.
+* Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic Rationality”, *The Journal of Philosophy*, 115(3): 113–140.
+* –––, 2022, “Aesthetic Knowledge”, *Philosophical Studies*, 179: 2507–2535.
+* Hanslick, Eduard, 1986, *On the Musically Beautiful*, transl. Geoffrey Payzant, Indianapolis: Hackett.
 
     Classic work of musical aesthetics, first published in 1854. Written with panache and wit.
-*   Hanslick, Eduard, 1950, _Hanslick’s Music Criticism_, translated and edited by Henry Pleasants, London: Dover.
+* Hanslick, Eduard, 1950, *Hanslick’s Music Criticism*, translated and edited by Henry Pleasants, London: Dover.
 
     Critical reviews of Bach and Wagner and others. You almost feel sorry for Wagner reading some of these.
-*   Hughes, Brian, 2016, _Rethinking Psychology: Good Science, Bad Science, Pseudo-Science_, London: Macmillan.
+* Hughes, Brian, 2016, *Rethinking Psychology: Good Science, Bad Science, Pseudo-Science*, London: Macmillan.
 
     Thorough critique of much questionnaire psychology, posing fundamental challenges for so-called “experimental philosophy”.
-*   Hume, David, 1757 \[1985], “Of the Standard of Taste”, page reference is to reprint in _Essays: Moral, Political and Literary_, Eugene Miller (ed.), Indianapolis, IN: Liberty, 1985.
+* Hume, David, 1757 \[1985], “Of the Standard of Taste”, page reference is to reprint in *Essays: Moral, Political and Literary*, Eugene Miller (ed.), Indianapolis, IN: Liberty, 1985.
 
     Hume’s classic attempt to reconcile sentimentalism with normativity.
-*   Kant, Immanuel, 1790 \[2000], _Critique of the Power of Judgment_ (_Kritik der Urteilskraft_), page reference to the 2000 translation by Paul Guyer and Eric Matthews, Cambridge: Cambridge University Press.
+* Kant, Immanuel, 1790 \[2000], *Critique of the Power of Judgment* (*Kritik der Urteilskraft*), page reference to the 2000 translation by Paul Guyer and Eric Matthews, Cambridge: Cambridge University Press.
 
     Includes the idea that judgments of beauty and ugliness are subjectively universal, and much else.
-*   Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms _Aesthetic_?”, _Philosophy and Phenomenological Research_, 36(2): 197–211.
+* Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms *Aesthetic*?”, *Philosophy and Phenomenological Research*, 36(2): 197–211.
 
     Argues that Sibley’s unitary notion of the aesthetic has no basis. Kivy also makes a positive suggestion.
-*   –––, 1991, “Science and Aesthetic Appreciation”, _Midwest Studies in Philosophy_, 16(1): 180–195. doi:10.1111/j.1475-4975.1991.tb00238.x
+* –––, 1991, “Science and Aesthetic Appreciation”, *Midwest Studies in Philosophy*, 16(1): 180–195. doi:10.1111/j.1475-4975.1991.tb00238.x
 
     Sympathetic to mathematical beauty.
-*   Korsgaard, Christine M., 1996, _The Sources of Normativity_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554476
+* Korsgaard, Christine M., 1996, *The Sources of Normativity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554476
 
     Defends a Kantian view of agency and includes a powerful critique of sentimentalist accounts.
-*   –––, 2009, _Self-Constitution: Agency, Identity, and Integrity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552795.001.0001
+* –––, 2009, *Self-Constitution: Agency, Identity, and Integrity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552795.001.0001
 
     Deploys the idea that we aim at a kind of unity in our actions.
-*   Levinson, Jerrold, 2001, “Aesthetic Properties, Evaluative Force, and Differences of Sensibility”, in _Aesthetic Concepts: Essays After Sibley_, Emily Brady and Jerrold Levinson (eds.), Oxford: Oxford University Press, pp. 61–80. Reprinted in Jerrold Levinson, _Contemplating Art: Essays in Aesthetics_, Oxford: Oxford University Press, 2015: 315–335. doi:10.1093/acprof:oso/9780199206179.003.0020
+* Levinson, Jerrold, 2001, “Aesthetic Properties, Evaluative Force, and Differences of Sensibility”, in *Aesthetic Concepts: Essays After Sibley*, Emily Brady and Jerrold Levinson (eds.), Oxford: Oxford University Press, pp. 61–80. Reprinted in Jerrold Levinson, *Contemplating Art: Essays in Aesthetics*, Oxford: Oxford University Press, 2015: 315–335. doi:10.1093/acprof:oso/9780199206179.003.0020
 
     Argues for some neutral substantive aesthetic properties.
-*   –––, 2012, “Musical Beauty”, _Teorema_, 31(3): 127–135. Reprinted in Jerrold Levinson, _Musical Concerns: Essays in Philosophy of Music_, Oxford: Oxford University Press, 2015: 58–66. doi:10.1093/acprof:oso/9780199669660.003.0006
+* –––, 2012, “Musical Beauty”, *Teorema*, 31(3): 127–135. Reprinted in Jerrold Levinson, *Musical Concerns: Essays in Philosophy of Music*, Oxford: Oxford University Press, 2015: 58–66. doi:10.1093/acprof:oso/9780199669660.003.0006
 
     A nuanced examination of one notion of beauty.
-* Lord, Errol, 2019, “The Nature of Perceptual Expertise and the Rationality of Criticism”, _Ergo_, 6(29). doi:10.3998/ergo.12405314.0006.029
-*   McClary, Susan, 1991: _Feminine Endings: Music, Gender, and Sexuality_. Minneapolis: University of Minnesota Press.
+* Lord, Errol, 2019, “The Nature of Perceptual Expertise and the Rationality of Criticism”, *Ergo*, 6(29). doi:10.3998/ergo.12405314.0006.029
+* McClary, Susan, 1991: *Feminine Endings: Music, Gender, and Sexuality*. Minneapolis: University of Minnesota Press.
 
     A classic of so-called ‘New Musicology’.
-*   Mitrović, Branko, 2013, _Visuality for Architects: Architectural Creativity and Modern Theories of Perception and Imagination_, Charlottesville, VA: University of Virginia Press.
+* Mitrović, Branko, 2013, *Visuality for Architects: Architectural Creativity and Modern Theories of Perception and Imagination*, Charlottesville, VA: University of Virginia Press.
 
     Puts the visual dimension back into architecture.
-*   –––, 2018, “Visuality and Aesthetic Formalism”, _British Journal of Aesthetics_, 58(2): 147–163. doi:10.1093/aesthj/ayy001
+* –––, 2018, “Visuality and Aesthetic Formalism”, *British Journal of Aesthetics*, 58(2): 147–163. doi:10.1093/aesthj/ayy001
 
     Explores and defends the psychological basis of visual formalism.
-*   Mothersill, Mary, 1984, _Beauty Restored_, Oxford: Oxford University Press.
+* Mothersill, Mary, 1984, *Beauty Restored*, Oxford: Oxford University Press.
 
     An exploration of the notion of beauty, with some historical coverage.
-* Nguyen, C Thi, 2020, “Autonomy and Aesthetic Engagement”, _Mind_, 129(516): 1127–1156.
-*   Nietzsche, Friedrich, 1887 \[1998], _On the Genealogy of Morals_ (_Zur Genealogie der Moral: Eine Streitschrift_), Maudemarie Clarke and Alan J. Swensen (trans.), Indianapolis, IN: Hackett, 1998.
+* Nguyen, C Thi, 2020, “Autonomy and Aesthetic Engagement”, *Mind*, 129(516): 1127–1156.
+* Nietzsche, Friedrich, 1887 \[1998], *On the Genealogy of Morals* (*Zur Genealogie der Moral: Eine Streitschrift*), Maudemarie Clarke and Alan J. Swensen (trans.), Indianapolis, IN: Hackett, 1998.
 
     Book 3, sections 1–6. An interesting, and not at all uncareful, critique of Kant’s aesthetics. In this passage he is not concerned with Schopenhauer.
-*   Scruton, Roger, 1974, _Art and Imagination: A Study in the Philosophy of Mind_, London: Methuen.
+* Scruton, Roger, 1974, *Art and Imagination: A Study in the Philosophy of Mind*, London: Methuen.
 
     A wide-ranging book, in which the role of imagination is highlighted.
-*   –––, 1979, _The Aesthetics of Architecture_, London: Methuen.
+* –––, 1979, *The Aesthetics of Architecture*, London: Methuen.
 
     A superb discussion of architecture, but also contains much material relevant to more central topics in aesthetics.
-*   Schellekens, Elisabeth 2007 \[2017], “Conceptual Art”, _Stanford Encyclopedia of Philosophy_ (Winter 2017 edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2017/entries/conceptual-art/](https://plato.stanford.edu/archives/win2017/entries/conceptual-art/)
+* Schellekens, Elisabeth 2007 \[2017], “Conceptual Art”, *Stanford Encyclopedia of Philosophy* (Winter 2017 edition), Edward N. Zalta (ed.). URL = [https://plato.stanford.edu/archives/win2017/entries/conceptual-art/](https://plato.stanford.edu/archives/win2017/entries/conceptual-art/)
 
     A sympathetic interpretation of some of the claims of conceptual artists about their work.
-*   Sibley, Frank, 1959, “Aesthetic Concepts”, _Philosophical Review_, 68(4): 421–450; reprinted in Sibley 2001: 1–23. 10.2307/2182490 & doi:10.1093/0198238991.003.0001
+* Sibley, Frank, 1959, “Aesthetic Concepts”, *Philosophical Review*, 68(4): 421–450; reprinted in Sibley 2001: 1–23. 10.2307/2182490 & doi:10.1093/0198238991.003.0001
 
     Sibley’s classic paper, which makes the notion of the aesthetic central. The target of Cohen and Kivy’s critiques.
-*   –––, 1965, “Aesthetic and Nonaesthetic”, _Philosophical Review_, 74(2): 135–159; reprinted in Sibley 2001: 33–51. doi:10.2307/2183262 & doi:10.1093/0198238991.003.0003
+* –––, 1965, “Aesthetic and Nonaesthetic”, *Philosophical Review*, 74(2): 135–159; reprinted in Sibley 2001: 33–51. doi:10.2307/2183262 & doi:10.1093/0198238991.003.0003
 
     Explores the dependence of aesthetic features on nonaesthetic features. This paper was originally the second part of Sibley’s paper “Aesthetic Concepts”.
-* –––, 2001, _Approach to Aesthetics_, John Benson, Betty Redfern, and Jeremy Roxbee Cox (eds.), Oxford University Press. doi:10.1093/0198238991.001.0001
-*   Taruskin, Richard, 1989 \[1995], “Resisting the Ninth”, _Nineteenth-Century Music_, 12(3): 241–256; reprinted in his _Text and Act: Essays on Music and Performance_, Oxford: Oxford University Press, 1995: 235–261. doi:10.2307/746505
+* –––, 2001, *Approach to Aesthetics*, John Benson, Betty Redfern, and Jeremy Roxbee Cox (eds.), Oxford University Press. doi:10.1093/0198238991.001.0001
+* Taruskin, Richard, 1989 \[1995], “Resisting the Ninth”, *Nineteenth-Century Music*, 12(3): 241–256; reprinted in his *Text and Act: Essays on Music and Performance*, Oxford: Oxford University Press, 1995: 235–261. doi:10.2307/746505
 
     Agrees with Wagner about the sublime and the beautiful in Beethoven’s Ninth Symphony.
-*   –––, 2019, “Essence _or_ Context”, in _Essence and Context_, Rima Povilioniene, Rūta Stanevičiūtė, and Nick Zangwill (eds.), New York: Springer-Palgrave-Macmillan. Reprinted in Richard Taruskin, Cursed Questions: On Music and Its Social Practices, University of California Press, 2020.
+* –––, 2019, “Essence *or* Context”, in *Essence and Context*, Rima Povilioniene, Rūta Stanevičiūtė, and Nick Zangwill (eds.), New York: Springer-Palgrave-Macmillan. Reprinted in Richard Taruskin, Cursed Questions: On Music and Its Social Practices, University of California Press, 2020.
 
     Argues against a Hanslickean view and argues for a Wagnerian conception of the sublime in Beethoven.
-*   Wagner, Richard 1870 \[2014], _Beethoven_, translated by Roger Allen, Boydell Press. Originally published Leipzig: Verlag von E. W. Fritzsche.
+* Wagner, Richard 1870 \[2014], *Beethoven*, translated by Roger Allen, Boydell Press. Originally published Leipzig: Verlag von E. W. Fritzsche.
 
     Makes claims about the sublime in Beethoven.
-*   Walton, Kendall, 1970, “Categories of Art”, _Philosophical Review_, 79: 334–367.
+* Walton, Kendall, 1970, “Categories of Art”, *Philosophical Review*, 79: 334–367.
 
     Influential series of anti-formalist arguments.
-*   Williams, Jessica J., 2021, “Kant on Aesthetic Attention”, _British Journal of Aesthetics_ 61. No. 4, pp. 421–435.
+* Williams, Jessica J., 2021, “Kant on Aesthetic Attention”, *British Journal of Aesthetics* 61. No. 4, pp. 421–435.
 
     A vigorous recent investigation of Kant’s views.
-*   Zangwill, Nick, 1995 \[2001], “The Beautiful, the Dainty and the Dumpy”, _British Journal of Aesthetics_, 35(4): 317–329; reprinted slightly modified in Zangwill 2001: 9–23. doi:10.1093/bjaesthetics/35.4.317
+* Zangwill, Nick, 1995 \[2001], “The Beautiful, the Dainty and the Dumpy”, *British Journal of Aesthetics*, 35(4): 317–329; reprinted slightly modified in Zangwill 2001: 9–23. doi:10.1093/bjaesthetics/35.4.317
 
     Includes a statement and defense of the centrality of beauty and ugliness among other aesthetic concepts.
-*   –––, 1999 \[2001], “Feasible Aesthetic Formalism”, _Noûs_, 33(4): 610–629; reprinted in Zangwill 2001: 55–81. doi:10.1111/0029-4624.00196
+* –––, 1999 \[2001], “Feasible Aesthetic Formalism”, *Noûs*, 33(4): 610–629; reprinted in Zangwill 2001: 55–81. doi:10.1111/0029-4624.00196
 
     Argues for a “moderate” formalist view that allows that things can be “dependently beautiful”, in Kant’s sense.
-* –––, 2001, _The Metaphysics of Beauty_, Ithaca, NY: Cornell University Press.
-*   –––, 2013, “Nietzsche on Kant on Beauty and Disinterest”, _History of Philosophy Quarterly_, 30(1): 75–91. \[[Zangwill 2013 available online](http://hpq.press.uillinois.edu/30/1/zangwill.html)]
+* –––, 2001, *The Metaphysics of Beauty*, Ithaca, NY: Cornell University Press.
+* –––, 2013, “Nietzsche on Kant on Beauty and Disinterest”, *History of Philosophy Quarterly*, 30(1): 75–91. \[[Zangwill 2013 available online](http://hpq.press.uillinois.edu/30/1/zangwill.html)]
 
     Sympathetically interprets and defends Nietzsche’s criticism of Kant on disinterest.
-*   –––, 2019, “Folk Aesthetics and Normativity: A Critique of Experimental Aesthetics”, in _Advances in Experimental Philosophy of Aesthetics_, Florian Cova and Sébastien Réhault (eds), London: Bloomsbury.
+* –––, 2019, “Folk Aesthetics and Normativity: A Critique of Experimental Aesthetics”, in *Advances in Experimental Philosophy of Aesthetics*, Florian Cova and Sébastien Réhault (eds), London: Bloomsbury.
 
     Criticizes ‘experimental philosophy’, in general, and in particular the experimental denial that ordinary aesthetic judgments claim correctness.
-*   Zemach, Eddy, 1995, _Real Beauty_, University Park: Penn State Press.
+* Zemach, Eddy, 1995, *Real Beauty*, University Park: Penn State Press.
 
     Argues for an extreme realist view.
-*   Zuckert, Rachel, 2007, _Kant on Beauty and Biology: An Interpretation of the Critique of Judgment_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323
+* Zuckert, Rachel, 2007, *Kant on Beauty and Biology: An Interpretation of the Critique of Judgment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323
 
     An insightful scholarly and philosophical investigation.
 
 ### Further Reading
 
-* Bender, John W., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Particularist/Generalist Dispute”, _Journal of Aesthetics and Art Criticism_, 53(4): 379–392. doi:10.2307/430973
-* Dickie, George, 1988, _Evaluating Art_, Philadelphia: Temple University Press.
-* Goldman, Alan, 1995, _Aesthetic Value_, Boulder, CO: Westview.
-* Greenberg, Clement, 1999, _Homemade Esthetics_, Oxford: Oxford University Press.
-* Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, _Journal of Philosophy_, 108(3): 138–157. doi:10.5840/jphil201110838
-* Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, _Journal of Philosophy_, 65(4): 85–93. doi:10.2307/2024481
-* Levinson, Jerrold, 1992 \[1996], “Pleasure and the Value of Works of Art”, _The British Journal of Aesthetics_, 32(4): 295–306. Reprinted in his _The Pleasures of Aesthetics: Philosophical Essays_, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
-* McCloskey, Mary, 1987, _Kant’s Aesthetic_, New York: SUNY Press.
-* Plato, _Hippias Major_. In _Plato’s Complete Works_, edited by John Cooper, Indianapolis: Hackett, 1997.
-* Saito, Yuriko, 2001, “Everyday Aesthetics”, _Philosophy and Literature_, 25)1): 87–95. doi:10.1353/phl.2001.0018
-* –––, 2007, _Everyday Aesthetics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278350.001.0001
-* Scruton, Roger, 1983, “Understanding Music”, in his _The Aesthetic Understanding: Essays in the Philosophy of Art and Culture_, London: Carcanet.
+* Bender, John W., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Particularist/Generalist Dispute”, *Journal of Aesthetics and Art Criticism*, 53(4): 379–392. doi:10.2307/430973
+* Dickie, George, 1988, *Evaluating Art*, Philadelphia: Temple University Press.
+* Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview.
+* Greenberg, Clement, 1999, *Homemade Esthetics*, Oxford: Oxford University Press.
+* Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, *Journal of Philosophy*, 108(3): 138–157. doi:10.5840/jphil201110838
+* Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, *Journal of Philosophy*, 65(4): 85–93. doi:10.2307/2024481
+* Levinson, Jerrold, 1992 \[1996], “Pleasure and the Value of Works of Art”, *The British Journal of Aesthetics*, 32(4): 295–306. Reprinted in his *The Pleasures of Aesthetics: Philosophical Essays*, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
+* McCloskey, Mary, 1987, *Kant’s Aesthetic*, New York: SUNY Press.
+* Plato, *Hippias Major*. In *Plato’s Complete Works*, edited by John Cooper, Indianapolis: Hackett, 1997.
+* Saito, Yuriko, 2001, “Everyday Aesthetics”, *Philosophy and Literature*, 25)1): 87–95. doi:10.1353/phl.2001.0018
+* –––, 2007, *Everyday Aesthetics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278350.001.0001
+* Scruton, Roger, 1983, “Understanding Music”, in his *The Aesthetic Understanding: Essays in the Philosophy of Art and Culture*, London: Carcanet.
 
 ## Academic Tools
 
@@ -400,4 +398,4 @@ _首次发表于 2003 年 2 月 28 日；实质性修订于 2023 年 2 月 16 �
 [aesthetic, concept of the](https://plato.stanford.edu/entries/aesthetic-concept/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [pleasure](https://plato.stanford.edu/entries/pleasure/) | [relativism](https://plato.stanford.edu/entries/relativism/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Nick Zangwill <[_zangwillnick@gmail.com_](mailto:zangwillnick%40gmail%2ecom)>
+Nick Zangwill <[*zangwillnick@gmail.com*](mailto:zangwillnick%40gmail%2ecom)>

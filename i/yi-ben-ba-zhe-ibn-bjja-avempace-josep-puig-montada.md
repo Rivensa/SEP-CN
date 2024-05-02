@@ -1,6 +1,6 @@
 # 伊本·巴哲 Ibn Bâjja \[Avempace] (Josep Puig Montada)
 
-_首次发表于2007年9月28日星期五；实质性修订于2023年1月29日星期日_
+*首次发表于2007年9月28日星期五；实质性修订于2023年1月29日星期日*
 
 伊本·巴哲在阿尔安达卢斯的哲学发展比东方晚，它在穆斯林和犹太人中兴起，因为这两个社群都受到了共同的阿拉伯语的滋养。穆斯林社群规模更大，它定义了文化空间，其中相当大一部分是由希腊科学和哲学作品的阿拉伯翻译构成的。
 
@@ -11,8 +11,6 @@ _首次发表于2007年9月28日星期五；实质性修订于2023年1月29日�
 从 1009 年到 1031 年，安达卢西亚经历了分裂时期，该时期以 1031 年废除科尔多瓦哈里发国结束。萨拉戈萨位于边缘地区，其王国欢迎从科尔多瓦和其他地方迁徙的诗人、学者和科学家。尽管环境阻碍了其发展，但安达卢西亚的哲学在伊本·巴哲的带领下成熟起来。
 
 条目中使用公元日期，除非还写有伊斯兰历日期；在这种情况下，它们由斜杠分隔——伊斯兰历在前，公元在后。不使用音译字符，并且在作者介绍后，整个章节都使用伊本·巴哲这个名字。
-
- 
 
 ***
 
@@ -405,7 +403,7 @@ E.I.J.罗森塔尔已经指出了阿尔法拉比和伊本·巴哲对“杂草”
 
 For more information about the sources for (Ibn Bâjja) Avempace’s biography, see the supplement on “[Sources for Ibn Bâjja’s Biography](https://plato.stanford.edu/entries/ibn-bajja/ibn-bajja-biography.html).”
 
-For more information on Aristotle’s on the Soul in the Arabic tradition see the supplement on “[Aristotle’s _On the Soul_ in the Arabic tradition](https://plato.stanford.edu/entries/ibn-bajja/aristotle-soul-arabic.html). ”
+For more information on Aristotle’s on the Soul in the Arabic tradition see the supplement on “[Aristotle’s *On the Soul* in the Arabic tradition](https://plato.stanford.edu/entries/ibn-bajja/aristotle-soul-arabic.html). ”
 
 For a complementing bibliography, see Rashaq 2016.
 
@@ -415,208 +413,208 @@ For a complementing bibliography, see Rashaq 2016.
 
 **Collections**
 
-* \[IB-coll-fakhry] _Rasa’il Ibn Bâjja al-ilahiyya_, Majid Fakhry (ed.), Beirut: Dar an-nahar li-n-nashr, 1968.
-* \[IB-coll-alawi] _Rasa’il falsafiyya li-Abi Bakr Ibn Bâjja_, J. al-‛Alawi (ed.), Beirut-Casablanca: Dar ath-Thaqafa – Dar an-Nashr al-Maghribiyya, 1983.
-* \[IB-coll-genequand] _Ibn Bāğğa (Avempace): La conduite de l’isolé et deux autres épitres_ (Epître de l’adieu ; Conjonction de l’intellect). Introduction, édition critique du texte arabe, traduction et commentaire par Charles Genequand. Paris: Vrin, 2010.
-* \[IB-coll-lettinck] Lettinck, Paul, _Aristotle’s Physics and its reception in the Arabic world with an edition of the unpublished parts of Ibn Bâjja’s “Commentary on the Physics”_, (Aristoteles Semitico-Latinus, 7), Leiden: Brill, 1994,
+* \[IB-coll-fakhry] *Rasa’il Ibn Bâjja al-ilahiyya*, Majid Fakhry (ed.), Beirut: Dar an-nahar li-n-nashr, 1968.
+* \[IB-coll-alawi] *Rasa’il falsafiyya li-Abi Bakr Ibn Bâjja*, J. al-‛Alawi (ed.), Beirut-Casablanca: Dar ath-Thaqafa – Dar an-Nashr al-Maghribiyya, 1983.
+* \[IB-coll-genequand] *Ibn Bāğğa (Avempace): La conduite de l’isolé et deux autres épitres* (Epître de l’adieu ; Conjonction de l’intellect). Introduction, édition critique du texte arabe, traduction et commentaire par Charles Genequand. Paris: Vrin, 2010.
+* \[IB-coll-lettinck] Lettinck, Paul, *Aristotle’s Physics and its reception in the Arabic world with an edition of the unpublished parts of Ibn Bâjja’s “Commentary on the Physics”*, (Aristoteles Semitico-Latinus, 7), Leiden: Brill, 1994,
 
-_**Rule of the Solitary**_
+***Rule of the Solitary***
 
-* \[IB-RS-dunlop] Dunlop, D.M., 1945, “Ibn Bâjjah’s _Tadbiru’l-Mutawaḥḥid_ (Rule of the solitary)”, _Journal of the Royal Asiatic Society_, 77(1–2): 61–81. doi:10.1017/S0035869X00099305
-* \[IB-RS-AP] _Tadbir al-mutawahhid_, Edited and Spanish translation by M. Asín Palacios, _El régimen del solitario_, Madrid-Granada: CSIC, 1946. Reprinted in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 77, Frankfurt am Main, 1999.
-* \[IB-RS-berman] _Tadbir al-mutawahhid_, Partial English translation by Lawrence Berman as _The Governance of the Solitary_ in Ralph Lerner and Muhsin Mahdi, _Medieval Political Philosophy, A Source Book_, Toronto: The Free Press of Glencoe, 1963, pp. 122–133.
-* \[IB-RS-lomba] _Avempace: El régimen del solitario (Tadbir al-mutawaḥḥid_). Introducción, trad. y notas de J. Lomba. Madrid: Trotta, 1997.
-* \[IB-RS-campanini] _Tadbir al-mutawahhid_, bilingual edition, Arabic and Italian, by Massimo Campanini, _Il regime del solitario_, Rome, 2002.
+* \[IB-RS-dunlop] Dunlop, D.M., 1945, “Ibn Bâjjah’s *Tadbiru’l-Mutawaḥḥid* (Rule of the solitary)”, *Journal of the Royal Asiatic Society*, 77(1–2): 61–81. doi:10.1017/S0035869X00099305
+* \[IB-RS-AP] *Tadbir al-mutawahhid*, Edited and Spanish translation by M. Asín Palacios, *El régimen del solitario*, Madrid-Granada: CSIC, 1946. Reprinted in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 77, Frankfurt am Main, 1999.
+* \[IB-RS-berman] *Tadbir al-mutawahhid*, Partial English translation by Lawrence Berman as *The Governance of the Solitary* in Ralph Lerner and Muhsin Mahdi, *Medieval Political Philosophy, A Source Book*, Toronto: The Free Press of Glencoe, 1963, pp. 122–133.
+* \[IB-RS-lomba] *Avempace: El régimen del solitario (Tadbir al-mutawaḥḥid*). Introducción, trad. y notas de J. Lomba. Madrid: Trotta, 1997.
+* \[IB-RS-campanini] *Tadbir al-mutawahhid*, bilingual edition, Arabic and Italian, by Massimo Campanini, *Il regime del solitario*, Rome, 2002.
 * IB-coll-fakhry: 37–96
 * IB-coll-genequand: 121–182
 
-_**Farewell Message**_
+***Farewell Message***
 
 * IB-coll-fakhry: 113–143
-* Asín Palacios, Miguel, 1943, “La _Carta de adiós_ de Avempace”, _Al-Andalus_, 8: 1–87.
+* Asín Palacios, Miguel, 1943, “La *Carta de adiós* de Avempace”, *Al-Andalus*, 8: 1–87.
 
-_**Epistle of Conjunction of Intellect with Man**_
+***Epistle of Conjunction of Intellect with Man***
 
-* \[IB-CIM] Asín Palacios, Miguel, 1942, “Tratado de Avempace sobre la unión del intelecto con el hombre”, _Al-Andalus_, 7: 1–47.
-* \[IB-CIM-lagardere] Lagardère, Vincent, 1981, « L’Épître d’Ibn Bâjja sur la conjunction de l’intellect avec l’esprit humain », _Revue des Études Islamiques_, 49: 175–196.
+* \[IB-CIM] Asín Palacios, Miguel, 1942, “Tratado de Avempace sobre la unión del intelecto con el hombre”, *Al-Andalus*, 7: 1–47.
+* \[IB-CIM-lagardere] Lagardère, Vincent, 1981, « L’Épître d’Ibn Bâjja sur la conjunction de l’intellect avec l’esprit humain », *Revue des Études Islamiques*, 49: 175–196.
 * IB-coll-fakhry: 153–173.
 * IB-coll-genequand: 183–203
 
-_**Coming-to-be and Passing-away**_
+***Coming-to-be and Passing-away***
 
-* \[IB-GC] _Avempace. Libro de la generación y la corrupción_, (Pensamiento islámico, 4), editor and Spanish translator, Josep Puig Montada, Madrid: Consejo Superior de Investigaciones Cientf̕icas, 1995.
+* \[IB-GC] *Avempace. Libro de la generación y la corrupción*, (Pensamiento islámico, 4), editor and Spanish translator, Josep Puig Montada, Madrid: Consejo Superior de Investigaciones Cientf̕icas, 1995.
 
-_**Book of Animals**_
+***Book of Animals***
 
-* \[IB-BA], _Kitab al-hayawan_, J. al-‛Imarati (ed.), Beirut-Casablanca: Al-markaz ath-thaqafi al-‛arabi, 2000.
+* \[IB-BA], *Kitab al-hayawan*, J. al-‛Imarati (ed.), Beirut-Casablanca: Al-markaz ath-thaqafi al-‛arabi, 2000.
 
-_**Soul**_
+***Soul***
 
-* \[IB-S1a] _Kitab an-nafs_, Muhammad Saghir Hasan al-Ma‛sumi (ed.), Damascus: al-Majma‛ al-‛ilmi al-‛arabi, 1379/1960. First published in the journal of the Arabic Academy: _Majallat Majma‛ al-Lugha al-‛Arabiyya_, vols. 33 (1958) 96–111; 278–301; 424–442; 609–632. 34 (1959) 112–126; 332–344; 490–506; 634–645; 35 (1960) 114–122.
-* \[IB-S1e] _‛Ilm al-nafs, English translation and notes_, (Pakistan Historical Society, 26), Muhammad Saghir Hasan al-Ma‛sumi (ed.), Karachi: Pakistan Historical Society, 1961. Reprinted together with “Ibn Bâjja 1960” by F. Sezgin in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 75, Franfkurt am Main, 1999.
-* \[IB-S-wirmer] Wirmer, David, “Deutsche Übersetzung des _Kitāb an-nafs_”, in Wirmer 2014: 657–727.
-* \[IB-S-lomba] _Kitab al-nafs. Libro sobre el alma_. Spanish translation by Joaquín Lomba. Madrid: Trotta, 2007.
+* \[IB-S1a] *Kitab an-nafs*, Muhammad Saghir Hasan al-Ma‛sumi (ed.), Damascus: al-Majma‛ al-‛ilmi al-‛arabi, 1379/1960. First published in the journal of the Arabic Academy: *Majallat Majma‛ al-Lugha al-‛Arabiyya*, vols. 33 (1958) 96–111; 278–301; 424–442; 609–632. 34 (1959) 112–126; 332–344; 490–506; 634–645; 35 (1960) 114–122.
+* \[IB-S1e] *‛Ilm al-nafs, English translation and notes*, (Pakistan Historical Society, 26), Muhammad Saghir Hasan al-Ma‛sumi (ed.), Karachi: Pakistan Historical Society, 1961. Reprinted together with “Ibn Bâjja 1960” by F. Sezgin in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 75, Franfkurt am Main, 1999.
+* \[IB-S-wirmer] Wirmer, David, “Deutsche Übersetzung des *Kitāb an-nafs*”, in Wirmer 2014: 657–727.
+* \[IB-S-lomba] *Kitab al-nafs. Libro sobre el alma*. Spanish translation by Joaquín Lomba. Madrid: Trotta, 2007.
 
-_**Physics**_** commentary**
+***Physics*****commentary**
 
-* \[IB-SS-fakhry] _Sharh as-sama‛ at-tabi‛i li-Aristutalis_, Majid Fakhry (ed.), Beirut: Dar an-nahar, 1973.
-* IB-SS-ziyada] _Shuruhat as-Sama῾at-tabi῾i_, Ma‛an Ziyada (ed.), Beirut: Dar al-Kindi – Dar al-Fikr. New edition: Cairo: Ru’ya li-n-nashr wa-li-t-tawzi‛, 1978a.
+* \[IB-SS-fakhry] *Sharh as-sama‛ at-tabi‛i li-Aristutalis*, Majid Fakhry (ed.), Beirut: Dar an-nahar, 1973.
+* IB-SS-ziyada] *Shuruhat as-Sama῾at-tabi῾i*, Ma‛an Ziyada (ed.), Beirut: Dar al-Kindi – Dar al-Fikr. New edition: Cairo: Ru’ya li-n-nashr wa-li-t-tawzi‛, 1978a.
 * IB-coll-lettinick: 676–769.
 
-_**Meteorology**_** commentary**
+***Meteorology*****commentary**
 
 * Lettinck 1999: 383–481.
 
 **Annotations on other Logical Books of Alfarabi**
 
-* _Al-Mantiqiyyat li-l-Farabi_, Muhammad Taqi Danishpazhuh (ed.), Vol. 3 (Qum, 1410/1989–90), 3 vols. Qum: Manshurat Maktabat Ayatollah al-‛Uthmà al-Mar‛ashi, 1989.
-  * _Fusul_ , pp. 3–15;
-  * _Isaghuji_, pp. 16–39;
-  * _Gharaḍ Isaghuji_, pp. 40–51;
-  * _Maqulat_, pp. 52–127 and 128–149.
-  * _‛Ibara_, pp. 158–252.
-  * _Qiyas_, pp. 255–266.
-* \[IB-taaliq] _Ta‛aliq Ibn Bâjja ‛alà mantiq al-Farabi_, Majid Fakhry (ed.), Beirut: Dar al-Mashreq, 1994.
-  * _Isaguji_, pp. 26–51.
-  * _Gharaḍ Abi Nasr fi Isaghuji_ , pp. 52–62.
-  * _Al-fusul al-khamsa_, pp. 63–76.
-  * _Maqulat_, pp. 77–135.
-  * _‛Ibara_ , pp. 140–172.
-  * _Mulhaq_, 1: pp. 173–174; 2: p. 175.
-  * _Qiyas_, pp.180–194.
-  * _Irtiyad fi kitab at-tahlil_ , pp. 195–226.
-* Alwozad, Muhammad Ibrahim (ed.), 1988, “At-ta‛aliq al-mantiqiyya li-Bni Bajja”, _Majallat Kulliyyat al-Adab bi-Fas_, Numéro spécial, 3: 241–297.
-* –––, (ed.), 1997, _At-Ta_‛_aliq al-manṭiqiyyah,_ Tripolis, Libia ; Tunis, Ad-Dar al-‛Arabiyyah li-l-Kitab.
-* Alwozad, Muhammad Ibrahim; Rachak, Jamal, et.al. (eds.), 2006, _Al-Irtiyad fi kitab at-tahlil_, Fez, Centre d’études Ibn Rushd.
+* *Al-Mantiqiyyat li-l-Farabi*, Muhammad Taqi Danishpazhuh (ed.), Vol. 3 (Qum, 1410/1989–90), 3 vols. Qum: Manshurat Maktabat Ayatollah al-‛Uthmà al-Mar‛ashi, 1989.
+  * *Fusul* , pp. 3–15;
+  * *Isaghuji*, pp. 16–39;
+  * *Gharaḍ Isaghuji*, pp. 40–51;
+  * *Maqulat*, pp. 52–127 and 128–149.
+  * *‛Ibara*, pp. 158–252.
+  * *Qiyas*, pp. 255–266.
+* \[IB-taaliq] *Ta‛aliq Ibn Bâjja ‛alà mantiq al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq, 1994.
+  * *Isaguji*, pp. 26–51.
+  * *Gharaḍ Abi Nasr fi Isaghuji* , pp. 52–62.
+  * *Al-fusul al-khamsa*, pp. 63–76.
+  * *Maqulat*, pp. 77–135.
+  * *‛Ibara* , pp. 140–172.
+  * *Mulhaq*, 1: pp. 173–174; 2: p. 175.
+  * *Qiyas*, pp.180–194.
+  * *Irtiyad fi kitab at-tahlil* , pp. 195–226.
+* Alwozad, Muhammad Ibrahim (ed.), 1988, “At-ta‛aliq al-mantiqiyya li-Bni Bajja”, *Majallat Kulliyyat al-Adab bi-Fas*, Numéro spécial, 3: 241–297.
+* –––, (ed.), 1997, *At-Ta*‛*aliq al-manṭiqiyyah,* Tripolis, Libia ; Tunis, Ad-Dar al-‛Arabiyyah li-l-Kitab.
+* Alwozad, Muhammad Ibrahim; Rachak, Jamal, et.al. (eds.), 2006, *Al-Irtiyad fi kitab at-tahlil*, Fez, Centre d’études Ibn Rushd.
 
 **Plants**
 
-* Asín Palacios, Miguel, 1940, “Avempace botánico”, _Al-Andalus_, 5: 255–299.
+* Asín Palacios, Miguel, 1940, “Avempace botánico”, *Al-Andalus*, 5: 255–299.
 
 #### 2. Other Works by Ibn Bâjja: in Books
 
-* –––, 1976, _Ta‛liqat fi Kitab Bari Arminiyas wa min Kitab al-‛Ibara li-Abi Nasr al-Farabi_, Muhammad Salim Salim (ed.), Cairo: al-Hay’a al-Misriyya al-‛Amma li-l-Kitab.
-* –––, 1978b, _Kitab tadbir al-mutawahhid_, Ma‛an Ziyada (ed.), Beirut: Dar al-Fikr al-Islami – Dar al-Fikr.
-* –––, 1987, _Ta‛aliq Ibn Bâjja ‛alà l-burhan_, in _Al-Mantiq ‛ind al-Farabi_, Majid Fakhry (ed.), Beirut: Dar al-Mashreq.
-* –––, 1999a, _Sharh al-Athar al-῾Ulwiyya li-Bn Bâjja_, Muhammad Musa῾id (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 9–85.
-* –––, 1999b, _Kitab an-Nafs_, Jamal Rashaq (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 86–211.
-* –––, 2006a, _Risalat al-widaʿ. Carta del adiós y otros tratados filosóficos_, Spanish translation by Joaquín Lomba. Madrid: Trotta.
-* –––, 2006b, _Irtiyaḍ fi Kitab at-Tahlil_, Muhammad Alwuzad, ῾Abd al-῾Aziz Lam῾ul, Muhammad Musa῾id, Jamal Rashaq (eds.), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5.
-* –––, 2009, _Kalam fì l-qiyas_, Muhammad Musa῾id, Muhammad Abu Hafs, Jamal Rashaq. Fez (eds), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 6.
-* –––, 2021, _Commentary on Aristotle’s_ On generation and corruption. Critical edition and translation with an introduction and glossaries by Corrado la Martire, Berlin : De Gruyter.
+* –––, 1976, *Ta‛liqat fi Kitab Bari Arminiyas wa min Kitab al-‛Ibara li-Abi Nasr al-Farabi*, Muhammad Salim Salim (ed.), Cairo: al-Hay’a al-Misriyya al-‛Amma li-l-Kitab.
+* –––, 1978b, *Kitab tadbir al-mutawahhid*, Ma‛an Ziyada (ed.), Beirut: Dar al-Fikr al-Islami – Dar al-Fikr.
+* –––, 1987, *Ta‛aliq Ibn Bâjja ‛alà l-burhan*, in *Al-Mantiq ‛ind al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq.
+* –––, 1999a, *Sharh al-Athar al-῾Ulwiyya li-Bn Bâjja*, Muhammad Musa῾id (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 9–85.
+* –––, 1999b, *Kitab an-Nafs*, Jamal Rashaq (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 86–211.
+* –––, 2006a, *Risalat al-widaʿ. Carta del adiós y otros tratados filosóficos*, Spanish translation by Joaquín Lomba. Madrid: Trotta.
+* –––, 2006b, *Irtiyaḍ fi Kitab at-Tahlil*, Muhammad Alwuzad, ῾Abd al-῾Aziz Lam῾ul, Muhammad Musa῾id, Jamal Rashaq (eds.), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5.
+* –––, 2009, *Kalam fì l-qiyas*, Muhammad Musa῾id, Muhammad Abu Hafs, Jamal Rashaq. Fez (eds), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 6.
+* –––, 2021, *Commentary on Aristotle’s* On generation and corruption. Critical edition and translation with an introduction and glossaries by Corrado la Martire, Berlin : De Gruyter.
 
 #### 3. Other Works by Ibn Bâjja: in Articles or Chapters
 
-* Ahwani, Ahmad Fu’ad, 1951, “Risalat al-ittisal li-Abi Bakr ibn as-Sa’igh”, in _Talkhis kitab an-nafs li-Abi l-Walid Ibn Rushd wa-arba‛ rasa’il_, Cairo: Maktabat an-Nahḍa al-Misriyya, pp. 102–118.
-* Druart, Thérèse-Anne, 1980, “Le traité d’Avempace sur « Les choses au moyen desquelles on peut connaître l’intellect agent »” _Bulletin de Philosophie Médiévale_, 22: 73–77. doi:10.1484/J.BPM.3.258
-* –––, 1981, “La fin humaine selon Ibn Bājjah (Avempace)”, _Bulletin de Philosophie Médiévale_, 23: 59–64. doi:10.1484/J.BPM.3.271
-* Dunlop, D.M., 1984, “Remarks on a text of Avempace”, in _Studi in onore di Francesco Gabrieli_, vol. 1, Roma: La sapienza, pp. 291–300.
-* Fakhry, Majid, 1970, “Ta‛aliq ‛alà kitab Isaguji li-l- Farabi”, _Abhath_, 23: 52.
-* –––, 1971, “Ta‛aliq ‛alà kitab al-Maqulat li-l- Farabi”, _Abhath_, 24: 37–53.
-* –––, 1978–79, “Ta‛aliq ‛alà kitab al-Burhan li-l- Farabi”, _Abhath_, 27: 23–42.
-* –––, 1986, “Ta‛aliq ‛alà kitab al-Qiyas wa-l-Tahlil li-l- Farabi”, _Abhath_, 34: 3–49.
-* Lomba Fuentes, Joaquín, 1994, “Ibn Baŷŷa (Avempace) sobre el fin del hombre”, _Sharq al-Andalus_, 10–11: 467–482.
-* –––, 1995, “Sobre la felicidad política y la felicidad de la otra (vida) o defensa de Abu Naṣr (Al-Farabi)”, _Revista del Instituto Egipcio de Estudios Islámicos en Madrid_, 27: 23–39.
-* –––, 1996, “Tratado sobre el Entendimiento Agente de Avempace”, _Anales del Seminario de Historia de la Filosofía_, 13: 265–274.
-* –––, 2000, “Avempace. Tratado de la unión del intelecto con el hombre”, _Anaquel de Estudios Árabes_, 11: 369–391.
-* Rachak , Jamal, 2021, “Statut et rôle de la logique chez Ibn Bājja (d. 1139). (Publication d’un texte ignoré),” _Rivages_, 6: 157–88 \[edition of Fī funūn shatá].
-* Tornero, Emilio, 1983, “Dos epístolas de Avempace: Sobre el móvil y sobre la facultad impulsiva”, _Al-Qanṭara: Revista de Estudios Árabes_, 4: 5–21.
+* Ahwani, Ahmad Fu’ad, 1951, “Risalat al-ittisal li-Abi Bakr ibn as-Sa’igh”, in *Talkhis kitab an-nafs li-Abi l-Walid Ibn Rushd wa-arba‛ rasa’il*, Cairo: Maktabat an-Nahḍa al-Misriyya, pp. 102–118.
+* Druart, Thérèse-Anne, 1980, “Le traité d’Avempace sur « Les choses au moyen desquelles on peut connaître l’intellect agent »” *Bulletin de Philosophie Médiévale*, 22: 73–77. doi:10.1484/J.BPM.3.258
+* –––, 1981, “La fin humaine selon Ibn Bājjah (Avempace)”, *Bulletin de Philosophie Médiévale*, 23: 59–64. doi:10.1484/J.BPM.3.271
+* Dunlop, D.M., 1984, “Remarks on a text of Avempace”, in *Studi in onore di Francesco Gabrieli*, vol. 1, Roma: La sapienza, pp. 291–300.
+* Fakhry, Majid, 1970, “Ta‛aliq ‛alà kitab Isaguji li-l- Farabi”, *Abhath*, 23: 52.
+* –––, 1971, “Ta‛aliq ‛alà kitab al-Maqulat li-l- Farabi”, *Abhath*, 24: 37–53.
+* –––, 1978–79, “Ta‛aliq ‛alà kitab al-Burhan li-l- Farabi”, *Abhath*, 27: 23–42.
+* –––, 1986, “Ta‛aliq ‛alà kitab al-Qiyas wa-l-Tahlil li-l- Farabi”, *Abhath*, 34: 3–49.
+* Lomba Fuentes, Joaquín, 1994, “Ibn Baŷŷa (Avempace) sobre el fin del hombre”, *Sharq al-Andalus*, 10–11: 467–482.
+* –––, 1995, “Sobre la felicidad política y la felicidad de la otra (vida) o defensa de Abu Naṣr (Al-Farabi)”, *Revista del Instituto Egipcio de Estudios Islámicos en Madrid*, 27: 23–39.
+* –––, 1996, “Tratado sobre el Entendimiento Agente de Avempace”, *Anales del Seminario de Historia de la Filosofía*, 13: 265–274.
+* –––, 2000, “Avempace. Tratado de la unión del intelecto con el hombre”, *Anaquel de Estudios Árabes*, 11: 369–391.
+* Rachak , Jamal, 2021, “Statut et rôle de la logique chez Ibn Bājja (d. 1139). (Publication d’un texte ignoré),” *Rivages*, 6: 157–88 \[edition of Fī funūn shatá].
+* Tornero, Emilio, 1983, “Dos epístolas de Avempace: Sobre el móvil y sobre la facultad impulsiva”, *Al-Qanṭara: Revista de Estudios Árabes*, 4: 5–21.
 
 #### 4. Primary Literature By Others
 
-* Damascenus, Nicolaus (fl. late 1st century BCE), 1989, _De plantis: Five translations_, (Aristoteles Semitico-latinus), H.J. Drossaart Lulofs and E.L.J. Poortman (eds.), Amsterdam: North-Holland.
-* Dhahabi, Muhammad ibn Ahmad (1274–1348), 1995, _Tarikh al-Islam wa-wafayat al-mashahir wa-l-a‛lam_, vol. 36, years 521–540 AH, Beirut: Dar al-Kitab al-‛Arabi.
-* Farabi, Abu Nasr al-, \[ca. 950] 1938, _Risalat fi’l-‛Aql_, Maurice Bouyges (ed.), Beirut: Impr. Catholique.
-* –––, 1952, _Ihsa’ al-‛ulum_, bilingual edition by A. González Palencia, _Clasificación de las ciencias_, Madrid-Granada.
-* –––, 1985–1987, _Al-mantiq ‘ind al-Farabi_, Majid Fakhry; Rafiq al-‛Ajam (eds.), 4 vols. Beirut: Dar al-Machreq.
-* –––, 2003, _Sharh sadr al-maqala al-ulà wa-sadr al-maqala al-khamisa min Kitab al-Usul li-Uqlidis_, Muhammad Qushayqish (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya, 4.
-* –––, 1985, _On the perfect state_ (_Mabadi’ ara’ ahl al-madinat al-fadila_); revised text with introduction, translation, and commentary by Richard Walzer, Oxford: Oxford Univesity Press; Reprint Chicago: Kazi Books, 1998.
-* Ibn Abi ‛Usaybi‛a (d. 1269/70), 1886, _Kitab ‛uyun al-anba’ fi tabaqat al-atibba’_, Augustus Müller (ed.), 2 vols. Cairo-Königsberg.
-* –––, 2001, _Kitab ‛uyun al-anba’ fi tabaqat al-atibba’_, ‛Amir an-Najjar (ed.), 5 vols. Cairo: al-Hay’ah al-Misriyyah al-‛Ammah li-l-Kitab.
-* Ibn al-Jawzi, Sibt (d. 1257), 1952, _Mir’at az-zaman fi ta’rikh al-a‛yan_ , vol. 8.2, (Haydarabad: M. ‛Uthmaniyya), pp. 172–173
-* Ibn al-Khatib, Lisan ad-Din (d. 1374), 1958, _Al-ihata fi akhbar Gharnata_, ‛Abd Allah ‛Inan (ed.), Cairo: Dar al-Ma‛arif.
-* Ibn an-Nadim (d. 995/998), 987 \[1871], _Kitab al-fihrist_ , G. Flügel (ed.), Leipzig: Vogel, 1871–1872, 2 vols. Reprint Beirut: Khayyat, 1964.
-* Ibn al-Qifti (d. 1248), 1903, _Ta’rikh al-hukama’_, Julius Lippert (ed.), Leipzig: Dieterische VB.
-* –––, 2005. _Kitab Ikhbar al-‛Ulama’ bi Akhbar al-Ḥukama_, ed. Ibrahim Shams ad-Din, Beirut: Dar al-Kutub al\*‛\*Ilmiyya (same text, no apparatus).
-* Ibn Khallikan, Ahmad (1211–1282), 1998, _Wafayat al-a‛yan wa-anba’ abna’ az-zaman_, Yusuf ‛Ali Tawil - Maryam Qasim Tawil (ed.), vol. 4, Beirut.
-* Ibn Khaqan, Abu Nasr al-Fath (d. 1134?), 1966, _Qala’id al-‛iqyan_, Sulayman Hara’iri (ed.), Paris, 1277/1860; R Tunis: Al-maktaba al-‛atiqa.
-* Isfahani, ‛Imad ad-Din Katib al- (1125–1201), 1971, _Kharidat al-qasr wa-jaridat al-‛asr; qism shu‛ara’ al-Maghreb_, Tunis: Dar at-tunisiyya li-n-nashr. 1971), entry nº 94, pp. 332–334.
-* Maqqari, Ahmad al- (d. 1631), \[Maqqari-N], _Nafh at-tib min ghusn al-Andalus ar-ratib_, Ihsan ‛Abbas (ed.), 8 vols, Beirut: Dar Sadir, 1968.
-* Maqrizi, Taqi ad-Din Ahmad al- (d. 1442), 1913, _Kitab al-mawa‛iẓ wa-l-i‛tibar fi dhikr al-khitat wa-l- athar_, tome 2, 1. pt., Gaston Viet (ed.), _Mémoires des membres de l’I.F.A.O._ vol. 33, Cairo: I.F.A.O.
-* Sa‛id Ibn Sa‛id (d. 1070), \[1991], _Tabaqat al-umam_, English translation by Sema\`an I. Salem and Alok Kumar, _Science in the Medieval World: “Book of the Categories of Nations”_, Austin, TX: University of Texas Press, Austin.
-* –––, 1998, _Tabaqat al-umam_, Husayn Mu’nis (ed.), Cairo: Dar al-Ma‛arif.
+* Damascenus, Nicolaus (fl. late 1st century BCE), 1989, *De plantis: Five translations*, (Aristoteles Semitico-latinus), H.J. Drossaart Lulofs and E.L.J. Poortman (eds.), Amsterdam: North-Holland.
+* Dhahabi, Muhammad ibn Ahmad (1274–1348), 1995, *Tarikh al-Islam wa-wafayat al-mashahir wa-l-a‛lam*, vol. 36, years 521–540 AH, Beirut: Dar al-Kitab al-‛Arabi.
+* Farabi, Abu Nasr al-, \[ca. 950] 1938, *Risalat fi’l-‛Aql*, Maurice Bouyges (ed.), Beirut: Impr. Catholique.
+* –––, 1952, *Ihsa’ al-‛ulum*, bilingual edition by A. González Palencia, *Clasificación de las ciencias*, Madrid-Granada.
+* –––, 1985–1987, *Al-mantiq ‘ind al-Farabi*, Majid Fakhry; Rafiq al-‛Ajam (eds.), 4 vols. Beirut: Dar al-Machreq.
+* –––, 2003, *Sharh sadr al-maqala al-ulà wa-sadr al-maqala al-khamisa min Kitab al-Usul li-Uqlidis*, Muhammad Qushayqish (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya, 4.
+* –––, 1985, *On the perfect state* (*Mabadi’ ara’ ahl al-madinat al-fadila*); revised text with introduction, translation, and commentary by Richard Walzer, Oxford: Oxford Univesity Press; Reprint Chicago: Kazi Books, 1998.
+* Ibn Abi ‛Usaybi‛a (d. 1269/70), 1886, *Kitab ‛uyun al-anba’ fi tabaqat al-atibba’*, Augustus Müller (ed.), 2 vols. Cairo-Königsberg.
+* –––, 2001, *Kitab ‛uyun al-anba’ fi tabaqat al-atibba’*, ‛Amir an-Najjar (ed.), 5 vols. Cairo: al-Hay’ah al-Misriyyah al-‛Ammah li-l-Kitab.
+* Ibn al-Jawzi, Sibt (d. 1257), 1952, *Mir’at az-zaman fi ta’rikh al-a‛yan* , vol. 8.2, (Haydarabad: M. ‛Uthmaniyya), pp. 172–173
+* Ibn al-Khatib, Lisan ad-Din (d. 1374), 1958, *Al-ihata fi akhbar Gharnata*, ‛Abd Allah ‛Inan (ed.), Cairo: Dar al-Ma‛arif.
+* Ibn an-Nadim (d. 995/998), 987 \[1871], *Kitab al-fihrist* , G. Flügel (ed.), Leipzig: Vogel, 1871–1872, 2 vols. Reprint Beirut: Khayyat, 1964.
+* Ibn al-Qifti (d. 1248), 1903, *Ta’rikh al-hukama’*, Julius Lippert (ed.), Leipzig: Dieterische VB.
+* –––, 2005. *Kitab Ikhbar al-‛Ulama’ bi Akhbar al-Ḥukama*, ed. Ibrahim Shams ad-Din, Beirut: Dar al-Kutub al\*‛\*Ilmiyya (same text, no apparatus).
+* Ibn Khallikan, Ahmad (1211–1282), 1998, *Wafayat al-a‛yan wa-anba’ abna’ az-zaman*, Yusuf ‛Ali Tawil - Maryam Qasim Tawil (ed.), vol. 4, Beirut.
+* Ibn Khaqan, Abu Nasr al-Fath (d. 1134?), 1966, *Qala’id al-‛iqyan*, Sulayman Hara’iri (ed.), Paris, 1277/1860; R Tunis: Al-maktaba al-‛atiqa.
+* Isfahani, ‛Imad ad-Din Katib al- (1125–1201), 1971, *Kharidat al-qasr wa-jaridat al-‛asr; qism shu‛ara’ al-Maghreb*, Tunis: Dar at-tunisiyya li-n-nashr. 1971), entry nº 94, pp. 332–334.
+* Maqqari, Ahmad al- (d. 1631), \[Maqqari-N], *Nafh at-tib min ghusn al-Andalus ar-ratib*, Ihsan ‛Abbas (ed.), 8 vols, Beirut: Dar Sadir, 1968.
+* Maqrizi, Taqi ad-Din Ahmad al- (d. 1442), 1913, *Kitab al-mawa‛iẓ wa-l-i‛tibar fi dhikr al-khitat wa-l- athar*, tome 2, 1. pt., Gaston Viet (ed.), *Mémoires des membres de l’I.F.A.O.* vol. 33, Cairo: I.F.A.O.
+* Sa‛id Ibn Sa‛id (d. 1070), \[1991], *Tabaqat al-umam*, English translation by Sema\`an I. Salem and Alok Kumar, *Science in the Medieval World: “Book of the Categories of Nations”*, Austin, TX: University of Texas Press, Austin.
+* –––, 1998, *Tabaqat al-umam*, Husayn Mu’nis (ed.), Cairo: Dar al-Ma‛arif.
 
 ### B. Secondary Literature
 
-* Abbès, Makram, 2011, “Le statut de la raison pratique chez Avempace”, _Arabic Sciences and Philosophy_, 21(1): 85–110. doi:10.1017/S0957423910000135
-* ‛Alawi, Jamal ad-Din al-, 1983, _Mu’allafat Ibn Bâjja_, Beirut-Casablanca: Dar ath-Thaqafa & Dar an-Nashr al-Maghribiyya.
-* Allard, Michel, 1974, “Ibn Bağğa et la politique”, _Orientalia Hispanica_, vol. 1, J.M. Barral (ed.), Leiden: Brill, pp. 11–19.
-* Alwuzad, Muhammad, 1994, _Al-qawl al-insani li-Bni-Bâjja_, Casablanca. Al-falsafa fi-l-Maghrib 1.
-* Asín Palacios, Miguel, 1900, “El filósofo zaragozano Avempace”, _Revista de Aragón_, 1 (1900) 193–197; 234–238; 278–281; 338–340; 2 (1901) 301–303, 348–350.
-* Altmann, Alexander, 1965, “Ibn Bâjja on Man’s Ultimate Felicity”, in _Harry Austryn Wolfson Jubilee Volume on the Occasion of his Seventy-fifth Birthday_. English Section, Jerusalem: American Academy for Jewish Research, vol. 1: 65–70.
-* Badawi, ‛Abd al-Rahman (ed.), 1947, _Aristu ‛ind al-‛Arab: dirasah wa-nususs ghayr manshurah_, Cairo: Maktabat an-Nahda al-Misriyya.
-* ––– (ed.), 1954, _Aristutalis fi-n-nafs_, Cairo: Maktabat an-Nahda al-Misriyya.
-* Bellver, José, 2020, “The Beginnings of Rational Theology in al-Andalus: Ibn Masarra and his Refutation of al-Kindī’s On First Philosophy”, _Al-Qantara_, 41: 323–371.
-* Blaustein, Michael, 1986, “Aspects of Ibn Bâjja’s theory of apprehension”, in _Maimonides and philosophy: papers presented at the Sixth Jerusalem Philosophical Encounter, May 1985_. S. Pines & Y. Yovel (eds.), (Archives Internationales d’Histoire des Idées / International Archives for the History of Ideas, 114), Dordrecht: Nijhoff, pp. 202–212. doi:10.1007/978-94-009-4486-2\_14
-* Bos, Gerrit, 1994, _Aristotle’s “De anima” translated into Hebrew by Zerahyah ben Isaac ben Shealtiel Hen_; a critical edition with an introduction and index by G. Bos, (Aristoteles Semitico-Latinus, 6), Leiden; New York: E.J. Brill.
-* Bousklaoui, Said El, 2020, “Free Will in Ibn Bājjah’s Physics”, in: _Homo – Natura – Mundus: Human Beings and Their Relationships_. Proceedings of the XIV International Congress of the Société Internationale pour l’Étude de la Philosophie Médiévale, July 24–28, 2017, Porto Alegre, Brazil, eds. Roberto Hofmeister Pich; Alfredo Carlos Storck; Alfredo Santiago Culleton (SIEPM, Rencontres de Philosophie Médiévale 22). Turnhout: Brepols, pp. 283–294.
-* Codera, Francisco, 1899, _Decadencia y desaparición de los Almorávides en España_, (Colección de Estudios Árabes), Zaragoza: Tip. de Comas Hermanos. Reprint Pamplona: Urgoiti editores, 2004. \[[Codera 1899 available online](https://archive.org/details/decadenciaydesa00zaidgoog)]
-* –––, 1903, “Familia real de los Benitexufín”, _Revista de Aragón_, 3: 418–419.
-* Cortés García, Manuela, 1996, “Sobre la música y sus efectos terapéuticos en la Epístola sobre las melodías de Ibn Baŷŷa”, _Revista de Musicología_, 19(1–2): 11–23. doi:10.2307/20797089
-* Crawford, F. Stuart (ed.), 1953, _Averrois Cordubensis: Commentarum Magnum in Aristoelis de Anima Libros_, (Corpus Commentariorum Averrois in Aristotelem), The Mediaeval Academy of America, no. 59. Reprint Tunis, 1998. \[[Crawford 1953 available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DeAnima\Crawford.pdf)]
-* Danishpazhuh, Muhammad T., 1989, _Al-Mantiqiyyat li-l-Farabi_(check transliteration), volume on Ibn Bâjja, Qum: Maktabat al-Mar’ashî al-Najafî, 3 volumes.
-* Davidson, Herbert A, 1992, _Alfarabi, Avicenna, and Averroes on Intellect: Their Cosmologies, Theories of the Active Intellect, and Theories of Human Intellect_, New York; Oxford: Oxford University Press.
-* Djebbar, Ahmed, 1992, “Las matemáticas en al-Andalus a través de las actividades de tres sabios del siglo XI”, in J. Vernet (ed.), _El legado científico andalusí: Museo Arqueológico Nacional, Madrid, abril-junio 1992_, Madrid, pp. 23–35.
-* Dunlop, D.M., 1952, “The Diwan attributed to Ibn Bājjah (Avempace)”, _Bulletin of the School of Oriental and African Studies_, 14(3): 463–477. doi:10.1017/S0041977X00088443
-* –––, 1955a, “Al-Farabi’s Introductory Sections on Logic”, _The Islamic Quarterly_, 2(4): 264–282.
-* –––, 1955b, “Philosophical predecessors and contemporaries of Ibn Bajja”, _The Islamic Quarterly_, 2: 100–116.
-* –––, 1956, “Al-Farabi’s _Eisagoge_”, _The Islamic Quarterly_, 3: 117–138.
-* –––, 1957a, “Al-Farabi’s Introductory _Risalah_ on Logic”, _The Islamic Quarterly_, 3: 224–235.
-* –––, 1957b, “Remarks on the Life and Works of Ibn Bajjah (Avempace)” in _Proceedings of the 22nd Congress of Orientalists, Istanbul 1951_, Leiden, pp. 188–196.
-* Elamrani-Jamal, Abdelali, 2003, « _De Anima_. Tradition arabe », in R. Goulet (ed.), _Dictionnaire des philosophes antiques, Supplément_, Paris: CNRS, 346–358.
-* Esots, Janis,2021, “The Typology of Excellent and Non-Excellent Cities according to al-Fārābī and Ibn Bājja,” _Rivages_, 6: 9–37.
-* Forcada, Miquel, 1999. “De Avempace a Averroes. La transmisión de las ciencias de los antiguos de la época taifa a la época Almohade”, in M.I. Fierro & M.L. Avila (eds.) _Biografías Almohades_ 1 (Madrid. CSIC), pp. 407–423.
-* –––, 2011, “Ibn Bājja on Medicine and Medical Experience”, _Arabic Sciences and Philosophy_, 21(1): 111–148. doi:10.1017/S0957423910000147
-* Franco, Abel B. 2003. “Avempace, Projectile Motion and Impetus Theory”, _Journal of the History of Ideas_, 64(4): 521–546. doi:10.2307/3654219
-* Frank, Richard. 1958–59, “Some Fragments of Ishaq’s Translation of _De anima_”, _Cahiers de Byrsa_, 8: 231–251.
-* Gätje, Helmut, 1971, _Studien zur Überlieferung der aristotelischen Psychologie im Islam_, (Annales Universitatis Saraviensis. Phil. Fak. nº 11), Heidelberg: C Winter.
-* Genequand, Charles, 2008, “Loi morale, loi politique: al-Farabi et Ibn Bağğa”, _Mélanges de l’Université Saint-Joseph_, 61: 491–514.
-* Elias Giannakis, 1992, _Philoponus in the Arabic tradition of Aristotle’s Physics_, PhD thesis, University of Oxford.
-* Harvey, Stephen, 1992, “The Place of the Philosopher in the City according to Ibn Bâjja”, in C.E. Butterworth (ed.), _The Political Aspects of Islamic Philosophy. Essays in Honor of M. S. Mahdi_, (Cambridge, Mass.: Harvard University), pp. 199–233.
-* Ivry, Alfred L, 2001, “The Arabic Text of Aristotle’s _De anima_ and its Translator”, _Oriens_ 36: 59–77. doi:10.1163/1877837201X00051
-* Kochin, Michael S., 1999, “Weeds: cultivating the imagination in medieval Arabic political philosophy”, _Journal of the History of Ideas_, 60(3): 399–416. doi:10.2307/3654010
-* Kruk, Remke, 1997, “Ibn Bâjja’s commentary on Aristotle’s _De animalibus_”, in _The Ancient Tradition in Christian and Islamic Hellenism_, G. Endress & R. Kruk (eds.), Leiden: Research School CNWS, pp. 165–179.
-* Lagardère, Vincent, 1989. _Les almoravides_, Paris: L’Haramattan.
-* –––, 1998, _Les Almoravides. Le djihâd andalou (1106–1143)_, Paris; Montréal: L’Harmattan.
-* Lettinck, Paul, 1999, _Aristotle’s “Meteorology” and its reception in the Arab world, with an edition and translation of Ibn Suwar’s “Treatise on meteorological phenomena” and of Ibn Bâjja’s “Commentary on the Meteorology”_, (Aristoteles Semitico-Latinus, 10), Leiden: Brill.
-* Lomba Fuentes, Joaquín & J.M. Puerta Vílchez, 2009, “Ibn Baŷŷa, Abū Bakr”, in Jorge Lirola & J.M. Puerta Vílchez (eds.) _Biblioteca de al-Andalus_ (Almería), vol. 2, pp. 624–661.
-* Lyons, M.C. (ed.), 1973, _An Arabic Translation of Themistius Commentary on Aristoteles “De anima”_, Oxford: B. Cassirer.
-* Mallet, Dominique, 1992, _La dialectique dans la philosophie d’Abu Naṣr al-Farabi_, 4 vols. Bordeaux: Université Michel de Montaigne (Microfilm).
-* –––, 1994, “Le kitab al-Taḥlil d’Alfarabi”, _Arabic Sciences and Philosophy_, 4: 317–335.
-* Ma‛sumi, M. Ṣaghir Ḥasan al-, 1960, “Ibn al-Imam, the disciple of Ibn Bajjah”, _Islamic Quarterly_, 5: 102–108.
-* Maier, Anneliese, 1958, _Studien zur Naturphilosophie der Spätscholastik_, 5 vols. Rome, 1943–1958, specially, vol. 5.
-* Moody, E. A., 1951, “Galileo and Avempace: the dynamics of the leaning tower experiment”, _Journal for the History of Ideas_, 12: 163–193, 375–422.
-* Morata, Nemesio, 1924, “Avempace”, (Notas y análisis), _Ciudad de Dios_, 139: 180–194.
-* Mu’nis, Husayn, 2000, _Sab‛ watha’iq jadidah ‛an dawlat al-Murabitin wa-ayyami-him fi al-Andalus_, Cairo: Maktabat ath-Thaqafa ad-Diniyya.
-* Netton, Ian Richard, 1982, _Muslim Neoplatonists: An Introduction to the Thought of the Brethren of Purity, Ikhwān al-Ṣafāʼ_, London: G. Allen & Unwin.
-* Norris, H.T. and P. Chalmeta, 2007, “al-Murābiṭūn”, _Encyclopédia de l’Islam_, Leiden: Brill.
-* Petraitis, Cassimir, 1967, _The Arabic Versión of Aristotle’s Meteorology (Kitab al-athar al-‛ulwiyya li-Aristutalis_), Beirut: Dar el-Machreq.
-* Pines, Shlomoh, 1955, “Une version arabe de trois propositions de la ΣΤOΙΧΕIΩΣΙΣ ΘΕOΛOΓΙKΉ de Proclus”, _Oriens_, 8: 195–203. Reprinted in Pines 1986: 278–286. doi:10.1163/19606028\_015\_02-07
-* –––, 1964, “La Dynamique d’Ibn Bâjja”, in _Mélanges Alexandre Koyré_, Vol. II, Paris, pp. 442–468. Reprinted in Pines 1986: 450–474.
-* –––, 1986, _The Collected Works of Shlomo Pines_, vol. 2, _Studies in Arabic Versions of Greek Texts and in Mediaeval Science_, Leiden-Jerusalem: Magnes Press, Hebrew University.
-* –––, 1981: “Les limites de la métaphysique selon al-Farabi, Ibn Bâjjah et Maimonide. Sources et antithèses de ces doctrines chez Alexandre d’Aphrodise et chez Thémistius”, in J.P. Beckmann et.al. (eds.), _Sprache und Erkenntnis im Mittelalter_, vol. 1, (Berlin: de Gruyter), pp. 211–225. Reprinted in _The Collected Works of Shlomo Pines_, vol. 5, W.Z. Harvey & M. Idel (eds.), _Studies in the History of Jewish Thought_, (Jerusalem: Magnes Press, 1997), pp. 432–446.
-* Puig Montada, Josep, 2003, “Avempace’s Isāghūğī” in Miklós Maróth (ed.), _Problems in Arabic Philosophy_, (Acta et studia 2), Pilisczaba: The Avicenna Institute of Middle Eastern Studies, pp. 51–67.
-* –––, 2021, “De l’usage du terme ‘puissance’ chez Ibn Bâjja (Avempace)”, _Rivages_ (Marrakech) 6: 39–51.
-* Rashaq, Jamal, 2016, _Ibn Bâjja faylasuf Saraqusta wa-Fas (533/1139): Sira wa-a‛mal_, Marrakech: al-Matba‛a wa-l-Warraqa al-Wataniyya.
-* Ramón Guerrero, Rafael, 1992, _La recepción árabe del “De anima” de Aristoteles: al-Kindi y al-Farabi_. Madrid: CSIC.
-* Rescher, Nicholas. 1965: “New Light on Galen and the Fourth Figure of the Syllogism”, _Journal of the History of Philosophy_, 3(1): 27–41. doi:10.1353/hph.2008.1365 .
-* Rosenthal, E.I.J., 1951, “The place of politics in the philosophy of Ibn Bâjja”, _Islamic Culture_, 25: 187–211. Reprinted in F. Sezgin _Ibn Bâjja, Muhammad ibn Yahyá Ibn as-Sa’igh (d. 533/1139_) Texts and Studies, vol. 2 (Frankfurt am Main: IHAIS, 1999), pp. 265–289. Islamic Philosophy 77.
-* Samsó, Julio, 1993–1994, “Sobre Ibn Bāŷŷa y la astronomía”, _Sharq al-Andalus_, 10–11: 669–681. doi:10.14198/ShAnd.1993-1994.10-11.39
-* Steinschneider, Moritz, 1893, _Die hebräischen Übersetzungen des Mittelalters und die Juden als Dometscher_, Berlin 1893; Reprint Graz: Akademische Druck- und Verlagsanstalt, 1956.
-* Stroumsa, Sarah, 2016, “Between acculturation and conversion in Islamic Spain. The case of the Banū Hasday”, _Mediterranea. International journal for the transfer of knowledge_, 1: 9–36. doi:10.21071/mijtk.v0i1.5171
-* Taylor, Richard C., 1982, “Neoplatonic Texts in Turkey”, _Mélanges de l’Institut Dominicain d’Études Orientales_, 15: 251–264.
-* Wirmer, David, 2014, _Vom Denken der Natur zur Natur des Denkens_, (Scientia Graeco-Arabica 13), Berlin: De Gruyter.
-* Zainaty, Georges, 1979, _La morale d’Avempace_, (Études Musulmanes 22), Paris: Vrin.
+* Abbès, Makram, 2011, “Le statut de la raison pratique chez Avempace”, *Arabic Sciences and Philosophy*, 21(1): 85–110. doi:10.1017/S0957423910000135
+* ‛Alawi, Jamal ad-Din al-, 1983, *Mu’allafat Ibn Bâjja*, Beirut-Casablanca: Dar ath-Thaqafa & Dar an-Nashr al-Maghribiyya.
+* Allard, Michel, 1974, “Ibn Bağğa et la politique”, *Orientalia Hispanica*, vol. 1, J.M. Barral (ed.), Leiden: Brill, pp. 11–19.
+* Alwuzad, Muhammad, 1994, *Al-qawl al-insani li-Bni-Bâjja*, Casablanca. Al-falsafa fi-l-Maghrib 1.
+* Asín Palacios, Miguel, 1900, “El filósofo zaragozano Avempace”, *Revista de Aragón*, 1 (1900) 193–197; 234–238; 278–281; 338–340; 2 (1901) 301–303, 348–350.
+* Altmann, Alexander, 1965, “Ibn Bâjja on Man’s Ultimate Felicity”, in *Harry Austryn Wolfson Jubilee Volume on the Occasion of his Seventy-fifth Birthday*. English Section, Jerusalem: American Academy for Jewish Research, vol. 1: 65–70.
+* Badawi, ‛Abd al-Rahman (ed.), 1947, *Aristu ‛ind al-‛Arab: dirasah wa-nususs ghayr manshurah*, Cairo: Maktabat an-Nahda al-Misriyya.
+* ––– (ed.), 1954, *Aristutalis fi-n-nafs*, Cairo: Maktabat an-Nahda al-Misriyya.
+* Bellver, José, 2020, “The Beginnings of Rational Theology in al-Andalus: Ibn Masarra and his Refutation of al-Kindī’s On First Philosophy”, *Al-Qantara*, 41: 323–371.
+* Blaustein, Michael, 1986, “Aspects of Ibn Bâjja’s theory of apprehension”, in *Maimonides and philosophy: papers presented at the Sixth Jerusalem Philosophical Encounter, May 1985*. S. Pines & Y. Yovel (eds.), (Archives Internationales d’Histoire des Idées / International Archives for the History of Ideas, 114), Dordrecht: Nijhoff, pp. 202–212. doi:10.1007/978-94-009-4486-2\_14
+* Bos, Gerrit, 1994, *Aristotle’s “De anima” translated into Hebrew by Zerahyah ben Isaac ben Shealtiel Hen*; a critical edition with an introduction and index by G. Bos, (Aristoteles Semitico-Latinus, 6), Leiden; New York: E.J. Brill.
+* Bousklaoui, Said El, 2020, “Free Will in Ibn Bājjah’s Physics”, in: *Homo – Natura – Mundus: Human Beings and Their Relationships*. Proceedings of the XIV International Congress of the Société Internationale pour l’Étude de la Philosophie Médiévale, July 24–28, 2017, Porto Alegre, Brazil, eds. Roberto Hofmeister Pich; Alfredo Carlos Storck; Alfredo Santiago Culleton (SIEPM, Rencontres de Philosophie Médiévale 22). Turnhout: Brepols, pp. 283–294.
+* Codera, Francisco, 1899, *Decadencia y desaparición de los Almorávides en España*, (Colección de Estudios Árabes), Zaragoza: Tip. de Comas Hermanos. Reprint Pamplona: Urgoiti editores, 2004. \[[Codera 1899 available online](https://archive.org/details/decadenciaydesa00zaidgoog)]
+* –––, 1903, “Familia real de los Benitexufín”, *Revista de Aragón*, 3: 418–419.
+* Cortés García, Manuela, 1996, “Sobre la música y sus efectos terapéuticos en la Epístola sobre las melodías de Ibn Baŷŷa”, *Revista de Musicología*, 19(1–2): 11–23. doi:10.2307/20797089
+* Crawford, F. Stuart (ed.), 1953, *Averrois Cordubensis: Commentarum Magnum in Aristoelis de Anima Libros*, (Corpus Commentariorum Averrois in Aristotelem), The Mediaeval Academy of America, no. 59. Reprint Tunis, 1998. \[[Crawford 1953 available online](http://capricorn.bc.edu/siepm/DOCUMENTS/AVERROES/Averroes\DeAnima\Crawford.pdf)]
+* Danishpazhuh, Muhammad T., 1989, *Al-Mantiqiyyat li-l-Farabi*(check transliteration), volume on Ibn Bâjja, Qum: Maktabat al-Mar’ashî al-Najafî, 3 volumes.
+* Davidson, Herbert A, 1992, *Alfarabi, Avicenna, and Averroes on Intellect: Their Cosmologies, Theories of the Active Intellect, and Theories of Human Intellect*, New York; Oxford: Oxford University Press.
+* Djebbar, Ahmed, 1992, “Las matemáticas en al-Andalus a través de las actividades de tres sabios del siglo XI”, in J. Vernet (ed.), *El legado científico andalusí: Museo Arqueológico Nacional, Madrid, abril-junio 1992*, Madrid, pp. 23–35.
+* Dunlop, D.M., 1952, “The Diwan attributed to Ibn Bājjah (Avempace)”, *Bulletin of the School of Oriental and African Studies*, 14(3): 463–477. doi:10.1017/S0041977X00088443
+* –––, 1955a, “Al-Farabi’s Introductory Sections on Logic”, *The Islamic Quarterly*, 2(4): 264–282.
+* –––, 1955b, “Philosophical predecessors and contemporaries of Ibn Bajja”, *The Islamic Quarterly*, 2: 100–116.
+* –––, 1956, “Al-Farabi’s *Eisagoge*”, *The Islamic Quarterly*, 3: 117–138.
+* –––, 1957a, “Al-Farabi’s Introductory *Risalah* on Logic”, *The Islamic Quarterly*, 3: 224–235.
+* –––, 1957b, “Remarks on the Life and Works of Ibn Bajjah (Avempace)” in *Proceedings of the 22nd Congress of Orientalists, Istanbul 1951*, Leiden, pp. 188–196.
+* Elamrani-Jamal, Abdelali, 2003, « *De Anima*. Tradition arabe », in R. Goulet (ed.), *Dictionnaire des philosophes antiques, Supplément*, Paris: CNRS, 346–358.
+* Esots, Janis,2021, “The Typology of Excellent and Non-Excellent Cities according to al-Fārābī and Ibn Bājja,” *Rivages*, 6: 9–37.
+* Forcada, Miquel, 1999. “De Avempace a Averroes. La transmisión de las ciencias de los antiguos de la época taifa a la época Almohade”, in M.I. Fierro & M.L. Avila (eds.) *Biografías Almohades* 1 (Madrid. CSIC), pp. 407–423.
+* –––, 2011, “Ibn Bājja on Medicine and Medical Experience”, *Arabic Sciences and Philosophy*, 21(1): 111–148. doi:10.1017/S0957423910000147
+* Franco, Abel B. 2003. “Avempace, Projectile Motion and Impetus Theory”, *Journal of the History of Ideas*, 64(4): 521–546. doi:10.2307/3654219
+* Frank, Richard. 1958–59, “Some Fragments of Ishaq’s Translation of *De anima*”, *Cahiers de Byrsa*, 8: 231–251.
+* Gätje, Helmut, 1971, *Studien zur Überlieferung der aristotelischen Psychologie im Islam*, (Annales Universitatis Saraviensis. Phil. Fak. nº 11), Heidelberg: C Winter.
+* Genequand, Charles, 2008, “Loi morale, loi politique: al-Farabi et Ibn Bağğa”, *Mélanges de l’Université Saint-Joseph*, 61: 491–514.
+* Elias Giannakis, 1992, *Philoponus in the Arabic tradition of Aristotle’s Physics*, PhD thesis, University of Oxford.
+* Harvey, Stephen, 1992, “The Place of the Philosopher in the City according to Ibn Bâjja”, in C.E. Butterworth (ed.), *The Political Aspects of Islamic Philosophy. Essays in Honor of M. S. Mahdi*, (Cambridge, Mass.: Harvard University), pp. 199–233.
+* Ivry, Alfred L, 2001, “The Arabic Text of Aristotle’s *De anima* and its Translator”, *Oriens* 36: 59–77. doi:10.1163/1877837201X00051
+* Kochin, Michael S., 1999, “Weeds: cultivating the imagination in medieval Arabic political philosophy”, *Journal of the History of Ideas*, 60(3): 399–416. doi:10.2307/3654010
+* Kruk, Remke, 1997, “Ibn Bâjja’s commentary on Aristotle’s *De animalibus*”, in *The Ancient Tradition in Christian and Islamic Hellenism*, G. Endress & R. Kruk (eds.), Leiden: Research School CNWS, pp. 165–179.
+* Lagardère, Vincent, 1989. *Les almoravides*, Paris: L’Haramattan.
+* –––, 1998, *Les Almoravides. Le djihâd andalou (1106–1143)*, Paris; Montréal: L’Harmattan.
+* Lettinck, Paul, 1999, *Aristotle’s “Meteorology” and its reception in the Arab world, with an edition and translation of Ibn Suwar’s “Treatise on meteorological phenomena” and of Ibn Bâjja’s “Commentary on the Meteorology”*, (Aristoteles Semitico-Latinus, 10), Leiden: Brill.
+* Lomba Fuentes, Joaquín & J.M. Puerta Vílchez, 2009, “Ibn Baŷŷa, Abū Bakr”, in Jorge Lirola & J.M. Puerta Vílchez (eds.) *Biblioteca de al-Andalus* (Almería), vol. 2, pp. 624–661.
+* Lyons, M.C. (ed.), 1973, *An Arabic Translation of Themistius Commentary on Aristoteles “De anima”*, Oxford: B. Cassirer.
+* Mallet, Dominique, 1992, *La dialectique dans la philosophie d’Abu Naṣr al-Farabi*, 4 vols. Bordeaux: Université Michel de Montaigne (Microfilm).
+* –––, 1994, “Le kitab al-Taḥlil d’Alfarabi”, *Arabic Sciences and Philosophy*, 4: 317–335.
+* Ma‛sumi, M. Ṣaghir Ḥasan al-, 1960, “Ibn al-Imam, the disciple of Ibn Bajjah”, *Islamic Quarterly*, 5: 102–108.
+* Maier, Anneliese, 1958, *Studien zur Naturphilosophie der Spätscholastik*, 5 vols. Rome, 1943–1958, specially, vol. 5.
+* Moody, E. A., 1951, “Galileo and Avempace: the dynamics of the leaning tower experiment”, *Journal for the History of Ideas*, 12: 163–193, 375–422.
+* Morata, Nemesio, 1924, “Avempace”, (Notas y análisis), *Ciudad de Dios*, 139: 180–194.
+* Mu’nis, Husayn, 2000, *Sab‛ watha’iq jadidah ‛an dawlat al-Murabitin wa-ayyami-him fi al-Andalus*, Cairo: Maktabat ath-Thaqafa ad-Diniyya.
+* Netton, Ian Richard, 1982, *Muslim Neoplatonists: An Introduction to the Thought of the Brethren of Purity, Ikhwān al-Ṣafāʼ*, London: G. Allen & Unwin.
+* Norris, H.T. and P. Chalmeta, 2007, “al-Murābiṭūn”, *Encyclopédia de l’Islam*, Leiden: Brill.
+* Petraitis, Cassimir, 1967, *The Arabic Versión of Aristotle’s Meteorology (Kitab al-athar al-‛ulwiyya li-Aristutalis*), Beirut: Dar el-Machreq.
+* Pines, Shlomoh, 1955, “Une version arabe de trois propositions de la ΣΤOΙΧΕIΩΣΙΣ ΘΕOΛOΓΙKΉ de Proclus”, *Oriens*, 8: 195–203. Reprinted in Pines 1986: 278–286. doi:10.1163/19606028\_015\_02-07
+* –––, 1964, “La Dynamique d’Ibn Bâjja”, in *Mélanges Alexandre Koyré*, Vol. II, Paris, pp. 442–468. Reprinted in Pines 1986: 450–474.
+* –––, 1986, *The Collected Works of Shlomo Pines*, vol. 2, *Studies in Arabic Versions of Greek Texts and in Mediaeval Science*, Leiden-Jerusalem: Magnes Press, Hebrew University.
+* –––, 1981: “Les limites de la métaphysique selon al-Farabi, Ibn Bâjjah et Maimonide. Sources et antithèses de ces doctrines chez Alexandre d’Aphrodise et chez Thémistius”, in J.P. Beckmann et.al. (eds.), *Sprache und Erkenntnis im Mittelalter*, vol. 1, (Berlin: de Gruyter), pp. 211–225. Reprinted in *The Collected Works of Shlomo Pines*, vol. 5, W.Z. Harvey & M. Idel (eds.), *Studies in the History of Jewish Thought*, (Jerusalem: Magnes Press, 1997), pp. 432–446.
+* Puig Montada, Josep, 2003, “Avempace’s Isāghūğī” in Miklós Maróth (ed.), *Problems in Arabic Philosophy*, (Acta et studia 2), Pilisczaba: The Avicenna Institute of Middle Eastern Studies, pp. 51–67.
+* –––, 2021, “De l’usage du terme ‘puissance’ chez Ibn Bâjja (Avempace)”, *Rivages* (Marrakech) 6: 39–51.
+* Rashaq, Jamal, 2016, *Ibn Bâjja faylasuf Saraqusta wa-Fas (533/1139): Sira wa-a‛mal*, Marrakech: al-Matba‛a wa-l-Warraqa al-Wataniyya.
+* Ramón Guerrero, Rafael, 1992, *La recepción árabe del “De anima” de Aristoteles: al-Kindi y al-Farabi*. Madrid: CSIC.
+* Rescher, Nicholas. 1965: “New Light on Galen and the Fourth Figure of the Syllogism”, *Journal of the History of Philosophy*, 3(1): 27–41. doi:10.1353/hph.2008.1365 .
+* Rosenthal, E.I.J., 1951, “The place of politics in the philosophy of Ibn Bâjja”, *Islamic Culture*, 25: 187–211. Reprinted in F. Sezgin *Ibn Bâjja, Muhammad ibn Yahyá Ibn as-Sa’igh (d. 533/1139*) Texts and Studies, vol. 2 (Frankfurt am Main: IHAIS, 1999), pp. 265–289. Islamic Philosophy 77.
+* Samsó, Julio, 1993–1994, “Sobre Ibn Bāŷŷa y la astronomía”, *Sharq al-Andalus*, 10–11: 669–681. doi:10.14198/ShAnd.1993-1994.10-11.39
+* Steinschneider, Moritz, 1893, *Die hebräischen Übersetzungen des Mittelalters und die Juden als Dometscher*, Berlin 1893; Reprint Graz: Akademische Druck- und Verlagsanstalt, 1956.
+* Stroumsa, Sarah, 2016, “Between acculturation and conversion in Islamic Spain. The case of the Banū Hasday”, *Mediterranea. International journal for the transfer of knowledge*, 1: 9–36. doi:10.21071/mijtk.v0i1.5171
+* Taylor, Richard C., 1982, “Neoplatonic Texts in Turkey”, *Mélanges de l’Institut Dominicain d’Études Orientales*, 15: 251–264.
+* Wirmer, David, 2014, *Vom Denken der Natur zur Natur des Denkens*, (Scientia Graeco-Arabica 13), Berlin: De Gruyter.
+* Zainaty, Georges, 1979, *La morale d’Avempace*, (Études Musulmanes 22), Paris: Vrin.
 
 ## Academic Tools
 
@@ -637,4 +635,4 @@ _**Meteorology**_** commentary**
 [al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | Arabic and Islamic Philosophy, disciplines in: epistemology and philosophy of science | [Arabic and Islamic Philosophy, disciplines in: natural philosophy and natural science](https://plato.stanford.edu/entries/arabic-islamic-natural/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Ibn Rushd \[Averroes\]](https://plato.stanford.edu/entries/ibn-rushd/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Josep Puig Montada](http://www.ucm.es/directorio?id=3237) <[_puigmont@ucm.es_](mailto:puigmont%40ucm%2ees)>
+[Josep Puig Montada](http://www.ucm.es/directorio?id=3237) <[*puigmont@ucm.es*](mailto:puigmont%40ucm%2ees)>

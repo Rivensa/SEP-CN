@@ -15,8 +15,6 @@
 
 如同逻辑学中通常的做法一样，这些语言是逻辑学的语义和语法基础。
 
- 
-
 ---
 
 ## 1. 语义学
@@ -24,8 +22,8 @@
 对于多值逻辑系统，有三种语义学。
 
 * [1.1 标准逻辑矩阵](https://plato.stanford.edu/entries/logic-manyvalued/#StaLogMat)
-* [ 1.2 代数语义学](https://plato.stanford.edu/entries/logic-manyvalued/#AlgSem)
-* [ 1.3 游戏语义学](https://plato.stanford.edu/entries/logic-manyvalued/#GameSem)
+* [1.2 代数语义学](https://plato.stanford.edu/entries/logic-manyvalued/#AlgSem)
+* [1.3 游戏语义学](https://plato.stanford.edu/entries/logic-manyvalued/#GameSem)
 
 我们依次讨论这些。
 
@@ -91,7 +89,7 @@
 
 * [2.1 希尔伯特类型演算](https://plato.stanford.edu/entries/logic-manyvalued/#HilTypCal)
 * [2.2 格恩岑类型序演算](https://plato.stanford.edu/entries/logic-manyvalued/#GenTypSeqCal)
-* [ 2.3 表格演算](https://plato.stanford.edu/entries/logic-manyvalued/#TabCal)
+* [2.3 表格演算](https://plato.stanford.edu/entries/logic-manyvalued/#TabCal)
 
 然而，上述一些方法仅适用于有限值系统。关于广泛类别的无限值逻辑的现有技术可参考 Metcalfe/Olivetti/Gabbay (2009)。
 
@@ -115,12 +113,12 @@
 
 多值逻辑的主要系统通常以家族的形式出现，其中包括统一定义的有限值系统和无限值系统。以下是一个列表：
 
-* [ 3.1 Łukasiewicz 逻辑学](https://plato.stanford.edu/entries/logic-manyvalued/#LukLog)
-* [ 3.2 Gödel 逻辑学](https://plato.stanford.edu/entries/logic-manyvalued/#GodLog)
+* [3.1 Łukasiewicz 逻辑学](https://plato.stanford.edu/entries/logic-manyvalued/#LukLog)
+* [3.2 Gödel 逻辑学](https://plato.stanford.edu/entries/logic-manyvalued/#GodLog)
 * [3.3 基于 t-范数的系统](https://plato.stanford.edu/entries/logic-manyvalued/#TNorBasSys)
 * [3.4 三值系统](https://plato.stanford.edu/entries/logic-manyvalued/#ThrValSys)
 * [3.5 Dunn/Belnap 的四值系统](https://plato.stanford.edu/entries/logic-manyvalued/#Dun4ValSys)
-* [ 3.6 乘积系统](https://plato.stanford.edu/entries/logic-manyvalued/#ProSys)
+* [3.6 乘积系统](https://plato.stanford.edu/entries/logic-manyvalued/#ProSys)
 
 ### 3.1 Łukasiewicz 逻辑学
 

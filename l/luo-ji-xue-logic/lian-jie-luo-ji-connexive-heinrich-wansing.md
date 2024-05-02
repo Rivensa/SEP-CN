@@ -1,6 +1,6 @@
 # 连接逻辑 connexive (Heinrich Wansing)
 
-_首次发表于2006年1月6日；实质修订于2023年6月1日_
+*首次发表于2006年1月6日；实质修订于2023年6月1日*
 
 许多著名的非经典逻辑系统都是通常被称为“经典逻辑”的子系统。连接逻辑系统在某种意义上是反经典的，因为它们既不是经典逻辑的子系统也不是其扩展。连接逻辑具有标准的逻辑词汇，并包含某些经典逻辑的非定理作为论题。由于经典命题逻辑是完全的，其语言中的任何附加公理都会导致平凡的系统，因此任何非平凡的连接逻辑系统都必须省略一些经典逻辑的定理。连接逻辑的名称由斯托尔斯·麦考尔（Storrs McCall）在 1963 年和 1964 年引入，并暗示了连接逻辑系统受到了关于有效推理的前提和结论之间或前提和后继（结论）之间的连贯性或联系的某些思想的启发。所涉及的连贯性类型涉及蕴涵和否定的含义（参见关于指示性条件、条件逻辑、反事实和否定的条目）。一个基本的思想是没有公式可以被证明蕴涵其自身的否定，也没有公式可以被其否定所蕴涵。这个概念可以通过要求对于每个公式 A，都有 ⊬ \~A → A 和 ⊬ A → \~ A 来表达，
 
@@ -64,7 +64,7 @@ Richard Angell在他关于连接逻辑的开创性论文（1962年）中旨在�
 
 有几个进一步的和一些分歧的连接逻辑概念。特别是，21 世纪的第二个十年（不幸的是）引入了让人困惑的许多新的连接性概念和非统一的术语。麦考尔（1966）将连接逻辑定义为从没有命题蕴含或被其否定所蕴含的逻辑到可证明 BT（以及蕴含的非对称性）的逻辑系统的范围。类似地，马雷斯和保利（2019）将连接逻辑定义为其定理中包含 AT、AT'、BT 和 BT'的系统（不明确要求蕴含的非对称性）。在麦考尔（2012）中，AT'和 BT 被称为连接逻辑的区分标志，但请注意，由于安杰尔（1962）和麦考尔（1966），AT 和 BT'在系统 CC1 中也是有效的。在 Wansing、Omori 和 Ferguson（2016）中，一些但不是所有的 AT、AT'、BT 和 BT'可证明（或有效）的逻辑被称为“半连接性”（不明确要求蕴含的非对称性），在 Jarmużek 和 Malinowski（2019a）中被称为准连接性。Kneale 和 Kneale（1962）将（A → B）的否定归因于博伊修斯，这表明了 BT 和 BT'的加强，即以下等式：
 
-> BTe: (A → B) ↔ \~(A → \~B)，以及 BTe′: (_A_ → \~_B_) ↔ \~(_A_ → _B_).
+> BTe: (A → B) ↔ \~(A → \~B)，以及 BTe′: (*A* → \~*B*) ↔ \~(*A* → *B*).
 
 Sylvan 1989 将 BTe 称为超连接逻辑的原则。BTe 和 BTe′原则是在 Wansing 2005 年定义的连接逻辑 C 及其量化版本 QC 之后发展起来的连接逻辑的特征。根据 McCall（2012）的说法，BT 的逆（BTe 的从右到左方向）在他认为的英语反例的光下是非常不直观的。有关答辩，请参见 Wansing 和 Skurt 2018 年的论述。
 
@@ -167,14 +167,14 @@ Egré和 Politzer（2013）提出了另一个关于陈述语气条件句否定�
 
 现代模态逻辑始于 C.I. Lewis 的一个句法企业，他定义了一系列公理系统来捕捉严格蕴涵的概念。在类似的思路下，Lewis 的学生 E. Nelson 提出了一个公理系统，可以推导出亚里士多德和博伊修斯的论点。该系统在 Mares 和 Paoli 2019 年被称为 NL，其中它的公理和推理规则如下所示（我们在这里使用符号字母代替任意公式而不是命题变量，并使用不同的符号表示否定）：
 
-| 1.1 | _A_→_A_                                              |
+| 1.1 | *A*→*A*                                              |
 | --- | ---------------------------------------------------- |
-| 1.2 | (_A_                                                 |
-| 1.3 | _A_→ \~\~_A_                                         |
-| 1.4 | (_A_→_B_) → (_A_◦_B_)                                |
-| 1.5 | (_A_≠_B_≠ C) → (((_A_→_B_) ∧ (_B_→_C_)) → (_A_→_C_)) |
-| 1.6 | (_A_∧_B_) = (_B_∧_A_)                                |
-| 1.7 | ((_A_∧_B_) →_C_) → ((_A_∧ \~_C_) → \~_B_)            |
+| 1.2 | (*A*                                                 |
+| 1.3 | *A*→ \~\~*A*                                         |
+| 1.4 | (*A*→*B*) → (*A*◦*B*)                                |
+| 1.5 | (*A*≠*B*≠ C) → (((*A*→*B*) ∧ (*B*→*C*)) → (*A*→*C*)) |
+| 1.6 | (*A*∧*B*) = (*B*∧*A*)                                |
+| 1.7 | ((*A*∧*B*) →*C*) → ((*A*∧ \~*C*) → \~*B*)            |
 |     |                                                      |
 | R1  | 如果 ⊢ A 和 ⊢ (A → B)，那么 ⊢ B (假言推理)                     |
 | R2  | 如果 ⊢ A 和 ⊢ B，那么 ⊢ (A ∧ B) (连接)                       |
@@ -201,7 +201,7 @@ Wansing 2016b 中的自然演绎证明系统可以看作是对某些以可证明
 
 Pizzi（1977, 1991, 1993, 1996, 2004, 2005, 2008, 2018）和 Pizzi 和 Williamson（1997, 2005）研究的后果蕴涵逻辑中的后果条件在验证亚里士多德的论点时失败了验证博伊修斯的论点。因此，它在弱意义上是连续的，但由于后果蕴涵是一个严格的条件，需要满足一些额外的条件，因此后果蕴涵逻辑也适用于语义视角提供的分类方案。下表是 Omori 和 Wansing 2019 的总结概述的轻微扩展（指向本条目的相关部分），上面的方法调整（支持）真值条件（或向标准真值条件添加语义机制），而下面的方法调整（支持）伪条件：
 
-|                               | _conditional_ | _negation_ | \* 结果关系\*    |
+|                               | *conditional* | *negation* | \* 结果关系\*    |
 | ----------------------------- | ------------- | ---------- | ------------ |
 | Angell-McCall，第 4.1 节         | 物质 + 调整       | classical  | standard     |
 | Routley，第 4.2 节               | 相关 + '生成关系'   | star       | standard     |
@@ -219,19 +219,19 @@ Pizzi（1977, 1991, 1993, 1996, 2004, 2005, 2008, 2018）和 Pizzi 和 Williamso
 
 尽管连接逻辑的基本思想可以追溯到古代，但对具有连接蕴涵的形式系统的寻求似乎仅始于 19 世纪的 H. MacColl（1878）的工作，另请参见 Rahman 和 Redmond 2008。连接蕴涵的基本思想也由 E. Nelson（1930）阐明，并且对连接逻辑系统的最新形式研究始于 20 世纪 60 年代。在 McCall 1966 中，S. McCall 提出了一种命题连接逻辑系统的公理化，该系统在语义上由 Angell（1962）以某种四值矩阵的形式引入。McCall 的逻辑 CC1 的语言包含原始（调整的符号）的一元连接词\~（否定）和二元连接词∧（合取）和→（蕴涵）。析取∨和等价↔以通常的方式定义。CC1 的示意公理和规则如下：
 
-| A1  | (_A_→_B_) → ((_B_→_C_) → (_A_→_C_))                        |
+| A1  | (*A*→*B*) → ((*B*→*C*) → (*A*→*C*))                        |
 | --- | ---------------------------------------------------------- |
-| A2  | ((_A_→_A_) →_B_) →_B_                                      |
-| A3  | (_A_→_B_) → ((_A_∧_C_) → (_B_∧_C_))                        |
-| A4  | (_A_∧_A_) → (_B_→_B_)                                      |
-| A5  | (_A_∧ (_B_∧_C_)) → (_B_∧ (_A_∧_C_))                        |
-| A6  | (_A_∧_A_) → ((_A_→_A_) → (_A_∧_A_))                        |
-| A7  | _A_→ (_A_∧ (_A_∧_A_))                                      |
-| A8  | ((_A_→ \~_B_) ∧_B_) → \~_A_                                |
-| A9  | (_A_∧ \~(_A_∧ \~_B_)) →_B_                                 |
-| A10 | \~(_A_∧ \~(_A_∧_A_))                                       |
-| A11 | (\~_A_∨ ((_A_→_A_) →_A_)) ∨ (((_A_→_A_) ∨ (_A_→_A_)) →_A_) |
-| A12 | (_A_→_A_) → \~(_A_→ \~_A_)                                 |
+| A2  | ((*A*→*A*) →*B*) →*B*                                      |
+| A3  | (*A*→*B*) → ((*A*∧*C*) → (*B*∧*C*))                        |
+| A4  | (*A*∧*A*) → (*B*→*B*)                                      |
+| A5  | (*A*∧ (*B*∧*C*)) → (*B*∧ (*A*∧*C*))                        |
+| A6  | (*A*∧*A*) → ((*A*→*A*) → (*A*∧*A*))                        |
+| A7  | *A*→ (*A*∧ (*A*∧*A*))                                      |
+| A8  | ((*A*→ \~*B*) ∧*B*) → \~*A*                                |
+| A9  | (*A*∧ \~(*A*∧ \~*B*)) →*B*                                 |
+| A10 | \~(*A*∧ \~(*A*∧*A*))                                       |
+| A11 | (\~*A*∨ ((*A*→*A*) →*A*)) ∨ (((*A*→*A*) ∨ (*A*→*A*)) →*A*) |
+| A12 | (*A*→*A*) → \~(*A*→ \~*A*)                                 |
 |     |                                                            |
 | R1  | 如果 ⊢ A 和 ⊢ (A → B)，那么 ⊢ B (假言推理)                           |
 | R2  | 如果 ⊢ A 和 ⊢ B，那么 ⊢ (A ∧ B) (连接)                             |
@@ -308,7 +308,7 @@ McCall（2014）为一种他称之为“连通 Gentzen”的连通逻辑系统�
 
 \[注意：只要存在很小的歧义机会，我们就用 R(x, y, z)替换为 Rxyz。]
 
-此外，对于每个公式 A 和世界 t，需要满足 G(A, t)蕴含 M, t ⊨ A。公式 A 在模型 M 中为真当且仅当 M, T ⊨ A，并且如果 A 在一类模型中都为真，则 A 相对于该类模型是有效的。AT′通过模型的以下特性进行语义化描述：∃t (R(T _, t, t_) and G(A, t))，而 BT 通过 ∀w∃s, t, u (R(w, s, t), R(w _, s, u), G(A, s), and R(T, t, u_)) 进行描述。
+此外，对于每个公式 A 和世界 t，需要满足 G(A, t)蕴含 M, t ⊨ A。公式 A 在模型 M 中为真当且仅当 M, T ⊨ A，并且如果 A 在一类模型中都为真，则 A 相对于该类模型是有效的。AT′通过模型的以下特性进行语义化描述：∃t (R(T *, t, t*) and G(A, t))，而 BT 通过 ∀w∃s, t, u (R(w, s, t), R(w *, s, u), G(A, s), and R(T, t, u*)) 进行描述。
 
 考虑 AT′的 Mortensen（1984）解释道，Routley 对 AT′的描述“并不特别直观启发”，并指出在具有三元关系模型语义的某些逻辑中，AT′的另一种描述是可用的，即对于每个模型 M，集合 CA := {s : M, s ⊨ A and M, s ⊭ \~A}是非空的。与 Routley 的非递归要求 G(A, t)蕴含 M, t ⊨ A 不同，Mortensen 的条件也不是纯粹的结构条件，因为它涉及真实关系⊨。Mortensen（1984, p. 114）认为条件 C**A ≠ ∅“最接近我们对亚里士多德的思考方式”，并强调对于一个自相矛盾的命题 A，集合 C**A 必须为空，因此应否定 AT′。Mortensen 还对将 AT′添加到相关逻辑 E 进行了批判性讨论。在这个背景下，AT′等同于没有蕴涵在世界 T\*上为真的条件。
 
@@ -334,7 +334,7 @@ McCall（2014）为一种他称之为“连通 Gentzen”的连通逻辑系统�
 
 这两种连接逻辑从否定作为直接取消的概念中产生。它们既不单调也不闭合于统一替换。可以通过直接忠实的翻译τ到模态逻辑 S5 获得它们的证明系统和决策过程，参见条目逻辑：模态。对于蕴含关系 A → B，翻译定义如下，其中 ⊃ 是物质蕴含，¬ 是经典否定：
 
-> (a) ◊τ(_A_) ∧ □(τ(_A_) ⊃ τ(_B_)); (b) ◊τ(_A_) ∧ ◊¬τ(_B_) ∧ □(τ(_A_) ⊃ τ(_B_)).
+> (a) ◊τ(*A*) ∧ □(τ(*A*) ⊃ τ(*B*)); (b) ◊τ(*A*) ∧ ◊¬τ(*B*) ∧ □(τ(*A*) ⊃ τ(*B*)).
 
 弗格森（2015）观察到，普里斯特逻辑的变体（a）的语义推论关系与博赫瓦尔的三值逻辑（参见多值逻辑条目）的否定、合取、析取片段的交集形成了一个已知的包含逻辑系统，即约翰逊（1976）提出的 RC 系统。
 
@@ -376,10 +376,10 @@ Jarmużek 和 Malinowski 2019a 的布尔连接逻辑是在关联逻辑的框架�
 
 | a1 | 直觉积极逻辑的公理                                 |
 | -- | ----------------------------------------- |
-| a2 | \~\~_A_↔_A_                               |
-| a3 | ~~(​_A_​∨~~​\~_B_~~​~~) ↔ (\~​_A_∧ \~_B_) |
-| a4 | ~~(​_A_​∧~~​\~_B_~~​~~) ↔ (\~​_A_∨ \~_B_) |
-| a5 | \~(_A_→_B_) ↔ (_A_→ \~_B_)                |
+| a2 | \~\~*A*↔*A*                               |
+| a3 | ~~(​_A_​∨~~​\~*B*~~​~~) ↔ (\~​_A_∧ \~*B*) |
+| a4 | ~~(​_A_​∧~~​\~*B*~~​~~) ↔ (\~​_A_∨ \~*B*) |
+| a5 | \~(*A*→*B*) ↔ (*A*→ \~*B*)                |
 |    |                                           |
 | R1 | modus ponens                              |
 
@@ -397,13 +397,13 @@ Jarmużek 和 Malinowski 2019a 的布尔连接逻辑是在关联逻辑的框架�
 
 由此得到的系统满足 AT，AT′，BT 和 BT′，因为 A → ¬~~A 和~~A → ¬A 是定理。例如，对于 BT，我们有：
 
-| 1. | _A_→_B_                        | assumption  |
+| 1. | *A*→*B*                        | assumption  |
 | -- | ------------------------------ | ----------- |
-| 2. | _B_→ ¬\~_B_                    | theorem     |
-| 3. | _A_→ ¬\~_B_                    | 1, 2, →的传递性 |
-| 4. | (_A_→ ¬\~_B_) → \~(_A_→ \~_B_) | axiom a5′   |
-| 5. | \~(_A_→ \~_B_)                 | 3, 4, R1    |
-| 6. | (_A_→_B_) → \~(_A_→ \~_B_)     | 1, 5, 推导定理  |
+| 2. | *B*→ ¬\~*B*                    | theorem     |
+| 3. | *A*→ ¬\~*B*                    | 1, 2, →的传递性 |
+| 4. | (*A*→ ¬\~*B*) → \~(*A*→ \~*B*) | axiom a5′   |
+| 5. | \~(*A*→ \~*B*)                 | 3, 4, R1    |
+| 6. | (*A*→*B*) → \~(*A*→ \~*B*)     | 1, 5, 推导定理  |
 
 然而，这种逻辑是由每个 L-公式组成的平凡系统（这一事实在 Wansing 2005（第 6 节）中没有注意到，但在该论文的在线版本中指出）。
 
@@ -431,10 +431,10 @@ Hitoshi Omori（2016a）对基本相关逻辑 BD（参见条目逻辑：相关�
 
 | a1c | 古典正逻辑的公理                                  |
 | --- | ----------------------------------------- |
-| a2  | \~\~_A_↔_A_                               |
-| a3  | ~~(​_A_​∨~~​\~_B_~~​~~) ↔ (\~​_A_∧ \~_B_) |
-| a4  | ~~(​_A_​∧~~​\~_B_~~​~~) ↔ (\~​_A_∨ \~_B_) |
-| a5  | \~(_A_→_B_) ↔ (_A_→ \~_B_)                |
+| a2  | \~\~*A*↔*A*                               |
+| a3  | ~~(​_A_​∨~~​\~*B*~~​~~) ↔ (\~​_A_∧ \~*B*) |
+| a4  | ~~(​_A_​∧~~​\~*B*~~​~~) ↔ (\~​_A_∨ \~*B*) |
+| a5  | \~(*A*→*B*) ↔ (*A*→ \~*B*)                |
 |     |                                           |
 | R1  | modus ponens                              |
 
@@ -516,7 +516,7 @@ McCall（2012）将他称为阿贝拉尔第一原理和亚里士多德第二论�
 
 Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的模态逻辑 KD 中，反之亦然。根据以下的翻译函数φ来解释分析性结果蕴涵：
 
-> φ(_A_ → _B_) = □(φ_A_ ⊃ φ_B_) ∧ (□φ_B_ ⊃ □φ_A_) ∧ (◊φ_B_ ⊃ ◊φ_A_)
+> φ(*A* → *B*) = □(φ_A_ ⊃ φ_B_) ∧ (□φ_B_ ⊃ □φ_A_) ∧ (◊φ_B_ ⊃ ◊φ_A_)
 
 正如 Pizzi 和 Williamson（1997 年，第 571 页）指出的那样，他们的调查是对“逻辑学中介于因果蕴涵逻辑和连接逻辑之间的模态处理的贡献”。他们强调了将因果蕴涵视为真正的蕴涵连接符的困难，通过展示在任何接受因果逻辑的模态蕴涵和包含 BT 的正常系统中，以下公式是可证明的：
 
@@ -530,147 +530,147 @@ Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的�
 
 ## Bibliography
 
-* Almukdad A. and Nelson, D., 1984, “Constructible Falsity and Inexact Predicates”, _Journal of Symbolic Logic_, 49: 231–233.
-* Anderson, A.R. and Belnap, N.D., 1975, _Entailment: The Logic of Relevance and Necessity, Volume I_, Princeton: Princeton University Press.
-* Angell, R.B., 1962, “A Propositional Logic with Subjunctive Conditionals”, _Journal of Symbolic Logic_, 27: 327–343.
-* –––, 1967a, “Three Logics of Subjunctive Conditionals (Abstract)”, _Journal of Symbolic Logic_, 32: 297–308.
-* –––, 1967b, “Connexive Implication, Modal Logic and Subjunctive Conditionals”, lecture delivered in Chicago, 5 May 1967, _IfCoLog Journal of Logics and their Applications_, 2016, 3: 297–308.
-* –––, 1978, “Tre logiche dei condizionali congiuntivi”, in: C. Pizzi (ed), _Leggi di natura, modalità, ipotesi. La logica del ragionamento controfattuale_, Milan: Feltrinelli, 156–180; Italian translation of Angell 1966, see Other Internet Resources.
-* –––, 2002, _A-Logic_, Lanham: University Press of America.
-* Arieli, O. and Avron, A., 1996, “Reasoning with Logical Bilattices”, _Journal of Logic, Language and Information_, 5: 25–63
-* Avron, A., 1991, “Natural 3-valued Logics–Characterization and Proof Theory”, _Journal of Symbolic Logic_, 56: 276–294.
-* Belnap, N.D., 1970, “Conditional Assertion and Restricted Quantification”, _Noûs_, 4: 1–13.
-* Bennett, J., 2003, _A Philosophical Guide to Conditionals_, Oxford: Clarendon Press.
-* Besnard, P., 2011, “A Logical Analysis of Rule Inconsistency”, _International Journal of Semantic Computing_, 5: 271–280.
-* Bode, J., 1979, “The Possibility of a Conditional Logical ”, _Notre Dame Journal of Formal Logic_, 20: 147–154.
-* Boethius, A.M.S., 1860, _De Syllogismo Hypothetico_, J.P. Migne (ed.), Patrologia Latina 64, Paris, 831–876.
-* Brady, R., 1989, “A Routley-Meyer Affixing Style Semantics for Logics Containing Aristotle’s Thesis”, _Studia Logica_, 48: 235–241.
-* Cantwell, J., 2008, “The Logic of Conditional Negation”, _Notre Dame Journal of Formal Logic_, 49: 245–260.
-* Chellas, B., 1975, “Basic Conditional Logic”, _Journal of Philosophical Logic_, 4: 133–153.
-* Cooper, W., 1968, “The Propositional Logic of Ordinary Discourse”, _Inquiry_, 11: 295–320.
-* El-Rouayheb, K., 2009, “Impossible Antecedents and Their Consequences: Some Thirteenth- Century Arabic Discussions”, _History and Philosophy of Logic_ 30: 209–225.
-* Egré, P. and Politzer, G., 2013, “On the negation of indicative conditionals”, in: M. Franke, M. Aloni and F. Roelofsen (eds), _Proceedings of the 19th Amsterdam Colloquium_, 10–18 \[[Egré & Politzer 2013 available online](http://maloni.humanities.uva.nl/AC2013/AC\proceedings.pdf)].
-* Estrada-González, L., 2008, “Weakened Semantics and the Traditional Square of Opposition”, _Logica Universalis_, 2: 155–165.
-* Estrada-González, L. and Ramirez-Cámara, E., 2016, “A Comparison of Connexive Logics”, _IfCoLog Journal of Logics and their Applications_, 3: 341–355.
-* –––, 2020, “A Nelsonian Response to ‘the Most Embarrassing of All Twelfth-century Arguments’”, _History and Philosophy of Logic_, 41: 101–113.
-* Ferguson, T.M., 2014, “Ramsey’s Footnote and Priest’s Connexive Logics”, abstract, ASL Logic Symposium 2012, _Bulletin of Symbolic Logic_, 20: 387–388.
-* –––, 2015, “Logics of Nonsense and Parry Systems”, _Journal of Philosophical Logic_, 44: 65–80.
-* –––, 2016, “On Arithmetic Formulated Connexively”, _IfCoLog Journal of Logics and their Applications_, 3: 357–376.
-* –––, 2019, “Inconsistent Models (and Infinite Models) for Arithmetics with Constructible Falsity”, _Logic and Logical Philosophy_, 28: 389–407.
-* Fine, K., 1986, “Analytic Implication”, _Notre Dame Journal of Formal Logic_, 27: 169–179.
-* Francez, N., 2016, “Natural Deduction for Two Connexive Logics”, _IfCoLog Journal of Logics and their Applications_, 3: 479–504.
-* –––, 2019 “Relevant Connexive Logic”, _Logic and Logical Philosophy_, 28: 409–425.
-* –––, 2020, “A Poly-Connexive Logic”, _Logic and Logical Philosophy_, 29: 143–157.
-* –––, 2021, _A View of Connexive Logic_, London: College Publications.
-* Gibbard, A. 1981, “Two Recent Theories of Conditionals”, in: W.L. Harper, R. Stalnaker, and C.T. Pearce (eds), _Ifs_, Dordrecht: Reidel.
-* Gurevich, Y., 1977, “Intuitionistic Logic with Strong Negation”, _Studia Logica_, 36: 49–59.
-* Humberstone, L., 2000, “Contra-Classical Logics”, _Australasian Journal of Philosophy_, 78(4): 438–474.
-* Jarmużek, T. and Malinowski, J., 2019a, “Boolean Connexive Logics: Semantics and Tableau Approach”, _Logic and Logical Philosophy_, 28: 427–448.
-* –––, 2019b, “Modal Boolean connexive logics. Semantic and tableau approach”, _Bulletin of the Section of Logic_, 48: 213–243.
-* Johnson, F.A., 1976, “A Three-valued Interpretation for a Relevance Logic”, _The Relevance Logic Newsletter_, 1: 123–128. \[[Johnson 1976 available online](http://aal.ltumathstats.com/curios/relevance-logic-newsletter).]
-* Johnston, S., 2019, “Per Se Modality and Natural Implication. An Account of Connexive Logic in Robert Kilwardby,” _Logic and Logical Philosophy_, 28: 449–479.
-* Kamide, N., 2016, “Cut-free Systems for Restricted Bi-intuitionistic Logic and its Connexive Extension”, _Proceedings of the 46th International Symposium on Multiple-Valued Logic (ISMVL)_, Sapporo, Japan, IEEE Computer Society, 137–142.
-* –––, 2017, “Natural Deduction for Connexive Paraconsistent Quantum Logic”, _Proceedings of the 47th International Symposium on Multiple-Valued Logic (ISMVL)_, Novi Sad, Serbia, IEEE Computer Society, 207–212.
-* –––, 2019, “Bi-Classical Connexive Logic and its Modal Extension: Cut-elimination, Completeness and Duality”, _Logic and Logical Philosophy_, 28: 481–511.
-* Kamide, N. and Wansing, H., 2011, “Connexive Modal Logic Based on Positive S4”, in: J.-Y. Beziau and M. Conigli (eds), _Logic without Frontiers. Festschrift for Walter Alexandre Carnielli on the Occasion of His 60th Birthday_, London: College Publications, 389–409.
-* –––, 2012, “Proof theory of Nelson’s Paraconsistent Logic: A Uniform Perspective”, _Theoretical Computer Science_, 415: 1–38.
-* –––, 2016, “Completeness of connexive Heyting-Brouwer logic”, _IfCoLog Journal of Logics and their Applications_, 3: 441–466.
-* Kamide, N., Shramko. Y., and Wansing, H., 2017, “Kripke Completeness of Bi-intuitionistic Multilattice Logic and its Connexive Variant”, _Studia Logica_, 105: 1193–1219.
-* Kapsner, A., 2012, “Strong Connexivity”, _Thought_, 1: 141–145.
-* –––, 2019, “Humble Connexivity”, _Logic and Logical Philosophy_, 28: 513–536.
-* Kapsner, A. and Omori, H., 2017, “Counterfactuals in Nelson Logic”, _Proceedings of LORI 2017_, Berlin: Springer, 497–511.
-* Khemlani, S., Orenes, I., and Johnson-Laird, P.N., 2014, “The Negation of Conjunctions, Conditionals, and Disjunctions”, _Acta Psychologica_, 151: 1–7.
-* Kneale, W., 1957, “Aristotle and the Consequentia Mirabilis”, _The Journal of Hellenic Studies_, 77: 62–66.
-* Kneale, W. and Kneale, M., 1962, _The Development of Logic_, London: Duckworth.
-* Lenzen, W., 2019, “Leibniz’s Laws of Consistency and the Philosophical Foundations of Connexive Logic”, _Logic and Logical Philosophy_, 28: 537–551.
-* Lenzen, W., 2020, “A Critical Examination of the Historical Origins of Connexive Logic”, _History and Philosophy of Logic_, 41: 16–35.
-* Lewis, D., 1973, _Counterfactuals_, Oxford: Basil Blackwell.
-* Lowe, E.J., 1995, “The Truth about Counterfactuals”, _The Philosophical Quarterly_, 45: 41–59.
-* Łukasiewicz, J. 1951, _Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic_, Oxford: Clarendon Press.
-* MacColl, H., 1878, “The Calculus of Equivalent Statements (II)”, _Proceedings of the London Mathematical Society 1877–78_, 9: 177–186.
-* Mares, E. and Paoli, F., 2019, “C.I. Lewis, E.J. Nelson, and the Modern Origins of Connexive Logic”, _Organon F_, 26: 405–426.
-* Martin, C.J., 1991, “The Logic of Negation in Boethius”, _Phronesis_, 36: 277–304.
-* –––, 2004, “Logic”, in: J. Brower and K. Guilfoy (eds), _The Cambridge Companion to Abelard_, Cambridge: Cambridge University Press, 158–199.
-* McCall, S., 1963, _Non-classical Propositional Calculi_, Ph.D. Dissertation, Oxford University.
-* ––– 1964, “A New Variety of Implication,” (abstract),_Journal of Symbolic Logic_, 29: 151–152.
-* –––, 1966, “Connexive Implication”, _Journal of Symbolic Logic_, 31: 415–433.
-* –––, 1967, “Connexive Implication and the Syllogism”, _Mind_, 76: 346–356.
-* –––, 1975, “Connexive Implication”, § 29.8 in: A.R. Anderson and N.D. Belnap, _Entailment. The Logic of Relevance and Necessity_ (Volume 1), Princeton: Princeton University Press, 434–446.
-* –––, 2012, “A History of Connexivity”, in: D.M. Gabbay _et al_. (eds), _Handbook of the History of Logic. Volume 11. Logic: A History of its Central Concepts_, Amsterdam: Elsevier, 415–449.
-* –––, 2014, “Connexive Gentzen”, _Logic Journal of the IGPL_, 22: 964–981.
-* Meyer, R.K, 1977, “S5–The Poor Man’s Connexive Implication”, _The Relevance Logic Newsletter_, 2: 117–123. \[[Meyer 1977 available online](http://aal.ltumathstats.com/curios/relevance-logic-newsletter).]
-* Meyer, R.K. and Martin, E.P., 1986, “Logic on the Australian Plan”, _Journal of Philosophical Logic_, 15: 305–332.
-* Mortensen, C., 1984, “Aristotle’s Thesis in Consistent and Inconsistent Logics”, _Studia Logica_, 43: 107–116.
-* Nasti De Vincentis, M., 2002, _Logiche della connessività. Fra logica moderna e storia della logica antica_, Bern: Haupt. 2002.
-* –––, 2004, “From Aristotle’s Syllogistic to Stoic Conditionals: _Holzwege_ or Detectable Paths?”, _Topoi_, 23: 113–37.
-* –––, 2006, “Conflict and Connectedness: Between Modern Logic and History of Ancient Logic”, in: E. Ballo and M. Franchella (eds), _Logic and Philosophy in Italy_, Monza: Polimetrica, 229–251.
-* Nelson, D., 1949, “Constructible Falsity”, _Journal of Symbolic Logic_, 14: 16–26.
-* Nelson, E.J., 1930, “Intensional Relations”, _Mind_, 39: 440–453.
-* Nute, D., 1980, _Topics in Conditional Logic_, Dordrecht: Reidel.
-* Odintsov, S., 2008, _Constructive Negations and Paraconsistency_, Dordrecht: Springer-Verlag.
-* Odintsov S., Skurt, D. and Wansing, H., 2019, “Connexive variants of modal logics over FDE”, in: A. Zamansky and O. Arieli (eds), _Arnon Avron on Semantics ands Proof Theory of Non-Classical Logics_,  Cham: Springer, 295–318.
-* Odintsov S. and Wansing, H., 2004, “Constructive Predicate Logic and Constructive Modal Logic. Formal Duality versus Semantical Duality”, in: V. Hendricks _et al_. (eds.), _First-Order Logic Revisited_, Berlin: Logos Verlag, 269–286.
-* –––, 2010, “Modal Logics with Belnapian Truth Values”, _Journal of Applied Non-Classical Logics_, 20: 279–301.
-* Olkhovikov, G.K., 2002, “On a New Three-Valued Paraconsistent Logic”, in: _Logic of Law and Tolerance_, Yekaterinburg: Ural State University Press, 96–113, translated by T.M. Ferguson, _IfCoLog Journal of Logics and their Applications_, 3: 317–334.
-* –––, 2016 “A Complete, Correct, and Independent Axiomatization of the First-Order Fragment of a Three-Valued Paraconsistent Logic”, _IfCoLog Journal of Logics and their Applications_, 3: 335–340.
-* Omori, H., 2016a, “A Simple Connexive Extension of the Basic Relevant Logic BD”, _IfCoLog Journal of Logics and their Applications_, 3: 467–478.
+* Almukdad A. and Nelson, D., 1984, “Constructible Falsity and Inexact Predicates”, *Journal of Symbolic Logic*, 49: 231–233.
+* Anderson, A.R. and Belnap, N.D., 1975, *Entailment: The Logic of Relevance and Necessity, Volume I*, Princeton: Princeton University Press.
+* Angell, R.B., 1962, “A Propositional Logic with Subjunctive Conditionals”, *Journal of Symbolic Logic*, 27: 327–343.
+* –––, 1967a, “Three Logics of Subjunctive Conditionals (Abstract)”, *Journal of Symbolic Logic*, 32: 297–308.
+* –––, 1967b, “Connexive Implication, Modal Logic and Subjunctive Conditionals”, lecture delivered in Chicago, 5 May 1967, *IfCoLog Journal of Logics and their Applications*, 2016, 3: 297–308.
+* –––, 1978, “Tre logiche dei condizionali congiuntivi”, in: C. Pizzi (ed), *Leggi di natura, modalità, ipotesi. La logica del ragionamento controfattuale*, Milan: Feltrinelli, 156–180; Italian translation of Angell 1966, see Other Internet Resources.
+* –––, 2002, *A-Logic*, Lanham: University Press of America.
+* Arieli, O. and Avron, A., 1996, “Reasoning with Logical Bilattices”, *Journal of Logic, Language and Information*, 5: 25–63
+* Avron, A., 1991, “Natural 3-valued Logics–Characterization and Proof Theory”, *Journal of Symbolic Logic*, 56: 276–294.
+* Belnap, N.D., 1970, “Conditional Assertion and Restricted Quantification”, *Noûs*, 4: 1–13.
+* Bennett, J., 2003, *A Philosophical Guide to Conditionals*, Oxford: Clarendon Press.
+* Besnard, P., 2011, “A Logical Analysis of Rule Inconsistency”, *International Journal of Semantic Computing*, 5: 271–280.
+* Bode, J., 1979, “The Possibility of a Conditional Logical ”, *Notre Dame Journal of Formal Logic*, 20: 147–154.
+* Boethius, A.M.S., 1860, *De Syllogismo Hypothetico*, J.P. Migne (ed.), Patrologia Latina 64, Paris, 831–876.
+* Brady, R., 1989, “A Routley-Meyer Affixing Style Semantics for Logics Containing Aristotle’s Thesis”, *Studia Logica*, 48: 235–241.
+* Cantwell, J., 2008, “The Logic of Conditional Negation”, *Notre Dame Journal of Formal Logic*, 49: 245–260.
+* Chellas, B., 1975, “Basic Conditional Logic”, *Journal of Philosophical Logic*, 4: 133–153.
+* Cooper, W., 1968, “The Propositional Logic of Ordinary Discourse”, *Inquiry*, 11: 295–320.
+* El-Rouayheb, K., 2009, “Impossible Antecedents and Their Consequences: Some Thirteenth- Century Arabic Discussions”, *History and Philosophy of Logic* 30: 209–225.
+* Egré, P. and Politzer, G., 2013, “On the negation of indicative conditionals”, in: M. Franke, M. Aloni and F. Roelofsen (eds), *Proceedings of the 19th Amsterdam Colloquium*, 10–18 \[[Egré & Politzer 2013 available online](http://maloni.humanities.uva.nl/AC2013/AC\proceedings.pdf)].
+* Estrada-González, L., 2008, “Weakened Semantics and the Traditional Square of Opposition”, *Logica Universalis*, 2: 155–165.
+* Estrada-González, L. and Ramirez-Cámara, E., 2016, “A Comparison of Connexive Logics”, *IfCoLog Journal of Logics and their Applications*, 3: 341–355.
+* –––, 2020, “A Nelsonian Response to ‘the Most Embarrassing of All Twelfth-century Arguments’”, *History and Philosophy of Logic*, 41: 101–113.
+* Ferguson, T.M., 2014, “Ramsey’s Footnote and Priest’s Connexive Logics”, abstract, ASL Logic Symposium 2012, *Bulletin of Symbolic Logic*, 20: 387–388.
+* –––, 2015, “Logics of Nonsense and Parry Systems”, *Journal of Philosophical Logic*, 44: 65–80.
+* –––, 2016, “On Arithmetic Formulated Connexively”, *IfCoLog Journal of Logics and their Applications*, 3: 357–376.
+* –––, 2019, “Inconsistent Models (and Infinite Models) for Arithmetics with Constructible Falsity”, *Logic and Logical Philosophy*, 28: 389–407.
+* Fine, K., 1986, “Analytic Implication”, *Notre Dame Journal of Formal Logic*, 27: 169–179.
+* Francez, N., 2016, “Natural Deduction for Two Connexive Logics”, *IfCoLog Journal of Logics and their Applications*, 3: 479–504.
+* –––, 2019 “Relevant Connexive Logic”, *Logic and Logical Philosophy*, 28: 409–425.
+* –––, 2020, “A Poly-Connexive Logic”, *Logic and Logical Philosophy*, 29: 143–157.
+* –––, 2021, *A View of Connexive Logic*, London: College Publications.
+* Gibbard, A. 1981, “Two Recent Theories of Conditionals”, in: W.L. Harper, R. Stalnaker, and C.T. Pearce (eds), *Ifs*, Dordrecht: Reidel.
+* Gurevich, Y., 1977, “Intuitionistic Logic with Strong Negation”, *Studia Logica*, 36: 49–59.
+* Humberstone, L., 2000, “Contra-Classical Logics”, *Australasian Journal of Philosophy*, 78(4): 438–474.
+* Jarmużek, T. and Malinowski, J., 2019a, “Boolean Connexive Logics: Semantics and Tableau Approach”, *Logic and Logical Philosophy*, 28: 427–448.
+* –––, 2019b, “Modal Boolean connexive logics. Semantic and tableau approach”, *Bulletin of the Section of Logic*, 48: 213–243.
+* Johnson, F.A., 1976, “A Three-valued Interpretation for a Relevance Logic”, *The Relevance Logic Newsletter*, 1: 123–128. \[[Johnson 1976 available online](http://aal.ltumathstats.com/curios/relevance-logic-newsletter).]
+* Johnston, S., 2019, “Per Se Modality and Natural Implication. An Account of Connexive Logic in Robert Kilwardby,” *Logic and Logical Philosophy*, 28: 449–479.
+* Kamide, N., 2016, “Cut-free Systems for Restricted Bi-intuitionistic Logic and its Connexive Extension”, *Proceedings of the 46th International Symposium on Multiple-Valued Logic (ISMVL)*, Sapporo, Japan, IEEE Computer Society, 137–142.
+* –––, 2017, “Natural Deduction for Connexive Paraconsistent Quantum Logic”, *Proceedings of the 47th International Symposium on Multiple-Valued Logic (ISMVL)*, Novi Sad, Serbia, IEEE Computer Society, 207–212.
+* –––, 2019, “Bi-Classical Connexive Logic and its Modal Extension: Cut-elimination, Completeness and Duality”, *Logic and Logical Philosophy*, 28: 481–511.
+* Kamide, N. and Wansing, H., 2011, “Connexive Modal Logic Based on Positive S4”, in: J.-Y. Beziau and M. Conigli (eds), *Logic without Frontiers. Festschrift for Walter Alexandre Carnielli on the Occasion of His 60th Birthday*, London: College Publications, 389–409.
+* –––, 2012, “Proof theory of Nelson’s Paraconsistent Logic: A Uniform Perspective”, *Theoretical Computer Science*, 415: 1–38.
+* –––, 2016, “Completeness of connexive Heyting-Brouwer logic”, *IfCoLog Journal of Logics and their Applications*, 3: 441–466.
+* Kamide, N., Shramko. Y., and Wansing, H., 2017, “Kripke Completeness of Bi-intuitionistic Multilattice Logic and its Connexive Variant”, *Studia Logica*, 105: 1193–1219.
+* Kapsner, A., 2012, “Strong Connexivity”, *Thought*, 1: 141–145.
+* –––, 2019, “Humble Connexivity”, *Logic and Logical Philosophy*, 28: 513–536.
+* Kapsner, A. and Omori, H., 2017, “Counterfactuals in Nelson Logic”, *Proceedings of LORI 2017*, Berlin: Springer, 497–511.
+* Khemlani, S., Orenes, I., and Johnson-Laird, P.N., 2014, “The Negation of Conjunctions, Conditionals, and Disjunctions”, *Acta Psychologica*, 151: 1–7.
+* Kneale, W., 1957, “Aristotle and the Consequentia Mirabilis”, *The Journal of Hellenic Studies*, 77: 62–66.
+* Kneale, W. and Kneale, M., 1962, *The Development of Logic*, London: Duckworth.
+* Lenzen, W., 2019, “Leibniz’s Laws of Consistency and the Philosophical Foundations of Connexive Logic”, *Logic and Logical Philosophy*, 28: 537–551.
+* Lenzen, W., 2020, “A Critical Examination of the Historical Origins of Connexive Logic”, *History and Philosophy of Logic*, 41: 16–35.
+* Lewis, D., 1973, *Counterfactuals*, Oxford: Basil Blackwell.
+* Lowe, E.J., 1995, “The Truth about Counterfactuals”, *The Philosophical Quarterly*, 45: 41–59.
+* Łukasiewicz, J. 1951, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, Oxford: Clarendon Press.
+* MacColl, H., 1878, “The Calculus of Equivalent Statements (II)”, *Proceedings of the London Mathematical Society 1877–78*, 9: 177–186.
+* Mares, E. and Paoli, F., 2019, “C.I. Lewis, E.J. Nelson, and the Modern Origins of Connexive Logic”, *Organon F*, 26: 405–426.
+* Martin, C.J., 1991, “The Logic of Negation in Boethius”, *Phronesis*, 36: 277–304.
+* –––, 2004, “Logic”, in: J. Brower and K. Guilfoy (eds), *The Cambridge Companion to Abelard*, Cambridge: Cambridge University Press, 158–199.
+* McCall, S., 1963, *Non-classical Propositional Calculi*, Ph.D. Dissertation, Oxford University.
+* ––– 1964, “A New Variety of Implication,” (abstract),*Journal of Symbolic Logic*, 29: 151–152.
+* –––, 1966, “Connexive Implication”, *Journal of Symbolic Logic*, 31: 415–433.
+* –––, 1967, “Connexive Implication and the Syllogism”, *Mind*, 76: 346–356.
+* –––, 1975, “Connexive Implication”, § 29.8 in: A.R. Anderson and N.D. Belnap, *Entailment. The Logic of Relevance and Necessity* (Volume 1), Princeton: Princeton University Press, 434–446.
+* –––, 2012, “A History of Connexivity”, in: D.M. Gabbay *et al*. (eds), *Handbook of the History of Logic. Volume 11. Logic: A History of its Central Concepts*, Amsterdam: Elsevier, 415–449.
+* –––, 2014, “Connexive Gentzen”, *Logic Journal of the IGPL*, 22: 964–981.
+* Meyer, R.K, 1977, “S5–The Poor Man’s Connexive Implication”, *The Relevance Logic Newsletter*, 2: 117–123. \[[Meyer 1977 available online](http://aal.ltumathstats.com/curios/relevance-logic-newsletter).]
+* Meyer, R.K. and Martin, E.P., 1986, “Logic on the Australian Plan”, *Journal of Philosophical Logic*, 15: 305–332.
+* Mortensen, C., 1984, “Aristotle’s Thesis in Consistent and Inconsistent Logics”, *Studia Logica*, 43: 107–116.
+* Nasti De Vincentis, M., 2002, *Logiche della connessività. Fra logica moderna e storia della logica antica*, Bern: Haupt. 2002.
+* –––, 2004, “From Aristotle’s Syllogistic to Stoic Conditionals: *Holzwege* or Detectable Paths?”, *Topoi*, 23: 113–37.
+* –––, 2006, “Conflict and Connectedness: Between Modern Logic and History of Ancient Logic”, in: E. Ballo and M. Franchella (eds), *Logic and Philosophy in Italy*, Monza: Polimetrica, 229–251.
+* Nelson, D., 1949, “Constructible Falsity”, *Journal of Symbolic Logic*, 14: 16–26.
+* Nelson, E.J., 1930, “Intensional Relations”, *Mind*, 39: 440–453.
+* Nute, D., 1980, *Topics in Conditional Logic*, Dordrecht: Reidel.
+* Odintsov, S., 2008, *Constructive Negations and Paraconsistency*, Dordrecht: Springer-Verlag.
+* Odintsov S., Skurt, D. and Wansing, H., 2019, “Connexive variants of modal logics over FDE”, in: A. Zamansky and O. Arieli (eds), *Arnon Avron on Semantics ands Proof Theory of Non-Classical Logics*,  Cham: Springer, 295–318.
+* Odintsov S. and Wansing, H., 2004, “Constructive Predicate Logic and Constructive Modal Logic. Formal Duality versus Semantical Duality”, in: V. Hendricks *et al*. (eds.), *First-Order Logic Revisited*, Berlin: Logos Verlag, 269–286.
+* –––, 2010, “Modal Logics with Belnapian Truth Values”, *Journal of Applied Non-Classical Logics*, 20: 279–301.
+* Olkhovikov, G.K., 2002, “On a New Three-Valued Paraconsistent Logic”, in: *Logic of Law and Tolerance*, Yekaterinburg: Ural State University Press, 96–113, translated by T.M. Ferguson, *IfCoLog Journal of Logics and their Applications*, 3: 317–334.
+* –––, 2016 “A Complete, Correct, and Independent Axiomatization of the First-Order Fragment of a Three-Valued Paraconsistent Logic”, *IfCoLog Journal of Logics and their Applications*, 3: 335–340.
+* Omori, H., 2016a, “A Simple Connexive Extension of the Basic Relevant Logic BD”, *IfCoLog Journal of Logics and their Applications*, 3: 467–478.
 * –––, 2016b, “A Note on Francez’ Half-Connexive Formula”, IfCoLog Journal of Logics and their Applications, 3: 505–512.
-* –––, 2016c, “From paraconsistent logic to dialetheic logic”, in: H. Andreas and P. Verdée (eds.), _Logical Studies of Paraconsistent Reasoning in Science and Mathematics_, Berlin: Springer, pp. 111–134.
-* –––, 2019, “Towards a Bridge over Two Approaches in Connexive Logic”, _Logic and Logical Philosophy_, 28: 553–566.
-* Omori H. and Sano, K., 2015, “Generalizing Functional Completeness in Belnap-Dunn Logic”, _Studia Logica_, 103: 883–917.
-* Omori H. and Wansing, H., 2017, “40 years of FDE:An Introductory Overview”, _Studia Logica_, 105: 1021–1049.
-* ––– 2018, “ On Contra-classical Variants of Nelson Logic N4 and its Classical Extension”, _Review of Symbolic Logic_, 11: 805–820.
-* –––, 2019, “Connexive Logics. An Overview and Current Trends”, _Logic and Logical Philosophy_, 28: 371–387.
-* Parry, W.T., 1933, “Ein Axiomensystem für eine neue Art von Implikation (analytische Implikation)”, _Ergebnisse eines mathematischen Kolloquiums_, 4: 5–6.
-* Pfeifer, N., 2012, “Experiments on Aristotle’s Thesis: Towards an experimental philosophy of conditionals”, _The Monist_, 95: 223–240.
-* Pfeifer, N. and Tulkki, L., 2017, “Conditionals, Counterfactuals, and Rational Reasoning. An Experimental Study on Basic Principles”, _Minds and Machines_, 27: 119–165.
-* Pfeifer, N. and Yama, H., 2017, “Counterfactuals, Indicative Conditionals, and Negation under Uncertainty: Are there Cross-cultural Differences?”, in: Gunzelmann, G., Howes, A., Tenbrink, T., and Davelaar, E. (eds), _Proceedings of the 39th Cognitive Science Society Meeting_, 2882–2887.
-* Pizzi, C., 1977, “Boethius’ Thesis and Conditional Logic”, _Journal of Philosophical Logic_, 6: 283–302.
-* –––, 1991, “Decision Procedures for Logics of Consequential Implication”, _Notre Dame Journal of Formal Logic_, 32: 618–636.
-* –––, 1993, “Consequential Implication: A Correction”, _Notre Dame Journal of Formal Logic_, 34: 621–624.
-* –––, 1996, “Weak vs. Strong Boethius’ Thesis: A Problem in the Analysis of Consequential Implication”, in: A. Ursini and P. Aglinanó (eds), _Logic and Algebra_, New York: Marcel Dekker, 647–654.
-* –––, 1999, “A Modal Framework for Consequential Implication and the Factor Law”, _Contemporary Mathematics_, 313–326.
-* –––, 2004, “Contenability and the Logic of Consequential Implication”, _Logic Journal of the IGPL_, 12: 561–579.
-* –––, 2005, “Aristotle’s Thesis between Paraconsistency and Modalization”, _Journal of Applied Logic_, 3: 119–131.
-* –––, 2008, “Aristotle’s Cubes and Consequential Implication”, _Logica Universalis_, 2: 143–153.
-* –––, 2018 “Two Kinds of Consequential Implication”, _Studia Logica_, 106: 453–480.
-* Pizzi, C. and Williamson, T., 1997, “Strong Boethius’ Thesis and Consequential Implication”, _Journal of Philosophical Logic_, 26: 569–588.
-* –––, 2005, “Conditional Excluded Middle in Systems of Consequential Implication”, _Journal of Philosophical Logic_, 34: 333–362.
-* Priest, G., 1999, “Negation as Cancellation and Connexive Logic”, _Topoi_, 18: 141–148.
-* Rahman, S. and Rückert, H., 2001, “Dialogical Connexive Logic”, _Synthese_, 127: 105–139.
-* Rahman, S. and Redmond, J., 2008, “Hugh MacColl and the Birth of Logical Pluralism”, in D. Gabbay and J. Woods (eds.), _British Logic in the Nineteenth Century_ (Handbook of the History of Logic: Volume 4), Amsterdam: Elsevier, 533–604.
-* Ramsey, F.P., 1929, “General Propositions and Causality”, in: F. Ramsey, _Philosophical Papers_, H. A. Mellor (ed.), Cambridge: Cambridge University Press, 1990.
-* Rooij, R. van and Schulz, K. 2019, “Conditionals, causality and conditional probability”, _Journal of Logic, Language and Information_, 28: 55–71.
-* –––, 2020, “Generics and typicality: A bounded rationality approach”, _Linguistics and Philosophy_, 43: 88–117.
-* Routley, R., 1974, “Semantical Analyses of Propositional Systems of Fitch and Nelson”, _Studia Logica_, 33: 283–298.
-* –––, 1978, “Semantics for Connexive Logics. I”, _Studia Logica_, 37: 393–412.
-* Routley, R., Meyer, R., Plumwood, V. and Brady, R., 1982, _Relevant Logics and Their Rivals_, Atascadero, CA: Ridgeview Publishing Company.
-* Routley, R. and Montgomery, H., 1968, “On Systems Containing Aristotle’s Thesis”, _Journal of Symbolic Logic_, 33: 82–96.
-* Routley, R. and Routley V., 1985, “Negation and Contradiction”, _Revista Columbiana de Mathemáticas_, 19: 201–231.
-* Sarenac, D. and Jennings, R.E., 2003, “The Preservation of Relevance”, _Eidos_, 17: 23–36.
-* Schroeder-Heister, P., 2009, “Sequent Calculi and Bidirectional Natural Deduction: on the Proper Basis of Proof-theoretic Semantics”, in: M. Peliš (ed), _The Logica Yearbook 2008_, London: College Publications, 237–251.
-* Schurz, G., 1998, “Relevance in Deductive Reasoning: a Critical Overview”, in: G. Schurz and M. Ursic (eds), _Beyond Classical Logic_, Conceptus-Studien, St. Augustin: Academia Verlag, 9–56.
-* Stalnaker, R. 1968, “A Theory of Conditionals”, in: N. Rescher (ed.), _Studies in Logical Theory_ (American Philosophical Quarterly Monograph Series: Volume 2), Oxford: Blackwell, 98–112.
-* Strawson, P., 1952, _Introduction to Logical Theory_, Oxford: Oxford University Press.
-* Sylvan, R., 1989, “A Preliminary Western History of Sociative Logics”, chapter 4 of _Bystanders’ Guide to Sociative Logics_, Research Series in Logic and Metaphysics #9, Australian National University, Canberra, published as chapter 5 of _Sociative Logics and their Applications. Essays by the Late Richard Sylvan_, D. Hyde and G. Priest (eds.), Aldershot: Ashgate Publishing, 2000.
-* Thomason, R., 1969, “A Semantical Study of Constructive Falsity”, _Zeitschrift für mathematische Logik und Grundlagen der Mathematik_, 15: 247–257.
-* Thompson, B., 1991, “Why is Conjunctive Simplification Invalid?”, _Notre Dame Journal of Formal Logic_, 32: 248–254.
-* Unterhuber, M., 2013, _Possible Worlds Semantics for Indicative and Counterfactual Conditionals. A Formal Philosophical Inquiry into Chellas-Segerberg Semantics_, Heusenstamm: Ontos Verlag.
-* Urchs, M., 1994, “On the Logic of Event-causation. Jaśkowski-style Systems of Causal Logic”, _Studia Logica_, 53: 551–578.
-* Wagner, G., 1991, Ex Contradictione Nihil Sequitur, in: _Proceedings IJCAI 1991_, San Francisco: Morgan Kaufmann, 538–543.
-* Wansing, H., 2001, “Negation”, in: L. Goble (ed.), _The Blackwell Guide to Philosophical Logic_, Cambridge, MA: Basil Blackwell Publishers, 415–436.
-* –––, 2005, “Connexive Modal Logic”, in R. Schmidt _et al_. (eds.), _Advances in Modal Logic. Volume 5_, London: King’s College Publications, 367–383. \[[Wansing 2005 available online](http://www.aiml.net/volumes/volume5/).]
-* –––, 2007, “A Note on Negation in Categorial Grammar”, _Logic Journal of the Interest Group in Pure and Applied Logics_, 15: 271–286.
-* –––, 2008, “Constructive Negation, Implication, and Co-implication”, _Journal of Applied Non-Classical Logics_, 18: 341–364.
-* –––, 2016a, “Falsification, natural deduction, and bi-intuitionistic logic”, _Journal of Logic and Computation_, 26 (2016): 425–450; first online 17 July 2013, doi:10.1093/logcom/ext035
-* –––, 2016b, “Natural Deduction for Bi-Connexive Logic and a Two-Sorted Typed λ-Calculus”, _IfCoLog Journal of Logics and their Applications_, 3: 413–439.
-* –––, 2017, “A more general general proof theory”, _Journal of Applied Logic_, 25: 23–46.
-* Wansing, H., Omori, H. and Ferguson, T.M., “The Tenacity of Connexive Logic: Preface to the Special Issue”, _IfCoLog Journal of Logics and their Applications_, 3: 279–296.
-* Wansing, H. and Skurt, D., 2018, “Negation as Cancellation, Connexive Logic, and qLPm”, _Australasian Journal of Logic_, 15: 476–488.
-* Wansing, H. and Unterhuber, M., 2019, “Connexive Conditional Logic. Part I”, _Logic and Logical Philosophy_, 28: 567–610.
-* Weiss, Y., 2019, “Connexive Extensions of Regular Conditional Logic”, _Logic and Logical Philosophy_, 28: 611–627.
-* Wiredu, J.E., 1974, “A Remark on a Certain Consequence of Connexive Logic for Zermelo’s Set Theory”, _Studia Logica_, 33: 127–130.
-* Woods, J., 1968, “ Two Objections to System CC1 of Connexive Implication”, _Dialogue_, 7: 473–475.
+* –––, 2016c, “From paraconsistent logic to dialetheic logic”, in: H. Andreas and P. Verdée (eds.), *Logical Studies of Paraconsistent Reasoning in Science and Mathematics*, Berlin: Springer, pp. 111–134.
+* –––, 2019, “Towards a Bridge over Two Approaches in Connexive Logic”, *Logic and Logical Philosophy*, 28: 553–566.
+* Omori H. and Sano, K., 2015, “Generalizing Functional Completeness in Belnap-Dunn Logic”, *Studia Logica*, 103: 883–917.
+* Omori H. and Wansing, H., 2017, “40 years of FDE:An Introductory Overview”, *Studia Logica*, 105: 1021–1049.
+* ––– 2018, “ On Contra-classical Variants of Nelson Logic N4 and its Classical Extension”, *Review of Symbolic Logic*, 11: 805–820.
+* –––, 2019, “Connexive Logics. An Overview and Current Trends”, *Logic and Logical Philosophy*, 28: 371–387.
+* Parry, W.T., 1933, “Ein Axiomensystem für eine neue Art von Implikation (analytische Implikation)”, *Ergebnisse eines mathematischen Kolloquiums*, 4: 5–6.
+* Pfeifer, N., 2012, “Experiments on Aristotle’s Thesis: Towards an experimental philosophy of conditionals”, *The Monist*, 95: 223–240.
+* Pfeifer, N. and Tulkki, L., 2017, “Conditionals, Counterfactuals, and Rational Reasoning. An Experimental Study on Basic Principles”, *Minds and Machines*, 27: 119–165.
+* Pfeifer, N. and Yama, H., 2017, “Counterfactuals, Indicative Conditionals, and Negation under Uncertainty: Are there Cross-cultural Differences?”, in: Gunzelmann, G., Howes, A., Tenbrink, T., and Davelaar, E. (eds), *Proceedings of the 39th Cognitive Science Society Meeting*, 2882–2887.
+* Pizzi, C., 1977, “Boethius’ Thesis and Conditional Logic”, *Journal of Philosophical Logic*, 6: 283–302.
+* –––, 1991, “Decision Procedures for Logics of Consequential Implication”, *Notre Dame Journal of Formal Logic*, 32: 618–636.
+* –––, 1993, “Consequential Implication: A Correction”, *Notre Dame Journal of Formal Logic*, 34: 621–624.
+* –––, 1996, “Weak vs. Strong Boethius’ Thesis: A Problem in the Analysis of Consequential Implication”, in: A. Ursini and P. Aglinanó (eds), *Logic and Algebra*, New York: Marcel Dekker, 647–654.
+* –––, 1999, “A Modal Framework for Consequential Implication and the Factor Law”, *Contemporary Mathematics*, 313–326.
+* –––, 2004, “Contenability and the Logic of Consequential Implication”, *Logic Journal of the IGPL*, 12: 561–579.
+* –––, 2005, “Aristotle’s Thesis between Paraconsistency and Modalization”, *Journal of Applied Logic*, 3: 119–131.
+* –––, 2008, “Aristotle’s Cubes and Consequential Implication”, *Logica Universalis*, 2: 143–153.
+* –––, 2018 “Two Kinds of Consequential Implication”, *Studia Logica*, 106: 453–480.
+* Pizzi, C. and Williamson, T., 1997, “Strong Boethius’ Thesis and Consequential Implication”, *Journal of Philosophical Logic*, 26: 569–588.
+* –––, 2005, “Conditional Excluded Middle in Systems of Consequential Implication”, *Journal of Philosophical Logic*, 34: 333–362.
+* Priest, G., 1999, “Negation as Cancellation and Connexive Logic”, *Topoi*, 18: 141–148.
+* Rahman, S. and Rückert, H., 2001, “Dialogical Connexive Logic”, *Synthese*, 127: 105–139.
+* Rahman, S. and Redmond, J., 2008, “Hugh MacColl and the Birth of Logical Pluralism”, in D. Gabbay and J. Woods (eds.), *British Logic in the Nineteenth Century* (Handbook of the History of Logic: Volume 4), Amsterdam: Elsevier, 533–604.
+* Ramsey, F.P., 1929, “General Propositions and Causality”, in: F. Ramsey, *Philosophical Papers*, H. A. Mellor (ed.), Cambridge: Cambridge University Press, 1990.
+* Rooij, R. van and Schulz, K. 2019, “Conditionals, causality and conditional probability”, *Journal of Logic, Language and Information*, 28: 55–71.
+* –––, 2020, “Generics and typicality: A bounded rationality approach”, *Linguistics and Philosophy*, 43: 88–117.
+* Routley, R., 1974, “Semantical Analyses of Propositional Systems of Fitch and Nelson”, *Studia Logica*, 33: 283–298.
+* –––, 1978, “Semantics for Connexive Logics. I”, *Studia Logica*, 37: 393–412.
+* Routley, R., Meyer, R., Plumwood, V. and Brady, R., 1982, *Relevant Logics and Their Rivals*, Atascadero, CA: Ridgeview Publishing Company.
+* Routley, R. and Montgomery, H., 1968, “On Systems Containing Aristotle’s Thesis”, *Journal of Symbolic Logic*, 33: 82–96.
+* Routley, R. and Routley V., 1985, “Negation and Contradiction”, *Revista Columbiana de Mathemáticas*, 19: 201–231.
+* Sarenac, D. and Jennings, R.E., 2003, “The Preservation of Relevance”, *Eidos*, 17: 23–36.
+* Schroeder-Heister, P., 2009, “Sequent Calculi and Bidirectional Natural Deduction: on the Proper Basis of Proof-theoretic Semantics”, in: M. Peliš (ed), *The Logica Yearbook 2008*, London: College Publications, 237–251.
+* Schurz, G., 1998, “Relevance in Deductive Reasoning: a Critical Overview”, in: G. Schurz and M. Ursic (eds), *Beyond Classical Logic*, Conceptus-Studien, St. Augustin: Academia Verlag, 9–56.
+* Stalnaker, R. 1968, “A Theory of Conditionals”, in: N. Rescher (ed.), *Studies in Logical Theory* (American Philosophical Quarterly Monograph Series: Volume 2), Oxford: Blackwell, 98–112.
+* Strawson, P., 1952, *Introduction to Logical Theory*, Oxford: Oxford University Press.
+* Sylvan, R., 1989, “A Preliminary Western History of Sociative Logics”, chapter 4 of *Bystanders’ Guide to Sociative Logics*, Research Series in Logic and Metaphysics #9, Australian National University, Canberra, published as chapter 5 of *Sociative Logics and their Applications. Essays by the Late Richard Sylvan*, D. Hyde and G. Priest (eds.), Aldershot: Ashgate Publishing, 2000.
+* Thomason, R., 1969, “A Semantical Study of Constructive Falsity”, *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 15: 247–257.
+* Thompson, B., 1991, “Why is Conjunctive Simplification Invalid?”, *Notre Dame Journal of Formal Logic*, 32: 248–254.
+* Unterhuber, M., 2013, *Possible Worlds Semantics for Indicative and Counterfactual Conditionals. A Formal Philosophical Inquiry into Chellas-Segerberg Semantics*, Heusenstamm: Ontos Verlag.
+* Urchs, M., 1994, “On the Logic of Event-causation. Jaśkowski-style Systems of Causal Logic”, *Studia Logica*, 53: 551–578.
+* Wagner, G., 1991, Ex Contradictione Nihil Sequitur, in: *Proceedings IJCAI 1991*, San Francisco: Morgan Kaufmann, 538–543.
+* Wansing, H., 2001, “Negation”, in: L. Goble (ed.), *The Blackwell Guide to Philosophical Logic*, Cambridge, MA: Basil Blackwell Publishers, 415–436.
+* –––, 2005, “Connexive Modal Logic”, in R. Schmidt *et al*. (eds.), *Advances in Modal Logic. Volume 5*, London: King’s College Publications, 367–383. \[[Wansing 2005 available online](http://www.aiml.net/volumes/volume5/).]
+* –––, 2007, “A Note on Negation in Categorial Grammar”, *Logic Journal of the Interest Group in Pure and Applied Logics*, 15: 271–286.
+* –––, 2008, “Constructive Negation, Implication, and Co-implication”, *Journal of Applied Non-Classical Logics*, 18: 341–364.
+* –––, 2016a, “Falsification, natural deduction, and bi-intuitionistic logic”, *Journal of Logic and Computation*, 26 (2016): 425–450; first online 17 July 2013, doi:10.1093/logcom/ext035
+* –––, 2016b, “Natural Deduction for Bi-Connexive Logic and a Two-Sorted Typed λ-Calculus”, *IfCoLog Journal of Logics and their Applications*, 3: 413–439.
+* –––, 2017, “A more general general proof theory”, *Journal of Applied Logic*, 25: 23–46.
+* Wansing, H., Omori, H. and Ferguson, T.M., “The Tenacity of Connexive Logic: Preface to the Special Issue”, *IfCoLog Journal of Logics and their Applications*, 3: 279–296.
+* Wansing, H. and Skurt, D., 2018, “Negation as Cancellation, Connexive Logic, and qLPm”, *Australasian Journal of Logic*, 15: 476–488.
+* Wansing, H. and Unterhuber, M., 2019, “Connexive Conditional Logic. Part I”, *Logic and Logical Philosophy*, 28: 567–610.
+* Weiss, Y., 2019, “Connexive Extensions of Regular Conditional Logic”, *Logic and Logical Philosophy*, 28: 611–627.
+* Wiredu, J.E., 1974, “A Remark on a Certain Consequence of Connexive Logic for Zermelo’s Set Theory”, *Studia Logica*, 33: 127–130.
+* Woods, J., 1968, “ Two Objections to System CC1 of Connexive Implication”, *Dialogue*, 7: 473–475.
 
 ## Academic Tools
 
@@ -685,8 +685,8 @@ Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的�
 * Angell, R.B., 1966, “[Three logics of subjunctive conditionals](http://www.rbangell.com/pdf/papers-articles/Three%20Logics%20of%20Subjunctive%20Conditionals%20%20001.PDF),” paper presented August 12, 1966 at Colloquium on Logic and Foundations of Mathematics, Hannover, Germany.
 * Estrada-González, L., 2019, “[The Bochum Plan and the Foundations of Contra-Classical Logics](https://www.cle.unicamp.br/eprints/index.php/CLE\e-Prints/about),” CLE e-Prints.
 * Vidal, M., 2017, “[When Conditional Logic met Connexive Logic](https://www.semanticscholar.org/paper/When-Conditional-Logic-met-Connexive-Logic-Vidal/f09b43946aecc562120f8cdb4e23f94498a1b43a),” IWCS 2017 – 12th International Conference on Computational Semantics.
-* _IfCoLog Journal of Logics and their Applications_, Vol. (3), No 3 (2016), “[Special Issue: Connexive Logics](https://www.collegepublications.co.uk/ifcolog/?00007).”
-* _Logic and Logical Philosophy_, Vol. 28, No 3 (2019), “[Special Issue: Advances in Connexive Logic](https://apcz.umk.pl/czasopisma/index.php/LLP/issue/view/1613/showToc).”
+* *IfCoLog Journal of Logics and their Applications*, Vol. (3), No 3 (2016), “[Special Issue: Connexive Logics](https://www.collegepublications.co.uk/ifcolog/?00007).”
+* *Logic and Logical Philosophy*, Vol. 28, No 3 (2019), “[Special Issue: Advances in Connexive Logic](https://apcz.umk.pl/czasopisma/index.php/LLP/issue/view/1613/showToc).”
 * [The connexive logic website](https://sites.google.com/site/connexivelogic/home). This is a website for everyone interested in connexive logic, collecting information about events on connexive logic and keeping an updated list of publications related to connexive logic.
 
 ## Related Entries
@@ -695,7 +695,7 @@ Pizzi 和 Williamson（1997）证明了 CI 可以被忠实地嵌入到正常的�
 
 ## Acknowledgments
 
-The author would like to thank Hitoshi Omori for many stimulating discussions on connexive logic and comments on a draft version of this entry, Wolfgang Lenzen for making available an excerpt from Boethius’ _De Syllogismo Hypothetico_, and Hans Rott and Andreas Kapsner for some helpful remarks.
+The author would like to thank Hitoshi Omori for many stimulating discussions on connexive logic and comments on a draft version of this entry, Wolfgang Lenzen for making available an excerpt from Boethius’ *De Syllogismo Hypothetico*, and Hans Rott and Andreas Kapsner for some helpful remarks.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[_Heinrich.Wansing@rub.de_](mailto:Heinrich%2eWansing%40rub%2ede)>
+[Heinrich Wansing](http://www.ruhr-uni-bochum.de/philosophy/logic/) <[*Heinrich.Wansing@rub.de*](mailto:Heinrich%2eWansing%40rub%2ede)>

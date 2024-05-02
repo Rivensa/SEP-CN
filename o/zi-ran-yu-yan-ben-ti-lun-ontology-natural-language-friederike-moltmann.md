@@ -1,9 +1,8 @@
 # 自然语言本体论 ontology, natural language (Friederike Moltmann)
 
-_首次发表于2022年8月17日星期三_
+*首次发表于2022年8月17日星期三*
 
 自然语言本体论是研究自然语言中隐含的本体论范畴、结构和概念的学科。自然语言本体论是“描述性形而上学”的一部分，用斯特劳森的术语来说（1959 年），与 Fine（2017a）所称的“基础形而上学”相对应，后者的兴趣在于最终存在的东西。自然语言本体论是哲学和语言学的一个子学科，更具体地说，是形而上学和自然语言语义学的一个子学科。通过近几十年来自然语言语义学的发展，它被认为是一个相对较新的独立研究领域。同时，当哲学家在支持形而上学论证或概念时利用语言时，自然语言本体论可以被视为他们在哲学历史中一直从事的一种实践。自然语言的本体论应与说话者基于哲学或天真的反思或推理使用语言所接受的本体论以及一般认知中反映的本体论区分开来。因此，自然语言的本体论最好被描述为能胜任的说话者通过使用语言隐含接受的本体论。
- 
 
 ***
 
@@ -418,129 +417,129 @@ b.
 ## Bibliography
 
 * Abney, Steven P., 1987, “The English Noun Phrase in Its Sentential Aspect”, PhD thesis, Massachusetts Institute of Technology, Cambridge, MA. \[[Abney 1987 available online](https://dspace.mit.edu/handle/1721.1/14638)]
-* Arapinis, Alexandra and Laure Vieu, 2015, “A Plea for Complex Categories in Ontologies”, _Applied Ontology_, 10(3–4): 285–296. doi:10.3233/AO-150156
-* Asher, Nicholas, 1993, _Reference to Abstract Objects in Discourse_, (Studies in Linguistics and Philosophy 50), Dordrecht/Boston: Kluwer Academics. doi:10.1007/978-94-011-1715-9
-* Austin, J. L., 1950, “Truth”, _Aristotelian Society Supplementary Volume_, 24: 111–128. Reprinted in his _Philosophical Papers_, Oxford: Clarendon Press 1961, third edition 1979: 117–133. doi:10.1093/aristoteliansupp/24.1.111
-* Azzouni, Jody, 2004, _Deflating Existential Consequence: A Case for Nominalism_, New York: Oxford University Press. doi:10.1093/0195159888.001.0001
-* Bach, Emmon, 1986, “Natural Language Metaphysics”, in _Logic, Methodology and Philosophy of Science VII_, Ruth Barcan Marcus, Georg J. W. Dorn, and Paul Weingartner (eds.), (Studies in Logic and the Foundations of Mathematics 114), Amsterdam: North Holland, 573–595. doi:10.1016/S0049-237X(09)70714-1
-* Bach, Emmon and Wynn Chao, 2012, “The Metaphysics of Natural Language(s)”, in _Philosophy of Linguistics_, Ruth M. Kempson, Tim Fernando, and Nicholas Asher (eds.), (Handbook of the Philosophy of Science 14), Amsterdam: North Holland, 175–196. doi:10.1016/B978-0-444-51747-0.50006-8
-* Barwise, Jon and John Perry, 1983, _Situations and Attitudes_, Cambridge, MA: The MIT Press.
-* Bealer, George, 1993, “Universals”, _Journal of Philosophy_, 90(1): 5–32. doi:10.2307/2940824
-* Boolos, George, 1998, “Must We Believe in Set Theory?”, in _Logic, Logic, and Logic_, Richard Jeffrey (ed.), Cambridge, MA: Harvard University Press, 120–132.
-* Borer, Hagit, 2005, _Structuring Sense, Volume I: In Name Only_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263905.001.0001
+* Arapinis, Alexandra and Laure Vieu, 2015, “A Plea for Complex Categories in Ontologies”, *Applied Ontology*, 10(3–4): 285–296. doi:10.3233/AO-150156
+* Asher, Nicholas, 1993, *Reference to Abstract Objects in Discourse*, (Studies in Linguistics and Philosophy 50), Dordrecht/Boston: Kluwer Academics. doi:10.1007/978-94-011-1715-9
+* Austin, J. L., 1950, “Truth”, *Aristotelian Society Supplementary Volume*, 24: 111–128. Reprinted in his *Philosophical Papers*, Oxford: Clarendon Press 1961, third edition 1979: 117–133. doi:10.1093/aristoteliansupp/24.1.111
+* Azzouni, Jody, 2004, *Deflating Existential Consequence: A Case for Nominalism*, New York: Oxford University Press. doi:10.1093/0195159888.001.0001
+* Bach, Emmon, 1986, “Natural Language Metaphysics”, in *Logic, Methodology and Philosophy of Science VII*, Ruth Barcan Marcus, Georg J. W. Dorn, and Paul Weingartner (eds.), (Studies in Logic and the Foundations of Mathematics 114), Amsterdam: North Holland, 573–595. doi:10.1016/S0049-237X(09)70714-1
+* Bach, Emmon and Wynn Chao, 2012, “The Metaphysics of Natural Language(s)”, in *Philosophy of Linguistics*, Ruth M. Kempson, Tim Fernando, and Nicholas Asher (eds.), (Handbook of the Philosophy of Science 14), Amsterdam: North Holland, 175–196. doi:10.1016/B978-0-444-51747-0.50006-8
+* Barwise, Jon and John Perry, 1983, *Situations and Attitudes*, Cambridge, MA: The MIT Press.
+* Bealer, George, 1993, “Universals”, *Journal of Philosophy*, 90(1): 5–32. doi:10.2307/2940824
+* Boolos, George, 1998, “Must We Believe in Set Theory?”, in *Logic, Logic, and Logic*, Richard Jeffrey (ed.), Cambridge, MA: Harvard University Press, 120–132.
+* Borer, Hagit, 2005, *Structuring Sense, Volume I: In Name Only*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263905.001.0001
 * Carlson, Gregory Norman, 1977, “Reference to Kinds in English.”, Ph.D. thesis, University of Massachusetts at Amherst. Published New York: Garland, 1980.
-* Champollion, Lucas and Manfred Krifka 2017, “Mereology”, in Paul Dekker and Maria Aloni (eds.): _Cambridge Handbook of Semantics_, 369–388. doi:10.1007/BF00632905
-* Chierchia, Gennaro, 1998, “Plurality of Mass Nouns and the Notion of ‘Semantic Parameter’”, in _Events and Grammar_, Susan Rothstein (ed.), (Studies in Linguistics and Philosophy 70), Dordrecht: Kluwer, 53–103. doi:10.1017/CB09781139236157.014
-* Chierchia, Gennaro and Raymond Turner, 1988, “Semantics and Property Theory”, _Linguistics and Philosophy_, 11(3): 261–302. doi:10.1007/BF00632905
-* Chomsky, Noam, 1981, _Lectures on Government and Binding. The Pisa Lectures_, (Convergence), Dordrecht: Foris Publications.
-* Chomsky, Noam, 1986, _Knowledge of Language: Its Nature, Origins, and Use_, (Convergence), Westport, CT/London: Praeger.
-* –––, 1995, “Language and Nature”, _Mind_, 104(413): 1–61. doi:10.1093/mind/104.413.1
-* –––, 2000, _New Horizons in the Study of Language and Mind_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511811937
-* Chomsky, Noam, 2013, “Notes on Denotation and Denoting”, in Ivano Caponigro and Carlo Cecchetto _From Grammar to Meaning. The Sponaneous Logicality of Language_, 38–46. Cambride: Cambridge University Press.
-* Cinque, Guglielmo and Luigi Rizzi, 2010, “The Cartography of Syntactic Structures”, in _The Oxford Handbook of Linguistic Analysis_, Bernd Heine and Heiko Narrog (eds.), (Oxford Handbooks in Linguistics), Oxford/New York: Oxford University Press, 51–65. doi:10.1093/oxfordhb/9780199544004.013.0003
-* Copley, Bridget and Heidi Harley, 2015, “A Force-Theoretic Framework for Event Structure”, _Linguistics and Philosophy_, 38(2): 103–158. doi:10.1007/s10988-015-9168-x
-* Cresswell, M. J., 1986, “Why Objects Exist but Events Occur”, _Studia Logica_, 45(4): 371–375. doi:10.1007/BF00370270
-* Davidson, Donald, 1967, “The Logical Form of Action Sentences”, in _The Logic of Decision and Action_, Nicholas Rescher (ed.), Pittsburgh, PA: University of Pittsburgh Press, 81–95.
-* Doetjes, Jenny, 2012, “Count/Mass Distinctions across Languages”, in _Semantics: An International Handbook of Natural Language Meaning, Volume 3_, Claudia Maienborn, Klaus von Heusinger, and Paul Portner (eds.), Berlin/Boston: De Gruyter, 2559–2580. doi:10.1515/9783110253382.2559
-* Edelberg, Walter, 1986, “A New Puzzle about Intentional Identity”, _Journal of Philosophical Logic_, 15(1): 1–25. doi:10.1007/BF00250547
-* Eklund, Matti, 2008, “The Picture of Reality as an Amorphous Lump”, in _Contemporary Debates in Metaphysics_, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), Malden, MA: Blackwell, 382–396.
-* Elbourne, Paul D., 2005, _Situations and Individuals_, (Current Studies in Linguistics 41), Cambridge, MA: MIT Press.
-* Fine, Kit, 1982, “The Problem of Non-Existents: I. Internalism”, _Topoi_, 1(1–2): 97–140. doi:10.1007/BF00157548
-* –––, 1999, “Things and Their Parts”, _Midwest Studies in Philosophy_, 23(1): 61–74. doi:10.1111/1475-4975.00004
-* –––, 2003, “The Non-Identity of a Material Thing and Its Matter”, _Mind_, 112(446): 195–234. doi:10.1093/mind/112.446.195
-* –––, 2006, “In Defense of Three-Dimensionalism”, _Journal of Philosophy_, 103(12): 699–714. doi:10.5840/jphil2006103126
-* –––, 2017a, “Naive Metaphysics”, _Philosophical Issues_, 27(1): 98–113. doi:10.1111/phis.12092
-* –––, 2017b, “Truthmaker Semantics”, in _A Companion to the Philosophy of Language_, Bob Hale, Crispin Wright, and Alexander Miller (eds.), second edition, Chichester, UK: Wiley Blackwell, II:556–577. doi:10.1002/9781118972090.ch22
-* Fiorin, Gaetano and Denis Delfitto, 2020, _Beyond Meaning: A Journey Across Language, Perception and Experience_, (Perspectives in Pragmatics, Philosophy & Psychology 25), Cham: Springer International Publishing. doi:10.1007/978-3-030-46317-5
-* Frege, Gottlob, 1884, _Die Grundlagen der Arithmetik_ (_Foundations of Arithmetic_), Breslau: Verlage Wilhelm Koebner.
-* –––, 1892, “Funktion und Begriff”, Jena: Hermann Pohle. Reprinted in his _Funktion, Begriff, Bedeutung: Fünf Logische Studien_, Günther Patzig (ed.), (Kleine Vandenhoeck-Reihe 144/145), Göttingen: Vandenhoeck & Ruprecht, 1962. Translated as “Function and Concept” by P. Geach in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds. and trans.), 1980, Oxford: Blackwell, pp. 21–41.
-* –––, 1918/19, “Der Gedanke. Eine Logische Untersuchung”, _Beiträge zur Philosophie des deutschen Idealismus_, 1: 58–77. Translated by P. Geach and R. Stoothoff as “Thoughts” in Frege’s _Collected Papers on Mathematics, Logic, and Philosophy_, Brian McGuinness (ed.), Oxford: Blackwell, 1984, pp. 351–372.
-* Gil, David, 2000, “Syntactic Categories, Cross-Linguistic Variation and Universal Grammar”, in _Approaches to the Typology of Word Classes_, Petra M. Vogel and Bernard Comrie (eds.), (Empirical Approaches to Language Typology 23), New York: De Gruyter Mouton, 173–216. doi:10.1515/9783110806120.173
-* Grosu, Alexander and Manfred Krifka, 2007, “_The Gifted Mathematician That You Claim to Be_: Equational Intensional ‘Reconstruction’ Relatives”, _Linguistics and Philosophy_, 30(4): 445–485. doi:10.1007/s10988-008-9022-5
-* Hacker, P. M. S., 1982, “Events, Ontology and Grammar”, _Philosophy_, 57(222): 477–486. doi:10.1017/S0031819100056102
-* Hale, Bob, 1987, _Abstract Objects_, (Philosophical Theory), Oxford/New York: B. Blackwell.
-* Hale, Kenneth L. and Samuel Jay Keyser, 2002, _Prolegomenon to a Theory of Argument Structure_, (Linguistic Inquiry Monographs 39), Cambridge, MA: MIT Press.
-* Halle, Morris and Alec Marantz, 1993, “Distributive Morphology and the Pieces of Inflection”, in _The View from Building 20: Essays in Linguistics in Honor of Sylvain Bromberger_, Kenneth L. Hale, Samuel Jay Keyser, and Sylvain Bromberger (eds.), (Current Studies in Linguistics 24), Cambridge, Mass: MIT Press, 111–176.
-* Harves, Stephanie and Richard S. Kayne, 2012, “Having ‘Need’ and Needing ‘Have’”, _Linguistic Inquiry_, 43(1): 120–132. doi:10.1162/LING\_a\_00076
-* Hespos, Susan J. and Elizabeth S. Spelke, 2004, “Conceptual Precursors to Language”, _Nature_, 430(6998): 453–456. doi:10.1038/nature02634
-* Hinzen, Wolfram and Martina Wiltschko, forthcoming, “The Grammar of Truth”, _Inquiry_, first online: 29 October 2018, 33 pages. doi:10.1080/0020174X.2018.1532691
-* Hofweber, Thomas, 2016, _Ontology and the Ambitions of Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198769835.001.0001
-* Karttunen, Lauri, 1976, “Discourse Referents”, in _Notes from the Linguistic Underground_, James D. McCawley (ed.), (Syntax and Semantics 7), New York: Academic Press, 363–386.
-* Kayne, Richard S., 2005, _Movement and Silence_, (Oxford Studies in Comparative Syntax), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195179163.001.0001
-* Kennedy, Christopher, 2007, “Vagueness and Grammar: The Semantics of Relative and Absolute Gradable Adjectives”, _Linguistics and Philosophy_, 30(1): 1–45. doi:10.1007/s10988-006-9008-0
-* Kim, Jaegwon, 1976, “Events as Property Exemplifications”, in _Action Theory_, Myles Brand and Douglas Walton (eds.), Dordrecht: Reidel, 159–177. doi:10.1007/978-94-010-9074-2\_9
-* Kripke, Saul A., 2013, _Reference and Existence: The John Locke Lectures_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199928385.001.0001
-* Landman, Fred, 1986, “Pegs and Alecs”, in his _Towards a Theory of Information: The Status of Partial Objects in Semantics_, (GRASS 6), Dordrecht: Foris, 97–155.
-* Laycock, Henry, 2006, _Words without Objects: Semantics, Ontology, and Logic for Non-Singularity_, Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
-* Liebesman, David and Ofra Magidor, 2017, “Copredication and Property Inheritance: Copredication and Property Inheritance”, _Philosophical Issues_, 27(1): 131–166. doi:10.1111/phis.12104
-* Liebesman, David 2015, “Predication as Ascription”, _Mind_, 124(494): 217–569. doi:10.1093/fzu182
-* Link, Godehard, 1983, “The Logical Analysis of Plurals and Mass Nouns”, in _Meaning, Use, and Interpretation of Language_, Rainer Bäeuerle, Christoph Schwarze, and Arnim von Stechow (eds.), Berlin/New York: De Gruyter, 302–323.
-* Lowe, E. J., 2006, _The Four-Category Ontology: A Metaphysical Foundation for Natural Science_, Oxford: Clarendon Press. doi:10.1093/0199254397.001.0001
-* Ludlow, Peter, 1999, _Semantics, Tense, and Time: An Essay in the Metaphysics of Natural Language_, Cambridge, MA: MIT Press.
-* Magidor, Ofra, 2013, _Category Mistakes_, (Oxford Philosophical Monographs), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199572977.001.0001
-* Maienborn, Claudia, 2007, “On Davidsonian and Kimian States”, in _Existence: Semantics and Syntax_, Ileana Comorovski and Klaus von Heusinger (eds.), (Studies in Linguistics and Philosophy 84), Dordrecht: Springer Netherlands, 107–130. doi:10.1007/978-1-4020-6197-4\_4
-* McGinn, Colin, 2000, _Logical Properties: Identity, Existence, Predication, Necessity, Truth_, Oxford: Clarendon Press. doi:10.1093/0199241813.001.0001
-* McKay, Thomas J., 2006, _Plural Predication_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199278145.001.0001
-* –––, 2016, “Mass and Plural”, in _Unity and Plurality: Logic, Philosophy, and Linguistics_, Massimiliano Carrara, Alexandra Arapinis, and Friederike Moltmann (eds.), Oxford: Oxford University Press, 171–193. doi:10.1093/acprof:oso/9780198716327.003.0008
-* Moltmann, Friederike, 1997, _Parts and Wholes in Semantics_, New York: Oxford University Press.
-* –––, 2013, _Abstract Objects and the Semantics of Natural Language_, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199608744.001.0001
-* –––, 2015, “Quantification with Intentional and with Intensional Verbs”, in _Quantifiers, Quantifiers, and Quantifiers: Themes in Logic, Metaphysics, and Language_, Alessandro Torza (ed.), (Synthese Library 373), Cham: Springer International Publishing, 141–168. doi:10.1007/978-3-319-18362-6\_8
-* –––, 2016, “Quantification with Intentional and with Intensional Verbs,” in A. Torza (ed.), _Quantifiers, Quantifiers, Quantifiers_, Dordrecht: Springer, Synthese Library, pp. 141–168.
-* –––, 2019, “Natural Language and Its Ontology”, in _Metaphysics and Cognitive Science_, Alvin I. Goldman and Brian P. McLaughlin (eds.), Oxford: Oxford University Press, 206–232. doi:10.1093/oso/9780190639679.003.0009
-* –––, 2020a, “Natural Language Ontology”, in _The Routledge Handbook of Metametaphyics_, Ricki Bliss and J. T. M. Miller (eds.), New York: Routledge, ch. 25.
-* –––, 2020b, “Existence Predicates”, _Synthese_, 197(1): 311–335. doi:10.1007/s11229-018-1847-z
-* –––, 2020c, “Abstract Objects and the Core-Periphery Distinction in the Ontological and the Conceptual Domain of Natural Language”, in _Abstract Objects: For and Against_, José L. Falguera and Concha Martínez-Vidal (eds.), (Synthese Library 422), Cham: Springer International Publishing, 255–276. doi:10.1007/978-3-030-38242-1\_13
-* –––, 2021a, “Situations, Alternatives, and the Semantics of ‘Cases’”, _Linguistics and Philosophy_, 44(1): 153–193. doi:10.1007/s10988-019-09282-7
-* –––, 2021b, “Truth Predicates, Truth Bearers, and Their Variants”, _Synthese_, 198(S2): 689–716. doi:10.1007/s11229-018-1814-8
-* Montague, Richard, 1974, _Formal Philosophy: Selected Papers of Richard Montague_, Richmond H. Thomason (ed.), New Haven, CT: Yale University Press.
-* Ojeda, Almerindo E., 1993, _Linguistic Individuals_, (CSLI Lecture Notes 31), Stanford, CA: CSLI Publications.
-* Oliver, Alex and Timothy Smiley, 2013, _Plural Logic_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199570423.001.0001
-* Parsons, Terence, 1980, _Nonexistent Objects_, New Haven, CT: Yale University Press.
-* Pelletier, Jeffry, 2011, “Descriptive Metaphysics, Natural Language Metaphysics, Sapir-Whorf, and All That Stuff”, _Baltic International Yearbook of Cognition, Language, and Communication_ 6.
-* Pelletier, Jeffry, and Leonard Schubert 1989/2003, “Mass Expressions”, in Franz Guenthner and Dov Gabbay (eds.), _Handbook of Philosophical Logic_ 2nd edition, vol. 10, 249–336; updated version of the 1989 version in the 1st edition of _Handbook of Philosophical Logic_.
-* Perry, John, 1986, “Thought without Representation”, _Aristotelian Society Supplementary Volume_, 60: 137–151. doi:10.1093/aristoteliansupp/60.1.137
-* Pietroski, Paul M., 2018, _Conjoining Meanings: Semantics without Truth Values_, (Context and Content), Oxford: Oxford University Press. doi:10.1093/oso/9780198812722.001.0001
-* Pinker, Steven, 1994, _The Language Instinct_, New York: W. Morrow and Co.
-* Postal, Paul M., 2018, “The Ontology of Natural Language”, in _Essays on Linguistic Realism_, Christina Behme and Martin Neef (eds.), (Studies in Language Companion Series 196), Amsterdam/Philadelphia: John Benjamins Publishing Company, 1–6.
-* Priest, Graham, 2015, _Towards Nonbeing. The Logic and Metaphysics of Intentionality_, Oxford: Oxford University Press.
-* Pustejovsky, James, 1995, _The Generative Lexicon_, Cambridge: MIT Press.
-* Quine, W. V., 1948, “On What There Is”, _The Review of Metaphysics_, 2(5): 21–38. Reprinted in his _From a Logical Point of View_, Cambridge, MA: Harvard University Press, 1953, 1–19.
-* Ramchand, Gilllian, 2018, _Situations and Syntactic Structures_, Cambridge: MIT Press.
-* Récanati, François, 2010, _Truth-Conditional Pragmatics_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199226993.001.0001
-* Romero, Maribel, 2005, “Concealed Questions and Specificational Subjects”, _Linguistics and Philosophy_, 28(6): 687–737. doi:10.1007/s10988-005-2654-9
-* Rose, David and Jonathan Schaffer, 2017, “Folk Mereology Is Teleological”, _Noûs_, 51(2): 238–270. doi:10.1111/nous.12123
-* Rosefeldt, Tobias, 2008, “‘That’-Clauses and Non-Nominal Quantification”, _Philosophical Studies_, 137(3): 301–333. doi:10.1007/s11098-006-0002-8
-* Rothstein, Susan, 2017, _Semantics for Counting ad Measuring_, Cambridge: Cambridge University Press. doi:10.1017/978051.173.4830
-* Sainsbury, R. M., 2005, _Reference without Referents_, Oxford: Clarendon Press. doi:10.1093/0199241805.001.0001
-* Salmon, Nathan, 1987, “Existence”, _Philosophical Perspectives_, 1: 49–108. doi:10.2307/2214143
-* –––, 1998, “Nonexistence”, _Noûs_, 32(3): 277–319. doi:10.1111/0029-4624.00101
-* Schaffer, Jonathan, 2019, “Cognitive Science and Metaphysics: Partners in Debunking”, in _Metaphysics and Cognitive Science_, Alvin I. Godman and Brian P. McLaughlin (eds.), Oxford: Oxford University Press, 38–70. doi:10.1093/oso/9780190639679.003.0003
-* Schaffer, Jonathan, 2019, “What grounds What”, in _Metametaphysics_, David Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Oxford University Press, 347–383. doi:10.1093/oso/9780190639679.003.0003
-* Schiffer, Stephen, 1996, “Language-Created Language-Independent Entities”:, _Philosophical Topics_, 24(1): 149–167. doi:10.5840/philtopics199624117
-* Simons, Peter, 1987, _Parts: A Study in Ontology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199241460.001.0001
-* Stephenson, Tamina, 2007, “Judge Dependence, Epistemic Modals, and Predicates of Personal Taste”, _Linguistics and Philosophy_, 30(4): 487–525. doi:10.1007/s10988-008-9023-4
-* Strawson, P.F., 1950, “Truth”, _Aristotelian Society Supplementary Volume_, 24(1): 111–172. Reprinted in his _Logico-Linguistic Papers_, London: Methuen, 1971, pp. 190–213. doi:10.1093/aristoteliansupp/24.1.111
-* –––, 1959, _Individuals: An Essay in Descriptive Metaphysics_, London: Methuen.
-* Swanson, Eric, 2012, “The Language of Causation,” in _The Routledge Companion to Philosophy of Language_, Gillian Russell and Delia Graff Fara (eds), New York/London: Routledge, 716–728 (6.3.1).
-* Szabó, Zoltán Gendler, 2006, “Counting across Times”, _Philosophical Perspectives_, 20(1): 399–426. doi:10.1111/j.1520-8583.2006.00113.x
-* –––, 2015, “Major Parts of Speech”, _Erkenntnis_, 80(S1): 3–29. doi:10.1007/s10670-014-9658-1
-* Thomasson, Amie L., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527463
-* Twardowski, Kazimierz, 1911, “O czynnościach i wytworach. Kilka uwag z pogranicza psychologii, gramatyki i logiki”, Lwdw: Uniwersytetu Lwowskiego. Translated as “Actions and Products. Some Remarks from the Borderline of Psychology, Grammar and Logic”, in _Kazimierz Twardowski. On Actions, Products and Other Topics in the Philosophy_, Johannes L. Brandl and Jan Woleński (eds.) and Arthur Szylewicz (trans.), Amsterdam/Atlanta: Rodopi, 1999, 103–132.
-* Van Inwagen, Peter, 1977, “Creatures of Fiction”, _American Philosophical Quarterly_, 14(4): 299–308.
-* –––, 2003, “Existence, Ontological Commitment, and Fictional Entities”, in _The Oxford Handbook of Metaphysics_, Michael J. Loux and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 131–158. doi:10.1093/oxfordhb/9780199284221.003.0006
-* Vendler, Zeno, 1967, _Linguistics in Philosophy_, Ithaca, NY: Cornell University Press.
-* –––, 1972, _Res Cogitans: An Essay in Rational Psychology_, (Contemporary Philosophy), Ithaca, NY: Cornell University Press.
-* Vieu, Laure, 2006, “On the Transitivity of Functional Parthood”, _Applied Ontology_, 1(2): 147–155.
-* Wellwood, Alexis, 2015, “On the Semantics of Comparison across Categories”, _Linguistics and Philosophy_, 38(1): 67–101. doi:10.1007/s10988-015-9165-0
-* Wellwood, Alexis, Valentine Hacquard, and Roumyana Pancheva, 2012, “Measuring and Comparing Individuals and Events”, _Journal of Semantics_, 29(2): 207–228. doi:10.1093/jos/ffr006
-* Wetzel, Linda, 2009, _Types and Tokens: On Abstract Objects_, Cambridge, MA: MIT Press.
-* Williams, Donald C., 1953, “On the Eelements of Being”, _The Review of Metaphysics_, 7: 3–18 (Part I), 171–192 (Part II).
-* Wisniewski, Edward J., Mutsumi Imai, and Lyman Casey, 1996, “On the Equivalence of Superordinate Concepts”, _Cognition_, 60(3): 269–298. doi:10.1016/0010-0277(96)00707-X
-* Wolterstorff, Nicholas, 1970, _On Universals: An Essay in Ontology_, Chicago: University of Chicago Press.
-* Wright, Crispin, 1983, _Frege’s Conception of Numbers as Objects_, (Scots Philosophical Monographs 2), Aberdeen: Aberdeen University Press.
-* Yi, Byeong-Uk, 2005, “The Logic and Meaning of Plurals. Part I”, _Journal of Philosophical Logic_, 34(5–6): 459–506. doi:10.1007/s10992-005-0560-9
-* –––, 2006, “The Logic and Meaning of Plurals. Part II”, _Journal of Philosophical Logic_, 35(3): 239–288. doi:10.1007/s10992-005-9015-6
-* Zalta, Edward N., 1983, _Abstract Objects: An Introduction to Axiomatic Metaphysics_, (Synthese Library 160), Dordrecht: D. Reidel.
+* Champollion, Lucas and Manfred Krifka 2017, “Mereology”, in Paul Dekker and Maria Aloni (eds.): *Cambridge Handbook of Semantics*, 369–388. doi:10.1007/BF00632905
+* Chierchia, Gennaro, 1998, “Plurality of Mass Nouns and the Notion of ‘Semantic Parameter’”, in *Events and Grammar*, Susan Rothstein (ed.), (Studies in Linguistics and Philosophy 70), Dordrecht: Kluwer, 53–103. doi:10.1017/CB09781139236157.014
+* Chierchia, Gennaro and Raymond Turner, 1988, “Semantics and Property Theory”, *Linguistics and Philosophy*, 11(3): 261–302. doi:10.1007/BF00632905
+* Chomsky, Noam, 1981, *Lectures on Government and Binding. The Pisa Lectures*, (Convergence), Dordrecht: Foris Publications.
+* Chomsky, Noam, 1986, *Knowledge of Language: Its Nature, Origins, and Use*, (Convergence), Westport, CT/London: Praeger.
+* –––, 1995, “Language and Nature”, *Mind*, 104(413): 1–61. doi:10.1093/mind/104.413.1
+* –––, 2000, *New Horizons in the Study of Language and Mind*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511811937
+* Chomsky, Noam, 2013, “Notes on Denotation and Denoting”, in Ivano Caponigro and Carlo Cecchetto *From Grammar to Meaning. The Sponaneous Logicality of Language*, 38–46. Cambride: Cambridge University Press.
+* Cinque, Guglielmo and Luigi Rizzi, 2010, “The Cartography of Syntactic Structures”, in *The Oxford Handbook of Linguistic Analysis*, Bernd Heine and Heiko Narrog (eds.), (Oxford Handbooks in Linguistics), Oxford/New York: Oxford University Press, 51–65. doi:10.1093/oxfordhb/9780199544004.013.0003
+* Copley, Bridget and Heidi Harley, 2015, “A Force-Theoretic Framework for Event Structure”, *Linguistics and Philosophy*, 38(2): 103–158. doi:10.1007/s10988-015-9168-x
+* Cresswell, M. J., 1986, “Why Objects Exist but Events Occur”, *Studia Logica*, 45(4): 371–375. doi:10.1007/BF00370270
+* Davidson, Donald, 1967, “The Logical Form of Action Sentences”, in *The Logic of Decision and Action*, Nicholas Rescher (ed.), Pittsburgh, PA: University of Pittsburgh Press, 81–95.
+* Doetjes, Jenny, 2012, “Count/Mass Distinctions across Languages”, in *Semantics: An International Handbook of Natural Language Meaning, Volume 3*, Claudia Maienborn, Klaus von Heusinger, and Paul Portner (eds.), Berlin/Boston: De Gruyter, 2559–2580. doi:10.1515/9783110253382.2559
+* Edelberg, Walter, 1986, “A New Puzzle about Intentional Identity”, *Journal of Philosophical Logic*, 15(1): 1–25. doi:10.1007/BF00250547
+* Eklund, Matti, 2008, “The Picture of Reality as an Amorphous Lump”, in *Contemporary Debates in Metaphysics*, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), Malden, MA: Blackwell, 382–396.
+* Elbourne, Paul D., 2005, *Situations and Individuals*, (Current Studies in Linguistics 41), Cambridge, MA: MIT Press.
+* Fine, Kit, 1982, “The Problem of Non-Existents: I. Internalism”, *Topoi*, 1(1–2): 97–140. doi:10.1007/BF00157548
+* –––, 1999, “Things and Their Parts”, *Midwest Studies in Philosophy*, 23(1): 61–74. doi:10.1111/1475-4975.00004
+* –––, 2003, “The Non-Identity of a Material Thing and Its Matter”, *Mind*, 112(446): 195–234. doi:10.1093/mind/112.446.195
+* –––, 2006, “In Defense of Three-Dimensionalism”, *Journal of Philosophy*, 103(12): 699–714. doi:10.5840/jphil2006103126
+* –––, 2017a, “Naive Metaphysics”, *Philosophical Issues*, 27(1): 98–113. doi:10.1111/phis.12092
+* –––, 2017b, “Truthmaker Semantics”, in *A Companion to the Philosophy of Language*, Bob Hale, Crispin Wright, and Alexander Miller (eds.), second edition, Chichester, UK: Wiley Blackwell, II:556–577. doi:10.1002/9781118972090.ch22
+* Fiorin, Gaetano and Denis Delfitto, 2020, *Beyond Meaning: A Journey Across Language, Perception and Experience*, (Perspectives in Pragmatics, Philosophy & Psychology 25), Cham: Springer International Publishing. doi:10.1007/978-3-030-46317-5
+* Frege, Gottlob, 1884, *Die Grundlagen der Arithmetik* (*Foundations of Arithmetic*), Breslau: Verlage Wilhelm Koebner.
+* –––, 1892, “Funktion und Begriff”, Jena: Hermann Pohle. Reprinted in his *Funktion, Begriff, Bedeutung: Fünf Logische Studien*, Günther Patzig (ed.), (Kleine Vandenhoeck-Reihe 144/145), Göttingen: Vandenhoeck & Ruprecht, 1962. Translated as “Function and Concept” by P. Geach in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds. and trans.), 1980, Oxford: Blackwell, pp. 21–41.
+* –––, 1918/19, “Der Gedanke. Eine Logische Untersuchung”, *Beiträge zur Philosophie des deutschen Idealismus*, 1: 58–77. Translated by P. Geach and R. Stoothoff as “Thoughts” in Frege’s *Collected Papers on Mathematics, Logic, and Philosophy*, Brian McGuinness (ed.), Oxford: Blackwell, 1984, pp. 351–372.
+* Gil, David, 2000, “Syntactic Categories, Cross-Linguistic Variation and Universal Grammar”, in *Approaches to the Typology of Word Classes*, Petra M. Vogel and Bernard Comrie (eds.), (Empirical Approaches to Language Typology 23), New York: De Gruyter Mouton, 173–216. doi:10.1515/9783110806120.173
+* Grosu, Alexander and Manfred Krifka, 2007, “*The Gifted Mathematician That You Claim to Be*: Equational Intensional ‘Reconstruction’ Relatives”, *Linguistics and Philosophy*, 30(4): 445–485. doi:10.1007/s10988-008-9022-5
+* Hacker, P. M. S., 1982, “Events, Ontology and Grammar”, *Philosophy*, 57(222): 477–486. doi:10.1017/S0031819100056102
+* Hale, Bob, 1987, *Abstract Objects*, (Philosophical Theory), Oxford/New York: B. Blackwell.
+* Hale, Kenneth L. and Samuel Jay Keyser, 2002, *Prolegomenon to a Theory of Argument Structure*, (Linguistic Inquiry Monographs 39), Cambridge, MA: MIT Press.
+* Halle, Morris and Alec Marantz, 1993, “Distributive Morphology and the Pieces of Inflection”, in *The View from Building 20: Essays in Linguistics in Honor of Sylvain Bromberger*, Kenneth L. Hale, Samuel Jay Keyser, and Sylvain Bromberger (eds.), (Current Studies in Linguistics 24), Cambridge, Mass: MIT Press, 111–176.
+* Harves, Stephanie and Richard S. Kayne, 2012, “Having ‘Need’ and Needing ‘Have’”, *Linguistic Inquiry*, 43(1): 120–132. doi:10.1162/LING\_a\_00076
+* Hespos, Susan J. and Elizabeth S. Spelke, 2004, “Conceptual Precursors to Language”, *Nature*, 430(6998): 453–456. doi:10.1038/nature02634
+* Hinzen, Wolfram and Martina Wiltschko, forthcoming, “The Grammar of Truth”, *Inquiry*, first online: 29 October 2018, 33 pages. doi:10.1080/0020174X.2018.1532691
+* Hofweber, Thomas, 2016, *Ontology and the Ambitions of Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198769835.001.0001
+* Karttunen, Lauri, 1976, “Discourse Referents”, in *Notes from the Linguistic Underground*, James D. McCawley (ed.), (Syntax and Semantics 7), New York: Academic Press, 363–386.
+* Kayne, Richard S., 2005, *Movement and Silence*, (Oxford Studies in Comparative Syntax), New York: Oxford University Press. doi:10.1093/acprof:oso/9780195179163.001.0001
+* Kennedy, Christopher, 2007, “Vagueness and Grammar: The Semantics of Relative and Absolute Gradable Adjectives”, *Linguistics and Philosophy*, 30(1): 1–45. doi:10.1007/s10988-006-9008-0
+* Kim, Jaegwon, 1976, “Events as Property Exemplifications”, in *Action Theory*, Myles Brand and Douglas Walton (eds.), Dordrecht: Reidel, 159–177. doi:10.1007/978-94-010-9074-2\_9
+* Kripke, Saul A., 2013, *Reference and Existence: The John Locke Lectures*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199928385.001.0001
+* Landman, Fred, 1986, “Pegs and Alecs”, in his *Towards a Theory of Information: The Status of Partial Objects in Semantics*, (GRASS 6), Dordrecht: Foris, 97–155.
+* Laycock, Henry, 2006, *Words without Objects: Semantics, Ontology, and Logic for Non-Singularity*, Oxford: Oxford University Press. doi:10.1093/0199281718.001.0001
+* Liebesman, David and Ofra Magidor, 2017, “Copredication and Property Inheritance: Copredication and Property Inheritance”, *Philosophical Issues*, 27(1): 131–166. doi:10.1111/phis.12104
+* Liebesman, David 2015, “Predication as Ascription”, *Mind*, 124(494): 217–569. doi:10.1093/fzu182
+* Link, Godehard, 1983, “The Logical Analysis of Plurals and Mass Nouns”, in *Meaning, Use, and Interpretation of Language*, Rainer Bäeuerle, Christoph Schwarze, and Arnim von Stechow (eds.), Berlin/New York: De Gruyter, 302–323.
+* Lowe, E. J., 2006, *The Four-Category Ontology: A Metaphysical Foundation for Natural Science*, Oxford: Clarendon Press. doi:10.1093/0199254397.001.0001
+* Ludlow, Peter, 1999, *Semantics, Tense, and Time: An Essay in the Metaphysics of Natural Language*, Cambridge, MA: MIT Press.
+* Magidor, Ofra, 2013, *Category Mistakes*, (Oxford Philosophical Monographs), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199572977.001.0001
+* Maienborn, Claudia, 2007, “On Davidsonian and Kimian States”, in *Existence: Semantics and Syntax*, Ileana Comorovski and Klaus von Heusinger (eds.), (Studies in Linguistics and Philosophy 84), Dordrecht: Springer Netherlands, 107–130. doi:10.1007/978-1-4020-6197-4\_4
+* McGinn, Colin, 2000, *Logical Properties: Identity, Existence, Predication, Necessity, Truth*, Oxford: Clarendon Press. doi:10.1093/0199241813.001.0001
+* McKay, Thomas J., 2006, *Plural Predication*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199278145.001.0001
+* –––, 2016, “Mass and Plural”, in *Unity and Plurality: Logic, Philosophy, and Linguistics*, Massimiliano Carrara, Alexandra Arapinis, and Friederike Moltmann (eds.), Oxford: Oxford University Press, 171–193. doi:10.1093/acprof:oso/9780198716327.003.0008
+* Moltmann, Friederike, 1997, *Parts and Wholes in Semantics*, New York: Oxford University Press.
+* –––, 2013, *Abstract Objects and the Semantics of Natural Language*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199608744.001.0001
+* –––, 2015, “Quantification with Intentional and with Intensional Verbs”, in *Quantifiers, Quantifiers, and Quantifiers: Themes in Logic, Metaphysics, and Language*, Alessandro Torza (ed.), (Synthese Library 373), Cham: Springer International Publishing, 141–168. doi:10.1007/978-3-319-18362-6\_8
+* –––, 2016, “Quantification with Intentional and with Intensional Verbs,” in A. Torza (ed.), *Quantifiers, Quantifiers, Quantifiers*, Dordrecht: Springer, Synthese Library, pp. 141–168.
+* –––, 2019, “Natural Language and Its Ontology”, in *Metaphysics and Cognitive Science*, Alvin I. Goldman and Brian P. McLaughlin (eds.), Oxford: Oxford University Press, 206–232. doi:10.1093/oso/9780190639679.003.0009
+* –––, 2020a, “Natural Language Ontology”, in *The Routledge Handbook of Metametaphyics*, Ricki Bliss and J. T. M. Miller (eds.), New York: Routledge, ch. 25.
+* –––, 2020b, “Existence Predicates”, *Synthese*, 197(1): 311–335. doi:10.1007/s11229-018-1847-z
+* –––, 2020c, “Abstract Objects and the Core-Periphery Distinction in the Ontological and the Conceptual Domain of Natural Language”, in *Abstract Objects: For and Against*, José L. Falguera and Concha Martínez-Vidal (eds.), (Synthese Library 422), Cham: Springer International Publishing, 255–276. doi:10.1007/978-3-030-38242-1\_13
+* –––, 2021a, “Situations, Alternatives, and the Semantics of ‘Cases’”, *Linguistics and Philosophy*, 44(1): 153–193. doi:10.1007/s10988-019-09282-7
+* –––, 2021b, “Truth Predicates, Truth Bearers, and Their Variants”, *Synthese*, 198(S2): 689–716. doi:10.1007/s11229-018-1814-8
+* Montague, Richard, 1974, *Formal Philosophy: Selected Papers of Richard Montague*, Richmond H. Thomason (ed.), New Haven, CT: Yale University Press.
+* Ojeda, Almerindo E., 1993, *Linguistic Individuals*, (CSLI Lecture Notes 31), Stanford, CA: CSLI Publications.
+* Oliver, Alex and Timothy Smiley, 2013, *Plural Logic*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199570423.001.0001
+* Parsons, Terence, 1980, *Nonexistent Objects*, New Haven, CT: Yale University Press.
+* Pelletier, Jeffry, 2011, “Descriptive Metaphysics, Natural Language Metaphysics, Sapir-Whorf, and All That Stuff”, *Baltic International Yearbook of Cognition, Language, and Communication* 6.
+* Pelletier, Jeffry, and Leonard Schubert 1989/2003, “Mass Expressions”, in Franz Guenthner and Dov Gabbay (eds.), *Handbook of Philosophical Logic* 2nd edition, vol. 10, 249–336; updated version of the 1989 version in the 1st edition of *Handbook of Philosophical Logic*.
+* Perry, John, 1986, “Thought without Representation”, *Aristotelian Society Supplementary Volume*, 60: 137–151. doi:10.1093/aristoteliansupp/60.1.137
+* Pietroski, Paul M., 2018, *Conjoining Meanings: Semantics without Truth Values*, (Context and Content), Oxford: Oxford University Press. doi:10.1093/oso/9780198812722.001.0001
+* Pinker, Steven, 1994, *The Language Instinct*, New York: W. Morrow and Co.
+* Postal, Paul M., 2018, “The Ontology of Natural Language”, in *Essays on Linguistic Realism*, Christina Behme and Martin Neef (eds.), (Studies in Language Companion Series 196), Amsterdam/Philadelphia: John Benjamins Publishing Company, 1–6.
+* Priest, Graham, 2015, *Towards Nonbeing. The Logic and Metaphysics of Intentionality*, Oxford: Oxford University Press.
+* Pustejovsky, James, 1995, *The Generative Lexicon*, Cambridge: MIT Press.
+* Quine, W. V., 1948, “On What There Is”, *The Review of Metaphysics*, 2(5): 21–38. Reprinted in his *From a Logical Point of View*, Cambridge, MA: Harvard University Press, 1953, 1–19.
+* Ramchand, Gilllian, 2018, *Situations and Syntactic Structures*, Cambridge: MIT Press.
+* Récanati, François, 2010, *Truth-Conditional Pragmatics*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199226993.001.0001
+* Romero, Maribel, 2005, “Concealed Questions and Specificational Subjects”, *Linguistics and Philosophy*, 28(6): 687–737. doi:10.1007/s10988-005-2654-9
+* Rose, David and Jonathan Schaffer, 2017, “Folk Mereology Is Teleological”, *Noûs*, 51(2): 238–270. doi:10.1111/nous.12123
+* Rosefeldt, Tobias, 2008, “‘That’-Clauses and Non-Nominal Quantification”, *Philosophical Studies*, 137(3): 301–333. doi:10.1007/s11098-006-0002-8
+* Rothstein, Susan, 2017, *Semantics for Counting ad Measuring*, Cambridge: Cambridge University Press. doi:10.1017/978051.173.4830
+* Sainsbury, R. M., 2005, *Reference without Referents*, Oxford: Clarendon Press. doi:10.1093/0199241805.001.0001
+* Salmon, Nathan, 1987, “Existence”, *Philosophical Perspectives*, 1: 49–108. doi:10.2307/2214143
+* –––, 1998, “Nonexistence”, *Noûs*, 32(3): 277–319. doi:10.1111/0029-4624.00101
+* Schaffer, Jonathan, 2019, “Cognitive Science and Metaphysics: Partners in Debunking”, in *Metaphysics and Cognitive Science*, Alvin I. Godman and Brian P. McLaughlin (eds.), Oxford: Oxford University Press, 38–70. doi:10.1093/oso/9780190639679.003.0003
+* Schaffer, Jonathan, 2019, “What grounds What”, in *Metametaphysics*, David Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Oxford University Press, 347–383. doi:10.1093/oso/9780190639679.003.0003
+* Schiffer, Stephen, 1996, “Language-Created Language-Independent Entities”:, *Philosophical Topics*, 24(1): 149–167. doi:10.5840/philtopics199624117
+* Simons, Peter, 1987, *Parts: A Study in Ontology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199241460.001.0001
+* Stephenson, Tamina, 2007, “Judge Dependence, Epistemic Modals, and Predicates of Personal Taste”, *Linguistics and Philosophy*, 30(4): 487–525. doi:10.1007/s10988-008-9023-4
+* Strawson, P.F., 1950, “Truth”, *Aristotelian Society Supplementary Volume*, 24(1): 111–172. Reprinted in his *Logico-Linguistic Papers*, London: Methuen, 1971, pp. 190–213. doi:10.1093/aristoteliansupp/24.1.111
+* –––, 1959, *Individuals: An Essay in Descriptive Metaphysics*, London: Methuen.
+* Swanson, Eric, 2012, “The Language of Causation,” in *The Routledge Companion to Philosophy of Language*, Gillian Russell and Delia Graff Fara (eds), New York/London: Routledge, 716–728 (6.3.1).
+* Szabó, Zoltán Gendler, 2006, “Counting across Times”, *Philosophical Perspectives*, 20(1): 399–426. doi:10.1111/j.1520-8583.2006.00113.x
+* –––, 2015, “Major Parts of Speech”, *Erkenntnis*, 80(S1): 3–29. doi:10.1007/s10670-014-9658-1
+* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527463
+* Twardowski, Kazimierz, 1911, “O czynnościach i wytworach. Kilka uwag z pogranicza psychologii, gramatyki i logiki”, Lwdw: Uniwersytetu Lwowskiego. Translated as “Actions and Products. Some Remarks from the Borderline of Psychology, Grammar and Logic”, in *Kazimierz Twardowski. On Actions, Products and Other Topics in the Philosophy*, Johannes L. Brandl and Jan Woleński (eds.) and Arthur Szylewicz (trans.), Amsterdam/Atlanta: Rodopi, 1999, 103–132.
+* Van Inwagen, Peter, 1977, “Creatures of Fiction”, *American Philosophical Quarterly*, 14(4): 299–308.
+* –––, 2003, “Existence, Ontological Commitment, and Fictional Entities”, in *The Oxford Handbook of Metaphysics*, Michael J. Loux and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 131–158. doi:10.1093/oxfordhb/9780199284221.003.0006
+* Vendler, Zeno, 1967, *Linguistics in Philosophy*, Ithaca, NY: Cornell University Press.
+* –––, 1972, *Res Cogitans: An Essay in Rational Psychology*, (Contemporary Philosophy), Ithaca, NY: Cornell University Press.
+* Vieu, Laure, 2006, “On the Transitivity of Functional Parthood”, *Applied Ontology*, 1(2): 147–155.
+* Wellwood, Alexis, 2015, “On the Semantics of Comparison across Categories”, *Linguistics and Philosophy*, 38(1): 67–101. doi:10.1007/s10988-015-9165-0
+* Wellwood, Alexis, Valentine Hacquard, and Roumyana Pancheva, 2012, “Measuring and Comparing Individuals and Events”, *Journal of Semantics*, 29(2): 207–228. doi:10.1093/jos/ffr006
+* Wetzel, Linda, 2009, *Types and Tokens: On Abstract Objects*, Cambridge, MA: MIT Press.
+* Williams, Donald C., 1953, “On the Eelements of Being”, *The Review of Metaphysics*, 7: 3–18 (Part I), 171–192 (Part II).
+* Wisniewski, Edward J., Mutsumi Imai, and Lyman Casey, 1996, “On the Equivalence of Superordinate Concepts”, *Cognition*, 60(3): 269–298. doi:10.1016/0010-0277(96)00707-X
+* Wolterstorff, Nicholas, 1970, *On Universals: An Essay in Ontology*, Chicago: University of Chicago Press.
+* Wright, Crispin, 1983, *Frege’s Conception of Numbers as Objects*, (Scots Philosophical Monographs 2), Aberdeen: Aberdeen University Press.
+* Yi, Byeong-Uk, 2005, “The Logic and Meaning of Plurals. Part I”, *Journal of Philosophical Logic*, 34(5–6): 459–506. doi:10.1007/s10992-005-0560-9
+* –––, 2006, “The Logic and Meaning of Plurals. Part II”, *Journal of Philosophical Logic*, 35(3): 239–288. doi:10.1007/s10992-005-9015-6
+* Zalta, Edward N., 1983, *Abstract Objects: An Introduction to Axiomatic Metaphysics*, (Synthese Library 160), Dordrecht: D. Reidel.
 
 ## Academic Tools
 
@@ -559,4 +558,4 @@ b.
 [anaphora](https://plato.stanford.edu/entries/anaphora/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Aristotle, General Topics: categories](https://plato.stanford.edu/entries/aristotle-categories/) | [bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [category mistakes](https://plato.stanford.edu/entries/category-mistakes/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [dependence, ontological](https://plato.stanford.edu/entries/dependence-ontological/) | [events](https://plato.stanford.edu/entries/events/) | [existence](https://plato.stanford.edu/entries/existence/) | [experimental philosophy](https://plato.stanford.edu/entries/experimental-philosophy/) | [fiction: fictional entities](https://plato.stanford.edu/entries/fictional-entities/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [fundamentality](https://plato.stanford.edu/entries/fundamentality/) | [grounding, metaphysical](https://plato.stanford.edu/entries/grounding/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [intuition](https://plato.stanford.edu/entries/intuition/) | [linguistics: philosophy of](https://plato.stanford.edu/entries/linguistics/) | [mass expressions: metaphysics of](https://plato.stanford.edu/entries/metaphysics-massexpress/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [object](https://plato.stanford.edu/entries/object/) | [ontological commitment](https://plato.stanford.edu/entries/ontological-commitment/) | [plural quantification](https://plato.stanford.edu/entries/plural-quant/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [semantics: dynamic](https://plato.stanford.edu/entries/dynamic-semantics/) | [semantics: Montague](https://plato.stanford.edu/entries/montague-semantics/) | [situations: in natural language semantics](https://plato.stanford.edu/entries/situations-semantics/) | [states of affairs](https://plato.stanford.edu/entries/states-of-affairs/) | [Strawson, Peter Frederick](https://plato.stanford.edu/entries/strawson/) | [tropes](https://plato.stanford.edu/entries/tropes/) | [Twardowski, Kazimierz](https://plato.stanford.edu/entries/twardowski/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Friederike Moltmann <[_Friederike.Moltmann@univ-paris1.fr_](mailto:Friederike%2eMoltmann%40univ-paris1%2efr)>
+Friederike Moltmann <[*Friederike.Moltmann@univ-paris1.fr*](mailto:Friederike%2eMoltmann%40univ-paris1%2efr)>

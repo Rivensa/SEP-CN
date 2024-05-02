@@ -34,5 +34,4 @@
   
 * 国际标准连续出版物号：ISSN 1095-5054
   
-
 如果您有任何进一步的问题，请[联系SEP](https://plato.stanford.edu/contact.html)。

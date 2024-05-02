@@ -1,13 +1,12 @@
 # 乔纳森‧爱德华兹 Edwards, Jonathan (William Wainwright)
 
-_首次发表于 2002 年 1 月 15 日星期二；实质性修订于 2020 年 7 月 15 日星期三_
+*首次发表于 2002 年 1 月 15 日星期二；实质性修订于 2020 年 7 月 15 日星期三*
 
 乔纳森‧爱德华兹（1703–1758）被广泛认为是美国最重要和最原创的哲学神学家。他的整个作品表达了两个主题——上帝的绝对主权和上帝的圣洁之美。第一个主题在爱德华兹对神学决定论的辩护中得到阐述，在偶然主义的教义中得到体现，并坚持认为物理对象仅是可感知的“观念”的集合，而有限的心灵只是“思想”或“感知”的组合。作为物理和心理现象背后唯一真正的原因或实质，上帝是“普遍存在”，是“所有存在的总和”。
 
 爱德华兹的第二主题在于对上帝创造的目的以及真正美德和真正美的本质的描述。上帝创造是为了展现一种以仁爱为本的圣洁，这种仁爱是真正美的唯一来源。真正的人类美德是对神圣仁爱的模仿，一切有限的美都是神圣美丽的影像。然而，要辨别这种美，需要真正的美德，并且要正确地推理“神圣的事物”。
 
 爱德华兹预期的《救赎史》将会将这些主题汇集在一起，因为正是在他在历史中的救赎工作中，上帝的主权、圣洁和美丽得到了最清晰的展示。
-
 
 ***
 
@@ -57,7 +56,7 @@ _首次发表于 2002 年 1 月 15 日星期二；实质性修订于 2020 年 7 
 
 上帝的主权也延伸到身份标准。 “物种”（种类或性质）是我们对事物进行分类的方式。但我们的分类取决于我们的需求和兴趣，以及我们生活的世界的特征。因此，在确定时空世界的每个特征时，上帝已经确定了事物将如何被分类，也就是什么被视为“物种”或种类。由于事物的身份标准是由其性质或种类决定的，上帝是它们的最终基础。简言之，法则决定种类，种类决定身份标准。在确定法则时，上帝因此确定了身份标准（“心灵”，编号 41、43 和 47；爱德华兹 1957 年，第 6 卷，359 页，361 页，366 页）。 （一个推论是，上帝可以安排事物，使亚当及其后裔在惩罚和奖励的目的上被视为一体。）
 
-### 上帝作为一般存在。
+### 上帝作为一般存在
 
 上帝是“一般存在”。他“是所有存在的总和，没有他的存在就没有存在；所有事物都在他里面，他也在一切事物中”（“Miscellanies,” no. 880; Edwards 1957–, vol. 20, 122）。爱德华兹似乎从马勒布朗奇那里借用了“一般存在”这个短语。他指的是什么？
 
@@ -83,7 +82,7 @@ _首次发表于 2002 年 1 月 15 日星期二；实质性修订于 2020 年 7 
 
 在追求自己的荣耀时，上帝将自己和受造物的善作为最终目标。幸福在于对上帝的认识和爱，以及在他里面的喜乐。受造物的幸福是一个最终目标，因为它包含在上帝的最终目标中，即传达他内在荣耀的“ad extra;” 而不是作为上帝荣耀的手段，而是其一部分。
 
-显而易见的结果是上帝必须创造一个世界来展示他的荣耀。《创世纪的终结》认为上帝的完美包括“一种自然的倾向，要传播他自己的丰满”，并且他“不可能在行使他的善良和其他完美的效果时受到阻碍”。（《创世纪的终结》，1765 年；爱德华兹 1957 年–，第 8 卷，447 页）由此可见，上帝必须传播他自己的丰满，即上帝必须创造。爱德华兹还似乎坚持认为上帝必然创造这个世界（称之为 w _）。上帝必然做“最适合和最好的事情”。因此，上帝创造最好的可能世界是必然的。现在上帝已经创造了 w_。因此，w_是最好的可能世界。然而，‘成为最好的可能世界’是拥有它的任何世界的基本属性。因此，w_是最好的可能世界是必然的。由此可见，上帝创造 w\*是必然的真理。
+显而易见的结果是上帝必须创造一个世界来展示他的荣耀。《创世纪的终结》认为上帝的完美包括“一种自然的倾向，要传播他自己的丰满”，并且他“不可能在行使他的善良和其他完美的效果时受到阻碍”。（《创世纪的终结》，1765 年；爱德华兹 1957 年–，第 8 卷，447 页）由此可见，上帝必须传播他自己的丰满，即上帝必须创造。爱德华兹还似乎坚持认为上帝必然创造这个世界（称之为 w *）。上帝必然做“最适合和最好的事情”。因此，上帝创造最好的可能世界是必然的。现在上帝已经创造了 w*。因此，w_是最好的可能世界。然而，‘成为最好的可能世界’是拥有它的任何世界的基本属性。因此，w_是最好的可能世界是必然的。由此可见，上帝创造 w\*是必然的真理。
 
 爱德华兹是否意识到这些后果尚不确定。然而，对它们最常见的两个反对意见——即它们暗示没有真正的偶然性以及上帝并非自由——并不会困扰他。因为爱德华兹认为，我们的世界既不展现反因果自由，也不具备真正的不确定性。他还相信，道德代理和自由与形而上的必然性是相容的。上帝只能做“最适宜和最好的事情”。然而，他在某种意义上是自由的，因为他意识到了替代选择（可能世界的范围），有能力（即，实现其中任何一个的力量和“技巧”），既不被迫、受限制，也不受任何其他存在的影响，并且正是做他所愿意做的事情。爱德华兹认为，这是与道德代理相关或值得拥有的唯一一种自由。
 
@@ -151,62 +150,62 @@ _首次发表于 2002 年 1 月 15 日星期二；实质性修订于 2020 年 7 
 
 ### Primary Sources
 
-* _The Works of Jonathan Edwards_, 26 volumes, New Haven, CT: Yale university Press. 1957–2008.
+* *The Works of Jonathan Edwards*, 26 volumes, New Haven, CT: Yale university Press. 1957–2008.
 * [The Works of Jonathan Edwards Online](http://edwards.yale.edu/), The Jonathan Edwards Center, Yale University, provides free and complete online access to the 26 print editions as well as to 47 other volumes of Edwards’s writings which are appearing for the first time on line.
 
 ### Secondary Sources
 
-* Brown, Robert E., 2002, _Jonathan Edwards and the Bible_, Bloomington: Indiana University Press.
-* Cooey, Paula M., 1989, “Eros and Intimacy in Edwards,” _The Journal of Religion_, 69: 484–501
-* Crisp, Oliver D., 2003, “Jonathan Edwards on Divine Simplicity,” _Religious Studies_, 39(1): 23–41.
-* –––, 2005, _Jonathan Edwards and the Metaphysics of Sin_, Aldershot, England: Ashgate
-* –––, 2010, “Jonathan Edwards’s Ontology: A Critique of Sang Hyun Lee’s Dispositional ‘Account of Edwardsian Metaphysics’,” _Religious Studies_, 46(1): 1–20.
-* –––, 2015, _Jonathan Edwards Among the Theologians_, Grand Rapids: Eerdmans.
-* Danaher, William J., Jr., 2004, _The Trinitarian Ethics of Jonathan Edwards_, Louisville: Westminster John Knox Press.
-* –––, 2007, “Beauty, Benevolence, and Virtue in Jonathan Edwards' _The Nature of True Virtue_,” _The Journal of Religion_, 87: 386–410.
-* Daniel, Stephen H., 1994, _The Philosophy of Jonathan Edwards: A Study in Divine Semiotics_, Bloomington: Indiana University Press.
-* Delattre, Roland A., 1968, _Beauty and Sensibility in the Thought of Jonathan Edwards_, New Haven: Yale University Press.
-* Elwood, Douglas J., 1960, _The Philosophical Theology of Jonathan Edwards_, New York: Columbia University Press.
-* Farris, Joshua R., 2016, “Edwardsian idealism, _Imago De_i, and Contemporary Theology,” in Joshua R. Farris and S. Mark Hamilton (eds.), _Idealism and Christian Theology_ (Volume 1), New York and London: Bloomsbury Academic, pp. 83–105.
-* Fiering, Norman, 1981, _Jonathan Edwards' Moral Thought and its British Context_, Chapel Hill: University of North Carolina Press.
-* Hamilton, S. Mark, 2017, _A Treatise on Jonathan Edwards: Continuous Creation and Christology_ (A Series of Treatises on Jonathan Edwards: Volume 1), Ft. Worth: Jonathan Edwards Society Press.
-* Helm, Paul, 1969, “John Locke and Jonathan Edwards: A Reconsideration,” _Journal of the History of Philosophy_, 8: 51–61.
-* –––, 1979, “Jonathan Edwards and the Doctrine of Temporal Parts,” _Archiv für Geschichte der Philosophie_, 61: 37–51.
-* Holmes, Stephen R., 2003, “Does Jonathan Edwards Use a Dispositional Ontology? A Response to Sang Hyun Lee,” in Paul Helm and Oliver D. Crisp (eds.), _Jonathan Edwards: Philosophical Theologian_, Aldershot: Ashgate, pp. 99–114.
-* Holbrook, Clyde A., 1973, _The Ethics of Jonathan Edwards: Morality and Aesthetics_, Ann Arbor: University of Michigan Press.
-* Jenson, Robert W., 1988, _America's Theologian: A Recommendation of Jonathan Edwards_, New York: Oxford University Press.
-* Lane, Beldon C., 2004, “Jonathan Edwards on Beauty, Desire, and the Sensory World,” _Theological Studies_, 65: 46–72.
-* Lee, Sang Hyun, 1988, _The Philosophical Theology of Jonathan Edwards_, Princeton: Princeton University Press.
-* –––, 1999, “Edwards on God and Nature: Resources for Contemporary Theology,” in Sang Hyun Lee and Alan C. Guelzo (eds.), _Edwards in our Time: Jonathan Edwards and the Shaping of American Religion_, Grand Rapids: William B. Eerdmans.
-* Lesser, M. X., 2007, _Reading Jonathan Edwards: an annotated bibliography in three parts, 1729–2005_, Grand Rapids: W. B. Eerdmans.
-* Lewis, Paul, 1994, “‘The Springs of Motion’: Jonathan Edwards on Emotions,” _Journal of Religious Ethics_, 22: 275–97.
-* LoLordo, Antonia, 2014, “Jonathan Edwards's Argument Concerning Persistence,” _Philosophers' Imprint_, 14(24) \[[available online](http://hdl.handle.net/2027/spo.3521354.0014.024)].
-* Marsden, George M., 2003, _Jonathan Edwards: A Life_, New Haven: Yale University Press.
-* McClymond, Michael, J., 1998, _Encounters with God: An Approach to the Theology of Jonathan Edwards_, Oxford: Oxford University Press.
-* McDermott, Gerald R., 2000, _Jonathan Edwards Confronts the Gods: Christian Theology Theology, Enlightenment Religion, and Non-Christian Faiths_, Oxford: Oxford University Press
-* McClymond, Michael J. and Gerald R. McDermott, 2012, _The Theology of Jonathan Edwards_, New York: Oxford University Press.
-* Miller, Perry, 1949, _Jonathan Edwards_, New York: W. Sloane Associates.
-* Pauw, Amy Plantinga, 2002, _The Supreme Harmony of All: The Trinitarian Theology of Jonathan Edwards_, Grand Rapids: William B. Eerdmans.
-* –––, 2003, “‘One Alone Cannot be Excellent’; Edwards on Divine Simplicity,” in Paul Helm and Oliver D. Crisp (eds.), _Jonathan Edwards: Philosophical Theologian_, Aldershot: Ashgate, pp. 115–125.
-* Post, Stephen, 1986, “Disinterested Benevolence: An American Debate Over the Nature of Christian Love,” _Journal of Religious Ethics_, 14: 356–68.
-* Rehnman, Sebastian, 2010, “Is the Distinction Between Natural and Moral Attributes Good? Jonathan Edwards on Divine Attributes,” _The History of Philosophy Quarterly_, 27: 57–78.
-* Reid, Jasper, 2003, “Jonathan Edwards on Space and God,” _Journal of the History of Philosophy_, 41: 385–403.
-* Schmidt, Lawrence K., 1988, “Jonathan Edwards' Idealistic Argument from Resistance,” _Southwest Philosophy Review_, 4: 39–47.
-* Smith, John E., 1992, _Jonathan Edwards: Puritan, Preacher, Philosopher_, London: Geoffrey Chapman, and Notre Dame: University of Notre Dame Press.
-* Wainwright, William J., 1980, “Jonathan Edwards and the Language of God,” _The Journal of the American Academy of Religion_, 48: 520–30.
-* –––, 1982, “Jonathan Edwards, Atoms, and Immaterialism,” _Idealistic Studies_, 12(1): 79–89.
-* –––, 1988, “Original Sin,” in Thomas V. Morris (ed.), _Philosophy and the Christian Faith_, Notre Dame: University of Notre Dame Press, 31–60
-* –––, 1995, _Reason and the Heart_, Chapter 1, Ithaca: Cornell University Press.
-* –––, 1996, “Jonathan Edwards, William Rowe, and the Necessity of Creation,” in Jeff Jordan and Daniel Howard-Snyder (eds.), _Faith, Freedom, and Responsibility_, Lanham: Rowman and Littlefield, pp. 119–133, 262–69.
-* –––, 2001, “Jonathan Edwards and the Hiddenness of God,” in Paul Moser and Daniel Howard-Snyder (eds.), _New Essays on the Divine Hiddenness_, Cambridge: Cambridge University Press, pp. 98–119.
-* –––, 2001, “Theological Determinism and the Problem of Evil: Are Arminians Any Better Off?” _International Journal for Philosophy of Religion_, 50: 81–96.
-* –––, 2010, “Jonathan Edwards, God, and ‘Particular Minds’,” _International Journal for Philosophy of Religion_ (Special Anniversary Volume), 68(1–3): 201–213
-* –––, 2012, “Jonathan Edwards and his Puritan Predecessors,” in Paul L. Gavrilyuk and Sarah Coakley (eds.), _The Spiritual Senses: Perceiving God in Western Christianity_, Cambridge: Cambridge University Press, pp. 224–240.
-* –––, 2016, “Berkeley, Edwards, Idealism, and the Knowledge of God,” in Joshua R. Farris and S. Mark Hamilton (eds.), _Idealism and Christian Theology_, New York and London: Bloomsbury Academic, pp. 35–53.
-* –––, 2017, ‘Jonathan Edwards: Basic Epistemic Modalities And Their Sanctification,’ in William J. Abraham & Frederick D. Aquino (eds.), _The Oxford Handbook of the Epistemology of Theology_, New York, Oxford: Oxford University Press, pp. 471–483.
-* –––, 2018, ‘Edwards on Evil,’ in Douglas Headley, Chad Meister, and Charles Taliaferro (eds.), _The History of Evil in the Eighteenth and Nineteenth Centuries_: 1700–1900 CE (The History of Evil: Volume IV), New York: Routledge, pp. 39–53.
-* Walton, Brad, 2003, _Jonathan Edwards, Religious Affections and the Puritan Analysis of True Piety, Spiritual Sensation, and Heart Religion_, Lewiston: Edwin Mellon Press.
-* Winslow, Ola Elizabeth, 1940, _Jonathan Edwards 1703–1758: A Biography_, New York: Macmillan.
+* Brown, Robert E., 2002, *Jonathan Edwards and the Bible*, Bloomington: Indiana University Press.
+* Cooey, Paula M., 1989, “Eros and Intimacy in Edwards,” *The Journal of Religion*, 69: 484–501
+* Crisp, Oliver D., 2003, “Jonathan Edwards on Divine Simplicity,” *Religious Studies*, 39(1): 23–41.
+* –––, 2005, *Jonathan Edwards and the Metaphysics of Sin*, Aldershot, England: Ashgate
+* –––, 2010, “Jonathan Edwards’s Ontology: A Critique of Sang Hyun Lee’s Dispositional ‘Account of Edwardsian Metaphysics’,” *Religious Studies*, 46(1): 1–20.
+* –––, 2015, *Jonathan Edwards Among the Theologians*, Grand Rapids: Eerdmans.
+* Danaher, William J., Jr., 2004, *The Trinitarian Ethics of Jonathan Edwards*, Louisville: Westminster John Knox Press.
+* –––, 2007, “Beauty, Benevolence, and Virtue in Jonathan Edwards' *The Nature of True Virtue*,” *The Journal of Religion*, 87: 386–410.
+* Daniel, Stephen H., 1994, *The Philosophy of Jonathan Edwards: A Study in Divine Semiotics*, Bloomington: Indiana University Press.
+* Delattre, Roland A., 1968, *Beauty and Sensibility in the Thought of Jonathan Edwards*, New Haven: Yale University Press.
+* Elwood, Douglas J., 1960, *The Philosophical Theology of Jonathan Edwards*, New York: Columbia University Press.
+* Farris, Joshua R., 2016, “Edwardsian idealism, _Imago De_i, and Contemporary Theology,” in Joshua R. Farris and S. Mark Hamilton (eds.), *Idealism and Christian Theology* (Volume 1), New York and London: Bloomsbury Academic, pp. 83–105.
+* Fiering, Norman, 1981, *Jonathan Edwards' Moral Thought and its British Context*, Chapel Hill: University of North Carolina Press.
+* Hamilton, S. Mark, 2017, *A Treatise on Jonathan Edwards: Continuous Creation and Christology* (A Series of Treatises on Jonathan Edwards: Volume 1), Ft. Worth: Jonathan Edwards Society Press.
+* Helm, Paul, 1969, “John Locke and Jonathan Edwards: A Reconsideration,” *Journal of the History of Philosophy*, 8: 51–61.
+* –––, 1979, “Jonathan Edwards and the Doctrine of Temporal Parts,” *Archiv für Geschichte der Philosophie*, 61: 37–51.
+* Holmes, Stephen R., 2003, “Does Jonathan Edwards Use a Dispositional Ontology? A Response to Sang Hyun Lee,” in Paul Helm and Oliver D. Crisp (eds.), *Jonathan Edwards: Philosophical Theologian*, Aldershot: Ashgate, pp. 99–114.
+* Holbrook, Clyde A., 1973, *The Ethics of Jonathan Edwards: Morality and Aesthetics*, Ann Arbor: University of Michigan Press.
+* Jenson, Robert W., 1988, *America's Theologian: A Recommendation of Jonathan Edwards*, New York: Oxford University Press.
+* Lane, Beldon C., 2004, “Jonathan Edwards on Beauty, Desire, and the Sensory World,” *Theological Studies*, 65: 46–72.
+* Lee, Sang Hyun, 1988, *The Philosophical Theology of Jonathan Edwards*, Princeton: Princeton University Press.
+* –––, 1999, “Edwards on God and Nature: Resources for Contemporary Theology,” in Sang Hyun Lee and Alan C. Guelzo (eds.), *Edwards in our Time: Jonathan Edwards and the Shaping of American Religion*, Grand Rapids: William B. Eerdmans.
+* Lesser, M. X., 2007, *Reading Jonathan Edwards: an annotated bibliography in three parts, 1729–2005*, Grand Rapids: W. B. Eerdmans.
+* Lewis, Paul, 1994, “‘The Springs of Motion’: Jonathan Edwards on Emotions,” *Journal of Religious Ethics*, 22: 275–97.
+* LoLordo, Antonia, 2014, “Jonathan Edwards's Argument Concerning Persistence,” *Philosophers' Imprint*, 14(24) \[[available online](http://hdl.handle.net/2027/spo.3521354.0014.024)].
+* Marsden, George M., 2003, *Jonathan Edwards: A Life*, New Haven: Yale University Press.
+* McClymond, Michael, J., 1998, *Encounters with God: An Approach to the Theology of Jonathan Edwards*, Oxford: Oxford University Press.
+* McDermott, Gerald R., 2000, *Jonathan Edwards Confronts the Gods: Christian Theology Theology, Enlightenment Religion, and Non-Christian Faiths*, Oxford: Oxford University Press
+* McClymond, Michael J. and Gerald R. McDermott, 2012, *The Theology of Jonathan Edwards*, New York: Oxford University Press.
+* Miller, Perry, 1949, *Jonathan Edwards*, New York: W. Sloane Associates.
+* Pauw, Amy Plantinga, 2002, *The Supreme Harmony of All: The Trinitarian Theology of Jonathan Edwards*, Grand Rapids: William B. Eerdmans.
+* –––, 2003, “‘One Alone Cannot be Excellent’; Edwards on Divine Simplicity,” in Paul Helm and Oliver D. Crisp (eds.), *Jonathan Edwards: Philosophical Theologian*, Aldershot: Ashgate, pp. 115–125.
+* Post, Stephen, 1986, “Disinterested Benevolence: An American Debate Over the Nature of Christian Love,” *Journal of Religious Ethics*, 14: 356–68.
+* Rehnman, Sebastian, 2010, “Is the Distinction Between Natural and Moral Attributes Good? Jonathan Edwards on Divine Attributes,” *The History of Philosophy Quarterly*, 27: 57–78.
+* Reid, Jasper, 2003, “Jonathan Edwards on Space and God,” *Journal of the History of Philosophy*, 41: 385–403.
+* Schmidt, Lawrence K., 1988, “Jonathan Edwards' Idealistic Argument from Resistance,” *Southwest Philosophy Review*, 4: 39–47.
+* Smith, John E., 1992, *Jonathan Edwards: Puritan, Preacher, Philosopher*, London: Geoffrey Chapman, and Notre Dame: University of Notre Dame Press.
+* Wainwright, William J., 1980, “Jonathan Edwards and the Language of God,” *The Journal of the American Academy of Religion*, 48: 520–30.
+* –––, 1982, “Jonathan Edwards, Atoms, and Immaterialism,” *Idealistic Studies*, 12(1): 79–89.
+* –––, 1988, “Original Sin,” in Thomas V. Morris (ed.), *Philosophy and the Christian Faith*, Notre Dame: University of Notre Dame Press, 31–60
+* –––, 1995, *Reason and the Heart*, Chapter 1, Ithaca: Cornell University Press.
+* –––, 1996, “Jonathan Edwards, William Rowe, and the Necessity of Creation,” in Jeff Jordan and Daniel Howard-Snyder (eds.), *Faith, Freedom, and Responsibility*, Lanham: Rowman and Littlefield, pp. 119–133, 262–69.
+* –––, 2001, “Jonathan Edwards and the Hiddenness of God,” in Paul Moser and Daniel Howard-Snyder (eds.), *New Essays on the Divine Hiddenness*, Cambridge: Cambridge University Press, pp. 98–119.
+* –––, 2001, “Theological Determinism and the Problem of Evil: Are Arminians Any Better Off?” *International Journal for Philosophy of Religion*, 50: 81–96.
+* –––, 2010, “Jonathan Edwards, God, and ‘Particular Minds’,” *International Journal for Philosophy of Religion* (Special Anniversary Volume), 68(1–3): 201–213
+* –––, 2012, “Jonathan Edwards and his Puritan Predecessors,” in Paul L. Gavrilyuk and Sarah Coakley (eds.), *The Spiritual Senses: Perceiving God in Western Christianity*, Cambridge: Cambridge University Press, pp. 224–240.
+* –––, 2016, “Berkeley, Edwards, Idealism, and the Knowledge of God,” in Joshua R. Farris and S. Mark Hamilton (eds.), *Idealism and Christian Theology*, New York and London: Bloomsbury Academic, pp. 35–53.
+* –––, 2017, ‘Jonathan Edwards: Basic Epistemic Modalities And Their Sanctification,’ in William J. Abraham & Frederick D. Aquino (eds.), *The Oxford Handbook of the Epistemology of Theology*, New York, Oxford: Oxford University Press, pp. 471–483.
+* –––, 2018, ‘Edwards on Evil,’ in Douglas Headley, Chad Meister, and Charles Taliaferro (eds.), *The History of Evil in the Eighteenth and Nineteenth Centuries*: 1700–1900 CE (The History of Evil: Volume IV), New York: Routledge, pp. 39–53.
+* Walton, Brad, 2003, *Jonathan Edwards, Religious Affections and the Puritan Analysis of True Piety, Spiritual Sensation, and Heart Religion*, Lewiston: Edwin Mellon Press.
+* Winslow, Ola Elizabeth, 1940, *Jonathan Edwards 1703–1758: A Biography*, New York: Macmillan.
 
 ## Academic Tools
 

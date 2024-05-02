@@ -6,8 +6,6 @@
 
 像其他基本概念一样，必要和充分条件的概念不能轻易用其他术语来明确。本文展示了对“必要”和“充分”这两个术语定义的追求是多么难以捉摸，表明了必要和充分条件概念中存在系统的歧义。它还描述了围绕“如果”这个词及其在条件句中的使用所引发的难题与这个问题之间的联系。
 
- 
-
 ---
 
 ## 1. 哲学和条件
@@ -157,7 +155,7 @@ Ian Wilson (在 Wilson 1979 中)提出了五种可能的关系，用“如果，
 * Hintikka, Jaakko and Bachman, James, 1991. *What If …? Toward Excellence in Reasoning*, London: Mayfield.
 * Jackson, Frank, 1998. *From Metaphysics to Ethics: A Defence of Conceptual Analysis*, Oxford: Oxford University Press.
 * Mackie, J. L., 1965. “Causes and Conditions”, *American Philosophical Quarterly*, 12: 245–65.
-* McCawley, James, 1993. *Everything that Linguists have Always Wanted to Know about Logic** (Subtitle: **But Were Ashamed to Ask*), Chicago: Chicago University Press.
+* McCawley, James, 1993. *Everything that Linguists have Always Wanted to Know about Logic**(Subtitle:**But Were Ashamed to Ask*), Chicago: Chicago University Press.
 * Moore, Brooke N., and Parker, Richard 2009. *Critical Thinking*, ninth edition, New York: McGraw Hill.
 * Nebel, Jacob 2019. “Normative Reasons as Reasons Why We Ought”, Mind 128(510): 459–484. doi:10.1093/mind/fzy013
 * Raidl, Eric, Iacona, Andrea, and Crupi, Vincenzo 2021. “The Logic of the Evidential Conditional”, *The Review of Symbolic Logic*, First View: 1–13. doi:10.1017/S1755020321000071

@@ -1,6 +1,6 @@
 # 先天与语言 and language (Fiona Cowie)
 
-_首次发表于2008年1月16日星期三_
+*首次发表于2008年1月16日星期三*
 
 对于先天观念及其在知识获取中的作用的哲学辩论具有悠久的历史。因此，直到上世纪初，对于语言知识是如何获得以及先天观念在其中可能扮演的角色几乎没有引起多少关注，这是令人惊讶的。
 
@@ -17,8 +17,6 @@ _首次发表于2008年1月16日星期三_
 根据乔姆斯基的观点，语言能力包含了各种语言规则、限制和原则的先天知识；这种先天知识构成了语言能力的“初始状态”。在与儿童时期的语言经验相互作用中，也就是与乔姆斯基所称的“主要语言数据”或“pld”（见§2.1）的接触中，它产生了一套新的语言知识，即对特定语言（如中文或英文）的知识。这种语言能力的“获得”或“最终”状态构成了一个人的“语言能力”，包括对自己语言的语法知识。乔姆斯基认为，这种知识对我们说和理解一门语言是至关重要的（当然，它并不足以实现这种能力：在“语言表现”中，即实际语言使用中，还需要带来大量额外的知识）\[1]。
 
 §§2.2-2.5 讨论了乔姆斯基和其他人支持这种“先天主义”观点的主要论据，即语言习得的可能性在于我们的大部分语言知识是未经学习的；它是先天的或与生俱来的，是语言能力的初始状态的一部分\[2]。第 3 节介绍了一些其他研究领域，这些研究被认为与语言的先天性有关，并展示了最近关于语言学习和大脑的实证研究如何挑战先天主义立场。由于这些材料大部分都是非常新的，并且由于我的结论（其中许多是暂定的）非常有争议，因此在百科全书文章中包含了比正常情况下更多的实证文献引用。鼓励读者跟进所引用的研究并评估语言先天主义的可信度：毕竟，语言是否先天是一个实证问题。
-
- 
 
 ***
 
@@ -52,7 +50,7 @@ _首次发表于2008年1月16日星期三_
 
 此外，结构主义者试图通过称为“短语结构规则”的简单重写规则来捕捉语言的句法属性。短语结构规则描述了句子类型的内部句法结构；将其解释为重写规则，可以用来生成或构造句子。因此，例如规则 S → NP VP 表示句子符号 S 可以重写为符号 NP 后跟符号 VP，并告诉您句子由名词短语后跟动词短语组成。（这些信息可以通过树状图（如图 1a）或短语标记（或标记括号）（如图 1b）来表示。）
 
-| ![SNPVP Tree](https://plato.stanford.edu/entries/innateness-language/s-tree.png) | \[\[ _**]NP\[**_ ]VP]S |
+| ![SNPVP Tree](https://plato.stanford.edu/entries/innateness-language/s-tree.png) | \[\[ ***]NP\[*** ]VP]S |
 | -------------------------------------------------------------------------------- | ---------------------- |
 | (a)                                                                              | (b)                    |
 
@@ -309,7 +307,7 @@ Chomsky 承认在 PLD 中存在这种“间接”的负面数据。然而，他�
 
 此外，越来越明显的是，婴儿、儿童、成人和许多其他哺乳动物不仅对反馈敏感，而且对其经验中的其他非明显统计规律也非常敏感。例如：
 
-* Saffran, Aslin 和 Newport（1996）发现，8 个月大的婴儿在仅仅 2 分钟的人工语音流暴露后，就能学会识别人工语言中的词边界。这个语音流由连续重复 2 分钟的 3 音节无意义单词（bidaku，padoti，golabu）组成（_bidakupadotigolabubidakugolabi …_ 等）。这个语音流的构造方式是，当两个音 X#Y 组成一个单词时，它们之间的“过渡概率”等于 1，当这两个音跨越一个词边界时，它们之间的“过渡概率”等于 1/3。在两分钟内，婴儿们学会了区分“单词”（如 bidaku）和“非单词”（如 kupado）。另请参见 Chambers，Onishi 和 Fisher 2003。
+* Saffran, Aslin 和 Newport（1996）发现，8 个月大的婴儿在仅仅 2 分钟的人工语音流暴露后，就能学会识别人工语言中的词边界。这个语音流由连续重复 2 分钟的 3 音节无意义单词（bidaku，padoti，golabu）组成（*bidakupadotigolabubidakugolabi …* 等）。这个语音流的构造方式是，当两个音 X#Y 组成一个单词时，它们之间的“过渡概率”等于 1，当这两个音跨越一个词边界时，它们之间的“过渡概率”等于 1/3。在两分钟内，婴儿们学会了区分“单词”（如 bidaku）和“非单词”（如 kupado）。另请参见 Chambers，Onishi 和 Fisher 2003。
 * 其他研究进一步扩展了这些结果，表明儿童和婴儿对各种语言线索的模式敏感，例如语言节奏（Nazzi 和 Ramus 2003）；韵律重音（Thiessen 和 Saffran 2003）以及声音和音节结构（Saffran 和 Thiessen 2003）。
 * 此外，越来越有说服力的证据表明，统计或“分布”信息不仅可以用于提取词边界，而且可以用于描绘更高层次的句法结构，与 Chomsky 的一个旧论点相反，例如 Redington 和 Chater，1998；Pena 等，2002；Mintz 2002；Saffran 2002；Saffran 和 Wilson 2003；Newport 和 Aslin 2004。（Chater 和 Manning 2006 提供了一份调查。）
 * 最后，为了防止任何关于我们所看到的只是先天主义者的“语言习得装置”在起作用的回应，一些研究表明类似的机制似乎也在非语言领域的学习中起作用（Saffran 2002 研究了非语言声音和形状的学习）；在成年人中（Pena 等人，2002 年）；以及在其他动物中，如棉顶蛛猴（Hauser 2001；Hauser，Weiss 和 Marcus，2002 年）。
@@ -542,266 +540,266 @@ Vargha-Khadem 推测（参见 Watkins 等，2002 年：463），KE 的那些似�
 
 ## Bibliography
 
-* Adolphs, R. (1999). Social Cognition and the Human Brain. _Trends in Cognitive Science, 3_(12), 469-479.
-* Avital, E. and Jablonka, E. (2000). _Animal Traditions: Behavioural Inheritance in Evolution,_ Cambridge: Cambridge University Press,
-* Ayoun, D. (2003). _Parameter Setting in Language Acquisition_, London: Continuum International Publishing Group, Incorporated.
-* Baker, C.L. (1979). “Syntactic Theory and the Projection Problem”, _Linguistic Inquiry_, 10: 533-81.
-* Bates, E. and Roe, K. (2001). “Language development in children with unilateral brain injury”, in _Handbook of Developmental Cognitive Neuroscience,_ C.A. Nelson and M. Luciana,(eds.), Cambridge: MIT Press, pp. 281-307.
-* Beale, J.M. and Keil, F.C. (1995). “Categorical Effects in the Perception of Faces”, _Cognition_, 57: 217-239.
-* Bello, A., Capirci, O., & Volterra, V. (2004). Lexical production in children with Williams syndrome: spontaneous use of gesture in a naming task. _Neuropsychologia, 42_(2), 201-213.
-* Bellugi, U., & Lai, Z. (1998). Neuropathological and cognitive alterations in Williams syndrome and Down syndrome. _Faseb Journal, 12_(4), A355-A355.
-* Bellugi, U., Lichtenberger, L., Mills, D., Galaburda, A., & Korenberg, J. R. (1999). Bridging cognition, the brain and molecular genetics: evidence from Williams syndrome. _Trends in Neurosciences, 22_(5), 197-207.
-* Bellugi, U., L. Lichtenberger, _et al_. (2000). “The neurocognitive profile of Williams syndrome: A complex pattern of strengths and weaknesses.” _Journal of Cognitive Neuroscience_ 12: 7-29.
-* Belton, E., C. H. Salmond, _et al_. (2003). “Bilateral brain abnormalities associated with dominantly inherited verbal and orofacial dyspraxia.” _Human Brain Mapping_ 18(3): 194-200.
-* Berwick, R.C. and Weinberg, A.S. (1983). _The Grammatical Basis of Linguistic Performance: Language Use and Acquisition_, Cambridge, MA: MIT Press.
-* Berwick, R. C. (1998). Language evolution and the Minimalist Program: the origins of syntax. In J. R. Hurford, M. Studdert-Kennedy & C. Knight (Eds.), _Approaches to the Evolution of Language_ (pp. 320-340). Cambridge: Cambridge University Press.
-* Bickerton, D. (1981). _Roots of Language_: Karomer Publishers, Inc.
-* ––– (1998). Catastrophic evolution: the case for a single step from protolanguage to full human language. In J. R. Hurford, M. Studdert-Kennedy & C. Knight (Eds.), _Approaches to the Evolution of Language_ (pp. 341-358). Cambridge: Cambridge University Press.
-* ––– (2000). _Language and Species_, Chicago : University of Chicago Press.
-* Birdsong, D. and Molis, M. (2001). “On the evidence for maturational constraints in second-language acquisition”, _Journal of Memory and Language_, 44: 235-49.
-* Bishop, D. V. M. (1994). “Is Specific Language Impairment A Valid Diagnostic Category - Genetic And Psycholinguistic Evidence.” _Philosophical Transactions Of The Royal Society Of London Series B-Biological Sciences_ 346(1315): 105-111.
-* –––, P. Bright, _et al_. (2000). “Grammatical SLI: A distinct subtype of developmental language impairment?” _Applied Psycholinguistics_ 21(2): 159-181.
-* Bohannon, J.N. and Stanowicz, L. (1988). “The issue of negative evidence: Adult responses to children's language errors”, _Developmental Psychology_, 24: 684-89.
-* Bohannon, J.N., MacWhinney, B. and Snow, C. (1990). “No negative evidence revisited: Beyond learnability or who has to prove what to whom”, _Developmental Psychology,_ 26: 221-26.
-* Bohannon, J. N., Padgett, R. J., Nelson, K. E., & Mark, M. (1996). Useful evidence on negative evidence. _Developmental Psychology, 32_(3), 551-555.
-* Bosman, C., R. Garcia, _et al_. (2004). “FOXP2 and the language working-memory system.” _Trends In Cognitive Sciences_ 8(6): 251-252.
-* Botha, R. P. (2003). _Unravelling the Evolution of Language_. U.S.: Elsevier Science.
-* Bradlow, A.R., Pisoni, D.B., Akahane-Yamada, R., and Tohkura, Y. (1997). “Training Japanese listeners to identify English /r/ and /l/: IV. Some effects of perceptual learning on speech production”, _Journal of the Acoustical Society of America_, 101: 2299-2310.
-* Brandon, R.N. and Hornstein, N. (1986a). “From Icons to Symbols: Some Speculations on the Origins of Language”, _Biology and Philosophy_, 1 :169-89.
-* Brown, R. (1973). _A first language: The early stages_, Cambridge, MA: Harvard University Press.
-* Brown, R., Cazden, C. and Bellugi, U. (1969). “The Child's Grammar from I to III”, in _Minnesota Symposium on Child Psychology, Vol. II,_ J. Hill (ed.), Minneapolis: University of Minnesota Press.
-* Brown, R. and Hanlon, C. (1970). “Derivational Complexity and Order of Acquisition in Child Speech”, in _Cognition and the Development of Language,_ J. R. Hayes (ed.), New York: John Wiley and Sons.
-* Buonomano, D.V. and Merzenich, M.M. (1998). “Cortical plasticity: From synapses to maps”, _Annual Review of Neuroscience,_ 21: 149-186.
-* Campanella,. S., Chrysochoos, A., Bruyer, R. (2001). “Categorical perception of facial gender information: Behavioural evidence and the face-space metaphor”, _Visual Cognition_, 8 (2): 237-262.
-* Capirci, O., L. Sabbadini, _et al_. (1996). “Language development in Williams syndrome: A case study.” _Cognitive Neuropsychology_ 13(7): 1017-1039.
-* Catania, A.C. (1990). “What good is 5 percent of a language competence”, _Behavioral and Brain Sciences_, 13 : 729-730.
+* Adolphs, R. (1999). Social Cognition and the Human Brain. *Trends in Cognitive Science, 3*(12), 469-479.
+* Avital, E. and Jablonka, E. (2000). *Animal Traditions: Behavioural Inheritance in Evolution,* Cambridge: Cambridge University Press,
+* Ayoun, D. (2003). *Parameter Setting in Language Acquisition*, London: Continuum International Publishing Group, Incorporated.
+* Baker, C.L. (1979). “Syntactic Theory and the Projection Problem”, *Linguistic Inquiry*, 10: 533-81.
+* Bates, E. and Roe, K. (2001). “Language development in children with unilateral brain injury”, in *Handbook of Developmental Cognitive Neuroscience,* C.A. Nelson and M. Luciana,(eds.), Cambridge: MIT Press, pp. 281-307.
+* Beale, J.M. and Keil, F.C. (1995). “Categorical Effects in the Perception of Faces”, *Cognition*, 57: 217-239.
+* Bello, A., Capirci, O., & Volterra, V. (2004). Lexical production in children with Williams syndrome: spontaneous use of gesture in a naming task. *Neuropsychologia, 42*(2), 201-213.
+* Bellugi, U., & Lai, Z. (1998). Neuropathological and cognitive alterations in Williams syndrome and Down syndrome. *Faseb Journal, 12*(4), A355-A355.
+* Bellugi, U., Lichtenberger, L., Mills, D., Galaburda, A., & Korenberg, J. R. (1999). Bridging cognition, the brain and molecular genetics: evidence from Williams syndrome. *Trends in Neurosciences, 22*(5), 197-207.
+* Bellugi, U., L. Lichtenberger, *et al*. (2000). “The neurocognitive profile of Williams syndrome: A complex pattern of strengths and weaknesses.” *Journal of Cognitive Neuroscience* 12: 7-29.
+* Belton, E., C. H. Salmond, *et al*. (2003). “Bilateral brain abnormalities associated with dominantly inherited verbal and orofacial dyspraxia.” *Human Brain Mapping* 18(3): 194-200.
+* Berwick, R.C. and Weinberg, A.S. (1983). *The Grammatical Basis of Linguistic Performance: Language Use and Acquisition*, Cambridge, MA: MIT Press.
+* Berwick, R. C. (1998). Language evolution and the Minimalist Program: the origins of syntax. In J. R. Hurford, M. Studdert-Kennedy & C. Knight (Eds.), *Approaches to the Evolution of Language* (pp. 320-340). Cambridge: Cambridge University Press.
+* Bickerton, D. (1981). *Roots of Language*: Karomer Publishers, Inc.
+* ––– (1998). Catastrophic evolution: the case for a single step from protolanguage to full human language. In J. R. Hurford, M. Studdert-Kennedy & C. Knight (Eds.), *Approaches to the Evolution of Language* (pp. 341-358). Cambridge: Cambridge University Press.
+* ––– (2000). *Language and Species*, Chicago : University of Chicago Press.
+* Birdsong, D. and Molis, M. (2001). “On the evidence for maturational constraints in second-language acquisition”, *Journal of Memory and Language*, 44: 235-49.
+* Bishop, D. V. M. (1994). “Is Specific Language Impairment A Valid Diagnostic Category - Genetic And Psycholinguistic Evidence.” *Philosophical Transactions Of The Royal Society Of London Series B-Biological Sciences* 346(1315): 105-111.
+* –––, P. Bright, *et al*. (2000). “Grammatical SLI: A distinct subtype of developmental language impairment?” *Applied Psycholinguistics* 21(2): 159-181.
+* Bohannon, J.N. and Stanowicz, L. (1988). “The issue of negative evidence: Adult responses to children's language errors”, *Developmental Psychology*, 24: 684-89.
+* Bohannon, J.N., MacWhinney, B. and Snow, C. (1990). “No negative evidence revisited: Beyond learnability or who has to prove what to whom”, *Developmental Psychology,* 26: 221-26.
+* Bohannon, J. N., Padgett, R. J., Nelson, K. E., & Mark, M. (1996). Useful evidence on negative evidence. *Developmental Psychology, 32*(3), 551-555.
+* Bosman, C., R. Garcia, *et al*. (2004). “FOXP2 and the language working-memory system.” *Trends In Cognitive Sciences* 8(6): 251-252.
+* Botha, R. P. (2003). *Unravelling the Evolution of Language*. U.S.: Elsevier Science.
+* Bradlow, A.R., Pisoni, D.B., Akahane-Yamada, R., and Tohkura, Y. (1997). “Training Japanese listeners to identify English /r/ and /l/: IV. Some effects of perceptual learning on speech production”, *Journal of the Acoustical Society of America*, 101: 2299-2310.
+* Brandon, R.N. and Hornstein, N. (1986a). “From Icons to Symbols: Some Speculations on the Origins of Language”, *Biology and Philosophy*, 1 :169-89.
+* Brown, R. (1973). *A first language: The early stages*, Cambridge, MA: Harvard University Press.
+* Brown, R., Cazden, C. and Bellugi, U. (1969). “The Child's Grammar from I to III”, in *Minnesota Symposium on Child Psychology, Vol. II,* J. Hill (ed.), Minneapolis: University of Minnesota Press.
+* Brown, R. and Hanlon, C. (1970). “Derivational Complexity and Order of Acquisition in Child Speech”, in *Cognition and the Development of Language,* J. R. Hayes (ed.), New York: John Wiley and Sons.
+* Buonomano, D.V. and Merzenich, M.M. (1998). “Cortical plasticity: From synapses to maps”, *Annual Review of Neuroscience,* 21: 149-186.
+* Campanella,. S., Chrysochoos, A., Bruyer, R. (2001). “Categorical perception of facial gender information: Behavioural evidence and the face-space metaphor”, *Visual Cognition*, 8 (2): 237-262.
+* Capirci, O., L. Sabbadini, *et al*. (1996). “Language development in Williams syndrome: A case study.” *Cognitive Neuropsychology* 13(7): 1017-1039.
+* Catania, A.C. (1990). “What good is 5 percent of a language competence”, *Behavioral and Brain Sciences*, 13 : 729-730.
 * Cavalli-Sforza, L.L. (1997). “Genes, peoples, and languages”, PNAS: 94: 7719-772
-* Chambers, K.E., Onishi, K.H., and Fisher, C. (2003). “Infants learn phonotactic regularities from brief auditory experience”, _Cognition_, 87: 69-77.
-* Chater, N., & Manning, C. D. (2006). Probabilistic models of language processing and acquisition. _Trends in Cognitive Sciences, 10_(7), 335-344.
-* Chaudenson, R. (1992). _Des îles, des hommes, des langues_. Paris: L'Harmattan.
-* Chomsky, N. (1957). _Syntactic Structures_, The Hague : Mouton.
-* ––– (1959). Review of Skinner's _Verbal Behavior_, _Language_, 35: 26-58.
-* ––– (1965). _Aspects of the Theory of Syntax_, Cambridge, MA: MIT Press.
-* ––– (1975). _Reflections on Language_, London : Fontana.
-* ––– (1980). _Rules and Representations_. New York: Columbia University Press.
-* ––– (1981). _Lectures on Government and Binding,_ Hawthorne, NY: Walter De Gruyter Incorporated.
-* ––– (1982). _The Generative Enterprise_, Dordrecht: Foris Publications.
-* ––– (1986). _Knowledge of Language, Its Nature, Origin and Use_, NY: Praeger.
-* ––– (1988). _Language and Problems of Knowledge, The Managua Lectures_, Cambridge, MA: MIT Press.
-* ––– (1975a). _The Logical Structure of Linguistic Theory_, NY: Plenum.
-* ––– (1980). _Rules and Representations_, NY: Columbia University Press.
-* ––– (1990). “On the nature, acquisition and use of language”, in _Mind and Cognition: A Reader,_ W.G. Lycan (ed.), Cambridge MA and London UK: Blackwells, pp.627-45.
-* ––– (1995). _The Minimalist Program,_ Cambridge: MIT Press.
-* Chouinard, M.M. and Clark, E.V. (2003) “Adult reformulations of child errors as negative evidence,” _Journal of Child Language_, 30:637-69.
-* Clahsen, H. and Muysken, P. (1986). “The availability of universal grammar to adult and child learners”, _Second Language Research_, 2: 93-119.
-* ––– and M. Almazan (1998). “Syntax and morphology in Williams syndrome.” _Cognition_ 68(3): 167-198.
-* ––– (2001). Compounding and inflection in language impairment: Evidence from Williams Syndrome (and SLI). _Lingua, 111_(10), 729-757.
-* Clark, A. (1997). _Being There: Putting Brain, Body, and World Together Again_, Cambridge, MA: MIT Press.
-* Clark, A. (1997). _Being There: Putting Brain, Body and World Together Again_. Cambridge, Ma: Bradford Books/MIT Press.
-* Cowen T. and Gavazzi, I. (1998). “Plasticity in adult and ageing sympathetic neurons”, _Progress in Neurobiology_, 54:249-88.
-* Cowie, F. (1997). The Logical Problem of Language Acquisition. _Synthese, 111_, 17-51.
-* ––– (1999). _What's Within: Nativism Reconsidered_, New York: Oxford University Press.
-* Crain, S. and Pietroski, P.M. (2001). “Nature, Nurture, and Universal Grammar”, _Linguistics and Philosophy,_ 24: 139-86.
-* ––– (2002). “Why language acquisition is a snap”, _Linguistic Review_, 19 (1-2): 163-183.
-* Crain, S. (1991). “Language acquisition in the absence of experience”, _The Behavioral and Brain Sciences_, 4: 597-650.
-* Curtiss, S. (1977). _Genie: a Psycholinguistic Study of a Modern-day “Wild Child”._ New York: Academic Press.
-* Dawkins, R. and Krebs, J.R. (1979). “Arms races between and within species”, _Proceedings of the Royal Society of London, Series B — Biological Sciences,_ 205: 489-511.
-* DeCaspar, A.J. and Spence, M.J. (1986). “Prenatal maternal speech influences newborns' perception of speech sounds”, _Infant Behavior_ _and Development_, 9:133-150.
-* DeGraff, D. (1999a). Creolization, Language Change, and Language Acquisition. In M. Degraff (Ed.), _Language Creation and Language Change: Creolization, diachrony, and development._ (pp. 1-46). Cambridge, MA: MIT Press.
-* DeGraff, D. (Ed.). (1999b). _Language Creation and Language Change: Creolization, Diachrony and Development_. Cambridge, Ma.: MIT Press.
-* Demetras, M.J., Post, K.N. and Snow, C.E. (1986). “Feedback to first language learners: The role of repetitions and clarification questions”, _Journal of Child Language,_ 13: 275-92.
-* Descartes, R. (1984), “Discourse on the Method”, in _The Philosophical Writings of Descartes_, Vol. II, J. Cottingham, R. Stoothoff and D. Murdoch (eds.), and trans. (1984), Cambridge: Cambridge University Press.
-* Devitt M. (2006). _Ignorance of Language,_ Oxford: Oxford University Press.
-* Dick F., Bates E., Wulfeck B., Utman J.A., Dronkers N. and Gernsbacher M.A. (2001). “Language deficits, localization, and grammar: Evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals”, _Psychological Review_, 108: 759-788.
-* Dronkers, N.F., Redfern, B.B. and Knight, R.T. (2000). “The Neural Architecture of Language Disorders”, in _The New Cognitive Neurosciences, 2\*\*nd_ _Ed.,_ M.S. Gazzaniga (ed.), Cambridge: MIT Press, pp. 949-58.
-* Dunbar, R. (1996). _Grooming, Gossip and the Evolution of Language,_ Cambridge, Ma.: Harvard University Press.
-* Eimas, P.D. (1975). “Speech perception in early infancy”, in _Infant Perception, Vol.2. From sensation to cognition_, L. Cohen and P. Aalapatel (Eds.), New York: Academic Press. Pp.193-231.
-* Elbert, T., Heim, S. and Rockstroh, B. (2001). In _Handbook of Developmental Cognitive Neuroscience,_ C.A. Nelson and M. Luciana, Cambridge: MIT Press, pp. 191-202.
-* Elman, J.L., Bates, E.A., Johnson, M.H., Karmiloff-Smith, A., Parisi, D. and Plunkett, K. (1996). _Rethinking Innateness: A Connectionist Perspective on Development_, Cambridge: Bradford Books/MIT Press.
-* Elman, J.L. (1998). “Generalization, simple recurrent networks, and the emergence of structure”, in _Proceedings of the Twentieth Annual Conference of the Cognitive Science Society,_ M.A. Gernsbacher and S.J. Derry (eds.), Mahwah, NJ: Lawrence Erlbaum Associates.
-* Enard, W., Przeworski, M., Fisher, S., Lai, C., Wiebe, V., Kitano, T., _et al_. (2002). “Molecular evolution of FOXP2, a gene involved in speech and language”,. _Nature, 418_, 869-872.
+* Chambers, K.E., Onishi, K.H., and Fisher, C. (2003). “Infants learn phonotactic regularities from brief auditory experience”, *Cognition*, 87: 69-77.
+* Chater, N., & Manning, C. D. (2006). Probabilistic models of language processing and acquisition. *Trends in Cognitive Sciences, 10*(7), 335-344.
+* Chaudenson, R. (1992). *Des îles, des hommes, des langues*. Paris: L'Harmattan.
+* Chomsky, N. (1957). *Syntactic Structures*, The Hague : Mouton.
+* ––– (1959). Review of Skinner's *Verbal Behavior*, *Language*, 35: 26-58.
+* ––– (1965). *Aspects of the Theory of Syntax*, Cambridge, MA: MIT Press.
+* ––– (1975). *Reflections on Language*, London : Fontana.
+* ––– (1980). *Rules and Representations*. New York: Columbia University Press.
+* ––– (1981). *Lectures on Government and Binding,* Hawthorne, NY: Walter De Gruyter Incorporated.
+* ––– (1982). *The Generative Enterprise*, Dordrecht: Foris Publications.
+* ––– (1986). *Knowledge of Language, Its Nature, Origin and Use*, NY: Praeger.
+* ––– (1988). *Language and Problems of Knowledge, The Managua Lectures*, Cambridge, MA: MIT Press.
+* ––– (1975a). *The Logical Structure of Linguistic Theory*, NY: Plenum.
+* ––– (1980). *Rules and Representations*, NY: Columbia University Press.
+* ––– (1990). “On the nature, acquisition and use of language”, in *Mind and Cognition: A Reader,* W.G. Lycan (ed.), Cambridge MA and London UK: Blackwells, pp.627-45.
+* ––– (1995). *The Minimalist Program,* Cambridge: MIT Press.
+* Chouinard, M.M. and Clark, E.V. (2003) “Adult reformulations of child errors as negative evidence,” *Journal of Child Language*, 30:637-69.
+* Clahsen, H. and Muysken, P. (1986). “The availability of universal grammar to adult and child learners”, *Second Language Research*, 2: 93-119.
+* ––– and M. Almazan (1998). “Syntax and morphology in Williams syndrome.” *Cognition* 68(3): 167-198.
+* ––– (2001). Compounding and inflection in language impairment: Evidence from Williams Syndrome (and SLI). *Lingua, 111*(10), 729-757.
+* Clark, A. (1997). *Being There: Putting Brain, Body, and World Together Again*, Cambridge, MA: MIT Press.
+* Clark, A. (1997). *Being There: Putting Brain, Body and World Together Again*. Cambridge, Ma: Bradford Books/MIT Press.
+* Cowen T. and Gavazzi, I. (1998). “Plasticity in adult and ageing sympathetic neurons”, *Progress in Neurobiology*, 54:249-88.
+* Cowie, F. (1997). The Logical Problem of Language Acquisition. *Synthese, 111*, 17-51.
+* ––– (1999). *What's Within: Nativism Reconsidered*, New York: Oxford University Press.
+* Crain, S. and Pietroski, P.M. (2001). “Nature, Nurture, and Universal Grammar”, *Linguistics and Philosophy,* 24: 139-86.
+* ––– (2002). “Why language acquisition is a snap”, *Linguistic Review*, 19 (1-2): 163-183.
+* Crain, S. (1991). “Language acquisition in the absence of experience”, *The Behavioral and Brain Sciences*, 4: 597-650.
+* Curtiss, S. (1977). *Genie: a Psycholinguistic Study of a Modern-day “Wild Child”.* New York: Academic Press.
+* Dawkins, R. and Krebs, J.R. (1979). “Arms races between and within species”, *Proceedings of the Royal Society of London, Series B — Biological Sciences,* 205: 489-511.
+* DeCaspar, A.J. and Spence, M.J. (1986). “Prenatal maternal speech influences newborns' perception of speech sounds”, *Infant Behavior* *and Development*, 9:133-150.
+* DeGraff, D. (1999a). Creolization, Language Change, and Language Acquisition. In M. Degraff (Ed.), *Language Creation and Language Change: Creolization, diachrony, and development.* (pp. 1-46). Cambridge, MA: MIT Press.
+* DeGraff, D. (Ed.). (1999b). *Language Creation and Language Change: Creolization, Diachrony and Development*. Cambridge, Ma.: MIT Press.
+* Demetras, M.J., Post, K.N. and Snow, C.E. (1986). “Feedback to first language learners: The role of repetitions and clarification questions”, *Journal of Child Language,* 13: 275-92.
+* Descartes, R. (1984), “Discourse on the Method”, in *The Philosophical Writings of Descartes*, Vol. II, J. Cottingham, R. Stoothoff and D. Murdoch (eds.), and trans. (1984), Cambridge: Cambridge University Press.
+* Devitt M. (2006). *Ignorance of Language,* Oxford: Oxford University Press.
+* Dick F., Bates E., Wulfeck B., Utman J.A., Dronkers N. and Gernsbacher M.A. (2001). “Language deficits, localization, and grammar: Evidence for a distributive model of language breakdown in aphasic patients and neurologically intact individuals”, *Psychological Review*, 108: 759-788.
+* Dronkers, N.F., Redfern, B.B. and Knight, R.T. (2000). “The Neural Architecture of Language Disorders”, in *The New Cognitive Neurosciences, 2\*\*nd* *Ed.,* M.S. Gazzaniga (ed.), Cambridge: MIT Press, pp. 949-58.
+* Dunbar, R. (1996). *Grooming, Gossip and the Evolution of Language,* Cambridge, Ma.: Harvard University Press.
+* Eimas, P.D. (1975). “Speech perception in early infancy”, in *Infant Perception, Vol.2. From sensation to cognition*, L. Cohen and P. Aalapatel (Eds.), New York: Academic Press. Pp.193-231.
+* Elbert, T., Heim, S. and Rockstroh, B. (2001). In *Handbook of Developmental Cognitive Neuroscience,* C.A. Nelson and M. Luciana, Cambridge: MIT Press, pp. 191-202.
+* Elman, J.L., Bates, E.A., Johnson, M.H., Karmiloff-Smith, A., Parisi, D. and Plunkett, K. (1996). *Rethinking Innateness: A Connectionist Perspective on Development*, Cambridge: Bradford Books/MIT Press.
+* Elman, J.L. (1998). “Generalization, simple recurrent networks, and the emergence of structure”, in *Proceedings of the Twentieth Annual Conference of the Cognitive Science Society,* M.A. Gernsbacher and S.J. Derry (eds.), Mahwah, NJ: Lawrence Erlbaum Associates.
+* Enard, W., Przeworski, M., Fisher, S., Lai, C., Wiebe, V., Kitano, T., *et al*. (2002). “Molecular evolution of FOXP2, a gene involved in speech and language”,. *Nature, 418*, 869-872.
 * Epstein, S., Flynn, S., and Martohardjono, G. (1996). “Second language acquisition: theoretical and experimental issues in contemporary research,” Brain and Behavioral Sciences, 19:677-758.
 * ––– (1998). “The strong continuity hypothesis: some evidence concerning functional categories in adult L2 acquisition”. In The generative study of second language acquisition, S. Flynn, G. Martohardjono and W. O'Neil (eds.), Mahwah, NJ: Lawrence Erlbaum, pp.61-77.
-* Esser, K-H., Condon, C.J., Suga, N., and Kanwal, J.S. (1997). “Syntax processing by auditory cortical neurons in the FM—FM area of the mustached bat Pteronotus parnellii”, _Proc. Natl. Acad. Sci. USA_. 94: 14019—14024.
-* Etcoff, N.L., Magee, J.J. (1992). “Categorical Perception of Facial Expressions”, _Cognition_ 44: 227-240.
-* Farrar M.J. (1990). “Discourse and the acquisition of grammatical morphemes”, _Journal of Child Language_, 17: 607-24.
-* ––– (1992). “Negative Evidence and Grammatical Morpheme Acquisition”, _Developmental Psychology_, 28: 90-98.
-* Feldman, J. (1972). “Some decidability results on grammatical inference and complexity”, _Information and Control_, 20: 244-62.
-* Ferland, R. J., T. J. Cherry, _et al_. (2003). “Characterization of Foxp2 and Foxp1 mRNA and protein in the developing and mature brain.” _Journal Of Comparative Neurology_ 460(2): 266-279.
-* Fisher, S. E., F. Vargha-Khadem, _et al_. (1997). “Localisation of a gene implicated in a severe speech and language disorder.” _American Journal Of Human Genetics_ 61(4): A28-A28.
-* –––, F. Vargha-Khadem, _et al_. (1998). “Localisation of a gene implicated in a severe speech and language disorder,” _Nature Genetics_ 18(3): 298-298.
-* –––, C. S. L. Lai, _et al_. (2003). “Deciphering the genetic basis of speech and language disorders.” _Annual Review of Neuroscience_ 26: 57-80.
-* Flege, J.E., Yeni-Komshian, G.H. and Liu, S. (1999). “Age constraints on second language acquisition”, _Journal of Memory and Language_, 41: 78-104.
-* Fodor, J.A. (1981). “The Present Status of the Innateness Controversy”, in _RePresentations: Philosophical Essays on the Foundations of Cognitive Science_, Cambridge: MIT Press/Bradford Books, pp. 257-316.
-* Fodor, J.A. (1998). _Concepts: Where Cognitive Science went Wrong_, New York: Oxford University Press.
-* Gold, E.M. (1967). “Language Identification in the Limit”, _Information and Control_, 10: 447-74.
-* Goldin-Meadow, S., and Mylander, C. (1983). “Gestural communication in deaf children: noneffect of parental input on language development”, _Science_, 221: 372-4.
-* Goldin-Meadow, S., and Mylander, C. (1990). “The role of parental input in the development of a morphological system”, _Journal of Child Language_, 17(3): 527-63.
-* Goldin-Meadow, S., and Mylander, C. (1998). “Spontaneous sign systems created by deaf children in two cultures”, _Nature_, 391:279-81.
-* Gopnik, M. (1997). “Language deficits and genetic factors”, _Trends in Cognitive Science_, 1: 5-9
-* ––– (1990a) “Feature-blind grammar and dysphasia”, _Nature_, 344:715.
-* ––– (1990b) “Genetic basis of a grammar defect”, _Nature,_ 347: 26.
-* –––, and Crago, M. (1991). “Familial aggregation of a developmental language disorder”, _Cognition_, 39: 1-50.
-* Grant, J., V. Valian, _et al_. (2002). “A study of relative clauses in Williams syndrome.” _Journal Of Child Language_ 29(2): 403-416.
-* Graybiel, A. M. (1995). “Building action repertoires: Memory and learning functions of the basal ganglia.” _Current Opinion In Neurobiology_ 5(6): 733-741.
+* Esser, K-H., Condon, C.J., Suga, N., and Kanwal, J.S. (1997). “Syntax processing by auditory cortical neurons in the FM—FM area of the mustached bat Pteronotus parnellii”, *Proc. Natl. Acad. Sci. USA*. 94: 14019—14024.
+* Etcoff, N.L., Magee, J.J. (1992). “Categorical Perception of Facial Expressions”, *Cognition* 44: 227-240.
+* Farrar M.J. (1990). “Discourse and the acquisition of grammatical morphemes”, *Journal of Child Language*, 17: 607-24.
+* ––– (1992). “Negative Evidence and Grammatical Morpheme Acquisition”, *Developmental Psychology*, 28: 90-98.
+* Feldman, J. (1972). “Some decidability results on grammatical inference and complexity”, *Information and Control*, 20: 244-62.
+* Ferland, R. J., T. J. Cherry, *et al*. (2003). “Characterization of Foxp2 and Foxp1 mRNA and protein in the developing and mature brain.” *Journal Of Comparative Neurology* 460(2): 266-279.
+* Fisher, S. E., F. Vargha-Khadem, *et al*. (1997). “Localisation of a gene implicated in a severe speech and language disorder.” *American Journal Of Human Genetics* 61(4): A28-A28.
+* –––, F. Vargha-Khadem, *et al*. (1998). “Localisation of a gene implicated in a severe speech and language disorder,” *Nature Genetics* 18(3): 298-298.
+* –––, C. S. L. Lai, *et al*. (2003). “Deciphering the genetic basis of speech and language disorders.” *Annual Review of Neuroscience* 26: 57-80.
+* Flege, J.E., Yeni-Komshian, G.H. and Liu, S. (1999). “Age constraints on second language acquisition”, *Journal of Memory and Language*, 41: 78-104.
+* Fodor, J.A. (1981). “The Present Status of the Innateness Controversy”, in *RePresentations: Philosophical Essays on the Foundations of Cognitive Science*, Cambridge: MIT Press/Bradford Books, pp. 257-316.
+* Fodor, J.A. (1998). *Concepts: Where Cognitive Science went Wrong*, New York: Oxford University Press.
+* Gold, E.M. (1967). “Language Identification in the Limit”, *Information and Control*, 10: 447-74.
+* Goldin-Meadow, S., and Mylander, C. (1983). “Gestural communication in deaf children: noneffect of parental input on language development”, *Science*, 221: 372-4.
+* Goldin-Meadow, S., and Mylander, C. (1990). “The role of parental input in the development of a morphological system”, *Journal of Child Language*, 17(3): 527-63.
+* Goldin-Meadow, S., and Mylander, C. (1998). “Spontaneous sign systems created by deaf children in two cultures”, *Nature*, 391:279-81.
+* Gopnik, M. (1997). “Language deficits and genetic factors”, *Trends in Cognitive Science*, 1: 5-9
+* ––– (1990a) “Feature-blind grammar and dysphasia”, *Nature*, 344:715.
+* ––– (1990b) “Genetic basis of a grammar defect”, *Nature,* 347: 26.
+* –––, and Crago, M. (1991). “Familial aggregation of a developmental language disorder”, *Cognition*, 39: 1-50.
+* Grant, J., V. Valian, *et al*. (2002). “A study of relative clauses in Williams syndrome.” *Journal Of Child Language* 29(2): 403-416.
+* Graybiel, A. M. (1995). “Building action repertoires: Memory and learning functions of the basal ganglia.” *Current Opinion In Neurobiology* 5(6): 733-741.
 * Graybiel, A. M. (1998). “The basal ganglia and chunking of action repertoires.” Neurobiology Of Learning And Memory 70(1-2): 119-136.
-* Griffiths, P. (2002). “What is innateness?”, _Monist_, 85: 70-85.
-* Grimshaw, G.M., Adelstein, A., Bryden, M.P., and MacKinnon, G.E., 1998, “First language acquisition in adolescence: Evidence for a critical period for verbal language development”, _Brain and Language_, 63: 237-55.
-* Haesler, S., K. Wada, _et al_. (2004). “FoxP2 expression in avian vocal learners and non-learners.” _Journal of Neuroscience_ 24(13): 3164-3175.
-* Hakuta, K., Bialystok, E., and Wiley, E. (2003). “Critical evidence: a test of the critical-period hypothesis for second-language acquisition”, _Psycholigical Science,_ 141: 31-8.
-* Hamilton, R.H. and Pascual-Leone, A. (1998). “Cortical plasticity associated with Braille learning”, _Trends in Cognitive Science_, 2: 168-174.
-* Harman, G.H. (1967). “Psychological Aspects of the Theory of Syntax”, _Journal of Philosophy_, 64: 75-87.
-* Harman, G. (1969). Comments on Linguistic Competence and Nativism. _Synthese, 19_, 410-424.
-* Harnad, S.R., ed. (1987). _Categorical Perception : The Groundwork of Cognition,_ Cambridge: Cambridge University Press.
-* Harris, Z.S. (1951). _Structural Linguistics_, Chicago: University of Chicago Press.
-* Hauser, M.D., Chomsky, N., and Fitch, W.Y. (2002). “The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?”, _Science,_ 298: 1569-1579.
-* Hauser, M. D. and McDermott, J. (2003). “The evolution of the music faculty: a comparative perspective”, _Nature Neuroscience_, 6: 663-668.
-* Hauser, M.D., Weiss, D., and Marcus, G. (2002). “Rule learning by cotton-top tamarins”, _Cognition_, 86: 15-22.
-* Hirsh-Pasek, K., Trieman, R. and Schneidermann, M. (1984). “Brown and Hanlon Revisited: Mothers' sensitivity to ungrammatical forms”, _Journal of Child Language_, 11: 81-88.
-* Holland, A.L., Fromm, D.S., DeRuyter, F. and Stein, M. (1996). “Treatment efficacy: aphasia”, _Journal of Speech and Hearing Research_, 39: S27-36.
-* Hornstein, N. and Lightfoot, D., (eds.) (1981). _Explanation in Linguistics: The Logical Problem of Language Acquisition_, London: Longman.
-* Hubel, D.H. and Wiesel, T.N. (1970). “The period of susceptibility to the physiological effects of unilateral eye closure in kittens”, _Journal of Physiology_, 206: 419-436.
-* Jackendoff, R. (1999). “Possible stages in the evolution of the language capacity,” _Trends in Cognitive Sciences_, 3:272-279.
-* Jain, S., Osherson, D., Royer, J.S. and Sharma, A. (1999). _Systems that Learn_, 2nd Ed., Cambridge, MA: MIT Press.
-* Johnson, J. S., & Newport, E. L. (1989). “Critical period effects in 2nd language-learning - the influence of maturational state on the acquisition of english as a 2nd language.” _Cognitive Psychology, 21_(1), 60-99.
-* Johnson, J.S. and Newport, E.L. (1991). “Critical Period Effects on universal properties of language: the status of subjacency in the acquisition of a second language”, _Cognition_, 39: 215-58.
-* Karbe, H., Thiel, A., Weber-Luxemberger, G., Herholz, K., Kessler, J. and Heiss, W. (1998). “Brain Plasticity in Poststroke Aphasia: What Is the Contribution of the Right Hemisphere?”, _Brain and Language_, 64: 215-230.
-* Karmiloff-Smith, A., Grant, J., Berthoud, I., Davies, M., Howlin, P., and Udwin, O. (1997). “Language and Williams Syndrome: How intact is intact?”, _Child Development_, 68(2): 246-62.
-* –––, J. H. Brown, _et al_. (2003). “Dethroning the myth: Cognitive dissociations and innate modularity in Williams syndrome.” _Developmental Neuropsychology_ 23(1-2): 227-242.
-* Katz, L.C., Weliky, M., and Crowley, J.C. (2000). “Activity and the development of the visual cortex: new perpsectives”, in _The New Cognitive Neurosciences, 2\*\*nd_ _Ed.,_ M.S. Gazzaniga (ed.), Cambridge: MIT Press, pp. 199-212.
-* Kegl J., Senghas A., Coppola M. (1999). “Creation through contact: Sign language emergence and sign language change in Nicaragua.” In M. DeGraff (ed), _Comparative Grammatical Change: The Intersection of Language Acquisition, Creole Genesis and Diachronic Syntax,_ Cambridge MA: MIT Press, pp.179-237.
-* Kellerman, E., van Ijzendorn, J., and Takashima, H. (1999). “Retesting a universal: the Empty Category Principle and learners of (pseudo)Japanese”, in _The acquisition of Japanese as a second language_, K. Kanno (ed.), Amsterdam: John Benjamins, pp. 71-87.
-* Kellerman, E. and Yoshioka, K. (1999). “Inter- and intra-population consistency: a comment on Kanno (1998)”, _Second Language Research_, 15: 101-9.
-* Kotsoni E., de Haan, M. and Johnson, M.H. (2001). “Categorical perception of facial expressions by 7-month-old infants”, _Perception_, 30 (9): 1115-1125.
-* Kuhl, P.K. (1994). “Learning and Representation in Speech and Language”, _Current Opinion in Neurobiology,_ 4: 812-822.
-* ––– (2000). “A new view of language acquisition”, _PNAS,_ 97 (22): 11850-11857.
-* –––, and Miller, J.D. (1975). “Speech Perception by the Chinchilla: Voiced-Voiceless Distinction in Alveolar Plosive Consonants”, _Science_, 190: 69-72.
-* –––, Andruski, J.E., Chistovich, I.A., Chistovich, L.A., Kozhevnikova, E.V., Ryskina, V.L., Stolyarova, E.I., Sundberg, U., Lacerda, F. (1997a). “Cross-Language Analysis of Phonetic Units in Language Addressed to Infants”, _Science,_ 277: 684-686.
-* –––, Kiritani, S., Degughi, T., Hayashi, A., Stevens, E.B., Dugger, C.D. and Iverson, P. (1997b). “Effects of language experience on speech perception: American and Japanese infants' perception of /ra/ and /la/”, _Journal of the Acoustical Society of America_, 100: 2425-38.
-* Kujala, T., Alho, K., Huotilainen, M., Ilmoniemi, R.J., Lehtoski, A., Leionen, A., Rinne, T., Salonen, O., Sinkkonen, J., Standertskjold-Nordenstam, C.G., and Naatanen, R. (1997). “Electrophysiological evidence for cross-modal plasticity in humans with early- and late-onset blindness”, _Psychophysiology_, 34: 213-6.
-* Jones, P. (1995). Contradictions and unanswered questions in the Genie case: A fresh look at the linguistic evidence. _Language and Communication, 15_(3), 261-280.
-* Lai CSL, Fisher SE, Hurst JA, Vargha-Khadem F, Monaco AP (2001). “A forkhead-domain gene is mutated in a severe speech and language disorder”, _Nature_, 413 (6855): 519-523.
-* –––, D. Gerrelli, _et al_. (2003). “FOXP2 expression during brain development coincides with adult sites of pathology in a severe speech and language disorder.” _Brain_ 126: 2455-2462.
+* Griffiths, P. (2002). “What is innateness?”, *Monist*, 85: 70-85.
+* Grimshaw, G.M., Adelstein, A., Bryden, M.P., and MacKinnon, G.E., 1998, “First language acquisition in adolescence: Evidence for a critical period for verbal language development”, *Brain and Language*, 63: 237-55.
+* Haesler, S., K. Wada, *et al*. (2004). “FoxP2 expression in avian vocal learners and non-learners.” *Journal of Neuroscience* 24(13): 3164-3175.
+* Hakuta, K., Bialystok, E., and Wiley, E. (2003). “Critical evidence: a test of the critical-period hypothesis for second-language acquisition”, *Psycholigical Science,* 141: 31-8.
+* Hamilton, R.H. and Pascual-Leone, A. (1998). “Cortical plasticity associated with Braille learning”, *Trends in Cognitive Science*, 2: 168-174.
+* Harman, G.H. (1967). “Psychological Aspects of the Theory of Syntax”, *Journal of Philosophy*, 64: 75-87.
+* Harman, G. (1969). Comments on Linguistic Competence and Nativism. *Synthese, 19*, 410-424.
+* Harnad, S.R., ed. (1987). *Categorical Perception : The Groundwork of Cognition,* Cambridge: Cambridge University Press.
+* Harris, Z.S. (1951). *Structural Linguistics*, Chicago: University of Chicago Press.
+* Hauser, M.D., Chomsky, N., and Fitch, W.Y. (2002). “The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?”, *Science,* 298: 1569-1579.
+* Hauser, M. D. and McDermott, J. (2003). “The evolution of the music faculty: a comparative perspective”, *Nature Neuroscience*, 6: 663-668.
+* Hauser, M.D., Weiss, D., and Marcus, G. (2002). “Rule learning by cotton-top tamarins”, *Cognition*, 86: 15-22.
+* Hirsh-Pasek, K., Trieman, R. and Schneidermann, M. (1984). “Brown and Hanlon Revisited: Mothers' sensitivity to ungrammatical forms”, *Journal of Child Language*, 11: 81-88.
+* Holland, A.L., Fromm, D.S., DeRuyter, F. and Stein, M. (1996). “Treatment efficacy: aphasia”, *Journal of Speech and Hearing Research*, 39: S27-36.
+* Hornstein, N. and Lightfoot, D., (eds.) (1981). *Explanation in Linguistics: The Logical Problem of Language Acquisition*, London: Longman.
+* Hubel, D.H. and Wiesel, T.N. (1970). “The period of susceptibility to the physiological effects of unilateral eye closure in kittens”, *Journal of Physiology*, 206: 419-436.
+* Jackendoff, R. (1999). “Possible stages in the evolution of the language capacity,” *Trends in Cognitive Sciences*, 3:272-279.
+* Jain, S., Osherson, D., Royer, J.S. and Sharma, A. (1999). *Systems that Learn*, 2nd Ed., Cambridge, MA: MIT Press.
+* Johnson, J. S., & Newport, E. L. (1989). “Critical period effects in 2nd language-learning - the influence of maturational state on the acquisition of english as a 2nd language.” *Cognitive Psychology, 21*(1), 60-99.
+* Johnson, J.S. and Newport, E.L. (1991). “Critical Period Effects on universal properties of language: the status of subjacency in the acquisition of a second language”, *Cognition*, 39: 215-58.
+* Karbe, H., Thiel, A., Weber-Luxemberger, G., Herholz, K., Kessler, J. and Heiss, W. (1998). “Brain Plasticity in Poststroke Aphasia: What Is the Contribution of the Right Hemisphere?”, *Brain and Language*, 64: 215-230.
+* Karmiloff-Smith, A., Grant, J., Berthoud, I., Davies, M., Howlin, P., and Udwin, O. (1997). “Language and Williams Syndrome: How intact is intact?”, *Child Development*, 68(2): 246-62.
+* –––, J. H. Brown, *et al*. (2003). “Dethroning the myth: Cognitive dissociations and innate modularity in Williams syndrome.” *Developmental Neuropsychology* 23(1-2): 227-242.
+* Katz, L.C., Weliky, M., and Crowley, J.C. (2000). “Activity and the development of the visual cortex: new perpsectives”, in *The New Cognitive Neurosciences, 2\*\*nd* *Ed.,* M.S. Gazzaniga (ed.), Cambridge: MIT Press, pp. 199-212.
+* Kegl J., Senghas A., Coppola M. (1999). “Creation through contact: Sign language emergence and sign language change in Nicaragua.” In M. DeGraff (ed), *Comparative Grammatical Change: The Intersection of Language Acquisition, Creole Genesis and Diachronic Syntax,* Cambridge MA: MIT Press, pp.179-237.
+* Kellerman, E., van Ijzendorn, J., and Takashima, H. (1999). “Retesting a universal: the Empty Category Principle and learners of (pseudo)Japanese”, in *The acquisition of Japanese as a second language*, K. Kanno (ed.), Amsterdam: John Benjamins, pp. 71-87.
+* Kellerman, E. and Yoshioka, K. (1999). “Inter- and intra-population consistency: a comment on Kanno (1998)”, *Second Language Research*, 15: 101-9.
+* Kotsoni E., de Haan, M. and Johnson, M.H. (2001). “Categorical perception of facial expressions by 7-month-old infants”, *Perception*, 30 (9): 1115-1125.
+* Kuhl, P.K. (1994). “Learning and Representation in Speech and Language”, *Current Opinion in Neurobiology,* 4: 812-822.
+* ––– (2000). “A new view of language acquisition”, *PNAS,* 97 (22): 11850-11857.
+* –––, and Miller, J.D. (1975). “Speech Perception by the Chinchilla: Voiced-Voiceless Distinction in Alveolar Plosive Consonants”, *Science*, 190: 69-72.
+* –––, Andruski, J.E., Chistovich, I.A., Chistovich, L.A., Kozhevnikova, E.V., Ryskina, V.L., Stolyarova, E.I., Sundberg, U., Lacerda, F. (1997a). “Cross-Language Analysis of Phonetic Units in Language Addressed to Infants”, *Science,* 277: 684-686.
+* –––, Kiritani, S., Degughi, T., Hayashi, A., Stevens, E.B., Dugger, C.D. and Iverson, P. (1997b). “Effects of language experience on speech perception: American and Japanese infants' perception of /ra/ and /la/”, *Journal of the Acoustical Society of America*, 100: 2425-38.
+* Kujala, T., Alho, K., Huotilainen, M., Ilmoniemi, R.J., Lehtoski, A., Leionen, A., Rinne, T., Salonen, O., Sinkkonen, J., Standertskjold-Nordenstam, C.G., and Naatanen, R. (1997). “Electrophysiological evidence for cross-modal plasticity in humans with early- and late-onset blindness”, *Psychophysiology*, 34: 213-6.
+* Jones, P. (1995). Contradictions and unanswered questions in the Genie case: A fresh look at the linguistic evidence. *Language and Communication, 15*(3), 261-280.
+* Lai CSL, Fisher SE, Hurst JA, Vargha-Khadem F, Monaco AP (2001). “A forkhead-domain gene is mutated in a severe speech and language disorder”, *Nature*, 413 (6855): 519-523.
+* –––, D. Gerrelli, *et al*. (2003). “FOXP2 expression during brain development coincides with adult sites of pathology in a severe speech and language disorder.” *Brain* 126: 2455-2462.
 * Lasnik, H. (1989). “On Certain Substitutes for Negative Data”, Demopoulos and Marras (1989:89-105).
-* Lasnik, H. and Uriagereka, J. (1986). _A Course in GB Syntax: Lectures on Binding and Empty Categories_ (Current Studies in Linguistics), Cambridge: MIT Press.
-* Lenneberg, E.H. (1964). “A biological perspective of language”, in E.H. Lenneberg, ed., _New Directions in the Study of Language_, Cambridge: MIT Press. Pp.65-88
-* ––– (1967). _Biological Foundations of Language,_ New York: Wiley.
-* Levy, Y. and Hermon (2003). “Morphological abilities of Hebrew-speaking adolescents with Williams syndrome,” _Developmental Neuropsychology_, 23(1-2):59-83
-* Lewontin, R. (1998). “The Evolution of Cognition: Questions we will Never Answer,” In R. Sternberg and D. Scarborough (eds.), _An Invitation to Cognitive Science, Vol. 4: Methods, Models and Conceptual Issues_, Cambridge, MIT Press, pp.107-32.
-* Lenneberg, E.H. (1964). “A biological perspective of language”, in E.H. Lenneberg, ed., _New Directions in the Study of Language_, Cambridge: MIT Press. Pp.65-88
-* ––– (1967). _Biological Foundations of Language,_ New York: Wiley.
-* Lieberman, P. (2002). “On the nature and evolution of the neural bases of human language,” _American Journal of Physical Anthropology,_ 119, pp. 36-62.Liegeois, F., T. Baldeweg, _et al_. (2003). “Language fMRI abnormalities associated with FOXP2 gene mutation.” _Nature Neuroscience_ 6(11): 1230-1237.
-* Lumsden, J.S. (1999). “Language acquisition and creolization”, _Language Creation and Language Change: Creolization, Diachrony and Development_, M. DeGraff (ed.), Cambridge: MIT Press, pp.129-57.
-* Maratsos, M.P. (1989). “Innateness and plasticity in language acquisition,” in M.L. Rice and R.L. Schiefelbusch, eds., _The Teachability of Language_, Baltimore, Paul H. Brooks, 105-25.
-* Markson, L. (2006). Core mechanisms of word learning. In _Processes of Change in Brain and Cognitive Development: Attention and Performance Xxi_ (pp. 111-128). New York: Oxford Univ Press.
-* Martin, R.C. (2003). “Language Processing: Functional Organization and Neuroanatomical Basis”, _Annual Review of Psychology_, 54:55-89.
-* Mayberry R.I., Eichen, E.B. (1991). “The Long-Lasting Advantage of Learning Sign Language in Childhood - Another Look at the Critical Period for Language-Acquisition”, _J Mem Lang,_ 30 (4): 486-512.
-* Macdonald, C., (ed) (1995). “Tacit Knowledge” in _Philosophy of Psychology: Debates on Psychological Explanation,_ Cambridge: Blackwell.
-* McGonigle, B., Chalmers, M., and Dickinson, A. (2003). “Concurrent disjoint and reciprocal classification by Cebus apella in seriation tasks: evidence for hierarchical organization”, _Animal Cognition_ Vol. 6, No. 3: 185-197.
-* Maess, B., Koelsch, S., Gunter, T. C. & Friederici, A. D., 2001, “Musical Syntax is processed in Broca's area: an MEG study”, _Nature Neuroscience,_ 4: 540-545.
-* Marcus, G. F. (1998). “Can connectionism save constructivism?” _Cognition_, 66: 153-182.
-* ––– (2001). _The Algebraic Mind: Integrating Connectionism and Cognitive Science_, Cambridge, MA: MIT Press.
-* ––– (2004). _The Birth of the Mind: How a Tiny Number of Genes Creates the Complexity of Human Thought,_ Basic Books, New York.
-* Margolis, E. (1998). “How to Acquire a Concept”, _Mind and Language,_ 13(3): 347-369.
-* Matthews, R.J. (2001). “Cowie's Anti-Nativism”, _Mind and Language_, 16: 215-230.
-* von Melchner, L., Pallas, S.L. and Sur, M. (2000). “Visual behaviour mediated by retunal projections directed to the auditory pathway”, _Nature_, 404: 871-76.
-* Mervis, C. B., B. F. Robinson, _et al_. (2000). “The Williams syndrome cognitive profile.” _Brain and Cognition,_ 44(3): 604-628.
-* Mintz T.H. (2002). “Category induction from distributional cues in an artificial language”, _Memory and Cognition_, 30: 678-686.
-* Moerk, E. (1991). “Positive evidence for negative evidence”, _First Language_, 11: 219-51.
-* Mohr, J.P., Pessin, M.S., Finkelstein, S., Funkenstein, H.H., Duncan, G.W. and Davis, K.R. (1978). “Broca aphasia: pathological and clinical”, _Neurology_, 28: 311-24.
-* Morgan, J. L., Meier, R. P., & Newport, E. L. (1987). “Structural packaging in the input to language-learning - contributions of prosodic and morphological marking of phrases to the acquisition of language.” _Cognitive Psychology, 19_(4), 498-550.
-* Morgan, J.L. and Travis, L.L. (1989). “Limits on negative information in language input”, _Journal of Child Language,_ 16: 531-552.
-* Morgan, J.L., Bonamo, K.M. and Travis, L.L. (1995). “Negative Evidence on Negative Evidence”, _Developmental Psychology_, 31: 180-197.
-* Morris, C. A. and C. B. Mervis (2000). “Williams syndrome and related disorders.” _Annual Review of Genomics and Human Genetics_ 1: 461-484.
-* Mufwene, S.S. (1999). “On the language bioprogram hypothesis: hints from Tarzie”, _Language Creation and Language Change: Creolization, Diachrony and Development_, M. DeGraff (ed.), Cambridge: MIT Press, pp.95-127.
-* Muller R.A., Rothermel R.D., Behen M.E., Muzik O., Chakraborty P.K., and Chugani H.T. (1999). “Language organization in patients with early and late left-hemisphere lesion: a PET study”, _Neuropsychologia,_ 37: 545-557.
-* Myhill, J. (1991). “Typological test analysis: tense and aspecte in creoles and second languages”, in _Crosscurrents in Second Language Acquisition and Linguistic Theories_, T. Huebner and C.A. Ferguson (eds.), Amsterdam: John Benjamins, pp. 93-121.
-* Nazzi, T. and Ramus, F. (2003). “Perception and acquisition of linguistic rhythm by infants”, _Journal of Speech Communication_, 41: 233-43.
-* Nelson D.A., Marler P. (1989). “Categorical perception of a natural stimulus continuum: birdsong”, _Science_, 244: 976-8.
-* Newell, F.N., Bulthoff, H.H. (2002). “Categorical perception of familiar objects”, _Cognition_ 85 (2): 113-143
-* Newmeyer, F.J. (1986). _Linguistic Theory in America_, 2nd Ed., New York: Academic Press.
-* ––– (1997). _Generative Linguistics: A Historical Perspective_, London and New York: Routledge.
-* Newport, E.L. (1990). “Maturational constraints on language learning”, _Cognitive Science,_ 14: 11-28.
-* ––– (2001). “Reduced input in the acquisition of signed languages: contributions to the study of creolization”, _Language Creation and Language Change: Creolization, Diachrony and Development_, M. DeGraff (ed.), Cambridge: MIT Press, pp.161-78.
-* Newport, E., Gleitman, H. and Gleitman, L. (1977). “Mother, please, I'd rather do it myself: some effects and non-effects of maternal speech style”, in _Talking to Children: Language Input and Acquisition,_ Snow, C. and Ferguson, C. (eds.), New York: Cambridge University Press, pp.109-50.
-* Newport, E. L., & Aslin, R. N. (2004). Learning at a distance I. Statistical learning of non-adjacent dependencies. _Cognitive Psychology, 48_(2), 127-162.
-* Nishimura, H., Hashikawa, K., Doi, K., Iwaki, T., Watanabe, Y., Kusuoka, H., Nishimura, T. and Kubo, T. (1999). _Nature,_ 397: 116.
-* Norbury, C. F., D. V. M. Bishop, and Briscoe, J. (2002). “Does impaired grammatical comprehension provide evidence for an innate grammar module?” _Applied Psycholinguistics_ 23(2): 247-268.
-* O'Brien E.K., Zhang X.Y., Nishimura C., Tomblin J.B., Murray J.C. (2003). “Association of specific language impairment (SLI) to the region of 7q31”, _American Journal Of Human Genetics_ 72 (6): 1536-1543
-* Odling-Smee, J., Laland, K. and Feldman, M. 1996, “Niche Construction,” _American Naturalist_, 147:641-8.
-* Pastore, R.E., Li, X.F. and Layer, J.K. (1990). “Categorical perception of nonspeech chirps and bleats”, _Percept Psychophys,_ 48(2):151-6.
-* Pena, M., Bonatti, L.L., Nespor, M., and Mehler, J. (2002). “Signal-driven computations in speech processing”, _Science_, 298: 604-7.
-* Pinker, S. (1989). _Learnability and Cognition: The Acquisition of Argument Structure_, Cambridge, MA: Bradford/MIT Press.
-* ––– (1991). “Rules of Language.” _Science_, 253:530-35.
-* ––– (1994). _The Language Instinct_, New York: Harper Collins.
-* ––– (1997). _How the Mind Works_, New York, Norton.
-* ––– and Bloom, P. (1990). “Natural Language and Natural Selection,” _Behavioral and Brain Sciences_, 13, pp.707-84.
-* Posner, M.I. and Raichle, M.E. (1994). _Images of Mind._ 2nd Ed., New York: W H Freeman & Co.
-* Prinz, J.J. (2002). _Furnishing the Mind: Concepts and their Perceptual Basis_, Bradford Books/MIT Press.
-* Pullum G.K. and Scholz, B.C. (2002). “Empirical assessment of stimulus poverty arguments”, _The Linguistic Review,_ 19 9-50.(Special issue, nos. 1-2: ‘A Review of “The Poverty of Stimulus Argument”,’ ed. N. Ritter).
-* Putnam, H. (1971). “The ‘Innateness Hypothesis’ and explanatory models in linguistics”, in _The Philosophy of Language,_ J. Searle (ed.), London: Oxford University Press, pp.130-9.
-* Quartz, S.R. and Sejnowski, T.J. (1997). “The Neural Basis of Cognitive Development: A Constructivist Manifesto,” _Brain and Behavioral Sciences_, 20:537-596.
-* Ramus, F., Hauser, M.D., Miller, C., Morris, D., Mehler, J. (2000). “Language Discrimination by Human Newborns and by Cotton-Top Tamarin Monkeys”, _Science,_ 288: 349-351.
-* Redington, M. and Chater, N. (1998). “Connectionist and statistical approaches to language acquisition: A distributional perspective”, _Language and Cognitive Processes_, 13: 129-191.
-* Rice, M. L. and K. Wexler (1996). “Toward tense as a clinical marker of specific language impairment in English-speaking children.” _Journal of Speech and Hearing Research_ 39(6): 1239-1257.
-* Ritter, N.A. (2002). ‘A Review of “The Poverty of Stimulus Argument”,’ _The Linguistic Review_ (Special Issue), 19:1-2.
-* Roeper, T. and Williams, E., (eds.) (1987). _Parameter Setting: Studies in Theoretical Psycholinguistics_, Vol. 4, Dordrecht: Kluwer.
-* Sadato, N. Pascual-Leone, A., Grafman, J., Ibanez, V., Deiber, M.P., Dold, G. and Hallett, M. (1996). “Activation of the primary visual cortex by Braille reading in blind subjects”, _Nature_, 380: 526-8.
-* Saffran, E.M. (2000). “Aphasias and the relationship of language and brain”, _Seminars in Neurology,_ 20: 409-418.
-* Saffran, J.R., Aslin, R.N. and Newport, E.L. (1996). “Statistical Learning by 8-Month-Old Infants”, _Science_, 274: 1926-28.
-* Saffran, J.R. (2002). “Constraints on statistical language learning”, _Journal of Memory and Language_, 47: 172-96.
-* Saffran, J.R. and Thiessen, E.D. (2003). “Pattern induction by infant language learners”, _Developmental Psychology_, 40: 484-94.
-* Saffran, J. R., & Wilson, D. P. (2003). From syllables to syntax: Multilevel statistical learning by 12-month-old infants. _Infancy, 4_(2), 273-284.
-* Samet, J. (1986). “Troubles with Fodor's Nativism”, _Midwest Studies in Philosophy_, X. Boston: Blackwells. 575-594.
-* Sampson, G. (1989). “Language Acquisition: Growth or Learning?”, _Philosophical Papers_, XVIII: 203-40.
-* ––– (2002). “Exploring the richness of the stimulus”, _The Linguistic Review_, 19: 73-104. (Special issue, nos. 1-2: ‘A Review of “The Poverty of Stimulus Argument”’, N. Ritter (ed.)).
-* Sapir, E. (1921). _Language: An Introduction to the Study of Speech_, Hillsdale, NJ: Erlbaum.
-* Saxton M. (1997). “The contrast theory of negative input”, _Journal of Child Language_, 24:139-61.
-* –––, Kulcsar B., Marshall G., and Rupra M.J., 1988, “Longer-term effects of corrective input: an experimental approach”, _Child Language_, 25: 701-21.
-* Scharff, C. and S. A. White (2004). Genetic components of vocal learning. _Behavioral Neurobiology of Birdsong_. 1016: 325-347.
-* Scholz, B.C. and Pullum, G.K. (2002). “Searching for arguments to support linguistic nativism”, _The Linguistic Review_, 19: 185-224. (Special issue, nos. 1-2: ‘A Review of “The Poverty of Stimulus Argument”,’ N. Ritter(ed.))
+* Lasnik, H. and Uriagereka, J. (1986). *A Course in GB Syntax: Lectures on Binding and Empty Categories* (Current Studies in Linguistics), Cambridge: MIT Press.
+* Lenneberg, E.H. (1964). “A biological perspective of language”, in E.H. Lenneberg, ed., *New Directions in the Study of Language*, Cambridge: MIT Press. Pp.65-88
+* ––– (1967). *Biological Foundations of Language,* New York: Wiley.
+* Levy, Y. and Hermon (2003). “Morphological abilities of Hebrew-speaking adolescents with Williams syndrome,” *Developmental Neuropsychology*, 23(1-2):59-83
+* Lewontin, R. (1998). “The Evolution of Cognition: Questions we will Never Answer,” In R. Sternberg and D. Scarborough (eds.), *An Invitation to Cognitive Science, Vol. 4: Methods, Models and Conceptual Issues*, Cambridge, MIT Press, pp.107-32.
+* Lenneberg, E.H. (1964). “A biological perspective of language”, in E.H. Lenneberg, ed., *New Directions in the Study of Language*, Cambridge: MIT Press. Pp.65-88
+* ––– (1967). *Biological Foundations of Language,* New York: Wiley.
+* Lieberman, P. (2002). “On the nature and evolution of the neural bases of human language,” *American Journal of Physical Anthropology,* 119, pp. 36-62.Liegeois, F., T. Baldeweg, *et al*. (2003). “Language fMRI abnormalities associated with FOXP2 gene mutation.” *Nature Neuroscience* 6(11): 1230-1237.
+* Lumsden, J.S. (1999). “Language acquisition and creolization”, *Language Creation and Language Change: Creolization, Diachrony and Development*, M. DeGraff (ed.), Cambridge: MIT Press, pp.129-57.
+* Maratsos, M.P. (1989). “Innateness and plasticity in language acquisition,” in M.L. Rice and R.L. Schiefelbusch, eds., *The Teachability of Language*, Baltimore, Paul H. Brooks, 105-25.
+* Markson, L. (2006). Core mechanisms of word learning. In *Processes of Change in Brain and Cognitive Development: Attention and Performance Xxi* (pp. 111-128). New York: Oxford Univ Press.
+* Martin, R.C. (2003). “Language Processing: Functional Organization and Neuroanatomical Basis”, *Annual Review of Psychology*, 54:55-89.
+* Mayberry R.I., Eichen, E.B. (1991). “The Long-Lasting Advantage of Learning Sign Language in Childhood - Another Look at the Critical Period for Language-Acquisition”, *J Mem Lang,* 30 (4): 486-512.
+* Macdonald, C., (ed) (1995). “Tacit Knowledge” in *Philosophy of Psychology: Debates on Psychological Explanation,* Cambridge: Blackwell.
+* McGonigle, B., Chalmers, M., and Dickinson, A. (2003). “Concurrent disjoint and reciprocal classification by Cebus apella in seriation tasks: evidence for hierarchical organization”, *Animal Cognition* Vol. 6, No. 3: 185-197.
+* Maess, B., Koelsch, S., Gunter, T. C. & Friederici, A. D., 2001, “Musical Syntax is processed in Broca's area: an MEG study”, *Nature Neuroscience,* 4: 540-545.
+* Marcus, G. F. (1998). “Can connectionism save constructivism?” *Cognition*, 66: 153-182.
+* ––– (2001). *The Algebraic Mind: Integrating Connectionism and Cognitive Science*, Cambridge, MA: MIT Press.
+* ––– (2004). *The Birth of the Mind: How a Tiny Number of Genes Creates the Complexity of Human Thought,* Basic Books, New York.
+* Margolis, E. (1998). “How to Acquire a Concept”, *Mind and Language,* 13(3): 347-369.
+* Matthews, R.J. (2001). “Cowie's Anti-Nativism”, *Mind and Language*, 16: 215-230.
+* von Melchner, L., Pallas, S.L. and Sur, M. (2000). “Visual behaviour mediated by retunal projections directed to the auditory pathway”, *Nature*, 404: 871-76.
+* Mervis, C. B., B. F. Robinson, *et al*. (2000). “The Williams syndrome cognitive profile.” *Brain and Cognition,* 44(3): 604-628.
+* Mintz T.H. (2002). “Category induction from distributional cues in an artificial language”, *Memory and Cognition*, 30: 678-686.
+* Moerk, E. (1991). “Positive evidence for negative evidence”, *First Language*, 11: 219-51.
+* Mohr, J.P., Pessin, M.S., Finkelstein, S., Funkenstein, H.H., Duncan, G.W. and Davis, K.R. (1978). “Broca aphasia: pathological and clinical”, *Neurology*, 28: 311-24.
+* Morgan, J. L., Meier, R. P., & Newport, E. L. (1987). “Structural packaging in the input to language-learning - contributions of prosodic and morphological marking of phrases to the acquisition of language.” *Cognitive Psychology, 19*(4), 498-550.
+* Morgan, J.L. and Travis, L.L. (1989). “Limits on negative information in language input”, *Journal of Child Language,* 16: 531-552.
+* Morgan, J.L., Bonamo, K.M. and Travis, L.L. (1995). “Negative Evidence on Negative Evidence”, *Developmental Psychology*, 31: 180-197.
+* Morris, C. A. and C. B. Mervis (2000). “Williams syndrome and related disorders.” *Annual Review of Genomics and Human Genetics* 1: 461-484.
+* Mufwene, S.S. (1999). “On the language bioprogram hypothesis: hints from Tarzie”, *Language Creation and Language Change: Creolization, Diachrony and Development*, M. DeGraff (ed.), Cambridge: MIT Press, pp.95-127.
+* Muller R.A., Rothermel R.D., Behen M.E., Muzik O., Chakraborty P.K., and Chugani H.T. (1999). “Language organization in patients with early and late left-hemisphere lesion: a PET study”, *Neuropsychologia,* 37: 545-557.
+* Myhill, J. (1991). “Typological test analysis: tense and aspecte in creoles and second languages”, in *Crosscurrents in Second Language Acquisition and Linguistic Theories*, T. Huebner and C.A. Ferguson (eds.), Amsterdam: John Benjamins, pp. 93-121.
+* Nazzi, T. and Ramus, F. (2003). “Perception and acquisition of linguistic rhythm by infants”, *Journal of Speech Communication*, 41: 233-43.
+* Nelson D.A., Marler P. (1989). “Categorical perception of a natural stimulus continuum: birdsong”, *Science*, 244: 976-8.
+* Newell, F.N., Bulthoff, H.H. (2002). “Categorical perception of familiar objects”, *Cognition* 85 (2): 113-143
+* Newmeyer, F.J. (1986). *Linguistic Theory in America*, 2nd Ed., New York: Academic Press.
+* ––– (1997). *Generative Linguistics: A Historical Perspective*, London and New York: Routledge.
+* Newport, E.L. (1990). “Maturational constraints on language learning”, *Cognitive Science,* 14: 11-28.
+* ––– (2001). “Reduced input in the acquisition of signed languages: contributions to the study of creolization”, *Language Creation and Language Change: Creolization, Diachrony and Development*, M. DeGraff (ed.), Cambridge: MIT Press, pp.161-78.
+* Newport, E., Gleitman, H. and Gleitman, L. (1977). “Mother, please, I'd rather do it myself: some effects and non-effects of maternal speech style”, in *Talking to Children: Language Input and Acquisition,* Snow, C. and Ferguson, C. (eds.), New York: Cambridge University Press, pp.109-50.
+* Newport, E. L., & Aslin, R. N. (2004). Learning at a distance I. Statistical learning of non-adjacent dependencies. *Cognitive Psychology, 48*(2), 127-162.
+* Nishimura, H., Hashikawa, K., Doi, K., Iwaki, T., Watanabe, Y., Kusuoka, H., Nishimura, T. and Kubo, T. (1999). *Nature,* 397: 116.
+* Norbury, C. F., D. V. M. Bishop, and Briscoe, J. (2002). “Does impaired grammatical comprehension provide evidence for an innate grammar module?” *Applied Psycholinguistics* 23(2): 247-268.
+* O'Brien E.K., Zhang X.Y., Nishimura C., Tomblin J.B., Murray J.C. (2003). “Association of specific language impairment (SLI) to the region of 7q31”, *American Journal Of Human Genetics* 72 (6): 1536-1543
+* Odling-Smee, J., Laland, K. and Feldman, M. 1996, “Niche Construction,” *American Naturalist*, 147:641-8.
+* Pastore, R.E., Li, X.F. and Layer, J.K. (1990). “Categorical perception of nonspeech chirps and bleats”, *Percept Psychophys,* 48(2):151-6.
+* Pena, M., Bonatti, L.L., Nespor, M., and Mehler, J. (2002). “Signal-driven computations in speech processing”, *Science*, 298: 604-7.
+* Pinker, S. (1989). *Learnability and Cognition: The Acquisition of Argument Structure*, Cambridge, MA: Bradford/MIT Press.
+* ––– (1991). “Rules of Language.” *Science*, 253:530-35.
+* ––– (1994). *The Language Instinct*, New York: Harper Collins.
+* ––– (1997). *How the Mind Works*, New York, Norton.
+* ––– and Bloom, P. (1990). “Natural Language and Natural Selection,” *Behavioral and Brain Sciences*, 13, pp.707-84.
+* Posner, M.I. and Raichle, M.E. (1994). *Images of Mind.* 2nd Ed., New York: W H Freeman & Co.
+* Prinz, J.J. (2002). *Furnishing the Mind: Concepts and their Perceptual Basis*, Bradford Books/MIT Press.
+* Pullum G.K. and Scholz, B.C. (2002). “Empirical assessment of stimulus poverty arguments”, *The Linguistic Review,* 19 9-50.(Special issue, nos. 1-2: ‘A Review of “The Poverty of Stimulus Argument”,’ ed. N. Ritter).
+* Putnam, H. (1971). “The ‘Innateness Hypothesis’ and explanatory models in linguistics”, in *The Philosophy of Language,* J. Searle (ed.), London: Oxford University Press, pp.130-9.
+* Quartz, S.R. and Sejnowski, T.J. (1997). “The Neural Basis of Cognitive Development: A Constructivist Manifesto,” *Brain and Behavioral Sciences*, 20:537-596.
+* Ramus, F., Hauser, M.D., Miller, C., Morris, D., Mehler, J. (2000). “Language Discrimination by Human Newborns and by Cotton-Top Tamarin Monkeys”, *Science,* 288: 349-351.
+* Redington, M. and Chater, N. (1998). “Connectionist and statistical approaches to language acquisition: A distributional perspective”, *Language and Cognitive Processes*, 13: 129-191.
+* Rice, M. L. and K. Wexler (1996). “Toward tense as a clinical marker of specific language impairment in English-speaking children.” *Journal of Speech and Hearing Research* 39(6): 1239-1257.
+* Ritter, N.A. (2002). ‘A Review of “The Poverty of Stimulus Argument”,’ *The Linguistic Review* (Special Issue), 19:1-2.
+* Roeper, T. and Williams, E., (eds.) (1987). *Parameter Setting: Studies in Theoretical Psycholinguistics*, Vol. 4, Dordrecht: Kluwer.
+* Sadato, N. Pascual-Leone, A., Grafman, J., Ibanez, V., Deiber, M.P., Dold, G. and Hallett, M. (1996). “Activation of the primary visual cortex by Braille reading in blind subjects”, *Nature*, 380: 526-8.
+* Saffran, E.M. (2000). “Aphasias and the relationship of language and brain”, *Seminars in Neurology,* 20: 409-418.
+* Saffran, J.R., Aslin, R.N. and Newport, E.L. (1996). “Statistical Learning by 8-Month-Old Infants”, *Science*, 274: 1926-28.
+* Saffran, J.R. (2002). “Constraints on statistical language learning”, *Journal of Memory and Language*, 47: 172-96.
+* Saffran, J.R. and Thiessen, E.D. (2003). “Pattern induction by infant language learners”, *Developmental Psychology*, 40: 484-94.
+* Saffran, J. R., & Wilson, D. P. (2003). From syllables to syntax: Multilevel statistical learning by 12-month-old infants. *Infancy, 4*(2), 273-284.
+* Samet, J. (1986). “Troubles with Fodor's Nativism”, *Midwest Studies in Philosophy*, X. Boston: Blackwells. 575-594.
+* Sampson, G. (1989). “Language Acquisition: Growth or Learning?”, *Philosophical Papers*, XVIII: 203-40.
+* ––– (2002). “Exploring the richness of the stimulus”, *The Linguistic Review*, 19: 73-104. (Special issue, nos. 1-2: ‘A Review of “The Poverty of Stimulus Argument”’, N. Ritter (ed.)).
+* Sapir, E. (1921). *Language: An Introduction to the Study of Speech*, Hillsdale, NJ: Erlbaum.
+* Saxton M. (1997). “The contrast theory of negative input”, *Journal of Child Language*, 24:139-61.
+* –––, Kulcsar B., Marshall G., and Rupra M.J., 1988, “Longer-term effects of corrective input: an experimental approach”, *Child Language*, 25: 701-21.
+* Scharff, C. and S. A. White (2004). Genetic components of vocal learning. *Behavioral Neurobiology of Birdsong*. 1016: 325-347.
+* Scholz, B.C. and Pullum, G.K. (2002). “Searching for arguments to support linguistic nativism”, *The Linguistic Review*, 19: 185-224. (Special issue, nos. 1-2: ‘A Review of “The Poverty of Stimulus Argument”,’ N. Ritter(ed.))
 * Schulte, O. (2006). “Formal Learning Theory”, The Stanford Encyclopedia of Philosophy (Spring 2006 Edition), Edward N. Zalta (ed.), URL = <[Formal Learning Theory (Stanford Encyclopedia of Philosophy/Spring 2006 Edition)](https://plato.stanford.edu/archives/spr2006/entries/learning-formal/)>.
-* Sharwood Smith, M. (1994). _Second Language Learning: Theoretical Foundations,_ London and New York: Longman.
-* Shimojo, S. and Shams, L. (2001). “Sensory modalities are not separate modalities: plasticity and interactions”, _Current Opinion in Neurobiology_, 11: 505-9.
-* Shinohara, T. (1994). “Rich classes inferable from positive data: length-bounded elementary formal systems”, _Information and Computation_, 108: 175-186.
-* Singleton, J. L., & Newport, E. L. (2004). When learners surpass their models: The acquisition of American Sign Language from inconsistent input. _Cognitive Psychology, 49_(4), 370-407.
-* Skinner, B.F. (1957). _Verbal Behavior_, NY: Prentice Hall.
-* Skuse, D.H. (1993). “Extreme deprivation in early childhood”, in _Language development in exceptional circumstances,_ D. Bishop and K. Mogford (eds.), Hillsdale, NJ: Erlbaum, pp. 29-46.
-* Skyrms, B. (1996). _The Evolution of the Social Contract_, Cambridge, Cambridge University Press.
-* ––– (2002). _The Stag Hunt and the Evolution of Social Structure_, Cambridge, Cambridge University Press.
-* Smith, E.E. and Medin, D.L. (1981). _Categories and Concepts_, Cambridge, MA: Harvard University Press.
-* Smolensky, P. (1991). “Connectionism, Constituency and the Language of Thought”, in _Meaning in Mind: Fodor and His Critics,_ B. Loewer and G. Rey, (eds.), Cambridge MA: Blackwells, 201-227.
-* Soames, S. (1984). “Linguistics and Psychology”, _Linguistics and Philosophy_, 7: 155-79.
-* Sokolov, J.L. and Snow, C.E. (1991). “The Premature Retreat to Nativism,” _Behavioral and Brain Sciences,_ 14:635-6.
-* Sterelny, K. (1989). “Fodor's Nativism”, _Philosophical Studies,_ 55: 119-141.
-* ––– 2003, _Thought in a Hostile World: The Evolution of Human Cognition_, London, Blackwells.
-* Stich, S.P. (1971). “What every speaker knows”, _Philosophical Review_, 80: 476-96.
-* ––– (1978). “Beliefs and Subdoxastic States,” _Philosophy of Science_, 45, pp.499-518.
-* Stiles, J. (2000). “Neural plasticity and cognitive development”, _Developmental Neuroscience_, 18 (2): 237-272.
-* Stromswold, K. (2000). “The cognitive neuroscience of language acquisition”, in _The New Cognitive Neurosciences, 2\*\*nd_ _Ed_ M.S. Gazzaniga (ed.), Cambridge: MIT Press, pp.269-80.
-* Takahashi K., Liu, F.C., Hirokawa, K., and Takahashi, H. (2003). “Expression of Foxp2, a gene involved in speech and language, in the developing and adult striatum”, _Journal of Neuroscience Research,_ 73 (1): 61-72.
-* Tallal, P. (1980). “Auditory Temporal Perception, Phonics, And Reading Disabilities In Children.” _Brain And Language_ 9(2): 182-198.
-* Tallal, P., R. E. Stark, _et al_. (1985). “Identification Of Language-Impaired Children On The Basis Of Rapid Perception And Production Skills.” _Brain and Language_ 25(2): 314-322.
-* Teramitsu, I., L. C. Kudo, _et al_. (2004). “Parallel FoxP1 and FoxP2 expression in songbird and human brain predicts functional interaction.” _Journal of Neuroscience_ 24(13): 3152-3163.
-* Thiessen, E.D. and Saffran, J.R. (2003). “When cues collide: Use of stress and statistical cues to word boundaries by 7-to 9-month-old infants”, _Developmental Psychology_, 39: 706-16.
-* Thomas, M. and Karmiloff-Smith, A. (2002): “Are developmental disorders like cases of adult brain damage? Implications from connectionist modeling.” _Behavioral and Brain Sciences,_ 25: 727—788
-* Tomasello, M. (1999). _The Cultural Origins of Human Cognition_, Cambridge, MA, Harvard University Press.
-* ––– (2000). “Two Hypotheses about Primate Cognition,” in C. Heyes and L. Huber (Eds.), _Evolution of Cognition_, Cambridge, MIT Press, pp.165-84.
-* ––– (2003). _Constructing a Language: A Usage-Based Theory of Language Acquisition_. Harvard University Press.
-* vanderLely, H. K. J. and L. Stollwerck (1997). “Binding theory and grammatical specific language impairment in children.” _Cognition_ 62(3): 245-290.
-* van der Lely, H. K. J. and V. Christian (2000). “Lexical word formation in children with grammatical SLI: a grammar-specific versus an input-processing deficit?” _Cognition_ 75(1): 33-63.
-* van der Lely, H. K. J. and M. T. Ullman (2001). “Past tense morphology in specifically language impaired and normally developing children.” _Language and Cognitive Processes_ 16(2-3): 177-217.
-* Vargha-Khadem, F., Carr, L.J., Isaacs, E., Brett, E., Adams, C. and Mishkin, M. (1997). “Onset of speech after left hemipsherectomy in a nine-year-old boy”, _Brain_, 120: 159-82.
-* –––, Watkins, K., Alcock, K., Fletcher, P. and Passingham, R., 1995, “Praxic and nonverbal cognitive deficits in a large family with a genetically transmitted speech and language disorder,” _Proc. Natl. Acad. Sci. USA_, 92:930-33.
-* Volterra, V., O. Capirci, _et al_. (1996). “Linguistic abilities in Italian children with Williams syndrome.” _Cortex_ 32(4): 663-677.
-* Watkins, Dronkers & Vargha-Khadem, ‘Behavioral analysis of an inherited speech and language disorder: comparison with acquired aphasia.’ _Brain_ (2002), 125, 452-464.
-* White, L. (2003). _Second Language Acquisition and Universal Grammar_, Cambridge Textbooks in Linguistics, Cambridge: Cambridge University Press.
-* Wimsatt, W.C. (1999). “Generativity, Entrenchment, Evolution and Innateness: Philosophy, evolutionary biology, and conceptual foundations of science”, in _Where Biology Meets Psychology: Philosophical Essays,_ V. Hardcastle (ed.), Cambridge: Bradford Books/MIT Press, pp.139-179.
-* Wright, A.A, Rivera, J.J., Hulse, S.H., Shyan, M. and Neiworth, J.J. (2000). “Music perception and octave generalization in rhesus monkeys”, _Journal of Experimental Psychology: General_, 129 (3): 291-307.
-* van Gelder, T. (1995). “What Might Cognition Be, If Not Computation?”, _Journal of Philosophy_, 92: 345-381.
-* Vargha-Khadem F., Watkins, K.E., Price, C.J., Ashburner, J., Alcock, K.J., Connelly, A., Frackowiak, R.S., Friston, K.J., Pembrey, M.E., Mishkin, M., Gadian, D.G., and Passingham, R.E. (1998). “Neural basis of an inherited speech and language disorder”, _Proceedings of the National Academy of Sciences, USA_, 95 (21): 12695-12700.
-* Watkins, K.E., Dronkers, N.F., and Vargha-Khadem, F. (2002). “Behavioural analysis of an inherited speech and language disorder: comparison with acquired aphasia”, _Brain_, 125: 452-464.
-* Zhang J.Z., Webb, D.M., and Podlaha, O. (2002). “Accelerated protein evolution and origins of human-specific features: FOXP2 as an example”, _Genetics,_ 162 (4): 1825-1835.
+* Sharwood Smith, M. (1994). *Second Language Learning: Theoretical Foundations,* London and New York: Longman.
+* Shimojo, S. and Shams, L. (2001). “Sensory modalities are not separate modalities: plasticity and interactions”, *Current Opinion in Neurobiology*, 11: 505-9.
+* Shinohara, T. (1994). “Rich classes inferable from positive data: length-bounded elementary formal systems”, *Information and Computation*, 108: 175-186.
+* Singleton, J. L., & Newport, E. L. (2004). When learners surpass their models: The acquisition of American Sign Language from inconsistent input. *Cognitive Psychology, 49*(4), 370-407.
+* Skinner, B.F. (1957). *Verbal Behavior*, NY: Prentice Hall.
+* Skuse, D.H. (1993). “Extreme deprivation in early childhood”, in *Language development in exceptional circumstances,* D. Bishop and K. Mogford (eds.), Hillsdale, NJ: Erlbaum, pp. 29-46.
+* Skyrms, B. (1996). *The Evolution of the Social Contract*, Cambridge, Cambridge University Press.
+* ––– (2002). *The Stag Hunt and the Evolution of Social Structure*, Cambridge, Cambridge University Press.
+* Smith, E.E. and Medin, D.L. (1981). *Categories and Concepts*, Cambridge, MA: Harvard University Press.
+* Smolensky, P. (1991). “Connectionism, Constituency and the Language of Thought”, in *Meaning in Mind: Fodor and His Critics,* B. Loewer and G. Rey, (eds.), Cambridge MA: Blackwells, 201-227.
+* Soames, S. (1984). “Linguistics and Psychology”, *Linguistics and Philosophy*, 7: 155-79.
+* Sokolov, J.L. and Snow, C.E. (1991). “The Premature Retreat to Nativism,” *Behavioral and Brain Sciences,* 14:635-6.
+* Sterelny, K. (1989). “Fodor's Nativism”, *Philosophical Studies,* 55: 119-141.
+* ––– 2003, *Thought in a Hostile World: The Evolution of Human Cognition*, London, Blackwells.
+* Stich, S.P. (1971). “What every speaker knows”, *Philosophical Review*, 80: 476-96.
+* ––– (1978). “Beliefs and Subdoxastic States,” *Philosophy of Science*, 45, pp.499-518.
+* Stiles, J. (2000). “Neural plasticity and cognitive development”, *Developmental Neuroscience*, 18 (2): 237-272.
+* Stromswold, K. (2000). “The cognitive neuroscience of language acquisition”, in *The New Cognitive Neurosciences, 2\*\*nd* *Ed* M.S. Gazzaniga (ed.), Cambridge: MIT Press, pp.269-80.
+* Takahashi K., Liu, F.C., Hirokawa, K., and Takahashi, H. (2003). “Expression of Foxp2, a gene involved in speech and language, in the developing and adult striatum”, *Journal of Neuroscience Research,* 73 (1): 61-72.
+* Tallal, P. (1980). “Auditory Temporal Perception, Phonics, And Reading Disabilities In Children.” *Brain And Language* 9(2): 182-198.
+* Tallal, P., R. E. Stark, *et al*. (1985). “Identification Of Language-Impaired Children On The Basis Of Rapid Perception And Production Skills.” *Brain and Language* 25(2): 314-322.
+* Teramitsu, I., L. C. Kudo, *et al*. (2004). “Parallel FoxP1 and FoxP2 expression in songbird and human brain predicts functional interaction.” *Journal of Neuroscience* 24(13): 3152-3163.
+* Thiessen, E.D. and Saffran, J.R. (2003). “When cues collide: Use of stress and statistical cues to word boundaries by 7-to 9-month-old infants”, *Developmental Psychology*, 39: 706-16.
+* Thomas, M. and Karmiloff-Smith, A. (2002): “Are developmental disorders like cases of adult brain damage? Implications from connectionist modeling.” *Behavioral and Brain Sciences,* 25: 727—788
+* Tomasello, M. (1999). *The Cultural Origins of Human Cognition*, Cambridge, MA, Harvard University Press.
+* ––– (2000). “Two Hypotheses about Primate Cognition,” in C. Heyes and L. Huber (Eds.), *Evolution of Cognition*, Cambridge, MIT Press, pp.165-84.
+* ––– (2003). *Constructing a Language: A Usage-Based Theory of Language Acquisition*. Harvard University Press.
+* vanderLely, H. K. J. and L. Stollwerck (1997). “Binding theory and grammatical specific language impairment in children.” *Cognition* 62(3): 245-290.
+* van der Lely, H. K. J. and V. Christian (2000). “Lexical word formation in children with grammatical SLI: a grammar-specific versus an input-processing deficit?” *Cognition* 75(1): 33-63.
+* van der Lely, H. K. J. and M. T. Ullman (2001). “Past tense morphology in specifically language impaired and normally developing children.” *Language and Cognitive Processes* 16(2-3): 177-217.
+* Vargha-Khadem, F., Carr, L.J., Isaacs, E., Brett, E., Adams, C. and Mishkin, M. (1997). “Onset of speech after left hemipsherectomy in a nine-year-old boy”, *Brain*, 120: 159-82.
+* –––, Watkins, K., Alcock, K., Fletcher, P. and Passingham, R., 1995, “Praxic and nonverbal cognitive deficits in a large family with a genetically transmitted speech and language disorder,” *Proc. Natl. Acad. Sci. USA*, 92:930-33.
+* Volterra, V., O. Capirci, *et al*. (1996). “Linguistic abilities in Italian children with Williams syndrome.” *Cortex* 32(4): 663-677.
+* Watkins, Dronkers & Vargha-Khadem, ‘Behavioral analysis of an inherited speech and language disorder: comparison with acquired aphasia.’ *Brain* (2002), 125, 452-464.
+* White, L. (2003). *Second Language Acquisition and Universal Grammar*, Cambridge Textbooks in Linguistics, Cambridge: Cambridge University Press.
+* Wimsatt, W.C. (1999). “Generativity, Entrenchment, Evolution and Innateness: Philosophy, evolutionary biology, and conceptual foundations of science”, in *Where Biology Meets Psychology: Philosophical Essays,* V. Hardcastle (ed.), Cambridge: Bradford Books/MIT Press, pp.139-179.
+* Wright, A.A, Rivera, J.J., Hulse, S.H., Shyan, M. and Neiworth, J.J. (2000). “Music perception and octave generalization in rhesus monkeys”, *Journal of Experimental Psychology: General*, 129 (3): 291-307.
+* van Gelder, T. (1995). “What Might Cognition Be, If Not Computation?”, *Journal of Philosophy*, 92: 345-381.
+* Vargha-Khadem F., Watkins, K.E., Price, C.J., Ashburner, J., Alcock, K.J., Connelly, A., Frackowiak, R.S., Friston, K.J., Pembrey, M.E., Mishkin, M., Gadian, D.G., and Passingham, R.E. (1998). “Neural basis of an inherited speech and language disorder”, *Proceedings of the National Academy of Sciences, USA*, 95 (21): 12695-12700.
+* Watkins, K.E., Dronkers, N.F., and Vargha-Khadem, F. (2002). “Behavioural analysis of an inherited speech and language disorder: comparison with acquired aphasia”, *Brain*, 125: 452-464.
+* Zhang J.Z., Webb, D.M., and Podlaha, O. (2002). “Accelerated protein evolution and origins of human-specific features: FOXP2 as an example”, *Genetics,* 162 (4): 1825-1835.
 
 ## Academic Tools
 
@@ -821,7 +819,7 @@ Vargha-Khadem 推测（参见 Watkins 等，2002 年：463），KE 的那些似�
 
 ### Acknowledgments
 
-First, I thank two anonymous reviewers for the _Stanford Encyclopedia of Philosophy_, whose pungent criticisms contributed to the clarity, breadth and depth (and also the length) of this article. I thank my friends, adversaries and colleagues (you know who you are) for their criticism and encouragement. Finally, and most fervently, I thank the editor of the _Encyclopedia_, Ed Zalta, for patience and understanding that go way beyond the saintly.
+First, I thank two anonymous reviewers for the *Stanford Encyclopedia of Philosophy*, whose pungent criticisms contributed to the clarity, breadth and depth (and also the length) of this article. I thank my friends, adversaries and colleagues (you know who you are) for their criticism and encouragement. Finally, and most fervently, I thank the editor of the *Encyclopedia*, Ed Zalta, for patience and understanding that go way beyond the saintly.
 
 [Copyright © 2008](https://plato.stanford.edu/info.html#c) by\
 Fiona Cowie

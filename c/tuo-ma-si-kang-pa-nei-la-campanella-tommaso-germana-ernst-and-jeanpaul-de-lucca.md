@@ -1,15 +1,14 @@
 # 托马斯·康帕内拉 Campanella, Tommaso (Germana Ernst and Jean-Paul De Lucca)
 
-_首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 月 6 日星期二_
+*首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 月 6 日星期二*
 
 托马斯·康帕内拉（1568 年斯蒂洛 - 1639 年巴黎）是文艺复兴晚期最重要的哲学家之一。尽管他今天最著名的作品是乌托邦文本《太阳之城》（The City of the Sun），但他的思想极为复杂，涉及各个学科。他思想的基本核心，将在本文中探讨，涉及自然哲学（现今称为科学）、魔术、政治理论和自然宗教。
-
 
 ***
 
 ## 1. 传略
 
-托马斯·康帕内拉(Tommaso Campanella)生于 1568 年 9 月 5 日，出生在意大利南部的卡拉布里亚地区的一个名叫斯蒂洛(Stilo)的小镇。14 岁时，他加入了多明我会(Dominican Order)。1588 年，在卡拉布里亚的另一个城镇科森扎(Cosenza)，他阅读了贝尔纳迪诺·特莱西奥(Bernardino Telesio)的著作《物之性质依据其自身原理》(_De rerum natura iuxta propriis principiis_，1586 年)，随后几个月，康帕内拉撰写了自己的著作《凭感觉证明的哲学》(_Philosophia sensibus demonstrata_)，为捍卫这一新自然哲学。1590 年，他在那不勒斯(Naples)，结识了詹巴蒂斯塔·德拉波尔塔(Giambattista della Porta)。1592 年前往罗马(Rome)，然后前往佛罗伦萨(Florence)和帕多瓦(Padua)，在那里遇见了伽利略(Galileo)。被宗教裁判所告发，康帕内拉于 1594 年初被捕，并于 10 月被转移到罗马的宗教裁判所监狱。因涉嫌异端罪名被判有罪，并被迫宣誓放弃，到 1597 年底，他被命令返回卡拉布里亚。1598 年夏天，他再次回到斯蒂洛，很快成为反对当时统治那不勒斯王国的西班牙人的一场大阴谋的灵感来源。1599 年 8 月，两名阴谋者向西班牙总督揭露了阴谋，后者派遣军队进入卡拉布里亚进行镇压。康帕内拉被监禁，并于 11 月被转移到那不勒斯，在那里他因异端罪和叛乱受审。他通过装疯逃过了死刑，而是被判在那不勒斯的各个堡垒中长期监禁。在监禁期间，他致力于进行激烈的文学创作，创作了他最著名的作品，旨在为整个知识百科全书奠定新基础。1612 年，他受到来自萨克森的德国文学家托比亚斯·阿达米(Tobias Adami)的拜访，后者自愿在 1617 年至 1623 年间在法兰克福出版了康帕内拉一些最重要的著作。经过将近 27 年的监禁，康帕内拉于 1626 年从新堡(Castel Nuovo)获释，并抵达罗马，他在那里一直被拘留到 1629 年初。1634 年 10 月，由于西班牙对他的疑虑再起，他被迫流亡法国。在巴黎，他受到路易十三(Louis XIII)国王和红衣主教(Richelieu)的青睐，并得以频繁出入学术圈。他撰写了新的政治著作，并安排印刷他的《全集》(_Opera omnia_)的第一卷，这个项目在他于 1639 年 5 月 21 日去世时仍未完成。
+托马斯·康帕内拉(Tommaso Campanella)生于 1568 年 9 月 5 日，出生在意大利南部的卡拉布里亚地区的一个名叫斯蒂洛(Stilo)的小镇。14 岁时，他加入了多明我会(Dominican Order)。1588 年，在卡拉布里亚的另一个城镇科森扎(Cosenza)，他阅读了贝尔纳迪诺·特莱西奥(Bernardino Telesio)的著作《物之性质依据其自身原理》(*De rerum natura iuxta propriis principiis*，1586 年)，随后几个月，康帕内拉撰写了自己的著作《凭感觉证明的哲学》(*Philosophia sensibus demonstrata*)，为捍卫这一新自然哲学。1590 年，他在那不勒斯(Naples)，结识了詹巴蒂斯塔·德拉波尔塔(Giambattista della Porta)。1592 年前往罗马(Rome)，然后前往佛罗伦萨(Florence)和帕多瓦(Padua)，在那里遇见了伽利略(Galileo)。被宗教裁判所告发，康帕内拉于 1594 年初被捕，并于 10 月被转移到罗马的宗教裁判所监狱。因涉嫌异端罪名被判有罪，并被迫宣誓放弃，到 1597 年底，他被命令返回卡拉布里亚。1598 年夏天，他再次回到斯蒂洛，很快成为反对当时统治那不勒斯王国的西班牙人的一场大阴谋的灵感来源。1599 年 8 月，两名阴谋者向西班牙总督揭露了阴谋，后者派遣军队进入卡拉布里亚进行镇压。康帕内拉被监禁，并于 11 月被转移到那不勒斯，在那里他因异端罪和叛乱受审。他通过装疯逃过了死刑，而是被判在那不勒斯的各个堡垒中长期监禁。在监禁期间，他致力于进行激烈的文学创作，创作了他最著名的作品，旨在为整个知识百科全书奠定新基础。1612 年，他受到来自萨克森的德国文学家托比亚斯·阿达米(Tobias Adami)的拜访，后者自愿在 1617 年至 1623 年间在法兰克福出版了康帕内拉一些最重要的著作。经过将近 27 年的监禁，康帕内拉于 1626 年从新堡(Castel Nuovo)获释，并抵达罗马，他在那里一直被拘留到 1629 年初。1634 年 10 月，由于西班牙对他的疑虑再起，他被迫流亡法国。在巴黎，他受到路易十三(Louis XIII)国王和红衣主教(Richelieu)的青睐，并得以频繁出入学术圈。他撰写了新的政治著作，并安排印刷他的《全集》(*Opera omnia*)的第一卷，这个项目在他于 1639 年 5 月 21 日去世时仍未完成。
 
 ## 2. 批判亚里士多德并支持特莱西奥的自然哲学
 
@@ -21,7 +20,7 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 在他对亚里士多德传统的批判中，康帕内拉批评了形式和缺乏的学说；批评了四大元素作为亚月界世界的原则；批评了物质作为缺乏；批评了天体热量来源于球体摩擦；批评了自然运动和强制运动之间的区别。他解构亚里士多德体系的努力的高潮是对传统宇宙学的激进批判，涉及天空的性质以及天体运动的轨迹和机制。与康帕内拉论证的破坏性一面相对应的建设性元素包括捍卫特莱西奥哲学的学说。根据特莱西奥的观点，一切存在都源于热与冷两个原则对物质产生的影响，他并不将物质视为抽象的“理性存在”（存在于头脑中的实体），而是看作是一种惰性的实体质量，黑暗而完全无形，但能够接受任何形式。从八篇内容繁重的“辩论”中的微妙和详细的论证结构中，一个强大的统一概念浮现出来：太阳热量的中心性、高贵性和首要性，它连接了一切存在并赋予了它们生命。在这种背景下，将太阳热量与世界灵魂的同化具有特殊意义，这是第三篇辩论“论天空和世界”中的核心主题。康帕内拉在这里逐字转录了菲奇诺对普罗提诺《艺术九篇》评论中的一段文字，其中他详细阐述了世界灵魂及其“生命力和感性气息”（《以感官证明的哲学》，第 322-23 页）。菲奇诺将这种热气息与弥尔顿《埃涅阿斯纪》中著名的一句话联系起来（第六卷 726 页：“内在的精神滋养”），并将其与《创世纪》1:2 中的神圣精神联系起来：“上帝的灵在水面上运行”。天空由这种气息和神圣之词组成，它使一切生机勃勃并得到滋养。
 
-托马斯·康帕内拉通过一系列论著阐述了自然哲学，受到泰莱西奥的启发，但以独特的方式重新加以阐释，其中包括《大结语》（_Great Epilogue_），这部作品在被翻译成拉丁文后成为了《Physiologia》，这是他的《真实哲学》四部曲中的第一部，于 1623 年首次在法兰克福出版；其他三部分分别是《伦理学》、《政治学》和《经济学》。在 1637 年于巴黎出版的第二版中，所有四部分，尤其是第一部分，都附有大量且详尽的关于特定问题的问题，其中讨论了古代和现代哲学家的观点。康帕内拉在《Physiologia》中首先陈述，当第一位至高、至智、至善的存在决定创造世界时，将其定义为其“肖像”和“无限善”的“形象”，在“几乎无限”的空间中展开了这个肖像。这发生在我们称之为时间的持久变迁的开端，这是永恒的形象，源自其中流出。空间被定义为“一个原始物质或座位或不动和非物质的容量，能够容纳任何物体。”它是均质的：人类术语如“高”和“低”、“前后”、“右”和“左”，指的是放置其中的物体；如果世界不存在，我们会想象空间是空的。然而，实际上，它渴望充实，具有吸引力并厌恶保持空虚。物体相互接触，厌恶将它们分开的空虚（_Physiologia_，收录于《拉丁文作品集》，II，第 575-577 页）。
+托马斯·康帕内拉通过一系列论著阐述了自然哲学，受到泰莱西奥的启发，但以独特的方式重新加以阐释，其中包括《大结语》（*Great Epilogue*），这部作品在被翻译成拉丁文后成为了《Physiologia》，这是他的《真实哲学》四部曲中的第一部，于 1623 年首次在法兰克福出版；其他三部分分别是《伦理学》、《政治学》和《经济学》。在 1637 年于巴黎出版的第二版中，所有四部分，尤其是第一部分，都附有大量且详尽的关于特定问题的问题，其中讨论了古代和现代哲学家的观点。康帕内拉在《Physiologia》中首先陈述，当第一位至高、至智、至善的存在决定创造世界时，将其定义为其“肖像”和“无限善”的“形象”，在“几乎无限”的空间中展开了这个肖像。这发生在我们称之为时间的持久变迁的开端，这是永恒的形象，源自其中流出。空间被定义为“一个原始物质或座位或不动和非物质的容量，能够容纳任何物体。”它是均质的：人类术语如“高”和“低”、“前后”、“右”和“左”，指的是放置其中的物体；如果世界不存在，我们会想象空间是空的。然而，实际上，它渴望充实，具有吸引力并厌恶保持空虚。物体相互接触，厌恶将它们分开的空虚（*Physiologia*，收录于《拉丁文作品集》，II，第 575-577 页）。
 
 在空间中，上帝放置物质，与亚里士多德和阿维罗洛斯的概念形成鲜明对比，后者将其定义为缺乏和纯粹的_ens rationis_，而被康帕内拉视为一种物质实体，缺乏形式、形状和作用，但能够被延伸、分割、统一，并且能够呈现任何形状，就像蜡可以从任何印章上获得印记一样。上帝将热和寒冷这两个自我传播且非物质的活性原则插入这个物质质量中，但这些原则只能存在于物体中。由于它们之间的冲突，每个原则都想占据和占有尽可能多的物质，从而产生了世界的两个主要物体和元素：天空，它们极其炽热、微妙和活动，因为它们由热量转化的物质组成；以及地球，由寒冷使得物质变得不动、黑暗和密集。天空和地球之间的冲突，热和寒冷之间的冲突——上帝用来在世界的奇妙肖像中产生他无限创造智慧的无数模式的工具和“工匠”——诞生了所有个体实体。通过这些原则，康帕内拉解释了自然界的每一个方面，从天体和气象现象到水的形成，从矿物的组成到植物的组成。动物和人类他都进行了特别关注的分析。在这些更为复杂且部分更多的有机体的起源中，有一种特别微弱的天体热，即_spiritus_。由太阳热使物质变得极其微妙而形成，它是一种温暖的气息，凭借其微弱和运动能够从自己所封闭的物质部分中分离出来并对其产生作用。这种等无法从物质性中呼出自己以返回其起源的天空，这种浆液构建了适合其需求并避免内部威胁的外部危险的器官，以确保其保存和生命。以他的医学知识为傲（他的作品中有一部名为_Medicina_，由八卷组成，于 1635 年在里昂出版），在这里和其他论著中，康帕内拉乐于强调人体及其部分的奇妙结构，揭示了特定器官的功能和目的如何在整体的奇妙秩序中协调，并证实了自然现实的每一根纤维中都存在着神圣工艺的存在。
 
@@ -29,7 +28,7 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 康帕内拉对自然哲学的浓厚兴趣之一是自然魔法，在他的《事物的感知和自然魔法》第四卷中描述得尤为有效。这部作品的最初草稿可以追溯到年轻修士在那不勒斯的首次逗留，即从 1590 年到 1592 年。他在那里与詹巴蒂斯塔·德拉·波尔塔接触，后者是文艺复兴时期最著名的自然魔法倡导者之一。这篇论文在随后的几年里进行了重写，并于 1620 年首次以拉丁文出版，后在巴黎于 1636 年和 1637 年再版。这部作品在欧洲有着显著的传播，引发了讨论和不同意见。在这部论著中，康帕内拉阐明了他对自然界的看法，将其视为一个有机的生命体，其个体组成部分具有生命、活力和感性。
 
-在论文中的中心概念是“_sensus_”（感知），它直接与自我保存原则相连。每个生物都表现出一种向保护自身生命的倾向，为此目的，它们被赋予了各种比例的感知能力。这包括了区分对其生命积极有益的事物，并因此追求和追寻，以及区分被视为消极和破坏性的事物，并因此避之不及。一些实体，如天体和光，具有比动物更为敏锐纯净的感知。而另一些如矿物和金属，则因物质的沉重而具有更为迟钝模糊的感知。在动物有机体中，生命和认知功能依赖于_spiritus_。炽热、活跃且被动，它被认定为有机灵魂。康帕内拉拒绝了伽伦对各种抽象能力的区分，他指出_spiritus_是独特的，其所在地是大脑，通过非常微细的神经通道流动，实现其多功能，无论是生命还是认知。通过感官器官，它与外部现实接触；所有的情感和认知都源自它所经历的变化。每一种感觉都是_spiritus_的一种“接触”形式，它通过各种感官器官与来自外部物体的气息、运动和光线建立联系。_spiritus_经历的感知是所有认知的源泉：记忆、想象、理性和智力本身，后者只不过是削弱和提炼的感知。对于这些操作，并不需要假定不同和特定的能力，因为它们都是同一感知灵魂的功能，它能够保存接收到的变化和印象，并在类似情况出现时重新唤起和重复使用它们。
+在论文中的中心概念是“*sensus*”（感知），它直接与自我保存原则相连。每个生物都表现出一种向保护自身生命的倾向，为此目的，它们被赋予了各种比例的感知能力。这包括了区分对其生命积极有益的事物，并因此追求和追寻，以及区分被视为消极和破坏性的事物，并因此避之不及。一些实体，如天体和光，具有比动物更为敏锐纯净的感知。而另一些如矿物和金属，则因物质的沉重而具有更为迟钝模糊的感知。在动物有机体中，生命和认知功能依赖于_spiritus_。炽热、活跃且被动，它被认定为有机灵魂。康帕内拉拒绝了伽伦对各种抽象能力的区分，他指出_spiritus_是独特的，其所在地是大脑，通过非常微细的神经通道流动，实现其多功能，无论是生命还是认知。通过感官器官，它与外部现实接触；所有的情感和认知都源自它所经历的变化。每一种感觉都是_spiritus_的一种“接触”形式，它通过各种感官器官与来自外部物体的气息、运动和光线建立联系。_spiritus_经历的感知是所有认知的源泉：记忆、想象、理性和智力本身，后者只不过是削弱和提炼的感知。对于这些操作，并不需要假定不同和特定的能力，因为它们都是同一感知灵魂的功能，它能够保存接收到的变化和印象，并在类似情况出现时重新唤起和重复使用它们。
 
 在处理动物和人类时，康帕内拉强调了相似性和差异。他乐于提供动物非凡能力的证据。动物配有在某些情况下优于人类的感知器官，它们能够实现奇妙而巧妙的事情；它们采用集体组织形式；它们知道如何利用医疗和军事技术；此外，它们还具有一种推理、语言、自然预言甚至宗教形式。然而，这些类比不应模糊或对人类状况的卓越性产生怀疑。人类配有比动物更加精致纯净的_spiritus_；它能够在更宽敞的脑细胞内灵活运动，使人类能够发展更为复杂的论证链。然而，动物和人类之间真正而根本的区别在于，后者不仅配有_spiritus_，还具有一种神圣起源的非物质_mens_（心灵），构成并是其特定构成的基础。人类并非在自然世界的框架内耗尽所有能力。他们可以通过思想和欲望投射自己至无限。他们能够超越自然自我保存的限制，将自己转向更高的善和目标。最重要的是，人类是自由的。与动物不同，动物无法摆脱感官的需求，人类可以抵制激情的驱使，做出超越简单实际利益和即时需求满足的选择。人类可以抵制塞壬的诱惑，就像奥德修斯将自己绑在理性的桩上一样。
 
@@ -37,13 +36,13 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 在这些被大众认为是真实的但实际上是“无用幻想”的欺骗之外，书中的核心是自然魔法。一方面，它与艺术和科学联系在一起：所有奇妙的发明起初似乎都是魔法操作的结果，直到它们的真正原因被发现。另一方面，它的特殊领域是对异常和神秘事件的了解。通过其知识体系，自然魔法能够对易动和微妙的“精神”产生特定的改变，这种“精神”能够顺从并接受任何印象。基本的激情是痛苦和快乐、爱和恨、希望和恐惧。术士是一个能够通过草药、短语、行动和任何其他可能的手段影响这些激情的人。这个人将知道如何增强身体力量，建议食物、饮料、气候、声音、草药和动物疗法，这些都有助于增强生命能量，并警告远离任何与腐烂和死亡有关的事物。
 
-感官在实体和空气中的持久性以潜在形式存在，就像是在睡眠中，等待在特定场合重新被唤醒，解释了一些表面上看起来是奇迹的事实，比如尸体在谋杀现场流血：受害者如果通过空气感知到杀手的接近，会再次因愤怒和恐惧而激动，释放血液。与情感和感官的持久性相关的还有武器膏的功效，被归因于托马斯·康帕内拉，通过在造成伤口的武器上涂抹药膏来治愈伤口，仿佛伤口中封闭的_精神_通过空气感受到治愈而体验到“几乎是复仇的喜悦”。也可以解释在每本魔法书中都能找到的一个著名例子：一只由羊皮制成的鼓在响起由狼皮制成的鼓时破裂，重新唤醒其先前的恐惧（_Del senso delle cose_，第 253-259 页）。
+感官在实体和空气中的持久性以潜在形式存在，就像是在睡眠中，等待在特定场合重新被唤醒，解释了一些表面上看起来是奇迹的事实，比如尸体在谋杀现场流血：受害者如果通过空气感知到杀手的接近，会再次因愤怒和恐惧而激动，释放血液。与情感和感官的持久性相关的还有武器膏的功效，被归因于托马斯·康帕内拉，通过在造成伤口的武器上涂抹药膏来治愈伤口，仿佛伤口中封闭的_精神_通过空气感受到治愈而体验到“几乎是复仇的喜悦”。也可以解释在每本魔法书中都能找到的一个著名例子：一只由羊皮制成的鼓在响起由狼皮制成的鼓时破裂，重新唤醒其先前的恐惧（*Del senso delle cose*，第 253-259 页）。
 
 动物精神可以经历的深刻变化解释了那些被狂犬咬伤或被普利亚农民袭击的人身上发生的真正和适当的转变。康帕内拉非常准确地描述了被塔兰图拉咬伤的人所发生的情况，这是基于目击者对这一现象的描述：他们变得虚弱，随着各种乐器的声音跳舞和跳跃，直到筋疲力尽。在这两种情况下，被引入伤口的刺激性精神会导致不幸受害者体质和想象力的改变，袭击他们的生物精神在他们的身体中占据主导地位，与已经存在的精神有所不同。被塔兰图拉咬伤的人通过跳舞和出汗试图排出感染的蒸气。然而，通常情况下，症状会持续，只有刺伤他们的蜘蛛死亡才能真正减轻他们的痛苦。一种奇怪的情况再次证实了一般和特殊原因之间的联系，即意大利南部特罗佩亚的医学院，他们曾经给一个因伤失去鼻子的人移植了一个新鼻子。医生们用从仆人手臂上取下的肉重建了新鼻子。新鼻子生根并存活下来；但当仆人去世时，它腐烂了，表明它从插入的新有机体中获得的生命并没有消灭它与仆人生命的原始和根深蒂固的联系。
 
 ## 4. 卡拉布里亚阴谋和《太阳城》中的预言
 
-在 1592 年在那不勒斯接受审讯后，托马斯·康帕内拉先后前往罗马、佛罗伦萨和帕多瓦，在 1594 年初，因异端罪名而被告发并被捕。十月份，他被转移到罗马宗教裁判所的监狱，那里关押着“异端”的佛罗伦萨人弗朗切斯科·普奇和哲学家乔尔达诺·布鲁诺。在一首名为“致监狱”的十四行诗中，康帕内拉不得不反思这样一个事实：那些自由的精神，他们摒弃传统文化的停滞之水，勇敢地投身于“真理之海”，却发现自己被困在宗教裁判所阴森的宫殿中，仿佛是被悲剧性和致命的命运所困，他将其比作波吕斐摩斯的洞穴、克里特的迷宫和阿特拉斯的宫殿（_诗集_，1998 年，第 254 页）。因支持原子论和无神论观点而被指控，他于 1595 年“因严重的异端嫌疑”被定罪，并被迫进行正式的公开放弃。1597 年底，多明我会的上级命令他返回卡拉布里亚。
+在 1592 年在那不勒斯接受审讯后，托马斯·康帕内拉先后前往罗马、佛罗伦萨和帕多瓦，在 1594 年初，因异端罪名而被告发并被捕。十月份，他被转移到罗马宗教裁判所的监狱，那里关押着“异端”的佛罗伦萨人弗朗切斯科·普奇和哲学家乔尔达诺·布鲁诺。在一首名为“致监狱”的十四行诗中，康帕内拉不得不反思这样一个事实：那些自由的精神，他们摒弃传统文化的停滞之水，勇敢地投身于“真理之海”，却发现自己被困在宗教裁判所阴森的宫殿中，仿佛是被悲剧性和致命的命运所困，他将其比作波吕斐摩斯的洞穴、克里特的迷宫和阿特拉斯的宫殿（*诗集*，1998 年，第 254 页）。因支持原子论和无神论观点而被指控，他于 1595 年“因严重的异端嫌疑”被定罪，并被迫进行正式的公开放弃。1597 年底，多明我会的上级命令他返回卡拉布里亚。
 
 快到三十岁，离开了十年后，康帕内拉于 1598 年 8 月 15 日回到斯蒂洛。第二年，他卷入了一生中最戏剧性的事件。通过阅读占星术和预言文本，他确信深刻的变革即将到来，异常的天象和自然事件的出现，以及人口的悲惨和不公正状况，以及即将到来的世纪末将带来巨大动荡。一个庞大的阴谋，他无疑是精神领袖，旨在将该省变成共和国，并将其从西班牙国王的暴政中解放出来。这个阴谋从未启动，因为 1599 年 8 月 10 日，两名阴谋者向西班牙当局揭露了这一计划。在疯狂试图逃跑之后，康帕内拉被捕。11 月，四艘帆船抵达那不勒斯港口，载着数十名囚犯。有些人被绞死，被吊在旗帜上；其他人在港口被肢解，无情地提醒着那些充满好奇和恐惧的人群，他们前来观看这可怕的场面。
 
@@ -57,7 +56,7 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 除了物品共享和涂饰墙壁之外，《太阳之城》的另一个特征，也是更加困难和令人困惑的特征，康帕内拉自己描述为“艰难而艰巨”的，就是妻子共享制度。这是市民们为了解决繁衍问题而采取的解决方案。康帕内拉说，他们惊讶于人类在繁殖马和狗时的关注，而忽视了自己的繁殖。繁殖行为对父母来说意味着巨大的责任；如果以不正确的方式行使，就会导致长时间的痛苦。此外，一个人的天生“气质”或性格与道德美德之间存在着密切联系，后者需要一个适合的环境才能生根发芽。繁殖因此应遵守明确的规范，不应交由偶然或个人感情来决定。市民们区分爱情和性。男女之间基于友谊和尊重而非性吸引的感情，通过礼物交换、交谈和跳舞等行为表达，远离了性行为。另一方面，性繁殖必须遵守严格的规则，包括父母的身体和道德品质，以及由占星家确定的有利受孕时间。这种结合不是个人、情感或激情关系的表达，而是与繁殖的社会责任和对集体社区的爱有关。
 
-公民的宗教信仰，即使包括基督教的基本原则，如灵魂的不朽和神圣的恩典，形成了一种自然宗教，建立了城市与星星之间的一种渗透。寺庙是开放的，没有被墙壁包围。在托马斯·康帕内拉的一首诗中承诺：“我将把天空变成一座寺庙，把星星变成一座祭坛”（_Poesie_，1998 年，第 327 页）。在寺庙圆顶的穹顶上，星星与它们对地上事务的影响一起被描绘出来。祭坛上放着一个天体和一个地球仪，形状像太阳。祈祷是朝向天空的。二十四名住在寺庙最高部的小房间里的祭司的任务是观察星星，并使用天文仪器记录它们的所有运动。他们的工作是指示最有利于生殖和农业劳动的时机，以此作为上帝和人类之间的中介。
+公民的宗教信仰，即使包括基督教的基本原则，如灵魂的不朽和神圣的恩典，形成了一种自然宗教，建立了城市与星星之间的一种渗透。寺庙是开放的，没有被墙壁包围。在托马斯·康帕内拉的一首诗中承诺：“我将把天空变成一座寺庙，把星星变成一座祭坛”（*Poesie*，1998 年，第 327 页）。在寺庙圆顶的穹顶上，星星与它们对地上事务的影响一起被描绘出来。祭坛上放着一个天体和一个地球仪，形状像太阳。祈祷是朝向天空的。二十四名住在寺庙最高部的小房间里的祭司的任务是观察星星，并使用天文仪器记录它们的所有运动。他们的工作是指示最有利于生殖和农业劳动的时机，以此作为上帝和人类之间的中介。
 
 ## 5. 世界君主制
 
@@ -75,7 +74,7 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 托马斯·康帕内拉对于普世君主制所采取的立场直接与预言中重新将人类在“一个牧人的带领下合而为一”的理想联系在一起。这一主题的中心文本是《弥赛亚君主制》。源自神圣统一的国王和祭司的最初统一，使人类能够在由恶魔引入并被野心和无知煽动的多样教派之后，回归到一个祭司律法之下，整个人类能够团结起来，超越分裂和冲突。据康帕内拉称，亚当和赫尔墨斯·三倍大者同时是国王、祭司和智者。将国王职位和祭司职位合而为一对人民极为有利和吉祥，因为人民更愿意服从那些他们认为权威来自上帝的人；无论是在公共领域还是在人类内心的内殿，他们的法律都将更受尊重和遵守。康帕内拉描述国王祭司将统治的时代为黄金时代，在这个时代，将结束困扰人类的邪恶：战争将不再有存在的理由；饥荒和匮乏将停止，因为某些国家的贫瘠将被其他国家生产的丰富食物所纠正和补充；瘟疫将消失，因为可以将人们转移到没有传染病的健康土地；最后，由于信息交流和沟通的推动，各种形式的知识将奇迹般地蓬勃发展，给人类带来巨大的好处。人类的分裂和分离总是恶魔的作为；嫉妒团结所带来的好处，他诱使人们忘记他们都是同一上帝和同一父亲亚当的子女，因此是兄弟姐妹。
 
-## 6. 自然宗教：_征服的无神论_
+## 6. 自然宗教：*征服的无神论*
 
 康帕内拉最重要的作品之一是《征服的无神论》，写于 1606 年至 1607 年间。他自己认为这标志着他思想的一个分水岭，表明他摆脱了年轻时更公开的理性主义立场，转向更真诚地遵循基督教原则。在监狱写的信中，他将这部作品描述为一部“反对政治家和马基雅维利主义者”的著作。作品的核心是他对政治理性和马基雅维利对宗教的概念的抨击，即宗教是一种政治发明，是祭司和王子们为了获取和保持权力而设计的有用的“虚构”。这种抨击与进行广泛的理性审查的需要相结合，审视和评估所有宗教信仰和哲学学说，以证明宗教与政治家所认为的相反，是人类天生的“自然美德”。这项研究的另一个动机是确定自然宗教与基督教之间的关系，从而得出结论：基督教法与自然法之间并无冲突，而是深刻而根本的一致，因为基督并没有废除自然法，而是增加了道德规范和仪式，使之更完善。
 
@@ -85,7 +84,7 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 在《无神论的胜利》创作与 1636 年巴黎最终版本出版之间的将近三十年里，这部论著不得不克服许多障碍，经历了一段曲折的历程，这是由于教会当局的怀疑，他们指责这部作品是佩拉干主义，因此过分颂扬人类的自然能力，削弱了神圣的恩典，将其限制在过于狭窄的范围内。尽管有肖佩的倡议，这部作品并未出版；也不是由托比亚斯·阿达米在 1617 年至 1623 年间出现在法兰克福的那些作品之一。随着这些尝试的失败，康帕内拉考虑在意大利出版它；但这部论著仍然不得不面对许多困难，并且在 1631 年的罗马版本出版之前必须经过多次审查，而这个版本很快被查封。在多次恳求重新发行这本书之后，康帕内拉决定在巴黎重新印刷它；《无神论的胜利》连同其他著作于 1636 年初出版，献给路易十三。
 
-在托马斯·康帕内拉（1599-1626 年）在那不勒斯城堡中度过的二十七年里，他致力于为整个知识百科全书提供新的基础，除了已提到的作品外，他还写了涉及医学、占星术、实用宗教（在《Quod reminiscentur》中，他向世界各种宗教的信徒发出雄辩的呼吁，旨在说服他们放弃非理性的信念，团结在基督教的理性中），《形而上学》，后来在巴黎印刷出版，以及一部有三十卷的神学论著，其出版始于 19 世纪中叶，至今仍在进行中。他的作品中最有趣的之一是《Apologia per Galileo》（《为伽利略辩护》）。这部作品写于 1616 年，当与自然神学有关的困难首次开始围绕哥白尼和伽利略的学说积累时，并于 1622 年在法兰克福印刷出版，《Apologia》代表了托马斯·康帕内拉的一种巨大勇气和智诚，因为他在狱中就探讨了这一敏感问题，而且，他甚至不是在为自己的学说辩护。他对自然之书的理解，构想为一个有生命和有机体的实体，与伽利略将之描绘为用数学符号书写的书籍的形象大相径庭。《Apologia》并非是对日心说的辩护，对此康帕内拉抱有严重保留意见，因为它与泰勒斯物理学不相容，而是对伽利略以及更广泛地说，对所有基督教自然哲学家的智力和学术自由（_libertas philosophandi_）的辩护，他们的首要权利和责任是优先阅读自然之书，而不是研究人类所写的书籍。康帕内拉非常清晰地指出问题的症结在于亚里士多德哲学被赋予的不合理教条价值，这种价值像所有人类学说一样，并没有绝对和最终的确定性。事实上，所有哲学都必须根据我们对自然之书的阅读进行修改、纠正或放弃。在这部简短的作品中，他借助自己广博的神学知识，以一种深刻而清晰的方式重新思考哲学、科学和神学之间的关系。康帕内拉通过对他的诠释能力的精湛展示——因此，这部论著在许多地方对读者来说都很难理解，读者有可能在密集的引文中迷失方向——试图表明神学和亚里士多德哲学长期以来被神学家视为必要和不可改变的结合实际上是不稳固的、过时的，并需要修订。这样的修订对神学并不构成风险；相反，神学将受到对物理学体系的顽固盲目坚持的伤害，这种体系已不再与新数据一致，也拒绝新的发现。放弃亚里士多德哲学不仅不会导致神学的崩溃，而且将使正确的科学观念得以恢复，这种观念必须像对待伽利略一样，不断阅读无限的自然之书，这是无限真理和基督教理性的表达。基于这一点，康帕内拉邀请基督教自信地接受科学的理性和自然价值，而不是出于无端的恐惧，如果它打算将自己建立为上帝之道的真正表达。
+在托马斯·康帕内拉（1599-1626 年）在那不勒斯城堡中度过的二十七年里，他致力于为整个知识百科全书提供新的基础，除了已提到的作品外，他还写了涉及医学、占星术、实用宗教（在《Quod reminiscentur》中，他向世界各种宗教的信徒发出雄辩的呼吁，旨在说服他们放弃非理性的信念，团结在基督教的理性中），《形而上学》，后来在巴黎印刷出版，以及一部有三十卷的神学论著，其出版始于 19 世纪中叶，至今仍在进行中。他的作品中最有趣的之一是《Apologia per Galileo》（《为伽利略辩护》）。这部作品写于 1616 年，当与自然神学有关的困难首次开始围绕哥白尼和伽利略的学说积累时，并于 1622 年在法兰克福印刷出版，《Apologia》代表了托马斯·康帕内拉的一种巨大勇气和智诚，因为他在狱中就探讨了这一敏感问题，而且，他甚至不是在为自己的学说辩护。他对自然之书的理解，构想为一个有生命和有机体的实体，与伽利略将之描绘为用数学符号书写的书籍的形象大相径庭。《Apologia》并非是对日心说的辩护，对此康帕内拉抱有严重保留意见，因为它与泰勒斯物理学不相容，而是对伽利略以及更广泛地说，对所有基督教自然哲学家的智力和学术自由（*libertas philosophandi*）的辩护，他们的首要权利和责任是优先阅读自然之书，而不是研究人类所写的书籍。康帕内拉非常清晰地指出问题的症结在于亚里士多德哲学被赋予的不合理教条价值，这种价值像所有人类学说一样，并没有绝对和最终的确定性。事实上，所有哲学都必须根据我们对自然之书的阅读进行修改、纠正或放弃。在这部简短的作品中，他借助自己广博的神学知识，以一种深刻而清晰的方式重新思考哲学、科学和神学之间的关系。康帕内拉通过对他的诠释能力的精湛展示——因此，这部论著在许多地方对读者来说都很难理解，读者有可能在密集的引文中迷失方向——试图表明神学和亚里士多德哲学长期以来被神学家视为必要和不可改变的结合实际上是不稳固的、过时的，并需要修订。这样的修订对神学并不构成风险；相反，神学将受到对物理学体系的顽固盲目坚持的伤害，这种体系已不再与新数据一致，也拒绝新的发现。放弃亚里士多德哲学不仅不会导致神学的崩溃，而且将使正确的科学观念得以恢复，这种观念必须像对待伽利略一样，不断阅读无限的自然之书，这是无限真理和基督教理性的表达。基于这一点，康帕内拉邀请基督教自信地接受科学的理性和自然价值，而不是出于无端的恐惧，如果它打算将自己建立为上帝之道的真正表达。
 
 被囚禁在那不勒斯，托马斯·康帕内拉于 1626 年获释，随后搬到罗马，直至 1634 年。他在罗马的时期中最臭名昭著的事件与教皇乌尔班八世希望利用他的占星专长以对抗越来越频繁的基于星体不祥排列而预示其即将死亡的预言有关。康帕内拉被召见至教皇宫殿，实施了他在短篇著作《避免星体命运》中描述的自然魔法实践。他重新提出了马西里奥·费奇诺借鉴的主题，后者教授如何吸引星体的青睐，康帕内拉则提出教授如何通过采取适当预防措施来避免星体威胁的邪恶。这部作品中最著名且具有争议的部分，因为涉及对教皇采取的实践，是康帕内拉建议针对日食和彗星可能造成的危害采取补救措施的部分。当日食似乎威胁到特定人时，他建议采取一切预防措施，防止携带在被污染空气中的种子找到有利的土壤并产生其有害影响。然后解释如何划定一个不受恶势力侵袭的独立空间。将门窗密封，通过洒香水和香料以及燃烧月桂、桃金娘、迷迭香和柏木等香木来净化空气。在用白色丝绸的植物和织物装饰的房间里，点燃两盏灯、五支火炬和其他灯光，以代表黄道带的行星。寻找不受日食负面影响的朋友相伴，演奏与木星和金星相关的音乐，并求助于所有那些“诱惑”，涉及植物、石头、颜色和气味，能够吸引吉祥影响并对抗恶势力。如果日食的黑暗似乎悬挂并中断了从天上流下的生命，就需要通过建造一种人造天空来获得保护。《命运论》于 1629 年在里昂出版，作为托马斯·康帕内拉的《占星术》的第七卷也是最后一卷。这冒着牵涉教皇自身被卷入迷信实践指控的风险。康帕内拉迅速写了一部《辩护书》，试图证明《命运论》中推荐的实践并非迷信，而完全是自然的。为了进一步避免任何丑闻，1632 年初，乌尔班八世匆忙颁布了一项针对占星家的极其严厉的教令《难以诠释》。教皇还让多恩·奥拉齐奥·莫兰迪，圣普拉塞德修道院的修道院长，因占星术与阴暗政治阴谋纠缠在一起，被监禁并处死（参见康帕内拉《占星术文集》导言，第 41-42 页）。
 
@@ -99,102 +98,102 @@ _首次发表于 2005 年 8 月 31 日星期三；实质性修订于 2021 年 4 
 
 ### Primary Literature: Campanella’s Works
 
-There is no complete edition of Campanella’s works, and for many of them it is still necessary to consult early printed editions. The starting-point for a description of his writings remains Luigi Firpo, _Bibliografia degli scritti di Tommaso Campanella_ (Turin: V. Bona, 1940), though it requires numerous additions and corrections. For Campanella editions published since 1990 see the journal _Bruniana & Campanelliana_ (1995–).
+There is no complete edition of Campanella’s works, and for many of them it is still necessary to consult early printed editions. The starting-point for a description of his writings remains Luigi Firpo, *Bibliografia degli scritti di Tommaso Campanella* (Turin: V. Bona, 1940), though it requires numerous additions and corrections. For Campanella editions published since 1990 see the journal *Bruniana & Campanelliana* (1995–).
 
-The section ‘Testi’ in the online [_Archivio Tommaso Campanella_](https://www.iliesi.cnr.it/ATC/intro.php?op=1) offers access to digital facsimiles and/or transcriptions of most of Campanella’s works, with full bibliographical references for original and modern editions.
+The section ‘Testi’ in the online [*Archivio Tommaso Campanella*](https://www.iliesi.cnr.it/ATC/intro.php?op=1) offers access to digital facsimiles and/or transcriptions of most of Campanella’s works, with full bibliographical references for original and modern editions.
 
 The most important editions of his writings are:
 
-* _Aforismi politici_, ed. L. Firpo (Turin: Istituto Giuridico dell’Università, 1941).
-* _Apologia pro Galileo/A Defense of Galileo_, ed. R. J. Blackwell (Notre Dame: University of Notre Dame Press, 1994); _Apologia pro Galileo/Apologie pour Galilée_, ed. M.-P. Lerner (Paris: Les Belles Lettres, 2001); ed. M.-P. Lerner, Ital. transl. by G. Ernst (Pisa: Edizioni della Normale, 2006).
-* _Articuli prophetales_, ed. G. Ernst (Florence: La Nuova Italia, 1977).
-* _Astrologicorum libri VII_ (Frankfurt: G. Tampachius, 1630; also in _Opera latina_, II, pp. 1081–1346).
-* _L’ateismo trionfato_, ed. G. Ernst, 2 vols (Pisa: Edizioni della Normale, 2004).
-* _Atheismus triumphatus_ (Rome: apud haeredem B. Zannetti, 1631; repr. Pisa-Rome: Fabrizio Serra, 2013; Paris: T. Dubray, 1636).
-* _La città del Sole_, ed. L. Firpo; new ed. G. Ernst and L. Salvetti Firpo (Rome and Bari: Laterza, 1997); _The City of the Sun_, transl. by D.J. Donno (Berkeley and Los Angeles: University of California Press, 1981).
-* _Compendium physiologiae – Compendio di filosofia della natura_, Lat. text G. Ernst, Ital. transl. and notes P. Ponzio (Milan: Rusconi, 1999).
-* _Del senso delle cose e della magia_, ed. A. Bruers (Bari: Laterza, 1925); new ed. G. Ernst (Rome and Bari: Laterza, 2007).
-* _Economica. Questioni economiche_, ed. G. Ernst (Pisa-Rome: Fabrizio Serra, 2016).
-* _Epilogo magno_, ed. C. Ottaviano (Rome: Reale Accademia d’Italia, 1939).
-* _Ethica. Quaestiones super Ethicam_, ed. G. Ernst, in collaboration with O. Catanorchi (Pisa: Edizioni della Normale, 2011); Ital. transl.: _Etica_, transl. by G. Ernst (Pisa: Edizioni della Normale, 2015).
-* _Lettere_, ed. V. Spampanato (Bari: Laterza, 1927); new ed. G. Ernst (Florence: Olschki, 2010).
-* _Liber apologeticus contra impugnantes Institutum Scholarum Piarum / Libro apologetico contro gli avversari dell’Istituto delle Scuole Pie_, ed. M. Erto (Pisa-Rome: Fabrizio Serra, 2015).
-* _Medicinalium libri VII_ (Lyon: I. Pillehotte, 1635).
-* _Metaphysica_ (Paris: D. Langlois, 1638); facsimile ed. L. Firpo (Turin: Bottega d’Erasmo, 1961).
-* _Monarchie d’Espagne et Monarchie de France_, ed. G. Ernst, French transl. S. Waldbaum and N. Fabry (Paris: Presses Universitaires de France, 1997).
-* _La monarchia del Messia_, ed. V. Frajese (Rome: Edizioni di Storia e Letteratura, 1995).
-* _Monarchia Messiae_, ed. P. Ponzio, French translation, V. Bourdette (Paris: Presses Universitaires de France, 2002).
-* _Opera latina Francofurti impressa annis 1617–1630_, facsimile ed. L. Firpo (Turin: Bottega d’Erasmo, 1975); two volumes containing: I, _Prodromus philosophiae instaurandae_ (ed. 1617), _De sensu rerum et magia_ (ed. 1620), _Apologia pro Galileo_ (ed. 1622); II, _Philosophia realis epilogistica_ (ed. 1623)_, Astrologicorum_ l. VII (ed. 1630).
-* _Opere letterarie_, ed. L. Bolzoni (Turin: Utet, 1977).
-* _Opuscoli astrologici. Come evitare il fato astrale_; _Apologetico_; _Disputa sulle Bolle_, ed. G. Ernst (Milan: Rizzoli, 2003).
-* _Philosophia rationalis_ (Paris: I. Dubray, 1638).
-* _Philosophia realis_ (Paris: D. Houssaye, 1637).
-* _Philosophia sensibus demonstrata_, ed. L. De Franco (Naples: Vivarium, 1992).
-* _Le poesie_, ed. F. Giancotti (Turin: Einaudi, 1998; new ed. Milan: Bompiani, 2013; English translation by Sherry Roush in two parts: _Selected Philosophical Poems_, Chicago and London: University of Chicago Press, 2011; Pisa and Rome: Fabrizio Serra, 2011).
-* _Prodromus philosophiae instaurandae_, ed. with Ital. transl. by M. Perugini (Sarzana: Agorà & Co., 2016)
-* _Quod reminiscentur et convertentur ad Dominum universi fines terrae_, ed. R. Amerio, Books I–II (Padua: Cedam, 1939); Book III: _Per la conversione degli Ebrei_ (Florence: Olschki,1955); Book IV: _Legazioni ai Maomettani_ (Florence: Olschki, 1960).
-* _De sensu rerum et magia_ (Frankfurt: G. Tampach, 1620; Paris: L. Boullenger, 1636; Paris: J. Dubray, 1637).
-* _Syntagma de libris propriis et recta ratione studendi_, ed. V. Spampanato (Milan and Florence: Bestetti e Tumminelli, 1927); _Sintagma dei miei libri e sul corretto metodo di apprendere/ De libris propriis et recta ratione studendi syntagma_, ed. G. Ernst (Pisa and Rome: Fabrizio Serra Editore, 2007).
-* _Theologicorum libri_, ed. R. Amerio and M. Muccillo (Rome: Centro di Studi Umanistici, 1949– ).
-* _Tommaso Campanella_, ed. G. Ernst, introd. N. Badaloni (Rome: Il Poligrafico e Zecca dello Stato, 1999) \[an anthology of 16 texts].
-* _Tre questioni politiche contro Aristotele_, ed. G. Ernst, _Bruniana & Campanelliana_, XIX, 2013, pp. 591–698; Ital. transl., pp. 601–658; Latin text, pp. 659–697.
-* _Tutte le opere._ I\*. Scritti letterari\*, ed. L. Firpo (Milan: Mondadori, 1954) \[the only volume published; it contains _Le poesie_, the _Philosophia rationalis_ (except for the _Dialectica_) with an Italian translation].
+* *Aforismi politici*, ed. L. Firpo (Turin: Istituto Giuridico dell’Università, 1941).
+* *Apologia pro Galileo/A Defense of Galileo*, ed. R. J. Blackwell (Notre Dame: University of Notre Dame Press, 1994); *Apologia pro Galileo/Apologie pour Galilée*, ed. M.-P. Lerner (Paris: Les Belles Lettres, 2001); ed. M.-P. Lerner, Ital. transl. by G. Ernst (Pisa: Edizioni della Normale, 2006).
+* *Articuli prophetales*, ed. G. Ernst (Florence: La Nuova Italia, 1977).
+* *Astrologicorum libri VII* (Frankfurt: G. Tampachius, 1630; also in *Opera latina*, II, pp. 1081–1346).
+* *L’ateismo trionfato*, ed. G. Ernst, 2 vols (Pisa: Edizioni della Normale, 2004).
+* *Atheismus triumphatus* (Rome: apud haeredem B. Zannetti, 1631; repr. Pisa-Rome: Fabrizio Serra, 2013; Paris: T. Dubray, 1636).
+* *La città del Sole*, ed. L. Firpo; new ed. G. Ernst and L. Salvetti Firpo (Rome and Bari: Laterza, 1997); *The City of the Sun*, transl. by D.J. Donno (Berkeley and Los Angeles: University of California Press, 1981).
+* *Compendium physiologiae – Compendio di filosofia della natura*, Lat. text G. Ernst, Ital. transl. and notes P. Ponzio (Milan: Rusconi, 1999).
+* *Del senso delle cose e della magia*, ed. A. Bruers (Bari: Laterza, 1925); new ed. G. Ernst (Rome and Bari: Laterza, 2007).
+* *Economica. Questioni economiche*, ed. G. Ernst (Pisa-Rome: Fabrizio Serra, 2016).
+* *Epilogo magno*, ed. C. Ottaviano (Rome: Reale Accademia d’Italia, 1939).
+* *Ethica. Quaestiones super Ethicam*, ed. G. Ernst, in collaboration with O. Catanorchi (Pisa: Edizioni della Normale, 2011); Ital. transl.: *Etica*, transl. by G. Ernst (Pisa: Edizioni della Normale, 2015).
+* *Lettere*, ed. V. Spampanato (Bari: Laterza, 1927); new ed. G. Ernst (Florence: Olschki, 2010).
+* *Liber apologeticus contra impugnantes Institutum Scholarum Piarum / Libro apologetico contro gli avversari dell’Istituto delle Scuole Pie*, ed. M. Erto (Pisa-Rome: Fabrizio Serra, 2015).
+* *Medicinalium libri VII* (Lyon: I. Pillehotte, 1635).
+* *Metaphysica* (Paris: D. Langlois, 1638); facsimile ed. L. Firpo (Turin: Bottega d’Erasmo, 1961).
+* *Monarchie d’Espagne et Monarchie de France*, ed. G. Ernst, French transl. S. Waldbaum and N. Fabry (Paris: Presses Universitaires de France, 1997).
+* *La monarchia del Messia*, ed. V. Frajese (Rome: Edizioni di Storia e Letteratura, 1995).
+* *Monarchia Messiae*, ed. P. Ponzio, French translation, V. Bourdette (Paris: Presses Universitaires de France, 2002).
+* *Opera latina Francofurti impressa annis 1617–1630*, facsimile ed. L. Firpo (Turin: Bottega d’Erasmo, 1975); two volumes containing: I, *Prodromus philosophiae instaurandae* (ed. 1617), *De sensu rerum et magia* (ed. 1620), *Apologia pro Galileo* (ed. 1622); II, *Philosophia realis epilogistica* (ed. 1623)*, Astrologicorum* l. VII (ed. 1630).
+* *Opere letterarie*, ed. L. Bolzoni (Turin: Utet, 1977).
+* *Opuscoli astrologici. Come evitare il fato astrale*; *Apologetico*; *Disputa sulle Bolle*, ed. G. Ernst (Milan: Rizzoli, 2003).
+* *Philosophia rationalis* (Paris: I. Dubray, 1638).
+* *Philosophia realis* (Paris: D. Houssaye, 1637).
+* *Philosophia sensibus demonstrata*, ed. L. De Franco (Naples: Vivarium, 1992).
+* *Le poesie*, ed. F. Giancotti (Turin: Einaudi, 1998; new ed. Milan: Bompiani, 2013; English translation by Sherry Roush in two parts: *Selected Philosophical Poems*, Chicago and London: University of Chicago Press, 2011; Pisa and Rome: Fabrizio Serra, 2011).
+* *Prodromus philosophiae instaurandae*, ed. with Ital. transl. by M. Perugini (Sarzana: Agorà & Co., 2016)
+* *Quod reminiscentur et convertentur ad Dominum universi fines terrae*, ed. R. Amerio, Books I–II (Padua: Cedam, 1939); Book III: *Per la conversione degli Ebrei* (Florence: Olschki,1955); Book IV: *Legazioni ai Maomettani* (Florence: Olschki, 1960).
+* *De sensu rerum et magia* (Frankfurt: G. Tampach, 1620; Paris: L. Boullenger, 1636; Paris: J. Dubray, 1637).
+* *Syntagma de libris propriis et recta ratione studendi*, ed. V. Spampanato (Milan and Florence: Bestetti e Tumminelli, 1927); *Sintagma dei miei libri e sul corretto metodo di apprendere/ De libris propriis et recta ratione studendi syntagma*, ed. G. Ernst (Pisa and Rome: Fabrizio Serra Editore, 2007).
+* *Theologicorum libri*, ed. R. Amerio and M. Muccillo (Rome: Centro di Studi Umanistici, 1949– ).
+* *Tommaso Campanella*, ed. G. Ernst, introd. N. Badaloni (Rome: Il Poligrafico e Zecca dello Stato, 1999) \[an anthology of 16 texts].
+* *Tre questioni politiche contro Aristotele*, ed. G. Ernst, *Bruniana & Campanelliana*, XIX, 2013, pp. 591–698; Ital. transl., pp. 601–658; Latin text, pp. 659–697.
+* *Tutte le opere.* I\*. Scritti letterari\*, ed. L. Firpo (Milan: Mondadori, 1954) \[the only volume published; it contains *Le poesie*, the *Philosophia rationalis* (except for the *Dialectica*) with an Italian translation].
 
 ### Secondary Literature
 
-Bibliographical information on studies of Campanella can be found in the following articles by Luigi Firpo: “Campanella nel Settecento,” _Rinascimento_, IV (1953): 105–54; “Campanella nel secolo XIX,” _Calabria nobilissima_, VI-X (1952-1956); “Cinquant’anni di studi sul Campanella: 1901–1950,”_Rinascimento_, VI (1955): 209–348; “Un decennio di studi sul Campanella: 1951–1960,” _Studi secenteschi_, III (1960): 125–64. An extensive bibliography is now also available in Ricci, 2018.
+Bibliographical information on studies of Campanella can be found in the following articles by Luigi Firpo: “Campanella nel Settecento,” *Rinascimento*, IV (1953): 105–54; “Campanella nel secolo XIX,” *Calabria nobilissima*, VI-X (1952-1956); “Cinquant’anni di studi sul Campanella: 1901–1950,”*Rinascimento*, VI (1955): 209–348; “Un decennio di studi sul Campanella: 1951–1960,” *Studi secenteschi*, III (1960): 125–64. An extensive bibliography is now also available in Ricci, 2018.
 
-* Amabile, Luigi, 1882, _Fra Tommaso Campanella, la sua congiura, i suoi processi e la sua pazzia_, 3 vols, Naples: Morano.
-* –––, 1887, _Fra Tommaso Campanella ne’ castelli di Napoli, in Roma ed in Parigi_, 2 vols, Naples: Morano.
-* Amerio, Romano 1972, _Il sistema teologico di Tommaso Campanella_, Milan-Naples: Ricciardi.
-* Badaloni, Nicola, 1965, _Tommaso Campanella_, Milan: Feltrinelli.
-* Blanchet, Léon, 1920, _Campanella_, Paris: Alcan.
-* Blum, Paul Richard, 2010, “Tommaso Campanella: God Makes Sense in the World,” in _Philosophy of Religion in the Renaissance_, Farnham: Ashgate, pp. 137–162.
-* Bock, Gisela, 1974, _Thomas Campanella. Politisches Interesse und Philosophische Spekulation_, Tübingen: M. Niemeyer.
-* Bonansea, Bernardino, 1969, _Tommaso Campanella. Renaissance Pioneer of Modern Thought_, Washington, D.C.: The Catholic University of America Press.
-* Canone, Eugenio and Germana Ernst (eds), 2006, 2010, 2017, _Enciclopedia Bruniana e Campanelliana_, 3 volumes, Pisa-Rome: Fabrizio Serra.
-* Cerbo, Anna (ed.), 2020, _Studi campanelliani (per Germana Ernst)_, Rome: Aracne.
-* Corsano, Antonio, 1961, _Tommaso Campanella_, Bari: Laterza; 2001, new edition by D. M. Fazio, Galatina: Congedo.
-* Cro, Stelio, 1979, _Tommaso Campanella e i prodromi della civiltà moderna_, Hamilton: The Symposium Press.
-* De Lucca, Jean-Paul, 2009, “Prophetic Representation and Political Allegorisation: The Hospitaller in Campanella’s _The City of the Sun_,” _Bruniana & Campanelliana_, 15 (2): 387–405.
-* –––, 2012, “The Art of History Writing as the Foundation of the Sciences: Campanella’s _Historiographia_,” _Bruniana & Campanelliana_, 18 (2): 55–70.
-* –––, 2015a, “Corpo, spirito e anima-mente: l’antropologia della libertà in Campanella,” in E. Canone (ed.), _Anima-corpo alla luce dell’etica: antichi e moderni_, Firenze: Leo S. Olschki, pp. 247–263.
-* –––, 2015b, “Grotius and Campanella: A Footnote to Luigi Firpo,” _Bruniana & Campanelliana_, 21 (1): 25–34.
-* –––, 2017a, “‘Un fiume piccolissimo di quel mare immenso’: Universalism, Navigation and the Rethinking of the Mediterranean in Campanella,” _Mediterranea: International Journal on the Transfer of Knowledge_, 2: 17–33.
-* –––, 2017b, “‘Ad altiora nati sumus’: Practical Theology and Cultural Diplomacy in Campanella’s _Legatio_ to China,” _Bruniana & Campanelliana_, 23 (2): 597–608.
-* –––, 2021, “Law and Religion in Bruno’s _Spaccio de la Bestia trionfante_ and Campanella’s _L’Ateismo trionfato_,” in M. Traversino di Cristo (ed.), _Giordano Bruno. Law, Philosophy and Theology in the Early Modern Era_, Paris: Classiques Garnier, pp. 241–273.
-* De Mattei, Rodolfo, 1934, _Studi campanelliani_, Florence: Sansoni.
-* Di Napoli, Giovanni, 1947, _Tommaso Campanella, filosofo della restaurazione cattolica_, Padua: Cedam.
-* Ducros, Franc, 1969, _Tommaso Campanella poète_, Paris: Presses Universitaires de France.
-* Delumeau, Jean, 2008, _Le mystère Campanella_, Paris: Fayard.
-* Ernst, Germana, 1991, _Religione, ragione e natura: ricerche su Tommaso Campanella e il tardo Rinascimento_, Milan: Franco Angeli.
-* –––, 2002a, _Il carcere il politico il profeta_. _Saggi su Tommaso Campanella_, Pisa-Rome: Istituti Editoriali e Poligrafici Internazionali.
-* –––, 2002b, _Tommaso Campanella: il libro e il corpo della natura_, Bari-Rome: Laterza; _Tommaso Campanella: Le livre et le corps de la nature_ (2007), French transl. by R. Lenoir, Paris: Les Belles Lettres; _Tommaso Campanella: The Book and the Body of Nature_ (2010); Engl. transl. by D. Marshall, Dordrecht: Springer.
-* –––, 2015, “‘Maculae Galilei me perplexum habent’: Campanella, Sunspots and the Temptations of Pythagoreanism,” in M. McLaughlin, I.D. Rowland and E. Tarantino (eds.), _Authority, Innovation and Early Modern Epistemology. Essays in Honour of Hilary Gatti_, Cambridge: Legenda, pp. 170–185.
-* –––, 2016a, “‘Humilitas est magnes virtutum’. L’autoritratto del filosofo nell’ _Ethica_ di Campanella,” _Rivista di storia della filosofia_, 71 (Supplement 4): 111–123.
-* –––, 2016b, “A Story in the History of Scholarship: The rediscovery of Tommaso Campanella,” in C. Muratori and G. Paganini (eds.), _Early Modern Philosophers and the Renaissance Legacy_, Dordrecht: Springer, pp. 277–292.
-* –––, 2018, “Life in Prison: Cardano, Tasso and Campanella,” in A. Ossa-Richardson and M. Meserve, _Et Amicorum. Essays on Renaissance Humanism and Philosophy in Honour of Jill Kraye_, Leiden-Boston: Brill, pp. 338-354.
-* ––– (ed.), 2001, _Tommaso Campanella e la congiura di Calabria_, Stilo: Comune di Stilo.
-* Ernst, Germana, and Caterina Fiorani (eds), 2008, _Laboratorio Campanella. Biografia. Contesti. Iniziative in corso_, Rome: L’Erma di Bretschneider.
-* Firpo, Luigi, 1947, _Ricerche campanelliane_, Florence: Sansoni.
-* –––, 1998, _I processi di Tommaso Campanella_, E. Canone (ed.), Rome: Salerno.
-* Fournel, Jean-Louis, 2012, _La cité du soleil et les territoires des hommes. Le savoir du monde chez Campanella_, Paris: Albin Michel.
-* Frajese, Vittorio, 2002, _Profezia e machiavellismo: il giovane Campanella_, Rome: Carocci.
-* Gatti, Paola, 2010, _Il gran libro del mondo nella filosofia di Tommaso Campanella_, Rome: Gregorian and Biblical Press.
-* Giglioni, Guido, 2007, “Healing and Belief in Tommaso Campanella’s Philosophy,” _Intellectual History Review_, 17 (3): 225–238.
-* –––, 2010, “The Anatomical Foundations of Tommaso Campanella’s Theory of Magic,” _Revista Portugeusa de Filosofia_, 66 (1): 9–24.
-* Hagengruber, Ruth, 1994, _Tommaso Campanella: Eine Philosophie der Ähnlichkeit_, Sankt Augustin: Academia Verlag.
-* Headley, John M., 1997, _Tommaso Campanella and the Transformation of the World_, Princeton: Princeton University Press.
-* Lerner, Michel-Pierre, 1995, _Tommaso Campanella en France au XVII siècle_, Naples: Bibliopolis.
-* Martinez Perucha, David, 2014, _La traducción del orden natural al ámbito humano. El pensamiento politico de Tommaso Campanella_, Frankfurt: Peter Lang.
-* Miglietta, Deborah, 2019, _Anatomie d’un Homme-Dieu: Éléments de la christologie et de la physiologie de Tommaso Campanella_, Paris: Champion.
-* Mönnich, Michael, 1990, _Tommaso Campanella: Sein Beitrag zur Medizin und Pharmacie in der Renaissance_, Stuttgart: Wissenschaftliche Verlagsgesellschaft.
-* Palumbo, Margherita, 2004, _La Città del Sole. Bibliografia delle edizioni (1623–2002)_, Pisa-Rome: Istituti Editoriali e Poligrafici Internazionali.
-* Panichi, Alessio, 2015, _Il volto fragile del potere. Religione e politica nel pensiero di Tommaso Campanella_, Pisa: ETS.
-* Ponzio, Paolo, 2001, _Tommaso Campanella. Filosofia della natura e teoria della scienza_, Bari: Levante.
-* Ricci, Saverio, 2018, _Campanella. Apocalisse e governo universale_, Rome: Salerno.
-* Sgarro, Tommaso, 2018, _Un inquieto domenicano. Temi e figure della Seconda Scolastica nella filosofia di Tommaso Campanella_, foreword by J.P. De Lucca, Bari: Edizione di Pagina.
-* Walker, Daniel Pickering, 1958, _Spiritual and Demonic Magic from Ficino to Campanella_, London: Warburg Institute.
+* Amabile, Luigi, 1882, *Fra Tommaso Campanella, la sua congiura, i suoi processi e la sua pazzia*, 3 vols, Naples: Morano.
+* –––, 1887, *Fra Tommaso Campanella ne’ castelli di Napoli, in Roma ed in Parigi*, 2 vols, Naples: Morano.
+* Amerio, Romano 1972, *Il sistema teologico di Tommaso Campanella*, Milan-Naples: Ricciardi.
+* Badaloni, Nicola, 1965, *Tommaso Campanella*, Milan: Feltrinelli.
+* Blanchet, Léon, 1920, *Campanella*, Paris: Alcan.
+* Blum, Paul Richard, 2010, “Tommaso Campanella: God Makes Sense in the World,” in *Philosophy of Religion in the Renaissance*, Farnham: Ashgate, pp. 137–162.
+* Bock, Gisela, 1974, *Thomas Campanella. Politisches Interesse und Philosophische Spekulation*, Tübingen: M. Niemeyer.
+* Bonansea, Bernardino, 1969, *Tommaso Campanella. Renaissance Pioneer of Modern Thought*, Washington, D.C.: The Catholic University of America Press.
+* Canone, Eugenio and Germana Ernst (eds), 2006, 2010, 2017, *Enciclopedia Bruniana e Campanelliana*, 3 volumes, Pisa-Rome: Fabrizio Serra.
+* Cerbo, Anna (ed.), 2020, *Studi campanelliani (per Germana Ernst)*, Rome: Aracne.
+* Corsano, Antonio, 1961, *Tommaso Campanella*, Bari: Laterza; 2001, new edition by D. M. Fazio, Galatina: Congedo.
+* Cro, Stelio, 1979, *Tommaso Campanella e i prodromi della civiltà moderna*, Hamilton: The Symposium Press.
+* De Lucca, Jean-Paul, 2009, “Prophetic Representation and Political Allegorisation: The Hospitaller in Campanella’s *The City of the Sun*,” *Bruniana & Campanelliana*, 15 (2): 387–405.
+* –––, 2012, “The Art of History Writing as the Foundation of the Sciences: Campanella’s *Historiographia*,” *Bruniana & Campanelliana*, 18 (2): 55–70.
+* –––, 2015a, “Corpo, spirito e anima-mente: l’antropologia della libertà in Campanella,” in E. Canone (ed.), *Anima-corpo alla luce dell’etica: antichi e moderni*, Firenze: Leo S. Olschki, pp. 247–263.
+* –––, 2015b, “Grotius and Campanella: A Footnote to Luigi Firpo,” *Bruniana & Campanelliana*, 21 (1): 25–34.
+* –––, 2017a, “‘Un fiume piccolissimo di quel mare immenso’: Universalism, Navigation and the Rethinking of the Mediterranean in Campanella,” *Mediterranea: International Journal on the Transfer of Knowledge*, 2: 17–33.
+* –––, 2017b, “‘Ad altiora nati sumus’: Practical Theology and Cultural Diplomacy in Campanella’s *Legatio* to China,” *Bruniana & Campanelliana*, 23 (2): 597–608.
+* –––, 2021, “Law and Religion in Bruno’s *Spaccio de la Bestia trionfante* and Campanella’s *L’Ateismo trionfato*,” in M. Traversino di Cristo (ed.), *Giordano Bruno. Law, Philosophy and Theology in the Early Modern Era*, Paris: Classiques Garnier, pp. 241–273.
+* De Mattei, Rodolfo, 1934, *Studi campanelliani*, Florence: Sansoni.
+* Di Napoli, Giovanni, 1947, *Tommaso Campanella, filosofo della restaurazione cattolica*, Padua: Cedam.
+* Ducros, Franc, 1969, *Tommaso Campanella poète*, Paris: Presses Universitaires de France.
+* Delumeau, Jean, 2008, *Le mystère Campanella*, Paris: Fayard.
+* Ernst, Germana, 1991, *Religione, ragione e natura: ricerche su Tommaso Campanella e il tardo Rinascimento*, Milan: Franco Angeli.
+* –––, 2002a, *Il carcere il politico il profeta*. *Saggi su Tommaso Campanella*, Pisa-Rome: Istituti Editoriali e Poligrafici Internazionali.
+* –––, 2002b, *Tommaso Campanella: il libro e il corpo della natura*, Bari-Rome: Laterza; *Tommaso Campanella: Le livre et le corps de la nature* (2007), French transl. by R. Lenoir, Paris: Les Belles Lettres; *Tommaso Campanella: The Book and the Body of Nature* (2010); Engl. transl. by D. Marshall, Dordrecht: Springer.
+* –––, 2015, “‘Maculae Galilei me perplexum habent’: Campanella, Sunspots and the Temptations of Pythagoreanism,” in M. McLaughlin, I.D. Rowland and E. Tarantino (eds.), *Authority, Innovation and Early Modern Epistemology. Essays in Honour of Hilary Gatti*, Cambridge: Legenda, pp. 170–185.
+* –––, 2016a, “‘Humilitas est magnes virtutum’. L’autoritratto del filosofo nell’ *Ethica* di Campanella,” *Rivista di storia della filosofia*, 71 (Supplement 4): 111–123.
+* –––, 2016b, “A Story in the History of Scholarship: The rediscovery of Tommaso Campanella,” in C. Muratori and G. Paganini (eds.), *Early Modern Philosophers and the Renaissance Legacy*, Dordrecht: Springer, pp. 277–292.
+* –––, 2018, “Life in Prison: Cardano, Tasso and Campanella,” in A. Ossa-Richardson and M. Meserve, *Et Amicorum. Essays on Renaissance Humanism and Philosophy in Honour of Jill Kraye*, Leiden-Boston: Brill, pp. 338-354.
+* ––– (ed.), 2001, *Tommaso Campanella e la congiura di Calabria*, Stilo: Comune di Stilo.
+* Ernst, Germana, and Caterina Fiorani (eds), 2008, *Laboratorio Campanella. Biografia. Contesti. Iniziative in corso*, Rome: L’Erma di Bretschneider.
+* Firpo, Luigi, 1947, *Ricerche campanelliane*, Florence: Sansoni.
+* –––, 1998, *I processi di Tommaso Campanella*, E. Canone (ed.), Rome: Salerno.
+* Fournel, Jean-Louis, 2012, *La cité du soleil et les territoires des hommes. Le savoir du monde chez Campanella*, Paris: Albin Michel.
+* Frajese, Vittorio, 2002, *Profezia e machiavellismo: il giovane Campanella*, Rome: Carocci.
+* Gatti, Paola, 2010, *Il gran libro del mondo nella filosofia di Tommaso Campanella*, Rome: Gregorian and Biblical Press.
+* Giglioni, Guido, 2007, “Healing and Belief in Tommaso Campanella’s Philosophy,” *Intellectual History Review*, 17 (3): 225–238.
+* –––, 2010, “The Anatomical Foundations of Tommaso Campanella’s Theory of Magic,” *Revista Portugeusa de Filosofia*, 66 (1): 9–24.
+* Hagengruber, Ruth, 1994, *Tommaso Campanella: Eine Philosophie der Ähnlichkeit*, Sankt Augustin: Academia Verlag.
+* Headley, John M., 1997, *Tommaso Campanella and the Transformation of the World*, Princeton: Princeton University Press.
+* Lerner, Michel-Pierre, 1995, *Tommaso Campanella en France au XVII siècle*, Naples: Bibliopolis.
+* Martinez Perucha, David, 2014, *La traducción del orden natural al ámbito humano. El pensamiento politico de Tommaso Campanella*, Frankfurt: Peter Lang.
+* Miglietta, Deborah, 2019, *Anatomie d’un Homme-Dieu: Éléments de la christologie et de la physiologie de Tommaso Campanella*, Paris: Champion.
+* Mönnich, Michael, 1990, *Tommaso Campanella: Sein Beitrag zur Medizin und Pharmacie in der Renaissance*, Stuttgart: Wissenschaftliche Verlagsgesellschaft.
+* Palumbo, Margherita, 2004, *La Città del Sole. Bibliografia delle edizioni (1623–2002)*, Pisa-Rome: Istituti Editoriali e Poligrafici Internazionali.
+* Panichi, Alessio, 2015, *Il volto fragile del potere. Religione e politica nel pensiero di Tommaso Campanella*, Pisa: ETS.
+* Ponzio, Paolo, 2001, *Tommaso Campanella. Filosofia della natura e teoria della scienza*, Bari: Levante.
+* Ricci, Saverio, 2018, *Campanella. Apocalisse e governo universale*, Rome: Salerno.
+* Sgarro, Tommaso, 2018, *Un inquieto domenicano. Temi e figure della Seconda Scolastica nella filosofia di Tommaso Campanella*, foreword by J.P. De Lucca, Bari: Edizione di Pagina.
+* Walker, Daniel Pickering, 1958, *Spiritual and Demonic Magic from Ficino to Campanella*, London: Warburg Institute.
 
 ## Academic Tools
 
@@ -218,4 +217,4 @@ The author and principal editor would like to express their indebtedness to the 
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Germana Ernst\
-Jean-Paul De Lucca <[_jean-paul.delucca@um.edu.mt_](mailto:jean-paul%2edelucca%40um%2eedu%2emt)>
+Jean-Paul De Lucca <[*jean-paul.delucca@um.edu.mt*](mailto:jean-paul%2edelucca%40um%2eedu%2emt)>

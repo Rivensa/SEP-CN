@@ -4,11 +4,11 @@
 
 心灵内容的因果理论试图解释思想如何能够关于事物。它们试图解释一个人如何思考狗这样的事物。这些理论从心灵表征的概念出发，认为思想之所以有意义，是因为心灵表征与所代表的世界的某个部分之间存在因果关系。换句话说，这些理论的出发点是，对狗的思想之所以关于狗，是因为狗引起了关于狗的心灵表征。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/content-causal/#Int)
+* [1. 引言](https://plato.stanford.edu/entries/content-causal/#Int)
 * [2. 一些历史和理论背景](https://plato.stanford.edu/entries/content-causal/#SomHisTheCon)
 * [3. 心灵内容的具体因果理论](https://plato.stanford.edu/entries/content-causal/#SpeCauTheMenCon)
 
-  * [ 3.1 正常条件](https://plato.stanford.edu/entries/content-causal/#NorCon)
+  * [3.1 正常条件](https://plato.stanford.edu/entries/content-causal/#NorCon)
   * [3.2 进化功能](https://plato.stanford.edu/entries/content-causal/#EvoFun)
   * [3.3 发展功能](https://plato.stanford.edu/entries/content-causal/#DevFun)
   * [3.4 非对称依赖理论](https://plato.stanford.edu/entries/content-causal/#AsyDepThe)
@@ -23,11 +23,11 @@
   * [4.6 因果理论与感知的随附理论相冲突](https://plato.stanford.edu/entries/content-causal/#CauTheConImpPsyLaw)
   * [4.7 因果理论与心理法则的实施相冲突](https://plato.stanford.edu/entries/content-causal/#CauTheConImpPsyLaw)
   * [4.8 因果理论未提供元语义理论](https://plato.stanford.edu/entries/content-causal/#CauTheDoNotProMetThe)
-* [ 5. 结论](https://plato.stanford.edu/entries/content-causal/#ConRem)
-* [ 参考文献](https://plato.stanford.edu/entries/content-causal/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/content-causal/#Aca)
+* [5. 结论](https://plato.stanford.edu/entries/content-causal/#ConRem)
+* [参考文献](https://plato.stanford.edu/entries/content-causal/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/content-causal/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/content-causal/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/content-causal/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/content-causal/#Rel)
 
 ---
 
@@ -194,7 +194,7 @@ BTT如何解决“脑干预”（如LSD、微电极或脑肿瘤）的明显问�
 
 另一个策略是提出一些思维符号是复杂的，可以分解为有意义的原始成分。然后可以允许“X”是“Y1”，“Y2”和“Y3”的一种缩写，逻辑构造或以“Y1”，“Y2”和“Y3”为基础定义的，并且因果理论适用于“Y1”，“Y2”和“Y3”。因此，例如，一个人可能有一个关于独角兽的思想，但与其拥有一个单一的独角兽心灵表征，还有另一个由马的表征，角的表征和马和角之间关系的表征组成的表征。然后，“马”，“角”和“拥有”可能具有其内容的实例化属性。
 
-### 4.3 因果理论对于现象意向性无效。
+### 4.3 因果理论对于现象意向性无效
 
 Horgan和Tienson（2002）反对他们所描述的“强外在主义理论”，这些理论认为因果关系对于内容是必要的。他们首先提出，心灵生活涉及很多仅由现象学构成的意向内容。感知状态，比如看到一个红苹果，是有意向的。它们是关于苹果的。相信存在超过10个梅森素数并希望发现一个新的梅森素数也是有意向的状态，这种情况下是关于梅森素数的。但是，所有这些有意向的状态都有一种现象学——在这些状态中存在一种感受。看到一个红苹果有一种感受，相信存在超过10个梅森素数有一种不同的感受，希望发现一个新的梅森素数有一种不同的感受。Horgan和Tienson提出，可以存在现象学上的重复——两个具有完全相同现象学的个体。对于这些重复体，除了它们是现象学上的重复体之外，不对它们做任何其他假设。在这种情况下，人们可以对他们的现象学体验有多少是真实的、多少是虚幻的持中立态度。因此，人们可以对于重复体是否看到了一个红苹果或者是否真的存在超过10个梅森素数持中立态度。这表明存在一种意向性——由重复体共享的意向性——纯粹是现象学的。其次，Horgan和Tienson认为现象学构成性地仅依赖于狭义因素。他们观察到一个人的经验往往是由环境中的事件引起或触发的，但这些环境原因只是导致现象学本身的因果链的一部分。它们并不构成那种现象学。构成现象学的状态，或者为现象学提供随附基础的状态，并不是导致环境的因果链的元素。 如果我们结合这两个论证的结论，我们得到霍根和蒂恩森反对任何因果理论的主要论证，这个理论主张因果联系对于内容是必要的。
 

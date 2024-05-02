@@ -6,8 +6,6 @@
 
 穆勒的兴趣范围非常广泛，从他的两卷本《人类思维现象分析》（1829a）中的教育和心理学，到政治经济学（他说服他的朋友大卫·李嘉图写关于这个主题的书，正如穆勒自己在他的《政治经济学要素》（1821）中所做的那样），再到刑罚和监狱改革，法律和历史，以及尤其重要的政治哲学。在这些和其他主题上，他写了五本书和一千多篇论文和评论。本文主要关注的是作为政治哲学家和教育理论家的穆勒。
 
- 
-
 ---
 
 ## 1. 传记
@@ -222,7 +220,6 @@ Mill的观点是，每个个体都是自己利益的最佳判断者，这似乎�
   
 * (1992) *James Mill: Political Writings*, Terence Ball (ed.), Cambridge: Cambridge University Press.
   
-
 #### Other primary sources
 
 * Macaulay,Thomas Babington, 1829. “Mill on Government,” *Edinburgh Review* 49 (97): 159–189, repr. in Mill 1992, 271–303.

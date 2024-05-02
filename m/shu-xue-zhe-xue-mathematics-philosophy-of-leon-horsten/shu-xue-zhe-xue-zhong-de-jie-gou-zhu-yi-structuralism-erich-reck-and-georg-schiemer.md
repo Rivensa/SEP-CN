@@ -1,12 +1,11 @@
 # 数学哲学中的结构主义 structuralism (Erich Reck and Georg Schiemer)
 
-_首次发表于2019年11月18日星期一_
+*首次发表于2019年11月18日星期一*
 
 结构主义在数学哲学中有两个相关的口号：“数学是结构的普遍研究”和在追求这种研究时，我们可以“从实例化这些结构的对象的本质中抽象出来”。（因此，结构主义与其他几种关于数学的一般观点形成对比，包括：传统观点认为数学是数字和数量的科学；认为它是主要用于计算的空虚形式主义；以及认为它是对基本集合论宇宙的研究。）正如本次调查的目的所示，这些口号虽然有启发性，但却存在歧义并需要澄清。事实上，它们已经以各种不同甚至相互冲突的方式被解释。
 
 结构主义观点在数学哲学中的引入通常被认为发生在 20 世纪 60 年代，由保罗·贝纳塞拉夫和希拉里·普特南的著作中；这一趋势在 20 世纪 80 年代至 90 年代加速发展，当时迈克尔·雷斯尼克、斯图尔特·夏皮罗、杰弗里·赫尔曼、查尔斯·帕森斯等人加入了这场争论；并且在过去 20 年中，这些争论又被一些对结构主义的哲学挑战以及进一步引入的变体，包括范畴论形式的结构主义，重新塑造。除了向读者介绍“数学哲学中的结构主义”这一总体主题外，本文的第二个主要目标将是为当今提供一种新颖、更广泛和相对全面的结构主义分类法。
 
- 
 ***
 
 ## 1. 排除性与非排除性结构主义
@@ -224,105 +223,105 @@ McLarty 的一系列文章很好地代表了第一条回应线（例如，McLart
 
 ## Bibliography
 
-* Assadian, Bahram, 2018, “The Semantic Plights of the Ante-Rem Structuralist”, _Philosophical Studies_, 175(12): 3195–3215. doi:10.1007/s11098-017-1001-7
-* Awodey, Steve, 1996, “Structure in Mathematics and Logic: A Categorical Perspective”, _Philosophia Mathematica_, 4(3): 209–237. doi:10.1093/philmat/4.3.209
-* –––, 2004, “An Answer to Hellman’s Question: ‘Does Category Theory Provide a Framework for Mathematical Structuralism?’”, _Philosophia Mathematica_, 12(1): 54–64. doi:10.1093/philmat/12.1.54
-* –––, 2010, _Category Theory_, second edition, Oxford: Oxford University Press.
-* –––, 2014, “Structuralism, Invariance, and Univalence”, _Philosophia Mathematica_, 22(1): 1–11. doi:10.1093/philmat/nkt030
-* Benacerraf, Paul, 1965 \[1983], “What Numbers Could Not Be”, _The Philosophical Review_, 74(1): 47–73. Reprinted in Benacerraf and Putnam 1983: 272–294. doi:10.2307/2183530 doi:10.1017/CBO9781139171519.015
-* –––, 1996, “Recantation or Any Old ω-Sequence Would Do after All”, _Philosophia Mathematica_, 4(2): 184–189. doi:10.1093/philmat/4.2.184
-* Benacerraf, Paul and Hilary Putnam (eds.), 1983, _Philosophy of Mathematics: Selected Readings_, second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139171519
-* Burgess, John P., 1999, “Book Review: Stewart Shapiro. Philosophy of Mathematics: Structure and Ontology (1997)”, _Notre Dame Journal of Formal Logic_, 40(2): 283–291. doi:10.1305/ndjfl/1038949543
-* –––, 2015, _Rigor and Structure_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722229.001.0001
-* Button, Tim, 2006, “Realistic Structuralism’s Identity Crisis: A Hybrid Solution”, _Analysis_, 66(3): 216–222. doi:10.1093/analys/66.3.216
-* Button, Tim and Sean Walsh, 2016, “Structure and Categoricity: Determinacy of Reference and Truth Value in the Philosophy of Mathematics”, _Philosophia Mathematica_, 24(3): 283–307. doi:10.1093/philmat/nkw007
-* Carter, Jessica, 2008, “Structuralism as a Philosophy of Mathematical Practice”, _Synthese_, 163(2): 119–31. doi:10.1007/s11229-007-9169-6
-* Caws, Peter, 1988, _Structuralism. A Philosophy for the Human Sciences_, Atlantic Highlands, NJ: Humanities Press.
-* Chihara, Charles S., 2004, _A Structural Account of Mathematics_, Oxford: Oxford University Press
-* Cole, Julian C., 2010, “Mathematical Structuralism Today”, _Philosophy Compass_, 5(8): 689–699. doi:10.1111/j.1747-9991.2010.00308.x
-* Corry, Leo, 2004, _Modern Algebra and the Rise of Mathematical Structures_, second edition, Basel: Birkhäuser Basel. doi:10.1007/978-3-0348-7917-0
-* Dedekind, Richard, 1888, _Was sind und was sollen die Zahlen?_, Braunschweig: Vieweg. Translated as “The Nature and Meaning of Numbers”, in his _Essays on the Theory of Numbers_, Wooster Woodruff Beman (trans.), Chicago: Open Court, 1901, pp. 29–115.
-* Dosse, François, 1991–92 \[1997], _Histoire du structuralisme_, 2 volumes, Paris: Éditions La Découverte. Translated as _History of Structuralism_, 2 volumes, Deborah Glassman (trans.), Minneapolis, MN: University of Minnesota Press, 1997.
-* Eilenberg, Samuel and Saunders MacLane, 1945, “General Theory of Natural Equivalences”, _Transactions of the American Mathematical Society_, 58(2): 231–294. doi:10.2307/1990284
-* Feferman, Solomon, 1977, “Categorical Foundations and Foundations of Category Theory”, in _Logic, Foundations of Mathematics, and Computability Theory_, Robert E. Butts and Jaakko Hintikka (eds.), Dordrecht: Springer Netherlands, 149–169. doi:10.1007/978-94-010-1138-9\_9
-* –––, 2014, “Logic, Mathematics, and Conceptual Structuralism”, in _The Metaphysics of Logic_, Penelope Rush (ed.), Cambridge: Cambridge University Press, 72–92. doi:10.1017/CBO9781139626279.006
-* Franklin, James, 2014, _An Aristotelian Realist Philosophy of Mathematics_, London: Palgrave Macmillan UK. doi:10.1057/9781137400734
-* French, Steven, 2014, _The Structure of the World: Metaphysics and Representation_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199684847.001.0001
-* Hale, Bob, 1996, “Structuralism’s Unpaid Epistemological Debts”, _Philosophia Mathematica_, 4(2): 124–147. doi:10.1093/philmat/4.2.124
-* Halimi, Brice, 2019, “Settings and Misunderstandings in Mathematics”, _Synthese_, 196(11): 4623–4656. doi:10.1007/s11229-017-1671-x
-* Hellman, Geoffrey, 1989, _Mathematics without Numbers: Towards a Modal-Structural Interpretation_, Oxford: Oxford University Press. doi:10.1093/0198240341.001.0001
-* –––, 1996, “Structuralism Without Structures”, _Philosophia Mathematica_, 4(2): 100–123. doi:10.1093/philmat/4.2.100
-* –––, 2001, “Three Varieties of Mathematical Structuralism†”, _Philosophia Mathematica_, 9(2): 184–211. doi:10.1093/philmat/9.2.184
-* –––, 2003, “Does Category Theory Provide a Framework for Mathematical Structuralism?”, _Philosophia Mathematica_, 11(2): 129–157. doi:10.1093/philmat/11.2.129
+* Assadian, Bahram, 2018, “The Semantic Plights of the Ante-Rem Structuralist”, *Philosophical Studies*, 175(12): 3195–3215. doi:10.1007/s11098-017-1001-7
+* Awodey, Steve, 1996, “Structure in Mathematics and Logic: A Categorical Perspective”, *Philosophia Mathematica*, 4(3): 209–237. doi:10.1093/philmat/4.3.209
+* –––, 2004, “An Answer to Hellman’s Question: ‘Does Category Theory Provide a Framework for Mathematical Structuralism?’”, *Philosophia Mathematica*, 12(1): 54–64. doi:10.1093/philmat/12.1.54
+* –––, 2010, *Category Theory*, second edition, Oxford: Oxford University Press.
+* –––, 2014, “Structuralism, Invariance, and Univalence”, *Philosophia Mathematica*, 22(1): 1–11. doi:10.1093/philmat/nkt030
+* Benacerraf, Paul, 1965 \[1983], “What Numbers Could Not Be”, *The Philosophical Review*, 74(1): 47–73. Reprinted in Benacerraf and Putnam 1983: 272–294. doi:10.2307/2183530 doi:10.1017/CBO9781139171519.015
+* –––, 1996, “Recantation or Any Old ω-Sequence Would Do after All”, *Philosophia Mathematica*, 4(2): 184–189. doi:10.1093/philmat/4.2.184
+* Benacerraf, Paul and Hilary Putnam (eds.), 1983, *Philosophy of Mathematics: Selected Readings*, second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139171519
+* Burgess, John P., 1999, “Book Review: Stewart Shapiro. Philosophy of Mathematics: Structure and Ontology (1997)”, *Notre Dame Journal of Formal Logic*, 40(2): 283–291. doi:10.1305/ndjfl/1038949543
+* –––, 2015, *Rigor and Structure*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722229.001.0001
+* Button, Tim, 2006, “Realistic Structuralism’s Identity Crisis: A Hybrid Solution”, *Analysis*, 66(3): 216–222. doi:10.1093/analys/66.3.216
+* Button, Tim and Sean Walsh, 2016, “Structure and Categoricity: Determinacy of Reference and Truth Value in the Philosophy of Mathematics”, *Philosophia Mathematica*, 24(3): 283–307. doi:10.1093/philmat/nkw007
+* Carter, Jessica, 2008, “Structuralism as a Philosophy of Mathematical Practice”, *Synthese*, 163(2): 119–31. doi:10.1007/s11229-007-9169-6
+* Caws, Peter, 1988, *Structuralism. A Philosophy for the Human Sciences*, Atlantic Highlands, NJ: Humanities Press.
+* Chihara, Charles S., 2004, *A Structural Account of Mathematics*, Oxford: Oxford University Press
+* Cole, Julian C., 2010, “Mathematical Structuralism Today”, *Philosophy Compass*, 5(8): 689–699. doi:10.1111/j.1747-9991.2010.00308.x
+* Corry, Leo, 2004, *Modern Algebra and the Rise of Mathematical Structures*, second edition, Basel: Birkhäuser Basel. doi:10.1007/978-3-0348-7917-0
+* Dedekind, Richard, 1888, *Was sind und was sollen die Zahlen?*, Braunschweig: Vieweg. Translated as “The Nature and Meaning of Numbers”, in his *Essays on the Theory of Numbers*, Wooster Woodruff Beman (trans.), Chicago: Open Court, 1901, pp. 29–115.
+* Dosse, François, 1991–92 \[1997], *Histoire du structuralisme*, 2 volumes, Paris: Éditions La Découverte. Translated as *History of Structuralism*, 2 volumes, Deborah Glassman (trans.), Minneapolis, MN: University of Minnesota Press, 1997.
+* Eilenberg, Samuel and Saunders MacLane, 1945, “General Theory of Natural Equivalences”, *Transactions of the American Mathematical Society*, 58(2): 231–294. doi:10.2307/1990284
+* Feferman, Solomon, 1977, “Categorical Foundations and Foundations of Category Theory”, in *Logic, Foundations of Mathematics, and Computability Theory*, Robert E. Butts and Jaakko Hintikka (eds.), Dordrecht: Springer Netherlands, 149–169. doi:10.1007/978-94-010-1138-9\_9
+* –––, 2014, “Logic, Mathematics, and Conceptual Structuralism”, in *The Metaphysics of Logic*, Penelope Rush (ed.), Cambridge: Cambridge University Press, 72–92. doi:10.1017/CBO9781139626279.006
+* Franklin, James, 2014, *An Aristotelian Realist Philosophy of Mathematics*, London: Palgrave Macmillan UK. doi:10.1057/9781137400734
+* French, Steven, 2014, *The Structure of the World: Metaphysics and Representation*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199684847.001.0001
+* Hale, Bob, 1996, “Structuralism’s Unpaid Epistemological Debts”, *Philosophia Mathematica*, 4(2): 124–147. doi:10.1093/philmat/4.2.124
+* Halimi, Brice, 2019, “Settings and Misunderstandings in Mathematics”, *Synthese*, 196(11): 4623–4656. doi:10.1007/s11229-017-1671-x
+* Hellman, Geoffrey, 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Oxford University Press. doi:10.1093/0198240341.001.0001
+* –––, 1996, “Structuralism Without Structures”, *Philosophia Mathematica*, 4(2): 100–123. doi:10.1093/philmat/4.2.100
+* –––, 2001, “Three Varieties of Mathematical Structuralism†”, *Philosophia Mathematica*, 9(2): 184–211. doi:10.1093/philmat/9.2.184
+* –––, 2003, “Does Category Theory Provide a Framework for Mathematical Structuralism?”, *Philosophia Mathematica*, 11(2): 129–157. doi:10.1093/philmat/11.2.129
 * –––, 2005, “Structuralism”, in Shapiro 2005: 536–562.
-* Hellman, Geoffrey and Stewart Shapiro, 2019, _Mathematical Structuralism_ (Elements in The Philosophy of Mathematics), Cambridge: Cambridge University Press. doi:10.1017/9781108582933
-* Horsten, Leon, forthcoming, “Generic Structure”, _Philosophia Mathematica_, first online: 16 July 2018. doi:10.1093/philmat/nky015
-* Isaacson, Daniel, 2011, “The Reality of Mathematics and the Case of Set Theory”, in _Truth, Reference, and Realism_, Zsolt Novák and András Simonyi (eds), Budapest: CEU Press, pp. 1–75.
-* Keränen, Jukka, 2001, “The Identity Problem for Realist Structuralism”, _Philosophia Mathematica_, 9(3): 308–330. doi:10.1093/philmat/9.3.308
-* Ketland, Jeffrey, 2006, “Structuralism and the Identity of Indiscernibles”, _Analysis_, 66(4): 303–315. doi:10.1093/analys/66.4.303
-* –––, 2011, “Identity and Indiscernibility”, _The Review of Symbolic Logic_, 4(2): 171–185. doi:10.1017/S1755020310000328
-* Korbmacher, Johannes and Georg Schiemer, 2018, “What Are Structural Properties?”, _Philosophia Mathematica_, 26(3): 295–323. doi:10.1093/philmat/nkx011
-* Ladyman, James, 2005, “Mathematical Structuralism and the Identity of Indiscernibles”, _Analysis_, 65(3): 218–221. doi:10.1093/analys/65.3.218
-* –––, 2007 \[2019], “Structural Realism”, _Stanford Encyclopedia of Philosophy_ (Fall 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/structural-realism/](https://plato.stanford.edu/archives/fall2019/entries/structural-realism/)
-* Landry, Elaine, 1999, “Category Theory as a Framework for Mathematical Structuralism”, _The 1998 Annual Proceedings of the Canadian Society for the History and Philosophy of Mathematics_, pp. 133–142
-* –––, 2006, “Category Theory as a Framework for an _in re_ Interpretation of Mathematical Structuralism”, in _The Age of Alternative Logics: Assessing Philosophy of Logic and Mathematics Today_, Johan van Benthem, Gerhard Heinzmann, Manuel Rebuschi, and Henk Visser (eds.), Dordrecht: Springer Netherlands, 163–179. doi:10.1007/978-1-4020-5012-7\_12
-* –––, 2011, “How to Be a Structuralist All the Way Down”, _Synthese_, 179(3): 435–454. doi:10.1007/s11229-009-9691-9
-* ––– (ed.), 2017, _Categories for the Working Philosopher_, Oxford: Oxford University Press. doi:10.1093/oso/9780198748991.001.0001
-* Landry, Elaine and Jean-Pierre Marquis, 2005, “Categories in Context: Historical, Foundational, and Philosophical”, _Philosophia Mathematica_, 13(1): 1–43. doi:10.1093/philmat/nki005
-* Lawvere, F. William, 1964, “An Elementary Theory of the Category of Sets”, _Proceedings of the National Academy of Sciences of the United States of America_, 52(6): 1506–1511.
-* –––, 1966, “The Category of Categories as a Foundation for Mathematics”, in _Proceedings of the Conference on Categorical Algebra, La Jolla 1965_, S. Eilenberg, D. K. Harrison, S. MacLane, and H. Röhrl (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg, 1–20. doi:10.1007/978-3-642-99902-4\_1
-* Leitgeb, Hannes, forthcoming, “On Non-Eliminative Structuralism: Unlabelled Graphs as a Case Study (Part A and B)”, _Philosophia Mathematica_ (III).
-* Leitgeb, Hannes and James Ladyman, 2008, “Criteria of Identity and Structuralist Ontology”, _Philosophia Mathematica_, 16(3): 388–396. doi:10.1093/philmat/nkm039
-* Lévi-Strauss, Claude, 1958 \[1963], _Anthropologie structurale_, Paris, Plon. Translated as _Structural Anthropology_, Claire Jacobson and Brooke Grundfest Schoepf (trans.), Basic Books, 1963.
-* Linnebo, Øystein, 2008, “Structuralism and the Notion of Dependence”, _The Philosophical Quarterly_, 58(230): 59–79. doi:10.1111/j.1467-9213.2007.529.x
-* Linnebo, Øystein and Richard Pettigrew, 2011, “Category Theory as an Autonomous Foundation”, _Philosophia Mathematica_, 19(3): 227–254. doi:10.1093/philmat/nkr024
-* –––, 2014, “Two Types of Abstraction for Structuralism”, _The Philosophical Quarterly_, 64(255): 267–283. doi:10.1093/pq/pqt044
-* Makkai, Michael, 1998, “Towards a Categorical Foundation of Mathematics”, in _Logic Colloquium ‘95: Proceedings of the Annual European Summer Meeting of the Association of Symbolic Logic, held in Haifa, Israel, August 9–18, 1995_, Johann A. Makowsky and Elena V. Ravve (eds), (Lecture Notes in Logic, 11), Berlin: Springer-Verlag Berlin Heidelberg, pp. 153–190. \[[Makkai 1998 available online](https://projecteuclid.org/euclid.lnl/1235415906)]
-* Mac Lane, Saunders, 1986, _Mathematics Form and Function_, New York, NY: Springer New York. doi:10.1007/978-1-4612-4872-9
-* –––, 1996, “Structure in Mathematics”, _Philosophia Mathematica_, 4(2): 174–183. doi:10.1093/philmat/4.2.174
+* Hellman, Geoffrey and Stewart Shapiro, 2019, *Mathematical Structuralism* (Elements in The Philosophy of Mathematics), Cambridge: Cambridge University Press. doi:10.1017/9781108582933
+* Horsten, Leon, forthcoming, “Generic Structure”, *Philosophia Mathematica*, first online: 16 July 2018. doi:10.1093/philmat/nky015
+* Isaacson, Daniel, 2011, “The Reality of Mathematics and the Case of Set Theory”, in *Truth, Reference, and Realism*, Zsolt Novák and András Simonyi (eds), Budapest: CEU Press, pp. 1–75.
+* Keränen, Jukka, 2001, “The Identity Problem for Realist Structuralism”, *Philosophia Mathematica*, 9(3): 308–330. doi:10.1093/philmat/9.3.308
+* Ketland, Jeffrey, 2006, “Structuralism and the Identity of Indiscernibles”, *Analysis*, 66(4): 303–315. doi:10.1093/analys/66.4.303
+* –––, 2011, “Identity and Indiscernibility”, *The Review of Symbolic Logic*, 4(2): 171–185. doi:10.1017/S1755020310000328
+* Korbmacher, Johannes and Georg Schiemer, 2018, “What Are Structural Properties?”, *Philosophia Mathematica*, 26(3): 295–323. doi:10.1093/philmat/nkx011
+* Ladyman, James, 2005, “Mathematical Structuralism and the Identity of Indiscernibles”, *Analysis*, 65(3): 218–221. doi:10.1093/analys/65.3.218
+* –––, 2007 \[2019], “Structural Realism”, *Stanford Encyclopedia of Philosophy* (Fall 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/structural-realism/](https://plato.stanford.edu/archives/fall2019/entries/structural-realism/)
+* Landry, Elaine, 1999, “Category Theory as a Framework for Mathematical Structuralism”, *The 1998 Annual Proceedings of the Canadian Society for the History and Philosophy of Mathematics*, pp. 133–142
+* –––, 2006, “Category Theory as a Framework for an *in re* Interpretation of Mathematical Structuralism”, in *The Age of Alternative Logics: Assessing Philosophy of Logic and Mathematics Today*, Johan van Benthem, Gerhard Heinzmann, Manuel Rebuschi, and Henk Visser (eds.), Dordrecht: Springer Netherlands, 163–179. doi:10.1007/978-1-4020-5012-7\_12
+* –––, 2011, “How to Be a Structuralist All the Way Down”, *Synthese*, 179(3): 435–454. doi:10.1007/s11229-009-9691-9
+* ––– (ed.), 2017, *Categories for the Working Philosopher*, Oxford: Oxford University Press. doi:10.1093/oso/9780198748991.001.0001
+* Landry, Elaine and Jean-Pierre Marquis, 2005, “Categories in Context: Historical, Foundational, and Philosophical”, *Philosophia Mathematica*, 13(1): 1–43. doi:10.1093/philmat/nki005
+* Lawvere, F. William, 1964, “An Elementary Theory of the Category of Sets”, *Proceedings of the National Academy of Sciences of the United States of America*, 52(6): 1506–1511.
+* –––, 1966, “The Category of Categories as a Foundation for Mathematics”, in *Proceedings of the Conference on Categorical Algebra, La Jolla 1965*, S. Eilenberg, D. K. Harrison, S. MacLane, and H. Röhrl (eds.), Berlin, Heidelberg: Springer Berlin Heidelberg, 1–20. doi:10.1007/978-3-642-99902-4\_1
+* Leitgeb, Hannes, forthcoming, “On Non-Eliminative Structuralism: Unlabelled Graphs as a Case Study (Part A and B)”, *Philosophia Mathematica* (III).
+* Leitgeb, Hannes and James Ladyman, 2008, “Criteria of Identity and Structuralist Ontology”, *Philosophia Mathematica*, 16(3): 388–396. doi:10.1093/philmat/nkm039
+* Lévi-Strauss, Claude, 1958 \[1963], *Anthropologie structurale*, Paris, Plon. Translated as *Structural Anthropology*, Claire Jacobson and Brooke Grundfest Schoepf (trans.), Basic Books, 1963.
+* Linnebo, Øystein, 2008, “Structuralism and the Notion of Dependence”, *The Philosophical Quarterly*, 58(230): 59–79. doi:10.1111/j.1467-9213.2007.529.x
+* Linnebo, Øystein and Richard Pettigrew, 2011, “Category Theory as an Autonomous Foundation”, *Philosophia Mathematica*, 19(3): 227–254. doi:10.1093/philmat/nkr024
+* –––, 2014, “Two Types of Abstraction for Structuralism”, *The Philosophical Quarterly*, 64(255): 267–283. doi:10.1093/pq/pqt044
+* Makkai, Michael, 1998, “Towards a Categorical Foundation of Mathematics”, in *Logic Colloquium ‘95: Proceedings of the Annual European Summer Meeting of the Association of Symbolic Logic, held in Haifa, Israel, August 9–18, 1995*, Johann A. Makowsky and Elena V. Ravve (eds), (Lecture Notes in Logic, 11), Berlin: Springer-Verlag Berlin Heidelberg, pp. 153–190. \[[Makkai 1998 available online](https://projecteuclid.org/euclid.lnl/1235415906)]
+* Mac Lane, Saunders, 1986, *Mathematics Form and Function*, New York, NY: Springer New York. doi:10.1007/978-1-4612-4872-9
+* –––, 1996, “Structure in Mathematics”, *Philosophia Mathematica*, 4(2): 174–183. doi:10.1093/philmat/4.2.174
 * MacBride, Frazer, 2005, “Structuralism Reconsidered”, in Shapiro 2005: 563–589.
-* Marquis, Jean-Pierre, 1995, “Category Theory and the Foundations of Mathematics: Philosophical Excavations”, _Synthese_, 103(3): 421–447. doi:10.1007/BF01089735
-* –––, 1997 \[2019], “Category Theory”, _The Stanford Encyclopedia of Philosophy_ (Fall 2019 Edition), Edward N. Zalta (ed.), URL: [https://plato.stanford.edu/archives/fall2019/entries/category-theory/](https://plato.stanford.edu/archives/fall2019/entries/category-theory/)
-* –––, 2009, _From a Geometrical Point of View: A Study of the History and Philosophy of Category Theory_, (Logic, Epistemology, and the Unity of Science 14), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-9384-5
-* –––, 2013, “Categorical Foundations of Mathematics: Or How to Provide Foundations for _Abstract_ Mathematics”, _The Review of Symbolic Logic_, 6(1): 51–75. doi:10.1017/S1755020312000147
-* McLarty, Colin, 1993, “Numbers Can Be Just What They Have To”, _Noûs_, 27(4): 487–498. doi:10.2307/2215789
-* –––, 2004, “Exploring Categorical Structuralism”, _Philosophia Mathematica_, 12(1): 37–53. doi:10.1093/philmat/12.1.37
-* –––, 2008, “What Structuralism Achieves”, in _The Philosophy of Mathematical Practice_, Paolo Mancosu (ed.), Oxford: Oxford University Press, 354–369. doi:10.1093/acprof:oso/9780199296453.003.0014
-* –––, 2011, “Recent Debate over Categorical Foundations”, in _Foundational Theories of Classical and Constructive Mathematics_, Giovanni Sommaruga (ed.), (Western Ontario Series in Philosophy of Science 76), Dordrecht: Springer Netherlands, 145–154. doi:10.1007/978-94-007-0431-2\_7
-* –––, 2012, “Categorical Foundations and Mathematical Practice”, _Philosophia Mathematica_, 20(1): 111–113. doi:10.1093/philmat/nkr041
-* Menzel, Christopher, 2018, “Haecceities and Mathematical Structuralism”, _Philosophia Mathematica_, 26(1): 84–111. doi:10.1093/philmat/nkw030
-* Nodelman, Uri and Edward N. Zalta, 2014, “Foundations for Mathematical Structuralism”, _Mind_, 123(489): 39–78. doi:10.1093/mind/fzu003
-* Parsons, Charles, 1990, “The Structuralist View of Mathematical Objects”, _Synthese_, 84(3): 303–346. doi:10.1007/BF00485186
-* –––, 2004, “Structuralism and Metaphysics”, _The Philosophical Quarterly_, 54(214): 56–77. doi:10.1111/j.0031-8094.2004.00342.x
-* –––, 2008, _Mathematical Thought and Its Objects_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498534
+* Marquis, Jean-Pierre, 1995, “Category Theory and the Foundations of Mathematics: Philosophical Excavations”, *Synthese*, 103(3): 421–447. doi:10.1007/BF01089735
+* –––, 1997 \[2019], “Category Theory”, *The Stanford Encyclopedia of Philosophy* (Fall 2019 Edition), Edward N. Zalta (ed.), URL: [https://plato.stanford.edu/archives/fall2019/entries/category-theory/](https://plato.stanford.edu/archives/fall2019/entries/category-theory/)
+* –––, 2009, *From a Geometrical Point of View: A Study of the History and Philosophy of Category Theory*, (Logic, Epistemology, and the Unity of Science 14), Dordrecht: Springer Netherlands. doi:10.1007/978-1-4020-9384-5
+* –––, 2013, “Categorical Foundations of Mathematics: Or How to Provide Foundations for *Abstract* Mathematics”, *The Review of Symbolic Logic*, 6(1): 51–75. doi:10.1017/S1755020312000147
+* McLarty, Colin, 1993, “Numbers Can Be Just What They Have To”, *Noûs*, 27(4): 487–498. doi:10.2307/2215789
+* –––, 2004, “Exploring Categorical Structuralism”, *Philosophia Mathematica*, 12(1): 37–53. doi:10.1093/philmat/12.1.37
+* –––, 2008, “What Structuralism Achieves”, in *The Philosophy of Mathematical Practice*, Paolo Mancosu (ed.), Oxford: Oxford University Press, 354–369. doi:10.1093/acprof:oso/9780199296453.003.0014
+* –––, 2011, “Recent Debate over Categorical Foundations”, in *Foundational Theories of Classical and Constructive Mathematics*, Giovanni Sommaruga (ed.), (Western Ontario Series in Philosophy of Science 76), Dordrecht: Springer Netherlands, 145–154. doi:10.1007/978-94-007-0431-2\_7
+* –––, 2012, “Categorical Foundations and Mathematical Practice”, *Philosophia Mathematica*, 20(1): 111–113. doi:10.1093/philmat/nkr041
+* Menzel, Christopher, 2018, “Haecceities and Mathematical Structuralism”, *Philosophia Mathematica*, 26(1): 84–111. doi:10.1093/philmat/nkw030
+* Nodelman, Uri and Edward N. Zalta, 2014, “Foundations for Mathematical Structuralism”, *Mind*, 123(489): 39–78. doi:10.1093/mind/fzu003
+* Parsons, Charles, 1990, “The Structuralist View of Mathematical Objects”, *Synthese*, 84(3): 303–346. doi:10.1007/BF00485186
+* –––, 2004, “Structuralism and Metaphysics”, *The Philosophical Quarterly*, 54(214): 56–77. doi:10.1111/j.0031-8094.2004.00342.x
+* –––, 2008, *Mathematical Thought and Its Objects*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498534
 * –––, 2018, “Concepts versus Objects”, in Reck 2018b: 91–112.
-* Pettigrew, Richard, 2008, “Platonism and Aristotelianism in Mathematics”, _Philosophia Mathematica_, 16(3): 310–332. doi:10.1093/philmat/nkm035
-* Piaget, Jean, 1968 \[1970], _Le structuralisme_, Paris: Presses Universitaires de France. Translated as _Structuralism_, Chaninah Maschler (trans.), New York: Basic Books, 1970.
-* Putnam, Hilary, 1967, “Mathematics without Foundations”, _The Journal of Philosophy_, 64(1): 5–22. Reprinted in Benacerraf and Hilary Putnam 1983: 295–312. doi:10.2307/2024603 doi:10.1017/CBO9781139171519.016
-* Reck, Erich H., 2003, “Dedekind’s Structuralism: An Interpretation and Partial Defense”, _Synthese_, 137(3): 369–419. doi:10.1023/B:SYNT.0000004903.11236.91
+* Pettigrew, Richard, 2008, “Platonism and Aristotelianism in Mathematics”, *Philosophia Mathematica*, 16(3): 310–332. doi:10.1093/philmat/nkm035
+* Piaget, Jean, 1968 \[1970], *Le structuralisme*, Paris: Presses Universitaires de France. Translated as *Structuralism*, Chaninah Maschler (trans.), New York: Basic Books, 1970.
+* Putnam, Hilary, 1967, “Mathematics without Foundations”, *The Journal of Philosophy*, 64(1): 5–22. Reprinted in Benacerraf and Hilary Putnam 1983: 295–312. doi:10.2307/2024603 doi:10.1017/CBO9781139171519.016
+* Reck, Erich H., 2003, “Dedekind’s Structuralism: An Interpretation and Partial Defense”, *Synthese*, 137(3): 369–419. doi:10.1023/B:SYNT.0000004903.11236.91
 * –––, 2018a, “On Reconstructing Dedekind Abstraction Logically”, in Reck 2018b: 113–138.
-* ––– (ed.), 2018b, _Logic, Philosophy of Mathematics, and their History: Essays in Honor of W.W. Tait_, London: College Publications.
-* Reck, Erich H. and Michael P. Price, 2000, “Structures And Structuralism In Contemporary Philosophy Of Mathematics”, _Synthese_, 125(3): 341–383. doi:10.1023/A:1005203923553
-* Reck, Erich H. and Georg Schiemer (eds.), forthcoming, _Prehistory of Mathematical Structuralism_, Oxford: Oxford University Press.
-* Resnik, Michael D., 1981, “Mathematics as a Science of Patterns: Ontology and Reference”, _Noûs_, 15(4): 529–550. doi:10.2307/2214851
-* –––, 1982, “Mathematics as a Science of Patterns: Epistemology”, _Noûs_, 16(1): 95–105. doi:10.2307/2215419
-* –––, 1988, “Mathematics from the Structural Point of View”, _Revue Internationale de Philosophie_, 42(167): 400–424.
-* –––, 1996, “Structural Relativity”, _Philosophia Mathematica_, 4(2): 83–99. doi:10.1093/philmat/4.2.83
-* –––, 1997, _Mathematics as a Science of Patterns_, Oxford: Oxford University Press. doi:10.1093/0198250142.001.0001
-* Russell, Bertrand, 1903, _The Principles of Mathematics_, Cambridge: Cambridge University Press. Republished by Norton & Company, New York, 1996. \[[Russell 1903 available online](http://archive.org/details/principlesmathe00russgoog)].
-* Schiemer, Georg and John Wigglesworth, forthcoming, “The Structuralist Thesis Reconsidered”, _The British Journal for the Philosophy of Science_, first online: 30 January 2018. doi:10.1093/bjps/axy004
-* Richart, Charles E., 1995, _Structuralism and Structures: A Mathematical Perspective_, London: World Scientific.
-* Shapiro, Stewart, 1983, “Mathematics and Reality”, _Philosophy of Science_, 50(4): 523–548. doi:10.1086/289138
-* –––, 1989, “Structure and Ontology”, _Philosophical Topics_, 17(2): 145–171.
-* –––, 1996, “Space, Number and Structure: A Tale of Two Debates”, _Philosophia Mathematica_, 4(2): 148–173. doi:10.1093/philmat/4.2.148
-* –––, 1997, _Philosophy of Mathematics: Structure and Ontology_, Oxford: Oxford University Press. doi:10.1093/0195139305.001.0001
-* ––– (ed.), 2005, _The Oxford Handbook of Philosophy of Mathematics and Logic_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195325928.001.0001
-* –––, 2008, “Identity, Indiscernibility, and _ante rem_ Structuralism: The Tale of _i_ and −_i_”, _Philosophia Mathematica_, 16(3): 285–309. doi:10.1093/philmat/nkm042
-* Tsementzis, Dimitris, 2017, “Univalent Foundations as Structuralist Foundations”, _Synthese_, 194(9): 3583–3617. doi:10.1007/s11229-016-1109-x
-* Univalent Foundations Program, 2013, _Homotopy Type Theory: Univalent Foundations of Mathematics_, The Univalent Foundations Program. \[[Homotopy Type Theory available online](http://arxiv.org/abs/1308.0729)]
-* van Fraassen, Bas C., 2008, _Scientific Representation: Paradoxes of Perspective_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278220.001.0001
-* Wigglesworth, John, 2018, “Grounding in Mathematical Structuralism”, in _Reality and Its Structure: Essays in Fundamentality_, Ricki Bliss and Graham Priest (eds.), Oxford: Oxford University Press, 217–236. doi:10.1093/oso/9780198755630.003.0012
-* Worrall, John, 1989, “Structural Realism: The Best of Both Worlds?”, _Dialectica_, 43(1–2): 99–124. doi:10.1111/j.1746-8361.1989.tb00933.x
+* ––– (ed.), 2018b, *Logic, Philosophy of Mathematics, and their History: Essays in Honor of W.W. Tait*, London: College Publications.
+* Reck, Erich H. and Michael P. Price, 2000, “Structures And Structuralism In Contemporary Philosophy Of Mathematics”, *Synthese*, 125(3): 341–383. doi:10.1023/A:1005203923553
+* Reck, Erich H. and Georg Schiemer (eds.), forthcoming, *Prehistory of Mathematical Structuralism*, Oxford: Oxford University Press.
+* Resnik, Michael D., 1981, “Mathematics as a Science of Patterns: Ontology and Reference”, *Noûs*, 15(4): 529–550. doi:10.2307/2214851
+* –––, 1982, “Mathematics as a Science of Patterns: Epistemology”, *Noûs*, 16(1): 95–105. doi:10.2307/2215419
+* –––, 1988, “Mathematics from the Structural Point of View”, *Revue Internationale de Philosophie*, 42(167): 400–424.
+* –––, 1996, “Structural Relativity”, *Philosophia Mathematica*, 4(2): 83–99. doi:10.1093/philmat/4.2.83
+* –––, 1997, *Mathematics as a Science of Patterns*, Oxford: Oxford University Press. doi:10.1093/0198250142.001.0001
+* Russell, Bertrand, 1903, *The Principles of Mathematics*, Cambridge: Cambridge University Press. Republished by Norton & Company, New York, 1996. \[[Russell 1903 available online](http://archive.org/details/principlesmathe00russgoog)].
+* Schiemer, Georg and John Wigglesworth, forthcoming, “The Structuralist Thesis Reconsidered”, *The British Journal for the Philosophy of Science*, first online: 30 January 2018. doi:10.1093/bjps/axy004
+* Richart, Charles E., 1995, *Structuralism and Structures: A Mathematical Perspective*, London: World Scientific.
+* Shapiro, Stewart, 1983, “Mathematics and Reality”, *Philosophy of Science*, 50(4): 523–548. doi:10.1086/289138
+* –––, 1989, “Structure and Ontology”, *Philosophical Topics*, 17(2): 145–171.
+* –––, 1996, “Space, Number and Structure: A Tale of Two Debates”, *Philosophia Mathematica*, 4(2): 148–173. doi:10.1093/philmat/4.2.148
+* –––, 1997, *Philosophy of Mathematics: Structure and Ontology*, Oxford: Oxford University Press. doi:10.1093/0195139305.001.0001
+* ––– (ed.), 2005, *The Oxford Handbook of Philosophy of Mathematics and Logic*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780195325928.001.0001
+* –––, 2008, “Identity, Indiscernibility, and *ante rem* Structuralism: The Tale of *i* and −*i*”, *Philosophia Mathematica*, 16(3): 285–309. doi:10.1093/philmat/nkm042
+* Tsementzis, Dimitris, 2017, “Univalent Foundations as Structuralist Foundations”, *Synthese*, 194(9): 3583–3617. doi:10.1007/s11229-016-1109-x
+* Univalent Foundations Program, 2013, *Homotopy Type Theory: Univalent Foundations of Mathematics*, The Univalent Foundations Program. \[[Homotopy Type Theory available online](http://arxiv.org/abs/1308.0729)]
+* van Fraassen, Bas C., 2008, *Scientific Representation: Paradoxes of Perspective*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278220.001.0001
+* Wigglesworth, John, 2018, “Grounding in Mathematical Structuralism”, in *Reality and Its Structure: Essays in Fundamentality*, Ricki Bliss and Graham Priest (eds.), Oxford: Oxford University Press, 217–236. doi:10.1093/oso/9780198755630.003.0012
+* Worrall, John, 1989, “Structural Realism: The Best of Both Worlds?”, *Dialectica*, 43(1–2): 99–124. doi:10.1111/j.1746-8361.1989.tb00933.x
 
 ## Academic Tools
 
@@ -335,7 +334,7 @@ McLarty 的一系列文章很好地代表了第一条回应线（例如，McLart
 ## Other Internet Resources
 
 * Ketland, J., 2015, “[Abstract Structure](https://www.academia.edu/7673229/Abstract\Structure)”, unpublished manuscript.
-* [Mathematical Structuralism](https://www.iep.utm.edu/m-struct/), by Stewart Shapiro, _Internet Encyclopedia of Philosophy_.
+* [Mathematical Structuralism](https://www.iep.utm.edu/m-struct/), by Stewart Shapiro, *Internet Encyclopedia of Philosophy*.
 
 ## Related Entries
 
@@ -345,10 +344,10 @@ McLarty 的一系列文章很好地代表了第一条回应线（例如，McLart
 
 The authors wish to thank Steve Awodey, Francesca Biagioli, Norbert Gratzl, Henning Heller, Pierre Keller, Johannes Korbmacher, Hans-Christoph Kotzsch, Hannes Leitgeb, Øystein Linnebo, Jean-Pierre Marquis, Michael Price, Andrea Sereni, and John Wigglesworth for helpful discussions on topics addressed in this entry.
 
-We would also like to thank the editors for _The Stanford Encyclopedia of Philosophy_ for their considerable patience with this entry, which took far longer to complete than anticipated. And we would like to thank: an anonymous reviewer for constructive suggestions, and Dilek Kadıoğlu for noting some infelicitous typographical errors.
+We would also like to thank the editors for *The Stanford Encyclopedia of Philosophy* for their considerable patience with this entry, which took far longer to complete than anticipated. And we would like to thank: an anonymous reviewer for constructive suggestions, and Dilek Kadıoğlu for noting some infelicitous typographical errors.
 
 Research by Georg Schiemer on this project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (grant agreement No. 715222).
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-Erich Reck <[_erich.reck@ucr.edu_](mailto:erich%2ereck%40ucr%2eedu)>\
-Georg Schiemer <[_georg.schiemer@univie.ac.at_](mailto:georg%2eschiemer%40univie%2eac%2eat)>
+Erich Reck <[*erich.reck@ucr.edu*](mailto:erich%2ereck%40ucr%2eedu)>\
+Georg Schiemer <[*georg.schiemer@univie.ac.at*](mailto:georg%2eschiemer%40univie%2eac%2eat)>

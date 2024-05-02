@@ -1,10 +1,9 @@
 # 物质名词的逻辑 logic of (David Nicolas)
 
-_首次发表于2013年3月8日；实质修订于2024年1月31日_
+*首次发表于2013年3月8日；实质修订于2024年1月31日*
 
 在许多语言中，比如英语，由普通名词引导的名词表达式可以分为两个子类型，即物质名词表达式（如酒、餐具、智慧）和可数名词表达式（如猫、军队、想法）。我们首先描述了物质名词表达式的特征。然后我们讨论了关于它们语义的各种提议。
 
- 
 ***
 
 ## 1. 什么是物质名词？
@@ -61,7 +60,7 @@ Parsons（1970 年，1979 年重印：150）指出了一个相关的困难，“
 
 备注 4：然而，这并不能解释以下类似的三段论的有效性（Burge 1972: 266–267）：
 
-_这是金子。金子是金属。因此，这是金属。_
+*这是金子。金子是金属。因此，这是金属。*
 
 可能地，它表示如下：
 
@@ -75,7 +74,7 @@ _这是金子。金子是金属。因此，这是金属。_
 
 相比之下，纯粹的集合论方法（Burge 1972; Grandy 1973; Montague 1973\[ 7]）将物质名词视为普通的谓词，表示集合\[ 8]。物质谓词被解释为集合成员关系。对于任何物质名词 M 和谓词 P：
 
-_This is M_ is true iff \[_this_] ⊆ \[_M_] 一些物质名词 M 是真的当且仅当\[M] ∩ \[P] ≠ ∅，
+*This is M* is true iff \[*this*] ⊆ \[*M*] 一些物质名词 M 是真的当且仅当\[M] ∩ \[P] ≠ ∅，
 
 其中\[this]是元素是被证明的东西的集合，\[M]是元素是所有 M 的东西的集合，\[P]是元素是所有 P 的东西的集合。
 
@@ -83,7 +82,7 @@ _This is M_ is true iff \[_this_] ⊆ \[_M_] 一些物质名词 M 是真的当�
 
 现在出现了一个关于时间上的身份的第二个关键困难。考虑：
 
-_7 月 1 日桌子上的黏土与 7 月 2 日桌子上的黏土是相同的。_ （话语背景：7 月 1 日桌子上有三块实心黏土，7 月 2 日桌子上有两块实心黏土。例子受到了卡特赖特 1965 年的启发。）
+*7 月 1 日桌子上的黏土与 7 月 2 日桌子上的黏土是相同的。* （话语背景：7 月 1 日桌子上有三块实心黏土，7 月 2 日桌子上有两块实心黏土。例子受到了卡特赖特 1965 年的启发。）
 
 哪个集合可以使得\[7 月 1 日桌子上的黏土] = \[7 月 2 日桌子上的黏土]成立？那么所有黏土的最小部分的集合呢，即所有没有其他黏土实例作为部分的黏土实例的集合呢？然而，对于像垃圾这样的物质名词，最小部分是什么并不清楚（参见 Pelletier＆Schubert 2003）。而且更重要的是，不能先验地排除质量名词所适用的东西可能是无限可分的可能性。因此，语义不应要求质量名词具有最小部分（参见 Bunt 1985; Gillon 1992）。 （有关非奇异逻辑框架中解决此问题的解决方案，请参见第 9 节；有关纯集合论方法的各种形而上学考虑，请参见 Steen 2012 年第 2.3 节。）
 
@@ -152,17 +151,17 @@ _7 月 1 日桌子上的黏土与 7 月 2 日桌子上的黏土是相同的。_ 
 
 对于其他量词（少量、大量、大部分、两升的...），似乎是在说关于物质名词 M 的数量（少量的黄金）或强度（少量的智慧）的事情。让我们假设一个物质名词 M 有一个相关的函数μ，用于测量数量或强度。我们在这里关注适用于具体实体的物质名词，如水或家具（有关“抽象”物质名词，请参见第 10 节）。在这种情况下，假设μ是单调的是方便的（尽管可能不是必要的）：
 
-_x_ ≤ _y_ → μ(_x_) ≤ μ(_y_)
+*x* ≤ *y* → μ(*x*) ≤ μ(*y*)
 
 和可加性（如果 x 和 y 不重叠，它们的和的度量是它们度量的和）：
 
-¬∃_z_ (_z_ ≤ _x_ & _z_ ≤ _y_) → μ(_x_∨_y_) = μ(_x_) + μ(_y_)
+¬∃*z* (*z* ≤ *x* & *z* ≤ *y*) → μ(*x*∨*y*) = μ(*x*) + μ(*y*)
 
 （度量函数μ与某个特定的物质名词 M 相关联。当然，一些物质名词可能共享相同的度量函数。而且对于单个物质名词 M，在不同的语境中可能使用不同的度量函数来衡量与该语境相关的“M 的数量”。）
 
 人们还可以定义集合 E 的度量：
 
-μ(_E_) =def μ(∨_E_),
+μ(*E*) =def μ(∨*E*),
 
 其中∨E 是集合 E 的元素的总和（或并集）。
 
@@ -189,11 +188,11 @@ Little1 M P 为真当且仅当μ(\[M] ∩ \[P]) ≤ p Little2 M P 为真当且�
 
 存在泛化：有许多句子的真实性蕴含了存在泛化的真实性。例如：
 
-_酒在桌子上。所以桌子上有一些酒。_
+*酒在桌子上。所以桌子上有一些酒。*
 
 通用实例化：如第 2 节所述，这种推理似乎也是有效的：
 
-_这是金子。所有的金子都是金属。因此，这是金属。_
+*这是金子。所有的金子都是金属。因此，这是金属。*
 
 此外，像以下这样的句子应该总是真实的，考虑到所涉及的词语的含义：所有的黄金都是黄金。在苏黎世有一些黄金的任何情况下，这也应该是真实的：苏黎世的黄金是黄金。
 
@@ -279,7 +278,7 @@ Nicolas（2008）提出了一种能够充分体现这种直觉的质量名词语
 
 假设在 7 月 1 日，桌子上有三块固体黏土，即 a，而在 7 月 2 日，桌子上有两块固体黏土，即 b。现在考虑以下陈述：
 
-_7 月 1 日桌子上的黏土与 7 月 2 日桌子上的黏土是相同的。_
+*7 月 1 日桌子上的黏土与 7 月 2 日桌子上的黏土是相同的。*
 
 根据尼古拉斯（2008）的观点，当可以选择一个共同的非特定覆盖物来涵盖 a 和 b 时，该陈述是真实的。这意味着存在一些小块的黏土，每个黏土在时间上保持了自己的身份。在 7 月 1 日，这些黏土块被排列在一起形成了 a（即它们是 a 的覆盖物）。在 7 月 2 日，它们被以不同的方式排列，形成了 b。这并不需要存在最小的黏土部分，只需要存在一个将 a 和 b 分成特定黏土块的共同划分。（有关非特定主义或多元主义方法的形而上学考虑，请参见斯汀 2012 年第 2.4 节。）
 
@@ -299,79 +298,79 @@ Nicolas（2004 年，2010 年）表明，确实可以提出物质名词语义的
 
 ## Bibliography
 
-* Bale, A. & D. Barner, 2009, “The interpretation of functional heads: Using comparatives to explore the mass/count distinction”, _Journal of Semantics_, 26(3): 217–252.
-* –––, 2018, “Quantity judgment and the mass-count distinction across languages: Advances, problems, and future directions for research”, _Glossa: a journal of general linguistics_, 3(1): 63.
-* Borer, H., 2005, _Structuring Sense Volume 1: In name only_, Oxford: Oxford University Press.
-* Breheny, R., 2005, “Exhaustivity, homogeneity & definiteness”, _Amsterdam Colloquium_, 15: 59–65, Universiteit van Amsterdam.
-* Bunt, H. C., 1985, _Mass terms and model-theoretic semantics_, Cambridge : Cambridge University Press.
-* Burge, T., 1972, “Truth and mass terms”, _Journal of Philosophy_, 69: 263–282.
-* Carlson, G., 1977, _Reference to kinds in English_, Ph.D. Dissertation, Massachusetts Institute of Technology.
-* Cartwright, H., 1965, “Heraclitus and the bath water”, _Philosophical Review_, 74: 466–485.
-* Champollion, L., 2017, _Parts of a whole: Distributivity as a bridge between aspect and measurement_, Oxford: Oxford University Press.
-* Cheng, C.-Y., 1973, “Comments on Moravcsik’s paper”, in J. Hintikka, P. Suppes, and J.M.E. Moravcsik (eds.), _Approaches to natural language_, Dordrecht: D. Reidel Publishing Company, 286–288.
-* Chierchia, G., 1998, “Plurality of mass nouns and the notion of semantic parameter”, in S. Rothstein (ed.), _Events and grammar_, Dordrecht: Kluwer Academic Publishers, 53–103.
-* –––, 2010, “Mass nouns, vagueness and semantic variation”, _Synthese_, 174(1): 99–149.
-* Cocchiarella, N., 2009, “Mass nouns in the logic of classes as many”, _Journal of Philosophical Logic_, 38: 343–361.
-* Corblin, F., 2008, “Des prédicats non quantifiables: les prédicats holistes”, _Langages_, 169: 34–57.
-* Cotnoir, A., and A. Varzi, 2021, _Mereology_, Oxford: Oxford University Press.
-* Damourette, J. & E. Pichon, 1927, _Des mots à la pensée. Essai de grammaire de la langue française_, Paris: Librairie Th. Poinsot; Editions d’Artey, 1987.
-* Doetjes, J., 2012, “Count/mass distinctions across languages”, in C. Maienborn, K. von Heusinger, and P. Portner (eds.), _Semantics: an international handbook of natural language meaning_ (Volume 3), Berlin: De Gruyter, 2559–2580.
-* Gillon, B. S., 1992, “Towards a common semantics for English count and mass nouns”, _Linguistics and Philosophy_, 15: 597–639.
-* –––, 1996, “Collectivity and distributivity internal to English noun phrases”, _Language Sciences_, 18: 443–468.
-* –––, 2012, “Mass terms”, _Philosophy Compass_, 7(10): 712–730.
-* Grandy, R. E., 1973, “Comments on Moravcsik’s paper”, in J. Hintikka, P. Suppes and J.M.E. Moravcsik (eds.), _Approaches to natural language_, Dordrecht: D. Reidel Publishing Company, 295–300.
-* Grimm, S., 2012, _Number and individuation_, Ph.D. Dissertation, Stanford University.
-* –––, 2014, “Individuating the abstract”, in U. Etxeberria, A. Fălăuş, A. Irurtzun and B. Leferman (eds.), _Proceedings of Sinn und Bedeutung 18_, Lejona: University of the Basque Country, 182–200.
-* Higginbotham, J., 1994, “Mass and count quantifiers”, _Linguistics and Philosophy_, 17: 447–480.
-* Higginbotham, J. & R. May, 1981, “Questions, quantifiers and crossing”, _Linguistic Review_, 1: 41–80.
-* Koslicki, K., 1999, “The semantics of mass-predicates”, _Noûs_, 33(1): 46–91.
-* Krifka, M., 1989, “Nominal reference, temporal constitution and quantification in event semantics”, in R. Bartsch, J. van Benthem and P. van Emde Boas (eds.), _Semantics and Contextual Expressions_, Dordrecht: Foris Publications, 75–116.
-* –––, 1991, “Massennomina”, in A. von Stechow and D. Wunderlich (eds.), _Semantik, ein internationales Handbuch_, Berlin: Mouton de Gruyter, 399–417.
-* –––, 1996, “Pragmatic strengthening in plural predications and donkey sentences”, in T. Galloway and J. Spence (eds.), _Proceedings of SALT VI_, Ithaca: Cornell University Press.
-* Kuhn, J. , Nicolas, D. & B. Buccola, 2022, “Deriving dimensions of comparison”, _Snippets_, 43: 1–3.
-* Landman, F., 2020, _Iceberg Semantics for Count Nouns and Mass Nouns: A New Framework for Boolean Semantics_, Cham: Springer.
-* La Palme-Reyes, M., J. Macnamara, & G. E. Reyes, 1994, “Reference, kinds and predicates”, in J. Macnamara and G. E. Reyes (eds.), _The logical foundations of cognition_, Oxford: Oxford University Press, 91–145.
-* Lasersohn, P., 1995, _Plurality, conjunction, and events_, Dordrecht: Kluwer Academic Publishers.
-* Laycock, H., 2006, _Words without objects_, Oxford: Clarendon Press.
-* Li, X., 2013, _Numeral Classifiers in Chinese_, Berlin: Mouton de Gruyter.
-* Link, G., 1983, “The logical analysis of plurals and mass terms: a lattice-theoretical approach”, in R. Bauerle, C. Schwartze, and A. von Stechow (Eds.), _Meaning, use and interpretation of language_, Berlin: Mouton de Gruyter, 302–323.
-* Linnebo, Ø., 2017, “Plural quantification”, in E. N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Summer 2017 Edition), URL = [https://plato.stanford.edu/archives/sum2017/entries/plural-quant/](https://plato.stanford.edu/archives/sum2017/entries/plural-quant/).
-* Löbner, S., 2000, “Polarity in natural language”, _Linguistics and Philosophy_, 23: 213–308.
-* Lønning, J.T., 1987, “Mass terms and quantification”, _Linguistics and Philosophy_, 10: 1–52.
-* McKay, T., 2016, “Mass and plural”, in M. Carrara, A. Arapinis and F. Moltmann (eds.), _Unity and plurality: Logic, philosophy, and linguistics_, Oxford: Oxford University Press, 171–193.
-* Moltmann, F., 1997, _Parts and wholes in semantics_, Oxford: Oxford University Press.
-* –––, 2007, “Event, tropes and truth making”, _Philosophical Studies_, 134(3): 363–403.
-* Monk, J. D., 2018, “The mathematics of Boolean algebra”, in E. N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition), URL = [https://plato.stanford.edu/archives/fall2018/entries/boolalg-math/](https://plato.stanford.edu/archives/fall2018/entries/boolalg-math/).
+* Bale, A. & D. Barner, 2009, “The interpretation of functional heads: Using comparatives to explore the mass/count distinction”, *Journal of Semantics*, 26(3): 217–252.
+* –––, 2018, “Quantity judgment and the mass-count distinction across languages: Advances, problems, and future directions for research”, *Glossa: a journal of general linguistics*, 3(1): 63.
+* Borer, H., 2005, *Structuring Sense Volume 1: In name only*, Oxford: Oxford University Press.
+* Breheny, R., 2005, “Exhaustivity, homogeneity & definiteness”, *Amsterdam Colloquium*, 15: 59–65, Universiteit van Amsterdam.
+* Bunt, H. C., 1985, *Mass terms and model-theoretic semantics*, Cambridge : Cambridge University Press.
+* Burge, T., 1972, “Truth and mass terms”, *Journal of Philosophy*, 69: 263–282.
+* Carlson, G., 1977, *Reference to kinds in English*, Ph.D. Dissertation, Massachusetts Institute of Technology.
+* Cartwright, H., 1965, “Heraclitus and the bath water”, *Philosophical Review*, 74: 466–485.
+* Champollion, L., 2017, *Parts of a whole: Distributivity as a bridge between aspect and measurement*, Oxford: Oxford University Press.
+* Cheng, C.-Y., 1973, “Comments on Moravcsik’s paper”, in J. Hintikka, P. Suppes, and J.M.E. Moravcsik (eds.), *Approaches to natural language*, Dordrecht: D. Reidel Publishing Company, 286–288.
+* Chierchia, G., 1998, “Plurality of mass nouns and the notion of semantic parameter”, in S. Rothstein (ed.), *Events and grammar*, Dordrecht: Kluwer Academic Publishers, 53–103.
+* –––, 2010, “Mass nouns, vagueness and semantic variation”, *Synthese*, 174(1): 99–149.
+* Cocchiarella, N., 2009, “Mass nouns in the logic of classes as many”, *Journal of Philosophical Logic*, 38: 343–361.
+* Corblin, F., 2008, “Des prédicats non quantifiables: les prédicats holistes”, *Langages*, 169: 34–57.
+* Cotnoir, A., and A. Varzi, 2021, *Mereology*, Oxford: Oxford University Press.
+* Damourette, J. & E. Pichon, 1927, *Des mots à la pensée. Essai de grammaire de la langue française*, Paris: Librairie Th. Poinsot; Editions d’Artey, 1987.
+* Doetjes, J., 2012, “Count/mass distinctions across languages”, in C. Maienborn, K. von Heusinger, and P. Portner (eds.), *Semantics: an international handbook of natural language meaning* (Volume 3), Berlin: De Gruyter, 2559–2580.
+* Gillon, B. S., 1992, “Towards a common semantics for English count and mass nouns”, *Linguistics and Philosophy*, 15: 597–639.
+* –––, 1996, “Collectivity and distributivity internal to English noun phrases”, *Language Sciences*, 18: 443–468.
+* –––, 2012, “Mass terms”, *Philosophy Compass*, 7(10): 712–730.
+* Grandy, R. E., 1973, “Comments on Moravcsik’s paper”, in J. Hintikka, P. Suppes and J.M.E. Moravcsik (eds.), *Approaches to natural language*, Dordrecht: D. Reidel Publishing Company, 295–300.
+* Grimm, S., 2012, *Number and individuation*, Ph.D. Dissertation, Stanford University.
+* –––, 2014, “Individuating the abstract”, in U. Etxeberria, A. Fălăuş, A. Irurtzun and B. Leferman (eds.), *Proceedings of Sinn und Bedeutung 18*, Lejona: University of the Basque Country, 182–200.
+* Higginbotham, J., 1994, “Mass and count quantifiers”, *Linguistics and Philosophy*, 17: 447–480.
+* Higginbotham, J. & R. May, 1981, “Questions, quantifiers and crossing”, *Linguistic Review*, 1: 41–80.
+* Koslicki, K., 1999, “The semantics of mass-predicates”, *Noûs*, 33(1): 46–91.
+* Krifka, M., 1989, “Nominal reference, temporal constitution and quantification in event semantics”, in R. Bartsch, J. van Benthem and P. van Emde Boas (eds.), *Semantics and Contextual Expressions*, Dordrecht: Foris Publications, 75–116.
+* –––, 1991, “Massennomina”, in A. von Stechow and D. Wunderlich (eds.), *Semantik, ein internationales Handbuch*, Berlin: Mouton de Gruyter, 399–417.
+* –––, 1996, “Pragmatic strengthening in plural predications and donkey sentences”, in T. Galloway and J. Spence (eds.), *Proceedings of SALT VI*, Ithaca: Cornell University Press.
+* Kuhn, J. , Nicolas, D. & B. Buccola, 2022, “Deriving dimensions of comparison”, *Snippets*, 43: 1–3.
+* Landman, F., 2020, *Iceberg Semantics for Count Nouns and Mass Nouns: A New Framework for Boolean Semantics*, Cham: Springer.
+* La Palme-Reyes, M., J. Macnamara, & G. E. Reyes, 1994, “Reference, kinds and predicates”, in J. Macnamara and G. E. Reyes (eds.), *The logical foundations of cognition*, Oxford: Oxford University Press, 91–145.
+* Lasersohn, P., 1995, *Plurality, conjunction, and events*, Dordrecht: Kluwer Academic Publishers.
+* Laycock, H., 2006, *Words without objects*, Oxford: Clarendon Press.
+* Li, X., 2013, *Numeral Classifiers in Chinese*, Berlin: Mouton de Gruyter.
+* Link, G., 1983, “The logical analysis of plurals and mass terms: a lattice-theoretical approach”, in R. Bauerle, C. Schwartze, and A. von Stechow (Eds.), *Meaning, use and interpretation of language*, Berlin: Mouton de Gruyter, 302–323.
+* Linnebo, Ø., 2017, “Plural quantification”, in E. N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Summer 2017 Edition), URL = [https://plato.stanford.edu/archives/sum2017/entries/plural-quant/](https://plato.stanford.edu/archives/sum2017/entries/plural-quant/).
+* Löbner, S., 2000, “Polarity in natural language”, *Linguistics and Philosophy*, 23: 213–308.
+* Lønning, J.T., 1987, “Mass terms and quantification”, *Linguistics and Philosophy*, 10: 1–52.
+* McKay, T., 2016, “Mass and plural”, in M. Carrara, A. Arapinis and F. Moltmann (eds.), *Unity and plurality: Logic, philosophy, and linguistics*, Oxford: Oxford University Press, 171–193.
+* Moltmann, F., 1997, *Parts and wholes in semantics*, Oxford: Oxford University Press.
+* –––, 2007, “Event, tropes and truth making”, *Philosophical Studies*, 134(3): 363–403.
+* Monk, J. D., 2018, “The mathematics of Boolean algebra”, in E. N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), URL = [https://plato.stanford.edu/archives/fall2018/entries/boolalg-math/](https://plato.stanford.edu/archives/fall2018/entries/boolalg-math/).
 * Montague, R., 1973, “The proper treatment of mass terms in English”, reprinted in F.J. Pelletier (ed.) 1979, 137–166.
-* Moravcsik, J., 1973, “Mass terms in English”, in J. Hintikka, P. Suppes, and J.M.E. Moravcsik (eds.), _Approaches to natural language_, Dordrecht: D. Reidel Publishing Company, 263–285.
-* Nicolas, D., 2002, _La distinction entre noms massifs et noms comptables. Aspects linguistiques et conceptuels_, Leuven: Editions Peeters.
-* –––, 2004, “The semantics of nouns derived from gradable adjectives”, in C. Meier and M. Weisgerber (eds.), _Proceedings of Sinn und Bedeutung 8_. \[[Nicolas 2004 available online](http://web.uni-frankfurt.de/fb10/SuB8)]
-* –––, 2008, “Mass nouns and plural logic”, _Linguistics and philosophy_, 31(2): 211–244.
-* –––, 2009, “Mereological essentialism, composition, and stuff: a reply to Kristie Miller”, _Erkenntnis_, 71(3): 425–429.
-* –––, 2010, “Towards a semantics of mass expressions derived from gradable expressions”, _Recherches Linguistiques de Vincennes_, 39: 163–198.
-* –––, 2021, “Mixtures and mass terms”, _Dialectica_, 75(1): 1–14.
-* Parsons, T., 1970, “An analysis of mass and amount terms”, _Foundations of Language_, 6: 363–388; reprinted in F.J. Pelletier (ed.) 1979, 137–166.
-* Partee, B. H., 1989, “Many quantifiers”, in J. Powers and K. de Jong (eds.), _Proceedings of the 5th Eastern States Conference on Linguistics_, Columbus: Ohio State University, 383–402.
-* Pelletier, J. F., 1974, “On some proposals for the semantics of mass nouns”, _Journal of Philosophical Logic_, 3: 87–108.
+* Moravcsik, J., 1973, “Mass terms in English”, in J. Hintikka, P. Suppes, and J.M.E. Moravcsik (eds.), *Approaches to natural language*, Dordrecht: D. Reidel Publishing Company, 263–285.
+* Nicolas, D., 2002, *La distinction entre noms massifs et noms comptables. Aspects linguistiques et conceptuels*, Leuven: Editions Peeters.
+* –––, 2004, “The semantics of nouns derived from gradable adjectives”, in C. Meier and M. Weisgerber (eds.), *Proceedings of Sinn und Bedeutung 8*. \[[Nicolas 2004 available online](http://web.uni-frankfurt.de/fb10/SuB8)]
+* –––, 2008, “Mass nouns and plural logic”, *Linguistics and philosophy*, 31(2): 211–244.
+* –––, 2009, “Mereological essentialism, composition, and stuff: a reply to Kristie Miller”, *Erkenntnis*, 71(3): 425–429.
+* –––, 2010, “Towards a semantics of mass expressions derived from gradable expressions”, *Recherches Linguistiques de Vincennes*, 39: 163–198.
+* –––, 2021, “Mixtures and mass terms”, *Dialectica*, 75(1): 1–14.
+* Parsons, T., 1970, “An analysis of mass and amount terms”, *Foundations of Language*, 6: 363–388; reprinted in F.J. Pelletier (ed.) 1979, 137–166.
+* Partee, B. H., 1989, “Many quantifiers”, in J. Powers and K. de Jong (eds.), *Proceedings of the 5th Eastern States Conference on Linguistics*, Columbus: Ohio State University, 383–402.
+* Pelletier, J. F., 1974, “On some proposals for the semantics of mass nouns”, *Journal of Philosophical Logic*, 3: 87–108.
 * –––, 1975, “Non-singular reference: some preliminaries”, reprinted in F.J. Pelletier (ed.) 1979, 1–14,
-* ––– (ed.), 1979, _Mass terms_, Dordrecht: D. Reidel Publishing Company.
-* ––– 2012, “Lexical nouns are both +mass and +count, but they are neither +mass nor +count”, in D. Massam (ed.), _Count and mass across languages_, Oxford: Oxford University Press, 9–26.
-* Pelletier, J. F. & L. Schubert, 2003, “Mass expressions”, in D. Gabbay and F. Guenthner (eds.), _Handbook of philosophical logic_ (Volume 10), 2nd edition, Dordrecht: Kluwer Academic Publishers, 249–336.
-* Quine, W. V. O., 1960, _Word and object, Cambridge, MA: MIT Press._
-* Roeper, P., 1983, “Semantics for mass terms with quantifiers”, _Noûs_, 17: 251–265.
-* Rothstein, S., 2017, _Semantics for counting and measuring_, Cambridge: Cambridge University Press.
-* Schwarzschild, R., 1996, _Pluralities_, Dordrecht: Kluwer Academic Publishers.
-* –––, 2011, “Stubborn distributivity, multiparticipant nouns and the count/mass distinction”, in S. Lima, K. Mullin, and B. Smith (eds.), _Proceedings of NELS 39_, 2: 661–678, Amherst, GLSA.
-* Solt, S., 2009, _The semantics of adjectives of quantity_, Ph.D. Dissertation, City University of New York.
-* Steen, M., 2012, “The metaphysics of mass expressions”, in E. N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Winter 2012 Edition), URL = [https://plato.stanford.edu/archives/win2012/entries/metaphysics-massexpress/](https://plato.stanford.edu/archives/win2012/entries/metaphysics-massexpress/).
-* Sutton, P. R., Filip, A., 2017, “Individuation, reliability, and the mass/count distinction”, _Journal of Language Modelling_, 5(2): 303–356.
-* ter Meulen, A., 1981, “An intensional logic for mass terms”, _Philosophical Studies_, 40: 105–125.
-* Varzi, A., 2016, “Mereology”, in E. N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), URL = [https://plato.stanford.edu/archives/win2016/entries/mereology/](https://plato.stanford.edu/archives/win2016/entries/mereology/).
+* ––– (ed.), 1979, *Mass terms*, Dordrecht: D. Reidel Publishing Company.
+* ––– 2012, “Lexical nouns are both +mass and +count, but they are neither +mass nor +count”, in D. Massam (ed.), *Count and mass across languages*, Oxford: Oxford University Press, 9–26.
+* Pelletier, J. F. & L. Schubert, 2003, “Mass expressions”, in D. Gabbay and F. Guenthner (eds.), *Handbook of philosophical logic* (Volume 10), 2nd edition, Dordrecht: Kluwer Academic Publishers, 249–336.
+* Quine, W. V. O., 1960, *Word and object, Cambridge, MA: MIT Press.*
+* Roeper, P., 1983, “Semantics for mass terms with quantifiers”, *Noûs*, 17: 251–265.
+* Rothstein, S., 2017, *Semantics for counting and measuring*, Cambridge: Cambridge University Press.
+* Schwarzschild, R., 1996, *Pluralities*, Dordrecht: Kluwer Academic Publishers.
+* –––, 2011, “Stubborn distributivity, multiparticipant nouns and the count/mass distinction”, in S. Lima, K. Mullin, and B. Smith (eds.), *Proceedings of NELS 39*, 2: 661–678, Amherst, GLSA.
+* Solt, S., 2009, *The semantics of adjectives of quantity*, Ph.D. Dissertation, City University of New York.
+* Steen, M., 2012, “The metaphysics of mass expressions”, in E. N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), URL = [https://plato.stanford.edu/archives/win2012/entries/metaphysics-massexpress/](https://plato.stanford.edu/archives/win2012/entries/metaphysics-massexpress/).
+* Sutton, P. R., Filip, A., 2017, “Individuation, reliability, and the mass/count distinction”, *Journal of Language Modelling*, 5(2): 303–356.
+* ter Meulen, A., 1981, “An intensional logic for mass terms”, *Philosophical Studies*, 40: 105–125.
+* Varzi, A., 2016, “Mereology”, in E. N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), URL = [https://plato.stanford.edu/archives/win2016/entries/mereology/](https://plato.stanford.edu/archives/win2016/entries/mereology/).
 * Ware, R. X., 1975, “Some bits and pieces”, reprinted in F.J. Pelletier (ed.) 1979, 15–29.
-* Wasserman, R., 2018, “Material Constitution”, in E. N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition), URL = [https://plato.stanford.edu/archives/fall2018/entries/material-constitution/](https://plato.stanford.edu/archives/fall2018/entries/material-constitution/).
-* Weinreich, U., 1966, “Explorations in semantic theory”, in T. A. Sebeok (ed.), _Current trends in linguistics_ (Volume 3), Berlin: Mouton de Gruyter, 395–477.
-* Wellwood, A., 2020, _The Meaning of_ More. Cambridge: Oxford University Press.
-* Wilkinson, Karina, 1991, _Studies in the semantics of generic noun phrases_, Ph.D. Dissertation, University of Massachusetts at Amherst.
+* Wasserman, R., 2018, “Material Constitution”, in E. N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), URL = [https://plato.stanford.edu/archives/fall2018/entries/material-constitution/](https://plato.stanford.edu/archives/fall2018/entries/material-constitution/).
+* Weinreich, U., 1966, “Explorations in semantic theory”, in T. A. Sebeok (ed.), *Current trends in linguistics* (Volume 3), Berlin: Mouton de Gruyter, 395–477.
+* Wellwood, A., 2020, *The Meaning of* More. Cambridge: Oxford University Press.
+* Wilkinson, Karina, 1991, *Studies in the semantics of generic noun phrases*, Ph.D. Dissertation, University of Massachusetts at Amherst.
 
 ## Academic Tools
 
@@ -391,7 +390,7 @@ Nicolas（2004 年，2010 年）表明，确实可以提出物质名词语义的
 
 ### Acknowledgments
 
-For comments, I would like to thank Alan Bale, Francis Corblin, Carmen Dobrovie-Sorin, Brendan Gillon, Giorgio Magri, Barry Schein, Mark Steen, Martin Stokhof, Lucia Tovena, and an anonymous reviewer for _Stanford Encyclopedia of Philosophy_. Thanks also to audiences in Istanbul, Montreal, Paris, and Storrs for their feedback. This work was supported by the grants ANR-10-LABX-0087 IEC and ANR-10-IDEX-0001-02 PSL\*.
+For comments, I would like to thank Alan Bale, Francis Corblin, Carmen Dobrovie-Sorin, Brendan Gillon, Giorgio Magri, Barry Schein, Mark Steen, Martin Stokhof, Lucia Tovena, and an anonymous reviewer for *Stanford Encyclopedia of Philosophy*. Thanks also to audiences in Istanbul, Montreal, Paris, and Storrs for their feedback. This work was supported by the grants ANR-10-LABX-0087 IEC and ANR-10-IDEX-0001-02 PSL\*.
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[David Nicolas](http://d.a.nicolas.free.fr/) <[_david.nicolas@m4x.org_](mailto:david%2enicolas%40m4x%2eorg)>
+[David Nicolas](http://d.a.nicolas.free.fr/) <[*david.nicolas@m4x.org*](mailto:david%2enicolas%40m4x%2eorg)>

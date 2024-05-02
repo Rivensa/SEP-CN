@@ -1,10 +1,8 @@
 # 知识的价值 knowledge, value of (Duncan Pritchard, John Turri, and J. Adam Carter)
 
-_首次发布于2007年8月21日；实质性修订于2022年6月27日_
+*首次发布于2007年8月21日；实质性修订于2022年6月27日*
 
 知识的价值一直是认识论中的一个核心话题。从柏拉图的《梅诺篇》开始，哲学家们就一直在问，为什么知识比单纯的真信念更有价值？近年来，人们对这个问题的兴趣越来越大，理论家们提出了各种答案。但有些人否定了这个问题的前提，并声称知识的价值被真信念的价值所“淹没”。还有人认为，除了知识之外的其他状态，如合理性或理解，具有独特的价值。我们将把为什么知识有价值的一般问题称为价值问题。
-
- 
 
 ***
 
@@ -224,190 +222,190 @@ EMT 当然是非常有争议的（例如，见 Adams＆Aizawa 2008），因此�
 
 ### Works Cited
 
-* Adams, Frederick and Kenneth Aizawa, 2008, _The Bounds of Cognition_, Malden, MA: Blackwell.
-* Ahlstrom-Vij, Kristoffer and Stephen R. Grimm, 2013, “Getting It Right”, _Philosophical Studies_, 166(2): 329–347. doi:10.1007/s11098-012-0038-x
-* Alston, W., 2005, _Beyond “Justification”: Dimensions of Epistemic Evaluation_, Ithaca, NY: Cornell University Press.
-* Baehr, Jason, 2012, “Credit Theories and the Value of Knowledge”, _Philosophical Quarterly_, 62(246): 1–22. doi:10.1111/j.1467-9213.2011.698.x
-* Bates, Jared, 2013, “Damming the Swamping Problem, Reliably”, _Dialectica_, 67(1):103–116. doi:10.1111/1746-8361.12012
-* Beebe, James R., 2012, “Social Functions of Knowledge Attributions”, in Jessica Brown & Mikkel Gerken (eds.), _Knowledge Ascriptions_. Oxford University Press: 220–242.
-* Bjelde, Joseph, 2020,  “All Swamping, No Problem”, _Analysis_, 80 (2): 205–211.
-* BonJour, Laurence, 2010, “The Myth of Knowledge”, _Philosophical Perspectives_, 24: 57–83. doi:10.1111/j.1520-8583.2010.00185.x
-* Bostrom, Nick and Anders Sandberg, 2009, “Cognitive Enhancement: Methods, Ethics, Regulatory Challenges”, _Science and Engineering Ethics_, 15(3): 311–341. doi:10.1007/s11948-009-9142-5
-* Bradley, Ben, 2002, “Is Intrinsic Value Conditional?”, _Philosophical Studies_, 107(1): 23–44. doi:10.1023/A:1013165112545
-* Brady, Michael S., 2006, “Appropriate Attitudes and the Value Problem”, _American Philosophical Quarterly_, 43(1): 91–99.
-* Brady, Michael S. and Duncan H. Pritchard (eds), 2003, _Moral and Epistemic Virtues_, Oxford: Blackwell.
-* Brentano, Franz, 1889 \[1969], _Vom Ursprung sittlicher Erkenntnis_, translated as _The Origin of Our Knowledge of Right and Wrong_, Roderick M. Chisholm (ed. and trans.) and Elizabeth H. Schneewind (trans.), London: Routledge & Kegan Paul, 1969.
-* Brogaard, Berit, 2007, “Can Virtue Reliabilism Explain the Value of Knowledge?”, _Canadian Journal of Philosophy_, 36(3): 335–354. doi:10.1353/cjp.2006.0015
-* Brown, Campbell, 2012, “The Utility of Knowledge”, _Erkenntnis_, 77(2): 155–165. doi:10.1007/s10670-011-9296-9
-* Burge, Tyler, 1986, “Individualism and Psychology”, _Philosophical Review_, 95(1): 3–45.
-* Carter, J. Adam, 2017, “Virtue Epistemology and Extended Cognition”, in _Routledge Handbook for Virtue Epistemology_, H. Battaly (ed.), London: Routledge.
-* Carter, J. Adam and Emma C. Gordon, 2014 “Objectual Understanding and the Value Problem”, _American Philosophical Quarterly_, 51(1): 1–14.
-* Carter, J. Adam and Benjamin Jarvis, 2012, “Against Swamping”, _Analysis_, 72(4): 690–699. doi:10.1093/analys/ans118
-* Carter, J. Adam, Jesper Kallestrup, S. Orestis Palermos, and Duncan Pritchard, 2014, “Varieties of Externalism”, _Philosophical Issues_, 24(1): 63–109. doi:10.1111/phis.12026
-* Carter, J. Adam and Duncan Pritchard, 2015, “Knowledge-How and Epistemic Value”, _Australasian Journal of Philosophy_, 93(4): 799–816. doi:10.1080/00048402.2014.997767
-* –––, 2017, “Epistemic Situationism, Epistemic Dependence, and the Epistemology of Education”, in _Epistemic Situationism_, Abrol Fairweather and Mark Alfano, Oxford: Oxford University Press. doi:10.1093/oso/9780199688234.003.0010
-* Carter, J. Adam and Robert Rupert, 2020, “ Epistemic Value in the Subpersonal Vale”, _Synthese_, 198 (10): 9243–9272.
-* Chisholm, Roderick M., 1986, _Brentano and Intrinsic Value_, Cambridge: Cambridge University Press.
-* –––, 1989, _Theory of Knowledge_, third edition, Englewood Cliffs, NJ: Prentice Hall.
-* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, _Analysis_, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Colaco, David, Wesley Buckwalter, Stephen Stich, and Edouard Machery, 2014, “Epistemic Intuitions in Fake-Barn Thought Experiments”, _Episteme_ 11(2): 199–212.
-* Conee, Earl, 1988, “Why Solve the Gettier Problem?”, in _Philosophical Analysis_, D.F. Austin (ed.), Dordrecht: Kluwer, pp. 55–58.
-* Conee, Earl and Richard Feldman, 2004, _Evidentialism: Essays in Epistemology_, Oxford: Oxford University Press. doi:10.1093/0199253722.001.0001
-* Craig, Edward, 1990, _Knowledge and the State of Nature: An Essay in Conceptual Synthesis_, Oxford: Clarendon Press. doi:10.1093/0198238797.001.0001
+* Adams, Frederick and Kenneth Aizawa, 2008, *The Bounds of Cognition*, Malden, MA: Blackwell.
+* Ahlstrom-Vij, Kristoffer and Stephen R. Grimm, 2013, “Getting It Right”, *Philosophical Studies*, 166(2): 329–347. doi:10.1007/s11098-012-0038-x
+* Alston, W., 2005, *Beyond “Justification”: Dimensions of Epistemic Evaluation*, Ithaca, NY: Cornell University Press.
+* Baehr, Jason, 2012, “Credit Theories and the Value of Knowledge”, *Philosophical Quarterly*, 62(246): 1–22. doi:10.1111/j.1467-9213.2011.698.x
+* Bates, Jared, 2013, “Damming the Swamping Problem, Reliably”, *Dialectica*, 67(1):103–116. doi:10.1111/1746-8361.12012
+* Beebe, James R., 2012, “Social Functions of Knowledge Attributions”, in Jessica Brown & Mikkel Gerken (eds.), *Knowledge Ascriptions*. Oxford University Press: 220–242.
+* Bjelde, Joseph, 2020,  “All Swamping, No Problem”, *Analysis*, 80 (2): 205–211.
+* BonJour, Laurence, 2010, “The Myth of Knowledge”, *Philosophical Perspectives*, 24: 57–83. doi:10.1111/j.1520-8583.2010.00185.x
+* Bostrom, Nick and Anders Sandberg, 2009, “Cognitive Enhancement: Methods, Ethics, Regulatory Challenges”, *Science and Engineering Ethics*, 15(3): 311–341. doi:10.1007/s11948-009-9142-5
+* Bradley, Ben, 2002, “Is Intrinsic Value Conditional?”, *Philosophical Studies*, 107(1): 23–44. doi:10.1023/A:1013165112545
+* Brady, Michael S., 2006, “Appropriate Attitudes and the Value Problem”, *American Philosophical Quarterly*, 43(1): 91–99.
+* Brady, Michael S. and Duncan H. Pritchard (eds), 2003, *Moral and Epistemic Virtues*, Oxford: Blackwell.
+* Brentano, Franz, 1889 \[1969], *Vom Ursprung sittlicher Erkenntnis*, translated as *The Origin of Our Knowledge of Right and Wrong*, Roderick M. Chisholm (ed. and trans.) and Elizabeth H. Schneewind (trans.), London: Routledge & Kegan Paul, 1969.
+* Brogaard, Berit, 2007, “Can Virtue Reliabilism Explain the Value of Knowledge?”, *Canadian Journal of Philosophy*, 36(3): 335–354. doi:10.1353/cjp.2006.0015
+* Brown, Campbell, 2012, “The Utility of Knowledge”, *Erkenntnis*, 77(2): 155–165. doi:10.1007/s10670-011-9296-9
+* Burge, Tyler, 1986, “Individualism and Psychology”, *Philosophical Review*, 95(1): 3–45.
+* Carter, J. Adam, 2017, “Virtue Epistemology and Extended Cognition”, in *Routledge Handbook for Virtue Epistemology*, H. Battaly (ed.), London: Routledge.
+* Carter, J. Adam and Emma C. Gordon, 2014 “Objectual Understanding and the Value Problem”, *American Philosophical Quarterly*, 51(1): 1–14.
+* Carter, J. Adam and Benjamin Jarvis, 2012, “Against Swamping”, *Analysis*, 72(4): 690–699. doi:10.1093/analys/ans118
+* Carter, J. Adam, Jesper Kallestrup, S. Orestis Palermos, and Duncan Pritchard, 2014, “Varieties of Externalism”, *Philosophical Issues*, 24(1): 63–109. doi:10.1111/phis.12026
+* Carter, J. Adam and Duncan Pritchard, 2015, “Knowledge-How and Epistemic Value”, *Australasian Journal of Philosophy*, 93(4): 799–816. doi:10.1080/00048402.2014.997767
+* –––, 2017, “Epistemic Situationism, Epistemic Dependence, and the Epistemology of Education”, in *Epistemic Situationism*, Abrol Fairweather and Mark Alfano, Oxford: Oxford University Press. doi:10.1093/oso/9780199688234.003.0010
+* Carter, J. Adam and Robert Rupert, 2020, “ Epistemic Value in the Subpersonal Vale”, *Synthese*, 198 (10): 9243–9272.
+* Chisholm, Roderick M., 1986, *Brentano and Intrinsic Value*, Cambridge: Cambridge University Press.
+* –––, 1989, *Theory of Knowledge*, third edition, Englewood Cliffs, NJ: Prentice Hall.
+* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
+* Colaco, David, Wesley Buckwalter, Stephen Stich, and Edouard Machery, 2014, “Epistemic Intuitions in Fake-Barn Thought Experiments”, *Episteme* 11(2): 199–212.
+* Conee, Earl, 1988, “Why Solve the Gettier Problem?”, in *Philosophical Analysis*, D.F. Austin (ed.), Dordrecht: Kluwer, pp. 55–58.
+* Conee, Earl and Richard Feldman, 2004, *Evidentialism: Essays in Epistemology*, Oxford: Oxford University Press. doi:10.1093/0199253722.001.0001
+* Craig, Edward, 1990, *Knowledge and the State of Nature: An Essay in Conceptual Synthesis*, Oxford: Clarendon Press. doi:10.1093/0198238797.001.0001
 * David, Marian, 2001, “Truth as the Epistemic Goal”, in Steup 2001: 151–169.
 * –––, 2005, “Truth as the Primary Epistemic Goal: A Working Hypothesis”, in Steup & Sosa 2005: 296–312.
-* Davis, Wayne A. and Christoph Jäger, 2012, “Reliabilism and the Extra Value of Knowledge”, _Philosophical Studies_, 157(1): 93–105. doi:10.1007/s11098-010-9620-2
-* DePaul, Michael R., 1993, _Balance and Refinement: Beyond Coherence Methods of Moral Inquiry_, New York: Routledge.
+* Davis, Wayne A. and Christoph Jäger, 2012, “Reliabilism and the Extra Value of Knowledge”, *Philosophical Studies*, 157(1): 93–105. doi:10.1007/s11098-010-9620-2
+* DePaul, Michael R., 1993, *Balance and Refinement: Beyond Coherence Methods of Moral Inquiry*, New York: Routledge.
 * –––, 2001, “Value Monism in Epistemology”, in Steup 2001: 170–182.
 * –––, 2009, “Ugly Analyses and Value”, in Haddock, Millar & Pritchard 2009: 112–138. doi:10.1093/acprof:oso/9780199231188.003.0006
-* DePaul, Michael and Linda Zagzebski (eds), 2003, _Intellectual Virtue: Perspectives from Ethics and Epistemology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199252732.001.0001
-* DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, _Philosophy and Phenomenological Research_ , 52: 913–29.
-* Dutant, Julien, 2013, “In Defence of Swamping”, _Thought: A Journal of Philosophy_, 2(4): 357–366. doi:10.1002/tht3.98
-* Elgin, Catherine Z., 1996, _Considered Judgement_, Princeton, NJ: Princeton University Press.
-* –––, 2004, “True Enough”, _Philosophical Issues_, 14: 113–131. doi:10.1111/j.1533-6077.2004.00023.x
+* DePaul, Michael and Linda Zagzebski (eds), 2003, *Intellectual Virtue: Perspectives from Ethics and Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199252732.001.0001
+* DeRose, Keith, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research* , 52: 913–29.
+* Dutant, Julien, 2013, “In Defence of Swamping”, *Thought: A Journal of Philosophy*, 2(4): 357–366. doi:10.1002/tht3.98
+* Elgin, Catherine Z., 1996, *Considered Judgement*, Princeton, NJ: Princeton University Press.
+* –––, 2004, “True Enough”, *Philosophical Issues*, 14: 113–131. doi:10.1111/j.1533-6077.2004.00023.x
 * –––, 2009, “Is Understanding Factive?”, in Haddock, Millar & Pritchard 2009: 322–330 (Appendix C).
-* Engel, Pascal, 2016, “Menone nell’era del digitale” (Meno in a Digital World), in _Ermeneutica, Estetica, Ontologia: a partire da Maurizio Ferraris_, Tiziana Andina and Carola Barbero (eds), Il Mulino, Bologna, pp. 101–112.
-* Fantl, Jeremy, and Matthew McGrath, 2002, “Evidence, Pragmatics, and Justification”, _The Philosophical Review_, 111(1): 67–94.
-* Feldman, Richard, 1997, “Review Essay: _Human Knowledge and Human Nature_, by Peter Carruthers and _Knowledge and the State of Nature_, by Edward Craig”, _Philosophy and Phenomenological Research_, 57(1): 205–221. doi:10.2307/2953790
-* Gerken, Mikkel, 2015, “How to Do Things with Knowledge Ascriptions”, _Philosophy and Phenomenological Research_, 90(1): 223–234. doi:10.1111/phpr.12162
-* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, _Analysis_, 23(6): 121–123.
-* Gibbard, Allan, 1990, _Wise Choices, Apt Feelings: A Theory of Normative Judgment_, Oxford: Clarendon Press.
-* Ginet, Carl, 1975, _Knowledge, Perception and Memory_, Dordrecht: Springer Science & Business Media.
-* Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, _The Journal of Philosophy_, 64(12): 357–372.
-* –––, 1976, “Discrimination and Perceptual Knowledge”, _The Journal of Philosophy_, 73(20): 771–791.
-* –––, 1979, “What is Justified Belief?” in George Pappas (ed.), _Justification and Knowledge_ Boston: D. Reidel: 1–25.
-* –––, 1999, _Knowledge in a Social World_, Oxford: Oxford University Press. doi:10.1093/0198238207.001.0001
+* Engel, Pascal, 2016, “Menone nell’era del digitale” (Meno in a Digital World), in *Ermeneutica, Estetica, Ontologia: a partire da Maurizio Ferraris*, Tiziana Andina and Carola Barbero (eds), Il Mulino, Bologna, pp. 101–112.
+* Fantl, Jeremy, and Matthew McGrath, 2002, “Evidence, Pragmatics, and Justification”, *The Philosophical Review*, 111(1): 67–94.
+* Feldman, Richard, 1997, “Review Essay: *Human Knowledge and Human Nature*, by Peter Carruthers and *Knowledge and the State of Nature*, by Edward Craig”, *Philosophy and Phenomenological Research*, 57(1): 205–221. doi:10.2307/2953790
+* Gerken, Mikkel, 2015, “How to Do Things with Knowledge Ascriptions”, *Philosophy and Phenomenological Research*, 90(1): 223–234. doi:10.1111/phpr.12162
+* Gettier, Edmund L., 1963, “Is Justified True Belief Knowledge?”, *Analysis*, 23(6): 121–123.
+* Gibbard, Allan, 1990, *Wise Choices, Apt Feelings: A Theory of Normative Judgment*, Oxford: Clarendon Press.
+* Ginet, Carl, 1975, *Knowledge, Perception and Memory*, Dordrecht: Springer Science & Business Media.
+* Goldman, Alvin I., 1967, “A Causal Theory of Knowing”, *The Journal of Philosophy*, 64(12): 357–372.
+* –––, 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73(20): 771–791.
+* –––, 1979, “What is Justified Belief?” in George Pappas (ed.), *Justification and Knowledge* Boston: D. Reidel: 1–25.
+* –––, 1999, *Knowledge in a Social World*, Oxford: Oxford University Press. doi:10.1093/0198238207.001.0001
 * Goldman, Alvin I. and Erik J. Olsson, 2009, “Reliabilism and the Value of Knowledge”, in Haddock, Millar & Pritchard 2009: 19–41. doi:10.1093/acprof:oso/9780199231188.003.0002
-* Greco, John, 1999, “Agent Reliabilism”, _Philosophical Perspectives_, 13: 273–96.
-* –––, 2000, _Putting Skeptics in Their Place: The Nature of Skeptical Arguments and Their Role in Philosophical Inquiry_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527418
+* Greco, John, 1999, “Agent Reliabilism”, *Philosophical Perspectives*, 13: 273–96.
+* –––, 2000, *Putting Skeptics in Their Place: The Nature of Skeptical Arguments and Their Role in Philosophical Inquiry*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527418
 * –––, 2003, “Knowledge as Credit for True Belief”, in DePaul & Zagzebski 2003: 111–134.
-* ––– (ed.), 2004, _Ernest Sosa and His Critics_, Oxford: Blackwell.
-* –––, 2007, “The Nature of Ability and the Purpose of Knowledge”, _Philosophical Issues_, 17(1): 57–69. doi:10.1111/j.1533-6077.2007.00122.x
-* –––, 2008, “What’s Wrong With Contextualism?”, _Philosophical Quarterly_, 58(232): 416–436. doi:10.1111/j.1467-9213.2008.535.x
+* ––– (ed.), 2004, *Ernest Sosa and His Critics*, Oxford: Blackwell.
+* –––, 2007, “The Nature of Ability and the Purpose of Knowledge”, *Philosophical Issues*, 17(1): 57–69. doi:10.1111/j.1533-6077.2007.00122.x
+* –––, 2008, “What’s Wrong With Contextualism?”, *Philosophical Quarterly*, 58(232): 416–436. doi:10.1111/j.1467-9213.2008.535.x
 * –––, 2009, “The Value Problem”, in Haddock, Millar & Pritchard 2009: 313–321 (Appendix B).
-* –––, 2010, _Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity_, Cambridge: Cambridge University Press.
-* –––, 2012, “A (Different) Virtue Epistemology”, _Philosophy and Phenomenological Research_, 85(1): 1–26. doi:10.1111/j.1933-1592.2011.00567.x
-* Grindrod, Jumbly, 2019, “Depth, Value, and Context”, _Ergo_, 6(24), [https://doi:10.3998/ergo.12405314.0006.024](https://doi.org/10.3998/ergo.12405314.0006.024)
-* Grimm, Stephen R., 2006, “Is Understanding a Species of Knowledge?”, _British Journal for the Philosophy of Science_, 57(3): 515–536. doi:10.1093/bjps/axl015
-* Haddock, Adrian, Alan Millar, and Duncan H. Pritchard (eds), 2009, _Epistemic Value_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231188.001.0001
-* ––– (eds.), 2010, _Social Epistemology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199577477.001.0001
-* Hannon, Michael, 2015, “The Universal Core of Knowledge”, _Synthese_, 192(3): 769–786.
-* Hawthorne, John, 2004, _Knowledge and Lotteries_, Oxford: Oxford University Press. doi:10.1093/0199269556.001.0001
-* Hazlett, Allan, 2010, “The Myth of Factive Verbs”, _Philosophy and Phenomenological Research_, 80(3): 497–522. doi:10.1111/j.1933-1592.2010.00338.x
-* Henderson, David, 2009, “Motivated Contextualism”, _Philosophical Studies_, 142(1): 119–131. doi:10.1007/s11098-008-9306-1
-* Hetherington, Stephen, 1998, “Actually Knowing”, _The Philosophical Quarterly_, 48(193): 453–469.
+* –––, 2010, *Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity*, Cambridge: Cambridge University Press.
+* –––, 2012, “A (Different) Virtue Epistemology”, *Philosophy and Phenomenological Research*, 85(1): 1–26. doi:10.1111/j.1933-1592.2011.00567.x
+* Grindrod, Jumbly, 2019, “Depth, Value, and Context”, *Ergo*, 6(24), [https://doi:10.3998/ergo.12405314.0006.024](https://doi.org/10.3998/ergo.12405314.0006.024)
+* Grimm, Stephen R., 2006, “Is Understanding a Species of Knowledge?”, *British Journal for the Philosophy of Science*, 57(3): 515–536. doi:10.1093/bjps/axl015
+* Haddock, Adrian, Alan Millar, and Duncan H. Pritchard (eds), 2009, *Epistemic Value*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199231188.001.0001
+* ––– (eds.), 2010, *Social Epistemology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199577477.001.0001
+* Hannon, Michael, 2015, “The Universal Core of Knowledge”, *Synthese*, 192(3): 769–786.
+* Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press. doi:10.1093/0199269556.001.0001
+* Hazlett, Allan, 2010, “The Myth of Factive Verbs”, *Philosophy and Phenomenological Research*, 80(3): 497–522. doi:10.1111/j.1933-1592.2010.00338.x
+* Henderson, David, 2009, “Motivated Contextualism”, *Philosophical Studies*, 142(1): 119–131. doi:10.1007/s11098-008-9306-1
+* Hetherington, Stephen, 1998, “Actually Knowing”, *The Philosophical Quarterly*, 48(193): 453–469.
 * Horvath, Joachim, 2009, “Why the Conditional Probability Solution to the Swamping Problem Fails”, in Schurz and Werning 2009: 115–120.
-* Hu, Xingming, 2017, “Why do True Beliefs Differ in Epistemic Value?” _Ratio_, 30(3): 255–269. doi:10.1111/rati.12138
-* Janvid, Mikael, 2014, “Understanding Understanding: An Epistemological Investigation”, _Philosophia_, 42(4): 971–985. doi:10.1007/s11406-014-9531-0
-* Jones, Ward E., 1997, “Why Do We Value Knowledge?”, _American Philosophical Quarterly_, 34(4): 423–440.
-* Kaplan, Mark, 1985, “It’s Not What You Know That Counts”, _Journal of Philosophy_, 82(7): 350–363. doi:10.2307/2026524
+* Hu, Xingming, 2017, “Why do True Beliefs Differ in Epistemic Value?” *Ratio*, 30(3): 255–269. doi:10.1111/rati.12138
+* Janvid, Mikael, 2014, “Understanding Understanding: An Epistemological Investigation”, *Philosophia*, 42(4): 971–985. doi:10.1007/s11406-014-9531-0
+* Jones, Ward E., 1997, “Why Do We Value Knowledge?”, *American Philosophical Quarterly*, 34(4): 423–440.
+* Kaplan, Mark, 1985, “It’s Not What You Know That Counts”, *Journal of Philosophy*, 82(7): 350–363. doi:10.2307/2026524
 * Kappel, Klemens, 2010, “On Saying that Someone Knows: Themes from Craig”, in Haddock, Millar, & Pritchard 2010: 69–88. doi:10.1093/acprof:oso/9780199577477.003.0004
-* Kelp, Christoph, 2011, “What’s the Point of ‘Knowledge’ Anyway?” _Episteme_, 8(1): 53–66. doi:10.3366/epi.2011.0006
-* –––, 2014, “Two for the Knowledge Goal of Inquiry”, _American Philosophical Quarterly_, 51(3): 227–232.
-* Kim, Brian, 2021, “Achievement and the Value of Knowledge”, _Episteme_, 18(2): 269–281.
-* Kvanvig, Jonathan L., 2003, _The Value of Knowledge and the Pursuit of Understanding_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498909
+* Kelp, Christoph, 2011, “What’s the Point of ‘Knowledge’ Anyway?” *Episteme*, 8(1): 53–66. doi:10.3366/epi.2011.0006
+* –––, 2014, “Two for the Knowledge Goal of Inquiry”, *American Philosophical Quarterly*, 51(3): 227–232.
+* Kim, Brian, 2021, “Achievement and the Value of Knowledge”, *Episteme*, 18(2): 269–281.
+* Kvanvig, Jonathan L., 2003, *The Value of Knowledge and the Pursuit of Understanding*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498909
 * –––, 2005, “Truth is not the Primary Epistemic Goal”, in Steup & Sosa 2005: 285–96.
 * –––, 2009a, “Responses to Critics”, in Haddock, Millar & Pritchard 2009: 339–352 (Appendix E).
 * –––, 2009b, “The Value of Understanding”, in Haddock, Millar & Pritchard 2009: 95–111. doi:10.1093/acprof:oso/9780199231188.003.0005
-* –––, 2012, “Curiosity and a Response-Dependent Account of the Value of Understanding”, in _Knowledge, Virtue and Action: Essays on Putting Epistemic Virtues to Work_, Tim Henning and David P. Schweikard (eds.), London: Routledge, pp. 151–174.
-* Lackey, Jennifer, 2007, “Why We Don’t Deserve Credit for Everything We Know”, _Synthese_, 158(3): 345–361. doi:10.1007/s11229-006-9044-x
-* Lehrer, Keith and Thomas Paxson, Jr., 1969, “Knowledge: Undefeated Justified True Belief”. _Journal of Philosophy_, 66(8): 225–237.
-* Lynch, Michael Patrick, 2004, _True to Life: Why Truth Matters_, Cambridge, MA: MIT Press.
+* –––, 2012, “Curiosity and a Response-Dependent Account of the Value of Understanding”, in *Knowledge, Virtue and Action: Essays on Putting Epistemic Virtues to Work*, Tim Henning and David P. Schweikard (eds.), London: Routledge, pp. 151–174.
+* Lackey, Jennifer, 2007, “Why We Don’t Deserve Credit for Everything We Know”, *Synthese*, 158(3): 345–361. doi:10.1007/s11229-006-9044-x
+* Lehrer, Keith and Thomas Paxson, Jr., 1969, “Knowledge: Undefeated Justified True Belief”. *Journal of Philosophy*, 66(8): 225–237.
+* Lynch, Michael Patrick, 2004, *True to Life: Why Truth Matters*, Cambridge, MA: MIT Press.
 * –––, 2009, “The Values of Truth and the Truth of Values”, in Haddock, Millar & Pritchard 2009: 225–42. doi:10.1093/acprof:oso/9780199231188.003.0011
-* –––, 2016, _The Internet of Us: Knowing More and Understanding Less in the Age of Big Data_, New York: Liveright Publishing.
-* Madison, B.J.C., 2017, “Epistemic Value and the New Evil Demon”, _Pacific Philosophical Quarterly_, 98(1): 89–107. doi:10.1111/papq.12054
-* McKenna, Robin, 2013, “‘Knowledge’ Ascriptions, Social Roles and Semantics”, _Episteme_, 10(4): 335–350. doi:10.1017/epi.2013.30
-* Millar Alan, 2011, “Why Knowledge Matters”, _Aristotelian Society, Supplementary Volume_, 85(1): 63–81. doi:10.1111/j.1467-8349.2011.00196.x
-* Nozick, Robert, 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
-* Olsson, Erik J., 2007, “Reliabilism, Stability, and the Value of Knowledge”, _American Philosophical Quarterly_, 44(4): 343–355.
-* Percival, Philip, 2003, “The Pursuit of Epistemic Good”, _Metaphilosophy_, 34(1–2): 29–47; reprinted in Brady and Pritchard 2003. doi:10.1111/1467-9973.00258
-* Pettigrew, Richard, 2019, “Veritism, Epistemic Risk, and the Swamping Problem”, _Australasian Journal of Philosophy_, 97(4): 761–74.
+* –––, 2016, *The Internet of Us: Knowing More and Understanding Less in the Age of Big Data*, New York: Liveright Publishing.
+* Madison, B.J.C., 2017, “Epistemic Value and the New Evil Demon”, *Pacific Philosophical Quarterly*, 98(1): 89–107. doi:10.1111/papq.12054
+* McKenna, Robin, 2013, “‘Knowledge’ Ascriptions, Social Roles and Semantics”, *Episteme*, 10(4): 335–350. doi:10.1017/epi.2013.30
+* Millar Alan, 2011, “Why Knowledge Matters”, *Aristotelian Society, Supplementary Volume*, 85(1): 63–81. doi:10.1111/j.1467-8349.2011.00196.x
+* Nozick, Robert, 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
+* Olsson, Erik J., 2007, “Reliabilism, Stability, and the Value of Knowledge”, *American Philosophical Quarterly*, 44(4): 343–355.
+* Percival, Philip, 2003, “The Pursuit of Epistemic Good”, *Metaphilosophy*, 34(1–2): 29–47; reprinted in Brady and Pritchard 2003. doi:10.1111/1467-9973.00258
+* Pettigrew, Richard, 2019, “Veritism, Epistemic Risk, and the Swamping Problem”, *Australasian Journal of Philosophy*, 97(4): 761–74.
 * Piller, Christian Johannes, 2009, “Reliabilist Responses to the Value of Knowledge Problem”, in Schurz and Werning 2009: 121–135.
-* Poston, Ted, 2016, “Know How to Transmit Knowledge?”, _Noûs_, 50(4): 865–878.
-* Pritchard, Duncan H., 2005, _Epistemic Luck_, Oxford: Clarendon Press.
-* –––, 2007, “Recent Work on Epistemic Value”, _American Philosophical Quarterly_, 44(2): 85–110.
-* –––, 2009, “The Value of Knowledge”, _The Harvard Review of Philosophy_, 16(1): 86–103.
+* Poston, Ted, 2016, “Know How to Transmit Knowledge?”, *Noûs*, 50(4): 865–878.
+* Pritchard, Duncan H., 2005, *Epistemic Luck*, Oxford: Clarendon Press.
+* –––, 2007, “Recent Work on Epistemic Value”, *American Philosophical Quarterly*, 44(2): 85–110.
+* –––, 2009, “The Value of Knowledge”, *The Harvard Review of Philosophy*, 16(1): 86–103.
 * –––, 2010a, “Knowledge and Understanding”, in Pritchard, Millar, & Haddock 2010: chs. 1–4.
-* –––, 2010b, “Cognitive Ability and the Extended Cognition Thesis”, _Synthese_, 175(S1): 133–151. doi:10.1007/s11229-010-9738-y
-* –––, 2011, “What is the Swamping Problem?” in Andrew Reisner & Asbjørn Steglich-Petersen (eds.), _Reasons for Belief_, Cambridge: Cambridge University Press: 244–59
-* –––, 2012, “Anti-Luck Virtue Epistemology”, _The Journal of Philosophy_, 109(3): 247–279.
-* –––, 2013, “Epistemic Virtue and the Epistemology of Education”, _Journal of Philosophy of Education_, 47(2): 236–247. doi:10.1111/1467-9752.12022
-* –––, 2015, “Epistemic Dependence”, _Philosophical Perspectives_, 29: 305–324. doi:10.1111/phpe.12067
-* –––, 2018, “Extended Knowledge”, in _Extended Epistemology_, J. Adam Carter, Andy Clark, Jesper Kallestrup, S. Orestis Palermos, & Duncan Pritchard, Oxford: Oxford University Press: 90–104.
-* –––, “Intellectual Virtues and the Epistemic Value of Truth”, _Synthese_, 198: 555–5528. doi:10.1007/s11229-019-02418-z
-* Pritchard, Duncan, Alan Millar, and Adrian Haddock (eds), 2010, _The Nature and Value of Knowledge_, Oxford: Oxford University Press, Oxford. doi:10.1093/acprof:oso/9780199586264.001.0001
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, _Minnesota Studies in the Philosophy of Science_, 7: 131–193.
-* Rabinowicz, Wlodek and Toni Rønnow-Rasmussen, 1999, “A Distinction in Value: Intrinsic and For its Own Sake”, _Proceedings of the Aristotelian Society_, 100(1): 33–49. doi:10.1111/j.0066-7372.2003.00002.x
-* –––, 2003, “Tropic of Value”, _Philosophy and Phenomenological Research_, 66(2): 389–403. doi:10.1111/j.1933-1592.2003.tb00267.x
-* Riggs, Wayne D., 2002a, “Reliability and the Value of Knowledge”, _Philosophy and Phenomenological Research_, 64(1): 79–96. doi:10.1111/j.1933-1592.2002.tb00143.x
+* –––, 2010b, “Cognitive Ability and the Extended Cognition Thesis”, *Synthese*, 175(S1): 133–151. doi:10.1007/s11229-010-9738-y
+* –––, 2011, “What is the Swamping Problem?” in Andrew Reisner & Asbjørn Steglich-Petersen (eds.), *Reasons for Belief*, Cambridge: Cambridge University Press: 244–59
+* –––, 2012, “Anti-Luck Virtue Epistemology”, *The Journal of Philosophy*, 109(3): 247–279.
+* –––, 2013, “Epistemic Virtue and the Epistemology of Education”, *Journal of Philosophy of Education*, 47(2): 236–247. doi:10.1111/1467-9752.12022
+* –––, 2015, “Epistemic Dependence”, *Philosophical Perspectives*, 29: 305–324. doi:10.1111/phpe.12067
+* –––, 2018, “Extended Knowledge”, in *Extended Epistemology*, J. Adam Carter, Andy Clark, Jesper Kallestrup, S. Orestis Palermos, & Duncan Pritchard, Oxford: Oxford University Press: 90–104.
+* –––, “Intellectual Virtues and the Epistemic Value of Truth”, *Synthese*, 198: 555–5528. doi:10.1007/s11229-019-02418-z
+* Pritchard, Duncan, Alan Millar, and Adrian Haddock (eds), 2010, *The Nature and Value of Knowledge*, Oxford: Oxford University Press, Oxford. doi:10.1093/acprof:oso/9780199586264.001.0001
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, *Minnesota Studies in the Philosophy of Science*, 7: 131–193.
+* Rabinowicz, Wlodek and Toni Rønnow-Rasmussen, 1999, “A Distinction in Value: Intrinsic and For its Own Sake”, *Proceedings of the Aristotelian Society*, 100(1): 33–49. doi:10.1111/j.0066-7372.2003.00002.x
+* –––, 2003, “Tropic of Value”, *Philosophy and Phenomenological Research*, 66(2): 389–403. doi:10.1111/j.1933-1592.2003.tb00267.x
+* Riggs, Wayne D., 2002a, “Reliability and the Value of Knowledge”, *Philosophy and Phenomenological Research*, 64(1): 79–96. doi:10.1111/j.1933-1592.2002.tb00143.x
 * –––, 2009, “Understanding, Knowledge, and the Meno Requirement”, in Haddock, Millar & Pritchard 2009: 331–338 (Appendix D).
-* Roush, Sherrilyn, 2010, “The Value of Knowledge and the Pursuit of Survival”, _Metaphilosophy_, 41(3): 255–278. doi:10.1111/j.1467-9973.2010.01635.x
-* Rohwer, Yasha, 2014, “Lucky Understanding without Knowledge”, _Synthese_, 191(5): 945–959.
-* Ryle, Gilbert, 1949, _The Concept of Mind_, London: Hutchinson.
-* Rysiew, Patrick, 2012, “Epistemic Scorekeeping”, in _Knowledge Ascriptions_, (eds.) Jessica Brown and Mikkel Gerken, Oxford: Oxford University Press, pp. 270–294. doi:10.1093/acprof:oso/9780199693702.003.0012
-* Sartwell, Crispin, 1991, “Knowledge is Merely True Belief”, _American Philosophical Quarterly_, 28(2): 157–165.
-* Scanlon, T.M., 1998, _What We Owe to Each Other_, Cambridge, MA: Harvard University Press.
-* Schurz, Gerhard and Markus Werning (eds), 2009, _Reliable Knowledge and Social Epistemology: Essays on the Philosophy of Alvin Goldman and Replies by Goldman_, (Grazer Philosophische Studien, 79), New York: Rodopi.
-* Sliwa, Paulina, 2015, “Understanding and Knowing”, _Proceedings of the Aristotelian Society_, 115 (1pt1): 57–74.
-* Sosa, Ernest, 1985, “Knowledge and Intellectual Virtue”, _The Monist_, 68(2): 224–245. doi:10.5840/monist198568225
-* –––, 1988, “Beyond Scepticism, to the Best of our Knowledge”, _Mind_, 97(386): 153–189. doi:10.1093/mind/XCVII.386.153
-* –––, 1991, _Knowledge in Perspective: Selected Essays in Epistemology_, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511625299
-* –––, 1999, “How to Defeat Opposition to Moore”, _Noûs_, 33(s13): 141–153.
-* –––, 2000a, “For the Love of Truth”, in _Virtue Epistemology: Essays on Epistemic Virtue and Responsibility_, Abrol Fairweather and Linda Zagzebski (eds), Oxford: Oxford University Press.
+* Roush, Sherrilyn, 2010, “The Value of Knowledge and the Pursuit of Survival”, *Metaphilosophy*, 41(3): 255–278. doi:10.1111/j.1467-9973.2010.01635.x
+* Rohwer, Yasha, 2014, “Lucky Understanding without Knowledge”, *Synthese*, 191(5): 945–959.
+* Ryle, Gilbert, 1949, *The Concept of Mind*, London: Hutchinson.
+* Rysiew, Patrick, 2012, “Epistemic Scorekeeping”, in *Knowledge Ascriptions*, (eds.) Jessica Brown and Mikkel Gerken, Oxford: Oxford University Press, pp. 270–294. doi:10.1093/acprof:oso/9780199693702.003.0012
+* Sartwell, Crispin, 1991, “Knowledge is Merely True Belief”, *American Philosophical Quarterly*, 28(2): 157–165.
+* Scanlon, T.M., 1998, *What We Owe to Each Other*, Cambridge, MA: Harvard University Press.
+* Schurz, Gerhard and Markus Werning (eds), 2009, *Reliable Knowledge and Social Epistemology: Essays on the Philosophy of Alvin Goldman and Replies by Goldman*, (Grazer Philosophische Studien, 79), New York: Rodopi.
+* Sliwa, Paulina, 2015, “Understanding and Knowing”, *Proceedings of the Aristotelian Society*, 115 (1pt1): 57–74.
+* Sosa, Ernest, 1985, “Knowledge and Intellectual Virtue”, *The Monist*, 68(2): 224–245. doi:10.5840/monist198568225
+* –––, 1988, “Beyond Scepticism, to the Best of our Knowledge”, *Mind*, 97(386): 153–189. doi:10.1093/mind/XCVII.386.153
+* –––, 1991, *Knowledge in Perspective: Selected Essays in Epistemology*, Cambridge, UK: Cambridge University Press. doi:10.1017/CBO9780511625299
+* –––, 1999, “How to Defeat Opposition to Moore”, *Noûs*, 33(s13): 141–153.
+* –––, 2000a, “For the Love of Truth”, in *Virtue Epistemology: Essays on Epistemic Virtue and Responsibility*, Abrol Fairweather and Linda Zagzebski (eds), Oxford: Oxford University Press.
 * –––, 2003, “The Place of Truth in Epistemology”, in DePaul & Zagzebski 2003: 155–180.
 * –––, 2004, “Reply to Linda Zagzebski”, in Greco 2004.
-* –––, 2007, _A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297023.001.0001
-* –––, 2015, _Judgment and Agency_, Oxford: Oxford University Press.
-* Stanley, Jason, 2005, _Knowledge and Practical Interests_, Oxford: Clarendon Press.
-* –––, 2011, _Know How_, Oxford: Oxford University Press.
-* Stanley, Jason and Timothy Williamson, 2001, “Knowing How”, _Journal of Philosophy_, 98(8): 411–444. doi:10.2307/2678403
-* Steup, Matthias (ed.), 2001, _Knowledge, Truth, and Duty: Essays on Epistemic Justification, Virtue, and Responsibility_, Oxford: Oxford University Press. doi:10.1093/0195128923.001.0001
-* Steup, Matthias and Ernest Sosa (eds.), 2005, _Contemporary Debates in Epistemology_, Oxford: Blackwell.
-* Swinburne, Richard, 1999, _Providence and the Problem of Evil_, Oxford: Oxford University Press. doi:10.1093/0198237987.001.0001
-* –––, 2000, _Epistemic Justification_, Oxford: Oxford University Press. doi:10.1093/0199243794.001.0001
-* Sylvan, Kurt, 2018, “Veritism Unswamped”, _Mind_, 127(506): 381–435.
-* Treanor, Nick, 2014, “Trivial Truths and the Aim of Inquiry”, _Philosophy and Phenomenological Research_, 89(3): 552–559. doi:10.1111/j.1933-1592.2012.00612.x
-* Turri, John, 2010, “Does Perceiving Entail Knowing?”, _Theoria_, 76(3): 196–206. doi:10.1111/j.1755-2567.2010.01065.x
-* –––, 2011a, “Manifest Failure: The Gettier Problem Solved”, _Philosophers’ Imprint_, 11(8): 1–11. URL = [http://hdl.handle.net/2027/spo.3521354.0011.008](http://hdl.handle.net/2027/spo.3521354.0011.008)
-* –––, 2011b, “Mythology of the Factive”, _Logos & Episteme_, 2(1): 141–150. doi:10.5840/logos-episteme20112155
-* –––, 2016a, “Knowledge and Assertion in ‘Gettier’ Cases”, _Philosophical Psychology_, 29(5): 759–775.
-* –––, 2016b, “Knowledge Judgments in ‘Gettier’ Cases”, in J. Sytsma & W. Buckwalter (eds.), _A Companion to Experimental Philosophy_, Oxford: Wiley-Blackwell: 337–48
-* –––, 2016c, “A New Paradigm for Epistemology From Reliabilism to Abilism”, _Ergo: an Open Access Journal of Philosophy_, 3(8): 189–231.
-* Turri, John, Wesley Buckwalter, and Peter Blouw, 2015, “Knowledge and Luck”, _Psychonomic Bulletin & Review_, 22(2): 378–390.
-* Unger, Peter, 1968, “An Analysis of Factual Knowledge”, _The Journal of Philosophy_, 65(6): 157–170.
-* van Fraassen, Bas C., 1980, _The Scientific Image_, Oxford: Clarendon Press. doi:10.1093/0198244274.001.0001
-* Walker, Barnaby, 2019, “Knowledge First, Stability and Value”, _Synthese_, 198(4): 3833–54.
+* –––, 2007, *A Virtue Epistemology: Apt Belief and Reflective Knowledge, volume 1*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199297023.001.0001
+* –––, 2015, *Judgment and Agency*, Oxford: Oxford University Press.
+* Stanley, Jason, 2005, *Knowledge and Practical Interests*, Oxford: Clarendon Press.
+* –––, 2011, *Know How*, Oxford: Oxford University Press.
+* Stanley, Jason and Timothy Williamson, 2001, “Knowing How”, *Journal of Philosophy*, 98(8): 411–444. doi:10.2307/2678403
+* Steup, Matthias (ed.), 2001, *Knowledge, Truth, and Duty: Essays on Epistemic Justification, Virtue, and Responsibility*, Oxford: Oxford University Press. doi:10.1093/0195128923.001.0001
+* Steup, Matthias and Ernest Sosa (eds.), 2005, *Contemporary Debates in Epistemology*, Oxford: Blackwell.
+* Swinburne, Richard, 1999, *Providence and the Problem of Evil*, Oxford: Oxford University Press. doi:10.1093/0198237987.001.0001
+* –––, 2000, *Epistemic Justification*, Oxford: Oxford University Press. doi:10.1093/0199243794.001.0001
+* Sylvan, Kurt, 2018, “Veritism Unswamped”, *Mind*, 127(506): 381–435.
+* Treanor, Nick, 2014, “Trivial Truths and the Aim of Inquiry”, *Philosophy and Phenomenological Research*, 89(3): 552–559. doi:10.1111/j.1933-1592.2012.00612.x
+* Turri, John, 2010, “Does Perceiving Entail Knowing?”, *Theoria*, 76(3): 196–206. doi:10.1111/j.1755-2567.2010.01065.x
+* –––, 2011a, “Manifest Failure: The Gettier Problem Solved”, *Philosophers’ Imprint*, 11(8): 1–11. URL = [http://hdl.handle.net/2027/spo.3521354.0011.008](http://hdl.handle.net/2027/spo.3521354.0011.008)
+* –––, 2011b, “Mythology of the Factive”, *Logos & Episteme*, 2(1): 141–150. doi:10.5840/logos-episteme20112155
+* –––, 2016a, “Knowledge and Assertion in ‘Gettier’ Cases”, *Philosophical Psychology*, 29(5): 759–775.
+* –––, 2016b, “Knowledge Judgments in ‘Gettier’ Cases”, in J. Sytsma & W. Buckwalter (eds.), *A Companion to Experimental Philosophy*, Oxford: Wiley-Blackwell: 337–48
+* –––, 2016c, “A New Paradigm for Epistemology From Reliabilism to Abilism”, *Ergo: an Open Access Journal of Philosophy*, 3(8): 189–231.
+* Turri, John, Wesley Buckwalter, and Peter Blouw, 2015, “Knowledge and Luck”, *Psychonomic Bulletin & Review*, 22(2): 378–390.
+* Unger, Peter, 1968, “An Analysis of Factual Knowledge”, *The Journal of Philosophy*, 65(6): 157–170.
+* van Fraassen, Bas C., 1980, *The Scientific Image*, Oxford: Clarendon Press. doi:10.1093/0198244274.001.0001
+* Walker, Barnaby, 2019, “Knowledge First, Stability and Value”, *Synthese*, 198(4): 3833–54.
 * Weiner, Matthew, 2009, “Does Knowledge Matter?”, in Haddock, Millar & Pritchard 2009: 163–182. doi:10.1093/acprof:oso/9780199231188.003.0008
-* Wiggins, David, 1987, “A Sensible Subjectivism?”, in his _Needs, Values, Truth: Essays in the Philosophy of Value_, Oxford: Blackwell.
-* Williamson, Timothy, 2000, _Knowledge and Its Limits_, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Zagzebski, Linda, 1996, _Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge_, Cambridge: Cambridge University Press.
-* –––, 1999, “What is Knowledge?”, in _Blackwell Guide to Epistemology_, John Greco and Ernest Sosa (eds), Oxford: Blackwell, pp. 92–116.
-* –––, 2003a, “The Search for the Source of Epistemic Good”, _Metaphilosophy_, 34(1–2): 12–28; and reprinted in Brady and Pritchard 2003. doi:10.1111/1467-9973.00257
+* Wiggins, David, 1987, “A Sensible Subjectivism?”, in his *Needs, Values, Truth: Essays in the Philosophy of Value*, Oxford: Blackwell.
+* Williamson, Timothy, 2000, *Knowledge and Its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Zagzebski, Linda, 1996, *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*, Cambridge: Cambridge University Press.
+* –––, 1999, “What is Knowledge?”, in *Blackwell Guide to Epistemology*, John Greco and Ernest Sosa (eds), Oxford: Blackwell, pp. 92–116.
+* –––, 2003a, “The Search for the Source of Epistemic Good”, *Metaphilosophy*, 34(1–2): 12–28; and reprinted in Brady and Pritchard 2003. doi:10.1111/1467-9973.00257
 
 ### Other Important Works
 
-* Ellis, Brian, 1988, “Solving the Problem of Induction Using a Values Based Epistemology”, _British Journal for the Philosophy of Science_, 39(2): 141–160. doi:10.1093/bjps/39.2.141
-* Fallis, Don, 2004, “Epistemic Value Theory and Information Ethics”, _Minds and Machines_, 14(1): 101–117. doi:10.1023/B:MIND.0000005138.57370.df
-* –––, 2005, “Epistemic Value Theory and Judgment Aggregation”, _Episteme_, 2(1): 39–55. doi:10.3366/epi.2005.2.1.39
-* Fricker, Miranda, 2009, “The Value of Knowledge and The Test of Time”, _Royal Institute of Philosophy Supplement_, 64: 121–138. doi:10.1017/S1358246109000034
-* Gardiner, Georgi, 2012, “Understanding, Integration, and Epistemic Value”, _Acta Analytica_, 27(2): 163–181. doi:10.1007/s12136-012-0152-6
-* Hannon, Michael, 2014, “Fallibilism and the Value of Knowledge”, _Synthese_, 191(6): 1119–1146. doi:10.1007/s11229-013-0315-z
-* Horwich, Paul, 2006, “The Value of Truth”, _Noûs_, 40(2): 347–360. doi:10.1111/j.0029-4624.2006.00613.x
-* Hyman, John, 2010, “The Road to Larissa”, _Ratio_, 23(4): 393–414. doi:10.1111/j.1467-9329.2010.00475.x
-* Kvanvig, Jonathan L., 1992, _The Intellectual Virtues and the Life of the Mind: On the Place of the Virtues in Contemporary Epistemology_, Savage, MD: Rowman & Littlefield.
-* –––, 1998, “Why Should Inquiring Minds Want to Know?: _Meno_ Problems and Epistemological Axiology”, _The Monist_, 81(3): 426–451. doi:10.5840/monist199881318
-* –––, 2004, “Nozickian Epistemology and the Value of Knowledge”, _Philosophical Issues_, 14: 201–218. doi:10.1111/j.1533-6077.2004.00028.x
+* Ellis, Brian, 1988, “Solving the Problem of Induction Using a Values Based Epistemology”, *British Journal for the Philosophy of Science*, 39(2): 141–160. doi:10.1093/bjps/39.2.141
+* Fallis, Don, 2004, “Epistemic Value Theory and Information Ethics”, *Minds and Machines*, 14(1): 101–117. doi:10.1023/B:MIND.0000005138.57370.df
+* –––, 2005, “Epistemic Value Theory and Judgment Aggregation”, *Episteme*, 2(1): 39–55. doi:10.3366/epi.2005.2.1.39
+* Fricker, Miranda, 2009, “The Value of Knowledge and The Test of Time”, *Royal Institute of Philosophy Supplement*, 64: 121–138. doi:10.1017/S1358246109000034
+* Gardiner, Georgi, 2012, “Understanding, Integration, and Epistemic Value”, *Acta Analytica*, 27(2): 163–181. doi:10.1007/s12136-012-0152-6
+* Hannon, Michael, 2014, “Fallibilism and the Value of Knowledge”, *Synthese*, 191(6): 1119–1146. doi:10.1007/s11229-013-0315-z
+* Horwich, Paul, 2006, “The Value of Truth”, *Noûs*, 40(2): 347–360. doi:10.1111/j.0029-4624.2006.00613.x
+* Hyman, John, 2010, “The Road to Larissa”, *Ratio*, 23(4): 393–414. doi:10.1111/j.1467-9329.2010.00475.x
+* Kvanvig, Jonathan L., 1992, *The Intellectual Virtues and the Life of the Mind: On the Place of the Virtues in Contemporary Epistemology*, Savage, MD: Rowman & Littlefield.
+* –––, 1998, “Why Should Inquiring Minds Want to Know?: *Meno* Problems and Epistemological Axiology”, *The Monist*, 81(3): 426–451. doi:10.5840/monist199881318
+* –––, 2004, “Nozickian Epistemology and the Value of Knowledge”, *Philosophical Issues*, 14: 201–218. doi:10.1111/j.1533-6077.2004.00028.x
 * –––, 2010, “The Swamping Problem Redux: Pith and Gist”, in Haddock, Millar, & Pritchard 2010: 89–111. doi:10.1093/acprof:oso/9780199577477.003.0005
-* –––, 2011, “Millar on the Value of Knowledge”, _Aristotelian Society, Supplementary Volume_, 85(1): 83–99. doi:10.1111/j.1467-8349.2011.00197.x
-* Meylan, Ann, 2013, “The Value Problem of Knowledge”, _Res Philosophica_, 90(2): 261–275. doi:10.11612/resphil.2013.90.2.10
-* Olsson, Erik J., 2011, “The Value of Knowledge”, _Philosophy Compass_ 6(12): 874–883. doi:10.1111/j.1747-9991.2011.00425.x \[[Olsson 2011 available online](http://doi.wiley.com/10.1111/j.1747-9991.2011.00425.x)]
-* Riggs, Wayne D., 1998, “What are the ‘Chances’ of Being Justified?”, _The Monist_, 81: 452–472. doi:10.5840/monist199881319
-* –––, 2002b, “Beyond Truth and Falsehood: The Real Value of Knowing that p”, _Philosophical Studies_, 107(1): 87–108. doi:10.1023/A:1013162011443
+* –––, 2011, “Millar on the Value of Knowledge”, *Aristotelian Society, Supplementary Volume*, 85(1): 83–99. doi:10.1111/j.1467-8349.2011.00197.x
+* Meylan, Ann, 2013, “The Value Problem of Knowledge”, *Res Philosophica*, 90(2): 261–275. doi:10.11612/resphil.2013.90.2.10
+* Olsson, Erik J., 2011, “The Value of Knowledge”, *Philosophy Compass* 6(12): 874–883. doi:10.1111/j.1747-9991.2011.00425.x \[[Olsson 2011 available online](http://doi.wiley.com/10.1111/j.1747-9991.2011.00425.x)]
+* Riggs, Wayne D., 1998, “What are the ‘Chances’ of Being Justified?”, *The Monist*, 81: 452–472. doi:10.5840/monist199881319
+* –––, 2002b, “Beyond Truth and Falsehood: The Real Value of Knowing that p”, *Philosophical Studies*, 107(1): 87–108. doi:10.1023/A:1013162011443
 * –––, 2003, “Understanding ‘Virtue’ and the Virtue of Understanding”, in DePaul & Zagzebski 2003: 203–226.
-* –––, 2007, “The Value Turn in Epistemology”, in _New Waves in Epistemology_, Vincent F. Hendricks and Duncan H. Pritchard, London: Palgrave Macmillan.
-* –––, 2015, “Engel on Pragmatic Encroachment and Epistemic Value”, _Synthese_, 1–10.
-* Sosa, Ernest, 2000b, “Skepticism and Contextualism”, _Philosophical Issues_, 10: 1–18. doi:10.1111/0029-4624.34.s1.1
-* Whiting, Daniel, 2012, “Epistemic Value and Achievement”, _Ratio_, 25(2): 216–230. doi:10.1111/j.1467-9329.2012.00533.x
+* –––, 2007, “The Value Turn in Epistemology”, in *New Waves in Epistemology*, Vincent F. Hendricks and Duncan H. Pritchard, London: Palgrave Macmillan.
+* –––, 2015, “Engel on Pragmatic Encroachment and Epistemic Value”, *Synthese*, 1–10.
+* Sosa, Ernest, 2000b, “Skepticism and Contextualism”, *Philosophical Issues*, 10: 1–18. doi:10.1111/0029-4624.34.s1.1
+* Whiting, Daniel, 2012, “Epistemic Value and Achievement”, *Ratio*, 25(2): 216–230. doi:10.1111/j.1467-9329.2012.00533.x
 * Zagzebski, Linda, 2001, “Recovering Understanding”, in Steup 2001: 235–252.
 * –––, 2003b, “Intellectual Motivation and the Good of Truth”, in DePaul & Zagzebski 2003: 135–154.
 * –––, 2004, “Epistemic Value Monism”, in Greco 2004: 190–198.
@@ -424,7 +422,7 @@ EMT 当然是非常有争议的（例如，见 Adams＆Aizawa 2008），因此�
 
 * Brogaard, Berit, 2005, “[I Know. Therefore, I Understand](https://philpapers.org/rec/BROIKT)”, manuscript, available at philpapers.org.
 * [Epistemic Value](http://epistemicvaluestirling.blogspot.com/), a weblog devoted to the topic of epistemic value.
-* [Epistemic Value](https://www.iep.utm.edu/ep-value/), entry by Patrick Bondy in the _Internet Encyclopedia of Philosophy_ (2015).
+* [Epistemic Value](https://www.iep.utm.edu/ep-value/), entry by Patrick Bondy in the *Internet Encyclopedia of Philosophy* (2015).
 
 ## Related Entries
 
@@ -432,9 +430,9 @@ EMT 当然是非常有争议的（例如，见 Adams＆Aizawa 2008），因此�
 
 ### Acknowledgments
 
-Thanks to Earl Conee, Alan Millar and several referees at the _Stanford Encyclopedia of Philosophy_ for useful comments on earlier versions of this entry.
+Thanks to Earl Conee, Alan Millar and several referees at the *Stanford Encyclopedia of Philosophy* for useful comments on earlier versions of this entry.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Duncan Pritchard](https://www.duncanpritchard.org/) <[_dhpritch@uci.edu_](mailto:dhpritch%40uci%2eedu)>\
-[John Turri](http://john.turri.org/) <[_john.turri@gmail.com_](mailto:john%2eturri%40gmail%2ecom)>\
-[J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[_jadamcarter@gmail.com_](mailto:jadamcarter%40gmail%2ecom)>
+[Duncan Pritchard](https://www.duncanpritchard.org/) <[*dhpritch@uci.edu*](mailto:dhpritch%40uci%2eedu)>\
+[John Turri](http://john.turri.org/) <[*john.turri@gmail.com*](mailto:john%2eturri%40gmail%2ecom)>\
+[J. Adam Carter](https://www.gla.ac.uk/schools/humanities/staff/jadamcarter/) <[*jadamcarter@gmail.com*](mailto:jadamcarter%40gmail%2ecom)>

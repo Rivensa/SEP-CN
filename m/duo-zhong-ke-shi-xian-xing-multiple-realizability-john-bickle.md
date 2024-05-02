@@ -1,12 +1,11 @@
 # 多重可实现性 multiple realizability (John Bickle)
 
-_首次发表于1998年11月23日；实质修订于2020年5月18日_
+*首次发表于1998年11月23日；实质修订于2020年5月18日*
 
 在心灵哲学中，多重实现性论主张一个单一的心理种类（属性、状态、事件）可以由许多不同的物理种类来实现。一个常见的例子是疼痛。许多哲学家认为，在描述的层面上没有共同特征的各种物理属性、状态或事件都可以实现相同的疼痛。这个论点作为对早期将心理状态与脑状态（心理神经或心脑同一理论）等同起来的理论的最有影响力的论证的前提。它也用于早期的功能主义论证。后来，非约化物理主义者采纳了这个前提和这些论证（通常没有改变）来挑战各种心理物理约化主义。这个论证甚至被用来挑战最初提出来支持的功能主义。约化主义者（和其他批评者）迅速提出了许多回应，最初是从多重实现性前提攻击反约化或反同一的结论，或者提倡适应多重实现性的约化关系的解释。最近，攻击多重实现性前提本身已经成为一种时尚。最近出现了第一本关于多重实现性及其哲学意义的专著。
 
 这个条目主要按照时间顺序进行，以显示这个主题的历史发展。它的主要关注点是心灵哲学和认知科学，但也指出了最近在科学形而上学方面关注的转变。值得一提的是，多重实现性在物理学（例如，Batterman 2000）、生物化学（Tahko 即将出版）和合成生物学（Koskinen 2019a,b）中都有所提及。经过五十多年的详细哲学讨论，似乎对这个持久问题的新思想没有尽头。
 
- 
 ***
 
 ## 1. 多重可实现性论证
@@ -294,73 +293,73 @@ Mark Couch（2018）对 Polger 和 Shapiro 关于多重实现的一般描述表�
 
 ## Bibliography
 
-* Aizawa, Kenneth, 2007, “The Biochemistry of Memory Consolidation: A Model System for the Philosophy of Mind”, _Synthese_, 155(1): 65–98. doi:10.1007/s11229-005-2566-9
-* –––, 2009, “Neuroscience and Multiple Realization: A Reply to Bechtel and Mundale”, _Synthese_, 167(3): 493–510. doi:10.1007/s11229-008-9388-5
-* –––, 2013, “Multiple Realizability by Compensatory Differences”, _European Journal for Philosophy of Science_ 3(1): 69-86. doi:10.1007/s13194-012-0058-6
-* Aizawa, Kenneth and Carl Gillett, 2009a, “The (Multiple) Realization of Psychological and Other Properties in the Sciences”, _Mind & Language_, 24(2): 181–208. doi:10.1111/j.1468-0017.2008.01359.x
-* –––, 2009b, “Levels, Individual Variation, and Massive Multiple Realization in Neurobiology”, in John Bickle (ed.), _Oxford Handbook of Philosophy and Neuroscience_, New York: Oxford University Press, 529–581.
-* –––, 2011, “The Autonomy of Psychology in the Age of Neuroscience”, in _Causality in the Sciences_, Phyllis McKay Illari, Federica Russo, and Jon Williamson (eds.), Oxford: Oxford University Press, 202–223. doi:10.1093/acprof:oso/9780199574131.003.0010
-* Baysan, Umut, 2018, “Review: _The Multiple Realization Book_ by Thomas W. Polger and Lawrence A. Shapiro”, _Analysis_, 78(1): 177–180. doi:10.1093/analys/anx078
-* Batterman, Robert W., 2000, “Multiple Realizability and Universality”, _The British Journal for the Philosophy of Science_, 51(1): 115–145. doi:10.1093/bjps/51.1.115
-* Bechtel, William, 2009, “Molecules, Systems, and Behavior: Another View of Memory Consolidation”, in John Bickle (ed.), _The Oxford Handbook of Philosophy and Neuroscience_, New York: Oxford University Press, 13–40.
-* Bechtel, William and Robert McCauley, 1999, “Heuristic Identity Theory (or Back to the Future): the Mind-Body Problem Against the Background of Research Strategies in Cognitive Neuroscience”, _Proceedings of the 21st Annual Meeting of the Cognitive Science Society_, Mahwah, NJ: Lawrence Erlbaum Associates.
-* Bechtel, William and Jennifer Mundale, 1999, “Multiple Realizability Revisited: Linking Cognitive and Neural States”, _Philosophy of Science_, 66(2): 175–207. doi:10.1086/392683
-* Bickle, John, 1998, _Psychoneural Reduction: The New Wave_, Cambridge, MA: MIT Press.
-* –––, 2003, _Philosophy and Neuroscience: A Ruthlessly Reductive Account_, Dordrecht: Kluwer.
-* –––, 2010, “Has the Last Decade of Challenges to the Multiple Realization Argument Provided Aid and Comfort to Psychoneural Reductionists?”, _Synthese_, 177(2): 247–260. doi:10.1007/s11229-010-9843-y
-* Block, Ned, 1978, “Troubles with Functionalism”, in. C.W. Savage (ed.), _Perception and Cognition: Issues in the Foundations of Psychology. Minnesota Studies in the Philosophy of Science_, vol. 9, Minneapolis, MN: University of Minnesota Press, 261–325.
-* Block, Ned J. and Jerry A. Fodor, 1972, “What Psychological States Are Not”, _The Philosophical Review_, 81(2): 159–181. doi:10.2307/2183991
-* Booth, Danny, 2018, “The Multiple Realization Book”, _Philosophical Psychology_, 31(3): 431–445. doi:10.1080/09515089.2017.1381677
-* Chirimuuta, Mazviita, 2018, “Marr, Mayr, and MR: What Functionalism Should Now Be About”, _Philosophical Psychology_, 31(3): 403–418. doi:10.1080/09515089.2017.1381679
-* Churchland, Patricia, 1986, _Neurophilosophy_, Cambridge, MA: MIT Press.
-* Churchland, Paul M., 1982, “Is Thinker a Natural Kind?”, _Dialogue_, 21(2): 223–238. doi:10.1017/S001221730001636X
-* Couch, Mark B., 2004, “Discussion: A Defense of Bechtel and Mundale”, _Philosophy of Science_, 71(2): 198–204. doi:10.1086/383011
-* –––, 2018, “Some Concerns with Polger and Shapiro’s View”, _Philosophical Psychology_, 31(3): 419–430. doi:10.1080/09515089.2017.1381678
-* Dubnau, Josh and Tim Tully, 1998, “Gene Discovery in _Drosophila_: New Insights for Learning and Memory”, _Annual Review of Neuroscience_, 21(1): 407–444. doi:10.1146/annurev.neuro.21.1.407
-* Edelman, Gerald M. and Joseph A. Gally, 2001, “Degeneracy and Complexity in Biological Systems”, _Proceedings of the National Academy of Sciences_, 98(24): 13763–13768. doi:10.1073/pnas.231499798
-* Enç, Berent, 1983, “In Defense of the Identity Theory”, _The Journal of Philosophy_, 80(5): 279–298. doi:10.2307/2026499
-* Endicott, Ronald P., 1993, “Species-Specific Properties and More Narrow Reductive Strategies”, _Erkenntnis_, 38(3): 303–321. doi:10.1007/BF01128233
-* –––, 2017, “The Counter-Revolution over Multiple Realization: Thomas W. Polger and Lawrence A. Shapiro: _The Multiple Realization Book_”, _Metascience_, 26(2): 229–232. doi:10.1007/s11016-017-0202-1
-* Figdor, Carrie, 2010, “Neuroscience and the Multiple Realization of Cognitive Functions”, _Philosophy of Science_, 77(3): 419–456. doi:10.1086/652964
-* Fodor, Jerry A., 1974, “Special Sciences (or: The Disunity of Science as a Working Hypothesis)”, _Synthese_, 28(2): 97–115. doi:10.1007/BF00485230
-* –––, 1975, _The Language of Thought_, New York: Thomas Crowell.
-* Gillett, Carl, 2002, “The Dimensions of Realization: A Critique of the Standard View”, _Analysis_, 62(4): 316–323. doi:10.1093/analys/62.4.316
-* –––, 2003, “The Metaphysics of Realization, Multiple Realization and the Special Sciences”, _Journal of Philosophy_, 100(11): 591–603
-* Gozzano, Simone and Christopher S. Hill (eds.), 2012, _New Perspectives on Type Identity: The Mental and the Physical_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511687068
-* Hooker, Clifford A., 1981, “Towards a General Theory of Reduction. Part III: Cross-Categorical Reduction”, _Dialogue_, 20(3): 496–529. doi:10.1017/S0012217300023593
-* Horgan, Terence, 1993, “Nonreductive Materialism and the Explanatory Autonomy of Psychology”, in S. Wagner and R. Warner (eds.), _Naturalism: A Critical Appraisal_, Notre Dame, IN: University of Notre Dame Press, 295–320.
-* Kaplan, David Michael and Carl F. Craver, 2011, “The Explanatory Force of Dynamical and Mathematical Models in Neuroscience: A Mechanistic Perspective”, _Philosophy of Science_, 78(4): 601–627. doi:10.1086/661755
-* Kim, Jaegwon, 1989, “The Myth of Nonreductive Physicalism”, _Proceedings and Addresses of the American Philosophical Association_, 63(3): 31–47.
-* –––, 1992, “Multiple Realization and the Metaphysics of Reduction”, _Philosophy and Phenomenological Research_, 52(1): 1–26. doi:10.2307/2107741
-* Klein, Colin, 2008, “An Ideal Solution to Disputes about Multiply Realized Kinds”, _Philosophical Studies_, 140(2): 161–177. doi:10.1007/s11098-007-9135-7
-* –––, 2013, “Multiple Realizability and the Semantic View of Theories”, _Philosophical Studies_, 163(3): 683–695. doi:10.1007/s11098-011-9839-6
-* Koskinen, Rami, 2019a, “Multiple Realizability and Biological Modality”, _Philosophy of Science_, 86(5): 1123–1133. doi:10.1086/705478
-* –––, 2019b, “Multiple Realizability as a Design Heuristic in Biological Engineering”, _European Journal for Philosophy of Science_, 9(1): art. 15. doi:10.1007/s13194-018-0243-3
-* LePore, Ernest and Barry Loewer, 1989, “More on Making Mind Matter”, _Philosophical Topics_, 17(1): 175–191.
-* Lewis, David, 1969, “Art, Mind, and Religion”, _Journal of Philosophy_, 66(1): 22–27. doi:10.2307/2024154
-* –––, 1983, “Mad Pain and Martian Pain” and “Postscript”, in D. Lewis (ed.), _Philosophical Papers, vo. 1_, New York: Oxford University Press, 122–132.
-* Lycan, William, 1987, _Consciousness_, Cambridge, MA: MIT Press.
-* Nagel, Ernest, 1961, _The Structure of Science_, New York: Harcourt, Brace, and World.
-* Oppenheim, Paul and Hilary Putnam, 1958, “The Unity of Science as a Working Hypothesis”, _Minnesota Studies in the Philosophy of Science_, 2: 3–36.
-* Polger, Thomas W., 2004, _Natural Minds_, Cambridge, MA: MIT Press.
-* –––, 2009, “Evaluating the Evidence for Multiple Realization”, _Synthese_, 167(3): 457–472. doi:10.1007/s11229-008-9386-7
-* Polger, Thomas and Lawrence Shapiro, 2016, _The Multiple Realization Book_, New York: Oxford University Press.
-* –––, 2018, “Responses to Critics”, _Philosophical Psychology_, 31(3): 446–457. doi:10.1080/09515089.2018.1430757
-* Putnam, Hilary, 1967, “Psychological Predicates”, in W.H. Capitan and D.D. Merrill (eds.), _Art, Mind, and Religion_, Pittsburgh: University of Pittsburgh Press, 37–48.
-* –––, 1988, _Representation and Reality_, Cambridge, MA: MIT Press.
-* Pylyshyn, Zenon, 1984, _Computation and Cognition_, Cambridge, MA: MIT Press.
-* Richardson, Robert C., 1979, “Functionalism and Reductionism”, _Philosophy of Science_, 46(4): 533–558. doi:10.1086/288895
-* Shapiro, Lawrence A., 2000, “Multiple Realizations”, _The Journal of Philosophy_, 97(12): 635–654. doi:10.2307/2678460
-* –––, 2008, “How to Test for Multiple Realization”, _Philosophy of Science_, 75(5): 514–525. doi:10.1086/594503
-* –––, 2018, “Reduction Redux”, _Studies n the History and Philosophy of Science_, 68: 10–19. doi:10.1016/j.shpsa.2017.11.004
+* Aizawa, Kenneth, 2007, “The Biochemistry of Memory Consolidation: A Model System for the Philosophy of Mind”, *Synthese*, 155(1): 65–98. doi:10.1007/s11229-005-2566-9
+* –––, 2009, “Neuroscience and Multiple Realization: A Reply to Bechtel and Mundale”, *Synthese*, 167(3): 493–510. doi:10.1007/s11229-008-9388-5
+* –––, 2013, “Multiple Realizability by Compensatory Differences”, *European Journal for Philosophy of Science* 3(1): 69-86. doi:10.1007/s13194-012-0058-6
+* Aizawa, Kenneth and Carl Gillett, 2009a, “The (Multiple) Realization of Psychological and Other Properties in the Sciences”, *Mind & Language*, 24(2): 181–208. doi:10.1111/j.1468-0017.2008.01359.x
+* –––, 2009b, “Levels, Individual Variation, and Massive Multiple Realization in Neurobiology”, in John Bickle (ed.), *Oxford Handbook of Philosophy and Neuroscience*, New York: Oxford University Press, 529–581.
+* –––, 2011, “The Autonomy of Psychology in the Age of Neuroscience”, in *Causality in the Sciences*, Phyllis McKay Illari, Federica Russo, and Jon Williamson (eds.), Oxford: Oxford University Press, 202–223. doi:10.1093/acprof:oso/9780199574131.003.0010
+* Baysan, Umut, 2018, “Review: *The Multiple Realization Book* by Thomas W. Polger and Lawrence A. Shapiro”, *Analysis*, 78(1): 177–180. doi:10.1093/analys/anx078
+* Batterman, Robert W., 2000, “Multiple Realizability and Universality”, *The British Journal for the Philosophy of Science*, 51(1): 115–145. doi:10.1093/bjps/51.1.115
+* Bechtel, William, 2009, “Molecules, Systems, and Behavior: Another View of Memory Consolidation”, in John Bickle (ed.), *The Oxford Handbook of Philosophy and Neuroscience*, New York: Oxford University Press, 13–40.
+* Bechtel, William and Robert McCauley, 1999, “Heuristic Identity Theory (or Back to the Future): the Mind-Body Problem Against the Background of Research Strategies in Cognitive Neuroscience”, *Proceedings of the 21st Annual Meeting of the Cognitive Science Society*, Mahwah, NJ: Lawrence Erlbaum Associates.
+* Bechtel, William and Jennifer Mundale, 1999, “Multiple Realizability Revisited: Linking Cognitive and Neural States”, *Philosophy of Science*, 66(2): 175–207. doi:10.1086/392683
+* Bickle, John, 1998, *Psychoneural Reduction: The New Wave*, Cambridge, MA: MIT Press.
+* –––, 2003, *Philosophy and Neuroscience: A Ruthlessly Reductive Account*, Dordrecht: Kluwer.
+* –––, 2010, “Has the Last Decade of Challenges to the Multiple Realization Argument Provided Aid and Comfort to Psychoneural Reductionists?”, *Synthese*, 177(2): 247–260. doi:10.1007/s11229-010-9843-y
+* Block, Ned, 1978, “Troubles with Functionalism”, in. C.W. Savage (ed.), *Perception and Cognition: Issues in the Foundations of Psychology. Minnesota Studies in the Philosophy of Science*, vol. 9, Minneapolis, MN: University of Minnesota Press, 261–325.
+* Block, Ned J. and Jerry A. Fodor, 1972, “What Psychological States Are Not”, *The Philosophical Review*, 81(2): 159–181. doi:10.2307/2183991
+* Booth, Danny, 2018, “The Multiple Realization Book”, *Philosophical Psychology*, 31(3): 431–445. doi:10.1080/09515089.2017.1381677
+* Chirimuuta, Mazviita, 2018, “Marr, Mayr, and MR: What Functionalism Should Now Be About”, *Philosophical Psychology*, 31(3): 403–418. doi:10.1080/09515089.2017.1381679
+* Churchland, Patricia, 1986, *Neurophilosophy*, Cambridge, MA: MIT Press.
+* Churchland, Paul M., 1982, “Is Thinker a Natural Kind?”, *Dialogue*, 21(2): 223–238. doi:10.1017/S001221730001636X
+* Couch, Mark B., 2004, “Discussion: A Defense of Bechtel and Mundale”, *Philosophy of Science*, 71(2): 198–204. doi:10.1086/383011
+* –––, 2018, “Some Concerns with Polger and Shapiro’s View”, *Philosophical Psychology*, 31(3): 419–430. doi:10.1080/09515089.2017.1381678
+* Dubnau, Josh and Tim Tully, 1998, “Gene Discovery in *Drosophila*: New Insights for Learning and Memory”, *Annual Review of Neuroscience*, 21(1): 407–444. doi:10.1146/annurev.neuro.21.1.407
+* Edelman, Gerald M. and Joseph A. Gally, 2001, “Degeneracy and Complexity in Biological Systems”, *Proceedings of the National Academy of Sciences*, 98(24): 13763–13768. doi:10.1073/pnas.231499798
+* Enç, Berent, 1983, “In Defense of the Identity Theory”, *The Journal of Philosophy*, 80(5): 279–298. doi:10.2307/2026499
+* Endicott, Ronald P., 1993, “Species-Specific Properties and More Narrow Reductive Strategies”, *Erkenntnis*, 38(3): 303–321. doi:10.1007/BF01128233
+* –––, 2017, “The Counter-Revolution over Multiple Realization: Thomas W. Polger and Lawrence A. Shapiro: *The Multiple Realization Book*”, *Metascience*, 26(2): 229–232. doi:10.1007/s11016-017-0202-1
+* Figdor, Carrie, 2010, “Neuroscience and the Multiple Realization of Cognitive Functions”, *Philosophy of Science*, 77(3): 419–456. doi:10.1086/652964
+* Fodor, Jerry A., 1974, “Special Sciences (or: The Disunity of Science as a Working Hypothesis)”, *Synthese*, 28(2): 97–115. doi:10.1007/BF00485230
+* –––, 1975, *The Language of Thought*, New York: Thomas Crowell.
+* Gillett, Carl, 2002, “The Dimensions of Realization: A Critique of the Standard View”, *Analysis*, 62(4): 316–323. doi:10.1093/analys/62.4.316
+* –––, 2003, “The Metaphysics of Realization, Multiple Realization and the Special Sciences”, *Journal of Philosophy*, 100(11): 591–603
+* Gozzano, Simone and Christopher S. Hill (eds.), 2012, *New Perspectives on Type Identity: The Mental and the Physical*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511687068
+* Hooker, Clifford A., 1981, “Towards a General Theory of Reduction. Part III: Cross-Categorical Reduction”, *Dialogue*, 20(3): 496–529. doi:10.1017/S0012217300023593
+* Horgan, Terence, 1993, “Nonreductive Materialism and the Explanatory Autonomy of Psychology”, in S. Wagner and R. Warner (eds.), *Naturalism: A Critical Appraisal*, Notre Dame, IN: University of Notre Dame Press, 295–320.
+* Kaplan, David Michael and Carl F. Craver, 2011, “The Explanatory Force of Dynamical and Mathematical Models in Neuroscience: A Mechanistic Perspective”, *Philosophy of Science*, 78(4): 601–627. doi:10.1086/661755
+* Kim, Jaegwon, 1989, “The Myth of Nonreductive Physicalism”, *Proceedings and Addresses of the American Philosophical Association*, 63(3): 31–47.
+* –––, 1992, “Multiple Realization and the Metaphysics of Reduction”, *Philosophy and Phenomenological Research*, 52(1): 1–26. doi:10.2307/2107741
+* Klein, Colin, 2008, “An Ideal Solution to Disputes about Multiply Realized Kinds”, *Philosophical Studies*, 140(2): 161–177. doi:10.1007/s11098-007-9135-7
+* –––, 2013, “Multiple Realizability and the Semantic View of Theories”, *Philosophical Studies*, 163(3): 683–695. doi:10.1007/s11098-011-9839-6
+* Koskinen, Rami, 2019a, “Multiple Realizability and Biological Modality”, *Philosophy of Science*, 86(5): 1123–1133. doi:10.1086/705478
+* –––, 2019b, “Multiple Realizability as a Design Heuristic in Biological Engineering”, *European Journal for Philosophy of Science*, 9(1): art. 15. doi:10.1007/s13194-018-0243-3
+* LePore, Ernest and Barry Loewer, 1989, “More on Making Mind Matter”, *Philosophical Topics*, 17(1): 175–191.
+* Lewis, David, 1969, “Art, Mind, and Religion”, *Journal of Philosophy*, 66(1): 22–27. doi:10.2307/2024154
+* –––, 1983, “Mad Pain and Martian Pain” and “Postscript”, in D. Lewis (ed.), *Philosophical Papers, vo. 1*, New York: Oxford University Press, 122–132.
+* Lycan, William, 1987, *Consciousness*, Cambridge, MA: MIT Press.
+* Nagel, Ernest, 1961, *The Structure of Science*, New York: Harcourt, Brace, and World.
+* Oppenheim, Paul and Hilary Putnam, 1958, “The Unity of Science as a Working Hypothesis”, *Minnesota Studies in the Philosophy of Science*, 2: 3–36.
+* Polger, Thomas W., 2004, *Natural Minds*, Cambridge, MA: MIT Press.
+* –––, 2009, “Evaluating the Evidence for Multiple Realization”, *Synthese*, 167(3): 457–472. doi:10.1007/s11229-008-9386-7
+* Polger, Thomas and Lawrence Shapiro, 2016, *The Multiple Realization Book*, New York: Oxford University Press.
+* –––, 2018, “Responses to Critics”, *Philosophical Psychology*, 31(3): 446–457. doi:10.1080/09515089.2018.1430757
+* Putnam, Hilary, 1967, “Psychological Predicates”, in W.H. Capitan and D.D. Merrill (eds.), *Art, Mind, and Religion*, Pittsburgh: University of Pittsburgh Press, 37–48.
+* –––, 1988, *Representation and Reality*, Cambridge, MA: MIT Press.
+* Pylyshyn, Zenon, 1984, *Computation and Cognition*, Cambridge, MA: MIT Press.
+* Richardson, Robert C., 1979, “Functionalism and Reductionism”, *Philosophy of Science*, 46(4): 533–558. doi:10.1086/288895
+* Shapiro, Lawrence A., 2000, “Multiple Realizations”, *The Journal of Philosophy*, 97(12): 635–654. doi:10.2307/2678460
+* –––, 2008, “How to Test for Multiple Realization”, *Philosophy of Science*, 75(5): 514–525. doi:10.1086/594503
+* –––, 2018, “Reduction Redux”, *Studies n the History and Philosophy of Science*, 68: 10–19. doi:10.1016/j.shpsa.2017.11.004
 * Shapiro, Lawrence and Thomas Polger, 2012, “Identity, Variability, and Multiple Realization in the Special Sciences”, In Gozzano and Hill 2012: 264–286.
-* Sharma, Jitendra, Alessandra Angelucci, and Mriganka Sur, 2000, “Induction of Visual Orientation Modules in Auditory Cortex”, _Nature_, 404(6780): 841–847. doi:10.1038/35009043
-* Sober, Elliott, 1999, “The Multiple Realizability Argument against Reductionism”, _Philosophy of Science_, 66(4): 542–564. doi:10.1086/392754
-* Tahko, Tuomas E, forthcoming, “Where Do You Get Your Protein? Or: Biochemical Realization”, _The British Journal for the Philosophy of Science_, first online: 2 August 2019. doi:10.1093/bjps/axy044
-* Tomberlin, James (ed.), 1997, _Philosophical Perspectives 11: Mind, Causation, and World_, Boston: Blackwell.
-* Woodward, James, 2003, _Making Things Happen: A Theory of Causal Explanation_, New York: Oxford University Press.
-* –––, forthcoming, “Explanatory Autonomy: The Role of Proportionality, Stability, and Conditional Irrelevance”, _Synthese_, first online: 31 October 2018. doi:10.1007/s11229-018-01998-6
-* Zangwill, Nick, 1992, “Variable Realization: Not Proved”, _The Philosophical Quarterly_, 42(167): 214–219. doi:10.2307/2220216
+* Sharma, Jitendra, Alessandra Angelucci, and Mriganka Sur, 2000, “Induction of Visual Orientation Modules in Auditory Cortex”, *Nature*, 404(6780): 841–847. doi:10.1038/35009043
+* Sober, Elliott, 1999, “The Multiple Realizability Argument against Reductionism”, *Philosophy of Science*, 66(4): 542–564. doi:10.1086/392754
+* Tahko, Tuomas E, forthcoming, “Where Do You Get Your Protein? Or: Biochemical Realization”, *The British Journal for the Philosophy of Science*, first online: 2 August 2019. doi:10.1093/bjps/axy044
+* Tomberlin, James (ed.), 1997, *Philosophical Perspectives 11: Mind, Causation, and World*, Boston: Blackwell.
+* Woodward, James, 2003, *Making Things Happen: A Theory of Causal Explanation*, New York: Oxford University Press.
+* –––, forthcoming, “Explanatory Autonomy: The Role of Proportionality, Stability, and Conditional Irrelevance”, *Synthese*, first online: 31 October 2018. doi:10.1007/s11229-018-01998-6
+* Zangwill, Nick, 1992, “Variable Realization: Not Proved”, *The Philosophical Quarterly*, 42(167): 214–219. doi:10.2307/2220216
 
 ## Academic Tools
 
@@ -372,8 +371,8 @@ Mark Couch（2018）对 Polger 和 Shapiro 关于多重实现的一般描述表�
 
 ## Other Internet Resources
 
-* [Mind and Multiple Realizability](https://www.iep.utm.edu/m/mult-rea.htm), entry by William Jaworski, _Internet Encyclopedia of Philosophy_.
-* [On Multiple Realization](https://blog.apaonline.org/2017/05/10/on-multiple-realization/), by Thomas W. Polger and Lawrence Shapiro, _OUPblog_, 10 May 2017
+* [Mind and Multiple Realizability](https://www.iep.utm.edu/m/mult-rea.htm), entry by William Jaworski, *Internet Encyclopedia of Philosophy*.
+* [On Multiple Realization](https://blog.apaonline.org/2017/05/10/on-multiple-realization/), by Thomas W. Polger and Lawrence Shapiro, *OUPblog*, 10 May 2017
 
 ## Related Entries
 
@@ -384,4 +383,4 @@ Mark Couch（2018）对 Polger 和 Shapiro 关于多重实现的一般描述表�
 Mara McGuire assisted greatly with the research for [section 4](https://plato.stanford.edu/entries/multiple-realizability/#MultRealBookInitCritRece). Thanks also to Mark Couch, Carrie Figdor, Mahi Hardelupas, Thomas Polger, and Lawrence Shapiro for helpful comments on an earlier draft of this latest revision/update. Thanks to an anonymous reviewer for suggestions for improvement and for reminding me about some literature I had overlooked.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[John Bickle](http://www.philosophyandreligion.msstate.edu/faculty/bickle.php) <[_jb1681@msstate.edu_](mailto:jb1681%40msstate%2eedu)>
+[John Bickle](http://www.philosophyandreligion.msstate.edu/faculty/bickle.php) <[*jb1681@msstate.edu*](mailto:jb1681%40msstate%2eedu)>

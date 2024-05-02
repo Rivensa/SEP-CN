@@ -1,4 +1,4 @@
-# 伦理学和政治哲学中的自主权 in moral and political philosophy (John Christman) 
+# 伦理学和政治哲学中的自主权 in moral and political philosophy (John Christman)
 
 *首次发表于 2003 年 7 月 28 日；实质修订于 2020 年 6 月 29 日*
 

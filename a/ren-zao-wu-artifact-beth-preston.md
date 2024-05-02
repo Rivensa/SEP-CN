@@ -1,13 +1,12 @@
 # 人造物 artifact (Beth Preston)
 
-_首次发布于 2018 年 7 月 18 日；实质性修订于 2022 年 10 月 3 日_
+*首次发布于 2018 年 7 月 18 日；实质性修订于 2022 年 10 月 3 日*
 
 当代世界无处不在的是人造物。即使是我们最平凡的、基于生物的活动，比如吃饭、睡觉和性行为，也依赖于与人造物的互动。此外，我们每天遇到的许多植物和动物都可以被归类为生物人造物（Sperber 2007）。但与语言不同——语言也从头到尾贯穿人类生活——人造物本身并不是任何明确定义的哲学研究领域的主题。这在今天和西方哲学的整个历史中都是如此（Dipert 1993）。
 
 技术哲学可能扮演了这个角色，但从历史上看并没有这样做。虽然其根源可以追溯到 19 世纪，但技术哲学直到 20 世纪下半叶才成为一个广为认可的专业领域。这个早期阶段主要由所谓的“人文技术哲学”（Mitcham 1994）主导。受到马丁·海德格尔（1954 \[1977]）的开创性论文《关于技术的问题》的深刻影响，这一流派的技术哲学主要关注工业和后工业技术对文化和社会的影响。在过去几十年中，技术哲学的另一流派，被称为“分析”（Franssen, Lokhorst, & van de Poel 2018）或“工程”（Mitcham 1994）技术哲学，逐渐崭露头角。它专注于现代科学和工程实践中技术的起源。因此，技术哲学几乎完全集中在现代和新兴技术上，而不是一般的人造物上。
 
 本文的目的是将哲学中有时分散在不同领域的人造物讨论汇集在一起，同时还包括其他学科中相关的讨论。第一部分涉及定义问题。第二部分关注人造物的形而上学问题。第三部分转向认识论问题。此外，人造物还涉及重要的规范问题，但这些问题在本百科全书的其他文章中有所涉及，详见下方的相关条目部分。
-
 
 ***
 
@@ -81,7 +80,7 @@ Elder 的观点被公认存在一个问题，即许多曾经的人造物种类�
 
 阿米·托马森（Amie Thomasson）并不担心这一点。在一系列重要的论文（2003 年；2007b 年；2014 年）中，她指出，对于种类的现实主义者来说，并不需要在展示人造物种类可以在与自然种类相互独立的模型上理解，或者否认人造物种类的真实性之间做出选择。还有第三种选择——否认心灵独立性是现实的试金石。托马森随后将人类意图及其历史联系融入她对人造物种类的解释中。
 
-> 对于所有的_x_和所有的人造物种类_K_，如果_x_是_K_，那么_x_必须是一个主要成功意图的产物（_Kx_），其中一个只有在拥有与某些先前的_K_制造者（如果有的话）的本质相当匹配的_K_的实质性概念，并且通过在物体上施加与_K_相关的特征来实现该概念，才能有意图地制造(_Kx_)。（托马森，2003 年，600 页）
+> 对于所有的_x_和所有的人造物种类_K_，如果_x_是_K_，那么_x_必须是一个主要成功意图的产物（*Kx*），其中一个只有在拥有与某些先前的_K_制造者（如果有的话）的本质相当匹配的_K_的实质性概念，并且通过在物体上施加与_K_相关的特征来实现该概念，才能有意图地制造(*Kx*)。（托马森，2003 年，600 页）
 
 因此，对于汤马森来说，人类的意图和概念实际上构成了人造物种类。汤马森（2014）还反对普遍假设人造物种类的概念仅围绕着预期的功能展开。虽然在英语中，我们通常根据功能来标记人造物种类，比如手电筒、床罩、针垫、煎锅等，但人造物实际上具有一系列在其概念中起作用的特征。这些特征包括结构或可感知的特征，例如，这些特征通常也反映在我们的术语中，比如扶手椅、三脚架、斑马线（绝对不是功能指定！）、叉子等。对于汤马森来说，最重要的是，它们还包括与该种类人造物如何被对待或看待有关的规范特征。尽管海绵和纸巾都可以用来擦拭溢出的液体，但把纸巾丢掉而清洁并重复使用海绵是正常的。
 
@@ -153,7 +152,7 @@ Steven Vogel（2003 年；2015 年）认为，无法对人造物与自然之间�
 
 对我们的目的来说，重要的一点是，沃格尔的后自然环境哲学建立在对自然-人造物分类的彻底拒绝之上。他首先声称，我们对自然的概念已经是多样的，并且并不总是仔细区分，充斥着产生矛盾的模糊性。这种认识论的回流使我们陷入怀旧，无法真正看到和解决环境问题的实际存在。特别是，我们无法看到生态恢复并不按照传统定义产生人造物，因为恢复区域的设计恰恰是为了逃离我们的设计和超越我们的意图。因此，它们在一个完全直接的意义上是“野生”的。此外，沃格尔认为，所有人类的产物，包括人造物，在这个意义上都是野生的。沃格尔强调的是人造物超越了我们所有创造意图的方式，而不是像普雷斯顿和斯珀伯那样专注于无意中的创造。
 
-> 建造一个人造物需要一路黑盒子：_设计和建造任何东西都需要预设一整套我们不设计的过程_，而这些过程的运作超出了我们的理解和意图，对于建造来说是必要的。在每个人造物的构建中，建造者行动的意图与其行为的后果之间存在一个不可消除的差距，这个差距实际上构成了构建某物的本质，而在这个差距中存在着我之前所称的野性。（沃格尔，2015 年，113 页）
+> 建造一个人造物需要一路黑盒子：*设计和建造任何东西都需要预设一整套我们不设计的过程*，而这些过程的运作超出了我们的理解和意图，对于建造来说是必要的。在每个人造物的构建中，建造者行动的意图与其行为的后果之间存在一个不可消除的差距，这个差距实际上构成了构建某物的本质，而在这个差距中存在着我之前所称的野性。（沃格尔，2015 年，113 页）
 
 因此，传统对“artifact（人造物）”的定义——有意为之制作的东西——虽然在某种程度上是正确的，但只是浅尝辄止，使我们在对现象的全面范围和深度方面处于认识上的劣势。
 
@@ -169,7 +168,7 @@ Vogel 在环境伦理学上的立场与早期关于指称的争议有着有趣�
 
 在一篇开创性的论文中，安迪·克拉克和大卫·查尔默斯（1998）提出了一个激进的观点，即心灵超越了大脑和身体，延伸到环境之外。在他们现在著名的例子中，有两个人物，英嘉和奥托，听说现代艺术博物馆有一个有趣的展览。英嘉是典型的神经类型。她记得博物馆的地址并前往那里。另一方面，奥托患有阿尔茨海默病。因为他很容易忘记事情，所以他保持着一个笔记本，上面写着他经常去的地方的地址。他查找了博物馆的地址并前往那里。这个例子的寓意是所谓的平等原则。
 
-如果在我们面对某个任务时，世界的一部分作为一个过程，_如果这个过程在我们的头脑中完成，我们毫不犹豫地会认识到它是认知过程的一部分_，那么我们声称，这部分世界是认知过程的一部分。（克拉克和查尔默斯，1998 年，8 页）
+如果在我们面对某个任务时，世界的一部分作为一个过程，*如果这个过程在我们的头脑中完成，我们毫不犹豫地会认识到它是认知过程的一部分*，那么我们声称，这部分世界是认知过程的一部分。（克拉克和查尔默斯，1998 年，8 页）
 
 这个主张旨在作为心灵形而上学的论文，但它同样适用于关于人造物认知状态的论文。在奥托的案例中——克拉克和查尔默斯明确表示这不是一个特例，而是一个特别引人注目的普遍情况——笔记本本身就是认知的。它是一个广泛个体化的认知过程的重要组成部分，而不是被封闭认知者使用的认知中性工具。对于扩展心灵论的批评者，虽然不算众多，但却非常坚持（梅纳里，2010 年）。但他们主要关注的是令人不安的形而上学含义，而不是同样重要的关于认知的含义。约翰·萨顿（2010 年）预见到平等原则的形而上学倾向将让位于理解内部和外部认知过程的互补性的重要工作，这是扩展心灵论所强调的。广泛个体化认知过程，使得研究的单位不是心灵/大脑，而是由紧密耦合的人造物、人们、建筑环境和自然环境组成的认知系统，这本身就是一个可行的项目，并且在扩展心灵论提出之前，许多领域已经在进行这样的项目。
 
@@ -179,125 +178,125 @@ _经典之地_是埃德温·哈钦斯（Edwin Hutchins）的《野外认知》�
 
 ## Bibliography
 
-* Aristotle, _Nichomachean Ethics, Metaphysics, Physics_, in Jonathan Barnes (ed.), _The Complete Works of Aristotle_, Volumes I and II, Princeton: Princeton University Press, 1984.
-* Baker, Lynne Rudder, 2007, _The Metaphysics of Everyday Life: An Essay in Practical Realism_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487545
-* Bloom, Paul, 1996, “Intention, History, and Artifact Concepts”, _Cognition_, 60(1): 1–29. doi:10.1016/0010-0277(95)00699-0
-* Boyd, Richard, 1999, “Homeostasis, Species, and Higher Taxa”, in Robert A. Wilson (ed.), _Species: New Interdisciplinary Essays_, Cambridge, MA: MIT Press, pp. 141–185.
-* Carey, Susan, 2009, _The Origin of Concepts_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195367638.001.0001
-* Clark, Andy, 1997, _Being There: Putting Brain, Body, and World Together Again_, Cambridge, MA: MIT Press.
-* Clark, Andy and David J. Chalmers, 1998, “The Extended Mind”, _Analysis_, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Cummins, Robert C., 1975, “Functional Analysis”, _The Journal of Philosophy_, 72(20): 741–765. doi:10.2307/2024640
-* Dipert, Randall R., 1993, _Artifacts, Art Works, and Agency_, Philadelphia: Temple University Press.
-* –––, 2014, “Artifact”, in Michael Kelly (ed.), _Encyclopedia of Aesthetics_, New York: Oxford University Press, second edition.
-* Dodd, Julian, 2000, “Musical Works as Eternal Types”, _British Journal of Aesthetics_, 40(4): 424–440. [doi:10.1093/bjaesthetics/40.4.424](https://doi.org/10.1093/bjaesthetics/40.4.424)
-* Donald, Merlin, 1991, _Origins of the Modern Mind_, Cambridge, MA: Harvard University Press.
-* Dupré, John, 1993, _The Disorder of Things: Metaphysical Foundations of the Disunity of Science_, Cambridge, MA: Harvard University Press.
-* Elder, Crawford L., 2004, _Real Natures and Familiar Objects_, Cambridge, MA: MIT Press.
+* Aristotle, *Nichomachean Ethics, Metaphysics, Physics*, in Jonathan Barnes (ed.), *The Complete Works of Aristotle*, Volumes I and II, Princeton: Princeton University Press, 1984.
+* Baker, Lynne Rudder, 2007, *The Metaphysics of Everyday Life: An Essay in Practical Realism*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487545
+* Bloom, Paul, 1996, “Intention, History, and Artifact Concepts”, *Cognition*, 60(1): 1–29. doi:10.1016/0010-0277(95)00699-0
+* Boyd, Richard, 1999, “Homeostasis, Species, and Higher Taxa”, in Robert A. Wilson (ed.), *Species: New Interdisciplinary Essays*, Cambridge, MA: MIT Press, pp. 141–185.
+* Carey, Susan, 2009, *The Origin of Concepts*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195367638.001.0001
+* Clark, Andy, 1997, *Being There: Putting Brain, Body, and World Together Again*, Cambridge, MA: MIT Press.
+* Clark, Andy and David J. Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
+* Cummins, Robert C., 1975, “Functional Analysis”, *The Journal of Philosophy*, 72(20): 741–765. doi:10.2307/2024640
+* Dipert, Randall R., 1993, *Artifacts, Art Works, and Agency*, Philadelphia: Temple University Press.
+* –––, 2014, “Artifact”, in Michael Kelly (ed.), *Encyclopedia of Aesthetics*, New York: Oxford University Press, second edition.
+* Dodd, Julian, 2000, “Musical Works as Eternal Types”, *British Journal of Aesthetics*, 40(4): 424–440. [doi:10.1093/bjaesthetics/40.4.424](https://doi.org/10.1093/bjaesthetics/40.4.424)
+* Donald, Merlin, 1991, *Origins of the Modern Mind*, Cambridge, MA: Harvard University Press.
+* Dupré, John, 1993, *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*, Cambridge, MA: Harvard University Press.
+* Elder, Crawford L., 2004, *Real Natures and Familiar Objects*, Cambridge, MA: MIT Press.
 * –––, 2007, “The Place of Artifacts in Ontology”, in Margolis and Laurence 2007: 33–51.
-* Elliot, Robert, 1997, _Faking Nature: The Ethics of Environmental Restoration_, London: Routledge.
-* Evnine, Simon J., 2016, _Making Objects and Events: A Hylomorphic Theory of Artifacts, Actions, and Organisms_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198779674.001.0001
-* Foucault, Michel, 1975 \[1977], _Discipline and Punish: The Birth of the Prison_ (_Surveiller et punir : Naissance de la prison_), Alan Sheridan (trans.), New York: Pantheon Books.
-* Franssen, Maarten, 2006, “The Normativity of Artefacts”, _Studies in History and Philosophy of Science_, 37(1): 42–57. doi:10.1016/j.shpsa.2005.12.006
+* Elliot, Robert, 1997, *Faking Nature: The Ethics of Environmental Restoration*, London: Routledge.
+* Evnine, Simon J., 2016, *Making Objects and Events: A Hylomorphic Theory of Artifacts, Actions, and Organisms*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198779674.001.0001
+* Foucault, Michel, 1975 \[1977], *Discipline and Punish: The Birth of the Prison* (*Surveiller et punir : Naissance de la prison*), Alan Sheridan (trans.), New York: Pantheon Books.
+* Franssen, Maarten, 2006, “The Normativity of Artefacts”, *Studies in History and Philosophy of Science*, 37(1): 42–57. doi:10.1016/j.shpsa.2005.12.006
 * –––, 2009, “Artefacts and Normativity”, in Meijers 2009: 923–952. doi:10.1016/B978-0-444-51667-1.50038-0
 * Franssen, Maarten and Peter Kroes, 2014, “Artefact Kinds, Ontological Criteria, and Forms of Mind-Dependence”, in Franssen, Kroes, Reydon, and Vermaas 2014: 63–84. doi:10.1007/978-3-319-00801-1\*5
-* Franssen, Maarten, Peter Kroes, Thomas A.C. Reydon, and Pieter E. Vermaas (eds.), 2014, _Artefact Kinds: Ontology and the Human-Made World_, Cham: Springer. doi:10.1007/978-3-319-00801-1
-* Franssen, Maarten, Gert-Jan Lokhorst, and Ibo van de Poel, 2018, “Philosophy of Technology”, _The Stanford Encyclopedia of Philosophy_ (Fall 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2018/entries/technology/](https://plato.stanford.edu/archives/fall2018/entries/technology/).
-* Frugé, Christopher, 2022, “Artifactual Normativity”, _Synthese_ 200: 126 doi:10.1007/s11229-022-03621-1
-* Gallagher, Shaun, 2005, _How the Body Shapes the Mind_, Oxford: Oxford University Press. doi:10.1093/0199271941.001.0001
-* Goehr, Lydia, 1992, _The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music_, Oxford: Clarendon Press.
-* Gould, James L. and Carol Grant Gould, 2007, _Animal Architects: Building and the Evolution of Intelligence_, New York: Basic Books.
+* Franssen, Maarten, Peter Kroes, Thomas A.C. Reydon, and Pieter E. Vermaas (eds.), 2014, *Artefact Kinds: Ontology and the Human-Made World*, Cham: Springer. doi:10.1007/978-3-319-00801-1
+* Franssen, Maarten, Gert-Jan Lokhorst, and Ibo van de Poel, 2018, “Philosophy of Technology”, *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2018/entries/technology/](https://plato.stanford.edu/archives/fall2018/entries/technology/).
+* Frugé, Christopher, 2022, “Artifactual Normativity”, *Synthese* 200: 126 doi:10.1007/s11229-022-03621-1
+* Gallagher, Shaun, 2005, *How the Body Shapes the Mind*, Oxford: Oxford University Press. doi:10.1093/0199271941.001.0001
+* Goehr, Lydia, 1992, *The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music*, Oxford: Clarendon Press.
+* Gould, James L. and Carol Grant Gould, 2007, *Animal Architects: Building and the Evolution of Intelligence*, New York: Basic Books.
 * Grandy, Richard E., 2007, “Artifacts: Parts and Principles”, in Margolis and Laurence 2007: 18–32.
-* Griffiths, Paul E., 1993, “Functional Analysis and Proper Functions”, _British Journal for the Philosophy of Science_, 44(3): 409–422. doi:10.1093/bjps/44.3.409
+* Griffiths, Paul E., 1993, “Functional Analysis and Proper Functions”, *British Journal for the Philosophy of Science*, 44(3): 409–422. doi:10.1093/bjps/44.3.409
 * Hazlett, Allan, 2012, “Against Repeatable Artworks”, in Mag Uidhir 2012: 161–178.
-* Heidegger, Martin, 1954 \[1977], “The Question Concerning Technology” (_Die Frage nach der Technik_), in _The Question Concerning Technology, And Other Essays_, William Lovitt (trans.), New York: Harper & Row.
-* Hilpinen, Risto, 1992, “Artifacts and Works of Art”, _Theoria_, 58(1): 58–82. doi:10.1111/j.1755-2567.1992.tb01155.x
-* –––, 1995, “Belief Systems as Artifacts”, _The Monist_, 78(2): 136–155. doi:10.5840/monist19957828
-* –––, 2011, “Artifact”, _The Stanford Encyclopedia of Philosophy_ (Winter 2011 Edition), Edward N. Zalta (ed.), URL = < [target=“other”>https://plato.stanford.edu/archives/win2011/entries/artifact/](https://plato.stanford.edu/archives/win2011/entries/artifact/)>.
-* Holm, Sune, 2017, “The Problem of Phantom Functions”, _Erkenntnis_, 82(1): 233–241. doi:10.1007/s10670-016-9814-x
-* Houkes, Wybo and Pieter E. Vermaas, 2004, “Actions Versus Functions: A Plea for an Alternative Metaphysics of Artifacts”, _The Monist_, 87(1): 52–71. doi:10.5840/monist20048712
-* –––, 2010, _Technical Functions: On the Use and Design of Artefacts_, Dordrecht: Springer. doi:10.1007/978-90-481-3900-2
-* Hutchins, Edwin, 1995, _Cognition in the Wild_, Cambridge, MA: MIT Press.
-* Ingold, Tim, 2013, _Making: Anthropology, Archaeology, Art and Architecture_, New York: Routledge.
-* Irmak, Nurbay, 2012, “Software is an Abstract Artifact”, _Grazer Philosophische Studien_, 86(1): 55–72.
-* —,2021, “The Problem of Creation and Abstract Artifacts”, _Synthese_, 198 (10): 9695–9708. doi:10.1007/s11229-020-02672-6
-* Katayama, Errol G., 1999, _Aristotle on Artifacts: A Metaphysical Puzzle_, Albany, NY: State University of New York Press.
-* Katz, Eric, 1997, _Nature as Subject: Human Obligation and Natural Community_, Lanham, MD: Rowman & Littlefield.
+* Heidegger, Martin, 1954 \[1977], “The Question Concerning Technology” (*Die Frage nach der Technik*), in *The Question Concerning Technology, And Other Essays*, William Lovitt (trans.), New York: Harper & Row.
+* Hilpinen, Risto, 1992, “Artifacts and Works of Art”, *Theoria*, 58(1): 58–82. doi:10.1111/j.1755-2567.1992.tb01155.x
+* –––, 1995, “Belief Systems as Artifacts”, *The Monist*, 78(2): 136–155. doi:10.5840/monist19957828
+* –––, 2011, “Artifact”, *The Stanford Encyclopedia of Philosophy* (Winter 2011 Edition), Edward N. Zalta (ed.), URL = < [target=“other”>https://plato.stanford.edu/archives/win2011/entries/artifact/](https://plato.stanford.edu/archives/win2011/entries/artifact/)>.
+* Holm, Sune, 2017, “The Problem of Phantom Functions”, *Erkenntnis*, 82(1): 233–241. doi:10.1007/s10670-016-9814-x
+* Houkes, Wybo and Pieter E. Vermaas, 2004, “Actions Versus Functions: A Plea for an Alternative Metaphysics of Artifacts”, *The Monist*, 87(1): 52–71. doi:10.5840/monist20048712
+* –––, 2010, *Technical Functions: On the Use and Design of Artefacts*, Dordrecht: Springer. doi:10.1007/978-90-481-3900-2
+* Hutchins, Edwin, 1995, *Cognition in the Wild*, Cambridge, MA: MIT Press.
+* Ingold, Tim, 2013, *Making: Anthropology, Archaeology, Art and Architecture*, New York: Routledge.
+* Irmak, Nurbay, 2012, “Software is an Abstract Artifact”, *Grazer Philosophische Studien*, 86(1): 55–72.
+* —,2021, “The Problem of Creation and Abstract Artifacts”, *Synthese*, 198 (10): 9695–9708. doi:10.1007/s11229-020-02672-6
+* Katayama, Errol G., 1999, *Aristotle on Artifacts: A Metaphysical Puzzle*, Albany, NY: State University of New York Press.
+* Katz, Eric, 1997, *Nature as Subject: Human Obligation and Natural Community*, Lanham, MD: Rowman & Littlefield.
 * Keil, Frank C., Marissa L. Greif, and Rebekkah S. Kerner, 2007, “A World Apart: How Concepts of the Constructed World Are Different in Representation and in Development”, in Margolis and Laurence 2007: 231–245.
 * Kelemen, Deborah, and Susan Carey, 2007, “The Essence of Artifacts: Developing the Design Stance”, in Margolis and Laurence 2007: 212–230.
-* Kendig, Catherine (ed.), 2016, _Natural Kinds and Classification in Scientific Practice_, London: Routledge.
-* Khalidi, Muhammad Ali, 2013, _Natural Categories and Human Kinds: Classification in The Natural and Social Sciences_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511998553
-* Kipfer, Barbara Ann, 2007, _Dictionary of Artifacts_, Malden: Blackwell Publishing.
-* Kirsh, David, 1995, “The Intelligent Use of Space”, _Artificial Intelligence_, 73(1–2): 31–68. doi:10.1016/0004-3702(94)00017-U
-* –––, 2009, “Problem Solving and Situated Cognition”, in Philip Robbins and Murat Aydede (eds.), _The Cambridge Handbook of Situated Cognition_, Cambridge: Cambridge University Press, pp. 264–306. doi:10.1017/CBO9780511816826.015
-* Kitcher, Philip S., 1993, “Function and Design”, _Midwest Studies in Philosophy_, 18(1): 379–397. doi:10.1111/j.1475-4975.1993.tb00274.x
-* Korman, Daniel Z., 2015, _Objects: Nothing Out of the Ordinary_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732532.001.0001
-* —, 2020, “The Metaphysics of Establishments”, _Australasian Journal of Philosophy_, 98(3): 434–448. doi:10.1080/00048402.2019.1622140
-* Kornblith, Hilary, 1980, “Referring to Artifacts”, _The Philosophical Review_, 89(1): 109–114. doi:10.2307/2184866
+* Kendig, Catherine (ed.), 2016, *Natural Kinds and Classification in Scientific Practice*, London: Routledge.
+* Khalidi, Muhammad Ali, 2013, *Natural Categories and Human Kinds: Classification in The Natural and Social Sciences*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511998553
+* Kipfer, Barbara Ann, 2007, *Dictionary of Artifacts*, Malden: Blackwell Publishing.
+* Kirsh, David, 1995, “The Intelligent Use of Space”, *Artificial Intelligence*, 73(1–2): 31–68. doi:10.1016/0004-3702(94)00017-U
+* –––, 2009, “Problem Solving and Situated Cognition”, in Philip Robbins and Murat Aydede (eds.), *The Cambridge Handbook of Situated Cognition*, Cambridge: Cambridge University Press, pp. 264–306. doi:10.1017/CBO9780511816826.015
+* Kitcher, Philip S., 1993, “Function and Design”, *Midwest Studies in Philosophy*, 18(1): 379–397. doi:10.1111/j.1475-4975.1993.tb00274.x
+* Korman, Daniel Z., 2015, *Objects: Nothing Out of the Ordinary*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198732532.001.0001
+* —, 2020, “The Metaphysics of Establishments”, *Australasian Journal of Philosophy*, 98(3): 434–448. doi:10.1080/00048402.2019.1622140
+* Kornblith, Hilary, 1980, “Referring to Artifacts”, *The Philosophical Review*, 89(1): 109–114. doi:10.2307/2184866
 * –––, 2007, “How to Refer to Artifacts”, in Margolis and Laurence 2007: 138–149.
-* Koslicki, Kathrin, 2018, _Form, Matter, Substance_, Oxford: Oxford University Press. DOI:10.1093/oso/9780198823803.001.0001
-* Kroes, Peter, 2012, _Technical Artefacts: Creations of Mind and Matter: A Philosophy of Engineering Design_, (_Philosophy of Engineering and Technology_, Volume 6), Dordrecht: Springer.
-* Latour, Bruno, 1994, “On Technical Mediation: Philosophy, Sociology, Genealogy”, _Common Knowledge_, 3(2): 29–64.
-* –––, 1999, _Pandora’s Hope: Essays on the Reality of Science Studies_, Cambridge, MA: Harvard University Press.
-* Lave, Jean, 1988, _Cognition in Practice: Mind, Mathematics and Culture in Everyday Life_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609268
-* Levinson, Jerrold, 1980, “What a Musical Work Is”, _The Journal of Philosophy_, 77(1): 5–28. doi:10.2307/2025596
+* Koslicki, Kathrin, 2018, *Form, Matter, Substance*, Oxford: Oxford University Press. DOI:10.1093/oso/9780198823803.001.0001
+* Kroes, Peter, 2012, *Technical Artefacts: Creations of Mind and Matter: A Philosophy of Engineering Design*, (*Philosophy of Engineering and Technology*, Volume 6), Dordrecht: Springer.
+* Latour, Bruno, 1994, “On Technical Mediation: Philosophy, Sociology, Genealogy”, *Common Knowledge*, 3(2): 29–64.
+* –––, 1999, *Pandora’s Hope: Essays on the Reality of Science Studies*, Cambridge, MA: Harvard University Press.
+* Lave, Jean, 1988, *Cognition in Practice: Mind, Mathematics and Culture in Everyday Life*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609268
+* Levinson, Jerrold, 1980, “What a Musical Work Is”, *The Journal of Philosophy*, 77(1): 5–28. doi:10.2307/2025596
 * Lowe, E.J., 2014, “How Real Are Artefacts and Artefact Kinds?” in Franssen, Kroes, Reydon, and Vermaas 2014: 17–26. doi:10.1007/978-3-319-00801-1\*2
-* Mag Uidhir, Christy (ed.), 2012, _Art and Abstract Objects_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199691494.001.0001
-* —2013, _Art and Art Attempts_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199665778.001.0001
-* Malafouris, Lambros, 2013, _How Things Shape the Mind_, Cambridge, MA: MIT Press.
-* Malt, Barbara C. and Eric C. Johnson, 1992, “Do Artifact Concepts Have Cores?” _Journal of Memory and Language_, 31(2): 195–217. doi:10.1016/0749-596X(92)90011-L
-* –––, 1998, “Discussion: Artifact Category Membership and the Intentional-Historical Theory”, _Cognition_, 66(1): 79–85. doi:10.1016/S0010-0277(98)00004-3
+* Mag Uidhir, Christy (ed.), 2012, *Art and Abstract Objects*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199691494.001.0001
+* —2013, *Art and Art Attempts*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199665778.001.0001
+* Malafouris, Lambros, 2013, *How Things Shape the Mind*, Cambridge, MA: MIT Press.
+* Malt, Barbara C. and Eric C. Johnson, 1992, “Do Artifact Concepts Have Cores?” *Journal of Memory and Language*, 31(2): 195–217. doi:10.1016/0749-596X(92)90011-L
+* –––, 1998, “Discussion: Artifact Category Membership and the Intentional-Historical Theory”, *Cognition*, 66(1): 79–85. doi:10.1016/S0010-0277(98)00004-3
 * Malt, Barbara C., and Steven A. Sloman, 2007a, “Artifact Categorization: The Good, the Bad, and the Ugly”, in Margolis and Laurence 2007: 85–123.
-* –––, 2007b, “Category Essence or Essentially Pragmatic? Creator’s Intention in Naming and What’s Really What”, _Cognition_, 105(3): 615–648. doi:10.1016/j.cognition.2006.10.001
-* Mandler, Jean, 2004, _Foundations of Mind: Origins of Conceptual Thought_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195311839.001.0001
+* –––, 2007b, “Category Essence or Essentially Pragmatic? Creator’s Intention in Naming and What’s Really What”, *Cognition*, 105(3): 615–648. doi:10.1016/j.cognition.2006.10.001
+* Mandler, Jean, 2004, *Foundations of Mind: Origins of Conceptual Thought*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195311839.001.0001
 * –––, 2007, “The Conceptual Foundations of Animals and Artifacts”, in Margolis and Laurence 2007: 191–211.
-* Margolis, Eric and Stephen Laurence (eds.), 2007, _Creations of the Mind: Theories of Artifacts and Their Representation_, Oxford: Oxford University Press.
-* McKibben, Bill, 1989, _The End of Nature_, New York: Anchor Books.
-* McLaughlin, Peter E., 2001, _What Functions Explain: Functional Explanation and Self-Reproducing Systems_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498510
-* Meijers, Anthonie (ed.), 2009, _Philosophy of Technology and Engineering Sciences_ (_Handbook of the Philosophy of Science_, Volume 9), Amsterdam: Elsevier.
-* Menary, Richard (ed.), 2010, _The Extended Mind_, Cambridge, MA: MIT Press.
-* Merricks, Trenton, 2001, _Objects and Persons_, New York: Oxford University Press. doi:10.1093/0199245363.001.0001
-* Michaelian, Kourken and John Sutton, 2013, “Distributed Cognition and Memory Research: History and Current Directions”, _Review of Philosophy and Psychology_, 4(1): 1–24. doi:10.1007/s13164-013-0131-x
-* Miller, Daniel, 1994, “Artefacts and the Meaning of Things”, in Tim Ingold (ed.), _Companion Encyclopedia of Anthropology_, London: Routledge, second edition, pp. 396–419.
-* Millikan, Ruth Garrett, 1984, _Language, Thought, and Other Biological Categories: New Foundations for Realism_, Cambridge: MIT Press.
-* –––, 1999, “Wings, Spoons, Pills and Quills: A Pluralist Theory of Function”, _The Journal of Philosophy_, 96(4): 191–206. doi:10.5840/jphil199996428
-* Mitcham, Carl, 1994, _Thinking Through Technology: The Path Between Engineering And Philosophy_, Chicago: University of Chicago Press.
-* Neander, Karen, 1991, “The Teleological Notion of ‘Function’”, _Australasian Journal of Philosophy_, 69(4): 454–468. doi:10.1080/00048409112344881
-* –––, 1995, “Misrepresenting and Malfunctioning”, _Philosophical Studies_, 79(2): 109–141. doi:10.1007/BF00989706
-* Oswalt, Wendell H., 1973, _Habitat and Technology: The Evolution of Hunting_, New York: Holt, Rinehart, and Winston.
-* –––, 1976, _An Anthropological Analysis of Food-Getting Technology_, New York: John Wiley & Sons.
-* Parsons, Glenn, 2016, _The Philosophy of Design_, Cambridge: Polity Press.
-* Preston, Beth, 1998, “Why Is a Wing Like a Spoon? A Pluralist Theory of Function”, _The Journal of Philosophy_, 95(5): 215–254. doi:10.2307/2564689
+* Margolis, Eric and Stephen Laurence (eds.), 2007, *Creations of the Mind: Theories of Artifacts and Their Representation*, Oxford: Oxford University Press.
+* McKibben, Bill, 1989, *The End of Nature*, New York: Anchor Books.
+* McLaughlin, Peter E., 2001, *What Functions Explain: Functional Explanation and Self-Reproducing Systems*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498510
+* Meijers, Anthonie (ed.), 2009, *Philosophy of Technology and Engineering Sciences* (*Handbook of the Philosophy of Science*, Volume 9), Amsterdam: Elsevier.
+* Menary, Richard (ed.), 2010, *The Extended Mind*, Cambridge, MA: MIT Press.
+* Merricks, Trenton, 2001, *Objects and Persons*, New York: Oxford University Press. doi:10.1093/0199245363.001.0001
+* Michaelian, Kourken and John Sutton, 2013, “Distributed Cognition and Memory Research: History and Current Directions”, *Review of Philosophy and Psychology*, 4(1): 1–24. doi:10.1007/s13164-013-0131-x
+* Miller, Daniel, 1994, “Artefacts and the Meaning of Things”, in Tim Ingold (ed.), *Companion Encyclopedia of Anthropology*, London: Routledge, second edition, pp. 396–419.
+* Millikan, Ruth Garrett, 1984, *Language, Thought, and Other Biological Categories: New Foundations for Realism*, Cambridge: MIT Press.
+* –––, 1999, “Wings, Spoons, Pills and Quills: A Pluralist Theory of Function”, *The Journal of Philosophy*, 96(4): 191–206. doi:10.5840/jphil199996428
+* Mitcham, Carl, 1994, *Thinking Through Technology: The Path Between Engineering And Philosophy*, Chicago: University of Chicago Press.
+* Neander, Karen, 1991, “The Teleological Notion of ‘Function’”, *Australasian Journal of Philosophy*, 69(4): 454–468. doi:10.1080/00048409112344881
+* –––, 1995, “Misrepresenting and Malfunctioning”, *Philosophical Studies*, 79(2): 109–141. doi:10.1007/BF00989706
+* Oswalt, Wendell H., 1973, *Habitat and Technology: The Evolution of Hunting*, New York: Holt, Rinehart, and Winston.
+* –––, 1976, *An Anthropological Analysis of Food-Getting Technology*, New York: John Wiley & Sons.
+* Parsons, Glenn, 2016, *The Philosophy of Design*, Cambridge: Polity Press.
+* Preston, Beth, 1998, “Why Is a Wing Like a Spoon? A Pluralist Theory of Function”, *The Journal of Philosophy*, 95(5): 215–254. doi:10.2307/2564689
 * –––, 2009, “Philosophical Theories of Artifact Function”, in Meijers 2009: 213–233. doi:10.1016/B978-0-444-51667-1.50013-6
-* –––, 2013, _A Philosophy of Material Culture: Action, Function, and Mind_, New York: Routledge.
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, [_Minnesota Studies in the Philosophy of Science_](https://philpapers.org/asearch.pl?pub=688), 7: 131–193.
-* Reicher, Maria Elisabeth, 2022, “The Primacy of Abstract Artifacts”, in Paul McNamara, Andrew J. I. Jones, and Mark A. Brown (eds.), _Agency, Norms, Inquiry, and Artifacts: Essays in Honor of Risto Hilpinen_, Synthese Library 454, Cham: Springer, pp. 235–246.
+* –––, 2013, *A Philosophy of Material Culture: Action, Function, and Mind*, New York: Routledge.
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’”, [*Minnesota Studies in the Philosophy of Science*](https://philpapers.org/asearch.pl?pub=688), 7: 131–193.
+* Reicher, Maria Elisabeth, 2022, “The Primacy of Abstract Artifacts”, in Paul McNamara, Andrew J. I. Jones, and Mark A. Brown (eds.), *Agency, Norms, Inquiry, and Artifacts: Essays in Honor of Risto Hilpinen*, Synthese Library 454, Cham: Springer, pp. 235–246.
 * Reydon, Thomas A.C., 2014, “Metaphysical and Epistemological Approaches to Developing a Theory of Artifact Kinds”, in Franssen, Kroes, Reydon, and Vermaas 2014: 125–144. doi:10.1007/978-3-319-00801-1\*8
-* Rohrbaugh, Guy, 2003, “Artworks as Historical Individuals”, _European Journal of Philosophy,_ 11(2): 177–205.
-* Schick, Kathy D. and Nicholas Toth, 1993, _Making Silent Stones Speak: Human Evolution and the Dawn of Technology_, New York: Simon & Schuster.
-* Schnurrenberger, Douglas and Alan L. Bryan, 1985, “A Contribution to the Study of the Naturefact-Artifact Controversy”, in Mark G. Plew, James C. Woods, and Max G. Pavesic (eds.), _Stone Tool Analysis: Essays in Honor of Don E. Crabtree_, Albuquerque, NM: University of New Mexico Press, pp. 133–159.
-* Schwartz, Stephen, 1978, “Putnam on Artifacts”, _The Philosophical Review_, 87(4): 566–574. doi:10.2307/2184460
-* Searle, John R., 1995, _The Construction of Social Reality_, New York: The Free Press.
-* Shields, Christopher, 2022, “Aristotle”, _The Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/aristotle/](https://plato.stanford.edu/archives/spr2022/entries/aristotle/).
-* Shott, Michael J. (ed.), 2015, _Works in Stone: Contemporary Perspectives in Lithic Analysis_, Salt Lake City, UT: University of Utah Press.
-* Shumaker, Robert W., Kristina R. Walkup, and Benjamin B. Beck, 2011, _Animal Tool Behavior: The Use And Manufacture Of Tools By Animals_, Baltimore, MD: Johns Hopkins University Press.
-* Spelke, Elizabeth, 2000, “Core Knowledge”, _American Psychologist_, 55(11): 1233–1243. doi:10.1037/0003-066X.55.11.1233
+* Rohrbaugh, Guy, 2003, “Artworks as Historical Individuals”, *European Journal of Philosophy,* 11(2): 177–205.
+* Schick, Kathy D. and Nicholas Toth, 1993, *Making Silent Stones Speak: Human Evolution and the Dawn of Technology*, New York: Simon & Schuster.
+* Schnurrenberger, Douglas and Alan L. Bryan, 1985, “A Contribution to the Study of the Naturefact-Artifact Controversy”, in Mark G. Plew, James C. Woods, and Max G. Pavesic (eds.), *Stone Tool Analysis: Essays in Honor of Don E. Crabtree*, Albuquerque, NM: University of New Mexico Press, pp. 133–159.
+* Schwartz, Stephen, 1978, “Putnam on Artifacts”, *The Philosophical Review*, 87(4): 566–574. doi:10.2307/2184460
+* Searle, John R., 1995, *The Construction of Social Reality*, New York: The Free Press.
+* Shields, Christopher, 2022, “Aristotle”, *The Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/aristotle/](https://plato.stanford.edu/archives/spr2022/entries/aristotle/).
+* Shott, Michael J. (ed.), 2015, *Works in Stone: Contemporary Perspectives in Lithic Analysis*, Salt Lake City, UT: University of Utah Press.
+* Shumaker, Robert W., Kristina R. Walkup, and Benjamin B. Beck, 2011, *Animal Tool Behavior: The Use And Manufacture Of Tools By Animals*, Baltimore, MD: Johns Hopkins University Press.
+* Spelke, Elizabeth, 2000, “Core Knowledge”, *American Psychologist*, 55(11): 1233–1243. doi:10.1037/0003-066X.55.11.1233
 * Sperber, Dan, 2007, “Seedless Grapes: Nature and Culture”, in Margolis and Laurence 2007: 124–137.
-* Sutton, John, 2006, “Distributed Cognition: Domains and Dimensions”, _Pragmatics & Cognition_, 14(2): 235–247. doi:10.1075/pc.14.2.05sut
+* Sutton, John, 2006, “Distributed Cognition: Domains and Dimensions”, *Pragmatics & Cognition*, 14(2): 235–247. doi:10.1075/pc.14.2.05sut
 * –––, 2010, “Exograms and Interdisciplinarity: History, the Extended Mind, and the Civilizing Process”, in Menary 2010: 189–225.
-* Thomasson, Amie L., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
-* –––, 2003, “Realism and Human Kinds”, _Philosophy and Phenomenological Research_, 67(3): 580–609. doi:10.1111/j.1933-1592.2003.tb00309.x
-* –––, 2004, “The Ontology of Art”, in Peter Kivy (ed.), _The Blackwell Guide to Aesthetics_, Malden: Blackwell, pp. 78–92. doi:10.1002/9780470756645
-* –––, 2006, “Debate About the Ontology of Art: What are We Doing Here?”, _Philosophy Compass_ 1(3): 245–255. doi:10.1111/j.1747-9991.2006.00021.x
-* –––, 2007a, _Ordinary Objects_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195319910.001.0001
+* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* –––, 2003, “Realism and Human Kinds”, *Philosophy and Phenomenological Research*, 67(3): 580–609. doi:10.1111/j.1933-1592.2003.tb00309.x
+* –––, 2004, “The Ontology of Art”, in Peter Kivy (ed.), *The Blackwell Guide to Aesthetics*, Malden: Blackwell, pp. 78–92. doi:10.1002/9780470756645
+* –––, 2006, “Debate About the Ontology of Art: What are We Doing Here?”, *Philosophy Compass* 1(3): 245–255. doi:10.1111/j.1747-9991.2006.00021.x
+* –––, 2007a, *Ordinary Objects*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195319910.001.0001
 * –––, 2007b, “Artifacts and Human Concepts”, in Margolis and Laurence 2007: 52–73.
 * –––, 2009, “Artefacts in Metaphysics”, in Meijers 2009: 191–212. doi:10.1016/B978-0-444-51667-1.50012-4
 * –––, 2014, “Public Artifacts, Intentions, and Norms”, in Franssen, Kroes, Reydon, and Vermaas 2014: 45–62. doi:10.1007/978-3-319-00801-1\*4
-* van Inwagen, Peter, 1990, _Material Beings_, Ithaca, NY: Cornell University Press.
-* Vermaas, Pieter E. and Wybo Houkes, 2003, “Ascribing Functions to Technical Artefacts: A Challenge to Etiological Accounts of Functions”, _British Journal for the Philosophy of Science_, 54(2): 261–289. doi:10.1093/bjps/54.2.261
-* Vogel, Steven, 2003, “The Nature of Artifacts”, _Environmental Ethics_, 25(2): 149–168. doi:10.5840/enviroethics200325230
-* –––, 2015, _Thinking Like a Mall: Environmental Philosophy After the End of Nature_, Cambridge: MIT Press.
-* Walters, Lee, 2013, “Repeatable Artworks as Created Types”, _British Journal of Aesthetics_, 53(4): 461–477. doi:10.1093/aesthj/ayt026
-* Wilson, Robert A. and Andy Clark, 2009, “How to Situate Cognition: Letting Nature Take Its Course”, in Philip Robbins and Murat Aydede (eds.), _The Cambridge Handbook of Situated Cognition_, Cambridge: Cambridge University Press, pp. 55–77. doi:10.1017/CBO9780511816826.004
+* van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
+* Vermaas, Pieter E. and Wybo Houkes, 2003, “Ascribing Functions to Technical Artefacts: A Challenge to Etiological Accounts of Functions”, *British Journal for the Philosophy of Science*, 54(2): 261–289. doi:10.1093/bjps/54.2.261
+* Vogel, Steven, 2003, “The Nature of Artifacts”, *Environmental Ethics*, 25(2): 149–168. doi:10.5840/enviroethics200325230
+* –––, 2015, *Thinking Like a Mall: Environmental Philosophy After the End of Nature*, Cambridge: MIT Press.
+* Walters, Lee, 2013, “Repeatable Artworks as Created Types”, *British Journal of Aesthetics*, 53(4): 461–477. doi:10.1093/aesthj/ayt026
+* Wilson, Robert A. and Andy Clark, 2009, “How to Situate Cognition: Letting Nature Take Its Course”, in Philip Robbins and Murat Aydede (eds.), *The Cambridge Handbook of Situated Cognition*, Cambridge: Cambridge University Press, pp. 55–77. doi:10.1017/CBO9780511816826.004
 
 ## Academic Tools
 
@@ -309,12 +308,12 @@ _经典之地_是埃德温·哈钦斯（Edwin Hutchins）的《野外认知》�
 
 ## Other Internet Resources
 
-* Hilpinen, Risto, “Artifact,” _Stanford Encyclopedia of Philosophy_ (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/artifact/](https://plato.stanford.edu/archives/sum2018/entries/artifact/). \[This was the previous entry on Artifact in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=artifact).]
-* [Philosophy of Technology](http://www.iep.utm.edu/technolo/), entry by Thomas A.C. Reydon, in _Internet Encyclopedia of Philosophy_.
+* Hilpinen, Risto, “Artifact,” *Stanford Encyclopedia of Philosophy* (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/artifact/](https://plato.stanford.edu/archives/sum2018/entries/artifact/). \[This was the previous entry on Artifact in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=artifact).]
+* [Philosophy of Technology](http://www.iep.utm.edu/technolo/), entry by Thomas A.C. Reydon, in *Internet Encyclopedia of Philosophy*.
 
 ## Related Entries
 
 [abstract objects](https://plato.stanford.edu/entries/abstract-objects/) | [aesthetics: environmental](https://plato.stanford.edu/entries/environmental-aesthetics/) | [aesthetics of the everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/) | [ethics: environmental](https://plato.stanford.edu/entries/ethics-environmental/) | [human enhancement](https://plato.stanford.edu/entries/enhancement/) | [information technology: phenomenological approaches to ethics and](https://plato.stanford.edu/entries/ethics-it-phenomenology/) | [ordinary objects](https://plato.stanford.edu/entries/ordinary-objects/) | [social networking and ethics](https://plato.stanford.edu/entries/ethics-social-networking/) | [technology, philosophy of](https://plato.stanford.edu/entries/technology/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Beth Preston <[_epreston@uga.edu_](mailto:epreston%40uga%2eedu)>
+Beth Preston <[*epreston@uga.edu*](mailto:epreston%40uga%2eedu)>

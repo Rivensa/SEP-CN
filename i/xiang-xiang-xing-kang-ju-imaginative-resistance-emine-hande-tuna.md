@@ -1,6 +1,5 @@
 # 想象性抗拒 imaginative resistance (Emine Hande Tuna)
 
-
 *首次发布于2020年4月13日星期一*
 
 “想象性抗拒”现象指的是在虚构作品的刺激下，本来能够进行特定想象活动的人们所经历的心理困难。通常情况下，我们似乎没有困难地参与时间旅行或太空探索的故事、超级英雄电影或非人类动物寓言故事。但有时候，我们似乎不能那么轻松地参与其中；例如，当我们面对一种替代的《麦克白》时，其中[Duncan 的]谋杀事实与剧本中实际呈现的一样，但在这个替代虚构中，这只是因为干扰了麦克白的睡眠而不幸。 (Moran 1994: 95)
@@ -20,7 +19,6 @@ The imaginative resistance debate came about as an attempt to unpack what’s go
 
 这篇文章试图澄清围绕想象性抗拒的核心问题，并探讨了对这个谜题的提出的解决方案。
 
- 
 ---
 
 ## 想象性抗拒的令人困惑之处是什么？
@@ -249,6 +247,7 @@ Gendler (2008a, 2008b)声称，她提出的 alief 是一种天生的倾向，能
 ## 4. 结论
 
 正如我们所见，在“想象性抗拒之谜”中，到目前为止只有“of”一词是无争议的。然而，这不应被视为陷入僵局的迹象。辩论的活跃程度不仅不会引发混乱和迷失方向，反而指向了这一主题的丰富性，并为想象性抗拒研究开辟了新的领域。这一研究领域仍处于初级阶段，需要进一步研究上述所有主题。其中一些最紧迫的研究问题包括：是否存在无根据/不合理的想象性抗拒反应？如何克服无根据/不合理的想象性抗拒反应？如何修订现有理论以解释抗拒反应的变化和抗拒触发主张的多样性？通过进一步的实证研究，我们可以从这个主题中获得更多的信息，并且在道德心理学、美学心理学、认知架构、评价性术语的语义学和语用学、模态认识论等领域进一步研究的机会也很多（借鉴了Levy 2005、Driver 2008、Levin 2012等学者的工作）。
+
 ## Bibliography
 
 * Barnes, Jennifer and Jessica E. Black, 2016, “Impossible or Improbable: The Difficulty of Imagining Morally Deviant Worlds”, *Imagination, Cognition and Personality: Consciousness in Theory, Research, and Clinical Practice*, 36(1): 27–40. doi:10.1177/0276236616643268

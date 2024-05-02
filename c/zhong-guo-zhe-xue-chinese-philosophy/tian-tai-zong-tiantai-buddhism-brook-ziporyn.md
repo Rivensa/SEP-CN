@@ -1,6 +1,6 @@
 # 天台宗 Tiantai Buddhism (Brook Ziporyn)
 
-_首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 11 月 13 日星期日_
+*首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 11 月 13 日星期日*
 
 天台是中国一个山脉及周围地理位置的名称，字面意思是“天空的平台”，但这个术语传统上用来指代与该地区历史联系密切的一所大乘佛教特定学派。在本文中，“天台”一词将用来指代这所学派在公元六至十一世纪间发展的哲学思想，这些思想在该学派三位最具代表性人物的著作中得到阐述：天台智顗（538–597）、净土湛然（711–782）和四明智立（960–1028）。
 
@@ -18,7 +18,6 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 这种观点是如何确立的，以及它的后果是什么，这就是本文要解释的内容。
 
-
 ***
 
 ## 1. 语境主义与本体模糊
@@ -27,7 +26,7 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 一个简单的思想实验可能会揭示这个观念的含义。想象一下，你发现地上有一块看起来像是白色大理石的东西。你感受到它是圆的，小的，白色的，于是你立刻对它构建了一种生活态度——可以被拾起，滚动，玩耍，放进口袋。但当你试图拾起它时，发现它卡在地上，无法抬起。你尝试挖出它，发现它向下延伸，比你挖的还要深：它是一个更大物体的顶端。它看起来像是一根长杆或某种圆柱形管道。但当你继续挖掘时，你发现在狭窄的五英寸后开始向外扩展；它是一个锥形顶端的尖塔。随着你不断往下挖，这个锥形体向外扩展。当你挖到大约二十英尺深时，锥形体结束了，镶嵌在一种柔软的、鳞状的物质中。然后大地震颤，一个巨大的双角怪兽从地下出现；它有五百英尺高，每只角有二十英尺高，带着长长的尖端。你之前正在挖出其中一个角。你之前看到的地上的大理石实际上是其中一个角的尖端。现在再看看那个尖端。你之前感受到它是圆的。但事实证明它根本不是圆的：它是尖锐的。然而它一点也没有改变：你仍然看到了你看到的。它也不是白色的：尖端在地面上看起来是白色的，但现在，看着怪兽的整个角，你看到的是大部分绿色斑点，零星夹杂着白色：整体看，角，包括尖端，是绿色的。它也不是可移动的，可放入口袋的，可玩耍的——它相当危险，刀锋般锋利，需要避免。然而你看到的一切都没有消失：它只是被进一步的信息，它更大的背景所补充。
 
-天台这样看待所有事物。通常，您可能会做一些限定，以保持您的观点，即一些事实是明确的（实际上，在某种程度上，这个过程正是传统哲学_的本质_）；您可能会说“尖端_孤立考虑_时确实是圆的”。通常的做法是插入“表象”和“实际情况”之间的区别，某种形式的现实-表象区分。但将二谛转化为三谛的最重要后果是彻底摒弃表象-实际区分。天台会拒绝优先考虑孤立考虑或在任何单一特定联系中考虑；在某些启发性（_upayic_）背景下，这些都是合法的，但没有一个可以非任意地被赋予代表“实际情况”的角色，_简单地_。看到某物就是看到它的“非全部”。我们总是看到世界的一小部分，但世界的每一部分都会因为它是世界的一部分而改变，会被世界的其余部分重新环境化，被其余的空间和时间重新环境化。实际上，如果我们看到了全部，我们将什么都看不到。因为看到，将某物视为“在那里”，为“真实”，就是将其置于一个背景中，将其与自身之外的某物进行对比，将其与不是它的东西进行对比。看到全部就是什么都看不到。就像上面的“火”和“水”一样，如果有人说整个宇宙是“圆的”，这将需要改变“圆”的含义。这个圆不会是圆的：因为圆需要一个非圆_在外面_才能成为圆。它必须被某物环绕以使其成为圆形，但宇宙也将包括那个圆形之外的部分。如果有人说整个宇宙是尖锐的，这也毫无意义。这个尖锐不会是尖锐的；因为尖锐需要一个非尖锐_在外面_才能成为尖锐。因此，说整个宇宙是尖锐的，意味着整个宇宙是圆的，没有更多也没有更少。我们无法对整体，对整个宇宙做出具体的决定，因为不存在任何东西的外部；因为所有特定的规定都需要与其外部进行对比。我们所说或所想的一切都来自有限的领域，不能应用于无限。但天台的观点是，我们无法谈论任何有限的事物而不涉及整体，无限的某种确定。如果我们说这个东西是尖锐的，我们必须假设“整个宇宙是这样的，这个东西是尖锐的”。我们不能这样说：整个宇宙不能是“这个大理石是尖锐的”任何更多也不能是“尖锐的”。但这也意味着我们不能说整个宇宙是“这个大理石不是尖锐的”。两者同样合法，两者同样不合法。因此，我们可以说这个大理石看起来是圆的，但圆总是被证明也不仅仅是圆的，是非圆的，反之亦然。圆是更多性的。圆和非圆相互包容。
+天台这样看待所有事物。通常，您可能会做一些限定，以保持您的观点，即一些事实是明确的（实际上，在某种程度上，这个过程正是传统哲学_的本质_）；您可能会说“尖端_孤立考虑_时确实是圆的”。通常的做法是插入“表象”和“实际情况”之间的区别，某种形式的现实-表象区分。但将二谛转化为三谛的最重要后果是彻底摒弃表象-实际区分。天台会拒绝优先考虑孤立考虑或在任何单一特定联系中考虑；在某些启发性（*upayic*）背景下，这些都是合法的，但没有一个可以非任意地被赋予代表“实际情况”的角色，*简单地*。看到某物就是看到它的“非全部”。我们总是看到世界的一小部分，但世界的每一部分都会因为它是世界的一部分而改变，会被世界的其余部分重新环境化，被其余的空间和时间重新环境化。实际上，如果我们看到了全部，我们将什么都看不到。因为看到，将某物视为“在那里”，为“真实”，就是将其置于一个背景中，将其与自身之外的某物进行对比，将其与不是它的东西进行对比。看到全部就是什么都看不到。就像上面的“火”和“水”一样，如果有人说整个宇宙是“圆的”，这将需要改变“圆”的含义。这个圆不会是圆的：因为圆需要一个非圆_在外面_才能成为圆。它必须被某物环绕以使其成为圆形，但宇宙也将包括那个圆形之外的部分。如果有人说整个宇宙是尖锐的，这也毫无意义。这个尖锐不会是尖锐的；因为尖锐需要一个非尖锐_在外面_才能成为尖锐。因此，说整个宇宙是尖锐的，意味着整个宇宙是圆的，没有更多也没有更少。我们无法对整体，对整个宇宙做出具体的决定，因为不存在任何东西的外部；因为所有特定的规定都需要与其外部进行对比。我们所说或所想的一切都来自有限的领域，不能应用于无限。但天台的观点是，我们无法谈论任何有限的事物而不涉及整体，无限的某种确定。如果我们说这个东西是尖锐的，我们必须假设“整个宇宙是这样的，这个东西是尖锐的”。我们不能这样说：整个宇宙不能是“这个大理石是尖锐的”任何更多也不能是“尖锐的”。但这也意味着我们不能说整个宇宙是“这个大理石不是尖锐的”。两者同样合法，两者同样不合法。因此，我们可以说这个大理石看起来是圆的，但圆总是被证明也不仅仅是圆的，是非圆的，反之亦然。圆是更多性的。圆和非圆相互包容。
 
 简而言之，圆存在于每一个非圆中，也存在于更多性中；更多性存在于圆中，也存在于每一个非圆中。这就是说“圆和非圆既不相同也不不同”。
 
@@ -71,11 +70,11 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 \| | | Q | | |
 
-当我们孤立地看这个圆形时，它可能会根据我们的习惯或近期的心理活动立即而没有反思地呈现出来；如果我们刚想到数字，它可能会简单明了地出现为“零”，如果想到字母，它可能会出现为字母“o”，如果想到形状，它可能会出现为“圆”。当第二个图表中添加了一个明确的背景时，它就有了明确的身份：它是数字零。但是当我们同时在第三个图表中添加了另一个背景时，这个图形变得模棱两可：它现在可以被解读为零或字母 O。随着我们不断添加更多背景，它的身份变得越来越模糊；在上面的最后一个图表中，我们可以指着最初的圆形并说，合理地说，“_这_ 是一个三角形”—因为它是与另外两个不相邻且不近距离的圆形组成的三角形的顶点。谁知道世界上还有什么其他圆形，以及_这个东西_实际上正在形成什么其他图形？当我们同时考虑宇宙中的所有事物时，我们为它们分配的最初身份会被越来越多的模糊性所补充。仅仅看着一系列字母时，它是一个零：这是局部的连贯性。当我们简单地把这个杯子看作一个杯子时，我们在做同样的事情：忽略了许多其他因素、背景、观点、观看方式，并将相关因素缩小到只允许它出现为一个单一明确的东西：一个杯子。如果我们考虑它所制成的分子，或者它所表达的能量，或者它在各种叙事背景下可能被使用的用途，或者它的深远过去和深远未来，它的“杯子属性”变得模棱两可：它同时是许多其他东西，是许多不同故事的一部分。它是能量转化屏幕上的一个闪现，或者是一件凶器，或者是一件艺术品，或者是一块门挡。你自己和你现在的行动也是如此。只有在我们将视野缩小到它们周围时才是明确的（当然，我们可以缩小我们的视野的一种方式是进行哲学；我们正在对我们的经验进行背景化的叙事之一可能是预设对本质、属性、偶然性、实质形式或其他内容进行分类的概念系统，并相应地区分表象和现实，使其看起来“本质上”是一个杯子，只是“偶然地”是一件凶器，只是“表面上看起来”是巴力的启示）。这就是天台学中“空”的含义：本体上的模糊性。术语“模糊”通常只指我们看待事物的方式。我们假设，事物本身就是它们所是的；但我们可能对它们有一个不清晰的看法；我们_还_不能确定它是这个还是那个。我们至少原则上假设它必须是其中之一。空的概念是指这在“本体上”是真实的：也就是说，它涉及到事物的本质。说它们是空的并不意味着它们是一片空白—因为那将是一个明确的东西，一个特定的排除所有确定内容的东西，这本身就是一个确定的内容。这里的空意味着它们在本质上是_模糊的_。 再次强调，这也意味着一切都**比**看起来的要多，或者说在构成上比它**能**看起来的要多，无论从什么角度看，无论了解多彻底，无论收集关于它的信息有多全面。它具有作为“某物”（一个杯子，一把椅子，一头大象）的特定特征，但每个“某物”，仅仅因为存在为某物，就具有“更多性”的额外特征——总是超出对它的任何确定性描述，总是**比**从任何角度看到的要多。
+当我们孤立地看这个圆形时，它可能会根据我们的习惯或近期的心理活动立即而没有反思地呈现出来；如果我们刚想到数字，它可能会简单明了地出现为“零”，如果想到字母，它可能会出现为字母“o”，如果想到形状，它可能会出现为“圆”。当第二个图表中添加了一个明确的背景时，它就有了明确的身份：它是数字零。但是当我们同时在第三个图表中添加了另一个背景时，这个图形变得模棱两可：它现在可以被解读为零或字母 O。随着我们不断添加更多背景，它的身份变得越来越模糊；在上面的最后一个图表中，我们可以指着最初的圆形并说，合理地说，“*这* 是一个三角形”—因为它是与另外两个不相邻且不近距离的圆形组成的三角形的顶点。谁知道世界上还有什么其他圆形，以及_这个东西_实际上正在形成什么其他图形？当我们同时考虑宇宙中的所有事物时，我们为它们分配的最初身份会被越来越多的模糊性所补充。仅仅看着一系列字母时，它是一个零：这是局部的连贯性。当我们简单地把这个杯子看作一个杯子时，我们在做同样的事情：忽略了许多其他因素、背景、观点、观看方式，并将相关因素缩小到只允许它出现为一个单一明确的东西：一个杯子。如果我们考虑它所制成的分子，或者它所表达的能量，或者它在各种叙事背景下可能被使用的用途，或者它的深远过去和深远未来，它的“杯子属性”变得模棱两可：它同时是许多其他东西，是许多不同故事的一部分。它是能量转化屏幕上的一个闪现，或者是一件凶器，或者是一件艺术品，或者是一块门挡。你自己和你现在的行动也是如此。只有在我们将视野缩小到它们周围时才是明确的（当然，我们可以缩小我们的视野的一种方式是进行哲学；我们正在对我们的经验进行背景化的叙事之一可能是预设对本质、属性、偶然性、实质形式或其他内容进行分类的概念系统，并相应地区分表象和现实，使其看起来“本质上”是一个杯子，只是“偶然地”是一件凶器，只是“表面上看起来”是巴力的启示）。这就是天台学中“空”的含义：本体上的模糊性。术语“模糊”通常只指我们看待事物的方式。我们假设，事物本身就是它们所是的；但我们可能对它们有一个不清晰的看法；我们_还_不能确定它是这个还是那个。我们至少原则上假设它必须是其中之一。空的概念是指这在“本体上”是真实的：也就是说，它涉及到事物的本质。说它们是空的并不意味着它们是一片空白—因为那将是一个明确的东西，一个特定的排除所有确定内容的东西，这本身就是一个确定的内容。这里的空意味着它们在本质上是_模糊的_。 再次强调，这也意味着一切都**比**看起来的要多，或者说在构成上比它**能**看起来的要多，无论从什么角度看，无论了解多彻底，无论收集关于它的信息有多全面。它具有作为“某物”（一个杯子，一把椅子，一头大象）的特定特征，但每个“某物”，仅仅因为存在为某物，就具有“更多性”的额外特征——总是超出对它的任何确定性描述，总是**比**从任何角度看到的要多。
 
 然而，这种“更多”并不会让原本“已知”的部分保持不变。相反，它重新给予其语境。我们总是看到冰山的一角。但即使是这个“一角”，在我们知道它是某物的一角之前，它也不再是我们以前认为的那样。关键在于这里没有完全的去语境化，离开一个语境总是简单地进入另一个语境；语境关系并不要求物理上的邻近，给定事物周围的空间并不会将其与进一步的重新语境化隔离开来，而是本身就是一个语境，一个无限的、通向无限替代语境的无边界的语境。
 
-## 2. 三谛：空、假、中（空假中 _kong, jia, zhong_)
+## 2. 三谛：空、假、中（空假中 *kong, jia, zhong*)
 
 这些类比虽然朴素且有些滑稽，但可能开始让人们感受到天台哲学体系基础直觉的意义，这有助于我们在进入那里实际的技术论证和承诺时找到方向。在天台的情况下，这一点尤为重要，因为其理论建构所导致的结论最初会让许多读者感到极端古怪和违反直觉；对这些日常经验的关注——在世界上遇到某物，对其有一些初步了解但带有指向未来的内在不完整条款，了解更多信息，重新解释和校准我们的理解，相应地调整我们的前景和背景等等——可能有助于激发对通常用来解释这些经验的概念的一些思考。这也有助于我们理解天台主张，即其最令人震惊的规定并不是什么特别之处，也不是某个遥远的本体论层面的怪诞特权，而是所有有情众生日常经验的不可避免的必然结果——因为事物表面看起来一样，结果却完全不同几乎可以定义为“经验”本身。然而，类比永远不完美，总是部分地反映出它们意图阐明的结构，但从未完全做到，我们不应让这些例子的吸引力使我们误入歧途，仅仅对这种思维方式的逻辑必然性有一种模糊的感觉满足。为了更严谨地掌握这所思想流派众多荒谬的认识论、本体论和救赎论主张的推理基础，我们必须更系统地接近“非一非异”的含义。
 
@@ -91,17 +90,17 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 6. 但是，真正不同的实体，因为它们是不同的，因此是确定的，它们之间没有任何共同之处。
 7. 因此，两个真正相互排斥的实体不能有相互制约的关系。
 8. 因此，没有真正相互排斥的实体。因此，在第 1 项规定的决定性质必须得到补充。这种决定性质的改写是三谛。
-9. 无论看起来如何，即，只是它自己而不是其他任何东西，实际上不能与它不是的任何东西真正相互排斥。 _X_ 与非 _X_ “不异”。这种非差别被称为 _X_ 的“空”（空 _kong_，舍涅塔）。因为如果 _X_ 与非 _X_ 不异，它就无法满足第 1 项规定的 _X_ 的条件，因此 _X_ _不是_ _X_；_X_ 是“空的”。
+9. 无论看起来如何，即，只是它自己而不是其他任何东西，实际上不能与它不是的任何东西真正相互排斥。 *X* 与非 *X* “不异”。这种非差别被称为 *X* 的“空”（空 *kong*，舍涅塔）。因为如果 *X* 与非 *X* 不异，它就无法满足第 1 项规定的 *X* 的条件，因此 *X* *不是* *X*；*X* 是“空的”。
 10. 但_X_也与非_X_“不同”。从经验上看，如果它们是相同的，就不会有_X_被称为非不同：它的存在无非是与所有其他状态的非同一性。从逻辑上讲，对天台观的替代是默认的两元假设，即某些实体存在或没有实体存在；但存在和不存在都需要非相同——即存在和不存在之间的非相同。任何确定的事物都与不是它自身的事物不同，根据第 1 条。这就是为什么有东西而不是没有东西：即使完全的虚无仍然是确定的，并且与它不同，即与某物性不同。因此，虚无仍然是某物，所以为什么有东西而不是没有东西这个问题实际上是无意义的。与不同于它的东西不同对于任何提出的实体都是分析上必要的。即使没有实体被假定，“没有实体被假定”也不会发生，除非排除了实体的假定，并且非相同是成功地排除任何实体的假定所必需的。这种与非_X_不同之处被称为_X_的假设假设或常规真理（假_jia_）。
-11. _X_与非_X_的非相同以及_X_与非_X_之间的非差异本身彼此不同，彼此不同。尽管非不同，但非相同是假设假设。尽管非相同，但非不同是空性。这些只是说同一件事的相反方式，但这种颠倒本身也不可忽视。它们是赋予单个相同指称的两个相反且互斥的意义。它们是同义词，但又有对比。这被称为中心（中_zhong)_ 。
+11. *X_与非_X_的非相同以及_X_与非_X_之间的非差异本身彼此不同，彼此不同。尽管非不同，但非相同是假设假设。尽管非相同，但非不同是空性。这些只是说同一件事的相反方式，但这种颠倒本身也不可忽视。它们是赋予单个相同指称的两个相反且互斥的意义。它们是同义词，但又有对比。这被称为中心（中_zhong)* 。
 12. _X_必须是比它看起来的更多的一个方面或部分，即使作为一个部分或方面，它也不能真正只是看起来的单一相同（即，简单且双值地相同或不同）的部分或方面。
 13. 但它看起来也必须只是这样，除此之外别无他物，并且只有在最初似乎与它所不是的东西互相排斥时才能出现：出现就是以某种方式出现，即以有限的方式出现。任何出现的整体都不能单纯地出现，即使在思想中也是如此。它总是以某种特定的方式（或概念，或思想）出现。
 14. 作为_X_存在意味着不是_X_，但这种非_X_只显示为_X_。成为_X_意味着排除非_X_，但只能以必然涉及非_X_的方式进行，这只能通过独占地显示为_X_来实现。
 15. 因此，三义为：
 16. 临时设定：某些_X_总是出现。
-17. 空：_X_不是（仅仅）_X_。
-18. 中庸：_X_出现与_X_不仅仅是_X_的同时性、不可分割性、同异性（这是中庸的最简单表述，“独中”（但中_danzhong_）本身既不是空，也不是临时设定，超越二者且比二者更终极真实，但可以表现为任一者）。
-19. 中心的另一个含义是“非排他性中心”（不但中 _budan zhong)_ ：任何两个被认为是不同的事物 _Y_ 和 _X_，也不是相同也不是不同于彼此。因为中心永远不会单纯地出现；它总是以某种特定的连贯性显现，对此它并不不同。暂时性假设是空性和中心的每一个实例固有的，而且暂时性假设总是某种特定的暂时性假设（即使是抽象概念“暂时性假设”，或者抽象概念“空性”或“中心”仍然是一个具体的暂时性假设）。每个暂时性假设都涉及到每一个其他暂时性假设，具体而言。_Y_ 是 _X_ 的实例化。_X_ 是 _Y_ 的实例化。因此，所有其他出现都与 _X_ 是“相互包容的”。因此，中心最终并不超越或比空性或暂时性假设更真实，而是与它们同义相对，以至于仅仅是空或暂时性假设，或者是任何暂时性假设，就是中心，是所有其他暂时性假设的包容者和被包容者——反之亦然。
+17. 空：_X_不是（仅仅）*X*。
+18. 中庸：*X_出现与_X_不仅仅是_X_的同时性、不可分割性、同异性（这是中庸的最简单表述，“独中”（但中_danzhong*）本身既不是空，也不是临时设定，超越二者且比二者更终极真实，但可以表现为任一者）。
+19. 中心的另一个含义是“非排他性中心”（不但中 *budan zhong)* ：任何两个被认为是不同的事物 *Y* 和 *X*，也不是相同也不是不同于彼此。因为中心永远不会单纯地出现；它总是以某种特定的连贯性显现，对此它并不不同。暂时性假设是空性和中心的每一个实例固有的，而且暂时性假设总是某种特定的暂时性假设（即使是抽象概念“暂时性假设”，或者抽象概念“空性”或“中心”仍然是一个具体的暂时性假设）。每个暂时性假设都涉及到每一个其他暂时性假设，具体而言。*Y* 是 *X* 的实例化。*X* 是 *Y* 的实例化。因此，所有其他出现都与 *X* 是“相互包容的”。因此，中心最终并不超越或比空性或暂时性假设更真实，而是与它们同义相对，以至于仅仅是空或暂时性假设，或者是任何暂时性假设，就是中心，是所有其他暂时性假设的包容者和被包容者——反之亦然。
 
 ### 2.2 全体论自我超越为全减主义
 
@@ -109,7 +108,7 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 ### 2.3 从两谛到三谛：负于自我克服的负面辩证法进入琐碎主义
 
-天台宗的三谛立场源于对印度佛教玛哈雅那学派的哲学家们提出的两谛学说的特定理解，被解释为任何我们对世界所说的具体事物充其量只是一种“常规真理”，这种真理充当了一种“筏子”，以超越它到“空性”的“终极真理”——任何种类的确定性充其量只是一种不可或缺的手段，当完成它们的工作时就应该被抛弃。空性（_Śūnyatā_）的规定本身就是一种超越，不仅超越了所有其他确定性观点，还超越了空性本身作为一种“观点”或理论或概念。终极真理，对空性的真正实现，充其量只是一个用来指向一种无法言喻的体验，即从所有观点、所有关于确定“事物”的明确概念中解放出来的庆祝性术语。这一动机在特定的、泛佛教意义上是与救赎有关的：所有人类努力的目标，包括哲学、伦理学、认识论在内，都被假定为是减少或消除痛苦。佛教声称这就是我们一直在努力做的事情，但通常以一种自我毁灭、无知的方式；它声称提供了一种更有效的方式。请注意，这并不对价值做出任何断言，而是解决了被认为是考虑任何价值时必然包含的内容，即，对欲望作为欲望的结构。欲望就是评价，而痛苦只是我们欲望不满足的结果。因此，所有努力都是为了消除一些痛苦，即，满足一种欲望。佛教的特点贡献在于指出，渴望任何有条件的对象或状态必然是自我毁灭的。这是因为有条件就意味着被一种在性质上不同、异质且外在的原因所产生。但仔细检查，这不可能是一个_单一_的外在原因，因为如果任何效果是由单一原因产生的，那么原因和效果将始终共存——无论何时何地发生这个原因，效果也会发生。但这意味着原因因此不再是效果的外在原因；它们将成为必要的、固有地结合的，实际上是单一不可简化实体的两个方面，这意味着任何因果事件实际上都不会发生。这意味着所有有条件的事物都需要多重原因，而每个原因本身又需要多重原因。
+天台宗的三谛立场源于对印度佛教玛哈雅那学派的哲学家们提出的两谛学说的特定理解，被解释为任何我们对世界所说的具体事物充其量只是一种“常规真理”，这种真理充当了一种“筏子”，以超越它到“空性”的“终极真理”——任何种类的确定性充其量只是一种不可或缺的手段，当完成它们的工作时就应该被抛弃。空性（*Śūnyatā*）的规定本身就是一种超越，不仅超越了所有其他确定性观点，还超越了空性本身作为一种“观点”或理论或概念。终极真理，对空性的真正实现，充其量只是一个用来指向一种无法言喻的体验，即从所有观点、所有关于确定“事物”的明确概念中解放出来的庆祝性术语。这一动机在特定的、泛佛教意义上是与救赎有关的：所有人类努力的目标，包括哲学、伦理学、认识论在内，都被假定为是减少或消除痛苦。佛教声称这就是我们一直在努力做的事情，但通常以一种自我毁灭、无知的方式；它声称提供了一种更有效的方式。请注意，这并不对价值做出任何断言，而是解决了被认为是考虑任何价值时必然包含的内容，即，对欲望作为欲望的结构。欲望就是评价，而痛苦只是我们欲望不满足的结果。因此，所有努力都是为了消除一些痛苦，即，满足一种欲望。佛教的特点贡献在于指出，渴望任何有条件的对象或状态必然是自我毁灭的。这是因为有条件就意味着被一种在性质上不同、异质且外在的原因所产生。但仔细检查，这不可能是一个_单一_的外在原因，因为如果任何效果是由单一原因产生的，那么原因和效果将始终共存——无论何时何地发生这个原因，效果也会发生。但这意味着原因因此不再是效果的外在原因；它们将成为必要的、固有地结合的，实际上是单一不可简化实体的两个方面，这意味着任何因果事件实际上都不会发生。这意味着所有有条件的事物都需要多重原因，而每个原因本身又需要多重原因。
 
 这为任何有条件存在的事物引入了固有的不稳定性和内在冲突，也就是说，任何有限的、确定的事物。无条件的东西必须是无所不在、无所不在、不确定的。但欲望的本质是具有特定满足条件：欲望是要求某种状态的事务，而不是排除其他状态的事务——至少是愉悦而不是痛苦。这意味着所有欲望作为欲望都是对某种有条件事物的欲望；否则就不需要欲望，因为所渴望的状态已经始终无处不在。欲望渴望某种效果，排除任何其他效果；但对于任何单一原因的效力的否定也意味着任何因果过程产生的东西永远不可能只是单一的效果。因为所产生的东西不仅仅取决于任何单一原因，或者确实取决于任何有限的因素集合被视为一个单位，产生新事件总是需要与一些迄今为止被排除的条件相结合。由于根据假设，这个新条件不是原始集合的一部分，它不会总是相同，因此效果也不会相同；每个结合将产生自己的效果，根据假设，结合的集合没有限制（因为这将使它们简单地成为一个单一原因）。不太严谨地说，人们认为这种交叉目的和冲突倾向构建在任何效果中，使得它不可能成为一个稳定的同质实体，始终可以与其排除的相反有条件状态隔离开来，这是特定欲望的排他结构所要求的。任何被渴望的东西必须在特定的时间和地点可辨认地存在，而任何这样的东西都是有条件的，任何有条件的东西都意味着无常，因此会带来痛苦。
 
@@ -121,11 +120,11 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 这导致了一个在几个层面上都有些矛盾的情况。在空性理论中总是存在一个问题：空性本应完全不是一个“观点”，不对现实做任何断言。但是，如果它确实做了任何事情，如果它_否定或排除_任何其他观点，那在天台观中，它仍然是一种观点。因为成为某种特定的东西就意味着排除_另一些_特定的东西。这就是一切“事物”的本质，一切“观点”的本质。成为某物就_意味着_排除其他东西；作为存在的标准没有其他要求。在天台之前的空性理论陷入了无限回归，围绕着空性的超越问题打转：没有陈述可以代表它，即使是“一切皆空”也不行。它纯粹而完全超越任何可以被思考或言说的东西，超越世界中的一切普通认同经验。它是一种否定，据说与其否定的对象毫无关系，完全逃离了关系、条件性的系统。空性被认为是严格“不可思议”的。在天台，这个问题消失了。空性仍然非常重要，但它只是一个_有条件的_对无条件性的断言。我们不是把所有的条件性（可确定性，特殊性）放在一边，所有的无条件性（超越性，不可思议性）放在另一边。一切，每一种经验，每一个认同，每一个行动，都处于同一条船上：它们_既有条件又无条件，既可思议又不可思议_。思想、经验、概念“空性”也同时具有条件性和无条件性，可思议性和不可思议性，就像我们关于“水”和“火”的例子一样。空性是自我爆炸式整体主义的特别高效标记，这个术语最容易随处适用，因此最终无处不在，使所有其他术语也能做到同样。它是暂时性提出的，这意味着它至少在局部上是连贯的（有条件的，确定的，可思议的），但它本身也是空的，这意味着它在全局上是不连贯的（无条件的，不确定的，不可思议的）。它在经验中表现为某种特定的东西（在局部上连贯，就是这个词和这个想法“空性”），但是，就像每一个其他局部连贯性一样，它都被无限的外部环绕，无限的语境，每一个语境都以不同方式给予它背景，从而赋予它替代的认同：它比任何单一概念，包括“空性”概念，都更丰富。空性是，用一个专门为天台使用而创造的词来说，“更多性”（即，始终在构成上具有_更多内容)_ 的品质：而更多性本身也是更多性的。它不仅表现为更多性，还表现为特定的认同，超越、简单的更多性本身。模糊性本身是模糊的：火不仅仅是火，它是模糊的；但模糊性不仅仅是模糊，它也是火。这也适用于其他一切。局部连贯性和全局连贯性（暂时性提出和空性）只是说同一件事的两种方式。
 
-在天台“三谛”理论中，我们并不是得出每个特定观点和事物都是虚假的结论，而是得出最终一切都是真实的结论。每种可能的观点都同样是一种真理。各个层次之间不再有等级之分，也没有纯粹错误的范畴。“天台的世俗真理”并不是在我们达到开悟时要抛弃的东西，而是在那里获得、掌握和加强的东西。此外，没有任何东西被排除在外——所有可能的陈述、观点、想法、概念、立场都是世俗真理。标准仍然是一样的：一切事物都可以被用作通向佛果的“方便法”。所以现在我们有了三谛，它们不是一种像筏一样的工具，用来超越所有陈述和概念，也不是一种最终的更高真理，让我们不再对事物有偏见和特定观点，而是三种观看任何特定事物的真实方式。它不是一种超越所有筏的筏，而是一种引导到制造和容纳所有筏的筏，让人可以随意从任何一种筏移动到另一种筏，包括最初的那种。无论你是在观看世界的某个特定部分还是整个世界，它在“世俗上”是真实的。世俗真理不仅仅有几种，而是无限多，即使它们直接相互对立和矛盾。因此在二谛理论中，我们会说“这是一个杯子”在世俗上是真实的，“这个杯子是空的”是一个更高级的世俗真理，最终引导我们直接体验到这个杯子的空性，摆脱对这个杯子任何观点的执著，这就是摆脱一切痛苦。然而，如果有人指着这个“杯子”说，“这是一只大象”，那将不是一个世俗真理，因为大多数人不是这样想的，这既不是语言社区的普通言论，也不是旨在超越自身的佛教术语。那将是一个明显的错误。如果有人说，“这是上帝的意志的表达”，那也是一个错误，甚至不是一个世俗真理，因为它试图提出一个超越世俗用法的主张，达到终极、普遍适用的绝对真理。但在天台三谛理论中，说“这是一只大象”或“这是巴力的意志”和说“这是一个杯子”一样真实。这两者都不比说“这是空的”不真实，甚至不比“体验”这个杯子/大象的空性不真实。在这两种情况下，我们所拥有的是一种“地方上连贯”的观看这个事物的方式——这只意味着从某种角度、在某些参数内、在某段时间内它看起来是那样。不再重要的是这些参数是否被某个特定社区或言语群体所共享；重要的是它有可能看起来是那样，它从任何地方看起来都是那样，即使只有一瞬间。在二谛和空性理论中，没有什么是真实的。在天台三谛理论中，_一切_都是真实的。我们不需要一个额外的“空性”超越这种“地方上连贯”的看待事物的方式；空性只是意味着无论是_地方上_连贯的东西也是_因此_ _全局上_ _不_连贯的。 也就是说，当考虑到所有因素时，任何事物原始呈现的方式不再是明确无误地存在，而是被恢复为通向所有其他筏舟的筏舟，包括它自身在内，作为所有现实的不可根除的方面，任何现实的方面。
+在天台“三谛”理论中，我们并不是得出每个特定观点和事物都是虚假的结论，而是得出最终一切都是真实的结论。每种可能的观点都同样是一种真理。各个层次之间不再有等级之分，也没有纯粹错误的范畴。“天台的世俗真理”并不是在我们达到开悟时要抛弃的东西，而是在那里获得、掌握和加强的东西。此外，没有任何东西被排除在外——所有可能的陈述、观点、想法、概念、立场都是世俗真理。标准仍然是一样的：一切事物都可以被用作通向佛果的“方便法”。所以现在我们有了三谛，它们不是一种像筏一样的工具，用来超越所有陈述和概念，也不是一种最终的更高真理，让我们不再对事物有偏见和特定观点，而是三种观看任何特定事物的真实方式。它不是一种超越所有筏的筏，而是一种引导到制造和容纳所有筏的筏，让人可以随意从任何一种筏移动到另一种筏，包括最初的那种。无论你是在观看世界的某个特定部分还是整个世界，它在“世俗上”是真实的。世俗真理不仅仅有几种，而是无限多，即使它们直接相互对立和矛盾。因此在二谛理论中，我们会说“这是一个杯子”在世俗上是真实的，“这个杯子是空的”是一个更高级的世俗真理，最终引导我们直接体验到这个杯子的空性，摆脱对这个杯子任何观点的执著，这就是摆脱一切痛苦。然而，如果有人指着这个“杯子”说，“这是一只大象”，那将不是一个世俗真理，因为大多数人不是这样想的，这既不是语言社区的普通言论，也不是旨在超越自身的佛教术语。那将是一个明显的错误。如果有人说，“这是上帝的意志的表达”，那也是一个错误，甚至不是一个世俗真理，因为它试图提出一个超越世俗用法的主张，达到终极、普遍适用的绝对真理。但在天台三谛理论中，说“这是一只大象”或“这是巴力的意志”和说“这是一个杯子”一样真实。这两者都不比说“这是空的”不真实，甚至不比“体验”这个杯子/大象的空性不真实。在这两种情况下，我们所拥有的是一种“地方上连贯”的观看这个事物的方式——这只意味着从某种角度、在某些参数内、在某段时间内它看起来是那样。不再重要的是这些参数是否被某个特定社区或言语群体所共享；重要的是它有可能看起来是那样，它从任何地方看起来都是那样，即使只有一瞬间。在二谛和空性理论中，没有什么是真实的。在天台三谛理论中，*一切_都是真实的。我们不需要一个额外的“空性”超越这种“地方上连贯”的看待事物的方式；空性只是意味着无论是_地方上_连贯的东西也是_因此* *全局上* _不_连贯的。 也就是说，当考虑到所有因素时，任何事物原始呈现的方式不再是明确无误地存在，而是被恢复为通向所有其他筏舟的筏舟，包括它自身在内，作为所有现实的不可根除的方面，任何现实的方面。
 
-## 3. 转化性自我再语境化（开权显实 _kaiquanxianshi_）
+## 3. 转化性自我再语境化（开权显实 *kaiquanxianshi*）
 
-这种奇怪的“既非相同又非不同”的三谛结构应当根据另一个关键的天台概念来理解，“开权显实 _kaiquan xianshi_”。这是进一步明确局部连贯性和整体不连贯性之间关系的一种方式，它们不仅是同义的，而且是不可撤销地相对立的，实际上仅通过它们的对立和相互排斥才是相同的。权宜之谛是前提，是前提，实际上在一个独特意义上是终极真理的_原因_，但仅仅是因为它严格排除了终极真理。
+这种奇怪的“既非相同又非不同”的三谛结构应当根据另一个关键的天台概念来理解，“开权显实 *kaiquan xianshi*”。这是进一步明确局部连贯性和整体不连贯性之间关系的一种方式，它们不仅是同义的，而且是不可撤销地相对立的，实际上仅通过它们的对立和相互排斥才是相同的。权宜之谛是前提，是前提，实际上在一个独特意义上是终极真理的_原因_，但仅仅是因为它严格排除了终极真理。
 
 ### 3.1 现实的设置-点题结构
 
@@ -193,25 +192,25 @@ _首次发布于 2014 年 11 月 19 日星期三；实质性修订于 2022 年 1
 
 The things described by the Four Noble Truths – i.e., all conditional experience of suffering as well as the experience of the Unconditioned which is liberation from suffering—actually arise and perish. (_生灭_四谛)
 
-All things are empty in that they are impermanent, and vanish without remainder when analyzed and dissolved into their parts (“analytic emptiness” _析空_).
+All things are empty in that they are impermanent, and vanish without remainder when analyzed and dissolved into their parts (“analytic emptiness” *析空*).
 
 2. Shared Teaching 通教：它所指的“生不生”实际上是“无生”。
 
-被四圣谛所描述的事物——即所有有条件的苦难经验以及解脱于苦难的无条件经验——不会产生（或灭亡）。 (_无生四谛_)
+被四圣谛所描述的事物——即所有有条件的苦难经验以及解脱于苦难的无条件经验——不会产生（或灭亡）。 (*无生四谛*)
 
 一切事物从一开始在本质上都是空的（无论是字面上的暂时性并分解为部分与否）（“实体空”）。
 
 3. 别教: 不生生，或字面上，“the arisings of what does not arise”
 
-被四圣谛描述的事物——即所有有条件的苦难经验以及解脱于苦难的无条件经验——不仅可以被有效地描述为“真正”地空无任何自身的决定，因此既不生不灭，而且，因为它们也是菩萨慈悲解脱工作的方面，可以用无量种方式来描述。 (_wuliang_ _sidi_ 无量四谛)
+被四圣谛描述的事物——即所有有条件的苦难经验以及解脱于苦难的无条件经验——不仅可以被有效地描述为“真正”地空无任何自身的决定，因此既不生不灭，而且，因为它们也是菩萨慈悲解脱工作的方面，可以用无量种方式来描述。 (*wuliang* *sidi* 无量四谛)
 
-以往对事物为空或非空的描述都是片面的，因为事物实际上既不空也不非空。相反，空无和所有非空的事物都是“中道”的表现，是超越但也包括未生和已生两个方面的_tertium_ _quid_，既有形又无形，由无形无止境地产生形式，唯有形式的无形存在。这是将空无和非空合而为一的崩溃：它们的统一，这是二者的真正根源：这就是佛性，作为“独中佛性”，隐藏在两个极端之下，是一切现象的内在核心，作为它们的源头和最终现实。
+以往对事物为空或非空的描述都是片面的，因为事物实际上既不空也不非空。相反，空无和所有非空的事物都是“中道”的表现，是超越但也包括未生和已生两个方面的_tertium_ *quid*，既有形又无形，由无形无止境地产生形式，唯有形式的无形存在。这是将空无和非空合而为一的崩溃：它们的统一，这是二者的真正根源：这就是佛性，作为“独中佛性”，隐藏在两个极端之下，是一切现象的内在核心，作为它们的源头和最终现实。
 
 4. 完全教：圆教：由未生之物所生之无生不生，或直译为“无生的无生”。
 
-四圣谛所描述的事物——即所有有条件的苦难经验以及从苦难中解脱的经验——以所有这些无限的替代形式，实际上，在它们非常无限的产生中，是未创造和未开始（也是不可完成的）。(_无作四谛_)
+四圣谛所描述的事物——即所有有条件的苦难经验以及从苦难中解脱的经验——以所有这些无限的替代形式，实际上，在它们非常无限的产生中，是未创造和未开始（也是不可完成的）。(*无作四谛*)
 
-每一件事物既是空的、非空的，也是中心的。每一件事物既不是空的、非空的，也不是中心的。每一件事物完全且仅仅是空的。每一件事物完全且仅仅是非空的。每一件事物完全且仅仅是中心的。每一件事物包含其他一切事物。每一件事物被其他一切事物所包含。本段中的每个句子都是同义词。不仅仅是每一件事物：空的方面本身也是空的、非空的和中心的，纯粹从自身角度考虑不仅仅是否定所有事物，而且，当充分思考时，是提出所有事物（非空）以及提出和否定的同一性（中心）。非空性和中心性的方面也是如此：每一个单独的方面都是这三者。这就是“非排他性中心”。_不但中佛性_ 因为这是佛陀生活和实现的内容，也被称为“佛性”。每一件事物是宇宙的中心，其他所有事物的实质属性。每一个是产生所有事物的源泉，但也固有地包含所有事物在其内，以至于它不产生任何事物，同样地，被任何其他事物产生和包含。每一件事物都可以被等同地阅读为任何其他事物。每一件事物也是其他所有事物趋向的终点，所有事物的目的。这四个立场及其相互关系的更详细阐述，请参阅以下附加文件：
+每一件事物既是空的、非空的，也是中心的。每一件事物既不是空的、非空的，也不是中心的。每一件事物完全且仅仅是空的。每一件事物完全且仅仅是非空的。每一件事物完全且仅仅是中心的。每一件事物包含其他一切事物。每一件事物被其他一切事物所包含。本段中的每个句子都是同义词。不仅仅是每一件事物：空的方面本身也是空的、非空的和中心的，纯粹从自身角度考虑不仅仅是否定所有事物，而且，当充分思考时，是提出所有事物（非空）以及提出和否定的同一性（中心）。非空性和中心性的方面也是如此：每一个单独的方面都是这三者。这就是“非排他性中心”。*不但中佛性* 因为这是佛陀生活和实现的内容，也被称为“佛性”。每一件事物是宇宙的中心，其他所有事物的实质属性。每一个是产生所有事物的源泉，但也固有地包含所有事物在其内，以至于它不产生任何事物，同样地，被任何其他事物产生和包含。每一件事物都可以被等同地阅读为任何其他事物。每一件事物也是其他所有事物趋向的终点，所有事物的目的。这四个立场及其相互关系的更详细阐述，请参阅以下附加文件：
 
 [四教](https://plato.stanford.edu/entries/buddhism-tiantai/four-teachings.html)
 
@@ -235,7 +234,7 @@ All things are empty in that they are impermanent, and vanish without remainder 
 
 在所有其他情况下也是如此。我们可以说一切都是苦—意思是“苦-乐”。我们可以说一切都是乐—意思是“乐-苦”。我们可以说一切都是心—意思是“心-物”。我们可以说一切都是物—意思是“物-心”。我们可以说有一个上帝—意思是“有神-无神”。我们可以说没有上帝—意思是“无神-有神”。我们可以说一切都是幻觉—意思是“幻觉-现实”。我们可以说一切都是现实—意思是“现实-幻觉”。我们可以说有些事情是真实的，有些是虚假的—意思是“有些-一切是真实-虚假，一切-有些是虚假-真实”。我们可以说存在历史进步—意思是“进步-停滞”。我们可以说存在历史停滞—意思是“停滞-进步”。我们可以说社会是邪恶的—意思是“邪恶-善”。我们可以说社会是善良的—意思是“善-邪恶”。我们可以说我们有时快乐有时悲伤—意思是“我们-每个人有时-总是快乐-悲伤，有时-总是悲伤-快乐”。等等。我们应该如何选择在任何时候说什么？如果一切事物在某种意义上都是可说的，我们现在应该说什么？我们应该说任何最有助于从苦难、片面的执着中解脱的东西，在这特定的情境和背景中。
 
-## 4. 所有现象的究竟真相（諸法實相 _zhufashixiang_）
+## 4. 所有现象的究竟真相（諸法實相 *zhufashixiang*）
 
 同样的方法贯穿了天台宗所有令人震惊的口号，比如声称“一切时刻都是永恒的”，正如我们所见，或者“所有表象都是终极现实”，又或者“恶无法从最高善——佛性中根除”。它们说的就是这个意思：当然，没有任何时刻会结束，无论任何事物对任何人呈现出怎样的状态，无论持续多久，都是一切事物产生、归于的终极现实，解释、支撑和维系一切事物。这是确凿无疑的。相反的情况也同样成立。但这些特定的主张在古代天台文献中被强调，以抵消更普遍的偏见，这些偏见倾向于另一方面。因为在其他佛教教义中强调事物的无常和表象的虚幻，人们认为任何接触天台宗的人都已经意识到现实的这一面，并且可能会陷入执着于此的危险。因此，天台宗主张相反的观点，同样是正确的。
 
@@ -249,7 +248,7 @@ All things are empty in that they are impermanent, and vanish without remainder 
 
 一种思考这个问题的方式是考虑一个磁铁。它有一个北极和一个南极。如果我们想要将北极和南极分开，我们可以尝试将其切成两半。但是当我们这样做时，我们发现每一半仍然都有一个北极和一个南极。无论我们切多少次，整体特征的全部集合也存在于那个独立的部分中：北性和南性完全存在于原先在整个磁铁的背景下纯粹是北部分的部分，也存在于原先的南部分。这就是天台宇宙的情况：宇宙是一个大磁铁，但它不仅仅有一个北极和一个南极，它有 3000 个不同的特征方面：人性、你性、火车、海洋、狗、汤、历史事件、微笑、眼泪、迷惑、开悟。然而，如果我们试图孤立其中任何一个，我们最终得到的是另一个完整的“磁铁”，它也具有所有 3000 个方面：这个人性，结果表明，也有它的你性部分，火车部分，海洋部分，狗部分，等等。当我面对你时，是你和我面对你和我。是我和所有世界面对所有世界和我。是整个宇宙面对整个宇宙。我们总是不同的，因为无论我们走到哪里，都有一个你和一个我，两个不同的方面，永远不会融入单一品质的空洞冷漠混沌中。但由于我和你对比我和你，实际上根本没有对比：相同的事物在对比的两侧都能找到。我们既不相同也不不同。我们与自己分离，不可能统一为简单的统一体，但正因为如此，我们也不可能彼此分离。我们每个人，在每一刻，总的来说，都是绝对的，是一切显现的中心，也是以一切事物的形式显现的中心。一切事物都是我们的化身，我们是一切事物的化身。
 
-### 4.2 佛性作为《蜣螂本性的完全实现》_等_
+### 4.2 佛性作为《蜣螂本性的完全实现》*等*
 
 这也意味着，一个人越充分意识到自己是任何特定存在，就越意识到他或她也是所有其他对立的事物。这就是传统佛教的“无我”教义在天台宗中得以体现的方式。我以为我已经是这个自我，布鲁克，但实际上，佛教告诉我，我还不是真正的这样的自我——因为成为一个自我就意味着无条件，而对于“我”这个有条件的确定存在来说是不可能的。而且，我还没有开悟——因为开悟就是无条件性，是摆脱苦难的唯一途径。要成为无条件的，就像我以为自己是一个自我时那样，就是要成佛。这种无我是唯一真正满足我之前渴望成为自我的欲望的东西，实际上_成为_我。我不能通过成为一个有条件的确定存在的我来实现这一点，排除所有其他存在，也不能排除其他存在而成为我。相反，通过三谛，我只能通过变得越来越像其他一切而变得越来越像我自己，这就是变得越来越开悟的含义，变得越来越像我自己，更无条件地成为这个特定的我。要“成为我自己”，成为一个更充分实现的版本的我，就是要把我自己，尤其是布鲁克，看作是无条件的，这意味着无所不在和永恒，也意味着在一切事物中表达自己，也就是说，相反地，相互包容，即，作为所有其他事物的表达，作为所有其他事物出现的_作为_。在成为一个佛之前，我不能成为我自己，但在我能更充分地（即更无条件地，更普遍地）成为我自己之前，我也不能成为一个佛，这意味着更充分地成为一个恶魔、一个傻瓜、一张桌子、一艘太空飞船，或者，如司铭之力的例子，一只蜣螂。佛教修行是我潜在佛性逐渐更充分显现的过程——这也意味着我潜在蜣螂本质逐渐更充分显现，实际上，我据称很久以前已经实际但实际上只是潜在的布鲁克本质。
 
@@ -263,7 +262,7 @@ All things are empty in that they are impermanent, and vanish without remainder 
 
 ### 5.2 观心为三千
 
-这些替代方法或教义的任何一种被重新背景化以促进所期望的天台含义的方式，是通过补充任何可能内容的三谛观。天台禅最主要地应用了一种称为“观心”的方法，（观心 _guanxin_）在智顗对一念三千（日语：ichinensanzen）的阐释中得到了最著名的表述，这意味着：“一瞬间的体验如同三千世界”。 “三千”当然是一种说“一切”的方式，但实际上它确实比那更多一些。因为当然，正如智识本人所指出的，任何数字都可以同样准确地用来谈论所有事物的总体，从零到无穷。这个数字“三千”是专门为了冥想实践而构想的。它是如何衍生出来的：
+这些替代方法或教义的任何一种被重新背景化以促进所期望的天台含义的方式，是通过补充任何可能内容的三谛观。天台禅最主要地应用了一种称为“观心”的方法，（观心 *guanxin*）在智顗对一念三千（日语：ichinensanzen）的阐释中得到了最著名的表述，这意味着：“一瞬间的体验如同三千世界”。 “三千”当然是一种说“一切”的方式，但实际上它确实比那更多一些。因为当然，正如智识本人所指出的，任何数字都可以同样准确地用来谈论所有事物的总体，从零到无穷。这个数字“三千”是专门为了冥想实践而构想的。它是如何衍生出来的：
 
 \| **十界相乘** | **十界相乘** | **十如相乘** | **三界=3000** |
 
@@ -295,7 +294,7 @@ All things are empty in that they are impermanent, and vanish without remainder 
 
 另一个重复出现在“三界”中。我们有“五蕴”，也有“众生”。实际上，这两种看法是针对同一事物的。早期佛教教导我们所谓的众生——你、我、比尔、戴夫——实际上是一组五蕴，瞬息生成和消逝的非人格化过程，包括色、受、想、行、识。一个（蕴）是真实的，另一个（所谓的“自我”）是一种有害的幻觉。三千包括了两者。换句话说，它不排除关于“存在的全部”中的事物的幻觉——正如我们所见，所有事物同样是幻觉，也同样是真实的。把你看作比尔的观点是列表中的一项；把你看作五个非人格化蕴过程的观点是列表中的另一项。在这里，我们也有一种简便的方式指向更大的原则，并提醒我们在思考“存在的一切”时要牢记这一点。我们不应该认为一组真实实体并排而立，彼此互相排斥，其中可能还有一些额外的错误观点。相反，错误观点是存在的一部分，事实上一切存在都是某种错误（即片面的、局部连贯的）观点。没有所谓的“事物”：事物只是一种出现的方式，并伴随着对它的观点。天台进一步坚持认为，要有一个单一观点，至少需要另一个观点，如此_无限循环_。通常我们消除模棱两可，称之为“主观性”或“自由意志”或“未知的未来”一侧，将“现实性”放在另一侧，称之为“客观性”或“确定的事实”或“已定的过去”。在天台，这些是不可分割的，只是从整体中人为地分离出来的方面，总是既固定又开放，局部连贯又全局不连贯。
 
-上述列举的经典文献是智顗关于禅定的权威著作《摩诃止观》(摩訶止觀)，在这本书中，它被描述为“可思议之境”。这段文字逐一引导我们经历所有可能的经验对象，几乎像是沃尔特·惠特曼《草叶集》中的一份清单，同时还援引这些多视角的重复，这些重复是由它们相互包容而产生的，这是智顗的三谛学说赋予所有实体的本体模糊所导致的结果。他告诉我们，他以这种方式呈现阐释的原因是因为这里真正感兴趣的主题，他称之为“不可思议之境”，即中心天台禅定的拟议对象，在理论层面上很难直接呈现：只有通过首先描述“可思议”之境作为铺垫，才能揭示它。一旦完成了对可思议之境的列举，术语“不可思议之境”的实际指涉最终被呈现出来。原来它是任何一个瞬息的经验，通过认知器官和认知对象的有条件结合瞬息而生，这就是每个有情众生在每一刻都在经历的东西。为什么智顗突然要求我们考虑一个瞬时的心理事件，在眨眼之间产生和消逝的经验，这个特定的时刻呢？三谛的本体模糊也适用于这个实体，但现在的任务是在实践中实现这一点，而不仅仅是在理论上。为了描述这涉及到什么，智顗随后断言，如果有任何经验的细微烟尘出现，上述列举的三千个东西立即都囊括其中，并且，正如他继续解释的那样，严格等同于它—一种表达“既非相同又非不同于它”的方式（若无心而己，_介尔有心_，即具三千）。有关该段的英文翻译，请参阅斯旺森 2018 年，第 2 卷，第 795—836 页，特别是第 815-6 页。
+上述列举的经典文献是智顗关于禅定的权威著作《摩诃止观》(摩訶止觀)，在这本书中，它被描述为“可思议之境”。这段文字逐一引导我们经历所有可能的经验对象，几乎像是沃尔特·惠特曼《草叶集》中的一份清单，同时还援引这些多视角的重复，这些重复是由它们相互包容而产生的，这是智顗的三谛学说赋予所有实体的本体模糊所导致的结果。他告诉我们，他以这种方式呈现阐释的原因是因为这里真正感兴趣的主题，他称之为“不可思议之境”，即中心天台禅定的拟议对象，在理论层面上很难直接呈现：只有通过首先描述“可思议”之境作为铺垫，才能揭示它。一旦完成了对可思议之境的列举，术语“不可思议之境”的实际指涉最终被呈现出来。原来它是任何一个瞬息的经验，通过认知器官和认知对象的有条件结合瞬息而生，这就是每个有情众生在每一刻都在经历的东西。为什么智顗突然要求我们考虑一个瞬时的心理事件，在眨眼之间产生和消逝的经验，这个特定的时刻呢？三谛的本体模糊也适用于这个实体，但现在的任务是在实践中实现这一点，而不仅仅是在理论上。为了描述这涉及到什么，智顗随后断言，如果有任何经验的细微烟尘出现，上述列举的三千个东西立即都囊括其中，并且，正如他继续解释的那样，严格等同于它—一种表达“既非相同又非不同于它”的方式（若无心而己，*介尔有心*，即具三千）。有关该段的英文翻译，请参阅斯旺森 2018 年，第 2 卷，第 795—836 页，特别是第 815-6 页。
 
 ##
 
@@ -333,59 +332,59 @@ All things are empty in that they are impermanent, and vanish without remainder 
 
 ## Bibliography
 
-* Andō Toshio 安藤俊雄, 1964, “Nyorai seiaku sisō no sōsetsusha: Guandingsetsu he no hanron 如来性悪思想の創說者: 灌頂說への反論 (The Author of the Theory of the Buddha’s Inherent Evil: A Refutation of Guanding’s Authorship)”, _Ōtani Gakuhō_ 大谷学報 (The Journal of Buddhism & Cultural Science), 44(1): 1–22.
-* –––, 1973, _Tendai shōgu shisōron_ 天台性具思想論 (On the Tiantai Theory of Nature-Inclusion), Kyoto: Hōzōkan.
-* Chen Jian 陈坚, 2007, _Fannao ji puti: Tiantai “xing’e” sixiang yanjiu_ 烦恼即菩提—天台性恶思想研究 (Defilement is Identical to Enlightenment: An Investigation of the Tiantai Doctrine of Inherent Evil), Beijing: Zongjiao wenhua.
-* Chen Yingshan 陳英善, 1997, _Tiantai yuanqi zhongdao shixiang lun_ 天台緣起中道實相論 (On the Tiantai Theory of Middle-way Reality Based on Dependant Arising), Taipei: Fagu Wenhua.
-* Clower, Jason, 2010, _The Unlikely Buddhologist: Tiantai Buddhism in Mou Zongsan’s New Confucianism_, Leiden \[etc.]: Brill.
-* Dong Ping 董平, 2002, _Tiantaizong yanjiu_ 天台宗研究 (A Study on the Tiantai School), Shanghai: Shanghai Guji.
-* Donner, Neal, 1987, “Chih-i’s Meditation on Evil”, in _Buddhist and Taoist Practice in Medieval Chinese Society_, edited by David. W. Chappell, Honolulu: University of Hawai‘i Press, 49–64.
-* Donner, Neal and Daniel B. Stevenson, 1993, _The Great Calming and Contemplation: a Study and Annotated Translation of the First Chapter of Chih-I’s Mo-ho Chih-kuan_, Honlulu: University of Hawai‘i Press.
-* Emerson, Ralph Waldo, 1841, “History”, in _Essays_, republished in 1847, _Essays: First Series_. \[[Emerson 1841 available online](http://www.emersoncentral.com/history.htm)]
-* Guo Chaoshun 郭朝順, 2004, _Tiantai Zhiyi de quanshi lilun_ 天台智顗的詮釋理論 (The Hermeneutic Theory of Tiantai Zhiyi), Taipei: Liren shuju.
-* –––, 1999, “Zhanran wuqing youxing sixiang zhong de zhenru gainian 湛然「無情有性」思想中的 「真如」概念 (The Concept of Suchness in Zhanran’s Thought on Insentient Beings Having Buddha-nature)”, _Yuanguang Buddhist Periodical_ 圓光佛學學報, 3(February): 45–72.
+* Andō Toshio 安藤俊雄, 1964, “Nyorai seiaku sisō no sōsetsusha: Guandingsetsu he no hanron 如来性悪思想の創說者: 灌頂說への反論 (The Author of the Theory of the Buddha’s Inherent Evil: A Refutation of Guanding’s Authorship)”, *Ōtani Gakuhō* 大谷学報 (The Journal of Buddhism & Cultural Science), 44(1): 1–22.
+* –––, 1973, *Tendai shōgu shisōron* 天台性具思想論 (On the Tiantai Theory of Nature-Inclusion), Kyoto: Hōzōkan.
+* Chen Jian 陈坚, 2007, *Fannao ji puti: Tiantai “xing’e” sixiang yanjiu* 烦恼即菩提—天台性恶思想研究 (Defilement is Identical to Enlightenment: An Investigation of the Tiantai Doctrine of Inherent Evil), Beijing: Zongjiao wenhua.
+* Chen Yingshan 陳英善, 1997, *Tiantai yuanqi zhongdao shixiang lun* 天台緣起中道實相論 (On the Tiantai Theory of Middle-way Reality Based on Dependant Arising), Taipei: Fagu Wenhua.
+* Clower, Jason, 2010, *The Unlikely Buddhologist: Tiantai Buddhism in Mou Zongsan’s New Confucianism*, Leiden \[etc.]: Brill.
+* Dong Ping 董平, 2002, *Tiantaizong yanjiu* 天台宗研究 (A Study on the Tiantai School), Shanghai: Shanghai Guji.
+* Donner, Neal, 1987, “Chih-i’s Meditation on Evil”, in *Buddhist and Taoist Practice in Medieval Chinese Society*, edited by David. W. Chappell, Honolulu: University of Hawai‘i Press, 49–64.
+* Donner, Neal and Daniel B. Stevenson, 1993, *The Great Calming and Contemplation: a Study and Annotated Translation of the First Chapter of Chih-I’s Mo-ho Chih-kuan*, Honlulu: University of Hawai‘i Press.
+* Emerson, Ralph Waldo, 1841, “History”, in *Essays*, republished in 1847, *Essays: First Series*. \[[Emerson 1841 available online](http://www.emersoncentral.com/history.htm)]
+* Guo Chaoshun 郭朝順, 2004, *Tiantai Zhiyi de quanshi lilun* 天台智顗的詮釋理論 (The Hermeneutic Theory of Tiantai Zhiyi), Taipei: Liren shuju.
+* –––, 1999, “Zhanran wuqing youxing sixiang zhong de zhenru gainian 湛然「無情有性」思想中的 「真如」概念 (The Concept of Suchness in Zhanran’s Thought on Insentient Beings Having Buddha-nature)”, *Yuanguang Buddhist Periodical* 圓光佛學學報, 3(February): 45–72.
 * –––, 1995, “Zhanran yu chengguan foxing sixiang zhi yanjiu 湛然與澄觀佛性思想之研究 (A Comparative Study of Zhanran’s and Chengguan’s Thought of Buddha-Nature.)” PhD diss., Wenhua University.
-* Hurvitz, Leon, 1963, _Chih-I (538–599): An Introduction to the Life and Ideas of a Chinese Buddhist Monk_, Bruxelles: Inst. Belge des Hautes Etudes Chinoises.
-* Jingquan Dashi 靜權大師, 1993, _Tiantaizong gangyao_ 天台宗綱要 (An Outline of the Essentials of the Tiantai School), Kaohsiung, Taiwan: Wenshu Jiangtang.
-* Kantor, Hans-Rudolf, 2009, “Zhiyi’s Great Calming and Contemplation”, in _Buddhist Philosophy: Essential Readings_, edited by William Edelglass and Jay L. Garfield, New York: Oxford, 334–47.
-* Li Silong 李四龙, 2003, _Tiantai Zhizhe yanjiu: jian lun zongpai fojiao de xingqi_ 天台智者研究: 兼论宗派佛教的兴起 (A Study of Tiantai Zhizhe: with a Discussion about the Rising of Buddhist Sectarianism), Beijing: Beijing University.
-* Loy, David R., 2004, “Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought (review)”, _Philosophy East and West_, 54(1): 99–103.
-* –––, 2005, “Evil as the Good? A Reply to Brook Ziporyn”, _Philosophy East and West_, 55(2): 348–52.
-* Mou Zongsan 牟宗三, 1989, _Foxing yu bore_ 佛性與般若 (Buddha-nature and _Prajñā_), Taipei: Xuesheng shuju.
-* Ng Yu-Kwan 吳汝鈞, 2002, _Fahua xuanyi de zhexue yu gangling_ 法華玄義的哲學與綱領 (The Philosophy and Outline of the _Fahua Xuanyi_), Taipei: Wenjin.
-* –––, 1993, _T’ien-t’ai Buddhism and Early Madhyamika_, Honolulu: University of Hawai‘i Press.
-* –––, 1999, _Tiantai Zhiyi de xinling zhexue_ 天台智顗的心靈哲學 (Tiantai Zhiyi’s Philosophy on the Mind), Taipei: Taiwan shangwu.
-* Pan Guiming 潘桂明, 2006, _Zhiyi pingzhuan_ 智顗評傳 (_A Critical Biography of Zhiyi_), Nanjing: Nainjing University Press.
-* Pan Guiming and Wu Zhongwei 吴忠伟, 2001, _Zhongguo tiantaizong tongshi_ 中国天台宗通史 (A General History of Chinese Tiantai School), Nanjing: Jiangsu guji.
-* Penkower, Linda L., 1997, “Making and Remaking Tradition: Chan-Jan’s Strategies toward a T’ang T’ien-t’ai Agenda”, in _Tendai daishi no kenkyuu_ 天台大師研究: 天台大師千四百年御遠忌記念 (A Study of Great Master Tiantai), edited by Tedai daishi no kenkyu henshu i-inkai, Tokyo: Tendai gakkai, 1289–1338.
+* Hurvitz, Leon, 1963, *Chih-I (538–599): An Introduction to the Life and Ideas of a Chinese Buddhist Monk*, Bruxelles: Inst. Belge des Hautes Etudes Chinoises.
+* Jingquan Dashi 靜權大師, 1993, *Tiantaizong gangyao* 天台宗綱要 (An Outline of the Essentials of the Tiantai School), Kaohsiung, Taiwan: Wenshu Jiangtang.
+* Kantor, Hans-Rudolf, 2009, “Zhiyi’s Great Calming and Contemplation”, in *Buddhist Philosophy: Essential Readings*, edited by William Edelglass and Jay L. Garfield, New York: Oxford, 334–47.
+* Li Silong 李四龙, 2003, *Tiantai Zhizhe yanjiu: jian lun zongpai fojiao de xingqi* 天台智者研究: 兼论宗派佛教的兴起 (A Study of Tiantai Zhizhe: with a Discussion about the Rising of Buddhist Sectarianism), Beijing: Beijing University.
+* Loy, David R., 2004, “Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought (review)”, *Philosophy East and West*, 54(1): 99–103.
+* –––, 2005, “Evil as the Good? A Reply to Brook Ziporyn”, *Philosophy East and West*, 55(2): 348–52.
+* Mou Zongsan 牟宗三, 1989, *Foxing yu bore* 佛性與般若 (Buddha-nature and *Prajñā*), Taipei: Xuesheng shuju.
+* Ng Yu-Kwan 吳汝鈞, 2002, *Fahua xuanyi de zhexue yu gangling* 法華玄義的哲學與綱領 (The Philosophy and Outline of the *Fahua Xuanyi*), Taipei: Wenjin.
+* –––, 1993, *T’ien-t’ai Buddhism and Early Madhyamika*, Honolulu: University of Hawai‘i Press.
+* –––, 1999, *Tiantai Zhiyi de xinling zhexue* 天台智顗的心靈哲學 (Tiantai Zhiyi’s Philosophy on the Mind), Taipei: Taiwan shangwu.
+* Pan Guiming 潘桂明, 2006, *Zhiyi pingzhuan* 智顗評傳 (*A Critical Biography of Zhiyi*), Nanjing: Nainjing University Press.
+* Pan Guiming and Wu Zhongwei 吴忠伟, 2001, *Zhongguo tiantaizong tongshi* 中国天台宗通史 (A General History of Chinese Tiantai School), Nanjing: Jiangsu guji.
+* Penkower, Linda L., 1997, “Making and Remaking Tradition: Chan-Jan’s Strategies toward a T’ang T’ien-t’ai Agenda”, in *Tendai daishi no kenkyuu* 天台大師研究: 天台大師千四百年御遠忌記念 (A Study of Great Master Tiantai), edited by Tedai daishi no kenkyu henshu i-inkai, Tokyo: Tendai gakkai, 1289–1338.
 * –––, 1993, “T’ien-t’ai During the T’ang Dynasty: Chan-jan and the Sinification of Buddhism”, PhD diss., Columbia University.
-* Satō Tetsuei 佐藤哲英, 1961, “Tendai seiaku hōmon no sōshōsha: Shōkannongyōsho no sakusha nitsuite 天台性惡法門の創唱者: 請觀音經疏の作者について (The Author of the Theory of Inherent Evil in Tiantai: on the Author of the _Qingguanyinjingshu_)”,_Indogaku Bukkyōgaku Kenkyū_ 印度學佛教學研究 (Journal of Indian and Buddhist Studies), 9(2): 67–72.
-* Shi Dachang 釋大常, 2004, _Zhizhe Dashi panshi “sanzangjiao” zhi yanjiu_ 智者大師判釋 「三藏教」之研究 (A Study of Great Master Zhiyi’s Classification and Hermeneutics on the _Tripiṭaka_ Teaching), Taipei: Fagu wenhua.
-* Shi Fazang 释法藏, 2002, “_Cong tiantai yuanjiao zhi jianli shi lun yuanjiao zhiguan de shijian_ 从天台圆教之建立试论圆教止观的实践 (A Discussion on the Practice of Calming and Contemplation in the Perfect Teaching from the Perspective of the Establishment of Tiantai Perfect Teaching)”, _Taizong yanjiu_ 台宗研究 (第二期) (A Study of the Tiantai School), 2: 80–116.
-* Shi Huiyue 釋慧岳, 1995, _Zhili_ 知禮, Taipei: Dongda.
-* Shi Huiyue 釋慧嶽, 1993, _Tiantai jiaoxue shi_ 天臺教學史 (A History of Tiantai Teachings), Taipei: the Corporate Body of the Buddha Educational Foundation.
-* Stone, Jacqueline I., 1999, _Original Enlightenment and the Transformation of Medieval Japanese Buddhism_, Honolulu: University of Hawai‘i Press.
-* Swanson, Paul L., 2018, _Clear Serenity, Quiet Insight: T’ien-t’ai Chih-i’s Mo-ho chich-kuan,_ translation and commentary by Paul L Swanson, in Three Volumes, Honolulu: University of Hawai‘i Press.
-* –––, 1989, _Foundations of T’ien-t’ai Philosophy: The Flowering of the Two Truths Theory in Chinese Buddhism_, (Nanzan Studies in Religion and Culture), Asian Humanities Press.
-* –––, 1990, “T’ien-t’ai Chih-i’s Concept of Threefold Buddha Nature—A Synergy of Reality, Wisdom, and Practice”, in _Buddha Nature: A Festschrift in Honor of Minoru Kiyota_, edited by Paul J. Griffiths and John P. Keenan, Tokyo: Buddhist Books International, 171–80.
-* –––, 1994, “Understanding Chih-i: Through a glass, darkly?” _Journal of the International Association of Buddhist Studies_, 17(2): 337–60.
-* Wang Zhiyuan 王志遠, 2004, _Jin’gangpi_ 金剛錍 (The Diamond Scalpel \[of Jingxi Zhanran]), Kaohsiung, Taiwan: Foguang.
-* Wu Zhongwei 吴忠伟, 2007, _Yuanjiao de weiji yu puxi de zaisheng: Songdai Tiantaizong shanjia shanwai zhi zheng yanjiu_ 圆教的危机与普系的再生: 宋代天台宗山家山外之争研究 (The Crisis of the Perfect Teaching and the Rebirth of Lineages: A Study of the Dispute between Shanjia and Shanwai of Song Tiantai Buddhism), Changchun: Jilin renmin.
-* Yu Xueming 俞学明, 2006, _Zhanran yanjiu: Yi Tangdai Tiantaizong zhongxing wenti wei xiansuo_ 湛然研究: 以唐代天台宗中兴问题为线索 (A Study of Zhanran: A Clue to the Issue of the Revival of the Tiantai School in the Tang Dynasty. Beijing: Zhongguo shehui kexue.
-* Zeng Qihai 曾其海, 1999, _Tiantai foxue_ 天台佛学 (Tiantai Buddhism), Shanghai: Xuelin.
-* –––, 2007, “Tiantaizong Zhili da riben guoshi wen 天台宗知礼答日本国师问 (ZhiLi’s Answers to the Japanese Minister’s Questions on Tiantai Buddhism)”, _Taizhou Xueyuan Xuebao_ 台州学院学报, 29(5, October): 10–13.
-* Zhou Shujia 周叔迦, 1999, “Wuqing you foxing” 无情有佛性 (Insentient Beings Have Buddha-Nature), _Fojiao wenhua_ 佛教文化, 4: 14–15.
-* Ziporyn, Brook, 2004, _Being and Ambiguity: Philosophical Experiments with Tiantai Buddhism_, La Salle and Chicago: Open Court Press.
-* –––, 2013, _Beyond Oneness and Difference: Li and Coherence in Chinese Buddhist Thought and Its Antecedents_, Albany: State University of New York Press.
-* –––, 2016, _Emptiness and Omnipresence: An Essential Introduction to Tiantai Buddhism_, Bloomington and Indianapolis: Indiana University Press.
-* –––, 2000, _Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought_, Cambridge, MA.: Harvard University Asia Center.
-* –––, 2009, “How the Tree Sees Me: Sentience and Insentience in Tiantai and Merleau-Ponty”, in _Merleau-Ponty and Buddhism_, edited by Jin Y. Park and Gereon Kopf, Lanham, MD: Lexington, 61–82.
-* –––, 2013, _Ironies of Oneness and Difference_: _Coherence in Early Chinese Thought: Prolegomena to the Study of Li_, Albany, New York: State University of New York Press.
-* –––, 2010, “Mind and Its ‘Creation’ of All Phenomena in Tiantai Buddhism”, _Journal of Chinese Philosophy_, 37(2): 156–80.
-* –––, 2000, “Setup, Punch Line, and the Mind-Body Problem: A Neo-Tiantai Approach”, _Philosophy East and West_, 50(4): 584–613.
-* –––, 2006, _Shan yu e: Tiantai fojiao sixiang zhong de bianzhong zhengti lun, jiaohu zhutixing yu jiazhi diaogui_ 善与恶: 天台佛教思想中的遍中整体论、交互主体性与价值吊诡 (_Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought_), Translated by Wu Zhongwei 吴忠伟, Shanghai: Shanghai guji.
-* –––, 2009, “The Deluded Mind as World and Truth: Epistemological Implications of Tiantai Doctrine and Praxis in Jingxi Zhanran’s Jingangpi and Zhiguan yili”, in _Buddhist Philosophy: Essential Readings_, edited by William Edelglass and Jay L. Garfield, New York: Oxford, 238–50.
-* –––, 1999, “What Is the Buddha Looking At? The Importance of Intersubjectivity in the T-ien-t’ai Tradition as Understood by Chih-li”, in _Buddhism in the Sung_, edited by Peter N. Gregory and Daniel A. Getz, Jr., Honolulu: University of Hawai‘i Press, 442–76.
+* Satō Tetsuei 佐藤哲英, 1961, “Tendai seiaku hōmon no sōshōsha: Shōkannongyōsho no sakusha nitsuite 天台性惡法門の創唱者: 請觀音經疏の作者について (The Author of the Theory of Inherent Evil in Tiantai: on the Author of the *Qingguanyinjingshu*)”,*Indogaku Bukkyōgaku Kenkyū* 印度學佛教學研究 (Journal of Indian and Buddhist Studies), 9(2): 67–72.
+* Shi Dachang 釋大常, 2004, *Zhizhe Dashi panshi “sanzangjiao” zhi yanjiu* 智者大師判釋 「三藏教」之研究 (A Study of Great Master Zhiyi’s Classification and Hermeneutics on the *Tripiṭaka* Teaching), Taipei: Fagu wenhua.
+* Shi Fazang 释法藏, 2002, “*Cong tiantai yuanjiao zhi jianli shi lun yuanjiao zhiguan de shijian* 从天台圆教之建立试论圆教止观的实践 (A Discussion on the Practice of Calming and Contemplation in the Perfect Teaching from the Perspective of the Establishment of Tiantai Perfect Teaching)”, *Taizong yanjiu* 台宗研究 (第二期) (A Study of the Tiantai School), 2: 80–116.
+* Shi Huiyue 釋慧岳, 1995, *Zhili* 知禮, Taipei: Dongda.
+* Shi Huiyue 釋慧嶽, 1993, *Tiantai jiaoxue shi* 天臺教學史 (A History of Tiantai Teachings), Taipei: the Corporate Body of the Buddha Educational Foundation.
+* Stone, Jacqueline I., 1999, *Original Enlightenment and the Transformation of Medieval Japanese Buddhism*, Honolulu: University of Hawai‘i Press.
+* Swanson, Paul L., 2018, *Clear Serenity, Quiet Insight: T’ien-t’ai Chih-i’s Mo-ho chich-kuan,* translation and commentary by Paul L Swanson, in Three Volumes, Honolulu: University of Hawai‘i Press.
+* –––, 1989, *Foundations of T’ien-t’ai Philosophy: The Flowering of the Two Truths Theory in Chinese Buddhism*, (Nanzan Studies in Religion and Culture), Asian Humanities Press.
+* –––, 1990, “T’ien-t’ai Chih-i’s Concept of Threefold Buddha Nature—A Synergy of Reality, Wisdom, and Practice”, in *Buddha Nature: A Festschrift in Honor of Minoru Kiyota*, edited by Paul J. Griffiths and John P. Keenan, Tokyo: Buddhist Books International, 171–80.
+* –––, 1994, “Understanding Chih-i: Through a glass, darkly?” *Journal of the International Association of Buddhist Studies*, 17(2): 337–60.
+* Wang Zhiyuan 王志遠, 2004, *Jin’gangpi* 金剛錍 (The Diamond Scalpel \[of Jingxi Zhanran]), Kaohsiung, Taiwan: Foguang.
+* Wu Zhongwei 吴忠伟, 2007, *Yuanjiao de weiji yu puxi de zaisheng: Songdai Tiantaizong shanjia shanwai zhi zheng yanjiu* 圆教的危机与普系的再生: 宋代天台宗山家山外之争研究 (The Crisis of the Perfect Teaching and the Rebirth of Lineages: A Study of the Dispute between Shanjia and Shanwai of Song Tiantai Buddhism), Changchun: Jilin renmin.
+* Yu Xueming 俞学明, 2006, *Zhanran yanjiu: Yi Tangdai Tiantaizong zhongxing wenti wei xiansuo* 湛然研究: 以唐代天台宗中兴问题为线索 (A Study of Zhanran: A Clue to the Issue of the Revival of the Tiantai School in the Tang Dynasty. Beijing: Zhongguo shehui kexue.
+* Zeng Qihai 曾其海, 1999, *Tiantai foxue* 天台佛学 (Tiantai Buddhism), Shanghai: Xuelin.
+* –––, 2007, “Tiantaizong Zhili da riben guoshi wen 天台宗知礼答日本国师问 (ZhiLi’s Answers to the Japanese Minister’s Questions on Tiantai Buddhism)”, *Taizhou Xueyuan Xuebao* 台州学院学报, 29(5, October): 10–13.
+* Zhou Shujia 周叔迦, 1999, “Wuqing you foxing” 无情有佛性 (Insentient Beings Have Buddha-Nature), *Fojiao wenhua* 佛教文化, 4: 14–15.
+* Ziporyn, Brook, 2004, *Being and Ambiguity: Philosophical Experiments with Tiantai Buddhism*, La Salle and Chicago: Open Court Press.
+* –––, 2013, *Beyond Oneness and Difference: Li and Coherence in Chinese Buddhist Thought and Its Antecedents*, Albany: State University of New York Press.
+* –––, 2016, *Emptiness and Omnipresence: An Essential Introduction to Tiantai Buddhism*, Bloomington and Indianapolis: Indiana University Press.
+* –––, 2000, *Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought*, Cambridge, MA.: Harvard University Asia Center.
+* –––, 2009, “How the Tree Sees Me: Sentience and Insentience in Tiantai and Merleau-Ponty”, in *Merleau-Ponty and Buddhism*, edited by Jin Y. Park and Gereon Kopf, Lanham, MD: Lexington, 61–82.
+* –––, 2013, *Ironies of Oneness and Difference*: *Coherence in Early Chinese Thought: Prolegomena to the Study of Li*, Albany, New York: State University of New York Press.
+* –––, 2010, “Mind and Its ‘Creation’ of All Phenomena in Tiantai Buddhism”, *Journal of Chinese Philosophy*, 37(2): 156–80.
+* –––, 2000, “Setup, Punch Line, and the Mind-Body Problem: A Neo-Tiantai Approach”, *Philosophy East and West*, 50(4): 584–613.
+* –––, 2006, *Shan yu e: Tiantai fojiao sixiang zhong de bianzhong zhengti lun, jiaohu zhutixing yu jiazhi diaogui* 善与恶: 天台佛教思想中的遍中整体论、交互主体性与价值吊诡 (*Evil and/or/as the Good: Omnicentrism, Intersubjectivity, and Value Paradox in Tiantai Buddhist Thought*), Translated by Wu Zhongwei 吴忠伟, Shanghai: Shanghai guji.
+* –––, 2009, “The Deluded Mind as World and Truth: Epistemological Implications of Tiantai Doctrine and Praxis in Jingxi Zhanran’s Jingangpi and Zhiguan yili”, in *Buddhist Philosophy: Essential Readings*, edited by William Edelglass and Jay L. Garfield, New York: Oxford, 238–50.
+* –––, 1999, “What Is the Buddha Looking At? The Importance of Intersubjectivity in the T-ien-t’ai Tradition as Understood by Chih-li”, in *Buddhism in the Sung*, edited by Peter N. Gregory and Daniel A. Getz, Jr., Honolulu: University of Hawai‘i Press, 442–76.
 
 ## Academic Tools
 
@@ -404,4 +403,4 @@ All things are empty in that they are impermanent, and vanish without remainder 
 [Chinese Philosophy: epistemology](https://plato.stanford.edu/entries/chinese-epistemology/) | [Chinese Philosophy: metaphysics](https://plato.stanford.edu/entries/chinese-metaphysics/) | [Madhyamaka](https://plato.stanford.edu/entries/madhyamaka/) | [two truths in India, theory of](https://plato.stanford.edu/entries/twotruths-india/) | [two truths in Tibet, theory of](https://plato.stanford.edu/entries/twotruths-tibet/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Brook Ziporyn](https://divinity.uchicago.edu/directory/brook-ziporyn) <[_ziporyn@uchicago.edu_](mailto:ziporyn%40uchicago%2eedu)>
+[Brook Ziporyn](https://divinity.uchicago.edu/directory/brook-ziporyn) <[*ziporyn@uchicago.edu*](mailto:ziporyn%40uchicago%2eedu)>

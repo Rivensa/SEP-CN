@@ -1,12 +1,11 @@
 # 黑人性 Négritude (Souleymane Bachir Diagne)
 
-_首次发表于2010年5月24日星期一；实质性修订于2023年1月24日星期二。_
+*首次发表于2010年5月24日星期一；实质性修订于2023年1月24日星期二。*
 
 在他生命的最后阶段，艾梅·塞萨尔宣称，他和他的朋友莱奥波德·桑戈尔在初次见面后提出的问题是：“我是谁？我们是谁？在这个白人世界中，我们是什么？”他评论道：“这是一个相当大的问题”（塞萨尔，2005 年，23 页）。“我是谁？”是笛卡尔提出的一个问题，法国哲学家的读者自然会理解这样一个问题是普遍的，而在这里说“我”的主体代表任何人类。但是，当“我是谁？”必须被翻译为“我们是谁？”时，一切都发生了变化，特别是当“我们”必须在一个不给他们任何存在空间的世界中定义自己，因为他们是黑人，而在这个世界中，“普遍”似乎自然意味着“白人”。
 
 “黑人性”或黑人民族的自我肯定，或者将某种被定义为“黑人世界”的文明价值观作为对“在这个白人世界中，我们是什么？”这个问题的回答，确实是“相当大的问题”：通过以下标题，将对这些问题进行探讨：
 
- 
 ***
 
 ## 1. 概念的起源
@@ -138,49 +137,49 @@ L. Outlaw 承认这是萨特的《黑人奥菲斯》的主要观点。现在可�
 
 ## Bibliography
 
-* Apostel, L., 1981, _African Philosophy: Myth or Reality?_, Gent: Story-Scientia.
-* Appiah, K.A., 1992, _In my Father’s House: Africa in the Philosophy of Culture_, New York: Oxford University Press.
-* Bergson, H., 1932 \[1977], _The Two Sources of Morality and Religion_, Notre Dame: University of Notre Dame Press Edition.
-* –––, 1944, _Creative Evolution_, New York: Random House.
-* Bernabé, J., Chamoiseau, P., and Confiant, R., 1990, _Eloge de la créolité, In Praise of Creoleness_, Paris: Gallimard.
-* Césaire, A., 1946, _Les armes miraculeuses_, Paris: Gallimard.
-* –––, 1956, “Culture et colonisation”, in _Présence Africaine_, VIII, IX, X, September-Novembre, Paris. 190–205.
-* –––, 1991, _Lyric and Dramatic Poetry_ _1946–82_, Charlottesville: The University Press of Virginia.
-* –––, 2000a, _Notebook of a return to my Native Land_, Columbus, OH: The Ohio State University Press, 2nd edition.
-* –––, 2000b, _Discourse on colonialism_, trans. Joan Pinkham, New York: Monthly Review Press.
-* –––, 2004, _Discours sur le colonialisme_ (followed by _Discours sur la Négritude_), Paris: Présence Africaine.
-* –––, 2005, _Nègre je suis nègre je resterai_. _Entretiens avec Françoise Vergès_, Paris: Albin Michel.
-* –––,2010, “Letter to Maurice Thorez”, trans. Chike Jeffers, in _Social Text_, 28(2): 145–152, doi:10.1215/01642472-2009-072
-* –––,2017,_The Complete Poetry of Aimé Césaire_, Middletown, CT: Wesleyan University Press.
-* Damas, L.G., 1947, _Poètes d’expression française \[d’Afrique Noire, Madagascar, Réunion, Guadeloupe, Martinique, Indochine, Guyane] 1900–1945_, Paris: Seuil.
-* D’Arboussier, G., 1949, “Une dangereuse mystification, la théorie de la Négritude”, _La Nouvelle Critique, Revue du Parti Communiste Français_, June, 34–47.
-* De l’Etoile, B., _Le goût des autres. De l’Exposition coloniale aux arts premiers_, Paris: Flammarion.
-* Diagne, S.B., 2011, _African Art as Philosophy. Senghor, Bergson and the Idea of Negritude_, trans. Chike Jeffers, London, New York, and Calcutta: Seagull Books.
-* –––, 2022, “The Way of the Africans: Césaire, Senghor, and Bergson’s philosophy”, in _The Bergsonian Mind_, Mark Sinclair and Yaron Wolf (eds.), London and New York: Routledge.
-* Edwards, B.H., 2003, _The Practice of Diaspora: Literature, Translation, and the Rise of Black Internationalism_, Cambridge: Harvard University Press.
-* Fanon, F., 1991, _Black Skins, White Masks_, New York: Grove Press.
-* Fonkoua, R., 2010, _Aimé Césaire (1913–2008)_, Paris: Perrin.
-* Glissant, E., 2003, “The French Language in the Face of Creolization”, in _French Civilization and its Discontents: Nationalism, Colonialism, Race_, Tyler Stovall and Georges Van Den Abbeele (eds.), New York: Lexington Books: 105–113.
-* Irele, A., 1990, _The African Experience in Literature and Ideology_, Bloomington and Indianapolis: Indiana University Press.
-* Jones, D., 2010, _The Racial Discourses of Life Philosophy, Négritude, Vitalism, and Modernity_, New York: Columbia University Press.
-* Kesteloot, L., and Kotchy, B., 1993, _Aimé Césaire, l’homme et l’oeuvre_, Paris: Présence africaine.
-* Levy-Bruhl, L., 1926, _How Natives Think_, London: G. Allen and Urwin.
-* –––, 1975, _The Notebooks on Primitive Mentality_, Oxford: Blackwell.
-* Nardal, J., 2002, “Black Internationalism”, in T. D. Sharpley-Whiting, _Negritude Women_, Minneapolis and London: University of Minnesota Press, 105–107.
-* Outlaw, L., 1996, _On Race and Philosophy_, New York and London: Routledge.
-* Sartre, J-P., 1976, _Black Orpheus_, trans. S.W.Allen, Paris: Présence Africaine.
-* –––, 1989, _The Emotions_, _Outline of a Theory_, New York: Kensington Publishing Corp.
-* Senghor, L.S., 1948, _Anthologie de la nouvelle poésie nègre et malgache de langue française_, Paris: Presses Universitaires de France.
-* –––, 1964, _Liberté I_, _Négritude et humanisme_, Paris: Seuil.
-* –––, 1971, _Liberté II_, _Nation et voie africaine du socialisme_, Paris: Seuil.
-* –––, 1993, _Liberté V_, _le dialogue des cultures_, Paris: Seuil.
-* –––, 2014, _Education et culture. Textes inédits réunis par Raphael Ndiaye et Doudou Joseph Ndiaye_, Paris: Fondation L.S.Senghor and Presence africaine.
-* Sharpley-Whiting, T.D., 2000, “Femme negritude. Jane Nardal, _La Depeche africaine_, and the Francophone New Negro”, in _Souls: A Critical Journal of Black Politics, Culture, and Society_, 2(4): 8–18, [Sharpley-Whiting 2000 available online](http://www.columbia.edu/cu/ccbh/souls/vol2no4/vol2num4art1.pdf).
-* Shelby, T., 2005, _We Who Are Dark. The Philosophical Foundations of Black Solidarity_, Cambridge, MA: Harvard University Press.
-* Thébia-Melsan, A., (ed.), 2000, _Aimé Césaire, pour regarder le siècle en face_, Paris: Maisonneuve & Larose.
-* Vaillant, J., 1990, _Black, French, and African. A Life of Léopold Sédar Senghor_, Cambridge, MA: Harvard University Press.
-* Wilder, G., 2005, _The French Imperial Nation-State. Negritude and Colonial Humanism between the Two World Wars_, Chicago: University of Chicago Press.
-* –––, 2015, _Freedom Time. Negritude, Decolonization, and the Future of the World_, Durham: Duke University Press.
+* Apostel, L., 1981, *African Philosophy: Myth or Reality?*, Gent: Story-Scientia.
+* Appiah, K.A., 1992, *In my Father’s House: Africa in the Philosophy of Culture*, New York: Oxford University Press.
+* Bergson, H., 1932 \[1977], *The Two Sources of Morality and Religion*, Notre Dame: University of Notre Dame Press Edition.
+* –––, 1944, *Creative Evolution*, New York: Random House.
+* Bernabé, J., Chamoiseau, P., and Confiant, R., 1990, *Eloge de la créolité, In Praise of Creoleness*, Paris: Gallimard.
+* Césaire, A., 1946, *Les armes miraculeuses*, Paris: Gallimard.
+* –––, 1956, “Culture et colonisation”, in *Présence Africaine*, VIII, IX, X, September-Novembre, Paris. 190–205.
+* –––, 1991, *Lyric and Dramatic Poetry* *1946–82*, Charlottesville: The University Press of Virginia.
+* –––, 2000a, *Notebook of a return to my Native Land*, Columbus, OH: The Ohio State University Press, 2nd edition.
+* –––, 2000b, *Discourse on colonialism*, trans. Joan Pinkham, New York: Monthly Review Press.
+* –––, 2004, *Discours sur le colonialisme* (followed by *Discours sur la Négritude*), Paris: Présence Africaine.
+* –––, 2005, *Nègre je suis nègre je resterai*. *Entretiens avec Françoise Vergès*, Paris: Albin Michel.
+* –––,2010, “Letter to Maurice Thorez”, trans. Chike Jeffers, in *Social Text*, 28(2): 145–152, doi:10.1215/01642472-2009-072
+* –––,2017,*The Complete Poetry of Aimé Césaire*, Middletown, CT: Wesleyan University Press.
+* Damas, L.G., 1947, *Poètes d’expression française \[d’Afrique Noire, Madagascar, Réunion, Guadeloupe, Martinique, Indochine, Guyane] 1900–1945*, Paris: Seuil.
+* D’Arboussier, G., 1949, “Une dangereuse mystification, la théorie de la Négritude”, *La Nouvelle Critique, Revue du Parti Communiste Français*, June, 34–47.
+* De l’Etoile, B., *Le goût des autres. De l’Exposition coloniale aux arts premiers*, Paris: Flammarion.
+* Diagne, S.B., 2011, *African Art as Philosophy. Senghor, Bergson and the Idea of Negritude*, trans. Chike Jeffers, London, New York, and Calcutta: Seagull Books.
+* –––, 2022, “The Way of the Africans: Césaire, Senghor, and Bergson’s philosophy”, in *The Bergsonian Mind*, Mark Sinclair and Yaron Wolf (eds.), London and New York: Routledge.
+* Edwards, B.H., 2003, *The Practice of Diaspora: Literature, Translation, and the Rise of Black Internationalism*, Cambridge: Harvard University Press.
+* Fanon, F., 1991, *Black Skins, White Masks*, New York: Grove Press.
+* Fonkoua, R., 2010, *Aimé Césaire (1913–2008)*, Paris: Perrin.
+* Glissant, E., 2003, “The French Language in the Face of Creolization”, in *French Civilization and its Discontents: Nationalism, Colonialism, Race*, Tyler Stovall and Georges Van Den Abbeele (eds.), New York: Lexington Books: 105–113.
+* Irele, A., 1990, *The African Experience in Literature and Ideology*, Bloomington and Indianapolis: Indiana University Press.
+* Jones, D., 2010, *The Racial Discourses of Life Philosophy, Négritude, Vitalism, and Modernity*, New York: Columbia University Press.
+* Kesteloot, L., and Kotchy, B., 1993, *Aimé Césaire, l’homme et l’oeuvre*, Paris: Présence africaine.
+* Levy-Bruhl, L., 1926, *How Natives Think*, London: G. Allen and Urwin.
+* –––, 1975, *The Notebooks on Primitive Mentality*, Oxford: Blackwell.
+* Nardal, J., 2002, “Black Internationalism”, in T. D. Sharpley-Whiting, *Negritude Women*, Minneapolis and London: University of Minnesota Press, 105–107.
+* Outlaw, L., 1996, *On Race and Philosophy*, New York and London: Routledge.
+* Sartre, J-P., 1976, *Black Orpheus*, trans. S.W.Allen, Paris: Présence Africaine.
+* –––, 1989, *The Emotions*, *Outline of a Theory*, New York: Kensington Publishing Corp.
+* Senghor, L.S., 1948, *Anthologie de la nouvelle poésie nègre et malgache de langue française*, Paris: Presses Universitaires de France.
+* –––, 1964, *Liberté I*, *Négritude et humanisme*, Paris: Seuil.
+* –––, 1971, *Liberté II*, *Nation et voie africaine du socialisme*, Paris: Seuil.
+* –––, 1993, *Liberté V*, *le dialogue des cultures*, Paris: Seuil.
+* –––, 2014, *Education et culture. Textes inédits réunis par Raphael Ndiaye et Doudou Joseph Ndiaye*, Paris: Fondation L.S.Senghor and Presence africaine.
+* Sharpley-Whiting, T.D., 2000, “Femme negritude. Jane Nardal, *La Depeche africaine*, and the Francophone New Negro”, in *Souls: A Critical Journal of Black Politics, Culture, and Society*, 2(4): 8–18, [Sharpley-Whiting 2000 available online](http://www.columbia.edu/cu/ccbh/souls/vol2no4/vol2num4art1.pdf).
+* Shelby, T., 2005, *We Who Are Dark. The Philosophical Foundations of Black Solidarity*, Cambridge, MA: Harvard University Press.
+* Thébia-Melsan, A., (ed.), 2000, *Aimé Césaire, pour regarder le siècle en face*, Paris: Maisonneuve & Larose.
+* Vaillant, J., 1990, *Black, French, and African. A Life of Léopold Sédar Senghor*, Cambridge, MA: Harvard University Press.
+* Wilder, G., 2005, *The French Imperial Nation-State. Negritude and Colonial Humanism between the Two World Wars*, Chicago: University of Chicago Press.
+* –––, 2015, *Freedom Time. Negritude, Decolonization, and the Future of the World*, Durham: Duke University Press.
 
 ## Academic Tools
 
@@ -199,4 +198,4 @@ L. Outlaw 承认这是萨特的《黑人奥菲斯》的主要观点。现在可�
 [Africana Philosophy](https://plato.stanford.edu/entries/africana/) | [colonialism](https://plato.stanford.edu/entries/colonialism/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [identity](https://plato.stanford.edu/entries/identity/) | [liberation, philosophy of](https://plato.stanford.edu/entries/liberation/) | [Marxism, analytical](https://plato.stanford.edu/entries/marxism-analytical/) | Pan-Africanism | [race](https://plato.stanford.edu/entries/race/) | [socialism](https://plato.stanford.edu/entries/socialism/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Souleymane Bachir Diagne](https://french.columbia.edu/content/souleymane-bachir-diagne) <[_sd2456@columbia.edu_](mailto:sd2456%40columbia%2eedu)>
+[Souleymane Bachir Diagne](https://french.columbia.edu/content/souleymane-bachir-diagne) <[*sd2456@columbia.edu*](mailto:sd2456%40columbia%2eedu)>

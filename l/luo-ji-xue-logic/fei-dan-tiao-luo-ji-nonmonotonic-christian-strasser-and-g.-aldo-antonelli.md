@@ -1,12 +1,11 @@
 # 非单调逻辑 non-monotonic (Christian Strasser and G. Aldo Antonelli)
 
-_首次发表于2001年12月11日；实质修订于2019年4月20日_
+*首次发表于2001年12月11日；实质修订于2019年4月20日*
 
 “非单调逻辑”（简称 NML）这个术语涵盖了一系列旨在捕捉和表示可废除推理的形式框架。当推理者保留根据进一步信息撤回结论的权利时，他们以可废除的方式得出结论。例子很多，从归纳概括到基于专家意见的推理，再到最佳解释的推理等等。我们在日常推理、专家推理（如医学诊断）和科学推理中都可以找到可废除推理。
 
 与演绎推理一样，可废除推理也可以遵循复杂的模式。然而，这些模式对于经典逻辑（CL）、直觉逻辑（IL）或其他表征演绎推理的逻辑来说是无法达到的，因为它们本质上不允许撤回推理。在 NML 领域所面临的挑战是为可废除推理形式提供与 CL 或 IL 为数学推理提供的相同的形式精确解释，其中形式上的准确性涉及框架所捕捉到的例子范围有多广，以及框架在多大程度上能够满足我们对该主题的直觉（至少是最根深蒂固的直觉）。
 
- 
 ***
 
 ## 1. 处理非单调推理的动态
@@ -466,14 +465,14 @@ l∧f 的最佳模型是 M3，因为它不违反任何高于 0 级的条件断�
 
 为了突出后者，考虑一个由 K 组成的知识库。
 
-* _Party_ |∼ _Anne_,
-* _Party_ |∼ _Phil_, and
-* _Party_ |∼ _Frank_.
+* *Party* |∼ *Anne*,
+* *Party* |∼ *Phil*, and
+* *Party* |∼ *Frank*.
 
 我们期望每个人，包括 Anne、Phil 和 Frank，都来参加派对。此外，假设我们知道 Party ∧ ((¬ Anne ∧ ¬ Phil) ∨ ¬ Frank)。鉴于这个事实，不是所有三个断言都成立。最好的情况是前两个成立，或者后者成立。如果我们尽可能验证尽可能多的条件断言，我们将更喜欢只违反后者的情况。这发生在包含 K 的词典闭包中。
 
-* _Party_ ∧ ((¬ _Anne_ ∧ ¬ _Phil_) ∨ ¬ _Frank_) |∼ ¬_Frank_ and
-* _Party_ ∧ ((¬ _Anne_ ∧ ¬ _Phil_) ∨ ¬ _Frank_) |∼ _Anne_ ∧ _Phil_.
+* *Party* ∧ ((¬ *Anne* ∧ ¬ *Phil*) ∨ ¬ *Frank*) |∼ ¬*Frank* and
+* *Party* ∧ ((¬ *Anne* ∧ ¬ *Phil*) ∨ ¬ *Frank*) |∼ *Anne* ∧ *Phil*.
 
 类似的定量考虑在 Goldzsmidt 等人的最大熵方法中起着作用(1993)，该方法基于ϵ-语义。基本思想与词汇闭包相似：如果 min({κ(M)∣M⊨ϕ∧ψ})\<min({κ(M)∣M⊨ϕ∧¬ψ})，则ϕ|∼ψ由 K 蕴含，其中κ(M)输出 M 中违反的加权和，违反的权重考虑了特异性。与词汇闭包类似，更具体条件的违反比更一般条件的违反更重要。因此，就像在词汇闭包中一样，在我们的例子中也蕴含了 l|∼f，因此避免了溺水问题。与词汇闭包的不同之处在于，例如，根据最大熵方法，不蕴含 l∧¬f|∼c。原因是几个不太具体的断言的违反可能总体上抵消了一个更具体的断言的违反。例如，虽然模型 M7 在词汇闭包方法中优于模型 M8，在最大熵方法中，这两个模型都被证明是同样好的，并且是 l∧¬f 的最佳模型。
 
@@ -588,117 +587,117 @@ Pelletier 和 Elio（1994）研究了影响受试者对默认值或继承关系�
 
 ## Bibliography
 
-* Adams, Ernest W., 1975. _The Logic of Conditionals_. Dordrecht: D. Reidel Publishing Co.
-* Alferes, Jose Julio, Damasio, Carlos Viegas, & Pereira, Luis Moniz, 1995. A Logic Programming System for Non-monotonic Reasoning. _Journal of Automated Reasoning_, 14(1): 93–147.
-* Aliseda, Atocha, 2017. The logic of abduction: An introduction. In _Springer Handbook of Model-Based Science_, Magnani, Lorenzo and Bertolotti, Tommaso (Edts.). pp. 219–230.
-* –––, 1997. Defeasible inheritance on cyclic networks. _Artificial Intelligence_, 92(1): 1–23.
-* Antonelli, Gian Aldo, 1999. A directly cautious theory of defeasible consequence for default logic via the notion of general extension. _Artificial Intelligence_, 109(1): 71–109.
-* Arieli, Ofer, & Avron, Arnon, 2000. General Patterns for Nonmonotonic Reasoning: From Basic Entailments to Plausible Relations. _Logic Journal of the IGPL_, 8: 119–148.
-* Arieli, Ofer and Straßer, Christian, 2015. Sequent-Based Logical Argumentation. _Argument and Computation_, 1(6): 73–99.
-* Asher, Nicholas, & Morreau, Michael, 1991. Commonsense entailment: A modal theory of nonmonotonic reasoning. In _Logics in AI_, Berlin: Springer, pp. 1–30.
-* Batens, Diderik, 1980. Paraconsistent extensional propositional logics. _Logique at Analyse_, 90–91: 195–234.
-* –––, 1999. Inconsistency-Adaptive Logics. In _Logic at Work. Essays Dedicated to the Memory of Helena Rasiowa_, Heidelberg, New York: Physica Verlag (Springer), pp. 445–472.
-* –––, 2004. The need for adaptive logics in epistemology. In _Logic, epistemology, and the unity of science_. Berlin: Springer, pp. 459–485.
-* –––, 2007. A Universal Logic Approach to Adaptive Logics. _Logica Universalis_, 1: 221–242.
-* –––, 2011. Logics for qualitative inductive generalization. _Studia Logica_, 97(1): pp. 61–80.
-* Beirlaen, Mathieu, Heyninck, Jesse, Pardo, Pere, & Straßer, Christian, 2018. Argument strength in formal argumentation. _IfCoLog Journal of Logics and their Applications_, 5(3): 629–675.
-* Benferhat, Salem, Cayrol, Claudette, Dubois, Didier, Lang, Jerome, & and Prade, Henri, 1993. Inconsistency management and prioritized syntax-based entailment. In _Proceedings of IJCAI 1993_, pp. 640–645.
-* Benferhat, Salem, Dubier, Didier, & Prade, Henri, 1997. Some Syntactic Approaches to the Handling of Inconsistent Knowledge Basis: A Comparative Study. Part I: The Flat Case. _Studia Logica_, 58: 17–45.
-* –––, 1999. Possibilistic and standard probabilistic semantics of conditional knowledge bases. _Journal of Logic and Computation_, 9(6): 873–895.
-* Benferhat, Salem, Bonnefon, Jean F., & da Silva Neves, Rui, 2005. An overview of possibilistic handling of default reasoning, with experimental studies. _Synthese_, 146(1–2): 53–70.
-* Besnard, P. and A. Hunter 2009. Argumentation based on classical logic. In _Argumentation in Artificial Intelligence_, I. Rahwan and G. Simari (eds.), Berlin: Springer.
-* Besold, Tarek R., Garcez, Artur d’Avila, Stenning, Keith, van der Torre, Leendert, Lambalgen, Michiel van, 2017. Reasoning in Non-Probabilistic Uncertainty: Logic Programming and Neural-Symbolic Computing As Examples. _Minds and Machines_, 27(1): 37–77.
-* Bochman, Alexander, 2018. Argumentation, Nonmonotonic Reasoning and Logic. In _Handbook of Formal Argumentation_ Vol. 1. Eds. P. Baroni, D. Gabbay, M. Giacomin, & L. van der Torre. pp.2887–2926
-* Boutilier, Craig, 1990. Conditional Logics of Normality as Modal Systems. _AAAI_ (Volume 90), pp. 594–599.
-* Brewka, Gerhard, & Eiter, Thomas, 2000. Prioritizing Default Logic. In _Intellectics and Computational Logic_, Applied Logic Series (Volume 19), Dordrecht: Kluwer, 27–45.
-* Byrne, Ruth M.J., 1989. Suppressing valid inferences with conditionals. _Cognition_, 31(1): 61–83.
-* Caminada, M., 2008. On the issue of contraposition of defeasible rules. _Frontiers in Artificial Intelligence and Applications_, 172: 109–115.
-* Delgrande, James, Schaub, Torsten, Tompits, Hans, & Wang, Kewen, 2004. A classification and survey of preference handling approaches in nonmonotonic reasoning. _Computational Intelligence_, 20(2): 308–334.
-* Delgrande, James P., 1987. A first-order conditional logic for prototypical properties. _Artificial Intelligence_, 33(1): 105–130.
-* –––, 1998. On first-order conditional logics. _Artificial Intelligence_, 105(1): 105–137.
-* Delgrande, James P, & Schaub, Torsten, 2000. Expressing preferences in default logic. _Artificial Intelligence_, 123(1): 41–87.
-* Dubois, Didier, & Prade, Henri, 1990. An introduction to possibilistic and fuzzy logics. In _Readings in Uncertain Reasoning_. San Francisco: Morgan Kaufmann Publishers Inc., pp. 742–761.
-* Dung, Phan Minh, 1995. On the Acceptability of Arguments and its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and n-Person Games. _Artifical Intelligence_, 77: 321–358.
-* Dung, P.M., Kowalski, R.A., & Toni, F., 2009. Assumption-based argumentation. _Argumentation in Artificial Intelligence_, 199–218.
-* Elio, Renée, & Pelletier, Francis Jeffry, 1994. On Relevance in Nonmonotonic Reasoning: Some Empirical Studies. In Russ, Greiner, & Devika, Subramanian (eds.), _Relevance: AAAI 1994 Fall Symposium Series_. Palo Alto: AAAI Press, pp. 64–67.
-* Ford, Marilyn, 2004. System LS: A Three-Tiered Nonmonotonic Reasoning System. _Computational Intelligence_, 20(1): 89–108.
-* Ford, Marilyn, & Billington, David, 2000. Strategies in human nonmonotonic reasoning. _Computational Intelligence_, 16(3): 446–468.
-* Friedman, Nir, & Halpern, Joseph Y., 1996. Plausibility measures and default reasoning. _Journal of the ACM_, 48: 1297–1304.
-* Friedman, Nir, Halpern, Joseph Y., & Koller, Daphne, 2000. First-order conditional logic for default reasoning revisited. _ACM Trans. Comput. Logic_, 1(October): 175–207.
-* Dov, Gabbay, Hogger, C., & Robinson, J. (eds.), 1994. _Handbook of Logic in Artificial Intelligence and Logic Programming_ (Volume 3), Oxford and New York: Oxford University Press.
-* Gabbay, Dov M., 1985. Theoretical foundations for non-monotonic reasoning in expert systems. _Logics and models of concurrent systems_. New York: Springer-Verlag, pp. 439–457.
+* Adams, Ernest W., 1975. *The Logic of Conditionals*. Dordrecht: D. Reidel Publishing Co.
+* Alferes, Jose Julio, Damasio, Carlos Viegas, & Pereira, Luis Moniz, 1995. A Logic Programming System for Non-monotonic Reasoning. *Journal of Automated Reasoning*, 14(1): 93–147.
+* Aliseda, Atocha, 2017. The logic of abduction: An introduction. In *Springer Handbook of Model-Based Science*, Magnani, Lorenzo and Bertolotti, Tommaso (Edts.). pp. 219–230.
+* –––, 1997. Defeasible inheritance on cyclic networks. *Artificial Intelligence*, 92(1): 1–23.
+* Antonelli, Gian Aldo, 1999. A directly cautious theory of defeasible consequence for default logic via the notion of general extension. *Artificial Intelligence*, 109(1): 71–109.
+* Arieli, Ofer, & Avron, Arnon, 2000. General Patterns for Nonmonotonic Reasoning: From Basic Entailments to Plausible Relations. *Logic Journal of the IGPL*, 8: 119–148.
+* Arieli, Ofer and Straßer, Christian, 2015. Sequent-Based Logical Argumentation. *Argument and Computation*, 1(6): 73–99.
+* Asher, Nicholas, & Morreau, Michael, 1991. Commonsense entailment: A modal theory of nonmonotonic reasoning. In *Logics in AI*, Berlin: Springer, pp. 1–30.
+* Batens, Diderik, 1980. Paraconsistent extensional propositional logics. *Logique at Analyse*, 90–91: 195–234.
+* –––, 1999. Inconsistency-Adaptive Logics. In *Logic at Work. Essays Dedicated to the Memory of Helena Rasiowa*, Heidelberg, New York: Physica Verlag (Springer), pp. 445–472.
+* –––, 2004. The need for adaptive logics in epistemology. In *Logic, epistemology, and the unity of science*. Berlin: Springer, pp. 459–485.
+* –––, 2007. A Universal Logic Approach to Adaptive Logics. *Logica Universalis*, 1: 221–242.
+* –––, 2011. Logics for qualitative inductive generalization. *Studia Logica*, 97(1): pp. 61–80.
+* Beirlaen, Mathieu, Heyninck, Jesse, Pardo, Pere, & Straßer, Christian, 2018. Argument strength in formal argumentation. *IfCoLog Journal of Logics and their Applications*, 5(3): 629–675.
+* Benferhat, Salem, Cayrol, Claudette, Dubois, Didier, Lang, Jerome, & and Prade, Henri, 1993. Inconsistency management and prioritized syntax-based entailment. In *Proceedings of IJCAI 1993*, pp. 640–645.
+* Benferhat, Salem, Dubier, Didier, & Prade, Henri, 1997. Some Syntactic Approaches to the Handling of Inconsistent Knowledge Basis: A Comparative Study. Part I: The Flat Case. *Studia Logica*, 58: 17–45.
+* –––, 1999. Possibilistic and standard probabilistic semantics of conditional knowledge bases. *Journal of Logic and Computation*, 9(6): 873–895.
+* Benferhat, Salem, Bonnefon, Jean F., & da Silva Neves, Rui, 2005. An overview of possibilistic handling of default reasoning, with experimental studies. *Synthese*, 146(1–2): 53–70.
+* Besnard, P. and A. Hunter 2009. Argumentation based on classical logic. In *Argumentation in Artificial Intelligence*, I. Rahwan and G. Simari (eds.), Berlin: Springer.
+* Besold, Tarek R., Garcez, Artur d’Avila, Stenning, Keith, van der Torre, Leendert, Lambalgen, Michiel van, 2017. Reasoning in Non-Probabilistic Uncertainty: Logic Programming and Neural-Symbolic Computing As Examples. *Minds and Machines*, 27(1): 37–77.
+* Bochman, Alexander, 2018. Argumentation, Nonmonotonic Reasoning and Logic. In *Handbook of Formal Argumentation* Vol. 1. Eds. P. Baroni, D. Gabbay, M. Giacomin, & L. van der Torre. pp.2887–2926
+* Boutilier, Craig, 1990. Conditional Logics of Normality as Modal Systems. *AAAI* (Volume 90), pp. 594–599.
+* Brewka, Gerhard, & Eiter, Thomas, 2000. Prioritizing Default Logic. In *Intellectics and Computational Logic*, Applied Logic Series (Volume 19), Dordrecht: Kluwer, 27–45.
+* Byrne, Ruth M.J., 1989. Suppressing valid inferences with conditionals. *Cognition*, 31(1): 61–83.
+* Caminada, M., 2008. On the issue of contraposition of defeasible rules. *Frontiers in Artificial Intelligence and Applications*, 172: 109–115.
+* Delgrande, James, Schaub, Torsten, Tompits, Hans, & Wang, Kewen, 2004. A classification and survey of preference handling approaches in nonmonotonic reasoning. *Computational Intelligence*, 20(2): 308–334.
+* Delgrande, James P., 1987. A first-order conditional logic for prototypical properties. *Artificial Intelligence*, 33(1): 105–130.
+* –––, 1998. On first-order conditional logics. *Artificial Intelligence*, 105(1): 105–137.
+* Delgrande, James P, & Schaub, Torsten, 2000. Expressing preferences in default logic. *Artificial Intelligence*, 123(1): 41–87.
+* Dubois, Didier, & Prade, Henri, 1990. An introduction to possibilistic and fuzzy logics. In *Readings in Uncertain Reasoning*. San Francisco: Morgan Kaufmann Publishers Inc., pp. 742–761.
+* Dung, Phan Minh, 1995. On the Acceptability of Arguments and its Fundamental Role in Nonmonotonic Reasoning, Logic Programming and n-Person Games. *Artifical Intelligence*, 77: 321–358.
+* Dung, P.M., Kowalski, R.A., & Toni, F., 2009. Assumption-based argumentation. *Argumentation in Artificial Intelligence*, 199–218.
+* Elio, Renée, & Pelletier, Francis Jeffry, 1994. On Relevance in Nonmonotonic Reasoning: Some Empirical Studies. In Russ, Greiner, & Devika, Subramanian (eds.), *Relevance: AAAI 1994 Fall Symposium Series*. Palo Alto: AAAI Press, pp. 64–67.
+* Ford, Marilyn, 2004. System LS: A Three-Tiered Nonmonotonic Reasoning System. *Computational Intelligence*, 20(1): 89–108.
+* Ford, Marilyn, & Billington, David, 2000. Strategies in human nonmonotonic reasoning. *Computational Intelligence*, 16(3): 446–468.
+* Friedman, Nir, & Halpern, Joseph Y., 1996. Plausibility measures and default reasoning. *Journal of the ACM*, 48: 1297–1304.
+* Friedman, Nir, Halpern, Joseph Y., & Koller, Daphne, 2000. First-order conditional logic for default reasoning revisited. *ACM Trans. Comput. Logic*, 1(October): 175–207.
+* Dov, Gabbay, Hogger, C., & Robinson, J. (eds.), 1994. *Handbook of Logic in Artificial Intelligence and Logic Programming* (Volume 3), Oxford and New York: Oxford University Press.
+* Gabbay, Dov M., 1985. Theoretical foundations for non-monotonic reasoning in expert systems. *Logics and models of concurrent systems*. New York: Springer-Verlag, pp. 439–457.
 * Garcez, Artur S. d’Avila, Lamb, Luís C., Gabbay, Dov, 2009. Neural-symbolic cognitive reasoning. Springer.
-* Geffner, Hector, & Pearl, Judea, 1992. Conditional entailment: bridging two approaches to default reasoning. _Artifical Intelligence_, 53(2–3): 209–244.
-* Gelfond, Michael, & Lifschitz, Vladimir, 1988. The stable model semantics for logic programming. In _ICLP/SLP_ (Volume 88), pp. 1070–1080.
-* Gilio, Angelo, 2002. Probabilistic reasoning under coherence in System P. _Annals of Mathematics and Artificial Intelligence_, 34(1–3): 5–34.
-* Ginsberg, Matthew L., 1994. _Essentials of Artificial Intelligence_. San Francisco: Morgan Kaufmann Publishers Inc.
-* ––– (ed.), 1987. _Readings in nonmonotonic reasoning_. San Francisco: Morgan Kaufmann.
-* Giordano, Laura, Gliozzi, Valentina, Olivetti, Nicola, & Pozzato, Gian Luca, 2009. Analytic tableaux calculi for KLM logics of nonmonotonic reasoning. _ACM Transactions on Computational Logic (TOCL)_, 10(3): 18.
-* Goldszmidt, Moisés, & Pearl, Judea, 1992. Rank-based Systems: A Simple Approach to Belief Revision, Belief Update, and Reasoning about Evidence and Actions. In _Proceedings of the Third International Conference on Knowledge Representation and Reasoning_. San Francisco: Morgan Kaufmann, pp. 661–672.
-* Goldzsmidt, Moisés, Morris, Paul, & Pearl, Judea, 1993. A Maximum Entropy Approach to Nonmonotonic Reasoning. _IEEE Transactions on Pattern Analysis and Machine Intelligence_, 15(3): 220–232.
-* Hölldobler, Steffen and Kalinke, Yvonne, 1994. Towards a new massible parallel computational model for logic programming. In _Proceedings of the Workshop on Combining Symbolic and Connectionist Processing ECAI_, pp. 68–77.
-* Horty, John F., 1994. Some direct theories of nonmonotonic inheritance. In Gabbay, Dov M., Hogger, Christopher J., & Robinson, J. A. (eds.), _Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning_. Oxford: Oxford University Press, pp. 111–187.
-* –––, 2002. Skepticism and floating conclusions. _Artifical Intelligence_, 135(1–2): 55–72.
-* –––, 2007. Defaults with Priorities. _Journal of Philosophical Logic_, 36: 367–413.
-* Konolige, Kurt, 1988. On the relation between default and autoepistemic logic. _Artifical Intelligence_, 35(3): 343–382.
-* Koons, Robert, 2017. Defeasible Reasoning. In _The Stanford Encyclopedia of Philosophy_ (Spring 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/reasoning-defeasible/](https://plato.stanford.edu/archives/win2017/entries/reasoning-defeasible/).
-* Kraus, Sarit, Lehmann, Daniel, & Magidor, Menachem, 1990. Nonmonotonic Reasoning, Preferential Models and Cumulative Logics. _Artifical Intelligence_, 44: 167–207.
-* Kripke, Saul, 1975. Outline of a Theory of Truth. _Journal of Philosophy_, 72: 690–716.
-* Lehmann, Daniel J., 1995. Another Perspective on Default Reasoning. _Annals of Mathematics and Artificial Intelligence_, 15(1): 61–82.
-* Lehmann, Daniel J., & Magidor, Menachem, 1990. Preferential logics: the predicate calculus case. In _Proceedings of the 3rd conference on Theoretical aspects of reasoning about knowledge_, San Francisco: Morgan Kaufmann Publishers Inc., pp. 57–72.
-* –––, 1992. What does a conditional knowledge base entail? _Artificial Intelligence_, 55(1): 1–60.
-* Leitgeb, Hannes, 2001. Nonmonotonic reasoning by inhibition nets. _Artifical Intelligence_, 128(May): 161–201.
-* Liao, Beishui, Oren, Nir, van der Torre, Leendert, & Villata, Serena, 2018. Prioritized norms in formal argumentation. _Journal of Logic and Computation_, 29(2): 215–240.
-* Lifschitz, Vladimir, 1989. Benchmark problems for formal nonmonotonic reasoning. In _Non-Monotonic Reasoning_. Berlin: Springer, pp. 202–219.
-* Lin, Fangzhen, & Shoham, Yoav, 1990. Epistemic semantics for fixed-points non-monotonic logics. In _Proceedings of the 3rd Conference on Theoretical Aspects of Reasoning About Knowledge (TARK’90)_, Pacific Grove, CA: Morgan Kaufmann Publishers Inc, pp. 111–120.
-* Lukaszewicz, Witold, 1988. Considerations on default logic: an alternative approach. _Computational intelligence_, 4(1): 1–16.
-* Makinson, David, 1994. General patterns in nonmonotonic reasoning. In: _Handbook of Logic in Artificial Intelligence and Logic Programming, vol. III_, D. Gabbay, C. Hogger, J.A. Robinson (eds.), pp. 35–110, Oxford: Oxford University Press.
-* –––, 2003. Bridges between classical and nonmonotonic logic. _Logic Journal of IGPL_, 11(1): 69–96.
-* Makinson, David, & Gärdenfors, Peter, 1991. Relations between the logic of theory change and nonmonotonic logic. _The logic of theory change_, Berlin: Springer, pp. 183–205.
-* Makinson, David, & Schlechta, Karl, 1991. Floating conclusions and zombie paths: two deep difficulties in the “directly skeptical” approach to defeasible inheritance nets. _Artifical Intelligence_, 48(2): 199–209.
-* McCarthy, J., 1980. Circumscription – A Form of Non-Monotonic Reasoning. _Artifical Intelligence_, 13: 27–29.
-* Modgil, Sanjay and Prakken, Henry, 2013. A general account of argumentation with preferences. _Artificial Intelligence_, 195, 361–397.
-* Moore, Robert C., 1984. Possible-World Semantics for Autoepistemic Logic. In _Proceedings of the Workshop on non-monotonic reasoning_, AAAI, pp. 344–354.
-* –––, 1985. Semantical considerations on nonmonotonic logic. _Artifical Intelligence_, 25(1): 75–94.
-* Neves, Rui Da Silva, Bonnefon, Jean-François, & Raufaste, Eric, 2002. An empirical test of patterns for nonmonotonic inference. _Annals of Mathematics and Artificial Intelligence_, 34(1–3): 107–130.
-* Nute, D., 1994. Defeasible logics. In _Handbook of Logic in Artificial Intelligence and Logic Programming_ (Vol. 3). Oxford: Oxford University Press, pp. 353–395.
-* Oaksford, Mike, & Chater, Nick, 2007. _Bayesian rationality the probabilistic approach to human reasoning_. Oxford: Oxford University Press.
-* –––, 2009. Précis of Bayesian rationality: The probabilistic approach to human reasoning. _Behavioral and Brain Sciences_, 32(01): 69–84.
-* Orlowska, Ewa (ed.), 1999. _Logic at Work. Essays Dedicated to the Memory of Helena Rasiowa_. Heidelberg, New York: Physica Verlag (Springer).
-* Over, David E., 2009. New paradigm psychology of reasoning. _Thinking & Reasoning_, 15(4): 431–438.
-* Pearl, Judea, 1988. _Probabilistic reasoning in intelligent systems: networks of plausible inference_. San Francisco: Morgan Kaufmann.
-* –––, 1989. Probabilistic semantics for nonmonotonic reasoning: a survey. In _Proceedings of the first international conference on Principles of knowledge representation and reasoning_. San Francisco: Morgan Kaufmann Publishers, pp. 505–516.
-* –––, 1990. System Z: a natural ordering of defaults with tractable applications to nonmonotonic reasoning. In _TARK ’90: Proceedings of the 3rd conference on Theoretical aspects of reasoning about knowledge_. San Francisco: Morgan Kaufmann Publishers, pp. 121–135.
-* Pelletier, Francis Jeffry, & Elio, Renée, 1997. What should default reasoning be, by default? _Computational Intelligence_, 13(2): 165–187.
-* Pfeifer, Niki, & Douven, Igor, 2014. Formal Epistemology and the New Paradigm Psychology of Reasoning. _Review of Philosophy and Psychology_, 5(2): 199–221.
-* Pfeifer, Niki, & Kleiter, Gernot D., 2005. Coherence and nonmonotonicity in human reasoning. _Synthese_, 146(1–2): 93–109.
-* Pfeifer, Niki, & Kleiter, Gernot D., 2009. Mental probability logic. _Behavioral and Brain Sciences_, 32(01): 98–99.
-* Politzer, Guy, & Bonnefon, Jean-François, 2009. Let us not put the probabilistic cart before the uncertainty bull. _Behavioral and Brain Sciences_, 32(01): 100–101.
-* Pollock, John, 1991. A Theory of Defeasible Reasoning. _International Journal of Intelligent Systems_, 6: 33–54.
-* –––, 1995. _Cognitive Carpentry_, Cambridge, MA: Bradford/MIT Press.
-* –––, 2008. Defeasible Reasoning. In _Reasoning: Studies of Human Inference and its Foundations_, J. E. Adler and L. J. Rips (eds.), Cambridge: Cambridge University Press, pp. 451–470.
-* Poole, David, 1985. On the Comparison of Theories: Preferring the Most Specific Explanation. In _IJCAI_ (Volume 85), pp. 144–147.
-* Prakken, Henry, 2010. An abstract framework for argumentation with structured arguments. _Argument & Computation_, 1(2): 93–124.
-* –––, 2012. Some reflections on two current trends in formal argumentation. In A. Artikis, et al. (ed.), _Logic Programs, Norms and Action_. Dordrecht: Springer, pp. 249–272.
-* –––, 2018. Historical overview of formal argumentation. In _Handbook of formal argumentation_ (Vol. 1). Eds. P. Baroni, D. Gabbay, M. Giacomin, & L. van der Torre. London: College Publications. pp.43–141
-* Prakken, Henry, & Vreeswijk, Gerard A. W., 2002. _Logics for Defeasible Argumentation_ (Vol. 4), Dordrecht: Kluwer, pp. 219–318.
-* Priest, Graham, 1991. Minimally inconsistent LP. _Studia Logica_, 50(2): 321–331.
-* Reiter, Raymond, 1980. A Logic for Default Reasoning. _Artifical Intelligence_, 13: 81–132.
-* Rescher, Nicholas & Manor, Ruth, 1970. On inference from inconsistent premises. _Theory and Decision_, 1: 179–217
-* Rott, Hans, 2013. Two concepts of plausibility in default reasoning. _Erkenntnis_, 79(S6): 1219–1252.
-* Schurz, Gerhard, 2005. Non-monotonic reasoning from an evolution-theoretic perspective: Ontic, logical and cognitive foundations. _Synthese_, 146(1–2): 37–51.
-* Shoham, Yoav, 1987. A Semantical Approach to Nonmonotonic Logics. In Ginsberg, M. L. (ed.), _Readings in Non-Monotonic Reasoning_. Los Altos, CA: Morgan Kaufmann, pp. 227–249.
-* Simari, Guillermo R, & Loui, Ronald P., 1992. A mathematical treatment of defeasible reasoning and its implementation. _Artificial intelligence_, 53(2): 125–157.
-* Spohn, Wolfgang, 1988. Ordinal conditional functions: A dynamic theory of epistemic states. In _Causation in Decision, Belief Change and Statistics_, W. L. Harper, & B. Skyrms (Eds.), Springer, pp. 105–134.
-* Stalnaker, Robert, 1993. A note on non-monotonic modal logic. _Artificial Intelligence_, 64(2): 183–196.
-* –––, 1994. What is a nonmonotonic consequence relation? _Fundamenta Informaticae_, 21(1): 7–21.
-* Stein, Lynn Andrea, 1992. Resolving ambiguity in nonmonotonic inheritance hierarchies. _Artificial Intelligence_, 55(2): 259–310.
-* Stenning, Keith, & Van Lambalgen, Michiel, 2008. _Human reasoning and cognitive science_. Cambridge, MA: MIT Press.
-* Straßer, Christian, 2014. _Adaptive Logic and Defeasible Reasoning. Applications in Argumentation, Normative Reasoning and Default Reasoning_ (Trends in Logic, Volume 38). Dordrecht: Springer.
-* Touretzky, David S., Thomason, Richmond H., & Horty, John F., 1991. A Skeptic’s Menagerie: Conflictors, Preemptors, Reinstaters, and Zombies in Nonmonotonic Inheritance. In _IJCAI_, pp. 478–485 of.
-* Van De Putte, Frederik, 2013. Default Assumptions and Selection Functions: A Generic Framework for Non-monotonic Logics. In _Advances in Artificial Intelligence and Its Applications_, Dordrecht: Springer, pp. 54–67.
-* Verheij, Bart, 1996. _Rules, Reasons, Arguments. Formal Studies of Argumentation and Defeat_, Ph.D. thesis, Universiteit Maastricht.
-* Wason, P. C., 1966. Reasoning. in B. Foss (ed.), _New horizons in psychology I_, Harmondsworth: Penguin, pp. 135–151.
+* Geffner, Hector, & Pearl, Judea, 1992. Conditional entailment: bridging two approaches to default reasoning. *Artifical Intelligence*, 53(2–3): 209–244.
+* Gelfond, Michael, & Lifschitz, Vladimir, 1988. The stable model semantics for logic programming. In *ICLP/SLP* (Volume 88), pp. 1070–1080.
+* Gilio, Angelo, 2002. Probabilistic reasoning under coherence in System P. *Annals of Mathematics and Artificial Intelligence*, 34(1–3): 5–34.
+* Ginsberg, Matthew L., 1994. *Essentials of Artificial Intelligence*. San Francisco: Morgan Kaufmann Publishers Inc.
+* ––– (ed.), 1987. *Readings in nonmonotonic reasoning*. San Francisco: Morgan Kaufmann.
+* Giordano, Laura, Gliozzi, Valentina, Olivetti, Nicola, & Pozzato, Gian Luca, 2009. Analytic tableaux calculi for KLM logics of nonmonotonic reasoning. *ACM Transactions on Computational Logic (TOCL)*, 10(3): 18.
+* Goldszmidt, Moisés, & Pearl, Judea, 1992. Rank-based Systems: A Simple Approach to Belief Revision, Belief Update, and Reasoning about Evidence and Actions. In *Proceedings of the Third International Conference on Knowledge Representation and Reasoning*. San Francisco: Morgan Kaufmann, pp. 661–672.
+* Goldzsmidt, Moisés, Morris, Paul, & Pearl, Judea, 1993. A Maximum Entropy Approach to Nonmonotonic Reasoning. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 15(3): 220–232.
+* Hölldobler, Steffen and Kalinke, Yvonne, 1994. Towards a new massible parallel computational model for logic programming. In *Proceedings of the Workshop on Combining Symbolic and Connectionist Processing ECAI*, pp. 68–77.
+* Horty, John F., 1994. Some direct theories of nonmonotonic inheritance. In Gabbay, Dov M., Hogger, Christopher J., & Robinson, J. A. (eds.), *Handbook of Logic in Artificial Intelligence and Logic Programming, Volume 3: Nonmonotonic Reasoning and Uncertain Reasoning*. Oxford: Oxford University Press, pp. 111–187.
+* –––, 2002. Skepticism and floating conclusions. *Artifical Intelligence*, 135(1–2): 55–72.
+* –––, 2007. Defaults with Priorities. *Journal of Philosophical Logic*, 36: 367–413.
+* Konolige, Kurt, 1988. On the relation between default and autoepistemic logic. *Artifical Intelligence*, 35(3): 343–382.
+* Koons, Robert, 2017. Defeasible Reasoning. In *The Stanford Encyclopedia of Philosophy* (Spring 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/reasoning-defeasible/](https://plato.stanford.edu/archives/win2017/entries/reasoning-defeasible/).
+* Kraus, Sarit, Lehmann, Daniel, & Magidor, Menachem, 1990. Nonmonotonic Reasoning, Preferential Models and Cumulative Logics. *Artifical Intelligence*, 44: 167–207.
+* Kripke, Saul, 1975. Outline of a Theory of Truth. *Journal of Philosophy*, 72: 690–716.
+* Lehmann, Daniel J., 1995. Another Perspective on Default Reasoning. *Annals of Mathematics and Artificial Intelligence*, 15(1): 61–82.
+* Lehmann, Daniel J., & Magidor, Menachem, 1990. Preferential logics: the predicate calculus case. In *Proceedings of the 3rd conference on Theoretical aspects of reasoning about knowledge*, San Francisco: Morgan Kaufmann Publishers Inc., pp. 57–72.
+* –––, 1992. What does a conditional knowledge base entail? *Artificial Intelligence*, 55(1): 1–60.
+* Leitgeb, Hannes, 2001. Nonmonotonic reasoning by inhibition nets. *Artifical Intelligence*, 128(May): 161–201.
+* Liao, Beishui, Oren, Nir, van der Torre, Leendert, & Villata, Serena, 2018. Prioritized norms in formal argumentation. *Journal of Logic and Computation*, 29(2): 215–240.
+* Lifschitz, Vladimir, 1989. Benchmark problems for formal nonmonotonic reasoning. In *Non-Monotonic Reasoning*. Berlin: Springer, pp. 202–219.
+* Lin, Fangzhen, & Shoham, Yoav, 1990. Epistemic semantics for fixed-points non-monotonic logics. In *Proceedings of the 3rd Conference on Theoretical Aspects of Reasoning About Knowledge (TARK’90)*, Pacific Grove, CA: Morgan Kaufmann Publishers Inc, pp. 111–120.
+* Lukaszewicz, Witold, 1988. Considerations on default logic: an alternative approach. *Computational intelligence*, 4(1): 1–16.
+* Makinson, David, 1994. General patterns in nonmonotonic reasoning. In: *Handbook of Logic in Artificial Intelligence and Logic Programming, vol. III*, D. Gabbay, C. Hogger, J.A. Robinson (eds.), pp. 35–110, Oxford: Oxford University Press.
+* –––, 2003. Bridges between classical and nonmonotonic logic. *Logic Journal of IGPL*, 11(1): 69–96.
+* Makinson, David, & Gärdenfors, Peter, 1991. Relations between the logic of theory change and nonmonotonic logic. *The logic of theory change*, Berlin: Springer, pp. 183–205.
+* Makinson, David, & Schlechta, Karl, 1991. Floating conclusions and zombie paths: two deep difficulties in the “directly skeptical” approach to defeasible inheritance nets. *Artifical Intelligence*, 48(2): 199–209.
+* McCarthy, J., 1980. Circumscription – A Form of Non-Monotonic Reasoning. *Artifical Intelligence*, 13: 27–29.
+* Modgil, Sanjay and Prakken, Henry, 2013. A general account of argumentation with preferences. *Artificial Intelligence*, 195, 361–397.
+* Moore, Robert C., 1984. Possible-World Semantics for Autoepistemic Logic. In *Proceedings of the Workshop on non-monotonic reasoning*, AAAI, pp. 344–354.
+* –––, 1985. Semantical considerations on nonmonotonic logic. *Artifical Intelligence*, 25(1): 75–94.
+* Neves, Rui Da Silva, Bonnefon, Jean-François, & Raufaste, Eric, 2002. An empirical test of patterns for nonmonotonic inference. *Annals of Mathematics and Artificial Intelligence*, 34(1–3): 107–130.
+* Nute, D., 1994. Defeasible logics. In *Handbook of Logic in Artificial Intelligence and Logic Programming* (Vol. 3). Oxford: Oxford University Press, pp. 353–395.
+* Oaksford, Mike, & Chater, Nick, 2007. *Bayesian rationality the probabilistic approach to human reasoning*. Oxford: Oxford University Press.
+* –––, 2009. Précis of Bayesian rationality: The probabilistic approach to human reasoning. *Behavioral and Brain Sciences*, 32(01): 69–84.
+* Orlowska, Ewa (ed.), 1999. *Logic at Work. Essays Dedicated to the Memory of Helena Rasiowa*. Heidelberg, New York: Physica Verlag (Springer).
+* Over, David E., 2009. New paradigm psychology of reasoning. *Thinking & Reasoning*, 15(4): 431–438.
+* Pearl, Judea, 1988. *Probabilistic reasoning in intelligent systems: networks of plausible inference*. San Francisco: Morgan Kaufmann.
+* –––, 1989. Probabilistic semantics for nonmonotonic reasoning: a survey. In *Proceedings of the first international conference on Principles of knowledge representation and reasoning*. San Francisco: Morgan Kaufmann Publishers, pp. 505–516.
+* –––, 1990. System Z: a natural ordering of defaults with tractable applications to nonmonotonic reasoning. In *TARK ’90: Proceedings of the 3rd conference on Theoretical aspects of reasoning about knowledge*. San Francisco: Morgan Kaufmann Publishers, pp. 121–135.
+* Pelletier, Francis Jeffry, & Elio, Renée, 1997. What should default reasoning be, by default? *Computational Intelligence*, 13(2): 165–187.
+* Pfeifer, Niki, & Douven, Igor, 2014. Formal Epistemology and the New Paradigm Psychology of Reasoning. *Review of Philosophy and Psychology*, 5(2): 199–221.
+* Pfeifer, Niki, & Kleiter, Gernot D., 2005. Coherence and nonmonotonicity in human reasoning. *Synthese*, 146(1–2): 93–109.
+* Pfeifer, Niki, & Kleiter, Gernot D., 2009. Mental probability logic. *Behavioral and Brain Sciences*, 32(01): 98–99.
+* Politzer, Guy, & Bonnefon, Jean-François, 2009. Let us not put the probabilistic cart before the uncertainty bull. *Behavioral and Brain Sciences*, 32(01): 100–101.
+* Pollock, John, 1991. A Theory of Defeasible Reasoning. *International Journal of Intelligent Systems*, 6: 33–54.
+* –––, 1995. *Cognitive Carpentry*, Cambridge, MA: Bradford/MIT Press.
+* –––, 2008. Defeasible Reasoning. In *Reasoning: Studies of Human Inference and its Foundations*, J. E. Adler and L. J. Rips (eds.), Cambridge: Cambridge University Press, pp. 451–470.
+* Poole, David, 1985. On the Comparison of Theories: Preferring the Most Specific Explanation. In *IJCAI* (Volume 85), pp. 144–147.
+* Prakken, Henry, 2010. An abstract framework for argumentation with structured arguments. *Argument & Computation*, 1(2): 93–124.
+* –––, 2012. Some reflections on two current trends in formal argumentation. In A. Artikis, et al. (ed.), *Logic Programs, Norms and Action*. Dordrecht: Springer, pp. 249–272.
+* –––, 2018. Historical overview of formal argumentation. In *Handbook of formal argumentation* (Vol. 1). Eds. P. Baroni, D. Gabbay, M. Giacomin, & L. van der Torre. London: College Publications. pp.43–141
+* Prakken, Henry, & Vreeswijk, Gerard A. W., 2002. *Logics for Defeasible Argumentation* (Vol. 4), Dordrecht: Kluwer, pp. 219–318.
+* Priest, Graham, 1991. Minimally inconsistent LP. *Studia Logica*, 50(2): 321–331.
+* Reiter, Raymond, 1980. A Logic for Default Reasoning. *Artifical Intelligence*, 13: 81–132.
+* Rescher, Nicholas & Manor, Ruth, 1970. On inference from inconsistent premises. *Theory and Decision*, 1: 179–217
+* Rott, Hans, 2013. Two concepts of plausibility in default reasoning. *Erkenntnis*, 79(S6): 1219–1252.
+* Schurz, Gerhard, 2005. Non-monotonic reasoning from an evolution-theoretic perspective: Ontic, logical and cognitive foundations. *Synthese*, 146(1–2): 37–51.
+* Shoham, Yoav, 1987. A Semantical Approach to Nonmonotonic Logics. In Ginsberg, M. L. (ed.), *Readings in Non-Monotonic Reasoning*. Los Altos, CA: Morgan Kaufmann, pp. 227–249.
+* Simari, Guillermo R, & Loui, Ronald P., 1992. A mathematical treatment of defeasible reasoning and its implementation. *Artificial intelligence*, 53(2): 125–157.
+* Spohn, Wolfgang, 1988. Ordinal conditional functions: A dynamic theory of epistemic states. In *Causation in Decision, Belief Change and Statistics*, W. L. Harper, & B. Skyrms (Eds.), Springer, pp. 105–134.
+* Stalnaker, Robert, 1993. A note on non-monotonic modal logic. *Artificial Intelligence*, 64(2): 183–196.
+* –––, 1994. What is a nonmonotonic consequence relation? *Fundamenta Informaticae*, 21(1): 7–21.
+* Stein, Lynn Andrea, 1992. Resolving ambiguity in nonmonotonic inheritance hierarchies. *Artificial Intelligence*, 55(2): 259–310.
+* Stenning, Keith, & Van Lambalgen, Michiel, 2008. *Human reasoning and cognitive science*. Cambridge, MA: MIT Press.
+* Straßer, Christian, 2014. *Adaptive Logic and Defeasible Reasoning. Applications in Argumentation, Normative Reasoning and Default Reasoning* (Trends in Logic, Volume 38). Dordrecht: Springer.
+* Touretzky, David S., Thomason, Richmond H., & Horty, John F., 1991. A Skeptic’s Menagerie: Conflictors, Preemptors, Reinstaters, and Zombies in Nonmonotonic Inheritance. In *IJCAI*, pp. 478–485 of.
+* Van De Putte, Frederik, 2013. Default Assumptions and Selection Functions: A Generic Framework for Non-monotonic Logics. In *Advances in Artificial Intelligence and Its Applications*, Dordrecht: Springer, pp. 54–67.
+* Verheij, Bart, 1996. *Rules, Reasons, Arguments. Formal Studies of Argumentation and Defeat*, Ph.D. thesis, Universiteit Maastricht.
+* Wason, P. C., 1966. Reasoning. in B. Foss (ed.), *New horizons in psychology I*, Harmondsworth: Penguin, pp. 135–151.
 
 ## Academic Tools
 
@@ -717,5 +716,5 @@ Pelletier 和 Elio（1994）研究了影响受试者对默认值或继承关系�
 [artificial intelligence](https://plato.stanford.edu/entries/artificial-intelligence/) | [artificial intelligence: logic-based](https://plato.stanford.edu/entries/logic-ai/) | [computability and complexity](https://plato.stanford.edu/entries/computability/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [model theory: first-order](https://plato.stanford.edu/entries/modeltheory-fo/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Christian Strasser](http://rub.academia.edu/ChristianStrasser) <[_Christian.Strasser@ruhr-uni-bochum.de_](mailto:Christian%2eStrasser%40ruhr-uni-bochum%2ede)>\
+[Christian Strasser](http://rub.academia.edu/ChristianStrasser) <[*Christian.Strasser@ruhr-uni-bochum.de*](mailto:Christian%2eStrasser%40ruhr-uni-bochum%2ede)>\
 G. Aldo Antonelli

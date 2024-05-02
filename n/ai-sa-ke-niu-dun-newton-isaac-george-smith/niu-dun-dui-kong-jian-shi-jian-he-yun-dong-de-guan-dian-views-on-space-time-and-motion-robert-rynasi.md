@@ -8,8 +8,6 @@
 
 在最近的文献中，牛顿关于空间和时间本体论的论点被称为实体主义，与关系主义相对立。然而，需要强调的是，牛顿并不认为空间和时间是真正的实体（如典范地，身体和心灵），而是作为实在的实体，具有自己的存在方式，这是由上帝的存在所必需的（更具体地说，是由他的无所不在和永恒性所决定的）。
 
- 
-
 ---
 
 ## 1. 斯科利姆概述
@@ -77,7 +75,7 @@ Charleton 对于他关于时间观点的论证与牛顿在《自然哲学的数�
 
 笛卡尔于 1644 年以《哲学原理》（Principia Philosophae）的形式发表了他的世界体系。《哲学原理》的第二部分阐述了空间（延展性）和物质的同一性论题，发展了“真实或哲学意义上”的运动定义，并阐明了他体系的基本动力学定律。根据“事实的真相”，运动被定义为“物质的一部分或一个物体从其直接相邻且被视为静止的物体附近转移到其他物体附近”。笛卡尔指出，因此，每个物体都有一个适合它的单一运动（与可以归因于它的其他物体的众多相对运动相对比，这取决于选择哪些其他物体来确定它的位置）。正是这个单一适当的运动在他的运动定律中起作用。对于笛卡尔整个体系来说，特别重要的是，一个处于圆周运动中的物体有一种远离旋转中心的努力[conatus]。
 
-## 4. 牛顿的手稿《引力论》...
+## 4. 牛顿的手稿《引力论》
 
 这个事实，再加上笛卡尔的主张，即一个物体也参与了它所属的物体的运动，使得很难将笛卡尔的世界体系与他对适当运动的定义调和。牛顿得出结论，这一学说实际上是自相矛盾的，而笛卡尔在需要时，曾偷偷地借用了一个与物体独立的空间概念，特别是为了赋予行星及其卫星所受到的“精细”物质的天体涡旋所带来的离心努力所需的程度。
 
@@ -315,7 +313,7 @@ B 叉：需要建立的是，虽然一个受到的力足以在物体中产生或
 * Reichenbach, H., 1958, *The Philosophy of Space and Time*. New York: Dover Publications, 210–218.
 * Shapin, S., 1981, “Of Gods and Kings: Natural Philosophy and Politics in the Leibniz-Clarke Disputes,” *Isis*, 72: 187–215.
 * Sklar, L., 1974, *Space, Time and Space-Time*. Berkeley, CA: University of California Press, 161–193.
-* Slowik, Ed, 2009, “Newton's Metaphysics of Space: A `*Tertium Quid*' betwixt Substantivalism and Relationism, or merely A `God of The (Rational Mechanical) Gaps'?” *Perspectives on Science* 17: 429–456.
+* Slowik, Ed, 2009, “Newton's Metaphysics of Space: A `*Tertium Quid*' betwixt Substantivalism and Relationism, or merely A`God of The (Rational Mechanical) Gaps'?” *Perspectives on Science* 17: 429–456.
 * Stein, Howard, 1967, “Newtonian Space-Time,” in Robert Palter (ed.), *The* Annus Mirabilis *of Sir Isaac Newton 1666-1966*. Cambridge, MA: MIT Press, 174–200.
 * –––, 1977, “Some Philosophical Prehistory of General Relativity,” in *Minnesota Studies in the Philosophy of Science*, vol. VIII, J. Earman, C. Glymour, and J. Stachel (eds.), Minneapolis: University of Minnesota Press, 3–49.
 * Stewart, L., 1981, “Samuel Clarke, Newtonianism, and the Factions of Post-Revolutionary England,” *Journal of the History of Ideas*, 42: 53–72.

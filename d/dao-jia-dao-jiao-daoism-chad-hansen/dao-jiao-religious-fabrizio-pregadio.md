@@ -1,6 +1,6 @@
 # 道教 religious (Fabrizio Pregadio)
 
-_首次发表于 2016 年 8 月 19 日星期五；实质修订于 2020 年 8 月 31 日星期一_
+*首次发表于 2016 年 8 月 19 日星期五；实质修订于 2020 年 8 月 31 日星期一*
 
 > 将所谓的道家学派（Daojia）与所谓的道教宗教（Daojiao）区分开来，已经成为了中国学的教条。前者据说创作了经典的神秘文本...，而后者则常被认为起源于后汉时期（即公元 1-2 世纪）。历代道藏（Daoist Canons）从未做出这种区分。当我们看到明代道藏（于 1445 年出版）中保留的文本中出现的 Daojia 和 Daojiao 这两个术语时，我们可以看到它们几乎是同义词且可以互换使用。- 克里斯托弗·施普尔（Schipper and Verellen 2004: 6）
 
@@ -399,160 +399,160 @@ _首次发表于 2016 年 8 月 19 日星期五；实质修订于 2020 年 8 月
 
 ## Bibliography
 
-* Andersen, Poul, 1979, _The Method of Holding the Three Ones: A Taoist Manual of Meditation of the Fourth Century A.D._, London and Malmö: Curzon Press.
-* –––, 1989–90, “The Practice of _Bugang_”, _Cahiers d’Extrême-Asie_, 5: 15–53. doi:10.3406/asie.1989.942
-* –––, 1994, “Talking to the Gods: Visionary Divination in Early Taoism (The Sanhuang Tradition)”, _Taoist Resources_, 5(1): 1–24.
-* –––, 2008, “_Jiao_ \[Offering]”, in Pregadio 2008: vol. 1, 539–44.
-* Andreeva, Anna and Dominic Steavu (eds), 2016, _Transforming the Void: Embryological Discourse and Reproductive Imagery in East Asian Religions_, Leiden and Boston: E.J. Brill.
-* Barrett, T.H., 1996, _Taoism under the T’ang: Religion and Empire during the Golden Age of Chinese History_, London: Wellsweep Press.
-* –––, 2011, “Reading the _Liezi_: The First Thousand Years”, in Ronnie Littlejohn and Jeffrey W. Dippmann (eds), _Riding the Wind with Liezi: New Perspectives on the Daoist Classic_, Albany: State University of New York Press, 15–30.
-* Benn, Charles D., 1991, _The Cavern-Mystery Transmission: A Taoist Ordination Rite of A.D. 711_, Honolulu: University of Hawai‘i Press.
+* Andersen, Poul, 1979, *The Method of Holding the Three Ones: A Taoist Manual of Meditation of the Fourth Century A.D.*, London and Malmö: Curzon Press.
+* –––, 1989–90, “The Practice of *Bugang*”, *Cahiers d’Extrême-Asie*, 5: 15–53. doi:10.3406/asie.1989.942
+* –––, 1994, “Talking to the Gods: Visionary Divination in Early Taoism (The Sanhuang Tradition)”, *Taoist Resources*, 5(1): 1–24.
+* –––, 2008, “*Jiao* \[Offering]”, in Pregadio 2008: vol. 1, 539–44.
+* Andreeva, Anna and Dominic Steavu (eds), 2016, *Transforming the Void: Embryological Discourse and Reproductive Imagery in East Asian Religions*, Leiden and Boston: E.J. Brill.
+* Barrett, T.H., 1996, *Taoism under the T’ang: Religion and Empire during the Golden Age of Chinese History*, London: Wellsweep Press.
+* –––, 2011, “Reading the *Liezi*: The First Thousand Years”, in Ronnie Littlejohn and Jeffrey W. Dippmann (eds), *Riding the Wind with Liezi: New Perspectives on the Daoist Classic*, Albany: State University of New York Press, 15–30.
+* Benn, Charles D., 1991, *The Cavern-Mystery Transmission: A Taoist Ordination Rite of A.D. 711*, Honolulu: University of Hawai‘i Press.
 * –––, 2000, “Daoist Ordination and Zhai Rituals in Medieval China”, in Kohn 2000: 309–39. Leiden: E.J. Brill
 * Bokenkamp, Stephen R., 1983, “Sources of the Ling-pao Scriptures”, in Strickmann 1983: 2: 434–86.
-* –––, 1989, “Death and Ascent in Ling-pao Taoism”, _Taoist Resources_, 1(2): 1–20.
-* –––, 1994, “Time After Time: Taoist Apocalyptic History and the Founding of the T’ang Dynasty”, _Asia Major_, third series, 7: 59–88.
-* –––, 1997, _Early Daoist Scriptures_, Berkeley: University of California Press.
-* –––, 2004, “Daoism and Buddhism”, in Robert E. Buswell, Jr. (ed.), _Encyclopedia of Buddhism_, New York: Macmillan Reference USA, 197–201.
-* –––, 2005a, “Daoism: An Overview”, in Lindsay Jones (ed.), _The Encyclopedia of Religion_, second edition, New York and London: Macmillan , 4: 2176–92.
-* –––, 2005b, “Simple Twists of Fate: The Daoist Body and Its Ming”, in Christopher Lupke (ed.), _The Magnitude of Ming: Command, Allotment, and Fate in Chinese Culture_, Honolulu: University of Hawai’i Press, 151–68.
-* Bokenkamp, Stephen R. and Judith M. Boltz, 1986, “Taoist Literature”, Part 1: “Through the T’ang Dynasty”, Part 2: “Five Dynasties to the Ming”, in William H. Nienhauser, Jr. (ed.), _The Indiana Companion to Traditional Chinese Literature_, Second revised edition, Bloomington: Indiana University Press, 138–52 and 152–74.
+* –––, 1989, “Death and Ascent in Ling-pao Taoism”, *Taoist Resources*, 1(2): 1–20.
+* –––, 1994, “Time After Time: Taoist Apocalyptic History and the Founding of the T’ang Dynasty”, *Asia Major*, third series, 7: 59–88.
+* –––, 1997, *Early Daoist Scriptures*, Berkeley: University of California Press.
+* –––, 2004, “Daoism and Buddhism”, in Robert E. Buswell, Jr. (ed.), *Encyclopedia of Buddhism*, New York: Macmillan Reference USA, 197–201.
+* –––, 2005a, “Daoism: An Overview”, in Lindsay Jones (ed.), *The Encyclopedia of Religion*, second edition, New York and London: Macmillan , 4: 2176–92.
+* –––, 2005b, “Simple Twists of Fate: The Daoist Body and Its Ming”, in Christopher Lupke (ed.), *The Magnitude of Ming: Command, Allotment, and Fate in Chinese Culture*, Honolulu: University of Hawai’i Press, 151–68.
+* Bokenkamp, Stephen R. and Judith M. Boltz, 1986, “Taoist Literature”, Part 1: “Through the T’ang Dynasty”, Part 2: “Five Dynasties to the Ming”, in William H. Nienhauser, Jr. (ed.), *The Indiana Companion to Traditional Chinese Literature*, Second revised edition, Bloomington: Indiana University Press, 138–52 and 152–74.
 * Boltz, Judith M., 1983, “Opening the Gates of Purgatory: A Twelfth-century Meditation Technique for the Salvation of Lost Souls”, in Strickmann 1983: 2: 487–511.
-* –––, 1987, _A Survey of Taoist Literature: Tenth to Seventeenth Centuries_, Berkeley: Institute of East Asian Studies, University of California. Repr. 1995, with corrigenda.
-* Campany, Robert F., 2002, _To Live as Long as Heaven and Earth: A Translation and Study of Ge Hong’s, “Traditions of Divine Transcendents”_, Berkeley: University of California Press.
-* Cedzich, Ursula-Angelika, 2001, “Corpse Deliverance, Substitute Bodies, Name Change, and Feigned Death: Aspects of Metamorphosis and Immortality in Early Medieval China”, _Journal of Chinese Religions_, 29: 1–68.
-* Chan, Alan K.L., 2000, “The _Daode jing_ and Its Tradition”, in Kohn 2000: 1–29; revised and updated version in Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Spring 2014 Edition), URL= [https://plato.stanford.edu/archives/spr2014/entries/laozi/](https://plato.stanford.edu/archives/spr2014/entries/laozi/).
-* Che, Philippe, 1999, _La Voie des Divins Immortels: Les chapitres discursifs du Baopu zi neipian_, Paris: Gallimard.
+* –––, 1987, *A Survey of Taoist Literature: Tenth to Seventeenth Centuries*, Berkeley: Institute of East Asian Studies, University of California. Repr. 1995, with corrigenda.
+* Campany, Robert F., 2002, *To Live as Long as Heaven and Earth: A Translation and Study of Ge Hong’s, “Traditions of Divine Transcendents”*, Berkeley: University of California Press.
+* Cedzich, Ursula-Angelika, 2001, “Corpse Deliverance, Substitute Bodies, Name Change, and Feigned Death: Aspects of Metamorphosis and Immortality in Early Medieval China”, *Journal of Chinese Religions*, 29: 1–68.
+* Chan, Alan K.L., 2000, “The *Daode jing* and Its Tradition”, in Kohn 2000: 1–29; revised and updated version in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2014 Edition), URL= [https://plato.stanford.edu/archives/spr2014/entries/laozi/](https://plato.stanford.edu/archives/spr2014/entries/laozi/).
+* Che, Philippe, 1999, *La Voie des Divins Immortels: Les chapitres discursifs du Baopu zi neipian*, Paris: Gallimard.
 * Csikszentmihalyi, Mark, 2000, “Han Cosmology and Mantic Practices”, in Kohn 2000: 53–73.
-* ––– (ed.), 2006, _Readings in Han Chinese Thought_, Indianapolis, IN, and Cambridge, MA: Hackett, 105–112.
-* Davis, Edward L, 2001, _Society and the Supernatural in Song China_, Honolulu: University of Hawai‘i Press.
+* ––– (ed.), 2006, *Readings in Han Chinese Thought*, Indianapolis, IN, and Cambridge, MA: Hackett, 105–112.
+* Davis, Edward L, 2001, *Society and the Supernatural in Song China*, Honolulu: University of Hawai‘i Press.
 * Dean, Kenneth, 2000, “Daoist Ritual Today”, in Kohn 2000: 659–82.
-* Delacour, Catherine, et al, 2010, _La voie du Tao: Un autre chemin de l’être_, Paris: Éditions de la Réunion des musées nationaux.
-* Despeux, Catherine, 1979, _Zhao Bichen: Traité d’alchimie et de physiologie taoïste (Weisheng shenglixue mingzhi)_, Paris: Les Deux Océans.
-* –––, 1989, “Gymnastics: The Ancient Tradition”, In Livia Kohn (ed.), _Taoist Meditation and Longevity Techniques_, Ann Arbor: Center for Chinese Studies, University of Michigan, 225–61.
-* –––, 1996, “Le corps, champ spatio-temporel, souche d’identité”, _L’Homme_, 137: 87–118.
+* Delacour, Catherine, et al, 2010, *La voie du Tao: Un autre chemin de l’être*, Paris: Éditions de la Réunion des musées nationaux.
+* Despeux, Catherine, 1979, *Zhao Bichen: Traité d’alchimie et de physiologie taoïste (Weisheng shenglixue mingzhi)*, Paris: Les Deux Océans.
+* –––, 1989, “Gymnastics: The Ancient Tradition”, In Livia Kohn (ed.), *Taoist Meditation and Longevity Techniques*, Ann Arbor: Center for Chinese Studies, University of Michigan, 225–61.
+* –––, 1996, “Le corps, champ spatio-temporel, souche d’identité”, *L’Homme*, 137: 87–118.
 * –––, 2000, “Talismans and Sacred Diagrams”, in Kohn 2000: 498–540.
-* –––, 2012, _Taoïsme et connaissance de soi: La Carte de la culture de la perfection (Xiuzhentu)_, Paris: Guy Trédaniel Editeur.
+* –––, 2012, *Taoïsme et connaissance de soi: La Carte de la culture de la perfection (Xiuzhentu)*, Paris: Guy Trédaniel Editeur.
 * –––, 2016, “Symbolic Pregnancy and the Sexual Identity of Taoist Adepts”, in Andreeva and Steavu 2016: 147–85.
 * Engelhardt, Ute, 2000, “Longevity Techniques and Chinese Medicine”, in Kohn 2000: 74–108.
-* Eskildson, Stephen, 2004, _The Teachings and Practices of the Early Quanzhen Taoist Masters_, Albany: State University of New York Press.
-* Espesset, Grégoire, 2009, “Latter Han Religious Mass Movements and the Early Daoist Church”, in John Lagerwey and Marc Kalinowski (eds), _Early Chinese Religion_, part 1: _Shang through Han (1250 BC-220 AD)_, Leiden and Boston: E.J. Brill, 2: 1061–1102.
+* Eskildson, Stephen, 2004, *The Teachings and Practices of the Early Quanzhen Taoist Masters*, Albany: State University of New York Press.
+* Espesset, Grégoire, 2009, “Latter Han Religious Mass Movements and the Early Daoist Church”, in John Lagerwey and Marc Kalinowski (eds), *Early Chinese Religion*, part 1: *Shang through Han (1250 BC-220 AD)*, Leiden and Boston: E.J. Brill, 2: 1061–1102.
 * Esposito, Monica, 2004, “The Longmen School and its Controversial History during the Qing Dynasty”, in Lagerwey 2004b: vol. 2, 621–98.
-* Fava, Patrice, 2013, _Aux portes du ciel: La stauaire taoïste du Hunan_, Paris: Les Belles Lettres, École Française d’Extrême-Orient.
-* Girardot, Norman J., 1983, _Myth and Meaning in Early Taoism: The Theme of Chaos_ (Hun-tun). Berkeley: University of California Press.
-* Goossaert, Vincent, 2001, “The Invention of an Order: Collective Identity in Thirteenth-Century Quanzhen Taoism”, _Journal of Chinese Religions_, 29: 111–38.
-* Graham, A.C., 1961, “The Date and Composition of _Liehtzyy_”, _Asia Major_, second series, 8: 139–98.
-* –––, 1989, _Disputers of the Tao: Philosophical Argument in Ancient China_, La Salle, IL: Open Court.
-* Graziani, Romain, 2001, _Écrits de Maître Guan: Les Quatre traités de l’Art de l’esprit_, Paris: Les Belles Lettres.
-* Harper, Donald J., 1998, _Early Chinese Medical Literature: The Mawangdui Medical Manuscripts_, London and New York: Kegan Paul International.
-* –––, 1999, “Warring States Natural Philosophy and Occult Thought”, in Michael Loewe and Edward L. Shaughnessy (eds), _The Cambridge History of Ancient China: From the Origins to 221 B.C._, Cambridge: Cambridge University Press, 813–84.
+* Fava, Patrice, 2013, *Aux portes du ciel: La stauaire taoïste du Hunan*, Paris: Les Belles Lettres, École Française d’Extrême-Orient.
+* Girardot, Norman J., 1983, *Myth and Meaning in Early Taoism: The Theme of Chaos* (Hun-tun). Berkeley: University of California Press.
+* Goossaert, Vincent, 2001, “The Invention of an Order: Collective Identity in Thirteenth-Century Quanzhen Taoism”, *Journal of Chinese Religions*, 29: 111–38.
+* Graham, A.C., 1961, “The Date and Composition of *Liehtzyy*”, *Asia Major*, second series, 8: 139–98.
+* –––, 1989, *Disputers of the Tao: Philosophical Argument in Ancient China*, La Salle, IL: Open Court.
+* Graziani, Romain, 2001, *Écrits de Maître Guan: Les Quatre traités de l’Art de l’esprit*, Paris: Les Belles Lettres.
+* Harper, Donald J., 1998, *Early Chinese Medical Literature: The Mawangdui Medical Manuscripts*, London and New York: Kegan Paul International.
+* –––, 1999, “Warring States Natural Philosophy and Occult Thought”, in Michael Loewe and Edward L. Shaughnessy (eds), *The Cambridge History of Ancient China: From the Origins to 221 B.C.*, Cambridge: Cambridge University Press, 813–84.
 * Hendrischke, Barbara, 2000, “Early Daoist Movements”, in Kohn 2000: 134–64.
-* –––, 2006, _The Scripture on Great Peace: The Taiping jing and the Beginnings of Daoism_, Berkeley: University of California Press.
-* Hendrischke, Barbara and Benjamin Penny, 1996, “The 180 Precepts Spoken by Lord Lao: A Translation and Textual Study”, _Taoist Resources_, 6(2): 17–29.
-* Henricks, Robert G., 1989, _Lao-Tzu: Te-Tao Ching. A New Translation Based on the Recently Discovered Ma-wang-tui Texts_, New York: Ballantine Books.
-* –––, 2000, _Lao Tzu’s Tao Te ching: A Translation of the Startling New Documents Found at Guodian_, New York: Columbia University Press.
+* –––, 2006, *The Scripture on Great Peace: The Taiping jing and the Beginnings of Daoism*, Berkeley: University of California Press.
+* Hendrischke, Barbara and Benjamin Penny, 1996, “The 180 Precepts Spoken by Lord Lao: A Translation and Textual Study”, *Taoist Resources*, 6(2): 17–29.
+* Henricks, Robert G., 1989, *Lao-Tzu: Te-Tao Ching. A New Translation Based on the Recently Discovered Ma-wang-tui Texts*, New York: Ballantine Books.
+* –––, 2000, *Lao Tzu’s Tao Te ching: A Translation of the Startling New Documents Found at Guodian*, New York: Columbia University Press.
 * Huang, Shih-shan Susan, 2012, _Picturing the True Form: Daoist Visual Culture in Traditional Chin_a. Cambridge, MA: Harvard University Press.
-* Kalinowski, Marc, 1991, _Cosmologie et divination dans la Chine ancienne: Le Compendium des Cinq Agents (Wuxing dayi, VIe siècle)_, Paris: École Française d’Extrême-Orient.
-* –––, 2004, “Technical Traditions in Ancient China and _Shushu_ Culture in Chinese Religion”, in Lagerway 2004b: vol. 1, 223–48.
-* Kaltenmark, Max, 1953, _Le_ Lie-sien tchouan _(Biographies légendaires des Immortels taoïstes de l’antiquité)_, Pékin: Université de Paris, Publications du Centre d’Études Sinologiques de Pékin.
-* Kirkland, Russell, 2004, _Taoism: The Enduring Tradition_, New York and London: Routledge.
-* Kleeman, Terry, 1994, “Licentious Cults and Bloody Victuals: Sacrifice, Reciprocity and Violence in Traditional China”, _Asia Major_, third series, 7: 185–211.
-* –––, 2010, “Community and Daily Life in the Early Daoist Church”, in John Lagerwey and Lü Pengzhi (eds), _Early Chinese Religion_, part 2: _The Period of Division (220–589 AD)_, Leiden and Boston: E.J. Brill, 1: 395–436.
-* –––, 2014, “The Performance and Significance of the Merging the Pneumas (_Heqi_) Rite in Early Daoism”, _Daoism: Religion, History and Society_, 6: 85–112.
-* –––, 2016, _Celestial Masters: History and Ritual in Early Daoist Communities_, Cambridge, MA: Harvard University Asia Center.
-* Knoblock, John, and Jeffrey Riegel, 2001, _The Annals of Lü Buwei_, Stanford, CA: Stanford University Press.
-* Kohn, Livia, 1991, “Taoist Visions of the Body”, _Journal of Chinese Philosophy_, 18: 227–52.
-* –––, 1992, _Early Chinese Mysticism: Philosophy and Soteriology in the Taoist Tradition_, Princeton: Princeton University Press.
-* –––, 1993, _The Taoist Experience: An Anthology_, Albany: State University of New York Press.
-* –––, 1998, _God of the Dao: Lord Lao in History and Myth_, Ann Arbor: Center for Chinese Studies, University of Michigan.
-* ––– (ed.), 2000, _Daoism Handbook_, Leiden: E.J. Brill.
-* –––, 2008, _Chinese Healing Exercises: The Tradition of Daoyin_, Honolulu: University of Hawai’i Press.
-* –––, 2010, _Sitting in Oblivion: The Heart of Daoist Meditation_, Dunedin, FL: Three Pines Press.
-* –––, 2012, _A Sourcebook in Chinese Longevity_, St. Petersburg, FL: Three Pines Press.
+* Kalinowski, Marc, 1991, *Cosmologie et divination dans la Chine ancienne: Le Compendium des Cinq Agents (Wuxing dayi, VIe siècle)*, Paris: École Française d’Extrême-Orient.
+* –––, 2004, “Technical Traditions in Ancient China and *Shushu* Culture in Chinese Religion”, in Lagerway 2004b: vol. 1, 223–48.
+* Kaltenmark, Max, 1953, *Le* Lie-sien tchouan *(Biographies légendaires des Immortels taoïstes de l’antiquité)*, Pékin: Université de Paris, Publications du Centre d’Études Sinologiques de Pékin.
+* Kirkland, Russell, 2004, *Taoism: The Enduring Tradition*, New York and London: Routledge.
+* Kleeman, Terry, 1994, “Licentious Cults and Bloody Victuals: Sacrifice, Reciprocity and Violence in Traditional China”, *Asia Major*, third series, 7: 185–211.
+* –––, 2010, “Community and Daily Life in the Early Daoist Church”, in John Lagerwey and Lü Pengzhi (eds), *Early Chinese Religion*, part 2: *The Period of Division (220–589 AD)*, Leiden and Boston: E.J. Brill, 1: 395–436.
+* –––, 2014, “The Performance and Significance of the Merging the Pneumas (*Heqi*) Rite in Early Daoism”, *Daoism: Religion, History and Society*, 6: 85–112.
+* –––, 2016, *Celestial Masters: History and Ritual in Early Daoist Communities*, Cambridge, MA: Harvard University Asia Center.
+* Knoblock, John, and Jeffrey Riegel, 2001, *The Annals of Lü Buwei*, Stanford, CA: Stanford University Press.
+* Kohn, Livia, 1991, “Taoist Visions of the Body”, *Journal of Chinese Philosophy*, 18: 227–52.
+* –––, 1992, *Early Chinese Mysticism: Philosophy and Soteriology in the Taoist Tradition*, Princeton: Princeton University Press.
+* –––, 1993, *The Taoist Experience: An Anthology*, Albany: State University of New York Press.
+* –––, 1998, *God of the Dao: Lord Lao in History and Myth*, Ann Arbor: Center for Chinese Studies, University of Michigan.
+* ––– (ed.), 2000, *Daoism Handbook*, Leiden: E.J. Brill.
+* –––, 2008, *Chinese Healing Exercises: The Tradition of Daoyin*, Honolulu: University of Hawai’i Press.
+* –––, 2010, *Sitting in Oblivion: The Heart of Daoist Meditation*, Dunedin, FL: Three Pines Press.
+* –––, 2012, *A Sourcebook in Chinese Longevity*, St. Petersburg, FL: Three Pines Press.
 * Kohn, Livia and Russell Kirkland, 2000, “Daoism in the Tang (618–907)”, in Kohn 2000: 339–83.
-* Kroll, Paul, 1996, “On ‘Far Roaming’”, _Journal of the American Oriental Society_, 116: 653–69.
-* Lagerwey, John, 1981, _Wu-shang pi-yao: Somme taoïste du VIe siècle_, Paris: École Française d’Extrême-Orient.
-* –––, 1986, “Écriture et corps divin”, in Charles Malamoud and Jean-Pierre Vernant (eds), _Corps des dieux_, Paris: Gallimard, (Le temps de la réflexion, 7), 275–86.
-* –––, 1987, _Taoist Ritual in Chinese Society and History_, New York and London: Macmillan.
-* –––, 2004a, “Deux écrits taoïstes anciens”, _Cahiers d’Extrême-Asie_, 14: 139–171.
-* ––– (ed.), 2004b, _Religion and Chinese Society_, 2 volumes, Hong Kong: Chinese University Press and Paris: École Française d’Extrême-Orient.
-* –––, 2010, _China: A Religious State_, Hong Kong: Kong Kong University Press.
-* Le Blanc, Charles and Rémi Mathieu (eds), 2003, _Philosophes taoïstes_: II, _Huainan zi_, Paris: Gallimard.
-* Little, Stephen, 2000, _Taoism and the Arts of China_, Chicago: The Art Institute of Chicago.
-* Mair, Victor H., 2000, “The _Zhuangzi_ and Its Impact”, in Kohn 2000: 30–52.
-* Major, John S., Sarah A. Queen, Andrew Seth Meyers, and Harold D. Roth (trans. and eds), 2010, _The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China_, New York: Columbia University Press.
-* Marsone, Pierre, 2010, _Wang Chongyang (1113–1170) et la foundation du Quanzhen: Ascètes taoïstes et alchimie intérieure_, Paris: Collège de France, Institut des Hautes Études Chinoises.
-* Maspero, Henri, 1981, _Taoism and Chinese Religion_, Amherst: The University of Massachusetts Press. Originally published as _Le Taoïsme et les religions chinoises_, Paris: Gallimard, 1971.
-* Mollier, Christine, 2003, “Talismans”, in Marc Kalinowski (ed.), _Divination et société dans la Chine médiévale: Étude des manuscrits de Dunhuang de la Bibliothèque nationale de France et de la British Library_, Paris: Bibliothèque nationale de France, 405–29.
+* Kroll, Paul, 1996, “On ‘Far Roaming’”, *Journal of the American Oriental Society*, 116: 653–69.
+* Lagerwey, John, 1981, *Wu-shang pi-yao: Somme taoïste du VIe siècle*, Paris: École Française d’Extrême-Orient.
+* –––, 1986, “Écriture et corps divin”, in Charles Malamoud and Jean-Pierre Vernant (eds), *Corps des dieux*, Paris: Gallimard, (Le temps de la réflexion, 7), 275–86.
+* –––, 1987, *Taoist Ritual in Chinese Society and History*, New York and London: Macmillan.
+* –––, 2004a, “Deux écrits taoïstes anciens”, *Cahiers d’Extrême-Asie*, 14: 139–171.
+* ––– (ed.), 2004b, *Religion and Chinese Society*, 2 volumes, Hong Kong: Chinese University Press and Paris: École Française d’Extrême-Orient.
+* –––, 2010, *China: A Religious State*, Hong Kong: Kong Kong University Press.
+* Le Blanc, Charles and Rémi Mathieu (eds), 2003, *Philosophes taoïstes*: II, *Huainan zi*, Paris: Gallimard.
+* Little, Stephen, 2000, *Taoism and the Arts of China*, Chicago: The Art Institute of Chicago.
+* Mair, Victor H., 2000, “The *Zhuangzi* and Its Impact”, in Kohn 2000: 30–52.
+* Major, John S., Sarah A. Queen, Andrew Seth Meyers, and Harold D. Roth (trans. and eds), 2010, *The Huainanzi: A Guide to the Theory and Practice of Government in Early Han China*, New York: Columbia University Press.
+* Marsone, Pierre, 2010, *Wang Chongyang (1113–1170) et la foundation du Quanzhen: Ascètes taoïstes et alchimie intérieure*, Paris: Collège de France, Institut des Hautes Études Chinoises.
+* Maspero, Henri, 1981, *Taoism and Chinese Religion*, Amherst: The University of Massachusetts Press. Originally published as *Le Taoïsme et les religions chinoises*, Paris: Gallimard, 1971.
+* Mollier, Christine, 2003, “Talismans”, in Marc Kalinowski (ed.), *Divination et société dans la Chine médiévale: Étude des manuscrits de Dunhuang de la Bibliothèque nationale de France et de la British Library*, Paris: Bibliothèque nationale de France, 405–29.
 * –––, 2005, “Visions of Evil: Demonology and Orthodoxy in Early Daoism”, in Penny 2005: 74–100.
-* –––, 2008a, _Buddhism and Taoism Face to Face: Scripture, Ritual, and Iconographic Exchange in Medieval China_, Honolulu: University of Hawai’i Press.
+* –––, 2008a, *Buddhism and Taoism Face to Face: Scripture, Ritual, and Iconographic Exchange in Medieval China*, Honolulu: University of Hawai’i Press.
 * –––, 2008b, “Messianism and Millenarianism”, in Pregadio 2008: vol. 1, 94–96.
 * –––, 2016, “Conceiving the Embryo of Immortality: ‘Seed-People’ and Sexual Rites in Early Taoism”, in Andreeva and Steavu 2016: 87–110.
-* Needham, Joseph, 1976, _Science and Civilisation in China_, Vol. V: _Chemistry and Chemical Technology_, part 3: _Spagyrical Discovery and Invention: Historical Survey, from Cinnabar Elixirs to Synthetic Insulin_, With the collaboration of Ho Ping-Yü and Lu Gwei-Djen. Cambridge: Cambridge University Press.
+* Needham, Joseph, 1976, *Science and Civilisation in China*, Vol. V: *Chemistry and Chemical Technology*, part 3: *Spagyrical Discovery and Invention: Historical Survey, from Cinnabar Elixirs to Synthetic Insulin*, With the collaboration of Ho Ping-Yü and Lu Gwei-Djen. Cambridge: Cambridge University Press.
 * Nickerson, Peter, 2008, “Taoism and Popular Religion”, in Pregadio 2008: vol. 1, 145–50.
-* Penny, Benjamin, 1996, “The Text and Authorship of _Shenxian zhuan_”, _Journal of Oriental Studies_, 34: 165–209.
+* Penny, Benjamin, 1996, “The Text and Authorship of *Shenxian zhuan*”, *Journal of Oriental Studies*, 34: 165–209.
 * –––, 2000, “Immortality and Transcendence”, in Kohn 2000: 109–33.
-* ––– (ed.), 2005, _Daoism in History: Essays in Honour of Liu Ts’un-yan_, London: Routledge.
-* Pregadio, Fabrizio, 2004, “The Notion of ‘Form’ and the Ways of Liberation in Daoism”, _Cahiers d’Extrême-Asie_, 14: 95–130.
+* ––– (ed.), 2005, *Daoism in History: Essays in Honour of Liu Ts’un-yan*, London: Routledge.
+* Pregadio, Fabrizio, 2004, “The Notion of ‘Form’ and the Ways of Liberation in Daoism”, *Cahiers d’Extrême-Asie*, 14: 95–130.
 * –––, 2005, “Early Daoist Meditation and the Origins of Inner Alchemy”, in Penny 2005: 121–58.
-* –––, 2006, _Great Clarity: Daoism and Alchemy in Early Medieval China_, Stanford, CA: Stanford University Press.
-* ––– (ed.), 2008, _The Routledge Encyclopedia of Taoism_, 2 volumes, London: Routledge.
-* –––, 2011, _The Seal of the Unity of the Three: A Study and Translation of the_ Cantong qi\*, the Source of the Taoist Way of the Golden Elixir\*, Mountain View: Golden Elixir Press.
-* –––, 2014, “Destiny, Vital Force, or Existence? On the Meanings of _Ming_ in Daoist Internal Alchemy and Its Relation to _Xing_ or Human Nature”, _Daoism: Religion, History and Society_, 6: 157–218.
-* Puett, Michael, 2002, _To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China_, Cambridge, MA: Harvard-Yenching Institute.
-* Queen, Sarah A., 1996, _From Chronicle to Canon: The Hermeneutics of the Spring and Autumn Annals according to Tung Chung-shu_, Cambridge: Cambridge University Press.
-* Raz, Gil, 2012, _The Emergence of Daoism: Creation of Tradition_, London: Routledge.
-* –––, 2013, “Imbibing the Universe: Methods of Ingesting the Five Sprouts”, _Asian Medicine: Tradition and Modernity_, 7: 65–100.
-* Robinet, Isabelle, 1979, “Metamorphosis and Deliverance from the Corpse in Taoism”, _History of Religions_, 19: 37–70.
-* –––, 1983, “Chuang Tzu et le taoïsme ‘religieux’”, _Journal of Chinese Religions_, 11: 59–105.
-* –––, 1984, _La révélation du Shangqing dans l’histoire du taoïsme_, 2 vols. Paris: École Française d’Extrême-Orient.
-* –––, 1993, _Taoist Meditation: The Mao-shan Tradition of Great Purity_, Albany: State University of New York Press. Originally published as _Méditation taoïste_, Paris: Dervy Livres, 1979.
-* –––, 1995, _Introduction à l’alchimie intérieure taoïste: De l’unité et de la multiplicité. Avec une traduction commentée des Versets de l’éveil à la Vérité_, Paris: Les Éditions du Cerf.
-* –––, 1997a, “Genèses: Au début, il n’y a pas d’avant”, in Jacques Gernet and Marc Kalinowski (eds), _En suivant la Voie Royale: Mélanges en hommage à Léon Vandermeersch_, Paris: École Française d’Extrême-Orient, 121–40.
-* –––, 1997b, _Taoism: Growth of a Religion_, Stanford: Stanford University Press. Originally published as _Histoire du Taoïsme des origines au XIVe siècle_, Paris: Les Éditions du Cerf, 1991.
-* –––, 1999, “The Diverse Interpretations of the _Laozi_”, in Mark Csikszentmihalyi and Philip J. Ivanhoe (eds), _Religious and Philosophical Aspects of the Laozi_, Albany: State University of New York Press, 127–59.
+* –––, 2006, *Great Clarity: Daoism and Alchemy in Early Medieval China*, Stanford, CA: Stanford University Press.
+* ––– (ed.), 2008, *The Routledge Encyclopedia of Taoism*, 2 volumes, London: Routledge.
+* –––, 2011, *The Seal of the Unity of the Three: A Study and Translation of the* Cantong qi\*, the Source of the Taoist Way of the Golden Elixir\*, Mountain View: Golden Elixir Press.
+* –––, 2014, “Destiny, Vital Force, or Existence? On the Meanings of *Ming* in Daoist Internal Alchemy and Its Relation to *Xing* or Human Nature”, *Daoism: Religion, History and Society*, 6: 157–218.
+* Puett, Michael, 2002, *To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China*, Cambridge, MA: Harvard-Yenching Institute.
+* Queen, Sarah A., 1996, *From Chronicle to Canon: The Hermeneutics of the Spring and Autumn Annals according to Tung Chung-shu*, Cambridge: Cambridge University Press.
+* Raz, Gil, 2012, *The Emergence of Daoism: Creation of Tradition*, London: Routledge.
+* –––, 2013, “Imbibing the Universe: Methods of Ingesting the Five Sprouts”, *Asian Medicine: Tradition and Modernity*, 7: 65–100.
+* Robinet, Isabelle, 1979, “Metamorphosis and Deliverance from the Corpse in Taoism”, *History of Religions*, 19: 37–70.
+* –––, 1983, “Chuang Tzu et le taoïsme ‘religieux’”, *Journal of Chinese Religions*, 11: 59–105.
+* –––, 1984, *La révélation du Shangqing dans l’histoire du taoïsme*, 2 vols. Paris: École Française d’Extrême-Orient.
+* –––, 1993, *Taoist Meditation: The Mao-shan Tradition of Great Purity*, Albany: State University of New York Press. Originally published as *Méditation taoïste*, Paris: Dervy Livres, 1979.
+* –––, 1995, *Introduction à l’alchimie intérieure taoïste: De l’unité et de la multiplicité. Avec une traduction commentée des Versets de l’éveil à la Vérité*, Paris: Les Éditions du Cerf.
+* –––, 1997a, “Genèses: Au début, il n’y a pas d’avant”, in Jacques Gernet and Marc Kalinowski (eds), *En suivant la Voie Royale: Mélanges en hommage à Léon Vandermeersch*, Paris: École Française d’Extrême-Orient, 121–40.
+* –––, 1997b, *Taoism: Growth of a Religion*, Stanford: Stanford University Press. Originally published as *Histoire du Taoïsme des origines au XIVe siècle*, Paris: Les Éditions du Cerf, 1991.
+* –––, 1999, “The Diverse Interpretations of the *Laozi*”, in Mark Csikszentmihalyi and Philip J. Ivanhoe (eds), *Religious and Philosophical Aspects of the Laozi*, Albany: State University of New York Press, 127–59.
 * –––, 2000, “Shangqing: Highest Clarity”, in Kohn 2000: 196–224.
-* –––, 2002, “Genesis and Pre-Cosmic Eras in Daoism”, in Lee Cheuk Yin and Chan Man Sing (eds), _Daoyuan binfen lu_—_A Daoist Florilegium: A Festschrift Dedicated to Professor Liu Ts’un-yan on His Eighty-Fifth Birthday_, Hong Kong: Shangwu yinshuguan, 144–84.
+* –––, 2002, “Genesis and Pre-Cosmic Eras in Daoism”, in Lee Cheuk Yin and Chan Man Sing (eds), *Daoyuan binfen lu*—*A Daoist Florilegium: A Festschrift Dedicated to Professor Liu Ts’un-yan on His Eighty-Fifth Birthday*, Hong Kong: Shangwu yinshuguan, 144–84.
 * –––, 2004, “De quelques effects du bouddhisme sur la problématique taoïste: Aspects de la confrontation du taoïsme au bouddhisme”, in Lagerwey 2004: vol. 1, 411–516.
-* Roth, Harold D, 1997, “Evidence for Stages of Meditation in Early Taoism”, _Bulletin of the School of Oriental and African Studies_, 60: 295–314.
-* –––, 1999, _Original Tao: Inward Training (Nei-Yeh) and the Foundations of Taoist Mysticism_, Columbia University Press.
-* –––, 2014, “Zhuangzi”, in Edward N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Winter 2014 Edition), URL = [https://plato.stanford.edu/archives/win2014/entries/zhuangzi/](https://plato.stanford.edu/archives/win2014/entries/zhuangzi/).
-* Roth, Harold and Sarah Queen, 2000, “A Syncretist Perspective on the Six Schools”, in William T. DeBary (ed.), _Sources of Chinese Tradition_, second edition, New York: Columbia University Press, 1: 278–82.
-* Schipper, Kristofer, 1974, “The Written Memorial in Taoist Ceremonies”, in Arthur P. Wolf (ed.), _Religion and Ritual in Chinese Society_, Stanford, CA: Stanford University Press, 309–24.
-* –––, 1993, _The Taoist Body_, Berkeley: University of California Press. Originally published as _Le corps taoïste: Corps physique, corps social_, Paris: Librairie Arthème Fayard, 1979.
-* –––, 1995, “The Inner World of the _Laozi zhongjing_”, in Huang Chun-chieh and Erik Zürcher (eds), _Time and Space in Chinese Culture_, 114–31.
+* Roth, Harold D, 1997, “Evidence for Stages of Meditation in Early Taoism”, *Bulletin of the School of Oriental and African Studies*, 60: 295–314.
+* –––, 1999, *Original Tao: Inward Training (Nei-Yeh) and the Foundations of Taoist Mysticism*, Columbia University Press.
+* –––, 2014, “Zhuangzi”, in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), URL = [https://plato.stanford.edu/archives/win2014/entries/zhuangzi/](https://plato.stanford.edu/archives/win2014/entries/zhuangzi/).
+* Roth, Harold and Sarah Queen, 2000, “A Syncretist Perspective on the Six Schools”, in William T. DeBary (ed.), *Sources of Chinese Tradition*, second edition, New York: Columbia University Press, 1: 278–82.
+* Schipper, Kristofer, 1974, “The Written Memorial in Taoist Ceremonies”, in Arthur P. Wolf (ed.), *Religion and Ritual in Chinese Society*, Stanford, CA: Stanford University Press, 309–24.
+* –––, 1993, *The Taoist Body*, Berkeley: University of California Press. Originally published as *Le corps taoïste: Corps physique, corps social*, Paris: Librairie Arthème Fayard, 1979.
+* –––, 1995, “The Inner World of the *Laozi zhongjing*”, in Huang Chun-chieh and Erik Zürcher (eds), *Time and Space in Chinese Culture*, 114–31.
 * –––, 2000, “The Story of the Way”, in Little 2000: 33–55.
-* –––, 2001, “Daoist Ecology: The Inner Transformation. A Study of the Precepts of the Early Daoist Ecclesia”, in Norman Girardot, James Miller, and Xiaogan Liu (eds), _Daoism and Ecology: Ways within a Cosmic Landscape_, Cambridge, MA: Harvard University Press, 79–93.
-* –––, 2008, “Le pact de pureté du taoïsme”, in _La religion de la Chine: La tradition vivante_, 127–60. Paris: Librairie Anthème Fayard.
-* Schipper, Kristofer and Franciscus Verellen (eds), 2004, _The Taoist Canon: A Historical Companion to the Daozang_, Chicago: Chicago University Press.
-* Schwartz, Benjamin, 1985, _The World of Thought in Ancient China_, Cambridge, MA: Harvard University Press.
-* Seidel, Anna. 1969–70. “The Image of the Perfect Ruler in Early Taoist Messianism: Lao-tzu and Li Hung”, _History of Religions_, 9: 216–47.
-* –––, 1969, _La divinisation de Lao tseu dans le Taoïsme des Han_, Paris: École Française d’Extrême-Orient.
+* –––, 2001, “Daoist Ecology: The Inner Transformation. A Study of the Precepts of the Early Daoist Ecclesia”, in Norman Girardot, James Miller, and Xiaogan Liu (eds), *Daoism and Ecology: Ways within a Cosmic Landscape*, Cambridge, MA: Harvard University Press, 79–93.
+* –––, 2008, “Le pact de pureté du taoïsme”, in *La religion de la Chine: La tradition vivante*, 127–60. Paris: Librairie Anthème Fayard.
+* Schipper, Kristofer and Franciscus Verellen (eds), 2004, *The Taoist Canon: A Historical Companion to the Daozang*, Chicago: Chicago University Press.
+* Schwartz, Benjamin, 1985, *The World of Thought in Ancient China*, Cambridge, MA: Harvard University Press.
+* Seidel, Anna. 1969–70. “The Image of the Perfect Ruler in Early Taoist Messianism: Lao-tzu and Li Hung”, *History of Religions*, 9: 216–47.
+* –––, 1969, *La divinisation de Lao tseu dans le Taoïsme des Han*, Paris: École Française d’Extrême-Orient.
 * –––, 1983a, “Imperial Treasures and Taoist Sacraments: Taoist Roots in the Apocrypha”, in Strickmann 1983: 2: 291–371.
-* –––, 1983b, “Taoist Messianism”, _Numen_, 31: 161–74.
-* –––, 1987, “Post-mortem Immortality, or: The Taoist Resurrection of the Body”, in S. Shaked, D. Shulman, and G. G. Stroumsa (eds), _Gilgul: Essays on Transformation, Revolution and Permanence in the History of Religions_, 223–37.
-* –––, 1997, “Taoism: The Unofficial High Religion of China”, _Taoist Resources_, 7(2): 39–72.
-* Sivin, Nathan, 1968, _Chinese Alchemy: Preliminary Studies_, Cambridge, MA: Harvard University Press.
-* –––, 1976, “Chinese Alchemy and the Manipulation of Time”, _Isis_, 67: 513–27.
-* –––, 1980, “The Theoretical Background of Elixir Alchemy”, in Joseph Needham, _Science and Civilisation in China_, vol. V: _Chemistry and Chemical Technology_, part 4: _Spagyrical Discovery and Invention: Apparatus, Theories and Gifts_, Cambridge: Cambridge University Press, 210–305.
-* –––, 1995, “State, Cosmos, and Body in the Last Three Centuries B.C”, _Harvard Journal of Asiatic Studies_, 55: 5–37.
+* –––, 1983b, “Taoist Messianism”, *Numen*, 31: 161–74.
+* –––, 1987, “Post-mortem Immortality, or: The Taoist Resurrection of the Body”, in S. Shaked, D. Shulman, and G. G. Stroumsa (eds), *Gilgul: Essays on Transformation, Revolution and Permanence in the History of Religions*, 223–37.
+* –––, 1997, “Taoism: The Unofficial High Religion of China”, *Taoist Resources*, 7(2): 39–72.
+* Sivin, Nathan, 1968, *Chinese Alchemy: Preliminary Studies*, Cambridge, MA: Harvard University Press.
+* –––, 1976, “Chinese Alchemy and the Manipulation of Time”, *Isis*, 67: 513–27.
+* –––, 1980, “The Theoretical Background of Elixir Alchemy”, in Joseph Needham, *Science and Civilisation in China*, vol. V: *Chemistry and Chemical Technology*, part 4: *Spagyrical Discovery and Invention: Apparatus, Theories and Gifts*, Cambridge: Cambridge University Press, 210–305.
+* –––, 1995, “State, Cosmos, and Body in the Last Three Centuries B.C”, *Harvard Journal of Asiatic Studies*, 55: 5–37.
 * Skar, Lowell, 2000, “Ritual Movements, Deity Cults, and the Transformation of Daoism in Song and Yuan Times”, in Kohn 2000: 413–63.
 * Steavu, Dominic, 2015, “Cosmos, Body, and Meditation in Early Medieval Taoism”, in Andreeva and Steavu 2016: 111–46.
-* –––, 2019, _The Writ of the Three Sovereigns: From Local Lore to Institutional Daoism_, Hong Kong: The Chinese University Press, and Honolulu: University of Hawai’i Press.
+* –––, 2019, *The Writ of the Three Sovereigns: From Local Lore to Institutional Daoism*, Hong Kong: The Chinese University Press, and Honolulu: University of Hawai’i Press.
 * Stein, Rolf A., 1979, “Religious Taoism and Popular Religion from the Second to Seventh Centuries”, in Welch and Seidel 1979: 53–81.
-* Strickmann, Michel, 1977, “The Mao shan Revelations: Taoism and the Aristocracy”, _T’oung Pao_, 63: 1–64.
+* Strickmann, Michel, 1977, “The Mao shan Revelations: Taoism and the Aristocracy”, *T’oung Pao*, 63: 1–64.
 * –––, 1979, “On the Alchemy of T’ao Hung-ching”, in Welch and Seidel 1979: 123–92.
-* Strickmann, Michel (ed.), 1983, _Tantric and Taoist Studies in Honour of Rolf A. Stein_, Bruxelles: Institut Belge des Hautes Études Chinoises.
-* Unschuld, Paul U. and Hermann Tessenow, 2011, _Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic—Basic Questions_, Berkeley and Los Angeles: University of California Press.
-* Verellen, Franciscus, 1989, _Du Guangting (850–933): Taoïste de cour à la fin de la Chine médiévale_, Paris: Collège de France, Institut des Hautes Études Chinoises.
-* Wang Mu, 2011, _Foundations of Internal Alchemy: The Taoist Practice of Neidan_, Translated by Fabrizio Pregadio, Mountain View, CA: Golden Elixir Press.
-* Ware, James, 1966, _Alchemy, Medicine and Religion in the China of A.D. 320: The Nei P’ien of Ko Hung (Pao-p’u tzu)_, Cambridge, MA: MIT Press.
-* Watson, Burton, 1968, _The Complete Works of Chuang-tzu_, New York: Columbia University Press.
-* Welch, Holmes and Anna Seidel (eds), 1979, _Facets of Taoism: Essays in Chinese Religion_, New Haven and London: Yale University Press.
+* Strickmann, Michel (ed.), 1983, *Tantric and Taoist Studies in Honour of Rolf A. Stein*, Bruxelles: Institut Belge des Hautes Études Chinoises.
+* Unschuld, Paul U. and Hermann Tessenow, 2011, *Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic—Basic Questions*, Berkeley and Los Angeles: University of California Press.
+* Verellen, Franciscus, 1989, *Du Guangting (850–933): Taoïste de cour à la fin de la Chine médiévale*, Paris: Collège de France, Institut des Hautes Études Chinoises.
+* Wang Mu, 2011, *Foundations of Internal Alchemy: The Taoist Practice of Neidan*, Translated by Fabrizio Pregadio, Mountain View, CA: Golden Elixir Press.
+* Ware, James, 1966, *Alchemy, Medicine and Religion in the China of A.D. 320: The Nei P’ien of Ko Hung (Pao-p’u tzu)*, Cambridge, MA: MIT Press.
+* Watson, Burton, 1968, *The Complete Works of Chuang-tzu*, New York: Columbia University Press.
+* Welch, Holmes and Anna Seidel (eds), 1979, *Facets of Taoism: Essays in Chinese Religion*, New Haven and London: Yale University Press.
 * Yamada Toshiaki, 2000, “The Lingbao School”, in Kohn 2000: 225–55.
 * Yao, Tad \[Yao Tao-chung], 2000, “Quanzhen: Complete Perfection”, in Kohn 2000: 265–93.
-* Yates, Robin D.S., 1997, _Five Lost Classics: Tao, Huanglao, and Yin-Yang in Han China_, New York: Ballantine Books.
-* Yokote Yutaka, 2015, “Daoist Internal Alchemy in the Song and Yuan Periods”, in John Lagerwey and Pierre Marsone (eds.), _Modern Chinese Religion_, part 1: _Song-Liao-Jin-Yuan_, Leiden: E.J. Brill, 2: 1055–1110.
-* Zürcher, Erik, 1980, “Buddhist Influence on Early Taoism: A Survey of Scriptural Evidence”, _T’oung Pao_, 66: 84–147.
+* Yates, Robin D.S., 1997, *Five Lost Classics: Tao, Huanglao, and Yin-Yang in Han China*, New York: Ballantine Books.
+* Yokote Yutaka, 2015, “Daoist Internal Alchemy in the Song and Yuan Periods”, in John Lagerwey and Pierre Marsone (eds.), *Modern Chinese Religion*, part 1: *Song-Liao-Jin-Yuan*, Leiden: E.J. Brill, 2: 1055–1110.
+* Zürcher, Erik, 1980, “Buddhist Influence on Early Taoism: A Survey of Scriptural Evidence”, *T’oung Pao*, 66: 84–147.
 
 ## Academic Tools
 
@@ -578,4 +578,4 @@ _首次发表于 2016 年 8 月 19 日星期五；实质修订于 2020 年 8 月
 The author is grateful to Philipp Hünnebeck, Kelsey Seymour, Song Xiaokun, and Dominic Steavu for their suggestions and corrections. Resposibility for any errors lies entirely with the author.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Fabrizio Pregadio](http://www.goldenelixir.com/) <[_fabrizio.pregadio@fau.de_](mailto:fabrizio%2epregadio%40fau%2ede)>
+[Fabrizio Pregadio](http://www.goldenelixir.com/) <[*fabrizio.pregadio@fau.de*](mailto:fabrizio%2epregadio%40fau%2ede)>

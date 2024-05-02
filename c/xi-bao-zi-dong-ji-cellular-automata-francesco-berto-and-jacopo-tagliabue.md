@@ -1,6 +1,6 @@
 # 细胞自动机 cellular automata (Francesco Berto and Jacopo Tagliabue)
 
-_首次发表于 2012 年 3 月 26 日星期一；实质性修订于 2023 年 12 月 15 日星期五_
+*首次发表于 2012 年 3 月 26 日星期一；实质性修订于 2023 年 12 月 15 日星期五*
 
 细胞自动机（以下简称 CA）是一种离散的、抽象的计算系统，已被证明在复杂性的一般模型以及在各种科学领域中非线性动力学的更具体表示方面非常有用。首先，CA 通常是在空间和时间上离散的：它们由有限或可数的一组同质、简单单元组成，即“原子”或“细胞”。在每个时间单位，细胞实例化有限状态集中的一个状态。它们在离散的时间步骤中并行演化，遵循状态更新函数或动力学转换规则：细胞状态的更新是通过考虑其局部邻域中细胞的状态来获得的（因此，没有远距离作用）。其次，CA 是“抽象的”：它们可以用纯数学术语来指定，物理结构可以实现它们。第三，CA 是“计算”系统：它们可以计算函数并解决算法问题。尽管其功能方式与传统的图灵机类似的设备不同，但具有适当规则的 CA 可以模拟通用的[图灵机（见条目）](https://plato.stanford.edu/entries/turing-machine/)，因此根据图灵的论点（见[Church-Turing 论题条目](https://plato.stanford.edu/entries/church-turing/)），可以计算出任何可计算的东西。
 
@@ -11,7 +11,6 @@ CA 的标志在于它们展示复杂的新兴行为，从遵循简单局部规�
 在第 2 节中，解释了 CA 的一般理论，以及该领域中的一些计算和复杂性理论结果。第 2.1 节提供了 CA 的四重概要定义。第 2.2 节至 2.3 节解释了由斯蒂芬·沃尔夫勒姆提出的一维 CA 的分类。第 2.4 节介绍了混沌边界假设，这是复杂性理论中一个与 CA 相关的关键猜想。第 2.5 节至 2.7 节将一维 CA 的分类推广到占据多个空间维度的自动机，并/或放宽了第 2.1 节定义中的一些参数。我们重点关注生命游戏——可能是最受欢迎的 CA 及其计算能力。
 
 第三部分描述了 CA 在哲学研究中的四个主要用途。首先，由于 CA 展示了从简单局部规则中产生的复杂行为模式，它们自然与\* emergent _联系在一起：这个主题在第 3.1 节中进行了讨论，其中考虑了不同的 emergent 概念。其次，第 3.2 节探讨了哲学家和科学家如何利用 CA 来解决_自由意志_和_决定论\*的传统哲学问题。第三，第 3.3 节描述了 CA 理论对计算哲学的影响。最后，第 3.4 节涉及从 CA 被视为现实部分建模的意义，到一些科学家大胆的哲学猜测，声称物理世界本身可能在底层是一个离散的数字自动机的本体论问题。
-
 
 ***
 
@@ -27,11 +26,11 @@ CA 的标志在于它们展示复杂的新兴行为，从遵循简单局部规�
 
 虽然 CA 是抽象的，但在开始阶段，有一个具体的实例可以帮助。因此，将[图 1](https://plato.stanford.edu/entries/cellular-automata/#fig1)看作代表高中教室的前排。每个方框代表一个戴（黑色）或不戴（白色）帽子的学生。让我们做出以下两个假设：
 
-> _帽子规则_：如果一个学生左右两边紧邻的同学中的一个戴帽子而另一个不戴（但不能同时都戴或都不戴），那么这个学生下节课会戴帽子（如果没有人戴帽子，那帽子就过时了；但如果两个邻居都戴了，那帽子就太流行而不再时尚）。
+> *帽子规则*：如果一个学生左右两边紧邻的同学中的一个戴帽子而另一个不戴（但不能同时都戴或都不戴），那么这个学生下节课会戴帽子（如果没有人戴帽子，那帽子就过时了；但如果两个邻居都戴了，那帽子就太流行而不再时尚）。
 
 %%
 
-> _初始类_：早上的第一节课中，只有一个学生戴着帽子出现在中间（见[图 2](https://plato.stanford.edu/entries/cellular-automata/#fig2)）。
+> *初始类*：早上的第一节课中，只有一个学生戴着帽子出现在中间（见[图 2](https://plato.stanford.edu/entries/cellular-automata/#fig2)）。
 
 ![图 2](https://plato.stanford.edu/entries/cellular-automata/fig2.jpg)
 
@@ -49,9 +48,9 @@ CA 的标志在于它们展示复杂的新兴行为，从遵循简单局部规�
 
 > 即使对个体决策规则有着完美的了解，我们也并不总是能够预测宏观结构。尽管拥有完整的微观知识，我们仍然会遇到宏观上的惊喜。(Epstein 1999: 48)
 
-由于_ emergent _的概念和微观-宏观相互作用在科学和哲学中扮演着如此重要的角色（参见[supervenience](https://plato.stanford.edu/entries/supervenience/)和[emergent properties](https://plato.stanford.edu/entries/properties-emergent/)上的条目；有关科学应用的示例，请参见 Mitchell 2009: 2–13；Gell-Mann 1994: Ch. 9），有人建议通过采用 CA 视角来解决许多科学和概念难题。斯蒂芬·沃尔夫勒姆（Stephen Wolfram）甚至声称 CA 可能帮助我们解决哲学中长期存在的问题：
+由于_emergent_的概念和微观-宏观相互作用在科学和哲学中扮演着如此重要的角色（参见[supervenience](https://plato.stanford.edu/entries/supervenience/)和[emergent properties](https://plato.stanford.edu/entries/properties-emergent/)上的条目；有关科学应用的示例，请参见 Mitchell 2009: 2–13；Gell-Mann 1994: Ch. 9），有人建议通过采用 CA 视角来解决许多科学和概念难题。斯蒂芬·沃尔夫勒姆（Stephen Wolfram）甚至声称 CA 可能帮助我们解决哲学中长期存在的问题：
 
-> 其中\[哲学家探讨的基本问题]包括关于知识的最终限度、自由意志、人类独特性以及数学的必然性的问题。关于这些问题，哲学史上已经有很多讨论。然而，这些讨论不可避免地只受到当前关于事物运作方式的直觉的影响。但我在这本书\[_A New Kind of Science_]中的发现导致了根本性的新直觉。（Wolfram 2002: 10）
+> 其中\[哲学家探讨的基本问题]包括关于知识的最终限度、自由意志、人类独特性以及数学的必然性的问题。关于这些问题，哲学史上已经有很多讨论。然而，这些讨论不可避免地只受到当前关于事物运作方式的直觉的影响。但我在这本书\[*A New Kind of Science*]中的发现导致了根本性的新直觉。（Wolfram 2002: 10）
 
 这些说法非常大胆。为了评估它们，让我们更仔细地看看这个领域。
 
@@ -97,23 +96,23 @@ Stephen Wolfram 在 20 世纪 80 年代的作品有助于将不断增长的 CA �
 
 我们现在着眼于细胞自动机（CA），关注哲学兴趣的模型和结果。尽管细胞自动机文献中可以找到各种各样的系统，但通过调整定义其结构的四个参数，几乎可以生成所有细胞自动机。
 
-1. **细胞的离散 n 维格点**：我们可以有一维、二维、...、_n_维的 CA。 格点的原子组件可以是不同形状的：例如，一个二维格点可以由三角形、正方形或六边形组成。通常假定_同质性_：所有细胞在质量上是相同的。
+1. **细胞的离散 n 维格点**：我们可以有一维、二维、...、*n_维的 CA。 格点的原子组件可以是不同形状的：例如，一个二维格点可以由三角形、正方形或六边形组成。通常假定_同质性*：所有细胞在质量上是相同的。
 2. **离散状态**：在每个离散时间步长，每个细胞只处于一个状态，σ∈Σ，Σ是一个有限基数的集合|Σ|=k。
-3. _局部相互作用_: 每个细胞的行为仅取决于其局部_邻域_中发生的事情（可能包括细胞本身）。具有相同基本拓扑结构的点阵可能具有不同的邻域定义，我们将在下文中看到。然而，至关重要的是要注意，“远距离作用”是不允许的。
-4. _离散动力学_: 在每个时间步长，每个细胞根据确定性转换函数ϕ:Σn→Σ更新其当前状态，将邻域配置（Σ的状态_n_-元组）映射到Σ。通常假定（但不一定）的是，（i）更新是_同步_的，（ii）ϕ在时间步_t_时将上一时间步_t-1_的邻域状态作为输入。
+3. *局部相互作用*: 每个细胞的行为仅取决于其局部_邻域_中发生的事情（可能包括细胞本身）。具有相同基本拓扑结构的点阵可能具有不同的邻域定义，我们将在下文中看到。然而，至关重要的是要注意，“远距离作用”是不允许的。
+4. *离散动力学*: 在每个时间步长，每个细胞根据确定性转换函数ϕ:Σn→Σ更新其当前状态，将邻域配置（Σ的状态_n_-元组）映射到Σ。通常假定（但不一定）的是，（i）更新是_同步_的，（ii）ϕ在时间步_t_时将上一时间步_t-1_的邻域状态作为输入。
 
 一个人可以详尽地描述，例如，我们课堂示例的自动机：
 
 1. 一维正方形格点阵列。
 2. Σ=1,0（1 = 黑色或戴帽子，0 = 白色或脱帽子），所以 |Σ|=2。
 3. 每个细胞的邻域由两个最近的细胞组成。如果我们用整数对细胞进行索引，使得 ci 是细胞编号 i，则 ci 的邻域是 N(ci)=⟨ci−1,ci+1⟩。
-4. 过渡规则 ϕ 很简单：在每个时间步骤 _t_，如果相邻细胞中恰好有一个在 t−1 时为 1，则细胞状态为 1，否则为 0。
+4. 过渡规则 ϕ 很简单：在每个时间步骤 *t*，如果相邻细胞中恰好有一个在 t−1 时为 1，则细胞状态为 1，否则为 0。
 
-CA 的规则可以表达为条件指令：“如果邻域是这样的，那么转变为状态 _s_”。可以写出一维 CA 规则的一般形式：
+CA 的规则可以表达为条件指令：“如果邻域是这样的，那么转变为状态 *s*”。可以写出一维 CA 规则的一般形式：
 
 (Rule1D)σi(t+1)=ϕ(σi−r(t),σi−r+1(t),…,σi+r−1(t),σi+r(t))
 
-其中 σi(t)∈Σ={0,1,…,k−1} 表示时间步骤 _t_ 时细胞编号 _i_ 的状态； _r_ 指定了 _range_，即给定细胞的邻居有多少个细胞； ϕ 通过为表示所有可能邻域配置的 k2r+1(2r+1)-tuples 分配 Σ 中的值来明确定义。例如，当 r=1,Σ={1,0} 时，一个可能的转换规则 ϕ 可以表示为 [图 4](https://plato.stanford.edu/entries/cellular-automata/#fig4) (其中 1 表示为 _黑色_，0 表示为 _白色_)：
+其中 σi(t)∈Σ={0,1,…,k−1} 表示时间步骤 *t* 时细胞编号 *i* 的状态； *r* 指定了 *range*，即给定细胞的邻居有多少个细胞； ϕ 通过为表示所有可能邻域配置的 k2r+1(2r+1)-tuples 分配 Σ 中的值来明确定义。例如，当 r=1,Σ={1,0} 时，一个可能的转换规则 ϕ 可以表示为 [图 4](https://plato.stanford.edu/entries/cellular-automata/#fig4) (其中 1 表示为 *黑色*，0 表示为 *白色*)：
 
 ![图 4](https://plato.stanford.edu/entries/cellular-automata/fig4.jpg)
 
@@ -123,53 +122,53 @@ CA 的规则可以表达为条件指令：“如果邻域是这样的，那么�
 
 ### 2.2 Wolfram 分类方案
 
-这种简单的表示方法也是广泛采用的 Wolfram 代码（Wolfram 1983）的核心，为每个规则分配一个数字：用 _黑色_ = 1 和 _白色_ = 0，底行可以被看作一个二进制数（01011010）；转换为十进制数就得到了规则的名称（在本例中为 _规则 90_）。由于具有 r=1 和 k=2 的 CA 的规则只在图表的底行有所不同，这种编码方案有效地识别了该类中的每个可能规则。具有 r=1 和 k=2 的一维 CA 是可以定义的最简单的 CA 之一，但它们的行为有时非常有趣。当 Stephen Wolfram 在八十年代开始探索这一领域时，这个类别似乎是一个完美的选择。对于 r=1，有 8 个可能的邻居（见[图 4](https://plato.stanford.edu/entries/cellular-automata/#fig4)）可以映射为 1,0，总共有 2^8=256 个规则。从随机初始条件开始，Wolfram 继续观察了许多模拟中每个规则的行为。结果，他能够将每个规则的定性行为分类为四个不同的类别之一。重复原始实验，我们模拟了 Wolfram 方案中每个类别的两个规则的演变。
+这种简单的表示方法也是广泛采用的 Wolfram 代码（Wolfram 1983）的核心，为每个规则分配一个数字：用 *黑色* = 1 和 *白色* = 0，底行可以被看作一个二进制数（01011010）；转换为十进制数就得到了规则的名称（在本例中为 *规则 90*）。由于具有 r=1 和 k=2 的 CA 的规则只在图表的底行有所不同，这种编码方案有效地识别了该类中的每个可能规则。具有 r=1 和 k=2 的一维 CA 是可以定义的最简单的 CA 之一，但它们的行为有时非常有趣。当 Stephen Wolfram 在八十年代开始探索这一领域时，这个类别似乎是一个完美的选择。对于 r=1，有 8 个可能的邻居（见[图 4](https://plato.stanford.edu/entries/cellular-automata/#fig4)）可以映射为 1,0，总共有 2^8=256 个规则。从随机初始条件开始，Wolfram 继续观察了许多模拟中每个规则的行为。结果，他能够将每个规则的定性行为分类为四个不同的类别之一。重复原始实验，我们模拟了 Wolfram 方案中每个类别的两个规则的演变。
 
 ### 2.3 256 条规则的类别
 
 Class1 规则导致同质状态，所有细胞最终稳定地达到相同的值：
 
-_规则 250_
+*规则 250*
 
 ![规则 250](https://plato.stanford.edu/entries/cellular-automata/rule250.jpg)
 
-_规则 254_
+*规则 254*
 
 ![Rule 254](https://plato.stanford.edu/entries/cellular-automata/rule254.jpg)
 
 Class2 导致稳定结构或简单周期图案的规则：
 
-_规则 4_
+*规则 4*
 
 ![规则 4](https://plato.stanford.edu/entries/cellular-automata/rule4.jpg)
 
-_规则 108_
+*规则 108*
 
 ![规则 108](https://plato.stanford.edu/entries/cellular-automata/rule108.jpg)
 
 导致看似混乱、非周期性行为的 Class3 规则：
 
-_Rule 30_
+*Rule 30*
 
 ![Rule 30](https://plato.stanford.edu/entries/cellular-automata/rule30.jpg)
 
-_Rule 90_ 细胞生物学哲学
+*Rule 90* 细胞生物学哲学
 
 ![Rule 90](https://plato.stanford.edu/entries/cellular-automata/rule90.jpg)
 
 Class4 规则导致局部在点阵中传播的复杂图案和结构
 
-_规则 54_
+*规则 54*
 
 ![Rule 54](https://plato.stanford.edu/entries/cellular-automata/rule54.jpg)
 
-_规则 110_
+*规则 110*
 
 ![Rule 110](https://plato.stanford.edu/entries/cellular-automata/rule110.jpg)
 
 Class1 包括快速生成统一配置的规则。Class2 中的规则生成统一的最终模式，或者在初始配置不同的情况下循环于最终模式之间。Class3 成员产生的配置看起来几乎是随机的，尽管可能存在一些规律模式和结构。
 
-Class4 值得特别关注。如果我们观察由 _Rule 110_ 生成的宇宙，我们会看到规律的模式（虽然不像 _Rule 108_ 中那么规律），以及一些混沌行为（虽然不像 _Rule 90_ 中那么嘈杂）。现在，元胞自动机执行计算所需的基本特征是其转换规则具有产生“类似粒子的持续传播模式”的能力（Ilachinski 2001: 89），即，细胞组的局部、稳定但非周期性配置，有时在文献中称为 _solitons_，它们可以保持其形状。这些配置可以被视为信息包的 _编码_，通过时间 _保留_ 它们，并将它们 _移动_ 到另一个地方：信息可以在时间和空间中传播而不会经历重要的衰减。Class4 规则行为中的不可预测性程度也暗示了计算上有趣的特征：根据停机定理（请参阅 [图灵机](https://plato.stanford.edu/entries/turing-machine/#5.2) 条目中的部分），普遍计算的一个关键特征是，原则上无法预测给定输入时某个计算是否会停止。这些见解导致 Wolfram 猜测 Class4 元胞自动机能够（是唯一能够）进行通用计算。直观地说，如果我们将 Class4 元胞自动机的初始配置解释为其输入数据，通用的 Class4 元胞自动机可以评估任何有效计算函数并模拟通用图灵机。正如我们上面提到的，_Rule 110_ 确实被证明是计算通用的。
+Class4 值得特别关注。如果我们观察由 *Rule 110* 生成的宇宙，我们会看到规律的模式（虽然不像 *Rule 108* 中那么规律），以及一些混沌行为（虽然不像 *Rule 90* 中那么嘈杂）。现在，元胞自动机执行计算所需的基本特征是其转换规则具有产生“类似粒子的持续传播模式”的能力（Ilachinski 2001: 89），即，细胞组的局部、稳定但非周期性配置，有时在文献中称为 *solitons*，它们可以保持其形状。这些配置可以被视为信息包的 *编码*，通过时间 *保留* 它们，并将它们 *移动* 到另一个地方：信息可以在时间和空间中传播而不会经历重要的衰减。Class4 规则行为中的不可预测性程度也暗示了计算上有趣的特征：根据停机定理（请参阅 [图灵机](https://plato.stanford.edu/entries/turing-machine/#5.2) 条目中的部分），普遍计算的一个关键特征是，原则上无法预测给定输入时某个计算是否会停止。这些见解导致 Wolfram 猜测 Class4 元胞自动机能够（是唯一能够）进行通用计算。直观地说，如果我们将 Class4 元胞自动机的初始配置解释为其输入数据，通用的 Class4 元胞自动机可以评估任何有效计算函数并模拟通用图灵机。正如我们上面提到的，*Rule 110* 确实被证明是计算通用的。
 
 (查看补充文件[256 条规则](https://plato.stanford.edu/entries/cellular-automata/supplement.html).)
 
@@ -185,47 +184,47 @@ CA 提供了不仅是直觉，而且是一个正式的框架来研究假设。�
 
 \| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-\| _000_ | 0 | _1_ | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+\| *000* | 0 | *1* | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-\| _001_ | 1 | 1 | _0_ | 1 | 1 | 1 | 1 | 1 | 1 |
+\| *001* | 1 | 1 | *0* | 1 | 1 | 1 | 1 | 1 | 1 |
 
-\| _010_ | 1 | 1 | 1 | _0_ | 1 | 1 | 1 | 1 | 1 |
+\| *010* | 1 | 1 | 1 | *0* | 1 | 1 | 1 | 1 | 1 |
 
-\| _011_ | 1 | 1 | 1 | 1 | _0_ | 1 | 1 | 1 | 1 |
+\| *011* | 1 | 1 | 1 | 1 | *0* | 1 | 1 | 1 | 1 |
 
-\| _100_ | 0 | 0 | 0 | 0 | 0 | _1_ | 0 | 0 | 0 |
+\| *100* | 0 | 0 | 0 | 0 | 0 | *1* | 0 | 0 | 0 |
 
-\| _101_ | 1 | 1 | 1 | 1 | 1 | 1 | _0_ | 1 | 1 |
+\| *101* | 1 | 1 | 1 | 1 | 1 | 1 | *0* | 1 | 1 |
 
-\| _110_ | 1 | 1 | 1 | 1 | 1 | 1 | 1 | _0_ | 1 |
+\| *110* | 1 | 1 | 1 | 1 | 1 | 1 | 1 | *0* | 1 |
 
-\| _111_ | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | _1_ |
+\| *111* | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | *1* |
 
 \| 类别 | 4 | 2 | 2 | 3 | 3 | 3 | 1 | 2 | 1 |
 
-在第一次近似中，混沌边缘假设得到了确认：八个邻居中有三个是 Class3，三个是 Class2，两个是 Class1：_Rule 110_ 是表中唯一的 Class4。为了将这些发现推广到一维 CA 的整个规则类别，Langton 引入了一个参数，λ，适用于每个ϕ：对于 k=2，r=1（二进制状态，一元范围）的 CA，可以计算λ(ϕ)作为过渡规则表条目中映射到非零输出的比例（有关一般定义，请参见 Langton 1990: 14）。在我们的情况下，这意味着：λ(ϕ)将等于规则列中的 1 的数量，例如，对于ϕ = _Rule 110_，λ(ϕ)=5/8，对于ϕ = _Rule 46_，λ(ϕ)=1/2。Langton 的主要发现是，诸如λ这样的简单度量与系统行为相关：随着λ从 0 变化到 1，系统的平均行为从冻结到周期模式再到混沌。Langton 确定 1/2 是λ的值，平均行为首次显示混沌证据的值：具有λ(ϕ)∼1/2 的规则ϕ被强调为处于边缘（请参见 Miller & Page 2001: 133）。
+在第一次近似中，混沌边缘假设得到了确认：八个邻居中有三个是 Class3，三个是 Class2，两个是 Class1：*Rule 110* 是表中唯一的 Class4。为了将这些发现推广到一维 CA 的整个规则类别，Langton 引入了一个参数，λ，适用于每个ϕ：对于 k=2，r=1（二进制状态，一元范围）的 CA，可以计算λ(ϕ)作为过渡规则表条目中映射到非零输出的比例（有关一般定义，请参见 Langton 1990: 14）。在我们的情况下，这意味着：λ(ϕ)将等于规则列中的 1 的数量，例如，对于ϕ = *Rule 110*，λ(ϕ)=5/8，对于ϕ = *Rule 46*，λ(ϕ)=1/2。Langton 的主要发现是，诸如λ这样的简单度量与系统行为相关：随着λ从 0 变化到 1，系统的平均行为从冻结到周期模式再到混沌。Langton 确定 1/2 是λ的值，平均行为首次显示混沌证据的值：具有λ(ϕ)∼1/2 的规则ϕ被强调为处于边缘（请参见 Miller & Page 2001: 133）。
 
 \| **λ** | **所有规则** | **混沌规则** | **复杂规则** |
 
 \| --- | --- | --- | --- |
 
-\| _0_ | 1 | 0 | 0 |
+\| *0* | 1 | 0 | 0 |
 
-\| _1/8_ | 8 | 0 | 0 |
+\| *1/8* | 8 | 0 | 0 |
 
-\| _1/4_ | 28 | 2 | 0 |
+\| *1/4* | 28 | 2 | 0 |
 
-\| _3/8_ | 56 | 4 | 1 |
+\| *3/8* | 56 | 4 | 1 |
 
-\| _1/2_ | 70 | 20 | 4 |
+\| *1/2* | 70 | 20 | 4 |
 
-\| _5/8_ | 56 | 4 | 1 |
+\| *5/8* | 56 | 4 | 1 |
 
-\| _3/4_ | 28 | 3 | 0 |
+\| *3/4* | 28 | 3 | 0 |
 
-\| _7/8_ | 8 | 0 | 0 |
+\| *7/8* | 8 | 0 | 0 |
 
-\| _1_ | 1 | 0 | 0 |
+\| *1* | 1 | 0 | 0 |
 
 混沌和复杂规则的平均λ值约为 1/2，似乎支持混沌边缘假说。尽管如此，有人对参数λ的解释作用以及由此得出的推论表示怀疑。特别是，混沌边缘的过渡区域似乎本身就很复杂。米勒和佩奇指出“不仅有一个边缘，而是有多个边缘”（米勒和佩奇 2007 年：133）。当我们分析单个规则时，甚至是典范规则时，总体结果并不成立：
 
@@ -254,18 +253,18 @@ Melanie Mitchell，Peter Hraber 和 James Crutchfield 复制了 Langton 和 Pack
 1. 在正交网格中的正方形细胞的二维格子。
 2. Σ={1,0}，所以 |Σ|=2（出于我们即将看到的原因，我们可以将 1 想象为给定细胞的存活状态，0 想象为死亡状态）。
 3. 每个细胞的邻域由其所有八个相邻细胞组成（Moore 邻域）。
-4. _生命_ 的转换规则如下。在每个时间步骤 _t_ 中，细胞可能发生以下三种情况中的一种：
-5. _出生_：如果在 t−1 时刻细胞状态为 0（死亡），则在 t−1 时刻恰好有三个邻居为 1（存活）时，细胞状态变为 1（存活）；
-6. _存活_：如果在 t−1 时刻细胞状态为 1（存活），则在 t−1 时刻有两个或三个邻居为 1（存活）时，细胞状态仍然为 1。
-7. _死亡_: 如果在时间 t−1 时细胞状态为 1（存活），则在 t−1 时有少于两个或多于三个邻居为 1（存活）时，细胞状态变为 0（死亡）（细胞可以因“孤独”或“过度繁殖”而死亡）。
+4. *生命* 的转换规则如下。在每个时间步骤 *t* 中，细胞可能发生以下三种情况中的一种：
+5. *出生*：如果在 t−1 时刻细胞状态为 0（死亡），则在 t−1 时刻恰好有三个邻居为 1（存活）时，细胞状态变为 1（存活）；
+6. *存活*：如果在 t−1 时刻细胞状态为 1（存活），则在 t−1 时刻有两个或三个邻居为 1（存活）时，细胞状态仍然为 1。
+7. *死亡*: 如果在时间 t−1 时细胞状态为 1（存活），则在 t−1 时有少于两个或多于三个邻居为 1（存活）时，细胞状态变为 0（死亡）（细胞可以因“孤独”或“过度繁殖”而死亡）。
 
-_生命_ 在沃尔夫勒姆的分类中肯定会被视为 Class4 CA。在这种简单的设置中，周期结构、稳定块和复杂的移动模式会出现，甚至从非常简单的初始配置开始。康威曾指出：
+*生命* 在沃尔夫勒姆的分类中肯定会被视为 Class4 CA。在这种简单的设置中，周期结构、稳定块和复杂的移动模式会出现，甚至从非常简单的初始配置开始。康威曾指出：
 
 在一个足够大的_生命_空间中，最初处于随机状态，经过很长一段时间后，智能的、能自我复制的动物将会出现并占据空间的一些部分。(引自 Ilachinski 2001: 131)
 
 _生命_的粉丝们探索了元胞自动机可能的演化模式，并分享了他们的发现，这被称为_生命_的动物学(Dennett 2003: 41)。这里有一小部分样本画廊，连同典型模拟的快照一起（更多图片和动画，请参见[其他互联网资源](https://plato.stanford.edu/entries/cellular-automata/#Oth)）。_滑翔机_是基本_生命_居民中最受欢迎的：一个简单的 5 位结构，滑翔机可以在 4 个时间步骤周期内在_生命_网格中移动。
 
-_滑翔机_
+*滑翔机*
 
 ![滑翔机 1](https://plato.stanford.edu/entries/cellular-automata/glider1.jpg)
 
@@ -279,9 +278,9 @@ t1
 
 ## 细胞生物学哲学
 
-_蟾蜍_ 是第 2 周期的闪烁构型：与 _Blinkers_ 和 _Beacons_ 一起，它们是宇宙中最简单的振荡器。
+*蟾蜍* 是第 2 周期的闪烁构型：与 *Blinkers* 和 *Beacons* 一起，它们是宇宙中最简单的振荡器。
 
-_Toad_
+*Toad*
 
 ![Toad 1](https://plato.stanford.edu/entries/cellular-automata/toad1.jpg)
 
@@ -297,7 +296,7 @@ t3
 
 _食者_具有吞噬其他构型的特征，例如滑翔机，保持其自身形态完整（因此，它们对_生命_的计算能力起着重要作用）。
 
-_An Eater devouring a Glider_
+*An Eater devouring a Glider*
 
 ![Eater 1](https://plato.stanford.edu/entries/cellular-automata/eater1.jpg)
 
@@ -339,15 +338,15 @@ t40
 
 t175
 
-细胞自动机的数学文献并没有避免使用与我们相同的富有想象力的词汇来描述_生命_的配置：物品_诞生_，_生存_，_移动_，_吞食_其他图形，_死亡_等。这些图案所在的宇宙也可以被描述为一组单独的细胞，每个细胞并不直接取决于宏观尺度上发生的事情。_生命_上的生命也可以用矩阵和离散序列的简单数学语言来描述。但是，如果只告诉一个人基本的_生命_规则，他几乎无法想象它可以产生的复杂性——直到看到它为止。_生命_在科学家和哲学家中的声誉可能来自于它对复杂性、模式形成和现实、持久性以及连续性的挑战性直觉：作为我们自己建立的玩具宇宙，我们觉得我们应该事先知道哪些动态是允许的。从数学上讲，这被证明是不可能的。
+细胞自动机的数学文献并没有避免使用与我们相同的富有想象力的词汇来描述_生命_的配置：物品_诞生_，*生存*，*移动*，_吞食_其他图形，_死亡_等。这些图案所在的宇宙也可以被描述为一组单独的细胞，每个细胞并不直接取决于宏观尺度上发生的事情。_生命_上的生命也可以用矩阵和离散序列的简单数学语言来描述。但是，如果只告诉一个人基本的_生命_规则，他几乎无法想象它可以产生的复杂性——直到看到它为止。_生命_在科学家和哲学家中的声誉可能来自于它对复杂性、模式形成和现实、持久性以及连续性的挑战性直觉：作为我们自己建立的玩具宇宙，我们觉得我们应该事先知道哪些动态是允许的。从数学上讲，这被证明是不可能的。
 
-### 2.6 _生命_ 作为通用图灵机
+### 2.6 *生命* 作为通用图灵机
 
-像任何其他 CA 一样，_生命_ 可以被视为一种计算设备：自动机的初始配置可以编码输入字符串。可以让系统运行，并在某个时刻读取当前配置作为迄今为止执行的计算结果，将其解码为输出字符串。但_生命_ 究竟可以计算什么？事实证明，_生命_ 可以计算通用图灵机可以计算的一切，因此，接受图灵论题，作为通用计算机运行：适当选择初始条件可以确保系统执行任意算法过程。
+像任何其他 CA 一样，*生命* 可以被视为一种计算设备：自动机的初始配置可以编码输入字符串。可以让系统运行，并在某个时刻读取当前配置作为迄今为止执行的计算结果，将其解码为输出字符串。但_生命_ 究竟可以计算什么？事实证明，*生命* 可以计算通用图灵机可以计算的一切，因此，接受图灵论题，作为通用计算机运行：适当选择初始条件可以确保系统执行任意算法过程。
 
 细胞生物学哲学中提出的_生命_的普遍计算能力的证明，表明标准数字计算的基本构建块或原语可以通过_生命_生成的适当模式来模拟，特别是：(a) 数据存储或记忆，(b) 需要电线和内部时钟的数据传输，以及(c) 需要包括否定、合取和析取在内的通用逻辑门集的数据处理——后来 Paul Rendell 在_生命_中明确实现了一台图灵机（参见[其他互联网资源](https://plato.stanford.edu/entries/cellular-automata/#Oth)）。
 
-这一发现并不具有很大的工程重要性（没有人会花时间将“24+26/13”翻译成_生命_）。然而，它引发了一个关于任何具有产生和托管通用计算机能力的宇宙的概念问题：由于前述的停机定理，没有通用算法可以决定在给定某个初始配置作为输入时，_生命_最终会灭绝或停机。正是在这个意义上，自动机的演化是不可预测的。鉴于计算上通用的 CA 的发展不能仅通过直接的数学分析来预测，CA 从业者采用了哲学的语言，并谈论了 CA 的_现象学研究_（我们将在下文的[第 3.4 节](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)中更详细地讨论这个术语，讨论 CA 如何模拟它们能够模拟的内容）。在这里，自动机被实现为计算机软件，其演化的可观察的新兴特性在计算机模拟不断进行时被经验性地记录下来。用沃尔夫勒姆的措辞来说，_生命_是_算法不可简化_的：没有可用于预测系统结果的算法快捷方式。“_生命_—就像所有计算上通用的系统一样—定义了其行为的最有效模拟”（Ilachinski 2001: 15）。这引发了一个重要的哲学问题，即任何能够产生和托管通用计算机的宇宙的可预测性限制，就像_生命_一样。
+这一发现并不具有很大的工程重要性（没有人会花时间将“24+26/13”翻译成_生命_）。然而，它引发了一个关于任何具有产生和托管通用计算机能力的宇宙的概念问题：由于前述的停机定理，没有通用算法可以决定在给定某个初始配置作为输入时，*生命_最终会灭绝或停机。正是在这个意义上，自动机的演化是不可预测的。鉴于计算上通用的 CA 的发展不能仅通过直接的数学分析来预测，CA 从业者采用了哲学的语言，并谈论了 CA 的_现象学研究*（我们将在下文的[第 3.4 节](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)中更详细地讨论这个术语，讨论 CA 如何模拟它们能够模拟的内容）。在这里，自动机被实现为计算机软件，其演化的可观察的新兴特性在计算机模拟不断进行时被经验性地记录下来。用沃尔夫勒姆的措辞来说，_生命_是_算法不可简化_的：没有可用于预测系统结果的算法快捷方式。“*生命*—就像所有计算上通用的系统一样—定义了其行为的最有效模拟”（Ilachinski 2001: 15）。这引发了一个重要的哲学问题，即任何能够产生和托管通用计算机的宇宙的可预测性限制，就像_生命_一样。
 
 ### 2.7 进一步的 CA
 
@@ -365,7 +364,7 @@ CA 也在与计算的热力学极限问题相关的讨论中得到了富有成�
 
 ### 3.1 CA 和新兴性
 
-CA 可以被视为研究与_ emergent _现象相关的典范地点（有关简介，请参阅_ [_emergent properties_](https://plato.stanford.edu/entries/properties-emergent/) _上的条目）。人们最初可以将 emergent 问题分为两个独立的问题，大致对应于认识论和本体论问题：我们如何_ recognize _ emergent？高层次属性和特征的_ ontological status _是什么？事实上，从历史事实来看，CA 主要被用来解决前者，但我们将在下面的[第 3.4 节](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)中看到，CA 在本体论方面也有工作。
+CA 可以被视为研究与_emergent *现象相关的典范地点（有关简介，请参阅* [*emergent properties*](https://plato.stanford.edu/entries/properties-emergent/) *上的条目）。人们最初可以将 emergent 问题分为两个独立的问题，大致对应于认识论和本体论问题：我们如何* recognize_ emergent？高层次属性和特征的_ontological status_是什么？事实上，从历史事实来看，CA 主要被用来解决前者，但我们将在下面的[第 3.4 节](https://plato.stanford.edu/entries/cellular-automata/#CAModeReal)中看到，CA 在本体论方面也有工作。
 
 认识论问题通常与一般复杂系统有关。在 Miller 和 Page 对复杂社会系统的公开议程中，包括以下问题：“是否有客观基础来认识 emergent 和 complexity？”（Miller & Page 2007: 233–234）。关于 CA 的文献已经以不同方式解决了这个问题。一方面，作为低层次简单且可控的环境，CA 自然呈现为解决问题的自然框架。另一方面，CA 研究人员已经认识到，即使对低层实体和法则有完美的了解，复杂 CA 系统的系统性和全局特征也很难预测：
 
@@ -439,9 +438,9 @@ Crutchfield 从中推断出，许多出现现象的情况确实不能简化为�
 
 最后，关于[E4](https://plato.stanford.edu/entries/cellular-automata/#E4)：作为不可压缩展开的新兴。Bedau 1997 年定义了这种意义上的宏观状态_新兴_，只要通过对整个系统演化的直接模拟，就可以从对系统微组件的了解中推导出来。这里的想法是“新兴现象是那些需要通过_模拟_才能_预测_的现象”（Clark 2013: 134）：[E4](https://plato.stanford.edu/entries/cellular-automata/#E4)-新兴的宏观特征将是那些只能通过直接建模微观特征才能预测的特征，没有计算上的捷径来压缩微观层面的信息。根据 Clark 所指出的第一点是，这种新兴概念至少与先前的一些概念相矛盾：[E3](https://plato.stanford.edu/entries/cellular-automata/#E3)-新兴认为
 
-> emergent phenomena are often _precisely_ those phenomena in which complex interactions yield robust, salient patterns capable of supporting prediction. (ibid)
+> emergent phenomena are often *precisely* those phenomena in which complex interactions yield robust, salient patterns capable of supporting prediction. (ibid)
 
-that is, patterns that deliver compressible information. Next, while the characterization of [E4](https://plato.stanford.edu/entries/cellular-automata/#E4), Bedau-style emergence may work pretty well in the case of completely chaotic systems, it does not sit well with such CA as Rule ϕ17083. According to the proposed definition, the answer to the classification problem given by Rule ϕ17083 is an emergent phenomenon just in case the only way to go from t0 to tn is by explicitly simulating the system evolution. 细胞生物学哲学： emergent phenomena are often _precisely_ those phenomena in which complex interactions yield robust, salient patterns capable of supporting prediction. (ibid)
+that is, patterns that deliver compressible information. Next, while the characterization of [E4](https://plato.stanford.edu/entries/cellular-automata/#E4), Bedau-style emergence may work pretty well in the case of completely chaotic systems, it does not sit well with such CA as Rule ϕ17083. According to the proposed definition, the answer to the classification problem given by Rule ϕ17083 is an emergent phenomenon just in case the only way to go from t0 to tn is by explicitly simulating the system evolution. 细胞生物学哲学： emergent phenomena are often *precisely* those phenomena in which complex interactions yield robust, salient patterns capable of supporting prediction. (ibid)
 
 ![8 个水平框，从左到右，第二、第四和第六个框为黑色，其他为白色](https://plato.stanford.edu/entries/cellular-automata/classification1.jpg)
 
@@ -463,7 +462,7 @@ t0
 
 接受兼容主义的一个主要障碍是我们相信决定论意味着必然性（丹尼特 2003: 25）。因此，我们可以通过展示一个直观的反例来使兼容主义更具吸引力：一个决定性世界，在这个世界中，然而，并非一切都是必然的，即，某些事情是可以避免的（同上: 56）。丹尼特认为 CA 可以做到这一点。他以_生命_作为一个生动的例证，说明在一个决定性但足够复杂的世界中，我们可以从底层和微观法则的决定性抽象出来，并且认真对待新兴层面。回想一下吃者-滑翔机的动态：
 
-_An Eater devouring a Glider_
+*An Eater devouring a Glider*
 
 ![Eater 1](https://plato.stanford.edu/entries/cellular-automata/eater1.jpg)
 
@@ -477,7 +476,7 @@ t2
 
 t4
 
-在 t0 时刻，一个旨在预测这个时空区域演化的观察者基本上有两种选择：她可以考虑（Dennett 所称的）_物理层_，逐像素计算每个时间步中每个细胞状态的值；或者，她可以专注于_设计层_，并运用高层概念，比如_滑翔机_和_吞噬者_，来支撑她的预测（Dennett 2003: 39）。第一种选择是完全确定的，但有一个缺陷：耗时，以至于当你完成所需的计算时，世界已经演化了（这对于_通用_CA 尤为真实，正如我们之前已经暗示过，并将很快展开）。第二种选择要快得多：你几乎不用计算就知道一个滑翔机遇到吞噬者会发生什么。然而，预测不能 100% 可靠：
+在 t0 时刻，一个旨在预测这个时空区域演化的观察者基本上有两种选择：她可以考虑（Dennett 所称的）*物理层*，逐像素计算每个时间步中每个细胞状态的值；或者，她可以专注于_设计层_，并运用高层概念，比如_滑翔机_和_吞噬者_，来支撑她的预测（Dennett 2003: 39）。第一种选择是完全确定的，但有一个缺陷：耗时，以至于当你完成所需的计算时，世界已经演化了（这对于_通用_CA 尤为真实，正如我们之前已经暗示过，并将很快展开）。第二种选择要快得多：你几乎不用计算就知道一个滑翔机遇到吞噬者会发生什么。然而，预测不能 100% 可靠：
 
 在物理层面上，普遍规律绝对没有例外，但在设计层面上，我们的概括必须加以限制：它们需要“通常”条款（…）。来自早期事件的零散碎片可以在这个层面上“破坏”或“杀死”本体中的一个对象。它们作为真实事物的显著性相当大，但并非保证。（Dennett 2003: 40）
 
@@ -577,13 +576,13 @@ CA 是基于简单元素的集体行为执行复杂任务的计算系统。它�
 
 让我们想象一下，我们忽略了它是由简单局部规则的迭代生成，甚至认为它是一个自动机。然后，Ilachinski 说：
 
-> 注意到这个图形由散布在一个多多少少静态背景上的某种类似粒子的对象组成，对你来说，最简单（最自然？）的事情是开始分类各种“粒子”及它们的“相互作用”。(...) 你几乎肯定不会有的是，对底层物理实际上由一个—非常简单—的局部确定性规则组成的任何概念(...) _这个外星的二维世界与我们自己的世界有多大不同_？（Ilachinski 2001: 662）。
+> 注意到这个图形由散布在一个多多少少静态背景上的某种类似粒子的对象组成，对你来说，最简单（最自然？）的事情是开始分类各种“粒子”及它们的“相互作用”。(...) 你几乎肯定不会有的是，对底层物理实际上由一个—非常简单—的局部确定性规则组成的任何概念(...) *这个外星的二维世界与我们自己的世界有多大不同*？（Ilachinski 2001: 662）。
 
-这突显了 CA 可能产生我们认为是物理现实的情况。但有人可能认为这只是一个简单的建议：我们不能 _a priori_ 地排除我们的宇宙在其最基本层面上是 CA 的可能性，并不意味着它实际上 _是_ CA。
+这突显了 CA 可能产生我们认为是物理现实的情况。但有人可能认为这只是一个简单的建议：我们不能 *a priori* 地排除我们的宇宙在其最基本层面上是 CA 的可能性，并不意味着它实际上 *是* CA。
 
-探索这一假设的更坚实基础来自于对当代物理学的一些独立理论不满的原因。我们将限制自己于我们所谓的 _概念_ 上的抱怨，而不是更与科学实践密切相关的抱怨，比如量子力学和相对论无法归纳为 _一切理论_ 的失败。我们将研究以下三个问题：(_i_) 无限性问题，(_ii_) 透明本体论的需求，(_iii_) 信息的物理作用。
+探索这一假设的更坚实基础来自于对当代物理学的一些独立理论不满的原因。我们将限制自己于我们所谓的 *概念* 上的抱怨，而不是更与科学实践密切相关的抱怨，比如量子力学和相对论无法归纳为 *一切理论* 的失败。我们将研究以下三个问题：(*i*) 无限性问题，(*ii*) 透明本体论的需求，(*iii*) 信息的物理作用。
 
-关于投诉（_i_）：虽然无限和无穷小量为我们提供了强大的工具来模拟和推进对物理世界的预测，但从这一事实中应得出什么本体论结论仍然存在争议。自[Zeno's Paradox（见条目）](https://plato.stanford.edu/entries/paradox-zeno/)的发现以来，时空的连续性以及其他基本物理变量一直困扰着哲学家和科学家。用物理学家理查德·费曼（Richard Feynman）的话来说：
+关于投诉（*i*）：虽然无限和无穷小量为我们提供了强大的工具来模拟和推进对物理世界的预测，但从这一事实中应得出什么本体论结论仍然存在争议。自[Zeno's Paradox（见条目）](https://plato.stanford.edu/entries/paradox-zeno/)的发现以来，时空的连续性以及其他基本物理变量一直困扰着哲学家和科学家。用物理学家理查德·费曼（Richard Feynman）的话来说：
 
 > 令我困扰的是，根据我们今天所理解的定律，计算机需要进行无限次逻辑运算才能弄清楚在多么微小的空间区域内发生了什么，无论时间区域有多小。所有这些怎么可能发生在那么小的空间内？为什么要进行无限量的逻辑运算才能弄清楚微小的时空片段将会发生什么？因此，我经常提出假设，最终物理学将不需要数学陈述，最终机制将被揭示，定律将被证明是简单的，就像棋盘及其所有明显的复杂性一样。（费曼 1965）
 
@@ -593,11 +592,11 @@ CA 是基于简单元素的集体行为执行复杂任务的计算系统。它�
 
 如果细胞自动机是满足这一假设的模型，那么“在我们今天所知的物理定律之下，可能存在着一个简单的程序，从中所有已知的定律（...）出现”（Wolfram 2002: 434）。正如我们上面所看到的，目前关于物理现实是根本连续还是离散的问题尚无共识，至少有限性假设似乎是一个不那么不可证伪的预测（参见 Fredkin 1990），不比许多推测性的形而上学图景差。不幸的是，尽管我们试图在 CA 理论中重新捕捉场论（参见，例如，Svozil 1987，Lee 1986），但目前还没有关于如何在 CA 框架内推导出今天的连续物理的共识；因此可以说，在这方面没有任何一方占据明显优势。
 
-至于投诉（_ii_）：将 CA 视为基本离散世界的模型的一个原因是对透明本体论的渴望。以一个唯物主义哲学家为例，物理学的任务是基于少数基本物理属性和关系提供对现实的最终描述。正如 Beraldo-de-Araújo & Baravalle 所论证的，数字本体论可能以不同的计算模型作为其基础：通过分析 CA 的本体论承诺（与传统的图灵机相比），他们得出结论，CA 与支持传统形式的物理主义非常接近。从这个角度来看，基于 CA 的物理学可能提供一个清晰而优雅的本体论图景：一个可以用包括标准[部分学（见条目）](https://plato.stanford.edu/entries/mereology/)的公理在内的一阶形式理论来描述的图景（甚至是部分拓扑学，如 Casati，Varzi 1999 中所述），其定理可以在有限时间内计算出来（见 Berto，Rossi，Tagliabue 2010: 73–87）。此外，CA 更容易调和不同物理定律的表面矛盾属性，例如微定律的_可逆性_和热力学第二定律的_不可逆性_（例如参见 Wolfram 2002: 441–457；Berto，Rossi，Tagliabue 2010: 43–46）。关于第二定律是否给出了物理现实的一个基本特征，或者它是底层原则的副产品，这些原则是时间可逆的，并作用于低熵状态的宇宙初始状态（见 Albert 2000），目前尚无共识。如果世界是离散的，而时间可逆性是基本的，像 Berto，Rossi，Tagliabue（2016）那样的可逆 CA 可能不仅仅是通过它们的可逆性实现一定程度的计算效率的计算工具。
+至于投诉（*ii*）：将 CA 视为基本离散世界的模型的一个原因是对透明本体论的渴望。以一个唯物主义哲学家为例，物理学的任务是基于少数基本物理属性和关系提供对现实的最终描述。正如 Beraldo-de-Araújo & Baravalle 所论证的，数字本体论可能以不同的计算模型作为其基础：通过分析 CA 的本体论承诺（与传统的图灵机相比），他们得出结论，CA 与支持传统形式的物理主义非常接近。从这个角度来看，基于 CA 的物理学可能提供一个清晰而优雅的本体论图景：一个可以用包括标准[部分学（见条目）](https://plato.stanford.edu/entries/mereology/)的公理在内的一阶形式理论来描述的图景（甚至是部分拓扑学，如 Casati，Varzi 1999 中所述），其定理可以在有限时间内计算出来（见 Berto，Rossi，Tagliabue 2010: 73–87）。此外，CA 更容易调和不同物理定律的表面矛盾属性，例如微定律的_可逆性_和热力学第二定律的_不可逆性_（例如参见 Wolfram 2002: 441–457；Berto，Rossi，Tagliabue 2010: 43–46）。关于第二定律是否给出了物理现实的一个基本特征，或者它是底层原则的副产品，这些原则是时间可逆的，并作用于低熵状态的宇宙初始状态（见 Albert 2000），目前尚无共识。如果世界是离散的，而时间可逆性是基本的，像 Berto，Rossi，Tagliabue（2016）那样的可逆 CA 可能不仅仅是通过它们的可逆性实现一定程度的计算效率的计算工具。
 
-关于点（_iii_），涉及信息的物理作用：CA 可以容纳许多科学家（Wheeler 1990，Ilachinski 2001）和哲学家（Chalmers 1996）提出的一种推测性假设，即信息不仅仅是物理世界的一个方面，而且在某种意义上是最基本的。例如，Fredkin 的有限自然假设不仅强调了物理学信息方面的重要性，而且“坚持认为信息方面是构成物理学在最微观层面的全部内容”（见 Fredkin 1993）。
+关于点（*iii*），涉及信息的物理作用：CA 可以容纳许多科学家（Wheeler 1990，Ilachinski 2001）和哲学家（Chalmers 1996）提出的一种推测性假设，即信息不仅仅是物理世界的一个方面，而且在某种意义上是最基本的。例如，Fredkin 的有限自然假设不仅强调了物理学信息方面的重要性，而且“坚持认为信息方面是构成物理学在最微观层面的全部内容”（见 Fredkin 1993）。
 
-这种想法被发展的一种方式是所谓的“_从位_”理论（再次参见 Wheeler 1990）。用大卫·查尔默斯的话来说，这种方法“源于这样的观察：在物理理论中，基本物理状态被界定为_信息状态_”（Chalmers 1996: 302）。物理学对于完成指定功能角色的是什么保持沉默，因此“这些信息状态的任何实现都将对物理理论的目的起到同样的作用”（Chalmers 1996: 302）。“从位”方法特别吸引查尔默斯，作为一个致力于认为_感知_是内在的、不可简化属性的心灵哲学家，因为它允许简单统一：我们需要内在属性来理解意识体验，我们需要内在属性来奠定构成世界物理学的信息状态。如果我们声称所有信息状态都根植于感知或原感知属性，我们“可以用一种廉价而优雅的本体论，一举解决两个问题”（Chalmers 1996: 305）。CA 中的细胞状态符合这一要求：如果我们将它们解释为原感知属性，我们就得到了某种计算中性单元的内在结构（有关历史介绍，请参阅[中性单元](https://plato.stanford.edu/entries/neutral-monism/)条目）。
+这种想法被发展的一种方式是所谓的“*从位*”理论（再次参见 Wheeler 1990）。用大卫·查尔默斯的话来说，这种方法“源于这样的观察：在物理理论中，基本物理状态被界定为_信息状态_”（Chalmers 1996: 302）。物理学对于完成指定功能角色的是什么保持沉默，因此“这些信息状态的任何实现都将对物理理论的目的起到同样的作用”（Chalmers 1996: 302）。“从位”方法特别吸引查尔默斯，作为一个致力于认为_感知_是内在的、不可简化属性的心灵哲学家，因为它允许简单统一：我们需要内在属性来理解意识体验，我们需要内在属性来奠定构成世界物理学的信息状态。如果我们声称所有信息状态都根植于感知或原感知属性，我们“可以用一种廉价而优雅的本体论，一举解决两个问题”（Chalmers 1996: 305）。CA 中的细胞状态符合这一要求：如果我们将它们解释为原感知属性，我们就得到了某种计算中性单元的内在结构（有关历史介绍，请参阅[中性单元](https://plato.stanford.edu/entries/neutral-monism/)条目）。
 
 尽管各自有争议，但这三点共同支持一个简单而优雅的形而上学图景，这个图景显然不是错误或不连贯的。
 
@@ -621,7 +620,7 @@ CA 是基于简单元素的集体行为执行复杂任务的计算系统。它�
 
 它们以各种时空关系彼此存在。
 
-如果我们用“细胞”替换“时空点”，HS 就非常接近 CA 本体论：细胞被排列在晶格中，彼此具有各种时空关系（例如，_是邻域的一部分_），并且具有可以被认为是_完全自然_的单 adic 属性（状态），即构成任何其他属性的基本属性。 CA 宇宙因此是 Lewis 的 HS 的一个_原始_抽象模型，并且可以有效地用来阐明 Lewis 的原始观点，即还原主义观点：
+如果我们用“细胞”替换“时空点”，HS 就非常接近 CA 本体论：细胞被排列在晶格中，彼此具有各种时空关系（例如，*是邻域的一部分*），并且具有可以被认为是_完全自然_的单 adic 属性（状态），即构成任何其他属性的基本属性。 CA 宇宙因此是 Lewis 的 HS 的一个_原始_抽象模型，并且可以有效地用来阐明 Lewis 的原始观点，即还原主义观点：
 
 维护休谟随附性并非是为了支持反动的物理学，而是为了抵制哲学论证，即天地间的事物远不止物理学所梦想的那样多。（Lewis 1994: 474）。
 
@@ -643,7 +642,7 @@ CA 是基于简单元素的集体行为执行复杂任务的计算系统。它�
 
 尽管一些细胞自动机的话题仍然相对未被哲学家触及（例如，空间和时间的本质（见 Wolfram 2002: 481–496），人工智能中知识的表征（见 Berto, Rossi, Tagliabue: 15–26），信息与能量之间的关系（见 Fredkin & Toffoli 1982）），但与细胞自动机相关的许多概念挑战已经被提出。虽然在某些情况下，从业者确实对细胞自动机的贡献高估了，但在其他情况下，细胞自动机被证明是重要现象的有用模型。
 
-作为最后的评论：从纯粹科学的角度来看，_NKS Argument_ 还剩下什么？让我们再次审视一下：
+作为最后的评论：从纯粹科学的角度来看，*NKS Argument* 还剩下什么？让我们再次审视一下：
 
 (NKS1)
 
@@ -663,101 +662,101 @@ CA 演化的观察导致了一项科学发现：“非常简单的规则会产�
 
 Miller & Page 2007 and Mitchell 2009 both contain a chapter devoted to CA: they are accessible introductions written by notable scholars. Ilachinski 2001 is an excellent starting point for the exploration of the CA literature: although not up-to-date on some technical points, the volume nicely introduces the field and covers its most important applications. Wolfram 2002 took some twenty-years and 1200 pages to be finished and is a passionate journey including bold speculations on the role of CA for understanding the universe and our place in it.
 
-* Aaronson, Scott, 2002, “On ‘A New Kind of Science’ by Stephen Wolfram ”, _Quantum Information and Computation_, 2(5): 410–423. \[[Aaronson 2002 preprint available online](https://arxiv.org/pdf/quant-ph/0206089.pdf)]
-* –––, 2011, “Why Philosophers Should Care About Computational Complexity”, in _Computability Turing, Gödel, Church, and Beyond_, B. Jack Copeland, Carl J. Posy, and Oron Shagrir (eds.), Cambridge, MA: MIT Press: 261–328. \[[Aaronson 2011 preprint available online](http://www.scottaaronson.com/papers/philos.pdf)]
-* Aburasa, Maher Milad, Yuek Ming Hoa, Mohammad Firuz Ramlia, and Zulfa Hanan Ash’aaria, 2016, “The simulation and prediction of spatio-temporal urban growth trends using cellular automata models: A review”, _International Journal of Applied Earth Observation and Geoinformation_, 52: 380–389. doi:10.1016/j.jag.2016.07.007
-* Albert, David Z., 2000, _Time and Chance_, Cambridge, MA: Harvard University Press.
-* Ambjorn, J., J. Jurkiewicz, and R. Lolli, 2004, “Emergence of a 4D World from Causal Quantum Gravity”, _Physical Review Letters_, 98(13): 131–301. doi:10.1103/PhysRevLett.93.131301
-* Barberousse, Anouk and Cyrille Imbert, 2013, “New Mathematics for Old Physics. The Case of Lattice Fluids”, _Studies in History and Philosophy of Modern Physics_, 44(3): 231–241. doi:10.1016/j.shpsb.2013.03.003
-* Barrow, John D., Paul C.W. Davies, and Charles L. Harper, Jr (eds.), 2005, _Science and Ultimate Reality_, Cambridge: Cambridge University Press.
-* Batty, Michael, 2005, _Cities and Complexity, Understanding Cities with Cellular Automata, Agent-Based Models, and Fractals_, Cambridge, MA: MIT Press.
-* Bedau, Mark A., 1997, “Weak Emergence”, in _Philosophical Perspectives, 11: Mind, Causation, and World_, J. Tomberlin (ed.), Oxford: Blackwell Publishers, pp. 375–399. doi:10.1111/0029-4624.31.s11.17
-* Beraldo-de-Araújo, Anderson and Lorenzo Baravalle, forthcoming, “The Ontology of Digital Physics”, _Erkenntnis_, first published online 19 December 2016, doi:10.1007/s10670-016-9866-y
-* Berto, Francesco, Gabriele Rossi, and Jacopo Tagliabue, 2010, _The Mathematics of the Models of Reference_, London: College Publications.
-* –––, 2016, “There’s Plenty of Boole at the Bottom: A Reversible CA Against Information Entropy”, _Minds and Machines_, 26(4): 341–367. doi:10.1007/s11023-016-9401-6
-* Berto, Francesco and Jacopo Tagliabue, 2014, “The World is Either Digital or Analogue”, _Synthese_, 191(3): 481–497. doi:10.1007/s11229-013-0285-1
-* Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy, 1982, _Winning Ways for Your Mathematical Plays_, Vol. 2, London: Academic Press.
-* Casati, Roberto and Achille C. Varzi, 1999, _Parts and Places: The Structures of Spatial Representation_, Cambridge, MA: MIT Press.
-* Chalmers, David John, 1996, _The Conscious Mind_, Oxford: Oxford University Press.
-* –––, 2002, “Strong and Weak Emergence”, in _The Re-Emergence of Emergence_, Philip Clayton and Paul Davies (eds.), Oxford: Oxford University Press, pp. 244–255.
-* Chen, Hudong, Shiyi Chen, Gary Doolen, and Y.C. Lee, 1983, “Simple Lattice Gas Models for Waves”, _Complex Systems_, 2(3): 259–267.
-* Clark, Andy, 1996, _Being There: Putting Brain, Body, and World Together Again_, Cambridge, MA: MIT Press.
-* –––, 2013, _Mindware: An Introduction to the Philosophy of Cognitive Science_, second edition, Oxford: Oxford University Press.
-* Cook, Matthew, 2004, “Universality in Elementary Cellular Automata”, _Complex Systems_, 15(1): 1–40.
-* Creutz, Michael, 1986, “Deterministic Ising Dynamics”, _Annals of Physics_, 167(1): 62–76. doi:10.1016/S0003-4916(86)80006-9
-* Crutchfield, James .P., 1994a, “The Calculi of Emergence: Computation, Dynamics, and Induction”, _Physica D_, 75(1–3): 11–54. doi:10.1016/0167-2789(94)90273-9
-* –––, 1994b, “Is Anything Ever New? Considering Emergence”, in _Complexity: Metaphors, Models, and Reality_, G. Cowan, D. Pines, D. Melzner (eds.), (SFI Series in the Sciences of Complexity XIX), Redwood City, CA: Addison-Wesley, pp. 479–497.
-* Crutchfield, James P. and James E. Hanson, 1993, “Turbulent Pattern Bases for Cellular Automata”, _Physica D_, 69(3–4): 279–301. doi:10.1016/0167-2789(93)90092-F
-* Crutchfield, James P. and M. Mitchell, 1995, “The Evolution of Emergent Computation”, _Proceedings of the National Academy of Sciences_, 92(23): 10742–10746.
-* Dennett, Daniel C., 1987, _The Intentional Stance_, Cambridge, MA: MIT Press.
-* –––, 1991, “Real Patterns”, _Journal of Philosophy_, 88(1): 27–51. doi:10.2307/2027085
-* –––, 2003, _Freedom Evolves_, New York: Viking Penguin.
+* Aaronson, Scott, 2002, “On ‘A New Kind of Science’ by Stephen Wolfram ”, *Quantum Information and Computation*, 2(5): 410–423. \[[Aaronson 2002 preprint available online](https://arxiv.org/pdf/quant-ph/0206089.pdf)]
+* –––, 2011, “Why Philosophers Should Care About Computational Complexity”, in *Computability Turing, Gödel, Church, and Beyond*, B. Jack Copeland, Carl J. Posy, and Oron Shagrir (eds.), Cambridge, MA: MIT Press: 261–328. \[[Aaronson 2011 preprint available online](http://www.scottaaronson.com/papers/philos.pdf)]
+* Aburasa, Maher Milad, Yuek Ming Hoa, Mohammad Firuz Ramlia, and Zulfa Hanan Ash’aaria, 2016, “The simulation and prediction of spatio-temporal urban growth trends using cellular automata models: A review”, *International Journal of Applied Earth Observation and Geoinformation*, 52: 380–389. doi:10.1016/j.jag.2016.07.007
+* Albert, David Z., 2000, *Time and Chance*, Cambridge, MA: Harvard University Press.
+* Ambjorn, J., J. Jurkiewicz, and R. Lolli, 2004, “Emergence of a 4D World from Causal Quantum Gravity”, *Physical Review Letters*, 98(13): 131–301. doi:10.1103/PhysRevLett.93.131301
+* Barberousse, Anouk and Cyrille Imbert, 2013, “New Mathematics for Old Physics. The Case of Lattice Fluids”, *Studies in History and Philosophy of Modern Physics*, 44(3): 231–241. doi:10.1016/j.shpsb.2013.03.003
+* Barrow, John D., Paul C.W. Davies, and Charles L. Harper, Jr (eds.), 2005, *Science and Ultimate Reality*, Cambridge: Cambridge University Press.
+* Batty, Michael, 2005, *Cities and Complexity, Understanding Cities with Cellular Automata, Agent-Based Models, and Fractals*, Cambridge, MA: MIT Press.
+* Bedau, Mark A., 1997, “Weak Emergence”, in *Philosophical Perspectives, 11: Mind, Causation, and World*, J. Tomberlin (ed.), Oxford: Blackwell Publishers, pp. 375–399. doi:10.1111/0029-4624.31.s11.17
+* Beraldo-de-Araújo, Anderson and Lorenzo Baravalle, forthcoming, “The Ontology of Digital Physics”, *Erkenntnis*, first published online 19 December 2016, doi:10.1007/s10670-016-9866-y
+* Berto, Francesco, Gabriele Rossi, and Jacopo Tagliabue, 2010, *The Mathematics of the Models of Reference*, London: College Publications.
+* –––, 2016, “There’s Plenty of Boole at the Bottom: A Reversible CA Against Information Entropy”, *Minds and Machines*, 26(4): 341–367. doi:10.1007/s11023-016-9401-6
+* Berto, Francesco and Jacopo Tagliabue, 2014, “The World is Either Digital or Analogue”, *Synthese*, 191(3): 481–497. doi:10.1007/s11229-013-0285-1
+* Berlekamp, Elwyn R., John H. Conway, and Richard K. Guy, 1982, *Winning Ways for Your Mathematical Plays*, Vol. 2, London: Academic Press.
+* Casati, Roberto and Achille C. Varzi, 1999, *Parts and Places: The Structures of Spatial Representation*, Cambridge, MA: MIT Press.
+* Chalmers, David John, 1996, *The Conscious Mind*, Oxford: Oxford University Press.
+* –––, 2002, “Strong and Weak Emergence”, in *The Re-Emergence of Emergence*, Philip Clayton and Paul Davies (eds.), Oxford: Oxford University Press, pp. 244–255.
+* Chen, Hudong, Shiyi Chen, Gary Doolen, and Y.C. Lee, 1983, “Simple Lattice Gas Models for Waves”, *Complex Systems*, 2(3): 259–267.
+* Clark, Andy, 1996, *Being There: Putting Brain, Body, and World Together Again*, Cambridge, MA: MIT Press.
+* –––, 2013, *Mindware: An Introduction to the Philosophy of Cognitive Science*, second edition, Oxford: Oxford University Press.
+* Cook, Matthew, 2004, “Universality in Elementary Cellular Automata”, *Complex Systems*, 15(1): 1–40.
+* Creutz, Michael, 1986, “Deterministic Ising Dynamics”, *Annals of Physics*, 167(1): 62–76. doi:10.1016/S0003-4916(86)80006-9
+* Crutchfield, James .P., 1994a, “The Calculi of Emergence: Computation, Dynamics, and Induction”, *Physica D*, 75(1–3): 11–54. doi:10.1016/0167-2789(94)90273-9
+* –––, 1994b, “Is Anything Ever New? Considering Emergence”, in *Complexity: Metaphors, Models, and Reality*, G. Cowan, D. Pines, D. Melzner (eds.), (SFI Series in the Sciences of Complexity XIX), Redwood City, CA: Addison-Wesley, pp. 479–497.
+* Crutchfield, James P. and James E. Hanson, 1993, “Turbulent Pattern Bases for Cellular Automata”, *Physica D*, 69(3–4): 279–301. doi:10.1016/0167-2789(93)90092-F
+* Crutchfield, James P. and M. Mitchell, 1995, “The Evolution of Emergent Computation”, *Proceedings of the National Academy of Sciences*, 92(23): 10742–10746.
+* Dennett, Daniel C., 1987, *The Intentional Stance*, Cambridge, MA: MIT Press.
+* –––, 1991, “Real Patterns”, *Journal of Philosophy*, 88(1): 27–51. doi:10.2307/2027085
+* –––, 2003, *Freedom Evolves*, New York: Viking Penguin.
 * Deutsch, David, 2005, “It from Qubit”. in Barrow, Davies, & Harper 2005: 90–102.
-* Dowker, Fay, 2003, “Real Time”, _New Scientist_, 180(2415): 36–39.
-* Epstein, Joshua M., 1999, “Agent-Based Computational Models and Generative Social Science”, _Complexity_, 4(5): 41–60. doi:10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.0.CO;2-F
-* Feynman, Richard P., 1965, _The Character of Physical Law_, Cambridge, MA: MIT Press.
-* Floridi, Luciano, 2009, “Against Digital Ontology”, _Synthese_, 168(1): 151–178. doi:10.1007/s11229-008-9334-6
-* Franceschetti, Donald R., D. Wayne Jones, Bruce W. Campbell and John W. Hamneken, 1992, “Hamming Nets, Ising Sets, Cellular Automata, Neural Nets and Random Walks”, _American Journal of Physics_, 61: 50–53. doi:10.1119/1.17409
-* Fredkin, Edward, 1990, “Digital Mechanics: An Information Process Based on Reversible Universal Cellular Automata”, _Physica D_, 45(1–3): 254–270. doi:10.1016/0167-2789(90)90186-S
-* –––, 1993, “A New Cosmogony”, in _PhysComp ’92: Proceedings of the Workshop on Physics and Computation_, IEEE Computer Society Press, pp. 116–121. doi:10.1109/PHYCMP.1992.615507
-* Fredkin, Edward and Tommaso Toffoli, 1982, “Conservative Logic”, _International Journal of Theoretical Physics_, 21(3–4): 219–253. doi:10.1007/BF01857727
-* Gell-Mann, Murray, 1994, _The Quark and the Jaguar: Adventures in the Simple and the Complex_, New York: W.H. Freeman and Company.
-* Grattarola, Daniele, Lorenzo Livi and Cesare Alippi, 2021, “Learning Graph Cellular Automata”, _Advances in Neural Information Processing Systems_, 34: 20983–20994.
-* Grim, Patrick, 1997, “The Undecidability of the Spatialized Prisoner’s Dilemma”, _Theory and Decision_, 42: 53–80.
-* Grim, Patrick, Evan Selinger, William Braynen, Robert Rosenberger, Randy Au, Nancy Louie and John Connolly, 2005, “Modeling Prejudice Reduction: Spatialized Game Theory and the Contact Hypothesis”, _Public Affairs Quarterly_, 19(2): 95–125.
-* Ha, David and Yujin Tang, 2022, “Collective Intelligence for Deep Learning: A Survey of Recent Developments”, _Collective Intelligence_, 1(1). doi:10.1177/26339137221114874
-* Hanson, James E. and James P. Crutchfield, 1992, “The Attractor-Basin Portrait of a Cellular Automaton”, _Journal of Statistical Physics_, 66(5–6): 1415–1462. doi:10.1007/BF01054429
+* Dowker, Fay, 2003, “Real Time”, *New Scientist*, 180(2415): 36–39.
+* Epstein, Joshua M., 1999, “Agent-Based Computational Models and Generative Social Science”, *Complexity*, 4(5): 41–60. doi:10.1002/(SICI)1099-0526(199905/06)4:5<41::AID-CPLX9>3.0.CO;2-F
+* Feynman, Richard P., 1965, *The Character of Physical Law*, Cambridge, MA: MIT Press.
+* Floridi, Luciano, 2009, “Against Digital Ontology”, *Synthese*, 168(1): 151–178. doi:10.1007/s11229-008-9334-6
+* Franceschetti, Donald R., D. Wayne Jones, Bruce W. Campbell and John W. Hamneken, 1992, “Hamming Nets, Ising Sets, Cellular Automata, Neural Nets and Random Walks”, *American Journal of Physics*, 61: 50–53. doi:10.1119/1.17409
+* Fredkin, Edward, 1990, “Digital Mechanics: An Information Process Based on Reversible Universal Cellular Automata”, *Physica D*, 45(1–3): 254–270. doi:10.1016/0167-2789(90)90186-S
+* –––, 1993, “A New Cosmogony”, in *PhysComp ’92: Proceedings of the Workshop on Physics and Computation*, IEEE Computer Society Press, pp. 116–121. doi:10.1109/PHYCMP.1992.615507
+* Fredkin, Edward and Tommaso Toffoli, 1982, “Conservative Logic”, *International Journal of Theoretical Physics*, 21(3–4): 219–253. doi:10.1007/BF01857727
+* Gell-Mann, Murray, 1994, *The Quark and the Jaguar: Adventures in the Simple and the Complex*, New York: W.H. Freeman and Company.
+* Grattarola, Daniele, Lorenzo Livi and Cesare Alippi, 2021, “Learning Graph Cellular Automata”, *Advances in Neural Information Processing Systems*, 34: 20983–20994.
+* Grim, Patrick, 1997, “The Undecidability of the Spatialized Prisoner’s Dilemma”, *Theory and Decision*, 42: 53–80.
+* Grim, Patrick, Evan Selinger, William Braynen, Robert Rosenberger, Randy Au, Nancy Louie and John Connolly, 2005, “Modeling Prejudice Reduction: Spatialized Game Theory and the Contact Hypothesis”, *Public Affairs Quarterly*, 19(2): 95–125.
+* Ha, David and Yujin Tang, 2022, “Collective Intelligence for Deep Learning: A Survey of Recent Developments”, *Collective Intelligence*, 1(1). doi:10.1177/26339137221114874
+* Hanson, James E. and James P. Crutchfield, 1992, “The Attractor-Basin Portrait of a Cellular Automaton”, *Journal of Statistical Physics*, 66(5–6): 1415–1462. doi:10.1007/BF01054429
 * Hardy, Lucien, 2005, “Why is Nature Described by Quantum Physics”, in Barrow, Davies, & Harper 2005: 45–71.
-* Hedlund, G.A., 1969, “Endomorphisms and Automorphisms of the Shift Dynamical System”, _Mathematical Systems Theory_, 3(4): 51–59. doi:10.1007/BF01691062
-* ’t Hooft, Gerard, 1997, _In Search of the Ultimate Building Blocks_, Cambridge: Cambridge University Press.
-* Hordijk, Wim, James P. Crutchfield, and Melanie Mitchell, 1996, “Embedded Particle Computation in Evolved Cellular Automata”, in _Proceedings of the Conference on Physics and Computation_, T. Toffoli, M. Biafore and J. Leao (eds.), Boston: New England Complex Systems Institute, pp. 153–158.
-* Ilachinski, Andrew, 2001, _Cellular Automata_, Singapore: World Scientific Publishing.
-* –––, 2004, _Artificial War. Multiagent-Based Simulation of Combat_, Singapore: World Scientific Publishing.
-* Ingerson, T.E. and R.L. Buvel, 1984, “Structure in Asynchronous Cellular Automata”, _Physica D_, 10(1–2): 59–68. doi:10.1016/0167-2789(84)90249-5
-* Kauffman, Stuart A., 1984, “Emergent Properties in Random Complex Automata”, _Physica D_, 10(1–2): 145–156. doi:10.1016/0167-2789(84)90257-4
-* Kelso, J.A. Scott, 1995, _Dynamic Patterns: The Self-Organization of Brain and Behavior_, Cambridge, MA: MIT Press.
-* Kier, Lemont B., Paul G. Seybold, and Chao-Kun Cheng, 2005, _Modeling Chemical Systems using Cellular Automata_, Dordrecht: Springer.
-* Kim, Jaegwon, 1999, “Making Sense of Emergence”, _Philosophical Studies_, 95(1/2): 3–36. doi:10.1023/A:1004563122154
-* Land, Mark and Richard K. Belew, 1995, “No Perfect Two-State Cellular Automata for Density Classification Exist”, _Physical Review Letters_, 74(25): 1548–1550. doi:10.1103/PhysRevLett.74.5148
-* Landauer, R., 1961, “Irreversibility and Heat Generation in the Computing Process”, _IBM Journal of Research and Develop men_, 5(3): 183–191.
-* Langton, Chris G., 1990, “Computation at the Edge of Chaos: Phase Transitions and Emergent Computation”, _Physica D_, 42(1–3): 12–37. doi:10.1016/0167-2789(90)90064-V
-* Lárragaa, M.E., J.A. del Ríob, and L. Alvarez-lcaza, 2005, “Cellular Automata for One-Lane Traffic Flow Modeling”, _Transportation Research Part C: Emerging Technologies_, 13(1): 63–74. doi:10.1016/j.trc.2004.12.001
-* Lee, T.D., 1986, “Solutions of Discrete Mechanics Near the Continuum Limit”, in _Rationale of Being: Recent Developments in Particle, Nuclear, and General Physics, Festschrift in honor of Gyō Takeda_, Kenzo Ishikawa _et al_. (eds.), Singapore: World Scientific Publishing.
-* Lewis, David, 1973, _Counterfactuals_, Oxford: Blackwell Publishers.
-* –––, 1994, “Humean Supervenience Debugged”, _Mind_, 103(412): 473–490. doi:10.1093/mind/103.412.473
-* Malament, David B., 2006, “Classical General Relativity”, In Jeremy Butterfield & John Earman (eds.), _Philosophy of Physics_, (Handbook of the Philosophy of Science), Amsterdam: Elsevier. doi:10.1016/B978-044451560-5/50006-3
-* Miller, John H. and Scott E. Page, 2007, _Complex Adaptive System_, Princeton, NJ: Princeton University Press.
-* Mitchell, Melanie, 1998, _An Introduction to Genetic Algorithms_, Cambridge, MA: MIT Press.
-* –––, 2009, _Complexity: A Guided Tour_, Oxford: Oxford University Press.
-* Mitchell, Melanie, James P. Crutchfield, and Rajarshi Das, 1996, “Evolving Cellular Automata with Genetic Algorithm: A Review of Recent Works”, in _Proceedings of the First International Conference on Evolutionary Computation and Its Applications_, Russian Academy of Science. \[[Mitchell, Crutchfield, & Das 1996 preprint available online](http://csc.ucdavis.edu/\~evca/Papers/evca-review.html)]
-* Mitchell, Melanie, Peter T. Hraber, and James P. Crutchfield, 1994, “Revisiting the Edge of Chaos: Evolving Cellular Automata to Perform Computations”, _Complex Systems_, 7(2): 89–130.
-* Moore, Christopher, 1996, “Recursion Theory on the Reals and Continuous-Time Computation”, _Theoretical Computer Science_, 162(1): 23–44. doi:10.1016/0304-3975(95)00248-0
-* Moore, E.F., 1962, “Machine Models of Self-Reproduction”, _Proceedings of Symposia in Applied Mathematics_, 14: 17–33.
-* Mordvintsev, Alexander, Ettore Randazzo, Eyvind Niklasson and Michael Levin, 2020, “Growing Neural Cellular Automata”, _Distill_. doi:10.23915/distill.00023.
-* Myhill, John, 1963, “The Converse of Moore’s Garden-of-Eden Theorem”, _Proceedings of the American Mathematical Society_, 14(4): 685–686. doi:10.1090/S0002-9939-1963-0155764-9
-* O’Connor, Timothy and Wong, Hong Yu, 2015, “Emergent Properties”, _The Stanford Encyclopedia of Philosophy_, (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/properties-emergent/](https://plato.stanford.edu/archives/sum2015/entries/properties-emergent/)
-* Packard, Norman H., 1988, “Adaptation toward the Edge of Chaos”, in _Dynamic Patterns in Complex Systems_, J.A. Scott Kelso, Arnold J. Mandell and Michael F. Schlesinger (eds.), Singapore: World Scientific Publishing, pp. 293–301.
-* Piccinini, Gualtiero, 2010, “Computation in Physical Systems”, _The Stanford Encyclopedia of Philosophy_, (Fall 2010 Edition), Edward N. Zalta (ed.), URL = <[Computation in Physical Systems (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/computation-physicalsystems/)>
-* Poincaré, Henri, 1914, _Science and Method_, New York: Nelsons and Sons.
-* Putnam, Hilary, 1988, _Representation and Reality_, Cambridge, MA: MIT Press.
-* Richards, Fred C., Thomas P. Meyer, and Norman H. Packard, 1990, “Extracting Cellular Automaton Rules Directly from Experimental Data”, _Physica D_, 45(1–3): 189–202. doi:10.1016/0167-2789(90)90182-O
-* Schelling, Thomas C., 1978, _Micromotives and Macrobehavior_, New York: Norton.
-* Searle, John R., 1992, _The Rediscovery of the Mind_, Cambridge, MA: MIT Press.
-* Svozil, Karl, 1987, “Are Quantum Fields Cellular Automata?”, _Physics Letters_, 119(4): 153–6. doi:10.1016/0375-9601(86)90436-6
-* Teller, Paul, 1992, “A Contemporary Look at Emergence”, in _Emergence or Reduction? Essays on the Prospects of Nonreductive Physicalism_, Ansgar Beckermann, Hans Flohr and Jaegwon Kim (eds.), Berlin: Walter de Gruyter. doi:10.1515/9783110870084.139
-* Thompson, Evan, 2007, _Mind in Life. Biology, Phenomenology, and the Sciences of Mind_, Cambridge, MA: Harvard University Press.
-* Toffoli, Tommaso, 1977, “Computation and Construction Universality of Reversible Cellular Automata”, _Journal of Computer and System Science_, 15(2): 213–231. doi:10.1016/S0022-0000(77)80007-X
-* –––, 1984, “Cellular Automata as an Alternative to (Rather Than an Approximation of) Differential Equations in Modeling Physics”, _Physica D_, 10(1–2): 117–127. doi:10.1016/0167-2789(84)90254-9
-* Toffoli, Tommaso and Norman H. Margolus, 1990, “Invertible Cellular Automata: A review”, _Physica D_, 45(1–3): 229–253. doi:10.1016/0167-2789(90)90185-R
-* Turing, Alan M., 1936, “On Computable Numbers with an Application to the Entscheideungproblem”, _Proceeding of the London Mathematical Society_, 42: 230–265. doi:10.1112/plms/s2-42.1.230
-* Vichniac, Gérard Y., 1984, “Simulating Physics With Cellular Automata”, _Physica D_, 10(1–2): 96–110. doi:10.1016/0167-2789(84)90253-7
-* Von Neumann, John, 1951, “The General and Logical Theory of Automata”, in _Cerebral Mechanisms in Behavior: The Hixon Symposium_, New York: John Wiley & Sons.
-* Wheeler, John Archibald, 1990, “Information, Physics, Quantum: The Search for Links”, in _Complexity, Entropy, and the Physics of Information_, Wojciech H. Zurek (ed.), Boston: Addison-Wesley.
-* Wolfram, S., 1983, “Statistical Mechanics of Cellular Automata”, _Reviews of Modern Physics_, 55(3): 601–644. doi:10.1103/RevModPhys.55.601
-* –––, 2002, _A New Kind of Science_, Champaign, IL: Wolfram Media.
-* Xiao, Xuan, Pu Wang, and Kuo-Chen Chou, 2011, “Cellular Automata and Its Applications in Protein Bioinformatics”, _Current Protein & Peptide Science_, 12(6): 508–19. doi:10.2174/138920311796957720
-* Zaheer, Manzil, Michael Wick, Jean-Baptiste Tristan, Alex Smola, and Guy L. Steele, 2016, “Exponential Stochastic Cellular Automata for Massively Parallel Inference”, _Proceedings of the 19th International Conference on Artificial Intelligence and Statistics_, PMLR 51: 966–975. \[[Zaheer et al. 2016 available online](http://proceedings.mlr.press/v51/zaheer16.html)]
-* Zuse, Konrad, 1982, “The Computing Universe”, _International Journal of Theoretical Physics_, 21(6–7): 589–600. doi:10.1007/BF02650187
+* Hedlund, G.A., 1969, “Endomorphisms and Automorphisms of the Shift Dynamical System”, *Mathematical Systems Theory*, 3(4): 51–59. doi:10.1007/BF01691062
+* ’t Hooft, Gerard, 1997, *In Search of the Ultimate Building Blocks*, Cambridge: Cambridge University Press.
+* Hordijk, Wim, James P. Crutchfield, and Melanie Mitchell, 1996, “Embedded Particle Computation in Evolved Cellular Automata”, in *Proceedings of the Conference on Physics and Computation*, T. Toffoli, M. Biafore and J. Leao (eds.), Boston: New England Complex Systems Institute, pp. 153–158.
+* Ilachinski, Andrew, 2001, *Cellular Automata*, Singapore: World Scientific Publishing.
+* –––, 2004, *Artificial War. Multiagent-Based Simulation of Combat*, Singapore: World Scientific Publishing.
+* Ingerson, T.E. and R.L. Buvel, 1984, “Structure in Asynchronous Cellular Automata”, *Physica D*, 10(1–2): 59–68. doi:10.1016/0167-2789(84)90249-5
+* Kauffman, Stuart A., 1984, “Emergent Properties in Random Complex Automata”, *Physica D*, 10(1–2): 145–156. doi:10.1016/0167-2789(84)90257-4
+* Kelso, J.A. Scott, 1995, *Dynamic Patterns: The Self-Organization of Brain and Behavior*, Cambridge, MA: MIT Press.
+* Kier, Lemont B., Paul G. Seybold, and Chao-Kun Cheng, 2005, *Modeling Chemical Systems using Cellular Automata*, Dordrecht: Springer.
+* Kim, Jaegwon, 1999, “Making Sense of Emergence”, *Philosophical Studies*, 95(1/2): 3–36. doi:10.1023/A:1004563122154
+* Land, Mark and Richard K. Belew, 1995, “No Perfect Two-State Cellular Automata for Density Classification Exist”, *Physical Review Letters*, 74(25): 1548–1550. doi:10.1103/PhysRevLett.74.5148
+* Landauer, R., 1961, “Irreversibility and Heat Generation in the Computing Process”, *IBM Journal of Research and Develop men*, 5(3): 183–191.
+* Langton, Chris G., 1990, “Computation at the Edge of Chaos: Phase Transitions and Emergent Computation”, *Physica D*, 42(1–3): 12–37. doi:10.1016/0167-2789(90)90064-V
+* Lárragaa, M.E., J.A. del Ríob, and L. Alvarez-lcaza, 2005, “Cellular Automata for One-Lane Traffic Flow Modeling”, *Transportation Research Part C: Emerging Technologies*, 13(1): 63–74. doi:10.1016/j.trc.2004.12.001
+* Lee, T.D., 1986, “Solutions of Discrete Mechanics Near the Continuum Limit”, in *Rationale of Being: Recent Developments in Particle, Nuclear, and General Physics, Festschrift in honor of Gyō Takeda*, Kenzo Ishikawa *et al*. (eds.), Singapore: World Scientific Publishing.
+* Lewis, David, 1973, *Counterfactuals*, Oxford: Blackwell Publishers.
+* –––, 1994, “Humean Supervenience Debugged”, *Mind*, 103(412): 473–490. doi:10.1093/mind/103.412.473
+* Malament, David B., 2006, “Classical General Relativity”, In Jeremy Butterfield & John Earman (eds.), *Philosophy of Physics*, (Handbook of the Philosophy of Science), Amsterdam: Elsevier. doi:10.1016/B978-044451560-5/50006-3
+* Miller, John H. and Scott E. Page, 2007, *Complex Adaptive System*, Princeton, NJ: Princeton University Press.
+* Mitchell, Melanie, 1998, *An Introduction to Genetic Algorithms*, Cambridge, MA: MIT Press.
+* –––, 2009, *Complexity: A Guided Tour*, Oxford: Oxford University Press.
+* Mitchell, Melanie, James P. Crutchfield, and Rajarshi Das, 1996, “Evolving Cellular Automata with Genetic Algorithm: A Review of Recent Works”, in *Proceedings of the First International Conference on Evolutionary Computation and Its Applications*, Russian Academy of Science. \[[Mitchell, Crutchfield, & Das 1996 preprint available online](http://csc.ucdavis.edu/\~evca/Papers/evca-review.html)]
+* Mitchell, Melanie, Peter T. Hraber, and James P. Crutchfield, 1994, “Revisiting the Edge of Chaos: Evolving Cellular Automata to Perform Computations”, *Complex Systems*, 7(2): 89–130.
+* Moore, Christopher, 1996, “Recursion Theory on the Reals and Continuous-Time Computation”, *Theoretical Computer Science*, 162(1): 23–44. doi:10.1016/0304-3975(95)00248-0
+* Moore, E.F., 1962, “Machine Models of Self-Reproduction”, *Proceedings of Symposia in Applied Mathematics*, 14: 17–33.
+* Mordvintsev, Alexander, Ettore Randazzo, Eyvind Niklasson and Michael Levin, 2020, “Growing Neural Cellular Automata”, *Distill*. doi:10.23915/distill.00023.
+* Myhill, John, 1963, “The Converse of Moore’s Garden-of-Eden Theorem”, *Proceedings of the American Mathematical Society*, 14(4): 685–686. doi:10.1090/S0002-9939-1963-0155764-9
+* O’Connor, Timothy and Wong, Hong Yu, 2015, “Emergent Properties”, *The Stanford Encyclopedia of Philosophy*, (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/properties-emergent/](https://plato.stanford.edu/archives/sum2015/entries/properties-emergent/)
+* Packard, Norman H., 1988, “Adaptation toward the Edge of Chaos”, in *Dynamic Patterns in Complex Systems*, J.A. Scott Kelso, Arnold J. Mandell and Michael F. Schlesinger (eds.), Singapore: World Scientific Publishing, pp. 293–301.
+* Piccinini, Gualtiero, 2010, “Computation in Physical Systems”, *The Stanford Encyclopedia of Philosophy*, (Fall 2010 Edition), Edward N. Zalta (ed.), URL = <[Computation in Physical Systems (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/computation-physicalsystems/)>
+* Poincaré, Henri, 1914, *Science and Method*, New York: Nelsons and Sons.
+* Putnam, Hilary, 1988, *Representation and Reality*, Cambridge, MA: MIT Press.
+* Richards, Fred C., Thomas P. Meyer, and Norman H. Packard, 1990, “Extracting Cellular Automaton Rules Directly from Experimental Data”, *Physica D*, 45(1–3): 189–202. doi:10.1016/0167-2789(90)90182-O
+* Schelling, Thomas C., 1978, *Micromotives and Macrobehavior*, New York: Norton.
+* Searle, John R., 1992, *The Rediscovery of the Mind*, Cambridge, MA: MIT Press.
+* Svozil, Karl, 1987, “Are Quantum Fields Cellular Automata?”, *Physics Letters*, 119(4): 153–6. doi:10.1016/0375-9601(86)90436-6
+* Teller, Paul, 1992, “A Contemporary Look at Emergence”, in *Emergence or Reduction? Essays on the Prospects of Nonreductive Physicalism*, Ansgar Beckermann, Hans Flohr and Jaegwon Kim (eds.), Berlin: Walter de Gruyter. doi:10.1515/9783110870084.139
+* Thompson, Evan, 2007, *Mind in Life. Biology, Phenomenology, and the Sciences of Mind*, Cambridge, MA: Harvard University Press.
+* Toffoli, Tommaso, 1977, “Computation and Construction Universality of Reversible Cellular Automata”, *Journal of Computer and System Science*, 15(2): 213–231. doi:10.1016/S0022-0000(77)80007-X
+* –––, 1984, “Cellular Automata as an Alternative to (Rather Than an Approximation of) Differential Equations in Modeling Physics”, *Physica D*, 10(1–2): 117–127. doi:10.1016/0167-2789(84)90254-9
+* Toffoli, Tommaso and Norman H. Margolus, 1990, “Invertible Cellular Automata: A review”, *Physica D*, 45(1–3): 229–253. doi:10.1016/0167-2789(90)90185-R
+* Turing, Alan M., 1936, “On Computable Numbers with an Application to the Entscheideungproblem”, *Proceeding of the London Mathematical Society*, 42: 230–265. doi:10.1112/plms/s2-42.1.230
+* Vichniac, Gérard Y., 1984, “Simulating Physics With Cellular Automata”, *Physica D*, 10(1–2): 96–110. doi:10.1016/0167-2789(84)90253-7
+* Von Neumann, John, 1951, “The General and Logical Theory of Automata”, in *Cerebral Mechanisms in Behavior: The Hixon Symposium*, New York: John Wiley & Sons.
+* Wheeler, John Archibald, 1990, “Information, Physics, Quantum: The Search for Links”, in *Complexity, Entropy, and the Physics of Information*, Wojciech H. Zurek (ed.), Boston: Addison-Wesley.
+* Wolfram, S., 1983, “Statistical Mechanics of Cellular Automata”, *Reviews of Modern Physics*, 55(3): 601–644. doi:10.1103/RevModPhys.55.601
+* –––, 2002, *A New Kind of Science*, Champaign, IL: Wolfram Media.
+* Xiao, Xuan, Pu Wang, and Kuo-Chen Chou, 2011, “Cellular Automata and Its Applications in Protein Bioinformatics”, *Current Protein & Peptide Science*, 12(6): 508–19. doi:10.2174/138920311796957720
+* Zaheer, Manzil, Michael Wick, Jean-Baptiste Tristan, Alex Smola, and Guy L. Steele, 2016, “Exponential Stochastic Cellular Automata for Massively Parallel Inference”, *Proceedings of the 19th International Conference on Artificial Intelligence and Statistics*, PMLR 51: 966–975. \[[Zaheer et al. 2016 available online](http://proceedings.mlr.press/v51/zaheer16.html)]
+* Zuse, Konrad, 1982, “The Computing Universe”, *International Journal of Theoretical Physics*, 21(6–7): 589–600. doi:10.1007/BF02650187
 
 ## Academic Tools
 
@@ -774,12 +773,12 @@ Miller & Page 2007 and Mitchell 2009 both contain a chapter devoted to CA: they 
 * [Cellular Automata](http://mathworld.wolfram.com/CellularAutomaton.html), MathWorld.
 * [Game of Life](http://mathworld.wolfram.com/GameofLife.html), MathWorld.
 * [Cellular Automata](http://en.wikipedia.org/wiki/Cellular\automaton), Wikipedia.
-* [_Rule 110_](http://www.wolframalpha.com/input/?i=rule+110), WolframAlpha.
+* [*Rule 110*](http://www.wolframalpha.com/input/?i=rule+110), WolframAlpha.
 * [Game of Life](http://en.wikipedia.org/wiki/Conway's\Game\of\Life), Wikipedia.
-* [NetLogo](http://ccl.northwestern.edu/netlogo/), an easy-to-use Java-based platform, already containing examples of CA (the pictures in this entry were generated using _NetLogo_; code available under request)
+* [NetLogo](http://ccl.northwestern.edu/netlogo/), an easy-to-use Java-based platform, already containing examples of CA (the pictures in this entry were generated using *NetLogo*; code available under request)
 * [MMoR](http://www.mmdr.it/provaEN.asp), contains a tutorial, simulations of a 2D/3D universal reversible automaton and further references.
-* [Santa Fe Institute](https://www.santafe.edu/), founded in 1984, the first research center on _complex systems_; it has been playing since then a prominent role in shaping the field.
-* [Turing machine in _Life_](http://rendell-attic.org/gol/tm.htm), Paul Rendell’s web page.
+* [Santa Fe Institute](https://www.santafe.edu/), founded in 1984, the first research center on *complex systems*; it has been playing since then a prominent role in shaping the field.
+* [Turing machine in *Life*](http://rendell-attic.org/gol/tm.htm), Paul Rendell’s web page.
 
 ## Related Entries
 
@@ -790,5 +789,5 @@ Miller & Page 2007 and Mitchell 2009 both contain a chapter devoted to CA: they 
 The authors would like to thank three anonymous referees, Scott Aaronson, Anouk Barberousse, Matteo Colombo, Michele Di Francesco, Cyrille Imbert, Giulia Livio, Massimo Mastrangeli, Mattia Pavoni, Andrea Polonioli, Gabriele Rossi, Marta Rossi, Katherine Yoshida for helpful comments, discussions, suggestions, and references, and Dr. Robert Plant for checking our English.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[_fb96@st-andrews.ac.uk_](mailto:fb96%40st-andrews%2eac%2euk)>\
-Jacopo Tagliabue <[_tagliabue.jacopo@gmail.com_](mailto:tagliabue%2ejacopo%40gmail%2ecom)>
+[Francesco Berto](http://www.st-andrews.ac.uk/philosophy/people/fb96) <[*fb96@st-andrews.ac.uk*](mailto:fb96%40st-andrews%2eac%2euk)>\
+Jacopo Tagliabue <[*tagliabue.jacopo@gmail.com*](mailto:tagliabue%2ejacopo%40gmail%2ecom)>

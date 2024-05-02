@@ -1,6 +1,6 @@
 # 儿童哲学 children, philosophy for (Michael Pritchard)
 
-_首次发表于 2002 年 5 月 2 日星期四；实质性修订于 2022 年 5 月 27 日星期五_
+*首次发表于 2002 年 5 月 2 日星期四；实质性修订于 2022 年 5 月 27 日星期五*
 
 在美国，哲学通常在大学阶段正式进入课程。越来越多的高中为即将上大学的学生提供一些哲学导论，通常是在专门为大学生开设的文学课程中。在欧洲和许多其他国家，高中课程中更常见地出现哲学。然而，在全球范围内，高中之前的哲学教育似乎相对不太普遍。这可能表明，严肃的哲学思维并不适合青少年。至少有三个理由可以支持这种观点。首先，哲学思维需要一定程度的认知发展，人们可能认为，这超出了大多数青少年的能力范围。其次，特别是在美国，学校课程已经很繁重；引入哲学这样的学科可能会让学生分心，无法专注于他们需要学习的内容。第三，鉴于哲学探究引发的问题往往难以得出明确答案，这可能会鼓励学生成为怀疑论者而非学习者。然而，正如将要看到的，这些理由是可以被质疑的。
 
@@ -36,7 +36,7 @@ _首次发表于 2002 年 5 月 2 日星期四；实质性修订于 2022 年 5 �
 
 稍后他们遇到了丽莎和劳拉。哈里告诉女孩们发生了什么事，以及他为什么感到困惑。“这让我想起了，”丽莎说，“去年我们学习的时候，有些句子可以改变顺序但仍然是真的，而另一些则会变成假的。”
 
-“是的，”哈里同意道，“但在那里我们找到了一个规则。这里的规则是什么？”丽莎甩动她的长发，让它垂在右肩上。“看起来有时候归还我们得到的是正确的，而有时候是错误的。但我们如何分辨哪个是哪个？”（_丽莎_，第 23-24 页）
+“是的，”哈里同意道，“但在那里我们找到了一个规则。这里的规则是什么？”丽莎甩动她的长发，让它垂在右肩上。“看起来有时候归还我们得到的是正确的，而有时候是错误的。但我们如何分辨哪个是哪个？”（*丽莎*，第 23-24 页）
 
 这段文字是对探索互惠道德细微差别的邀请，或者说“以牙还牙”。10-11 岁的孩子们可能会对此有什么看法呢？以下是一组五年级学生（普里查德 1996 年）对_丽莎_段落进行了长时间讨论的片段。在老师几乎没有提示的情况下，学生们提出并积极追问了以下问题：
 
@@ -94,7 +94,7 @@ Chip: “一个活着的人可能是一只鲸鱼。”
 
 %%
 
-杰夫: “我说，_某人_，不是动物....”
+杰夫: “我说，*某人*，不是动物....”
 
 Chip：“你可以检查图书馆里的每一本书——嗯，关于我们的每一本书……。”
 
@@ -194,9 +194,9 @@ Kurt：“这会说我们还不确定。”
 
 鉴于国际对儿童哲学日益扩大的兴趣，国际儿童哲学探究理事会（ICPIC）成立于 1985 年。ICPIC 继续每隔一年赞助一次国际会议，主办地包括澳大利亚，奥地利，巴西，英格兰，墨西哥，西班牙（两次）和台湾。
 
-即使 IAPC 的先驱 Matthew Lipman（2010 年）和 Ann Margaret Sharp（2011 年）去世后，现在由 Maughn Gregory 和其他人领导，IAPC 在 ICPIC 中仍保持强大的存在。然而，许多 ICPIC 成员现在已经建立了自己的机构结构，并建立了中心、协会和项目。在北美，有北美探究社区协会（NAACI），每隔一年聚集一次（ICPIC 不开会的年份）。在最初得到美国哲学协会预大学哲学委员会的支持下，成立了 PLATO（哲学学习和教学组织）。现在，PLATO 是由 Squire Family Foundation 支持的非营利组织，赞助每年的会议，2022 年，华盛顿大学儿童哲学中心和 PLATO 合并。PLATO 还赞助两份期刊：_Questions_和在线_Precollege Philosophy and Public Practice_。澳大利亚和新西兰组织在澳新学校哲学协会联合会（FAPSA）下，每年举行会议，并出版_Journal for Philosophy in Schools_作为其官方期刊（Burgh 和 Thornton，2016 年）。1992 年，英国牛津成立了哲学探究和反思教育协会（SAPERE）。2007 年，英格兰的哲学基金会成立（Worley，2011 年）。自 2005 年以来，期刊_Philosophy and Childhood_由 ICPIC 和里约热内卢州立大学（UERJ）教育研究生项目赞助。这些组织与世界各地的许多其他中心和经验丰富的从业者一起，继续支持教师培训项目，使他们能够在常规课堂内外向成千上万的儿童介绍哲学。
+即使 IAPC 的先驱 Matthew Lipman（2010 年）和 Ann Margaret Sharp（2011 年）去世后，现在由 Maughn Gregory 和其他人领导，IAPC 在 ICPIC 中仍保持强大的存在。然而，许多 ICPIC 成员现在已经建立了自己的机构结构，并建立了中心、协会和项目。在北美，有北美探究社区协会（NAACI），每隔一年聚集一次（ICPIC 不开会的年份）。在最初得到美国哲学协会预大学哲学委员会的支持下，成立了 PLATO（哲学学习和教学组织）。现在，PLATO 是由 Squire Family Foundation 支持的非营利组织，赞助每年的会议，2022 年，华盛顿大学儿童哲学中心和 PLATO 合并。PLATO 还赞助两份期刊：*Questions_和在线_Precollege Philosophy and Public Practice*。澳大利亚和新西兰组织在澳新学校哲学协会联合会（FAPSA）下，每年举行会议，并出版_Journal for Philosophy in Schools_作为其官方期刊（Burgh 和 Thornton，2016 年）。1992 年，英国牛津成立了哲学探究和反思教育协会（SAPERE）。2007 年，英格兰的哲学基金会成立（Worley，2011 年）。自 2005 年以来，期刊_Philosophy and Childhood_由 ICPIC 和里约热内卢州立大学（UERJ）教育研究生项目赞助。这些组织与世界各地的许多其他中心和经验丰富的从业者一起，继续支持教师培训项目，使他们能够在常规课堂内外向成千上万的儿童介绍哲学。
 
-尽管继续使用 IAPC 材料，但近年来出现了大量替代教学资源和参与儿童哲学讨论的方式。多年来，加雷斯·马修斯（Gareth Matthews）为《思考》（_Thinking_）撰写了儿童故事评论，后者是 IAPC 的官方期刊（尽管 IAPC 自己的教材没有利用其他儿童文学）。这激发了汤姆·瓦滕伯格（Tom Wartenberg）（2009 年，2013 年）在马萨诸塞州的霍利奥克学院（Mt. Holyoke College）开发他备受好评的大学前哲学课程，这个获奖项目以经典儿童故事为基础。他的网站提供了大量关于儿童文学的材料，旨在为那些希望与儿童进行哲学探讨的人提供指导。卡伦·默里斯（Karen Murris）是利普曼（Lipman）抵制使用插图材料的早期反对者（Morris，1992 年）。她和约翰娜·海恩斯（Johana Haynes）详细介绍了图画书的哲学重要性（Murris and Haynes，2012 年和 Murris，2016 年）。英格兰哲学基金会负责人彼得·沃利（Peter Worley）为教师和学生撰写了几本激发人心的书籍，没有使用 IAPC 材料。澳大利亚的菲尔·卡姆（Phil Cam）汇编了一系列适合与儿童进行哲学讨论的故事。简言之，有一个迅速增长的资源清单，展现了在儿童哲学讨论中引人入胜的巨大潜力。（例如，参见 DeHaan 等，1995 年；Fisher，1998 年；Keen，1997 年；Lewis 和 Chandley，2012 年；Lone，2012 年和 2021 年；McCall，2009 年；Murris，1992 年，2016 年；Sprod，2001 年和 White，2000 年）。《问题：青少年哲学》（_Questions: Philosophy for Young People_）是由美国哲学协会大学前哲学委员会赞助的期刊，刊登了青少年关于特定哲学主题的文章。第一期（2001 年春季）聚焦于儿童权利。
+尽管继续使用 IAPC 材料，但近年来出现了大量替代教学资源和参与儿童哲学讨论的方式。多年来，加雷斯·马修斯（Gareth Matthews）为《思考》（*Thinking*）撰写了儿童故事评论，后者是 IAPC 的官方期刊（尽管 IAPC 自己的教材没有利用其他儿童文学）。这激发了汤姆·瓦滕伯格（Tom Wartenberg）（2009 年，2013 年）在马萨诸塞州的霍利奥克学院（Mt. Holyoke College）开发他备受好评的大学前哲学课程，这个获奖项目以经典儿童故事为基础。他的网站提供了大量关于儿童文学的材料，旨在为那些希望与儿童进行哲学探讨的人提供指导。卡伦·默里斯（Karen Murris）是利普曼（Lipman）抵制使用插图材料的早期反对者（Morris，1992 年）。她和约翰娜·海恩斯（Johana Haynes）详细介绍了图画书的哲学重要性（Murris and Haynes，2012 年和 Murris，2016 年）。英格兰哲学基金会负责人彼得·沃利（Peter Worley）为教师和学生撰写了几本激发人心的书籍，没有使用 IAPC 材料。澳大利亚的菲尔·卡姆（Phil Cam）汇编了一系列适合与儿童进行哲学讨论的故事。简言之，有一个迅速增长的资源清单，展现了在儿童哲学讨论中引人入胜的巨大潜力。（例如，参见 DeHaan 等，1995 年；Fisher，1998 年；Keen，1997 年；Lewis 和 Chandley，2012 年；Lone，2012 年和 2021 年；McCall，2009 年；Murris，1992 年，2016 年；Sprod，2001 年和 White，2000 年）。《问题：青少年哲学》（*Questions: Philosophy for Young People*）是由美国哲学协会大学前哲学委员会赞助的期刊，刊登了青少年关于特定哲学主题的文章。第一期（2001 年春季）聚焦于儿童权利。
 
 幸运的是，互联网使我们能够比较及时地了解全球最新发展，并与其他对儿童哲学感兴趣的教育工作者快速交流。不幸的是，许多这些网站似乎很短命。然而，请参阅下面的互联网资源部分，了解一些可靠的网站，并提供指向其他有用网站的链接。
 
@@ -204,109 +204,109 @@ Kurt：“这会说我们还不确定。”
 
 ### Books and Articles
 
-* Astington, Janet Wilde, 1993, _The Child’s Discovery of the Mind_ Cambridge, MA: Harvard University Press.
-* Burgh, Gilbert and Simone Thornton, 2016, “Philosophy Goes to School in Australia: A History 1982–2016,” _Journal of Philosophy in Schools_, 3(1): 59–83.
-* Burgh, Gilbert and Simone Thornton (eds.), 2019, _Philosophical Inquiry With Children: The Development of an Inquiring Society in Australia_, New York: Routledge.
-* Cam, Philip, 1995, _Thinking Together: Philosophical Inquiry for the Classroom_, Sydney: Primary English Teaching Association and Hale & Iremonger.
-* –––, 1993 (1994, 1997), _Thinking Stories 1, 2, and 3: Philosophical Inquiry for Children_, Sydney: Hare & Iremonger.
-* –––, 2006, _20 Thinking Tools_, Camberwell, Vic.: Australian Council for Educational Research.
-* –––, 2012, _Teaching Ethics in Schools_, Camberwell, Vic.: Australian Council for Educational Research.
-* Costello, Patrick J.M., 2000, _Thinking Skills and Early Childhood Education_, London: David Fulton Publishers.
-* Costello, Peter R. (ed.), 2012, _Philosophy in Children’s Literature_, Lanham, MD: Rowman & Littlefield.
-* DeCesare, Tony, 2012, “Contributions of High School Philosophy to Ethical and Democratic Education,” _Teaching Ethics_, 13(1): 1–16.
-* DeHaan, Chris; MacColl, San; and McCutcheon, Lucy, 1995, _Philosophy With Kids_, Books 1–4, Melbourne: Longman.
-* Dewey, John, 1991, _Reconstruction in Philosophy in John Dewey, the Middle Works, 1899–1924_ (Volume 12), Jo Ann Boydston (ed.), Carbondale: Southern Illinois Press.
-* Ennis, Robert, 1987, “A Conception of Critical Thinking--With Some Curriculum Suggestions,” _American Philosophical Association Newsletter on Teaching Philosophy_, Summer: 1–5.
+* Astington, Janet Wilde, 1993, *The Child’s Discovery of the Mind* Cambridge, MA: Harvard University Press.
+* Burgh, Gilbert and Simone Thornton, 2016, “Philosophy Goes to School in Australia: A History 1982–2016,” *Journal of Philosophy in Schools*, 3(1): 59–83.
+* Burgh, Gilbert and Simone Thornton (eds.), 2019, *Philosophical Inquiry With Children: The Development of an Inquiring Society in Australia*, New York: Routledge.
+* Cam, Philip, 1995, *Thinking Together: Philosophical Inquiry for the Classroom*, Sydney: Primary English Teaching Association and Hale & Iremonger.
+* –––, 1993 (1994, 1997), *Thinking Stories 1, 2, and 3: Philosophical Inquiry for Children*, Sydney: Hare & Iremonger.
+* –––, 2006, *20 Thinking Tools*, Camberwell, Vic.: Australian Council for Educational Research.
+* –––, 2012, *Teaching Ethics in Schools*, Camberwell, Vic.: Australian Council for Educational Research.
+* Costello, Patrick J.M., 2000, *Thinking Skills and Early Childhood Education*, London: David Fulton Publishers.
+* Costello, Peter R. (ed.), 2012, *Philosophy in Children’s Literature*, Lanham, MD: Rowman & Littlefield.
+* DeCesare, Tony, 2012, “Contributions of High School Philosophy to Ethical and Democratic Education,” *Teaching Ethics*, 13(1): 1–16.
+* DeHaan, Chris; MacColl, San; and McCutcheon, Lucy, 1995, *Philosophy With Kids*, Books 1–4, Melbourne: Longman.
+* Dewey, John, 1991, *Reconstruction in Philosophy in John Dewey, the Middle Works, 1899–1924* (Volume 12), Jo Ann Boydston (ed.), Carbondale: Southern Illinois Press.
+* Ennis, Robert, 1987, “A Conception of Critical Thinking--With Some Curriculum Suggestions,” *American Philosophical Association Newsletter on Teaching Philosophy*, Summer: 1–5.
 * Facione, Peter (ed.), 1989, “Report on Critical Thinking,” American Philosophical Association Subcommittee on Pre-College Philosophy, University of Delaware.
-* Figueroa, Robert and Goering, Sara, 1997, “The Summer Philosophy Institute of Colorado: Building Bridges,” _Teaching Philosophy_, 20(2): 155–168.
-* Fisher, Robert, 1998, _Teaching Thinking: Philosophical Inquiry in the Classroom_, London: Cassell.
-* Gaarder, Jostein, 1994, _Sophie’s World_: _A Novel About the History of Philosophy_, New York: Harper, Straus and Giroux.
-* Garcia-Moriyon, Felix; Robello, I; and Colom, R., 2005, “Evaluating Philosophy for Children: A Meta-analysis,” _Thinking: The Journal of Philosophy for Children_, 17(4): 14-22.
-* Garcia-Moriyon, Felix, 2017, “The Classroom as a Work of Art,” _Analytical Teaching and Philosophical Praxis_, 37(2): 1-12.
-* Gaut, Berys and Gaut, Morag, 2011, _Philosophy for Young Children: A Practical Guide_, London: Routledge.
-* Gilligan, Carol, 1982, _In a Different Voice: Psychological Theory and Women’s Development_, Cambridge, MA: Harvard University Press, 1982).
-* Glaser, Jen, 1992, “What’s So Special About This Story Anyway?” _Analytic Teaching_, 12(2): 45-52.
-* Goering, Sara; Shudak, Nicholas J.; and Wartenberg, Thomas, 2013, _Philosophy in Schools: An Introduction for Philosophers as Teachers_, New York: Routledge.
-* Gopnik, Alison, 2009, _The Philosophical Baby: What Children’s Minds Tell us About Truth, Love, and the Meaning of Life_, New York: Picador.
-* Gopnik, A., Kuhl, and Meltzoff, A., 1999, _The Scientist in the Crib: What Early Learning Tells us About the Mind_, New York: Perennial Books.
-* Goswami, Usha, 1998, _Cognition in Children_, East Sussex, UK: Psychology Press.
-* Gregory, Maughn, 2000, “Care as a Goal of Democratic Education,” _Journal of Moral Education_, 29(4): 445–461.
-* –––, 2008, _Philosophy for Children: Practitioner Handbook_, Montclair State University, NJ: Institute for the Advancement of Philosophy for Children.
-* –––, 2009, “Ethics Education and the Practice of Wisdom,” _Teaching Ethics_, 9(2): 105–130.
-* Gregory, Maughn and Johana Haynes, 2016, _The Routledge International Handbook of Philosophy for Children_, New York: Routledge.
-* Gregory, Maughn and Laverty, Megan Jane, 2017, _In community of Inquiry With Ann Margaret Sharp: Philosophy Childhood and Education_, New York: Routledge.
-* –––, 2022, _Gareth B. Matthews, The Child’s Philosopher_, New York: Routledge.
-* Hand, Michael and Winstanley, Carrie, 2009, _Philosophy in Schools_, New York: Continuum International Publishing Groups.
-* Haynes, Joanna, 2008, _Children as Philosophers_, 2nd edition, New York: Routledge.
-* Haynes, Johana and Murris, Karen, 2012, _Picturebooks, Pedagogy and Philosophy_, New York: Routledge.
-* Kohlberg, Lawrence, 1981, _The Philosophy of Moral Development: Essays on Moral Development_ (Volume 1), San Francisco: Harper & Row.
-* Keen, Judy, 1997, _Brain Strain 1 & 2_, Melbourne: MacMillan Education.
-* Kennedy, David, 2005, _The Well of Being: Childhood, Subjectivity, and Education_, Albany, NY: SUNY Press.
-* Kennedy, David and Bahler, Brock, 2017, _Philosophy of Childhood Today: Exploring the Boundaries_, Lanham,MD: Lexington Books.
-* Kohan, Walter, 2017, _Childhood, Education and Philosophy: New Ideas for an Old Relationship_, New York: Routledge.
-* –––, 2014, _Philosophy and Childhood: Critical Perspectives and Affirmative Practices_, New York: Palgrave, MacMillan.
-* Lewis, Lizzy and Nick Chandley (eds.), 2012, _Philosophy for Children Through the Secondary Curriculum_, New York: Continuum.
-* Lipman, Matthew, 1974, _Harry Stottlemeier’s Discovery_, Upper Montclair, NJ: Institute for the Advancement of Philosophy for Children.
-* –––, 1976, _Lisa_, Upper Montclair, NJ: Institute for the Advancement of Philosophy for Children (Montclair State College).
-* –––, 1988, _Philosophy Goes to School_, Philadelphia: Temple University Press.
-* –––, 1991, _Thinking in Education_, New York: Cambridge University Press; 2nd edition, 2003.
-* –––, 2008, _A Life Teaching Thinking_, Montclair State University, NJ: Institute for the Advancement of Philosophy for Children.
-* Lipman, Matthew (ed.), 1993, _Thinking Children and Education_, Dubuque, Iowa: Kendall/Hunt.
-* Lipman, Matthew; Sharp, Ann M.; and Oscanyan, Frederick (eds.), 1978, _Growing Up With Philosophy_, Philadelphia: Temple University Press.
-* Lone, Jana Mohr, 2012, _The Philosophical Child_, New York: Rowman & Littlefield.
-* Lone, Jana Mohr, and Roberta Israeloff (eds.), 2012, _Philosophy and Education: Introducing Philosophy to Young People_, Newcastle upon Tyne: Cambridge Scholars Publishers.
-* Lone, Jana Mohr, 2021, _Seen and Not Heard: Why Children’s Voices Matter_, Lanham, Maryland: Rowman & Littlefield.
-* Lone, Jana Mohr, and Michael Burroughs, 2016, _Philosophy in Education: Questioning and Dialogue in Schools_, New York: Rowman & Littlefield.
-* Long, Fiachra, 2005, “Thomas Reid and Philosophy With Children,” _Journal of Philosophy of Education_, 39: 599-614.
-* Matthews, Gareth, 1980, _Philosophy and the Young Child_, Cambridge, MA: Harvard University Press.
-* –––, 1984, _Dialogues With Children_, Cambridge, MA: Harvard University Press.
-* –––, 1994, _The Philosophy of Childhood_, Cambridge, MA: Harvard University Press.
-* –––, 2000, “The Ring of Gyges: Plato in Grade School,” _International Journal of Applied Philosophy_, 14(1): 3–11.
-* McCall, Catherine, 2009, _Transforming Thinking: Philosophical Inquiry in the Primary and Secondary Classroom_, London: Routledge.
-* McCarty, Marietta, 2006, _Little Big Minds_, New York: Tarcher/Penguin.
-* McPeck, John, 1985, “Critical thinking and the ‘Trivial Pursuit’ Theory of Knowledge,” _Teaching Philosophy_, 8(4): 295–308.
-* Millett, Steven and Tapper, Alan, 2012, “Benefits of Collaborative Philosophical Inquiry in Schools,” _Educational Philosophy and Theory_, 44(5): 546-567.
-* Murris, Karen, 1992, _Teaching Philosophy With Picture Books_, London: Infonet Publications.
-* –––, 2016, _The Posthuman Child: Education Transformation Through Philosophy With Picturebooks_, London: Routledge.
-* Naji, Saeed and Hashim, Rosani, 2017, _History, Theory and Practice of Philosophy for Children_, New York: Routledge.
-* Phillips, Christopher, 2001, _The Socrates Cafe_, New York: W.W. Norton.
-* –––, 2016, _The Philosophy of Childing: Unlocking Creativity, Curiosity, and Reason Through the Wisdom of our Youngest_, New York: Skyhorse Publishing.
-* Piaget, Jean, 1933, “Children’s Philosophies,” in _A Handbook of Child Psychology_, Carl Murchison (ed.), 2nd ed. rev., Worcester, MA: Clark University Press.
-* Pritchard, Michael S., 1991, _On Becoming Responsible_, Lawrence, KS: University Press of Kansas.
-* –––, 1996, _Reasonable Children_, Lawrence, KS: University Press of Kansas.
-* –––, 2022, _On Becoming Reasonable_, London, Anthem Press.
-* Reed, Ronald, 1983, _Talking With Children_, Denver: Arden Press.
-* Reed, Ronald, and Sharp, Ann M., 1996, _Studies in Philosophy for Children: Pixie_, Madrid: Ediciones De La Torre.
-* Reed, Ronald, and Sharp, Ann M. (eds.), 1992, _Studies in Philosophy for Children_: _Harry Stottlemeier’s Discovery_, Philadelphia: Temple University Press.
-* Sasseville, Michel, 1999, “The State of International Cooperation in Philosophy for Children” (UNESCO Meeting, Paris, March 1998), in _Critical and Creative Thinking_: _The Australasian Journal of Philosophy for Children_, 7(1): 57–79.
-* Shapiro, David, 2012, _Plato Was Wrong: Footnotes Doing Philosophy With Young People_, New York: Rowman & Littlefield.
-* Sharp, Ann M., 1991, “The Community of Inquiry: Education for Democracy,” _Thinking_, 9(2), 1991, pp. 31–37.
-* Sharp, Ann M. (ed.), 1994, , “Women, Feminism, and Philosophy for Children,” _Thinking_, 11(3/4) (Special Issue).
-* Shipman, Virginia, 1983, _New Jersey Reasoning Skills Test_, Upper Montclair, NJ: Institute for the Advancement of Philosophy for Children.
-* Splitter, Laurance and Sharp, Ann M., 1995, _Teaching for Better thinking: The Classroom Community of Inquiry_, Hawthorn, Vic.: Australian Council for Educational Research.
-* Splitter, Laurance; Sprod, Tim; Partridge, Francesca, 1998, _Places for Thinking_, Camberwell, Vic.: Australian Council for Educational Research.
-* Sprod, Tim, 1993, _Books Into Ideas_, Cheltenham, Vic.: Hawker Brownlow Education.
-* –––, 2001, _Philosophical Discussion in Moral Education: The Community of Ethical Inquiry_, London: Routledge.
-* –––, 2011, _Discussions in Science: Promoting Conceptual Understanding in the Middle School Years_, Camberwell, Vic.: Australian Council for Educational Research.
-* Turner, Susan M. and Matthews, Gareth (eds.), 1998, _The Philosopher’s Child_, Rochester, NY: University of Rochester Press.
-* Vanseileghem, Nancy and David Kennedy (eds.), 2012, _Philosophy for Children in Transition: Problems and Prospects_, Oxford: Wiley-Blackwell.
-* Wartenberg, Thomas E., 2009, _Big Ideas for Little Kids_, Lanham, MD: Rowman & Littlefield.
-* –––, 2013, _A Sneetch is a Sneetch_, Malden, MA: Wiley-Blackwell.
-* Weinstein, Mark, 1989, “Critical Thinking and Moral Education,” _Thinking_, 7(3): 42–49.
-* White, David A., 2000, _Philosophy for Kids_, Waco, Texas: Prufrock.
-* Wilks, S., 1995, _Critical and Creative Thinking_: _Strategies for Classroom Inquiry_, Armadale, Vic.: Eleanor Curtain.
-* Worley, Peter, 2011, _The If Machine: Philosophical Enquiry in the Classroom_, London: Continuum.
-* –––, 2012, _The If Odyssey_, London: Continuum.
-* –––, 2014, _Once Upon an If: The Storythinking Handbook_, New York: Bloomsbury Publishing; 2nd edition, 2019.
-* –––, 2015, _40 Lessons to Get Children Thinking: Philosophical Thought Adventures Across the Curriculum_, New York: Bloomsbury Publishing.
+* Figueroa, Robert and Goering, Sara, 1997, “The Summer Philosophy Institute of Colorado: Building Bridges,” *Teaching Philosophy*, 20(2): 155–168.
+* Fisher, Robert, 1998, *Teaching Thinking: Philosophical Inquiry in the Classroom*, London: Cassell.
+* Gaarder, Jostein, 1994, *Sophie’s World*: *A Novel About the History of Philosophy*, New York: Harper, Straus and Giroux.
+* Garcia-Moriyon, Felix; Robello, I; and Colom, R., 2005, “Evaluating Philosophy for Children: A Meta-analysis,” *Thinking: The Journal of Philosophy for Children*, 17(4): 14-22.
+* Garcia-Moriyon, Felix, 2017, “The Classroom as a Work of Art,” *Analytical Teaching and Philosophical Praxis*, 37(2): 1-12.
+* Gaut, Berys and Gaut, Morag, 2011, *Philosophy for Young Children: A Practical Guide*, London: Routledge.
+* Gilligan, Carol, 1982, *In a Different Voice: Psychological Theory and Women’s Development*, Cambridge, MA: Harvard University Press, 1982).
+* Glaser, Jen, 1992, “What’s So Special About This Story Anyway?” *Analytic Teaching*, 12(2): 45-52.
+* Goering, Sara; Shudak, Nicholas J.; and Wartenberg, Thomas, 2013, *Philosophy in Schools: An Introduction for Philosophers as Teachers*, New York: Routledge.
+* Gopnik, Alison, 2009, *The Philosophical Baby: What Children’s Minds Tell us About Truth, Love, and the Meaning of Life*, New York: Picador.
+* Gopnik, A., Kuhl, and Meltzoff, A., 1999, *The Scientist in the Crib: What Early Learning Tells us About the Mind*, New York: Perennial Books.
+* Goswami, Usha, 1998, *Cognition in Children*, East Sussex, UK: Psychology Press.
+* Gregory, Maughn, 2000, “Care as a Goal of Democratic Education,” *Journal of Moral Education*, 29(4): 445–461.
+* –––, 2008, *Philosophy for Children: Practitioner Handbook*, Montclair State University, NJ: Institute for the Advancement of Philosophy for Children.
+* –––, 2009, “Ethics Education and the Practice of Wisdom,” *Teaching Ethics*, 9(2): 105–130.
+* Gregory, Maughn and Johana Haynes, 2016, *The Routledge International Handbook of Philosophy for Children*, New York: Routledge.
+* Gregory, Maughn and Laverty, Megan Jane, 2017, *In community of Inquiry With Ann Margaret Sharp: Philosophy Childhood and Education*, New York: Routledge.
+* –––, 2022, *Gareth B. Matthews, The Child’s Philosopher*, New York: Routledge.
+* Hand, Michael and Winstanley, Carrie, 2009, *Philosophy in Schools*, New York: Continuum International Publishing Groups.
+* Haynes, Joanna, 2008, *Children as Philosophers*, 2nd edition, New York: Routledge.
+* Haynes, Johana and Murris, Karen, 2012, *Picturebooks, Pedagogy and Philosophy*, New York: Routledge.
+* Kohlberg, Lawrence, 1981, *The Philosophy of Moral Development: Essays on Moral Development* (Volume 1), San Francisco: Harper & Row.
+* Keen, Judy, 1997, *Brain Strain 1 & 2*, Melbourne: MacMillan Education.
+* Kennedy, David, 2005, *The Well of Being: Childhood, Subjectivity, and Education*, Albany, NY: SUNY Press.
+* Kennedy, David and Bahler, Brock, 2017, *Philosophy of Childhood Today: Exploring the Boundaries*, Lanham,MD: Lexington Books.
+* Kohan, Walter, 2017, *Childhood, Education and Philosophy: New Ideas for an Old Relationship*, New York: Routledge.
+* –––, 2014, *Philosophy and Childhood: Critical Perspectives and Affirmative Practices*, New York: Palgrave, MacMillan.
+* Lewis, Lizzy and Nick Chandley (eds.), 2012, *Philosophy for Children Through the Secondary Curriculum*, New York: Continuum.
+* Lipman, Matthew, 1974, *Harry Stottlemeier’s Discovery*, Upper Montclair, NJ: Institute for the Advancement of Philosophy for Children.
+* –––, 1976, *Lisa*, Upper Montclair, NJ: Institute for the Advancement of Philosophy for Children (Montclair State College).
+* –––, 1988, *Philosophy Goes to School*, Philadelphia: Temple University Press.
+* –––, 1991, *Thinking in Education*, New York: Cambridge University Press; 2nd edition, 2003.
+* –––, 2008, *A Life Teaching Thinking*, Montclair State University, NJ: Institute for the Advancement of Philosophy for Children.
+* Lipman, Matthew (ed.), 1993, *Thinking Children and Education*, Dubuque, Iowa: Kendall/Hunt.
+* Lipman, Matthew; Sharp, Ann M.; and Oscanyan, Frederick (eds.), 1978, *Growing Up With Philosophy*, Philadelphia: Temple University Press.
+* Lone, Jana Mohr, 2012, *The Philosophical Child*, New York: Rowman & Littlefield.
+* Lone, Jana Mohr, and Roberta Israeloff (eds.), 2012, *Philosophy and Education: Introducing Philosophy to Young People*, Newcastle upon Tyne: Cambridge Scholars Publishers.
+* Lone, Jana Mohr, 2021, *Seen and Not Heard: Why Children’s Voices Matter*, Lanham, Maryland: Rowman & Littlefield.
+* Lone, Jana Mohr, and Michael Burroughs, 2016, *Philosophy in Education: Questioning and Dialogue in Schools*, New York: Rowman & Littlefield.
+* Long, Fiachra, 2005, “Thomas Reid and Philosophy With Children,” *Journal of Philosophy of Education*, 39: 599-614.
+* Matthews, Gareth, 1980, *Philosophy and the Young Child*, Cambridge, MA: Harvard University Press.
+* –––, 1984, *Dialogues With Children*, Cambridge, MA: Harvard University Press.
+* –––, 1994, *The Philosophy of Childhood*, Cambridge, MA: Harvard University Press.
+* –––, 2000, “The Ring of Gyges: Plato in Grade School,” *International Journal of Applied Philosophy*, 14(1): 3–11.
+* McCall, Catherine, 2009, *Transforming Thinking: Philosophical Inquiry in the Primary and Secondary Classroom*, London: Routledge.
+* McCarty, Marietta, 2006, *Little Big Minds*, New York: Tarcher/Penguin.
+* McPeck, John, 1985, “Critical thinking and the ‘Trivial Pursuit’ Theory of Knowledge,” *Teaching Philosophy*, 8(4): 295–308.
+* Millett, Steven and Tapper, Alan, 2012, “Benefits of Collaborative Philosophical Inquiry in Schools,” *Educational Philosophy and Theory*, 44(5): 546-567.
+* Murris, Karen, 1992, *Teaching Philosophy With Picture Books*, London: Infonet Publications.
+* –––, 2016, *The Posthuman Child: Education Transformation Through Philosophy With Picturebooks*, London: Routledge.
+* Naji, Saeed and Hashim, Rosani, 2017, *History, Theory and Practice of Philosophy for Children*, New York: Routledge.
+* Phillips, Christopher, 2001, *The Socrates Cafe*, New York: W.W. Norton.
+* –––, 2016, *The Philosophy of Childing: Unlocking Creativity, Curiosity, and Reason Through the Wisdom of our Youngest*, New York: Skyhorse Publishing.
+* Piaget, Jean, 1933, “Children’s Philosophies,” in *A Handbook of Child Psychology*, Carl Murchison (ed.), 2nd ed. rev., Worcester, MA: Clark University Press.
+* Pritchard, Michael S., 1991, *On Becoming Responsible*, Lawrence, KS: University Press of Kansas.
+* –––, 1996, *Reasonable Children*, Lawrence, KS: University Press of Kansas.
+* –––, 2022, *On Becoming Reasonable*, London, Anthem Press.
+* Reed, Ronald, 1983, *Talking With Children*, Denver: Arden Press.
+* Reed, Ronald, and Sharp, Ann M., 1996, *Studies in Philosophy for Children: Pixie*, Madrid: Ediciones De La Torre.
+* Reed, Ronald, and Sharp, Ann M. (eds.), 1992, *Studies in Philosophy for Children*: *Harry Stottlemeier’s Discovery*, Philadelphia: Temple University Press.
+* Sasseville, Michel, 1999, “The State of International Cooperation in Philosophy for Children” (UNESCO Meeting, Paris, March 1998), in *Critical and Creative Thinking*: *The Australasian Journal of Philosophy for Children*, 7(1): 57–79.
+* Shapiro, David, 2012, *Plato Was Wrong: Footnotes Doing Philosophy With Young People*, New York: Rowman & Littlefield.
+* Sharp, Ann M., 1991, “The Community of Inquiry: Education for Democracy,” *Thinking*, 9(2), 1991, pp. 31–37.
+* Sharp, Ann M. (ed.), 1994, , “Women, Feminism, and Philosophy for Children,” *Thinking*, 11(3/4) (Special Issue).
+* Shipman, Virginia, 1983, *New Jersey Reasoning Skills Test*, Upper Montclair, NJ: Institute for the Advancement of Philosophy for Children.
+* Splitter, Laurance and Sharp, Ann M., 1995, *Teaching for Better thinking: The Classroom Community of Inquiry*, Hawthorn, Vic.: Australian Council for Educational Research.
+* Splitter, Laurance; Sprod, Tim; Partridge, Francesca, 1998, *Places for Thinking*, Camberwell, Vic.: Australian Council for Educational Research.
+* Sprod, Tim, 1993, *Books Into Ideas*, Cheltenham, Vic.: Hawker Brownlow Education.
+* –––, 2001, *Philosophical Discussion in Moral Education: The Community of Ethical Inquiry*, London: Routledge.
+* –––, 2011, *Discussions in Science: Promoting Conceptual Understanding in the Middle School Years*, Camberwell, Vic.: Australian Council for Educational Research.
+* Turner, Susan M. and Matthews, Gareth (eds.), 1998, *The Philosopher’s Child*, Rochester, NY: University of Rochester Press.
+* Vanseileghem, Nancy and David Kennedy (eds.), 2012, *Philosophy for Children in Transition: Problems and Prospects*, Oxford: Wiley-Blackwell.
+* Wartenberg, Thomas E., 2009, *Big Ideas for Little Kids*, Lanham, MD: Rowman & Littlefield.
+* –––, 2013, *A Sneetch is a Sneetch*, Malden, MA: Wiley-Blackwell.
+* Weinstein, Mark, 1989, “Critical Thinking and Moral Education,” *Thinking*, 7(3): 42–49.
+* White, David A., 2000, *Philosophy for Kids*, Waco, Texas: Prufrock.
+* Wilks, S., 1995, *Critical and Creative Thinking*: *Strategies for Classroom Inquiry*, Armadale, Vic.: Eleanor Curtain.
+* Worley, Peter, 2011, *The If Machine: Philosophical Enquiry in the Classroom*, London: Continuum.
+* –––, 2012, *The If Odyssey*, London: Continuum.
+* –––, 2014, *Once Upon an If: The Storythinking Handbook*, New York: Bloomsbury Publishing; 2nd edition, 2019.
+* –––, 2015, *40 Lessons to Get Children Thinking: Philosophical Thought Adventures Across the Curriculum*, New York: Bloomsbury Publishing.
 
 ### Periodicals
 
-* [_Analytic Teaching and Philosophical Praxis_](https://journal.viterbo.edu/index.php/atpp), Viterbo University, La Crosse, WI.
-* [_Journal for Philosophy in Schools_](https://jps.bham.ac.uk/), The Federation of Australian Philosophy for Children Associations (FAPSA).
-* [_Childhood & Philosophy_](https://www.e-publicacoes.uerj.br/index.php/childhood), Official Journal of the International Council of the Philosophical Inquiry with Children (ICPIC).
-* _Questions: Philosophy for Young People_, published by the Philosophy Documentation Center, Bowling Green State University. Inaugurated in Spring 2001 with the support of the American Philosophical Association and is now sponsored by PLATO.
-* _Precollege Philosophy and Public Practice_ (online periodical sponsored by PLATO).
+* [*Analytic Teaching and Philosophical Praxis*](https://journal.viterbo.edu/index.php/atpp), Viterbo University, La Crosse, WI.
+* [*Journal for Philosophy in Schools*](https://jps.bham.ac.uk/), The Federation of Australian Philosophy for Children Associations (FAPSA).
+* [*Childhood & Philosophy*](https://www.e-publicacoes.uerj.br/index.php/childhood), Official Journal of the International Council of the Philosophical Inquiry with Children (ICPIC).
+* *Questions: Philosophy for Young People*, published by the Philosophy Documentation Center, Bowling Green State University. Inaugurated in Spring 2001 with the support of the American Philosophical Association and is now sponsored by PLATO.
+* *Precollege Philosophy and Public Practice* (online periodical sponsored by PLATO).
 
 ## Academic Tools
 

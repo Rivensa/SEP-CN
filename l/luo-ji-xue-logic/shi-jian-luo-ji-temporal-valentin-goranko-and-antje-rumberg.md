@@ -1,12 +1,10 @@
 # 时间逻辑 temporal (Valentin Goranko and Antje Rumberg)
 
-_首次发表于1999年11月29日星期一；实质性修订于2020年2月7日星期五。_
+*首次发表于1999年11月29日星期一；实质性修订于2020年2月7日星期五。*
 
 时间逻辑这个术语被广泛用于涵盖关于时间和时间信息的推理的所有方法，以及它们在逻辑框架内的形式表示，更狭义地指的是由亚瑟·普赖尔于 1960 年左右引入的模态逻辑类型的方法，后来又由许多逻辑学家和计算机科学家进一步发展。时间逻辑的应用包括将其用作澄清关于时间的哲学问题的形式化工具，作为定义自然语言中时间表达的语义的框架，作为在人工智能中编码时间知识的语言，以及作为规范、形式分析和验证计算机程序和系统执行的工具。
 
 在这里，我们提供了一个广泛代表性的、简洁而不可避免地不完整的概述，介绍了过去 50 年中引入和研究的丰富多样的时间模型和逻辑。
-
- 
 
 ***
 
@@ -48,7 +46,7 @@ _首次发表于1999年11月29日星期一；实质性修订于2020年2月7日�
 * 无终止（无界性）：∀x∃y(x≺y);
 * 密度：∀x∀y(x≺y→∃z(x≺z∧z≺y));
 * 正向离散性：∀x∀y(x≺y→∃z(x≺z∧z⪯y∧¬∃u(x≺u∧u≺z)));
-* _backward-discreteness_: ∀x∀y(y≺x→∃z(z≺x∧y⪯z∧¬∃u(z≺u∧u≺x))).
+* *backward-discreteness*: ∀x∀y(y≺x→∃z(z≺x∧y⪯z∧¬∃u(z≺u∧u≺x))).
 
 注意，在线性模型中，这两个离散条件简化为
 
@@ -75,11 +73,11 @@ _首次发表于1999年11月29日星期一；实质性修订于2020年2月7日�
 
 | 区间关系    | 艾伦符号                             | HS notation      |
 | ------- | -------------------------------- | ---------------- |
-| ┣━━┫    | _equals_{=}                      |                  |
+| ┣━━┫    | *equals*{=}                      |                  |
 | ├──┤ ┣┫ | 在之前 {<} / 在之后 {>}                | ⟨L⟩/⟨¯¯¯¯L⟩ 之后   |
 | ├──╊┫   | 满足 {m} / 被满足于 {mi}               | ⟨A⟩/⟨¯¯¯¯A⟩ 之后   |
 | ├─╊┿━┫  | 重叠 {o} / 被重叠于 {oi}               | ⟨O⟩/⟨¯¯¯¯O⟩ 重叠   |
-| ├─╊┫    | _finished-by_{fi} /_finishes_{f} | ⟨E⟩/⟨¯¯¯¯E⟩ 结束   |
+| ├─╊┫    | *finished-by*{fi} /*finishes*{f} | ⟨E⟩/⟨¯¯¯¯E⟩ 结束   |
 | ├╊╉┤    | 包含 {di} / 在 {d} 期间               | ⟨D⟩/⟨¯¯¯¯¯D⟩ 在期间 |
 | ┣╉─┤    | 由 {si} 开始 / 开始 {s}               | ⟨B⟩/⟨¯¯¯¯B⟩ 开始   |
 
@@ -430,7 +428,7 @@ Zanardo（1998）发展了具有不可区分性函数的分支时间逻辑，统
 
 ### 5.5 计算树逻辑 CTL 和 CTL\*
 
-分支时间逻辑在计算机科学中被广泛使用。最流行的是计算树逻辑 CTL 和 CTL _，它们是 Peircean 和 Ockhamist 分支时间逻辑的变体。它们在所谓的计算树类上进行解释，其中每个历史都具有自然数的排序类型。这些树是离散转换系统的树展开自然获得的，并表示在这些系统中出现的可能无限计算。虽然 CTL 在历史上先于 CTL_，但现在 CTL 通常被视为 CTL\*的一个片段，我们在这里遵循这个惯例。
+分支时间逻辑在计算机科学中被广泛使用。最流行的是计算树逻辑 CTL 和 CTL *，它们是 Peircean 和 Ockhamist 分支时间逻辑的变体。它们在所谓的计算树类上进行解释，其中每个历史都具有自然数的排序类型。这些树是离散转换系统的树展开自然获得的，并表示在这些系统中出现的可能无限计算。虽然 CTL 在历史上先于 CTL*，但现在 CTL 通常被视为 CTL\*的一个片段，我们在这里遵循这个惯例。
 
 * 完整的计算树逻辑 CTL_是 Ockhamism 的计算变体，由 Emerson 和 Halpern（1985）引入。CTL_的语言包含（反身版本的）未来运算符 G 和 U（直到）以及下一个时间运算符 X（没有过去运算符），现在在计算树上进行解释。与一般的 Ockhamist 分支时间逻辑一样，评估是相对于即时（这里称为状态）和历史（这里称为路径）进行的。我们注意，在计算机科学中通常假设基于即时的原子命题，即原子命题的赋值仅取决于状态。
 * 计算树逻辑 CTL 是 Peirceanism 的计算变体，由 Emerson 和 Clarke（1982）引入。CTL 是 CTL\*的片段，其中每个时间运算符 G、U 和 X 都紧接着一个模态运算符□或◊，通常表示为路径量词∀和∃。也就是说，CTL 的语言是使用组合的模态性质∀Gφ、∀(φUψ)、∀Xφ和∃Gφ、∃(φUψ)、∃Xφ递归构建的。CTL 的前身是由 Ben-Ari 等人（1983）引入的逻辑 UB，其中不包含 U。
@@ -544,10 +542,10 @@ Pφ≡∃n(n<0∧Fnφ)Fφ≡∃n(n>0∧Fnφ)Hφ≡∀n(n<0→Fnφ)Gφ≡∀n(n>0
 
 在一阶时间逻辑的背景下，关于物体在时间中的存在和它们随时间的身份的类似问题以不同的方式出现。当涉及到时间性和量化的相互作用时，这些问题变得尤为重要。例如，“一个哲学家将成为国王”的句子可以有几种不同的解释方式，例如\[5]
 
-* ∃x(哲学家(x)∧F 国王(x)) _现在是哲学家的人将来会成为国王。_
-* ∃xF(哲学家(x)∧国王(x)) _现在存在着一个人，将来某个时候他既是哲学家又是国王。_
-* F∃x(哲学家(x)∧F 国王(x)) _将来会有一个人，他是一个哲学家，然后会成为一个国王。_
-* F∃x(哲学家(x)∧国王(x)) _将会存在一个人，他同时是一个哲学家和一个国王。_
+* ∃x(哲学家(x)∧F 国王(x)) *现在是哲学家的人将来会成为国王。*
+* ∃xF(哲学家(x)∧国王(x)) *现在存在着一个人，将来某个时候他既是哲学家又是国王。*
+* F∃x(哲学家(x)∧F 国王(x)) *将来会有一个人，他是一个哲学家，然后会成为一个国王。*
+* F∃x(哲学家(x)∧国王(x)) *将会存在一个人，他同时是一个哲学家和一个国王。*
 
 上述给出的解释假设量化的领域始终相对于一个时间点，并且同一个个体可能存在于多个时间点。为了实现这些解释，我们需要在模型中引入一个本地对象域 D(t)用于每个时间点 t，将量词的范围限制在该域内，并且在不同的时间点上识别相同的对象。
 
@@ -789,218 +787,218 @@ LTL 的一个变体，对于指定和推理并发系统具有有用的应用是 
 
 ## Bibliography
 
-* Allen, J.F., 1983, “Maintaining Knowledge about Temporal Intervals”, _Communications of the ACM_, 26(11): 832–843.
-* –––, 1984, “Towards a General Theory of Action and Time”, _Artificial Intelligence_, 23: 123–154.
-* Allen, J.F., and G. Ferguson, 1994, “Actions and Events in Interval Temporal Logic”, _Journal of Logic and Computation_, 4(5): 531–579.
-* Allen, J.F., and P. Hayes, 1989, “Moments and Points in an Interval-Based Temporal Logic”, _Computational Intelligence_, 5(4): 225–238.
-* Alur, R., and T. Henzinger, 1992, “Logics and Models of Real-Time: A Survey”, in _Real-Time: Theory in Practice_, Proceedings of the REX Workshop 1991 (Lecture Notes in Computer Science: Volume 600), Berlin: Springer, pp. 74–106.
-* –––, 1993, “Real-Time Logics: Complexity and Expressiveness”, _Information and Computation_, 104: 35–77.
-* –––, 1994, “A Really Temporal Logic”, _Journal of the ACM_, 41: 181–204.
-* Alur, R., T. Henzinger, and O. Kupferman, 2002, “Alternating-Time Temporal Logic”, _Journal of the ACM_, 49(5): 672–713.
+* Allen, J.F., 1983, “Maintaining Knowledge about Temporal Intervals”, *Communications of the ACM*, 26(11): 832–843.
+* –––, 1984, “Towards a General Theory of Action and Time”, *Artificial Intelligence*, 23: 123–154.
+* Allen, J.F., and G. Ferguson, 1994, “Actions and Events in Interval Temporal Logic”, *Journal of Logic and Computation*, 4(5): 531–579.
+* Allen, J.F., and P. Hayes, 1989, “Moments and Points in an Interval-Based Temporal Logic”, *Computational Intelligence*, 5(4): 225–238.
+* Alur, R., and T. Henzinger, 1992, “Logics and Models of Real-Time: A Survey”, in *Real-Time: Theory in Practice*, Proceedings of the REX Workshop 1991 (Lecture Notes in Computer Science: Volume 600), Berlin: Springer, pp. 74–106.
+* –––, 1993, “Real-Time Logics: Complexity and Expressiveness”, *Information and Computation*, 104: 35–77.
+* –––, 1994, “A Really Temporal Logic”, *Journal of the ACM*, 41: 181–204.
+* Alur, R., T. Henzinger, and O. Kupferman, 2002, “Alternating-Time Temporal Logic”, *Journal of the ACM*, 49(5): 672–713.
 * Andréka, H., V. Goranko, S. Mikulas, I. Németi, and I. Sain, 1995, “Effective First-Order Temporal Logics of Programs”, in Bolc and Szalas (1995), pp. 51–129.
-* Andréka, H., J. Madarász, and I. Németi, 2007, “Logic of Space-Time and Relativity Theory”, in M. Aiello, J. van Benthem, and I. Pratt-Hartmann (eds.), _Handbook of Spatial Logics_, Dordrecht: Springer, pp. 607–711.
+* Andréka, H., J. Madarász, and I. Németi, 2007, “Logic of Space-Time and Relativity Theory”, in M. Aiello, J. van Benthem, and I. Pratt-Hartmann (eds.), *Handbook of Spatial Logics*, Dordrecht: Springer, pp. 607–711.
 * Areces, C., and B. ten Cate, 2006, “Hybrid Logics”, in Blackburn et al. (2006), pp. 821–868.
-* Aristotle, _Organon, II - On Interpretation, Chapter 9_. See   https://archive.org/stream/AristotleOrganon/AristotleOrganoncollectedWorks.
-* Artale, A., and E. Franconi, 2000, “A Survey of Temporal Extensions of Description Logics”, _Annals of Mathematics and Artificial Intelligence_, 30: 171–210.
+* Aristotle, *Organon, II - On Interpretation, Chapter 9*. See   https://archive.org/stream/AristotleOrganon/AristotleOrganoncollectedWorks.
+* Artale, A., and E. Franconi, 2000, “A Survey of Temporal Extensions of Description Logics”, *Annals of Mathematics and Artificial Intelligence*, 30: 171–210.
 * Baader, F., and C. Lutz, 2006, “Description Logic”, in Blackburn et al. (2006), pp. 757–819.
-* Baier, C., and J.P. Katoen, 2008, _Principles of Model Checking_, Cambridge, Massachusetts: MIT Press.
-* Balbiani, P., V. Goranko, and G. Sciavicco, 2011, “Two-Sorted Point-Interval Temporal Logics”, in _Proceedings of the 7th International Workshop on Methods for Modalities_ (Electronic Notes in Theoretical Computer Science: Volume 278), pp. 31–45.
-* Belnap, N., 1992, “Branching Space-Time”, _Synthese_, 92(3): 385–434.
-* Belnap, N., and M. Green, 1994, “Indeterminism and the Thin Red Line”, _Philosophical Perspectives_, 8: 365–388.
-* Belnap, N., and T. Müller, 2014a, “CIFOL: Case-Intensional First Order Logic (I): Toward a Theory of Sorts”, _Journal of Philosophical Logic_, 43(2–3): 393–437.
-* –––, 2014b, “BH-CIFOL: Case-Intensional First Order Logic (II): Branching Histories”, _Journal of Philosophical Logic_, 43(5): 835–866.
-* Belnap, N., T. Müller, and T. Placek, 2022, _Branching Space-Times: Theory and Applications_, Oxford: Oxford University Press.
-* Belnap, N., and M. Perloff, 1988, “Seeing to it that: A Canonical Form for Agentives”, _Theoria_, 54: 175–199, reprinted with corrections in H. E. Kyberg et al. (eds.), _Knowledge Representation and Defeasible Reasoning_, Dordrecht: Kluwer, 1990, pp. 167–190.
-* Belnap, N., M. Perloff, and M. Xu, 2001, _Facing the Future: Agents and Choices in Our Indeterminist World_, Oxford: Oxford University Press.
-* Ben-Ari, M., A. Pnueli, and Z. Manna, 1983, “The Temporal Logic of Branching Time”, _Acta Informatica_, 20(3): 207–226.
-* van Benthem, J., 1983, _The Logic of Time_, Dordrecht, Boston, and London: Kluwer Academic Publishers. \[Second edition: 1991.]
-* –––, 1995, “Temporal Logic”, in D.M. Gabbay, C.J. Hogger, and J.A. Robinson (eds.), _Handbook of Logic in Artificial Intelligence and Logic Programming_ (Volume 4), Oxford: Clarendon Press, pp. 241–350.
-* van Benthem, J., and E. Pacuit, 2006, “The Tree of Knowledge in Action: Towards a Common Perspective”, in _Advances in Modal Logic_ (Volume 6), London: College Publications, pp. 87–106.
-* Blackburn, P., 2006, “Arthur Prior and Hybrid Logic”, _Synthese_, 150: 329–372.
-* Blackburn, P., J. van Benthem, and F. Wolter, 2006, _Handbook of Modal Logics_, Amsterdam: Elsevier.
-* Blackburn, P., P. Hasle, and P. Øhrstrøm (eds.), 2019, _Logic and Philosophy of Time: Further Themes from Prior_ (Volume 2), Aalborg: Aalborg University Press.
-* Blackburn, P., and M. Tzakova, 1999, “Hybrid Languages and Temporal Logic”, _Logic Journal of the IGPL_, 7: 27–54.
-* Bolc, L., and A. Szalas (eds.), 1995, _Time and Logic: A Computational Approach_, London: UCL Press.
-* Börger, E., E. Grädel, and Y. Gurevich, 1997, _The Classical Decision Problem_, Berlin, Heidelberg: Springer.
-* Boyd, S., 2014, “Defending History: Temporal Reasoning in Genesis 2:7–3:8”, _Answers Research Journal_, 7: 215–237.
-* Bresolin, D., V. Goranko, A. Montanari, and G. Sciavicco, 2009, “Propositional Interval Neighborhood Logics: Expressiveness, Decidability, and Undecidable Extensions”, _Annals of Pure and Applied Logic_, 161(3): 289–304.
-* Bresolin, D., D. Della Monica, V. Goranko, A. Montanari, and G. Sciavicco, 2013, “Metric Propositional Neighborhood Logics on Natural Numbers”, _Software and Systems Modeling_, 12(2): 245–264.
-* Broersen, J., 2011, “Deontic Epistemic _Stit_ Logic Distinguishing Modes of Mens Rea”, _Journal of Applied Logic_, 9: 137–152.
-* Broersen, J., A. Herzig, and N. Troquard, 2006, “A STIT-Extension of ATL”, in _Proceedings of JELIA 2006_ (Lecture Notes in Artificial Intelligence: Volume 4160), Berlin: Springer, pp. 69–81.
-* Brown, M., and V. Goranko, 1999, “An Extended Branching-Time Ockhamist Temporal Logic”, _Journal of Logic, Language and Information_, 8(2): 143–166.
-* Bull, R., 1970, “An Approach to Tense Logic”, _Theoria_, 36: 282–300.
-* Burgess, J., 1978, “The Unreal Future”, _Theoria_, 44(3): 157–179.
-* –––, 1979, “Logic and Time”, _Journal of Symbolic Logic_, 44: 566–582.
-* –––, 1980, “Decidability for Branching Time”, _Studia Logica_, 39: 203–218.
-* –––, 1982a, “Axioms for Tense Logic I: ‘Since’ and ‘Until’”, _Notre Dame Journal of Formal Logic_, 23: 367–374.
-* –––, 1982b, “Axioms for Tense Logic II: Time Periods”, _Notre Dame Journal of Formal Logic_, 23: 375–383.
-* –––, 1984, “Basic Tense Logic”, in D.M. Gabbay, and F. Guenthner (eds.), _Handbook of Philosophical Logic_ (Volume 2), Dordrecht: Reidel, pp. 89–133. \[New edition in Gabbay and Guenthner (2002), pp. 1–42.]
-* Burgess, J., and Y. Gurevich, 1985, “The Decision Problem for Linear Temporal Logic”, _Notre Dame Journal of Formal Logic_, 26(2): 115–128.
-* Ciuni, R., and A. Zanardo, 2010, “Completeness of a Branching-Time Logic with Possible Choices”, _Studia Logica_, 96: 393–420.
+* Baier, C., and J.P. Katoen, 2008, *Principles of Model Checking*, Cambridge, Massachusetts: MIT Press.
+* Balbiani, P., V. Goranko, and G. Sciavicco, 2011, “Two-Sorted Point-Interval Temporal Logics”, in *Proceedings of the 7th International Workshop on Methods for Modalities* (Electronic Notes in Theoretical Computer Science: Volume 278), pp. 31–45.
+* Belnap, N., 1992, “Branching Space-Time”, *Synthese*, 92(3): 385–434.
+* Belnap, N., and M. Green, 1994, “Indeterminism and the Thin Red Line”, *Philosophical Perspectives*, 8: 365–388.
+* Belnap, N., and T. Müller, 2014a, “CIFOL: Case-Intensional First Order Logic (I): Toward a Theory of Sorts”, *Journal of Philosophical Logic*, 43(2–3): 393–437.
+* –––, 2014b, “BH-CIFOL: Case-Intensional First Order Logic (II): Branching Histories”, *Journal of Philosophical Logic*, 43(5): 835–866.
+* Belnap, N., T. Müller, and T. Placek, 2022, *Branching Space-Times: Theory and Applications*, Oxford: Oxford University Press.
+* Belnap, N., and M. Perloff, 1988, “Seeing to it that: A Canonical Form for Agentives”, *Theoria*, 54: 175–199, reprinted with corrections in H. E. Kyberg et al. (eds.), *Knowledge Representation and Defeasible Reasoning*, Dordrecht: Kluwer, 1990, pp. 167–190.
+* Belnap, N., M. Perloff, and M. Xu, 2001, *Facing the Future: Agents and Choices in Our Indeterminist World*, Oxford: Oxford University Press.
+* Ben-Ari, M., A. Pnueli, and Z. Manna, 1983, “The Temporal Logic of Branching Time”, *Acta Informatica*, 20(3): 207–226.
+* van Benthem, J., 1983, *The Logic of Time*, Dordrecht, Boston, and London: Kluwer Academic Publishers. \[Second edition: 1991.]
+* –––, 1995, “Temporal Logic”, in D.M. Gabbay, C.J. Hogger, and J.A. Robinson (eds.), *Handbook of Logic in Artificial Intelligence and Logic Programming* (Volume 4), Oxford: Clarendon Press, pp. 241–350.
+* van Benthem, J., and E. Pacuit, 2006, “The Tree of Knowledge in Action: Towards a Common Perspective”, in *Advances in Modal Logic* (Volume 6), London: College Publications, pp. 87–106.
+* Blackburn, P., 2006, “Arthur Prior and Hybrid Logic”, *Synthese*, 150: 329–372.
+* Blackburn, P., J. van Benthem, and F. Wolter, 2006, *Handbook of Modal Logics*, Amsterdam: Elsevier.
+* Blackburn, P., P. Hasle, and P. Øhrstrøm (eds.), 2019, *Logic and Philosophy of Time: Further Themes from Prior* (Volume 2), Aalborg: Aalborg University Press.
+* Blackburn, P., and M. Tzakova, 1999, “Hybrid Languages and Temporal Logic”, *Logic Journal of the IGPL*, 7: 27–54.
+* Bolc, L., and A. Szalas (eds.), 1995, *Time and Logic: A Computational Approach*, London: UCL Press.
+* Börger, E., E. Grädel, and Y. Gurevich, 1997, *The Classical Decision Problem*, Berlin, Heidelberg: Springer.
+* Boyd, S., 2014, “Defending History: Temporal Reasoning in Genesis 2:7–3:8”, *Answers Research Journal*, 7: 215–237.
+* Bresolin, D., V. Goranko, A. Montanari, and G. Sciavicco, 2009, “Propositional Interval Neighborhood Logics: Expressiveness, Decidability, and Undecidable Extensions”, *Annals of Pure and Applied Logic*, 161(3): 289–304.
+* Bresolin, D., D. Della Monica, V. Goranko, A. Montanari, and G. Sciavicco, 2013, “Metric Propositional Neighborhood Logics on Natural Numbers”, *Software and Systems Modeling*, 12(2): 245–264.
+* Broersen, J., 2011, “Deontic Epistemic *Stit* Logic Distinguishing Modes of Mens Rea”, *Journal of Applied Logic*, 9: 137–152.
+* Broersen, J., A. Herzig, and N. Troquard, 2006, “A STIT-Extension of ATL”, in *Proceedings of JELIA 2006* (Lecture Notes in Artificial Intelligence: Volume 4160), Berlin: Springer, pp. 69–81.
+* Brown, M., and V. Goranko, 1999, “An Extended Branching-Time Ockhamist Temporal Logic”, *Journal of Logic, Language and Information*, 8(2): 143–166.
+* Bull, R., 1970, “An Approach to Tense Logic”, *Theoria*, 36: 282–300.
+* Burgess, J., 1978, “The Unreal Future”, *Theoria*, 44(3): 157–179.
+* –––, 1979, “Logic and Time”, *Journal of Symbolic Logic*, 44: 566–582.
+* –––, 1980, “Decidability for Branching Time”, *Studia Logica*, 39: 203–218.
+* –––, 1982a, “Axioms for Tense Logic I: ‘Since’ and ‘Until’”, *Notre Dame Journal of Formal Logic*, 23: 367–374.
+* –––, 1982b, “Axioms for Tense Logic II: Time Periods”, *Notre Dame Journal of Formal Logic*, 23: 375–383.
+* –––, 1984, “Basic Tense Logic”, in D.M. Gabbay, and F. Guenthner (eds.), *Handbook of Philosophical Logic* (Volume 2), Dordrecht: Reidel, pp. 89–133. \[New edition in Gabbay and Guenthner (2002), pp. 1–42.]
+* Burgess, J., and Y. Gurevich, 1985, “The Decision Problem for Linear Temporal Logic”, *Notre Dame Journal of Formal Logic*, 26(2): 115–128.
+* Ciuni, R., and A. Zanardo, 2010, “Completeness of a Branching-Time Logic with Possible Choices”, *Studia Logica*, 96: 393–420.
 * Cocchiarella, N., 2002, “Philosophical Perspectives on Quantification in Tense and Modal Logic”, in Gabbay and Guenthner (2002), pp. 235–276.
-* Correia, F., and F. Iacona (eds.), 2013, _Around the Tree: Semantic and Metaphysical Issues Concerning Branching and the Open Future_ (Synthese Library: Volume 361), Dordrecht: Springer.
-* Dean, T., and D.V. McDermott, 1987, “Temporal Data Base Management”, _Artificial Intelligence_, 32:1–55.
-* Della Monica, D., V. Goranko, A. Montanari, and G. Sciavicco, 2011, “Interval Temporal Logics: A Journey”, _Bulletin of the European Association for Theoretical Computer Science_, 105: 73–99.
-* Demri, S., V. Goranko, and M. Lange, 2016, _Temporal Logics in Computer Science_, Cambridge: Cambridge University Press.
-* Dowty, D., 1979, _Word Meaning and Montague Grammar_, Dordrecht: Reidel.
+* Correia, F., and F. Iacona (eds.), 2013, *Around the Tree: Semantic and Metaphysical Issues Concerning Branching and the Open Future* (Synthese Library: Volume 361), Dordrecht: Springer.
+* Dean, T., and D.V. McDermott, 1987, “Temporal Data Base Management”, *Artificial Intelligence*, 32:1–55.
+* Della Monica, D., V. Goranko, A. Montanari, and G. Sciavicco, 2011, “Interval Temporal Logics: A Journey”, *Bulletin of the European Association for Theoretical Computer Science*, 105: 73–99.
+* Demri, S., V. Goranko, and M. Lange, 2016, *Temporal Logics in Computer Science*, Cambridge: Cambridge University Press.
+* Dowty, D., 1979, *Word Meaning and Montague Grammar*, Dordrecht: Reidel.
 * Dyke, H., 2013, “Time and Tense”, in Dyke and Bardon (2013), pp. 328–344.
-* Dyke, H., and A. Bardon (eds.), 2013, _A Companion to the Philosophy of Time_ (Blackwell Companions to Philosophy), Oxford: Wiley-Blackwell.
-* Emerson, E.A., 1990, “Temporal and Modal Logics”, in J. van Leeuwen (ed.), _Handbook of Theoretical Computer Science_ (Volume B: Formal Models and Semantics), Amsterdam: Elsevier, pp. 995–1072.
-* Emerson, E.A., and E.C. Clarke, 1982, “Using Branching Time Temporal Logic to Synthesise Synchronisation Skeletons”, _Science of Computer Programming_, 2: 241–266.
-* Emerson, E.A., and J. Halpern, 1985, “Decision Procedures and Expressiveness in the Temporal Logic of Branching Time”, _Journal of Computer and Systems Science_, 30: 1–24.
-* Emerson, E.A., and A. Sistla, 1984, “Deciding Full Branching Time Logic”, _Information and Control_, 61: 175–201.
+* Dyke, H., and A. Bardon (eds.), 2013, *A Companion to the Philosophy of Time* (Blackwell Companions to Philosophy), Oxford: Wiley-Blackwell.
+* Emerson, E.A., 1990, “Temporal and Modal Logics”, in J. van Leeuwen (ed.), *Handbook of Theoretical Computer Science* (Volume B: Formal Models and Semantics), Amsterdam: Elsevier, pp. 995–1072.
+* Emerson, E.A., and E.C. Clarke, 1982, “Using Branching Time Temporal Logic to Synthesise Synchronisation Skeletons”, *Science of Computer Programming*, 2: 241–266.
+* Emerson, E.A., and J. Halpern, 1985, “Decision Procedures and Expressiveness in the Temporal Logic of Branching Time”, *Journal of Computer and Systems Science*, 30: 1–24.
+* Emerson, E.A., and A. Sistla, 1984, “Deciding Full Branching Time Logic”, *Information and Control*, 61: 175–201.
 * Euzenat, J., and A. Montanari, 2005, “Time Granularity”, in Fisher et al. (2005), pp. 59–118.
-* Ewald, W., 1986, “Intuitionistic Tense and Modal Logic”, _Journal of Symbolic Logic_, 51(1): 166–179.
-* Fagin, R., J. Halpern, Y. Moses, and M. Vardi, 1995, _Reasoning about Knowledge_, Boston: MIT Press.
-* Finger, M., and D.M. Gabbay, 1992, “Adding a Temporal Dimension to a Logic System”, _Journal of Logic, Language and Information_, 1(3): 203–233.
-* –––, 1996, “Combining Temporal Logic Systems”, _Notre Dame Journal of Formal Logic_, 37(2): 204–232.
+* Ewald, W., 1986, “Intuitionistic Tense and Modal Logic”, *Journal of Symbolic Logic*, 51(1): 166–179.
+* Fagin, R., J. Halpern, Y. Moses, and M. Vardi, 1995, *Reasoning about Knowledge*, Boston: MIT Press.
+* Finger, M., and D.M. Gabbay, 1992, “Adding a Temporal Dimension to a Logic System”, *Journal of Logic, Language and Information*, 1(3): 203–233.
+* –––, 1996, “Combining Temporal Logic Systems”, *Notre Dame Journal of Formal Logic*, 37(2): 204–232.
 * Finger, M., D.M. Gabbay, and M. Reynolds, 2002, “Advanced Tense Logic”, in Gabbay and Guenthner (2002), pp. 43–204.
-* Fisher, M., 2008, “Temporal Representation and Reasoning”, in F. van Harmelen, V. Lifschitz, and B. Porter (eds.), _Handbook of Knowledge Representation_, Amsterdam: Elsevier, pp. 513–550.
-* –––, 2011, _An Introduction to Practical Formal Methods Using Temporal Logic_, New York: Wiley.
-* Fisher, M., D.M. Gabbay, and L. Vila, 2005, _Handbook of Temporal Reasoning in Artificial Intelligence_, Amsterdam: Elsevier.
+* Fisher, M., 2008, “Temporal Representation and Reasoning”, in F. van Harmelen, V. Lifschitz, and B. Porter (eds.), *Handbook of Knowledge Representation*, Amsterdam: Elsevier, pp. 513–550.
+* –––, 2011, *An Introduction to Practical Formal Methods Using Temporal Logic*, New York: Wiley.
+* Fisher, M., D.M. Gabbay, and L. Vila, 2005, *Handbook of Temporal Reasoning in Artificial Intelligence*, Amsterdam: Elsevier.
 * Fisher, M., and M. Wooldridge, 2005, “Temporal Reasoning in Agent-Based Systems”, in Fisher et al. (2005), pp. 469–495.
-* Fitting, M., and R. Mendelsohn, 1998, _First Order Modal Logic_, Dordrecht: Kluwer.
-* French, T., 2001, “Decidability of Quantified Propositional Branching Time Logics”, _Advances in AI_ (Lecture Notes in Computer Science: Volume 2256), Berlin: Springer, pp. 165–176.
-* French, T., and M. Reynolds, 2003, “A Sound and Complete Proof System for QPTL”, in Balbiani et al. (eds.), _Advances in Modal Logic_ (Volume 4), London: College Publication, pp. 127–148.
-* Gabbay, D.M., and F. Guenthner (eds.), 2002, _Handbook of Philosophical Logic_ (Volume 7), Second Edition, Dordrecht: Kluwer.
-* Gabbay, D.M., I. Hodkinson, and M. Reynolds, 1994, _Temporal Logic: Mathematical Foundations and Computational Aspects_ (Volume 1), Oxford: Clarendon Press.
-* Gabbay, D., A. Kurucz, F. Wolter, and M. Zakharyaschev, 2003, _Many-Dimensional Modal Logics: Theory and Applications_, Amsterdam: Elsevier.
-* Gabbay, D.M., A. Pnueli, S. Shelah, and J. Stavi, 1980, “On the Temporal Basis of Fairness”, in _Proceedings of the 7th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages_, pp. 163–173.
-* Gabbay, D.M., M. Reynolds, and M. Finger, 2000, _Temporal Logic: Mathematical Foundations and Computational Aspects_ (Volume 2), Oxford: Oxford University Press.
-* Gabelaia, D., R. Kontchakov, A. Kurucz, F. Wolter, and M. Zakharyaschev, 2005, “Combining Spatial and Temporal Logics: Expressiveness vs. Complexity”, _Journal of Artificial Intelligence Research_, 23: 167–243.
-* Galton, A.P., 1984, _The Logic of Aspect_, Oxford: Clarendon Press.
-* –––, 1990, “A Critical Examination of Allen’s Theory of Action and Time”, _Artificial Intelligence_, 42: 159–188.
-* –––, 1987, _Temporal Logics and their Applications_, London: Academic Press.
-* –––, 1995, “Time and Change for AI”, in D.M. Gabbay, C.J. Hogger, and J.A. Robinson, _Handbook of Logic in Artificial Intelligence and Logic Programming_ (Volume 4), Oxford: Clarendon Press, pp. 175–240.
-* –––, 1996, “Time and Continuity in Philosophy, Mathematics, and Artificial Intelligence”, _Kodikas/Code_, 19 (1–2): 101–119.
-* –––, 2008, “Temporal Logic”, in E.N. Zalta (ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), URL = [https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/](https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/).
-* Garson, J., 1984, “Quantification in Modal Logic”, in D.M. Gabbay, and F. Guenthner (eds.), _Handbook of Philosophical Logic_, Dordrecht: Reidel, pp. 249–307.
-* Goldblatt, R., 1980, “Diodorean Modality in Minkowski Spacetime”, _Studia Logica_, 39: 219–236. \[Reprinted in _Mathematics of Modality_ (CSLI Lecture Notes 43), Stanford: CSLI Publications, 1993.]
-* –––, 1992, _Logics of Time and Computation_ (CSLI Lecture Notes 7), Second Edition, Stanford: CSLI Publications.
-* Goranko, V., 1996, “Hierarchies of Modal and Temporal Logics with Reference Pointers”, _Journal of Logic, Language and Information_, 5(1): 1–24.
-* Goranko, V., and G. van Drimmelen, 2006, “Complete Axiomatization and Decidablity of the Alternating-Time Temporal Logic”, _Theoretical Computer Science_, 353: 93–117.
-* Goranko, V., A. Montanari, and G. Sciavicco, 2003, “Propositional Interval Neighborhood Logics”, _Journal of Universal Computer Science_, 9(9): 1137–1167.
-* –––, 2004, “A Road Map of Propositional Interval Temporal Logics and Duration Calculi”, _Journal of Applied Non-Classical Logics_ (Special Issue on Interval Temporal Logics and Duration Calculi), 14(1–2): 11–56.
-* Goranko, V., and D. Shkatov, 2010, “Tableau-Based Decision Procedures for Logics of Strategic Ability in Multi-Agent Systems”, _ACM Transactions of Computational Logic_, 11(1): 3–51.
-* Goré, R., 1999, “Tableau Methods for Modal and Temporal Logics”, in M. D’Agostino, D.M. Gabbay, R. Hahnle, and J. Posegga (eds.), _Handbook of Tableau Methods_, Dordrecht: Kluwer, pp. 297–396.
-* Grädel, E., and M. Otto, 1999, “On Logics With Two Variables”, _Theoretical Computer Science_, 224(1–2), pp. 73–113.
-* Gurevich, Y., and S. Shelah, 1985, “The Decision Problem for Branching Time Logic”, _Journal of Symbolic Logic_, 50: 668–681.
-* Halpern, J., and Y. Shoham, 1986. “A Propositional Modal Logic of Time Intervals”, in _Proceedings of the 2nd IEEE Symposium on Logic in Computer Science_, pp. 279–292. \[Reprinted in _Journal of the ACM_, 38(4): 935–962, 1991.]
-* Halpern, J., and M. Vardi, 1989, “The Complexity of Reasoning about Knowledge and Time I: Lower Bounds”, _Journal of Computer and System Sciences_, 38(1): 195–237.
-* Hamblin, C.L., 1972, “Instants and Intervals”, in J.T. Fraser, F. Haber, and G. Müller (eds.), _The Study of Time_, Berlin/Heidelberg: Springer, pp. 324–331.
-* Hansen, M.R., and C. Zhou, 1997, “Duration Calculus: Logical Foundations”, _Formal Aspects of Computing_, 9: 283–330.
-* Hart, S., and M. Sharir, 1986, “Probabilistic Propositional Temporal Logics”, _Information and Control_, 70(2–3): 97–155.
-* Hasle, P., P. Blackburn, and P. Øhrstrøm (eds.), 2017, _Logic and Philosophy of Time: Themes from Prior_ (Volume 1), Aalborg: Aalborg University Press.
+* Fitting, M., and R. Mendelsohn, 1998, *First Order Modal Logic*, Dordrecht: Kluwer.
+* French, T., 2001, “Decidability of Quantified Propositional Branching Time Logics”, *Advances in AI* (Lecture Notes in Computer Science: Volume 2256), Berlin: Springer, pp. 165–176.
+* French, T., and M. Reynolds, 2003, “A Sound and Complete Proof System for QPTL”, in Balbiani et al. (eds.), *Advances in Modal Logic* (Volume 4), London: College Publication, pp. 127–148.
+* Gabbay, D.M., and F. Guenthner (eds.), 2002, *Handbook of Philosophical Logic* (Volume 7), Second Edition, Dordrecht: Kluwer.
+* Gabbay, D.M., I. Hodkinson, and M. Reynolds, 1994, *Temporal Logic: Mathematical Foundations and Computational Aspects* (Volume 1), Oxford: Clarendon Press.
+* Gabbay, D., A. Kurucz, F. Wolter, and M. Zakharyaschev, 2003, *Many-Dimensional Modal Logics: Theory and Applications*, Amsterdam: Elsevier.
+* Gabbay, D.M., A. Pnueli, S. Shelah, and J. Stavi, 1980, “On the Temporal Basis of Fairness”, in *Proceedings of the 7th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages*, pp. 163–173.
+* Gabbay, D.M., M. Reynolds, and M. Finger, 2000, *Temporal Logic: Mathematical Foundations and Computational Aspects* (Volume 2), Oxford: Oxford University Press.
+* Gabelaia, D., R. Kontchakov, A. Kurucz, F. Wolter, and M. Zakharyaschev, 2005, “Combining Spatial and Temporal Logics: Expressiveness vs. Complexity”, *Journal of Artificial Intelligence Research*, 23: 167–243.
+* Galton, A.P., 1984, *The Logic of Aspect*, Oxford: Clarendon Press.
+* –––, 1990, “A Critical Examination of Allen’s Theory of Action and Time”, *Artificial Intelligence*, 42: 159–188.
+* –––, 1987, *Temporal Logics and their Applications*, London: Academic Press.
+* –––, 1995, “Time and Change for AI”, in D.M. Gabbay, C.J. Hogger, and J.A. Robinson, *Handbook of Logic in Artificial Intelligence and Logic Programming* (Volume 4), Oxford: Clarendon Press, pp. 175–240.
+* –––, 1996, “Time and Continuity in Philosophy, Mathematics, and Artificial Intelligence”, *Kodikas/Code*, 19 (1–2): 101–119.
+* –––, 2008, “Temporal Logic”, in E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), URL = [https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/](https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/).
+* Garson, J., 1984, “Quantification in Modal Logic”, in D.M. Gabbay, and F. Guenthner (eds.), *Handbook of Philosophical Logic*, Dordrecht: Reidel, pp. 249–307.
+* Goldblatt, R., 1980, “Diodorean Modality in Minkowski Spacetime”, *Studia Logica*, 39: 219–236. \[Reprinted in *Mathematics of Modality* (CSLI Lecture Notes 43), Stanford: CSLI Publications, 1993.]
+* –––, 1992, *Logics of Time and Computation* (CSLI Lecture Notes 7), Second Edition, Stanford: CSLI Publications.
+* Goranko, V., 1996, “Hierarchies of Modal and Temporal Logics with Reference Pointers”, *Journal of Logic, Language and Information*, 5(1): 1–24.
+* Goranko, V., and G. van Drimmelen, 2006, “Complete Axiomatization and Decidablity of the Alternating-Time Temporal Logic”, *Theoretical Computer Science*, 353: 93–117.
+* Goranko, V., A. Montanari, and G. Sciavicco, 2003, “Propositional Interval Neighborhood Logics”, *Journal of Universal Computer Science*, 9(9): 1137–1167.
+* –––, 2004, “A Road Map of Propositional Interval Temporal Logics and Duration Calculi”, *Journal of Applied Non-Classical Logics* (Special Issue on Interval Temporal Logics and Duration Calculi), 14(1–2): 11–56.
+* Goranko, V., and D. Shkatov, 2010, “Tableau-Based Decision Procedures for Logics of Strategic Ability in Multi-Agent Systems”, *ACM Transactions of Computational Logic*, 11(1): 3–51.
+* Goré, R., 1999, “Tableau Methods for Modal and Temporal Logics”, in M. D’Agostino, D.M. Gabbay, R. Hahnle, and J. Posegga (eds.), *Handbook of Tableau Methods*, Dordrecht: Kluwer, pp. 297–396.
+* Grädel, E., and M. Otto, 1999, “On Logics With Two Variables”, *Theoretical Computer Science*, 224(1–2), pp. 73–113.
+* Gurevich, Y., and S. Shelah, 1985, “The Decision Problem for Branching Time Logic”, *Journal of Symbolic Logic*, 50: 668–681.
+* Halpern, J., and Y. Shoham, 1986. “A Propositional Modal Logic of Time Intervals”, in *Proceedings of the 2nd IEEE Symposium on Logic in Computer Science*, pp. 279–292. \[Reprinted in *Journal of the ACM*, 38(4): 935–962, 1991.]
+* Halpern, J., and M. Vardi, 1989, “The Complexity of Reasoning about Knowledge and Time I: Lower Bounds”, *Journal of Computer and System Sciences*, 38(1): 195–237.
+* Hamblin, C.L., 1972, “Instants and Intervals”, in J.T. Fraser, F. Haber, and G. Müller (eds.), *The Study of Time*, Berlin/Heidelberg: Springer, pp. 324–331.
+* Hansen, M.R., and C. Zhou, 1997, “Duration Calculus: Logical Foundations”, *Formal Aspects of Computing*, 9: 283–330.
+* Hart, S., and M. Sharir, 1986, “Probabilistic Propositional Temporal Logics”, *Information and Control*, 70(2–3): 97–155.
+* Hasle, P., P. Blackburn, and P. Øhrstrøm (eds.), 2017, *Logic and Philosophy of Time: Themes from Prior* (Volume 1), Aalborg: Aalborg University Press.
 * Hodkinson, I., and M. Reynolds, 2006, “Temporal Logic”, in Blackburn et al. (2006), pp. 655–720.
-* Hodkinson, I., F. Wolter, and M. Zakharyaschev, 2000, “Decidable Fragments of First-Order Temporal Logics”, _Annals of Pure and Applied Logic_, 106(1–3): 85–134.
-* –––, 2001, “Monodic Fragments of First-Order Temporal Logics: 2000-2001 A.D.”, in _Logic for Programming, Artificial Intelligence, and Reasoning_, Proceedings of the 8th International Conference LPAR 2001, Springer, pp. 1–23.
-* –––, 2002, “Decidable and Undecidable Fragments of First-Order Branching Temporal Logics”, in _Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science_, IEEE Computer Society Press, pp. 393–402.
-* Humberstone, I.L., 1979, “Interval Semantics for Tense Logic: Some Remarks”, _Journal of Philosophical Logic_, 8: 171–196.
-* Ingthorsson, R.D., 2016, _McTaggart’s Paradox_, New York: Routledge.
-* Kamide, N., and H. Wansing, 2010, “Combining Linear-Time Temporal Logic with Constructiveness and Paraconsistency”, _Journal of Applied Logic_, 6: 33–61.
-* –––, 2011, “A Paraconsistent Linear-Time Temporal Logic”, _Fundamenta Informaticae_, 106: 1–23.
-* Kamp, J., 1968, _Tense Logic and the Theory of Linear Order_, PhD Thesis, University of California, Los Angeles.
-* –––, 1971, “Formal Properties of ‘Now’”, _Theoria_, 37: 227–273.
-* –––, 1979, “Events, Instants and Temporal Reference”, in R. Bäuerle, U. Egli, and A. von Stechow (eds.), _Semantics from Different Points of View_, Berlin: Springer, pp. 376–417.
-* Kesten, Y., and A. Pnueli, 2002, “Complete Proof System for QPTL”. _Journal of Logic and Computation_, 12(5): 701–745.
-* Kontchakov, R., A. Kurucz, F. Wolter, and M. Zakharyaschev, 2007, “Spatial Logic + Temporal Logic = ?”, in M. Aiello, J. van Benthem, and I. Pratt-Hartmann (eds.), _Handbook of Spatial Logics_, Berlin: Springer, pp. 497–564.
-* Kontchakov, R., C. Lutz, F. Wolter, and M. Zakharyaschev, 2004, “Temporalising Tableaux”, _Studia Logica_, 76(1): 91–134.
-* Konur, S., 2013, “A Survey on Temporal Logics for Specifying and Verifying Real-Time Systems”, _Frontiers of Computer Science_, 7(3): 370–403.
-* Koymans, R., 1990, “Specifying Real-Time Properties with Metric Temporal Logic”, _Real-Time Systems_, 2(4): 55–299.
-* Kowalski, R.A., and M.J. Sergot, 1986, “A Logic-Based Calculus of Events”, _New Generation Computing_, 4: 67–95.
-* Kröger, F., and S. Merz, 2008, _Temporal Logic and State Systems_ (EATCS Texts in Theoretical Computer Science Series), Berlin: Springer.
+* Hodkinson, I., F. Wolter, and M. Zakharyaschev, 2000, “Decidable Fragments of First-Order Temporal Logics”, *Annals of Pure and Applied Logic*, 106(1–3): 85–134.
+* –––, 2001, “Monodic Fragments of First-Order Temporal Logics: 2000-2001 A.D.”, in *Logic for Programming, Artificial Intelligence, and Reasoning*, Proceedings of the 8th International Conference LPAR 2001, Springer, pp. 1–23.
+* –––, 2002, “Decidable and Undecidable Fragments of First-Order Branching Temporal Logics”, in *Proceedings of the 17th Annual IEEE Symposium on Logic in Computer Science*, IEEE Computer Society Press, pp. 393–402.
+* Humberstone, I.L., 1979, “Interval Semantics for Tense Logic: Some Remarks”, *Journal of Philosophical Logic*, 8: 171–196.
+* Ingthorsson, R.D., 2016, *McTaggart’s Paradox*, New York: Routledge.
+* Kamide, N., and H. Wansing, 2010, “Combining Linear-Time Temporal Logic with Constructiveness and Paraconsistency”, *Journal of Applied Logic*, 6: 33–61.
+* –––, 2011, “A Paraconsistent Linear-Time Temporal Logic”, *Fundamenta Informaticae*, 106: 1–23.
+* Kamp, J., 1968, *Tense Logic and the Theory of Linear Order*, PhD Thesis, University of California, Los Angeles.
+* –––, 1971, “Formal Properties of ‘Now’”, *Theoria*, 37: 227–273.
+* –––, 1979, “Events, Instants and Temporal Reference”, in R. Bäuerle, U. Egli, and A. von Stechow (eds.), *Semantics from Different Points of View*, Berlin: Springer, pp. 376–417.
+* Kesten, Y., and A. Pnueli, 2002, “Complete Proof System for QPTL”. *Journal of Logic and Computation*, 12(5): 701–745.
+* Kontchakov, R., A. Kurucz, F. Wolter, and M. Zakharyaschev, 2007, “Spatial Logic + Temporal Logic = ?”, in M. Aiello, J. van Benthem, and I. Pratt-Hartmann (eds.), *Handbook of Spatial Logics*, Berlin: Springer, pp. 497–564.
+* Kontchakov, R., C. Lutz, F. Wolter, and M. Zakharyaschev, 2004, “Temporalising Tableaux”, *Studia Logica*, 76(1): 91–134.
+* Konur, S., 2013, “A Survey on Temporal Logics for Specifying and Verifying Real-Time Systems”, *Frontiers of Computer Science*, 7(3): 370–403.
+* Koymans, R., 1990, “Specifying Real-Time Properties with Metric Temporal Logic”, *Real-Time Systems*, 2(4): 55–299.
+* Kowalski, R.A., and M.J. Sergot, 1986, “A Logic-Based Calculus of Events”, *New Generation Computing*, 4: 67–95.
+* Kröger, F., and S. Merz, 2008, *Temporal Logic and State Systems* (EATCS Texts in Theoretical Computer Science Series), Berlin: Springer.
 * Kuhn, S.T., and P. Portner, 2002, “Tense and Time”, in Gabbay and Guenthner (2002), pp. 277–346.
-* Ladkin, P., 1987, _The Logic of Time Representation_, PhD Thesis, University of California, Berkeley.
-* van Lambalgen, M., and F. Hamm, 2005, _The Proper Treatment of Events_, Malden: Blackwell.
-* Lamport, L., 1994, “The Temporal Logic of Actions”, _ACM Transactions on Programming Languages and Systems_, 16(3): 872–923.
+* Ladkin, P., 1987, *The Logic of Time Representation*, PhD Thesis, University of California, Berkeley.
+* van Lambalgen, M., and F. Hamm, 2005, *The Proper Treatment of Events*, Malden: Blackwell.
+* Lamport, L., 1994, “The Temporal Logic of Actions”, *ACM Transactions on Programming Languages and Systems*, 16(3): 872–923.
 * Lindström, S., and K. Segerberg, 2006, “Modal Logic and Philosophy”, in Blackburn et al. (2006), pp. 1149–1214
-* Linsky, B., and E. Zalta, 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives_, 8: 431–458.
-* Lorini, E., 2013, “Temporal STIT Logic and Its Application to Normative Reasoning”, _Journal of Applied Non-Classical Logics_, 23(4): 372–399.
-* Lutz, K., F. Wolter, and M. Zakharyaschev, 2008, “Temporal Description Logics: A Survey”, _Proceedings of TIME 2008_, pp. 3–14.
-* Ma, J., and B. Knight, 2001, “Reified Temporal Logics: An Overview”, _Artificial Intelligence Review_, 15(3): 189–217.
-* MacFarlane, J., 2003, “Future Contingents and Relative Truth”, _The Philosophical Quarterly_, 53(212): 321–336.
-* –––, 2014, _Assessment Sensitivity: Relative Truth and Its Applications_, Oxford: Oxford University Press.
-* Manna, Z., and A. Pnueli, 1992, _The Temporal Logic of Reactive and Concurrent Systems_ (Specification: Volume 1), Springer: New York.
-* Mani, I., J. Pustejovsky, and R. Gaizauskas, 2005, _The Language of Time: A Reader_, Oxford: Oxford University Press.
-* Marx, M., and M. Reynolds, 1999, “Undecidability of Compass Logic”, _Journal of Logic and Computation_, 9(6): 897–914.
-* McArthur, R., 1976, _Tense Logic_, Synthese Library, Springer.
-* McCarthy, J., and P.J. Hayes, 1969, “Some Philosophical Problems from the Standpoint of Artificial Intelligence”, in D. Michie, and B. Meltzer (eds.), _Machine Intelligence 4_, Edinburgh: Edinburgh University Press, pp. 463–502.
-* McDermott, D., 1982, “A Temporal Logic for Reasoning about Processes and Plans”, _Cognitive Science_, 6: 101–155.
-* McTaggart, E.J., 1908, “The Unreality of Time”, _Mind_, 17(68): 457–472.
-* Merz, S., 1992, “Decidability and Incompleteness Results for First-Order Temporal Logics of Linear Time”, _Journal of Applied Non-Classical Logic_, 2(2): 139–156.
+* Linsky, B., and E. Zalta, 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives*, 8: 431–458.
+* Lorini, E., 2013, “Temporal STIT Logic and Its Application to Normative Reasoning”, *Journal of Applied Non-Classical Logics*, 23(4): 372–399.
+* Lutz, K., F. Wolter, and M. Zakharyaschev, 2008, “Temporal Description Logics: A Survey”, *Proceedings of TIME 2008*, pp. 3–14.
+* Ma, J., and B. Knight, 2001, “Reified Temporal Logics: An Overview”, *Artificial Intelligence Review*, 15(3): 189–217.
+* MacFarlane, J., 2003, “Future Contingents and Relative Truth”, *The Philosophical Quarterly*, 53(212): 321–336.
+* –––, 2014, *Assessment Sensitivity: Relative Truth and Its Applications*, Oxford: Oxford University Press.
+* Manna, Z., and A. Pnueli, 1992, *The Temporal Logic of Reactive and Concurrent Systems* (Specification: Volume 1), Springer: New York.
+* Mani, I., J. Pustejovsky, and R. Gaizauskas, 2005, *The Language of Time: A Reader*, Oxford: Oxford University Press.
+* Marx, M., and M. Reynolds, 1999, “Undecidability of Compass Logic”, *Journal of Logic and Computation*, 9(6): 897–914.
+* McArthur, R., 1976, *Tense Logic*, Synthese Library, Springer.
+* McCarthy, J., and P.J. Hayes, 1969, “Some Philosophical Problems from the Standpoint of Artificial Intelligence”, in D. Michie, and B. Meltzer (eds.), *Machine Intelligence 4*, Edinburgh: Edinburgh University Press, pp. 463–502.
+* McDermott, D., 1982, “A Temporal Logic for Reasoning about Processes and Plans”, *Cognitive Science*, 6: 101–155.
+* McTaggart, E.J., 1908, “The Unreality of Time”, *Mind*, 17(68): 457–472.
+* Merz, S., 1992, “Decidability and Incompleteness Results for First-Order Temporal Logics of Linear Time”, *Journal of Applied Non-Classical Logic*, 2(2): 139–156.
 * ter Meulen, A., 2005, “Temporal Reasoning in Natural Language”, in Fisher et al. (2005), pp. 559–585.
-* Meyer, U., 2013, _The Nature of Time_, Oxford: Oxford University Press.
-* Montanari, A., 1996, _Metric and Layered Temporal Logic for Time Granularity_, PhD Thesis (Institute for Logic, Language, and Computation Dissertation Series, Volume: 1996–02), University of Amsterdam.
-* Montanari, A., and A. Policriti, 1996, “Decidability Results for Metric and Layered Temporal Logics”, _Notre Dame Journal Formal Logic_, 37(2): 260–282.
+* Meyer, U., 2013, *The Nature of Time*, Oxford: Oxford University Press.
+* Montanari, A., 1996, *Metric and Layered Temporal Logic for Time Granularity*, PhD Thesis (Institute for Logic, Language, and Computation Dissertation Series, Volume: 1996–02), University of Amsterdam.
+* Montanari, A., and A. Policriti, 1996, “Decidability Results for Metric and Layered Temporal Logics”, *Notre Dame Journal Formal Logic*, 37(2): 260–282.
 * Moss, S.L., and H.J. Tiede, 2006, “Applications of Modal Logic in Linguistics”, in Blackburn et al. (2006), pp. 1003–1076.
-* Moszkowski, B., 1983, _Reasoning about Digital Circuits_, PhD Thesis (Technical Report STAN-CS-83–970), Department of Computer Science, Stanford University.
-* Müller, T., 2011, “Tense or Temporal Logic”, in R. Pettigrew (ed.), _The Continuum Companion to Philosophical Logic_, London: Continuum, pp. 324–350.
-* –––, 2013, “A Generalized Manifold Topology for Branching Space-Times”, _Philosophy of Science_, 80: 1089–1100.
-* ––– (ed.), 2014, _Nuel Belnap on Indeterminism and Free Action_ (Outstanding Contributions to Logic: Volume 2), Springer.
-* Nishimura, H., 1979, “Is the Semantics of Branching Structures Adequate for Non-Metric Ockhamist Tense Logics?”, _Journal of Philosophical Logic_, 8: 477–478.
-* Ogihara, T., 2007, “Tense and Aspect in Truth-Conditional Semantics”, _Lingua_, 117:392–418.
-* –––, 2011, “Tense”, in C. Maienborn, K. von Heusinger, and P. Portner (eds.), _Semantics: An International Handbook of Natural Language Meaning_, de Gruyter, pp. 1463–1484.
-* Øhrstrøm, P., 2009, “In Defense of the Thin Red Line: A Case for Ockhamism”, _Humana Mente_, 8: 17–32.
-* –––, 2019, “A Critical Discussion of Prior’s Philosophical and Tense-Logical Analysis of the Ideas of Indeterminism and Human Freedom”, _Synthese_, 196(1): 69–85.
-* Øhrstrøm, P., and P. Hasle, 1995, _Temporal Logic: From Ancient Ideas to Artificial Intelligence_, Dordrecht: Kluwer Academic Publishers.
-* –––, 2006, “Modern Temporal Logic: The Philosophical Background”, in _Handbook of the History of Logic_ (Volume 7), pp. 447–498.
+* Moszkowski, B., 1983, *Reasoning about Digital Circuits*, PhD Thesis (Technical Report STAN-CS-83–970), Department of Computer Science, Stanford University.
+* Müller, T., 2011, “Tense or Temporal Logic”, in R. Pettigrew (ed.), *The Continuum Companion to Philosophical Logic*, London: Continuum, pp. 324–350.
+* –––, 2013, “A Generalized Manifold Topology for Branching Space-Times”, *Philosophy of Science*, 80: 1089–1100.
+* ––– (ed.), 2014, *Nuel Belnap on Indeterminism and Free Action* (Outstanding Contributions to Logic: Volume 2), Springer.
+* Nishimura, H., 1979, “Is the Semantics of Branching Structures Adequate for Non-Metric Ockhamist Tense Logics?”, *Journal of Philosophical Logic*, 8: 477–478.
+* Ogihara, T., 2007, “Tense and Aspect in Truth-Conditional Semantics”, *Lingua*, 117:392–418.
+* –––, 2011, “Tense”, in C. Maienborn, K. von Heusinger, and P. Portner (eds.), *Semantics: An International Handbook of Natural Language Meaning*, de Gruyter, pp. 1463–1484.
+* Øhrstrøm, P., 2009, “In Defense of the Thin Red Line: A Case for Ockhamism”, *Humana Mente*, 8: 17–32.
+* –––, 2019, “A Critical Discussion of Prior’s Philosophical and Tense-Logical Analysis of the Ideas of Indeterminism and Human Freedom”, *Synthese*, 196(1): 69–85.
+* Øhrstrøm, P., and P. Hasle, 1995, *Temporal Logic: From Ancient Ideas to Artificial Intelligence*, Dordrecht: Kluwer Academic Publishers.
+* –––, 2006, “Modern Temporal Logic: The Philosophical Background”, in *Handbook of the History of Logic* (Volume 7), pp. 447–498.
 * –––, 2019, “The Significance of the Contributions of A.N. Prior and Jerzy Łoś in the Early History of Modern Temporal Logic”, in Blackburn et al. (2019), pp. 31–40.
-* Pani, A.K., and G.P. Bhattacharjee, 2001, “Temporal Representation and Reasoning in Artificial Intelligence: A Review”, _Mathematical and Computer Modelling_, 34: 55–80.
-* Parsons, T., 1990, _Events in the Semantics of English: A Study in Subatomic Semantics_, Cambridge: MIT Press.
-* Partee, B., 1973, “Some Structural Analogies between Tenses and Pronouns in English”, _The Journal of Philosophy_, 70(18): 601–609.
-* Passy, S., and T. Tinchev, 1985. “Quantifiers in Combinatory PDL: Completeness, Definability, Incompleteness”, in _Fundamentals of Computation Theory FCT 85_ (Lecture Notes in Computer Science: Volume 199), Berlin: Springer, pp. 512–519.
-* Pinto, J., and R. Reiter, 1995, “Reasoning about Time in the Situation Calculus”, _Annals of Mathematics and Artificial Intelligence_, 14(2–4): 251–268.
+* Pani, A.K., and G.P. Bhattacharjee, 2001, “Temporal Representation and Reasoning in Artificial Intelligence: A Review”, *Mathematical and Computer Modelling*, 34: 55–80.
+* Parsons, T., 1990, *Events in the Semantics of English: A Study in Subatomic Semantics*, Cambridge: MIT Press.
+* Partee, B., 1973, “Some Structural Analogies between Tenses and Pronouns in English”, *The Journal of Philosophy*, 70(18): 601–609.
+* Passy, S., and T. Tinchev, 1985. “Quantifiers in Combinatory PDL: Completeness, Definability, Incompleteness”, in *Fundamentals of Computation Theory FCT 85* (Lecture Notes in Computer Science: Volume 199), Berlin: Springer, pp. 512–519.
+* Pinto, J., and R. Reiter, 1995, “Reasoning about Time in the Situation Calculus”, *Annals of Mathematics and Artificial Intelligence*, 14(2–4): 251–268.
 * Placek, T., 2014, “Branching for General Relativists”, in Müller (2014), pp. 191–221.
-* Ploug, T., and P. Øhrstrøm, 2012, “Branching Time, Indeterminism, and Tense Logic: Unveiling the Prior-Kripke Letters”, _Synthese_, 188(3): 367–379.
-* Pnueli, A., 1977, “The Temporal Logic of Programs”, _Proceedings of the 18th IEEE Symposium on Foundations of Computer Science_, pp. 46–67.
-* Prior, A.N., 1957, _Time and Modality_, Oxford: Oxford University Press.
-* –––, 1959, “Thank Goodness that’s over”, _Philosophy_, 34(128): 12–17.
-* –––, 1967, _Past, Present and Future_, Oxford: Oxford University Press.
-* –––, 1968, _Papers on Time and Tense_, Oxford: Oxford University Press. \[New edition: P. Hasle et al. (eds.), Oxford: Oxford University Press, 2003.]
-* Reichenbach, H., 1947, _Elements of Symbolic Logic_, New York: Macmillan.
-* Rescher, N., and A. Urquhart, 1971, _Temporal Logic_, Berlin: Springer.
-* Reynolds, M., 1994, “Axiomatizing U and S over Integer Time”, in D.M. Gabbay, and H.J. Ohlbach (eds.), _Temporal Logic_, Proceedings of the First International Conference ICTL 1994 (Lecture Notes in Artificial Intelligence: Volume 828), Berlin/Heidelberg: Springer, pp. 117–132.
-* –––, 1996, “Axiomatising First-Order Temporal Logic: Until and Since over Linear Time”, _Studia Logica_, 57(2–3): 279–302.
-* –––, 2001, “An Axiomatization of Full Computation Tree Logic”, _Journal of Symbolic Logic_, 66: 1011–1057.
-* –––, 2002, “Axioms for Branching Time”. _Journal of Logic and Computation_, 12(4): 679–697.
-* –––, 2003, “An Axiomatization of Prior’s Ockhamist Logic of Historical Necessity”, in Balbiani et al. (eds.), _Advances in Modal Logic_ (Volume 4), London: College Publications, pp. 355–370.
-* –––, 2005, “An Axiomatization of PCTL\*”, _Information and Computation_, 201(1): 72–119.
-* –––, 2007, “A Tableau for Bundled CTL”, _Journal of Logic and Computation_, 17(1): 117–132.
-* –––, 2010, “The Complexity of Temporal Logic over the Reals”, _Annals of Pure and Applied Logic_, 161(8): 1063–1096.
-* –––, 2011, “A Tableau-Based Decision Procedure for CTL\*”, _Formal Aspects of Computing_, 23(6): 739–779.
-* –––, 2014, “A Tableau for Temporal Logic over the Reals”, in Goré et al. (eds.), _Advances in Modal Logic_ (Volume 10), London: College Publications, pp. 439–458.
-* Röper, P., 1980, “Intervals and Tenses”, _Journal of Philosophical Logic_, 9: 451–469.
-* Rumberg, A., 2016, “Transition Semantics for Branching Time”, _Journal of Logic, Language and Information_, 25(1): 77–108.
+* Ploug, T., and P. Øhrstrøm, 2012, “Branching Time, Indeterminism, and Tense Logic: Unveiling the Prior-Kripke Letters”, *Synthese*, 188(3): 367–379.
+* Pnueli, A., 1977, “The Temporal Logic of Programs”, *Proceedings of the 18th IEEE Symposium on Foundations of Computer Science*, pp. 46–67.
+* Prior, A.N., 1957, *Time and Modality*, Oxford: Oxford University Press.
+* –––, 1959, “Thank Goodness that’s over”, *Philosophy*, 34(128): 12–17.
+* –––, 1967, *Past, Present and Future*, Oxford: Oxford University Press.
+* –––, 1968, *Papers on Time and Tense*, Oxford: Oxford University Press. \[New edition: P. Hasle et al. (eds.), Oxford: Oxford University Press, 2003.]
+* Reichenbach, H., 1947, *Elements of Symbolic Logic*, New York: Macmillan.
+* Rescher, N., and A. Urquhart, 1971, *Temporal Logic*, Berlin: Springer.
+* Reynolds, M., 1994, “Axiomatizing U and S over Integer Time”, in D.M. Gabbay, and H.J. Ohlbach (eds.), *Temporal Logic*, Proceedings of the First International Conference ICTL 1994 (Lecture Notes in Artificial Intelligence: Volume 828), Berlin/Heidelberg: Springer, pp. 117–132.
+* –––, 1996, “Axiomatising First-Order Temporal Logic: Until and Since over Linear Time”, *Studia Logica*, 57(2–3): 279–302.
+* –––, 2001, “An Axiomatization of Full Computation Tree Logic”, *Journal of Symbolic Logic*, 66: 1011–1057.
+* –––, 2002, “Axioms for Branching Time”. *Journal of Logic and Computation*, 12(4): 679–697.
+* –––, 2003, “An Axiomatization of Prior’s Ockhamist Logic of Historical Necessity”, in Balbiani et al. (eds.), *Advances in Modal Logic* (Volume 4), London: College Publications, pp. 355–370.
+* –––, 2005, “An Axiomatization of PCTL\*”, *Information and Computation*, 201(1): 72–119.
+* –––, 2007, “A Tableau for Bundled CTL”, *Journal of Logic and Computation*, 17(1): 117–132.
+* –––, 2010, “The Complexity of Temporal Logic over the Reals”, *Annals of Pure and Applied Logic*, 161(8): 1063–1096.
+* –––, 2011, “A Tableau-Based Decision Procedure for CTL\*”, *Formal Aspects of Computing*, 23(6): 739–779.
+* –––, 2014, “A Tableau for Temporal Logic over the Reals”, in Goré et al. (eds.), *Advances in Modal Logic* (Volume 10), London: College Publications, pp. 439–458.
+* Röper, P., 1980, “Intervals and Tenses”, *Journal of Philosophical Logic*, 9: 451–469.
+* Rumberg, A., 2016, “Transition Semantics for Branching Time”, *Journal of Logic, Language and Information*, 25(1): 77–108.
 * –––, 2019, “Actuality and Possibility in Branching Time: The Roots of Transition Semantics”, in Blackburn et al. (2019), pp. 145–161.
-* Rumberg, A., and A. Zanardo, 2019, “First-Order Definability of Transition Structures”, _Journal of Logic, Language and Information_, 28(3): 459–488.
-* Segerberg, K., 1970, “Modal Logics with Linear Alternative Relations”, _Theoria_, 36: 301–322.
-* Shoham, Y., 1987, “Temporal Logic in AI: Semantical and Ontological Considerations”, _Artificial Intelligence_, 33: 89–104.
-* Steedman, M., 1997, “Temporality”, in J. van Benthem, and A. ter Meulen (eds.), _Handbook of Logic and Language_, Amsterdam: Elsevier, pp. 925–969.
-* Stirling, C., 1992, “Modal and Temporal Logics”, in _Handbook of Logic in Computer Science_ (Computational Structures: Volume 2), Oxford, Clarendon Press, pp. 477–563.
-* Thomason, R.H., 1970, “Indeterminist Time and Truth-Value Gaps”, _Theoria_, 36(3): 264–281.
-* –––, 1984, “Combinations of Tense and Modality”, in D.M. Gabbay, and F. Guenther (eds.), _Handbook of Philosophical Logic_ (Extensions of Classical Logic: Volume 2), Dordrecht: Reidel, pp. 135–165. \[New edition in Gabbay and Guenthner (2002), pp. 205–234.]
-* Tkaczyk, M., and T. Jarmużek, 2019, “Jerzy Łoś Positional Calculus and the Origin of Temporal Logic”, _Logic and Logical Philosophy_, (28): 259–276.
-* Uckelman, S.L., and J. Uckelman, 2007, “Modal and Temporal Logics for Abstract Space-Time Structures”, in _Studies in History and Philosophy of Science_ (Part B: Studies in History and Philosophy of Modern Physics), 38(3): 673–681.
+* Rumberg, A., and A. Zanardo, 2019, “First-Order Definability of Transition Structures”, *Journal of Logic, Language and Information*, 28(3): 459–488.
+* Segerberg, K., 1970, “Modal Logics with Linear Alternative Relations”, *Theoria*, 36: 301–322.
+* Shoham, Y., 1987, “Temporal Logic in AI: Semantical and Ontological Considerations”, *Artificial Intelligence*, 33: 89–104.
+* Steedman, M., 1997, “Temporality”, in J. van Benthem, and A. ter Meulen (eds.), *Handbook of Logic and Language*, Amsterdam: Elsevier, pp. 925–969.
+* Stirling, C., 1992, “Modal and Temporal Logics”, in *Handbook of Logic in Computer Science* (Computational Structures: Volume 2), Oxford, Clarendon Press, pp. 477–563.
+* Thomason, R.H., 1970, “Indeterminist Time and Truth-Value Gaps”, *Theoria*, 36(3): 264–281.
+* –––, 1984, “Combinations of Tense and Modality”, in D.M. Gabbay, and F. Guenther (eds.), *Handbook of Philosophical Logic* (Extensions of Classical Logic: Volume 2), Dordrecht: Reidel, pp. 135–165. \[New edition in Gabbay and Guenthner (2002), pp. 205–234.]
+* Tkaczyk, M., and T. Jarmużek, 2019, “Jerzy Łoś Positional Calculus and the Origin of Temporal Logic”, *Logic and Logical Philosophy*, (28): 259–276.
+* Uckelman, S.L., and J. Uckelman, 2007, “Modal and Temporal Logics for Abstract Space-Time Structures”, in *Studies in History and Philosophy of Science* (Part B: Studies in History and Philosophy of Modern Physics), 38(3): 673–681.
 * Vardi, M., 2006, “Automata-Theoretic Techniques for Temporal Reasoning”, in Blackburn et al. (2006), pp. 971–989.
-* Vardi, M., and P. Wolper, 1994, “Reasoning about Infinite Computations”, _Information and Computation_, 115: 1–37.
-* Venema, Y., 1990, “Expressiveness and Completeness of an Interval Tense Logic”, _Notre Dame Journal of Formal Logic_, 31: 529–547.
-* –––, 1991, “A Modal Logic for Chopping Intervals”, _Journal of Logic and Computation_, 1(4): 453–476.
-* –––, 1993, “Completeness via Completeness: Since and Until”, in M. de Rijke (ed.), _Diamonds and Defaults_, Dordrecht: Kluwer, pp. 279–286.
-* –––, 2001, “Temporal Logic”, in L. Goble (ed.), _Blackwell Guide to Philosophical Logic_, Oxford: Blackwell Publishers.
-* Vila, L., 1994, “A Survey on Temporal Reasoning in Artificial Intelligence”, _AI Communications_, 7: 4–28.
+* Vardi, M., and P. Wolper, 1994, “Reasoning about Infinite Computations”, *Information and Computation*, 115: 1–37.
+* Venema, Y., 1990, “Expressiveness and Completeness of an Interval Tense Logic”, *Notre Dame Journal of Formal Logic*, 31: 529–547.
+* –––, 1991, “A Modal Logic for Chopping Intervals”, *Journal of Logic and Computation*, 1(4): 453–476.
+* –––, 1993, “Completeness via Completeness: Since and Until”, in M. de Rijke (ed.), *Diamonds and Defaults*, Dordrecht: Kluwer, pp. 279–286.
+* –––, 2001, “Temporal Logic”, in L. Goble (ed.), *Blackwell Guide to Philosophical Logic*, Oxford: Blackwell Publishers.
+* Vila, L., 1994, “A Survey on Temporal Reasoning in Artificial Intelligence”, *AI Communications*, 7: 4–28.
 * –––, 2005, “Formal Theories of Time and Temporal Incidence”, in Fisher et al. (2005), pp. 1–24.
-* Wölfl, S., 1999, “Combinations of Tense and Modality for Predicate Logic”, _Journal of Philosophical Logic_, 28: 371–398.
-* Wolper, P., 1985, “The Tableau Method for Temporal Logic: An Overview”, _Logique et Analyse_, 28(110–111): 119–136.
-* Wolter F., and M. Zakharyaschev, 2000, “Temporalizing Description Logics”, in D.M. Gabbay, and M. de Rijke (eds.), _Frontiers of Combining Systems II_, New York: Wiley, pp. 379–401.
-* –––, 2002, “Axiomatizing the Monodic Fragment of First-Order Temporal Logic”, _Annals of Pure and Applied Logic_, 118(1–2): 133–145.
-* Xu, M., 1988, “On some U,S-Tense Logics”, _Journal of Philosophical Logic_, 17: 181–202.
-* Zanardo, A., 1985, “A Finite Axiomatization of the Set of Strongly Valid Ockhamist Formulas”, _Journal of Philosophical Logic_, 14: 447–468.
-* –––, 1990, “Axiomatization of ‘Peircean’ Branching-Time Logic”, _Studia Logica_, 49: 183–195.
-* –––, 1991, “A Complete Deductive System for Since-Until Branching Time Logic”, _Journal of Philosophical Logic_, 20: 131–148.
-* –––, 1996, “Branching-Time Logic with Quantification over Branches: The Point of View of Modal Logic”, _Journal of Symbolic Logic_, 61: 1–39.
-* –––, 1998, “Undivided and Indistinguishable Histories in Branching-Time Logics”, _Journal of Logic, Language and Information_, 7(3): 297–315.
-* –––, 2013, “Indistinguishability, Choices, and Logics of Agency”, _Studia Logica_, 101(6): 1215–1236.
-* Zanardo, A., B. Barcellan, and M. Reynolds, 1999, “Non-Definability of the Class of Complete Bundled Trees”, _Logic Journal of the IGPL_ (Special Issue on Temporal Logic), 7(1): 125–136.
+* Wölfl, S., 1999, “Combinations of Tense and Modality for Predicate Logic”, *Journal of Philosophical Logic*, 28: 371–398.
+* Wolper, P., 1985, “The Tableau Method for Temporal Logic: An Overview”, *Logique et Analyse*, 28(110–111): 119–136.
+* Wolter F., and M. Zakharyaschev, 2000, “Temporalizing Description Logics”, in D.M. Gabbay, and M. de Rijke (eds.), *Frontiers of Combining Systems II*, New York: Wiley, pp. 379–401.
+* –––, 2002, “Axiomatizing the Monodic Fragment of First-Order Temporal Logic”, *Annals of Pure and Applied Logic*, 118(1–2): 133–145.
+* Xu, M., 1988, “On some U,S-Tense Logics”, *Journal of Philosophical Logic*, 17: 181–202.
+* Zanardo, A., 1985, “A Finite Axiomatization of the Set of Strongly Valid Ockhamist Formulas”, *Journal of Philosophical Logic*, 14: 447–468.
+* –––, 1990, “Axiomatization of ‘Peircean’ Branching-Time Logic”, *Studia Logica*, 49: 183–195.
+* –––, 1991, “A Complete Deductive System for Since-Until Branching Time Logic”, *Journal of Philosophical Logic*, 20: 131–148.
+* –––, 1996, “Branching-Time Logic with Quantification over Branches: The Point of View of Modal Logic”, *Journal of Symbolic Logic*, 61: 1–39.
+* –––, 1998, “Undivided and Indistinguishable Histories in Branching-Time Logics”, *Journal of Logic, Language and Information*, 7(3): 297–315.
+* –––, 2013, “Indistinguishability, Choices, and Logics of Agency”, *Studia Logica*, 101(6): 1215–1236.
+* Zanardo, A., B. Barcellan, and M. Reynolds, 1999, “Non-Definability of the Class of Complete Bundled Trees”, *Logic Journal of the IGPL* (Special Issue on Temporal Logic), 7(1): 125–136.
 
 ## Academic Tools
 
@@ -1015,7 +1013,7 @@ LTL 的一个变体，对于指定和推理并发系统具有有用的应用是 
 * [A Research Site for Prior Studies and Temporal Logic](https://research.prior.aau.dk/priorstudies/)
 * [TIME International Symposium on Temporal Representation and Reasoning](http://time.di.unimi.it/TIME\Home.html)
 * [The Temporal Logic of Actions (TLA) Home Page](http://research.microsoft.com/en-us/um/people/lamport/tla/tla.html)
-* [Galton, A., “Temporal Logic”, _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition).](https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/)
+* [Galton, A., “Temporal Logic”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition).](https://plato.stanford.edu/archives/fall2008/entries/logic-temporal/)
 
 ## Related Entries
 
@@ -1026,5 +1024,5 @@ LTL 的一个变体，对于指定和推理并发系统具有有用的应用是 
 The first version of this entry was written by Antony Galton in 1999, later revised in Galton (2008). In 2015 the entry was substantially re-written and extended by the first author of the present version, which is itself a major revision and further extension of the 2015 version. We acknowledge Galton’s contribution to the previous versions, and we retained one example from Galton (2008) in Section 8.1, as indicated there. We are grateful to Johan van Benthem, Rob Goldblatt, Angelo Montanari, Yde Venema, Michael Zakharyaschev, Ed Zalta, and Alberto Zanardo for some helpful suggestions and corrections on the 2015 version.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Valentin Goranko](http://www2.philosophy.su.se/goranko/) <[_valentin.goranko@philosophy.su.se_](mailto:valentin%2egoranko%40philosophy%2esu%2ese)>\
-[Antje Rumberg](https://sites.google.com/view/antje-rumberg) <[_antje.rumberg@uni-tuebingen.de_](mailto:antje%2erumberg%40uni-tuebingen%2ede)>
+[Valentin Goranko](http://www2.philosophy.su.se/goranko/) <[*valentin.goranko@philosophy.su.se*](mailto:valentin%2egoranko%40philosophy%2esu%2ese)>\
+[Antje Rumberg](https://sites.google.com/view/antje-rumberg) <[*antje.rumberg@uni-tuebingen.de*](mailto:antje%2erumberg%40uni-tuebingen%2ede)>

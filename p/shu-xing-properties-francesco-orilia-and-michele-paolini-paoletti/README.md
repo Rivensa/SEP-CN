@@ -8,7 +8,6 @@
 
 在§1 中，我们考虑了一些最基本的主题，包括将属性纳入本体论的主要动机和论证。在§2 中，我们处理了属性被实例化的核心问题。在§3 中，我们解决了属性存在和身份条件的交织问题。在§4 中，我们考虑了属性可能具有结构复杂性的不同意义。在§5 中，我们调查了当前科学形而上学中对属性的频繁引用。在§6 中，我们总结了属性的形式化解释和它们在自然语言语义学和数学基础中的应用，并为对属性的本体论承诺提供了额外的动机。
 
- 
 ---
 
 ## 1. 属性：基本概念
@@ -377,7 +376,7 @@ A(x1/t1,…,xn/tn) 是通过同时将A中的每个xi替换为ti（对于1≤i≤
 * –––, 2009, “Structural Properties Revisited”, in *Dispositions and Causes*, Toby Handfield (ed.), Oxford: Clarendon, pp. 215–241.
 * Black, Robert, 2000, “Against Quidditism”, *Australasian Journal of Philosophy*, 78(1): 87–104. doi:10.1080/00048400012349371
 * Bochvar, D.A., 1938 [1981], “Об одном трехзначном исчислении и его применении к ана­ лизу парадоксов классического расширенного функцио­ нального исчисления”, *Matematicheskii Sbornik*, 4(46)/2: 287–308. Reprinted as “On a Three-Valued Logical Calculus and Its Application to the Analysis of the Paradoxes of the Classical Extended Functional Calculus”, Merrie Bergmann (trans.), *History and Philosophy of Logic*, 2(1–2): 87–112. doi:10.1080/01445348108837023
-* Bozon, Serge, 2004, “Why λHST* and HST*λ Do Not Solve the Russell-Myhill Paradox After All”, in *Proceedings of the 9th Student ESSLLI Session*, Laura Alonso i Alemany and Paul Égré (eds.), Nancy, France, pp. 48–60.
+* Bozon, Serge, 2004, “Why λHST*and HST*λ Do Not Solve the Russell-Myhill Paradox After All”, in *Proceedings of the 9th Student ESSLLI Session*, Laura Alonso i Alemany and Paul Égré (eds.), Nancy, France, pp. 48–60.
 * Braddon-Mitchell, David and Robert Nola (eds.), 2009, *Conceptual Analysis and Philosophical Naturalism*, Cambridge, MA: MIT Press.
 * Broad, C. D., 1933, *Examination of McTaggart’s Philosophy: Volume I*, Cambridge: Cambridge University Press.
 * Brown, Scott, 2017, “Against Instantiation as Identity”, *Philosophical Studies*, 174(4): 887–900. doi:10.1007/s11098-016-0712-5

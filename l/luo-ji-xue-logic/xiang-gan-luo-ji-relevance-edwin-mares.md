@@ -30,7 +30,6 @@ p→(q→p),¬p→(p→q),(p→q)∨(q→r).
 
 在本文中，我们将简要介绍相干逻辑领域，而且相对非技术性。
 
- 
 ---
 
 ## 1. 相干蕴涵的语义学
@@ -238,7 +237,7 @@ Routley和Val Plumwood（1989）以及Mares和André Fuhrmann（1995）基于相
 
 An extremely good, although slightly out of date, bibliography on relevance logic was put together by Robert Wolff and is in Anderson, Belnap, and Dunn (1992). What follows is a brief list of introductions to and books about relevant logic and works that are referred to above.
 
-### Books on Relevance Logic and Introductions to the Field:
+### Books on Relevance Logic and Introductions to the Field
 
 * Anderson, A.R. and N.D. Belnap, Jr., 1975, *Entailment: The Logic of Relevance and Necessity*, Princeton, Princeton University Press, Volume I. Anderson, A.R. N.D. Belnap, Jr. and J.M. Dunn (1992) *Entailment*, Volume II.
   
@@ -302,8 +301,7 @@ An extremely good, although slightly out of date, bibliography on relevance logi
   
   A very clear survey of recent technical and philosophical work in relevance logic.
   
-
-### Other Works Cited:
+### Other Works Cited
 
 * Anderson, A.R., 1967, “Some Nasty Problems in the Formal Logic of Ethics,” *Noûs*, 1: 354–360.
 * Avron, Arnon, 1990, “Relevance and Paraconsistency — A New Approach,” *The Journal of Symbolic Logic*, 55: 707–732.

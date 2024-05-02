@@ -1,10 +1,8 @@
 # 义务伦理学 deontological (Larry Alexander and Michael Moore)
 
-_首次发表于 2007 年 11 月 21 日星期三；实质性修订于 2020 年 10 月 30 日星期五_
+*首次发表于 2007 年 11 月 21 日星期三；实质性修订于 2020 年 10 月 30 日星期五*
 
 义务伦理学一词源自希腊语中的义务（deon）和科学（或研究）（logos）两个词。在当代道德哲学中，义务伦理学是关于哪些选择在道德上是必要的、被禁止的或被允许的那种规范性理论之一。换句话说，义务伦理学属于指导和评估我们应该做什么选择的道德理论领域（义务理论），与指导和评估我们是什么样的人以及应该成为什么样的人的道德理论（德性\[美德]理论）相对立。在评估我们的选择的道德理论领域中，持有义务伦理学道德理论的人——即那些赞同义务论道德理论的人——与功利主义者相对立。
-
-
 
 ***
 
@@ -204,111 +202,111 @@ _首次发表于 2007 年 11 月 21 日星期三；实质性修订于 2020 年 1
 
 ## Bibliography
 
-* Aboodi, R., A. Borer, and D. Enoch, 2008, “Deontology, Individualism, and Uncertainty: A Reply to Jackson and Smith,” _Journal of Philosophy_, 105: 259–272.
-* Alexander, L., 1985, “Pursuing the Good—Indirectly,” _Ethics_, 95(2): 315–332.
-* –––, 2000, “Deontology at the Threshold,” _San Diego Law Review_, 37(4): 893–912.
-* –––, 2004, “The Jurisdiction of Justice: Two Conceptions of Political Morality,” _San Diego Law Review_, 41(3): 949–966.
-* –––, 2016, “The Means Principle,” in K.K. Ferzan and S.J. Morse (eds.), _Legal, Moral, and Metaphysical Truths: The Philosophy of Michael S. Moore_, Oxford: Oxford University Press, 251–264.
-* –––, 2018, “The Need to Attend to Probabilities—For Purposes of Self-Defense and Other Preemptive Actions,” _San Diego L. Rev_, 55: 223– 229.
-* –––, 2019, “Responses and Appreciations,” _Moral Puzzles and Legal Perspectives_, H. Hurd (ed.), Cambridge: Cambridge University Press, 407–440.
-* Alexander, L. and K.K. Ferzan, 2009, _Crime and Culpability: A Theory of Criminal Law_, Cambridge: Cambridge University Press.
-* –––, 2012, “ ‘Moore or Less’ Causation and Responsibility: Reviewing Michael S. Moore, _Causation and Responsibility: An Essay in Law, Morals and Metaphysics_,” _Criminal Law and Philosophy_, 6(1): 81–92.
-* Anscombe, G.E.M., 1958, “Modern Moral Philosophy,” _Philosophy_, 33(124): 1–19, at 10.
-* –––, 1962, “War and Murder,” in _Nuclear Weapons: A Catholic Response_, W. Stein (ed.), New York: Sheed and Ward.
-* Arneson, R., 2019, “Deontology’s Travails,” Moral _Puzzles and Legal Perspectives_, H. Hurd (ed.), Cambridge: Cambridge University Press, 350–370.
-* Aquinas, T., 1952, _Summa Theologica_, Chicago: Encyclopedia Britannica.
-* Bennett, J., 1981, “Morality and Consequences,” in _The Tanner Lectures on Human Values_ (Volume 2), S. McMurrin (ed.), Cambridge: Cambridge University Press.
-* Bentham, J., 1789 (1948), _An Introduction to the Principles of Morals and of Legislation_, Oxford: Basil Blackwell.
-* Brody, B., 1996, “Withdrawing of Treatment Versus Killing of Patients,” in _Intending Death_, T. Beauchamp (ed.), Upper Saddle River: Prentice-Hall.
-* Brook, R., 2007, “Deontology, Paradox, and Moral Evil,” _Social Theory and Practice_, 33(3): 431–40.
-* Broome, J., 1998, “Review: Kamm on Fairness,” _Philosophy and Phenomenological Research_, 58 (4): 955–61.
-* Cole, K., 2019, “Two Cheers for Threshold Deontology,” _Moral Puzzles and Legal Perspectives_, H. Hurd (ed.), Cambridge: Cambridge University Press: 388–406.
-* Doggett, T., 2013, “Saving the Few,” _Noûs_, 33: 302–315.
-* Doucet, M., 2013, “Playing Dice with Morality: Weighted Lotteries and the Number Problem,” _Utilitas_, 25: 161–181.
-* Dougherty, T., 2013, “Rational Numbers: A Non-Consequentialist Explanation of Why You Should Save the Many and Not the Few,” _Philosophical Quarterly_, 63: 413–427.
-* Davis, N., 1984, “The Doctrine of Double Effect: Problems of Interpretation,” _Pacific Philosophical Quarterly_, 65: 107–123.
-* Ellis, A., 1992, “Deontology, Incommensurability and the Arbitrary,” _Philosophical and Phenomenological Research_, 52(4): 855–875.
-* Foot, P., 1967, “The Problem of Abortion and the Doctrine of Double Effect,” _Oxford Review_, 5: 5–15.
-* –––, 1985, “Utilitarianism and the Virtues,” _Mind_, 94: 107–123.
-* Frey, R.G., 1995, “Intention, Foresight, and Killing,” in _Intending Death_, T. Beauchamp (ed.), Upper Saddle River: Prentice-Hall.
-* Gauthier, D., 1986, _Morals By Agreement_, Oxford: Clarendon Press.
-* Geach, P., 1969, _God and the Soul_, New York: Shocken Books.
-* Halstead, J., 2016, “The Numbers Always Count,” _Ethics_, 126: 789–802.
-* Harsanyi, J., 1973, _Can the Maximin Principle Serve as a Basis for Morality?: A Critique of John Rawls’s Theory_, Berkeley: Center for Research in Management Science.
-* Hart, H.L.A. and T. Honore, 1985, _Causation in the Law_. New York: Oxford University Press, 2nd edition.
-* Heuer, U., 2011, “The Paradox of Deontology Revisited,” _Oxford Studies in Normative Ethics_, M. Timmons (ed.), Oxford: Oxford University Press, 236–267.
-* Henning, T., 2015, “From Choice to Chance? Saving People, Fairness, and Lotteries,” _Philosophical Review_, 124: 169–206.
-* Hirose, I., 2007, “Weighted Lotteries in Life and Death Cases,” _Ratio_, 20(1): 45–56.
-* –––, 2015, _Moral Aggregation_, Oxford: Oxford University Press.
-* Hsieh, N., A. Strudler, and D. Wasserman, 2006, “The Numbers Problem,” _Philosophy and Public Affairs_, 34(4): 352–372.
-* Hurd, H.M., 1994, “What in the World is Wrong?” _Journal of Contemporary Legal Issues_, 5: 157–216.
-* –––, 1995, “The Deontology of Negligence,” _Boston University Law Review_, 76: 249–272.
-* Hurd, H. and M. Moore, forthcoming, “The Ethical Implications of Proportioning Punishment to Deontological Desert,” _Criminal Law and Philosophy_.
-* Hurka, T., 2019, “More Seriously Wrong, More Importantly Right,” _Journal of the American Philosophical Association_, 5(1): 41–58.
-* Huseby, R., 2011, “Spinning the Wheel or Tossing a Coin?” _Utilitas_, 23(2): 127–39
-* Kagan, S., 1989, _The Limits of Morality_, Oxford: Clarendon Press.
-* Kamm, F. M., 1993, _Morality, Morality: Volume I: Death and Whom to Save From It_, New York: Oxford University Press.
-* –––, 1994, “Action, Omission, and the Stringency of Duties,” _University of Pennsylvania Law Review_, 142(5): 1493–1512.
-* –––, 1996, _Morality, Mortality: Volume II: Rights, Duties and Status_, New York: Oxford University Press.
-* –––, 2007, _Intricate Ethics: Rights, Responsibilities, and Permissible Harms_, Oxford: Oxford University Press.
-* Kant, I., 1785, _Groundwork of the Metaphysic of Morals_, H.J. Paton (trans.), New York: Harper and Row, 1964.
-* –––, 1780 (1965), _The Metaphysical Elements of Justice: Part I of the Metaphysics of Morals_, J. Ladd (trans.), Indianapolis: Hackett Pub. Co.
-* Katz, L., 1996, _Ill-Gotten Gains: Evasion, Blackmail, Fraud and Kindred Puzzles of the Law_, Chicago: University of Chicago Press.
-* Lazar, S., 2015, “Risky Killing and the Ethics of War,” _Ethics_, 126: 91–117.
-* –––, 2017a, “Risky Killing: How Risks Worsen Violations of Objective Rights,” _Journal of Moral Philosophy_, 16: 1–26.
-* –––, 2017b, “Deontological Decision Theory and Agent-Centered Options,” _Ethics_, 127: 579–609.
-* –––, 2018, “In Dubious Battle: Uncertainty and the Ethics of Kiilling,” _Philosophical Studies_, 175: 859–883.
-* Lyons, D., 1965, _The Forms and Limits of Utilitarianism_, Oxford: Oxford University Press.
-* Mack, E., 2000, “In Defense of the Jurisdiction Theory of Rights,” _Journal of Ethics_, 4: 71–98.
-* MacMahan, J., 2003, _The Ethics of Killing_, Oxford: Oxford University Press.
-* Moore, M., 1993, _Act and Crime: The Implications of the Philosophy of Action for the Criminal Law_, Oxford: Clarendon Press.
-* –––, 1995, “Good Without God,” _Natural Law, Liberalism, and Morality_, R. George, ed., Oxford: Oxford University Press, 221–270.
-* –––, 1997, _Placing Blame: A General Theory of the Criminal Law_, Oxford: Oxford University Press.
-* –––, 2004, _Objectivity in Ethics and Law_, Aldershot: Ashgate.
-* –––, 2008, “Patrolling the Borders of Consequentialist Justifications: The Scope of Agent-Relative Obligations,” _Law and Philosophy_, 27(1): 35–96.
-* –––, 2012, “Ethics in Extremis: Targeted Killings and the Morality of Targeted Killings,” in _Targeted Killing: Law and Morality in an Asymmetrical World_, C. Finkelstein, J. Ohlin, and Al Altman, (eds.), Oxford: Oxford University Press.
-* –––,  2019, “The Rationality of Threshold Deontology,” _Moral Puzzles and Legal Perspectives_, H. Hurd (ed.), Cambridge: Cambridge University Press, 371–387.
-* Moore, M., and Hurd, H.M. 2011, “Blaming the Stupid, Clumsy, Selfish, and Weak: The Culpability of Negligence,” _Criminal Law and Philosophy_, 5(2): 147–198.
-* Nagel, T., 1979, “War and Massacre,” in _Mortal Questions_, Cambridge: Cambridge University Press.
-* –––, 1986, _The View from Nowhere_, New York: Oxford University Press.
-* Nozick, R., 1974, _Anarchy, State and Utopia_, New York: Basic Books.
-* Otsuka, M., 2006, “Saving Lives, Moral Theories and the Claims of Individuals,” _Philosophy and Public Affairs_, 34(2): 109–135.
-* Parfit, D., 1984, _Reasons and Persons_, Oxford: Clarendon Press.
-* Portmore, D.W., 2003, “Position-Relative Consequentialism, Agent-Centered Options, and Supererogation,” _Ethics_, 113(2): 303–332.
-* Quinn, W.S., 1989, “Actions, Intentions, and Consequences: The Doctrine of Doing and Allowing,” _The Philosophical Review_, 98(3): 287–312.
-* Quinton, A., 2007, _Utilitarian Ethics_, 2nd edition, London: Duckworth, pp. 2–3.
-* Rachels, J., 1975, “Active and Passive Euthanasia,” _New England Journal Of Medicine_, 292(2): 78–80.
-* Rasmussen, K.B., 2012, “Should the Probabilities Count?,” _Philosophical Studies_, 159: 205–218.
-* Rawls, J., 1971, _A Theory of Justice_, Cambridge: Belknap Press of Harvard University Press.
-* Richardson, H.S., 1990, “Specifying Norms as a Way to Resolve Concrete Ethical Problems,” _Philosophy and Public Affairs_, 19(4): 279–310.
-* Ross, W.D., 1930, _The Right and the Good_, Oxford: Oxford University Press.
-* –––, 1939, _The Foundations of Ethics_, Oxford: Oxford University Press.
-* Saunders, B., 2009, “A Defence of Weighted Lotteries in Life Saving Cases,” _Ethical Theory and Moral Practice_, 12(3): 279–90.
-* Scanlon, T.M., 2003, _The Difficulty of Tolerance: Essays in Political Philosophy_, Cambridge: Cambridge University Press.
-* Schaffer, J., 2012, “Disconnection and Responsibility,” _Legal Theory_, 18: 399–435.
-* Scheffler, S., 1982, _The Rejection of Consequentialism_, Oxford: Oxford University Press.
-* ––– (ed.), 1988, “Introduction,” in _Consequentialism and Its Critics_, Oxford: Oxford University Press.
-* Sen, A.K., 1982, “Rights and Agency,” _Philosophy and Public Affairs_, 11(1): 3–39.
-* Slote, M.A., 1984, _Common-Sense Morality and Consequentialism_, London: Routledge & Kegan Paul.
-* Smith, H.M., 2014, “The Subjective Moral Duty to Inform Oneself Before Acting to Inform Oneself Before Acting,” _Ethics_, 125(1): 11–38.
-* Steiner, H., 1994, _An Essay on Rights_, Oxford: Blackwell.
-* Suikkanen, J., 2004, “What We Owe to Many,” _Social Theory and Practice_, 30(4): 485–506.
-* Tarsney, C., 2108, “Moral Uncertainty for Deontologists,” _Ethical Theory and Moral Practice_, 21: 505–520.
-* Taurek, J.M., 1977, “Should the Numbers Count?” _Philosophy and Public Affairs_, 6(4): 293–316.
-* Thomson, J.J., 1985, “The Trolley Problem,” _Yale Law Journal_, 94: 1395–1415.
-* Timmerman, J., 2004, “The Individualist Lottery: How People Count, but Not Their Numbers,” _Analysis_, 64(2): 106–112.
-* Tomlin, P., 2019, “Subjective Proportionality,” _Ethics_, 129: 254–283.
-* Vallentyne, P. and H. Steiner (eds.), 2000, _Left-Libertarianism and Its Critics_, Houndmills: Palgrave.
-* Vallentyne, P., H. Steiner, and M. Otsuka, 2005, “Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant: A Reply to Fried,” _Philosophy and Public Affairs_, 33(2): 201–215.
-* Walen, A., 2014, “Transcending the Means Principle,” _Law & Philosophy_, 33: 427–464.
-* –––, 2016, “The Restricting Claims Principle Revisited: Grounding the Means Principle on the Agent-Patient Divide,” _Law & Philosophy_, 35: 211–247.
-* Wasserman, D. and A. Strudler, 2003, “Can a Nonconsequentialist Count Lives?” _Philosophy and Public Affairs_, 31(1): 71–94.
-* Williams, B., 1973, “A Critique of Utilitarianism” in _Utilitarianism: For and Against_, J.J.C. Smart and B. Williams, Cambridge: Cambridge University Press, 77–150.
-* –––, 1975, “Moral Luck,” _Proceedings of the Aristotelian Society_, 50(supp.): 115–135; revised and reprinted in Williams 1981.
-* –––, 1981, _Moral Luck_, Cambridge: Cambridge University Press.
-* Williams, G.L., 1961, _Criminal Law: The General Part_, London: Stevens and Sons, 2nd edition, p. 739.
-* Woodward, P.A. (ed.), 2001, _The Doctrine of Double Effect_, Notre Dame: University of Notre Dame Press.
-* Zimmerman, M., 2002, “Taking Moral Luck Seriously,” _Journal of Philosophy_, 99(11): 553–576.
+* Aboodi, R., A. Borer, and D. Enoch, 2008, “Deontology, Individualism, and Uncertainty: A Reply to Jackson and Smith,” *Journal of Philosophy*, 105: 259–272.
+* Alexander, L., 1985, “Pursuing the Good—Indirectly,” *Ethics*, 95(2): 315–332.
+* –––, 2000, “Deontology at the Threshold,” *San Diego Law Review*, 37(4): 893–912.
+* –––, 2004, “The Jurisdiction of Justice: Two Conceptions of Political Morality,” *San Diego Law Review*, 41(3): 949–966.
+* –––, 2016, “The Means Principle,” in K.K. Ferzan and S.J. Morse (eds.), *Legal, Moral, and Metaphysical Truths: The Philosophy of Michael S. Moore*, Oxford: Oxford University Press, 251–264.
+* –––, 2018, “The Need to Attend to Probabilities—For Purposes of Self-Defense and Other Preemptive Actions,” *San Diego L. Rev*, 55: 223– 229.
+* –––, 2019, “Responses and Appreciations,” *Moral Puzzles and Legal Perspectives*, H. Hurd (ed.), Cambridge: Cambridge University Press, 407–440.
+* Alexander, L. and K.K. Ferzan, 2009, *Crime and Culpability: A Theory of Criminal Law*, Cambridge: Cambridge University Press.
+* –––, 2012, “ ‘Moore or Less’ Causation and Responsibility: Reviewing Michael S. Moore, *Causation and Responsibility: An Essay in Law, Morals and Metaphysics*,” *Criminal Law and Philosophy*, 6(1): 81–92.
+* Anscombe, G.E.M., 1958, “Modern Moral Philosophy,” *Philosophy*, 33(124): 1–19, at 10.
+* –––, 1962, “War and Murder,” in *Nuclear Weapons: A Catholic Response*, W. Stein (ed.), New York: Sheed and Ward.
+* Arneson, R., 2019, “Deontology’s Travails,” Moral *Puzzles and Legal Perspectives*, H. Hurd (ed.), Cambridge: Cambridge University Press, 350–370.
+* Aquinas, T., 1952, *Summa Theologica*, Chicago: Encyclopedia Britannica.
+* Bennett, J., 1981, “Morality and Consequences,” in *The Tanner Lectures on Human Values* (Volume 2), S. McMurrin (ed.), Cambridge: Cambridge University Press.
+* Bentham, J., 1789 (1948), *An Introduction to the Principles of Morals and of Legislation*, Oxford: Basil Blackwell.
+* Brody, B., 1996, “Withdrawing of Treatment Versus Killing of Patients,” in *Intending Death*, T. Beauchamp (ed.), Upper Saddle River: Prentice-Hall.
+* Brook, R., 2007, “Deontology, Paradox, and Moral Evil,” *Social Theory and Practice*, 33(3): 431–40.
+* Broome, J., 1998, “Review: Kamm on Fairness,” *Philosophy and Phenomenological Research*, 58 (4): 955–61.
+* Cole, K., 2019, “Two Cheers for Threshold Deontology,” *Moral Puzzles and Legal Perspectives*, H. Hurd (ed.), Cambridge: Cambridge University Press: 388–406.
+* Doggett, T., 2013, “Saving the Few,” *Noûs*, 33: 302–315.
+* Doucet, M., 2013, “Playing Dice with Morality: Weighted Lotteries and the Number Problem,” *Utilitas*, 25: 161–181.
+* Dougherty, T., 2013, “Rational Numbers: A Non-Consequentialist Explanation of Why You Should Save the Many and Not the Few,” *Philosophical Quarterly*, 63: 413–427.
+* Davis, N., 1984, “The Doctrine of Double Effect: Problems of Interpretation,” *Pacific Philosophical Quarterly*, 65: 107–123.
+* Ellis, A., 1992, “Deontology, Incommensurability and the Arbitrary,” *Philosophical and Phenomenological Research*, 52(4): 855–875.
+* Foot, P., 1967, “The Problem of Abortion and the Doctrine of Double Effect,” *Oxford Review*, 5: 5–15.
+* –––, 1985, “Utilitarianism and the Virtues,” *Mind*, 94: 107–123.
+* Frey, R.G., 1995, “Intention, Foresight, and Killing,” in *Intending Death*, T. Beauchamp (ed.), Upper Saddle River: Prentice-Hall.
+* Gauthier, D., 1986, *Morals By Agreement*, Oxford: Clarendon Press.
+* Geach, P., 1969, *God and the Soul*, New York: Shocken Books.
+* Halstead, J., 2016, “The Numbers Always Count,” *Ethics*, 126: 789–802.
+* Harsanyi, J., 1973, *Can the Maximin Principle Serve as a Basis for Morality?: A Critique of John Rawls’s Theory*, Berkeley: Center for Research in Management Science.
+* Hart, H.L.A. and T. Honore, 1985, *Causation in the Law*. New York: Oxford University Press, 2nd edition.
+* Heuer, U., 2011, “The Paradox of Deontology Revisited,” *Oxford Studies in Normative Ethics*, M. Timmons (ed.), Oxford: Oxford University Press, 236–267.
+* Henning, T., 2015, “From Choice to Chance? Saving People, Fairness, and Lotteries,” *Philosophical Review*, 124: 169–206.
+* Hirose, I., 2007, “Weighted Lotteries in Life and Death Cases,” *Ratio*, 20(1): 45–56.
+* –––, 2015, *Moral Aggregation*, Oxford: Oxford University Press.
+* Hsieh, N., A. Strudler, and D. Wasserman, 2006, “The Numbers Problem,” *Philosophy and Public Affairs*, 34(4): 352–372.
+* Hurd, H.M., 1994, “What in the World is Wrong?” *Journal of Contemporary Legal Issues*, 5: 157–216.
+* –––, 1995, “The Deontology of Negligence,” *Boston University Law Review*, 76: 249–272.
+* Hurd, H. and M. Moore, forthcoming, “The Ethical Implications of Proportioning Punishment to Deontological Desert,” *Criminal Law and Philosophy*.
+* Hurka, T., 2019, “More Seriously Wrong, More Importantly Right,” *Journal of the American Philosophical Association*, 5(1): 41–58.
+* Huseby, R., 2011, “Spinning the Wheel or Tossing a Coin?” *Utilitas*, 23(2): 127–39
+* Kagan, S., 1989, *The Limits of Morality*, Oxford: Clarendon Press.
+* Kamm, F. M., 1993, *Morality, Morality: Volume I: Death and Whom to Save From It*, New York: Oxford University Press.
+* –––, 1994, “Action, Omission, and the Stringency of Duties,” *University of Pennsylvania Law Review*, 142(5): 1493–1512.
+* –––, 1996, *Morality, Mortality: Volume II: Rights, Duties and Status*, New York: Oxford University Press.
+* –––, 2007, *Intricate Ethics: Rights, Responsibilities, and Permissible Harms*, Oxford: Oxford University Press.
+* Kant, I., 1785, *Groundwork of the Metaphysic of Morals*, H.J. Paton (trans.), New York: Harper and Row, 1964.
+* –––, 1780 (1965), *The Metaphysical Elements of Justice: Part I of the Metaphysics of Morals*, J. Ladd (trans.), Indianapolis: Hackett Pub. Co.
+* Katz, L., 1996, *Ill-Gotten Gains: Evasion, Blackmail, Fraud and Kindred Puzzles of the Law*, Chicago: University of Chicago Press.
+* Lazar, S., 2015, “Risky Killing and the Ethics of War,” *Ethics*, 126: 91–117.
+* –––, 2017a, “Risky Killing: How Risks Worsen Violations of Objective Rights,” *Journal of Moral Philosophy*, 16: 1–26.
+* –––, 2017b, “Deontological Decision Theory and Agent-Centered Options,” *Ethics*, 127: 579–609.
+* –––, 2018, “In Dubious Battle: Uncertainty and the Ethics of Kiilling,” *Philosophical Studies*, 175: 859–883.
+* Lyons, D., 1965, *The Forms and Limits of Utilitarianism*, Oxford: Oxford University Press.
+* Mack, E., 2000, “In Defense of the Jurisdiction Theory of Rights,” *Journal of Ethics*, 4: 71–98.
+* MacMahan, J., 2003, *The Ethics of Killing*, Oxford: Oxford University Press.
+* Moore, M., 1993, *Act and Crime: The Implications of the Philosophy of Action for the Criminal Law*, Oxford: Clarendon Press.
+* –––, 1995, “Good Without God,” *Natural Law, Liberalism, and Morality*, R. George, ed., Oxford: Oxford University Press, 221–270.
+* –––, 1997, *Placing Blame: A General Theory of the Criminal Law*, Oxford: Oxford University Press.
+* –––, 2004, *Objectivity in Ethics and Law*, Aldershot: Ashgate.
+* –––, 2008, “Patrolling the Borders of Consequentialist Justifications: The Scope of Agent-Relative Obligations,” *Law and Philosophy*, 27(1): 35–96.
+* –––, 2012, “Ethics in Extremis: Targeted Killings and the Morality of Targeted Killings,” in *Targeted Killing: Law and Morality in an Asymmetrical World*, C. Finkelstein, J. Ohlin, and Al Altman, (eds.), Oxford: Oxford University Press.
+* –––,  2019, “The Rationality of Threshold Deontology,” *Moral Puzzles and Legal Perspectives*, H. Hurd (ed.), Cambridge: Cambridge University Press, 371–387.
+* Moore, M., and Hurd, H.M. 2011, “Blaming the Stupid, Clumsy, Selfish, and Weak: The Culpability of Negligence,” *Criminal Law and Philosophy*, 5(2): 147–198.
+* Nagel, T., 1979, “War and Massacre,” in *Mortal Questions*, Cambridge: Cambridge University Press.
+* –––, 1986, *The View from Nowhere*, New York: Oxford University Press.
+* Nozick, R., 1974, *Anarchy, State and Utopia*, New York: Basic Books.
+* Otsuka, M., 2006, “Saving Lives, Moral Theories and the Claims of Individuals,” *Philosophy and Public Affairs*, 34(2): 109–135.
+* Parfit, D., 1984, *Reasons and Persons*, Oxford: Clarendon Press.
+* Portmore, D.W., 2003, “Position-Relative Consequentialism, Agent-Centered Options, and Supererogation,” *Ethics*, 113(2): 303–332.
+* Quinn, W.S., 1989, “Actions, Intentions, and Consequences: The Doctrine of Doing and Allowing,” *The Philosophical Review*, 98(3): 287–312.
+* Quinton, A., 2007, *Utilitarian Ethics*, 2nd edition, London: Duckworth, pp. 2–3.
+* Rachels, J., 1975, “Active and Passive Euthanasia,” *New England Journal Of Medicine*, 292(2): 78–80.
+* Rasmussen, K.B., 2012, “Should the Probabilities Count?,” *Philosophical Studies*, 159: 205–218.
+* Rawls, J., 1971, *A Theory of Justice*, Cambridge: Belknap Press of Harvard University Press.
+* Richardson, H.S., 1990, “Specifying Norms as a Way to Resolve Concrete Ethical Problems,” *Philosophy and Public Affairs*, 19(4): 279–310.
+* Ross, W.D., 1930, *The Right and the Good*, Oxford: Oxford University Press.
+* –––, 1939, *The Foundations of Ethics*, Oxford: Oxford University Press.
+* Saunders, B., 2009, “A Defence of Weighted Lotteries in Life Saving Cases,” *Ethical Theory and Moral Practice*, 12(3): 279–90.
+* Scanlon, T.M., 2003, *The Difficulty of Tolerance: Essays in Political Philosophy*, Cambridge: Cambridge University Press.
+* Schaffer, J., 2012, “Disconnection and Responsibility,” *Legal Theory*, 18: 399–435.
+* Scheffler, S., 1982, *The Rejection of Consequentialism*, Oxford: Oxford University Press.
+* ––– (ed.), 1988, “Introduction,” in *Consequentialism and Its Critics*, Oxford: Oxford University Press.
+* Sen, A.K., 1982, “Rights and Agency,” *Philosophy and Public Affairs*, 11(1): 3–39.
+* Slote, M.A., 1984, *Common-Sense Morality and Consequentialism*, London: Routledge & Kegan Paul.
+* Smith, H.M., 2014, “The Subjective Moral Duty to Inform Oneself Before Acting to Inform Oneself Before Acting,” *Ethics*, 125(1): 11–38.
+* Steiner, H., 1994, *An Essay on Rights*, Oxford: Blackwell.
+* Suikkanen, J., 2004, “What We Owe to Many,” *Social Theory and Practice*, 30(4): 485–506.
+* Tarsney, C., 2108, “Moral Uncertainty for Deontologists,” *Ethical Theory and Moral Practice*, 21: 505–520.
+* Taurek, J.M., 1977, “Should the Numbers Count?” *Philosophy and Public Affairs*, 6(4): 293–316.
+* Thomson, J.J., 1985, “The Trolley Problem,” *Yale Law Journal*, 94: 1395–1415.
+* Timmerman, J., 2004, “The Individualist Lottery: How People Count, but Not Their Numbers,” *Analysis*, 64(2): 106–112.
+* Tomlin, P., 2019, “Subjective Proportionality,” *Ethics*, 129: 254–283.
+* Vallentyne, P. and H. Steiner (eds.), 2000, *Left-Libertarianism and Its Critics*, Houndmills: Palgrave.
+* Vallentyne, P., H. Steiner, and M. Otsuka, 2005, “Why Left-Libertarianism Is Not Incoherent, Indeterminate, or Irrelevant: A Reply to Fried,” *Philosophy and Public Affairs*, 33(2): 201–215.
+* Walen, A., 2014, “Transcending the Means Principle,” *Law & Philosophy*, 33: 427–464.
+* –––, 2016, “The Restricting Claims Principle Revisited: Grounding the Means Principle on the Agent-Patient Divide,” *Law & Philosophy*, 35: 211–247.
+* Wasserman, D. and A. Strudler, 2003, “Can a Nonconsequentialist Count Lives?” *Philosophy and Public Affairs*, 31(1): 71–94.
+* Williams, B., 1973, “A Critique of Utilitarianism” in *Utilitarianism: For and Against*, J.J.C. Smart and B. Williams, Cambridge: Cambridge University Press, 77–150.
+* –––, 1975, “Moral Luck,” *Proceedings of the Aristotelian Society*, 50(supp.): 115–135; revised and reprinted in Williams 1981.
+* –––, 1981, *Moral Luck*, Cambridge: Cambridge University Press.
+* Williams, G.L., 1961, *Criminal Law: The General Part*, London: Stevens and Sons, 2nd edition, p. 739.
+* Woodward, P.A. (ed.), 2001, *The Doctrine of Double Effect*, Notre Dame: University of Notre Dame Press.
+* Zimmerman, M., 2002, “Taking Moral Luck Seriously,” *Journal of Philosophy*, 99(11): 553–576.
 
 ## Academic Tools
 
@@ -327,5 +325,5 @@ _首次发表于 2007 年 11 月 21 日星期三；实质性修订于 2020 年 1
 [consequentialism: rule](https://plato.stanford.edu/entries/consequentialism-rule/) | [doing vs. allowing harm](https://plato.stanford.edu/entries/doing-allowing/) | [double effect, doctrine of](https://plato.stanford.edu/entries/double-effect/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [Moore, George Edward: moral philosophy](https://plato.stanford.edu/entries/moore-moral/) | [moral dilemmas](https://plato.stanford.edu/entries/moral-dilemmas/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Larry Alexander](https://www.sandiego.edu/law/about/directory/biography.php?profile\id=2577) <[_larrya@sandiego.edu_](mailto:larrya%40sandiego%2eedu)>\
-Michael Moore <[_micmoore@illinois.edu_](mailto:micmoore%40illinois%2eedu)>
+[Larry Alexander](https://www.sandiego.edu/law/about/directory/biography.php?profile\id=2577) <[*larrya@sandiego.edu*](mailto:larrya%40sandiego%2eedu)>\
+Michael Moore <[*micmoore@illinois.edu*](mailto:micmoore%40illinois%2eedu)>

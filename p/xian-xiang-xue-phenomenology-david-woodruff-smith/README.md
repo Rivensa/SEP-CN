@@ -1,12 +1,10 @@
 # 现象学 phenomenology (David Woodruff Smith)
 
-_首次发表于2003年11月16日；实质性修订于2013年12月16日。_
+*首次发表于2003年11月16日；实质性修订于2013年12月16日。*
 
 现象学是从第一人称的视角研究意识结构的学科。一个经验的中心结构是它的意向性，它是指向某个东西的，因为它是对某个对象的经验或关于某个对象的经验。一个经验通过其内容或意义（代表对象）以及适当的使能条件来指向一个对象。
 
 作为一门学科，现象学与哲学中的其他关键学科，如本体论、认识论、逻辑和伦理学有着明显的区别但又相关。现象学以各种不同的方式被实践了几个世纪，但在 20 世纪初，它在胡塞尔、海德格尔、萨特、梅洛-庞蒂等人的作品中得到了发展。关于意向性、意识、质感和第一人称视角的现象学问题在近期的心灵哲学中占据了重要地位。
-
- 
 
 ***
 
@@ -221,106 +219,106 @@ _首次发表于2003年11月16日；实质性修订于2013年12月16日。_
 
 ### Classical Texts
 
-*   Brentano, F., 1995, _Psychology from an Empirical Standpoint_, Trans. Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister, London and New York: Routledge. From the German original of 1874.
+* Brentano, F., 1995, *Psychology from an Empirical Standpoint*, Trans. Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister, London and New York: Routledge. From the German original of 1874.
 
     Brentano’s development of descriptive psychology, the forerunner of Husserlian phenomenology, including Brentano’s conception of mental phenomena as intentionally directed and his analysis of inner consciousness distinguished from inner observation.
-*   Heidegger, M., 1962, _Being and Time_, Trans. by John Macquarrie and Edward Robinson. New York: Harper & Row. From the German original of 1927.
+* Heidegger, M., 1962, *Being and Time*, Trans. by John Macquarrie and Edward Robinson. New York: Harper & Row. From the German original of 1927.
 
     Heidegger’s magnum opus, laying out his style of phenomenology and existential ontology, including his distinction between beings and their being, as well as his emphasis on practical activity.
-*   Heidegger, M., 1982, _The Basic Problems of Phenomenology_. Trans. by Albert Hofstadter. Bloomington: Indiana University Press. From the German original of 1975. The text of a lecture course in 1927.
+* Heidegger, M., 1982, *The Basic Problems of Phenomenology*. Trans. by Albert Hofstadter. Bloomington: Indiana University Press. From the German original of 1975. The text of a lecture course in 1927.
 
     Heidegger’s clearest presentation of his conception of phenomenology as fundamental ontology, addressing the history of the question of the meaning of being from Aristotle onward.
-*   Husserl, E., 2001, _Logical Investigations_. Vols. One and Two, Trans. J. N. Findlay. Ed. with translation corrections and with a new Introduction by Dermot Moran. With a new Preface by Michael Dummett. London and New York: Routledge. A new and revised edition of the original English translation by J. N. Findlay. London: Routledge & Kegan Paul, 1970. From the Second Edition of the German. First edition, 1900–01; second edition, 1913, 1920.
+* Husserl, E., 2001, *Logical Investigations*. Vols. One and Two, Trans. J. N. Findlay. Ed. with translation corrections and with a new Introduction by Dermot Moran. With a new Preface by Michael Dummett. London and New York: Routledge. A new and revised edition of the original English translation by J. N. Findlay. London: Routledge & Kegan Paul, 1970. From the Second Edition of the German. First edition, 1900–01; second edition, 1913, 1920.
 
     Husserl’s magnum opus, laying out his system of philosophy including philosophy of logic, philosophy of language, ontology, phenomenology, and epistemology. Here are the foundations of Husserl’s phenomenology and his theory of intentionality.
-*   Husserl, E., 2001, _The Shorter Logical Investigations_. London and New York: Routledge.
+* Husserl, E., 2001, *The Shorter Logical Investigations*. London and New York: Routledge.
 
     An abridged edition of the preceding.
-*   Husserl, E., 1963, _Ideas: A General Introduction to Pure Phenomenology_. Trans. W. R. Boyce Gibson. New York: Collier Books. From the German original of 1913, originally titled _Ideas pertaining to a Pure Phenomenology and to a Phenomenological Philosophy_, First Book. Newly translated with the full title by Fred Kersten. Dordrecht and Boston: Kluwer Academic Publishers, 1983. Known as _Ideas_ I.
+* Husserl, E., 1963, *Ideas: A General Introduction to Pure Phenomenology*. Trans. W. R. Boyce Gibson. New York: Collier Books. From the German original of 1913, originally titled *Ideas pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, First Book. Newly translated with the full title by Fred Kersten. Dordrecht and Boston: Kluwer Academic Publishers, 1983. Known as *Ideas* I.
 
     Husserl’s mature account of transcendental phenomenology, including his notion of intentional content as noema.
-*   Husserl, E., 1989, _Ideas pertaining to a Pure Phenomenology and to a Phenomenological Philosophy_, Second Book. Trans. Richard Rojcewicz and André Schuwer. Dordrecht and Boston: Kluwer Academic Publishers. From the German original unpublished manuscript of 1912, revised 1915, 1928. Known as _Ideas_ II.
+* Husserl, E., 1989, *Ideas pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, Second Book. Trans. Richard Rojcewicz and André Schuwer. Dordrecht and Boston: Kluwer Academic Publishers. From the German original unpublished manuscript of 1912, revised 1915, 1928. Known as *Ideas* II.
 
-    Detailed phenomenological analyses assumed in _Ideas_ I, including analyses of bodily awareness (kinesthesis and motility) and social awareness (empathy).
-*   Merleau-Ponty, M., 2012, _Phenomenology of Perception_, Trans. Donald A. Landes. London and New York: Routledge. Prior translation, 1996, _Phenomenology of Perception_, Trans. Colin Smith. London and New York: Routledge. From the French original of 1945.
+    Detailed phenomenological analyses assumed in *Ideas* I, including analyses of bodily awareness (kinesthesis and motility) and social awareness (empathy).
+* Merleau-Ponty, M., 2012, *Phenomenology of Perception*, Trans. Donald A. Landes. London and New York: Routledge. Prior translation, 1996, *Phenomenology of Perception*, Trans. Colin Smith. London and New York: Routledge. From the French original of 1945.
 
     Merleau-Ponty’s conception of phenomenology, rich in impressionistic description of perception and other forms of experience, emphasizing the role of the experienced body in many forms of consciousness.
-*   Sartre, J.-P., 1956, _Being and Nothingness_. Trans. Hazel Barnes. New York: Washington Square Press. From the French original of 1943.
+* Sartre, J.-P., 1956, *Being and Nothingness*. Trans. Hazel Barnes. New York: Washington Square Press. From the French original of 1943.
 
     Sartre’s magnum opus, developing in detail his conception of phenomenology and his existential view of human freedom, including his analysis of consciousness-of-consciousness, the look of the Other, and much more.
-*   Sartre, J.-P., 1964, _Nausea_. Trans. Lloyd Alexander. New York: New Directions Publishing. From the French original of 1938).
+* Sartre, J.-P., 1964, *Nausea*. Trans. Lloyd Alexander. New York: New Directions Publishing. From the French original of 1938).
 
     A novel in the first person, featuring descriptions of how things are experienced, thereby illustrating Sartre’s conception of phenomenology (and existentialism) with no technical idioms and no explicit theoretical discussion.
 
 ### Contemporary Studies
 
-*   Bayne, T., and Montague, M., (eds.), 2011, _Cognitive Phenomenology_. Oxford and New York: Oxford University Press.
+* Bayne, T., and Montague, M., (eds.), 2011, *Cognitive Phenomenology*. Oxford and New York: Oxford University Press.
 
     Essays debating the extend of phenomenal consciousness.
-*   Block, N., Flanagan, O., and Güzeldere, G. (eds.), 1997, _The Nature of Consciusness_. Cambridge, Massachusetts: MIT Press.
+* Block, N., Flanagan, O., and Güzeldere, G. (eds.), 1997, *The Nature of Consciusness*. Cambridge, Massachusetts: MIT Press.
 
     Extensive studies of aspects of consciousness, in analytic philosophy of mind, often addressing phenomenological issues, but with limited reference to phenomenology as such.
-*   Chalmers, D. (ed.), 2002, _Philosophy of Mind: Classical and Contemporary Readings_. Oxford and New York: Oxford University Press.
+* Chalmers, D. (ed.), 2002, *Philosophy of Mind: Classical and Contemporary Readings*. Oxford and New York: Oxford University Press.
 
     Core readings in philosophy of mind, largely analytic philosophy of mind, sometimes addressing phenomenological issues, with some reference to classical phenomenology, including selections from Descartes, Ryle, Brentano, Nagel, and Searle (as discussed in the present article).
-*   Dreyfus, H., with Hall, H. (eds.), 1982, _Husserl, Intentionality and Cognitive Science_. Cambridge, Massachusetts: MIT Press.
+* Dreyfus, H., with Hall, H. (eds.), 1982, *Husserl, Intentionality and Cognitive Science*. Cambridge, Massachusetts: MIT Press.
 
     Studies of issues in Husserlian phenomenology and theory of intentionality, with connections to early models of cognitive science, including Jerry Fodor’s discussion of methodological solipsism (compare Husserl’s method of bracketing or epoché), and including Dagfinn Føllesdal’s article, “Husserl’s Notion of Noema” (1969).
-*   Fricke, C., and Føllesdal, D. (eds.), 2012, _Intersubjectivity and Objectivity in Adam Smith and Edmund Husserl: A Collection of Essays_. Frankfurt and Paris: Ontos Verlag.
+* Fricke, C., and Føllesdal, D. (eds.), 2012, *Intersubjectivity and Objectivity in Adam Smith and Edmund Husserl: A Collection of Essays*. Frankfurt and Paris: Ontos Verlag.
 
     Phenomenological studies of intersubjectivity, empathy, and sympathy in the works of Smith and Husserl.
-*   Kriegel, U., and Williford, K. (eds.), 2006, _Self-Representational Approaches to Consciusness_. Cambridge, Massachusetts: MIT Press.
+* Kriegel, U., and Williford, K. (eds.), 2006, *Self-Representational Approaches to Consciusness*. Cambridge, Massachusetts: MIT Press.
 
     Essays addressing the structure of self-consciousness, or consciousness-of-consciousness, some drawing on phenomenology explicitly.
-*   Mohanty, J. N., 1989, _Transcendental Phenomenology: An Analytic Accoun_t. Oxford and Cambridge, Massachusetts: Basil Blackwell.
+* Mohanty, J. N., 1989, _Transcendental Phenomenology: An Analytic Accoun_t. Oxford and Cambridge, Massachusetts: Basil Blackwell.
 
     A study of structures of consciousness and meaning in a contemporary rendition of transcendental phenomenology, connecting with issues in analytic philosophy and its history.
-*   Mohanty, J. N., 2008, _The Philosophy of Edmund Husserl: A Historical Development_, New Haven and London: Yale University Press.
+* Mohanty, J. N., 2008, *The Philosophy of Edmund Husserl: A Historical Development*, New Haven and London: Yale University Press.
 
     A detailed study of the development of Husserl’s philosophy and his conception of transcendental phenomenology.
-*   Mohanty, J. N.,  2011, _Edmund Husserl’s Freiburg Years: 1916–1938_. New Haven and London: Yale University Press.
+* Mohanty, J. N.,  2011, *Edmund Husserl’s Freiburg Years: 1916–1938*. New Haven and London: Yale University Press.
 
     A close study of Husserl’s late philosophy and his conception of phenomenology involving the life-world.
-*   Moran, D., 2000, _Introduction to Phenomenology_. London and New York: Routledge.
+* Moran, D., 2000, *Introduction to Phenomenology*. London and New York: Routledge.
 
     An extensive introductory discussion of the principal works of the classical phenomenologists and several other broadly phenomenological thinkers.
-*   Moran, D., 2005, _Edmund Husserl: Founder of Phenomenology_. Cambridge and Malden, Massachusetts: Polity Press.
+* Moran, D., 2005, *Edmund Husserl: Founder of Phenomenology*. Cambridge and Malden, Massachusetts: Polity Press.
 
     A study of Husserl’s transcendental phenomenology.
-*   Parsons, Charles, 2012, _From Kant to Husserl: Selected Essays_, Cambridge, MA: Harvard University Press.
+* Parsons, Charles, 2012, *From Kant to Husserl: Selected Essays*, Cambridge, MA: Harvard University Press.
 
     Studies of historical figures on philosophy of mathematics, including Kant, Frege, Brentano, and Husserl.
-*   Petitot, J., Varela, F. J., Pachoud, B., and Roy, J.-M., (eds.), 1999, _Naturalizing Phenomenology: Issues in Contemporary Phenmenology and Cognitive Science_. Stanford, California: Stanford University Press (in collaboration with Cambridge University Press, Cambridge and New York).
+* Petitot, J., Varela, F. J., Pachoud, B., and Roy, J.-M., (eds.), 1999, *Naturalizing Phenomenology: Issues in Contemporary Phenmenology and Cognitive Science*. Stanford, California: Stanford University Press (in collaboration with Cambridge University Press, Cambridge and New York).
 
     Studies of issues of phenomenology in connection with cognitive science and neuroscience, pursuing the integration of the disciplines, thus combining classical phenomenology with contemporary natural science.
-*   Searle, J., 1983, _Intentionality_. Cambridge and New York: Cambridge University Press.
+* Searle, J., 1983, *Intentionality*. Cambridge and New York: Cambridge University Press.
 
     Searle’s analysis of intentionality, often similar in detail to Husserl’s theory of intentionality, but pursued in the tradition and style of analytic philosophy of mind and language, without overtly phenomenological methodology.
-*   Smith, B., and Smith, D.W. (eds.), 1995, _The Cambridge Companion to Husserl_. Cambridge and New York: Cambridge University Press.
+* Smith, B., and Smith, D.W. (eds.), 1995, *The Cambridge Companion to Husserl*. Cambridge and New York: Cambridge University Press.
 
     Detailed studies of Husserl’s work including his phenomenology, with an introduction to his overall philosophy.
-*   Smith, D. W., 2013, _Husserl_, 2nd revised edition. London and New York: Routledge. (1st edition, 2007).
+* Smith, D. W., 2013, *Husserl*, 2nd revised edition. London and New York: Routledge. (1st edition, 2007).
 
     A detailed study of Husserl’s philosophical system including logic, ontology, phenomenology, epistemology, and ethics, assuming no prior background.
-*   Smith, D. W., and McIntyre, R., 1982, _Husserl and Intentionality: a Study of Mind, Meaning, and Language_. Dordrecht and Boston: D. Reidel Publishing Company (now Springer).
+* Smith, D. W., and McIntyre, R., 1982, *Husserl and Intentionality: a Study of Mind, Meaning, and Language*. Dordrecht and Boston: D. Reidel Publishing Company (now Springer).
 
     A book-length development of analytic phenomenology, with an interpretation of Husserl’s phenomenology, his theory of intentionality, and his historical roots, and connections with issues in logical theory and analytic philosophy of language and mind, assuming no prior background.
-*   Smith, D. W., and Thomasson, Amie L. (eds.), 2005, _Phenomenology and Philosophy of Mind_. Oxford and New York: Oxford University Press.
+* Smith, D. W., and Thomasson, Amie L. (eds.), 2005, *Phenomenology and Philosophy of Mind*. Oxford and New York: Oxford University Press.
 
     Essays integrating phenomenology and analytic philosophy of mind.
-*   Sokolowski, R., 2000, _Introduction to Phenomenology_. Cambridge and New York: Cambridge University Press.
+* Sokolowski, R., 2000, *Introduction to Phenomenology*. Cambridge and New York: Cambridge University Press.
 
     A contemporary introduction to the practice of transcendental phenomenology, without historical interpretation, emphasizing a transcendental attitude in phenomenology.
-*   Tieszen, R., 2005, _Phenomenology, Logic, and the Philosophy of Mathematics_. Cambridge and New York: Cambridge University Press.
+* Tieszen, R., 2005, *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge and New York: Cambridge University Press.
 
     Essays relating Husserlian phenomenology with issues in logic and mathematics.
-*   Tieszen, R., 2005, _Phenomenology, Logic, and the Philosophy of Mathematics_. Cambridge and New York: Camabridge University Press.
+* Tieszen, R., 2005, *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge and New York: Camabridge University Press.
 
     Essays relating Husserlian phenomenology with issues in logic and mathematics.
-*   Tieszen, R., 2011, _After Gödel: Platonism and Rationalism in Mathematics and Logic_. Oxford and New York: Oxford University Press.
+* Tieszen, R., 2011, *After Gödel: Platonism and Rationalism in Mathematics and Logic*. Oxford and New York: Oxford University Press.
 
     A study of Gödel’s work in relation to, inter alia, Husserlian phenomenology in the foundations of logic and mathematics.
-*   Zahavi, D. (ed.), 2012, _The Oxford Handbook on Contemporary Phenomenology_. Oxford and New York: Oxford University Press.
+* Zahavi, D. (ed.), 2012, *The Oxford Handbook on Contemporary Phenomenology*. Oxford and New York: Oxford University Press.
 
     A collection of contemporary essays on phenomenological themes (not primarily on historical figures).
 

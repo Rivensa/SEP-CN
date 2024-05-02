@@ -1,10 +1,8 @@
 # 赫尔曼·冯·亥姆霍兹 Helmholtz, Hermann von (Lydia Patton)
 
-_首次发表于2008年2月18日星期一；实质性修订于2023年5月27日星期六_
+*首次发表于2008年2月18日星期一；实质性修订于2023年5月27日星期六*
 
 赫尔曼·冯·亥姆霍兹（1821-1894 年）参与了 19 世纪物理学和科学哲学中两个最重要的发展：证明欧几里得几何不是唯一可能的可视化和物理空间的描述，以及从基于粒子间距离作用的物理学转向场论。亥姆霍兹取得了惊人的科学成果，包括能量守恒定律的制定，流体动力学的涡旋方程，热力学中自由能的概念，以及眼底镜的发明。他对科学认识论的持续兴趣确保了他在哲学上的持久重要性。
-
- 
 
 ***
 
@@ -273,124 +271,124 @@ Hui 2011 和尤其是 2012 年是 19 世纪德国心理物理学和声学研究�
 
 ### Primary Literature by Helmholtz
 
-* 1853 \[1847], “On the Conservation of Force,” translation by John Tyndall, _Scientific Memoirs_, London.
-* 1854, “On the Interaction of the Natural Forces,” in _Science and Culture: Popular and Philosophical Essays_, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 18–45. (Lecture delivered February 7, 1854, at Königsberg.)
-* 1862, “On the Relation of Natural Science to Science in General,” in _Science and Culture: Popular and Philosophical Essays_, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 76–95.
-* 1892, “Goethe’s Presentiments of Coming Scientific Ideas,” in _Science and Culture: Popular and Philosophical Essays_, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 393–412.
-* 1863, _On the Sensations of Tone as a Physiological Basis for the Theory of Music_, trans. by Alexander J. Ellis from the fourth (1877) edition, New York: Dover Publications, Inc., 1954. First German edition published Braunschweig: Verlag von F. Vieweg & Sohn.
-* 1867, _Handbuch der physiologischen Optik_, Leipzig: Leopold Voss. Published in parts from 1856 to 1866, then published in toto in 1867 as Volume Nine of the _Allgemeinen Encyclopädie der Physik_, ed. Gustav Karsten. Second revised edition of 1896, Leipzig: Leopold Voss, available entire from Google Books.
-* 1883 \[1868], “Über die Thatsachen, welche der Geometrie zu Grunde liegen,” in _Wissenschaftliche Abhandlungen_, Volume II, Leipzig: Johann Ambrosius Barth, 618–639. Originally published in the _Nachrichten von der Königl. Gesellschaft der Wissenschaften zu Göttingen_, No. 9 (3 June).
-* 1868, “The Recent Progress of the Theory of Vision,” in _Science and Culture: Popular and Philosophical Essays_, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 127–203. Originally published in the _Preussische Jahrbücher_, Volume 21.
-* 1869, “Über das Ziel und die Fortschritte der Naturwissenschaft,” in _Das Denken in der Naturwissenschaft_, Darmstadt: Wissenschaftliche Buchgesellschaft, 1968.
-* 1878, “The Facts of Perception,” in _Selected writings of Hermann von Helmholtz_, edited, with an introduction, by Russell Kahl. Middletown, Connecticut: Wesleyan University Press, 1971.
-* 1882, _Wissenschaftliche Abhandlungen_, Three volumes: second volume 1883, third volume 1895, Leipzig: Johann Ambrosius Barth.
+* 1853 \[1847], “On the Conservation of Force,” translation by John Tyndall, *Scientific Memoirs*, London.
+* 1854, “On the Interaction of the Natural Forces,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 18–45. (Lecture delivered February 7, 1854, at Königsberg.)
+* 1862, “On the Relation of Natural Science to Science in General,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 76–95.
+* 1892, “Goethe’s Presentiments of Coming Scientific Ideas,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 393–412.
+* 1863, *On the Sensations of Tone as a Physiological Basis for the Theory of Music*, trans. by Alexander J. Ellis from the fourth (1877) edition, New York: Dover Publications, Inc., 1954. First German edition published Braunschweig: Verlag von F. Vieweg & Sohn.
+* 1867, *Handbuch der physiologischen Optik*, Leipzig: Leopold Voss. Published in parts from 1856 to 1866, then published in toto in 1867 as Volume Nine of the *Allgemeinen Encyclopädie der Physik*, ed. Gustav Karsten. Second revised edition of 1896, Leipzig: Leopold Voss, available entire from Google Books.
+* 1883 \[1868], “Über die Thatsachen, welche der Geometrie zu Grunde liegen,” in *Wissenschaftliche Abhandlungen*, Volume II, Leipzig: Johann Ambrosius Barth, 618–639. Originally published in the *Nachrichten von der Königl. Gesellschaft der Wissenschaften zu Göttingen*, No. 9 (3 June).
+* 1868, “The Recent Progress of the Theory of Vision,” in *Science and Culture: Popular and Philosophical Essays*, ed. David Cahan, Chicago: The University of Chicago Press, 1995, 127–203. Originally published in the *Preussische Jahrbücher*, Volume 21.
+* 1869, “Über das Ziel und die Fortschritte der Naturwissenschaft,” in *Das Denken in der Naturwissenschaft*, Darmstadt: Wissenschaftliche Buchgesellschaft, 1968.
+* 1878, “The Facts of Perception,” in *Selected writings of Hermann von Helmholtz*, edited, with an introduction, by Russell Kahl. Middletown, Connecticut: Wesleyan University Press, 1971.
+* 1882, *Wissenschaftliche Abhandlungen*, Three volumes: second volume 1883, third volume 1895, Leipzig: Johann Ambrosius Barth.
 * 1894, Introduction to Hertz 1894.
-* 1903, _Vorträge und Reden_, Two volumes, fifth edition, Braunschweig: F. Vieweg u. Sohn.
-* 1921, _Schriften zur Erkenntnistheorie_, Moritz Schlick and Paul Hertz (eds.), Berlin: Julius Springer.
-* 1921, _Hermann von Helmholtz. Epistemological Writings. The Paul Hertz/Moritz Schlick Centenary Edition of 1921_, newly translated by Malcom Lowe. Robert S. Cohen and Yehuda Elkana (eds.), Dordrecht: D. Reidel Publishing Company, 1977.
-* 2017, _Hermann von Helmholtz. Philosophische und Populärwissenschaftliche Schriften_, Michael Heidelberger, Helmut Pulte, and Gregor Schiemann (eds.), Hamburg: Meiner Verlag.
+* 1903, *Vorträge und Reden*, Two volumes, fifth edition, Braunschweig: F. Vieweg u. Sohn.
+* 1921, *Schriften zur Erkenntnistheorie*, Moritz Schlick and Paul Hertz (eds.), Berlin: Julius Springer.
+* 1921, *Hermann von Helmholtz. Epistemological Writings. The Paul Hertz/Moritz Schlick Centenary Edition of 1921*, newly translated by Malcom Lowe. Robert S. Cohen and Yehuda Elkana (eds.), Dordrecht: D. Reidel Publishing Company, 1977.
+* 2017, *Hermann von Helmholtz. Philosophische und Populärwissenschaftliche Schriften*, Michael Heidelberger, Helmut Pulte, and Gregor Schiemann (eds.), Hamburg: Meiner Verlag.
 
 ### Secondary Literature
 
-* Allais, Lucy, 2015, _Manifest Reality: Kant’s Idealism and his Realism_, Oxford: Oxford University Press.
-* Assis, André Koch Torres, 1994, _Weber’s Electrodynamics_ (Series: Fundamental Theories of Physics), Dordrecht: Kluwer Academic Publishers.
-* Baird, D., R.I.G. Hughes, and A. Nordmann (eds.), 1998, _Heinrich Hertz: Classical Physicist, Modern Philosopher_, Boston Studies in the Philosophy of Science Vol. 198, Dordrecht: Kluwer Academic Publishers.
-* Beiser, Frederick, 2012, _The German Historicist Tradition_. Oxford: Oxford University Press.
-* Bevilacqua, Fabio, 1993, “Helmholtz’s _Ueber die Erhaltung der Kraft_: The Emergence of a Theoretical Physicist,” in Cahan 1993.
-* Biagioli, Francesca, 2023, “Hermann von Helmholtz and the Quantification Problem of Psychophysics,” _Journal for General Philosophy of Science / Zeitschrift für Allgemeine Wissenschaftstheorie_, 54(1): 39–54.
-* –––, 2018, “Articulating Space in Terms of Transformation Groups: Helmholtz and Cassirer,” _Journal for the History of Analytical Philosophy_, 6(3): 115–131.
-* –––, 2016, _Space, Number, and Geometry from Helmholtz to Cassirer_, Cham: Springer.
-* –––, 2014, “What Does It Mean That ‘Space Can Be Transcendental Without the Axioms Being So’?” _Journal for General Philosophy of Science_, 45(1): 1–21.
-* Bokulich, Alisa, 2015, “Maxwell, Helmholtz, and the unreasonable effectiveness of the method of physical analogy,” _Studies in History and Philosophy of Science Part A_, 50: 28–37.
-* Boring, Edwin Garrigues, 1942, _Sensation and perception in the history of experimental psychology_, New York: Appleton-Century Company.
-* Buchwald, Jed, 1994, _The Creation of Scientific Effects: Heinrich Hertz and Electric Waves_, Chicago: University of Chicago Press.
-* Cahan, David, 1989, _An Institute for an Empire: The Physikalisch-Technische Reichsanstalt, 1871–1918_, Cambridge: Cambridge University Press. Paperback version 2002.
-* ––– (ed.), 1993, _Hermann von Helmholtz and the Foundations of Nineteenth-Century Science_, Berkeley: University of California Press.
-* –––, 2000, “The Young Einstein’s Physics Education,” in _Einstein: The Formative Years, 1879–1909_, Don Howard and John Stachel (eds.), Berlin: Springer, 43–82.
-* –––, 2012, “Helmholtz and the British Scientific Elite,” _Notes and Records of the Royal Society_, 66: 55–68.
-* Campisi, Michele, 2005, “On the mechanical foundations of thermodynamics: The generalized Helmholtz theorem,” _Studies In History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics_, 36(2): 276–290.
-* Caneva, Kenneth L., 2019, “Helmholtz, the Conservation of Force and the Conservation of Vis Viva,” _Annals of Science_, 76(1): 17–57.
-* Cantù, Paola, 2018, “The Epistemological Question of the Applicability of Mathematics,” _Journal for the History of Analytical Philosophy_, 6 (3): 95–114.
-* Chirimuuta, Mazviita, 2015, _Outside Color: Perceptual Science and the Puzzle of Color in Philosophy_, Cambridge, MA: The MIT Press.
-* Cassirer, Ernst, 2005 \[1918], “Hermann Cohen and the Renewal of Kantian Philosophy,” translated Lydia Patton, _Angelaki_ (Routledge) 10(1): 95–108. Article originally appeared in _Kantstudien_ (1918) 17: 252–273.
-* Clark, Andrew, 2015, “Radical Predictive Processing,” _Southern Journal of Philosophy_, 53: 3–27.
-* Darrigol, Olivier, 2003, “Number and Measure: Hermann Von Helmholtz at the Crossroads of Mathematics, Physics, and Psychology,” _Studies in History and Philosophy of Science_ (Part A), 34(3): 515–573.
-* Dayan, P., Hinton, G.E., Neal, R.M., and Zemel, R.S., 1995, “The Helmholtz Machine,” _Neural Computation_, 7: 889–904.
-* De Kock, Liesbet, 2018, “Historicizing Hermann von Helmholtz’s Psychology of Differentiation.” _Journal for the History of Analytical Philosophy_, 6(3): 42–62.
-* –––, 2014a, “Hermann von Helmholtz’s empirico-transcendentalism reconsidered: construction and constitution in Helmholtz’s psychology of the object,” _Science in Context_, 27(4): 709–744.
-* –––, 2014b, “Voluntarism in early psychology: the case of Hermann von Helmholtz,” _History of Psychology_, 17(2): 105–128.
-* –––, 2013, “Helmholtz and the problem of externality in perception,” in G. Van de Vijver & B. Demarest (eds.), _Objectivity after Kant_, Hildesheim: Georg Olms, pp. 25–40.
-* De Schweinitz, George and Randall, Burton, 1899, _An American Text-Book of Diseases of the Eye, Ear, Nose, and Throat_, Philadelphia: W. B. Saunders.
-* Deutsch, Diana, 1984, “Psychology and Music,” pp. 155–194 in M. H. Bornstein (ed.) _Psychology and its Allied Disciplines_, Hillsdale: Erlbaum.
-* Dilthey, Wilhelm, 1883 \[1989], _Introduction to the Human Sciences_, Volume 1 (Michael Neville, trans.), Rudolf Makkreel and Frithjof Rodi (eds.), Princeton: Princeton University Press.
+* Allais, Lucy, 2015, *Manifest Reality: Kant’s Idealism and his Realism*, Oxford: Oxford University Press.
+* Assis, André Koch Torres, 1994, *Weber’s Electrodynamics* (Series: Fundamental Theories of Physics), Dordrecht: Kluwer Academic Publishers.
+* Baird, D., R.I.G. Hughes, and A. Nordmann (eds.), 1998, *Heinrich Hertz: Classical Physicist, Modern Philosopher*, Boston Studies in the Philosophy of Science Vol. 198, Dordrecht: Kluwer Academic Publishers.
+* Beiser, Frederick, 2012, *The German Historicist Tradition*. Oxford: Oxford University Press.
+* Bevilacqua, Fabio, 1993, “Helmholtz’s *Ueber die Erhaltung der Kraft*: The Emergence of a Theoretical Physicist,” in Cahan 1993.
+* Biagioli, Francesca, 2023, “Hermann von Helmholtz and the Quantification Problem of Psychophysics,” *Journal for General Philosophy of Science / Zeitschrift für Allgemeine Wissenschaftstheorie*, 54(1): 39–54.
+* –––, 2018, “Articulating Space in Terms of Transformation Groups: Helmholtz and Cassirer,” *Journal for the History of Analytical Philosophy*, 6(3): 115–131.
+* –––, 2016, *Space, Number, and Geometry from Helmholtz to Cassirer*, Cham: Springer.
+* –––, 2014, “What Does It Mean That ‘Space Can Be Transcendental Without the Axioms Being So’?” *Journal for General Philosophy of Science*, 45(1): 1–21.
+* Bokulich, Alisa, 2015, “Maxwell, Helmholtz, and the unreasonable effectiveness of the method of physical analogy,” *Studies in History and Philosophy of Science Part A*, 50: 28–37.
+* Boring, Edwin Garrigues, 1942, *Sensation and perception in the history of experimental psychology*, New York: Appleton-Century Company.
+* Buchwald, Jed, 1994, *The Creation of Scientific Effects: Heinrich Hertz and Electric Waves*, Chicago: University of Chicago Press.
+* Cahan, David, 1989, *An Institute for an Empire: The Physikalisch-Technische Reichsanstalt, 1871–1918*, Cambridge: Cambridge University Press. Paperback version 2002.
+* ––– (ed.), 1993, *Hermann von Helmholtz and the Foundations of Nineteenth-Century Science*, Berkeley: University of California Press.
+* –––, 2000, “The Young Einstein’s Physics Education,” in *Einstein: The Formative Years, 1879–1909*, Don Howard and John Stachel (eds.), Berlin: Springer, 43–82.
+* –––, 2012, “Helmholtz and the British Scientific Elite,” *Notes and Records of the Royal Society*, 66: 55–68.
+* Campisi, Michele, 2005, “On the mechanical foundations of thermodynamics: The generalized Helmholtz theorem,” *Studies In History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics*, 36(2): 276–290.
+* Caneva, Kenneth L., 2019, “Helmholtz, the Conservation of Force and the Conservation of Vis Viva,” *Annals of Science*, 76(1): 17–57.
+* Cantù, Paola, 2018, “The Epistemological Question of the Applicability of Mathematics,” *Journal for the History of Analytical Philosophy*, 6 (3): 95–114.
+* Chirimuuta, Mazviita, 2015, *Outside Color: Perceptual Science and the Puzzle of Color in Philosophy*, Cambridge, MA: The MIT Press.
+* Cassirer, Ernst, 2005 \[1918], “Hermann Cohen and the Renewal of Kantian Philosophy,” translated Lydia Patton, *Angelaki* (Routledge) 10(1): 95–108. Article originally appeared in *Kantstudien* (1918) 17: 252–273.
+* Clark, Andrew, 2015, “Radical Predictive Processing,” *Southern Journal of Philosophy*, 53: 3–27.
+* Darrigol, Olivier, 2003, “Number and Measure: Hermann Von Helmholtz at the Crossroads of Mathematics, Physics, and Psychology,” *Studies in History and Philosophy of Science* (Part A), 34(3): 515–573.
+* Dayan, P., Hinton, G.E., Neal, R.M., and Zemel, R.S., 1995, “The Helmholtz Machine,” *Neural Computation*, 7: 889–904.
+* De Kock, Liesbet, 2018, “Historicizing Hermann von Helmholtz’s Psychology of Differentiation.” *Journal for the History of Analytical Philosophy*, 6(3): 42–62.
+* –––, 2014a, “Hermann von Helmholtz’s empirico-transcendentalism reconsidered: construction and constitution in Helmholtz’s psychology of the object,” *Science in Context*, 27(4): 709–744.
+* –––, 2014b, “Voluntarism in early psychology: the case of Hermann von Helmholtz,” *History of Psychology*, 17(2): 105–128.
+* –––, 2013, “Helmholtz and the problem of externality in perception,” in G. Van de Vijver & B. Demarest (eds.), *Objectivity after Kant*, Hildesheim: Georg Olms, pp. 25–40.
+* De Schweinitz, George and Randall, Burton, 1899, *An American Text-Book of Diseases of the Eye, Ear, Nose, and Throat*, Philadelphia: W. B. Saunders.
+* Deutsch, Diana, 1984, “Psychology and Music,” pp. 155–194 in M. H. Bornstein (ed.) *Psychology and its Allied Disciplines*, Hillsdale: Erlbaum.
+* Dilthey, Wilhelm, 1883 \[1989], *Introduction to the Human Sciences*, Volume 1 (Michael Neville, trans.), Rudolf Makkreel and Frithjof Rodi (eds.), Princeton: Princeton University Press.
 * DiSalle, Robert, 1993, “Helmholtz’s Empiricist Philosophy of Mathematics,” in Cahan 1993, 498–521.
-* Eckert, Michael, 2006, _The Dawn of Fluid Mechanics: A Discipline Between Science and Technology_, New York: John Wiley.
-* Edgar, Scott, 2018, “Volume Introduction,” _Journal for the History of Analytical Philosophy_, 6 (3): 1–10.
-* Emanuel, George, 2000, _Analytical Fluid Dynamics_, 2nd ed., Boca Raton: CRC Press.
-* Farge, Marie, 2004, “Hermann von Helmholtz,” in _Multimedia Fluid Mechanics_, Cambridge: Cambridge University Press.
-* Friedman, Michael, 2000, “Geometry, Construction and Intuition in Kant and his Successors,” in _Beyond Logic and Intuition: Essays in Honor of Charles Parsons_, Cambridge: Cambridge University Press, 186–218.
-* –––, 2001, _Dynamics of Reason: The 1999 Kant Lectures at Stanford University_, Chicago: CSLI Publications, University of Chicago Press.
-* Giovanelli, Marco, 2017, “Traditions in Collision: The Emergence of Logical Empiricism between the Riemannian and Helmholtzian Traditions,” _HOPOS_, 7(2): 328–380.
-* Grasshoff, Gerd, 1998, “Hertz’s Philosophy of Nature in Wittgenstein’s _Tractatus_,” in Baird et al., 243–268.
-* Fuhs, Allen E. and Shetz, Joseph A., eds., 1999, _Fundamentals of Fluid Mechanics_, New York: John Wiley.
-* Galaty, David, 1971, _The Emergence of Biological Reductionism_, Ph.D. dissertation, The Johns Hopkins University.
-* Hacker, Peter, 1986, _Insight and Illusion: Themes in the Philosophy of Wittgenstein_, Oxford: Oxford University Press.
-* Hatfield, Gary, 2018, “Helmholtz and Philosophy: Science, Perception, and Metaphysics, with Variations on Some Fichtean Themes,” _Journal for the History of Analytical Philosophy_, 6(3): 11–41.
-* Hatfield, Gary, 1991, _The Natural and the Normative: Theories of Spatial Perception from Kant to Helmholtz_, Cambridge, Massachusetts: The MIT Press.
-* Heidelberger, Michael, 2007, “From Neo-Kantianism to Critical Realism: Space and the Mind-Body Problem in Riehl and Schlick,” _Perspectives on Science_, Volume 15, Number 1: 26–48.
+* Eckert, Michael, 2006, *The Dawn of Fluid Mechanics: A Discipline Between Science and Technology*, New York: John Wiley.
+* Edgar, Scott, 2018, “Volume Introduction,” *Journal for the History of Analytical Philosophy*, 6 (3): 1–10.
+* Emanuel, George, 2000, *Analytical Fluid Dynamics*, 2nd ed., Boca Raton: CRC Press.
+* Farge, Marie, 2004, “Hermann von Helmholtz,” in *Multimedia Fluid Mechanics*, Cambridge: Cambridge University Press.
+* Friedman, Michael, 2000, “Geometry, Construction and Intuition in Kant and his Successors,” in *Beyond Logic and Intuition: Essays in Honor of Charles Parsons*, Cambridge: Cambridge University Press, 186–218.
+* –––, 2001, *Dynamics of Reason: The 1999 Kant Lectures at Stanford University*, Chicago: CSLI Publications, University of Chicago Press.
+* Giovanelli, Marco, 2017, “Traditions in Collision: The Emergence of Logical Empiricism between the Riemannian and Helmholtzian Traditions,” *HOPOS*, 7(2): 328–380.
+* Grasshoff, Gerd, 1998, “Hertz’s Philosophy of Nature in Wittgenstein’s *Tractatus*,” in Baird et al., 243–268.
+* Fuhs, Allen E. and Shetz, Joseph A., eds., 1999, *Fundamentals of Fluid Mechanics*, New York: John Wiley.
+* Galaty, David, 1971, *The Emergence of Biological Reductionism*, Ph.D. dissertation, The Johns Hopkins University.
+* Hacker, Peter, 1986, *Insight and Illusion: Themes in the Philosophy of Wittgenstein*, Oxford: Oxford University Press.
+* Hatfield, Gary, 2018, “Helmholtz and Philosophy: Science, Perception, and Metaphysics, with Variations on Some Fichtean Themes,” *Journal for the History of Analytical Philosophy*, 6(3): 11–41.
+* Hatfield, Gary, 1991, *The Natural and the Normative: Theories of Spatial Perception from Kant to Helmholtz*, Cambridge, Massachusetts: The MIT Press.
+* Heidelberger, Michael, 2007, “From Neo-Kantianism to Critical Realism: Space and the Mind-Body Problem in Riehl and Schlick,” *Perspectives on Science*, Volume 15, Number 1: 26–48.
 * –––, 1998, “From Helmholtz’s Philosophy of Science to Hertz’s Picture-Theory,” in Baird et al., 9–24.
-* –––, 1995, “Helmholtz als Philosoph,” _Deutsche Zeitschrift für Philosophie_, 43: 835–44.
-* Heller, Eric, 2012, _Why You Hear What You Hear_, Princeton: Princeton University Press.
-* Hendricks, V.F.; Jörgensen, K.F.; Lützen, J.; Pedersen, S.A., eds., 2006, _Interactions: Mathematics, Physics and Philosophy, 1860–1930_, Boston Studies in the Philosophy of Science, Vol. 251, Berlin: Springer Verlag.
-* Hershenson, Maurice, 1999, _Visual Space Perception: A Primer_, Cambridge, Massachusetts: MIT Press.
-* Hertz, Heinrich, 1894, _The Principles of Mechanics_, Robert S. Cohen (ed.), D.E. Jones and J.T. Walley (trans.), with an introduction by Hermann von Helmholtz, New York: Dover Publications, Inc., 1956.
+* –––, 1995, “Helmholtz als Philosoph,” *Deutsche Zeitschrift für Philosophie*, 43: 835–44.
+* Heller, Eric, 2012, *Why You Hear What You Hear*, Princeton: Princeton University Press.
+* Hendricks, V.F.; Jörgensen, K.F.; Lützen, J.; Pedersen, S.A., eds., 2006, *Interactions: Mathematics, Physics and Philosophy, 1860–1930*, Boston Studies in the Philosophy of Science, Vol. 251, Berlin: Springer Verlag.
+* Hershenson, Maurice, 1999, *Visual Space Perception: A Primer*, Cambridge, Massachusetts: MIT Press.
+* Hertz, Heinrich, 1894, *The Principles of Mechanics*, Robert S. Cohen (ed.), D.E. Jones and J.T. Walley (trans.), with an introduction by Hermann von Helmholtz, New York: Dover Publications, Inc., 1956.
 * Hoffmann, Dieter, 1998, “Heinrich Hertz and the Berlin School of Physics,” in Baird et al., 1–8.
-* Hui, Alexandra, 2011, “Instruments of Music, Instruments of Science: Hermann von Helmholtz’s Musical Practices, His Classicism, and His Beethoven Sonata,” _Annals of Science_, 68(2): 149–177.
-* –––, 2012, _The Psychophysical Ear: Musical Experiments, Experimental Sounds, 1840–1910_, Cambridge, MA: The MIT Press.
-* Hyder, David, 1999, “Helmholtz’s Naturalized Conception of Geometry and His Spatial Theory of Signs,” _Philosophy of Science_, 66(3): 286.
-* –––, 2002, _The Mechanics of Meaning: Propositional Content and the Logical Space of Wittgenstein’s Tractatus_, Berlin: Walter de Gruyter.
-* –––, 2009, _The Determinate World: Kant and Helmholtz on the Physical Meaning of Geometry_, Berlin and New York: Walter de Gruyter.
-* –––, 2013, “Time, Norms and Structure in Nineteenth Century Philosophy of Science,” pp. 250–79 in _The Oxford Handbook of the History of Analytic Philosophy_, Michael Beaney (ed.), Oxford: Oxford University Press.
+* Hui, Alexandra, 2011, “Instruments of Music, Instruments of Science: Hermann von Helmholtz’s Musical Practices, His Classicism, and His Beethoven Sonata,” *Annals of Science*, 68(2): 149–177.
+* –––, 2012, *The Psychophysical Ear: Musical Experiments, Experimental Sounds, 1840–1910*, Cambridge, MA: The MIT Press.
+* Hyder, David, 1999, “Helmholtz’s Naturalized Conception of Geometry and His Spatial Theory of Signs,” *Philosophy of Science*, 66(3): 286.
+* –––, 2002, *The Mechanics of Meaning: Propositional Content and the Logical Space of Wittgenstein’s Tractatus*, Berlin: Walter de Gruyter.
+* –––, 2009, *The Determinate World: Kant and Helmholtz on the Physical Meaning of Geometry*, Berlin and New York: Walter de Gruyter.
+* –––, 2013, “Time, Norms and Structure in Nineteenth Century Philosophy of Science,” pp. 250–79 in *The Oxford Handbook of the History of Analytic Philosophy*, Michael Beaney (ed.), Oxford: Oxford University Press.
 * –––, 2006, “Kant, Helmholtz and the Determinacy of Physical Theory,” in Hendricks et al., 1–44.
-* Jurkowitz, Edward, 2010, “Helmholtz’s Early Empiricism and the Erhaltung der Kraft,” _Annals of Science_, 67(1): 39–78.
-* Koenigsberger, Leo, 1906, _Hermann von Helmholtz_, translated by Frances A. Welby with a preface by Lord Kelvin, New York: Dover Publications.
-* Kremer, Richard L., 1993, “Innovation Through Synthesis: Helmholtz and Color Research,” in David Cahan (ed.), _Hermann von Helmholtz and the Foundations of Nineteenth-Century Science._ Berkeley: University of California Press, 205–258.
-* Kuhn, Thomas, 1969, “Energy Conservation as an Example of Simultaneous Discovery,” in Marshall Clagett (ed.), _Critical Problems in the History of Science_, Madison, Wisconsin: University of Wisconsin Press, 321–356.
-* Land, J.P.N., 1877, “Kant’s Space and Modern Mathematics,” _Mind_, 2(5): 38–46.
-* Leary, David E., 1982, “Immanuel Kant and the Development of Modern Psychology,” in _The Problematic Science: Psychology in Nineteenth Century Thought_, William Woodward and Mitchell Ash (eds.), New York: Praeger.
-* Lenoir, Timothy, 2006, “Operationalizing Kant: Manifolds, Models, and Mathematics in Helmholtz’s Theories of Perception,” in _The Kantian Legacy in Nineteenth-Century Science_, Michael Friedman and Alfred Nordmann (eds.), Cambridge, MA: MIT Press.
-* Leroux, Jean, 2001, “‘Picture theories’ as forerunners of the semantic approach to scientific theories,”_International Studies in the Philosophy of Science_, 15(2): 189–197.
-* Luft, Sebastian (ed.), 2014, _The Neo-Kantian Reader_, New York and London: Routledge.
-* Mach, Ernst, 1911, _History and Root of the Principle of the Conservation of Energy_, translated by Philip Jourdain, Chicago: Open Court Publishing Company.
-* Meulders, Michel, 2010, _Helmholtz: From Enlightenment to Neuroscience_, Cambridge, MA: The MIT Press.
-* Mittelstaedt, Paul and Weingartner, Paul, 2005, _Laws of Nature_, Berlin: Springer Verlag.
-* Müller, Johannes, 1837–1840, _Handbuch der Physiologie des Menschen für Vorlesungen_, 2 volumes, Coblenz: J. Hülscher.
-* Neuber, Matthias, 2012, “Helmholtz’s Theory of Space and Its Significance for Schlick,” _British Journal for the History of Philosophy_, 20(1): 163–180.
-* –––, 2018a, “Helmholtz, Kaila, and the Representational Theory of Measurement,” _HOPOS_, 8(2).
-* –––, 2018b, “Perception and Coincidence in Helmholtz’s Theory of Measurement,” _Journal for the History of Analytical Philosophy_, 6(3): 79–94.
-* Otis, Laura, 2007, _Müller’s Lab_, Oxford: Oxford University Press.
-* Pastore, Nicholas, 1978, “Helmholtz on the Projection or Transfer of Sensation,” in _Studies in Perception_, Peter Machamer and Robert Turnbull (eds.), Columbus: Ohio State University Press.
-* Patton, Lydia, 2022, “Organic Memory and the Perils of Perigenesis: The Helmholtz-Hering Debate,” in Charles T. Wolfe, Paolo Pecere & Antonio Clericuzio (eds.), _Mechanism, Life and Mind in Modern Natural Philosophy_. Dordrecht: Springer, 345–362.
-* –––, 2019, “Perspectivalism in the Development of Scientific Observer-Relativity,” in _The Emergence of Relativism_, M. Kusch, K. Kinzel, J. Steizinger, and N. Wildschut (eds.), London: Routledge.
-* –––, 2018, “Helmholtz’s Physiological Psychology,” in _Philosophy of Mind in the Nineteenth Century_, S. Lapointe (ed.), London: Routledge.
-* –––, 2012, “Experiment and Theory Building,” _Synthese_, 184(3): 235–246.
-* –––, 2009, “Signs, Toy Models, and the A Priori: from Helmholtz to Wittgenstein,” _Studies in the History and Philosophy of Science_, 40(3): 281–289.
-* Peruzzi, Giulio and Valentina Roberti, 2023, “Helmholtz and the Geometry of Color Space: Gestation and development of Helmholtz’s line element,” _Archive for History of Exact Sciences_, 77(2): 201–220.
-* Purrington, Robert D., 1997, _History of Physics in the Nineteenth Century_, New Brunswick, NJ: Rutgers University Press.
-* Reichenbach, Hans, 1920, _Relativitätstheorie und Erkenntnis Apriori_, Berlin: Springer.
-* Riehl, Alois, 1876, _Der philosophische Kriticismus und seine Bedeutung für die positive Wissenschaft. Vol 1: Geschichte und Methode des philosophischen Kriticismus_, Leipzig: Wilhelm Engelmann.
-* Riemann, Bernhard, 1892 \[1854], “Ueber die Hypothesen, welche der Geometrie zu Grunde liegen”, in _Bernhard Riemanns Gesammelte Mathematische Werke_, Richard Dedekind and Heinrich Weber (eds.), second revised edition, Leipzig: Druck und Verlag von B. G. Teubner.
-* Schett, A., 1999, “The discovery of the ophthalmoscope by Hermann von Helmholtz,” _Strabismus_, 7 (4): 241–244.
-* Schiemann, Gregor, 2009, _Hermann von Helmholtz’s Mechanism: The Loss of Certainty. A Study on the Transition from Classical to Modern Philosophy of Nature_, trans. Cynthia Klohr. Dordrecht: Springer.
-* Schiemann, Gregor, 1998, “The Loss of World in the Image: Origin and Development of the Concept of Image in the Thought of Hermann von Helmholtz and Heinrich Hertz,” in Baird _et al_., 25–38.
-* Sommerfeld, Arnold, 1952, _Lectures on Theoretical Physics, Vol. 3_, Edward G. Ramberg (trans.), New York: Academic Press.
-* Sterrett, Susan G., 2017, “Physically Similar Systems: a history of the concept,” in Lorenzo Magnani & Tommaso Wayne Bertolotti (eds.), _Springer Handbook of Model-Based Science_, Dordrecht: Springer, pp. 377–412.
-* Swanson, Link R, 2016, “The Predictive Processing Paradigm has Roots in Kant,” _Frontiers in Systems Neuroscience_, 10: 79.
-* Sulloway, Frank, 1992, _Freud: Biologist of the Mind_, Cambridge, MA: Harvard University Press.
-* Tracz, Brian, 2018, “Helmholtz on Perceptual Properties,” _Journal for the History of Analytical Philosophy_ 6(3): 63–78.
+* Jurkowitz, Edward, 2010, “Helmholtz’s Early Empiricism and the Erhaltung der Kraft,” *Annals of Science*, 67(1): 39–78.
+* Koenigsberger, Leo, 1906, *Hermann von Helmholtz*, translated by Frances A. Welby with a preface by Lord Kelvin, New York: Dover Publications.
+* Kremer, Richard L., 1993, “Innovation Through Synthesis: Helmholtz and Color Research,” in David Cahan (ed.), *Hermann von Helmholtz and the Foundations of Nineteenth-Century Science.* Berkeley: University of California Press, 205–258.
+* Kuhn, Thomas, 1969, “Energy Conservation as an Example of Simultaneous Discovery,” in Marshall Clagett (ed.), *Critical Problems in the History of Science*, Madison, Wisconsin: University of Wisconsin Press, 321–356.
+* Land, J.P.N., 1877, “Kant’s Space and Modern Mathematics,” *Mind*, 2(5): 38–46.
+* Leary, David E., 1982, “Immanuel Kant and the Development of Modern Psychology,” in *The Problematic Science: Psychology in Nineteenth Century Thought*, William Woodward and Mitchell Ash (eds.), New York: Praeger.
+* Lenoir, Timothy, 2006, “Operationalizing Kant: Manifolds, Models, and Mathematics in Helmholtz’s Theories of Perception,” in *The Kantian Legacy in Nineteenth-Century Science*, Michael Friedman and Alfred Nordmann (eds.), Cambridge, MA: MIT Press.
+* Leroux, Jean, 2001, “‘Picture theories’ as forerunners of the semantic approach to scientific theories,”*International Studies in the Philosophy of Science*, 15(2): 189–197.
+* Luft, Sebastian (ed.), 2014, *The Neo-Kantian Reader*, New York and London: Routledge.
+* Mach, Ernst, 1911, *History and Root of the Principle of the Conservation of Energy*, translated by Philip Jourdain, Chicago: Open Court Publishing Company.
+* Meulders, Michel, 2010, *Helmholtz: From Enlightenment to Neuroscience*, Cambridge, MA: The MIT Press.
+* Mittelstaedt, Paul and Weingartner, Paul, 2005, *Laws of Nature*, Berlin: Springer Verlag.
+* Müller, Johannes, 1837–1840, *Handbuch der Physiologie des Menschen für Vorlesungen*, 2 volumes, Coblenz: J. Hülscher.
+* Neuber, Matthias, 2012, “Helmholtz’s Theory of Space and Its Significance for Schlick,” *British Journal for the History of Philosophy*, 20(1): 163–180.
+* –––, 2018a, “Helmholtz, Kaila, and the Representational Theory of Measurement,” *HOPOS*, 8(2).
+* –––, 2018b, “Perception and Coincidence in Helmholtz’s Theory of Measurement,” *Journal for the History of Analytical Philosophy*, 6(3): 79–94.
+* Otis, Laura, 2007, *Müller’s Lab*, Oxford: Oxford University Press.
+* Pastore, Nicholas, 1978, “Helmholtz on the Projection or Transfer of Sensation,” in *Studies in Perception*, Peter Machamer and Robert Turnbull (eds.), Columbus: Ohio State University Press.
+* Patton, Lydia, 2022, “Organic Memory and the Perils of Perigenesis: The Helmholtz-Hering Debate,” in Charles T. Wolfe, Paolo Pecere & Antonio Clericuzio (eds.), *Mechanism, Life and Mind in Modern Natural Philosophy*. Dordrecht: Springer, 345–362.
+* –––, 2019, “Perspectivalism in the Development of Scientific Observer-Relativity,” in *The Emergence of Relativism*, M. Kusch, K. Kinzel, J. Steizinger, and N. Wildschut (eds.), London: Routledge.
+* –––, 2018, “Helmholtz’s Physiological Psychology,” in *Philosophy of Mind in the Nineteenth Century*, S. Lapointe (ed.), London: Routledge.
+* –––, 2012, “Experiment and Theory Building,” *Synthese*, 184(3): 235–246.
+* –––, 2009, “Signs, Toy Models, and the A Priori: from Helmholtz to Wittgenstein,” *Studies in the History and Philosophy of Science*, 40(3): 281–289.
+* Peruzzi, Giulio and Valentina Roberti, 2023, “Helmholtz and the Geometry of Color Space: Gestation and development of Helmholtz’s line element,” *Archive for History of Exact Sciences*, 77(2): 201–220.
+* Purrington, Robert D., 1997, *History of Physics in the Nineteenth Century*, New Brunswick, NJ: Rutgers University Press.
+* Reichenbach, Hans, 1920, *Relativitätstheorie und Erkenntnis Apriori*, Berlin: Springer.
+* Riehl, Alois, 1876, *Der philosophische Kriticismus und seine Bedeutung für die positive Wissenschaft. Vol 1: Geschichte und Methode des philosophischen Kriticismus*, Leipzig: Wilhelm Engelmann.
+* Riemann, Bernhard, 1892 \[1854], “Ueber die Hypothesen, welche der Geometrie zu Grunde liegen”, in *Bernhard Riemanns Gesammelte Mathematische Werke*, Richard Dedekind and Heinrich Weber (eds.), second revised edition, Leipzig: Druck und Verlag von B. G. Teubner.
+* Schett, A., 1999, “The discovery of the ophthalmoscope by Hermann von Helmholtz,” *Strabismus*, 7 (4): 241–244.
+* Schiemann, Gregor, 2009, *Hermann von Helmholtz’s Mechanism: The Loss of Certainty. A Study on the Transition from Classical to Modern Philosophy of Nature*, trans. Cynthia Klohr. Dordrecht: Springer.
+* Schiemann, Gregor, 1998, “The Loss of World in the Image: Origin and Development of the Concept of Image in the Thought of Hermann von Helmholtz and Heinrich Hertz,” in Baird *et al*., 25–38.
+* Sommerfeld, Arnold, 1952, *Lectures on Theoretical Physics, Vol. 3*, Edward G. Ramberg (trans.), New York: Academic Press.
+* Sterrett, Susan G., 2017, “Physically Similar Systems: a history of the concept,” in Lorenzo Magnani & Tommaso Wayne Bertolotti (eds.), *Springer Handbook of Model-Based Science*, Dordrecht: Springer, pp. 377–412.
+* Swanson, Link R, 2016, “The Predictive Processing Paradigm has Roots in Kant,” *Frontiers in Systems Neuroscience*, 10: 79.
+* Sulloway, Frank, 1992, *Freud: Biologist of the Mind*, Cambridge, MA: Harvard University Press.
+* Tracz, Brian, 2018, “Helmholtz on Perceptual Properties,” *Journal for the History of Analytical Philosophy* 6(3): 63–78.
 * Turner, R. Steven, 1993, “Consensus and Controversy: Helmholtz on the Visual Perception of Space,” in Cahan 1993.
-* Von Harnack, Adolf, 1900, _Geschichte der Preussischen Akademie der Wissenschaften_, Volume 2, Berlin.
-* Windelband, Wilhelm, 1980/1894, “History and Natural Science,” trans. of the Strasbourg Rectorial Address “Geschichte und Naturwissenschaften” by Guy Oakes, _History and Theory_, 19(2): 169–185.
+* Von Harnack, Adolf, 1900, *Geschichte der Preussischen Akademie der Wissenschaften*, Volume 2, Berlin.
+* Windelband, Wilhelm, 1980/1894, “History and Natural Science,” trans. of the Strasbourg Rectorial Address “Geschichte und Naturwissenschaften” by Guy Oakes, *History and Theory*, 19(2): 169–185.
 
 ## Academic Tools
 
@@ -402,11 +400,11 @@ Hui 2011 和尤其是 2012 年是 19 世纪德国心理物理学和声学研究�
 
 ## Other Internet Resources
 
-* [_Method, Science, and Mathematics: Neo-Kantianism and Analytic Philosophy_](https://jhaponline.org/jhap/issue/view/345), a special volume of the _Journal for the History of Analytical Philosophy_.
+* [*Method, Science, and Mathematics: Neo-Kantianism and Analytic Philosophy*](https://jhaponline.org/jhap/issue/view/345), a special volume of the *Journal for the History of Analytical Philosophy*.
 * [Why You Hear What You Hear.](http://www.whyyouhearwhatyouhear.com/) History and science of acoustics, including applets; supplementary material to the textbook Heller 2012.
 * [MacTutor History of Mathematics Biography](https://mathshistory.st-andrews.ac.uk/Biographies/Helmholtz/) (University of St. Andrews).
 * [Diagram of pseudosphere](https://mathshistory.st-andrews.ac.uk/Diagrams/Pseudosphere.gif), from MacTutor History site.
-* [Helmholtz’s _Popular Lectures on Scientific Subjects_](http://books.google.com/books?id=ZCAAAAAAQAAJ) on Google Books.
+* [Helmholtz’s *Popular Lectures on Scientific Subjects*](http://books.google.com/books?id=ZCAAAAAAQAAJ) on Google Books.
 * [Leo Königsberger’s biography of Helmholtz](http://books.google.com/books?id=u-0HAAAAIAAJ) on GoogleBooks.
 
 ## Related Entries
@@ -418,4 +416,4 @@ Hui 2011 和尤其是 2012 年是 19 世纪德国心理物理学和声学研究�
 Collaborative work and discussion with Clinton Tolley, Scott Edgar, Gary Hatfield, Susan Sterrett, Martin Kusch, Michael Heidelberger, Liesbet de Kock, and Francesca Biagioli, among many others, has made my grasp of Helmholtz’s views more precise. Discussions with Michael Forster on the methods of the natural and the human sciences provided valuable leads for that section. Thanks are due to Emily Carson, Michael Hallett, and Alison Laywine for their aid with my very early work on Helmholtz, and to Stephen Menn for suggestions for revisions. Link Swanson, M. Steinfels, Eric Schliesser, and David Hyder have recommended work and suggested corrections. Especial thanks are due to Clark Glymour for detailed and very helpful comments on the first draft of this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Lydia Patton](http://www.phil.vt.edu/lpatton/lpatton.html) <[_critique@vt.edu_](mailto:critique%40vt%2eedu)>
+[Lydia Patton](http://www.phil.vt.edu/lpatton/lpatton.html) <[*critique@vt.edu*](mailto:critique%40vt%2eedu)>

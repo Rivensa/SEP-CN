@@ -1,10 +1,9 @@
 # 古代政治哲学 ancient (Melissa Lane)
 
-_首次发表于2010年9月6日；实质修订于2023年3月22日_
+*首次发表于2010年9月6日；实质修订于2023年3月22日*
 
 在这里，古代政治哲学被理解为指古希腊和罗马的思想，从公元前五世纪的古希腊思想的古典时期到公元五世纪西罗马帝国的结束，不包括该时期犹太教和基督教关于政治的思想发展。这一时期，柏拉图和亚里士多德发展了政治哲学这一流派：它包括对政治制度起源的思考，用于解释和组织政治生活的概念，如正义和平等，伦理目标与政治性质之间的关系，以及不同宪政安排或政权的相对优点。柏拉图的模型在整个这一时期对后来的作者仍然非常重要，即使后来的“希腊化”学派的发展和独特的罗马哲学适应形式为从哲学角度构建政治提供了新的框架。晚期古代学者在罗马帝国西部最后一位自称罗马皇帝的退位之后，继续参与这些希腊和罗马政治哲学传统，并在希腊语、拉丁语、希伯来语和（后来的）阿拉伯语中继续进行，直到中世纪学者及其后继者。
 
- 
 ***
 
 ## 1. 古代政治哲学的范围
@@ -261,165 +260,165 @@ This bibliography focuses on political philosophy rather than the entire corpus 
 
 ### Primary Literature
 
-The Oxford Classical Text series has been used for citation of most classical texts. Other editions of reference for many texts include the series published respectively by Teubner in Germany and by Budé in France. Abbreviations are used for the following texts and translations: DK (for the Presocratics): Diels, H., and W. Kranz (eds.), 1951–2, _Die Fragmente der Vorsokratiker, griechisch und deutsch_, 6th edn, 3 vols., Berlin: Weidmann. SVF (for the Stoics): von Arnim, Hans von, 1903–21, _Stoicorum Veterum Fragmenta_, 4 vols., Leipzig: B.G. Teubner. LS (for translations of the Stoics): Long, A. A., and D. N. Sedley (eds.), 1987, _The Hellenistic Philosophers_, 2 vols. Cambridge: Cambridge University Press \[Greek and Latin texts in vol.2], which is abbreviated LS in the body of this entry. Quotations from Plato are from the translations included in Cooper, John (ed.), _Plato. Complete Works_ (Indianapolis: Hackett, 1993) (occasionally modified); quotations from Aristotle are from Barnes, Jonathan (ed.) _The Complete Works of Aristotle_, vol. 2 (Princeton: Princeton University Press, 1984) \[this is known as the Revised Oxford Translation, consisting of Barnes’ revision of a complete series of translations published originally by the Oxford University Press between 1912 and 1954] (occasionally modified).
+The Oxford Classical Text series has been used for citation of most classical texts. Other editions of reference for many texts include the series published respectively by Teubner in Germany and by Budé in France. Abbreviations are used for the following texts and translations: DK (for the Presocratics): Diels, H., and W. Kranz (eds.), 1951–2, *Die Fragmente der Vorsokratiker, griechisch und deutsch*, 6th edn, 3 vols., Berlin: Weidmann. SVF (for the Stoics): von Arnim, Hans von, 1903–21, *Stoicorum Veterum Fragmenta*, 4 vols., Leipzig: B.G. Teubner. LS (for translations of the Stoics): Long, A. A., and D. N. Sedley (eds.), 1987, *The Hellenistic Philosophers*, 2 vols. Cambridge: Cambridge University Press \[Greek and Latin texts in vol.2], which is abbreviated LS in the body of this entry. Quotations from Plato are from the translations included in Cooper, John (ed.), *Plato. Complete Works* (Indianapolis: Hackett, 1993) (occasionally modified); quotations from Aristotle are from Barnes, Jonathan (ed.) *The Complete Works of Aristotle*, vol. 2 (Princeton: Princeton University Press, 1984) \[this is known as the Revised Oxford Translation, consisting of Barnes’ revision of a complete series of translations published originally by the Oxford University Press between 1912 and 1954] (occasionally modified).
 
 #### Translations used
 
-The list below is arranged roughly chronologically in relation to the Greek or Latin texts that are translated in each case. In addition to those listed below, the Loeb Classical Library has been used herein for the English translations of Plutarch’s _Lives_ (in eleven volumes, all translated by Bernadotte Perrin) and _Moralia_ (in sixteen volumes, by various translators).
+The list below is arranged roughly chronologically in relation to the Greek or Latin texts that are translated in each case. In addition to those listed below, the Loeb Classical Library has been used herein for the English translations of Plutarch’s *Lives* (in eleven volumes, all translated by Bernadotte Perrin) and *Moralia* (in sixteen volumes, by various translators).
 
-* Gagarin, M. and P. Woodruff, (eds.), 1995, _Early Greek Political Thought from Homer to the Sophists_, Cambridge: Cambridge University Press.
-* Taylor, C.C.W. (ed.), 1999, _The Atomists: Leucippus and Democritus, Fragments_, Toronto: University of Toronto Press.
-* Cooper, J. M., (ed.), 1997, with D.S. Hutchinson (assoc.ed.), _Plato: Complete Works_, Indianapolis: Hackett.
-* Reeve, C.D.C. (tr.), 1998, _Aristotle Politics_, Indianapolis and Cambridge: Hackett.
-* Barnes, J., (ed.), 1984, _The Complete Works of Aristotle_, 2 vols., Princeton: Princeton University Press.
-* Everson, S., (ed.), 1996, _Aristotle_, _The Politics and The Constitution of Athens_, Cambridge: Cambridge University Press \[uses translations from Barnes (ed.) 1984].
-* Long, A. A., and D. N. Sedley, (eds.), 1987, _The Hellenistic Philosophers_, 2 vols., Cambridge: Cambridge University Press \[translations and commentary, volume 1].
-* Griffin, M.T., and E.M. Atkins, (eds.), 1991, Cicero, _On Duties_, Cambridge: Cambridge University Press.
-* Zetzel, J.E.G., (ed.), 1999, _Cicero_, _On the Commonwealth and On the Laws_, Cambridge: Cambridge University Press.
-* Inwood, B., (ed.), 2007, _Seneca: Selected Philosophical Letters translated with introduction and commentary_, Oxford: Oxford University Press.
-* Cooper, J. M., and J.F. Procopé, 1995, _Seneca: Moral and Political Essays_, Cambridge: Cambridge University Press.
-* Braund, S.M. (ed.), 2009, _Seneca: De Clementia_, Oxford: Oxford University Press.
-* Griffin, M., and B. Inwood (eds.), 2011, _Seneca: On Benefits_, Chicago and London: University of Chicago Press.
-* King, C. (trans.), with W.B. Irvine (ed. and intro.), 2011, _Musonius Rufus: Lectures and Sayings_, revised edition, CreateSpace Publishing.
-* Dobbin, R.F., (ed.) 2008, _Epictetus: Discourses and Selected Writings_, London: Penguin.
-* Farqharson, A.S.L., (ed.), 2008, _The Meditations of Marcus Aurelius_ _Antoninus_, Oxford: Oxford University Press.
+* Gagarin, M. and P. Woodruff, (eds.), 1995, *Early Greek Political Thought from Homer to the Sophists*, Cambridge: Cambridge University Press.
+* Taylor, C.C.W. (ed.), 1999, *The Atomists: Leucippus and Democritus, Fragments*, Toronto: University of Toronto Press.
+* Cooper, J. M., (ed.), 1997, with D.S. Hutchinson (assoc.ed.), *Plato: Complete Works*, Indianapolis: Hackett.
+* Reeve, C.D.C. (tr.), 1998, *Aristotle Politics*, Indianapolis and Cambridge: Hackett.
+* Barnes, J., (ed.), 1984, *The Complete Works of Aristotle*, 2 vols., Princeton: Princeton University Press.
+* Everson, S., (ed.), 1996, *Aristotle*, *The Politics and The Constitution of Athens*, Cambridge: Cambridge University Press \[uses translations from Barnes (ed.) 1984].
+* Long, A. A., and D. N. Sedley, (eds.), 1987, *The Hellenistic Philosophers*, 2 vols., Cambridge: Cambridge University Press \[translations and commentary, volume 1].
+* Griffin, M.T., and E.M. Atkins, (eds.), 1991, Cicero, *On Duties*, Cambridge: Cambridge University Press.
+* Zetzel, J.E.G., (ed.), 1999, *Cicero*, *On the Commonwealth and On the Laws*, Cambridge: Cambridge University Press.
+* Inwood, B., (ed.), 2007, *Seneca: Selected Philosophical Letters translated with introduction and commentary*, Oxford: Oxford University Press.
+* Cooper, J. M., and J.F. Procopé, 1995, *Seneca: Moral and Political Essays*, Cambridge: Cambridge University Press.
+* Braund, S.M. (ed.), 2009, *Seneca: De Clementia*, Oxford: Oxford University Press.
+* Griffin, M., and B. Inwood (eds.), 2011, *Seneca: On Benefits*, Chicago and London: University of Chicago Press.
+* King, C. (trans.), with W.B. Irvine (ed. and intro.), 2011, *Musonius Rufus: Lectures and Sayings*, revised edition, CreateSpace Publishing.
+* Dobbin, R.F., (ed.) 2008, *Epictetus: Discourses and Selected Writings*, London: Penguin.
+* Farqharson, A.S.L., (ed.), 2008, *The Meditations of Marcus Aurelius* *Antoninus*, Oxford: Oxford University Press.
 
 ### Secondary Literature
 
 * Alberti, A., 1995, “The Epicurean theory of law and justice,” in Laks and Schofield 1995 (eds.), pp.191–212.
-* Annas, J., 1993, _The Morality of Happiness_, New York and Oxford: Oxford University Press.
-* –––, 1999, _Platonic Ethics Old and New_, Ithaca, NY: Cornell University Press.
-* –––, 2017, _Virtue and Law in Plato and Beyond_, Oxford: Oxford University Press.
-* Aoiz, J. and M. D. Boeri, 2022, “The Genealogy of Justice and Law in Epicureanism,” _Ancient Philosophy_, 42: 251–71.
-* Arendt, H., 1958, _The Human Condition_, Chicago: University of Chicago Press.
-* Atkins, E.M., 1990, “‘Domina et regina virtutum’: justice and _societas_ in _De Officiis_,” _Phronesis_, 35: 258–89.
+* Annas, J., 1993, *The Morality of Happiness*, New York and Oxford: Oxford University Press.
+* –––, 1999, *Platonic Ethics Old and New*, Ithaca, NY: Cornell University Press.
+* –––, 2017, *Virtue and Law in Plato and Beyond*, Oxford: Oxford University Press.
+* Aoiz, J. and M. D. Boeri, 2022, “The Genealogy of Justice and Law in Epicureanism,” *Ancient Philosophy*, 42: 251–71.
+* Arendt, H., 1958, *The Human Condition*, Chicago: University of Chicago Press.
+* Atkins, E.M., 1990, “‘Domina et regina virtutum’: justice and *societas* in *De Officiis*,” *Phronesis*, 35: 258–89.
 * –––, 2000, “Cicero,” in Rowe and Schofield 2000, pp. 477–516.
-* Atkins, J.W., 2013, _Cicero on Politics and the Limits of Reason_, Cambridge: Cambridge University Press.
-* –––, 2018, _Roman Political Thought_, Cambridge: Cambridge University Press.
-* –––, 2020, _Cicero on Politics and the Limits of Reason: The_ Republic _and_ Laws, Cambridge: Cambridge University Press.
-* Baraz, Y., 2012, _A Written Republic: Cicero’s Philosophical Politics_, Princeton: Princeton University Press.
-* Bartels, M.L., 2017, _Plato’s Pragmatic Project: a reading of Plato’s Laws_, Stuttgart: Franz Steiner Verlag.
-* Bobonich, C., 2002, _Plato’s Utopia Recast: his later ethics and politics_, Oxford: Oxford University Press.
-* –––, 2015, “Aristotle, political decision making, and the many,” in _Aristotle’s Politics: a critical guide_, T. Lockwood and T. Samaras (eds.), Cambridge: Cambridge University Press, pp. 142–62.
-* Bodéüs, R., 1993, _The Political Dimensions of Aristotle’s_ Ethics, trans. J.E. Garrett, Albany: State University of New York Press.
-* Bouchard, E., 2011, “Analogies du pouvoir partagé: remarques sur Aristote _Politique_ III.11,” _Phronesis_, 56: 162–179.
-* Brouwer, R., 2021, _Law and Philosophy in the Late Roman Republic_, Cambridge: Cambridge University Press.
-* Brunt, P.A., 2013 \[1975], “Stoicism and the Principate,” in P. Brunt, _Studies in Stoicism_, eds. M.T. Griffin and A. Samuels, Oxford: Oxford University Press, pp. 275–309.
-* Burnyeat, M., 2013, “Justice writ large and small in _Republic_ 4,” in _Politeia in Greek and Roman Philosophy_, V. Harte and M. Lane (eds.), Cambridge: Cambridge University Press, pp. 212–230.
-* Cammack, D., 2013, “Aristotle on the Virtue of the Multitude” _Political Theory_, 41: 175–202.
-* Campbell, G., 2003, _Lucretius on Creation and Evolution: a commentary on De Rerum Natura 5.772–1104_, Oxford: Oxford University Press.
-* Cartledge, P., 2009, _Ancient Greek Political Thought in Practice_, Cambridge: Cambridge University Press.
-* Carawan, E., 2013, _The Athenian Amnesty and Reconstructing the Law_, Oxford: Oxford University Press.
+* Atkins, J.W., 2013, *Cicero on Politics and the Limits of Reason*, Cambridge: Cambridge University Press.
+* –––, 2018, *Roman Political Thought*, Cambridge: Cambridge University Press.
+* –––, 2020, *Cicero on Politics and the Limits of Reason: The* Republic *and* Laws, Cambridge: Cambridge University Press.
+* Baraz, Y., 2012, *A Written Republic: Cicero’s Philosophical Politics*, Princeton: Princeton University Press.
+* Bartels, M.L., 2017, *Plato’s Pragmatic Project: a reading of Plato’s Laws*, Stuttgart: Franz Steiner Verlag.
+* Bobonich, C., 2002, *Plato’s Utopia Recast: his later ethics and politics*, Oxford: Oxford University Press.
+* –––, 2015, “Aristotle, political decision making, and the many,” in *Aristotle’s Politics: a critical guide*, T. Lockwood and T. Samaras (eds.), Cambridge: Cambridge University Press, pp. 142–62.
+* Bodéüs, R., 1993, *The Political Dimensions of Aristotle’s* Ethics, trans. J.E. Garrett, Albany: State University of New York Press.
+* Bouchard, E., 2011, “Analogies du pouvoir partagé: remarques sur Aristote *Politique* III.11,” *Phronesis*, 56: 162–179.
+* Brouwer, R., 2021, *Law and Philosophy in the Late Roman Republic*, Cambridge: Cambridge University Press.
+* Brunt, P.A., 2013 \[1975], “Stoicism and the Principate,” in P. Brunt, *Studies in Stoicism*, eds. M.T. Griffin and A. Samuels, Oxford: Oxford University Press, pp. 275–309.
+* Burnyeat, M., 2013, “Justice writ large and small in *Republic* 4,” in *Politeia in Greek and Roman Philosophy*, V. Harte and M. Lane (eds.), Cambridge: Cambridge University Press, pp. 212–230.
+* Cammack, D., 2013, “Aristotle on the Virtue of the Multitude” *Political Theory*, 41: 175–202.
+* Campbell, G., 2003, *Lucretius on Creation and Evolution: a commentary on De Rerum Natura 5.772–1104*, Oxford: Oxford University Press.
+* Cartledge, P., 2009, *Ancient Greek Political Thought in Practice*, Cambridge: Cambridge University Press.
+* Carawan, E., 2013, *The Athenian Amnesty and Reconstructing the Law*, Oxford: Oxford University Press.
 * Centrone, B., 2000, “Platonism and Pythagoreanism in the early empire,” in Rowe and Schofield (eds.), pp. 559–584.
-* De Blois, L., J. Bons, T. Kessels and D.M. Schenkeveld (eds.), 2005, _The Statesman in Plutarch’s Greek and Roman Lives_ (vol.2 of _The Statesman in Plutarch’s Works_), Leiden and Boston: Brill.
+* De Blois, L., J. Bons, T. Kessels and D.M. Schenkeveld (eds.), 2005, *The Statesman in Plutarch’s Greek and Roman Lives* (vol.2 of *The Statesman in Plutarch’s Works*), Leiden and Boston: Brill.
 * Dillon, J., 1997, “Plutarch and the end of history,” in Mossman 1997, pp. 233–240.
-* Duke, G., 2020, “Law as Rational Constraint: _Nicomachean Ethics_ x 9,” _Ancient Philosophy_, 40, 369–387.
-* Duvall, T., and P. Dotson, 1998, “Political Participation and _Eudaimonia_ in Aristotle’s _Politics_” _History of Political Thought_, 29: 21–34.
-* Dyck, A.R., 1996, _A Commentary on Cicero, De Officiis_, Ann Arbor: University of Michigan Press.
-* El Murr, D., 2014, _Savoir et gouverner: essai sur la science politique platonicienne_, Paris: J. Vrin.
-* Frank, J., 2005, _A Democracy of Distinction: Aristotle and the work of politics_, Chicago: University of Chicago Press.
-* von Fritz, K., 1954, _The Theory of the Mixed Constitution in Antiquity: a critical analysis of Polybius’ political ideas_, New York: Columbia University Press.
-* Fowler, D., 1989, “Lucretius and Politics,” in _Philosophia Togata_, J. Barnes and M. Griffin (eds.), Oxford: Oxford University Press, pp. 120–150.
-* –––, 2007, “Lucretius and Politics,” in _Lucretius_, M.R. Gale (ed.), Oxford: Oxford University Press, pp. 397–431.
-* Garnsey, P., 1996, _Ideas of Slavery from Aristotle to Augustine_, Cambridge: Cambridge University Press.
-* Garver, E., 2011, _Aristotle’s Politics: living well and living together_, Chicago: University of Chicago Press.
-* Geuss, R., 2005, “Thucydides, Nietzsche, and Williams,” in his _Outside Ethics_, Princeton: Princeton University Press, pp. 219–233.
-* Giannantoni, G., (ed.), 1990, _Socratis et Socraticorum Reliquiae_, 4 volumes, Naples: Bibliopolis.
+* Duke, G., 2020, “Law as Rational Constraint: *Nicomachean Ethics* x 9,” *Ancient Philosophy*, 40, 369–387.
+* Duvall, T., and P. Dotson, 1998, “Political Participation and *Eudaimonia* in Aristotle’s *Politics*” *History of Political Thought*, 29: 21–34.
+* Dyck, A.R., 1996, *A Commentary on Cicero, De Officiis*, Ann Arbor: University of Michigan Press.
+* El Murr, D., 2014, *Savoir et gouverner: essai sur la science politique platonicienne*, Paris: J. Vrin.
+* Frank, J., 2005, *A Democracy of Distinction: Aristotle and the work of politics*, Chicago: University of Chicago Press.
+* von Fritz, K., 1954, *The Theory of the Mixed Constitution in Antiquity: a critical analysis of Polybius’ political ideas*, New York: Columbia University Press.
+* Fowler, D., 1989, “Lucretius and Politics,” in *Philosophia Togata*, J. Barnes and M. Griffin (eds.), Oxford: Oxford University Press, pp. 120–150.
+* –––, 2007, “Lucretius and Politics,” in *Lucretius*, M.R. Gale (ed.), Oxford: Oxford University Press, pp. 397–431.
+* Garnsey, P., 1996, *Ideas of Slavery from Aristotle to Augustine*, Cambridge: Cambridge University Press.
+* Garver, E., 2011, *Aristotle’s Politics: living well and living together*, Chicago: University of Chicago Press.
+* Geuss, R., 2005, “Thucydides, Nietzsche, and Williams,” in his *Outside Ethics*, Princeton: Princeton University Press, pp. 219–233.
+* Giannantoni, G., (ed.), 1990, *Socratis et Socraticorum Reliquiae*, 4 volumes, Naples: Bibliopolis.
 * Gildenhard, I., 2011_Creative Eloquence: the construction of reality in Cicero’s speeches_, Oxford: Oxford University Press.
-* Griffin, M.T., 1992, _Seneca: a philosopher in politics_, 2nd edn, Oxford: Clarendon.
+* Griffin, M.T., 1992, *Seneca: a philosopher in politics*, 2nd edn, Oxford: Clarendon.
 * –––, 2000, “Seneca and Pliny,” in Rowe and Schofield 2000, pp. 532–558.
 * Hahm, D.E., 2000, “Kings and constitutions: Hellenistic theories,” in Rowe and Schofield 2000, pp. 457–76.
-* –––, 2009, “The Mixed Constitution in Greek Thought,” in _A Companion to Greek and Roman Political Thought_, R.K. Balot (ed.), Chichester: Wiley-Blackwell, pp. 178–98.
-* Harte, V., 1999, “Conflicting Values in Plato’s _Crito_,” _Archiv für Geschichte der Philosophie_ 81: 117–147; reprinted in Kamtekar 2005, pp. 229–59.
-* Hatzistavrou, A., 2021, “Aristotle on the Authority of the Many: _Politics_ III.11 1281a40-b21,” _Apeiron_, 54: 203–232.
-* Höffe, O. (ed.), 1997, _Platon: Politeia_, Berlin: Akademie Verlag.
-* Hu, X., 2020, “The City as a Living Organism,” _History of Political Thought_, 41: 517–537.
-* Huxley, G.L., 1980, “Aristotle, Las Casas, and the American Indians,” _Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature_, 80C: 57–68.
-* Inwood, B., 2005, _Reading Seneca: Stoic philosophy at Rome_, Oxford: Clarendon Press.
-* Irwin, T., 1990, “The Good of Political Activity” in _Aristoteles’ Politik: Akten des IX Symposium Aristotelicum, Friedrichshafen/Bodensee, 25.8–3.9.1987_, G. Patzig (ed.), Göttingen: Vandenhoeck & Ruprecht, pp. 73–98.
-* Karbowski, J., 2012, “Slaves, Women, and Aristotle’s Natural Teleology,” _Ancient Philosophy_, 32: 323–350.
-* Kamtekar, R., (ed.), 2005, _Plato’s Euthyphro, Apology and Crito: Critical Essays_, Lanham, MD: Rowman & Littlefield.
-* Kempshall, M.S., 2001, “_De Re Publica_ I.39 in Medieval and Renaissance Political Thought,” in Powell and North (eds.), pp. 99–135.
-* Klosko, G., 2006, _The Development of Plato’s Political Theory_, revised edition, Oxford: Oxford University Press.
-* Konvitz, M., 1964, “Civil Disobedience and the Duty of Fair Play,” in _Law and Philosophy: A Symposium_, S. Hook (ed.), New York: New York University Press, pp. 19–28.
-* Kraut, R., 1984, _Socrates and the State_, Princeton: Princeton University Press.
-* –––, 2002, _Aristotle: Political Philosophy_, Oxford: Oxford University Press.
-* Laks, A., 1990, “Legislation and demiurgy: on the relationship between Plato’s _Republic_ and _Laws_,” _Classical Antiquity_, 9: 209–29.
-* –––, 1991, “L’utopie législative de Platon,” _Revue philosophique_, 4: 417–28.
-* –––, 2000, “The _Laws_,” in Rowe and Schofield 2000, pp. 258–292.
-* –––, 2005, _Médiation et coercition: pour une lecture des Lois de Platon_, Villeneuve d’Ascq: Presses universitaires du septentrion.
-* Laks, A., and M. Schofield, (eds.), 1995, _Justice and Generosity: studies in Hellenistic social and political philosophy: Proceedings of the Sixth Symposium Hellenisticum_, Cambridge: Cambridge University Press.
-* Lane, M.S, 1998, _Method and Politics in Plato’s Statesman_, Cambridge: Cambridge University Press.
-* ––– \[as Lane, M.], 2012, “The Origins of the Statesman–Demagogue Distinction in and after Ancient Athens,” _Journal of the History of Ideas_, 73: 179–200.
-* –––, 2013a, “Claims to Rule: the case of the multitude,” in _The Cambridge Companion to Aristotle’s Politics_, M. Deslauriers and P. Destrée (eds.), Cambridge: Cambridge University Press, pp. 247–274.
-* –––, 2013b, “Founding as Legislating: the figure of the lawgiver in Plato’s _Republic_,” in _Dialogues on Plato’s Politeia. Proceedings of the IX Symposium Platonicum_, L. Brisson and N. Notomi (eds.), Sankt Augustin: Akademia Verlag, pp. 104–114.
-* –––, 2013c, “Political Expertise and Political Office in Plato’s _Statesman_: the statesman’s rule (_archein_) and the subordinate magistracies (_archai_),” in _Plato’s Statesman: proceedings of the eighth Symposium Platonicum Pragense_, A. Havliček and K. Thein (eds.), Prague, OIKOYMENH, pp. 49–77.
-* –––, 2014a, _Greek and Roman Political Ideas_, Harmondsworth: Penguin.
-* –––, 2014b, “Popular Sovereignty as Control of Officeholders: Aristotle on Greek democracy,” in _Popular Sovereignty in Historical Perspective_, R. Bourke and Q. Skinner (eds.), Cambridge: Cambridge University Press, pp. 52–72.
-* Laurand, V., 2005, _La politique stoïcienne_, Paris: Presses Universitaires de France.
-* Lear, J., 1988, _Aristotle: The Desire to Understand_, Cambridge: Cambridge University Press.
-* Lintott, A., 1999, _The Constitution of the Roman Republic_, Oxford: Oxford University Press.
-* Long, A.A., 1995, “Cicero’s Politics in _De officiis_,” in Laks and Schofield 1995, pp. 213–40.
-* Meier, C., 1990, trans. David McLintock, _The Greek Discovery of Politics_, Cambridge, MA: Harvard University Press.
-* Monoson, S. S., 2011, “Recollecting Aristotle: Pro-Slavery Thought in Antebellum America and the Argument of _Politics_ Book I,” in _Ancient Slavery and Abolition: from Hobbes to Hollywood_, R. Alston, E. Hall, and J. McConnell (eds.), Oxford: Oxford University Press, pp. 247–78.
-* Mossman, J., (ed.), 1997, _Plutarch and His Intellectual World_, London: Duckworth.
-* Nails, D., 2002, _The People of Plato: a prosopography of Plato and other Socratics_, Indianapolis: Hackett.
-* Nightingale, A., 1993a, _Genres in Dialogue: Plato and the construction of philosophy_, Cambridge: Cambridge University Press.
-* –––, 1993b, “Writing/Reading a Sacred Text: a literary interpretation of Plato’s _Laws_,” _Classical Philology_, 88: 279–300.
-* –––, 1999, “Plato’s Lawcode in Context: rule by written law in Athens and Magnesia,” _The Classical Quarterly_ (New Series), 49: 100–122.
-* Nussbaum, M.C., 1980, “Shame, Separateness, and Political Unity: Aristotle’s criticism of Plato,” in _Essays on Aristotle’s Ethics_, A.O. Rorty (ed.), Berkeley and Los Angeles: University of California Press, pp. 395–436.
-* –––, 1993, “Non-relative Virtues: an Aristotelian approach,” in _The Quality of Life_, M.C. Nussbaum and A. Sen (eds.), Oxford: Clarendon Press, pp. 242–69.
-* Ober, J., 1989, _Mass and Elite in Democratic Athens: rhetoric, ideology, and the power of the people_, Princeton: Princeton University Press.
-* –––, 1998a, “The Polis as a Society: Aristotle, John Rawls, and the Athenian Social Contract,” as reprinted in his _The Athenian Revolution_, Princeton: Princeton University Press, pp. 161–187.
-* –––, 1998b, _Political Dissent in Democratic Athens: intellectual critics of popular rule_, Princeton: Princeton University Press.
-* –––, 2008, _Democracy and Knowledge: innovation and learning in classical Athens_, Princeton: Princeton University Press.
-* –––, 2013, “Democracy’s Wisdom: An Aristotelian Middle Way for Collective Judgment,” _American Political Science Review_, 107: 104–122.
-* O’Meara, D.J., 2003, _Platonopolis: Platonic political philosophy in late antiquity_, Oxford: Oxford University Press.
-* –––, 2020, _Cosmology and Politics in Plato’s Later Works_, Cambridge: Cambridge University Press.
-* Poddighe, E., 2014, _Aristotele, Atene e le metamorfosi dell’idea democratica: da Solone a Pericle (594–451 a.C.)_, Rome: Carocci editore.
-* Powell, J.G.F., and J.A. North, (eds.), 2001, _Cicero’s Republic_, London: Institute of Classical Studies.
-* Reid, J., 2021, “Changing the Laws of the _Laws_,” _Ancient Philosophy_, 41: 413–441.
-* Riesbeck, D.J., 2016, _Aristotle on Political Community_, Cambridge: Cambridge University Press.
-* Robitzsch, J.M., 2017, “The Epicureans on Human Nature and its Social and Political Consequences,” _Polis_, 34: 1–19.
-* Sachs, D., “A Fallacy in Plato’s _Republic_,” _The Philosophical Review_, 72 (1963): 141–158; reprinted in G. Vlastos (ed.) _Plato: a collection of critical essays, II: Ethics, Politics, and Philosophy of Art and Religion_ (New York: Doubleday and Company, 1971), pp. 35–51.
-* Schofield, M., 1991, _The Stoic Idea of the City_, Cambridge: Cambridge University Press; reprinted 1999, Chicago: University of Chicago Press.
-* –––, 1999, ‘Equality and hierarchy in Aristotle’s thought’, in his _Saving the City: Philosopher-Kings and other classical paradigms_, London and New York: Routledge, ch.6 (pp. 88–100).
-* –––, 2006, _Plato. Political Philosophy_, Oxford: Clarendon Press.
-* –––, 2021, _Cicero: political philosophy_, Oxford: Oxford University Press.
-* Sedley, D.N., 1997, “The Ethics of Brutus and Cassius,” _Journal of Roman Studies_, 87: 41–53.
-* Shear, J.L., 2011, _Polis and Revolution: responding to oligarchy in classical Athens_, Cambridge: Cambridge University Press.
-* Sharples, R., 1996, _Stoics, Epicureans and Sceptics: an introduction to Hellenistic philosophy_, London: Routledge.
-* Smith, M. F. (ed.), 1992, _The Epicurean Inscription / Diogenes of Oenoanda_, Naples: Bibliopolis.
-* –––, (ed.), 2003, _Supplement to The Epicurean Inscription / Diogenes of Oenoanda_, Naples: Bibliopolis.
-* Trapp, M.B., 2007, _Philosophy in the Roman Empire: Ethics, Politics and Society_, Aldershot: Ashgate.
-* Tuck, R., 1990, “Humanism and Political Thought,” in A. Goodman and A. MacKay (eds.), _The Impact of Humanism on Western Europe_, New York: Longman, pp. 43–65.
-* Van Raalte, M., 2005, “_More philosophico_: Political Virtue and Philosophy in Plutarch’s _Lives_,” in De Blois et. al. (eds.) 2005, pp. 75–112.
-* Vander Waerdt, P.A., 1991, “The Plan and Intention of Aristotle’s Ethical and Political Writings,” _Illinois Classical Studies_, 16: 231–253.
-* Veyne, P., 2003, _Seneca: The Life of a Stoic_, trans. D. Sullivan, New York: Routledge.
-* Villa, D., 2001, _Socratic Citizenship_, Princeton: Princeton University Press.
-* Vogt, K.M., 2008, _Law, Reason, and the Cosmic City: Political Philosophy in the Early Stoa_, New York: Oxford University Press.
-* Waldron, J., 1995, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s _Politics_,” _Political Theory_, 23: 563–584.
-* Weiss, R., 1998, _Socrates Dissatisfied: an analysis of Plato’s Crito_, New York and Oxford: Oxford University Press.
-* Wilson, J.L., 2011, “Deliberation, Democracy, and the Rule of Reason in Aristotle’s _Politics_,” _American Political Science Review_, 105: 259–274.
-* Woozley, A.D., 1972, “Socrates on Disobeying the Law,” in _The Philosophy of Socrates: a collection of critical essays_, G. Vlastos (ed.), Garden City, NY: Anchor Books, pp. 299–318.
-* Yack, B., 1993, _The Problems of a Political Animal: community, justice, and conflict in Aristotelian political thought_, Berkeley: University of California Press.
+* –––, 2009, “The Mixed Constitution in Greek Thought,” in *A Companion to Greek and Roman Political Thought*, R.K. Balot (ed.), Chichester: Wiley-Blackwell, pp. 178–98.
+* Harte, V., 1999, “Conflicting Values in Plato’s *Crito*,” *Archiv für Geschichte der Philosophie* 81: 117–147; reprinted in Kamtekar 2005, pp. 229–59.
+* Hatzistavrou, A., 2021, “Aristotle on the Authority of the Many: *Politics* III.11 1281a40-b21,” *Apeiron*, 54: 203–232.
+* Höffe, O. (ed.), 1997, *Platon: Politeia*, Berlin: Akademie Verlag.
+* Hu, X., 2020, “The City as a Living Organism,” *History of Political Thought*, 41: 517–537.
+* Huxley, G.L., 1980, “Aristotle, Las Casas, and the American Indians,” *Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature*, 80C: 57–68.
+* Inwood, B., 2005, *Reading Seneca: Stoic philosophy at Rome*, Oxford: Clarendon Press.
+* Irwin, T., 1990, “The Good of Political Activity” in *Aristoteles’ Politik: Akten des IX Symposium Aristotelicum, Friedrichshafen/Bodensee, 25.8–3.9.1987*, G. Patzig (ed.), Göttingen: Vandenhoeck & Ruprecht, pp. 73–98.
+* Karbowski, J., 2012, “Slaves, Women, and Aristotle’s Natural Teleology,” *Ancient Philosophy*, 32: 323–350.
+* Kamtekar, R., (ed.), 2005, *Plato’s Euthyphro, Apology and Crito: Critical Essays*, Lanham, MD: Rowman & Littlefield.
+* Kempshall, M.S., 2001, “*De Re Publica* I.39 in Medieval and Renaissance Political Thought,” in Powell and North (eds.), pp. 99–135.
+* Klosko, G., 2006, *The Development of Plato’s Political Theory*, revised edition, Oxford: Oxford University Press.
+* Konvitz, M., 1964, “Civil Disobedience and the Duty of Fair Play,” in *Law and Philosophy: A Symposium*, S. Hook (ed.), New York: New York University Press, pp. 19–28.
+* Kraut, R., 1984, *Socrates and the State*, Princeton: Princeton University Press.
+* –––, 2002, *Aristotle: Political Philosophy*, Oxford: Oxford University Press.
+* Laks, A., 1990, “Legislation and demiurgy: on the relationship between Plato’s *Republic* and *Laws*,” *Classical Antiquity*, 9: 209–29.
+* –––, 1991, “L’utopie législative de Platon,” *Revue philosophique*, 4: 417–28.
+* –––, 2000, “The *Laws*,” in Rowe and Schofield 2000, pp. 258–292.
+* –––, 2005, *Médiation et coercition: pour une lecture des Lois de Platon*, Villeneuve d’Ascq: Presses universitaires du septentrion.
+* Laks, A., and M. Schofield, (eds.), 1995, *Justice and Generosity: studies in Hellenistic social and political philosophy: Proceedings of the Sixth Symposium Hellenisticum*, Cambridge: Cambridge University Press.
+* Lane, M.S, 1998, *Method and Politics in Plato’s Statesman*, Cambridge: Cambridge University Press.
+* ––– \[as Lane, M.], 2012, “The Origins of the Statesman–Demagogue Distinction in and after Ancient Athens,” *Journal of the History of Ideas*, 73: 179–200.
+* –––, 2013a, “Claims to Rule: the case of the multitude,” in *The Cambridge Companion to Aristotle’s Politics*, M. Deslauriers and P. Destrée (eds.), Cambridge: Cambridge University Press, pp. 247–274.
+* –––, 2013b, “Founding as Legislating: the figure of the lawgiver in Plato’s *Republic*,” in *Dialogues on Plato’s Politeia. Proceedings of the IX Symposium Platonicum*, L. Brisson and N. Notomi (eds.), Sankt Augustin: Akademia Verlag, pp. 104–114.
+* –––, 2013c, “Political Expertise and Political Office in Plato’s *Statesman*: the statesman’s rule (*archein*) and the subordinate magistracies (*archai*),” in *Plato’s Statesman: proceedings of the eighth Symposium Platonicum Pragense*, A. Havliček and K. Thein (eds.), Prague, OIKOYMENH, pp. 49–77.
+* –––, 2014a, *Greek and Roman Political Ideas*, Harmondsworth: Penguin.
+* –––, 2014b, “Popular Sovereignty as Control of Officeholders: Aristotle on Greek democracy,” in *Popular Sovereignty in Historical Perspective*, R. Bourke and Q. Skinner (eds.), Cambridge: Cambridge University Press, pp. 52–72.
+* Laurand, V., 2005, *La politique stoïcienne*, Paris: Presses Universitaires de France.
+* Lear, J., 1988, *Aristotle: The Desire to Understand*, Cambridge: Cambridge University Press.
+* Lintott, A., 1999, *The Constitution of the Roman Republic*, Oxford: Oxford University Press.
+* Long, A.A., 1995, “Cicero’s Politics in *De officiis*,” in Laks and Schofield 1995, pp. 213–40.
+* Meier, C., 1990, trans. David McLintock, *The Greek Discovery of Politics*, Cambridge, MA: Harvard University Press.
+* Monoson, S. S., 2011, “Recollecting Aristotle: Pro-Slavery Thought in Antebellum America and the Argument of *Politics* Book I,” in *Ancient Slavery and Abolition: from Hobbes to Hollywood*, R. Alston, E. Hall, and J. McConnell (eds.), Oxford: Oxford University Press, pp. 247–78.
+* Mossman, J., (ed.), 1997, *Plutarch and His Intellectual World*, London: Duckworth.
+* Nails, D., 2002, *The People of Plato: a prosopography of Plato and other Socratics*, Indianapolis: Hackett.
+* Nightingale, A., 1993a, *Genres in Dialogue: Plato and the construction of philosophy*, Cambridge: Cambridge University Press.
+* –––, 1993b, “Writing/Reading a Sacred Text: a literary interpretation of Plato’s *Laws*,” *Classical Philology*, 88: 279–300.
+* –––, 1999, “Plato’s Lawcode in Context: rule by written law in Athens and Magnesia,” *The Classical Quarterly* (New Series), 49: 100–122.
+* Nussbaum, M.C., 1980, “Shame, Separateness, and Political Unity: Aristotle’s criticism of Plato,” in *Essays on Aristotle’s Ethics*, A.O. Rorty (ed.), Berkeley and Los Angeles: University of California Press, pp. 395–436.
+* –––, 1993, “Non-relative Virtues: an Aristotelian approach,” in *The Quality of Life*, M.C. Nussbaum and A. Sen (eds.), Oxford: Clarendon Press, pp. 242–69.
+* Ober, J., 1989, *Mass and Elite in Democratic Athens: rhetoric, ideology, and the power of the people*, Princeton: Princeton University Press.
+* –––, 1998a, “The Polis as a Society: Aristotle, John Rawls, and the Athenian Social Contract,” as reprinted in his *The Athenian Revolution*, Princeton: Princeton University Press, pp. 161–187.
+* –––, 1998b, *Political Dissent in Democratic Athens: intellectual critics of popular rule*, Princeton: Princeton University Press.
+* –––, 2008, *Democracy and Knowledge: innovation and learning in classical Athens*, Princeton: Princeton University Press.
+* –––, 2013, “Democracy’s Wisdom: An Aristotelian Middle Way for Collective Judgment,” *American Political Science Review*, 107: 104–122.
+* O’Meara, D.J., 2003, *Platonopolis: Platonic political philosophy in late antiquity*, Oxford: Oxford University Press.
+* –––, 2020, *Cosmology and Politics in Plato’s Later Works*, Cambridge: Cambridge University Press.
+* Poddighe, E., 2014, *Aristotele, Atene e le metamorfosi dell’idea democratica: da Solone a Pericle (594–451 a.C.)*, Rome: Carocci editore.
+* Powell, J.G.F., and J.A. North, (eds.), 2001, *Cicero’s Republic*, London: Institute of Classical Studies.
+* Reid, J., 2021, “Changing the Laws of the *Laws*,” *Ancient Philosophy*, 41: 413–441.
+* Riesbeck, D.J., 2016, *Aristotle on Political Community*, Cambridge: Cambridge University Press.
+* Robitzsch, J.M., 2017, “The Epicureans on Human Nature and its Social and Political Consequences,” *Polis*, 34: 1–19.
+* Sachs, D., “A Fallacy in Plato’s *Republic*,” *The Philosophical Review*, 72 (1963): 141–158; reprinted in G. Vlastos (ed.) *Plato: a collection of critical essays, II: Ethics, Politics, and Philosophy of Art and Religion* (New York: Doubleday and Company, 1971), pp. 35–51.
+* Schofield, M., 1991, *The Stoic Idea of the City*, Cambridge: Cambridge University Press; reprinted 1999, Chicago: University of Chicago Press.
+* –––, 1999, ‘Equality and hierarchy in Aristotle’s thought’, in his *Saving the City: Philosopher-Kings and other classical paradigms*, London and New York: Routledge, ch.6 (pp. 88–100).
+* –––, 2006, *Plato. Political Philosophy*, Oxford: Clarendon Press.
+* –––, 2021, *Cicero: political philosophy*, Oxford: Oxford University Press.
+* Sedley, D.N., 1997, “The Ethics of Brutus and Cassius,” *Journal of Roman Studies*, 87: 41–53.
+* Shear, J.L., 2011, *Polis and Revolution: responding to oligarchy in classical Athens*, Cambridge: Cambridge University Press.
+* Sharples, R., 1996, *Stoics, Epicureans and Sceptics: an introduction to Hellenistic philosophy*, London: Routledge.
+* Smith, M. F. (ed.), 1992, *The Epicurean Inscription / Diogenes of Oenoanda*, Naples: Bibliopolis.
+* –––, (ed.), 2003, *Supplement to The Epicurean Inscription / Diogenes of Oenoanda*, Naples: Bibliopolis.
+* Trapp, M.B., 2007, *Philosophy in the Roman Empire: Ethics, Politics and Society*, Aldershot: Ashgate.
+* Tuck, R., 1990, “Humanism and Political Thought,” in A. Goodman and A. MacKay (eds.), *The Impact of Humanism on Western Europe*, New York: Longman, pp. 43–65.
+* Van Raalte, M., 2005, “*More philosophico*: Political Virtue and Philosophy in Plutarch’s *Lives*,” in De Blois et. al. (eds.) 2005, pp. 75–112.
+* Vander Waerdt, P.A., 1991, “The Plan and Intention of Aristotle’s Ethical and Political Writings,” *Illinois Classical Studies*, 16: 231–253.
+* Veyne, P., 2003, *Seneca: The Life of a Stoic*, trans. D. Sullivan, New York: Routledge.
+* Villa, D., 2001, *Socratic Citizenship*, Princeton: Princeton University Press.
+* Vogt, K.M., 2008, *Law, Reason, and the Cosmic City: Political Philosophy in the Early Stoa*, New York: Oxford University Press.
+* Waldron, J., 1995, “The Wisdom of the Multitude: Some Reflections on Book 3, Chapter 11 of Aristotle’s *Politics*,” *Political Theory*, 23: 563–584.
+* Weiss, R., 1998, *Socrates Dissatisfied: an analysis of Plato’s Crito*, New York and Oxford: Oxford University Press.
+* Wilson, J.L., 2011, “Deliberation, Democracy, and the Rule of Reason in Aristotle’s *Politics*,” *American Political Science Review*, 105: 259–274.
+* Woozley, A.D., 1972, “Socrates on Disobeying the Law,” in *The Philosophy of Socrates: a collection of critical essays*, G. Vlastos (ed.), Garden City, NY: Anchor Books, pp. 299–318.
+* Yack, B., 1993, *The Problems of a Political Animal: community, justice, and conflict in Aristotelian political thought*, Berkeley: University of California Press.
 
 #### Reference Works
 
 This is a partial selection of useful reference works.
 
-* Aalders, G.J.D., 1975, _Political Thought in Hellenistic Times_, Amsterdam: H.M. Hakkert.
-* Algra, K., and J. Barnes, J. Mansfeld and M. Schofield, (eds.), 1999, _The Cambridge History of Hellenistic Philosophy_, Cambridge: Cambridge University Press.
-* Armstrong, A.H., (ed.), 1967, _The Cambridge History of Later Greek and Early Medieval Philosophy_, Cambridge: Cambridge University Press.
-* Atkins, J. and T. Bénatouïl (eds.), 2022, _The Cambridge Companion to Cicero’s Philosophy_, Cambridge: Cambridge University Press.
-* Balot, Ryan K., (ed.), _A Companion to Greek and Roman Political Thought_, Chichester: Wiley-Blackwell.
-* Coleman, J., 2000, _A History of Political Thought_, vol.1: _From Ancient Greece to Early Christianity_, Oxford: Blackwell.
-* Keyt, D., and F.D. Miller, Jr., (eds.), 1991, _A Companion to Aristotle’s Politics_\*, New York and Oxford: Oxford University Press\*, 1991.
-* Keyt, D., and F.D. Miller, Jr., (eds.), 2007, _Freedom, Reason, and the Polis: Essays in Ancient Greek Political Philosophy_, Cambridge: Cambridge University Press.
-* Rowe, C., & M. Schofield, (eds.), 2000, _The Cambridge History of Greek and Roman Political Thought_, Cambridge: Cambridge University Press.
-* Sharples, R. W., 1996, _Stoics, Epicureans and Skeptics_, London: Routledge.
+* Aalders, G.J.D., 1975, *Political Thought in Hellenistic Times*, Amsterdam: H.M. Hakkert.
+* Algra, K., and J. Barnes, J. Mansfeld and M. Schofield, (eds.), 1999, *The Cambridge History of Hellenistic Philosophy*, Cambridge: Cambridge University Press.
+* Armstrong, A.H., (ed.), 1967, *The Cambridge History of Later Greek and Early Medieval Philosophy*, Cambridge: Cambridge University Press.
+* Atkins, J. and T. Bénatouïl (eds.), 2022, *The Cambridge Companion to Cicero’s Philosophy*, Cambridge: Cambridge University Press.
+* Balot, Ryan K., (ed.), *A Companion to Greek and Roman Political Thought*, Chichester: Wiley-Blackwell.
+* Coleman, J., 2000, *A History of Political Thought*, vol.1: *From Ancient Greece to Early Christianity*, Oxford: Blackwell.
+* Keyt, D., and F.D. Miller, Jr., (eds.), 1991, *A Companion to Aristotle’s Politics*\*, New York and Oxford: Oxford University Press\*, 1991.
+* Keyt, D., and F.D. Miller, Jr., (eds.), 2007, *Freedom, Reason, and the Polis: Essays in Ancient Greek Political Philosophy*, Cambridge: Cambridge University Press.
+* Rowe, C., & M. Schofield, (eds.), 2000, *The Cambridge History of Greek and Roman Political Thought*, Cambridge: Cambridge University Press.
+* Sharples, R. W., 1996, *Stoics, Epicureans and Skeptics*, London: Routledge.
 
-There are useful series of _Cambridge Companions_, _Cambridge Histories_, and _Blackwell Companions_, among other such series, to various authors, texts, and schools, some of which are cited above. An authoritative source of important articles is H. Temporini (ed.), 1972–, _Aufstieg und Niedergang der römischen Welt_, Berlin and New York: De Gruyter.
+There are useful series of *Cambridge Companions*, *Cambridge Histories*, and *Blackwell Companions*, among other such series, to various authors, texts, and schools, some of which are cited above. An authoritative source of important articles is H. Temporini (ed.), 1972–, *Aufstieg und Niedergang der römischen Welt*, Berlin and New York: De Gruyter.
 
 ## Academic Tools
 
@@ -437,11 +436,11 @@ There are useful series of _Cambridge Companions_, _Cambridge Histories_, and _B
 
 ## Related Entries
 
-[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [Aristotle, General Topics: political theory](https://plato.stanford.edu/entries/aristotle-politics/) | [Carneades](https://plato.stanford.edu/entries/carneades/) | [cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/) | [doxography of ancient philosophy](https://plato.stanford.edu/entries/doxography-ancient/) | [Epicurus](https://plato.stanford.edu/entries/epicurus/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Plato: Callicles and Thrasymachus](https://plato.stanford.edu/entries/callicles-thrasymachus/) | [Plato: ethics and politics in _The Republic_](https://plato.stanford.edu/entries/plato-ethics-politics/) | [Plato: on utopia](https://plato.stanford.edu/entries/plato-utopia/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [political philosophy: medieval](https://plato.stanford.edu/entries/medieval-political/) | [Pyrrho](https://plato.stanford.edu/entries/pyrrho/) | [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/) | [Seneca](https://plato.stanford.edu/entries/seneca/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [Socrates](https://plato.stanford.edu/entries/socrates/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
+[Aristotle](https://plato.stanford.edu/entries/aristotle/) | [Aristotle, General Topics: ethics](https://plato.stanford.edu/entries/aristotle-ethics/) | [Aristotle, General Topics: political theory](https://plato.stanford.edu/entries/aristotle-politics/) | [Carneades](https://plato.stanford.edu/entries/carneades/) | [cosmopolitanism](https://plato.stanford.edu/entries/cosmopolitanism/) | [doxography of ancient philosophy](https://plato.stanford.edu/entries/doxography-ancient/) | [Epicurus](https://plato.stanford.edu/entries/epicurus/) | [ethics: ancient](https://plato.stanford.edu/entries/ethics-ancient/) | [Plato](https://plato.stanford.edu/entries/plato/) | [Plato: Callicles and Thrasymachus](https://plato.stanford.edu/entries/callicles-thrasymachus/) | [Plato: ethics and politics in *The Republic*](https://plato.stanford.edu/entries/plato-ethics-politics/) | [Plato: on utopia](https://plato.stanford.edu/entries/plato-utopia/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [political philosophy: medieval](https://plato.stanford.edu/entries/medieval-political/) | [Pyrrho](https://plato.stanford.edu/entries/pyrrho/) | [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/) | [Seneca](https://plato.stanford.edu/entries/seneca/) | [skepticism: ancient](https://plato.stanford.edu/entries/skepticism-ancient/) | [Socrates](https://plato.stanford.edu/entries/socrates/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/)
 
 ### Acknowledgments
 
 The author would like to acknowledge the research assistance by René de Nicolay for the 2018 revision, and of Ian Walling for the 2023 revision.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Melissa Lane](https://melissalane.princeton.edu/) <[_mslane@princeton.edu_](mailto:mslane%40princeton%2eedu)>
+[Melissa Lane](https://melissalane.princeton.edu/) <[*mslane@princeton.edu*](mailto:mslane%40princeton%2eedu)>

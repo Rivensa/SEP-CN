@@ -1,14 +1,12 @@
 # 康德的宗教哲学 philosophy of religion (Lawrence Pasternack and Courtney Fugate)
 
-_首次发表于2004年6月22日；实质性修订于2021年4月19日。_
+*首次发表于2004年6月22日；实质性修订于2021年4月19日。*
 
 伊曼努尔·康德长期以来被视为对宗教持敌对态度。他的许多同时代人，从他的学生到普鲁士当局，都认为他的批判性项目对传统基督教有害。康德作为一个根本上世俗的哲学家的印象在二十世纪更加根深蒂固，尽管通过对他的著作进行更深入的研究，特别是在他的《纯粹理性批判》（1781 年）出版之前和之后的著作，即通常被称为他的“前批判”和“批判”时期，这一印象是错误的。
 
 在对康德宗教哲学的初步概述讨论之后，本文将转向他在前批判和批判时期的观点。关于前一时期，我们将讨论康德的宗教背景，他对上帝与自然之间关系的看法，以及这一时期的一些关键人物如何影响了他的宗教哲学。我们还将讨论他在这一时期对上帝存在的论证的概念和方法。
 
 然后我们将转向他的批判时期，在这一时期我们将讨论先验唯心主义如何塑造了他的宗教哲学，他对上帝存在的论证的批判性处理，他对上帝的概念，宗教认识论，德教和神教之间的区别，最高善与实践前提之间的关系，对他对基督教教义的方法的解释，对《纯粹理性边界内的宗教》四个部分的概述，以及他的《遗稿》。在整个过程中，我们将关注对他的宗教哲学的关键方面的解释争议。
-
- 
 
 ***
 
@@ -395,233 +393,233 @@ Citations from Kant’s texts refer to volume and page numbers in the Akademie e
 
 * \[AK] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
 
-except for references to the _Critique of Pure Reason_, which is cited by page numbers in the original first (A) and second (B) editions. Some of the English language collections are:
+except for references to the *Critique of Pure Reason*, which is cited by page numbers in the original first (A) and second (B) editions. Some of the English language collections are:
 
-* \[C] _Correspondence_, Arnulf Zweig (trans. and ed.), Cambridge, Cambridge University Press, 1999. doi:10.1017/CBO9780511527289
-* \[TPpre] _Theoretical Philosophy 1755–1770_, David Walford (trans. and ed.), Cambridge, Cambridge University Press, 1992. doi:10.1017/CBO9780511840180
-* \[RRT] _Religion and Rational Theology_, Allen W. Wood and George di Giovanni (eds. & trans.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511814433
-* \[PP] _Immanuel Kant: Practical Philosophy_, Mary J. Gregor (ed.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511813306
+* \[C] *Correspondence*, Arnulf Zweig (trans. and ed.), Cambridge, Cambridge University Press, 1999. doi:10.1017/CBO9780511527289
+* \[TPpre] *Theoretical Philosophy 1755–1770*, David Walford (trans. and ed.), Cambridge, Cambridge University Press, 1992. doi:10.1017/CBO9780511840180
+* \[RRT] *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds. & trans.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511814433
+* \[PP] *Immanuel Kant: Practical Philosophy*, Mary J. Gregor (ed.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511813306
 
 #### A. Pre-critical writings
 
-The following texts are central to Kant’s pre-critical views on religion. They are found in _Theoretical Philosophy 1755–1770_ (TPpre):
+The following texts are central to Kant’s pre-critical views on religion. They are found in *Theoretical Philosophy 1755–1770* (TPpre):
 
-* 1755a, _A New Elucidation of the First Principles of Metaphysical Cognition_, TPpre: 1–45. \[AK 1:385–416]
-* 1763a, _Attempt to Introduce the Concept of Negative Magnitudes into Philosophy_, TPpre: 207–241. \[AK 2:167–204]
-* 1763b, _The Only Possible Argument in Support of a Demonstration of the Existence of God_, TPpre: 107–201. \[AK 2:63–163]
-* 1764, _Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality_, TPpre: 243–286. \[AK 2:273–301]
+* 1755a, *A New Elucidation of the First Principles of Metaphysical Cognition*, TPpre: 1–45. \[AK 1:385–416]
+* 1763a, *Attempt to Introduce the Concept of Negative Magnitudes into Philosophy*, TPpre: 207–241. \[AK 2:167–204]
+* 1763b, *The Only Possible Argument in Support of a Demonstration of the Existence of God*, TPpre: 107–201. \[AK 2:63–163]
+* 1764, *Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality*, TPpre: 243–286. \[AK 2:273–301]
 
 See also:
 
-* 1755b, _Universal Natural History and Theory of the Heavens or Essay on the Constitution and the Mechanical Origin of the whole Universe According to Newtonian Principles_, Olaf Reinhardt (trans.), in Immanuel Kant, _Natural Science_, Eric Watkins (ed.), Cambridge: Cambridge University Press, 2015, 182–308. \[AK 1:215–368]
+* 1755b, *Universal Natural History and Theory of the Heavens or Essay on the Constitution and the Mechanical Origin of the whole Universe According to Newtonian Principles*, Olaf Reinhardt (trans.), in Immanuel Kant, *Natural Science*, Eric Watkins (ed.), Cambridge: Cambridge University Press, 2015, 182–308. \[AK 1:215–368]
 
 #### B. Critical writings
 
-The following texts focus most directly on religion. They are all found in _Religion and Rational Theology_ (RRT):
+The following texts focus most directly on religion. They are all found in *Religion and Rational Theology* (RRT):
 
-* 1785a, _What Does It Mean to Orient Oneself in Thinking?_ Allen W. Wood (trans.), RRT: 7–18. \[AK 8:133–146] doi:10.1017/CBO9780511814433.003
-* 1791, _On the Miscarriage of All Philosophical Trials in Theodicy_, George Di Giovanni (trans.), RRT: 24–37. \[AK 8:253–271] doi:10.1017/CBO9780511814433.004
-* 1793, _Religion within the Boundaries of Mere Reason_, George Di Giovanni (trans.), RRT: 57–215. \[AK 6:1–202] doi:10.1017/CBO9780511814433.005
-* 1794, _The End of All Things_, Allen W. Wood (trans.), RRT: 221–31. \[AK 8:327–339] doi:10.1017/CBO9780511814433.006
-* 1798, _The Conflict of the Faculties_, Mary J. Gregor and Robert Anchor (trans.), RRT: 239–327. \[AK 7:5–116] doi:10.1017/CBO9780511814433.007
-* 1817, _Lectures on the Philosophical Doctrine of Religion_, Allen W. Wood (trans.), RRT: 341–451. \[AK 28:993–1126] doi:10.1017/CBO9780511814433.009
+* 1785a, *What Does It Mean to Orient Oneself in Thinking?* Allen W. Wood (trans.), RRT: 7–18. \[AK 8:133–146] doi:10.1017/CBO9780511814433.003
+* 1791, *On the Miscarriage of All Philosophical Trials in Theodicy*, George Di Giovanni (trans.), RRT: 24–37. \[AK 8:253–271] doi:10.1017/CBO9780511814433.004
+* 1793, *Religion within the Boundaries of Mere Reason*, George Di Giovanni (trans.), RRT: 57–215. \[AK 6:1–202] doi:10.1017/CBO9780511814433.005
+* 1794, *The End of All Things*, Allen W. Wood (trans.), RRT: 221–31. \[AK 8:327–339] doi:10.1017/CBO9780511814433.006
+* 1798, *The Conflict of the Faculties*, Mary J. Gregor and Robert Anchor (trans.), RRT: 239–327. \[AK 7:5–116] doi:10.1017/CBO9780511814433.007
+* 1817, *Lectures on the Philosophical Doctrine of Religion*, Allen W. Wood (trans.), RRT: 341–451. \[AK 28:993–1126] doi:10.1017/CBO9780511814433.009
 
 Other writings from the critical period relevant to Kant’s view of God and religion:
 
-* 1781 \[1787], _Critique of Pure Reason_; second edition 1787, Paul Guyer and Allen W. Wood (trans.) Cambridge: Cambridge University Press, 1998.
-* 1783, _Prolegomena to any Future Metaphysics That Will Be Able to Come Forward as a Science_, Gary Hatfield (trans.), in _Theoretical Philosophy after 1781_, Henry Allison and Peter Heath (eds), Cambridge: Cambridge University Press, 2002, 51–169. \[AK 4:255–383]
-* 1784a, _An Answer to the Question: What Is Enlightenment?_ Mary J. Gregor (trans.), in PP: 17–22. \[AK 8:35–42]
-* 1784b, _Idea for A Universal History from a Cosmopolitan Point of View_, Lewis White Beck (trans.). 1963, In _Kant: On History_. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 11–26. \[AK 8:17–31]
-* 1785b, _Groundwork of the Metaphysics of Morals_, Mary J. Gregor (trans.), in PP: 43–108. \[AK 4:387–463]
-* 1786, _The Conjectural Beginning of Human History_, Emil L. Fackenheim (trans.). 1963, In _Kant: On History_. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 53–68. \[AK 8:109–123]>
-* 1786, _The Metaphysical Foundations of Natural Science_, Michael Friedman (trans.), in _Theoretical Philosophy after 1781_, 171–270. \[AK 4:467–565]
-* 1788, _Critique of Practical Reason_, Mary J. Gregor (trans.), in PP: 139–271. \[AK 5:3–163]
-* 1790, _Critique of the Power of Judgment_, Paul Guyer and Eric Matthews (trans.). 2000. Cambridge: Cambridge University Press. \[AK 5:167–485]
-* 1793, _On the Common Saying: ‘This may be true in theory, but it does not apply in practice’_, Mary J. Gregor (trans.), in PP: 279–309. \[AK 8:275–313]
-* 1795, _Toward Perpetual Peace_, Mary J. Gregor (trans.), in PP: 317–351. \[AK 8:343–86]
-* 1796, _Proclamation of the Imminent Conclusion of a Treaty of Perpetual Peace in Philosophy_, Peter Heath (trans.), in _Theoretical Philosophy after 1781_, 453–460.
-* 1797, _The Metaphysics of Morals_, Mary J. Gregor (trans.), in PP: 365–603. \[AK 6:205–493]
-* 1804, _What Real Progress Has Metaphysics Made in Germany since the Time of Leibniz and Wolff?_ Peter Heath (trans.), in _Theoretical Philosophy after 1781_, 337–424. \[AK 20:257–332]
-* 1821, _Metaphysik L2_. \[AK 28:525–610]
-* 1968, _Metaphysik Volckmann_. \[AK 28:355–459]
-* \[OP] _Opus Postumum_, unpublished at his death, Ekart Förster (ed.), Ekart Förster and Michael Rosen (trans.) Cambridge: Cambridge University Press, 1993. \[AK 21 and AK 22] doi:10.1017/CBO9780511625169
+* 1781 \[1787], *Critique of Pure Reason*; second edition 1787, Paul Guyer and Allen W. Wood (trans.) Cambridge: Cambridge University Press, 1998.
+* 1783, *Prolegomena to any Future Metaphysics That Will Be Able to Come Forward as a Science*, Gary Hatfield (trans.), in *Theoretical Philosophy after 1781*, Henry Allison and Peter Heath (eds), Cambridge: Cambridge University Press, 2002, 51–169. \[AK 4:255–383]
+* 1784a, *An Answer to the Question: What Is Enlightenment?* Mary J. Gregor (trans.), in PP: 17–22. \[AK 8:35–42]
+* 1784b, *Idea for A Universal History from a Cosmopolitan Point of View*, Lewis White Beck (trans.). 1963, In *Kant: On History*. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 11–26. \[AK 8:17–31]
+* 1785b, *Groundwork of the Metaphysics of Morals*, Mary J. Gregor (trans.), in PP: 43–108. \[AK 4:387–463]
+* 1786, *The Conjectural Beginning of Human History*, Emil L. Fackenheim (trans.). 1963, In *Kant: On History*. Lewis White Beck (ed.). Indianapolis and New York: Bobbs-Merrill, 53–68. \[AK 8:109–123]>
+* 1786, *The Metaphysical Foundations of Natural Science*, Michael Friedman (trans.), in *Theoretical Philosophy after 1781*, 171–270. \[AK 4:467–565]
+* 1788, *Critique of Practical Reason*, Mary J. Gregor (trans.), in PP: 139–271. \[AK 5:3–163]
+* 1790, *Critique of the Power of Judgment*, Paul Guyer and Eric Matthews (trans.). 2000. Cambridge: Cambridge University Press. \[AK 5:167–485]
+* 1793, *On the Common Saying: ‘This may be true in theory, but it does not apply in practice’*, Mary J. Gregor (trans.), in PP: 279–309. \[AK 8:275–313]
+* 1795, *Toward Perpetual Peace*, Mary J. Gregor (trans.), in PP: 317–351. \[AK 8:343–86]
+* 1796, *Proclamation of the Imminent Conclusion of a Treaty of Perpetual Peace in Philosophy*, Peter Heath (trans.), in *Theoretical Philosophy after 1781*, 453–460.
+* 1797, *The Metaphysics of Morals*, Mary J. Gregor (trans.), in PP: 365–603. \[AK 6:205–493]
+* 1804, *What Real Progress Has Metaphysics Made in Germany since the Time of Leibniz and Wolff?* Peter Heath (trans.), in *Theoretical Philosophy after 1781*, 337–424. \[AK 20:257–332]
+* 1821, *Metaphysik L2*. \[AK 28:525–610]
+* 1968, *Metaphysik Volckmann*. \[AK 28:355–459]
+* \[OP] *Opus Postumum*, unpublished at his death, Ekart Förster (ed.), Ekart Förster and Michael Rosen (trans.) Cambridge: Cambridge University Press, 1993. \[AK 21 and AK 22] doi:10.1017/CBO9780511625169
 
 #### C. Other works
 
-* Baumgarten, Alexander Gottlieb, 1739, _Metaphysics: A Critical Translation with Kant’s Elucidations, Selected Notes, and Related Materials_, Courtney Fugate, and John Hymers (trans.), London: Bloomsbury, 2013.
-* Crusius, Christian August, 1751, _Opuscula Philosophico-Theologica_, Leipzig: Gleditsh.
-* Eberhard, Johann August and Immanuel Kant, 1781, _Preparation for Natural Theology: With Kant’s Notes and the Danzig Rational Theology Transcript_, Courtney Fugate and John Hymers (trans.), London: Bloomsbury, 2016.
-* Knutzen, Martin, 1740, _Philosophischer Beweiss von der Wahrheit der Christlichen Religion_, Königsberg: Hartung.
-* Leibniz, G.W., 1710, _Theodicy_, E.M. Huggard (trans.), Chicago: Open Court, 1990.
-* Pope, Alexander, 1734, _An Essay on Man_, Dublin: Powell.
-* Rousseau, Jean-Jacques, 1762, _Emile, or On Education_, Allan Bloom (trans.) Basic Books: 1979.
-* Wolff, Christian, 1736–7, _Theologica Naturalis_, 2 volumes, Frankfurt: Officina Libraria Rengeriana.
+* Baumgarten, Alexander Gottlieb, 1739, *Metaphysics: A Critical Translation with Kant’s Elucidations, Selected Notes, and Related Materials*, Courtney Fugate, and John Hymers (trans.), London: Bloomsbury, 2013.
+* Crusius, Christian August, 1751, *Opuscula Philosophico-Theologica*, Leipzig: Gleditsh.
+* Eberhard, Johann August and Immanuel Kant, 1781, *Preparation for Natural Theology: With Kant’s Notes and the Danzig Rational Theology Transcript*, Courtney Fugate and John Hymers (trans.), London: Bloomsbury, 2016.
+* Knutzen, Martin, 1740, *Philosophischer Beweiss von der Wahrheit der Christlichen Religion*, Königsberg: Hartung.
+* Leibniz, G.W., 1710, *Theodicy*, E.M. Huggard (trans.), Chicago: Open Court, 1990.
+* Pope, Alexander, 1734, *An Essay on Man*, Dublin: Powell.
+* Rousseau, Jean-Jacques, 1762, *Emile, or On Education*, Allan Bloom (trans.) Basic Books: 1979.
+* Wolff, Christian, 1736–7, *Theologica Naturalis*, 2 volumes, Frankfurt: Officina Libraria Rengeriana.
 
 ### Secondary Literature
 
 #### A. Kant’s treatment of religion in his pre-Critical philosophy
 
-* Anderson, R. Lanier, 2015, _The Poverty of Conceptual Truth: Kant’s Analytic/Synthetic Distinction and the Limits of Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198724575.001.0001
-* Dell’Oro, Regina O. M., 1994, _From Existence to the Ideal: Continuity and Development in Kant’s Theology_, New York: Peter Lang.
-* De Vleeschauwer, Herman J., 1962, _Development of Kantian Thought: The History of a Doctrine_, New York: Thomas Nelson & Sons.
-* England, Frederick Ernest, 1930, _Kant’s Conception of God_, New York: Dial Press.
-* Friedman, Michael, 1994, _Kant and the Exact Sciences_, Cambridge, MA: Harvard University Press.
-* Laberge, Pierre, 1973, _La Théologie Kantienne précritique_, Ottawa: Éditions de l’Université d’Ottawa.
-* Lehner, Ulrich, 2007, _Kants Vorsehungskonzept auf dem Hintergrund der deutschen Schulphilosophie und-theologie_, (Brill’s Studies in Intellectual History, 149), Leiden: Brill. doi:10.1163/ej.9789004156074.i-532
-* Paulsen, Friedrich, 1963, _Immanuel Kant: His Life and Doctrine_, New York: Ungar.
-* Schönfeld, Martin, 2000, _The Philosophy of the Young Kant: The Precritical Project_, Oxford: Oxford University Press. doi:10.1093/0195132181.001.0001
+* Anderson, R. Lanier, 2015, *The Poverty of Conceptual Truth: Kant’s Analytic/Synthetic Distinction and the Limits of Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198724575.001.0001
+* Dell’Oro, Regina O. M., 1994, *From Existence to the Ideal: Continuity and Development in Kant’s Theology*, New York: Peter Lang.
+* De Vleeschauwer, Herman J., 1962, *Development of Kantian Thought: The History of a Doctrine*, New York: Thomas Nelson & Sons.
+* England, Frederick Ernest, 1930, *Kant’s Conception of God*, New York: Dial Press.
+* Friedman, Michael, 1994, *Kant and the Exact Sciences*, Cambridge, MA: Harvard University Press.
+* Laberge, Pierre, 1973, *La Théologie Kantienne précritique*, Ottawa: Éditions de l’Université d’Ottawa.
+* Lehner, Ulrich, 2007, *Kants Vorsehungskonzept auf dem Hintergrund der deutschen Schulphilosophie und-theologie*, (Brill’s Studies in Intellectual History, 149), Leiden: Brill. doi:10.1163/ej.9789004156074.i-532
+* Paulsen, Friedrich, 1963, *Immanuel Kant: His Life and Doctrine*, New York: Ungar.
+* Schönfeld, Martin, 2000, *The Philosophy of the Young Kant: The Precritical Project*, Oxford: Oxford University Press. doi:10.1093/0195132181.001.0001
 
 #### B. Kant’s treatment of religion in his Critical philosophy
 
-* Abaci, Uygar, 2008, “Kant’s Theses on Existence∗”, _British Journal for the History of Philosophy_, 16(3): 559–593. doi:10.1080/09608780802200729
-* Adams, Robert Merrihew, 1998, “Introduction”, in _Kant: ‘Religion within the Boundaries of Mere Reason’ and Other Writings_, Allen Wood and George di Giovanni (eds.), Cambridge: Cambridge University Press, vii–xxxii. doi:10.1017/CBO9780511809637.001
-* –––, 1999, “Original Sin: A Study in the Interaction of Philosophy and Theology”, in _The Question of Christian Philosophy Today_, Francis J. Ambrosio (ed.), New York: Fordham University Press.
-* Allison, Henry E., 1990, _Kant’s Theory of Freedom_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172295
-* –––, 2002, “On the Very Idea of a Propensity to Evil”, _The Journal of Value Inquiry_, 36(2/3): 337–348. doi:10.1023/A:1016112805381
-* Anderson-Gold, Sharon, 2001, _Unnecessary Evil: History and Moral Progress in the Philosophy of Immanuel Kant_, Albany, NY: State University of New York Press.
-* Barth, Karl, 1947, _Die protestantische Theologie im 19. Jahrhundert_, Zürich: Theologischer Verlag.
-* Bauch, Bruno, 1904, _Luther und Kant_, Berlin: Verlag.
-* Beck, Lewis White, 1960, _A Commentary on Kant’s Critique of Practical Reason_, Chicago: Chicago University Press.
+* Abaci, Uygar, 2008, “Kant’s Theses on Existence∗”, *British Journal for the History of Philosophy*, 16(3): 559–593. doi:10.1080/09608780802200729
+* Adams, Robert Merrihew, 1998, “Introduction”, in *Kant: ‘Religion within the Boundaries of Mere Reason’ and Other Writings*, Allen Wood and George di Giovanni (eds.), Cambridge: Cambridge University Press, vii–xxxii. doi:10.1017/CBO9780511809637.001
+* –––, 1999, “Original Sin: A Study in the Interaction of Philosophy and Theology”, in *The Question of Christian Philosophy Today*, Francis J. Ambrosio (ed.), New York: Fordham University Press.
+* Allison, Henry E., 1990, *Kant’s Theory of Freedom*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172295
+* –––, 2002, “On the Very Idea of a Propensity to Evil”, *The Journal of Value Inquiry*, 36(2/3): 337–348. doi:10.1023/A:1016112805381
+* Anderson-Gold, Sharon, 2001, *Unnecessary Evil: History and Moral Progress in the Philosophy of Immanuel Kant*, Albany, NY: State University of New York Press.
+* Barth, Karl, 1947, *Die protestantische Theologie im 19. Jahrhundert*, Zürich: Theologischer Verlag.
+* Bauch, Bruno, 1904, *Luther und Kant*, Berlin: Verlag.
+* Beck, Lewis White, 1960, *A Commentary on Kant’s Critique of Practical Reason*, Chicago: Chicago University Press.
 * Beiser, Frederick C., 1987a, “Jacobi and the Pantheism Controversy”, in Beiser 1987d: chapter 2.
 * –––, 1987b, “Mendelssohn and the Pantheism Controversy”, in Beiser 1987d: chapter 3.
 * –––, 1987c, “Kant, Jacobi, and Wizenmann in Battle”, in Beiser 1987d: chapter 4.
-* –––, 1987d, _The Fate of Reason: German Philosophy from Kant to Fichte_, Cambridge, MA and London: Harvard University Press, Chapters 2–4, pp. 44–126.
-* –––, 2006. “Moral Faith and the Highest Good”, _The Cambridge Companion to Kant and Modern Philosophy_, Paul Guyer (ed.), Cambridge: Cambridge University Press, 588–629.
-* Bernstein, Richard J., 2002, _Radical Evil: A Philosophical Interrogation_, Cambridge, UK: Wiley.
-* Bunch, Aaron, 2010, “The Resurrection of the Body as a ‘Practical Postulate’: Why Kant is Committed to Belief in an Embodied Afterlife”, _Philosophia Christi_, 12(1): 46–60.
-* Byrne, Peter, 2007, _Kant on God_, Aldershot: Ashgate.
-* Chance, Brian A., 2019, “Kantian Non-Evidentialism and Its German Antecedents: Crusius, Meier and Basedow”, _Kantian Review_, 24(3): 359–384. doi:10.1017/S1369415419000177
-* Chignell, Andrew, 2007, “Belief in Kant”, _Philosophical Review_, 116(3): 323–360. doi:10.1215/00318108-2007-001
-* –––, 2014, “Rational Hope, Possibility, and Divine Action”, in _Kant’s Religion within the Boundaries of Mere Reason_, Gordon Michalson (ed.), Cambridge: Cambridge University Press, 98–117. doi:10.1017/CBO9781139088138.006
-* –––, 2017, “Kant on Cognition, Givenness, and Ignorance”, _Journal of the History of Philosophy_, 55(1): 131–142. doi:10.1353/hph.2017.0005
-* Collins, James, 1967, _The Emergence of Philosophy of Religion_, New Haven, CT: Yale University Press; see especially Chapters 3–5, pp. 89–211.
-* Davidovich, Adina, 1993, “Kant’s Theological Constructivism”, _Harvard Theological Review_, 86(3): 323–351. doi:10.1017/S0017816000031266
-* –––, 1994, _Religion as a Province of Meaning: The Kantian Foundations of Modern Theology_, Minneapolis, MN: Fortress Press.
-* Denis, Lara, 2005, “Autonomy and the Highest Good”, _Kantian Review_, 10: 33–59. doi:10.1017/S1369415400002120
-* Despland, Michel, 1973, _Kant on History and Religion_, Montreal: McGill-Queen’s University Press.
-* DiCenso, James, 2011, _Kant, Religion, and Politics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511920851
-* –––, 2012, _Kant’s Religion within the Boundaries of Mere Reason: A Commentary_, Cambridge: Cambridge University Press.
+* –––, 1987d, *The Fate of Reason: German Philosophy from Kant to Fichte*, Cambridge, MA and London: Harvard University Press, Chapters 2–4, pp. 44–126.
+* –––, 2006. “Moral Faith and the Highest Good”, *The Cambridge Companion to Kant and Modern Philosophy*, Paul Guyer (ed.), Cambridge: Cambridge University Press, 588–629.
+* Bernstein, Richard J., 2002, *Radical Evil: A Philosophical Interrogation*, Cambridge, UK: Wiley.
+* Bunch, Aaron, 2010, “The Resurrection of the Body as a ‘Practical Postulate’: Why Kant is Committed to Belief in an Embodied Afterlife”, *Philosophia Christi*, 12(1): 46–60.
+* Byrne, Peter, 2007, *Kant on God*, Aldershot: Ashgate.
+* Chance, Brian A., 2019, “Kantian Non-Evidentialism and Its German Antecedents: Crusius, Meier and Basedow”, *Kantian Review*, 24(3): 359–384. doi:10.1017/S1369415419000177
+* Chignell, Andrew, 2007, “Belief in Kant”, *Philosophical Review*, 116(3): 323–360. doi:10.1215/00318108-2007-001
+* –––, 2014, “Rational Hope, Possibility, and Divine Action”, in *Kant’s Religion within the Boundaries of Mere Reason*, Gordon Michalson (ed.), Cambridge: Cambridge University Press, 98–117. doi:10.1017/CBO9781139088138.006
+* –––, 2017, “Kant on Cognition, Givenness, and Ignorance”, *Journal of the History of Philosophy*, 55(1): 131–142. doi:10.1353/hph.2017.0005
+* Collins, James, 1967, *The Emergence of Philosophy of Religion*, New Haven, CT: Yale University Press; see especially Chapters 3–5, pp. 89–211.
+* Davidovich, Adina, 1993, “Kant’s Theological Constructivism”, *Harvard Theological Review*, 86(3): 323–351. doi:10.1017/S0017816000031266
+* –––, 1994, *Religion as a Province of Meaning: The Kantian Foundations of Modern Theology*, Minneapolis, MN: Fortress Press.
+* Denis, Lara, 2005, “Autonomy and the Highest Good”, *Kantian Review*, 10: 33–59. doi:10.1017/S1369415400002120
+* Despland, Michel, 1973, *Kant on History and Religion*, Montreal: McGill-Queen’s University Press.
+* DiCenso, James, 2011, *Kant, Religion, and Politics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511920851
+* –––, 2012, *Kant’s Religion within the Boundaries of Mere Reason: A Commentary*, Cambridge: Cambridge University Press.
 * Di Giovanni, George, 1996, “Translator’s Introduction”, in RRT: 41–54.
-* Fackenheim, Emil, 1996, _The God Within: Kant, Schelling and Historicity_, John Burbidge (ed.), Toronto: University of Toronto Press; see especially Chapters 1–2, 3–33.
-* Ferreira, M. Jamie, 2014, “Hope, Virtue, and the Postulate of God: A Reappraisal of Kant’s Pure Practical Rational Belief”, _Religious Studies_, 50(1): 3–26. doi:10.1017/S0034412512000509
-* Firestone, Christopher and Nathan Jacobs, 2008, _In Defense of Kant’s Religion_, Bloomington, IN: Indiana University Press.
-* Fischer, Norbert (ed.), 2004, _Kants Metaphysik und Religionsphilosophie_, Hamburg: Felix Meiner Verlag.
-* Forgie, J. William, 1975, “Kant And The Question ‘Is Existence A Predicate?’”, _Canadian Journal of Philosophy_, 5(4): 563–582. doi:10.1080/00455091.1975.10716968
-* Förster, Eckart, 2000, “The Subject as Person and the Idea of God”, in his _Kant’s Final Synthesis: An Essay on the Opus Postumum_, Cambridge, MA and London: Harvard University Press, 117–147 (chapter 5).
-* Gerrish, Brian A., 2000, “Natural and Revealed Religion”, in _The Cambridge History of Eighteenth-Century Philosophy_, Knud Haakonssen (ed.), Cambridge: Cambridge University Press, volume 2, 641–665. doi:10.1017/CHOL9780521867436.002
-* Greene, T. H., 1960, “The Historical Context and Religious Significance of Kant’s _Religion_”, in Green and Hudson 1960: ix–lxxviii.
-* Green, Theodore M. and Hoyt H. Hudson (eds.), 1960, _Religion within the Limits of Reason Alone_, New York: Harper and Row.
-* Guyer, Paul, 2000, _Kant on Freedom, Law, and Happiness_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173339
-* –––, 2005, _Kant’s System of Nature and Freedom: Selected Essays_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199273461.001.0001
-* –––, 2011, “Kantian Communities: The Realm of Ends, the Ethical Community, and the Highest Good”, in _Kant and the Concept of Community_, Charleton Payne and Lucas Thorpe (eds.), (NAKS Studies in Philosophy, 9), Rochester, NY: University of Rochester Press, pp. 88–137.
-* –––, 2016. “Kant, Mendelssohn, and Immortality”, in _The Highest Good in Kant’s Philosophy_, Thomas Höwing (ed.), Boston: DeGruyter, pp. 157–179.
-* Hare, John E., 1996, _The Moral Gap: Kantian Ethics, Human Limits, and God’s Assistance_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198269571.001.0001
-* Henrich, Dieter, 1999, “Versuch über Fiktion und Wahrheit”, in his _Bewusstes Leben: Untersuchungen zum Verhältnis von Subjektivität und Metaphysik_, Stuttgart: Reclam, 139–151.
-* Höffe, Otfried, 1992 \[1994], “What May I Hope?—The Philosophy of History and Religion”, in part 4 of his _Immanuel Kant_, Marshall Farrier (trans.), (SUNY series in ethical theory), Albany, NY: State University of New York Press, 1994, 193–209.
-* Hunter, Ian, 2005, “Kant’s _Religion_ and Prussian Religious Policy”, _Modern Intellectual History_, 2(1): 1–27. doi:10.1017/S1479244304000307
-* Insole, Christopher, 2008, “The Irreducible Importance of Religious Hope in Kant’s Conception of the Highest Good”, _Philosophy_, 83(3): 333–351. doi:10.1017/S0031819108000703
-* –––, 2013, _Kant and the Creation of Freedom: A Theological Problem_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199677603.001.0001
-* –––, 2016, _The Intolerable God: Kant’s Theological Journey_, Grand Rapids, MI: Eerdmans.
-* Kain, Patrick, 2005, “Interpreting Kant’s Theory of Divine Commands”, _Kantian Review_, 9: 128–149. doi:10.1017/S136941540000203X
-* Kleingeld, Pauline, 2001, “Nature or Providence? On the Theoretical and Moral Importance of Kant’s Philosophy of History:”, _American Catholic Philosophical Quarterly_, 75(2): 201–219. doi:10.5840/acpq200175216
-* Kuehn, Manfred, 2001, _Kant: A Biography_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107050433
-* Lestition, Steven, 1993, “Kant and the End of the Enlightenment in Prussia”, _The Journal of Modern History_, 65(1): 57–112. doi:10.1086/244608
-* Mariña, Jacqueline, 1997, “Kant on Grace: A Reply to His Critics”, _Religious Studies_, 33(4): 379–400. doi:10.1017/S0034412597004046
-* Michalson, Gordon E., 1989, “Moral Regeneration and Divine Aid in Kant”, _Religious Studies_, 25(3): 259–270. doi:10.1017/S0034412500019843
-* –––, 1990, _Fallen Freedom: Kant on Radical Evil and Moral Regeneration_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554728
-* –––, 1999, _Kant and the Problem of God_, Oxford: Blackwell.
-* Miller, Eddis, 2015, _Kant’s Religion within the Boundaries of Mere Reason: A Reader’s Guide_, London: Bloomsbury.
-* Moran, Kate, 2012, _Community and Progress in Kant’s Moral Philosophy_, Washington, DC: Catholic University of America Press.
-* Morgan, Seiriol, 2005, “The Missing Formal Proof of Humanity’s Radical Evil in Kant’s _Religion_”, _Philosophical Review_, 114(1): 63–114. doi:10.1215/00318108-114-1-63
-* Muchnik, Pablo, 2009, _Kant’s Theory of Evil: An Essay on the Dangers of Self-Love and the Aprioricity of History_, Lanham, MD: Lexington Books.
-* –––, 2019, “Clipping Our Dogmatic Wings: The Role of _Religion_’s Parerga in Our Moral Education”, _Educational Philosophy and Theory_, 51(13): 1381–1391. doi:10.1080/00131857.2018.1516139
+* Fackenheim, Emil, 1996, *The God Within: Kant, Schelling and Historicity*, John Burbidge (ed.), Toronto: University of Toronto Press; see especially Chapters 1–2, 3–33.
+* Ferreira, M. Jamie, 2014, “Hope, Virtue, and the Postulate of God: A Reappraisal of Kant’s Pure Practical Rational Belief”, *Religious Studies*, 50(1): 3–26. doi:10.1017/S0034412512000509
+* Firestone, Christopher and Nathan Jacobs, 2008, *In Defense of Kant’s Religion*, Bloomington, IN: Indiana University Press.
+* Fischer, Norbert (ed.), 2004, *Kants Metaphysik und Religionsphilosophie*, Hamburg: Felix Meiner Verlag.
+* Forgie, J. William, 1975, “Kant And The Question ‘Is Existence A Predicate?’”, *Canadian Journal of Philosophy*, 5(4): 563–582. doi:10.1080/00455091.1975.10716968
+* Förster, Eckart, 2000, “The Subject as Person and the Idea of God”, in his *Kant’s Final Synthesis: An Essay on the Opus Postumum*, Cambridge, MA and London: Harvard University Press, 117–147 (chapter 5).
+* Gerrish, Brian A., 2000, “Natural and Revealed Religion”, in *The Cambridge History of Eighteenth-Century Philosophy*, Knud Haakonssen (ed.), Cambridge: Cambridge University Press, volume 2, 641–665. doi:10.1017/CHOL9780521867436.002
+* Greene, T. H., 1960, “The Historical Context and Religious Significance of Kant’s *Religion*”, in Green and Hudson 1960: ix–lxxviii.
+* Green, Theodore M. and Hoyt H. Hudson (eds.), 1960, *Religion within the Limits of Reason Alone*, New York: Harper and Row.
+* Guyer, Paul, 2000, *Kant on Freedom, Law, and Happiness*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173339
+* –––, 2005, *Kant’s System of Nature and Freedom: Selected Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199273461.001.0001
+* –––, 2011, “Kantian Communities: The Realm of Ends, the Ethical Community, and the Highest Good”, in *Kant and the Concept of Community*, Charleton Payne and Lucas Thorpe (eds.), (NAKS Studies in Philosophy, 9), Rochester, NY: University of Rochester Press, pp. 88–137.
+* –––, 2016. “Kant, Mendelssohn, and Immortality”, in *The Highest Good in Kant’s Philosophy*, Thomas Höwing (ed.), Boston: DeGruyter, pp. 157–179.
+* Hare, John E., 1996, *The Moral Gap: Kantian Ethics, Human Limits, and God’s Assistance*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198269571.001.0001
+* Henrich, Dieter, 1999, “Versuch über Fiktion und Wahrheit”, in his *Bewusstes Leben: Untersuchungen zum Verhältnis von Subjektivität und Metaphysik*, Stuttgart: Reclam, 139–151.
+* Höffe, Otfried, 1992 \[1994], “What May I Hope?—The Philosophy of History and Religion”, in part 4 of his *Immanuel Kant*, Marshall Farrier (trans.), (SUNY series in ethical theory), Albany, NY: State University of New York Press, 1994, 193–209.
+* Hunter, Ian, 2005, “Kant’s *Religion* and Prussian Religious Policy”, *Modern Intellectual History*, 2(1): 1–27. doi:10.1017/S1479244304000307
+* Insole, Christopher, 2008, “The Irreducible Importance of Religious Hope in Kant’s Conception of the Highest Good”, *Philosophy*, 83(3): 333–351. doi:10.1017/S0031819108000703
+* –––, 2013, *Kant and the Creation of Freedom: A Theological Problem*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199677603.001.0001
+* –––, 2016, *The Intolerable God: Kant’s Theological Journey*, Grand Rapids, MI: Eerdmans.
+* Kain, Patrick, 2005, “Interpreting Kant’s Theory of Divine Commands”, *Kantian Review*, 9: 128–149. doi:10.1017/S136941540000203X
+* Kleingeld, Pauline, 2001, “Nature or Providence? On the Theoretical and Moral Importance of Kant’s Philosophy of History:”, *American Catholic Philosophical Quarterly*, 75(2): 201–219. doi:10.5840/acpq200175216
+* Kuehn, Manfred, 2001, *Kant: A Biography*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107050433
+* Lestition, Steven, 1993, “Kant and the End of the Enlightenment in Prussia”, *The Journal of Modern History*, 65(1): 57–112. doi:10.1086/244608
+* Mariña, Jacqueline, 1997, “Kant on Grace: A Reply to His Critics”, *Religious Studies*, 33(4): 379–400. doi:10.1017/S0034412597004046
+* Michalson, Gordon E., 1989, “Moral Regeneration and Divine Aid in Kant”, *Religious Studies*, 25(3): 259–270. doi:10.1017/S0034412500019843
+* –––, 1990, *Fallen Freedom: Kant on Radical Evil and Moral Regeneration*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511554728
+* –––, 1999, *Kant and the Problem of God*, Oxford: Blackwell.
+* Miller, Eddis, 2015, *Kant’s Religion within the Boundaries of Mere Reason: A Reader’s Guide*, London: Bloomsbury.
+* Moran, Kate, 2012, *Community and Progress in Kant’s Moral Philosophy*, Washington, DC: Catholic University of America Press.
+* Morgan, Seiriol, 2005, “The Missing Formal Proof of Humanity’s Radical Evil in Kant’s *Religion*”, *Philosophical Review*, 114(1): 63–114. doi:10.1215/00318108-114-1-63
+* Muchnik, Pablo, 2009, *Kant’s Theory of Evil: An Essay on the Dangers of Self-Love and the Aprioricity of History*, Lanham, MD: Lexington Books.
+* –––, 2019, “Clipping Our Dogmatic Wings: The Role of *Religion*’s Parerga in Our Moral Education”, *Educational Philosophy and Theory*, 51(13): 1381–1391. doi:10.1080/00131857.2018.1516139
 * Mulholland, Leslie, 1991, “Freedom and Providence in Kant’s Account of Religion: The Problem of Expiation”, in Rossi and Wreen 1991: 77–102.
-* Neiman, Susan, 1994, “The Structure of Faith”, in her _The Unity of Reason: Rereading Kant_, New York and Oxford: Oxford University Press, 145–184 (Chapter 4).
+* Neiman, Susan, 1994, “The Structure of Faith”, in her *The Unity of Reason: Rereading Kant*, New York and Oxford: Oxford University Press, 145–184 (Chapter 4).
 * –––, 2002a, “Fire from Heaven”, in Neiman 2002c: 57–84 (chapter 1).
 * –––, 2002b, “Homeless”, in Neiman 2002c: 314–328 (chapter 4).
-* –––, 2002c, _Evil in Modern Thought: An Alternative History of Philosophy_, Princeton: Princeton University Press.
-* O’Neill, Onora, 1997, _Kant on Reason and Religion_, (The Tanner Lectures on Human Values, 1997), Grethe B. Patterson (ed.), Salt Lake City, UT: University of Utah Press, 269–308.
-* Palmquist, Stephen R., 1992, “Does Kant Reduce Religion to Morality?”, _Kant-Studien_, 83(2): 129–148. doi:10.1515/kant.1992.83.2.129
-* –––, 2000, _Kant’s Critical Religion_, Aldershot: Ashgate.
-* –––, 2008, “Kant’s Quasi-Transcendental Argument for a Necessary and Universal Evil Propensity in Human Nature”, _The Southern Journal of Philosophy_, 46(2): 261–297. doi:10.1111/j.2041-6962.2008.tb00079.x
-* –––, 2010, “Kant’s Ethics of Grace: Perspectival Solutions to the Moral Difficulties with Divine Assistance”, _The Journal of Religion_, 90(4): 530–553. doi:10.1086/654821
-* –––, 2016, _Comprehensive Commentary on Kant’s Religion within the Bounds of Bare Reason_, London: Blackwell. doi:10.1002/9781118619599
-* Pasternack, Lawrence, 2011, “The Development and Scope of Kantian Belief: The Highest Good, The Practical Postulates and The Fact of Reason”, _Kant-Studien_, 102(3): 290–315. doi:10.1515/kant.2011.022
-* –––, 2014, _Kant’s Religion within the Boundaries of Mere Reason: an Interpretation and Defense_ (Routledge Guidebook Series), London: Routledge.
-* –––, 2017a, “Restoring Kant’s Conception of the Highest Good”, _Journal of the History of Philosophy_, 55(3): 435–468. doi:10.1353/hph.2017.0049
-* –––, 2017b, “The ‘Two Experiments’ of Kant’s _Religion_: Dismantling the Conundrum”, _Kantian Review_, 22(1): 107–131. doi:10.1017/S136941541600039X
-* –––, 2018, “Kant’s Fourfold Critique of the Ontological Argument: Containment, Predication, and the Wisdom of Free Logic”, in _Ontological Arguments_, Graham Oppy (ed), Cambridge: Cambridge University Press, 99–120.
-* Plantinga, Alvin, 1966, “Kant’s Objection to the Ontological Argument”, _The Journal of Philosophy_, 63(19): 537–546. doi:10.2307/2024217
-* Quinn, Philip L., 1986, “Christian Atonement and Kantian Justification”:, _Faith and Philosophy_, 3(4): 440–462. doi:10.5840/faithphil19863433
-* –––, 1988, “‘In Adam’s Fall, We Sinned All’”, _Philosophical Topics_, 16(2): 89–118. doi:10.5840/philtopics198816215
-* –––, 1990, “Saving Faith from Kant’s Remarkable Antimony:”, _Faith and Philosophy_, 7(4): 418–433. doi:10.5840/faithphil19907436
-* Rawls, John, 2000, _Lectures on the History of Moral Philosophy_, Barbara Herman (ed.), Cambridge, MA: Harvard University Press.
-* Reardon, Bernard, 1988, _Kant as Philosophical Theologian_, New York: Macmillan Press.
-* Reath, Andrews, 1988, “Two Conceptions of the Highest Good in Kant”, _Journal of the History of Philosophy_, 26(4): 593–619. doi:10.1353/hph.1988.0098
-* –––, 1989, “Kant’s Theory of Moral Sensibility. Respect for the Moral Law and the Influence of Inclination”, _Kant-Studien_, 80(1–4): 284–302. doi:10.1515/kant.1989.80.1-4.284
-* Ricken, Friedo and François Marty (eds), 1992, _Kant über Religion_, Stuttgart: Kohlhammer.
-* Rossi, Philip, 2005a, _The Social Authority of Reason: Kant’s Critique, Radical Evil, and the Destiny of Humankind_, Albany, NY: State University of New York Press.
-* Rossi, Philip J. and Michael J. Wreen (eds), 1991, _Kant’s Philosophy of Religion Reconsidered_, (Indiana series in the philosophy of religion), Bloomington, IN: Indiana University Press.
-* Samet-Porat, Irit, 2007, “Satanic Motivations”, _The Journal of Value Inquiry_, 41(1): 77–94. doi:10.1007/s10790-007-9073-9
+* –––, 2002c, *Evil in Modern Thought: An Alternative History of Philosophy*, Princeton: Princeton University Press.
+* O’Neill, Onora, 1997, *Kant on Reason and Religion*, (The Tanner Lectures on Human Values, 1997), Grethe B. Patterson (ed.), Salt Lake City, UT: University of Utah Press, 269–308.
+* Palmquist, Stephen R., 1992, “Does Kant Reduce Religion to Morality?”, *Kant-Studien*, 83(2): 129–148. doi:10.1515/kant.1992.83.2.129
+* –––, 2000, *Kant’s Critical Religion*, Aldershot: Ashgate.
+* –––, 2008, “Kant’s Quasi-Transcendental Argument for a Necessary and Universal Evil Propensity in Human Nature”, *The Southern Journal of Philosophy*, 46(2): 261–297. doi:10.1111/j.2041-6962.2008.tb00079.x
+* –––, 2010, “Kant’s Ethics of Grace: Perspectival Solutions to the Moral Difficulties with Divine Assistance”, *The Journal of Religion*, 90(4): 530–553. doi:10.1086/654821
+* –––, 2016, *Comprehensive Commentary on Kant’s Religion within the Bounds of Bare Reason*, London: Blackwell. doi:10.1002/9781118619599
+* Pasternack, Lawrence, 2011, “The Development and Scope of Kantian Belief: The Highest Good, The Practical Postulates and The Fact of Reason”, *Kant-Studien*, 102(3): 290–315. doi:10.1515/kant.2011.022
+* –––, 2014, *Kant’s Religion within the Boundaries of Mere Reason: an Interpretation and Defense* (Routledge Guidebook Series), London: Routledge.
+* –––, 2017a, “Restoring Kant’s Conception of the Highest Good”, *Journal of the History of Philosophy*, 55(3): 435–468. doi:10.1353/hph.2017.0049
+* –––, 2017b, “The ‘Two Experiments’ of Kant’s *Religion*: Dismantling the Conundrum”, *Kantian Review*, 22(1): 107–131. doi:10.1017/S136941541600039X
+* –––, 2018, “Kant’s Fourfold Critique of the Ontological Argument: Containment, Predication, and the Wisdom of Free Logic”, in *Ontological Arguments*, Graham Oppy (ed), Cambridge: Cambridge University Press, 99–120.
+* Plantinga, Alvin, 1966, “Kant’s Objection to the Ontological Argument”, *The Journal of Philosophy*, 63(19): 537–546. doi:10.2307/2024217
+* Quinn, Philip L., 1986, “Christian Atonement and Kantian Justification”:, *Faith and Philosophy*, 3(4): 440–462. doi:10.5840/faithphil19863433
+* –––, 1988, “‘In Adam’s Fall, We Sinned All’”, *Philosophical Topics*, 16(2): 89–118. doi:10.5840/philtopics198816215
+* –––, 1990, “Saving Faith from Kant’s Remarkable Antimony:”, *Faith and Philosophy*, 7(4): 418–433. doi:10.5840/faithphil19907436
+* Rawls, John, 2000, *Lectures on the History of Moral Philosophy*, Barbara Herman (ed.), Cambridge, MA: Harvard University Press.
+* Reardon, Bernard, 1988, *Kant as Philosophical Theologian*, New York: Macmillan Press.
+* Reath, Andrews, 1988, “Two Conceptions of the Highest Good in Kant”, *Journal of the History of Philosophy*, 26(4): 593–619. doi:10.1353/hph.1988.0098
+* –––, 1989, “Kant’s Theory of Moral Sensibility. Respect for the Moral Law and the Influence of Inclination”, *Kant-Studien*, 80(1–4): 284–302. doi:10.1515/kant.1989.80.1-4.284
+* Ricken, Friedo and François Marty (eds), 1992, *Kant über Religion*, Stuttgart: Kohlhammer.
+* Rossi, Philip, 2005a, *The Social Authority of Reason: Kant’s Critique, Radical Evil, and the Destiny of Humankind*, Albany, NY: State University of New York Press.
+* Rossi, Philip J. and Michael J. Wreen (eds), 1991, *Kant’s Philosophy of Religion Reconsidered*, (Indiana series in the philosophy of religion), Bloomington, IN: Indiana University Press.
+* Samet-Porat, Irit, 2007, “Satanic Motivations”, *The Journal of Value Inquiry*, 41(1): 77–94. doi:10.1007/s10790-007-9073-9
 * Savage, Denis, 1991, “Kant’s Rejection of Divine Revelation and His Theory of Radical Evil”, in Rossi and Wreen 1991: 54–76.
-* Shade, Patrick, 1995, “Does Kant’s Ethics Imply Reincarnation?”, _The Southern Journal of Philosophy_, 33(3): 347–360. doi:10.1111/j.2041-6962.1995.tb00749.x
-* Shell, Susan Meld, 2007, “Kant and the Jewish Question”, _Hebraic Political Studies_, 2(1): 101–136.
-* Silber, John R., 1959, “The Context of Kant’s Ethical Thought—I”, _The Philosophical Quarterly_, 9(36): 193–207. doi:10.2307/2216914
-* –––, 1960, “The Ethical Significance of Kant’s _Religion_”, in Green and Hudson 1960: lxxix–cxxxiv.
-* Stang, Nicholas F., 2015, “Kant’s Argument That Existence Is Not a Determination”, _Philosophy and Phenomenological Research_, 91(3): 583–626. doi:10.1111/phpr.12227
-* –––, 2016, _Kant’s Modal Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712626.001.0001
-* Stevenson, Leslie, 2003, “Opinion, Belief or Faith, and Knowledge”, _Kantian Review_, 7: 72–101. doi:10.1017/S1369415400001746
-* Strawson, Peter F., 1966, _The Bounds of Sense_, London: Routledge.
+* Shade, Patrick, 1995, “Does Kant’s Ethics Imply Reincarnation?”, *The Southern Journal of Philosophy*, 33(3): 347–360. doi:10.1111/j.2041-6962.1995.tb00749.x
+* Shell, Susan Meld, 2007, “Kant and the Jewish Question”, *Hebraic Political Studies*, 2(1): 101–136.
+* Silber, John R., 1959, “The Context of Kant’s Ethical Thought—I”, *The Philosophical Quarterly*, 9(36): 193–207. doi:10.2307/2216914
+* –––, 1960, “The Ethical Significance of Kant’s *Religion*”, in Green and Hudson 1960: lxxix–cxxxiv.
+* Stang, Nicholas F., 2015, “Kant’s Argument That Existence Is Not a Determination”, *Philosophy and Phenomenological Research*, 91(3): 583–626. doi:10.1111/phpr.12227
+* –––, 2016, *Kant’s Modal Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712626.001.0001
+* Stevenson, Leslie, 2003, “Opinion, Belief or Faith, and Knowledge”, *Kantian Review*, 7: 72–101. doi:10.1017/S1369415400001746
+* Strawson, Peter F., 1966, *The Bounds of Sense*, London: Routledge.
 * Sullivan, Roger J., 1989a, “The Formula of Legislation for a Moral Community”, in Sullivan 1989c: 212–229 (Chapter 15).
 * –––, 1989b, “Kant’s Philosophy of Religion”, in Sullivan 1989c: 261–75 (Chapter 18).
-* –––, 1989c, _Immanuel Kant’s Moral Theory_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621116
-* Sullivan, William J., 1971, “Kant on the Existence of God in the ‘Opus Postumum’”, _The Modern Schoolman_, 48(2): 117–133. doi:10.5840/schoolman197148236
-* Surprenant, Chris W., 2008, “Kant’s Postulate of the Immortality of the Soul:”, _International Philosophical Quarterly_, 48(1): 85–98. doi:10.5840/ipq200848127
-* Sussman, David, 2001, _The Idea of Humanity: Anthropology and Anthroponomy in Kant’s Ethics_, New York: Routledge.
-* –––, 2009, “For Badness’ Sake:”, _Journal of Philosophy_, 106(11): 613–628. doi:10.5840/jphil20091061129
-* Van Cleve, James, 1999, _Problems from Kant_, Oxford: Oxford University Press.
-* Walsh, W. H., 1967, “Kant, Immanuel: Philosophy of Religion”, _The Encyclopedia of Philosophy_, Volume Four, Paul Edwards (ed.), New York: Macmillan Publishing Co. Inc. & The Free Press, 322.
-* Wand, Bernard, 1971, “Religious Concepts and Moral Theory: Luther and Kant”, _Journal of the History of Philosophy_, 9(3): 329–348. doi:10.1353/hph.2008.1268
-* Ward, Keith, 1972, _The Development of Kant’s View of Ethics_, Oxford: Basil Blackwell; see especially Chapters 5–6 (67–92) and Chapters 9–10 (144–74).
-* Wike, Victoria S. and Ryan L. Showler, 2010, “Kant’s Concept of the Highest Good and the Archetype-Ectype Distinction”, _The Journal of Value Inquiry_, 44(4): 521–533. doi:10.1007/s10790-010-9252-y
-* Watkins, Eric and Marcus Willaschek, 2017, “Kant’s Account of Cognition”, _Journal of the History of Philosophy_, 55(1): 83–112. doi:10.1353/hph.2017.0003
+* –––, 1989c, *Immanuel Kant’s Moral Theory*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621116
+* Sullivan, William J., 1971, “Kant on the Existence of God in the ‘Opus Postumum’”, *The Modern Schoolman*, 48(2): 117–133. doi:10.5840/schoolman197148236
+* Surprenant, Chris W., 2008, “Kant’s Postulate of the Immortality of the Soul:”, *International Philosophical Quarterly*, 48(1): 85–98. doi:10.5840/ipq200848127
+* Sussman, David, 2001, *The Idea of Humanity: Anthropology and Anthroponomy in Kant’s Ethics*, New York: Routledge.
+* –––, 2009, “For Badness’ Sake:”, *Journal of Philosophy*, 106(11): 613–628. doi:10.5840/jphil20091061129
+* Van Cleve, James, 1999, *Problems from Kant*, Oxford: Oxford University Press.
+* Walsh, W. H., 1967, “Kant, Immanuel: Philosophy of Religion”, *The Encyclopedia of Philosophy*, Volume Four, Paul Edwards (ed.), New York: Macmillan Publishing Co. Inc. & The Free Press, 322.
+* Wand, Bernard, 1971, “Religious Concepts and Moral Theory: Luther and Kant”, *Journal of the History of Philosophy*, 9(3): 329–348. doi:10.1353/hph.2008.1268
+* Ward, Keith, 1972, *The Development of Kant’s View of Ethics*, Oxford: Basil Blackwell; see especially Chapters 5–6 (67–92) and Chapters 9–10 (144–74).
+* Wike, Victoria S. and Ryan L. Showler, 2010, “Kant’s Concept of the Highest Good and the Archetype-Ectype Distinction”, *The Journal of Value Inquiry*, 44(4): 521–533. doi:10.1007/s10790-010-9252-y
+* Watkins, Eric and Marcus Willaschek, 2017, “Kant’s Account of Cognition”, *Journal of the History of Philosophy*, 55(1): 83–112. doi:10.1353/hph.2017.0003
 * Wolterstorff, Nicholas, 1991, “Conundrums in Kant’s Rational Religion”, in Rossi and Wreen 1991: 40–53.
-* –––, 1998, “Is It Possible and Desirable for Theologians to Recover from Kant?”, _Modern Theology_, 14(1): 1–18. doi:10.1111/1468-0025.00054
-* Wood, Allen W., 1970, _Kant’s Moral Religion_, Ithaca, NY: Cornell University Press.
-* –––, 1978, _Kant’s Rational Theology_, Ithaca, NY: Cornell University Press.
+* –––, 1998, “Is It Possible and Desirable for Theologians to Recover from Kant?”, *Modern Theology*, 14(1): 1–18. doi:10.1111/1468-0025.00054
+* Wood, Allen W., 1970, *Kant’s Moral Religion*, Ithaca, NY: Cornell University Press.
+* –––, 1978, *Kant’s Rational Theology*, Ithaca, NY: Cornell University Press.
 * –––, 1991, “Kant’s Deism”, in Rossi and Wreen 1991: 1–21.
-* –––, 1992, “Rational Theology, Moral Faith, and Religion”, in _The Cambridge Companion to Kant_, Paul Guyer (ed.), Cambridge: Cambridge University Press, 394–416. doi:10.1017/CCOL0521365872.014
+* –––, 1992, “Rational Theology, Moral Faith, and Religion”, in *The Cambridge Companion to Kant*, Paul Guyer (ed.), Cambridge: Cambridge University Press, 394–416. doi:10.1017/CCOL0521365872.014
 * –––, 1996a, “General Introduction”, in RRT: xi–xxiv. doi:10.1017/CBO9780511814433.002
-* –––, 1996b, “Translator’s Introduction” to _What Does It Mean to Orient Oneself in Thinking_, in RRT: 3–6.
-* –––, 1999, _Kant’s Ethical Thought_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173254
-* –––, 2005, “Kant’s History of Ethics”, _Studies in the History of Ethics_, June 2005. URL = <[https://www.historyofethics.org/062005/062005Wood.shtml](https://www.historyofethics.org/062005/062005Wood.shtml) >
-* –––, 2020, _Kant and Religion_, Cambridge: Cambridge Univeristy Press. doi: 10.1017/9781108381512
-* Yovel, Yirmiahu, 1989, _Kant and the Philosophy of History_, Princeton: Princeton University Press.
+* –––, 1996b, “Translator’s Introduction” to *What Does It Mean to Orient Oneself in Thinking*, in RRT: 3–6.
+* –––, 1999, *Kant’s Ethical Thought*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173254
+* –––, 2005, “Kant’s History of Ethics”, *Studies in the History of Ethics*, June 2005. URL = <[https://www.historyofethics.org/062005/062005Wood.shtml](https://www.historyofethics.org/062005/062005Wood.shtml) >
+* –––, 2020, *Kant and Religion*, Cambridge: Cambridge Univeristy Press. doi: 10.1017/9781108381512
+* Yovel, Yirmiahu, 1989, *Kant and the Philosophy of History*, Princeton: Princeton University Press.
 
 #### C. The Influence of Kant’s philosophy of religion
 
-* Adams, Robert Merrihew, 1999, “Original Sin: A Study in the Interaction of Philosophy and Theology”, in _The Question of Christian Philosophy Today_, Frank J. Ambrosio (ed.), New York: Fordham University Press, 80–110.
-* Charlesworth, M. J., 1972, _Philosophy of Religion: The Historic Approaches_, New York: Herder and Herder, see especially pages vii–xiv and 102–144.
-* Collins, James, 1967, _The Emergence of Philosophy of Religion_, New Haven, CT: Yale University Press; see especially pp. vii–xi, 350–422.
-* Di Giovanni, George, 2005, _Freedom and Religion in Kant and his Immediate Successors: The Vocation of Humankind 1774–1800_, Cambridge: Cambridge University Press.
-* Dupré, Louis, 1977, _A Dubious Heritage: Studies in the Philosophy of Religion After Kant_, New York: Paulist; see especially pp. 1–5.
-* –––, 2004, _The Enlightenment and the Intellectual Culture of Modernity_, New Haven, CT and London: Yale University Press; see especially pp. 282–288.
-* Fischer, Norbert (ed.), 2005, _Kant und der Katholizismus: Stationen einer wechselhaften Geschichte_, Freiburg: Herder.
-* Green, Ronald M., 1978, _Religious Reason: The Rational and Moral Basis of Religious Belief_, New York: Oxford.
-* –––, 1988, _Religion and Moral Reason: A New Method for Comparative Study_, New York: Oxford.
-* –––, 1992, _Kierkegaard and Kant: The Hidden Debt_, Albany, NY: The State University of New York Press.
-* –––, 2001, “Human Autonomy”, in his _God’s Call: Moral Realism, God’s Commands and Human Autonomy_, Grand Rapids, MI: Eerdmans, 87–119 (chapter 3).
-* Hartshorne, Charles, 1962, _The Logic of Perfection, and Other Essays in Neoclassical Metaphysics_, LaSalle, IL: Open Court.
-* –––, 1965, _Anselm’s Discovery: a Re-examination of the Ontological Proof for God’s Existence_, La Salle, IL: Open Court.
-* Hegel, Georg Wilhelm Friedrich, 1948, _Early Theological Writings_, T. M. Knox (trans.) Chicago: University of Chicago Press, 67–145.
-* Hick, John and Arthur McGill (ed.), 1967, _The Many-faced Argument; Recent Studies on the Ontological Argument for the Existence of God_, New York: Macmillan.
-* Maréchal, Joseph, 1944–1949, _Le point de départ de la métaphysique: leçons sur le développement historique et théorique du problème de la connaissance_, Bruxelles: L’Édition universelle; Paris: Desclée, De Brouwer.
-* Mercier, Désiré, 2002, “The Two Critiques of Kant”, in _Cardinal Mercier’s Philosophical Essays: A Study in Neo-thomism_, David A. Boileau (ed.), Herent, Belgium: Peeters, 137–150.
-* Murdoch, Iris, 1993, _Metaphysics as a Guide to Morals_, New York: Allen Lane/Penguin; see especially pp. 391–449.
-* Plantinga, Alvin, 1965, _The Ontological Argument, from St. Anselm to Contemporary Philosophers_, Garden City, NY: Anchor Books.
-* Rossi, Philip, 2005b, “Reading Kant Through Theological Spectacles”, in _Kant and the New Philosophy of Religion_, Chris L. Firestone and Stephen Palmquist (eds), Bloomington, IN: Indiana University Press, 107–123.
-* Schaeffler, Richard, 1979, _Was dürfen wir hoffen?: die katholische Theologie der Hoffnung zwischen Blochs utopischem Denken und der reformatorischen Rechtfertigungslehre_, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Westphal, Merold, 1997, “The Emergence of Modern Philosophy of Religion”, in _A Companion to Philosophy of Religion_, Philip L. Quinn and Charles Taliferro (eds.), Malden, MA and Cambridge: Blackwell, 111–117.
+* Adams, Robert Merrihew, 1999, “Original Sin: A Study in the Interaction of Philosophy and Theology”, in *The Question of Christian Philosophy Today*, Frank J. Ambrosio (ed.), New York: Fordham University Press, 80–110.
+* Charlesworth, M. J., 1972, *Philosophy of Religion: The Historic Approaches*, New York: Herder and Herder, see especially pages vii–xiv and 102–144.
+* Collins, James, 1967, *The Emergence of Philosophy of Religion*, New Haven, CT: Yale University Press; see especially pp. vii–xi, 350–422.
+* Di Giovanni, George, 2005, *Freedom and Religion in Kant and his Immediate Successors: The Vocation of Humankind 1774–1800*, Cambridge: Cambridge University Press.
+* Dupré, Louis, 1977, *A Dubious Heritage: Studies in the Philosophy of Religion After Kant*, New York: Paulist; see especially pp. 1–5.
+* –––, 2004, *The Enlightenment and the Intellectual Culture of Modernity*, New Haven, CT and London: Yale University Press; see especially pp. 282–288.
+* Fischer, Norbert (ed.), 2005, *Kant und der Katholizismus: Stationen einer wechselhaften Geschichte*, Freiburg: Herder.
+* Green, Ronald M., 1978, *Religious Reason: The Rational and Moral Basis of Religious Belief*, New York: Oxford.
+* –––, 1988, *Religion and Moral Reason: A New Method for Comparative Study*, New York: Oxford.
+* –––, 1992, *Kierkegaard and Kant: The Hidden Debt*, Albany, NY: The State University of New York Press.
+* –––, 2001, “Human Autonomy”, in his *God’s Call: Moral Realism, God’s Commands and Human Autonomy*, Grand Rapids, MI: Eerdmans, 87–119 (chapter 3).
+* Hartshorne, Charles, 1962, *The Logic of Perfection, and Other Essays in Neoclassical Metaphysics*, LaSalle, IL: Open Court.
+* –––, 1965, *Anselm’s Discovery: a Re-examination of the Ontological Proof for God’s Existence*, La Salle, IL: Open Court.
+* Hegel, Georg Wilhelm Friedrich, 1948, *Early Theological Writings*, T. M. Knox (trans.) Chicago: University of Chicago Press, 67–145.
+* Hick, John and Arthur McGill (ed.), 1967, *The Many-faced Argument; Recent Studies on the Ontological Argument for the Existence of God*, New York: Macmillan.
+* Maréchal, Joseph, 1944–1949, *Le point de départ de la métaphysique: leçons sur le développement historique et théorique du problème de la connaissance*, Bruxelles: L’Édition universelle; Paris: Desclée, De Brouwer.
+* Mercier, Désiré, 2002, “The Two Critiques of Kant”, in *Cardinal Mercier’s Philosophical Essays: A Study in Neo-thomism*, David A. Boileau (ed.), Herent, Belgium: Peeters, 137–150.
+* Murdoch, Iris, 1993, *Metaphysics as a Guide to Morals*, New York: Allen Lane/Penguin; see especially pp. 391–449.
+* Plantinga, Alvin, 1965, *The Ontological Argument, from St. Anselm to Contemporary Philosophers*, Garden City, NY: Anchor Books.
+* Rossi, Philip, 2005b, “Reading Kant Through Theological Spectacles”, in *Kant and the New Philosophy of Religion*, Chris L. Firestone and Stephen Palmquist (eds), Bloomington, IN: Indiana University Press, 107–123.
+* Schaeffler, Richard, 1979, *Was dürfen wir hoffen?: die katholische Theologie der Hoffnung zwischen Blochs utopischem Denken und der reformatorischen Rechtfertigungslehre*, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Westphal, Merold, 1997, “The Emergence of Modern Philosophy of Religion”, in *A Companion to Philosophy of Religion*, Philip L. Quinn and Charles Taliferro (eds.), Malden, MA and Cambridge: Blackwell, 111–117.
 
 ## Academic Tools
 
@@ -644,8 +642,8 @@ Other writings from the critical period relevant to Kant’s view of God and rel
 
 ### Acknowledgments
 
-The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of Section 2 (“Kant’s Pre-Critical Religious Thought”) and provided input on Sections 3 and 4. Pasternack wrote the remaining material. The authors would like to acknowledge the contributions of Rob Gressis, who spent time reading through various drafts and offered valuable input for Section 4 (“Religion in the _Opus Postumum_”).
+The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of Section 2 (“Kant’s Pre-Critical Religious Thought”) and provided input on Sections 3 and 4. Pasternack wrote the remaining material. The authors would like to acknowledge the contributions of Rob Gressis, who spent time reading through various drafts and offered valuable input for Section 4 (“Religion in the *Opus Postumum*”).
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 Lawrence Pasternack\
-Courtney Fugate <[_courtney.fugate@gmail.com_](mailto:courtney%2efugate%40gmail%2ecom)>
+Courtney Fugate <[*courtney.fugate@gmail.com*](mailto:courtney%2efugate%40gmail%2ecom)>

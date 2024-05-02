@@ -1,12 +1,10 @@
 # 死后生命 afterlife (William Hasker and Charles Taliaferro)
 
-_首次发表于 2005 年 12 月 26 日；实质性修订于 2023 年 2 月 27 日_
+*首次发表于 2005 年 12 月 26 日；实质性修订于 2023 年 2 月 27 日*
 
 在许多哲学家的兴趣与各种人的兴趣之间，有一个显著而持久的交集，涉及死亡的本质和意义。我们应该如何理解所有生物的必死性，更接近我们自己的是，我们应该如何理解我们自己的必死性？人们是否有可能在生物死亡后存活？这是二十世纪分析哲学和大陆哲学都关注的一个主题（例如，弗雷德·费尔德曼，马丁·海德格尔）。当死亡这个话题在流行文化中被忽视或否认时，一些哲学家、神学家、社会和政治评论家抨击忽视我们生活中最重要的事实的不真实的自满（例如，苏伦·基尔克戈尔的文章《在墓地旁》或厄内斯特·贝克尔 1974 年著名的《否认死亡》）。但是死亡的确切事实是什么？一个人死亡时是否真的被消灭了，还是有可能甚至很可能她会在死后存活？从哲学的角度来看，任何宗教对死后生命的概念是否有希望？
 
 本条目分为五个部分。在第一部分中，我们提出，对于死亡和死后生命的信仰之所以具有持久的重要性，是因为我们关心此时此地的人，因此也关心他们的未来和我们自己的未来。就像我们希望我们所爱的人在这个生活中有一个充实的未来一样，自然而然地会考虑这个生活是否是唯一的生活，如果有理由相信有死后生命（或者超越这个生活的生命），那么希望这可能涉及一个新的、有价值的环境，或者至少不是地狱般的环境，是合理的。我们还提出了其他一些理由，解释为什么死后生命的话题在哲学上是有趣的。在第二和第三部分中，我们考虑了在两个重要的心灵哲学理论（二元论和唯物论）的光照下，人们在死后是否存活的概念和可能性。第四部分从经验证据的角度讨论了死后生命。在第五部分，我们提出了一些理由，认为对死后生命的信仰的合理性取决于形而上学信念的合理性。
-
-
 
 ***
 
@@ -130,7 +128,7 @@ Baker 认为，确实存在一个事实，即一个未来的人是否具有与�
 
 此外，这些经历并不是随机的。许多这些经历中都有一些重复出现的元素，形成了一个普遍（但并非不变）的模式。典型的元素包括感觉死亡、平静和无痛苦；“离体经历”，即主体从“外部”观察自己的身体并目睹各种事件，有时距离人体所在地相当远；穿过黑暗的隧道走向强烈的光芒；遇见“光之存在”（有时包括之前去世的朋友和亲人）；以及“生命回顾”，即主体的一生经历在眼前闪现并接受评估。主体可能最初感到失望或不愿回到身体中，而且（如前所述）许多人证明这种经历改变了他们的生活，减少了甚至完全消除了对死亡的恐惧，并带来了其他有益的结果。
 
-这些经历是令人惊讶地普遍。1982 年的一项盖洛普民意调查发现，800 万美国人（当时成年人口的约 5%）曾经历过临死体验（NDE）。这些经历不分年龄、社会阶层、种族或婚姻状况。可能是医疗技术的改进，使得许多人能够从“临床死亡”状态中恢复，近年来这一数字有所增加。但是，NDE 的报道可以追溯到历史记载的各个时期和地区。自从雷蒙德·穆迪（Raymond Moody）于 1975 年出版了《死后生命》（_Life After Life_）以来，对这一现象进行了许多研究，其中一些研究非常注重科学客观性（例如，Ring 1980；Sabom 1982；van Lommel _et al._ 2001）。
+这些经历是令人惊讶地普遍。1982 年的一项盖洛普民意调查发现，800 万美国人（当时成年人口的约 5%）曾经历过临死体验（NDE）。这些经历不分年龄、社会阶层、种族或婚姻状况。可能是医疗技术的改进，使得许多人能够从“临床死亡”状态中恢复，近年来这一数字有所增加。但是，NDE 的报道可以追溯到历史记载的各个时期和地区。自从雷蒙德·穆迪（Raymond Moody）于 1975 年出版了《死后生命》（*Life After Life*）以来，对这一现象进行了许多研究，其中一些研究非常注重科学客观性（例如，Ring 1980；Sabom 1982；van Lommel *et al.* 2001）。
 
 正如人们所预料的，对 NDE 的解释有很多种，从将这些经历解释为真实揭示了死后状态的解释，到试图将这些经历归类为仅仅是异常脑状态的反映的解释。显然，并没有一个单一的医学或生理原因；这些经历发生在各种医疗条件下的人身上。对于以“垂死的大脑”来解释的一个有趣反例是登山者在他们预料到将会致命坠落时经历的 NDE（Heim 1892）；很难相信这些经历可以简化为药物或缺氧。
 
@@ -180,71 +178,71 @@ NDEs 的证据方面可以分为几个类别。首先，有一些离体感官体
 
 ## Bibliography
 
-* Bailey, Lee W. and Jenny Yates (eds.), 1996, _The Near Death Experience: A Reader_, New York: Routledge.
-* Baker, Lynne Rudder, 2000, _Persons and Bodies: A Constitution View_, Cambridge: Cambridge University Press.
-* –––, 2001, “Material Persons and the Doctrine of Resurrection”, _Faith and Philosophy_, 18 (2): 151–67.
-* –––, 2005, “Death and the Afterlife”, in William Wainwright (ed.), 2001, _The Oxford Handbook of Philosophy of Religion_, Oxford: Oxford University Press, pp. 366–91.
-* Batthyany, Alexander and Avshalom Elitzur (eds.), 2009, _Irreducibly Conscious: Selected Papers on Consciousness_, Heidelberg: Universitaetsverlag Winter.
-* Becker, Ernest, 1973, _The Denial of Death_, New York: The Free Press.
-* Blackmore, Susan, 1993, _Dying to Live_, Buffalo: Prometheus Books.
-* Blum, Deborah, 2006, _Ghost Hunters: William James and the Search for Scientific Proof of Life After Death_, New York: Penguin Press.
-* Braude, Stephen A., 2002, “The Problem of Super Psi”, in F. Steinkamp (ed.), 2002, _Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff_, London: McFarland and Company.
-* Broad, C.D., 1953, _Religion, Philosophy, and Psychical Research_, New York: Harcourt, Brace, and Company.
-* Byerly, T. Ryan and Eric J. Silverman (eds.), 2017, _Paradise Understood; New Philosophical Essays about Heaven_, Oxford: Oxford University Press.
-* Corcoran, Kevin, 2005, “The Constitution View of Persons”, in Joel B. Green and Stuart Palmer, eds., 2005, _In Search of the Soul: Four Views of the Mind-Body Problem_, Downers Grove: InterVarsity Press, pp. 153–76.
-* Collins, Robin, 1999, “Eastern Religions”, in Michael Murray (ed.), 1999, _Reason for the Hope Within_, Grand Rapids: Eerdmans, pp. 182–216.
-* Cullman, Oscar, 1955, “Immortality of the Soul or Resurrection of the Dead: The Witness of the New Testament”, in Krister Stendahl (ed.), 1965, _Immortality and Resurrection: Death in the Western World: Two Conflicting Currents of Thought_, New York: Macmillan, pp. 9–53.
-* Dworkin, Ronald, 2013, _Religion without God_, Cambridge: Harvard University Press.
-* Eddebo, Johan, 2017, _Death and the Self: A metaphysical investigation of the rationality of Afterlife Belief in the current Intellectual Climate_, Uppsala: University of Uppsala Press.
-* Foster, John, 2007, _A World For Us: The case for Phenomenalistic Idealism_, Oxford: Oxford University Press.
-* Gallup, G. and W. Proctor, 1982, _Adventures in immortality: a look beyond the threshold of death_. New York, McGraw Hill, pp. 198–200. “Have you, yourself, ever been on the verge of death or had a ‘close call’ which involved any unusual experience at that time?”. Nationally 15% responded “yes”.
-* Griffin, David Ray, 1997, _Parapsychology, Philosophy, and Spirituality: A Postmodern Exploration_. Albany, NY: SUNY Press.
-* Habermas, Gary R., 1996, “Near Death Experiences and the Evidence—A Review Essay”, _Christian Scholar’s Review_, 26(1): 78–85.
-* Hadot, Pierre, 1995, _Philosophy as a Way of Life_, Oxford: Blackwell.
-* Hartshorne, Charles, 1962, _The Logic of Perfection and Other Essays in Neoclassical Metaphysics_, La Salle, Ill.: Open Court.
-* Hasker, William, 1989, _God, Time and Knowledge_, Ithaca: Cornell University Press.
-* –––, 1999, _The Emergent Self_, Ithaca: Cornell University Press
-* –––, 2011, “Materialism and the Resurrection: Are the Prospects Improving?”, _European Journal for the Philosophy of Religion_, 3(1): 83–103.
-* Heim, Albert von st. Gallen, 1892, “Notizen über den Tod durch absturz”, _Jahrbuch des Schweizer Alpenclub_, 27: 327–37; translated, with an introduction, by Roy Kletti and Russell Noyes, Jr., “The Experiences of Dying from Falls”, _Omega_, 3 (1972): 45–52.
-* Hick, John, 1983, _Philosophy of Religion_, 3rd edition, Englewood Cliffs: Prentice-Hall.
-* Hick, John, 1976, _Death and Eternal Life_, New York: Harper & Row.
-* Jansen, K.L.R., 1997, “The ketamine model of the near-death experience: A central role for the N-methyl-D-aspartate receptor”, _Journal of Near-Death Studies_, 16: 5–26.
-* Kierkegaard, Søren, 1845, “At a Graveside”, Howard Hong and Edna Hong (trans.), _Three Discourses on Imagined Occasions_, Princeton: Princeton University Press, 1993, pp. 69–102.
-* Knine, David M., 2010, “Hindu Eschatology”, in _The Oxford Handbook of Eschatoloy_, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 170–190.
-* Knuths, Elliot, 2018, “A Problem for Christian Materialism”, _The European Journal for Philosophy of Religion_, 10(3): 205–213. doi:10.24204/ejpr.v10i3.2631
-* Koons, Robert C. and George Bealer (eds.), 2010, _The Waning of Materialism_, Oxford: Oxford University Press.
-* Lofton, Keith, 2017, _Christian Physicalism? Philosophical theological criticism_, Anham, MD: Lexington Books.
-* Loose, Jonathan, Angus J.L. Menuge, and J.P. Moreland (eds.), 2018, _The Blackwell Companion to Substance Dualism_, Oxford: Wiley-Blackwell Publishers.
-* Lund, David, 2009, _Persons, Souls and Death_, London: McFarland & Company.
-* Martin, Michael and Keith Augustine (eds.), 2015, _The Myth of an Afterlife: The Case against Life after Death_, Anham, MD: Roman and Littlefield.
-* Mawson, T.J., 2019, “Does anything we do matter forever?” _Religious Studies_, 57(1): 83–100.
-* Mawson, T.J., 2020, “Why heaven doesn’t make earth absolutely meaningless, just relatively”, _Religious Studies_, 6: 1–20.
+* Bailey, Lee W. and Jenny Yates (eds.), 1996, *The Near Death Experience: A Reader*, New York: Routledge.
+* Baker, Lynne Rudder, 2000, *Persons and Bodies: A Constitution View*, Cambridge: Cambridge University Press.
+* –––, 2001, “Material Persons and the Doctrine of Resurrection”, *Faith and Philosophy*, 18 (2): 151–67.
+* –––, 2005, “Death and the Afterlife”, in William Wainwright (ed.), 2001, *The Oxford Handbook of Philosophy of Religion*, Oxford: Oxford University Press, pp. 366–91.
+* Batthyany, Alexander and Avshalom Elitzur (eds.), 2009, *Irreducibly Conscious: Selected Papers on Consciousness*, Heidelberg: Universitaetsverlag Winter.
+* Becker, Ernest, 1973, *The Denial of Death*, New York: The Free Press.
+* Blackmore, Susan, 1993, *Dying to Live*, Buffalo: Prometheus Books.
+* Blum, Deborah, 2006, *Ghost Hunters: William James and the Search for Scientific Proof of Life After Death*, New York: Penguin Press.
+* Braude, Stephen A., 2002, “The Problem of Super Psi”, in F. Steinkamp (ed.), 2002, *Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff*, London: McFarland and Company.
+* Broad, C.D., 1953, *Religion, Philosophy, and Psychical Research*, New York: Harcourt, Brace, and Company.
+* Byerly, T. Ryan and Eric J. Silverman (eds.), 2017, *Paradise Understood; New Philosophical Essays about Heaven*, Oxford: Oxford University Press.
+* Corcoran, Kevin, 2005, “The Constitution View of Persons”, in Joel B. Green and Stuart Palmer, eds., 2005, *In Search of the Soul: Four Views of the Mind-Body Problem*, Downers Grove: InterVarsity Press, pp. 153–76.
+* Collins, Robin, 1999, “Eastern Religions”, in Michael Murray (ed.), 1999, *Reason for the Hope Within*, Grand Rapids: Eerdmans, pp. 182–216.
+* Cullman, Oscar, 1955, “Immortality of the Soul or Resurrection of the Dead: The Witness of the New Testament”, in Krister Stendahl (ed.), 1965, *Immortality and Resurrection: Death in the Western World: Two Conflicting Currents of Thought*, New York: Macmillan, pp. 9–53.
+* Dworkin, Ronald, 2013, *Religion without God*, Cambridge: Harvard University Press.
+* Eddebo, Johan, 2017, *Death and the Self: A metaphysical investigation of the rationality of Afterlife Belief in the current Intellectual Climate*, Uppsala: University of Uppsala Press.
+* Foster, John, 2007, *A World For Us: The case for Phenomenalistic Idealism*, Oxford: Oxford University Press.
+* Gallup, G. and W. Proctor, 1982, *Adventures in immortality: a look beyond the threshold of death*. New York, McGraw Hill, pp. 198–200. “Have you, yourself, ever been on the verge of death or had a ‘close call’ which involved any unusual experience at that time?”. Nationally 15% responded “yes”.
+* Griffin, David Ray, 1997, *Parapsychology, Philosophy, and Spirituality: A Postmodern Exploration*. Albany, NY: SUNY Press.
+* Habermas, Gary R., 1996, “Near Death Experiences and the Evidence—A Review Essay”, *Christian Scholar’s Review*, 26(1): 78–85.
+* Hadot, Pierre, 1995, *Philosophy as a Way of Life*, Oxford: Blackwell.
+* Hartshorne, Charles, 1962, *The Logic of Perfection and Other Essays in Neoclassical Metaphysics*, La Salle, Ill.: Open Court.
+* Hasker, William, 1989, *God, Time and Knowledge*, Ithaca: Cornell University Press.
+* –––, 1999, *The Emergent Self*, Ithaca: Cornell University Press
+* –––, 2011, “Materialism and the Resurrection: Are the Prospects Improving?”, *European Journal for the Philosophy of Religion*, 3(1): 83–103.
+* Heim, Albert von st. Gallen, 1892, “Notizen über den Tod durch absturz”, *Jahrbuch des Schweizer Alpenclub*, 27: 327–37; translated, with an introduction, by Roy Kletti and Russell Noyes, Jr., “The Experiences of Dying from Falls”, *Omega*, 3 (1972): 45–52.
+* Hick, John, 1983, *Philosophy of Religion*, 3rd edition, Englewood Cliffs: Prentice-Hall.
+* Hick, John, 1976, *Death and Eternal Life*, New York: Harper & Row.
+* Jansen, K.L.R., 1997, “The ketamine model of the near-death experience: A central role for the N-methyl-D-aspartate receptor”, *Journal of Near-Death Studies*, 16: 5–26.
+* Kierkegaard, Søren, 1845, “At a Graveside”, Howard Hong and Edna Hong (trans.), *Three Discourses on Imagined Occasions*, Princeton: Princeton University Press, 1993, pp. 69–102.
+* Knine, David M., 2010, “Hindu Eschatology”, in *The Oxford Handbook of Eschatoloy*, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 170–190.
+* Knuths, Elliot, 2018, “A Problem for Christian Materialism”, *The European Journal for Philosophy of Religion*, 10(3): 205–213. doi:10.24204/ejpr.v10i3.2631
+* Koons, Robert C. and George Bealer (eds.), 2010, *The Waning of Materialism*, Oxford: Oxford University Press.
+* Lofton, Keith, 2017, *Christian Physicalism? Philosophical theological criticism*, Anham, MD: Lexington Books.
+* Loose, Jonathan, Angus J.L. Menuge, and J.P. Moreland (eds.), 2018, *The Blackwell Companion to Substance Dualism*, Oxford: Wiley-Blackwell Publishers.
+* Lund, David, 2009, *Persons, Souls and Death*, London: McFarland & Company.
+* Martin, Michael and Keith Augustine (eds.), 2015, *The Myth of an Afterlife: The Case against Life after Death*, Anham, MD: Roman and Littlefield.
+* Mawson, T.J., 2019, “Does anything we do matter forever?” *Religious Studies*, 57(1): 83–100.
+* Mawson, T.J., 2020, “Why heaven doesn’t make earth absolutely meaningless, just relatively”, *Religious Studies*, 6: 1–20.
 * Merricks, Trenton, 2022, “Self and Identity; On Survial”, Oxford: Oxford University Press.
-* Moody, Raymond, 1975, _Life After Life_, New York: Bantam/Mockingbird.
-* Moreland, J. P. and Gary Habermas, 1998, _Beyond Death: Exploring the Evidence for Immortality_, Wheaton, IL: Crossway Books.
-* Nattier, Jan, 2010, “Buddhist Eschatology”, in _The Oxford Companion to Eschatology_, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 151–169.
-* Nagasawa, Yujin and Benjamin Matheson (eds.), 2017, _The Palgrave Handbook of the Afterlife_, London: Palgrave Macmillan.
-* Noyes, R., 1972, “The experience of dying”, _Psychiatry_, 35: 174–184.
-* Parry, Robin and Christopher Partridge (eds.), 2003, _Universal Salvation? The Current Debate_, Carlisle, UK: Paternoster.
-* Perry, John, 1978, _A Dialogue on Personal Identity and Immortality_, Indianapolis: Hackett.
-* Potts, Michael, 2002, “The Evidential Value of Near-Death Experiences for Belief in Life after Death”, _Journal of Near-Death Studies_, 20(4): 233–258.
-* Price, H.H., 1953, “Survival and the Idea of ‘Another World’”, _Proceedings of the Society for Psychical Research_, 50 (182): 1–25; reprinted in John Hick (ed.), _Classical and Contemporary Readings in the Philosophy of Religion_, second edition, Englewood Cliffs: Prentice-Hall, 1970, pp. 370–93 (page references to Hick 1970).
-* Ring, Kenneth, 1980, _Life at Death: A Scientific Investigation of the Near-Death Experience_, New York: Coward, McCann, and Geoghegan.
-* Sabom, Michael, 1982, _Recollections of Death: A Medical Investigation_, New York: Harper and Row.
-* –––, 1998, _Light and Death: One Doctor’s Fascinating Account of Near-Death Experiences_, Grand Rapids, MI: Zondervan.
-* Scheffler, Samuel, 2016, _Death and the Afterlife_, Oxford: Oxford University Press.
-* Schlick, Moritz, 1936, “Meaning and Verification”, _The Philosophical Review_, 45: 339–369.
-* Singer, Peter, 1993, _How are we to live?_ New South Wales: Random House Australia.
-* Steinkamp, Fiona (ed.), 2002, _Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff_, London: McFarland and Company.
-* Taliaferro, Charles and Elliot Knuths, 2017, “Thought Experiments in Philosophy of Religion: The Virtues of phenomenological realism and values”, _Open Theology_, 3(1): 167–173.
-* van Inwagen, Peter, 1992 \[1978], “The Possibility of Resurrection”, _International Journal for the Philosophy of Religion_, 9 (1978): 114–21; reprinted in Paul Edwards (ed.), _Immortality_, New York: Macmillan, 1992, pp. 242–46 (page references are to Edwards (ed.) 1992).
-* van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich, 2001, “Near-Death Experiences in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands”. _Lancet_, 358 (9298): 2039–2045.
-* Walls, Jerry (ed.), 2010, _The Oxford Handbook to Eschatology_, Oxford: Oxford University Press.
-* Wielenberg, Erik J., 2013, “God and the Meaning of Life”, in Joshua W. Seachris (ed.), _Exploring the Meaning of Life: An Anthology and Guide_, Madden, MA: Wiley-Blackwell, pp. 335–352.
-* Wynn, Mark, 2020, _Spiritual Traditions and the Virtues_, Oxford: Oxford University Press.
-* Zaleski, Carol, 1987, _Otherworld Journeys: Accounts of Near-Death Experiences in Medieval and Modern Times_, New York: Oxford University Press.
-* Zimmerman, Dean A., 1999, “The Compatibility of Materialism and Survival: The ‘Falling Elevator’ Model”, _Faith and Philosophy_, 16(2): 194–212.
-* –––, 2010, “Bodily Resurrection: The Falling Elevator Model Revisited”, in George Gasser (ed.), _Personal Identity and Resurrection: How Do We Survive Our Death?_ Farnham, England: Ashgate Publishing, pp. 51–66.
+* Moody, Raymond, 1975, *Life After Life*, New York: Bantam/Mockingbird.
+* Moreland, J. P. and Gary Habermas, 1998, *Beyond Death: Exploring the Evidence for Immortality*, Wheaton, IL: Crossway Books.
+* Nattier, Jan, 2010, “Buddhist Eschatology”, in *The Oxford Companion to Eschatology*, Jerry Walls (ed.), Oxford: Oxford University Press, pp. 151–169.
+* Nagasawa, Yujin and Benjamin Matheson (eds.), 2017, *The Palgrave Handbook of the Afterlife*, London: Palgrave Macmillan.
+* Noyes, R., 1972, “The experience of dying”, *Psychiatry*, 35: 174–184.
+* Parry, Robin and Christopher Partridge (eds.), 2003, *Universal Salvation? The Current Debate*, Carlisle, UK: Paternoster.
+* Perry, John, 1978, *A Dialogue on Personal Identity and Immortality*, Indianapolis: Hackett.
+* Potts, Michael, 2002, “The Evidential Value of Near-Death Experiences for Belief in Life after Death”, *Journal of Near-Death Studies*, 20(4): 233–258.
+* Price, H.H., 1953, “Survival and the Idea of ‘Another World’”, *Proceedings of the Society for Psychical Research*, 50 (182): 1–25; reprinted in John Hick (ed.), *Classical and Contemporary Readings in the Philosophy of Religion*, second edition, Englewood Cliffs: Prentice-Hall, 1970, pp. 370–93 (page references to Hick 1970).
+* Ring, Kenneth, 1980, *Life at Death: A Scientific Investigation of the Near-Death Experience*, New York: Coward, McCann, and Geoghegan.
+* Sabom, Michael, 1982, *Recollections of Death: A Medical Investigation*, New York: Harper and Row.
+* –––, 1998, *Light and Death: One Doctor’s Fascinating Account of Near-Death Experiences*, Grand Rapids, MI: Zondervan.
+* Scheffler, Samuel, 2016, *Death and the Afterlife*, Oxford: Oxford University Press.
+* Schlick, Moritz, 1936, “Meaning and Verification”, *The Philosophical Review*, 45: 339–369.
+* Singer, Peter, 1993, *How are we to live?* New South Wales: Random House Australia.
+* Steinkamp, Fiona (ed.), 2002, *Parapsychology, Philosophy, and the Mind: Essays Honoring John Beloff*, London: McFarland and Company.
+* Taliaferro, Charles and Elliot Knuths, 2017, “Thought Experiments in Philosophy of Religion: The Virtues of phenomenological realism and values”, *Open Theology*, 3(1): 167–173.
+* van Inwagen, Peter, 1992 \[1978], “The Possibility of Resurrection”, *International Journal for the Philosophy of Religion*, 9 (1978): 114–21; reprinted in Paul Edwards (ed.), *Immortality*, New York: Macmillan, 1992, pp. 242–46 (page references are to Edwards (ed.) 1992).
+* van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich, 2001, “Near-Death Experiences in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands”. *Lancet*, 358 (9298): 2039–2045.
+* Walls, Jerry (ed.), 2010, *The Oxford Handbook to Eschatology*, Oxford: Oxford University Press.
+* Wielenberg, Erik J., 2013, “God and the Meaning of Life”, in Joshua W. Seachris (ed.), *Exploring the Meaning of Life: An Anthology and Guide*, Madden, MA: Wiley-Blackwell, pp. 335–352.
+* Wynn, Mark, 2020, *Spiritual Traditions and the Virtues*, Oxford: Oxford University Press.
+* Zaleski, Carol, 1987, *Otherworld Journeys: Accounts of Near-Death Experiences in Medieval and Modern Times*, New York: Oxford University Press.
+* Zimmerman, Dean A., 1999, “The Compatibility of Materialism and Survival: The ‘Falling Elevator’ Model”, *Faith and Philosophy*, 16(2): 194–212.
+* –––, 2010, “Bodily Resurrection: The Falling Elevator Model Revisited”, in George Gasser (ed.), *Personal Identity and Resurrection: How Do We Survive Our Death?* Farnham, England: Ashgate Publishing, pp. 51–66.
 
 ## Academic Tools
 
@@ -269,4 +267,4 @@ The authors thank Meredith Varie and Samuel Benson for their assisting us in edi
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [William Hasker](http://www.huntington.edu/philosophy/#faculty)\
-Charles Taliaferro <[_taliafer@stolaf.edu_](mailto:taliafer%40stolaf%2eedu)>
+Charles Taliaferro <[*taliafer@stolaf.edu*](mailto:taliafer%40stolaf%2eedu)>

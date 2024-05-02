@@ -1,13 +1,12 @@
 # 塞缪尔·克拉克 Clarke, Samuel (Timothy Yenter and Ezio Vailati)
 
-_首次发表于 2003 年 4 月 5 日星期六；实质性修订于 2018 年 8 月 22 日星期三_
+*首次发表于 2003 年 4 月 5 日星期六；实质性修订于 2018 年 8 月 22 日星期三*
 
 塞缪尔·克拉克（1675-1729 年）是洛克和伯克利之间一代中最有影响力的英国形而上学家和神学家，只有沙夫茨伯里在伦理学上与他匹敌。在这三个领域，他对霍布斯、斯宾诺莎和托兰都持批判态度。克拉克深受牛顿影响，批判笛卡尔的空间和物体形而上学，因为有关牛顿学派空间、真空、原子和引力的实验证据，以及他认为笛卡尔将物体与延展等同，并将自然界中的目的论排除在外，进一步促成了不虔诚，并自然演变为斯宾诺主义。
 
 Clarke 在与 Descartes 相对立的 Locke 和 Newton 一边，否认我们对物质本质有所了解，尽管我们可以确定至少有两种物质（精神和物质），因为它们的属性（思维和可分割性）是不相容的。他捍卫自然宗教，反对自然主义观点认为自然构成了一个自给自足的系统，并捍卫启示宗教反对自然神论。Clarke 早期采纳了 Newton 的自然哲学。通过与 Newton 的交往，Clarke 在十八世纪上半叶成为了牛顿主义的_事实上_代言人，不仅解释自然科学，还为其提供了形而上学支持和神学解释。
 
-在接下来的内容中，我们使用“W”作为缩写，引用本杰明·霍德利（Benjamin Hoadly）遗作《_The Works_》中的段落。克拉克（Clarke）的主要作品有两个较新的版本更广泛地可获得，因此在这里也被引用：“D”指的是瓦拉蒂（Vailati，1998 年）所著《_上帝的存在和属性的证明及其他著作_》中的段落，“CC”指的是乌兹加利斯（Uzgalis，编辑，2011 年）所著《_塞缪尔·克拉克和安东尼·科林斯的通信_》中的段落。莱布尼茨-克拉克通信的参考资料（在许多印刷和在线版本中都有）包括以“L”代表莱布尼茨和“C”代表克拉克开头的信函和章节编号（例如，L 1.4 指的是莱布尼茨的第一封信，第四节）。
-
+在接下来的内容中，我们使用“W”作为缩写，引用本杰明·霍德利（Benjamin Hoadly）遗作《*The Works*》中的段落。克拉克（Clarke）的主要作品有两个较新的版本更广泛地可获得，因此在这里也被引用：“D”指的是瓦拉蒂（Vailati，1998 年）所著《*上帝的存在和属性的证明及其他著作*》中的段落，“CC”指的是乌兹加利斯（Uzgalis，编辑，2011 年）所著《*塞缪尔·克拉克和安东尼·科林斯的通信*》中的段落。莱布尼茨-克拉克通信的参考资料（在许多印刷和在线版本中都有）包括以“L”代表莱布尼茨和“C”代表克拉克开头的信函和章节编号（例如，L 1.4 指的是莱布尼茨的第一封信，第四节）。
 
 ***
 
@@ -67,7 +66,7 @@ Samuel Clarke 于 1675 年 10 月 11 日出生在英格兰诺里奇，父亲是 
 
 克拉克（Clarke）对自由意志的主要辩护涉及澄清意志与判断之间的关系。为了意志行动，一个人必须对该做什么有一个判断，并有选择的能力以符合那个判断。这种选择的能力是由意志提供的。意志不应被认同为理解的最后判断，也不是由判断引起的意愿。那些（如霍布斯）认为如此的人犯了基本的哲学错误。如果他们坚持评价命题的内容要么与意愿相同，要么引起它，那么他们就混淆了“道德动机”和“物理效能”，物理效能是提供积极力量的原因要素（D 73，W 2.565）。因为道德动机只是一个抽象对象（一个命题），而抽象对象在因果上是惰性的，道德动机不能引起任何事物。另一方面，如果克拉克的对手坚持认为，不是评价命题，而是一个人的感知、判断或其他相信它是原因（或部分原因）的话，那么他们就违反了一个基本的因果原则。克拉克反对笛卡尔，坚持认为判断，即，同意看起来是真实的事物并反对看起来是虚假的事物，并不是一种行动而是一种激情。但是被动的东西不能引起任何积极的东西。因此，评价和意愿之间没有因果联系，或者如克拉克所说，“赞同和行动”之间没有因果联系（D 126，W 4.714）。一般来说，之前的非意愿心理状态之间没有因果联系，所有这些状态都是被动的，也没有与任何意愿之间的因果联系（Vailati 1997，82-84）。
 
-Jonathan Edwards (1754, 222–223) 认为克拉克（Clarke）致力于意志的无限回归。因为每个意志都是主动的，所以它必须由某种主动的东西引起；但每个其他所谓的动机都是被动的，所以每个意志都是由先前的意志引起的，依此类推 _无穷无尽_。然而，克拉克并不认为每个意志都是由先前的意志引起的，而是每个意志都是由意志本身引起的。这引发了另一个问题，莱布尼茨（Leibniz）注意到了这一点：因为意志根据判断做出选择的条件与它选择不选择时完全相同，所以没有解释为什么它做出这样的选择而不是另一种选择，这违反了充分理由原则（L 4.1，W 4.612；L 5.14，W4.634）。克拉克从未对这一指控提供令人满意的回应；他最好的尝试是他声称否认这一说法将导致接受被动代理，这是一个矛盾。
+Jonathan Edwards (1754, 222–223) 认为克拉克（Clarke）致力于意志的无限回归。因为每个意志都是主动的，所以它必须由某种主动的东西引起；但每个其他所谓的动机都是被动的，所以每个意志都是由先前的意志引起的，依此类推 *无穷无尽*。然而，克拉克并不认为每个意志都是由先前的意志引起的，而是每个意志都是由意志本身引起的。这引发了另一个问题，莱布尼茨（Leibniz）注意到了这一点：因为意志根据判断做出选择的条件与它选择不选择时完全相同，所以没有解释为什么它做出这样的选择而不是另一种选择，这违反了充分理由原则（L 4.1，W 4.612；L 5.14，W4.634）。克拉克从未对这一指控提供令人满意的回应；他最好的尝试是他声称否认这一说法将导致接受被动代理，这是一个矛盾。
 
 神圣的自由为克拉克提出了新问题。首先，人类和神圣的自由可能与上帝对未来事件的知识存在紧张关系。克拉克反对神圣预知与自由意志不相容的说法，他反驳道，因为知识不会影响所知道的事物，我们的自由选择不受神圣全知的影响（D 75–78，W 2.566–568）。第二个问题是上帝总是做最好的事情，所以上帝不能克制根据自己对最好事情的判断而行动，因此是必然行动，克拉克认为这是一个矛盾（D 83–86，W 571–573）。克拉克可以再次依靠判断的被动性（或物理原因与道德理由之间的区别）来阻止上帝的判断决定上帝的选择的推论。因此，即使我们完全确信上帝总是做最好的事情，也不能推导出上帝做最好的事情是由上帝对该做什么的判断所决定的。这一回应嵌套在克拉克的官方回应中，即区分上帝的形而上学属性和道德属性。因为上帝的意志不是由上帝知道某个行动是最好的而确定的，我们确信上帝会做最好的事情是因为我们对“他意志的不变的正直”有信心，而不是由于他的本性的必然性（D 86–87，W 573）。换句话说，这是一种道德必要性，而不是一种形而上学必要性。第三个相关问题是，当上帝创造世界时，他做了最好的事情，但在创造世界的无限最佳方式中有无限多种选择，因为他可以将世界放置在任何空间，并且可以在任何时间创造它。因此，从上帝完美的判断力结合他无限的创造力来看，并不意味着上帝应该以特定方式创造世界。尽管这让莱布尼茨感到困扰，因为这与他对充分理由原则的阐述相冲突，但克拉克并未看到任何问题（C 4.18–20，W 4.626）。
 
@@ -79,13 +78,13 @@ Jonathan Edwards (1754, 222–223) 认为克拉克（Clarke）致力于意志的
 
 声称物质甚至没有一种偶然的自我运动能力，是克拉克试图展示牛顿世界中上帝明显活动的核心，并驳斥斯宾诺莎主义的（Schliesser 2012, 443–449） 。这一主张在当时是激进的，引发了许多回应。柯林斯在写给约翰·特伦查德的信中，对克拉克的论点感到愤怒和不感兴趣，这是越来越多自由思想家的常见反应（Jacob 1977; 20）。安德鲁·巴克斯特（1733 年，1750 年增补了重要附录）后来将克拉克针对自我运动的论点扩展到以太以及物质，当时以太理论作为对牛顿的解释和解释引力的假设变得流行。
 
-尽管克拉克坚持上帝在世界中持续活动，但严格来说，他并不是一位偶发论者。与偶发论者不同，克拉克并不声称上帝是有限心灵和物质之间相互作用的真正原因。此外，物质具有单一的“_负能量_”，可以保持静止或继续运动（W 2.697；温克勒 1989）。
+尽管克拉克坚持上帝在世界中持续活动，但严格来说，他并不是一位偶发论者。与偶发论者不同，克拉克并不声称上帝是有限心灵和物质之间相互作用的真正原因。此外，物质具有单一的“*负能量*”，可以保持静止或继续运动（W 2.697；温克勒 1989）。
 
 ### 3.4 灵魂
 
 作为对亨利·多德韦尔（Henry Dodwell）的论点的回应，即灵魂在受洗时才会被上帝赋予永生，克拉克写了一封公开信，捍卫灵魂的“自然”不朽性，理由是灵魂不可能是物质的，因为物质是可分割的，而可分割的东西不能成为意识统一的源泉。（他始终假设，如果灵魂是非物质的，那么它就是不朽的。）作为回应，自由思想家安东尼·科林斯（Anthony Collins）捍卫意识可以是物质的新兴属性的立场，为唯物主义心灵理论打开了大门。尽管他反对灵魂的自然死亡，克拉克认为上帝会毁灭所有未被接纳进入天堂的人的灵魂，因此并不存在永恒受苦的地狱，这或许可以解释为何称他为“死灵论者”（Wigelsworth 2009; 58ff）。克拉克明确支持以下观点：所有灵魂在肉体死亡后存活；灵魂在最后审判之前会处于（字面或比喻意义上的）沉睡状态；罪人的灵魂会在最后审判时被毁灭。（尤其参见 1706 年版的《义务》179-180 页；1709 年 10 月 11 日布道；惠斯顿（Whiston）1730 年，146 页；第 121 篇布道词，2.38-39 页；Snobelen 2004 年，275-284 页）。
 
-杰克·克拉克（Clarke）在宽泛地遵循洛克的区分的基础上，认为有三种属性：那些存在于物质中的属性（真实属性），那些通常但不正确地被认为存在于物质中的属性（次要品质），以及用来表达物质或系统的“_效应_”的“_纯抽象名称_”（CC 56-58）。第三类包括磁性和重力，这些属性适当地描述了不同的物质（在这种情况下是神圣活动而不是物质）。第二类是传统的次要品质；讨论的例子是玫瑰的气味。意识属于第一类，但与该类的其他成员（如大小和形状）不同，它不会分裂或求和。
+杰克·克拉克（Clarke）在宽泛地遵循洛克的区分的基础上，认为有三种属性：那些存在于物质中的属性（真实属性），那些通常但不正确地被认为存在于物质中的属性（次要品质），以及用来表达物质或系统的“*效应*”的“*纯抽象名称*”（CC 56-58）。第三类包括磁性和重力，这些属性适当地描述了不同的物质（在这种情况下是神圣活动而不是物质）。第二类是传统的次要品质；讨论的例子是玫瑰的气味。意识属于第一类，但与该类的其他成员（如大小和形状）不同，它不会分裂或求和。
 
 利用康德（1781 年，A351）著名地称为“阿喀琉斯论证”的方法，克拉克声称意识的基本统一与物质的可分割性和可组合性是不相容的，因为意识必须分布在各个组成部分之间，使每个部分都有意识。克拉克并没有清楚地说明意识的哪些方面需要这种统一（Rozemond 2003, 175–177）。正式来说，意识是一种自反的行为，我在其中认识到我的思想是属于我的，因此优先于记忆，尽管克拉克有时在他似乎指的是“记忆”时写下“意识”（Thiel 2011, 231）。
 
@@ -103,7 +102,7 @@ Jonathan Edwards (1754, 222–223) 认为克拉克（Clarke）致力于意志的
 
 克拉克（Clarke）非常重视设计论的论点，主要是因为它广泛易懂。然而，由于无神论哲学体系的兴起，他认为有必要提出一个能够满足他的同行形而上学家的论点，比如在他的第一套博义讲座中提出的以下论点。博义讲座，尤其是克拉克的讲座对于传播牛顿的观点至关重要。正如玛格丽特·雅各布（1977 年，2 页）所说，“没有这些布道，牛顿的世界体系可能会相对不为人知，甚至可能会被教育水平较高、有文化素养的英吉利海峡两岸的公众所恐惧，因为他们无法开始理解《自然哲学的数学原理》的数学复杂性。”
 
-克拉克告诉我们，他关于上帝的存在和属性的论证是通过“_部分是形而上学推理，部分是根据（主要是最近所做的）自然哲学的发现_”（W 2.581）完成的。他的论证，在克拉克时代被称为“_先验论证_”，占据了《上帝的存在和属性的论证》这本书的大部分内容，这是克拉克的首部博义讲座。 （请注意，克拉克对术语“_先验_”的使用与康德以来的标准不同。这个论证之所以是_先验_，并不是因为它独立于经验，而是因为它从原因的本质推论到效果的本质；这与_后验_论证相反，后者从效果（例如，世界的设计）推论到原因（例如，设计者）。）这个论证如今通常被分类为宇宙论的，但不应将其与卡拉姆宇宙论证混淆（后者的前提是世界有一个有限的历史）。克拉克的版本属于模态宇宙论证的传统，它运用充分理由原则，从一系列有因的原因推论到一个必然存在的存在。克拉克的“先验论证”的主要思路如下。
+克拉克告诉我们，他关于上帝的存在和属性的论证是通过“*部分是形而上学推理，部分是根据（主要是最近所做的）自然哲学的发现*”（W 2.581）完成的。他的论证，在克拉克时代被称为“*先验论证*”，占据了《上帝的存在和属性的论证》这本书的大部分内容，这是克拉克的首部博义讲座。 （请注意，克拉克对术语“*先验*”的使用与康德以来的标准不同。这个论证之所以是_先验_，并不是因为它独立于经验，而是因为它从原因的本质推论到效果的本质；这与_后验_论证相反，后者从效果（例如，世界的设计）推论到原因（例如，设计者）。）这个论证如今通常被分类为宇宙论的，但不应将其与卡拉姆宇宙论证混淆（后者的前提是世界有一个有限的历史）。克拉克的版本属于模态宇宙论证的传统，它运用充分理由原则，从一系列有因的原因推论到一个必然存在的存在。克拉克的“先验论证”的主要思路如下。
 
 现在有东西存在，所以过去一直有东西存在（D 8，W 2.524）。否则，现在什么都不会存在，因为不可能有东西是由虚无产生的。克拉克并没有明确承认“过去一直有东西存在”在更强的_de re_解读和更弱的_de dicto_解读之间存在歧义。因为到目前为止，更强的_de re_主张（这个特定的东西一直存在）似乎未被论证支持，而论证的下一步是要证明存在一个独立的存在，更有道理和更弱的_de dicto_主张（某种东西或另一种东西，也许是一系列不同的东西，一直存在）可以被假定。
 
@@ -111,7 +110,7 @@ Jonathan Edwards (1754, 222–223) 认为克拉克（Clarke）致力于意志的
 
 这个独立存在体是“自给自足的，即必然存在的”（D 12，W 2.527），他通过论证空间和时间不可想象不存在，而它们显然不是自给自足的，因此它们依赖的物质，上帝，也必然存在（D 13，W 2.527–528）。 （克拉克因为假设空间和时间是上帝的属性而不是论证而受到批评。）看起来，对于克拉克来说，“必然存在的存在”是一个其不存在是不可能的存在（要么因为它是一个独立存在体，要么因为它必然依赖于一个独立存在体），而“自给自足的存在体”是一个其不存在是不可能的存在，因为其存在的必然性可以在其本质中找到。然而，一旦区分了这两者，克拉克就容易受到批评，因为他无法排除存在两个自给自足的存在体的可能性（正如他在第七命题中尝试的那样），因为可能存在两个自给自足的存在体，尽管只需要一个自给自足的存在体来解释世界的存在（劳 1758，21）。安东尼·阿特基（1725，3–14）在通信中提出了这一异议的变体。他声称克拉克非法地从至少存在一个“必然存在的存在”推断出至多存在一个“自给自足的存在体”。克拉克得出结论说_只存在_一个自给自足的存在体，但他充其量只是表明我们不能_拥有_两个自给自足的存在体的概念。阿特基的异议涉及可想象与可能性的关系。克拉克的回应（阿特基 1725，17–19）是在这种情况下我们有清晰的概念，因此我们的概念可以指导我们认识事物的本质（在清晰概念的情况下，可想象蕴含可能性），但他并没有给出我们为什么应该认为我们的概念在这种情况下是清晰的任何理由。他否认我们对物质的本质，包括上帝的本质，有充分的概念，这一问题变得更加严重。 如果我们对任何物质（包括神灵）没有充分的概念，那么我们怎么能对上帝有清晰的概念呢？罗杰·诺斯曾经提出过类似的担忧，认为克拉克需要展示“自然事物与我们的观念相符”，但克拉克的回应并没有留存下来（NC 133）。
 
-如果成功，克拉克的论证 _先验_ 通过审视必然性的本质并假定世界的偶然性，确立了上帝的一切形而上学属性（独立性、永恒性、不变性、无限性、无所不在）。要达到上帝的个人和道德属性，就需要借助世界的进一步特征并进行 _后验_ 论证（D 38，W 2.543）。克拉克尝试了各种论证来证明上帝是一个行动者（也就是说，上帝不仅聪明而且具有以自由意志为基础的意志）。首先，世界的一个真实特征是其中有智能存在。智慧作为一种完美，必须在原因中至少与效果一样程度地存在（克拉克应用了充分理由原则的因果版本的一个例证）。因此，上帝必须是聪明的（D38–39，W 4.543）。其次，这种智慧可以从世界的秩序和美中得到证明，因此目的论论证也可以得出这个结论。第三，克拉克声称“没有自由的智慧……实际上（在任何权力、卓越或完美方面）根本不是智慧”，因此上帝必须是一个行动者。第四，提出一个没有自由的上帝（克拉克特别提到斯宾诺莎）是在提出一个矛盾，并未能解释世界中活动的源泉（D 46–47，W 4.548–549）。最后，必然论者（如斯宾诺莎）被迫否认一些（对克拉克来说）显而易见的观点，包括事物可以与它们现在的样子不同，宇宙中存在着最终原因，以及宇宙中有各种有限的事物（Yenter 2014）。
+如果成功，克拉克的论证 *先验* 通过审视必然性的本质并假定世界的偶然性，确立了上帝的一切形而上学属性（独立性、永恒性、不变性、无限性、无所不在）。要达到上帝的个人和道德属性，就需要借助世界的进一步特征并进行 *后验* 论证（D 38，W 2.543）。克拉克尝试了各种论证来证明上帝是一个行动者（也就是说，上帝不仅聪明而且具有以自由意志为基础的意志）。首先，世界的一个真实特征是其中有智能存在。智慧作为一种完美，必须在原因中至少与效果一样程度地存在（克拉克应用了充分理由原则的因果版本的一个例证）。因此，上帝必须是聪明的（D38–39，W 4.543）。其次，这种智慧可以从世界的秩序和美中得到证明，因此目的论论证也可以得出这个结论。第三，克拉克声称“没有自由的智慧……实际上（在任何权力、卓越或完美方面）根本不是智慧”，因此上帝必须是一个行动者。第四，提出一个没有自由的上帝（克拉克特别提到斯宾诺莎）是在提出一个矛盾，并未能解释世界中活动的源泉（D 46–47，W 4.548–549）。最后，必然论者（如斯宾诺莎）被迫否认一些（对克拉克来说）显而易见的观点，包括事物可以与它们现在的样子不同，宇宙中存在着最终原因，以及宇宙中有各种有限的事物（Yenter 2014）。
 
 有了上帝的智慧和能力，他勾勒出上帝的智慧、善良、公正和其他道德完美可以建立的方式。
 
@@ -121,11 +120,11 @@ Jonathan Edwards (1754, 222–223) 认为克拉克（Clarke）致力于意志的
 
 **上帝能够在任何时间、任何地点行动，因为他实质上存在于所有时间和所有地点**。拒绝这一点将意味着接受远距离行动，而克拉克和他的大多数同时代人一样，认为这是神秘的或不可能的（布朗，2016 年）。
 
-_上帝的实质存在意味着神学上帝永恒和无限的观点是错误的_。克拉克拒绝了上帝被实质上从空间和时间中移除的观点。神圣的永恒既涉及必然的存在又涉及无限的持续时间，然而，这与传统的永恒现在的概念（_nunc stans_）不能等同，根据这个概念，上帝存在于一个不变的永恒现在中，没有任何连续的持续时间。他认为这样的观点充其量是费解的，最坏的情况下是矛盾的（CC 107，W 3.794）。将连续的持续时间归因于上帝可能暗示着上帝像我们一样处于时间中，但与我们不同的是，上帝不会改变。然而，这并不是克拉克的观点。在与巴特勒的交流中，他澄清道，上帝在技术上不处于空间和时间中，因为上帝在时间的存在之前（在自然秩序中），而时间中的事物在本体上是时间存在之后的。此外，他将不同和连续的思想归因于上帝；否则上帝就无法“改变他的意愿，也无法多样化他的作为，也无法连续行动，也无法管理世界，实际上也无法有任何意愿或做任何事情的能力”（W 3.897）。因此，上帝在意志方面是不变的，只是他不改变主意。
+*上帝的实质存在意味着神学上帝永恒和无限的观点是错误的*。克拉克拒绝了上帝被实质上从空间和时间中移除的观点。神圣的永恒既涉及必然的存在又涉及无限的持续时间，然而，这与传统的永恒现在的概念（*nunc stans*）不能等同，根据这个概念，上帝存在于一个不变的永恒现在中，没有任何连续的持续时间。他认为这样的观点充其量是费解的，最坏的情况下是矛盾的（CC 107，W 3.794）。将连续的持续时间归因于上帝可能暗示着上帝像我们一样处于时间中，但与我们不同的是，上帝不会改变。然而，这并不是克拉克的观点。在与巴特勒的交流中，他澄清道，上帝在技术上不处于空间和时间中，因为上帝在时间的存在之前（在自然秩序中），而时间中的事物在本体上是时间存在之后的。此外，他将不同和连续的思想归因于上帝；否则上帝就无法“改变他的意愿，也无法多样化他的作为，也无法连续行动，也无法管理世界，实际上也无法有任何意愿或做任何事情的能力”（W 3.897）。因此，上帝在意志方面是不变的，只是他不改变主意。
 
-_上帝并非等同于空间或时间；尽管必要，但它们的存在依赖于上帝_。克拉克最早报告的哲学观念是在他阅读牛顿之前的几年，即上帝无法摧毁空间。18 世纪关于绝对空间的一个普遍担忧是，如果空间是无限的、必要的和不可摧毁的，那么要么上帝不是唯一的无限、必要和独立存在，要么上帝等同于空间，这两种情况在神学上都是非正统的。克拉克在《演示》，写给巴特勒的信件以及写给匿名作者的信件（几乎可以确定是丹尼尔·沃特兰）中的立场是，空间和时间是神圣的属性或特性，这种观点他可能在亨利·莫尔那里找到。因为它们依赖于唯一自恒存的存在，它们不是独立的存在。他告诉莱布尼茨，广大和永恒是上帝存在的“一个直接且必然的结果”，而没有提供任何进一步的论证或解释“结果”、“方式”、“属性”和“特性”之间的关系。许多人理解克拉克的意思是上帝实质上是有维度的。克拉克早期的批评家安东尼·柯林斯是这样理解他的。埃米莉·托马斯最近提供了强有力的证据，证明克拉克的观点在 1719 年后发生了变化；从那时起，克拉克小心地说广大和永恒是“存在方式”，而不是属性，存在方式可以归因于上帝和上帝的属性，而属性则不能归因于任何其他属性。例如，上帝是永恒的，上帝的智慧也是永恒的，但上帝的意志不是智慧的，因此智慧是一个属性，而永恒是一种存在方式。
+*上帝并非等同于空间或时间；尽管必要，但它们的存在依赖于上帝*。克拉克最早报告的哲学观念是在他阅读牛顿之前的几年，即上帝无法摧毁空间。18 世纪关于绝对空间的一个普遍担忧是，如果空间是无限的、必要的和不可摧毁的，那么要么上帝不是唯一的无限、必要和独立存在，要么上帝等同于空间，这两种情况在神学上都是非正统的。克拉克在《演示》，写给巴特勒的信件以及写给匿名作者的信件（几乎可以确定是丹尼尔·沃特兰）中的立场是，空间和时间是神圣的属性或特性，这种观点他可能在亨利·莫尔那里找到。因为它们依赖于唯一自恒存的存在，它们不是独立的存在。他告诉莱布尼茨，广大和永恒是上帝存在的“一个直接且必然的结果”，而没有提供任何进一步的论证或解释“结果”、“方式”、“属性”和“特性”之间的关系。许多人理解克拉克的意思是上帝实质上是有维度的。克拉克早期的批评家安东尼·柯林斯是这样理解他的。埃米莉·托马斯最近提供了强有力的证据，证明克拉克的观点在 1719 年后发生了变化；从那时起，克拉克小心地说广大和永恒是“存在方式”，而不是属性，存在方式可以归因于上帝和上帝的属性，而属性则不能归因于任何其他属性。例如，上帝是永恒的，上帝的智慧也是永恒的，但上帝的意志不是智慧的，因此智慧是一个属性，而永恒是一种存在方式。
 
-_上帝的广大和永恒与上帝的统一是一致的_。正如莱布尼茨和沃特兰所指出的，将上帝的广大与空间等同起来危及神圣存在的简单性，因为空间具有部分，尽管这些部分并非可分割的。这一反对意见虽然强有力，但并非新观点；贝尔在《百科全书》（条目“莱西普”G 注）中责备牛顿派，因为他们将空间与神圣的广大等同起来，以解决由于假设存在无限空间而产生的本体论问题，因为这会导致神圣的简单性的破坏和各种荒谬。此外，沃特兰指出，由于克拉克承认没有部分的事物可以成为意识的主体，上帝的广大也会破坏神圣的智慧和意识。克拉克提出了两点回应。首先，并非所有的延伸物都有部分。空间是延伸的，但（正如牛顿所声称的）它的“部分”无法移动，因此它们并非真正的部分。其次，克拉克声称空间延伸和时间延伸之间存在平等：因为空间延伸与时间上的“延伸”是兼容的，所以空间上的延伸也与“延伸”空间的简单性是兼容的。但是，如果承认空间和时间之间的平等，与其显示空间延伸对事物的简单性没有害处，因为时间上的延伸也没有，倒不如说这表明时间上的延伸对事物的简单性有害，因为空间上的延伸有害。
+*上帝的广大和永恒与上帝的统一是一致的*。正如莱布尼茨和沃特兰所指出的，将上帝的广大与空间等同起来危及神圣存在的简单性，因为空间具有部分，尽管这些部分并非可分割的。这一反对意见虽然强有力，但并非新观点；贝尔在《百科全书》（条目“莱西普”G 注）中责备牛顿派，因为他们将空间与神圣的广大等同起来，以解决由于假设存在无限空间而产生的本体论问题，因为这会导致神圣的简单性的破坏和各种荒谬。此外，沃特兰指出，由于克拉克承认没有部分的事物可以成为意识的主体，上帝的广大也会破坏神圣的智慧和意识。克拉克提出了两点回应。首先，并非所有的延伸物都有部分。空间是延伸的，但（正如牛顿所声称的）它的“部分”无法移动，因此它们并非真正的部分。其次，克拉克声称空间延伸和时间延伸之间存在平等：因为空间延伸与时间上的“延伸”是兼容的，所以空间上的延伸也与“延伸”空间的简单性是兼容的。但是，如果承认空间和时间之间的平等，与其显示空间延伸对事物的简单性没有害处，因为时间上的延伸也没有，倒不如说这表明时间上的延伸对事物的简单性有害，因为空间上的延伸有害。
 
 ### 4.3 三位一体观点
 
@@ -145,7 +144,7 @@ _上帝的广大和永恒与上帝的统一是一致的_。正如莱布尼茨和
 
 克拉克认为，奇迹只是从人类的角度看是奇迹，上帝在物质世界中积极而持续地运作，因为物质是完全被动的。由于上帝的智慧和善良是不变的，如果上帝选择在某个特定时期以不同的方式行动（例如，改变运动定律），那只是因为这样做总是正确的，并且是上帝从永恒中的计划的一部分。因为对上帝来说，为了对我们进行奇迹般的行动与对我们进行自然行动一样，都不需要更多的力量，所以两者都不比另一个“在_上帝_方面更自然或超自然”。从我们的角度看，上帝改变了事物的秩序；从上帝的角度看，一切都同样是上帝设计的一部分。因此，奇迹只是“关于_我们的概念_”的奇迹（C2.6–12，W 4.598–601）。在他的最后一封信中，克拉克进一步阐述了这一点，暗示我们之所以称太阳在天空中停止是奇迹，只是因为这是不寻常的；如果它总是在天空中的同一点，那就是自然的，它的运动就是奇迹的。同样，从地面上使一个死尸复活是奇迹的，但只是因为上帝通常不会那样行动（C5.107–109，W 4.693；C3.17，W 4.611–612）。不寻常是成为奇迹的必要条件但不是充分条件（C4.43，W 4.629–630），但克拉克从未提到还需要什么。
 
-莱布尼茨从多个角度攻击克拉克的立场。莱布尼茨的第一封信指责牛顿制造了一个需要调整才能运转的不完美机器，就像一只需要上发条的手表，但这并不适合一个完美的上帝。在牛顿的世界中，奇迹是必需的，“为了满足自然的需求”（L1.4，W 4.588）。克拉克回应说，手表和世界之间存在不相似之处。手表需要上发条，因为人类的钟表制造商只能组装零件并使其运动，而上帝既是力量和能力的创造者，也是保持者。在进攻中，克拉克指责那些否认上帝在世界中持续干预的人是在允许一个机械化的世界，一个“_唯物主义_和_命运_”的世界，在这样的世界中上帝根本不需要（C1.4，W 4.590）。作为回应，莱布尼茨提出了有趣的反对意见，即克拉克要么是用超自然来解释自然事物，这是荒谬的，要么上帝是自然的一部分（具体来说，是世界的灵魂）（L2.12，W 4.596；L4.110–11，W 4.666）。莱布尼茨还指责克拉克无法解释自然行动和超自然行动之间的区别。“但是（作者说），这是_规律_，它是_恒定_的，因此是_自然_的。我回答说；它不能是规律的，而不合理；也不能是自然的，除非可以通过生物的本性来解释”（L5.121，W 4.668–669）。规律性需要解释，而要成为自然的解释必须来自生物的本性。克拉克的观点是，物质完全被动，无法解释物质体之间相互作用所展现的规律性。而克拉克将这视为自然哲学为自然神学做出的最高贡献，莱布尼茨却认为这是未能展示出一个完全合乎被完美善神所创造的理性世界。
+莱布尼茨从多个角度攻击克拉克的立场。莱布尼茨的第一封信指责牛顿制造了一个需要调整才能运转的不完美机器，就像一只需要上发条的手表，但这并不适合一个完美的上帝。在牛顿的世界中，奇迹是必需的，“为了满足自然的需求”（L1.4，W 4.588）。克拉克回应说，手表和世界之间存在不相似之处。手表需要上发条，因为人类的钟表制造商只能组装零件并使其运动，而上帝既是力量和能力的创造者，也是保持者。在进攻中，克拉克指责那些否认上帝在世界中持续干预的人是在允许一个机械化的世界，一个“*唯物主义_和_命运*”的世界，在这样的世界中上帝根本不需要（C1.4，W 4.590）。作为回应，莱布尼茨提出了有趣的反对意见，即克拉克要么是用超自然来解释自然事物，这是荒谬的，要么上帝是自然的一部分（具体来说，是世界的灵魂）（L2.12，W 4.596；L4.110–11，W 4.666）。莱布尼茨还指责克拉克无法解释自然行动和超自然行动之间的区别。“但是（作者说），这是_规律_，它是_恒定_的，因此是_自然_的。我回答说；它不能是规律的，而不合理；也不能是自然的，除非可以通过生物的本性来解释”（L5.121，W 4.668–669）。规律性需要解释，而要成为自然的解释必须来自生物的本性。克拉克的观点是，物质完全被动，无法解释物质体之间相互作用所展现的规律性。而克拉克将这视为自然哲学为自然神学做出的最高贡献，莱布尼茨却认为这是未能展示出一个完全合乎被完美善神所创造的理性世界。
 
 ### 4.5 启示与四类自然神论
 
@@ -173,7 +172,7 @@ _上帝的广大和永恒与上帝的统一是一致的_。正如莱布尼茨和
 
 在澄清第（6）点时，克拉克（Clarke）补充说，因为上帝总是做公正善良的事，上帝的命令与永恒法相一致（W 2.637），并且因为上帝希望我们幸福善良，上帝促进整个创造物的善良和福祉，包括我们在内（W 2.640）。虽然法律先于奖励和惩罚的考虑（7），但上帝的公正确保了遵循法律的适当奖励和惩罚（W 2.641）。这些制裁在这一生中并不是普遍存在的，因此奖励和惩罚必须（至少部分地）在来世发生。此外，人类堕落使得未来制裁的前景成为适当行为的必要激励。上帝还可能确保我们出于最好的理由行事不会产生整体更糟糕的后果（Schneewind 1997, 317）。
 
-克拉克的理论在几个方面受到了严厉批评，特别是在(1)的含义和充分性上。他从未充分解释作为道德基础的人与人之间关系的本质。例如，他解释为什么“尊崇、崇拜、顺从和模仿上帝”是“合适”的理由是因为“_上帝_无限地优越于_人类_”(W 2.608)。如果无限的优越是指权力或存在，那么显然不是重点；如果这是道德关系的表达，那么这个论点是循环的。此外，“事物的本性和理性”中的必要性是不清楚的。是善必然不是恶吗？（这是琐碎且无益的。）是一件事物不能同时从一个角度是善，从另一个角度是恶吗？（在这种情况下，克拉克正在回应霍布斯或者也许是斯宾诺莎，但他没有提供一个实质性的替代方案。）是一切善都必然是善吗？（在这种情况下，他也许是在重申他反对神命令理论，但同样没有清楚地阐明他的替代方案。）还是其他什么？克拉克的立场并不清晰，但他似乎在不同时间肯定了这些解释中的每一个。另一个结构性问题是，克拉克在声称伦理真理是世界中独立于心灵的客体之间的关系，以及它们根植于理性本身的本质之间来回移动，显然没有区分这两种立场。相关的是，有一个解释性问题，即克拉克是否本体论上致力于存在于世界中任何事物都无法归纳的独立于心灵的价值观（Kelly 2002）。最后，即使这些关系存在，道德义务如何从这些关系中产生也不清楚。休谟（1739，3.1.1.3–7）以克拉克这类理论因“适宜性”的认知本身无法驱使意志而闻名。 然而，正如我们所看到的，克拉克否认评估会导致动机，尽管他明显认为评估为代理人提供了行动理由，最终导致意志。
+克拉克的理论在几个方面受到了严厉批评，特别是在(1)的含义和充分性上。他从未充分解释作为道德基础的人与人之间关系的本质。例如，他解释为什么“尊崇、崇拜、顺从和模仿上帝”是“合适”的理由是因为“*上帝_无限地优越于_人类*”(W 2.608)。如果无限的优越是指权力或存在，那么显然不是重点；如果这是道德关系的表达，那么这个论点是循环的。此外，“事物的本性和理性”中的必要性是不清楚的。是善必然不是恶吗？（这是琐碎且无益的。）是一件事物不能同时从一个角度是善，从另一个角度是恶吗？（在这种情况下，克拉克正在回应霍布斯或者也许是斯宾诺莎，但他没有提供一个实质性的替代方案。）是一切善都必然是善吗？（在这种情况下，他也许是在重申他反对神命令理论，但同样没有清楚地阐明他的替代方案。）还是其他什么？克拉克的立场并不清晰，但他似乎在不同时间肯定了这些解释中的每一个。另一个结构性问题是，克拉克在声称伦理真理是世界中独立于心灵的客体之间的关系，以及它们根植于理性本身的本质之间来回移动，显然没有区分这两种立场。相关的是，有一个解释性问题，即克拉克是否本体论上致力于存在于世界中任何事物都无法归纳的独立于心灵的价值观（Kelly 2002）。最后，即使这些关系存在，道德义务如何从这些关系中产生也不清楚。休谟（1739，3.1.1.3–7）以克拉克这类理论因“适宜性”的认知本身无法驱使意志而闻名。 然而，正如我们所看到的，克拉克否认评估会导致动机，尽管他明显认为评估为代理人提供了行动理由，最终导致意志。
 
 ## 6. 影响和接受
 
@@ -193,105 +192,105 @@ Clarke 深刻影响了十八世纪对神学和哲学交叉感兴趣的哲学家�
 
 ### Primary Literature
 
-| **W**       | Clarke, S., 1738, _The Works_, B. Hoadly (ed.), London; reprint New York: Garland Publishing Co, 2002.                                                                               |
+| **W**       | Clarke, S., 1738, *The Works*, B. Hoadly (ed.), London; reprint New York: Garland Publishing Co, 2002.                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **D**       | Clarke, S., 1705, _A Demonstration of the Being and Attributes of God And Other Writings_, E. Vailati (ed.), Cambridge: Cambridge University Press, 1998.                            |
-| **CC**      | Clarke, S., and Collins, A., 1707–1708, _The Correspondence of Samuel Clarke and Anthony Collins_, W. Uzgalis (ed.), Buffalo, NY: Broadview Press, 2011.                             |
-| **L**,**C** | Leibniz, G.W., and Clarke, S., 1715–1716, _The Leibniz–Clarke Correspondence_, H. G. Alexander (ed.), Manchester, UK: Machester University Press, 1956.                              |
-| **NC**      | North, R. and Clarke, S., 1704–1713, _Seeking Truth: Roger North’s Notes on Newton and Correspondence with Clarke, c. 1704–1713_, J. C. Kassler (ed.), Farnham: Ashgate Press, 2014. |
+| **D**       | Clarke, S., 1705, *A Demonstration of the Being and Attributes of God And Other Writings*, E. Vailati (ed.), Cambridge: Cambridge University Press, 1998.                            |
+| **CC**      | Clarke, S., and Collins, A., 1707–1708, *The Correspondence of Samuel Clarke and Anthony Collins*, W. Uzgalis (ed.), Buffalo, NY: Broadview Press, 2011.                             |
+| **L**,**C** | Leibniz, G.W., and Clarke, S., 1715–1716, *The Leibniz–Clarke Correspondence*, H. G. Alexander (ed.), Manchester, UK: Machester University Press, 1956.                              |
+| **NC**      | North, R. and Clarke, S., 1704–1713, *Seeking Truth: Roger North’s Notes on Newton and Correspondence with Clarke, c. 1704–1713*, J. C. Kassler (ed.), Farnham: Ashgate Press, 2014. |
 
 ### Secondary Literature
 
 #### Biography
 
-* Brewster, D., 1855, _Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton_, 2 vols, Edinburgh: Thomas Constable & Co. \[Second volume [available online](http://books.google.com/books?oe=UTF-8\&id=d1cLlLfr7HcC\&q).]
-* Ferguson, J. P., 1976, _An Eighteenth Century Heretic. Dr Samuel Clarke_, Kineton, UK: Roundwood Press.
-* Hoadly, B. (ed.), 1730, _Sermons on Several Subjects by Samuel Clarke, D.D._, London: W. Botham. \[[Available online](http://archive.org/details/historicalmemoir00whis).]
-* Stephen, L., 1881, “Clarke and Wollaston,” _A History of English Thought in the Eighteenth Century_, 2 vols., 2nd ed., London: Smith, Elder, & Co. \[[Available online](http://archive.org/details/thoughtintheeigh01stepuoft).]
-* Stephen, L., and Lee, S., (eds.), 1882, _Dictionary of National Biography_, London; reprinted by London: Oxford University Press, 1949–50, _sub voce_.
-* Sykes, A., 1729, “The Elogium of the late truly Learned, Reverend and Pious Samuel Clarke, D.D.,” W. Whiston (ed.), _Historical Memoirs of the Life of Dr. Samuel Clarke_, 3rd edition, London, 1748. \[[Available online](http://books.google.com/books?id=KMtbAAAAQAAJ).]
-* Whiston, W., 1728, _A Collection of Authentick Records_, London. \[[Available online](http://www.newtonproject.sussex.ac.uk/view/texts/normalized/OTHE00037).]
-* –––, 1730, _Historical Memoirs of the Life of Dr. Samuel Clarke_, London. \[[Available online](http://archive.org/details/historicalmemoir00whis).]
+* Brewster, D., 1855, *Memoirs of the Life, Writings, and Discoveries of Sir Isaac Newton*, 2 vols, Edinburgh: Thomas Constable & Co. \[Second volume [available online](http://books.google.com/books?oe=UTF-8\&id=d1cLlLfr7HcC\&q).]
+* Ferguson, J. P., 1976, *An Eighteenth Century Heretic. Dr Samuel Clarke*, Kineton, UK: Roundwood Press.
+* Hoadly, B. (ed.), 1730, *Sermons on Several Subjects by Samuel Clarke, D.D.*, London: W. Botham. \[[Available online](http://archive.org/details/historicalmemoir00whis).]
+* Stephen, L., 1881, “Clarke and Wollaston,” *A History of English Thought in the Eighteenth Century*, 2 vols., 2nd ed., London: Smith, Elder, & Co. \[[Available online](http://archive.org/details/thoughtintheeigh01stepuoft).]
+* Stephen, L., and Lee, S., (eds.), 1882, *Dictionary of National Biography*, London; reprinted by London: Oxford University Press, 1949–50, *sub voce*.
+* Sykes, A., 1729, “The Elogium of the late truly Learned, Reverend and Pious Samuel Clarke, D.D.,” W. Whiston (ed.), *Historical Memoirs of the Life of Dr. Samuel Clarke*, 3rd edition, London, 1748. \[[Available online](http://books.google.com/books?id=KMtbAAAAQAAJ).]
+* Whiston, W., 1728, *A Collection of Authentick Records*, London. \[[Available online](http://www.newtonproject.sussex.ac.uk/view/texts/normalized/OTHE00037).]
+* –––, 1730, *Historical Memoirs of the Life of Dr. Samuel Clarke*, London. \[[Available online](http://archive.org/details/historicalmemoir00whis).]
 
 #### Metaphysics and Correspondence
 
-* Attfield, R., 1977, “Clarke, Collins and Compounds,” _Journal of the History of Philosophy_, 15: 45–54.
-* Brown, G., 2004, “Leibniz’s Endgame and the Ladies of the Courts”, _Journal of the History of Ideas_, 65 (1): 75–100.
-* –––, 2016, “Did Samuel Clarke Really Disavow Action at a Distance in His Correspondence with Leibniz?: Newton, Clarke, and Bentley on Gravitation and Action at a Distance,” _Studies in History and Philosophy of Science_ 60: 38–47.
-* Garrett, A., 2013, “Mind and Matter”, _The Oxford Handbook of British Philosophy in the Eighteenth Century_, J. A. Harris (ed.), 171–193.
-* Greenberg, S., 2013, “Liberty and Necessity”, _The Oxford Handbook of British Philosophy in the Eighteenth Century_, J. A. Harris (ed.), 171–193.
-* Harris, J., 2005, _Of Liberty and Necessity: The Free Will Debate in Eighteenth-Century British Philosophy_, Oxford: Clarendon Press.
-* Janiak, A., 2007, “Newton and the Reality of Force,” _Journal of the History of Philosophy_, 45 (1): 127–147.
-* Khamara, E., 2006, _Space, Time, and Theology in the Leibniz-Newton Controversy_, Frankfurt: ontos verlag.
-* Koyré, A., and Cohen, I. B., “The Case of the Missing _Tanquam_: Leibniz, Newton & Clarke,” _Isis_ 52 (4): 555–566.
-* O’Higgins, J., (ed.), 1976, _Determinism and Freewill: Anthony Collins’ “A Philosophical Inquiry concerning Human Liberty”_, The Hague: M. Nijhoff.
-* Pfizenmaier, T. C., 1997, _The Trinitarian Theology of Dr. Samuel Clarke (1675–1729): Context, Sources, and Controversy_, Leiden: Brill.
-* Price, R., and Priestley, J., 1778, _A Free Discussion of the Doctrines of Materialism and Philosophical Necessity_, London: J. Johnson. \[[Available online](https://books.google.com/books?id=4EsuAAAAYAAJ).]
-* Rowe, W. L., 1971, “The Cosmological Argument”, _Noûs_, 5 (1): 49–61.
-* –––, 1973, _Philosophy of Religion_, New York: Harcourt Brace Jovanovich.
-* –––, 1975, _The Cosmological Argument_, Princeton: Princeton University Press.
-* –––, 1987, “Causality and Free Will in the Controversy Between Collins and Clarke,” _The Journal of the History of Philosophy_, 25: 51–67.
-* Rozemond, M., 2003, “Descartes, Mind-Body Union, and Holenmerism”, _Philosophical Topics_, 31 (1–2): 343–367.
-* –––, 2008, “The Achilles Argument and the Nature of Matter in the Clarke-Collins Correspondence,” _The Achilles of Rationalist Psychology_, T. Lennon & R. Stainton (eds.), 159–175.
-* –––, 2009, “Can Matter Think? The Mind-Body Problem in the Clarke-Collins Correspondence,” _Topics in Early Modern Philosophy of Mind_, J. Miller (ed.), 171–192.
-* Schliesser, E., 2012, “Newton and Spinoza: On Motion and Matter (And God, Of Course),” _The Southern Journal of Philosophy_, 50: 436–458.
-* Thiel, U., 2011, _The Early Modern Subject_, New York: Oxford University Press.
-* Thomas, E., 2018, _Absolute Time: Rifts in Early Modern British Metaphysics_, New York: Oxford University Press.
-* Tuggy, D., 2014, “Divine Deception and Monotheism”, _Journal of Analytic Theology_, 2: 186–209.
-* Vailati, E., 1993, “Clarke’s Extended Soul,”_Journal of the History of Philosophy_, 28: 213–28.
-* –––, 1997, _Leibniz and Clarke: A Study of their Correspondence_, New York: Oxford University Press.
-* Wigelsworth, J. R., 2009, _Deism in Enlightenment England: Theology, Politics, and Newtonian Public Science_, Manchester: Manchester University Press.
-* Yenter, T., 2014, “Clarke Against Spinoza on the Manifest Diversity of the World,” _British Journal for the History of Philosophy_, 22: 260–280.
+* Attfield, R., 1977, “Clarke, Collins and Compounds,” *Journal of the History of Philosophy*, 15: 45–54.
+* Brown, G., 2004, “Leibniz’s Endgame and the Ladies of the Courts”, *Journal of the History of Ideas*, 65 (1): 75–100.
+* –––, 2016, “Did Samuel Clarke Really Disavow Action at a Distance in His Correspondence with Leibniz?: Newton, Clarke, and Bentley on Gravitation and Action at a Distance,” *Studies in History and Philosophy of Science* 60: 38–47.
+* Garrett, A., 2013, “Mind and Matter”, *The Oxford Handbook of British Philosophy in the Eighteenth Century*, J. A. Harris (ed.), 171–193.
+* Greenberg, S., 2013, “Liberty and Necessity”, *The Oxford Handbook of British Philosophy in the Eighteenth Century*, J. A. Harris (ed.), 171–193.
+* Harris, J., 2005, *Of Liberty and Necessity: The Free Will Debate in Eighteenth-Century British Philosophy*, Oxford: Clarendon Press.
+* Janiak, A., 2007, “Newton and the Reality of Force,” *Journal of the History of Philosophy*, 45 (1): 127–147.
+* Khamara, E., 2006, *Space, Time, and Theology in the Leibniz-Newton Controversy*, Frankfurt: ontos verlag.
+* Koyré, A., and Cohen, I. B., “The Case of the Missing *Tanquam*: Leibniz, Newton & Clarke,” *Isis* 52 (4): 555–566.
+* O’Higgins, J., (ed.), 1976, *Determinism and Freewill: Anthony Collins’ “A Philosophical Inquiry concerning Human Liberty”*, The Hague: M. Nijhoff.
+* Pfizenmaier, T. C., 1997, *The Trinitarian Theology of Dr. Samuel Clarke (1675–1729): Context, Sources, and Controversy*, Leiden: Brill.
+* Price, R., and Priestley, J., 1778, *A Free Discussion of the Doctrines of Materialism and Philosophical Necessity*, London: J. Johnson. \[[Available online](https://books.google.com/books?id=4EsuAAAAYAAJ).]
+* Rowe, W. L., 1971, “The Cosmological Argument”, *Noûs*, 5 (1): 49–61.
+* –––, 1973, *Philosophy of Religion*, New York: Harcourt Brace Jovanovich.
+* –––, 1975, *The Cosmological Argument*, Princeton: Princeton University Press.
+* –––, 1987, “Causality and Free Will in the Controversy Between Collins and Clarke,” *The Journal of the History of Philosophy*, 25: 51–67.
+* Rozemond, M., 2003, “Descartes, Mind-Body Union, and Holenmerism”, *Philosophical Topics*, 31 (1–2): 343–367.
+* –––, 2008, “The Achilles Argument and the Nature of Matter in the Clarke-Collins Correspondence,” *The Achilles of Rationalist Psychology*, T. Lennon & R. Stainton (eds.), 159–175.
+* –––, 2009, “Can Matter Think? The Mind-Body Problem in the Clarke-Collins Correspondence,” *Topics in Early Modern Philosophy of Mind*, J. Miller (ed.), 171–192.
+* Schliesser, E., 2012, “Newton and Spinoza: On Motion and Matter (And God, Of Course),” *The Southern Journal of Philosophy*, 50: 436–458.
+* Thiel, U., 2011, *The Early Modern Subject*, New York: Oxford University Press.
+* Thomas, E., 2018, *Absolute Time: Rifts in Early Modern British Metaphysics*, New York: Oxford University Press.
+* Tuggy, D., 2014, “Divine Deception and Monotheism”, *Journal of Analytic Theology*, 2: 186–209.
+* Vailati, E., 1993, “Clarke’s Extended Soul,”*Journal of the History of Philosophy*, 28: 213–28.
+* –––, 1997, *Leibniz and Clarke: A Study of their Correspondence*, New York: Oxford University Press.
+* Wigelsworth, J. R., 2009, *Deism in Enlightenment England: Theology, Politics, and Newtonian Public Science*, Manchester: Manchester University Press.
+* Yenter, T., 2014, “Clarke Against Spinoza on the Manifest Diversity of the World,” *British Journal for the History of Philosophy*, 22: 260–280.
 
 #### Ethics, Religion, and the Boyle Lectures
 
-* Atkey, A., 1725, _Letters Written, in MDCCXXV, to the Rev. Dr. Samuel Clarke, relating to an argument advanced by the Doctor, in his Demonstration of the Being and Attributes of God, in proof of the Unity of the Deity: with the Doctor’s Answers_, London: Daniel Browne, 1745.
-* Dahm, J. J., 1970, “Science and Apologetics in the Early Boyle Lectures,” _Church History_, 39 (2): 172–186.
-* Force, J. E., 1984, “Hume and the Relation of Science to Religion among Certain Members of the Royal Society,” _Journal of the History of Ideas_, 45 (4): 517–536.
-* –––, 1996, “Samuel Clarke’s Four Categories of Deism, Isaac Newton, and the Bible,” _Scepticism in the History of Philosophy_, R. Popkin (ed.), Dordrecht: Kluwer, 53–74.
-* Jacob, M. C., 1976, _The Newtonians and the English Revolution: 1689–1720_, Ithaca, NY: Cornell University Press.
-* –––, 1977, “Newtonianism and the Origins of the Enlightenment: A Reassessment”, _Eighteenth Century Studies_, 11 (1): 1–25.
-* Kelly, E., 2002, “Moral Agency and Free Choice: Clarke’s Unlikely Success against Hume”, _Archiv fur Geschichte der Philosophie_, 84 (3): 297–318.
-* Khamara, E. J., 1992, “Hume Versus Clarke on the Cosmological Argument,” _The Philosophical Quarterly_, 42: 34–55.
-* Le Rossignol, J. E., 1892, _The Ethical Philosophy of Samuel Clarke_, Leipzig.
-* MacIntosh, J. J., 1997, “The Argument from the Need for Similar or ‘Higher’ Qualities: Cudworth, Locke, and Clarke on God’s Existence,” _Enlightenment and Dissent_, 16: 29–59.
-* Rowe, W. R., 1997, “Clarke and Leibniz on Divine Perfection and Freedom,” _Enlightenment and Dissent_, 16: 60–82.
-* Schneewind, J. B., 1997, _The Invention of Autonomy: A History of Modern Moral Philosophy_, New York: Cambridge University Press.
-* Sidgwick, H., 1886, _Outlines of the History of Ethics_, London: Macmillan and Co.
-* Snobelen, S., 2001, “‘God of Gods, and Lord of Lords:’ The Theology of Isaac Newton’s General Scholium to the _Principia_”, _Osiris_, 16: 169–208.
-* –––, 2004, “Socinianism and Newtonianism: The Case of Samuel Clarke”, _Fausto Sozzini e la Filosofia in Europa_, M. Priarolo and M. E. Scribano (eds.), Accademia Senese Degli Intronat.
-* Stewart, L., 1981, “Samuel Clarke, Newtonianism and the Factions of Post-Revolutionary England,” _Journal of the History of Ideas_, 42: 53–71.
-* –––, 1996, “Seeing through the Scholium: Religion and Reading Newton in the Eighteenth Century”, _History of Science_, 34 (2): 123–165.
-* Thomas, D. O., 1997, “Reason and Revelation in Samuel Clarke’s Epistemology of Morals,” _Enlightenment and Dissent_, 16: 114–135.
-* Zebrowski, M. K., 1997, “’Commanded of God, Because ‘tis Holy and Good’: The Christian Platonism and Natural Law of Samuel Clarke,” _Enlightenment and Dissent_, 16: 3–28.
+* Atkey, A., 1725, *Letters Written, in MDCCXXV, to the Rev. Dr. Samuel Clarke, relating to an argument advanced by the Doctor, in his Demonstration of the Being and Attributes of God, in proof of the Unity of the Deity: with the Doctor’s Answers*, London: Daniel Browne, 1745.
+* Dahm, J. J., 1970, “Science and Apologetics in the Early Boyle Lectures,” *Church History*, 39 (2): 172–186.
+* Force, J. E., 1984, “Hume and the Relation of Science to Religion among Certain Members of the Royal Society,” *Journal of the History of Ideas*, 45 (4): 517–536.
+* –––, 1996, “Samuel Clarke’s Four Categories of Deism, Isaac Newton, and the Bible,” *Scepticism in the History of Philosophy*, R. Popkin (ed.), Dordrecht: Kluwer, 53–74.
+* Jacob, M. C., 1976, *The Newtonians and the English Revolution: 1689–1720*, Ithaca, NY: Cornell University Press.
+* –––, 1977, “Newtonianism and the Origins of the Enlightenment: A Reassessment”, *Eighteenth Century Studies*, 11 (1): 1–25.
+* Kelly, E., 2002, “Moral Agency and Free Choice: Clarke’s Unlikely Success against Hume”, *Archiv fur Geschichte der Philosophie*, 84 (3): 297–318.
+* Khamara, E. J., 1992, “Hume Versus Clarke on the Cosmological Argument,” *The Philosophical Quarterly*, 42: 34–55.
+* Le Rossignol, J. E., 1892, *The Ethical Philosophy of Samuel Clarke*, Leipzig.
+* MacIntosh, J. J., 1997, “The Argument from the Need for Similar or ‘Higher’ Qualities: Cudworth, Locke, and Clarke on God’s Existence,” *Enlightenment and Dissent*, 16: 29–59.
+* Rowe, W. R., 1997, “Clarke and Leibniz on Divine Perfection and Freedom,” *Enlightenment and Dissent*, 16: 60–82.
+* Schneewind, J. B., 1997, *The Invention of Autonomy: A History of Modern Moral Philosophy*, New York: Cambridge University Press.
+* Sidgwick, H., 1886, *Outlines of the History of Ethics*, London: Macmillan and Co.
+* Snobelen, S., 2001, “‘God of Gods, and Lord of Lords:’ The Theology of Isaac Newton’s General Scholium to the *Principia*”, *Osiris*, 16: 169–208.
+* –––, 2004, “Socinianism and Newtonianism: The Case of Samuel Clarke”, *Fausto Sozzini e la Filosofia in Europa*, M. Priarolo and M. E. Scribano (eds.), Accademia Senese Degli Intronat.
+* Stewart, L., 1981, “Samuel Clarke, Newtonianism and the Factions of Post-Revolutionary England,” *Journal of the History of Ideas*, 42: 53–71.
+* –––, 1996, “Seeing through the Scholium: Religion and Reading Newton in the Eighteenth Century”, *History of Science*, 34 (2): 123–165.
+* Thomas, D. O., 1997, “Reason and Revelation in Samuel Clarke’s Epistemology of Morals,” *Enlightenment and Dissent*, 16: 114–135.
+* Zebrowski, M. K., 1997, “’Commanded of God, Because ‘tis Holy and Good’: The Christian Platonism and Natural Law of Samuel Clarke,” *Enlightenment and Dissent*, 16: 3–28.
 
 #### Influence and Reception
 
-* Attfield, R., 2004, “Rousseau, Clarke, Butler and Critiques of Deism,” _British Journal for the History of Philosophy_, 12 (3): 429–443.
-* Barresi, J., and Martin, R., 2004, _Naturalization of the Soul: Self and Personal Identity in the Eighteenth Century_, New York: Routledge.
-* Baxter, A., 1733, _An Enquiry into the Nature of the Human Soul_, London: James Bettenham.
-* Coleridge, S. T., 1854, “Notes on Waterland’s Vindication of Christ’s Divinity”, _The Complete Works of Samuel Taylor Coleridge_, volume 5, New York: Harper and Brothers Press.
-* Edwards, J., 1754, _Freedom of the Will_, P. Ramsey (ed.), New Haven, CT: Yale University Press, 1957. \[[Available online](http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9uYXZpZ2F0ZS5wbD93amVvLjA=)]
-* Ferguson, J. P., 1974, _The Philosophy of Dr Samuel Clarke and Its Critics_, New York: Vantage Press.
-* Flew, A., 1951, “Locke and the Problem of Personal Identity,” _Philosophy_, 26: 359–383.
-* Hume, D., 1739, _A Treatise of Human Nature_, London: John Noonan. \[[Available online](http://davidhume.org/texts/thn.html)]
-* –––, 1745, _A Letter from a Gentleman to His Friend in Edinburgh_, Edinburgh.
-* Kant, I., 1781/1787, _Critique of Pure Reason_, P. Guyer and A. W. Wood (eds.), Cambridge: Cambridge University Press, 1998.
-* Law, E., 1758, _Collected Works of Edmund Law_, 5 vols., V. Nuovo (ed.), Chippenham: Thoemmes, 1997.
-* Meli, D. B., 1999, “Caroline, Leibniz, and Clarke,” _Journal of the History of Ideas_, 60 (3): 469–486.
-* Newton, I., 1726, _The Principia: Mathematical Principles of Natural Philosophy_, I. B. Cohen and A. Whitman (trans. and eds.), Los Angeles: University of California Press, 1999.
-* Prior, A., 1957, “Opposite Number,” _Review of Metaphysics_, 11: 196–201.
-* Rousseau, J., 1762, _Emile or On Education_, A. Bloom (ed. and trans.), New York: Basic Books, 1997.
-* Russell, P., 1997, “Clarke’s ‘Almighty Space’ and Hume’s _Treatise_,” _Enlightenment and Dissent_, 16: 83–113.
-* –––, 2008, _The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion_, New York: Oxford University Press.
-* Stewart, J., 1754, “Some Remarks on the Laws of Motion, and the _Inertia_ of Matter,” _Essays and Observations, Physical and Literary_, Edinburgh: G. Hamilton and J. Balfour.
-* Thomas, E., 2017, “Creation, Divine Freedom, and Catherine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws”, _Women and Liberty, 1600–1800: Philosophical Essays_, J. Broad and K. Detlefsen (eds.), New York: Oxford University Press.
-* Tull Baker, J., 1932, “Space, Time, and God: A Chapter in Eighteenth Century English Philosophy,” _The Philosophical Review_, 41 (6): 577–593.
-* Voltaire, 1752, “Plato,” _Philosophical Dictionary_, W. F. Fleming (trans.), New York: E. R. Dumont, 1901.
-* Watts, I., 1733, _Philosophical Essays on Various Subjects_, 2nd edition, London: Richard Ford.
-* Williams, B., 1957, “Personal Identity and Individuation,” _Proceedings of the Aristotelian Society_, 57: 229–252.
-* Winkler, K., 1989, “Our Modern Metaphysicians,” _British Society for the History of Philosophy Newsletter_, 4: 35–40.
-* Yolton, J. W., 1983, _Thinking Matter: Materialism in Eighteenth-Century Britain_, Minneapolis: University of Minnesota Press.
+* Attfield, R., 2004, “Rousseau, Clarke, Butler and Critiques of Deism,” *British Journal for the History of Philosophy*, 12 (3): 429–443.
+* Barresi, J., and Martin, R., 2004, *Naturalization of the Soul: Self and Personal Identity in the Eighteenth Century*, New York: Routledge.
+* Baxter, A., 1733, *An Enquiry into the Nature of the Human Soul*, London: James Bettenham.
+* Coleridge, S. T., 1854, “Notes on Waterland’s Vindication of Christ’s Divinity”, *The Complete Works of Samuel Taylor Coleridge*, volume 5, New York: Harper and Brothers Press.
+* Edwards, J., 1754, *Freedom of the Will*, P. Ramsey (ed.), New Haven, CT: Yale University Press, 1957. \[[Available online](http://edwards.yale.edu/archive?path=aHR0cDovL2Vkd2FyZHMueWFsZS5lZHUvY2dpLWJpbi9uZXdwaGlsby9uYXZpZ2F0ZS5wbD93amVvLjA=)]
+* Ferguson, J. P., 1974, *The Philosophy of Dr Samuel Clarke and Its Critics*, New York: Vantage Press.
+* Flew, A., 1951, “Locke and the Problem of Personal Identity,” *Philosophy*, 26: 359–383.
+* Hume, D., 1739, *A Treatise of Human Nature*, London: John Noonan. \[[Available online](http://davidhume.org/texts/thn.html)]
+* –––, 1745, *A Letter from a Gentleman to His Friend in Edinburgh*, Edinburgh.
+* Kant, I., 1781/1787, *Critique of Pure Reason*, P. Guyer and A. W. Wood (eds.), Cambridge: Cambridge University Press, 1998.
+* Law, E., 1758, *Collected Works of Edmund Law*, 5 vols., V. Nuovo (ed.), Chippenham: Thoemmes, 1997.
+* Meli, D. B., 1999, “Caroline, Leibniz, and Clarke,” *Journal of the History of Ideas*, 60 (3): 469–486.
+* Newton, I., 1726, *The Principia: Mathematical Principles of Natural Philosophy*, I. B. Cohen and A. Whitman (trans. and eds.), Los Angeles: University of California Press, 1999.
+* Prior, A., 1957, “Opposite Number,” *Review of Metaphysics*, 11: 196–201.
+* Rousseau, J., 1762, *Emile or On Education*, A. Bloom (ed. and trans.), New York: Basic Books, 1997.
+* Russell, P., 1997, “Clarke’s ‘Almighty Space’ and Hume’s *Treatise*,” *Enlightenment and Dissent*, 16: 83–113.
+* –––, 2008, *The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion*, New York: Oxford University Press.
+* Stewart, J., 1754, “Some Remarks on the Laws of Motion, and the *Inertia* of Matter,” *Essays and Observations, Physical and Literary*, Edinburgh: G. Hamilton and J. Balfour.
+* Thomas, E., 2017, “Creation, Divine Freedom, and Catherine Cockburn: An Intellectualist on Possible Worlds and Contingent Laws”, *Women and Liberty, 1600–1800: Philosophical Essays*, J. Broad and K. Detlefsen (eds.), New York: Oxford University Press.
+* Tull Baker, J., 1932, “Space, Time, and God: A Chapter in Eighteenth Century English Philosophy,” *The Philosophical Review*, 41 (6): 577–593.
+* Voltaire, 1752, “Plato,” *Philosophical Dictionary*, W. F. Fleming (trans.), New York: E. R. Dumont, 1901.
+* Watts, I., 1733, *Philosophical Essays on Various Subjects*, 2nd edition, London: Richard Ford.
+* Williams, B., 1957, “Personal Identity and Individuation,” *Proceedings of the Aristotelian Society*, 57: 229–252.
+* Winkler, K., 1989, “Our Modern Metaphysicians,” *British Society for the History of Philosophy Newsletter*, 4: 35–40.
+* Yolton, J. W., 1983, *Thinking Matter: Materialism in Eighteenth-Century Britain*, Minneapolis: University of Minnesota Press.
 
 ## Academic Tools
 
@@ -303,9 +302,9 @@ Clarke 深刻影响了十八世纪对神学和哲学交叉感兴趣的哲学家�
 
 ## Other Internet Resources
 
-* Google Books has digitized versions of [Volume 2](http://books.google.com/books?id=1qE-AAAAcAAJ\&dq) (including the _Demonstration_) and [Volume 4](http://books.google.com/books?id=T8FIAAAAcAAJ\&dq) (including the correspondence with Leibniz) of the definitive 1738 edition of the _Works_, edited by Hoadly.
+* Google Books has digitized versions of [Volume 2](http://books.google.com/books?id=1qE-AAAAcAAJ\&dq) (including the *Demonstration*) and [Volume 4](http://books.google.com/books?id=T8FIAAAAcAAJ\&dq) (including the correspondence with Leibniz) of the definitive 1738 edition of the *Works*, edited by Hoadly.
 * The Internet Archive has many digitized editions of various [works by Clarke](http://archive.org/search.php?query=Creator%3AClarke%2C+Samuel%2C+1675-1729) and his contemporaries.
-* [Samuel Clarke](http://www.earlymoderntexts.com/authors/clarke) in the [Early Modern Philosophy Texts](http://www.earlymoderntexts.com/), prepared by Jonathan Bennett and Peter Millican, contains the texts of _A Demonstration of the Being and Attributes of God_, the correspondence with Butler, and the correspondence with Leibniz, in heavily edited versions prepared for students.
+* [Samuel Clarke](http://www.earlymoderntexts.com/authors/clarke) in the [Early Modern Philosophy Texts](http://www.earlymoderntexts.com/), prepared by Jonathan Bennett and Peter Millican, contains the texts of *A Demonstration of the Being and Attributes of God*, the correspondence with Butler, and the correspondence with Leibniz, in heavily edited versions prepared for students.
 * [Samuel Clarke](http://galileo.rice.edu/Catalog/NewFiles/clarke.html), catalog of the Galileo Project, maintained by Albert Van Helden.
 
 ## Related Entries
@@ -313,5 +312,5 @@ Clarke 深刻影响了十八世纪对神学和哲学交叉感兴趣的哲学家�
 [Collins, Anthony](https://plato.stanford.edu/entries/collins/) | [cosmological argument](https://plato.stanford.edu/entries/cosmological-argument/) | [freedom: divine](https://plato.stanford.edu/entries/divine-freedom/) | [free will](https://plato.stanford.edu/entries/freewill/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [Hobbes, Thomas](https://plato.stanford.edu/entries/hobbes/) | [Hume, David: on free will](https://plato.stanford.edu/entries/hume-freewill/) | [Hume, David: on religion](https://plato.stanford.edu/entries/hume-religion/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [Locke, John](https://plato.stanford.edu/entries/locke/) | [miracles](https://plato.stanford.edu/entries/miracles/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [Newton, Isaac](https://plato.stanford.edu/entries/newton/) | [Newton, Isaac: philosophy](https://plato.stanford.edu/entries/newton-philosophy/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/) | [principle of sufficient reason](https://plato.stanford.edu/entries/sufficient-reason/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [trinity](https://plato.stanford.edu/entries/trinity/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Timothy Yenter](http://philosophy.olemiss.edu/timothy-yenter/) <[_tpyenter@olemiss.edu_](mailto:tpyenter%40olemiss%2eedu)>\
+[Timothy Yenter](http://philosophy.olemiss.edu/timothy-yenter/) <[*tpyenter@olemiss.edu*](mailto:tpyenter%40olemiss%2eedu)>\
 [Ezio Vailati](http://www.siue.edu/\~evailat/)

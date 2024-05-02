@@ -14,7 +14,6 @@
 
 本条目的第一部分专门讨论了经典实用主义者的独特方法，以及它们如何产生一种原创的后验认识论。之后，我们将简要探讨实用主义在哲学的许多其他领域中所做出的丰富贡献。
 
- 
 ---
 
 ## 1. 实用主义的意义：詹姆斯
@@ -214,7 +213,6 @@
 
 结果是一种“以问题为中心的教学法”，它以实用主义认识论作为其结构的研究方法。教师首先促进与某些现象的接触，这些现象对学生来说确实令人困惑，然后引导他们进行一系列的研究，以解决问题并使所有人满意（如果一切顺利的话）。这个研究过程包括以下几个阶段：阐明问题和可能需要回答的问题，收集数据，提出可能解决问题的假设，以及测试或评估这些假设。将课堂开放给这种“活跃”的思考会产生不可预测性，对教师来说可能是具有挑战性的，但如果能够成功地应对问题的不确定性，回报将是学生不仅学会了如何知道，还学会了如何思考。在这方面，杜威声称他关于教育的著作总结了他的整个哲学立场（Hildebrand 2008: 124）。对杜威来说，所有哲学都是教育哲学。
 
-
 ## Bibliography
 
 As well as identifying some of the primary texts of pragmatism and listing works referred to in the article, the bibliography also contains some books which can be studied to supplement the current article.
@@ -235,7 +233,7 @@ For both Peirce and Dewey, references are given to collections of their writings
 * –––, 1976. *New Elements of Mathematics* ed. Eisele, C. (Peirce’s writings on mathematics and related topics: four volumes in five books), The Hague: Mouton, Humanities Press (reprinted in 2011 by De Gruyter).
 * –––, 1931–1958. *Collected Papers, vol. 1–7* ed. Hartshorne, C., and Weiss, P., vol 8 ed. Burks, A.. Cambridge, Mass.: Harvard University Press. (References to Peirce’s writings in this collection take the form **CP***n*.*m*—to paragraph *m* of volume *n*)
 
-### Collections of Papers by Classic and Contemporary Pragmatists.
+### Collections of Papers by Classic and Contemporary Pragmatists
 
 * Goodman, R. (ed.), 1995. *Pragmatism*, London: Routledge.
 * ––– (ed.), 2005. *Pragmatism: Critical Concepts in Philosophy* (four volumes covering: volume one: Pragmatism’s first decade; volume two: metaphysics and epistemology; volume three: moral and political issues; volume four: neopragmatism and aesthetics). London: Routledge.

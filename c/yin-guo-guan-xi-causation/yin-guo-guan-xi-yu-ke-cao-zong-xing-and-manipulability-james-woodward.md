@@ -1,10 +1,8 @@
 # 因果关系与可操纵性 and manipulability (James Woodward)
 
-_首次发表于 2001 年 8 月 17 日星期五；实质性修订于 2023 年 5 月 6 日星期六_
+*首次发表于 2001 年 8 月 17 日星期五；实质性修订于 2023 年 5 月 6 日星期六*
 
 可操纵性理论认为，因果关系应被视为操纵效应的手柄或装置，具有相当大的直观吸引力，并且在许多科学家和统计学家中很受欢迎。本文调查了哲学家提倡的几种著名版本的这种理论，以及它们面临的许多困难。直到最近，操纵主义方法的哲学表述通常具有还原主义的抱负，并赋予人类行为中心地位。这与最近更广泛地使用操纵主义框架来理解因果关系的讨论形成对比，例如计算机科学家朱迪亚·珀尔（Judea Pearl）等人的观点，这些观点是非还原主义的，而是依赖于干预的概念。这只是一个适当外生的因果过程；它与人类行为没有必要联系。这种干预主义框架设法避免了传统哲学版本的可操纵性理论所面临的一些困难，并有助于澄清因果断言的内容。
-
-
 
 ***
 
@@ -12,7 +10,7 @@ _首次发表于 2001 年 8 月 17 日星期五；实质性修订于 2023 年 5 
 
 关于因果关系的一个常识性观念是，因果关系是可以用于目的的操纵和控制的关系：非常粗略地说，如果 C 确实是 E 的原因，那么如果我可以以正确的方式操纵 C，这应该是操纵或改变 E 的一种方式。这个观念是由哲学家如 Gasking（1955）、Collingwood（1940）、von Wright（1971）、Menzies 和 Price（1993）以及 Woodward（2003）发展的因果关系可操纵性理论的基石。这也是许多非哲学家提倡的观念。例如，在他们极具影响力的关于实验设计的文本中（1979 年），Cook 和 Campbell 写道：
 
-> _因果关系中的典范断言是，操纵原因将导致影响的操纵。_ … 因果关系意味着通过改变一个因素，我可以使另一个因素变化。（Cook & Campbell 1979: 36，原文强调）
+> *因果关系中的典范断言是，操纵原因将导致影响的操纵。* … 因果关系意味着通过改变一个因素，我可以使另一个因素变化。（Cook & Campbell 1979: 36，原文强调）
 
 类似的想法在计量经济学和所谓的结构方程或因果建模文献中很常见，并且最近在计算机科学家朱迪亚·珀尔(Judea Pearl)的一本非常有影响力的著作中得到了有力的重申(珀尔 2009)。
 
@@ -28,7 +26,7 @@ _首次发表于 2001 年 8 月 17 日星期五；实质性修订于 2023 年 5 
 
 一种摆脱这些问题的方法是遵循 Pearl 和其他人的做法，用干预的概念重新阐述可操纵性方法，其中干预被纯粹因果术语所描述，不必要参考人类行为。一些人类行为将符合干预的条件，但这是基于它们的因果特征，而不是因为它们是自由的或由人类执行的。这种“干预主义”重新阐述使得可操纵性理论能够避免更传统版本理论中的一些反例。此外，当进行这种重新阐述时，可以辩称该理论可以轻松扩展以捕捉在人类操纵不可能的情境中的因果主张。然而，这种重新阐述的代价是我们失去了将因果主张归纳为非因果主张的可能性。幸运的是（或者正如§§[7](https://plato.stanford.edu/entries/causation-mani/#PlurCausConc)和[8](https://plato.stanford.edu/entries/causation-mani/#InteDoNotInvoHumaActi)所主张的那样），干预主义理论的重新阐述可能是非平凡且启发性的，即使不是还原的。
 
-## 2. 代理理论。
+## 2. 代理理论
 
 一个相对早期且具有影响力的可操纵性理论的声明，赋予人类代理的中心作用，归因于冯·赖特（1971 年；参见[代理理论的早期版本](https://plato.stanford.edu/entries/causation-mani/early-agency.html)进行进一步讨论）。然而，本条目将重点关注由彼得·门兹斯和休·普莱斯（1993 年）发展的较新版本（普莱斯独自撰写的一系列论文中也有讨论\[1991 年，1992 年，以及最近的 2017 年，主张可操纵性理论的代理版本与非代理版本之间的对比并不像下文所暗示的那样明显）。门兹斯和普莱斯的基本论点是：
 
@@ -237,7 +235,7 @@ YZ=aX+cZ=bX
 
 针对[M1–M4](https://plato.stanford.edu/entries/causation-mani/#exM1\4)以及受可能性约束的干预主义概念的两个更为近期的批评是 Reutlinger 2012 和 Glynn 2013。这些内容在附加文件[干预主义观点的其他近期批评](https://plato.stanford.edu/entries/causation-mani/additional-criticisms.html)中讨论。
 
-## 14. 一些近期积极发展。
+## 14. 一些近期积极发展
 
 上面的材料主要关注使用干预主义或基于可操纵性的观念来解释因果主张，很少关注这些观念在因果推断中的运用——即从实验和非实验数据推断因果关系。后者本身是一个重要课题。粗略地说，如果将因果主张看作是关于可能操纵或实验结果的主张，那么这表明了从非实验数据中概念化因果推断问题的独特方式：这些问题可以被概念化为从这些数据（和其他假设）中推断出可能实验的结果，而无需进行所讨论的实验。这种观点可以用来激励或合理化使用诸如工具变量或回归断点设计等程序的应用，例如参见 Angrist 和 Pischke 2009 年对这些观念的计量经济学应用。
 
@@ -246,67 +244,67 @@ YZ=aX+cZ=bX
 ## Bibliography
 
 * Angrist, Joshua D. and Jörn-Steffen Pischke, 2009, “Mostly Harmless Econometrics”, Princeton: Princeton University Press.
-* Butterfield, Jeremy, 1992, “David Lewis Meets John Bell”, _Philosophy of Science_, 59(1): 26–43. doi:10.1086/289652
-* Briggs, Rachel, 2012, “Interventionist Counterfactuals”, _Philosophical Studies_, 160(1): 139–166. doi:10.1007/s11098-012-9908-5
-* Cartwright, Nancy, 2001, “Modularity: It Can—and Generally Does—Fail”, in Maria Carla Galavotti, Patrick Suppes, and Domenico Constantini (eds.) _Stochastic Causality_, Stanford: CSLI Publications.
-* –––, 2002, “Against Modularity, the Causal Markov Condition, and Any Link Between the Two: Comments on Hausman and Woodward”, _British Journal for the Philosophy of Science_, 53(3): 411–53. doi:10.1093/bjps/53.3.411
-* –––, 2003, “Two Theorems on Invariance and Causality”, _Philosophy of Science_, 70(1): 203–24. doi:10.1086/367876
-* Collingwood, R.G., 1940, _An Essay on Metaphysics_, Oxford: Clarendon Press.
-* Cook, Thomas D. and Donald T. Campbell, 1979, _Quasi-Experimentation: Design and Analysis Issues for Field Settings_, Boston: Houghton Miflin Company.
-* Dowe, Phil, 2000, _Physical Causation_, Cambridge: Cambridge University Press.
-* Eberhardt, Frederick, 2007, _Causation and Intervention_, (Ph.D. Thesis), Carnegie Mellon University. \[[Eberhardt 2007 available online](http://people.hss.caltech.edu/\~fde/papers/PhDthesis.pdf)]
-* Eberhardt, Frederick and Richard Scheines, 2007, “Interventions and Causal Inference”, _Philosophy of Science_, 74(5): 981–995. doi:10.1086/525638
-* Fine, Kit, 2012, “Counterfactuals Without Possible Worlds”, _Journal of Philosophy_, 109(3): 221–246. doi:10.5840/jphil201210938
-* Frisch, Mathias, 2014, _Causal Reasoning in Physics_, Cambridge: Cambridge University Press.
-* Gasking, Douglas, 1955, “Causation and Recipes”, _Mind_, 64(256): 479–487.
-* Glymour, Clark and Frank Wimberly, 2007, “Actual Causation and Thought Experiments”, in Joseph Keim Campbell, Michael O’Rourke, and Harry S. Silverstein (eds.) _Causation and Explanation_, Cambridge, MA: MIT Press, pp 43–67.
-* Glynn, Luke, 2013, “Of Miracles and Interventions”, _Erkenntnis_, 78 (Supplement 1): 43–64. doi:10.1007/s10670-013-9436-5
-* Haavelmo, Trygve, 1944, “The Probability Approach in Econometrics”, _Econometrica_, 12 (Supplement), pp. iii–vi, 1–115. doi:10.2307/1906935
-* Hall, Ned, 2000, “Causation and the Price of Transitivity”, _The Journal of Philosophy_, 97(4): 198–222. doi:10.2307/2678390
-* Hall, Ned, 2007, “Structural Equations and Causation”, _Philosophical Studies_, 132(1): 109–136.
-* Halpern, Joseph Y., 2016, _Actual Causality_, Cambridge, MA: MIT Press.
-* Halpern, Joseph Y. and Christopher Hitchcock, 2015, “Graded Causation and Defaults”, _British Journal for the Philosophy of Science_, 66(2): pp. 413–457. doi:10.1093/bjps/axt050
-* Halpern, Joseph Y. and Judea Pearl, 2005a, “Causes and Explanations: A Structural Model Approach; Part I: Causes”, _British Journal for the Philosophy of Science_, 56(4): 843–87. doi:10.1093/bjps/axi147
-* –––, 2005b, “Causes and Explanations: A Structural Model Approach; Part II: Explanations”, _British Journal for the Philosophy of Science_, 56(4): 889–911. doi:10.1093/bjps/axi148
-* Hausman, Daniel M., 1986, “Causation and Experimentation”, _American Philosophical Quarterly_, 23(2): 143–54
-* –––, 1998, _Causal Asymmetries_, Cambridge: Cambridge University Press.
-* Hernan, Miguel and Taubman, Sarah, 2008, “Does Obesity Shorten Life? The Importance of Well-defined Interventions to Answer Causal Questions ”, _International Journal of Obesity_, 32 (Supplement 3): S8–14.
-* Hiddleston, Eric, 2005, Review of _Making Things Happen_ (Woodward 2003), _Philosophical Review_, 114(4): 545–47. doi:10.1215/00318108-114-4-545
-* Hitchcock, Christopher, 2001a, “The Intransitivity of Causation Revealed in Equations and Graphs”, _The Journal of Philosophy_, 98(6): 273–99. doi:10.2307/2678432
-* –––, 2001b, “A Tale of Two Effects”, _Philosophical Review_, 110(3): 361–96. doi:10.1215/00318108-110-3-361
-* –––, 2007a, “Prevention, Preemption, and the Principle of Sufficient Reason”, _Philosophical Review_, 116(4): 495–532. doi:10.1215/00318108-2007-012
+* Butterfield, Jeremy, 1992, “David Lewis Meets John Bell”, *Philosophy of Science*, 59(1): 26–43. doi:10.1086/289652
+* Briggs, Rachel, 2012, “Interventionist Counterfactuals”, *Philosophical Studies*, 160(1): 139–166. doi:10.1007/s11098-012-9908-5
+* Cartwright, Nancy, 2001, “Modularity: It Can—and Generally Does—Fail”, in Maria Carla Galavotti, Patrick Suppes, and Domenico Constantini (eds.) *Stochastic Causality*, Stanford: CSLI Publications.
+* –––, 2002, “Against Modularity, the Causal Markov Condition, and Any Link Between the Two: Comments on Hausman and Woodward”, *British Journal for the Philosophy of Science*, 53(3): 411–53. doi:10.1093/bjps/53.3.411
+* –––, 2003, “Two Theorems on Invariance and Causality”, *Philosophy of Science*, 70(1): 203–24. doi:10.1086/367876
+* Collingwood, R.G., 1940, *An Essay on Metaphysics*, Oxford: Clarendon Press.
+* Cook, Thomas D. and Donald T. Campbell, 1979, *Quasi-Experimentation: Design and Analysis Issues for Field Settings*, Boston: Houghton Miflin Company.
+* Dowe, Phil, 2000, *Physical Causation*, Cambridge: Cambridge University Press.
+* Eberhardt, Frederick, 2007, *Causation and Intervention*, (Ph.D. Thesis), Carnegie Mellon University. \[[Eberhardt 2007 available online](http://people.hss.caltech.edu/\~fde/papers/PhDthesis.pdf)]
+* Eberhardt, Frederick and Richard Scheines, 2007, “Interventions and Causal Inference”, *Philosophy of Science*, 74(5): 981–995. doi:10.1086/525638
+* Fine, Kit, 2012, “Counterfactuals Without Possible Worlds”, *Journal of Philosophy*, 109(3): 221–246. doi:10.5840/jphil201210938
+* Frisch, Mathias, 2014, *Causal Reasoning in Physics*, Cambridge: Cambridge University Press.
+* Gasking, Douglas, 1955, “Causation and Recipes”, *Mind*, 64(256): 479–487.
+* Glymour, Clark and Frank Wimberly, 2007, “Actual Causation and Thought Experiments”, in Joseph Keim Campbell, Michael O’Rourke, and Harry S. Silverstein (eds.) *Causation and Explanation*, Cambridge, MA: MIT Press, pp 43–67.
+* Glynn, Luke, 2013, “Of Miracles and Interventions”, *Erkenntnis*, 78 (Supplement 1): 43–64. doi:10.1007/s10670-013-9436-5
+* Haavelmo, Trygve, 1944, “The Probability Approach in Econometrics”, *Econometrica*, 12 (Supplement), pp. iii–vi, 1–115. doi:10.2307/1906935
+* Hall, Ned, 2000, “Causation and the Price of Transitivity”, *The Journal of Philosophy*, 97(4): 198–222. doi:10.2307/2678390
+* Hall, Ned, 2007, “Structural Equations and Causation”, *Philosophical Studies*, 132(1): 109–136.
+* Halpern, Joseph Y., 2016, *Actual Causality*, Cambridge, MA: MIT Press.
+* Halpern, Joseph Y. and Christopher Hitchcock, 2015, “Graded Causation and Defaults”, *British Journal for the Philosophy of Science*, 66(2): pp. 413–457. doi:10.1093/bjps/axt050
+* Halpern, Joseph Y. and Judea Pearl, 2005a, “Causes and Explanations: A Structural Model Approach; Part I: Causes”, *British Journal for the Philosophy of Science*, 56(4): 843–87. doi:10.1093/bjps/axi147
+* –––, 2005b, “Causes and Explanations: A Structural Model Approach; Part II: Explanations”, *British Journal for the Philosophy of Science*, 56(4): 889–911. doi:10.1093/bjps/axi148
+* Hausman, Daniel M., 1986, “Causation and Experimentation”, *American Philosophical Quarterly*, 23(2): 143–54
+* –––, 1998, *Causal Asymmetries*, Cambridge: Cambridge University Press.
+* Hernan, Miguel and Taubman, Sarah, 2008, “Does Obesity Shorten Life? The Importance of Well-defined Interventions to Answer Causal Questions ”, *International Journal of Obesity*, 32 (Supplement 3): S8–14.
+* Hiddleston, Eric, 2005, Review of *Making Things Happen* (Woodward 2003), *Philosophical Review*, 114(4): 545–47. doi:10.1215/00318108-114-4-545
+* Hitchcock, Christopher, 2001a, “The Intransitivity of Causation Revealed in Equations and Graphs”, *The Journal of Philosophy*, 98(6): 273–99. doi:10.2307/2678432
+* –––, 2001b, “A Tale of Two Effects”, *Philosophical Review*, 110(3): 361–96. doi:10.1215/00318108-110-3-361
+* –––, 2007a, “Prevention, Preemption, and the Principle of Sufficient Reason”, *Philosophical Review*, 116(4): 495–532. doi:10.1215/00318108-2007-012
 * –––, 2007b, “What Russell Got Right”, in Price and Corry 2007: 45–65.
-* Hitchcock, Christopher and James Woodward, 2003, “Explanatory Generalizations, Part II: Plumbing Explanatory Depth”, _Nôus_, 37(2): 181–99. doi:10.1111/1468-0068.00435
-* Holland, Paul W., 1986, “Statistics and Causal Inference”, _Journal of the American Statistical Association_, 81(396): 945–960.
-* Lewis, David, 1973, “Causation”, _Journal of Philosophy_, 70(17): 556–567.
-* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, _Nôus_, 13(4): 455–76. doi:10.2307/2215339
-* Maudlin, Tim, 2007, _The Metaphysics Within Physics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199218219.001.0001
-* Meek, Christopher and Clark Glymour, 1994, “Conditioning and Intervening”, _British Journal for the Philosophy of Science_, 45(4): 1001–1021. doi:10.1093/bjps/45.4.1001
-* Menzies, Peter and Huw Price, 1993, “Causation as a Secondary Quality”, _British Journal for the Philosophy of Science_, 44(2): 187–203. doi:10.1093/bjps/44.2.187
+* Hitchcock, Christopher and James Woodward, 2003, “Explanatory Generalizations, Part II: Plumbing Explanatory Depth”, *Nôus*, 37(2): 181–99. doi:10.1111/1468-0068.00435
+* Holland, Paul W., 1986, “Statistics and Causal Inference”, *Journal of the American Statistical Association*, 81(396): 945–960.
+* Lewis, David, 1973, “Causation”, *Journal of Philosophy*, 70(17): 556–567.
+* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, *Nôus*, 13(4): 455–76. doi:10.2307/2215339
+* Maudlin, Tim, 2007, *The Metaphysics Within Physics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199218219.001.0001
+* Meek, Christopher and Clark Glymour, 1994, “Conditioning and Intervening”, *British Journal for the Philosophy of Science*, 45(4): 1001–1021. doi:10.1093/bjps/45.4.1001
+* Menzies, Peter and Huw Price, 1993, “Causation as a Secondary Quality”, *British Journal for the Philosophy of Science*, 44(2): 187–203. doi:10.1093/bjps/44.2.187
 * Norton, John D., 2007, “Causation as Folk Science”, in Price and Corry 2007: 11–44.
-* Pearl, Judea, 2009, _Causality_, New York: Cambridge University Press.
-* Price, Huw, 1991, “Agency and Probabilistic Causality”, _British Journal for the Philosophy of Science_, 42(2): 157–76. doi:10.1093/bjps/42.2.157
-* –––, 1992, “Agency and Causal Asymmetry”, _Mind_, 101(403): 501–520.
+* Pearl, Judea, 2009, *Causality*, New York: Cambridge University Press.
+* Price, Huw, 1991, “Agency and Probabilistic Causality”, *British Journal for the Philosophy of Science*, 42(2): 157–76. doi:10.1093/bjps/42.2.157
+* –––, 1992, “Agency and Causal Asymmetry”, *Mind*, 101(403): 501–520.
 * –––, 2007 , “Causal Perspectivalism”, in Price and Corry 2007: 250–292.
-* –––, 2017, “Causation, Intervention and Agency: Woodward on Menzies and Price”, in H. Beebee, C. Hitcock, and H. Price (eds.), _Making a Difference: Essays on the Philosophy of Causation_, Oxford University Press, pp. 73–98.
-* Price, Huw and Richard Corry (eds), 2007, _Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited_, Oxford: Oxford University Press.
-* Reutlinger, Alexander, 2012, “Getting Rid of Interventions”, _Studies in the History and Philosophy of Biological and Biomedical Sciences_, 43(4): 787–95. doi:10.1016/j.shpsc.2012.05.006
-* Rubin, Donald B., 1974, “Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies”, _Journal of Educational Psychology_, 66(5): 688–701.
-* –––, 1986, “Comment: Which Ifs Have Causal Answers?”, _Journal of the American Statistical Association_, 81(396): 961–962.
-* Salmon, Wesley C., 1984, _Scientific Explanation and the Causal Structure of the World_, Princeton: Princeton University Press.
-* Schaffer, Jonathan, 2000, “Causation by Disconnection”, _Philosophy of Science_, 67(2): 285–300. doi:10.1086/392776
-* Skyrms, Brian, 1984, “EPR:Lessons from Metaphysics”, _Midwest Studies in Philosophy_, 9(1): 245–55. doi:10.1111/j.1475-4975.1984.tb00062.x
-* Sosa, Ernest and Michael Tooley (eds.), 1993, _Causation_, Oxford: Oxford University Press.
-* Spirtes, Peter, Clark Glymour, and Richard Scheines, 2000, _Causation, Prediction and Search_, Cambridge, MA: MIT Press.
-* von Wright, Georg Henrik, 1971, _Explanation and Understanding_, Ithaca, NY: Cornell University Press.
-* Woodward, James/Jim, 1997, “Explanation, Invariance, and Intervention”, _Philosophy of Science_, 64(supplement): S26–S41.
-* –––, 2000, “Explanation and Invariance in the Special Sciences”, _British Journal for the Philosophy of Science_, 51(2): 197–254. doi:10.1093/bjps/51.2.197
-* –––, 2003, _Making Things Happen: A Theory of Causal Explanation_, Oxford: Oxford University Press.
+* –––, 2017, “Causation, Intervention and Agency: Woodward on Menzies and Price”, in H. Beebee, C. Hitcock, and H. Price (eds.), *Making a Difference: Essays on the Philosophy of Causation*, Oxford University Press, pp. 73–98.
+* Price, Huw and Richard Corry (eds), 2007, *Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited*, Oxford: Oxford University Press.
+* Reutlinger, Alexander, 2012, “Getting Rid of Interventions”, *Studies in the History and Philosophy of Biological and Biomedical Sciences*, 43(4): 787–95. doi:10.1016/j.shpsc.2012.05.006
+* Rubin, Donald B., 1974, “Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies”, *Journal of Educational Psychology*, 66(5): 688–701.
+* –––, 1986, “Comment: Which Ifs Have Causal Answers?”, *Journal of the American Statistical Association*, 81(396): 961–962.
+* Salmon, Wesley C., 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton: Princeton University Press.
+* Schaffer, Jonathan, 2000, “Causation by Disconnection”, *Philosophy of Science*, 67(2): 285–300. doi:10.1086/392776
+* Skyrms, Brian, 1984, “EPR:Lessons from Metaphysics”, *Midwest Studies in Philosophy*, 9(1): 245–55. doi:10.1111/j.1475-4975.1984.tb00062.x
+* Sosa, Ernest and Michael Tooley (eds.), 1993, *Causation*, Oxford: Oxford University Press.
+* Spirtes, Peter, Clark Glymour, and Richard Scheines, 2000, *Causation, Prediction and Search*, Cambridge, MA: MIT Press.
+* von Wright, Georg Henrik, 1971, *Explanation and Understanding*, Ithaca, NY: Cornell University Press.
+* Woodward, James/Jim, 1997, “Explanation, Invariance, and Intervention”, *Philosophy of Science*, 64(supplement): S26–S41.
+* –––, 2000, “Explanation and Invariance in the Special Sciences”, *British Journal for the Philosophy of Science*, 51(2): 197–254. doi:10.1093/bjps/51.2.197
+* –––, 2003, *Making Things Happen: A Theory of Causal Explanation*, Oxford: Oxford University Press.
 * –––, 2007, “Causation with a Human Face”, in Price and Corry 2007: 66–105.
-* –––, 2014, “Simplicity in the Best Systems Account of Laws of Nature”, _British Journal for the Philosophy of Science_, 65: 91–123.
-* –––, 2015, “Methodology, Ontology and Interventionism”, _Synthese_, 192(11): 3577–3599. doi:10.1007/s11229-014-0479-1
-* –––, 2016, “Causation in Science”, in _Oxford Handbook of the Philosophy of Science_, edited by Paul Humphreys, New York: Oxford University Press, 163–184; longer online version at doi:10.1093/oxfordhb/9780199368815.013.8
-* Woodward, James and Christopher Hitchcock, 2003, “Explanatory Generalizations, Part I: A Counterfactual Account”, _Noûs_, 37(1): 1–24. doi:10.1111/1468-0068.00426
+* –––, 2014, “Simplicity in the Best Systems Account of Laws of Nature”, *British Journal for the Philosophy of Science*, 65: 91–123.
+* –––, 2015, “Methodology, Ontology and Interventionism”, *Synthese*, 192(11): 3577–3599. doi:10.1007/s11229-014-0479-1
+* –––, 2016, “Causation in Science”, in *Oxford Handbook of the Philosophy of Science*, edited by Paul Humphreys, New York: Oxford University Press, 163–184; longer online version at doi:10.1093/oxfordhb/9780199368815.013.8
+* Woodward, James and Christopher Hitchcock, 2003, “Explanatory Generalizations, Part I: A Counterfactual Account”, *Noûs*, 37(1): 1–24. doi:10.1111/1468-0068.00426
 
 ## Academic Tools
 
@@ -326,4 +324,4 @@ YZ=aX+cZ=bX
 [causal models](https://plato.stanford.edu/entries/causal-models/) | [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [causation: probabilistic](https://plato.stanford.edu/entries/causation-probabilistic/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [mechanism in science](https://plato.stanford.edu/entries/science-mechanisms/) | [Salmon, Wesley](https://plato.stanford.edu/entries/wesley-salmon/) | [scientific explanation: causal approaches to](https://plato.stanford.edu/entries/causal-explanation-science/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[_jfw@pitt.edu_](mailto:jfw%40pitt%2eedu)>
+[James Woodward](https://www.hps.pitt.edu/people/james-woodward) <[*jfw@pitt.edu*](mailto:jfw%40pitt%2eedu)>

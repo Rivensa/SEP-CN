@@ -1,13 +1,12 @@
 # 思维语言假说 language of thought hypothesis (Michael Rescorla)
 
-_首次发表于2019年5月28日星期二；实质性修订于2023年10月16日星期一_
+*首次发表于2019年5月28日星期二；实质性修订于2023年10月16日星期一*
 
 思维语言假说（LOTH）提出思维发生在一种思维语言中。这种思维语言通常被称为 Mentalese，它在几个关键方面类似于口语：它包含可以组合成句子的词语；这些词语和句子是有意义的；每个句子的意义以一种系统的方式依赖于其组成词语的意义以及这些词语的组合方式。例如，有一个 Mentalese 词语 whale 表示鲸鱼，还有一个 Mentalese 词语 mammal 表示哺乳动物。这些词语可以组合成一个 Mentalese 句子 whales are mammals，意思是鲸鱼是哺乳动物。相信鲸鱼是哺乳动物意味着与这个句子有适当的心理关系。在一个典型的演绎推理中，我可能会将 Mentalese 句子 whales are mammals 和 Mentalese 句子 Moby Dick is a whale 转化为 Mentalese 句子 Moby Dick is a mammal。当我执行推理时，我进入一系列实例化这些句子的心理状态。
 
 思维语言假说（LOTH）逐渐形成于奥古斯丁、博伊西乌斯、托马斯·阿奎纳斯、约翰·邓斯·斯科特斯等人的著作中。奥卡姆的威廉在他的《逻辑总纲》（约 1323 年）中首次对 Mentalese 表达式的意义和结构进行了系统的分析。思维语言假说在中世纪晚期非常流行，但在 16 世纪和 17 世纪逐渐消失。从那时起到 20 世纪中叶，它在有关心灵的理论中几乎没有起到重要的作用。
 
 在 1970 年代，思维语言假说经历了一次重大复兴。分水岭是杰里·福多尔（Jerry Fodor）的《思维语言》（1975）的出版。福多尔通过演绎论证：我们当前最好的心理活动科学理论假设了心理语言；因此我们有充分的理由接受心理语言的存在。福多尔的分析产生了巨大的影响。思维语言假说再次成为讨论的焦点，有些支持，有些批评。关于心理语言的存在和性质的争论在哲学和认知科学中仍然占据重要地位。这些争论对我们理解思维如何工作具有关键重要性。
- 
 
 ***
 
@@ -43,7 +42,7 @@ X 相信 p 当且仅当存在一个心理表征 S，使得 X 相信\*S 且 S 意
 
 根据这种分析，心理表征是命题态度的最直接对象。命题态度继承其语义属性，包括其真值条件，都来自于作为其对象的心理表征。
 
-支持（1）的人通常借助功能主义来分析 A _。每个心理关系 A_都与一个独特的功能角色相关联：在你的心理活动中，只要你与 S 之间存在 A_关系，S 就扮演着这个角色。例如，在说明相信_ S 是什么时，我们可以提到 S 如何作为推理的基础，如何与欲望相互作用以产生行动等等。精确的功能角色需要通过科学心理学来发现。根据 Schiffer（1981）的说法，通常使用术语“信念盒”作为相信_的功能角色的占位符：相信_ S 就是将 S 放入你的信念盒中。类似地，对于“欲望盒”等也是如此。
+支持（1）的人通常借助功能主义来分析 A *。每个心理关系 A_都与一个独特的功能角色相关联：在你的心理活动中，只要你与 S 之间存在 A_关系，S 就扮演着这个角色。例如，在说明相信* S 是什么时，我们可以提到 S 如何作为推理的基础，如何与欲望相互作用以产生行动等等。精确的功能角色需要通过科学心理学来发现。根据 Schiffer（1981）的说法，通常使用术语“信念盒”作为相信_的功能角色的占位符：相信_ S 就是将 S 放入你的信念盒中。类似地，对于“欲望盒”等也是如此。
 
 (1) 与主张命题态度是与命题的关系相容。可以将“S 意味着 p”这种说法分析为 S 与由 S 表达的命题之间的关系。然后可以得出结论，相信 S 的人与由 S 表达的命题之间存在着心理上重要的关系。Fodor（1987: 17）采用了这种方法。他将对心理表征的承诺与对命题的承诺结合起来。相比之下，Field（2001: 30–82）在分析“S 意味着 p”时不假设命题的存在。他假设具有语义属性的心理表征，但不假设由心理表征所表达的命题的存在。
 
@@ -191,7 +190,7 @@ Fodor 和 Pylyshyn（1988）认为，由于 RTT+COMP 对生产力提供了令人
 
 思维者可以拥有的思维之间存在系统性相互关系。例如，如果你可以拥有“约翰爱玛丽”的思维，那么你也可以拥有“玛丽爱约翰”的思维。系统性看起来是人类思维的一个关键特性，因此需要一个有原则的解释。
 
-RTT+COMP 提供了一个令人信服的解释。根据 RTT+COMP，你能够拥有“p”的思维能力取决于你能否与一个思维语言句子 S 建立适当的心理关系，该句子的意义是“p”。如果你能够思考“约翰爱玛丽”，那么你的内部心理表征系统中包括一个由心理词“约翰”、“爱”和“玛丽”以正确方式组合而成的心理句子“约翰爱玛丽”。如果你有能力与“约翰爱玛丽”建立心理关系 A _，那么你也有能力与一个不同的心理句子“玛丽爱约翰”建立关系 A_。构成句子的词“约翰”、“爱”和“玛丽”对两个心理句子都有相同的语义贡献（约翰表示约翰，爱表示爱的关系，玛丽表示玛丽），但是这些词在不同的组成结构中排列，使得句子具有不同的意义。而“约翰爱玛丽”表示约翰爱玛丽，“玛丽爱约翰”表示玛丽爱约翰。通过与句子“玛丽爱约翰”建立关系 A\*，你拥有了“玛丽爱约翰”的思维。因此，能够思考“约翰爱玛丽”意味着能够思考“约翰爱玛丽”。相比之下，能够思考“约翰爱玛丽”并不意味着能够思考“鲸鱼是哺乳动物”或者能够思考“56+138=194”。
+RTT+COMP 提供了一个令人信服的解释。根据 RTT+COMP，你能够拥有“p”的思维能力取决于你能否与一个思维语言句子 S 建立适当的心理关系，该句子的意义是“p”。如果你能够思考“约翰爱玛丽”，那么你的内部心理表征系统中包括一个由心理词“约翰”、“爱”和“玛丽”以正确方式组合而成的心理句子“约翰爱玛丽”。如果你有能力与“约翰爱玛丽”建立心理关系 A *，那么你也有能力与一个不同的心理句子“玛丽爱约翰”建立关系 A*。构成句子的词“约翰”、“爱”和“玛丽”对两个心理句子都有相同的语义贡献（约翰表示约翰，爱表示爱的关系，玛丽表示玛丽），但是这些词在不同的组成结构中排列，使得句子具有不同的意义。而“约翰爱玛丽”表示约翰爱玛丽，“玛丽爱约翰”表示玛丽爱约翰。通过与句子“玛丽爱约翰”建立关系 A\*，你拥有了“玛丽爱约翰”的思维。因此，能够思考“约翰爱玛丽”意味着能够思考“约翰爱玛丽”。相比之下，能够思考“约翰爱玛丽”并不意味着能够思考“鲸鱼是哺乳动物”或者能够思考“56+138=194”。
 
 Fodor（1987: 148–153）通过引用 RTT+COMP 的能力来支持思维语言假说。与生产力论证相反，系统性论证不依赖于超越有限性能的无限理想化。请注意，这两个论证都没有直接支持计算理论模型。这两个论证甚至没有提到计算。
 
@@ -365,185 +364,185 @@ Chalmers（2012）抱怨说，语义渗透个体化牺牲了使 LOTH 一开始�
 
 ## Bibliography
 
-* Arjo, Dennis, 1996, “Sticking Up for Oedipus: Fodor on Intentional Generalizations and Broad Content”, _Mind & Language_, 11(3): 231–245. doi:10.1111/j.1468-0017.1996.tb00044.x
-* Armstrong, D. M., 1973, _Belief Truth and Knowledge_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570827
-* Atherton, Margaret and Robert Schwartz, 1974, “Linguistic Innateness and Its Evidence”:, _Journal of Philosophy_, 71(6): 155–168. doi:10.2307/2024657
+* Arjo, Dennis, 1996, “Sticking Up for Oedipus: Fodor on Intentional Generalizations and Broad Content”, *Mind & Language*, 11(3): 231–245. doi:10.1111/j.1468-0017.1996.tb00044.x
+* Armstrong, D. M., 1973, *Belief Truth and Knowledge*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570827
+* Atherton, Margaret and Robert Schwartz, 1974, “Linguistic Innateness and Its Evidence”:, *Journal of Philosophy*, 71(6): 155–168. doi:10.2307/2024657
 * Aydede, Murat, 1995, “Connectionism and Language of Thought”, CSLI Technical Report 195, Stanford: Center for the Study of Language and Information Publications.
-* –––, 1997a, “Language of Thought: The Connectionist Contribution”, _Minds and Machines_, 7(1): 57–101. doi:10.1023/A:1008203301671
-* –––, 1997b, “Has Fodor Really Changed His Mind on Narrow Content?”, _Mind & Language_, 12(3–4): 422–458. doi:10.1111/j.1468-0017.1997.tb00082.x
-* –––, 1998, “Fodor on Concepts and Frege Puzzles”, _Pacific Philosophical Quarterly_, 79(4): 289–294. doi:10.1111/1468-0114.00063
-* –––, 2000, “On the Type/Token Relation of Mental Representations”, _Facta Philosophica_, 2: 23–49.
-* –––, 2005, “Computation and Functionalism: Syntactic Theory of Mind Revisited”, in _Turkish Studies in the History and Philosophy of Science_, Gürol Irzik and Güven Güzeldere (eds.), (Boston Studies in the History and Philosophy of Science 244), Berlin/Heidelberg: Springer-Verlag, 177–204. doi:10.1007/1-4020-3333-8\_13
-* –––, 2015, “The Language of Thought Hypothesis”, _The Stanford Encyclopedia of Philosophy_ (Fall 2015 Edition), Edward Zalta (ed.). URL = [https://plato.stanford.edu/archives/fall2015/entries/language-thought/](https://plato.stanford.edu/archives/fall2015/entries/language-thought/).
-* Aydede, Murat and Güven Güzeldere, 2005, “Cognitive Architecture, Concepts, and Introspection: An Information-Theoretic Solution to the Problem of Phenomenal Consciousness”, _Noûs_, 39(2): 197–255. doi:10.1111/j.0029-4624.2005.00500.x
-* Aydede, Murat and Philip Robbins, 2001, “Are Frege Cases Exceptions to Intentional Generalizations?”, _Canadian Journal of Philosophy_, 31(1): 1–22. doi:10.1080/00455091.2001.10717558
-* Bach, Kent, 1987, “Review: _Spreading the Word_”, _The Philosophical Review_, 96(1): 120–123. doi:10.2307/2185336
-* Barsalou, Lawrence W., 1999, “Perceptual Symbol Systems”, _Behavioral and Brain Sciences_, 22(4): 577–660. doi:10.1017/S0140525X99002149
-* Bechtel, William and Adele Abrahamsen, 2002, _Connectionism and the Mind: Parallel Processing, Dynamics and Evolution in Networks_, second edition, Malden, MA: Blackwell.
-* Beck, Jacob, 2017, “Can Bootstrapping Explain Concept Learning?”, _Cognition_, 158: 110–121. doi:10.1016/j.cognition.2016.10.017
-* Bermúdez, José Luis, 2010, _Cognitive Science: An Introduction to the Science of the Mind_, Cambridge: Cambridge University Press.
-* Blackburn, Simon, 1984, _Spreading the Word_, Oxford: Oxford University Press.
-* Block, Ned, 1983, “Mental Pictures and Cognitive Science”, _The Philosophical Review_, 92(4): 499–451. doi:10.2307/2184879
-* –––, 1987, “Advertisement for a Semantics for Psychology”, in _Midwest Studies in Philosophy_, 10: 615–678. doi:10.1111/j.1475-4975.1987.tb00558.x
-* –––, 1990, “Can the Mind Change the World?”, in _Meaning and Method: Essays in Honor of Hilary Putnam_, George Boolos (ed.), Cambridge: Cambridge University Press.
-* –––, 2023, _The Border Between Seeing and Thinking_, Oxford: Oxford University Press.
-* Blumson, Ben, 2012, “Mental Maps”, _Philosophy and Phenomenological Research_, 85(2): 413–434. doi:10.1111/j.1933-1592.2011.00499.x
-* Braddon-Mitchell, David and John Fitzpatrick, 1990, “Explanation and the Language of Thought”, _Synthese_, 83(1): 3–29. doi: 10.1007/BF00413686
-* Braddon-Mitchell, David and Frank Jackson, 2007, _Philosophy of Mind and Cognition_, second edition, Cambridge: Blackwell.
-* Brentano, Franz, 1874 \[1973], _Psychology from an Empirical Standpoint_ (_Psychologie vom empirischen Standpunkt_, 1924 edition), Antos C. Rancurello, D.B. Terrell, and Linda McAlister (trans.), London: Routledge and Kegan Paul.
-* Burge, Tyler, 2007, _Foundations of Mind_, (Philosophical Essays, 2), Oxford: Oxford University Press.
-* –––, 2010, _Origins of Objectivity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199581405.001.0001
-* –––, 2018, “Iconic Representation: Maps, Pictures, and Perception”, in _The Map and the Territory: Exploring the Foundations of Science, Thought, and Reality_, Shyam Wuppuluri and Francisco Antonio Doria (eds.), Cham: Springer International Publishing, 79–100. doi:10.1007/978-3-319-72478-2\_5
-* –––, 2022, _Perception: First Form of Mind_, Oxford: Oxford University Press.
+* –––, 1997a, “Language of Thought: The Connectionist Contribution”, *Minds and Machines*, 7(1): 57–101. doi:10.1023/A:1008203301671
+* –––, 1997b, “Has Fodor Really Changed His Mind on Narrow Content?”, *Mind & Language*, 12(3–4): 422–458. doi:10.1111/j.1468-0017.1997.tb00082.x
+* –––, 1998, “Fodor on Concepts and Frege Puzzles”, *Pacific Philosophical Quarterly*, 79(4): 289–294. doi:10.1111/1468-0114.00063
+* –––, 2000, “On the Type/Token Relation of Mental Representations”, *Facta Philosophica*, 2: 23–49.
+* –––, 2005, “Computation and Functionalism: Syntactic Theory of Mind Revisited”, in *Turkish Studies in the History and Philosophy of Science*, Gürol Irzik and Güven Güzeldere (eds.), (Boston Studies in the History and Philosophy of Science 244), Berlin/Heidelberg: Springer-Verlag, 177–204. doi:10.1007/1-4020-3333-8\_13
+* –––, 2015, “The Language of Thought Hypothesis”, *The Stanford Encyclopedia of Philosophy* (Fall 2015 Edition), Edward Zalta (ed.). URL = [https://plato.stanford.edu/archives/fall2015/entries/language-thought/](https://plato.stanford.edu/archives/fall2015/entries/language-thought/).
+* Aydede, Murat and Güven Güzeldere, 2005, “Cognitive Architecture, Concepts, and Introspection: An Information-Theoretic Solution to the Problem of Phenomenal Consciousness”, *Noûs*, 39(2): 197–255. doi:10.1111/j.0029-4624.2005.00500.x
+* Aydede, Murat and Philip Robbins, 2001, “Are Frege Cases Exceptions to Intentional Generalizations?”, *Canadian Journal of Philosophy*, 31(1): 1–22. doi:10.1080/00455091.2001.10717558
+* Bach, Kent, 1987, “Review: *Spreading the Word*”, *The Philosophical Review*, 96(1): 120–123. doi:10.2307/2185336
+* Barsalou, Lawrence W., 1999, “Perceptual Symbol Systems”, *Behavioral and Brain Sciences*, 22(4): 577–660. doi:10.1017/S0140525X99002149
+* Bechtel, William and Adele Abrahamsen, 2002, *Connectionism and the Mind: Parallel Processing, Dynamics and Evolution in Networks*, second edition, Malden, MA: Blackwell.
+* Beck, Jacob, 2017, “Can Bootstrapping Explain Concept Learning?”, *Cognition*, 158: 110–121. doi:10.1016/j.cognition.2016.10.017
+* Bermúdez, José Luis, 2010, *Cognitive Science: An Introduction to the Science of the Mind*, Cambridge: Cambridge University Press.
+* Blackburn, Simon, 1984, *Spreading the Word*, Oxford: Oxford University Press.
+* Block, Ned, 1983, “Mental Pictures and Cognitive Science”, *The Philosophical Review*, 92(4): 499–451. doi:10.2307/2184879
+* –––, 1987, “Advertisement for a Semantics for Psychology”, in *Midwest Studies in Philosophy*, 10: 615–678. doi:10.1111/j.1475-4975.1987.tb00558.x
+* –––, 1990, “Can the Mind Change the World?”, in *Meaning and Method: Essays in Honor of Hilary Putnam*, George Boolos (ed.), Cambridge: Cambridge University Press.
+* –––, 2023, *The Border Between Seeing and Thinking*, Oxford: Oxford University Press.
+* Blumson, Ben, 2012, “Mental Maps”, *Philosophy and Phenomenological Research*, 85(2): 413–434. doi:10.1111/j.1933-1592.2011.00499.x
+* Braddon-Mitchell, David and John Fitzpatrick, 1990, “Explanation and the Language of Thought”, *Synthese*, 83(1): 3–29. doi: 10.1007/BF00413686
+* Braddon-Mitchell, David and Frank Jackson, 2007, *Philosophy of Mind and Cognition*, second edition, Cambridge: Blackwell.
+* Brentano, Franz, 1874 \[1973], *Psychology from an Empirical Standpoint* (*Psychologie vom empirischen Standpunkt*, 1924 edition), Antos C. Rancurello, D.B. Terrell, and Linda McAlister (trans.), London: Routledge and Kegan Paul.
+* Burge, Tyler, 2007, *Foundations of Mind*, (Philosophical Essays, 2), Oxford: Oxford University Press.
+* –––, 2010, *Origins of Objectivity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199581405.001.0001
+* –––, 2018, “Iconic Representation: Maps, Pictures, and Perception”, in *The Map and the Territory: Exploring the Foundations of Science, Thought, and Reality*, Shyam Wuppuluri and Francisco Antonio Doria (eds.), Cham: Springer International Publishing, 79–100. doi:10.1007/978-3-319-72478-2\_5
+* –––, 2022, *Perception: First Form of Mind*, Oxford: Oxford University Press.
 * Camp, Elisabeth, 2009, “A Language of Baboon Thought?”, in Lurz 2009: 108–127. doi:10.1017/CBO9780511819001.007
-* –––, 2018, “Why Maps Are Not Propositional”, in _Non-Propositional Intentionality_, Alex Grzankowski and Michelle Montague (eds.), Oxford: Oxford University Press. doi:10.1093/oso/9780198732570.003.0002
-* Carey, Susan, 2009, _The Origin of Concepts_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195367638.001.0001
-* –––, 2014, “On Learning New Primitives in the Language of Thought: Reply to Rey”, _Mind and Language_, 29(2): 133–166. doi:10.1111/mila.12045
-* Casati, Roberto and Achille C. Varzi, 1999, _Parts and Places: The Structures of Spatial Representation_, Cambridge, MA: MIT Press.
-* Chalmers, David J., 1990, “Syntactic Transformations on Distributed Representations”, _Connection Science_, 2(1–2): 53–62. doi:10.1080/09540099008915662
-* –––, 1993, “Connectionism and Compositionality: Why Fodor and Pylyshyn Were Wrong”, _Philosophical Psychology_, 6(3): 305–319. doi:10.1080/09515089308573094
-* –––, 2012, “The Varieties of Computation: A Reply”, _Journal of Cognitive Science_, 13(3): 211–248. doi:10.17791/jcs.2012.13.3.211
-* Chomsky, Noam, 1965, _Aspects of the Theory of Syntax_. Cambridge, MA: MIT Press.
-* Churchland, Patricia S., 1986, _Neurophilosophy: Toward a Unified Science of Mind-Brain_, Cambridge, MA: MIT Press.
-* Churchland, Patricia S. and Terrence J. Sejnowski, 1989, “Neural Representation and Neural Computation”, in _Neural Connections, Neural Computation_, Lynn Nadel, Lynn A. Cooper, Peter W. Culicover, and Robert M. Harnish, Cambridge, MA: MIT Press.
-* Churchland, Paul M., 1990, _A Neurocomputational Perspective: The Nature of Mind and the Structure of Science_, Cambridge, MA: MIT Press.
-* Churchland, Paul M., and Patricia S. Churchland, 1990, “Could a Machine Think?”, _Scientific American_, 262(1): 32–37. doi:10.1038/scientificamerican0190-32
+* –––, 2018, “Why Maps Are Not Propositional”, in *Non-Propositional Intentionality*, Alex Grzankowski and Michelle Montague (eds.), Oxford: Oxford University Press. doi:10.1093/oso/9780198732570.003.0002
+* Carey, Susan, 2009, *The Origin of Concepts*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195367638.001.0001
+* –––, 2014, “On Learning New Primitives in the Language of Thought: Reply to Rey”, *Mind and Language*, 29(2): 133–166. doi:10.1111/mila.12045
+* Casati, Roberto and Achille C. Varzi, 1999, *Parts and Places: The Structures of Spatial Representation*, Cambridge, MA: MIT Press.
+* Chalmers, David J., 1990, “Syntactic Transformations on Distributed Representations”, *Connection Science*, 2(1–2): 53–62. doi:10.1080/09540099008915662
+* –––, 1993, “Connectionism and Compositionality: Why Fodor and Pylyshyn Were Wrong”, *Philosophical Psychology*, 6(3): 305–319. doi:10.1080/09515089308573094
+* –––, 2012, “The Varieties of Computation: A Reply”, *Journal of Cognitive Science*, 13(3): 211–248. doi:10.17791/jcs.2012.13.3.211
+* Chomsky, Noam, 1965, *Aspects of the Theory of Syntax*. Cambridge, MA: MIT Press.
+* Churchland, Patricia S., 1986, *Neurophilosophy: Toward a Unified Science of Mind-Brain*, Cambridge, MA: MIT Press.
+* Churchland, Patricia S. and Terrence J. Sejnowski, 1989, “Neural Representation and Neural Computation”, in *Neural Connections, Neural Computation*, Lynn Nadel, Lynn A. Cooper, Peter W. Culicover, and Robert M. Harnish, Cambridge, MA: MIT Press.
+* Churchland, Paul M., 1990, *A Neurocomputational Perspective: The Nature of Mind and the Structure of Science*, Cambridge, MA: MIT Press.
+* Churchland, Paul M., and Patricia S. Churchland, 1990, “Could a Machine Think?”, *Scientific American*, 262(1): 32–37. doi:10.1038/scientificamerican0190-32
 * Clark, Andy, 1991, “Systematicity, Structured Representations and Cognitive Architecture: A Reply to Fodor and Pylyshyn”, in Horgan and Tienson 1991: 198–218. doi:10.1007/978-94-011-3524-5\_9
-* –––, 2014, _Mindware: An Introduction to the Philosophy of Cognitive Science_, second edition, Oxford: Oxford University Press.
-* Cowie, Fiona, 1999, _What’s Within? Nativism Reconsidered_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195159783.001.0001
-* Cummins, Robert, 1989, _Meaning and Mental Representation_, Cambridge, MA: MIT Press.
-* Dennett, Daniel C., 1977 \[1981], “Critical Noticw: Review of The Language of Thought by Jerry Fodor”, _Mind_, 86(342): 265–280. Reprinted as “A Cure for the Common Code”, in _Brainstorms: Philosophical Essays on Mind and Psychology_, Cambridge, MA: MIT Press, 1981. doi:10.1093/mind/LXXXVI.342.265
-* –––, 1991, “Mother Nature Versus the Walking Encyclopedia: A Western Drama”, in _Philosophy and Connectionist Theory_, W. Ramsey, S. Stich, and D. Rumelhart, Hillsdale, NJ: Lawrence Erlbaum Associates. \[[available online](https://ase.tufts.edu/cogstud/dennett/papers/motherna.htm)]
-* Devitt, Michael, 1995, _Coming to Our Senses: A Naturalistic Program for Semantic Localism_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609190
-* Dretske, Fred, 1981, _Knowledge and the Flow of Information_, Cambridge, MA: MIT Press.
-* –––, 1988. _Explaining Behavior_, Cambridge, MA: MIT Press.
-* Egan, Frances, 1992, “Individualism, Computation, and Perceptual Content”, _Mind_, 101(403): 443–459. doi:10.1093/mind/101.403.443
-* Elman, Jeffrey L., 1989, “Structured Representations and Connectionist Models”, in _Proceedings of the Eleventh Annual Meeting of the Cognitive Science Society_, Mahwah: Laurence Erlbaum Associates.
-* Field, Hartry, 2001, _Truth and the Absence of Fact_, Oxford: Oxford University Press. doi:10.1093/0199242895.001.0001
-* Figdor, Carrie, 2009, “Semantic Externalism and the Mechanics of Thought”, _Minds and Machines_, 19(1): 1–24. doi:10.1007/s11023-008-9114-6
-* Fodor, Jerry A., 1975, _The Language of Thought_, New York: Thomas Y. Crowell.
-* –––, 1981, _Representations_, Cambridge, MA: MIT Press.
-* –––, 1987, _Psychosemantics_, Cambridge, MA: MIT Press.
-* –––, 1990, _A Theory of Content and Other Essays_, Cambridge, MA: MIT Press.
-* –––, 1991, “Replies”, in _Meaning in Mind: Fodor and His Critics_, Barry M. Loewer and Georges Rey (eds.), Cambridge, MA: MIT Press.
-* –––, 1994, _The Elm and the Expert_, Cambridge, MA: MIT Press.
-* –––, 1998, _Concepts: Where Cognitive Science Went Wrong_, Oxford: Oxford University Press. doi:10.1093/0198236360.001.0001
-* –––, 2001, “Doing without What’s within: Fiona Cowie’s Critique of Nativism”, _Mind_, 110(437): 99–148. doi:10.1093/mind/110.437.99
-* –––, 2003, _Hume Variations_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199287338.001.0001
-* –––, 2008, _LOT 2: The Language of Thought Revisited_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199548774.001.0001
-* –––, 2010, “Woof, Woof. Review of _The Origin of Concepts_ by Susan Carey”, _The Times Literary Supplement_, October 8: pp. 7–8.
-* Fodor, Jerry and Brian P. McLaughlin, 1990, “Connectionism and the Problem of Systematicity: Why Smolensky’s Solution Doesn’t Work”, _Cognition_, 35(2): 183–204. doi:10.1016/0010-0277(90)90014-B
-* Fodor, Jerry A. and Zenon W. Pylyshyn, 1981, “How Direct Is Visual Perception?: Some Reflections on Gibson’s ‘Ecological Approach’”, _Cognition_, 9(2): 139–196. doi:10.1016/0010-0277(81)90009-3
-* –––, 1988, “Connectionism and Cognitive Architecture: A Critical Analysis”, _Cognition_, 28(1–2): 3–71. doi:10.1016/0010-0277(88)90031-5
-* –––, 2015, _Minds Without Meanings_, Cambridge, MA: MIT Press.
-* Frege, Gottlob, 1879 \[1967], _Begriffsschrift, eine der Arithmetischen Nachgebildete Formelsprache des Reinen Denkens_. Translated as _Concept Script, a Formal Language of Pure Thought Modeled upon that of Arithmetic_ in _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, J. van Heijenoort (ed.), S. Bauer-Mengelberg (trans.), Cambridge, MA: Harvard University Press.
-* –––, 1892 \[1997], “On _Sinn_ and _Bedeutung_”. Reprinted in the _The Frege Reader_, M. Beaney (ed.), M. Black (trans.), Malden, MA: Blackwell.
-* –––, 1918 \[1997], “Thought”. Reprinted in _The Frege Reader_, M. Beaney (ed.), P. Geach and R. Stoothof (trans.), Malden, MA: Blackwell.
-* Gallistel, Charles R., 1990, _The Organization of Learning_, Cambridge, MA: MIT Press.
-* Gallistel, Charles R. and Adam Philip King, 2009, _Memory and the Computational Brain_, Malden, MA: Wiley- Blackwell.
-* Gallistel, C.R. and Louis D. Matzel, 2013, “The Neuroscience of Learning: Beyond the Hebbian Synapse”, _Annual Review of Psychology_, 64(1): 169–200. doi:10.1146/annurev-psych-113011-143807
-* Gibson, James J., 1979, _The Ecological Approach to Visual Perception_, Boston, MA: Houghton Mifflin.
-* Greenberg, Gabriel, 2013, “Beyond Resemblance”, _Philosophical Review_, 122(2): 215–287. doi:10.1215/00318108-1963716
-* Greenberg, Mark, 2014, “Troubles for Content I”, in _Metasemantics: New Essays on the Foundations of Meaning_, Alexis Burgess and Brett Sherman (eds.), Oxford: Oxford University Press, 147–168. doi:10.1093/acprof:oso/9780199669592.003.0006
-* Harman, Gilbert, 1973, _Thought_, Princeton, NJ: Princeton University Press.
-* Harnad, Stevan, 1994, “Computation Is Just Interpretable Symbol Manipulation; Cognition Isn’t”, _Minds and Machines_, 4(4): 379–390. doi:10.1007/BF00974165
-* Harnish, Robert M., 2002, _Minds, Brains, Computers: An Historical Introduction to the Foundations of Cognitive Science_, Malden, MA: Blackwell.
-* Haugeland, John, 1985, _Artificial Intelligence: The Very Idea_, Cambridge, MA: MIT Press
-* Helmholtz, Hermann von, 1867 \[1925], _Treatise on Physiological Optics_ (_Handbuch der physiologischen Optik_), James P.C. Southall, Manasha, WI: George Banta Publishing Company.
-* Hinton, G. 1990. “Mapping Part-Whole Hierarchies into Connectionist Networks”. _Artificial Intelligence_ 46: pp. 47–75.
-* Horgan, Terence and John Tienson (eds.), 1991, _Connectionism and the Philosophy of Mind_, (Studies in Cognitive Systems 9), Dordrecht: Springer Netherlands. doi:10.1007/978-94-011-3524-5
-* –––, 1996, _Connectionism and the Philosophy of Psychology_, Cambridge, MA: MIT Press.
-* Hume, David, 1739 \[1978], _A Treatise on Human Nature_, second edition, P. H. Nidditch (ed.). Oxford: Clarendon Press.
-* Jacobs, Lucia F and Randolf Menzel, 2014, “Navigation Outside of the Box: What the Lab Can Learn from the Field and What the Field Can Learn from the Lab”, _Movement Ecology_, 2(1): 3. doi:10.1186/2051-3933-2-3
-* Johnson, Kent, 2004, “On the Systematicity of Language and Thought”:, _Journal of Philosophy_, 101(3): 111–139. doi:10.5840/jphil2004101321
-* Johnson-Laird, Philip N., 2004, “The History of Mental Models”, in _Psychology of Reasoning: Theoretical and Historical Perspectives_, Ken Manktelow and Man Cheung Chung, New York: Psychology Press.
-* Kant, Immanuel, 1781 \[1998], _The Critique of Pure Reason_, P. Guyer and A. Wood (eds), Cambridge: Cambridge University Press.
-* Kaplan, David, 1989, “Demonstratives”, in _Themes from Kaplan_, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press.
-* Kazez, Jean R., 1994, “Computationalism and the Causal Role of Content”, _Philosophical Studies_, 75(3): 231–260. doi:10.1007/BF00989583
-* King, Peter, 2005, “William of Ockham: _Summa Logicae_”, in _Central Works of Philosophy: Ancient and Medieval, volume 1: Ancient and Medieval Philosophy_, John Shand (ed.), Montreal: McGill-Queen’s University Press, 242–270.
-* Knill, David C. and Whitman Richards (eds.), 1996, _Perception as Bayesian Inference_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511984037
-* Knowles, Jonathan, 1998, “The Language of Thought and Natural Language Understanding”, _Analysis_, 58(4): 264–272. doi: 10.1093/analys/58.4.264
-* Kosslyn, Stephen, 1980, _Image and Mind_, Cambridge, MA: Harvard University Press.
-* Kulvicki, John, 2015, “Maps, Pictures, and Predication”, _Ergo: An Open Access Journal of Philosophy_, 2(7): 149–174.
-* Laurence, Stephen and Eric Margolis, 1997, “Regress Arguments Against the Language of Thought”, _Analysis_, 57(1): 60–66.
-* Loar, Brian, 1982, _Mind and Meaning_, Cambridge: Cambridge University Press.
-* Loewer, Barry, 1997, “A Guide to Naturalizing Semantics”, in _A Companion to the Philosophy of Language_, Bob Hale and Crispin Wright (eds.), Oxford: Blackwell.
-* Lurz, Robert W. (ed.), 2009, _The Philosophy of Animal Minds_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819001
-* Mackintosh, Nicholas John, 2002, “Do Not Ask Whether They Have a Cognitive Map, but How They Find Their Way about”, _Psicológica_, 23(1): 165–185. \[[Mackintosh 2002 available online](https://www.uv.es/psicologica/articulos1.02/M8MacKin.pdf)]
-* Mandelbaum, Eric, Yarrow Dunham, Roman Freiman, Chaz Firestone, E. J. Green, Daniel Harris, Melissa Kibbe, Benedek Kurdi, Myrto Mylopoulos, Joshua Sheperd, Alexis Wellwood, Nicholas Porot, and Jake Quilty-Dunn, 2022, “Problems and Mysteries of the Many Languages of Thought”, _Cognitive Science_, 46(12): e13225.
-* Margolis, Eric, 1998, “How to Acquire a Concept”, _Mind & Language_, 13(3): 347–369. doi:10.1111/1468-0017.00081
-* Margolis, Eric and Stephen Laurence, 2011, “Learning Matters: The Role of Learning in Concept Acquisition”, _Mind & Language_, 26(5): 507–539. doi:10.1111/j.1468-0017.2011.01429.x
-* McDermott, Drew V., 2001, _Mind and Mechanism_, Cambridge, MA: MIT Press.
-* McLaughlin, B. P. and T. A. Warfield, 1994, “The Allure of Connectionism Reexamined”, _Synthese_, 101(3): 365–400. doi:10.1007/BF01063895
-* Marcus, G., 2001, _The Algebraic Mind_, Cambridge: MIT Press.
-* Millikan, Ruth Garrett, 1984, _Language, Thought, and Other Biological Categories: New Foundations for Realism_, Cambridge, MA: MIT Press.
-* –––, 1993, _White Queen Psychology and Other Essays for Alice_, Cambridge, MA: MIT Press.
-* Neander, Karen, 2017, _A Mark of the Mental: In Defense of Informational Teleosemantics_, Cambridge, MA: MIT Press.
-* Niklasson, Lars F. and Tim Gelder, 1994, “On Being Systematically Connectionist”, _Mind & Language_, 9(3): 288–302. doi:10.1111/j.1468-0017.1994.tb00227.x
-* Normore, Calvin, 1990, “Ockham on Mental Language”, in _The Historical Foundations of Cognitive Science_, J. Smith (ed.), Dordrecht: Kluwer.
-* –––, 2003, “Burge, Descartes, and Us”, in _Reflections and Replies: Essays on the Philosophy of Tyler Burge_, Martin Hahn and Bjørn Ramberg, Cambridge, MA: MIT Press.
-* –––, 2009, “The End of Mental Language”, in _Le Langage Mental du Moyen Âge à l’Âge Classique_, J. Biard (ed.), Leuven: Peeters.
-* O’Brien, Gerard and Jon Opie, 2006, “How Do Connectionist Networks Compute?”, _Cognitive Processing_, 7(1): 30–41. doi:10.1007/s10339-005-0017-7
-* O’Keefe, John and Lynn Nadel, 1978, _The Hippocampus as a Cognitive Map_, Oxford: Clarendon Press.
-* Ockham, William of, c. 1323 \[1957], _Summa Logicae_, Translated in his _Philosophical Writings, A Selection_, Philotheus Boehner (ed. and trans.), London: Nelson, 1957.
-* Panaccio, Claude, 1999 \[2017], _Mental Language: From Plato to William of Ockham_ (_Discours intérieur_), Joshua P. Hochschild and Meredith K. Ziebart (trans.), New York: Fordham University Press.
-* Papineau, David, 1987, _Reality and Representation_, Oxford: Basil Blackwell.
-* Peacocke, Christopher, 1992, _A Study of Concepts_, Cambridge, MA: MIT Press.
-* –––, 1994, “Content, Computation and Externalism”, _Mind & Language_, 9(3): 303–335. doi:10.1111/j.1468-0017.1994.tb00228.x
-* –––, 1999, “Computation as Involving Content: A Response to Egan”, _Mind & Language_, 14(2): 195–202. doi:10.1111/1468-0017.00109
-* Perry, John, 1998, “Broadening the Mind”, _Philosophy and Phenomenological Research_, 58(1): 223–231. doi:10.2307/2653644
-* Piccinini, Gualtiero, 2008, “Computation without Representation”, _Philosophical Studies_, 137(2): 205–241. doi:10.1007/s11098-005-5385-4
-* Pinker, Steven, 2005, “So How Does the Mind Work?”, _Mind & Language_, 20(1): 1–24. doi:10.1111/j.0268-1064.2005.00274.x
-* Pinker, Steven and Alan Prince, 1988, “On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition”, _Cognition_, 28(1–2): 73–193. doi:10.1016/0010-0277(88)90032-7
-* Polger, Thomas W., 2004, _Natural Minds_, Cambridge, MA: MIT Press.
-* Pollack, Jordan B., 1990, “Recursive Distributed Representations”, _Artificial Intelligence_, 46(1–2): 77–105. doi:10.1016/0004-3702(90)90005-K
-* Prinz, Jesse, 2002, _Furnishing the Mind: Concepts and Their Perceptual Basis_, Cambridge, MA: MIT Press.
-* –––, 2011, “Has Mentalese Earned Its Keep? On Jerry Fodor’s LOT 2”, _Mind_, 120(478): 485–501. doi:10.1093/mind/fzr025
-* Putnam, Hilary, 1967, “Psychophysical Predicates”, In _Art, Mind, and Religion: Proceedings of the 1965 Oberlin Colloquium in Philosophy_, W.H. Capitan and D.D. Merrill (eds), Pittsburgh, PA: University of Pittsburgh Press, 37–48.
-* –––, 1988, _Representation and Reality_, Cambridge, MA: MIT Press.
-* Pylyshyn, Zenon W., 1984, _Computation and Cognition: Toward a Foundation for Cognitive Science_, Cambridge, MA: MIT Press.
-* –––, 2003, _Seeing and Visualizing: It’s Not What You Think_, Cambridge, MA: MIT Press.
-* Quilty-Dunn, Jake, Nicholas Porot, and Eric Mandelbaum, forthcoming, “The Best Game in Town: The Re-Emergence of the Language of Thought Hypothesis Across the Cognitive Sciences”, _Behavioral and Brain Sciences_.
-* Quine, W. V., 1951 \[1980], “Two Dogmas of Empiricism”, _The Philosophical Review_, 60(1): 20–43. Reprinted in his _From a Logical Point of View_, second edition, Cambridge, MA: Harvard University Press, 1980, 20–46. doi:10.2307/2181906
-* Ramsey, William M., 2007, _Representation Reconsidered_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511597954
+* –––, 2014, *Mindware: An Introduction to the Philosophy of Cognitive Science*, second edition, Oxford: Oxford University Press.
+* Cowie, Fiona, 1999, *What’s Within? Nativism Reconsidered*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195159783.001.0001
+* Cummins, Robert, 1989, *Meaning and Mental Representation*, Cambridge, MA: MIT Press.
+* Dennett, Daniel C., 1977 \[1981], “Critical Noticw: Review of The Language of Thought by Jerry Fodor”, *Mind*, 86(342): 265–280. Reprinted as “A Cure for the Common Code”, in *Brainstorms: Philosophical Essays on Mind and Psychology*, Cambridge, MA: MIT Press, 1981. doi:10.1093/mind/LXXXVI.342.265
+* –––, 1991, “Mother Nature Versus the Walking Encyclopedia: A Western Drama”, in *Philosophy and Connectionist Theory*, W. Ramsey, S. Stich, and D. Rumelhart, Hillsdale, NJ: Lawrence Erlbaum Associates. \[[available online](https://ase.tufts.edu/cogstud/dennett/papers/motherna.htm)]
+* Devitt, Michael, 1995, *Coming to Our Senses: A Naturalistic Program for Semantic Localism*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511609190
+* Dretske, Fred, 1981, *Knowledge and the Flow of Information*, Cambridge, MA: MIT Press.
+* –––, 1988. *Explaining Behavior*, Cambridge, MA: MIT Press.
+* Egan, Frances, 1992, “Individualism, Computation, and Perceptual Content”, *Mind*, 101(403): 443–459. doi:10.1093/mind/101.403.443
+* Elman, Jeffrey L., 1989, “Structured Representations and Connectionist Models”, in *Proceedings of the Eleventh Annual Meeting of the Cognitive Science Society*, Mahwah: Laurence Erlbaum Associates.
+* Field, Hartry, 2001, *Truth and the Absence of Fact*, Oxford: Oxford University Press. doi:10.1093/0199242895.001.0001
+* Figdor, Carrie, 2009, “Semantic Externalism and the Mechanics of Thought”, *Minds and Machines*, 19(1): 1–24. doi:10.1007/s11023-008-9114-6
+* Fodor, Jerry A., 1975, *The Language of Thought*, New York: Thomas Y. Crowell.
+* –––, 1981, *Representations*, Cambridge, MA: MIT Press.
+* –––, 1987, *Psychosemantics*, Cambridge, MA: MIT Press.
+* –––, 1990, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press.
+* –––, 1991, “Replies”, in *Meaning in Mind: Fodor and His Critics*, Barry M. Loewer and Georges Rey (eds.), Cambridge, MA: MIT Press.
+* –––, 1994, *The Elm and the Expert*, Cambridge, MA: MIT Press.
+* –––, 1998, *Concepts: Where Cognitive Science Went Wrong*, Oxford: Oxford University Press. doi:10.1093/0198236360.001.0001
+* –––, 2001, “Doing without What’s within: Fiona Cowie’s Critique of Nativism”, *Mind*, 110(437): 99–148. doi:10.1093/mind/110.437.99
+* –––, 2003, *Hume Variations*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199287338.001.0001
+* –––, 2008, *LOT 2: The Language of Thought Revisited*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199548774.001.0001
+* –––, 2010, “Woof, Woof. Review of *The Origin of Concepts* by Susan Carey”, *The Times Literary Supplement*, October 8: pp. 7–8.
+* Fodor, Jerry and Brian P. McLaughlin, 1990, “Connectionism and the Problem of Systematicity: Why Smolensky’s Solution Doesn’t Work”, *Cognition*, 35(2): 183–204. doi:10.1016/0010-0277(90)90014-B
+* Fodor, Jerry A. and Zenon W. Pylyshyn, 1981, “How Direct Is Visual Perception?: Some Reflections on Gibson’s ‘Ecological Approach’”, *Cognition*, 9(2): 139–196. doi:10.1016/0010-0277(81)90009-3
+* –––, 1988, “Connectionism and Cognitive Architecture: A Critical Analysis”, *Cognition*, 28(1–2): 3–71. doi:10.1016/0010-0277(88)90031-5
+* –––, 2015, *Minds Without Meanings*, Cambridge, MA: MIT Press.
+* Frege, Gottlob, 1879 \[1967], *Begriffsschrift, eine der Arithmetischen Nachgebildete Formelsprache des Reinen Denkens*. Translated as *Concept Script, a Formal Language of Pure Thought Modeled upon that of Arithmetic* in *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, J. van Heijenoort (ed.), S. Bauer-Mengelberg (trans.), Cambridge, MA: Harvard University Press.
+* –––, 1892 \[1997], “On *Sinn* and *Bedeutung*”. Reprinted in the *The Frege Reader*, M. Beaney (ed.), M. Black (trans.), Malden, MA: Blackwell.
+* –––, 1918 \[1997], “Thought”. Reprinted in *The Frege Reader*, M. Beaney (ed.), P. Geach and R. Stoothof (trans.), Malden, MA: Blackwell.
+* Gallistel, Charles R., 1990, *The Organization of Learning*, Cambridge, MA: MIT Press.
+* Gallistel, Charles R. and Adam Philip King, 2009, *Memory and the Computational Brain*, Malden, MA: Wiley- Blackwell.
+* Gallistel, C.R. and Louis D. Matzel, 2013, “The Neuroscience of Learning: Beyond the Hebbian Synapse”, *Annual Review of Psychology*, 64(1): 169–200. doi:10.1146/annurev-psych-113011-143807
+* Gibson, James J., 1979, *The Ecological Approach to Visual Perception*, Boston, MA: Houghton Mifflin.
+* Greenberg, Gabriel, 2013, “Beyond Resemblance”, *Philosophical Review*, 122(2): 215–287. doi:10.1215/00318108-1963716
+* Greenberg, Mark, 2014, “Troubles for Content I”, in *Metasemantics: New Essays on the Foundations of Meaning*, Alexis Burgess and Brett Sherman (eds.), Oxford: Oxford University Press, 147–168. doi:10.1093/acprof:oso/9780199669592.003.0006
+* Harman, Gilbert, 1973, *Thought*, Princeton, NJ: Princeton University Press.
+* Harnad, Stevan, 1994, “Computation Is Just Interpretable Symbol Manipulation; Cognition Isn’t”, *Minds and Machines*, 4(4): 379–390. doi:10.1007/BF00974165
+* Harnish, Robert M., 2002, *Minds, Brains, Computers: An Historical Introduction to the Foundations of Cognitive Science*, Malden, MA: Blackwell.
+* Haugeland, John, 1985, *Artificial Intelligence: The Very Idea*, Cambridge, MA: MIT Press
+* Helmholtz, Hermann von, 1867 \[1925], *Treatise on Physiological Optics* (*Handbuch der physiologischen Optik*), James P.C. Southall, Manasha, WI: George Banta Publishing Company.
+* Hinton, G. 1990. “Mapping Part-Whole Hierarchies into Connectionist Networks”. *Artificial Intelligence* 46: pp. 47–75.
+* Horgan, Terence and John Tienson (eds.), 1991, *Connectionism and the Philosophy of Mind*, (Studies in Cognitive Systems 9), Dordrecht: Springer Netherlands. doi:10.1007/978-94-011-3524-5
+* –––, 1996, *Connectionism and the Philosophy of Psychology*, Cambridge, MA: MIT Press.
+* Hume, David, 1739 \[1978], *A Treatise on Human Nature*, second edition, P. H. Nidditch (ed.). Oxford: Clarendon Press.
+* Jacobs, Lucia F and Randolf Menzel, 2014, “Navigation Outside of the Box: What the Lab Can Learn from the Field and What the Field Can Learn from the Lab”, *Movement Ecology*, 2(1): 3. doi:10.1186/2051-3933-2-3
+* Johnson, Kent, 2004, “On the Systematicity of Language and Thought”:, *Journal of Philosophy*, 101(3): 111–139. doi:10.5840/jphil2004101321
+* Johnson-Laird, Philip N., 2004, “The History of Mental Models”, in *Psychology of Reasoning: Theoretical and Historical Perspectives*, Ken Manktelow and Man Cheung Chung, New York: Psychology Press.
+* Kant, Immanuel, 1781 \[1998], *The Critique of Pure Reason*, P. Guyer and A. Wood (eds), Cambridge: Cambridge University Press.
+* Kaplan, David, 1989, “Demonstratives”, in *Themes from Kaplan*, Joseph Almog, John Perry, and Howard Wettstein (eds.), New York: Oxford University Press.
+* Kazez, Jean R., 1994, “Computationalism and the Causal Role of Content”, *Philosophical Studies*, 75(3): 231–260. doi:10.1007/BF00989583
+* King, Peter, 2005, “William of Ockham: *Summa Logicae*”, in *Central Works of Philosophy: Ancient and Medieval, volume 1: Ancient and Medieval Philosophy*, John Shand (ed.), Montreal: McGill-Queen’s University Press, 242–270.
+* Knill, David C. and Whitman Richards (eds.), 1996, *Perception as Bayesian Inference*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511984037
+* Knowles, Jonathan, 1998, “The Language of Thought and Natural Language Understanding”, *Analysis*, 58(4): 264–272. doi: 10.1093/analys/58.4.264
+* Kosslyn, Stephen, 1980, *Image and Mind*, Cambridge, MA: Harvard University Press.
+* Kulvicki, John, 2015, “Maps, Pictures, and Predication”, *Ergo: An Open Access Journal of Philosophy*, 2(7): 149–174.
+* Laurence, Stephen and Eric Margolis, 1997, “Regress Arguments Against the Language of Thought”, *Analysis*, 57(1): 60–66.
+* Loar, Brian, 1982, *Mind and Meaning*, Cambridge: Cambridge University Press.
+* Loewer, Barry, 1997, “A Guide to Naturalizing Semantics”, in *A Companion to the Philosophy of Language*, Bob Hale and Crispin Wright (eds.), Oxford: Blackwell.
+* Lurz, Robert W. (ed.), 2009, *The Philosophy of Animal Minds*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511819001
+* Mackintosh, Nicholas John, 2002, “Do Not Ask Whether They Have a Cognitive Map, but How They Find Their Way about”, *Psicológica*, 23(1): 165–185. \[[Mackintosh 2002 available online](https://www.uv.es/psicologica/articulos1.02/M8MacKin.pdf)]
+* Mandelbaum, Eric, Yarrow Dunham, Roman Freiman, Chaz Firestone, E. J. Green, Daniel Harris, Melissa Kibbe, Benedek Kurdi, Myrto Mylopoulos, Joshua Sheperd, Alexis Wellwood, Nicholas Porot, and Jake Quilty-Dunn, 2022, “Problems and Mysteries of the Many Languages of Thought”, *Cognitive Science*, 46(12): e13225.
+* Margolis, Eric, 1998, “How to Acquire a Concept”, *Mind & Language*, 13(3): 347–369. doi:10.1111/1468-0017.00081
+* Margolis, Eric and Stephen Laurence, 2011, “Learning Matters: The Role of Learning in Concept Acquisition”, *Mind & Language*, 26(5): 507–539. doi:10.1111/j.1468-0017.2011.01429.x
+* McDermott, Drew V., 2001, *Mind and Mechanism*, Cambridge, MA: MIT Press.
+* McLaughlin, B. P. and T. A. Warfield, 1994, “The Allure of Connectionism Reexamined”, *Synthese*, 101(3): 365–400. doi:10.1007/BF01063895
+* Marcus, G., 2001, *The Algebraic Mind*, Cambridge: MIT Press.
+* Millikan, Ruth Garrett, 1984, *Language, Thought, and Other Biological Categories: New Foundations for Realism*, Cambridge, MA: MIT Press.
+* –––, 1993, *White Queen Psychology and Other Essays for Alice*, Cambridge, MA: MIT Press.
+* Neander, Karen, 2017, *A Mark of the Mental: In Defense of Informational Teleosemantics*, Cambridge, MA: MIT Press.
+* Niklasson, Lars F. and Tim Gelder, 1994, “On Being Systematically Connectionist”, *Mind & Language*, 9(3): 288–302. doi:10.1111/j.1468-0017.1994.tb00227.x
+* Normore, Calvin, 1990, “Ockham on Mental Language”, in *The Historical Foundations of Cognitive Science*, J. Smith (ed.), Dordrecht: Kluwer.
+* –––, 2003, “Burge, Descartes, and Us”, in *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Martin Hahn and Bjørn Ramberg, Cambridge, MA: MIT Press.
+* –––, 2009, “The End of Mental Language”, in *Le Langage Mental du Moyen Âge à l’Âge Classique*, J. Biard (ed.), Leuven: Peeters.
+* O’Brien, Gerard and Jon Opie, 2006, “How Do Connectionist Networks Compute?”, *Cognitive Processing*, 7(1): 30–41. doi:10.1007/s10339-005-0017-7
+* O’Keefe, John and Lynn Nadel, 1978, *The Hippocampus as a Cognitive Map*, Oxford: Clarendon Press.
+* Ockham, William of, c. 1323 \[1957], *Summa Logicae*, Translated in his *Philosophical Writings, A Selection*, Philotheus Boehner (ed. and trans.), London: Nelson, 1957.
+* Panaccio, Claude, 1999 \[2017], *Mental Language: From Plato to William of Ockham* (*Discours intérieur*), Joshua P. Hochschild and Meredith K. Ziebart (trans.), New York: Fordham University Press.
+* Papineau, David, 1987, *Reality and Representation*, Oxford: Basil Blackwell.
+* Peacocke, Christopher, 1992, *A Study of Concepts*, Cambridge, MA: MIT Press.
+* –––, 1994, “Content, Computation and Externalism”, *Mind & Language*, 9(3): 303–335. doi:10.1111/j.1468-0017.1994.tb00228.x
+* –––, 1999, “Computation as Involving Content: A Response to Egan”, *Mind & Language*, 14(2): 195–202. doi:10.1111/1468-0017.00109
+* Perry, John, 1998, “Broadening the Mind”, *Philosophy and Phenomenological Research*, 58(1): 223–231. doi:10.2307/2653644
+* Piccinini, Gualtiero, 2008, “Computation without Representation”, *Philosophical Studies*, 137(2): 205–241. doi:10.1007/s11098-005-5385-4
+* Pinker, Steven, 2005, “So How Does the Mind Work?”, *Mind & Language*, 20(1): 1–24. doi:10.1111/j.0268-1064.2005.00274.x
+* Pinker, Steven and Alan Prince, 1988, “On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition”, *Cognition*, 28(1–2): 73–193. doi:10.1016/0010-0277(88)90032-7
+* Polger, Thomas W., 2004, *Natural Minds*, Cambridge, MA: MIT Press.
+* Pollack, Jordan B., 1990, “Recursive Distributed Representations”, *Artificial Intelligence*, 46(1–2): 77–105. doi:10.1016/0004-3702(90)90005-K
+* Prinz, Jesse, 2002, *Furnishing the Mind: Concepts and Their Perceptual Basis*, Cambridge, MA: MIT Press.
+* –––, 2011, “Has Mentalese Earned Its Keep? On Jerry Fodor’s LOT 2”, *Mind*, 120(478): 485–501. doi:10.1093/mind/fzr025
+* Putnam, Hilary, 1967, “Psychophysical Predicates”, In *Art, Mind, and Religion: Proceedings of the 1965 Oberlin Colloquium in Philosophy*, W.H. Capitan and D.D. Merrill (eds), Pittsburgh, PA: University of Pittsburgh Press, 37–48.
+* –––, 1988, *Representation and Reality*, Cambridge, MA: MIT Press.
+* Pylyshyn, Zenon W., 1984, *Computation and Cognition: Toward a Foundation for Cognitive Science*, Cambridge, MA: MIT Press.
+* –––, 2003, *Seeing and Visualizing: It’s Not What You Think*, Cambridge, MA: MIT Press.
+* Quilty-Dunn, Jake, Nicholas Porot, and Eric Mandelbaum, forthcoming, “The Best Game in Town: The Re-Emergence of the Language of Thought Hypothesis Across the Cognitive Sciences”, *Behavioral and Brain Sciences*.
+* Quine, W. V., 1951 \[1980], “Two Dogmas of Empiricism”, *The Philosophical Review*, 60(1): 20–43. Reprinted in his *From a Logical Point of View*, second edition, Cambridge, MA: Harvard University Press, 1980, 20–46. doi:10.2307/2181906
+* Ramsey, William M., 2007, *Representation Reconsidered*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511597954
 * Rescorla, Michael, 2009a, “Chrysippus’ Dog as a Case Study in Non-Linguistic Cognition”, in Lurz 2009: 52–71. doi:10.1017/CBO9780511819001.004
-* –––, 2009b, “Cognitive Maps and the Language of Thought”, _The British Journal for the Philosophy of Science_, 60(2): 377–407. doi:10.1093/bjps/axp012
-* –––, 2009c, “Predication and Cartographic Representation”, _Synthese_, 169(1): 175–200. doi:10.1007/s11229-008-9343-5
-* –––, 2012a, “Are Computational Transitions Sensitive to Semantics?”, _Australasian Journal of Philosophy_, 90(4): 703–721. doi:10.1080/00048402.2011.615333
-* –––, 2012b, “How to Integrate Representation into Computational Modeling, and Why We Should”, _Journal of Cognitive Science_, 13(1): 1–37. doi:10.17791/jcs.2012.13.1.1
-* –––, 2014a, “The Causal Relevance of Content to Computation”, _Philosophy and Phenomenological Research_, 88(1): 173–208. doi:10.1111/j.1933-1592.2012.00619.x
-* –––, 2014b, “A Theory of Computational Implementation”, _Synthese_, 191(6): 1277–1307. doi:10.1007/s11229-013-0324-y
-* –––, 2015, “Bayesian Perceptual Psychology”, in _The Oxford Handbook of Philosophy of Perception_, Mohan Matthen (ed.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199600472.013.010
-* –––, 2017a, “From Ockham to Turing—and Back Again”, in _Philosophical Explorations of the Legacy of Alan Turing_, Juliet Floyd and Alisa Bokulich (eds.), (Boston Studies in the Philosophy and History of Science 324), Cham: Springer International Publishing, 279–304. doi:10.1007/978-3-319-53280-6\_12
-* –––, 2017b, “Maps in the Head?”, _The Routledge Handbook of Philosophy of Animal Minds_, Kristin Andrews and Jacob Beck (eds.), New York: Routledge.
-* –––, 2020, “Reifying Representations”, in _What Are Mental Representations?_, Tobias Schlicht, Krzysztof Doulega, and Joulia Smortchkova (eds.), Oxford: Oxford University Press.
-* Rey, Georges, 2014, “Innate and Learned: Carey, Mad Dog Nativism, and the Poverty of Stimuli and Analogies (Yet Again): Innate and Learned”, _Mind & Language_, 29(2): 109–132. doi:10.1111/mila.12044
+* –––, 2009b, “Cognitive Maps and the Language of Thought”, *The British Journal for the Philosophy of Science*, 60(2): 377–407. doi:10.1093/bjps/axp012
+* –––, 2009c, “Predication and Cartographic Representation”, *Synthese*, 169(1): 175–200. doi:10.1007/s11229-008-9343-5
+* –––, 2012a, “Are Computational Transitions Sensitive to Semantics?”, *Australasian Journal of Philosophy*, 90(4): 703–721. doi:10.1080/00048402.2011.615333
+* –––, 2012b, “How to Integrate Representation into Computational Modeling, and Why We Should”, *Journal of Cognitive Science*, 13(1): 1–37. doi:10.17791/jcs.2012.13.1.1
+* –––, 2014a, “The Causal Relevance of Content to Computation”, *Philosophy and Phenomenological Research*, 88(1): 173–208. doi:10.1111/j.1933-1592.2012.00619.x
+* –––, 2014b, “A Theory of Computational Implementation”, *Synthese*, 191(6): 1277–1307. doi:10.1007/s11229-013-0324-y
+* –––, 2015, “Bayesian Perceptual Psychology”, in *The Oxford Handbook of Philosophy of Perception*, Mohan Matthen (ed.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199600472.013.010
+* –––, 2017a, “From Ockham to Turing—and Back Again”, in *Philosophical Explorations of the Legacy of Alan Turing*, Juliet Floyd and Alisa Bokulich (eds.), (Boston Studies in the Philosophy and History of Science 324), Cham: Springer International Publishing, 279–304. doi:10.1007/978-3-319-53280-6\_12
+* –––, 2017b, “Maps in the Head?”, *The Routledge Handbook of Philosophy of Animal Minds*, Kristin Andrews and Jacob Beck (eds.), New York: Routledge.
+* –––, 2020, “Reifying Representations”, in *What Are Mental Representations?*, Tobias Schlicht, Krzysztof Doulega, and Joulia Smortchkova (eds.), Oxford: Oxford University Press.
+* Rey, Georges, 2014, “Innate and Learned: Carey, Mad Dog Nativism, and the Poverty of Stimuli and Analogies (Yet Again): Innate and Learned”, *Mind & Language*, 29(2): 109–132. doi:10.1111/mila.12044
 * Rumelhart, David and James L. McClelland, 1986, “PDP Models and General Issues in Cognitive Science”, in Rumelhart, et al. 1986: 110–146.
-* Rumelhart, David E., James L. McClelland, and the PDP Research Group, 1986, _Parallel Distributed Processing, volume 1: Explorations in the Microstructure of Cognition: Foundations_, Cambridge, MA: MIT Press.
-* Russell, Bertrand, 1918–1919 \[1985], “The Philosophy of Logical Atomism: Lectures 1–2”, _Monist_, 28(4): 495–527, doi:10.5840/monist19182843, 29(1): 32–63, doi:10.5840/monist191929120, 29(2): 190–222, doi:10.5840/monist19192922, 29(3): 345–380, doi:10.5840/monist19192937. Reprinted in _The Philosophy of Logical Atomism_, David F. Pears (ed.), La Salle, IL: Open Court.
-* Rupert, Robert D., 2008, “Frege’s Puzzle and Frege Cases: Defending a Quasi-Syntactic Solution”, _Cognitive Systems Research_, 9(1–2): 76–91. doi:10.1016/j.cogsys.2007.07.003
-* Schiffer, Stephen, 1981, “Truth and the Theory of Content”, in _Meaning and Understanding_, Herman Parret and Jacques Bouveresse, Berlin: Walter de Gruyter, 204–222.
-* Schneider, Susan, 2005, “Direct Reference, Psychological Explanation, and Frege Cases”, _Mind & Language_, 20(4): 423–447. doi:10.1111/j.0268-1064.2005.00294.x
-* –––, 2011, _The Language of Thought: A New Philosophical Direction_, Cambridge, MA: MIT Press.
-* Sellars, Wilfrid, 1975, “The Structure of Knowledge”, in _Action, Knowledge and Reality: Studies in Honor of Wilfrid Sellars_, Hector-Neri Castañeda (ed.), Indianapolis, IN: Bobbs-Merrill, 295–347.
-* Shagrir, Oron, 2020, “In Defense of the Semantic View of Computation”, _Synthese_, 197(9): 4083–4108. doi:10.1007/s11229-018-01921-z
-* Shea, Nicholas, 2016, “Representational Development Need Not Be Explicable-By-Content”, in _Fundamental Issues of Artificial Intelligence_, Vincent C. Müller (ed.), Cham: Springer International Publishing, 223–240. doi:10.1007/978-3-319-26485-1\_14
-* Sloman, Aaron, 1978, _The Computer Revolution in Philosophy: Philosophy, Science and Models of the Mind_, Hassocks: The Harvester Press.
-* Smolensky, Paul, 1990, “Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems”, _Artificial Intelligence_, 46(1–2): 159–216. doi:10.1016/0004-3702(90)90007-M
-* –––, 1991, “Connectionism, Constituency, and the Language of Thought”, in _Meaning in Mind: Fodor and His Critics_, Barry M. Loewer and Georges Rey (eds), Cambridge, MA: Blackwell.
-* –––, 1995, “Constituent Structure and Explanation in an Integrated Connectionist/Symbolic Cognitive Architecture”, in _Connectionism: Debates on Psychological Explanation_, Cynthia Macdonald and Graham Macdonald (eds), Oxford: Basil Blackwell.
-* Stalnaker, Robert C., 1984, _Inquiry_, Cambridge, MA: MIT Press.
-* Stich, Stephen P., 1983, _From Folk Psychology to Cognitive Science_, Cambridge, MA: MIT Press.
-* Stojnić, Una and Ernie Lepore, 2020, “Fodor and Demonstratives in LOT”, _Theoria_, 35(1): 75–92.
-* Tarski, Alfred, 1933 \[1983], “Pojęcie prawdy w językach nauk dedukcyjnych”, Warsaw: Nakładem Towarzystwa Naukowego Warszawskiego. Translated into German (1935) by L. Blaustein as “Der Wahrheitsbegriff in den formalisierten Sprachen”, _Studia Philosophica_, 1: 261–405. Translated into English (1983) as “The Concept of Truth in Formalized Languages”, in _Logic, Semantics, Metamathematics: Papers from 1923 to 1938_, second edition, J.H. Woodger (trans.), John Corcoran (ed.), Indianapolis, IN: Hackett.
-* Tolman, Edward C., 1948, “Cognitive Maps in Rats and Men.”, _Psychological Review_, 55(4): 189–208. doi:10.1037/h0061626
-* Touretzky, David S., 1990, “BoltzCONS: Dynamic Symbol Structures in a Connectionist Network”, _Artificial Intelligence_, 46(1–2): 5–46. doi:10.1016/0004-3702(90)90003-I
-* Turing, Alan M., 1936, “On Computable Numbers, with an Application to the Entscheidungsproblem”, _Proceedings of the London Mathematical Society_, s2–42(1): 230–265. doi:10.1112/plms/s2–42.1.230
+* Rumelhart, David E., James L. McClelland, and the PDP Research Group, 1986, *Parallel Distributed Processing, volume 1: Explorations in the Microstructure of Cognition: Foundations*, Cambridge, MA: MIT Press.
+* Russell, Bertrand, 1918–1919 \[1985], “The Philosophy of Logical Atomism: Lectures 1–2”, *Monist*, 28(4): 495–527, doi:10.5840/monist19182843, 29(1): 32–63, doi:10.5840/monist191929120, 29(2): 190–222, doi:10.5840/monist19192922, 29(3): 345–380, doi:10.5840/monist19192937. Reprinted in *The Philosophy of Logical Atomism*, David F. Pears (ed.), La Salle, IL: Open Court.
+* Rupert, Robert D., 2008, “Frege’s Puzzle and Frege Cases: Defending a Quasi-Syntactic Solution”, *Cognitive Systems Research*, 9(1–2): 76–91. doi:10.1016/j.cogsys.2007.07.003
+* Schiffer, Stephen, 1981, “Truth and the Theory of Content”, in *Meaning and Understanding*, Herman Parret and Jacques Bouveresse, Berlin: Walter de Gruyter, 204–222.
+* Schneider, Susan, 2005, “Direct Reference, Psychological Explanation, and Frege Cases”, *Mind & Language*, 20(4): 423–447. doi:10.1111/j.0268-1064.2005.00294.x
+* –––, 2011, *The Language of Thought: A New Philosophical Direction*, Cambridge, MA: MIT Press.
+* Sellars, Wilfrid, 1975, “The Structure of Knowledge”, in *Action, Knowledge and Reality: Studies in Honor of Wilfrid Sellars*, Hector-Neri Castañeda (ed.), Indianapolis, IN: Bobbs-Merrill, 295–347.
+* Shagrir, Oron, 2020, “In Defense of the Semantic View of Computation”, *Synthese*, 197(9): 4083–4108. doi:10.1007/s11229-018-01921-z
+* Shea, Nicholas, 2016, “Representational Development Need Not Be Explicable-By-Content”, in *Fundamental Issues of Artificial Intelligence*, Vincent C. Müller (ed.), Cham: Springer International Publishing, 223–240. doi:10.1007/978-3-319-26485-1\_14
+* Sloman, Aaron, 1978, *The Computer Revolution in Philosophy: Philosophy, Science and Models of the Mind*, Hassocks: The Harvester Press.
+* Smolensky, Paul, 1990, “Tensor Product Variable Binding and the Representation of Symbolic Structures in Connectionist Systems”, *Artificial Intelligence*, 46(1–2): 159–216. doi:10.1016/0004-3702(90)90007-M
+* –––, 1991, “Connectionism, Constituency, and the Language of Thought”, in *Meaning in Mind: Fodor and His Critics*, Barry M. Loewer and Georges Rey (eds), Cambridge, MA: Blackwell.
+* –––, 1995, “Constituent Structure and Explanation in an Integrated Connectionist/Symbolic Cognitive Architecture”, in *Connectionism: Debates on Psychological Explanation*, Cynthia Macdonald and Graham Macdonald (eds), Oxford: Basil Blackwell.
+* Stalnaker, Robert C., 1984, *Inquiry*, Cambridge, MA: MIT Press.
+* Stich, Stephen P., 1983, *From Folk Psychology to Cognitive Science*, Cambridge, MA: MIT Press.
+* Stojnić, Una and Ernie Lepore, 2020, “Fodor and Demonstratives in LOT”, *Theoria*, 35(1): 75–92.
+* Tarski, Alfred, 1933 \[1983], “Pojęcie prawdy w językach nauk dedukcyjnych”, Warsaw: Nakładem Towarzystwa Naukowego Warszawskiego. Translated into German (1935) by L. Blaustein as “Der Wahrheitsbegriff in den formalisierten Sprachen”, *Studia Philosophica*, 1: 261–405. Translated into English (1983) as “The Concept of Truth in Formalized Languages”, in *Logic, Semantics, Metamathematics: Papers from 1923 to 1938*, second edition, J.H. Woodger (trans.), John Corcoran (ed.), Indianapolis, IN: Hackett.
+* Tolman, Edward C., 1948, “Cognitive Maps in Rats and Men.”, *Psychological Review*, 55(4): 189–208. doi:10.1037/h0061626
+* Touretzky, David S., 1990, “BoltzCONS: Dynamic Symbol Structures in a Connectionist Network”, *Artificial Intelligence*, 46(1–2): 5–46. doi:10.1016/0004-3702(90)90003-I
+* Turing, Alan M., 1936, “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society*, s2–42(1): 230–265. doi:10.1112/plms/s2–42.1.230
 * van Gelder, Timothy, 1991, “Classical Questions, Radical Answers: Connectionism and the Structure of Mental Representations”. In Horgan and Tienson 1991: 355–381, doi:10.1007/978-94-011-3524-5\_16
-* Wakefield, Jerome C., 2002, “Broad versus Narrow Content in the Explanation of Action: Fodor on Frege Cases”, _Philosophical Psychology_, 15(2): 119–133. doi:10.1080/09515080220127099
-* Weiner, Jan, Sara Shettleworth, Verner P. Bingman, Ken Cheng, Susan Healy, Lucia F. Jacobs, Kathryn J. Jeffery, Hanspeter A. Mallot, Randolf Menzel, and Nora S. Newcombe, 2011, “Animal Navigation: A Synthesis”, in _Animal Thinking_, Randolf Menzel and Julia Fischer (eds), Cambridge, MA: MIT Press.
-* Wittgenstein, Ludwig, 1921 \[1922], _Logisch-Philosophische Abhandlung_, in W. Ostwald (ed.), _Annalen der Naturphilosophie_, 14. Translated as _Tractatus Logico-Philosophicus_, C.K. Ogden (trans.), London: Kegan Paul, 1922.
-* –––, 1953, _Philosophical Investigations_, G.E.M. Anscombe (trans.), Oxford: Blackwell.
+* Wakefield, Jerome C., 2002, “Broad versus Narrow Content in the Explanation of Action: Fodor on Frege Cases”, *Philosophical Psychology*, 15(2): 119–133. doi:10.1080/09515080220127099
+* Weiner, Jan, Sara Shettleworth, Verner P. Bingman, Ken Cheng, Susan Healy, Lucia F. Jacobs, Kathryn J. Jeffery, Hanspeter A. Mallot, Randolf Menzel, and Nora S. Newcombe, 2011, “Animal Navigation: A Synthesis”, in *Animal Thinking*, Randolf Menzel and Julia Fischer (eds), Cambridge, MA: MIT Press.
+* Wittgenstein, Ludwig, 1921 \[1922], *Logisch-Philosophische Abhandlung*, in W. Ostwald (ed.), *Annalen der Naturphilosophie*, 14. Translated as *Tractatus Logico-Philosophicus*, C.K. Ogden (trans.), London: Kegan Paul, 1922.
+* –––, 1953, *Philosophical Investigations*, G.E.M. Anscombe (trans.), Oxford: Blackwell.
 
 ## Academic Tools
 
@@ -555,7 +554,7 @@ Chalmers（2012）抱怨说，语义渗透个体化牺牲了使 LOTH 一开始�
 
 ## Other Internet Resources
 
-* Aydede, Murat, “The Language of Thought Hypothesis,” _Stanford Encyclopedia of Philosophy_ (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/language-thought/](https://plato.stanford.edu/archives/spr2019/entries/language-thought/). \[This was the previous entry on the language of thought hypothesis in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=language-thought).]
+* Aydede, Murat, “The Language of Thought Hypothesis,” *Stanford Encyclopedia of Philosophy* (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/language-thought/](https://plato.stanford.edu/archives/spr2019/entries/language-thought/). \[This was the previous entry on the language of thought hypothesis in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=language-thought).]
 * [Bibliography on the language of thought](https://philpapers.org/browse/the-language-of-thought/), in PhilPapers.org.
 * [Bibliography on the philosophy of artificial intelligence](https://philpapers.org/browse/philosophy-of-artificial-intelligence/), curated by Eric Dietrich, in PhilPapers.org.
 
@@ -568,4 +567,4 @@ Chalmers（2012）抱怨说，语义渗透个体化牺牲了使 LOTH 一开始�
 I owe a profound debt to the Murat Aydede, author of the [previous entry](https://plato.stanford.edu/archives/spr2019/entries/language-thought/) on the same topic. His exposition hugely influenced my work on the entry, figuring indispensably as a springboard, a reference, and a standard of excellence. Some of my formulations in the introduction and in sections 1.1, 2, 3, 4.3, 5, 6.1, and 7 closely track formulations from the previous entry. Section 5’s discussion of connectionism is directly based on the previous entry’s treatment. I also thank Calvin Normore, Melanie Schoenberg, and the Stanford Encyclopedia editors for helpful comments.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Michael Rescorla <[_rescorla@ucla.edu_](mailto:rescorla%40ucla%2eedu)>
+Michael Rescorla <[*rescorla@ucla.edu*](mailto:rescorla%40ucla%2eedu)>

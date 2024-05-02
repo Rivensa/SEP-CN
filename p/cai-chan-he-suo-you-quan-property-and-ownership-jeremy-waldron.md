@@ -1,6 +1,6 @@
 # 财产和所有权 property and ownership (Jeremy Waldron)
 
-_首次发表于2004年9月6日星期一；实质修订于2020年3月21日星期六。_
+*首次发表于2004年9月6日星期一；实质修订于2020年3月21日星期六。*
 
 财产是指规定土地和其他物质资源的访问和控制的规则的总称。由于这些规则存在争议，无论是在其总体形状还是在其具体应用方面，都存在有关财产合理化的有趣的哲学问题。现代哲学讨论主要集中在对私有财产权合理化的问题上（与公共或集体财产相对）。"私有财产"是指一种将特定物体（如土地）分配给特定个体使用和管理的系统，以排除其他人（即使其他人对资源有更大的需求）和社会的任何详细控制。尽管这些排除使私有财产的概念似乎存在问题，但哲学家们经常主张它对个体的道德发展是必要的，或者对于创造一个人们可以自由和负责任地繁荣的社会环境是必要的。
 
@@ -144,92 +144,92 @@ G.W.F.黑格尔对财产的解释集中在财产对自我发展的贡献上，�
 
 ## Bibliography
 
-* Ackerman, Bruce (1977), _Private Property and the Constitution_, New Haven: Yale University Press.
-* Alexander, Gregory and Peñalver, Eduardo (eds.) (2010), _Property and Community_, New York: Oxford University Press.
-* Alexander, Gregory and Peñalver, Eduardo (2012), _An Introduction to Property Theory_, Cambridge: Cambridge University Press.
-* Aquinas, Thomas, \[_ST_] _Summa Theologiae_ \[1272], in Paul E. Sigmund (ed.) _St. Thomas Aquinas on Politics and Ethics_, New York: W.W. Norton, 1988.
-* Aristotle, _The Politics_ \[c. 330 BCE], Stephen Everson (ed.), Cambridge: Cambridge University Press, 1988.
-* Attas, Daniel (2006), ‘Fragmenting Property,’ _Law and Philosophy_, 25: 119–49.
-* Bell, Abraham and Parchomovsky, Gideon (2003), ‘Of Property and Antiproperty,’ _Michigan Law Review_, 102: 1–70.
-* Bell, Abraham and Parchomovsky, Gideon (2008), ‘Reconfiguring Property in Three Dimensions,’ _University of Chicago Law Review_, 75: 1015–70.
-* Benn, S.I., and Peters, R.S. (1959), _Social Principles and the Democratic State_, London: George Allen and Unwin.
-* Bentham, Jeremy (1931), _The Theory of Legislation_ \[1802], C.K. Ogden (ed.), London: Kegan Paul, Trench, Trubner & Co.
-* Blackstone, William (2001), _Blackstone’s commentaries on the Laws of England_ \[1763], Wayne Morrison (ed.), London: Cavendish Publishing.
-* Brubaker, Stanley C. (2012), ‘Coming into One’s Own: John Locke’s Theory of Property, God, and Politics,’ _Review of Politics_, 74: 207–32.
-* Buchanan, James M. (1975), _The Limits of Liberty: Between Anarchy and Leviathan_, Chicago: University of Chicago Press.
-* Byrd, Sharon and Hruschka, Joachim (2006), ‘The Natural Law Duty to Recognize Private Property Ownership: Kant’s Theory of Property in His Doctrine of Right,’ _University of Toronto Law Journal_, 56: 217–82.
-* Carpenter, Kristen, Katyal, Sonia, and Riley, Angela (2009), ‘In Defense of Property,’ _Yale Law Journal_, 118:1022–1125.
-* Cohen, G.A. (1979) ‘Capitalism, Freedom and the Proletariat,’ in Alan Ryan (ed.) _The Idea of Freedom: Essays in Honor of Isaiah Berlin_, Oxford: Oxford University Press.
-* Cohen, G.A. (1995), _Self-ownership, Freedom and Equality_, Cambridge: Cambridge University Press.
-* Craig, E.J. (1990), _Knowledge and the State of Nature_, Oxford: Clarendon Press.
-* Dagan, Hanoch (2011), _Property: Values and Institutions_, Oxford: Oxford University Press.
-* –––, (2013), ‘Inside Property,’ _University of Toronto Law Journal_, 63: 1–21.
-* De Jasay, Anthony (2004), ‘Property and Its Enemies,’ _Philosophy_, 79: 57–66.
-* Dorfman, Avihay (2012), ‘The Society of Property,’ _University of Toronto Law Journal_, 62: 563–607.
-* Essert, Christopher (2013), ‘The Office of Ownership,’ _University of Toronto Law Journal_, 63: 418–461.
-* Friedman, Milton (1962), _Capitalism and Freedom_, Chicago: University of Chicago Press.
-* Gallie,W.B. (1956) ‘Essentially Contested Concepts,’ _Proceedings of the Aristotlean Society_, 56: 167–188.
-* Green, T.H. (1941), _Lectures on the Principles of Political Obligation_ \[1895], London: Longmans Green & Co.
-* Grey, T.C. (1980), ‘The Disintegration of Property,’ in J.R. Pennock and J.W. Chapman (eds.) _Nomos XXII: Property_ (New York: New York University Press.
-* Hardin, Garrett (1968), ‘The Tragedy of the Commons,’ _Science_, 162: 1243–8.
-* Harris, J.W. (1996), _Property and Justice_, Oxford: Oxford University Press.
-* Hart, H.L.A. (1968), _Punishment and Responsibility_, Oxford: Clarendon Press.
-* Hayek, F.A. (1976), _The Mirage of Social Justice Law,_ Volume II of _Law, Legislation and Liberty_, London: Routledge and Kegan Paul.
-* Hegel, G.W. F. (1967), _The Philosophy of Right_ \[1821], T.M. Knox (trans.), Cambridge: Cambridge University Press.
-* Heller, Michael (2001), _The Gridlock Economy: How Too Much Ownership Wrecks Markets, Stops Innovation, and Costs Lives_, New York: Basic Books.
-* Heller, Michael and Dagan, Hanoch (2001), ‘The Liberal Commons,’ _Yale Law Journal_, 110: 549–624.
-* Hobbes,Thomas (1983), _De Cive: The English Version_ \[1647], Howard Warrender (ed.), Oxford: Clarendon Press.
-* Honore, A.M. (1961), ‘Ownership’ in A.G. Guest (ed.) _Oxford Essays in Jurisprudence_, Oxford: Oxford University Press.
-* Horne, Thomas A. (1990), _Property Rights and Poverty: Political Argument in Britain, 1605–1834_, Chapel Hill: University of North Carolina Press.
-* Hull, Gordon (2009), ‘Clearing the Rubbish: Locke, the Waste Proviso, and the Moral Justification of Intellectual Property,’ _Public Affairs Quarterly_, 23: 67–93.
-* Hume, David (1978), _A Treatise of Human Nature_ \[1739] L.A. Selby–Bigge and P. H. Nidditch (eds.), Oxford: Clarendon Press.
-* Kant, Immanuel (1991) _The Metaphysics of Morals_ \[1797], Mary Gregor (trans.) Cambridge: Cambridge University Press.
-* Katz, Larissa (2008), ‘Exclusion and Exclusivity in Property Law,’ _University of Toronto Law Journal_, 58: 275–315.
-* King, Desmond and Waldron, Jeremy (1988) ‘Citizenship, Social Citizenship and the Defence of Welfare Rights,’ _British Journal of Political Science_, 18: 415–43.
-* Lever, Annabelle (2012), ‘Privacy, Private Property, and Collective Property,’ _The Good Society_, 21: 47–60.
-* Lewis, David K. (1969), _Convention: A Philosophical Study_, Cambridge: Harvard University Press.
-* Locke, John (1988), _Two Treatises of Government_ \[1689] Peter Laslett (ed.), Cambridge: Cambridge University Press.
-* Marx, Karl (1972), _Theories of Surplus Value_ \[1862], London: Lawrence and Wishart.
-* ––– (1976), _Capital_, Volume I \[1867], Ben Fowkes (trans.), Harmondsworth: Penguin Books.
-* McElwee, Brian (2010), ‘The Appeal of Self-Ownership,’ _Social Theory and Practice_, 36: 213–232.
-* Merrill, Thomas (2012), ‘The Property Strategy,’ _University of Pennsylvania Law Review_, 160: 2061–2095.
-* Mill, John Stuart (1994), _Principles of Political Economy_ \[1848], Jonathan Riley (ed.), Oxford: Oxford University Press.
-* Mises, Ludwig von (1951) _Socialism_, New Haven: Yale University Press.
-* Munzer, Stephen R. (1990), _A Theory of Property_, Cambridge: Cambridge University Press.
-* Murphy, Liam and Nagel, Thomas (2002), _The Myth of Ownership: Taxes and Justice_ (New York: Oxford University Press).
-* Nozick, Robert (1974), _Anarchy, State and Utopia_, Oxford: Basil Blackwell.
-* Otsuka, Michael (1998), ‘Self-Ownership and Equality: A Lockean Reconciliation,’ _Philosophy and Public Affairs_, 27: 65–92. &#x20;
-* ––– (2003), _Libertarianism without Inequality_, New York: Oxford University Press.
-* Penner, J. E. (2000), _The Idea of Property in Law_, New York: Oxford University Press.
-* Phillips, Anne (2013), _Our Bodies, Whose Property?_ (Princeton: Princeton University Press).
-* Pipes, Richard (1999), _Property and Freedom_, New York: Knopf.
-* Plato, _Republic_ \[c. 370 BCE], Robin Waterfield (trans.), Oxford: Oxford University Press, 1993.
-* Pufendorf, Samuel (1991), _On the Duty of Man and Citizen According to Natural Law_ \[1673], James Tully (ed.), Cambridge: Cambridge University Press.
-* Purdy, Jedidiah (2005), ‘A Freedom-Promoting Approach to Property: A Renewed Tradition for New Debates,’ _University of Chicago Law Review_, 72: 1237–1298.
-* ––– (2011), _The Meaning of Property: Freedom, Community, and the Legal Imagination_, New Haven: Yale University Press.
-* Radin, Margaret Jane (1982) ‘Property and Personhood,’ _Stanford Law Review_, 34: 957–1014.
-* Rasmussen, Kasper-Lippert (2008), ‘Against Self-Ownership,’ _Philosophy and Public Affairs_, 36: 86–118.
-* Rawls, John (1999), _A Theory of Justice_, Revised edition, Cambridge: Harvard University Press.
-* Ripstein, Arthur (2009), _Force and Freedom: Kant’s Legal and Political Philosophy_, Cambridge: Harvard University Press.
-* Rousseau, Jean Jacques (1994), _Discourse on the Origin of Inequality_ \[1755], Franklin Philip (trans.) Oxford: Oxford University Press.
-* ––– (1968), _The Social Contract_ \[1762], Maurice Cranston (trans.) Harmondsworth: Penguin Books.
-* Ryan, Alan (1984), _Property and Political Theory_, Oxford: Basil Blackwell.
-* Singer, Joseph (2000), _The Edges of the Field: Lessons on the Obligations of Ownership_, Cambridge: Harvard University Press.
-* Smith, Henry (2003), ‘The Language of Property: Form, Context, and Audience,’ _Stanford Law Review_, 55: 1105–91.
-* ––– (2012) ‘Property as the Law of Things,’ _Harvard Law Review_, 125: 1691–1726.
-* Sobel, David (2012), ‘Backing away from Libertarian Self-Ownership,’ _Ethics_, 123: 32–60.
-* Underkuffler, Laura (2003), _The Idea of Property: Its Meaning and Power_, Oxford: Oxford University Press.
-* Vrousalis, Nicholas, ‘Libertarian Socialism: A Better Reconciliation between Equality and Self-Ownership,’ _Social Theory and Practice_ 37: 211–226.
-* Waldron, Jeremy (1988), _The Right to Private Property_, Oxford: Clarendon Press.
-* ––– (1992), ‘Superseding Historic Injustice,’ _Ethics_, 103: 4–28.
-* ––– (1993), ‘Property, Justification and Need,’ _Canadian Journal of Law and Jurisprudence_, 6: 185–215.
-* ––– (1994), ‘The Advantages and Difficulties of the Humean Theory of Property,’ _Social Philosophy and Policy_, 11: 85–123.
-* ––– (2001), ‘Property, Honesty, and Normative Resilience,’ in Stephen Munzer (ed.), _New Essays in the Legal and Political Theory of Property_, Cambridge: Cambridge University Press.
-* ––– (2002), _God, Locke, and Equality: Christian Foundations of Locke’s Political Thought_, Cambridge: Cambridge University Press.
-* ––– (2006), ‘Mr. Morgan’s Yacht’ in Christine Sypnowich (ed.) _The Egalitarian Conscience: Essays in Honour of G.A. Cohen_, (Oxford: Oxford University Press).
-* ––– (2009), ‘Community and Property—for those who have neither,’ _Theoretical Inquiries in Law_, 10: 161–92.
-* Wenar, Leif (1998), ‘Original Acquisition of Private Property,’ _Mind_, 97: 799–819.
-* Williams, Bernard (2002), _Truth and Truthfulness_, Princeton: Princeton University Press.
+* Ackerman, Bruce (1977), *Private Property and the Constitution*, New Haven: Yale University Press.
+* Alexander, Gregory and Peñalver, Eduardo (eds.) (2010), *Property and Community*, New York: Oxford University Press.
+* Alexander, Gregory and Peñalver, Eduardo (2012), *An Introduction to Property Theory*, Cambridge: Cambridge University Press.
+* Aquinas, Thomas, \[*ST*] *Summa Theologiae* \[1272], in Paul E. Sigmund (ed.) *St. Thomas Aquinas on Politics and Ethics*, New York: W.W. Norton, 1988.
+* Aristotle, *The Politics* \[c. 330 BCE], Stephen Everson (ed.), Cambridge: Cambridge University Press, 1988.
+* Attas, Daniel (2006), ‘Fragmenting Property,’ *Law and Philosophy*, 25: 119–49.
+* Bell, Abraham and Parchomovsky, Gideon (2003), ‘Of Property and Antiproperty,’ *Michigan Law Review*, 102: 1–70.
+* Bell, Abraham and Parchomovsky, Gideon (2008), ‘Reconfiguring Property in Three Dimensions,’ *University of Chicago Law Review*, 75: 1015–70.
+* Benn, S.I., and Peters, R.S. (1959), *Social Principles and the Democratic State*, London: George Allen and Unwin.
+* Bentham, Jeremy (1931), *The Theory of Legislation* \[1802], C.K. Ogden (ed.), London: Kegan Paul, Trench, Trubner & Co.
+* Blackstone, William (2001), *Blackstone’s commentaries on the Laws of England* \[1763], Wayne Morrison (ed.), London: Cavendish Publishing.
+* Brubaker, Stanley C. (2012), ‘Coming into One’s Own: John Locke’s Theory of Property, God, and Politics,’ *Review of Politics*, 74: 207–32.
+* Buchanan, James M. (1975), *The Limits of Liberty: Between Anarchy and Leviathan*, Chicago: University of Chicago Press.
+* Byrd, Sharon and Hruschka, Joachim (2006), ‘The Natural Law Duty to Recognize Private Property Ownership: Kant’s Theory of Property in His Doctrine of Right,’ *University of Toronto Law Journal*, 56: 217–82.
+* Carpenter, Kristen, Katyal, Sonia, and Riley, Angela (2009), ‘In Defense of Property,’ *Yale Law Journal*, 118:1022–1125.
+* Cohen, G.A. (1979) ‘Capitalism, Freedom and the Proletariat,’ in Alan Ryan (ed.) *The Idea of Freedom: Essays in Honor of Isaiah Berlin*, Oxford: Oxford University Press.
+* Cohen, G.A. (1995), *Self-ownership, Freedom and Equality*, Cambridge: Cambridge University Press.
+* Craig, E.J. (1990), *Knowledge and the State of Nature*, Oxford: Clarendon Press.
+* Dagan, Hanoch (2011), *Property: Values and Institutions*, Oxford: Oxford University Press.
+* –––, (2013), ‘Inside Property,’ *University of Toronto Law Journal*, 63: 1–21.
+* De Jasay, Anthony (2004), ‘Property and Its Enemies,’ *Philosophy*, 79: 57–66.
+* Dorfman, Avihay (2012), ‘The Society of Property,’ *University of Toronto Law Journal*, 62: 563–607.
+* Essert, Christopher (2013), ‘The Office of Ownership,’ *University of Toronto Law Journal*, 63: 418–461.
+* Friedman, Milton (1962), *Capitalism and Freedom*, Chicago: University of Chicago Press.
+* Gallie,W.B. (1956) ‘Essentially Contested Concepts,’ *Proceedings of the Aristotlean Society*, 56: 167–188.
+* Green, T.H. (1941), *Lectures on the Principles of Political Obligation* \[1895], London: Longmans Green & Co.
+* Grey, T.C. (1980), ‘The Disintegration of Property,’ in J.R. Pennock and J.W. Chapman (eds.) *Nomos XXII: Property* (New York: New York University Press.
+* Hardin, Garrett (1968), ‘The Tragedy of the Commons,’ *Science*, 162: 1243–8.
+* Harris, J.W. (1996), *Property and Justice*, Oxford: Oxford University Press.
+* Hart, H.L.A. (1968), *Punishment and Responsibility*, Oxford: Clarendon Press.
+* Hayek, F.A. (1976), *The Mirage of Social Justice Law,* Volume II of *Law, Legislation and Liberty*, London: Routledge and Kegan Paul.
+* Hegel, G.W. F. (1967), *The Philosophy of Right* \[1821], T.M. Knox (trans.), Cambridge: Cambridge University Press.
+* Heller, Michael (2001), *The Gridlock Economy: How Too Much Ownership Wrecks Markets, Stops Innovation, and Costs Lives*, New York: Basic Books.
+* Heller, Michael and Dagan, Hanoch (2001), ‘The Liberal Commons,’ *Yale Law Journal*, 110: 549–624.
+* Hobbes,Thomas (1983), *De Cive: The English Version* \[1647], Howard Warrender (ed.), Oxford: Clarendon Press.
+* Honore, A.M. (1961), ‘Ownership’ in A.G. Guest (ed.) *Oxford Essays in Jurisprudence*, Oxford: Oxford University Press.
+* Horne, Thomas A. (1990), *Property Rights and Poverty: Political Argument in Britain, 1605–1834*, Chapel Hill: University of North Carolina Press.
+* Hull, Gordon (2009), ‘Clearing the Rubbish: Locke, the Waste Proviso, and the Moral Justification of Intellectual Property,’ *Public Affairs Quarterly*, 23: 67–93.
+* Hume, David (1978), *A Treatise of Human Nature* \[1739] L.A. Selby–Bigge and P. H. Nidditch (eds.), Oxford: Clarendon Press.
+* Kant, Immanuel (1991) *The Metaphysics of Morals* \[1797], Mary Gregor (trans.) Cambridge: Cambridge University Press.
+* Katz, Larissa (2008), ‘Exclusion and Exclusivity in Property Law,’ *University of Toronto Law Journal*, 58: 275–315.
+* King, Desmond and Waldron, Jeremy (1988) ‘Citizenship, Social Citizenship and the Defence of Welfare Rights,’ *British Journal of Political Science*, 18: 415–43.
+* Lever, Annabelle (2012), ‘Privacy, Private Property, and Collective Property,’ *The Good Society*, 21: 47–60.
+* Lewis, David K. (1969), *Convention: A Philosophical Study*, Cambridge: Harvard University Press.
+* Locke, John (1988), *Two Treatises of Government* \[1689] Peter Laslett (ed.), Cambridge: Cambridge University Press.
+* Marx, Karl (1972), *Theories of Surplus Value* \[1862], London: Lawrence and Wishart.
+* ––– (1976), *Capital*, Volume I \[1867], Ben Fowkes (trans.), Harmondsworth: Penguin Books.
+* McElwee, Brian (2010), ‘The Appeal of Self-Ownership,’ *Social Theory and Practice*, 36: 213–232.
+* Merrill, Thomas (2012), ‘The Property Strategy,’ *University of Pennsylvania Law Review*, 160: 2061–2095.
+* Mill, John Stuart (1994), *Principles of Political Economy* \[1848], Jonathan Riley (ed.), Oxford: Oxford University Press.
+* Mises, Ludwig von (1951) *Socialism*, New Haven: Yale University Press.
+* Munzer, Stephen R. (1990), *A Theory of Property*, Cambridge: Cambridge University Press.
+* Murphy, Liam and Nagel, Thomas (2002), *The Myth of Ownership: Taxes and Justice* (New York: Oxford University Press).
+* Nozick, Robert (1974), *Anarchy, State and Utopia*, Oxford: Basil Blackwell.
+* Otsuka, Michael (1998), ‘Self-Ownership and Equality: A Lockean Reconciliation,’ *Philosophy and Public Affairs*, 27: 65–92. &#x20;
+* ––– (2003), *Libertarianism without Inequality*, New York: Oxford University Press.
+* Penner, J. E. (2000), *The Idea of Property in Law*, New York: Oxford University Press.
+* Phillips, Anne (2013), *Our Bodies, Whose Property?* (Princeton: Princeton University Press).
+* Pipes, Richard (1999), *Property and Freedom*, New York: Knopf.
+* Plato, *Republic* \[c. 370 BCE], Robin Waterfield (trans.), Oxford: Oxford University Press, 1993.
+* Pufendorf, Samuel (1991), *On the Duty of Man and Citizen According to Natural Law* \[1673], James Tully (ed.), Cambridge: Cambridge University Press.
+* Purdy, Jedidiah (2005), ‘A Freedom-Promoting Approach to Property: A Renewed Tradition for New Debates,’ *University of Chicago Law Review*, 72: 1237–1298.
+* ––– (2011), *The Meaning of Property: Freedom, Community, and the Legal Imagination*, New Haven: Yale University Press.
+* Radin, Margaret Jane (1982) ‘Property and Personhood,’ *Stanford Law Review*, 34: 957–1014.
+* Rasmussen, Kasper-Lippert (2008), ‘Against Self-Ownership,’ *Philosophy and Public Affairs*, 36: 86–118.
+* Rawls, John (1999), *A Theory of Justice*, Revised edition, Cambridge: Harvard University Press.
+* Ripstein, Arthur (2009), *Force and Freedom: Kant’s Legal and Political Philosophy*, Cambridge: Harvard University Press.
+* Rousseau, Jean Jacques (1994), *Discourse on the Origin of Inequality* \[1755], Franklin Philip (trans.) Oxford: Oxford University Press.
+* ––– (1968), *The Social Contract* \[1762], Maurice Cranston (trans.) Harmondsworth: Penguin Books.
+* Ryan, Alan (1984), *Property and Political Theory*, Oxford: Basil Blackwell.
+* Singer, Joseph (2000), *The Edges of the Field: Lessons on the Obligations of Ownership*, Cambridge: Harvard University Press.
+* Smith, Henry (2003), ‘The Language of Property: Form, Context, and Audience,’ *Stanford Law Review*, 55: 1105–91.
+* ––– (2012) ‘Property as the Law of Things,’ *Harvard Law Review*, 125: 1691–1726.
+* Sobel, David (2012), ‘Backing away from Libertarian Self-Ownership,’ *Ethics*, 123: 32–60.
+* Underkuffler, Laura (2003), *The Idea of Property: Its Meaning and Power*, Oxford: Oxford University Press.
+* Vrousalis, Nicholas, ‘Libertarian Socialism: A Better Reconciliation between Equality and Self-Ownership,’ *Social Theory and Practice* 37: 211–226.
+* Waldron, Jeremy (1988), *The Right to Private Property*, Oxford: Clarendon Press.
+* ––– (1992), ‘Superseding Historic Injustice,’ *Ethics*, 103: 4–28.
+* ––– (1993), ‘Property, Justification and Need,’ *Canadian Journal of Law and Jurisprudence*, 6: 185–215.
+* ––– (1994), ‘The Advantages and Difficulties of the Humean Theory of Property,’ *Social Philosophy and Policy*, 11: 85–123.
+* ––– (2001), ‘Property, Honesty, and Normative Resilience,’ in Stephen Munzer (ed.), *New Essays in the Legal and Political Theory of Property*, Cambridge: Cambridge University Press.
+* ––– (2002), *God, Locke, and Equality: Christian Foundations of Locke’s Political Thought*, Cambridge: Cambridge University Press.
+* ––– (2006), ‘Mr. Morgan’s Yacht’ in Christine Sypnowich (ed.) *The Egalitarian Conscience: Essays in Honour of G.A. Cohen*, (Oxford: Oxford University Press).
+* ––– (2009), ‘Community and Property—for those who have neither,’ *Theoretical Inquiries in Law*, 10: 161–92.
+* Wenar, Leif (1998), ‘Original Acquisition of Private Property,’ *Mind*, 97: 799–819.
+* Williams, Bernard (2002), *Truth and Truthfulness*, Princeton: Princeton University Press.
 
 ## Academic Tools
 
@@ -241,12 +241,12 @@ G.W.F.黑格尔对财产的解释集中在财产对自我发展的贡献上，�
 
 ## Other Internet Resources
 
-* [The Right to Private Property](http://www.iep.utm.edu/p/property.htm), by Tibor Machan, in _The Internet Encyclopedia of Philosophy_
-* [Property](http://en.wikipedia.org/wiki/Property), in the _Wikipedia_
+* [The Right to Private Property](http://www.iep.utm.edu/p/property.htm), by Tibor Machan, in *The Internet Encyclopedia of Philosophy*
+* [Property](http://en.wikipedia.org/wiki/Property), in the *Wikipedia*
 
 ## Related Entries
 
-[Aristotle, General Topics: political theory](https://plato.stanford.edu/entries/aristotle-politics/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [constitutionalism](https://plato.stanford.edu/entries/constitutionalism/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [economics \[normative\] and economic justice](https://plato.stanford.edu/entries/economic-justice/) | [equality](https://plato.stanford.edu/entries/equality/) | [exploitation](https://plato.stanford.edu/entries/exploitation/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [Hume, David: moral philosophy](https://plato.stanford.edu/entries/hume-moral/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [legal rights](https://plato.stanford.edu/entries/legal-rights/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [Locke, John: political philosophy](https://plato.stanford.edu/entries/locke-political/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/) | [personal identity: and ethics](https://plato.stanford.edu/entries/identity-ethics/) | [Plato: ethics and politics in _The Republic_](https://plato.stanford.edu/entries/plato-ethics-politics/) | [redistribution](https://plato.stanford.edu/entries/redistribution/) | [republicanism](https://plato.stanford.edu/entries/republicanism/)
+[Aristotle, General Topics: political theory](https://plato.stanford.edu/entries/aristotle-politics/) | [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [constitutionalism](https://plato.stanford.edu/entries/constitutionalism/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [economics \[normative\] and economic justice](https://plato.stanford.edu/entries/economic-justice/) | [equality](https://plato.stanford.edu/entries/equality/) | [exploitation](https://plato.stanford.edu/entries/exploitation/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [Hume, David: moral philosophy](https://plato.stanford.edu/entries/hume-moral/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [legal rights](https://plato.stanford.edu/entries/legal-rights/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [libertarianism](https://plato.stanford.edu/entries/libertarianism/) | [Locke, John: political philosophy](https://plato.stanford.edu/entries/locke-political/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [Mill, John Stuart: moral and political philosophy](https://plato.stanford.edu/entries/mill-moral-political/) | [personal identity: and ethics](https://plato.stanford.edu/entries/identity-ethics/) | [Plato: ethics and politics in *The Republic*](https://plato.stanford.edu/entries/plato-ethics-politics/) | [redistribution](https://plato.stanford.edu/entries/redistribution/) | [republicanism](https://plato.stanford.edu/entries/republicanism/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Jeremy Waldron](http://its.law.nyu.edu/facultyprofiles/profile.cfm?personID=26993) <[_jeremy.waldron@nyu.edu_](mailto:jeremy%2ewaldron%40nyu%2eedu)>
+[Jeremy Waldron](http://its.law.nyu.edu/facultyprofiles/profile.cfm?personID=26993) <[*jeremy.waldron@nyu.edu*](mailto:jeremy%2ewaldron%40nyu%2eedu)>

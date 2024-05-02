@@ -1,10 +1,10 @@
 # 信念 belief (Eric Schwitzgebel)
 
-_首次发布于 2006 年 8 月 14 日；实质性修订于 2023 年 11 月 15 日_
+*首次发布于 2006 年 8 月 14 日；实质性修订于 2023 年 11 月 15 日*
 
 英语为母语的心灵哲学家通常使用“信念”一词来指代我们大致上在我们认为某事为真或将其视为真实时所持有的态度。在这个意义上，相信某事并不需要积极地反思它：在普通成年人所相信的众多事物中，只有少数几个可以在任何一个特定时间点上占据主导地位。而且，“信念”这个术语在标准的哲学用法中并不意味着对所讨论问题的不确定性或任何深入的思考（正如在普通英语用法中有时会出现的情况）。在相关意义上，我们相信的许多事情都是相当平凡的：我们有头，现在是 21 世纪，桌子上有一只咖啡杯。因此，形成信念是心灵中最基本和最重要的特征之一，而信念的概念在心灵哲学和认识论中起着至关重要的作用。例如，心灵哲学中的“心灵-身体问题”部分是关于一个纯粹的物理有机体如何拥有信念的问题。认识论的大部分内容都围绕着我们的信念何时以及如何被证明或被视为知识的问题。
 
-大多数当代哲学家将信念描述为一种“命题态度”。命题通常被认为是句子所表达的内容（参见[命题](https://plato.stanford.edu/entries/propositions/)条目）。例如，如果两个句子意思相同（例如，英语中的“雪是白色”，德语中的“Schnee ist weiss”），它们表达的是同一个命题，而如果两个句子的意思不同，它们表达的是不同的命题。（在这里，我们暂时忽略了一些关于指示词的复杂性；请参见[指示词](https://plato.stanford.edu/entries/indexicals/)条目。）因此，_命题态度_是指对命题或命题为真的潜在事态持有某种态度、立场、看法或意见的心理状态，这种心理状态通常以“_S_ _A_ that _P_”的形式来表达，其中_S_指代持有该心理状态的个体，_A_指代态度，_P_是表达命题的句子。例如：Ahmed（主体）希望（态度）半人马座有智慧生命（命题），或者 Yifeng（主体）怀疑（态度）纽约市将在四百年后存在。一个人怀疑或希望的事情，另一个人可能会害怕、相信、渴望或打算——不同的态度，都针对同一个命题。关于信念的讨论通常嵌入在更一般的命题态度讨论中；而对命题态度的处理通常以信念作为首要和最重要的例子。
+大多数当代哲学家将信念描述为一种“命题态度”。命题通常被认为是句子所表达的内容（参见[命题](https://plato.stanford.edu/entries/propositions/)条目）。例如，如果两个句子意思相同（例如，英语中的“雪是白色”，德语中的“Schnee ist weiss”），它们表达的是同一个命题，而如果两个句子的意思不同，它们表达的是不同的命题。（在这里，我们暂时忽略了一些关于指示词的复杂性；请参见[指示词](https://plato.stanford.edu/entries/indexicals/)条目。）因此，_命题态度_是指对命题或命题为真的潜在事态持有某种态度、立场、看法或意见的心理状态，这种心理状态通常以“*S* *A* that *P*”的形式来表达，其中_S_指代持有该心理状态的个体，_A_指代态度，_P_是表达命题的句子。例如：Ahmed（主体）希望（态度）半人马座有智慧生命（命题），或者 Yifeng（主体）怀疑（态度）纽约市将在四百年后存在。一个人怀疑或希望的事情，另一个人可能会害怕、相信、渴望或打算——不同的态度，都针对同一个命题。关于信念的讨论通常嵌入在更一般的命题态度讨论中；而对命题态度的处理通常以信念作为首要和最重要的例子。
 
 ***
 
@@ -72,7 +72,7 @@ _首次发布于 2006 年 8 月 14 日；实质性修订于 2023 年 11 月 15 �
 
 哲学家经常支持关于信念的功能主义，甚至没有简要概述所涉及的各种特定功能关系，尽管 Loar（1981）是这种倾向的一个显著例外（另见 Leitgeb 2017）。然而，在当代哲学家通常认为是信念的特征性因果关系中，包括以下几点（这里只是粗略地概述；它们有许多不同的版本）：
 
-> （1）对命题（例如，\[_Q_]和\[如果_Q_那么_P_]）的反思，如果一个人相信这些命题并且没有先前承诺_P_的虚假性，通常会导致相信_P_的信念。
+> （1）对命题（例如，\[*Q*]和\[如果_Q_那么_P_]）的反思，如果一个人相信这些命题并且没有先前承诺_P_的虚假性，通常会导致相信_P_的信念。
 
 %%
 
@@ -106,7 +106,7 @@ Loar 强调了（2）和（3）而不是（1）和（4）的版本，但是至�
 
 规范主义者认为信念必然具有规范性或评价性的维度。也就是说，他们强调这样一个观念，即对于一种心理状态来说，它是一种_信念_的核心，如果它是错误的、不合理的或与其他态度不合理相关，那么它在某种程度上是有缺陷的。Shah 和 Velleman（2005 年）认为，将一种态度构想为一个关于_P_的信念意味着将其构想为受到_真理规范_的支配，也就是说，作为一种态度，只有当_P_为真时才是正确的。Engel（2018 年）认为，在命题态度中，信念是唯一一个“正确性条件”是真理的态度，这使其与其他密切相关的心理状态（如接受和认识感）区分开来。（另请参见 Wedgwood 2002；Gibbard 2005；Glüer 和 Wikforss 2013；McHugh 和 Whiting 2014。）Zangwill（2005 年）认为，信念本质的一部分是，如果我们相信_P_和_P 蕴含 Q_，我们应该相信_Q_（注意与功能主义观点的区别，即拥有这两种信念_通常会导致_相信_Q_）。Helton（2020 年）和 Flores（即将出版）认为，相信意味着具备合理更新自己信念的能力。
 
-由于规范主义仅承认作为信念的心理状态的一个必要条件，它本身并不能完全解释信念的本质，并且与上述大多数方法是兼容的。例如，表征主义规范主义从表征系统是某种功能系统的观念出发（Millikan 1984；Dretske 1988），而功能似乎是一个规范性概念，至少意味着与功能失调相对立。Burge（2010）认为，信念的“主要构成功能”是产生真实的命题表述。更广泛地说，信念经常被描述为具有“适应方向”，即信念（与欲望等不同）_应该_与所描述或代表的事实相吻合或正确匹配（Anscombe 1957/1963；Searle 1983；Humberstone 1992；Frost 2014）。如果你相信_P_，而_P_是错误的，那么你犯了错误或者犯了一个错误，而如果你渴望_P_，而_P_是错误的，你并没有以同样的方式犯错误或者犯了一个错误。
+由于规范主义仅承认作为信念的心理状态的一个必要条件，它本身并不能完全解释信念的本质，并且与上述大多数方法是兼容的。例如，表征主义规范主义从表征系统是某种功能系统的观念出发（Millikan 1984；Dretske 1988），而功能似乎是一个规范性概念，至少意味着与功能失调相对立。Burge（2010）认为，信念的“主要构成功能”是产生真实的命题表述。更广泛地说，信念经常被描述为具有“适应方向”，即信念（与欲望等不同）*应该_与所描述或代表的事实相吻合或正确匹配（Anscombe 1957/1963；Searle 1983；Humberstone 1992；Frost 2014）。如果你相信_P*，而_P_是错误的，那么你犯了错误或者犯了一个错误，而如果你渴望_P_，而_P_是错误的，你并没有以同样的方式犯错误或者犯了一个错误。
 
 ## 2. 信念的类型、程度和相关性
 
@@ -160,7 +160,7 @@ Loar 强调了（2）和（3）而不是（1）和（4）的版本，但是至�
 
 实证心理学家对隐含记忆或知识与明确记忆或知识进行了对比，但这种区别并不完全对应于第 2.2.1 节中描述的隐含/明确信念的区别。在心理学家的意义上，明确记忆涉及对先前呈现信息的有意识回忆，而隐含记忆涉及由于先前接触信息而导致任务的便利化或性能的改变，没有或至少不是由于有意识回忆（Schacter 1987; Schacter and Tulving 1994；尽管参见 Squire 2004）。例如，如果一个被试被要求记忆一个词对列表——鸟/卡车，炉子/桌子等等——然后以一个词作为线索，要求提供另一个词，那么被试的明确记忆正在被测试。如果两周后被试回来，对列表上的大多数词对没有任何有意识的回忆，那么他们对它们没有明确的记忆。然而，如果他们发现第二次学习“遗忘”的词对更容易，那么就会显示出对词对的隐含记忆。在这个意义上，“隐含”的知识通常不会是前一小节中所指的隐含（如果它可以迅速地从一个人明确相信的内容中推导出来，那么他们可能能够正确回答测试问题）；在概念上，一些心理上隐含的知识可能以前一小节所指的“明确”方式存储。
 
-一种不同的经验文献涉及“隐性态度”的问题，例如隐性种族主义或性别歧视，这些态度通常被认为与口头或有意识的态度相冲突。这种隐性态度可能通过情绪反应（例如，白人参与者在与黑人合作任务时与白人合作任务相比，情绪更为消极）或关联或启动任务（例如，当要求白人参与者将负面词语与深肤色面孔配对，将正面词语与浅肤色面孔配对时，他们的分类反应更快）来揭示。然而，对于这类测试在多大程度上揭示了受试者的（隐性）_信念_，以区别于仅仅是文化赋予的关联或除了完全形成的信念之外的态度，仍然存在争议（Wilson、Lindsey 和 Schooler 2000；Kihlstrom 2004；Lane 等人 2007；Hunter 2011；Tumulty 2014；Levy 2015；Machery 2016；Madva 2016；Zimmerman 2018；Brownstein、Madva 和 Gawronski 2019）。例如，Gendler 建议我们将这种隐性态度视为非理性和自动的_信念_，而不是真正的对证据有响应的_信念_（Gendler 2008a-b；对此的批评请参见 Schwitzgebel 2010；Mandelbaum 2013）。
+一种不同的经验文献涉及“隐性态度”的问题，例如隐性种族主义或性别歧视，这些态度通常被认为与口头或有意识的态度相冲突。这种隐性态度可能通过情绪反应（例如，白人参与者在与黑人合作任务时与白人合作任务相比，情绪更为消极）或关联或启动任务（例如，当要求白人参与者将负面词语与深肤色面孔配对，将正面词语与浅肤色面孔配对时，他们的分类反应更快）来揭示。然而，对于这类测试在多大程度上揭示了受试者的（隐性）*信念*，以区别于仅仅是文化赋予的关联或除了完全形成的信念之外的态度，仍然存在争议（Wilson、Lindsey 和 Schooler 2000；Kihlstrom 2004；Lane 等人 2007；Hunter 2011；Tumulty 2014；Levy 2015；Machery 2016；Madva 2016；Zimmerman 2018；Brownstein、Madva 和 Gawronski 2019）。例如，Gendler 建议我们将这种隐性态度视为非理性和自动的_信念_，而不是真正的对证据有响应的_信念_（Gendler 2008a-b；对此的批评请参见 Schwitzgebel 2010；Mandelbaum 2013）。
 
 ### 2.3 信念的程度
 
@@ -192,7 +192,7 @@ Loar 强调了（2）和（3）而不是（1）和（4）的版本，但是至�
 
 ## 3. 信念的内容
 
-哲学家通常说，对于_P_的信念具有（命题性的）_内容_ _P_。关于如何描述这些内容以及是什么决定了它们的各种问题都会出现。
+哲学家通常说，对于_P_的信念具有（命题性的）*内容* *P*。关于如何描述这些内容以及是什么决定了它们的各种问题都会出现。
 
 ### 3.1 精细还是粗粒度？
 
@@ -220,11 +220,11 @@ Ani 相信鲑鱼是鱼；不知道鲸鱼是哺乳动物，她也相信鲸鱼是�
 
 ### 3.3 De Re 与 De Dicto 信念归属
 
-Quine (1956) introduced contemporary philosophy of mind to the distinction between _de re_ and _de dicto_ belief attributions by means of examples like the following. Ralph sees a suspicious-looking man in a trenchcoat and concludes that that man is a spy. Unbeknownst to him, however, the man in the trenchcoat is the newly elected mayor, Bernard J. Ortcutt, and Ralph would sincerely deny the claim that “the mayor is a spy”. So does Ralph believe that the mayor is a spy? There appears to be a sense in which he does and a sense in which he does not. Philosophers have attempted to characterize the difference between these two senses by saying that Ralph believes _de re_, of that man (the man in the trenchcoat who happens also to be the mayor), that “he is a spy”, while he does not believe _de dicto_ that “the mayor is a spy”.
+Quine (1956) introduced contemporary philosophy of mind to the distinction between *de re* and *de dicto* belief attributions by means of examples like the following. Ralph sees a suspicious-looking man in a trenchcoat and concludes that that man is a spy. Unbeknownst to him, however, the man in the trenchcoat is the newly elected mayor, Bernard J. Ortcutt, and Ralph would sincerely deny the claim that “the mayor is a spy”. So does Ralph believe that the mayor is a spy? There appears to be a sense in which he does and a sense in which he does not. Philosophers have attempted to characterize the difference between these two senses by saying that Ralph believes *de re*, of that man (the man in the trenchcoat who happens also to be the mayor), that “he is a spy”, while he does not believe *de dicto* that “the mayor is a spy”.
 
-The standard test for distinguishing _de re_ from _de dicto_ attributions is _referential transparency_ or _opacity_. A sentence, or more accurately a position in a sentence, is held to be referentially transparent if terms or phrases in that position that refer to the same object can be freely substituted without altering the truth of the sentence. The (non-belief attributing) sentence “Jill kicked _X_” is naturally read as referentially transparent in this sense. If “Jill kicked the ball” is true, then so also is any sentence in which “the ball” is replaced by a term or phrase that refers to that same ball, e.g., “Jill kicked Davy’s favorite birthday present”, “Jill kicked the thing we bought at Walmart on August 26”. Sentences, or positions, are referentially opaque just in case they are not transparent, that is, if the substitution of co-referring terms or phrases could potentially alter their truth value. _De dicto_ belief attribution is held to be referentially opaque in this sense. On the _de dicto_ reading of belief, “Ralph believes that the man in the trenchcoat is a spy” may be true while “Ralph believes that the mayor is a spy” is false. Likewise, on a _de dicto_ reading, “Lois Lane believes that Superman is strong” may be true while “Lois believes that Clark Kent is strong” is false, even if Superman and Clark Kent are, unbeknownst to Lois, one and the same person. (Regarding the Lois example, however, see also §3.5, on Frege’s Puzzle, below.)
+The standard test for distinguishing *de re* from *de dicto* attributions is *referential transparency* or *opacity*. A sentence, or more accurately a position in a sentence, is held to be referentially transparent if terms or phrases in that position that refer to the same object can be freely substituted without altering the truth of the sentence. The (non-belief attributing) sentence “Jill kicked *X*” is naturally read as referentially transparent in this sense. If “Jill kicked the ball” is true, then so also is any sentence in which “the ball” is replaced by a term or phrase that refers to that same ball, e.g., “Jill kicked Davy’s favorite birthday present”, “Jill kicked the thing we bought at Walmart on August 26”. Sentences, or positions, are referentially opaque just in case they are not transparent, that is, if the substitution of co-referring terms or phrases could potentially alter their truth value. *De dicto* belief attribution is held to be referentially opaque in this sense. On the *de dicto* reading of belief, “Ralph believes that the man in the trenchcoat is a spy” may be true while “Ralph believes that the mayor is a spy” is false. Likewise, on a *de dicto* reading, “Lois Lane believes that Superman is strong” may be true while “Lois believes that Clark Kent is strong” is false, even if Superman and Clark Kent are, unbeknownst to Lois, one and the same person. (Regarding the Lois example, however, see also §3.5, on Frege’s Puzzle, below.)
 
-In some contexts, the liberal substitution of co-referential terms or phrases seems permissible in ascribing belief. Shifting examples, suppose Davy is a preschooler who has just met a new teacher, Mrs. Sanchez, who is Mexican, and he finds her too strict. Davy’s mother, in reporting this fact to his father, might say “Davy thinks Mrs. Sanchez is too strict” or “Davy thinks the new Mexican teacher is too strict”, even though Davy does not know the teacher’s name or that she is Mexican. Similarly, if Ralph eventually discovers that the man in the trenchcoat was Ortcutt, he might, in recounting the incident to his friends later, laughingly say, “For a moment, I thought the mayor was a spy!” or “For a moment, I thought Ortcutt was a spy”. In a _de re_ mood, then, we can say that Davy believes, of _X_, that she is too strict and Ralph believes, of _Y_, that he is a spy, where _X_ is replaced by any term or phrase that picks out Mrs. Sanchez and _Y_ is replaced by any term or phrase that picks out Ortcutt—though of course, depending on the situation, pragmatic considerations will favor the use of some terms or phrases over others. In a strict _de re_ sense, perhaps we can even say that Lois believes, of Clark Kent, that he is strong (though she may also simultaneously believe of him that he is not strong).
+In some contexts, the liberal substitution of co-referential terms or phrases seems permissible in ascribing belief. Shifting examples, suppose Davy is a preschooler who has just met a new teacher, Mrs. Sanchez, who is Mexican, and he finds her too strict. Davy’s mother, in reporting this fact to his father, might say “Davy thinks Mrs. Sanchez is too strict” or “Davy thinks the new Mexican teacher is too strict”, even though Davy does not know the teacher’s name or that she is Mexican. Similarly, if Ralph eventually discovers that the man in the trenchcoat was Ortcutt, he might, in recounting the incident to his friends later, laughingly say, “For a moment, I thought the mayor was a spy!” or “For a moment, I thought Ortcutt was a spy”. In a *de re* mood, then, we can say that Davy believes, of *X*, that she is too strict and Ralph believes, of *Y*, that he is a spy, where *X* is replaced by any term or phrase that picks out Mrs. Sanchez and *Y* is replaced by any term or phrase that picks out Ortcutt—though of course, depending on the situation, pragmatic considerations will favor the use of some terms or phrases over others. In a strict *de re* sense, perhaps we can even say that Lois believes, of Clark Kent, that he is strong (though she may also simultaneously believe of him that he is not strong).
 
 标准观点认为，归因于信念的句子在表达上存在系统性的歧义，既可以是指涉不透明的_de dicto_结构，也可以是指涉透明的_de re_结构。有时，这种观点与认为_de re_信念需要与信念对象有某种直接熟悉的观点相结合。
 
@@ -260,187 +260,187 @@ In some contexts, the liberal substitution of co-referential terms or phrases se
 
 ## Bibliography
 
-* Aizawa, Kenneth, 2003, _The systematicity arguments_, Dordrecht: Kluwer.
-* Allen, Colin, 1992, “Mental content”, _British Journal for the Philosophy of Science_, 43: 537–553.
-* Allen, Colin and Marc Bekoff, 1997, _Species of mind_, Cambridge, MA: MIT Press.
-* Andrews, Kristin, 2002, “Interpreting autism: A critique of Davidson on thought and language”, _Philosophical Psychology_, 15: 317–332.
-* –––, 2012, _Do apes read minds?_, Cambridge, MA: MIT Press.
+* Aizawa, Kenneth, 2003, *The systematicity arguments*, Dordrecht: Kluwer.
+* Allen, Colin, 1992, “Mental content”, *British Journal for the Philosophy of Science*, 43: 537–553.
+* Allen, Colin and Marc Bekoff, 1997, *Species of mind*, Cambridge, MA: MIT Press.
+* Andrews, Kristin, 2002, “Interpreting autism: A critique of Davidson on thought and language”, *Philosophical Psychology*, 15: 317–332.
+* –––, 2012, *Do apes read minds?*, Cambridge, MA: MIT Press.
 * Anscombe, G.E.M., 1957/1963, Intention, 2nd edition, Cambridge, MA: Harvard University Press.
-* Armstrong, D.M., 1968, _A materialist theory of the mind_, New York: Routledge & Kegan Paul.
-* –––, 1973, _Belief, truth, and knowledge_ Cambridge: Cambridge University Press.
-* Audi, Robert, 1994, “Dispositional beliefs and dispositions to believe”, _Noûs_, 28: 419–434.
-* Bain, Alexander, 1859/1876, _The emotions and the will_, New York: Appleton.
-* Baker, Lynne R., 1995, _Explaining attitudes_, Cambridge: Cambridge University Press.
-* Bartlett, Gary, 2018, “Occurrent states”, _Canadian Journal of Philosophy_, 48(1): 1–17.
-* Bayne, Tim, and Elisabeth Pacherie, 2005, “In defence of the doxastic conception of delusions”, _Mind and Language_, 20, 163–188.
-* Block, Ned, 1978, “Troubles with functionalism”, _Midwest Studies in the Philosophy of Science_, 9: 261–325.
-* Blumson, Ben, 2012, “Mental maps”, _Philosophy and Phenomenological Research_, 85: 413–434.
-* Bortolotti, Lisa, 2010, _Delusions and other irrational beliefs_, Oxford: Oxford University Press.
-* –––, 2012, “In defence of modest doxasticism about delusions”, _Neuroethics_, 5: 39–53.
-* Braddon-Mitchell, David and Frank Jackson, 1996, _The philosophy of mind and cognition_, Oxford: Oxford University Press.
-* Braithwaite, R.B., 1932–1933, “The nature of believing”, _Proceedings of the Aristotelian Society_, 33: 129–146.
-* Brandom, Robert B., 1994, _Making it explicit_, Cambridge, MA: Harvard University Press.
-* Bratman, Michael, 1999, _Faces of intention_, Cambridge: Cambridge University Press.
-* Brownstein, Michael, Alex Madva, and Bertram Gawronski, 2019, “What do implicit measures measure?”, _WIREs Cognitive Science_, 10:e1501.
-* Buchak, Lara, 2014, “Belief, credence, and norms”, _Philosophical Studies_, 169: 285–311.
-* Burge, Tyler, 1977, “Belief de re”, _Journal of Philosophy_, 75: 119–138.
-* –––, 2010, _Origins of objectivity_, Oxford: Oxford University Press.
-* Camp, Elisabeth, 2007, “Thinking with maps”, _Philosophical Perspectives_, 21: 145–182.
-* –––, 2018, “Why maps are not propositional”, in A. Grzankowski and M. Montague (eds.), _Non-propositional intentionality_, Oxford: Oxford University Press, 19–45.
-* Campbell, John, 2001, “Rationality, meaning, and the analysis of delusion”, _Philosophy, Psychiatry, and Psychology_, 8: 89–100.
-* Carnap, Rudolf, 1956, _Meaning and necessity_, revised edition, Chicago: University of Chicago Press.
-* Carruthers, Peter, 1996, _Language, thought, and consciousness_, Cambridge: Cambridge University Press.
-* Chan, Timothy (ed.), 2013, _The aim of belief_, Oxford: Oxford University Press.
-* Cartwright, Nancy, 1983, _How the laws of physics lie_, Oxford: Oxford University Press.
-* Chisholm, Roderick M., 1957, _Perceiving_, Ithaca: Cornell University Press.
-* Churchland, Paul M., 1981, “Eliminative materialism and the propositional attitudes”, _Journal of Philosophy_, 78: 67–90.
-* Cohen, L. Jonathan, 1989, “Belief and acceptance”, _Mind_, 98: 367–389.
-* –––, 1992, _An essay on belief and acceptance_, Oxford: Oxford University Press.
-* Crimmins, Mark, 1992, _Talk about beliefs_, Cambridge, MA: MIT Press.
-* Currie, Gregory, 2000, “Imagination, delusion, and hallucinations”, _Mind and Language_, 15: 168–183.
-* Curry, Devin Sanchez, 2020, “Interpretivism and norms”, _Philosophical Studies_, 177: 905–930.
-* –––, forthcoming, “Morgan’s Quaker gun and the species of belief”, _Philosophical Perspectives_.
-* Davidson, Donald, 1982, “Rational animals”, _Dialectica_, 36: 317–327.
-* –––, 1984, _Inquiries into truth and interpretation_, Oxford: Clarendon.
-* Demeter, Tamás, T. Parent, and Adam Toon, eds., 2022, _Mental fictionalism_, London: Routledge.
-* Dennett, Daniel C., 1969, _Content and consciousness_, London: Routledge.
-* –––, 1978, _Brainstorms_, Cambridge, MA: MIT Press.
-* –––, 1987, _The intentional stance_, Cambridge, MA: MIT Press.
-* –––, 1991, “Real patterns”, _Journal of Philosophy_, 87: 27–51.
-* _Diagnostic and Statistical Manual of Mental Disorders: DSM-V-TR_, 2022, Washington, DC: American Psychiatric Association.
-* Dretske, Fred, 1988, _Explaining behavior_, Cambridge, MA: MIT Press.
-* Egan, Andy, 2009, “Imagination, delusion, and self-deception”, in T. Bayne and J. Fernández (eds.), _Delusions, self-deception, and affective influences on belief-formation_, Hove, Sussex: Psychology Press, 263–280.
-* Engel, Pascal, 2018, “The doxastic zoo”, in A. Coliva, P. Leonardi, and S. Moruzzi (eds.), _Eva Picardi on language, analysis and history_, Palgrave.
-* Field, Hartry H., 1978, “Mental representation”, _Erkenntnis_, 13: 9–61.
-* Flores, Carolina, forthcoming, “Why think that belief is evidence-responsive?”, in J. Jong and E. Schwitzgebel (eds.), _The nature of belief_, Oxford: Oxford University Press.
-* Fodor, Jerry A., 1968, _Psychological explanation_, New York: Random House.
-* –––, 1975, _The language of thought_, New York: Cromwell.
-* –––, 1981, _Representations_, Cambridge, MA: MIT Press.
-* –––, 1987, _Psychosemantics_, Cambridge, MA: MIT Press.
-* –––, 1990, _A theory of content_, Cambridge, MA: MIT Press.
-* Fodor, Jerry and Ernest Lepore, 1992, _Holism_, Oxford: Blackwell.
-* Fodor, Jerry A. and Zenon W. Pylyshyn, 1988, “Connectionism and cognitive architecture: A critical analysis”, _Cognition_, 28: 3–71.
-* Frankish, Keith, 2004, _Mind and Supermind_, Cambridge: Cambridge University Press.
-* Friedman, Jane, 2019, “Inquiry and belief”, _Noûs_, 53: 296–315.
-* Frost, Kim, 2014, “On the very idea of direction of fit”, _Philosophical Review_, 123: 429–484.
-* Gallagher, Shaun, 2009, “Delusional realities”, in M. R. Broome and L. Bortolotti (eds.), _Psychiatry as cognitive neuroscience_, Oxford: Oxford University Press, 245–266.
-* Gendler, Tamar Szabó, 2008a, “Alief and belief”, _Journal of Philosophy_, 105: 634–663.
-* –––, 2008b, “Alief in action, and reaction”, _Mind and Language_, 23: 552–585.
-* Gertler, Brie, 2007, “Overextending the mind”, in B. Gertler and L. Shapiro (eds.), _Arguing about the Mind_, New York: Routledge.
-* Gettier, Edmund L., 1963, “Is justified true belief knowledge?”, _Analysis_, 23: 121–123.
-* Gibbard, Allan, 2005, “Truth and Correct Belief”, _Philosophical Issues_, 15: 338–350.
-* Glock, Hans-Johann, 2010, “Can animals judge?”, _Dialectica_, 64: 11–33.
-* Glüer, Kathrin, and Åsa Wikforss, 2013, “Against belief normativity”, in T. Chan, _The aim of belief_, Oxford: Oxford University Press, 121–146.
-* Harman, Gilbert, 1973, _Thought_, Princeton: Princeton University Press.
-* –––, 1986, _Change in view_, Cambridge: Cambridge University Press.
-* –––, 1987, “(Nonsolipsistic) conceptual role semantics”, in E. LePore (ed.), _New directions in semantics_, London: Academic, 55–81.
-* Heil, John, 1992, _The nature of true minds_, Cambridge, MA: MIT Press.
-* Helton, Grace, 2020, “If you can’t change what you believe, you don’t believe it”, _Noûs_, 54: 501–526.
-* Humberstone, I.L., 1992, “Direction of fit”, _Mind_, 101: 59–83.
-* Hume, David, 1740, _Treatise of human nature_, L.A. Selby-Bigge and P.H. Nidditch (eds.), Oxford: Oxford University Press, 1978.
-* Jackson, Elizabeth, 2020, “The relationship between belief and credence ”, _Philosophy Compass_, 15: e12668.
-* Jeffrey, Richard C., 1983, _The logic of decision_, 2nd edition, Chicago: University of Chicago Press.
-* Jenson, J. Christopher, 2016, “The belief illusion”, _British Journal for the Philosophy of Science_, 67: 965–995.
-* Jeshion, Robin, 2002, “Acquaintanceless _de re_ belief”, in J.K. Campbell, M. O’Rourke, and D. Shier (eds.), _Meaning and truth_, New York: Seven Bridges, 53–78.
-* Johnson, Kent, 2015, “Maps, languages, and manguages: Rival cognitive architectures?”, _Philosophical Psychology_, 28: 815–836.
-* Kaplan, David, 1968, “Quantifying in”, _Synthese_, 19: 178–214.
-* Keshet, Ezra, 2010, “Split intensionality: A new scope theory of de re and de dicto”, _Linguistics and Philosophy_, 33: 251–283.
-* Kihlstrom, John F., 2004, “Implicit methods in social psychology”, in _The SAGE handbook of methods in social psychology_, Carol Sansone, Carolyn C. Morf, and A.T. Panter (eds.), Thousand Oaks, CA: Sage Publications, 195–212.
-* Lane, Kristin A., Mahzarin R. Banaji, Brian A. Nosek, and Anthony G. Greenwald, 2007, “Understanding and using the Implicit Association Test: IV”, in _Implicit measures of attitudes_, Bernd Wittenbrink and Norbert Schwarz (eds.), New York: Guilford, 59–102.
-* Lehrer, Keith, 1990, _Metamind_, Oxford: Clarendon.
-* Leitgeb, Hannes, 2017, _The stability of belief_, Oxford: Oxford.
-* Levy, Neil, 2015, “Neither fish nor fowl: Implicit attitudes as patchy endorsements”, _Noûs_, 49: 800–823.
-* Lewis, David, 1972, “Psychophysical and theoretical identifications”, _Australasian Journal of Philosophy_, 50: 249–258.
-* –––, 1974, “Radical interpretation”, _Synthese_, 23: 331–344.
-* –––, 1979, “Attitudes de dicto and de se”, _Philosophical Review_, 88: 513–543.
-* –––, 1980, “Mad pain and Martian pain”, in N. Block (ed.), _Readings in the philosophy of psychology_ (Volume 1), Cambridge, MA: Harvard University Press, 216–222.
-* –––, 1994, “Lewis, David: Reduction of Mind”, in S. Guttenplan (ed.), _A companion to the philosophy of mind_, Oxford: Blackwell, 412–431.
-* Loar, Brian, 1981, _Mind and meaning_, Cambridge: Cambridge University Press.
-* Lycan, William G., 1981a, “Form, function, and feel”, _Journal of Philosophy_, 78: 24–50.
-* –––, 1981b, Toward a homuncular theory of believing, _Cognition and Brain Theory_, 4: 139–159.
-* –––, 1986, “Tacit belief”, in R.J. Bogdan (ed.), _Belief: Form, content, and function_, Oxford: Clarendon, 61–82.
-* Machery, Edouard, 2018, “De-Freuding implicit attitudes”, in M. Browstein and J. Saul (eds.), _Implicit bias and philosophy_, Oxford: Oxford University Press, 104–129.
-* Madva, Alex, 2016. “Why implicit attitudes are (probably) not beliefs”, _Synthese_, 193: 2659–2684.
-* Mandelbaum, Eric, 2013. “Against alief”, _Philosophical Studies_, 165: 197–211.
-* –––, 2016. “Attitude, inference, association: On the propositional structure of implicit bias”, _Noûs_, 50: 629–658.
-* Marcus, Ruth B., 1990, “Some revisionary proposals about belief and believing”, _Philosophy and Phenomenological Research_, 50: 132–153.
-* –––, 1995, “The anti-naturalism of some language centered accounts of belief”, _Dialectica_, 49, 113–129.
-* Matthews, Robert J., 2013, “Belief and belief’s penumbra”, in N. Nottelmann (ed.), _New essays on belief_, New York: Palgrave Macmillan, 100–123.
-* McHugh, Conor, and Daniel Whiting, 2014, “The normativity of belief”, _Analysis Reviews_, 74: 698–713.
-* Millikan, Ruth G., 1984, _Language, thought, and other biological categories_, Cambridge, MA: MIT Press.
-* –––, 1993, _White Queen psychology and other essays for Alice_, Cambridge, MA: MIT Press.
-* –––, 2017, _Beyond concepts_, Oxford: Oxford University Press.
-* Mölder, Bruno, 2010, _Mind ascribed_, Johns Benjamins.
-* Moore, Andrew Garford, and George Botterill, 2023, “Why beliefs are not dispositional stereotypes”, _Theoria_, 89: 483–494.
-* Murray, Dylan, Justin Sytsma, and Jonathan Livengood, 2013, “God knows (but does God believe?)”, _Philosophical Studies_, 166: 83–107.
-* Myers-Schulz, Blake, and Eric Schwitzgebel, 2013, “Knowing that P without Believing that P”, _Noûs_, 47: 371–384.
-* Neander, Karen, 2017, _A mark of the mental_, Cambridge, MA: MIT Press.
-* Papineau, David, 1984, “Representation and explanation”, _Philosophy of Science_, 51: 550–572.
-* Peirce, C. S., 1878, “How to make our ideas clear”, _Popular Science Monthly_, 12: 286–302.
-* Perner, Josef, 1991, _Understanding the representational mind_, Cambridge, MA: MIT Press.
-* Pettit, Philip, 1993, _The common mind_, New York: Oxford University Press.
-* Poslajko, Krzysztof, 2022, “How to think about the debate over the reality of beliefs”, _Review of Philosophy and Psychology_, 13: 85–107.
-* Price, H. H., 1969, _Belief_, London: Allen & Unwin.
-* Putnam, Hilary, 1975, _Mind, language, and reality_, London: Cambridge University Press.
-* Quilty-Dunn, Jake, and Eric Mandelbaum, 2018, “Against dispositionalism: Belief in cognitive science”, _Philosophical Studies_, 175: 2353–2372.
-* Quine, W.V.O., 1951, “Two dogmas of empiricism”, _Philosophical Review_, 60: 20–43.
-* –––, 1956, “Quantifiers and propositional attitudes”, _Journal of Philosophy_, 53: 177–186.
-* –––, 1960, _Word and object_, Cambridge, MA: MIT Press.
-* Radford, Colin, 1966, “Knowledge–by examples”, _Analysis_, 27: 1–11.
-* Ramsey, Frank P., 1926 \[1990], “Truth and probability”, in D.H. Mellor (ed.), _Ramsey: Philosophical Papers_, Cambridge: Cambridge University Press, 1990, 52–94.
-* –––, 1927–1929 \[1991], _On truth_, N. Rescher and U. Majer (eds.), Dordrecht: Springer.
-* Rayo, Augustín, 2013, _The construction of logical space_, Oxford: Oxford University Press.
-* Rescorla, Michael, 2009, “Cognitive maps and the language of thought”, _British Journal for the Philosophy of Science_, 60: 377–407.
-* Robbins, Philip, 2004, “To structure, or not to structure?”, _Synthese_, 139: 55–80.
-* Routley, Richard, 1981, “Alleged problems in attributing beliefs and intentionality to animals”, _Inquiry_, 24: 385–417.
-* Ryle, Gilbert, 1949, _The concept of mind_, New York: Barnes & Noble.
-* Schacter, Daniel L., 1987, “Implicit memory: History and current status”, _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 13: 501–518.
-* Schacter, Daniel L. and Endel Tulving, 1994, “What are the memory systems of 1994?”, in D.L. Schacter and E. Tulving (eds.), _Memory systems 1994_, Cambridge, MA: MIT Press, 1–38.
-* Schacter, Daniel L., Anthony D. Wagner, and Randy L. Buckner, 2000, “Memory systems of 1999”, in E. Tulving and F.I.M. Craik (eds.), _The Oxford handbook of memory_, Oxford: Oxford University Press, 627–643.
-* Schwitzgebel, Eric, 2001, “In-between believing”, _Philosophical Quarterly_, 51: 76–82.
-* –––, 2002, “A phenomenal, dispositional account of belief”, _Noûs_, 36: 249–275.
-* –––, 2010, “Acting contrary to our professed beliefs, or the gulf between occurrent judgment and dispositional belief”, _Pacific Philosophical Quarterly_, 91: 531–553.
-* –––, 2013, “A dispositional approach to attitudes: Thinking outside the belief box”, in N. Nottelmann (ed.), _New essays on belief_, New York: Palgrave Macmillan, 75–99.
-* –––, forthcoming, “Dispositionalism, yay! Representationalism, boo!”, in J. Jong and E. Schwitzgebel (eds.), _The nature of belief_, Oxford: Oxford University Press.
-* Scott, Rose M. and Renee Baillargeon, 2017, “Early false belief understanding”, _Trends in Cognitive Sciences_, 21: 237–249.
-* Searle, John R., 1983, _Intentionality_, Cambridge: Cambridge University Press.
-* –––, 1992, _The rediscovery of the mind_, Cambridge, MA: MIT Press.
-* Sellars, Wilfrid, 1956, “Empiricism and the philosophy of mind”, _Minnesota Studies in the Philosophy of Science_, 1: 253–329.
-* –––, 1969, “Language as thought and as communication”, _Philosophy and Phenomenological Research_, 29: 506–527.
-* Shea, Nicholas, 2007, “Content and its vehicles in connectionist systems”, _Mind and Language_, 22: 246–269.
-* Shoemaker, Sydney, 2003, _Identity, cause, and mind_, expanded edition, Oxford: Oxford University Press.
-* Skyrms, Brian, 2000, _Choice and chance_, 4th edition, Belmont, CA: Wadsworth/Thompson.
-* Smith, Peter, 1982, “On animal beliefs”, _Southern Journal of Philosophy_, 20: 503–512.
-* Smithies, Declan, forthcoming, “Belief as a feeling of conviction”, in J. Jong and E. Schwitzgebel (eds.), _The nature of belief_, Oxford: Oxford University Press.
-* Smolensky, Paul, 1995, “Connectionism, constituency, and the language of thought”, in C. Macdonald and G. Macdonald (eds.), _Connectionism_, Cambridge, MA: Blackwell, 164–198.
-* Soames, Scott, 1987, “Direct reference, propositional attitudes and semantic content”, _Philosophical Topics_, 15: 47–87.
-* Southgate, B., A. Senju, and G. Csibra, 2007, “Action anticipation through attribution of false belief by 2-year-olds”, _Psychological Science_, 18: 587–592.
-* Squire, Larry R., 1987, _Memory and brain_, New York: Oxford University Press.
-* –––, 2004, “Memory systems of the brain: A brief history and current perspective”, _Neurobiology of Learning and Memory_, 82: 171–177.
-* Stalnaker, Robert, 1984, _Inquiry_, Cambridge, MA: MIT Press.
-* Stanley, Jason, 2011, _Know how_, Oxford: Oxford University Press.
-* Stanley, Jason, and Timothy Williamson, 2001, “Knowing how”, _Journal of Philosophy_, 92: 411–444.
-* Stephens, G. Lynn, and George Graham., 2004, “Reconceiving delusions”, _International Review of Psychiatry_, 16: 236–241.
-* Stich, Stephen P., 1979, “Do animals have beliefs?”, _Australasian Journal of Philosophy_, 57: 15–28.
-* Stich, Stephen P., 1983, _From folk psychology to cognitive science_, Cambridge, MA: MIT Press.
-* Sturgeon, Scott, 2008, “Reason and the grain of belief”, _Noûs_, 42: 139–165.
-* Taylor, Kenneth A., 2002, De re and de dicto: Against the conventional wisdom. _Philosophical Perspectives_, 16: 225–265.
-* Tumulty, Maura, 2011, “Delusions and dispositionalism about belief”, _Mind and Language_, 26: 596–628.
-* –––, 2014, “Managing mismatch between belief and behavior”, _Pacific Philosophical Quarterly_, 95: 261–292.
-* van Fraassen, Bas C., 1980, _The scientific image_, Oxford: Oxford University Press.
-* van Gelder, Tim, 1990, “Compositionality: A connectionist variation on a classical theme”, _Cognitive Science_, 14: 355–384.
-* Van Leeuwen, Neil, 2014, “Religious credence is not factual belief”, _Cognition_, 133(3): 698–715.
-* –––, forthcoming, “The Trinity and the light switch: Two faces of belief”, in J. Jong and E. Schwitzgebel (eds.), _The nature of belief_, Oxford: Oxford University Press.
-* Velleman, J. David, 2000, _The possibility of practical reason_, Oxford: Clarendon.
-* Vernazzani, Alfredo, and Dimitri Coelho Mollo, forthcoming, “The formats of cognitive representation: A computational account”, _Philosophy of Science._
-* Wedgwood, Ralph, 2002, “The aim of belief”, _Noûs_, 36: 267–297.
-* Wellman, Henry M., David Cross, and Julanne Watson, 2001, “Meta-analysis of theory of mind development: The truth about false belief”, _Child Development_, 72: 655–684.
-* Wettstein, H., 2004, _The magic prism_, Oxford: Oxford University Press.
-* Wilson, Timothy D., Samuel Lindsey, and Tonya T. Schooler, 2000, “A model of dual attitudes”, _Psychological Review_, 107: 101–126.
-* Wright, Jessica, 2017, “Ramsey’s theory of belief and the problem of attitude divergence”, in S. Pihlström (ed.), _Pragmatism and objectivity_, New York: Routledge, 133–149.
-* Yalcin, Seth, 2021, “Fragmented but rational”, in C. Borgoni, D. Kindermann, and A. Onofri (eds.), _The fragmented mind_, Oxford: Oxford University Press.
-* Zangwill, Nick, 2005, “The normativity of the mental”, _Philosophical Explorations_, 8: 1–19.
-* Zimmerman, Aaron, 2018, _Belief: A pragmatic picture_, Oxford: Oxford University Press.
+* Armstrong, D.M., 1968, *A materialist theory of the mind*, New York: Routledge & Kegan Paul.
+* –––, 1973, *Belief, truth, and knowledge* Cambridge: Cambridge University Press.
+* Audi, Robert, 1994, “Dispositional beliefs and dispositions to believe”, *Noûs*, 28: 419–434.
+* Bain, Alexander, 1859/1876, *The emotions and the will*, New York: Appleton.
+* Baker, Lynne R., 1995, *Explaining attitudes*, Cambridge: Cambridge University Press.
+* Bartlett, Gary, 2018, “Occurrent states”, *Canadian Journal of Philosophy*, 48(1): 1–17.
+* Bayne, Tim, and Elisabeth Pacherie, 2005, “In defence of the doxastic conception of delusions”, *Mind and Language*, 20, 163–188.
+* Block, Ned, 1978, “Troubles with functionalism”, *Midwest Studies in the Philosophy of Science*, 9: 261–325.
+* Blumson, Ben, 2012, “Mental maps”, *Philosophy and Phenomenological Research*, 85: 413–434.
+* Bortolotti, Lisa, 2010, *Delusions and other irrational beliefs*, Oxford: Oxford University Press.
+* –––, 2012, “In defence of modest doxasticism about delusions”, *Neuroethics*, 5: 39–53.
+* Braddon-Mitchell, David and Frank Jackson, 1996, *The philosophy of mind and cognition*, Oxford: Oxford University Press.
+* Braithwaite, R.B., 1932–1933, “The nature of believing”, *Proceedings of the Aristotelian Society*, 33: 129–146.
+* Brandom, Robert B., 1994, *Making it explicit*, Cambridge, MA: Harvard University Press.
+* Bratman, Michael, 1999, *Faces of intention*, Cambridge: Cambridge University Press.
+* Brownstein, Michael, Alex Madva, and Bertram Gawronski, 2019, “What do implicit measures measure?”, *WIREs Cognitive Science*, 10:e1501.
+* Buchak, Lara, 2014, “Belief, credence, and norms”, *Philosophical Studies*, 169: 285–311.
+* Burge, Tyler, 1977, “Belief de re”, *Journal of Philosophy*, 75: 119–138.
+* –––, 2010, *Origins of objectivity*, Oxford: Oxford University Press.
+* Camp, Elisabeth, 2007, “Thinking with maps”, *Philosophical Perspectives*, 21: 145–182.
+* –––, 2018, “Why maps are not propositional”, in A. Grzankowski and M. Montague (eds.), *Non-propositional intentionality*, Oxford: Oxford University Press, 19–45.
+* Campbell, John, 2001, “Rationality, meaning, and the analysis of delusion”, *Philosophy, Psychiatry, and Psychology*, 8: 89–100.
+* Carnap, Rudolf, 1956, *Meaning and necessity*, revised edition, Chicago: University of Chicago Press.
+* Carruthers, Peter, 1996, *Language, thought, and consciousness*, Cambridge: Cambridge University Press.
+* Chan, Timothy (ed.), 2013, *The aim of belief*, Oxford: Oxford University Press.
+* Cartwright, Nancy, 1983, *How the laws of physics lie*, Oxford: Oxford University Press.
+* Chisholm, Roderick M., 1957, *Perceiving*, Ithaca: Cornell University Press.
+* Churchland, Paul M., 1981, “Eliminative materialism and the propositional attitudes”, *Journal of Philosophy*, 78: 67–90.
+* Cohen, L. Jonathan, 1989, “Belief and acceptance”, *Mind*, 98: 367–389.
+* –––, 1992, *An essay on belief and acceptance*, Oxford: Oxford University Press.
+* Crimmins, Mark, 1992, *Talk about beliefs*, Cambridge, MA: MIT Press.
+* Currie, Gregory, 2000, “Imagination, delusion, and hallucinations”, *Mind and Language*, 15: 168–183.
+* Curry, Devin Sanchez, 2020, “Interpretivism and norms”, *Philosophical Studies*, 177: 905–930.
+* –––, forthcoming, “Morgan’s Quaker gun and the species of belief”, *Philosophical Perspectives*.
+* Davidson, Donald, 1982, “Rational animals”, *Dialectica*, 36: 317–327.
+* –––, 1984, *Inquiries into truth and interpretation*, Oxford: Clarendon.
+* Demeter, Tamás, T. Parent, and Adam Toon, eds., 2022, *Mental fictionalism*, London: Routledge.
+* Dennett, Daniel C., 1969, *Content and consciousness*, London: Routledge.
+* –––, 1978, *Brainstorms*, Cambridge, MA: MIT Press.
+* –––, 1987, *The intentional stance*, Cambridge, MA: MIT Press.
+* –––, 1991, “Real patterns”, *Journal of Philosophy*, 87: 27–51.
+* *Diagnostic and Statistical Manual of Mental Disorders: DSM-V-TR*, 2022, Washington, DC: American Psychiatric Association.
+* Dretske, Fred, 1988, *Explaining behavior*, Cambridge, MA: MIT Press.
+* Egan, Andy, 2009, “Imagination, delusion, and self-deception”, in T. Bayne and J. Fernández (eds.), *Delusions, self-deception, and affective influences on belief-formation*, Hove, Sussex: Psychology Press, 263–280.
+* Engel, Pascal, 2018, “The doxastic zoo”, in A. Coliva, P. Leonardi, and S. Moruzzi (eds.), *Eva Picardi on language, analysis and history*, Palgrave.
+* Field, Hartry H., 1978, “Mental representation”, *Erkenntnis*, 13: 9–61.
+* Flores, Carolina, forthcoming, “Why think that belief is evidence-responsive?”, in J. Jong and E. Schwitzgebel (eds.), *The nature of belief*, Oxford: Oxford University Press.
+* Fodor, Jerry A., 1968, *Psychological explanation*, New York: Random House.
+* –––, 1975, *The language of thought*, New York: Cromwell.
+* –––, 1981, *Representations*, Cambridge, MA: MIT Press.
+* –––, 1987, *Psychosemantics*, Cambridge, MA: MIT Press.
+* –––, 1990, *A theory of content*, Cambridge, MA: MIT Press.
+* Fodor, Jerry and Ernest Lepore, 1992, *Holism*, Oxford: Blackwell.
+* Fodor, Jerry A. and Zenon W. Pylyshyn, 1988, “Connectionism and cognitive architecture: A critical analysis”, *Cognition*, 28: 3–71.
+* Frankish, Keith, 2004, *Mind and Supermind*, Cambridge: Cambridge University Press.
+* Friedman, Jane, 2019, “Inquiry and belief”, *Noûs*, 53: 296–315.
+* Frost, Kim, 2014, “On the very idea of direction of fit”, *Philosophical Review*, 123: 429–484.
+* Gallagher, Shaun, 2009, “Delusional realities”, in M. R. Broome and L. Bortolotti (eds.), *Psychiatry as cognitive neuroscience*, Oxford: Oxford University Press, 245–266.
+* Gendler, Tamar Szabó, 2008a, “Alief and belief”, *Journal of Philosophy*, 105: 634–663.
+* –––, 2008b, “Alief in action, and reaction”, *Mind and Language*, 23: 552–585.
+* Gertler, Brie, 2007, “Overextending the mind”, in B. Gertler and L. Shapiro (eds.), *Arguing about the Mind*, New York: Routledge.
+* Gettier, Edmund L., 1963, “Is justified true belief knowledge?”, *Analysis*, 23: 121–123.
+* Gibbard, Allan, 2005, “Truth and Correct Belief”, *Philosophical Issues*, 15: 338–350.
+* Glock, Hans-Johann, 2010, “Can animals judge?”, *Dialectica*, 64: 11–33.
+* Glüer, Kathrin, and Åsa Wikforss, 2013, “Against belief normativity”, in T. Chan, *The aim of belief*, Oxford: Oxford University Press, 121–146.
+* Harman, Gilbert, 1973, *Thought*, Princeton: Princeton University Press.
+* –––, 1986, *Change in view*, Cambridge: Cambridge University Press.
+* –––, 1987, “(Nonsolipsistic) conceptual role semantics”, in E. LePore (ed.), *New directions in semantics*, London: Academic, 55–81.
+* Heil, John, 1992, *The nature of true minds*, Cambridge, MA: MIT Press.
+* Helton, Grace, 2020, “If you can’t change what you believe, you don’t believe it”, *Noûs*, 54: 501–526.
+* Humberstone, I.L., 1992, “Direction of fit”, *Mind*, 101: 59–83.
+* Hume, David, 1740, *Treatise of human nature*, L.A. Selby-Bigge and P.H. Nidditch (eds.), Oxford: Oxford University Press, 1978.
+* Jackson, Elizabeth, 2020, “The relationship between belief and credence ”, *Philosophy Compass*, 15: e12668.
+* Jeffrey, Richard C., 1983, *The logic of decision*, 2nd edition, Chicago: University of Chicago Press.
+* Jenson, J. Christopher, 2016, “The belief illusion”, *British Journal for the Philosophy of Science*, 67: 965–995.
+* Jeshion, Robin, 2002, “Acquaintanceless *de re* belief”, in J.K. Campbell, M. O’Rourke, and D. Shier (eds.), *Meaning and truth*, New York: Seven Bridges, 53–78.
+* Johnson, Kent, 2015, “Maps, languages, and manguages: Rival cognitive architectures?”, *Philosophical Psychology*, 28: 815–836.
+* Kaplan, David, 1968, “Quantifying in”, *Synthese*, 19: 178–214.
+* Keshet, Ezra, 2010, “Split intensionality: A new scope theory of de re and de dicto”, *Linguistics and Philosophy*, 33: 251–283.
+* Kihlstrom, John F., 2004, “Implicit methods in social psychology”, in *The SAGE handbook of methods in social psychology*, Carol Sansone, Carolyn C. Morf, and A.T. Panter (eds.), Thousand Oaks, CA: Sage Publications, 195–212.
+* Lane, Kristin A., Mahzarin R. Banaji, Brian A. Nosek, and Anthony G. Greenwald, 2007, “Understanding and using the Implicit Association Test: IV”, in *Implicit measures of attitudes*, Bernd Wittenbrink and Norbert Schwarz (eds.), New York: Guilford, 59–102.
+* Lehrer, Keith, 1990, *Metamind*, Oxford: Clarendon.
+* Leitgeb, Hannes, 2017, *The stability of belief*, Oxford: Oxford.
+* Levy, Neil, 2015, “Neither fish nor fowl: Implicit attitudes as patchy endorsements”, *Noûs*, 49: 800–823.
+* Lewis, David, 1972, “Psychophysical and theoretical identifications”, *Australasian Journal of Philosophy*, 50: 249–258.
+* –––, 1974, “Radical interpretation”, *Synthese*, 23: 331–344.
+* –––, 1979, “Attitudes de dicto and de se”, *Philosophical Review*, 88: 513–543.
+* –––, 1980, “Mad pain and Martian pain”, in N. Block (ed.), *Readings in the philosophy of psychology* (Volume 1), Cambridge, MA: Harvard University Press, 216–222.
+* –––, 1994, “Lewis, David: Reduction of Mind”, in S. Guttenplan (ed.), *A companion to the philosophy of mind*, Oxford: Blackwell, 412–431.
+* Loar, Brian, 1981, *Mind and meaning*, Cambridge: Cambridge University Press.
+* Lycan, William G., 1981a, “Form, function, and feel”, *Journal of Philosophy*, 78: 24–50.
+* –––, 1981b, Toward a homuncular theory of believing, *Cognition and Brain Theory*, 4: 139–159.
+* –––, 1986, “Tacit belief”, in R.J. Bogdan (ed.), *Belief: Form, content, and function*, Oxford: Clarendon, 61–82.
+* Machery, Edouard, 2018, “De-Freuding implicit attitudes”, in M. Browstein and J. Saul (eds.), *Implicit bias and philosophy*, Oxford: Oxford University Press, 104–129.
+* Madva, Alex, 2016. “Why implicit attitudes are (probably) not beliefs”, *Synthese*, 193: 2659–2684.
+* Mandelbaum, Eric, 2013. “Against alief”, *Philosophical Studies*, 165: 197–211.
+* –––, 2016. “Attitude, inference, association: On the propositional structure of implicit bias”, *Noûs*, 50: 629–658.
+* Marcus, Ruth B., 1990, “Some revisionary proposals about belief and believing”, *Philosophy and Phenomenological Research*, 50: 132–153.
+* –––, 1995, “The anti-naturalism of some language centered accounts of belief”, *Dialectica*, 49, 113–129.
+* Matthews, Robert J., 2013, “Belief and belief’s penumbra”, in N. Nottelmann (ed.), *New essays on belief*, New York: Palgrave Macmillan, 100–123.
+* McHugh, Conor, and Daniel Whiting, 2014, “The normativity of belief”, *Analysis Reviews*, 74: 698–713.
+* Millikan, Ruth G., 1984, *Language, thought, and other biological categories*, Cambridge, MA: MIT Press.
+* –––, 1993, *White Queen psychology and other essays for Alice*, Cambridge, MA: MIT Press.
+* –––, 2017, *Beyond concepts*, Oxford: Oxford University Press.
+* Mölder, Bruno, 2010, *Mind ascribed*, Johns Benjamins.
+* Moore, Andrew Garford, and George Botterill, 2023, “Why beliefs are not dispositional stereotypes”, *Theoria*, 89: 483–494.
+* Murray, Dylan, Justin Sytsma, and Jonathan Livengood, 2013, “God knows (but does God believe?)”, *Philosophical Studies*, 166: 83–107.
+* Myers-Schulz, Blake, and Eric Schwitzgebel, 2013, “Knowing that P without Believing that P”, *Noûs*, 47: 371–384.
+* Neander, Karen, 2017, *A mark of the mental*, Cambridge, MA: MIT Press.
+* Papineau, David, 1984, “Representation and explanation”, *Philosophy of Science*, 51: 550–572.
+* Peirce, C. S., 1878, “How to make our ideas clear”, *Popular Science Monthly*, 12: 286–302.
+* Perner, Josef, 1991, *Understanding the representational mind*, Cambridge, MA: MIT Press.
+* Pettit, Philip, 1993, *The common mind*, New York: Oxford University Press.
+* Poslajko, Krzysztof, 2022, “How to think about the debate over the reality of beliefs”, *Review of Philosophy and Psychology*, 13: 85–107.
+* Price, H. H., 1969, *Belief*, London: Allen & Unwin.
+* Putnam, Hilary, 1975, *Mind, language, and reality*, London: Cambridge University Press.
+* Quilty-Dunn, Jake, and Eric Mandelbaum, 2018, “Against dispositionalism: Belief in cognitive science”, *Philosophical Studies*, 175: 2353–2372.
+* Quine, W.V.O., 1951, “Two dogmas of empiricism”, *Philosophical Review*, 60: 20–43.
+* –––, 1956, “Quantifiers and propositional attitudes”, *Journal of Philosophy*, 53: 177–186.
+* –––, 1960, *Word and object*, Cambridge, MA: MIT Press.
+* Radford, Colin, 1966, “Knowledge–by examples”, *Analysis*, 27: 1–11.
+* Ramsey, Frank P., 1926 \[1990], “Truth and probability”, in D.H. Mellor (ed.), *Ramsey: Philosophical Papers*, Cambridge: Cambridge University Press, 1990, 52–94.
+* –––, 1927–1929 \[1991], *On truth*, N. Rescher and U. Majer (eds.), Dordrecht: Springer.
+* Rayo, Augustín, 2013, *The construction of logical space*, Oxford: Oxford University Press.
+* Rescorla, Michael, 2009, “Cognitive maps and the language of thought”, *British Journal for the Philosophy of Science*, 60: 377–407.
+* Robbins, Philip, 2004, “To structure, or not to structure?”, *Synthese*, 139: 55–80.
+* Routley, Richard, 1981, “Alleged problems in attributing beliefs and intentionality to animals”, *Inquiry*, 24: 385–417.
+* Ryle, Gilbert, 1949, *The concept of mind*, New York: Barnes & Noble.
+* Schacter, Daniel L., 1987, “Implicit memory: History and current status”, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 13: 501–518.
+* Schacter, Daniel L. and Endel Tulving, 1994, “What are the memory systems of 1994?”, in D.L. Schacter and E. Tulving (eds.), *Memory systems 1994*, Cambridge, MA: MIT Press, 1–38.
+* Schacter, Daniel L., Anthony D. Wagner, and Randy L. Buckner, 2000, “Memory systems of 1999”, in E. Tulving and F.I.M. Craik (eds.), *The Oxford handbook of memory*, Oxford: Oxford University Press, 627–643.
+* Schwitzgebel, Eric, 2001, “In-between believing”, *Philosophical Quarterly*, 51: 76–82.
+* –––, 2002, “A phenomenal, dispositional account of belief”, *Noûs*, 36: 249–275.
+* –––, 2010, “Acting contrary to our professed beliefs, or the gulf between occurrent judgment and dispositional belief”, *Pacific Philosophical Quarterly*, 91: 531–553.
+* –––, 2013, “A dispositional approach to attitudes: Thinking outside the belief box”, in N. Nottelmann (ed.), *New essays on belief*, New York: Palgrave Macmillan, 75–99.
+* –––, forthcoming, “Dispositionalism, yay! Representationalism, boo!”, in J. Jong and E. Schwitzgebel (eds.), *The nature of belief*, Oxford: Oxford University Press.
+* Scott, Rose M. and Renee Baillargeon, 2017, “Early false belief understanding”, *Trends in Cognitive Sciences*, 21: 237–249.
+* Searle, John R., 1983, *Intentionality*, Cambridge: Cambridge University Press.
+* –––, 1992, *The rediscovery of the mind*, Cambridge, MA: MIT Press.
+* Sellars, Wilfrid, 1956, “Empiricism and the philosophy of mind”, *Minnesota Studies in the Philosophy of Science*, 1: 253–329.
+* –––, 1969, “Language as thought and as communication”, *Philosophy and Phenomenological Research*, 29: 506–527.
+* Shea, Nicholas, 2007, “Content and its vehicles in connectionist systems”, *Mind and Language*, 22: 246–269.
+* Shoemaker, Sydney, 2003, *Identity, cause, and mind*, expanded edition, Oxford: Oxford University Press.
+* Skyrms, Brian, 2000, *Choice and chance*, 4th edition, Belmont, CA: Wadsworth/Thompson.
+* Smith, Peter, 1982, “On animal beliefs”, *Southern Journal of Philosophy*, 20: 503–512.
+* Smithies, Declan, forthcoming, “Belief as a feeling of conviction”, in J. Jong and E. Schwitzgebel (eds.), *The nature of belief*, Oxford: Oxford University Press.
+* Smolensky, Paul, 1995, “Connectionism, constituency, and the language of thought”, in C. Macdonald and G. Macdonald (eds.), *Connectionism*, Cambridge, MA: Blackwell, 164–198.
+* Soames, Scott, 1987, “Direct reference, propositional attitudes and semantic content”, *Philosophical Topics*, 15: 47–87.
+* Southgate, B., A. Senju, and G. Csibra, 2007, “Action anticipation through attribution of false belief by 2-year-olds”, *Psychological Science*, 18: 587–592.
+* Squire, Larry R., 1987, *Memory and brain*, New York: Oxford University Press.
+* –––, 2004, “Memory systems of the brain: A brief history and current perspective”, *Neurobiology of Learning and Memory*, 82: 171–177.
+* Stalnaker, Robert, 1984, *Inquiry*, Cambridge, MA: MIT Press.
+* Stanley, Jason, 2011, *Know how*, Oxford: Oxford University Press.
+* Stanley, Jason, and Timothy Williamson, 2001, “Knowing how”, *Journal of Philosophy*, 92: 411–444.
+* Stephens, G. Lynn, and George Graham., 2004, “Reconceiving delusions”, *International Review of Psychiatry*, 16: 236–241.
+* Stich, Stephen P., 1979, “Do animals have beliefs?”, *Australasian Journal of Philosophy*, 57: 15–28.
+* Stich, Stephen P., 1983, *From folk psychology to cognitive science*, Cambridge, MA: MIT Press.
+* Sturgeon, Scott, 2008, “Reason and the grain of belief”, *Noûs*, 42: 139–165.
+* Taylor, Kenneth A., 2002, De re and de dicto: Against the conventional wisdom. *Philosophical Perspectives*, 16: 225–265.
+* Tumulty, Maura, 2011, “Delusions and dispositionalism about belief”, *Mind and Language*, 26: 596–628.
+* –––, 2014, “Managing mismatch between belief and behavior”, *Pacific Philosophical Quarterly*, 95: 261–292.
+* van Fraassen, Bas C., 1980, *The scientific image*, Oxford: Oxford University Press.
+* van Gelder, Tim, 1990, “Compositionality: A connectionist variation on a classical theme”, *Cognitive Science*, 14: 355–384.
+* Van Leeuwen, Neil, 2014, “Religious credence is not factual belief”, *Cognition*, 133(3): 698–715.
+* –––, forthcoming, “The Trinity and the light switch: Two faces of belief”, in J. Jong and E. Schwitzgebel (eds.), *The nature of belief*, Oxford: Oxford University Press.
+* Velleman, J. David, 2000, *The possibility of practical reason*, Oxford: Clarendon.
+* Vernazzani, Alfredo, and Dimitri Coelho Mollo, forthcoming, “The formats of cognitive representation: A computational account”, *Philosophy of Science.*
+* Wedgwood, Ralph, 2002, “The aim of belief”, *Noûs*, 36: 267–297.
+* Wellman, Henry M., David Cross, and Julanne Watson, 2001, “Meta-analysis of theory of mind development: The truth about false belief”, *Child Development*, 72: 655–684.
+* Wettstein, H., 2004, *The magic prism*, Oxford: Oxford University Press.
+* Wilson, Timothy D., Samuel Lindsey, and Tonya T. Schooler, 2000, “A model of dual attitudes”, *Psychological Review*, 107: 101–126.
+* Wright, Jessica, 2017, “Ramsey’s theory of belief and the problem of attitude divergence”, in S. Pihlström (ed.), *Pragmatism and objectivity*, New York: Routledge, 133–149.
+* Yalcin, Seth, 2021, “Fragmented but rational”, in C. Borgoni, D. Kindermann, and A. Onofri (eds.), *The fragmented mind*, Oxford: Oxford University Press.
+* Zangwill, Nick, 2005, “The normativity of the mental”, *Philosophical Explorations*, 8: 1–19.
+* Zimmerman, Aaron, 2018, *Belief: A pragmatic picture*, Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -460,4 +460,4 @@ In some contexts, the liberal substitution of co-referential terms or phrases se
 [animal: cognition](https://plato.stanford.edu/entries/cognition-animal/) | [behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [belief, ethics of](https://plato.stanford.edu/entries/ethics-belief/) | [belief, formal representations of](https://plato.stanford.edu/entries/formal-belief/) | [bias, implicit](https://plato.stanford.edu/entries/implicit-bias/) | [cognitive science](https://plato.stanford.edu/entries/cognitive-science/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [connectionism](https://plato.stanford.edu/entries/connectionism/) | [consciousness](https://plato.stanford.edu/entries/consciousness/) | [consciousness: and intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/) | [Davidson, Donald](https://plato.stanford.edu/entries/davidson/) | [delusion](https://plato.stanford.edu/entries/delusion/) | [desire](https://plato.stanford.edu/entries/desire/) | [dispositions](https://plato.stanford.edu/entries/dispositions/) | [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [fictionalism](https://plato.stanford.edu/entries/fictionalism/) | [folk psychology: as a theory](https://plato.stanford.edu/entries/folkpsych-theory/) | [functionalism](https://plato.stanford.edu/entries/functionalism/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [intentionality: phenomenal](https://plato.stanford.edu/entries/phenomenal-intentionality/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/) | [logic: of belief revision](https://plato.stanford.edu/entries/logic-belief-revision/) | [materialism: eliminative](https://plato.stanford.edu/entries/materialism-eliminative/) | [meaning: normativity of](https://plato.stanford.edu/entries/meaning-normativity/) | [memory](https://plato.stanford.edu/entries/memory/) | [mental causation](https://plato.stanford.edu/entries/mental-causation/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: narrow](https://plato.stanford.edu/entries/content-narrow/) | [mental content: nonconceptual](https://plato.stanford.edu/entries/content-nonconceptual/) | [mental content: teleological theories of](https://plato.stanford.edu/entries/content-teleological/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [propositions: structured](https://plato.stanford.edu/entries/propositions-structured/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Eric Schwitzgebel](http://www.faculty.ucr.edu/\~eschwitz/) <[_eschwitz@ucr.edu_](mailto:eschwitz%40ucr%2eedu)>
+[Eric Schwitzgebel](http://www.faculty.ucr.edu/\~eschwitz/) <[*eschwitz@ucr.edu*](mailto:eschwitz%40ucr%2eedu)>

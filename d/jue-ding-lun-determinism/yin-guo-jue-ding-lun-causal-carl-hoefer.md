@@ -1,9 +1,8 @@
 # 因果决定论 causal (Carl Hoefer)
 
-_首次发表于 2003 年 1 月 23 日星期四；实质性修订于 2023 年 9 月 21 日星期四_
+*首次发表于 2003 年 1 月 23 日星期四；实质性修订于 2023 年 9 月 21 日星期四*
 
 因果决定论是大致上指出每一个事件都是由先前事件和条件以及自然法则所决定的观念。这个观念虽然古老，但在 18 世纪首次接受了澄清和数学分析。决定论与我们对物理科学及其解释抱有的野心密切相关，一方面，与我们对人类自由行为的看法密切相关。在这两个一般领域中，人们对于决定论是否正确（甚至是否可以知道其真假）以及在任何情况下对人类行为的影响都没有达成一致意见。
-
 
 ***
 
@@ -180,7 +179,7 @@ Figure 1: 带凸障碍的台球桌
 
 在广义相对论中，我们通过给出三个数学对象的三元组\<M, g, T>来指定宇宙的模型。M 代表一个连续的“流形”：这意味着一种无结构的空间（-时间），由个体点组成，具有平滑性或连续性、维度（通常为 4 维）和全局拓扑，但没有进一步的结构。空间-时间需要什么进一步的结构呢？通常，至少我们期望时间方向与空间方向有所区别；我们期望不同点之间有明确定义的距离；还有一个确定的几何结构（使得 M 中的某些连续路径成为直线等）。所有这些额外结构都编码到 g 中，度规场。因此，M 和 g 一起代表空间-时间。T 代表分布在空间-时间中的物质和能量内容（如果有的话）。
 
-出于数学原因，与此处无关，事实证明可以对给定的模型时空进行数学操作，称为“孔微分同胚”h _；微分同胚的效果是相对于连续流形 M 将物质内容 T 和度规 g 移动。如果选择适当的微分同胚，它可以在某个时间 t = 0 之后移动 T 和 g，但在此之前保持一切不变。因此，新模型代表了物质内容（现在是 h_ T）和度规（h\***g**）相对于组成空间-时间的 M 中的点的位置不同。然而，新模型也是理论的一个完全有效的模型。这乍看起来像是一种不确定性形式：广义相对论的方程并不指定未来空间-时间中的事物将如何分布，即使在给定时间 t 之前的过去保持不变。见图 5：
+出于数学原因，与此处无关，事实证明可以对给定的模型时空进行数学操作，称为“孔微分同胚”h *；微分同胚的效果是相对于连续流形 M 将物质内容 T 和度规 g 移动。如果选择适当的微分同胚，它可以在某个时间 t = 0 之后移动 T 和 g，但在此之前保持一切不变。因此，新模型代表了物质内容（现在是 h* T）和度规（h\***g**）相对于组成空间-时间的 M 中的点的位置不同。然而，新模型也是理论的一个完全有效的模型。这乍看起来像是一种不确定性形式：广义相对论的方程并不指定未来空间-时间中的事物将如何分布，即使在给定时间 t 之前的过去保持不变。见图 5：
 
 ![Holediffeomorphismshifts contents of spacetime](https://plato.stanford.edu/entries/determinism-causal/hole-diffeo-new.jpg)
 
@@ -236,62 +235,62 @@ Humeans about laws 相信，存在的法则取决于在世界历史中发生的�
 
 ## Bibliography
 
-* Batterman, R. B., 1993, “Defining Chaos,” _Philosophy of Science_, 60: 43–66.
-* Belot, G. and Earman, J., 2001, “Pre-Socratic Quantum Gravity,” in C. Callender and N. Huggett (eds.), _Physics Meets Philosophy at the Planck Scale_, Cambridge: Cambridge University Press, pp. 213–255.
-* Bishop, R. C., 2002, “Deterministic and Indeterministic Descriptions,” in _Between Chance and Choice_, H. Atmanspacher and R. Bishop (eds.), Imprint Academic, 5–31.
-* Butterfield, J., 1998, “Determinism and Indeterminism,” in _Routledge Encyclopedia of Philosophy_, E. Craig (ed.),
-* Callender, C., 2017, _What Makes Time Special_, Oxford University Press.
+* Batterman, R. B., 1993, “Defining Chaos,” *Philosophy of Science*, 60: 43–66.
+* Belot, G. and Earman, J., 2001, “Pre-Socratic Quantum Gravity,” in C. Callender and N. Huggett (eds.), *Physics Meets Philosophy at the Planck Scale*, Cambridge: Cambridge University Press, pp. 213–255.
+* Bishop, R. C., 2002, “Deterministic and Indeterministic Descriptions,” in *Between Chance and Choice*, H. Atmanspacher and R. Bishop (eds.), Imprint Academic, 5–31.
+* Butterfield, J., 1998, “Determinism and Indeterminism,” in *Routledge Encyclopedia of Philosophy*, E. Craig (ed.),
+* Callender, C., 2017, *What Makes Time Special*, Oxford University Press.
 * Callender, C., and Hoefer, C., 2001, “Philosophy of Space-time Physics,” in The Blackwell Guide to the Philosophy of Science, P. Machamer and M. Silberstein (eds), Oxford: Blackwell, pp. 173–198.
-* Cartwright, N., 1999, _The Dappled World_, Cambridge: Cambridge University Press.
-* Chen, E.K., forthcoming, “Strong Determinism,” _Philosopher’s Imprint_. doi:10.3998/phimp.3250
-* Diaconis, P., Holmes, S., & Montgomery, R., 2007, “Dynamical Bias in the Coin Toss,” _SIAM Review_, 49(2): 211–235.
-* Dupré, J., 2001, _Human Nature and the Limits of Science_, Oxford: Oxford University Press.
-* Dürr, D., Goldstein, S., and Zanghì, N., 1992, “Quantum Chaos, Classical Randomness, and Bohmian Mechanics,” _Journal of Statistical Physics_, 68: 259–270. \[[Preprint available online in gzip’ed Postscript.](http://math.rutgers.edu/\~oldstein/papers/qe.ps.gz)]
-* Earman, J., 1984, “Laws of Nature: The Empiricist Challenge,” in R. J. Bogdan (ed.), _D.H.Armstrong_, Dordrecht: Reidel, pp. 191–223.
-* –––, 1986, _A Primer on Determinism_, Dordrecht: Reidel.
-* –––, 1995, _Bangs, Crunches, Whimpers, and Shrieks: Singularities and Acausalities in Relativistic Spacetimes_, New York: Oxford University Press.
-* Earman, J., and Norton, J., 1987, “What Price Spacetime Substantivalism: the Hole Story,” _British Journal for the Philosophy of Science_, 38: 515–525.
-* –––, 1998, “Comments on Laraudogoitia’s ‘Classical Particle Dynamics, Indeterminism and a Supertask’,” _British Journal for the Philosophy of Science_, 49: 123–133.
-* Fisher, J., 1994, _The Metaphysics of Free Will_, Oxford: Blackwell Publishers.
-* –––, 2012, _Deep Control: Essays on Free Will and Value_, New York: Oxford University Press.
-* Ford, J., 1989, “What is chaos, the we should be mindful of it?” in _The New Physics_, P. Davies (ed.), Cambridge: Cambridge University Press, 348–372.
-* Frigg, R., and Hoefer, C., 2015, “The Best Humean System for Statistical Mechanics,” _Erkenntnis_, 80 (3 Supplement): 551–574.
-* Gisin, N., 1991, “Propensities in a Non-Deterministic Physics,” _Synthese_, 89: 287–297.
-* Gutzwiller, M., 1990, _Chaos in Classical and Quantum Mechanics_, New York: Springer-Verlag.
-* Hitchcock, C., 1999, “Contrastive Explanation and the Demons of Determinism,” _British Journal of the Philosophy of Science_, 50: 585–612.
-* Hoefer, C., 1996, “The Metaphysics of Spacetime Substantivalism,” _The Journal of Philosophy_, 93: 5–27.
-* –––, 2002a, “Freedom From the Inside Out,” in _Time, Reality and Experience_, C. Callender (ed.), Cambridge: Cambridge University Press, pp. 201–222.
-* –––, 2002b, “For Fundamentalism,” _Philosophy of Science_ v. 70, no. 5 (PSA 2002 Proceedings), pp. 1401–1412.
-* –––, 2019, _Chance in the World: A Humean Guide to Objective Chance_, Oxford: Oxford University Press.
-* Hutchison, K., 1993, “Is Classical Mechanics Really Time-reversible and Deterministic?” _British Journal of the Philosophy of Science_, 44: 307–323.
-* Ismael, J., 2016, _How Physics Makes Us Free_, Oxford: Oxford University Press.
-* Laplace, P., 1820, _Essai Philosophique sur les Probabilités_ forming the introduction to his _Théorie Analytique des Probabilités_, Paris: V Courcier; repr. F.W. Truscott and F.L. Emory (trans.), A Philosophical Essay on Probabilities, New York: Dover, 1951 .
-* Leiber, T., 1998, “On the Actual Impact of Deterministic Chaos,” _Synthese_, 113: 357–379.
-* Lewis, D., 1973,_Counterfactuals_, Oxford: Blackwell.
-* –––, 1981, “Are We Free to Break the Laws?,” _Theoria_, 47(3): 113–121.
-* –––, 1994, “Humean Supervenience Debugged,” _Mind_, 103: 473–490.
-* Loewer, B., 2004, “Determinism and Chance,” _Studies in History and Philosophy of Modern Physics_, 32: 609–620.
-* Malament, D., 2008, “Norton’s Slippery Slope,” _Philosophy of Science_, vol. 75, no. 4, pp. 799–816.
-* Maudlin, T., 2007, _The Metaphysics Within Physics_, Oxford: Oxford University Press.
-* Melia, J., 1999, “Holes, Haecceitism and Two Conceptions od Determinism,” _British Journal of the Philosophy of Science_, 50: 639–664.
-* Mellor, D. H., 1995, _The Facts of Causation_, London: Routledge.
-* Norton, J. D., 2003, “Causation as Folk Science,” _Philosopher’s Imprint_, 3 (4): \[[Available online](http://www.philosophersimprint.org/003004/)].
-* Ornstein, D. S., 1974, _Ergodic Theory, Randomness, and Dynamical Systems_, New Haven: Yale University Press.
-* Pooley, O., 2006, “Points, Particles, and Structural Realism,” in D. Rickles _et al._ (eds), _The Structural Foundations of Quantum Gravity_, Oxford: Oxford University Press, pp. 83–120.
-* Popper, K., 1982, _The Open Universe: an argument for indeterminism_, London: Rutledge (Taylor & Francis Group).
+* Cartwright, N., 1999, *The Dappled World*, Cambridge: Cambridge University Press.
+* Chen, E.K., forthcoming, “Strong Determinism,” *Philosopher’s Imprint*. doi:10.3998/phimp.3250
+* Diaconis, P., Holmes, S., & Montgomery, R., 2007, “Dynamical Bias in the Coin Toss,” *SIAM Review*, 49(2): 211–235.
+* Dupré, J., 2001, *Human Nature and the Limits of Science*, Oxford: Oxford University Press.
+* Dürr, D., Goldstein, S., and Zanghì, N., 1992, “Quantum Chaos, Classical Randomness, and Bohmian Mechanics,” *Journal of Statistical Physics*, 68: 259–270. \[[Preprint available online in gzip’ed Postscript.](http://math.rutgers.edu/\~oldstein/papers/qe.ps.gz)]
+* Earman, J., 1984, “Laws of Nature: The Empiricist Challenge,” in R. J. Bogdan (ed.), *D.H.Armstrong*, Dordrecht: Reidel, pp. 191–223.
+* –––, 1986, *A Primer on Determinism*, Dordrecht: Reidel.
+* –––, 1995, *Bangs, Crunches, Whimpers, and Shrieks: Singularities and Acausalities in Relativistic Spacetimes*, New York: Oxford University Press.
+* Earman, J., and Norton, J., 1987, “What Price Spacetime Substantivalism: the Hole Story,” *British Journal for the Philosophy of Science*, 38: 515–525.
+* –––, 1998, “Comments on Laraudogoitia’s ‘Classical Particle Dynamics, Indeterminism and a Supertask’,” *British Journal for the Philosophy of Science*, 49: 123–133.
+* Fisher, J., 1994, *The Metaphysics of Free Will*, Oxford: Blackwell Publishers.
+* –––, 2012, *Deep Control: Essays on Free Will and Value*, New York: Oxford University Press.
+* Ford, J., 1989, “What is chaos, the we should be mindful of it?” in *The New Physics*, P. Davies (ed.), Cambridge: Cambridge University Press, 348–372.
+* Frigg, R., and Hoefer, C., 2015, “The Best Humean System for Statistical Mechanics,” *Erkenntnis*, 80 (3 Supplement): 551–574.
+* Gisin, N., 1991, “Propensities in a Non-Deterministic Physics,” *Synthese*, 89: 287–297.
+* Gutzwiller, M., 1990, *Chaos in Classical and Quantum Mechanics*, New York: Springer-Verlag.
+* Hitchcock, C., 1999, “Contrastive Explanation and the Demons of Determinism,” *British Journal of the Philosophy of Science*, 50: 585–612.
+* Hoefer, C., 1996, “The Metaphysics of Spacetime Substantivalism,” *The Journal of Philosophy*, 93: 5–27.
+* –––, 2002a, “Freedom From the Inside Out,” in *Time, Reality and Experience*, C. Callender (ed.), Cambridge: Cambridge University Press, pp. 201–222.
+* –––, 2002b, “For Fundamentalism,” *Philosophy of Science* v. 70, no. 5 (PSA 2002 Proceedings), pp. 1401–1412.
+* –––, 2019, *Chance in the World: A Humean Guide to Objective Chance*, Oxford: Oxford University Press.
+* Hutchison, K., 1993, “Is Classical Mechanics Really Time-reversible and Deterministic?” *British Journal of the Philosophy of Science*, 44: 307–323.
+* Ismael, J., 2016, *How Physics Makes Us Free*, Oxford: Oxford University Press.
+* Laplace, P., 1820, *Essai Philosophique sur les Probabilités* forming the introduction to his *Théorie Analytique des Probabilités*, Paris: V Courcier; repr. F.W. Truscott and F.L. Emory (trans.), A Philosophical Essay on Probabilities, New York: Dover, 1951 .
+* Leiber, T., 1998, “On the Actual Impact of Deterministic Chaos,” *Synthese*, 113: 357–379.
+* Lewis, D., 1973,*Counterfactuals*, Oxford: Blackwell.
+* –––, 1981, “Are We Free to Break the Laws?,” *Theoria*, 47(3): 113–121.
+* –––, 1994, “Humean Supervenience Debugged,” *Mind*, 103: 473–490.
+* Loewer, B., 2004, “Determinism and Chance,” *Studies in History and Philosophy of Modern Physics*, 32: 609–620.
+* Malament, D., 2008, “Norton’s Slippery Slope,” *Philosophy of Science*, vol. 75, no. 4, pp. 799–816.
+* Maudlin, T., 2007, *The Metaphysics Within Physics*, Oxford: Oxford University Press.
+* Melia, J., 1999, “Holes, Haecceitism and Two Conceptions od Determinism,” *British Journal of the Philosophy of Science*, 50: 639–664.
+* Mellor, D. H., 1995, *The Facts of Causation*, London: Routledge.
+* Norton, J. D., 2003, “Causation as Folk Science,” *Philosopher’s Imprint*, 3 (4): \[[Available online](http://www.philosophersimprint.org/003004/)].
+* Ornstein, D. S., 1974, *Ergodic Theory, Randomness, and Dynamical Systems*, New Haven: Yale University Press.
+* Pooley, O., 2006, “Points, Particles, and Structural Realism,” in D. Rickles *et al.* (eds), *The Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press, pp. 83–120.
+* Popper, K., 1982, *The Open Universe: an argument for indeterminism*, London: Rutledge (Taylor & Francis Group).
 * Ruelle, D., 1991, Chance and Chaos, London: Penguin.
-* Russell, B., 1912, “On the Notion of Cause,” _Proceedings of the Aristotelian Society_, 13: 1–26.
-* Shanks, N., 1991, “Probabilistic physics and the metaphysics of time,” _South African Journal of Philosophy_, 10: 37–44.
-* Sinai, Ya.G., 1970, “Dynamical systems with elastic reflections,” _Russ. Math. Surveys_ 25: 137–189.
-* Suppes, P., 1993, “The Transcendental Character of Determinism,” _Midwest Studies in Philosophy_, 18: 242–257.
-* –––, 1999, “The Noninvariance of Deterministic Causal Models,” _Synthese_, 121: 181–198.
-* Suppes, P. and M. Zanotti, 1996, _Foundations of Probability with Applications_, New York: Cambridge University Press.
-* van Fraassen, B., 1989, _Laws and Symmetry_, Oxford: Clarendon Press.
-* Van Kampen, N. G., 1991, “Determinism and Predictability,” _Synthese_, 89: 273–281.
-* Wallace, D., 2020, “Lessons from Realistic Physics for the Metaphysics of Quantum Theory,” _Synthese_, 197: 4303–4318.
-* Werndl, C., 2016, _The Oxford Handbook of Philosophy of Science_, Oxford: Oxford University Press. Online at www.oxfordhandbooks.com, December 2015.
-* Winnie, J. A., 1997, “Deterministic Chaos and the Nature of Chance,” in _The Cosmos of Science—Essays of Exploration_, J. Earman and J. Norton (eds.), Pittsburgh: University of Pittsburgh Press, pp. 299–324.
-* Xia, Z., 1992, “The existence of noncollision singularities in newtonian systems,” _Annals of Mathematics_, 135: 411–468.
+* Russell, B., 1912, “On the Notion of Cause,” *Proceedings of the Aristotelian Society*, 13: 1–26.
+* Shanks, N., 1991, “Probabilistic physics and the metaphysics of time,” *South African Journal of Philosophy*, 10: 37–44.
+* Sinai, Ya.G., 1970, “Dynamical systems with elastic reflections,” *Russ. Math. Surveys* 25: 137–189.
+* Suppes, P., 1993, “The Transcendental Character of Determinism,” *Midwest Studies in Philosophy*, 18: 242–257.
+* –––, 1999, “The Noninvariance of Deterministic Causal Models,” *Synthese*, 121: 181–198.
+* Suppes, P. and M. Zanotti, 1996, *Foundations of Probability with Applications*, New York: Cambridge University Press.
+* van Fraassen, B., 1989, *Laws and Symmetry*, Oxford: Clarendon Press.
+* Van Kampen, N. G., 1991, “Determinism and Predictability,” *Synthese*, 89: 273–281.
+* Wallace, D., 2020, “Lessons from Realistic Physics for the Metaphysics of Quantum Theory,” *Synthese*, 197: 4303–4318.
+* Werndl, C., 2016, *The Oxford Handbook of Philosophy of Science*, Oxford: Oxford University Press. Online at www.oxfordhandbooks.com, December 2015.
+* Winnie, J. A., 1997, “Deterministic Chaos and the Nature of Chance,” in *The Cosmos of Science—Essays of Exploration*, J. Earman and J. Norton (eds.), Pittsburgh: University of Pittsburgh Press, pp. 299–324.
+* Xia, Z., 1992, “The existence of noncollision singularities in newtonian systems,” *Annals of Mathematics*, 135: 411–468.
 
 ## Academic Tools
 
@@ -316,4 +315,4 @@ Humeans about laws 相信，存在的法则取决于在世界历史中发生的�
 The author would like to acknowledge the invaluable help of John Norton in the preparation of this entry. Thanks also to A. Ilhamy Amiry for bringing to my attention some errors in an earlier version of this entry.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Carl Hoefer](https://www.icrea.cat/Web/ScientificStaff/Carl-Hoefer-175) <[_carl.hoefer@ub.edu_](mailto:carl%2ehoefer%40ub%2eedu)>
+[Carl Hoefer](https://www.icrea.cat/Web/ScientificStaff/Carl-Hoefer-175) <[*carl.hoefer@ub.edu*](mailto:carl%2ehoefer%40ub%2eedu)>

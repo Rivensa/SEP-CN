@@ -1,11 +1,10 @@
 # 概率因果关系 probabilistic (Christopher Hitchcock)
 
-_首次发表于 1997 年 7 月 11 日星期五；实质性修订于 2018 年 3 月 9 日星期五_
+*首次发表于 1997 年 7 月 11 日星期五；实质性修订于 2018 年 3 月 9 日星期五*
 
 “概率因果”指的是一组旨在利用概率论工具描述因果关系的理论。这些理论背后的核心思想是，原因改变了其效应的概率。本文追溯了概率因果的发展，包括因果建模中的最新进展。
 
 本文概述了以概率来表征因果关系的主要方法。第 1 部分提供了一些概率方法用于因果关系的动机，并解决了一些初步问题。第 2 部分概述了旨在以概率升高来表征因果关系的理论。第 3 部分概述了因果建模的发展。第 4 部分涵盖了实际因果的概率解释。
-
 
 ***
 
@@ -21,15 +20,15 @@ _首次发表于 1997 年 7 月 11 日星期五；实质性修订于 2018 年 3 
 
 尝试以不变的继承模式来分析因果关系被称为“因果关系的规律性理论”。至少在其最简单的形式中，规律性理论面临着一些众所周知的问题，这些问题可能被用来推动概率方法来研究因果关系。此外，对这些困难的概述将有助于让人了解任何充分的因果关系理论必须解决的问题类型。
 
-(i) _不完美的规律性_。第一个困难在于大多数原因并非必然导致其效应。例如，吸烟是肺癌的一个原因，即使一些吸烟者并未患上肺癌。不完美的规律性可能出现的原因有两种不同的情况。首先，它们可能是由于原因出现的环境的_异质性_。例如，一些吸烟者可能对肺癌具有遗传易感性，而其他人则没有；一些不吸烟者可能暴露于其他致癌物质（如石棉），而其他人则没有。其次，不完美的规律性也可能是由于_物理决定论_的失败而产生。如果一个事件没有被确定发生，那么没有其他事件可以是（或者是）导致该事件的充分条件。量子力学的成功——以及在较小程度上，其他使用概率的理论——动摇了我们对决定论的信念。因此，许多哲学家认为有必要发展一种不预设决定论的因果关系理论。
+(i) *不完美的规律性*。第一个困难在于大多数原因并非必然导致其效应。例如，吸烟是肺癌的一个原因，即使一些吸烟者并未患上肺癌。不完美的规律性可能出现的原因有两种不同的情况。首先，它们可能是由于原因出现的环境的_异质性_。例如，一些吸烟者可能对肺癌具有遗传易感性，而其他人则没有；一些不吸烟者可能暴露于其他致癌物质（如石棉），而其他人则没有。其次，不完美的规律性也可能是由于_物理决定论_的失败而产生。如果一个事件没有被确定发生，那么没有其他事件可以是（或者是）导致该事件的充分条件。量子力学的成功——以及在较小程度上，其他使用概率的理论——动摇了我们对决定论的信念。因此，许多哲学家认为有必要发展一种不预设决定论的因果关系理论。
 
 概率因果理论背后的核心思想是，原因_改变其效应的概率_；在没有原因的情况下，效应仍可能发生，或者在其存在时未发生。因此吸烟是肺癌的原因，不是因为所有吸烟者都患肺癌，而是因为吸烟者_更有可能_患肺癌而非非吸烟者。这与一些吸烟者避免患肺癌，以及一些非吸烟者患肺癌的情况完全一致。
 
-(ii) _无关性_。一个总是导致某种结果的条件可能与该结果无关。被巫师施咒的盐放入水中总是会溶解（Kyburg 1965），但施咒并不导致盐溶解。施咒对溶解没有_影响_。概率因果理论通过要求原因对其效应的概率产生影响来捕捉这种影响的概念。
+(ii) *无关性*。一个总是导致某种结果的条件可能与该结果无关。被巫师施咒的盐放入水中总是会溶解（Kyburg 1965），但施咒并不导致盐溶解。施咒对溶解没有_影响_。概率因果理论通过要求原因对其效应的概率产生影响来捕捉这种影响的概念。
 
-(iii) _不对称性_。如果_A_导致_B_，那么通常_B_也不会导致_A_。吸烟导致肺癌，但肺癌不会导致一个人吸烟。强制因果关系的不对称性的一种方式是规定原因在时间上先于效应。但如果一个因果关系理论能够解释因果关系的方向性，而不仅仅是规定它，那将是很好的。一些概率因果关系理论的支持者尝试利用概率论的资源来阐明因果关系的不对称性。
+(iii) *不对称性*。如果_A_导致_B_，那么通常_B_也不会导致_A_。吸烟导致肺癌，但肺癌不会导致一个人吸烟。强制因果关系的不对称性的一种方式是规定原因在时间上先于效应。但如果一个因果关系理论能够解释因果关系的方向性，而不仅仅是规定它，那将是很好的。一些概率因果关系理论的支持者尝试利用概率论的资源来阐明因果关系的不对称性。
 
-(iv) _虚假规律性_。假设一个原因经常后面跟着两个效应。这里有一个来自 Jeffrey（1969 年）的例子：假设在某个地区，每当气压降到一定水平以下时，会发生两件事。首先，一个特定气压计中的汞柱高度会降到一定水平以下。不久之后，就会发生一场暴风雨。这种情况在图 1 中以示意图形式展示。那么，当汞柱下降时，也很可能会有一场暴风雨。如果是这样，一个简单的规律性理论似乎会认为汞柱的下降_导致_了暴风雨。然而，实际上，涉及这两个事件的规律性是_虚假的_。处理这种虚假相关性的能力可能是概率因果关系理论最大的吸引力来源。
+(iv) *虚假规律性*。假设一个原因经常后面跟着两个效应。这里有一个来自 Jeffrey（1969 年）的例子：假设在某个地区，每当气压降到一定水平以下时，会发生两件事。首先，一个特定气压计中的汞柱高度会降到一定水平以下。不久之后，就会发生一场暴风雨。这种情况在图 1 中以示意图形式展示。那么，当汞柱下降时，也很可能会有一场暴风雨。如果是这样，一个简单的规律性理论似乎会认为汞柱的下降_导致_了暴风雨。然而，实际上，涉及这两个事件的规律性是_虚假的_。处理这种虚假相关性的能力可能是概率因果关系理论最大的吸引力来源。
 
 ![一个带有三个文本节点的图表。基础节点是“气压下降”，箭头指向“汞柱下降”和“风暴”](https://plato.stanford.edu/entries/causation-probabilistic/figure1.svg)
 
@@ -51,7 +50,7 @@ _首次发表于 1997 年 7 月 11 日星期五；实质性修订于 2018 年 3 
 除了概率论外，该条目还将使用集合论和逻辑学的基本符号。集合将以粗体显示。
 
 * ∅ 是空集（没有成员或元素的集合）
-* x∈X 意味着 _x_ 是集合 X 的成员或元素。
+* x∈X 意味着 *x* 是集合 X 的成员或元素。
 * X⊆Y 意味着 X 是 Y 的子集；即，X 的每个成员也是 Y 的成员。请注意，∅ 和 Y 都是 Y 的子集。
 * X∖Y 是从 X 中移除 Y 的成员后得到的集合。
 * ∀ 和 ∃ 分别是全称量词和存在量词。
@@ -63,12 +62,12 @@ _首次发表于 1997 年 7 月 11 日星期五；实质性修订于 2018 年 3 
 如果 P(B)=0，则条件概率定义中的比率是未定义的。然而，有各种技术发展可以让我们在 P(B)为 0 时定义 P(A∣B)。我们将在这里忽略这个问题。
 
 * 对于概率 P 的_随机变量_是一个函数_X_，它取实数值，对于任何数 x，X=x 是 P 的定义域中的一个事件。例如，我们可能有一个随机变量 T1，它取值为{1,2,3,4,5,6}，代表掷骰子的第一次结果。事件 T1=3 代表第一次掷骰子的结果为 3。我们会用 T1∈{1,2,3}来简写 T1=1∨T1=2∨T1=3。
-* 如果 _A_ 和 _B_ 属于 P 的领域，则只要 P(A\&B)=P(A)×P(B)，则 _A_ 和 _B_ 在概率上是_独立_的（相对于 P）。否则，_A_ 和 _B_ 在概率上是_相关_的或_依赖_的。
-* 只有当 P(A\&B∣C)=P(A∣C)×P(B∣C) 时，_A_ 和 _B_ 在给定 _C_ 的条件下是_概率上独立的_。
+* 如果 *A* 和 *B* 属于 P 的领域，则只要 P(A\&B)=P(A)×P(B)，则 *A* 和 *B* 在概率上是_独立_的（相对于 P）。否则，*A* 和 *B* 在概率上是_相关_的或_依赖_的。
+* 只有当 P(A\&B∣C)=P(A∣C)×P(B∣C) 时，*A* 和 *B* 在给定 *C* 的条件下是_概率上独立的_。
 
-_随机变量_ _X_ 和 _Y_ **概率独立** 当且仅当形式为 _X∈H_ 的所有事件与形式为 _Y∈J_ 的所有事件概率上独立，其中 _H_ 和 _J_ 分别是 _X_ 和 _Y_ 的取值范围的子集。
+*随机变量* *X* 和 *Y* **概率独立** 当且仅当形式为 *X∈H* 的所有事件与形式为 *Y∈J* 的所有事件概率上独立，其中 *H* 和 *J* 分别是 *X* 和 *Y* 的取值范围的子集。
 
-作为一种方便的简写，一个只包含变量或一组变量但不包含值的概率陈述将被理解为对变量的所有可能值的普遍量化。因此，如果 _X={X1,…,Xm}_ 并且 _Y={Y1,…,Yn}_ ，我们可以写成
+作为一种方便的简写，一个只包含变量或一组变量但不包含值的概率陈述将被理解为对变量的所有可能值的普遍量化。因此，如果 *X={X1,…,Xm}* 并且 *Y={Y1,…,Yn}* ，我们可以写成
 
 P(X∣Y)=P(X)
 
@@ -116,7 +115,7 @@ Bennett 1988 年对因果关系背景下的事实和事件进行了很好的讨�
 
 ### 2.1 概率提升和条件概率
 
-导致提高其效果概率的中心思想可以用条件概率来正式表达。_C_ 提高 _E_ 的概率，只有在以下情况下：
+导致提高其效果概率的中心思想可以用条件概率来正式表达。*C* 提高 *E* 的概率，只有在以下情况下：
 
 (P(R1)
 
@@ -132,15 +131,15 @@ P(E∣C)>P(E∣∼C);
 
 (P)
 
-_C_ 是 _E_ 的一个原因，只有当 P(E∣C)>P(E∣∼C) 时才成立。
+*C* 是 *E* 的一个原因，只有当 P(E∣C)>P(E∣∼C) 时才成立。
 
-PR 在因果理论的最简单版本上具有一些优势（见上文[Section 1.1](https://plato.stanford.edu/entries/causation-probabilistic/#ProbForReguTheo)）。PR 与不完美的规律相容：即使_C_的实例并非总是跟随_E_的实例，_C_可能会提高_E_的概率。此外，PR 解决了相关性问题：如果_C_是_E_的原因，则_C_会影响_E_的概率。但就目前而言，PR 既未解决不对称问题，也未解决虚假相关性问题。PR 未解决不对称问题，因为概率提升是对称的：只有当 P(C∣E)>P(C∣∼E)时，P(E∣C)>P(E∣∼C)，因此单凭 PR 无法确定_C_是_E_的原因还是反过来。PR 在处理虚假相关性时也存在问题。如果_C_和_E_都是由第三因素_A_引起的，那么即使_C_不导致_E_，P(E∣C)>P(E∣∼C)也是可能的。这就是上文[Figure 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1)中展示的情况。在这里，_C_是气压计中水银下降，_E_是暴风雨的发生。因此我们会期望 P(E∣C)>P(E∣∼C)。在这种情况下，大气压被称为一个_混杂_因素。
+PR 在因果理论的最简单版本上具有一些优势（见上文[Section 1.1](https://plato.stanford.edu/entries/causation-probabilistic/#ProbForReguTheo)）。PR 与不完美的规律相容：即使_C_的实例并非总是跟随_E_的实例，*C_可能会提高_E_的概率。此外，PR 解决了相关性问题：如果_C_是_E_的原因，则_C_会影响_E_的概率。但就目前而言，PR 既未解决不对称问题，也未解决虚假相关性问题。PR 未解决不对称问题，因为概率提升是对称的：只有当 P(C∣E)>P(C∣∼E)时，P(E∣C)>P(E∣∼C)，因此单凭 PR 无法确定_C_是_E_的原因还是反过来。PR 在处理虚假相关性时也存在问题。如果_C_和_E_都是由第三因素_A_引起的，那么即使_C_不导致_E*，P(E∣C)>P(E∣∼C)也是可能的。这就是上文[Figure 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1)中展示的情况。在这里，_C_是气压计中水银下降，_E_是暴风雨的发生。因此我们会期望 P(E∣C)>P(E∣∼C)。在这种情况下，大气压被称为一个_混杂_因素。
 
 ### 2.2 筛除干扰
 
-汉斯·赖兴巴赫（Hans Reichenbach）的《时间的方向》（_The Direction of Time_）于 1956 年在他去世后出版。在这本书中，赖兴巴赫关注时间上的非对称现象的起源，特别是热力学第二定律规定的熵增加。在这部作品中，他提出了第一个完全发展的因果概率论，尽管其中一些想法可以追溯到 1925 年的一篇早期论文（Reichenbach 1925）。
+汉斯·赖兴巴赫（Hans Reichenbach）的《时间的方向》（*The Direction of Time*）于 1956 年在他去世后出版。在这本书中，赖兴巴赫关注时间上的非对称现象的起源，特别是热力学第二定律规定的熵增加。在这部作品中，他提出了第一个完全发展的因果概率论，尽管其中一些想法可以追溯到 1925 年的一篇早期论文（Reichenbach 1925）。
 
-赖兴巴赫引入了“_筛选_”（_screening off_）的术语来描述一种特定类型的概率关系。如果 P(E∣A\&C)=P(E∣C)，那么_C_被称为从_E_中筛选出_A_。当 P(A\&C)>0 时，这个等式等同于 P(A\&E∣C)=P(A∣C)×P(E∣C)；即_A_和_E_在给定_C_的条件下是概率上独立的。
+赖兴巴赫引入了“*筛选*”（*screening off*）的术语来描述一种特定类型的概率关系。如果 P(E∣A\&C)=P(E∣C)，那么_C_被称为从_E_中筛选出_A_。当 P(A\&C)>0 时，这个等式等同于 P(A\&E∣C)=P(A∣C)×P(E∣C)；即_A_和_E_在给定_C_的条件下是概率上独立的。
 
 Reichenbach 认识到存在两种因果结构，其中_C_通常会将_A_从_E_中隔离出来。第一种情况是当_A_导致_C_，而_C_又导致_E_，且没有其他路径或过程可以使_A_影响_E_。如图 2 所示。
 
@@ -148,11 +147,11 @@ Reichenbach 认识到存在两种因果结构，其中_C_通常会将_A_从_E_�
 
 图 2
 
-在这种情况下，Reichenbach 说_C_在_A_和_E_之间有因果关系。我们可以说_C_是_A_和_E_之间的中间原因，或者_C_是_E_的直接原因，_A_是_E_的间接原因。例如，无保护性行为(_A_)仅通过导致 HIV 感染(_C_)来导致艾滋病(_E_)。那么我们会期望，在那些已经感染 HIV 的人群中，通过无保护性行为感染的人患艾滋病的可能性不会比其他感染途径的人更高。
+在这种情况下，Reichenbach 说_C_在_A_和_E_之间有因果关系。我们可以说_C_是_A_和_E_之间的中间原因，或者_C_是_E_的直接原因，_A_是_E_的间接原因。例如，无保护性行为(*A*)仅通过导致 HIV 感染(*C*)来导致艾滋病(*E*)。那么我们会期望，在那些已经感染 HIV 的人群中，通过无保护性行为感染的人患艾滋病的可能性不会比其他感染途径的人更高。
 
-产生屏蔽效应的第二种情况是当_C_是_A_和_E_的共同原因时，比如在[图 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1)中所示的气压计示例。大气压下降(_C_)会导致气压计中水银下降(_A_)和暴风雨(_E_)。 (此符号与之前使用的符号略有不同。) 大气压将会屏蔽气压计读数与天气之间的关系：鉴于大气压下降，气压计读数对于暴风雨是否发生的概率没有影响。
+产生屏蔽效应的第二种情况是当_C_是_A_和_E_的共同原因时，比如在[图 1](https://plato.stanford.edu/entries/causation-probabilistic/#fig1)中所示的气压计示例。大气压下降(*C*)会导致气压计中水银下降(*A*)和暴风雨(*E*)。 (此符号与之前使用的符号略有不同。) 大气压将会屏蔽气压计读数与天气之间的关系：鉴于大气压下降，气压计读数对于暴风雨是否发生的概率没有影响。
 
-Reichenbach 使用屏蔽效应的装置来解决虚假相关的问题。在我们的示例中，虽然汞柱下降(_A_)会提高暴风雨(_E_)发生的概率，但在进一步根据大气压条件时，它不会提高暴风雨发生的概率。也就是说，如果_A_和_E_是虚假相关的，那么_A_将会被一个共同原因屏蔽。更具体地说，假设_Ct_和_Et′_ 是分别发生在时间_t_和_t′_ 的事件。
+Reichenbach 使用屏蔽效应的装置来解决虚假相关的问题。在我们的示例中，虽然汞柱下降(*A*)会提高暴风雨(*E*)发生的概率，但在进一步根据大气压条件时，它不会提高暴风雨发生的概率。也就是说，如果_A_和_E_是虚假相关的，那么_A_将会被一个共同原因屏蔽。更具体地说，假设_Ct_和_Et′_ 是分别发生在时间_t_和_t′_ 的事件。
 
 (Reich)
 
@@ -188,7 +187,7 @@ Reichenbach（1956）制定了一个他称之为“共同原因原则”（CCP�
 5. P(A∣C)>P(A∣∼C)
 6. P(B∣C)>P(B∣∼C).
 
-当事件_A_、_B_和_C_满足这些条件时，它们被称为形成一个_合取分叉_。5 和 6 是由于_C_是_A_的原因，也是_B_的原因。条件 2 和 3 规定了_C_和∼C 从_A_到_B_的屏蔽。
+当事件_A_、*B_和_C_满足这些条件时，它们被称为形成一个_合取分叉*。5 和 6 是由于_C_是_A_的原因，也是_B_的原因。条件 2 和 3 规定了_C_和∼C 从_A_到_B_的屏蔽。
 
 条件 2 到 6 在数学上蕴含 1。Reichenbach 说，共同原因_解释_了_A_和_B_之间的相关性。其观点是，概率相关性如果不是一个事件导致另一个事件的结果，最终源自于确实由因果关系导致的概率相关性。
 
@@ -196,15 +195,15 @@ Reichenbach 在上述[Section 2.2](https://plato.stanford.edu/entries/causation-
 
 ### 2.4 辛普森悖论和背景语境
 
-在 Reichenbach-Suppes 的因果定义中，不等式 P(Et′∣Ct)>P(Et′∣∼Ct) 是必要的，但不是充分的。这并不充分，因为在 Ct 和 Et′ 共享一个共同原因的情况下可能成立。不幸的是，共同原因也可能导致不需要这种不等式来说明因果关系的情况。例如，假设吸烟与居住在农村高度相关：那些居住在农村的人更有可能吸烟。吸烟是肺癌的原因，但假设城市污染是导致肺癌的更强大原因。那么吸烟者总体上患肺癌的可能性可能比不吸烟者低。让 _C_ 代表吸烟， _B_ 代表居住在农村， _E_ 代表肺癌， P(E∣C)\<P(E∣∼C)。然而，请注意，如果我们对是否居住在农村或城市进行条件化，这种不等式就会被颠倒： P(E∣C\&B)>P(E∣∼C\&B)，以及 P(E∣C&∼B)>P(E∣∼C&∼B)。这种概率不等式的颠倒是“辛普森悖论”的实例。辛普森悖论对因果关系的概率理论造成的问题是由南希·卡特赖特（1979 年）和布莱恩·斯科姆斯（1980 年）几乎同时指出的。
+在 Reichenbach-Suppes 的因果定义中，不等式 P(Et′∣Ct)>P(Et′∣∼Ct) 是必要的，但不是充分的。这并不充分，因为在 Ct 和 Et′ 共享一个共同原因的情况下可能成立。不幸的是，共同原因也可能导致不需要这种不等式来说明因果关系的情况。例如，假设吸烟与居住在农村高度相关：那些居住在农村的人更有可能吸烟。吸烟是肺癌的原因，但假设城市污染是导致肺癌的更强大原因。那么吸烟者总体上患肺癌的可能性可能比不吸烟者低。让 *C* 代表吸烟， *B* 代表居住在农村， *E* 代表肺癌， P(E∣C)\<P(E∣∼C)。然而，请注意，如果我们对是否居住在农村或城市进行条件化，这种不等式就会被颠倒： P(E∣C\&B)>P(E∣∼C\&B)，以及 P(E∣C&∼B)>P(E∣∼C&∼B)。这种概率不等式的颠倒是“辛普森悖论”的实例。辛普森悖论对因果关系的概率理论造成的问题是由南希·卡特赖特（1979 年）和布莱恩·斯科姆斯（1980 年）几乎同时指出的。
 
 Cartwright 和 Skyrms 试图通过用因果必须在各种_背景语境_中提高其效应的概率来取代[Reich](https://plato.stanford.edu/entries/causation-probabilistic/#reich)的条件(ii)和(iii)来纠正这个问题。Cartwright 提出了以下定义：
 
 (Cart)
 
-_C_ 导致 _E_ 当且仅当对于每个背景上下文 _B_，P(E∣C\&B)>P(E∣∼C\&B)。
+*C* 导致 *E* 当且仅当对于每个背景上下文 *B*，P(E∣C\&B)>P(E∣∼C\&B)。
 
-Skyrms 提出了一个略微较弱的条件：一个原因必须至少在一个背景上下文中提高其效应的概率，并且在其他情况下不会降低其概率。背景上下文是一系列因素的连接。当这样一系列因素被条件限制时，这些因素被称为“被固定”。为了指定背景上下文，我们必须指定哪些因素被固定。在前面的例子中，我们看到当我们固定居住国家时，吸烟对肺癌的真正因果关系被揭示出来，无论是积极地（对 _B_ 进行条件限制）还是消极地（对 ∼_B_ 进行条件限制）。这表明在评估 _C_ 对 _E_ 的因果关系时，我们需要积极或消极地固定 _E_ 的其他原因。然而，这个建议并不完全正确。让 _C_ 和 _E_ 分别表示吸烟和肺癌。假设 _D_ 是一个因果中介，比如肺部存在焦油。如果 _C_ 仅通过 _D_ 导致 _E_，那么 _D_ 将会将 _C_ 与 _E_ 隔离开来：在肺部存在（不存在）焦油的情况下，肺癌的概率不会受到吸烟方式的影响。因此，我们不希望固定任何 _E_ 的原因，这些原因本身是由 _C_ 引起的。让我们称所有是 _E_ 的原因但不是由 _C_ 引起的因素集合为 _E_ 的 _独立_ 原因集。因此，_C_ 和 _E_ 的背景上下文将是一个最大的连接，每个连接项要么是 _E_ 的独立原因，要么是 _E_ 的独立原因的否定。
+Skyrms 提出了一个略微较弱的条件：一个原因必须至少在一个背景上下文中提高其效应的概率，并且在其他情况下不会降低其概率。背景上下文是一系列因素的连接。当这样一系列因素被条件限制时，这些因素被称为“被固定”。为了指定背景上下文，我们必须指定哪些因素被固定。在前面的例子中，我们看到当我们固定居住国家时，吸烟对肺癌的真正因果关系被揭示出来，无论是积极地（对 *B* 进行条件限制）还是消极地（对 ∼*B* 进行条件限制）。这表明在评估 *C* 对 *E* 的因果关系时，我们需要积极或消极地固定 *E* 的其他原因。然而，这个建议并不完全正确。让 *C* 和 *E* 分别表示吸烟和肺癌。假设 *D* 是一个因果中介，比如肺部存在焦油。如果 *C* 仅通过 *D* 导致 *E*，那么 *D* 将会将 *C* 与 *E* 隔离开来：在肺部存在（不存在）焦油的情况下，肺癌的概率不会受到吸烟方式的影响。因此，我们不希望固定任何 *E* 的原因，这些原因本身是由 *C* 引起的。让我们称所有是 *E* 的原因但不是由 *C* 引起的因素集合为 *E* 的 *独立* 原因集。因此，*C* 和 *E* 的背景上下文将是一个最大的连接，每个连接项要么是 *E* 的独立原因，要么是 *E* 的独立原因的否定。
 
 请注意，需要保持固定的因素的规范涉及因果关系，因此该理论不再提供对因果关系的还原分析。尽管如此，该理论对可能的因果关系施加了概率约束，即给定的概率关系集将与至少一些因果关系系统不相容。还要注意，我们已经删除了指代时间的下标。卡特赖特声称，在她的理论中，无需诉诸事件的时间顺序来区分原因和结果。这是因为通常不再成立的是，如果_C_在每个相关背景上下文_B_中提高了_E_的概率，那么_E_在每个背景上下文_B′_ 中提高_C_的概率。原因在于背景上下文的构建确保用于评估_C_对_E_的因果相关性的背景上下文与用于评估_E_对_C_的因果相关性的背景上下文不同。然而，戴维斯（1988 年）和伊尔斯（1991 年）都有力地主张，卡特赖特的观点有时仍会认定效应导致它们的原因。
 
@@ -224,7 +223,7 @@ Cartwright 将因果定义为在每个背景环境中增加其效应概率的因
 
 •
 
-如果且仅如果对于每个背景上下文 _B_，对于 Et′，当且仅当 P(Et′∣Ct\&B)=P(Et′∣∼Ct\&B) 时，Ct 对于 Et′ 是 _因果中立_（或对于 Et′ 是 _因果无关_）。
+如果且仅如果对于每个背景上下文 *B*，对于 Et′，当且仅当 P(Et′∣Ct\&B)=P(Et′∣∼Ct\&B) 时，Ct 对于 Et′ 是 *因果中立*（或对于 Et′ 是 *因果无关*）。
 
 •
 
@@ -244,13 +243,13 @@ Eells 声称一般的因果断言必须相对于一个人口进行。一个非�
 
 Dupré建议，我们应该认为_C_是_E_的一个原因，如果它提高了_E_在“公平样本”中的概率——即代表整个人口的样本。从数学上讲，这相当于要求：
 
-_C_ 导致 _E_ 当且仅当
+*C* 导致 *E* 当且仅当
 
 ΣBP(E∣C\&B)×P(B)>ΣBP(E∣∼C\&B)×P(B)
 
-其中 _B_ 可取相关背景语境。这等同于要求 _C_ 必须在背景语境的 _加权平均_ 中提高 _E_ 的概率，其中每个背景语境由 P(B) 的乘积和绝对值加权。
+其中 *B* 可取相关背景语境。这等同于要求 *C* 必须在背景语境的 *加权平均* 中提高 *E* 的概率，其中每个背景语境由 P(B) 的乘积和绝对值加权。
 
-Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。实际上，在[Dupré](https://plato.stanford.edu/entries/causation-probabilistic/#exDupre)的不等式是随机试验中所寻找的。如果随机确定人口中哪些成员接受治疗(_C_)，哪些不接受(∼C)，那么背景条件_B_的分布应该在两组中相同，并且应该反映这些条件在人口中的频率。因此，我们期望在治疗组中_E_的频率更高，只有在 Dupré的不等式成立时。
+Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。实际上，在[Dupré](https://plato.stanford.edu/entries/causation-probabilistic/#exDupre)的不等式是随机试验中所寻找的。如果随机确定人口中哪些成员接受治疗(*C*)，哪些不接受(∼C)，那么背景条件_B_的分布应该在两组中相同，并且应该反映这些条件在人口中的频率。因此，我们期望在治疗组中_E_的频率更高，只有在 Dupré的不等式成立时。
 
 另一方面，Eells 的以人口为基础的表述使我们能够提出更精确的因果断言：在整个人口中，吸烟是肺癌的混合原因；在缺乏保护基因的个体子群中，吸烟是肺癌的正因；在拥有该基因的个体子群中，吸烟是肺癌的负因。
 
@@ -270,9 +269,9 @@ Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。�
 
 每个因果模型涉及一组变量 V。 V 中的变量可能包括个体的教育水平、收入和职业等。一个变量可以是二元的，其值表示某个事件的发生或非发生，或某个属性的实例化或非实例化。但正如收入的例子所示，一个变量可以有多个值，甚至是连续的。
 
-一个概率因果模型还包括一个概率度量 P。P 定义在形式为 X=x 的命题上，其中 _X_ 是 V 中的一个变量， _x_ 是 _X_ 的取值范围内的一个值。P 也定义在这些命题的合取、析取和否定上。由此可知，只要被条件限制的事件具有正概率，这些命题上的条件概率就是明确定义的。通常认为 P 代表某种客观概率。
+一个概率因果模型还包括一个概率度量 P。P 定义在形式为 X=x 的命题上，其中 *X* 是 V 中的一个变量， *x* 是 *X* 的取值范围内的一个值。P 也定义在这些命题的合取、析取和否定上。由此可知，只要被条件限制的事件具有正概率，这些命题上的条件概率就是明确定义的。通常认为 P 代表某种客观概率。
 
-在 V 中的变量之间的因果关系由 _图_ 表示。我们将考虑两种类型的图。第一种是 _有向无环图_ (DAG)。在变量集 V 上的 _有向图_ G 是 V 中变量的有序对的集合。我们通过从 _X_ 指向 _Y_ 的箭头来直观表示这一点，当且仅当 ⟨X,Y⟩ 在 G 中时。图 3 显示了一个在变量集 V={S,T,W,X,Y,Z} 上的有向图。
+在 V 中的变量之间的因果关系由 *图* 表示。我们将考虑两种类型的图。第一种是 *有向无环图* (DAG)。在变量集 V 上的 *有向图* G 是 V 中变量的有序对的集合。我们通过从 *X* 指向 *Y* 的箭头来直观表示这一点，当且仅当 ⟨X,Y⟩ 在 G 中时。图 3 显示了一个在变量集 V={S,T,W,X,Y,Z} 上的有向图。
 
 ![一个带有 6 个字母 S 的图表，S 指向 T，T 又指向 X 和 Y，Y 又指向 Z，Z 又指向 W，W 又指向 Y](https://plato.stanford.edu/entries/causation-probabilistic/figure3.svg)
 
@@ -280,7 +279,7 @@ Dupré的描述无疑更接近于捕捉我们对因果语言的日常使用。�
 
 在有向图中，一条_路径_是一系列不重复的箭头，它们的端点相同。例如，从_X_到_Z_有一条路径，我们可以写成 X←T→Y→Z。一个_有向路径_是一条所有箭头都通过尖端对尾端对齐的路径；例如，有一条有向路径 S→T→Y→Z。如果没有从一个变量指向自身的有向路径，那么有向图是_无环_的，因此是一个 DAG。[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中的图是一个 DAG。
 
-图中的关系通常用家族关系的语言来描述。变量_X_是_Y_的_父节点_，只要有一条从_X_指向_Y_的箭头。PA(Y)表示_Y_的所有父节点的集合。在[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中，PA(Y)={T,W}。_X_是_Y_的_祖先_（_Y_是_X_的_后代_），只要有一条从_X_指向_Y_的有向路径。然而，为了方便起见，我们会略微偏离家族类比，并定义‘后代’，使得每个变量也是其自身的后代。DE(X)表示_X_的所有后代的集合。在[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中，DE(T)={T,X,Y,Z}。
+图中的关系通常用家族关系的语言来描述。变量_X_是_Y_的_父节点_，只要有一条从_X_指向_Y_的箭头。PA(Y)表示_Y_的所有父节点的集合。在[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中，PA(Y)={T,W}。*X_是_Y_的_祖先*（*Y_是_X_的_后代*），只要有一条从_X_指向_Y_的有向路径。然而，为了方便起见，我们会略微偏离家族类比，并定义‘后代’，使得每个变量也是其自身的后代。DE(X)表示_X_的所有后代的集合。在[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)中，DE(T)={T,X,Y,Z}。
 
 在 DAG 中，从_Y_指向_Z_的箭头表示_Y_是_Z_的直接原因。大致上，这意味着_Y_的值对_Z_的值产生了某种因果关系，并且_Y_通过一些过程影响_Z_，而这些过程不受 V 中任何其他变量的影响。直接性是相对于一个变量集合而言的。我们将称在 DAG 中表示的直接因果关系系统（例如[图 3](https://plato.stanford.edu/entries/causation-probabilistic/#fig3)）为变量集合 V 上的_因果结构_。
 
@@ -309,9 +308,9 @@ Figure 4
 
 一个给定的问题也会有一组输入。这些输入属于各种类别：
 
-_形而上学和方法论假设：这些是关于因果结构和概率之间关系的一般假设。这些假设起到了类似于因果理论的概率作用。它们告诉我们，特别是因果关系如何限制概率关系。我们将考虑的主要假设是_马尔可夫条件 _（MC）、_ 最小性条件_和_忠实性条件 _。_
+_形而上学和方法论假设：这些是关于因果结构和概率之间关系的一般假设。这些假设起到了类似于因果理论的概率作用。它们告诉我们，特别是因果关系如何限制概率关系。我们将考虑的主要假设是_马尔可夫条件 *（MC）、* 最小性条件_和_忠实性条件 *。*
 
-_关于因果结构的背景假设：我们可以假设特定的 DAG 或 ADMG 描述了某些变量集上的因果结构，或者假设正确的图表中是否包括从_X_到_Y_的箭头。特别是，我们可能有时间顺序信息，限制可能的因果结构。例如，如果我们知道_X_涉及比_Y_更早的时间，那么我们可以排除_Y_在因果上影响_X_的因果结构。_
+*关于因果结构的背景假设：我们可以假设特定的 DAG 或 ADMG 描述了某些变量集上的因果结构，或者假设正确的图表中是否包括从_X_到_Y_的箭头。特别是，我们可能有时间顺序信息，限制可能的因果结构。例如，如果我们知道_X_涉及比_Y_更早的时间，那么我们可以排除_Y_在因果上影响_X_的因果结构。*
 
 * 观察：关于变量集合 V 上的概率分布 P 的信息。
 
@@ -327,17 +326,17 @@ _关于因果结构的背景假设：我们可以假设特定的 DAG 或 ADMG �
 
 \| (MCFactorization) | 让 V={X1,X2,…,Xn}。那么 P(X1,X2,…,Xn)=∏iP(Xi∣PA(Xi))。|
 
-\| (MC_d_-separation) | 让 X,Y∈V,Z⊆V∖{X,Y}。那么如果 Z _d_-分离 X 和 Y 在 G 中（下面解释），则 P(X,Y∣Z)=P(X∣Z)×P(Y∣Z)。|
+\| (MC_d_-separation) | 让 X,Y∈V,Z⊆V∖{X,Y}。那么如果 Z *d*-分离 X 和 Y 在 G 中（下面解释），则 P(X,Y∣Z)=P(X∣Z)×P(Y∣Z)。|
 
 这三个条件在 G 是一个 DAG 时是等价的。
 
 让我们花点时间解释这些表述中的每一个。
 
-MCScreening\_off 表示，变量 _X_ 的父母将 _X_ 从除 _X_ 的后代之外的所有其他变量中筛选出来。在已知是 _X_ 的父母的变量的值的情况下， Y 中变量的值（其中不包括 _X_ 的后代）对 _X_ 取任何特定值的概率不会再产生影响。
+MCScreening\_off 表示，变量 *X* 的父母将 *X* 从除 *X* 的后代之外的所有其他变量中筛选出来。在已知是 *X* 的父母的变量的值的情况下， Y 中变量的值（其中不包括 *X* 的后代）对 *X* 取任何特定值的概率不会再产生影响。
 
 MCFactorization 告诉我们，一旦我们知道每个变量在已知其父母的条件概率分布，P(Xi∣PA(Xi))，我们就可以计算所有变量的完整联合分布。这捕捉了莱希巴赫的想法，即不作为因果关系的变量之间的概率关系仍然源自因果关系之间的概率关系。
 
-MC_d_-separation 使用了 Pearl（1988）引入的_d_-separation 的图形概念。设 X，Y∈V，Z⊆V∖{X,Y}。如上所述，从 _X_ 到 _Y_ 的路径是一系列变量 ⟨X=X1,…,Xk=Y⟩，使得对于每个 Xi，Xi+1，图 G 中要么有从 Xi 到 Xi+1 的箭头，要么有从 Xi+1 到 Xi 的箭头。路径上的变量 Xi，1\<i\<k，如果存在从 Xi−1 到 Xi 和从 Xi+1 到 Xi 的箭头，则称为路径上的 _collider_。也就是说，Xi 在路径上是一个 collider，当且仅当路径中有两个箭头汇聚在 Xi 上。Z _d_-separates _X_ 和 _Y_，当且仅当从 _X_ 到 _Y_ 的每条路径 ⟨X=X1,…,Xk=Y⟩ 都包含至少一个变量 Xi，使得要么：(i) Xi 是一个 collider，并且 Xi 的后代（包括 Xi 本身）都不在 Z 中；或者 (ii) Xi 不是一个 collider，并且 Xi 在 Z 中。MC_d_-separation 表明，_d_-separation 对于条件独立性是充分的。
+MC_d_-separation 使用了 Pearl（1988）引入的_d_-separation 的图形概念。设 X，Y∈V，Z⊆V∖{X,Y}。如上所述，从 *X* 到 *Y* 的路径是一系列变量 ⟨X=X1,…,Xk=Y⟩，使得对于每个 Xi，Xi+1，图 G 中要么有从 Xi 到 Xi+1 的箭头，要么有从 Xi+1 到 Xi 的箭头。路径上的变量 Xi，1\<i\<k，如果存在从 Xi−1 到 Xi 和从 Xi+1 到 Xi 的箭头，则称为路径上的 *collider*。也就是说，Xi 在路径上是一个 collider，当且仅当路径中有两个箭头汇聚在 Xi 上。Z *d*-separates *X* 和 *Y*，当且仅当从 *X* 到 *Y* 的每条路径 ⟨X=X1,…,Xk=Y⟩ 都包含至少一个变量 Xi，使得要么：(i) Xi 是一个 collider，并且 Xi 的后代（包括 Xi 本身）都不在 Z 中；或者 (ii) Xi 不是一个 collider，并且 Xi 在 Z 中。MC_d_-separation 表明，*d*-separation 对于条件独立性是充分的。
 
 请注意，MC 提供了变量在给定其他变量条件下概率独立的充分条件，但没有必要条件。马尔可夫条件包含了许多与 Reichenbach 的共同原因原则相同的隔离关系，如上文 [Section 2.3](https://plato.stanford.edu/entries/causation-probabilistic/#CommCausPrin) 中所讨论的。以下是一些例子：
 
@@ -345,7 +344,7 @@ MC_d_-separation 使用了 Pearl（1988）引入的_d_-separation 的图形概�
 
 图 5
 
-在图 5 中，MC 意味着_X_将_Y_与所有其他变量隔离开来，并且_W_将_Z_与所有其他变量隔离开来。这最容易从 MCScreening off 中看出。_W_还将_T_与所有其他变量隔离开来，这最容易从 MC_d_-separation 中看出。MC 并不意味着_T_将_Y_与_Z_隔离开来（或者实际上是任何事物与任何事物隔离开来）。虽然_Y_和_Z_有一个共同的原因将它们隔离开来（_W_），但并非所有共同原因都将它们隔离开来（_T_不一定会），并且并非将它们隔离开来的一切都是共同原因（_X_将它们隔离开来但不是共同原因）。
+在图 5 中，MC 意味着_X_将_Y_与所有其他变量隔离开来，并且_W_将_Z_与所有其他变量隔离开来。这最容易从 MCScreening off 中看出。*W_还将_T_与所有其他变量隔离开来，这最容易从 MC_d*-separation 中看出。MC 并不意味着_T_将_Y_与_Z_隔离开来（或者实际上是任何事物与任何事物隔离开来）。虽然_Y_和_Z_有一个共同的原因将它们隔离开来（*W*），但并非所有共同原因都将它们隔离开来（_T_不一定会），并且并非将它们隔离开来的一切都是共同原因（_X_将它们隔离开来但不是共同原因）。
 
 ![一个图示，有 3 个字母 X 和 Y，都有箭头指向 Z](https://plato.stanford.edu/entries/causation-probabilistic/figure6.svg)
 
@@ -355,9 +354,9 @@ MC_d_-separation 使用了 Pearl（1988）引入的_d_-separation 的图形概�
 
 MC 不应该对任意变量集合 V 成立，即使图 G 准确表示这些变量之间的因果关系。例如，在以下情况下，MC 通常会失败：
 
-1. 在 EPR（爱因斯坦-波多尔斯基-罗森）设置中，我们有两个粒子处于纠缠态。如果 _X_ 表示对一个粒子的自旋测量，_Y_ 表示对另一个粒子（在同一方向上）的自旋测量，则 _X_ 和 _Y_ 是完全反相关的。（一个粒子自旋向上的情况仅在另一个粒子自旋向下的情况下才会发生。）这些测量可以在彼此足够远的地方进行，以至于一个结果不可能因果影响另一个结果。然而，可以证明没有（局部的）共同原因 _Z_ 能够控制这两个测量结果。
-2. 在 V 中的变量并不适当地不同。例如，假设 _X_、_Y_ 和 _Z_ 是概率独立且因果无关的变量。现在定义 U=X+Y 和 W=Y+Z，并令 V={U,W}。那么 _U_ 和 _W_ 将在概率上相关，即使它们之间没有因果关系。
-3. 如果变量过于粗粒度，MC 可能会失败。假设 _X_、_Y_ 和 _Z_ 是定量变量，_Z_ 是 _X_ 和 _Y_ 的共同原因，且 _X_ 和 _Y_ 互不引起对方。假设我们用一个更粗的变量 Z′ 替换 _Z_，只指示 _Z_ 是高还是低。那么我们不会期望 Z′ 能够将 _X_ 与 _Y_ 隔离开。_X_ 的值很可能包含有关 _Z_ 值的信息，超出了 Z′ 给出的信息，这可能会影响 _Y_ 的概率。
+1. 在 EPR（爱因斯坦-波多尔斯基-罗森）设置中，我们有两个粒子处于纠缠态。如果 *X* 表示对一个粒子的自旋测量，*Y* 表示对另一个粒子（在同一方向上）的自旋测量，则 *X* 和 *Y* 是完全反相关的。（一个粒子自旋向上的情况仅在另一个粒子自旋向下的情况下才会发生。）这些测量可以在彼此足够远的地方进行，以至于一个结果不可能因果影响另一个结果。然而，可以证明没有（局部的）共同原因 *Z* 能够控制这两个测量结果。
+2. 在 V 中的变量并不适当地不同。例如，假设 *X*、*Y* 和 *Z* 是概率独立且因果无关的变量。现在定义 U=X+Y 和 W=Y+Z，并令 V={U,W}。那么 *U* 和 *W* 将在概率上相关，即使它们之间没有因果关系。
+3. 如果变量过于粗粒度，MC 可能会失败。假设 *X*、*Y* 和 *Z* 是定量变量，*Z* 是 *X* 和 *Y* 的共同原因，且 *X* 和 *Y* 互不引起对方。假设我们用一个更粗的变量 Z′ 替换 *Z*，只指示 *Z* 是高还是低。那么我们不会期望 Z′ 能够将 *X* 与 *Y* 隔离开。*X* 的值很可能包含有关 *Z* 值的信息，超出了 Z′ 给出的信息，这可能会影响 *Y* 的概率。
 
 如果存在潜在的共同原因，我们期望如果我们以天真的方式应用它们，MCScreening off 和 MCFactorization 会失败。例如，假设在 V={X,Y,Z} 上真实的因果结构如图 7 中的 ADMG 所示。
 
@@ -365,14 +364,14 @@ MC 不应该对任意变量集合 V 成立，即使图 G 准确表示这些变�
 
 图 7
 
-_Y_ 是图中显示的 _Z_ 的唯一父节点，如果我们尝试应用 MCScreening\off，它告诉我们 _Y_ 应该将 _X_ 屏蔽掉 _Z_。然而，我们期望 _X_ 和 _Z_ 在给定 _Y_ 的条件下也会相关，这是由于潜在的共同原因。问题在于图中缺少 _Z_ 的一个相关父节点，即被省略的共同原因。然而，假设概率分布是这样的，即如果潜在原因 _L_ 被添加，那么在扩展的变量集上的概率分布将满足相对于结果 DAG 的 MC。然后，结果表明概率分布仍将相对于[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)的 ADMG 满足 MC_d\-分离。这要求我们扩展 _d\-分离的定义，以包括具有双头箭头的路径。例如，_Z_ 是路径 Y→Z↔X 上的碰撞器（因为 _Z_ 有两个箭头指向它），但 _X_ 不是路径 Y←X↔Z 上的碰撞器。因此，我们将说概率分布 P 相对于 ADMG 满足马尔可夫条件，只要它满足 MC_d\-分离。
+*Y* 是图中显示的 *Z* 的唯一父节点，如果我们尝试应用 MCScreening\off，它告诉我们 *Y* 应该将 *X* 屏蔽掉 *Z*。然而，我们期望 *X* 和 *Z* 在给定 *Y* 的条件下也会相关，这是由于潜在的共同原因。问题在于图中缺少 *Z* 的一个相关父节点，即被省略的共同原因。然而，假设概率分布是这样的，即如果潜在原因 *L* 被添加，那么在扩展的变量集上的概率分布将满足相对于结果 DAG 的 MC。然后，结果表明概率分布仍将相对于[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)的 ADMG 满足 MC_d\-分离。这要求我们扩展_d\-分离的定义，以包括具有双头箭头的路径。例如，*Z* 是路径 Y→Z↔X 上的碰撞器（因为 *Z* 有两个箭头指向它），但 *X* 不是路径 Y←X↔Z 上的碰撞器。因此，我们将说概率分布 P 相对于 ADMG 满足马尔可夫条件，只要它满足 MC_d\-分离。
 
 SGS 2000 和 Pearl 2009 都包含了一个被称为_Causal Markov Condition_（CMC）的原则性陈述，但它们的含义不同。在 Pearl 的阐述中，CMC 只是一个数学定理的陈述：Pearl 和 Verma（1991）证明，如果 V 中的每个变量都是其父变量的确定性乘积，再加上一个误差项，并且这些误差在概率上彼此独立，那么 V 上的概率分布将满足相对于 DAG G 的 MC。Pearl 以以下方式解释这一结果：宏观系统是确定性的。然而，在实践中，我们从未能够接触到影响宏观系统的所有因果相关变量。但是，如果我们在模型中包含足够多的变量，使得被排除的变量在概率上彼此独立，那么我们的模型将满足 MC，并且我们将拥有一套强大的分析工具来研究系统。因此，MC 表征了我们构建了完整系统的有用近似的一个点。
 
 在 SGS 2000 中，CMC 更多地具有经验实证的地位。如果 V 是一组经过精心选择的宏观变量，意味着它们不受上述(ii)和(iii)点描述的缺陷的影响；G 是代表 V 上因果结构的图；P 是由此因果结构产生的客观概率分布；那么可以期望 P 相对于 G 满足 MC。更确切地说，如果 G 是一个有向无环图，则 P 将满足 MC 的三个版本，如果 G 是一个带有双头箭头的 ADMG，则 P 将满足 MC_d_-separation。SGS 以两种不同的方式捍卫这一经验实证：
 
 1. 从经验上看，似乎有很多系统实际上满足因果关系。
-2. 实际上用于检测因果关系的许多方法都默认假设了因果关系。特别是，随机试验的使用预设了因果关系的一个特例。假设一个实验者随机决定哪些受试者将接受药物治疗（D=1），哪些将接受安慰剂（D=0），并且在这种方案下，治疗与康复（_R_）存在概率相关性。随机化的效果是消除_D_的所有父节点，因果关系告诉我们，如果_R_不是_D_的后代，那么_R_和_D_应该是概率独立的。如果我们不做出这个假设，那么我们如何能从实验中推断出_D_是_R_的原因呢？
+2. 实际上用于检测因果关系的许多方法都默认假设了因果关系。特别是，随机试验的使用预设了因果关系的一个特例。假设一个实验者随机决定哪些受试者将接受药物治疗（D=1），哪些将接受安慰剂（D=0），并且在这种方案下，治疗与康复（*R*）存在概率相关性。随机化的效果是消除_D_的所有父节点，因果关系告诉我们，如果_R_不是_D_的后代，那么_R_和_D_应该是概率独立的。如果我们不做出这个假设，那么我们如何能从实验中推断出_D_是_R_的原因呢？
 
 Cartwright（1993 年，2007 年：第 8 章）认为 MC 不一定适用于真正的不确定性系统。Hausman 和 Woodward（1999 年，2004 年）试图为不确定性系统辩护。
 
@@ -382,17 +381,17 @@ Cartwright（1993 年，2007 年：第 8 章）认为 MC 不一定适用于真�
 
 MC 陈述了条件概率独立的充分条件，但不是必要条件。因此，MC 本身永远不能蕴涵两个变量是有条件或无条件依赖的。最小性和忠实性条件是提出概率独立的必要条件的两个原则。这个术语来自 Spirtes 等人（2000 年）。Pearl 提供了类似的条件，但使用不同的术语。
 
-(i) _最小性条件_。假设变量集合 V 上的无环有向图 G 满足概率分布 P 的 MC。最小性条件断言，G 上关于 V 的任何子图也不能满足关于 P 的马尔可夫条件。（G 的子图是从 G 中去除箭头后得到的图）。举例说明，考虑变量集合{X,Y}，假设从_X_到_Y_有一条箭头，并且根据概率函数 P，_X_和_Y_在概率上是相互独立的。这个图会满足关于 P 的 MC：MC 规定的任何独立关系都不缺失（事实上，MC 不规定任何独立关系）。但这个图会违反关于 P 的最小性条件，因为去掉从_X_到_Y_的箭头的子图也会满足 MC。最小性条件意味着如果从_X_到_Y_有一条箭头，那么_X_对于_Y_在给定_Y_的其他父节点的条件下会产生概率上的差异。换句话说，如果 Z=PA(Y)∖{X}，那么存在 z，y，x，x′，使得
+(i) *最小性条件*。假设变量集合 V 上的无环有向图 G 满足概率分布 P 的 MC。最小性条件断言，G 上关于 V 的任何子图也不能满足关于 P 的马尔可夫条件。（G 的子图是从 G 中去除箭头后得到的图）。举例说明，考虑变量集合{X,Y}，假设从_X_到_Y_有一条箭头，并且根据概率函数 P，_X_和_Y_在概率上是相互独立的。这个图会满足关于 P 的 MC：MC 规定的任何独立关系都不缺失（事实上，MC 不规定任何独立关系）。但这个图会违反关于 P 的最小性条件，因为去掉从_X_到_Y_的箭头的子图也会满足 MC。最小性条件意味着如果从_X_到_Y_有一条箭头，那么_X_对于_Y_在给定_Y_的其他父节点的条件下会产生概率上的差异。换句话说，如果 Z=PA(Y)∖{X}，那么存在 z，y，x，x′，使得
 
 P(Y=y∣X=x\&Z=z)≠P(Y=y∣X=x′\&Z=z)。
 
-(ii) _忠实性条件_。忠实性条件表示在 V 中的变量之间存在的所有（有条件和无条件的）概率独立性都被 MC 所_要求_。例如，假设 V={X,Y,Z}。还假设_X_和_Y_在彼此之间无条件独立，但在_Z_的条件下是相关的。（另外两对变量是相关的，无论在条件下还是无条件下。）在[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)中显示的图表不满足这个分布的忠实性条件（口语上说，图表与分布不忠实）。当应用于[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)中的图表时，MC 并不意味着_X_和_Y_的独立性。相比之下，上面显示的[图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6)中的图表对所描述的分布是忠实的。请注意，[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)在分布方面满足最小性条件；没有子图满足所描述的分布的 MC。事实上，忠实性条件比最小性条件严格。
+(ii) *忠实性条件*。忠实性条件表示在 V 中的变量之间存在的所有（有条件和无条件的）概率独立性都被 MC 所_要求_。例如，假设 V={X,Y,Z}。还假设_X_和_Y_在彼此之间无条件独立，但在_Z_的条件下是相关的。（另外两对变量是相关的，无论在条件下还是无条件下。）在[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)中显示的图表不满足这个分布的忠实性条件（口语上说，图表与分布不忠实）。当应用于[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)中的图表时，MC 并不意味着_X_和_Y_的独立性。相比之下，上面显示的[图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6)中的图表对所描述的分布是忠实的。请注意，[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)在分布方面满足最小性条件；没有子图满足所描述的分布的 MC。事实上，忠实性条件比最小性条件严格。
 
 ![一个带有 X 指向 Z 和 Y 以及 Z 指向 Y 的三个字母的图表](https://plato.stanford.edu/entries/causation-probabilistic/figure8.svg)
 
 图 8
 
-忠实条件意味着一个变量对另一个变量的因果影响沿着多个因果路径不会“抵消”。在图 8 中，_X_通过两条不同的有向路径影响_Y_。如果一条路径的影响恰好抵消了另一条路径上的影响，那么_X_和_Y_将在概率上独立。忠实条件禁止这种精确的抵消。这种“无法取消”的条件似乎不太可能作为因果与概率之间联系的形而上或概念约束。例如，如果一个基因编码生产特定蛋白质，并抑制另一个编码相同蛋白质的基因，第一个基因的作用将独立于蛋白质的存在。Cartwright（2007 年：第 6 章）和 Andersen（2103 年）认为，违反忠实性是普遍存在的。
+忠实条件意味着一个变量对另一个变量的因果影响沿着多个因果路径不会“抵消”。在图 8 中，*X_通过两条不同的有向路径影响_Y*。如果一条路径的影响恰好抵消了另一条路径上的影响，那么_X_和_Y_将在概率上独立。忠实条件禁止这种精确的抵消。这种“无法取消”的条件似乎不太可能作为因果与概率之间联系的形而上或概念约束。例如，如果一个基因编码生产特定蛋白质，并抑制另一个编码相同蛋白质的基因，第一个基因的作用将独立于蛋白质的存在。Cartwright（2007 年：第 6 章）和 Andersen（2103 年）认为，违反忠实性是普遍存在的。
 
 信实条件是一种方法论原则，而不是一种形而上学原则。在{X，Y，Z}上给定一个分布，其中_X_和_Y_是独立的，我们应该推断因果结构是[图 6](https://plato.stanford.edu/entries/causation-probabilistic/#fig6)中描述的，而不是[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)。这并不是因为[图 8](https://plato.stanford.edu/entries/causation-probabilistic/#fig8)被分布明确排除，而是因为假设一个暗示_X_和_Y_独立性的因果结构比假设一个仅与独立性一致的因果结构更可取。
 
@@ -415,13 +414,13 @@ Pearl（1988 年：第 3 章）证明了以下定理：
 
 在许多方面，这个结果成功地执行了上述[第 2 节](https://plato.stanford.edu/entries/causation-probabilistic/#ProbRaisTheoCaus)中描述的项目类型。也就是说，通过对时间索引和概率与因果关系之间的实质性假设进行相同类型的假设，它建立了使用概率来确定因果结构的可能性。
 
-如果我们没有关于时间顺序的信息，或者其他限制变量 V 中可能的因果结构的实质性假设，那么仅凭概率就不总是可能从中识别因果结构。一般来说，给定变量 V 上的概率分布 P，只能识别一个_马尔可夫等价类_的因果结构。这将是 V 上的所有 DAG 的集合，这些 DAG（连同 MC 一起）暗示了 P 中包含的所有条件独立关系。_PC 算法_（SGS 2000: 84–85），以其两位创作者（_P_eter Spirtes 和_C_lark Glymour）命名，是一种生成给定概率分布的马尔可夫等价类的算法之一。
+如果我们没有关于时间顺序的信息，或者其他限制变量 V 中可能的因果结构的实质性假设，那么仅凭概率就不总是可能从中识别因果结构。一般来说，给定变量 V 上的概率分布 P，只能识别一个_马尔可夫等价类_的因果结构。这将是 V 上的所有 DAG 的集合，这些 DAG（连同 MC 一起）暗示了 P 中包含的所有条件独立关系。*PC 算法*（SGS 2000: 84–85），以其两位创作者（_P_eter Spirtes 和_C_lark Glymour）命名，是一种生成给定概率分布的马尔可夫等价类的算法之一。
 
 考虑涉及三个变量{X，Y，Z}的两个简单示例。假设我们的概率分布具有以下特性：
 
-* _X_ 和 _Y_ 在无条件下是相关的，并且在 _Z_ 的条件下是相关的
-* _Y_ 和 _Z_ 在无条件下是相关的，并且在 _X_ 的条件下是相关的
-* _X_ 和 _Z_ 在 _Y_ 的条件下是独立的，但在无条件下是有依赖的
+* *X* 和 *Y* 在无条件下是相关的，并且在 *Z* 的条件下是相关的
+* *Y* 和 *Z* 在无条件下是相关的，并且在 *X* 的条件下是相关的
+* *X* 和 *Z* 在 *Y* 的条件下是独立的，但在无条件下是有依赖的
 
 那么马尔可夫等价类是：
 
@@ -431,17 +430,17 @@ X→Y→ZX←Y←ZX←Y→Z
 
 另一方面，假设概率分布如下：
 
-* _X_ 和 _Y_ 在无条件下是相关的，在给定 _Z_ 的条件下
+* *X* 和 *Y* 在无条件下是相关的，在给定 *Z* 的条件下
 
-_Y_ 和 _Z_ 在无条件下是相关的，在条件下是对 _X_ 有条件的
+*Y* 和 *Z* 在无条件下是相关的，在条件下是对 *X* 有条件的
 
-* _X_ 和 _Z_ 在无条件下是独立的，但在 _Y_ 有条件下是相关的
+* *X* 和 *Z* 在无条件下是独立的，但在 *Y* 有条件下是相关的
 
 然后马尔可夫等价类为：
 
 X→Y←Z
 
-请注意，{X，Y，Z}上的第一个概率分布是由 Reichenbach 的共同原因原则所表征的。第二个分布颠倒了_X_和_Z_之间的关系：它们在无条件下是_独立_的，在有条件下是_依赖_的。与 Reichenbach 相反，实际上后一种依赖关系模式对于定向图中的因果箭头最有用。在最后显示的因果结构中，_Y_是从_X_到_Z_的路径上的碰撞器。MC_d_-分离意味着碰撞器导致独特的条件独立关系，而所有三种非碰撞器导致相同的条件独立关系。许多从概率中推断因果结构的算法通过搜索碰撞器来运作（例如，参见 SGS 2000：第 5 章）。
+请注意，{X，Y，Z}上的第一个概率分布是由 Reichenbach 的共同原因原则所表征的。第二个分布颠倒了_X_和_Z_之间的关系：它们在无条件下是_独立_的，在有条件下是_依赖_的。与 Reichenbach 相反，实际上后一种依赖关系模式对于定向图中的因果箭头最有用。在最后显示的因果结构中，*Y_是从_X_到_Z_的路径上的碰撞器。MC_d*-分离意味着碰撞器导致独特的条件独立关系，而所有三种非碰撞器导致相同的条件独立关系。许多从概率中推断因果结构的算法通过搜索碰撞器来运作（例如，参见 SGS 2000：第 5 章）。
 
 到目前为止讨论的可识别性结果都假定正确的因果图是一个 DAG。然而，潜变量的存在是常见的，甚至更常见的是我们可能希望允许潜变量的可能性（无论它们是否实际存在）。如果我们允许正确的因果图可能包含双头箭头，我们仍然可以应用 MC_d_-分离，并询问哪些图暗示相同的条件独立关系集。马尔可夫等价类将比我们不允许潜变量时更大。例如，鉴于上述最后一组概率关系，图
 
@@ -455,7 +454,7 @@ X↔Y↔Z
 
 ### 3.6 干预
 
-条件概率，如 P(Y=y∣X=x) 给出了当观察到 _X_ 取值为 _x_ 时，_Y_ 取值为 _y_ 的概率。然而，我们通常对于预测当我们对 _X_ 设置为特定值 _x_ 时，_Y_ 的取值感兴趣。Pearl 将 P(Y=y∣do(X=x)) 用于描述这种概率。观察和干预之间有什么区别？当我们仅观察一个变量的取值时，我们是在了解该变量在正常情况下的因果模型中的取值。关于变量取值的信息也会为我们提供有关其原因以及这些原因的其他影响的信息。然而，当我们进行干预时，我们覆盖了正常的因果结构，强制一个变量取一个值，如果系统被单独留下，它可能不会取到这个值。变量的取值完全由我们的干预决定，其他变量的因果影响完全被覆盖。从图形上看，我们可以通过消除指向被干预变量的箭头来表示这种干预的效果。这种干预有时被描述为“打破”那些箭头。
+条件概率，如 P(Y=y∣X=x) 给出了当观察到 *X* 取值为 *x* 时，*Y* 取值为 *y* 的概率。然而，我们通常对于预测当我们对 *X* 设置为特定值 *x* 时，*Y* 的取值感兴趣。Pearl 将 P(Y=y∣do(X=x)) 用于描述这种概率。观察和干预之间有什么区别？当我们仅观察一个变量的取值时，我们是在了解该变量在正常情况下的因果模型中的取值。关于变量取值的信息也会为我们提供有关其原因以及这些原因的其他影响的信息。然而，当我们进行干预时，我们覆盖了正常的因果结构，强制一个变量取一个值，如果系统被单独留下，它可能不会取到这个值。变量的取值完全由我们的干预决定，其他变量的因果影响完全被覆盖。从图形上看，我们可以通过消除指向被干预变量的箭头来表示这种干预的效果。这种干预有时被描述为“打破”那些箭头。
 
 一个因果模型可以用来预测这种干预的效果。假设我们有一个因果模型，其中概率分布 P 满足对于变量集 V={X1,X2,…,Xn}上的因果 DAG G 的 MC。对于思考干预最有用的 MC 版本是 MCFactorization（见[Section 3.3](https://plato.stanford.edu/entries/causation-probabilistic/#MarkCond)），它告诉我们：
 
@@ -519,25 +518,25 @@ _C_和_E_实际上分别发生在 t 和 t′时。
 
 (ii)
 
-在时间_t_，_E_的概率是_x_。
+在时间_t_，*E_的概率是_x*。
 
 (iii)
 
-如果_C_没有发生，那么在时间_t_时，_E_的概率将小于或等于_y_。
+如果_C_没有发生，那么在时间_t_时，*E_的概率将小于或等于_y*。
 
 (iv)
 
 x≫y。
 
-(iii)中的反事实应该用可能世界的术语来理解：它表示在最近的可能世界中，_C_不发生，_E_的概率小于或等于_y_。（概率不一定会有一个确定的值。在最接近的可能世界中，它可以取不同的值，只要所有这些值都小于或等于_y_。）根据这一观点，相关的“概率提升”概念不是用条件概率来理解的，而是用不同可能世界中的无条件概率来理解。
+(iii)中的反事实应该用可能世界的术语来理解：它表示在最近的可能世界中，*C_不发生，*E_的概率小于或等于_y*。（概率不一定会有一个确定的值。在最接近的可能世界中，它可以取不同的值，只要所有这些值都小于或等于_y*。）根据这一观点，相关的“概率提升”概念不是用条件概率来理解的，而是用不同可能世界中的无条件概率来理解。
 
 Lewis 定义了因果关系（我们所称的“实际因果”）是因果依赖的_祖先_；也就是说：
 
 （Lewis）
 
-_C_ 导致 _E_ 的前提是存在一系列事件 D1, D2, …, Dn，使得 D1 在因果上依赖于 C，D2 在因果上依赖于 D1，…，_E_ 在因果上依赖于 Dn。
+*C* 导致 *E* 的前提是存在一系列事件 D1, D2, …, Dn，使得 D1 在因果上依赖于 C，D2 在因果上依赖于 D1，…，*E* 在因果上依赖于 Dn。
 
-这个定义确保了因果关系是传递的：如果 _C_ 导致 _D_，而 _D_ 又导致 _E_，那么 _C_ 就导致 _E_。这种修改对于解决某些类型的抢占很有用。考虑前一节中的例子，Suzy 扔石头，抢占了 Billy。我们可以在 Suzy 扔石头 _C_ 和瓶子破碎 _E_ 之间插入一个事件 _D_。让 _D_ 是 Suzy 的石头在其实际轨迹上的存在，出现在 Billy 已经未能扔石头之后的某个时间点。如果 Suzy 没有扔石头，_D_ 发生的可能性会小得多。如果 _D_ 没有发生，_E_ 发生的可能性也会小得多。由于 _D_ 发生在 Billy 已经拒绝扔石头之后，如果 _D_ 没有发生，就不会有任何石头朝着瓶子飞来。因此，从 _C_ 到 _D_ 再到 _E_ 存在一条因果依赖链。
+这个定义确保了因果关系是传递的：如果 *C* 导致 *D*，而 *D* 又导致 *E*，那么 *C* 就导致 *E*。这种修改对于解决某些类型的抢占很有用。考虑前一节中的例子，Suzy 扔石头，抢占了 Billy。我们可以在 Suzy 扔石头 *C* 和瓶子破碎 *E* 之间插入一个事件 *D*。让 *D* 是 Suzy 的石头在其实际轨迹上的存在，出现在 Billy 已经未能扔石头之后的某个时间点。如果 Suzy 没有扔石头，*D* 发生的可能性会小得多。如果 *D* 没有发生，*E* 发生的可能性也会小得多。由于 *D* 发生在 Billy 已经拒绝扔石头之后，如果 *D* 没有发生，就不会有任何石头朝着瓶子飞来。因此，从 *C* 到 *D* 再到 *E* 存在一条因果依赖链。
 
 尽管取得了成功，人们普遍认可（甚至包括刘易斯本人在内）刘易斯的概率论存在着与其他类型的抢先权以及概率提升的非因果关系相关的问题。
 
@@ -615,7 +614,7 @@ P(BS2=1∣do(BT0=0,ST0=1,SH1=1))=.9505
 
 （第二个概率稍微大一点，这是因为即使比利不扔石头，石头击中的概率非常小。）
 
-因此，无论 BH1∈W 还是 BH1∈Z，条件 F-G 都不满足，且 BT0=1 不被判断为 BS2=1 的实际原因。关键观点是，Billy 的投掷提高瓶子破裂的概率是不够的；Billy 的投掷连同之后发生的事情必须提高破裂的概率。事实上发生的是，Billy 的石头没有击中瓶子。Billy 的投掷 _连同_ 他的石头未击中并不会提高破裂的概率。
+因此，无论 BH1∈W 还是 BH1∈Z，条件 F-G 都不满足，且 BT0=1 不被判断为 BS2=1 的实际原因。关键观点是，Billy 的投掷提高瓶子破裂的概率是不够的；Billy 的投掷连同之后发生的事情必须提高破裂的概率。事实上发生的是，Billy 的石头没有击中瓶子。Billy 的投掷 *连同* 他的石头未击中并不会提高破裂的概率。
 
 请注意，对于 fizzle 的处理需要包括石头是否击中瓶子的变量。如果我们尝试仅使用三个变量 BT、ST 和 BS 来建模这种情况，我们将错误地判断 Billy 的投掷是瓶子破裂的原因。这引发了一个问题，即应该使用什么样的“正确”模型，以及我们是否能知道我们的模型中包含了“足够”多的变量。Fenton-Glynn（2017）对这些棘手问题进行了一些讨论。
 
@@ -627,72 +626,72 @@ P(BS2=1∣do(BT0=0,ST0=1,SH1=1))=.9505
 
 ## Bibliography
 
-* Andersen, Holly, 2013, “When to Expect Violations of Causal Faithfulness and Why it Matters”, _Philosophy of Science_, 80(5): 672–683. doi:10.1086/673937
-* Beckers, Sander and Joost Vennekens, 2016, “A General Framework for Defining and Extending Actual Causation Using CP-logic”, _International Journal of Approximate Reasoning_, 77: 105–126. doi:10.1016/j.ijar.2016.05.008
-* Beebee, Helen, Christopher Hitchcock, and Peter Menzies (eds.), 2009, _The Oxford Handbook of Causation_, Oxford: Oxford University Press.
-* Bennett, Jonathan, 1988, _Events and Their Names_, Indianapolis and Cambridge: Hackett.
-* Billingsley, Patrick, 1995, _Probability and Measure_, third edition, New York: Wiley.
-* Cartwright, Nancy, 1979, “Causal Laws and Effective Strategies”, _Noûs_, 13(4): 419–437. doi:10.2307/2215337
-* –––, 1993, “Marks and Probabilities: Two Ways to Find Causal Structure”, in Fritz Stadler (ed.), _Scientific Philosophy: Origins and Development_, Dordrecht: Kluwer, pp. 113–119. doi:10.1007/978-94-017-2964-2\_7
-* –––, 2007, _Hunting Causes and Using Them_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511618758
-* Collins, John, Ned Hall, and L.A. Paul (eds.), 2004, _Causation and Counterfactuals_, Cambridge MA: MIT Press.
-* Davis, Wayne, 1988, “Probabilistic Theories of Causation”, in James Fetzer (ed.), _Probability and Causality_, Dordrecht: Reidel, pp. 133–160.
+* Andersen, Holly, 2013, “When to Expect Violations of Causal Faithfulness and Why it Matters”, *Philosophy of Science*, 80(5): 672–683. doi:10.1086/673937
+* Beckers, Sander and Joost Vennekens, 2016, “A General Framework for Defining and Extending Actual Causation Using CP-logic”, *International Journal of Approximate Reasoning*, 77: 105–126. doi:10.1016/j.ijar.2016.05.008
+* Beebee, Helen, Christopher Hitchcock, and Peter Menzies (eds.), 2009, *The Oxford Handbook of Causation*, Oxford: Oxford University Press.
+* Bennett, Jonathan, 1988, *Events and Their Names*, Indianapolis and Cambridge: Hackett.
+* Billingsley, Patrick, 1995, *Probability and Measure*, third edition, New York: Wiley.
+* Cartwright, Nancy, 1979, “Causal Laws and Effective Strategies”, *Noûs*, 13(4): 419–437. doi:10.2307/2215337
+* –––, 1993, “Marks and Probabilities: Two Ways to Find Causal Structure”, in Fritz Stadler (ed.), *Scientific Philosophy: Origins and Development*, Dordrecht: Kluwer, pp. 113–119. doi:10.1007/978-94-017-2964-2\_7
+* –––, 2007, *Hunting Causes and Using Them*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511618758
+* Collins, John, Ned Hall, and L.A. Paul (eds.), 2004, *Causation and Counterfactuals*, Cambridge MA: MIT Press.
+* Davis, Wayne, 1988, “Probabilistic Theories of Causation”, in James Fetzer (ed.), *Probability and Causality*, Dordrecht: Reidel, pp. 133–160.
 * Dowe, Phil, 2004, “Chance-lowering Causes”, in Dowe and Noordhof 2004: 28–38.
-* Dowe, Phil and Paul Noordhof (eds.), 2004, _Cause and Chance_, London and New York: Routledge.
-* Dupré, John, 1984, “Probabilistic Causality Emancipated”, in Peter French, Theodore Uehling, Jr., and Howard Wettstein (eds), _Midwest Studies in Philosophy IX_, Minneapolis: University of Minnesota Press, pp. 169–175. doi:10.1111/j.1475-4975.1984.tb00058.x
-* Eberhardt, Frederick, 2017, “Introduction to the Foundations of Causal Discovery”, _International Journal of Data Science and Analytics_, 3(2): 81–91. doi:10.1007/s41060-016-0038-6
-* Eells, Ellery, 1991, _Probabilistic Causality_, Cambridge: Cambridge University Press.
+* Dowe, Phil and Paul Noordhof (eds.), 2004, *Cause and Chance*, London and New York: Routledge.
+* Dupré, John, 1984, “Probabilistic Causality Emancipated”, in Peter French, Theodore Uehling, Jr., and Howard Wettstein (eds), *Midwest Studies in Philosophy IX*, Minneapolis: University of Minnesota Press, pp. 169–175. doi:10.1111/j.1475-4975.1984.tb00058.x
+* Eberhardt, Frederick, 2017, “Introduction to the Foundations of Causal Discovery”, *International Journal of Data Science and Analytics*, 3(2): 81–91. doi:10.1007/s41060-016-0038-6
+* Eells, Ellery, 1991, *Probabilistic Causality*, Cambridge: Cambridge University Press.
 * Ehring, Douglas, 2009, “Causal Relata”, in Beebee, Hitchcock, and Menzies 2009: 387–413.
-* Feller, William, 1968, _An Introduction to Probability Theory and its Applications_, New York: Wiley.
-* Fenton-Glynn, Luke, 2017, “A Proposed Probabilistic Extension of the Halpern and Pearl Definition of ‘Actual Cause’”, _The British Journal for the Philosophy of Science_, 68(4): 1061–1124. doi:10.1093/bjps/axv056
-* Galavotti, Maria Carla, 2005, _Philosophical Introduction to Probability_, Stanford, CA: CSLI Publications.
-* Gillies, Donald, 2000, _Philosophical Theories of Probability_, London and New York: Routledge.
+* Feller, William, 1968, *An Introduction to Probability Theory and its Applications*, New York: Wiley.
+* Fenton-Glynn, Luke, 2017, “A Proposed Probabilistic Extension of the Halpern and Pearl Definition of ‘Actual Cause’”, *The British Journal for the Philosophy of Science*, 68(4): 1061–1124. doi:10.1093/bjps/axv056
+* Galavotti, Maria Carla, 2005, *Philosophical Introduction to Probability*, Stanford, CA: CSLI Publications.
+* Gillies, Donald, 2000, *Philosophical Theories of Probability*, London and New York: Routledge.
 * Glymour, Clark, 2009, “Causality and Statistics”, in Beebee, Hitchcock, and Menzies 2009: 498–522.
-* Glymour, Clark and Gregory Cooper, 1999, _Computation, Causation, and Discovery_, Cambridge, MA: MIT Press.
-* Glymour, Clark, David Danks, Bruce Glymour, Frederick Eberhardt, Joseph Ramsey, Richard Scheines, Peter Spirtes, Choh Man Teng, and Jiji Zhang, 2010, “Actual Causation: a Stone Soup Essay”, _Synthese_, 175(2): 169–192. doi:10.1007/s11229-009-9497-9
-* Glynn, Luke, 2011, “A Probabilistic Analysis of Causation”, _British Journal for the Philosophy of Science_, 62(2): 343–392. doi:10.1093/bjps/axq015
-* Hájek, Alan and Christopher Hitchcock, 2016a, _The Oxford Handbook of Probability and Philosophy_, Oxford: Oxford University Press.
+* Glymour, Clark and Gregory Cooper, 1999, *Computation, Causation, and Discovery*, Cambridge, MA: MIT Press.
+* Glymour, Clark, David Danks, Bruce Glymour, Frederick Eberhardt, Joseph Ramsey, Richard Scheines, Peter Spirtes, Choh Man Teng, and Jiji Zhang, 2010, “Actual Causation: a Stone Soup Essay”, *Synthese*, 175(2): 169–192. doi:10.1007/s11229-009-9497-9
+* Glynn, Luke, 2011, “A Probabilistic Analysis of Causation”, *British Journal for the Philosophy of Science*, 62(2): 343–392. doi:10.1093/bjps/axq015
+* Hájek, Alan and Christopher Hitchcock, 2016a, *The Oxford Handbook of Probability and Philosophy*, Oxford: Oxford University Press.
 * –––, 2016b, “Probability for Everyone—Even Philosophers”, in Hájek and Hitchcock 2016a: 5–30.
-* Halpern, Joseph Y., 2016, _Actual Causality_, Cambridge, MA: MIT Press.
-* Halpern, Joseph Y. and Judea Pearl, 2005, “Causes and Explanations: A Structural-Model Approach. Part I: Causes”, _British Journal for the Philosophy of Science_, 56(4): 843–887. doi:10.1093/bjps/axi147
-* Hausman, Daniel M., 1999, “The Mathematical Theory of Causation”, _British Journal for the Philosophy of Science_, 50(1): 151–62. doi:10.1093/bjps/50.1.151
-* Hausman, Daniel M. and James Woodward, 1999, “Independence, Invariance, and the Causal Markov Condition”, _British Journal for the Philosophy of Science_, 50(4): 521–583. doi:10.1093/bjps/50.4.521
-* –––, 2004, “Modularity and the Causal Markov Condition: a Restatement”, _British Journal for the Philosophy of Science_, 55(1): 147–61. doi:10.1093/bjps/55.1.147
+* Halpern, Joseph Y., 2016, *Actual Causality*, Cambridge, MA: MIT Press.
+* Halpern, Joseph Y. and Judea Pearl, 2005, “Causes and Explanations: A Structural-Model Approach. Part I: Causes”, *British Journal for the Philosophy of Science*, 56(4): 843–887. doi:10.1093/bjps/axi147
+* Hausman, Daniel M., 1999, “The Mathematical Theory of Causation”, *British Journal for the Philosophy of Science*, 50(1): 151–62. doi:10.1093/bjps/50.1.151
+* Hausman, Daniel M. and James Woodward, 1999, “Independence, Invariance, and the Causal Markov Condition”, *British Journal for the Philosophy of Science*, 50(4): 521–583. doi:10.1093/bjps/50.4.521
+* –––, 2004, “Modularity and the Causal Markov Condition: a Restatement”, *British Journal for the Philosophy of Science*, 55(1): 147–61. doi:10.1093/bjps/55.1.147
 * Hitchcock, Christopher, 2004a, “Routes, Processes, and Chance Lowering Causes”, in Dowe and Noordhof 2004: 138–151.
 * –––, 2004b, “Do All and Only Causes Raise the Probabilities of Effects?” in Collins, Hall, and Paul 2004: 403–418.
 * –––, 2009, “Causal Models”, in Beebee, Hitchcock, and Menzies 2009: 299–314.
-* –––, 2015, “Lewis on Causation”, in B. Loewer and J. Schaffer (eds.), _A Companion to David Lewis_, Hoboken NJ: Wiley-Blackwell, pp. 295–312.
+* –––, 2015, “Lewis on Causation”, in B. Loewer and J. Schaffer (eds.), *A Companion to David Lewis*, Hoboken NJ: Wiley-Blackwell, pp. 295–312.
 * –––, 2016, “Probabilistic Causation”, in Hájek and Hitchcock 2016a: 815–32.
-* Hume, David, 1748, _An Enquiry Concerning Human Understanding_, London.
-* Jeffrey, Richard, 1969, “Statistical Explanation vs. Statistical Inference”, in Nicholas Rescher (ed.), _Essays in Honor of Carl G. Hempel_, Reidel: Dordrecht, pp. 104–13.
-* Kvart, Igal, 1997, “Cause and Some Positive Causal Impact”, in James Tomberlin (ed.), _Philosophical Perspectives 11: Mind, Causation, and World_, Atascadero, CA: Ridgeview, pp. 401–432.
+* Hume, David, 1748, *An Enquiry Concerning Human Understanding*, London.
+* Jeffrey, Richard, 1969, “Statistical Explanation vs. Statistical Inference”, in Nicholas Rescher (ed.), *Essays in Honor of Carl G. Hempel*, Reidel: Dordrecht, pp. 104–13.
+* Kvart, Igal, 1997, “Cause and Some Positive Causal Impact”, in James Tomberlin (ed.), *Philosophical Perspectives 11: Mind, Causation, and World*, Atascadero, CA: Ridgeview, pp. 401–432.
 * –––, 2004, “Causation: Probabilistic and Counterfactual Analyses”, in Collins, Hall, and Paul 2004: 359–387.
-* Kyburg, Henry E., Jr., 1965, “Discussion: Salmon’s Paper”, _Philosophy of Science_, 32(2): 147–151. doi:10.1086/288034
-* Lewis, David, 1973, “Causation”, _Journal of Philosophy_, 70(17): 556–567. doi:10.2307/2025310
+* Kyburg, Henry E., Jr., 1965, “Discussion: Salmon’s Paper”, *Philosophy of Science*, 32(2): 147–151. doi:10.1086/288034
+* Lewis, David, 1973, “Causation”, *Journal of Philosophy*, 70(17): 556–567. doi:10.2307/2025310
 * –––, 1986a, “Events”, in Lewis 1986c: 241–270.
 * –––, 1986b, “Postscripts to ‘Causation’”, in Lewis 1986c: 173–213.
-* –––, 1986c, _Philosophical Papers, Volume II_, Oxford: Oxford University Press. doi:10.1093/0195036468.003.0006
+* –––, 1986c, *Philosophical Papers, Volume II*, Oxford: Oxford University Press. doi:10.1093/0195036468.003.0006
 * Mellor, Hugh, 2004, “For Facts as Causes and Effects”, in Collins, Hall, and Paul 2004: 309–324.
-* Menzies, Peter, 1989, “Probabilistic Causation and Causal Processes: A Critique of Lewis”, _Philosophy of Science_, 56(4): 642–663. doi:10.1086/289518
-* Neapolitan, Richard, 2004, _Learning Bayesian Networks_, Upper Saddle River, NJ: Prentice Hall.
+* Menzies, Peter, 1989, “Probabilistic Causation and Causal Processes: A Critique of Lewis”, *Philosophy of Science*, 56(4): 642–663. doi:10.1086/289518
+* Neapolitan, Richard, 2004, *Learning Bayesian Networks*, Upper Saddle River, NJ: Prentice Hall.
 * Neapolitan, Richard and Xia Jiang, 2016, “The Bayesian Network Story”, in Hájek and Hitchcock 2016a: 183–99.
-* Noordhof, Paul, 1999, “Probabilistic Causation, Preemption and Counterfactuals”, _Mind_, 108(429): 95–125. doi:10.1093/mind/108.429.95
-* Pearl, Judea, 1988, _Probabilistic Reasoning in Intelligent Systems_, San Francisco: Morgan Kaufman.
-* –––, 2009, _Causality: Models, Reasoning, and Inference_, second edition, Cambridge: Cambridge University Press. First edition in 2000. doi:10.1017/CBO9780511803161
-* –––, 2010, “An Introduction to Causal Inference”, _The International Journal of Biostatistics_, 6(2): article 7. doi:10.2202/1557-4679.1203
-* Pearl, Judea, Madelyn Glymour, and Nicholas P. Jewell, 2016, _Causal Inference in Statistics: A Primer_, Chichester, UK: Wiley.
-* Pearl, Judea and Thomas Verma, 1991, “A Theory of Inferred Causation”, _Principles of Knowledge Representation and Reasoning: Proceedings of the 2nd International Conference_, San Mateo, CA: Morgan Kaufman, pp. 441–52.
+* Noordhof, Paul, 1999, “Probabilistic Causation, Preemption and Counterfactuals”, *Mind*, 108(429): 95–125. doi:10.1093/mind/108.429.95
+* Pearl, Judea, 1988, *Probabilistic Reasoning in Intelligent Systems*, San Francisco: Morgan Kaufman.
+* –––, 2009, *Causality: Models, Reasoning, and Inference*, second edition, Cambridge: Cambridge University Press. First edition in 2000. doi:10.1017/CBO9780511803161
+* –––, 2010, “An Introduction to Causal Inference”, *The International Journal of Biostatistics*, 6(2): article 7. doi:10.2202/1557-4679.1203
+* Pearl, Judea, Madelyn Glymour, and Nicholas P. Jewell, 2016, *Causal Inference in Statistics: A Primer*, Chichester, UK: Wiley.
+* Pearl, Judea and Thomas Verma, 1991, “A Theory of Inferred Causation”, *Principles of Knowledge Representation and Reasoning: Proceedings of the 2nd International Conference*, San Mateo, CA: Morgan Kaufman, pp. 441–52.
 * Psillos, Stathis, 2009, “Regularity Theories of Causation”, in Beebee, Hitchcock, and Menzies 2009: 131–157.
-* Reichenbach, Hans, 1925, “Die Kausalstruktur der Welt und der Unterschied von Vergangenheit und Zukunft”, _Sitzungsberichte der Bayerische Akademie der Wissenschaft_, November: 133–175. English translation “The Causal Structure of the World and the Difference between Past and Future”, in Maria Reichenbach and Robert S. Cohen (eds.), _Hans Reichenbach: Selected Writings, 1909–1953_, Vol. II, Dordrecht and Boston: Reidel, 1978, pp. 81–119.
-* –––, 1956, _The Direction of Time_, Berkeley and Los Angeles: University of California Press.
-* Salmon, Wesley, 1984, _Scientific Explanation and the Causal Structure of the World_, Princeton: Princeton University Press.
-* Schaffer, Jonathan, 2001, “Causes as Probability-Raisers of Processes”, _Journal of Philosophy_, 98(2): 75–92. doi:10.2307/2678483
-* Scheines, Richard, 1997, “An Introduction to Causal Inference” in V. McKim and S. Turner (eds.), _Causality in Crisis?_, Notre Dame: University of Notre Dame Press, pp. 185–199.
-* Skyrms, Brian, 1980, _Causal Necessity_, New Haven and London: Yale University Press.
-* Spirtes, Peter, Clark Glymour, and Richard Scheines \[SGS], 2000, _Causation, Prediction and Search_, second edition, Cambridge, MA: MIT Press. First edition in 1993.
-* Suppes, Patrick, 1970, _A Probabilistic Theory of Causality_, Amsterdam: North-Holland Publishing Company.
-* Twardy, Charles R. and Kevin B. Korb, 2004, “A Criterion of Probabilistic Causation”, _Philosophy of Science_, 71(3): 241–262. doi:10.1086/421534
-* –––, 2011, “Actual Causation by Probabilistic Active Paths”, _Philosophy of Science_, 78(5): 900–913. doi:10.1086/662957
+* Reichenbach, Hans, 1925, “Die Kausalstruktur der Welt und der Unterschied von Vergangenheit und Zukunft”, *Sitzungsberichte der Bayerische Akademie der Wissenschaft*, November: 133–175. English translation “The Causal Structure of the World and the Difference between Past and Future”, in Maria Reichenbach and Robert S. Cohen (eds.), *Hans Reichenbach: Selected Writings, 1909–1953*, Vol. II, Dordrecht and Boston: Reidel, 1978, pp. 81–119.
+* –––, 1956, *The Direction of Time*, Berkeley and Los Angeles: University of California Press.
+* Salmon, Wesley, 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton: Princeton University Press.
+* Schaffer, Jonathan, 2001, “Causes as Probability-Raisers of Processes”, *Journal of Philosophy*, 98(2): 75–92. doi:10.2307/2678483
+* Scheines, Richard, 1997, “An Introduction to Causal Inference” in V. McKim and S. Turner (eds.), *Causality in Crisis?*, Notre Dame: University of Notre Dame Press, pp. 185–199.
+* Skyrms, Brian, 1980, *Causal Necessity*, New Haven and London: Yale University Press.
+* Spirtes, Peter, Clark Glymour, and Richard Scheines \[SGS], 2000, *Causation, Prediction and Search*, second edition, Cambridge, MA: MIT Press. First edition in 1993.
+* Suppes, Patrick, 1970, *A Probabilistic Theory of Causality*, Amsterdam: North-Holland Publishing Company.
+* Twardy, Charles R. and Kevin B. Korb, 2004, “A Criterion of Probabilistic Causation”, *Philosophy of Science*, 71(3): 241–262. doi:10.1086/421534
+* –––, 2011, “Actual Causation by Probabilistic Active Paths”, *Philosophy of Science*, 78(5): 900–913. doi:10.1086/662957
 * Williamson, Jon, 2009, “Probabilistic Theories of Causation”, in Beebee, Hitchcock, and Menzies 2009: 185–212.
 
 ## Academic Tools
@@ -719,4 +718,4 @@ P(BS2=1∣do(BT0=0,ST0=1,SH1=1))=.9505
 Thanks to Frederick Eberhardt, Luke Fenton-Glynn, Clark Glymour, Judea Pearl, Richard Scheines, Elliott Sober, Jim Woodward and the editors of the Stanford Encyclopedia of Philosophy for detailed comments, corrections, and discussion.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Christopher Hitchcock](http://hss.divisions.caltech.edu/people/christopher-r-hitchcock) <[_cricky@caltech.edu_](mailto:cricky%40caltech%2eedu)>
+[Christopher Hitchcock](http://hss.divisions.caltech.edu/people/christopher-r-hitchcock) <[*cricky@caltech.edu*](mailto:cricky%40caltech%2eedu)>

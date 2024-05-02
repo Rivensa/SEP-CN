@@ -1,6 +1,6 @@
 # 康德的美学与目的论 aesthetics and teleology (Hannah Ginsborg)
 
-_首次发表于2005年7月2日；实质性修订于2022年7月15日。_
+*首次发表于2005年7月2日；实质性修订于2022年7月15日。*
 
 康德对美学和目的论的观点在他的《判断力批判》（Kritik der Urteilskraft，现在通常译为《判断力的批判》）中得到了最充分的阐述，该书于1790年出版。这部作品分为两个部分，前面有一篇长篇引言，康德在其中解释并捍卫了这部作品对他整个批判体系的重要性。在第一部分《审美判断的批判》中，康德讨论了审美体验和判断，特别是美和崇高，以及艺术创作；在第二部分《目的论判断的批判》中，他讨论了目的论（即对目的、目标或目标的诉求）在自然科学中的作用，以及在我们对自然的理解中的作用。《判断力批判》是康德的三部批判著作中的第三部，其他两部分别是《纯粹理性批判》（1781年，第二版于1787年出版），涉及形而上学和认识论，以及1788年的《实践理性批判》，与他1785年的《道德形而上学基础》一起涉及伦理学。
 
@@ -8,7 +8,6 @@ _首次发表于2005年7月2日；实质性修订于2022年7月15日。_
 
 伊曼努尔·康德的美学和目的论构成了一个非常广泛的领域，本文无法涵盖所有相关主题，也无法考虑到所有相关文献，特别是考虑到学术界对第三批判的最近兴趣的扩展。在这里我提到三个更具体的限制。首先，尽管康德在他的职业生涯中写过关于美学和目的论的文章，但本文仅考虑康德的《判断力批判》（以及所谓的“第一引言”，这是引言的早期版本，在康德生前未发表，但包含在最新的英文翻译的《判断力批判》中）。其次，本文主要关注康德关于这些主题的著作引发的解释和哲学问题，而不是关于它们起源和接受的历史问题。第三，本文主要关注在英美分析传统中引起最多关注的问题；这在参考文献中有所体现，参考文献主要限于英文著作，更具体地说是从分析视角撰写的著作。关于康德关于美学和目的论的著作的一些参考资料，请参阅参考文献中的主要来源。关于康德的美学和目的论的历史和接受方面的二次文献的一些建议，以及从非分析视角撰写的英文二次文献的一些建议，请参阅参考文献中的二次来源。
 
- 
 ***
 
 ## 1. 论述判断力与第三批判的统一
@@ -409,17 +408,17 @@ Zammito 2006 有力地挑战了康德理论与当代关于生物功能的辩论�
 
 ### A. Primary Sources
 
-The two most important sources for Kant’s views on aesthetics and teleology, _Critique of Judgment_ and “First Introduction”, are both published in the standard German edition of Kant’s works, the so-called Academy edition:
+The two most important sources for Kant’s views on aesthetics and teleology, *Critique of Judgment* and “First Introduction”, are both published in the standard German edition of Kant’s works, the so-called Academy edition:
 
-* _Kritik der Urteilskraft_, _Kants gesammelte Schriften_, Volume 5, Berlin: Walter de Gruyter, 1902–.
-* “Erste Einleitung”, _Kants gesammelte Schriften_, Volume 20, Berlin: Walter de Gruyter, 1902–.
+* *Kritik der Urteilskraft*, *Kants gesammelte Schriften*, Volume 5, Berlin: Walter de Gruyter, 1902–.
+* “Erste Einleitung”, *Kants gesammelte Schriften*, Volume 20, Berlin: Walter de Gruyter, 1902–.
 
-Page references given in this article follow the pagination of the Academy edition, which is indicated in the margins of the two most recent English-language editions (see below). Unless otherwise stated, all references are to the _Critique of Judgment_. References to the First Introduction are introduced by the abbreviation “FI”. Quotations follow the Cambridge translation (see below), with occasional divergences.
+Page references given in this article follow the pagination of the Academy edition, which is indicated in the margins of the two most recent English-language editions (see below). Unless otherwise stated, all references are to the *Critique of Judgment*. References to the First Introduction are introduced by the abbreviation “FI”. Quotations follow the Cambridge translation (see below), with occasional divergences.
 
-The two most recent English-language editions of the _Critique of Judgment_ are to be preferred over earlier translations. The recent translations are:
+The two most recent English-language editions of the *Critique of Judgment* are to be preferred over earlier translations. The recent translations are:
 
-* _Critique of Judgment_, Werner Pluhar (trans.), Indianapolis: Hackett, 1987.
-* _Critique of the Power of Judgment (The Cambridge Edition of the Works of Immanuel Kant)_, Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans), Cambridge: Cambridge University Press, 2000.
+* *Critique of Judgment*, Werner Pluhar (trans.), Indianapolis: Hackett, 1987.
+* *Critique of the Power of Judgment (The Cambridge Edition of the Works of Immanuel Kant)*, Paul Guyer (ed.), Paul Guyer and Eric Matthews (trans), Cambridge: Cambridge University Press, 2000.
 
 The earlier translations are those of J.H. Bernard (London: Macmillan, 1892; revised edition 1914) and J.C. Meredith (Oxford: Clarendon Press, 1952); the edition just cited is a combination of translations of the two main sections of the work that were published separately in 1911 and 1928 respectively.
 
@@ -427,15 +426,15 @@ Both the Hackett and the Cambridge editions include the First Introduction, and 
 
 There are substantial differences among the various available English-language editions, in particular in the translation of certain frequently occurring terms, and these differences are reflected in variations in the terminology used in the secondary literature. Some issues regarding the translation of the text are discussed in section IV of the Editor’s Introduction to the Cambridge edition and in Ginsborg (2002).
 
-Turning now to other primary sources: there is a considerable amount of material on aesthetics, reflecting Kant’s views at various stages of his philosophical development, in the lectures and reflections on logic and anthropology. For more details on relevant material from these texts, the reader is referred to the endnotes of the Cambridge edition of the _Critique of Judgment_. Kant’s early work, _Observations on the Sublime and the Beautiful_ (1764), has, in spite of its title, very little bearing on Kant’s aesthetic theory, and is more a work in popular anthropology.
+Turning now to other primary sources: there is a considerable amount of material on aesthetics, reflecting Kant’s views at various stages of his philosophical development, in the lectures and reflections on logic and anthropology. For more details on relevant material from these texts, the reader is referred to the endnotes of the Cambridge edition of the *Critique of Judgment*. Kant’s early work, *Observations on the Sublime and the Beautiful* (1764), has, in spite of its title, very little bearing on Kant’s aesthetic theory, and is more a work in popular anthropology.
 
-While Kant’s most systematic and mature discussion of teleology is in the _Critique of Judgment_, there is also extensive discussion of the topic in the _Only Possible Argument for the Existence of God_ (1763), included in _Theoretical Philosophy 1755–1770_ (The Cambridge Edition of the Works of Immanuel Kant), translated and edited by David Walford and Ralf Meerbote (Cambridge: Cambridge University Press, 1992). Kant also discusses teleology in two essays about race, “Determination of the Concept of a Human Race” (1785) and “On the Use of Teleological Principles in Philosophy” (1788); both are included in _Anthropology, History, and Education (The Cambridge Edition of the Works of Immanuel Kant)_, edited by Gunter Zöller and Robert B. Louden.
+While Kant’s most systematic and mature discussion of teleology is in the *Critique of Judgment*, there is also extensive discussion of the topic in the *Only Possible Argument for the Existence of God* (1763), included in *Theoretical Philosophy 1755–1770* (The Cambridge Edition of the Works of Immanuel Kant), translated and edited by David Walford and Ralf Meerbote (Cambridge: Cambridge University Press, 1992). Kant also discusses teleology in two essays about race, “Determination of the Concept of a Human Race” (1785) and “On the Use of Teleological Principles in Philosophy” (1788); both are included in *Anthropology, History, and Education (The Cambridge Edition of the Works of Immanuel Kant)*, edited by Gunter Zöller and Robert B. Louden.
 
 ### B. Secondary Sources
 
 There is a large and ever-increasing secondary literature on Kant’s aesthetics and teleology. The list of references below is not intended as a comprehensive bibliography. Previous editions of this entry recommended Wenzel 2009 and Henning 2009 as sources of further references in Kant’s aesthetics and teleology respectively; the author is not aware of comparable sources which cover more recent literature.
 
-This article has not addressed the historical origin or reception of Kant’s views on aesthetics and teleology, so I mention here some readings which might serve as points of departure for the reader interested in these areas. The introduction to the Cambridge edition of the _Critique of Judgment_ provides a useful discussion of the historical sources of the work as a whole. For a more extended account, see Zammito’s (1992) book on the origin of the _Critique of Judgment_. More recent work on the historical origins of Kant’s aesthetics more specifically includes Zuckert 2007b and Rueger 2009, both of which emphasize Kant’s relation to his rationalist predecessors, and Guyer 2008, which explores the influence on Kant of earlier writers on aesthetics in the empiricist tradition. Regarding the reception of Kant’s aesthetics, Guyer 2017b offers a brief but illuminating discussion of Kant’s importance to Anglo-American aesthetic theory, as illustrated by the prevalence of articles about Kant that have appeared in the _Journal of Aesthetics and Art Criticism_ since its founding in 1941.
+This article has not addressed the historical origin or reception of Kant’s views on aesthetics and teleology, so I mention here some readings which might serve as points of departure for the reader interested in these areas. The introduction to the Cambridge edition of the *Critique of Judgment* provides a useful discussion of the historical sources of the work as a whole. For a more extended account, see Zammito’s (1992) book on the origin of the *Critique of Judgment*. More recent work on the historical origins of Kant’s aesthetics more specifically includes Zuckert 2007b and Rueger 2009, both of which emphasize Kant’s relation to his rationalist predecessors, and Guyer 2008, which explores the influence on Kant of earlier writers on aesthetics in the empiricist tradition. Regarding the reception of Kant’s aesthetics, Guyer 2017b offers a brief but illuminating discussion of Kant’s importance to Anglo-American aesthetic theory, as illustrated by the prevalence of articles about Kant that have appeared in the *Journal of Aesthetics and Art Criticism* since its founding in 1941.
 
 Marino and Terzi 2020 discuss the reception of the Critique of Aesthetic Judgment in the twentieth century with an emphasis on the Continental tradition and references to American pragmatism, with figures like Hermann Cohen, Cassirer, Adorno, Arendt, Deleuze, Derrida, Lyotard, Eco, and Cavell.
 
@@ -443,286 +442,286 @@ Regarding the historical background to Kant’s views on natural teleology, spec
 
 This article, and much of the literature referred to, approaches Kant’s views largely from the perspective of the analytic tradition in philosophy. English-language treatments of Kant’s aesthetics which accommodate more of a “continental” perspective include Makkreel (1990), Pillow (2000), and Gasché (2002). See also the references given in the final paragraph of [section 2.9](https://plato.stanford.edu/entries/kant-aesthetics/#BroaSignKantAest).
 
-* Abaci, Uygar, 2008, “Kant’s Justified Dismissal of Artistic Sublimity”, _Journal of Aesthetics and Art Criticism_, 66(3): 237–251. doi:10.1111/j.1540-6245.2008.00306.x
-* Abela, Paul, 2006, “The Demands of Systematicity: Rational Judgment and the Structure of Nature.” In _A Companion to Kant,_ Graham Bird (ed.), Oxford: Blackwell, 408–422
-* Allison, Henry E., 1992, “Kant’s Antinomy of Teleological Judgment”, _The Southern Journal of Philosophy_, 30(S1): 25–42. doi:10.1111/j.2041-6962.1992.tb00654.x
-* –––, 2001, _Kant’s Theory of Taste: A Reading of the “Critique of Aesthetic Judgment”_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511612671
-* –––, 2003, “Reply to the Comments of Longuenesse and Ginsborg”, _Inquiry_, 46(2): 182–194. doi:10.1080/00201740310001182
+* Abaci, Uygar, 2008, “Kant’s Justified Dismissal of Artistic Sublimity”, *Journal of Aesthetics and Art Criticism*, 66(3): 237–251. doi:10.1111/j.1540-6245.2008.00306.x
+* Abela, Paul, 2006, “The Demands of Systematicity: Rational Judgment and the Structure of Nature.” In *A Companion to Kant,* Graham Bird (ed.), Oxford: Blackwell, 408–422
+* Allison, Henry E., 1992, “Kant’s Antinomy of Teleological Judgment”, *The Southern Journal of Philosophy*, 30(S1): 25–42. doi:10.1111/j.2041-6962.1992.tb00654.x
+* –––, 2001, *Kant’s Theory of Taste: A Reading of the “Critique of Aesthetic Judgment”*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511612671
+* –––, 2003, “Reply to the Comments of Longuenesse and Ginsborg”, *Inquiry*, 46(2): 182–194. doi:10.1080/00201740310001182
 * –––, 2006, “Response to Paul Guyer”, in Kukla 2006: 128–137.
-* Ameriks, Karl, 1982, “How to Save Kant’s Deduction of Taste”, _The Journal of Value Inquiry_, 16(4): 295–302. Reprinted as part of chapter 12 of Ameriks 2003. doi:10.1007/BF00137167
-* –––, 1983, “Kant and the Objectivity of Taste”, _The British Journal of Aesthetics_, 23(1): 3–17. Reprinted as part of chapter 12 of Ameriks 2003. doi:10.1093/bjaesthetics/23.1.3
+* Ameriks, Karl, 1982, “How to Save Kant’s Deduction of Taste”, *The Journal of Value Inquiry*, 16(4): 295–302. Reprinted as part of chapter 12 of Ameriks 2003. doi:10.1007/BF00137167
+* –––, 1983, “Kant and the Objectivity of Taste”, *The British Journal of Aesthetics*, 23(1): 3–17. Reprinted as part of chapter 12 of Ameriks 2003. doi:10.1093/bjaesthetics/23.1.3
 * –––, 1998, “New Views on Kant’s Judgment of Taste”, in Parret 1998a: 431–447. Reprinted as chapter 13 of Ameriks 2003. doi:10.1515/9783110907902.431
-* –––, 2000, “Taste, Conceptuality and Objectivity”, in _Kant Actuel: Hommage à Pierre Laberge_, François Duscheneau, Guy LaFrance, and Claude Piché (eds.), Montréal/Paris: Bellarmin/Vrin. Reprinted as chapter 14 of Ameriks 2003.
-* –––, 2003, _Interpreting Kant’s Critiques_, Oxford: Oxford University Press. doi:10.1093/0199247315.001.0001
+* –––, 2000, “Taste, Conceptuality and Objectivity”, in *Kant Actuel: Hommage à Pierre Laberge*, François Duscheneau, Guy LaFrance, and Claude Piché (eds.), Montréal/Paris: Bellarmin/Vrin. Reprinted as chapter 14 of Ameriks 2003.
+* –––, 2003, *Interpreting Kant’s Critiques*, Oxford: Oxford University Press. doi:10.1093/0199247315.001.0001
 * Aquila, Richard E., 1982, “A New Look at Kant’s Aesthetic Judgments”, in Cohen and Guyer 1982: ch. 3.
-* –––, 1992, “Unity of Organism, Unity of Thought, and the Unity of the Critique of Judgment”, _The Southern Journal of Philosophy_, 30(S1): 139–155. doi:10.1111/j.2041-6962.1992.tb00662.x
-* Arendt, Hannah, 1982, _Lectures on Kant’s Political Philosophy_, Ronald Beiner (ed.), Chicago: University of Chicago Press.
-* Baz, Avner, 2005, “Kant’s Principle of Purposiveness and the Missing Point of (Aesthetic) Judgements”, _Kantian Review_, 10: 1–32. doi:10.1017/S1369415400002119
-* –––, 2016, “The Sound of Bedrock: Lines of Grammar between Kant, Wittgenstein, and Cavell”, _European Journal of Philosophy_, 24(3): 607–628. doi:10.1111/ejop.12108
-* Beck, Lewis White, 1969, _Early German Philosophy_, Cambridge, MA: Belknap Press.
-* Beisbart, Claus, 2009, “Kant’s Characterization of Natural Ends”, _Kant Yearbook_, 1: 1–30. doi:10.1515/9783110196672.1
-* Bell, David, 1987, “The Art of Judgement”, _Mind_, 96(382): 221–244. doi:10.1093/mind/XCVI.382.221
-* Berger, Larissa, forthcoming, “The Way It Makes Us Feel: The Subsumption Model of the Kantian Judgement of Taste”, _European Journal of Philosophy_, first online: 22 October 2021. doi:10.1111/ejop.12730
-* Brandt, Reinhard, 1989, “The Deductions in the _Critique of Judgment_: Comments on Hampshire and Horstmass”, in Förster 1989: 177–192.
-* –––, 1994, “Die Schönheit der Kristalle und das Spiel der Erkenntniskräfte. Zum Gegenstand und zur Logik des ästhetischen Urteils bei Kant”, in Reinhard Brandt and Werner Stark (eds.), _Autographen, Dokumente und Berichte. Zu Edition, Amtsgeschäften und Werk Immanuel Kants_, Hamburg: Felix Meiner Verlag, 19–57.
-* Breitenbach, Angela, 2006, “Mechanical Explanation of Nature and Its Limits in Kant’s _Critique of Judgment_”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 694–711. doi:10.1016/j.shpsc.2006.09.001
-* –––, 2008, “Two Views on Nature: A Solution to Kant’s Antinomy of Mechanism and Teleology”, _British Journal for the History of Philosophy_, 16(2): 351–369. doi:10.1080/09608780801969167
-* –––, 2009, “Teleology in Biology: A Kantian Perspective”, _Kant Yearbook_, 1: 31–56. doi:10.1515/9783110196672.31
-* –––, 2013, “Beauty in Proofs: Kant on Aesthetics in Mathematics”, _European Journal of Philosophy_ 23(4): 955–977
+* –––, 1992, “Unity of Organism, Unity of Thought, and the Unity of the Critique of Judgment”, *The Southern Journal of Philosophy*, 30(S1): 139–155. doi:10.1111/j.2041-6962.1992.tb00662.x
+* Arendt, Hannah, 1982, *Lectures on Kant’s Political Philosophy*, Ronald Beiner (ed.), Chicago: University of Chicago Press.
+* Baz, Avner, 2005, “Kant’s Principle of Purposiveness and the Missing Point of (Aesthetic) Judgements”, *Kantian Review*, 10: 1–32. doi:10.1017/S1369415400002119
+* –––, 2016, “The Sound of Bedrock: Lines of Grammar between Kant, Wittgenstein, and Cavell”, *European Journal of Philosophy*, 24(3): 607–628. doi:10.1111/ejop.12108
+* Beck, Lewis White, 1969, *Early German Philosophy*, Cambridge, MA: Belknap Press.
+* Beisbart, Claus, 2009, “Kant’s Characterization of Natural Ends”, *Kant Yearbook*, 1: 1–30. doi:10.1515/9783110196672.1
+* Bell, David, 1987, “The Art of Judgement”, *Mind*, 96(382): 221–244. doi:10.1093/mind/XCVI.382.221
+* Berger, Larissa, forthcoming, “The Way It Makes Us Feel: The Subsumption Model of the Kantian Judgement of Taste”, *European Journal of Philosophy*, first online: 22 October 2021. doi:10.1111/ejop.12730
+* Brandt, Reinhard, 1989, “The Deductions in the *Critique of Judgment*: Comments on Hampshire and Horstmass”, in Förster 1989: 177–192.
+* –––, 1994, “Die Schönheit der Kristalle und das Spiel der Erkenntniskräfte. Zum Gegenstand und zur Logik des ästhetischen Urteils bei Kant”, in Reinhard Brandt and Werner Stark (eds.), *Autographen, Dokumente und Berichte. Zu Edition, Amtsgeschäften und Werk Immanuel Kants*, Hamburg: Felix Meiner Verlag, 19–57.
+* Breitenbach, Angela, 2006, “Mechanical Explanation of Nature and Its Limits in Kant’s *Critique of Judgment*”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 694–711. doi:10.1016/j.shpsc.2006.09.001
+* –––, 2008, “Two Views on Nature: A Solution to Kant’s Antinomy of Mechanism and Teleology”, *British Journal for the History of Philosophy*, 16(2): 351–369. doi:10.1080/09608780801969167
+* –––, 2009, “Teleology in Biology: A Kantian Perspective”, *Kant Yearbook*, 1: 31–56. doi:10.1515/9783110196672.31
+* –––, 2013, “Beauty in Proofs: Kant on Aesthetics in Mathematics”, *European Journal of Philosophy* 23(4): 955–977
 * –––, 2014, “Biological Purposiveness and Analogical Reflection”, in Goy and Watkins 2014: 131–148.
 * –––, 2017, “Laws in Biology and the Unity of Nature”, in Massimi and Breitenbach 2017: 237–255.
-* –––, 2018, “The Beauty of Science without the Science of Beauty: Kant and the Rationalists on the Aesthetics of Cognition”, _Journal of the History of Philosophy_ 56(2): 281–304.
+* –––, 2018, “The Beauty of Science without the Science of Beauty: Kant and the Rationalists on the Aesthetics of Cognition”, *Journal of the History of Philosophy* 56(2): 281–304.
 * –––, 2021, “Imaginative Reflection in Aesthetic Judgment and Cognition”, in Himmelmann and Serck-Hanssen 2021: 1009–1016. doi:10.1515/9783110701357-096
-* Brittan, Gordon G., 1992, “Systematicity and Objectivity in the Third _Critique_”, _The Southern Journal of Philosophy_, 30(S1): 167–186. doi:10.1111/j.2041-6962.1992.tb00664.x
-* Buchdahl, Gerd, 1969a, _Metaphysics and the Philosophy of Science: The Classical Origins: Descartes to Kant_, Cambridge, MA: MIT Press.
-* –––, 1969b, “The Kantian ‘Dynamic of Reason’”, in _Kant Studies Today_, Lewis White Beck (ed.), La Salle, IL: Open Court.
-* Budd, Malcolm, 1998, “Delight in the Natural World: Kant on the Aesthetic Appreciation of Nature Part III: The Sublime in Nature”, _The British Journal of Aesthetics_, 38(3): 233–250. Reprinted as “The Sublime in Nature” in Guyer 2003a: 121–142 (ch. 6).. doi:10.1093/bjaesthetics/38.3.233
-* Butts, Robert E., 1990, “Teleology and Scientific Method in Kant’s Critique of Judgment”, _Noûs_, 24(1): 1–16. doi:10.2307/2215610
-* Caranti, Luigi, 2005, “Logical Purposiveness and the Principle of Taste”, _Kant-Studien_, 96(3): 364–374. doi:10.1515/kant.2005.96.3.364
-* Cavell, Stanley, 1976, _Must We Mean What We Say? A Book of Essays_, Cambridge: Cambridge University Press.
-* Cazeaux, Clive (ed.), 2021, _Kant and Contemporary Art_ (special issue), _Kantian Review,_ 26(4).
-* Chaouli, Michel, 2017, _Thinking with Kant’s “Critique of Judgment”_, Cambridge, MA: Harvard University Press. doi:10.4159/9780674973077
-* Chignell, Andrew, 2007, “Kant on the Normativity of Taste: The Role of Aesthetic Ideas”, _Australasian Journal of Philosophy_, 85(3): 415–433. doi:10.1080/00048400701571677
-* Clewis, Robert R., 2009, _The Kantian Sublime and the Revelation of Freedom,_ Cambridge: Cambridge University Press.
-* –––, 2010, “A Case for Kantian Artistic Sublimity: A Response to Abaci”, _The Journal of Aesthetics and Art Criticism_, 68(2): 167–170. doi:10.1111/j.1540-6245.2010.01401.x
-* –––, 2019, “The Sources and Development of Kant’s Views on Aesthetic Normativity,” _Contemporary Studies in Kantian Philosophy 4_: 1–19.
-* Cohen, Alix A., 2006, “Kant on Epigenesis, Monogenesis and Human Nature: The Biological Premises of Anthropology”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 675–693. doi:10.1016/j.shpsc.2006.09.005
-* –––, 2007, “A Kantian Stance on Teleology in Biology”, _South African Journal of Philosophy_, 26(2): 109–121. doi:10.4314/sajpem.v26i2.31466
-* –––, 2013, “Kant on the Possibility of Ugliness”, _The British Journal of Aesthetics_, 53(2): 199–209. doi:10.1093/aesthj/ayt002
-* –––, 2020, “A Kantian Account of Emotions as Feelings1”, _Mind_, 129(514): 429–460. doi:10.1093/mind/fzz018
+* Brittan, Gordon G., 1992, “Systematicity and Objectivity in the Third *Critique*”, *The Southern Journal of Philosophy*, 30(S1): 167–186. doi:10.1111/j.2041-6962.1992.tb00664.x
+* Buchdahl, Gerd, 1969a, *Metaphysics and the Philosophy of Science: The Classical Origins: Descartes to Kant*, Cambridge, MA: MIT Press.
+* –––, 1969b, “The Kantian ‘Dynamic of Reason’”, in *Kant Studies Today*, Lewis White Beck (ed.), La Salle, IL: Open Court.
+* Budd, Malcolm, 1998, “Delight in the Natural World: Kant on the Aesthetic Appreciation of Nature Part III: The Sublime in Nature”, *The British Journal of Aesthetics*, 38(3): 233–250. Reprinted as “The Sublime in Nature” in Guyer 2003a: 121–142 (ch. 6).. doi:10.1093/bjaesthetics/38.3.233
+* Butts, Robert E., 1990, “Teleology and Scientific Method in Kant’s Critique of Judgment”, *Noûs*, 24(1): 1–16. doi:10.2307/2215610
+* Caranti, Luigi, 2005, “Logical Purposiveness and the Principle of Taste”, *Kant-Studien*, 96(3): 364–374. doi:10.1515/kant.2005.96.3.364
+* Cavell, Stanley, 1976, *Must We Mean What We Say? A Book of Essays*, Cambridge: Cambridge University Press.
+* Cazeaux, Clive (ed.), 2021, *Kant and Contemporary Art* (special issue), *Kantian Review,* 26(4).
+* Chaouli, Michel, 2017, *Thinking with Kant’s “Critique of Judgment”*, Cambridge, MA: Harvard University Press. doi:10.4159/9780674973077
+* Chignell, Andrew, 2007, “Kant on the Normativity of Taste: The Role of Aesthetic Ideas”, *Australasian Journal of Philosophy*, 85(3): 415–433. doi:10.1080/00048400701571677
+* Clewis, Robert R., 2009, *The Kantian Sublime and the Revelation of Freedom,* Cambridge: Cambridge University Press.
+* –––, 2010, “A Case for Kantian Artistic Sublimity: A Response to Abaci”, *The Journal of Aesthetics and Art Criticism*, 68(2): 167–170. doi:10.1111/j.1540-6245.2010.01401.x
+* –––, 2019, “The Sources and Development of Kant’s Views on Aesthetic Normativity,” *Contemporary Studies in Kantian Philosophy 4*: 1–19.
+* Cohen, Alix A., 2006, “Kant on Epigenesis, Monogenesis and Human Nature: The Biological Premises of Anthropology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 675–693. doi:10.1016/j.shpsc.2006.09.005
+* –––, 2007, “A Kantian Stance on Teleology in Biology”, *South African Journal of Philosophy*, 26(2): 109–121. doi:10.4314/sajpem.v26i2.31466
+* –––, 2013, “Kant on the Possibility of Ugliness”, *The British Journal of Aesthetics*, 53(2): 199–209. doi:10.1093/aesthj/ayt002
+* –––, 2020, “A Kantian Account of Emotions as Feelings1”, *Mind*, 129(514): 429–460. doi:10.1093/mind/fzz018
 * Cohen, Ted, 1982, “Beauty as the Symbol of Morality”, in Cohen and Guyer 1982: ch. 8.
-* Cohen, Ted and Paul Guyer (eds.), 1982, _Essays in Kant’s Aesthetics_, Chicago: University of Chicago Press.
-* Costello, Diarmuid, 2013, “Kant and the Problem of Strong Non-Perceptual Art”, _British Journal of Aesthetics_, 53(3): 277–298.
-* Crawford, Donald W., 1970, “Reason-Giving in Kant’s Aesthetics”, _The Journal of Aesthetics and Art Criticism_, 28(4): 505–510. doi:10.2307/428490
-* –––, 1974, _Kant’s Aesthetic Theory_, Madison, WI: University of Wisconsin Press.
-* Crowther, Paul, 1989, _The Kantian Sublime: From Morality to Art_, (Oxford Philosophical Monographs), Oxford/New York: Clarendon Press/Oxford University Press. doi:10.1093/0198239319.001.0001
-* Cvejić, Igor, 2021, “Intentionality Sui Generis of Pleasure in Mere Reflection”, in _Kant on Emotions: Critical Essays in the Contemporary Context_, Mariannina Failla and Nuria Sánchez Madrid (eds.), Berlin/Boston: De Gruyter, 87–106. doi:10.1515/9783110720730-008
-* de Man, Paul, 1990, “Phenomenality and Materiality in Kant”, in _The Textual Sublime: Deconstruction and its Differences_, Hugh J. Silverman and Gary E. Aylesworth (eds.), Albany, NY: State University of New York Press, 87–108 (ch. 8). Paper first presented at the eighth annual conference of the International Association for Philosophy and Literature (IAPL) in May 1983.
-* Derrida, Jacques, 1975 \[1981], “Economimesis”, in _Mimesis des articulations_, Paris: Aubier-Flammarion, 1975. Translated in 1981 by R. Klein in _Diacritics_, 11(2): 2–25. doi:10.2307/464726
-* –––, 1978 \[1987], _Vérité en peinture_, Paris: Flammarion. Translated as _The Truth in Painting_, translated by Geoff Bennington and Ianb McLeod, Chicago: University of Chicago Press, 1987.
-* Dickie, George, 1964, “The Myth of the Aesthetic Attitude”, _American Philosophical Quarterly_, 1(1): 56–65.
-* Dunn, Nicholas, 2020, “Kant and the Demands of Normativity: Response to Harbin”, _Dialogue_, 59(4): 613–619. doi:10.1017/S001221732000030X
-* Elliott, R. K., 1968, “The Unity of Kant’s ‘Critique of Aesthetic Judgement’”, _The British Journal of Aesthetics_, 8(3): 244–259. doi:10.1093/bjaesthetics/8.3.244
-* Eran, Uri, 2021, “Are Kantian Emotions Feelings?”, _Kantian Review_, 26(3): 371–378. doi:10.1017/S1369415421000200
-* Feloj, Serena, 2020, “Aesthetic Normativity in Kant’s Account: A Regulative Model”, _Con-Textos Kantianos. International Journal of Philosophy_, 1(12): 105–122.
-* Filieri, Luigi, 2021, “Concept-Less Schemata: The Reciprocity of Imagination and Understanding in Kant’s Aesthetics”, _Kantian Review_, 26(4): 511–529. doi:10.1017/S1369415421000480
+* Cohen, Ted and Paul Guyer (eds.), 1982, *Essays in Kant’s Aesthetics*, Chicago: University of Chicago Press.
+* Costello, Diarmuid, 2013, “Kant and the Problem of Strong Non-Perceptual Art”, *British Journal of Aesthetics*, 53(3): 277–298.
+* Crawford, Donald W., 1970, “Reason-Giving in Kant’s Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 28(4): 505–510. doi:10.2307/428490
+* –––, 1974, *Kant’s Aesthetic Theory*, Madison, WI: University of Wisconsin Press.
+* Crowther, Paul, 1989, *The Kantian Sublime: From Morality to Art*, (Oxford Philosophical Monographs), Oxford/New York: Clarendon Press/Oxford University Press. doi:10.1093/0198239319.001.0001
+* Cvejić, Igor, 2021, “Intentionality Sui Generis of Pleasure in Mere Reflection”, in *Kant on Emotions: Critical Essays in the Contemporary Context*, Mariannina Failla and Nuria Sánchez Madrid (eds.), Berlin/Boston: De Gruyter, 87–106. doi:10.1515/9783110720730-008
+* de Man, Paul, 1990, “Phenomenality and Materiality in Kant”, in *The Textual Sublime: Deconstruction and its Differences*, Hugh J. Silverman and Gary E. Aylesworth (eds.), Albany, NY: State University of New York Press, 87–108 (ch. 8). Paper first presented at the eighth annual conference of the International Association for Philosophy and Literature (IAPL) in May 1983.
+* Derrida, Jacques, 1975 \[1981], “Economimesis”, in *Mimesis des articulations*, Paris: Aubier-Flammarion, 1975. Translated in 1981 by R. Klein in *Diacritics*, 11(2): 2–25. doi:10.2307/464726
+* –––, 1978 \[1987], *Vérité en peinture*, Paris: Flammarion. Translated as *The Truth in Painting*, translated by Geoff Bennington and Ianb McLeod, Chicago: University of Chicago Press, 1987.
+* Dickie, George, 1964, “The Myth of the Aesthetic Attitude”, *American Philosophical Quarterly*, 1(1): 56–65.
+* Dunn, Nicholas, 2020, “Kant and the Demands of Normativity: Response to Harbin”, *Dialogue*, 59(4): 613–619. doi:10.1017/S001221732000030X
+* Elliott, R. K., 1968, “The Unity of Kant’s ‘Critique of Aesthetic Judgement’”, *The British Journal of Aesthetics*, 8(3): 244–259. doi:10.1093/bjaesthetics/8.3.244
+* Eran, Uri, 2021, “Are Kantian Emotions Feelings?”, *Kantian Review*, 26(3): 371–378. doi:10.1017/S1369415421000200
+* Feloj, Serena, 2020, “Aesthetic Normativity in Kant’s Account: A Regulative Model”, *Con-Textos Kantianos. International Journal of Philosophy*, 1(12): 105–122.
+* Filieri, Luigi, 2021, “Concept-Less Schemata: The Reciprocity of Imagination and Understanding in Kant’s Aesthetics”, *Kantian Review*, 26(4): 511–529. doi:10.1017/S1369415421000480
 * Fisher, Mark, 2014, “Metaphysics and Physiology in Kant’s Attitude Towards Theories of Preformation”, in Goy and Watkins 2014: 25–43.
-* Fisher, Naomi, 2019, “Organisms and the Form of Freedom in Kant’s Third _Critique_”, _European Journal of Philosophy_, 27(1): 55–74. doi:10.1111/ejop.12384
-* –––, forthcoming, “Life, Lawfulness, and Contingency: Kant and Schelling on Organic Nature.” _Archiv für Geschichte der Philosophie_
-* Förster, Eckart (ed.), 1989, _Kant’s Transcendental Deductions: The Three Critiques and the Opus Postumum_, (Stanford Series in Philosophy), Stanford, CA: Stanford University Press.
-* Friedlander, Eli, 2015, _Expressions of Judgment: An Essay on Kant’s Aesthetics_, Cambridge, MA: Harvard University Press. doi:10.4159/harvard.9780674735699
-* Fleischacker, Samuel, 1999, _A Third Concept of Liberty: Judgment and Freedom in Kant and Adam Smith_, Princeton, NJ: Princeton University Press.
+* Fisher, Naomi, 2019, “Organisms and the Form of Freedom in Kant’s Third *Critique*”, *European Journal of Philosophy*, 27(1): 55–74. doi:10.1111/ejop.12384
+* –––, forthcoming, “Life, Lawfulness, and Contingency: Kant and Schelling on Organic Nature.” *Archiv für Geschichte der Philosophie*
+* Förster, Eckart (ed.), 1989, *Kant’s Transcendental Deductions: The Three Critiques and the Opus Postumum*, (Stanford Series in Philosophy), Stanford, CA: Stanford University Press.
+* Friedlander, Eli, 2015, *Expressions of Judgment: An Essay on Kant’s Aesthetics*, Cambridge, MA: Harvard University Press. doi:10.4159/harvard.9780674735699
+* Fleischacker, Samuel, 1999, *A Third Concept of Liberty: Judgment and Freedom in Kant and Adam Smith*, Princeton, NJ: Princeton University Press.
 * Floyd, Juliet, 1998, “Heautonomy: Kant on Reflective Judgment and Systematicity”, in Parret 1998: 192–218. doi:10.1515/9783110907902.192
-* Fricke, Christel, 1990, “Explaining the Inexplicable. The Hypotheses of the Faculty of Reflective Judgement in Kant’s Third Critique”, _Noûs_, 24(1): 45–62. doi:10.2307/2215612
-* Friedman, Michael, 1992a, _Kant and the Exact Sciences_, Cambridge, MA: Harvard University Press.
-* –––, 1992b, “Regulative and Constitutive”, _The Southern Journal of Philosophy_, 30(S1): 73–102. doi:10.1111/j.2041-6962.1992.tb00658.x
-* Gambarotto, Andrea, 2018, _Vital Forces, Teleology and Organization: Philosophy of Nature and the Rise of Biology in Germany_, (History, Philosophy and Theory of the Life Sciences), Cham: Springer International Publishing. doi:10.1007/978-3-319-65415-7
-* Gammon, Martin, 1999, “Parerga and Pulchritudo Adhaerens: A Reading of the Third Moment of the ‘Analytic of the Beautiful’”, _Kant-Studien_, 90(2): 148–167. doi:10.1515/kant.1999.90.2.148
-* Gardner, Sebastian, 2016, “Kant’s Third Critique : The Project of Unification”, _Royal Institute of Philosophy Supplement_, 78: 161–185. doi:10.1017/S1358246116000254
+* Fricke, Christel, 1990, “Explaining the Inexplicable. The Hypotheses of the Faculty of Reflective Judgement in Kant’s Third Critique”, *Noûs*, 24(1): 45–62. doi:10.2307/2215612
+* Friedman, Michael, 1992a, *Kant and the Exact Sciences*, Cambridge, MA: Harvard University Press.
+* –––, 1992b, “Regulative and Constitutive”, *The Southern Journal of Philosophy*, 30(S1): 73–102. doi:10.1111/j.2041-6962.1992.tb00658.x
+* Gambarotto, Andrea, 2018, *Vital Forces, Teleology and Organization: Philosophy of Nature and the Rise of Biology in Germany*, (History, Philosophy and Theory of the Life Sciences), Cham: Springer International Publishing. doi:10.1007/978-3-319-65415-7
+* Gammon, Martin, 1999, “Parerga and Pulchritudo Adhaerens: A Reading of the Third Moment of the ‘Analytic of the Beautiful’”, *Kant-Studien*, 90(2): 148–167. doi:10.1515/kant.1999.90.2.148
+* Gardner, Sebastian, 2016, “Kant’s Third Critique : The Project of Unification”, *Royal Institute of Philosophy Supplement*, 78: 161–185. doi:10.1017/S1358246116000254
 * Gasché, Rodolphe, 2002, T_he Idea of Form: Rethinking Kant’s Aesthetics_, Stanford: Stanford University Press.
-* Geiger, Ido, 2003, “Is the Assumption of a Systematic Whole of Empirical Concepts a Necessary Condition of Knowledge?”, _Kant-Studien_, 94(3): 273–298. doi:10.1515/kant.2003.016
-* –––, 2009, “Is Teleological Judgement (Still) Necessary? Kant’s Arguments in the Analytic and in the Dialectic of Teleological Judgement 1”, _British Journal for the History of Philosophy_, 17(3): 533–566. doi:10.1080/09608780902986649
-* –––, 2017, “Kant on the Analytic-Synthetic or Mechanistic Model of Causal Explanation”, _Kant Yearbook_, 9(1): 19–42. doi:10.1515/kantyb-2017-0002
-* –––, 2020, “Aesthetic Normativity and the Acquisition of Empirical Concepts”, _Con-Textos Kantianos. International Journal of Philosophy_, 1(12): 71–104.
-* –––, 2021, “Kant on Aesthetic Ideas, Rational Ideas and the Subject-Matter of Art”, _The Journal of Aesthetics and Art Criticism_, 79(2): 186–199. doi:10.1093/jaac/kpab016
+* Geiger, Ido, 2003, “Is the Assumption of a Systematic Whole of Empirical Concepts a Necessary Condition of Knowledge?”, *Kant-Studien*, 94(3): 273–298. doi:10.1515/kant.2003.016
+* –––, 2009, “Is Teleological Judgement (Still) Necessary? Kant’s Arguments in the Analytic and in the Dialectic of Teleological Judgement 1”, *British Journal for the History of Philosophy*, 17(3): 533–566. doi:10.1080/09608780902986649
+* –––, 2017, “Kant on the Analytic-Synthetic or Mechanistic Model of Causal Explanation”, *Kant Yearbook*, 9(1): 19–42. doi:10.1515/kantyb-2017-0002
+* –––, 2020, “Aesthetic Normativity and the Acquisition of Empirical Concepts”, *Con-Textos Kantianos. International Journal of Philosophy*, 1(12): 71–104.
+* –––, 2021, “Kant on Aesthetic Ideas, Rational Ideas and the Subject-Matter of Art”, *The Journal of Aesthetics and Art Criticism*, 79(2): 186–199. doi:10.1093/jaac/kpab016
 * Gentry, Gerad, 2018, “Formal Purposiveness in Kant’s Aesthetic Judgment”, in Muchnik and Thorndike 2018: 253–280.
-* Ginsborg, Hannah, 1990a, _The Role of Taste in Kant’s Theory of Cognition_, New York: Garland.
-* –––, 1990b, “Reflective Judgment and Taste”, _Noûs_, 24(1): 63. Reprinted in Ginsborg 2015: essay 6. doi:10.2307/2215613
-* –––, 1991, “On the Key to Kant’s Critique of Taste”, _Pacific Philosophical Quarterly_, 72(4): 290–313. Reprinted in Ginsborg 2015: essay 2. doi:10.1111/j.1468-0114.1991.tb00322.x
-* –––, 1997a, “Lawfulness without a Law: Kant on the Free Play of Imagination and Understanding”, _Philosophical Topics_, 25(1): 37–81. Reprinted in Ginsborg 2015: essay 3.
-* –––, 1997b, “Kant on Aesthetic and Biological Purposiveness”, in _Reclaiming the History of Ethics: Essays for John Rawls_, Andrews Reath, Barbara Herman, and Christine M. Korsgaard (eds.), Cambridge: Cambridge University Press, 329–360. Reprinted in Ginsborg 2015: essay 10. doi:10.1017/CBO9780511527258.013
+* Ginsborg, Hannah, 1990a, *The Role of Taste in Kant’s Theory of Cognition*, New York: Garland.
+* –––, 1990b, “Reflective Judgment and Taste”, *Noûs*, 24(1): 63. Reprinted in Ginsborg 2015: essay 6. doi:10.2307/2215613
+* –––, 1991, “On the Key to Kant’s Critique of Taste”, *Pacific Philosophical Quarterly*, 72(4): 290–313. Reprinted in Ginsborg 2015: essay 2. doi:10.1111/j.1468-0114.1991.tb00322.x
+* –––, 1997a, “Lawfulness without a Law: Kant on the Free Play of Imagination and Understanding”, *Philosophical Topics*, 25(1): 37–81. Reprinted in Ginsborg 2015: essay 3.
+* –––, 1997b, “Kant on Aesthetic and Biological Purposiveness”, in *Reclaiming the History of Ethics: Essays for John Rawls*, Andrews Reath, Barbara Herman, and Christine M. Korsgaard (eds.), Cambridge: Cambridge University Press, 329–360. Reprinted in Ginsborg 2015: essay 10. doi:10.1017/CBO9780511527258.013
 * –––, 1998, “Kant on the Subjectivity of Taste”, in Parret 448–465. Reprinted in Ginsborg 2015: essay 1. doi:10.1515/9783110907902.448
 * –––, 2001, “Kant on Understanding Organisms as Natural Purposes”, in Watkins 2001: 231–254. Reprinted in Ginsborg 2015: essay 11. doi:10.1093/0195133056.003.0012
-* –––, 2002, “Review of _Critique of the Power of Judgment_, by Immanuel Kant, translated by Paul Guyer, and Eric Matthews, edited by Paul Guyer”, _The Philosophical Review_, 111(3): 429–435. doi:10.1215/00318108-111-3-429
-* –––, 2003, “Aesthetic Judging and The Intentionality of Pleasure”, _Inquiry_, 46(2): 164–181. Reprinted in Ginsborg 2015: essay 4. doi:10.1080/00201740310001173
-* –––, 2004, “Two Kinds of Mechanical Inexplicability in Kant and Aristotle”, _Journal of the History of Philosophy_, 42(1): 33–65. Reprinted in Ginsborg 2015: essay 12. doi:10.1353/hph.2004.0005
+* –––, 2002, “Review of *Critique of the Power of Judgment*, by Immanuel Kant, translated by Paul Guyer, and Eric Matthews, edited by Paul Guyer”, *The Philosophical Review*, 111(3): 429–435. doi:10.1215/00318108-111-3-429
+* –––, 2003, “Aesthetic Judging and The Intentionality of Pleasure”, *Inquiry*, 46(2): 164–181. Reprinted in Ginsborg 2015: essay 4. doi:10.1080/00201740310001173
+* –––, 2004, “Two Kinds of Mechanical Inexplicability in Kant and Aristotle”, *Journal of the History of Philosophy*, 42(1): 33–65. Reprinted in Ginsborg 2015: essay 12. doi:10.1353/hph.2004.0005
 * –––, 2006, “Thinking the Particular as Contained under the Universal”, in Kukla 2006: 35–60. Reprinted in Ginsborg 2015: essay 7. doi:10.1017/CBO9780511498220.002
-* –––, 2011, “Primitive Normativity and Skepticism about Rules”, _Journal of Philosophy_, 108(5): 227–254. doi:10.5840/jphil2011108518
+* –––, 2011, “Primitive Normativity and Skepticism about Rules”, *Journal of Philosophy*, 108(5): 227–254. doi:10.5840/jphil2011108518
 * –––, 2014, “Oughts without Intentions: A Kantian Account of Biological Functions”, in Goy and Watkins 2014: 259–274. Reprinted in Ginsborg 2015: essay 15.
-* –––, 2015, _The Normativity of Nature: Essays on Kant’s “Critique of Judgement”_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199547975.001.0001
-* –––, 2017, “In Defence of the One-Act View: Reply to Guyer”, _The British Journal of Aesthetics_, 57(4): 421–435. doi:10.1093/aesthj/ayx027
-* –––, 2018a, “Kant’s ‘Young Poet’ and the Subjectivity of Aesthetic Judgment”, in _Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses_, Violetta L. Waibel, Margit Ruffing, and David Wagner (eds.), Berlin: De Gruyter, 291–306. doi:10.1515/9783110467888-027
+* –––, 2015, *The Normativity of Nature: Essays on Kant’s “Critique of Judgement”*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199547975.001.0001
+* –––, 2017, “In Defence of the One-Act View: Reply to Guyer”, *The British Journal of Aesthetics*, 57(4): 421–435. doi:10.1093/aesthj/ayx027
+* –––, 2018a, “Kant’s ‘Young Poet’ and the Subjectivity of Aesthetic Judgment”, in *Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses*, Violetta L. Waibel, Margit Ruffing, and David Wagner (eds.), Berlin: De Gruyter, 291–306. doi:10.1515/9783110467888-027
 * –––, 2018b, “Kant on the Systematicity and Purposiveness of Nature”, in Muchnik and Thorndike 2018: 131–162.
-* Gorodeisky, Keren, 2010, “A New Look at Kant’s View of Aesthetic Testimony”, _The British Journal of Aesthetics_, 50(1): 53–70. doi:10.1093/aesthj/ayp052
-* –––, 2011, “A Tale of Two Faculties”, _The British Journal of Aesthetics_, 51(4): 415–436. doi:10.1093/aesthj/ayr031
+* Gorodeisky, Keren, 2010, “A New Look at Kant’s View of Aesthetic Testimony”, *The British Journal of Aesthetics*, 50(1): 53–70. doi:10.1093/aesthj/ayp052
+* –––, 2011, “A Tale of Two Faculties”, *The British Journal of Aesthetics*, 51(4): 415–436. doi:10.1093/aesthj/ayr031
 * Goy, Ina, 2014a, “Epigenetic Theories: Caspar Friedrich Wolff and Immanuel Kant”, in Goy and Watkins 2014: 43–60.
 * –––, 2014b, “Kants Theory of Biology and the Argument from Design”, in Goy and Watkins 2014: 203–220.
-* Goy, Ina and Eric Watkins (eds.), 2014, _Kant’s Theory of Biology:_, Berlin/New York: Walter de Gruyter. doi:10.1515/9783110225792
-* Gracyk, Theodore A., 1986, “Sublimity, Ugliness, and Formlessness in Kant’s Aesthetic Theory”, _The Journal of Aesthetics and Art Criticism_, 45(1): 49–56. doi:10.2307/430465
-* Guyer, Paul, 1979 \[1997], _Kant and the Claims of Taste_, Cambridge, MA: Harvard University Press. Page references are to the second (1997) edition, Cambridge: Cambridge University Press.
+* Goy, Ina and Eric Watkins (eds.), 2014, *Kant’s Theory of Biology:*, Berlin/New York: Walter de Gruyter. doi:10.1515/9783110225792
+* Gracyk, Theodore A., 1986, “Sublimity, Ugliness, and Formlessness in Kant’s Aesthetic Theory”, *The Journal of Aesthetics and Art Criticism*, 45(1): 49–56. doi:10.2307/430465
+* Guyer, Paul, 1979 \[1997], *Kant and the Claims of Taste*, Cambridge, MA: Harvard University Press. Page references are to the second (1997) edition, Cambridge: Cambridge University Press.
 * –––, 1982, “Pleasure and Society in Kant’s Theory of Taste”, in Cohen and Guyer 1982: ch. 1.
-* –––, 1987, “Nature, Art and Autonomy”, in _Theorie der Subjektivität_, Konrad Cramer, Hans Friedrich Fulda, Rolf-Peter Horstmann, and Ulrich Pothast (eds.), Frankfurt am Main: Suhrkamp. Reprinted in Guyer 1993: 229–274.
-* –––, 1990a, “Feeling and Freedom: Kant on Aesthetics and Morality”, _The Journal of Aesthetics and Art Criticism_, 48(2): 137–146. Reprinted in Guyer 1993: 27–47. doi:10.2307/430903
-* –––, 1990b, “Reason and Reflective Judgment: Kant on the Significance of Systematicity”, _Noûs_, 24(1): 17–43. Reprinted in Guyer 2005b: ch. 1. doi:10.2307/2215611
-* –––, 1990c, “Kant’s Conception of Empirical Law”, _Aristotelian Society Supplementary Volume_, 64: 220–242. Reprinted in Guyer 2005b: ch. 2.
-* –––, 1993, _Kant and the Experience of Freedom: Essays on Aesthetics and Morality_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172516
-* –––, 1994, “Kant’s Conception of Fine Art”, _The Journal of Aesthetics and Art Criticism_, 52(3): 275–285. doi:10.2307/431427
+* –––, 1987, “Nature, Art and Autonomy”, in *Theorie der Subjektivität*, Konrad Cramer, Hans Friedrich Fulda, Rolf-Peter Horstmann, and Ulrich Pothast (eds.), Frankfurt am Main: Suhrkamp. Reprinted in Guyer 1993: 229–274.
+* –––, 1990a, “Feeling and Freedom: Kant on Aesthetics and Morality”, *The Journal of Aesthetics and Art Criticism*, 48(2): 137–146. Reprinted in Guyer 1993: 27–47. doi:10.2307/430903
+* –––, 1990b, “Reason and Reflective Judgment: Kant on the Significance of Systematicity”, *Noûs*, 24(1): 17–43. Reprinted in Guyer 2005b: ch. 1. doi:10.2307/2215611
+* –––, 1990c, “Kant’s Conception of Empirical Law”, *Aristotelian Society Supplementary Volume*, 64: 220–242. Reprinted in Guyer 2005b: ch. 2.
+* –––, 1993, *Kant and the Experience of Freedom: Essays on Aesthetics and Morality*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172516
+* –––, 1994, “Kant’s Conception of Fine Art”, *The Journal of Aesthetics and Art Criticism*, 52(3): 275–285. doi:10.2307/431427
 * –––, 1998, “The Symbols of Freedom in Kant’s Aesthetics”, in Parret 1998: 338–355. Reprinted in Guyer 2005c: 222–241. doi:10.1515/9783110907902.338
-* –––, 2000, “The Unity of Nature and Freedom: Kant’s Conception of the System of Philosophy”, in _The Reception of Kant’s Critical Philosophy_, Sally Sedgwick (ed.), Cambridge/New York: Cambridge University Press, 19–53. Reprinted in Guyer 2005b: ch. 11. doi:10.1017/CBO9780511527265.002
+* –––, 2000, “The Unity of Nature and Freedom: Kant’s Conception of the System of Philosophy”, in *The Reception of Kant’s Critical Philosophy*, Sally Sedgwick (ed.), Cambridge/New York: Cambridge University Press, 19–53. Reprinted in Guyer 2005b: ch. 11. doi:10.1017/CBO9780511527265.002
 * –––, 2001a, “Organisms and the Unity of Science”, in Watkins 2001: 259–280. Reprinted in Guyer 2005b: ch. 5. doi:10.1093/0195133056.003.0013
-* –––, 2001b, “From Nature to Morality: Kant’s New Argument in the ‘Critique of Teleological Judgment’”, _Architektonik und System in der Philosophie Kants_, Hans Friedrich Fulda and Jürgen Stolzenberg (eds.), Hamburg: Felix Meiner Verlag, 375–404. Reprinted in Guyer 2005b: ch. 12.
-* –––, 2002a, “Ends of Reason and Ends of Nature: The Place of Teleology in Kant’s Ethics”, _The Journal of Value Inquiry_, 36(2/3): 161–186. Reprinted in Guyer 2005b: ch. 8. doi:10.1023/A:1016140116768
-* –––, 2002b, “Free and Adherent Beauty: A Modest Proposal”, _The British Journal of Aesthetics_, 42(4): 357–366. Reprinted in Guyer 2005c: 129–140. doi:10.1093/bjaesthetics/42.4.357
-* ––– (ed.), 2003a, _Kant’s Critique of the Power of Judgment: Critical Essays_, Lanham, MD: Rowman and Littlefield.
+* –––, 2001b, “From Nature to Morality: Kant’s New Argument in the ‘Critique of Teleological Judgment’”, *Architektonik und System in der Philosophie Kants*, Hans Friedrich Fulda and Jürgen Stolzenberg (eds.), Hamburg: Felix Meiner Verlag, 375–404. Reprinted in Guyer 2005b: ch. 12.
+* –––, 2002a, “Ends of Reason and Ends of Nature: The Place of Teleology in Kant’s Ethics”, *The Journal of Value Inquiry*, 36(2/3): 161–186. Reprinted in Guyer 2005b: ch. 8. doi:10.1023/A:1016140116768
+* –––, 2002b, “Free and Adherent Beauty: A Modest Proposal”, *The British Journal of Aesthetics*, 42(4): 357–366. Reprinted in Guyer 2005c: 129–140. doi:10.1093/bjaesthetics/42.4.357
+* ––– (ed.), 2003a, *Kant’s Critique of the Power of Judgment: Critical Essays*, Lanham, MD: Rowman and Littlefield.
 * –––, 2003b, “Kant’s Principles of Reflecting Judgment”, in Guyer 2003a: 1–62 (ch. 1).
-* –––, 2003c, “Kant on the Systematicity of Nature: Two Puzzles”, _History of Philosophy Quarterly_, 20(3): 277–295. Reprinted in Guyer 2005b: ch. 3.
-* –––, 2003, “Beauty, Freedom, and Morality: Kant’s _Lectures on Anthropology_ and the Development of his Aesthetic Theory”, in _Essays on Kant’s Anthropology_, Brian Jacobs and Patrick Kain (eds.), Cambridge: Cambridge University Press, 135–163. Reprinted in Guyer 2005c: 163–189. doi:10.1017/CBO9780511498190.008
+* –––, 2003c, “Kant on the Systematicity of Nature: Two Puzzles”, *History of Philosophy Quarterly*, 20(3): 277–295. Reprinted in Guyer 2005b: ch. 3.
+* –––, 2003, “Beauty, Freedom, and Morality: Kant’s *Lectures on Anthropology* and the Development of his Aesthetic Theory”, in *Essays on Kant’s Anthropology*, Brian Jacobs and Patrick Kain (eds.), Cambridge: Cambridge University Press, 135–163. Reprinted in Guyer 2005c: 163–189. doi:10.1017/CBO9780511498190.008
 * –––, 2005a, “Kant on the Purity of the Ugly”, in Guyer 2005c: 141–162.
-* –––, 2005b, _Kant’s System of Nature and Freedom: Selected Essays_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199273461.001.0001
-* –––, 2005c, _Values of Beauty: Historical Essays in Aesthetics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511840876
+* –––, 2005b, *Kant’s System of Nature and Freedom: Selected Essays*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199273461.001.0001
+* –––, 2005c, *Values of Beauty: Historical Essays in Aesthetics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511840876
 * –––, 2006, “The Harmony of the Faculties Revisited”, in Kukla 2006: 162–193. Also in Guyer 2005c: 77–109. doi:10.1017/CBO9780511498220.007
-* –––, 2008, “The Psychology of Kant’s Aesthetics”, _Studies in History and Philosophy of Science Part A_, 39(4): 483–494. doi:10.1016/j.shpsa.2008.09.010
-* –––, 2009, “The Harmony of the Faculties in Recent Books on the Critique of the Power of Judgment”, _The Journal of Aesthetics and Art Criticism_, 67(2): 201–221. doi:10.1111/j.1540-6245.2009.01349.x
+* –––, 2008, “The Psychology of Kant’s Aesthetics”, *Studies in History and Philosophy of Science Part A*, 39(4): 483–494. doi:10.1016/j.shpsa.2008.09.010
+* –––, 2009, “The Harmony of the Faculties in Recent Books on the Critique of the Power of Judgment”, *The Journal of Aesthetics and Art Criticism*, 67(2): 201–221. doi:10.1111/j.1540-6245.2009.01349.x
 * –––, 2014, “Freedom, Happiness, and Nature: Kant’s Moral Teleology”, in Goy and Watkins 2014: 221–238.
-* –––, 2017a, “One Act or Two? Hannah Ginsborg on Aesthetic Judgement”, _The British Journal of Aesthetics_, 57(4): 407–419. doi:10.1093/aesthj/ayw050
-* –––, 2017b, “Seventy-Five Years of Kant … and Counting: Seventy-Five Years of Kant”, _The Journal of Aesthetics and Art Criticism_, 75(4): 351–362. doi:10.1111/jaac.12396
-* Halper, Aaron, 2019, “Aesthetic Judgment as Parasitic on Cognition”, _Kant Yearbook_, 11(1): 41–60. doi:10.1515/kantyb-2019-0003
-* –––, 2020, “Rethinking Kant’s Distinction between the Beauty of Art and the Beauty of Nature”, _European Journal of Philosophy_, 28(4): 857–875. doi:10.1111/ejop.12524
-* Hanna, Robert, 2004 \[2018], “Kant’s Theory of Judgment”, _The Stanford Encyclopedia of Philosophy_ (Winter 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2018/entries/kant-judgment/](https://plato.stanford.edu/archives/win2018/entries/kant-judgment/).
-* Harbin, R. Kathleen, 2020, “Universality Without Normativity: Interpreting the Demand of Kantian Judgements of Taste”, _Dialogue_, 59(4): 589–612. doi:10.1017/S0012217319000398
-* Heidemann, Dietmar H., 2016, “Kant’s Aesthetic Nonconceptualism”, in _Kantian Nonconceptualism_, Dennis Schulting (ed.), London: Palgrave, 117–144 (ch. 6).
-* Henning, Wiebke, 2009, “An Annotated Bibliography to Kant’s Teleology”, _Kant Yearbook_, 1: 249–266. doi:10.1515/9783110196672.249
-* Hertz, Neil, 1978, “The Notion of Blockage in the Literature of the Sublime”, in _Psychoanalysis and the Question of the Text_, Geoffrey Hartmann (ed.), Baltimore, MD: The Johns Hopkins University Press, 62–85. Reprinted in Neil Hertz, _The End of the Line: Essays on Psychoanalysis and the Sublime_, New York: Columbia University Press, 1985, 40–60.
-* Himmelmann, Beatrix and Camilla Serck-Hanssen (eds.), 2021, _The Court of Reason: Proceedings of the 13th International Kant Congress_, Berlin: De Gruyter. doi:10.1515/9783110701357
-* Hopkins, Robert, 2001, “Kant, Quasi-Realism, and the Autonomy of Aesthetic Judgement”, _European Journal of Philosophy_, 9(2): 166–189. doi:10.1111/1468-0378.00134
-* Horstmann, Rolf-Peter, 1989, “Why Must There Be a Transcendental Deduction in Kant’s _Critique of Judgment_?”, in Förster 1989: 157–176.
-* Hudson, Hud, 1991, “On the Significance of an Analytic of the Ugly in Kant’s Deduction of Pure Judgments of Taste”, in _Kant’s Aesthetics_, Ralf Meerbote and Hud Hudson (eds.), Atascadero, CA: Ridgeview, 87–103.
-* Hughes, Fiona, 2006, “On Aesthetic Judgement and Our Relation to Nature: Kant’s Concept of Purposiveness”, _Inquiry_, 49(6): 547–572. doi:10.1080/00201740601016213
-* –––, 2007, _Kant’s Aesthetic Epistemology: Form and World_, Edinburgh: Edinburgh University Press.
-* –––, 2017, “Feeling the Life of the Mind: Mere Judging, Feeling, and Judgment”, in _The Palgrave Kant Handbook_, Matthew C. Altman (ed.), London: Palgrave Macmillan UK, 381–405. doi:10.1057/978-1-137-54656-2\_17
-* Huneman, Philippe, 2006, “Naturalising Purpose: From Comparative Anatomy to the ‘Adventure of Reason’”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 649–674. doi:10.1016/j.shpsc.2006.09.004
-* ––– (ed.), 2007, _Understanding Purpose: Kant and the Philosophy of Biology_, (North American Kant Society Studies in Philosophy 8), Rochester, NY: University of Rochester Press.
+* –––, 2017a, “One Act or Two? Hannah Ginsborg on Aesthetic Judgement”, *The British Journal of Aesthetics*, 57(4): 407–419. doi:10.1093/aesthj/ayw050
+* –––, 2017b, “Seventy-Five Years of Kant … and Counting: Seventy-Five Years of Kant”, *The Journal of Aesthetics and Art Criticism*, 75(4): 351–362. doi:10.1111/jaac.12396
+* Halper, Aaron, 2019, “Aesthetic Judgment as Parasitic on Cognition”, *Kant Yearbook*, 11(1): 41–60. doi:10.1515/kantyb-2019-0003
+* –––, 2020, “Rethinking Kant’s Distinction between the Beauty of Art and the Beauty of Nature”, *European Journal of Philosophy*, 28(4): 857–875. doi:10.1111/ejop.12524
+* Hanna, Robert, 2004 \[2018], “Kant’s Theory of Judgment”, *The Stanford Encyclopedia of Philosophy* (Winter 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2018/entries/kant-judgment/](https://plato.stanford.edu/archives/win2018/entries/kant-judgment/).
+* Harbin, R. Kathleen, 2020, “Universality Without Normativity: Interpreting the Demand of Kantian Judgements of Taste”, *Dialogue*, 59(4): 589–612. doi:10.1017/S0012217319000398
+* Heidemann, Dietmar H., 2016, “Kant’s Aesthetic Nonconceptualism”, in *Kantian Nonconceptualism*, Dennis Schulting (ed.), London: Palgrave, 117–144 (ch. 6).
+* Henning, Wiebke, 2009, “An Annotated Bibliography to Kant’s Teleology”, *Kant Yearbook*, 1: 249–266. doi:10.1515/9783110196672.249
+* Hertz, Neil, 1978, “The Notion of Blockage in the Literature of the Sublime”, in *Psychoanalysis and the Question of the Text*, Geoffrey Hartmann (ed.), Baltimore, MD: The Johns Hopkins University Press, 62–85. Reprinted in Neil Hertz, *The End of the Line: Essays on Psychoanalysis and the Sublime*, New York: Columbia University Press, 1985, 40–60.
+* Himmelmann, Beatrix and Camilla Serck-Hanssen (eds.), 2021, *The Court of Reason: Proceedings of the 13th International Kant Congress*, Berlin: De Gruyter. doi:10.1515/9783110701357
+* Hopkins, Robert, 2001, “Kant, Quasi-Realism, and the Autonomy of Aesthetic Judgement”, *European Journal of Philosophy*, 9(2): 166–189. doi:10.1111/1468-0378.00134
+* Horstmann, Rolf-Peter, 1989, “Why Must There Be a Transcendental Deduction in Kant’s *Critique of Judgment*?”, in Förster 1989: 157–176.
+* Hudson, Hud, 1991, “On the Significance of an Analytic of the Ugly in Kant’s Deduction of Pure Judgments of Taste”, in *Kant’s Aesthetics*, Ralf Meerbote and Hud Hudson (eds.), Atascadero, CA: Ridgeview, 87–103.
+* Hughes, Fiona, 2006, “On Aesthetic Judgement and Our Relation to Nature: Kant’s Concept of Purposiveness”, *Inquiry*, 49(6): 547–572. doi:10.1080/00201740601016213
+* –––, 2007, *Kant’s Aesthetic Epistemology: Form and World*, Edinburgh: Edinburgh University Press.
+* –––, 2017, “Feeling the Life of the Mind: Mere Judging, Feeling, and Judgment”, in *The Palgrave Kant Handbook*, Matthew C. Altman (ed.), London: Palgrave Macmillan UK, 381–405. doi:10.1057/978-1-137-54656-2\_17
+* Huneman, Philippe, 2006, “Naturalising Purpose: From Comparative Anatomy to the ‘Adventure of Reason’”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 649–674. doi:10.1016/j.shpsc.2006.09.004
+* ––– (ed.), 2007, *Understanding Purpose: Kant and the Philosophy of Biology*, (North American Kant Society Studies in Philosophy 8), Rochester, NY: University of Rochester Press.
 * –––, 2014, “Purposiveness, Necessity, and Contingency”, in Goy and Watkins 2014: 185–202.
-* Huseyinzadegan, Dilek, 2018, “What is the Human Being? The Link between Kant’s _Critique of Judgment_ and the _Opus Postumum_”, in Muchnik and Thorndike 2018: 163–184.
+* Huseyinzadegan, Dilek, 2018, “What is the Human Being? The Link between Kant’s *Critique of Judgment* and the *Opus Postumum*”, in Muchnik and Thorndike 2018: 163–184.
 * Illetterati, Luca, 2014, “Teleological Judgment: Between Technique and Nature”, in Goy and Watkins 2014: 81–98.
-* Janaway, Christopher, 1997, “Kant’s Aesthetics and the ‘Empty Cognitive Stock’”, _The Philosophical Quarterly_, 47(189): 459–476. reprinted in Guyer 2003a: 67–86. doi:10.1111/1467-9213.00071
-* Kain, Patrick, 2009, “Kant’s Defense of Human Moral Status”, _Journal of the History of Philosophy_, 47(1): 59–101. doi:10.1353/hph.0.0083
-* Kalar, Brent, 2006, _The Demands of Taste in Kant’s Aesthetics_, London/New York: Continuum.
-* Kemal, Salim, 1986, _Kant and Fine Art: An Essay on Kant and the Philosophy of Fine Art and Culture_, Oxford/ New York: Clarendon Press/Oxford University Press.
-* Kitcher, Patricia, 1990, _Kant’s Transcendental Psychology_, Oxford/New York: Oxford University Press.
-* –––, 1992, “Reasoning in a Subtle World”, _The Southern Journal of Philosophy_, 30(S1): 187–195. doi:10.1111/j.2041-6962.1992.tb00665.x
-* Kitcher, Philip, 1986, “Projecting the Order of Nature”, in _Kant’s Philosophy of Physical Science_, Robert E. Butts (ed.), (The Western Ontario Series in Philosophy of Science 33), Dordrecht: Springer Netherlands, 201–235. doi:10.1007/978-94-009-4730-6\_7
-* –––, 1994, “The Unity of Science and the Unity of Nature”, in _Kant and Contemporary Epistemology_, Paolo Parrini (ed.), Dordrecht: Springer Netherlands, 253–272. doi:10.1007/978-94-011-0834-8\_14
-* Kivy, Peter, 2009, _Antithetical Arts: On the Ancient Quarrel Between Literature and Music_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199562800.001.0001
-* Kneller, Jane, 1986, “Kant’s Concept of Beauty”, _History of Philosophy Quarterly_, 3(3): 311–324.
-* Kreines, James, 2005, “The Inexplicability of Kant’s _Naturzweck_: Kant on Teleology, Explanation and Biology”, _Archiv für Geschichte der Philosophie_, 87(3): 270–311. doi:10.1515/agph.2005.87.3.270
-* Kripke, Saul, 1982, _Wittgenstein on Rules and Private Language._ Cambridge, MA: Harvard University Press.
-* Kukla, Rebecca (ed.), 2006, _Aesthetics and Cognition in Kant’s Critical Philosophy_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498220
-* Kulenkampff, Jens, 1990, “The Objectivity of Taste: Hume and Kant”, _Noûs_, 24(1): 93–110. doi:10.2307/2215615
-* Küplen, Mojca, 2015, _Beauty, Ugliness and the Free Play of Imagination: An Approach to Kant’s Aesthetics_, (Studies in German Idealism 17), Cham: Springer International Publishing. doi:10.1007/978-3-319-19899-6
-* –––, 2021, “Reflective and Non-Reflective Aesthetic Ideas in Kant’s Theory of Art”, _The British Journal of Aesthetics_, 61(1): 1–16. doi:10.1093/aesthj/ayaa035
-* Lenoir, Timothy, 1980, “Kant, Blumenbach, and Vital Materialism in German Biology”, _Isis_, 71(1): 77–108.
-* Longuenesse, Béatrice, 1993 \[1998], _Kant et le pouvoir de juger: sensiblilté et discursivité dans L’Analytique transcendantale de la Critique de la raison pure_, (Epiméthée), Paris: Presses universitaires de France. Translated as _Kant and the Capacity to Judge: Sensibility and Discursivity in the Transcendental Analytic of the Critique of Pure Reason_, Charles T. Wolfe (trans.), Princeton, NJ: Princeton University Press, 1998.
-* –––, 2003, “Kant’s Theory of Judgment, and Judgments of Taste: On Henry Allison’s _Kant’s Theory of Taste_”, _Inquiry_, 46(2): 143–163. doi:10.1080/00201740310001164
+* Janaway, Christopher, 1997, “Kant’s Aesthetics and the ‘Empty Cognitive Stock’”, *The Philosophical Quarterly*, 47(189): 459–476. reprinted in Guyer 2003a: 67–86. doi:10.1111/1467-9213.00071
+* Kain, Patrick, 2009, “Kant’s Defense of Human Moral Status”, *Journal of the History of Philosophy*, 47(1): 59–101. doi:10.1353/hph.0.0083
+* Kalar, Brent, 2006, *The Demands of Taste in Kant’s Aesthetics*, London/New York: Continuum.
+* Kemal, Salim, 1986, *Kant and Fine Art: An Essay on Kant and the Philosophy of Fine Art and Culture*, Oxford/ New York: Clarendon Press/Oxford University Press.
+* Kitcher, Patricia, 1990, *Kant’s Transcendental Psychology*, Oxford/New York: Oxford University Press.
+* –––, 1992, “Reasoning in a Subtle World”, *The Southern Journal of Philosophy*, 30(S1): 187–195. doi:10.1111/j.2041-6962.1992.tb00665.x
+* Kitcher, Philip, 1986, “Projecting the Order of Nature”, in *Kant’s Philosophy of Physical Science*, Robert E. Butts (ed.), (The Western Ontario Series in Philosophy of Science 33), Dordrecht: Springer Netherlands, 201–235. doi:10.1007/978-94-009-4730-6\_7
+* –––, 1994, “The Unity of Science and the Unity of Nature”, in *Kant and Contemporary Epistemology*, Paolo Parrini (ed.), Dordrecht: Springer Netherlands, 253–272. doi:10.1007/978-94-011-0834-8\_14
+* Kivy, Peter, 2009, *Antithetical Arts: On the Ancient Quarrel Between Literature and Music*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199562800.001.0001
+* Kneller, Jane, 1986, “Kant’s Concept of Beauty”, *History of Philosophy Quarterly*, 3(3): 311–324.
+* Kreines, James, 2005, “The Inexplicability of Kant’s *Naturzweck*: Kant on Teleology, Explanation and Biology”, *Archiv für Geschichte der Philosophie*, 87(3): 270–311. doi:10.1515/agph.2005.87.3.270
+* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language.* Cambridge, MA: Harvard University Press.
+* Kukla, Rebecca (ed.), 2006, *Aesthetics and Cognition in Kant’s Critical Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498220
+* Kulenkampff, Jens, 1990, “The Objectivity of Taste: Hume and Kant”, *Noûs*, 24(1): 93–110. doi:10.2307/2215615
+* Küplen, Mojca, 2015, *Beauty, Ugliness and the Free Play of Imagination: An Approach to Kant’s Aesthetics*, (Studies in German Idealism 17), Cham: Springer International Publishing. doi:10.1007/978-3-319-19899-6
+* –––, 2021, “Reflective and Non-Reflective Aesthetic Ideas in Kant’s Theory of Art”, *The British Journal of Aesthetics*, 61(1): 1–16. doi:10.1093/aesthj/ayaa035
+* Lenoir, Timothy, 1980, “Kant, Blumenbach, and Vital Materialism in German Biology”, *Isis*, 71(1): 77–108.
+* Longuenesse, Béatrice, 1993 \[1998], *Kant et le pouvoir de juger: sensiblilté et discursivité dans L’Analytique transcendantale de la Critique de la raison pure*, (Epiméthée), Paris: Presses universitaires de France. Translated as *Kant and the Capacity to Judge: Sensibility and Discursivity in the Transcendental Analytic of the Critique of Pure Reason*, Charles T. Wolfe (trans.), Princeton, NJ: Princeton University Press, 1998.
+* –––, 2003, “Kant’s Theory of Judgment, and Judgments of Taste: On Henry Allison’s *Kant’s Theory of Taste*”, *Inquiry*, 46(2): 143–163. doi:10.1080/00201740310001164
 * –––, 2006, “Kant’s Leading Thread in the Analytic of the Beautiful”, in Kukla 2006: 194–220. doi:10.1017/CBO9780511498220.008
-* Lopes, Dominic McIver, 2021, “Beyond the Pleasure Principle: A Kantian Aesthetics of Autonomy”, _Estetika: The European Journal of Aesthetics_, 58/14(1): 1–18.
-* Lorand, Ruth, 1989, “Free and Dependent Beauty: A Puzzling Issue”, _The British Journal of Aesthetics_, 29(1): 32–40. doi:10.1093/bjaesthetics/29.1.32
-* Lyotard, Jean-François, 1988 \[1991], _L’inhumain: Causeries sur le temps_, Paris: Galilée, 1988. Translated as _The Inhuman: Reflection on Time_, Geoffrey Bennington and Rachel Bowlby (trans.), Cambridge, UK: Polity Press, 1991.
-* –––, 1991 \[1994], _Leçons sur l’analytique du sublime_, Paris: Galilée, 1991. Translated as _Lessons on the Analytic of the Sublime: Kant’s Critique of Judgment, \[Sections] 23–29_, Elizabeth Rottenberg (trans.), Stanford, CA: Stanford University Press, 1994.
-* Makkai, Katalin, 2010, “Kant on Recognizing Beauty”, _European Journal of Philosophy_, 18(3): 385–413. doi:10.1111/j.1468-0378.2009.00356.x
-* –––, 2021, _Kant’s Critique of Taste: The Feeling of Life_, Cambridge/New York: Cambridge University Press. doi:10.1017/9781108596893
-* Makkreel, Rudolf A., 1990, _Imagination and Interpretation in Kant: The Hermeneutical Import of the Critique of Judgment_, Chicago: University of Chicago Press.
-* Marc-Wagau, Konrad, 1938, _Vier studien zu Kants Kritik der urteilskraft_, Uppsala: Uppsala Universitets Årsskrift.
-* Marino, Stefano and Pietro Terzi (eds.), 2020, _Kant’s “Critique of Aesthetic Judgment” in the 20th Century_, Berlin: De Gruyter.
-* Massimi, Michela and Angela Breitenbach (eds.), 2017, _Kant and the Laws of Nature_, Cambridge: Cambridge University Press. doi:10.1017/9781316389645
-* Matherne, Samantha, 2013, “The Inclusive Interpretation of Kant’s Aesthetic Ideas”, _The British Journal of Aesthetics_, 53(1): 21–39. doi:10.1093/aesthj/ays058
-* –––, 2014, “Kant’s Expressive Theory of Music: Kant’s Expressive Theory of Music”, _The Journal of Aesthetics and Art Criticism_, 72(2): 129–145. doi:10.1111/jaac.12076
-* –––, 2019, “Kant on Aesthetic Autonomy and Common Sense”, _Philosopher’s Imprint_, 19: article 24. \[[matherne 2019 available online](http://hdl.handle.net/2027/spo.3521354.0019.024)]
-* –––, forthcoming, “Imagining Freedom: Kant on Symbols of Sublimity”, in _The Idea of Freedom: New Essays on the Kantian Theory of Freedom._, Dai Heide and Evan Tiffany (eds.), Oxford: Oxford University Press.
-* Matthews, Patricia M., 1996, “Kant’s Sublime: A Form of Pure Aesthetic Reflective Judgment”, _The Journal of Aesthetics and Art Criticism_, 54(2): 165–180. doi:10.2307/431088
-* McConnell, Sean, 2008, “How Kant Might Explain Ugliness”, _The British Journal of Aesthetics_, 48(2): 205–228. doi:10.1093/aesthj/ayn006
-* McFarland, John D., 1970, _Kant’s Concept of Teleology_, Edinburgh: University of Edinburgh Press.
-* McLaughlin, Peter, 1989, “What Is an Antinomy of Judgment”, in _Proceedings of the Sixth International Kant Congress_, G. Funke and T. M. Seebohm (eds.), Washington, DC: University Press of America, 2(2): 357–367. doi:10.5840/kant198519892229
-* –––, 1990, _Kant’s Critique of Teleology in Biological Explanation: Antinomy and Teleology_, (Studies in the History of Philosophy 16), Lewiston, NY: Edwin Mellen Press.
-* –––, 2001, _What Functions Explain: Functional Explanation and Self-Reproducing Systems_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511498510
+* Lopes, Dominic McIver, 2021, “Beyond the Pleasure Principle: A Kantian Aesthetics of Autonomy”, *Estetika: The European Journal of Aesthetics*, 58/14(1): 1–18.
+* Lorand, Ruth, 1989, “Free and Dependent Beauty: A Puzzling Issue”, *The British Journal of Aesthetics*, 29(1): 32–40. doi:10.1093/bjaesthetics/29.1.32
+* Lyotard, Jean-François, 1988 \[1991], *L’inhumain: Causeries sur le temps*, Paris: Galilée, 1988. Translated as *The Inhuman: Reflection on Time*, Geoffrey Bennington and Rachel Bowlby (trans.), Cambridge, UK: Polity Press, 1991.
+* –––, 1991 \[1994], *Leçons sur l’analytique du sublime*, Paris: Galilée, 1991. Translated as *Lessons on the Analytic of the Sublime: Kant’s Critique of Judgment, \[Sections] 23–29*, Elizabeth Rottenberg (trans.), Stanford, CA: Stanford University Press, 1994.
+* Makkai, Katalin, 2010, “Kant on Recognizing Beauty”, *European Journal of Philosophy*, 18(3): 385–413. doi:10.1111/j.1468-0378.2009.00356.x
+* –––, 2021, *Kant’s Critique of Taste: The Feeling of Life*, Cambridge/New York: Cambridge University Press. doi:10.1017/9781108596893
+* Makkreel, Rudolf A., 1990, *Imagination and Interpretation in Kant: The Hermeneutical Import of the Critique of Judgment*, Chicago: University of Chicago Press.
+* Marc-Wagau, Konrad, 1938, *Vier studien zu Kants Kritik der urteilskraft*, Uppsala: Uppsala Universitets Årsskrift.
+* Marino, Stefano and Pietro Terzi (eds.), 2020, *Kant’s “Critique of Aesthetic Judgment” in the 20th Century*, Berlin: De Gruyter.
+* Massimi, Michela and Angela Breitenbach (eds.), 2017, *Kant and the Laws of Nature*, Cambridge: Cambridge University Press. doi:10.1017/9781316389645
+* Matherne, Samantha, 2013, “The Inclusive Interpretation of Kant’s Aesthetic Ideas”, *The British Journal of Aesthetics*, 53(1): 21–39. doi:10.1093/aesthj/ays058
+* –––, 2014, “Kant’s Expressive Theory of Music: Kant’s Expressive Theory of Music”, *The Journal of Aesthetics and Art Criticism*, 72(2): 129–145. doi:10.1111/jaac.12076
+* –––, 2019, “Kant on Aesthetic Autonomy and Common Sense”, *Philosopher’s Imprint*, 19: article 24. \[[matherne 2019 available online](http://hdl.handle.net/2027/spo.3521354.0019.024)]
+* –––, forthcoming, “Imagining Freedom: Kant on Symbols of Sublimity”, in *The Idea of Freedom: New Essays on the Kantian Theory of Freedom.*, Dai Heide and Evan Tiffany (eds.), Oxford: Oxford University Press.
+* Matthews, Patricia M., 1996, “Kant’s Sublime: A Form of Pure Aesthetic Reflective Judgment”, *The Journal of Aesthetics and Art Criticism*, 54(2): 165–180. doi:10.2307/431088
+* McConnell, Sean, 2008, “How Kant Might Explain Ugliness”, *The British Journal of Aesthetics*, 48(2): 205–228. doi:10.1093/aesthj/ayn006
+* McFarland, John D., 1970, *Kant’s Concept of Teleology*, Edinburgh: University of Edinburgh Press.
+* McLaughlin, Peter, 1989, “What Is an Antinomy of Judgment”, in *Proceedings of the Sixth International Kant Congress*, G. Funke and T. M. Seebohm (eds.), Washington, DC: University Press of America, 2(2): 357–367. doi:10.5840/kant198519892229
+* –––, 1990, *Kant’s Critique of Teleology in Biological Explanation: Antinomy and Teleology*, (Studies in the History of Philosophy 16), Lewiston, NY: Edwin Mellen Press.
+* –––, 2001, *What Functions Explain: Functional Explanation and Self-Reproducing Systems*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511498510
 * –––, 2014, “Mechanical Explanation in the ‘Critique of the Teleological Power of Judgment’”, in Goy and Watkins 2014: 149–166.
 * Meerbote, Ralf, 1982, “Reflection on Beauty”, in Cohen and Guyer 1982: ch. 2.
-* Merritt, Melissa M., 2018, _The Sublime_, (Elements in the Philosophy of Immanuel Kant), Cambridge: Cambridge University Press. doi:10.1017/9781108529709
-* –––, 2021, “Feeling and Orientation in Action: A Reply to Alix Cohen”, _Kantian Review_, 26(3): 363–369. doi:10.1017/S1369415420000515
-* Moore, Thomas, 2018, “Kant’s Deduction of the Sublime”, _Kantian Review_, 23(3): 349–372. doi:10.1017/S1369415418000183
-* Moran, Richard, 2012, “Kant, Proust, and the Appeal of Beauty”, _Critical Inquiry_, 38(2): 298–329.
-* Muchnik, Pablo and Oliver Thorndike (eds.), 2018, _Rethinking Kant 5_, Newcastle upon Tyne: Cambridge Scholars Publishing.
-* Myskja, Bjørn K., 2002, _The Sublime in Kant and Beckett: Aesthetic Judgement, Ethics and Literature_, (Kantstudien. Ergänzungshefte 140), Berlin/New York: De Gruyter.
-* Nunez, Tyke, 2021, “Kant on Plants: Self-Activity, Representations, and the Analogy with Life”, _Philosopher’s Imprint_, 21: article 11. \[[Nunez 2021 available online](http://hdl.handle.net/2027/spo.3521354.0021.011)]
-* Nuzzo, Angelica, 2009, “_Kritik der Urteilskraft_ §§76–77: Reflective Judgment and the Limits of Transcendental Philosophy”, _Kant Yearbook_, 1: 143–172. doi:10.1515/9783110196672.143
-* Ostaric, Lara, 2010, “Works of Genius as Sensible Exhibitions of the Idea of the Highest Good”, _Kant-Studien_, 101(1): 22–39. doi:10.1515/kant.2010.002
-* –––, 2017, “The Free Harmony of the Faculties and the Primacy of Imagination in Kant’s Aesthetic Judgment”, _European Journal of Philosophy_, 25(4): 1376–1410. doi:10.1111/ejop.12219
+* Merritt, Melissa M., 2018, *The Sublime*, (Elements in the Philosophy of Immanuel Kant), Cambridge: Cambridge University Press. doi:10.1017/9781108529709
+* –––, 2021, “Feeling and Orientation in Action: A Reply to Alix Cohen”, *Kantian Review*, 26(3): 363–369. doi:10.1017/S1369415420000515
+* Moore, Thomas, 2018, “Kant’s Deduction of the Sublime”, *Kantian Review*, 23(3): 349–372. doi:10.1017/S1369415418000183
+* Moran, Richard, 2012, “Kant, Proust, and the Appeal of Beauty”, *Critical Inquiry*, 38(2): 298–329.
+* Muchnik, Pablo and Oliver Thorndike (eds.), 2018, *Rethinking Kant 5*, Newcastle upon Tyne: Cambridge Scholars Publishing.
+* Myskja, Bjørn K., 2002, *The Sublime in Kant and Beckett: Aesthetic Judgement, Ethics and Literature*, (Kantstudien. Ergänzungshefte 140), Berlin/New York: De Gruyter.
+* Nunez, Tyke, 2021, “Kant on Plants: Self-Activity, Representations, and the Analogy with Life”, *Philosopher’s Imprint*, 21: article 11. \[[Nunez 2021 available online](http://hdl.handle.net/2027/spo.3521354.0021.011)]
+* Nuzzo, Angelica, 2009, “*Kritik der Urteilskraft* §§76–77: Reflective Judgment and the Limits of Transcendental Philosophy”, *Kant Yearbook*, 1: 143–172. doi:10.1515/9783110196672.143
+* Ostaric, Lara, 2010, “Works of Genius as Sensible Exhibitions of the Idea of the Highest Good”, *Kant-Studien*, 101(1): 22–39. doi:10.1515/kant.2010.002
+* –––, 2017, “The Free Harmony of the Faculties and the Primacy of Imagination in Kant’s Aesthetic Judgment”, *European Journal of Philosophy*, 25(4): 1376–1410. doi:10.1111/ejop.12219
 * –––, 2021, “Organisms as ‘Natural Ends’ and Reflective Judgment’s Image of Externalized Freedom”, in Himmelmann and Serck-Hanssen 2021: 973–984. doi:10.1515/9783110701357-093
-* Palmer, Linda, 2008, “A Universality Not Based on Concepts: Kant’s Key to the Critique of Taste”, _Kantian Review_, 13(1): 1–51. doi:10.1017/S1369415400001084
-* Parret, Herman (ed.), 1998a, _Kants Ästhetik · Kant’s Aesthetics · L’esthétique de Kant_, Berlin/New York: De Gruyter. doi:10.1515/9783110907902
-* –––, 1998b, “Kant on Music and the Hierarchy of the Arts”, _The Journal of Aesthetics and Art Criticism_, 56(3): 251–264. doi:10.2307/432365
-* Pillow, Kirk, 2000, _Sublime Understanding: Aesthetic Reflection in Kant and Hegel_, (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press.
+* Palmer, Linda, 2008, “A Universality Not Based on Concepts: Kant’s Key to the Critique of Taste”, *Kantian Review*, 13(1): 1–51. doi:10.1017/S1369415400001084
+* Parret, Herman (ed.), 1998a, *Kants Ästhetik · Kant’s Aesthetics · L’esthétique de Kant*, Berlin/New York: De Gruyter. doi:10.1515/9783110907902
+* –––, 1998b, “Kant on Music and the Hierarchy of the Arts”, *The Journal of Aesthetics and Art Criticism*, 56(3): 251–264. doi:10.2307/432365
+* Pillow, Kirk, 2000, *Sublime Understanding: Aesthetic Reflection in Kant and Hegel*, (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press.
 * –––, 2006, “Understanding Aestheticized”, in Kukla 2006: 245–265. doi:10.1017/CBO9780511498220.010
-* Pippin, Robert B., 1996, “The Significance of Taste: Kant, Aesthetic and Reflective Judgment”, _Journal of the History of Philosophy_, 34(4): 549–569. doi:10.1353/hph.1996.0086
-* Pollok, Konstantin, 2017, _Kant’s Theory of Normativity: Exploring the Space of Reason_, Cambridge/New York: Cambridge University Press. doi:10.1017/9781316412503
-* Quarfood, Marcel, 2004, _Transcendental Idealism and the Organism_, Stockholm: Almqvist & Wiksell International.
-* –––, 2006, “Kant on Biological Teleology: Towards a Two-Level Interpretation”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 735–747. doi:10.1016/j.shpsc.2006.09.007
+* Pippin, Robert B., 1996, “The Significance of Taste: Kant, Aesthetic and Reflective Judgment”, *Journal of the History of Philosophy*, 34(4): 549–569. doi:10.1353/hph.1996.0086
+* Pollok, Konstantin, 2017, *Kant’s Theory of Normativity: Exploring the Space of Reason*, Cambridge/New York: Cambridge University Press. doi:10.1017/9781316412503
+* Quarfood, Marcel, 2004, *Transcendental Idealism and the Organism*, Stockholm: Almqvist & Wiksell International.
+* –––, 2006, “Kant on Biological Teleology: Towards a Two-Level Interpretation”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 735–747. doi:10.1016/j.shpsc.2006.09.007
 * –––, 2014, “The Antinomy of Teleological Judgment: What It Is and How It Is Solved?”, in Goy and Watkins 2014: 167–184.
-* Reiter, Aviv, 2018, “Kant on Fine Art, Genius and the Threat of Private Meaning”, _Kantian Review_, 23(2): 307–323. doi:10.1017/S1369415418000079
-* Reiter, Aviv and Ido Geiger, 2018, “Natural Beauty, Fine Art and the Relation between Them”, _Kant-Studien_, 109(1): 72–100. doi:10.1515/kant-2018-0002
-* Richards, Robert J., 2000, “Kant and Blumenbach on the Bildungstrieb: A Historical Misunderstanding”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 31(1): 11–32. doi:10.1016/S1369-8486(99)00042-4
-* Rind, Miles, 2000, “What Is Claimed in a Kantian Judgment of Taste?”, _Journal of the History of Philosophy_, 38(1): 63–85. doi:10.1353/hph.2005.0103
-* –––, 2002, “Can Kant’s Deduction of Judgments of Taste Be Saved?”, _Archiv für Geschichte der Philosophie_, 84(1): 20–45.
-* Rogerson, Kenneth F., 1982, “The Meaning of Universal Validity in Kant’s Aesthetics”, _The Journal of Aesthetics and Art Criticism_, 40(3): 301–308. doi:10.2307/429687
-* –––, 1986, _Kant’s Aesthetics: The Roles of Form and Expression_, Lanham, MD: University Press of America.
-* –––, 2004, “Kant on Beauty and Morality”, _Kant-Studien_, 95(3): 338–354. doi:10.1515/kant.2004.021
-* –––, 2008, _The Problem of Free Harmony in Kant’s Aesthetics_, Albany, NY: SUNY Press.
+* Reiter, Aviv, 2018, “Kant on Fine Art, Genius and the Threat of Private Meaning”, *Kantian Review*, 23(2): 307–323. doi:10.1017/S1369415418000079
+* Reiter, Aviv and Ido Geiger, 2018, “Natural Beauty, Fine Art and the Relation between Them”, *Kant-Studien*, 109(1): 72–100. doi:10.1515/kant-2018-0002
+* Richards, Robert J., 2000, “Kant and Blumenbach on the Bildungstrieb: A Historical Misunderstanding”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 31(1): 11–32. doi:10.1016/S1369-8486(99)00042-4
+* Rind, Miles, 2000, “What Is Claimed in a Kantian Judgment of Taste?”, *Journal of the History of Philosophy*, 38(1): 63–85. doi:10.1353/hph.2005.0103
+* –––, 2002, “Can Kant’s Deduction of Judgments of Taste Be Saved?”, *Archiv für Geschichte der Philosophie*, 84(1): 20–45.
+* Rogerson, Kenneth F., 1982, “The Meaning of Universal Validity in Kant’s Aesthetics”, *The Journal of Aesthetics and Art Criticism*, 40(3): 301–308. doi:10.2307/429687
+* –––, 1986, *Kant’s Aesthetics: The Roles of Form and Expression*, Lanham, MD: University Press of America.
+* –––, 2004, “Kant on Beauty and Morality”, *Kant-Studien*, 95(3): 338–354. doi:10.1515/kant.2004.021
+* –––, 2008, *The Problem of Free Harmony in Kant’s Aesthetics*, Albany, NY: SUNY Press.
 * Roth, Siegfried, 2014, “Kant, Polanyi, and Molecular Biology”, in Goy and Watkins 2014: 275–292.
-* Rueger, Alexander, 2007, “Kant and the Aesthetics of Nature”, _The British Journal of Aesthetics_, 47(2): 138–155. doi:10.1093/aesthj/ayl052
-* –––, 2008, “Beautiful Surfaces: Kant on Free and Adherent Beauty in Nature and Art”, _British Journal for the History of Philosophy_, 16(3): 535–557. doi:10.1080/09608780802200554
-* –––, 2009, “Enjoying the Unbeautiful: From Mendelssohn’s Theory of ‘Mixed Sentiments’ to Kant’s Aesthetic Judgments of Reflection”, _The Journal of Aesthetics and Art Criticism_, 67(2): 181–189. doi:10.1111/j.1540-6245.2009.01347.x
-* Rueger, Alexander and Şahan Evren, 2005, “The Role of Symbolic Presentation in Kant’s Theory of Taste”, _The British Journal of Aesthetics_, 45(3): 229–247. doi:10.1093/aesthj/ayi035
-* Savile, Anthony, 1981, “Objectivity in Aesthetic Judgement: Eva Schaper on Kant”, _The British Journal of Aesthetics_, 21(4): 363–369. doi:10.1093/bjaesthetics/21.4.363
-* –––, 1987, _Aesthetic Reconstructions: The Seminal Writings of Lessing, Kant, and Schiller_, Oxford: Blackwell.
-* –––, 1993, _Kantian Aesthetics Pursued_, Edinburgh: Edinburgh University Press.
-* –––, 2021, “Natural Beauty, Reflective Judgment and Kant’s Aesthetic Humanism”, _The British Journal of Aesthetics_, 61(2): 199–211. doi:10.1093/aesthj/ayaa048
-* Scarre, Geoffrey, 1981, “Kant on Free and Dependent Beauty”, _The British Journal of Aesthetics_, 21(4): 351–362. doi:10.1093/bjaesthetics/21.4.351
-* Schaper, Eva, 1979, _Studies in Kant’s Aesthetics_, Edinburgh: Edinburgh University Press.
-* Schopenhauer, Arthur, 1819/1859 \[1969], _Die Welt als Wille und Vorstellung_, second edition 1844, third edition 1859. Translated as _The World as Will and Representation_, 2 volumes, E. F. J. Payne (trans.), New York: Dover Publications, 1958, reprinted with minor corrections 1969.
-* Sethi, Janum, 2019, “Two Feelings in the Beautiful: Kant on the Structure of Judgments of Beauty”, _Philosopher’s Imprint_, 19: article 34. \[[Sethi 2019 available online](http://creativecommons.org/licenses/by-nc-nd/4.0/)]
-* –––, forthcoming, “Kant on Common Sense and Empirical Concepts”, _Kantian Review_, first online: 3 March 2022 (21 pages). doi:10.1017/S1369415422000097
-* Shier, David, 1998, “Why Kant Finds Nothing Ugly”, _The British Journal of Aesthetics_, 38(4): 412–418. doi:10.1093/bjaesthetics/38.4.412
-* Shimony, Idan, 2018, “Kant on the Peculiarity of the Human Understanding and the Antinomy of the Teleological Power of Judgment,” in _Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses_, Violetta L. Waibel, Margit Ruffing, and David Wagner (eds.), Berlin: De Gruyter, 1677-1684.
-* Steigerwald, Joan, 2006, “Kant’s Concept of Natural Purpose and the Reflecting Power of Judgement”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 712–734. doi:10.1016/j.shpsc.2006.09.006
+* Rueger, Alexander, 2007, “Kant and the Aesthetics of Nature”, *The British Journal of Aesthetics*, 47(2): 138–155. doi:10.1093/aesthj/ayl052
+* –––, 2008, “Beautiful Surfaces: Kant on Free and Adherent Beauty in Nature and Art”, *British Journal for the History of Philosophy*, 16(3): 535–557. doi:10.1080/09608780802200554
+* –––, 2009, “Enjoying the Unbeautiful: From Mendelssohn’s Theory of ‘Mixed Sentiments’ to Kant’s Aesthetic Judgments of Reflection”, *The Journal of Aesthetics and Art Criticism*, 67(2): 181–189. doi:10.1111/j.1540-6245.2009.01347.x
+* Rueger, Alexander and Şahan Evren, 2005, “The Role of Symbolic Presentation in Kant’s Theory of Taste”, *The British Journal of Aesthetics*, 45(3): 229–247. doi:10.1093/aesthj/ayi035
+* Savile, Anthony, 1981, “Objectivity in Aesthetic Judgement: Eva Schaper on Kant”, *The British Journal of Aesthetics*, 21(4): 363–369. doi:10.1093/bjaesthetics/21.4.363
+* –––, 1987, *Aesthetic Reconstructions: The Seminal Writings of Lessing, Kant, and Schiller*, Oxford: Blackwell.
+* –––, 1993, *Kantian Aesthetics Pursued*, Edinburgh: Edinburgh University Press.
+* –––, 2021, “Natural Beauty, Reflective Judgment and Kant’s Aesthetic Humanism”, *The British Journal of Aesthetics*, 61(2): 199–211. doi:10.1093/aesthj/ayaa048
+* Scarre, Geoffrey, 1981, “Kant on Free and Dependent Beauty”, *The British Journal of Aesthetics*, 21(4): 351–362. doi:10.1093/bjaesthetics/21.4.351
+* Schaper, Eva, 1979, *Studies in Kant’s Aesthetics*, Edinburgh: Edinburgh University Press.
+* Schopenhauer, Arthur, 1819/1859 \[1969], *Die Welt als Wille und Vorstellung*, second edition 1844, third edition 1859. Translated as *The World as Will and Representation*, 2 volumes, E. F. J. Payne (trans.), New York: Dover Publications, 1958, reprinted with minor corrections 1969.
+* Sethi, Janum, 2019, “Two Feelings in the Beautiful: Kant on the Structure of Judgments of Beauty”, *Philosopher’s Imprint*, 19: article 34. \[[Sethi 2019 available online](http://creativecommons.org/licenses/by-nc-nd/4.0/)]
+* –––, forthcoming, “Kant on Common Sense and Empirical Concepts”, *Kantian Review*, first online: 3 March 2022 (21 pages). doi:10.1017/S1369415422000097
+* Shier, David, 1998, “Why Kant Finds Nothing Ugly”, *The British Journal of Aesthetics*, 38(4): 412–418. doi:10.1093/bjaesthetics/38.4.412
+* Shimony, Idan, 2018, “Kant on the Peculiarity of the Human Understanding and the Antinomy of the Teleological Power of Judgment,” in *Natur und Freiheit: Akten des XII. Internationalen Kant-Kongresses*, Violetta L. Waibel, Margit Ruffing, and David Wagner (eds.), Berlin: De Gruyter, 1677-1684.
+* Steigerwald, Joan, 2006, “Kant’s Concept of Natural Purpose and the Reflecting Power of Judgement”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 712–734. doi:10.1016/j.shpsc.2006.09.006
 * Šustar, Predrag, 2014, “Kant’s Account of Biological Causation”, in Goy and Watkins 2014: 99–116.
-* Sweet, Kristi, 2009, “Reflection: Its Structure and Meaning in Kant’s Judgements of Taste”, _Kantian Review_, 14(1): 53–80. doi:10.1017/S1369415400001345
-* Teufel, Thomas, 2011, “Kant’s Non-Teleological Conception of Purposiveness”, _Kant-Studien_, 102(2): 232–252. doi:10.1515/kant.2011.017
+* Sweet, Kristi, 2009, “Reflection: Its Structure and Meaning in Kant’s Judgements of Taste”, *Kantian Review*, 14(1): 53–80. doi:10.1017/S1369415400001345
+* Teufel, Thomas, 2011, “Kant’s Non-Teleological Conception of Purposiveness”, *Kant-Studien*, 102(2): 232–252. doi:10.1515/kant.2011.017
 * –––, 2017, “Kant’s Transcendental Principle of Purposiveness and the ‘Maxim of the Lawfulness of Empirical Laws’”, in Massimi and Breitenbach 2017: 108–128. doi:10.1017/9781316389645.007
-* Tinguely, Joseph J., 2017, _Kant and the Reorientation of Aesthetics: Finding the World_, New York: Routledge. doi:10.4324/9781315112695
-* Tonelli, Giorgio, 1954, “La formazione del testo della _Kritik der Urteilskraft_”, _Revue Internationale de Philosophie_, 8(30 (4)): 423–448.
-* –––, 1958, “Von den Verschiedenen Bedeutungen des Wortes Zweckmässigkeit in der Kritik der Urteilskraft”, _Kant-Studien_, 49(1–4): 154–166. doi:10.1515/kant.1958.49.1-4.154
-* Tuna, Emine Hande, 2016, “A Kantian Hybrid Theory of Art Criticism: A Particularist Appeal to the Generalists”, _The Journal of Aesthetics and Art Criticism_, 74(4): 397–411. doi:10.1111/jaac.12322
-* –––, 2018, “Kant on Informed Pure Judgments of Taste”, _The Journal of Aesthetics and Art Criticism_, 76(2): 163–174. doi:10.1111/jaac.12455
-* Vaccarino Bremner, Sabina, 2021, “On Conceptual Revision and Aesthetic Judgement.” _Kantian Review_ 26(4): 531–547.
-* –––, forthcoming, “‘Until Art Once More Becomes Nature’: Culture and the Problem of Unity in Kant’s Critique of Judgment”,_Archiv für Geschichte der Philosophie_.
-* Vandenabeele, Bart, 2008, “The Subjective Universality of Aesthetic Judgements Revisited”, _The British Journal of Aesthetics_, 48(4): 410–425. doi:10.1093/aesthj/ayn042
-* Walker, Ralph, 1990, “Kant’s Conception of Empirical Law”, _Aristotelian Society Supplementary Volume_, 64: 242–258.
-* Walsh, D.M., 2006, “Organisms as Natural Purposes: The Contemporary Evolutionary Perspective”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 771–791. doi:10.1016/j.shpsc.2006.09.009
-* Watkins, Eric (ed.), 2001, _Kant and the Sciences_, Oxford/New York: Oxford University Press. doi:10.1093/0195133056.001.0001
-* –––, 2009, “The Antinomy of Teleological Judgment”, _Kant Yearbook_, 1: 197–222. doi:10.1515/9783110196672.197
+* Tinguely, Joseph J., 2017, *Kant and the Reorientation of Aesthetics: Finding the World*, New York: Routledge. doi:10.4324/9781315112695
+* Tonelli, Giorgio, 1954, “La formazione del testo della *Kritik der Urteilskraft*”, *Revue Internationale de Philosophie*, 8(30 (4)): 423–448.
+* –––, 1958, “Von den Verschiedenen Bedeutungen des Wortes Zweckmässigkeit in der Kritik der Urteilskraft”, *Kant-Studien*, 49(1–4): 154–166. doi:10.1515/kant.1958.49.1-4.154
+* Tuna, Emine Hande, 2016, “A Kantian Hybrid Theory of Art Criticism: A Particularist Appeal to the Generalists”, *The Journal of Aesthetics and Art Criticism*, 74(4): 397–411. doi:10.1111/jaac.12322
+* –––, 2018, “Kant on Informed Pure Judgments of Taste”, *The Journal of Aesthetics and Art Criticism*, 76(2): 163–174. doi:10.1111/jaac.12455
+* Vaccarino Bremner, Sabina, 2021, “On Conceptual Revision and Aesthetic Judgement.” *Kantian Review* 26(4): 531–547.
+* –––, forthcoming, “‘Until Art Once More Becomes Nature’: Culture and the Problem of Unity in Kant’s Critique of Judgment”,*Archiv für Geschichte der Philosophie*.
+* Vandenabeele, Bart, 2008, “The Subjective Universality of Aesthetic Judgements Revisited”, *The British Journal of Aesthetics*, 48(4): 410–425. doi:10.1093/aesthj/ayn042
+* Walker, Ralph, 1990, “Kant’s Conception of Empirical Law”, *Aristotelian Society Supplementary Volume*, 64: 242–258.
+* Walsh, D.M., 2006, “Organisms as Natural Purposes: The Contemporary Evolutionary Perspective”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 771–791. doi:10.1016/j.shpsc.2006.09.009
+* Watkins, Eric (ed.), 2001, *Kant and the Sciences*, Oxford/New York: Oxford University Press. doi:10.1093/0195133056.001.0001
+* –––, 2009, “The Antinomy of Teleological Judgment”, *Kant Yearbook*, 1: 197–222. doi:10.1515/9783110196672.197
 * –––, 2014, “Nature in General as a System of Ends”, in Goy and Watkins 2014: 117–130.
-* Weatherston, Martin, 1996, “Kant’s Assessment of Music in _The Critique of Judgment_”, _The British Journal of Aesthetics_, 36(1): 56–65. doi:10.1093/bjaesthetics/36.1.56
-* Weiskel, Thomas, 1976, _The Romantic Sublime: Studies in the Structure and Psychology of Transcendence_, Baltimore, MD: The Johns Hopkins University Press.
-* Wenzel, Christian Helmut, 1999, “Kant Finds Nothing Ugly?”, _The British Journal of Aesthetics_, 39(4): 416–422. doi:10.1093/bjaesthetics/39.4.416
-* –––, 2009, “Kant’s Aesthetics: Overview and Recent Literature”, _Philosophy Compass_, 4(3): 380–406. doi:10.1111/j.1747-9991.2009.00214.x
-* Wicks, Robert, 2007, _Routledge Philosophy Guidebook to Kant on Judgment_, Abingdon: Routledge. doi:10.4324/9780203642979
-* Williams, Jessica J., 2022, “Attention and the Free Play of the Faculties”, _Kantian Review_, 27(1): 43–59. doi:10.1017/S1369415421000339
-* Wilson, Ross, 2007, _Subjective Universality in Kant’s Aesthetics_, Oxford/New York: Peter Lang.
-* Wollheim, Richard, 1980, “Criticism as Retrieval”, in _Art and its Objects_, second edition, Cambridge: Cambridge University Press, supplementary essay 4.
-* Zammito, John H., 1992, _The Genesis of Kant’s Critique of Judgment_, Chicago: University of Chicago Press.
-* –––, 2006, “Teleology Then and Now: The Question of Kant’s Relevance for Contemporary Controversies over Function in Biology”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 37(4): 748–770. doi:10.1016/j.shpsc.2006.09.008
-* –––, 2012, “The Lenoir Thesis Revisited: Blumenbach and Kant”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 43(1): 120–132. doi:10.1016/j.shpsc.2011.05.011
-* –––, 2016, “Epigenesis in Kant: Recent Reconsiderations”, _Studies in History and Philosophy of Science Part A_, 58: 85–97. doi:10.1016/j.shpsa.2016.03.003
-* –––, 2018, _The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling_, Chicago/London: The University of Chicago Press.
-* Zanetti, Véronique, 1993, “Die Antinomie der teleologischen Urteilskraft”, _Kant-Studien_, 84(3): 341–355. doi:10.1515/kant.1993.84.3.341
-* Zangwill, Nick, 1992, “UnKantian Notions of Disinterest”, _The British Journal of Aesthetics_, 32(2): 149–152. Reprinted in Guyer 2003a: 63–66. doi:10.1093/bjaesthetics/32.2.149
+* Weatherston, Martin, 1996, “Kant’s Assessment of Music in *The Critique of Judgment*”, *The British Journal of Aesthetics*, 36(1): 56–65. doi:10.1093/bjaesthetics/36.1.56
+* Weiskel, Thomas, 1976, *The Romantic Sublime: Studies in the Structure and Psychology of Transcendence*, Baltimore, MD: The Johns Hopkins University Press.
+* Wenzel, Christian Helmut, 1999, “Kant Finds Nothing Ugly?”, *The British Journal of Aesthetics*, 39(4): 416–422. doi:10.1093/bjaesthetics/39.4.416
+* –––, 2009, “Kant’s Aesthetics: Overview and Recent Literature”, *Philosophy Compass*, 4(3): 380–406. doi:10.1111/j.1747-9991.2009.00214.x
+* Wicks, Robert, 2007, *Routledge Philosophy Guidebook to Kant on Judgment*, Abingdon: Routledge. doi:10.4324/9780203642979
+* Williams, Jessica J., 2022, “Attention and the Free Play of the Faculties”, *Kantian Review*, 27(1): 43–59. doi:10.1017/S1369415421000339
+* Wilson, Ross, 2007, *Subjective Universality in Kant’s Aesthetics*, Oxford/New York: Peter Lang.
+* Wollheim, Richard, 1980, “Criticism as Retrieval”, in *Art and its Objects*, second edition, Cambridge: Cambridge University Press, supplementary essay 4.
+* Zammito, John H., 1992, *The Genesis of Kant’s Critique of Judgment*, Chicago: University of Chicago Press.
+* –––, 2006, “Teleology Then and Now: The Question of Kant’s Relevance for Contemporary Controversies over Function in Biology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 37(4): 748–770. doi:10.1016/j.shpsc.2006.09.008
+* –––, 2012, “The Lenoir Thesis Revisited: Blumenbach and Kant”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 43(1): 120–132. doi:10.1016/j.shpsc.2011.05.011
+* –––, 2016, “Epigenesis in Kant: Recent Reconsiderations”, *Studies in History and Philosophy of Science Part A*, 58: 85–97. doi:10.1016/j.shpsa.2016.03.003
+* –––, 2018, *The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling*, Chicago/London: The University of Chicago Press.
+* Zanetti, Véronique, 1993, “Die Antinomie der teleologischen Urteilskraft”, *Kant-Studien*, 84(3): 341–355. doi:10.1515/kant.1993.84.3.341
+* Zangwill, Nick, 1992, “UnKantian Notions of Disinterest”, *The British Journal of Aesthetics*, 32(2): 149–152. Reprinted in Guyer 2003a: 63–66. doi:10.1093/bjaesthetics/32.2.149
 * Zinkin, Melissa, 2006, “Intensive Magnitudes and the Normativity of Taste”, in Kukla 2006: 138–161. doi:10.1017/CBO9780511498220.006
-* Zuckert, Rachel, 2002, “A New Look at Kant’s Theory of Pleasure”, _Journal of Aesthetics and Art Criticism_, 60(3): 239–252. doi:10.1111/1540-6245.00071
-* –––, 2007a, _Kant on Beauty and Biology: An Interpretation of the Critique of Judgment_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323
-* –––, 2007b, “Kant’s Rationalist Aesthetics”, _Kant-Studien_, 98(4): 443–463. doi:10.1515/KANT.2007.028
+* Zuckert, Rachel, 2002, “A New Look at Kant’s Theory of Pleasure”, *Journal of Aesthetics and Art Criticism*, 60(3): 239–252. doi:10.1111/1540-6245.00071
+* –––, 2007a, *Kant on Beauty and Biology: An Interpretation of the Critique of Judgment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323
+* –––, 2007b, “Kant’s Rationalist Aesthetics”, *Kant-Studien*, 98(4): 443–463. doi:10.1515/KANT.2007.028
 * –––, 2014, “Organisms and Metaphysics: Kant’s First Herder Review”, in Goy and Watkins 2014: 61–80.
-* –––, 2021, “Presenting the Unpresentable: Jean-François Lyotard’s Kantian Art-Sublime”, _Kantian Review_, 26(4): 549–565. doi:10.1017/S1369415421000352
-* Zumbach, Clark, 1984, _The Transcendent Science: Kant’s Conception of Biological Methodology_, (Nijhoff International Philosophy Series, 15), The Hague: M. Nijhoff.
+* –––, 2021, “Presenting the Unpresentable: Jean-François Lyotard’s Kantian Art-Sublime”, *Kantian Review*, 26(4): 549–565. doi:10.1017/S1369415421000352
+* Zumbach, Clark, 1984, *The Transcendent Science: Kant’s Conception of Biological Methodology*, (Nijhoff International Philosophy Series, 15), The Hague: M. Nijhoff.
 
 ## Academic Tools
 
@@ -745,4 +744,4 @@ This article, and much of the literature referred to, approaches Kant’s views 
 Work on the original (2005) version of this article was supported by the American Council of Learned Societies and by the Max Planck Institute for the History of Science. Work on the subsequent (2013) version was carried out in part with the support of a fellowship at the Wissenschaftskolleg zu Berlin. I am grateful to Janum Sethi for her help with that version.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Hannah Ginsborg](http://philosophy.berkeley.edu/ginsborg) <[_ginsborg@berkeley.edu_](mailto:ginsborg%40berkeley%2eedu)>
+[Hannah Ginsborg](http://philosophy.berkeley.edu/ginsborg) <[*ginsborg@berkeley.edu*](mailto:ginsborg%40berkeley%2eedu)>

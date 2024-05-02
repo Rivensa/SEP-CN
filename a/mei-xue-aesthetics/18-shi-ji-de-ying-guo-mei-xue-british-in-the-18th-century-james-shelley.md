@@ -1,11 +1,10 @@
 # 18 世纪的英国美学 British, in the 18th century (James Shelley)
 
-_首次发布于 2006 年 7 月 6 日；实质性修订于 2022 年 10 月 6 日_
+*首次发布于 2006 年 7 月 6 日；实质性修订于 2022 年 10 月 6 日*
 
 18 世纪的英国美学涉及了各种问题：什么是品味？什么是美？是否存在品味和美的标准？自然之美与艺术表现之美之间的关系是什么？一种美术与另一种美术之间的关系是什么？应该如何对各种美术进行排名？崇高的本质是什么，它应该与美放在一起排名吗？天才的本质是什么，它与品味有什么关系？
 
 虽然这些问题都与 18 世纪的英国美学密切相关，但并非所有问题都同等重要。其他问题往往围绕着关于品味本质的问题。但这个问题并不仅仅是如何最好地普遍定义品味。似乎每个人都至少大致同意约瑟夫·阿迪森早期对品味的定义：“品味是灵魂的一种能力，它能愉悦地辨别出作者的美和缺陷”（阿迪森和斯蒂尔 1879 年，第 409 号）。但是，同意阿迪森的观点只意味着同意使用“品味”来指代那种能力，并承认这种辨别具有某种感觉的现象学特征。核心问题是如何思考这样定义的品味。品味是一种更高的认知能力，类似于理性，其对象主要是智力性的吗？还是一种更低的身体能力，更类似于五种感官，其对象主要是物质性的？对这个问题的回应产生了三个主要流派的理论：（a）内感理论，其中沙夫茨伯里（1711 年）、哈奇森（1725 年）、休谟（1739-1740 年、1751 年和 1757 年）和里德（1785 年）的理论是代表；（b）想象力理论，其中阿迪森（1712 年）和伯克（1757/59 年）的理论是代表；（c）联想理论，其中杰拉德（1757 年）和艾莉森（1790 年）的理论是代表。
-
 
 ***
 
@@ -113,7 +112,7 @@ Reid 承认我们只有在某些情况下才能明确指定我们判断事物美
 
 ### 2.1 Addison
 
-约瑟夫·阿迪森（Joseph Addison）的审美判断理论主要体现在他所称之为“关于想象力的乐趣”的论文中（阿迪森和斯蒂尔 1879 年，第 409 和 421 号）。这篇论文由 11 篇文章组成，分别是第 411 至 421 号，于 1712 年夏季连续几天在《观察家》（_The Spectator_）杂志上发表。这篇论文的出版时间引发了关于它与夏夫茨伯里（Shaftesbury）的《特征》之间关系的问题，后者在一年前出版。但是在阿迪森的论文中很难发现夏夫茨伯里的审美判断理论的影子。这两个理论的深刻对立可能表明阿迪森的理论是对夏夫茨伯里理论的反应。但是阿迪森并没有与夏夫茨伯里进行辩论：相反，他只是简单地假设夏夫茨伯里否认的东西，反之亦然。此外，阿迪森认为自己在推进一种“全新的”审美判断理论方面是“完全新颖的”（阿迪森和斯蒂尔 1879 年，第 409 号）。因此，最好的结论是，英国有两种原创的审美判断理论。虽然很难说哪种更具影响力，但可以肯定的是，每一种后来的英国审美判断理论，至少直到 18 世纪末，都显示出一种或两种理论的强烈影响。
+约瑟夫·阿迪森（Joseph Addison）的审美判断理论主要体现在他所称之为“关于想象力的乐趣”的论文中（阿迪森和斯蒂尔 1879 年，第 409 和 421 号）。这篇论文由 11 篇文章组成，分别是第 411 至 421 号，于 1712 年夏季连续几天在《观察家》（*The Spectator*）杂志上发表。这篇论文的出版时间引发了关于它与夏夫茨伯里（Shaftesbury）的《特征》之间关系的问题，后者在一年前出版。但是在阿迪森的论文中很难发现夏夫茨伯里的审美判断理论的影子。这两个理论的深刻对立可能表明阿迪森的理论是对夏夫茨伯里理论的反应。但是阿迪森并没有与夏夫茨伯里进行辩论：相反，他只是简单地假设夏夫茨伯里否认的东西，反之亦然。此外，阿迪森认为自己在推进一种“全新的”审美判断理论方面是“完全新颖的”（阿迪森和斯蒂尔 1879 年，第 409 号）。因此，最好的结论是，英国有两种原创的审美判断理论。虽然很难说哪种更具影响力，但可以肯定的是，每一种后来的英国审美判断理论，至少直到 18 世纪末，都显示出一种或两种理论的强烈影响。
 
 Addison 的基本观点是，品味的乐趣是想象力的乐趣。这并不意味着 Addison 将品味与想象力等同起来。品味是一种判断的能力：它以愉悦的方式辨别作者的完美之处（Addison 和 Steele 1879，第 409 号）。想象力是一种表现的能力：它用形象来代表事物；它是视觉表现的能力（Addison 和 Steele 1879，第 411 号）。因此，Addison 的基本观点似乎是这样的：品味判断想象力所代表的东西；品味所辨别出的完美之处是事物作为视觉表现对象所具有的完美之处。但是，如果品味的对象是视觉表现的对象，那么品味的对象首先是物质对象：山脉、瀑布、性感的身体是 Addison 提供的范例之一（Addison 和 Steele 1879，第 412 号）。这就是与 Shaftesbury 的对比之处。可以回忆起，Shaftesbury 认为品味的对象首先是智力的对象，他的理论必须解释我们对物质对象也具有美的直觉的根本困难。而对于 Addison 来说，情况正好相反。
 
@@ -197,73 +196,73 @@ Addison 理论的唯物主义基础使其倾向于相对主义，因此对于审
 
 ### A. Primary Sources
 
-* Addison, J., and Steele, R., 1879, _The Spectator_, A. Chalmers (ed.), New York: D. Appleton.
-* Alison, A., 1811, _Essays on the Nature and Principles of Taste_, Edinburgh: Bell and Bradfute.
-* Augustine, 389–390 \[2005], _De vera religione_ in _Works of Saint Augustine. A Translation for the 21st Century_, Book 1, Volume 8, John E. Rotelle et al. (eds.), New York: New City Press.
-* Burke, E., 1757 \[1990], _A Philosophical Enquiry into the Origin of our Ideas of the Sublime and the Beautiful_, A. Phillips (ed.), Oxford: Oxford University Press.
-* Cooper, A. (Third Earl of Shaftesbury), 1711 \[2001], _Characteristics of Men, Manners, Opinions, Times_, Indianapolis: Liberty Fund.
-* Gerard, A., 1759, _An Essay on Taste_, London.
-* Gilpin, W., 1794, _Three Essays: On Picturesque Beauty; on Picturesque Travel; and on Sketching Landscape_, London.
-* Home, H. (Lord Kames), 1762 \[2005], _The Elements of Criticism_, 2 vols, P. Jones (ed.), Indianapolis: Liberty Fund.
-* Hume, D., 1739–40 \[1987], _A Treatise of Human Nature_, 2nd ed., L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press.
-* –––, 1751 \[1986], _An Enquiry Concerning the Principles of Morals_, in _Enquiries concerning Human Understanding and concerning the Principles of Morals_, 3rd ed., L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press.
-* –––, 1757 \[1987], “Of the Standard of Taste,” in _Essays Moral, Political, and Literary_, ed. E. Miller, Indianapolis: Liberty Fund.
-* Hutcheson, F., 1726 \[2004], _An Inquiry into the Original of Our Ideas of Beauty and Virtue_, W. Leidhold (ed.), Indianapolis: Liberty Fund.
-* –––, 1742 \[2002], _An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense_, A. Garrett (ed.), Indianapolis: Liberty Fund.
-* –––, 1747, _A Short Introduction to Moral Philosophy_, 1st ed., Glasgow.
-* –––, 1755, _A System of Moral Philosophy_, 2 vols, London.
-* Plato, \[1989], _Symposium_, Alexander Nehamas and Paul Woodruff (trans.), Indianapolis: Hackett.
-* Plotinus, 250 \[1991], _The Enneads_, Stephen McKenna (trans.), London: Penguin.
-* Price, U., 1796, _An Essay on the Picturesque, as Compared with the Sublime and Beautiful_, London.
-* Reid, T., 1785 \[1969], _Essays on the Intellectual Powers of Man_, Cambridge, MA: The M.I.T. Press.
-* Sibley, F., 2001, _Approach to Aesthetics: Collected Papers on Philosophical Aesthetics_, J. Benson, B. Redfern, and J. Cox (eds.), Oxford: Clarendon Press.
-* Townsend, D. (ed.), 1999, _Eighteenth Century British Aesthetics_, Amityville, NY: Baywood Publishing.
+* Addison, J., and Steele, R., 1879, *The Spectator*, A. Chalmers (ed.), New York: D. Appleton.
+* Alison, A., 1811, *Essays on the Nature and Principles of Taste*, Edinburgh: Bell and Bradfute.
+* Augustine, 389–390 \[2005], *De vera religione* in *Works of Saint Augustine. A Translation for the 21st Century*, Book 1, Volume 8, John E. Rotelle et al. (eds.), New York: New City Press.
+* Burke, E., 1757 \[1990], *A Philosophical Enquiry into the Origin of our Ideas of the Sublime and the Beautiful*, A. Phillips (ed.), Oxford: Oxford University Press.
+* Cooper, A. (Third Earl of Shaftesbury), 1711 \[2001], *Characteristics of Men, Manners, Opinions, Times*, Indianapolis: Liberty Fund.
+* Gerard, A., 1759, *An Essay on Taste*, London.
+* Gilpin, W., 1794, *Three Essays: On Picturesque Beauty; on Picturesque Travel; and on Sketching Landscape*, London.
+* Home, H. (Lord Kames), 1762 \[2005], *The Elements of Criticism*, 2 vols, P. Jones (ed.), Indianapolis: Liberty Fund.
+* Hume, D., 1739–40 \[1987], *A Treatise of Human Nature*, 2nd ed., L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press.
+* –––, 1751 \[1986], *An Enquiry Concerning the Principles of Morals*, in *Enquiries concerning Human Understanding and concerning the Principles of Morals*, 3rd ed., L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press.
+* –––, 1757 \[1987], “Of the Standard of Taste,” in *Essays Moral, Political, and Literary*, ed. E. Miller, Indianapolis: Liberty Fund.
+* Hutcheson, F., 1726 \[2004], *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, W. Leidhold (ed.), Indianapolis: Liberty Fund.
+* –––, 1742 \[2002], *An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense*, A. Garrett (ed.), Indianapolis: Liberty Fund.
+* –––, 1747, *A Short Introduction to Moral Philosophy*, 1st ed., Glasgow.
+* –––, 1755, *A System of Moral Philosophy*, 2 vols, London.
+* Plato, \[1989], *Symposium*, Alexander Nehamas and Paul Woodruff (trans.), Indianapolis: Hackett.
+* Plotinus, 250 \[1991], *The Enneads*, Stephen McKenna (trans.), London: Penguin.
+* Price, U., 1796, *An Essay on the Picturesque, as Compared with the Sublime and Beautiful*, London.
+* Reid, T., 1785 \[1969], *Essays on the Intellectual Powers of Man*, Cambridge, MA: The M.I.T. Press.
+* Sibley, F., 2001, *Approach to Aesthetics: Collected Papers on Philosophical Aesthetics*, J. Benson, B. Redfern, and J. Cox (eds.), Oxford: Clarendon Press.
+* Townsend, D. (ed.), 1999, *Eighteenth Century British Aesthetics*, Amityville, NY: Baywood Publishing.
 
 ### B. Secondary Sources
 
-* Axelsson, K., 2019, _Political Aesthetics: Addison and Shaftesbury on Taste, Morals and Society_, London: Bloomsbury Academic.
-* Bate, W., 1961, _From Classic to Romantic: Premises of Taste in Eighteenth-Century England_, New York: Harper Torchbooks.
-* Brady, E., 2013, _The Sublime in Modern Philosophy: Aesthetics, Ethics, and Nature_, Cambridge: Cambridge University Press.
-* Cassirer, E., 1955, _The Philosophy of the Enlightenment_, Boston: Beacon Press.
-* Copenhaver, R., 2015, “Thomas Reid on Aesthetic Perception,” in _Mind, Knowledge and Action: Essays in Honor of Reid’s Tercentenary_, ed. T. Buras and R. Copenhaver, _Mind Occasional Series_, Oxford: Oxford University Press.
-* Costelloe, T., 2013, _The British Aesthetic Tradition From Shaftesbury to Wittgenstein_, Cambridge: Cambridge University Press.
-* ––– (ed.), 2012, _The Sublime: From Antiquity to the Present_, Cambridge: Cambridge University Press.
-* –––, 2007, _Aesthetics and Morals in the Philosophy of David Hume_, London: Routledge Press.
-* Deepwell, K., 2022, “Beauty and Its Shadow: A Feminist Critique of Disinterestedness,” in _Feminist Aesthetics and Philosophy of Art: The Power of Critical Visions and Creative Engagement_, ed. L. R. Musgrave, New York: Springer.
-* Dickie, G., 1996, _The Century of Taste_, Oxford: Oxford University Press.
-* Eaton, A., 2022, “Why Feminists Shouldn’t Deny Disinterestedness,” in _Feminist Aesthetics and Philosophy of Art: The Power of Critical Visions and Creative Engagement_, ed. L. R. Musgrave, New York: Springer.
-* Gill, M., 2021a. “Shaftesbury on the Beauty of Nature,” _Journal of Modern Philosophy_, 3: 1–18.
-* –––, 2021b. “Shaftesbury’s Claim That Beauty and Good Are One and the Same,” _Journal of the History of Philosophy_, 59: 69–92.
-* –––, 2018. “Shaftesbury on Life as a Work of Art.” _British Journal for the History of Philosophy_ 26: 1110–1131.
-* Gracyk, T., 1987, “The Failure of Thomas Reid’s Aesthetic Theory,” _The Monist_, 70: 465–482.
-* Guyer, P., 2014, _A History of Modern Aesthetics_, Cambridge: Cambridge University Press.
-* –––, 2004, “The Origins of Modern Aesthetics: 1711–1735,” in _The Blackwell Guide to Aesthetics_, P. Kivy (ed.), Malden, MA: Blackwell Publishing.
-* –––, 1993, “The dialectic of disinterestedness: I. Eighteenth-century aesthetics,” in _Kant and the Experience of Freedom: Essays on Aesthetics and Morality_, New York: Cambridge University Press.
-* Hipple, W., 1967, _The Beautiful, the Sublime, and the Picturesque in Eighteenth Century Aesthetic Theory_, Carbondale, Ill.: The Southern Illinois University Press.
-* Kail, P., 2000, “Normativity and Function in Hutcheson’s Aesthetic Epistemology,” _British Journal of Aesthetics_, 40: 441–451.
-* Kivy, P., 2007, “The Perception of Beauty in Hutcheson’s First Inquiry: A Reply to James Shelley,” _British Journal of Aesthetics_, 47: 416–431.
-* –––, 2003, _The Seventh Sense: Francis Hutcheson & Eighteenth-Century British_ _Aesthetics_, 2nd ed., Oxford: Clarendon Press.
-* Korsmeyer, C., 1995, “Gendered Concepts and Hume’s Standard of Taste,” in _Feminism and Tradition in Aesthetics_, eds. P. Brand and C. Korsmeyer, University Park, PA: Penn State Press.
-* Michael, E., 1984, “Francis Hutcheson on Aesthetic Perception and Aesthetic Pleasure,” _British Journal of Aesthetics_, 24: 241–255.
-* –––, 1990, “Hutcheson’s Account of Beauty as a Response to Mandeville,” _History of European Ideas_, 12: 655–668.
-* Monk, S., 1960, _The Sublime: A Study of Critical Theories in XVIII-Century England_, Ann Arbor: University of Michigan Press.
-* Rind, M., 2002, “The Concept of Disinterestedness in Eighteenth-Century British Aesthetics,” _The Journal of the History of Philosophy_, 40: 67–87.
-* Shelley, J., 2022, “Intelligible Beauty,” _Proceedings of the Aristotelian Society_ (Supplemental Volume), 96: 147–164.
-* –––, 2013, “Empiricism: Hutcheson and Hume,” in _The Routledge Companion to Aesthetics_, 3rd ed., B. Gaut and D. Lopes (eds.), New York: Routledge.
-* –––, 2007, “Aesthetics and the World at Large,” _British Journal of Aesthetics_, 47: 169–183.
-* Stolnitz, J., 1961a, “On the Significance of Lord Shaftesbury in Modern Aesthetic Theory,” _Philosophical Quarterly_, 11: 97–113.
-* –––, 1961b, “‘Beauty’: Some Stages in the History of an Idea,” _Journal of the History of Ideas_, 22: 185–204.
-* –––, 1961c, “On the Origins of ‘Aesthetic Disinterestedness,’” _The Journal of Aesthetics and Art Criticism_, 20: 131–144.
-* Szécsényi, E., 2022, “The aesthetics of the invisible: George Berkeley and the modern aesthetics,” _History of European Ideas_, 48: 731–743.
-* –––, 2017a, “The regard of the first man: on Joseph Addison’s aesthetic categories, ” _History of European Ideas_, 43: 582–597.
-* –––, 2017b, “Landscape and Walking: On Early Aesthetic Experience,” _Journal of Scottish Thought_, 9: 39–74.
-* Townsend, D., 2003, “Thomas Reid and the Theory of Taste,” _The Journal of Aesthetics and Art Criticism_, 61: 341–351.
-* –––, 2003, _Hume’s Aesthetic Theory: Sentiment and Taste_, London: Routledge Press.
-* –––, 1991, “Lockean Aesthetics,” _The Journal of Aesthetics and Art Criticism_, 49: 349–361.
-* –––, 1987, “From Shaftesbury to Kant: The Development of the Concept of Aesthetic Experience,” _The Journal of the History of Ideas_, 48: 287–305.
-* –––, 1982, “Shaftesbury’s Aesthetic Theory,” _The Journal of Aesthetics and Art Criticism_, 41: 205–213.
-* Zuckert, R., 2015, “Reid’s Expressivist Aesthetics,” in _Mind, Knowledge and Action: Essays in Honor of Reid’s Tercentenary_, ed. T. Buras and R. Copenhaver, _Mind Occasional Series_, Oxford: Oxford University Press.
-* –––, 2009, “Kames’s Naturalist Aesthetics and the Case of Tragedy,” _Journal of Scottish Philosophy_, 7: 147–162.
+* Axelsson, K., 2019, *Political Aesthetics: Addison and Shaftesbury on Taste, Morals and Society*, London: Bloomsbury Academic.
+* Bate, W., 1961, *From Classic to Romantic: Premises of Taste in Eighteenth-Century England*, New York: Harper Torchbooks.
+* Brady, E., 2013, *The Sublime in Modern Philosophy: Aesthetics, Ethics, and Nature*, Cambridge: Cambridge University Press.
+* Cassirer, E., 1955, *The Philosophy of the Enlightenment*, Boston: Beacon Press.
+* Copenhaver, R., 2015, “Thomas Reid on Aesthetic Perception,” in *Mind, Knowledge and Action: Essays in Honor of Reid’s Tercentenary*, ed. T. Buras and R. Copenhaver, *Mind Occasional Series*, Oxford: Oxford University Press.
+* Costelloe, T., 2013, *The British Aesthetic Tradition From Shaftesbury to Wittgenstein*, Cambridge: Cambridge University Press.
+* ––– (ed.), 2012, *The Sublime: From Antiquity to the Present*, Cambridge: Cambridge University Press.
+* –––, 2007, *Aesthetics and Morals in the Philosophy of David Hume*, London: Routledge Press.
+* Deepwell, K., 2022, “Beauty and Its Shadow: A Feminist Critique of Disinterestedness,” in *Feminist Aesthetics and Philosophy of Art: The Power of Critical Visions and Creative Engagement*, ed. L. R. Musgrave, New York: Springer.
+* Dickie, G., 1996, *The Century of Taste*, Oxford: Oxford University Press.
+* Eaton, A., 2022, “Why Feminists Shouldn’t Deny Disinterestedness,” in *Feminist Aesthetics and Philosophy of Art: The Power of Critical Visions and Creative Engagement*, ed. L. R. Musgrave, New York: Springer.
+* Gill, M., 2021a. “Shaftesbury on the Beauty of Nature,” *Journal of Modern Philosophy*, 3: 1–18.
+* –––, 2021b. “Shaftesbury’s Claim That Beauty and Good Are One and the Same,” *Journal of the History of Philosophy*, 59: 69–92.
+* –––, 2018. “Shaftesbury on Life as a Work of Art.” *British Journal for the History of Philosophy* 26: 1110–1131.
+* Gracyk, T., 1987, “The Failure of Thomas Reid’s Aesthetic Theory,” *The Monist*, 70: 465–482.
+* Guyer, P., 2014, *A History of Modern Aesthetics*, Cambridge: Cambridge University Press.
+* –––, 2004, “The Origins of Modern Aesthetics: 1711–1735,” in *The Blackwell Guide to Aesthetics*, P. Kivy (ed.), Malden, MA: Blackwell Publishing.
+* –––, 1993, “The dialectic of disinterestedness: I. Eighteenth-century aesthetics,” in *Kant and the Experience of Freedom: Essays on Aesthetics and Morality*, New York: Cambridge University Press.
+* Hipple, W., 1967, *The Beautiful, the Sublime, and the Picturesque in Eighteenth Century Aesthetic Theory*, Carbondale, Ill.: The Southern Illinois University Press.
+* Kail, P., 2000, “Normativity and Function in Hutcheson’s Aesthetic Epistemology,” *British Journal of Aesthetics*, 40: 441–451.
+* Kivy, P., 2007, “The Perception of Beauty in Hutcheson’s First Inquiry: A Reply to James Shelley,” *British Journal of Aesthetics*, 47: 416–431.
+* –––, 2003, *The Seventh Sense: Francis Hutcheson & Eighteenth-Century British* *Aesthetics*, 2nd ed., Oxford: Clarendon Press.
+* Korsmeyer, C., 1995, “Gendered Concepts and Hume’s Standard of Taste,” in *Feminism and Tradition in Aesthetics*, eds. P. Brand and C. Korsmeyer, University Park, PA: Penn State Press.
+* Michael, E., 1984, “Francis Hutcheson on Aesthetic Perception and Aesthetic Pleasure,” *British Journal of Aesthetics*, 24: 241–255.
+* –––, 1990, “Hutcheson’s Account of Beauty as a Response to Mandeville,” *History of European Ideas*, 12: 655–668.
+* Monk, S., 1960, *The Sublime: A Study of Critical Theories in XVIII-Century England*, Ann Arbor: University of Michigan Press.
+* Rind, M., 2002, “The Concept of Disinterestedness in Eighteenth-Century British Aesthetics,” *The Journal of the History of Philosophy*, 40: 67–87.
+* Shelley, J., 2022, “Intelligible Beauty,” *Proceedings of the Aristotelian Society* (Supplemental Volume), 96: 147–164.
+* –––, 2013, “Empiricism: Hutcheson and Hume,” in *The Routledge Companion to Aesthetics*, 3rd ed., B. Gaut and D. Lopes (eds.), New York: Routledge.
+* –––, 2007, “Aesthetics and the World at Large,” *British Journal of Aesthetics*, 47: 169–183.
+* Stolnitz, J., 1961a, “On the Significance of Lord Shaftesbury in Modern Aesthetic Theory,” *Philosophical Quarterly*, 11: 97–113.
+* –––, 1961b, “‘Beauty’: Some Stages in the History of an Idea,” *Journal of the History of Ideas*, 22: 185–204.
+* –––, 1961c, “On the Origins of ‘Aesthetic Disinterestedness,’” *The Journal of Aesthetics and Art Criticism*, 20: 131–144.
+* Szécsényi, E., 2022, “The aesthetics of the invisible: George Berkeley and the modern aesthetics,” *History of European Ideas*, 48: 731–743.
+* –––, 2017a, “The regard of the first man: on Joseph Addison’s aesthetic categories, ” *History of European Ideas*, 43: 582–597.
+* –––, 2017b, “Landscape and Walking: On Early Aesthetic Experience,” *Journal of Scottish Thought*, 9: 39–74.
+* Townsend, D., 2003, “Thomas Reid and the Theory of Taste,” *The Journal of Aesthetics and Art Criticism*, 61: 341–351.
+* –––, 2003, *Hume’s Aesthetic Theory: Sentiment and Taste*, London: Routledge Press.
+* –––, 1991, “Lockean Aesthetics,” *The Journal of Aesthetics and Art Criticism*, 49: 349–361.
+* –––, 1987, “From Shaftesbury to Kant: The Development of the Concept of Aesthetic Experience,” *The Journal of the History of Ideas*, 48: 287–305.
+* –––, 1982, “Shaftesbury’s Aesthetic Theory,” *The Journal of Aesthetics and Art Criticism*, 41: 205–213.
+* Zuckert, R., 2015, “Reid’s Expressivist Aesthetics,” in *Mind, Knowledge and Action: Essays in Honor of Reid’s Tercentenary*, ed. T. Buras and R. Copenhaver, *Mind Occasional Series*, Oxford: Oxford University Press.
+* –––, 2009, “Kames’s Naturalist Aesthetics and the Case of Tragedy,” *Journal of Scottish Philosophy*, 7: 147–162.
 
 ## Academic Tools
 
@@ -275,12 +274,12 @@ Addison 理论的唯物主义基础使其倾向于相对主义，因此对于审
 
 ## Other Internet Resources
 
-* [_Journal of Scottish Philosophy_](http://www.euppublishing.com/journal/jsp/)
-* [_Dictionary of the History of Ideas_](http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml\&query=Dictionary%20of%20the%20History%20of%20Ideas), at the University of Virginia
+* [*Journal of Scottish Philosophy*](http://www.euppublishing.com/journal/jsp/)
+* [*Dictionary of the History of Ideas*](http://xtf.lib.virginia.edu/xtf/view?docId=DicHist/uvaBook/tei/DicHist1.xml\&query=Dictionary%20of%20the%20History%20of%20Ideas), at the University of Virginia
 
 ## Related Entries
 
 [aesthetic, concept of the](https://plato.stanford.edu/entries/aesthetic-concept/) | [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: French, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-french/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [Burke, Edmund](https://plato.stanford.edu/entries/burke/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Reid, Thomas](https://plato.stanford.edu/entries/reid/) | [Scottish Philosophy: in the 18th Century](https://plato.stanford.edu/entries/scottish-18th/) | [Shaftesbury, Lord \[Anthony Ashley Cooper, 3rd Earl of\]](https://plato.stanford.edu/entries/shaftesbury/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[_shelljr@auburn.edu_](mailto:shelljr%40auburn%2eedu)>
+[James Shelley](http://www.cla.auburn.edu/philosophy/people/professorial-faculty/james-shelley/) <[*shelljr@auburn.edu*](mailto:shelljr%40auburn%2eedu)>

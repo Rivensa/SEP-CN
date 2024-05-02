@@ -6,7 +6,6 @@
 
 当代的定义可以根据强调的艺术维度进行分类。一种独特的现代传统主义定义关注艺术的制度特征，强调艺术随时间的变化，现代作品与传统艺术完全不同的突破，艺术作品与艺术史、艺术流派等的关系属性，以及艺术作品类别的不可否认的异质性。在当代哲学中，更传统、不那么传统主义的定义使用更广泛、更传统的美学属性概念，包括不仅限于与艺术相关的属性，并更加强调艺术的跨文化和跨历史特征，总之，强调艺术作品类别的共同点。混合定义旨在兼顾传统美学维度以及艺术制度和艺术历史维度，既不偏袒其中任何一个。
 
-
 ***
 
 ## 1. 对艺术定义的限制
@@ -125,86 +124,86 @@ Monroe Beardsley 的定义认为，艺术品是“一种旨在提供具有明显
 
 ## Bibliography
 
-* Abell, Catharine, 2012, “Art: What It Is and Why It Matters,” _Philosophy and Phenomenological Research_, 85: 671–691.
-* Adajian, Thomas, 2005, “On the Prototype Theory of Concepts and the Definition of Art,” _Journal of Aesthetics and Art Criticism_, 63: 231–236.
+* Abell, Catharine, 2012, “Art: What It Is and Why It Matters,” *Philosophy and Phenomenological Research*, 85: 671–691.
+* Adajian, Thomas, 2005, “On the Prototype Theory of Concepts and the Definition of Art,” *Journal of Aesthetics and Art Criticism*, 63: 231–236.
 * –––, 2012, “Defining Art,” in A. Ribeiro (ed.) 2012, pp. 39–56.
-* Battersby, Christine, 1989, _Gender and Genius: Towards a Feminist Aesthetics_, London: The Women’s Press.
-* Beardsley, Monroe, 1982, _The Aesthetic Point of View_, Ithaca, New York: Cornell University Press.
-* Bond, E. J., 1975, “The Essential Nature of Art.” _American Philosophical Quarterly_, 12: 177–183.
+* Battersby, Christine, 1989, *Gender and Genius: Towards a Feminist Aesthetics*, London: The Women’s Press.
+* Beardsley, Monroe, 1982, *The Aesthetic Point of View*, Ithaca, New York: Cornell University Press.
+* Bond, E. J., 1975, “The Essential Nature of Art.” *American Philosophical Quarterly*, 12: 177–183.
 * Brand, Peggy Zeglin, 2000, “Glaring Omissions in Traditional Theories of Art,” in N. Carroll (ed.) 2000, pp. 175–198.
-* Carroll, Noel, 1993, “Historical Narratives and the Philosophy of Art”, _The Journal of Aesthetics and Art Criticism_, 51(3): 313–26.
-* –––, 2001, _Beyond Aesthetics_, Cambridge: Cambridge University Press.
-* –––, 2004, “Non-Perceptual Aesthetic Properties.” _British Journal of Aesthetics_, 44: 413–423.
-* Carroll, Noel (ed.), 2000, _Theories of Art Today_, Madison: University of Wisconsin Press.
-* Cohen, Ted, 1973, “Aesthetic/Non-aesthetic and the concept of taste: a critique of Sibley’s position”, _Theoria_, 39(1–3): 113–152.
-* Danto, Arthur, 1981, _The Transfiguration of the Commonplace_, Cambridge, MA: Harvard University Press.
-* Davidson, Donald, 2005, _Truth and Predication_, Cambridge, MA: Harvard University Press.
-* Davies, David, 2004, _Art as Performance_, Oxford: Blackwell Publishing.
-* Davies, Stephen, 1991, _Definitions of Art_, Ithaca: Cornell University Press.
-* –––, 1997, “First Art and Art’s Definition,” _Southern Journal of Philosophy_, 35: 19–34
+* Carroll, Noel, 1993, “Historical Narratives and the Philosophy of Art”, *The Journal of Aesthetics and Art Criticism*, 51(3): 313–26.
+* –––, 2001, *Beyond Aesthetics*, Cambridge: Cambridge University Press.
+* –––, 2004, “Non-Perceptual Aesthetic Properties.” *British Journal of Aesthetics*, 44: 413–423.
+* Carroll, Noel (ed.), 2000, *Theories of Art Today*, Madison: University of Wisconsin Press.
+* Cohen, Ted, 1973, “Aesthetic/Non-aesthetic and the concept of taste: a critique of Sibley’s position”, *Theoria*, 39(1–3): 113–152.
+* Danto, Arthur, 1981, *The Transfiguration of the Commonplace*, Cambridge, MA: Harvard University Press.
+* Davidson, Donald, 2005, *Truth and Predication*, Cambridge, MA: Harvard University Press.
+* Davies, David, 2004, *Art as Performance*, Oxford: Blackwell Publishing.
+* Davies, Stephen, 1991, *Definitions of Art*, Ithaca: Cornell University Press.
+* –––, 1997, “First Art and Art’s Definition,” *Southern Journal of Philosophy*, 35: 19–34
 * –––, 2000, “Non-Western Art and Art’s Definition,” in N. Carroll (ed.) 2000, pp. 199–217 .
-* –––, 2006, _The Philosophy of Art_, Oxford: Basil Blackwell.
-* –––, 2012, _The Artful Species_, Oxford: Oxford University Press.
-* –––, 2015, “ Defining Art and Artworlds,” _Journal of Aesthetics and Art Criticism_ 73(4): 375–384.
-* Davies, Stephen, and Sukla, Ananta (eds.), 2003, _Art and Essence_, Westport, CT: Praeger.
-* Dean, Jeffery, 2003, “The Nature of Concepts and the Definition of Art,” _Journal of Aesthetics and Art Criticism_, 61: 29–35.
-* Devitt, Michael, 2001, “The Metaphysics of Truth,” in Michael Lynch (ed.), _The Nature of Truth_, Cambridge, MA: MIT Press, pp. 579–611.
-* DeClerq, Rafael, 2002, “The Concept of an Aesthetic Property,” _Journal of Aesthetics and Art Criticism_, 60: 167–172.
-* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, _Journal of Philosophy_, 62(5): 129–136.
-* –––, 1974, _Art and the Aesthetic: An Institutional Analysis_, Ithaca, NY: Cornell University Press.
-* –––, 1984, _The Art Circle_, New York: Haven.
-* –––, 2001, _Art and Value_, Oxford: Blackwell Publishing.
-* Dissanayake, Ellen, 1990, _What is Art For?_, Bellingham: University of Washington Press.
-* Dutton, Denis, 2006, “A Naturalist Definition of Art,” _Journal of Aesthetics and Art Criticism_, 64: 367–377.
-* –––, 2008, _The Art Instinct_, New York: Bloomsbury Press.
-* Eagleton, Terry, 1990,_The Ideology of the Aesthetic_, London: Basil Blackwell.
-* Eldridge, Richard, 1985, “Form and Content: An Aesthetic Theory of Art,” _British Journal of Aesthetics_, 25(4): 303–316.
-* Field, Hartry, 1972, “Tarski’s Theory of Truth,” _The Journal of Philosophy_, 69: 347–375.
-* Frueh, Joanna, 1991, “Towards a Feminist Theory of Art,” in _Feminist Art Criticism: An Anthology_, A. Raven, C. Langer and J. Frueh (eds.), Boulder: Westview Press, pp. 153–165.
+* –––, 2006, *The Philosophy of Art*, Oxford: Basil Blackwell.
+* –––, 2012, *The Artful Species*, Oxford: Oxford University Press.
+* –––, 2015, “ Defining Art and Artworlds,” *Journal of Aesthetics and Art Criticism* 73(4): 375–384.
+* Davies, Stephen, and Sukla, Ananta (eds.), 2003, *Art and Essence*, Westport, CT: Praeger.
+* Dean, Jeffery, 2003, “The Nature of Concepts and the Definition of Art,” *Journal of Aesthetics and Art Criticism*, 61: 29–35.
+* Devitt, Michael, 2001, “The Metaphysics of Truth,” in Michael Lynch (ed.), *The Nature of Truth*, Cambridge, MA: MIT Press, pp. 579–611.
+* DeClerq, Rafael, 2002, “The Concept of an Aesthetic Property,” *Journal of Aesthetics and Art Criticism*, 60: 167–172.
+* Dickie, George, 1965, “Beardsley’s Phantom Aesthetic Experience”, *Journal of Philosophy*, 62(5): 129–136.
+* –––, 1974, *Art and the Aesthetic: An Institutional Analysis*, Ithaca, NY: Cornell University Press.
+* –––, 1984, *The Art Circle*, New York: Haven.
+* –––, 2001, *Art and Value*, Oxford: Blackwell Publishing.
+* Dissanayake, Ellen, 1990, *What is Art For?*, Bellingham: University of Washington Press.
+* Dutton, Denis, 2006, “A Naturalist Definition of Art,” *Journal of Aesthetics and Art Criticism*, 64: 367–377.
+* –––, 2008, *The Art Instinct*, New York: Bloomsbury Press.
+* Eagleton, Terry, 1990,*The Ideology of the Aesthetic*, London: Basil Blackwell.
+* Eldridge, Richard, 1985, “Form and Content: An Aesthetic Theory of Art,” *British Journal of Aesthetics*, 25(4): 303–316.
+* Field, Hartry, 1972, “Tarski’s Theory of Truth,” *The Journal of Philosophy*, 69: 347–375.
+* Frueh, Joanna, 1991, “Towards a Feminist Theory of Art,” in *Feminist Art Criticism: An Anthology*, A. Raven, C. Langer and J. Frueh (eds.), Boulder: Westview Press, pp. 153–165.
 * Gaut, Berys, 2000, “The Cluster Account of Art,” in N. Carroll (ed.) 2000, pp. 25–45.
-* Goehr, Lydia, 1994, _The Imaginary Museum of Musical Works_, Oxford: Oxford University Press.
-* Goldman, Alan, 1995, _Aesthetic Value_, Boulder, CO: Westview Press.
-* Goodman, Nelson, 1968, _Languages of Art: An Approach to a Theory of Symbols_, Indianapolis: The Bobbs-Merrill Company.
-* Hegel, G.W.F., _Lectures_, translated by Bernard Bosanquet in _The Introduction to Hegel's Philosophy of Fine Art_, London: Kegan Paul, Trench, & Co., 1886; reprinted as _Introductory Lectures on Aesthetics_, edited and with an Introduction by Michael Inwood, London: Penguin, 1993. \[Page reference is to the 1886 translation.]
-* Iseminger, Gary, 2004, _The Aesthetic Function of Art_, Ithaca: Cornell University Press.
-* Janaway, Christopher, 1998, _Images of Excellence: Plato’s Critique of the Arts_, Oxford: Oxford University Press.
-* Kant, Immanuel, 2000, _Critique of the Power of Judgment_, Paul Guyer and Eric Matthews (trans.), Cambridge: Cambridge University Press.
-* Khalidi, Muhammed, 2013, “Three Kinds of Social Kinds,” _Philosophy and Phenomenological Research_, 90(1): 96–112.
-* Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms Aesthetic?” _Philosophy and Phenomenological Research_, 36(2): 197–211.
-* –––, 1997, _Philosophies of the Arts_, Cambridge: Cambridge University Press.
-* Kristeller, Paul, 1951, “The Modern System of the Arts,” _Journal of the History of Ideas_, 12: 496–527.
-* Levinson, Jerrold, 1990, _Music, Art, and Metaphysics_, Ithaca: Cornell University Press.
-* –––, 2002, “The Irreducible Historicality of the Concept of Art”, _British Journal of Aesthetics_, 42(4): 367–379.
-* –––, 2005, “What Are Aesthetic Properties?” _Proceedings of the Aristotelian Society_, 79: 191–210.
-* Longworth, F., and A. Scarantino, 2010, “The Disjunctive Theory of Art: The Cluster Account Reformulated,” _British Journal of Aesthetics_, 50(2): 151–167.
-* Lopes, D.M., 2008,“Nobody Needs a Theory of Art” _Journal of Philosophy_, 105: 109–127.
-* –––, 2014, _Beyond Art_, Oxford: Oxford University Press.
-* McFee, Graham, 2011, _Artistic Judgment: A Framework for Philosophical Aesthetics_, London: Springer.
-* Mag Uidhir, C. and Magnus, P. D., 2011, “Art Concept Pluralism” _Metaphilosophy_, 42: 183–97.
-* Matravers, Derek, 2000, “The Institutional Theory: A Protean Creature,” _British Journal of Aesthetics_, 40: 242–250.
+* Goehr, Lydia, 1994, *The Imaginary Museum of Musical Works*, Oxford: Oxford University Press.
+* Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview Press.
+* Goodman, Nelson, 1968, *Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: The Bobbs-Merrill Company.
+* Hegel, G.W.F., *Lectures*, translated by Bernard Bosanquet in *The Introduction to Hegel's Philosophy of Fine Art*, London: Kegan Paul, Trench, & Co., 1886; reprinted as *Introductory Lectures on Aesthetics*, edited and with an Introduction by Michael Inwood, London: Penguin, 1993. \[Page reference is to the 1886 translation.]
+* Iseminger, Gary, 2004, *The Aesthetic Function of Art*, Ithaca: Cornell University Press.
+* Janaway, Christopher, 1998, *Images of Excellence: Plato’s Critique of the Arts*, Oxford: Oxford University Press.
+* Kant, Immanuel, 2000, *Critique of the Power of Judgment*, Paul Guyer and Eric Matthews (trans.), Cambridge: Cambridge University Press.
+* Khalidi, Muhammed, 2013, “Three Kinds of Social Kinds,” *Philosophy and Phenomenological Research*, 90(1): 96–112.
+* Kivy, Peter, 1975, “What Makes ‘Aesthetic’ Terms Aesthetic?” *Philosophy and Phenomenological Research*, 36(2): 197–211.
+* –––, 1997, *Philosophies of the Arts*, Cambridge: Cambridge University Press.
+* Kristeller, Paul, 1951, “The Modern System of the Arts,” *Journal of the History of Ideas*, 12: 496–527.
+* Levinson, Jerrold, 1990, *Music, Art, and Metaphysics*, Ithaca: Cornell University Press.
+* –––, 2002, “The Irreducible Historicality of the Concept of Art”, *British Journal of Aesthetics*, 42(4): 367–379.
+* –––, 2005, “What Are Aesthetic Properties?” *Proceedings of the Aristotelian Society*, 79: 191–210.
+* Longworth, F., and A. Scarantino, 2010, “The Disjunctive Theory of Art: The Cluster Account Reformulated,” *British Journal of Aesthetics*, 50(2): 151–167.
+* Lopes, D.M., 2008,“Nobody Needs a Theory of Art” *Journal of Philosophy*, 105: 109–127.
+* –––, 2014, *Beyond Art*, Oxford: Oxford University Press.
+* McFee, Graham, 2011, *Artistic Judgment: A Framework for Philosophical Aesthetics*, London: Springer.
+* Mag Uidhir, C. and Magnus, P. D., 2011, “Art Concept Pluralism” *Metaphilosophy*, 42: 183–97.
+* Matravers, Derek, 2000, “The Institutional Theory: A Protean Creature,” *British Journal of Aesthetics*, 40: 242–250.
 * Meskin, Aaron, 2008,“From Defining Art to Defining the Individual Arts: The Role of Theory in the Philosophies of Arts” in Stock and Thomson-Jones (eds.) 2008, pp. 125–150.
-* Plato, 1997, _Complete Works_, John M. Cooper (ed.), Indianapolis: Hackett.
-* Rey, Georges, 1983, “Concepts and Stereotypes,” _Cognition_, 15: 237–262.
-* Ribeiro, Anna Christina (ed.), 2012, _Continuum Companion to Aesthetics_, London: Continuum.
-* Shelley, James, 2003, “The Problem of Non-Perceptual Art.” _British Journal of Aesthetics_, 43: 363–378.
-* Sibley, Frank, 1959, “Aesthetic Concepts,” _Philosophical Review_, 74: 135–159.
-* Shiner, Larry, 2001, _The Invention of Art_, Chicago: University of Chicago Press.
+* Plato, 1997, *Complete Works*, John M. Cooper (ed.), Indianapolis: Hackett.
+* Rey, Georges, 1983, “Concepts and Stereotypes,” *Cognition*, 15: 237–262.
+* Ribeiro, Anna Christina (ed.), 2012, *Continuum Companion to Aesthetics*, London: Continuum.
+* Shelley, James, 2003, “The Problem of Non-Perceptual Art.” *British Journal of Aesthetics*, 43: 363–378.
+* Sibley, Frank, 1959, “Aesthetic Concepts,” *Philosophical Review*, 74: 135–159.
+* Shiner, Larry, 2001, *The Invention of Art*, Chicago: University of Chicago Press.
 * –––, 2003, “Western and Non-Western Concepts of Art: Universality and Authenticity” in S. Davies and A. Sukla (eds.) 2003, pp. 143–157.
-* Stecker, Robert, 1997, _Artworks: Definition, Meaning, Value_, University Park, PA: Pennsylvania State University Press.
+* Stecker, Robert, 1997, *Artworks: Definition, Meaning, Value*, University Park, PA: Pennsylvania State University Press.
 * Stecker, Robert, 2000, “Is It Reasonable to Attempt to Define Art” in N. Carroll (ed.) 2000, pp. 45–64.
-* –––, 2005, _Aesthetics and the Philosophy of Art_, Lanham, MD: Rowman and Littlefield.
-* Stock, Kathleen, and Thomson-Jones, Katherine, 2008, _New Waves in Aesthetics_, London: Palgrave Macmillan.
-* Tilghman, Benjamin, 1984, _But Is It Art?_, Oxford: Blackwell.
-* Walton, Kendall, 1997, “Review of _Art and the Aesthetic_,” _Philosophical Review_, 86: 97–101.
-* –––, 2007, “Aesthetics – What?, Why?, and Wherefore?” _Journal of Aesthetics and Art Criticism_, 65(2): 147–162.
-* Wicks, R., 1993, “ Hegel’s Aesthetics,” in F. Beiser (ed.), _Cambridge Companion to Hegel_, Cambridge: Cambridge University Press, pp. 348–377.
-* Wittgenstein, Ludwig, 1953, _Philosophical Investigations_, G.E.M. Anscombe and R. Rhees (eds.), G.E.M. Anscombe (trans.), Oxford: Blackwell.
-* –––, 1968, _Philosophical Investigations_, Oxford: Blackwell.
-* Weitz, Morris, 1956, “The Role of Theory in Aesthetics,” _Journal of Aesthetics and Art Criticism_, 15: 27–35.
-* Zangwill, Nick, 1995a, “Groundrules in the Philosophy of Art,” _Philosophy_, 70: 533–544.
-* –––, 1995b, “The Creative Theory of Art,” _American Philosophical Quarterly_, 32: 315–332
-* –––, 2001, _The Metaphysics of Beauty_, Ithaca: Cornell University Press.
-* Zemach, Eddy, 1997, _Real Beauty_, University Park, PA: Pennsylvania State University Press.
+* –––, 2005, *Aesthetics and the Philosophy of Art*, Lanham, MD: Rowman and Littlefield.
+* Stock, Kathleen, and Thomson-Jones, Katherine, 2008, *New Waves in Aesthetics*, London: Palgrave Macmillan.
+* Tilghman, Benjamin, 1984, *But Is It Art?*, Oxford: Blackwell.
+* Walton, Kendall, 1997, “Review of *Art and the Aesthetic*,” *Philosophical Review*, 86: 97–101.
+* –––, 2007, “Aesthetics – What?, Why?, and Wherefore?” *Journal of Aesthetics and Art Criticism*, 65(2): 147–162.
+* Wicks, R., 1993, “ Hegel’s Aesthetics,” in F. Beiser (ed.), *Cambridge Companion to Hegel*, Cambridge: Cambridge University Press, pp. 348–377.
+* Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, G.E.M. Anscombe and R. Rhees (eds.), G.E.M. Anscombe (trans.), Oxford: Blackwell.
+* –––, 1968, *Philosophical Investigations*, Oxford: Blackwell.
+* Weitz, Morris, 1956, “The Role of Theory in Aesthetics,” *Journal of Aesthetics and Art Criticism*, 15: 27–35.
+* Zangwill, Nick, 1995a, “Groundrules in the Philosophy of Art,” *Philosophy*, 70: 533–544.
+* –––, 1995b, “The Creative Theory of Art,” *American Philosophical Quarterly*, 32: 315–332
+* –––, 2001, *The Metaphysics of Beauty*, Ithaca: Cornell University Press.
+* Zemach, Eddy, 1997, *Real Beauty*, University Park, PA: Pennsylvania State University Press.
 
 ## Academic Tools
 
@@ -223,4 +222,4 @@ Monroe Beardsley 的定义认为，艺术品是“一种旨在提供具有明显
 [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [Plato: rhetoric and poetry](https://plato.stanford.edu/entries/plato-rhetoric/) | [Schopenhauer, Arthur](https://plato.stanford.edu/entries/schopenhauer/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-Thomas Adajian <[_adajiatr@jmu.edu_](mailto:adajiatr%40jmu%2eedu)>
+Thomas Adajian <[*adajiatr@jmu.edu*](mailto:adajiatr%40jmu%2eedu)>

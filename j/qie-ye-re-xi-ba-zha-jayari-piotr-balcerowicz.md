@@ -1,10 +1,9 @@
 # 伽耶惹悉·巴札 Jayarāśi (Piotr Balcerowicz)
 
-_首次发表于2011年1月19日，实质性修订于2020年9月30日。_
+*首次发表于2011年1月19日，实质性修订于2020年9月30日。*
 
 伽耶惹悉·巴札（Jayarāśi Bhaṭṭa），可能在公元 800-840 年间在印度南部繁荣，是一位印度哲学家，一位“合格的怀疑论者”，借助一种方法论怀疑论，与唯物主义者 Cārvāka / Lokāyata 思想学派有关，是印度最杰出的哲学著作之一《Tattvôpaplava-siṁha》（“\[所有]范畴的解体之狮”或“\[摧毁]范畴幻觉之狮”）的作者。他的主要观点是，使用印度认知程序传统采用的标准手段无法获得真知，因为我们首先应该正确定义有效认知程序的基本有效性标准，而这是不可能的，除非我们对现实有先前的真知，以便我们可以测试程序的有效性等。正如传统论证的那样，我们对现实和物体的认识取决于有效的认知程序。然而，正如 Jayarāśi 指出的那样，所有有效的认知程序要么根本有缺陷且最终不可靠，要么需要进一步的有效认知程序，而这些也需要等等。因此，在传统认识论模型中，我们既不能制定有效认知程序的适当定义，也不能定义现实是什么以及基本范畴是什么。他被不同地归类为怀疑论者、不可知论者或唯物主义者。
 
- 
 ***
 
 ## 1. 生平、作品和哲学派别
@@ -84,11 +83,11 @@ Sukhlāljī Saṁghavī和 Rasiklāl C. Pārīkh（1940 年：xi-xii）认为该
 
 看起来像是支持归谬法论证的众所周知的逻辑定律，即
 
-> \[(\~_p_→_q_) ∧ \~_q_] → _p_,
+> \[(\~*p*→*q*) ∧ \~*q*] → *p*,
 
 或者像其他典型的反证法定律一样，即，
 
-> \[(~~_p_​→~~​\~_q_~~​~~) ∧ (~~​_p_→~~_q_)] → _p_,
+> \[(~~*p_​→~~​\~*q*~~​~~) ∧ (~~​_p*→~~*q*)] → *p*,
 >
 > \[~~p → (q∧~~q)] → p，或者
 >
@@ -96,13 +95,13 @@ Sukhlāljī Saṁghavī和 Rasiklāl C. Pārīkh（1940 年：xi-xii）认为该
 
 伽耶惹悉·巴札的方法似乎起初与此密切相似。然而，他的方法在一个特定的方面有着显著的不同。首先，伽耶惹悉·巴札通过分析正面论点来推翻它们。其次，通过反证法或矛盾证明，即拒绝 p，不意味着承认~~p，即接受与 p 相反的积极事态。伽耶惹悉·巴札仅仅满足于拒绝一个论点，而不会提出自己的解决方案。换句话说，当伽耶惹悉·巴札通过证明论点 T 的结论 C1、C2、C3、... Cn 都是错误的（要么是假的，要么是教义上不可接受的），他并不承认相反的论点~~T，并不具有某种本体论的蕴涵关系。更好地描述他的方法应该是以下模式：
 
-> \[(_p_→_q_) ∧ \~_q_] → \~_p_,
+> \[(*p*→*q*) ∧ \~*q*] → \~*p*,
 >
-> \[(_p_→_q_) ∧ (_p_→\~_q_)] → \~_p_,
+> \[(*p*→*q*) ∧ (*p*→\~*q*)] → \~*p*,
 >
 > \[p → (q∧\~q)] → \~p, 或者
 >
-> \[_p_ → (_q_≡\~_q_)] → \~_p_ ,
+> \[*p* → (*q*≡\~*q*)] → \~*p* ,
 
 举个例子，伽耶惹悉·巴札首先巧妙地证明了普遍性的不存在，他提到了三种可能的结论：如果（T）普遍性存在，则（C1）普遍性与其所实例化的个体不同，（C2）它与个体不同，或者（C3）它在某些方面与个体不同，在其他方面与个体相同。然后，对这些选项进行进一步分析，最终证明它们都是错误的或不可能的。由于拒绝了 C1、C2 和 C3 这三个结论，最初的论点 T（“普遍性存在”）也被拒绝了。然而，他并没有说如果没有普遍性，那么到底存在什么。
 
@@ -146,64 +145,64 @@ Sukhlāljī Saṁghavī和 Rasiklāl C. Pārīkh（1940 年：xi-xii）认为该
 
 #### Sanskrit Works
 
-| \[AAV]  | _Abhisamayâlaṁkara-vṛtti_. Tripathi, Ram Shankar (ed.), _Abhisamayâlaṁkara-vṛtti sphuṭârtha_. Central Institute of Higher Tibetan Studies, Sarnath 1977.                                                                                                                                                                                                                                                  |
+| \[AAV]  | *Abhisamayâlaṁkara-vṛtti*. Tripathi, Ram Shankar (ed.), *Abhisamayâlaṁkara-vṛtti sphuṭârtha*. Central Institute of Higher Tibetan Studies, Sarnath 1977.                                                                                                                                                                                                                                                  |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \[AṣS]  | Vidyānanda Pātrakesarisvāmin: _Aṣṭa-sahasrī_. (1)Vaṁśīdhar (ed.): _Aṣṭa-sahasrī tārkika-cakra-cūḍā-maṇi-syādvāda-vidyāpatinā śrī-Vidyānanda-svāminā nirākṛta._ Nirṇaya-sāgara Press, Bombay 1915. (2)Darbārī Lāl Koṭhiyā; Brahmacārī Sandīpa Jain (eds.): _Tārkika-śiromaṇi ācārya vidyānanda-kṛtra Aṣṭa-sahasrī_. Jaina-vidyā Saṁsthāna, Digambara Jaina Atiśaya Kṣetra, Śrīmahāvīrajī (Rājasthān) 1997. |
-| \[AṣŚ]  | Akalaṅka: _Aṣṭa-śatī_. Nagin Shah (ed., tr.): _Samantabhadra’s Āptamīmāṁsā. Critique of an Authority \[Along with English Translation, Introduction, Notes and Akalaṅka’s Sanskrit Commentary Aṣṭaśatī]_. Sanskrit-Sanskriti Grantha-mālā 7, Dr. Jagruti Dilip Sheth, Ahmedabad 1999.                                                                                                                     |
-| \[MBh]  | Sukthankar, Vishnu S.: _Āraṇyakaparvan (Part 2). Being the Third Book of the Mahābhārata, the Great Epic of India_. Bhandrakar Oriental Research Institute, Poona 1942.                                                                                                                                                                                                                                   |
-| \[NBhū] | Bhāsarvajña: _Nyāya-bhūṣaṇa_. Svāmī Yogīndrānanda (ed.): _Śrīmad-ācārya-Bhāsarvajña-praṇītasya Nyāya-sārasya svôpajñaṁ vyākhyānaṁ Nyāya-bhūṣaṇam_. Ṣad-darśana Prakāśana Pratiṣṭhānam, Vāraṇasī 1968.                                                                                                                                                                                                     |
-| \[PrP]  | Vidyānanda Pātrakesarisvāmin: _Pramāṇa-parīkṣā_. Gajādhar Lāl Jain (ed.): _Śrīmad-Samaṁtabhdra-svāmi-viracitā Āpta-mīmāṁsā syād-vāda-vidyāpati-śrī-Vidyānaṁda-svāmi-viracitā Pramāṇa-parīkṣā ca_. Bhāratīya-Jaina-Siddhāṁta-prakāśinī Saṁsthā, Kāśī 1914.                                                                                                                                                 |
-| \[SVM]  | Malliṣeṇa-sūri: _Syād-vāda-mañjarī_. A.B. Dhruva (ed.), _Syād-vāda-mañjarī of Malliṣeṇa with the Anya-yoga-vyavaccheda-dvātriṁśikā of Hemacandra_. Bombay Sanskrit and Prakrit Series 83, Bombay 1933.                                                                                                                                                                                                    |
-| \[SVi]  | Akalaṅka: _Siddhi-viniścaya_. Mahendrakumār Jain (ed.): _Siddhi-viniścaya of Akalaṅka edited with the commentary Siddhi-viniścaya-ṭīkā of Anantavīrya_. 2 Vols. Bhāratīya Jñānapīṭha Prakāśana, Calcutta, Vārāṇasī 1959.                                                                                                                                                                                  |
-| \[SViṬ] | Anantavīrya: _Siddhi-viniścaya-ṭīkā_. Mahendrakumār Jain (ed.): _Siddhi-viniścaya of Akalaṅka edited with the commentary Siddhi-viniścaya-ṭīkā of Anantavīrya_. 2 Vols. Bhāratīya Jñānapīṭha Prakāśana, Vārāṇasī 1959.                                                                                                                                                                                    |
-| \[ŚVS]  | Haribhadra-sūri: _Śāstra-vārtā-samuccaya_. K.K. Dixit: _The Śāstravārtāsamuccaya of Ācārya Haribhadrasūri with Hindi Translation, Notes and Introduction_. LD Series 22, Lalbhai Dalpathai, Bharatiya Sanskriti Vidyamandira, Ahmedabad 1969.                                                                                                                                                             |
-| \[TŚVA] | Vidyānanda Pātrakesarisvāmin: _Tattvârtha-śloka-vārttikâlaṁkara_. Manoharalāl, Ramacandra Nātha Raṅgaji (ed.): _Śrīmad-Vidyānandi-svāmi-viracitaṁ  Tattvârtha-śloka-vārttikâlaṁkaram_. Nirṇāya Sāgara Press, Bombay 1918.                                                                                                                                                                                 |
+| \[AṣS]  | Vidyānanda Pātrakesarisvāmin: *Aṣṭa-sahasrī*. (1)Vaṁśīdhar (ed.): *Aṣṭa-sahasrī tārkika-cakra-cūḍā-maṇi-syādvāda-vidyāpatinā śrī-Vidyānanda-svāminā nirākṛta.* Nirṇaya-sāgara Press, Bombay 1915. (2)Darbārī Lāl Koṭhiyā; Brahmacārī Sandīpa Jain (eds.): *Tārkika-śiromaṇi ācārya vidyānanda-kṛtra Aṣṭa-sahasrī*. Jaina-vidyā Saṁsthāna, Digambara Jaina Atiśaya Kṣetra, Śrīmahāvīrajī (Rājasthān) 1997. |
+| \[AṣŚ]  | Akalaṅka: *Aṣṭa-śatī*. Nagin Shah (ed., tr.): *Samantabhadra’s Āptamīmāṁsā. Critique of an Authority \[Along with English Translation, Introduction, Notes and Akalaṅka’s Sanskrit Commentary Aṣṭaśatī]*. Sanskrit-Sanskriti Grantha-mālā 7, Dr. Jagruti Dilip Sheth, Ahmedabad 1999.                                                                                                                     |
+| \[MBh]  | Sukthankar, Vishnu S.: *Āraṇyakaparvan (Part 2). Being the Third Book of the Mahābhārata, the Great Epic of India*. Bhandrakar Oriental Research Institute, Poona 1942.                                                                                                                                                                                                                                   |
+| \[NBhū] | Bhāsarvajña: *Nyāya-bhūṣaṇa*. Svāmī Yogīndrānanda (ed.): *Śrīmad-ācārya-Bhāsarvajña-praṇītasya Nyāya-sārasya svôpajñaṁ vyākhyānaṁ Nyāya-bhūṣaṇam*. Ṣad-darśana Prakāśana Pratiṣṭhānam, Vāraṇasī 1968.                                                                                                                                                                                                     |
+| \[PrP]  | Vidyānanda Pātrakesarisvāmin: *Pramāṇa-parīkṣā*. Gajādhar Lāl Jain (ed.): *Śrīmad-Samaṁtabhdra-svāmi-viracitā Āpta-mīmāṁsā syād-vāda-vidyāpati-śrī-Vidyānaṁda-svāmi-viracitā Pramāṇa-parīkṣā ca*. Bhāratīya-Jaina-Siddhāṁta-prakāśinī Saṁsthā, Kāśī 1914.                                                                                                                                                 |
+| \[SVM]  | Malliṣeṇa-sūri: *Syād-vāda-mañjarī*. A.B. Dhruva (ed.), *Syād-vāda-mañjarī of Malliṣeṇa with the Anya-yoga-vyavaccheda-dvātriṁśikā of Hemacandra*. Bombay Sanskrit and Prakrit Series 83, Bombay 1933.                                                                                                                                                                                                    |
+| \[SVi]  | Akalaṅka: *Siddhi-viniścaya*. Mahendrakumār Jain (ed.): *Siddhi-viniścaya of Akalaṅka edited with the commentary Siddhi-viniścaya-ṭīkā of Anantavīrya*. 2 Vols. Bhāratīya Jñānapīṭha Prakāśana, Calcutta, Vārāṇasī 1959.                                                                                                                                                                                  |
+| \[SViṬ] | Anantavīrya: *Siddhi-viniścaya-ṭīkā*. Mahendrakumār Jain (ed.): *Siddhi-viniścaya of Akalaṅka edited with the commentary Siddhi-viniścaya-ṭīkā of Anantavīrya*. 2 Vols. Bhāratīya Jñānapīṭha Prakāśana, Vārāṇasī 1959.                                                                                                                                                                                    |
+| \[ŚVS]  | Haribhadra-sūri: *Śāstra-vārtā-samuccaya*. K.K. Dixit: *The Śāstravārtāsamuccaya of Ācārya Haribhadrasūri with Hindi Translation, Notes and Introduction*. LD Series 22, Lalbhai Dalpathai, Bharatiya Sanskriti Vidyamandira, Ahmedabad 1969.                                                                                                                                                             |
+| \[TŚVA] | Vidyānanda Pātrakesarisvāmin: *Tattvârtha-śloka-vārttikâlaṁkara*. Manoharalāl, Ramacandra Nātha Raṅgaji (ed.): *Śrīmad-Vidyānandi-svāmi-viracitaṁ  Tattvârtha-śloka-vārttikâlaṁkaram*. Nirṇāya Sāgara Press, Bombay 1918.                                                                                                                                                                                 |
 
 #### Critical Editions of Primary Texts
 
-| \[TUP] | Saṁghavī, Sukhlāljī; Pārīkh, Rasiklāl C. (eds.): _Tattvopaplavasimha of Shri Jayarasi Bhatta. Edited with an introduction and indices_. Gaekwad Oriental Series 87, Oriental Institute, Baroda 1940 \[Reprinted: Bauddha Bharati Series 20, Varanasi 1987]. \[The edition of the complete Sanskrit text]. |
+| \[TUP] | Saṁghavī, Sukhlāljī; Pārīkh, Rasiklāl C. (eds.): *Tattvopaplavasimha of Shri Jayarasi Bhatta. Edited with an introduction and indices*. Gaekwad Oriental Series 87, Oriental Institute, Baroda 1940 \[Reprinted: Bauddha Bharati Series 20, Varanasi 1987]. \[The edition of the complete Sanskrit text]. |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-* Franco, Eli, 1987, _Perception, Knowledge and Disbelief: A Study of Jayarāśi’s Scepticism_ (Alt- und Neu-Indische Studien 35), Stuttgart: Franz Steiner Verlag \[Reprinted: Motilal Banarsidass, Delhi 1994]. \[The edition and English translation of the first chapter of the text].
+* Franco, Eli, 1987, *Perception, Knowledge and Disbelief: A Study of Jayarāśi’s Scepticism* (Alt- und Neu-Indische Studien 35), Stuttgart: Franz Steiner Verlag \[Reprinted: Motilal Banarsidass, Delhi 1994]. \[The edition and English translation of the first chapter of the text].
 
 #### Translations of Primary Texts
 
-* Franco, Eli, 1987, _Perception, Knowledge and Disbelief: A Study of Jayarāśi’s Scepticism_ (Alt- und Neu-Indische Studien 35), Stuttgart: Franz Steiner Verlag \[Reprinted: Motilal Banarsidass, Delhi 1994]. \[The edition and English translation of the first chapter of the text].
-* –––, 1994, the reprint of Franco (1987), augmented with “Appendix – Bhāsarvajña and Jayarāśi:  The Refutation of Scepticism in the Nyāyabhūṣana”, pp. 553–586 \[reworked version of the paper: “Bhāsarvajña and Jayarāśi:  The Refutation of Scepticism in the Nyāyabhūṣana”, _Berliner Indologische Studien_ 3 (1987), pp. 23–49].
-* Jha, V.N., 2013, _Tattvopaplavasiṁha of Jayarāśibhaṭṭa. English Translation_. Ernakulam: Chinmaya International Foundation Shodha Sansthan.
-* Solomon, Esther, 2010, _Jayarāśi Bhaṭṭa’s  Tattvopaplavasiṁha (An Introduction, Sanskrit Text,English Translation & Notes)_. Delhi: Parimal Publications.
+* Franco, Eli, 1987, *Perception, Knowledge and Disbelief: A Study of Jayarāśi’s Scepticism* (Alt- und Neu-Indische Studien 35), Stuttgart: Franz Steiner Verlag \[Reprinted: Motilal Banarsidass, Delhi 1994]. \[The edition and English translation of the first chapter of the text].
+* –––, 1994, the reprint of Franco (1987), augmented with “Appendix – Bhāsarvajña and Jayarāśi:  The Refutation of Scepticism in the Nyāyabhūṣana”, pp. 553–586 \[reworked version of the paper: “Bhāsarvajña and Jayarāśi:  The Refutation of Scepticism in the Nyāyabhūṣana”, *Berliner Indologische Studien* 3 (1987), pp. 23–49].
+* Jha, V.N., 2013, *Tattvopaplavasiṁha of Jayarāśibhaṭṭa. English Translation*. Ernakulam: Chinmaya International Foundation Shodha Sansthan.
+* Solomon, Esther, 2010, *Jayarāśi Bhaṭṭa’s  Tattvopaplavasiṁha (An Introduction, Sanskrit Text,English Translation & Notes)*. Delhi: Parimal Publications.
 
 ### Secondary Literature
 
-* Balcerowicz, Piotr,  2019, “Is There Anything Like Indian Logic? _Anumāna_, ‘Inference’ and Inference in the Critique of Jayarāśi Bhaṭṭa”, _Journal of Indian Philosophy_ 47: 917–946, DOI  10.1007/s10781-019-09400-6.
-* –––, 2020, “Jayarāśi Bhaṭṭa: A Sceptic or Materialist?”, _Journal of Indian Philosophy_ 48: 565–604, DOI 10.1007/s10781-020-09431-4.
-* Bhattacharya, Ramkrishna, 2009, _Studies on the Cārvāka/Lokāyata_. Firenze: Società Editrice Fiorentina \[Indian reprint: New Delhi: Manohar Books, 2010].
-* –––, “A History of Materialism: From Ajita To Udbhaṭa”, in: Ganeri, Jonardon (ed.) (2017) _The Oxford Handbook of Indian Philosophy_. Oxford: Oxford University Press: 344–359.
-* –––, 2020, _More Studies on the Cārvāka/Lokāyata_. Newcastle-upon-Tyne: Cambridge Scholars Publisher.
-* Campawat, Narayan, 1995, “Jayarāśi Bhaṭṭa”, in Ian McGready (ed.), _Great Thinkers of the Eastern World_, Harper Collins, New York, 202–206.
-* Chattopadhyaya, Debiprasad, 1959, _Lokayata. A Study in Ancient Indian Materialism_, New Delhi: People’s Publishing House \[Reprinted: New Delhi 1973, 1992].
-* –––, 1989, _In defence of materialism in ancient India: A Study of Carvaka/Lokayata_, New Delhi: People’s Publishing House; ‘Chapter 2.6: Jayarāśi’, p. 36 ff.
-* Chattopadhyaya, Debiprasad; and Gangopadhyaya, Mrinal Kanti  (eds.), 1990, _Cārvāka/Lokāyata: An Anthology of Source Materials and Some Recent Studies_. New Delhi: Indian Council of Philosophical Research.
-* Franco, Eli, 1987, _Perception, Knowledge and Disbelief: A Study of Jayarāśi’s Scepticism_, Motilal Banarsidass, Delhi 1994 \[1st edition: _Alt- und Neu-Indische Studien_ 35, Stuttgart: Franz Steiner Verlag, 1987]. \[The second edition contains an important ‘Preface to the second edition’].
-* Gokhale, Pradeep P., 2015, _Lokāyata/Cārvāka: A Philosophical Inquiry_. New Delhi: Oxford University Press.
-* Hankinson, R.J., 1995, _The Sceptics. The Arguments of the Philosophers_, London/New York: Routledge.
-* Jayatilleke, K\[ulatissa] N\[anda], 1963, _Early Buddhist theory of knowledge_. London: G. Allen & Unwin.
-* Joshi, Shubhada A., 1995, _Lokāyata – A Critical Study_ (Indian Spiritualism Reaffirmed), (Sri Garib Das Oriental Series 180), Delhi: Sri Satguru Publications.
-* King, Richard, 1999, _Indian philosophy: an introduction to Hindu and Buddhist thought_, Edinburgh: Edinburgh University Press.
-* Klein, Peter D., 1981, _Certainty: A Refutation of Scepticism_, Minneapolis: University of Minnesota Press.
-* Koller, John M., 1977, “Skepticism in Early Indian Thought”, _Philosophy East and West_ 27(2): 155–164.
-* Matilal, Bimal Krishna, 1985, “Scepticism and Mysticism”, _Journal of the American Oriental Society_ 105(3) \[Indological Studies Dedicated to Daniel H.H. Ingalls]: 479–484.
-* –––, 1986, _Perception: An Essay on Classical Indian Theories of Knowledge_. Oxford: Clarendon Press.
-* Mills, Ethan, 2013, _The Dependent Origination of Skepticism in Classical India: An Experiment in Cross-cultural Philosophy_, Ph.D. Dissertation, Department of Philosophy, University of New Mexico, [available online](http://repository.unm.edu/handle/1928/23140).
-* –––, 2015, “Jayarāśi’s Delightful Destruction of Epistemology”, _Philosophy East and West_, 65(2): 498– 541.
-* –––, 2018, _Three Pillars of Skepticism in Classical India_. Lanham: Lexington Books.
-* Preisendanz, Karin C. and Eli Franco, 1998, “Materialism, Indian School of”, in Edward Craig (ed.), _Routledge Encyclopedia of Philosophy_, London: Routledge, 178–181.
-* Ruben, Walter, 1958, “Über den Tattvopaplavasiṁha des Jayarāśi Baṭṭa, eine agnostizistische Erkenntniskritik”, _Wiener Zeitschrift für die Kunde Süd- und Ostasiens_, 2: 140–153.
-* Saṁghavī, Sukhlāl, 1941, “Tattvṁpvopaplāva-siṁha – Cārvāka darśan kā ek apūrv granth”, _Bhāratīya Vidyā_, 2(1).
-* Saṁghavī, Sukhlāljī, and Rasiklāl C. Pārīkh, 1940, ‘Introduction’ to _Tattvopaplavasimha of Shri Jayarasi Bhatta_ (Gaekwad Oriental Series 87), Baroda: Oriental Institute, i-xiv \[Reprinted: Bauddha Bharati Series 20, Varanasi 1987].
-* Tripāṭhī, Chandrabhāl, 1975, _Catalogue of the Jaina manuscripts at Strasbourg_, Leiden: E.J. Brill.
-* Warder, A.K., 1956, “On the Relationships Between Early Buddhism and Other Contemporary Systems”,  _Bulletin of the School of Oriental and African Studies_ 18: 43–63.
-* Werner, Karel, 1995, “Review of Eli Franco: _Perception, knowledge and disbelief: a study of Jayarāśi’s scepticism_, Delhi, Motilal Banarsidass 1994”, _Bulletin of the School of Oriental and African Studies_, 58(3): 578.
+* Balcerowicz, Piotr,  2019, “Is There Anything Like Indian Logic? *Anumāna*, ‘Inference’ and Inference in the Critique of Jayarāśi Bhaṭṭa”, *Journal of Indian Philosophy* 47: 917–946, DOI  10.1007/s10781-019-09400-6.
+* –––, 2020, “Jayarāśi Bhaṭṭa: A Sceptic or Materialist?”, *Journal of Indian Philosophy* 48: 565–604, DOI 10.1007/s10781-020-09431-4.
+* Bhattacharya, Ramkrishna, 2009, *Studies on the Cārvāka/Lokāyata*. Firenze: Società Editrice Fiorentina \[Indian reprint: New Delhi: Manohar Books, 2010].
+* –––, “A History of Materialism: From Ajita To Udbhaṭa”, in: Ganeri, Jonardon (ed.) (2017) *The Oxford Handbook of Indian Philosophy*. Oxford: Oxford University Press: 344–359.
+* –––, 2020, *More Studies on the Cārvāka/Lokāyata*. Newcastle-upon-Tyne: Cambridge Scholars Publisher.
+* Campawat, Narayan, 1995, “Jayarāśi Bhaṭṭa”, in Ian McGready (ed.), *Great Thinkers of the Eastern World*, Harper Collins, New York, 202–206.
+* Chattopadhyaya, Debiprasad, 1959, *Lokayata. A Study in Ancient Indian Materialism*, New Delhi: People’s Publishing House \[Reprinted: New Delhi 1973, 1992].
+* –––, 1989, *In defence of materialism in ancient India: A Study of Carvaka/Lokayata*, New Delhi: People’s Publishing House; ‘Chapter 2.6: Jayarāśi’, p. 36 ff.
+* Chattopadhyaya, Debiprasad; and Gangopadhyaya, Mrinal Kanti  (eds.), 1990, *Cārvāka/Lokāyata: An Anthology of Source Materials and Some Recent Studies*. New Delhi: Indian Council of Philosophical Research.
+* Franco, Eli, 1987, *Perception, Knowledge and Disbelief: A Study of Jayarāśi’s Scepticism*, Motilal Banarsidass, Delhi 1994 \[1st edition: *Alt- und Neu-Indische Studien* 35, Stuttgart: Franz Steiner Verlag, 1987]. \[The second edition contains an important ‘Preface to the second edition’].
+* Gokhale, Pradeep P., 2015, *Lokāyata/Cārvāka: A Philosophical Inquiry*. New Delhi: Oxford University Press.
+* Hankinson, R.J., 1995, *The Sceptics. The Arguments of the Philosophers*, London/New York: Routledge.
+* Jayatilleke, K\[ulatissa] N\[anda], 1963, *Early Buddhist theory of knowledge*. London: G. Allen & Unwin.
+* Joshi, Shubhada A., 1995, *Lokāyata – A Critical Study* (Indian Spiritualism Reaffirmed), (Sri Garib Das Oriental Series 180), Delhi: Sri Satguru Publications.
+* King, Richard, 1999, *Indian philosophy: an introduction to Hindu and Buddhist thought*, Edinburgh: Edinburgh University Press.
+* Klein, Peter D., 1981, *Certainty: A Refutation of Scepticism*, Minneapolis: University of Minnesota Press.
+* Koller, John M., 1977, “Skepticism in Early Indian Thought”, *Philosophy East and West* 27(2): 155–164.
+* Matilal, Bimal Krishna, 1985, “Scepticism and Mysticism”, *Journal of the American Oriental Society* 105(3) \[Indological Studies Dedicated to Daniel H.H. Ingalls]: 479–484.
+* –––, 1986, *Perception: An Essay on Classical Indian Theories of Knowledge*. Oxford: Clarendon Press.
+* Mills, Ethan, 2013, *The Dependent Origination of Skepticism in Classical India: An Experiment in Cross-cultural Philosophy*, Ph.D. Dissertation, Department of Philosophy, University of New Mexico, [available online](http://repository.unm.edu/handle/1928/23140).
+* –––, 2015, “Jayarāśi’s Delightful Destruction of Epistemology”, *Philosophy East and West*, 65(2): 498– 541.
+* –––, 2018, *Three Pillars of Skepticism in Classical India*. Lanham: Lexington Books.
+* Preisendanz, Karin C. and Eli Franco, 1998, “Materialism, Indian School of”, in Edward Craig (ed.), *Routledge Encyclopedia of Philosophy*, London: Routledge, 178–181.
+* Ruben, Walter, 1958, “Über den Tattvopaplavasiṁha des Jayarāśi Baṭṭa, eine agnostizistische Erkenntniskritik”, *Wiener Zeitschrift für die Kunde Süd- und Ostasiens*, 2: 140–153.
+* Saṁghavī, Sukhlāl, 1941, “Tattvṁpvopaplāva-siṁha – Cārvāka darśan kā ek apūrv granth”, *Bhāratīya Vidyā*, 2(1).
+* Saṁghavī, Sukhlāljī, and Rasiklāl C. Pārīkh, 1940, ‘Introduction’ to *Tattvopaplavasimha of Shri Jayarasi Bhatta* (Gaekwad Oriental Series 87), Baroda: Oriental Institute, i-xiv \[Reprinted: Bauddha Bharati Series 20, Varanasi 1987].
+* Tripāṭhī, Chandrabhāl, 1975, *Catalogue of the Jaina manuscripts at Strasbourg*, Leiden: E.J. Brill.
+* Warder, A.K., 1956, “On the Relationships Between Early Buddhism and Other Contemporary Systems”,  *Bulletin of the School of Oriental and African Studies* 18: 43–63.
+* Werner, Karel, 1995, “Review of Eli Franco: *Perception, knowledge and disbelief: a study of Jayarāśi’s scepticism*, Delhi, Motilal Banarsidass 1994”, *Bulletin of the School of Oriental and African Studies*, 58(3): 578.
 
 ## Academic Tools
 
@@ -222,4 +221,4 @@ Sukhlāljī Saṁghavī和 Rasiklāl C. Pārīkh（1940 年：xi-xii）认为该
 [Early Modern India, analytic philosophy in](https://plato.stanford.edu/entries/early-modern-india/) | [Madhyamaka](https://plato.stanford.edu/entries/madhyamaka/) | [perception: the problem of](https://plato.stanford.edu/entries/perception-problem/) | [physicalism](https://plato.stanford.edu/entries/physicalism/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [truth](https://plato.stanford.edu/entries/truth/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Piotr Balcerowicz <[_piotrbalcerowicz1@gmail.com_](mailto:piotrbalcerowicz1%40gmail%2ecom)>
+Piotr Balcerowicz <[*piotrbalcerowicz1@gmail.com*](mailto:piotrbalcerowicz1%40gmail%2ecom)>

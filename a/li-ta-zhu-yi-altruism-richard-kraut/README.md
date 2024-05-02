@@ -1,6 +1,6 @@
 # 利他主义 altruism (Richard Kraut)
 
-_首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 日_
+*首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 日*
 
 行为通常被描述为利他主义，当它是出于一种希望为他人谋福利的动机，而不是为了自己的利益。这个术语被用作“自私”或“利己”或“自我主义”的对立面，这些词用来描述仅出于为自己谋利益的行为。而“恶意”则表示更大的对比：它适用于仅仅出于伤害他人的愿望而表现出的行为。
 
@@ -9,7 +9,6 @@ _首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 �
 本文将讨论利他主义的前一种意义，即有意识地为了帮助他人而采取行动，而不是为了自己的利益。关于利他主义，有大量且不断增长的实证文献，其中探讨了人类利他主义是否具有进化或生物学基础，以及非人类物种是否表现出类似的行为。这些问题在《利他主义的实证方法》和《生物利他主义》的条目中有所涉及。
 
 通常认为，我们至少应该在某种程度上表现出利他主义。但是到什么程度呢？利他主义一定值得赞赏吗？为什么一个人应该为了他人而行动，而不仅仅是为了自己的利益？实际上，人们是否真的出于利他主义行动，还是所有行为最终都是出于自私？
-
 
 ***
 
@@ -41,7 +40,7 @@ _首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 �
 
 正如这些例子所示，利他主义的概念并不适用于对他人的每一种道德动机的对待，而是更狭义地适用于出于对他人福祉的关心而采取的行动。利他主义的行为可以被描述为慈善的、仁慈的或友善的，因为这些词也传达了为他人的利益而行动的思想，而不仅仅是对他人的正确行为。
 
-通常，受到利他行为“目标”的个体之所以被选择接受这种待遇，是因为施行者和受益者之间存在个人关系。如果_A_在_B_还是个孩子的时候对他非常友善，而后来_B_有能力帮助_A_摆脱困境，那么_B_对_A_的帮助是出于利他动机，尽管他们共同的过去解释了为什么_B_选择帮助_A_（而不是一个需要帮助的陌生人）。在这里，我们假设_B_并不是仅仅为了自己（_B_）的利益而促进_A_的幸福。如果是这样的话，_B_帮助_A_并不是为了_A_自己的利益，而只是为了_B_自己的利益。 （进一步的假设是，_B_的动机不仅仅是因为他觉得自己欠_A_的回报；相反，他不仅感到对_A_有所负债，而且真正关心他。）我们以利他方式对待的人通常是那些我们有感情依恋或感激之情的人。但这并不是唯一的可能性。有些利他行为仅仅是出于对受益者极度需要的认识，施行者和受益者可能是彼此陌生的人。
+通常，受到利他行为“目标”的个体之所以被选择接受这种待遇，是因为施行者和受益者之间存在个人关系。如果_A_在_B_还是个孩子的时候对他非常友善，而后来_B_有能力帮助_A_摆脱困境，那么_B_对_A_的帮助是出于利他动机，尽管他们共同的过去解释了为什么_B_选择帮助_A_（而不是一个需要帮助的陌生人）。在这里，我们假设_B_并不是仅仅为了自己（*B*）的利益而促进_A_的幸福。如果是这样的话，_B_帮助_A_并不是为了_A_自己的利益，而只是为了_B_自己的利益。 （进一步的假设是，_B_的动机不仅仅是因为他觉得自己欠_A_的回报；相反，他不仅感到对_A_有所负债，而且真正关心他。）我们以利他方式对待的人通常是那些我们有感情依恋或感激之情的人。但这并不是唯一的可能性。有些利他行为仅仅是出于对受益者极度需要的认识，施行者和受益者可能是彼此陌生的人。
 
 一个行为出于利他动机并不意味着它是合理或值得称赞的。_A_可能会“错误地”认为她正在提高_B_的幸福；_B_也可能会“错误地”认为她从_A_的努力中受益。我们可以说，在这种情况下，_A_的动机是令人钦佩的，但仍然可以判断她不应该按照她的方式行事。
 
@@ -101,7 +100,7 @@ _首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 �
 
 然而，值得注意的是，这个论证的第一个前提也是有问题的。
 
-这个论点认为我们行动的动机总是出于欲望，只有当我们对欲望有一个很好的理解时才应该接受。如果将欲望简单地等同于任何内在状态，这个论断“我们行动的动机总是出于欲望”，在更充分地阐述时就成了一个重言式。它说：“推动我们行动的内在状态总是推动我们行动的内在状态”。这不是对人类心理学的实质性洞察，而是一个等同性的陈述，形式为“_A_ = _A_”。我们可能以为通过被告知“推动人们行动的总是欲望”来学到了一些关于行动原因的东西，但如果“欲望”只是一个用来描述推动我们行动的任何东西的术语，那我们就什么也没学到（参见纳格尔 1970 年：27-32）。
+这个论点认为我们行动的动机总是出于欲望，只有当我们对欲望有一个很好的理解时才应该接受。如果将欲望简单地等同于任何内在状态，这个论断“我们行动的动机总是出于欲望”，在更充分地阐述时就成了一个重言式。它说：“推动我们行动的内在状态总是推动我们行动的内在状态”。这不是对人类心理学的实质性洞察，而是一个等同性的陈述，形式为“*A* = *A*”。我们可能以为通过被告知“推动人们行动的总是欲望”来学到了一些关于行动原因的东西，但如果“欲望”只是一个用来描述推动我们行动的任何东西的术语，那我们就什么也没学到（参见纳格尔 1970 年：27-32）。
 
 这里有一种不同的表达方式：根据“欲望”和“想要”这两个词的常用方式，说“我不想做这个，但我认为我应该做”。这是我们在认为自己有一个不愉快的责任或义务，或者面对一个我们预计会很困难和有压力的挑战时经常会说的话。在这些情况下，我们并不渴望我们前进的目标。因此，根据“欲望”这个词的常用方式，说我们行动的动机总是出于欲望是完全错误的。现在，寻求对这个教条进行先验辩护的心理利己主义者可能会说：
 
@@ -155,9 +154,9 @@ _首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 �
 
 ### 4.1 利他主义
 
-“利他主义”这个术语经常被哲学家用来指代希腊和罗马古代所有或主要哲学家的伦理取向。“_利他主义_”是他们用来描述最高善的普通希腊词汇。正如亚里士多德在《Nicomachean Ethics》开头所观察到的那样，每当我们行动时，我们都追求某种善——但不同的善并不处于同一水平。较低级的善是为了更有价值的目标而进行的，而这些目标又是为了实现更好的善而追求的。这种价值的层次不能无限延续——一个生活必须有一些终极目标，一些本身有价值而不是为了更好的东西而存在的东西。亚里士多德承认，这个目标应该是一个备受争议的问题；但无论如何，每个人都使用“_利他主义_”这个词来指代那个最高善。（“幸福”是标准翻译，但“幸福”和“繁荣”可能更接近希腊词的含义。）
+“利他主义”这个术语经常被哲学家用来指代希腊和罗马古代所有或主要哲学家的伦理取向。“*利他主义*”是他们用来描述最高善的普通希腊词汇。正如亚里士多德在《Nicomachean Ethics》开头所观察到的那样，每当我们行动时，我们都追求某种善——但不同的善并不处于同一水平。较低级的善是为了更有价值的目标而进行的，而这些目标又是为了实现更好的善而追求的。这种价值的层次不能无限延续——一个生活必须有一些终极目标，一些本身有价值而不是为了更好的东西而存在的东西。亚里士多德承认，这个目标应该是一个备受争议的问题；但无论如何，每个人都使用“*利他主义*”这个词来指代那个最高善。（“幸福”是标准翻译，但“幸福”和“繁荣”可能更接近希腊词的含义。）
 
-亚里士多德并没有说一个人的最终目标应该只是自己的幸福（_幸福_），而不是别人的。相反，他认为_共同的_善（整个政治社区的善）优于单个个体的善。然而，在古代伦理学者中，普遍认为亚里士多德和其他主要的道德哲学家假设一个人的最终目标应该_仅仅_是自己的幸福。
+亚里士多德并没有说一个人的最终目标应该只是自己的幸福（*幸福*），而不是别人的。相反，他认为_共同的_善（整个政治社区的善）优于单个个体的善。然而，在古代伦理学者中，普遍认为亚里士多德和其他主要的道德哲学家假设一个人的最终目标应该_仅仅_是自己的幸福。
 
 这是一个不合理的假设吗？这是现代道德哲学许多体系的指责，但我们必须小心，不要将希腊和罗马伦理学归因于极端的自私。一个看到这是不公平的方法是认识到亚里士多德认为我们出于他人的缘故而爱他人是多么重要。这是他在《Nicomachean Ethics》的第八和第九册中对友谊和爱的长篇讨论的关键要素。在那里，他认为（i）友谊是美好生活的一个要素，（ii）要成为某人的朋友（或者至少是最好的朋友），就不能将他视为自己利益或自己快乐的一种手段。他通过补充说，在最好的友谊中，每个人都因对方的品德卓越而钦佩对方，并因此受益。因此，很明显，他明确谴责那些将他人视为自己目的的手段的人。因此，即使根据亚里士多德的说法，一个人的最终目标应该是自己的幸福（而不是别人的），他将这一点与否认将他人的善仅仅作为实现自己目的的手段相结合。
 
@@ -189,7 +188,7 @@ _首次发布于 2016 年 8 月 25 日；实质性修订于 2020 年 8 月 31 �
 
 显然，利他主义没有意识到每个人与自己的幸福有一种特殊关系，这种关系与她与他人的幸福有所不同。当我们每个人成年后，通常都要承担起照顾自己福祉的特殊责任。年幼的孩子不被期望能够掌控自己的生活；他们还没有能力扮演这个角色。但是他们接受教育的目的是培养他们成为成年人后能够为自己负责的人。一个完全成熟的人被其他人合理地期望关心某个特定的人——也就是她自己。她有权自主决定自己的生活，但对他人的生活没有同样的权力和程度。如果她想要奉献自己给他人，她不能简单地这样做，而是需要得到他们的许可，或者采取其他措施使得她进入他们的生活是可接受的。相比之下，利他主义认为所有成年人对所有人的幸福都有同样的责任。它没有认真对待我们的社会关系是由一种分工来管理的，这种分工要求每个人对自己以及某些其他人（比如自己的孩子、朋友等）负有特殊责任。
 
-根据上述对公正性的较弱解释，道德规则反映了这种分工。（“较弱解释”指的是道德思维避免自我中心化的论点，因为它坚持适用于所有人的一套规则或准则。）例如，考虑我们通常有的帮助他人的义务，即使他们是陌生人。如果有人需要帮助，并请求你的协助，那就给了你一个帮助他的理由，你应该这样做，_前提是遵守这种请求不过于繁重_。请注意逃避条款：它在帮助他人的义务中体现了每个人对自己生活的重要程度的认可。常识道德假设我们对他人的所欠可能需要我们牺牲一些自己的利益，但在日常生活中，牺牲的程度应该在一定的限度内，这样我们才能充分利用作为成年人所赋予我们的责任来追求自己的利益。道德规则在自我利益和他人利益之间取得的平衡是使这些规则能够被认可和接受为适当的原因。这些规则使我们有自由去自愿做出更大的牺牲；但除非在特殊情况下（战争、灾难、紧急情况），我们不需要做出这样的更大牺牲。
+根据上述对公正性的较弱解释，道德规则反映了这种分工。（“较弱解释”指的是道德思维避免自我中心化的论点，因为它坚持适用于所有人的一套规则或准则。）例如，考虑我们通常有的帮助他人的义务，即使他们是陌生人。如果有人需要帮助，并请求你的协助，那就给了你一个帮助他的理由，你应该这样做，*前提是遵守这种请求不过于繁重*。请注意逃避条款：它在帮助他人的义务中体现了每个人对自己生活的重要程度的认可。常识道德假设我们对他人的所欠可能需要我们牺牲一些自己的利益，但在日常生活中，牺牲的程度应该在一定的限度内，这样我们才能充分利用作为成年人所赋予我们的责任来追求自己的利益。道德规则在自我利益和他人利益之间取得的平衡是使这些规则能够被认可和接受为适当的原因。这些规则使我们有自由去自愿做出更大的牺牲；但除非在特殊情况下（战争、灾难、紧急情况），我们不需要做出这样的更大牺牲。
 
 到目前为止，我们已经考察了三种利他主义的方法，它们对于“为什么应该为了他人而行动，而不仅仅为了自己的利益？”这个问题给出了三个相当不同的答案
 
@@ -291,73 +290,73 @@ Nagel 面临的问题是如何解释为什么自利并不经常被无关主体�
 
 ## Bibliography
 
-* Annas, J., 1993, _The Morality of Happiness_, Oxford: Oxford University Press.
-* Aristotle, _Nicomachean Ethics_, translated with introduction and notes by C.D.C. Reeve, Indianapolis: Hackett, 2014.
-* Arpaly, N. and T. Schroeder, 2014, _In Praise of Desire_, New York: Oxford University Press.
-* Badhwar, Neera K., 2014, _Well-Being: Happiness in a Worthwhile Life_, New York: Oxford University Press.
-* Batson, C. Donald, 2011, _Altruism in Humans_, New York: Oxford University Press.
-* Bentham, Jeremy, 1970 \[1789], _An Introduction to the Principles of Morals and Legislation_, London: Athlone Press, first published 1789.
-* Blackburn, Simon, 2001, _Ruling Passions: A Theory of Practical Reasoning_, Oxford: Clarendon Press.
-* Blum, Lawrence, 1980, _Friendship, Altruism and Morality_, London: Routledge & Kegan Paul.
-* Bradley, Ben, 2009, _Well-Being and Death_, Oxford: Oxford University Press.
-* Brady, Michael S., 2013, _Emotional Insight: The Epistemic Role of Emotional Experience_, Oxford: Oxford University Press.
-* Brink, David O., 2003, _Perfectionism and the Common Good: Themes in the Philosophy of T.H. Green_, Oxford: Clarendon Press.
-* Coplan, Amy and Peter Goldie, 2011, _Empathy: Philosophical and Psychological Perspectives_, Oxford: Oxford University Press.
-* Crisp, Roger, 2019, _Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Bentham_, Oxford: Oxford University Press.
-* Dancy, Jonathan, 2004, _Ethics Without Principles_, Oxford: Oxford University Press.
-* Darwall, Stephen L., 1983, _Impartial Reason_, Ithaca, NY: Cornell University Press.
-* De Lazari-Radek, Katarzyna and Peter Singer, 2014, _The Point of View of the Universe: Sidgwick and Contemporary Ethics_, Oxford: Oxford University Press.
-* Driver, Julia, 2012, _Consequentialism_, New York: Routledge.
-* Feldman, Fred, 1994, _Pleasure and the Good Life_, Oxford: Clarendon Press.
-* –––, 2010, _What is This Thing Called Happiness?_, New York: Oxford University Press.
-* Fletcher, Guy (ed.), 2016, _The Routledge Handbook of Philosophy of Well-Being_, London: Routledge.
-* Green, T.H., 2003 \[1883], _Prolegomena to Ethics_, new edition with introduction by David O. Brink, Oxford: Oxford University Press, first published in 1883.
-* Griffin, James, 1986, _Well-Being: its Meaning, Measurement, and Moral Importance_, Oxford: Clarendon Press.
-* Held, Virginia, 2006, “The Ethics of Care”, in David Copp (ed.), _The Oxford Handbook of Ethical Theory_, Oxford: Oxford University Press.
-* Helm, Bennett W., 2001, _Emotional Reason: Deliberation, Motivation, and the Nature of Value_, Cambridge: Cambridge University Press.
-* Hume, David, 1739, _Treatise of Human Nature_, L.A. Selby Bigge, Oxford: Clarendon Press, 1975.
-* Kant, Immanuel, 1785, _Groundwork for the Metaphysics of Morals_, Arnulf Zweig (trans.), Oxford: Oxford University Press, 2002. \[Cited by volume and page number of the Academy Edition (_Gesammelte Schriften_), which appear as marginalia in most translations of Kant.]
-* Keller, Simon, 2013, _Partiality_, Princeton: Princeton University Press.
-* Kraut, Richard, 2007, _What is Good and Why: The Ethics of Well-Being_, Cambridge: Harvard University Press.
-* LeBar, Mark, 2013, _The Value of Living Well_, Oxford: Oxford University Press
-* Lewis, C.S., 1960, _The Four Loves_, New York: Harcourt, Brace.
-* Maestripieri, Dario (ed.), 2003, _Primate Psychology_, Cambridge: Harvard University Press.
-* Maibom, Heidi L. (ed.), 2014, _Empathy and Morality_, Oxford: Oxford University Press.
-* Mendus, Susan, 2002, _Impartiality in Moral and Political Philosophy_, Oxford: Oxford University Press.
-* Mill, John Stuart, 1864, _Utilitarianism_, second edition, Indianapolis: Hackett, 2002.
-* Nagel, Thomas, 1970, _The Possibility of Altruism_, Oxford: Oxford University Press.
-* –––, 1986, _The View From Nowhere_, New York: Oxford University Press.
-* Nichols, Shaun, 2004, _Sentimental Rules: on the Natural Foundations of Moral Judgment,_ Oxford: Oxford University Press.
-* Noddings, Nel, 1986, _Caring: A Feminist Approach to Ethics and Moral Education_, Berkeley: University of California Press.
-* Nozick, Robert, 1974, _Anarchy, State, and Utopia_, New York: Basic Books, pp. 42–45.
-* Parfit, Derek, 1984, _Reasons and Persons_, Oxford: Clarendon Press.
-* Paul, Ellen Frankel, Fred D. Miller, and Jeffrey Paul (eds.), 1993, _Altruism_, Cambridge: Cambridge University Press.
-* Plato, _Meno_, _Symposium_, in _Complete Works_, J. Cooper and D. Hutchinson (eds)., Indianapolis: Hackett, 1997.
-* Ricard, Matthieu, _Altruism: The Power of Compassion to Change Yourself and the World_, New York: Little, Brown & Co., 2015.
-* Ridge, Michael and Sean McKeever, 2006, _Principled Ethics: Generalism as a Regulative Ideal_, Oxford: Oxford University Press.
-* Roberts, Robert C., 2013, _Emotions in the Moral Life_, Cambridge: Cambridge University Press.
-* Russell, Daniel C., 2012, _Happiness for Humans_, Oxford: Oxford University Press
-* Scanlon, Thomas, 1998, _What We Owe to Each Other_, Cambridge, Mass.: Belknap Press, pp. 17–77.
-* Schopenhauer, Arthur, 1840, _On the Basis of Morality_, Indianapolis: Hackett, 1999.
-* Schroeder, Timothy, 2004, _Three Faces of Desire_, Oxford: Oxford University Press.
-* Schueler, G.F., 1995, _Desire: Its Role in Practical Reason and the Explanation of Action_, Cambridge, MA: MIT Press.
-* Shaver, R., 1999, _Rational Egoism_, Cambridge: Cambridge University Press.
-* Sidgwick, Henry, 1907, _The Methods of Ethics_, 7th edition, Indianapolis: Hackett, 1981.
-* Singer, Peter, 2015, _The Most Good You Can Do: How Effective Altruism is Changing Ideas About Living Effectively_, New Haven: Yale University Press.
-* Skorupski, John, 2010, _The Domain of Reasons_, Oxford: Oxford University Press.
-* Slote, Michael, 1992, _From Morality to Virtue_, New York: Oxford University Press.
-* –––, 2001, _Morals From Motives_, Oxford: Oxford University Press.
-* –––, 2010, _Moral Sentimentalism_, Oxford: Oxford University Press.
-* –––, 2013 _From Enlightenment to Receptivity: Rethinking Our Values_, Oxford: Oxford University Press
-* Smith, Adam, 1759, _The Theory of Moral Sentiments_, Indianapolis: Liberty Fund, 2009.
-* Sober, Elliott and David Wilson, 1998, _Unto Others: The Evolution and Psychology on Unselfish Behavior_, Cambridge: Harvard University Press.
-* Stich, Stephen, John M. Doris, and Erica Roedder, 2010 \[2012], “Altruism”, in _The Moral Psychology Handbook_, John M. Doris and the Moral Psychology Research Group, Oxford: Oxford University Press, pp. 147–205; reprinted in Stephen Stich, 2012, _Collected Papers_ (Volume 2: _Knowledge, Rationality, and Morality_, 1978–2010), Oxford: Oxford University Press, pp. 348–400.
-* Sumner, L. Wayne, 1996, _Welfare, Happiness, and Ethics_, Oxford: Clarendon Press.
-* Tiberius, Valerie, 2018, _Well-Being As Value-Fulfillment: How We Can Help Each Other to Live Well_, Oxford: Oxford University Press.
-* Trivers, Robert L., 1971, “The Evolution of Reciprocal Altruism”, _Quarterly Review of Biology_, 46(1): 35–57.
-* Wolf, Susan, 1992, “Morality and Partiality”, _Philosophical Perspectives_, 6: 243–259; reprinted in Wolf 2015b: 31–46. doi:10.2307/2214247
+* Annas, J., 1993, *The Morality of Happiness*, Oxford: Oxford University Press.
+* Aristotle, *Nicomachean Ethics*, translated with introduction and notes by C.D.C. Reeve, Indianapolis: Hackett, 2014.
+* Arpaly, N. and T. Schroeder, 2014, *In Praise of Desire*, New York: Oxford University Press.
+* Badhwar, Neera K., 2014, *Well-Being: Happiness in a Worthwhile Life*, New York: Oxford University Press.
+* Batson, C. Donald, 2011, *Altruism in Humans*, New York: Oxford University Press.
+* Bentham, Jeremy, 1970 \[1789], *An Introduction to the Principles of Morals and Legislation*, London: Athlone Press, first published 1789.
+* Blackburn, Simon, 2001, *Ruling Passions: A Theory of Practical Reasoning*, Oxford: Clarendon Press.
+* Blum, Lawrence, 1980, *Friendship, Altruism and Morality*, London: Routledge & Kegan Paul.
+* Bradley, Ben, 2009, *Well-Being and Death*, Oxford: Oxford University Press.
+* Brady, Michael S., 2013, *Emotional Insight: The Epistemic Role of Emotional Experience*, Oxford: Oxford University Press.
+* Brink, David O., 2003, *Perfectionism and the Common Good: Themes in the Philosophy of T.H. Green*, Oxford: Clarendon Press.
+* Coplan, Amy and Peter Goldie, 2011, *Empathy: Philosophical and Psychological Perspectives*, Oxford: Oxford University Press.
+* Crisp, Roger, 2019, *Sacrifice Regained: Morality and Self-Interest in British Moral Philosophy from Hobbes to Bentham*, Oxford: Oxford University Press.
+* Dancy, Jonathan, 2004, *Ethics Without Principles*, Oxford: Oxford University Press.
+* Darwall, Stephen L., 1983, *Impartial Reason*, Ithaca, NY: Cornell University Press.
+* De Lazari-Radek, Katarzyna and Peter Singer, 2014, *The Point of View of the Universe: Sidgwick and Contemporary Ethics*, Oxford: Oxford University Press.
+* Driver, Julia, 2012, *Consequentialism*, New York: Routledge.
+* Feldman, Fred, 1994, *Pleasure and the Good Life*, Oxford: Clarendon Press.
+* –––, 2010, *What is This Thing Called Happiness?*, New York: Oxford University Press.
+* Fletcher, Guy (ed.), 2016, *The Routledge Handbook of Philosophy of Well-Being*, London: Routledge.
+* Green, T.H., 2003 \[1883], *Prolegomena to Ethics*, new edition with introduction by David O. Brink, Oxford: Oxford University Press, first published in 1883.
+* Griffin, James, 1986, *Well-Being: its Meaning, Measurement, and Moral Importance*, Oxford: Clarendon Press.
+* Held, Virginia, 2006, “The Ethics of Care”, in David Copp (ed.), *The Oxford Handbook of Ethical Theory*, Oxford: Oxford University Press.
+* Helm, Bennett W., 2001, *Emotional Reason: Deliberation, Motivation, and the Nature of Value*, Cambridge: Cambridge University Press.
+* Hume, David, 1739, *Treatise of Human Nature*, L.A. Selby Bigge, Oxford: Clarendon Press, 1975.
+* Kant, Immanuel, 1785, *Groundwork for the Metaphysics of Morals*, Arnulf Zweig (trans.), Oxford: Oxford University Press, 2002. \[Cited by volume and page number of the Academy Edition (*Gesammelte Schriften*), which appear as marginalia in most translations of Kant.]
+* Keller, Simon, 2013, *Partiality*, Princeton: Princeton University Press.
+* Kraut, Richard, 2007, *What is Good and Why: The Ethics of Well-Being*, Cambridge: Harvard University Press.
+* LeBar, Mark, 2013, *The Value of Living Well*, Oxford: Oxford University Press
+* Lewis, C.S., 1960, *The Four Loves*, New York: Harcourt, Brace.
+* Maestripieri, Dario (ed.), 2003, *Primate Psychology*, Cambridge: Harvard University Press.
+* Maibom, Heidi L. (ed.), 2014, *Empathy and Morality*, Oxford: Oxford University Press.
+* Mendus, Susan, 2002, *Impartiality in Moral and Political Philosophy*, Oxford: Oxford University Press.
+* Mill, John Stuart, 1864, *Utilitarianism*, second edition, Indianapolis: Hackett, 2002.
+* Nagel, Thomas, 1970, *The Possibility of Altruism*, Oxford: Oxford University Press.
+* –––, 1986, *The View From Nowhere*, New York: Oxford University Press.
+* Nichols, Shaun, 2004, *Sentimental Rules: on the Natural Foundations of Moral Judgment,* Oxford: Oxford University Press.
+* Noddings, Nel, 1986, *Caring: A Feminist Approach to Ethics and Moral Education*, Berkeley: University of California Press.
+* Nozick, Robert, 1974, *Anarchy, State, and Utopia*, New York: Basic Books, pp. 42–45.
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Clarendon Press.
+* Paul, Ellen Frankel, Fred D. Miller, and Jeffrey Paul (eds.), 1993, *Altruism*, Cambridge: Cambridge University Press.
+* Plato, *Meno*, *Symposium*, in *Complete Works*, J. Cooper and D. Hutchinson (eds)., Indianapolis: Hackett, 1997.
+* Ricard, Matthieu, *Altruism: The Power of Compassion to Change Yourself and the World*, New York: Little, Brown & Co., 2015.
+* Ridge, Michael and Sean McKeever, 2006, *Principled Ethics: Generalism as a Regulative Ideal*, Oxford: Oxford University Press.
+* Roberts, Robert C., 2013, *Emotions in the Moral Life*, Cambridge: Cambridge University Press.
+* Russell, Daniel C., 2012, *Happiness for Humans*, Oxford: Oxford University Press
+* Scanlon, Thomas, 1998, *What We Owe to Each Other*, Cambridge, Mass.: Belknap Press, pp. 17–77.
+* Schopenhauer, Arthur, 1840, *On the Basis of Morality*, Indianapolis: Hackett, 1999.
+* Schroeder, Timothy, 2004, *Three Faces of Desire*, Oxford: Oxford University Press.
+* Schueler, G.F., 1995, *Desire: Its Role in Practical Reason and the Explanation of Action*, Cambridge, MA: MIT Press.
+* Shaver, R., 1999, *Rational Egoism*, Cambridge: Cambridge University Press.
+* Sidgwick, Henry, 1907, *The Methods of Ethics*, 7th edition, Indianapolis: Hackett, 1981.
+* Singer, Peter, 2015, *The Most Good You Can Do: How Effective Altruism is Changing Ideas About Living Effectively*, New Haven: Yale University Press.
+* Skorupski, John, 2010, *The Domain of Reasons*, Oxford: Oxford University Press.
+* Slote, Michael, 1992, *From Morality to Virtue*, New York: Oxford University Press.
+* –––, 2001, *Morals From Motives*, Oxford: Oxford University Press.
+* –––, 2010, *Moral Sentimentalism*, Oxford: Oxford University Press.
+* –––, 2013 *From Enlightenment to Receptivity: Rethinking Our Values*, Oxford: Oxford University Press
+* Smith, Adam, 1759, *The Theory of Moral Sentiments*, Indianapolis: Liberty Fund, 2009.
+* Sober, Elliott and David Wilson, 1998, *Unto Others: The Evolution and Psychology on Unselfish Behavior*, Cambridge: Harvard University Press.
+* Stich, Stephen, John M. Doris, and Erica Roedder, 2010 \[2012], “Altruism”, in *The Moral Psychology Handbook*, John M. Doris and the Moral Psychology Research Group, Oxford: Oxford University Press, pp. 147–205; reprinted in Stephen Stich, 2012, *Collected Papers* (Volume 2: *Knowledge, Rationality, and Morality*, 1978–2010), Oxford: Oxford University Press, pp. 348–400.
+* Sumner, L. Wayne, 1996, *Welfare, Happiness, and Ethics*, Oxford: Clarendon Press.
+* Tiberius, Valerie, 2018, *Well-Being As Value-Fulfillment: How We Can Help Each Other to Live Well*, Oxford: Oxford University Press.
+* Trivers, Robert L., 1971, “The Evolution of Reciprocal Altruism”, *Quarterly Review of Biology*, 46(1): 35–57.
+* Wolf, Susan, 1992, “Morality and Partiality”, *Philosophical Perspectives*, 6: 243–259; reprinted in Wolf 2015b: 31–46. doi:10.2307/2214247
 * –––, 2015a, “The Importance of Love”, in Wolf 2015b: 181–195.
-* –––, 2015b, _The Variety of Values: Essays on Morality, Meaning, and Love_, New York: Oxford University Press.
+* –––, 2015b, *The Variety of Values: Essays on Morality, Meaning, and Love*, New York: Oxford University Press.
 
 ## Academic Tools
 
@@ -376,4 +375,4 @@ Nagel 面临的问题是如何解释为什么自利并不经常被无关主体�
 [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | [altruism: empirical approaches](https://plato.stanford.edu/entries/altruism-empirical/) | [egoism](https://plato.stanford.edu/entries/egoism/) | [empathy](https://plato.stanford.edu/entries/empathy/) | [impartiality](https://plato.stanford.edu/entries/impartiality/) | [morality: and evolutionary biology](https://plato.stanford.edu/entries/morality-biology/) | [moral particularism](https://plato.stanford.edu/entries/moral-particularism/) | [reasons for action: agent-neutral vs. agent-relative](https://plato.stanford.edu/entries/reasons-agent/) | [well-being](https://plato.stanford.edu/entries/well-being/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Richard Kraut](https://classics.northwestern.edu/people/faculty/emeritus-faculty/richard-kraut.html) <[_rkraut1@northwestern.edu_](mailto:rkraut1%40northwestern%2eedu)>
+[Richard Kraut](https://classics.northwestern.edu/people/faculty/emeritus-faculty/richard-kraut.html) <[*rkraut1@northwestern.edu*](mailto:rkraut1%40northwestern%2eedu)>

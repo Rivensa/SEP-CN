@@ -1,12 +1,10 @@
 # 上帝与其他终极存在 and other ultimates (Jeanine Diller)
 
-_首次发表于2021年12月17日星期五_
+*首次发表于2021年12月17日星期五*
 
 要成为终极存在，就是要成为所有可能存在的一切中最根本的真实、有价值或令人满足的存在。在西方，宗教哲学一直认为上帝是终极存在。过去一个世纪，人们越来越意识到，在世界各种宗教、哲学和准宗教哲学中，终极性是以不同概念来把握的，因此不仅仅是“上帝”，还有“梵天”、“道”等等。此外，人们试图以不同方式概念化每一个终极存在，跨越文化和时代，因此有许多梵天的模型，许多上帝的模型，许多道的模型等等；也许甚至有一个模型是对每个认真思考过的人来说什么是终极存在。本条目提供了一个框架，用于理解上帝和其他终极存在的这一庞大模型领域，然后概述了其中一些主要内容。熟悉这一领域可以澄清长期以来对是否存在任何终极存在等问题的决定过程，以及其他好处。
 
 第 1 节定义了“终极”和“终极模型”，讨论了对建模终极存在的项目感兴趣的原因，或者认为这样做是徒劳的原因，并解释了帮助组织模型领域的主要类别。第 2 节使用这些类别来介绍二十多个梵天、上帝和道的模型，既为了它们本身，也为了作为进入这一领域的入口（这些模型按照它们出现的顺序编号，以帮助读者发现它们，并通过示例展示什么是模型）。第 3 节讨论了一旦这些模型并置时的重要性。
-
- 
 
 ***
 
@@ -22,7 +20,7 @@ _首次发表于2021年12月17日星期五_
 
 > 其他理论家探讨了可能详细说明或补充伯斯朗名单的因素，例如贸易和征服(Gayatriprana 2020)，共享的人类进化生物学(Wildman 2017)，以及道德发展的演变(Wright 2010)。然而，大多数人认为第二个问题关于文化熏陶是固执的，因此会减弱乐观情绪：在达成终极观念的全球理念时，既有共同的人性，也有真正的文化差异需要拥有。雷蒙·帕尼卡尔说得很好：
 
-Other theorists explore factors that could detail or add to Berthrong’s list—e.g., trade and conquests (Gayatriprana 2020), shared human evolutionary biology (Wildman 2017), and the evolution of moral development (Wright 2010).\[[4](https://plato.stanford.edu/entries/god-ultimates/notes.html#note-4)] Still, most take the second concern about enculturation to stick and thus to temper the optimism: there is _both_ a shared humanity _and_ real cultural difference to own in reaching a global idea of ultimacy. Raimon Panikkar says it well:
+Other theorists explore factors that could detail or add to Berthrong’s list—e.g., trade and conquests (Gayatriprana 2020), shared human evolutionary biology (Wildman 2017), and the evolution of moral development (Wright 2010).\[[4](https://plato.stanford.edu/entries/god-ultimates/notes.html#note-4)] Still, most take the second concern about enculturation to stick and thus to temper the optimism: there is *both* a shared humanity *and* real cultural difference to own in reaching a global idea of ultimacy. Raimon Panikkar says it well:
 
 > 婆罗门绝对不是亚伯拉罕传统中唯一真实活着的上帝。也不能说上帝或神是与婆罗门相同的。然而它们并非完全无关。（Panikkar 1987 \[2005: 2254]）
 
@@ -62,7 +60,7 @@ Schellenberg对于终极存在的要求已经有些模糊：他建议不进一�
 
 最后的犹豫——“至少不是用言语”——为通过宗教、神秘或灵性经历的具体方式提供了空间，这些经历在世界宗教传统和更广泛范围内被报道（无论这些经历是否真实发生，参见例如詹姆斯1902年\[1961年]）。尽管如此，上述综合论点及其背后的直觉代表了对用言语建模终极存在的整个企业的巨大挑战。有些人选择在面对这些论点时保持沉默，因此可以理解但遗憾地“从对话中真正消失了”（Wildman 2013: 768，“遗憾”是因为他们被错过了）。那些继续交谈的人的一个主要举措是区分终极存在本身的本质，他们承认我们永远无法谈论或了解，以及它如何影响我们的经验，他们认为我们可以谈论和了解。因此，一些人区分，例如，绝对道与相对道（《道德经》第1章）；上帝本质与启示的上帝（如艾哈德神父，例如，第97讲；潘尼卡尔1987年\[2005年：2254]）；现象世界的本体与现象世界（希克1989年）等等，并仅就后者进行谈论或知识主张（另请参见，例如，保罗·海奇斯2020年\[其他互联网资源]）。
 
-有些人还声称通过将这些陈述限制在某些关于终极存在的类型的陈述上，来对其进行真实陈述。一种策略是讨论终极性如何与我们或自然（或非自然）世界的其他部分相关，而不是讨论它本身是如何的，即，讨论其外在与内在属性。例如，梅蒙尼德斯建议使“终极性是 P”成为真实的一种方式是使 P 成为“行动属性”，即，“被描述者已经执行的行动，比如扎伊德做了这扇门…”（《困惑之引导》，I.52–3，添加了斜体），这种属性除了表明扎伊德有能力做这扇门外，并未涉及扎伊德的内在属性。终极性的类比是，例如，道生成的存在，再次表明只有道，无论它是什么或不是什么，都能够并且已经生成存在。关于终极性真实陈述的其他可能方式包括著名的否定途径（“上帝不是 P”，沙弗 2013: 783），卓越途径（“上帝比 P 更好”），类比之道（“上帝是完全的 P”，科普斯顿 1952: 351 关于阿奎那，例如，《神学大全》I，13 和《异教徒反驳篇》I，30，另请参见肯尼迪 2013: 158–159），超越卓越之道（“上帝超越 P 或非 P”，伪狄奥尼修斯，沙弗 2013: 786ff）以及——尽管这似乎只在理论上可行——模棱两可的断言（“上帝是 P _”，其中 P_是人类语言之外的谓词，沙弗 2013: 783）。然而，这一切真正允许我们在哲学上说、知道和做些什么呢？内维尔说比人们想象的要多：尽管无法言说似乎会阻止形而上学，但实际上它告诉我们如何进行形而上学，例如，“_道…_ 主要通过否定和迂回来讨论”（2008: 43），或者通过其他方式。
+有些人还声称通过将这些陈述限制在某些关于终极存在的类型的陈述上，来对其进行真实陈述。一种策略是讨论终极性如何与我们或自然（或非自然）世界的其他部分相关，而不是讨论它本身是如何的，即，讨论其外在与内在属性。例如，梅蒙尼德斯建议使“终极性是 P”成为真实的一种方式是使 P 成为“行动属性”，即，“被描述者已经执行的行动，比如扎伊德做了这扇门…”（《困惑之引导》，I.52–3，添加了斜体），这种属性除了表明扎伊德有能力做这扇门外，并未涉及扎伊德的内在属性。终极性的类比是，例如，道生成的存在，再次表明只有道，无论它是什么或不是什么，都能够并且已经生成存在。关于终极性真实陈述的其他可能方式包括著名的否定途径（“上帝不是 P”，沙弗 2013: 783），卓越途径（“上帝比 P 更好”），类比之道（“上帝是完全的 P”，科普斯顿 1952: 351 关于阿奎那，例如，《神学大全》I，13 和《异教徒反驳篇》I，30，另请参见肯尼迪 2013: 158–159），超越卓越之道（“上帝超越 P 或非 P”，伪狄奥尼修斯，沙弗 2013: 786ff）以及——尽管这似乎只在理论上可行——模棱两可的断言（“上帝是 P _”，其中 P_是人类语言之外的谓词，沙弗 2013: 783）。然而，这一切真正允许我们在哲学上说、知道和做些什么呢？内维尔说比人们想象的要多：尽管无法言说似乎会阻止形而上学，但实际上它告诉我们如何进行形而上学，例如，“*道…* 主要通过否定和迂回来讨论”（2008: 43），或者通过其他方式。
 
 ### 1.5 终极存在的哲学范畴
 
@@ -199,7 +197,7 @@ Schellenberg对于终极存在的要求已经有些模糊：他建议不进一�
 
 > 从仪式背景之外，修行者也尝试通过内在修炼的方式回归，即像道在生成存在时那样行事：以无为。米勒提醒我们，无为并不是一种松散的放手，而是一种特定的“精神技术”，在恰当的时间、恰当的地点非常温和地干预——正如内维尔所说，当在道的难以战胜的惰性力量中出现罕见的“自发性机会”时，以“微妙的无限小剂量”介入（米勒 2003: 140；内维尔 2008: 47–51）。Andersen 对这些努力的看法令人难忘：
 
-Practitioners outside of ritual contexts also try to return by inwardly cultivating the skill of acting as the Dao does when it generates being: with _wu wei_. Miller reminds us that _wu wei_ is not some loose form of letting go, but is rather a specific “spiritual technology” of intervening very gently at the right time, in the right place—as Neville says, with “a subtle infinitesimal dose” when there is a rare “opening for spontaneity \[in the otherwise hard-to-beat] inertial forces of the Dao” (Miller 2003: 140; Neville 2008: 47–51). Andersen’s take on these efforts is haunting:
+Practitioners outside of ritual contexts also try to return by inwardly cultivating the skill of acting as the Dao does when it generates being: with *wu wei*. Miller reminds us that *wu wei* is not some loose form of letting go, but is rather a specific “spiritual technology” of intervening very gently at the right time, in the right place—as Neville says, with “a subtle infinitesimal dose” when there is a rare “opening for spontaneity \[in the otherwise hard-to-beat] inertial forces of the Dao” (Miller 2003: 140; Neville 2008: 47–51). Andersen’s take on these efforts is haunting:
 
 > 一位精通道家居住在存在与虚无之间的间隙中。道教的根本真理就在这个间隙中，在道路及其作为真实和实在的体现中。(2019: 130)
 
@@ -229,161 +227,161 @@ Wildman 通过自己遵循这一计划来展示他的计划（2017）。有趣�
 
 * Albahari, Miri, 2019, “Beyond Cosmopsychism and the Great I Am: How the World Might Be Grounded in Universal ‘Advaitic’ Consciousness”, in Seager 2019: 119–130.
 * Adams, Marilyn McCord, 2016, “Horrors”, in Buckareff and Nagasawa 2016: 128–144. doi:10.1093/acprof:oso/9780198722250.003.0008
-* Alexander, Samuel, 1920, _Space, Time and Deity: The Gifford Lectures at Glasgow 1916–18_, 2 volumes, London: Macmillan and Co. Ltd.
-* Andersen, Poul, 2019, _The Paradox of Being: Truth, Identity and Images in Daoism_, (Harvard-Yenching Institute Monograph Series 120), Cambridge, MA: Harvard University Asia Center.
-* Aristotle, _Physics_ and _Metaphysics_, in R. McKeon (ed.), _The Basic Works of Aristotle_, New York: Random House, 1941, pp. 218–394 and 681–926.
-* Aquinas, Thomas, _Summa Theologica_, Part I, in A. Pegis, _Basic Writings of Saint Thomas Aquinas_ (volumes 1 and 2), New York: Random House, 1944.
-* Aquinas, Thomas, _Summa Contra Gentiles_, _Books I and II_ (Latin-English Opera Omnia), Aquinas Institute (trans.), Steubenville, OH: Emmaus Academic, 2019.
+* Alexander, Samuel, 1920, *Space, Time and Deity: The Gifford Lectures at Glasgow 1916–18*, 2 volumes, London: Macmillan and Co. Ltd.
+* Andersen, Poul, 2019, *The Paradox of Being: Truth, Identity and Images in Daoism*, (Harvard-Yenching Institute Monograph Series 120), Cambridge, MA: Harvard University Asia Center.
+* Aristotle, *Physics* and *Metaphysics*, in R. McKeon (ed.), *The Basic Works of Aristotle*, New York: Random House, 1941, pp. 218–394 and 681–926.
+* Aquinas, Thomas, *Summa Theologica*, Part I, in A. Pegis, *Basic Writings of Saint Thomas Aquinas* (volumes 1 and 2), New York: Random House, 1944.
+* Aquinas, Thomas, *Summa Contra Gentiles*, *Books I and II* (Latin-English Opera Omnia), Aquinas Institute (trans.), Steubenville, OH: Emmaus Academic, 2019.
 * Bacon, John, 2013, “The God Insight: Vengeance or Destiny?” in Diller and Kasher 2013: 543–565. doi:10.1007/978-94-007-5219-1\_44
-* Barbour, Ian G., 1974, _Myths, Models, and Paradigms: A Comparative Study in Science and Religion_, New York: Harper & Row.
+* Barbour, Ian G., 1974, *Myths, Models, and Paradigms: A Comparative Study in Science and Religion*, New York: Harper & Row.
 * Basinger, David, 2013, “Introduction to Open Theism”, in Diller and Kasher 2013: 263–275. doi:10.1007/978-94-007-5219-1\_22
 * Berthrong, John H., 2001, “The Idea of Categories in Perspective”, in Neville 2001: 237–259.
-* Bishop, John, 2007, “How a Modest Fideism May Constrain Theistic Commitments: Exploring an Alternative to Classical Theism”, _Philosophia_, 35(3–4): 387–402. doi:10.1007/s11406-007-9071-y
-* –––, 2009, “Towards a Religiously Adequate Alternative to OmniGod Theism”, _Sophia_, 48(4): 419–433. doi:10.1007/s11841-009-0130-7
+* Bishop, John, 2007, “How a Modest Fideism May Constrain Theistic Commitments: Exploring an Alternative to Classical Theism”, *Philosophia*, 35(3–4): 387–402. doi:10.1007/s11406-007-9071-y
+* –––, 2009, “Towards a Religiously Adequate Alternative to OmniGod Theism”, *Sophia*, 48(4): 419–433. doi:10.1007/s11841-009-0130-7
 * Bishop, John and Ken Perszyk, 2016, “Concepts of God and Problems of Evil”, in Buckareff and Nagasawa 2016: 106–127. doi:10.1093/acprof:oso/9780198722250.003.0007
-* –––, 2017, “The Divine Attributes and Non-Personal Conceptions of God”, _Topoi_, 36(4): 609–621. doi:10.1007/s11245-016-9394-z
-* Buckareff, Andrei and Yujin Nagasawa (eds.), 2016, _Alternative Concepts of God: Essays on the Metaphysics of the Divine_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
-* Clark, Kelly James, 1992, “Hold Not Thy Peace at My Tears: Methodological Reflections on Divine Impassibility”, in _Our Knowledge of God: Essays on Natural and Philosophical Theology_, Kelly James Clark (ed.), Dordrecht: Springer Netherlands, 167–193. doi:10.1007/978-94-011-2576-5\_9
+* –––, 2017, “The Divine Attributes and Non-Personal Conceptions of God”, *Topoi*, 36(4): 609–621. doi:10.1007/s11245-016-9394-z
+* Buckareff, Andrei and Yujin Nagasawa (eds.), 2016, *Alternative Concepts of God: Essays on the Metaphysics of the Divine*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
+* Clark, Kelly James, 1992, “Hold Not Thy Peace at My Tears: Methodological Reflections on Divine Impassibility”, in *Our Knowledge of God: Essays on Natural and Philosophical Theology*, Kelly James Clark (ed.), Dordrecht: Springer Netherlands, 167–193. doi:10.1007/978-94-011-2576-5\_9
 * Clooney, Francis Xavier, 2001, “Vedanta Desika’s Isvarapariccheda (‘Definition of the Lord’) and the Hindu Argument about Ultimate Reality”, in Neville 2001: 95–123.
-* –––, 2010, _Comparative Theology: Deep Learning across Religious Borders_, Malden, MA: Wiley Blackwell.
-* Cobb, John B., Jr. and David Ray Griffin, 1976, _Process Theology: An Introductory Exposition_, Philadelphia, PA: The Westminster Press.
-* Cohen, Shaye, 1987, _From the Maccabees to the Mishnah_, Philadelphia, PA: Westminster Press.
+* –––, 2010, *Comparative Theology: Deep Learning across Religious Borders*, Malden, MA: Wiley Blackwell.
+* Cobb, John B., Jr. and David Ray Griffin, 1976, *Process Theology: An Introductory Exposition*, Philadelphia, PA: The Westminster Press.
+* Cohen, Shaye, 1987, *From the Maccabees to the Mishnah*, Philadelphia, PA: Westminster Press.
 * Coleman, Monica A., 2013, “From Models of God to a Model of Gods: How Whiteheadian Metaphysics Facilitates Western Language Discussion of Divine Multiplicity”, in Diller and Kasher 2013: 343–355. doi:10.1007/978-94-007-5219-1\_29
-* Cooper, David A., 1997, _God is a Verb: Kabbalah and the Practice of Mystical Judaism_, New York: Riverhead Books, a division of Penguin Putnam Inc.
-* Cooper, John W., 2006, _Panentheism the Other God of the Philosophers: From Plato to the Present_, Grand Rapids, MI: Baker Academic.
-* Copleston, Frederick C., 1952, in _A History of Philosophy, Volume III: Ockham to Suarez_, Westminster, MD: Newman Bookshop. Reprinted New York: Doubleday, in Book 1 (which included the first three volumes of the original series), 1985.
+* Cooper, David A., 1997, *God is a Verb: Kabbalah and the Practice of Mystical Judaism*, New York: Riverhead Books, a division of Penguin Putnam Inc.
+* Cooper, John W., 2006, *Panentheism the Other God of the Philosophers: From Plato to the Present*, Grand Rapids, MI: Baker Academic.
+* Copleston, Frederick C., 1952, in *A History of Philosophy, Volume III: Ockham to Suarez*, Westminster, MD: Newman Bookshop. Reprinted New York: Doubleday, in Book 1 (which included the first three volumes of the original series), 1985.
 * Curley, Edwin, 2013, “How Spinozistic was Toland’s Pantheism?” in Diller and Kasher 2013: 643–652. doi:10.1007/978-94-007-5219-1\_51
-* Davies, Brian, 2004, _An Introduction to the Philosophy of Religion_, third edition, New York: Oxford University Press.
-* Dawkins, Richard, 2006, _The God Delusion_, Boston: Houghton Mifflin Company.
-* \[_DDJ_] _Daodejing_ attributed to Lao Tzu. Translated as _Tao Te Ching_, D. C. Lau (trans./ed.), New York: Penguin Books, 1963.
-* Descartes, René, 1641, replies in _Objections and Replies_ to the _Meditations on First Philosophy_ in _The Philosophical Writings of Descartes, vol. II_, J. Cottingham, R. Stoothoff, & D. Murdoch (trans.), Cambridge: Cambridge University Press, 1984, reprinted 1988, pages 66–383.
+* Davies, Brian, 2004, *An Introduction to the Philosophy of Religion*, third edition, New York: Oxford University Press.
+* Dawkins, Richard, 2006, *The God Delusion*, Boston: Houghton Mifflin Company.
+* \[*DDJ*] *Daodejing* attributed to Lao Tzu. Translated as *Tao Te Ching*, D. C. Lau (trans./ed.), New York: Penguin Books, 1963.
+* Descartes, René, 1641, replies in *Objections and Replies* to the *Meditations on First Philosophy* in *The Philosophical Writings of Descartes, vol. II*, J. Cottingham, R. Stoothoff, & D. Murdoch (trans.), Cambridge: Cambridge University Press, 1984, reprinted 1988, pages 66–383.
 * Diller, Jeanine, 2013a, “Epilogue”, in Diller and Kasher 2013: 1025–1029.
-* –––, 2013b, “The Conceptual Focus of Ultimism: An Object of Religious Concern for the Nones and Somes”, _Religious Studies_, 49(2): 221–233. doi:10.1017/S0034412513000097
-* –––, 2016, “Global and Local Atheisms”, _International Journal for Philosophy of Religion_, 79(1): 7–18. doi:10.1007/s11153-015-9550-1
-* Diller, Jeanine and Asa Kasher (eds.), 2013, _Models of God and Alternative Ultimate Realities_, Dordrecht: Springer. doi:10.1007/978-94-007-5219-1
+* –––, 2013b, “The Conceptual Focus of Ultimism: An Object of Religious Concern for the Nones and Somes”, *Religious Studies*, 49(2): 221–233. doi:10.1017/S0034412513000097
+* –––, 2016, “Global and Local Atheisms”, *International Journal for Philosophy of Religion*, 79(1): 7–18. doi:10.1007/s11153-015-9550-1
+* Diller, Jeanine and Asa Kasher (eds.), 2013, *Models of God and Alternative Ultimate Realities*, Dordrecht: Springer. doi:10.1007/978-94-007-5219-1
 * Dorff, Elliot N., 2013, “Jewish Images of God”, in Diller and Kasher 2013: 111–123. doi:10.1007/978-94-007-5219-1\_10
-* Draper, Paul, 2019, “Panpsychotheism”, in _Current Controversies in Philosophy of Religion_, Paul Draper (ed.), New York: Routledge, pp. 160–177.
-* Eckhart, Meister, _The Complete Mystical Works of Meister Eckhart_, Maurice O’C. Walshe (trans., ed.), New York: Crossroads Publishing Company, 2009.
-* Elliott, James, 2017, “The Power of Humility in Sceptical Religion: Why Ietsism Is Preferable to J. L. Schellenberg’s Ultimism”, _Religious Studies_, 53(1): 97–116. doi:10.1017/S0034412515000475
-* Erkes, Eduard (trans.) and Ho-Shang-Kung, 1945, “Ho-Shang-Kung’s Commentary on Lao-Tse”, _Artibus Asiae_, 8(2/4): 119–196. doi:10.2307/3248186
-* Feldmeier, Peter, 2019, _Experiments in Buddhist-Christian Encounter: From Buddha-Nature to the Divine Nature_, Maryknoll, MD: Orbis Books.
+* Draper, Paul, 2019, “Panpsychotheism”, in *Current Controversies in Philosophy of Religion*, Paul Draper (ed.), New York: Routledge, pp. 160–177.
+* Eckhart, Meister, *The Complete Mystical Works of Meister Eckhart*, Maurice O’C. Walshe (trans., ed.), New York: Crossroads Publishing Company, 2009.
+* Elliott, James, 2017, “The Power of Humility in Sceptical Religion: Why Ietsism Is Preferable to J. L. Schellenberg’s Ultimism”, *Religious Studies*, 53(1): 97–116. doi:10.1017/S0034412515000475
+* Erkes, Eduard (trans.) and Ho-Shang-Kung, 1945, “Ho-Shang-Kung’s Commentary on Lao-Tse”, *Artibus Asiae*, 8(2/4): 119–196. doi:10.2307/3248186
+* Feldmeier, Peter, 2019, *Experiments in Buddhist-Christian Encounter: From Buddha-Nature to the Divine Nature*, Maryknoll, MD: Orbis Books.
 * Forrest, Peter, 2016, “The Personal Pantheist Conception of God”, in Buckareff and Nagasawa 2016: 21–40. doi:10.1093/acprof:oso/9780198722250.003.0002
-* Gao Heng 高亨, 1998, _Zhouyi dachuan jinzhu_ 周易大傳今注, Jinan: Qilu Shushe.
-* Gasser, Georg, 2019, “God’s Omnipresence in the World: On Possible Meanings of ‘En’ in Panentheism”, _International Journal for Philosophy of Religion_, 85(1): 43–62. doi:10.1007/s11153-018-9695-9
-* Gayatriprana, Sister, 2020, “Introduction”, in _Swami Vivekananda’s History of Universal Religion and Its Potential for Global Conciliation_, Sister Gayatriprana (ed.), Elgin, IL: Cook Communication, xi–li.
-* Griffin, David Ray, 2005, “Religious Pluralism: Generic, Identist and Deep”, in _Deep Religious Pluralism_, David Ray Griffin (ed.), Louisville, KY: Westminster John Knox Press, 3–38.
-* Guthrie, W.K.C., 1962–1981, _A History of Greek Philosophy_, 6 volumes, Cambridge: Cambridge University Press. Referenced are
-  * 1965, _Volume 2: The Presocratic Tradition from Parmenides to Democritus_
-  * 1981, _Volume 6: Aristotle: An Encounter_
-* Hadot, Pierre, 1981 \[1995], _Exercices spirituels et philosophie antique_, Paris : Etudes augustiniennes. Translated as _Philosophy as a Way of Life_, Arnold Davidson (ed.), Michael Chase (trans.), Oxford: Blackwell, 1995.
-* Hansen, Chad, 2020, “Daoism”, _The Stanford Encyclopedia of Philosophy_ (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/daoism/](https://plato.stanford.edu/archives/spr2020/entries/daoism/)
-* Hartshorne, Charles, 1984, _Omnipotence and Other Theological Mistakes_, Albany, NY: State University of New York Press.
-* Hartshorne, Charles and William L. Reese (eds), 1953 \[2000], _Philosophers Speak of God_, Chicago, IL: University of Chicago Press. Reprinted, Amherst, NY: Humanity Books, 2000.
+* Gao Heng 高亨, 1998, *Zhouyi dachuan jinzhu* 周易大傳今注, Jinan: Qilu Shushe.
+* Gasser, Georg, 2019, “God’s Omnipresence in the World: On Possible Meanings of ‘En’ in Panentheism”, *International Journal for Philosophy of Religion*, 85(1): 43–62. doi:10.1007/s11153-018-9695-9
+* Gayatriprana, Sister, 2020, “Introduction”, in *Swami Vivekananda’s History of Universal Religion and Its Potential for Global Conciliation*, Sister Gayatriprana (ed.), Elgin, IL: Cook Communication, xi–li.
+* Griffin, David Ray, 2005, “Religious Pluralism: Generic, Identist and Deep”, in *Deep Religious Pluralism*, David Ray Griffin (ed.), Louisville, KY: Westminster John Knox Press, 3–38.
+* Guthrie, W.K.C., 1962–1981, *A History of Greek Philosophy*, 6 volumes, Cambridge: Cambridge University Press. Referenced are
+  * 1965, *Volume 2: The Presocratic Tradition from Parmenides to Democritus*
+  * 1981, *Volume 6: Aristotle: An Encounter*
+* Hadot, Pierre, 1981 \[1995], *Exercices spirituels et philosophie antique*, Paris : Etudes augustiniennes. Translated as *Philosophy as a Way of Life*, Arnold Davidson (ed.), Michael Chase (trans.), Oxford: Blackwell, 1995.
+* Hansen, Chad, 2020, “Daoism”, *The Stanford Encyclopedia of Philosophy* (Spring 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2020/entries/daoism/](https://plato.stanford.edu/archives/spr2020/entries/daoism/)
+* Hartshorne, Charles, 1984, *Omnipotence and Other Theological Mistakes*, Albany, NY: State University of New York Press.
+* Hartshorne, Charles and William L. Reese (eds), 1953 \[2000], *Philosophers Speak of God*, Chicago, IL: University of Chicago Press. Reprinted, Amherst, NY: Humanity Books, 2000.
 * Hasan, Ali, 2013, “Al-Ghazali and Ibn Rushd (Averroes) on Creation and the Divine Attributes”, in Diller and Kasher 2013: 141–156. doi:10.1007/978-94-007-5219-1\_13
-* Hedges, Paul, 2014, “Why Are There Many Gods? Religious Diversity and Its Challenges”, in _Controversies in Contemporary Religion: Education, Law, Politics, Society and Spirituality, Volume 1: Theoretical and Academic Debates_, Paul Hedges (ed), Santa Barbara, CA: Praeger, pp. 191–218.
-* Hegel, Georg Wilhelm Friedrich, 1832 \[2006], _Vorlesungen über die Philosophie der Religion_, Berlin. Translated in _Lectures on the Philosophy of Religion_, 3 volumes, Peter C. Hodgson (ed.), Robert F. Brown, Peter C. Hodgson, and J. Michael Stewart (trans), Berkeley, CA: University of California Press, 1984–1987. Selections from the translation printed in _Lectures on the Philosophy of Religion: the Lectures of 1827_, Oxford: Clarendon Press, 2006.
-* Heim, Mark, 1995, _Salvations: Truth and Difference in Religion_, Maryknoll, NY: Orbis Press.
-* Hick, John, 1989, _An Interpretation of Religion: Human Responses to the Transcendent_, second edition, New Haven, CT and London: Yale University Press.
-* Holm, Jean with John Bowker (eds), 1994, _Picturing God_, London: Pinter Publishers Ltd.
-* Hume, David, 1779, _Dialogues Concerning Natural Religion_, London. \[[Hume 1779 available online](https://gutenberg.org/ebooks/4583)]
+* Hedges, Paul, 2014, “Why Are There Many Gods? Religious Diversity and Its Challenges”, in *Controversies in Contemporary Religion: Education, Law, Politics, Society and Spirituality, Volume 1: Theoretical and Academic Debates*, Paul Hedges (ed), Santa Barbara, CA: Praeger, pp. 191–218.
+* Hegel, Georg Wilhelm Friedrich, 1832 \[2006], *Vorlesungen über die Philosophie der Religion*, Berlin. Translated in *Lectures on the Philosophy of Religion*, 3 volumes, Peter C. Hodgson (ed.), Robert F. Brown, Peter C. Hodgson, and J. Michael Stewart (trans), Berkeley, CA: University of California Press, 1984–1987. Selections from the translation printed in *Lectures on the Philosophy of Religion: the Lectures of 1827*, Oxford: Clarendon Press, 2006.
+* Heim, Mark, 1995, *Salvations: Truth and Difference in Religion*, Maryknoll, NY: Orbis Press.
+* Hick, John, 1989, *An Interpretation of Religion: Human Responses to the Transcendent*, second edition, New Haven, CT and London: Yale University Press.
+* Holm, Jean with John Bowker (eds), 1994, *Picturing God*, London: Pinter Publishers Ltd.
+* Hume, David, 1779, *Dialogues Concerning Natural Religion*, London. \[[Hume 1779 available online](https://gutenberg.org/ebooks/4583)]
 * Hustwit, Jeremy R., 2013, “Models, Idols, and the Great White Whale: Toward a Christian Faith of Nonattachment”, in Diller and Kasher 2013: 1001–1011. doi:10.1007/978-94-007-5219-1\_83
-* Huxley, Aldous, 1945, _The Perennial Philosophy_, New York and London: Harper & Brothers.
-* James, William, 1902 \[1961], _The Varieties of Religious Experience: A Study in Human Nature, Being the Gifford Lectures on Natural Religion Delivered at Edinburgh in 1901–1902_, New York: Longmans, Green. Reprinted New York: Macmillan Publishing Co., 1961.
-* –––, 1909, _A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy_, New York: Longmans, Green. Reprinted Lincoln, NE: University of Nebraska Press, 1996.
+* Huxley, Aldous, 1945, *The Perennial Philosophy*, New York and London: Harper & Brothers.
+* James, William, 1902 \[1961], *The Varieties of Religious Experience: A Study in Human Nature, Being the Gifford Lectures on Natural Religion Delivered at Edinburgh in 1901–1902*, New York: Longmans, Green. Reprinted New York: Macmillan Publishing Co., 1961.
+* –––, 1909, *A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy*, New York: Longmans, Green. Reprinted Lincoln, NE: University of Nebraska Press, 1996.
 * Kasser, Jeff, 2013, “Peirce on God, Reality and Personality”, in Diller and Kasher 2013: 441–452. doi:10.1007/978-94-007-5219-1\_36
 * Kennedy, Robert G., 2013, “Thomas Aquinas: Model of God”, in Diller and Kasher 2013: 157–164. doi:10.1007/978-94-007-5219-1\_14
-* Kierkegaard, Soren, 1846, _Concluding Unscientific Postscript to the Philosophical Fragments_, David F. Swenson and Walter Lowrie (trans and eds), Princeton: Princeton University Press, 1974.&#x20;
-* Kleeman, Terry F., 2016, _Celestial Masters: History and Ritual in Early Daoist Communities_, (Harvard-Yenching Institute Monograph Series, 102), Cambridge, MA: Harvard University Asia Center.
+* Kierkegaard, Soren, 1846, *Concluding Unscientific Postscript to the Philosophical Fragments*, David F. Swenson and Walter Lowrie (trans and eds), Princeton: Princeton University Press, 1974.&#x20;
+* Kleeman, Terry F., 2016, *Celestial Masters: History and Ritual in Early Daoist Communities*, (Harvard-Yenching Institute Monograph Series, 102), Cambridge, MA: Harvard University Asia Center.
 * Kohn, Livia with James Miller, 2001, “Chinese Religion: Ultimate Reality”, in Neville 2001: 9–35.
-* Kripke, Saul A., 2013, _Reference and Existence: The John Locke Lectures_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199928385.001.0001
+* Kripke, Saul A., 2013, *Reference and Existence: The John Locke Lectures*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199928385.001.0001
 * Leslie, John, 2016, “A Way of Picturing God”, in Buckareff and Nagasawa 2016: 50–63. doi:10.1093/acprof:oso/9780198722250.003.0004
-* –––, 2001, _Infinite Minds: a Philosophical Cosmology_, Oxford: Oxford University Press.
-* –––, 1989, _Universes_, London and New York: Routledge.
-* –––, 1979, _Value and Existence_, Oxford: Blackwell.
-* Long, Jeffery D., 2007, _A Vision for Hinduism: Beyond Hindu Nationalism_, London: IB Tauris.
+* –––, 2001, *Infinite Minds: a Philosophical Cosmology*, Oxford: Oxford University Press.
+* –––, 1989, *Universes*, London and New York: Routledge.
+* –––, 1979, *Value and Existence*, Oxford: Blackwell.
+* Long, Jeffery D., 2007, *A Vision for Hinduism: Beyond Hindu Nationalism*, London: IB Tauris.
 * –––, 2013, “Ultimate Complexity: A Hindu Process Theology”, in Diller and Kasher 2013: 357–367. doi:10.1007/978-94-007-5219-1\_30
-* –––, 2020, “Sri Ramakrishna’s Philosophy of Anekānta Vedānta”, in _The Bloomsbury Research Handbook of Vedānta_, Ayon Maharaj (ed.), London, Oxford and New York: Bloomsbury, 157–178.
-* Maharaj, Ayon, 2018, _Infinite Paths to Infinite Reality: Sri Ramakrishna and Cross-Cultural Philosophy of Religion_, Oxford: Oxford University Press. doi:10.1093/oso/9780190868239.001.0001
-* Maimonides, Moses, _Guide of the Perplexed_, vol. 1, Shlomo Pines (trans.), Chicago: The University of Chicago Press, 1963.
-* Maitzen, Stephen, 2017, “Against Ultimacy”, in _Renewing Philosophy of Religion: Exploratory Essays_, Paul Draper and J.L. Schellenberg (eds.), Oxford: Oxford University Press, 48–62.
-* Mann, Barbara, 2010, “A Failure to Communicate: How Christian Missionary Assumptions Ignore Binary Patterns of Thinking within Native American Communities”, in _Remembering Jamestown: Hard Questions about Christian Mission_, Amos Young and Barbara Brown Zikmund (eds), Eugene, OR: Pickwick Publishers, 29–48.
-* Martin, Jerry L. (ed), 2020, _Theology Without Walls: The Transreligious Imperative_, London and New York: Routledge.
-* Masuzawa, Tomoko, 2005, _The Invention of World Religions: Or, How European Universalism was Preserved in the Language of Pluralism_, Chicago, IL: University of Chicago Press.
+* –––, 2020, “Sri Ramakrishna’s Philosophy of Anekānta Vedānta”, in *The Bloomsbury Research Handbook of Vedānta*, Ayon Maharaj (ed.), London, Oxford and New York: Bloomsbury, 157–178.
+* Maharaj, Ayon, 2018, *Infinite Paths to Infinite Reality: Sri Ramakrishna and Cross-Cultural Philosophy of Religion*, Oxford: Oxford University Press. doi:10.1093/oso/9780190868239.001.0001
+* Maimonides, Moses, *Guide of the Perplexed*, vol. 1, Shlomo Pines (trans.), Chicago: The University of Chicago Press, 1963.
+* Maitzen, Stephen, 2017, “Against Ultimacy”, in *Renewing Philosophy of Religion: Exploratory Essays*, Paul Draper and J.L. Schellenberg (eds.), Oxford: Oxford University Press, 48–62.
+* Mann, Barbara, 2010, “A Failure to Communicate: How Christian Missionary Assumptions Ignore Binary Patterns of Thinking within Native American Communities”, in *Remembering Jamestown: Hard Questions about Christian Mission*, Amos Young and Barbara Brown Zikmund (eds), Eugene, OR: Pickwick Publishers, 29–48.
+* Martin, Jerry L. (ed), 2020, *Theology Without Walls: The Transreligious Imperative*, London and New York: Routledge.
+* Masuzawa, Tomoko, 2005, *The Invention of World Religions: Or, How European Universalism was Preserved in the Language of Pluralism*, Chicago, IL: University of Chicago Press.
 * Mathews, Freya, 2019, “Living Cosmos Panpsychism 1”, in Seager 2019: 131–143.
 * Mavrodes, George, 2013, “Introduction to Divine Multiplicity”, in Diller and Kasher 2013: 657–660. doi:10.1007/978-94-007-5219-1\_52
-* McFague, Sally, 1987, _Models of God: Theology for an Ecological, Nuclear Age_, Philadelphia, PA: Fortress Press.
-* Meister, Chad, 2017, “Ancient and Contemporary Expressions of Panentheism”, _Philosophy Compass_, 12(9): e12436. doi:10.1111/phc3.12436
-* Miller, James, 2003, _Daoism: A Short Introduction_, Oxford: Oneworld.
-* Mitchell, Helen Buss, 2008, “Philosophy and Ultimate Reality: is Anyone in Charge?” in her _Roots of Wisdom: A Tapestry of Philosophical Traditions_, Belmont, CA: Wadsworth: 166–214.
-* Mulgan, Tim, 2015, _Purpose in the Universe: The Moral and Metaphysical Case for Ananthropocentric Purposivism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199646142.001.0001
-* –––, 2017, “Beyond Theism and Atheism: Axiarchism and Ananthropocentric Purposivism”, _Philosophy Compass_, 12(6): e12420. doi:10.1111/phc3.12420
-* Mullins, Ryan T., 2016, “The Difficulty with Demarcating Panentheism”, _Sophia_, 55(3): 325–346. doi:10.1007/s11841-015-0497-6
-* Nagasawa, Yujin, 2008, “A New Defence of Anselmian Theism”, _The Philosophical Quarterly_, 58(233): 577–596. doi:10.1111/j.1467-9213.2008.578.x
-* –––, 2017, _Maximal God: A New Defense of Perfect Being Theism_, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
+* McFague, Sally, 1987, *Models of God: Theology for an Ecological, Nuclear Age*, Philadelphia, PA: Fortress Press.
+* Meister, Chad, 2017, “Ancient and Contemporary Expressions of Panentheism”, *Philosophy Compass*, 12(9): e12436. doi:10.1111/phc3.12436
+* Miller, James, 2003, *Daoism: A Short Introduction*, Oxford: Oneworld.
+* Mitchell, Helen Buss, 2008, “Philosophy and Ultimate Reality: is Anyone in Charge?” in her *Roots of Wisdom: A Tapestry of Philosophical Traditions*, Belmont, CA: Wadsworth: 166–214.
+* Mulgan, Tim, 2015, *Purpose in the Universe: The Moral and Metaphysical Case for Ananthropocentric Purposivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199646142.001.0001
+* –––, 2017, “Beyond Theism and Atheism: Axiarchism and Ananthropocentric Purposivism”, *Philosophy Compass*, 12(6): e12420. doi:10.1111/phc3.12420
+* Mullins, Ryan T., 2016, “The Difficulty with Demarcating Panentheism”, *Sophia*, 55(3): 325–346. doi:10.1007/s11841-015-0497-6
+* Nagasawa, Yujin, 2008, “A New Defence of Anselmian Theism”, *The Philosophical Quarterly*, 58(233): 577–596. doi:10.1111/j.1467-9213.2008.578.x
+* –––, 2017, *Maximal God: A New Defense of Perfect Being Theism*, Oxford: Oxford University Press. doi:10.1093/oso/9780198758686.001.0001
 * –––, 2019, “Panpsychism Versus Pantheism, Polytheism, and Cosmopsychism”, in Seager 2019: 259–268.
-* Neville, Robert C. (ed.), 2001, _Ultimate Realities_, (The Comparative Religious Ideas Project), Albany, NY: State University of New York Press.
-* –––, 2008, _Ritual and Deference: Extending Chinese Philosophy in a Comparative Context_, Albany, NY: State University of New York Press.
-* –––, 2013, _Ultimates_, Albany, NY: State University of New York Press.
+* Neville, Robert C. (ed.), 2001, *Ultimate Realities*, (The Comparative Religious Ideas Project), Albany, NY: State University of New York Press.
+* –––, 2008, *Ritual and Deference: Extending Chinese Philosophy in a Comparative Context*, Albany, NY: State University of New York Press.
+* –––, 2013, *Ultimates*, Albany, NY: State University of New York Press.
 * Neville, Robert C. and Wesley Wildman, 2001, “Comparative Conclusions about Ultimate Realities”, in Robert C. Neville 2001: 151–185.
-* Nicholson, Andrew, 2010, _Unifying Hinduism: Philosophy and Identity in Indian Intellectual History_, New York: Columbia Press.
-* Nuland, Sherwin B., 1995, _How We Die: Reflections on Life’s Final Chapter_, New York: Vintage Books, Random House Inc.
-* Page, Ben, 2019, “Wherein Lies the Debate? Concerning Whether God Is a Person”, _International Journal for Philosophy of Religion_, 85(3): 297–317. doi:10.1007/s11153-018-9694-x
-* Panikkar, Raimundo \[Raimon], 1987 \[2005], “Deity”, reprinted in _Encyclopedia of Religion_, second edition, 2005, Lindsay Jones (ed.), Detroit: Macmillan Reference USA, an imprint of Thomson Gale, 2252–2263.
-* Parfit, Derek, 1998, “Why Anything? Why This?” _London Review of Books_, 22 January, 20(2): 24–27.
-* Parke, Emily C. and Anya Plutynski, 2020, “What Is the Nature of Theories and Models in Biology?”, in _Philosophy of Science for Biologists_, Kostas Kampourakis and Tobias Uller (eds.), Cambridge: Cambridge University Press, 55–78. doi:10.1017/9781108648981.005
-* Perkins, Franklin, 2014, “Divergences within the Lǎozǐ: A Study of Chapters 67–81”, _T’oung Pao_, 100(1–3): 1–32, reprinted as ch. 31 in Kelly James Clark (ed.), 2017, _Readings in the Philosophy of Religion_, Peterborough, Ontario: Broadview Press: 463–473. doi:10.1163/15685322-10013p01
-* –––, 2019, “Metaphysics in Chinese Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Summer 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/chinese-metaphysics/](https://plato.stanford.edu/archives/sum2019/entries/chinese-metaphysics/)
+* Nicholson, Andrew, 2010, *Unifying Hinduism: Philosophy and Identity in Indian Intellectual History*, New York: Columbia Press.
+* Nuland, Sherwin B., 1995, *How We Die: Reflections on Life’s Final Chapter*, New York: Vintage Books, Random House Inc.
+* Page, Ben, 2019, “Wherein Lies the Debate? Concerning Whether God Is a Person”, *International Journal for Philosophy of Religion*, 85(3): 297–317. doi:10.1007/s11153-018-9694-x
+* Panikkar, Raimundo \[Raimon], 1987 \[2005], “Deity”, reprinted in *Encyclopedia of Religion*, second edition, 2005, Lindsay Jones (ed.), Detroit: Macmillan Reference USA, an imprint of Thomson Gale, 2252–2263.
+* Parfit, Derek, 1998, “Why Anything? Why This?” *London Review of Books*, 22 January, 20(2): 24–27.
+* Parke, Emily C. and Anya Plutynski, 2020, “What Is the Nature of Theories and Models in Biology?”, in *Philosophy of Science for Biologists*, Kostas Kampourakis and Tobias Uller (eds.), Cambridge: Cambridge University Press, 55–78. doi:10.1017/9781108648981.005
+* Perkins, Franklin, 2014, “Divergences within the Lǎozǐ: A Study of Chapters 67–81”, *T’oung Pao*, 100(1–3): 1–32, reprinted as ch. 31 in Kelly James Clark (ed.), 2017, *Readings in the Philosophy of Religion*, Peterborough, Ontario: Broadview Press: 463–473. doi:10.1163/15685322-10013p01
+* –––, 2019, “Metaphysics in Chinese Philosophy”, *The Stanford Encyclopedia of Philosophy* (Summer 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/chinese-metaphysics/](https://plato.stanford.edu/archives/sum2019/entries/chinese-metaphysics/)
 * Pfeifer, Karl, 2016, “Pantheism as Panpsychism”, in Buckareff and Nagasawa 2016: 41–49. doi:10.1093/acprof:oso/9780198722250.003.0003
-* Phillips, Stephen, 2019, “Epistemology in Classical Indian Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/epistemology-india/](https://plato.stanford.edu/archives/spr2019/entries/epistemology-india/)
-* Pinnock, Clark H., Richard Rice, John Sanders, William Hasker and David Basinger, 1994, _The Openness of God: a Biblical Challenge to the Traditional Understanding of God_, Downers Grove, IL: InterVarsity Press.
-* Plantinga, Alvin, 2000, _Warranted Christian Belief_, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
-* Plato, _Timaeus_. Translated in _Plato: The Collected Dialogues_, E. Hamilton and H. Cairns (eds.), Princeton, NJ: Princeton University Press, 1961, pp. 1151–1211.
+* Phillips, Stephen, 2019, “Epistemology in Classical Indian Philosophy”, *The Stanford Encyclopedia of Philosophy* (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/epistemology-india/](https://plato.stanford.edu/archives/spr2019/entries/epistemology-india/)
+* Pinnock, Clark H., Richard Rice, John Sanders, William Hasker and David Basinger, 1994, *The Openness of God: a Biblical Challenge to the Traditional Understanding of God*, Downers Grove, IL: InterVarsity Press.
+* Plantinga, Alvin, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
+* Plato, *Timaeus*. Translated in *Plato: The Collected Dialogues*, E. Hamilton and H. Cairns (eds.), Princeton, NJ: Princeton University Press, 1961, pp. 1151–1211.
 * Plotinus\*, Enneads\*. Loeb edition, vols. 1–7, A. H. Armstrong (trans.), Cambridge, MA: Harvard University Press, 1966–1988.
-* Pregadio, Fabrizio, 2016 \[2020], “Religious Daoism”, _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/daoism-religion/](https://plato.stanford.edu/archives/fall2020/entries/daoism-religion/)
-* Rambachan, Anantanand, 2006, _The Advaita Worldview: God, World and Humanity_, Albany, NY: State University of New York Press.
-* –––, 2015, _A Hindu Theology of Liberation: Not-Two Is Not One_, Albany, NY: State University of New York Press.
-* Rescher, Nicholas, 2010, _Axiogenesis: An Essay in Metaphysical Optimalism_, Lanham, MA: Lexington Books.
-* Reuterdahl, Arvid, 1928, _The God of Science_, Minneapolis, MN: The Arya Company.
-* Robson, James, 2015, “Introduction: Daoism Lost and Found”, in _The Norton Anthology of World Religions, Volume 1: Hinduism, Buddhism, Daoism_, Jack Miles with Wendy Doniger, Donald S. Lopez, Jr. and James Robson (eds.), New York: W.W. Norton & Company, pp. 1473–1500.
+* Pregadio, Fabrizio, 2016 \[2020], “Religious Daoism”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/daoism-religion/](https://plato.stanford.edu/archives/fall2020/entries/daoism-religion/)
+* Rambachan, Anantanand, 2006, *The Advaita Worldview: God, World and Humanity*, Albany, NY: State University of New York Press.
+* –––, 2015, *A Hindu Theology of Liberation: Not-Two Is Not One*, Albany, NY: State University of New York Press.
+* Rescher, Nicholas, 2010, *Axiogenesis: An Essay in Metaphysical Optimalism*, Lanham, MA: Lexington Books.
+* Reuterdahl, Arvid, 1928, *The God of Science*, Minneapolis, MN: The Arya Company.
+* Robson, James, 2015, “Introduction: Daoism Lost and Found”, in *The Norton Anthology of World Religions, Volume 1: Hinduism, Buddhism, Daoism*, Jack Miles with Wendy Doniger, Donald S. Lopez, Jr. and James Robson (eds.), New York: W.W. Norton & Company, pp. 1473–1500.
 * Rodkey, Christopher Demuth, 2013, “Paul Tillich’s Pantheon of Theisms: An Invitation to Think Theonomously”, in Diller and Kasher 2013: 483–495. doi:10.1007/978-94-007-5219-1\_40
-* Rubenstein, Mary-Jane, 2018, _Pantheologies: Gods, Worlds, Monsters_, New York: Columbia University Press.
-* –––, 2019, “Mary-Jane Rubenstein, In-Depth Interview: on the Multiverse, Pantheism, and Beyond”, in _Philosophy for Our Times: 1000+ Debates from the World’s Leading Thinkers_, London: Institute of Art and Ideas (IAI TV), 19 November 2019 (26 minutes). \[[Rubenstein 2019 available online](https://iai.tv/video/mary-jane-rubenstein-in-depth-interview)]
-* Ruhmkorff, Samuel, 2013, “The Incompatibility Problem and Religious Pluralism Beyond Hick: Incompatibility Problem and Religious Pluralism”, _Philosophy Compass_, 8(5): 510–522. doi:10.1111/phc3.12032
-* Sanders, John, 1998, _The God Who Risks: A Theology of Providence_, Downers Grove, IL: InterVarsity Press.
-* Schellenberg, J. L., 2005, _Prologomena to a Philosophy of Religion_, Ithaca, NY: Cornell University Press.
-* –––, 2009, _The Will to Imagine_, Ithaca, NY: Cornell University Press.
+* Rubenstein, Mary-Jane, 2018, *Pantheologies: Gods, Worlds, Monsters*, New York: Columbia University Press.
+* –––, 2019, “Mary-Jane Rubenstein, In-Depth Interview: on the Multiverse, Pantheism, and Beyond”, in *Philosophy for Our Times: 1000+ Debates from the World’s Leading Thinkers*, London: Institute of Art and Ideas (IAI TV), 19 November 2019 (26 minutes). \[[Rubenstein 2019 available online](https://iai.tv/video/mary-jane-rubenstein-in-depth-interview)]
+* Ruhmkorff, Samuel, 2013, “The Incompatibility Problem and Religious Pluralism Beyond Hick: Incompatibility Problem and Religious Pluralism”, *Philosophy Compass*, 8(5): 510–522. doi:10.1111/phc3.12032
+* Sanders, John, 1998, *The God Who Risks: A Theology of Providence*, Downers Grove, IL: InterVarsity Press.
+* Schellenberg, J. L., 2005, *Prologomena to a Philosophy of Religion*, Ithaca, NY: Cornell University Press.
+* –––, 2009, *The Will to Imagine*, Ithaca, NY: Cornell University Press.
 * –––, 2016, “God for All Time: From Theism to Ultimism”, in Buckareff and Nagasawa 2016: 164–177. doi:10.1093/acprof:oso/9780198722250.003.0010
-* Schipper, Kristofer, 1982 \[1993], _Le Corps taoïste_, Paris: Arthème Fayard. Translated as _The Taoist Body_, Karen C. Duval (trans.), Berkeley, CA: University of California Press, 1993.
-* Schmidt-Leukel, Perry, 2019, _Buddha Mind - Christ Mind: A Christian Commentary on the Bodhicaryavatara_, Ernst Steinkellner and Cynthia Peck-Kubaczek (trans.), Leuven-Paris-Bristol: Peeters Publishers. doi:10.2307/j.ctv1q26wkd
-* Seager, William (ed.), 2019, _The Routledge Handbook of Panpsychism_, New York: Routledge. doi:10.4324/9781315717708
-* Seeskin, Kenneth, 2013, “Strolling with Maimonides on the _Via Negativa_”, in Diller and Kasher 2013: 793–799. doi:10.1007/978-94-007-5219-1\_66
+* Schipper, Kristofer, 1982 \[1993], *Le Corps taoïste*, Paris: Arthème Fayard. Translated as *The Taoist Body*, Karen C. Duval (trans.), Berkeley, CA: University of California Press, 1993.
+* Schmidt-Leukel, Perry, 2019, *Buddha Mind - Christ Mind: A Christian Commentary on the Bodhicaryavatara*, Ernst Steinkellner and Cynthia Peck-Kubaczek (trans.), Leuven-Paris-Bristol: Peeters Publishers. doi:10.2307/j.ctv1q26wkd
+* Seager, William (ed.), 2019, *The Routledge Handbook of Panpsychism*, New York: Routledge. doi:10.4324/9781315717708
+* Seeskin, Kenneth, 2013, “Strolling with Maimonides on the *Via Negativa*”, in Diller and Kasher 2013: 793–799. doi:10.1007/978-94-007-5219-1\_66
 * Shaffer, Nancy J., 2013, “Pseudo-Dionysius and the Negation of Models of God”, in Diller and Kasher 2013: 783–792. doi:10.1007/978-94-007-5219-1\_65
-* Shani, Itay, 2015, “Cosmopsychism: A Holistic Approach to the Metaphysics of Experience”, _Philosophical Papers_, 44(3): 389–437. doi:10.1080/05568641.2015.1106709
-* Simon, David Worthington, 1898, _Reconciliation by Incarnation_, Edinburgh: T. & T. Clark.
-* Song, Bin, 2018, _A Study of Comparative Philosophy of Religion on “Creatio Ex Nihilo” and “Sheng Sheng” (Birth, Birth 生生)_, PhD thesis, Boston University. [Song 2018 available online](https://hdl.handle.net/2144/34763)
-* Spinoza, Benedict, 1677, _Ethica, ordine geometrico demonstrata_. Translated as _Ethics Demonstrated in Geometrical Order_, in _The Collected Works of Spinoza, volume 1_, Edwin Curley (ed./trans.), Princeton: Princeton University Press, 1985, pp. 400–617.
-* Swinburne, Richard, 1993, _The Coherence of Theism_, revised edition, Oxford: Clarendon Press. First edition 1977. doi:10.1093/0198240708.001.0001
-* Tapasyananda, Swami, 1990, _Bhakti Schools of Vedanta_, Mylapore, Madras: Sri Ramakrishna Math Printing Press.
+* Shani, Itay, 2015, “Cosmopsychism: A Holistic Approach to the Metaphysics of Experience”, *Philosophical Papers*, 44(3): 389–437. doi:10.1080/05568641.2015.1106709
+* Simon, David Worthington, 1898, *Reconciliation by Incarnation*, Edinburgh: T. & T. Clark.
+* Song, Bin, 2018, *A Study of Comparative Philosophy of Religion on “Creatio Ex Nihilo” and “Sheng Sheng” (Birth, Birth 生生)*, PhD thesis, Boston University. [Song 2018 available online](https://hdl.handle.net/2144/34763)
+* Spinoza, Benedict, 1677, *Ethica, ordine geometrico demonstrata*. Translated as *Ethics Demonstrated in Geometrical Order*, in *The Collected Works of Spinoza, volume 1*, Edwin Curley (ed./trans.), Princeton: Princeton University Press, 1985, pp. 400–617.
+* Swinburne, Richard, 1993, *The Coherence of Theism*, revised edition, Oxford: Clarendon Press. First edition 1977. doi:10.1093/0198240708.001.0001
+* Tapasyananda, Swami, 1990, *Bhakti Schools of Vedanta*, Mylapore, Madras: Sri Ramakrishna Math Printing Press.
 * Thomas, Emily, 2016, “Samuel Alexander’s Space-Time God”, in Buckareff and Nagasawa 2016: 255–273. doi:10.1093/acprof:oso/9780198722250.003.0015
-* Tillich, Paul, 1951, _Systematic Theology I_, Chicago, IL: University of Chicago Press.
-* –––, 1957a, _Dynamics of Faith_, New York: Harper & Row.
-* –––, 1957b, _Systematic Theology II_, Chicago, IL: University of Chicago Press.
-* Vallicella, William F., 2006 \[2019], “Divine Simplicity”, _The Stanford Encyclopedia of Philosophy_ (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/divine-simplicity/](https://plato.stanford.edu/archives/spr2019/entries/divine-simplicity/)
-* Vireswarananda, Swami, 1936, _Brahma-Sutras: With Text, Word-for-word Translation, English Rendering, Comments and Index_, Calcutta, India: The Art Press.
+* Tillich, Paul, 1951, *Systematic Theology I*, Chicago, IL: University of Chicago Press.
+* –––, 1957a, *Dynamics of Faith*, New York: Harper & Row.
+* –––, 1957b, *Systematic Theology II*, Chicago, IL: University of Chicago Press.
+* Vallicella, William F., 2006 \[2019], “Divine Simplicity”, *The Stanford Encyclopedia of Philosophy* (Spring 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/divine-simplicity/](https://plato.stanford.edu/archives/spr2019/entries/divine-simplicity/)
+* Vireswarananda, Swami, 1936, *Brahma-Sutras: With Text, Word-for-word Translation, English Rendering, Comments and Index*, Calcutta, India: The Art Press.
 * Viney, Donald Wayne, 2013, “Relativizing the Classical Tradition: Hartshorne’s History of God”, in Diller and Kasher 2013: 63–79. doi:10.1007/978-94-007-5219-1\_6
-* Wang, Robin R., 2012, _Yinyang: The Way of Heaven and Earth in Chinese Thought and Culture_, New York: Cambridge University Press. doi:10.1017/CBO9780511687075
-* Ward, Keith, 1998, _Concepts of God: Images of the Divine in the Five Religious Traditions_, London: Oneworld Academic.
-* Watts, Alan, 1947, _Behold the Spirit: A Study in the Necessity of Mystical Religion_, London: John Murray.
-* –––, 1972, _In My Own Way: An Autobiography 1915–1965_, Novato, CA: New World Library.
-* Weinberg, Rivka, 2021, “Ultimate Meaning: We Don’t Have It, We Can’t Get It, and We Should Be Very, Very Sad”, _Journal of Controversial Ideas_, 1(1): art. 4 (22 pages). doi:10.35995/jci01010004
+* Wang, Robin R., 2012, *Yinyang: The Way of Heaven and Earth in Chinese Thought and Culture*, New York: Cambridge University Press. doi:10.1017/CBO9780511687075
+* Ward, Keith, 1998, *Concepts of God: Images of the Divine in the Five Religious Traditions*, London: Oneworld Academic.
+* Watts, Alan, 1947, *Behold the Spirit: A Study in the Necessity of Mystical Religion*, London: John Murray.
+* –––, 1972, *In My Own Way: An Autobiography 1915–1965*, Novato, CA: New World Library.
+* Weinberg, Rivka, 2021, “Ultimate Meaning: We Don’t Have It, We Can’t Get It, and We Should Be Very, Very Sad”, *Journal of Controversial Ideas*, 1(1): art. 4 (22 pages). doi:10.35995/jci01010004
 * Wildman, Wesley J., 2001, “On the Process of the Project during the Second Year”, in Neville 2001: 261–274.
 * –––, 2013, “Introduction to Negative Theology”, in Diller and Kasher 2013: 767–773. doi:10.1007/978-94-007-5219-1\_63
-* –––, 2017, _In Our Own Image: Anthropomorphism, Apophaticism, and Ultimacy_, Oxford: Oxford University Press. doi:10.1093/oso/9780198815990.001.0001
-* Wesley J. Wildman with Jerry L. Martin, 2020, “Daunting Choices in Transreligious Theology: A Case Study”, in _Theology Without Walls: The Transreligious Imperative_, Jerry L. Martin (ed.), New York: Routledge, pp. 119–127.
-* Wright, Robert, 2010, _The Evolution of God_, New York: Back Bay Books, Little, Brown and Company.
-* Zagzebski, Linda, 2007, _Philosophy of Religion: An Historical Introduction_, Malden, MA: Blackwell Publishing.
-* Zhuangzi, _The Zhuangzi_, in _The Complete Works of Zhuangzi_, Burton Watson (trans.), New York: Columbia University Press, 2013.
-* Zürn, Tobias Benedikt, 2018, “Overgrown Courtyards and Tilled Fields: Image-based Debates on Governance and Body Politics in the _Mengzi_, _Zhuangzi_, and _Huainanzi_”, _Early China_, 41: 297–332. doi:10.1017/eac.2018.5
+* –––, 2017, *In Our Own Image: Anthropomorphism, Apophaticism, and Ultimacy*, Oxford: Oxford University Press. doi:10.1093/oso/9780198815990.001.0001
+* Wesley J. Wildman with Jerry L. Martin, 2020, “Daunting Choices in Transreligious Theology: A Case Study”, in *Theology Without Walls: The Transreligious Imperative*, Jerry L. Martin (ed.), New York: Routledge, pp. 119–127.
+* Wright, Robert, 2010, *The Evolution of God*, New York: Back Bay Books, Little, Brown and Company.
+* Zagzebski, Linda, 2007, *Philosophy of Religion: An Historical Introduction*, Malden, MA: Blackwell Publishing.
+* Zhuangzi, *The Zhuangzi*, in *The Complete Works of Zhuangzi*, Burton Watson (trans.), New York: Columbia University Press, 2013.
+* Zürn, Tobias Benedikt, 2018, “Overgrown Courtyards and Tilled Fields: Image-based Debates on Governance and Body Politics in the *Mengzi*, *Zhuangzi*, and *Huainanzi*”, *Early China*, 41: 297–332. doi:10.1017/eac.2018.5
 
 ## Academic Tools
 
@@ -397,7 +395,7 @@ Wildman 通过自己遵循这一计划来展示他的计划（2017）。有趣�
 
 * [All Things Cosmic, The Center for Process Studies](https://ctr4process.org/our-work/projects/podcast/), on process philosophy and theology
 * [The Analytic Theology Project (2010–2014)](https://philreligion.nd.edu/research-initiatives/the-analytic-theology-project/), about the growing field of analytic theology.
-* Interviews at _Closer to Truth_ site:
+* Interviews at *Closer to Truth* site:
   * [What is Ultimate Reality? (Part 1)](https://www.closertotruth.com/series/what-ultimate-reality-part-1)
   * [What is Ultimate Reality? (Part 2)](https://www.closertotruth.com/series/what-ultimate-reality-part-2)
   * [Is Consciousness Ultimate Reality?](https://www.closertotruth.com/series/consciousness-ultimate-reality)
@@ -419,4 +417,4 @@ Wildman 通过自己遵循这一计划来展示他的计划（2017）。有趣�
 The author is indebted to Jeffery Long as well as Bin Song and Tobias Zürn for their indispensable assistance on the sections on Brahman and the Dao, respectively, and to John Bishop, Paul Draper, David Perry, and Samuel Ruhmkorff for reading preliminary drafts and many helpful conversations. The author is also grateful to Yujin Nagasawa for valuable comments as this entry took shape and to Edwin Curley and George Mavrodes for important formation on this topic.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Jeanine Diller <[_jeanine.diller@utoledo.edu_](mailto:jeanine%2ediller%40utoledo%2eedu)>
+Jeanine Diller <[*jeanine.diller@utoledo.edu*](mailto:jeanine%2ediller%40utoledo%2eedu)>

@@ -1,6 +1,6 @@
 # 翻译和解释中国哲学 translating and interpreting (Henry Rosemont Jr.)
 
-_首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8 月 9 日星期五_
+*首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8 月 9 日星期五*
 
 问题和解释书面文本的问题与翻译它们的问题是不同的，但这两者很少能够被单独分析。此外，两者都与语言问题密切相关。在翻译文本时遇到的困难显然会导致在解释文本时遇到困难，反之亦然：我们对理解文本内容的信心越低，就越难确信我们自己（或他人的）翻译是正确的。
 
@@ -32,7 +32,7 @@ _首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8
 
 在接下来的 150 年里，对汉语的研究主要由传教士、商人和外交官掌握，他们都是业余爱好者，对这门语言的洞察力与对其起源、性质和发展的幻想性推测混杂在一起。这些研究的主要目标是确定中国哲学和宗教信仰在多大程度上与“唯一真理信仰”相符，以便推动皈依工作的进行。
 
-接近现在，关于语言性质的争论与莱布尼茨时代大不相同，但几乎同样频繁，从如何称呼构成书面形式的字符开始。被提名为这一称号的候选人包括_词形文字_、_音形文字_、_音标文字_、_音标形文字_、_意符_、_形符_、_汉字_、_音节符_和_音节-音标文字_。
+接近现在，关于语言性质的争论与莱布尼茨时代大不相同，但几乎同样频繁，从如何称呼构成书面形式的字符开始。被提名为这一称号的候选人包括_词形文字_、*音形文字*、*音标文字*、*音标形文字*、*意符*、*形符*、*汉字*、*音节符_和_音节-音标文字*。
 
 对于当前目的，只需注意这个命名法，其术语分为强调图形传达声音（音韵学）的部分，这部分占大多数，以及少数暗示图形基本上作为思想或意义的传达者的部分，即语义学（以下将继续交替使用更一般的术语“字符”和“图形”）。在字符的一般类别中，有一些小分组，它们的名称已经被普遍认可了一段时间。其中三个小分组我们必须简要考察。
 
@@ -40,9 +40,9 @@ _首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8
 
 第二个成员，仍然相当小的字符集，通常被称为“表意文字”，据说代表着无法直接描绘的更抽象的概念。这里有两个子集。第一个包括相当简单和直接的图形：一、二、三分别表示 1、2、3，上和下分别表示“上”和“下”或“高”和“低”。第二个子集涉及不那么简单和直接的图形，但它们确实具有很多说明内容。这一类表意文字的一些著名教科书示例是_明_，它将太阳日和月亮月的图像结合在一起，表示中文“明”这个词（与英语一样，它也表示“聪明”）。这是字符约定性的典型例子。太阳和月亮在一起确实暗示了光明、照明等等。但一支蜡烛或两支蜡烛的图片，一团火或两团火也会有同样的效果。许多图片可能代表一个词或概念，因此，在某种程度上，仅凭图像本身无法明确确定所指，必须成为约定俗成。
 
-一起，象形文字和指事文字组成的汉字不到全部汉字的 10%。在剩下的 90%中，远远最常见的通常被称为_形声字_。这些由至少两个元素组成，其中一个是语义的或表示含义的，并被称为_形旁_或更具误导性的_部首_。复合图形中的另一个元素是_声旁_，或表示声音的组成部分。因此，中文中表示“蜘蛛”的字（朱）的发音与表示“深红色”（酒红色，朱红色）的字完全相同，因此表示“蜘蛛”的字中包含了那个颜色词（朱）。但为了在书面形式中更清楚地表示参考，已经添加了表示“昆虫”的字（虫）作为一个形旁，得到了形声字蛛，_zhu_。
+一起，象形文字和指事文字组成的汉字不到全部汉字的 10%。在剩下的 90%中，远远最常见的通常被称为_形声字_。这些由至少两个元素组成，其中一个是语义的或表示含义的，并被称为_形旁_或更具误导性的_部首_。复合图形中的另一个元素是_声旁_，或表示声音的组成部分。因此，中文中表示“蜘蛛”的字（朱）的发音与表示“深红色”（酒红色，朱红色）的字完全相同，因此表示“蜘蛛”的字中包含了那个颜色词（朱）。但为了在书面形式中更清楚地表示参考，已经添加了表示“昆虫”的字（虫）作为一个形旁，得到了形声字蛛，*zhu*。
 
-形声字组成并不是一个整洁的集合。_道_——可能是中国古典词汇中最富含义的字符——有两个主要组成部分，它们本身都是形旁，而且在古代或现代的发音中都与_道_完全不同。
+形声字组成并不是一个整洁的集合。*道*——可能是中国古典词汇中最富含义的字符——有两个主要组成部分，它们本身都是形旁，而且在古代或现代的发音中都与_道_完全不同。
 
 同样，表示“谎言”、“诬告”或“恶意”的字_wu_的发音与表示“女巫”或“萨满”的字巫相同，当它以书面形式出现时，巫成为该字的声旁，加上“言”作为形旁。现在如果我们注意到古代中国的女巫是不可信的，我们最终得到一个表示“女巫之言”的字，誣——但该字被列为形声字，而不是指事文字。这个例子可以泛化：许多所谓的“声旁”元素在复杂的汉字中也具有语义内容，而且通常比形旁更具表示含义。利用发音类似的词汇为一个或多个词汇生成新的含义被称为“谐音”（Ames 2008），有时，同音词或近音词被用来定义一个词汇，这是中国第一部字典《说文解字》（约公元 1 世纪）中使用的技术。
 
@@ -62,7 +62,7 @@ _首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8
 
 尽管书面古代汉语的语法与当时或现在的口语有所不同，它既不系统也不完整，但人们不应认为它是在很久以前某个特定地点和时间由一些特别聪明的中国知识分子有意地组合在一起的，就像 Jacob Gohl 所做的那样(Duyvendak 1936: 6)。相反，它几乎可以确定是商代甲骨文的发展(Keightley 1978)。因此，书面语言和口语经过数个世纪的演变发展出不同的形式。
 
-口语，像其他语言一样，大部分时间都在经历语音变化，而书面形式无法反映这一点，因为它不是字母性质的；因此出现了音旁字的使用， _《说文》_ 中记录的 9350 多个字中已经有将近 7000 个是音旁字。由于书面形式不再能反映口语的声音，因此几乎没有动力去尝试反映语法，尤其是要记住口语确实在不断变化，而将它们之间的声音和声音模式的差异称为“方言”忽略了一些变体之间(以及现在)彼此之间的差异，就像意大利语和德语之间那样不同。从这个意义上说，“我说中文”就像说“我说欧洲语”。因此，这两种语言形式在很大程度上分开演变，口语，我们可以推测，变化更快，无论是在地区“方言”内部还是之间。
+口语，像其他语言一样，大部分时间都在经历语音变化，而书面形式无法反映这一点，因为它不是字母性质的；因此出现了音旁字的使用， *《说文》* 中记录的 9350 多个字中已经有将近 7000 个是音旁字。由于书面形式不再能反映口语的声音，因此几乎没有动力去尝试反映语法，尤其是要记住口语确实在不断变化，而将它们之间的声音和声音模式的差异称为“方言”忽略了一些变体之间(以及现在)彼此之间的差异，就像意大利语和德语之间那样不同。从这个意义上说，“我说中文”就像说“我说欧洲语”。因此，这两种语言形式在很大程度上分开演变，口语，我们可以推测，变化更快，无论是在地区“方言”内部还是之间。
 
 这些因素至少导致一位著名的汉学家声称，“汉字使中国文明成为书本文化，而非口头文化” (Creel 1997: 447)。这种概括在很大程度上基于克里尔早期的工作，试图展示大多数汉字的语义基础，即它们基本上是指意文字 (1936)。彼得·布德伯格迅速并详细地回应，为克里尔分析为语义的图形提供了语音解释 (1937)。这场辩论继续下去，不乏争执，克里尔做出了回应 (1938)，布德伯格也做出了反驳 (1940)。更近些年，约翰·德弗朗西斯长时间坚决主张对汉字进行语音解释 (1984)，威廉·汉纳斯也持相同观点，
 
@@ -118,7 +118,7 @@ _首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8
 
 现在在第一次翻译中，我们不知道是谁说公鸡已经啼叫了。在第二次翻译中，是女士，而在第三次翻译中，是她的情人。这些模式贯穿剩余的各节。很明显，这首诗会因为我们认为谁在说什么而被不同地理解和享受。李约瑟和韦礼是非常著名的翻译家，如果一些汉学家对包括埃兹拉·庞德的作品感到不满意——他开始时只懂得古代汉语的基本知识——也有其他人欣赏庞德的努力，特别是他对《论语》和《诗经》的翻译（Harbsmeier 1990: 140；关于这方面对庞德的另一种赞赏，请参见 Nylan 2014: xxxiii–xl）。同样普遍的风格规则是采用平行句式结构。有时，这对于解释晦涩的句子非常有帮助，尤其是当它们在结构上与其他句子前后相同时。但同样经常出现的是，除了第一对之外，其他人都会产生模糊和/或不确定性。
 
-因此，在语言学研究中，风格问题在形式上与句法有所区别，但在古代汉语中二者紧密相连，使得许多句子即使在上下文中也难以理解。(有时这使它们更容易理解：风格，尤其是排比，有时可以指示对段落的最佳句法阅读)。总的来说——尤其是由于缺乏屈折变化——可以说该语言在“句法上过度决定”，因为可能有许多语法上可能的解释方式来解释一个句法生成的句子 (Fuller 1999: 2; Karlgren 1962)。在许多情况下，有多种解读与该段落的上下文和/或整个文本一致。这种情况受早期古代汉语缺乏标点符号的影响而变得更加严重：直到后来才在文本中插入句号、冒号、分号、破折号、逗号或括号，现在你放置逗号和/或句号的位置可能会导致对文本的完全不同解读 (例如：“约翰认为玛莎是个傻瓜”；“约翰，认为玛莎，是个傻瓜”)。书面语部分弥补了缺乏标点符号的不足，通过使用“虚词”，这些图形本身几乎没有意义，但起着语法指导作用：例如，_者_, 者, 通常将其前面的内容名词化；_也_, 也, 是一个短语结尾标记；_乎_, 乎, 结束疑问句；等等。还有一些其他图形既充当虚词又充当实词。图形_之_, 之, 是属格的标志。令人遗憾的是，它也可以用作代词，以及“去”的另一个词。也就是说，在句子中并不总是容易看出_之_应该放在哪个句法范畴中。事实上，甚至有人认为，英语中语言的焦点是句子，而在古代汉语中是上下文 (DeFrancis 1984: 52; Hansen 1992: 34)。
+因此，在语言学研究中，风格问题在形式上与句法有所区别，但在古代汉语中二者紧密相连，使得许多句子即使在上下文中也难以理解。(有时这使它们更容易理解：风格，尤其是排比，有时可以指示对段落的最佳句法阅读)。总的来说——尤其是由于缺乏屈折变化——可以说该语言在“句法上过度决定”，因为可能有许多语法上可能的解释方式来解释一个句法生成的句子 (Fuller 1999: 2; Karlgren 1962)。在许多情况下，有多种解读与该段落的上下文和/或整个文本一致。这种情况受早期古代汉语缺乏标点符号的影响而变得更加严重：直到后来才在文本中插入句号、冒号、分号、破折号、逗号或括号，现在你放置逗号和/或句号的位置可能会导致对文本的完全不同解读 (例如：“约翰认为玛莎是个傻瓜”；“约翰，认为玛莎，是个傻瓜”)。书面语部分弥补了缺乏标点符号的不足，通过使用“虚词”，这些图形本身几乎没有意义，但起着语法指导作用：例如，*者*, 者, 通常将其前面的内容名词化；*也*, 也, 是一个短语结尾标记；*乎*, 乎, 结束疑问句；等等。还有一些其他图形既充当虚词又充当实词。图形_之_, 之, 是属格的标志。令人遗憾的是，它也可以用作代词，以及“去”的另一个词。也就是说，在句子中并不总是容易看出_之_应该放在哪个句法范畴中。事实上，甚至有人认为，英语中语言的焦点是句子，而在古代汉语中是上下文 (DeFrancis 1984: 52; Hansen 1992: 34)。
 
 关于古代汉语的句法以及它在任何时候都不完全反映口语的句法的方式，还有很多要说的，但为了理解中国哲学翻译问题，我们可以让一本当代古代汉语教科书的作者有最后的发言权 (Fuller 1999: 2)：
 
@@ -132,7 +132,7 @@ _首次发布于 2015 年 10 月 27 日星期二；实质性修订于 2019 年 8
 
 > 道 可 道 非 常 道
 
-_Dao ke dao fei chang dao_.
+*Dao ke dao fei chang dao*.
 
 道
 
@@ -184,9 +184,9 @@ _Dao ke dao fei chang dao_.
 
 首先是一点语法。翻译 1-4 都将第一和第三次出现的_dao_视为名词，第二次视为动词。第 5 个将所有三个都视为动词，第 6 个几乎将所有三个都视为名词。原文中没有严格禁止其中任何一种；每种翻译的最终决定因素几乎肯定更多地取决于译者对整体文本的解释，而不是语言本身。
 
-转向语义学，虽然这六种翻译彼此之间有家族相似之处，但在哲学上，1、2、4 和 6 中所作的本体论主张与 3 和 5 中关于_dao_本质的主张是不同的：在前者中，如果你能_谈论_它，那就不是一个（或者说是）不变的_dao_；而在 3 和 5 中，主张是如果你能_走_（踏上，追随）这个（或者一个）_dao_，那就不是一个（或者说是）不变的_dao_。括号中的文章在这里也具有本体论的重要性： “_一个_”_dao_肯定不同于“_那个_”_dao_（中文中没有冠词）。其中四位译者将“way”/“tao”/“dao”首字母大写，这可能是为了告诉读者比使用小写字母传达的信息更多（当然，在原文中是不可能的）。但到底传达的是什么？
+转向语义学，虽然这六种翻译彼此之间有家族相似之处，但在哲学上，1、2、4 和 6 中所作的本体论主张与 3 和 5 中关于_dao_本质的主张是不同的：在前者中，如果你能_谈论_它，那就不是一个（或者说是）不变的_dao_；而在 3 和 5 中，主张是如果你能_走_（踏上，追随）这个（或者一个）*dao*，那就不是一个（或者说是）不变的_dao_。括号中的文章在这里也具有本体论的重要性： “*一个*”_dao_肯定不同于“*那个*”*dao*（中文中没有冠词）。其中四位译者将“way”/“tao”/“dao”首字母大写，这可能是为了告诉读者比使用小写字母传达的信息更多（当然，在原文中是不可能的）。但到底传达的是什么？
 
-_Dao_绝不是唯一一个具有这种不同含义的字符，尽管它是一个特例。_De_，德，也有同样多样的含义：“美德”，“力量”，“卓越”，“力量”，“行为”，“魅力”。许多其他具有哲学意义的图形也是如此。与此同时，许多其他图形的含义并不足以引起哲学解释上的问题。例如，_Fa_，法，条目包括“法律”，“规定”，“方法”，“模式”，其中_fa_的一般含义相当明确，或者至少足够清晰，以至于任何英文术语通常都可以用来翻译它而不会丧失意义或产生哲学上的扭曲。
+_Dao_绝不是唯一一个具有这种不同含义的字符，尽管它是一个特例。*De*，德，也有同样多样的含义：“美德”，“力量”，“卓越”，“力量”，“行为”，“魅力”。许多其他具有哲学意义的图形也是如此。与此同时，许多其他图形的含义并不足以引起哲学解释上的问题。例如，*Fa*，法，条目包括“法律”，“规定”，“方法”，“模式”，其中_fa_的一般含义相当明确，或者至少足够清晰，以至于任何英文术语通常都可以用来翻译它而不会丧失意义或产生哲学上的扭曲。
 
 回到《道德经》的第一行，所有六位译者都能提出选择所用英文单词的充分理由；他们的翻译符合中文的句法和语义，但没有上下文，无法确定句子作者打算表达的意思；事实上，我们不知道文本的几位贡献者中的哪一位写下了第一行。在这种情况下，逻辑慈善原则对此无济于事——假设作者（们）不会自相矛盾——因为《道德经》以悖论著称：第 56 章开头写道：“知者不言，言者不知”，这显然是有意为之，虽然在逻辑上容易遭受“你也是”指责，但在修辞上却很有效。因此，询问这六个翻译中哪一个是“正确”的，甚至是“最好”的，都毫无意义，除非基于对整个文本的解释，目前提供的这六个翻译相互竞争。事实上，有很大可能性是该行的作者“打算”产生与第二个“道”解释有关的模棱两可，这样一来，就不可能用英文给出正确的翻译。一位长期研究早期道家思想的学生简洁地总结了这个问题：“阅读\[它]是一种创造行为”（韦尔奇 1971 年：11）。我们将回到模糊性主题——在[§4.2](https://plato.stanford.edu/entries/chinese-translate-interpret/#TraTru)中讨论的句法和语义方面。
 
@@ -326,7 +326,7 @@ _真理_可能相对于一个概念方案而言，这个想法对格雷厄姆来
 
 当代中国学者提出的问题之一是儒家思想是否可以合理地被视为一种宗教。文本中是否有资源表明可以将其确立为国教？（康晓光）。焦点不应该放在理论上，而应该放在精神实践上吗？（庞飞）。什么样的宪法最能反映当今世界的儒家思想？（姜庆）。今天最好是将儒家思想与西方哲学背景进行比较研究吗？（张龙喜）。还是必须在其自身文化背景下进行研究？（张祥龙）。
 
-这是一项重要的工作，显然具有很大的政治和哲学意义，尽管其中的政治内容似乎并非受到任何形式的民族主义启发（尽管明显可以看出对文化自豪感的追求）。对于西方人来说，其中一些内容可能显得保守，比如一本关于“当代中国儒学复兴”的选集的编辑表示：“在这些论文中……对西方人权观念只是付之东流”（范恩 2011 年：2）。另一些人设想了一种“进步的”儒学（安格尔 2012 年：1），毫不奇怪，其中包含更多西方元素。然而，中国当代哲学研究的大部分内容对西方哲学家（或普通公众）并不具有直接的吸引力，这就是为什么比较研究者翻译成中文的作品数量很多，而中文学术作品被翻译成英文的数量却很少的原因。中国人可以并且确实密切研究他们西方同行的作品，主要是为了从这些作品中获得对自己传统的启示。而从另一方面来看，我们在英文中很少看到这样的作品：蒋庆的政治文本（2012 年）和李泽厚的一些关于美学的著作（2006 年，2009 年）。除此之外几乎没有其他作品，而已有的作品往往是专业选集中的文章（范恩 2011 年）或翻译期刊（_当代中国思想_，_中国人文学刊_）中的文章。
+这是一项重要的工作，显然具有很大的政治和哲学意义，尽管其中的政治内容似乎并非受到任何形式的民族主义启发（尽管明显可以看出对文化自豪感的追求）。对于西方人来说，其中一些内容可能显得保守，比如一本关于“当代中国儒学复兴”的选集的编辑表示：“在这些论文中……对西方人权观念只是付之东流”（范恩 2011 年：2）。另一些人设想了一种“进步的”儒学（安格尔 2012 年：1），毫不奇怪，其中包含更多西方元素。然而，中国当代哲学研究的大部分内容对西方哲学家（或普通公众）并不具有直接的吸引力，这就是为什么比较研究者翻译成中文的作品数量很多，而中文学术作品被翻译成英文的数量却很少的原因。中国人可以并且确实密切研究他们西方同行的作品，主要是为了从这些作品中获得对自己传统的启示。而从另一方面来看，我们在英文中很少看到这样的作品：蒋庆的政治文本（2012 年）和李泽厚的一些关于美学的著作（2006 年，2009 年）。除此之外几乎没有其他作品，而已有的作品往往是专业选集中的文章（范恩 2011 年）或翻译期刊（*当代中国思想*，*中国人文学刊*）中的文章。
 
 总之，中国哲学中的文本诠释和翻译是一种文化实践，但在不同的文化中通常有不同的实践方式。这种情况正在慢慢改变，但可能在相当长的一段时间内不会有太大改变。
 
@@ -370,9 +370,9 @@ _真理_可能相对于一个概念方案而言，这个想法对格雷厄姆来
 
 戴维森（Davidson）专注于命题真理（见[§2.2](https://plato.stanford.edu/entries/chinese-translate-interpret/#VerDifIdeConSch)以上），这与大多数 20 世纪的英语哲学家关注语言作为向我们的人类同伴传达世界事实的主要手段是完全一致的。当事实确实如所传达时，我们说表达它们的陈述是“真实的”。事实与表述之间的关系的确切性质产生了不同的真理理论 - 对应、一致、实用、语义，甚至“贬值” - 尽管问题今天仍然是一个开放的问题，尽管追求答案的哲学家越来越少。
 
-无论采用哪种理论，阐述“真理”概念都涉及一系列相关概念：_句子、命题、陈述、事实、语义、指称、内涵、外延_，以及其他一些概念。然而，还有另一种关于“真理”的概念，其中直接传达信息并不是定义的核心，因此“知识”也被构想得有些不同。对于一些哲学家来说，语言的其他用途可能同样重要，甚至更重要。记得查德·汉森（Chad Hansen）的说法（见[§2.2](https://plato.stanford.edu/entries/chinese-translate-interpret/#VerDifIdeConSch)）：所有早期中国哲学家都认为“语言是一种社会实践。它的基本功能是引导话语”（1992: 3）。如果是这样，那么将图形_zhi_标准翻译为“知识”就变得有问题，因为它与“合理的真实信念”等同。罗斯蒙特（Rosemont）认为：“我们倾向于关注语言的信息传递用途，即传递_知识的_”。根据他的说法，如果将_zhi_翻译为“实现”而不是“知识”，读者将获益更多，这是根据霍尔和艾姆斯（Hall and Ames）（1987）的说法。 “如果‘个人化’意味着‘使个人化’，那么‘实现’就是‘使真实’，意味着_知道如何，知道关于，知道要_”（罗斯蒙特 2012: 47）。斯蒂芬·安格尔（Stephen Angle）和贾斯汀·泰沃尔德（Justin Tiwald）在一本即将出版的关于宋明理学的书中也指出了类似的事情，他们表示将专注于“将知识视为一种活动而不是一组真理”（2015: 5, 1）。
+无论采用哪种理论，阐述“真理”概念都涉及一系列相关概念：*句子、命题、陈述、事实、语义、指称、内涵、外延*，以及其他一些概念。然而，还有另一种关于“真理”的概念，其中直接传达信息并不是定义的核心，因此“知识”也被构想得有些不同。对于一些哲学家来说，语言的其他用途可能同样重要，甚至更重要。记得查德·汉森（Chad Hansen）的说法（见[§2.2](https://plato.stanford.edu/entries/chinese-translate-interpret/#VerDifIdeConSch)）：所有早期中国哲学家都认为“语言是一种社会实践。它的基本功能是引导话语”（1992: 3）。如果是这样，那么将图形_zhi_标准翻译为“知识”就变得有问题，因为它与“合理的真实信念”等同。罗斯蒙特（Rosemont）认为：“我们倾向于关注语言的信息传递用途，即传递_知识的_”。根据他的说法，如果将_zhi_翻译为“实现”而不是“知识”，读者将获益更多，这是根据霍尔和艾姆斯（Hall and Ames）（1987）的说法。 “如果‘个人化’意味着‘使个人化’，那么‘实现’就是‘使真实’，意味着_知道如何，知道关于，知道要_”（罗斯蒙特 2012: 47）。斯蒂芬·安格尔（Stephen Angle）和贾斯汀·泰沃尔德（Justin Tiwald）在一本即将出版的关于宋明理学的书中也指出了类似的事情，他们表示将专注于“将知识视为一种活动而不是一组真理”（2015: 5, 1）。
 
-这也可以被解释为“真理”，即使不是命题的，并且围绕它有一个不同的概念群：_真实性_、_参与_、_值得信赖_、_正直_、_诚实_、_正直_，等等。2014 年，一场庆祝新的跨文化哲学在线期刊（_Confluence_，1，1）创刊的研讨会致力于探讨在追求跨文化哲学研究中真理的概念是否有用。四位讨论者代表了日本哲学、儒家思想、阿兹特克哲学和藏传佛教。他们都没有在所研究的文化中找到与命题意义上的“真理”非常接近的近似概念，但四位都表示，在他们所研究的思想和传统的词汇中，与“真理”相关的术语有“真实性”的类似概念。当然，这种非命题意义上的真理在西方并不陌生；每个人都明白瓦茨拉夫·哈维尔（Vaclav Havel）在 1990 年将他的一本文章集命名为_生活在真理中_时的意思。但自从大约一个多世纪前分析运动开始以来，这并不是英语哲学家们关注的主要问题。
+这也可以被解释为“真理”，即使不是命题的，并且围绕它有一个不同的概念群：*真实性*、*参与*、*值得信赖*、*正直*、*诚实*、*正直*，等等。2014 年，一场庆祝新的跨文化哲学在线期刊（*Confluence*，1，1）创刊的研讨会致力于探讨在追求跨文化哲学研究中真理的概念是否有用。四位讨论者代表了日本哲学、儒家思想、阿兹特克哲学和藏传佛教。他们都没有在所研究的文化中找到与命题意义上的“真理”非常接近的近似概念，但四位都表示，在他们所研究的思想和传统的词汇中，与“真理”相关的术语有“真实性”的类似概念。当然，这种非命题意义上的真理在西方并不陌生；每个人都明白瓦茨拉夫·哈维尔（Vaclav Havel）在 1990 年将他的一本文章集命名为_生活在真理中_时的意思。但自从大约一个多世纪前分析运动开始以来，这并不是英语哲学家们关注的主要问题。
 
 帮助人们拥有真实信念是一项非常值得的努力，帮助他们转变自己以过上有意义的生活也是如此。译者/口译员必须意识到在审查的文本中反映了哪种方法。如果我们认为作者关心世界的现状，我们将采用解释方法来确定所作主张的真实性，即那些与命题真理有关的方法：逻辑和语言分析，特别是在英语传统中，和/或解释学或现象学在大陆哲学家中。
 
@@ -398,108 +398,108 @@ Kalmanson（2017）延续了 Jenco 的主题，描述了从中国文本中获得
 
 ## Bibliography
 
-* Ames, Roger, 2008, “Paronomasia: A Confucian Way of Making Meaning”, in _Confucius Now_, David Jones (ed.), Chicago and LaSalle: Open Court Publishing Company.
-* –––, 2011, _Confucian Role Ethics: A Vocabulary_, Hong Kong: Chinese University Press.
-* Ames, Roger, and David Hall, 2003, _Dao De Jing_, New York: Ballantine Books.
-* Angle, Stephen C., 2012, _Contemporary Chinese Political Philosophy_, Cambridge: Polity.
-* –––, 2014, “The _Analects_ and Moral Theory”, in Olberding 2014, 225–258.
-* Angle, Stephen and Justin Tiwald, 2015, _Neo-Confucianism: A Philosophical Introduction_, (forthcoming).
-* Boodberg, Peter, 1937, “Some Proleptical Remarks on the Evolution of Archaic Chinese”, _Harvard Journal of Asiatic Studies_, 3(3/4): 329–372. Reprinted in Boodberg 1979, 363–406.
-* –––, 1940, “‘Ideography’ or Iconolatry?”, _T’oung Pao_, 35(4): 266–288. Reprinted in Boodberg 1979, 407–429.
-* –––, 1979, _Selected Works of Peter Boodberg_, Alvin P. Cohen (ed.), Berkeley: University of California Press.
-* Brooks, E. Bruce and A. Taeko Brooks (trans.), 1998, _The Original Analects_, Columbia University Press.
-* Carr, Karen and P.J. Ivanhoe, 2000, _The Sense of Antirationalism_, Seven Bridges Press.
-* Chang, Leo, 1986, _The Philosophical Foundations of Han Fei’s Political Thought_, SACP Monograph Series, Honolulu: University of Hawai’i Press.
-* Ching, Julia, 1978, “Chinese Ethics and Kant”, _Philosophy East and West_, 28(2): 161–172.
-* Cooper, Arthur, 1978, _The Creation of the Chinese Script_, London: The China Society.
-* Creel, H.G., 1936, “On the Nature of Chinese Ideographs”, _T’oung Pao_, 32: 85–161.
-* –––, 1938, “On the Ideographic Element in Ancient Chinese”, _T’oung Pao_, 34: 265–294.
-* –––, 1997, “The Formation of the Chinese State”, in _The History of Government, Vol. I Monarchies and Empires_, Samuel Finer (ed.), Oxford: Oxford University Press.
-* Crump., J.I, 1964, _Intrigues: Studies of the “Chan Kuo Ts’e” and its Fiction_, University of Michigan Press.
-* D’Ambrosio, Paul (ed.), 2018, _Studies on Contemporary Chinese Philosophy (1949–2009)_, Modern Chinese Philosophy Series, Volume 14, Leiden: Brill Publishers.
-* Davidson, Donald, 1973, “On the Very Idea of a Conceptual Scheme”, _Proceedings and Addresses of the American Philosophical Association_, 47: 5–20.
-* Deeker, Wayne, 2013, _Mythbusting the Cult of Confucius_, Mill City Press.
-* DeFrancis, John, 1984, _The Chinese Language: Fact and Fantasy_, Honolulu: University of Hawai’i Press.
-* Duyvendak, J.J.L, 1936, “Early Chinese Studies in Holland”, _T’oung Pao_, 32:
-* Fan, Ruiping (ed.), 2011, _The Renaissance of Confucianism in Contemporary China_, Chinese University Press.
-* Fang, A.C., Fengju Lo, and Cheuk Kit Chinn, 2009, “Adapting NLP and Corpus Analysis Techniques to Structured Imagery Analysis in Classical Chinese Poetry”, _Workshop Adaptation of Language Resources and Technology to New Domains_, Borovets, Bulgaria.
-* Fingarette, Herbert, 1972, _Confucius—The Secular as Sacred_, Harper Torchbooks.
-* Fuller, Michael, 1999, _An Introduction to Literary Chinese_, Harvard East Asian Monographs 176, Cambridge, MA: Harvard University Press.
-* Gardner, Daniel (trans.), 1990, _Learning to be a Sage_, Berkeley & Los Angeles: University of California Press.
-* Goldin, Paul R., 2008, “The Myth That China Has No Creation Myth”, _Monumenta Serica_, 56: 1–22.
-* Graham, A.C., 1987, _Disputers of the Tao_, Chicago: Open Court Publishing Company.
-* –––, 1992, _Unreason Within Reason_, Chicago: Open Court Publishing Company.
-* Gu, Ming Dong, 2014, “Sinologistic in Language Philosophy: A Critique of the Controversy over Chinese Language”, _Philosophy East and West_, 64(3): 692–717.
-* Gu, Ming Dong and Rainer Schulte, 2016, _Translating China for Western Readers_, Albany: State University of New York Press.
-* Hall, David and Roger Ames, 1987, _Thinking Through Confucius_, Albany, NY: State University of New York Press.
-* Hannas, W.C., 1997, _Asia’s Orthographic Nightmare_, Honolulu: University of Hawai’i Press.
-* Hansen, Chad, 1992, _A Daoist Theory of Chinese Thought_, Oxford: Oxford University Press.
-* –––, 1993, “Chinese Ideographs and Western Ideas”, _Journal of Asian Studies_, 52(2): 373–399.
-* Harbsmeier, Christoph, 1990, “_Confucius Ridens_: Humor in the _Analects_”, _Harvard Journal of Asiatic Studies_, 50(1): 131–161
-* Havel, Vaclav, 1990, _Living in Truth_, London: Faber and Faber (reprint edition).
-* Hutton, Eric L. (trans.), 2014, _Xunzi: The Complete Works_, Princeton: Princeton University Press.
-* Im, Manyul, 2011, “Mencius as Consequentialist”, in _Ethics in Early China: An Anthology_, Chris Fraser, Dan Robins, and Timothy O’Leary (eds), Hong Kong: Hong Kong University Press.
-* Ivanhoe, P.J. (trans.), 2002, _The Daodejing of Laozi_, New York: Seven Bridges Press.
-* –––, 2014, “Kongzi and Aristotle as Virtue Ethicists”, in _Moral Motivation and Confucian Character_, Chenyang Li and Peimin Ni (eds.), Albany, NY: State University of New York Press.
-* Jenco, Leigh, 2007, “What Does Heaven Ever Say? A Methods-Centered Approach to Cross-Cultural Engagement”, _American Political Science Review_, 101(4): 741–755.
-* –––, 2015, _Changing the Referents: Learning across space and time in China and the West_, New York: Oxford University Press.
-* Jiang, Qing, 2012, _A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future_, Daniel A Bell and Ruiping Fan (eds), Edmund Ryden (trans.), Princeton: Princeton University Press.
-* Kalmanson, Leah, 2017, “The Ritual Methods of Comparative Philosophy”, _Philosophy East and West_, 67(2): 399–418.
-* Karlgren, Bernhard, 1962, _Sound and Symbol in Chinese_, Hong Kong: Hong Kong University Press.
-* –––, 1966, _Grammata Serica_, Taipei: Chung Wen Reprint Company.
-* Keightley, David, 1978, _Sources of Shang History_, Berkeley, CA: University of California Press.
-* –––, 2014, “Marks and Labels: Neolithic and Shang Writing in Early China”, in _These Bones Shall Rise again_, Henry Rosemont, Jr. (ed.), Albany, NY: State University of New York Press.
-* Kim, Tae Hyun and Mark Csikszentmilhalyi, 2014, “History and Formation of the _Analects_”, in Olberding 2014, 21–36.
-* Kupperman, Joel, 2004, “Tradition and Community in the Formation of Character and Self”, in _Confucian Ethics: A Comparative Study of Self, Autonomy and Community_, David Wong and Kwong-loi Shun (eds), Cambridge: Cambridge University Press.
-* Lai, Karyn, 2017, _An Introduction to Chinese Philosophy_, 2nd edition, Cambridge: Cambridge University Press.
-* Lau, D.C. (trans.), 1963, _Lao Tzu Tao Te Ching_,London: Penguin.
-* Legge, James, 1871, _The Chinese Classics (volume 4): The “She King” or “The Book of Poetry”_, Hong Kong: Lane, Crawford & Co., reprinted 1960 Chnese Univesity of Hong Kong Press.
-* ––– (trans.), 1959 \[1891], _The Texts of Taoism_, Oxford: Oxford University Press, reprinted 1959 by the Julian Press, NY.
-* Leibniz, Gottfried Wilhelm, \[WoC], _Writings on China_, D.J. Cook and H. Rosemont, Jr. (trans.), Chicago and La Salle, IL: Open Court Publishing Company, 1994.
-* Levesque, Hector, Ernest Davis, and Leora Morgenstern, 2012, “The Winograd Schema Challenge”, _Principles of Knowledge Representation and Reasoning: Proceedings of the Thirteenth International Conference (KR-12)_, Gerhard Brewka, Thomas Eiter, and Sheila A. McIlraith (eds), Palo Alto, CA: AAAI Press.
-* Li, Chenyang (ed.), 2000, _The Sage and the Second Sex: Confucianism, Ethics, and Gender_, Chicago: Open Court Publishing Company.
-* Li, Zehou, 2006, _Four Essays on Aesthetics_, Jane Cauvel (trans.), Lanham, MD: Lexington Books.
-* –––, 2009, _The Chinese Aesthetic Tradition_, L.Z. Samei (trans.), Honolulu: University of Hawai’i Press.
-* Liu, JeeLoo, 2006, _An Introduction to Chinese Philosophy_, Hoboken, NJ: Wiley Blackwell.
-* Lu, Xing, 1998, _Rhetoric in Ancient China, Fifth to Third Century B.C.E.: A Comparison with Classical Greek Rhetoric_, Columbia, SC: University of South Carolina Press.
-* Lu, Xing and David Frank, 1993, “On the Study of Ancient Chinese Rhetoric/Bian”, _Western Journal of Communication_, 57(Fall): 445–463.
-* Ma, Lin and Jaap van Brakel, 2016, _Fundamentals of Comparative and Intercultural Philosophy_, Albany: State University of New York Press.
-* Makeham, John (ed.), 2012, _Learning to Emulate the Wise: The Genesis of Chinese Philosophy as an Academic Discipline in Twentieth-Century China_, Hong Kong: The Chinese University Press.
-* Mandelbaum, Maurice, 1979, “Subjective, Objective and Conceptual Relativism”, _The Monist_, 62(4): 403–428. Reprinted in 2010, _Relativism: A Contemporary Anthology_, Michael Krausz (ed.), New York: Columbia University Press.
-* Moeller, Hans-Georg (trans.), 2007, _Dao De Jing_, Chicago: Open Court Publishing Company.
-* –––, 2011, _Daoism Explained_, Chicago: Open Court Publishing Company.
-* Murphy, J.J., 1983, _A Synoptic History of Classical Rhetoric_, Hermagoras Press.
-* Nylan, Michael, 2011, _Yang Xiong and the Pleasures of Reading and Classical Learning in China_, Ann Arbor, MI: American Oriental Society.
-* ––– (ed.), 2014, _The Analects_, New York: W.W. Norton and Company.
-* Olberding, Amy (ed.), 2014, _Dao Companion to the “Analects”_, Dordrecht: Springer.
-* Pound, Ezra (trans.), 1954, _The Confucian Odes_, New York: New Directions.
-* Puett, Michael, 2004, _To Become A God_, Cambridge, MA: Harvard University Press.
-* Pullum, Geoffrey, 1991, _The Great Eskimo Vocabulary Hoax and Other Irreverent Essays on the Study of Language_, Chicago: University of Chicago Press.
-* Raphals, Lisa, 1998, _Sharing the Light_, Albany, NY: State University of New York Press.
-* Rosemont, Jr., Henry, 2012, _A Reader’s Companion to the Confucian “Analects”_,Honolulu: University of Hawai‘i Press.
-* –––, 2015, _Against Individualism: A Confucian Rethinking of the Foundations of Morality, Politics, Family and Religion_, Lanham, MD: Lexington Books.
-* Rosemont, Jr., Henry and Roger Ames (trans.), 2009, _The Chinese Classic of Family Reverence_, Honolulu: University of Hawai’i Press.
-* Rosenlee, Li-Hsiang Lisa, 2007, _Confucianism and Women_, Albany, NY: State University of New York Press.
-* Searle, John, 1980, “Minds, Brains and Programs”, _Behavioral and Brain Sciences_, 3(3): 417–457.
-* Sim, May, 2007, _Remastering Morals with Aristotle and Confucius_, Cambridge: Cambridge University Press.
-* Tan, Sor-hoon (ed.), 2016, _Research Handbook of Chinese Philosophy Methodologies_, New York: Bloomsbury.
-* Tiwald, Justin, 2010, “Confucianism and Virtue Ethics: Still a Fledgling in Chinese and Comparative Philosophy”, _Comparative Philosophy_, 1(2): Article 7.
-* Turing, Alan, 1950, “I.—Computing Machinery and Intelligence”, _Mind_, 59(236): 433–460.
-* Unger, J. Marshall, 1993, “Communications to the Editor”, _Journal of Asian Studies_, 52(4): 949–957.
-* Van Norden, Bryan W., 2011, _Introduction to Classical Chinese Philosophy_, Indianapolis: Hackett Publishing Company.
-* Waley, Arthur, (trans.), n.d., _Tao Te Ching: The Way and Its Power_, New York: Grove Press.
-* –––, (trans.), 1960, _The Book of Songs_, New York: Grove Press.
-* Wang, Robin (ed.), 2003, _Images of Women in Chinese Thought And Culture_, Indianapolis, IN: Hackett Pub. Co.
-* Webb, John, 1669, _Endeavoring a Probability That the Language of the Empire of China is the Primitive Language_, London: Nathaniel Brook.
-* Welch, Holmes, 1971, _Taoism: The Parting of the Way_, Boston MA: Beacon Press.
-* Wen, Haiming, 2012, _Chinese Philosophy_, Cambridge: Cambridge University Press.
-* Whorf, Benjamin Lee, 1940, “Science and Linguistics”, _Technology Review_, 42(6): 229–231, 247–248. Reprinted in Whorf 1956.
-* –––, 1956, _Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf_, John B. Carrol (ed.), Cambridge, MA: MIT Press.
-* Wilhelm, Hellmut, 1977, _Heaven, Earth, and Man in the “Book of Changes”_, Seattle, WA: University of Washington Press.
-* Wong, David, 2006, _Natural Moralities_, New York: Oxford University Press.
-* Yearley, Lee, 1990, _Mencius and Aquinas: Theories of Virtue and Conceptions of Courage_, Albany, NY: State University of New York Press.
-* Yu, Jiyuan, 2007, _The Ethics of Confucius and Aristotle: Mirrors of Virtue_, London: Routledge.
-* Ziporyn, Brook, 2013, _Ironies of Oneness and Difference in Early Chinese Thought_, Albany, NY: State University of New York Press.
+* Ames, Roger, 2008, “Paronomasia: A Confucian Way of Making Meaning”, in *Confucius Now*, David Jones (ed.), Chicago and LaSalle: Open Court Publishing Company.
+* –––, 2011, *Confucian Role Ethics: A Vocabulary*, Hong Kong: Chinese University Press.
+* Ames, Roger, and David Hall, 2003, *Dao De Jing*, New York: Ballantine Books.
+* Angle, Stephen C., 2012, *Contemporary Chinese Political Philosophy*, Cambridge: Polity.
+* –––, 2014, “The *Analects* and Moral Theory”, in Olberding 2014, 225–258.
+* Angle, Stephen and Justin Tiwald, 2015, *Neo-Confucianism: A Philosophical Introduction*, (forthcoming).
+* Boodberg, Peter, 1937, “Some Proleptical Remarks on the Evolution of Archaic Chinese”, *Harvard Journal of Asiatic Studies*, 3(3/4): 329–372. Reprinted in Boodberg 1979, 363–406.
+* –––, 1940, “‘Ideography’ or Iconolatry?”, *T’oung Pao*, 35(4): 266–288. Reprinted in Boodberg 1979, 407–429.
+* –––, 1979, *Selected Works of Peter Boodberg*, Alvin P. Cohen (ed.), Berkeley: University of California Press.
+* Brooks, E. Bruce and A. Taeko Brooks (trans.), 1998, *The Original Analects*, Columbia University Press.
+* Carr, Karen and P.J. Ivanhoe, 2000, *The Sense of Antirationalism*, Seven Bridges Press.
+* Chang, Leo, 1986, *The Philosophical Foundations of Han Fei’s Political Thought*, SACP Monograph Series, Honolulu: University of Hawai’i Press.
+* Ching, Julia, 1978, “Chinese Ethics and Kant”, *Philosophy East and West*, 28(2): 161–172.
+* Cooper, Arthur, 1978, *The Creation of the Chinese Script*, London: The China Society.
+* Creel, H.G., 1936, “On the Nature of Chinese Ideographs”, *T’oung Pao*, 32: 85–161.
+* –––, 1938, “On the Ideographic Element in Ancient Chinese”, *T’oung Pao*, 34: 265–294.
+* –––, 1997, “The Formation of the Chinese State”, in *The History of Government, Vol. I Monarchies and Empires*, Samuel Finer (ed.), Oxford: Oxford University Press.
+* Crump., J.I, 1964, *Intrigues: Studies of the “Chan Kuo Ts’e” and its Fiction*, University of Michigan Press.
+* D’Ambrosio, Paul (ed.), 2018, *Studies on Contemporary Chinese Philosophy (1949–2009)*, Modern Chinese Philosophy Series, Volume 14, Leiden: Brill Publishers.
+* Davidson, Donald, 1973, “On the Very Idea of a Conceptual Scheme”, *Proceedings and Addresses of the American Philosophical Association*, 47: 5–20.
+* Deeker, Wayne, 2013, *Mythbusting the Cult of Confucius*, Mill City Press.
+* DeFrancis, John, 1984, *The Chinese Language: Fact and Fantasy*, Honolulu: University of Hawai’i Press.
+* Duyvendak, J.J.L, 1936, “Early Chinese Studies in Holland”, *T’oung Pao*, 32:
+* Fan, Ruiping (ed.), 2011, *The Renaissance of Confucianism in Contemporary China*, Chinese University Press.
+* Fang, A.C., Fengju Lo, and Cheuk Kit Chinn, 2009, “Adapting NLP and Corpus Analysis Techniques to Structured Imagery Analysis in Classical Chinese Poetry”, *Workshop Adaptation of Language Resources and Technology to New Domains*, Borovets, Bulgaria.
+* Fingarette, Herbert, 1972, *Confucius—The Secular as Sacred*, Harper Torchbooks.
+* Fuller, Michael, 1999, *An Introduction to Literary Chinese*, Harvard East Asian Monographs 176, Cambridge, MA: Harvard University Press.
+* Gardner, Daniel (trans.), 1990, *Learning to be a Sage*, Berkeley & Los Angeles: University of California Press.
+* Goldin, Paul R., 2008, “The Myth That China Has No Creation Myth”, *Monumenta Serica*, 56: 1–22.
+* Graham, A.C., 1987, *Disputers of the Tao*, Chicago: Open Court Publishing Company.
+* –––, 1992, *Unreason Within Reason*, Chicago: Open Court Publishing Company.
+* Gu, Ming Dong, 2014, “Sinologistic in Language Philosophy: A Critique of the Controversy over Chinese Language”, *Philosophy East and West*, 64(3): 692–717.
+* Gu, Ming Dong and Rainer Schulte, 2016, *Translating China for Western Readers*, Albany: State University of New York Press.
+* Hall, David and Roger Ames, 1987, *Thinking Through Confucius*, Albany, NY: State University of New York Press.
+* Hannas, W.C., 1997, *Asia’s Orthographic Nightmare*, Honolulu: University of Hawai’i Press.
+* Hansen, Chad, 1992, *A Daoist Theory of Chinese Thought*, Oxford: Oxford University Press.
+* –––, 1993, “Chinese Ideographs and Western Ideas”, *Journal of Asian Studies*, 52(2): 373–399.
+* Harbsmeier, Christoph, 1990, “*Confucius Ridens*: Humor in the *Analects*”, *Harvard Journal of Asiatic Studies*, 50(1): 131–161
+* Havel, Vaclav, 1990, *Living in Truth*, London: Faber and Faber (reprint edition).
+* Hutton, Eric L. (trans.), 2014, *Xunzi: The Complete Works*, Princeton: Princeton University Press.
+* Im, Manyul, 2011, “Mencius as Consequentialist”, in *Ethics in Early China: An Anthology*, Chris Fraser, Dan Robins, and Timothy O’Leary (eds), Hong Kong: Hong Kong University Press.
+* Ivanhoe, P.J. (trans.), 2002, *The Daodejing of Laozi*, New York: Seven Bridges Press.
+* –––, 2014, “Kongzi and Aristotle as Virtue Ethicists”, in *Moral Motivation and Confucian Character*, Chenyang Li and Peimin Ni (eds.), Albany, NY: State University of New York Press.
+* Jenco, Leigh, 2007, “What Does Heaven Ever Say? A Methods-Centered Approach to Cross-Cultural Engagement”, *American Political Science Review*, 101(4): 741–755.
+* –––, 2015, *Changing the Referents: Learning across space and time in China and the West*, New York: Oxford University Press.
+* Jiang, Qing, 2012, *A Confucian Constitutional Order: How China’s Ancient Past Can Shape Its Political Future*, Daniel A Bell and Ruiping Fan (eds), Edmund Ryden (trans.), Princeton: Princeton University Press.
+* Kalmanson, Leah, 2017, “The Ritual Methods of Comparative Philosophy”, *Philosophy East and West*, 67(2): 399–418.
+* Karlgren, Bernhard, 1962, *Sound and Symbol in Chinese*, Hong Kong: Hong Kong University Press.
+* –––, 1966, *Grammata Serica*, Taipei: Chung Wen Reprint Company.
+* Keightley, David, 1978, *Sources of Shang History*, Berkeley, CA: University of California Press.
+* –––, 2014, “Marks and Labels: Neolithic and Shang Writing in Early China”, in *These Bones Shall Rise again*, Henry Rosemont, Jr. (ed.), Albany, NY: State University of New York Press.
+* Kim, Tae Hyun and Mark Csikszentmilhalyi, 2014, “History and Formation of the *Analects*”, in Olberding 2014, 21–36.
+* Kupperman, Joel, 2004, “Tradition and Community in the Formation of Character and Self”, in *Confucian Ethics: A Comparative Study of Self, Autonomy and Community*, David Wong and Kwong-loi Shun (eds), Cambridge: Cambridge University Press.
+* Lai, Karyn, 2017, *An Introduction to Chinese Philosophy*, 2nd edition, Cambridge: Cambridge University Press.
+* Lau, D.C. (trans.), 1963, *Lao Tzu Tao Te Ching*,London: Penguin.
+* Legge, James, 1871, *The Chinese Classics (volume 4): The “She King” or “The Book of Poetry”*, Hong Kong: Lane, Crawford & Co., reprinted 1960 Chnese Univesity of Hong Kong Press.
+* ––– (trans.), 1959 \[1891], *The Texts of Taoism*, Oxford: Oxford University Press, reprinted 1959 by the Julian Press, NY.
+* Leibniz, Gottfried Wilhelm, \[WoC], *Writings on China*, D.J. Cook and H. Rosemont, Jr. (trans.), Chicago and La Salle, IL: Open Court Publishing Company, 1994.
+* Levesque, Hector, Ernest Davis, and Leora Morgenstern, 2012, “The Winograd Schema Challenge”, *Principles of Knowledge Representation and Reasoning: Proceedings of the Thirteenth International Conference (KR-12)*, Gerhard Brewka, Thomas Eiter, and Sheila A. McIlraith (eds), Palo Alto, CA: AAAI Press.
+* Li, Chenyang (ed.), 2000, *The Sage and the Second Sex: Confucianism, Ethics, and Gender*, Chicago: Open Court Publishing Company.
+* Li, Zehou, 2006, *Four Essays on Aesthetics*, Jane Cauvel (trans.), Lanham, MD: Lexington Books.
+* –––, 2009, *The Chinese Aesthetic Tradition*, L.Z. Samei (trans.), Honolulu: University of Hawai’i Press.
+* Liu, JeeLoo, 2006, *An Introduction to Chinese Philosophy*, Hoboken, NJ: Wiley Blackwell.
+* Lu, Xing, 1998, *Rhetoric in Ancient China, Fifth to Third Century B.C.E.: A Comparison with Classical Greek Rhetoric*, Columbia, SC: University of South Carolina Press.
+* Lu, Xing and David Frank, 1993, “On the Study of Ancient Chinese Rhetoric/Bian”, *Western Journal of Communication*, 57(Fall): 445–463.
+* Ma, Lin and Jaap van Brakel, 2016, *Fundamentals of Comparative and Intercultural Philosophy*, Albany: State University of New York Press.
+* Makeham, John (ed.), 2012, *Learning to Emulate the Wise: The Genesis of Chinese Philosophy as an Academic Discipline in Twentieth-Century China*, Hong Kong: The Chinese University Press.
+* Mandelbaum, Maurice, 1979, “Subjective, Objective and Conceptual Relativism”, *The Monist*, 62(4): 403–428. Reprinted in 2010, *Relativism: A Contemporary Anthology*, Michael Krausz (ed.), New York: Columbia University Press.
+* Moeller, Hans-Georg (trans.), 2007, *Dao De Jing*, Chicago: Open Court Publishing Company.
+* –––, 2011, *Daoism Explained*, Chicago: Open Court Publishing Company.
+* Murphy, J.J., 1983, *A Synoptic History of Classical Rhetoric*, Hermagoras Press.
+* Nylan, Michael, 2011, *Yang Xiong and the Pleasures of Reading and Classical Learning in China*, Ann Arbor, MI: American Oriental Society.
+* ––– (ed.), 2014, *The Analects*, New York: W.W. Norton and Company.
+* Olberding, Amy (ed.), 2014, *Dao Companion to the “Analects”*, Dordrecht: Springer.
+* Pound, Ezra (trans.), 1954, *The Confucian Odes*, New York: New Directions.
+* Puett, Michael, 2004, *To Become A God*, Cambridge, MA: Harvard University Press.
+* Pullum, Geoffrey, 1991, *The Great Eskimo Vocabulary Hoax and Other Irreverent Essays on the Study of Language*, Chicago: University of Chicago Press.
+* Raphals, Lisa, 1998, *Sharing the Light*, Albany, NY: State University of New York Press.
+* Rosemont, Jr., Henry, 2012, *A Reader’s Companion to the Confucian “Analects”*,Honolulu: University of Hawai‘i Press.
+* –––, 2015, *Against Individualism: A Confucian Rethinking of the Foundations of Morality, Politics, Family and Religion*, Lanham, MD: Lexington Books.
+* Rosemont, Jr., Henry and Roger Ames (trans.), 2009, *The Chinese Classic of Family Reverence*, Honolulu: University of Hawai’i Press.
+* Rosenlee, Li-Hsiang Lisa, 2007, *Confucianism and Women*, Albany, NY: State University of New York Press.
+* Searle, John, 1980, “Minds, Brains and Programs”, *Behavioral and Brain Sciences*, 3(3): 417–457.
+* Sim, May, 2007, *Remastering Morals with Aristotle and Confucius*, Cambridge: Cambridge University Press.
+* Tan, Sor-hoon (ed.), 2016, *Research Handbook of Chinese Philosophy Methodologies*, New York: Bloomsbury.
+* Tiwald, Justin, 2010, “Confucianism and Virtue Ethics: Still a Fledgling in Chinese and Comparative Philosophy”, *Comparative Philosophy*, 1(2): Article 7.
+* Turing, Alan, 1950, “I.—Computing Machinery and Intelligence”, *Mind*, 59(236): 433–460.
+* Unger, J. Marshall, 1993, “Communications to the Editor”, *Journal of Asian Studies*, 52(4): 949–957.
+* Van Norden, Bryan W., 2011, *Introduction to Classical Chinese Philosophy*, Indianapolis: Hackett Publishing Company.
+* Waley, Arthur, (trans.), n.d., *Tao Te Ching: The Way and Its Power*, New York: Grove Press.
+* –––, (trans.), 1960, *The Book of Songs*, New York: Grove Press.
+* Wang, Robin (ed.), 2003, *Images of Women in Chinese Thought And Culture*, Indianapolis, IN: Hackett Pub. Co.
+* Webb, John, 1669, *Endeavoring a Probability That the Language of the Empire of China is the Primitive Language*, London: Nathaniel Brook.
+* Welch, Holmes, 1971, *Taoism: The Parting of the Way*, Boston MA: Beacon Press.
+* Wen, Haiming, 2012, *Chinese Philosophy*, Cambridge: Cambridge University Press.
+* Whorf, Benjamin Lee, 1940, “Science and Linguistics”, *Technology Review*, 42(6): 229–231, 247–248. Reprinted in Whorf 1956.
+* –––, 1956, *Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf*, John B. Carrol (ed.), Cambridge, MA: MIT Press.
+* Wilhelm, Hellmut, 1977, *Heaven, Earth, and Man in the “Book of Changes”*, Seattle, WA: University of Washington Press.
+* Wong, David, 2006, *Natural Moralities*, New York: Oxford University Press.
+* Yearley, Lee, 1990, *Mencius and Aquinas: Theories of Virtue and Conceptions of Courage*, Albany, NY: State University of New York Press.
+* Yu, Jiyuan, 2007, *The Ethics of Confucius and Aristotle: Mirrors of Virtue*, London: Routledge.
+* Ziporyn, Brook, 2013, *Ironies of Oneness and Difference in Early Chinese Thought*, Albany, NY: State University of New York Press.
 
 ## Academic Tools
 

@@ -1,10 +1,8 @@
 # 但丁·阿利吉耶里 Dante Alighieri (Winthrop Wetherbee and Jason Aleksander)
 
-_首次发表于 2001 年 1 月 29 日星期一；实质性修订于 2022 年 8 月 15 日星期一_
+*首次发表于 2001 年 1 月 29 日星期一；实质性修订于 2022 年 8 月 15 日星期一*
 
 但丁与哲学的交融无法与他作为一位诗人的职业分开来研究，在这个职业中，他努力通过教育他的同胞并激励他们追求内心的幸福来提高公众话语水平。他是当时最有学问的意大利俗人之一，对亚里士多德的逻辑和自然哲学、神学以及古典文学非常熟悉。他当然以写作《神曲》而闻名，但在他的诗歌作品以及哲学论文和其他著作中，他自由地混合和综合了哲学和神学的语言，同时广泛引用和暗示了圣经、古代和当代诗歌。尽管他对世界文学和其他艺术流派的贡献得到了普遍的认可，但他的神学想象力也一直影响着他的时代直至今天。相比之下，他的哲学遗产更难以评估，尽管他的著作至少提供了一个研究晚中世纪和文艺复兴哲学景观的有力工具。
-
-
 
 ***
 
@@ -32,7 +30,7 @@ _首次发表于 2001 年 1 月 29 日星期一；实质性修订于 2022 年 8 
 
 尽管但丁显然直到二十多岁才开始认真研究哲学，但他已经受到了一群杰出诗人的智力挑战，这些诗人是他后来回忆起的“甜美新风格”的实践者，他们以普罗旺斯的行吟诗为模型，将抒情诗变成了对爱情和人类心理本质进行深入探讨的工具。一代人之前，吉多·吉尼泽利（1230-1276）以医学技术和学校宇宙学的术语来处理爱情的诗歌使当时的人们感到困惑，同时以准神秘的语言赞美他的女士能够提升她的诗人情人的精神（Al cor gentil rempaira sempre amore, 41-44, 47-50）：
 
-> _源_
+> *源*
 >
 > \[上帝创造者在天空的智慧中闪耀 超过我们眼中的太阳， 她理解她的造物主超越天堂 当她转动天堂时，她顺从他 .. 如此美丽的女士， 当她照耀在她高贵爱人的眼中时， 传递渴望 他将永远不会违背她的命令。]
 
@@ -44,7 +42,7 @@ _首次发表于 2001 年 1 月 29 日星期一；实质性修订于 2022 年 8 
 
 Guido 对 Dante 的影响是深远的。但是，《新生命》是一本早期诗歌选集，其中穿插着一篇叙述，结合了对他的诗歌发展的评论和他对 Beatrice 在她的尘世生活中的奉献的历史，揭示了他自己对诗歌和爱的概念与 Guido 的根本不同\[Ardizzone (2011); Barolini (1998)，尤其是第 60-63 页]。像 Guido 一样，但丁接受了爱作为高贵生活的基础，无论好坏，他的早期抒情诗表达了一种像 Guido 一样对欲望内部分裂力量的感觉。但是随着《新生命》的展开，焦点逐渐转移：丹特通过将自己的苦难戏剧化未能赢得女士的青睐，决心从此将他的诗歌完全奉献给她的赞美\[VN, 18.9]。这一新决心的结果是一首歌曲，“Donne ch'avete intelletto d'amore”（“有爱情智慧的女士们”），它回到了他和 Guido 在 Guinizelli 的诗歌中的灵感源泉，但却做出了完全新的转变。对于 Guido 来说，女士的“天堂般”吸引力是感官所犯下的欺骗，随着恋人的温柔对她的美的吸引力越来越强烈，它变得更加危险，使自己陷入“猛烈的意外”的激情。但丹特也看到了他早期的、受折磨的抒情诗所描绘的经历是“在物质中发生的意外事件”\[VN 25.1-2]，但是那些受到他的女士问候的人眼中的“烈火般的爱之灵”不仅仅是激发欲望的马刺（Donne ch'avete intelletto d'amore, VN 19.10.37-40）：
 
-> _当她发现有人值得看她时，他会体验到她的力量，_
+> *当她发现有人值得看她时，他会体验到她的力量，*
 >
 > 他会感到她的恩典，因为那些说过她的人不会有坏的结局。 他会感到她的恩典，因为那些说过她的人不会有坏的结局。 因为她给予他的变成了救赎， 并且使他如此谦卑，以至于他忘记了所有的冒犯。 上帝赐予她更大的恩典： 与她交谈的人不可能以邪恶结束。]
 
@@ -78,7 +76,7 @@ Guido 对 Dante 的影响是深远的。但是，《新生命》是一本早期�
 
 哲学本身就是“对智慧的热爱”，但但丁用来代表它的中心隐喻是对一个高贵女士的诗歌赞美，一位 donna gentile，这是一个像 Guinizelli 一样，他认为涉及到宇宙力量的影响。他的诗歌是出于爱和美德而产生的\[Conv. 1.1.14]，因为他的本性对宇宙的“推动者”——智慧体的影响有所回应，他们的爱的理解决定了“最高贵的天堂的形式”\[2.5.19]，而他们又对“圣灵的爱”\[2.5.14]作出回应。他们的宇宙活动是对理解的不断转化为爱和自然过程的翻译，正是这一点使得但丁唱起来\[Conv. 2, Canzone, 1–9]：
 
-> _你们，了解并推动第三天体的人们，听听我内心的思考，我无法向他人表达，因为对我来说它是新的。你们的价值所引领的天堂，你们是那些高贵的生物，将我带到了我所处的状态。因此，我请求你们理解我所经历的生活的言语，好像它值得向你们表达一样：所以请你们听我说。_
+> *你们，了解并推动第三天体的人们，听听我内心的思考，我无法向他人表达，因为对我来说它是新的。你们的价值所引领的天堂，你们是那些高贵的生物，将我带到了我所处的状态。因此，我请求你们理解我所经历的生活的言语，好像它值得向你们表达一样：所以请你们听我说。*
 >
 > \[你们所有了解并推动第三天体的人们， 听我心中的声音，这奇怪的言辞 我无法告诉别人，因为它感觉如此新鲜。 紧随你的美德之力的领域 你证明了你是高贵、亲切的生物 吸引着我，我刚刚经历了这种状态； 对我正在经历的事情进行描述的话语 似乎你们对我所说的不值一提： 我请求你们听听我的一部分。]
 
@@ -216,7 +214,7 @@ Contra gentiles 可能看起来是一个奇怪的模型选择。布鲁诺·纳�
 
 然而，有两个主要的复杂因素阻碍了对《神曲》对哲学本质的直接评估。首先，有一个问题，即如何解释《神曲》中各个发言者的明确教义主张。例如，《炼狱篇》第 16 篇在愤怒的露台上介绍了兰巴德的马尔科。马尔科对但丁的朝圣者的讲话涉及各种哲学主题，包括对星象决定论的驳斥。但他的讲话的高潮部分只是简要总结了《聚会篇》第 4 篇和《君主篇》中所宣扬的政治哲学。具体而言，马尔科对但丁时代意大利内战原因提出了以下诊断（炼狱篇，16.106–12）：
 
-> _罗马，创造了美好的世界，_
+> *罗马，创造了美好的世界，*
 >
 > 曾经拥有两个太阳，照亮了 世界和上帝的道路。一个灭了另一个， 世界和上帝之间的两条道路。 一轮太阳熄灭了另一轮， 剑与牧人的杖相连， 并且将它们强行结合在一起是不好的， 因为结合在一起，它们都不怕对方。]
 
@@ -232,183 +230,183 @@ Contra gentiles 可能看起来是一个奇怪的模型选择。布鲁诺·纳�
 
 ### Primary Sources and Translations
 
-* Alighieri, Dante, _La Commedia secondo l’antica vulgata_, ed. Giorgio Petrocchi, Florence: Le Lettere, 1994.
-* –––, _The Divine Comedy_, trans. Charles Singleton, 6 vols., Princeton: Princeton University Press, 1970–75. Clear prose facing-page translation, along with commentary volumes that quote generously from Thomas Aquinas and others.
-* –––, _Inferno, Purgatorio, Paradiso_, trans. Robert Hollander and Jean Hollander, 3 vols., New York: Doubleday, 2000–07. Poetry translation with extensive commentary.
-* –––, _The Divine Comedy of Dante Alighieri_, trans. Robert M. Durling, 3 vols., Oxford: Oxford University Press, 1996–2011. Clear prose translation with useful commentary. An excellent teaching edition.
-* –––, _Convivio: A Dual-Language Critical Edition_, trans. Andrew Frisardi, Cambridge: Cambridge University Press, 2018.
-* –––, _Dantis Alagherii Epistolae: The Letters of Dante_, trans. Paget Toynbee, Oxford: Clarendon Press, 1966.
-* –––, _Monarchia_, trans. Prue Shaw, Cambridge: Cambridge University Press, 1995.
-* –––, _Opere minori_, 3 volumes, Milan and Naples: R. Ricciardi, 1979–95. Includes copiously annotated editions of the _Vita nuova_; _De Vulgari Eloquentia_; _Convivio_; _Monarchia_; and _Epistole_.
-* –––, _Vita nuova_, trans. Dino S. Cervigni and Edward Vasta, Notre Dame: University of Notre Dame Press, 1995.
-* –––, _De vulgari eloquentia_, trans. Steven Botterill, Cambridge: Cambridge University Press, 1996.
-* Contini, Gianfranco, ed., _Poeti del duecento_, 2 volumes, Milan and Naples, R. Ricciardi, 1960. Vol. 2 contains the poetry of Guido Guinizzelli and Guido Cavalcanti.
+* Alighieri, Dante, *La Commedia secondo l’antica vulgata*, ed. Giorgio Petrocchi, Florence: Le Lettere, 1994.
+* –––, *The Divine Comedy*, trans. Charles Singleton, 6 vols., Princeton: Princeton University Press, 1970–75. Clear prose facing-page translation, along with commentary volumes that quote generously from Thomas Aquinas and others.
+* –––, *Inferno, Purgatorio, Paradiso*, trans. Robert Hollander and Jean Hollander, 3 vols., New York: Doubleday, 2000–07. Poetry translation with extensive commentary.
+* –––, *The Divine Comedy of Dante Alighieri*, trans. Robert M. Durling, 3 vols., Oxford: Oxford University Press, 1996–2011. Clear prose translation with useful commentary. An excellent teaching edition.
+* –––, *Convivio: A Dual-Language Critical Edition*, trans. Andrew Frisardi, Cambridge: Cambridge University Press, 2018.
+* –––, *Dantis Alagherii Epistolae: The Letters of Dante*, trans. Paget Toynbee, Oxford: Clarendon Press, 1966.
+* –––, *Monarchia*, trans. Prue Shaw, Cambridge: Cambridge University Press, 1995.
+* –––, *Opere minori*, 3 volumes, Milan and Naples: R. Ricciardi, 1979–95. Includes copiously annotated editions of the *Vita nuova*; *De Vulgari Eloquentia*; *Convivio*; *Monarchia*; and *Epistole*.
+* –––, *Vita nuova*, trans. Dino S. Cervigni and Edward Vasta, Notre Dame: University of Notre Dame Press, 1995.
+* –––, *De vulgari eloquentia*, trans. Steven Botterill, Cambridge: Cambridge University Press, 1996.
+* Contini, Gianfranco, ed., *Poeti del duecento*, 2 volumes, Milan and Naples, R. Ricciardi, 1960. Vol. 2 contains the poetry of Guido Guinizzelli and Guido Cavalcanti.
 
 ### Secondary Sources
 
-* Albi, Veronica, 2021, _Sotto il manto delle favole. La ricezione di Fulgenzio nelle opere di Dante e negli antichi commenti alla “Commedia,”_ Ravenna: Longo.
-* Aleksander, Jason, 2011a, “Dante’s Understanding of the Two Ends of Human Desire and the Relationship between Philosophy and Theology,” _The Journal of Religion_, 91: 158–187.
-* –––, 2011b, “The Problem of Theophany in _Paradiso_ 33,” _Essays in Medieval Studies_, 27: 61–78.
-* –––, 2016, “Providence, Temporal Authority, and the Illustrious Vernacular in Dante’s Political Philosophy,” in _Time: Sense, Space, Structure_, Presenting the Past, vol. 5, eds. Nancy van Deusen and Leonard Michael Koff, Leiden: E. J. Brill, pp. 231–260.
-* Alfie, Fabian and Nicolino Applauso, eds., 2019, _Dante satiro: Satire in Dante Alighieri’s Comedy and Other Works_, Lanham, Boulder: Lexington Books.
-* Ardissino, Erminia, ed., 2021, _Dante: filosofia e poesia della giustizia: Dalla “Monarchia” alla “Commedia,”_ Milano-Udine: Mimesis.
-* Ardizzone, Maria Luisa, 2011, _Dante: il paradigma intellettuale. Un’inventio degli anni fiorentini_, Florence: L. S. Olschki.
-* –––, ed., 2014, _Dante and Heterodoxy: The Temptations of 13th Century Radical Thought_, Newcastle upon Tyne: Cambridge Scholars Publishing.
-* –––, 2016, _Reading as the Angels Read: Speculation and Politics in Dante’s Banquet_, Toronto: University of Toronto Press.
-* –––, 2018, “Dante and the Natural Logic of Politics. Instinct, Intellect, Economy” _Il Pensiero. Rivista di filosofia_, 57.2: 61–79.
-* –––, 2018, _Dante as Political Theorist. Reading Monarchia_, Newcastle upon Tyne: Cambridge Scholars Publishing.
-* –––, 2021, “The Tragic Nature of Dante’s Canzoni. Ambiguity and Vocabulary: for a Methodology of Reading,” _Rivista Internazionale di Ricerche Dantesche_, 2: 85–98.
-* Arduini, Beatrice, 2019, “La politica linguistica del Convivio di Dante,” _Medioevo Letterario d’Italia. Rivista internazionale di filologia, linguistica e letteratura_, 16: 45–58.
-* –––, 2020, _Dante’s “Convivio”: the Creation of a Cultural Icon_, Firenze: Cesati.
-* Ascoli, Albert, 1989, “The Vowels of Authority (Dante’s _Convivio_, IV.vi.3–4),” in _Discourses of Authority in Medieval and Renaissance Literature_, eds. Kevin Brownlee, Walter Stephens, Hanover, NH and London: University Press of New England, pp. 23–46.
-* –––, 1991, “‘Neminem ante nos’: Historicity and Authority in the _De vulgari eloquentia_,” _Annali d’Italianistica_, 8: 186–231.
-* –––, 1995, “Palinode and History in the Oeuvre of Dante,” in _Dante Now: Current Trends in Dante Studies_, ed. Theodore J. Cachey, Notre Dame: University of Notre Dame Press, pp. 115–186.
-* –––, 2008, _Dante and the Making of the Modern Author_, Cambridge: Cambridge University Press.
-* Auerbach, Erich, 1929, _Dante: Poet of the Secular World_, trans. Ralph Manheim, Chicago: University of Chicago Press, 1961.
-* Baika, Gabriella I., 2014, _The Rose and Geryon: the Poetics of Fraud and Violence in Jean de Meun and Dante_, Washington, D.C.: Catholic University of America Press.
-* Barański, Zygmunt G., 1986, “‘Significar _per verba_’: Notes on Dante and Plurilingualism,” _The Italianist_, 6: 5–18.
-* –––, 2020, _Dante, Petrarch, Boccaccio. Literature, Doctrine, Reality_, Cambridge: Legenda — Modern Humanities Research Association.
-* Baranski, Zygmunt G. and Simon Gilson, eds., 2019, _The Cambridge Companion to Dante_’_s Commedia_, Cambridge: Cambridge University Press.
-* Barbi, Michele, 1941, _Problemi di critica dantesca: seconda serie_, Florence: Sansoni.
-* Barnes, John C. and Michelangelo Zaccarello, eds., 2013, _Language and Style in Dante_, Dublin: Four Courts Press.
-* Barolini, Teodalinda, 1984, _Dante’s Poets: Textuality and Truth in the Comedy_, Princeton: Princeton University Press.
-* –––, 1992, _The Undivine Comedy: Detheologizing Dante_, Princeton: Princeton University Press.
-* –––, 2018, “Dante and Wealth, between Aristotle and cortesia. From the Moral canzoni Le dolci rime and Poscia ch’amor to Inferno VI and VII,” _Medioevo Letterario d’Italia. Rivista internazionale di filologia, linguistica e letteratura_, 15: 33–47.
-* –––, 2019, “Difference as Punishment or Difference as Pleasure: From the Tower of Babel in _De vulgari eloquentia_ to the Death of Babel in _Paradiso_ 26,” _Textual Cultures. Texts, Contexts, Interpretation_, 12 (1): 137–154.
-* –––, 2022, _Dante’s Multitudes: History, Philosophy, Method_, Notre Dame, IN: University of Notre Dame Press.&#x20;
-* Bartolomei, Teresa and Joao R. Figueiredo, eds., 2023, _In the Footsteps of Dante: Crossroads of European Humanism_, Berlin: De Gruyter.
-* Baur, Christine O’Connell, 2007, _Dante’s Hermeneutics of Salvation: Passages to Freedom in the_ Divine Comedy, Toronto: University of Toronto Press.
-* Baxter, Jason M., 2020, _The Infinite Beauty of the World: Dante’s Encyclopedia and the Names of God_, New York: Peter Lang.
-* Belliotti, Raymond Angelo, 2011, _Dante’s Deadly Sins: Moral Philosophy in Hell_, New York: Wiley-Blackwell.
-* Benfell, V. Stanley, 2011, _The Biblical Dante_, Toronto: University of Toronto Press.
-* Boyde, Patrick, 1981, _Dante Philomythes and Philosopher: Man in the Cosmos_, Cambridge: Cambridge University Press.
-* –––, 1993, _Perception and Passion in Dante’s_ Comedy, Cambridge: Cambridge University Press.
-* –––, 2000, _Human Vices and Human Worth in Dante’s_ Comedy, Cambridge: Cambridge University Press.
-* Bruce-Jones, John, 1995, “L’importanza primaria della materia prima: Aspetti della materia nella poesia e nel pensiero di Dante,” in _Dante e la Scienza_, ed. Patrick Boyde, Ravenna: Longo, pp. 213–21.
-* Cahill, Courtney, 1996, “The Limitations of Difference in _Paradiso_ XIII’s Two Arts: Reason and Poetry,” _Dante Studies_, 114 (1996): 245–69.
-* Cassell, Anthony, 2004, _The Monarchia Controversy_, Washington, D.C.: Catholic University of America Press.
-* Cogan, Marc, 1999, _The Design in the Wax_, Notre Dame: University of Notre Dame Press.
-* Corbett, George, 2013, _Dante and Epicurus: a Dualistic Vision of Secular and Spiritual Fulfillment_, London: Modern Humanities Research Association and Maney Publishing.
-* –––, 2020, _Dante’s Christian Ethics: Purgatory and Its Moral Contexts_, Cambridge: Cambridge University Press.
-* Cornish, Alison, 2000, _Reading Dante’s Stars_, New Haven: Yale University Press.
-* –––, 2011, _Vernacular Translation in Dante’s Italy: Illiterate Literature_, Cambridge: Cambridge University Press.
-* –––, 2022, _Believing in Dante: Truth in Fiction_, Cambridge: Cambridge University Press.
-* Corti, Maria, 1981, _Dante a un nuovo crocevia_, Florence: Sansoni.
-* –––, 1983, _La felicità mentale. Nuove prospettive per Cavalcanti e Dante_, Turin: G. Einaudi.
-* Davis, Charles Till, 1957, _Dante and the Idea of Rome_, Oxford: Clarendon Press.
-* –––, 1984, _Dante’s Italy and Other Essays_, Philadelphia: University of Pennsylvania Press.
-* De Benedictis, Raffaele, 2012, _Wordly Wise: the Semiotics of Discourse in Dante’s_ Commedia, New York: Peter Lang.
-* de Libera, Alain, Jean-Baptiste Brenet, and Irène Rosier-Catach, eds., 2019, _Dante et l’averroïsme_, Paris: Collège de France – Les Belles Lettres.
-* Diomedi, Adriana, 1999a, “Dante e la necessita di perfezione: verso la felicita ultima,” _Rivista di Studi Italiani_, 17: 1–19.
-* –––, 1999b, “Il nesso ‘perfezione Filosofia’ in Dante,” _Quaderni d’italianistica_, 20: 191–210.
+* Albi, Veronica, 2021, *Sotto il manto delle favole. La ricezione di Fulgenzio nelle opere di Dante e negli antichi commenti alla “Commedia,”* Ravenna: Longo.
+* Aleksander, Jason, 2011a, “Dante’s Understanding of the Two Ends of Human Desire and the Relationship between Philosophy and Theology,” *The Journal of Religion*, 91: 158–187.
+* –––, 2011b, “The Problem of Theophany in *Paradiso* 33,” *Essays in Medieval Studies*, 27: 61–78.
+* –––, 2016, “Providence, Temporal Authority, and the Illustrious Vernacular in Dante’s Political Philosophy,” in *Time: Sense, Space, Structure*, Presenting the Past, vol. 5, eds. Nancy van Deusen and Leonard Michael Koff, Leiden: E. J. Brill, pp. 231–260.
+* Alfie, Fabian and Nicolino Applauso, eds., 2019, *Dante satiro: Satire in Dante Alighieri’s Comedy and Other Works*, Lanham, Boulder: Lexington Books.
+* Ardissino, Erminia, ed., 2021, *Dante: filosofia e poesia della giustizia: Dalla “Monarchia” alla “Commedia,”* Milano-Udine: Mimesis.
+* Ardizzone, Maria Luisa, 2011, *Dante: il paradigma intellettuale. Un’inventio degli anni fiorentini*, Florence: L. S. Olschki.
+* –––, ed., 2014, *Dante and Heterodoxy: The Temptations of 13th Century Radical Thought*, Newcastle upon Tyne: Cambridge Scholars Publishing.
+* –––, 2016, *Reading as the Angels Read: Speculation and Politics in Dante’s Banquet*, Toronto: University of Toronto Press.
+* –––, 2018, “Dante and the Natural Logic of Politics. Instinct, Intellect, Economy” *Il Pensiero. Rivista di filosofia*, 57.2: 61–79.
+* –––, 2018, *Dante as Political Theorist. Reading Monarchia*, Newcastle upon Tyne: Cambridge Scholars Publishing.
+* –––, 2021, “The Tragic Nature of Dante’s Canzoni. Ambiguity and Vocabulary: for a Methodology of Reading,” *Rivista Internazionale di Ricerche Dantesche*, 2: 85–98.
+* Arduini, Beatrice, 2019, “La politica linguistica del Convivio di Dante,” *Medioevo Letterario d’Italia. Rivista internazionale di filologia, linguistica e letteratura*, 16: 45–58.
+* –––, 2020, *Dante’s “Convivio”: the Creation of a Cultural Icon*, Firenze: Cesati.
+* Ascoli, Albert, 1989, “The Vowels of Authority (Dante’s *Convivio*, IV.vi.3–4),” in *Discourses of Authority in Medieval and Renaissance Literature*, eds. Kevin Brownlee, Walter Stephens, Hanover, NH and London: University Press of New England, pp. 23–46.
+* –––, 1991, “‘Neminem ante nos’: Historicity and Authority in the *De vulgari eloquentia*,” *Annali d’Italianistica*, 8: 186–231.
+* –––, 1995, “Palinode and History in the Oeuvre of Dante,” in *Dante Now: Current Trends in Dante Studies*, ed. Theodore J. Cachey, Notre Dame: University of Notre Dame Press, pp. 115–186.
+* –––, 2008, *Dante and the Making of the Modern Author*, Cambridge: Cambridge University Press.
+* Auerbach, Erich, 1929, *Dante: Poet of the Secular World*, trans. Ralph Manheim, Chicago: University of Chicago Press, 1961.
+* Baika, Gabriella I., 2014, *The Rose and Geryon: the Poetics of Fraud and Violence in Jean de Meun and Dante*, Washington, D.C.: Catholic University of America Press.
+* Barański, Zygmunt G., 1986, “‘Significar *per verba*’: Notes on Dante and Plurilingualism,” *The Italianist*, 6: 5–18.
+* –––, 2020, *Dante, Petrarch, Boccaccio. Literature, Doctrine, Reality*, Cambridge: Legenda — Modern Humanities Research Association.
+* Baranski, Zygmunt G. and Simon Gilson, eds., 2019, *The Cambridge Companion to Dante*’*s Commedia*, Cambridge: Cambridge University Press.
+* Barbi, Michele, 1941, *Problemi di critica dantesca: seconda serie*, Florence: Sansoni.
+* Barnes, John C. and Michelangelo Zaccarello, eds., 2013, *Language and Style in Dante*, Dublin: Four Courts Press.
+* Barolini, Teodalinda, 1984, *Dante’s Poets: Textuality and Truth in the Comedy*, Princeton: Princeton University Press.
+* –––, 1992, *The Undivine Comedy: Detheologizing Dante*, Princeton: Princeton University Press.
+* –––, 2018, “Dante and Wealth, between Aristotle and cortesia. From the Moral canzoni Le dolci rime and Poscia ch’amor to Inferno VI and VII,” *Medioevo Letterario d’Italia. Rivista internazionale di filologia, linguistica e letteratura*, 15: 33–47.
+* –––, 2019, “Difference as Punishment or Difference as Pleasure: From the Tower of Babel in *De vulgari eloquentia* to the Death of Babel in *Paradiso* 26,” *Textual Cultures. Texts, Contexts, Interpretation*, 12 (1): 137–154.
+* –––, 2022, *Dante’s Multitudes: History, Philosophy, Method*, Notre Dame, IN: University of Notre Dame Press.&#x20;
+* Bartolomei, Teresa and Joao R. Figueiredo, eds., 2023, *In the Footsteps of Dante: Crossroads of European Humanism*, Berlin: De Gruyter.
+* Baur, Christine O’Connell, 2007, *Dante’s Hermeneutics of Salvation: Passages to Freedom in the* Divine Comedy, Toronto: University of Toronto Press.
+* Baxter, Jason M., 2020, *The Infinite Beauty of the World: Dante’s Encyclopedia and the Names of God*, New York: Peter Lang.
+* Belliotti, Raymond Angelo, 2011, *Dante’s Deadly Sins: Moral Philosophy in Hell*, New York: Wiley-Blackwell.
+* Benfell, V. Stanley, 2011, *The Biblical Dante*, Toronto: University of Toronto Press.
+* Boyde, Patrick, 1981, *Dante Philomythes and Philosopher: Man in the Cosmos*, Cambridge: Cambridge University Press.
+* –––, 1993, *Perception and Passion in Dante’s* Comedy, Cambridge: Cambridge University Press.
+* –––, 2000, *Human Vices and Human Worth in Dante’s* Comedy, Cambridge: Cambridge University Press.
+* Bruce-Jones, John, 1995, “L’importanza primaria della materia prima: Aspetti della materia nella poesia e nel pensiero di Dante,” in *Dante e la Scienza*, ed. Patrick Boyde, Ravenna: Longo, pp. 213–21.
+* Cahill, Courtney, 1996, “The Limitations of Difference in *Paradiso* XIII’s Two Arts: Reason and Poetry,” *Dante Studies*, 114 (1996): 245–69.
+* Cassell, Anthony, 2004, *The Monarchia Controversy*, Washington, D.C.: Catholic University of America Press.
+* Cogan, Marc, 1999, *The Design in the Wax*, Notre Dame: University of Notre Dame Press.
+* Corbett, George, 2013, *Dante and Epicurus: a Dualistic Vision of Secular and Spiritual Fulfillment*, London: Modern Humanities Research Association and Maney Publishing.
+* –––, 2020, *Dante’s Christian Ethics: Purgatory and Its Moral Contexts*, Cambridge: Cambridge University Press.
+* Cornish, Alison, 2000, *Reading Dante’s Stars*, New Haven: Yale University Press.
+* –––, 2011, *Vernacular Translation in Dante’s Italy: Illiterate Literature*, Cambridge: Cambridge University Press.
+* –––, 2022, *Believing in Dante: Truth in Fiction*, Cambridge: Cambridge University Press.
+* Corti, Maria, 1981, *Dante a un nuovo crocevia*, Florence: Sansoni.
+* –––, 1983, *La felicità mentale. Nuove prospettive per Cavalcanti e Dante*, Turin: G. Einaudi.
+* Davis, Charles Till, 1957, *Dante and the Idea of Rome*, Oxford: Clarendon Press.
+* –––, 1984, *Dante’s Italy and Other Essays*, Philadelphia: University of Pennsylvania Press.
+* De Benedictis, Raffaele, 2012, *Wordly Wise: the Semiotics of Discourse in Dante’s* Commedia, New York: Peter Lang.
+* de Libera, Alain, Jean-Baptiste Brenet, and Irène Rosier-Catach, eds., 2019, *Dante et l’averroïsme*, Paris: Collège de France – Les Belles Lettres.
+* Diomedi, Adriana, 1999a, “Dante e la necessita di perfezione: verso la felicita ultima,” *Rivista di Studi Italiani*, 17: 1–19.
+* –––, 1999b, “Il nesso ‘perfezione Filosofia’ in Dante,” *Quaderni d’italianistica*, 20: 191–210.
 * –––, 2005, Il principio di perfezione nel pensiero dantesco, Leicester, U.K.: Troubador.
-* Dronke, Peter, 1997, _Dante’s Second Love: The Originality and the Contexts of the ‘Convivio’_, Exeter: Society for Italian Studies.
-* Eco, Umberto, 1995, “The Perfect Language of Dante,” in _The Search for a Perfect Language_, trans. James Fentress, Oxford: Blackwell Publishers, pp. 34–52
-* Fortin, Ernest Leonard, 2002, _Dissent and Philosophy in the Middle Ages: Dante and His Precursors_, Lanham: Lexington Books.
-* Fortuna, Sara, Manuele Gragnolati, and Jürgen Trabant, eds., 2010, _Dante’s Plurilingualism: Authority, Knowledge, Subjectivity_, Legenda: Oxford
-* Foster, Kenelm, 1977, _The Two Dantes and Other Studies_, Berkeley, CA and Los Angeles: University of California Press.
-* –––, 1965, “Religion and Philosophy in Dante,” in _The Mind of Dante_, ed. Uberto Limentani Cambridge: Cambridge University Press, pp. 47–78.
-* Franke, William, 1996, _Dante’s Interpretive Journey_, Chicago: The University of Chicago Press.
-* –––, 2013, _Dante and the Sense of Transgression_, London: Bloomsbury.
-* –––, 2021, _Dante’s Paradiso and the Theological Origins of Modern Thought_, London: Routledge.
-* –––, 2021, _The Divine Vision of Dante’s Paradiso_, Cambridge: Cambridge University Press.
-* Freccero, John, 1973, “Casella’s Song (Purg. II, 112),” _Dante Studies_, 91: 73–80.
-* Freccero, John, 1986, _Dante: the Poetics of Conversion_, Cambridge, Mass: Harvard University Press.
-* Frisardi, Andrew, 2015, _The Quest for Knowledge in Dante’s_ Convivio, London: The Temenos Academy.
-* Gaimari, Giulia and Catherine Keen, eds., 2019, _Ethics, Politics and Justice in Dante_, London: UCL Press.
-* Garin, Eugenio, 1976, _Rinascite e rivoluzioni. Movimenti culturali dal XIV al XVII secolo_, 2nd edition, Rome: Laterza.
-* Gauthier, René-Antoine, 1993, _Saint Thomas d’Aquin, Somme contre les Gentils_, Paris: Editions universitaires.
-* Gilson, Étienne, 1939, _Dante and Philosophy_, trans. David Moore, New York: Harper and Row, 1963.
-* Gilson, Simon A., 2004, “Rimaggiamenti danteschi di Aristotele: ‘gravitas’ e ‘levitas’ nella Commedia,” in _Le culture di Dante: studi in onore di Robert Hollander_, ed. Michelangelo Picone, Theodore J. Cachey, Jr., Margherita Mesirca, Florence: Cesati, pp. 151–77.
-* –––, 2018, _Reading Dante in Renaissance Italy: Florence, Venice and the “Divine Poet,”_ Cambridge: Cambridge University Press.
-* Ginsberg, Warren, 1999, _Dante’s Aesthetics of Being_, Ann Arbor: The University of Michigan Press.
-* Gragnolati, Manuele, 2005, _Experiencing the Afterlife: Soul and Body in Dante and Medieval Culture_, Notre Dame: University of Notre Dame Press.
-* –––, 2016, “16. Politics of Desire,” _Vertical Readings in Dante’s_ Comedy, vol. 2, eds. George Corbett and Heather Webb, Cambridge, UK: Open Book Publishers, pp. 101–126.
-* –––, 2020, “Ombre e abbracci. Riflessioni sull’inconsistenza nella Commedia di Dante,” _Chroniques Italiennes_, série web 39 (2): 30–43.
-* Gragnolati, Manuele, Elena Lombardi, and Francesca Southerden, eds., 2021, _The Oxford Handbook of Dante_, Oxford: Oxford University Press.
-* Gragnolati, Manuele and Francesca Southerden, 2018, “From Paradox to Exclusivity: Dante and Petrarch’s Lyrical Eschatologies,” in Candido, Igor, ed., _Petrarch and Boccaccio. The Unity of Knowledge in the Pre-modern World_, Berlin-Boston: de Gruyter, pp. 129–152.
-* Gragnolati, Manuele, Tristin Kay, Elena Lombardi, and Francesca Southerden, eds., 2012, _Desire in Dante and the Middle Ages_, London: Modern Humanities Research Association and Maney Publishing.
-* Hollander, Robert, 1975, “Purgatorio II: Cato’s Rebuke and Dante’s scoglio,” _Italica_, 52: 348–63.
-* –––, 1990, “Purgatorio II: The New Song and the Old,” _Lectura Dantis_, 6: 28–45.
-* Holmes, Olivia, 2008, _Dante’s Two Beloveds: Ethics and Erotics in the_ Divine Comedy, New Haven: Yale University Press.
-* Honess, Claire and Matthew Treherne, eds., 2013, _Reviewing Dante’s Theology_, 2 vol, Oxford: Peter Lang.
-* Iannucci, Amilcare A., 1997, “Dante’s Philosophical Canon (_Inferno_, 4. 130–44),” _Quaderni d’italianistica_, 18: 250–60.
-* –––, 2000, “Dante’s Theological Canon in the _Commedia_,” _Italian Quarterly_, 37: 51–56.
-* Imbach, Ruedi, 1996, _Dante, la philosophie et les laïcs_, Fribourg and Paris: Editions universitaires.
-* –––, 2002, “Filosofia dell’amore: Un dialogo tra Tommaso d’Aquino e Dante,” _Studi medievali_ (ser. 3), 43: 816–32.
-* Jacoff, Rachel, 1980, “The Post-Palinodic Smile: _Paradiso_ VIII and IX,” _Dante Studies_, 98: 111–22.
-* Kay, Richard, 2006, _Dante’s Enigmas: Medieval Scholasticism and Beyond_, Aldershot: Ashgate.
-* Kirkpatrick, Robin, 1978, _Dante’s_ Paradiso _and the Limitations of Modern Criticism_, Cambridge: Cambridge University Press.
-* –––, 1987, _Dante’s_ Inferno\*: Difficulty and Dead Poetry\*, Cambridge: Cambridge University Press.
-* Kleinhenz, Christopher and Kristina Olson, eds., 2020, _Approaches to Teaching Dante’s “Divine Comedy,”_ second edition, New York: Modern Language Association of America.
-* Libera, Alain de, 1991, _Penser au Moyen Âge_, Paris: Éditions du Seuil.
-* Lombardi, Elena, 2012, _The Wings of the Doves: Love and Desire in Dante and Medieval Culture_, Montreal: McGill-Queen’s University Press.
-* Lombardo, Luca, Diego Parisi, and Anna Pegoretti, eds., 2018, _Theologus Dantes: Tematiche teologiche nelle opere e nei primi commenti_, Venezia: Edizioni Ca’ Foscari.
-* Maierù, Alfonso, 2004, “Dante di fronte alla Fisica e alla Metafisica,” in _Le culture di Dante: studi in onore di Robert Hollander_, ed. Michelangelo Picone, Theodore J. Cachey, Jr., Margherita Mesirca, Florence: Cesati, pp. 127–49.
-* Marchesi, Simone, 2011, _Dante and Augustine: Linguistics, Poetics, Hermeneutics_, Toronto: University of Toronto Press.
-* Mazzotta, Giuseppe, 1979, _Dante, Poet of the Desert_, Princeton: Princeton University Press.
-* –––, 1993, _Dante’s Vision and the Circle of Knowledge_, Princeton: Princeton University Press.
-* –––, 2003, “The Heaven of the Sun: Dante between Aquinas and Bonaventure,” in _Dante for the New Millennium_, eds. Teodolinda Barolini and H. Wayne Storey, New York: Fordham University Press, pp. 152–168.
-* Meier, Christel, 1988, “_Cosmos Politicus_: Der Funktionswandel der Enzyklopädie bei Brunetto Latini,” _Fruhmittelalterliche Studien_, 22: 315–56.
-* Meier, Franziska, ed., 2018, _Dante’s “Convivio” or How to Restart a Career in Exile_, Bern: Lang.
-* Minio-Paluello, Lorenzo, 1980, “Dante’s Reading of Aristotle,” in _The World of Dante_, ed. Cecil Grayson, Oxford: Clarendon Press, pp. 61–80.
-* Moevs, Christian, 1999, “God’s Feet and Hands…” _Modern Language Notes_, 114: 1–13.
-* –––, 2005, _The Metaphysics of Dante’s Comedy_, Oxford: Oxford University Press.
-* Montemaggi, Vittorio, 2016, _Reading Dante’s Commedia as Theology_, Oxford: Oxford University Press.
-* –––, 2019, “Love, ideology, and inter-religious relations in the Commedia,” _Dante Studies_, 137: 197–209.
-* –––, 2021, “What Did Dante Actually Think of Salvation?” _Rivista di Studi Italiani_, 39: 1–30.
-* Montemaggi, Vittorio, and Matthew Treherne, eds., 2010, _Dante’s Commedia: Theology as Poetry_, Notre Dame: University of Notre Dame Press.
-* Moore, Edward, 1968, “The Reproaches of Beatrice,” in _Studies in Dante_, Oxford: Clarendon Press, pp. 221–52.
-* Nardi, Bruno, 1944, _Nel mondo di Dante_, Rome: Istituto Grafico Tiberino.
-* –––, 1949, _Dante e la cultura medievale_, 2nd edition, Bari: Laterza.
-* –––, 1960, _Studi di filosofia medievale_, Rome: Edizioni di storia e letteratura.
-* –––, 1967, _Saggi di filosofia dantesca_, 2nd edition, Florence: La Nuova Italia.
-* –––, 1992, _Dal_ “Convivio” _alla_ “Commedia”, 2nd edition, Rome: Istituto storico italiano per il Medio Evo.
-* Olson, Kristina M, 2014, _Courtesy Lost: Dante, Boccaccio, and the Literature of History_, Toronto: University of Toronto Press.
-* Panella, Emilio, 1979, _Per lo studio di fra Remigio dei Girolami_, Pistoia: Memorie domenicane, n.s. 10.
-* Passerin d’Entrèves, Alessandro, 1952, _Dante as a Political Thinker_, Oxford: Clarendon Press.
-* Pertile, Lino, 1993, “Dante’s Comedy beyond the Stilnovo,” _Lectura Dantis_, 13: 47–77.
-* Pierson, Inga, 2019, “Piccarda’s weakness: Reflections on freedom, force, and femininity in Dante’s Paradiso,” _Speculum_, 94.1: 68–95.
-* Pinto, Raffaele, 2020, “L’averroismo della Monarchia e i suoi riflessi nel Paradiso,” in Borsa, Paolo, Paolo Falzone, Luca Fiorentini, Sonia Gentili, Luca Marcozzi, Sabrina Stroppa and Natascia Tonelli, eds., _Per Enrico Fenzi: Saggi di allievi e amici per i suoi ottant’anni_, Firenze: Le Lettere, pp. 185–204.
-* Raffi, Alessandro, 2019, “Il Primo Mobile in Dante: un itinerarium mentis tra fisica, metafisica e teologia,” _Campi Immaginabili. Rivista semestrale di cultura_ 60–61.1–2: 44–65.
-* Rea, Roberto and Justin Steinberg, eds., 2020, _Dante_, Roma: Carocci.
-* Ricordi, Franco, 2019, _Filosofia della “Commedia” di Dante_, Sesto San Giovanni: Mimesis.
-* Rigo, Antonella, 2019, _L’ombra di Dante nel Rinascimento: L’influenza della “Commedia” dantesca sulla filosofia neoplatonica ispiratrice dell’arte rinascimentale fiorentina_, Roma: Aracne.
-* Rizzo, Stefano, 1969, “Il _De vulgari eloquentia_ e l’unità del pensiero linguistic di Dante,” _Dante Studies_, 87: 69–88.
-* Rowson, Abigail, 2021, “Kaleidoscopic Beatrice: Through the Theologians, as a Theologian,” _Italian Studies_, 76 (1): 18–31.
-* Ryan, Christopher, 1995, “‘Natura dividitur contra gratiam’: concetti diversi della natura in Dante e nella cultura filosofico-teologica medievale,” in _Dante e la Scienza_, ed. Patrick Boyde, Ravenna: Longo, pp. 363–73.
-* Santagata, Marco, 2016, _Dante: The Story of His Life_, Cambridge, MA: Harvard University Press.
-* Santayana, George, 2019, _Three Philosophical Poets: Lucretius, Dante and Goethe_, David E. Spiech and Kellie Dawson, eds., Cambridge: MIT Press. \[Critical edition; 1st ed. 1910]
-* Scott, John, 1990, “Dante and Philosophy,” _Annali d’Italianistica_, 8: 258–277.
-* –––, 1991, “Beatrice’s Reproaches in Eden: Which ‘School’ Had Dante Followed?” _Dante Studies_, 109: 1–23.
-* –––, 1995, “The Unfinished _Convivio_ as Pathway to the _Comedy_,” _Dante Studies_, 109: 1–23.
-* –––, 1996, _Dante’s Political Purgatory_, Philadelphia: University of Pennsylvania Press.
-* –––, 2004, _Understanding Dante_, Notre Dame: University of Notre Dame Press.
-* –––, 2008, “\[_Purgatorio_ 16:] A World of Darkness and Disorder,” in _Lectura Dantis: Purgatorio_, ed. Allen Mandelbaum, Anthony Oldcorn, and Charles Ross, Berkeley: University of California Press, pp. 167–177.
-* Simpson, James, 2005, “Poetry as Knowledge: Dante’s _Paradiso_ XIII,” _Forum for Modern Language Studies_, 25: 329–43.
-* Singleton, Charles, 1956, “Virgil Recognizes Beatrice,” _Dante Studies_, 74: 29–38.
-* Singleton, Charles S., 2019, _Dante’s “Commedia”: Elements of Structure_, Baltimore: Johns Hopkins University Press. \[Open access edition; 1st ed. 1954]
-* Stabile, Giorgio, 2007, _Dante e la filosofia della natura. Percezioni, linguaggi, cosmologie_, Florence: SISMEL Edizioni del Galluzzo.
-* Steinberg, Justin, 2013, _Dante and the Limits of the Law_, Chicago: University of Chicago Press.
-* Stern, Paul, 2018, _Dante’s Philosophical Life: Politics and Human Wisdom in Purgatorio_, Philadelphia: University of Pennsylvania Press.
-* Stewart, Dana and Alison Cornish, eds., 2000, _Sparks and Seeds. Medieval Italian Literature and Its Afterlife. Essays in Honor of John Freccero_. Binghamton and Turnhout: Center for Medieval and Early Renaissance Studies and Brepols.
-* Stone, Gregory, 2006, _Dante’s Pluralism and the Islamic Philosophy of Religion_, New York: Palgrave Macmillan.
-* ten Klooster, Anton, 2019, “Dante and the Beatitudes: Moral Transformation in Purgatorio,” _Incontri. Rivista Europea di Studi Italiani_, 34(1): 122–127.
-* Took, John, 2020, _Dante_, Princeton: Princeton University Press.
-* Treherne, Matthew, 2020, _Dante’s “Commedia” and the Liturgical Imagination_, Oxford; New York: Peter Lang.
-* Van Cleve, Thomas C., 1972, _The Emperor Frederick II of Hohenstaufen. Immutator Mundi_, Oxford: Clarendon Press.
-* Valli, Luigi, 2018, _La struttura morale dell’universo dantesco_. Milano: Luni.
-* Vander Weele, Michael, 2018, “The Siren and the Admiral: A Contest of Identity-Formation,” _Renascence. Essays of Values in Literature_, 70(2): 89–117.
-* Vanni Rovighi, Sofia, 1967, “Le ‘disputazioni de li filosofanti,’” in _Dante e Bologna nei tempi di Dante_, Bologna: Commissione per i testi di lingua, pp. 179–92.
-* Vasoli, Cesare, 1995a, _Otto saggi per Dante_, Florence: Lettere.
-* ––– 1995b, “Dante, Alberto Magno e la scienza dei ‘peripatetici’,” in _Dante e la Scienza_, ed. Patrick Boyde, Ravenna: Longo, pp. 55–70.
-* –––, 2008, “Dante e l’immagine del mondo nel Convivio,” in _L’idea e l’immagine dell’universo nell’opera di Dante_, Ravenna: Centro dantesco dei Frati minori conventuali, pp. 83–102.
-* Vinti, Matteo, 2020, _Amore al centro della “Commedia”: Dottrina e immagini dell’amore in Dante_, Quartu S. Elena (CA): Metis Academic Press.
-* Wetherbee, Winthrop, 2008, _The Ancient Flame: Dante and the Poets_, Notre Dame: University of Notre Dame Press.
-* Williams, Pamela, 2005, “Dante’s Heaven of the Sun and the Wisdom of Solomon,” _Italica_, 82: 165–179.
-* Wilson, A. N., 2011, _Dante and Love_, New York: Palgrave Macmillan.
-* Ziolkowski, Jan M., ed., 2014a, _Dante and Islam_, New York: Fordham University Press.
-* –––, ed., 2014b, _Dante and the Greeks_, Washington, D.C.: Dumbarton Oaks Research Library and Collection.
+* Dronke, Peter, 1997, *Dante’s Second Love: The Originality and the Contexts of the ‘Convivio’*, Exeter: Society for Italian Studies.
+* Eco, Umberto, 1995, “The Perfect Language of Dante,” in *The Search for a Perfect Language*, trans. James Fentress, Oxford: Blackwell Publishers, pp. 34–52
+* Fortin, Ernest Leonard, 2002, *Dissent and Philosophy in the Middle Ages: Dante and His Precursors*, Lanham: Lexington Books.
+* Fortuna, Sara, Manuele Gragnolati, and Jürgen Trabant, eds., 2010, *Dante’s Plurilingualism: Authority, Knowledge, Subjectivity*, Legenda: Oxford
+* Foster, Kenelm, 1977, *The Two Dantes and Other Studies*, Berkeley, CA and Los Angeles: University of California Press.
+* –––, 1965, “Religion and Philosophy in Dante,” in *The Mind of Dante*, ed. Uberto Limentani Cambridge: Cambridge University Press, pp. 47–78.
+* Franke, William, 1996, *Dante’s Interpretive Journey*, Chicago: The University of Chicago Press.
+* –––, 2013, *Dante and the Sense of Transgression*, London: Bloomsbury.
+* –––, 2021, *Dante’s Paradiso and the Theological Origins of Modern Thought*, London: Routledge.
+* –––, 2021, *The Divine Vision of Dante’s Paradiso*, Cambridge: Cambridge University Press.
+* Freccero, John, 1973, “Casella’s Song (Purg. II, 112),” *Dante Studies*, 91: 73–80.
+* Freccero, John, 1986, *Dante: the Poetics of Conversion*, Cambridge, Mass: Harvard University Press.
+* Frisardi, Andrew, 2015, *The Quest for Knowledge in Dante’s* Convivio, London: The Temenos Academy.
+* Gaimari, Giulia and Catherine Keen, eds., 2019, *Ethics, Politics and Justice in Dante*, London: UCL Press.
+* Garin, Eugenio, 1976, *Rinascite e rivoluzioni. Movimenti culturali dal XIV al XVII secolo*, 2nd edition, Rome: Laterza.
+* Gauthier, René-Antoine, 1993, *Saint Thomas d’Aquin, Somme contre les Gentils*, Paris: Editions universitaires.
+* Gilson, Étienne, 1939, *Dante and Philosophy*, trans. David Moore, New York: Harper and Row, 1963.
+* Gilson, Simon A., 2004, “Rimaggiamenti danteschi di Aristotele: ‘gravitas’ e ‘levitas’ nella Commedia,” in *Le culture di Dante: studi in onore di Robert Hollander*, ed. Michelangelo Picone, Theodore J. Cachey, Jr., Margherita Mesirca, Florence: Cesati, pp. 151–77.
+* –––, 2018, *Reading Dante in Renaissance Italy: Florence, Venice and the “Divine Poet,”* Cambridge: Cambridge University Press.
+* Ginsberg, Warren, 1999, *Dante’s Aesthetics of Being*, Ann Arbor: The University of Michigan Press.
+* Gragnolati, Manuele, 2005, *Experiencing the Afterlife: Soul and Body in Dante and Medieval Culture*, Notre Dame: University of Notre Dame Press.
+* –––, 2016, “16. Politics of Desire,” *Vertical Readings in Dante’s* Comedy, vol. 2, eds. George Corbett and Heather Webb, Cambridge, UK: Open Book Publishers, pp. 101–126.
+* –––, 2020, “Ombre e abbracci. Riflessioni sull’inconsistenza nella Commedia di Dante,” *Chroniques Italiennes*, série web 39 (2): 30–43.
+* Gragnolati, Manuele, Elena Lombardi, and Francesca Southerden, eds., 2021, *The Oxford Handbook of Dante*, Oxford: Oxford University Press.
+* Gragnolati, Manuele and Francesca Southerden, 2018, “From Paradox to Exclusivity: Dante and Petrarch’s Lyrical Eschatologies,” in Candido, Igor, ed., *Petrarch and Boccaccio. The Unity of Knowledge in the Pre-modern World*, Berlin-Boston: de Gruyter, pp. 129–152.
+* Gragnolati, Manuele, Tristin Kay, Elena Lombardi, and Francesca Southerden, eds., 2012, *Desire in Dante and the Middle Ages*, London: Modern Humanities Research Association and Maney Publishing.
+* Hollander, Robert, 1975, “Purgatorio II: Cato’s Rebuke and Dante’s scoglio,” *Italica*, 52: 348–63.
+* –––, 1990, “Purgatorio II: The New Song and the Old,” *Lectura Dantis*, 6: 28–45.
+* Holmes, Olivia, 2008, *Dante’s Two Beloveds: Ethics and Erotics in the* Divine Comedy, New Haven: Yale University Press.
+* Honess, Claire and Matthew Treherne, eds., 2013, *Reviewing Dante’s Theology*, 2 vol, Oxford: Peter Lang.
+* Iannucci, Amilcare A., 1997, “Dante’s Philosophical Canon (*Inferno*, 4. 130–44),” *Quaderni d’italianistica*, 18: 250–60.
+* –––, 2000, “Dante’s Theological Canon in the *Commedia*,” *Italian Quarterly*, 37: 51–56.
+* Imbach, Ruedi, 1996, *Dante, la philosophie et les laïcs*, Fribourg and Paris: Editions universitaires.
+* –––, 2002, “Filosofia dell’amore: Un dialogo tra Tommaso d’Aquino e Dante,” *Studi medievali* (ser. 3), 43: 816–32.
+* Jacoff, Rachel, 1980, “The Post-Palinodic Smile: *Paradiso* VIII and IX,” *Dante Studies*, 98: 111–22.
+* Kay, Richard, 2006, *Dante’s Enigmas: Medieval Scholasticism and Beyond*, Aldershot: Ashgate.
+* Kirkpatrick, Robin, 1978, *Dante’s* Paradiso *and the Limitations of Modern Criticism*, Cambridge: Cambridge University Press.
+* –––, 1987, *Dante’s* Inferno\*: Difficulty and Dead Poetry\*, Cambridge: Cambridge University Press.
+* Kleinhenz, Christopher and Kristina Olson, eds., 2020, *Approaches to Teaching Dante’s “Divine Comedy,”* second edition, New York: Modern Language Association of America.
+* Libera, Alain de, 1991, *Penser au Moyen Âge*, Paris: Éditions du Seuil.
+* Lombardi, Elena, 2012, *The Wings of the Doves: Love and Desire in Dante and Medieval Culture*, Montreal: McGill-Queen’s University Press.
+* Lombardo, Luca, Diego Parisi, and Anna Pegoretti, eds., 2018, *Theologus Dantes: Tematiche teologiche nelle opere e nei primi commenti*, Venezia: Edizioni Ca’ Foscari.
+* Maierù, Alfonso, 2004, “Dante di fronte alla Fisica e alla Metafisica,” in *Le culture di Dante: studi in onore di Robert Hollander*, ed. Michelangelo Picone, Theodore J. Cachey, Jr., Margherita Mesirca, Florence: Cesati, pp. 127–49.
+* Marchesi, Simone, 2011, *Dante and Augustine: Linguistics, Poetics, Hermeneutics*, Toronto: University of Toronto Press.
+* Mazzotta, Giuseppe, 1979, *Dante, Poet of the Desert*, Princeton: Princeton University Press.
+* –––, 1993, *Dante’s Vision and the Circle of Knowledge*, Princeton: Princeton University Press.
+* –––, 2003, “The Heaven of the Sun: Dante between Aquinas and Bonaventure,” in *Dante for the New Millennium*, eds. Teodolinda Barolini and H. Wayne Storey, New York: Fordham University Press, pp. 152–168.
+* Meier, Christel, 1988, “*Cosmos Politicus*: Der Funktionswandel der Enzyklopädie bei Brunetto Latini,” *Fruhmittelalterliche Studien*, 22: 315–56.
+* Meier, Franziska, ed., 2018, *Dante’s “Convivio” or How to Restart a Career in Exile*, Bern: Lang.
+* Minio-Paluello, Lorenzo, 1980, “Dante’s Reading of Aristotle,” in *The World of Dante*, ed. Cecil Grayson, Oxford: Clarendon Press, pp. 61–80.
+* Moevs, Christian, 1999, “God’s Feet and Hands…” *Modern Language Notes*, 114: 1–13.
+* –––, 2005, *The Metaphysics of Dante’s Comedy*, Oxford: Oxford University Press.
+* Montemaggi, Vittorio, 2016, *Reading Dante’s Commedia as Theology*, Oxford: Oxford University Press.
+* –––, 2019, “Love, ideology, and inter-religious relations in the Commedia,” *Dante Studies*, 137: 197–209.
+* –––, 2021, “What Did Dante Actually Think of Salvation?” *Rivista di Studi Italiani*, 39: 1–30.
+* Montemaggi, Vittorio, and Matthew Treherne, eds., 2010, *Dante’s Commedia: Theology as Poetry*, Notre Dame: University of Notre Dame Press.
+* Moore, Edward, 1968, “The Reproaches of Beatrice,” in *Studies in Dante*, Oxford: Clarendon Press, pp. 221–52.
+* Nardi, Bruno, 1944, *Nel mondo di Dante*, Rome: Istituto Grafico Tiberino.
+* –––, 1949, *Dante e la cultura medievale*, 2nd edition, Bari: Laterza.
+* –––, 1960, *Studi di filosofia medievale*, Rome: Edizioni di storia e letteratura.
+* –––, 1967, *Saggi di filosofia dantesca*, 2nd edition, Florence: La Nuova Italia.
+* –––, 1992, *Dal* “Convivio” *alla* “Commedia”, 2nd edition, Rome: Istituto storico italiano per il Medio Evo.
+* Olson, Kristina M, 2014, *Courtesy Lost: Dante, Boccaccio, and the Literature of History*, Toronto: University of Toronto Press.
+* Panella, Emilio, 1979, *Per lo studio di fra Remigio dei Girolami*, Pistoia: Memorie domenicane, n.s. 10.
+* Passerin d’Entrèves, Alessandro, 1952, *Dante as a Political Thinker*, Oxford: Clarendon Press.
+* Pertile, Lino, 1993, “Dante’s Comedy beyond the Stilnovo,” *Lectura Dantis*, 13: 47–77.
+* Pierson, Inga, 2019, “Piccarda’s weakness: Reflections on freedom, force, and femininity in Dante’s Paradiso,” *Speculum*, 94.1: 68–95.
+* Pinto, Raffaele, 2020, “L’averroismo della Monarchia e i suoi riflessi nel Paradiso,” in Borsa, Paolo, Paolo Falzone, Luca Fiorentini, Sonia Gentili, Luca Marcozzi, Sabrina Stroppa and Natascia Tonelli, eds., *Per Enrico Fenzi: Saggi di allievi e amici per i suoi ottant’anni*, Firenze: Le Lettere, pp. 185–204.
+* Raffi, Alessandro, 2019, “Il Primo Mobile in Dante: un itinerarium mentis tra fisica, metafisica e teologia,” *Campi Immaginabili. Rivista semestrale di cultura* 60–61.1–2: 44–65.
+* Rea, Roberto and Justin Steinberg, eds., 2020, *Dante*, Roma: Carocci.
+* Ricordi, Franco, 2019, *Filosofia della “Commedia” di Dante*, Sesto San Giovanni: Mimesis.
+* Rigo, Antonella, 2019, *L’ombra di Dante nel Rinascimento: L’influenza della “Commedia” dantesca sulla filosofia neoplatonica ispiratrice dell’arte rinascimentale fiorentina*, Roma: Aracne.
+* Rizzo, Stefano, 1969, “Il *De vulgari eloquentia* e l’unità del pensiero linguistic di Dante,” *Dante Studies*, 87: 69–88.
+* Rowson, Abigail, 2021, “Kaleidoscopic Beatrice: Through the Theologians, as a Theologian,” *Italian Studies*, 76 (1): 18–31.
+* Ryan, Christopher, 1995, “‘Natura dividitur contra gratiam’: concetti diversi della natura in Dante e nella cultura filosofico-teologica medievale,” in *Dante e la Scienza*, ed. Patrick Boyde, Ravenna: Longo, pp. 363–73.
+* Santagata, Marco, 2016, *Dante: The Story of His Life*, Cambridge, MA: Harvard University Press.
+* Santayana, George, 2019, *Three Philosophical Poets: Lucretius, Dante and Goethe*, David E. Spiech and Kellie Dawson, eds., Cambridge: MIT Press. \[Critical edition; 1st ed. 1910]
+* Scott, John, 1990, “Dante and Philosophy,” *Annali d’Italianistica*, 8: 258–277.
+* –––, 1991, “Beatrice’s Reproaches in Eden: Which ‘School’ Had Dante Followed?” *Dante Studies*, 109: 1–23.
+* –––, 1995, “The Unfinished *Convivio* as Pathway to the *Comedy*,” *Dante Studies*, 109: 1–23.
+* –––, 1996, *Dante’s Political Purgatory*, Philadelphia: University of Pennsylvania Press.
+* –––, 2004, *Understanding Dante*, Notre Dame: University of Notre Dame Press.
+* –––, 2008, “\[*Purgatorio* 16:] A World of Darkness and Disorder,” in *Lectura Dantis: Purgatorio*, ed. Allen Mandelbaum, Anthony Oldcorn, and Charles Ross, Berkeley: University of California Press, pp. 167–177.
+* Simpson, James, 2005, “Poetry as Knowledge: Dante’s *Paradiso* XIII,” *Forum for Modern Language Studies*, 25: 329–43.
+* Singleton, Charles, 1956, “Virgil Recognizes Beatrice,” *Dante Studies*, 74: 29–38.
+* Singleton, Charles S., 2019, *Dante’s “Commedia”: Elements of Structure*, Baltimore: Johns Hopkins University Press. \[Open access edition; 1st ed. 1954]
+* Stabile, Giorgio, 2007, *Dante e la filosofia della natura. Percezioni, linguaggi, cosmologie*, Florence: SISMEL Edizioni del Galluzzo.
+* Steinberg, Justin, 2013, *Dante and the Limits of the Law*, Chicago: University of Chicago Press.
+* Stern, Paul, 2018, *Dante’s Philosophical Life: Politics and Human Wisdom in Purgatorio*, Philadelphia: University of Pennsylvania Press.
+* Stewart, Dana and Alison Cornish, eds., 2000, *Sparks and Seeds. Medieval Italian Literature and Its Afterlife. Essays in Honor of John Freccero*. Binghamton and Turnhout: Center for Medieval and Early Renaissance Studies and Brepols.
+* Stone, Gregory, 2006, *Dante’s Pluralism and the Islamic Philosophy of Religion*, New York: Palgrave Macmillan.
+* ten Klooster, Anton, 2019, “Dante and the Beatitudes: Moral Transformation in Purgatorio,” *Incontri. Rivista Europea di Studi Italiani*, 34(1): 122–127.
+* Took, John, 2020, *Dante*, Princeton: Princeton University Press.
+* Treherne, Matthew, 2020, *Dante’s “Commedia” and the Liturgical Imagination*, Oxford; New York: Peter Lang.
+* Van Cleve, Thomas C., 1972, *The Emperor Frederick II of Hohenstaufen. Immutator Mundi*, Oxford: Clarendon Press.
+* Valli, Luigi, 2018, *La struttura morale dell’universo dantesco*. Milano: Luni.
+* Vander Weele, Michael, 2018, “The Siren and the Admiral: A Contest of Identity-Formation,” *Renascence. Essays of Values in Literature*, 70(2): 89–117.
+* Vanni Rovighi, Sofia, 1967, “Le ‘disputazioni de li filosofanti,’” in *Dante e Bologna nei tempi di Dante*, Bologna: Commissione per i testi di lingua, pp. 179–92.
+* Vasoli, Cesare, 1995a, *Otto saggi per Dante*, Florence: Lettere.
+* ––– 1995b, “Dante, Alberto Magno e la scienza dei ‘peripatetici’,” in *Dante e la Scienza*, ed. Patrick Boyde, Ravenna: Longo, pp. 55–70.
+* –––, 2008, “Dante e l’immagine del mondo nel Convivio,” in *L’idea e l’immagine dell’universo nell’opera di Dante*, Ravenna: Centro dantesco dei Frati minori conventuali, pp. 83–102.
+* Vinti, Matteo, 2020, *Amore al centro della “Commedia”: Dottrina e immagini dell’amore in Dante*, Quartu S. Elena (CA): Metis Academic Press.
+* Wetherbee, Winthrop, 2008, *The Ancient Flame: Dante and the Poets*, Notre Dame: University of Notre Dame Press.
+* Williams, Pamela, 2005, “Dante’s Heaven of the Sun and the Wisdom of Solomon,” *Italica*, 82: 165–179.
+* Wilson, A. N., 2011, *Dante and Love*, New York: Palgrave Macmillan.
+* Ziolkowski, Jan M., ed., 2014a, *Dante and Islam*, New York: Fordham University Press.
+* –––, ed., 2014b, *Dante and the Greeks*, Washington, D.C.: Dumbarton Oaks Research Library and Collection.
 
 ## Academic Tools
 
@@ -422,9 +420,9 @@ Contra gentiles 可能看起来是一个奇怪的模型选择。布鲁诺·纳�
 
 Excellent resources for further study of Dante include the following:
 
-* [The Dante Dartmouth Project](https://dante.dartmouth.edu/) offers a searchable full-text database containing more than seventy commentaries on the _Divine Comedy_.
+* [The Dante Dartmouth Project](https://dante.dartmouth.edu/) offers a searchable full-text database containing more than seventy commentaries on the *Divine Comedy*.
 * The Dante Society of America’s [Education and Outreach](https://www.dantesociety.org/education-and-outreach) page includes examples of student writing, resources for secondary school teaching, bibliographies, and links to a variety of other resources.
-* [Digital Dante](https://digitaldante.columbia.edu/) hosted by Columbia University’s Department of Italian includes an online commentary by Teodolinda Barolini, a tool for visualizing intertextual references in the _Divine Comedy_, image and sound galleries, and a variety of primary sources, translations, and secondary sources.
+* [Digital Dante](https://digitaldante.columbia.edu/) hosted by Columbia University’s Department of Italian includes an online commentary by Teodolinda Barolini, a tool for visualizing intertextual references in the *Divine Comedy*, image and sound galleries, and a variety of primary sources, translations, and secondary sources.
 * [The Princeton Dante Project](https://dante.princeton.edu/index.html) offers searchable primary texts and translations of most of the texts of Dante’s corpus of writings as well as a multimedia gallery and a variety of secondary sources.
 
 ## Related Entries
@@ -433,4 +431,4 @@ Ibn Sina \[Avicenna] | medieval philosophy | [Ibn Rushd \[Averroes\]](https://pl
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 Winthrop Wetherbee\
-Jason Aleksander <[_jraleksander@gmail.com_](mailto:jraleksander%40gmail%2ecom)>
+Jason Aleksander <[*jraleksander@gmail.com*](mailto:jraleksander%40gmail%2ecom)>

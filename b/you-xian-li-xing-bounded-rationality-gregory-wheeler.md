@@ -1,14 +1,12 @@
 # 有限理性 bounded rationality (Gregory Wheeler)
 
-_首次发布于 2018 年 11 月 30 日星期五_
+*首次发布于 2018 年 11 月 30 日星期五*
 
 Herbert Simon 引入了术语‘bounded rationality’（Simon 1957b: 198; 另见 Klaes & Sent 2005）作为他反对新古典经济学的简要表述，并呼吁用一种适合认知有限的主体的理性概念来取代_homo economicus_的完美理性假设。
 
 > 广义地说，任务是用与经济人的全局理性相容的理性行为来取代这种理性，这种理性行为与实际上由有机体（包括人类）在这些有机体存在的环境中所拥有的信息获取和计算能力相容。（Simon 1955a: 99）
 
 ‘有限理性’此后已经成为指涉广泛的有效行为描述性、规范性和规定性解释，这些解释偏离了完美理性的假设。本条目旨在突出来自决策科学、经济学、认知和神经心理学、生物学、计算机科学和哲学的关键贡献，以加深我们对有限理性的当前理解。
-
-
 
 ***
 
@@ -22,13 +20,13 @@ Herbert Simon 引入了术语‘bounded rationality’（Simon 1957b: 198; 另�
 
 ### 1.1 期望效用理论
 
-我们在这里提出了一个这样的公理系统，用于推导期望效用理论，这是一个简单的公理集，用于二元关系⪰，表示“被弱偏好于”的关系。这个公理化的比较对象是_前景_，它们将概率与一组固定后果相关联，其中代理人已知概率和后果。举例来说，前景(−€10, ½; €20, ½)涉及两个后果，_失去 10 欧元_和_赢得 20 欧元_，每个后果的概率均为一半。一个理性的代理人会更喜欢这个前景，而不是另一个具有相同后果但失去的机会大于获胜的前景，比如(−€10, ⅔; €20, ⅓)，假设他的目标是最大化自己的财务福利。更一般地，假设 X={x1,x2,…,xn}是一组互斥且穷尽的后果，pi 表示 xi 的概率，其中每个 pi≥0 且∑nipi=1。一个前景_P_简单地是后果-概率对的集合，P=(x1,p1; x2,p2;…; xn,pn)。按照惯例，一个前景的后果-概率对按照每个后果的价值顺序排列，从最不利到最有利。当前景_P_、_Q_、_R_在特定偏好关系⪰下可比较，并且(有序的)后果集_X_固定时，前景可以简单地用概率向量表示。
+我们在这里提出了一个这样的公理系统，用于推导期望效用理论，这是一个简单的公理集，用于二元关系⪰，表示“被弱偏好于”的关系。这个公理化的比较对象是_前景_，它们将概率与一组固定后果相关联，其中代理人已知概率和后果。举例来说，前景(−€10, ½; €20, ½)涉及两个后果，*失去 10 欧元_和_赢得 20 欧元*，每个后果的概率均为一半。一个理性的代理人会更喜欢这个前景，而不是另一个具有相同后果但失去的机会大于获胜的前景，比如(−€10, ⅔; €20, ⅓)，假设他的目标是最大化自己的财务福利。更一般地，假设 X={x1,x2,…,xn}是一组互斥且穷尽的后果，pi 表示 xi 的概率，其中每个 pi≥0 且∑nipi=1。一个前景_P_简单地是后果-概率对的集合，P=(x1,p1; x2,p2;…; xn,pn)。按照惯例，一个前景的后果-概率对按照每个后果的价值顺序排列，从最不利到最有利。当前景_P_、*Q*、_R_在特定偏好关系⪰下可比较，并且(有序的)后果集_X_固定时，前景可以简单地用概率向量表示。
 
-_期望效用假设_伯努利(1738)指出，理性代理人应该最大化期望效用。如果您对前景的定性偏好⪰满足以下三个约束条件，_排序_、_连续性_和_独立性_，那么您的偏好将最大化期望效用(诺伊曼和莫根斯特恩 1944)。
+_期望效用假设_伯努利(1738)指出，理性代理人应该最大化期望效用。如果您对前景的定性偏好⪰满足以下三个约束条件，*排序*、*连续性_和_独立性*，那么您的偏好将最大化期望效用(诺伊曼和莫根斯特恩 1944)。
 
 A1.
 
-**有限理性**。订购条件规定偏好既是_完备_又是_传递_的。对于所有前景_P_、_Q_，完备性意味着要么 P⪰Q，Q⪰P，或者两者都成立 Q⪰P 和 Q⪰P，记作 P∼Q。对于所有前景 P、Q、R，传递性要求如果 P⪰Q 和 Q⪰R，则 P⪰R。
+**有限理性**。订购条件规定偏好既是_完备_又是_传递_的。对于所有前景_P_、*Q*，完备性意味着要么 P⪰Q，Q⪰P，或者两者都成立 Q⪰P 和 Q⪰P，记作 P∼Q。对于所有前景 P、Q、R，传递性要求如果 P⪰Q 和 Q⪰R，则 P⪰R。
 
 A2.
 
@@ -68,7 +66,7 @@ V(P)=∑i(pi⋅u(xi))的实值函数 V(⋅)
 
 [A1](https://plato.stanford.edu/entries/bounded-rationality/#Ax1)和[A2](https://plato.stanford.edu/entries/bounded-rationality/#Ax2)一起意味着 V(⋅)给前景分配一个实值指数，使得当且仅当 V(P)≥V(Q)时 P⪰Q。独立性公理[A3](https://plato.stanford.edu/entries/bounded-rationality/#Ax3)对选择编码了一个可分离性属性，确保期望效用在概率上是线性的。放弃独立性公理的动机源于在应用期望效用理论描述选择行为时遇到的困难，包括早期观察到人类对可能的损失和可能的收益进行不同评估。尽管期望效用理论可以代表一个既赌博又购买保险的人，但弗里德曼和萨维奇在对冯·诺依曼和莫根斯滕的公理化进行早期批评时指出，它不能同时做到这两点（M.弗里德曼和萨维奇 1948)。
 
-损失厌恶原则（卡内曼和特沃斯基 1979; 拉宾 2000）表明我们赋予潜在损失的主观权重大于我们赋予潜在收益的权重。例如，_禀赋效应_（塞勒 1980）——人们倾向于将一种商品的价值视为潜在损失时比视为潜在收益时更高的观察，得到了神经证据支持，即大脑的不同区域处理收益和损失（里克 2011）。然而，即使承认我们在处理损失和收益时的情感差异，这些差异不一定会转化为一般的“负面偏见”（鲍梅斯特、布拉茨拉夫斯基和芬肯奥尔 2001）在选择行为中（霍奇曼和耶希亚姆 2011; 耶希亚姆和霍奇曼 2014）。耶希亚姆及其同事报告了一些实验，参与者在其中的选择不表现出损失厌恶，例如参与者对发生损失和收益的重复情况以及涉及小赌注的单次决策的情况。尽管如此，对风险厌恶（阿莱 1953）和模糊厌恶（埃尔斯伯格 1961）的观察导致了对期望效用理论的替代方案，所有这些方案都放弃了[A3](https://plato.stanford.edu/entries/bounded-rationality/#Ax3)。这些替代方法包括前景理论（[section 2.4](https://plato.stanford.edu/entries/bounded-rationality/#CumuProsTheo)）、后悔理论（贝尔 1982; 卢姆斯和萨格登 1982）和排名依赖期望效用（奎金 1982）。
+损失厌恶原则（卡内曼和特沃斯基 1979; 拉宾 2000）表明我们赋予潜在损失的主观权重大于我们赋予潜在收益的权重。例如，*禀赋效应*（塞勒 1980）——人们倾向于将一种商品的价值视为潜在损失时比视为潜在收益时更高的观察，得到了神经证据支持，即大脑的不同区域处理收益和损失（里克 2011）。然而，即使承认我们在处理损失和收益时的情感差异，这些差异不一定会转化为一般的“负面偏见”（鲍梅斯特、布拉茨拉夫斯基和芬肯奥尔 2001）在选择行为中（霍奇曼和耶希亚姆 2011; 耶希亚姆和霍奇曼 2014）。耶希亚姆及其同事报告了一些实验，参与者在其中的选择不表现出损失厌恶，例如参与者对发生损失和收益的重复情况以及涉及小赌注的单次决策的情况。尽管如此，对风险厌恶（阿莱 1953）和模糊厌恶（埃尔斯伯格 1961）的观察导致了对期望效用理论的替代方案，所有这些方案都放弃了[A3](https://plato.stanford.edu/entries/bounded-rationality/#Ax3)。这些替代方法包括前景理论（[section 2.4](https://plato.stanford.edu/entries/bounded-rationality/#CumuProsTheo)）、后悔理论（贝尔 1982; 卢姆斯和萨格登 1982）和排名依赖期望效用（奎金 1982）。
 
 大多数有限理性模型甚至都不符合刚刚概述的这个广泛的公理家族。一个原因是，有限理性在历史上强调了涉及做出决策、下判断或实现目标的程序、算法或心理过程（[section 2](https://plato.stanford.edu/entries/bounded-rationality/#EmerProcRati)）。然而，塞缪尔森从推理行为转向选择行为时，恰恰忽略了这些细节，将它们视为理性选择理论范围之外的内容。对于西蒙来说，这正是问题所在。第二个原因是，有限理性经常关注适应生物环境的行为（[section 3](https://plato.stanford.edu/entries/bounded-rationality/#EmerEcolRati)）。由于生态建模涉及目标导向行为，受到生物体的构成和环境的稳定特征的调节，专注于（同时性地）一致的比较判断通常并不是直接、至少不是最佳的问题阐述方式。
 
@@ -102,7 +100,7 @@ _表面上可能_的概念指的是一种确定不一致性的程序，这是一
 
 西蒙认为，从推理行为转向选择行为的关注是一个错误。因为在 20 世纪 50 年代，对于涉及判断或决策过程的了解甚少，我们无法自由地将所有这些特征从数学模型中抽象出来。然而，对决策心理学的无知也引发了如何继续的问题。答案是关注运行决策程序所需的努力成本，并将这些成本与使用该程序的有机体可用资源进行比较，反之亦然，比较有机体在准确性方面的表现（[8.2 节](https://plato.stanford.edu/entries/bounded-rationality/#NormStanBounRati)）与其有限的认知资源，以便研究在这些资源限制内具有可比准确性水平的模型。有效地管理决策成本和质量之间的权衡涉及另一种类型的理性，后来西蒙称之为_程序有限理性_（西蒙，1976 年：69）。
 
-在本节中，我们重点介绍了对有限理性判断和决策建模程序的早期关键贡献，包括_准确性-努力权衡_的起源，西蒙的_满足_策略，_不当线性模型_，以及最早系统化高级认知判断和决策的若干特征的努力：_累积展望理论_。
+在本节中，我们重点介绍了对有限理性判断和决策建模程序的早期关键贡献，包括_准确性-努力权衡_的起源，西蒙的_满足_策略，*不当线性模型*，以及最早系统化高级认知判断和决策的若干特征的努力：*累积展望理论*。
 
 ### 2.1 准确性和努力
 
@@ -141,7 +139,7 @@ Dawes 的最初观点并非是不当的线性模型在准确性方面优于适�
 
 ### 2.4 累积效用理论
 
-如果满足和不当线性模型都是在本节开始时 Simon 的第二个问题的例子，即如何简化现有模型以使其既易处理又有效，那么 Daniel Kahneman 和 Amos Tversky 的 _累积效用理论_ 就是第一个直接融入关于人类实际决策方式的知识的模型之一。
+如果满足和不当线性模型都是在本节开始时 Simon 的第二个问题的例子，即如何简化现有模型以使其既易处理又有效，那么 Daniel Kahneman 和 Amos Tversky 的 *累积效用理论* 就是第一个直接融入关于人类实际决策方式的知识的模型之一。
 
 在我们讨论[第 1.1 节](https://plato.stanford.edu/entries/bounded-rationality/#ExpeUtilTheo)中关于独立公理的替代方案时，([A3](https://plato.stanford.edu/entries/bounded-rationality/#Ax3))，我们提到了几个人类选择行为的观察特征，这些特征与预期效用理论的规定相矛盾。卡内曼和特沃斯基围绕人类决策的四个观察结果发展了前景理论（卡内曼和特沃斯基，1979 年；瓦克尔，2010 年）。
 
@@ -155,7 +153,7 @@ Dawes 的最初观点并非是不当的线性模型在准确性方面优于适�
 
 请注意，对于损失和收益的情感态度以及负责处理损失和收益的神经过程的差异不一定会转化为人们选择行为的差异（Yechiam & Hochman 2014）。损失厌恶在判断和决策中扮演的角色和范围并不像最初假设的那样清晰（[1.2 节](https://plato.stanford.edu/entries/bounded-rationality/#AxioDepaExpeUtilTheo)）。
 
-3. **收益和损失的边际递减**。在固定的参考点下，人们对资产价值变化的敏感度（_x_ 在 [图 1a](https://plato.stanford.edu/entries/bounded-rationality/#fig1) 中）随着离开参考点的距离增加而减少，无论是在损失领域还是在收益领域。即使对期望效用理论进行修改以适应边际效用递减（M. Friedman & Savage 1948），这也与之不一致。
+3. **收益和损失的边际递减**。在固定的参考点下，人们对资产价值变化的敏感度（*x* 在 [图 1a](https://plato.stanford.edu/entries/bounded-rationality/#fig1) 中）随着离开参考点的距离增加而减少，无论是在损失领域还是在收益领域。即使对期望效用理论进行修改以适应边际效用递减（M. Friedman & Savage 1948），这也与之不一致。
 
 在前景理论中，估值函数 v(⋅) 对于收益而言是凹的，对于损失而言是凸的，代表着对收益和损失的敏感度递减。期望效用理论可以被修改以适应敏感度效应，但效用函数通常要么是严格凹的，要么是严格凸的，而不是两者兼具。
 
@@ -185,12 +183,12 @@ Dawes 的最初观点并非是不当的线性模型在准确性方面优于适�
 
 > 我们必须准备接受这样一种可能性，即我们所谓的“环境”部分可能存在于生物体的皮肤内。也就是说，在优化问题中必须视为已知的某些约束可能是生物体（在生物学上定义）本身的生理和心理限制。例如，生物体可以移动的最大速度建立了其可用行为选择集的边界。同样，计算能力的限制可能是在特定情况下定义理性选择的重要约束因素。（西蒙 1955a: 101）
 
-那么，什么被分类为行为约束而不是环境赋能在不同学科和运用的理论工具之间有所不同。例如，有限理性的一种计算方法，_计算理性理论_（Lewis 等人，2014），将生物执行最佳程序的成本分类为行为约束，将记忆限制分类为环境约束，并将搜索最佳程序的成本视为外生因素。另一方面，Anderson 和 Schooler 在 ACT-R 框架内对人类记忆进行的研究和计算建模（Anderson＆Schooler，1991）将记忆限制和搜索成本视为对环境结构的适应性响应。另一类广泛的计算方法可在_统计信号处理_中找到，例如自适应滤波器（Haykin，2013），这在工程和视觉中很常见（Marr，1982；Ballard＆Brown，1982）。信号处理方法通常假定设备和世界之间有明显区别，然而，仍有人挑战了行为约束和环境结构之间的区别，主张没有明确的方法将生物体与其栖息环境分开（Gibson，1979），或者主张认知特征看似与身体相关的可能并非一定如此（Clark＆Chalmers，1998）。
+那么，什么被分类为行为约束而不是环境赋能在不同学科和运用的理论工具之间有所不同。例如，有限理性的一种计算方法，*计算理性理论*（Lewis 等人，2014），将生物执行最佳程序的成本分类为行为约束，将记忆限制分类为环境约束，并将搜索最佳程序的成本视为外生因素。另一方面，Anderson 和 Schooler 在 ACT-R 框架内对人类记忆进行的研究和计算建模（Anderson＆Schooler，1991）将记忆限制和搜索成本视为对环境结构的适应性响应。另一类广泛的计算方法可在_统计信号处理_中找到，例如自适应滤波器（Haykin，2013），这在工程和视觉中很常见（Marr，1982；Ballard＆Brown，1982）。信号处理方法通常假定设备和世界之间有明显区别，然而，仍有人挑战了行为约束和环境结构之间的区别，主张没有明确的方法将生物体与其栖息环境分开（Gibson，1979），或者主张认知特征看似与身体相关的可能并非一定如此（Clark＆Chalmers，1998）。
 
 牢记对行为和环境之间区别的不同划分方式，以及从这种区别中得出的具体挑战，生态理性的各种方法都支持这样一个命题：生物体如何管理其环境的结构特征对于理解决策发生的方式以及有效行为产生至关重要。在这样做的过程中，有限理性理论传统上至少关注以下一些特征，根据这种粗略分类：
 
 * **行为约束** — 可能指计算的限制，例如_搜索最佳算法的成本_、适用的规则或选择的满意选项；执行最佳算法、适当规则或满意选择的成本；以及存储算法的数据结构、规则的组成要素或决策问题的对象的成本。
-* **生态结构**—可能指的是生物适应的任务环境的_统计_、_拓扑_或其他_可感知的不变性_；或者是负责有效行为的计算过程或认知机制的_建筑特征_或_生物特征_。
+* **生态结构**—可能指的是生物适应的任务环境的_统计_、*拓扑_或其他_可感知的不变性*；或者是负责有效行为的计算过程或认知机制的_建筑特征_或_生物特征_。
 
 ### 3.2 布伦斯维克的透镜模型
 
@@ -200,7 +198,7 @@ Brunswik 的_镜头模型_是围绕他关于行为和环境条件如何影响有
 
 Kenneth Hammond 和同事（K. Hammond, Hursch, & Todd 1964）将 Brunswik 的镜头模型制定为线性双变量相关性系统，如[图 2](https://plato.stanford.edu/entries/bounded-rationality/#figlens)所示（Hogarth & Karelaia 2007）。非正式地，[图 2](https://plato.stanford.edu/entries/bounded-rationality/#figlens)表明了一个主体对于一个数值目标标准 Ye 的判断（响应）Ys 的准确性，给定一些信息性线索（特征）X1,…,Xn，取决于主体的响应和目标之间的相关性。更具体地说，线性镜头模型想象了两个大型线性系统，一个是环境 e，另一个是主体 s，它们都共享一组线索 X1,…,Xn。请注意，线索可能彼此相关联，即可能ρ(Xi,Xj)≠0，对于从 1 到 n 的索引 i≠j。
 
-主体对于目标标准值 Ye 的判断 Ys 的准确性由一个_成就指数_ra 来衡量，该指数由 Pearson 相关系数ρ(Ye,Ys)计算得出。主体对于线索的预测响应 Y^s 由主体分配给每个线索 Xi 的权重βsi 决定，主体响应的线性 Rs 测量系统中的噪音ϵs。因此，主体的响应被构想为主体加权线性总和加上噪音。环境中的^​^_响应线性_^​^的类比是^​^_环境可预测性_^​^Re。在这个模型中，环境被认为是概率性的，或者一些人说是“偶然的”。最后，环境加权线索总和 Y^e 与主体加权线索总和 Y^s 通过一个_匹配指数_G 进行比较。
+主体对于目标标准值 Ye 的判断 Ys 的准确性由一个_成就指数_ra 来衡量，该指数由 Pearson 相关系数ρ(Ye,Ys)计算得出。主体对于线索的预测响应 Y^s 由主体分配给每个线索 Xi 的权重βsi 决定，主体响应的线性 Rs 测量系统中的噪音ϵs。因此，主体的响应被构想为主体加权线性总和加上噪音。环境中的^​^*响应线性*^​^的类比是^​^*环境可预测性*^​^Re。在这个模型中，环境被认为是概率性的，或者一些人说是“偶然的”。最后，环境加权线索总和 Y^e 与主体加权线索总和 Y^s 通过一个_匹配指数_G 进行比较。
 
 ![下一个链接中完整描述的复杂图表](https://plato.stanford.edu/entries/bounded-rationality/LensModel.png)
 
@@ -248,29 +246,29 @@ Kenneth Hammond 和同事（K. Hammond, Hursch, & Todd 1964）将 Brunswik 的�
 
 MSE(h):=E\[(Y−h)2].
 
-现在想象一下，我们对 _Y_ 的预测是基于一些关于 _X_ 和 _Y_ 之间关系的数据 _D_，比如去年罗马的日均温度和日销量总额。这个特定数据集 _D_ 扮演的角色，与其他可能的数据集不同，这是一个细节，稍后会涉及。现在，将我们对 _Y_ 的预测视为 _X_ 的某个函数，写作 h(X)。在这里，我们希望再次选择一个 h(⋅) 来使 E\[(Y−h(X))2] 最小化，但 h(⋅) 与 _Y_ 的接近程度将取决于 _X_ 的可能值，我们可以通过条件期望来表示
+现在想象一下，我们对 *Y* 的预测是基于一些关于 *X* 和 *Y* 之间关系的数据 *D*，比如去年罗马的日均温度和日销量总额。这个特定数据集 *D* 扮演的角色，与其他可能的数据集不同，这是一个细节，稍后会涉及。现在，将我们对 *Y* 的预测视为 *X* 的某个函数，写作 h(X)。在这里，我们希望再次选择一个 h(⋅) 来使 E\[(Y−h(X))2] 最小化，但 h(⋅) 与 *Y* 的接近程度将取决于 *X* 的可能值，我们可以通过条件期望来表示
 
 E\[(Y−h(X))2]:=E\[E\[Y−h(X)∣X]].
 
-如何评估这个条件预测呢？与以往一样，只是现在考虑 _X_。对于 _X_ 的每个可能值 _x_，_Y_ 的最佳预测是条件均值，E\[Y∣X=x]。_Y_ 对 _X_ 的_回归函数_，r(x)，给出了每个值 x∈X 的 _Y_ 的最优值：
+如何评估这个条件预测呢？与以往一样，只是现在考虑 *X*。对于 *X* 的每个可能值 *x*，*Y* 的最佳预测是条件均值，E\[Y∣X=x]。*Y* 对 *X* 的_回归函数_，r(x)，给出了每个值 x∈X 的 *Y* 的最优值：
 
 r(x):=E\[Y∣X=x].
 
-尽管回归函数代表了给定 _X_ 的 _Y_ 的真实总体值，但这个函数通常是未知的，通常很复杂，因此经常通过简化模型或学习算法 h(⋅) 进行近似。
+尽管回归函数代表了给定 *X* 的 *Y* 的真实总体值，但这个函数通常是未知的，通常很复杂，因此经常通过简化模型或学习算法 h(⋅) 进行近似。
 
-我们可能将对 h(X) 的候选者限制为 _X_ 的线性（或仿射）函数，例如。然而，使用简化的线性模型或其他简化模型对 _Y_ 的值进行预测可能会引入一种称为 偏差 的系统预测误差。偏差是由真实模型生成的数据的中心倾向 r(X) （对于所有 x∈X）与我们的估计量 E\[h(X)] 的中心倾向之间的差异导致的，写成
+我们可能将对 h(X) 的候选者限制为 *X* 的线性（或仿射）函数，例如。然而，使用简化的线性模型或其他简化模型对 *Y* 的值进行预测可能会引入一种称为 偏差 的系统预测误差。偏差是由真实模型生成的数据的中心倾向 r(X) （对于所有 x∈X）与我们的估计量 E\[h(X)] 的中心倾向之间的差异导致的，写成
 
 偏差(h(X)):=r(X)−E\[h(X)],
 
 其中对这对之间的任何非零差异的解释都被解释为估计量 h(X) 的系统正误差或系统负误差。
 
-_方差_ 衡量随机变量与其期望值的平均偏差。在当前设置中，我们将预测值 _h(X)_ 关于 _X_ 和 _Y_ 之间关系的一些数据 _D_ 进行比较，并将 _h(X)_ 的平均值 _E\[h(X)]_ 与之写为
+*方差* 衡量随机变量与其期望值的平均偏差。在当前设置中，我们将预测值 *h(X)* 关于 *X* 和 *Y* 之间关系的一些数据 *D* 进行比较，并将 *h(X)* 的平均值 *E\[h(X)]* 与之写为
 
 Var(h(X))=E\[(E\[h(X)]−h(X))2].
 
-均方误差的偏差-方差分解根植于频率统计学，其目标是计算关于 _X_ 和 _Y_ 之间关系的一些数据 _D_ 关于真实参数 _r(X)_ 的估计 _h(X)_ 。这里假定表征关于 _Y_ 的真相的参数 _r(X)_ 是固定的，而数据 _D_ 被视为随机量，这正是贝叶斯统计的反面。这意味着数据集 _D_ 被解释为由真实模型、确定性过程 _r(X)_ 生成的相同维度的许多可能数据集之一。
+均方误差的偏差-方差分解根植于频率统计学，其目标是计算关于 *X* 和 *Y* 之间关系的一些数据 *D* 关于真实参数 *r(X)* 的估计 *h(X)* 。这里假定表征关于 *Y* 的真相的参数 *r(X)* 是固定的，而数据 *D* 被视为随机量，这正是贝叶斯统计的反面。这意味着数据集 *D* 被解释为由真实模型、确定性过程 *r(X)* 生成的相同维度的许多可能数据集之一。
 
-根据 Christopher M. Bishop（2006）的观点，我们可以推导出对_h_的均方误差的偏差-方差分解如下。 让_h_指代我们对_Y_的估计_h(X)_ ，_r_指代_Y_的真实值，_E\[h]_ 指代估计_h_的期望值。那么，
+根据 Christopher M. Bishop（2006）的观点，我们可以推导出对_h_的均方误差的偏差-方差分解如下。 让_h_指代我们对_Y_的估计_h(X)_ ，_r_指代_Y_的真实值，*E\[h]* 指代估计_h_的期望值。那么，
 
 MSE(h)=E\[(r−h)2]=E\[((r−E\[h])+(E\[h]−h))2]=E\[(r−E\[h])2]+E((E\[h]−h)2)+2E\[(E\[h]−h)⋅(r−E\[h])]=(r−E\[h])2+E\[(E\[h]−h)2]+0=B(h)2 + Var(h)
 
@@ -310,7 +308,7 @@ L(h) = B(h)² + β₁Var(h) + β₂N
 
 卡尼曼和特沃斯基最早的发现之一是，人们倾向于从样本中进行统计推断，即使有机会控制抽样过程。卡尼曼和特沃斯基将这种效应归因于人们系统性地未能意识到与小样本相关的偏见，尽管赫特维格（Hertwig）等人提供了证据表明，从单一人口中抽取的样本接近于工作记忆的已知极限（Hertwig, Barron 等人 2004）。
 
-过度自信可以被理解为小样本的产物。_天真抽样模型_（Juslin, Winman, & Hansson 2007）假设，代理人在需要做出判断时，基于从长期记忆中检索的小样本进行判断，即使代理人有多种其他方法可供选择。该模型假定人们是天真的统计学家（Fiedler & Juslin 2006），有时错误地假设样本代表了感兴趣的目标人口，并且样本属性可以直接用来产生对人口的准确估计。这个想法是，当样本属性被毫无保留地视为人口参数的估计量时，即使样本是无偏的、准确表示的，并且被代理人的认知机制正确处理，也可以通过过度自信做出相当准确的概率判断。当样本量受限时，这些效应会被放大。
+过度自信可以被理解为小样本的产物。*天真抽样模型*（Juslin, Winman, & Hansson 2007）假设，代理人在需要做出判断时，基于从长期记忆中检索的小样本进行判断，即使代理人有多种其他方法可供选择。该模型假定人们是天真的统计学家（Fiedler & Juslin 2006），有时错误地假设样本代表了感兴趣的目标人口，并且样本属性可以直接用来产生对人口的准确估计。这个想法是，当样本属性被毫无保留地视为人口参数的估计量时，即使样本是无偏的、准确表示的，并且被代理人的认知机制正确处理，也可以通过过度自信做出相当准确的概率判断。当样本量受限时，这些效应会被放大。
 
 然而，有时有效的行为受到不准确的判断或认知适应性幻觉的帮助（豪伊，2011）。小样本的统计特性就是一个例子。小样本的一个特点是相关性被放大，使其更容易被检测到（卡里夫，1995）。关于小样本的这一事实，结合人类短期记忆的已知限制，表明我们的工作记忆限制可能是我们在生活的不同阶段利用的一种适应性响应。成年人的短期工作记忆限制为七个项目，加减两个。对于 0.5 及以上的相关性，卡里夫证明，样本量在五到九之间最有可能产生一个大于人口真实相关性的样本相关性（卡里夫，2000），使得这些相关性更容易被检测到。此外，儿童的短期记忆甚至比成年人更受限制，因此使得环境中的相关性更容易被检测到。当然，没有免费的午餐：这种小样本效应是以夸大真实相关系数的估计和承认更高的假阳性率为代价的（尤斯林和奥尔松，2005）。然而，在许多情境中，包括儿童发展，由于欠采样而产生的错误成本可能会被简化选择（赫特维格和普莱斯卡克，2008）和加速学习的好处所补偿。在布伦斯维克为代表性实验设计辩护的精神中（[3.2 节](https://plato.stanford.edu/entries/bounded-rationality/#BrunLensMode)），越来越多的文献警告说，关于自适应决策的大部分实验是在与人类做决策的自然世界在重要方面不同的高度简化的环境中进行的（福斯特等，2014）。作为回应，休斯顿、麦克纳马拉和同事们主张，我们应该在我们的模型中加入更多的环境复杂性。
 
@@ -324,7 +322,7 @@ L(h) = B(h)² + β₁Var(h) + β₂N
 
 在对时间效应（有限迭代与无限迭代）和记忆/认知能力（有限状态自动机与图灵机）的影响进行研究之后，人们很快将注意力转向了环境约束。Nowak 和 May 研究了在二维网格上的“合作者”和“背叛者”的空间分布，在重复囚徒困境中发现，即使没有记忆或战略远见，玩家之间也会出现合作（Nowak＆May 1992）。这项工作导致了对_网络拓扑_作为社会行为因素的研究（Jackson 2010），包括社会规范（Bicchieri 2005；J. Alexander 2007），信号传递（Skyrms 2003）和群体智慧效应（Golub＆Jackson 2010）。当网络中的社会联系遵循无标度分布时，公共产品游戏的数量和规模的多样性被发现促进了合作，这有助于解释在没有声誉和惩罚机制的社区中合作的出现（F. Santos，M. Santos，＆Pacheco 2008）。
 
-但是，也许有限理性最简单的案例是代理人在没有任何思考的情况下实现了一个理想目标。昆虫、花朵，甚至细菌都展示了进化稳定策略（Maynard Smith 1982），有效地在战略正常形式博弈中达到了纳什均衡。如果我们想象两个物种相互作用，比如蜜蜂（_Apis mellifera_）和一种花朵，每只蜜蜂和花朵之间的互动都对每个物种的适应度有一定影响，其中适应度被定义为预期的后代数量。每次互动后，蜜蜂和花朵可能会获得一定的回报，可能是负面的，并且回报是由每只蜜蜂和花朵的基因赋予决定的。关键在于这些生物体或模型中都没有展示出选择；过程本身选择了特征。代理人没有远见。玩家们自己选择的策略也没有。这个过程完全是机械的。在这种情况下出现的是_进化动态_，一种没有远见的有限理性形式。
+但是，也许有限理性最简单的案例是代理人在没有任何思考的情况下实现了一个理想目标。昆虫、花朵，甚至细菌都展示了进化稳定策略（Maynard Smith 1982），有效地在战略正常形式博弈中达到了纳什均衡。如果我们想象两个物种相互作用，比如蜜蜂（*Apis mellifera*）和一种花朵，每只蜜蜂和花朵之间的互动都对每个物种的适应度有一定影响，其中适应度被定义为预期的后代数量。每次互动后，蜜蜂和花朵可能会获得一定的回报，可能是负面的，并且回报是由每只蜜蜂和花朵的基因赋予决定的。关键在于这些生物体或模型中都没有展示出选择；过程本身选择了特征。代理人没有远见。玩家们自己选择的策略也没有。这个过程完全是机械的。在这种情况下出现的是_进化动态_，一种没有远见的有限理性形式。
 
 当然，任何不当的模型都可能失灵。全世界人们共享的一个经验法则是不让别人占便宜。虽然这个规则大多数时候都有效，但在_最后通牒博弈_（Güth, Schmittberger, & Schwarze 1982）中却失灵了。最后通牒博弈是一个两人博弈，其中一名玩家拥有一笔钱，被要求与另一名玩家分享这笔钱，后者可以选择接受这个提议——在这种情况下，奖金将被平分给两名玩家——或拒绝，这样两名玩家都将得不到任何奖金。当人们收到低于总额 30%的提议时，通常会拒绝这个提议，即使玩家是匿名的，因此不会遭受接受非常低提议所带来的负面声誉信号的后果。在这种情况下，人们可以合理地认为任何提议的分配都比零的现状更糟糕，所以人们应该接受任何他们所得到的。
 
@@ -374,7 +372,7 @@ Gerd Gigerenzer 是最杰出和直言不讳的批评者之一，他批评优化�
 
 ### 7.1 偏见和启发式
 
-自 1970 年代开始，卡内曼和特沃斯基进行了一系列实验，展示了人类参与者对决策任务的反应方式与据称源自适当规范标准的答案有所偏离（[2.4](https://plato.stanford.edu/entries/bounded-rationality/#CumuProsTheo)节和[5.1](https://plato.stanford.edu/entries/bounded-rationality/#HomoStatSmalSamp)节）。这些偏差被命名为_可得性_（特沃斯基和卡内曼 1973 年）、_代表性_和_锚定_（特沃斯基和卡内曼 1974 年）。认知偏见的集合现在已经达到数百种，尽管其中一些是其他众所周知效应的次要变体，比如“宜家效应”（诺顿、莫肯和阿里利 2012 年）是众所周知的归属效应的一个版本（[1.2](https://plato.stanford.edu/entries/bounded-rationality/#AxioDepaExpeUtilTheo)节）。然而，认知偏见和启发式程序研究的核心效应，特别是那些支撑前景理论的效应（[2.4](https://plato.stanford.edu/entries/bounded-rationality/#CumuProsTheo)节），根深蒂固于认知心理学（卡内曼、斯洛维克和特沃斯基 1982 年）。
+自 1970 年代开始，卡内曼和特沃斯基进行了一系列实验，展示了人类参与者对决策任务的反应方式与据称源自适当规范标准的答案有所偏离（[2.4](https://plato.stanford.edu/entries/bounded-rationality/#CumuProsTheo)节和[5.1](https://plato.stanford.edu/entries/bounded-rationality/#HomoStatSmalSamp)节）。这些偏差被命名为_可得性_（特沃斯基和卡内曼 1973 年）、*代表性_和_锚定*（特沃斯基和卡内曼 1974 年）。认知偏见的集合现在已经达到数百种，尽管其中一些是其他众所周知效应的次要变体，比如“宜家效应”（诺顿、莫肯和阿里利 2012 年）是众所周知的归属效应的一个版本（[1.2](https://plato.stanford.edu/entries/bounded-rationality/#AxioDepaExpeUtilTheo)节）。然而，认知偏见和启发式程序研究的核心效应，特别是那些支撑前景理论的效应（[2.4](https://plato.stanford.edu/entries/bounded-rationality/#CumuProsTheo)节），根深蒂固于认知心理学（卡内曼、斯洛维克和特沃斯基 1982 年）。
 
 概率判断任务的一个例子是卡内曼和特沃斯基的出租车问题，据称显示受试者忽视了基本概率。
 
@@ -415,29 +413,29 @@ Tversky 和 Kahneman 报告称，大多数受访者（72%）选择了选项(a)�
 
 快速和简便启发式学派与偏见和启发式学派都同意启发式是有偏见的。它们的分歧之处，也是尖锐之处，在于这些偏见是否必然是非理性的表现。对于快速和简便程序来说，问题在于在什么环境条件下，如果有的话，特定的启发式才能有效地发挥作用。如果启发式的结构性偏见适合任务环境，那么该启发式的偏见可能是进行准确判断的优势，而不是一个劣势（[section 4](https://plato.stanford.edu/entries/bounded-rationality/#BiasVariTradOff)）。我们在讨论布伦斯维克的透镜模型时曾看到这种适应性策略（[section 3.2](https://plato.stanford.edu/entries/bounded-rationality/#BrunLensMode)），尽管在该模型中的偏见是假设环境和受试者的反应都是线性的。快速和简便程序的目标是将这种布伦斯维克策略适应到各种不当模型中。
 
-这个快速和简约计划的总体目标导致了这两所学派之间的第二个差异。因为快速和简约计划旨在明确启发式在何种条件下会比竞争模型产生更好的结果，所以启发式被视为决策制定的算法模型，而不是错误效应的描述；启发式本身是研究对象。为此，快速和简约传统中的所有启发式都被构想为具有三个组成部分：（i）搜索规则，（ii）停止规则和（iii）决策规则。例如，_Take-the-Best_（Gigerenzer＆Goldstein 1996）是一种应用于二元、强制选择问题的启发式。具体而言，任务是根据外部标准选择正确的选项，例如根据决策者可获得的线索信息正确选择一对城市中哪个人口更多，比如她是否听说过其中一个城市而不是另一个城市，其中一个城市是否已知在职业联赛中有橄榄球分部等。基于数据集，可以计算不同线索的预测有效性，从而推导出它们的权重。然后，Take-the-Best 具有以下结构：_搜索规则：_ 查找具有最高线索有效性的线索；_停止规则：_ 如果对象对的线索值不同，即一个是正的，另一个是负的，则停止搜索。如果线索值相同，则继续按线索顺序向下搜索；_决策规则：_ 预测具有正线索值的替代方案具有更高的目标标准值。如果所有线索都无法区分，即如果所有线索值都相同，则通过抛硬币随机预测替代方案。Take-the-Best 的偏见在于它忽略了相关线索。另一个例子是_tallying_，这是一种不当的线性模型（[第 2.3 节](https://plato.stanford.edu/entries/bounded-rationality/#PropImprLineMode)）。对于二元、强制选择任务，tallying 具有以下结构：_搜索规则：_ 以随机顺序查找线索；_停止规则：_ 在评估了可用线索中的某些外生确定的_m_（1\<m≤N）之后，停止搜索；_决策规则：_ 预测具有更多正线索值的替代方案具有更高的目标标准值。tallying 的偏见在于它忽略了线索权重。可以看到，通过线索处理方式和性能评估模型之间的比较，以及根据成功的特定标准进行评估，例如正确回答城市人口任务的数量，来评估它们的表现。
+这个快速和简约计划的总体目标导致了这两所学派之间的第二个差异。因为快速和简约计划旨在明确启发式在何种条件下会比竞争模型产生更好的结果，所以启发式被视为决策制定的算法模型，而不是错误效应的描述；启发式本身是研究对象。为此，快速和简约传统中的所有启发式都被构想为具有三个组成部分：（i）搜索规则，（ii）停止规则和（iii）决策规则。例如，*Take-the-Best*（Gigerenzer＆Goldstein 1996）是一种应用于二元、强制选择问题的启发式。具体而言，任务是根据外部标准选择正确的选项，例如根据决策者可获得的线索信息正确选择一对城市中哪个人口更多，比如她是否听说过其中一个城市而不是另一个城市，其中一个城市是否已知在职业联赛中有橄榄球分部等。基于数据集，可以计算不同线索的预测有效性，从而推导出它们的权重。然后，Take-the-Best 具有以下结构：*搜索规则：* 查找具有最高线索有效性的线索；*停止规则：* 如果对象对的线索值不同，即一个是正的，另一个是负的，则停止搜索。如果线索值相同，则继续按线索顺序向下搜索；*决策规则：* 预测具有正线索值的替代方案具有更高的目标标准值。如果所有线索都无法区分，即如果所有线索值都相同，则通过抛硬币随机预测替代方案。Take-the-Best 的偏见在于它忽略了相关线索。另一个例子是_tallying_，这是一种不当的线性模型（[第 2.3 节](https://plato.stanford.edu/entries/bounded-rationality/#PropImprLineMode)）。对于二元、强制选择任务，tallying 具有以下结构：*搜索规则：* 以随机顺序查找线索；*停止规则：* 在评估了可用线索中的某些外生确定的_m_（1\<m≤N）之后，停止搜索；*决策规则：* 预测具有更多正线索值的替代方案具有更高的目标标准值。tallying 的偏见在于它忽略了线索权重。可以看到，通过线索处理方式和性能评估模型之间的比较，以及根据成功的特定标准进行评估，例如正确回答城市人口任务的数量，来评估它们的表现。
 
 因为快速和简便启发式是计算模型，这导致了这两个学派之间的第三个区别。卡尼曼支持认知的系统 I 和系统 II 理论（Stanovich & West 2000）。此外，卡尼曼将启发式分类为快速、直觉和非深思熟虑的系统 I 思维。相比之下，吉格伦泽不支持系统 I 和系统 II 的假设，因此拒绝将启发式分类为必然的非深思熟虑的认知过程。因为启发式是快速和简便计划中的计算模型，原则上每个启发式都可以被决策者深思熟虑地使用，或者被决策建模者用来解释或预测决策者的非深思熟虑行为。棒球运动员直觉地使用的线性光学轨迹（LOT）启发式（McBeath, Shaffer, & Kaiser 1995），用来接住飞行球，一些动物似乎也用它来截取猎物，这也是“哈德逊奇迹”航空飞行员深思熟虑地使用的启发式，推断他们无法到达机场跑道，决定着陆在哈德逊河中。
 
 以下是快速和简便计划中研究的启发式列表（Gigerenzer, Hertwig, & Pachur 2011），以及每个启发式的非正式描述，以及历史和选定的当代参考文献。
 
-1. **模仿。** _人们有强烈的倾向模仿他们社区中成功的成员_（Henrich & Gil-White 2001）。
+1. **模仿。** *人们有强烈的倾向模仿他们社区中成功的成员*（Henrich & Gil-White 2001）。
 
 > 如果一个部落中的某个人发明了一种新的陷阱、武器或其他攻击或防御手段，最明显的自我利益，即使没有太多的推理能力，也会促使其他成员模仿他。(达尔文 1871, 155)
 
 模仿被认为是文化适应速度的基础，包括社会规范的采纳 ([section 3.4](https://plato.stanford.edu/entries/bounded-rationality/#CultAdap))。
 
-2. **优先连接。** _当选择与某人建立新联系时，请选择与其他人有最多连接的个体_ (尤尔 1925; 巴拉巴西和阿尔伯特 1999; 西蒙 1955b)。
-3. **默认规则。** _如果有适用的默认规则，并且没有明显的理由让你做出不同选择，那就遵循这个规则。_ （Fisher 1936; Reiter 1980; Thaler & Sustein 2008; Wheeler 2004）。
-4. **满足规则。** _搜索可用选项，并选择首个超过你的愿望水平的选项。_ （Simon 1955a; Hutchinson et al. 2012）。
-5. **计数。** _为了估计一个目标标准，而不是估计可用线索的权重，而是计算正例的数量。_ （Dawes 1979; Dana & Dawes 2004）。
-6. **一弹跳规则（Hey’s Rule B）** 。_至少搜索两个选项。如果报价高于先前的报价，请停止。_ 一弹跳规则通过持续搜索来进行“连胜”，当您不断收到越来越低的报价时继续搜索，但一旦运气用完就会停止（Hey 1982；Charness & Kuhn 2011）。
-7. **以牙还牙**。_开始合作，然后以同样的方式回应对手；如果对手合作，则合作；如果对手背叛，则背叛_（Axelrod 1984；Rapaport, Seale, & Colman 2015）。
-8. **线性光学轨迹（LOT）** 。_为了与另一个移动物体相交，调整您的速度，使您的注视角保持恒定。_ （McBeath 等，1995；Gigerenzer 2007）。
-9. **采用最佳策略。** _为了决定两个选择在特定标准上哪个价值更高，（i）首先按照它们的预测有效性顺序搜索线索；（ii）接下来，当找到一个能区分两个选择的线索时停止搜索；（iii）然后，选择被区分线索选中的选择。（iv）如果所有线索都无法区分两个选择，则通过随机选择一个选择_（Einhorn 1970；Gigerenzer＆Goldstein 1996）。
-10. **识别：** _为了决定两个选择在特定标准上哪个价值更高，且其中一个选择被识别，选择被识别的选择_（Goldstein＆Gigerenzer 2002；Davis-Stober，Dana 和 Budescu 2010；Pachur，Todd 等人 2012）。
-11. **流畅性：** _为了决定两个选择在特定标准上哪个价值更高，如果两个选择都被识别但一个被更快地识别，选择更快被识别的选择_（Schooler＆Hertwig 2005；Herzog＆Hertwig 2013）。
-12. **1N 规则:** _对于_ **N** _个可行选项，均匀投入资源到所有_ **N** _个选项_ (Hertwig, Davis, & Sulloway 2002; DeMiguel, Garlappi, & Uppal 2009)。
+2. **优先连接。** *当选择与某人建立新联系时，请选择与其他人有最多连接的个体* (尤尔 1925; 巴拉巴西和阿尔伯特 1999; 西蒙 1955b)。
+3. **默认规则。** *如果有适用的默认规则，并且没有明显的理由让你做出不同选择，那就遵循这个规则。* （Fisher 1936; Reiter 1980; Thaler & Sustein 2008; Wheeler 2004）。
+4. **满足规则。** *搜索可用选项，并选择首个超过你的愿望水平的选项。* （Simon 1955a; Hutchinson et al. 2012）。
+5. **计数。** *为了估计一个目标标准，而不是估计可用线索的权重，而是计算正例的数量。* （Dawes 1979; Dana & Dawes 2004）。
+6. **一弹跳规则（Hey’s Rule B）** 。*至少搜索两个选项。如果报价高于先前的报价，请停止。* 一弹跳规则通过持续搜索来进行“连胜”，当您不断收到越来越低的报价时继续搜索，但一旦运气用完就会停止（Hey 1982；Charness & Kuhn 2011）。
+7. **以牙还牙**。*开始合作，然后以同样的方式回应对手；如果对手合作，则合作；如果对手背叛，则背叛*（Axelrod 1984；Rapaport, Seale, & Colman 2015）。
+8. **线性光学轨迹（LOT）** 。*为了与另一个移动物体相交，调整您的速度，使您的注视角保持恒定。* （McBeath 等，1995；Gigerenzer 2007）。
+9. **采用最佳策略。** *为了决定两个选择在特定标准上哪个价值更高，（i）首先按照它们的预测有效性顺序搜索线索；（ii）接下来，当找到一个能区分两个选择的线索时停止搜索；（iii）然后，选择被区分线索选中的选择。（iv）如果所有线索都无法区分两个选择，则通过随机选择一个选择*（Einhorn 1970；Gigerenzer＆Goldstein 1996）。
+10. **识别：** *为了决定两个选择在特定标准上哪个价值更高，且其中一个选择被识别，选择被识别的选择*（Goldstein＆Gigerenzer 2002；Davis-Stober，Dana 和 Budescu 2010；Pachur，Todd 等人 2012）。
+11. **流畅性：** *为了决定两个选择在特定标准上哪个价值更高，如果两个选择都被识别但一个被更快地识别，选择更快被识别的选择*（Schooler＆Hertwig 2005；Herzog＆Hertwig 2013）。
+12. **1N 规则:** *对于* **N** *个可行选项，均匀投入资源到所有* **N** *个选项* (Hertwig, Davis, & Sulloway 2002; DeMiguel, Garlappi, & Uppal 2009)。
 
 对于快速和简约程序有三种回应方式。择优法是一个_非补偿性_决策规则的例子，这意味着第一个区分性线索不能被后续的线索“补偿”。当这种情况发生时，认为应该根据第一个区分性线索做出决策，忽略其余线索信息。择优法的计算效率被认为来自于只评估少数线索，平均不超过 3 个，在基准测试中（Czerlinski 等人，1999 年）。然而，决策者需要了解并在开始搜索前对所有线索的有效性进行排序。因此，择优法的设计将一部分执行启发式所需的计算成本视为外生。尽管通过比较对线索进行排序的下限是 O(nlogn)，但几乎没有证据表明人类按照这类最有效的排序算法对线索进行排序。相反，这些操作恰恰是定性概率判断所需的操作（[1.2 节](https://plato.stanford.edu/entries/bounded-rationality/#AxioDepaExpeUtilTheo)）。此外，除了排列线索有效性的成本外，还有获取成本以及确定代理的估计是非补偿性的成本。尽管对所需认知努力的确切核算是未知的，并且据称低于批评者所认为的（Katsikopoulos 等人，2010 年），然而这些必要步骤威胁着使择优法在执行中成为非补偿性，但在建立模型执行前所需的内容上并非如此。
 
@@ -455,7 +453,7 @@ Tversky 和 Kahneman 报告称，大多数受访者（72%）选择了选项(a)�
 
 启发式的两个学派（[第 7 节](https://plato.stanford.edu/entries/bounded-rationality/#TwoSchoHeur)）对人类的理性达成截然不同的结论。然而，与面包师不同，他们的分歧涉及“理性”的含义以及我们应该如何评价人类的判断和决策。 “理性之争”并非是“修辞华丽”掩盖广泛共识的结果（Samuels, Stich, & Bishop 2002），而是由于使用“理性”这类术语的模糊性而产生的实质性分歧（[第 7.2 节](https://plato.stanford.edu/entries/bounded-rationality/#FastFrugHeur)）。
 
-在本节中，我们首先区分了七种不同的理性概念，突出了目标、范围、评估标准的差异，以及评估对象的差异。然后，我们转而考虑有限理性中使用的两种重要不同的规范标准，接着以一个例子，_感知-认知差距_，说明在偏见和启发式文献中对经典实验设计进行轻微变化如何改变结果以及用于评估这些结果的规范标准。
+在本节中，我们首先区分了七种不同的理性概念，突出了目标、范围、评估标准的差异，以及评估对象的差异。然后，我们转而考虑有限理性中使用的两种重要不同的规范标准，接着以一个例子，*感知-认知差距*，说明在偏见和启发式文献中对经典实验设计进行轻微变化如何改变结果以及用于评估这些结果的规范标准。
 
 ### 8.1 有限理性
 
@@ -463,7 +461,7 @@ Tversky 和 Kahneman 报告称，大多数受访者（72%）选择了选项(a)�
 
 一个意义，对决策理论至关重要的，是_连贯性_，这仅仅是要求你的承诺不会自相矛盾。主观贝叶斯对选项的理性偏好的表示，作为主观期望效用中的不等式，通过将优势原则应用于（适当结构化的）偏好来提供连贯性。优势推理的一个密切相关的应用是根据适当的损失函数最小化预期损失（或在经济学中最大化预期收益），甚至可能是不对称的（Elliott，Komunjer 和 Timmermann 2005），或者应用于受到严格限制的代理人，如有限自动机（Rubinstein 1986）。连贯性和优势推理也是期望效用理论的基础([section 1.1](https://plato.stanford.edu/entries/bounded-rationality/#ExpeUtilTheo))。
 
-第二个意义上的理性是指我们采取的一种解释立场或倾向，以理解另一个人的信仰、欲望和行为（Dennett 1971 年），或者理解他们用共同语言可能说的任何事情（Davidson 1974 年）。从这个观点来看，理性是指我们授予另一个人的一系列假设，以便理解他们的行为，包括言论。当我们为另一个人的行为提供理由时，我们就采取了这种立场。如果我说“_司机笑了是因为她讲了一个笑话_”，如果你不给予我，甚至是这个想象中的司机和女人，很多假设，你就无法理解我。因此，与少数几个凡人能够达到的高尚的一致性规范相比，与解释立场相关的理性标准几乎被每个人满足。
+第二个意义上的理性是指我们采取的一种解释立场或倾向，以理解另一个人的信仰、欲望和行为（Dennett 1971 年），或者理解他们用共同语言可能说的任何事情（Davidson 1974 年）。从这个观点来看，理性是指我们授予另一个人的一系列假设，以便理解他们的行为，包括言论。当我们为另一个人的行为提供理由时，我们就采取了这种立场。如果我说“*司机笑了是因为她讲了一个笑话*”，如果你不给予我，甚至是这个想象中的司机和女人，很多假设，你就无法理解我。因此，与少数几个凡人能够达到的高尚的一致性规范相比，与解释立场相关的理性标准几乎被每个人满足。
 
 第三个意义上的理性，由休谟（1738 年）提出，适用于评估你的信念，评估它们与你的经验有多好匹配。如果在你的经验中，一件事物的存在总是紧随着另一种经验，那么相信后者随前者而来是理性的。我们甚至可以说，根据你对前者的经验，期待后者是理性的。这种理性观是对一个人承诺的评估，类似于一致性标准；但与一致性不同，休谟对理性的概念试图将信念的理性地位直接与来自世界的证据联系起来。当代大部分认识论都支持这种理性概念，同时试图明确指定我们何时可以正确地将知识归因于某人。
 
@@ -493,7 +491,7 @@ Tversky 和 Kahneman 报告称，大多数受访者（72%）选择了选项(a)�
 
 命题逻辑和概率是非常不同的形式主义（Haenni, Romeijn, Wheeler, & Williamson 2011）。首先，逻辑的真值功能语义是组合的，而概率则不是组合的，除非事件在概率上是独立的。那么，为什么逻辑中的消去规则和概率中的引入规则是标准，而不是概率中的消去规则（即边缘化）和逻辑中的引入规则（即附加）？回答这个问题需要对“基于”、“根植于”或其他隐喻关系的积极解释。但是，在对推理原则的呼吁中，通常没有类似于预期效用理论的表示定理（[section 1.1](https://plato.stanford.edu/entries/bounded-rationality/#ExpeUtilTheo)）指定定性判断与它们的逻辑或数值表示之间关系的模拟，也没有说明这种关系成立的条件。
 
-第二种规范标准评估判断或决策过程的准确性，重点是得到正确答案。考虑分类判断的准确性，比如预测信用卡交易是否欺诈（Y=1）或合法（Y=0）。_分类准确性_是所有预测中正确预测的数量，通常表示为比率。但是分类准确性可能会导致误导性评估。例如，一种总是报告交易为合法的方法，Y=0，实际上会因为欺诈信用卡交易的比率非常低（<3%）而得到非常高的准确性分数（>97%）。问题在于分类准确性对涉及少数正实例（即 Y=1 的情况）的不平衡类别问题是一个不良指标。更一般地，一个没有预测能力的模型可能具有高准确性，而一个准确性相对较低的模型可能具有更强的预测能力。这一观察被称为_准确性悖论_。
+第二种规范标准评估判断或决策过程的准确性，重点是得到正确答案。考虑分类判断的准确性，比如预测信用卡交易是否欺诈（Y=1）或合法（Y=0）。*分类准确性_是所有预测中正确预测的数量，通常表示为比率。但是分类准确性可能会导致误导性评估。例如，一种总是报告交易为合法的方法，Y=0，实际上会因为欺诈信用卡交易的比率非常低（<3%）而得到非常高的准确性分数（>97%）。问题在于分类准确性对涉及少数正实例（即 Y=1 的情况）的不平衡类别问题是一个不良指标。更一般地，一个没有预测能力的模型可能具有高准确性，而一个准确性相对较低的模型可能具有更强的预测能力。这一观察被称为_准确性悖论*。
 
 准确性悖论是引入其他预测性能度量的动机之一。对于我们的欺诈检测问题，你的预测可以有两种正确和两种错误的方式。通过预测 Y=1 时实际上交易是欺诈的（真正例）或者预测 Y=0 时实际上交易是合法的（真负例）可以得到正确的预测。相应地，通过预测 Y=1 时实际上 Y=0（假正例）或者预测 Y=0 时实际上交易是欺诈的（假负例）可以犯错。这四种可能性在以下的二乘二列联表中呈现，有时被称为_混淆矩阵_：
 
@@ -503,11 +501,11 @@ Tversky 和 Kahneman 报告称，大多数受访者（72%）选择了选项(a)�
 
 \| | Y | 1 | 0 |
 
-\| **预测\<br>类别** | 1 | _真\<br>正例_ | _假\<br>正例_ |
+\| **预测\<br>类别** | 1 | *真\<br>正例* | *假\<br>正例* |
 
-\| 0 | _假\<br>负例_ | _真\<br>负例_ |
+\| 0 | *假\<br>负例* | *真\<br>负例* |
 
-对于涉及_N_个示例的二元分类问题，每个预测将落入这四个类别之一。然后可以评估分类器在这些_N_个示例上的性能。一个完全不准确的分类器将在对角线上全部为零；一个完全准确的分类器将在反对角线上全部为零。分类器的_精确率_是真正例与所有正例预测的比率，即_真正例_ / (_真正例_ + _假正例_)。分类器的_召回率_是真正例与所有真实预测的比率，即_真正例_ / (_真正例_ + _假负例_)。
+对于涉及_N_个示例的二元分类问题，每个预测将落入这四个类别之一。然后可以评估分类器在这些_N_个示例上的性能。一个完全不准确的分类器将在对角线上全部为零；一个完全准确的分类器将在反对角线上全部为零。分类器的_精确率_是真正例与所有正例预测的比率，即_真正例_ / (*真正例* + *假正例*)。分类器的_召回率_是真正例与所有真实预测的比率，即_真正例_ / (*真正例* + *假负例*)。
 
 有两点需要注意。第一点是，在实践中通常存在精度和召回率之间的权衡，而每个问题的成本也会有所不同。适合检测信用卡欺诈的精度和召回率的权衡可能不适用于检测癌症，即使正例的频率相同。在已知数据上训练分类器的目的是对样本外实例进行预测。因此，在训练数据中调整分类器以产生适当的精度和召回率之间的权衡并不能保证您会看到这种权衡推广。
 
@@ -531,252 +529,252 @@ Jarvstad 等人（2013 年）通过设计以下任务探讨了感知-认知差�
 
 ## Bibliography
 
-* Alexander, Jason McKenzie, 2007, _The Structural Evolution of Morality_, New York: Cambridge University Press. doi:10.1017/CBO9780511550997
-* Alexander, Richard D., 1987, _The Biology of Moral Systems_, London: Routledge.
-* Allais, Maurice, 1953, “Le Comportement de L’homme Rationnel Devant Le Risque: Critique Des Postulats et Axiomes de L’école Américaine”, _Econometrica_, 21(4): 503–546. doi:10.2307/1907921
-* Anand, Paul, 1987, “Are the Preference Axioms Really Rational?” _Theory and Decision_, 23(2): 189–214. doi:10.1007/BF00126305
-* Anderson, John R., 1991, “The Adaptive Nature of Human Categorization”, _Psychological Review_, 98(3): 409–429. doi:10.1037/0033-295X.98.3.409
-* Anderson, John R. and Lael J. Schooler, 1991, “Reflections of the Environment in Memory”, _Psychological Science_, 2(6): 396–408. doi:10.1111/j.1467-9280.1991.tb00174.x
-* Arkes, Hal R., Gerd Gigerenzer, and Ralph Hertwig, 2016, “How Bad Is Incoherence?”, _Decision_, 3(1): 20–39. doi:10.1037/dec0000043
-* Arló-Costa, Horacio and Arthur Paul Pedersen, 2011, “Bounded Rationality: Models for Some Fast and Frugal Heuristics”, in A. Gupta, Johan van Benthem, & Eric Pacuit (eds.), _Games, Norms and Reasons: Logic at the Crossroads_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-0714-6\*1
-* Arrow, Kenneth, 2004, “Is Bounded Rationality Unboundedly Rational? Some Ruminations”, in M. Augier & J. G. March (eds.), _Models of a Man: Essays in Memory of Herbert A. Simon_, Cambridge, MA: MIT Press, pp. 47–55.
-* Aumann, Robert J., 1962, “Utility Theory without the Completeness Axiom”, _Econometrica_, 30(3): 445–462. doi:10.2307/1909888
-* –––, 1997, “Rationality and Bounded Rationality”, _Games and Economic Behavior_, 21(1–2): 2–17. doi:10.1006/game.1997.0585
-* Axelrod, Robert, 1984, _The Evolution of Cooperation_, New York: Basic Books.
-* Ballard, Dana H. and Christopher M. Brown, 1982, _Computer Vision_, Englewood Cliffs, NJ: Prentice Hall.
-* Bar-Hillel, Maya and Avishai Margalit, 1988, “How Vicious Are Cycles of Intransitive Choice?” _Theory and Decision_, 24(2): 119–145. doi:10.1007/BF00132458
-* Bar-Hillel, Maya and Willem A Wagenaar, 1991, “The Perception of Randomness”, _Advances in Applied Mathematics_, 12(4): 428–454. doi:10.1016/0196-8858(91)90029-I
-* Barabási, Albert-László and Reka Albert, 1999, “Emergence of Scaling in Random Networks”, _Science_, 286(5439): 509–512. doi:10.1126/science.286.5439.509
-* Barkow, Jerome, Leda Cosmides, and John Tooby (eds.), 1992, _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, New York: Oxford University Press.
-* Baumeister, Roy F., Ellen Bratslavsky, Catrin Finkenauer, and Kathleen D. Vohs, 2001, “Bad Is Stronger than Good.”, _Review of General Psychology_, 5(4): 323–370. doi:10.1037/1089-2680.5.4.323
-* Bazerman, Max H. and Don A. Moore, 2008, _Judgment in Managerial Decision Making_ seventh edition, New York: Wiley.
-* Bell, David E., 1982, “Regret in Decision Making Under Uncertainty”, _Operations Research_, 30(5): 961–981. doi:10.1287/opre.30.5.961
-* Bennett, Jonathan, 1964, _Rationality: An Essay Towards an Analysis_, London: Routledge.
-* Berger, James O., 1980, _Statistical Decision Theory and Bayesian Analysis_, second edition, New York: Springer. doi:10.1007/978-1-4757-4286-2
-* Bernoulli, Daniel, 1738, “Exposition of a New Theory on the Measurement of Risk”, _Econometrica_, 22(1): 23–36. doi:10.2307/1909829
-* Bewley, Truman S., 2002, “Knightian Decision Theory: Part I”, _Decisions in Economics and Finance_, 25(2): 79–110. doi:10.1007/s102030200006
-* Bicchieri, Cristina, 2005, _The Grammar of Society: The Nature and Dynamics of Social Norms_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511616037
-* Bicchieri, Cristina and Ryan Muldoon, 2014, “Social Norms”, in _The Stanford Encyclopedia of Philosophy_, (Spring 2014), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2014/entries/social-norms/](https://plato.stanford.edu/archives/spr2014/entries/social-norms/)
-* Birnbaum, Michael H., 1983, “Base Rates in Bayesian Inference: Signal Detection Analysis of the Cab Problem”, _The American Journal of Psychology_, 96(1): 85–94. doi:10.2307/1422211
-* Bishop, Christopher M., 2006, _Pattern Recognition and Machine Learning_, New York: Springer.
-* Blume, Lawrence, Adam Brandenburger, and Eddie Dekel, 1991, “Lexicographic Probabilities and Choice Under Uncertainty”, _Econometrica_, 58(1): 61–78. doi:10.2307/2938240
-* Bonet, Blai and Héctor Geffner, 2001, “Planning as Heuristic Search”, _Artificial Intelligence_, 129(1–2): 5–33. doi:10.1016/S0004-3702(01)00108-4
-* Bowles, Samuel and Herbert Gintis, 2011, _A Cooperative Species: Human Reciprocity and Its Evolution_, Princeton, NJ: Princeton University Press. doi:10.23943/princeton/9780691151250.001.0001
-* Boyd, Robert and Peter J. Richerson, 2005, _The Origin and Evolution of Cultures_, New York: Oxford University Press.
-* Brown, Scott D. and Andrew Heathcote, 2008, “The Simplest Complete Model of Choice Response Time: Linear Ballistic Accumulation”, _Cognitive Psychology_, 57(3): 153–178. doi:10.1016/j.cogpsych.2007.12.002
-* Brunswik, Egon, 1943, “Organismic Achievement and Environmental Probability”, _Psychological Review_, 50(3): 255–272. doi:10.1037/h0060889
-* –––, 1955, “Representative Design and Probabilistic Theory in a Functional Psychology”, _Psychological Review_, 62(3): 193–217. doi:10.1037/h0047470
-* Charness, Gary and Peter J. Kuhn, 2011, “Lab Labor: What Can Labor Economists Learn from the Lab?” in _Handbook of Labor Economics_, Vol. 4, pp. 229–330, Elsevier. doi:10.1016/S0169-7218(11)00409-6
-* Chater, Nick, 2014, “Cognitive Science as an Interface Between Rational and Mechanistic Explanation”, _Topics in Cognitive Science_, 6(2): 331–337. doi:10.1111/tops.12087
-* Chater, Nick, Mike Oaksford, Ramin Nakisa, and Martin Redington, 2003, “Fast, Frugal, and Rational: How Rational Norms Explain Behavior”, _Organizational Behavior and Human Decision Processes_, 90(1): 63–86. doi:10.1016/S0749-5978(02)00508-3
-* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, _Analysis_, 58(1): 7–19. doi:10.1093/analys/58.1.7
-* Cohen, L. Jonathan, 1981, “Can Human Irrationality Be Experimentally Demonstrated?” _Behavioral and Brain Sciences_, 4(3): 317–331. doi:10.1017/S0140525X00009092
-* Coletii, Giulianella and Romano Scozzafava, 2002, _Probabilistic Logic in a Coherent Setting_, (Trends in Logic, 15), Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0474-9
+* Alexander, Jason McKenzie, 2007, *The Structural Evolution of Morality*, New York: Cambridge University Press. doi:10.1017/CBO9780511550997
+* Alexander, Richard D., 1987, *The Biology of Moral Systems*, London: Routledge.
+* Allais, Maurice, 1953, “Le Comportement de L’homme Rationnel Devant Le Risque: Critique Des Postulats et Axiomes de L’école Américaine”, *Econometrica*, 21(4): 503–546. doi:10.2307/1907921
+* Anand, Paul, 1987, “Are the Preference Axioms Really Rational?” *Theory and Decision*, 23(2): 189–214. doi:10.1007/BF00126305
+* Anderson, John R., 1991, “The Adaptive Nature of Human Categorization”, *Psychological Review*, 98(3): 409–429. doi:10.1037/0033-295X.98.3.409
+* Anderson, John R. and Lael J. Schooler, 1991, “Reflections of the Environment in Memory”, *Psychological Science*, 2(6): 396–408. doi:10.1111/j.1467-9280.1991.tb00174.x
+* Arkes, Hal R., Gerd Gigerenzer, and Ralph Hertwig, 2016, “How Bad Is Incoherence?”, *Decision*, 3(1): 20–39. doi:10.1037/dec0000043
+* Arló-Costa, Horacio and Arthur Paul Pedersen, 2011, “Bounded Rationality: Models for Some Fast and Frugal Heuristics”, in A. Gupta, Johan van Benthem, & Eric Pacuit (eds.), *Games, Norms and Reasons: Logic at the Crossroads*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-0714-6\*1
+* Arrow, Kenneth, 2004, “Is Bounded Rationality Unboundedly Rational? Some Ruminations”, in M. Augier & J. G. March (eds.), *Models of a Man: Essays in Memory of Herbert A. Simon*, Cambridge, MA: MIT Press, pp. 47–55.
+* Aumann, Robert J., 1962, “Utility Theory without the Completeness Axiom”, *Econometrica*, 30(3): 445–462. doi:10.2307/1909888
+* –––, 1997, “Rationality and Bounded Rationality”, *Games and Economic Behavior*, 21(1–2): 2–17. doi:10.1006/game.1997.0585
+* Axelrod, Robert, 1984, *The Evolution of Cooperation*, New York: Basic Books.
+* Ballard, Dana H. and Christopher M. Brown, 1982, *Computer Vision*, Englewood Cliffs, NJ: Prentice Hall.
+* Bar-Hillel, Maya and Avishai Margalit, 1988, “How Vicious Are Cycles of Intransitive Choice?” *Theory and Decision*, 24(2): 119–145. doi:10.1007/BF00132458
+* Bar-Hillel, Maya and Willem A Wagenaar, 1991, “The Perception of Randomness”, *Advances in Applied Mathematics*, 12(4): 428–454. doi:10.1016/0196-8858(91)90029-I
+* Barabási, Albert-László and Reka Albert, 1999, “Emergence of Scaling in Random Networks”, *Science*, 286(5439): 509–512. doi:10.1126/science.286.5439.509
+* Barkow, Jerome, Leda Cosmides, and John Tooby (eds.), 1992, *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, New York: Oxford University Press.
+* Baumeister, Roy F., Ellen Bratslavsky, Catrin Finkenauer, and Kathleen D. Vohs, 2001, “Bad Is Stronger than Good.”, *Review of General Psychology*, 5(4): 323–370. doi:10.1037/1089-2680.5.4.323
+* Bazerman, Max H. and Don A. Moore, 2008, *Judgment in Managerial Decision Making* seventh edition, New York: Wiley.
+* Bell, David E., 1982, “Regret in Decision Making Under Uncertainty”, *Operations Research*, 30(5): 961–981. doi:10.1287/opre.30.5.961
+* Bennett, Jonathan, 1964, *Rationality: An Essay Towards an Analysis*, London: Routledge.
+* Berger, James O., 1980, *Statistical Decision Theory and Bayesian Analysis*, second edition, New York: Springer. doi:10.1007/978-1-4757-4286-2
+* Bernoulli, Daniel, 1738, “Exposition of a New Theory on the Measurement of Risk”, *Econometrica*, 22(1): 23–36. doi:10.2307/1909829
+* Bewley, Truman S., 2002, “Knightian Decision Theory: Part I”, *Decisions in Economics and Finance*, 25(2): 79–110. doi:10.1007/s102030200006
+* Bicchieri, Cristina, 2005, *The Grammar of Society: The Nature and Dynamics of Social Norms*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511616037
+* Bicchieri, Cristina and Ryan Muldoon, 2014, “Social Norms”, in *The Stanford Encyclopedia of Philosophy*, (Spring 2014), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2014/entries/social-norms/](https://plato.stanford.edu/archives/spr2014/entries/social-norms/)
+* Birnbaum, Michael H., 1983, “Base Rates in Bayesian Inference: Signal Detection Analysis of the Cab Problem”, *The American Journal of Psychology*, 96(1): 85–94. doi:10.2307/1422211
+* Bishop, Christopher M., 2006, *Pattern Recognition and Machine Learning*, New York: Springer.
+* Blume, Lawrence, Adam Brandenburger, and Eddie Dekel, 1991, “Lexicographic Probabilities and Choice Under Uncertainty”, *Econometrica*, 58(1): 61–78. doi:10.2307/2938240
+* Bonet, Blai and Héctor Geffner, 2001, “Planning as Heuristic Search”, *Artificial Intelligence*, 129(1–2): 5–33. doi:10.1016/S0004-3702(01)00108-4
+* Bowles, Samuel and Herbert Gintis, 2011, *A Cooperative Species: Human Reciprocity and Its Evolution*, Princeton, NJ: Princeton University Press. doi:10.23943/princeton/9780691151250.001.0001
+* Boyd, Robert and Peter J. Richerson, 2005, *The Origin and Evolution of Cultures*, New York: Oxford University Press.
+* Brown, Scott D. and Andrew Heathcote, 2008, “The Simplest Complete Model of Choice Response Time: Linear Ballistic Accumulation”, *Cognitive Psychology*, 57(3): 153–178. doi:10.1016/j.cogpsych.2007.12.002
+* Brunswik, Egon, 1943, “Organismic Achievement and Environmental Probability”, *Psychological Review*, 50(3): 255–272. doi:10.1037/h0060889
+* –––, 1955, “Representative Design and Probabilistic Theory in a Functional Psychology”, *Psychological Review*, 62(3): 193–217. doi:10.1037/h0047470
+* Charness, Gary and Peter J. Kuhn, 2011, “Lab Labor: What Can Labor Economists Learn from the Lab?” in *Handbook of Labor Economics*, Vol. 4, pp. 229–330, Elsevier. doi:10.1016/S0169-7218(11)00409-6
+* Chater, Nick, 2014, “Cognitive Science as an Interface Between Rational and Mechanistic Explanation”, *Topics in Cognitive Science*, 6(2): 331–337. doi:10.1111/tops.12087
+* Chater, Nick, Mike Oaksford, Ramin Nakisa, and Martin Redington, 2003, “Fast, Frugal, and Rational: How Rational Norms Explain Behavior”, *Organizational Behavior and Human Decision Processes*, 90(1): 63–86. doi:10.1016/S0749-5978(02)00508-3
+* Clark, Andy and David Chalmers, 1998, “The Extended Mind”, *Analysis*, 58(1): 7–19. doi:10.1093/analys/58.1.7
+* Cohen, L. Jonathan, 1981, “Can Human Irrationality Be Experimentally Demonstrated?” *Behavioral and Brain Sciences*, 4(3): 317–331. doi:10.1017/S0140525X00009092
+* Coletii, Giulianella and Romano Scozzafava, 2002, *Probabilistic Logic in a Coherent Setting*, (Trends in Logic, 15), Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0474-9
 * Czerlinski, Jean, Gerd Gigerenzer, and Daniel G. Goldstein, 1999, “How Good Are Simple Heuristics?” in Gigerenzer et al. 1999: 97–118.
-* Damore, James A. and Jeff Gore, 2012, “Understanding Microbial Cooperation”, _Journal of Theoretical Biology_, 299: 31–41. doi:10.1016/j.jtbi.2011.03.008
-* Dana, Jason and Robin M. Dawes, 2004, “The Superiority of Simple Alternatives to Regression for Social Science Predictions”, _Journal of Educational and Behavioral Statistics_, 29(3): 317–331. doi:10.3102/10769986029003317
-* Darwin, Charles, 1871, _The Descent of Man_, New York: D. Appleton and Company.
-* Davidson, Donald, 1974, “Belief and the Basis of Meaning”, _Synthese_, 27(3–4): 309–323. doi:10.1007/BF00484597
-* Davis-Stober, Clintin P., Jason Dana, and David V. Budescu, 2010, “Why Recognition Is Rational: Optimality Results on Single-Variable Decision Rules”, _Judgment and Decision Making_, 5(4): 216–229.
-* Dawes, Robin M., 1979, “The Robust Beauty of Improper Linear Models in Decision Making”, _American Psychologist_, 34(7): 571–582. doi:10.1037/0003-066X.34.7.571
-* de Finetti, Bruno, 1970 \[1974], _Teoria Delle Probabilita_, Italy: Giulio Einaudi. Translated as _Theory of Probability: A Critical Introductory Treatment_. Vol. 1 and 2, Antonio Machí and Adrian Smith (trans.), Chichester: Wiley, 1974. doi:10.1002/9781119286387
-* de Finetti, Bruno and Leonard J. Savage, 1962, “Sul Modo Di Scegliere Le Probabilità Iniziali”, _Biblioteca Del Metron, Serie C_, 1: 81–154.
-* DeMiguel, Victor, Lorenzo Garlappi, and Raman Uppal, 2009, “Optimal Versus Naive Diversification: How Inefficient Is the 1N Portfolio Strategy?”, _Review of Financial Studies_, 22(5): 1915–1953. doi:10.1093/rfs/hhm075
-* Dennett, Daniel C., 1971, “Intentional Systems”, _Journal of Philosophy_, 68(4): 87–106. doi:10.2307/2025382
-* Dewey, John, 1960, _The Quest for Certainty_, New York: Capricorn Books.
-* Dhami, Mandeep K., Ralph Hertwig, and Ulrich Hoffrage, 2004, “The Role of Representative Design in an Ecological Approach to Cognition”, _Psychological Bulletin_, 130(6): 959–988. doi:10.1037/0033-2909.130.6.959
-* Domingos, Pedro, 2000, “A Unified Bias-Variance Decomposition and Its Applications”, in _Proceedings of the 17th International Conference on Machine Learning_, Morgan Kaufmann, pp. 231–238.
-* Doyen, Stéphane, Olivier Klein, Cora-Lise Pichton, and Axel Cleeremans, 2012, “Behavioral Priming: It’s All in the Mind, but Whose Mind?” _PLoS One_, 7(1): e29081. doi:10.1371/journal.pone.0029081
-* Dubins, Lester E., 1975, “Finitely Additive Conditional Probability, Conglomerability, and Disintegrations”, _Annals of Probability_, 3(1): 89–99. doi:10.1214/aop/1176996451
-* Einhorn, Hillel J., 1970, “The Use of Nonlinear, Noncompensatory Models in Decision Making”, _Psychological Bulletin_, 73(3): 221–230. doi:10.1037/h0028695
-* Elliott, Graham, Ivana Komunjer, and Allan Timmermann, 2005, “Estimation and Testing of Forecast Rationality under Flexible Loss”, _Review of Economic Studies_, 72(4): 1107–1125. doi:10.1111/0034-6527.00363
-* Ellsberg, Daniel, 1961, “Risk, Ambiguity and the Savage Axioms”, _Quarterly Journal of Economics_, 75(4): 643–669. doi:10.2307/1884324
-* Fawcett, Tim W., Benja Fallenstein, Andrew D. Higginson, Alasdair I. Houston, Dave E.W. Mallpress, Pete C. Trimmer, and John M. McNamara, 2014, “The Evolution of Decision Rules in Complex Environments”, _Trends in Cognitive Sciences_, 18(3): 153–161. doi:10.1016/j.tics.2013.12.012
-* Fennema, Hein and Peter Wakker, 1997, “Original and Cumulative Prospect Theory: A Discussion of Empirical Differences”, _Journal of Behavioral Decision Making_, 10(1): 53–64. doi:10.1002/(SICI)1099-0771(199703)10:1<53::AID-BDM245>3.0.CO;2-1
-* Fiedler, Klaus, 1988, “The Dependence of the Conjunction Fallacy on Subtle Linguistic Factors”, _Psychological Research_, 50(2): 123–129. doi:10.1007/BF00309212
-* Fiedler, Klaus and Peter Juslin (eds.), 2006, _Information Sampling and Adaptive Cognition_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511614576
-* Fishburn, Peter C., 1982, _The Foundations of Expected Utility_, Dordrecht: D. Reidel. doi:10.1007/978-94-017-3329-8
-* Fisher, Ronald Aylmer, 1936, “Uncertain Inference”, _Proceedings of the American Academy of Arts and Sciences_, 71(4): 245–258. doi:10.2307/20023225
-* Friedman, Jerome, 1997, “On Bias, Variance, 0-1 Loss and the Curse of Dimensionality”, _Journal of Data Mining and Knowledge Discovery_, 1(1): 55–77. doi:10.1023/A:1009778005914
-* Friedman, Milton, 1953, “The Methodology of Positive Economics”, in _Essays in Positive Economics_, Chicago: University of Chicago Press, pp. 3–43.
-* Friedman, Milton and Leonard J. Savage, 1948, “The Utility Analysis of Choices Involving Risk”, _Journal of Political Economy_, 56(4): 279–304. doi:10.1086/256692
-* Friston, Karl, 2010, “The Free-Energy Principle: A Unified Brain Theory?”, _Nature Reviews Neuroscience_, 11(2): 127–138. doi:10.1038/nrn2787
-* Galaabaatar, Tsogbadral and Edi Karni, 2013, “Subjective Expected Utility with Incomplete Preferences”, _Econometrica_, 81(1): 255–284. doi:10.3982/ECTA9621
-* Gergely, György, Harold Bekkering, and Ildikó Király, 2002, “Developmental Psychology: Rational Imitation in Preverbal Infants”, _Nature_, 415(6873): 755–755. doi:10.1038/415755a
-* Ghallab, Malik, Dana Nau, and Paolo Traverso, 2016, _Automated Planning and Acting_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139583923
-* Gibson, James J., 1979, _The Ecological Approach to Visual Perception_, Boston: Houghton Mifflin.
-* Gigerenzer, Gerd, 1996, “On Narrow Norms and Vague Heuristics: A Reply to Kahneman and Tversky”, _Psychological Review_, 103(3): 592–596. doi:10.1037/0033-295X.103.3.592
-* –––, 2007, _Gut Feelings: The Intelligence of the Unconscious_, New York: Viking Press.
-* Gigerenzer, Gerd and Henry Brighton, 2009, “Homo Heuristicus: Why Biased Minds Make Better Inferences”, _Topics in Cognitive Science_, 1(1): 107–143. doi:10.1111/j.1756-8765.2008.01006.x
-* Gigerenzer, Gerd and Daniel G. Goldstein, 1996, “Reasoning the Fast and Frugal Way: Models of Bounded Rationality”, _Psychological Review_, 103(4): 650–669. doi:10.1037/0033-295X.103.4.650
-* Gigerenzer, Gerd, Wolfgang Hell, and Hartmut Blank, 1988, “Presentation and Content: The Use of Base Rates as a Continuous Variable.”, _Journal of Experimental Psychology: Human Perception and Performance_, 14(3): 513–525. doi:10.1037/0096-1523.14.3.513
-* Gigerenzer, Gerd, Ralph Hertwig, and Thorsten Pachur (eds), 2011, _Heuristics: The Foundations of Adaptive Behavior_, Oxford University Press. doi:10.1093/acprof:oso/9780199744282.001.0001
-* Gigerenzer, Gerd, Peter M. Todd, and the ABC Group (eds.), 1999, _Simple Heuristics That Make Us Smart_, Oxford: Oxford University Press.
-* Giles, Robin, 1976, “A Logic for Subjective Belief”, in _Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science_, William L. Harper and Clifford Alan Hooker (eds.), Dordrecht: Springer Netherlands, vol. I: 41–72. doi:10.1007/978-94-010-1853-1\*4
-* Giron, F. J., and S. Rios, 1980, “Quasi-Bayesian Behavior: A More Realistic Approach to Decision Making?” _Trabajos de Estadistica Y de Investigacion Operativa_, 31(1): 17–38. doi:10.1007/BF02888345
-* Glymour, Clark, 2001, _The Mind’s Arrows_, Cambridge, MA: MIT Press.
-* Goldblatt, Robert, 1998, _Lectures on the Hyperreals: An Introduction to Nonstandard Analysis_, (Graduate Texts in Mathematics 188), New York: Springer New York. doi:10.1007/978-1-4612-0615-6
-* Goldstein, Daniel G. and Gerd Gigerenzer, 2002, “Models of Ecological Rationality: The Recognition Heuristic.”, _Psychological Review_, 109(1): 75–90. doi:10.1037/0033-295X.109.1.75
-* Golub, Benjamin and Matthew O Jackson, 2010, “Naïve Learning in Social Networks and the Wisdom of Crowds”, _American Economic Journal: Microeconomics_, 2(1): 112–149. doi:10.1257/mic.2.1.112
-* Good, Irving J., 1952, “Rational Decisions”, _Journal of the Royal Statistical Society. Series B_, 14(1): 107–114. Reprinted in Good 1983: 3–14
-* –––, 1967, “On the Principle of Total Evidence”, _The British Journal for the Philosophy of Science_, 17(4): 319–321. Reprinted in Good 1983: 178–180. doi:10.1093/bjps/17.4.319
-* –––, 1971 \[1983], “Twenty-Seven Principles of Rationality”, _Foundations of Statistical Inference_, V. P. Godambe and D. A. Sprott (eds), Toronto: Holt, Rinehart & Winston. Reprinted in Good 1983: 15–20.
-* –––, 1983, _Good Thinking: The Foundations of Probability and Its Applications_, Minneapolis: University of Minnesota Press.
-* Güth, Werner, Rolf Schmittberger, and Bernd Schwarze, 1982, “An Experimental Analysis of Ultimatum Bargaining”, _Journal of Economic Behavior and Organization_, 3(4): 367–388. doi:10.1016/0167-2681(82)90011-7
-* Hacking, Ian, 1967, “Slightly More Realistic Personal Probability”, _Philosophy of Science_, 34(4): 311–325. doi:10.1086/288169
-* Haenni, Rolf, Jan-Willem Romeijn, Gregory Wheeler, and Jon Williamson, 2011, _Probabilistic Logics and Probabilistic Networks_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-0008-6
-* Hahn, Ulrike and Paul A. Warren, 2009, “Perceptions of Randomness: Why Three Heads Are Better Than Four”, _Psychological Review_, 116(2): 454–461. doi:10.1037/a0015241
-* Halpern, Joseph Y., 2010, “Lexicographic Probability, Conditional Probability, and Nonstandard Probability”, _Games and Economic Behavior_, 68(1): 155–179. doi:10.1016/j.geb.2009.03.013
-* Hammond, Kenneth R., 1955, “Probabilistic Functioning and the Clinical Method”, _Psychological Review_, 62(4): 255–262. doi:10.1037/h0046845
-* Hammond, Kenneth R., Carolyn J. Hursch, and Frederick J. Todd, 1964, “Analyzing the Components of Clinical Inference”, _Psychological Review_, 71(6): 438–456. doi:10.1037/h0040736
-* Hammond, Peter J., 1994, “Elementary Non-Archimedean Representations of Probability for Decision Theory and Games”, in Paul Humphreys (ed.), _Patrick Suppes: Scientific Philosopher_, Vol. 1: Probability and Probabilistic Causality, Dordrecht, The Netherlands: Kluwer, pp. 25–59. doi:10.1007/978-94-011-0774-7\*2
-* Haykin, Simon O., 2013, _Adaptive Filter Theory_, fifth edition, London: Pearson.
-* Henrich, Joseph and Francisco J Gil-White, 2001, “The Evolution of Prestige: Freely Conferred Deference as a Mechanism for Enhancing the Benefits of Cultural Transmission”, _Evolution and Human Behavior_, 22(3): 165–196. doi:10.1016/S1090-5138(00)00071-4
-* Hertwig, Ralph and Gerd Gigerenzer, 1999, “The ‘Conjunction Fallacy’ Revisited: How Intelligent Inferences Look Like Reasoning Errors”, _Journal of Behavioral Decision Making_, 12(4): 275–305. doi:10.1002/(SICI)1099-0771(199912)12:4<275::AID-BDM323>3.0.CO;2-M
-* Hertwig, Ralph and Timothy J. Pleskac, 2008, “The Game of Life: How Small Samples Render Choice Simpler”, in _The Probabilistic Mind: Prospects for Bayesian Cognitive Science_, Nick Chater and Mike Oaksford (eds.), Oxford: Oxford University Press, 209–236. doi:10.1093/acprof:oso/9780199216093.003.0010
-* Hertwig, Ralph, Greg Barron, Elke U. Weber, and Ido Erev, 2004, “Decisions from Experience and the Effect of Rare Events in Risky Choice”, _Psychological Science_, 15(8): 534–539. doi:10.1111/j.0956-7976.2004.00715.x
-* Hertwig, Ralph, Jennifer Nerissa Davis, and Frank J. Sulloway, 2002, “Parental Investment: How an Equity Motive Can Produce Inequality”, _Psychological Bulletin_, 128(5): 728–745. doi:10.1037/0033-2909.128.5.728
-* Herzog, Stefan M. and Ralph Hertwig, 2013, “The Ecological Validity of Fluency”, in Christian Unkelbach & Rainer Greifeneder (eds.), _The Experience of Thinking: How Fluency of Mental Processes Influences Cognition and Behavior_,, Psychology Press, pp. 190–219.
-* Hey, John D., 1982, “Search for Rules for Search”, _Journal of Economic Behavior and Organization_, 3(1): 65–81. doi:10.1016/0167-2681(82)90004-X
-* Ho, Teck-Hua, 1996, “Finite Automata Play Repeated Prisoner’s Dilemma with Information Processing Costs”, _Journal of Economic Dynamics and Control_, 20(1–3): 173–207. doi:10.1016/0165-1889(94)00848-1
-* Hochman, Guy and Eldad Yechiam, 2011, “Loss Aversion in the Eye and in the Heart: The Autonomic Nervous System’s Responses to Losses”, _Journal of Behavioral Decision Making_, 24(2): 140–156. doi:10.1002/bdm.692
+* Damore, James A. and Jeff Gore, 2012, “Understanding Microbial Cooperation”, *Journal of Theoretical Biology*, 299: 31–41. doi:10.1016/j.jtbi.2011.03.008
+* Dana, Jason and Robin M. Dawes, 2004, “The Superiority of Simple Alternatives to Regression for Social Science Predictions”, *Journal of Educational and Behavioral Statistics*, 29(3): 317–331. doi:10.3102/10769986029003317
+* Darwin, Charles, 1871, *The Descent of Man*, New York: D. Appleton and Company.
+* Davidson, Donald, 1974, “Belief and the Basis of Meaning”, *Synthese*, 27(3–4): 309–323. doi:10.1007/BF00484597
+* Davis-Stober, Clintin P., Jason Dana, and David V. Budescu, 2010, “Why Recognition Is Rational: Optimality Results on Single-Variable Decision Rules”, *Judgment and Decision Making*, 5(4): 216–229.
+* Dawes, Robin M., 1979, “The Robust Beauty of Improper Linear Models in Decision Making”, *American Psychologist*, 34(7): 571–582. doi:10.1037/0003-066X.34.7.571
+* de Finetti, Bruno, 1970 \[1974], *Teoria Delle Probabilita*, Italy: Giulio Einaudi. Translated as *Theory of Probability: A Critical Introductory Treatment*. Vol. 1 and 2, Antonio Machí and Adrian Smith (trans.), Chichester: Wiley, 1974. doi:10.1002/9781119286387
+* de Finetti, Bruno and Leonard J. Savage, 1962, “Sul Modo Di Scegliere Le Probabilità Iniziali”, *Biblioteca Del Metron, Serie C*, 1: 81–154.
+* DeMiguel, Victor, Lorenzo Garlappi, and Raman Uppal, 2009, “Optimal Versus Naive Diversification: How Inefficient Is the 1N Portfolio Strategy?”, *Review of Financial Studies*, 22(5): 1915–1953. doi:10.1093/rfs/hhm075
+* Dennett, Daniel C., 1971, “Intentional Systems”, *Journal of Philosophy*, 68(4): 87–106. doi:10.2307/2025382
+* Dewey, John, 1960, *The Quest for Certainty*, New York: Capricorn Books.
+* Dhami, Mandeep K., Ralph Hertwig, and Ulrich Hoffrage, 2004, “The Role of Representative Design in an Ecological Approach to Cognition”, *Psychological Bulletin*, 130(6): 959–988. doi:10.1037/0033-2909.130.6.959
+* Domingos, Pedro, 2000, “A Unified Bias-Variance Decomposition and Its Applications”, in *Proceedings of the 17th International Conference on Machine Learning*, Morgan Kaufmann, pp. 231–238.
+* Doyen, Stéphane, Olivier Klein, Cora-Lise Pichton, and Axel Cleeremans, 2012, “Behavioral Priming: It’s All in the Mind, but Whose Mind?” *PLoS One*, 7(1): e29081. doi:10.1371/journal.pone.0029081
+* Dubins, Lester E., 1975, “Finitely Additive Conditional Probability, Conglomerability, and Disintegrations”, *Annals of Probability*, 3(1): 89–99. doi:10.1214/aop/1176996451
+* Einhorn, Hillel J., 1970, “The Use of Nonlinear, Noncompensatory Models in Decision Making”, *Psychological Bulletin*, 73(3): 221–230. doi:10.1037/h0028695
+* Elliott, Graham, Ivana Komunjer, and Allan Timmermann, 2005, “Estimation and Testing of Forecast Rationality under Flexible Loss”, *Review of Economic Studies*, 72(4): 1107–1125. doi:10.1111/0034-6527.00363
+* Ellsberg, Daniel, 1961, “Risk, Ambiguity and the Savage Axioms”, *Quarterly Journal of Economics*, 75(4): 643–669. doi:10.2307/1884324
+* Fawcett, Tim W., Benja Fallenstein, Andrew D. Higginson, Alasdair I. Houston, Dave E.W. Mallpress, Pete C. Trimmer, and John M. McNamara, 2014, “The Evolution of Decision Rules in Complex Environments”, *Trends in Cognitive Sciences*, 18(3): 153–161. doi:10.1016/j.tics.2013.12.012
+* Fennema, Hein and Peter Wakker, 1997, “Original and Cumulative Prospect Theory: A Discussion of Empirical Differences”, *Journal of Behavioral Decision Making*, 10(1): 53–64. doi:10.1002/(SICI)1099-0771(199703)10:1<53::AID-BDM245>3.0.CO;2-1
+* Fiedler, Klaus, 1988, “The Dependence of the Conjunction Fallacy on Subtle Linguistic Factors”, *Psychological Research*, 50(2): 123–129. doi:10.1007/BF00309212
+* Fiedler, Klaus and Peter Juslin (eds.), 2006, *Information Sampling and Adaptive Cognition*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511614576
+* Fishburn, Peter C., 1982, *The Foundations of Expected Utility*, Dordrecht: D. Reidel. doi:10.1007/978-94-017-3329-8
+* Fisher, Ronald Aylmer, 1936, “Uncertain Inference”, *Proceedings of the American Academy of Arts and Sciences*, 71(4): 245–258. doi:10.2307/20023225
+* Friedman, Jerome, 1997, “On Bias, Variance, 0-1 Loss and the Curse of Dimensionality”, *Journal of Data Mining and Knowledge Discovery*, 1(1): 55–77. doi:10.1023/A:1009778005914
+* Friedman, Milton, 1953, “The Methodology of Positive Economics”, in *Essays in Positive Economics*, Chicago: University of Chicago Press, pp. 3–43.
+* Friedman, Milton and Leonard J. Savage, 1948, “The Utility Analysis of Choices Involving Risk”, *Journal of Political Economy*, 56(4): 279–304. doi:10.1086/256692
+* Friston, Karl, 2010, “The Free-Energy Principle: A Unified Brain Theory?”, *Nature Reviews Neuroscience*, 11(2): 127–138. doi:10.1038/nrn2787
+* Galaabaatar, Tsogbadral and Edi Karni, 2013, “Subjective Expected Utility with Incomplete Preferences”, *Econometrica*, 81(1): 255–284. doi:10.3982/ECTA9621
+* Gergely, György, Harold Bekkering, and Ildikó Király, 2002, “Developmental Psychology: Rational Imitation in Preverbal Infants”, *Nature*, 415(6873): 755–755. doi:10.1038/415755a
+* Ghallab, Malik, Dana Nau, and Paolo Traverso, 2016, *Automated Planning and Acting*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139583923
+* Gibson, James J., 1979, *The Ecological Approach to Visual Perception*, Boston: Houghton Mifflin.
+* Gigerenzer, Gerd, 1996, “On Narrow Norms and Vague Heuristics: A Reply to Kahneman and Tversky”, *Psychological Review*, 103(3): 592–596. doi:10.1037/0033-295X.103.3.592
+* –––, 2007, *Gut Feelings: The Intelligence of the Unconscious*, New York: Viking Press.
+* Gigerenzer, Gerd and Henry Brighton, 2009, “Homo Heuristicus: Why Biased Minds Make Better Inferences”, *Topics in Cognitive Science*, 1(1): 107–143. doi:10.1111/j.1756-8765.2008.01006.x
+* Gigerenzer, Gerd and Daniel G. Goldstein, 1996, “Reasoning the Fast and Frugal Way: Models of Bounded Rationality”, *Psychological Review*, 103(4): 650–669. doi:10.1037/0033-295X.103.4.650
+* Gigerenzer, Gerd, Wolfgang Hell, and Hartmut Blank, 1988, “Presentation and Content: The Use of Base Rates as a Continuous Variable.”, *Journal of Experimental Psychology: Human Perception and Performance*, 14(3): 513–525. doi:10.1037/0096-1523.14.3.513
+* Gigerenzer, Gerd, Ralph Hertwig, and Thorsten Pachur (eds), 2011, *Heuristics: The Foundations of Adaptive Behavior*, Oxford University Press. doi:10.1093/acprof:oso/9780199744282.001.0001
+* Gigerenzer, Gerd, Peter M. Todd, and the ABC Group (eds.), 1999, *Simple Heuristics That Make Us Smart*, Oxford: Oxford University Press.
+* Giles, Robin, 1976, “A Logic for Subjective Belief”, in *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*, William L. Harper and Clifford Alan Hooker (eds.), Dordrecht: Springer Netherlands, vol. I: 41–72. doi:10.1007/978-94-010-1853-1\*4
+* Giron, F. J., and S. Rios, 1980, “Quasi-Bayesian Behavior: A More Realistic Approach to Decision Making?” *Trabajos de Estadistica Y de Investigacion Operativa*, 31(1): 17–38. doi:10.1007/BF02888345
+* Glymour, Clark, 2001, *The Mind’s Arrows*, Cambridge, MA: MIT Press.
+* Goldblatt, Robert, 1998, *Lectures on the Hyperreals: An Introduction to Nonstandard Analysis*, (Graduate Texts in Mathematics 188), New York: Springer New York. doi:10.1007/978-1-4612-0615-6
+* Goldstein, Daniel G. and Gerd Gigerenzer, 2002, “Models of Ecological Rationality: The Recognition Heuristic.”, *Psychological Review*, 109(1): 75–90. doi:10.1037/0033-295X.109.1.75
+* Golub, Benjamin and Matthew O Jackson, 2010, “Naïve Learning in Social Networks and the Wisdom of Crowds”, *American Economic Journal: Microeconomics*, 2(1): 112–149. doi:10.1257/mic.2.1.112
+* Good, Irving J., 1952, “Rational Decisions”, *Journal of the Royal Statistical Society. Series B*, 14(1): 107–114. Reprinted in Good 1983: 3–14
+* –––, 1967, “On the Principle of Total Evidence”, *The British Journal for the Philosophy of Science*, 17(4): 319–321. Reprinted in Good 1983: 178–180. doi:10.1093/bjps/17.4.319
+* –––, 1971 \[1983], “Twenty-Seven Principles of Rationality”, *Foundations of Statistical Inference*, V. P. Godambe and D. A. Sprott (eds), Toronto: Holt, Rinehart & Winston. Reprinted in Good 1983: 15–20.
+* –––, 1983, *Good Thinking: The Foundations of Probability and Its Applications*, Minneapolis: University of Minnesota Press.
+* Güth, Werner, Rolf Schmittberger, and Bernd Schwarze, 1982, “An Experimental Analysis of Ultimatum Bargaining”, *Journal of Economic Behavior and Organization*, 3(4): 367–388. doi:10.1016/0167-2681(82)90011-7
+* Hacking, Ian, 1967, “Slightly More Realistic Personal Probability”, *Philosophy of Science*, 34(4): 311–325. doi:10.1086/288169
+* Haenni, Rolf, Jan-Willem Romeijn, Gregory Wheeler, and Jon Williamson, 2011, *Probabilistic Logics and Probabilistic Networks*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-007-0008-6
+* Hahn, Ulrike and Paul A. Warren, 2009, “Perceptions of Randomness: Why Three Heads Are Better Than Four”, *Psychological Review*, 116(2): 454–461. doi:10.1037/a0015241
+* Halpern, Joseph Y., 2010, “Lexicographic Probability, Conditional Probability, and Nonstandard Probability”, *Games and Economic Behavior*, 68(1): 155–179. doi:10.1016/j.geb.2009.03.013
+* Hammond, Kenneth R., 1955, “Probabilistic Functioning and the Clinical Method”, *Psychological Review*, 62(4): 255–262. doi:10.1037/h0046845
+* Hammond, Kenneth R., Carolyn J. Hursch, and Frederick J. Todd, 1964, “Analyzing the Components of Clinical Inference”, *Psychological Review*, 71(6): 438–456. doi:10.1037/h0040736
+* Hammond, Peter J., 1994, “Elementary Non-Archimedean Representations of Probability for Decision Theory and Games”, in Paul Humphreys (ed.), *Patrick Suppes: Scientific Philosopher*, Vol. 1: Probability and Probabilistic Causality, Dordrecht, The Netherlands: Kluwer, pp. 25–59. doi:10.1007/978-94-011-0774-7\*2
+* Haykin, Simon O., 2013, *Adaptive Filter Theory*, fifth edition, London: Pearson.
+* Henrich, Joseph and Francisco J Gil-White, 2001, “The Evolution of Prestige: Freely Conferred Deference as a Mechanism for Enhancing the Benefits of Cultural Transmission”, *Evolution and Human Behavior*, 22(3): 165–196. doi:10.1016/S1090-5138(00)00071-4
+* Hertwig, Ralph and Gerd Gigerenzer, 1999, “The ‘Conjunction Fallacy’ Revisited: How Intelligent Inferences Look Like Reasoning Errors”, *Journal of Behavioral Decision Making*, 12(4): 275–305. doi:10.1002/(SICI)1099-0771(199912)12:4<275::AID-BDM323>3.0.CO;2-M
+* Hertwig, Ralph and Timothy J. Pleskac, 2008, “The Game of Life: How Small Samples Render Choice Simpler”, in *The Probabilistic Mind: Prospects for Bayesian Cognitive Science*, Nick Chater and Mike Oaksford (eds.), Oxford: Oxford University Press, 209–236. doi:10.1093/acprof:oso/9780199216093.003.0010
+* Hertwig, Ralph, Greg Barron, Elke U. Weber, and Ido Erev, 2004, “Decisions from Experience and the Effect of Rare Events in Risky Choice”, *Psychological Science*, 15(8): 534–539. doi:10.1111/j.0956-7976.2004.00715.x
+* Hertwig, Ralph, Jennifer Nerissa Davis, and Frank J. Sulloway, 2002, “Parental Investment: How an Equity Motive Can Produce Inequality”, *Psychological Bulletin*, 128(5): 728–745. doi:10.1037/0033-2909.128.5.728
+* Herzog, Stefan M. and Ralph Hertwig, 2013, “The Ecological Validity of Fluency”, in Christian Unkelbach & Rainer Greifeneder (eds.), *The Experience of Thinking: How Fluency of Mental Processes Influences Cognition and Behavior*,, Psychology Press, pp. 190–219.
+* Hey, John D., 1982, “Search for Rules for Search”, *Journal of Economic Behavior and Organization*, 3(1): 65–81. doi:10.1016/0167-2681(82)90004-X
+* Ho, Teck-Hua, 1996, “Finite Automata Play Repeated Prisoner’s Dilemma with Information Processing Costs”, *Journal of Economic Dynamics and Control*, 20(1–3): 173–207. doi:10.1016/0165-1889(94)00848-1
+* Hochman, Guy and Eldad Yechiam, 2011, “Loss Aversion in the Eye and in the Heart: The Autonomic Nervous System’s Responses to Losses”, *Journal of Behavioral Decision Making*, 24(2): 140–156. doi:10.1002/bdm.692
 * Hogarth, Robin M., 2012, “When Simple Is Hard to Accept”, in Todd et al. 2012: 61–79. doi:10.1093/acprof:oso/9780195315448.003.0024
-* Hogarth, Robin M. and Natalia Karelaia, 2007, “Heuristic and Linear Models of Judgment: Matching Rules and Environments”, _Psychological Review_, 114(3): 733–758. doi:10.1037/0033-295X.114.3.733
-* Howe, Mark L., 2011, “The Adaptive Nature of Memory and Its Illusions”, _Current Directions in Psychological Science_, 20(5): 312–315. doi:10.1177/0963721411416571
-* Hume, David, 1738 \[2008], _A Treatise of Human Nature_, Jonathan Bennett (ed.), www.earlymoderntexts.com, 2008. \[[Hume 1738 available online](http://www.earlymoderntexts.com/authors/hume)]
+* Hogarth, Robin M. and Natalia Karelaia, 2007, “Heuristic and Linear Models of Judgment: Matching Rules and Environments”, *Psychological Review*, 114(3): 733–758. doi:10.1037/0033-295X.114.3.733
+* Howe, Mark L., 2011, “The Adaptive Nature of Memory and Its Illusions”, *Current Directions in Psychological Science*, 20(5): 312–315. doi:10.1177/0963721411416571
+* Hume, David, 1738 \[2008], *A Treatise of Human Nature*, Jonathan Bennett (ed.), www.earlymoderntexts.com, 2008. \[[Hume 1738 available online](http://www.earlymoderntexts.com/authors/hume)]
 * Hutchinson, John M., Carola Fanselow, and Peter M. Todd, 2012, “Car Parking as a Game Between Simple Heuristics”, in Todd et al. 2012: 454–484. doi:10.1093/acprof:oso/9780195315448.003.0133
-* Jackson, Matthew O., 2010, _Social and Economic Networks_, Princeton, NJ: Princeton University Press.
-* Jarvstad, Andreas, Ulrike Hahn, Simon K. Rushton, and Paul A. Warren, 2013, “Perceptuo-Motor, Cognitive, and Description-Based Decision-Making Seem Equally Good”, _Proceedings of the National Academy of Sciences_, 110(40): 16271–16276. doi:10.1073/pnas.1300239110
-* Jevons, William Stanley, 1871, _The Theory of Political Economy_, London: Macmillian; Company.
-* Juslin, Peter and Henrik Olsson, 2005, “Capacity Limitations and the Detection of Correlations: Comment on Kareev”, _Psychological Review_, 112(1): 256–267. doi:10.1037/0033-295X.112.1.256
-* Juslin, Peter, Anders Winman, and Patrik Hansson, 2007, “The Naïve Intuitive Statistician: A Naïve Sampling Model of Intuitive Confidence Intervals.”, _Psychological Review_, 114(3): 678–703. doi:10.1037/0033-295X.114.3.678
-* Kahneman, Daniel and Amos Tversky, 1972, “Subjective Probability: A Judgment of Representativeness”, _Cognitive Psychology_, 3(3): 430–454. doi:10.1016/0010-0285(72)90016-3
-* –––, 1979, “Prospect Theory: An Analysis of Decision Under Risk”, _Econometrica_, 47(2): 263–291. doi:10.2307/1914185
-* –––, 1996, “On the Reality of Cognitive Illusions”, _Psychological Review_, 103(3): 582–591. doi:10.1037/0033-295X.103.3.582
-* Kahneman, Daniel, Baruch Slovic, and Amos Tversky (eds.), 1982, _Judgment Under Uncertainty: Heuristics and Biases_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511809477
-* Kareev, Yaakov, 1995, “Through a Narrow Window: Working Memory Capacity and the Detection of Covariation”, _Cognition_, 56(3): 263–269. doi:10.1016/0010-0277(95)92814-G
-* –––, 2000, “Seven (Indeed, Plus or Minus Two) and the Detection of Correlations”, _Psychological Review_, 107(2): 397–402. doi:10.1037/0033-295X.107.2.397
-* Karni, Edi, 1985, _Decision Making Under Uncertainty: The Case of State-Dependent Preferences_, Cambridge, MA: Harvard University.
-* Katsikopoulos, Konstantinos V., 2010, “The Less-Is-More Effect: Predictions and Tests”, _Judgment and Decision Making_, 5(4): 244–257.
-* Katsikopoulos, Konstantinos V., Lael J. Schooler, and Ralph Hertwig, 2010, “The Robust Beauty of Ordinary Information”, _Psychological Review_, 117(4): 1259–1266. doi:10.1037/a0020418
-* Kaufmann, Esther and Werner W. Wittmann, 2016, “The Success of Linear Bootstrapping Models: Decision Domain-, Expertise-, and Criterion-Specific Meta-Analysis”, _PLoS One_, 11(6): e0157914. doi:10.1371/journal.pone.0157914
-* Keeney, Ralph L. and Howard Raiffa, 1976, _Decisions with Multiple Objectives: Preferences and Value Trade-Offs_, New York: Wiley.
-* Kelly, Kevin T. and Oliver Schulte, 1995, “The Computable Testability of Theories Making Uncomputable Predictions”, _Erkenntnis_, 43(1): 29–66. doi:10.1007/BF01131839
-* Keynes, John Maynard, 1921, _A Treatise on Probability_, London: Macmillan.
-* Kidd, Celeste and Benjamin Y. Hayden, 2015, “The Psychology and Neuroscience of Curiosity”, _Neuron_, 88(3): 449–460. doi:10.1016/j.neuron.2015.09.010
-* Kirsh, David, 1995, “The Intelligent Use of Space”, _Artificial Intelligence_, 73(1–2): 31–68. doi:10.1016/0004-3702(94)00017-U
-* Klaes, Matthias and Esther-Mirjam Sent, 2005, “A Conceptual History of the Emergence of Bounded Rationality”, _History of Political Economy_, 37(1):27–59. doi:10.1215/00182702-37-1-27
-* Knight, Frank H., 1921, _Risk, Uncertainty and Profit_, Boston: Houghton Mifflin.
-* Koehler, Jonathan J., 1996, “The Base Rate Fallacy Reconsidered: Descriptive, Normative, and Methodological Challenges”, _Behavioral and Brain Sciences_, 19(1): 1–53. doi:10.1017/S0140525X00041157
-* Koopman, Bernard O., 1940, “The Axioms and Algebra of Intuitive Probability”, _Annals of Mathematics_, 41(2): 269–292. doi:10.2307/1969003
-* Körding, Konrad Paul and Daniel M. Wolpert, 2004, “The Loss Function of Sensorimotor Learning”, _Proceedings of the National Academy of Sciences_, 101(26): 9839–9842. doi:10.1073/pnas.0308394101
-* Kreps, David M, Paul Milgrom, John Roberts, and Robert Wilson, 1982, “Rational Cooperation in the Finitely Repeated Prisoners’ Dilemma”, _Journal of Economic Theory_, 27(2): 245–252. doi:10.1016/0022-0531(82)90029-1
-* Kühberger, Anton, Michael Schulte-Mecklenbeck, and Josef Perner, 1999, “The Effects of Framing, Reflection, Probability, and Payoff on Risk Preference in Choice Tasks”, _Organizational Behavior and Human Decision Processes_, 78(3): 204–231. doi:10.1006/obhd.1999.2830
-* Kyburg, Henry E., Jr., 1978, “Subjective Probability: Criticisms, Reflections, and Problems”, _Journal of Philosophical Logic_, 7(1): 157–180. doi:10.1007/BF00245926
-* Levi, Isaac, 1977, “Direct Inference”, _Journal of Philosophy_, 74: 5–29. doi:10.2307/2025732
-* –––, 1983, “Who Commits the Base Rate Fallacy?”, _Behavioral and Brain Sciences_, 6(3): 502–506. doi:10.1017/S0140525X00017209
-* Lewis, Richard L., Andrew Howes, and Satinder Singh, 2014, “Computational Rationality: Linking Mechanism and Behavior Through Bounded Utility Maximization”, _Topics in Cognitive Science_, 6(2): 279–311. doi:10.1111/tops.12086
-* Lichtenberg, Jan Malte and Özgür Simsek, 2016, “Simple Regression Models”, _Proceedings of Machine Learning Research_, 58: 13–25.
-* Loomes, Graham and Robert Sugden, 1982, “Regret Theory: An Alternative Theory of Rational Choice Under Uncertainty”, _Economic Journal_, 92(368): 805–824. doi:10.2307/2232669
-* Loridan, P., 1984, “ϵ-Solutions in Vector Minimization Problems”, _Journal of Optimization Theory and Applications_, 43(2): 265–276. doi:10.1007/BF00936165
-* Luce, R. Duncan and Howard Raiffa, 1957, _Games and Decisions: Introduction and Critical Suvey_, New York: Dover.
-* Marr, D. C., 1982, _Vision_, New York: Freeman.
-* May, Kenneth O., 1954, “Intransitivity, Utility, and the Aggregation of Preference Patterns”, _Econometrica_, 22(1): 1–13. doi:10.2307/1909827
-* Maynard Smith, John, 1982, _Evolution and the Theory of Games_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806292
-* McBeath, Michael K., Dennis M. Shaffer, and Mary K. Kaiser, 1995, “How Baseball Outfielders Determine Where to Run to Catch Fly Balls”, _Science_, 268(5210): 569–573. doi:10.1126/science.7725104
-* McNamara, John M., Pete C. Trimmer, and Alasdair I. Houston, 2014, “Natural Selection Can Favour \`Irrational’ Behavior”, _Biology Letters_, 10(1): 20130935. doi:10.1098/rsbl.2013.0935
-* Meder, Björn, Ralf Mayrhofer, and Michael R. Waldmann, 2014, “Structure Induction in Diagnostic Causal Reasoning”, _Psychological Review_, 121(3): 277–301. doi:10.1037/a0035944
-* Meehl, Paul, 1954, _Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence_, Minneapolis: Minnesota Press.
-* Mill, John Stuart, 1844, “On the Definition of Political Economy”, reprinted in John M. Robson (ed.), _The Collected Works of John Stuart Mill_, Vol. IV, Toronto: University of Toronto Press.
-* Mongin, Philippe, 2000, “Does Optimization Imply Rationality”, _Synthese_, 124(1–2): 73–111. doi:10.1023/A:1005150001309
-* Nau, Robert, 2006, “The Shape of Incomplete Preferences”, _The Annals of Statistics_, 34(5): 2430–2448. doi:10.1214/009053606000000740
-* Neumann, John von and Oskar Morgenstern, 1944, _Theory of Games and Economic Behavior_, Princeton, NJ: Princeton University Press.
-* Newell, Allen and Herbert A. Simon, 1956, _The Logic Theory Machine: A Complex Information Processing System_ (No. P-868), Santa Monica, CA: The Rand Corporation.
-* –––, 1972, _Human Problem Solving_, Englewood Cliffs, NJ: Prentice-Hall.
-* –––, 1976, “Computer Science as Empirical Inquiry: Symbols and Search”, _Communications of the ACM_, 19(3): 113–126. doi:10.1145/360018.360022
-* Neyman, Abraham, 1985, “Bounded Complexity Justifies Cooperation in the Finitely Repeated Prisoners’ Dilemma”, _Economics Letters_, 19(3): 227–229. doi:10.1016/0165-1765(85)90026-6
-* Norton, Michael I., Daniel Mochon, and Dan Ariely, 2012, “The IKEA Effect: When Labor Leads to Love”, _Journal of Consumer Psychology_, 22(3): 453–460. doi:10.1016/j.jcps.2011.08.002
-* Nowak, Martin A. and Robert M. May, 1992, “Evolutionary Games and Spatial Chaos”, _Nature_, 359(6398): 826–829. doi:10.1038/359826a0
-* Oaksford, Mike and Nick Chater, 1994, “A Rational Analysis of the Selection Task as Optimal Data Selection”, _Psychological Review_, 101(4): 608–631. doi:10.1037/0033-295X.101.4.608
-* –––, 2007, _Bayesian Rationality_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198524496.001.0001
-* Ok, Efe A., 2002, “Utility Representation of an Incomplete Preference Relation”, _Journal of Economic Theory_, 104(2): 429–449. doi:10.1006/jeth.2001.2814
-* Osborne, Martin J., 2003, _An Introduction to Game Theory_, Oxford: Oxford University Press.
-* Oswald, Frederick L., Gregory Mitchell, Hart Blanton, James Jaccard, and Philip E. Tetlock, 2013, “Predicting Ethnic and Racial Discrimination: A Meta-Analysis of IAT Criterion Studies.”, _Journal of Personality and Social Psychology_, 105(2): 171–192. doi:10.1037/a0032734
+* Jackson, Matthew O., 2010, *Social and Economic Networks*, Princeton, NJ: Princeton University Press.
+* Jarvstad, Andreas, Ulrike Hahn, Simon K. Rushton, and Paul A. Warren, 2013, “Perceptuo-Motor, Cognitive, and Description-Based Decision-Making Seem Equally Good”, *Proceedings of the National Academy of Sciences*, 110(40): 16271–16276. doi:10.1073/pnas.1300239110
+* Jevons, William Stanley, 1871, *The Theory of Political Economy*, London: Macmillian; Company.
+* Juslin, Peter and Henrik Olsson, 2005, “Capacity Limitations and the Detection of Correlations: Comment on Kareev”, *Psychological Review*, 112(1): 256–267. doi:10.1037/0033-295X.112.1.256
+* Juslin, Peter, Anders Winman, and Patrik Hansson, 2007, “The Naïve Intuitive Statistician: A Naïve Sampling Model of Intuitive Confidence Intervals.”, *Psychological Review*, 114(3): 678–703. doi:10.1037/0033-295X.114.3.678
+* Kahneman, Daniel and Amos Tversky, 1972, “Subjective Probability: A Judgment of Representativeness”, *Cognitive Psychology*, 3(3): 430–454. doi:10.1016/0010-0285(72)90016-3
+* –––, 1979, “Prospect Theory: An Analysis of Decision Under Risk”, *Econometrica*, 47(2): 263–291. doi:10.2307/1914185
+* –––, 1996, “On the Reality of Cognitive Illusions”, *Psychological Review*, 103(3): 582–591. doi:10.1037/0033-295X.103.3.582
+* Kahneman, Daniel, Baruch Slovic, and Amos Tversky (eds.), 1982, *Judgment Under Uncertainty: Heuristics and Biases*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511809477
+* Kareev, Yaakov, 1995, “Through a Narrow Window: Working Memory Capacity and the Detection of Covariation”, *Cognition*, 56(3): 263–269. doi:10.1016/0010-0277(95)92814-G
+* –––, 2000, “Seven (Indeed, Plus or Minus Two) and the Detection of Correlations”, *Psychological Review*, 107(2): 397–402. doi:10.1037/0033-295X.107.2.397
+* Karni, Edi, 1985, *Decision Making Under Uncertainty: The Case of State-Dependent Preferences*, Cambridge, MA: Harvard University.
+* Katsikopoulos, Konstantinos V., 2010, “The Less-Is-More Effect: Predictions and Tests”, *Judgment and Decision Making*, 5(4): 244–257.
+* Katsikopoulos, Konstantinos V., Lael J. Schooler, and Ralph Hertwig, 2010, “The Robust Beauty of Ordinary Information”, *Psychological Review*, 117(4): 1259–1266. doi:10.1037/a0020418
+* Kaufmann, Esther and Werner W. Wittmann, 2016, “The Success of Linear Bootstrapping Models: Decision Domain-, Expertise-, and Criterion-Specific Meta-Analysis”, *PLoS One*, 11(6): e0157914. doi:10.1371/journal.pone.0157914
+* Keeney, Ralph L. and Howard Raiffa, 1976, *Decisions with Multiple Objectives: Preferences and Value Trade-Offs*, New York: Wiley.
+* Kelly, Kevin T. and Oliver Schulte, 1995, “The Computable Testability of Theories Making Uncomputable Predictions”, *Erkenntnis*, 43(1): 29–66. doi:10.1007/BF01131839
+* Keynes, John Maynard, 1921, *A Treatise on Probability*, London: Macmillan.
+* Kidd, Celeste and Benjamin Y. Hayden, 2015, “The Psychology and Neuroscience of Curiosity”, *Neuron*, 88(3): 449–460. doi:10.1016/j.neuron.2015.09.010
+* Kirsh, David, 1995, “The Intelligent Use of Space”, *Artificial Intelligence*, 73(1–2): 31–68. doi:10.1016/0004-3702(94)00017-U
+* Klaes, Matthias and Esther-Mirjam Sent, 2005, “A Conceptual History of the Emergence of Bounded Rationality”, *History of Political Economy*, 37(1):27–59. doi:10.1215/00182702-37-1-27
+* Knight, Frank H., 1921, *Risk, Uncertainty and Profit*, Boston: Houghton Mifflin.
+* Koehler, Jonathan J., 1996, “The Base Rate Fallacy Reconsidered: Descriptive, Normative, and Methodological Challenges”, *Behavioral and Brain Sciences*, 19(1): 1–53. doi:10.1017/S0140525X00041157
+* Koopman, Bernard O., 1940, “The Axioms and Algebra of Intuitive Probability”, *Annals of Mathematics*, 41(2): 269–292. doi:10.2307/1969003
+* Körding, Konrad Paul and Daniel M. Wolpert, 2004, “The Loss Function of Sensorimotor Learning”, *Proceedings of the National Academy of Sciences*, 101(26): 9839–9842. doi:10.1073/pnas.0308394101
+* Kreps, David M, Paul Milgrom, John Roberts, and Robert Wilson, 1982, “Rational Cooperation in the Finitely Repeated Prisoners’ Dilemma”, *Journal of Economic Theory*, 27(2): 245–252. doi:10.1016/0022-0531(82)90029-1
+* Kühberger, Anton, Michael Schulte-Mecklenbeck, and Josef Perner, 1999, “The Effects of Framing, Reflection, Probability, and Payoff on Risk Preference in Choice Tasks”, *Organizational Behavior and Human Decision Processes*, 78(3): 204–231. doi:10.1006/obhd.1999.2830
+* Kyburg, Henry E., Jr., 1978, “Subjective Probability: Criticisms, Reflections, and Problems”, *Journal of Philosophical Logic*, 7(1): 157–180. doi:10.1007/BF00245926
+* Levi, Isaac, 1977, “Direct Inference”, *Journal of Philosophy*, 74: 5–29. doi:10.2307/2025732
+* –––, 1983, “Who Commits the Base Rate Fallacy?”, *Behavioral and Brain Sciences*, 6(3): 502–506. doi:10.1017/S0140525X00017209
+* Lewis, Richard L., Andrew Howes, and Satinder Singh, 2014, “Computational Rationality: Linking Mechanism and Behavior Through Bounded Utility Maximization”, *Topics in Cognitive Science*, 6(2): 279–311. doi:10.1111/tops.12086
+* Lichtenberg, Jan Malte and Özgür Simsek, 2016, “Simple Regression Models”, *Proceedings of Machine Learning Research*, 58: 13–25.
+* Loomes, Graham and Robert Sugden, 1982, “Regret Theory: An Alternative Theory of Rational Choice Under Uncertainty”, *Economic Journal*, 92(368): 805–824. doi:10.2307/2232669
+* Loridan, P., 1984, “ϵ-Solutions in Vector Minimization Problems”, *Journal of Optimization Theory and Applications*, 43(2): 265–276. doi:10.1007/BF00936165
+* Luce, R. Duncan and Howard Raiffa, 1957, *Games and Decisions: Introduction and Critical Suvey*, New York: Dover.
+* Marr, D. C., 1982, *Vision*, New York: Freeman.
+* May, Kenneth O., 1954, “Intransitivity, Utility, and the Aggregation of Preference Patterns”, *Econometrica*, 22(1): 1–13. doi:10.2307/1909827
+* Maynard Smith, John, 1982, *Evolution and the Theory of Games*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511806292
+* McBeath, Michael K., Dennis M. Shaffer, and Mary K. Kaiser, 1995, “How Baseball Outfielders Determine Where to Run to Catch Fly Balls”, *Science*, 268(5210): 569–573. doi:10.1126/science.7725104
+* McNamara, John M., Pete C. Trimmer, and Alasdair I. Houston, 2014, “Natural Selection Can Favour \`Irrational’ Behavior”, *Biology Letters*, 10(1): 20130935. doi:10.1098/rsbl.2013.0935
+* Meder, Björn, Ralf Mayrhofer, and Michael R. Waldmann, 2014, “Structure Induction in Diagnostic Causal Reasoning”, *Psychological Review*, 121(3): 277–301. doi:10.1037/a0035944
+* Meehl, Paul, 1954, *Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence*, Minneapolis: Minnesota Press.
+* Mill, John Stuart, 1844, “On the Definition of Political Economy”, reprinted in John M. Robson (ed.), *The Collected Works of John Stuart Mill*, Vol. IV, Toronto: University of Toronto Press.
+* Mongin, Philippe, 2000, “Does Optimization Imply Rationality”, *Synthese*, 124(1–2): 73–111. doi:10.1023/A:1005150001309
+* Nau, Robert, 2006, “The Shape of Incomplete Preferences”, *The Annals of Statistics*, 34(5): 2430–2448. doi:10.1214/009053606000000740
+* Neumann, John von and Oskar Morgenstern, 1944, *Theory of Games and Economic Behavior*, Princeton, NJ: Princeton University Press.
+* Newell, Allen and Herbert A. Simon, 1956, *The Logic Theory Machine: A Complex Information Processing System* (No. P-868), Santa Monica, CA: The Rand Corporation.
+* –––, 1972, *Human Problem Solving*, Englewood Cliffs, NJ: Prentice-Hall.
+* –––, 1976, “Computer Science as Empirical Inquiry: Symbols and Search”, *Communications of the ACM*, 19(3): 113–126. doi:10.1145/360018.360022
+* Neyman, Abraham, 1985, “Bounded Complexity Justifies Cooperation in the Finitely Repeated Prisoners’ Dilemma”, *Economics Letters*, 19(3): 227–229. doi:10.1016/0165-1765(85)90026-6
+* Norton, Michael I., Daniel Mochon, and Dan Ariely, 2012, “The IKEA Effect: When Labor Leads to Love”, *Journal of Consumer Psychology*, 22(3): 453–460. doi:10.1016/j.jcps.2011.08.002
+* Nowak, Martin A. and Robert M. May, 1992, “Evolutionary Games and Spatial Chaos”, *Nature*, 359(6398): 826–829. doi:10.1038/359826a0
+* Oaksford, Mike and Nick Chater, 1994, “A Rational Analysis of the Selection Task as Optimal Data Selection”, *Psychological Review*, 101(4): 608–631. doi:10.1037/0033-295X.101.4.608
+* –––, 2007, *Bayesian Rationality*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198524496.001.0001
+* Ok, Efe A., 2002, “Utility Representation of an Incomplete Preference Relation”, *Journal of Economic Theory*, 104(2): 429–449. doi:10.1006/jeth.2001.2814
+* Osborne, Martin J., 2003, *An Introduction to Game Theory*, Oxford: Oxford University Press.
+* Oswald, Frederick L., Gregory Mitchell, Hart Blanton, James Jaccard, and Philip E. Tetlock, 2013, “Predicting Ethnic and Racial Discrimination: A Meta-Analysis of IAT Criterion Studies.”, *Journal of Personality and Social Psychology*, 105(2): 171–192. doi:10.1037/a0032734
 * Pachur, Thorsten, Peter M. Todd, Gerd Gigerenzer, Lael J. Schooler, and Daniel Goldstein, 2012, “When Is the Recognition Heuristic an Adaptive Tool?” in Todd et al. 2012: 113–143. doi:10.1093/acprof:oso/9780195315448.003.0035
-* Palmer, Stephen E., 1999, _Vision Science_, Cambridge, MA: MIT Press.
-* Papadimitriou, Christos H. and Mihalis Yannakakis, 1994, “On Complexity as Bounded Rationality (Extended Abstract)”, in _Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing - STOC ’94_, Montreal: ACM Press, 726–733. doi:10.1145/195058.195445
-* Parikh, Rohit, 1971, “Existence and Feasibility in Arithmetic”, _Journal of Symbolic Logic_, 36(3): 494–508. doi:10.2307/2269958
-* Payne, John W., James R. Bettman, and Eric J. Johnson, 1988, “Adaptive Strategy Selection in Decision Making.”, _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 14(3): 534–552. doi:10.1037/0278-7393.14.3.534
-* Pedersen, Arthur Paul, 2014, “Comparative Expectations”, _Studia Logica_, 102(4): 811–848. doi:10.1007/s11225-013-9539-7
-* Pedersen, Arthur Paul and Gregory Wheeler, 2014, “Demystifying Dilation”, _Erkenntnis_, 79(6): 1305–1342. doi:10.1007/s10670-013-9531-7
-* –––, 2015, “Dilation, Disintegrations, and Delayed Decisions”, in _Proceedings of the 9th Symposium on Imprecise Probabilities and Their Applications (Isipta)_, Pescara, Italy, pp. 227–236.
-* Peirce, Charles S., 1955, _Philosophical Writings of Peirce_, Justus Buchler (ed.), New York: Dover.
-* Peterson, Cameron R. and Lee Roy Beach, 1967, “Man as an Intuitive Statistician”, _Psychological Bulletin_, 68(1): 29–46. doi:10.1037/h0024722
-* Popper, Karl R., 1959, _The Logic of Scientific Discovery_, London: Routledge.
-* Puranam, Phanish, Nils Stieglitz, Magda Osman, and Madan M. Pillutla, 2015, “Modelling Bounded Rationality in Organizations: Progress and Prospects”, _The Academy of Management Annals_, 9(1): 337–392. doi:10.1080/19416520.2015.1024498
-* Quiggin, John, 1982, “A Theory of Anticipated Utility”, _Journal of Economic Behavior and Organization_, 3(4): 323–343. doi:10.1016/0167-2681(82)90008-7
-* Rabin, Matthew, 2000, “Risk Aversion and Expected-Utility Theory: A Calibration Theorem”, _Econometrica_, 68(5): 1281–1292. doi:10.1111/1468-0262.00158
-* Rapoport, Amnon, Darryl A. Seale, and Andrew M. Colman, 2015, “Is Tit-for-Tat the Answer? On the Conclusions Drawn from Axelrod’s Tournaments”, _PLoS One_, 10(7): e0134128. doi:10.1371/journal.pone.0134128
-* Rapoport, Anatol and A.M. Chammah, 1965, _Prisoner’s Dilemma: A Study in Conflict and Cooperation_, Ann Arbor: University of Michigan Press.
-* Regenwetter, Michel, Jason Dana, and Clintin P. Davis-Stober, 2011, “Transitivity of Preferences”, _Psychological Review_, 118(1): 42–56. doi:10.1037/a0021150
-* Reiter, Ray, 1980, “A Logic for Default Reasoning”, _Artificial Intelligence_, 13(1–2): 81–132. doi:10.1016/0004-3702(80)90014-4
-* Rényi, Alfréd, 1955, “On a New Axiomatic Theory of Probability”, _Acta Mathematica Academiae Scientiarum Hungaricae_, 6(3–4): 285–335. doi:10.1007/BF02024393
-* Rick, Scott, 2011, “Losses, Gains, and Brains: Neuroeconomics Can Help to Answer Open Questions About Loss Aversion”, _Journal of Consumer Psychology_, 21(4): 453–463. doi:10.1016/j.jcps.2010.04.004
+* Palmer, Stephen E., 1999, *Vision Science*, Cambridge, MA: MIT Press.
+* Papadimitriou, Christos H. and Mihalis Yannakakis, 1994, “On Complexity as Bounded Rationality (Extended Abstract)”, in *Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing - STOC ’94*, Montreal: ACM Press, 726–733. doi:10.1145/195058.195445
+* Parikh, Rohit, 1971, “Existence and Feasibility in Arithmetic”, *Journal of Symbolic Logic*, 36(3): 494–508. doi:10.2307/2269958
+* Payne, John W., James R. Bettman, and Eric J. Johnson, 1988, “Adaptive Strategy Selection in Decision Making.”, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 14(3): 534–552. doi:10.1037/0278-7393.14.3.534
+* Pedersen, Arthur Paul, 2014, “Comparative Expectations”, *Studia Logica*, 102(4): 811–848. doi:10.1007/s11225-013-9539-7
+* Pedersen, Arthur Paul and Gregory Wheeler, 2014, “Demystifying Dilation”, *Erkenntnis*, 79(6): 1305–1342. doi:10.1007/s10670-013-9531-7
+* –––, 2015, “Dilation, Disintegrations, and Delayed Decisions”, in *Proceedings of the 9th Symposium on Imprecise Probabilities and Their Applications (Isipta)*, Pescara, Italy, pp. 227–236.
+* Peirce, Charles S., 1955, *Philosophical Writings of Peirce*, Justus Buchler (ed.), New York: Dover.
+* Peterson, Cameron R. and Lee Roy Beach, 1967, “Man as an Intuitive Statistician”, *Psychological Bulletin*, 68(1): 29–46. doi:10.1037/h0024722
+* Popper, Karl R., 1959, *The Logic of Scientific Discovery*, London: Routledge.
+* Puranam, Phanish, Nils Stieglitz, Magda Osman, and Madan M. Pillutla, 2015, “Modelling Bounded Rationality in Organizations: Progress and Prospects”, *The Academy of Management Annals*, 9(1): 337–392. doi:10.1080/19416520.2015.1024498
+* Quiggin, John, 1982, “A Theory of Anticipated Utility”, *Journal of Economic Behavior and Organization*, 3(4): 323–343. doi:10.1016/0167-2681(82)90008-7
+* Rabin, Matthew, 2000, “Risk Aversion and Expected-Utility Theory: A Calibration Theorem”, *Econometrica*, 68(5): 1281–1292. doi:10.1111/1468-0262.00158
+* Rapoport, Amnon, Darryl A. Seale, and Andrew M. Colman, 2015, “Is Tit-for-Tat the Answer? On the Conclusions Drawn from Axelrod’s Tournaments”, *PLoS One*, 10(7): e0134128. doi:10.1371/journal.pone.0134128
+* Rapoport, Anatol and A.M. Chammah, 1965, *Prisoner’s Dilemma: A Study in Conflict and Cooperation*, Ann Arbor: University of Michigan Press.
+* Regenwetter, Michel, Jason Dana, and Clintin P. Davis-Stober, 2011, “Transitivity of Preferences”, *Psychological Review*, 118(1): 42–56. doi:10.1037/a0021150
+* Reiter, Ray, 1980, “A Logic for Default Reasoning”, *Artificial Intelligence*, 13(1–2): 81–132. doi:10.1016/0004-3702(80)90014-4
+* Rényi, Alfréd, 1955, “On a New Axiomatic Theory of Probability”, *Acta Mathematica Academiae Scientiarum Hungaricae*, 6(3–4): 285–335. doi:10.1007/BF02024393
+* Rick, Scott, 2011, “Losses, Gains, and Brains: Neuroeconomics Can Help to Answer Open Questions About Loss Aversion”, *Journal of Consumer Psychology*, 21(4): 453–463. doi:10.1016/j.jcps.2010.04.004
 * Rieskamp, Jörg and Anja Dieckmann, 2012, “Redundancy: Environment Structure That Simple Heuristics Can Exploit”, in Todd et al. 2012: 187–215. doi:10.1093/acprof:oso/9780195315448.003.0056
-* Rubinstein, Ariel, 1986, “Finite Automata Play the Repeated Prisoner’s Dilemma”, _Journal of Economic Theory_, 39(1): 83–96. doi:10.1016/0022-0531(86)90021-9
-* Russell, Stuart J., and Subramanian, Devika, 1995, “Provably Bounded-Optimal Agents”, _Journal of Artificial Intelligence Research_, 2(1): 575–609. doi:10.1613/jair.133
-* Samuels, Richard, Stephen Stich, and Michael Bishop, 2002, “Ending the Rationality Wars: How to Make Disputes About Human Rationality Disappear”, in _Common Sense, Reasoning, and Rationality_, Renee Elio (ed.), New York: Oxford University Press, 236–268. doi:10.1093/0195147669.003.0011
-* Samuelson, Paul, 1947, _Foundations of Economic Analysis_, Cambridge, MA: Harvard University Press.
-* Santos, Francisco C., Marta D. Santos, and Jorge M. Pacheco, 2008, “Social Diversity Promotes the Emergence of Cooperation in Public Goods Games”, _Nature_, 454(7201): 213–216. doi:10.1038/nature06940
-* Savage, Leonard J., 1954, _Foundations of Statistics_, New York: Wiley.
-* –––, 1967, “Difficulties in the Theory of Personal Probability”, _Philosophy of Science_, 34(4): 305–310. doi:10.1086/288168
-* Schervish, Mark J., Teddy Seidenfeld, and Joseph B. Kadane, 2012, “Measures of Incoherence: How Not to Gamble If You Must, with Discussion”, in José Bernardo, A. Phlip Dawid, James O. Berger, Mike West, David Heckerman, M.J. Bayarri, & Adrian F. M. Smith (eds.), _Bayesian Statistics 7: Proceedings of the 7th Valencia International Meeting_, Oxford: Clarendon Press, pp. 385–402.
-* Schick, Frederic, 1986, “Dutch Bookies and Money Pumps”, _Journal of Philosophy_, 83(2): 112–119. doi:10.2307/2026054
-* Schmitt, Michael, and Laura Martignon, 2006, “On the Complexity of Learning Lexicographic Strategies”, _Journal of Machine Learning Research_, 7(Jan): 55–83. \[[Schmitt & Martignon 2006 available online](http://www.jmlr.org/papers/v7/schmitt06a.html)]
-* Schooler, Lael J. and Ralph Hertwig, 2005, “How Forgetting Aids Heuristic Inference”, _Psychological Review_, 112(3): 610–628. doi:10.1037/0033-295X.112.3.610
-* Seidenfeld, Teddy, Mark J. Schervish, and Joseph B. Kadane, 1995, “A Representation of Partially Ordered Preferences”, _The Annals of Statistics_, 23(6): 2168–2217. doi:10.1214/aos/1034713653
-* –––, 2012, “What Kind of Uncertainty Is That? Using Personal Probability for Expressing One’s Thinking about Logical and Mathematical Propositions”, _Journal of Philosophy_, 109(8–9): 516–533. doi:10.5840/jphil20121098/925
-* Selten, Reinhard, 1998, “Aspiration Adaptation Theory”, _Journal of Mathematical Psychology_, 42(2–3): 191–214. doi:10.1006/jmps.1997.1205
-* Simon, Herbert A., 1947, _Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization_, first edition, New York: Macmillan.
-* –––, 1955a, “A Behavioral Model of Rational Choice”, _Quarterly Journal of Economics_, 69(1): 99–118. doi:10.2307/1884852
-* –––, 1955b, “On a Class of Skew Distribution Functions”, _Biometrika_, 42(3–4): 425–440. doi:10.1093/biomet/42.3-4.425
-* –––, 1957a, _Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization_, second edition, New York: Macmillan.
-* –––, 1957b, _Models of Man_, New York: John Wiley.
-* –––, 1976, “From Substantive to Procedural Rationality”, in _25 Years of Economic Theory_, T. J. Kastelein, S. K. Kuipers, W. A. Nijenhuis, and G. R. Wagenaar (eds.), Boston, MA: Springer US, 65–86. doi:10.1007/978-1-4613-4367-7\*6
-* Skyrms, Brian, 2003, _The Stag Hunt and the Evolution of Social Structure_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139165228
-* Sorensen, Roy A., 1991, “Rationality as an Absolute Concept”, _Philosophy_, 66(258): 473–486. doi:10.1017/S0031819100065128
-* Spirtes, Peter, 2010, “Introduction to Causal Inference”, _Journal of Machine Learning Research_, 11(May): 1643–1662. \[[Spirtes 2010 available online](http://www.jmlr.org/papers/v11/spirtes10a.html)]
-* Stalnaker, Robert, 1991, “The Problem of Logical Omniscience, I”, _Synthese_, 89(3): 425–440. doi:10.1007/BF00413506
-* Stanovich, Keith E. and Richard F. West, 2000, “Individual Differences in Reasoning: Implications for the Rationality Debate?” _Behavioral and Brain Sciences_, 23(5): 645–65.
-* Stein, Edward, 1996, _Without Good Reason: The Rationality Debate in Philosophy and Cognitive Science_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198237730.001.0001
-* Stevens, Jeffrey R., Jenny Volstorf, Lael J. Schooler, and Jörg Rieskamp, 2011, “Forgetting Constrains the Emergence of Cooperative Decision Strategies”, _Frontiers in Psychology_, 1: article 235. doi:10.3389/fpsyg.2010.00235
-* Stigler, George J., 1961, “The Economics of Information”, _Journal of Political Economy_, 69(3): 213–225. doi:10.1086/258464
-* Tarski, Alfred, Andrzej Mostowski, and Raphael M. Robinson, 1953, _Undecidable Theories_, Amsterdam: North-Holland Publishing Co.
-* Thaler, Richard H., 1980, “Toward a Positive Theory of Consumer Choice”, _Journal of Economic Behavior and Organization_, 1(1): 39–60. doi:10.1016/0167-2681(80)90051-7
-* Thaler, Richard H. and Cass R. Sustein, 2008, _Nudge: Improving Decisions About Health, Wealth, and Happiness_, New Haven: Yale University Press.
+* Rubinstein, Ariel, 1986, “Finite Automata Play the Repeated Prisoner’s Dilemma”, *Journal of Economic Theory*, 39(1): 83–96. doi:10.1016/0022-0531(86)90021-9
+* Russell, Stuart J., and Subramanian, Devika, 1995, “Provably Bounded-Optimal Agents”, *Journal of Artificial Intelligence Research*, 2(1): 575–609. doi:10.1613/jair.133
+* Samuels, Richard, Stephen Stich, and Michael Bishop, 2002, “Ending the Rationality Wars: How to Make Disputes About Human Rationality Disappear”, in *Common Sense, Reasoning, and Rationality*, Renee Elio (ed.), New York: Oxford University Press, 236–268. doi:10.1093/0195147669.003.0011
+* Samuelson, Paul, 1947, *Foundations of Economic Analysis*, Cambridge, MA: Harvard University Press.
+* Santos, Francisco C., Marta D. Santos, and Jorge M. Pacheco, 2008, “Social Diversity Promotes the Emergence of Cooperation in Public Goods Games”, *Nature*, 454(7201): 213–216. doi:10.1038/nature06940
+* Savage, Leonard J., 1954, *Foundations of Statistics*, New York: Wiley.
+* –––, 1967, “Difficulties in the Theory of Personal Probability”, *Philosophy of Science*, 34(4): 305–310. doi:10.1086/288168
+* Schervish, Mark J., Teddy Seidenfeld, and Joseph B. Kadane, 2012, “Measures of Incoherence: How Not to Gamble If You Must, with Discussion”, in José Bernardo, A. Phlip Dawid, James O. Berger, Mike West, David Heckerman, M.J. Bayarri, & Adrian F. M. Smith (eds.), *Bayesian Statistics 7: Proceedings of the 7th Valencia International Meeting*, Oxford: Clarendon Press, pp. 385–402.
+* Schick, Frederic, 1986, “Dutch Bookies and Money Pumps”, *Journal of Philosophy*, 83(2): 112–119. doi:10.2307/2026054
+* Schmitt, Michael, and Laura Martignon, 2006, “On the Complexity of Learning Lexicographic Strategies”, *Journal of Machine Learning Research*, 7(Jan): 55–83. \[[Schmitt & Martignon 2006 available online](http://www.jmlr.org/papers/v7/schmitt06a.html)]
+* Schooler, Lael J. and Ralph Hertwig, 2005, “How Forgetting Aids Heuristic Inference”, *Psychological Review*, 112(3): 610–628. doi:10.1037/0033-295X.112.3.610
+* Seidenfeld, Teddy, Mark J. Schervish, and Joseph B. Kadane, 1995, “A Representation of Partially Ordered Preferences”, *The Annals of Statistics*, 23(6): 2168–2217. doi:10.1214/aos/1034713653
+* –––, 2012, “What Kind of Uncertainty Is That? Using Personal Probability for Expressing One’s Thinking about Logical and Mathematical Propositions”, *Journal of Philosophy*, 109(8–9): 516–533. doi:10.5840/jphil20121098/925
+* Selten, Reinhard, 1998, “Aspiration Adaptation Theory”, *Journal of Mathematical Psychology*, 42(2–3): 191–214. doi:10.1006/jmps.1997.1205
+* Simon, Herbert A., 1947, *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization*, first edition, New York: Macmillan.
+* –––, 1955a, “A Behavioral Model of Rational Choice”, *Quarterly Journal of Economics*, 69(1): 99–118. doi:10.2307/1884852
+* –––, 1955b, “On a Class of Skew Distribution Functions”, *Biometrika*, 42(3–4): 425–440. doi:10.1093/biomet/42.3-4.425
+* –––, 1957a, *Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization*, second edition, New York: Macmillan.
+* –––, 1957b, *Models of Man*, New York: John Wiley.
+* –––, 1976, “From Substantive to Procedural Rationality”, in *25 Years of Economic Theory*, T. J. Kastelein, S. K. Kuipers, W. A. Nijenhuis, and G. R. Wagenaar (eds.), Boston, MA: Springer US, 65–86. doi:10.1007/978-1-4613-4367-7\*6
+* Skyrms, Brian, 2003, *The Stag Hunt and the Evolution of Social Structure*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139165228
+* Sorensen, Roy A., 1991, “Rationality as an Absolute Concept”, *Philosophy*, 66(258): 473–486. doi:10.1017/S0031819100065128
+* Spirtes, Peter, 2010, “Introduction to Causal Inference”, *Journal of Machine Learning Research*, 11(May): 1643–1662. \[[Spirtes 2010 available online](http://www.jmlr.org/papers/v11/spirtes10a.html)]
+* Stalnaker, Robert, 1991, “The Problem of Logical Omniscience, I”, *Synthese*, 89(3): 425–440. doi:10.1007/BF00413506
+* Stanovich, Keith E. and Richard F. West, 2000, “Individual Differences in Reasoning: Implications for the Rationality Debate?” *Behavioral and Brain Sciences*, 23(5): 645–65.
+* Stein, Edward, 1996, *Without Good Reason: The Rationality Debate in Philosophy and Cognitive Science*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780198237730.001.0001
+* Stevens, Jeffrey R., Jenny Volstorf, Lael J. Schooler, and Jörg Rieskamp, 2011, “Forgetting Constrains the Emergence of Cooperative Decision Strategies”, *Frontiers in Psychology*, 1: article 235. doi:10.3389/fpsyg.2010.00235
+* Stigler, George J., 1961, “The Economics of Information”, *Journal of Political Economy*, 69(3): 213–225. doi:10.1086/258464
+* Tarski, Alfred, Andrzej Mostowski, and Raphael M. Robinson, 1953, *Undecidable Theories*, Amsterdam: North-Holland Publishing Co.
+* Thaler, Richard H., 1980, “Toward a Positive Theory of Consumer Choice”, *Journal of Economic Behavior and Organization*, 1(1): 39–60. doi:10.1016/0167-2681(80)90051-7
+* Thaler, Richard H. and Cass R. Sustein, 2008, *Nudge: Improving Decisions About Health, Wealth, and Happiness*, New Haven: Yale University Press.
 * Todd, Peter M. and Geoffrey F. Miller, 1999, “From Pride and Prejudice to Persuasion: Satisficing in Mate Search”, in Gigerenzer et al. 1999: 287–308.
-* Todd, Peter M., Gerd Gigerenzer, and ABC Research Group (eds.), 2012, _Ecological Rationality: Intelligence in the World_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195315448.001.0001
-* Trivers, Robert L., 1971, “The Evolution of Reciprocal Altruism”, _The Quarterly Review of Biology_, 46(1): 35–57. doi:10.1086/406755
-* Trommershäuser, Julia, Laurence T. Maloney, and Michael S. Landy, 2003, “Statistical Decision Theory and Trade-Offs in the Control of Motor Response”, _Spatial Vision_, 16(3–4): 255–275. doi:10.1163/156856803322467527
-* Turner, Brandon M., Christian A. Rodriguez, Tony M. Norcia, Samuel M. McClure, and Mark Steyvers, 2016, “Why More Is Better: Simultaneous Modeling of EEG, FMRI, and Behavioral Data”, _NeuroImage_, 128(March): 96–115. doi:10.1016/j.neuroimage.2015.12.030
-* Tversky, Amos, 1969, “Intransitivity of Preferences”, _Psychological Review_, 76(1): 31–48. doi:10.1037/h0026750
-* Tversky, Amos and Daniel Kahneman, 1973, “Availability: A Heuristic for Judging Frequency and Probability”, _Cognitive Psychology_, 5(2): 207–232. doi:10.1016/0010-0285(73)90033-9
-* –––, 1974, “Judgment Under Uncertainty: Heuristics and Biases”, _Science_, 185(4157): 1124–1131. doi:10.1126/science.185.4157.1124
-* –––, 1977, _Causal Schemata in Judgments Under Uncertainty_ (No. TR-1060-77-10), Defense Advanced Research Projects Agency (DARPA).
-* –––, 1981, “The Framing of Decisions and the Psychology of Choice”, _Science_, 211(4481): 483–458. doi:10.1126/science.7455683
-* –––, 1983, “Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment”, _Psychological Review_, 90(4): 293–315. doi:10.1037/0033-295X.90.4.293
-* –––, 1992, “Advances in Prospect Theory: Cumulative Representation of Uncertainty”, _Journal of Risk and Uncertainty_, 5(4): 297–323. doi:10.1007/BF00122574
-* Vranas, Peter B.M., 2000, “Gigerenzer’s Normative Critique of Kahneman and Tversky”, _Cognition_, 76(3): 179–193. doi:10.1016/S0010-0277(99)00084-0
-* Wakker, Peter P., 2010, _Prospect Theory: For Risk and Ambiguity_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511779329
-* Waldmann, Michael R., Keith J. Holyoak, and Angela Fratianne, 1995, “Causal Models and the Acquisition of Category Structure.”, _Journal of Experimental Psychology: General_, 124(2): 181–206. doi:10.1037/0096-3445.124.2.181
-* Walley, Peter, 1991, _Statistical Reasoning with Imprecise Probabilities_, London: Chapman; Hall.
-* Weber, Max, 1905, _The Protestant Ethic and the Spirit of Capitalism_, London: Allen; Unwin.
-* Wheeler, Gregory, 2004, “A Resource Bounded Default Logic”, in James Delgrande & Torsten Schaub (eds.), _10th International Workshop on Non-Monotonic Reasoning (Nmr 2004)_, Whistler, Canada, pp. 416–422.
-* –––, 2017, “Machine Epistemology and Big Data”, in Lee McIntyre & Alex Rosenberg (eds.), _The Routledge Companion to Philosophy of Social Science_, Routledge, pp. 321–329.
-* White, D. J., 1986, “Epsilon Efficiency”, _Journal of Optimization Theory and Applications_, 49(2): 319–337. doi:10.1007/BF00940762
-* Yechiam, Eldad and Guy Hochman, 2014, “Loss Attention in a Dual-Task Setting”, _Psychological Science_, 25(2): 494–502. doi:10.1177/0956797613510725
-* Yule, G. Udny, 1925, “A Mathematical Theory of Evolution, Based on the Conclusions of Dr. J. C. Williss, F.R.S.”, _Philosophical Transactions of the Royal Society of London. Series B, Containing Papers of a Biological Character_, 213(402–410): 21–87. doi:10.1098/rstb.1925.0002
-* Zaffalon, Marco and Enrique Miranda, 2017, “Axiomatising Incomplete Preferences through Sets of Desirable Gambles”, _Journal of Artificial Intelligence Research_, 60(December): 1057–1126. doi:10.1613/jair.5230
+* Todd, Peter M., Gerd Gigerenzer, and ABC Research Group (eds.), 2012, *Ecological Rationality: Intelligence in the World*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195315448.001.0001
+* Trivers, Robert L., 1971, “The Evolution of Reciprocal Altruism”, *The Quarterly Review of Biology*, 46(1): 35–57. doi:10.1086/406755
+* Trommershäuser, Julia, Laurence T. Maloney, and Michael S. Landy, 2003, “Statistical Decision Theory and Trade-Offs in the Control of Motor Response”, *Spatial Vision*, 16(3–4): 255–275. doi:10.1163/156856803322467527
+* Turner, Brandon M., Christian A. Rodriguez, Tony M. Norcia, Samuel M. McClure, and Mark Steyvers, 2016, “Why More Is Better: Simultaneous Modeling of EEG, FMRI, and Behavioral Data”, *NeuroImage*, 128(March): 96–115. doi:10.1016/j.neuroimage.2015.12.030
+* Tversky, Amos, 1969, “Intransitivity of Preferences”, *Psychological Review*, 76(1): 31–48. doi:10.1037/h0026750
+* Tversky, Amos and Daniel Kahneman, 1973, “Availability: A Heuristic for Judging Frequency and Probability”, *Cognitive Psychology*, 5(2): 207–232. doi:10.1016/0010-0285(73)90033-9
+* –––, 1974, “Judgment Under Uncertainty: Heuristics and Biases”, *Science*, 185(4157): 1124–1131. doi:10.1126/science.185.4157.1124
+* –––, 1977, *Causal Schemata in Judgments Under Uncertainty* (No. TR-1060-77-10), Defense Advanced Research Projects Agency (DARPA).
+* –––, 1981, “The Framing of Decisions and the Psychology of Choice”, *Science*, 211(4481): 483–458. doi:10.1126/science.7455683
+* –––, 1983, “Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment”, *Psychological Review*, 90(4): 293–315. doi:10.1037/0033-295X.90.4.293
+* –––, 1992, “Advances in Prospect Theory: Cumulative Representation of Uncertainty”, *Journal of Risk and Uncertainty*, 5(4): 297–323. doi:10.1007/BF00122574
+* Vranas, Peter B.M., 2000, “Gigerenzer’s Normative Critique of Kahneman and Tversky”, *Cognition*, 76(3): 179–193. doi:10.1016/S0010-0277(99)00084-0
+* Wakker, Peter P., 2010, *Prospect Theory: For Risk and Ambiguity*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511779329
+* Waldmann, Michael R., Keith J. Holyoak, and Angela Fratianne, 1995, “Causal Models and the Acquisition of Category Structure.”, *Journal of Experimental Psychology: General*, 124(2): 181–206. doi:10.1037/0096-3445.124.2.181
+* Walley, Peter, 1991, *Statistical Reasoning with Imprecise Probabilities*, London: Chapman; Hall.
+* Weber, Max, 1905, *The Protestant Ethic and the Spirit of Capitalism*, London: Allen; Unwin.
+* Wheeler, Gregory, 2004, “A Resource Bounded Default Logic”, in James Delgrande & Torsten Schaub (eds.), *10th International Workshop on Non-Monotonic Reasoning (Nmr 2004)*, Whistler, Canada, pp. 416–422.
+* –––, 2017, “Machine Epistemology and Big Data”, in Lee McIntyre & Alex Rosenberg (eds.), *The Routledge Companion to Philosophy of Social Science*, Routledge, pp. 321–329.
+* White, D. J., 1986, “Epsilon Efficiency”, *Journal of Optimization Theory and Applications*, 49(2): 319–337. doi:10.1007/BF00940762
+* Yechiam, Eldad and Guy Hochman, 2014, “Loss Attention in a Dual-Task Setting”, *Psychological Science*, 25(2): 494–502. doi:10.1177/0956797613510725
+* Yule, G. Udny, 1925, “A Mathematical Theory of Evolution, Based on the Conclusions of Dr. J. C. Williss, F.R.S.”, *Philosophical Transactions of the Royal Society of London. Series B, Containing Papers of a Biological Character*, 213(402–410): 21–87. doi:10.1098/rstb.1925.0002
+* Zaffalon, Marco and Enrique Miranda, 2017, “Axiomatising Incomplete Preferences through Sets of Desirable Gambles”, *Journal of Artificial Intelligence Research*, 60(December): 1057–1126. doi:10.1613/jair.5230
 
 ## Academic Tools
 
@@ -790,7 +788,7 @@ Jarvstad 等人（2013 年）通过设计以下任务探讨了感知-认知差�
 
 * Brickhill, Hazel and Leon Horsten, 2016, “Popper Functions, Lexicographical Probability, and Non-Archimedean Probability”, manuscript, 9 August 2016, [ArXiv:1608.02850v1](https://arxiv.org/abs/1608.02850).
 * Forscher, Patrick, Calvin K. Lai, Jordan R. Axt, Charles R. Ebersole, Michelle Herman, Patricia G. Devine, and Brian A. Nosek, 2017, “A Meta-Analysis of Procedures to Change Implicit Measures”, [PsyArXiv:dv8tu](https://psyarxiv.com/dv8tu/).
-* Kahneman, Daniel, 2017, “Reply to Schimmack, Heene, and Kesavan’s ‘Reconstruction of a Train Wreck: How Priming Research Went Off the Rails’”, blog: _Replicability-Index_, Ulrich Schimmack (ed.), 2 February 2017, comment on 14 February 2017. URL = [https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/comment-page-1/#comment-1454](https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/comment-page-1/#comment-1454)
+* Kahneman, Daniel, 2017, “Reply to Schimmack, Heene, and Kesavan’s ‘Reconstruction of a Train Wreck: How Priming Research Went Off the Rails’”, blog: *Replicability-Index*, Ulrich Schimmack (ed.), 2 February 2017, comment on 14 February 2017. URL = [https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/comment-page-1/#comment-1454](https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/comment-page-1/#comment-1454)
 
 ## Related Entries
 
@@ -801,4 +799,4 @@ Jarvstad 等人（2013 年）通过设计以下任务探讨了感知-认知差�
 Thanks to Sebastian Ebert, Ulrike Hahn, Ralph Hertwig, Konstantinos Katsikopoulos, Jan Nagler, Christine Tiefensee, Conor Mayo-Wilson, and an anonymous referee for helpful comments on earlier drafts of this article.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Gregory Wheeler](http://gregorywheeler.org/) <[_g.wheeler@fs.de_](mailto:g%2ewheeler%40fs%2ede)>
+[Gregory Wheeler](http://gregorywheeler.org/) <[*g.wheeler@fs.de*](mailto:g%2ewheeler%40fs%2ede)>

@@ -1,11 +1,11 @@
 # 博弈论的认识论基础 epistemic foundations of (Eric Pacuit and Olivier Roy)
 
-_首次发布于 2015 年 3 月 13 日_
+*首次发布于 2015 年 3 月 13 日*
 
 博弈论的基础工作旨在明确阐明该学科基本概念所依据的假设。非合作博弈论是研究在战略互动情境中的个体、理性决策行为的学科。本条目介绍了非合作博弈论的认知基础（这个研究领域被称为_认知博弈论_）。
 
 认知博弈论将博弈中的理性决策视为与在不确定性下的理性决策本质上没有不同。正如决策理论（Peterson 2009）中所述，在博弈中做出理性选择就是根据自己的信念或信息选择“最佳”行动。在决策问题中，决策者的信念是关于一种被动的自然状态，这种状态决定了她的行动的后果。在博弈中，一个人的决策后果取决于_其他_参与情况的代理人的选择（可能还取决于自然状态）。意识到这一点——即，自己正在与试图根据自己的信念选择最佳行动的其他代理人进行互动——将_高阶信息_纳入了考虑范围。玩家的信念不再仅仅是关于被动的或外部环境。它们涉及到其他玩家的选择_和信息_。一个人对对手的期望取决于她认为其他人对她的期望，而其他人对一个给定玩家的期望取决于他们认为她对他们的期望是什么。 本条目概述了在广义决策理论视角下涉及理性决策的游戏中出现的问题。在对游戏中的信息进行一些一般性评论之后，我们介绍了在认识论博弈论和认识论逻辑中发展的形式工具，这些工具已被用于理解互动决策中高阶信息的作用。然后，我们展示了这些工具如何用于表征已知的游戏“解概念”，以便在特定信息背景下进行理性决策。在此过程中，我们强调了该领域出现的一些哲学问题。
- 
+
 ***
 
 ## 1. 游戏的认识论视角
@@ -74,11 +74,11 @@ BobAnn
 
 ### 1.3 决策制定阶段
 
-博弈论文献通常将决策过程分为三个阶段：_ex ante_、_ex interim_ 和 _ex post_。一个极端是 _ex ante_ 阶段，此时尚未做出任何决定。另一个极端是 _ex post_ 阶段，在这个阶段，所有玩家的选择都是公开的。在这两个极端之间是 _ex interim_ 阶段，在这个阶段，玩家已经做出了决定，但他们仍然不知道其他玩家的决定和意图。
+博弈论文献通常将决策过程分为三个阶段：*ex ante*、*ex interim* 和 *ex post*。一个极端是 *ex ante* 阶段，此时尚未做出任何决定。另一个极端是 *ex post* 阶段，在这个阶段，所有玩家的选择都是公开的。在这两个极端之间是 *ex interim* 阶段，在这个阶段，玩家已经做出了决定，但他们仍然不知道其他玩家的决定和意图。
 
-这些区分并不是要求严格划分的。相反，它们描述了决策过程中信息披露的各个阶段。在 _ex-ante_ 阶段，除了游戏的结构、参与者以及可能（但不一定）一些代理人的特征之外，几乎什么都不知道。在 _ex-post_ 阶段，游戏基本上已经结束：所有玩家都已经做出了决定，这些决定现在都是不可撤销的。这并不意味着所有的不确定性都消失了，因为一个代理人可能仍然不确定其他人究竟对她期望什么。在这两个极端阶段之间有着一系列信息披露状态，我们称之为“_ex-interim_”阶段。这些阶段的共同之处在于代理人已经做出了_一个_决定，尽管不一定是不可撤销的。
+这些区分并不是要求严格划分的。相反，它们描述了决策过程中信息披露的各个阶段。在 *ex-ante* 阶段，除了游戏的结构、参与者以及可能（但不一定）一些代理人的特征之外，几乎什么都不知道。在 *ex-post* 阶段，游戏基本上已经结束：所有玩家都已经做出了决定，这些决定现在都是不可撤销的。这并不意味着所有的不确定性都消失了，因为一个代理人可能仍然不确定其他人究竟对她期望什么。在这两个极端阶段之间有着一系列信息披露状态，我们称之为“*ex-interim*”阶段。这些阶段的共同之处在于代理人已经做出了_一个_决定，尽管不一定是不可撤销的。
 
-在本条目中，我们关注决策过程的 _ex interim_ 阶段。这与很多关于博弈论认知基础的文献一致，因为它允许直接评估代理人对对手选择的期望的理性性。关注 _ex interim_ 阶段确实引发了一些有趣的问题，比如关于玩家的策略选择、Stalnaker（1999）所称的“主动知识”以及玩家对其他人的选择的“被动知识”之间可能存在的_相关性_。关于一个玩家在得知自己没有“理性”选择后应该如何反应、最终修改自己的决定，这是一个有趣而重要的问题，但我们在本条目中没有讨论。需要注意的是，这个问题与一个玩家在得知_其他人_没有选择理性时应该如何修正他们的信念的问题是不同的。在依次选择的游戏中，这第二个问题是非常相关的，将在[第4.2.3节](https://plato.stanford.edu/entries/epistemic-game/#ComKnoRatWitBacInd)中讨论。
+在本条目中，我们关注决策过程的 *ex interim* 阶段。这与很多关于博弈论认知基础的文献一致，因为它允许直接评估代理人对对手选择的期望的理性性。关注 *ex interim* 阶段确实引发了一些有趣的问题，比如关于玩家的策略选择、Stalnaker（1999）所称的“主动知识”以及玩家对其他人的选择的“被动知识”之间可能存在的_相关性_。关于一个玩家在得知自己没有“理性”选择后应该如何反应、最终修改自己的决定，这是一个有趣而重要的问题，但我们在本条目中没有讨论。需要注意的是，这个问题与一个玩家在得知_其他人_没有选择理性时应该如何修正他们的信念的问题是不同的。在依次选择的游戏中，这第二个问题是非常相关的，将在[第4.2.3节](https://plato.stanford.edu/entries/epistemic-game/#ComKnoRatWitBacInd)中讨论。
 
 ### 1.4 不完全信息
 
@@ -161,7 +161,7 @@ Ui(m)=∑s∈Πi∈NSim(s)⋅ui(s)
 
 ### 2.2 关系模型
 
-我们从对哲学逻辑学家（van Benthem 2010）和计算机科学家（Fagin等，1995）熟悉的模型开始。这些模型是由罗伯特·奥曼（Robert Aumann）在他的开创性论文《不同意就别再争了》（Agreeing to Disagree）中引入到博弈论中的（参见Vanderschraaf & Sillari，2009，第2.3节，讨论了这一结果）。首先，一些术语：假设 W 是状态或可能世界的集合，让我们将任何子集 E⊆W 称为 _事件_ 或 _命题_。给定事件 E⊆W 和 F⊆W，我们使用标准的集合论符号表示交集（E∩F，读作“E 和 F”）、并集（E∪F，读作“E 或 F”）和（相对）补集（−E，读作“非 E”）。我们说事件 E⊆W 在状态 w 上发生，如果 w∈E。这些术语对于研究以下模型至关重要。
+我们从对哲学逻辑学家（van Benthem 2010）和计算机科学家（Fagin等，1995）熟悉的模型开始。这些模型是由罗伯特·奥曼（Robert Aumann）在他的开创性论文《不同意就别再争了》（Agreeing to Disagree）中引入到博弈论中的（参见Vanderschraaf & Sillari，2009，第2.3节，讨论了这一结果）。首先，一些术语：假设 W 是状态或可能世界的集合，让我们将任何子集 E⊆W 称为 *事件* 或 *命题*。给定事件 E⊆W 和 F⊆W，我们使用标准的集合论符号表示交集（E∩F，读作“E 和 F”）、并集（E∪F，读作“E 或 F”）和（相对）补集（−E，读作“非 E”）。我们说事件 E⊆W 在状态 w 上发生，如果 w∈E。这些术语对于研究以下模型至关重要。
 
 **定义 2.1（认知模型）** 假设 G 是一个战略博弈，S 是 G 的策略剖面的集合，N 是玩家的集合。一个**基于 S 和 N 的认知模型** 是一个三元组 ⟨W,{Πi}i∈N,σ⟩，其中 W 是一个非空集合，对于每个 i∈N，Πi 是 W 上的一个分割\[[7](https://plato.stanford.edu/entries/epistemic-game/notes.html#7)]，σ:W→S。
 
@@ -187,10 +187,10 @@ Ki(E)={w∣Πi(w)⊆E}
 
 BobAnn
 
-|     | _l_ | _r_ |
+|     | *l* | *r* |
 | --- | --- | --- |
-| _u_ | 3,3 | 0,0 |
-| _d_ | 0,0 | 1,1 |
+| *u* | 3,3 | 0,0 |
+| *d* | 0,0 | 1,1 |
 
 图 4：安和鲍勃之间的战略协调游戏
 
@@ -233,7 +233,7 @@ Plausibility Orderings
 
 \*\* 信念的一个关键方面尚未在上述模型中得到体现，即在新信息的存在下，它们是可修订的。虽然关于“AGM”风格的信念修订理论有大量文献（Alchourrón, Gärdenfors, & Makinson 1985），但我们关注的是如何扩展认知模型，以表示更柔和、可修订的信息态度。标准方法是为每个代理人包括一个可信度排序：一个预序（自反和传递），表示为⪯i⊆W×W。如果 w⪯iv，我们说“玩家 i 认为 w 至少和 v 一样可信”。对于事件 X⊆W，让\*\*
 
-A key aspect of beliefs which is not yet represented in the above models is that they are _revisable_ in the presence of new information. While there is an extensive literature on the theory of belief revision in the “AGM” style (Alchourrón, Gärdenfors, & Makinson 1985), we focus on how to extend an epistemic model with a representation of softer, revisable informational attitudes. The standard approach is to include a _plausibility ordering_ for each agent: a preorder (reflexive and transitive) denoted ⪯i⊆W×W. If w⪯iv we say “player i considers w at least as plausible as v.” For an event X⊆W, let
+A key aspect of beliefs which is not yet represented in the above models is that they are *revisable* in the presence of new information. While there is an extensive literature on the theory of belief revision in the “AGM” style (Alchourrón, Gärdenfors, & Makinson 1985), we focus on how to extend an epistemic model with a representation of softer, revisable informational attitudes. The standard approach is to include a *plausibility ordering* for each agent: a preorder (reflexive and transitive) denoted ⪯i⊆W×W. If w⪯iv we say “player i considers w at least as plausible as v.” For an event X⊆W, let
 
 Min⪯i(X)={v∈W | v⪯iw for all w∈X }
 
@@ -253,7 +253,7 @@ X⪯iY 当且仅当对于所有的 x∈X 和 y∈Y，有 x⪯iy
 假设 M=⟨W,{Πi}i∈N,{⪯i}i∈N,σ⟩ 是一个认知-可信度模型，考虑以下运算符（形式上，每个运算符都是从 ℘(W) 到 ℘(W) 的函数，类似于上面定义的知识运算符）：
 
 * 信念：Bi(E)={w∣Min⪯i(Πi(w))⊆E} 这是通常的信念概念，满足上述讨论的标准属性（例如，一致性，积极和消极内省）。
-* _Robust Belief:_ Bri(E)={w∣v∈E, for all v with w⪯iv} 因此，如果 E 在所有比当前世界更有可能的世界中都是真实的，那么 E 就是强大的信念。这种更强的信念概念有些作者也称之为确定性（参见 Shoham & Leyton-Brown 2008: sec. 13.7）。
+* *Robust Belief:* Bri(E)={w∣v∈E, for all v with w⪯iv} 因此，如果 E 在所有比当前世界更有可能的世界中都是真实的，那么 E 就是强大的信念。这种更强的信念概念有些作者也称之为确定性（参见 Shoham & Leyton-Brown 2008: sec. 13.7）。
 *
 * 强信念：\* Bsi(E)={w∣E∩Πi(w)≠∅ and E∩Πi(w)⪯i−E∩Πi(w)} 因此，只要它在认识论上是可能的，并且代理 i 认为 E 中的任何状态比 E 的补集中的任何状态更合理，那么 E 就被强烈认为是真实的。
 
@@ -332,7 +332,7 @@ Pi(w)=pi(⋅∣Πi(w))=pi(⋅∩Πi(w))pi(Πi(w))
 
 λi:Ti→℘(Xj≠iTj×S).
 
-So, each type t∈Ti is associated with a set of tuples consisting of types of the other players and a state of nature. For simplicity, suppose there are only two players, Ann and Bob. Intuitively, (t′,o′)∈λAnn(t) means that Ann’s type t considers it possible that the outcome is o′ _and_ Bob is of type t′. Since the players’ uncertainty is directed at the choices and types of the _other_ players, the informational attitude captured by these models will certainly not satisfy the Truth axiom. In fact, qualitative type spaces can be viewed as simply a “re-packaging” of the relational models discussed above (cf. Zvesper 2010 for a discussion).
+So, each type t∈Ti is associated with a set of tuples consisting of types of the other players and a state of nature. For simplicity, suppose there are only two players, Ann and Bob. Intuitively, (t′,o′)∈λAnn(t) means that Ann’s type t considers it possible that the outcome is o′ *and* Bob is of type t′. Since the players’ uncertainty is directed at the choices and types of the *other* players, the informational attitude captured by these models will certainly not satisfy the Truth axiom. In fact, qualitative type spaces can be viewed as simply a “re-packaging” of the relational models discussed above (cf. Zvesper 2010 for a discussion).
 
 重新考虑安和鲍勃之间的协调博弈的运行示例（见图 1）。在这种情况下，自然地修改类型函数λi 的定义，以考虑玩家只对其他玩家的选择感到不确定：让 SA={u,d}和 SB={l,r}，假设 TA 和 TB 是非空类型集。定义λA 和λB 如下：
 
@@ -344,7 +344,7 @@ So, each type t∈Ti is associated with a set of tuples consisting of types of t
 
 |     |     |     |
 | --- | --- | --- |
-|     | _l_ | _r_ |
+|     | *l* | *r* |
 | tB1 | 1   | 0   |
 | tB2 | 1   | 0   |
 
@@ -352,20 +352,20 @@ So, each type t∈Ti is associated with a set of tuples consisting of types of t
 
 |     |     |     |
 | --- | --- | --- |
-|     | _l_ | _r_ |
+|     | *l* | *r* |
 | tB1 | 0   | 0   |
 | tB2 | 1   | 0   |
 
 λB(TB1)
 
-|     | _u_ | _d_ |
+|     | *u* | *d* |
 | --- | --- | --- |
 | tA1 | 1   | 0   |
 | tA2 | 0   | 0   |
 
 λB(TB2)
 
-|     | _u_ | _d_ |
+|     | *u* | *d* |
 | --- | --- | --- |
 | tA1 | 0   | 0   |
 | tA2 | 0   | 1   |
@@ -410,7 +410,7 @@ BA(E)={(tA,sA)∣λA(tA,sA)⊆E}
 
 |     |     |     |
 | --- | --- | --- |
-|     | _l_ | _r_ |
+|     | *l* | *r* |
 | t2  | 0.5 | 0   |
 | t′1 | 0.4 | 0.1 |
 
@@ -420,19 +420,19 @@ BA(E)={(tA,sA)∣λA(tA,sA)⊆E}
 
 |    |     |     |
 | -- | --- | --- |
-|    | _u_ | _d_ |
+|    | *u* | *d* |
 | t1 | 1   | 0   |
 
 λ2(t′2)
 
 |    |      |      |
 | -- | ---- | ---- |
-|    | _u_  | _d_  |
+|    | *u*  | *d*  |
 | t1 | 0.75 | 0.25 |
 
 Figure 11: Bob's belief about Ann
 
-在这个例子中，由于安只有一种类型，鲍勃的两种类型都 _确定_ 安的信念。如果鲍勃是类型 t2，那么他确信安选择 u，而如果他是类型 t′2，他认为安选择 u 的可能性为 75%。安将鲍勃的类型赋予相等的概率（0.5），因此她认为鲍勃确定她选择 u 和鲍勃认为她选择 u 的可能性为 75% 是同样可能的。上述类型空间是对玩家信息态度的非常简洁的描述。一个认知-概率模型可以描述相同的情况（这里 pi 对于 i=1,2 是玩家 i 的先验概率）：
+在这个例子中，由于安只有一种类型，鲍勃的两种类型都 *确定* 安的信念。如果鲍勃是类型 t2，那么他确信安选择 u，而如果他是类型 t′2，他认为安选择 u 的可能性为 75%。安将鲍勃的类型赋予相等的概率（0.5），因此她认为鲍勃确定她选择 u 和鲍勃认为她选择 u 的可能性为 75% 是同样可能的。上述类型空间是对玩家信息态度的非常简洁的描述。一个认知-概率模型可以描述相同的情况（这里 pi 对于 i=1,2 是玩家 i 的先验概率）：
 
 !\[[a diagram of 8 dots in an array two high](https://plato.stanford.edu/entries/epistemic-game/fig12.png)
 
@@ -647,11 +647,11 @@ In addition, we have Ratsd := ⋂i∈NRatsdi. Similarly, we can define the set o
 
 BobAnn
 
-|                              | _l_ | _c_ | _r_ |
+|                              | *l* | *c* | *r* |
 | ---------------------------- | --- | --- | --- |
 | \* 游戏理论 (认识论基础) 游戏理论。认识论基础\* | 3,3 | 1,1 | 0,0 |
-| _m_                          | 1,1 | 3,3 | 1,0 |
-| _b_                          | 0,4 | 0,0 | 4,0 |
+| *m*                          | 1,1 | 3,3 | 1,0 |
+| *b*                          | 0,4 | 0,0 | 4,0 |
 
 图 13
 
@@ -659,27 +659,27 @@ BobAnn
 
 |              |     |     |     |
 | ------------ | --- | --- | --- |
-|              | _l_ | _c_ | _r_ |
+|              | *l* | *c* | *r* |
 | \* text: t\* | 3,3 | 1,1 | 0,0 |
-| _m_          | 1,1 | 3,3 | 1,0 |
-| _b_          | 0,4 | 0,0 | 4,0 |
+| *m*          | 1,1 | 3,3 | 1,0 |
+| *b*          | 0,4 | 0,0 | 4,0 |
 
 ↣
 
 |              |     |     |
 | ------------ | --- | --- |
-|              | _l_ | _c_ |
+|              | *l* | *c* |
 | \* text: t\* | 3,3 | 1,1 |
-| _m_          | 1,1 | 3,3 |
-| _b_          | 0,4 | 0,0 |
+| *m*          | 1,1 | 3,3 |
+| *b*          | 0,4 | 0,0 |
 
 ↣
 
 |              |     |     |
 | ------------ | --- | --- |
-|              | _l_ | _c_ |
+|              | *l* | *c* |
 | \* text: t\* | 3,3 | 1,1 |
-| _m_          | 1,1 | 3,3 |
+| *m*          | 1,1 | 3,3 |
 
 图 14
 
@@ -691,7 +691,7 @@ BobAnn
 
 |    |     |     |     |
 | -- | --- | --- | --- |
-|    | _l_ | _c_ | _r_ |
+|    | *l* | *c* | *r* |
 | s1 | 0.5 | 0.5 | 0   |
 | s2 | 0   | 0   | 0   |
 | s3 | 0   | 0   | 0   |
@@ -700,7 +700,7 @@ BobAnn
 
 |    |     |     |     |
 | -- | --- | --- | --- |
-|    | _l_ | _c_ | _r_ |
+|    | *l* | *c* | *r* |
 | 开始 | 0   | 0.5 | 0   |
 | s2 | 0   | 0   | 0.5 |
 | s3 | 0   | 0   | 0   |
@@ -709,7 +709,7 @@ BobAnn
 
 |    |              |     |     |
 | -- | ------------ | --- | --- |
-|    | \* text: t\* | _m_ | _b_ |
+|    | \* text: t\* | *m* | *b* |
 | t1 | 0.5          | 0.5 | 0   |
 | t2 | 0            | 0   | 0   |
 
@@ -717,7 +717,7 @@ BobAnn
 
 |    |              |      |     |
 | -- | ------------ | ---- | --- |
-|    | \* text: t\* | _m_  | _b_ |
+|    | \* text: t\* | *m*  | *b* |
 | t1 | 0.25         | 0.25 | 0   |
 | t2 | 0.25         | 0.25 | 0   |
 
@@ -725,7 +725,7 @@ BobAnn
 
 |    |              |     |     |
 | -- | ------------ | --- | --- |
-|    | \* text: t\* | _m_ | _b_ |
+|    | \* text: t\* | *m* | *b* |
 | t1 | 0.5          | 0   | 0   |
 | t2 | 0            | 0   | 0.5 |
 
@@ -780,29 +780,29 @@ Rn+1i={(s,t)∣(s,t)∈Rni and λi(t) assigns probability 1 to Rn−i}
 
 一般来说，一阶理性的信念也不够。究竟需要多少级别的信念才能保证在游戏情况下发挥“理性”仍然是一个争论的焦点（Kets 2014；Colman 2003；de Weerd, Verbrugge, & Verheij 2013；Rubinstein 1989）。我们还需要解决两个进一步的问题。
 
-首先，代理人如何达成普遍相信理性的情境？上述结果并未回答这个问题。这是动态认知逻辑最近研究的课题（van Benthem 2003）。在这一文献中，通过反复和公开“_宣布_”他们不是非理性的方式，回答了这个问题，这样代理人可以消除关于彼此理性的所有高阶不确定性，从而确保没有策略被玩出，而这些策略无法经受迭代淘汰过程的检验。换句话说，理性的公开宣布的迭代使玩家的期望收敛到足以发挥迭代非被支配策略的充分认知条件。有关这种动态观点对解决方案认知特征化的更多信息，请参见van Benthem (2003)；Pacuit & Roy (2011)；van Benthem & Gheerbrant (2010)；以及van Benthem, Pacuit, & Roy (2011)。
+首先，代理人如何达成普遍相信理性的情境？上述结果并未回答这个问题。这是动态认知逻辑最近研究的课题（van Benthem 2003）。在这一文献中，通过反复和公开“*宣布*”他们不是非理性的方式，回答了这个问题，这样代理人可以消除关于彼此理性的所有高阶不确定性，从而确保没有策略被玩出，而这些策略无法经受迭代淘汰过程的检验。换句话说，理性的公开宣布的迭代使玩家的期望收敛到足以发挥迭代非被支配策略的充分认知条件。有关这种动态观点对解决方案认知特征化的更多信息，请参见van Benthem (2003)；Pacuit & Roy (2011)；van Benthem & Gheerbrant (2010)；以及van Benthem, Pacuit, & Roy (2011)。
 
 其次，当参与者超过两名时，上述结果仅在参与者相信其对手的选择是相关的情况下成立（Bradenburger & Dekel 1987; Brandenburger & Friedenberg 2008）。Brandenburger & Friedenberg (2008)提供的以下例子阐明了这一点。考虑以下三人博弈，Ann 的策略为 SA={u,d}，Bob 的策略为 SB={l,r}，Charles 的策略为 SC={x,y,z}，他们对每种结果的偏好分别列于相应的单元格中：
 
 |     |       |       |
 | --- | ----- | ----- |
-|     | _l_   | _r_   |
-| _u_ | 1,1,3 | 1,0,3 |
-| _d_ | 0,1,0 | 0,0,0 |
+|     | *l*   | *r*   |
+| *u* | 1,1,3 | 1,0,3 |
+| *d* | 0,1,0 | 0,0,0 |
 
 |     |       |       |
 | --- | ----- | ----- |
-|     | _l_   | _r_   |
-| _u_ | 1,1,2 | 1,0,0 |
-| _d_ | 0,1,0 | 1,1,2 |
+|     | *l*   | *r*   |
+| *u* | 1,1,2 | 1,0,0 |
+| *d* | 0,1,0 | 1,1,2 |
 
 |     |       |       |
 | --- | ----- | ----- |
-|     | _l_   | _r_   |
-| _u_ | 1,1,0 | 1,0,0 |
-| _d_ | 0,1,3 | 0,0,3 |
+|     | *l*   | *r*   |
+| *u* | 1,1,0 | 1,0,0 |
+| *d* | 0,1,3 | 0,0,3 |
 
-_x_​_**y**_​_z_
+*x_​***y***​_z*
 
 图 16
 
@@ -859,7 +859,7 @@ _x_​_**y**_​_z_
 
 每个策略配置 s 都会在广泛博弈中生成一条路径，其中路径是按照广泛博弈中的节点之间的直接后继关系↣排序的节点的最大序列。我们说如果 v 是由策略配置 s 生成的路径上的节点，那么 v 就被 s 到达。假设 v 是广泛博弈中的任何节点。让 out(v,s)表示如果从节点 v 开始，所有玩家根据其在配置 s 中的相应策略移动，所达到的终端节点。给定玩家 i 的决策节点 v∈Vi，玩家 i 的策略 si 和一组 X⊆S−i 对手的策略配置，让 Outi(v,si,X)={out(v,(si,s−i))∣s−i∈X}。也就是说，Outi(v,si,X)是一组终端节点，如果从节点 v 开始，玩家 i 使用策略 si，i 的对手使用来自 X 的策略配置，可能到达的节点。
 
-The following example of a perfect information extensive game will be used to illustrate these concepts. The game is an instance of the well-known _centipede game_, which has played an important role in the epistemic game theory literature on extensive games.
+The following example of a perfect information extensive game will be used to illustrate these concepts. The game is an instance of the well-known *centipede game*, which has played an important role in the epistemic game theory literature on extensive games.
 
 ![a diagram, 3 circles labelled v1, v2, v3 in a horizontal row and below each a rounded rectangle labelled respectively o1, o2, and o3 A fourth rounded rectangle labelled o4 is to the right of v3  v1 connects to v2 with a solid line labelled I1 and v2 to v3 with a solid line labelled I2 and v3 to o4 with a solid line labelled I3  Solid lines also connect each circle to the rounded rectangle below and are labelled respectively O1, O2, O3  Circles v1 and v3 enclose the text 'A' and v2 encloses the text 'B'  o1 encloses '1,1', o2 encloses '0,2', o3 encloses '4,1' and o4 encloses '3,3'](https://plato.stanford.edu/entries/epistemic-game/fig17.png)
 
@@ -952,7 +952,7 @@ OutB(v2,I2,S−B(w))={o4};
 
 合理性原则 一个玩家应该始终尝试解释她对对手行为的信息，假设他们没有实施“非理性”的策略。
 
-This belief revision policy is closely related to so-called _forward induction reasoning_. To illustrate, consider the following imperfect information game:
+This belief revision policy is closely related to so-called *forward induction reasoning*. To illustrate, consider the following imperfect information game:
 
 !\[[a diagram of three circles arranged in a](https://plato.stanford.edu/entries/epistemic-game/fig19.png)
 
@@ -980,10 +980,10 @@ Aumann＆Brandenburger 1995 的开创性结果提供了关于纳什均衡的认�
 
 BA
 
-|     | _l_ | _r_ |
+|     | *l* | *r* |
 | --- | --- | --- |
-| _u_ | 2,2 | 0,0 |
-| _d_ | 0,0 | 1,1 |
+| *u* | 2,2 | 0,0 |
+| *d* | 0,0 | 1,1 |
 
 图 20
 
@@ -991,21 +991,21 @@ BA
 
 |    |     |     |
 | -- | --- | --- |
-|    | _l_ | _r_ |
+|    | *l* | *r* |
 | b1 | 0.5 | 0.5 |
 | b2 | 0   | 0   |
 | b3 | 0   | 0   |
 
 |    |     |     |
 | -- | --- | --- |
-|    | _l_ | _r_ |
+|    | *l* | *r* |
 | b1 | 0.5 | 0   |
 | b2 | 0   | 0   |
 | b3 | 0   | 0.5 |
 
 |    |     |     |
 | -- | --- | --- |
-|    | _l_ | _r_ |
+|    | *l* | *r* |
 | b1 | 0   | 0   |
 | b2 | 0   | 0.5 |
 | b3 | 0   | 0.5 |
@@ -1014,21 +1014,21 @@ BA
 
 |    |     |     |
 | -- | --- | --- |
-|    | _l_ | _r_ |
+|    | *l* | *r* |
 | a1 | 0.5 | 0   |
 | a2 | 0   | 0.5 |
 | a3 | 0   | 0   |
 
 |    |     |     |
 | -- | --- | --- |
-|    | _l_ | _r_ |
+|    | *l* | *r* |
 | a1 | 0.5 | 0   |
 | a2 | 0   | 0   |
 | a3 | 0   | 0.5 |
 
 |    |     |     |
 | -- | --- | --- |
-|    | _l_ | _r_ |
+|    | *l* | *r* |
 | a1 | 0   | 0   |
 | a2 | 0   | 0.5 |
 | a3 | 0   | 0.5 |
@@ -1073,7 +1073,7 @@ BA
 
 BobAnn
 
-|         | _l_ | _r_ |
+|         | *l* | *r* |
 | ------- | --- | --- |
 | \* 源\*  | 1,1 | 1,0 |
 | \* 目标\* | 1,0 | 0,1 |
@@ -1120,7 +1120,7 @@ This means that if i is unaware of E, then i knows that she does not know that E
 
 Ui(E)⊆Ki(E)¯¯¯¯¯¯¯¯¯¯¯¯¯∩Ki(Ki(E)¯¯¯¯¯¯¯¯¯¯¯¯¯)¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯,
 
-we need to represent the players’ knowledge in a _possibility structure_ where the Ki operators do not necessarily satisfy negative introspection. A possibility structure is a tuple ⟨W,{Pi}i∈N,σ⟩ where Pi:W→℘(W). The only difference with an epistemic model is that the Pi(w) do not necessarily form a partition of W. We do not go into details here—see Halpern (1999) for a complete discussion of possibility structures and how they relate to epistemic models. The knowledge operator is defined as it is for epistemic models: for each event E, Ki(E)={w∣Pi(w)⊆E}. However, S. Modica and A. Rustichini (1994, 1999) argue that even the more general possibility structures cannot be used to describe a player’s unawareness.
+we need to represent the players’ knowledge in a *possibility structure* where the Ki operators do not necessarily satisfy negative introspection. A possibility structure is a tuple ⟨W,{Pi}i∈N,σ⟩ where Pi:W→℘(W). The only difference with an epistemic model is that the Pi(w) do not necessarily form a partition of W. We do not go into details here—see Halpern (1999) for a complete discussion of possibility structures and how they relate to epistemic models. The knowledge operator is defined as it is for epistemic models: for each event E, Ki(E)={w∣Pi(w)⊆E}. However, S. Modica and A. Rustichini (1994, 1999) argue that even the more general possibility structures cannot be used to describe a player’s unawareness.
 
 一种关于可能性结构上无意识的自然定义是：
 
@@ -1209,148 +1209,148 @@ Brandenburger 和 Keisler 对上述论证进行了形式化，以证明关于所
 
 ### 7.2 替代方案：最大化期望效用之外的选择
 
-在对游戏进行认知分析时，对玩家选择的具体建议或预测是从决策理论的选择规则中推导出来的。例如，在当代关于博弈论认知基础的文献中，大部分结果都基于最大化期望效用。然而，从方法论的角度来看，模型假设玩家遵循的选择规则只是一个可以变化的参数。近年来，已经有一些初步尝试开发具有替代选择规则的认知分析，例如 _minregret_ Halpern & Pass (2009)。
+在对游戏进行认知分析时，对玩家选择的具体建议或预测是从决策理论的选择规则中推导出来的。例如，在当代关于博弈论认知基础的文献中，大部分结果都基于最大化期望效用。然而，从方法论的角度来看，模型假设玩家遵循的选择规则只是一个可以变化的参数。近年来，已经有一些初步尝试开发具有替代选择规则的认知分析，例如 *minregret* Halpern & Pass (2009)。
 
 ### 7.3 Further reading
 
 The reader interested in more extensive coverage of all or some of the topics discussed in this entry should consult the following articles and books.
 
-* _Logic in Games_ by Johan van Benthem: This book uses the tools of modal logic broadly conceived to discuss many of the issues raised in this entry (2014, MIT Press).
-* _The Language of Game Theory_ by Adam Brandenburger: A collection of Brandenburger’s key papers on epistemic game theory (2014, World Scientific Series in Economic Theory).
-* _Epistemic Game Theory_ by Eddie Dekel and Marciano Siniscalchi: A survey paper aimed at economists covering the main technical results of epistemic game theory (2014, [Available online](http://faculty.wcas.northwestern.edu/\~msi661/EpistemicGameTheory-131120.pdf)).
-* _Epistemic Game Theory: Reasoning and Choice_ by Andrés Perea: A non-technical introduction to epistemic game theory (2012, Cambridge University Press).
-* _The Bounds of Reason: Game Theory and the Unification of the Behavioral Sciences_ by Herbert Gintis: This book offers a broad overview of the social and behavioral science using the ideas of epistemic game theory (2009, Princeton University Press).
+* *Logic in Games* by Johan van Benthem: This book uses the tools of modal logic broadly conceived to discuss many of the issues raised in this entry (2014, MIT Press).
+* *The Language of Game Theory* by Adam Brandenburger: A collection of Brandenburger’s key papers on epistemic game theory (2014, World Scientific Series in Economic Theory).
+* *Epistemic Game Theory* by Eddie Dekel and Marciano Siniscalchi: A survey paper aimed at economists covering the main technical results of epistemic game theory (2014, [Available online](http://faculty.wcas.northwestern.edu/\~msi661/EpistemicGameTheory-131120.pdf)).
+* *Epistemic Game Theory: Reasoning and Choice* by Andrés Perea: A non-technical introduction to epistemic game theory (2012, Cambridge University Press).
+* *The Bounds of Reason: Game Theory and the Unification of the Behavioral Sciences* by Herbert Gintis: This book offers a broad overview of the social and behavioral science using the ideas of epistemic game theory (2009, Princeton University Press).
 
 ## Bibliography
 
-* Abramsky, S. & J.A. Zvesper, 2012, “From Lawvere to Brandenburger-Keisler: interactive forms of diagonalization and self-reference”, in _Coalgebraic Methods in Computer Science_ (LNCS, Vol. 7399, pp. 1–19), _CoRR_, _abs/1006.0992_.
-* Alchourrón, C.E., P. Gärdenfors, & D. Makinson, 1985, “On the logic of theory change: Partial meet contraction and revision functions”, _Journal of Symbolic Logic_, 50(2): 510–530.
-* Apt, K. & J. Zvesper, 2010, “The role of monotonicity in the epistemic analysis of strategic games”, _Games_, 1(4): 381–394, doi:10.3390/g1040381
-* Asheim, G. & M. Dufwenberg, 2003, “Admissibility and common belief”, _Game and Economic Behavior_, 42: 208–234.
-* Aumann, R., 1976, “Agreeing to disagree”, _The Annals of Statistics_, 4(6): 1236–1239.
-* –––, 1987, “Correlated equilibrium as an expression of Bayesian rationality”, _Econometrica_, 55(1): 1–18.
-* –––, 1995, “Backward induction and common knowledge of rationality”, _Games and Economic Behavior_, 8(1): 6–19.
-* –––, 1999a, “Interactive epistemology I: Knowledge”, _International Journal of Game Theory_, 28(3): 263–300.
-* –––, 1999b, “Interactive epistemology II: Probability”, _International Journal of Game Theory_, 28(3): 301–314.
-* –––, 2010, “Interview on epistemic logic”, in V. F. Hendricks & O. Roy (Eds.), _Epistemic logic: Five questions_ (pp. 21–35). Automatic Press.
-* Aumann, R. J., S. Hart, & M. Perry, 1997, “The absent-minded driver”, _Games and Economic Behavior_, 20(1): 102–116.
-* Aumann, R. & A. Brandenburger, 1995, “Epistemic conditions for Nash equilibrium”, _Econometrica_, 63(5): 1161–1180.
-* Aumann, R. & S. Hart, 1994, _Handbook of game theory with economic applications_ (Vol. 2), Amsterdam: North Holland.
-* Baltag, A. & S. Smets, 2006, “Conditional doxastic models: A qualitative approach to dynamic belief revision”, in _Electronic notes in theoretical computer science_ (Vol. 165, pp. 5–21), Springer.
-* Baltag, A., S. Smets, & J. Zvesper, 2009, “Keep ‘hoping’ for rationality: a solution to the backwards induction paradox”, _Synthese_, 169: 301–333.
-* Battigalli, P., 1997, “On rationalizability in extensive games”, _Journal of Economic Theory_, 74(1): 40–61.
-* Battigalli, P. & A. Friedenberg, 2012, “Forward induction reasoning revisited”, _Theoretical Economics_, 7(1): 57–98.
-* Battigalli, P. & M. Siniscalchi, 2002, “Strong belief and forward induction reasoning”, _Journal of Economic Theory_, 106(2): 356–391.
-* Battigalli, P., A. Di Tillio, & D. Samet, 2013, “Strategies and interactive beliefs in dynamic games”, in _Advances in economics and econometrics: Theory and applications, Tenth World Congress, volume 1: economic theory_, Cambridge: Cambridge University Press.
-* van Benthem, J., 2003, “Rational dynamic and epistemic logic in games”, in S. Vannucci (Ed.), _Logic, game theory and social choice III_, University of Siena, Department of Political Economy.
-* –––, 2010, _Modal logic for open minds_, Stanford, CA: CSLI Publications.
-* –––, 2011, _Logical dynamics of information and interaction_, Cambridge: Cambridge University Press.
-* van Benthem, J. & A. Gheerbrant, 2010, “Game solution, epistemic dynamics and fixed-point logics”, _Fundamenta Informaticae_, 100: 1–23.
-* van Benthem, J., P. Girard, & O. Roy, 2009, “Everything else being equal: A modal logic for _Ceteris Paribus_ preferences”, _Journal of Philosophical Logic_, 38: 83–125.
-* van Benthem, J., E. Pacuit, & O. Roy, 2011, “Toward a theory of play: A logical perspective on games and interaction”, _Games_, 2(1): 52–86.
-* Bernheim, D., 1984, “Rationalizable strategic behavior”, _Econometrica_, 52: 1007–1028.
-* Board, O., 2003, “The not-so-absent-minded driver”, _Research in Economics_, 57(3): 189–200.
-* Board, O., K.S. Chung, & B. Schipper, 2011, “Two models of unawareness: Comparing object-based and subjective-state-space approaches”, _Synthese_, 179: 13–34.
-* Bonanno, G., 1996, “On the logic of common belief”, _Mathematical Logical Quarterly_, 42: 305–311.
-* –––, 2004, “Memory and perfect recall in extensive games”, _Games and Economic Behavior_, 47(2): 237–256.
-* –––, 2013, “A dynamic epistemic characterization of backward induction without counterfactuals”, _Games and Economic Behavior_, 78: 31–43.
-* Brandenburger, A., 2003, “On the existence of a “complete” possibility structure”, in M. Basili, N. Dimitri, & I. Gilboa (Eds.), _in Cognitive processes and economic behavior_ (pp. 30–34). Routledge.
-* –––, 2007, “A note on Kuhn’s theorem”, in J. van Benthem, D. Gabbay, & B. Loewe (Eds.), _Interactive logic, proceedings of the 7th Augustus de Morgan workshop, London_ (pp. 71–88). Texts in Logic; Games, Amsterdam University Press.
-* –––, 2010, “Origins of epistemic game theory”, in V. F. Hendricks & O. Roy (Eds.), _Epistemic logic: Five questions_ (pp. 59–69). Automatic Press.
-* Brandenburger, A. & E. Dekel, 1987, “Rationalizability and correlated equilibria”, _Econometrica_, 55(6): 1391–1402.
-* –––, 1993, “Hierarchies of beliefs and common knowledge”, _Journal of Economic Theory_, 59.
-* Brandenburger, A. & A. Friedenberg, 2008, “Intrinsic correlation in games”, _Journal of Economic Theory_, 141(1): 28–67.
-* –––, 2010, “Self-admissible sets”, _Journal of Economic Theory_, 145: 785–811.
-* Brandenburger, A. & H. Keisler, 2006, “An impossibility theorem on beliefs in games”, _Studia Logica_, 84(2): 211–240.
-* Brandenburger, A., A. Friedenberg, & H.J. Keisler, 2008, “Admissibility in games”, _Econometrica_, 76(2): 307–352.
-* de Bruin, B., 2010, _Explaining games : The epistemic programme in game theory_, New York City: Springer.
-* Chen, Y.C., J. Ely, & X. Luo, 2012, “Note on unawareness: Negative introspection versus AU introspection (and KU introspection)”, _International Journal of Game Theory_, 41(2): 325 - 329.
-* Colman, A., 2003, “Cooperation, psychological game theory, and limitations of rationality in social interactions”, _Behavioral and Brain Sciences_, 26: 139–198.
-* Cubitt, R.P. & R. Sugden, 1994, “Rationally justifiable play and the theory of non-cooperative games”, _The Economic Journal_, 104(425): 798–893.
-* –––, 2014, “ Common reasoning in games: A Lewisian analysis of common knowledge of rationality”, _Economics and Philosophy_, 30(03): 285–329.
-* Dekel, E., B. Lipman, & A. Rustichini, 1998, “Standard state-space models preclude unawareness”, _Econometrica_, 66: 159–173.
-* Doyle, A.C., 1894, _The Memoirs of Sherlock Holmes_, Mineola, NY: Dover Thrift Edition, 2010.
-* Fagin, R., J. Geanakoplos, J. Halpern, & M. Vardi, 1999, “The hierarchical approach to modeling knowledge and common knowledge”, _International Journal of Game Theory_, 28(3): 331–365.
-* Fagin, R., J. Halpern, & N. Megiddo, 1990, “A logic for reasoning about probabilities”, _Information and Computation_, 87(1–2): 78–128.
-* Fagin, R., J. Halpern, Y. Moses, & M. Vardi, 1995, _Reasoning about knowledge_, Cambridge: The MIT Press.
-* Finetti, B., 1974, _Theory of probability, vols. 1 and 2_, New York: Wiley.
-* Friedenberg, A. & H.J. Keisler, 2011, “Iterated dominance revisited”, in _Proceedings of the behavioral and quantitative game theory: Conference on future directions_, ACM, New York, NY. \[[available online](https://www.math.wisc.edu/\~keisler/idr-2011-08-12.pdf)].
-* Friedenberg, A. & M. Meier, 2009, “The context of a game”, in _Proceedings of the 12th Conference on Theoretical Aspects of Rationality and Knowledge_, pp. 134–135 \[[available online](https://web.archive.org/web/20150329044244/http://www.public.asu.edu/\~afrieden/cog.pdf)].
-* Gintis, H., 2009, _The bounds of reason: game theory and the unification of the behavioral sciences_, Princeton: Princeton University Press.
-* Halpern, J.Y., 1991, “The relationship between knowledge, belief, and certainty”, _Annals of Mathematics and Artificial Intelligence_, 4(3): 301–322. \[[available online](http://dx.doi.org/10.1007/BF01531062)].
-* –––, 1997, “On ambiguities in the interpretation of game trees”, _Games and Economic Behavior_, 20(1): 66–96.
-* –––, 1999, “Set-theoretic completeness for epistemic and conditional logic”, _Annals of Mathematics and Artificial Intelligence_, 26: 1–27.
-* –––, 2001a, “Alternative semantics for unawareness”, _Game and Economic Behavior_, 37: 321–339.
-* –––, 2001b, “Substantive rationality and backward induction”, _Games and Economic Behavior_, 37(2): 425–435.
-* –––, 2003, _Reasoning about uncertainty_, Cambridge: The MIT Press.
-* –––, 2010, “Lexiographic probability, conditional probability and nonstandard probability”, _Games and Economic Behavior_, 68(1): 155–179.
-* Halpern, J.Y. & R. Pass, 2009, “A logical characterization of iterated admissibility”, in A. Heifetz (Ed.), _Proceedings of the twelfth conference on theoretical aspects of rationality and knowledge_ (pp. 146–155).
-* –––, 2011, “Iterated regret minimization: A new solution concept”, _Games and Economic Behavior_, 74(1): 184–207 \[[available online](http://arxiv.org/pdf/0810.3023.pdf)].
-* Halpern, J.Y. & L.C. Rego, 2008, “Interactive unawareness revisited”, _Games and Economic Behavior_, 62(1): 232–262.
-* Harsanyi, J.C., 1967–68, “Games with incomplete information played by ‘Bayesian’ players, parts I–III”, _Management Science_, 14: 159–182; 14: 320–334; 14: 486–502.
-* Heifetz, A., 1999, “How canonical is the canonical model? A comment on Aumann’s interactive epistemology”, _International Journal of Game Theory_, 28(3): 435–442.
-* Heifetz, A. & P. Mongin, 2001, “Probability Logic for Type Spaces”, _Games and Economic Behavior_, 35(1–2): 31–53.
-* Heifetz, A. & D. Samet, 1998, “Knowledge spaces with arbitrarily high rank”, _Games and Economic Behavior_, 22(2): 260–273.
-* Heifetz, A., M. Meier, & B. Schipper, 2006, “Interactive unawareness”, _Journal of Economic Theory_, 130: 78–94.
-* Hendricks, V. & J. Symons, 2009, “Epistemic logic”, in E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Spring 2009 Edition), URL = <[Epistemic Logic (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/logic-epistemic/)>.
-* Hoek, W. van der & M. Pauly, 2007, “Modal logic for games and information”, in P. Blackburn, J. van Benthem, & F. Wolter (Eds.), _Handbook of modal logic_ (Vol. 3), Amsterdam: Elsevier.
-* Huber, F., 2009, “Formal representations of belief”, in E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Summer 2009 Edition), URL = <[Formal Representations of Belief (Stanford Encyclopedia of Philosophy/Summer 2009 Edition)](https://plato.stanford.edu/archives/sum2009/entries/formal-belief/)>.
-* Joyce, J., 2004, “Bayesianism”, in A. Mele & P. Rawling (Eds.), _The Oxford handbook of rationality_, Oxford: Oxford University Press.
-* Kadane, J.B. & P.D. Larkey, 1982, “Subjective probability and the theory of games”, _Management Science_, 28(2): 113–120. \[[available online](https://doi.org/10.1184/R1/6586943.v1)]
-* –––, 1983, “The confusion of is and ought in game theoretic contexts”, _Management Science_, 29(12): 1365–1379. \[[available online](https://doi.org/10.1184/R1/6586976.v1)]
-* Kaneko, M. & J. Kline, 1995, “Behavior strategies, mixed strategies and perfect recall”, _International Journal of Game Theory_, 24: 127–145.
-* Kline, J., 2002, “Minimum memory for equivalence between _Ex Ante_ optimality and time-consistency”, _Games and Economic Behavior_, 38: 278–305.
-* Kuhn, H., 1953, “Extensive games and the problem of information”, in H. Kuhn & A. Tucker (Eds.), _Contributions to the theory of games, vol. II_, Princeton: Princeton University Press.
-* Lewis, D., 1969, _Convention_, Cambridge: Harvard University Press.
-* Leyton-Brown, K. & Y. Shoham, 2008, _Essentials of game theory: A concise, multidisciplinary introduction_, New York: Morgan & Claypool.
-* Lismont, L. & P. Mongin, 1994, “On the logic of common belief and common knowledge”, _Theory and Decision_, 37(1): 75–106.
-* –––, 2003, “Strong Completeness Theorems for Weak Logics of Common Belief”, _Journal of Philosophical Logic_, 32(2): 115–137.
-* Liu, F., 2011, “A two-level perspective on preference”, _Journal of Philosophical Logic_, 40(3): 421–439.
-* Lorini, E. & F. Schwarzentruber, 2010, “A modal logic of epistemic games”, _Games_, 1(4): 478–526.
-* Mariotti, T., M. Meier, & M. Piccione, 2005, “Hierarchies of beliefs for compact possibility models”, _Journal of Mathematical Economics_, 41: 303–324.
-* Mas-Colell, A., M. Winston, & J. Green, 1995, _Microeconomic theory_, Oxford: Oxford University Press.
-* Meier, M., 2005, “On the nonexistence of universal information structures”, _Journal of Economic Theory_, 122(1): 132–139.
-* Mertens, J. & S. Zamir, 1985, “Formulation of Bayesian analysis for games with incomplete information”, _International Journal of Game Theory_, 14(1): 1–29.
-* Modica, S. & A. Rustichini, 1994, “Awareness and partitional information structures”, _Theory and Decision_, 37: 107–124.
-* –––, 1999, “Unawareness and partitional information structures”, _Game and Economic Behavior_, 27: 265–298.
-* Monderer, D. & D. Samet, 1989, “Approximating common knowledge with common beliefs”, _Games and Economic Behavior_, 1(2): 170–190.
-* Morris, S., 1995, “The common prior assumption in economic theory”, _Economics and Philosophy_, 11(2): 227–253.
-* Moscati, I., 2009, _Interactive and common knowledge in the state-space model_ (CESMEP Working Papers). University of Turin. \[[available online](http://econpapers.repec.org/RePEc:uto:cesmep:200903)].
-* Myerson, R., 1997 \[1991], _Game theory: Analysis of conflict_, Cambridge: Harvard University Press.
-* Osborne, M., 2003, _An introduction to game theory_, Oxford: Oxford University Press.
-* Pacuit, E., 2007, “Understanding the Brandenburger-Keisler paradox”, _Studia Logica_, 86(3): 435–454.
-* Pacuit, E. & O. Roy, 2011, “A dynamic analysis of interactive rationality”, in H. van Ditmarsch, J. Lang, & S. Ju (Eds.), _Proceedings of the third international workshop on logic, rationality and interaction_ (Vol. 6953, pp. 244–258).
-* Pearce, D., 1984, “Rationalizable strategic behavior and the problem of perfection”, _Econometrica_, 52: 1029–1050.
-* Perea, A., 2007, “A one-person doxastic characterization of Nash strategies”, _Synthese_, 158: 251–271.
-* –––, 2012, _Epistemic game theory: Reasoning and choice_, Cambridge: Cambridge University Press.
-* –––, 2014, “Belief in the opponents’ future rationality”, _Games and Economic Behavior_, 83: 231–254.
-* Peterson, M., 2009, _An introduction to decision theory_, Cambridge: Cambridge University Press.
-* Piccione, M., & A. Rubinstein, 1997a, “On the interpretation of decision problems with imperfect recall”, _Games and Economic Behavior_, 20(1): 3–24.
-* –––, 1997b, “The absent-minded driver’s paradox: Synthesis and responses”, _Games and Economic Behavior_, 20(1): 121–130.
-* Rabinowicz, W., 1992, “Tortuous labyrinth: Noncooperative normal-form games between hyperrational players”, in C. Bicchieri & M. L. D. Chiara (Eds.), _Knowledge, belief and strategic interaction_ (pp. 107–125).
-* Ross, D., 2010, “Game theory”, in E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Fall 2010 Edition), URL = <[Game Theory (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/game-theory/)>.
-* Roy, O. & E. Pacuit, 2013, “Substantive assumptions in interaction: A logical perspective”, _Synthese_, 190(5): 891–908.
-* Rubinstein, A., 1989, “The electronic mail game: Strategic behavior under ‘Almost common knowledge’”, _American Economic Review_, 79(3): 385–391.
-* –––, 1991, “Comments on the interpretation of game theory”, _Econometrica_, 59(4): 909–924.
-* Samuelson, L., 1992, “Dominated strategies and common knowledge”, _Game and Economic Behavior_, 4(2): 284–313.
-* Schelling, T., 1960, _The Strategy of Conflict_, Cambridge: Harvard University Press.
-* Schwitzgebel, E., 2010, “Belief”, in E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Winter 2010 Edition), URL = <[Belief (Stanford Encyclopedia of Philosophy/Winter 2010 Edition)](https://plato.stanford.edu/archives/win2010/entries/belief/)>.
-* Selten, R., 1975, “Reexamination of the perfectness concept for equilibrium points in extensive games”, _International Journal of Game Theory_, 4(1): 25–55. \[[available online](http://dx.doi.org/10.1007/BF01766400)].
-* Shoham, Y. & K. Leyton-Brown, 2008, _Multiagent systems_, Cambridge: Cambridge University Press.
-* Siniscalchi, M., 2008, “Epistemic game theory: Beliefs and types”, in S. Durlauf & L. Blume (Eds.), _The new Palgrave dictionary of economics_, Basingstoke: Palgrave Macmillan.
-* Spohn, W., 1982, “How to make sense of game theory”, _Philosophy of economics: Proceedings, Munich, July 1981_, W. Stegmüller, W. Balzer, & W. Spohn (eds), 239–270, _Studies in Contemporary Economics_, Volume 2, Berlin: Springer-Verlag.
-* Stalnaker, R., 1994, “On the evaluation of solution concepts”, _Theory and Decision_, 37(1): 49–73.
-* –––, 1996, “Knowledge, belief and counterfactual reasoning in games”, _Economics and Philosophy_, 12(02): 133–163.
-* –––, 1998, “Belief revision in games: forward and backward induction”, _Mathematical Social Sciences_, 36(1): 31–56.
-* –––, 1999, “Extensive and strategic forms: Games and models for games”, _Research in Economics_, 53(3): 293–319.
-* –––, 2006, “On logics of knowledge and belief”, _Philosophical Studies_, 128(1): 169–199.
-* Stuart Jr., H.W. & H. Hu, 2002, “An epistemic analysis of the Harsanyi transformation”, _International Journal of Game Theory_, 30(4): 517–525.
-* Tan, T.C.-C. & S.R. da Costa Werlang, 1988, “The Bayesian foundations of solution concepts of games”, _Journal of Economic Theory_, 45(2): 370–391, doi:10.1016/0022-0531(88)90276-1
-* Titelbaum, M., 2013, “Ten reasons to care about the sleeping beauty problem”, _Philosophy Compass_, 8: 1003–1017.
-* Ullmann-Margalit, E. & S. Morgenbesser, 1977, “Picking and choosing”, _Social Research_, 44: 757–785.
-* Vanderschraaf, P. & G. Sillari, 2009, “Common knowledge”, in E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_ (Spring 2009 Edition), URL = <[Common Knowledge (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/common-knowledge/)>.
-* de Weerd, H., R. Verbrugge, & B. Verheij, 2013, “How much does it help to know what she knows you know? An agent-based simulation study”, _Artificial Intelligence_, 199–200: 67–92.
-* Zvesper, J., 2010, _Playing with information_ (PhD thesis), ILLC, University of Amsterdam.
+* Abramsky, S. & J.A. Zvesper, 2012, “From Lawvere to Brandenburger-Keisler: interactive forms of diagonalization and self-reference”, in *Coalgebraic Methods in Computer Science* (LNCS, Vol. 7399, pp. 1–19), *CoRR*, *abs/1006.0992*.
+* Alchourrón, C.E., P. Gärdenfors, & D. Makinson, 1985, “On the logic of theory change: Partial meet contraction and revision functions”, *Journal of Symbolic Logic*, 50(2): 510–530.
+* Apt, K. & J. Zvesper, 2010, “The role of monotonicity in the epistemic analysis of strategic games”, *Games*, 1(4): 381–394, doi:10.3390/g1040381
+* Asheim, G. & M. Dufwenberg, 2003, “Admissibility and common belief”, *Game and Economic Behavior*, 42: 208–234.
+* Aumann, R., 1976, “Agreeing to disagree”, *The Annals of Statistics*, 4(6): 1236–1239.
+* –––, 1987, “Correlated equilibrium as an expression of Bayesian rationality”, *Econometrica*, 55(1): 1–18.
+* –––, 1995, “Backward induction and common knowledge of rationality”, *Games and Economic Behavior*, 8(1): 6–19.
+* –––, 1999a, “Interactive epistemology I: Knowledge”, *International Journal of Game Theory*, 28(3): 263–300.
+* –––, 1999b, “Interactive epistemology II: Probability”, *International Journal of Game Theory*, 28(3): 301–314.
+* –––, 2010, “Interview on epistemic logic”, in V. F. Hendricks & O. Roy (Eds.), *Epistemic logic: Five questions* (pp. 21–35). Automatic Press.
+* Aumann, R. J., S. Hart, & M. Perry, 1997, “The absent-minded driver”, *Games and Economic Behavior*, 20(1): 102–116.
+* Aumann, R. & A. Brandenburger, 1995, “Epistemic conditions for Nash equilibrium”, *Econometrica*, 63(5): 1161–1180.
+* Aumann, R. & S. Hart, 1994, *Handbook of game theory with economic applications* (Vol. 2), Amsterdam: North Holland.
+* Baltag, A. & S. Smets, 2006, “Conditional doxastic models: A qualitative approach to dynamic belief revision”, in *Electronic notes in theoretical computer science* (Vol. 165, pp. 5–21), Springer.
+* Baltag, A., S. Smets, & J. Zvesper, 2009, “Keep ‘hoping’ for rationality: a solution to the backwards induction paradox”, *Synthese*, 169: 301–333.
+* Battigalli, P., 1997, “On rationalizability in extensive games”, *Journal of Economic Theory*, 74(1): 40–61.
+* Battigalli, P. & A. Friedenberg, 2012, “Forward induction reasoning revisited”, *Theoretical Economics*, 7(1): 57–98.
+* Battigalli, P. & M. Siniscalchi, 2002, “Strong belief and forward induction reasoning”, *Journal of Economic Theory*, 106(2): 356–391.
+* Battigalli, P., A. Di Tillio, & D. Samet, 2013, “Strategies and interactive beliefs in dynamic games”, in *Advances in economics and econometrics: Theory and applications, Tenth World Congress, volume 1: economic theory*, Cambridge: Cambridge University Press.
+* van Benthem, J., 2003, “Rational dynamic and epistemic logic in games”, in S. Vannucci (Ed.), *Logic, game theory and social choice III*, University of Siena, Department of Political Economy.
+* –––, 2010, *Modal logic for open minds*, Stanford, CA: CSLI Publications.
+* –––, 2011, *Logical dynamics of information and interaction*, Cambridge: Cambridge University Press.
+* van Benthem, J. & A. Gheerbrant, 2010, “Game solution, epistemic dynamics and fixed-point logics”, *Fundamenta Informaticae*, 100: 1–23.
+* van Benthem, J., P. Girard, & O. Roy, 2009, “Everything else being equal: A modal logic for *Ceteris Paribus* preferences”, *Journal of Philosophical Logic*, 38: 83–125.
+* van Benthem, J., E. Pacuit, & O. Roy, 2011, “Toward a theory of play: A logical perspective on games and interaction”, *Games*, 2(1): 52–86.
+* Bernheim, D., 1984, “Rationalizable strategic behavior”, *Econometrica*, 52: 1007–1028.
+* Board, O., 2003, “The not-so-absent-minded driver”, *Research in Economics*, 57(3): 189–200.
+* Board, O., K.S. Chung, & B. Schipper, 2011, “Two models of unawareness: Comparing object-based and subjective-state-space approaches”, *Synthese*, 179: 13–34.
+* Bonanno, G., 1996, “On the logic of common belief”, *Mathematical Logical Quarterly*, 42: 305–311.
+* –––, 2004, “Memory and perfect recall in extensive games”, *Games and Economic Behavior*, 47(2): 237–256.
+* –––, 2013, “A dynamic epistemic characterization of backward induction without counterfactuals”, *Games and Economic Behavior*, 78: 31–43.
+* Brandenburger, A., 2003, “On the existence of a “complete” possibility structure”, in M. Basili, N. Dimitri, & I. Gilboa (Eds.), *in Cognitive processes and economic behavior* (pp. 30–34). Routledge.
+* –––, 2007, “A note on Kuhn’s theorem”, in J. van Benthem, D. Gabbay, & B. Loewe (Eds.), *Interactive logic, proceedings of the 7th Augustus de Morgan workshop, London* (pp. 71–88). Texts in Logic; Games, Amsterdam University Press.
+* –––, 2010, “Origins of epistemic game theory”, in V. F. Hendricks & O. Roy (Eds.), *Epistemic logic: Five questions* (pp. 59–69). Automatic Press.
+* Brandenburger, A. & E. Dekel, 1987, “Rationalizability and correlated equilibria”, *Econometrica*, 55(6): 1391–1402.
+* –––, 1993, “Hierarchies of beliefs and common knowledge”, *Journal of Economic Theory*, 59.
+* Brandenburger, A. & A. Friedenberg, 2008, “Intrinsic correlation in games”, *Journal of Economic Theory*, 141(1): 28–67.
+* –––, 2010, “Self-admissible sets”, *Journal of Economic Theory*, 145: 785–811.
+* Brandenburger, A. & H. Keisler, 2006, “An impossibility theorem on beliefs in games”, *Studia Logica*, 84(2): 211–240.
+* Brandenburger, A., A. Friedenberg, & H.J. Keisler, 2008, “Admissibility in games”, *Econometrica*, 76(2): 307–352.
+* de Bruin, B., 2010, *Explaining games : The epistemic programme in game theory*, New York City: Springer.
+* Chen, Y.C., J. Ely, & X. Luo, 2012, “Note on unawareness: Negative introspection versus AU introspection (and KU introspection)”, *International Journal of Game Theory*, 41(2): 325 - 329.
+* Colman, A., 2003, “Cooperation, psychological game theory, and limitations of rationality in social interactions”, *Behavioral and Brain Sciences*, 26: 139–198.
+* Cubitt, R.P. & R. Sugden, 1994, “Rationally justifiable play and the theory of non-cooperative games”, *The Economic Journal*, 104(425): 798–893.
+* –––, 2014, “ Common reasoning in games: A Lewisian analysis of common knowledge of rationality”, *Economics and Philosophy*, 30(03): 285–329.
+* Dekel, E., B. Lipman, & A. Rustichini, 1998, “Standard state-space models preclude unawareness”, *Econometrica*, 66: 159–173.
+* Doyle, A.C., 1894, *The Memoirs of Sherlock Holmes*, Mineola, NY: Dover Thrift Edition, 2010.
+* Fagin, R., J. Geanakoplos, J. Halpern, & M. Vardi, 1999, “The hierarchical approach to modeling knowledge and common knowledge”, *International Journal of Game Theory*, 28(3): 331–365.
+* Fagin, R., J. Halpern, & N. Megiddo, 1990, “A logic for reasoning about probabilities”, *Information and Computation*, 87(1–2): 78–128.
+* Fagin, R., J. Halpern, Y. Moses, & M. Vardi, 1995, *Reasoning about knowledge*, Cambridge: The MIT Press.
+* Finetti, B., 1974, *Theory of probability, vols. 1 and 2*, New York: Wiley.
+* Friedenberg, A. & H.J. Keisler, 2011, “Iterated dominance revisited”, in *Proceedings of the behavioral and quantitative game theory: Conference on future directions*, ACM, New York, NY. \[[available online](https://www.math.wisc.edu/\~keisler/idr-2011-08-12.pdf)].
+* Friedenberg, A. & M. Meier, 2009, “The context of a game”, in *Proceedings of the 12th Conference on Theoretical Aspects of Rationality and Knowledge*, pp. 134–135 \[[available online](https://web.archive.org/web/20150329044244/http://www.public.asu.edu/\~afrieden/cog.pdf)].
+* Gintis, H., 2009, *The bounds of reason: game theory and the unification of the behavioral sciences*, Princeton: Princeton University Press.
+* Halpern, J.Y., 1991, “The relationship between knowledge, belief, and certainty”, *Annals of Mathematics and Artificial Intelligence*, 4(3): 301–322. \[[available online](http://dx.doi.org/10.1007/BF01531062)].
+* –––, 1997, “On ambiguities in the interpretation of game trees”, *Games and Economic Behavior*, 20(1): 66–96.
+* –––, 1999, “Set-theoretic completeness for epistemic and conditional logic”, *Annals of Mathematics and Artificial Intelligence*, 26: 1–27.
+* –––, 2001a, “Alternative semantics for unawareness”, *Game and Economic Behavior*, 37: 321–339.
+* –––, 2001b, “Substantive rationality and backward induction”, *Games and Economic Behavior*, 37(2): 425–435.
+* –––, 2003, *Reasoning about uncertainty*, Cambridge: The MIT Press.
+* –––, 2010, “Lexiographic probability, conditional probability and nonstandard probability”, *Games and Economic Behavior*, 68(1): 155–179.
+* Halpern, J.Y. & R. Pass, 2009, “A logical characterization of iterated admissibility”, in A. Heifetz (Ed.), *Proceedings of the twelfth conference on theoretical aspects of rationality and knowledge* (pp. 146–155).
+* –––, 2011, “Iterated regret minimization: A new solution concept”, *Games and Economic Behavior*, 74(1): 184–207 \[[available online](http://arxiv.org/pdf/0810.3023.pdf)].
+* Halpern, J.Y. & L.C. Rego, 2008, “Interactive unawareness revisited”, *Games and Economic Behavior*, 62(1): 232–262.
+* Harsanyi, J.C., 1967–68, “Games with incomplete information played by ‘Bayesian’ players, parts I–III”, *Management Science*, 14: 159–182; 14: 320–334; 14: 486–502.
+* Heifetz, A., 1999, “How canonical is the canonical model? A comment on Aumann’s interactive epistemology”, *International Journal of Game Theory*, 28(3): 435–442.
+* Heifetz, A. & P. Mongin, 2001, “Probability Logic for Type Spaces”, *Games and Economic Behavior*, 35(1–2): 31–53.
+* Heifetz, A. & D. Samet, 1998, “Knowledge spaces with arbitrarily high rank”, *Games and Economic Behavior*, 22(2): 260–273.
+* Heifetz, A., M. Meier, & B. Schipper, 2006, “Interactive unawareness”, *Journal of Economic Theory*, 130: 78–94.
+* Hendricks, V. & J. Symons, 2009, “Epistemic logic”, in E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), URL = <[Epistemic Logic (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/logic-epistemic/)>.
+* Hoek, W. van der & M. Pauly, 2007, “Modal logic for games and information”, in P. Blackburn, J. van Benthem, & F. Wolter (Eds.), *Handbook of modal logic* (Vol. 3), Amsterdam: Elsevier.
+* Huber, F., 2009, “Formal representations of belief”, in E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Summer 2009 Edition), URL = <[Formal Representations of Belief (Stanford Encyclopedia of Philosophy/Summer 2009 Edition)](https://plato.stanford.edu/archives/sum2009/entries/formal-belief/)>.
+* Joyce, J., 2004, “Bayesianism”, in A. Mele & P. Rawling (Eds.), *The Oxford handbook of rationality*, Oxford: Oxford University Press.
+* Kadane, J.B. & P.D. Larkey, 1982, “Subjective probability and the theory of games”, *Management Science*, 28(2): 113–120. \[[available online](https://doi.org/10.1184/R1/6586943.v1)]
+* –––, 1983, “The confusion of is and ought in game theoretic contexts”, *Management Science*, 29(12): 1365–1379. \[[available online](https://doi.org/10.1184/R1/6586976.v1)]
+* Kaneko, M. & J. Kline, 1995, “Behavior strategies, mixed strategies and perfect recall”, *International Journal of Game Theory*, 24: 127–145.
+* Kline, J., 2002, “Minimum memory for equivalence between *Ex Ante* optimality and time-consistency”, *Games and Economic Behavior*, 38: 278–305.
+* Kuhn, H., 1953, “Extensive games and the problem of information”, in H. Kuhn & A. Tucker (Eds.), *Contributions to the theory of games, vol. II*, Princeton: Princeton University Press.
+* Lewis, D., 1969, *Convention*, Cambridge: Harvard University Press.
+* Leyton-Brown, K. & Y. Shoham, 2008, *Essentials of game theory: A concise, multidisciplinary introduction*, New York: Morgan & Claypool.
+* Lismont, L. & P. Mongin, 1994, “On the logic of common belief and common knowledge”, *Theory and Decision*, 37(1): 75–106.
+* –––, 2003, “Strong Completeness Theorems for Weak Logics of Common Belief”, *Journal of Philosophical Logic*, 32(2): 115–137.
+* Liu, F., 2011, “A two-level perspective on preference”, *Journal of Philosophical Logic*, 40(3): 421–439.
+* Lorini, E. & F. Schwarzentruber, 2010, “A modal logic of epistemic games”, *Games*, 1(4): 478–526.
+* Mariotti, T., M. Meier, & M. Piccione, 2005, “Hierarchies of beliefs for compact possibility models”, *Journal of Mathematical Economics*, 41: 303–324.
+* Mas-Colell, A., M. Winston, & J. Green, 1995, *Microeconomic theory*, Oxford: Oxford University Press.
+* Meier, M., 2005, “On the nonexistence of universal information structures”, *Journal of Economic Theory*, 122(1): 132–139.
+* Mertens, J. & S. Zamir, 1985, “Formulation of Bayesian analysis for games with incomplete information”, *International Journal of Game Theory*, 14(1): 1–29.
+* Modica, S. & A. Rustichini, 1994, “Awareness and partitional information structures”, *Theory and Decision*, 37: 107–124.
+* –––, 1999, “Unawareness and partitional information structures”, *Game and Economic Behavior*, 27: 265–298.
+* Monderer, D. & D. Samet, 1989, “Approximating common knowledge with common beliefs”, *Games and Economic Behavior*, 1(2): 170–190.
+* Morris, S., 1995, “The common prior assumption in economic theory”, *Economics and Philosophy*, 11(2): 227–253.
+* Moscati, I., 2009, *Interactive and common knowledge in the state-space model* (CESMEP Working Papers). University of Turin. \[[available online](http://econpapers.repec.org/RePEc:uto:cesmep:200903)].
+* Myerson, R., 1997 \[1991], *Game theory: Analysis of conflict*, Cambridge: Harvard University Press.
+* Osborne, M., 2003, *An introduction to game theory*, Oxford: Oxford University Press.
+* Pacuit, E., 2007, “Understanding the Brandenburger-Keisler paradox”, *Studia Logica*, 86(3): 435–454.
+* Pacuit, E. & O. Roy, 2011, “A dynamic analysis of interactive rationality”, in H. van Ditmarsch, J. Lang, & S. Ju (Eds.), *Proceedings of the third international workshop on logic, rationality and interaction* (Vol. 6953, pp. 244–258).
+* Pearce, D., 1984, “Rationalizable strategic behavior and the problem of perfection”, *Econometrica*, 52: 1029–1050.
+* Perea, A., 2007, “A one-person doxastic characterization of Nash strategies”, *Synthese*, 158: 251–271.
+* –––, 2012, *Epistemic game theory: Reasoning and choice*, Cambridge: Cambridge University Press.
+* –––, 2014, “Belief in the opponents’ future rationality”, *Games and Economic Behavior*, 83: 231–254.
+* Peterson, M., 2009, *An introduction to decision theory*, Cambridge: Cambridge University Press.
+* Piccione, M., & A. Rubinstein, 1997a, “On the interpretation of decision problems with imperfect recall”, *Games and Economic Behavior*, 20(1): 3–24.
+* –––, 1997b, “The absent-minded driver’s paradox: Synthesis and responses”, *Games and Economic Behavior*, 20(1): 121–130.
+* Rabinowicz, W., 1992, “Tortuous labyrinth: Noncooperative normal-form games between hyperrational players”, in C. Bicchieri & M. L. D. Chiara (Eds.), *Knowledge, belief and strategic interaction* (pp. 107–125).
+* Ross, D., 2010, “Game theory”, in E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2010 Edition), URL = <[Game Theory (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/game-theory/)>.
+* Roy, O. & E. Pacuit, 2013, “Substantive assumptions in interaction: A logical perspective”, *Synthese*, 190(5): 891–908.
+* Rubinstein, A., 1989, “The electronic mail game: Strategic behavior under ‘Almost common knowledge’”, *American Economic Review*, 79(3): 385–391.
+* –––, 1991, “Comments on the interpretation of game theory”, *Econometrica*, 59(4): 909–924.
+* Samuelson, L., 1992, “Dominated strategies and common knowledge”, *Game and Economic Behavior*, 4(2): 284–313.
+* Schelling, T., 1960, *The Strategy of Conflict*, Cambridge: Harvard University Press.
+* Schwitzgebel, E., 2010, “Belief”, in E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2010 Edition), URL = <[Belief (Stanford Encyclopedia of Philosophy/Winter 2010 Edition)](https://plato.stanford.edu/archives/win2010/entries/belief/)>.
+* Selten, R., 1975, “Reexamination of the perfectness concept for equilibrium points in extensive games”, *International Journal of Game Theory*, 4(1): 25–55. \[[available online](http://dx.doi.org/10.1007/BF01766400)].
+* Shoham, Y. & K. Leyton-Brown, 2008, *Multiagent systems*, Cambridge: Cambridge University Press.
+* Siniscalchi, M., 2008, “Epistemic game theory: Beliefs and types”, in S. Durlauf & L. Blume (Eds.), *The new Palgrave dictionary of economics*, Basingstoke: Palgrave Macmillan.
+* Spohn, W., 1982, “How to make sense of game theory”, *Philosophy of economics: Proceedings, Munich, July 1981*, W. Stegmüller, W. Balzer, & W. Spohn (eds), 239–270, *Studies in Contemporary Economics*, Volume 2, Berlin: Springer-Verlag.
+* Stalnaker, R., 1994, “On the evaluation of solution concepts”, *Theory and Decision*, 37(1): 49–73.
+* –––, 1996, “Knowledge, belief and counterfactual reasoning in games”, *Economics and Philosophy*, 12(02): 133–163.
+* –––, 1998, “Belief revision in games: forward and backward induction”, *Mathematical Social Sciences*, 36(1): 31–56.
+* –––, 1999, “Extensive and strategic forms: Games and models for games”, *Research in Economics*, 53(3): 293–319.
+* –––, 2006, “On logics of knowledge and belief”, *Philosophical Studies*, 128(1): 169–199.
+* Stuart Jr., H.W. & H. Hu, 2002, “An epistemic analysis of the Harsanyi transformation”, *International Journal of Game Theory*, 30(4): 517–525.
+* Tan, T.C.-C. & S.R. da Costa Werlang, 1988, “The Bayesian foundations of solution concepts of games”, *Journal of Economic Theory*, 45(2): 370–391, doi:10.1016/0022-0531(88)90276-1
+* Titelbaum, M., 2013, “Ten reasons to care about the sleeping beauty problem”, *Philosophy Compass*, 8: 1003–1017.
+* Ullmann-Margalit, E. & S. Morgenbesser, 1977, “Picking and choosing”, *Social Research*, 44: 757–785.
+* Vanderschraaf, P. & G. Sillari, 2009, “Common knowledge”, in E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), URL = <[Common Knowledge (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/common-knowledge/)>.
+* de Weerd, H., R. Verbrugge, & B. Verheij, 2013, “How much does it help to know what she knows you know? An agent-based simulation study”, *Artificial Intelligence*, 199–200: 67–92.
+* Zvesper, J., 2010, *Playing with information* (PhD thesis), ILLC, University of Amsterdam.
 
 ## Academic Tools
 
@@ -1373,5 +1373,5 @@ The reader interested in more extensive coverage of all or some of the topics di
 The editors would like to thank Philippe van Basshuysen for reading this entry carefully and taking the time to inform us of a significant number of typographical errors.
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
-[Eric Pacuit](http://www.philosophy.umd.edu/people/pacuit) <[_epacuit@umd.edu_](mailto:epacuit%40umd%2eedu)>\
-[Olivier Roy](http://www.philosophie1.uni-bayreuth.de/en/team/roy/) <[_Olivier.Roy@uni-bayreuth.de_](mailto:Olivier%2eRoy%40uni-bayreuth%2ede)>
+[Eric Pacuit](http://www.philosophy.umd.edu/people/pacuit) <[*epacuit@umd.edu*](mailto:epacuit%40umd%2eedu)>\
+[Olivier Roy](http://www.philosophie1.uni-bayreuth.de/en/team/roy/) <[*Olivier.Roy@uni-bayreuth.de*](mailto:Olivier%2eRoy%40uni-bayreuth%2ede)>

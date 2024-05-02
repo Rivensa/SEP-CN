@@ -1,6 +1,6 @@
 # 大卫·刘易斯的形而上学 metaphysics (Ned Hall, Brian Rabern, and Wolfgang Schwarz)
 
-_首次发表于2010年1月5日；实质性修订于2021年6月24日_
+*首次发表于2010年1月5日；实质性修订于2021年6月24日*
 
 大卫·刘易斯创作了一系列哲学著作，涵盖了哲学的各个主要领域，其中可能最集中在形而上学、语言哲学、哲学逻辑和心灵哲学方面。尽管有如此多样的内容，但初次接触刘易斯哲学的人最好从他的形而上学开始（特别是：1986a、1986e、1999）。有几个原因。首先，刘易斯的大部分作品要么涉及，要么与形而上学的主题有重叠。其次，刘易斯所提出的形而上学立场非常独特且有力地进行了论证。第三，这些作品具有一致性和系统性，使其成为研究的特别适当对象，因为人们可以清楚地看到刘易斯哲学的特色手法。 （实际上，如果有人希望学习如何以刘易斯的风格进行哲学思考，最高效的方法就是研究他在形而上学方面的作品。）最后，也许最有趣的是，刘易斯的形而上学对其其他哲学观点产生了深远的调节影响：如果某个在某个哲学问题上本来很有吸引力的立场与他整体形而上学观点不一致，那么它就必须被放弃。
 
@@ -9,8 +9,6 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 > 一个人来到哲学时已经具备了一些观点。哲学的任务不是在很大程度上削弱或证明这些先前存在的观点，而只是试图发现将它们扩展为一个有序系统的方法。（1973b，第 88 页）
 
 尽管刘易斯的哲学探究方法当然不是“自下而上”的，但我认为最好以自下而上的方式呈现这种探究的结果。这就是本文以及接下来的文章将尝试做到的。我将把领域分为四个部分：刘易斯的基本本体论；他的形而上学模态理论；他的“应用”形而上学（涵盖自然法则、反事实、因果关系、时间上的身份和心灵等主题）；以及刘易斯在形而上学中的方法论。我将很快解释这些区别，但请注意，本文几乎只涉及这四个主题中的第一个。关于大卫·刘易斯的其他方面在有关大卫·刘易斯的总论中有所涉及。
-
- 
 
 为了提供更深入的内容，还有一些补充文件，对以下问题进行了更详细的处理：还原论、自然/非自然区分、物理主义、时空点、休谟随附的偶然性、物理量、基本实体和量化模态逻辑的对应理论语义。
 
@@ -234,129 +232,129 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 
 ### Primary Literature: Works by David Lewis
 
-* 1966, “An Argument for the Identity Theory”, _Journal of Philosophy_, 63: 17–25; reprinted with additional material in Lewis 1983a: 99–107.
-* 1968, “Counterpart Theory and Quantified Modal Logic”, _Journal of Philosophy_, 65: 113–126; reprinted in Lewis 1983a: 26–39.
-* 1970, “How to Define Theoretical Terms”, _Journal of Philosophy_, 67: 427–446; reprinted in Lewis 1983a: 78–95.
-* 1970 (with Stephanie Lewis), “Holes”, _Australasian Journal of Philosophy_, 48: 206–212; reprinted in Lewis 1983a: 3–9.
-* 1971, “Counterparts of Persons and Their Bodies”, _Journal of Philosophy_, 68: 203–11; reprinted in Lewis 1983a: 47–54.
-* 1973a, “Causation”, _Journal of Philosophy_, 70: 556–67; reprinted in Lewis 1986a: 159–172.
-* 1973b, _Counterfactuals_, Cambridge, MA: Harvard University Press.
-* 1979a, “Counterfactual Dependence and Time’s Arrow”, _Noûs_, 13: 455–476; reprinted with Postscripts in Lewis 1986a: 32–66.
-* 1979b, “Scorekeeping in a Language Game”, _Journal of Philosophical Logic_, 8: 339–359; reprinted in Lewis 1983a: 233–249.
+* 1966, “An Argument for the Identity Theory”, *Journal of Philosophy*, 63: 17–25; reprinted with additional material in Lewis 1983a: 99–107.
+* 1968, “Counterpart Theory and Quantified Modal Logic”, *Journal of Philosophy*, 65: 113–126; reprinted in Lewis 1983a: 26–39.
+* 1970, “How to Define Theoretical Terms”, *Journal of Philosophy*, 67: 427–446; reprinted in Lewis 1983a: 78–95.
+* 1970 (with Stephanie Lewis), “Holes”, *Australasian Journal of Philosophy*, 48: 206–212; reprinted in Lewis 1983a: 3–9.
+* 1971, “Counterparts of Persons and Their Bodies”, *Journal of Philosophy*, 68: 203–11; reprinted in Lewis 1983a: 47–54.
+* 1973a, “Causation”, *Journal of Philosophy*, 70: 556–67; reprinted in Lewis 1986a: 159–172.
+* 1973b, *Counterfactuals*, Cambridge, MA: Harvard University Press.
+* 1979a, “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13: 455–476; reprinted with Postscripts in Lewis 1986a: 32–66.
+* 1979b, “Scorekeeping in a Language Game”, *Journal of Philosophical Logic*, 8: 339–359; reprinted in Lewis 1983a: 233–249.
 * 1980, “A Subjectivist’s Guide to Objective Chance”, in Lewis 1986a: 83–113.
-* 1983a, _Philosophical Papers_, Volume I, Oxford: Oxford University Press.
-* 1983b, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61: 343–377; reprinted in Lewis 1999: 8–55.
-* 1983c, “Extrinsic properties”, _Philosophical Studies_, 44: 197–200; reprinted in Lewis 1999: 111–115.
+* 1983a, *Philosophical Papers*, Volume I, Oxford: Oxford University Press.
+* 1983b, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61: 343–377; reprinted in Lewis 1999: 8–55.
+* 1983c, “Extrinsic properties”, *Philosophical Studies*, 44: 197–200; reprinted in Lewis 1999: 111–115.
 * 1983d, “Postscripts to ‘Counterpart Theory and Quantified Modal Logic’” in Lewis 1983a: 39–46.
-* 1983e, “Individuation by Acquaintance and by Stipulation”, _The Philosophical Review_, 92: 3–32.
-* 1984, “Putnam’s paradox”, _Australasian Journal of Philosophy_, 62: 221–236; reprinted in Lewis 1999.
-* 1986a, _Philosophical Papers_, Volume II, Oxford: Oxford University Press.
+* 1983e, “Individuation by Acquaintance and by Stipulation”, *The Philosophical Review*, 92: 3–32.
+* 1984, “Putnam’s paradox”, *Australasian Journal of Philosophy*, 62: 221–236; reprinted in Lewis 1999.
+* 1986a, *Philosophical Papers*, Volume II, Oxford: Oxford University Press.
 * 1986b, “Postscripts to ‘Causation’”, in Lewis 1986a: 172–213.
 * 1986c, “Causal Explanation”, in Lewis 1986a: 214–240.
 * 1986d, “Events”, in Lewis 1986a: 241–269.
-* 1986e, _On the Plurality of Worlds_, Oxford: Blackwell.
-* 1986f, “Against Structural Universals”, _Australasian Journal of Philosophy_, 64: 25–46; reprinted in Lewis 1999.
-* 1988, “Rearrangement of particles: Reply to Lowe”, _Analysis_, 48: 65–72; reprinted in Lewis 1999.
-* 1991, _Parts of Classes_, Oxford: Blackwell.
+* 1986e, *On the Plurality of Worlds*, Oxford: Blackwell.
+* 1986f, “Against Structural Universals”, *Australasian Journal of Philosophy*, 64: 25–46; reprinted in Lewis 1999.
+* 1988, “Rearrangement of particles: Reply to Lowe”, *Analysis*, 48: 65–72; reprinted in Lewis 1999.
+* 1991, *Parts of Classes*, Oxford: Blackwell.
 * 1993, “Many, but Almost One”, in Bacon, Campbell, and Reinhardt 1993: 23–38; reprinted in Lewis 1999: 164–182.
-* 1994, “Humean Supervenience Debugged”, _Mind_, 103: 473–90.
-* 1997, “Finkish Dispositions”, _Philosophical Quarterly_, 47: 143–158; reprinted in Lewis 1999: 133–151.
-* 1998, _Papers in Philosophical Logic_, Cambridge: Cambridge University Press.
-* 1999, _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press.
-* 2001, “Truthmaking and Difference-Making”, _Noûs_, 35: 602–615.
-* 2003, “Things Qua Truthmakers”, _Real Metaphysics: Essays in Honour of DH Mellor_, 25–42.
-* 2009, “Ramseyan Humility”, in _Conceptual Analysis and Philosophical Naturalism_, edited by D. Braddon-Mitchell and R. Nola, 203–22, Cambridge, Mass.: MIT Press.
+* 1994, “Humean Supervenience Debugged”, *Mind*, 103: 473–90.
+* 1997, “Finkish Dispositions”, *Philosophical Quarterly*, 47: 143–158; reprinted in Lewis 1999: 133–151.
+* 1998, *Papers in Philosophical Logic*, Cambridge: Cambridge University Press.
+* 1999, *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press.
+* 2001, “Truthmaking and Difference-Making”, *Noûs*, 35: 602–615.
+* 2003, “Things Qua Truthmakers”, *Real Metaphysics: Essays in Honour of DH Mellor*, 25–42.
+* 2009, “Ramseyan Humility”, in *Conceptual Analysis and Philosophical Naturalism*, edited by D. Braddon-Mitchell and R. Nola, 203–22, Cambridge, Mass.: MIT Press.
 
 ### Secondary Literature
 
-* Armstrong, D. M., 1978a, _Universals and Scientific Realism: Nominalism and Realism_, Vol I., Cambridge: Cambridge University Press
-* –––, 1978b, _Universals and Scientific Realism: A Theory of Universals_, Volume II, Cambridge: Cambridge University Press
-* –––, 1980, “Identity Through Time”, in Peter van Inwagen (ed.), _Time and Cause: Essays Presented to Richard Taylor_, Dordrecht: Reidel.
-* Bacon, Andrew, 2014, “Representing Counterparts”, _The Australasian Journal of Logic_, 11(2): 90–113. doi:10.26686/ajl.v11i2.2143
-* Bauer, Sebastian, and Wansing, Heinrich, 2002, “Consequence, Counterparts and Substitution:” _Monist_, 85(4): 483–497. doi:10.5840/monist200285434
-* Beebee, Helen, and Fisher, Anthony (eds.), 2020, _Philosophical Letters of David K. Lewis_, 2 volumes, New York: Oxford University Press.
-* Braüner, Torben, and Ghilardi, Silvio, 2007, “First-Order Modal Logic”, in _Handbook of Modal Logic_, Amsterdam: Elsevier, pp. 549–620.
-* Bricker, Phillip, 1993, “The Fabric of Space: Intrinsic vs. Extrinsic Distance Relations”, _Midwest Studies in Philosophy_, 18: 271–294.
-* –––, 2006, “David Lewis: _On the Plurality of Worlds_”, in _Central Works of Philosophy_ (Volume 5 The Twentieth Century: Quine and After), Durham: Acumen Publishing, \[[Bricker 2006 preprint available online](http://blogs.umass.edu/bricker/files/2014/08/Bricker-Lewiss\On\the-Plurality\of\Worlds.pdf)].
-* Bernstein, Sara, 2014, “Omissions as Possibilities”, _Philosophical Studies_, 167(1): 1–23. doi:10.1007/s11098-013-0229-0
-* Callender, Craig, 2001. “Humean Supervenience and Rotating Homogeneous Matter”, _Mind_, 110: 25–44.
-* Campbell, Keith, 1990, _Abstract Particulars_, Oxford: Blackwell.
-* Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, _Analysis_, 36(2): 106–9.
-* Chisholm, Roderick, 1967, “Identity Through Possible Worlds: Some Questions”, _Noûs_, 1: 1–8.
-* Corsi, Giovanna, 2007, “Necessary for”, in _Logic, Methodology and Philosophy of Science: Proceedings of the Thirteenth International Congress_, London: College Publications.
-* Cresswell, Max J., 2004, “Adequacy Conditions for Counterpart Theory”, _Australasian Journal of Philosophy_, 82: 28–41.
-* Fara, Delia Graff, 2009, “Dear Haecceitism”, _Erkenntnis_, 70 (3): 285–97. doi:10.1007/s10670-008-9149-3
-* –––, 2012, “Possibility Relative to a Sortal”, in Karen Bennett & Dean W. Zimmerman (eds.), _Oxford Studies in Metaphysics_ (Volume 7), Oxford: Oxford University Press, pp. 2–40, doi:10.1093/acprof:oso/9780199659081.003.0001
-* Fara, Michael, and Williamson, Timothy, 2005, “Counterparts and Actuality”, _Mind_, 114: 1–30.
-* Feldman, Fred, 1971, “Counterparts”, _Journal of Philosophy_, 68: 406–9.
-* Fitting, Melvin, 2004, “First-Order Intensional Logic”, _Annals of Pure and Applied Logic_, 127(1-3): 171–193. doi:10.1016/j.apal.2003.11.014
-* Forbes, Graeme, 1982, “Canonical Counterpart Theory”, _Analysis_, 42(1): 33–37. doi:10.1093/analys/42.1.33
-* –––, 1985, _The Metaphysics of Modality_, Oxford: Oxford University Press.
-* Ghilardi, Silvio, 1991, “Incompleteness Results in Kripke Semantics”, _Journal of Symbolic Logic_, 56(2): 517–538. doi:10.2307/2274697
-* –––, 1992, “Quantified Extensions of Canonical Propositional Intermediate Logics”, _Studia Logica_, 51(2): 195–214. doi:10.1007/BF00370113
-* –––, 2001, “Substitution, Quantifiers and Identity in Modal Logic”, in E. Morscher & A. Hieke (eds.), _New Essays in Free Logic_, Dordrecht: Kluwer, pp. 87–115.
-* Ghilardi, Silvio, and Meloni, Giancarlo, 1988, “Modal and Tense Predicate Logic: Models in Presheaves and Categorical Conceptualization”, in _Categorical Algebra and Its Applications_, Francis Borceux (ed.), Berlin: Springer, pp. 130–142.
-* –––, 1991, “Philosophical and Mathematical Investigations in First-Order Modal Logic”, in _Problemi Fondazionali in Teoria Del Significato. Atti Del Convegno Di Pontignano_, pp. 77–107, Firenze: Olsckhi.
-* Haslanger, Sally, 1994, “Humean Supervenience and Enduring Things”, _Australasian Journal of Philosophy_, 72: 339–359.
-* Hawley, Katherine, 2001, _How Things Persist_, Vol. 69, Oxford University Press.
-* Hazen, Allen P., 1977, _The Foundations of Modal Logic_, Ph.D. Thesis, University of Pittsburgh.
-* –––, 1979, “Counterpart-Theoretic Semantics for Modal Logic”, _Journal of Philosophy_, 76: 319–338.
-* –––, 2012, “Reflections on Counterpart Theory”, in _Oxford Studies in Metaphysics_ (Volume 7), Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 41–64.
-* Heller, Mark, 1998, “Property Counterparts in Ersatz Worlds”, _The Journal of Philosophy_, 95(6): 293–316. doi:10.2307/2564561
-* –––, 2005, “Anti-Essentialism and Counterpart Theory”, _The Monist_, 88(4): 600–618. doi:10.5840/monist200588428
-* Hintikka, Jaakko, 1962, _Knowledge and Belief: An Introduction to the Logic of the Two Notions_, Ithaca: Cornell University Press.
-* Hughes, G. E., and Cresswell, Max J., 1996, _A New Introduction to Modal Logic_, London and New York: Routledge.
-* Hunter, Graeme, and Seager, William, 1981, “The Discreet Charm of Counterpart Theory”, _Analysis_, 41(2): 73–76.
-* Kaiserman, Alex, 2017. “Causes and Counterparts”, _Australasian Journal of Philosophy_, 95 (1): 17–28. doi:10.1080/00048402.2016.1157695
-* Kaplan, David, 1979. “Transworld Heir Lines”, in _The Possible and the Actual_, edited by Michael J. Loux. Cornell University Press.
-* Karmo, Toomas, 1983. “Contingent Non-Identity”, _Australasian Journal of Philosophy_, 61 (2): 185–87.
-* Kocurek, Alexander W., 2018, “Counteridenticals”, _The Philosophical Review_, 127(3): 323–369. doi:10.1215/00318108-6718783
-* Kracht, Markus, and Kutz, Oliver, 2002, “The Semantics of Modal Predicate Logic I. Counterpart Frames”, in Frank Wolter, Heinrich Wansing, Maarten de Rijke, & Michael Zakharayaschev (eds.), _Advances in Modal Logic_ (Volume 3), World Scientific Publishing Company.
-* –––, 2005, “The Semantics of Modal Predicate Logic II. Modal Individuals Revisited”, in Reinhard Kahle (ed.), _Intensionality_, Los Angeles: A. K. Peters.
-* –––, 2007, “Logically Possible Worlds and Counterpart Semantics for Modal Logic”, in Dale Jacquette (ed.), _Philosophy of Logic_, Amsterdam: North Holland, pp. 943–995, .
-* Kripke, Saul, 1971, “Identity and Necessity”, in Milton K. Munitz (ed.), _Identity and Individuation_, New York: New York University Press, pp. 135–164.
-* –––, 1980, _Naming and Necessity_, Oxford: Blackwell.
-* –––, 2017, “Quantified Modality and Essentialism”, _Noûs_, 51(2): 221–234.
-* Kupffer, Manfred, 2010, _Counterparts and Qualities_, Ph.D. Thesis, Konstanz, Germany: Universität Konstanz.
-* Kutz, Oliver, 2000, _Kripke-Type Semantiken Für Die Modale Prädikatenlogik_, Master’s Thesis, Humboldt-Universität zu Berlin.
-* Langton, Rae and David Lewis, 1998, “Defining ‘Intrinsic’”, _Philosophy and Phenomenological Research_, 58: 333–345; reprinted in Lewis 1999: 116–132.
+* Armstrong, D. M., 1978a, *Universals and Scientific Realism: Nominalism and Realism*, Vol I., Cambridge: Cambridge University Press
+* –––, 1978b, *Universals and Scientific Realism: A Theory of Universals*, Volume II, Cambridge: Cambridge University Press
+* –––, 1980, “Identity Through Time”, in Peter van Inwagen (ed.), *Time and Cause: Essays Presented to Richard Taylor*, Dordrecht: Reidel.
+* Bacon, Andrew, 2014, “Representing Counterparts”, *The Australasian Journal of Logic*, 11(2): 90–113. doi:10.26686/ajl.v11i2.2143
+* Bauer, Sebastian, and Wansing, Heinrich, 2002, “Consequence, Counterparts and Substitution:” *Monist*, 85(4): 483–497. doi:10.5840/monist200285434
+* Beebee, Helen, and Fisher, Anthony (eds.), 2020, *Philosophical Letters of David K. Lewis*, 2 volumes, New York: Oxford University Press.
+* Braüner, Torben, and Ghilardi, Silvio, 2007, “First-Order Modal Logic”, in *Handbook of Modal Logic*, Amsterdam: Elsevier, pp. 549–620.
+* Bricker, Phillip, 1993, “The Fabric of Space: Intrinsic vs. Extrinsic Distance Relations”, *Midwest Studies in Philosophy*, 18: 271–294.
+* –––, 2006, “David Lewis: *On the Plurality of Worlds*”, in *Central Works of Philosophy* (Volume 5 The Twentieth Century: Quine and After), Durham: Acumen Publishing, \[[Bricker 2006 preprint available online](http://blogs.umass.edu/bricker/files/2014/08/Bricker-Lewiss\On\the-Plurality\of\Worlds.pdf)].
+* Bernstein, Sara, 2014, “Omissions as Possibilities”, *Philosophical Studies*, 167(1): 1–23. doi:10.1007/s11098-013-0229-0
+* Callender, Craig, 2001. “Humean Supervenience and Rotating Homogeneous Matter”, *Mind*, 110: 25–44.
+* Campbell, Keith, 1990, *Abstract Particulars*, Oxford: Blackwell.
+* Chandler, Hugh S., 1976, “Plantinga and the Contingently Possible”, *Analysis*, 36(2): 106–9.
+* Chisholm, Roderick, 1967, “Identity Through Possible Worlds: Some Questions”, *Noûs*, 1: 1–8.
+* Corsi, Giovanna, 2007, “Necessary for”, in *Logic, Methodology and Philosophy of Science: Proceedings of the Thirteenth International Congress*, London: College Publications.
+* Cresswell, Max J., 2004, “Adequacy Conditions for Counterpart Theory”, *Australasian Journal of Philosophy*, 82: 28–41.
+* Fara, Delia Graff, 2009, “Dear Haecceitism”, *Erkenntnis*, 70 (3): 285–97. doi:10.1007/s10670-008-9149-3
+* –––, 2012, “Possibility Relative to a Sortal”, in Karen Bennett & Dean W. Zimmerman (eds.), *Oxford Studies in Metaphysics* (Volume 7), Oxford: Oxford University Press, pp. 2–40, doi:10.1093/acprof:oso/9780199659081.003.0001
+* Fara, Michael, and Williamson, Timothy, 2005, “Counterparts and Actuality”, *Mind*, 114: 1–30.
+* Feldman, Fred, 1971, “Counterparts”, *Journal of Philosophy*, 68: 406–9.
+* Fitting, Melvin, 2004, “First-Order Intensional Logic”, *Annals of Pure and Applied Logic*, 127(1-3): 171–193. doi:10.1016/j.apal.2003.11.014
+* Forbes, Graeme, 1982, “Canonical Counterpart Theory”, *Analysis*, 42(1): 33–37. doi:10.1093/analys/42.1.33
+* –––, 1985, *The Metaphysics of Modality*, Oxford: Oxford University Press.
+* Ghilardi, Silvio, 1991, “Incompleteness Results in Kripke Semantics”, *Journal of Symbolic Logic*, 56(2): 517–538. doi:10.2307/2274697
+* –––, 1992, “Quantified Extensions of Canonical Propositional Intermediate Logics”, *Studia Logica*, 51(2): 195–214. doi:10.1007/BF00370113
+* –––, 2001, “Substitution, Quantifiers and Identity in Modal Logic”, in E. Morscher & A. Hieke (eds.), *New Essays in Free Logic*, Dordrecht: Kluwer, pp. 87–115.
+* Ghilardi, Silvio, and Meloni, Giancarlo, 1988, “Modal and Tense Predicate Logic: Models in Presheaves and Categorical Conceptualization”, in *Categorical Algebra and Its Applications*, Francis Borceux (ed.), Berlin: Springer, pp. 130–142.
+* –––, 1991, “Philosophical and Mathematical Investigations in First-Order Modal Logic”, in *Problemi Fondazionali in Teoria Del Significato. Atti Del Convegno Di Pontignano*, pp. 77–107, Firenze: Olsckhi.
+* Haslanger, Sally, 1994, “Humean Supervenience and Enduring Things”, *Australasian Journal of Philosophy*, 72: 339–359.
+* Hawley, Katherine, 2001, *How Things Persist*, Vol. 69, Oxford University Press.
+* Hazen, Allen P., 1977, *The Foundations of Modal Logic*, Ph.D. Thesis, University of Pittsburgh.
+* –––, 1979, “Counterpart-Theoretic Semantics for Modal Logic”, *Journal of Philosophy*, 76: 319–338.
+* –––, 2012, “Reflections on Counterpart Theory”, in *Oxford Studies in Metaphysics* (Volume 7), Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 41–64.
+* Heller, Mark, 1998, “Property Counterparts in Ersatz Worlds”, *The Journal of Philosophy*, 95(6): 293–316. doi:10.2307/2564561
+* –––, 2005, “Anti-Essentialism and Counterpart Theory”, *The Monist*, 88(4): 600–618. doi:10.5840/monist200588428
+* Hintikka, Jaakko, 1962, *Knowledge and Belief: An Introduction to the Logic of the Two Notions*, Ithaca: Cornell University Press.
+* Hughes, G. E., and Cresswell, Max J., 1996, *A New Introduction to Modal Logic*, London and New York: Routledge.
+* Hunter, Graeme, and Seager, William, 1981, “The Discreet Charm of Counterpart Theory”, *Analysis*, 41(2): 73–76.
+* Kaiserman, Alex, 2017. “Causes and Counterparts”, *Australasian Journal of Philosophy*, 95 (1): 17–28. doi:10.1080/00048402.2016.1157695
+* Kaplan, David, 1979. “Transworld Heir Lines”, in *The Possible and the Actual*, edited by Michael J. Loux. Cornell University Press.
+* Karmo, Toomas, 1983. “Contingent Non-Identity”, *Australasian Journal of Philosophy*, 61 (2): 185–87.
+* Kocurek, Alexander W., 2018, “Counteridenticals”, *The Philosophical Review*, 127(3): 323–369. doi:10.1215/00318108-6718783
+* Kracht, Markus, and Kutz, Oliver, 2002, “The Semantics of Modal Predicate Logic I. Counterpart Frames”, in Frank Wolter, Heinrich Wansing, Maarten de Rijke, & Michael Zakharayaschev (eds.), *Advances in Modal Logic* (Volume 3), World Scientific Publishing Company.
+* –––, 2005, “The Semantics of Modal Predicate Logic II. Modal Individuals Revisited”, in Reinhard Kahle (ed.), *Intensionality*, Los Angeles: A. K. Peters.
+* –––, 2007, “Logically Possible Worlds and Counterpart Semantics for Modal Logic”, in Dale Jacquette (ed.), *Philosophy of Logic*, Amsterdam: North Holland, pp. 943–995, .
+* Kripke, Saul, 1971, “Identity and Necessity”, in Milton K. Munitz (ed.), *Identity and Individuation*, New York: New York University Press, pp. 135–164.
+* –––, 1980, *Naming and Necessity*, Oxford: Blackwell.
+* –––, 2017, “Quantified Modality and Essentialism”, *Noûs*, 51(2): 221–234.
+* Kupffer, Manfred, 2010, *Counterparts and Qualities*, Ph.D. Thesis, Konstanz, Germany: Universität Konstanz.
+* Kutz, Oliver, 2000, *Kripke-Type Semantiken Für Die Modale Prädikatenlogik*, Master’s Thesis, Humboldt-Universität zu Berlin.
+* Langton, Rae and David Lewis, 1998, “Defining ‘Intrinsic’”, *Philosophy and Phenomenological Research*, 58: 333–345; reprinted in Lewis 1999: 116–132.
 * Maudlin, Tim, 2007a, “Suggestions from Physics for Deep Metaphysics”, in T. Maudlin 2007b: 78–103.
-* –––, 2007b, _The Metaphysics Within Physics_, Oxford: Oxford University Press.
-* McDonnell, Neil, 2016, “Events and Their Counterparts”, _Philosophical Studies_, 173 (5): 1291–1308. doi:10.1007/s11098-015-0547-5
-* Mondadori, Fabrizio, 1973, “Reference, Essentialism, and Modality in Leibniz’s Metaphysics”, _Studia Leibnitiana_, no. H. 1: 74–101.
-* Ninan, Dilip, 2018, “Quantification and Epistemic Modality”, _The Philosophical Review_, 127(4): 433–485. doi:10.1215/00318108-6973010
-* Plantinga, Alvin, 1974. _The Nature of Necessity_. Oxford: Oxford University Press.
-* –––. 1976. “Actualism and Possible Worlds”, _Theoria_, 42: 139–60.
-* Rabern, Brian, 2018. “Binding Bound Variables in Epistemic Contexts”, _Inquiry_, published online 18 May 2018. doi:10.1080/0020174X.2018.1470568
-* Ramachandran, Murali, 1989, “An Alternative Translation Scheme for Counterpart Theory”, _Analysis_, 49: 131–141.
-* –––, 1998, “Sortal Modal Logic and Counterpart Theory”, _Australasian Journal of Philosophy_, 76(4): 553–565. doi:10.1080/00048409812348671
-* –––, 2008, “Kripkean Counterpart Theory”, _Polish Journal of Philosophy_, 2: 89–106.
-* –––, 2020. “Chisholm’s Modal Paradox(es) and Counterpart Theory 50 Years On”, _Logic and Logical Philosophy_, 29(4): 571–92. doi:10.12775/LLP.2020.008
-* Robinson, Denis, 1982, “Re-Identifying Matter”, _The Philosophical Review_, 91: 317–41.
-* Russell, J. S., 2013, “Actuality for Counterpart Theorists”, _Mind_, 122(485): 85–134. doi:10.1093/mind/fzt037
-* Salmon, Nathan, 1981. _Reference and Essence_. Princeton: Princeton University Press.
-* Schurz, Gerhard, 1997, _The Is-Ought Problem. A Study in Philosophical Logic_ (Volume 1), Dordrecht: Kluwer.
-* Schwarz, Wolfgang, 2012, “How Things Are Elsewhere: Adventures in Counterpart Semantics”, in G. Russell & G. Restall (eds.), _New Waves in Philosophical Logic_, Basingstoke: Palgrave MacMillan, pp. 8–29, .
-* –––, 2014, “Counterpart Theory and the Paradox of Occasional Identity”, _Mind_, 123(492): 1057–1094. doi:10.1093/mind/fzu143
-* Shaw, James R., 2015. “De Re Belief and Cumming’s Puzzle”, _Analytic Philosophy_, 56 (1): 45–74. doi:10.1111/phib.12057
-* Sider, Theodore, 1996, “All the World’s a Stage”, _Australasian Journal of Philosophy_, 74: 433–53.
-* –––, 2001, _Four-Dimensionalism_, Oxford: Clarendon Press.
-* –––, 2002, “The Ersatz Pluriverse”, _Journal of Philosophy_, 99: 279–315.
-* Stalnaker, Robert, 1986, “Counterparts and Identity”, _Midwest Studies in Philosophy_, 11(1): 121–40. doi:10.1111/j.1475-4975.1986.tb00490.x
-* –––, 1994, “The Interaction of Modality with Quantification and Identity”, in W. Sinnott-Armstrong, D. Raffman, & N. Asher (eds.), _Modality, Morality and Belief: Essays in Honor of Ruth Barcan Marcus_, Cambridge: Cambridge University Press, pp. 12–28.
-* –––, 1996, “Varieties of Supervenience”, _Philosophical Perspectives_, 10: Metaphysics: 221–241.
-* –––, 2012, _Mere Possibilities_, Princeton, NJ: Princeton University Press.
-* Thomson, Judith, 1998. “The Statue and the Clay”, _Noûs_, 32: 149–173.
-* Torza, Alessandro, 2011, “Models for Counterparts”, _Axiomathes_, 21(4): 553–579. doi:10.1007/s10516-010-9120-1
-* Quine, Willard van Orman, 1953, “Reference and Modality”, In _From a Logical Point of View_, 139–59. Cambridge (Mass.): Harvard University Press.
-* van Benthem, Johan, 1983, _Modal Logic and Classical Logic_, Naples: Bibliopolis.
-* van Rooij, Robert, 2006, _Attitudes and Changing Contexts_, Ph.D. Dissertation, Heidelberg: Springer Netherlands. doi:10.1007/1-4020-4177-2
-* Varzi, Achille C., 2020, “Counterpart Theories for Everyone”, _Synthese_, 197(11): 4691–4715.
-* Wang, Jennifer, 2015, “Actualist Counterpart Theory”, _The Journal of Philosophy_, 112(8): 417–441. doi::10.5840/jphil2015112826.
-* Williams, J. Robert G., 2008, “Gavagai Again”, _Synthese_, 164:235–259
-* Williams, Donald, 1953, “On the Elements of Being”, _The Review of Metaphysics_, 7: 3–192.
-* Woodward, Richard, 2017, _Ersatz Counterparts_ (Oxford Studies in Metaphysics), Oxford: Oxford University Press.
-* Woollaston, Lin, 1994, “Counterpart Theory as a Semantics for Modal Logic”, _Logique et Analyse_, 147/148: 255–263.
+* –––, 2007b, *The Metaphysics Within Physics*, Oxford: Oxford University Press.
+* McDonnell, Neil, 2016, “Events and Their Counterparts”, *Philosophical Studies*, 173 (5): 1291–1308. doi:10.1007/s11098-015-0547-5
+* Mondadori, Fabrizio, 1973, “Reference, Essentialism, and Modality in Leibniz’s Metaphysics”, *Studia Leibnitiana*, no. H. 1: 74–101.
+* Ninan, Dilip, 2018, “Quantification and Epistemic Modality”, *The Philosophical Review*, 127(4): 433–485. doi:10.1215/00318108-6973010
+* Plantinga, Alvin, 1974. *The Nature of Necessity*. Oxford: Oxford University Press.
+* –––. 1976. “Actualism and Possible Worlds”, *Theoria*, 42: 139–60.
+* Rabern, Brian, 2018. “Binding Bound Variables in Epistemic Contexts”, *Inquiry*, published online 18 May 2018. doi:10.1080/0020174X.2018.1470568
+* Ramachandran, Murali, 1989, “An Alternative Translation Scheme for Counterpart Theory”, *Analysis*, 49: 131–141.
+* –––, 1998, “Sortal Modal Logic and Counterpart Theory”, *Australasian Journal of Philosophy*, 76(4): 553–565. doi:10.1080/00048409812348671
+* –––, 2008, “Kripkean Counterpart Theory”, *Polish Journal of Philosophy*, 2: 89–106.
+* –––, 2020. “Chisholm’s Modal Paradox(es) and Counterpart Theory 50 Years On”, *Logic and Logical Philosophy*, 29(4): 571–92. doi:10.12775/LLP.2020.008
+* Robinson, Denis, 1982, “Re-Identifying Matter”, *The Philosophical Review*, 91: 317–41.
+* Russell, J. S., 2013, “Actuality for Counterpart Theorists”, *Mind*, 122(485): 85–134. doi:10.1093/mind/fzt037
+* Salmon, Nathan, 1981. *Reference and Essence*. Princeton: Princeton University Press.
+* Schurz, Gerhard, 1997, *The Is-Ought Problem. A Study in Philosophical Logic* (Volume 1), Dordrecht: Kluwer.
+* Schwarz, Wolfgang, 2012, “How Things Are Elsewhere: Adventures in Counterpart Semantics”, in G. Russell & G. Restall (eds.), *New Waves in Philosophical Logic*, Basingstoke: Palgrave MacMillan, pp. 8–29, .
+* –––, 2014, “Counterpart Theory and the Paradox of Occasional Identity”, *Mind*, 123(492): 1057–1094. doi:10.1093/mind/fzu143
+* Shaw, James R., 2015. “De Re Belief and Cumming’s Puzzle”, *Analytic Philosophy*, 56 (1): 45–74. doi:10.1111/phib.12057
+* Sider, Theodore, 1996, “All the World’s a Stage”, *Australasian Journal of Philosophy*, 74: 433–53.
+* –––, 2001, *Four-Dimensionalism*, Oxford: Clarendon Press.
+* –––, 2002, “The Ersatz Pluriverse”, *Journal of Philosophy*, 99: 279–315.
+* Stalnaker, Robert, 1986, “Counterparts and Identity”, *Midwest Studies in Philosophy*, 11(1): 121–40. doi:10.1111/j.1475-4975.1986.tb00490.x
+* –––, 1994, “The Interaction of Modality with Quantification and Identity”, in W. Sinnott-Armstrong, D. Raffman, & N. Asher (eds.), *Modality, Morality and Belief: Essays in Honor of Ruth Barcan Marcus*, Cambridge: Cambridge University Press, pp. 12–28.
+* –––, 1996, “Varieties of Supervenience”, *Philosophical Perspectives*, 10: Metaphysics: 221–241.
+* –––, 2012, *Mere Possibilities*, Princeton, NJ: Princeton University Press.
+* Thomson, Judith, 1998. “The Statue and the Clay”, *Noûs*, 32: 149–173.
+* Torza, Alessandro, 2011, “Models for Counterparts”, *Axiomathes*, 21(4): 553–579. doi:10.1007/s10516-010-9120-1
+* Quine, Willard van Orman, 1953, “Reference and Modality”, In *From a Logical Point of View*, 139–59. Cambridge (Mass.): Harvard University Press.
+* van Benthem, Johan, 1983, *Modal Logic and Classical Logic*, Naples: Bibliopolis.
+* van Rooij, Robert, 2006, *Attitudes and Changing Contexts*, Ph.D. Dissertation, Heidelberg: Springer Netherlands. doi:10.1007/1-4020-4177-2
+* Varzi, Achille C., 2020, “Counterpart Theories for Everyone”, *Synthese*, 197(11): 4691–4715.
+* Wang, Jennifer, 2015, “Actualist Counterpart Theory”, *The Journal of Philosophy*, 112(8): 417–441. doi::10.5840/jphil2015112826.
+* Williams, J. Robert G., 2008, “Gavagai Again”, *Synthese*, 164:235–259
+* Williams, Donald, 1953, “On the Elements of Being”, *The Review of Metaphysics*, 7: 3–192.
+* Woodward, Richard, 2017, *Ersatz Counterparts* (Oxford Studies in Metaphysics), Oxford: Oxford University Press.
+* Woollaston, Lin, 1994, “Counterpart Theory as a Semantics for Modal Logic”, *Logique et Analyse*, 147/148: 255–263.
 
 ## Academic Tools
 
@@ -369,10 +367,10 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 ## Other Internet Resources
 
 * Corsi, Giovanna, 2002, “[Counterpart Semantics. A Foundational Study on Quantified Modal Logics](https://eprints.illc.uva.nl/id/eprint/84/1/PP-2002-20.text.pdf)”, Amsterdam, Institute for Logic, Language, and Computation, Research Report PP-2002-20.
-* Schwarz, Wolfgang, 2013, [_Generalising Kripke Semantics for Quantified Modal Logics_](https://www.umsu.de/papers/generalising.pdf), manuscript available online.
-* Sider, Ted, 2008, [_Beyond the Humphrey Objection_](http://www.tedsider.org/papers/counterpart\theory.pdf), manuscript available online.
+* Schwarz, Wolfgang, 2013, [*Generalising Kripke Semantics for Quantified Modal Logics*](https://www.umsu.de/papers/generalising.pdf), manuscript available online.
+* Sider, Ted, 2008, [*Beyond the Humphrey Objection*](http://www.tedsider.org/papers/counterpart\theory.pdf), manuscript available online.
 * [David Kellog Lewis](http://users.ox.ac.uk/\~worc0337/authors/david.lewis.html), by Peter King (Oxford University).
-* [Obituary of David Lewis](https://philpapers.org/archive/CRAODL.pdf), by Tim Crane, published in _The Independent_, October 23, 2001.
+* [Obituary of David Lewis](https://philpapers.org/archive/CRAODL.pdf), by Tim Crane, published in *The Independent*, October 23, 2001.
 
 ## Related Entries
 
@@ -383,6 +381,6 @@ _首次发表于2010年1月5日；实质性修订于2021年6月24日_
 Many thanks to Phillip Bricker for extraordinarily acute and helpful comments on an earlier draft of this entry. Also, for his valuable help on the supplement on fundamental entities.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Ned Hall](http://www.fas.harvard.edu/\~phildept/hall.html) <[_ehall@fas.harvard.edu_](mailto:ehall%40fas%2eharvard%2eedu)>\
-[Brian Rabern](https://www.ed.ac.uk/profile/brian-rabern) <[_brian.rabern@gmail.com_](mailto:brian%2erabern%40gmail%2ecom)>\
-[Wolfgang Schwarz](https://www.wolfgangschwarz.net/) <[_wo@umsu.de_](mailto:wo%40umsu%2ede)>
+[Ned Hall](http://www.fas.harvard.edu/\~phildept/hall.html) <[*ehall@fas.harvard.edu*](mailto:ehall%40fas%2eharvard%2eedu)>\
+[Brian Rabern](https://www.ed.ac.uk/profile/brian-rabern) <[*brian.rabern@gmail.com*](mailto:brian%2erabern%40gmail%2ecom)>\
+[Wolfgang Schwarz](https://www.wolfgangschwarz.net/) <[*wo@umsu.de*](mailto:wo%40umsu%2ede)>

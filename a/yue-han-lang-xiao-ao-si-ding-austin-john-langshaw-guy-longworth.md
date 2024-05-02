@@ -1,9 +1,8 @@
 # 约翰·朗肖·奥斯丁 Austin, John Langshaw (Guy Longworth)
 
-_首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 日_
+*首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 日*
 
 约约翰·朗肖·奥斯丁（1911-1960 年）是牛津大学的怀特斯道德哲学教授。他在哲学的各个领域做出了许多贡献，包括对知识、感知、行动、自由、真理、语言以及语言在言语行为中的使用的重要研究。奥斯丁在言语行为研究中所提出的区分，尤其是他对言语行为、言外行为和言后行为的区分，在近期的研究中已经被视为一种规范性的地位。他在知识和感知方面的研究使他成为了“牛津现实主义”的广泛传统中的一员，这一传统从库克·威尔逊和哈罗德·亚瑟·普里查德延续到 J.M.辛顿、M.G.F.马丁、约翰·麦克道威尔、保罗·斯诺登、查尔斯·特拉维斯和蒂莫西·威廉姆森。他在真理方面的研究在最近关于句子意义能否用真值条件来解释的讨论中起到了重要作用。
-
 
 ***
 
@@ -73,7 +72,7 @@ _首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 �
 
 (2)
 
-决定一个陈述是否为真的_事实_是_个别的_，例如事物、特征、事件和事态（1950a：121-124；1954ms：_passim_）。
+决定一个陈述是否为真的_事实_是_个别的_，例如事物、特征、事件和事态（1950a：121-124；1954ms：*passim*）。
 
 (3)
 
@@ -101,8 +100,8 @@ _首次发表于 2012 年 12 月 11 日；实质性修订于 2021 年 6 月 30 �
 
 在解释对应的过程中，奥斯丁诉诸了两种（他所称的）"约定"的类型（参见上述（3））：
 
-* _描述性约定_。这些将_句子_与世界中的情境、事物、事件等_类型_相关联。
-* _指示性约定_。这些将_陈述_（陈述）与世界中的_历史_（特定、具体）情境、事物、事件等相关联。（1950a：121-122）\[9]
+* *描述性约定*。这些将_句子_与世界中的情境、事物、事件等_类型_相关联。
+* *指示性约定*。这些将_陈述_（陈述）与世界中的_历史_（特定、具体）情境、事物、事件等相关联。（1950a：121-122）\[9]
 
 _描述性_约定将句子与事物存在的方式（类型）相关联：与情境、事物、事件等存在的方式相关联。例如，句子“猫在垫子上”与一种事物存在的方式相关联，即猫在垫子上。不同的历史情境可能属于该类型。例如，该类型的一个历史情境可能涉及洛戈斯（德里达的猫），而同一类型的另一个历史情境可能涉及虚无（萨特的猫）。同样，发生在不同时间的猫垫配对将是不同的历史情境或事件，但可能属于相同的类型。
 
@@ -210,9 +209,9 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 从最初的区分的残骸中，奥斯汀构建了一个新模型（参见[上述主题（3）](https://plato.stanford.edu/entries/austin-jl/#enum2.3-3)）。这个新模型建立在发言者进行言辞时所做的各种事情之间的区别上，即他们进行的各种_行为_。
 
-* _言语行为_：产生一个可以通过其语音、语法和词汇特征进行分类的话语，直到句子的意义（_沟通_行为）。它也是一种可以通过其_内容_进行分类的行为（_修辞_行为）——这是言语行为的一个独特特征。如果我承诺“我会回家吃晚饭”，然后承诺“我会工作到很晚”，那么我的行为就是两个不同的言语行为实例：一个具有“我会回家吃晚饭”的内容，另一个具有“我会工作到很晚”的内容（1962b: 94–98）。
-* _言外之意行为_：一种不仅可以通过其内容（如言语行为）进行分类，还可以通过其_力度_（陈述、警告、承诺等）进行分类的行为。如果我承诺“我会回家吃晚饭”，然后后来陈述“我会回家吃晚饭”，那么我的行为就是相同言语行为的实例：两个行为都涉及“我会回家吃晚饭”的内容。然而，我的行为是不同言外之意行为的实例：一个具有承诺的力度，而另一个具有陈述的力度（1962b: 98–101）。
-* _言外之意行为_：一种可以通过其“对听众、演讲者或其他人的感情、思想或行动产生的后果影响”来分类的行为。如果我警告冰很薄，并因此进行了一种言外之意行为，我可能会同时进行多种言外之意行为：我可能会_说服_某人避免它，或者_鼓励_某人冒险等等（1962b: 101）。
+* *言语行为*：产生一个可以通过其语音、语法和词汇特征进行分类的话语，直到句子的意义（_沟通_行为）。它也是一种可以通过其_内容_进行分类的行为（_修辞_行为）——这是言语行为的一个独特特征。如果我承诺“我会回家吃晚饭”，然后承诺“我会工作到很晚”，那么我的行为就是两个不同的言语行为实例：一个具有“我会回家吃晚饭”的内容，另一个具有“我会工作到很晚”的内容（1962b: 94–98）。
+* *言外之意行为*：一种不仅可以通过其内容（如言语行为）进行分类，还可以通过其_力度_（陈述、警告、承诺等）进行分类的行为。如果我承诺“我会回家吃晚饭”，然后后来陈述“我会回家吃晚饭”，那么我的行为就是相同言语行为的实例：两个行为都涉及“我会回家吃晚饭”的内容。然而，我的行为是不同言外之意行为的实例：一个具有承诺的力度，而另一个具有陈述的力度（1962b: 98–101）。
+* *言外之意行为*：一种可以通过其“对听众、演讲者或其他人的感情、思想或行动产生的后果影响”来分类的行为。如果我警告冰很薄，并因此进行了一种言外之意行为，我可能会同时进行多种言外之意行为：我可能会_说服_某人避免它，或者_鼓励_某人冒险等等（1962b: 101）。
 
 奥斯丁对这些区分的行为类型的兴趣在于“……主要是为了关注第二种言外之意行为，并将其与其他两种进行对比……”（1962b: 103）。奥斯丁认为言外之意行为的重要性在于什么？他认为未能将其与其他类型区分开来的危险在于什么？
 
@@ -258,7 +257,7 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 (6)
 
-一些关于感知无法使感知者与环境产生所需类型接触的标准论证形式（例如所谓的“幻觉论证”）——这些论证被提出来支持我们基本感知接触是与感觉数据接触的主张——最多也只能说服力不足（1962a: _passim_）。
+一些关于感知无法使感知者与环境产生所需类型接触的标准论证形式（例如所谓的“幻觉论证”）——这些论证被提出来支持我们基本感知接触是与感觉数据接触的主张——最多也只能说服力不足（1962a: *passim*）。
 
 最近的研究中，还有三个进一步的附带主张变得相当重要，它们如下。
 
@@ -306,7 +305,7 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 够了就够了：这并不意味着一切。够了意味着足够显示（在合理范围内，并且对于当前的意图和目的而言）它“不能”是其他任何东西，没有其他替代的空间，竞争性的描述也不存在。例如，它并不意味着足够显示它不是一只装填的金翅雀。（1946: 84.）
 
-至少有三种非排他性的方式来解读奥斯丁在这里的论断。第一种是将其解读为这里所需的足够条件使得“这里的东西”成为一只金翅雀，但在任何情况下，这些条件可能不足够。可能存在其他鸟类或其他物体，它们的头部形状相同。然而，我们可能非常清楚地知道这里没有这样的鸟类或物体；或者我们可能对这个东西了解足够，知道它不是那种鸟类或其他物体，尽管我们没有具体说明我们是如何回答最初的挑战的。也就是说，我们可能知道在我们所知道的其他内容和我们进行判断的情况下，这不是一只装填的金翅雀，即使我们明确指出的回答并不能单独排除这种可能性。第二种解读奥斯丁的方式是承认我们可以知道这是一只金翅雀，即使我们知道如果它是一只装填的金翅雀，那么它就不是一只金翅雀，而我们并不知道它不是一只装填的金翅雀。我们有权（无论是一般情况还是这种情况下）假设或依赖它不是一只装填的金翅雀，尽管这是我们无法排除并且不知道的事情（参见 Kaplan 2011，以了解对奥斯丁在这一领域观点的第二种解读的发展）。第三种解读这段话的方式是声称在判断或声称我们知道这是一只金翅雀的不同场合，_可能性_的范围可以因场合而异。在第三种解读中，尽管在这个场合上，被呈现的东西可能是一只装填的金翅雀是_不可能的_，但在其他场合上可能是可能的。因此，我们的事实不需要在这个场合上排除这种可能性，尽管可能在其他场合上我们的事实需要这样做。（Travis 2005 发展了第三种方法。参见 Millar 2005 的反对意见。）
+至少有三种非排他性的方式来解读奥斯丁在这里的论断。第一种是将其解读为这里所需的足够条件使得“这里的东西”成为一只金翅雀，但在任何情况下，这些条件可能不足够。可能存在其他鸟类或其他物体，它们的头部形状相同。然而，我们可能非常清楚地知道这里没有这样的鸟类或物体；或者我们可能对这个东西了解足够，知道它不是那种鸟类或其他物体，尽管我们没有具体说明我们是如何回答最初的挑战的。也就是说，我们可能知道在我们所知道的其他内容和我们进行判断的情况下，这不是一只装填的金翅雀，即使我们明确指出的回答并不能单独排除这种可能性。第二种解读奥斯丁的方式是承认我们可以知道这是一只金翅雀，即使我们知道如果它是一只装填的金翅雀，那么它就不是一只金翅雀，而我们并不知道它不是一只装填的金翅雀。我们有权（无论是一般情况还是这种情况下）假设或依赖它不是一只装填的金翅雀，尽管这是我们无法排除并且不知道的事情（参见 Kaplan 2011，以了解对奥斯丁在这一领域观点的第二种解读的发展）。第三种解读这段话的方式是声称在判断或声称我们知道这是一只金翅雀的不同场合，*可能性_的范围可以因场合而异。在第三种解读中，尽管在这个场合上，被呈现的东西可能是一只装填的金翅雀是_不可能的*，但在其他场合上可能是可能的。因此，我们的事实不需要在这个场合上排除这种可能性，尽管可能在其他场合上我们的事实需要这样做。（Travis 2005 发展了第三种方法。参见 Millar 2005 的反对意见。）
 
 让我们转向[(7)-(9)](https://plato.stanford.edu/entries/austin-jl/#enum3-7)，重点关注[(9)](https://plato.stanford.edu/entries/austin-jl/#enum3-9)，即“我知道某某事情”这种说法的表演性而非描述性功能。这至少有两个令人困惑的原因：首先，“我知道”缺乏描述性功能的说法似乎显然是错误的；其次，不清楚这种说法在奥斯汀整个理论中有什么功能，如果有的话。
 
@@ -380,7 +379,7 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 奥斯汀在他的《如果和能够》（1956a）中考虑了这个问题。在那里，他讨论并拒绝了 G.E.摩尔（1912 年）和诺维尔-史密斯（1954 年）试图提供关于我们能够做什么的解释，即我们能够做某事（/不做某事）与我们的情况决定我们实际上不做某事（/不做某事）是兼容的。奥斯汀认为，他关注的解释的反对意见在一定程度上支持了我们关于我们能够做什么的普通说法与决定论不兼容的观点。
 
-奥斯汀考虑的摩尔的第一个提议是，某人_S_能够做某事_A_的说法等同于以下说法：如果_S_选择做_A_，那么_S_将会做_A_。奥斯汀认为，摩尔的第一个提议基于对“_S_能够做_A_，如果_S_选择”这种说法的功能的错误看法。\[25]摩尔的第二个提议是，说“_S_能够做_A_”等同于一个形式为“如果_C_，那么_S_将会_B_”的说法。例如，“我本可以把球打进洞里”可能被理解为等同于“如果我试着把球打进洞里，我就会成功地把球打进洞里。”在这里，这个提议似乎可以避开决定论所带来的挑战。假设在实际情况_C_下，我没有试着把球打进洞里。根据决定论，这意味着(_C_和我试着把球打进洞里)是不可能的。但这既与在稍微不同的情况下，我试着把球打进洞里是可能的，也与如果我试着打进洞里，我会成功的情况相一致。奥斯汀没有详细探讨这个提议，尽管他对诺维尔-史密斯的讨论涉及相关问题（219-230）。然而，在一个脚注中，奥斯汀提出了一个重要的假设反例：
+奥斯汀考虑的摩尔的第一个提议是，某人_S_能够做某事_A_的说法等同于以下说法：如果_S_选择做_A_，那么_S_将会做_A_。奥斯汀认为，摩尔的第一个提议基于对“*S_能够做_A*，如果_S_选择”这种说法的功能的错误看法。\[25]摩尔的第二个提议是，说“*S_能够做_A*”等同于一个形式为“如果_C_，那么_S_将会_B_”的说法。例如，“我本可以把球打进洞里”可能被理解为等同于“如果我试着把球打进洞里，我就会成功地把球打进洞里。”在这里，这个提议似乎可以避开决定论所带来的挑战。假设在实际情况_C_下，我没有试着把球打进洞里。根据决定论，这意味着(_C_和我试着把球打进洞里)是不可能的。但这既与在稍微不同的情况下，我试着把球打进洞里是可能的，也与如果我试着打进洞里，我会成功的情况相一致。奥斯汀没有详细探讨这个提议，尽管他对诺维尔-史密斯的讨论涉及相关问题（219-230）。然而，在一个脚注中，奥斯汀提出了一个重要的假设反例：
 
 考虑一种情况，我错过了一个非常短的推杆，并因为我本可以把它推进洞里而自责。并不是说如果我尝试了就一定能推进洞里：我确实尝试了，但是没有成功。也不是说如果条件不同的话我就一定能推进洞里：当然可能是这样，但我说的是条件确切如何，我断言我本可以推进洞里。这就是问题所在。（1956a: 218 fn.1）
 
@@ -400,196 +399,196 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 (Where a paper of Austin’s is contained in Austin 1979, page references in the text are to that volume.)
 
-* Austin, J.L., 1930s–1940s, “The Line and the Cave in Plato’s _Republic_”, reconstructed from notes by J.O. Urmson, in Austin 1979: 288–304. doi:10.1093/019283021X.003.0013
-* –––, 1939ms/1967, “Agathon and Eudaimonia in the _Ethics_ of Aristotle”, in J.M.E. Moravcsik (ed.) _Aristotle_, New York: Doubleday: 261–296; reprinted in Austin 1979: 1–31. doi:10.1093/019283021X.003.0001
-* –––, 1939, “Are There _A Priori_ Concepts”, _Proceedings of the Aristotelian Society_, Supplementary Volume 18: 83–105; reprinted in Austin 1979: 32–54. doi:10.1093/019283021X.003.0002
+* Austin, J.L., 1930s–1940s, “The Line and the Cave in Plato’s *Republic*”, reconstructed from notes by J.O. Urmson, in Austin 1979: 288–304. doi:10.1093/019283021X.003.0013
+* –––, 1939ms/1967, “Agathon and Eudaimonia in the *Ethics* of Aristotle”, in J.M.E. Moravcsik (ed.) *Aristotle*, New York: Doubleday: 261–296; reprinted in Austin 1979: 1–31. doi:10.1093/019283021X.003.0001
+* –––, 1939, “Are There *A Priori* Concepts”, *Proceedings of the Aristotelian Society*, Supplementary Volume 18: 83–105; reprinted in Austin 1979: 32–54. doi:10.1093/019283021X.003.0002
 * –––, 1940ms, “The Meaning of a Word”, in Austin 1979: 55–75. doi:10.1093/019283021X.003.0003
-* –––, 1946, “Symposium: Other Minds II”, _Proceedings of the Aristotelian Society_, Supplementary Volume 20: 148–187; reprinted as “Other Minds 1” in Austin 1979: 76–116. doi:10.1093/019283021X.003.0004
-* –––, 1950a, “Truth”, _Proceedings of the Aristotelian Society_, Supplementary Volume 24: 111–128; reprinted in Austin 1979: 117–133. doi:10.1093/019283021X.003.0005
-* –––, 1950b, “Intelligent Behaviour: A Critical Review of _The Concept of Mind_”, _Times Literary Supplement_, Supplementary Volume 24: 111–128; reprinted in Oscar P. Wood and George Pitcher (eds.), 1970, _Ryle: A Collection of Critical Essays_, New York: Doubleday, pp. 48–51.
-* –––, 1952a, “Critical Notice: _Aristotle’s Syllogistic_ by Jan Łukasiewicz”, _Mind_, 61(243): 395–404. doi:10.1093/mind/LXI.243.395
-* –––, 1952b, “Report on Analysis ‘Problem’ no. 1: ‘What sort of ‘if’ is the ‘if’ in ‘I can if I choose’?’” _Analysis_, 12(6): 125–126. doi:10.1093/analys/12.6.125a
-* –––, 1953, “How to Talk—some simple ways”, _Proceedings of the Aristotelian Society_, 53: 227–246; reprinted in Austin 1979: 134–153. doi:10.1093/aristotelian/53.1.227 and doi:10.1093/019283021X.003.0006
+* –––, 1946, “Symposium: Other Minds II”, *Proceedings of the Aristotelian Society*, Supplementary Volume 20: 148–187; reprinted as “Other Minds 1” in Austin 1979: 76–116. doi:10.1093/019283021X.003.0004
+* –––, 1950a, “Truth”, *Proceedings of the Aristotelian Society*, Supplementary Volume 24: 111–128; reprinted in Austin 1979: 117–133. doi:10.1093/019283021X.003.0005
+* –––, 1950b, “Intelligent Behaviour: A Critical Review of *The Concept of Mind*”, *Times Literary Supplement*, Supplementary Volume 24: 111–128; reprinted in Oscar P. Wood and George Pitcher (eds.), 1970, *Ryle: A Collection of Critical Essays*, New York: Doubleday, pp. 48–51.
+* –––, 1952a, “Critical Notice: *Aristotle’s Syllogistic* by Jan Łukasiewicz”, *Mind*, 61(243): 395–404. doi:10.1093/mind/LXI.243.395
+* –––, 1952b, “Report on Analysis ‘Problem’ no. 1: ‘What sort of ‘if’ is the ‘if’ in ‘I can if I choose’?’” *Analysis*, 12(6): 125–126. doi:10.1093/analys/12.6.125a
+* –––, 1953, “How to Talk—some simple ways”, *Proceedings of the Aristotelian Society*, 53: 227–246; reprinted in Austin 1979: 134–153. doi:10.1093/aristotelian/53.1.227 and doi:10.1093/019283021X.003.0006
 * –––, 1954ms, “Unfair to Facts”, in Austin 1979: 154–174. doi:10.1093/019283021X.003.0007
-* –––, 1956a, “Ifs and Cans”, _Proceedings of the British Academy_ 42: 109–132; reprinted in Austin 1979: 205–232. doi:10.1093/019283021X.003.0009
+* –––, 1956a, “Ifs and Cans”, *Proceedings of the British Academy* 42: 109–132; reprinted in Austin 1979: 205–232. doi:10.1093/019283021X.003.0009
 * –––, 1956b, “Performative Utterances”, corrected transcript of an unscripted radio talk delivered in the Third Programme of the BBC, in Austin 1979: 233–252. doi:10.1093/019283021X.003.0010
-* –––, 1957, “A Plea for Excuses: The Presidential Address”, _Proceedings of the Aristotelian Society_, 57: 1–30; reprinted in Austin 1979: 175–204. doi:10.1093/aristotelian/57.1.1 and doi:10.1093/019283021X.003.0008
-* –––, 1958a, “Pretending”, _Proceedings of the Aristotelian Society_, Supplementary Volume 32: 261–278; reprinted in Austin 1979: 253–271. doi:10.1093/019283021X.003.0011
-* –––, 1958b, “Report on Analysis ‘Problem’ no. 12: ‘All swans are white or black.’ Does this refer to possible swans on canals on Mars?’” _Analysis_, 18(5): 97–98. doi:10.1093/analys/18.5.97
-* –––, 1962a, _Sense and Sensibilia_, reconstructed from the manuscript notes by G.J. Warnock, Oxford: Oxford University Press.
-* –––, 1962b, _How to Do Things with Words_, 2nd edn., M. Sbisà and J.O. Urmson (eds.), Oxford: Oxford University Press, 1975.
-* –––, 1962c, “Performatif-Constatif”, in _Cahiers de Royaumont, Philosophie No. IV, La Philosophie Analytique_, Les Editions de Minuit: 271–304.
-* –––, 1963, “Performative-Constative” (a translation of Austin 1962c by G.J. Warnock) in Charles E. Caton (ed.), _Philosophy and Ordinary Language_, University of Illinois Press: 22–54.
-* –––, 1966, “Three Ways of Spilling Ink”, L.W. Forguson (ed.), _Philosophical Review_, 75(4): 427–440; reprinted in Austin 1979: 272–287. doi:10.2307/2183222 and doi:10.1093/019283021X.003.0012
-* –––, 1979, _Philosophical Papers_, 3rd edn., J.O. Urmson and G.J. Warnock (eds.), Oxford: Oxford University Press. doi:10.1093/019283021X.001.0001
-* Frege, Gottlob, 1884/1950, _Die Grundlagen der Arithmetik_, translated by J.L. Austin as _The Foundations of Arithmetic: A Logico-mathematical Enquiry into the Concept of Number_, Oxford: Blackwell.
-* Joseph, H.W.B., 1949, _Lectures on the Philosophy of Leibniz_, J.L. Austin (ed.), Oxford: Clarendon Press.
+* –––, 1957, “A Plea for Excuses: The Presidential Address”, *Proceedings of the Aristotelian Society*, 57: 1–30; reprinted in Austin 1979: 175–204. doi:10.1093/aristotelian/57.1.1 and doi:10.1093/019283021X.003.0008
+* –––, 1958a, “Pretending”, *Proceedings of the Aristotelian Society*, Supplementary Volume 32: 261–278; reprinted in Austin 1979: 253–271. doi:10.1093/019283021X.003.0011
+* –––, 1958b, “Report on Analysis ‘Problem’ no. 12: ‘All swans are white or black.’ Does this refer to possible swans on canals on Mars?’” *Analysis*, 18(5): 97–98. doi:10.1093/analys/18.5.97
+* –––, 1962a, *Sense and Sensibilia*, reconstructed from the manuscript notes by G.J. Warnock, Oxford: Oxford University Press.
+* –––, 1962b, *How to Do Things with Words*, 2nd edn., M. Sbisà and J.O. Urmson (eds.), Oxford: Oxford University Press, 1975.
+* –––, 1962c, “Performatif-Constatif”, in *Cahiers de Royaumont, Philosophie No. IV, La Philosophie Analytique*, Les Editions de Minuit: 271–304.
+* –––, 1963, “Performative-Constative” (a translation of Austin 1962c by G.J. Warnock) in Charles E. Caton (ed.), *Philosophy and Ordinary Language*, University of Illinois Press: 22–54.
+* –––, 1966, “Three Ways of Spilling Ink”, L.W. Forguson (ed.), *Philosophical Review*, 75(4): 427–440; reprinted in Austin 1979: 272–287. doi:10.2307/2183222 and doi:10.1093/019283021X.003.0012
+* –––, 1979, *Philosophical Papers*, 3rd edn., J.O. Urmson and G.J. Warnock (eds.), Oxford: Oxford University Press. doi:10.1093/019283021X.001.0001
+* Frege, Gottlob, 1884/1950, *Die Grundlagen der Arithmetik*, translated by J.L. Austin as *The Foundations of Arithmetic: A Logico-mathematical Enquiry into the Concept of Number*, Oxford: Blackwell.
+* Joseph, H.W.B., 1949, *Lectures on the Philosophy of Leibniz*, J.L. Austin (ed.), Oxford: Clarendon Press.
 
 ### Secondary Literature
 
-* Ayer, A.J., 1940, _The Foundations of Empirical Knowledge_, London: Macmillan.
-* –––, 1967, “Has Austin Refuted the Sense-Datum Theory?” _Synthese_, 17(2): 117–140; reprinted in Fann 1969: 284–308. doi:10.1007/BF00485023
+* Ayer, A.J., 1940, *The Foundations of Empirical Knowledge*, London: Macmillan.
+* –––, 1967, “Has Austin Refuted the Sense-Datum Theory?” *Synthese*, 17(2): 117–140; reprinted in Fann 1969: 284–308. doi:10.1007/BF00485023
 * –––, 1969, “Rejoinder to Professor Forguson”, in Fann 1969: 342–348.
-* –––, 1978, _Part of My Life_, Oxford: Oxford University Press.
-* Ayers, M.R., 1966, “Austin on ‘Could’ and ‘Could Have’”, _Philosophical Quarterly_, 16(63): 113–120. doi:10.2307/2218447
-* Bach, Kent, 1975, “Performatives are Statements too”, _Philosophical Studies_, 28(4): 229–36; reprinted in Bach and Harnish 1979. doi:10.1007/BF00353970
-* Bach, Kent and Robert M. Harnish, 1979, _Linguistic Communication and Speech Acts_, Cambridge, MA: MIT Press.
-* Baldwin, Tom, 2010, “George Edward Moore”, _The Stanford Encyclopedia of Philosophy (Summer 2010 Edition)_, Edward N. Zalta (ed.), URL = <[George Edward Moore (Stanford Encyclopedia of Philosophy/Summer 2010 Edition)](https://plato.stanford.edu/archives/sum2010/entries/moore/)>
-* Barwise, Jon and John Etchemendy, 1987, _The Liar: An Essay on Truth and Circularity_, Oxford: Oxford University Press.
+* –––, 1978, *Part of My Life*, Oxford: Oxford University Press.
+* Ayers, M.R., 1966, “Austin on ‘Could’ and ‘Could Have’”, *Philosophical Quarterly*, 16(63): 113–120. doi:10.2307/2218447
+* Bach, Kent, 1975, “Performatives are Statements too”, *Philosophical Studies*, 28(4): 229–36; reprinted in Bach and Harnish 1979. doi:10.1007/BF00353970
+* Bach, Kent and Robert M. Harnish, 1979, *Linguistic Communication and Speech Acts*, Cambridge, MA: MIT Press.
+* Baldwin, Tom, 2010, “George Edward Moore”, *The Stanford Encyclopedia of Philosophy (Summer 2010 Edition)*, Edward N. Zalta (ed.), URL = <[George Edward Moore (Stanford Encyclopedia of Philosophy/Summer 2010 Edition)](https://plato.stanford.edu/archives/sum2010/entries/moore/)>
+* Barwise, Jon and John Etchemendy, 1987, *The Liar: An Essay on Truth and Circularity*, Oxford: Oxford University Press.
 * Baz, Avner, 2011, “Knowing Knowing (that Such and Such)”, in Gustafsson and Sørli 2011: 146–174. doi:10.1093/acprof:oso/9780199219759.003.0006
-* Bennett, Jonathan, 1966, “‘Real’”, _Mind_, 75(300): 501–515; reprinted in Fann 1969: 267–283. doi:10.1093/mind/LXXV.300.501
-* Berlin, Isaiah, and others, 1973a, _Essays on J.L. Austin_, Oxford: Clarendon Press.
+* Bennett, Jonathan, 1966, “‘Real’”, *Mind*, 75(300): 501–515; reprinted in Fann 1969: 267–283. doi:10.1093/mind/LXXV.300.501
+* Berlin, Isaiah, and others, 1973a, *Essays on J.L. Austin*, Oxford: Clarendon Press.
 * –––, 1973b, “Austin and the Early Beginnings of Oxford Philosophy”, in Berlin and others 1973a: 1–16.
-* Bird, Alexander, 1998, “Dispositions and Antidotes”, _Philosophical Quarterly_, 48(191): 227–34. doi:10.1111/1467-9213.00098
-* Bird, Graham, 1981, “Austin’s Theory of Illocutionary Force”, in P.A. French, T.E. Uehling Jr., and H.K. Wettstein (eds.), _Midwest Studies in Philosophy_ (Volume VI), Minneapolis: University of Minnesota Press, pp. 345–370. doi:10.1111/j.1475-4975.1981.tb00445.x
-* Black, Max, 1963, “Austin on Performatives”, _Philosophy_, 38(145): 217–226; reprinted in Fann 1969: 401–411. doi:10.1017/S003181910006174X
-* Burnyeat, Myles, 1979, “Conflicting Appearances”, _Proceedings of the British Academy_, 65: 69–111.
-* Cartwright, Richard L., 1962, “Propositions”, in R.J. Butler (ed.) _Analytical Philosophy_, Oxford: Basil Blackwell: 179–203; reprinted in Cartwright 1987 _Philosophical Essays_, Cambridge, MA: MIT Press.
-* Cavell, Stanley, 1965, “Austin at Criticism”, _Philosophical Review_, 74(2): 204–219; reprinted in Fann 1969: 59–75. doi:10.2307/2183265
-* Cerf, Walter, 1966, “Critical Review of _How to Do Things with Words_”, _Mind_, 75(298): 262–285; reprinted in Fann 1969: 351–379. doi:10.1093/mind/LXXV.298.262
-* Chisholm, Roderick M., 1964, “Austin’s _Philosophical Papers_”, _Mind_, 73(289): 1–26; reprinted in Fann 1969: 101–126. doi:10.1093/mind/LXXIII.289.1
-* Clarke, Randolph, 2009, “Dispositions, Abilities to Acts, and Free Will: The New Dispositionalism”, _Mind_, 118(470): 323–351. doi:10.1093/mind/fzp034
-* Cohen, L. Jonathan, 1964, “Do Illocutionary Forces Exist?” _Philosophical Quarterly_, 14(55): 118–137; reprinted in Fann 1969: 420–444. doi:10.2307/2955549
-* –––, 1974, “Speech Acts”, T. Sebcok (ed.) _Current Trends in Linguistics XII_, The Hague: Mouten de Gruyter.
-* Crary, Alice, 2002, “The Happy Truth: J.L. Austin’s _How to Do Things with Words_”, _Inquiry_, 45(1): 59–80. doi:10.1080/002017402753556616
-* Dancy, J., 2010, “Harold Arthur Prichard”, _The Stanford Encyclopedia of Philosophy (Spring 2010 Edition)_, Edward N. Zalta (ed.), URL = <[Harold Arthur Prichard (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/prichard/)>.
-* Davidson, Donald, 1969, “True to the Facts”, _Journal of Philosophy_, 66(21): 748–764. doi:10.2307/2023778
-* de Gaynesford, Maximilian, 2009, “Incense and Insensibility: Austin on the ‘Non-Seriousness’ of Poetry”, _Ratio_, 22(4): 463–485. doi:10.1111/j.1467-9329.2009.00445.x
-* –––, 2018, “Uptake in Action”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 79–95, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.005
-* Derrida, Jacques, 1977, “Signature, Event, Context”, _Glyph_ 1, Baltimore, MD: Johns Hopkins Press: 172–197; reproduced in Alan Bass (trans.) 1982 _Margins of Philosophy_, Brighton: Harvester Press: 307–330. References to reproduction.
-* Fann, K.T. (ed.), 1969, _Symposium on J.L. Austin_, London: Routledge & Kegan Paul.
-* Fara, Michael, 2008, “Masked Abilities and Compatibilism”, _Mind_, 117(468): 843–865. doi:10.1093/mind/fzn078
-* Fiengo, Robert, 2018, “On the Representation of Form and Function: Imperative Sentences”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 60–78, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.004
-* Firth, Roderick, 1964, “Austin and the Argument from Illusion”, _Philosophical Review_, 73(3): 372–382; reprinted in Fann 1969: 254–266. doi:10.2307/2183663
-* Forguson, L.W., 1966, “In Pursuit of Performatives”, _Philosophy_, 41(158): 341–347; reprinted in Fann 1969: 412–419. doi:10.1017/S0031819100058885
+* Bird, Alexander, 1998, “Dispositions and Antidotes”, *Philosophical Quarterly*, 48(191): 227–34. doi:10.1111/1467-9213.00098
+* Bird, Graham, 1981, “Austin’s Theory of Illocutionary Force”, in P.A. French, T.E. Uehling Jr., and H.K. Wettstein (eds.), *Midwest Studies in Philosophy* (Volume VI), Minneapolis: University of Minnesota Press, pp. 345–370. doi:10.1111/j.1475-4975.1981.tb00445.x
+* Black, Max, 1963, “Austin on Performatives”, *Philosophy*, 38(145): 217–226; reprinted in Fann 1969: 401–411. doi:10.1017/S003181910006174X
+* Burnyeat, Myles, 1979, “Conflicting Appearances”, *Proceedings of the British Academy*, 65: 69–111.
+* Cartwright, Richard L., 1962, “Propositions”, in R.J. Butler (ed.) *Analytical Philosophy*, Oxford: Basil Blackwell: 179–203; reprinted in Cartwright 1987 *Philosophical Essays*, Cambridge, MA: MIT Press.
+* Cavell, Stanley, 1965, “Austin at Criticism”, *Philosophical Review*, 74(2): 204–219; reprinted in Fann 1969: 59–75. doi:10.2307/2183265
+* Cerf, Walter, 1966, “Critical Review of *How to Do Things with Words*”, *Mind*, 75(298): 262–285; reprinted in Fann 1969: 351–379. doi:10.1093/mind/LXXV.298.262
+* Chisholm, Roderick M., 1964, “Austin’s *Philosophical Papers*”, *Mind*, 73(289): 1–26; reprinted in Fann 1969: 101–126. doi:10.1093/mind/LXXIII.289.1
+* Clarke, Randolph, 2009, “Dispositions, Abilities to Acts, and Free Will: The New Dispositionalism”, *Mind*, 118(470): 323–351. doi:10.1093/mind/fzp034
+* Cohen, L. Jonathan, 1964, “Do Illocutionary Forces Exist?” *Philosophical Quarterly*, 14(55): 118–137; reprinted in Fann 1969: 420–444. doi:10.2307/2955549
+* –––, 1974, “Speech Acts”, T. Sebcok (ed.) *Current Trends in Linguistics XII*, The Hague: Mouten de Gruyter.
+* Crary, Alice, 2002, “The Happy Truth: J.L. Austin’s *How to Do Things with Words*”, *Inquiry*, 45(1): 59–80. doi:10.1080/002017402753556616
+* Dancy, J., 2010, “Harold Arthur Prichard”, *The Stanford Encyclopedia of Philosophy (Spring 2010 Edition)*, Edward N. Zalta (ed.), URL = <[Harold Arthur Prichard (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/prichard/)>.
+* Davidson, Donald, 1969, “True to the Facts”, *Journal of Philosophy*, 66(21): 748–764. doi:10.2307/2023778
+* de Gaynesford, Maximilian, 2009, “Incense and Insensibility: Austin on the ‘Non-Seriousness’ of Poetry”, *Ratio*, 22(4): 463–485. doi:10.1111/j.1467-9329.2009.00445.x
+* –––, 2018, “Uptake in Action”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 79–95, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.005
+* Derrida, Jacques, 1977, “Signature, Event, Context”, *Glyph* 1, Baltimore, MD: Johns Hopkins Press: 172–197; reproduced in Alan Bass (trans.) 1982 *Margins of Philosophy*, Brighton: Harvester Press: 307–330. References to reproduction.
+* Fann, K.T. (ed.), 1969, *Symposium on J.L. Austin*, London: Routledge & Kegan Paul.
+* Fara, Michael, 2008, “Masked Abilities and Compatibilism”, *Mind*, 117(468): 843–865. doi:10.1093/mind/fzn078
+* Fiengo, Robert, 2018, “On the Representation of Form and Function: Imperative Sentences”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 60–78, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.004
+* Firth, Roderick, 1964, “Austin and the Argument from Illusion”, *Philosophical Review*, 73(3): 372–382; reprinted in Fann 1969: 254–266. doi:10.2307/2183663
+* Forguson, L.W., 1966, “In Pursuit of Performatives”, *Philosophy*, 41(158): 341–347; reprinted in Fann 1969: 412–419. doi:10.1017/S0031819100058885
 * –––, 1969a, “Austin’s Philosophy of Action”, in Fann 1969: 127–147.
 * –––, 1969b, “Has Ayer Vindicated the Sense-Datum Theory?” in Fann 1969: 309–341.
 * –––, 1973, “Locutionary and Illocutionary Acts”, in Berlin 1973a: 160–185.
 * Furberg, M., 1969, “Meaning and Illocutionary Force”, in Fann 1969: 445–468.
-* Garvey, B. (ed.), 2014, _J.L. Austin on Language_, Basingstoke: Palgrave Macmillan.
-* Geach, P.T., 1965, “Assertion”, _Philosophical Review_, 74(4): 449–465. doi:10.2307/2183123
+* Garvey, B. (ed.), 2014, *J.L. Austin on Language*, Basingstoke: Palgrave Macmillan.
+* Geach, P.T., 1965, “Assertion”, *Philosophical Review*, 74(4): 449–465. doi:10.2307/2183123
 * Glendinning, Simon, 2011, “Unmasking the Tradition”, in Gustafsson and Sørli 2011: 32–50. doi:10.1093/acprof:oso/9780199219759.003.0002
-* Graham, K., 1977, _J.L. Austin: A Critique of Ordinary Language Philosophy_, Michigan: Harvester Press.
-* Grice, H.P., 1989, _Studies in the Way of Words_, Cambridge, MA: Harvard University Press.
-* Grice, H.P. and P.F. Strawson, 1956, “In Defense of a Dogma”, _Philosophical Review_, 65(2): 141–158. doi:10.2307/2182828
-* Gustafsson, Martin and Richard Sørli (eds.), 2011, _The Philosophy of J.L. Austin_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219759.001.0001
+* Graham, K., 1977, *J.L. Austin: A Critique of Ordinary Language Philosophy*, Michigan: Harvester Press.
+* Grice, H.P., 1989, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
+* Grice, H.P. and P.F. Strawson, 1956, “In Defense of a Dogma”, *Philosophical Review*, 65(2): 141–158. doi:10.2307/2182828
+* Gustafsson, Martin and Richard Sørli (eds.), 2011, *The Philosophy of J.L. Austin*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199219759.001.0001
 * Gustafsson, Martin, 2011, “Introduction: Inheriting Austin”, in Gustafsson and Sørli 2011: 1–31. doi:10.1093/acprof:oso/9780199219759.003.0001
-* Hacker, P.M.S., 2004, “Austin, John Langshaw (1911–1960)”, _Oxford Dictionary of National Biography_, Oxford: Oxford University Press. doi:10.1093/ref:odnb/30505
-* Hampshire, Stuart, 1960, “J.L. Austin, 1911–1960”, _Proceedings of the Aristotelian Society_, 60: 1–14; reprinted in Fann 1969: 33–48. doi:10.1093/aristotelian/60.1.ib
-* –––, 1965, “A Symposium on Austin’s Methods: J.L. Austin and Philosophy”, _Journal of Philosophy_, 62(19): 511–513 (abstract only). Printed in full for the first time as part of “A Symposium on Austin’s Method” in Fann 1969: 76–98. doi:10.2307/2023744
-* Hansen, Nat, 2014, “J.L. Austin and Literal Meaning”, _European Journal of Philosophy_, 22(4): 617–632. doi:10.1111/j.1468-0378.2011.00510.x
-* Heal, Jane, 1974, “Explicit Performative Utterances and Statements”, _Philosophical Quarterly_, 24(95): 106–121. doi:10.2307/2217715
-* Heintz, Lawrence L., 1981, “The Logic of Defenses”, _American Philosophical Quarterly_, 18(3): 243–248.
-* Hetherington, Stephen, 2018, “Knowledge and Knowledge-Claims: Austin and Beyond”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 206–222, Cambridge: Cambridge University Press. 10.1017/9781316421840.011
-* Hinton, J.M., 1973, _Experiences: An Inquiry into Some Ambiguities_, Oxford: Clarendon Press.
-* Hirst, R.J., 1963, “A Critical Study of _Sense and Sensibilia_”, _Philosophical Quarterly_, 13(51): 162–170; reprinted in Fann 1969: 243–253. doi:10.2307/2217192
-* Holdcroft, David, 1969, “A Plea for Excuses?” _Philosophy_, 44(170): 314–330. doi:10.1017/S003181910000944X
-* Hornsby, Jennifer, 1988, “Things Done with Words”, in J. Dancy, J.M.E. Moravcsik, and C.C.W. Taylor (eds.), _Human Agency: Language, Duty, and Value_, Stanford, CA: Stanford University Press: 27–46.
-* –––, 1994, “Illocution and Its Significance”, in Savas L. Tsohatzdis (ed.) _Foundations of Speech Act Theory_, London: Routledge: 187–207.
-* –––, 2006, “Speech Acts and Performatives”, in Ernest Lepore and Barry .C. Smith (eds.), _The Oxford Handbook of Philosophy of Language_, Oxford: Oxford University Press: 893–909. doi:10.1093/oxfordhb/9780199552238.003.0035
-* Jack, Julie, 1981, “Stating and Otherwise Subscribing”, _Philosophia_, 10(3): 283–313. doi:10.1007/BF02380770
-* Jackson, Frank, 1977, _Perception: A Representative Theory_, Cambridge: Cambridge University Press.
-* James, William, 1907/1975, _Pragmatism_, Cambridge, MA: Harvard University Press.
-* Johnston, Mark, 1992, “How to Speak of the Colors”, _Philosophical Studies_, 68(3): 221–263. doi:10.1007/BF00694847
+* Hacker, P.M.S., 2004, “Austin, John Langshaw (1911–1960)”, *Oxford Dictionary of National Biography*, Oxford: Oxford University Press. doi:10.1093/ref:odnb/30505
+* Hampshire, Stuart, 1960, “J.L. Austin, 1911–1960”, *Proceedings of the Aristotelian Society*, 60: 1–14; reprinted in Fann 1969: 33–48. doi:10.1093/aristotelian/60.1.ib
+* –––, 1965, “A Symposium on Austin’s Methods: J.L. Austin and Philosophy”, *Journal of Philosophy*, 62(19): 511–513 (abstract only). Printed in full for the first time as part of “A Symposium on Austin’s Method” in Fann 1969: 76–98. doi:10.2307/2023744
+* Hansen, Nat, 2014, “J.L. Austin and Literal Meaning”, *European Journal of Philosophy*, 22(4): 617–632. doi:10.1111/j.1468-0378.2011.00510.x
+* Heal, Jane, 1974, “Explicit Performative Utterances and Statements”, *Philosophical Quarterly*, 24(95): 106–121. doi:10.2307/2217715
+* Heintz, Lawrence L., 1981, “The Logic of Defenses”, *American Philosophical Quarterly*, 18(3): 243–248.
+* Hetherington, Stephen, 2018, “Knowledge and Knowledge-Claims: Austin and Beyond”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 206–222, Cambridge: Cambridge University Press. 10.1017/9781316421840.011
+* Hinton, J.M., 1973, *Experiences: An Inquiry into Some Ambiguities*, Oxford: Clarendon Press.
+* Hirst, R.J., 1963, “A Critical Study of *Sense and Sensibilia*”, *Philosophical Quarterly*, 13(51): 162–170; reprinted in Fann 1969: 243–253. doi:10.2307/2217192
+* Holdcroft, David, 1969, “A Plea for Excuses?” *Philosophy*, 44(170): 314–330. doi:10.1017/S003181910000944X
+* Hornsby, Jennifer, 1988, “Things Done with Words”, in J. Dancy, J.M.E. Moravcsik, and C.C.W. Taylor (eds.), *Human Agency: Language, Duty, and Value*, Stanford, CA: Stanford University Press: 27–46.
+* –––, 1994, “Illocution and Its Significance”, in Savas L. Tsohatzdis (ed.) *Foundations of Speech Act Theory*, London: Routledge: 187–207.
+* –––, 2006, “Speech Acts and Performatives”, in Ernest Lepore and Barry .C. Smith (eds.), *The Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press: 893–909. doi:10.1093/oxfordhb/9780199552238.003.0035
+* Jack, Julie, 1981, “Stating and Otherwise Subscribing”, *Philosophia*, 10(3): 283–313. doi:10.1007/BF02380770
+* Jackson, Frank, 1977, *Perception: A Representative Theory*, Cambridge: Cambridge University Press.
+* James, William, 1907/1975, *Pragmatism*, Cambridge, MA: Harvard University Press.
+* Johnston, Mark, 1992, “How to Speak of the Colors”, *Philosophical Studies*, 68(3): 221–263. doi:10.1007/BF00694847
 * Kaplan, Mark, 2011, “Tales of the Unknown: Austin and the Argument from Ignorance”, in Gustafsson and Sørli 2011: 51–77. doi:10.1093/acprof:oso/9780199219759.003.0003
-* Kaplan, Mark, 2018, _Austin’s Way with Skepticism: an essay on philosophical method_, Oxford: Oxford University Press.
-* Katz, Jerrold J., 1986, _Propositional Structure and Illocutionary Force_, Cambridge, MA.: Harvard University Press.
-* Kaufman, Arnold S., 1963, “Ability”, _Journal of Philosophy_, 60(19): 537–551. doi:10.2307/2022867
-* Kirkham, Richard L., 1995, _Theories of Truth: A Critical Introduction_, Cambridge, MA: MIT Press.
-* Laugier, Sandra 2018, “The Vulnerability of Reality: Austin, Normativity, and Excuses”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 119–142, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.007
-* Lawlor, Krista, 2013, _Assurance: An Austinian View of Knowledge and Knowledge Claims_, Oxford: Oxford University Press.
-* Lawlor, Krista, 2018, “Austin on Perception, Knowledge, and Meaning”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 165–185, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.009
+* Kaplan, Mark, 2018, *Austin’s Way with Skepticism: an essay on philosophical method*, Oxford: Oxford University Press.
+* Katz, Jerrold J., 1986, *Propositional Structure and Illocutionary Force*, Cambridge, MA.: Harvard University Press.
+* Kaufman, Arnold S., 1963, “Ability”, *Journal of Philosophy*, 60(19): 537–551. doi:10.2307/2022867
+* Kirkham, Richard L., 1995, *Theories of Truth: A Critical Introduction*, Cambridge, MA: MIT Press.
+* Laugier, Sandra 2018, “The Vulnerability of Reality: Austin, Normativity, and Excuses”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 119–142, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.007
+* Lawlor, Krista, 2013, *Assurance: An Austinian View of Knowledge and Knowledge Claims*, Oxford: Oxford University Press.
+* Lawlor, Krista, 2018, “Austin on Perception, Knowledge, and Meaning”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 165–185, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.009
 * Leite, Adam, 2011, “Austin, Dreams, and Scepticism”, in Gustafsson and Sørli 2011: 78–113. doi:10.1093/acprof:oso/9780199219759.003.0004
-* Lemmon, E.J., 1962, “On Sentences Verifiable by their Use”, _Analysis_, 22(4): 86–9. doi:10.2307/3327029
-* Lewis, David K., 1972, “General Semantics”, in D. Davidson and G. Harman (eds.), _Semantics for Natural Language_, Dordrecht: Reidel: 169–218; reprinted with postscripts in Lewis, 1983, _Philosophical Papers_ (Volume 1), Oxford: Oxford University Press.
-* Locke, Don, 1962, “Ifs and Cans Revisited”, _Philosophy_, 37(141): 245–256. doi:10.1017/S0031819100061982
-* Longworth, Guy, 2018a, “The Ordinary and the Experimental: Cook Wilson and Austin on Method in Philosophy”, _British Journal of the History of Philosophy_, 26(5): 939–960. doi:10.1080/09608788.2017.1413539
-* –––, 2018b, “Enough is Enough: Austin on Knowing”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 186–205, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.010
-* –––, 2019, “Settling a Question: Austin and Disjunctivism”, in Casey Doyle, Joe Milburn, and Duncan Pritchard eds. _New Issues in Epistemological Disjunctivism_. London: Routledge.
-* Marion, Mathieu, 2000a, “Oxford Realism: Knowledge and Perception I”, _British Journal for the History of Philosophy_, 8(2): 299–338. doi:10.1080/09608780050043235
-* –––, 2000b, “Oxford Realism: Knowledge and Perception II”, _British Journal for the History of Philosophy_, 8(3): 485–519. doi:10.1080/096087800442156
-* –––, 2009, “John Cook Wilson”, _The Stanford Encyclopedia of Philosophy (Spring 2010 Edition)_, Edward N. Zalta (ed.), URL = <[John Cook Wilson (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/wilson/)>.
-* Martin, M.G.F., 1997, “The Reality of Appearances”, in _Thought and Ontology_, M. Sainsbury (ed.), Milan: Franco Angeli, pp. 77–96.
-* –––, 2000, “Beyond Dispute: sense-data, intentionality and the mind-body problem”, in Tim Crane and Sarah Patterson (eds.), _The History of the Mind-Body Problem_, London: Routledge: 195–231.
-* –––, 2010, “What’s in a Look?” in Bence Nanay (ed.), _Perceiving the World_, Oxford: Oxford University Press: 160–225. doi:10.1093/acprof:oso/9780195386196.003.0008
-* Mates, Benson, 1974, “Austin, Strawson, Tarski, and Truth”, in Leon Henkin (ed.), _Tarski Symposium_, American Mathematical Society: 385–396.
-* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, _Proceedings of the British Academy_, 68: 455–79.
+* Lemmon, E.J., 1962, “On Sentences Verifiable by their Use”, *Analysis*, 22(4): 86–9. doi:10.2307/3327029
+* Lewis, David K., 1972, “General Semantics”, in D. Davidson and G. Harman (eds.), *Semantics for Natural Language*, Dordrecht: Reidel: 169–218; reprinted with postscripts in Lewis, 1983, *Philosophical Papers* (Volume 1), Oxford: Oxford University Press.
+* Locke, Don, 1962, “Ifs and Cans Revisited”, *Philosophy*, 37(141): 245–256. doi:10.1017/S0031819100061982
+* Longworth, Guy, 2018a, “The Ordinary and the Experimental: Cook Wilson and Austin on Method in Philosophy”, *British Journal of the History of Philosophy*, 26(5): 939–960. doi:10.1080/09608788.2017.1413539
+* –––, 2018b, “Enough is Enough: Austin on Knowing”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 186–205, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.010
+* –––, 2019, “Settling a Question: Austin and Disjunctivism”, in Casey Doyle, Joe Milburn, and Duncan Pritchard eds. *New Issues in Epistemological Disjunctivism*. London: Routledge.
+* Marion, Mathieu, 2000a, “Oxford Realism: Knowledge and Perception I”, *British Journal for the History of Philosophy*, 8(2): 299–338. doi:10.1080/09608780050043235
+* –––, 2000b, “Oxford Realism: Knowledge and Perception II”, *British Journal for the History of Philosophy*, 8(3): 485–519. doi:10.1080/096087800442156
+* –––, 2009, “John Cook Wilson”, *The Stanford Encyclopedia of Philosophy (Spring 2010 Edition)*, Edward N. Zalta (ed.), URL = <[John Cook Wilson (Stanford Encyclopedia of Philosophy/Spring 2010 Edition)](https://plato.stanford.edu/archives/spr2010/entries/wilson/)>.
+* Martin, M.G.F., 1997, “The Reality of Appearances”, in *Thought and Ontology*, M. Sainsbury (ed.), Milan: Franco Angeli, pp. 77–96.
+* –––, 2000, “Beyond Dispute: sense-data, intentionality and the mind-body problem”, in Tim Crane and Sarah Patterson (eds.), *The History of the Mind-Body Problem*, London: Routledge: 195–231.
+* –––, 2010, “What’s in a Look?” in Bence Nanay (ed.), *Perceiving the World*, Oxford: Oxford University Press: 160–225. doi:10.1093/acprof:oso/9780195386196.003.0008
+* Mates, Benson, 1974, “Austin, Strawson, Tarski, and Truth”, in Leon Henkin (ed.), *Tarski Symposium*, American Mathematical Society: 385–396.
+* McDowell, John, 1982, “Criteria, Defeasibility and Knowledge”, *Proceedings of the British Academy*, 68: 455–79.
 * McMyler, Benjamin, 2011, “Believing what the Man Says about his own Feelings”, in Gustafsson and Sørli 2011: 114–174. doi:10.1093/acprof:oso/9780199219759.003.0005
-* Millar, Alan, 2005, “Travis’ Sense of Occasion”, _Philosophical Quarterly_, 55(219): 337–342. doi:10.1111/j.0031-8094.2005.00403.x
-* Moltmann, Friederike, 2018, “Levels of Linguistic Acts and the Semantics of Saying and Quoting”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 34–59, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.003
-* Moore, A.W., 2000, “Arguing with Derrida”, _Ratio_, 13(4): 355–80. doi:10.1111/1467-9329.00134
-* Moore, G.E., 1912, _Ethics_, Oxford: Oxford: University Press.
+* Millar, Alan, 2005, “Travis’ Sense of Occasion”, *Philosophical Quarterly*, 55(219): 337–342. doi:10.1111/j.0031-8094.2005.00403.x
+* Moltmann, Friederike, 2018, “Levels of Linguistic Acts and the Semantics of Saying and Quoting”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 34–59, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.003
+* Moore, A.W., 2000, “Arguing with Derrida”, *Ratio*, 13(4): 355–80. doi:10.1111/1467-9329.00134
+* Moore, G.E., 1912, *Ethics*, Oxford: Oxford: University Press.
 * Narboux, J.-P., 2011, “‘There’s Many a Slip between Cup and Lip’: Dimension and Negation in Austin”, in Gustafsson and Sørli 2011: 204–240. doi:10.1093/acprof:oso/9780199219759.003.0008
-* New, C.G., 1966, “A Plea for Linguistics”, _Mind_, 75(299): 368–384; reprinted in Fann 1969: 148–165. doi:10.1093/mind/LXXV.299.368
-* Nowell-Smith, Patrick H., 1954, _Ethics_, Harmondsworth: Pelican Books.
-* –––, 1960, “Ifs and Cans”, _Theoria_, 26(2): 85–101; reprinted in Fann 1969: 166–181. doi:10.1111/j.1755-2567.1960.tb00557.x
-* Passmore, John, 1957, _A Hundred Years of Philosophy_, London: Duckworth.
-* Pears, David, 1962, “An Original Philosopher”, _Times Literary Supplement_, Febrary 9(3128): 81–83; reprinted in Fann 1969: 49–58.
+* New, C.G., 1966, “A Plea for Linguistics”, *Mind*, 75(299): 368–384; reprinted in Fann 1969: 148–165. doi:10.1093/mind/LXXV.299.368
+* Nowell-Smith, Patrick H., 1954, *Ethics*, Harmondsworth: Pelican Books.
+* –––, 1960, “Ifs and Cans”, *Theoria*, 26(2): 85–101; reprinted in Fann 1969: 166–181. doi:10.1111/j.1755-2567.1960.tb00557.x
+* Passmore, John, 1957, *A Hundred Years of Philosophy*, London: Duckworth.
+* Pears, David, 1962, “An Original Philosopher”, *Times Literary Supplement*, Febrary 9(3128): 81–83; reprinted in Fann 1969: 49–58.
 * –––, 1973, “Ifs and Cans”, in Berlin 1973a: 90–140.
-* –––, 1979, “A Comparison between Ayer’s Views about the Privilege of Sense-Datum Statements and the Views of Russell and Austin”, in Graham F. Macdonald (ed.), _Perception and Identity_, London: Macmillan: 61–83.
-* Petrie, Hugh G., 1971, “Austin’s Usage of ‘Intentional’”, _Mind_, 80(319): 441–444. doi:10.1093/mind/LXXX.319.441
-* Pitcher, George (ed.), 1964, _Truth_, Englewood Cliffs, NJ: Prentice Hall.
+* –––, 1979, “A Comparison between Ayer’s Views about the Privilege of Sense-Datum Statements and the Views of Russell and Austin”, in Graham F. Macdonald (ed.), *Perception and Identity*, London: Macmillan: 61–83.
+* Petrie, Hugh G., 1971, “Austin’s Usage of ‘Intentional’”, *Mind*, 80(319): 441–444. doi:10.1093/mind/LXXX.319.441
+* Pitcher, George (ed.), 1964, *Truth*, Englewood Cliffs, NJ: Prentice Hall.
 * –––, 1973, “Austin: a personal memoir”, in Berlin 1973a: 17–30.
-* Price, H.H., 1932, _Perception_, London: Methuen.
-* Prichard, H.A., 1979, _Moral Obligation_, Oxford: Clarendon Press.
-* Putnam, Hilary, 1962, “The Analytic and the Synthetic”, in H. Feigl and G. Maxwell (eds.), _Minnesota Studies in the Philosophy of Science 3_, Minneapolis: University of Minnesota Press: 358–397.
-* –––, 1994, “Sense, Nonsense, and the Senses: An Inquiry Into the Power of the Human Mind”, _Journal of Philosophy_, 91(9): 445–517. doi:10.2307/2940978
-* Quine, W.V.O., 1965, “J.L. Austin: Comment”, _Journal of Philosophy_, 62(19): 509–510 (abstract only). Printed in full for the first time as part of “A Symposium on Austin’s Method” in Fann 1969: 76–98. doi:10.2307/2023743
-* Recanati, François, 1994, _Literal Meaning_, Cambridge: Cambridge University Press.
-* Reimer, Marga, 2018, “Exploring Austin’s Galaxy: Searching for Truth through the Lens of Ordinary Language”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 15–33, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.002
-* Richmond, Sarah, 1996, “Derrida and Analytical Philosophy: Speech Acts and their Force”, _European Journal of Philosophy_, 4(1): 38–62. doi:10.1111/j.1468-0378.1996.tb00064.x
-* Ricks, Christopher, 1992, “Austin’s Swink”, _University of Toronto Quarterly_, 61(3): 297–315.
-* Schiffer, Stephen R., 1972, _Meaning_, Oxford: Oxford University Press.
-* Schwartz, Robert, 2004, “To Austin or Not to Austin, That’s the Disjunction”, _Philosophical Studies_, 120(1): 255–263. doi:10.1023/B:PHIL.0000033756.70177.3d
-* Schwartz, Robert, 2018, “Berkeley and Austin on the Argument from Illusion”, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 143–164, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.008
-* Searle, John R., 1966, “Assertions and Aberrations”, in Bernard Williams and Alan Montefiore (eds.), _British Analytical Philosophy_, London: Routledge & Kegan Paul: 41–54; reprinted in Fann 1969: 205–218.
-* –––, 1968, “Austin on Locutionary and Illocutionary Acts”, _Philosophical Review_, 77(4): 405–424; reprinted in Berlin 1973a: 141–159. doi:10.2307/2183008
-* –––, 1969, _Speech Acts_, Cambridge: Cambridge University Press.
-* –––, 1977, “Reiterating the Differences: A Reply to Derrida”, _Glyph_ 2, Baltimore, MD: Johns Hopkins Press: 198–208.
-* –––, 2005, “J.L. Austin (1911–1960)”, in A.P. Martinich and David Sosa (eds.), _A Companion to Analytic Philosophy_, Oxford: Blackwell: 218–230.
-* –––, 2014, “Oxford Philosophy in the 1950s”, _Philosophy_, 90(2): 173–193. doi:10.1017/S0031819114000485
-* Sinnot-Armstrong, Walter, 1994, “The Truth of Performatives”, _International Journal of Philosophical Studies_, 2(1): 99–107. doi:10.1080/09672559408570785
-* Snowdon, Paul F., 1981, “Perception, Vision and Causation”, _Proceedings of the Aristotelian Society_, 81: 175–92. doi:10.1093/aristotelian/81.1.175
-* –––, 2014, “Austin on the Philosophy of Perception”, in Brian Garvey (ed.), _J.L. Austin on Language_, Basingstoke: Palgrave Macmillan: 161–176. doi:10.1057/9781137329998\*10
-* Soames, Scott, 2003, _Philosophical Analysis in the Twentieth Century, Volume 2: The Age of Meaning_, Princeton, NJ: Princeton University Press.
-* Soteriou, Matthew, 2009, “The Disjunctive Theory of Perception”, _The Stanford Encyclopedia of Philosophy (Winter 2010 Edition)_, Edward N. Zalta (ed.), URL = <[The Disjunctive Theory of Perception (Stanford Encyclopedia of Philosophy/Winter 2010 Edition)](https://plato.stanford.edu/archives/win2010/entries/perception-disjunctive/)>.
-* Strawson, P.F., 1949, “Truth”, _Analysis_, 9(6): 83–97. doi:10.1093/analys/9.6.83
-* –––, 1950, “Truth”, _Proceedings of the Aristotelian Society_, Supplementary Volume 24: 129–156.
-* –––, 1964a, “Intention and Convention in Speech Acts”, _Philosophical Review_, 73(4): 439–460; reprinted in Fann 1969: 380–400. doi:10.2307/2183301
+* Price, H.H., 1932, *Perception*, London: Methuen.
+* Prichard, H.A., 1979, *Moral Obligation*, Oxford: Clarendon Press.
+* Putnam, Hilary, 1962, “The Analytic and the Synthetic”, in H. Feigl and G. Maxwell (eds.), *Minnesota Studies in the Philosophy of Science 3*, Minneapolis: University of Minnesota Press: 358–397.
+* –––, 1994, “Sense, Nonsense, and the Senses: An Inquiry Into the Power of the Human Mind”, *Journal of Philosophy*, 91(9): 445–517. doi:10.2307/2940978
+* Quine, W.V.O., 1965, “J.L. Austin: Comment”, *Journal of Philosophy*, 62(19): 509–510 (abstract only). Printed in full for the first time as part of “A Symposium on Austin’s Method” in Fann 1969: 76–98. doi:10.2307/2023743
+* Recanati, François, 1994, *Literal Meaning*, Cambridge: Cambridge University Press.
+* Reimer, Marga, 2018, “Exploring Austin’s Galaxy: Searching for Truth through the Lens of Ordinary Language”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 15–33, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.002
+* Richmond, Sarah, 1996, “Derrida and Analytical Philosophy: Speech Acts and their Force”, *European Journal of Philosophy*, 4(1): 38–62. doi:10.1111/j.1468-0378.1996.tb00064.x
+* Ricks, Christopher, 1992, “Austin’s Swink”, *University of Toronto Quarterly*, 61(3): 297–315.
+* Schiffer, Stephen R., 1972, *Meaning*, Oxford: Oxford University Press.
+* Schwartz, Robert, 2004, “To Austin or Not to Austin, That’s the Disjunction”, *Philosophical Studies*, 120(1): 255–263. doi:10.1023/B:PHIL.0000033756.70177.3d
+* Schwartz, Robert, 2018, “Berkeley and Austin on the Argument from Illusion”, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 143–164, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.008
+* Searle, John R., 1966, “Assertions and Aberrations”, in Bernard Williams and Alan Montefiore (eds.), *British Analytical Philosophy*, London: Routledge & Kegan Paul: 41–54; reprinted in Fann 1969: 205–218.
+* –––, 1968, “Austin on Locutionary and Illocutionary Acts”, *Philosophical Review*, 77(4): 405–424; reprinted in Berlin 1973a: 141–159. doi:10.2307/2183008
+* –––, 1969, *Speech Acts*, Cambridge: Cambridge University Press.
+* –––, 1977, “Reiterating the Differences: A Reply to Derrida”, *Glyph* 2, Baltimore, MD: Johns Hopkins Press: 198–208.
+* –––, 2005, “J.L. Austin (1911–1960)”, in A.P. Martinich and David Sosa (eds.), *A Companion to Analytic Philosophy*, Oxford: Blackwell: 218–230.
+* –––, 2014, “Oxford Philosophy in the 1950s”, *Philosophy*, 90(2): 173–193. doi:10.1017/S0031819114000485
+* Sinnot-Armstrong, Walter, 1994, “The Truth of Performatives”, *International Journal of Philosophical Studies*, 2(1): 99–107. doi:10.1080/09672559408570785
+* Snowdon, Paul F., 1981, “Perception, Vision and Causation”, *Proceedings of the Aristotelian Society*, 81: 175–92. doi:10.1093/aristotelian/81.1.175
+* –––, 2014, “Austin on the Philosophy of Perception”, in Brian Garvey (ed.), *J.L. Austin on Language*, Basingstoke: Palgrave Macmillan: 161–176. doi:10.1057/9781137329998\*10
+* Soames, Scott, 2003, *Philosophical Analysis in the Twentieth Century, Volume 2: The Age of Meaning*, Princeton, NJ: Princeton University Press.
+* Soteriou, Matthew, 2009, “The Disjunctive Theory of Perception”, *The Stanford Encyclopedia of Philosophy (Winter 2010 Edition)*, Edward N. Zalta (ed.), URL = <[The Disjunctive Theory of Perception (Stanford Encyclopedia of Philosophy/Winter 2010 Edition)](https://plato.stanford.edu/archives/win2010/entries/perception-disjunctive/)>.
+* Strawson, P.F., 1949, “Truth”, *Analysis*, 9(6): 83–97. doi:10.1093/analys/9.6.83
+* –––, 1950, “Truth”, *Proceedings of the Aristotelian Society*, Supplementary Volume 24: 129–156.
+* –––, 1964a, “Intention and Convention in Speech Acts”, *Philosophical Review*, 73(4): 439–460; reprinted in Fann 1969: 380–400. doi:10.2307/2183301
 * –––, 1964b, “A Problem about Truth—A Reply to Mr. Warnock”, in Pitcher 1964: 68–84.
-* –––, 1965, “Truth: A Reconsideration of Austin’s Views”, _Philosophical Quarterly_, 15(61): 289–301. doi:10.2307/2218255
+* –––, 1965, “Truth: A Reconsideration of Austin’s Views”, *Philosophical Quarterly*, 15(61): 289–301. doi:10.2307/2218255
 * –––, 1973, “Austin and ‘Locutionary Meaning’”, in Berlin 1973a: 46–68.
-* Stroud, Barry, 1984, _The Philosophical Significance of Scepticism_, Oxford: Oxford University Press.
+* Stroud, Barry, 1984, *The Philosophical Significance of Scepticism*, Oxford: Oxford University Press.
 * Thalberg, Irving, 1969, “Austin on Abilities”, in Fann 1969: 182–204.
-* Thau, Mike, 2004, “What is Disjunctivism?” _Philosophical Studies_, 120(1): 193–253. doi:10.1023/B:PHIL.0000033755.32540.76
-* Tsohatzidis, Savas L., 2018, “Performativity and the “True/False Fetish””, in Savas L. Tsohatzidis ed. _Interpreting J. L. Austin: Critical Essays_, pp. 96–118, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.006
-* Travis, Charles, 1991, “Annals of Analysis, Critical Notice of H.P. Grice _Studies in the Way of Words_”, _Mind_, 100(398): 237–264. reprinted in Travis 2008: 290–315. doi:10.1093/mind/C.398.237 and doi:10.1093/acprof:oso/9780199230334.003.0014
-* –––, 2004, “The Silence of the Senses”, _Mind_, 113(449): 57–94. doi:10.1093/mind/113.449.57
-* –––, 2005, “A Sense of Occasion”, _Philosophical Quarterly_, 55(219): 286–314. doi:10.1111/j.0031-8094.2005.00399.x
-* –––, 2008, _Occasion-Sensitivity: Selected Essays_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230334.001.0001
+* Thau, Mike, 2004, “What is Disjunctivism?” *Philosophical Studies*, 120(1): 193–253. doi:10.1023/B:PHIL.0000033755.32540.76
+* Tsohatzidis, Savas L., 2018, “Performativity and the “True/False Fetish””, in Savas L. Tsohatzidis ed. *Interpreting J. L. Austin: Critical Essays*, pp. 96–118, Cambridge: Cambridge University Press. doi:10.1017/9781316421840.006
+* Travis, Charles, 1991, “Annals of Analysis, Critical Notice of H.P. Grice *Studies in the Way of Words*”, *Mind*, 100(398): 237–264. reprinted in Travis 2008: 290–315. doi:10.1093/mind/C.398.237 and doi:10.1093/acprof:oso/9780199230334.003.0014
+* –––, 2004, “The Silence of the Senses”, *Mind*, 113(449): 57–94. doi:10.1093/mind/113.449.57
+* –––, 2005, “A Sense of Occasion”, *Philosophical Quarterly*, 55(219): 286–314. doi:10.1111/j.0031-8094.2005.00399.x
+* –––, 2008, *Occasion-Sensitivity: Selected Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199230334.001.0001
 * –––, 2011, “Truth and Merit”, in Gustafsson and Sørli 2011: 175–203. doi:10.1093/acprof:oso/9780199219759.003.0007
-* Travis, Charles and Mark E. Kalderon, 2013, “Oxford Realism”, in Michael Beaney (ed.), _Oxford Handbook of the History of Analytic Philosophy_. Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.013.0018
-* Urmson, J.O., 1965, “J.L. Austin”, _Journal of Philosophy_, 62(19): 499–508. Printed in full for the first time as part of “A Symposium on Austin’s Method” in Fann 1969: 76–98. doi:10.2307/2023741
-* –––, 1967, “Austin, John Langshaw”, in P. Edwards (ed.), _The Encyclopedia of Philosophy_, New York: Random House, Inc.: 211–215; reprinted as “Austin’s Philosophy”, in Fann 1969: 22–32.
-* –––, 1977, “Performative Utterances”, in P.A. French, T.E. Uehling Jr., and H.K. Wettstein (eds.), _Midwest Studies in Philosophy_ (Volume II), Minneapolis: University of Minnesota Press, pp. 120–127. doi:10.1111/j.1475-4975.1977.tb00033.x
-* Urmson, J.O. and G.J. Warnock, 1961, “J.L. Austin”, _Mind_, 70(278): 256–257; reprinted as ‘Comments’ on Hampshire (1960) in Fann 1969: 22–32. doi:10.1093/mind/LXX.278.256
-* van Hulst, Chrissy and Max Cresswell (eds.), 2016, “A.N. Prior on Austin’s _Sense and Sensibilia_: A reconstruction from Prior’s manuscripts”, _Journal for the History of Analytical Philosophy_, 4(4): 1–12. doi:10.15173/jhap.v4i4.2809
-* Vendler, Zeno, 1972, _Res Cogitans: An Essay in Rational Psychology_, Ithaca: Cornell University Press.
-* Warnock, G.J., 1953, _Berkeley_, Harmondsworth: Penguin.
-* –––, 1962, “Truth and Correspondence”, in Calvin Dwight Rollins (ed.), _Knowledge and Experience_, Pittsburgh: University of Pittsburgh Press: 11–20.
-* –––, 1963, “John Langshaw Austin: A Biographical Sketch”, _Proceedings of the British Academy_; reprinted in Fann 1969: 3–21.
+* Travis, Charles and Mark E. Kalderon, 2013, “Oxford Realism”, in Michael Beaney (ed.), *Oxford Handbook of the History of Analytic Philosophy*. Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.013.0018
+* Urmson, J.O., 1965, “J.L. Austin”, *Journal of Philosophy*, 62(19): 499–508. Printed in full for the first time as part of “A Symposium on Austin’s Method” in Fann 1969: 76–98. doi:10.2307/2023741
+* –––, 1967, “Austin, John Langshaw”, in P. Edwards (ed.), *The Encyclopedia of Philosophy*, New York: Random House, Inc.: 211–215; reprinted as “Austin’s Philosophy”, in Fann 1969: 22–32.
+* –––, 1977, “Performative Utterances”, in P.A. French, T.E. Uehling Jr., and H.K. Wettstein (eds.), *Midwest Studies in Philosophy* (Volume II), Minneapolis: University of Minnesota Press, pp. 120–127. doi:10.1111/j.1475-4975.1977.tb00033.x
+* Urmson, J.O. and G.J. Warnock, 1961, “J.L. Austin”, *Mind*, 70(278): 256–257; reprinted as ‘Comments’ on Hampshire (1960) in Fann 1969: 22–32. doi:10.1093/mind/LXX.278.256
+* van Hulst, Chrissy and Max Cresswell (eds.), 2016, “A.N. Prior on Austin’s *Sense and Sensibilia*: A reconstruction from Prior’s manuscripts”, *Journal for the History of Analytical Philosophy*, 4(4): 1–12. doi:10.15173/jhap.v4i4.2809
+* Vendler, Zeno, 1972, *Res Cogitans: An Essay in Rational Psychology*, Ithaca: Cornell University Press.
+* Warnock, G.J., 1953, *Berkeley*, Harmondsworth: Penguin.
+* –––, 1962, “Truth and Correspondence”, in Calvin Dwight Rollins (ed.), *Knowledge and Experience*, Pittsburgh: University of Pittsburgh Press: 11–20.
+* –––, 1963, “John Langshaw Austin: A Biographical Sketch”, *Proceedings of the British Academy*; reprinted in Fann 1969: 3–21.
 * –––, 1964, “A Problem about Truth”, in Pitcher 1964: 54–67.
 * –––, 1973a, “Saturday Mornings”, in Berlin 1973a: 31–45.
 * –––, 1973b, “Some Types of Performative Utterance”, in Berlin 1973a: 69–89.
-* –––, 1973c, “Truth: or Bristol Revisited II”, _Proceedings of the Aristotelian Society_, Supplementary Volume 47: 135–145.
-* –––, 1989, _J.L. Austin_, London: Routledge.
+* –––, 1973c, “Truth: or Bristol Revisited II”, *Proceedings of the Aristotelian Society*, Supplementary Volume 47: 135–145.
+* –––, 1989, *J.L. Austin*, London: Routledge.
 * Wheatley, Jon, 1969, “Austin on Truth”, in Fann 1969: 226–240.
-* White, Alan R., 1967, “Mentioning the Unmentionable”, _Analysis_, 27(4): 113–118; reprinted in Fann 1969: 219–225. doi:10.2307/3327002
-* Williams, C.J.F., 1973, “Truth: or Bristol Revisited I”, _Proceedings of the Aristotelian Society_, Supplementary Volume 47: 121–134.
-* Williams, Michael, 1996, _Unnatural Doubts: Epistemological Realism and the Basis of Skepticism_, Princeton, NJ: Princeton University Press.
-* Williamson, Timothy, 2000, _Knowledge and its Limits_, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
-* Wisdom, J., 1946, “Symposium: Other Minds I”, _Proceedings of the Aristotelian Society_, Supplementary Volume 20: 122–147.
-* Zimmerman, Michael J., 2004, “Another Plea for Excuses”, _American Philosophy Quarterly_, 41(3): 259–266.
+* White, Alan R., 1967, “Mentioning the Unmentionable”, *Analysis*, 27(4): 113–118; reprinted in Fann 1969: 219–225. doi:10.2307/3327002
+* Williams, C.J.F., 1973, “Truth: or Bristol Revisited I”, *Proceedings of the Aristotelian Society*, Supplementary Volume 47: 121–134.
+* Williams, Michael, 1996, *Unnatural Doubts: Epistemological Realism and the Basis of Skepticism*, Princeton, NJ: Princeton University Press.
+* Williamson, Timothy, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press. doi:10.1093/019925656X.001.0001
+* Wisdom, J., 1946, “Symposium: Other Minds I”, *Proceedings of the Aristotelian Society*, Supplementary Volume 20: 122–147.
+* Zimmerman, Michael J., 2004, “Another Plea for Excuses”, *American Philosophy Quarterly*, 41(3): 259–266.
 
 ## Academic Tools
 
@@ -601,7 +600,7 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 
 ## Other Internet Resources
 
-* Martin, M.G.F., 2007, “[Austin: _Sense & Sensibilia_ Revisited](http://sas-space.sas.ac.uk/631/)”, online manuscript.
+* Martin, M.G.F., 2007, “[Austin: *Sense & Sensibilia* Revisited](http://sas-space.sas.ac.uk/631/)”, online manuscript.
 * [A recording of Austin’s voice (1959)](http://olponline.wordpress.com/2010/07/29/audio-j-l-austins-voice/)
 * [Wikipedia Entry for J.L. Austin](http://en.wikipedia.org/wiki/J._L._Austin)
 
@@ -614,4 +613,4 @@ _描述性_约定将句子与事物存在的方式（类型）相关联：与情
 Thanks to Cora Diamond, Ruth Groff, Henry Hardy, Barry Lee, Hemdat Lerman, Matthew Soteriou, Peter Sullivan, Charles Travis, and Jonathan Westphal.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Guy Longworth](http://www2.warwick.ac.uk/fac/soc/philosophy/people/longworth/) <[_G.H.Longworth@warwick.ac.uk_](mailto:G%2eH%2eLongworth%40warwick%2eac%2euk)>
+[Guy Longworth](http://www2.warwick.ac.uk/fac/soc/philosophy/people/longworth/) <[*G.H.Longworth@warwick.ac.uk*](mailto:G%2eH%2eLongworth%40warwick%2eac%2euk)>

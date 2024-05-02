@@ -1,10 +1,8 @@
 # 杰里米·边沁 Bentham, Jeremy (James E. Crimmins)
 
-_首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 日_
+*首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 日*
 
 杰里米·边沁，法学家和政治改革者，是与现代功利主义传统的基础时代最紧密相关的哲学家。早期的道德家们已经阐述了功利主义哲学的几个核心思想和特征性术语，尤其是约翰·盖伊、弗朗西斯·哈奇森、大卫·休谟、克洛德-阿德里安·埃尔韦修斯和切萨雷·贝卡里亚，但是边沁将这一理论呈现为其可识别的世俗和系统形式，并将其作为道德和法律哲学以及政治和社会改进的关键工具。1776 年，他首次在《政府片段》中宣布自己是功利主义的支持者，将功利主义作为行为和法律的指导原则。在《道德和立法原理导论》（1780 年印刷，1789 年出版）中，作为发展刑法理论的前提，他详细阐述了古典功利主义理论的基本要素。刑法典将成为构成功利主义“全法典”的一系列法典中的第一个，这一发展将使边沁投入终身的工作，并包括民事、诉讼和宪法法律。作为副产品，在这个庞大的立法建筑的子法典之间的空隙中，边沁的著作涉及伦理学、本体论、逻辑学、政治经济学、司法管理、贫困法改革、监狱改革、惩罚、警务、国际法、教育、宗教信仰和机构、民主理论、政府和行政。在所有这些领域，他都做出了重大贡献，这些贡献继续在功利主义的讨论中发挥重要作用，尤其是在道德、法律、经济和政治形式方面。正是基于这一点，边沁被誉为现代哲学中的伟大思想家之一。
-
-
 
 ***
 
@@ -18,7 +16,7 @@ _首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 �
 
 边沁的著作对思想史研究者提出了明显的挑战：出版日期并不总是与创作时间一致，有些作品在作者去世后出版，有些作品仍未以权威版本出现；许多作品是由其他人从原始手稿中制作、编辑或翻译的，作者对此几乎没有控制权。
 
-边沁于 1776 年以匿名方式发表了他作为法律理论家的职业生涯的开端，《政府碎片》。这本薄薄的小册子是对布莱克斯通的更大批评的一个分支，直到 20 世纪才出版，现在被称为《对评论的评论》。在《碎片》中，边沁陈述了“基本公理”，即“最大多数人的最大幸福是衡量对错的标准”，并且“为了普遍幸福而服务的义务，是一种高于和包括其他一切的义务”（1776 \[1977, 393, 440n]）。在他早期的主要作品《道德和立法原理导论》（_IPML_）中，他将效用描述为“任何对象中的那种属性”，它“倾向于产生利益、优势、善或幸福”（这些都是边沁道德词汇中的相对应的术语），并将效用原则描述为“根据行动似乎增加或减少与之相关方的幸福的倾向而赞成或反对每一个行动的原则”（1789 \[1970, 12]）。边沁在随后的几十年中对这些基本假设进行了阐述、论证支持和进一步完善，但是在他漫长而高产的工作生涯中，最吸引他的精力和时间的是效用原则的实施。
+边沁于 1776 年以匿名方式发表了他作为法律理论家的职业生涯的开端，《政府碎片》。这本薄薄的小册子是对布莱克斯通的更大批评的一个分支，直到 20 世纪才出版，现在被称为《对评论的评论》。在《碎片》中，边沁陈述了“基本公理”，即“最大多数人的最大幸福是衡量对错的标准”，并且“为了普遍幸福而服务的义务，是一种高于和包括其他一切的义务”（1776 \[1977, 393, 440n]）。在他早期的主要作品《道德和立法原理导论》（*IPML*）中，他将效用描述为“任何对象中的那种属性”，它“倾向于产生利益、优势、善或幸福”（这些都是边沁道德词汇中的相对应的术语），并将效用原则描述为“根据行动似乎增加或减少与之相关方的幸福的倾向而赞成或反对每一个行动的原则”（1789 \[1970, 12]）。边沁在随后的几十年中对这些基本假设进行了阐述、论证支持和进一步完善，但是在他漫长而高产的工作生涯中，最吸引他的精力和时间的是效用原则的实施。
 
 1781 年，边沁（Jeremy Bentham）在他的赞助人、辉格党政治家威廉·佩蒂（William Petty）第二代谢尔本伯爵（1737-1805）的乡村庄园做客时，他在记录一个梦境时创造了“功利主义”这个名词，他喜欢创造新的术语来描述哲学概念。在这个梦中，他想象自己是“一个教派的创始人；当然是一个极其神圣和重要的人物。它被称为‘功利主义者教派’”（梦境的文字见 Crimmins 1990, 314）。正是通过谢尔本伯爵，他结识了日内瓦流亡者埃蒂安·杜蒙（Étienne Dumont）（1759-1829），杜蒙通过出版一系列边沁早期著作的翻译和改编（1829-30；参见 Blamires 2008），在欧洲大陆和其他地方推广了边沁的名字和哲学。其中最重要的是《民事和刑事立法论》（1802）的三卷本，这些卷本是从早期手稿草稿、《IPML》和其他著作中汇编而成的。民事和刑事法的前两卷后来由美国功利主义者理查德·希尔德雷斯（Richard Hildreth）重新翻译成英文，并出版为《立法理论》（1840 \[1864]），这本书一直是英语世界中功利主义研究的核心，直到 20 世纪中叶。
 
@@ -166,7 +164,7 @@ _首次发表于 2015 年 3 月 17 日；实质性修订于 2021 年 12 月 8 �
 
 ### 9.2 主权
 
-宪法法典的普遍维度似乎与通常与边沁的功利主义相关联的法律实证主义相悖，这意味着一种要求权力集中在立法者手中的主权理论，无论其构成如何，并规定所有法律都是强制性的，并依赖于强制性制裁的执行。罗森（Rosen）认为，早在《政府片段》（_A Fragment on Government_）中，边沁就拒绝了基于简单命令和服从的霍布斯式主权观念，其中君主必然是单一的、统一的最高权力，而是支持“主权权力的法律限制和分割的概念”（Rosen 1983, 41, 44）。
+宪法法典的普遍维度似乎与通常与边沁的功利主义相关联的法律实证主义相悖，这意味着一种要求权力集中在立法者手中的主权理论，无论其构成如何，并规定所有法律都是强制性的，并依赖于强制性制裁的执行。罗森（Rosen）认为，早在《政府片段》（*A Fragment on Government*）中，边沁就拒绝了基于简单命令和服从的霍布斯式主权观念，其中君主必然是单一的、统一的最高权力，而是支持“主权权力的法律限制和分割的概念”（Rosen 1983, 41, 44）。
 
 一般来说，边沁所指的“主权”一词意味着立法权力（法律主权），但他也将其用于描述人民限制或控制政府和公职人员的权力（政治或民众主权）。在第一种意义上，似乎不可能有一项法律故意违背立法者的意愿。所有法律都源于君主的意愿，而君主的意愿“不可能是非法的”（2010b, 38）。然而，边沁还坚持认为，无论采取何种形式，所有政治权力都必然受到迫使人民服从的能力的限制。正如他在《政府片段》中所说：“通过君主，我指的是任何一个人或一群人，整个政治社区（无论出于何种原因）都被认为有服从的意愿”（1977, 18）。在《刑法学的界限》中，他解释说，这意味着两种意愿，这两种意愿都是完整的主权理论的必要组成部分：一方面是立法机关的制定，另一方面是人民服从这些制定的意愿。实际上，人民不服从的意愿构成了对君主权威的永久性宪法检查，从这个意义上说，“人民的顺从和服从”作为主权的“组成原因”（2010b 150n）。立法机关可能是“至高无上的”，但它“永远不能自己成为绝对和无限的”，或者“等同于完全的命令权力”（113）。结果是一种“分裂的概念”主权，由立法机关和人民之间的动态互动所定义，受时代变化和公众对法律态度的反映的影响（参见 Ben-Dor 2000，第 2 章）。这需要公众审议和问责的过程，而这一过程在边沁对“新闻自由”和“公众结社自由”的理解中得到了极大的促进，这在边沁对“公众舆论法庭”（POT）的构想中得到了凝聚。（1977, 485）
 
@@ -224,132 +222,132 @@ Hildreth，他自己的《道德理论》（1844）在很大程度上借鉴了�
 
 #### Collected Editions of Bentham’s Works
 
-* 1829–30, _Œuvres de_ _Jérémie_ _Bentham_, 3 volumes, E. Dumont (ed.), Bruxelles: Hauman.
-* 1838–43, _The Works of Jeremy Bentham, Published under the Superintendence of his Executor, John Bowring_, 11 vols., Edinburgh: William Tait.
-* 1952–54, _Jeremy Bentham’s Economic Writings_, 3 volumes, W. Stark (ed.), London: George Allen & Unwin.
-* 1968–, _The Collected Works of Jeremy Bentham_, General Editors: J. H. Burns, J. R. Dinwiddy, F. Rosen, T. P. Schofield, London: Athlone Press; Oxford: Clarendon Press; and London: UCL Press, in progress:
-  * 1970, _An Introduction to the Principles of Morals and Legislation_, J. H. Burns and H. L. A. Hart (eds.).
-  * 1977, _A Comment on the Commentaries and A Fragment on Government_, J. H. Burns and H. L. A. Hart (eds.).
-  * 1983, _Chrestomathia_, M. J. Smith and W. H. Burston (eds.).
-  * 1983a, _Deontology together with A Table of the Springs of Action and the Article on Utilitarianism_, A. Goldworth (ed.).
-  * 1983b, _Constitutional Code_, volume 1, F. Rosen and J. H. Burns (eds.).
-  * 1989, _First Principles Preparatory to Constitutional Code_, T. P. Schofield (ed.).
-  * 1990, _Securities Against Misrule and other Constitutional Writings for Tripoli and Greece_, T. P. Schofield (ed.).
-  * 1993, _Official Aptitude Maximized; Expense Minimized_, P. Schofield (ed.).
-  * 1995, _Colonies, Commerce, and Constitutional Law: Rid Yourselves of Ultramaria and other writings on Spain and Spanish America_, P. Schofield (ed.)
-  * 1998,_“Legislator of the World”: Writings on Codification, Law, and Education_, P. Schofield and J. Harris (ed.).
-  * 1999, _Political Tactics_, M. James, C. Blamires and C. Pease-Watkin (eds.).
-  * 2001, 2010a, _Writings on the Poor Laws_, 2 volumes, M. Quinn (ed.).
-  * 2002, _Rights, Representation, and Reform: Nonsense upon Stilts and other Writings on the French Revolution_, P. Schofield, C. Pease-Watkin and C. Blamires (eds.).
-  * 2010b, _Of the Limits of the Penal Branch of Jurisprudence_, ed. P. Schofield.
-  * 2011, _Church-of-Englandism and its Catechism Examined_, J. E. Crimmins and C. Fuller (eds.).
-  * 2012, _On the Liberty of the Press, and Public Discussion, and other Legal and Political Writings for Spain and Portugal_, C. Pease-Watkin and P. Schofield (eds.).
+* 1829–30, *Œuvres de* *Jérémie* *Bentham*, 3 volumes, E. Dumont (ed.), Bruxelles: Hauman.
+* 1838–43, *The Works of Jeremy Bentham, Published under the Superintendence of his Executor, John Bowring*, 11 vols., Edinburgh: William Tait.
+* 1952–54, *Jeremy Bentham’s Economic Writings*, 3 volumes, W. Stark (ed.), London: George Allen & Unwin.
+* 1968–, *The Collected Works of Jeremy Bentham*, General Editors: J. H. Burns, J. R. Dinwiddy, F. Rosen, T. P. Schofield, London: Athlone Press; Oxford: Clarendon Press; and London: UCL Press, in progress:
+  * 1970, *An Introduction to the Principles of Morals and Legislation*, J. H. Burns and H. L. A. Hart (eds.).
+  * 1977, *A Comment on the Commentaries and A Fragment on Government*, J. H. Burns and H. L. A. Hart (eds.).
+  * 1983, *Chrestomathia*, M. J. Smith and W. H. Burston (eds.).
+  * 1983a, *Deontology together with A Table of the Springs of Action and the Article on Utilitarianism*, A. Goldworth (ed.).
+  * 1983b, *Constitutional Code*, volume 1, F. Rosen and J. H. Burns (eds.).
+  * 1989, *First Principles Preparatory to Constitutional Code*, T. P. Schofield (ed.).
+  * 1990, *Securities Against Misrule and other Constitutional Writings for Tripoli and Greece*, T. P. Schofield (ed.).
+  * 1993, *Official Aptitude Maximized; Expense Minimized*, P. Schofield (ed.).
+  * 1995, *Colonies, Commerce, and Constitutional Law: Rid Yourselves of Ultramaria and other writings on Spain and Spanish America*, P. Schofield (ed.)
+  * 1998,*“Legislator of the World”: Writings on Codification, Law, and Education*, P. Schofield and J. Harris (ed.).
+  * 1999, *Political Tactics*, M. James, C. Blamires and C. Pease-Watkin (eds.).
+  * 2001, 2010a, *Writings on the Poor Laws*, 2 volumes, M. Quinn (ed.).
+  * 2002, *Rights, Representation, and Reform: Nonsense upon Stilts and other Writings on the French Revolution*, P. Schofield, C. Pease-Watkin and C. Blamires (eds.).
+  * 2010b, *Of the Limits of the Penal Branch of Jurisprudence*, ed. P. Schofield.
+  * 2011, *Church-of-Englandism and its Catechism Examined*, J. E. Crimmins and C. Fuller (eds.).
+  * 2012, *On the Liberty of the Press, and Public Discussion, and other Legal and Political Writings for Spain and Portugal*, C. Pease-Watkin and P. Schofield (eds.).
   * 2013, “[Not Paul, But Jesus Part III. Doctrine](http://discovery.ucl.ac.uk/1392179/3/npbj.pdf)”, Bentham Project.
-  * 2014, _Of Sexual Irregularities, and other writings on Sexual Morality_, P. Schofield, C. Pease-Watkin, and M. Quinn (eds.).
-  * 2015, _The Book of Fallacies_, P. Schofield (ed.).
-  * 2016a, 2019, _Writings on Political Economy_, Volume 1: including “Defence of Usury”; “Manual of Political Economy”; and “Protest against Law Taxes”), and Volumes 2: including “Supply without Burthen” and “Proposals Relative to Divers Modes of Supply”, M. Quinn (ed.), Oxford: Oxford University Press.
-  * 2016b, _Preparatory Principles_, D. G. Long and P. Schofield (eds.).
-  * 2022, _Panopticon versus New South Wales and Other Writings on Australia_, T. Causer and P. Schofield (eds.).
+  * 2014, *Of Sexual Irregularities, and other writings on Sexual Morality*, P. Schofield, C. Pease-Watkin, and M. Quinn (eds.).
+  * 2015, *The Book of Fallacies*, P. Schofield (ed.).
+  * 2016a, 2019, *Writings on Political Economy*, Volume 1: including “Defence of Usury”; “Manual of Political Economy”; and “Protest against Law Taxes”), and Volumes 2: including “Supply without Burthen” and “Proposals Relative to Divers Modes of Supply”, M. Quinn (ed.), Oxford: Oxford University Press.
+  * 2016b, *Preparatory Principles*, D. G. Long and P. Schofield (eds.).
+  * 2022, *Panopticon versus New South Wales and Other Writings on Australia*, T. Causer and P. Schofield (eds.).
 
 #### Other Cited Works by Bentham
 
-* 1795, “Nonsense upon Stilts, Or Pandora’s Box Opened, Or The French Declaration of Rights prefixed to the Constitution of 1791 laid open and exposed–with a Comparative Sketch of what has been done on the same subject in the Constitution of 1795”, in _Collected Works_, 2002, 317–401.
-* 1830–31, “History of the War between Jeremy Bentham and George the Third. By one of the Belligerents”, in _The Works of Jeremy Bentham_, 1838–43, XI, 96–105.
-* 1831, “Colonization Company Proposal: Being a proposal for the formation of a joint-stock company by the name of the Colonization Company on the entirely new principle intituled the vicinity-maximizing or dispersion-preventing principle”, in _Collected Works_, 2022, forthcoming.
-* 1840 \[2nd edn 1864], _Theory of Legislation; by Jeremy Bentham. Translated from the French of Etienne Dumont, by Richard Hildreth_, 2 vols., rept. with an introduction, appendix and index by James E. Crimmins, Bristol: Thoemmes Continuum, 2004.
-* 1842, _Auto-Icon; or Farther Uses of the Dead to the Living_; in James E. Crimmins (ed.), _Jeremy Bentham’s Auto-Icon and Related Writings_, Bristol: Thoemmes, 2002.
+* 1795, “Nonsense upon Stilts, Or Pandora’s Box Opened, Or The French Declaration of Rights prefixed to the Constitution of 1791 laid open and exposed–with a Comparative Sketch of what has been done on the same subject in the Constitution of 1795”, in *Collected Works*, 2002, 317–401.
+* 1830–31, “History of the War between Jeremy Bentham and George the Third. By one of the Belligerents”, in *The Works of Jeremy Bentham*, 1838–43, XI, 96–105.
+* 1831, “Colonization Company Proposal: Being a proposal for the formation of a joint-stock company by the name of the Colonization Company on the entirely new principle intituled the vicinity-maximizing or dispersion-preventing principle”, in *Collected Works*, 2022, forthcoming.
+* 1840 \[2nd edn 1864], *Theory of Legislation; by Jeremy Bentham. Translated from the French of Etienne Dumont, by Richard Hildreth*, 2 vols., rept. with an introduction, appendix and index by James E. Crimmins, Bristol: Thoemmes Continuum, 2004.
+* 1842, *Auto-Icon; or Farther Uses of the Dead to the Living*; in James E. Crimmins (ed.), *Jeremy Bentham’s Auto-Icon and Related Writings*, Bristol: Thoemmes, 2002.
 
 #### Other Primary Sources
 
-* Carlyle, T., 1840, _On Heroes, Hero-Worship, and the Heroic in History_, M.K. Goldberg, J.J. Brattin, and M. Engel (eds.), Berkeley, CA: University of California Press, 1993.
-* Edgeworth, F. Y., 1881, _Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences_, London: C. Kegan Paul & Co.
-* Hazlitt, W., 1826, “The New School of Reform: A Dialogue between a Rationalist and a Sentimentalist”, in _The Complete Works of William Hazlitt_, 21 vols., P. P. Howe (ed.), London: J.M. Dent and Sons, 1930–4, vol. 12, pp. 179–95.
-* Jevons, W. S., 1871, _The Theory of Political Economy_, London: Macmillan and Co.
-* Mill, J. S., 1963–91, _Collected Works of John Stuart Mill_, J. M. Robson (general editor), Toronto: University of Toronto Press.
-* Neal, J., 1830, _Principles of Legislation: From the Ms. of Jeremy Bentham_; … _By M. Dumont_ …; _With Notes and a Biographical Notice of Jeremy Bentham and of M. Dumont_, Boston, MA: Wells and Lilly.
-* Smith, T. S., 1832, _Lecture Delivered over the Remains of Jeremy Bentham, Esq., in the Webb-Street School of Anatomy & Medicine, on the 9th June, 1832_, London: Effingham Wilson.
+* Carlyle, T., 1840, *On Heroes, Hero-Worship, and the Heroic in History*, M.K. Goldberg, J.J. Brattin, and M. Engel (eds.), Berkeley, CA: University of California Press, 1993.
+* Edgeworth, F. Y., 1881, *Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences*, London: C. Kegan Paul & Co.
+* Hazlitt, W., 1826, “The New School of Reform: A Dialogue between a Rationalist and a Sentimentalist”, in *The Complete Works of William Hazlitt*, 21 vols., P. P. Howe (ed.), London: J.M. Dent and Sons, 1930–4, vol. 12, pp. 179–95.
+* Jevons, W. S., 1871, *The Theory of Political Economy*, London: Macmillan and Co.
+* Mill, J. S., 1963–91, *Collected Works of John Stuart Mill*, J. M. Robson (general editor), Toronto: University of Toronto Press.
+* Neal, J., 1830, *Principles of Legislation: From the Ms. of Jeremy Bentham*; … *By M. Dumont* …; *With Notes and a Biographical Notice of Jeremy Bentham and of M. Dumont*, Boston, MA: Wells and Lilly.
+* Smith, T. S., 1832, *Lecture Delivered over the Remains of Jeremy Bentham, Esq., in the Webb-Street School of Anatomy & Medicine, on the 9th June, 1832*, London: Effingham Wilson.
 
 ### Secondary Sources
 
-* Armitage, D., 2011, “Globalizing Jeremy Bentham”, _History of Political Thought_, 32 (1): 63–82.
-* Avila-Martel, A. de, 1981, “The Influence of Bentham on the Teaching of Penal Law in Chile”, _The Bentham Newsletter_, 5: 22–8.
-* Bahmueller, C. F., 1981, _The National Charity Company: Jeremy Bentham’s Silent Revolution_, Berkeley, CA: University of California Press.
-* Bedau, H. A., 1983, “Bentham’s Utilitarian Critique of the Death Penalty”, _Journal of Criminal Law and Criminology_, 74 (3): 1033–65.
-* –––, 2004, “Bentham’s Theory of Punishment: Origin and Content”, _Journal of Bentham Studies_, 7: n.p. \[[Bedau 2004 available online](http://discovery.ucl.ac.uk/1323719/)].
-* Ben-Dor, O., 2000, _Constitutional Limits and the Public Sphere_, Oxford & Portland, OR: Hart Publishing.
-* Blamires, C., 2008, _The French Revolution and the Creation of Benthamism_, London: Palgrave.
-* Boralevi, L. C., 1984, _Bentham and the Oppressed_, Berlin: W. de Gruyter.
-* Brunon-Ernst, A. (ed.), 2012, _Beyond Foucault: New Perspectives on Bentham’s Panopticon_, Farnham: Ashgate.
-* Bykvist, K., 2010, _Utilitarianism: A Guide for the Perplexed_, London: Continuum.
-* –––, 2013, “Preferences (Preferentialism),” in J.E. Crimmins (ed.), _Bloomsbury Encyclopedia of Utilitarianism_, London & New York: Bloomsbury; reprinted 2017, pp. 440–45.
-* Cain, P. J., 2011, “Bentham and the Development of the British Critique of Colonialism”, _Utilitas_, 23 (1): 1–24.
-* Causer, T., M. Finn and P. Schofield (eds.), 2022, _Bentham and Australia: Convicts, Utility and Empire_, London: University College London Press.
-* Champs, E. de., 2015, _Enlightenment and Utility: Bentham in French, Bentham in France_, Cambridge: Cambridge University Press.
-* Crimmins, J. E., 1987, “‘Strictures on Paley’s Net’: Capital Punishment and the Power to Pardon”, _The Bentham Newsletter_, 11: 23–34.
-* –––, 1990, _Secular Utilitarianism: Social science and the critique of religion in the thought of Jeremy Bentham_, Oxford: Clarendon.
-* –––, 1994, “Bentham’s Political Radicalism Reexamined”, _Journal of the History of Ideas_, 55 (2): 259–81.
-* –––, 2004, _On Bentham_, Belmont, CA: Wadsworth.
-* –––, 2011, “Principles of Utilitarian Penal Law in Beccaria, Bentham and Mill”, in P. K. Koritansky (ed.), _The Philosophy of Punishment and the History of Political Thought_, Columbia: The University of Missouri Press, pp. 136–71.
-* –––, 2013, _Utilitarian Philosophy and Politics: Bentham’s Later Years_, London & New York: Bloomsbury.
-* –––, 2022, _Utilitarianism in the Early American Republic_, New York: Routledge.
-* Dabhoiwala, F., 2010, “Lust and Liberty”, _Past & Present_, 207 (1): 89–179.
-* Dewey, J. and J. H. Tufts, 1908, _Ethics_, in _John Dewey: The Middle Works, 1899–1924_ (Volume 5), Jo Ann Boydson (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1978.
-* Dewey, J., 1935, _Liberalism and Social Action_, in _John Dewey: The Later Works, 1925–1953_ (Volume 11: 1935–1937), Jo Ann Boydston (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1991.
-* Dinwiddy, J. R., 1975, “Bentham’s Transition to Political Radicalism, 1809–10”, _Journal of the History of Ideas_, 36 (4): 683–700.
-* –––, 1984, “Bentham and the Early Nineteenth Century”, _The Bentham Newsletter_, 8: 15–33.
-* –––, 1989a, “Adjudication under Bentham’s Pannomion”, _Utilitas_, 1 (2): 283–9.
-* –––, 1989b, _Bentham_. Oxford: Oxford University Press.
-* Draper, T., 2002, “An Introduction to Jeremy Bentham’s Theory of Punishment”, _Journal of Bentham Studies_, 5: n.p. \[[Draper 2002 available online](http://discovery.ucl.ac.uk/1323717/)]
-* Engelmann, S., 2001, “Imagining Interest,” _Utilitas_, 13 (3): 289–322
-* Foucault, M., 1985, _Discipline and Punish: The Birth of the Prison_, A. Sheridan (trans.), Harmondsworth: Penguin.
-* Halévy, E., 1901–4, _The Growth of Philosophic Radicalism_ \[_La Formation du radicalisme philosophique_, new edition, M. Morris (trans.), 1928; Clifton, NJ: Augustus M. Kelley 1972.
-* Harrison, R., 1983, _Bentham_, London: Routledge and Kegan Paul.
-* Hart, H. L. A., 1982, _Essays on Bentham: Studies on Jurisprudence and Political Theory_, Oxford: Clarendon.
-* Hume, L. J., 1981, _Bentham and Bureaucracy_, Cambridge: Cambridge University Press.
-* Itzkin, E. S., 1978, “Bentham’s _Chrestomathia_: Utilitarian Legacy to English Education”, _Journal of the History of Ideas_, 39 (2): 303–16.
-* Jacques, S., and P. Schofield (eds.), 2021, _Jeremy Bentham on Police: The Unknown Story and What it Means for Criminology_, London: University College London Press.
-* James, W., 1891, “The Moral Philosopher and the Moral Life”, in _The Will to Believe and other Essays in Popular Philosophy_, New York: Dover Publications, 1956.
-* Jones, H. S., 2005, “The Early Utilitarians, Race, and Empire: The State of the Argument”, in B. Schultz and G. Varouxakis, eds., _Utilitarianism and Empire_, Lanham, MD: Lexington Books, pp. 179–88.
-* Julius, A., Quinn, M., and P. Schofield (eds.), 2020, _Bentham and the Arts_, London: UCL Press.
-* Kelly, P. J., 1989, “Utilitarianism and Distributive Justice: The Civil Law and the Foundations of Bentham’s Economic Thought”, _Utilitas_, 1 (1): 62–81.
-* –––, 1990, _Utilitarianism and Distributive Justice: Jeremy Bentham and the Civil Law_, Oxford: Clarendon.
-* Lieberman, D., 2008, “Bentham’s Democracy”, _Oxford Journal of Legal Studies_, 28 (3): 605–26.
-* –––, 2011, “Bentham on Codification”, in S. G. Engelmann (ed.), _Selected Writings: Jeremy Bentham_, New Haven, CT: Yale University Press, pp. 460–77.
-* Lively, J., and J. C. Rees, eds., 1978, _Utilitarian Logic and Politics: James Mill’s “Essay on Government”, Macaulay’s critique and the ensuing debate_. Oxford: Clarendon Press.
-* Long, D. G., 1977, _Bentham on Liberty: Jeremy Bentham’s Idea of Liberty in Relation to his Utilitarianism_, Toronto: University of Toronto Press.
-* Luño, A-E P., 1981, “Jeremy Bentham and Legal Education in the University of Salamanca during the Nineteenth Century”, _The Bentham Newsletter_, 5: 44–54.
-* Mack, M. P., 1955, “The Fabians and Utilitarianism”, _Journal of the History of Ideas_, 16 (1): 76–88.
-* MacKennan, T. L., 1981, “Benthamism in Santander’s Colombia”, _The Bentham Newsletter_, 5: 29–43.
-* Nozick, R., 1974, _Anarchy, State, and Utopia_, New York: Basic Books.
-* Peonidis, F., 2009, “Bentham and the Greek Revolution: New evidence”, _Journal of Bentham Studies_, 11: n.p. \[[Peonidis 2009 available online](https://uclpress.scienceopen.com/hosted-document?doi=10.14324/111.2045-757X.036)]
-* Pitts, J., 2005, “Jeremy Bentham: Legislator to the World?” in B. Schultz and G. Varouxakis, eds., _Utilitarianism and Empire_, Lanham, MD: Lexington Books, pp. 57–92.
-* Postema, G. J., 1989, _Bentham and the Common Law Tradition_, Oxford: Clarendon.
-* –––, 1998, “Bentham’s Equality-Sensitive Utilitarianism”, _Utilitas_, 10 (2): 144–58.
-* –––, 2014, “The Soul of Justice: Bentham on Publicity, Law, and the Rule of Law”, in Z. Xiabo and M. Quinn, eds., _Bentham’s Theory of Law and Public Opinion_, Cambridge: Cambridge University Press, pp. 40–62.
-* Quinn, M., 2008, “A Failure to Reconcile the Irreconcilable? Security, Subsistence and Equality in Bentham’s Writings on the Civil Code and on the Poor Laws”, _History of Political Thought_, 29 (2): 320–43.
-* –––, 2012, “Which comes first, Bentham’s chicken of utility, or his egg of truth?” _Journal of Bentham Studies_, 14: [Quinn 2008 published online](http://discovery.ucl.ac.uk/1353163/).
-* –––, 2022, _Bentham_, Cambridge: Polity Press.
-* Rawls, J., 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Resnik, J., 2011, “Bring back Bentham: ‘open courts,’ ‘terror trials,’ and public sphere(s)”, _Law, Ethics, Human Rights_, 5 (1): 1–69.
-* Richardson, R., 1986, “Bentham and Bodies for Dissection”, _The Bentham Newsletter_, 10: 22–33.
-* Rosen, F., 1983, _Jeremy Bentham and Representative Democracy: A Study of “The Constitutional Code_”, Oxford: Clarendon Press.
-* –––, 2003, _Classical Utilitarianism from Hume to Mill_, London & New York: Routledge.
-* –––, 2005, “Jeremy Bentham on Slavery and the Slave Trade”, in B. Schultz and G. Varouxakis (eds.), _Utilitarianism and Empire_, Lanham, MD: Lexington Books, pp. 31–56.
-* Rosenblum, N., 1978, _Bentham’s Theory of the Modern State_, Cambridge, MA: Harvard University Press.
-* Schofield, P., 1996, “Bentham on the Identification of Interests”, _Utilitas_, 8 (2): 223–34.
-* –––, 2006, _Utility & Democracy: The Political Thought of Jeremy Bentham_, Oxford: Oxford University Press.
-* –––, 2009, _Bentham: A Guide for the Perplexed_, London: Continuum.
-* –––, 2013, “The Legal and Political Legacy of Jeremy Bentham”, _Annual Review of Law and Social Science_, 9: 51–70.
-* –––, 2014, “Jeremy Bentham on Taste, Sex and Religion”, in Z. Xiabo and M. Quinn, eds., _Bentham’s Theory of Law and Public Opinion_, Cambridge: Cambridge University Press, pp. 90–118.
-* Semple, J., 1993, _Bentham’s Prison: A Study of the Panopticon Penitentiary_, Oxford: Clarendon Press.
-* Sokol, M., 2011, _Bentham on Sex and Marriage: Law and Utility in Historical Context_, London: Continuum.
-* Stephen, L., 1902, _The English Utilitarians_, 3 vols., New York: G. P. Putnam’s Sons.
-* Ten, C. L., 1987, _Crime, Guilt, and Punishment: A Philosophical Introduction_, New York: Oxford University Press.
-* Twining, W. L., 1985, _Theories of Evidence: Bentham and Wigmore_, London: Weidenfeld and Nicolson.
-* Thomas, W., 1979, _The Philosophic Radicals: Nine Studies in Theory and Practice, 1817–1841_, Oxford: Clarendon Press.
-* Wallas, G., 1926, “Bentham as Political Inventor”, _Contemporary Review_, 129: 308–19.
-* Warke, T., 2000, “Multi-Dimensional Utility and the Index Number Problem: Jeremy Bentham, J. S. Mill, and Qualitative Hedonism”, _Utilitas_, 12 (2): 176–203.
-* Zhai, X., and S. Palmer (eds.), 2021, _Bentham Around the World_, Clark, NJ: Talbot Publishing.
+* Armitage, D., 2011, “Globalizing Jeremy Bentham”, *History of Political Thought*, 32 (1): 63–82.
+* Avila-Martel, A. de, 1981, “The Influence of Bentham on the Teaching of Penal Law in Chile”, *The Bentham Newsletter*, 5: 22–8.
+* Bahmueller, C. F., 1981, *The National Charity Company: Jeremy Bentham’s Silent Revolution*, Berkeley, CA: University of California Press.
+* Bedau, H. A., 1983, “Bentham’s Utilitarian Critique of the Death Penalty”, *Journal of Criminal Law and Criminology*, 74 (3): 1033–65.
+* –––, 2004, “Bentham’s Theory of Punishment: Origin and Content”, *Journal of Bentham Studies*, 7: n.p. \[[Bedau 2004 available online](http://discovery.ucl.ac.uk/1323719/)].
+* Ben-Dor, O., 2000, *Constitutional Limits and the Public Sphere*, Oxford & Portland, OR: Hart Publishing.
+* Blamires, C., 2008, *The French Revolution and the Creation of Benthamism*, London: Palgrave.
+* Boralevi, L. C., 1984, *Bentham and the Oppressed*, Berlin: W. de Gruyter.
+* Brunon-Ernst, A. (ed.), 2012, *Beyond Foucault: New Perspectives on Bentham’s Panopticon*, Farnham: Ashgate.
+* Bykvist, K., 2010, *Utilitarianism: A Guide for the Perplexed*, London: Continuum.
+* –––, 2013, “Preferences (Preferentialism),” in J.E. Crimmins (ed.), *Bloomsbury Encyclopedia of Utilitarianism*, London & New York: Bloomsbury; reprinted 2017, pp. 440–45.
+* Cain, P. J., 2011, “Bentham and the Development of the British Critique of Colonialism”, *Utilitas*, 23 (1): 1–24.
+* Causer, T., M. Finn and P. Schofield (eds.), 2022, *Bentham and Australia: Convicts, Utility and Empire*, London: University College London Press.
+* Champs, E. de., 2015, *Enlightenment and Utility: Bentham in French, Bentham in France*, Cambridge: Cambridge University Press.
+* Crimmins, J. E., 1987, “‘Strictures on Paley’s Net’: Capital Punishment and the Power to Pardon”, *The Bentham Newsletter*, 11: 23–34.
+* –––, 1990, *Secular Utilitarianism: Social science and the critique of religion in the thought of Jeremy Bentham*, Oxford: Clarendon.
+* –––, 1994, “Bentham’s Political Radicalism Reexamined”, *Journal of the History of Ideas*, 55 (2): 259–81.
+* –––, 2004, *On Bentham*, Belmont, CA: Wadsworth.
+* –––, 2011, “Principles of Utilitarian Penal Law in Beccaria, Bentham and Mill”, in P. K. Koritansky (ed.), *The Philosophy of Punishment and the History of Political Thought*, Columbia: The University of Missouri Press, pp. 136–71.
+* –––, 2013, *Utilitarian Philosophy and Politics: Bentham’s Later Years*, London & New York: Bloomsbury.
+* –––, 2022, *Utilitarianism in the Early American Republic*, New York: Routledge.
+* Dabhoiwala, F., 2010, “Lust and Liberty”, *Past & Present*, 207 (1): 89–179.
+* Dewey, J. and J. H. Tufts, 1908, *Ethics*, in *John Dewey: The Middle Works, 1899–1924* (Volume 5), Jo Ann Boydson (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1978.
+* Dewey, J., 1935, *Liberalism and Social Action*, in *John Dewey: The Later Works, 1925–1953* (Volume 11: 1935–1937), Jo Ann Boydston (ed.), Carbondale and Edwardsville, IL: Southern Illinois University Press, 1991.
+* Dinwiddy, J. R., 1975, “Bentham’s Transition to Political Radicalism, 1809–10”, *Journal of the History of Ideas*, 36 (4): 683–700.
+* –––, 1984, “Bentham and the Early Nineteenth Century”, *The Bentham Newsletter*, 8: 15–33.
+* –––, 1989a, “Adjudication under Bentham’s Pannomion”, *Utilitas*, 1 (2): 283–9.
+* –––, 1989b, *Bentham*. Oxford: Oxford University Press.
+* Draper, T., 2002, “An Introduction to Jeremy Bentham’s Theory of Punishment”, *Journal of Bentham Studies*, 5: n.p. \[[Draper 2002 available online](http://discovery.ucl.ac.uk/1323717/)]
+* Engelmann, S., 2001, “Imagining Interest,” *Utilitas*, 13 (3): 289–322
+* Foucault, M., 1985, *Discipline and Punish: The Birth of the Prison*, A. Sheridan (trans.), Harmondsworth: Penguin.
+* Halévy, E., 1901–4, *The Growth of Philosophic Radicalism* \[*La Formation du radicalisme philosophique*, new edition, M. Morris (trans.), 1928; Clifton, NJ: Augustus M. Kelley 1972.
+* Harrison, R., 1983, *Bentham*, London: Routledge and Kegan Paul.
+* Hart, H. L. A., 1982, *Essays on Bentham: Studies on Jurisprudence and Political Theory*, Oxford: Clarendon.
+* Hume, L. J., 1981, *Bentham and Bureaucracy*, Cambridge: Cambridge University Press.
+* Itzkin, E. S., 1978, “Bentham’s *Chrestomathia*: Utilitarian Legacy to English Education”, *Journal of the History of Ideas*, 39 (2): 303–16.
+* Jacques, S., and P. Schofield (eds.), 2021, *Jeremy Bentham on Police: The Unknown Story and What it Means for Criminology*, London: University College London Press.
+* James, W., 1891, “The Moral Philosopher and the Moral Life”, in *The Will to Believe and other Essays in Popular Philosophy*, New York: Dover Publications, 1956.
+* Jones, H. S., 2005, “The Early Utilitarians, Race, and Empire: The State of the Argument”, in B. Schultz and G. Varouxakis, eds., *Utilitarianism and Empire*, Lanham, MD: Lexington Books, pp. 179–88.
+* Julius, A., Quinn, M., and P. Schofield (eds.), 2020, *Bentham and the Arts*, London: UCL Press.
+* Kelly, P. J., 1989, “Utilitarianism and Distributive Justice: The Civil Law and the Foundations of Bentham’s Economic Thought”, *Utilitas*, 1 (1): 62–81.
+* –––, 1990, *Utilitarianism and Distributive Justice: Jeremy Bentham and the Civil Law*, Oxford: Clarendon.
+* Lieberman, D., 2008, “Bentham’s Democracy”, *Oxford Journal of Legal Studies*, 28 (3): 605–26.
+* –––, 2011, “Bentham on Codification”, in S. G. Engelmann (ed.), *Selected Writings: Jeremy Bentham*, New Haven, CT: Yale University Press, pp. 460–77.
+* Lively, J., and J. C. Rees, eds., 1978, *Utilitarian Logic and Politics: James Mill’s “Essay on Government”, Macaulay’s critique and the ensuing debate*. Oxford: Clarendon Press.
+* Long, D. G., 1977, *Bentham on Liberty: Jeremy Bentham’s Idea of Liberty in Relation to his Utilitarianism*, Toronto: University of Toronto Press.
+* Luño, A-E P., 1981, “Jeremy Bentham and Legal Education in the University of Salamanca during the Nineteenth Century”, *The Bentham Newsletter*, 5: 44–54.
+* Mack, M. P., 1955, “The Fabians and Utilitarianism”, *Journal of the History of Ideas*, 16 (1): 76–88.
+* MacKennan, T. L., 1981, “Benthamism in Santander’s Colombia”, *The Bentham Newsletter*, 5: 29–43.
+* Nozick, R., 1974, *Anarchy, State, and Utopia*, New York: Basic Books.
+* Peonidis, F., 2009, “Bentham and the Greek Revolution: New evidence”, *Journal of Bentham Studies*, 11: n.p. \[[Peonidis 2009 available online](https://uclpress.scienceopen.com/hosted-document?doi=10.14324/111.2045-757X.036)]
+* Pitts, J., 2005, “Jeremy Bentham: Legislator to the World?” in B. Schultz and G. Varouxakis, eds., *Utilitarianism and Empire*, Lanham, MD: Lexington Books, pp. 57–92.
+* Postema, G. J., 1989, *Bentham and the Common Law Tradition*, Oxford: Clarendon.
+* –––, 1998, “Bentham’s Equality-Sensitive Utilitarianism”, *Utilitas*, 10 (2): 144–58.
+* –––, 2014, “The Soul of Justice: Bentham on Publicity, Law, and the Rule of Law”, in Z. Xiabo and M. Quinn, eds., *Bentham’s Theory of Law and Public Opinion*, Cambridge: Cambridge University Press, pp. 40–62.
+* Quinn, M., 2008, “A Failure to Reconcile the Irreconcilable? Security, Subsistence and Equality in Bentham’s Writings on the Civil Code and on the Poor Laws”, *History of Political Thought*, 29 (2): 320–43.
+* –––, 2012, “Which comes first, Bentham’s chicken of utility, or his egg of truth?” *Journal of Bentham Studies*, 14: [Quinn 2008 published online](http://discovery.ucl.ac.uk/1353163/).
+* –––, 2022, *Bentham*, Cambridge: Polity Press.
+* Rawls, J., 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Resnik, J., 2011, “Bring back Bentham: ‘open courts,’ ‘terror trials,’ and public sphere(s)”, *Law, Ethics, Human Rights*, 5 (1): 1–69.
+* Richardson, R., 1986, “Bentham and Bodies for Dissection”, *The Bentham Newsletter*, 10: 22–33.
+* Rosen, F., 1983, *Jeremy Bentham and Representative Democracy: A Study of “The Constitutional Code*”, Oxford: Clarendon Press.
+* –––, 2003, *Classical Utilitarianism from Hume to Mill*, London & New York: Routledge.
+* –––, 2005, “Jeremy Bentham on Slavery and the Slave Trade”, in B. Schultz and G. Varouxakis (eds.), *Utilitarianism and Empire*, Lanham, MD: Lexington Books, pp. 31–56.
+* Rosenblum, N., 1978, *Bentham’s Theory of the Modern State*, Cambridge, MA: Harvard University Press.
+* Schofield, P., 1996, “Bentham on the Identification of Interests”, *Utilitas*, 8 (2): 223–34.
+* –––, 2006, *Utility & Democracy: The Political Thought of Jeremy Bentham*, Oxford: Oxford University Press.
+* –––, 2009, *Bentham: A Guide for the Perplexed*, London: Continuum.
+* –––, 2013, “The Legal and Political Legacy of Jeremy Bentham”, *Annual Review of Law and Social Science*, 9: 51–70.
+* –––, 2014, “Jeremy Bentham on Taste, Sex and Religion”, in Z. Xiabo and M. Quinn, eds., *Bentham’s Theory of Law and Public Opinion*, Cambridge: Cambridge University Press, pp. 90–118.
+* Semple, J., 1993, *Bentham’s Prison: A Study of the Panopticon Penitentiary*, Oxford: Clarendon Press.
+* Sokol, M., 2011, *Bentham on Sex and Marriage: Law and Utility in Historical Context*, London: Continuum.
+* Stephen, L., 1902, *The English Utilitarians*, 3 vols., New York: G. P. Putnam’s Sons.
+* Ten, C. L., 1987, *Crime, Guilt, and Punishment: A Philosophical Introduction*, New York: Oxford University Press.
+* Twining, W. L., 1985, *Theories of Evidence: Bentham and Wigmore*, London: Weidenfeld and Nicolson.
+* Thomas, W., 1979, *The Philosophic Radicals: Nine Studies in Theory and Practice, 1817–1841*, Oxford: Clarendon Press.
+* Wallas, G., 1926, “Bentham as Political Inventor”, *Contemporary Review*, 129: 308–19.
+* Warke, T., 2000, “Multi-Dimensional Utility and the Index Number Problem: Jeremy Bentham, J. S. Mill, and Qualitative Hedonism”, *Utilitas*, 12 (2): 176–203.
+* Zhai, X., and S. Palmer (eds.), 2021, *Bentham Around the World*, Clark, NJ: Talbot Publishing.
 
 ## Academic Tools
 
@@ -362,7 +360,7 @@ Hildreth，他自己的《道德理论》（1844）在很大程度上借鉴了�
 ## Other Internet Resources
 
 * [Bentham Project](https://www.ucl.ac.uk/bentham-project), University College London.
-* [_Journal of Bentham Studies_](https://uclpress.scienceopen.com/collection/d9fd23f6-7bde-4c1d-bfb4-052943bdf955)
+* [*Journal of Bentham Studies*](https://uclpress.scienceopen.com/collection/d9fd23f6-7bde-4c1d-bfb4-052943bdf955)
 * [Centre Bentham](http://www.centrebentham.fr/)
 * [Utilitarianism, website written by William MacAskill, Richard Yetter Chappell, and Darius Meissner.](http://www.utilitarianism.net/)
 
@@ -375,4 +373,4 @@ Hildreth，他自己的《道德理论》（1844）在很大程度上借鉴了�
 Michael Quinn and David Lieberman, generous and wise colleagues, gave careful attention to an earlier draft of this article and I am greatly indebted to them for the important improvements they recommended. I am also grateful to the SEP’s anonymous reviewer for correcting stylistic infelicities in the article.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-James E. Crimmins <[_jcrimmin@uwo.ca_](mailto:jcrimmin%40uwo%2eca)>
+James E. Crimmins <[*jcrimmin@uwo.ca*](mailto:jcrimmin%40uwo%2eca)>

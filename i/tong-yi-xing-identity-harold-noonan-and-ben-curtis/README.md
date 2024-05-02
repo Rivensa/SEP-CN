@@ -1,10 +1,9 @@
 # 同一性 identity (Harold Noonan and Ben Curtis)
 
-_首次发表于2004年12月15日；实质性修订于2022年7月20日。_
+*首次发表于2004年12月15日；实质性修订于2022年7月20日。*
 
 近几十年来，关于同一性的讨论主要集中在个人同一性，特别是随时间变化的个人同一性，但同一性的一般概念以及其他类型的事物的同一性也引起了关注。讨论的中心问题有很多相互关联的问题，但可以说最近的研究特别关注以下几个领域：同一性标准的概念；随时间变化的同一性的正确分析，特别是持续派和持久派对同一性随时间变化的分析的分歧；跨可能世界的同一性概念以及其与de re模态话语正确分析的相关性问题；偶然同一性的概念；同一性关系是否与组合关系相似；模糊同一性的概念。彼得·吉奇提出的一个激进观点是，这些讨论通常是无意义的，因为它们缺乏主题：它们预设的绝对同一性概念没有应用；只有相对同一性。另一个越来越流行的观点是大卫·刘易斯提出的观点：尽管这些讨论是有意义的，但它们实际上不是关于同一性的讨论，因为同一性没有哲学问题。同一性是一个完全没有问题的概念。存在的是真正的问题，可以用同一性的语言来陈述。但由于这些问题可以不使用同一性的语言来陈述，所以它们不是关于同一性的问题。（例如，一个谜题是关于所谓的“个人同一性问题”的一个方面，即同一个人是否可以在不同的时间拥有不同的身体。但这只是一个关于一个人是否可以在不同的时间拥有不同的身体的谜题。因此，由于它可以不使用“个人同一性”的语言来陈述，所以它不是关于个人同一性的问题，而是关于人格的问题。) 本文概述了上述所指的主题，对辩论进行了一些评估，并提出了进一步阅读的建议。
 
- 
 ***
 
 ## 1. 引言
@@ -245,7 +244,7 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 
 我们不应该认为我们在这里有任何关于同一性的问题。我们从未有过。同一性是完全简单和无问题的。一切都与自身相同；除了自身，没有任何东西与任何东西相同。关于是什么使某物与自身相同的问题从未存在过；任何东西都不可能不是自己。（Lewis 1986: 192–93）
 
-在这里，Lewis 的论点可以扩展如下：考虑任何关于一个事物 _x_ 与另一个事物 _y_ 相同的条件的假定问题。只有两种情况：要么（i）_x_ 与 _y_ 相同，要么（ii）_x_ 与 _y_ 不相同。考虑情况（i）。在这种情况下，假设问题是关于 _x_ 与自身相同的条件。但是不可能有这样的问题，因为一切与自身相同是一个概念上的真理，因此 _x_ 在所有情况下都与自身相同。询问某物与自身相同的条件就像问 '在什么条件下是一件事一件事，而不是两件事？' 没有任何信息性的答案，因为必然地，如果某物是一件事，那么它是一件事，而不是两件事，无法再说更多。现在考虑情况（ii）。现在假设问题是关于事物 _x_ 与不同的事物 _y_ 相同的条件。但是不可能有这样的问题，因为一个事物和一个不同的事物不相同是一个概念上的真理，因此不存在 _x_ 和 _y_ 相同的条件。询问一个事物和一个不同的事物相同的条件就像问 '在什么条件下是两件事一件事，而不是两件事？' 没有任何信息性的答案，因为必然地，如果两件事是两件事，那么它们是两件事，而不是一件事，无法再说更多。因此，无论是情况（i）还是情况（ii），都不可能有关于一个事物 _x_ 与一个事物 _y_ 相同的条件的问题。
+在这里，Lewis 的论点可以扩展如下：考虑任何关于一个事物 *x* 与另一个事物 *y* 相同的条件的假定问题。只有两种情况：要么（i）*x* 与 *y* 相同，要么（ii）*x* 与 *y* 不相同。考虑情况（i）。在这种情况下，假设问题是关于 *x* 与自身相同的条件。但是不可能有这样的问题，因为一切与自身相同是一个概念上的真理，因此 *x* 在所有情况下都与自身相同。询问某物与自身相同的条件就像问 '在什么条件下是一件事一件事，而不是两件事？' 没有任何信息性的答案，因为必然地，如果某物是一件事，那么它是一件事，而不是两件事，无法再说更多。现在考虑情况（ii）。现在假设问题是关于事物 *x* 与不同的事物 *y* 相同的条件。但是不可能有这样的问题，因为一个事物和一个不同的事物不相同是一个概念上的真理，因此不存在 *x* 和 *y* 相同的条件。询问一个事物和一个不同的事物相同的条件就像问 '在什么条件下是两件事一件事，而不是两件事？' 没有任何信息性的答案，因为必然地，如果两件事是两件事，那么它们是两件事，而不是一件事，无法再说更多。因此，无论是情况（i）还是情况（ii），都不可能有关于一个事物 *x* 与一个事物 *y* 相同的条件的问题。
 
 这个论点似乎有说服力，但是接受这个论点的人就必须承认，我们可以用明确表达这些问题实际上并不涉及同一性的术语来陈述似乎涉及同一性的问题（比如“跨世界同一性”的“问题”）。此外，似乎我们确实经常使用同一性的概念，如果上述论点是正确的，就需要解释我们如何以及为什么经常使用它。
 
@@ -253,84 +252,84 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 
 ## Bibliography
 
-* Akiba, K., 2000. “Identity is Simple”, _American Philosophical Quarterly_, 37(4): 389–404.
-* Azzano, L. & Carrara, M., 2021. “The Grounding of Identities”, _Philosophia_, 49(5): 1943–1952.
-* Baxter, D. L. M., 1988a. “Identity in the Loose and Popular Sense”, _Mind_, 97: 576–582.
-* –––, 1988b. “Many-One Identity ”, _Philosophical Papers_, 17: 193–216.
-* –––, 2001. “Instantiation as Partial Identity”, _The Australasian Journal of Philosophy_, 79(4): 449–464.
-* Black, M., 1952. “The Identity of Indiscernibles”, _Mind_, 61(242): 153–164.
-* Burgess, A., 2018. “The Things We Do with Identity”, _Mind_, 127(505): 105–128.
-* Burke, M., 1995. “Dion and Theon: an essentialist solution to an ancient problem”, _The Journal of Philosophy_, 91: 129–139.
-* Cameron, R., 2014. “Parts Generate the Whole, but They are Not Identical to It”, in A. J. Cotnoir and D. L. M. Baxter (eds.), _Composition as Identity_, Oxford: Oxford University Press, 90–109.
-* Cotnoir, A. J., 2013. “Composition as General Identity”, _Oxford Studies in Metaphysics_, 8: 294–322.
-* Curtis, B and Noonan, H.W., 2015. “Identity over time, constitution and the problem of personal identity”, in S. Miller (ed.), _The Constitution of Phenomenal Consciousness: Toward a science and theory_, Amsterdam: John Benjamins, 348–371.
-* Davidson, D., 1980. _Essays on Actions and Events_, Oxford: Clarendon Press.
-* Deutsch, H., 1997. “Identity and General Similarity”, _Philosophical Perspectives_, 12: 177–200.
-* Dummett, M., 1981. _The Interpretation of Frege’s Philosophy_, Cambridge, MA: Harvard University Press.
-* –––, 1991. “Does Quantification involve Identity?” in H.A. Lewis (ed.), _Peter Geach: Philosophical encounters_, Dordrecht: Kluwer Academic Publishers, 161–184.
-* Edgington, D., 2000. “Indeterminacy _De Re_”, _Philosophical Topics_, 28: 27–43.
-* Evans, G., 1978. “Can there be vague objects?”, _Analysis_, 38: 208.
-* Fogelin, R. J., 1983. “Wittgenstein on identity”, _Synthese_, 56(2): 141–154.
-* Frege, G., 1884, _The foundations of arithmetic_, Trans. J.L Austin. Oxford: Basil Blackwell, 1950.
-* –––, 1969. _Translations from the philosophical writings of Gottlob Frege_, Trans. P. Geach and M. Black, Oxford: Blackwell.
-* Gallois, A., 2005. “The Simplicity of Identity”, _Journal of Philosophy_, 102(6): 273–302.
-* Geach, P., 1972. _Logic Matters_, Oxford: Basil Blackwell.
-* –––, 1973. “Ontological relativity and relative identity”, in M.K. Munitz (ed.), _Logic and Ontology_, New York: New York University Press, 298–302.
-* –––, 1980. _Reference and Generality_, 3rd edition, Ithaca: Cornell University Press.
-* –––, 1991. “Replies”, in H.A. Lewis (ed.), _Peter Geach: Philosophical encounters_, Dordrecht: Kluwer Academic Publishers: 247–306.
-* Gibbard, A., 1975. “Contingent identity”, _Journal of Philosophical Logic_, 4: 187–221.
-* Harte, V., 2002. _Plato on parts and wholes: The metaphysics of structure_, Oxford: Oxford University Press.
-* Haslanger, S., 2003. “Persistence through time”, in M.J. Loux and D.W. Zimmerman (eds.), _The Oxford handbook of metaphysics_, Oxford: Oxford University Press, 315–354.
-* Hawley, K., 2001. _How things persist_, Oxford: Oxford University Press.
-* –––, 2014. “Ontological Innocence”, in _Composition as Identity_, A. J. Cotnoir and D. L. M. Baxter (eds.), Oxford: Oxford University Press.
-* Hawthorne, J., 2003. “Identity”, in M.J. Loux and D.W. Zimmerman (eds.), _The Oxford handbook of metaphysics_, Oxford: Oxford University Press, 99–130.
-* Kripke, S., 1972 \[1980]. “Naming and Necessity”, in Davidson, Donald and Harman, Gilbert (eds.), _Semantics of Natural Language_, Dordrecht: Reidel: 253–355, 763–769; reprinted, _Naming and Necessity_, Oxford: Basil Blackwell, 1980.
-* Lewis, D., 1971. “Counterparts of Persons and Their Bodies”, _Journal of Philosophy_, 68(7): 203–211; reprinted in Lewis 1983, 47–54.
-* Lewis, D., 1983. _Philosophical Papers_ (Volume 1), Oxford: Oxford University Press.
-* –––, 1986. _On the plurality of worlds_, Oxford: Basil Blackwell.
-* –––, 1988. “Vague identity: Evans misunderstood”, _Analysis_, 48: 128–30.
-* –––, 1991. _Parts of Classes_, Oxford: Basil Blackwell.
-* –––, 1993. “Many but almost one”, in J. Bacon _et al_., (eds.), _Ontology, Causality and Mind_, Cambridge: Cambridge University Press, 23–42.
-* Lowe, E.J., 1989. “What is a criterion of identity?”, _Philosophical Quarterly_, 39: 1–29.
-* –––, 1997. “Objects and criteria of identity”, in B. Hale and C. Wright (eds.), _A Companion to the Philosophy of Language_, Oxford: Blackwell, 613–633.
-* –––, 2012. “The probable simplicity of personal identity”, in G. Gasser and M. Stefan (eds.), _Personal Identity: Complex or Simple?_, Cambridge: Cambridge University Press, 137–155.
-* Mackie, P., 2006. _How Things Might Have Been: Individuals, Kinds and Essential Properties_, Oxford: Oxford University Press.
-* Noonan, H.W., 1991. “Indeterminate Identity, Contingent Identity and Abelardian Predicates”, _The Philosophical Quarterly_, 41: 183–193.
-* –––, 1993. “Constitution is Identity”, _Mind_, 102: 133–146.
-* –––, 2007. “Identity Eliminated”, _Analysis_, 67(2): 122–127.
-* –––, 2017. “Relative Identity”, in B. Hale, C. Wright and A. Miller (eds.), _A Companion to the Philosophy of Language_, 2nd edition, Oxford: Blackwell, 1013–1032.
-* Noonan, H. and Curtis, B. L., 2018. “The Simple and Complex Views of Personal Identity Distinguished”, in Buonomo (ed.), _The Persistence of Persons_, Germany: Editiones Scholasticae, 21–40.
-* Normore, C. G., and D. J. Brown., 2014. “On Bits and Pieces in the History of Philosophy”, in A. J. Cotnoir and D. L. M. Baxter (eds.), _Composition as Identity_, Oxford: Oxford University Press, 24–43.
-* Olson, E., 1995. “Why I have no hands”, _Theoria_, 61: 182–97.
-* –––, 2007. _What are We?_, Oxford: Oxford University Press.
-* Parsons, T., 2000. _Indeterminate Identity: Metaphysics and Semantics_, Oxford: Clarendon Press.
-* Quine, W.V.O., 1950, “Identity, Ostension, and Hypostasis”, _Journal of Philosophy_, 47(22): 621–633; reprinted in Quine 1963, 65–79.
-* –––, 1960. _Word and Object_, Cambridge, MA: MIT Press.
-* –––, 1963. _From a Logical Point of View_, New York: Harper and Row.
-* –––, 1964. “Review of P.T. Geach, _Reference and Generality_”, _Philosophical Review_, 73: 100–104.
-* Salmon, N., 1982. _Reference and Essence_, Oxford: Basil Blackwell.
-* Schaffer, J., 2008. “Truthmaker Commitments”, _Philosophical Studies_, 141: 7–19.
-* Shoemaker, S. and Swinburne, R., 1984. _Personal Identity_, Oxford: Blackwell.
-* Shumener, E., 2020. “Explaining Identity and Distinctness”, _Philosophical Studies_, 177(7): 2073–2096
-* Sider, T., 2001. _Four-dimensionalism: An Ontology of Persistence and Time_, Oxford: Oxford University Press.
-* –––, 2007. “Parthood”, _The Philosophical Review_, 116: 51–91.
-* Thomson, J., 1983. “Parthood and Identity across Time”, _Journal of Philosophy_, 80: 201–220.
-* Tye, M., 2000. “Vagueness and reality”, _Philosophical Topics_, 28: 195–209.
-* Unger, P., 1980. “The Problem of the Many”, _Midwest Studies in Philosophy_, 5: 411–67.
-* van Inwagen, P., 1981. “The Doctrine of Arbitrary Undetached Parts”, _Pacific Philosophical Quarterly_, 62: 123–37.
-* –––, 1990. _Material Beings_, Ithaca, NY: Cornell University Press.
-* –––, 1994. “Composition as Identity”, _Philosophical Perspectives_, 8(1): 207–220.
-* Wallace, M., 2011a. “Composition as Identity: Part 1”, _Philosophy Compass_, 6(11): 804–816.
-* –––, 2011b. “Composition as Identity: Part 2”, _Philosophy Compass_, 6(11): 817–827.
-* Wiggins, D., 1967. _Identity and Spatiotemporal Continuity_, Oxford: Basil Blackwell.
-* –––, 1968. “On being in the same place at the same time”, _Philosophical Review_, 77: 90–5.
-* –––, 1980. _Sameness and Substance_, Oxford: Basil Blackwell.
-* Williams, J. R. G., 2010. “Fundamental and Derivative Truths”, _Mind_, 119: 103–141.
-* Williamson, T., 1990. _Identity and discrimination_, Oxford: Basil Blackwell.
-* –––, 2002. “Vagueness, Identity and Leibniz’s Law”, in P. Giaretta, A. Bottani and M. Carrara (eds.), _Individuals, Essence and Identity: Themes of Analytic Metaphysics_, Dordrecht: Kluwer, 273–303.
-* –––, 2003. “Vagueness in Reality”, in M.J. Loux and D.W. Zimmerman (eds.), _The Oxford handbook of metaphysics_, Oxford: Oxford University Press, 690–715.
-* Wittgenstein, L., 1958. _Philosophical Investigations_, 2nd edition, G.E.M. Anscombe and R. Rhees (eds.), trans. by G.E.M. Anscombe, Oxford: Basil Blackwell.
-* Wright, C. and Hale, B., 2001. “To Bury Caesar…”, in C. Wright and B. Hale, _The Reason’s Proper Study: Essays towards a neo-Fregean Philosophy of Mathematics_, Oxford: Oxford University Press, 335–396.
+* Akiba, K., 2000. “Identity is Simple”, *American Philosophical Quarterly*, 37(4): 389–404.
+* Azzano, L. & Carrara, M., 2021. “The Grounding of Identities”, *Philosophia*, 49(5): 1943–1952.
+* Baxter, D. L. M., 1988a. “Identity in the Loose and Popular Sense”, *Mind*, 97: 576–582.
+* –––, 1988b. “Many-One Identity ”, *Philosophical Papers*, 17: 193–216.
+* –––, 2001. “Instantiation as Partial Identity”, *The Australasian Journal of Philosophy*, 79(4): 449–464.
+* Black, M., 1952. “The Identity of Indiscernibles”, *Mind*, 61(242): 153–164.
+* Burgess, A., 2018. “The Things We Do with Identity”, *Mind*, 127(505): 105–128.
+* Burke, M., 1995. “Dion and Theon: an essentialist solution to an ancient problem”, *The Journal of Philosophy*, 91: 129–139.
+* Cameron, R., 2014. “Parts Generate the Whole, but They are Not Identical to It”, in A. J. Cotnoir and D. L. M. Baxter (eds.), *Composition as Identity*, Oxford: Oxford University Press, 90–109.
+* Cotnoir, A. J., 2013. “Composition as General Identity”, *Oxford Studies in Metaphysics*, 8: 294–322.
+* Curtis, B and Noonan, H.W., 2015. “Identity over time, constitution and the problem of personal identity”, in S. Miller (ed.), *The Constitution of Phenomenal Consciousness: Toward a science and theory*, Amsterdam: John Benjamins, 348–371.
+* Davidson, D., 1980. *Essays on Actions and Events*, Oxford: Clarendon Press.
+* Deutsch, H., 1997. “Identity and General Similarity”, *Philosophical Perspectives*, 12: 177–200.
+* Dummett, M., 1981. *The Interpretation of Frege’s Philosophy*, Cambridge, MA: Harvard University Press.
+* –––, 1991. “Does Quantification involve Identity?” in H.A. Lewis (ed.), *Peter Geach: Philosophical encounters*, Dordrecht: Kluwer Academic Publishers, 161–184.
+* Edgington, D., 2000. “Indeterminacy *De Re*”, *Philosophical Topics*, 28: 27–43.
+* Evans, G., 1978. “Can there be vague objects?”, *Analysis*, 38: 208.
+* Fogelin, R. J., 1983. “Wittgenstein on identity”, *Synthese*, 56(2): 141–154.
+* Frege, G., 1884, *The foundations of arithmetic*, Trans. J.L Austin. Oxford: Basil Blackwell, 1950.
+* –––, 1969. *Translations from the philosophical writings of Gottlob Frege*, Trans. P. Geach and M. Black, Oxford: Blackwell.
+* Gallois, A., 2005. “The Simplicity of Identity”, *Journal of Philosophy*, 102(6): 273–302.
+* Geach, P., 1972. *Logic Matters*, Oxford: Basil Blackwell.
+* –––, 1973. “Ontological relativity and relative identity”, in M.K. Munitz (ed.), *Logic and Ontology*, New York: New York University Press, 298–302.
+* –––, 1980. *Reference and Generality*, 3rd edition, Ithaca: Cornell University Press.
+* –––, 1991. “Replies”, in H.A. Lewis (ed.), *Peter Geach: Philosophical encounters*, Dordrecht: Kluwer Academic Publishers: 247–306.
+* Gibbard, A., 1975. “Contingent identity”, *Journal of Philosophical Logic*, 4: 187–221.
+* Harte, V., 2002. *Plato on parts and wholes: The metaphysics of structure*, Oxford: Oxford University Press.
+* Haslanger, S., 2003. “Persistence through time”, in M.J. Loux and D.W. Zimmerman (eds.), *The Oxford handbook of metaphysics*, Oxford: Oxford University Press, 315–354.
+* Hawley, K., 2001. *How things persist*, Oxford: Oxford University Press.
+* –––, 2014. “Ontological Innocence”, in *Composition as Identity*, A. J. Cotnoir and D. L. M. Baxter (eds.), Oxford: Oxford University Press.
+* Hawthorne, J., 2003. “Identity”, in M.J. Loux and D.W. Zimmerman (eds.), *The Oxford handbook of metaphysics*, Oxford: Oxford University Press, 99–130.
+* Kripke, S., 1972 \[1980]. “Naming and Necessity”, in Davidson, Donald and Harman, Gilbert (eds.), *Semantics of Natural Language*, Dordrecht: Reidel: 253–355, 763–769; reprinted, *Naming and Necessity*, Oxford: Basil Blackwell, 1980.
+* Lewis, D., 1971. “Counterparts of Persons and Their Bodies”, *Journal of Philosophy*, 68(7): 203–211; reprinted in Lewis 1983, 47–54.
+* Lewis, D., 1983. *Philosophical Papers* (Volume 1), Oxford: Oxford University Press.
+* –––, 1986. *On the plurality of worlds*, Oxford: Basil Blackwell.
+* –––, 1988. “Vague identity: Evans misunderstood”, *Analysis*, 48: 128–30.
+* –––, 1991. *Parts of Classes*, Oxford: Basil Blackwell.
+* –––, 1993. “Many but almost one”, in J. Bacon *et al*., (eds.), *Ontology, Causality and Mind*, Cambridge: Cambridge University Press, 23–42.
+* Lowe, E.J., 1989. “What is a criterion of identity?”, *Philosophical Quarterly*, 39: 1–29.
+* –––, 1997. “Objects and criteria of identity”, in B. Hale and C. Wright (eds.), *A Companion to the Philosophy of Language*, Oxford: Blackwell, 613–633.
+* –––, 2012. “The probable simplicity of personal identity”, in G. Gasser and M. Stefan (eds.), *Personal Identity: Complex or Simple?*, Cambridge: Cambridge University Press, 137–155.
+* Mackie, P., 2006. *How Things Might Have Been: Individuals, Kinds and Essential Properties*, Oxford: Oxford University Press.
+* Noonan, H.W., 1991. “Indeterminate Identity, Contingent Identity and Abelardian Predicates”, *The Philosophical Quarterly*, 41: 183–193.
+* –––, 1993. “Constitution is Identity”, *Mind*, 102: 133–146.
+* –––, 2007. “Identity Eliminated”, *Analysis*, 67(2): 122–127.
+* –––, 2017. “Relative Identity”, in B. Hale, C. Wright and A. Miller (eds.), *A Companion to the Philosophy of Language*, 2nd edition, Oxford: Blackwell, 1013–1032.
+* Noonan, H. and Curtis, B. L., 2018. “The Simple and Complex Views of Personal Identity Distinguished”, in Buonomo (ed.), *The Persistence of Persons*, Germany: Editiones Scholasticae, 21–40.
+* Normore, C. G., and D. J. Brown., 2014. “On Bits and Pieces in the History of Philosophy”, in A. J. Cotnoir and D. L. M. Baxter (eds.), *Composition as Identity*, Oxford: Oxford University Press, 24–43.
+* Olson, E., 1995. “Why I have no hands”, *Theoria*, 61: 182–97.
+* –––, 2007. *What are We?*, Oxford: Oxford University Press.
+* Parsons, T., 2000. *Indeterminate Identity: Metaphysics and Semantics*, Oxford: Clarendon Press.
+* Quine, W.V.O., 1950, “Identity, Ostension, and Hypostasis”, *Journal of Philosophy*, 47(22): 621–633; reprinted in Quine 1963, 65–79.
+* –––, 1960. *Word and Object*, Cambridge, MA: MIT Press.
+* –––, 1963. *From a Logical Point of View*, New York: Harper and Row.
+* –––, 1964. “Review of P.T. Geach, *Reference and Generality*”, *Philosophical Review*, 73: 100–104.
+* Salmon, N., 1982. *Reference and Essence*, Oxford: Basil Blackwell.
+* Schaffer, J., 2008. “Truthmaker Commitments”, *Philosophical Studies*, 141: 7–19.
+* Shoemaker, S. and Swinburne, R., 1984. *Personal Identity*, Oxford: Blackwell.
+* Shumener, E., 2020. “Explaining Identity and Distinctness”, *Philosophical Studies*, 177(7): 2073–2096
+* Sider, T., 2001. *Four-dimensionalism: An Ontology of Persistence and Time*, Oxford: Oxford University Press.
+* –––, 2007. “Parthood”, *The Philosophical Review*, 116: 51–91.
+* Thomson, J., 1983. “Parthood and Identity across Time”, *Journal of Philosophy*, 80: 201–220.
+* Tye, M., 2000. “Vagueness and reality”, *Philosophical Topics*, 28: 195–209.
+* Unger, P., 1980. “The Problem of the Many”, *Midwest Studies in Philosophy*, 5: 411–67.
+* van Inwagen, P., 1981. “The Doctrine of Arbitrary Undetached Parts”, *Pacific Philosophical Quarterly*, 62: 123–37.
+* –––, 1990. *Material Beings*, Ithaca, NY: Cornell University Press.
+* –––, 1994. “Composition as Identity”, *Philosophical Perspectives*, 8(1): 207–220.
+* Wallace, M., 2011a. “Composition as Identity: Part 1”, *Philosophy Compass*, 6(11): 804–816.
+* –––, 2011b. “Composition as Identity: Part 2”, *Philosophy Compass*, 6(11): 817–827.
+* Wiggins, D., 1967. *Identity and Spatiotemporal Continuity*, Oxford: Basil Blackwell.
+* –––, 1968. “On being in the same place at the same time”, *Philosophical Review*, 77: 90–5.
+* –––, 1980. *Sameness and Substance*, Oxford: Basil Blackwell.
+* Williams, J. R. G., 2010. “Fundamental and Derivative Truths”, *Mind*, 119: 103–141.
+* Williamson, T., 1990. *Identity and discrimination*, Oxford: Basil Blackwell.
+* –––, 2002. “Vagueness, Identity and Leibniz’s Law”, in P. Giaretta, A. Bottani and M. Carrara (eds.), *Individuals, Essence and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer, 273–303.
+* –––, 2003. “Vagueness in Reality”, in M.J. Loux and D.W. Zimmerman (eds.), *The Oxford handbook of metaphysics*, Oxford: Oxford University Press, 690–715.
+* Wittgenstein, L., 1958. *Philosophical Investigations*, 2nd edition, G.E.M. Anscombe and R. Rhees (eds.), trans. by G.E.M. Anscombe, Oxford: Basil Blackwell.
+* Wright, C. and Hale, B., 2001. “To Bury Caesar…”, in C. Wright and B. Hale, *The Reason’s Proper Study: Essays towards a neo-Fregean Philosophy of Mathematics*, Oxford: Oxford University Press, 335–396.
 
 ## Academic Tools
 
@@ -350,5 +349,5 @@ Geach 广泛使用的一个概念，也是他的对手常用的一个概念，�
 [identity: of indiscernibles](https://plato.stanford.edu/entries/identity-indiscernible/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [identity: transworld](https://plato.stanford.edu/entries/identity-transworld/) | [many, problem of](https://plato.stanford.edu/entries/problem-of-many/) | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [temporal parts](https://plato.stanford.edu/entries/temporal-parts/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Harold Noonan](http://www.nottingham.ac.uk/philosophy/staff/harold-noonan.php) <[_Harold.Noonan@nottingham.ac.uk_](mailto:Harold%2eNoonan%40nottingham%2eac%2euk)>\
-[Ben Curtis](https://www.ntu.ac.uk/staff-profiles/education/benjamin-curtis) <[_benjamin.curtis@ntu.ac.uk_](mailto:benjamin%2ecurtis%40ntu%2eac%2euk)>
+[Harold Noonan](http://www.nottingham.ac.uk/philosophy/staff/harold-noonan.php) <[*Harold.Noonan@nottingham.ac.uk*](mailto:Harold%2eNoonan%40nottingham%2eac%2euk)>\
+[Ben Curtis](https://www.ntu.ac.uk/staff-profiles/education/benjamin-curtis) <[*benjamin.curtis@ntu.ac.uk*](mailto:benjamin%2ecurtis%40ntu%2eac%2euk)>

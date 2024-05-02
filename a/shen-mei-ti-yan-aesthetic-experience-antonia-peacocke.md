@@ -1,6 +1,6 @@
 # 审美体验 aesthetic experience (Antonia Peacocke)
 
-_首次发布于 2023 年 1 月 20 日_
+*首次发布于 2023 年 1 月 20 日*
 
 一个典范的审美体验是一种专注于艺术作品或自然景观等物体美感的感知体验。一些哲学家认为这是唯一一种审美体验，尽管还有更多的人认为还有其他种类的审美体验。例如，你可能通过目睹一场不美丽但却_崇高_的风暴来获得审美体验。你可能通过对托尼·莫里森伟大小说《宠儿》中塞西的深刻痛苦（想象中的）情感体验而获得审美体验，而不是通过感知体验。也许你甚至可以通过欣赏一个优雅的定理如何重新组织你对数学结构的思考方式来获得审美体验。
 
@@ -11,7 +11,6 @@ _首次发布于 2023 年 1 月 20 日_
 鉴于这种多样性的目的，很难对审美体验做出不具争议的描述。但是，对于所有关于审美体验的理论，可以提出一些问题。审美体验有何独特之处？拥有这种体验有何价值？它是否涉及对其自身对象的评估？谁可以拥有这些体验，以及在什么条件下？说我们“应该”拥有这样的体验是否有意义？
 
 这个概述将代表各种不同的审美体验方法来回答这些问题。概述按照两个维度组织这些方法：一是关注审美体验的对象的属性；二是关注体验本身的各种内在方面。
-
 
 ***
 
@@ -27,7 +26,7 @@ _首次发布于 2023 年 1 月 20 日_
 
 ### 1.1 形式与功能
 
-在 18 世纪发展出专门的审美体验理论之前，新柏拉图主义的中世纪哲学家们发展出了一种关于美的概念，认为美是一种在体验中可以理性理解的形式结构。奥古斯丁在他的 4 世纪著作《音乐论》中认为音乐中的美部分取决于部分的比例，后来他认为视觉美是形式和颜色的正确结合（Haldane 2013）。九个世纪后，托马斯·阿奎那（《神学大全》）重申了这种形态学观念：美是以适当形式结构化的物质，这种物质“在自身的理解中令人愉悦”（“Pulchrum dicatur id cujus apprehensio ipsa placet,” § Ia, IIae, q.27, a.1 _ad_ 3；翻译自 Mothersill 1988, p. 323）。在意大利文艺复兴时期，莱昂·巴蒂斯塔·阿尔贝蒂（1443–1452 \[1988]）将美称为“身体内所有部分的合理和谐”（第 6 卷，第 2 节，第 156 页）。
+在 18 世纪发展出专门的审美体验理论之前，新柏拉图主义的中世纪哲学家们发展出了一种关于美的概念，认为美是一种在体验中可以理性理解的形式结构。奥古斯丁在他的 4 世纪著作《音乐论》中认为音乐中的美部分取决于部分的比例，后来他认为视觉美是形式和颜色的正确结合（Haldane 2013）。九个世纪后，托马斯·阿奎那（《神学大全》）重申了这种形态学观念：美是以适当形式结构化的物质，这种物质“在自身的理解中令人愉悦”（“Pulchrum dicatur id cujus apprehensio ipsa placet,” § Ia, IIae, q.27, a.1 *ad* 3；翻译自 Mothersill 1988, p. 323）。在意大利文艺复兴时期，莱昂·巴蒂斯塔·阿尔贝蒂（1443–1452 \[1988]）将美称为“身体内所有部分的合理和谐”（第 6 卷，第 2 节，第 156 页）。
 
 在 18 世纪，对审美体验本身的关注，而不仅仅是美，源于对感知的更一般的探究。亚历山大·鲍姆加滕（1735 \[1954]）首次更广泛地定义了“美学”，就像我们现在所理解的那样，即通过感官知觉认知对象的科学（源自希腊语“aisthêsis”，意为感官知觉）。鲍姆加滕在这个主题上的工作受到了莱布尼茨（1684 \[1969]）和沃尔夫（1719 \[2003]）的很大影响。他们三人都认为快乐更普遍地是对对象完美性的感官知觉；沃尔夫将这视为对象各个方面在自身或共同完成目标时的连贯性。
 
@@ -139,7 +138,7 @@ Arthur Danto（1981）在他的论述中回应了这个观点，他声称“艺�
 
 #### 1.4.2 投射
 
-投射观点在很大程度上源自 19 世纪中期到 20 世纪初的心理学思想，关于“共情”的思考，最初在德国被称为“Einfühlung”（Lipps 1903-6，由 Titchener 1909 \[1926]翻译为“共情”）。共情理论家认为，审美体验涉及将自己心理上（甚至可能是神秘地；Vischer 1873 \[1994]，第 104 页）投射到物体的物理形状中，以获得一种情感或动态体验，就像一个人类主体如果采取了那个物理形状一样。在 19 世纪 50 年代，赫尔曼·洛策（Hermann Lotze）（_1885 \[1899]_ ）声称，一个形状可以“将我们带入其中并使我们分享它的生活”（由 Lee＆Anstruther-Thomson 1912，第 17-18 页引用）。正如罗伯特·维舍（Robert Vischer）（1873 \[1994]）所写，“我可以思考进入\[一个物体]，用自己的方式来中介它的大小，伸展和扩展，弯曲和限制自己”（第 104-5 页）。瑞士艺术史学家海因里希·沃尔夫林（Heinrich Wölfflin）（1886）同意以这种投射方式“使所有物体都具有灵魂化”，并暗示这种投射涉及“运动神经系统”的实际运作。
+投射观点在很大程度上源自 19 世纪中期到 20 世纪初的心理学思想，关于“共情”的思考，最初在德国被称为“Einfühlung”（Lipps 1903-6，由 Titchener 1909 \[1926]翻译为“共情”）。共情理论家认为，审美体验涉及将自己心理上（甚至可能是神秘地；Vischer 1873 \[1994]，第 104 页）投射到物体的物理形状中，以获得一种情感或动态体验，就像一个人类主体如果采取了那个物理形状一样。在 19 世纪 50 年代，赫尔曼·洛策（Hermann Lotze）（*1885 \[1899]* ）声称，一个形状可以“将我们带入其中并使我们分享它的生活”（由 Lee＆Anstruther-Thomson 1912，第 17-18 页引用）。正如罗伯特·维舍（Robert Vischer）（1873 \[1994]）所写，“我可以思考进入\[一个物体]，用自己的方式来中介它的大小，伸展和扩展，弯曲和限制自己”（第 104-5 页）。瑞士艺术史学家海因里希·沃尔夫林（Heinrich Wölfflin）（1886）同意以这种投射方式“使所有物体都具有灵魂化”，并暗示这种投射涉及“运动神经系统”的实际运作。
 
 这种观点认为，审美感知者将情感归因于“物体”，但部分原因是将它们与自己紧密联系起来。哲学家泰奥多尔·利普斯（Theodor Lipps）（1935）坚持认为，共情中涉及的“内在模仿”涉及到感觉到所涉及的情感属于所感知的物体，但由于在这种情境下你与物体感觉“完全和完整地相同”，你会感觉到这种情感也属于自己。英国小说家弗农·李（真名维奥莱特·佩吉特）与她的情人兼作家克莱门蒂娜·安斯特鲁瑟-汤姆森（1912）合著了一部作品，他们声称我们将“动态体验归因于线条和表面，空间形式，这些动态体验是我们将身体置于类似条件下时会有的”（第 20-1 页）。
 
@@ -245,7 +244,7 @@ Schelling（1800 \[1978]）对“无意识”自然和“有意识”自由人�
 
 艺术体验所需要做的是为人类生活带来秩序、结构和意义。在一系列场景中，罗坎丹听到了一位特定爵士乐歌手的音乐，他发现音乐中存在着世界所缺乏的必要性、目的性和内在结构：
 
-似乎是不可避免的，这种音乐的必要性是如此强烈... 如果我喜欢那美妙的声音，首先是因为：它既不是因为它的丰满也不是因为它的悲伤，而是因为它是这么多音符事先准备好的事件，它们为了它的诞生而死去... _发生了某种事情_。（38）
+似乎是不可避免的，这种音乐的必要性是如此强烈... 如果我喜欢那美妙的声音，首先是因为：它既不是因为它的丰满也不是因为它的悲伤，而是因为它是这么多音符事先准备好的事件，它们为了它的诞生而死去... *发生了某种事情*。（38）
 
 从罗坎丁的狂喜听觉中，我们可以推断出一种关于艺术体验的理论，以及为什么它对我们如此重要。艺术行使人类的自由，为世界构建结构并赋予其意义和目的感或必要性；它为那些欣赏它的人提供了一种审美体验，使世界感觉完整和必要。通过从萨特的《恶心》本身的写作中推断，我们还可以看到艺术可以让我们认识到存在本身的荒谬，并挑战我们使自己变得有意义的能力。在《文学是什么？》（1948 \[1967]）中，萨特称写作为一种“将思维的统一强加于事物的多样性”的方式，这满足了我们“在与世界的关系中感到自己是必要的”的需求（第 27 页）。因此，艺术的创造和欣赏不仅提供了对存在中令人作呕的基本荒谬的认知，而且至少提供了一种现象学上的治愈方法。
 
@@ -357,7 +356,7 @@ Schelling（1800 \[1978]）对“无意识”自然和“有意识”自由人�
 
 这种方法的一个变体将审美体验视为被“本身的缘故”所重视或享受，而不是将其作为达到某种进一步目的的手段（参见 Gorodeisky 和 Marcus 2018 关于“自我封闭”的讨论，第 118 页）。加里·伊塞明格（Gary Iseminger）（2006 年）否认任何审美体验可以纯粹地通过感觉来界定，因为真正使一个被重视的体验状态成为审美的关键是它仅仅因为自身的缘故而被重视，而重视并不仅仅是一种特定的感觉。杰罗尔德·莱文森（Jerrold Levinson）（2016b）在修订他早期（1996a，1996b）对审美体验的描述时，赞同伊塞明格的观点，只是他声称这种欣赏的评价成分本身必须是现象学的（第 39 页；参见 Stecker 2005）。伊塞明格和莱文森都将这种意义上的冷漠视为构成审美体验（或欣赏）的一部分（有关反对意见，请参见 Goodman 1968 \[1976]第 242 页，Meskin 2001 和 Carroll 2006）。
 
-一些将审美体验视为“为自身而受重视”的观点与康德的无私观念有明显不同。例如，罗杰·斯克鲁顿（1974）对审美体验中想象力影响的感知（例如，“视为”）的理解可以基于对一个对象的“_没有其他原因_”的渴望，尽管一个人的渴望仍然基于对所需之物的概念（第 147 页）。
+一些将审美体验视为“为自身而受重视”的观点与康德的无私观念有明显不同。例如，罗杰·斯克鲁顿（1974）对审美体验中想象力影响的感知（例如，“视为”）的理解可以基于对一个对象的“*没有其他原因*”的渴望，尽管一个人的渴望仍然基于对所需之物的概念（第 147 页）。
 
 20 世纪另一个主导的无私观念是，人们可以自愿采取一种特定的“审美态度”来对待自然景观或艺术品，这种态度包括将自己的实际自我与所感知的对象分离开来。正如 Zangwill（1992）所指出的，这种无私观念在修改一种立场、态度或_注意力_而不是快乐方面与康德观念不同。
 
@@ -407,276 +406,276 @@ Schelling（1800 \[1978]）对“无意识”自然和“有意识”自由人�
 
 ## Bibliography
 
-* Adorno, Theodor, 1970 \[1997], _Aesthetic Theory_, Gretel Adorno and Rolf Tiedemann (eds.), Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press.
-* Addison, J. and R. Steele, 1712 \[1879], _The Spectator_, A. Chalmers (ed.), New York: D. Appleton.
-* Alberti, Leon Battista, 1443–1452 \[1988], _On the Art of Building in Ten Books_, J. Rykwert, N. Leach, and R. Tavernor (trans.), Cambridge, MA: MIT Press.
-* André, Yves Marie, 1741, _Essai sur le beau, où l’on examine en quoi consiste précisément le beau dans le physique, dans le moral, dans les ouvrages d’esprit et dans la musique_, Paris: Guérin.
-* Aquinas, Thomas, _Summa Theologiae_, Fathers of the English Dominican Province (trans.), London: Washbourne, 1920.
-* Aristotle, _Poetics_, Ingram Bywater (trans.), Oxford: Clarendon Press, 1920; reprinted in Cahn and Meskin (eds.) 2007, pp. 41–56.
-* Augustine, _De musica_, W.F. Jackson Knight (trans.), London: The Orthological Institute, 1949, pp. 107–20, 122–4; reprinted in Cahn and Meskin (eds.) 2007, pp. 64–71.
-* –––, _The City of God against the Pagans_, R.W. Dyson (trans.), Cambridge: Cambridge University Press, 1998.
-* Baudelaire, Charles, 1857 \[1965], “Further Notes on Edgar Poe,” in _The Painter of Modern Life and Other Essays_, Jonathan Mayne (trans. and ed.), London: Phaidon.
-* Baumgarten, Alexander, 1735 \[1954], _Reflections on Poetry: Alexander Gottlieb Baumgarten’s Meditationes philosophicae de nonnullis ad poema pertinentibus_, Karl Aschenbrenner and William B. Holther (trans.), Berkeley and Los Angeles: University of California Press.
-* –––, 1750 \[2007], _Aesthetica_, ed. Dagmar Mirbach, 2 volumes, Hamburg: Felix Meiner Verlag; partial translation in Alexander Gottlieb Baumgarten and Hans Rudolf Schweizer, _Ästhetik als Philosophie der sinnlichen Erkenntnis: Eine Interpretation der “Aesthetica” A.G. Baumgartens mit teilweiser Wiedergabe der lateinischen Textes und deutscher Übersetzung_, Basel: Schwabe, 1973.
-* Beardsley, Monroe C., 1958 \[1981]: _Aesthetics: Problems in the Philosophy of Criticism_, Indianapolis: Hackett, 2nd edition.
-* –––, 1970, “The Aesthetic Point of View,” in Howard Kiefer and Milton Munitz (eds.), _Perspectives in Education, Religion, and the Arts_, Albany: SUNY Press, pp. 219–37; reprinted in Michael J. Wreen and Donald M. Callen (eds.), 1982, _The Aesthetic Point of View: Selected Essays_, Ithaca, NY: Cornell University Press.
-* Bell, Clive, 1914, _Art_, London: Chatto & Windus; reprinted in Cahn and Meskin (eds.) 2007, pp. 261–9.
-* Boghossian, Paul, 2002, “On Hearing the Music in the Sound: Scruton on Musical Expression,” _Journal of Aesthetics and Art Criticism_, 60 (1): 49–55.
-* –––, 2010, “The Perception of Music: Comments on Peacocke,” _British Journal of Aesthetics_, 50 (1): 71–76.
-* –––, 2020, “Meaning and Scepticism,” in Tomás McAuley, Nanette Nielsen, Jerrold Levinson, and Ariana Phillips-Hutton (eds.), _The Oxford Handbook of Western Music and Philosophy_, New York: Oxford University Press, pp. 785–804.
-* Bosanquet, Bernard, 1892 \[1904], _History of Aesthetic_, London: George Allen and Unwin, 2nd edition.
-* –––, 1915, _Three Lectures on Aesthetic_, London: Macmillan.
-* Bouhours, Dominque, 1671 \[1705], _Entretiens d’Ariste et Eugène_, Paris: Mabre-Cramois; translated as _The Art of Criticism_, 1705; reprinted Delmar, NY: Scholar’s Facsimiles & Reprints, 1981.
-* Brady, Emily and Jerrold Levinson (eds.), 2001, _Aesthetic Concepts: Essays After Sibley_, New York: Oxford University Press.
-* Bramble, Benjamin, 2013, “The Distinctive Feeling Theory of Pleasure,” _Philosophical Studies_, 162: 201–217.
-* Budd, Malcolm, 1985, _Music and the Emotions: The Philosophical Theories_, London: Routledge.
-* –––, 1995, _Values of Art: Pictures, Poetry, and Music_, London: Allen Lane, The Penguin Press.
-* –––, 1996, “The Aesthetic Appreciation of Nature,” _British Journal of Aesthetics_, 36 (3): 207–222.
-* –––, 2008, “Wollheim on Correspondence, Projective Properties, and Expressive Perception,” in _Aesthetic Essays_, New York: Oxford University Press, 239–251.
-* Bullough, Edward 1912, “‘Psychical distance’ as a factor in art and an aesthetic principle,” _British Journal of Psychology_ 5: 87–117; reprinted in Cahn and Meskin (eds.) 2007, pp. 243–260 (citations to the reprint).
-* –––, 1957, _Aesthetics: Lectures and Essays_, Elizabeth M. Wilkinson (ed.), Stanford: Stanford University Press.
-* Burke, Edmund, 1756 \[2007], _A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful_, London: R. and J. Dodsley; reprinted in Cahn and Meskin (eds.) 2007, pp. 113–122.
-* Camus, Albert, 1942 \[1979], _The Myth of Sisyphus, and Other Essays_, Justin O’Brien (trans.), London: Hamish Hamilton.
-* Cahn, Steven M. and Aaron Meskin (eds.), 2007, _Aesthetics: A Comprehensive Anthology_, Malden, MA: Blackwell Publishing.
-* Carlson, Allen, 1979, “Appreciation and the Natural Environment,” _Journal of Aesthetics and Art Criticism_, 37 (3): 267–275; reprinted in Cahn and Meskin (eds.) 2007, pp. 538–546.
-* –––, 2005, “Budd and Brady on the Aesthetics of Nature,” _The Philosophical Quarterly_, 55 (218): 106–113.
-* Carroll, Noël, 2002, “Aesthetic Experience Revisited,” _British Journal of Aesthetics_, 42 (2): 145–168.
+* Adorno, Theodor, 1970 \[1997], *Aesthetic Theory*, Gretel Adorno and Rolf Tiedemann (eds.), Robert Hullot-Kentor (trans.), Minneapolis: University of Minnesota Press.
+* Addison, J. and R. Steele, 1712 \[1879], *The Spectator*, A. Chalmers (ed.), New York: D. Appleton.
+* Alberti, Leon Battista, 1443–1452 \[1988], *On the Art of Building in Ten Books*, J. Rykwert, N. Leach, and R. Tavernor (trans.), Cambridge, MA: MIT Press.
+* André, Yves Marie, 1741, *Essai sur le beau, où l’on examine en quoi consiste précisément le beau dans le physique, dans le moral, dans les ouvrages d’esprit et dans la musique*, Paris: Guérin.
+* Aquinas, Thomas, *Summa Theologiae*, Fathers of the English Dominican Province (trans.), London: Washbourne, 1920.
+* Aristotle, *Poetics*, Ingram Bywater (trans.), Oxford: Clarendon Press, 1920; reprinted in Cahn and Meskin (eds.) 2007, pp. 41–56.
+* Augustine, *De musica*, W.F. Jackson Knight (trans.), London: The Orthological Institute, 1949, pp. 107–20, 122–4; reprinted in Cahn and Meskin (eds.) 2007, pp. 64–71.
+* –––, *The City of God against the Pagans*, R.W. Dyson (trans.), Cambridge: Cambridge University Press, 1998.
+* Baudelaire, Charles, 1857 \[1965], “Further Notes on Edgar Poe,” in *The Painter of Modern Life and Other Essays*, Jonathan Mayne (trans. and ed.), London: Phaidon.
+* Baumgarten, Alexander, 1735 \[1954], *Reflections on Poetry: Alexander Gottlieb Baumgarten’s Meditationes philosophicae de nonnullis ad poema pertinentibus*, Karl Aschenbrenner and William B. Holther (trans.), Berkeley and Los Angeles: University of California Press.
+* –––, 1750 \[2007], *Aesthetica*, ed. Dagmar Mirbach, 2 volumes, Hamburg: Felix Meiner Verlag; partial translation in Alexander Gottlieb Baumgarten and Hans Rudolf Schweizer, *Ästhetik als Philosophie der sinnlichen Erkenntnis: Eine Interpretation der “Aesthetica” A.G. Baumgartens mit teilweiser Wiedergabe der lateinischen Textes und deutscher Übersetzung*, Basel: Schwabe, 1973.
+* Beardsley, Monroe C., 1958 \[1981]: *Aesthetics: Problems in the Philosophy of Criticism*, Indianapolis: Hackett, 2nd edition.
+* –––, 1970, “The Aesthetic Point of View,” in Howard Kiefer and Milton Munitz (eds.), *Perspectives in Education, Religion, and the Arts*, Albany: SUNY Press, pp. 219–37; reprinted in Michael J. Wreen and Donald M. Callen (eds.), 1982, *The Aesthetic Point of View: Selected Essays*, Ithaca, NY: Cornell University Press.
+* Bell, Clive, 1914, *Art*, London: Chatto & Windus; reprinted in Cahn and Meskin (eds.) 2007, pp. 261–9.
+* Boghossian, Paul, 2002, “On Hearing the Music in the Sound: Scruton on Musical Expression,” *Journal of Aesthetics and Art Criticism*, 60 (1): 49–55.
+* –––, 2010, “The Perception of Music: Comments on Peacocke,” *British Journal of Aesthetics*, 50 (1): 71–76.
+* –––, 2020, “Meaning and Scepticism,” in Tomás McAuley, Nanette Nielsen, Jerrold Levinson, and Ariana Phillips-Hutton (eds.), *The Oxford Handbook of Western Music and Philosophy*, New York: Oxford University Press, pp. 785–804.
+* Bosanquet, Bernard, 1892 \[1904], *History of Aesthetic*, London: George Allen and Unwin, 2nd edition.
+* –––, 1915, *Three Lectures on Aesthetic*, London: Macmillan.
+* Bouhours, Dominque, 1671 \[1705], *Entretiens d’Ariste et Eugène*, Paris: Mabre-Cramois; translated as *The Art of Criticism*, 1705; reprinted Delmar, NY: Scholar’s Facsimiles & Reprints, 1981.
+* Brady, Emily and Jerrold Levinson (eds.), 2001, *Aesthetic Concepts: Essays After Sibley*, New York: Oxford University Press.
+* Bramble, Benjamin, 2013, “The Distinctive Feeling Theory of Pleasure,” *Philosophical Studies*, 162: 201–217.
+* Budd, Malcolm, 1985, *Music and the Emotions: The Philosophical Theories*, London: Routledge.
+* –––, 1995, *Values of Art: Pictures, Poetry, and Music*, London: Allen Lane, The Penguin Press.
+* –––, 1996, “The Aesthetic Appreciation of Nature,” *British Journal of Aesthetics*, 36 (3): 207–222.
+* –––, 2008, “Wollheim on Correspondence, Projective Properties, and Expressive Perception,” in *Aesthetic Essays*, New York: Oxford University Press, 239–251.
+* Bullough, Edward 1912, “‘Psychical distance’ as a factor in art and an aesthetic principle,” *British Journal of Psychology* 5: 87–117; reprinted in Cahn and Meskin (eds.) 2007, pp. 243–260 (citations to the reprint).
+* –––, 1957, *Aesthetics: Lectures and Essays*, Elizabeth M. Wilkinson (ed.), Stanford: Stanford University Press.
+* Burke, Edmund, 1756 \[2007], *A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*, London: R. and J. Dodsley; reprinted in Cahn and Meskin (eds.) 2007, pp. 113–122.
+* Camus, Albert, 1942 \[1979], *The Myth of Sisyphus, and Other Essays*, Justin O’Brien (trans.), London: Hamish Hamilton.
+* Cahn, Steven M. and Aaron Meskin (eds.), 2007, *Aesthetics: A Comprehensive Anthology*, Malden, MA: Blackwell Publishing.
+* Carlson, Allen, 1979, “Appreciation and the Natural Environment,” *Journal of Aesthetics and Art Criticism*, 37 (3): 267–275; reprinted in Cahn and Meskin (eds.) 2007, pp. 538–546.
+* –––, 2005, “Budd and Brady on the Aesthetics of Nature,” *The Philosophical Quarterly*, 55 (218): 106–113.
+* Carroll, Noël, 2002, “Aesthetic Experience Revisited,” *British Journal of Aesthetics*, 42 (2): 145–168.
 * –––, 2006, “Aesthetic experience: A question of content,” in Kieran (ed.) 2006, pp. 69–97.
-* –––, 2013, “Formalism,” in Berys Gaut and Dominic McIver Lopes (eds.), _The Routledge Companion to Aesthetics_, London: Routledge, pp. 87–95.
-* –––, 2015, “Defending the Content Approach to Aesthetic Experience,” _Metaphilosophy_, 46 (2): 171–188.
+* –––, 2013, “Formalism,” in Berys Gaut and Dominic McIver Lopes (eds.), *The Routledge Companion to Aesthetics*, London: Routledge, pp. 87–95.
+* –––, 2015, “Defending the Content Approach to Aesthetic Experience,” *Metaphilosophy*, 46 (2): 171–188.
 * –––, 2019, “Recent Approaches to Aesthetic Experience,” in Lamarque and Olsen (eds.) 2019, pp. 170–181.
-* Cassirer, Ernst, 1944, _An Essay on Man: An Introduction to a Philosophy of Human Culture_, New Haven: Yale University Press.
-* Cavell, Stanley, 1965 \[2007] “Aesthetic Problems of Modern Philosophy,” in Max Black (ed.), _Philosophy in America_, Ithaca, NY: Cornell University Press, pp. 74–97; reprinted in Cahn and Meskin (eds.) 2007, pp. 396–408.
-* Cochrane, Tom, 2010, “A Simulation Theory of Musical Expressivity,” _Australasian Journal of Philosophy_, 88 (2): 191–207.
-* Coleridge, Samuel Taylor, 1817 \[1907], _Biographia Literaria, with his Aesthetical Essays_, J. Shawcross (ed.), Oxford: Oxford University Press.
-* Collingwood, R.G.C., 1938 \[1958], _The Principles of Art_, New York: Oxford University Press.
-* Cousin, Victor, 1854 \[1873], _Lectures on the True, the Beautiful, and the Good_, O.W. Wight (trans.), New York: Appleton.
-* Croce, Benedetto, 1902 \[1992], _The Aesthetic as the Science of Expression and of the Linguistic in General_, Colin Lyas (trans.), Cambridge: Cambridge University Press.
-* –––, 1938 \[2007], “Aesthetics,” in _Encyclopaedia Britannica_ (14th edition); reprinted in Cahn and Meskin (eds.) 2007, pp. 270–281.
-* Cross, Anthony, 2017, “Obligations to Artworks as Duties of Love,” _Estetika_, 54 (1): 85–101.
-* –––, forthcoming, “Aesthetic Commitments and Aesthetic Obligations,” _Ergo_.
-* Crousaz, Jean-Pierre de, 1714 \[2000], “Treatise on Beauty” in Charles Harrison, Paul Wood, and Jason Gaiger (eds.), _Art in Theory, 1648–1815: An Anthology of Changing Ideas_, Oxford: Blackwell Publishers, Chapter 70.
-* Danto, Arthur, 1964, “The Artworld,” _The Journal of Philosophy_, 61: 571–84.
-* –––, 1981, _The Transfiguration of the Commonplace_, Cambridge, MA: Harvard University Press.
-* –––, 1984, “Mind as Feeling; Form as Presence; Langer as Philosopher,” _The Journal of Philosophy_, 81 (11): 641–647.
-* Davies, Stephen, 1994, “The evaluation of music,” in _What Is Music?_, Philip Alperson (ed.), University Park, PA: Pennsylvania State University Press, 307–25.
+* Cassirer, Ernst, 1944, *An Essay on Man: An Introduction to a Philosophy of Human Culture*, New Haven: Yale University Press.
+* Cavell, Stanley, 1965 \[2007] “Aesthetic Problems of Modern Philosophy,” in Max Black (ed.), *Philosophy in America*, Ithaca, NY: Cornell University Press, pp. 74–97; reprinted in Cahn and Meskin (eds.) 2007, pp. 396–408.
+* Cochrane, Tom, 2010, “A Simulation Theory of Musical Expressivity,” *Australasian Journal of Philosophy*, 88 (2): 191–207.
+* Coleridge, Samuel Taylor, 1817 \[1907], *Biographia Literaria, with his Aesthetical Essays*, J. Shawcross (ed.), Oxford: Oxford University Press.
+* Collingwood, R.G.C., 1938 \[1958], *The Principles of Art*, New York: Oxford University Press.
+* Cousin, Victor, 1854 \[1873], *Lectures on the True, the Beautiful, and the Good*, O.W. Wight (trans.), New York: Appleton.
+* Croce, Benedetto, 1902 \[1992], *The Aesthetic as the Science of Expression and of the Linguistic in General*, Colin Lyas (trans.), Cambridge: Cambridge University Press.
+* –––, 1938 \[2007], “Aesthetics,” in *Encyclopaedia Britannica* (14th edition); reprinted in Cahn and Meskin (eds.) 2007, pp. 270–281.
+* Cross, Anthony, 2017, “Obligations to Artworks as Duties of Love,” *Estetika*, 54 (1): 85–101.
+* –––, forthcoming, “Aesthetic Commitments and Aesthetic Obligations,” *Ergo*.
+* Crousaz, Jean-Pierre de, 1714 \[2000], “Treatise on Beauty” in Charles Harrison, Paul Wood, and Jason Gaiger (eds.), *Art in Theory, 1648–1815: An Anthology of Changing Ideas*, Oxford: Blackwell Publishers, Chapter 70.
+* Danto, Arthur, 1964, “The Artworld,” *The Journal of Philosophy*, 61: 571–84.
+* –––, 1981, *The Transfiguration of the Commonplace*, Cambridge, MA: Harvard University Press.
+* –––, 1984, “Mind as Feeling; Form as Presence; Langer as Philosopher,” *The Journal of Philosophy*, 81 (11): 641–647.
+* Davies, Stephen, 1994, “The evaluation of music,” in *What Is Music?*, Philip Alperson (ed.), University Park, PA: Pennsylvania State University Press, 307–25.
 * –––, 2006, “Artistic Expression and the Hard Case of Pure Music,” in Kieran (ed.) 2006, pp. 179–191.
 * De Clercq, Rafael, 2013, “Beauty,” in Gaut and Lopes (eds.) 2013, pp. 299–308.
-* Dean, Jeffrey T., 1996, “Clive Bell and G.E. Moore: The good of art,” _British Journal of Aesthetics_, 36 (2): 135–145.
-* Dewey, John, 1934 \[1980], _Art as Experience_, New York: Perigee Books; partially reprinted in Cahn and Meskin (eds.) 2007, pp. 296–316; quotations from separate versions as marked.
-* Dickie, George, 1964, “The Myth of the Aesthetic Attitude,” _American Philosophical Quarterly_, 1 (1): 56–65; reprinted in Cahn and Meskin (eds.) 2007, pp. 455–465 (page reference is to the original).
-* –––, 1974, _Art and the Aesthetic: An Institutional Analysis_, Ithaca, NY: Cornell University Press.
-* –––, 1984 \[1997], _The Art Circle: A Theory of Art_, Evanston, IL: Chicago Spectrum Press.
+* Dean, Jeffrey T., 1996, “Clive Bell and G.E. Moore: The good of art,” *British Journal of Aesthetics*, 36 (2): 135–145.
+* Dewey, John, 1934 \[1980], *Art as Experience*, New York: Perigee Books; partially reprinted in Cahn and Meskin (eds.) 2007, pp. 296–316; quotations from separate versions as marked.
+* Dickie, George, 1964, “The Myth of the Aesthetic Attitude,” *American Philosophical Quarterly*, 1 (1): 56–65; reprinted in Cahn and Meskin (eds.) 2007, pp. 455–465 (page reference is to the original).
+* –––, 1974, *Art and the Aesthetic: An Institutional Analysis*, Ithaca, NY: Cornell University Press.
+* –––, 1984 \[1997], *The Art Circle: A Theory of Art*, Evanston, IL: Chicago Spectrum Press.
 * –––, 2006, “Iron, Leather, and Critical Principles,” in Kieran (ed.) 2006, pp. 313–326.
 * Diderot, Denis, 1751, “Beau”, in Diderot and d’Alembert (eds.) 1751–1765 (Volume 1), pp. 169–181.
-* Diderot, Denis and Jean le Rond d’Alembert (eds.), 1751–1765, _Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers_, 17 volumes, Paris: Briasson.
-* Ducasse, Curt J., 1929, _The Philosophy of Art_, New York: Dial.
-* Du Bos, Jean-Baptiste, 1719 \[1748], _Critical Reflections on Poetry, Painting and Music_, Thomas Nugent (trans.), London: John Nourse, 1748.
-* Dufrenne, Mikel, 1953, _The Phenomenology of Aesthetic Experience_, Evanston, IL: Northwestern University Press.
-* Dyck, John, 2021, “There Are No Purely Aesthetic Obligations,” _Pacific Philosophical Quarterly_, 102 (4): 592–612.
-* Eaton, Marcia, 2001, _Merit: Aesthetic and Ethical_, New York: Oxford University Press.
-* Erigena, Johannes Scotus, _De divisione naturae_, trans J.J. O’Meara and I.P. Sheldon Williams, Scriptores Latini Hiberniae, vol 13, Dublin: Institute for Advanced Studies, 1995.
-* Feagin, Susan, 1983, “The Pleasures of Tragedy,” _American Philosophical Quarterly_, 20 (1): 95–104.
-* Fry, Roger, 1981, _Vision and Design_, J.B. Bullen (ed.), Oxford: Oxford University Press.
-* Gadamer, Hans-Georg, 1960 \[2005], _Truth and Method_, Joel Weinsheimer and Donald G. Marshall (trans.), London: Continuum International Publishing, second revised edition.
-* Galgut, Elisa, 2010, “Projective Properties and Expression in Literary Appreciation,” _Journal of Aesthetics and Art Criticism_, 68 (2): 143–153.
-* Gallie, W.B., 1956, “Art as an essentially contested concept,” _Philosophical Quarterly_, 6: 97–114.
-* Gaut, Berys, 2007, _Art, Emotion and Ethics_, New York: OUP.
-* Gaut, Berys and Dominic McIver Lopes (eds.), 2013, _The Routledge Companion to Aesthetics_, London: Routledge, third edition.
-* Gautier, Théophile, 1835–6 \[2005], _Mademoiselle de Maupin_, Helen Constantine (trans.), London: Penguin Books.
-* Ginsborg, Hannah, 1997, “Lawfulness Without a Law: Kant on the Free Play of Imagination and Understanding,” _Philosophical Topics_, 25 (1): 37–81.
-* –––, 2015, _The Normativity of Nature: Essays on Kant’s Critique of Judgment_, New York: Oxford University Press.
-* Goldman, Alan, 1995, _Aesthetic Value_, Boulder, CO: Westview Press.
+* Diderot, Denis and Jean le Rond d’Alembert (eds.), 1751–1765, *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers*, 17 volumes, Paris: Briasson.
+* Ducasse, Curt J., 1929, *The Philosophy of Art*, New York: Dial.
+* Du Bos, Jean-Baptiste, 1719 \[1748], *Critical Reflections on Poetry, Painting and Music*, Thomas Nugent (trans.), London: John Nourse, 1748.
+* Dufrenne, Mikel, 1953, *The Phenomenology of Aesthetic Experience*, Evanston, IL: Northwestern University Press.
+* Dyck, John, 2021, “There Are No Purely Aesthetic Obligations,” *Pacific Philosophical Quarterly*, 102 (4): 592–612.
+* Eaton, Marcia, 2001, *Merit: Aesthetic and Ethical*, New York: Oxford University Press.
+* Erigena, Johannes Scotus, *De divisione naturae*, trans J.J. O’Meara and I.P. Sheldon Williams, Scriptores Latini Hiberniae, vol 13, Dublin: Institute for Advanced Studies, 1995.
+* Feagin, Susan, 1983, “The Pleasures of Tragedy,” *American Philosophical Quarterly*, 20 (1): 95–104.
+* Fry, Roger, 1981, *Vision and Design*, J.B. Bullen (ed.), Oxford: Oxford University Press.
+* Gadamer, Hans-Georg, 1960 \[2005], *Truth and Method*, Joel Weinsheimer and Donald G. Marshall (trans.), London: Continuum International Publishing, second revised edition.
+* Galgut, Elisa, 2010, “Projective Properties and Expression in Literary Appreciation,” *Journal of Aesthetics and Art Criticism*, 68 (2): 143–153.
+* Gallie, W.B., 1956, “Art as an essentially contested concept,” *Philosophical Quarterly*, 6: 97–114.
+* Gaut, Berys, 2007, *Art, Emotion and Ethics*, New York: OUP.
+* Gaut, Berys and Dominic McIver Lopes (eds.), 2013, *The Routledge Companion to Aesthetics*, London: Routledge, third edition.
+* Gautier, Théophile, 1835–6 \[2005], *Mademoiselle de Maupin*, Helen Constantine (trans.), London: Penguin Books.
+* Ginsborg, Hannah, 1997, “Lawfulness Without a Law: Kant on the Free Play of Imagination and Understanding,” *Philosophical Topics*, 25 (1): 37–81.
+* –––, 2015, *The Normativity of Nature: Essays on Kant’s Critique of Judgment*, New York: Oxford University Press.
+* Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview Press.
 * –––, 2006, “There Are No Aesthetic Principles,” in Kieran (ed.) 2006, pp. 299–312.
-* –––, 2013, “The Broad View of Aesthetic Experience,” _Journal of Aesthetics and Art Criticism_, 71 (4): 323–333.
-* Goodman, Nelson, 1968 \[1976], _Languages of Art_, Indianapolis: Hackett.
-* Gorodeisky, Keren, 2019, “The Authority of Pleasure,” _Noûs_, 55 (1): 199–220.
-* –––, 2021, “On Liking Aesthetic Value,” _Philosophy and Phenomenological Research_, 102: 261–280.
-* Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic rationality,” _The Journal of Philosophy_, 115 (3): 113–40.
-* Gotshalk, Dilman Walter, 1947, _Art and the Social Order_, New York: Dover.
-* Groos, Karl, 1898, _The Play of Animals_, Elizabeth L. Baldwin (trans.), New York: Appleton.
-* –––, 1896–9 \[1901], _The Play of Man_, Elizabeth L. Baldwin (trans.), New York: Appleton.
-* Guyer, Paul, 2004, “The origins of modern aesthetics: 1711–35,” in Peter Kivy (ed.), _The Blackwell Guide to Aesthetics_, Malden, MA: Blackwell Publishing, pp. 15–44.
-* –––, 2014a, _A History of Modern Aesthetics_ (Volume I: The Eighteenth Century), Cambridge: Cambridge University Press.
-* –––, 2014b, _A History of Modern Aesthetics_ (Volume II: The Nineteenth Century), Cambridge: Cambridge University Press.
-* –––, 2014c, _A History of Modern Aesthetics_ (Volume III: The Twentieth Century), Cambridge: Cambridge University Press.
-* –––, 2020, “18th Century German Aesthetics,” _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/](https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/).
+* –––, 2013, “The Broad View of Aesthetic Experience,” *Journal of Aesthetics and Art Criticism*, 71 (4): 323–333.
+* Goodman, Nelson, 1968 \[1976], *Languages of Art*, Indianapolis: Hackett.
+* Gorodeisky, Keren, 2019, “The Authority of Pleasure,” *Noûs*, 55 (1): 199–220.
+* –––, 2021, “On Liking Aesthetic Value,” *Philosophy and Phenomenological Research*, 102: 261–280.
+* Gorodeisky, Keren and Eric Marcus, 2018, “Aesthetic rationality,” *The Journal of Philosophy*, 115 (3): 113–40.
+* Gotshalk, Dilman Walter, 1947, *Art and the Social Order*, New York: Dover.
+* Groos, Karl, 1898, *The Play of Animals*, Elizabeth L. Baldwin (trans.), New York: Appleton.
+* –––, 1896–9 \[1901], *The Play of Man*, Elizabeth L. Baldwin (trans.), New York: Appleton.
+* Guyer, Paul, 2004, “The origins of modern aesthetics: 1711–35,” in Peter Kivy (ed.), *The Blackwell Guide to Aesthetics*, Malden, MA: Blackwell Publishing, pp. 15–44.
+* –––, 2014a, *A History of Modern Aesthetics* (Volume I: The Eighteenth Century), Cambridge: Cambridge University Press.
+* –––, 2014b, *A History of Modern Aesthetics* (Volume II: The Nineteenth Century), Cambridge: Cambridge University Press.
+* –––, 2014c, *A History of Modern Aesthetics* (Volume III: The Twentieth Century), Cambridge: Cambridge University Press.
+* –––, 2020, “18th Century German Aesthetics,” *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/](https://plato.stanford.edu/archives/fall2020/entries/aesthetics-18th-german/).
 * Haldane, John, 2013, “Medieval Aesthetics,” in Berys Gaut and Dominic McIver Lopes (eds.) 2013, pp. 25–35.
-* Hamawaki, Arata, 2006, “Kant on Beauty and the Normative Force of Feeling,” _Philosophical Topics_, 34 (1): 107–144.
-* Hanslick, Eduard, 1891 \[2007], _The Beautiful in Music_, Gustav Cohen (trans.), partially reprinted in Cahn and Meskin (eds.) 2007, pp. 217–221.
-* Hanson, Louise, 2018, “Moral Realism, Aesthetic Realism, and the Asymmetry Claim,” _Ethics_, 129 (1): 39–69.
-* Hegel, G.W.F., 1807 \[1979], _The Phenomenology of Spirit_, A.V. Miller (trans.), Oxford: Oxford University Press.
-* –––, 1820–29 \[1920], _The Philosophy of Fine Art_, F.P.B. Osmaston (trans.), London: G. Bell & Sons; partially reprinted in Cahn and Meskin (eds.) 2007, pp. 180–192.
-* Heidegger, Martin, 1935 \[1971], “The Origin of the Work of Art,” in _Poetry, Language, Thought_, New York: Harper Collins Publishers; reprinted in Cahn and Meskin (eds.) 2007, pp. 344–357.
-* Hepburn, Ronald, 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty,” in B. Williams and A. Montefiore (eds.), _British Analytical Philosophy_, London: Routledge and Kegan Paul, pp. 285–310; reprinted in A. Carlson & A. Berleant (eds.), _The Aesthetics of Natural Environments_, Peterborough, ON: Broadview Press, 2004, pp. 44–62.
-* Hölderlin, Friedrich, 1795 \[1963], _Werke-Dokumente-Briefe_, Pierre Bertaux (ed.), Munich: Winker Verlag.
-* Hopkins, Robert, 2017, “Imaginative Understanding, Affective Profiles, and the Expression of Emotion in Art,” _Journal of Aesthetics and Art Criticism_, 75 (4): 363–374.
-* –––, 2004, “Critical Reasoning and Critical Perception,” in Matthew Kieran and Dominic McIver Lopes (eds.), _Knowing Art: Essays in Aesthetics and Epistemology_, Dordrecht: Springer, pp. 137–161.
-* Hume, David, 1739–40 \[1987], _A Treatise of Human Nature_, L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press, 2nd edition.
-* –––, 1757 \[1987a], “Of the standard of taste,” in _Essays Moral, Political, and Literary_, E. Miller (ed.), Indianapolis: Liberty Fund; reprinted in Cahn and Meskin (eds.) 2007, pp. 103–112.
-* –––, 1757 \[1987b], “Of tragedy,” in _Essays Moral, Political, and Literary_, E. Miller (ed.), Indianapolis: Liberty Fund.
-* Hutcheson, Frances, 1726 \[2004], _An Inquiry into the Original of Our Ideas of Beauty and Virtue_, W. Leidhold (ed.), Indianapolis: Liberty Fund.
-* Iseminger, Gary, 2003, “Aesthetic experience,” in J. Levinson (ed.), _The Oxford Handbook of Aesthetics_, Oxford: Oxford University Press, pp. 99–116.
+* Hamawaki, Arata, 2006, “Kant on Beauty and the Normative Force of Feeling,” *Philosophical Topics*, 34 (1): 107–144.
+* Hanslick, Eduard, 1891 \[2007], *The Beautiful in Music*, Gustav Cohen (trans.), partially reprinted in Cahn and Meskin (eds.) 2007, pp. 217–221.
+* Hanson, Louise, 2018, “Moral Realism, Aesthetic Realism, and the Asymmetry Claim,” *Ethics*, 129 (1): 39–69.
+* Hegel, G.W.F., 1807 \[1979], *The Phenomenology of Spirit*, A.V. Miller (trans.), Oxford: Oxford University Press.
+* –––, 1820–29 \[1920], *The Philosophy of Fine Art*, F.P.B. Osmaston (trans.), London: G. Bell & Sons; partially reprinted in Cahn and Meskin (eds.) 2007, pp. 180–192.
+* Heidegger, Martin, 1935 \[1971], “The Origin of the Work of Art,” in *Poetry, Language, Thought*, New York: Harper Collins Publishers; reprinted in Cahn and Meskin (eds.) 2007, pp. 344–357.
+* Hepburn, Ronald, 1966, “Contemporary Aesthetics and the Neglect of Natural Beauty,” in B. Williams and A. Montefiore (eds.), *British Analytical Philosophy*, London: Routledge and Kegan Paul, pp. 285–310; reprinted in A. Carlson & A. Berleant (eds.), *The Aesthetics of Natural Environments*, Peterborough, ON: Broadview Press, 2004, pp. 44–62.
+* Hölderlin, Friedrich, 1795 \[1963], *Werke-Dokumente-Briefe*, Pierre Bertaux (ed.), Munich: Winker Verlag.
+* Hopkins, Robert, 2017, “Imaginative Understanding, Affective Profiles, and the Expression of Emotion in Art,” *Journal of Aesthetics and Art Criticism*, 75 (4): 363–374.
+* –––, 2004, “Critical Reasoning and Critical Perception,” in Matthew Kieran and Dominic McIver Lopes (eds.), *Knowing Art: Essays in Aesthetics and Epistemology*, Dordrecht: Springer, pp. 137–161.
+* Hume, David, 1739–40 \[1987], *A Treatise of Human Nature*, L. A. Shelby-Bigge (ed.), Oxford: Clarendon Press, 2nd edition.
+* –––, 1757 \[1987a], “Of the standard of taste,” in *Essays Moral, Political, and Literary*, E. Miller (ed.), Indianapolis: Liberty Fund; reprinted in Cahn and Meskin (eds.) 2007, pp. 103–112.
+* –––, 1757 \[1987b], “Of tragedy,” in *Essays Moral, Political, and Literary*, E. Miller (ed.), Indianapolis: Liberty Fund.
+* Hutcheson, Frances, 1726 \[2004], *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, W. Leidhold (ed.), Indianapolis: Liberty Fund.
+* Iseminger, Gary, 2003, “Aesthetic experience,” in J. Levinson (ed.), *The Oxford Handbook of Aesthetics*, Oxford: Oxford University Press, pp. 99–116.
 * –––, 2006, “The Aesthetic State of Mind,” in Kieran (ed.) 2006, pp. 98–110.
 * –––, 2008, “Experiential theories of aesthetic value,” in Shusterman and Tomlin (eds.) 2008, pp. 45–58.
-* Isenberg, Arnold, 1949, “Critical Communication,” _Philosophical Review_, 58 (4): 330–344.
-* –––, 1973, “Music and Ideas,” in _Aesthetics and the Theory of Criticism: Selected Essays of Arnold Isenberg_, Chicago: The University of Chicago Press, pp. 3–21.
+* Isenberg, Arnold, 1949, “Critical Communication,” *Philosophical Review*, 58 (4): 330–344.
+* –––, 1973, “Music and Ideas,” in *Aesthetics and the Theory of Criticism: Selected Essays of Arnold Isenberg*, Chicago: The University of Chicago Press, pp. 3–21.
 * Kania, Andrew, 2013, “Music,” in Gaut and Lopes (eds.) 2013, pp. 649–660.
-* Kant, Immanuel, 1789 \[1987], _Critique of Judgment_, Werner S. Pluhar (trans.), Indianapolis: Hackett Publishing Company.
-* Kennick, William E., 1958, “Does Traditional Aesthetics Rest on a Mistake?” _Mind_, 67 (267): 317–334.
-* Kieran, Matthew (ed.), 2006, _Contemporary Debates in Aesthetics and the Philosophy of Art_, Malden, MA: Blackwell Publishing.
-* King, Alex, 2022, “Reasons, Normativity, and Value in Aesthetics,” _Philosophy Compass_, 17 (1): 1–17.
-* Kivy, Peter, 1989, _Sound Sentiment_, Philadelphia, PA: Temple University Press.
-* –––, 2002, “Emotions in the Music,” in _Introduction to a Philosophy of Music_, Oxford: Oxford University Press, pp. 31–48; reprinted in Cahn and Meskin (eds.) 2007, pp. 628–634.
-* –––, 2011, _Once Told Tales_, Oxford: Wiley-Blackwell.
+* Kant, Immanuel, 1789 \[1987], *Critique of Judgment*, Werner S. Pluhar (trans.), Indianapolis: Hackett Publishing Company.
+* Kennick, William E., 1958, “Does Traditional Aesthetics Rest on a Mistake?” *Mind*, 67 (267): 317–334.
+* Kieran, Matthew (ed.), 2006, *Contemporary Debates in Aesthetics and the Philosophy of Art*, Malden, MA: Blackwell Publishing.
+* King, Alex, 2022, “Reasons, Normativity, and Value in Aesthetics,” *Philosophy Compass*, 17 (1): 1–17.
+* Kivy, Peter, 1989, *Sound Sentiment*, Philadelphia, PA: Temple University Press.
+* –––, 2002, “Emotions in the Music,” in *Introduction to a Philosophy of Music*, Oxford: Oxford University Press, pp. 31–48; reprinted in Cahn and Meskin (eds.) 2007, pp. 628–634.
+* –––, 2011, *Once Told Tales*, Oxford: Wiley-Blackwell.
 * Korsmeyer, Carolyn, 2013, “Taste,” in Gaut and Lopes (eds.) 2013, pp. 257–266.
-* Kriegel, Uriah, forthcoming, “A Fitting-Attitude Approach to Aesthetic Value?” _British Journal of Aesthetics_.
-* Kubala, Robbie, 2021, “Aesthetic Practices and Normativity,” _Philosophy and Phenomenological Research_, 103 (2): 408–425.
-* Küplen, Mojca, 2015, _Beauty, Ugliness, and the Free Play of Imagination: An Approach to Kant’s Aesthetics_, Berlin: Springer.
-* Labukt, Ivar, 2012, “Hedonic Tone and the Heterogeneity of Pleasure,” _Utilitas_, 24: 172–185.
-* Lamarque, Peter and Stein Haugom Olsen (eds.), 2019, _Aesthetics and the Philosophy of Art: The Analytic Tradition, An Anthology_, Hoboken, NJ: Wiley Blackwell, 2nd edition.
-* Lambert, Anne-Thérèse, Marquise de, 1748 \[1770], “Some Thoughts on Taste”, in _The Works of the Marchioness de Lambert_ (Volume 2), Dublin: J. Potts, pp. 1–5.
-* Landy, Joshua, 2004, _Philosophy as Fiction: Self, Deception, and Knowledge in Proust_, New York: Oxford University Press.
-* Langer, Susanne, 1942, _Philosophy in a New Key_, Cambridge, MA: Harvard University Press.
-* –––, 1953, _Feeling and Form_, New York: Macmillan.
-* Langfeld, Herbert Sidney, 1920, _The Aesthetic Attitude_, New York: Harcourt, Brace and Howe.
-* Lee, Vernon and Clementina Anstruther-Thomson, 1912, _Beauty & Ugliness and Other Studies in Psychological Aesthetics_, London: John Lane.
-* Leibniz, G.W., 1684 \[1969], “Meditations on Knowledge, Truth and Ideas,” in _Philosophical Papers and Letters_, Leroy E. Loemker (trans. and ed.), Dordrecht: D. Reidel, 2nd edition.
-* Levinson, Jerrold, 1996a, _The Pleasures of Aesthetics_, Ithaca: Cornell University Press.
+* Kriegel, Uriah, forthcoming, “A Fitting-Attitude Approach to Aesthetic Value?” *British Journal of Aesthetics*.
+* Kubala, Robbie, 2021, “Aesthetic Practices and Normativity,” *Philosophy and Phenomenological Research*, 103 (2): 408–425.
+* Küplen, Mojca, 2015, *Beauty, Ugliness, and the Free Play of Imagination: An Approach to Kant’s Aesthetics*, Berlin: Springer.
+* Labukt, Ivar, 2012, “Hedonic Tone and the Heterogeneity of Pleasure,” *Utilitas*, 24: 172–185.
+* Lamarque, Peter and Stein Haugom Olsen (eds.), 2019, *Aesthetics and the Philosophy of Art: The Analytic Tradition, An Anthology*, Hoboken, NJ: Wiley Blackwell, 2nd edition.
+* Lambert, Anne-Thérèse, Marquise de, 1748 \[1770], “Some Thoughts on Taste”, in *The Works of the Marchioness de Lambert* (Volume 2), Dublin: J. Potts, pp. 1–5.
+* Landy, Joshua, 2004, *Philosophy as Fiction: Self, Deception, and Knowledge in Proust*, New York: Oxford University Press.
+* Langer, Susanne, 1942, *Philosophy in a New Key*, Cambridge, MA: Harvard University Press.
+* –––, 1953, *Feeling and Form*, New York: Macmillan.
+* Langfeld, Herbert Sidney, 1920, *The Aesthetic Attitude*, New York: Harcourt, Brace and Howe.
+* Lee, Vernon and Clementina Anstruther-Thomson, 1912, *Beauty & Ugliness and Other Studies in Psychological Aesthetics*, London: John Lane.
+* Leibniz, G.W., 1684 \[1969], “Meditations on Knowledge, Truth and Ideas,” in *Philosophical Papers and Letters*, Leroy E. Loemker (trans. and ed.), Dordrecht: D. Reidel, 2nd edition.
+* Levinson, Jerrold, 1996a, *The Pleasures of Aesthetics*, Ithaca: Cornell University Press.
 * –––, 1996b, “What is aesthetic pleasure?” in Levinson 1996a, pp. 3–10.
 * –––, 1996c, “Pleasure and the value of works of art,” in Levinson 1996a, pp. 11–24.
-* –––, 2006a, _Contemplating Art_, Oxford: Clarendon Press.
+* –––, 2006a, *Contemplating Art*, Oxford: Clarendon Press.
 * –––, 2006b, “Musical expressiveness as hearability as expression,” in Kieran (ed.) 2006, pp. 192–204.
-* –––, 2016a, _Aesthetic Pursuits_, New York: Oxford University Press.
+* –––, 2016a, *Aesthetic Pursuits*, New York: Oxford University Press.
 * –––, 2016b, “Towards an adequate conception of aesthetic experience,” in Levinson 2016a, 28–46.
-* Lipps, Theodor, 1903–6, _Ästhetik: Psychologie des Schönen under der Kunst_, Hamburg and Leipzig: Voss, 2 volumes; quotation translated by Guyer 2014b.
-* –––, 1935, “Empathy, inner imitation and sense-feelings,” in Melvin R. Rader (ed.), _A Modern Book of Esthetics_, New York: Henry Holt and Company, Inc., pp. 291–304.
-* Locke, John, 1689 \[1975], _An Essay Concerning Human Understanding_, Peter H. Nidditch (ed.), Oxford: Clarendon Press.
-* Lopes, Dominic McIver, 2018, _Being for Beauty: Aesthetic Agency and Value_, New York: Oxford University Press.
-* –––, 2021, “Beyond the Pleasure Principle: A Kantian Aesthetics of Autonomy,” _Estetika: The European Journal of Aesthetics_, 58 (1): 1–18.
-* Lotze, Hermann, 1885 \[1899], _Microcosmus: An Essay Concerning Man and His Relation to the World_, E. Hamilton and E. E. C. Jones (trans.), Edinburgh: T. & T. Clark.
-* Mandelbaum, Maurice, 1965, “Family resemblances and generalization concerning the arts,” _American Philosophical Quarterly_, 2: 219–28.
-* Marcel, Gabriel, 1951 \[1960], _The Mystery of Being_, G.S. Fraser and R. Hague (trans.), Chicago: Henry Regnery.
-* Matherne, Samantha, 2016, “Kant’s theory of the imagination,” in Amy Kind (ed.), _The Routledge Handbook of the Philosophy of Imagination_, London: Routledge, pp. 55–68.
-* –––, 2020, “Edith Landmann-Kalischer on Aesthetic Demarcation and Normativity,” _British Journal of Aesthetics_, 60 (3): 315–344.
-* Matherne, Samantha and Nick Riggle, 2020, “Schiller on Freedom and Aesthetic Value,” _British Journal of Aesthetics_, 60 (4): 375–402.
-* Matthen, Mohan, 2017a, “The Pleasure of Art,” _Australasian Philosophical Review_, 1 (1): 6–28.
-* –––, 2017b, “Constructing Aesthetic Value: Responses to My Commentators,” _Australasian Philosophical Review_, 1 (1): 100–111.
+* Lipps, Theodor, 1903–6, *Ästhetik: Psychologie des Schönen under der Kunst*, Hamburg and Leipzig: Voss, 2 volumes; quotation translated by Guyer 2014b.
+* –––, 1935, “Empathy, inner imitation and sense-feelings,” in Melvin R. Rader (ed.), *A Modern Book of Esthetics*, New York: Henry Holt and Company, Inc., pp. 291–304.
+* Locke, John, 1689 \[1975], *An Essay Concerning Human Understanding*, Peter H. Nidditch (ed.), Oxford: Clarendon Press.
+* Lopes, Dominic McIver, 2018, *Being for Beauty: Aesthetic Agency and Value*, New York: Oxford University Press.
+* –––, 2021, “Beyond the Pleasure Principle: A Kantian Aesthetics of Autonomy,” *Estetika: The European Journal of Aesthetics*, 58 (1): 1–18.
+* Lotze, Hermann, 1885 \[1899], *Microcosmus: An Essay Concerning Man and His Relation to the World*, E. Hamilton and E. E. C. Jones (trans.), Edinburgh: T. & T. Clark.
+* Mandelbaum, Maurice, 1965, “Family resemblances and generalization concerning the arts,” *American Philosophical Quarterly*, 2: 219–28.
+* Marcel, Gabriel, 1951 \[1960], *The Mystery of Being*, G.S. Fraser and R. Hague (trans.), Chicago: Henry Regnery.
+* Matherne, Samantha, 2016, “Kant’s theory of the imagination,” in Amy Kind (ed.), *The Routledge Handbook of the Philosophy of Imagination*, London: Routledge, pp. 55–68.
+* –––, 2020, “Edith Landmann-Kalischer on Aesthetic Demarcation and Normativity,” *British Journal of Aesthetics*, 60 (3): 315–344.
+* Matherne, Samantha and Nick Riggle, 2020, “Schiller on Freedom and Aesthetic Value,” *British Journal of Aesthetics*, 60 (4): 375–402.
+* Matthen, Mohan, 2017a, “The Pleasure of Art,” *Australasian Philosophical Review*, 1 (1): 6–28.
+* –––, 2017b, “Constructing Aesthetic Value: Responses to My Commentators,” *Australasian Philosophical Review*, 1 (1): 100–111.
 * –––, 2018, “New Prospects for Aesthetic Hedonism,” in Jennifer A. McMahon (ed.) 2018, pp. 13–33.
-* Matravers, Derek, 1996, “Aesthetic Concepts and Aesthetic Experience,” _British Journal of Aesthetics_, 36 (3): 265–277.
-* –––, 1998, _Art and Emotion_, New York: Oxford University Press.
-* –––, 2007, “Expression in Music,” in Kathleen Stock (ed.), _Philosophers on Music: Experience, Meaning, and Work_, New York: Oxford University Press.
+* Matravers, Derek, 1996, “Aesthetic Concepts and Aesthetic Experience,” *British Journal of Aesthetics*, 36 (3): 265–277.
+* –––, 1998, *Art and Emotion*, New York: Oxford University Press.
+* –––, 2007, “Expression in Music,” in Kathleen Stock (ed.), *Philosophers on Music: Experience, Meaning, and Work*, New York: Oxford University Press.
 * –––, 2013, “Art, expression, and emotion,” in Gaut and Lopes (eds.) 2013, pp. 404–414.
-* McMahon, Jennifer A., 2007, _Aesthetics and Material Beauty: Aesthetics Naturalized_, New York: Routledge.
-* –––, 2018, _Social Aesthetics and Moral Judgment: Pleasure, Reflection, and Accountability_, London: Routledge.
-* Mendelssohn, Moses, 1758 \[1997], “On the Sublime and Naïve in the Fine Sciences,” in _Philosophical Writings_, Daniel O. Dahlstrom (ed.), Cambridge: Cambridge University Press.
-* –––, 1785 \[1979], _Morgenstunden, oder Vorlesungen über das Dasein Gottes_, Dominique Bourel (ed.), Stuttgart: Philipp Reclam Jun.
-* Meier, Georg Friedrich, 1999, _Frühe Schriften zur Ästhetischen Erziehung der Deutschen_, Hans-Joachim Kertscher and Günter Schenk (eds.), Halle: Hallescher Verlag.
-* Meskin, Aaron, 2001, “Review of _Theories of Art Today_, Noël Carroll (ed.),” _Journal of Aesthetics and Art Criticism_, 59: 219–20.
-* Montero, Barbara, 2006a, “Proprioceiving Someone Else’s Movement,” _Philosophical Explorations_, 9 (2): 149–161.
-* –––, 2006b, “Proprioception as an Aesthetic Sense,” _Journal of Aesthetics and Art Criticism_, 64 (2): 231–242.
+* McMahon, Jennifer A., 2007, *Aesthetics and Material Beauty: Aesthetics Naturalized*, New York: Routledge.
+* –––, 2018, *Social Aesthetics and Moral Judgment: Pleasure, Reflection, and Accountability*, London: Routledge.
+* Mendelssohn, Moses, 1758 \[1997], “On the Sublime and Naïve in the Fine Sciences,” in *Philosophical Writings*, Daniel O. Dahlstrom (ed.), Cambridge: Cambridge University Press.
+* –––, 1785 \[1979], *Morgenstunden, oder Vorlesungen über das Dasein Gottes*, Dominique Bourel (ed.), Stuttgart: Philipp Reclam Jun.
+* Meier, Georg Friedrich, 1999, *Frühe Schriften zur Ästhetischen Erziehung der Deutschen*, Hans-Joachim Kertscher and Günter Schenk (eds.), Halle: Hallescher Verlag.
+* Meskin, Aaron, 2001, “Review of *Theories of Art Today*, Noël Carroll (ed.),” *Journal of Aesthetics and Art Criticism*, 59: 219–20.
+* Montero, Barbara, 2006a, “Proprioceiving Someone Else’s Movement,” *Philosophical Explorations*, 9 (2): 149–161.
+* –––, 2006b, “Proprioception as an Aesthetic Sense,” *Journal of Aesthetics and Art Criticism*, 64 (2): 231–242.
 * Montesquieu, C., Voltaire, and Jean Le Rond d’Alembert, 1757, “Goût”, in Diderot and d’Alembert (eds.), 1751–1765 (Volume 7): 758–770.
-* Moore, G.E., 1903 \[1993], _Principia Ethica_, Thomas Baldwin (ed.), Cambridge: Cambridge University Press, revised edition.
-* Moran, Richard, 2012, “Kant, Proust, and the Appeal of Beauty,” _Critical Inquiry_, 38 (2): 298–329.
-* Moritz, Karl Philipp, 1785 \[1993], _Werke_, Horst Günther (ed.), Frankfurt am Main: Insel Verlag, 2nd edition.
-* Mothersill, Mary, 1988, _Beauty Restored_, Oxford: Clarendon Press.
-* Nagel, Thomas, 1971, “The Absurd,” _Journal of Philosophy_, 68 (20): 716–727.
-* Nanay, Bence, 2015, “Aesthetic Attention,” _Journal of Consciousness Studies_, 22 (5–6): 96–118.
-* –––, 2016, _Aesthetics as Philosophy of Perception_, New York: Oxford University Press.
-* Nehamas, Alexander, 1998, “Richard Shusterman on Pleasure and Aesthetic Experience,” _Journal of Aesthetics and Art Criticism_, 56 (1): 49–65.
-* –––, 2007, _Only a Promise of Happiness_, Princeton: Princeton University Press.
-* Nietzsche, Friedrich, 1872 \[1992], _The Birth of Tragedy, or: Hellenism and Pessimism_, Walter Kaufmann (trans.), in Walter Kaufmann (ed.), _Basic Writings of Nietzsche_, New York: The Modern Library.
-* –––, 1882 \[1974], _The Gay Science_, Walter Kaufmann (trans.), New York: Vintage.
-* Noë, Alva, 2016, _Strange Tools: Art and Human Nature_, New York: Hill and Wang.
-* –––, 2022, _Learning to Look: Dispatches from the Art World_, New York: Oxford University Press.
-* Noordhof, Paul, 2008, “Expressive Perception as Projective Imagining,” _Mind and Language_, 23 (3): 329–358.
-* Nussbaum, Charles O., 2007, _The Musical Representation: Meaning, Ontology, and Emotion_, Cambridge, MA: MIT Press.
-* Nussbaum, Martha, 1990, _Love’s Knowledge: Essays on Philosophy and Literature_, New York: Oxford University Press.
-* Pater, Walter, 1873 \[1986], _The Renaissance: Studies in Art and Poetry_, Adam Phillips (ed.), Oxford: Oxford University Press.
-* Peacocke, Christopher, 2009, “The Perception of Music: Sources of Significance,” _British Journal of Aesthetics_, 49 (3): 257–275.
-* Peacocke, Antonia, 2021, “Let’s Be Liberal: An Alternative to Aesthetic Hedonism,” _British Journal of Aesthetics_, 61 (2): 163–183.
-* Petock, Stuart Jay, 1972, “Expression in Art: The Feelingful Side of Aesthetic Experience,” _Journal of Aesthetics and Art Criticism_, 30 (3): 297–309.
-* Poe, Edgar Allen, 1850 \[1984], “The Poetic Principle,” in _Essays and Reviews_, G.R. Thompson (ed.), New York: Library of America.
-* Prinz, Jesse, 2014, “Emotion and aesthetic value,” in E. Schellekens & P. Goldie (eds.), _The Aesthetic Mind: Philosophy and Psychology_, Oxford: Oxford University Press, pp. 71–88.
-* Proust, Marcel, 1913–1927 \[2003], _In Search of Lost Time_, C.K. Scott Moncrieff, Terence Kilmartin, and Andreas Mayor (trans.), D.J. Enright (revised), New York: The Modern Library.
-* –––, 1895–1900 \[1984], _By Way of Sainte Beuve_, Silvia Townsend Warner (trans.), London: The Hogarth Press.
-* Puffer, Ethel D., 1905, _The Psychology of Beauty_, Boston: Houghton Mifflin.
-* Reid, Thomas, 1785 \[1969], _Essays on the Intellectual Powers of Man_, Cambridge, MA: The M.I.T. Press.
-* Riggle, Nick, 2016, “On the interest in beauty and disinterest,” _Philosopher’s Imprint_, 16 (9). \[[Riggle 2016 available online](http://hdl.handle.net/2027/spo.3521354.0016.009)]
-* –––, forthcoming, “Convergence, Community, and Force in Aesthetic Discourse,” _Ergo_.
-* Robinson, Jenefer, 2005, _Deeper than Reason: Emotion and its Role in Literature, Music, and Art_, Oxford: Clarendon Press.
-* –––, 2011, “Expression Theories,” in _The Routledge Companion to Philosophy and Music_, London: Routledge
-* Rolston, Holmes, 1998, “Aesthetic Experience in Forests,” _Journal of Aesthetics and Art Criticism_, 56 (2): 157–166.
-* Ruskin, John, 1843–60 \[2004], _Modern Painters_, in _Selected Writings_, Dinah Birch (ed.), Oxford: Oxford University Press.
-* Santayana, George, 1896, _The Sense of Beauty_, New York: Charles Scribner’s Sons.
-* Sartre, Jean-Paul, 1938 \[1965], _Nausea_, Robert Baldick (trans.), New York: Penguin Books.
-* –––, 1940 \[2004], _The Imaginary: A Phenomenological Psychology of the Imagination_, Jonathan Webber (trans.), Arlette Elkaïm-Sartre (revised), London: Routledge.
-* –––, 1948 \[1967], _What is Literature?_, Bernard Frechtman (trans.) London: Methuen.
-* Savile, Anthony, 1982, _The Test of Time: An Essay in Philosophical Aesthetics_, Oxford: Clarendon Press.
-* –––, 2020, “Beauty, ugliness and the free play of imagination,” _British Journal of Aesthetics_, 60 (1): 106–110.
-* Schellekens, Elizabeth, 2022, “Aesthetic Experience and Intellectual Pursuits,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 96 (1): 123–146.
-* Schelling, Friedrich Wilhelm Joseph, 1802–3 \[1989], _The Philosophy of Fine Art_, Douglas W. Scott (trans.), Minneapolis: University of Minnesota Press; reprinted in Cahn and Meskin (eds.) 2007, pp. 170–179.
-* –––, 1800 \[1978], _System of Transcendental Idealism_ (1800), Peter Heath (trans.), Charlottesville: University Press of Virginia.
-* Schiller, Friedrich, 1795 \[1989], _On the Aesthetic Education of Man_, Elizabeth M. Wilkinson and L.A. Willoughby (trans.), Oxford: Clarendon Press.
-* Schlegel, Friedrich, 1798–1800 \[1991], _Philosophical Fragments_, Peter Firchow (trans.), Minneapolis: University of Minnesota Press.
-* –––, 1795 \[2001], _On the Study of Greek Poetry_, Stuart Bennett (trans.), Albany: State University of New York Press.
-* Schleiermacher, Friedrich Daniel Ernst, 1819–33 \[1984], _Asthetik (1819/25)/Über den Begriff der Kunst (1831/32)_, Thomas Lehnerer (ed.), Hamburg: Felix Meiner Verlag.
-* Schopenhauer, Arthur, 1818 \[1958], _The World as Will and Representation_, E.F.J. Payne (trans.), Indian Hills, CO: Falcon’s Wing Press.
-* Scruton, Roger, 1999, _The Aesthetics of Music_, Oxford: Clarendon Press.
-* –––, 1974, _Art and Imagination: A Study in the Philosophy of Mind_, London: Routledge & Kegan Paul.
-* Seel, Martin, 2005, _Aesthetics of Appearing_, John Farrell (trans.), Stanford, CA: Stanford University Press.
-* Shaftesbury, Third Earl of, 1711 \[2007], _Characteristics of Men, Manners, Opinions, Times_, in Cahn and Meskin (eds.) 2007, pp. 77–86.
-* Shelley, James, 2002, “The Character and Role of Principles in the Evaluation of Art,” _British Journal of Aesthetics_, 42 (1): 37–51.
-* –––, 2010, “Against Value Empiricism in Aesthetics,” _Australasian Journal of Philosophy_, 88 (4): 707–720.
-* –––, 2019, “The Default Theory of Aesthetic Value,” _British Journal of Philosophy_, 59 (1): 1–12.
-* Shelley, Percy Bysshe, 1832 \[2003], “Defence of Poetry,” in _The Major Works_, Zachary Leader and Michael O’Neill (eds.), Oxford: Oxford University Press.
-* Shusterman, Richard, 1997, “The End of Aesthetic Experience,” _Journal of Aesthetics and Art Criticism_, 55 (1): 29–41.
+* Moore, G.E., 1903 \[1993], *Principia Ethica*, Thomas Baldwin (ed.), Cambridge: Cambridge University Press, revised edition.
+* Moran, Richard, 2012, “Kant, Proust, and the Appeal of Beauty,” *Critical Inquiry*, 38 (2): 298–329.
+* Moritz, Karl Philipp, 1785 \[1993], *Werke*, Horst Günther (ed.), Frankfurt am Main: Insel Verlag, 2nd edition.
+* Mothersill, Mary, 1988, *Beauty Restored*, Oxford: Clarendon Press.
+* Nagel, Thomas, 1971, “The Absurd,” *Journal of Philosophy*, 68 (20): 716–727.
+* Nanay, Bence, 2015, “Aesthetic Attention,” *Journal of Consciousness Studies*, 22 (5–6): 96–118.
+* –––, 2016, *Aesthetics as Philosophy of Perception*, New York: Oxford University Press.
+* Nehamas, Alexander, 1998, “Richard Shusterman on Pleasure and Aesthetic Experience,” *Journal of Aesthetics and Art Criticism*, 56 (1): 49–65.
+* –––, 2007, *Only a Promise of Happiness*, Princeton: Princeton University Press.
+* Nietzsche, Friedrich, 1872 \[1992], *The Birth of Tragedy, or: Hellenism and Pessimism*, Walter Kaufmann (trans.), in Walter Kaufmann (ed.), *Basic Writings of Nietzsche*, New York: The Modern Library.
+* –––, 1882 \[1974], *The Gay Science*, Walter Kaufmann (trans.), New York: Vintage.
+* Noë, Alva, 2016, *Strange Tools: Art and Human Nature*, New York: Hill and Wang.
+* –––, 2022, *Learning to Look: Dispatches from the Art World*, New York: Oxford University Press.
+* Noordhof, Paul, 2008, “Expressive Perception as Projective Imagining,” *Mind and Language*, 23 (3): 329–358.
+* Nussbaum, Charles O., 2007, *The Musical Representation: Meaning, Ontology, and Emotion*, Cambridge, MA: MIT Press.
+* Nussbaum, Martha, 1990, *Love’s Knowledge: Essays on Philosophy and Literature*, New York: Oxford University Press.
+* Pater, Walter, 1873 \[1986], *The Renaissance: Studies in Art and Poetry*, Adam Phillips (ed.), Oxford: Oxford University Press.
+* Peacocke, Christopher, 2009, “The Perception of Music: Sources of Significance,” *British Journal of Aesthetics*, 49 (3): 257–275.
+* Peacocke, Antonia, 2021, “Let’s Be Liberal: An Alternative to Aesthetic Hedonism,” *British Journal of Aesthetics*, 61 (2): 163–183.
+* Petock, Stuart Jay, 1972, “Expression in Art: The Feelingful Side of Aesthetic Experience,” *Journal of Aesthetics and Art Criticism*, 30 (3): 297–309.
+* Poe, Edgar Allen, 1850 \[1984], “The Poetic Principle,” in *Essays and Reviews*, G.R. Thompson (ed.), New York: Library of America.
+* Prinz, Jesse, 2014, “Emotion and aesthetic value,” in E. Schellekens & P. Goldie (eds.), *The Aesthetic Mind: Philosophy and Psychology*, Oxford: Oxford University Press, pp. 71–88.
+* Proust, Marcel, 1913–1927 \[2003], *In Search of Lost Time*, C.K. Scott Moncrieff, Terence Kilmartin, and Andreas Mayor (trans.), D.J. Enright (revised), New York: The Modern Library.
+* –––, 1895–1900 \[1984], *By Way of Sainte Beuve*, Silvia Townsend Warner (trans.), London: The Hogarth Press.
+* Puffer, Ethel D., 1905, *The Psychology of Beauty*, Boston: Houghton Mifflin.
+* Reid, Thomas, 1785 \[1969], *Essays on the Intellectual Powers of Man*, Cambridge, MA: The M.I.T. Press.
+* Riggle, Nick, 2016, “On the interest in beauty and disinterest,” *Philosopher’s Imprint*, 16 (9). \[[Riggle 2016 available online](http://hdl.handle.net/2027/spo.3521354.0016.009)]
+* –––, forthcoming, “Convergence, Community, and Force in Aesthetic Discourse,” *Ergo*.
+* Robinson, Jenefer, 2005, *Deeper than Reason: Emotion and its Role in Literature, Music, and Art*, Oxford: Clarendon Press.
+* –––, 2011, “Expression Theories,” in *The Routledge Companion to Philosophy and Music*, London: Routledge
+* Rolston, Holmes, 1998, “Aesthetic Experience in Forests,” *Journal of Aesthetics and Art Criticism*, 56 (2): 157–166.
+* Ruskin, John, 1843–60 \[2004], *Modern Painters*, in *Selected Writings*, Dinah Birch (ed.), Oxford: Oxford University Press.
+* Santayana, George, 1896, *The Sense of Beauty*, New York: Charles Scribner’s Sons.
+* Sartre, Jean-Paul, 1938 \[1965], *Nausea*, Robert Baldick (trans.), New York: Penguin Books.
+* –––, 1940 \[2004], *The Imaginary: A Phenomenological Psychology of the Imagination*, Jonathan Webber (trans.), Arlette Elkaïm-Sartre (revised), London: Routledge.
+* –––, 1948 \[1967], *What is Literature?*, Bernard Frechtman (trans.) London: Methuen.
+* Savile, Anthony, 1982, *The Test of Time: An Essay in Philosophical Aesthetics*, Oxford: Clarendon Press.
+* –––, 2020, “Beauty, ugliness and the free play of imagination,” *British Journal of Aesthetics*, 60 (1): 106–110.
+* Schellekens, Elizabeth, 2022, “Aesthetic Experience and Intellectual Pursuits,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 96 (1): 123–146.
+* Schelling, Friedrich Wilhelm Joseph, 1802–3 \[1989], *The Philosophy of Fine Art*, Douglas W. Scott (trans.), Minneapolis: University of Minnesota Press; reprinted in Cahn and Meskin (eds.) 2007, pp. 170–179.
+* –––, 1800 \[1978], *System of Transcendental Idealism* (1800), Peter Heath (trans.), Charlottesville: University Press of Virginia.
+* Schiller, Friedrich, 1795 \[1989], *On the Aesthetic Education of Man*, Elizabeth M. Wilkinson and L.A. Willoughby (trans.), Oxford: Clarendon Press.
+* Schlegel, Friedrich, 1798–1800 \[1991], *Philosophical Fragments*, Peter Firchow (trans.), Minneapolis: University of Minnesota Press.
+* –––, 1795 \[2001], *On the Study of Greek Poetry*, Stuart Bennett (trans.), Albany: State University of New York Press.
+* Schleiermacher, Friedrich Daniel Ernst, 1819–33 \[1984], *Asthetik (1819/25)/Über den Begriff der Kunst (1831/32)*, Thomas Lehnerer (ed.), Hamburg: Felix Meiner Verlag.
+* Schopenhauer, Arthur, 1818 \[1958], *The World as Will and Representation*, E.F.J. Payne (trans.), Indian Hills, CO: Falcon’s Wing Press.
+* Scruton, Roger, 1999, *The Aesthetics of Music*, Oxford: Clarendon Press.
+* –––, 1974, *Art and Imagination: A Study in the Philosophy of Mind*, London: Routledge & Kegan Paul.
+* Seel, Martin, 2005, *Aesthetics of Appearing*, John Farrell (trans.), Stanford, CA: Stanford University Press.
+* Shaftesbury, Third Earl of, 1711 \[2007], *Characteristics of Men, Manners, Opinions, Times*, in Cahn and Meskin (eds.) 2007, pp. 77–86.
+* Shelley, James, 2002, “The Character and Role of Principles in the Evaluation of Art,” *British Journal of Aesthetics*, 42 (1): 37–51.
+* –––, 2010, “Against Value Empiricism in Aesthetics,” *Australasian Journal of Philosophy*, 88 (4): 707–720.
+* –––, 2019, “The Default Theory of Aesthetic Value,” *British Journal of Philosophy*, 59 (1): 1–12.
+* Shelley, Percy Bysshe, 1832 \[2003], “Defence of Poetry,” in *The Major Works*, Zachary Leader and Michael O’Neill (eds.), Oxford: Oxford University Press.
+* Shusterman, Richard, 1997, “The End of Aesthetic Experience,” *Journal of Aesthetics and Art Criticism*, 55 (1): 29–41.
 * –––, 2008, “Aesthetic Experience: From Analysis to Eros,” in Shusterman and Tomlin (eds.) 2008, pp. 79–97.
-* Shusterman, Richard and Adele Tomlin (eds.), 2008, _Aesthetic Experience_, London: Routledge.
-* Sibley, Frank, 1959, “Aesthetic Concepts,” _The Philosophical Review_, 68 (4): 421–450; reprinted in Sibley 2001, pp. 1–23.
-* –––, 1968, “Objectivity and Aesthetics,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 42: 31–72; reprinted in Sibley 2001, pp. 71–87.
-* –––, 1974, “Particularity, Art, and Evaluation,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 48: 1–22; reprinted in Sibley 2001, pp. 88–103.
-* –––, 1983, “General Criteria and Reasons in Aesthetics,” in John Fisher, ed., _Essays on Aesthetics: Perspectives on the Work of Monroe C. Beardsley_, Philadelphia: Temple University Press; reprinted in Sibley 2001, pp. 104–118.
-* –––, 2001, _Approach to Aesthetics: Collected Papers on Philosophical Aesthetics_, New York: Oxford University Press.
-* Sircello, Guy, 1975, _A New Theory of Beauty_, Princeton, NJ: Princeton University Press.
-* –––, 1972, “Expressive Properties of Art,” in _Mind and Art: An Essay on the Varieties of Expression_, Princeton: Princeton University Press, pp. 16–46.
-* Spencer, Herbert, 1855 \[1895], _Principles of Psychology_, New York: Appleton.
-* Stecker, Robert, 2005, _Aesthetics and the Philosophy of Art_, Lanham, MD: Rowman and Littlefield.
-* Stolnitz, Jerome, 1960, _Aesthetics and Philosophy of Art Criticism_, Cambridge, MA: The Riverside Press.
-* –––, 1961, “On the Origins of ‘Aesthetic Disinterestedness’,” _The Journal of Aesthetics and Art Criticism_, 20 (2): 131–143.
-* Strawson, P.F., 1966, “Aesthetic Appraisal and Works of Art,” _The Oxford Review_, 3.
-* Titchener, E. B., 1909 \[1926], _Lectures on the Experimental Psychology of Thought-Processes_, New York: Macmillan.
+* Shusterman, Richard and Adele Tomlin (eds.), 2008, *Aesthetic Experience*, London: Routledge.
+* Sibley, Frank, 1959, “Aesthetic Concepts,” *The Philosophical Review*, 68 (4): 421–450; reprinted in Sibley 2001, pp. 1–23.
+* –––, 1968, “Objectivity and Aesthetics,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 42: 31–72; reprinted in Sibley 2001, pp. 71–87.
+* –––, 1974, “Particularity, Art, and Evaluation,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 48: 1–22; reprinted in Sibley 2001, pp. 88–103.
+* –––, 1983, “General Criteria and Reasons in Aesthetics,” in John Fisher, ed., *Essays on Aesthetics: Perspectives on the Work of Monroe C. Beardsley*, Philadelphia: Temple University Press; reprinted in Sibley 2001, pp. 104–118.
+* –––, 2001, *Approach to Aesthetics: Collected Papers on Philosophical Aesthetics*, New York: Oxford University Press.
+* Sircello, Guy, 1975, *A New Theory of Beauty*, Princeton, NJ: Princeton University Press.
+* –––, 1972, “Expressive Properties of Art,” in *Mind and Art: An Essay on the Varieties of Expression*, Princeton: Princeton University Press, pp. 16–46.
+* Spencer, Herbert, 1855 \[1895], *Principles of Psychology*, New York: Appleton.
+* Stecker, Robert, 2005, *Aesthetics and the Philosophy of Art*, Lanham, MD: Rowman and Littlefield.
+* Stolnitz, Jerome, 1960, *Aesthetics and Philosophy of Art Criticism*, Cambridge, MA: The Riverside Press.
+* –––, 1961, “On the Origins of ‘Aesthetic Disinterestedness’,” *The Journal of Aesthetics and Art Criticism*, 20 (2): 131–143.
+* Strawson, P.F., 1966, “Aesthetic Appraisal and Works of Art,” *The Oxford Review*, 3.
+* Titchener, E. B., 1909 \[1926], *Lectures on the Experimental Psychology of Thought-Processes*, New York: Macmillan.
 * Tolstoy, Leo, 1897 \[2007], “What is Art?” in Cahn and Meskin (eds.) 2007, pp. 233–242.
-* Tomas, Vincent, 1959, “Aesthetic Vision,” _The Philosophical Review_, 68: 52–67.
-* Tormey, Alan, 1971 \[1987], “Art and Expression: A Critique,” in J. Margolis (ed.), _Philosophy Looks at the Arts_, Philadelphia: Temple University Press.
-* Urmson, J.O., 1957, “What Makes a Situation Aesthetic?” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 31: 75–106.
-* Véron, Eugène, 1879, _Aesthetics_, W.H. Armstrong (trans.), London: Chapman and Hall.
-* Vischer, R., 1873 \[1994], “On the Optical Sense of Form: A Contribution to Aesthetics,” in H.F. Mallgrave and Eleftherios Ikonomou (eds., trans.), _Empathy, Form, and Space_, Santa Monica, CA: The Getty Center for the History of Art and the Humanities, pp. 89–123.
-* Vivas, Eliseo, 1937, “A Definition of the Esthetic Experience,” _The Journal of Philosophy_, 34 (23): 628–634.
-* Walton, Kendall, 1970, “Categories of Art,” _The Philosophical Review_, 79 (3): 334–367.
-* –––, 1988, “What is Abstract about the Art of Music?” _Journal of Aesthetics and Art Criticism_, 46 (3): 351–364.
-* –––, 1990, _Mimesis as Make-Believe: On the Foundations of the Representational Arts_, Cambridge, MA: Harvard University Press.
-* –––, 1993,. “How marvelous! Toward a theory of aesthetic value,” _Journal of Aesthetics and Art Criticism_, 51 (3): 499–510.
-* –––, 1994, “Listening with Imagination: Is Music Representational?” _Journal of Aesthetics and Art Criticism_, 52 (1): 47–61.
-* Weitz, Morris, 1950, _Philosophy of the Arts_, Cambridge, MA: Harvard University Press.
-* –––, 1956, “The role of theory in aesthetics,” _Journal of Aesthetics and Art Criticism_, 15 (1): 27–35.
-* Whiting, Daniel, 2021, “Aesthetic Reasons and the Demands They (Do Not) Make,” _Philosophical Quarterly_, 71 (2): 407–427.
-* –––, forthcoming, “Admiration, Appreciation, and Aesthetic Worth,” _Australasian Journal of Philosophy_.
-* Wiltsher, Nick, 2016, “The Aesthetics of Electronic Dance Music,” _Philosophy Compass_, 11 (8): 415–425.
-* Wimsatt, W.K. and Monroe Beardsley, 1946 \[2007], “The Intentional Fallacy,” _Sewanee Review_, 54 (3): 468–488; reprinted in W.K. Wimsatt, Jr. (ed.), _The Verbal Icon: Studies in the Meaning of Poetry_, Lexington: University of Kentucky Press, 1954, pp. 3–18; reprinted in Cahn and Meskin (eds.) 2007, pp. 547–555.
-* –––, 1949, “The Affective Fallacy,” _Sewanee Review_, 57 (1): 31–55; reprinted in W.K. Wimsatt, Jr. (ed.), _The Verbal Icon: Studies in the Meaning of Poetry_, Lexington: University of Kentucky Press, 1954, pp. 21–40.
-* Wittgenstein, Ludwig, 1953 \[2009], _Philosophical Investigations_, G.E.M. Anscombe, P.M.S. Hacker, and Joachim Schulte (trans.), P.M.S. Hacker and Joachim Schulte (revised), Malden, MA: Wiley Blackwell.
-* –––, 1958 \[1965], _The Blue and Brown Books: Preliminary Studies for the_ Philosophical Investigations, New York: Harper Perennial Modern Thought
-* Wolff, Christian, 1719 \[2003], _Metafisica Tedesca, con le Annotazione alla Metafisica Tedesca_, Raffaele Ciafardone (ed.), Milan: Bompiani; quoted translations in Guyer 2014a.
+* Tomas, Vincent, 1959, “Aesthetic Vision,” *The Philosophical Review*, 68: 52–67.
+* Tormey, Alan, 1971 \[1987], “Art and Expression: A Critique,” in J. Margolis (ed.), *Philosophy Looks at the Arts*, Philadelphia: Temple University Press.
+* Urmson, J.O., 1957, “What Makes a Situation Aesthetic?” *Proceedings of the Aristotelian Society* (Supplementary Volume), 31: 75–106.
+* Véron, Eugène, 1879, *Aesthetics*, W.H. Armstrong (trans.), London: Chapman and Hall.
+* Vischer, R., 1873 \[1994], “On the Optical Sense of Form: A Contribution to Aesthetics,” in H.F. Mallgrave and Eleftherios Ikonomou (eds., trans.), *Empathy, Form, and Space*, Santa Monica, CA: The Getty Center for the History of Art and the Humanities, pp. 89–123.
+* Vivas, Eliseo, 1937, “A Definition of the Esthetic Experience,” *The Journal of Philosophy*, 34 (23): 628–634.
+* Walton, Kendall, 1970, “Categories of Art,” *The Philosophical Review*, 79 (3): 334–367.
+* –––, 1988, “What is Abstract about the Art of Music?” *Journal of Aesthetics and Art Criticism*, 46 (3): 351–364.
+* –––, 1990, *Mimesis as Make-Believe: On the Foundations of the Representational Arts*, Cambridge, MA: Harvard University Press.
+* –––, 1993,. “How marvelous! Toward a theory of aesthetic value,” *Journal of Aesthetics and Art Criticism*, 51 (3): 499–510.
+* –––, 1994, “Listening with Imagination: Is Music Representational?” *Journal of Aesthetics and Art Criticism*, 52 (1): 47–61.
+* Weitz, Morris, 1950, *Philosophy of the Arts*, Cambridge, MA: Harvard University Press.
+* –––, 1956, “The role of theory in aesthetics,” *Journal of Aesthetics and Art Criticism*, 15 (1): 27–35.
+* Whiting, Daniel, 2021, “Aesthetic Reasons and the Demands They (Do Not) Make,” *Philosophical Quarterly*, 71 (2): 407–427.
+* –––, forthcoming, “Admiration, Appreciation, and Aesthetic Worth,” *Australasian Journal of Philosophy*.
+* Wiltsher, Nick, 2016, “The Aesthetics of Electronic Dance Music,” *Philosophy Compass*, 11 (8): 415–425.
+* Wimsatt, W.K. and Monroe Beardsley, 1946 \[2007], “The Intentional Fallacy,” *Sewanee Review*, 54 (3): 468–488; reprinted in W.K. Wimsatt, Jr. (ed.), *The Verbal Icon: Studies in the Meaning of Poetry*, Lexington: University of Kentucky Press, 1954, pp. 3–18; reprinted in Cahn and Meskin (eds.) 2007, pp. 547–555.
+* –––, 1949, “The Affective Fallacy,” *Sewanee Review*, 57 (1): 31–55; reprinted in W.K. Wimsatt, Jr. (ed.), *The Verbal Icon: Studies in the Meaning of Poetry*, Lexington: University of Kentucky Press, 1954, pp. 21–40.
+* Wittgenstein, Ludwig, 1953 \[2009], *Philosophical Investigations*, G.E.M. Anscombe, P.M.S. Hacker, and Joachim Schulte (trans.), P.M.S. Hacker and Joachim Schulte (revised), Malden, MA: Wiley Blackwell.
+* –––, 1958 \[1965], *The Blue and Brown Books: Preliminary Studies for the* Philosophical Investigations, New York: Harper Perennial Modern Thought
+* Wolff, Christian, 1719 \[2003], *Metafisica Tedesca, con le Annotazione alla Metafisica Tedesca*, Raffaele Ciafardone (ed.), Milan: Bompiani; quoted translations in Guyer 2014a.
 * Wölfflin, Heinrich, 1886, “Prolegomena to a Psychology of Architecture,” Florian von Buttlar and Ken Kaiser (trans.), Ph.D. Thesis, Ludwig-Maximilians Universität München.
-* Wollheim, Richard, 1968 \[1980], _Art and Its Objects_, Cambridge: Cambridge University Press, 2nd edition.
+* Wollheim, Richard, 1968 \[1980], *Art and Its Objects*, Cambridge: Cambridge University Press, 2nd edition.
 * –––, 1980, “Are the criteria of identity of works of art aesthetically relevant?” in Wollheim 1968 \[1980], pp. 112–118.
-* –––, 1990, _Painting as an Art_, Princeton, NJ: Princeton University Press.
-* –––, 1994, “Correspondence, projective properties, and expression in the arts,” in _The Mind and Its Depths_, Cambridge, MA: Harvard University Press.
-* Wordsworth, William, 1802 \[1984], _Preface to Lyrical Ballads, with Pastoral and Other Poems_, in Stephen Gill (ed.), _The Major Works_, Oxford: Oxford University Press, pp. 595–617.
-* Zangwill, Nick, 2018, _The Metaphysics of Beauty_, Ithaca, NY: Cornell University Press.
-* –––, 1992, “UnKantian Notions of Disinterest,” _British Journal of Aesthetics_, 32 (2): 149–152.
-* Zemach, Eddy, 1997, _Real Beauty_, College Station, PA: Penn State University Press.
+* –––, 1990, *Painting as an Art*, Princeton, NJ: Princeton University Press.
+* –––, 1994, “Correspondence, projective properties, and expression in the arts,” in *The Mind and Its Depths*, Cambridge, MA: Harvard University Press.
+* Wordsworth, William, 1802 \[1984], *Preface to Lyrical Ballads, with Pastoral and Other Poems*, in Stephen Gill (ed.), *The Major Works*, Oxford: Oxford University Press, pp. 595–617.
+* Zangwill, Nick, 2018, *The Metaphysics of Beauty*, Ithaca, NY: Cornell University Press.
+* –––, 1992, “UnKantian Notions of Disinterest,” *British Journal of Aesthetics*, 32 (2): 149–152.
+* Zemach, Eddy, 1997, *Real Beauty*, College Station, PA: Penn State University Press.
 
 ## Academic Tools
 
@@ -688,9 +687,9 @@ Schelling（1800 \[1978]）对“无意识”自然和“有意识”自由人�
 
 ## Other Internet Resources
 
-* [Aesthetic Attitude](https://iep.utm.edu/aesthetic-attitude/), entry in the _Internet Encyclopedia of Philosophy_, by Alex King (Simon Fraser University).
+* [Aesthetic Attitude](https://iep.utm.edu/aesthetic-attitude/), entry in the *Internet Encyclopedia of Philosophy*, by Alex King (Simon Fraser University).
 * [Aesthetics for Birds blog](https://aestheticsforbirds.com/tag/aesthetic-experience/), list of articles related to Aesthetic Experience, also managed by Alex King.
-* [The Aesthetic Experience](https://www.britannica.com/topic/aesthetics/The-aesthetic-experience), section of an _Encyclopaedia Britannica_ article on aesthetics.
+* [The Aesthetic Experience](https://www.britannica.com/topic/aesthetics/The-aesthetic-experience), section of an *Encyclopaedia Britannica* article on aesthetics.
 * [American Society for Aesthetics](https://aesthetics-online.org/).
 * [British Society of Aesthetics](https://british-aesthetics.org/events/).
 
@@ -699,4 +698,4 @@ Schelling（1800 \[1978]）对“无意识”自然和“有意识”自由人�
 aesthetics-adorno-frankfurt | [aesthetics: 19th Century Romantic](https://plato.stanford.edu/entries/aesthetics-19th-romantic/) | [aesthetics: aesthetic judgment](https://plato.stanford.edu/entries/aesthetic-judgment/) | aesthetics: and the philosophy of art | [aesthetics: British, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-british/) | [aesthetics: French, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-french/) | [aesthetics: German, in the 18th century](https://plato.stanford.edu/entries/aesthetics-18th-german/) | [aesthetics of the everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/) | [Aristotle, General Topics: aesthetics](https://plato.stanford.edu/entries/aristotle-aesthetics/) | [art, definition of](https://plato.stanford.edu/entries/art-definition/) | [Beardsley, Monroe C.: aesthetics](https://plato.stanford.edu/entries/beardsley-aesthetics/) | [Collingwood, Robin George: aesthetics](https://plato.stanford.edu/entries/collingwood-aesthetics/) | [Croce, Benedetto: aesthetics](https://plato.stanford.edu/entries/croce-aesthetics/) | [Dewey, John: aesthetics](https://plato.stanford.edu/entries/dewey-aesthetics/) | [Gadamer, Hans-Georg: aesthetics](https://plato.stanford.edu/entries/gadamer-aesthetics/) | [Goodman, Nelson: aesthetics](https://plato.stanford.edu/entries/goodman-aesthetics/) | [Hegel, Georg Wilhelm Friedrich: aesthetics](https://plato.stanford.edu/entries/hegel-aesthetics/) | [Heidegger, Martin: aesthetics](https://plato.stanford.edu/entries/heidegger-aesthetics/) | [Hume, David: aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/) | [Japanese Philosophy: aesthetics](https://plato.stanford.edu/entries/japanese-aesthetics/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | Nietzsche, Friedrich: aesthetics | [Plato: aesthetics](https://plato.stanford.edu/entries/plato-aesthetics/) | [Schopenhauer, Arthur: aesthetics](https://plato.stanford.edu/entries/schopenhauer-aesthetics/) | [Wittgenstein, Ludwig: aesthetics](https://plato.stanford.edu/entries/wittgenstein-aesthetics/) Yoruba Philosophy: ethics and aesthetics
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Antonia Peacocke](http://antoniapeacocke.com/) <[_peacocke@stanford.edu_](mailto:peacocke%40stanford%2eedu)>
+[Antonia Peacocke](http://antoniapeacocke.com/) <[*peacocke@stanford.edu*](mailto:peacocke%40stanford%2eedu)>

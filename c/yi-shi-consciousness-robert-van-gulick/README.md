@@ -500,7 +500,6 @@ MDM 是代表性主义的，因为它从内容关系的角度分析意识。它�
 
 对意识的全面理解可能需要多种类型的理论。一个人可以有益地且不矛盾地接受多种模型，它们分别致力于解释意识的物理、神经、认知、功能、表征和高阶方面。不太可能有任何单一的理论视角足以解释我们希望理解的意识的所有特征。因此，综合和多元化的方法可能为未来的进展提供最佳途径。
 
-
 ## Bibliography
 
 * Akins, K. 1993. “A bat without qualities?” In M. Davies and G. Humphreys, eds. *Consciousness: Psychological and Philosophical Essays*. Oxford: Blackwell.

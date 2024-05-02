@@ -1,6 +1,6 @@
 # 逆因果关系 backward (Jan Faye)
 
-_首次发表于 2001 年 8 月 27 日星期一；实质性修订于 2021 年 2 月 26 日星期五_
+*首次发表于 2001 年 8 月 27 日星期一；实质性修订于 2021 年 2 月 26 日星期五*
 
 有时也被称为逆因果。我们世界的一个共同特征似乎是，在所有因果关系中，因果关系被放置在时间中，使得因在时间上先于其效应。我们对因果关系的正常理解假定了这一特征，以至于我们直觉上难以想象事物会有所不同。然而，逆因果的概念代表了这样一种观念，即因果关系的时间顺序仅仅是一种偶然特征，可能存在这样的情况：因在因果上先于其效应，但因果关系的时间顺序与正常因果关系相反，即可能存在这样的情况：效应在时间上先于其因，但在因果上并非如此。
 
@@ -24,7 +24,7 @@ _首次发表于 2001 年 8 月 27 日星期一；实质性修订于 2021 年 2 
 
 ### 2.1 时间和逆因果
 
-_Can metaphysics provide a notion of time that allows that the effect precede its cause?_ 回答这个问题，人们可能会争论，一方面，正如 Maudlin（2002 年，第 184 页）所说的，如果我们允许逆向和正向因果成为我们对世界的描述的一部分，那么“过去生成未来的形而上学图景必须被放弃，以及局部理论的数学可处理性。” 另一方面，正如 Evans（2015 年）等人所主张的，逆向因果并不是“被已知的现实结构排除在外。” 的确，Evans 的主张预设未来在本体上与过去平等，并且基本物理定律是时间对称的，这样一来，物理过程的影响在某些特殊条件下可能会向过去延伸。
+*Can metaphysics provide a notion of time that allows that the effect precede its cause?* 回答这个问题，人们可能会争论，一方面，正如 Maudlin（2002 年，第 184 页）所说的，如果我们允许逆向和正向因果成为我们对世界的描述的一部分，那么“过去生成未来的形而上学图景必须被放弃，以及局部理论的数学可处理性。” 另一方面，正如 Evans（2015 年）等人所主张的，逆向因果并不是“被已知的现实结构排除在外。” 的确，Evans 的主张预设未来在本体上与过去平等，并且基本物理定律是时间对称的，这样一来，物理过程的影响在某些特殊条件下可能会向过去延伸。
 
 适当的逆向因果观念要求未来与现在和过去一样真实。在形而上学家中，通常区分三种关于时间的不同观点。第一种是_现在论_。这种观点声称只有现在存在的事件才是真实存在的。过去或未来的事件并不存在。过去的事件已经停止存在，而未来的事件尚未变为现实。因此，只有关于现在或与现在相关的陈述才具有确定的真值。第二种观点是_可能论_，根据这种观点，过去和现在的事件都存在，但未来的事件仍然只是可能的或不存在。这种观点有时被称为_成长的块宇宙_。因此，这种观点认为只有关于过去和现在事件的陈述才具有确定的真值，但关于未来的陈述要么可能是真的，要么可能完全缺乏任何真值。最后，第三种观点被称为_永恒主义_，也被称为_块宇宙_。这种立场认为每一个过去、现在和未来的事件在某个时间上都是_无时态_存在的，因此关于这些事件的陈述在任何其他时间都具有确定的真值。
 
@@ -34,7 +34,7 @@ _Can metaphysics provide a notion of time that allows that the effect precede it
 
 ### 2.2 影响过去？
 
-_逆向因果关系是否意味着未来的原因正在改变过去的某事？_ 谈到正向因果关系，我们认为原因是产生其效应或导致其发生的事件。在我们对正向因果关系的概念中，并不包括原因改变未来的任何事情。原因决定了效应将会是什么。无论一个人是现在主义的倡导者，还是持增长区块宇宙观点或永恒主义观点，从来没有人认为原因是一个将使未来与将要发生的事情不同的事件。事实上，没有正向指向的原因，未来将会与将要发生的事情不同。
+*逆向因果关系是否意味着未来的原因正在改变过去的某事？* 谈到正向因果关系，我们认为原因是产生其效应或导致其发生的事件。在我们对正向因果关系的概念中，并不包括原因改变未来的任何事情。原因决定了效应将会是什么。无论一个人是现在主义的倡导者，还是持增长区块宇宙观点或永恒主义观点，从来没有人认为原因是一个将使未来与将要发生的事情不同的事件。事实上，没有正向指向的原因，未来将会与将要发生的事情不同。
 
 即使大多数主角认为，如果一致的话，反向因果的概念涉及未经证实的后果，即未来能够改变过去的想法。因此，他们的答案通常是，如果我们有能力在过去引发某事，那么当过去存在时，已经发生的事实实际上已经存在。我们必须区分改变过去使其与过去不同和影响过去使其成为过去的区别。一个连贯的反向因果概念只需要未来能够对过去发生的事情产生影响。尽管如此，我们可以说，与正向因果相当，如果反向导向的原因没有使过去成为现在的样子，过去将会有所不同。
 
@@ -58,7 +58,7 @@ _因果模型_能否被区分出来，以至于这种区分不依赖于事件的
 
 ### 2.4 欺诈论证
 
-_欺诈论证是否可以挑战，以至于干预的可能性并不会产生任何严重的悖论？_ 欺诈论证是由马克斯·布莱克（1956 年）提出的，他假设了以下情景。假设胡迪尼对即将翻转的硬币的结果做出预测 B ，然后有人进行翻转 A。我们还可以假设，在过去，胡迪尼的预测很少失败。在这种情况下，我们可能会倾向于说，胡迪尼的答案是由后来的翻转引起的。但是，正如布莱克所认为的那样，在胡迪尼对 B 的预测之后，我们总是可以干预，使硬币不被翻转或者安排成与胡迪尼的预测相反。这意味着 A 似乎既是 B 的原因，又不是 B 的原因。布莱克还认为，如果 A 是 B 的原因，那么 A 的因果前提与 B 是独立的。因此，如果在 B 发生后，我们无法阻止 A 发生，那么就不能说 A 在因果上独立于 B。但由于人类有能力对 A 进行干预，布莱克得出结论， A 不能是 B 的原因。
+*欺诈论证是否可以挑战，以至于干预的可能性并不会产生任何严重的悖论？* 欺诈论证是由马克斯·布莱克（1956 年）提出的，他假设了以下情景。假设胡迪尼对即将翻转的硬币的结果做出预测 B ，然后有人进行翻转 A。我们还可以假设，在过去，胡迪尼的预测很少失败。在这种情况下，我们可能会倾向于说，胡迪尼的答案是由后来的翻转引起的。但是，正如布莱克所认为的那样，在胡迪尼对 B 的预测之后，我们总是可以干预，使硬币不被翻转或者安排成与胡迪尼的预测相反。这意味着 A 似乎既是 B 的原因，又不是 B 的原因。布莱克还认为，如果 A 是 B 的原因，那么 A 的因果前提与 B 是独立的。因此，如果在 B 发生后，我们无法阻止 A 发生，那么就不能说 A 在因果上独立于 B。但由于人类有能力对 A 进行干预，布莱克得出结论， A 不能是 B 的原因。
 
 由于操纵和干预对我们对因果关系的认识如此重要，所以在所谓的效应发生之后干预因果关系的过程的能力形象似乎违反了反向因果关系概念的整体思想。然而，欺诈论的力量似乎可以通过各种方式削弱。
 
@@ -86,9 +86,9 @@ _欺诈论证是否可以挑战，以至于干预的可能性并不会产生任�
 
 ### 2.5 自由意志
 
-_逆向谨慎是否意味着宿命论？_ 反向因果关系经常被提出的一个反对意见是，如果永恒主义和逆向因果关系是可能的，那么未来已经确定。如果现在已经确定了未来将会发生什么，那么一个行动者将做什么就无关紧要，因为未来的一切都已经确定和完成。一个行动者无法做出与未来确定的不同的选择。尽管这一论点似乎非常有吸引力，但在更仔细的审查下可能并不成立。
+*逆向谨慎是否意味着宿命论？* 反向因果关系经常被提出的一个反对意见是，如果永恒主义和逆向因果关系是可能的，那么未来已经确定。如果现在已经确定了未来将会发生什么，那么一个行动者将做什么就无关紧要，因为未来的一切都已经确定和完成。一个行动者无法做出与未来确定的不同的选择。尽管这一论点似乎非常有吸引力，但在更仔细的审查下可能并不成立。
 
-作为一个永恒主义者，一个人可以区分一个_确定的_未来和一个_决定的_未来。在文献中，这对概念也有不同的名称。有时_决定论_被称为_物理决定论_、_因果决定论_或_法定决定论_，而_确定性_则被称为_逻辑决定论_、_时间决定论_或_块状决定论_。如果一个现在的事件在因果上或法定上足以导致未来事件发生，那么未来事件现在就是确定的。相反，如果一个未来事件相对于现在是确定的，那么只有当这个事件在未来的某个时间点发生时，它才是确定的。因此，永恒主义者会说，一个人明天是否去看父母仍然取决于她是否有选择，因为没有任何现在的事件在因果上决定了她明天的选择。然而，她的选择仍然是确定的，因此今天就可以确定她明天会做什么。
+作为一个永恒主义者，一个人可以区分一个_确定的_未来和一个_决定的_未来。在文献中，这对概念也有不同的名称。有时_决定论_被称为_物理决定论_、*因果决定论_或_法定决定论*，而_确定性_则被称为_逻辑决定论_、*时间决定论_或_块状决定论*。如果一个现在的事件在因果上或法定上足以导致未来事件发生，那么未来事件现在就是确定的。相反，如果一个未来事件相对于现在是确定的，那么只有当这个事件在未来的某个时间点发生时，它才是确定的。因此，永恒主义者会说，一个人明天是否去看父母仍然取决于她是否有选择，因为没有任何现在的事件在因果上决定了她明天的选择。然而，她的选择仍然是确定的，因此今天就可以确定她明天会做什么。
 
 关于自由意志的讨论有着悠久的历史，这个讨论的绝大部分都致力于一个问题，即如果世界完全受决定性法则支配，那么谈论自由意志是否有意义？实际上，这个讨论的结果在很大程度上取决于我们如何理解自由意志的概念。通常，自由意志的概念与一个人是否本可做出不同选择有关。一些哲学家，即兼容主义者，认为只要一个人不受任何外部或内部力量的影响，那么这个个体就可以自由地做任何他或她想做的事情。但是兼容主义者必须忽略以下_后果论_的一部分。
 
@@ -199,7 +199,7 @@ P(A∣B)=P(A\&B)P(B)=7/8P(A∣∼B)=P(A&∼B)P(∼B)=1/2P(B∣A)=P(A\&B)P(A)=7/8
 
 反向因果的概念提出了一组非常不同的问题，需要在物理上充分发展的概念之前得到解答。
 
-1. _在物理术语中，如果有的话，什么特征会表征逆因果？_
+1. *在物理术语中，如果有的话，什么特征会表征逆因果？*
 
 必须记住，因果关系本身是一个日常概念，在物理学中没有自然的应用。我们如何在物理上识别逆因果过程，在很大程度上取决于我们将我们对因果关系的普通概念应用于物理过程的哪个特征。在物理学中，我们可能会倾向于将其与不同的物理过程概念相关联。已经提出了四个建议：(a) 因果联系可以被确定为能量的传递；(b) 它可以被确定为物理量的守恒，如电荷、线性动量和角动量；(c) 它可以被确定为力的相互作用；或者(d) 它可以被确定为微观相互作用的概念。然而，对于所有四个建议，似乎所涉及的描述在时间逆转操作下是不变的。
 
@@ -245,7 +245,7 @@ Phillippe Eberhard 和 Ronald R. Roos（1989）建立了一个定理，该定理
 
 Costa de Beauregard（1977, 1979）例如，建议当两个光子处于纠缠态的系统被两个观察者在两个被空间隔离的区域测量时，正是观察的行为产生了测量过程的过去，因为它影响了发射这两个光子的源。 de Beauregard 的想法是，在 EPR 悖论的阐述中揭示的现实要素之所以真实，是因为它是由实际执行的观察行为创造的，这种行为是通过其中一个与测量设备到光子源的两个相关量子物体之一向时间的倒退传播而产生的。
 
-一些物理学家，如 Elitzur _et al._ （2016），提出了一种支持这种时间对称量子力学解释的太迟选择实验形式，根据这种解释，逆因果关系起着重要作用。在正常的 EPR 实验中，每次测量都确定了，比如说，纠缠态下两个分离的电子的自旋值沿着设备的某个方向。结果证明，一个电子的自旋值受到了远程实验者对另一个电子自旋方向选择的影响。然而，Elitzur _et al._ 现在想象的是一个相反的设置，其中选择的自旋值决定了相应的方向。根据他们的分析，他们得出结论：“结果表明，方向同样受到非局部效应的影响\[如自旋值]。”
+一些物理学家，如 Elitzur *et al.* （2016），提出了一种支持这种时间对称量子力学解释的太迟选择实验形式，根据这种解释，逆因果关系起着重要作用。在正常的 EPR 实验中，每次测量都确定了，比如说，纠缠态下两个分离的电子的自旋值沿着设备的某个方向。结果证明，一个电子的自旋值受到了远程实验者对另一个电子自旋方向选择的影响。然而，Elitzur *et al.* 现在想象的是一个相反的设置，其中选择的自旋值决定了相应的方向。根据他们的分析，他们得出结论：“结果表明，方向同样受到非局部效应的影响\[如自旋值]。”
 
 一些其他哲学家和物理学家提出了类似的观点。Aharonov 和 Vaidman（1997）提出了一种量子力学的双矢量方法，“在这种方法中，一个量子系统在某个特定时间由两个（而不是一个）量子态描述：一个是通常的向未来演化，另一个是从未来测量向过去演化。”此外，Cramer 的量子力学交易解释涉及到第二波向过去传播的概念（Cramer，1986）。它们背后的基本假设是，在微观世界中我们只发现因果对称性，这一事实连同适当的边界条件可以用来解释那些看似矛盾的结果。然而，这种量子相关实验可以用许多其他方式来解释。最终似乎一切取决于一个假设，即贝尔实验是违反了局部性条件还是可分离性条件。只有当人们认为是违反了局部性条件才需要一种时间对称的量子力学解释，以避免与相对论理论相冲突。
 
@@ -253,7 +253,7 @@ Costa de Beauregard（1977, 1979）例如，建议当两个光子处于纠缠态
 
 这些所谓的逆因果的例子有一个共同点。它们都基于这样一个观念，即基本物理过程本身在性质上是对称的。我们对因果的普通概念并未追踪世界的任何法则特征。什么算是因，什么算是果取决于观察者将自己的时间感投射到世界上。因此，一个连贯的逆因果概念如何融入这种对自然的一般理解仍然是一个悬而未决的问题。因此，我们需要回答的问题是：
 
-2. _如果根据我们对自然的描述，所有基本物理过程都是时间对称的，我们如何区分正向因果和逆向因果？_
+2. *如果根据我们对自然的描述，所有基本物理过程都是时间对称的，我们如何区分正向因果和逆向因果？*
 
 两种对这个问题的非常不同的反应似乎是可能的。
 
@@ -285,74 +285,74 @@ Costa de Beauregard（1977, 1979）例如，建议当两个光子处于纠缠态
 
 ## Bibliography
 
-* Aharonov, Y. and L. Vaidman, 1997, “Protective measurements of two-state vectors”, in Cohen, R.S., Horne, M., & Stachel, J. (eds.), _Potentiality, Entanglement and Passion-at-a-Distance: Quantum Mechanical Studies for Abner Shimony_, (Volume 2), Dordrecht: Springer, pp. 1–8.
-* Arons, M.E. and E.C.G. Sudarshan, 1968, “Lorentz Invariance, Local Field Theory and Faster-than-Light Particles”, _Physical Review_, 173(5): 1622–1628.
-* Baker, S., 2003, “Counterfactual Analyses of Causation: The Problems of Effects and Epiphenomena Revisited”, _Noûs_, 37(1): 133–150.
-* Bennett, J., 1974, “Counterfactuals and Possible Worlds”, _Canadian Journal of Philosophy_, 4: 381–402.
-* Bilaniuk, O.M.P, V.K. Deshpande, and E.C.G. Sudarshan, 1962, “’Meta’ Relativity”, _American Journal of Physics_, 30(2): 718–723.
-* Bilaniuk, O.M.P. _et al._, 1969, “More About Tachyons”, _Physics Today_, 22(12): 47–51.
-* Bilaniuk, O.M.P. and E.C.G. Sudarshan, 1969, “Particles beyond the light barrier”, _Physics Today_, 22(5): 43–51.
-* Black, M., 1956, “Why Cannot an Effect Precede its Cause”, _Analysis_, 16: 49–58.
-* Choi, S., 2007, “Causation and Counterfactual Dependence”, _Erkenntnis_, 76(1): 1–16.
-* Cramer, J., 1986, “The transactional interpretation of quantum mechanics”. _Review of Modern Physics_, 58(July), 647–688.
-* Csonka, P.L., 1970, “Causality and Faster than Light Particles”, _Nuclear Physics_, B21: 436–444.
-* Curry, R., 2015, “Retrocausal Models of EPR”, _Studies in History and Philosophy of Science. Part B: Studies in History and Philosophy of Modern Physics._, 49: 1–9.
-* de Beauregard, C., 1977, “Time Symmetry and the Einstein Paradox”, _Il Nuovo Cimento_, 42B: 41–64.
-* –––, 1979, “Time Symmetry and the Einstein Paradox–II”, _Il Nuovo Cimento_, 51B: 267–279.
-* Dorato, M., 1995, _Time and Reality: Space-Time Physics and the Objectivity of Temporal Becoming_, Bologna: CLUEB.
-* Dummett, M., 1954, “Can an Effect Precede its Cause”, _Proceedings of the Aristotelian Society_, 28(Supplement): 27–44.
-* –––, 1964, “Bringing about the Past”, _Philosophical Review_, 73: 338–359.
-* Earman, J., 1967a, “On going Backward in Time”, _Philosophy of Science_, 34: 211–222.
-* –––, 1967b, “Irreversibility and Temporal Asymmetry”, _The Journal of Philosophy_, 47: 543–549.
-* –––, 1969, “The Anisotropy of Time”, _Australasian Journal of Philosophy_, 47: 273–295.
-* –––, 1976, “Causation: A Matter of Life and Death”, _The Journal of Philosophy_, 73: 5–25.
-* Eberhard, P.H. and R.R. Ross, 1989, “Quantum Field Theory cannot provide Faster-than-Light-Communication”, _The Foundation of Physical Letters_, 2: 127–149.
-* Elitzur, A.C., E. Cohen, and T. Shushi, 2016, “The too-late-choice experiment: Bell’s proof within a setting where the nonlocal effect’s target is an earlier event”, _International Journal of Quantum Foundation_ 2: 32–46.
-* Ellerman, D., 2015, “Why delayed choice experiments do Not imply retrocausality”, _Quantum Studies: Mathematics and Foundations_, 2: 183–199.
-* Evans, P.W., 2015, “Retrocausality at no cost”, _Synthese_, 192: 1139–1155.
-* Faye, J., 1981/1989, _The reality of the future_, Odense: Odense University Press.
-* –––, 1994, “Causal Beliefs and their Justification”, in J. Faye, U. Scheffler & M. Urchs (eds.), _Logic and Causal Reasoning_, Berlin: Akademie Verlag, pp. 141–168.
-* –––, 1997, “Causation, Reversibility, and the Direction of Time”, in J. Faye, U. Scheffler & M. Urchs (eds.), _Perspectives on Time_ (Boston Studies in the Philosophy of Science: Volume 189), Dordrecht: Kluwer, pp. 237–266.
-* –––, 2002, “When Time Gets Off Track”, in C. Callender (ed.) _Time, Reality, and Experience_, Cambridge: Cambridge University Press.
-* Feinberg, G., 1967) “Possibility of Faster-Than-Light Particles”, _Physical Review_, 159(5): 1089–1105.
-* Feynman, R.P., 1949, “The Theory of Positrons”, _Physical Review_, 76: 749–459.
-* Flew, A., 1954, “Can an Effect Precede its Cause”, _Proceedings of the Aristotelian Society_, 28(Supplement): 45–62.
-* –––, 1956, “Effects before their Causes—Addenda and Corrigenda”, _Analysis_, 16: 104–10.
-* –––, 1956–7, “Causal Disorder Again”, _Analysis_, 17: 81–86.
-* Gale, R., 1965, “Why a Cause Cannot be Later than its Effects”, _Review of Metaphysics_, 19: 209–234.
-* Gallios, A., 1979, “How not to make a Newcomb Choice”, _Analysis_, 39(1): 49–53.
-* Garrett, B., 2020, “Max Black and Backwards Causation”, _Argumenta_, 1–5. doi:10.14275/2465-2334/20200.gar
-* Gorovitz, G., 1964, “Leaving the Past Alone”, _Philosophical Review_, 73: 360–371.
-* Grünbaum, A., 1963, _Philosophical Problems of Space and Time_, New York: A.A. Knopf; 2nd expanded edition, 1973, published in _Boston Studies in Philosophy of Science_.
-* –––, 1967, _Modern Science and Zeno’s Paradoxes_, Middletown: Wesleyan University Press.
-* Gärdenfors, P., 2006, _How Homo Became Sapiens_, Oxford: Oxford University Press.
-* Horwich, P., 1987, _Asymmetries in Time_, Cambridge, MA: MIT Press.
-* –––, 1993, “Lewis’s programme”, in E. Sosa & M. Tooley (eds.), _Causation_, New York: Oxford University Press, pp. 208–216.
-* Howard, D., 1989, “Holism, Separability, and the Metaphysical Implication of Bell Experiments”, in J. Cushing and E. McMullin (eds.), _Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem_, Notre Dame: The University of Notre Dame Press.
-* Hume, D., 1748 \[2007], _An Enquiry concerning Human Understanding_, edited with an introduction and notes by Peter Millican, Oxford: Oxford University Press.
-* Kim, Y-H. _et al._, 2000, “A Delayed Choice Quantum Eraser”, _Physical Review Letters_, 84: 1–5.
-* Lewis, D.K., 1973, “Causation”, _Journal of Philosophy_, 70: 556–567.
-* –––, 1976, “The Paradoxes of Time Travel”,_American Philosophical Quarterly_, 13: 145–152.
-* –––, 2000, “Causation as Influence”, _Journal of Philosophy_, 97: 182–197.
-* Locke, D., 1978, “How to make a Newcomb Choice”, _Analysis_, 38(1): 17–23.
-* –––, 1979, “Causation, Compatibilism and Newcomb’s Problem”, _Analysis_, 39(4): 210–211.
-* Maudlin, J., 2002, _Quantum Non-locality and Relativity_, Oxford: Blackwell Publishing.
-* Mellor, D.H., 1981, _Real Time_, Cambridge: Cambridge University Press.
-* –––, 1991, “Causation and the Direction of Time”, _Erkenntnis_, 35: 191–203.
-* Nozick, R., 1969, “Newcomb’s Problem and Two Principles of Choice”, in R. Rescher _et al._ (eds.) _Essays in Honor of Carl. F. Hempel_, Dordrecht: Reidel, pp. 114–146.
-* Price, H., 1996, _Time’s Arrow and Archimedes’ Point_, Oxford: Oxford University Press.
-* –––, 2012, “Does time-symmetry imply retrocausality? How the quantum world says ‘Maybe’?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 43 (2): 75–83.
-* Recami, E., 1978, “How to Recover Causality in Special Relativity for Tachyons”, _Foundations of Physics_, 8: 329–340.
-* Reichenbach, H., 1956, _The Direction of Time_, Berkeley: University of California Press.
-* –––, 1928 \[1958], _The Philosophy of Space and Time_, New York: Dover, 1958, translated by Maria Reichenbach and John Freund, from his 1928 _Philosophie der Raum-Zeit-Lehre_.
-* Schlesinger, G., 1974, “The Unpredictability of Free Choices”, _British Journal for the Philosophy of Science_, 25(3): 209–221.
-* –––, 1980, _Aspects of Time_, Indianapolis: Hackett.
-* Seli, G., 2020, “A Troublesome Case of Backward Causation for Lewis’s Counterfactual Theory”, _Analytic Philosophy_, 1–20. doi:10.1111/phib.12186
-* Tanaka, S., 1960, “Theory of Matter with Super Light Velocity”, _Progress of Theoretical Physics_, 24(1): 171–200.
-* Wasserman, R., 2015, “Lewis on Backward Causation”, _Thought_, 4: 141–151.
-* Wharton, K., 2018, “A New Class of Retrocausal Models”, _Entropy_, 20(6): 410; doi:10.3390/e20000410
-* Wheeler, J.A. and R.P. Feynman, 1945, “Interaction with the Absorber as the Mechanism of Radiation”, _Reviews of Modern Physics_, 17: 157–181.
-* Woodward, J., 2003, _Making Things Happen: A Theory of Causal Explanation_, New York: Oxford University Press.
+* Aharonov, Y. and L. Vaidman, 1997, “Protective measurements of two-state vectors”, in Cohen, R.S., Horne, M., & Stachel, J. (eds.), *Potentiality, Entanglement and Passion-at-a-Distance: Quantum Mechanical Studies for Abner Shimony*, (Volume 2), Dordrecht: Springer, pp. 1–8.
+* Arons, M.E. and E.C.G. Sudarshan, 1968, “Lorentz Invariance, Local Field Theory and Faster-than-Light Particles”, *Physical Review*, 173(5): 1622–1628.
+* Baker, S., 2003, “Counterfactual Analyses of Causation: The Problems of Effects and Epiphenomena Revisited”, *Noûs*, 37(1): 133–150.
+* Bennett, J., 1974, “Counterfactuals and Possible Worlds”, *Canadian Journal of Philosophy*, 4: 381–402.
+* Bilaniuk, O.M.P, V.K. Deshpande, and E.C.G. Sudarshan, 1962, “’Meta’ Relativity”, *American Journal of Physics*, 30(2): 718–723.
+* Bilaniuk, O.M.P. *et al.*, 1969, “More About Tachyons”, *Physics Today*, 22(12): 47–51.
+* Bilaniuk, O.M.P. and E.C.G. Sudarshan, 1969, “Particles beyond the light barrier”, *Physics Today*, 22(5): 43–51.
+* Black, M., 1956, “Why Cannot an Effect Precede its Cause”, *Analysis*, 16: 49–58.
+* Choi, S., 2007, “Causation and Counterfactual Dependence”, *Erkenntnis*, 76(1): 1–16.
+* Cramer, J., 1986, “The transactional interpretation of quantum mechanics”. *Review of Modern Physics*, 58(July), 647–688.
+* Csonka, P.L., 1970, “Causality and Faster than Light Particles”, *Nuclear Physics*, B21: 436–444.
+* Curry, R., 2015, “Retrocausal Models of EPR”, *Studies in History and Philosophy of Science. Part B: Studies in History and Philosophy of Modern Physics.*, 49: 1–9.
+* de Beauregard, C., 1977, “Time Symmetry and the Einstein Paradox”, *Il Nuovo Cimento*, 42B: 41–64.
+* –––, 1979, “Time Symmetry and the Einstein Paradox–II”, *Il Nuovo Cimento*, 51B: 267–279.
+* Dorato, M., 1995, *Time and Reality: Space-Time Physics and the Objectivity of Temporal Becoming*, Bologna: CLUEB.
+* Dummett, M., 1954, “Can an Effect Precede its Cause”, *Proceedings of the Aristotelian Society*, 28(Supplement): 27–44.
+* –––, 1964, “Bringing about the Past”, *Philosophical Review*, 73: 338–359.
+* Earman, J., 1967a, “On going Backward in Time”, *Philosophy of Science*, 34: 211–222.
+* –––, 1967b, “Irreversibility and Temporal Asymmetry”, *The Journal of Philosophy*, 47: 543–549.
+* –––, 1969, “The Anisotropy of Time”, *Australasian Journal of Philosophy*, 47: 273–295.
+* –––, 1976, “Causation: A Matter of Life and Death”, *The Journal of Philosophy*, 73: 5–25.
+* Eberhard, P.H. and R.R. Ross, 1989, “Quantum Field Theory cannot provide Faster-than-Light-Communication”, *The Foundation of Physical Letters*, 2: 127–149.
+* Elitzur, A.C., E. Cohen, and T. Shushi, 2016, “The too-late-choice experiment: Bell’s proof within a setting where the nonlocal effect’s target is an earlier event”, *International Journal of Quantum Foundation* 2: 32–46.
+* Ellerman, D., 2015, “Why delayed choice experiments do Not imply retrocausality”, *Quantum Studies: Mathematics and Foundations*, 2: 183–199.
+* Evans, P.W., 2015, “Retrocausality at no cost”, *Synthese*, 192: 1139–1155.
+* Faye, J., 1981/1989, *The reality of the future*, Odense: Odense University Press.
+* –––, 1994, “Causal Beliefs and their Justification”, in J. Faye, U. Scheffler & M. Urchs (eds.), *Logic and Causal Reasoning*, Berlin: Akademie Verlag, pp. 141–168.
+* –––, 1997, “Causation, Reversibility, and the Direction of Time”, in J. Faye, U. Scheffler & M. Urchs (eds.), *Perspectives on Time* (Boston Studies in the Philosophy of Science: Volume 189), Dordrecht: Kluwer, pp. 237–266.
+* –––, 2002, “When Time Gets Off Track”, in C. Callender (ed.) *Time, Reality, and Experience*, Cambridge: Cambridge University Press.
+* Feinberg, G., 1967) “Possibility of Faster-Than-Light Particles”, *Physical Review*, 159(5): 1089–1105.
+* Feynman, R.P., 1949, “The Theory of Positrons”, *Physical Review*, 76: 749–459.
+* Flew, A., 1954, “Can an Effect Precede its Cause”, *Proceedings of the Aristotelian Society*, 28(Supplement): 45–62.
+* –––, 1956, “Effects before their Causes—Addenda and Corrigenda”, *Analysis*, 16: 104–10.
+* –––, 1956–7, “Causal Disorder Again”, *Analysis*, 17: 81–86.
+* Gale, R., 1965, “Why a Cause Cannot be Later than its Effects”, *Review of Metaphysics*, 19: 209–234.
+* Gallios, A., 1979, “How not to make a Newcomb Choice”, *Analysis*, 39(1): 49–53.
+* Garrett, B., 2020, “Max Black and Backwards Causation”, *Argumenta*, 1–5. doi:10.14275/2465-2334/20200.gar
+* Gorovitz, G., 1964, “Leaving the Past Alone”, *Philosophical Review*, 73: 360–371.
+* Grünbaum, A., 1963, *Philosophical Problems of Space and Time*, New York: A.A. Knopf; 2nd expanded edition, 1973, published in *Boston Studies in Philosophy of Science*.
+* –––, 1967, *Modern Science and Zeno’s Paradoxes*, Middletown: Wesleyan University Press.
+* Gärdenfors, P., 2006, *How Homo Became Sapiens*, Oxford: Oxford University Press.
+* Horwich, P., 1987, *Asymmetries in Time*, Cambridge, MA: MIT Press.
+* –––, 1993, “Lewis’s programme”, in E. Sosa & M. Tooley (eds.), *Causation*, New York: Oxford University Press, pp. 208–216.
+* Howard, D., 1989, “Holism, Separability, and the Metaphysical Implication of Bell Experiments”, in J. Cushing and E. McMullin (eds.), *Philosophical Consequences of Quantum Theory: Reflections on Bell’s Theorem*, Notre Dame: The University of Notre Dame Press.
+* Hume, D., 1748 \[2007], *An Enquiry concerning Human Understanding*, edited with an introduction and notes by Peter Millican, Oxford: Oxford University Press.
+* Kim, Y-H. *et al.*, 2000, “A Delayed Choice Quantum Eraser”, *Physical Review Letters*, 84: 1–5.
+* Lewis, D.K., 1973, “Causation”, *Journal of Philosophy*, 70: 556–567.
+* –––, 1976, “The Paradoxes of Time Travel”,*American Philosophical Quarterly*, 13: 145–152.
+* –––, 2000, “Causation as Influence”, *Journal of Philosophy*, 97: 182–197.
+* Locke, D., 1978, “How to make a Newcomb Choice”, *Analysis*, 38(1): 17–23.
+* –––, 1979, “Causation, Compatibilism and Newcomb’s Problem”, *Analysis*, 39(4): 210–211.
+* Maudlin, J., 2002, *Quantum Non-locality and Relativity*, Oxford: Blackwell Publishing.
+* Mellor, D.H., 1981, *Real Time*, Cambridge: Cambridge University Press.
+* –––, 1991, “Causation and the Direction of Time”, *Erkenntnis*, 35: 191–203.
+* Nozick, R., 1969, “Newcomb’s Problem and Two Principles of Choice”, in R. Rescher *et al.* (eds.) *Essays in Honor of Carl. F. Hempel*, Dordrecht: Reidel, pp. 114–146.
+* Price, H., 1996, *Time’s Arrow and Archimedes’ Point*, Oxford: Oxford University Press.
+* –––, 2012, “Does time-symmetry imply retrocausality? How the quantum world says ‘Maybe’?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 43 (2): 75–83.
+* Recami, E., 1978, “How to Recover Causality in Special Relativity for Tachyons”, *Foundations of Physics*, 8: 329–340.
+* Reichenbach, H., 1956, *The Direction of Time*, Berkeley: University of California Press.
+* –––, 1928 \[1958], *The Philosophy of Space and Time*, New York: Dover, 1958, translated by Maria Reichenbach and John Freund, from his 1928 *Philosophie der Raum-Zeit-Lehre*.
+* Schlesinger, G., 1974, “The Unpredictability of Free Choices”, *British Journal for the Philosophy of Science*, 25(3): 209–221.
+* –––, 1980, *Aspects of Time*, Indianapolis: Hackett.
+* Seli, G., 2020, “A Troublesome Case of Backward Causation for Lewis’s Counterfactual Theory”, *Analytic Philosophy*, 1–20. doi:10.1111/phib.12186
+* Tanaka, S., 1960, “Theory of Matter with Super Light Velocity”, *Progress of Theoretical Physics*, 24(1): 171–200.
+* Wasserman, R., 2015, “Lewis on Backward Causation”, *Thought*, 4: 141–151.
+* Wharton, K., 2018, “A New Class of Retrocausal Models”, *Entropy*, 20(6): 410; doi:10.3390/e20000410
+* Wheeler, J.A. and R.P. Feynman, 1945, “Interaction with the Absorber as the Mechanism of Radiation”, *Reviews of Modern Physics*, 17: 157–181.
+* Woodward, J., 2003, *Making Things Happen: A Theory of Causal Explanation*, New York: Oxford University Press.
 
 ## Academic Tools
 
@@ -364,7 +364,7 @@ Costa de Beauregard（1977, 1979）例如，建议当两个光子处于纠缠态
 
 ## Other Internet Resources
 
-* Greenberger, D.M. & Svozil, K., 2005, “[Quantum Theory Looks at Time Travel](http://arxiv.org/pdf/quant-ph/0506027)”, preprint at arXiv.org. This paper contains minor changes to the Greenberger and Svozil paper published as Chapter 4 of _Quo Vadis Quantum Mechanics?_, ed. by A. Elitzur, S. Dolev and N. Kolenda, Berlin: Springer Verlag, 2005. It is an expanded version of D.M. Greenberger and K. Svozil, in _Between Chance and Choice_, ed. by H. Atmanspacher and R. Bishop, Thorverton England: Imprint Academic, 2002, pp. 293–308.
+* Greenberger, D.M. & Svozil, K., 2005, “[Quantum Theory Looks at Time Travel](http://arxiv.org/pdf/quant-ph/0506027)”, preprint at arXiv.org. This paper contains minor changes to the Greenberger and Svozil paper published as Chapter 4 of *Quo Vadis Quantum Mechanics?*, ed. by A. Elitzur, S. Dolev and N. Kolenda, Berlin: Springer Verlag, 2005. It is an expanded version of D.M. Greenberger and K. Svozil, in *Between Chance and Choice*, ed. by H. Atmanspacher and R. Bishop, Thorverton England: Imprint Academic, 2002, pp. 293–308.
 
 ## Related Entries
 
@@ -375,4 +375,4 @@ Costa de Beauregard（1977, 1979）例如，建议当两个光子处于纠缠态
 Thanks to John Norton for his editorial suggestions and for his drawing of Figure 1.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Jan Faye <[_faye@hum.ku.dk_](mailto:faye%40hum%2eku%2edk)>
+Jan Faye <[*faye@hum.ku.dk*](mailto:faye%40hum%2eku%2edk)>

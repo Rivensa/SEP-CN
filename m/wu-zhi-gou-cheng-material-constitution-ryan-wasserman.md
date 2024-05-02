@@ -1,12 +1,11 @@
 # 物质构成 material constitution (Ryan Wasserman)
 
-_首次发表于2009年2月25日，实质修订于2021年9月9日。_
+*首次发表于2009年2月25日，实质修订于2021年9月9日。*
 
 一个泥塑像和它所形成的泥块之间的关系是什么？我们可以说泥块构成了泥塑像，但是这种物质构成的关系是什么？有人坚持认为构成就是同一性，理由是不同的物质对象不能同时占据同一个位置。其他人则认为构成不是同一性，因为泥塑像和泥块在重要方面存在差异。还有一些人认为这样的情况可以激发对持续性、同一性或存在性的修正观点。
 
 本文介绍了物质构成的一些最重要的难题，并评估了一些最流行的回答。
 
- 
 ***
 
 ## 1. 物质构成之谜
@@ -102,7 +101,7 @@ Van Inwagen的消除论版本受到了对虚无主义提出的相同反对意见
 
 在前一节中，我们考察了抵制我们原始论证的第一个前提的各种方式——即大卫在星期一不存在的主张。现在让我们转向第二个前提：Lump在星期一存在。像乌格尔和范因瓦根这样的消除论者会拒绝这个前提，因为他们否认存在像Lump这样的对象。但也有其他解释拒绝这个前提。其中一种理论是迈克尔·伯克（1994年，1997a年，1997b年）所捍卫的主导种类观点。
 
-伯克从一个假设开始，即星期二存在一个单一的物体。暂时称这个物体为“雷克斯”。伯克假设雷克斯既是一块黏土又是一座雕像。这是一个完全自然的假设，但也存在问题。正如我们所见，种类与不同的持续条件相关联。例如，与雕像这种种类不同，黏土这种种类与能够经受挤压的属性相关联。现在考虑以下原则：对于任何物体o和种类K，如果o是K，则o具有与K相关联的持续条件。（伯克1994年，第598页）如果这个原则是正确的，那么我们就有了一个问题。雷克斯既是一块黏土又是一座雕像，所以这个原则告诉我们它既能够经受挤压，又不能。伯克得出结论，这个提出的原则是错误的——一个物体可以是K，而没有与该种类相关联的持续条件。特别是，伯克声称雷克斯既是一座雕像又是一块黏土，但它只具有其中一种种类的持续条件。哪一种？伯克回答说，一般来说，一个物体具有与其主导种类相关联的持续条件。什么是主导种类？伯克回答说，一般来说，一个物体的主导种类是“涵盖最广泛的属性”的种类（伯克1994年，第607页）。例如，如果某物是一块黏土，那么它必须具有某些物理属性。另一方面，如果某物是一座雕像，那么它必须具有物理和审美属性。从这个意义上说，雕像涵盖的属性范围比黏土更广泛。因此，雕像主导黏土。因此，雷克斯具有与种类雕像相关联的持续条件。换句话说，雷克斯就是大卫。那么黏土呢？在原始故事中，名字“黏土”是为了星期一存在的黏土而引入的。 在那个时候，没有雕像，所以 Lump 的主导种类只是一块黏土。现在让我们为存在于星期二的黏土块引入名字'Lump _'。存在于星期二的黏土块也是一个雕像（Lump_是大卫，即 Rex），所以 Lump_的主导种类是雕像。因此，Lump ≠ Lump_。根据伯克的观点，将一块黏土雕刻成雕像的过程会摧毁一个物体（仅仅是一块黏土）并用另一个物体（雕像）替代它。结果得到的雕像也是一块黏土，但与我们开始时的黏土块在数值上是不同的。伯克得出结论，Lump 存在于星期一，但在星期二不存在。因此，原始论证的第二个前提是错误的。
+伯克从一个假设开始，即星期二存在一个单一的物体。暂时称这个物体为“雷克斯”。伯克假设雷克斯既是一块黏土又是一座雕像。这是一个完全自然的假设，但也存在问题。正如我们所见，种类与不同的持续条件相关联。例如，与雕像这种种类不同，黏土这种种类与能够经受挤压的属性相关联。现在考虑以下原则：对于任何物体o和种类K，如果o是K，则o具有与K相关联的持续条件。（伯克1994年，第598页）如果这个原则是正确的，那么我们就有了一个问题。雷克斯既是一块黏土又是一座雕像，所以这个原则告诉我们它既能够经受挤压，又不能。伯克得出结论，这个提出的原则是错误的——一个物体可以是K，而没有与该种类相关联的持续条件。特别是，伯克声称雷克斯既是一座雕像又是一块黏土，但它只具有其中一种种类的持续条件。哪一种？伯克回答说，一般来说，一个物体具有与其主导种类相关联的持续条件。什么是主导种类？伯克回答说，一般来说，一个物体的主导种类是“涵盖最广泛的属性”的种类（伯克1994年，第607页）。例如，如果某物是一块黏土，那么它必须具有某些物理属性。另一方面，如果某物是一座雕像，那么它必须具有物理和审美属性。从这个意义上说，雕像涵盖的属性范围比黏土更广泛。因此，雕像主导黏土。因此，雷克斯具有与种类雕像相关联的持续条件。换句话说，雷克斯就是大卫。那么黏土呢？在原始故事中，名字“黏土”是为了星期一存在的黏土而引入的。 在那个时候，没有雕像，所以 Lump 的主导种类只是一块黏土。现在让我们为存在于星期二的黏土块引入名字'Lump *'。存在于星期二的黏土块也是一个雕像（Lump_是大卫，即 Rex），所以 Lump_的主导种类是雕像。因此，Lump ≠ Lump*。根据伯克的观点，将一块黏土雕刻成雕像的过程会摧毁一个物体（仅仅是一块黏土）并用另一个物体（雕像）替代它。结果得到的雕像也是一块黏土，但与我们开始时的黏土块在数值上是不同的。伯克得出结论，Lump 存在于星期一，但在星期二不存在。因此，原始论证的第二个前提是错误的。
 
 主导种类观点相对于消除主义的解释有几个优点。最重要的是，主导种类观点承认像雕像和黏土块这样的普通物体的存在，并允许这些物体获得和失去部分。然而，一些在前面章节中提出的反对意见也同样适用于伯克的观点。例如，第 2 节中的人类学反对意见也可以针对主导种类观点提出（Sider 2001，第 165 页）。此外，这个观点也面临着自己的问题。
 
@@ -133,7 +132,7 @@ Geach 的第三个也是最后一个担忧涉及到他对绝对同一性的否�
 
 ## 7. 紧缩主义
 
-设想两位朋友之间的辩论，他们争论船是否就是舰船。一方指着一艘划艇说：“那艘船是一艘舰船。毕竟，舰船是一种漂浮在水上的船只，而这艘划艇显然是一种漂浮在水上的船只。”第二方不同意：“舰船是一种足够大的漂浮在水上的船只，而这艘划艇不够大。所以这艘船不是舰船。”显然，这场辩论存在一些问题。首先，对于谓词“舰船”有两个“候选意义”，即漂浮在水上的船只和足够大的漂浮在水上的船只。其次，这两个候选意义都不比另一个更“自然”—与“水”或“电子”不同，“舰船”这个谓词在世界上并没有对应的自然类别。第三，辩论的双方在所有“非舰船”事实上达成了一致—特别是，双方都同意划艇是一种船只，它漂浮在水上，并且相对较小。鉴于这些观点，我们很容易说双方在所有事实上达成了一致，他们的争论只是纯粹的言辞之争。需要注意的是，这个结论与其中一方实际上是错误的观点是一致的。例如，假设语义外在主义是正确的，我们的术语的意义在一定程度上是由整体使用所决定的（参见关于心理内容的外在主义条目）。在这种情况下，我们辩论中的第一方可能是错误的，因为说英语的人不会用“舰船”这个词来指代划艇。然而，从某种意义上说，这场辩论是纯粹的言辞之争，因为存在一种可能的语言（“英语 _”），它（a）使用了不同但同样自然的“舰船”意义，（b）足以描述所有事实，并且（c）使得第一方的陈述在该语言中是真实的。因此，我们可以说这两方之间真正的争议是关于英语是否是英语_，而这显然是一场纯粹的言辞之争。
+设想两位朋友之间的辩论，他们争论船是否就是舰船。一方指着一艘划艇说：“那艘船是一艘舰船。毕竟，舰船是一种漂浮在水上的船只，而这艘划艇显然是一种漂浮在水上的船只。”第二方不同意：“舰船是一种足够大的漂浮在水上的船只，而这艘划艇不够大。所以这艘船不是舰船。”显然，这场辩论存在一些问题。首先，对于谓词“舰船”有两个“候选意义”，即漂浮在水上的船只和足够大的漂浮在水上的船只。其次，这两个候选意义都不比另一个更“自然”—与“水”或“电子”不同，“舰船”这个谓词在世界上并没有对应的自然类别。第三，辩论的双方在所有“非舰船”事实上达成了一致—特别是，双方都同意划艇是一种船只，它漂浮在水上，并且相对较小。鉴于这些观点，我们很容易说双方在所有事实上达成了一致，他们的争论只是纯粹的言辞之争。需要注意的是，这个结论与其中一方实际上是错误的观点是一致的。例如，假设语义外在主义是正确的，我们的术语的意义在一定程度上是由整体使用所决定的（参见关于心理内容的外在主义条目）。在这种情况下，我们辩论中的第一方可能是错误的，因为说英语的人不会用“舰船”这个词来指代划艇。然而，从某种意义上说，这场辩论是纯粹的言辞之争，因为存在一种可能的语言（“英语 *”），它（a）使用了不同但同样自然的“舰船”意义，（b）足以描述所有事实，并且（c）使得第一方的陈述在该语言中是真实的。因此，我们可以说这两方之间真正的争议是关于英语是否是英语*，而这显然是一场纯粹的言辞之争。
 
 一些哲学家认为，关于物质构成的辩论存在着同样的缺陷。例如，对于雕像是否存在，刘易斯和安格之间并没有真正的争议。双方都同意所有相关事实，例如，存在以雕像方式排列的简单物体。双方也都同意存在两种可能的语言（“刘易斯英语”和“安格英语”），在其中一种语言中，“雕像存在”这个句子为真，而在另一种语言中为假。因此，唯一的分歧在于英语是刘易斯英语还是安格英语。换句话说，这场辩论只是言辞上的争论。这种通货紧缩主义观点通常与鲁道夫·卡尔纳普（1950年）、希拉里·普特南（1987年）以及更近期的埃利·赫什（2002a、2002b、2005年）有关。通货紧缩主义引发的问题非常复杂；在这里，我们将仅限于一些初步的观察。（有关这些问题的更长介绍，请参见查尔默斯、曼利和瓦瑟曼2009年的著作。有关通货紧缩主义的详细辩护，请参见托马森2015年的著作。）
 
@@ -145,101 +144,101 @@ Geach 的第三个也是最后一个担忧涉及到他对绝对同一性的否�
 
 ## Bibliography
 
-* Baker, L.R., 1997, “Why Constitution is not Identity,” _Journal of Philosophy_, 94: 599–621.
-* –––, 2000, _Persons and Bodies: a Constitution View_, Cambridge: Cambridge University Press.
-* –––, 2002, “On Making Things Up: Constitution and its Critics,” _Philosophical Topics_, 30: 31–52.
-* Bennett, K., 2004, “Spatio-Temporal Coincidence and the Grounding Problem,” _Philosophical Studies_, 118: 339–371.
-* Brower, J., 2014, _Aquinas’s Ontology of the Material World: Change, Hylomorphism, and Material Objects_, Oxford: Oxford University Press.
-* Burke, M., 1992, “Copper Statues and Pieces of Copper: A Challenge to the Standard Account,” _Analysis_, 52: 12–17.
-* –––, 1994, “Preserving the Principle of One Object to a Place: A Novel Account of the Relations among Objects, Sorts, Sortals and Persistence Conditions,” _Philosophy and Phenomenological Research_, 54: 591–624.
-* –––, 1997a, “Persons and Bodies: How to Avoid the New Dualism,” _American Philosophical Quarterly_, 34: 457–67.
-* –––, 1997b, “Coinciding Objects: Reply to Lowe and Denkel,” _Analysis_, 57: 11–18.
-* Carnap, R., 1950, “Empiricism, Semantics, Ontology,” _Revue Internationale de Philosophie_, 4: 20–40.
-* Chalmers, D, Manley, D. and Wasserman, R., 2009, _Metametaphysics: New Essays on the Foundations of Ontology_, Oxford: Oxford University Press.
-* Chisholm, R., 1973, “Parts as Essential to their Wholes,” _Review of Metaphysics_, 26: 581–603.
-* –––, 1976, _Person and Object_, London: Allen and Unwin.
-* DeRosset, L., 2011, “What is the Grounding Problem?,” _Philosophical Studies_, 156: 173–197.
-* Descartes, R., 1641 \[1993], _Meditations on First Philosophy_, third edition, Indianapolis: Hackett Publishing Company.
-* Doepke, F., 1982, “Spatially Coinciding Objects,” _Ratio_, 24: 45–60.
-* Einheuser, I., 2011, “Toward a Conceptualist Solution of the Grounding Problem,” _Noûs_, 45: 300–314.
-* Eklund, M. forthcoming, “Collapse and Quantifier Variance,” in J.T.M. Miller (ed.), _The Language of Ontology_, Cambridge, MA: MIT Press.
-* Elder, C., 2008, “Against Universal Mereological Composition,” _Dialectica_, 62: 433–454.
-* Fairchild, M., 2019, “The Barest Flutter of the Smallest Leaf: Understanding Material Plenitude,” _Philosophical Review_, 128: 143–178.
-* Fara, M. and Williamson, T., 2005, “Counterparts and Actuality,” _Mind_, 114: 1–30.
-* Fine, K., 2000, “A Counterexample to Locke’s Thesis,” _The Monist_, 83: 357–361.
-* –––, 2003, “The Non-Identity of a Thing and its Matter,” _Mind_, 112: 195–234.
-* –––, 2006, “Arguing for Non-Identity: A Response to King and Frances,” _Mind_, 115: 1059–1082.
-* Finn, S. and Bueno, O., 2018, “Quantifier Variance Dissolved,” _Royal Institute of Philosophy Supplement_, 82: 289–307.
-* Frances, B., 2006, “The New Leibniz’s Law Argument for Pluralism,” _Mind_, 115: 1007–1021.
-* Geach, P., 1962, _Reference and Generality_, Ithaca: Cornell University Press.
-* –––, 1967, “Identity,” _Review of Metaphysics_, 21: 3–12.
-* Gibbard, A., 1975, “Contingent Identity,” _Journal of Philosophical Logic_, 4: 187–221.
-* Gupta, A., 1980, _The Logic of Common Nouns_, New Haven: Yale University Press.
-* Hawthorne, J., 2004, “Identity,” in D. Zimmerman and M. Loux (eds.), _Oxford Companion to Metaphysics_, Oxford: Oxford University Press, 99–130.
-* –––, 2006, “Three-Dimensionalism,” in _Metaphysical Essays_, Oxford: Oxford University Press, 85–110.
-* Heller, M., 1990, _The Ontology of Physical Objects: Four-Dimensional Hunks of Matter_, Cambridge: Cambridge University Press.
-* Hirsch, E., 1982, _The Concept of Identity_, Oxford: Oxford University Press.
-* –––, 2002a, “Against Revisionary Ontology,” _Philosophical Topics_, 30: 103–127.
-* –––, 2002b, “Quantifier Variance and Realism,” _Philosophical Issues_, 12: 51–73.
-* –––, 2005, “Physical-Object Ontology, Verbal Disputes, and Common Sense,” _Philosophy and Phenomenological Research_, 70: 67–97.
-* Hirsch, E. and Warren J., 2019, _Philosophy and Phenomenological Research_, 98: 592–605.
-* Johnston, M., 1992, “Constitution is not Identity,” _Mind_, 101: 89–105.
-* King, J., 2006, “Semantics of Monists,” _Mind_, 115: 1023–1058.
-* Korman, Daniel, Z. 2015, _Objects: Nothing Out of the Ordinary_, Oxford: Oxford University Press.
-* Koslicki, K., 2008, _The Structure of Objects_, Oxford: Oxford University Press.
-* –––, 2018, “Towards a Hylomorphic Solution to the Grounding Problem,” _Royal Institute of Philosophy Supplements_, 82: 333–364.
-* Lewis, D., 1971, “Counterparts of Persons and their Bodies,” _Journal of Philosophy_, 68: 203–211.
-* –––, 1976, “Survival and Identity,” in A. Rorty (ed.), _The Identities of Persons_, Berkeley: University of California Press, 17–40.
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* Liebesman, D. and Eklund, M., 2007, “Sider on Existence,” _Noûs_, 41: 519–528.
-* Lowe, E.J., 1983, “Instantiation, Identity and Constitution,” _Philosophical Studies_, 44: 45–59.
-* –––, 1995, “Coinciding Objects: In Defense of the ‘Standard Account’,” _Analysis_, 55: 171–178.
-* –––, 2003, “Substantial Change and Spatiotemporal Coincidence,” _Ratio_, 16: 140–160.
-* Markosian, N., 1998, “Brutal Composition,” _Philosophical Studies_, 92: 211–249.
-* McDaniel, K., 2001, “Tropes and Ordinary Physical Objects,” _Philosophical Studies_, 104: 269–290.
-* McGrath, M., 2005, “No Objects, no Problem?,” _Australasian Journal of Philosophy_, 83: 457–486.
-* Merricks, T., 2001, _Objects and Persons_, Oxford: Oxford University Press.
-* Oderberg, D., 1996, “Coincidence Under a Sortal,” _Philosophical Review_, 105: 145–71.
-* O’Leary-Hawthorne, J. and Michael, M., 1996, “Compatibilist Semantics in Metaphysics: A Case Study,” _Australasian Journal of Philosophy_, 72: 117–134.
-* Olson, E., 1995, “Why I have no Hands,” _Theoria_, 61: 182–197.
+* Baker, L.R., 1997, “Why Constitution is not Identity,” *Journal of Philosophy*, 94: 599–621.
+* –––, 2000, *Persons and Bodies: a Constitution View*, Cambridge: Cambridge University Press.
+* –––, 2002, “On Making Things Up: Constitution and its Critics,” *Philosophical Topics*, 30: 31–52.
+* Bennett, K., 2004, “Spatio-Temporal Coincidence and the Grounding Problem,” *Philosophical Studies*, 118: 339–371.
+* Brower, J., 2014, *Aquinas’s Ontology of the Material World: Change, Hylomorphism, and Material Objects*, Oxford: Oxford University Press.
+* Burke, M., 1992, “Copper Statues and Pieces of Copper: A Challenge to the Standard Account,” *Analysis*, 52: 12–17.
+* –––, 1994, “Preserving the Principle of One Object to a Place: A Novel Account of the Relations among Objects, Sorts, Sortals and Persistence Conditions,” *Philosophy and Phenomenological Research*, 54: 591–624.
+* –––, 1997a, “Persons and Bodies: How to Avoid the New Dualism,” *American Philosophical Quarterly*, 34: 457–67.
+* –––, 1997b, “Coinciding Objects: Reply to Lowe and Denkel,” *Analysis*, 57: 11–18.
+* Carnap, R., 1950, “Empiricism, Semantics, Ontology,” *Revue Internationale de Philosophie*, 4: 20–40.
+* Chalmers, D, Manley, D. and Wasserman, R., 2009, *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press.
+* Chisholm, R., 1973, “Parts as Essential to their Wholes,” *Review of Metaphysics*, 26: 581–603.
+* –––, 1976, *Person and Object*, London: Allen and Unwin.
+* DeRosset, L., 2011, “What is the Grounding Problem?,” *Philosophical Studies*, 156: 173–197.
+* Descartes, R., 1641 \[1993], *Meditations on First Philosophy*, third edition, Indianapolis: Hackett Publishing Company.
+* Doepke, F., 1982, “Spatially Coinciding Objects,” *Ratio*, 24: 45–60.
+* Einheuser, I., 2011, “Toward a Conceptualist Solution of the Grounding Problem,” *Noûs*, 45: 300–314.
+* Eklund, M. forthcoming, “Collapse and Quantifier Variance,” in J.T.M. Miller (ed.), *The Language of Ontology*, Cambridge, MA: MIT Press.
+* Elder, C., 2008, “Against Universal Mereological Composition,” *Dialectica*, 62: 433–454.
+* Fairchild, M., 2019, “The Barest Flutter of the Smallest Leaf: Understanding Material Plenitude,” *Philosophical Review*, 128: 143–178.
+* Fara, M. and Williamson, T., 2005, “Counterparts and Actuality,” *Mind*, 114: 1–30.
+* Fine, K., 2000, “A Counterexample to Locke’s Thesis,” *The Monist*, 83: 357–361.
+* –––, 2003, “The Non-Identity of a Thing and its Matter,” *Mind*, 112: 195–234.
+* –––, 2006, “Arguing for Non-Identity: A Response to King and Frances,” *Mind*, 115: 1059–1082.
+* Finn, S. and Bueno, O., 2018, “Quantifier Variance Dissolved,” *Royal Institute of Philosophy Supplement*, 82: 289–307.
+* Frances, B., 2006, “The New Leibniz’s Law Argument for Pluralism,” *Mind*, 115: 1007–1021.
+* Geach, P., 1962, *Reference and Generality*, Ithaca: Cornell University Press.
+* –––, 1967, “Identity,” *Review of Metaphysics*, 21: 3–12.
+* Gibbard, A., 1975, “Contingent Identity,” *Journal of Philosophical Logic*, 4: 187–221.
+* Gupta, A., 1980, *The Logic of Common Nouns*, New Haven: Yale University Press.
+* Hawthorne, J., 2004, “Identity,” in D. Zimmerman and M. Loux (eds.), *Oxford Companion to Metaphysics*, Oxford: Oxford University Press, 99–130.
+* –––, 2006, “Three-Dimensionalism,” in *Metaphysical Essays*, Oxford: Oxford University Press, 85–110.
+* Heller, M., 1990, *The Ontology of Physical Objects: Four-Dimensional Hunks of Matter*, Cambridge: Cambridge University Press.
+* Hirsch, E., 1982, *The Concept of Identity*, Oxford: Oxford University Press.
+* –––, 2002a, “Against Revisionary Ontology,” *Philosophical Topics*, 30: 103–127.
+* –––, 2002b, “Quantifier Variance and Realism,” *Philosophical Issues*, 12: 51–73.
+* –––, 2005, “Physical-Object Ontology, Verbal Disputes, and Common Sense,” *Philosophy and Phenomenological Research*, 70: 67–97.
+* Hirsch, E. and Warren J., 2019, *Philosophy and Phenomenological Research*, 98: 592–605.
+* Johnston, M., 1992, “Constitution is not Identity,” *Mind*, 101: 89–105.
+* King, J., 2006, “Semantics of Monists,” *Mind*, 115: 1023–1058.
+* Korman, Daniel, Z. 2015, *Objects: Nothing Out of the Ordinary*, Oxford: Oxford University Press.
+* Koslicki, K., 2008, *The Structure of Objects*, Oxford: Oxford University Press.
+* –––, 2018, “Towards a Hylomorphic Solution to the Grounding Problem,” *Royal Institute of Philosophy Supplements*, 82: 333–364.
+* Lewis, D., 1971, “Counterparts of Persons and their Bodies,” *Journal of Philosophy*, 68: 203–211.
+* –––, 1976, “Survival and Identity,” in A. Rorty (ed.), *The Identities of Persons*, Berkeley: University of California Press, 17–40.
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* Liebesman, D. and Eklund, M., 2007, “Sider on Existence,” *Noûs*, 41: 519–528.
+* Lowe, E.J., 1983, “Instantiation, Identity and Constitution,” *Philosophical Studies*, 44: 45–59.
+* –––, 1995, “Coinciding Objects: In Defense of the ‘Standard Account’,” *Analysis*, 55: 171–178.
+* –––, 2003, “Substantial Change and Spatiotemporal Coincidence,” *Ratio*, 16: 140–160.
+* Markosian, N., 1998, “Brutal Composition,” *Philosophical Studies*, 92: 211–249.
+* McDaniel, K., 2001, “Tropes and Ordinary Physical Objects,” *Philosophical Studies*, 104: 269–290.
+* McGrath, M., 2005, “No Objects, no Problem?,” *Australasian Journal of Philosophy*, 83: 457–486.
+* Merricks, T., 2001, *Objects and Persons*, Oxford: Oxford University Press.
+* Oderberg, D., 1996, “Coincidence Under a Sortal,” *Philosophical Review*, 105: 145–71.
+* O’Leary-Hawthorne, J. and Michael, M., 1996, “Compatibilist Semantics in Metaphysics: A Case Study,” *Australasian Journal of Philosophy*, 72: 117–134.
+* Olson, E., 1995, “Why I have no Hands,” *Theoria*, 61: 182–197.
 * –––, 2001, “Material Coincidence and the Indiscernibility Problem,” Philosophical Quarterly, 51: 337–355.
-* Parsons, J., 2004, “Dion, Theon, and DAUP,” _Pacific Philosophical Quarterly_, 85: 85–91.
-* Paul, L.A., 2002, “Logical Parts,” _Noûs_, 36: 578–596.
-* Pfeifer, K., 1989, _Actions and Other Events: The Unifier-Multiplier Controversy_, New York: Peter Lang Publishing.
-* Putnam, H., 1987, “Truth and Convention: On Davidson’s Refutation of Conceptual Relativism,” _Dialectica_, 41: 69–77
-* Quine, W.V.O., 1953, “Identity, Ostension and Hypostasis,” in _From a Logical Point of View_, second edition, Cambridge, MA: Harvard University Press, 65–79.
-* –––, 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* Rea, M. (ed.), 1997, _Material Constitution: a Reader_, Lanham MD: Rowman and Littlefield.
-* –––, 1998, “Sameness without Identity: An Aristotelian Solution to the Problem of Material Constitution,” _Ratio_, 3: 316–328.
-* –––, 2000, “Constitution and Kind Membership,” _Philosophical Studies_, 97: 169–193.
-* Saenz, N.B., 2015, “A Grounding Solution to the Grounding Problem,” _Philosophical Studies_, 172: 2193–2214.
-* Shoemaker, S., 1999, “Self, Body, and Coincidence,” _Proceedings of the Aristotelian Society_, Supplementary Vol., 73: 287–306.
-* –––, 2003, “Realization, Micro-Realization, and Coincidence,” _Philosophy and Phenomenological Research_, 67: 1–23.
-* Schaffer, J., 2003, “Is there a Fundamental Level?,” _Noûs_, 37: 498–517.
-* Sider, T., 1993, “van Inwagen and the Possibility of Gunk,” _Analysis_, 53: 285–289.
-* –––, 2001, _Four-Dimensionalism_, Oxford: Oxford University Press.
-* –––, 2009, “Ontological Realism,” in D. Chalmers, D. Manley, and R. Wasserman (eds.), _Metametaphysics: New Essays on the Foundations of Ontology_, Oxford: Oxford University Press, 384–423.
-* Simons, P., 1985, “Coincidence of Things of a Kind,” _Mind_, 94: 70–75.
-* –––, 1987, _Parts: A Study in Ontology_, Oxford: Clarendon.
-* Sosa, E., 1987, “Subjects among Other Things,” _Philosophical Perspectives_, 1: 155–187.
-* Sud, R. and Manley, D., 2020, “Quantifier Variance,” in R. Bliss and J.T.M. Miller (eds.), _The Routledge Handbook of Metametasemantics_, London: Routledge.
-* Sutton, C.S., 2012, “Colocated Objects: Tally-Ho: A Solution to the Grounding Problem,” _Mind_, 121: 703–730.
-* Thomasson, A.L., 2015, _Ontology Made Easy_, Oxford: Oxford University Press.
-* –––, 2016, “Metaphysical Disputes and Metalinguistic Negotiation,” _Analytic Philosophy_, 57: 1–28.
-* Thomson, J.J.T., 1983, “Parthood and Identity Across Time,” _Journal of Philosophy_, 80: 201–20.
-* –––, 1998, “The Statue and the Clay,” _Noûs_, 32: 148–173.
-* Unger, P., 1979, “There are no Ordinary Things,” _Synthese_, 41: 117–154.
-* Uzquiano, G., 2004a, “The Supreme Court and the Supreme Court Justices: A Metaphysical Puzzle,” _Noûs_, 38: 135–153.
-* –––, 2004b, “Plurals and Simples,” _The Monist_, 87: 429–451.
-* van Inwagen, P., 1981, “The Doctrine of Arbitrary Undetached Parts,” _Pacific Philosophical Quarterly_, 62: 123–137.
-* –––, 1990, _Material Beings_, Ithaca: Cornell University Press.
-* Wasserman, R., 2002, “The Standard Objection to the Standard Account,” _Philosophical Studies_, 111: 197–216.
-* –––, 2004, “The Constitution Question,” _Noûs_, 38: 693–710.
-* Wiggins, D., 1968, “On Being in the Same Place at the Same Time,” _Philosophical Review_, 77: 90–95.
-* –––, 1980, _Sameness and Substance_, Oxford: Basil Blackwell.
-* Yablo, S., 1987, “Identity, Essence and Indiscernibility,” _Journal of Philosophy_, 84: 293–314.
-* Zimmerman, D.W., 1995, “Theories of Masses and Problems of Constitution,” _Philosophical Review_, 104: 53–110.
-* –––, 1996, “Could Extended Objects Be Made Out of Simple Parts? An Argument for Atomless Gunk,” _Philosophy and Phenomenological Research_, 56: 1–29.
+* Parsons, J., 2004, “Dion, Theon, and DAUP,” *Pacific Philosophical Quarterly*, 85: 85–91.
+* Paul, L.A., 2002, “Logical Parts,” *Noûs*, 36: 578–596.
+* Pfeifer, K., 1989, *Actions and Other Events: The Unifier-Multiplier Controversy*, New York: Peter Lang Publishing.
+* Putnam, H., 1987, “Truth and Convention: On Davidson’s Refutation of Conceptual Relativism,” *Dialectica*, 41: 69–77
+* Quine, W.V.O., 1953, “Identity, Ostension and Hypostasis,” in *From a Logical Point of View*, second edition, Cambridge, MA: Harvard University Press, 65–79.
+* –––, 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* Rea, M. (ed.), 1997, *Material Constitution: a Reader*, Lanham MD: Rowman and Littlefield.
+* –––, 1998, “Sameness without Identity: An Aristotelian Solution to the Problem of Material Constitution,” *Ratio*, 3: 316–328.
+* –––, 2000, “Constitution and Kind Membership,” *Philosophical Studies*, 97: 169–193.
+* Saenz, N.B., 2015, “A Grounding Solution to the Grounding Problem,” *Philosophical Studies*, 172: 2193–2214.
+* Shoemaker, S., 1999, “Self, Body, and Coincidence,” *Proceedings of the Aristotelian Society*, Supplementary Vol., 73: 287–306.
+* –––, 2003, “Realization, Micro-Realization, and Coincidence,” *Philosophy and Phenomenological Research*, 67: 1–23.
+* Schaffer, J., 2003, “Is there a Fundamental Level?,” *Noûs*, 37: 498–517.
+* Sider, T., 1993, “van Inwagen and the Possibility of Gunk,” *Analysis*, 53: 285–289.
+* –––, 2001, *Four-Dimensionalism*, Oxford: Oxford University Press.
+* –––, 2009, “Ontological Realism,” in D. Chalmers, D. Manley, and R. Wasserman (eds.), *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press, 384–423.
+* Simons, P., 1985, “Coincidence of Things of a Kind,” *Mind*, 94: 70–75.
+* –––, 1987, *Parts: A Study in Ontology*, Oxford: Clarendon.
+* Sosa, E., 1987, “Subjects among Other Things,” *Philosophical Perspectives*, 1: 155–187.
+* Sud, R. and Manley, D., 2020, “Quantifier Variance,” in R. Bliss and J.T.M. Miller (eds.), *The Routledge Handbook of Metametasemantics*, London: Routledge.
+* Sutton, C.S., 2012, “Colocated Objects: Tally-Ho: A Solution to the Grounding Problem,” *Mind*, 121: 703–730.
+* Thomasson, A.L., 2015, *Ontology Made Easy*, Oxford: Oxford University Press.
+* –––, 2016, “Metaphysical Disputes and Metalinguistic Negotiation,” *Analytic Philosophy*, 57: 1–28.
+* Thomson, J.J.T., 1983, “Parthood and Identity Across Time,” *Journal of Philosophy*, 80: 201–20.
+* –––, 1998, “The Statue and the Clay,” *Noûs*, 32: 148–173.
+* Unger, P., 1979, “There are no Ordinary Things,” *Synthese*, 41: 117–154.
+* Uzquiano, G., 2004a, “The Supreme Court and the Supreme Court Justices: A Metaphysical Puzzle,” *Noûs*, 38: 135–153.
+* –––, 2004b, “Plurals and Simples,” *The Monist*, 87: 429–451.
+* van Inwagen, P., 1981, “The Doctrine of Arbitrary Undetached Parts,” *Pacific Philosophical Quarterly*, 62: 123–137.
+* –––, 1990, *Material Beings*, Ithaca: Cornell University Press.
+* Wasserman, R., 2002, “The Standard Objection to the Standard Account,” *Philosophical Studies*, 111: 197–216.
+* –––, 2004, “The Constitution Question,” *Noûs*, 38: 693–710.
+* Wiggins, D., 1968, “On Being in the Same Place at the Same Time,” *Philosophical Review*, 77: 90–95.
+* –––, 1980, *Sameness and Substance*, Oxford: Basil Blackwell.
+* Yablo, S., 1987, “Identity, Essence and Indiscernibility,” *Journal of Philosophy*, 84: 293–314.
+* Zimmerman, D.W., 1995, “Theories of Masses and Problems of Constitution,” *Philosophical Review*, 104: 53–110.
+* –––, 1996, “Could Extended Objects Be Made Out of Simple Parts? An Argument for Atomless Gunk,” *Philosophy and Phenomenological Research*, 56: 1–29.
 
 ## Academic Tools
 
@@ -260,4 +259,4 @@ Geach 的第三个也是最后一个担忧涉及到他对绝对同一性的否�
 [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [change: and inconsistency](https://plato.stanford.edu/entries/change/) | [grounding, metaphysical](https://plato.stanford.edu/entries/grounding/) | [identity](https://plato.stanford.edu/entries/identity/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [many, problem of](https://plato.stanford.edu/entries/problem-of-many/) | [mass expressions: metaphysics of](https://plato.stanford.edu/entries/metaphysics-massexpress/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [ordinary objects](https://plato.stanford.edu/entries/ordinary-objects/) | [sortals](https://plato.stanford.edu/entries/sortals/) | [substance](https://plato.stanford.edu/entries/substance/) | [supervenience](https://plato.stanford.edu/entries/supervenience/) | [temporal parts](https://plato.stanford.edu/entries/temporal-parts/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Ryan Wasserman <[_ryan.wasserman@wwu.edu_](mailto:ryan%2ewasserman%40wwu%2eedu)>
+Ryan Wasserman <[*ryan.wasserman@wwu.edu*](mailto:ryan%2ewasserman%40wwu%2eedu)>

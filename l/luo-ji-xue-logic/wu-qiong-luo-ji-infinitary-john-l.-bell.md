@@ -1,12 +1,10 @@
 # 无穷逻辑 infinitary (John L. Bell)
 
-_首次发表于2000年1月23日；实质性修订于2023年9月6日。_
+*首次发表于2000年1月23日；实质性修订于2023年9月6日。*
 
 传统上，形式系统中的表达式被认为是表示有限的铭文，至少在原则上，能够以原始符号写出来。然而，（一阶）公式可以通过“哥德尔编号”与自然数（从而与有限集合）等同起来，这使得不再需要将公式视为铭文，并且暗示着可以构建一些“语言”，其中一些公式可以自然地被认为是无穷集合。这种语言被称为无穷语言：在本文中，我讨论了那些可以通过允许无穷长的合取、析取和可能的量词序列从一阶语言中直接获得的无穷语言。在讨论过程中，将会看到，尽管这些语言的表达能力远远超过有限（一阶）语言的表达能力，但很少有它们具备后者的“吸引人”的特点（例如，紧致性和完备性）。因此，实际上具备这些特点的无穷语言值得特别关注。
 
 在第 1 节中，介绍了无穷语言的基本语法和语义；然后通过示例展示了它们的表达能力。第 2 节专门讨论了那些只允许有限量词序列的无穷语言：这些语言被证明相对行为良好。第 3 节讨论了无穷语言的紧致性问题及其与纯粹集合论问题中的“大”基数的关系。第 4 节概述了一个论证，表明大多数“无限量词”语言具有二阶性质，并且因此高度不完备。第 5 节简要介绍了一类特殊的无穷语言子语言，可以证明紧致性定理的一个令人满意的推广。本节还包括关于可接受集合定义的一个子节。第 6 节提供了历史和文献注释。
-
- 
 
 ***
 
@@ -30,7 +28,7 @@ L(κ,λ)的前公式类被递归地定义如下：
 
 如果Φ是由集合 I 索引的一组前公式，记作Φ = {φi : i ∈ I}，那么我们约定写成∧Φ表示：
 
-> ∧_i_∈_I_ φ
+> ∧*i*∈*I* φ
 
 或者，如果 I 是自然数集合，我们写成∧Φ表示：
 
@@ -40,9 +38,9 @@ L(κ,λ)的前公式类被递归地定义如下：
 
 逻辑运算符∨、→、↔按照惯例进行定义。我们还引入了运算符∨（无穷析取）和∀（全称量化）。
 
-> ∨Φ =_df_ ¬∧{ ¬φ : φ ∈ Φ}
+> ∨Φ =*df* ¬∧{ ¬φ : φ ∈ Φ}
 >
-> ∀Xφ =_df_ ¬∃X¬φ,
+> ∀Xφ =*df* ¬∃X¬φ,
 
 并采用与∧、∃类似的约定。
 
@@ -50,7 +48,7 @@ L(κ,λ)的前公式类被递归地定义如下：
 
 注意以下在无穷语言中可能出现但有限语言中不会出现的异常情况。在语言 L(ω1,ω)中，允许可数无穷的合取，但只允许有限的量化，存在一些前公式具有如此多的自由变量，以至于无法通过前缀量词将其“封闭”为 L(ω1,ω)的句子。例如，对于 L(ω1,ω)-前公式而言，情况就是如此。
 
-> _x_0 < _x_1 ∧ _x_1 < _x_2 ∧ … ∧ _xn_ < _x\*\*n_+1 …,
+> _x_0 < _x_1 ∧ _x_1 < _x_2 ∧ … ∧ *xn* < *x\*\*n*+1 …,
 
 其中 L 包含二元关系符号<。因此，我们做以下定义。
 
@@ -70,31 +68,31 @@ L(κ,λ)的前公式类被递归地定义如下：
 
 L(ω1,ω)中算术标准模型的特征化。这里，算术的标准模型是结构 N = ⟨N, +, ·, s, 0⟩，其中 N 是自然数集，+、·和 0 具有它们的通常含义，s 是后继操作。让 L 是适用于 N 的一阶语言。那么，与 N 同构的 L-结构的类与以下 L(ω1,ω)句子的模型类重合（其中 0 是 0 的一个名称）：
 
-> ∧_m_∈ω ∧_n_∈ω _s_​_**m**_0\*\* + _s_​_**n**_0\*\* = _s\*\*m_+_n_​**0**
+> ∧*m*∈ω ∧*n*∈ω *s_​***m**_0\*\* + *s_​***n**_0\*\* = *s\*\*m*+_n_​**0**
 >
-> ∧_m_∈ω ∧_n_∈ω _s_​_**m**_0\*\* · _s_​_**n**_0\*\* = _s\*\*m_·_n_​**0**
+> ∧*m*∈ω ∧*n*∈ω *s_​***m**_0\*\* · *s_​***n**_0\*\* = *s\*\*m*·_n_​**0**
 >
-> ∧_m_∈ω ∧_n_∈ω−{_m_} _s_​_**m**_0\*\* ≠ _s_​_**n**_0\*\*
+> ∧*m*∈ω ∧*n*∈ω−{*m*} *s_​***m**_0\*\* ≠ *s_​***n**_0\*\*
 >
-> ∀_x_∨_m_∈ω _x_ = _s_​_**m**_0\*\*
+> ∀*x*∨*m*∈ω *x* = *s_​***m**_0\*\*
 
 术语 snx 通过递归定义
 
-| _s_0_x_       | = | _x_        |
+| *s_0_x*       | = | *x*        |
 | ------------- | - | ---------- |
-| _s\*\*n_+1_x_ | = | _s_(_snx_) |
+| *s\*\*n*+1_x_ | = | *s*(*snx*) |
 
 L(ω1,ω)中所有有限集合的特征化。在这里，基本语言没有额外的逻辑符号。所有有限集合的类与 L(ω1,ω)-句子的模型类重合。
 
-> ∨_n_∈ω ∃_v_0 … ∃_vn_∀_x_(_x_ = _v_0 ∨ … ∨ _x_ = _vn_).
+> ∨*n*∈ω ∃_v_0 … ∃*vn*∀*x*(*x* = _v_0 ∨ … ∨ *x* = *vn*).
 
 在一个可数的基础语言 L(ω1,ω)中的真理定义。让 L 是一个可数的一阶语言（例如，算术或集合论的语言），其中包含每个自然数 n 的名称 n，并且让σ0，σ1，…是其句子的枚举。那么 L(ω1,ω)-公式
 
-> **Tr**(_x_) =_df_ ∨_n_∈ω (_x =_ _**n**_ ∧ σ_n_)
+> **Tr**(*x*) =*df* ∨*n*∈ω (*x =* ***n*** ∧ σ_n_)
 
 是 L 的一个真理谓词，因为句子
 
-> **Tr**(_**n**_) ↔ σ_n_
+> **Tr**(***n***) ↔ σ_n_
 
 对每个 n 都是有效的。
 
@@ -108,7 +106,7 @@ L(ω1,ω)中所有有限集合的特征化。在这里，基本语言没有额�
 
 > 因此，从自然意义上讲，L(Q0)可以被翻译成 L(ω1,ω)。另一个可以按照这种意义翻译成 L(ω1,ω)的语言是通过向 L 添加一个可数集合的单调谓词变量，并将其解释为范围在所有有限个体集上的弱二阶语言。
 
-Thus L(_Q_0) is, in a natural sense, translatable into L(ω1,ω). Another language translatable into L(ω1,ω) in this sense is the _weak second-order language_ obtained by adding a countable set of monadic predicate variables to L which are then interpreted as ranging over all _finite_ sets of individuals.
+Thus L(_Q_0) is, in a natural sense, translatable into L(ω1,ω). Another language translatable into L(ω1,ω) in this sense is the *weak second-order language* obtained by adding a countable set of monadic predicate variables to L which are then interpreted as ranging over all *finite* sets of individuals.
 
 可以引入具有任意长的合取、析取和（可能的）量化的语言。对于固定的无穷基数λ，语言 L(∞,λ)通过指定其公式类 Form(∞,λ)为所有κ ≥ λ的集合 Form(κ,λ)的并集来定义。因此，L(∞,λ)允许任意长的合取和析取，即如果Φ是 Form(∞,λ)的任意子集，则∧Φ和∨Φ都是 Form(∞,λ)的成员。但是，L(∞,λ)只允许长度< λ的量化：它的所有公式都有< λ个自由变量。语言 L(∞,∞)则通过指定其公式类 Form(∞,∞)为所有无穷基数λ的类 Form(∞,λ)的并集来定义。因此，L(∞,∞)除了允许任意长的合取和析取外，还允许任意长的量化。请注意，根据哥德尔-伯内斯集合论的观点，Form(∞,λ)和 Form(∞,∞)都是适当的类。在结构中满足 L(∞,λ)和 L(∞,∞)的公式可以通过对 L(κ,λ)的相应概念的明显扩展来定义。
 
@@ -124,7 +122,7 @@ Thus L(_Q_0) is, in a natural sense, translatable into L(ω1,ω). Another langua
 
 | φ0, φ1, …, φ_n_, … |
 | ------------------ |
-| ∧_n_∈ω φ_n_        |
+| ∧*n*∈ω φ_n_        |
 
 并且允许推导具有可数长度。在这个意义上，我们用⊢\*表示可推导性，然后我们有
 
@@ -140,11 +138,11 @@ Thus L(_Q_0) is, in a natural sense, translatable into L(ω1,ω). Another langua
 
 在一阶情况下成立但对于满足κ ≥ ω1 的 L(κ,ω)（以及 L(ω1,ω1)，尽管这更难证明）不成立的另一个结果是前束范式定理。如果一个句子的量词都出现在前面，那么它就是前束的；我们举一个 L(ω1,ω)-句子的例子，它不等价于前束句子的合取。让 L 是没有额外逻辑符号的一阶语言，让σ是描述有限集合类的 L(ω1,ω)-句子。假设σ等价于一个合取式
 
-> ∧_i_∈_I_ σ_i_
+> ∧*i*∈*I* σ_i_
 
 针对前束 L(ω1,ω)-句子σi 的源头。然后每个σi 的形式为
 
-> _Q_1_x_1 … _Q_n_xn_ φ_i_(_x_1 _,…, xn_),
+> *Q_1_x_1 … *Q_n_xn* φ_i*(_x_1 *,…, xn*),
 
 其中每个 Qk 是∀或∃，而φi 是一个（可能是无穷的）合取或析取，其由形如 xk = xl 或 xk ≠ xl 的公式组成。由于每个σi 都是一个句子，因此每个φi 中只有有限数量的变量，并且很容易看出每个φi 等价于一个一阶公式。因此，每个σi 可以被视为一个一阶句子。由于假设σ等价于σi 的合取，因此可以得出σ和集合Δ = {σi : i ∈ I}具有相同的模型。但显然σ，以及Δ，具有所有有限基数的模型；现在，一阶句子集的紧致性定理暗示Δ，以及σ，具有一个无穷模型，这与σ的定义相矛盾。
 
@@ -208,7 +206,7 @@ V(B)的成员被称为 B-值集合。现在很容易看出，B-值集合恰好�
 
 我们说两个相似的结构 A、B 是布尔同构的，记作 A ≅b B，如果存在一个完备的布尔代数 B，使得 V(B) ⊨ A ≅ B，也就是说，在某个集合宇宙的布尔扩展中，A 和 B 的规范代表是布尔值 1 同构的。然后可以证明：
 
-> (2.3) _**A**_ ≡∞ω _**B**_ ⇔ _**A**_ ≅_b_​_**B**_.
+> (2.3) ***A*** ≡∞ω ***B*** ⇔ ***A*** ≅*b_​***B**_.
 
 这个结果可以通过范畴论的形式化得到加强。为此，我们需要引入一个（基本）拓扑的概念。为了介绍这个概念，我们从集合和映射的熟知范畴 Set 开始。Set 具有以下关键属性：
 
@@ -231,7 +229,7 @@ V(B)的成员被称为 B-值集合。现在很容易看出，B-值集合恰好�
 
 现在假设 E 是一个 full 的拓扑空间。如果 A = (A, R, …)是一个结构，我们用 A 来表示(A, R, …)。如果两个结构 A 和 B 是 topos 同构的，即 A ≅t B，那么对于一些定义在集合范畴上的拓扑空间 E，我们有 E ⊨ A ≅ B。换句话说，如果两个结构的规范代表在某个拓扑空间的内部语言中是同构的，那么它们就是 topos 同构的。然后可以证明
 
-> (2.4) _**A**_ ≡∞ω _**B**_ ⇔ _**A**_ ≅_t_​_**B**_.
+> (2.4) ***A*** ≡∞ω ***B*** ⇔ ***A*** ≅*t_​***B**_.
 
 因此，可以将(∞,ω)-等价性视为在“可变”集合的宇宙的极其一般的背景下的同构。在这方面，(∞,ω)-等价性是同构的“不变”概念。
 
@@ -239,7 +237,7 @@ V(B)的成员被称为 B-值集合。现在很容易看出，B-值集合恰好�
 
 正如我们所见，紧致性定理在其通常形式下对所有无穷语言都不成立。然而，确定无穷语言是否满足定理的某种适当修改版本是有一定兴趣的。这个所谓的紧致性问题与纯粹的集合论问题，涉及“大”基数有自然的联系。
 
-我们构建以下定义。设κ是一个无穷基数。如果对于每个 L-句子集合Δ（或者基数≤κ的 L-句子集合Δ），并且Δ的每个基数小于κ的子集都有一个模型，那么语言 L 被称为κ-紧致（或者弱κ _-紧致_）。注意，对于 L 的通常紧致性定理正是 L 是ω-紧致的断言。赋予κ-紧致性质重要性的一个原因是以下。如果存在一个 L 的演绎系统 P，其演绎长度小于κ，并且如果Δ是一个 P-一致\[4]的 L-句子集合（或者|Δ|≤κ），那么Δ有一个模型，则称 L 为 L κ-完备（或者弱κ-完备）。注意，这样的 P 将对于从任意前提集合（基数≤κ）进行演绎具有充分性质（根据第 2 节的意义）。很容易看出，如果 L 是κ-完备或者弱κ-完备，则 L 是κ-紧致或者弱κ-紧致。因此，如果我们能够证明给定的语言不是（弱）κ-紧致的话，则不能存在一个演绎系统，其演绎长度小于κ，并且对于从任意前提集合（基数≤κ）进行演绎具有充分性质。
+我们构建以下定义。设κ是一个无穷基数。如果对于每个 L-句子集合Δ（或者基数≤κ的 L-句子集合Δ），并且Δ的每个基数小于κ的子集都有一个模型，那么语言 L 被称为κ-紧致（或者弱κ *-紧致*）。注意，对于 L 的通常紧致性定理正是 L 是ω-紧致的断言。赋予κ-紧致性质重要性的一个原因是以下。如果存在一个 L 的演绎系统 P，其演绎长度小于κ，并且如果Δ是一个 P-一致\[4]的 L-句子集合（或者|Δ|≤κ），那么Δ有一个模型，则称 L 为 L κ-完备（或者弱κ-完备）。注意，这样的 P 将对于从任意前提集合（基数≤κ）进行演绎具有充分性质（根据第 2 节的意义）。很容易看出，如果 L 是κ-完备或者弱κ-完备，则 L 是κ-紧致或者弱κ-紧致。因此，如果我们能够证明给定的语言不是（弱）κ-紧致的话，则不能存在一个演绎系统，其演绎长度小于κ，并且对于从任意前提集合（基数≤κ）进行演绎具有充分性质。
 
 实际上，事实证明，大多数语言 L(κ,λ)甚至不是弱κ-紧致的，而且对于那些是的语言，κ必须是一个非常大的基数。我们需要一些定义。
 
@@ -328,15 +326,15 @@ V(B)的成员被称为 B-值集合。现在很容易看出，B-值集合恰好�
 
 对于 φ, ψ ∈ Form(κ,λ),
 
-> ⌈φ ∧ ψ⌉ =_df_ ⟨⌈φ⌉, ⌈∧⌉, ⌈ψ⌉⟩
+> ⌈φ ∧ ψ⌉ =*df* ⟨⌈φ⌉, ⌈∧⌉, ⌈ψ⌉⟩
 >
-> ⌈¬φ⌉ =_df_ ⟨⌈¬⌉, ⌈φ⌉⟩
+> ⌈¬φ⌉ =*df* ⟨⌈¬⌉, ⌈φ⌉⟩
 >
-> ⌈∃_X_φ⌉ =_df_ ⟨⌈∃⌉, {⌈_x_⌉: _x_ ∈ _X_}, ⌈φ⌉⟩;
+> ⌈∃_X_φ⌉ =*df* ⟨⌈∃⌉, {⌈*x*⌉: *x* ∈ *X*}, ⌈φ⌉⟩;
 
 最后，如果Φ ⊆ Form(κ,λ)，其中|Φ| < κ，
 
-> ⌈∧Φ⌉ =_df_ ⟨⌈∧⌉, {⌈φ⌉: φ ∈ Φ}⟩.
+> ⌈∧Φ⌉ =*df* ⟨⌈∧⌉, {⌈φ⌉: φ ∈ Φ}⟩.
 
 映射 φ ↦ ⌈φ⌉ 从 Form(κ,λ) 到 H(κ) 很容易看出是一对一的，并且是所需的编码映射。因此，我们同意在这个编码映射下将 Val(L(κ,λ)) 与其在 H(κ) 中的像等同起来。
 
@@ -382,7 +380,7 @@ V(B)的成员被称为 B-值集合。现在很容易看出，B-值集合恰好�
 
 如果 t 是(4.3)中给定的术语，则会得出以下结论
 
-> H(ω1) ⊨ σ↔θ(_t_(⌈τ0⌉, ⌈σ⌉)).
+> H(ω1) ⊨ σ↔θ(*t*(⌈τ0⌉, ⌈σ⌉)).
 
 现在将φ(v0)写为 L(ω1,ω1)-公式θ(t(⌈τ0⌉, ⌈σ⌉)). 然后
 
@@ -426,7 +424,7 @@ V(B)的成员被称为 B-值集合。现在很容易看出，B-值集合恰好�
 
 首先，我们将 L(ω1,ω)的符号和公式与 H(ω1)中的代码进行对应，就像第 4 节中所述。对于每个可数传递的\[10]集合 A，令
 
-> L_A_ = **Form**(L(ω1,ω)) ∩ _A_.
+> L_A_ = **Form**(L(ω1,ω)) ∩ *A*.
 
 我们说如果满足以下条件，LA 是 L(ω1,ω)的子语言：
 
@@ -494,43 +492,43 @@ Karp \[1965]首次证明了 Karp 的部分同构定理；另请参阅 Barwise \[
 
 ## Bibliography
 
-* Aczel, P., 1973, “Infinitary Logic and the Barwise Compactness Theorem”, _Proceedings of the 1971 Bertrand Russell Memorial Logic Conference_ (Uldum, Denmark), J. Bell, J. Cole, G. Priest, and A. Slomson (eds.), Leeds: Bertrand Russell Memorial Logic Conference, 234–277.
-* Barwise, J., 1967, _Infinitary Logic and Admissible Sets_. Ph.D. Thesis, Stanford University.
-* –––, 1973, “Back and Forth through Infinitary Logic. Studies in Model Theory”, in _Studies in Mathematics_ (Volume 8), Buffalo: Mathematical Association of American, pp. 5–34.
-* –––, 1975, _Admissible Sets and Structures_, Berlin: Springer-Verlag.
-* Barwise, J. and S. Feferman (eds.), 1985, _Handbook of Model-Theoretic Logics_, New York: Springer-Verlag.
-* Baumgartner, J., 1974, “The Hanf number for complete Lω1,ω sentences (without GCH)”, _Journal of Symbolic Logic_, 39: 575–578.
-* Bell, J. L., 1970, “Weak Compactness in Restricted Second-Order Languages”, _Bulletin of the Polish Academy of Sciences_, 18: 111–114.
-* –––, 1972, “On the Relationship between Weak Compactness in Lω1, ω, Lω1, ω1, and Restricted Second-Order Languages”, _Archive for Mathematical Logic_, 15: 74–78.
-* –––, 1974, “On Compact Cardinals”, _Zeitschrift für Mathematical Logik und Grundlagen der Mathematik_, 20: 389–393.
-* –––, 1981, “Isomorphism of Structures in S-toposes”, _Journal of Symbolic Logic_, 43 (3): 449–459.
-* Chang, C.C., 1968, “Some Remarks on the Model Theory of Infinitary Languages”. in _The Syntax and Semantics of Infinitary Languages_ (Lecture Notes in Mathematics: Volume 72), J. Barwise (ed.), Springer-Verlag, Berlin, 36-63.
-* Dickmann, M. A., 1975, _Large Infinitary Languages_, Amsterdam: North-Holland.
-* Drake, F.R., 1974, _Set Theory: An Introduction to Large Cardinals_, Amsterdam: North-Holland Publishing Company.
-* Ellentuck, E., 1976, “Categoricity Regained”, _Journal of Symbolic Logic_, 41 (3): 639–643.
-* Hanf, W. P., 1964, _Incompactness in Languages with Infinitely Long Expressions_, Amsterdam: North-Holland.
-* Karp, C., 1964, _Languages with Expressions of Infinite Length_, Amsterdam: North-Holland.
-* –––, 1965, “Finite-Quantifier Equivalence” in _The Theory of Models_, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 407–412.
-* Keisler, H. J., 1974, _Model Theory for Infinitary Logic_, Amsterdam: North-Holland.
-* Keisler, H. J., and Julia F. Knight, 2004, “Barwise: Infinitary Logic And Admissible Sets”, _Journal of Symbolic Logic_, 10(1): 4–36
-* Kolaitis, P. and M. Vardi, 1992, “Fixpoint Logic vs. Infinitary Logic in Finite-Model Theory,” _Proceedings of the Seventh Annual IEEE Symposium on Logic in Computer Science_ (LICS '92), IEEE, pp. 46-57; [available online](http://www.cs.rice.edu/\~vardi/papers/lics92rj.pdf), doi:10.1109/LICS.1992.185518
-* Kreisel, G., 1965, “Model-Theoretic Invariants, Applications to Recursive and Hyperarithmetic Operations”, in _The Theory of Models_, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 190-205.
-* Kueker, D., 1975, “Back-and-forth arguments in infinitary languages”, in _Infinitary Logic: In Memoriam Carol Karp_ (Lecture Notes in Mathematics: Volume 492), D. Kueker (ed.), Berlin: Springer-Verlag.
-* Lopez-Escobar, E. G. K., 1965, “An Interpolation Theorem for Infinitely Long Sentences”, _Fundamenta Mathematicae_, 57: 253–272.
-* –––, 1966, “On Defining Well-Orderings”, _Fundamenta Mathematicae_, 59: 13–21.
-* Makkai, M., 1977, “Admissible Sets and Infinitary Logic”, _Handbook of Mathematical Logic_, J. Barwise (ed.), Amsterdam: North-Holland, 233-282.
-* Morley, M., 1965, “Omitting Classes of Elements”, _The Theory of Models_, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 265-273.
+* Aczel, P., 1973, “Infinitary Logic and the Barwise Compactness Theorem”, *Proceedings of the 1971 Bertrand Russell Memorial Logic Conference* (Uldum, Denmark), J. Bell, J. Cole, G. Priest, and A. Slomson (eds.), Leeds: Bertrand Russell Memorial Logic Conference, 234–277.
+* Barwise, J., 1967, *Infinitary Logic and Admissible Sets*. Ph.D. Thesis, Stanford University.
+* –––, 1973, “Back and Forth through Infinitary Logic. Studies in Model Theory”, in *Studies in Mathematics* (Volume 8), Buffalo: Mathematical Association of American, pp. 5–34.
+* –––, 1975, *Admissible Sets and Structures*, Berlin: Springer-Verlag.
+* Barwise, J. and S. Feferman (eds.), 1985, *Handbook of Model-Theoretic Logics*, New York: Springer-Verlag.
+* Baumgartner, J., 1974, “The Hanf number for complete Lω1,ω sentences (without GCH)”, *Journal of Symbolic Logic*, 39: 575–578.
+* Bell, J. L., 1970, “Weak Compactness in Restricted Second-Order Languages”, *Bulletin of the Polish Academy of Sciences*, 18: 111–114.
+* –––, 1972, “On the Relationship between Weak Compactness in Lω1, ω, Lω1, ω1, and Restricted Second-Order Languages”, *Archive for Mathematical Logic*, 15: 74–78.
+* –––, 1974, “On Compact Cardinals”, *Zeitschrift für Mathematical Logik und Grundlagen der Mathematik*, 20: 389–393.
+* –––, 1981, “Isomorphism of Structures in S-toposes”, *Journal of Symbolic Logic*, 43 (3): 449–459.
+* Chang, C.C., 1968, “Some Remarks on the Model Theory of Infinitary Languages”. in *The Syntax and Semantics of Infinitary Languages* (Lecture Notes in Mathematics: Volume 72), J. Barwise (ed.), Springer-Verlag, Berlin, 36-63.
+* Dickmann, M. A., 1975, *Large Infinitary Languages*, Amsterdam: North-Holland.
+* Drake, F.R., 1974, *Set Theory: An Introduction to Large Cardinals*, Amsterdam: North-Holland Publishing Company.
+* Ellentuck, E., 1976, “Categoricity Regained”, *Journal of Symbolic Logic*, 41 (3): 639–643.
+* Hanf, W. P., 1964, *Incompactness in Languages with Infinitely Long Expressions*, Amsterdam: North-Holland.
+* Karp, C., 1964, *Languages with Expressions of Infinite Length*, Amsterdam: North-Holland.
+* –––, 1965, “Finite-Quantifier Equivalence” in *The Theory of Models*, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 407–412.
+* Keisler, H. J., 1974, *Model Theory for Infinitary Logic*, Amsterdam: North-Holland.
+* Keisler, H. J., and Julia F. Knight, 2004, “Barwise: Infinitary Logic And Admissible Sets”, *Journal of Symbolic Logic*, 10(1): 4–36
+* Kolaitis, P. and M. Vardi, 1992, “Fixpoint Logic vs. Infinitary Logic in Finite-Model Theory,” *Proceedings of the Seventh Annual IEEE Symposium on Logic in Computer Science* (LICS '92), IEEE, pp. 46-57; [available online](http://www.cs.rice.edu/\~vardi/papers/lics92rj.pdf), doi:10.1109/LICS.1992.185518
+* Kreisel, G., 1965, “Model-Theoretic Invariants, Applications to Recursive and Hyperarithmetic Operations”, in *The Theory of Models*, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 190-205.
+* Kueker, D., 1975, “Back-and-forth arguments in infinitary languages”, in *Infinitary Logic: In Memoriam Carol Karp* (Lecture Notes in Mathematics: Volume 492), D. Kueker (ed.), Berlin: Springer-Verlag.
+* Lopez-Escobar, E. G. K., 1965, “An Interpolation Theorem for Infinitely Long Sentences”, *Fundamenta Mathematicae*, 57: 253–272.
+* –––, 1966, “On Defining Well-Orderings”, *Fundamenta Mathematicae*, 59: 13–21.
+* Makkai, M., 1977, “Admissible Sets and Infinitary Logic”, *Handbook of Mathematical Logic*, J. Barwise (ed.), Amsterdam: North-Holland, 233-282.
+* Morley, M., 1965, “Omitting Classes of Elements”, *The Theory of Models*, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 265-273.
 * Nadel, M., 1985, “Lω1,ω and Admissible Fragments”, in J. Barwise and S. Feferman (eds.) 1985, 271–287.
-* Negri, Sara, 2021, “Geometric Rules in Infinitary Logic”, in O. Arieli and A. Zamansky (eds.), _Arnon Avron on Semantics and Proof Theory of Non-Classical Logics_, Cham: Springer, 265–293. doi:10.1007/978-3-030-71258-7\_12
-* Platek, R., 1966, _Foundations of Recursion Theory_, Ph.D. Thesis, Stanford University.
-* Scott, D., 1961, “Measurable Cardinals and Constructible Sets”, _Bulletin of the Academy of Polish Sciences_, 9: 521–524.
-* –––, 1965, “Logic with Denumerably Long Formulas and Finite Strings of Quantifiers”, _The Theory of Models_, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 329-341.
-* Scott, D., and A. Tarski, 1958, “The sentential calculus with infinitely long expressions”, _Colloquium Mathematicum_, 16: 166–170.
-* Shelah, Saharon, 2012, “Nice infinitary logics”, _Journal of the American Mathematical Society_, 25: 395-427, [available online](http://www.ams.org/journals/jams/2012-25-02/S0894-0347-2011-00712-1/), doi:10.1090/S0894-0347-2011-00712-1
-* Tarski, A., 1939, “Ideale in völlständingen Mengenkörpern I”, _Fundamenta Mathematicae_, 32: 140–150.
-* –––, 1958, “Remarks on predicate logic with infinitely long expressions”, _Colloquium Mathematicum_, 16: 171–176.
-* –––, 1962, “Some problems and results relevant to the foundations of set theory”, in E, Nagel, P. Suppes and A. Tarski (eds.), _Logic, Methodology and Philosophy of Science_, Stanford: Stanford University Press, 123-135.
-* Ulam, S., 1930, “Zur Masstheorie in der algemeinen Mengenlehre”, _Fundamenta Mathematicae_, 16: 140–150.
+* Negri, Sara, 2021, “Geometric Rules in Infinitary Logic”, in O. Arieli and A. Zamansky (eds.), *Arnon Avron on Semantics and Proof Theory of Non-Classical Logics*, Cham: Springer, 265–293. doi:10.1007/978-3-030-71258-7\_12
+* Platek, R., 1966, *Foundations of Recursion Theory*, Ph.D. Thesis, Stanford University.
+* Scott, D., 1961, “Measurable Cardinals and Constructible Sets”, *Bulletin of the Academy of Polish Sciences*, 9: 521–524.
+* –––, 1965, “Logic with Denumerably Long Formulas and Finite Strings of Quantifiers”, *The Theory of Models*, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 329-341.
+* Scott, D., and A. Tarski, 1958, “The sentential calculus with infinitely long expressions”, *Colloquium Mathematicum*, 16: 166–170.
+* Shelah, Saharon, 2012, “Nice infinitary logics”, *Journal of the American Mathematical Society*, 25: 395-427, [available online](http://www.ams.org/journals/jams/2012-25-02/S0894-0347-2011-00712-1/), doi:10.1090/S0894-0347-2011-00712-1
+* Tarski, A., 1939, “Ideale in völlständingen Mengenkörpern I”, *Fundamenta Mathematicae*, 32: 140–150.
+* –––, 1958, “Remarks on predicate logic with infinitely long expressions”, *Colloquium Mathematicum*, 16: 171–176.
+* –––, 1962, “Some problems and results relevant to the foundations of set theory”, in E, Nagel, P. Suppes and A. Tarski (eds.), *Logic, Methodology and Philosophy of Science*, Stanford: Stanford University Press, 123-135.
+* Ulam, S., 1930, “Zur Masstheorie in der algemeinen Mengenlehre”, *Fundamenta Mathematicae*, 16: 140–150.
 
 ## Academic Tools
 
@@ -549,4 +547,4 @@ Karp \[1965]首次证明了 Karp 的部分同构定理；另请参阅 Barwise \[
 [Boolean algebra: the mathematics of](https://plato.stanford.edu/entries/boolalg-math/) | [category theory](https://plato.stanford.edu/entries/category-theory/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[John L. Bell](http://publish.uwo.ca/\~jbell/) <[_jbell@uwo.ca_](mailto:jbell%40uwo%2eca)>
+[John L. Bell](http://publish.uwo.ca/\~jbell/) <[*jbell@uwo.ca*](mailto:jbell%40uwo%2eca)>

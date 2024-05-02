@@ -1,6 +1,6 @@
 # 歧义 ambiguity (Adam Sennet)
 
-_首次发布于 2011 年 5 月 16 日；实质性修订于 2021 年 5 月 22 日_
+*首次发布于 2011 年 5 月 16 日；实质性修订于 2021 年 5 月 22 日*
 
 有趣的事实：根据《牛津英语词典》，词语“ambiguous”（歧义）本身就是个歧义词：它既可以表示不确定或可疑，又可以表示具有多重含义的标志。我提到这一点只是为了消除对本条目内容的歧义，本条目涉及到一个词语或短语具有多重含义的情况。从这个意义上说，歧义一直以来都给哲学家、词典编纂者、语言学家、认知科学家、文学理论家和评论家、作家、诗人、演讲者以及几乎所有经常使用语言进行交流的人带来了许多挫折、困惑和娱乐。
 
@@ -9,7 +9,6 @@ _首次发布于 2011 年 5 月 16 日；实质性修订于 2021 年 5 月 22 �
 作者、诗人、歌词创作者等等，另一方面，常常发现歧义是一种非常强大的工具。托马斯·品钦（Thomas Pynchon）在《逆光之下》（Against the Day）第 46 页中使用了“我们有满是野兽的森林，还有数百名驱赶动物朝向像我这样等待射击的猎人的驱赶者”这句话，通过“它们”这个词的指代歧义，取得了巨大的效果，这是他虚构的费迪南德大公说的。莎士比亚的“明天找我，你会发现我是一个严肃的人”（《罗密欧与朱丽叶》第三幕第一场 97-98 行）巧妙地利用了“严肃”这个词的双重含义。喜剧演员经常发现歧义在某些形式的喜剧中是非常有用的误导手段。格劳乔·马克思（Groucho Marx）的“我穿着睡衣打死了一只大象”就是一个经典例子。
 
 歧义很重要，值得研究一下这个现象是什么，以及它与类似现象（如指示性、多义性、模糊性，尤其是意义的普遍性）的区别和关系。虽然“是一个叔叔”既可以指母亲的兄弟，也可以指父亲的兄弟，但这个短语并不是歧义的，而是在父母方面没有具体指定。谓词“是一堆”的边界是出了名地难以确定，但问题似乎并不在于“堆”有太多的意义。本文将重点讨论这个现象是什么，以及它不是什么，并讨论一些有趣的因素，这些因素使明显的歧义难以被轻易发现和分类。
-
 
 ***
 
@@ -145,13 +144,13 @@ LF 可以被表示为树形结构，分支的终端节点取自词汇表。词�
 
 （7）可以表达
 
-8. \[∀_x_:W_x_]\[∃]\(_x_ 挤压 _y_)​\*\[y]\(_x_ 挤压 _y_)_​\[:M]\(x 挤压 y)​_\[y]\(_x_ 挤压 _y_)\*
+8. \[∀*x*:W_x_]\[∃]\(*x* 挤压 *y*)​\*\[y]\(*x* 挤压 *y*)*​\[:M]\(x 挤压 y)​*\[y]\(*x* 挤压 *y*)\*
 
 （在规范化的英语中：对于每个女性 i，至少存在一个男性被她 i 挤压。）
 
 或者
 
-9. \[∃_y_:M_y_]\[∀]\(_x_ 挤压 _y_)​\*\[x]\(_x_ 挤压 _y_)_​\[:W]\(x 挤压 y)​_\[x]\(_x_ 挤压 _y_)\*
+9. \[∃*y*:M_y_]\[∀]\(*x* 挤压 *y*)​\*\[x]\(*x* 挤压 *y*)*​\[:W]\(x 挤压 y)​*\[x]\(*x* 挤压 *y*)\*
 
 （在规范的英语中：至少有一个男人 i，每个女人 j 都挤压了他 i。）
 
@@ -179,13 +178,13 @@ LF 可以被表示为树形结构，分支的终端节点取自词汇表。词�
 
 关于如何处理范围，存在很大的争议。正统观点认为，在 LF 中移动量词，以明确和消除歧义的量词范围。May（1985）经常被引用为这一观点的经典来源，但值得注意的是，在那个作品中，May 将一些 LF 视为对一些语义范围关系的不确定性。对于时间和情态（以及其他）运算符，情况就不那么清楚了：许多语义理论将时态和时间副词视为量词，而有些将情态表达式视为这种方式。其他人将它们视为它们所出现的运算符或副词。一个受人尊敬的语义传统认为（P2）是有歧义的，例如：
 
-11. \[∀_w_][∀](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)​\*[x](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)_​_[_:单身汉(_](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)_​_[w](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)_​_[_,_](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)_​_[x](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)\*​[)](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)
+11. \[∀*w*][∀](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)​\*[x](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)*​*[*:单身汉(*](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)*​*[w](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)*​*[*,*](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)*​*[x](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)\*​[)](%E6%9C%AA%E5%A9%9A\(\*x\*,\*w\*\)/)
 
 （在规范化的英语中：每个世界都是这样的，即每个世界上的单身汉在那个世界上都是未婚的。）
 
 并且
 
-12. \[∀_x_: 学士(_w_,_x_)][∀](%E6%9C%AA%E5%A9%9A%20\(\*x\*,\*w\*%E2%80%B2\)/)​\*[w](%E6%9C%AA%E5%A9%9A%20\(\*x\*,\*w\*%E2%80%B2\)/)\*​[′](%E6%9C%AA%E5%A9%9A%20\(\*x\*,\*w\*%E2%80%B2\)/)
+12. \[∀*x*: 学士(*w*,*x*)][∀](%E6%9C%AA%E5%A9%9A%20\(\*x\*,\*w\*%E2%80%B2\)/)​\*[w](%E6%9C%AA%E5%A9%9A%20\(\*x\*,\*w\*%E2%80%B2\)/)\*​[′](%E6%9C%AA%E5%A9%9A%20\(\*x\*,\*w\*%E2%80%B2\)/)
 
 （在规范化的英语中：每个世界上的单身汉都是这样的，即在每个世界上他都是单身汉。）
 
@@ -262,7 +261,7 @@ LF 可以被表示为树形结构，分支的终端节点取自词汇表。词�
 
 ### 3.4 其他有趣的案例
 
-#### 3.4.1 _Pros Hen_ 歧义
+#### 3.4.1 *Pros Hen* 歧义
 
 亚里士多德在《形而上学Γ2》中注意到一些词语在意义上相关但在暗示上微妙不同。他认为“存在”就是这样一个词，并举了“健康”等例子来说明他的观点：
 
@@ -295,7 +294,7 @@ LF 可以被表示为树形结构，分支的终端节点取自词汇表。词�
 
 #### 3.4.4 灵活的类型
 
-蒙塔古（Montague 1973）坚持一种政策，通过其类别来固定词汇项的语义类型，因此，与量词短语相同类别的名称被分配为与量词短语相同的类型。否则，他推理道，当我们连接名称和量词短语时，会出现类型不匹配的情况。然而，其他人则满足于对同一表达式的类型存在歧义的假设。因此，我们可以假设当单独出现时，“约翰”是类型⟨_e_⟩（实体引用），但当与“每个人”连接时，它是类型⟨⟨_e_,_t_⟩,_t_⟩（从函数到真值的函数），就像量词短语一样。语义学被精心设计，以不产生真值条件上的差异；但是，名称在字面上表达的含义仍然存在歧义。
+蒙塔古（Montague 1973）坚持一种政策，通过其类别来固定词汇项的语义类型，因此，与量词短语相同类别的名称被分配为与量词短语相同的类型。否则，他推理道，当我们连接名称和量词短语时，会出现类型不匹配的情况。然而，其他人则满足于对同一表达式的类型存在歧义的假设。因此，我们可以假设当单独出现时，“约翰”是类型⟨*e*⟩（实体引用），但当与“每个人”连接时，它是类型⟨⟨*e*,*t*⟩,*t*⟩（从函数到真值的函数），就像量词短语一样。语义学被精心设计，以不产生真值条件上的差异；但是，名称在字面上表达的含义仍然存在歧义。
 
 还有其他选择。我们可以保留名称的单一性，并根据其参数处理“和”作为灵活的类型。我们也可以将“和”视为一种类型转换器。类似的考虑也适用于动词短语。在这种情况下是否存在歧义，很可能是由非常高级的考虑因素决定的，而不是由能够察觉直观意义差异的能力强的说话者决定。
 
@@ -621,88 +620,88 @@ Grice 学派长期以来一直使用取消作为一种检测会话含义的方�
 
 ## Bibliography
 
-* Aristotle, _On Sophistical Refutations_, Pickard-Cambridge (trans.), in _The Complete Works of Aristotle: The Revised Oxford Translation_, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
-* Aristotle, _Metaphysics_, W.D. Ross (trans.), in _The Complete Works of Aristotle: The Revised Oxford Translation_, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
-* Atherton, Catherine, 1993. _The Stoics on Ambiguity._ Cambridge: Cambridge University Press.
-* Atlas, Jay, 1989. _Philosophy Without Ambiguity: A Logico-Linguistic Essay_, Oxford: Oxford University Press.
-* Bach, Kent, 1982. “Semantic Nonspecificity and Mixed Quantifiers,” _Linguistics and Philosophy_, 4: 593–605.
-* –––, 1999. “The Semantics-Pragmatics Distinction: What It Is and Why It Matters,” in _The Semantics/Pragmatics Interface from Different Points of View_, K. Turner (ed.), Oxford: Elsevier, 65–84.
-* Baker, Mark, 1997. “Thematic Roles and Syntactic Structure,” in _Elements of Grammar_, Liliane Haegeman (ed.), Dordrecht: Kluwer, 73–137.
-* Bezuidenhout, Anne, 2002. “Truth-Conditional Pragmatics,” _Philosophical Perspectives_, 16: 105–134.
-* Bittner, Maria, 2007. “Online Update: Temporal, Modal, and de Se Anaphora in Polysynthetic Discourse,” in Chris Barker & Pauline Jacobson (eds.), _Direct Compositionality_, Oxford: Oxford University Press.
-* Braun, David, and Theodore Sider, 2007. “Vague, So Untrue”, in _Noûs_, 41(2): 133–156.
-* Camp, Elisabeth, 2006. “Metaphor and That Certain ‘Je Ne Sais Quoi’,” _Philosophical Studies_, 129: 1–25.
-* Carlson, Greg N., 1982. “Generic Terms and Generic Sentences,” _Journal of Philosophical Logic_, 11: 145–181.
-* Carlson, Greg N. and Francis Jeffry Pelletier, 1995. _The Generic Book_, Chicago: The University of Chicago Press.
-* Chomsky, Noam, 2000. _New Horizons in the Study of Language and Mind_, Cambridge: Cambridge University Press.
-* Cruse, D. Alan, 1986. _Lexical Semantics_, Cambridge: Cambridge University Press.
-* Culicover, P.W. and R. Jackendoff, 2005. _Simpler Syntax_, Oxford: Oxford University Press.
-* Davidson, Donald, 1967. “Truth and Meaning”, _Synthese_, 17: 304–323.
-* Dayal, Veneeta, 2004. “The Universal Force of Free Choice Any,” _Linguistic Variation Yearbook_, 4: 5–40.
-* Doetjes, J., 2011, “Count/Mass Distinctions Across Languages” in _Semantics: An International Handbook of Natural Language Meaning_ (Volume 3: Chapter 96), Claudia Maienborn, Klaus von Heusinger, Paul Portner (eds.). Berlin: De Gruyter Mouton.
-* Donnellan, Keith S., 1966. “Reference and Definite Descriptions,” _Philosophical Review_, 75: 281–304.
-* Dunbar, George, 2001. “Towards a Cognitive Analysis of Polysemy, Ambiguity and Vagueness,” _Cognitive Linguistics_, 12: 1–14.
-* Fara, Delia Graff, 2000. “Shifting Sands: An Interest-Relative Theory of Vagueness,” _Philosophical Topics_, 28: 45–81 (originally published under the name “Delia Graff”).
-* Field, Hartry, 1973. “Theory Change and the Indeterminacy of Reference,” _Journal of Philosophy_, 70: 462–81.
-* Fiengo, Robert and Robert May, 1994. _Indices and Identity_ (Linguistic Inquiry Monographs 24), Cambridge, MA: MIT Press.
-* Fodor, Jerry, 1998. _Concepts: Where Cognitive Science Went Wrong_, Oxford: Oxford University Press.
-* Frege, Gottlob, 1948 \[1892]. “Sense and Reference,” _The Philosophical Review_, 53: 209–230.
-* Giannakidou, Anastasia, 2001. “The Meaning of Free Choice,” _Linguistics and Philosophy_, 24: 659–735.
-* Gillon, Brendan, 1990. “Ambiguity, generality, and indeterminacy,” _Synthese_, 85: 391–416; extended version, in _Semantics: A Reader_, Gillon and Davis (eds.), Oxford: Oxford University Press.
-* Greenough, Patrick, 2003. “Vagueness: A Minimal Theory,” _Mind_, 112: 235–81.
-* Grice, H. P., 1975. “Logic and Conversation,” in _Syntax and Semantics 3: Speech Acts_, Cole and Morgan (eds.), New York: Academic Press.
-* Grimshaw, Jane, 1992. _Argument Structure_, Cambridge, MA: MIT Press.
-* Heim, Irene, 1983. “File Change Semantics and the Familiarity Theory of Definiteness,” in _Meaning, Use and Interpretation of Language_, Bäuerle, Schwarze and von Stechow (eds.), Berlin: Walter de Gruyter, 164–90; reprinted in Portner and Partee (eds.), 2002, 223–248.
-* –––, 1989. _The Semantics of Definite and Indefinite Noun Phrases_, New York: Garland.
-* Herburger, Elena, 2000. _What Counts: Focus and Quantification_ (Linguistic Inquiry Monographs: Volume 36), Cambridge. MA: MIT Press.
-* Hobbs, Jerry, 1979. “Coherence and coreference” in _Cognitive Science_, Los Angeles, CA, 432–5.
-* –––, 1985. “Granularity,” in A. Joshi (ed.), _Proceedings of the 9th IJCAI_ (Volume 1), Los Angeles, CA: Morgan Kaufmann, 432–5.
-* Horn, Laurence, 2000. “Any and (-)ever: Free choice and free relatives,” in _Proceedings of the 15th Annual Conference of the Israeli Association for Theoretical Linguistics_, 71–111.
-* Jacobson, Pauline, 1999. “Towards a Variable-Free Semantics,” _Linguistics and Philosophy_, 22: 117–184.
-* Kadmon, Nirit and Fred Landman, 1993: “Any,” _Linguistics and Philosophy_, 16: 353–422.
-* Kamp, J. A. W., 1981. “A Theory of Truth and Semantic Representation,” in _Formal Methods in the Study of Language_, J. Groenendijk, T. Janssen and M. Stokhof (eds.), Amsterdam: Mathematical Centre, 277–322.
-* Kratzer, Angelika, 1977. “What ‘Must’ and ‘Can’ Must and Can Mean,” _Linguistics and Philosophy_, 1: 337–355.
-* Kripke, Saul, 1977. “Speaker’s Reference and Semantic Reference,” _Midwest Studies in Philosophy_, 2: 255–276.
-* Lewandowska-Tomaszczyk, Barbara, 2007. “Polysemy, Prototypes and Radial Categories”. _The Oxford Handbook of Cognitive Linguistics_, Dirk Geeraerts and Hubert Cuyckens (eds.), Oxford: Oxford University Press, 139–169.
-* Lepore, Ernie and Stone, Matthew, 2014. _Imagination and Convention: Distinguishing Grammar and Inference in Language_. Oxford: Oxford University Press.
-* May, Robert, 1985. _Logical Form: Its Structure and Derivation_, Cambridge, MA: MIT Press.
-* –––, 1991. _The Grammar of Quantification_, New York: Garland; this is a facsimile edition of the 1977 MIT Ph.D. Dissertation, with 1991 preface.
-* McKay, Thomas, 2006. _Plural Predication_. Oxford: Oxford University Press.
-* Montague, Richard, 1973. “The proper treatment of quantification in ordinary English,” in R. Montague, _Formal Philosophy: Selected Papers of Richard Montague_, R. Thomason (ed.), New Haven: Yale University Press, 1974, 247–270.
-* Neale, Stephen, 1975. _Descriptions_, Cambridge, MA: MIT Press.
-* Murray, Sarah E. and Starr, William B., 2018. “Force and Conventional States,” in _New Work on Speech Acts_, Daniel Fogal, Daniel W. Harris, and Matt Moss (eds.), Oxford: Oxford University Press.
-* Nunberg, Geoffrey, 1978. _The Pragmatics of Reference_, Bloomington: Indiana University Linguistics Club.
-* –––, 1995. “Transfers of Meaning,” _Journal of Semantics_, 12: 109–32.
-* Partee, Barbara H., 1986. “Noun phrase interpretation and type-shifting principles,” in _Studies in Discourse Representation Theory and the Theory of Generalized Quantifiers_, Groenendijk, de Jongh and M. Stokhof (eds.), Dordrecht: Foris, 115–143; reprinted in Portner and Partee (eds.), 2002, 357–381; reprinted in B. Partee, _Compositionality in Formal Semantics: Selected Papers by Barbara H. Partee_, Oxford: Blackwell, 2004, 203–230.
-* Partee, Barbara H., and Mats Rooth, 1983. “Generalized conjunction and type ambiguity,” in _Meaning, Use, and Interpretation of Language_, Bäuerle, Schwarze and von Stechow (eds.), Berlin: Walter de Gruyter, 361–83; reprinted in Portner and Partee (eds.), 2002, 334–356.
-* Pelletier, F. Jeffry, 1975. “Non-singular reference: some preliminaries,” _Philosophia_, 5(4): 451–465.
-* Pietroski, Paul, 2005. “Meaning Before Truth,” in _Contextualism in Philosophy_, Preyer and Peters (eds.), Oxford: Oxford University Press.
-* Pietroski, Paul and Norbert Hornstein, 2002. “Does Every Sentence Like This Exhibit A Scope Ambiguity?” in _Belief and Meaning_, Hinzen and Rott (eds.), Frankfurt: Hansel-Hohenhausen.
-* Pynchon, Thomas, 2006, _Against the Day_, Penguin Press.
-* Quine, W. V., 1951. “Two Dogmas of Empiricism,” _The Philosophical Review_, 60: 20–43.
-* –––, 1960. _Word and Object_, Cambridge, MA: MIT Press.
-* Recanati, Francois, 1989. “The Pragmatics of What is Said,” _Mind and Language_, 4: 295–329; reprinted in _Pragmatics: A Reader_, Davis (ed.), 1991. Oxford: Oxford University Press, 97–120.
-* –––, 2004. _Literal Meaning_, Cambridge: Cambridge University Press.
-* Rooth, Mats, 1992. “A Theory of Focus Interpretation,” _Natural Language Semantics_, 1: 75–116.
-* Ryle, Gilbert, 1949. _The Concept of Mind_, Chicago: University of Chicago Press.
-* Sag, Ivan, 1976. _Deletion and Logical Form_, Ph.D Thesis, Department of Linguistics, Massachusetts Institute of Technology; published, New York: Garland Publishing, 1980.
-* Saka, Paul, 2007. _How to Think About Meaning_. Dordrecht: Springer.
-* Schein, Barry, 2006. “Plurals”, in Ernest Lepore & Barry Smith (eds.), _The Oxford Handbook of Philosophy of Language_, Oxford: Oxford University Press, pp. 716–767.
-* Schwarzschild, Roger, 2002. “Singleton Indefinites,” _Journal of Semantics_, 19: 289–314.
-* Searle, John R., 1979. _Expression and Meaning: Studies in the Theory of Speech Acts_, Cambridge: Cambridge University Press.
-* Shakespeare, William, _Romeo and Juliet_, any edition.
-* Smith, Nicholas, 2005. “Vagueness as Closeness,” _Australasian Journal of Philosophy_, 83: 157 –183.
-* Smyth, Ron, 1994. “Grammatical Determinants of Ambiguous Pronoun Resolution,” _Journal of Psycholinguistic Research_, 23: 197–229.
-* Spade, P. V., 1996. _Thoughts, Words and Things: An Introduction to Late Mediaeval Logic and Semantic Theory_, Version 1.0. Bloomington: Indiana University.
-* Stone, Matthew and Daniel Hardt, 1997. “Dynamic Discourse Referents for Tense and Modals,” _Proceedings of IWCS_, 2: 287–299.
-* Strawson, P. F., 1950. “On Referring,” _Mind_, 59: 320–344.
-* Tuggy, David, 1993. “Ambiguity, Polysemy and Vagueness,” _Cognitive Linguistics_, 4: 273–290.
-* Vicente, A., & Falkum, I. 2017. ‘Polysemy,’ in _Oxford Research Encyclopedia of Linguistics_, [Vicente & Falkum 2017 available online](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-325). doi:10.1093/acrefore/9780199384655.013.325.
-* Viebahn, E., 2018. “Ambiguity and Zeugma,” in _Pacific Philosophical Quarterly_, 99(4): 749–762.
-* Ward, Gregory, 2004. “Equatives and Deferred Reference,” _Language_, 80: 262–289.
-* Williams, Edwin, 1977. “Discourse and Logical Form,” _Linguistic Inquiry_, 8(1): 101–139.
-* Williams, Edwin, 1994. _Thematic Structure in Syntax._ Cambridge, MA: MIT Press.
-* Zwicky, Arnold M. and Jerrold M. Sadock, 1975. “Ambiguity Tests and How to Fail Them,” in _Syntax and Semantics_ (Volume IV), J. Kimball (ed.), New York: Academic Press, 1–36.
+* Aristotle, *On Sophistical Refutations*, Pickard-Cambridge (trans.), in *The Complete Works of Aristotle: The Revised Oxford Translation*, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
+* Aristotle, *Metaphysics*, W.D. Ross (trans.), in *The Complete Works of Aristotle: The Revised Oxford Translation*, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
+* Atherton, Catherine, 1993. *The Stoics on Ambiguity.* Cambridge: Cambridge University Press.
+* Atlas, Jay, 1989. *Philosophy Without Ambiguity: A Logico-Linguistic Essay*, Oxford: Oxford University Press.
+* Bach, Kent, 1982. “Semantic Nonspecificity and Mixed Quantifiers,” *Linguistics and Philosophy*, 4: 593–605.
+* –––, 1999. “The Semantics-Pragmatics Distinction: What It Is and Why It Matters,” in *The Semantics/Pragmatics Interface from Different Points of View*, K. Turner (ed.), Oxford: Elsevier, 65–84.
+* Baker, Mark, 1997. “Thematic Roles and Syntactic Structure,” in *Elements of Grammar*, Liliane Haegeman (ed.), Dordrecht: Kluwer, 73–137.
+* Bezuidenhout, Anne, 2002. “Truth-Conditional Pragmatics,” *Philosophical Perspectives*, 16: 105–134.
+* Bittner, Maria, 2007. “Online Update: Temporal, Modal, and de Se Anaphora in Polysynthetic Discourse,” in Chris Barker & Pauline Jacobson (eds.), *Direct Compositionality*, Oxford: Oxford University Press.
+* Braun, David, and Theodore Sider, 2007. “Vague, So Untrue”, in *Noûs*, 41(2): 133–156.
+* Camp, Elisabeth, 2006. “Metaphor and That Certain ‘Je Ne Sais Quoi’,” *Philosophical Studies*, 129: 1–25.
+* Carlson, Greg N., 1982. “Generic Terms and Generic Sentences,” *Journal of Philosophical Logic*, 11: 145–181.
+* Carlson, Greg N. and Francis Jeffry Pelletier, 1995. *The Generic Book*, Chicago: The University of Chicago Press.
+* Chomsky, Noam, 2000. *New Horizons in the Study of Language and Mind*, Cambridge: Cambridge University Press.
+* Cruse, D. Alan, 1986. *Lexical Semantics*, Cambridge: Cambridge University Press.
+* Culicover, P.W. and R. Jackendoff, 2005. *Simpler Syntax*, Oxford: Oxford University Press.
+* Davidson, Donald, 1967. “Truth and Meaning”, *Synthese*, 17: 304–323.
+* Dayal, Veneeta, 2004. “The Universal Force of Free Choice Any,” *Linguistic Variation Yearbook*, 4: 5–40.
+* Doetjes, J., 2011, “Count/Mass Distinctions Across Languages” in *Semantics: An International Handbook of Natural Language Meaning* (Volume 3: Chapter 96), Claudia Maienborn, Klaus von Heusinger, Paul Portner (eds.). Berlin: De Gruyter Mouton.
+* Donnellan, Keith S., 1966. “Reference and Definite Descriptions,” *Philosophical Review*, 75: 281–304.
+* Dunbar, George, 2001. “Towards a Cognitive Analysis of Polysemy, Ambiguity and Vagueness,” *Cognitive Linguistics*, 12: 1–14.
+* Fara, Delia Graff, 2000. “Shifting Sands: An Interest-Relative Theory of Vagueness,” *Philosophical Topics*, 28: 45–81 (originally published under the name “Delia Graff”).
+* Field, Hartry, 1973. “Theory Change and the Indeterminacy of Reference,” *Journal of Philosophy*, 70: 462–81.
+* Fiengo, Robert and Robert May, 1994. *Indices and Identity* (Linguistic Inquiry Monographs 24), Cambridge, MA: MIT Press.
+* Fodor, Jerry, 1998. *Concepts: Where Cognitive Science Went Wrong*, Oxford: Oxford University Press.
+* Frege, Gottlob, 1948 \[1892]. “Sense and Reference,” *The Philosophical Review*, 53: 209–230.
+* Giannakidou, Anastasia, 2001. “The Meaning of Free Choice,” *Linguistics and Philosophy*, 24: 659–735.
+* Gillon, Brendan, 1990. “Ambiguity, generality, and indeterminacy,” *Synthese*, 85: 391–416; extended version, in *Semantics: A Reader*, Gillon and Davis (eds.), Oxford: Oxford University Press.
+* Greenough, Patrick, 2003. “Vagueness: A Minimal Theory,” *Mind*, 112: 235–81.
+* Grice, H. P., 1975. “Logic and Conversation,” in *Syntax and Semantics 3: Speech Acts*, Cole and Morgan (eds.), New York: Academic Press.
+* Grimshaw, Jane, 1992. *Argument Structure*, Cambridge, MA: MIT Press.
+* Heim, Irene, 1983. “File Change Semantics and the Familiarity Theory of Definiteness,” in *Meaning, Use and Interpretation of Language*, Bäuerle, Schwarze and von Stechow (eds.), Berlin: Walter de Gruyter, 164–90; reprinted in Portner and Partee (eds.), 2002, 223–248.
+* –––, 1989. *The Semantics of Definite and Indefinite Noun Phrases*, New York: Garland.
+* Herburger, Elena, 2000. *What Counts: Focus and Quantification* (Linguistic Inquiry Monographs: Volume 36), Cambridge. MA: MIT Press.
+* Hobbs, Jerry, 1979. “Coherence and coreference” in *Cognitive Science*, Los Angeles, CA, 432–5.
+* –––, 1985. “Granularity,” in A. Joshi (ed.), *Proceedings of the 9th IJCAI* (Volume 1), Los Angeles, CA: Morgan Kaufmann, 432–5.
+* Horn, Laurence, 2000. “Any and (-)ever: Free choice and free relatives,” in *Proceedings of the 15th Annual Conference of the Israeli Association for Theoretical Linguistics*, 71–111.
+* Jacobson, Pauline, 1999. “Towards a Variable-Free Semantics,” *Linguistics and Philosophy*, 22: 117–184.
+* Kadmon, Nirit and Fred Landman, 1993: “Any,” *Linguistics and Philosophy*, 16: 353–422.
+* Kamp, J. A. W., 1981. “A Theory of Truth and Semantic Representation,” in *Formal Methods in the Study of Language*, J. Groenendijk, T. Janssen and M. Stokhof (eds.), Amsterdam: Mathematical Centre, 277–322.
+* Kratzer, Angelika, 1977. “What ‘Must’ and ‘Can’ Must and Can Mean,” *Linguistics and Philosophy*, 1: 337–355.
+* Kripke, Saul, 1977. “Speaker’s Reference and Semantic Reference,” *Midwest Studies in Philosophy*, 2: 255–276.
+* Lewandowska-Tomaszczyk, Barbara, 2007. “Polysemy, Prototypes and Radial Categories”. *The Oxford Handbook of Cognitive Linguistics*, Dirk Geeraerts and Hubert Cuyckens (eds.), Oxford: Oxford University Press, 139–169.
+* Lepore, Ernie and Stone, Matthew, 2014. *Imagination and Convention: Distinguishing Grammar and Inference in Language*. Oxford: Oxford University Press.
+* May, Robert, 1985. *Logical Form: Its Structure and Derivation*, Cambridge, MA: MIT Press.
+* –––, 1991. *The Grammar of Quantification*, New York: Garland; this is a facsimile edition of the 1977 MIT Ph.D. Dissertation, with 1991 preface.
+* McKay, Thomas, 2006. *Plural Predication*. Oxford: Oxford University Press.
+* Montague, Richard, 1973. “The proper treatment of quantification in ordinary English,” in R. Montague, *Formal Philosophy: Selected Papers of Richard Montague*, R. Thomason (ed.), New Haven: Yale University Press, 1974, 247–270.
+* Neale, Stephen, 1975. *Descriptions*, Cambridge, MA: MIT Press.
+* Murray, Sarah E. and Starr, William B., 2018. “Force and Conventional States,” in *New Work on Speech Acts*, Daniel Fogal, Daniel W. Harris, and Matt Moss (eds.), Oxford: Oxford University Press.
+* Nunberg, Geoffrey, 1978. *The Pragmatics of Reference*, Bloomington: Indiana University Linguistics Club.
+* –––, 1995. “Transfers of Meaning,” *Journal of Semantics*, 12: 109–32.
+* Partee, Barbara H., 1986. “Noun phrase interpretation and type-shifting principles,” in *Studies in Discourse Representation Theory and the Theory of Generalized Quantifiers*, Groenendijk, de Jongh and M. Stokhof (eds.), Dordrecht: Foris, 115–143; reprinted in Portner and Partee (eds.), 2002, 357–381; reprinted in B. Partee, *Compositionality in Formal Semantics: Selected Papers by Barbara H. Partee*, Oxford: Blackwell, 2004, 203–230.
+* Partee, Barbara H., and Mats Rooth, 1983. “Generalized conjunction and type ambiguity,” in *Meaning, Use, and Interpretation of Language*, Bäuerle, Schwarze and von Stechow (eds.), Berlin: Walter de Gruyter, 361–83; reprinted in Portner and Partee (eds.), 2002, 334–356.
+* Pelletier, F. Jeffry, 1975. “Non-singular reference: some preliminaries,” *Philosophia*, 5(4): 451–465.
+* Pietroski, Paul, 2005. “Meaning Before Truth,” in *Contextualism in Philosophy*, Preyer and Peters (eds.), Oxford: Oxford University Press.
+* Pietroski, Paul and Norbert Hornstein, 2002. “Does Every Sentence Like This Exhibit A Scope Ambiguity?” in *Belief and Meaning*, Hinzen and Rott (eds.), Frankfurt: Hansel-Hohenhausen.
+* Pynchon, Thomas, 2006, *Against the Day*, Penguin Press.
+* Quine, W. V., 1951. “Two Dogmas of Empiricism,” *The Philosophical Review*, 60: 20–43.
+* –––, 1960. *Word and Object*, Cambridge, MA: MIT Press.
+* Recanati, Francois, 1989. “The Pragmatics of What is Said,” *Mind and Language*, 4: 295–329; reprinted in *Pragmatics: A Reader*, Davis (ed.), 1991. Oxford: Oxford University Press, 97–120.
+* –––, 2004. *Literal Meaning*, Cambridge: Cambridge University Press.
+* Rooth, Mats, 1992. “A Theory of Focus Interpretation,” *Natural Language Semantics*, 1: 75–116.
+* Ryle, Gilbert, 1949. *The Concept of Mind*, Chicago: University of Chicago Press.
+* Sag, Ivan, 1976. *Deletion and Logical Form*, Ph.D Thesis, Department of Linguistics, Massachusetts Institute of Technology; published, New York: Garland Publishing, 1980.
+* Saka, Paul, 2007. *How to Think About Meaning*. Dordrecht: Springer.
+* Schein, Barry, 2006. “Plurals”, in Ernest Lepore & Barry Smith (eds.), *The Oxford Handbook of Philosophy of Language*, Oxford: Oxford University Press, pp. 716–767.
+* Schwarzschild, Roger, 2002. “Singleton Indefinites,” *Journal of Semantics*, 19: 289–314.
+* Searle, John R., 1979. *Expression and Meaning: Studies in the Theory of Speech Acts*, Cambridge: Cambridge University Press.
+* Shakespeare, William, *Romeo and Juliet*, any edition.
+* Smith, Nicholas, 2005. “Vagueness as Closeness,” *Australasian Journal of Philosophy*, 83: 157 –183.
+* Smyth, Ron, 1994. “Grammatical Determinants of Ambiguous Pronoun Resolution,” *Journal of Psycholinguistic Research*, 23: 197–229.
+* Spade, P. V., 1996. *Thoughts, Words and Things: An Introduction to Late Mediaeval Logic and Semantic Theory*, Version 1.0. Bloomington: Indiana University.
+* Stone, Matthew and Daniel Hardt, 1997. “Dynamic Discourse Referents for Tense and Modals,” *Proceedings of IWCS*, 2: 287–299.
+* Strawson, P. F., 1950. “On Referring,” *Mind*, 59: 320–344.
+* Tuggy, David, 1993. “Ambiguity, Polysemy and Vagueness,” *Cognitive Linguistics*, 4: 273–290.
+* Vicente, A., & Falkum, I. 2017. ‘Polysemy,’ in *Oxford Research Encyclopedia of Linguistics*, [Vicente & Falkum 2017 available online](https://oxfordre.com/linguistics/view/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-325). doi:10.1093/acrefore/9780199384655.013.325.
+* Viebahn, E., 2018. “Ambiguity and Zeugma,” in *Pacific Philosophical Quarterly*, 99(4): 749–762.
+* Ward, Gregory, 2004. “Equatives and Deferred Reference,” *Language*, 80: 262–289.
+* Williams, Edwin, 1977. “Discourse and Logical Form,” *Linguistic Inquiry*, 8(1): 101–139.
+* Williams, Edwin, 1994. *Thematic Structure in Syntax.* Cambridge, MA: MIT Press.
+* Zwicky, Arnold M. and Jerrold M. Sadock, 1975. “Ambiguity Tests and How to Fail Them,” in *Syntax and Semantics* (Volume IV), J. Kimball (ed.), New York: Academic Press, 1–36.
 
 ## Academic Tools
 
@@ -714,7 +713,7 @@ Grice 学派长期以来一直使用取消作为一种检测会话含义的方�
 
 ## Other Internet Resources
 
-* Drubig, H. B., 2001, [_On the Syntactic Form of Epistemic Modality_](http://www.lingexp.uni-tuebingen.de/sfb441/b2/papers/DrubigModality.pdf), unpublished manuscript, University of Tübingen.
+* Drubig, H. B., 2001, [*On the Syntactic Form of Epistemic Modality*](http://www.lingexp.uni-tuebingen.de/sfb441/b2/papers/DrubigModality.pdf), unpublished manuscript, University of Tübingen.
 
 ## Related Entries
 
@@ -725,4 +724,4 @@ Grice 学派长期以来一直使用取消作为一种检测会话含义的方�
 The author thanks Ben Caplan, Michael Glanzberg, Robbie Hirsch, Greg D’amico, Judith Tonheuser, Robert May and the reading group Synners at OSU for extremely helpful comments and observations. Thanks to the OSU reading group Synners for suggestions that were invaluable additions to Section 4.1. Thanks to Paul Saka for detailed comments and helpful discussion that helped me produce the first revision of the entry. Thanks to Jeff Pelletier for very helpful suggestions that helped a great deal with the second revision.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Adam Sennet <[_amsennet@ucdavis.edu_](mailto:amsennet%40ucdavis%2eedu)>
+Adam Sennet <[*amsennet@ucdavis.edu*](mailto:amsennet%40ucdavis%2eedu)>

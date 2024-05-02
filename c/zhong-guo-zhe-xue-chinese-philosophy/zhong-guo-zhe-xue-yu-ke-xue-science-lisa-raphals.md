@@ -1,6 +1,6 @@
 # 中国哲学与科学 science (Lisa Raphals)
 
-_首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10 月 7 日星期三_
+*首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10 月 7 日星期三*
 
 乍一看，中国哲学与科学之间似乎没有什么联系。将中国哲学刻板地视为几乎完全由儒家思想组成，并声称儒家对科学不感兴趣的观念加剧了这种看法。
 
@@ -13,8 +13,6 @@ _首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10
 这篇文章从几个方面探讨了科学与中国哲学之间的关系。它以清代中国哲学史学者冯友兰近百年前的详细论证开始，声称中国没有科学，因为没有任何需要。第二部分介绍了来自科学史的一个相反观点，由约瑟夫·尼德姆等人提出，介绍了在中国发展起来的一系列科学，具有可以称之为独特的中国特色。第三部分讨论了尼德姆将中国科学显著地描绘为道家的特定问题。
 
 接下来的两个部分试图通过回顾科学发展的知识和社会背景，历史化和调和这两个历史，一个是哲学的，一个是科学的。第四部分关注早期哲学和科学的从业者和文本共享的概念。第五部分转向早期汉代历史的一章中对文本进行分类，探讨了通才和专家知识之间的智识分歧。第六部分探讨了早期科学从业者的社会背景，以及他们与哲学文本和传统的关系。最后一部分概述了早期科学，特别关注科学与中国哲学之间关系密切的领域，尤其是宇宙学、天文学、数学和医学。
-
-
 
 ***
 
@@ -42,7 +40,7 @@ _首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10
 
 尼德姆本人是一位杰出的胚胎学家（尼德姆 1931，1934），是多卷本持续出版的《中国科学技术史》的主要作者（1954-）。他对中国科学史问题的处理方式是试图将中国科学传统纳入二十世纪西方科学的范畴。一方面，这种方法使尼德姆及其合作者能够从认真对待中国科学作为对科学历史的持续和普遍贡献者的视角，参与到众多中国科学的丰富多样性中。这种方法还使尼德姆的团队能够始终一致地反驳“东方主义者”的主张或凭空假设，即科学是欧洲传统的独有财产，向古希腊延伸，几乎没有受到其他任何文化传统的影响。另一方面，尼德姆在中国科学史上的“普世主义”方法被认为是时代错误和文化不恰当的（耶茨 2003，658）。
 
-正如 Nathan Sivin（1990 年和 1995 年）所主张的，中国的记载侧重于具体的科学，而不是统一的科学概念。这些中国科学既定量又定性。Sivin（1982 年和 1990 年）将定量科学分为三个学科：数学（_suan_ 算），数学谐波或声学（_lü_ 律或_lü lü_ 律呂）和数学天文学（_li_ 歷或_li fa_ 歷法），被认为与谐波有关。Sivin 将定性科学描述为：天文学或占星术（_tian wen_ 天文），医学（_yi_ 醫）和风水。_Tian wen_ 包括观测天文和气象事件，正确解读可用于纠正政治秩序。医学包括“养生”，这是一个广泛的范畴，包括许多重要哲学含义的自我修养技术。在后来的时期，医学还包括药物学（_ben cao_ 本草）以及内丹和外丹炼丹术（_nei dan_ 內丹和_wai dan_ 外丹）。
+正如 Nathan Sivin（1990 年和 1995 年）所主张的，中国的记载侧重于具体的科学，而不是统一的科学概念。这些中国科学既定量又定性。Sivin（1982 年和 1990 年）将定量科学分为三个学科：数学（*suan* 算），数学谐波或声学（*lü* 律或_lü lü_ 律呂）和数学天文学（*li* 歷或_li fa_ 歷法），被认为与谐波有关。Sivin 将定性科学描述为：天文学或占星术（*tian wen* 天文），医学（*yi* 醫）和风水。*Tian wen* 包括观测天文和气象事件，正确解读可用于纠正政治秩序。医学包括“养生”，这是一个广泛的范畴，包括许多重要哲学含义的自我修养技术。在后来的时期，医学还包括药物学（*ben cao* 本草）以及内丹和外丹炼丹术（*nei dan* 內丹和_wai dan_ 外丹）。
 
 ## 3. 中国科学是否“道家”？
 
@@ -58,7 +56,7 @@ _首次发表于 2015 年 4 月 28 日星期二；实质性修订于 2020 年 10
 
 尼德姆与冯友兰截然不同，将道家描述为既自然主义又对自然现象感兴趣。他将道家描述为“宗教和诗意的，是的；但它至少同样强调魔法、科学、民主和政治革命”（1956a，32）。根据这一解读，道家的历史也呈现出了一幅非常不同的科学和医学画面。
 
-但是，这一画面存在几个问题。一个最初的问题是对早期道家性质的时代错误理解。这些包括过分强调道家文本的学派和传奇作者。还有一个问题性的区分，即所谓的“哲学”道家（_道家_）如《道德经》、《庄子》和《淮南子》，以及所谓的“宗教”道家（_道教_）如长生实践、民间信仰和有组织的道教教会。正如斯文（1978 年，1995b 年）在三十多年前开始的一系列文章中指出的那样，将道家简单地刻画为神秘主义或自然主义的刻板印象，会模糊对道家与科学关系的理解。
+但是，这一画面存在几个问题。一个最初的问题是对早期道家性质的时代错误理解。这些包括过分强调道家文本的学派和传奇作者。还有一个问题性的区分，即所谓的“哲学”道家（*道家*）如《道德经》、《庄子》和《淮南子》，以及所谓的“宗教”道家（*道教*）如长生实践、民间信仰和有组织的道教教会。正如斯文（1978 年，1995b 年）在三十多年前开始的一系列文章中指出的那样，将道家简单地刻画为神秘主义或自然主义的刻板印象，会模糊对道家与科学关系的理解。
 
 Sivin（1995a）指出了民间宗教与特定道教宗教运动之间的重要区别，后者与哲学或自然研究几乎没有联系。他的观点是，大多数科学技术专业是源自民间而非道家学派；一旦做出了这一关键区分，我们就不再需要将所有或大多数中国科学误归为道家（如尼德姆所做）。这一举措还使我们能够澄清，一些道家大师的目标是与神性合一，而不是追求理性探究或系统实验。相反，他们利用现有的技术知识和实践，并将其调整为自己的目的，但通常并未对其进行改进。然而，重要的一点是，道家学派保留了书面记录，而发展最初专业知识的工匠们却没有。因此，科学史学家倾向于将道家归功于他们可能记录而非发展的创新。
 
@@ -90,7 +88,7 @@ Sivin 的描述有助于解释为什么许多科学创新的记录仅出现在�
 
 第二个重要观点是论文前半部分和后半部分的保存和作者身份截然不同。虽然前三个部分包含许多已经不存在的标题，但它们都包含大量现存文本。相比之下，最后三个部分几乎完全由已失传文本的标题组成。
 
-这篇论文的两个部分在作者身份上也有所不同。前三节是由刘向编纂的。相比之下，最后三节是由技术专家编纂的。《文献志》的第四节“军事著作”部分是由汉成帝麾下步兵校尉任宏编纂的。而“_数术_”类别是由一位天文官员编纂的：_太史_尹咸（《汉书》，30，1775）。食谱和方法部分是由宫廷医生李柱国编纂的。这种在《战国策》中声称灵活通识智慧优于具体技术艺术的论调，可以看作是对战国时期主张的延续。在这种战国时期的论证中，对综合智慧和普遍性的主张旨在确立古代圣王之道的独有性，而其他竞争传统只具备部分。这种主张出现在《庄子》中，也出现在荀子和韩非对其他学派的攻击中。因此，汉代文集的作者们在综合竞争传统的过程中，偏袒通才。通过这种方式，文献志的组织彰显了通才和普遍知识优于军事、卜筮和医药知识的优越性，故意将后者框定为技术性和有限性质。
+这篇论文的两个部分在作者身份上也有所不同。前三节是由刘向编纂的。相比之下，最后三节是由技术专家编纂的。《文献志》的第四节“军事著作”部分是由汉成帝麾下步兵校尉任宏编纂的。而“*数术*”类别是由一位天文官员编纂的：_太史_尹咸（《汉书》，30，1775）。食谱和方法部分是由宫廷医生李柱国编纂的。这种在《战国策》中声称灵活通识智慧优于具体技术艺术的论调，可以看作是对战国时期主张的延续。在这种战国时期的论证中，对综合智慧和普遍性的主张旨在确立古代圣王之道的独有性，而其他竞争传统只具备部分。这种主张出现在《庄子》中，也出现在荀子和韩非对其他学派的攻击中。因此，汉代文集的作者们在综合竞争传统的过程中，偏袒通才。通过这种方式，文献志的组织彰显了通才和普遍知识优于军事、卜筮和医药知识的优越性，故意将后者框定为技术性和有限性质。
 
 最后，大师们的文本表明，大师学派的文本专家与技术专家之间存在激烈的竞争，后者的知识和专长体现在文献志的最后三节中。这种竞争涉及职业选择、赞助、学生以及知识流派和模式的地位。例如，迈克尔·普埃特（2002）认为，_方士_与朝廷官员之间的互动历史是交织在一起的，朝廷赞助的对古代哲学文本的解释在一定程度上是对_方士_的回应。
 
@@ -120,7 +118,7 @@ Sivin 的描述有助于解释为什么许多科学创新的记录仅出现在�
 
 我以对中国哲学与中国科学之间关系领域的简要描述作结，记住中国的描述主要集中在特定科学领域，而不是统一的科学概念上。我们主要在定性科学领域——天文学、占星术和医学中发现这些内容。
 
-哲学和科学之间重要的重叠领域出现在宇宙学、数学和历法学中。宇宙学兴趣的一个重要方面是观测天文学或占星术（_天文_）。在一项重要的关于中国考古天文学的研究中，David Pankenier（2013 年，5 页）追溯到中国人将人类活动与太阳、月亮和星星的观测和位置协调起来的情况，可以追溯到公元前五千年的新石器时代文化。关于王室对星星和风的兴趣的书面证据可以追溯到商代甲骨文。正如 Nathan Sivin（1990 年，181 页）所说：“天文学和占星术之间的区别在于对定量和定性的强调以及客观运动与天象与政治事件之间的相关性。”
+哲学和科学之间重要的重叠领域出现在宇宙学、数学和历法学中。宇宙学兴趣的一个重要方面是观测天文学或占星术（*天文*）。在一项重要的关于中国考古天文学的研究中，David Pankenier（2013 年，5 页）追溯到中国人将人类活动与太阳、月亮和星星的观测和位置协调起来的情况，可以追溯到公元前五千年的新石器时代文化。关于王室对星星和风的兴趣的书面证据可以追溯到商代甲骨文。正如 Nathan Sivin（1990 年，181 页）所说：“天文学和占星术之间的区别在于对定量和定性的强调以及客观运动与天象与政治事件之间的相关性。”
 
 这些领域与哲学之间只有轻微的联系。天文学和占星观测是朝廷仪式的重要组成部分，因为它们被用来确定各种事件的吉祥时机。可以说，文本主义者认可它们作为仪式进行的一个方面，但在哲学上对它们的细节几乎没有涉及。（哲学和数学之间也有轻微但重要的联系。这个问题在很多方面被数学或逻辑证明的概念所模糊，以及在中国的存在或缺失（Chemla 2012 年，Chemla 和 Guo 2004 年）。
 
@@ -140,7 +138,7 @@ Sivin 的描述有助于解释为什么许多科学创新的记录仅出现在�
 
 关于“养生”技术的参考出现在大师文本中的自我修养描述以及《汉书·艺文志》中（已失传）食谱的标题中。Mark Csikzentmihalyi 认为，依赖“养生”技术的“物质美德”传统在《孟子》和从郭店和马王堆出土的两个版本的《五行》中显著出现。这些文本提供了“描述美德修养过程的详细道德心理学”（Csikszentmihalyi 2004，7）。《孟子》（2A2）著名地提到“修养如洪水般的气”，《庄子》第三章标题为“养生主”。相比之下，在《艺文志》的“食疗”部分中提到的“养生”与流行文化和食谱中直接涉及健康和长寿（V. Lo 2001 和 2005，Raphals 2008–2009）。
 
-_阴阳_、_气_和五行也影响了医学理论，这些理论在《黄帝内经》这部宇宙论框架的系统化著作中得到了系统化（Veith 1972，Unschuld 和 Tessenow 2011）。这部复杂而多层次的文本，可能编纂于公元前一世纪，呈现了一种系统的宇宙论，通过“对应宇宙论”（Graham 1986；Sivin 1995；Lloyd 和 Sivin 2002）的复杂系统，将身体、国家和宇宙进行类比。例如，《黄帝内经》描述了身体和宇宙之间的对应关系，特别是天地之间以及身体的上下部分之间的对应关系，包括身体、国家和宇宙之间的关系和类比，全部以阴阳和五行的术语表达（《黄帝内经灵枢》71.2，446）。这些对应关系似乎与现代宇宙学推测或经验科学大相径庭。在这些极端之间，是《汉书》文献志中描述的大多数失传的技术传统艺术：天文学、医学、药理学和占卜艺术，这些从业者是文本学家或哲学家的对手和潜在竞争者（Lloyd 和 Sivin 2002）。最初由占卜者和技术专家发展的专业知识成为《道德经》、《庄子》和《淮南子》的一部分。它也融入了汉代的系统宇宙学和医学（Lloyd 1996，Lloyd 和 Sivin 2002）。《黄帝内经》被列入（并首次出现）在《汉书》文献志的方剂法门下的医学经典标题下（《汉书》30，1776）。
+*阴阳*、_气_和五行也影响了医学理论，这些理论在《黄帝内经》这部宇宙论框架的系统化著作中得到了系统化（Veith 1972，Unschuld 和 Tessenow 2011）。这部复杂而多层次的文本，可能编纂于公元前一世纪，呈现了一种系统的宇宙论，通过“对应宇宙论”（Graham 1986；Sivin 1995；Lloyd 和 Sivin 2002）的复杂系统，将身体、国家和宇宙进行类比。例如，《黄帝内经》描述了身体和宇宙之间的对应关系，特别是天地之间以及身体的上下部分之间的对应关系，包括身体、国家和宇宙之间的关系和类比，全部以阴阳和五行的术语表达（《黄帝内经灵枢》71.2，446）。这些对应关系似乎与现代宇宙学推测或经验科学大相径庭。在这些极端之间，是《汉书》文献志中描述的大多数失传的技术传统艺术：天文学、医学、药理学和占卜艺术，这些从业者是文本学家或哲学家的对手和潜在竞争者（Lloyd 和 Sivin 2002）。最初由占卜者和技术专家发展的专业知识成为《道德经》、《庄子》和《淮南子》的一部分。它也融入了汉代的系统宇宙学和医学（Lloyd 1996，Lloyd 和 Sivin 2002）。《黄帝内经》被列入（并首次出现）在《汉书》文献志的方剂法门下的医学经典标题下（《汉书》30，1776）。
 
 将阴阳理论应用于医学中引发的一个特殊问题是阴阳理论对性别描述的影响（Furth 1986，Raphals 1998，Yates 2005），包括夏尔·弗思称之为“黄帝之体”的雌雄同体问题。弗思认为，在宋代妇科学发展之前，人体被理解为雌雄同体。这些人体模型构成了早期阴阳理论的历史，以及构成该论述一部分的性别类比。这些类比的中心文本是《黄帝内经》，其整体雌雄同体性引人注目。总的来说，女性在医学上并未与男性有明显区别，而且即使有，有关性别差异的讨论通常与特定的生育和繁殖问题相关联（例如，《黄帝内经素问》1.3.8 和 7.2.26）。
 
@@ -156,76 +154,76 @@ _阴阳_、_气_和五行也影响了医学理论，这些理论在《黄帝内�
 
 ## Bibliography
 
-* Bodde, D., 1991, _Chinese Thought, Science, and Society: The Intellectual and Social Background of Science and Technology in Pre-Modern China_, Honolulu: University of Hawai‘i Press.
-* Bruya, B., et al., 2010, _Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action_, Cambridge, MA: MIT Press.
-* Chemla, K. (ed.), 2012, _The History of Mathematical Proof in Ancient Traditions_, Cambridge: Cambridge University Press.
-* Chemla, K. and Guo Shuchun, 2004, Les neuf chapitres. Le classique mathématique de la Chine ancienne et ses commentaires, Paris: Dunod.Csikszentmihalyi, M., 2004, _Material Virtue Ethics and the Body in Early China_, Leiden: Brill.
-* Csikszentmihalyi, M., and M. Nylan, 2003, “Constructing lineages and inventing traditions through exemplary figures in early China,” _T’oung-pao_, 89 (1–3): 59–99.
-* Cullen, C., 1976, “A Chinese Eratosthenes of the Flat Earth: A Study of a Fragment of Cosmology in Huai Nan Tzu 淮南子,” _Bulletin of the School of Oriental and African Studies_ (BSOAS), 39 (1): 106–27.
-* –––, 1996, _Astronomy and Mathematics in Ancient China: The Zhou Bi Suan Jing_, Cambridge: Cambridge University Press.
-* –––, 2017, _Heavenly Numbers: Astronomy and Authority in Early Imperial China_, Oxford and New York: Oxford University Press.
-* Da xue (Great Learning), chapter 39 of the _Book of Rites_ (Li ji), in _The Sacred Books of the East_, vol. 28, ed. F. M. Műller, trans. James Legge, Oxford: Clarendon, 1885, vol. 2, pp. 411–424.
+* Bodde, D., 1991, *Chinese Thought, Science, and Society: The Intellectual and Social Background of Science and Technology in Pre-Modern China*, Honolulu: University of Hawai‘i Press.
+* Bruya, B., et al., 2010, *Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action*, Cambridge, MA: MIT Press.
+* Chemla, K. (ed.), 2012, *The History of Mathematical Proof in Ancient Traditions*, Cambridge: Cambridge University Press.
+* Chemla, K. and Guo Shuchun, 2004, Les neuf chapitres. Le classique mathématique de la Chine ancienne et ses commentaires, Paris: Dunod.Csikszentmihalyi, M., 2004, *Material Virtue Ethics and the Body in Early China*, Leiden: Brill.
+* Csikszentmihalyi, M., and M. Nylan, 2003, “Constructing lineages and inventing traditions through exemplary figures in early China,” *T’oung-pao*, 89 (1–3): 59–99.
+* Cullen, C., 1976, “A Chinese Eratosthenes of the Flat Earth: A Study of a Fragment of Cosmology in Huai Nan Tzu 淮南子,” *Bulletin of the School of Oriental and African Studies* (BSOAS), 39 (1): 106–27.
+* –––, 1996, *Astronomy and Mathematics in Ancient China: The Zhou Bi Suan Jing*, Cambridge: Cambridge University Press.
+* –––, 2017, *Heavenly Numbers: Astronomy and Authority in Early Imperial China*, Oxford and New York: Oxford University Press.
+* Da xue (Great Learning), chapter 39 of the *Book of Rites* (Li ji), in *The Sacred Books of the East*, vol. 28, ed. F. M. Műller, trans. James Legge, Oxford: Clarendon, 1885, vol. 2, pp. 411–424.
 * Fung, Yu-lan, 1922, “Why China Has No Science – An Interpretation of the History and Consequences of Chinese Philosophy,” I_nternational Journal of Ethics_, 32 (3): 237–263.
-* –––, 1983, _A History of Chinese Philosophy_, 2 vols, Shanghai, 1931 and 1934, translation of _Zhongguo zhexue shi_ 中國哲學史, trans. Derk Bodde, Princeton: Princeton University Press.
-* Furth, C., 1986, _A Flourishing Yin: Gender in China’s Medical History, 960–1665_, Berkeley: University of California Press.
-* Gong, P., 2012, “Cultural history holds back Chinese research,” _Nature_, 481 (January 26): 411.
-* Graham, A. C., 1978, _Later Mohist Logic, Ethics, and Science_, Hong Kong: Chinese University Press and London: School of Oriental and African Studies.
-* –––, 1986, _Yin-Yang and the Nature of Correlative Thinking_, Singapore: Institute of East Asian Philosophies.
-* Graziani, R., 2008, “The Subject and the Sovereign: Exploring the Self in Early Chinese Self-Cultivation,” in _Early Chinese Religion: Part One: Shang Through Han (1250 BC-220 AD)_ (2 Vols), vol. 1, J. Lagerwey and M. Kalinowski (eds.), Leiden: Brill: 459–517.
-* _Han shu_ 漢書 (Standard History of the Han Dynasty), by Ban Gu 班固 (32–92 CE), Zhonghua shuju, Beijing, 1962.
-* Harper, D., 1998, _Early Chinese Medical Literature_, London and New York: Kegan Paul International.
-* –––, 1999, “Warring States Natural Philosophy and Occult Thought,” in _The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C._, M. Loewe and E. L. Shaughnessy (eds.), Cambridge: Cambridge University Press, pp. 813–84.
-* _Hou Han shu_ 後漢書 (Standard History of the Later Han), by Fan Ye 范曄 (398–445), Zhonghua shuju, Beijing, 1962.
-* _Huainanzi_ 淮南子 (_Huainan Annals_). Zhuzi jicheng edition.
-* _Huangdi neijing lingshu_ 黃帝內經靈樞 (The Inner Classic of the Yellow Lord: Spiritual Pivot), ed. Guo Aichun 郭靄春, Tianjin: Tianjin kexue jishu chubanshe, 1989.
-* _Huangdi suwen zhijie_ 黃帝素問直解 (The Inner Classic of the Yellow Lord: Basic Questions), ed. Gao Shizong 高士宗, Shanghai: Kexue jishu wenxian chubanshe, l980.
-* Kalinowski, M., 2004, “Technical Traditions in Ancient China and Shushu Culture in Chinese Religion,” in _Religion and Chinese Society. Volume 1: Ancient and Medieval_, J. Lagerwey (ed.), Hong Kong: Chinese University Press, pp. 223–48.
-* –––, 2010, “Divination and Astrology: Received Texts and Excavated Manuscripts,” in _China’s Early Empires: A Re-appraisal_, M. Nylan and M. Loewe (eds.), Cambridge: Cambridge University Press, pp. 338–366.
-* Kohn, L., 2015, “Forget or not forget? The neurophysiology of zuowang,” in _New Visions of the Zhuangzi_, L. Kohn (ed.), St. Petersburg, FL: Three Pines Press, pp. 161–79.
-* –––, 2016, _Science and the Dao: From the Big Bang to Lived Perfection_, St Petersburg: Three Pines Press.
-* Lewis, M. E., 1999, _Writing and Authority in Early China_, Albany: State University of New York Press.
-* Li, Ling 李零, 1993, _Zhongguo fang shu kao_ 中國方術考 (_Study of the Magical Arts of China_), Beijing: Renmin Zhongguo chubanshe.
-* –––, 2000, _Zhongguo fang shu xu kao_ 中國方術續考 (_Supplementary Studies of the Magical Arts of China_), Beijing: Renmin Zhongguo chubanshe.
-* Lo, V., 2001, “The Influence of Nurturing Life Culture,” in _Innovation in Chinese Medicine_, E. Hsu (ed.), Needham Research Institute Studies, Cambridge: Cambridge University Press.
-* –––, 2005, “Self-cultivation and the Popular Medical Traditions,” in _Medieval Chinese Medicine: The Dunhuang Medical Manuscripts_, V. Lo and C. Cullen (eds.), London: RoutledgeCurzon.
-* Lloyd, G. E. R., 1996, _Adversaries and Authorities: Investigations into Ancient Greek and Chinese Science_, Cambridge: Cambridge University Press.
-* Lloyd, G. E. R., and N. Sivin, 2002, _The Way and the Word: Science and Medicine in Early China and Greece_, New Haven: Yale University Press.
-* Loewe, M., 1994, _Divination, Mythology and Monarchy in Han China_, Cambridge: Cambridge University Press.
-* Machle, E. J., 1993, _Nature and Heaven in the Xunzi: A Study of the Tian Lun_, Albany: State University of New York Press.
-* Major, J. S., 1993, _Heaven and Earth in Early Han Thought_, Albany: State University of New York Press.
-* Miller, J., 2020, _China's Green Religion: Daoism and the Quest for a Sustainable Future_, New York: Columbia University Press.
-* Miller, J., et al. (eds.), 2014, _Religion and Ecological Sustainability in China_, Oxford and New York: Routledge.
-* Needham, J., 1931, _Chemical Embryology_, Cambridge:Cambridge University Press.
-* –––, 1934, _A History of Embryology_, Cambridge: Cambridge University Press, rpt. 1959.
-* –––, 1979, _The Grand Titration: Science and Society in East and West_, Boston: G. Allen & Unwin.
-* Needham, J., with Wang Ling, 1956a, _Science and Civilization in China, Vol. 1: Introductory Orientations_, Cambridge: Cambridge University Press.
-* –––, 1956b, _Science and Civilization in China, Vol. 2: History of Scientific Thought_, Cambridge: Cambridge University Press.
-* Ngo, V. X., 1976, _Divination Magie et Politique dans la Chine Ancienne_, Paris: Presses Universitaires de France.
-* Pankenier, D. W., 2013, _Astrology and Cosmology in Early China: Conforming Earth to Heaven_, Cambridge University Press.
+* –––, 1983, *A History of Chinese Philosophy*, 2 vols, Shanghai, 1931 and 1934, translation of *Zhongguo zhexue shi* 中國哲學史, trans. Derk Bodde, Princeton: Princeton University Press.
+* Furth, C., 1986, *A Flourishing Yin: Gender in China’s Medical History, 960–1665*, Berkeley: University of California Press.
+* Gong, P., 2012, “Cultural history holds back Chinese research,” *Nature*, 481 (January 26): 411.
+* Graham, A. C., 1978, *Later Mohist Logic, Ethics, and Science*, Hong Kong: Chinese University Press and London: School of Oriental and African Studies.
+* –––, 1986, *Yin-Yang and the Nature of Correlative Thinking*, Singapore: Institute of East Asian Philosophies.
+* Graziani, R., 2008, “The Subject and the Sovereign: Exploring the Self in Early Chinese Self-Cultivation,” in *Early Chinese Religion: Part One: Shang Through Han (1250 BC-220 AD)* (2 Vols), vol. 1, J. Lagerwey and M. Kalinowski (eds.), Leiden: Brill: 459–517.
+* *Han shu* 漢書 (Standard History of the Han Dynasty), by Ban Gu 班固 (32–92 CE), Zhonghua shuju, Beijing, 1962.
+* Harper, D., 1998, *Early Chinese Medical Literature*, London and New York: Kegan Paul International.
+* –––, 1999, “Warring States Natural Philosophy and Occult Thought,” in *The Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.*, M. Loewe and E. L. Shaughnessy (eds.), Cambridge: Cambridge University Press, pp. 813–84.
+* *Hou Han shu* 後漢書 (Standard History of the Later Han), by Fan Ye 范曄 (398–445), Zhonghua shuju, Beijing, 1962.
+* *Huainanzi* 淮南子 (*Huainan Annals*). Zhuzi jicheng edition.
+* *Huangdi neijing lingshu* 黃帝內經靈樞 (The Inner Classic of the Yellow Lord: Spiritual Pivot), ed. Guo Aichun 郭靄春, Tianjin: Tianjin kexue jishu chubanshe, 1989.
+* *Huangdi suwen zhijie* 黃帝素問直解 (The Inner Classic of the Yellow Lord: Basic Questions), ed. Gao Shizong 高士宗, Shanghai: Kexue jishu wenxian chubanshe, l980.
+* Kalinowski, M., 2004, “Technical Traditions in Ancient China and Shushu Culture in Chinese Religion,” in *Religion and Chinese Society. Volume 1: Ancient and Medieval*, J. Lagerwey (ed.), Hong Kong: Chinese University Press, pp. 223–48.
+* –––, 2010, “Divination and Astrology: Received Texts and Excavated Manuscripts,” in *China’s Early Empires: A Re-appraisal*, M. Nylan and M. Loewe (eds.), Cambridge: Cambridge University Press, pp. 338–366.
+* Kohn, L., 2015, “Forget or not forget? The neurophysiology of zuowang,” in *New Visions of the Zhuangzi*, L. Kohn (ed.), St. Petersburg, FL: Three Pines Press, pp. 161–79.
+* –––, 2016, *Science and the Dao: From the Big Bang to Lived Perfection*, St Petersburg: Three Pines Press.
+* Lewis, M. E., 1999, *Writing and Authority in Early China*, Albany: State University of New York Press.
+* Li, Ling 李零, 1993, *Zhongguo fang shu kao* 中國方術考 (*Study of the Magical Arts of China*), Beijing: Renmin Zhongguo chubanshe.
+* –––, 2000, *Zhongguo fang shu xu kao* 中國方術續考 (*Supplementary Studies of the Magical Arts of China*), Beijing: Renmin Zhongguo chubanshe.
+* Lo, V., 2001, “The Influence of Nurturing Life Culture,” in *Innovation in Chinese Medicine*, E. Hsu (ed.), Needham Research Institute Studies, Cambridge: Cambridge University Press.
+* –––, 2005, “Self-cultivation and the Popular Medical Traditions,” in *Medieval Chinese Medicine: The Dunhuang Medical Manuscripts*, V. Lo and C. Cullen (eds.), London: RoutledgeCurzon.
+* Lloyd, G. E. R., 1996, *Adversaries and Authorities: Investigations into Ancient Greek and Chinese Science*, Cambridge: Cambridge University Press.
+* Lloyd, G. E. R., and N. Sivin, 2002, *The Way and the Word: Science and Medicine in Early China and Greece*, New Haven: Yale University Press.
+* Loewe, M., 1994, *Divination, Mythology and Monarchy in Han China*, Cambridge: Cambridge University Press.
+* Machle, E. J., 1993, *Nature and Heaven in the Xunzi: A Study of the Tian Lun*, Albany: State University of New York Press.
+* Major, J. S., 1993, *Heaven and Earth in Early Han Thought*, Albany: State University of New York Press.
+* Miller, J., 2020, *China's Green Religion: Daoism and the Quest for a Sustainable Future*, New York: Columbia University Press.
+* Miller, J., et al. (eds.), 2014, *Religion and Ecological Sustainability in China*, Oxford and New York: Routledge.
+* Needham, J., 1931, *Chemical Embryology*, Cambridge:Cambridge University Press.
+* –––, 1934, *A History of Embryology*, Cambridge: Cambridge University Press, rpt. 1959.
+* –––, 1979, *The Grand Titration: Science and Society in East and West*, Boston: G. Allen & Unwin.
+* Needham, J., with Wang Ling, 1956a, *Science and Civilization in China, Vol. 1: Introductory Orientations*, Cambridge: Cambridge University Press.
+* –––, 1956b, *Science and Civilization in China, Vol. 2: History of Scientific Thought*, Cambridge: Cambridge University Press.
+* Ngo, V. X., 1976, *Divination Magie et Politique dans la Chine Ancienne*, Paris: Presses Universitaires de France.
+* Pankenier, D. W., 2013, *Astrology and Cosmology in Early China: Conforming Earth to Heaven*, Cambridge University Press.
 * Puett, M., 2002, To Become a God: Cosmology, Sacrifice, and Self-Divinization in Early China, Cambridge: Harvard University Asia Center.
-* Raphals, L., 1998, _Sharing the Light: Representations of Women and Virtue in Early China_, Albany: State University of New York Press.
-* –––, 2008–2009, “Divination in the _Han shu_ Bibliographic Treatise,” _Early China_, 32: 45–101.
-* –––, 2013, _Divination and Prediction in Early China and Ancient Greece_, Cambridge: Cambridge University Press.
-* –––, 2015, “Chinese Philosophy and Chinese Medicine,” _The Stanford Encyclopedia of Philosophy_ (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/chinese-phil-medicine/](https://plato.stanford.edu/archives/sum2015/entries/chinese-phil-medicine/).
-* Rickett, W. A., 1985, _Guanzi: Political, Economic and Philosophical Essays from Early China_, Volume 1, Princeton: Princeton University Press.
-* Sato, M., 2003, _The Confucian Quest for Order: The Origin and Formation of the Political Thought of Xun Zi_, Leiden: Brill.
-* _Shi ji_ 史記 (Annals), by Sima Qian 司馬遷 (?145-?86) and others, Beijing: Zhonghua, 1959.
-* Schäfer, D., 2012, _Cultures of Knowledge: Technology in Chinese History_, Leiden: Brill.
-* Sivin, N., 1978, “On the Word ‘Taoist’ as a Source of Perplexity, With Special Reference to the Relations of Science and Religion in Traditional China,” _History of Religions_, 17 (3–4): 303–330.
-* –––, 1982, “Why the Scientific Revolution Did Not Take Place in China – Or Didn’t It?” _Chinese Science_, 5: 45–66.
-* –––, 1988, “Science and Medicine in Imperial China – The State of the Field,” _Journal of Asian Studies_, 47: 41–90.
-* –––, 1990, “Science and Medicine in Chinese History,” in _Heritage of China. Contemporary Perspectives on Chinese Civilization_, P. S. Ropp (ed.), Berkeley: University of California Press: 164–96.
-* –––, 1995, “State Cosmos and Body in the Last Three Centuries B.C.E.,” _Harvard Journal of Asiatic Studies_, 55 (1): 5–37.
-* –––, 1995b, “Taoism and Science,” in _Medicine, Philosophy and Religion in Ancient China. Researches and Reflections. Variorum Collected Studies Series_, Aldershott: Variorum, No. 8, pp. 1–73.
-* –––, 2009, _Granting the Seasons: The Chinese Astronomical Reform of 1280, With a Study of Its Many Dimensions and a Translation of its Records_, New York: Springer.
-* Slingerland, E. T., 2012, _Creating Consilience: Integrating the Sciences and the Humanities_, New York: Oxford University Press.
-* Smith, K., 2003, “Sima Tan and the invention of Daoism, ‘Legalism,’ et cetera,” _Journal of Asian Studies_, 62 (1): 129–56.
-* Unschuld, P. U. and H. Tessenow, 2011, _Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic – Basic Questions_, 2 volumes, University of California Press.
-* Veith, I., 1972, _The Yellow Emperor’s Classic of Internal Medicine_, Chapters 1–34, Berkeley: University of California.
-* _Xunzi: A Translation and Study of the Complete Works_, by John Knoblock, Palo Alto: Stanford University Press, 1994, 3 vols.
-* Yates, R. D. S., 1988, “New Light on Ancient Chinese Military Texts: Notes on Their Nature and Evolution, and the Development of Military Specialization in Warring States China,” _T'oung-Pao_, 74 (4-5): 214-15.
-* –––, 2003, “Science and Technology,” in _Encyclopedia of Chinese Philosophy_, A. S. Cua (ed.), New York and London: Routledge: 657–63.
-* –––, 2005, “Medicine for Women in Early China: A Preliminary Survey,” _Nan Nü_, 7 (2): 127–181.
+* Raphals, L., 1998, *Sharing the Light: Representations of Women and Virtue in Early China*, Albany: State University of New York Press.
+* –––, 2008–2009, “Divination in the *Han shu* Bibliographic Treatise,” *Early China*, 32: 45–101.
+* –––, 2013, *Divination and Prediction in Early China and Ancient Greece*, Cambridge: Cambridge University Press.
+* –––, 2015, “Chinese Philosophy and Chinese Medicine,” *The Stanford Encyclopedia of Philosophy* (Summer 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2015/entries/chinese-phil-medicine/](https://plato.stanford.edu/archives/sum2015/entries/chinese-phil-medicine/).
+* Rickett, W. A., 1985, *Guanzi: Political, Economic and Philosophical Essays from Early China*, Volume 1, Princeton: Princeton University Press.
+* Sato, M., 2003, *The Confucian Quest for Order: The Origin and Formation of the Political Thought of Xun Zi*, Leiden: Brill.
+* *Shi ji* 史記 (Annals), by Sima Qian 司馬遷 (?145-?86) and others, Beijing: Zhonghua, 1959.
+* Schäfer, D., 2012, *Cultures of Knowledge: Technology in Chinese History*, Leiden: Brill.
+* Sivin, N., 1978, “On the Word ‘Taoist’ as a Source of Perplexity, With Special Reference to the Relations of Science and Religion in Traditional China,” *History of Religions*, 17 (3–4): 303–330.
+* –––, 1982, “Why the Scientific Revolution Did Not Take Place in China – Or Didn’t It?” *Chinese Science*, 5: 45–66.
+* –––, 1988, “Science and Medicine in Imperial China – The State of the Field,” *Journal of Asian Studies*, 47: 41–90.
+* –––, 1990, “Science and Medicine in Chinese History,” in *Heritage of China. Contemporary Perspectives on Chinese Civilization*, P. S. Ropp (ed.), Berkeley: University of California Press: 164–96.
+* –––, 1995, “State Cosmos and Body in the Last Three Centuries B.C.E.,” *Harvard Journal of Asiatic Studies*, 55 (1): 5–37.
+* –––, 1995b, “Taoism and Science,” in *Medicine, Philosophy and Religion in Ancient China. Researches and Reflections. Variorum Collected Studies Series*, Aldershott: Variorum, No. 8, pp. 1–73.
+* –––, 2009, *Granting the Seasons: The Chinese Astronomical Reform of 1280, With a Study of Its Many Dimensions and a Translation of its Records*, New York: Springer.
+* Slingerland, E. T., 2012, *Creating Consilience: Integrating the Sciences and the Humanities*, New York: Oxford University Press.
+* Smith, K., 2003, “Sima Tan and the invention of Daoism, ‘Legalism,’ et cetera,” *Journal of Asian Studies*, 62 (1): 129–56.
+* Unschuld, P. U. and H. Tessenow, 2011, *Huang Di Nei Jing Su Wen: An Annotated Translation of Huang Di’s Inner Classic – Basic Questions*, 2 volumes, University of California Press.
+* Veith, I., 1972, *The Yellow Emperor’s Classic of Internal Medicine*, Chapters 1–34, Berkeley: University of California.
+* *Xunzi: A Translation and Study of the Complete Works*, by John Knoblock, Palo Alto: Stanford University Press, 1994, 3 vols.
+* Yates, R. D. S., 1988, “New Light on Ancient Chinese Military Texts: Notes on Their Nature and Evolution, and the Development of Military Specialization in Warring States China,” *T'oung-Pao*, 74 (4-5): 214-15.
+* –––, 2003, “Science and Technology,” in *Encyclopedia of Chinese Philosophy*, A. S. Cua (ed.), New York and London: Routledge: 657–63.
+* –––, 2005, “Medicine for Women in Early China: A Preliminary Survey,” *Nan Nü*, 7 (2): 127–181.
 
 ## Academic Tools
 
@@ -247,4 +245,4 @@ _阴阳_、_气_和五行也影响了医学理论，这些理论在《黄帝内�
 chinese-han-confucianism | [Chinese Philosophy: Chinese medicine](https://plato.stanford.edu/entries/chinese-phil-medicine/) | Confucianism | [Daoism](https://plato.stanford.edu/entries/daoism/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Lisa Raphals](http://complitforlang.ucr.edu/people/faculty/bio.html?page=raphals.html) <[_lisa.raphals@ucr.edu_](mailto:lisa%2eraphals%40ucr%2eedu)>
+[Lisa Raphals](http://complitforlang.ucr.edu/people/faculty/bio.html?page=raphals.html) <[*lisa.raphals@ucr.edu*](mailto:lisa%2eraphals%40ucr%2eedu)>

@@ -1,6 +1,6 @@
 # 公民权利 civil rights (Andrew Altman)
 
-_首次发表于 2003 年 2 月 3 日星期一；实质性修订于 2022 年 1 月 17 日星期一_
+*首次发表于 2003 年 2 月 3 日星期一；实质性修订于 2022 年 1 月 17 日星期一*
 
 在当代法律和政治思想中，“公民权利”一词与 20 世纪中叶美国黑人组织起来的大规模解放斗争密不可分。公民权利运动旨在废除吉姆·克劳（Jim Crow）种族压迫和剥削体系，并旨在使黑人获得自由和平等的公民身份成为现实。运动中核心的公民权利概念指的是作为一种正义问题属于自由和平等公民的权利。这一概念在美国宪法修正案中得到体现，这些修正案是在南北战争中南方邦联的失败后重建时期通过的。
 
@@ -9,7 +9,6 @@ _首次发表于 2003 年 2 月 3 日星期一；实质性修订于 2022 年 1 �
 在公民权利运动过程中，一个相对狭窄的公民权利观念开始主导公共话语，并成为这类权利所涵盖的标准观念。术语“公民权利”开始指的不再是构成自由和平等公民身份的全部要求，而是指针对歧视的权利，最初是指基于种族和族裔的歧视，但很快扩大到包括性别、残疾、性取向和其他突出的社会和个人身份类别。作为自由和平等公民所拥有的全部要求的旧观念被淡化，因为通常被表征为涉及公民权利的问题的种类变得专门关注歧视问题。
 
 然而，尽管这两种公民权利观念在语言使用上存在差异，但它们之间并不存在实质上的不相容性。事实上，根据任何道德上合理的观点，更古老的观念包含了更为近期的观念：可以合理地说，构成自由和平等公民身份的权利不仅包括了针对歧视的权利，而且超越了这一点。但由于歧视仍然是系统性不公正的持续和广泛讨论的根源，将公民权利等同于反歧视权利的标准观念在可预见的未来不太可能消失。然而，更古老的公民权利观念并没有过时：它仍然是法律和政治话语中不可或缺的部分，常常作为隐含的规范背景的一部分，有时又作为话语明确表达的主题。本文将遵循更古老的观念，将所有自由和平等公民的权利视为公民权利；同时，本文特别关注当前的争议议题，其中涉及反歧视权利。
-
 
 ***
 
@@ -61,7 +60,7 @@ West 认为，标准观念与概念错误密不可分。考虑到免受私人暴
 
 马歇尔区分了公民权利、政治权利和社会权利，并认为，几个世纪以来，公民身份的概念逐渐从仅包括公民权利扩展到包括政治权利，然后在 20 世纪时，又融入了社会权利。他区分公民权利和政治权利的观点，与美国最高法院在 19 世纪划定的财产权、合同权、正当程序等权利与投票权、担任公职等权利之间的界限相一致。但他所指的“社会权利”与美国最高法院所理解的含义大相径庭。
 
-马歇尔解释说，“社会权利”指的是“从经济福利和安全的权利到分享社会遗产并按照社会现行标准过上文明生活的权利的整个范围”(8)。其中包括“一定数量的某些基本商品和服务的最低供应（如医疗和物资、住所和教育）或可用于基本生活必需品的最低货币收入”(32)。因此，马歇尔的社会权利与最高法院在《_民权案例_》中援引的权利截然不同：法院的权利是个人与愿意与他们交往的其他人交往并排斥任何他们不喜欢的人的权利，而马歇尔的权利是分享基本社会商品的权利，他认为接触这些商品对个人福祉或福利至关重要。因此，马歇尔暗示所谓的“福利权利”是自由平等公民的权利之一，因此在广义上属于“公民权利”。
+马歇尔解释说，“社会权利”指的是“从经济福利和安全的权利到分享社会遗产并按照社会现行标准过上文明生活的权利的整个范围”(8)。其中包括“一定数量的某些基本商品和服务的最低供应（如医疗和物资、住所和教育）或可用于基本生活必需品的最低货币收入”(32)。因此，马歇尔的社会权利与最高法院在《*民权案例*》中援引的权利截然不同：法院的权利是个人与愿意与他们交往的其他人交往并排斥任何他们不喜欢的人的权利，而马歇尔的权利是分享基本社会商品的权利，他认为接触这些商品对个人福祉或福利至关重要。因此，马歇尔暗示所谓的“福利权利”是自由平等公民的权利之一，因此在广义上属于“公民权利”。
 
 在今天许多富裕国家，但不包括美国，在宪法原则上保护福利权利。例如，丹麦宪法第 75 条规定：“任何无力养活自己或其抚养者的人，在没有其他人负责其或他们的生活费时，有权获得公共援助。”德国联邦宪法法院认定该国的基本法确立了一个“社会国家”（反映了马歇尔对“社会”的使用），并确保社会的每个成员有权获得政府提供的“对于其身体生存和参与社会、文化和政治生活的最低必需物质条件”的可强制执行权（Egidy 2011: 1964）。
 
@@ -97,9 +96,9 @@ Barry 断言“每个人都有权利反对压迫、剥削和伤害，可以要�
 
 美国宪法第 15 修正案于 1870 年获得批准，这是重建时代的一个里程碑，激进共和党人及其盟友试图确保美国的解放黑人及其同胞能成为自由和平等的_公民_。该修正案禁止因种族而剥夺或限制选举权利，并授权国会制定“适当立法”以实施这一禁令。但在修正案获得批准后的一个世纪内，南方各地的黑人才能在没有普遍和公开歧视以及经济胁迫和报复性暴力的情况下登记和投票。即使在重建时期，当时有许多黑人可以在当时占领南方的联邦军队的保护下投票，仍然经常发生对寻求行使宪法权利的黑人的歧视和暴力。
 
-最高法院对试图保护黑人选举权的联邦立法进行了曲解，宣称该立法不适合作为起诉那些公然阻止黑人登记选民的州官员的依据（_U.S. v. Reese_ 1875）。在幕后交易促成拉瑟福德·海斯（Rutherford Hayes）赢得 1876 年备受争议的总统选举后，他的政府指示联邦军队停止保护黑人权利的努力。随着重建时期的结束，南方白人得以废除第 15 修正案。
+最高法院对试图保护黑人选举权的联邦立法进行了曲解，宣称该立法不适合作为起诉那些公然阻止黑人登记选民的州官员的依据（*U.S. v. Reese* 1875）。在幕后交易促成拉瑟福德·海斯（Rutherford Hayes）赢得 1876 年备受争议的总统选举后，他的政府指示联邦军队停止保护黑人权利的努力。随着重建时期的结束，南方白人得以废除第 15 修正案。
 
-南方各州继续采纳选民知识素养的文凭要求和其他测试、投票税以及一系列其他措施，这些措施在地方登记员的歧视性操作下，结合恐怖主义暴力和经济胁迫，成功地使该地区绝大多数黑人丧失了选举权。尽管第 15 修正案明确规定，但在《_盖尔斯诉哈里斯_》(1903)一案中，最高法院裁定联邦司法机构并非黑人寻求废除剥夺选举权制度的合适去处。霍姆斯大法官为法院写道：“如果所声称的政治严重错误是由一个州的人民和州政府自行实施的，那么必须由他们或美利坚合众国政府的立法和政治部门来提供救济”(488)。但当时的霍姆斯和其他任何略有了解的美国人都心知肚明，南方各州或国会自愿采取行动保护黑人的选举权几乎没有现实可能性。
+南方各州继续采纳选民知识素养的文凭要求和其他测试、投票税以及一系列其他措施，这些措施在地方登记员的歧视性操作下，结合恐怖主义暴力和经济胁迫，成功地使该地区绝大多数黑人丧失了选举权。尽管第 15 修正案明确规定，但在《*盖尔斯诉哈里斯*》(1903)一案中，最高法院裁定联邦司法机构并非黑人寻求废除剥夺选举权制度的合适去处。霍姆斯大法官为法院写道：“如果所声称的政治严重错误是由一个州的人民和州政府自行实施的，那么必须由他们或美利坚合众国政府的立法和政治部门来提供救济”(488)。但当时的霍姆斯和其他任何略有了解的美国人都心知肚明，南方各州或国会自愿采取行动保护黑人的选举权几乎没有现实可能性。
 
 对黑人来说，没有选举权，他们就无法安全地享有财产、合同、正当程序和其他传统上被视为自由和平等公民基本权利的权利。南方黑人没有政治权力，因此容易受到白人的无情剥削和压迫，这也是白人首先实施剥夺选举权计划的原因。重建时期的经历教会了白人，选举权是黑人用来保障其其他法律权利的权力。民权运动的主要目标之一是制定有效的联邦立法保护选举权，这并非偶然。
 
@@ -113,7 +112,7 @@ VRA 在将选举监管权从各州转移到国家政府方面采取了一系列�
 
 VRA 的关键条款的合宪性受到了公民权法案涵盖的州的挑战，但最高法院在 1966 年的_南卡罗来纳诉卡岑巴赫案_中维持了这项法律。然后，该法案经过多次修订获得重新授权。这些修改旨在加强对选举过程中所谓的“第二代”种族平等障碍的保护。第一代包括识字测试和其他歧视性地阻止黑人登记的手段。第二代包括各种方式，通过选举安排削弱已登记少数族裔选民的政治权力。
 
-考虑投票稀释的以下示例。在南部的许多县，白人在整体上是多数，但黑人在县的某些地区占多数。这些县传统上被划分为各个区，每个区选出县委员会的一名成员。第一代歧视通过阻止黑人在黑人占多数的区进行登记，确保了全白人委员会。当第一代设备由于《选举权法案》的结果而被废除时，许多南部县从基于区的系统转变为全县范围的投票制，以便整个县的白人多数仍然可以选举全白人委员会。最高法院裁定，这些变化需接受联邦当局的先行审查，他们有权禁止这些变化（_艾伦诉州选举委员会_ 1969 年）。将稀释视为一种种族歧视形式，在 1982 年，国会修改了第 2 节，禁止任何“导致美国公民因种族或肤色而被剥夺或缩减选举权利的任何选举规则或安排……\[或者]是语言少数群体的成员”（52 美国法典 10301 和 10303）。
+考虑投票稀释的以下示例。在南部的许多县，白人在整体上是多数，但黑人在县的某些地区占多数。这些县传统上被划分为各个区，每个区选出县委员会的一名成员。第一代歧视通过阻止黑人在黑人占多数的区进行登记，确保了全白人委员会。当第一代设备由于《选举权法案》的结果而被废除时，许多南部县从基于区的系统转变为全县范围的投票制，以便整个县的白人多数仍然可以选举全白人委员会。最高法院裁定，这些变化需接受联邦当局的先行审查，他们有权禁止这些变化（*艾伦诉州选举委员会* 1969 年）。将稀释视为一种种族歧视形式，在 1982 年，国会修改了第 2 节，禁止任何“导致美国公民因种族或肤色而被剥夺或缩减选举权利的任何选举规则或安排……\[或者]是语言少数群体的成员”（52 美国法典 10301 和 10303）。
 
 超过四十年来，第五条的预先审查要求和基于第二条的诉讼被用来阻止种族选举稀释以及一系列被视为种族歧视的其他选举安排。然后，最高法院在 2013 年的_谢尔比县诉霍尔德_案裁决中颠覆了预先审查。
 
@@ -137,11 +136,11 @@ Roberts 正确地将 VRA 视为对国家政府规范州选举权力传统法律�
 
 Risse 和 Zeckhauser 构建了一个在哲学上复杂的辩护种族歧视。他们认为，即使在像美国这样的种族主义社会，根据一系列情况中可能存在的条件，这种 profiling 也是可以被证明是合理的。他们的论点结合了功利主义和义务论的考量：功利主义的部分认为 profiling 有助于维护公共利益，而义务论的论点旨在反驳那些认为 profiling 是令人反感的歧视行为，并对受到伤害的人不公平的主张。
 
-Risse 和 Zeckhauser 承认警察滥用可能与定性相结合，但他们坚称“滥用和定性... _是不同的问题_，必须独立评估”（139；原文强调）。定性是“任何警方发起的行动，依赖于种族、族裔或国籍，而不仅仅是个人行为”（136）。这种行动不一定涉及任何警察滥用行为，比如“粗鲁的言辞、贬低的要求、肢体强制或身体伤害”（138）。滥用“必须独立纠正”（139）定性。
+Risse 和 Zeckhauser 承认警察滥用可能与定性相结合，但他们坚称“滥用和定性... *是不同的问题*，必须独立评估”（139；原文强调）。定性是“任何警方发起的行动，依赖于种族、族裔或国籍，而不仅仅是个人行为”（136）。这种行动不一定涉及任何警察滥用行为，比如“粗鲁的言辞、贬低的要求、肢体强制或身体伤害”（138）。滥用“必须独立纠正”（139）定性。
 
 一些批评 profiling 的人认为它作为犯罪控制措施是完全无效的。Risse 和 Zeckhauser 指出，如果这种说法是正确的，那么问题就不存在：基于这一前提， profiling 是不合理的。但他们推断，即使一些 profiling 形式对犯罪控制没有任何实质贡献，似乎也不太可能所有形式都符合这一描述，鉴于“某些种族群体的成员与犯某些罪行的倾向之间存在显著相关性”（132）。
 
-少数族裔对定性感到委屈，里斯和泽克豪泽并没有忽视这一事实。然而，他们声称，这种委屈在很大程度上是基于社会的“根本系统性种族主义”（145），而定性对少数族裔造成的伤害与这种根本种族主义造成的伤害相比“较小”（169）。例如，如果取消定性，非裔美国人的状况会“仅略有”改善，“_保持其他一切不变_”（149；原文强调）。他们解释说，“定性本身附带的伤害是_表达性的_”（146；原文强调）。定性是“结构性劣势的象征”（147），但“并非…少数族裔心中伤痛的主要原因”（149）。在里斯和泽克豪泽的功利主义计算中，抵消更有效的犯罪控制带来的好处的伤害“相对较小”（149），即象征性伤害加上被警察拦下询问的暂时不便。在他们看来，这些较小的伤害在许多情况下可能会被好处所抵消。
+少数族裔对定性感到委屈，里斯和泽克豪泽并没有忽视这一事实。然而，他们声称，这种委屈在很大程度上是基于社会的“根本系统性种族主义”（145），而定性对少数族裔造成的伤害与这种根本种族主义造成的伤害相比“较小”（169）。例如，如果取消定性，非裔美国人的状况会“仅略有”改善，“*保持其他一切不变*”（149；原文强调）。他们解释说，“定性本身附带的伤害是_表达性的_”（146；原文强调）。定性是“结构性劣势的象征”（147），但“并非…少数族裔心中伤痛的主要原因”（149）。在里斯和泽克豪泽的功利主义计算中，抵消更有效的犯罪控制带来的好处的伤害“相对较小”（149），即象征性伤害加上被警察拦下询问的暂时不便。在他们看来，这些较小的伤害在许多情况下可能会被好处所抵消。
 
 此外，里瑟（Risse）和泽克豪泽（Zeckhauser）认为，单纯的种族识别并不具有令人反感的歧视性，因为它既没有“维持或建立_压迫关系_”的意图或效果（153；原文强调）。当它不涉及滥用时，识别的目的是为了控制犯罪，而且，由于识别“本身是依赖于潜在的压迫关系”（154），并且（主要）造成象征性伤害，它“不会加剧\[一种]压迫关系”（155）。
 
@@ -229,72 +228,72 @@ Girgis 等人认为，婚姻的结合解释反映了其真正的本质，但自 
 
 ## Bibliography
 
-* Ackerman, Bruce, 2014, _The Civil Rights Revolution_, Cambridge, MA: Harvard University Press.
-* Alexander, Michelle, 2012, _The New Jim Crow_, revised edition, New York: New Press.
-* Altman, Andrew, 1998, “Race and Democracy: The Controversy over Racial Vote Dilution,” _Philosophy and Public Affairs_, 27: 175–201.
-* Amar, Akhil Reed, 1998, _The Bill of Rights_, New Haven: Yale University Press.
-* Balkin, Jack M. (ed.), 2020, _What Obergefell v. Hodges Should Have Said_, New Haven: Yale University Press.
-* Barnes, Elizabeth, 2016. _The Minority Body_, New York: Oxford University Press.
-* Barry, Brian, 2001, _Culture and Equality_, Cambridge, MA: Harvard University Press.
-* Becker, Lawrence, 2005, “Reciprocity, Justice, and Disability,” _Ethics_, 116: 9–39.
-* Blackstone, William, 1803 \[1996], _Blackstone’s Commentaries_ (Volume II), St. George Tucker (ed.), Union, NJ: Lawbook Exchange.
-* Bredeen, Aurelien and Benoît Morenne, 2017, “Fury Arises in France Over Accusations Police Beat and Raped a Black Man,” _New York Times_, February 8. [Bredeen and Morenne 2017 available online](https://www.nytimes.com/2017/02/08/world/europe/fury-rises-in-france-over-accusations-police-beat-and-raped-a-black-man.html).
-* Choudhry, Sujit, 2002, “National Minorities and Ethnic Immigrants: Liberalism’s Political Sociology,” _Journal of Political Philosophy_, 10: 54–78.
+* Ackerman, Bruce, 2014, *The Civil Rights Revolution*, Cambridge, MA: Harvard University Press.
+* Alexander, Michelle, 2012, *The New Jim Crow*, revised edition, New York: New Press.
+* Altman, Andrew, 1998, “Race and Democracy: The Controversy over Racial Vote Dilution,” *Philosophy and Public Affairs*, 27: 175–201.
+* Amar, Akhil Reed, 1998, *The Bill of Rights*, New Haven: Yale University Press.
+* Balkin, Jack M. (ed.), 2020, *What Obergefell v. Hodges Should Have Said*, New Haven: Yale University Press.
+* Barnes, Elizabeth, 2016. *The Minority Body*, New York: Oxford University Press.
+* Barry, Brian, 2001, *Culture and Equality*, Cambridge, MA: Harvard University Press.
+* Becker, Lawrence, 2005, “Reciprocity, Justice, and Disability,” *Ethics*, 116: 9–39.
+* Blackstone, William, 1803 \[1996], *Blackstone’s Commentaries* (Volume II), St. George Tucker (ed.), Union, NJ: Lawbook Exchange.
+* Bredeen, Aurelien and Benoît Morenne, 2017, “Fury Arises in France Over Accusations Police Beat and Raped a Black Man,” *New York Times*, February 8. [Bredeen and Morenne 2017 available online](https://www.nytimes.com/2017/02/08/world/europe/fury-rises-in-france-over-accusations-police-beat-and-raped-a-black-man.html).
+* Choudhry, Sujit, 2002, “National Minorities and Ethnic Immigrants: Liberalism’s Political Sociology,” *Journal of Political Philosophy*, 10: 54–78.
 * Clarke, Amy, 2012, “People of African Descent in Europe,” briefing paper for the U.K. Race and Europe Network. [Clarke 2021 available online](https://www.ukren.org/uploads/Black%20Europeans%20Briefing%20Paper%20Summer%202012.pdf).
-* Corvino, John and Maggie Gallagher, 2012, _Debating Same-Sex Marriage_, New York: Oxford University Press.
-* Davidson, Chandler and Bernard Grofman (eds.), 1994, _Quiet Revolution in the South: The Impact of the Voting Rights Act, 1965–1990_, Princeton: Princeton University Press.
-* Davis, Angela, 2016, _Freedom is a Constant Struggle_, Chicago: Haymarket Books.
-* Du Bois, W.E.B., 1935 \[1992], _Black Reconstruction in America_, New York: Free Press.
-* Dworkin, Ronald, 1995, _Freedom’s Law_, Cambridge, MA: Harvard University Press.
-* Egidy, Stefanie, 2011, “The Fundamental Right to the Guarantee of a Subsistence Minimum in the Hartz IV Decision of the Federal Constitutional Court,” _German Law Journal_, 12: 1961–1982.
-* Eskridge, William, 1996, _The Case for Same-Sex Marriage_, New York: Free Press.
-* Eskridge Jr., William and Darren R. Spedale, 2006, _Gay Marriage: For Better or For Worse?: What We’ve Learned from the Evidence_, New York: Oxford University Press.
-* Finnis, John, 1997, “The Good of Marriage and the Morality of Sexual Relations,” _American Journal of Jurisprudence_, 42: 97–134.
-* –––, 1996, “Natural Law Theory and Limited Government,” in Robert P. George (ed.), _Natural Law, Liberalism and Morality_, Oxford: Oxford University Press, pp. 1–26.
-* Forman, James Jr., 2012, “Racial Critiques of Mass Incarceration,” _New York University Law Review_, 87: 21–69.
-* Gardner, John, 1998, “On the Ground of Her Sex(uality),” _Oxford Journal of Legal Studies_, 18: 167–87.
-* George, Robert, 1993, _Making Men Moral_, Oxford: Clarendon Press.
-* Girgis, Sherif, Ryan T. Anderson, and Robert P. George, 2012, _What is Marriage? Man and Woman: A Defense_, New York: Encounter Books.
-* Habermas, Jurgen, 1996, “Citizenship and National Identity,” in _Between Facts and Norms_, Cambridge, MA: MIT Press, pp. 491–515.
-* Hartley, Christie, 2009, “Justice for the Disabled: A Contractualist Approach,” _Journal of Social Philosophy_, 40: 17–36.
-* Herron Michael D. and Daniel A. Smith, 2016, “Race, Shelby County, and the Voter Information Verification Act in North Carolina,” _Florida State Law Review_ 43: 465–506.
-* Holmes, Stephen and Cass Sunstein, 1999, _The Cost of Rights_, New York: Norton.
-* Hosein, Adam Omar, 2018, “Racial Profiling and A Reasonable Sense of Inferior Political Status.” _Journal of Political Philosophy_, 26: e1–e20.
-* Keyssar, Alexander, 2000, _The Right to Vote_, New York: Basic Books.
-* Kittay, Eva F., 2000, “At Home with My Daughter,” in L.P. Francis and A. Silvers (eds.), _Americans with Disabilities_, New York: Routledge, pp. 64–80.
-* Koh, Harold Hongju, et al., 2015, “Brief for Foreign and Comparative Law Experts Harold Hongju Koh et al. as Amici Curiae in Support of Petitioners,” _Obergefell v. Hodges_, March 6. [Koh et al. brief available online](https://scholarship.law.duke.edu/faculty\scholarship/3446/).
-* Koppelman, Andrew, 1996. _Antidiscrimination Law and Social Equality_, New Haven: Yale University Press.
-* –––, 1997, “Three Arguments for Gay Rights,” _Michigan Law Review_, 95: 1636–67.
-* Kymlicka, Will, 1995, _Multicultural Citizenship_, Oxford: Clarendon Press.
-* –––, 1994, “Individual and Community Rights,” in J. Baker (ed.), _Group Rights_, Toronto: University of Toronto Press.
-* –––, 1989, _Liberalism, Community, and Culture_, Oxford: Clarendon Press.
-* Lee, Patrick and Robert Georgem, 1997, “What Sex Can Be: Self-Alienation, Illusion, or One-Flesh?” _American Journal of Jurisprudence_, 42: 135–57.
-* Lever, Annabelle, 2007, “What’s Wrong with Racial Profiling? Another Look at the Problem,” _Criminal Justice Ethics_, 26: 20–28.
+* Corvino, John and Maggie Gallagher, 2012, *Debating Same-Sex Marriage*, New York: Oxford University Press.
+* Davidson, Chandler and Bernard Grofman (eds.), 1994, *Quiet Revolution in the South: The Impact of the Voting Rights Act, 1965–1990*, Princeton: Princeton University Press.
+* Davis, Angela, 2016, *Freedom is a Constant Struggle*, Chicago: Haymarket Books.
+* Du Bois, W.E.B., 1935 \[1992], *Black Reconstruction in America*, New York: Free Press.
+* Dworkin, Ronald, 1995, *Freedom’s Law*, Cambridge, MA: Harvard University Press.
+* Egidy, Stefanie, 2011, “The Fundamental Right to the Guarantee of a Subsistence Minimum in the Hartz IV Decision of the Federal Constitutional Court,” *German Law Journal*, 12: 1961–1982.
+* Eskridge, William, 1996, *The Case for Same-Sex Marriage*, New York: Free Press.
+* Eskridge Jr., William and Darren R. Spedale, 2006, *Gay Marriage: For Better or For Worse?: What We’ve Learned from the Evidence*, New York: Oxford University Press.
+* Finnis, John, 1997, “The Good of Marriage and the Morality of Sexual Relations,” *American Journal of Jurisprudence*, 42: 97–134.
+* –––, 1996, “Natural Law Theory and Limited Government,” in Robert P. George (ed.), *Natural Law, Liberalism and Morality*, Oxford: Oxford University Press, pp. 1–26.
+* Forman, James Jr., 2012, “Racial Critiques of Mass Incarceration,” *New York University Law Review*, 87: 21–69.
+* Gardner, John, 1998, “On the Ground of Her Sex(uality),” *Oxford Journal of Legal Studies*, 18: 167–87.
+* George, Robert, 1993, *Making Men Moral*, Oxford: Clarendon Press.
+* Girgis, Sherif, Ryan T. Anderson, and Robert P. George, 2012, *What is Marriage? Man and Woman: A Defense*, New York: Encounter Books.
+* Habermas, Jurgen, 1996, “Citizenship and National Identity,” in *Between Facts and Norms*, Cambridge, MA: MIT Press, pp. 491–515.
+* Hartley, Christie, 2009, “Justice for the Disabled: A Contractualist Approach,” *Journal of Social Philosophy*, 40: 17–36.
+* Herron Michael D. and Daniel A. Smith, 2016, “Race, Shelby County, and the Voter Information Verification Act in North Carolina,” *Florida State Law Review* 43: 465–506.
+* Holmes, Stephen and Cass Sunstein, 1999, *The Cost of Rights*, New York: Norton.
+* Hosein, Adam Omar, 2018, “Racial Profiling and A Reasonable Sense of Inferior Political Status.” *Journal of Political Philosophy*, 26: e1–e20.
+* Keyssar, Alexander, 2000, *The Right to Vote*, New York: Basic Books.
+* Kittay, Eva F., 2000, “At Home with My Daughter,” in L.P. Francis and A. Silvers (eds.), *Americans with Disabilities*, New York: Routledge, pp. 64–80.
+* Koh, Harold Hongju, et al., 2015, “Brief for Foreign and Comparative Law Experts Harold Hongju Koh et al. as Amici Curiae in Support of Petitioners,” *Obergefell v. Hodges*, March 6. [Koh et al. brief available online](https://scholarship.law.duke.edu/faculty\scholarship/3446/).
+* Koppelman, Andrew, 1996. *Antidiscrimination Law and Social Equality*, New Haven: Yale University Press.
+* –––, 1997, “Three Arguments for Gay Rights,” *Michigan Law Review*, 95: 1636–67.
+* Kymlicka, Will, 1995, *Multicultural Citizenship*, Oxford: Clarendon Press.
+* –––, 1994, “Individual and Community Rights,” in J. Baker (ed.), *Group Rights*, Toronto: University of Toronto Press.
+* –––, 1989, *Liberalism, Community, and Culture*, Oxford: Clarendon Press.
+* Lee, Patrick and Robert Georgem, 1997, “What Sex Can Be: Self-Alienation, Illusion, or One-Flesh?” *American Journal of Jurisprudence*, 42: 135–57.
+* Lever, Annabelle, 2007, “What’s Wrong with Racial Profiling? Another Look at the Problem,” *Criminal Justice Ethics*, 26: 20–28.
 * Lilburne, John, et al., 1649. “An Agreement of the Free People of England” (‘Leveller Manifesto’), [Lilburne 1649 available online](http://www.yorku.ca/comninel/courses/3025pdf/AgreementPeople.pdf).
-* Lim, Chong-Ming, 2018, “Disabilities are also Medically Interesting Constraints on Legitimate Interests,” _Mind_, 127: 977–1002.
-* Lippert-Rasmussen, Kasper, 2014, _Born Free and Equal?_, Oxford: Oxford University Press.
-* Locke, John, 1690 \[1952], _The Second Treatise of Government_, Thomas P. Peardon (ed.), Indianapolis, Indiana: Bobbs-Merrill.
-* Macedo, Stephen, 1996, “Sexual Morality and the New Natural Law,” in R.P. George (ed.), _Natural Law, Liberalism, and Morality_, Oxford: Oxford University Press.
-* MacKinnon, Catherine, 1987, _Feminism Unmodified_, Cambridge, MA: Harvard University Press.
-* Marshall, T.H. and Tom Bottomore, 1987 \[2014], _Citizenship and Social Class_, London: Pluto Press.
-* Miller, David, 2013, _Justice for Earthlings_, Cambridge: Cambridge University Press.
-* Mogensen, Andreas, 2019, “Racial Profiling and Cumulative Injustice,” _Philosophy and Phenomenological Research_, XCVIII: 452–77.
-* Pateman, Carole, 1988, _The Sexual Contract_, Stanford: Stanford University Press.
-* Patten, Alan, 2014, _Equal Recognition_, Princeton: Princeton University Press.
-* Pogge, Thomas, 2000, “Justice for People with Disabilities,” in L.P. Francis and A. Silvers (eds.), _Americans with Diabilities_, New York: Routledge, pp. 34–53.
-* Rawls, John, 1995, “Political Liberalism: Reply to Habermas,” _Journal of Philosophy_, 92: 132–80
-* –––, 2001, _Justice as Fairness: A Restatement_, Cambridge, MA: Harvard University Press.
-* Reiman, Jeffrey, 2011, “Is Racial Profiling Just? Making Criminal Justice Policy in the Original Position,” _Journal of Ethics_, 15: 3–19.
-* Risse, Mathias, 2007, “Racial Profiling: A Reply to Two Critics,” _Criminal Justice Ethics_, 26: 4–19.
-* Risse, Mathias, and Richard Zeckhauser, 2004, “Racial Profiling,” _Philosophy and Public Affair_, 32: 131–170.
-* Schmidt, Christopher W., 2021, _Civil Rights in America: A History_, New York: Cambridge University Press.
-* Silvers, Anita, 1998, “Formal Justice,” in A. Silvers, D. Wasserman and M. Mahowald (eds.), _Disability, Difference, Discrimination_, Lanham, MD: Rowman and Littlefield: 13–145.
-* Taylor, Charles, 1994, “The Politics of Recognition,” in A. Guttman (ed.), _Multiculturalism_, Princeton: Princeton University Press.
+* Lim, Chong-Ming, 2018, “Disabilities are also Medically Interesting Constraints on Legitimate Interests,” *Mind*, 127: 977–1002.
+* Lippert-Rasmussen, Kasper, 2014, *Born Free and Equal?*, Oxford: Oxford University Press.
+* Locke, John, 1690 \[1952], *The Second Treatise of Government*, Thomas P. Peardon (ed.), Indianapolis, Indiana: Bobbs-Merrill.
+* Macedo, Stephen, 1996, “Sexual Morality and the New Natural Law,” in R.P. George (ed.), *Natural Law, Liberalism, and Morality*, Oxford: Oxford University Press.
+* MacKinnon, Catherine, 1987, *Feminism Unmodified*, Cambridge, MA: Harvard University Press.
+* Marshall, T.H. and Tom Bottomore, 1987 \[2014], *Citizenship and Social Class*, London: Pluto Press.
+* Miller, David, 2013, *Justice for Earthlings*, Cambridge: Cambridge University Press.
+* Mogensen, Andreas, 2019, “Racial Profiling and Cumulative Injustice,” *Philosophy and Phenomenological Research*, XCVIII: 452–77.
+* Pateman, Carole, 1988, *The Sexual Contract*, Stanford: Stanford University Press.
+* Patten, Alan, 2014, *Equal Recognition*, Princeton: Princeton University Press.
+* Pogge, Thomas, 2000, “Justice for People with Disabilities,” in L.P. Francis and A. Silvers (eds.), *Americans with Diabilities*, New York: Routledge, pp. 34–53.
+* Rawls, John, 1995, “Political Liberalism: Reply to Habermas,” *Journal of Philosophy*, 92: 132–80
+* –––, 2001, *Justice as Fairness: A Restatement*, Cambridge, MA: Harvard University Press.
+* Reiman, Jeffrey, 2011, “Is Racial Profiling Just? Making Criminal Justice Policy in the Original Position,” *Journal of Ethics*, 15: 3–19.
+* Risse, Mathias, 2007, “Racial Profiling: A Reply to Two Critics,” *Criminal Justice Ethics*, 26: 4–19.
+* Risse, Mathias, and Richard Zeckhauser, 2004, “Racial Profiling,” *Philosophy and Public Affair*, 32: 131–170.
+* Schmidt, Christopher W., 2021, *Civil Rights in America: A History*, New York: Cambridge University Press.
+* Silvers, Anita, 1998, “Formal Justice,” in A. Silvers, D. Wasserman and M. Mahowald (eds.), *Disability, Difference, Discrimination*, Lanham, MD: Rowman and Littlefield: 13–145.
+* Taylor, Charles, 1994, “The Politics of Recognition,” in A. Guttman (ed.), *Multiculturalism*, Princeton: Princeton University Press.
 * U.S. Commission on Civil Rights, 2018, “An Assessment of Minority Voting Rights Access in the United States.” [2018 Assessment available online](https://www.usccr.gov/files/pubs/2018/Minority\Voting\Access\2018.pdf).
-* Wardle, Lynn, 1996, “A Critical Analysis of Constitutional Claims for Same-Sex Marriage,” _Brigham Young Law Review_, 1996: 1–96
-* Wasserstrom, Richard, 2001, “Racism and Sexism,” reprinted in B. Boxill (ed.), _Race and Racism_, Oxford: Oxford University Press, pp. 307–43.
-* West, Robin, 2019, _Civil Rights_, Cambridge: Cambridge University Press.
-* Wright, Gavin, 2013, _Sharing the Prize_, Cambridge, MA: Harvard University Press.
+* Wardle, Lynn, 1996, “A Critical Analysis of Constitutional Claims for Same-Sex Marriage,” *Brigham Young Law Review*, 1996: 1–96
+* Wasserstrom, Richard, 2001, “Racism and Sexism,” reprinted in B. Boxill (ed.), *Race and Racism*, Oxford: Oxford University Press, pp. 307–43.
+* West, Robin, 2019, *Civil Rights*, Cambridge: Cambridge University Press.
+* Wright, Gavin, 2013, *Sharing the Prize*, Cambridge, MA: Harvard University Press.
 
 ## Academic Tools
 

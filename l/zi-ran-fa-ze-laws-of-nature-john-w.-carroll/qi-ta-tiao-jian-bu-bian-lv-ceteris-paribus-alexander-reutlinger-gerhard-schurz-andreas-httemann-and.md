@@ -1,10 +1,8 @@
 # 其他条件不变律 ceteris paribus (Alexander Reutlinger, Gerhard Schurz, Andreas Hüttemann, and Siegfried Jaag)
 
-_首次发表于2011年3月14日星期一；实质性修订于2024年2月8日星期四_
+*首次发表于2011年3月14日星期一；实质性修订于2024年2月8日星期四*
 
 自然法则在科学哲学和形而上学中占据重要地位。法则通常被认为与许多哲学关键概念（如因果关系、解释、确认、决定论和反事实）紧密相关。传统上，哲学家们关注的是物理法则，这些法则被认为至少是真实的、普遍适用的陈述，支持反事实主张。但是，尽管这种关于法则的说法在物理学方面可能是正确的，但特殊科学（如生物学、心理学和经济学）中的法则似乎具有与物理法则不同的特征。特殊科学的法则，例如经济学中的“在完全竞争条件下，商品需求增加导致价格上涨，前提是供应商品的数量保持不变”，以及生物学中的孟德尔定律，通常被认为“有例外”，是“非普遍的”或者是“其他条件不变律”。物理学的法则和特殊科学的法则之间的差异以及它们是否存在差异是引发关于其他条件不变律的辩论的关键问题之一。另一个重要而有争议的问题涉及“其他条件不变律”这一术语的确切含义的确定。哲学家们试图以不同的方式阐明其他条件不变律条款的含义。含义问题与经验内容问题相关，即其他条件不变律是否具有非平凡且经验可验证的内容。由于许多哲学家认为其他条件不变律缺乏经验可验证的内容，这个问题对其他条件不变律理论构成了重大挑战。
-
- 
 
 ***
 
@@ -343,7 +341,7 @@ Lange 认为定义（13）不受循环性问题的影响，因为稳定性不预
 
 (B) 科学的意图利益策略：如果一个法则在那些不属于该法则意图目的和应用范围的反事实假设下不成立，仍然可以被视为稳定的。Lange 提供了一个最好的例子来说明这一点，即岛屿生物地理学中的面积法则。根据 Lange 提供的例子，一个岛屿上某一类分类群的物种的平衡数量 S（就生物而言）随着岛屿的面积 A 呈多项式增长：S=c×Az。其中，正值常数 c 和 z 是特定于分类群和岛屿群的（Lange 2002, 416f.; cf. Lange 2000, 235f）。
 
-> It has been suggested that _ceteris paribus_, the equilibrium number S of a species of a given taxonomic group on an island (as far as creatures are concerned) increases \[polynomially]\[[13](https://plato.stanford.edu/entries/ceteris-paribus/notes.html#note-13)] with the islands area \[A]: S=c×Az. The (positive-valued) constants c and z are specific to the taxonomic group and island group. (Lange 2002, 416f.; cf. Lange 2000, 235f.)
+> It has been suggested that *ceteris paribus*, the equilibrium number S of a species of a given taxonomic group on an island (as far as creatures are concerned) increases \[polynomially]\[[13](https://plato.stanford.edu/entries/ceteris-paribus/notes.html#note-13)] with the islands area \[A]: S=c×Az. The (positive-valued) constants c and z are specific to the taxonomic group and island group. (Lange 2002, 416f.; cf. Lange 2000, 235f.)
 
 有一些反事实的假设，使得面积定律不成立。例如，想象一个岛屿，岛上的动物种类“鸡”只生活在养鸡场上。进一步假设，在这些养鸡场上，鸡被在极度拥挤的条件下饲养和养护。因此，这个例子所产生的反事实假设是“在问题所述的岛上，鸡是在农民们创造的极度拥挤、人工条件下饲养的”。显然，面积定律在这种情况下将严重失效。此外，这种情况并不是牵强的哲学思想实验：在动物培育的时代（根据非可忽略性策略所要求的），这种情况并不少见。然而，科学家们排除了这种例外，因为它与他们学科的预期目的和应用相冲突（在这种情况下是：岛屿生物地理学）（参见 Lange 2002 年，417 页；Lange 2000 年，232f.以获取更多例子\[14]）。
 
@@ -541,219 +539,219 @@ Cohen and Callender (2009, 2010)、Schrenk (2007a, 2014)和Unterhuber (2014)介�
 
 ## Bibliography
 
-* Adams, E. W., 1975, _The Logic of Conditionals_, Dordrecht: Reidel.
-* Albert, D., 2015, _After Physics_, Cambridge, MA: Harvard University Press.
-* Backmann, M. and A. Reutlinger (2014): “Better Best Systems. Too Good To Be True”, _Dialectica_, 68: 375–390.
-* Bird, A., 2005, “The Dispositionalist Conception of Laws”, _Foundations of Science_, 10: 353–370.
-* –––, 2007, _Nature’s Metaphysics_, Oxford: Oxford University Press.
-* Blaug, M., 1992, _The Methodology of Economics or How Economists Explain_, New York: Cambridge University Press, 2nd Edition.
-* –––, 1997, _Economic Theory in Retrospect_, Cambridge: Cambridge University Press, 2nd Edition.
-* Braddon-Mitchell, D., 2001, “Lossy Laws”, _Noûs_, 35(2): 260–277.
-* Cairnes, J., 1888, _The Character and Logical Method of Political Economy_, London: Longman, Brown, Green, and Roberts.
-* Callender, C., and J. Cohen, 2010, “Special Sciences, Conspiracy and the Better Best System Account of Laws”, _Erkenntnis_.
-* Canfield, J., and K. Lehrer, 1961, “A Note on Prediction and Deduction”, _Philosophy of Science_, 28: 204–208
-* Carnap, R., 1956, “The Methodological Character of Theoretical Concepts”, in _The Foundations of Science and the Concepts of Psychology and Psychoanalysis_ (Minnesota Studies in the Philosophy of Science, Vol. I), H. Feigl, and M. Scriven (eds.), Minneapolis: Minnesota University Press, pp. 38–76.
-* Carrier, M., 1998, “In Defense of Psychological Laws”, _International Studies in the Philosophy of Science_, 12: 217–232.
-* Cartwright, N., 1983, _How the Laws of Physics Lie_, Oxford: Oxford University Press.
-* –––, 1989, _Nature’s Capacities and their Measurement_, Cambridge: Cambridge University Press.
-* –––, 1999, _The Dappled World. A Study of the Boundaries of Science_, Cambridge: Cambridge University Press.
-* –––, 2002, “In favor of Laws that are not Ceteris Paribus After All”, in _Ceteris Paribus laws_, J. Earman et al. (eds), _Erkenntnis_, 52 (Special Issue): 425–439.
-* –––, 2007, _Hunting Causes and using them. Approaches in Philosophy and Economics_, Cambridge: Cambridge University Press.
-* Churchland, P., 1970, “The Logical Character of Action Explanations”, _Philosophical Review_, 79: 214–236.
-* Cicero, M. T., 1838, _De Officiis_, J.F. Heusinger (ed.), Braunschweig: Vieweg.
-* Claveau, F., and J. Girard, 2019, “Generic Generalizations in Science”, _Erkenntnis_, 84(4): 839–859.
-* Cohen, J., and C. Callender, 2009, “A Better Best System Account of Lawhood”, _Philosophical Studies_, 145(1): 1–34.
-* Collins, J., N. Hall, and L.A. Paul (eds.), 2004, _Causation and Counterfactuals_, Cambridge, Massachusetts: MIT Press.
-* Craver, C., 2007, _Explaining the Brain. Mechanisms and the Mosaic Unity of Neuroscience_, Oxford: Clarendon Press.
-* Dancy, J., 2004, _Ethics Without Principles_, Oxford: Oxford University Press.
-* Davidson, D. 1980, _Essays on Actions and Events_, Oxford: Oxford University Press.
-* –––, 1984, _Inquiries into Truth and Interpretation_, Oxford: Oxford University Press.
-* Dray, W., 1957, _Laws and Explanation in History_, Oxford: Oxford University Press.
-* Demarest, H., 2012, “Do Counterfactuals Ground the Laws? A Critique of Lange”, _Philosophy of Science_, 79(3): 333–344.
-* Drewery, A., 2000, “Laws, Regularities and Exceptions”, _Ratio_, 13(1): 1–12.
-* –––, 2001, “Dispositions and _Ceteris Paribus_ Laws”, _British Journal for the Philosophy of Science_, 52(4): 723–733.
-* Dupré, J., 1984, “Probabilistic Causality Emancipated”_, Midwest Studies in Philosophy_, 9: 169–75.
-* Earman, J, and J. Roberts, 1999, “Ceteris Paribus, There is no Problem of Provisos”, _Synthese_, 118: 439–478.
-* Earman, J., J. Roberts, and S. Smith (2002): “Ceteris Paribus Lost”, in _Ceteris Paribus laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 281–301.
-* Earman, J., C. Glymour, and S. Mitchell (eds.), 2002, _Ceteris Paribus Laws_, _Erkenntnis_, 57 (Special Issue).
-* Eells, E., 1991, _Probabilistic Causality_, Cambridge: Cambridge University Press.
-* Elgin, M., and E. Sober, 2002, “Cartwright on Explanation and Idealization”, in _Ceteris Paribus laws_, J. Earman, _et al_. (eds), _Erkenntnis_ 52 (Special Issue): 441–450.
-* Eliot, C., 2011, “Hempel’s Provisos and Ceteris Paribus Clauses”, _Journal for General Philosophy of Science_, 42 (2): 207–218.
-* Feigl, H., and M. Scriven (eds.), 1956, _The Foundations of Science and the Concepts of Psychology and Psychoanalysis_ (Minnesota Studies in the Philosophy of Science, Vol. I), Minneapolis: Minnesota University Press.
-* Fenton-Glynn, L., 2016, “Ceteris Paribus Laws and Minutis Rectis Laws”, _Philosophy and Phenomenological Research_, 93(2): 274–305.
-* Fisher, R., 1951, _The Design of Experiments_, Edinburgh: Oliver and Boyd.
-* Fodor, J., 1974, “Special Sciences, or the Disunity of Science as a Working Hypothesis”, _Synthese_, 28: 97–115.
-* –––, 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_, Cambridge, MA: MIT Press.
-* –––, 1991, “You Can Fool Some People All of the Time, Everything Else Being Equal; Hedged Laws and Psychological Explanations”, _Mind_, 100: 19–34.
-* –––, 1997, “Special Sciences. Still Autonomous After all these Years”, _Philosophical Perspectives_, 11: 149–163.
-* Friedman, M., 1953/2008, “The Methodology of Positive Economics”, in D. Hausman (ed.), _The Philosophy of Economics. An Anthology_, Third Edition, New York: Cambridge University Press, pp. 145–178.
-* Frisch, M., 2014a, “Why Physics Can’t Explain Everything”, in A. Wilson (Ed.), _Asymmetries of chance and time_, Oxford: Oxford University Press, 221–240.
-* –––, 2014b, _Causal Reasoning in Physics_, Cambridge: Cambridge University Press.
-* Gabbay, D.M., et al. (eds.), 1994, _Handbook of Logic in Artificial Intelligence and Logic_ _Programming, Vol. 3: Nonmonotonic Reasoning and Uncertain Reasoning_, Oxford: Clarendon Press.
-* Glennan, S., 2002, “Rethinking Mechanist Explanation”, _Philosophy of Science_ (Supplement), 69: S342–353.
-* Glymour, C., 2002, “A Semantics and Methodology for Ceteris Paribus Hypotheses”, in _Ceteris Paribus laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 395–404.
-* Goodman, N., 1947, “The Problem of Counterfactual Conditionals”, _Journal of Philosophy_, 44(5): 113–128.
-* Hall, N., 2007, “Structural Equations and Causation”, _Philosophical Studies_, 132: 109–136.
-* –––, 2011, “Review of _Laws and Lawmakers: Science, Metaphysics, and the Laws of Nature_”, _Notre Dame Philosophical Reviews_, 27 September 2011, [available online](https://ndpr.nd.edu/news/laws-lawmakers-science-metaphysics-and-the-laws-of-nature/).
-* Hausman, D., 1992, _The Separate and Inexact Science of Economics_, Cambridge, Massachusetts: Cambridge University Press.
-* –––, 1998, _Causal Asymmetries_, New York: Cambridge University Press.
-* Hawthorne, J., 1996, “On the Logic of Non-Monotonic Conditionals and Conditional Probabilities”, _Journal of Philosophical Logic_, 25: 185–218.
-* Hays, W., and Winkler, R., 1975, _Statistics: Probability, Inference, and Decision_, New York: Holt, 2nd edition.
+* Adams, E. W., 1975, *The Logic of Conditionals*, Dordrecht: Reidel.
+* Albert, D., 2015, *After Physics*, Cambridge, MA: Harvard University Press.
+* Backmann, M. and A. Reutlinger (2014): “Better Best Systems. Too Good To Be True”, *Dialectica*, 68: 375–390.
+* Bird, A., 2005, “The Dispositionalist Conception of Laws”, *Foundations of Science*, 10: 353–370.
+* –––, 2007, *Nature’s Metaphysics*, Oxford: Oxford University Press.
+* Blaug, M., 1992, *The Methodology of Economics or How Economists Explain*, New York: Cambridge University Press, 2nd Edition.
+* –––, 1997, *Economic Theory in Retrospect*, Cambridge: Cambridge University Press, 2nd Edition.
+* Braddon-Mitchell, D., 2001, “Lossy Laws”, *Noûs*, 35(2): 260–277.
+* Cairnes, J., 1888, *The Character and Logical Method of Political Economy*, London: Longman, Brown, Green, and Roberts.
+* Callender, C., and J. Cohen, 2010, “Special Sciences, Conspiracy and the Better Best System Account of Laws”, *Erkenntnis*.
+* Canfield, J., and K. Lehrer, 1961, “A Note on Prediction and Deduction”, *Philosophy of Science*, 28: 204–208
+* Carnap, R., 1956, “The Methodological Character of Theoretical Concepts”, in *The Foundations of Science and the Concepts of Psychology and Psychoanalysis* (Minnesota Studies in the Philosophy of Science, Vol. I), H. Feigl, and M. Scriven (eds.), Minneapolis: Minnesota University Press, pp. 38–76.
+* Carrier, M., 1998, “In Defense of Psychological Laws”, *International Studies in the Philosophy of Science*, 12: 217–232.
+* Cartwright, N., 1983, *How the Laws of Physics Lie*, Oxford: Oxford University Press.
+* –––, 1989, *Nature’s Capacities and their Measurement*, Cambridge: Cambridge University Press.
+* –––, 1999, *The Dappled World. A Study of the Boundaries of Science*, Cambridge: Cambridge University Press.
+* –––, 2002, “In favor of Laws that are not Ceteris Paribus After All”, in *Ceteris Paribus laws*, J. Earman et al. (eds), *Erkenntnis*, 52 (Special Issue): 425–439.
+* –––, 2007, *Hunting Causes and using them. Approaches in Philosophy and Economics*, Cambridge: Cambridge University Press.
+* Churchland, P., 1970, “The Logical Character of Action Explanations”, *Philosophical Review*, 79: 214–236.
+* Cicero, M. T., 1838, *De Officiis*, J.F. Heusinger (ed.), Braunschweig: Vieweg.
+* Claveau, F., and J. Girard, 2019, “Generic Generalizations in Science”, *Erkenntnis*, 84(4): 839–859.
+* Cohen, J., and C. Callender, 2009, “A Better Best System Account of Lawhood”, *Philosophical Studies*, 145(1): 1–34.
+* Collins, J., N. Hall, and L.A. Paul (eds.), 2004, *Causation and Counterfactuals*, Cambridge, Massachusetts: MIT Press.
+* Craver, C., 2007, *Explaining the Brain. Mechanisms and the Mosaic Unity of Neuroscience*, Oxford: Clarendon Press.
+* Dancy, J., 2004, *Ethics Without Principles*, Oxford: Oxford University Press.
+* Davidson, D. 1980, *Essays on Actions and Events*, Oxford: Oxford University Press.
+* –––, 1984, *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press.
+* Dray, W., 1957, *Laws and Explanation in History*, Oxford: Oxford University Press.
+* Demarest, H., 2012, “Do Counterfactuals Ground the Laws? A Critique of Lange”, *Philosophy of Science*, 79(3): 333–344.
+* Drewery, A., 2000, “Laws, Regularities and Exceptions”, *Ratio*, 13(1): 1–12.
+* –––, 2001, “Dispositions and *Ceteris Paribus* Laws”, *British Journal for the Philosophy of Science*, 52(4): 723–733.
+* Dupré, J., 1984, “Probabilistic Causality Emancipated”*, Midwest Studies in Philosophy*, 9: 169–75.
+* Earman, J, and J. Roberts, 1999, “Ceteris Paribus, There is no Problem of Provisos”, *Synthese*, 118: 439–478.
+* Earman, J., J. Roberts, and S. Smith (2002): “Ceteris Paribus Lost”, in *Ceteris Paribus laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 281–301.
+* Earman, J., C. Glymour, and S. Mitchell (eds.), 2002, *Ceteris Paribus Laws*, *Erkenntnis*, 57 (Special Issue).
+* Eells, E., 1991, *Probabilistic Causality*, Cambridge: Cambridge University Press.
+* Elgin, M., and E. Sober, 2002, “Cartwright on Explanation and Idealization”, in *Ceteris Paribus laws*, J. Earman, *et al*. (eds), *Erkenntnis* 52 (Special Issue): 441–450.
+* Eliot, C., 2011, “Hempel’s Provisos and Ceteris Paribus Clauses”, *Journal for General Philosophy of Science*, 42 (2): 207–218.
+* Feigl, H., and M. Scriven (eds.), 1956, *The Foundations of Science and the Concepts of Psychology and Psychoanalysis* (Minnesota Studies in the Philosophy of Science, Vol. I), Minneapolis: Minnesota University Press.
+* Fenton-Glynn, L., 2016, “Ceteris Paribus Laws and Minutis Rectis Laws”, *Philosophy and Phenomenological Research*, 93(2): 274–305.
+* Fisher, R., 1951, *The Design of Experiments*, Edinburgh: Oliver and Boyd.
+* Fodor, J., 1974, “Special Sciences, or the Disunity of Science as a Working Hypothesis”, *Synthese*, 28: 97–115.
+* –––, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: MIT Press.
+* –––, 1991, “You Can Fool Some People All of the Time, Everything Else Being Equal; Hedged Laws and Psychological Explanations”, *Mind*, 100: 19–34.
+* –––, 1997, “Special Sciences. Still Autonomous After all these Years”, *Philosophical Perspectives*, 11: 149–163.
+* Friedman, M., 1953/2008, “The Methodology of Positive Economics”, in D. Hausman (ed.), *The Philosophy of Economics. An Anthology*, Third Edition, New York: Cambridge University Press, pp. 145–178.
+* Frisch, M., 2014a, “Why Physics Can’t Explain Everything”, in A. Wilson (Ed.), *Asymmetries of chance and time*, Oxford: Oxford University Press, 221–240.
+* –––, 2014b, *Causal Reasoning in Physics*, Cambridge: Cambridge University Press.
+* Gabbay, D.M., et al. (eds.), 1994, *Handbook of Logic in Artificial Intelligence and Logic* *Programming, Vol. 3: Nonmonotonic Reasoning and Uncertain Reasoning*, Oxford: Clarendon Press.
+* Glennan, S., 2002, “Rethinking Mechanist Explanation”, *Philosophy of Science* (Supplement), 69: S342–353.
+* Glymour, C., 2002, “A Semantics and Methodology for Ceteris Paribus Hypotheses”, in *Ceteris Paribus laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 395–404.
+* Goodman, N., 1947, “The Problem of Counterfactual Conditionals”, *Journal of Philosophy*, 44(5): 113–128.
+* Hall, N., 2007, “Structural Equations and Causation”, *Philosophical Studies*, 132: 109–136.
+* –––, 2011, “Review of *Laws and Lawmakers: Science, Metaphysics, and the Laws of Nature*”, *Notre Dame Philosophical Reviews*, 27 September 2011, [available online](https://ndpr.nd.edu/news/laws-lawmakers-science-metaphysics-and-the-laws-of-nature/).
+* Hausman, D., 1992, *The Separate and Inexact Science of Economics*, Cambridge, Massachusetts: Cambridge University Press.
+* –––, 1998, *Causal Asymmetries*, New York: Cambridge University Press.
+* Hawthorne, J., 1996, “On the Logic of Non-Monotonic Conditionals and Conditional Probabilities”, *Journal of Philosophical Logic*, 25: 185–218.
+* Hays, W., and Winkler, R., 1975, *Statistics: Probability, Inference, and Decision*, New York: Holt, 2nd edition.
 * Hempel, C., 1942, “The Function of General Laws in History”, in C. Hempel, 1965, pp. 231–243.
 * –––, 1952, “Typological Methods in the Natural and the Social Sciences”, in C. Hempel, 1965, pp. 155–171.
-* –––, 1961–62, “Rational Action”, _Proceedings of the American Philosophical Association_, 35: 5–23.
-* –––, 1965, _Aspects of Scientific Explanation and other Essays_, New York: The Free Press.
-* –––, 1988, “Provisoes: A Problem concerning the Inferential Function of Scientific Theories”, _Erkenntnis_, 28: 147–164.
+* –––, 1961–62, “Rational Action”, *Proceedings of the American Philosophical Association*, 35: 5–23.
+* –––, 1965, *Aspects of Scientific Explanation and other Essays*, New York: The Free Press.
+* –––, 1988, “Provisoes: A Problem concerning the Inferential Function of Scientific Theories”, *Erkenntnis*, 28: 147–164.
 * Hempel, C., and P. Oppenheim, 1948, “Studies in the Logic of Explanation”, in C. Hempel, 1965, pp. 245–290
-* Hicks, M., S. Jaag, and C. Loew (eds.), 2023, _Humean Laws for Human Agents_, Oxford: Oxford University Press.
-* Hitchcock, C., 2001, “The Intransitivity of Causation Revealed in Equations and Graphs”, _The Journal of Philosophy_, 98: 273–299.
-* Hitchcock, C., and J. Woodward, 2003 \[EG2], “Explanatory Generalizations, Part II: Plumbing Explanatory Depth”, _Noûs_, 37(2): 181–199. \[For EG1, see Woodward & Hitchcock 2003.]
-* Hollander, S., 1985, _The Economics of John Stuart Mill. Vol. I: Theory and Method_, Oxford: Blackwell.
-* Horgan, T., and J. Tienson, 1996, _Connectionism and the Philosophy of Psychology_, Cambridge, Massachusetts: MIT Press.
-* Horty, J., 1994, “Moral Dilemmas and Non-monotonic Logic”, _Journal of Philosophical Logic_, 23: 35–65.
-* Hutchison, T.W., 1938, _The Significance and Basic Postulates in Economic Theory_, New York: Kelly, 2nd Edition.
-* Hüttemann, A., 1998, “Laws and Dispositions”, _Philosophy of Science_, 65: 121– 135.
-* –––, 2007, “Causation, Laws and Dispositions”, in M. Kistler, and B. Gnassounou (eds.), _Dispositions and Causal Powers_, Aldershot: Ashgate, pp. 207–219.
-* –––, 2014, “Ceteris Paribus Laws in Physics”, _Erkenntnis_, 79: 1715–1728.
-* –––, 2021, _A Minimal Metaphysics for Scientific Practice_, Cambridge: Cambridge University Press.
-* Hüttemann, A. and A. Reutlinger, 2013, “Against the Statistical Account of Special Science Laws”, in V. Karakostas and D. Dieks (eds.), _EPSA11: Perspectives and Foundational Problems_, Dordrecht: Springer, 181–192.
-* Jaag, S. and C. Loew, 2020, “Making best systems best for us”, _Synthese_, 197: 2525–2550.
-* Jeffrey, R.C., 1971, “Probability Measures and Integrals”, in R. Carnap, and R. Jeffrey (eds.), 1971, _Studies in Inductive Logic and Probability_, Berkeley: University of California Press, pp. 167–224.
-* Johanson, I., 1980, “Ceteris Paribus Clauses, Closure Clauses and Falsifiability”, _Journal for the General Philosophy of Science_, 10: 16–22.
-* Joseph, G., 1980, “The Many Sciences and the One World”, _Journal of Philosophy_, 77: 773–790.
-* Jhun, J., S., 2018, “What’s the Point of Ceteris Paribus? or, How to Understand Supply and Demand Curves”, _Philosophy of Science_, 85(2): 271–292.
-* Karbasizadeh, A. E., 2008, “Revising the Concept of Lawhood: Special Sciences and Natural Kinds”, _Synthese_, 162: 115–130.
-* Kaufer, E., 1997, “Reply to Persky”, _Journal of Economic Perspectives_, 11(2): 190–191.
-* Keynes, J.M., 1891, _The General Theory of Employment, Interest, and Money_, London: Macmillan.
-* Kim, J., 1985, “Psychological Laws”, in _Actions and Events_, E. LePore, and B. McLaughlin (eds.), Oxford: Oxford University Press, pp. 369–386.
-* Kincaid, H., 1996, _Philosophical Foundations of the Social Sciences_, Cambridge: Cambridge University Press.
-* –––, 2004, “Are There Laws in the Social Sciences?: Yes”, in _Contemporary Debates in the Philosophy of Science_, C. Hitchcock (ed.), Oxford: Blackwell, pp. 168–187.
-* –––, 2008, “Structural Realism and the Social Sciences”, _Philosophy of Science_, 75: 720–731
-* Kincaid, H., and D. Ross, 2009, _The Oxford Handbook of Economics_, Oxford: Oxford University Press.
-* Kistler, M., 2020, “Laws, Exceptions and Dispositions”, _The Journal for the Philosophy of Language, Mind, and Arts_, 1(1): 53–74.
-* Kowalenko, R., 2014, “Ceteris Paribus Laws: A Naturalistic Account”, _International Studies in the Philosophy of Science_, 28(2): 133–155.
-* Kraus, S., D. Lehmann, and M. Magidor, 1990, “Nonmonotonic Reasoning, Preferential Models and Cumulative Logics”, _Artificial Intelligence_, 44: 167–207.
-* Krugman, P., and R. Wells, 2009, _Economics_, London: Palgrave Macmillan, 2nd Edition.
-* Ladyman, J., 2008, “Structural Realism and the Relation between the Special Sciences and Physics”, _Philosophy of Science_, 75: 744–755.
-* Lakatos, I., 1970, _Criticism and the Growth of Knowledge_, New York: Cambridge University Press.
-* Lange, M., 1993, “Natural Laws and the Problem of Provisos”, _Erkenntnis_, 38: 233–248.
-* –––, 2000, _Natural Laws in Scientific Practice_, Oxford: Oxford University Press.
-* –––, 2002, “Who’s Afraid of Ceteris Paribus Laws? Or: How I Learned to Stop Worrying and Love Them”, in _Ceteris Paribus laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 407–423.
-* –––, 2005, “Laws and their Stability”, _Synthese_, 144: 415–432.
-* –––, 2009a, _Laws and Lawmakers. Science, Metaphysics and the Laws of Nature_, Oxford: Oxford University Press.
-* –––, 2009b, “Why Do the Laws Explain Why?”, in _Dispositions and Causes_, T. Handfield (ed.), Oxford: Oxford University Press, pp. 286–321.
-* Leitgeb, H., 2004, _Inference at the Low Level_, Dordrecht: Kluwer.
-* Lepore, E., and B. Loewer, 1987, “Mind Matters”, _Journal of Philosophy_, 93: 630–642.
-* –––, 1989, “More on Making Mind Matter”, _Philosophical Topics_, 17: 175–191.
-* Lewis, D., 1973, _Counterfactuals_. Oxford: Blackwell.
-* –––, 1983, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61: 343–377.
-* Lipton, P., 1999, “All Else Being Equal”, _Philosophy_, 74: 155–168.
-* Loewer, B., 2009, “Why is there anything except physics?” _Synthese_, 170: 217–233.
-* Machamer, P., L. Darden, and C. Craver, 2000, “Thinking About Mechanisms”, _Philosophy of Science_, 67: 1–25.
-* Mankiw, N. G., 1998, _Principles of Microeconomics_, Orlando: The Dryden Press.
-* Marx, K., 1867, _Kritik der Politischen Ökonomie. Das Kapital Band I_, in Marx- Engels-Werke, Vol. 23, Berlin: Dietz.
-* –––, 1894, _Kritik der Politischen Ökonomie. Das Kapital Band III_, in _Marx-Engels-Werke_, Vol. 25, Berlin: Dietz.
-* Marshall, A., 1890, _Principles of Economics_, Macmillan: London, Eighth Edition.
-* Mas-Colell, A., M. Whinston, and J. Green, 1995, _Microeconomic Theory_, Oxford: Oxford University Press.
-* Maudlin, T., 2007, _The Metaphysics Within Physics_, Oxford: Oxford University Press.
-* McCarthy, J., 1986, “Application of Circumscription to Formalizing Common-Sense Knowledge”, _Artificial Intelligence_, 13: 89–116.
-* Medina, J. de, 1581, _De Poenitentia Restitutione et Contractibus_, Ingolstadt, First Edition 1544.
-* Mesoudi, A., A. Whiten, and K.N. Laland, 2006, “Towards a unified science of cultural evolution”, _Behavioral and Brain Science_, 29: 329–347.
-* Mill, J. S., 1836/2008, “On the Definition and Method of Political Economy”, in _The Philosophy of Economics. An Anthology_, D. Hausman (ed.), New York: Cambridge University Press, Third Edition, pp. 41–58.
-* –––, 1843, _A System of Logic_, London: J. W. Parker.
-* –––, 1871, _Principles of Political Economy_, New York: A.M. Kelly.
-* Millikan, R. G., 1984, _Language, Thought, and Other Biological Categories._ Cambridge, Massachusetts: MIT Press.
-* Mitchell, S., 1997, “Pragmatic Laws”, _Philosophy of Science_, 64: 242–265.
-* –––, 2000, “Dimensions of Scientific Law”, _Philosophy of Science_, 67: 242–265.
-* –––, 2002a, “_Ceteris Paribus_ – An Inadequate representation of biological Contingency”, in in _Ceteris Paribus laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 329–350.
-* –––, 2002b, “Contingent Generalizations: Lessons from Biology”, in _Akteure, Mechanismen, Modelle, Zur Theoriefähigkeit makro-sozialer Analysen_, R. Mayntz (ed.), Frankfurt/New York: Campus, pp. 179–195.
-* –––, 2008, _Komplexitäten. Warum wir erst anfangen, die Welt zu verstehen_, Frankfurt: Suhrkamp. (English translation forthcoming.)
-* –––, 2009, “Complexity and Explanation in the Social Sciences”, in _Philosophy of the Social Sciences. Philosophical Theory and Scientific Practice_, C. Mantzavinos (ed.), Cambridge: Cambridge University Press, pp. 130–145.
-* Morreau, M., 1999, “Other Things Being Equal”, _Philosophical Studies_, 96: 163–182.
-* Molina, L. de, 1659, _De Instita et Iure_, Mainz, First Edition 1593.
-* Moser, P. (ed.), 2002, _The Oxford Handbook of Epistemology_, Oxford: Oxford University Press.
-* Mott, P., 1992, “Fodor and Ceteris Paribus Laws”, _Mind_, 101: 335–346.
-* Mumford, S., 2004, _Laws in Nature_, Oxford: Oxford University Press.
-* Nickel, B., 2009, “Generics and the ways of normality”, _Linguistics and Philosophy_, 31: 629–648.
-* Nickel, B., 2014, “The Role of Kinds in the Semantics of Ceteris Paribus Laws”, _Erkenntnis_, 79(10): 1729–1744.
-* Pearl, J., 2000, _Causality: Models, Reasoning and Inference_, Cambridge: Cambridge University Press.
-* Pemberton, J., and Cartwright, N., 2014, “Ceteris paribus laws need machines to generate them”, _Erkenntnis_, 79: 1745–1758.
-* Persky, J., 1990, “Ceteris Paribus”, _Journal of Economic Perspectives_, 4: 187– 193.
-* Pietroski, P., 1993, “Prima Facie Obligations, Ceteris Paribus Laws in Moral Theory,” _Ethics_, 103: 489–515.
-* Pietroski, P., and R. Rey, 1995, “When Other Things aren’t Equal: Saving Ceteris Paribus Laws from Vacuity”, _British Journal for the Philosophy of Science_, 46: 81–110.
-* Pollock, J., 1986, _Contemporary Theories of Knowledge_, Maryland: Rowman & Littlefield.
-* Price, H. and Corry, R. (eds.), 2007, _Causation, Physics, and the Constitution of Reality. Russell’s Republic Revisited_, New York: Oxford University Press.
-* Psillos, S., 2002, _Causation and Explanation_, Chesham: Acumen.
-* Quine, W.V.O., 1960, _Word and Object_, Cambridge, Massachusetts: MIT Press.
-* Reiss, J., 2008, _Error in Economics_, London: Routledge.
-* Reutlinger, A., 2009, “Review of _Markus Schrenk: The Metaphysics of Ceteris Paribus Laws_”, _British Journal for the Philosophy of Science_, 60: 229–233.
-* –––, 2011, “A Theory of Non-Universal Laws”, _International Studies in the Philosophy of Science_, 25: 97–117.
-* –––, 2013, “Are the Generalizations of Biology Historical?”, in A. Hüttemann and M. Kaiser (eds.), _Explanation in the Special Sciences. The Case of Biology and History_, Dordrecht: Springer, 131–154.
-* –––, 2014, “Do statistical laws solve the problem of provisos?”, _Erkenntnis_, 79: 1759–1773.
-* Reutlinger, A., and H. Koch, 2008, “Methodological Individualism and the Epistemic Value of Social Macro-Explanations”, _Percipi_, 2: 1–14.
-* Reutlinger, A. and M. Unterhuber (eds.), 2014a, _Ceteris Paribus Laws Revisited_, _Synthese_ (Supplement): 79(10).
-* Reutlinger, A. and M. Unterhuber, 2014b, “Thinking about Non-Universal Laws”, _Erkenntnis_, 79: 1703-1713.
-* Roberts, J., 2004, “There are No Laws in the Social Sciences”, in _Contemporary Debates in the Philosophy of Science_, C. Hitchcock (ed.), Oxford: Blackwell, pp. 168–185.
-* Roberts, J. T., 2014, “CP-law statements as vague, self-referential, self-locating, statistical, and perfectly in order”, _Erkenntnis_ 79, 1775–1786.
-* Robbins, L., 1935/2008, “The Nature and Significance of Economic Science”, in _The Philosophy of Economics. An Anthology_, D. Hausman (ed.), New York: Cambridge University Press, 2nd Edition, pp. 73–99.
-* Rosenberg, A., 1992, _Economics – Mathematical Politics or Science of Diminishing Returns?_, Chicago: University of Chicago Press.
-* Ross, W.D., 1930, _The Right and the Good_, Oxford: Oxford University Press.
-* Ross, D., 2008, “Ontic Structural Realism and Economics”, _Philosophy of Science_, 75: 732–743.
-* Rupert, R., 2007, “Realization, Completers, and Ceteris Paribus Laws in Psychology”, _British Journal for the Philosophy of Science_, 58: 1–11.
-* Samuelson, P., 1955, _Economics. Introductory Analysis_, McGraw-Hill.
-* –––, 1958, _Foundations of Economic Analysis_, Cambridge, Massachusetts: Harvard University Press.
-* Samuelson, P., and W. Nordhaus, 1985, _Economics. International Student Edition_, Singapore: McGraw-Hill.
-* Schiffer, S., 1991, “_Ceteris Paribus_ Laws”, _Mind_, 100: 1–17.
-* Schlicht, E., 1985, _Isolation in Economics_, Berlin/New York: Springer.
-* Scholz, O. R., 2016, _Verstehen und Rationalität. Untersuchungen zu den Grundlagen von Hermeneutik und Sprachphilosophie_, Frankfurt: Klostermann.
-* Schrenk, M., 2007a, _The Metaphysics of Ceteris Paribus Laws_, Frankfurt: Ontos.
-* –––, 2007b, “Can Capacities Rescue us from Ceteris Paribus Laws?”, in _Dispositions and Causal Powers_, M. Kistler and B. Gnassounou (eds.), Aldershot: Ashgate, pp. 221–247.
-* –––, 2014, “Better best systems and the issue of cp-laws”, _Erkenntnis_, 79: 1787-1799.
-* Schumpeter, J.A., 1954, _History of Economic Analysis_, Oxford: Oxford University Press.
-* Schurz, G., 1998, “Probabilistic Semantics for Delgrande’s Conditional Logic and a Counterexample to his Default Logic”, _Artificial Intelligence_, 102(1): 81–95.
-* –––, 2001a, “Pietroski and Rey on _Ceteris Paribus_ Laws”, _British Journal for Philosophy of Science_, 52: 359–370.
-* –––, 2001b, “What is _Normal_? An Evolution Theoretic Foundation of Normic Laws and their Relation to Statistical Normality”, _Philosophy of Science_, 28: 476–497.
-* –––, 2002, “Ceteris Paribus Laws: Classification and Deconstruction”, in _Ceteris Paribus Laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 351–372.
-* –––, 2004, “Normic Laws, Nonmonotonic Reasoning, and the Unity of Science”, in: _Logic, Epistemology, and the Unity of Science_, S. Rahman, _et al_. (eds.), Dordrecht: Kluwer, pp. 181–211.
-* –––, 2005, “Non-monotonic Reasoning from an Evolutionary Viewpoint”, _Synthese_, 146(1): 37–51.
-* –––, 2014, “Ceteris paribus and ceteris rectis laws. Content and causal role”, _Erkenntnis_, 79: 1801–1817.
-* Scriven, M., 1959, “Truisms as Grounds for Historical Explanations”, in _Theories of History_, P. Gardiner (ed.), New York: The Free Press.
-* Silverberg, A., 1996, “Psychological Laws and Non-Monotonic Logic”, _Erkenntnis_, 44: 199–224.
-* Smith, S., 2002, “Violated Laws, _Ceteris Paribus_ Clauses, and Capacities”, _Synthese_, 130(2): 235–264.
-* Sober, E., 1997, “Two Outbreaks of Lawlessness in Recent Philosophy of Biology”, _Philosophy of Science_, 64: 432–444.
-* Spirtes, P., C. Glymour, and R. Scheines, 2000, _Causation, Prediction and Search_, New York: Springer.
-* Spohn, W., 1997, “Begründungen a priori – oder: ein frischer Blick auf Dispositionsprädikate”, in _Das weite Spektrum der Analytischen Philosophie. Festschrift für Franz von Kutschera_, W. Lenzen (ed.), Berlin: de Gruyter, pp. 323–345
-* –––, 2002, “Laws, Ceteris Paribus conditions, and the Dynamics of Belief”, in _Ceteris Paribus laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 373–394.
-* –––, 2012, _The Laws of Belief. Ranking Theory and its Philosophical Applications_, Oxford: Oxford University Press.
-* –––, 2014, “The Epistemic Account of Ceteris Paribus Conditions”, _European Journal for Philosophy of Science_, 4(3): 385–408.
-* Steel, D., 2007, _Across the Boundaries. Extrapolation in Biology and Social Science_, New York: Oxford University Press.
-* Strevens, M., 2003, _Bigger than Chaos_, Cambridge, MA: Harvard University Press.
-* –––, 2008, _Depth_, Cambridge, MA: Harvard University Press.
-* –––, 2012, “Ceteris Paribus Hedges: Causal Voodoo That Works”, _Journal of Philosophy_, 109(11): 652–675.
-* –––, 2014, “High-level exceptions explained”, _Erkenntnis_, 79: 1819–1832.
-* Strößner, C., 2015, “Normality and Majority: Towards a Statistical Understanding of Normality Statements”, _Erkenntnis_, 80(4): 793–809.
-* Tobin, E., 2005, _On the Disunity of the Sciences and Ceteris Paribus Laws_, Dissertation, Trinity College Dublin.
-* Unterhuber, M., 2014, “Do ceteris paribus laws exist? A regularity-based best system analysis”, _Erkenntnis_, 79: 1833–1847.
-* Unterhuber, M., and Schurz, G., 2013, “The new Tweety puzzle: Arguments against monistic Bayesian approaches in epistemology and cognitive science”, _Synthese_, 190: 1407–1435.
-* Wachbroit, R., 1994, “Normality as a Biological Concept”, _Philosophy of Science_, 61: 579–591.
-* Ward, B., 2007, “The Natural Kind Analysis of Ceteris Paribus Law Statements”, _Philosophical Topics_, 35(1/2): 359–380.
-* –––, 2009, “Cartwright, Forces, and Ceteris Paribus Laws”, _Southwest Philosophy Review_, 25 (1): 55–62.
-* Weber, M., 1906, “Objektive Möglichkeit und adäquate Verursachung in der historischen Kausalbetrachtung”, in M. Weber, 1991, _Schriften zur Wissenschaftslehre_, Stuttgart: Reclam, pp. 102–131.
-* Weisberg, M., 2013, _Simulation and Similarity_, New York: Oxford University Press.
-* Weslake, B., 2014, “Statistical mechanical imperialism”, in A. Wilson (ed.), _Asymmetries of chance and time_, Oxford: Oxford University Press, 241–257.
-* Wheeler, B., 2018, _Idealization and the Laws of Nature_, Cham: Springer.
-* Whitaker, J. K., 2008, “Ceteris Paribus”, in _The New Palgrave Dictionary of Economics_, S. N. Durlauf and L. E. Blume (eds.), London: Palgrave Macmillan, 2nd Edition.
-* Wilhelm, I., 2022, “Tractability and Laws”, _Synthese_, 200(4): 1–17.
-* Williams, M., 1995, _Unnatural Doubts. Epistemological Realism and the Basis of Skepticism_, Princeton: Princeton University Press.
-* –––, 2001, _Problems of Knowledge. A Critical Introduction to Epistemology_, Oxford: Oxford University Press.
-* Wimsatt, W., 2007, _Re-Engineering Philosophy for Limited Beings_, Cambridge, MA: Harvard University Press.
-* Woodward, J., 2000, “Explanation and Invariance in the Special Sciences”, _British Journal for the Philosophy of Science_, 51: 197–254.
-* –––, 2002, “There is no such thing as a _ceteris paribus law_”, in _Ceteris Paribus laws_, J. Earman, _et al_. (eds.), _Erkenntnis_, 52 (Special Issue): 303–328.
-* –––, 2003, _Making Things Happen_, Oxford: Oxford University Press.
-* –––, 2010, “Causation in biology: Stability, speciﬁcity, and the choice of levels of explanation”, _Biology and Philosophy_, 25: 287–318.
-* Woodward, J., and C. Hitchcock, 2003 \[EG1], “Explanatory Generalizations, Part I: A Counterfactual Account”, _Noûs_, 37(1): 1–24. \[For EG2, see Hitchcock & Woodward 2003.]
-* Woolridge, J. A., 2009, _Introductory Econometrics_, Mason: South Western Cengage Learning.
-* Wright, A., S., 2017, “Fresnel’s laws, ceteris paribus”, _Studies in History and Philosophy of Science_, 64: 38–52.
+* Hicks, M., S. Jaag, and C. Loew (eds.), 2023, *Humean Laws for Human Agents*, Oxford: Oxford University Press.
+* Hitchcock, C., 2001, “The Intransitivity of Causation Revealed in Equations and Graphs”, *The Journal of Philosophy*, 98: 273–299.
+* Hitchcock, C., and J. Woodward, 2003 \[EG2], “Explanatory Generalizations, Part II: Plumbing Explanatory Depth”, *Noûs*, 37(2): 181–199. \[For EG1, see Woodward & Hitchcock 2003.]
+* Hollander, S., 1985, *The Economics of John Stuart Mill. Vol. I: Theory and Method*, Oxford: Blackwell.
+* Horgan, T., and J. Tienson, 1996, *Connectionism and the Philosophy of Psychology*, Cambridge, Massachusetts: MIT Press.
+* Horty, J., 1994, “Moral Dilemmas and Non-monotonic Logic”, *Journal of Philosophical Logic*, 23: 35–65.
+* Hutchison, T.W., 1938, *The Significance and Basic Postulates in Economic Theory*, New York: Kelly, 2nd Edition.
+* Hüttemann, A., 1998, “Laws and Dispositions”, *Philosophy of Science*, 65: 121– 135.
+* –––, 2007, “Causation, Laws and Dispositions”, in M. Kistler, and B. Gnassounou (eds.), *Dispositions and Causal Powers*, Aldershot: Ashgate, pp. 207–219.
+* –––, 2014, “Ceteris Paribus Laws in Physics”, *Erkenntnis*, 79: 1715–1728.
+* –––, 2021, *A Minimal Metaphysics for Scientific Practice*, Cambridge: Cambridge University Press.
+* Hüttemann, A. and A. Reutlinger, 2013, “Against the Statistical Account of Special Science Laws”, in V. Karakostas and D. Dieks (eds.), *EPSA11: Perspectives and Foundational Problems*, Dordrecht: Springer, 181–192.
+* Jaag, S. and C. Loew, 2020, “Making best systems best for us”, *Synthese*, 197: 2525–2550.
+* Jeffrey, R.C., 1971, “Probability Measures and Integrals”, in R. Carnap, and R. Jeffrey (eds.), 1971, *Studies in Inductive Logic and Probability*, Berkeley: University of California Press, pp. 167–224.
+* Johanson, I., 1980, “Ceteris Paribus Clauses, Closure Clauses and Falsifiability”, *Journal for the General Philosophy of Science*, 10: 16–22.
+* Joseph, G., 1980, “The Many Sciences and the One World”, *Journal of Philosophy*, 77: 773–790.
+* Jhun, J., S., 2018, “What’s the Point of Ceteris Paribus? or, How to Understand Supply and Demand Curves”, *Philosophy of Science*, 85(2): 271–292.
+* Karbasizadeh, A. E., 2008, “Revising the Concept of Lawhood: Special Sciences and Natural Kinds”, *Synthese*, 162: 115–130.
+* Kaufer, E., 1997, “Reply to Persky”, *Journal of Economic Perspectives*, 11(2): 190–191.
+* Keynes, J.M., 1891, *The General Theory of Employment, Interest, and Money*, London: Macmillan.
+* Kim, J., 1985, “Psychological Laws”, in *Actions and Events*, E. LePore, and B. McLaughlin (eds.), Oxford: Oxford University Press, pp. 369–386.
+* Kincaid, H., 1996, *Philosophical Foundations of the Social Sciences*, Cambridge: Cambridge University Press.
+* –––, 2004, “Are There Laws in the Social Sciences?: Yes”, in *Contemporary Debates in the Philosophy of Science*, C. Hitchcock (ed.), Oxford: Blackwell, pp. 168–187.
+* –––, 2008, “Structural Realism and the Social Sciences”, *Philosophy of Science*, 75: 720–731
+* Kincaid, H., and D. Ross, 2009, *The Oxford Handbook of Economics*, Oxford: Oxford University Press.
+* Kistler, M., 2020, “Laws, Exceptions and Dispositions”, *The Journal for the Philosophy of Language, Mind, and Arts*, 1(1): 53–74.
+* Kowalenko, R., 2014, “Ceteris Paribus Laws: A Naturalistic Account”, *International Studies in the Philosophy of Science*, 28(2): 133–155.
+* Kraus, S., D. Lehmann, and M. Magidor, 1990, “Nonmonotonic Reasoning, Preferential Models and Cumulative Logics”, *Artificial Intelligence*, 44: 167–207.
+* Krugman, P., and R. Wells, 2009, *Economics*, London: Palgrave Macmillan, 2nd Edition.
+* Ladyman, J., 2008, “Structural Realism and the Relation between the Special Sciences and Physics”, *Philosophy of Science*, 75: 744–755.
+* Lakatos, I., 1970, *Criticism and the Growth of Knowledge*, New York: Cambridge University Press.
+* Lange, M., 1993, “Natural Laws and the Problem of Provisos”, *Erkenntnis*, 38: 233–248.
+* –––, 2000, *Natural Laws in Scientific Practice*, Oxford: Oxford University Press.
+* –––, 2002, “Who’s Afraid of Ceteris Paribus Laws? Or: How I Learned to Stop Worrying and Love Them”, in *Ceteris Paribus laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 407–423.
+* –––, 2005, “Laws and their Stability”, *Synthese*, 144: 415–432.
+* –––, 2009a, *Laws and Lawmakers. Science, Metaphysics and the Laws of Nature*, Oxford: Oxford University Press.
+* –––, 2009b, “Why Do the Laws Explain Why?”, in *Dispositions and Causes*, T. Handfield (ed.), Oxford: Oxford University Press, pp. 286–321.
+* Leitgeb, H., 2004, *Inference at the Low Level*, Dordrecht: Kluwer.
+* Lepore, E., and B. Loewer, 1987, “Mind Matters”, *Journal of Philosophy*, 93: 630–642.
+* –––, 1989, “More on Making Mind Matter”, *Philosophical Topics*, 17: 175–191.
+* Lewis, D., 1973, *Counterfactuals*. Oxford: Blackwell.
+* –––, 1983, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61: 343–377.
+* Lipton, P., 1999, “All Else Being Equal”, *Philosophy*, 74: 155–168.
+* Loewer, B., 2009, “Why is there anything except physics?” *Synthese*, 170: 217–233.
+* Machamer, P., L. Darden, and C. Craver, 2000, “Thinking About Mechanisms”, *Philosophy of Science*, 67: 1–25.
+* Mankiw, N. G., 1998, *Principles of Microeconomics*, Orlando: The Dryden Press.
+* Marx, K., 1867, *Kritik der Politischen Ökonomie. Das Kapital Band I*, in Marx- Engels-Werke, Vol. 23, Berlin: Dietz.
+* –––, 1894, *Kritik der Politischen Ökonomie. Das Kapital Band III*, in *Marx-Engels-Werke*, Vol. 25, Berlin: Dietz.
+* Marshall, A., 1890, *Principles of Economics*, Macmillan: London, Eighth Edition.
+* Mas-Colell, A., M. Whinston, and J. Green, 1995, *Microeconomic Theory*, Oxford: Oxford University Press.
+* Maudlin, T., 2007, *The Metaphysics Within Physics*, Oxford: Oxford University Press.
+* McCarthy, J., 1986, “Application of Circumscription to Formalizing Common-Sense Knowledge”, *Artificial Intelligence*, 13: 89–116.
+* Medina, J. de, 1581, *De Poenitentia Restitutione et Contractibus*, Ingolstadt, First Edition 1544.
+* Mesoudi, A., A. Whiten, and K.N. Laland, 2006, “Towards a unified science of cultural evolution”, *Behavioral and Brain Science*, 29: 329–347.
+* Mill, J. S., 1836/2008, “On the Definition and Method of Political Economy”, in *The Philosophy of Economics. An Anthology*, D. Hausman (ed.), New York: Cambridge University Press, Third Edition, pp. 41–58.
+* –––, 1843, *A System of Logic*, London: J. W. Parker.
+* –––, 1871, *Principles of Political Economy*, New York: A.M. Kelly.
+* Millikan, R. G., 1984, *Language, Thought, and Other Biological Categories.* Cambridge, Massachusetts: MIT Press.
+* Mitchell, S., 1997, “Pragmatic Laws”, *Philosophy of Science*, 64: 242–265.
+* –––, 2000, “Dimensions of Scientific Law”, *Philosophy of Science*, 67: 242–265.
+* –––, 2002a, “*Ceteris Paribus* – An Inadequate representation of biological Contingency”, in in *Ceteris Paribus laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 329–350.
+* –––, 2002b, “Contingent Generalizations: Lessons from Biology”, in *Akteure, Mechanismen, Modelle, Zur Theoriefähigkeit makro-sozialer Analysen*, R. Mayntz (ed.), Frankfurt/New York: Campus, pp. 179–195.
+* –––, 2008, *Komplexitäten. Warum wir erst anfangen, die Welt zu verstehen*, Frankfurt: Suhrkamp. (English translation forthcoming.)
+* –––, 2009, “Complexity and Explanation in the Social Sciences”, in *Philosophy of the Social Sciences. Philosophical Theory and Scientific Practice*, C. Mantzavinos (ed.), Cambridge: Cambridge University Press, pp. 130–145.
+* Morreau, M., 1999, “Other Things Being Equal”, *Philosophical Studies*, 96: 163–182.
+* Molina, L. de, 1659, *De Instita et Iure*, Mainz, First Edition 1593.
+* Moser, P. (ed.), 2002, *The Oxford Handbook of Epistemology*, Oxford: Oxford University Press.
+* Mott, P., 1992, “Fodor and Ceteris Paribus Laws”, *Mind*, 101: 335–346.
+* Mumford, S., 2004, *Laws in Nature*, Oxford: Oxford University Press.
+* Nickel, B., 2009, “Generics and the ways of normality”, *Linguistics and Philosophy*, 31: 629–648.
+* Nickel, B., 2014, “The Role of Kinds in the Semantics of Ceteris Paribus Laws”, *Erkenntnis*, 79(10): 1729–1744.
+* Pearl, J., 2000, *Causality: Models, Reasoning and Inference*, Cambridge: Cambridge University Press.
+* Pemberton, J., and Cartwright, N., 2014, “Ceteris paribus laws need machines to generate them”, *Erkenntnis*, 79: 1745–1758.
+* Persky, J., 1990, “Ceteris Paribus”, *Journal of Economic Perspectives*, 4: 187– 193.
+* Pietroski, P., 1993, “Prima Facie Obligations, Ceteris Paribus Laws in Moral Theory,” *Ethics*, 103: 489–515.
+* Pietroski, P., and R. Rey, 1995, “When Other Things aren’t Equal: Saving Ceteris Paribus Laws from Vacuity”, *British Journal for the Philosophy of Science*, 46: 81–110.
+* Pollock, J., 1986, *Contemporary Theories of Knowledge*, Maryland: Rowman & Littlefield.
+* Price, H. and Corry, R. (eds.), 2007, *Causation, Physics, and the Constitution of Reality. Russell’s Republic Revisited*, New York: Oxford University Press.
+* Psillos, S., 2002, *Causation and Explanation*, Chesham: Acumen.
+* Quine, W.V.O., 1960, *Word and Object*, Cambridge, Massachusetts: MIT Press.
+* Reiss, J., 2008, *Error in Economics*, London: Routledge.
+* Reutlinger, A., 2009, “Review of *Markus Schrenk: The Metaphysics of Ceteris Paribus Laws*”, *British Journal for the Philosophy of Science*, 60: 229–233.
+* –––, 2011, “A Theory of Non-Universal Laws”, *International Studies in the Philosophy of Science*, 25: 97–117.
+* –––, 2013, “Are the Generalizations of Biology Historical?”, in A. Hüttemann and M. Kaiser (eds.), *Explanation in the Special Sciences. The Case of Biology and History*, Dordrecht: Springer, 131–154.
+* –––, 2014, “Do statistical laws solve the problem of provisos?”, *Erkenntnis*, 79: 1759–1773.
+* Reutlinger, A., and H. Koch, 2008, “Methodological Individualism and the Epistemic Value of Social Macro-Explanations”, *Percipi*, 2: 1–14.
+* Reutlinger, A. and M. Unterhuber (eds.), 2014a, *Ceteris Paribus Laws Revisited*, *Synthese* (Supplement): 79(10).
+* Reutlinger, A. and M. Unterhuber, 2014b, “Thinking about Non-Universal Laws”, *Erkenntnis*, 79: 1703-1713.
+* Roberts, J., 2004, “There are No Laws in the Social Sciences”, in *Contemporary Debates in the Philosophy of Science*, C. Hitchcock (ed.), Oxford: Blackwell, pp. 168–185.
+* Roberts, J. T., 2014, “CP-law statements as vague, self-referential, self-locating, statistical, and perfectly in order”, *Erkenntnis* 79, 1775–1786.
+* Robbins, L., 1935/2008, “The Nature and Significance of Economic Science”, in *The Philosophy of Economics. An Anthology*, D. Hausman (ed.), New York: Cambridge University Press, 2nd Edition, pp. 73–99.
+* Rosenberg, A., 1992, *Economics – Mathematical Politics or Science of Diminishing Returns?*, Chicago: University of Chicago Press.
+* Ross, W.D., 1930, *The Right and the Good*, Oxford: Oxford University Press.
+* Ross, D., 2008, “Ontic Structural Realism and Economics”, *Philosophy of Science*, 75: 732–743.
+* Rupert, R., 2007, “Realization, Completers, and Ceteris Paribus Laws in Psychology”, *British Journal for the Philosophy of Science*, 58: 1–11.
+* Samuelson, P., 1955, *Economics. Introductory Analysis*, McGraw-Hill.
+* –––, 1958, *Foundations of Economic Analysis*, Cambridge, Massachusetts: Harvard University Press.
+* Samuelson, P., and W. Nordhaus, 1985, *Economics. International Student Edition*, Singapore: McGraw-Hill.
+* Schiffer, S., 1991, “*Ceteris Paribus* Laws”, *Mind*, 100: 1–17.
+* Schlicht, E., 1985, *Isolation in Economics*, Berlin/New York: Springer.
+* Scholz, O. R., 2016, *Verstehen und Rationalität. Untersuchungen zu den Grundlagen von Hermeneutik und Sprachphilosophie*, Frankfurt: Klostermann.
+* Schrenk, M., 2007a, *The Metaphysics of Ceteris Paribus Laws*, Frankfurt: Ontos.
+* –––, 2007b, “Can Capacities Rescue us from Ceteris Paribus Laws?”, in *Dispositions and Causal Powers*, M. Kistler and B. Gnassounou (eds.), Aldershot: Ashgate, pp. 221–247.
+* –––, 2014, “Better best systems and the issue of cp-laws”, *Erkenntnis*, 79: 1787-1799.
+* Schumpeter, J.A., 1954, *History of Economic Analysis*, Oxford: Oxford University Press.
+* Schurz, G., 1998, “Probabilistic Semantics for Delgrande’s Conditional Logic and a Counterexample to his Default Logic”, *Artificial Intelligence*, 102(1): 81–95.
+* –––, 2001a, “Pietroski and Rey on *Ceteris Paribus* Laws”, *British Journal for Philosophy of Science*, 52: 359–370.
+* –––, 2001b, “What is *Normal*? An Evolution Theoretic Foundation of Normic Laws and their Relation to Statistical Normality”, *Philosophy of Science*, 28: 476–497.
+* –––, 2002, “Ceteris Paribus Laws: Classification and Deconstruction”, in *Ceteris Paribus Laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 351–372.
+* –––, 2004, “Normic Laws, Nonmonotonic Reasoning, and the Unity of Science”, in: *Logic, Epistemology, and the Unity of Science*, S. Rahman, *et al*. (eds.), Dordrecht: Kluwer, pp. 181–211.
+* –––, 2005, “Non-monotonic Reasoning from an Evolutionary Viewpoint”, *Synthese*, 146(1): 37–51.
+* –––, 2014, “Ceteris paribus and ceteris rectis laws. Content and causal role”, *Erkenntnis*, 79: 1801–1817.
+* Scriven, M., 1959, “Truisms as Grounds for Historical Explanations”, in *Theories of History*, P. Gardiner (ed.), New York: The Free Press.
+* Silverberg, A., 1996, “Psychological Laws and Non-Monotonic Logic”, *Erkenntnis*, 44: 199–224.
+* Smith, S., 2002, “Violated Laws, *Ceteris Paribus* Clauses, and Capacities”, *Synthese*, 130(2): 235–264.
+* Sober, E., 1997, “Two Outbreaks of Lawlessness in Recent Philosophy of Biology”, *Philosophy of Science*, 64: 432–444.
+* Spirtes, P., C. Glymour, and R. Scheines, 2000, *Causation, Prediction and Search*, New York: Springer.
+* Spohn, W., 1997, “Begründungen a priori – oder: ein frischer Blick auf Dispositionsprädikate”, in *Das weite Spektrum der Analytischen Philosophie. Festschrift für Franz von Kutschera*, W. Lenzen (ed.), Berlin: de Gruyter, pp. 323–345
+* –––, 2002, “Laws, Ceteris Paribus conditions, and the Dynamics of Belief”, in *Ceteris Paribus laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 373–394.
+* –––, 2012, *The Laws of Belief. Ranking Theory and its Philosophical Applications*, Oxford: Oxford University Press.
+* –––, 2014, “The Epistemic Account of Ceteris Paribus Conditions”, *European Journal for Philosophy of Science*, 4(3): 385–408.
+* Steel, D., 2007, *Across the Boundaries. Extrapolation in Biology and Social Science*, New York: Oxford University Press.
+* Strevens, M., 2003, *Bigger than Chaos*, Cambridge, MA: Harvard University Press.
+* –––, 2008, *Depth*, Cambridge, MA: Harvard University Press.
+* –––, 2012, “Ceteris Paribus Hedges: Causal Voodoo That Works”, *Journal of Philosophy*, 109(11): 652–675.
+* –––, 2014, “High-level exceptions explained”, *Erkenntnis*, 79: 1819–1832.
+* Strößner, C., 2015, “Normality and Majority: Towards a Statistical Understanding of Normality Statements”, *Erkenntnis*, 80(4): 793–809.
+* Tobin, E., 2005, *On the Disunity of the Sciences and Ceteris Paribus Laws*, Dissertation, Trinity College Dublin.
+* Unterhuber, M., 2014, “Do ceteris paribus laws exist? A regularity-based best system analysis”, *Erkenntnis*, 79: 1833–1847.
+* Unterhuber, M., and Schurz, G., 2013, “The new Tweety puzzle: Arguments against monistic Bayesian approaches in epistemology and cognitive science”, *Synthese*, 190: 1407–1435.
+* Wachbroit, R., 1994, “Normality as a Biological Concept”, *Philosophy of Science*, 61: 579–591.
+* Ward, B., 2007, “The Natural Kind Analysis of Ceteris Paribus Law Statements”, *Philosophical Topics*, 35(1/2): 359–380.
+* –––, 2009, “Cartwright, Forces, and Ceteris Paribus Laws”, *Southwest Philosophy Review*, 25 (1): 55–62.
+* Weber, M., 1906, “Objektive Möglichkeit und adäquate Verursachung in der historischen Kausalbetrachtung”, in M. Weber, 1991, *Schriften zur Wissenschaftslehre*, Stuttgart: Reclam, pp. 102–131.
+* Weisberg, M., 2013, *Simulation and Similarity*, New York: Oxford University Press.
+* Weslake, B., 2014, “Statistical mechanical imperialism”, in A. Wilson (ed.), *Asymmetries of chance and time*, Oxford: Oxford University Press, 241–257.
+* Wheeler, B., 2018, *Idealization and the Laws of Nature*, Cham: Springer.
+* Whitaker, J. K., 2008, “Ceteris Paribus”, in *The New Palgrave Dictionary of Economics*, S. N. Durlauf and L. E. Blume (eds.), London: Palgrave Macmillan, 2nd Edition.
+* Wilhelm, I., 2022, “Tractability and Laws”, *Synthese*, 200(4): 1–17.
+* Williams, M., 1995, *Unnatural Doubts. Epistemological Realism and the Basis of Skepticism*, Princeton: Princeton University Press.
+* –––, 2001, *Problems of Knowledge. A Critical Introduction to Epistemology*, Oxford: Oxford University Press.
+* Wimsatt, W., 2007, *Re-Engineering Philosophy for Limited Beings*, Cambridge, MA: Harvard University Press.
+* Woodward, J., 2000, “Explanation and Invariance in the Special Sciences”, *British Journal for the Philosophy of Science*, 51: 197–254.
+* –––, 2002, “There is no such thing as a *ceteris paribus law*”, in *Ceteris Paribus laws*, J. Earman, *et al*. (eds.), *Erkenntnis*, 52 (Special Issue): 303–328.
+* –––, 2003, *Making Things Happen*, Oxford: Oxford University Press.
+* –––, 2010, “Causation in biology: Stability, speciﬁcity, and the choice of levels of explanation”, *Biology and Philosophy*, 25: 287–318.
+* Woodward, J., and C. Hitchcock, 2003 \[EG1], “Explanatory Generalizations, Part I: A Counterfactual Account”, *Noûs*, 37(1): 1–24. \[For EG2, see Hitchcock & Woodward 2003.]
+* Woolridge, J. A., 2009, *Introductory Econometrics*, Mason: South Western Cengage Learning.
+* Wright, A., S., 2017, “Fresnel’s laws, ceteris paribus”, *Studies in History and Philosophy of Science*, 64: 38–52.
 
 ## Academic Tools
 
@@ -769,7 +767,7 @@ Cohen and Callender (2009, 2010)、Schrenk (2007a, 2014)和Unterhuber (2014)介�
 
 ## Related Entries
 
-[_a priori_ justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [belief, formal representations of](https://plato.stanford.edu/entries/formal-belief/) | [causation: and manipulability](https://plato.stanford.edu/entries/causation-mani/) | [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [causation: probabilistic](https://plato.stanford.edu/entries/causation-probabilistic/) | [dispositions](https://plato.stanford.edu/entries/dispositions/) | [economics: philosophy of](https://plato.stanford.edu/entries/economics/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [logic: non-monotonic](https://plato.stanford.edu/entries/logic-nonmonotonic/) | [reasoning: moral](https://plato.stanford.edu/entries/reasoning-moral/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [structural realism](https://plato.stanford.edu/entries/structural-realism/)
+[*a priori* justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [belief, formal representations of](https://plato.stanford.edu/entries/formal-belief/) | [causation: and manipulability](https://plato.stanford.edu/entries/causation-mani/) | [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [causation: probabilistic](https://plato.stanford.edu/entries/causation-probabilistic/) | [dispositions](https://plato.stanford.edu/entries/dispositions/) | [economics: philosophy of](https://plato.stanford.edu/entries/economics/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [logic: non-monotonic](https://plato.stanford.edu/entries/logic-nonmonotonic/) | [reasoning: moral](https://plato.stanford.edu/entries/reasoning-moral/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [structural realism](https://plato.stanford.edu/entries/structural-realism/)
 
 ### Acknowledgments
 
@@ -777,6 +775,6 @@ We would like to thank Alexander Bird, Carl Craver, Matthias Hösch, Beate Krick
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 [Alexander Reutlinger](http://www.mcmp.philosophie.uni-muenchen.de/people/faculty/reutlinger/index.html)\
-Gerhard Schurz <[_gerhard.schurz@phil-fak.uni-duesseldorf.de_](mailto:gerhard%2eschurz%40phil-fak%2euni-duesseldorf%2ede)>\
-Andreas Hüttemann <[_ahuettem@uni-koeln.de_](mailto:ahuettem%40uni-koeln%2ede)>\
-Siegfried Jaag <[_siegfried.jaag@hhu.de_](mailto:siegfried%2ejaag%40hhu%2ede)>
+Gerhard Schurz <[*gerhard.schurz@phil-fak.uni-duesseldorf.de*](mailto:gerhard%2eschurz%40phil-fak%2euni-duesseldorf%2ede)>\
+Andreas Hüttemann <[*ahuettem@uni-koeln.de*](mailto:ahuettem%40uni-koeln%2ede)>\
+Siegfried Jaag <[*siegfried.jaag@hhu.de*](mailto:siegfried%2ejaag%40hhu%2ede)>

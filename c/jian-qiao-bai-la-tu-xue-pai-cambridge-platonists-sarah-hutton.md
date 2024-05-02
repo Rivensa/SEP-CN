@@ -1,6 +1,6 @@
 # 剑桥柏拉图学派 Cambridge Platonists (Sarah Hutton)
 
-_首次发表于 2001 年 10 月 3 日星期三；实质性修订于 2020 年 6 月 29 日星期一_
+*首次发表于 2001 年 10 月 3 日星期三；实质性修订于 2020 年 6 月 29 日星期一*
 
 剑桥柏拉图主义者是一群与剑桥大学有关的英国十七世纪思想家。其中最重要的哲学家包括[亨利·莫尔](https://plato.stanford.edu/entries/cambridge-platonists/#HenMor)（1614–1687）和[拉尔夫·卡德沃斯](https://plato.stanford.edu/entries/cambridge-platonists/#RalCud)（1617–1688），他们都是剑桥基督学院的研究员。该团体还包括[本杰明·威科特](https://plato.stanford.edu/entries/cambridge-platonists/#BenWhi)（1609–1683）、[彼得·斯特里](https://plato.stanford.edu/entries/cambridge-platonists/#CulSmiSte)（1613–1672）、[约翰·史密斯](https://plato.stanford.edu/entries/cambridge-platonists/#CulSmiSte)（1618–1652）、[纳撒尼尔·卡尔弗韦尔](https://plato.stanford.edu/entries/cambridge-platonists/#CulSmiSte)（1619–1651）和约翰·沃辛顿（1618–1671）。他们都在剑桥伊曼纽尔学院学习，除了莫尔是在剑桥基督学院学习，后来卡德沃斯被任命为校长。他们的个人和智力命运受到英国内战及其后果的影响。他们在加尔文主义学术体系盛行的剑桥度过了形成时期，发展了他们的哲学观点。他们并没有将自己视为一个团体或柏拉图主义者。他们直到十八世纪才被称为柏拉图主义者。但是，由于他们都高度尊重柏拉图和普罗提诺的哲学，并采纳了柏拉图主义的认识论和形而上学原则，"柏拉图主义者"这个称谓是恰当的。除了柏拉图主义，他们还借鉴了广泛的哲学源泉。例如，在古代哲学家中，他们对亚里士多德和斯多噶派都很熟悉。他们与文艺复兴人文主义者一样尊重古代哲学的成就，以及他们对古代哲学的解释，这种解释受到对当代生活相关性的强烈认识的影响。同时，他们也密切关注哲学和科学的新发展——包括笛卡尔、霍布斯和斯宾诺莎，以及培根、博伊尔和皇家学会。史密斯、卡尔弗韦尔、卡德沃斯和莫尔是最早阅读笛卡尔的英国人之一。莫尔和卡德沃斯都是皇家学会的研究员。他们阅读和理解古代和现代哲学的框架是意大利文艺复兴哲学家（如马西里奥·菲奇诺和阿古斯丁·斯特乔）采用的"永恒哲学"，也是哥德弗里德·莱布尼茨采用的。他们还坚决否定学术哲学中盛行的经院哲学，并对导致科学革命的发展产生浓厚兴趣。因此，他们是十七世纪哲学革命的一部分，特别是因为他们寻求一种替代的哲学基础，以取代在面对怀疑主义和竞争的替代哲学（尤其是霍布斯和笛卡尔）挑战时迅速衰落的亚里士多德主义。
 
@@ -16,15 +16,15 @@ _首次发表于 2001 年 10 月 3 日星期三；实质性修订于 2020 年 6 
 
 ## 库尔弗韦尔、史密斯和斯特里
 
-约翰·史密斯（John Smith）在 1652 年过早去世前在女王学院教授数学。他于 1659 年遗著出版的《_选择性论述_》（_Select Discourses_）讨论了与宗教信仰相关的一些形而上学和认识论问题 - 上帝的存在、灵魂的不朽以及宗教的合理性。史密斯概述了从感觉与理性相结合，通过理性与先天概念相结合，然后通过脱离身体的、自我反思的理性；最终到神圣的爱的四个认知上升等级的等级制度。
+约翰·史密斯（John Smith）在 1652 年过早去世前在女王学院教授数学。他于 1659 年遗著出版的《*选择性论述*》（*Select Discourses*）讨论了与宗教信仰相关的一些形而上学和认识论问题 - 上帝的存在、灵魂的不朽以及宗教的合理性。史密斯概述了从感觉与理性相结合，通过理性与先天概念相结合，然后通过脱离身体的、自我反思的理性；最终到神圣的爱的四个认知上升等级的等级制度。
 
-彼得·斯特里（Peter Sterry）唯一的哲学著作是他于 1675 年遗著出版的《_意志自由论_》（_A Discourse of the Freedom of the Will_），是剑桥柏拉图学派所有著作中最具远见的。斯特里深度参与剑桥以外的事件，先是作为议会领袖布鲁克勋爵的牧师，然后是奥利弗·克伦威尔的牧师。克伦威尔去世后，他退隐到伊斯特希恩的一个基督教社区。在他的《_论述_》中，斯特里认为自由行动在于根据自己的本性，适当地根据自己的存在水平行动，无论是植物、动物还是智力实体。人类的自由根植于神圣本质，并包括理解和意志的自由。
+彼得·斯特里（Peter Sterry）唯一的哲学著作是他于 1675 年遗著出版的《*意志自由论*》（*A Discourse of the Freedom of the Will*），是剑桥柏拉图学派所有著作中最具远见的。斯特里深度参与剑桥以外的事件，先是作为议会领袖布鲁克勋爵的牧师，然后是奥利弗·克伦威尔的牧师。克伦威尔去世后，他退隐到伊斯特希恩的一个基督教社区。在他的《*论述*》中，斯特里认为自由行动在于根据自己的本性，适当地根据自己的存在水平行动，无论是植物、动物还是智力实体。人类的自由根植于神圣本质，并包括理解和意志的自由。
 
 ## 亨利·莫尔（Henry More）
 
 一生都是剑桥基督学院的研究员，亨利·莫尔是剑桥柏拉图学派中最多产的人。他也是最直接参与当代哲学辩论的人：他不仅与笛卡尔通信（在 1648 年至 1649 年之间），还写了反对霍布斯的文章，并且是最早批评斯宾诺莎的英国评论家之一（他在 1671 年出版的《Opera omnia》中发表了对斯宾诺莎的批驳，包括《Demonstrationum duarum propositionum ... confutatio》和《Epistola altera》）。尽管他最终成为笛卡尔主义的批评者，但最初他主张在英国大学教授笛卡尔主义。莫尔的出版著作包括哲学、诗歌、神学和圣经评论。他的主要哲学著作包括《反对无神论的解药》（1653 年）、《灵魂不朽论》（1659 年）、《形而上手册》（1671 年）和《伦理手册》（1667 年）。与其他剑桥柏拉图学派成员一样，莫尔运用哲学来捍卫有神论，反对理性无神论者的主张。莫尔神学立场的最重要表述是他于 1660 年发表的《神圣奥秘的解释》。与加尔文主义者悲观的意志论相对立，这部作品提出了一种道德、理性的守护主义，他通过援引灵魂的前存在教义来证明上帝的善良和公正。这也为宗教宽容辩护。
 
-在他的哲学著作中，莫尔阐述了一种精神哲学，解释了心灵和物质世界的所有现象都是精神物质控制惰性物质的活动。莫尔将精神和身体都构想为空间延伸，但将精神物质定义为物质延伸的对立面：身体是惰性和坚固的，但可分割；精神是活跃和可渗透的，但不可分割。在与笛卡尔的通信中，他首次阐述了他的观点，即所有物质，无论是物质的还是非物质的，都是延伸的。他继续论证空间是无限的，预见到了格兰瑟姆的另一位本地人艾萨克·牛顿，以及无限精神的上帝是一个延伸的存在（_res extensa_）。在《形而上手册》中，他认为空间的属性类似于上帝的属性（无限、非物质、不动等）。
+在他的哲学著作中，莫尔阐述了一种精神哲学，解释了心灵和物质世界的所有现象都是精神物质控制惰性物质的活动。莫尔将精神和身体都构想为空间延伸，但将精神物质定义为物质延伸的对立面：身体是惰性和坚固的，但可分割；精神是活跃和可渗透的，但不可分割。在与笛卡尔的通信中，他首次阐述了他的观点，即所有物质，无论是物质的还是非物质的，都是延伸的。他继续论证空间是无限的，预见到了格兰瑟姆的另一位本地人艾萨克·牛顿，以及无限精神的上帝是一个延伸的存在（*res extensa*）。在《形而上手册》中，他认为空间的属性类似于上帝的属性（无限、非物质、不动等）。
 
 在精神物质的范畴中，莫尔不仅包括生物的灵魂和上帝自己，还包括宇宙的主要中介因果代理人——自然之灵（或‘Hylarchic Principle’）。自然之灵被构想为神圣和物质之间的接口，是一个‘随附性原因’，结合了效能和目的性因果关系，以确保宇宙按照上帝的计划顺利运行。它也可以被理解为概括‘某些普遍的自然模式和规律’（莫尔，《A Collection》，序言，第 xvi 页），因为正是自然之灵负责将个体灵魂与身体结合，并确保非生物自然的正常运作。莫尔通过这一假设试图解释那些明显违背机械物理定律的现象（例如彗星的星际轨迹、弦的共振振动和潮汐运动）。莫尔通过他的‘生命和谐’理论来支持他的灵魂-身体二元论，该理论解释了灵魂与身体之间的相互作用，即灵魂和身体之间的共鸣吸引是由自然之灵的作用引发的。
 
@@ -64,59 +64,59 @@ Cudworth 的《真正的智力体系》提出了一个反决定论的哲学体�
 
 ### Primary Sources
 
-* Conway, Anne, _The Principles of the Most Ancient and Modern Philosophy_, London, 1692; modern translation by T. Corse and A. Coudert, Cambridge: Cambridge University Press, 1996.
-* Cragg, G. R. (ed.), _The Cambridge Platonists_, New York: Oxford University Press, 1968.
-* Cudworth, Ralph, _A Treatise Concerning Eternal and Immutable Morality_, London, 731; modern edition, S. Hutton (ed.), Cambridge: Cambridge University Press, 1996; see also C. A. Patrides (ed.), _The Cambridge Platonists_, London: Arnold, 1969 \[1980].
-* Cudworth, Ralph, _The True Intellectual System of the Universe_, London, 1678; facsimile reprint, Stuttgart-Bad Canstatt: Friedrich Frommann Verlag, 1964.
-* Culverwell, Nathaniel, _An Elegant and Learned Discourse of the Light of Nature_, London, 1652; modern edition by R.A. Greene and H. McCallum, Toronto, 1971.
-* More, Henry, _A Collection of Several Philosophical Writings_, London, 1662.
-* More, Henry, _Opera omnia_, 3 volumes, London 1675–1679; facsimile reprint, Hildesheim: Olms, 1966.
-* Patrides, C. A. (ed.), _The Cambridge Platonists_, Cambridge: Cambridge University Press, 1969 \[1980].
-* Smith, John, _Select Discourses_, J. Worthington (ed.), London, 1660; facsimile reprint, New York and London: Garland, 1978.
-* Sterry, Peter, _A Discourse of the Freedom of the Will_, London, 1675.
-* Sterry, Peter, _Select Writings_, Nabil Matar (ed.), New York: Peter Land, 1675.
-* Taliaferro, Charles,and Alison Teply (eds), _Cambridge Platonist Spirituality_, New York, Mahwah, NJ: Paulist Press, 2004.
-* Whichcote, Benjamin, _The Works of the Learned Benjamin Whichcote_, 4 volumes, Aberdeen, 1751; facsimile reprint New York, 1977.
-* Whichcote, Benjamin, _Some Select Notions_, London, 1685.
-* Whichcote, Benjamin, _Select Sermons_, with a Preface by Anthony Ashley Cooper, Third Earl of Shaftesbury, London, 1698.
+* Conway, Anne, *The Principles of the Most Ancient and Modern Philosophy*, London, 1692; modern translation by T. Corse and A. Coudert, Cambridge: Cambridge University Press, 1996.
+* Cragg, G. R. (ed.), *The Cambridge Platonists*, New York: Oxford University Press, 1968.
+* Cudworth, Ralph, *A Treatise Concerning Eternal and Immutable Morality*, London, 731; modern edition, S. Hutton (ed.), Cambridge: Cambridge University Press, 1996; see also C. A. Patrides (ed.), *The Cambridge Platonists*, London: Arnold, 1969 \[1980].
+* Cudworth, Ralph, *The True Intellectual System of the Universe*, London, 1678; facsimile reprint, Stuttgart-Bad Canstatt: Friedrich Frommann Verlag, 1964.
+* Culverwell, Nathaniel, *An Elegant and Learned Discourse of the Light of Nature*, London, 1652; modern edition by R.A. Greene and H. McCallum, Toronto, 1971.
+* More, Henry, *A Collection of Several Philosophical Writings*, London, 1662.
+* More, Henry, *Opera omnia*, 3 volumes, London 1675–1679; facsimile reprint, Hildesheim: Olms, 1966.
+* Patrides, C. A. (ed.), *The Cambridge Platonists*, Cambridge: Cambridge University Press, 1969 \[1980].
+* Smith, John, *Select Discourses*, J. Worthington (ed.), London, 1660; facsimile reprint, New York and London: Garland, 1978.
+* Sterry, Peter, *A Discourse of the Freedom of the Will*, London, 1675.
+* Sterry, Peter, *Select Writings*, Nabil Matar (ed.), New York: Peter Land, 1675.
+* Taliaferro, Charles,and Alison Teply (eds), *Cambridge Platonist Spirituality*, New York, Mahwah, NJ: Paulist Press, 2004.
+* Whichcote, Benjamin, *The Works of the Learned Benjamin Whichcote*, 4 volumes, Aberdeen, 1751; facsimile reprint New York, 1977.
+* Whichcote, Benjamin, *Some Select Notions*, London, 1685.
+* Whichcote, Benjamin, *Select Sermons*, with a Preface by Anthony Ashley Cooper, Third Earl of Shaftesbury, London, 1698.
 
 ### Secondary Sources
 
-* Acworth, Richard, 1979, _The Philosophy of John Norris of Bemerton (1657–1712)_, Hildesheim: Olms.
-* Agostini, Igor, 2011, ‘Henry More e le fonte della dottrina dell’estensione spirituale’, in B. Lotti and P. Dessi (eds.). _Eredità cartesiane nella cultura britannica_, Florence: le Lettere, pp. 49–69.
-* –––, 2006, ‘Henry More e l’olenmerismo’, _Nouvelles de la République des Lettres_, 2: 7–23.
-* Beiser, Frederick C., 1996, _The Sovereignty of Reason: The Defense of Rationality in the Early English Enlightenment_, Princeton, NJ: Princeton University Press.
-* Carter, Benjamin, 2011. _‘The Little Commonwealth of Man’: The Trinitarian Origins of the Ethical and Political Philosophy of Ralph Cudworth_, Louvain: Peeters.
-* Cassirer, Ernst, 1932, _Die Platonische Renaissance in England und die Schule von Cambridge_, Leipzig and Berlin; English translation by James P. Pettegrove, _The Platonic Renaissance in England_, Edinburgh: Nelson, 1953.
-* Darwall, S., 1992, _The British Moralists and the Internal Ought_, Cambridge: Cambridge University Press.
-* Gabbey, Alan, 1982, ‘_Philosophia cartesiana triumphata_: Henry More and Descartes, 1646–71’, in T.M. Lennon et al., _Problems in Cartesianism_, Kingston and Montreal: Queens McGill University Press, pp. 171–249.
-* Gill, Michael B., 1999, ‘The Religious Rationalism of Benjamin Whichcote’, _Journal of the History of Philosophy_, 37(2): 271–300.
-* –––, 2010, ‘From Cambridge Platonism to Scottish Sentimentalism’, _The Journal of Scottish Philosophy_, 8(1): 13–31.
-* Hall, Rupert, 1990, _Henry More. Magic Religion and Experiment_, Oxford: Blackwell.
-* Hutton, Sarah, 1984, ‘The Prophetic Imagination: a Comparative Study of Spinoza and the Cambridge Platonist, John Smith’, in C. De Deugd (ed.), _Spinoza’s Political and Theological Thought_, Amsterdam, pp. 73–181.
-* ––– (ed.), 1990, _Henry More (1614–1687). Tercentenary Studies_, Dordrecht: Kluwer.
-* –––, 2004, _Anne Conway. A Woman Philosopher_, Cambridge: Cambridge University Press.
-* –––, 2005, ‘Eine Cambridge-Konstellation? Perspektiven für eine Konstellationsforschung zu den Platonikern von Cambridge’, in M. Mulsow and M. Stamm (eds), _Konstellationsforschung_, Frankfurt: Suhrkamp, pp. 349–58, translated by Martin Mulsow.
-* –––, 2011, ‘A Radical Review of the Cambridge Platonists’, in _Varieties of Seventeenth-and-Early Eighteenth-Century Radicalism in Context_, Ariel Hessayon and David Finnegan (eds.), Farnham: Ashgate, pp. 161–182.
-* –––, 2012, ‘The Cambridge Platonists and the Scottish Enlightenment’, _Canadian Journal of Philosophy_, 42(1): 8–26.
-* –––, 2015, _British Philosophy in the Seventeenth-Century_, Oxford: Oxford University Press.
-* ––– (ed.), 2017, ‘The Cambridge Platonists’. Special Issue of _The British Journal of the History of Philosophy_, 25(5).
-* –––, 2020, ‘Henry More et Descartes: une copie manuscrite de leur correspondance dans le Notebook de Thomas Clarke’, _Archives de philosophie_, 83: 162–7.\[
-* Koyré, Alexander, 1957. _From the Closed World to the Infinite Universe_, Baltimore, MA: Johns Hopkins University Press.
-* Kringler, Insa, 2013, _Die gerettete Welt: Zur Rezeption des Cambridger Platonismus in der europäischen Aufklärung des 18. Jahrhunderts_, De Gruyter.
-* Lagrée, Jacqueline, 1997, ‘John Smith et le Portique’, in _The Cambridge Platonists in Philosophical Context. Politics, Metaphysics and Religion_, G.A.J. Rogers, J.-M. Vienne, and Y.C. Zarka (eds.), Dordrecht: Kluwer, pp. 79-92.
-* Lähteenmäki, Vili, 2010, ‘Cudworth on Types of Consciousness’, _British Journal for the History of Philosophy_, 18(1): 9–34.
-* Leech, David, 2013, _The Hammer of the Cartesians. Henry More’s Philosophy of Spirit and the Origins of Modern Atheism_, Louvain: Peeters.
-* Mander, W.J., 2008, _The Philosophy of John Norris_, Oxford: Oxford University Press.
-* Micheletti, M., 1976, _Il pensiero religioso di John Smith, platonico de Cambridge_, Padua, 89–111.
-* Mijuskovic, Ben Lazare, 1974, _The Achilles of Rationalist Arguments. The Simplicity, Unity, and Identity of Thought and Soul from the Cambridge Platonists to Kant: A Study in the History of an Argument_, The Hague: Martinus Nijhoff.
-* Passmore, J.A., 1951, _Ralph Cudworth, an Interpretation_, Cambridge: Cambridge University Press.
-* Reid, Jasper, 2012, _The Metaphysics of Henry More_, Dordrecht: Kluwer.
-* Roberts, James Deotis, 1968,. _From Puritanism to Platonism in Seventeenth-Century England_, The Hague: Nijhoff.
-* Roberts, John Russell, 2012, ‘Whichcote and the Cambridge Platonists on Human Nature: An Interpretation and Defense’, _Oxford Studies in Early Modern Philosophy_, 6: 29–74.
-* Rogers, G.A.J., J.-M. Vienne, Y.-C. Zarka (eds.), 1997, _The Cambridge Platonists in Philosophical Context. Politics, Metaphysics and Religion_, Dordrecht: Kluwer.
-* Saveson, J.E., 1959, ‘Descartes’ Influence on John Smith’, _Journal of the History of Ideas_, 20: 258–63.
-* Scott, Dominic, 1990, _Recollection and Explanation. Plato’s Theory of Learning and its Successors_, Cambridge: Cambridge University Press.
+* Acworth, Richard, 1979, *The Philosophy of John Norris of Bemerton (1657–1712)*, Hildesheim: Olms.
+* Agostini, Igor, 2011, ‘Henry More e le fonte della dottrina dell’estensione spirituale’, in B. Lotti and P. Dessi (eds.). *Eredità cartesiane nella cultura britannica*, Florence: le Lettere, pp. 49–69.
+* –––, 2006, ‘Henry More e l’olenmerismo’, *Nouvelles de la République des Lettres*, 2: 7–23.
+* Beiser, Frederick C., 1996, *The Sovereignty of Reason: The Defense of Rationality in the Early English Enlightenment*, Princeton, NJ: Princeton University Press.
+* Carter, Benjamin, 2011. *‘The Little Commonwealth of Man’: The Trinitarian Origins of the Ethical and Political Philosophy of Ralph Cudworth*, Louvain: Peeters.
+* Cassirer, Ernst, 1932, *Die Platonische Renaissance in England und die Schule von Cambridge*, Leipzig and Berlin; English translation by James P. Pettegrove, *The Platonic Renaissance in England*, Edinburgh: Nelson, 1953.
+* Darwall, S., 1992, *The British Moralists and the Internal Ought*, Cambridge: Cambridge University Press.
+* Gabbey, Alan, 1982, ‘*Philosophia cartesiana triumphata*: Henry More and Descartes, 1646–71’, in T.M. Lennon et al., *Problems in Cartesianism*, Kingston and Montreal: Queens McGill University Press, pp. 171–249.
+* Gill, Michael B., 1999, ‘The Religious Rationalism of Benjamin Whichcote’, *Journal of the History of Philosophy*, 37(2): 271–300.
+* –––, 2010, ‘From Cambridge Platonism to Scottish Sentimentalism’, *The Journal of Scottish Philosophy*, 8(1): 13–31.
+* Hall, Rupert, 1990, *Henry More. Magic Religion and Experiment*, Oxford: Blackwell.
+* Hutton, Sarah, 1984, ‘The Prophetic Imagination: a Comparative Study of Spinoza and the Cambridge Platonist, John Smith’, in C. De Deugd (ed.), *Spinoza’s Political and Theological Thought*, Amsterdam, pp. 73–181.
+* ––– (ed.), 1990, *Henry More (1614–1687). Tercentenary Studies*, Dordrecht: Kluwer.
+* –––, 2004, *Anne Conway. A Woman Philosopher*, Cambridge: Cambridge University Press.
+* –––, 2005, ‘Eine Cambridge-Konstellation? Perspektiven für eine Konstellationsforschung zu den Platonikern von Cambridge’, in M. Mulsow and M. Stamm (eds), *Konstellationsforschung*, Frankfurt: Suhrkamp, pp. 349–58, translated by Martin Mulsow.
+* –––, 2011, ‘A Radical Review of the Cambridge Platonists’, in *Varieties of Seventeenth-and-Early Eighteenth-Century Radicalism in Context*, Ariel Hessayon and David Finnegan (eds.), Farnham: Ashgate, pp. 161–182.
+* –––, 2012, ‘The Cambridge Platonists and the Scottish Enlightenment’, *Canadian Journal of Philosophy*, 42(1): 8–26.
+* –––, 2015, *British Philosophy in the Seventeenth-Century*, Oxford: Oxford University Press.
+* ––– (ed.), 2017, ‘The Cambridge Platonists’. Special Issue of *The British Journal of the History of Philosophy*, 25(5).
+* –––, 2020, ‘Henry More et Descartes: une copie manuscrite de leur correspondance dans le Notebook de Thomas Clarke’, *Archives de philosophie*, 83: 162–7.\[
+* Koyré, Alexander, 1957. *From the Closed World to the Infinite Universe*, Baltimore, MA: Johns Hopkins University Press.
+* Kringler, Insa, 2013, *Die gerettete Welt: Zur Rezeption des Cambridger Platonismus in der europäischen Aufklärung des 18. Jahrhunderts*, De Gruyter.
+* Lagrée, Jacqueline, 1997, ‘John Smith et le Portique’, in *The Cambridge Platonists in Philosophical Context. Politics, Metaphysics and Religion*, G.A.J. Rogers, J.-M. Vienne, and Y.C. Zarka (eds.), Dordrecht: Kluwer, pp. 79-92.
+* Lähteenmäki, Vili, 2010, ‘Cudworth on Types of Consciousness’, *British Journal for the History of Philosophy*, 18(1): 9–34.
+* Leech, David, 2013, *The Hammer of the Cartesians. Henry More’s Philosophy of Spirit and the Origins of Modern Atheism*, Louvain: Peeters.
+* Mander, W.J., 2008, *The Philosophy of John Norris*, Oxford: Oxford University Press.
+* Micheletti, M., 1976, *Il pensiero religioso di John Smith, platonico de Cambridge*, Padua, 89–111.
+* Mijuskovic, Ben Lazare, 1974, *The Achilles of Rationalist Arguments. The Simplicity, Unity, and Identity of Thought and Soul from the Cambridge Platonists to Kant: A Study in the History of an Argument*, The Hague: Martinus Nijhoff.
+* Passmore, J.A., 1951, *Ralph Cudworth, an Interpretation*, Cambridge: Cambridge University Press.
+* Reid, Jasper, 2012, *The Metaphysics of Henry More*, Dordrecht: Kluwer.
+* Roberts, James Deotis, 1968,. *From Puritanism to Platonism in Seventeenth-Century England*, The Hague: Nijhoff.
+* Roberts, John Russell, 2012, ‘Whichcote and the Cambridge Platonists on Human Nature: An Interpretation and Defense’, *Oxford Studies in Early Modern Philosophy*, 6: 29–74.
+* Rogers, G.A.J., J.-M. Vienne, Y.-C. Zarka (eds.), 1997, *The Cambridge Platonists in Philosophical Context. Politics, Metaphysics and Religion*, Dordrecht: Kluwer.
+* Saveson, J.E., 1959, ‘Descartes’ Influence on John Smith’, *Journal of the History of Ideas*, 20: 258–63.
+* Scott, Dominic, 1990, *Recollection and Explanation. Plato’s Theory of Learning and its Successors*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -135,4 +135,4 @@ Cudworth 的《真正的智力体系》提出了一个反决定论的哲学体�
 [consciousness: seventeenth-century theories of](https://plato.stanford.edu/entries/consciousness-17th/) | [Conway, Lady Anne](https://plato.stanford.edu/entries/conway/) | [Masham, Lady Damaris](https://plato.stanford.edu/entries/lady-masham/) | [More, Henry](https://plato.stanford.edu/entries/henry-more/) | [Norris, John](https://plato.stanford.edu/entries/john-norris/) | [Price, Richard](https://plato.stanford.edu/entries/richard-price/) | [Shaftesbury, Lord \[Anthony Ashley Cooper, 3rd Earl of\]](https://plato.stanford.edu/entries/shaftesbury/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Sarah Hutton <[_sarah.hutton@york.ac.uk_](mailto:sarah%2ehutton%40york%2eac%2euk)>
+Sarah Hutton <[*sarah.hutton@york.ac.uk*](mailto:sarah%2ehutton%40york%2eac%2euk)>

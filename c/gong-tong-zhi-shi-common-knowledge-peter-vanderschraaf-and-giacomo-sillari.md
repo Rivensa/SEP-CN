@@ -1,6 +1,6 @@
 # 共同知识 common knowledge (Peter Vanderschraaf and Giacomo Sillari)
 
-_首次发表于 2001 年 8 月 28 日星期二；实质性修订于 2022 年 8 月 5 日星期五_
+*首次发表于 2001 年 8 月 28 日星期二；实质性修订于 2022 年 8 月 5 日星期五*
 
 一个命题 A 在一组代理人中是共知的，如果每个代理人都知道 A。共知本身并不意味着任何关于任何人将什么样的知识归因给其他人的信息。假设每个学生都知道教师会迟到的情况下到达上课。教师会迟到是共知的，但每个学生可能只认为她知道教师会迟到。然而，如果其中一个学生公开说“彼得告诉我他会再次迟到”，那么每个学生都知道每个学生都知道教师会迟到，每个学生都知道每个学生都知道每个学生都知道教师会迟到，依此类推，无穷无尽。这一公告使得这一共知事实成为学生们之间的共同知识。
 
@@ -9,7 +9,6 @@ _首次发表于 2001 年 8 月 28 日星期二；实质性修订于 2022 年 8 
 鉴于共同知识在社会互动中的重要性，令人瞩目的是，哲学家和社会科学家直到最近才尝试分析这一概念。大卫·休谟（1740）或许是最早明确提到相互知识在协调中的作用的人。在他在《人性论》中对约定的描述中，休谟认为，协调活动的一个必要条件是，各方都知道彼此可以期待什么样的行为。休谟坚持认为，如果没有必要的相互知识，互惠社会惯例将会消失。迈克尔·利特伍德（1953）稍后提出了一些关于共同知识类型推理的例子，托马斯·谢林（1960）和约翰·哈尔萨尼（1967-1968）则认为，解释人们对彼此做出的某些推断需要类似共同知识的东西。哲学家罗伯特·诺齐克在其博士论文中描述了共同知识的概念，但并未深入发展（诺齐克，1963），而对共同知识概念的第一次数学分析和应用则见于弗里德尔的技术报告（1967），后来发表为（弗里德尔，1969）。第一部全面的共同知识哲学分析由大卫·刘易斯（1969）在专著《约定》中提出。斯蒂芬·希弗（1972）、罗伯特·奥曼（1976）和吉尔伯特·哈曼（1977）独立提出了共同知识的替代定义。乔恩·巴威斯（1988，1989）对哈曼直观描述给出了精确的表述。20 世纪 80 年代，来自哲学和计算机科学领域的许多认识逻辑学家研究了共同知识的逻辑结构，感兴趣的读者应查阅两部重要专著（法金等，1995）和（迈耶和范德霍克，1995）的相关部分。玛格丽特·吉尔伯特（1989）提出了一个略有不同的共同知识概念，她认为这个概念比标准概念更可取。其他人发展了相互知识、近似共同知识和共同信念的概念，这些概念需要比标准概念更少的严格假设，并且在严格共同知识似乎不可能的情况下作为更合理的模型，展示了代理人在某些情况下所知道的内容（布兰登伯格和德克尔，1987；蒙德勒和萨梅特，1989；鲁宾斯坦，1992）。共同知识及相关多主体知识概念的分析和应用已成为一个充满活力的研究领域。
 
 本文的目的是概述一些源自当代研究的最重要结果。本文各部分讨论的主题如下：第 1 部分提供了激励性例子，说明代理人的行为在很大程度上取决于他们是否具有或缺乏某些共同知识。第 2 部分讨论了共同知识的替代分析。第 3 部分回顾了多主体知识概念的应用，特别是对博弈论（von Neumann 和 Morgenstern，1944 年）的应用，在这些应用中，共同知识假设被发现在为数学博弈提供解决方案概念方面具有重要意义。第 4 部分讨论了对共同知识的实现可能性的怀疑。最后，第 5 部分讨论了通过削弱 Lewis 对共同知识的描述的假设而产生的共同信念概念。
-
 
 ***
 
@@ -240,7 +239,7 @@ Lewis 在《公约》的第 52-57 页提出了他对共同知识的观点。Lewi
 
 定义者说，对于每个代理人 i，如果 i 可以从 A'推断出 E 是真的，并且每个人都知道 A'是真的，那么 i 也可以推断出每个人都知道 E 是真的。
 
-\*\* 定义 2.7\*\* 命题 E 在 ω∈Ω 时在一组代理人 N={1,…,n} 中是 Lewis-共同知识，当且仅当存在一个命题 A _，使得 ω∈A_，N 的代理人是 A\*-对称推理者，并且对于每个 i∈N，ω∈Ki(A∗)Ki(A∗)⊆Ki(⋂j∈NKj(A∗))Ki(A∗)⊆Ki(E)
+\*\* 定义 2.7\*\* 命题 E 在 ω∈Ω 时在一组代理人 N={1,…,n} 中是 Lewis-共同知识，当且仅当存在一个命题 A *，使得 ω∈A*，N 的代理人是 A\*-对称推理者，并且对于每个 i∈N，ω∈Ki(A∗)Ki(A∗)⊆Ki(⋂j∈NKj(A∗))Ki(A∗)⊆Ki(E)
 
 A\* 是代理人共同知识的基础。L∗N(E) 表示对于一组 A\* 对称推理者 N 定义的命题，因此我们可以说如果 ω∈L∗N(E)，那么 E 对于 N 的代理人是 Lewis 共同知识。
 
@@ -598,7 +597,7 @@ Aumann (1987)证明了一个将他的相关均衡概念与共同知识联系起�
 
 让 si(ω)表示代理 i 在可能世界ω上选择的策略。那么 s:Ω→S 定义为 s(ω)=(s1(ω),…,sn(ω))是一个相关的 n 元组。假设 Hi 是Ω的一个分割，\[29]对于每个 Hij∈Hi，如果对于每个ω′∈Hij，si:Ω→si 定义为 s 是 Hi 可测的，那么 si(ω′)是常数。Hi 可测性是一种形式化的说法，即 i 知道在每个可能的世界中她将会做什么，考虑到她的信息。
 
-\*\* 定义 3.10\*\* 代理人 i 相对于 ω∈Ω 是贝叶斯理性的（或者说，ω _-贝叶斯理性_）当且仅当 si 是 Hi 可测的，
+\*\* 定义 3.10\*\* 代理人 i 相对于 ω∈Ω 是贝叶斯理性的（或者说，ω *-贝叶斯理性*）当且仅当 si 是 Hi 可测的，
 
 E(ui∘s∣Hi)(ω)≥E(ui(vi,s−i)∣Hi)(ω)
 
@@ -786,7 +785,7 @@ BpN∗(A)≡∞⋂m=1BpNm(A).
 
 Lewis (1969) is the classic pioneering study of common knowledge and its potential applications to conventions and game theory. As Lewis acknowledges, parts of his work are foreshadowed in Hume (1740) and Schelling (1960).
 
-Aumann (1976) gives the first mathematically rigorous formulation of common knowledge using set theory. Schiffer (1972) uses the formal vocabulary of _epistemic logic_ (Hintikka 1962) to state his definition of common knowledge. Schiffer’s general approach is to augment a system of sentential logic with a set of knowledge operators corresponding to a set of agents, and then to define common knowledge as a hierarchy of propositions in the augmented system. Bacharach (1992), Bicchieri (1993) and Fagin, _et al_. (1995) adopt this approach, and develop logical theories of common knowledge which include soundness and completeness theorems. Fagin, et al. show that the syntactic and set-theoretic approaches to developing common knowledge are logically equivalent.
+Aumann (1976) gives the first mathematically rigorous formulation of common knowledge using set theory. Schiffer (1972) uses the formal vocabulary of *epistemic logic* (Hintikka 1962) to state his definition of common knowledge. Schiffer’s general approach is to augment a system of sentential logic with a set of knowledge operators corresponding to a set of agents, and then to define common knowledge as a hierarchy of propositions in the augmented system. Bacharach (1992), Bicchieri (1993) and Fagin, *et al*. (1995) adopt this approach, and develop logical theories of common knowledge which include soundness and completeness theorems. Fagin, et al. show that the syntactic and set-theoretic approaches to developing common knowledge are logically equivalent.
 
 Aumann (1995) gives a recent defense of the classical view of backwards induction in games of imperfect information. For criticisms of the classical view, see Binmore (1987), Reny (1992), Bicchieri (1989) and especially Bicchieri (1993). Brandenburger (1992) surveys the known results connecting mutual and common knowledge to solution concepts in game theory. For more in-depth survey articles on common knowledge and its applications to game theory, see Binmore and Brandenburger (1989), Geanakoplos (1994) and Dekel and Gul (1997). For her alternate account of common knowledge along with an account of conventions which opposes Lewis’ account, see Gilbert (1989).
 
@@ -794,99 +793,99 @@ Monderer and Samet (1989) remains one of the best resources for the study of com
 
 ### References
 
-* Alberucci, Luca and Jaeger, Gerhard, 2005, “About cut elimination for logics of common knowledge”, _Annals of Pure and Applied Logic_, 133(1–3): 73–99.
-* Aumann, Robert, 1974, “Subjectivity and Correlation in Randomized Strategies”, _Journal of Mathematical Economics_, 1: 67–96.
-* –––, 1976, “Agreeing to Disagree”, _Annals of Statistics_, 4: 1236–9.
-* –––, 1987, “Correlated Equilibrium as an Expression of Bayesian Rationality”, _Econometrica_, 55: 1–18.
-* –––, 1995, “Backward Induction and Common Knowledge of Rationality”, _Games and Economic Behavior_ 8: 6–19.
-* Bacharach, Michael, 1985 “Some Extensions of a Claim of Aumann in an Axiomatic Model of Knowledge”, _Journal of Economic Theory_, 37(1): 167–190.
-* –––, 1992.“Backward Induction and Beliefs About Oneself”, _Synthese_, 91: 247–284.
-* Barwise, Jon, 1988, “Three Views of Common Knowledge”, in _Proceedings of the Second Conference on Theoretical Aspects of Reasoning About Knowledge_, M.Y. Vardi (ed.), San Francisco: Morgan Kaufman, pp. 365–379.
-* –––, 1989, _The Situation in Logic_, Stanford: Center for the Study of Language and Information.
-* Bernheim, B. Douglas, 1984, “Rationalizable Strategic Behavior”, _Econometrica_, 52: 1007–1028.
-* Bicchieri, Cristina, 1989, “Self Refuting Theories of Strategic Interaction: A Paradox of Common Knowledge”, _Erkenntnis_, 30: 69–85.
-* –––, 1993, _Rationality and Coordination_, Cambridge: Cambridge University Press.
-* –––, 2006, _The Grammar of Society_, Cambridge: Cambridge University Press.
-* Binmore, Ken, 1987, “Modelling Rational Players I”, _Economics and Philosophy_, 3: 179–241.
-* –––, 1992, _Fun and Games_, Lexington, MA: D. C. Heath.
-* –––, 2008, “Do Conventions Need to be Common Knowledge?”, _Topoi_, 27: 17–27.
+* Alberucci, Luca and Jaeger, Gerhard, 2005, “About cut elimination for logics of common knowledge”, *Annals of Pure and Applied Logic*, 133(1–3): 73–99.
+* Aumann, Robert, 1974, “Subjectivity and Correlation in Randomized Strategies”, *Journal of Mathematical Economics*, 1: 67–96.
+* –––, 1976, “Agreeing to Disagree”, *Annals of Statistics*, 4: 1236–9.
+* –––, 1987, “Correlated Equilibrium as an Expression of Bayesian Rationality”, *Econometrica*, 55: 1–18.
+* –––, 1995, “Backward Induction and Common Knowledge of Rationality”, *Games and Economic Behavior* 8: 6–19.
+* Bacharach, Michael, 1985 “Some Extensions of a Claim of Aumann in an Axiomatic Model of Knowledge”, *Journal of Economic Theory*, 37(1): 167–190.
+* –––, 1992.“Backward Induction and Beliefs About Oneself”, *Synthese*, 91: 247–284.
+* Barwise, Jon, 1988, “Three Views of Common Knowledge”, in *Proceedings of the Second Conference on Theoretical Aspects of Reasoning About Knowledge*, M.Y. Vardi (ed.), San Francisco: Morgan Kaufman, pp. 365–379.
+* –––, 1989, *The Situation in Logic*, Stanford: Center for the Study of Language and Information.
+* Bernheim, B. Douglas, 1984, “Rationalizable Strategic Behavior”, *Econometrica*, 52: 1007–1028.
+* Bicchieri, Cristina, 1989, “Self Refuting Theories of Strategic Interaction: A Paradox of Common Knowledge”, *Erkenntnis*, 30: 69–85.
+* –––, 1993, *Rationality and Coordination*, Cambridge: Cambridge University Press.
+* –––, 2006, *The Grammar of Society*, Cambridge: Cambridge University Press.
+* Binmore, Ken, 1987, “Modelling Rational Players I”, *Economics and Philosophy*, 3: 179–241.
+* –––, 1992, *Fun and Games*, Lexington, MA: D. C. Heath.
+* –––, 2008, “Do Conventions Need to be Common Knowledge?”, *Topoi*, 27: 17–27.
 * Binmore, Ken and Brandenburger, Adam, 1988, “Common knowledge and Game theory” ST/ICERD Discussion Paper 88/167, London School of Economics.
-* Binmore, Ken and Samuelson, Larry, 2001, “Coordinated Action in the Electronic Mail Game” _Games and Economic Behavior_, 35(1): 6–30.
-* Bonanno, Giacomo and Battigalli, Pierpaolo, 1999, “Recent Results on Belief, Knowledge and the Epistemic Foundations of Game Theory”, _Research in Economics_, 53(2): 149–225.
-* Bonnay, D. and Egré, Paul, 2009, “Inexact Knowledge with Introspection”, _Journal of Philosophical Logic_, 38: 179–227.
-* Brandenburger, Adam, 1992, “Knowledge and Equilibrium in Games”, _Journal of Economic Perspectives_, 6: 83–101.
-* Brandenburger, Adam, and Dekel, Eddie, 1987, “Common Knowledge with Probability 1”, _Journal of Mathematical Economics_, 16: 237–245.
-* –––, 1988, “The Role of Common Knowledge Assumptions in Game Theory”, in _The Economics of Missing Markets, Information and Games_, Frank Hahn (ed.), Oxford: Clarendon Press, 46–61.
-* Bruni, Riccardo and Giacomo Sillari, 2018, “A Rational Way of Playing: Revision Theory for Strategic Interaction”, _Journal of Philosophical Logic_, 47(3), 419–448.
-* Carnap, Rudolf, 1947, _Meaning and Necessity: A Study in Semantics and Modal Logic_, Chicago, University of Chicago Press.
-* Cave, Jonathan AK, 1983, “Learning to Agree”, _Economics Letters_, 12(2): 147–152.
-* Chwe, Michael, 1999, “Structure and Strategy in Collective Action”, _American Journal of Sociology_ 105: 128–56.
-* –––, 2000, “Communcation and Coordination in Social Networks”, _Review of Economic Studies_, 67: 1–16.
-* –––, 2001, _Rational Ritual_, Princeton, NJ: Princeton University Press
-* Cubitt, Robin and Sugden, Robert, 2003, “Common Knowledge, Salience and Convention: A Reconstruction of David Lewis’ Game Theory”, _Economics and Philosophy_, 19: 175–210.
-* Dégremont, Cédric, and Oliver Roy, 2012, “Agreement Theorems in Dynamic-Epistemic Logic”, _Journal of Philosophical Logic_, 41(4): 735-764.
-* Dekel, Eddie and Gul, Faruk, 1997, “Rationality and Knowledge in Game Theory”, in _Advances in Economic Theory: Seventh World Congress of the Econometric Society_, D. Kreps and K. Wallace eds., Cambridge: Cambridge University Press.
-* Dekel, Eddie, Lipman, Bart and Rustichini, Aldo, 1998, “Standard State-Space Models Preclude Unawareness,” _Econometrica_, 66: 159–173.
-* Devetag, Giovanna, Hosni, Hykel and Sillari, Giacomo, 2013, “Play 7: Mutual Versus Common Knowledge of Advice in a Weak-Link Game,” _Synthese_, 190(8): 1351–1381
-* Fagin, Ronald and Halpern, Joseph Y., 1988, “Awareness and Limited Reasoning,” _Artificial Intelligence_, 34: 39–76.
-* Fagin, Ronald, Halpern, Joseph Y., Moses, Yoram and Vardi, Moshe Y., 1995, _Reasoning About Knowledge_, Cambridge, MA: MIT Press.
-* Friedell, Morris, 1967, “On the Structure of Shared Awareness,” _Working papers of the Center for Research on Social Organizations_ (Paper #27), Ann Arbor: University of Michigan.
-* –––, 1969, “On the Structure of Shared Awareness,” _Behavioral Science_, 14(1): 28–39.
+* Binmore, Ken and Samuelson, Larry, 2001, “Coordinated Action in the Electronic Mail Game” *Games and Economic Behavior*, 35(1): 6–30.
+* Bonanno, Giacomo and Battigalli, Pierpaolo, 1999, “Recent Results on Belief, Knowledge and the Epistemic Foundations of Game Theory”, *Research in Economics*, 53(2): 149–225.
+* Bonnay, D. and Egré, Paul, 2009, “Inexact Knowledge with Introspection”, *Journal of Philosophical Logic*, 38: 179–227.
+* Brandenburger, Adam, 1992, “Knowledge and Equilibrium in Games”, *Journal of Economic Perspectives*, 6: 83–101.
+* Brandenburger, Adam, and Dekel, Eddie, 1987, “Common Knowledge with Probability 1”, *Journal of Mathematical Economics*, 16: 237–245.
+* –––, 1988, “The Role of Common Knowledge Assumptions in Game Theory”, in *The Economics of Missing Markets, Information and Games*, Frank Hahn (ed.), Oxford: Clarendon Press, 46–61.
+* Bruni, Riccardo and Giacomo Sillari, 2018, “A Rational Way of Playing: Revision Theory for Strategic Interaction”, *Journal of Philosophical Logic*, 47(3), 419–448.
+* Carnap, Rudolf, 1947, *Meaning and Necessity: A Study in Semantics and Modal Logic*, Chicago, University of Chicago Press.
+* Cave, Jonathan AK, 1983, “Learning to Agree”, *Economics Letters*, 12(2): 147–152.
+* Chwe, Michael, 1999, “Structure and Strategy in Collective Action”, *American Journal of Sociology* 105: 128–56.
+* –––, 2000, “Communcation and Coordination in Social Networks”, *Review of Economic Studies*, 67: 1–16.
+* –––, 2001, *Rational Ritual*, Princeton, NJ: Princeton University Press
+* Cubitt, Robin and Sugden, Robert, 2003, “Common Knowledge, Salience and Convention: A Reconstruction of David Lewis’ Game Theory”, *Economics and Philosophy*, 19: 175–210.
+* Dégremont, Cédric, and Oliver Roy, 2012, “Agreement Theorems in Dynamic-Epistemic Logic”, *Journal of Philosophical Logic*, 41(4): 735-764.
+* Dekel, Eddie and Gul, Faruk, 1997, “Rationality and Knowledge in Game Theory”, in *Advances in Economic Theory: Seventh World Congress of the Econometric Society*, D. Kreps and K. Wallace eds., Cambridge: Cambridge University Press.
+* Dekel, Eddie, Lipman, Bart and Rustichini, Aldo, 1998, “Standard State-Space Models Preclude Unawareness,” *Econometrica*, 66: 159–173.
+* Devetag, Giovanna, Hosni, Hykel and Sillari, Giacomo, 2013, “Play 7: Mutual Versus Common Knowledge of Advice in a Weak-Link Game,” *Synthese*, 190(8): 1351–1381
+* Fagin, Ronald and Halpern, Joseph Y., 1988, “Awareness and Limited Reasoning,” *Artificial Intelligence*, 34: 39–76.
+* Fagin, Ronald, Halpern, Joseph Y., Moses, Yoram and Vardi, Moshe Y., 1995, *Reasoning About Knowledge*, Cambridge, MA: MIT Press.
+* Friedell, Morris, 1967, “On the Structure of Shared Awareness,” *Working papers of the Center for Research on Social Organizations* (Paper #27), Ann Arbor: University of Michigan.
+* –––, 1969, “On the Structure of Shared Awareness,” *Behavioral Science*, 14(1): 28–39.
 * Geanakoplos, John, 1989, “Games Theory without Partitions, and Applications to Speculation and Consensus,” Cowles Foundation Discussion Paper, No. 914.
-* –––, 1994, “Common Knowledge”, in _Handbook of Game Theory_ (Volume 2), Robert Aumann and Sergiu Hart (eds.), Amsterdam: Elsevier Science B.V., 1438–1496.
-* Geanakoplos, John and Heraklis M. Polemarchakis, 1982, “We Can’t Disagree Forever” _Journal of Economic theory_ 28(1): 192–200.
-* Gilbert, Margaret, 1989, _On Social Facts_, Princeton: Princeton University Press.
-* Halpern, Jospeh, 2001, “Alternative Semantics for Unawareness”, _Games and Economic Behavior_, 37(2): 321–339
-* Halpern, J. Y., & Moses, Y. , 1990, “Knowledge and common Knowledge in a Distributed Environment”. _Journal of the Association for Computing Machinery_, 37(3): 549–587.
-* Halpern, J. Y., & Pass, R., 2017, “A Knowledge-Based Analysis of the Blockchain Protocol”. _arXiv preprint_ arXiv:1707.08751.
-* Harman, Gilbert, 1977, “Review of _Linguistic Behavior_ by Jonathan Bennett”, _Language_, 53: 417–424.
-* Harsanyi, J., 1967, “Games with Incomplete Information Played by ”Bayesian“ Players, I: The basic model”, _Management Science_, 14: 159–82.
-* –––, 1968a, “Games with Incomplete Information Played by ”Bayesian“ Players, II: Bayesian Equilibrium Points”, _Management Science_, 14: 320–324.
-* –––, 1968b, “Games with Incomplete Information Played by ”Bayesian“ Players, III: The basic probability distribution of the game”, _Management Science_, 14: 486–502.
-* Heifetz, Aviad, 1999, “Iterative and Fixed Point Common Belief”, _Journal of Philosophical Logic_, 28(1): 61–79.
-* Heifetz, Aviad, Meier, Martin and Schipper, Burkhard, 2006, “Interactive Unawareness”, _Journal of Economic Theory_, 130: 78–94.
-* Hintikka, Jaakko, 1962, _Knowledge and Belief_, Ithaca, NY: Cornell University Press.
-* Hume, David, 1740 \[1888, 1976], _A Treatise of Human Nature_, L. A. Selby-Bigge (ed.), rev. 2nd. edition P. H. Nidditch (ed.), Oxford: Clarendon Press.
-* Immerman, D., 2021, “How Common Knowledge Is Possible”. _Mind_, first online 17 January 2021. doi:10.1093/mind/fzaa090
-* Jäger, Gerhard and Michel Marti, 2016, “Intuitionistic Common Knowledge or Belief”, _Journal of Applied Logic_, 18: 150–163
-* Lederman, Harvey, 2018a, “Two Paradoxes of Common Knowledge: Coordinated Attack and Electronic Mail”, _Noûs_, 52: 921–945.
-* –––, 2018b, “Uncommon Knowledge” _Mind_ 127, 1069–1105.
-* Leitgeb, Hannes, 2014, “The Stability Theory of Belief”, _The Philosophical Review_, 123(2): 131–171.
-* Lewis, C. I., 1943, “The Modes of Meaning”, _Philosophy and Phenomenological Research_, 4: 236–250.
-* Lewis, David, 1969, _Convention: A Philosophical Study_, Cambridge, MA: Harvard University Press.
-* –––, 1978, “Truth in Fiction”, _American Philosophical Quarterly_, 15: 37–46.
-* Littlewood, J. E., 1953, _A Mathematical Miscellany_, London: Methuen; reprinted as _Littlewood’s Miscellany_, B. Bollobas (ed.), Cambridge: Cambridge University Press, 1986.
-* McKelvey, Richard and Page, Talbot, 1986, “Common Knowledge, Consensus and Aggregate Information”, _Econometrica_, 54: 109–127.
-* Meyer, J.-J.Ch. and van der Hoek, Wiebe, 1995, _Epistemic Logic for Computer Science and Artificial Intelligence_ (Cambridge Tracts in Theoretical Computer Science 41), Cambridge: Cambridge University Press.
-* Milgrom, Paul, 1981, “An Axiomatic Characterization of Common Knowledge”, _Econometrica_, 49: 219–222.
-* Milgrom, Paul, and Nancy Stokey, 1982, “Information, Trade and Common Knowledge”, _Journal of Economic Theory_, 26(1): 17–27.
-* Monderer, Dov and Samet, Dov, 1989, “Approximating Common Knowledge with Common Beliefs”, _Games and Economic Behavior_, 1: 170–190.
-* Nash, John, 1950, “Equilibrium Points in N-person Games”. _Proceedings of the National Academy of Sciences of the United States_, 36: 48–49.
-* –––, 1951, “Non-Cooperative Games”. _Annals of Mathematics_, 54: 286–295.
-* Nozick, Robert, 1963, _The Normative Theory of Individual Choice_, Ph.D. dissertation, Princeton University
-* Paternotte, Cédric, 2011, “Being Realistic about Common Knowledge: a Lewisian Approach”, _Synthese_, 183(2): 249–276.
-* –––, 2017, “The Fragility of Common Knowledge”, _Erkenntnis_, 82(3): 451–472.
-* Pearce, David, 1984, “Rationalizable Strategic Behavior and the Problem of Perfection”, _Econometrica_, 52: 1029–1050.
-* Reny, Philip J, 1988, “Common Knowledge and Games with Perfect Information.” In _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, vol. 1988, no. 2, pp. 363–369. East Lansing: Philosophy of Science Association.
-* –––, 1992, “Rationality in Extensive Form Games”, _Journal of Economic Perspectives_, 6: 103–118.
-* Rubinstein, Ariel, 1987, “A Game with ”Almost Common Knowledge“: An Example”, in _Theoretical Economics_, D. P. 87/165. London School of Economics.
-* Samet, Dov, 1990, “Ignoring Ignorance and Agreeing to Disagree”, _Journal of Economic Theory_, 52: 190–207.
-* Schelling, Thomas, 1960, _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
-* Schiffer, Stephen, 1972, _Meaning_, Oxford: Oxford University Press.
-* Sillari, Giacomo, 2005, “A Logical Framework for Convention”, _Synthese_, 147(2): 379–400.
-* –––, 2008, “Common Knowledge and Convention”, _Topoi_, 27(1): 29–39.
-* –––, 2013, “Rule-Following as Coordination: a Game-Theoretic Approach”, _Synthese_, 190(5): 871–890.
-* –––, 2019, “Logics of Belief”, _Rivista di Filosofia_, 110(2): 243–262.
-* Skyrms, Brian, 1984, _Pragmatics and Empiricism_, New Haven: Yale University Press.
-* –––, 1990, _The Dynamics of Rational Deliberation_, Cambridge, MA: Harvard University Press
-* –––, 1991, “Inductive Deliberation, Admissible Acts, and Perfect Equilibrium”, in _Foundations of Decision Theory_, Michael Bacharach and Susan Hurley eds., Cambridge, MA: Blackwell, pp. 220–241.
-* –––, 1998, “The Shadow of the Future”, in _Rational Commitment and Social Justice: Essays for Gregory Kavka_, Jules Coleman and Christopher Morris eds., Cambridge: Cambridge University Press, pp. 12–22.
-* Sugden, Robert, 1986, _The Economics of Rights, Cooperation and Welfare_, New York: Basil Blackwell.
-* Thomason, R. H., 2021, “Common Knowledge, Common Attitudes and Social Reasoning”, _Bulletin of the Section of Logic_, 50(2): 229–247.
-* Vanderschraaf, Peter, 1995, “Endogenous Correlated Equilibria in Noncooperative Games”, _Theory and Decision_, 38: 61–84.
-* Vanderschraaf, Peter, 1998, “Knowledge, Equilibrium and Convention”, _Erkenntnis_, 49: 337–369.
-* –––, 2001. _A Study in Inductive Deliberation_, New York: Routledge.
-* von Neumann, John and Morgenstern, Oskar, 1944, _Theory of Games and Economic Behavior_, Princeton: Princeton University Press.
+* –––, 1994, “Common Knowledge”, in *Handbook of Game Theory* (Volume 2), Robert Aumann and Sergiu Hart (eds.), Amsterdam: Elsevier Science B.V., 1438–1496.
+* Geanakoplos, John and Heraklis M. Polemarchakis, 1982, “We Can’t Disagree Forever” *Journal of Economic theory* 28(1): 192–200.
+* Gilbert, Margaret, 1989, *On Social Facts*, Princeton: Princeton University Press.
+* Halpern, Jospeh, 2001, “Alternative Semantics for Unawareness”, *Games and Economic Behavior*, 37(2): 321–339
+* Halpern, J. Y., & Moses, Y. , 1990, “Knowledge and common Knowledge in a Distributed Environment”. *Journal of the Association for Computing Machinery*, 37(3): 549–587.
+* Halpern, J. Y., & Pass, R., 2017, “A Knowledge-Based Analysis of the Blockchain Protocol”. *arXiv preprint* arXiv:1707.08751.
+* Harman, Gilbert, 1977, “Review of *Linguistic Behavior* by Jonathan Bennett”, *Language*, 53: 417–424.
+* Harsanyi, J., 1967, “Games with Incomplete Information Played by ”Bayesian“ Players, I: The basic model”, *Management Science*, 14: 159–82.
+* –––, 1968a, “Games with Incomplete Information Played by ”Bayesian“ Players, II: Bayesian Equilibrium Points”, *Management Science*, 14: 320–324.
+* –––, 1968b, “Games with Incomplete Information Played by ”Bayesian“ Players, III: The basic probability distribution of the game”, *Management Science*, 14: 486–502.
+* Heifetz, Aviad, 1999, “Iterative and Fixed Point Common Belief”, *Journal of Philosophical Logic*, 28(1): 61–79.
+* Heifetz, Aviad, Meier, Martin and Schipper, Burkhard, 2006, “Interactive Unawareness”, *Journal of Economic Theory*, 130: 78–94.
+* Hintikka, Jaakko, 1962, *Knowledge and Belief*, Ithaca, NY: Cornell University Press.
+* Hume, David, 1740 \[1888, 1976], *A Treatise of Human Nature*, L. A. Selby-Bigge (ed.), rev. 2nd. edition P. H. Nidditch (ed.), Oxford: Clarendon Press.
+* Immerman, D., 2021, “How Common Knowledge Is Possible”. *Mind*, first online 17 January 2021. doi:10.1093/mind/fzaa090
+* Jäger, Gerhard and Michel Marti, 2016, “Intuitionistic Common Knowledge or Belief”, *Journal of Applied Logic*, 18: 150–163
+* Lederman, Harvey, 2018a, “Two Paradoxes of Common Knowledge: Coordinated Attack and Electronic Mail”, *Noûs*, 52: 921–945.
+* –––, 2018b, “Uncommon Knowledge” *Mind* 127, 1069–1105.
+* Leitgeb, Hannes, 2014, “The Stability Theory of Belief”, *The Philosophical Review*, 123(2): 131–171.
+* Lewis, C. I., 1943, “The Modes of Meaning”, *Philosophy and Phenomenological Research*, 4: 236–250.
+* Lewis, David, 1969, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
+* –––, 1978, “Truth in Fiction”, *American Philosophical Quarterly*, 15: 37–46.
+* Littlewood, J. E., 1953, *A Mathematical Miscellany*, London: Methuen; reprinted as *Littlewood’s Miscellany*, B. Bollobas (ed.), Cambridge: Cambridge University Press, 1986.
+* McKelvey, Richard and Page, Talbot, 1986, “Common Knowledge, Consensus and Aggregate Information”, *Econometrica*, 54: 109–127.
+* Meyer, J.-J.Ch. and van der Hoek, Wiebe, 1995, *Epistemic Logic for Computer Science and Artificial Intelligence* (Cambridge Tracts in Theoretical Computer Science 41), Cambridge: Cambridge University Press.
+* Milgrom, Paul, 1981, “An Axiomatic Characterization of Common Knowledge”, *Econometrica*, 49: 219–222.
+* Milgrom, Paul, and Nancy Stokey, 1982, “Information, Trade and Common Knowledge”, *Journal of Economic Theory*, 26(1): 17–27.
+* Monderer, Dov and Samet, Dov, 1989, “Approximating Common Knowledge with Common Beliefs”, *Games and Economic Behavior*, 1: 170–190.
+* Nash, John, 1950, “Equilibrium Points in N-person Games”. *Proceedings of the National Academy of Sciences of the United States*, 36: 48–49.
+* –––, 1951, “Non-Cooperative Games”. *Annals of Mathematics*, 54: 286–295.
+* Nozick, Robert, 1963, *The Normative Theory of Individual Choice*, Ph.D. dissertation, Princeton University
+* Paternotte, Cédric, 2011, “Being Realistic about Common Knowledge: a Lewisian Approach”, *Synthese*, 183(2): 249–276.
+* –––, 2017, “The Fragility of Common Knowledge”, *Erkenntnis*, 82(3): 451–472.
+* Pearce, David, 1984, “Rationalizable Strategic Behavior and the Problem of Perfection”, *Econometrica*, 52: 1029–1050.
+* Reny, Philip J, 1988, “Common Knowledge and Games with Perfect Information.” In *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, vol. 1988, no. 2, pp. 363–369. East Lansing: Philosophy of Science Association.
+* –––, 1992, “Rationality in Extensive Form Games”, *Journal of Economic Perspectives*, 6: 103–118.
+* Rubinstein, Ariel, 1987, “A Game with ”Almost Common Knowledge“: An Example”, in *Theoretical Economics*, D. P. 87/165. London School of Economics.
+* Samet, Dov, 1990, “Ignoring Ignorance and Agreeing to Disagree”, *Journal of Economic Theory*, 52: 190–207.
+* Schelling, Thomas, 1960, *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
+* Schiffer, Stephen, 1972, *Meaning*, Oxford: Oxford University Press.
+* Sillari, Giacomo, 2005, “A Logical Framework for Convention”, *Synthese*, 147(2): 379–400.
+* –––, 2008, “Common Knowledge and Convention”, *Topoi*, 27(1): 29–39.
+* –––, 2013, “Rule-Following as Coordination: a Game-Theoretic Approach”, *Synthese*, 190(5): 871–890.
+* –––, 2019, “Logics of Belief”, *Rivista di Filosofia*, 110(2): 243–262.
+* Skyrms, Brian, 1984, *Pragmatics and Empiricism*, New Haven: Yale University Press.
+* –––, 1990, *The Dynamics of Rational Deliberation*, Cambridge, MA: Harvard University Press
+* –––, 1991, “Inductive Deliberation, Admissible Acts, and Perfect Equilibrium”, in *Foundations of Decision Theory*, Michael Bacharach and Susan Hurley eds., Cambridge, MA: Blackwell, pp. 220–241.
+* –––, 1998, “The Shadow of the Future”, in *Rational Commitment and Social Justice: Essays for Gregory Kavka*, Jules Coleman and Christopher Morris eds., Cambridge: Cambridge University Press, pp. 12–22.
+* Sugden, Robert, 1986, *The Economics of Rights, Cooperation and Welfare*, New York: Basil Blackwell.
+* Thomason, R. H., 2021, “Common Knowledge, Common Attitudes and Social Reasoning”, *Bulletin of the Section of Logic*, 50(2): 229–247.
+* Vanderschraaf, Peter, 1995, “Endogenous Correlated Equilibria in Noncooperative Games”, *Theory and Decision*, 38: 61–84.
+* Vanderschraaf, Peter, 1998, “Knowledge, Equilibrium and Convention”, *Erkenntnis*, 49: 337–369.
+* –––, 2001. *A Study in Inductive Deliberation*, New York: Routledge.
+* von Neumann, John and Morgenstern, Oskar, 1944, *Theory of Games and Economic Behavior*, Princeton: Princeton University Press.
 
 ## Academic Tools
 
@@ -907,4 +906,4 @@ Monderer and Samet (1989) remains one of the best resources for the study of com
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Peter Vanderschraaf](https://moralscience.arizona.edu/person/peter-vanderschraaf)\
-[Giacomo Sillari](https://scienzepolitiche.luiss.it/en/docenti/cv/020229) <[_gsillari@luiss.it_](mailto:gsillari%40luiss%2eit)>
+[Giacomo Sillari](https://scienzepolitiche.luiss.it/en/docenti/cv/020229) <[*gsillari@luiss.it*](mailto:gsillari%40luiss%2eit)>

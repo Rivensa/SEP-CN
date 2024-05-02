@@ -1,6 +1,6 @@
 # 本体论证明 ontological arguments (Graham Oppy)
 
-_首次发表于1996年2月8日，实质性修订于2019年2月6日。_
+*首次发表于1996年2月8日，实质性修订于2019年2月6日。*
 
 本体论证明是关于上帝存在的论证，其前提被认为源自于观察世界以外的某种来源，例如仅仅基于理性。换句话说，本体论证明是从通常被认为是分析的、先验的和必然的前提推导出上帝存在的结论的论证。
 
@@ -16,7 +16,6 @@ _首次发表于1996年2月8日，实质性修订于2019年2月6日。_
 
 在各种方式中，到目前为止提供的解释是粗略的，有待改进。接下来的第 1-6 节提供了一些必要的修饰，尽管如哲学中通常的情况一样，这里涉及到的许多问题可以更详细地探讨。第 7-9 节以稍微复杂一些的讨论水平探讨了一些核心问题。第 10 节是对本体论证最近研究的快速概述：
 
- 
 ***
 
 ## 1. 本体论证明的历史
@@ -369,98 +368,98 @@ Szatkowski（2012）是一本关于本体论证的最新论文集。该论文集
 
 ### Primary Texts
 
-* Anselm, St., _Proslogion_, in _St. Anselm’s Proslogion_, M. Charlesworth (ed.), Oxford: OUP, 1965\
+* Anselm, St., *Proslogion*, in *St. Anselm’s Proslogion*, M. Charlesworth (ed.), Oxford: OUP, 1965\
   \[[Available online](http://www.fordham.edu/halsall/source/anselm.html), in the Internet Medieval Sourcebook, Paul Halsall (ed.), Fordham University Center for Medieval Studies, translation by David Burr].
-* Aquinas, T., _Summa Theologica_, 1272, literally translated by Fathers of the English Dominican Province, London: Burn, Oates & Washbourne, 1920\
+* Aquinas, T., *Summa Theologica*, 1272, literally translated by Fathers of the English Dominican Province, London: Burn, Oates & Washbourne, 1920\
   \[[Available online](http://www.fordham.edu/halsall/source/aquinas1.html), in the Internet Medieval Sourcebook, Paul Halsall (ed.), Fordham University Center for Medieval Studies, translation by David Burr].
-* Ayer, A., _Language, Truth and Logic_ , second edition, London: Gollancz, 1948.
-* Descartes, R., _Discourse on Method and The Meditations_, translated with an introduction by F. Sutcliffe, Harmondsworth: Penguin, 1968\
-  \[Translation of _The Meditations_ by John Veitch, LL.D. [available online](http://www.class.uidaho.edu/mickelsen/texts/Descartes/Descartes%20-%20Dedication.txt)].
-* Frege, G., _Die Grundlagen der Arithmetik_, Bresnau: Koebner, 1884; translated as _The Foundations of Arithmetic_, J.L. Austin (trans), Oxford: Blackwell, 1974, 2nd rev edition;\
+* Ayer, A., *Language, Truth and Logic* , second edition, London: Gollancz, 1948.
+* Descartes, R., *Discourse on Method and The Meditations*, translated with an introduction by F. Sutcliffe, Harmondsworth: Penguin, 1968\
+  \[Translation of *The Meditations* by John Veitch, LL.D. [available online](http://www.class.uidaho.edu/mickelsen/texts/Descartes/Descartes%20-%20Dedication.txt)].
+* Frege, G., *Die Grundlagen der Arithmetik*, Bresnau: Koebner, 1884; translated as *The Foundations of Arithmetic*, J.L. Austin (trans), Oxford: Blackwell, 1974, 2nd rev edition;\
   [Original German text available online](http://www.marilia.unesp.br/Home/Instituicao/Docentes/RicardoTassinari/DGA.pdf), (628 KB PDF file), maintained by Alain Blachair, Académie de Nancy-Metz.
-* Gaunilo, “On Behalf of the Fool”, in _St. Anselm’s Proslogion_, M. Charlesworth (ed.), Oxford: OUP, 1965\
+* Gaunilo, “On Behalf of the Fool”, in *St. Anselm’s Proslogion*, M. Charlesworth (ed.), Oxford: OUP, 1965\
   \[[Available online](http://www.fordham.edu/halsall/source/anselm.html) in the Internet Medieval Sourcebook, Paul Halsall (ed.), Fordham University Center for Medieval Studies, translation by David Burr].
-* Hegel, G., _The Ontological Proof According to the Lectures of 1831_, in P. Hodgson (ed.), _Lectures on the Philosophy of Religion, Vol. III_ Berkeley: University of California Press, 1985, pp. 351–8.
-* Hume, D., _Dialogues Concerning Natural Religion_, 1779, edited with an introduction by H. Aiken, London: Macmillan, 1948.
-* Kant, I., _Critique of Pure Reason_, 1787, second edition, translated by N. Kemp-Smith, London: Macmillan, 1933.
-* Leibniz, G., _New Essay Concerning Human Understanding_, 1709, translated by A. Langley, New York: Macmillan, 1896.
-* Spinoza, B., _The Ethics_, 1677, translation of 1883 by R. Elwes, New York: Dover, 1955\
+* Hegel, G., *The Ontological Proof According to the Lectures of 1831*, in P. Hodgson (ed.), *Lectures on the Philosophy of Religion, Vol. III* Berkeley: University of California Press, 1985, pp. 351–8.
+* Hume, D., *Dialogues Concerning Natural Religion*, 1779, edited with an introduction by H. Aiken, London: Macmillan, 1948.
+* Kant, I., *Critique of Pure Reason*, 1787, second edition, translated by N. Kemp-Smith, London: Macmillan, 1933.
+* Leibniz, G., *New Essay Concerning Human Understanding*, 1709, translated by A. Langley, New York: Macmillan, 1896.
+* Spinoza, B., *The Ethics*, 1677, translation of 1883 by R. Elwes, New York: Dover, 1955\
   \[[Available online](http://frank.mtsu.edu/\~rbombard/RB/Spinoza/ethica-front.html), prepared by R. Bombardi, for the Philosophy Web Works project, Middle Tennessee State University].
 
 ### Other Texts
 
-* Adams, R., 1971, “The Logical Structure of Anselm’s Argument”, _Philosophical Review_, 80: 28–54.
-* –––, 1988, “Presumption and the Necessary Existence of God”, _Noûs_, 22: 19–34.
-* –––, 1995a, _Leibniz: Determinist, Theist, Idealist_, Oxford: Oxford University Press.
-* –––, 1995b, “Introductory Note to \*1970” in K. Gödel _Collected Works Volume III: Unpublished essays and lectures_, S. Feferman, _et al_. (eds.), New York: Oxford University Press, pp. 388–402.
-* Alston, W., 1960, “The Ontological Argument Revisited” _Philosophical Review_, 69: 452–74.
-* Anderson, C., 1990, “Some Emendations on Gödel’s Ontological Proof”, _Faith and Philosophy_, 7: 291–303.
-* Anscombe, E., 1993, “Russelm or Anselm”, _Philosophical Quarterly_, 43: 500–4.
-* Antognazza, M., 2018, “Leibniz”, in G. Oppy (ed.), _Ontological Arguments_, Cambridge: Cambridge University Press, pp. 75–98.
-* Barnes, J., 1972, _The Ontological Argument_, London: Macmillan.
-* Campbell, R., 1976, _From Belief to Understanding_, Canberra: ANU Press.
-* Chambers, T., 2000, “On Behalf of the Devil: A Parody of St. Anselm Revisited”, _Proceedings of the Aristotelian Society_ (New Series), 100: 93–113.
-* Chandler, H., 1993, “Some Ontological Arguments”, _Faith and Philosophy_, 10: 18–32.
-* Charlesworth, M., 1965, _Anselm’s Proslogion_, Oxford: Oxford University Press.
-* Crocker, S., 1972, “The Ontological Significance of Anselm’s _Proslogion_”, _Modern Schoolman_, 50: 33–56.
-* Diamond, C., 1977, “Riddles and Anselm’s Riddle”, _Proceedings of the Aristotelian Society_ (supplementary volume), 51: 143–68.
-* Dombrowski, D., 2006, _Rethinking the Ontological Argument: A Neoclassical Theistic Response_, Cambridge: Cambridge University Press.
-* Dummett, M., 1993, “Existence”, in _The Seas of Language_, Oxford: Oxford University Press.
-* Everitt, N., 2004, _The Non-Existence of God_, London: Blackwell
-* Ferreira, J., 1983, “Kant’s Postulate: The Possibility _or_ the Existence of God”, _Kant Studien_, 74: 75–80.
-* Findlay, J., 1949, “Can God’s Existence Be Disproved?”, _Mind_, 57: 176–83.
-* Garcia, L., 2008, “Ontological Arguments for God’s Existence”, in K. Clark (ed.), _Readings in the Philosophy of Religion_, Peterborough: Broadview, pp. 16–28.
-* Gorbacz, P., 2012, “PROVER9’s Simplification Explained Away”, _Australasian Journal of Philosophy_, 90: 585–96.
-* Grey, W., 2000, “Gasking’s Proof”, _Analysis_, 60: 368–370.
-* Haight, D. and Haight, M., 1974, “An Ontological Argument for the Devil”, _Monist_, 54: 218–20.
-* Harrelson, K., 2009, _The Ontological Argument from Descartes to Hegel_, New York: Humanity Books.
-* Hartshorne, C., 1965, _Anselm’s Discovery: A Re-Examination of the Ontological Proof for God’s Existence_, La Salle, IL: Open Court.
-* Hazen, A., 1999, “On Gödel’s Ontological Proof”, _Australasian Journal of Philosophy_, 76: 361–377.
-* Henle, P., 1961, “Uses of the Ontological Argument”, _Philosophical Review_, 70: 102–9.
-* Hinst, P., 2014, “A Logical Analysis of the Main Argument in Chapter 2 of the _Proslogion_ by Anselm of Canterbury”, _Philosophiegeschichte Und Logische Analyse_, 17: 22–44.
-* Johnston, M., 1992, “Explanation, Response-Dependence, and Judgement-Dependence”, in P. Menzies (ed.), _Response-Dependent Concepts_, Canberra: ANU/RSSS Working Papers in Philosophy, 123–83.
-* Kovacs, S., 2003, “Some Weakened Gödelian Ontological Systems”, _Journal of Philosophical Logic_, 32: 565–88.
-* La Croix, R., 1972, _Proslogion II and III: A Third Interpretation of Anselm’s Argument_, Leiden: Brill.
-* Leftow, B., 2005, “The Ontological Argument”, in _The Oxford Handbook of Philosophy of Religion_, W. Wainwright (ed.), Oxford: Oxford University Press, pp. 80–115.
-* Lewis, D., 1970, “Anselm and Actuality”, _Noûs_, 4: 175–88.
-* Lowe, E., 2007, “The Ontological Argument”, in _The Routledge Companion to Philosophy of Religion_, P. Copan and C. Meister (eds.), London: Routledge.
-* Malcolm, N., 1960, “Anselm’s Ontological Arguments”, _Philosophical Review_, 69: 41–62.
-* Mann, W., 1972, “The Ontological Presuppositions of the Ontological Argument”, _Review of Metaphysics_, 26: 260–77.
-* Matthews, G., 2005, “The Ontological Argument”, in _The Blackwell Guide to the Philosophy of Religion_, W. Mann (ed.), Oxford: Blackwell, pp. 81–102.
-* Matthews, G., and Baker, L., 2010 “The Ontological Argument Simplified”, _Analysis_, 70: 210–212.
-* Maydole, R., 2009, “The Ontological Argument”, in _The Blackwell Companion to Natural Theology_, W. Craig and J. Moreland (ed.), Oxford: Blackwell, pp. 553–592.
-* Millican, P., 2004, “The One Fatal Flaw in Anselm’s Argument”, _Mind_, 113: 437–76.
-* Oppenheimer, P., and Zalta, E., 1991, “On the Logic of the Ontological Argument”, in J. Tomberlin (ed.) _Philosophical Perspectives 5: The Philosophy of Religion_, Atascadero: Ridgeview, pp. 509–29 \[[Preprint available online](http://mally.stanford.edu/ontological.pdf)].
-* –––, 2011, “A Computationally-Discovered Simplification of the Ontological Argument”, _Australasian Journal of Philosophy_, 89: 333–349.
-* Oppy, G., 1995, _Ontological Arguments and Belief in God_, New York: Cambridge University Press.
-* –––, 1996, “Gödelian Ontological Arguments”, _Analysis_, 56: 226–230.
-* –––, 2000, “Response to Gettings”, _Analysis_, 60: 363–367.
-* –––, 2006, _Arguing about Gods_, Cambridge: Cambridge University Press.
-* –––, 2007, “The Ontological Argument” in P. Copan and C. Meister (eds.), _Philosophy of Religion: Classic and Contemporary Issues_, Oxford: Blackwell.
-* ––– (ed.), 2018, _Ontological Arguments_, Cambridge: Cambridge University Press.
-* Plantinga, A., 1967, _God and Other Minds_, Ithaca: Cornell University Press.
-* –––, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
-* Priest, G., 2018, “Existence and Necessity”, in G. Oppy (ed.), _Ontological Arguments_, Cambridge: Cambridge University Press, pp. 250–69.
-* Pruss, A., 2009, “A Gödelian Ontological Argument Improved”, _Religious Studies_, 45: 347–353.
-* –––, 2010,“The Ontological Argument and the Motivational Centres of Lives”, _Religious Studies_, 46: 233–249.
-* –––, 2018, “Gödel”, in G. Oppy (ed.), _Ontological Arguments_, Cambridge: Cambridge University Press, pp. 139–54.
-* Rasmussen, J., 2018, “Plantinga”, in G. Oppy (ed.), _Ontological Arguments_, Cambridge: Cambridge University Press, pp. 276–94.
-* Redding, P. and Bubbio, P., 2014 “Hegel and the Ontological Argument for the Existence of God”, _Religious Studies_, 50: 465–86.
-* Rescher, N., 1959, “The Ontological Proof Revisited”, _Australasian Journal of Philosophy_, 37: 138–48.
-* Ross, J., 1969, _Philosophical Theology_, New York: Bobbs-Merrill.
-* Rowe, W., 1989, “The Ontological Argument”, in J. Feinberg (ed.), _Reason and Responsibility_, seventh edition, Belmont, CA: Wadsworth, pp. 8–17.
-* Salmon, N., 1987, “Existence”, in J. Tomberlin (ed.), _Philosophical Perspectives 1: Metaphysics_, Atascadero, CA: Ridgeview: 49–108.
-* Siegwart, G., 2014, “Gaunilo Parodies Anselm: An Extraordinary Job for the Interpreter”, _Philosophiegeschichte Und Logische Analyse_, 17: 45–71.
-* Smart, J., 1955, “The Existence of God”, in A. Flew and A. MacIntyre (eds.), _New Essays in Philosophical Theology_, London: SCM Press: 500–509.
-* Sobel, J., 1987, “Gödel’s Ontological Proof”, in _On Being and Saying: Essays for Richard Cartwright_, J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 241–61.
-* Sobel, J., 2004, _Logic and Theism_, New York: Cambridge University Press.
-* Smullyan, R., 1984, _5000 BC and Other Philosophical Fantasies_, New York: St. Martins Press.
-* Swietorzecka, K. (ed.), 2012, _Gödel’s Ontological Argument: History, Modifications, and Controversies_, Portland: Semper.
-* Szatkowski, M. (ed.), 2012, _Ontological Proofs Today_, Frankfurt: Ontos Verlag.
-* Tooley, M., 1981, “Plantinga’s Defence of the Ontological Argument”, _Mind_, 90: 422–7.
-* van Inwagen, P., 1977, “Ontological Arguments”, _Noûs_, 11: 375–395.
-* Wilson, M., 1978, “Immutable Natures and the Ontological Argument”, in _Descartes_ London: Routledge, 172–6.
-* Zagzebski, L., 1984, “Oakes’s New Modal Argument for the Existence of God”, _International Journal for Philosophy of Religion_, 20: 159–64.
+* Adams, R., 1971, “The Logical Structure of Anselm’s Argument”, *Philosophical Review*, 80: 28–54.
+* –––, 1988, “Presumption and the Necessary Existence of God”, *Noûs*, 22: 19–34.
+* –––, 1995a, *Leibniz: Determinist, Theist, Idealist*, Oxford: Oxford University Press.
+* –––, 1995b, “Introductory Note to \*1970” in K. Gödel *Collected Works Volume III: Unpublished essays and lectures*, S. Feferman, *et al*. (eds.), New York: Oxford University Press, pp. 388–402.
+* Alston, W., 1960, “The Ontological Argument Revisited” *Philosophical Review*, 69: 452–74.
+* Anderson, C., 1990, “Some Emendations on Gödel’s Ontological Proof”, *Faith and Philosophy*, 7: 291–303.
+* Anscombe, E., 1993, “Russelm or Anselm”, *Philosophical Quarterly*, 43: 500–4.
+* Antognazza, M., 2018, “Leibniz”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 75–98.
+* Barnes, J., 1972, *The Ontological Argument*, London: Macmillan.
+* Campbell, R., 1976, *From Belief to Understanding*, Canberra: ANU Press.
+* Chambers, T., 2000, “On Behalf of the Devil: A Parody of St. Anselm Revisited”, *Proceedings of the Aristotelian Society* (New Series), 100: 93–113.
+* Chandler, H., 1993, “Some Ontological Arguments”, *Faith and Philosophy*, 10: 18–32.
+* Charlesworth, M., 1965, *Anselm’s Proslogion*, Oxford: Oxford University Press.
+* Crocker, S., 1972, “The Ontological Significance of Anselm’s *Proslogion*”, *Modern Schoolman*, 50: 33–56.
+* Diamond, C., 1977, “Riddles and Anselm’s Riddle”, *Proceedings of the Aristotelian Society* (supplementary volume), 51: 143–68.
+* Dombrowski, D., 2006, *Rethinking the Ontological Argument: A Neoclassical Theistic Response*, Cambridge: Cambridge University Press.
+* Dummett, M., 1993, “Existence”, in *The Seas of Language*, Oxford: Oxford University Press.
+* Everitt, N., 2004, *The Non-Existence of God*, London: Blackwell
+* Ferreira, J., 1983, “Kant’s Postulate: The Possibility *or* the Existence of God”, *Kant Studien*, 74: 75–80.
+* Findlay, J., 1949, “Can God’s Existence Be Disproved?”, *Mind*, 57: 176–83.
+* Garcia, L., 2008, “Ontological Arguments for God’s Existence”, in K. Clark (ed.), *Readings in the Philosophy of Religion*, Peterborough: Broadview, pp. 16–28.
+* Gorbacz, P., 2012, “PROVER9’s Simplification Explained Away”, *Australasian Journal of Philosophy*, 90: 585–96.
+* Grey, W., 2000, “Gasking’s Proof”, *Analysis*, 60: 368–370.
+* Haight, D. and Haight, M., 1974, “An Ontological Argument for the Devil”, *Monist*, 54: 218–20.
+* Harrelson, K., 2009, *The Ontological Argument from Descartes to Hegel*, New York: Humanity Books.
+* Hartshorne, C., 1965, *Anselm’s Discovery: A Re-Examination of the Ontological Proof for God’s Existence*, La Salle, IL: Open Court.
+* Hazen, A., 1999, “On Gödel’s Ontological Proof”, *Australasian Journal of Philosophy*, 76: 361–377.
+* Henle, P., 1961, “Uses of the Ontological Argument”, *Philosophical Review*, 70: 102–9.
+* Hinst, P., 2014, “A Logical Analysis of the Main Argument in Chapter 2 of the *Proslogion* by Anselm of Canterbury”, *Philosophiegeschichte Und Logische Analyse*, 17: 22–44.
+* Johnston, M., 1992, “Explanation, Response-Dependence, and Judgement-Dependence”, in P. Menzies (ed.), *Response-Dependent Concepts*, Canberra: ANU/RSSS Working Papers in Philosophy, 123–83.
+* Kovacs, S., 2003, “Some Weakened Gödelian Ontological Systems”, *Journal of Philosophical Logic*, 32: 565–88.
+* La Croix, R., 1972, *Proslogion II and III: A Third Interpretation of Anselm’s Argument*, Leiden: Brill.
+* Leftow, B., 2005, “The Ontological Argument”, in *The Oxford Handbook of Philosophy of Religion*, W. Wainwright (ed.), Oxford: Oxford University Press, pp. 80–115.
+* Lewis, D., 1970, “Anselm and Actuality”, *Noûs*, 4: 175–88.
+* Lowe, E., 2007, “The Ontological Argument”, in *The Routledge Companion to Philosophy of Religion*, P. Copan and C. Meister (eds.), London: Routledge.
+* Malcolm, N., 1960, “Anselm’s Ontological Arguments”, *Philosophical Review*, 69: 41–62.
+* Mann, W., 1972, “The Ontological Presuppositions of the Ontological Argument”, *Review of Metaphysics*, 26: 260–77.
+* Matthews, G., 2005, “The Ontological Argument”, in *The Blackwell Guide to the Philosophy of Religion*, W. Mann (ed.), Oxford: Blackwell, pp. 81–102.
+* Matthews, G., and Baker, L., 2010 “The Ontological Argument Simplified”, *Analysis*, 70: 210–212.
+* Maydole, R., 2009, “The Ontological Argument”, in *The Blackwell Companion to Natural Theology*, W. Craig and J. Moreland (ed.), Oxford: Blackwell, pp. 553–592.
+* Millican, P., 2004, “The One Fatal Flaw in Anselm’s Argument”, *Mind*, 113: 437–76.
+* Oppenheimer, P., and Zalta, E., 1991, “On the Logic of the Ontological Argument”, in J. Tomberlin (ed.) *Philosophical Perspectives 5: The Philosophy of Religion*, Atascadero: Ridgeview, pp. 509–29 \[[Preprint available online](http://mally.stanford.edu/ontological.pdf)].
+* –––, 2011, “A Computationally-Discovered Simplification of the Ontological Argument”, *Australasian Journal of Philosophy*, 89: 333–349.
+* Oppy, G., 1995, *Ontological Arguments and Belief in God*, New York: Cambridge University Press.
+* –––, 1996, “Gödelian Ontological Arguments”, *Analysis*, 56: 226–230.
+* –––, 2000, “Response to Gettings”, *Analysis*, 60: 363–367.
+* –––, 2006, *Arguing about Gods*, Cambridge: Cambridge University Press.
+* –––, 2007, “The Ontological Argument” in P. Copan and C. Meister (eds.), *Philosophy of Religion: Classic and Contemporary Issues*, Oxford: Blackwell.
+* ––– (ed.), 2018, *Ontological Arguments*, Cambridge: Cambridge University Press.
+* Plantinga, A., 1967, *God and Other Minds*, Ithaca: Cornell University Press.
+* –––, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
+* Priest, G., 2018, “Existence and Necessity”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 250–69.
+* Pruss, A., 2009, “A Gödelian Ontological Argument Improved”, *Religious Studies*, 45: 347–353.
+* –––, 2010,“The Ontological Argument and the Motivational Centres of Lives”, *Religious Studies*, 46: 233–249.
+* –––, 2018, “Gödel”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 139–54.
+* Rasmussen, J., 2018, “Plantinga”, in G. Oppy (ed.), *Ontological Arguments*, Cambridge: Cambridge University Press, pp. 276–94.
+* Redding, P. and Bubbio, P., 2014 “Hegel and the Ontological Argument for the Existence of God”, *Religious Studies*, 50: 465–86.
+* Rescher, N., 1959, “The Ontological Proof Revisited”, *Australasian Journal of Philosophy*, 37: 138–48.
+* Ross, J., 1969, *Philosophical Theology*, New York: Bobbs-Merrill.
+* Rowe, W., 1989, “The Ontological Argument”, in J. Feinberg (ed.), *Reason and Responsibility*, seventh edition, Belmont, CA: Wadsworth, pp. 8–17.
+* Salmon, N., 1987, “Existence”, in J. Tomberlin (ed.), *Philosophical Perspectives 1: Metaphysics*, Atascadero, CA: Ridgeview: 49–108.
+* Siegwart, G., 2014, “Gaunilo Parodies Anselm: An Extraordinary Job for the Interpreter”, *Philosophiegeschichte Und Logische Analyse*, 17: 45–71.
+* Smart, J., 1955, “The Existence of God”, in A. Flew and A. MacIntyre (eds.), *New Essays in Philosophical Theology*, London: SCM Press: 500–509.
+* Sobel, J., 1987, “Gödel’s Ontological Proof”, in *On Being and Saying: Essays for Richard Cartwright*, J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 241–61.
+* Sobel, J., 2004, *Logic and Theism*, New York: Cambridge University Press.
+* Smullyan, R., 1984, *5000 BC and Other Philosophical Fantasies*, New York: St. Martins Press.
+* Swietorzecka, K. (ed.), 2012, *Gödel’s Ontological Argument: History, Modifications, and Controversies*, Portland: Semper.
+* Szatkowski, M. (ed.), 2012, *Ontological Proofs Today*, Frankfurt: Ontos Verlag.
+* Tooley, M., 1981, “Plantinga’s Defence of the Ontological Argument”, *Mind*, 90: 422–7.
+* van Inwagen, P., 1977, “Ontological Arguments”, *Noûs*, 11: 375–395.
+* Wilson, M., 1978, “Immutable Natures and the Ontological Argument”, in *Descartes* London: Routledge, 172–6.
+* Zagzebski, L., 1984, “Oakes’s New Modal Argument for the Existence of God”, *International Journal for Philosophy of Religion*, 20: 159–64.
 
 ## Academic Tools
 
@@ -479,11 +478,11 @@ Szatkowski（2012）是一本关于本体论证的最新论文集。该论文集
 * [Ontological Argument](http://www.apollos.ws/ontological-argument/) (links to papers on ontological arguments)
 * Recent papers by C. Benzmüller and W. Paleo on the computational analysis of Gödel’s ontological argument:
   * “[Formalization, Mechanization and Automation of Gödel’s Proof of God’s Existence](http://arxiv.org/pdf/1308.4526v4.pdf)”, unpublished manuscript.
-  * “[Automating Gödel’s Ontological Proof of God’s Existence with Higher-order Automated Theorem Provers](http://page.mi.fu-berlin.de/cbenzmueller/papers/C40.pdf)”, published in ECAI 2014, T. Schaub _et al_. (eds.), IOS Press.
+  * “[Automating Gödel’s Ontological Proof of God’s Existence with Higher-order Automated Theorem Provers](http://page.mi.fu-berlin.de/cbenzmueller/papers/C40.pdf)”, published in ECAI 2014, T. Schaub *et al*. (eds.), IOS Press.
 
 ## Related Entries
 
-[Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/entries/anselm/) | [_a priori_ justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [existence](https://plato.stanford.edu/entries/existence/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [logic: informal](https://plato.stanford.edu/entries/logic-informal/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [Meinong, Alexius](https://plato.stanford.edu/entries/meinong/)
+[Anselm of Canterbury \[Anselm of Bec\]](https://plato.stanford.edu/entries/anselm/) | [*a priori* justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [Descartes, René](https://plato.stanford.edu/entries/descartes/) | [existence](https://plato.stanford.edu/entries/existence/) | [God: and other ultimates](https://plato.stanford.edu/entries/god-ultimates/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [logic: informal](https://plato.stanford.edu/entries/logic-informal/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [Meinong, Alexius](https://plato.stanford.edu/entries/meinong/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Graham Oppy](http://profiles.arts.monash.edu.au/graham-oppy/) <[_Graham.Oppy@monash.edu_](mailto:Graham%2eOppy%40monash%2eedu)>
+[Graham Oppy](http://profiles.arts.monash.edu.au/graham-oppy/) <[*Graham.Oppy@monash.edu*](mailto:Graham%2eOppy%40monash%2eedu)>

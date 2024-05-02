@@ -1,10 +1,9 @@
 # 柏拉图的乌托邦 on utopia (Chris Bobonich and Katherine Meadows)
 
-_首次发表于2002年12月5日；实质性修订于2020年12月2日。_
+*首次发表于2002年12月5日；实质性修订于2020年12月2日。*
 
 《法律》是柏拉图最后的对话之一。在这部作品中，他勾勒出了一个名为 Magnesia 的理想城市的基本政治结构和法律。尽管《法律》涉及了一些政治和伦理哲学以及神学的基本问题，但与《理想国》相比，它受到了忽视。然而，近年来，学术界对《法律》的关注越来越多。本文讨论了近期学术研究中出现的一些重要问题，并提出了未来研究的方向。
 
- 
 ***
 
 ## 1. 真实性和年代
@@ -221,174 +220,174 @@ Magnesia的教育计划始于音乐和体育，并且柏拉图在《法律》的
 
 ### Commentaries, Text, and Translations
 
-* Burnet, J., 1901–7. _Platonis Opera_, 5 volumes, Oxford: Oxford University Press.
-* Bury, R., 1926. _Laws_, 2 volumes, New York: G.P. Putnam’s Sons.
-* Des Places, É. and A. Diès, 1951–1956. _Platon, Oeuvres Complètes_, Volumes XI-XII, Paris: Les Belles Lettres.
-* England, E.B., 1921. _The Laws of Plato_, 2 volumes, Manchester: Manchester University Press.
-* Mayhew, R., 2008. _Plato: Laws 10. Translation with Commentary_, Oxford: Oxford University Press.
-* Pangle, T., 1980. _The Laws of Plato_, New York: Basic Books.
-* Saunders, T.J., 1972. _Notes on the Laws of Plato_, Bulletin of the Institute of Classical Studies (Supplement Number 28), London: University of London.
-* Sauvé-Meyer, S., 2015. _Plato: Laws 1 & 2_, Oxford: Oxford University Press.
-* Schofield, M. (ed.) and Griffith, T. (tr.), 2016. _Plato: The Laws_, Cambridge: Cambridge University Press.
-* Schöpsdau, K., 1994. _Platon Nomoi (Gesetze) Buch I-III_, Göttingen: Vandenhoeck & Ruprecht.
-* –––, 2003. _Platon Nomoi (Gesetze) Buch IV-VII_, Göttingen: Vandenhoeck & Ruprecht.
-* –––, 2011. _Platon Nomoi (Gesetze) Buch VIII-XII_, Göttingen: Vandenhoeck & Ruprecht.
+* Burnet, J., 1901–7. *Platonis Opera*, 5 volumes, Oxford: Oxford University Press.
+* Bury, R., 1926. *Laws*, 2 volumes, New York: G.P. Putnam’s Sons.
+* Des Places, É. and A. Diès, 1951–1956. *Platon, Oeuvres Complètes*, Volumes XI-XII, Paris: Les Belles Lettres.
+* England, E.B., 1921. *The Laws of Plato*, 2 volumes, Manchester: Manchester University Press.
+* Mayhew, R., 2008. *Plato: Laws 10. Translation with Commentary*, Oxford: Oxford University Press.
+* Pangle, T., 1980. *The Laws of Plato*, New York: Basic Books.
+* Saunders, T.J., 1972. *Notes on the Laws of Plato*, Bulletin of the Institute of Classical Studies (Supplement Number 28), London: University of London.
+* Sauvé-Meyer, S., 2015. *Plato: Laws 1 & 2*, Oxford: Oxford University Press.
+* Schofield, M. (ed.) and Griffith, T. (tr.), 2016. *Plato: The Laws*, Cambridge: Cambridge University Press.
+* Schöpsdau, K., 1994. *Platon Nomoi (Gesetze) Buch I-III*, Göttingen: Vandenhoeck & Ruprecht.
+* –––, 2003. *Platon Nomoi (Gesetze) Buch IV-VII*, Göttingen: Vandenhoeck & Ruprecht.
+* –––, 2011. *Platon Nomoi (Gesetze) Buch VIII-XII*, Göttingen: Vandenhoeck & Ruprecht.
 
 ### Secondary Sources
 
-* Adams, M., 2020. “Plato’s Theory of Punishment and Penal Code in the Laws,” _Australasian Journal of Philosophy_, 97 (1): 1–14.
-* Annas, J., 1999. _Platonic Ethics, Old and New_, Ithaca: Cornell University Press.
+* Adams, M., 2020. “Plato’s Theory of Punishment and Penal Code in the Laws,” *Australasian Journal of Philosophy*, 97 (1): 1–14.
+* Annas, J., 1999. *Platonic Ethics, Old and New*, Ithaca: Cornell University Press.
 * –––, 2010. “Virtue and Law in Plato,” in Bobonich (2010), pp. 71–91.
-* –––, 2017. _Virtue and Law in Plato and Beyond_, Oxford: Oxford University Press.
-* Armstrong, J., 2004. “After the Ascent: Plato on Becoming Like God”, _Oxford Studies in Ancient Philosophy_, 26: 171–83.
-* Balot, R., 2006. _Greek Political Thought_, Malden: Blackwell.
-* Barney, R., Brennan, T., and Brittain, C. (eds.), 2012. _Plato and the Divided Self_, Cambridge: Cambridge University Press.
-* Barker, E., 1960. _Greek Political Theory: Plato and his Predecessors_, London: Methuen.
-* Bartels, M., 2017. _Plato’s pragmatic project: a reading of Plato’s Laws_, Stuttgart: Franz Steiner Verlag.
-* Bobonich, C., 1991. “Persuasion, compulsion and freedom in Plato’s _Laws_,” _Classical Quarterly_, 41 (2): 365–387.
+* –––, 2017. *Virtue and Law in Plato and Beyond*, Oxford: Oxford University Press.
+* Armstrong, J., 2004. “After the Ascent: Plato on Becoming Like God”, *Oxford Studies in Ancient Philosophy*, 26: 171–83.
+* Balot, R., 2006. *Greek Political Thought*, Malden: Blackwell.
+* Barney, R., Brennan, T., and Brittain, C. (eds.), 2012. *Plato and the Divided Self*, Cambridge: Cambridge University Press.
+* Barker, E., 1960. *Greek Political Theory: Plato and his Predecessors*, London: Methuen.
+* Bartels, M., 2017. *Plato’s pragmatic project: a reading of Plato’s Laws*, Stuttgart: Franz Steiner Verlag.
+* Bobonich, C., 1991. “Persuasion, compulsion and freedom in Plato’s *Laws*,” *Classical Quarterly*, 41 (2): 365–387.
 * –––, 1996. “Reading the Laws,” in Gill and McCabe (1996), pp. 249–82.
-* –––, 2002. _Plato’s Utopia Recast: His Later Ethics and Politics_, Oxford: Clarendon Press.
+* –––, 2002. *Plato’s Utopia Recast: His Later Ethics and Politics*, Oxford: Clarendon Press.
 * –––, 2010. “Images of irrationality,” in Bobonich 2010, pp. 149–171.
-* ––– (ed.), 2010. _Plato’s Laws: A Critical Guide_, Cambridge: Cambridge University Press.
-* –––, 2019. “Plato’s Politics” in G. Fine (ed.) _Oxford Handbook on Plato_, Oxford: Oxford University Press, pp. 575–604.
-* Brandwood, L., 1976. _A Word Index to Plato_, Leeds: W. S. Maney & Son.
-* –––, 1990. _The Chronology of Plato’s Dialogues_, Cambridge: Cambridge University Press.
+* ––– (ed.), 2010. *Plato’s Laws: A Critical Guide*, Cambridge: Cambridge University Press.
+* –––, 2019. “Plato’s Politics” in G. Fine (ed.) *Oxford Handbook on Plato*, Oxford: Oxford University Press, pp. 575–604.
+* Brandwood, L., 1976. *A Word Index to Plato*, Leeds: W. S. Maney & Son.
+* –––, 1990. *The Chronology of Plato’s Dialogues*, Cambridge: Cambridge University Press.
 * Brisson, L., 2001. “Le Collège de veille (nukterinos sullogos),” in Lisi 2001, pp. 161–77.
-* Brunt, P.A., 1993. _Studies in Greek History and Thought_, Oxford: Clarendon Press.
-* Caram, J., 2019. “Nomos: Logismós ton Epithymion : Plato’s Laws and the (De)formation of Desires,” in L. Pitteloud and E. Keeling (eds.), _Psychology and ontology in Plato_, Cham, Switzerland: Springer, pp. 125–37.
-* Carone, G.R., 1994. “Teleology and evil in _Laws_ 10,” _Review of Metaphysics_, 48 (2): 275–298.
-* –––, 2005. _Plato’s Cosmology and Its Ethical Dimensions_, Cambridge: Cambridge University Press.
-* Cooper, J., 1999. _Reason and Emotion_, Princeton: Princeton University Press.
-* Cohen, D., 1987. “The Legal Status and Political Role of Women in Plato’s _Laws_,” _Revue Internationale des Droits de l’Antiquité_, 34: 27–40.
-* Curren, R., 1994. “Justice, Instruction and the Good: The Case for Public Education in Aristotle and Plato’s Laws,” _Studies in Philosophy and Education_, 13: 1–31.
-* Director, S., 2020. “Justice in the Laws, a Restatement: Why Plato Endorses Public Reason,” _Journal of the American Philosophical Association_, 4 (2): 184–203.
-* Dodds, E.R., 1973. _The Greeks and the Irrational_, Berkeley: University of California Press.
-* Dorion, L.-A., 2018. “Enkrateia and the Division of the Soul in Plato,” _Revue de Philosophie Ancienne_, 36 (2): 153–213.
-* Erler, M., 2017. “Argument and Performance: Alcibiades’ Behavior in the Symposium and Plato’s Analysis in the Laws,” _Peitho_, 8 (1): 213–24.
-* Fine, G. (ed.), 1999. _Plato 2: Ethics, Politics, Religion and the Soul_, Oxford: Oxford University Press.
-* Folch, M., 2015. _The City and the Stage: Performance, Genre, and Gender in Plato’s Laws_, Oxford: Oxford University Press.
+* Brunt, P.A., 1993. *Studies in Greek History and Thought*, Oxford: Clarendon Press.
+* Caram, J., 2019. “Nomos: Logismós ton Epithymion : Plato’s Laws and the (De)formation of Desires,” in L. Pitteloud and E. Keeling (eds.), *Psychology and ontology in Plato*, Cham, Switzerland: Springer, pp. 125–37.
+* Carone, G.R., 1994. “Teleology and evil in *Laws* 10,” *Review of Metaphysics*, 48 (2): 275–298.
+* –––, 2005. *Plato’s Cosmology and Its Ethical Dimensions*, Cambridge: Cambridge University Press.
+* Cooper, J., 1999. *Reason and Emotion*, Princeton: Princeton University Press.
+* Cohen, D., 1987. “The Legal Status and Political Role of Women in Plato’s *Laws*,” *Revue Internationale des Droits de l’Antiquité*, 34: 27–40.
+* Curren, R., 1994. “Justice, Instruction and the Good: The Case for Public Education in Aristotle and Plato’s Laws,” *Studies in Philosophy and Education*, 13: 1–31.
+* Director, S., 2020. “Justice in the Laws, a Restatement: Why Plato Endorses Public Reason,” *Journal of the American Philosophical Association*, 4 (2): 184–203.
+* Dodds, E.R., 1973. *The Greeks and the Irrational*, Berkeley: University of California Press.
+* Dorion, L.-A., 2018. “Enkrateia and the Division of the Soul in Plato,” *Revue de Philosophie Ancienne*, 36 (2): 153–213.
+* Erler, M., 2017. “Argument and Performance: Alcibiades’ Behavior in the Symposium and Plato’s Analysis in the Laws,” *Peitho*, 8 (1): 213–24.
+* Fine, G. (ed.), 1999. *Plato 2: Ethics, Politics, Religion and the Soul*, Oxford: Oxford University Press.
+* Folch, M., 2015. *The City and the Stage: Performance, Genre, and Gender in Plato’s Laws*, Oxford: Oxford University Press.
 * Frede, D., 2010. “Puppets on Strings,” in Bobonich 2010, pp. 108–126.
-* Georgoulas, E., 2020. “The Psychological Background of the First Education in Plato’s Laws,” _Apeiron_, 45 (4): 338–53.
-* Golding, M.P. and N.H. Golding, 1975. “Population Policy in Plato and Aristotle: Some Value Issues,” _Arethusa_, 8: 345–58.
-* Guthrie, W.K.C., 1987. _A History of Greek Philosophy_ (Volume 4), Cambridge: Cambridge University Press.
-* Grasso, R. 2020. “MESOTÊS in Plato’s Laws 746a6–7,” _Classical Quarterly_, 69 (1): 443–46.
-* Hackforth, R., 1936. “Plato’s theism,” _Classical Quarterly_, 30 (1): 4–9.
-* Harvey, G., 2018. “Before and After Politics in Plato’s Laws,” _Ancient Philosophy_, (38): 305–32.
-* Hatzistavrou, A., 2011. “‘Correctness’ and Poetic Knowledge: Choric Poetry in the _Laws_,” in Destrée and Hermann (eds.), _Plato and the Poets_, Leiden: Brill, pp. 361–386.
-* –––, 2020. “Plato’s Legal Positivism in the Laws,” _Jurisprudence_, 9 (2): 209–35.
-* Hourani, G.F., 1949. “The Education of the Third Class in Plato’s _Republic_,” _Classical Quarterly_, 43: 58–60.
-* Hunt, L., 2020. “The Law in Plato’s Laws: A Reading of the ‘Classical Thesis,’” _Polis_, 35 (1): 102–26.
-* Irwin, T., 1990. “The Good of Political Activity,” in Patzig, G. (ed.) _Aristoteles’ “Politik”_, Göttingen: Vandenhoeck and Ruprecht, pp. 73–98.
-* –––, 1995. _Plato’s Ethics_, Oxford: Oxford University Press.
-* –––, 2010. “Morality as law and morality in the _Laws_,” in Bobonich 2010, pp. 92–107.
-* Kahn, C., 1996. _Plato and the Socratic Dialogue_, Cambridge: Cambridge University Press.
-* –––, 2004. “From _Republic_ to _Laws_: A Discussion of Christopher Bobonich, _Plato’s Utopia Recast_,” _Oxford Studies in Ancient Philosophy_, 26: 337–362.
-* –––, 2013. _Plato and the Post-Socratic Dialogue_, Cambridge: Cambridge University Press.
-* Kamtekar, R., 1998. “Imperfect Virtue,” _Ancient Philosophy_, 18: 315–39.
-* –––, 2004. “What’s the Good of Agreeing?” _Oxford Studies in Ancient Philosophy_, 26: 131–70.
-* –––, 2010. “Psychology and the inculcation of virtue in Plato’s _Laws_,” in Bobonich 2010, pp. 127–148.
-* –––, 2019. “Plato on Education and Art,” in G. Fine (ed.) _Oxford Handbook of Plato_, 2nd ed., Oxford: Oxford University Press, pp. 605–25.
-* Karfík, F., 2005. “What the Mortal Parts of the Soul Really Are,” _Rhizai_ 2: 197–217.
-* Keyser, P., 1991. Review of Ledger (1989). _Bryn Mawr Classical Review_, 2.7.3: 422–7.
-* –––, 1992. Review of Brandwood (1990). _Bryn Mawr Classical Review_, 3.1.12: 58–73.
-* Klosko, G., 1982. “Demotike arete in the _Republic_,” _History of Political Thought_, 3: 363–81.
-* –––, 1988. “The Nocturnal Council in Plato’s Laws,” _Political Studies_, 36: 74–88.
-* –––, 2006. _The Development of Plato’s Political Theory_, 2nd edition, Oxford: Oxford University Press.
-* –––, 2008. “Knowledge and Law in Plato’s _Laws_,” _Political Studies_ 56 (2): 456–74.
-* Knorr, W., 1975. _The Evolution of the Euclidean Elements_, Dordrecht: Reidel.
-* Kraut, R., 1973. “Reason and Justice in Plato’s Republic,” in E.N. Lee, A.P.D. Mourelatos and R. Rorty (eds.), _Exegesis and Argument_, New York: Humanities Press, pp. 207–24.
-* ––– (ed.), 1992. _The Cambridge Companion to Plato_, Cambridge: Cambridge University Press.
-* –––, 2010. “Ordinary virtue from the _Phaedo_ to the _Laws_,” in Bobonich 2010, pp. 51–70.
-* LaFray, E., 2020. _Dangerous Bodies: Plato’s Laws and the Ideology of Female Inferiority in Fourth-Century Athens_, London: Routledge. doi:10.4324/9781315177113
-* Laks, A., 1990. “Legislation and Demiurgy: On the Relationship Between Plato’s _Republic_ and _Laws_,” _Classical Antiquity_, 9: 209–29.
-* –––, 1991. “L’Utopie Législative de Platon,” _Revue Philosophique_ 4: 416–28.
-* –––, 2000. “The _Laws_,” in Rowe and Schofield 2000, pp. 258–92.
-* –––, 2001. “In What Sense is the City of the _Laws_ a Second Best One?” in Lisi 2001, pp. 107–14.
-* –––, 2005. _Médiation et coercition: pour une lecture des lois de Platon_, in _Cahiers de Philologie_, 22, Villeneuve d’Ascq: Presses universitaires du septentrion.
-* –––, 2007. ‘Freedom, liberality, and liberty in Plato’s _Laws_,’ _Social Philosophy and Policy_, 24 (2): 130–152.
-* –––, 2010. “Plato’s ‘truest tragedy’: _Laws_ Book 7, 817a-d,” in Bobonich 2010, pp. 217–231.
-* Lane, M., 2018. “Placing Plato in the History of Liberty,” _History of European Ideas_, 44 (6): 702–18.
-* Larivée, A., 2020. “Wise Old Man and Young Associate. Reflections on the Value of the Intergenerational Relationship from Plato’s Laws,” _Cahiers Des Études Anciennes_, 55: 161–79.
-* Lautner, P., 2005. “The _Timaeus_ on Sounds and Hearing with Some Implications for Plato’s General Account of Sense-Perception,” _Rhizai_, 2: 235–53.
-* Ledger, G., 1989. _Re-Counting Plato_, Oxford: Clarendon Press.
-* Levin, S.B., 2000. “Plato on Women’s Nature: Reflections on the _Laws_,” _Ancient Philosophy_, 20 (1): 81–97.
-* –––, 2014. _Plato’s Rivalry with Medicine: A Struggle and Its Dissolution_, Oxford: Oxford University Press.
-* Lisi, F. (ed.), 2001. _Plato’s Laws and its Historical Significance_, Sankt Augustin: Academia Verlag.
-* Lorenz, H., 2006. _The Brute Within_, Oxford: Oxford University Press.
-* –––, 2012. “The cognition of appetite in Plato’s _Timaeus_,” in Barney, Brennan, and Brittain 2012, pp. 238–258.
-* –––, 2010. “The theology of the _Laws_,” in Bobonich 2010, pp. 197–216.
-* Mayhew, R., 2020. “On Prayer in Plato’s _Laws_,” _Apeiron_, 41 (1): 45–62.
-* Menn, S., 1995. _Plato on God as Noûs_, Carbondale: Southern Illinois University Press.
-* Morrow, G., 1960. _Plato’s Cretan City_, Princeton: Princeton University Press.
-* Moseley, G., 2020. “Arabic Support for an Emendation of Plato, _Laws_ 666B,” _Classical Quarterly_, 69 (1): 440–42.   &#x20;
-* Mueller, I., 1980. “Ascending to Problems: Astronomy and Harmonics in _Republic_ VII,” in J. Anton (ed.), _Science and the Sciences in Plato_, Delmas, NY: Caravan Books, pp. 103–122.
-* Müller, J., 2014. “Psychologie und Handlungstheorie in Platons Nomoi,” in C. Horn (ed.) _Platon: Gesetz/Nomoi_, Berlin: Akademieverlag, pp.45–66.
-* Natorp, P., 1895. “Plato’s Staat und die Idee der Sozialädagogik,” _Archiv für Gesetzgebung und Statistik_, 8: 140–71.
-* Nails, D., 1992. “Review of G.R. Ledger _Re-counting Plato_, and of H. Thesleff _Studies in Platonic Chronology_,” _Bryn Mawr Classical Review_ (03.04.17), [available online](http://bmcr.brynmawr.edu/1992/03.04.17.html).
-* Ng, C.-L., 2017, “Plato’s Defense of Athens,” _Transactions of the American Philological Association_, 147 (1): 53–78.
-* Nightingale, A., 1993. “Writing/Reading a Sacred Text: A Literary Interpretation of Plato’s _Laws_,” _Classical Philology_, 88: 279–300.
-* Nussbaum, M., 1986. _The Fragility of Goodness_, Cambridge: Cambridge University Press.
-* Okin, S., 1979. _Women in Western Political Thought_, Princeton: Princeton University Press.
-* O’Meara, D., 2017. _Cosmology and Politics in Plato’s Later Works_, Cambridge: Cambridge University Press.
-* Pacewicz, A., 2019. “The Political and Paideutic Function of Pleasure in Plato’s Philosophy,” _Erga-Logoi_, 7 (1): 103–35.
-* Pangle, T., 1980. _The Laws of Plato_, New York: Basic Books.
-* Peponi, A.E. (ed.), 2013. _Performance and Culture in Plato’s Laws_, Cambridge: Cambridge University Press.
-* Piérart, M., 1973. _Platon et la cité grecque_, Brussels: Académie Royale de Belgique.
-* Prauscello, L., 2014. _Performing Citizenship in Plato’s Laws_, Cambridge: Cambridge University Press.
-* –––, 2017. “Plato _Laws_ 3.680B-C: Antisthenes, The Cyclopes and Homeric Exegesis,” _Journal of Hellenic Studies_, 137: 8–23.
-* Price, A., 1995. _Mental Conflict_, London: Routledge & Kegan Paul.
-* –––, 2009. “Are Plato’s Soul-Parts Psychological Subjects?” _Ancient Philosophy_ 29, pp. 1–15.
-* Recoo, G. and E. Sanday (eds.), 2013. _Plato’s Laws: Force and Truth in Politics_, Bloomington: Indiana University Press.
-* Rees, D., 1957. “Bipartition of the Soul in the Early Academy,” _Journal of Hellenic Studies_, 77: 112–8.
-* Reeve, C.D.C., 1988. _Philosopher-Kings: The Argument of Plato’s Republic_, Princeton: Princeton University Press.
-* Reid, J., forthcoming. “The Mixed Constitution in Plato’s Laws,” _Australasian Journal of Philosophy_.
-* Rocconi, E., 2020. “The Music of the Laws and the Laws of Music,” _Greek and Roman Musical Studies_, 4 (1): 71–89.
-* Ross, W.D., 1953. _Plato’s Theory of Ideas_, 2nd ed., Oxford: Clarendon Press.
-* Rowe, C.J., 1986. _Plato: Phaedrus_, Warminster: Aries & Phillips.
-* –––, 1995a. _Plato: Statesman_, Warminster: Aries & Phillips.
-* ––– (ed.), 1995b. _Reading the Statesman: The Proceedings of the Third International Symposium Platonicum_, Sankt Augustin: Academia Verlag.
-* –––, 2010. “The relationship of the _Laws_ to other dialogues: A proposal,” in Bobonich 2010, pp. 29–50.
-* Rowe, C.J. and M. Schofield (eds.), 2000. _The Cambridge History of Greek and Roman Political Thought_, Cambridge: Cambridge University Press.
-* Samaras, T., 2002. _Plato on Democracy_, New York: Peter Lang.
-* –––, 2010. “Family and the question of women in the _Laws_,” in Bobonich 2010, pp. 172–196.
-* –––, 2012. “Leisured Aristocrats or Warrior-Farmers? Leisure in Plato’s _Laws_,” _Classical Philology_, 107(1): 1–20.
-* Satkunanandan, S., 2020. “Drawing Rein: Shame and Reverence in Plato’s Law-Bound Polity and Ours,” _Political Theory_, 46 (3): 331–56.
-* Sattler, B., 2020. “Cosmology and Ideal Society: The Division of the Day into Hours in Plato’s _Laws_,” in K. Miller and S. Symons (eds.), _Down to the Hour: Short Time in the Ancient Mediterranean and Near East_, Leiden: Brill, pp. 158–83.
-* Saunders, T.J., 1962. “The Structure of the Soul and the State in Plato’s _Laws_,” _Eranos_, 60: 37–55.
-* –––, 1968. “The Socratic Paradoxes in Plato’s _Laws_,” _Hermes_, 96: 421–34.
-* –––, 1970. “The Alleged Double Version in the sixth book of the Laws,” _Classical Quarterly_ (n.s.), 20: 230–6.
-* –––, 1972. _Notes on the Laws of Plato_, Bulletin of the Institute of Classical Studies (Supplement No. 28), London: University of London.
-* –––, 1976. _Plato: the Laws_, Harmondsworth: Penguin Books.
-* –––, 1991. _Plato’s Penal Code_, Oxford: Oxford University Press.
-* –––, 1995. “Plato on Women in the _Laws_,” in A. Powell (ed.), _The Greek World_, London: Routledge & Kegan Paul, pp. 591–609.
-* Sauvé Meyer, S., 2011. “Legislation as Tragedy: on Plato’s _Laws_ VII, 817b–d,” in Destrée and Hermann (eds.), _Plato and the Poets_, Leiden: Brill, pp. 387–402.
-* –––, 2018. “Self-mastery and Self-rule in Plato’s Laws,” in D. Brink, S. Meyer, and C. Shields (eds.), _Virtue, happiness, knowledge: themes from the work of Gail Fine and Terence Irwin_, Oxford: Oxford University Press, pp. 97–109.
-* –––, 2019. “The _Laws_,” in G. Fine (ed.) _The Oxford Handbook of Plato_, 2nd edition, Oxford: Oxford University Press, pp. 359–77.
-* Schofield, M., 2006. _Plato: Political Philosophy_, Oxford: Oxford University Press.
-* –––, 2010. “The _Laws_’ two projects,” in Bobonich 2010, pp. 12–28.
-* Scolnicov, S. and L. Brisson (eds.), 2003. _Plato’s Laws: From Theory into Practice. Proceedings of the VI Symposium Platonicum._ Sankt Augusin: Academia verlag.
-* Sedley, D., 2000. “The Ideal of Godlikeness,” in G. Fine (ed.), _Plato 2: Ethics, Politics, Religion and the Soul_, Oxford: Oxford University Press, pp. 309–28.
-* Skutelty, S., 2006. “Currency, Trade and Commerce in Plato’s _Laws_,” _History of Political Thought_, 27 (2): 189–205.
-* Stalley, R. F., 1983. _An Introduction to Plato’s Laws_, Indianapolis: Hackett.
-* –––, 1994. “Persuasion in Plato’s _Laws_,” _History of Political Thought_, 15: 157–77.
-* –––, 2009. “Myth and Eschatology in the _Laws_,” in C. Partenie (ed.) _Plato’s Myths_, Cambridge: Cambridge University Press, pp. 187–205.
-* Vasilio, I., 2008. _Aiming for Virtue_, Cambridge: Cambridge University Press.
-* Vlastos, G., 1981. _Platonic Studies_, 2nd ed., Princeton: Princeton University Press.
-* –––, 1991. _Socrates, Ironist and Moral Philosopher_, Ithaca: Cornell University Press.
-* Warren, J., 2013. “Comparing Lives in Plato, _Laws_ 5,” _Phronesis_, 58 (4): 319–346.
-* Waterlow \[Broadie], S., 1972. “The Good of Others in Plato’s _Republic_,” _Proceedings of the Aristotelian Society_, 73: 19–36.
-* White, N., 1999. “Harmonizing Plato,” _Philosophy and Phenomenological Research_, 49: 497–512.
-* –––, 2002. _Individual and Conflict in Greek Ethics._ Oxford: Clarendon Press.
-* Wilburn, J., 2012. “_Akrasia_ and Self-Rule in Plato’s _Laws_,” _Oxford Studies in Ancient Philosophy_, 43: 25–53.
-* –––, 2013. “Moral Education and the Spirited Part of the Soul in Plato’s _Laws_,” _Oxford Studies in Ancient Philosophy_, 45: 63–102.
-* Young, C., 1994. “Plato and Computer Dating,” _Oxford Studies in Ancient Philosophy_, 12: 227–50.
-* –––, 2018. “Plato’s Concept of Liberty in the Laws,” _History of Political Thought_, 39 (3): 379–98.
+* Georgoulas, E., 2020. “The Psychological Background of the First Education in Plato’s Laws,” *Apeiron*, 45 (4): 338–53.
+* Golding, M.P. and N.H. Golding, 1975. “Population Policy in Plato and Aristotle: Some Value Issues,” *Arethusa*, 8: 345–58.
+* Guthrie, W.K.C., 1987. *A History of Greek Philosophy* (Volume 4), Cambridge: Cambridge University Press.
+* Grasso, R. 2020. “MESOTÊS in Plato’s Laws 746a6–7,” *Classical Quarterly*, 69 (1): 443–46.
+* Hackforth, R., 1936. “Plato’s theism,” *Classical Quarterly*, 30 (1): 4–9.
+* Harvey, G., 2018. “Before and After Politics in Plato’s Laws,” *Ancient Philosophy*, (38): 305–32.
+* Hatzistavrou, A., 2011. “‘Correctness’ and Poetic Knowledge: Choric Poetry in the *Laws*,” in Destrée and Hermann (eds.), *Plato and the Poets*, Leiden: Brill, pp. 361–386.
+* –––, 2020. “Plato’s Legal Positivism in the Laws,” *Jurisprudence*, 9 (2): 209–35.
+* Hourani, G.F., 1949. “The Education of the Third Class in Plato’s *Republic*,” *Classical Quarterly*, 43: 58–60.
+* Hunt, L., 2020. “The Law in Plato’s Laws: A Reading of the ‘Classical Thesis,’” *Polis*, 35 (1): 102–26.
+* Irwin, T., 1990. “The Good of Political Activity,” in Patzig, G. (ed.) *Aristoteles’ “Politik”*, Göttingen: Vandenhoeck and Ruprecht, pp. 73–98.
+* –––, 1995. *Plato’s Ethics*, Oxford: Oxford University Press.
+* –––, 2010. “Morality as law and morality in the *Laws*,” in Bobonich 2010, pp. 92–107.
+* Kahn, C., 1996. *Plato and the Socratic Dialogue*, Cambridge: Cambridge University Press.
+* –––, 2004. “From *Republic* to *Laws*: A Discussion of Christopher Bobonich, *Plato’s Utopia Recast*,” *Oxford Studies in Ancient Philosophy*, 26: 337–362.
+* –––, 2013. *Plato and the Post-Socratic Dialogue*, Cambridge: Cambridge University Press.
+* Kamtekar, R., 1998. “Imperfect Virtue,” *Ancient Philosophy*, 18: 315–39.
+* –––, 2004. “What’s the Good of Agreeing?” *Oxford Studies in Ancient Philosophy*, 26: 131–70.
+* –––, 2010. “Psychology and the inculcation of virtue in Plato’s *Laws*,” in Bobonich 2010, pp. 127–148.
+* –––, 2019. “Plato on Education and Art,” in G. Fine (ed.) *Oxford Handbook of Plato*, 2nd ed., Oxford: Oxford University Press, pp. 605–25.
+* Karfík, F., 2005. “What the Mortal Parts of the Soul Really Are,” *Rhizai* 2: 197–217.
+* Keyser, P., 1991. Review of Ledger (1989). *Bryn Mawr Classical Review*, 2.7.3: 422–7.
+* –––, 1992. Review of Brandwood (1990). *Bryn Mawr Classical Review*, 3.1.12: 58–73.
+* Klosko, G., 1982. “Demotike arete in the *Republic*,” *History of Political Thought*, 3: 363–81.
+* –––, 1988. “The Nocturnal Council in Plato’s Laws,” *Political Studies*, 36: 74–88.
+* –––, 2006. *The Development of Plato’s Political Theory*, 2nd edition, Oxford: Oxford University Press.
+* –––, 2008. “Knowledge and Law in Plato’s *Laws*,” *Political Studies* 56 (2): 456–74.
+* Knorr, W., 1975. *The Evolution of the Euclidean Elements*, Dordrecht: Reidel.
+* Kraut, R., 1973. “Reason and Justice in Plato’s Republic,” in E.N. Lee, A.P.D. Mourelatos and R. Rorty (eds.), *Exegesis and Argument*, New York: Humanities Press, pp. 207–24.
+* ––– (ed.), 1992. *The Cambridge Companion to Plato*, Cambridge: Cambridge University Press.
+* –––, 2010. “Ordinary virtue from the *Phaedo* to the *Laws*,” in Bobonich 2010, pp. 51–70.
+* LaFray, E., 2020. *Dangerous Bodies: Plato’s Laws and the Ideology of Female Inferiority in Fourth-Century Athens*, London: Routledge. doi:10.4324/9781315177113
+* Laks, A., 1990. “Legislation and Demiurgy: On the Relationship Between Plato’s *Republic* and *Laws*,” *Classical Antiquity*, 9: 209–29.
+* –––, 1991. “L’Utopie Législative de Platon,” *Revue Philosophique* 4: 416–28.
+* –––, 2000. “The *Laws*,” in Rowe and Schofield 2000, pp. 258–92.
+* –––, 2001. “In What Sense is the City of the *Laws* a Second Best One?” in Lisi 2001, pp. 107–14.
+* –––, 2005. *Médiation et coercition: pour une lecture des lois de Platon*, in *Cahiers de Philologie*, 22, Villeneuve d’Ascq: Presses universitaires du septentrion.
+* –––, 2007. ‘Freedom, liberality, and liberty in Plato’s *Laws*,’ *Social Philosophy and Policy*, 24 (2): 130–152.
+* –––, 2010. “Plato’s ‘truest tragedy’: *Laws* Book 7, 817a-d,” in Bobonich 2010, pp. 217–231.
+* Lane, M., 2018. “Placing Plato in the History of Liberty,” *History of European Ideas*, 44 (6): 702–18.
+* Larivée, A., 2020. “Wise Old Man and Young Associate. Reflections on the Value of the Intergenerational Relationship from Plato’s Laws,” *Cahiers Des Études Anciennes*, 55: 161–79.
+* Lautner, P., 2005. “The *Timaeus* on Sounds and Hearing with Some Implications for Plato’s General Account of Sense-Perception,” *Rhizai*, 2: 235–53.
+* Ledger, G., 1989. *Re-Counting Plato*, Oxford: Clarendon Press.
+* Levin, S.B., 2000. “Plato on Women’s Nature: Reflections on the *Laws*,” *Ancient Philosophy*, 20 (1): 81–97.
+* –––, 2014. *Plato’s Rivalry with Medicine: A Struggle and Its Dissolution*, Oxford: Oxford University Press.
+* Lisi, F. (ed.), 2001. *Plato’s Laws and its Historical Significance*, Sankt Augustin: Academia Verlag.
+* Lorenz, H., 2006. *The Brute Within*, Oxford: Oxford University Press.
+* –––, 2012. “The cognition of appetite in Plato’s *Timaeus*,” in Barney, Brennan, and Brittain 2012, pp. 238–258.
+* –––, 2010. “The theology of the *Laws*,” in Bobonich 2010, pp. 197–216.
+* Mayhew, R., 2020. “On Prayer in Plato’s *Laws*,” *Apeiron*, 41 (1): 45–62.
+* Menn, S., 1995. *Plato on God as Noûs*, Carbondale: Southern Illinois University Press.
+* Morrow, G., 1960. *Plato’s Cretan City*, Princeton: Princeton University Press.
+* Moseley, G., 2020. “Arabic Support for an Emendation of Plato, *Laws* 666B,” *Classical Quarterly*, 69 (1): 440–42.   &#x20;
+* Mueller, I., 1980. “Ascending to Problems: Astronomy and Harmonics in *Republic* VII,” in J. Anton (ed.), *Science and the Sciences in Plato*, Delmas, NY: Caravan Books, pp. 103–122.
+* Müller, J., 2014. “Psychologie und Handlungstheorie in Platons Nomoi,” in C. Horn (ed.) *Platon: Gesetz/Nomoi*, Berlin: Akademieverlag, pp.45–66.
+* Natorp, P., 1895. “Plato’s Staat und die Idee der Sozialädagogik,” *Archiv für Gesetzgebung und Statistik*, 8: 140–71.
+* Nails, D., 1992. “Review of G.R. Ledger *Re-counting Plato*, and of H. Thesleff *Studies in Platonic Chronology*,” *Bryn Mawr Classical Review* (03.04.17), [available online](http://bmcr.brynmawr.edu/1992/03.04.17.html).
+* Ng, C.-L., 2017, “Plato’s Defense of Athens,” *Transactions of the American Philological Association*, 147 (1): 53–78.
+* Nightingale, A., 1993. “Writing/Reading a Sacred Text: A Literary Interpretation of Plato’s *Laws*,” *Classical Philology*, 88: 279–300.
+* Nussbaum, M., 1986. *The Fragility of Goodness*, Cambridge: Cambridge University Press.
+* Okin, S., 1979. *Women in Western Political Thought*, Princeton: Princeton University Press.
+* O’Meara, D., 2017. *Cosmology and Politics in Plato’s Later Works*, Cambridge: Cambridge University Press.
+* Pacewicz, A., 2019. “The Political and Paideutic Function of Pleasure in Plato’s Philosophy,” *Erga-Logoi*, 7 (1): 103–35.
+* Pangle, T., 1980. *The Laws of Plato*, New York: Basic Books.
+* Peponi, A.E. (ed.), 2013. *Performance and Culture in Plato’s Laws*, Cambridge: Cambridge University Press.
+* Piérart, M., 1973. *Platon et la cité grecque*, Brussels: Académie Royale de Belgique.
+* Prauscello, L., 2014. *Performing Citizenship in Plato’s Laws*, Cambridge: Cambridge University Press.
+* –––, 2017. “Plato *Laws* 3.680B-C: Antisthenes, The Cyclopes and Homeric Exegesis,” *Journal of Hellenic Studies*, 137: 8–23.
+* Price, A., 1995. *Mental Conflict*, London: Routledge & Kegan Paul.
+* –––, 2009. “Are Plato’s Soul-Parts Psychological Subjects?” *Ancient Philosophy* 29, pp. 1–15.
+* Recoo, G. and E. Sanday (eds.), 2013. *Plato’s Laws: Force and Truth in Politics*, Bloomington: Indiana University Press.
+* Rees, D., 1957. “Bipartition of the Soul in the Early Academy,” *Journal of Hellenic Studies*, 77: 112–8.
+* Reeve, C.D.C., 1988. *Philosopher-Kings: The Argument of Plato’s Republic*, Princeton: Princeton University Press.
+* Reid, J., forthcoming. “The Mixed Constitution in Plato’s Laws,” *Australasian Journal of Philosophy*.
+* Rocconi, E., 2020. “The Music of the Laws and the Laws of Music,” *Greek and Roman Musical Studies*, 4 (1): 71–89.
+* Ross, W.D., 1953. *Plato’s Theory of Ideas*, 2nd ed., Oxford: Clarendon Press.
+* Rowe, C.J., 1986. *Plato: Phaedrus*, Warminster: Aries & Phillips.
+* –––, 1995a. *Plato: Statesman*, Warminster: Aries & Phillips.
+* ––– (ed.), 1995b. *Reading the Statesman: The Proceedings of the Third International Symposium Platonicum*, Sankt Augustin: Academia Verlag.
+* –––, 2010. “The relationship of the *Laws* to other dialogues: A proposal,” in Bobonich 2010, pp. 29–50.
+* Rowe, C.J. and M. Schofield (eds.), 2000. *The Cambridge History of Greek and Roman Political Thought*, Cambridge: Cambridge University Press.
+* Samaras, T., 2002. *Plato on Democracy*, New York: Peter Lang.
+* –––, 2010. “Family and the question of women in the *Laws*,” in Bobonich 2010, pp. 172–196.
+* –––, 2012. “Leisured Aristocrats or Warrior-Farmers? Leisure in Plato’s *Laws*,” *Classical Philology*, 107(1): 1–20.
+* Satkunanandan, S., 2020. “Drawing Rein: Shame and Reverence in Plato’s Law-Bound Polity and Ours,” *Political Theory*, 46 (3): 331–56.
+* Sattler, B., 2020. “Cosmology and Ideal Society: The Division of the Day into Hours in Plato’s *Laws*,” in K. Miller and S. Symons (eds.), *Down to the Hour: Short Time in the Ancient Mediterranean and Near East*, Leiden: Brill, pp. 158–83.
+* Saunders, T.J., 1962. “The Structure of the Soul and the State in Plato’s *Laws*,” *Eranos*, 60: 37–55.
+* –––, 1968. “The Socratic Paradoxes in Plato’s *Laws*,” *Hermes*, 96: 421–34.
+* –––, 1970. “The Alleged Double Version in the sixth book of the Laws,” *Classical Quarterly* (n.s.), 20: 230–6.
+* –––, 1972. *Notes on the Laws of Plato*, Bulletin of the Institute of Classical Studies (Supplement No. 28), London: University of London.
+* –––, 1976. *Plato: the Laws*, Harmondsworth: Penguin Books.
+* –––, 1991. *Plato’s Penal Code*, Oxford: Oxford University Press.
+* –––, 1995. “Plato on Women in the *Laws*,” in A. Powell (ed.), *The Greek World*, London: Routledge & Kegan Paul, pp. 591–609.
+* Sauvé Meyer, S., 2011. “Legislation as Tragedy: on Plato’s *Laws* VII, 817b–d,” in Destrée and Hermann (eds.), *Plato and the Poets*, Leiden: Brill, pp. 387–402.
+* –––, 2018. “Self-mastery and Self-rule in Plato’s Laws,” in D. Brink, S. Meyer, and C. Shields (eds.), *Virtue, happiness, knowledge: themes from the work of Gail Fine and Terence Irwin*, Oxford: Oxford University Press, pp. 97–109.
+* –––, 2019. “The *Laws*,” in G. Fine (ed.) *The Oxford Handbook of Plato*, 2nd edition, Oxford: Oxford University Press, pp. 359–77.
+* Schofield, M., 2006. *Plato: Political Philosophy*, Oxford: Oxford University Press.
+* –––, 2010. “The *Laws*’ two projects,” in Bobonich 2010, pp. 12–28.
+* Scolnicov, S. and L. Brisson (eds.), 2003. *Plato’s Laws: From Theory into Practice. Proceedings of the VI Symposium Platonicum.* Sankt Augusin: Academia verlag.
+* Sedley, D., 2000. “The Ideal of Godlikeness,” in G. Fine (ed.), *Plato 2: Ethics, Politics, Religion and the Soul*, Oxford: Oxford University Press, pp. 309–28.
+* Skutelty, S., 2006. “Currency, Trade and Commerce in Plato’s *Laws*,” *History of Political Thought*, 27 (2): 189–205.
+* Stalley, R. F., 1983. *An Introduction to Plato’s Laws*, Indianapolis: Hackett.
+* –––, 1994. “Persuasion in Plato’s *Laws*,” *History of Political Thought*, 15: 157–77.
+* –––, 2009. “Myth and Eschatology in the *Laws*,” in C. Partenie (ed.) *Plato’s Myths*, Cambridge: Cambridge University Press, pp. 187–205.
+* Vasilio, I., 2008. *Aiming for Virtue*, Cambridge: Cambridge University Press.
+* Vlastos, G., 1981. *Platonic Studies*, 2nd ed., Princeton: Princeton University Press.
+* –––, 1991. *Socrates, Ironist and Moral Philosopher*, Ithaca: Cornell University Press.
+* Warren, J., 2013. “Comparing Lives in Plato, *Laws* 5,” *Phronesis*, 58 (4): 319–346.
+* Waterlow \[Broadie], S., 1972. “The Good of Others in Plato’s *Republic*,” *Proceedings of the Aristotelian Society*, 73: 19–36.
+* White, N., 1999. “Harmonizing Plato,” *Philosophy and Phenomenological Research*, 49: 497–512.
+* –––, 2002. *Individual and Conflict in Greek Ethics.* Oxford: Clarendon Press.
+* Wilburn, J., 2012. “*Akrasia* and Self-Rule in Plato’s *Laws*,” *Oxford Studies in Ancient Philosophy*, 43: 25–53.
+* –––, 2013. “Moral Education and the Spirited Part of the Soul in Plato’s *Laws*,” *Oxford Studies in Ancient Philosophy*, 45: 63–102.
+* Young, C., 1994. “Plato and Computer Dating,” *Oxford Studies in Ancient Philosophy*, 12: 227–50.
+* –––, 2018. “Plato’s Concept of Liberty in the Laws,” *History of Political Thought*, 39 (3): 379–98.
 
 ### Other Bibliographies
 
-* Brisson, L. 2018. “Bibliographie platonicienne 2017–2018”, _Études platoniciennes_, 14, \[[available online](http://journals.openedition.org/etudesplatoniciennes/1357)]. doi:10.4000/etudesplatoniciennes.1357. \[Note that Brisson publishes comprehensive Plato biographies on a yearly basis. The one cited here was the most recent as of the December 2020 update.]
-* Saunders, T. and L. Brisson, 2000. _Bibliography on Plato’s Laws_ (3rd edition); revised and completed with an additional bibliography on the Epinomis by Luc Brisson, Volume 12, Sankt Augusin: Academia Verlag.
-* Schofield, M. 2016. “Plato’s Laws”. _Oxford Bibliographies in Classics_, R. Scodel (ed.), New York: Oxford University Press. \[[available online](https://www.oxfordbibliographies.com/view/document/obo-9780195389661/obo-9780195389661-0214.xml)] doi:10.1093/OBO/9780195389661-0214
+* Brisson, L. 2018. “Bibliographie platonicienne 2017–2018”, *Études platoniciennes*, 14, \[[available online](http://journals.openedition.org/etudesplatoniciennes/1357)]. doi:10.4000/etudesplatoniciennes.1357. \[Note that Brisson publishes comprehensive Plato biographies on a yearly basis. The one cited here was the most recent as of the December 2020 update.]
+* Saunders, T. and L. Brisson, 2000. *Bibliography on Plato’s Laws* (3rd edition); revised and completed with an additional bibliography on the Epinomis by Luc Brisson, Volume 12, Sankt Augusin: Academia Verlag.
+* Schofield, M. 2016. “Plato’s Laws”. *Oxford Bibliographies in Classics*, R. Scodel (ed.), New York: Oxford University Press. \[[available online](https://www.oxfordbibliographies.com/view/document/obo-9780195389661/obo-9780195389661-0214.xml)] doi:10.1093/OBO/9780195389661-0214
 
 ## Academic Tools
 
@@ -407,5 +406,5 @@ Magnesia的教育计划始于音乐和体育，并且柏拉图在《法律》的
 [Aristotle, General Topics: political theory](https://plato.stanford.edu/entries/aristotle-politics/) | [Plato](https://plato.stanford.edu/entries/plato/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Chris Bobonich <[_bobonich@stanford.edu_](mailto:bobonich%40stanford%2eedu)>\
-[Katherine Meadows](https://www.katy-meadows.com/) <[_meadows@iu.edu_](mailto:meadows%40iu%2eedu)>
+Chris Bobonich <[*bobonich@stanford.edu*](mailto:bobonich%40stanford%2eedu)>\
+[Katherine Meadows](https://www.katy-meadows.com/) <[*meadows@iu.edu*](mailto:meadows%40iu%2eedu)>

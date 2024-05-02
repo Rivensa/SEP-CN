@@ -1,10 +1,8 @@
 # 命题动态逻辑 propositional dynamic (Nicolas Troquard and Philippe Balbiani)
 
-_首次发表于2007年2月1日；实质修订于2023年2月16日。_
+*首次发表于2007年2月1日；实质修订于2023年2月16日。*
 
 程序逻辑是从将每个计算机程序α与一种形式\[α]相关联的思想中产生的模态逻辑。然后，公式\[α]A 的含义是：在执行程序α之后，A 为真。这个思想来自 Engeler \[1967]，Hoare \[1969]，Yanov \[1959]等人的研究成果，他们制定并研究了可以表达程序连接词性质的逻辑语言。Salwicki \[1970]首次开发的算法逻辑（AL）和 Pratt \[1976]详细阐述的动态逻辑（DL）是这些工作的适当延续。我们将在这里集中讨论 DL。专注于 DL 的众多论文以及其在程序验证和数据结构中的许多应用表明，它构成了研究程序性质的有用工具。Pratt 选择在可以称之为一阶层面上描述 DL，正是他的工作激发了 Fischer 和 Ladner \[1979]几年后定义 DL 的命题变体。本文介绍了 DL 的命题变体 PDL 的概述。
-
- 
 
 ***
 
@@ -449,61 +447,61 @@ xR(α∩β)y 当且仅当 xR(α)y 和 xR(β)y。
 
 ## Bibliography
 
-* Apt, K., 1981, “Ten years of Hoare’s logic: A survey — Part I”, _ACM Transactions on Programming Languages and Systems_, 3(4): 431–483.
-* Balbiani, P., and D. Vakarelov, 2003, “PDL with intersection of programs: a complete axiomatization”, _Journal of Applied Non-Classical Logics_, 13: 231-276.
-* van Benthem, J., 1998, “Program constructions that are safe for bisimulation”, _Studia Logica_, 60: 311–330.
-* Berman, F., and M. Paterson, 1981, “Propositional dynamic logic is weaker without tests”, _Theoretical Computer Science_, 16: 321–328.
-* Burstall, R., 1974, “Program Proving as Hand Simulation with a Little Induction”, _Information Processing 74: Proceedings of IFIP Congress 74_, Amsterdam: North Holland Publishing Company, 308–312.
-* Danecki, R., 1984a, “Propositional dynamic logic with strong loop predicate”, in M. Chytil and V. Koubek, _Mathematical Foundations of Computer Science_, Berlin: Springer-Verlag, 573-581.
-* –––, 1984b, “Nondeterministic propositional dynamic logic with intersection is decidable”, in A. Skowron (ed.), _Computation Theory_, Berlin: Springer-Verlag, 34-53.
-* De Giacomo, G., and F. Massacci, 2000, “Combining deduction and model checking into tableaux and algorithms for converse-PDL”, _Information and Computation_, 160: 109–169.
-* van Ditmarsch, H., W. van Der Hoek, and B. Kooi, 2007, _Dynamic epistemic logic_, Dordrecht: Springer-Verlag.
-* van Eijck, J., and M. Stokhof, 2006, “The Gamut of Dynamic Logics”, in D. Gabbay and J. Woods (eds.), _The Handbook of History of Logic_, Volume 7—_Logic and the Modalities in the Twentieth Century_, Amsterdam: Elsevier, 499–600.
-* Emerson, E., and Jutla, C., 1988, “The Complexity of Tree Automata and Logics of Programs (Extended Abstract)”, in _Proceedings of the 29th Annual Symposium on Foundations of Computer Science_, Los Alamitos, CA: IEEE Computer Society, 328–337.
-* –––, 1999, “The Complexity of Tree Automata and Logics of Programs”, in _SIAM Journal of Computing_, 29: 132–158.
-* Engeler, E., 1967, “Algorithmic properties of structures”, _Mathematical Systems Theory_, 1: 183–195.
-* Fischer, M., and R. Ladner, 1979, “Propositional dynamic logic of regular programs”, _Journal of Computer and System Sciences_, 18: 194–211.
-* Floyd, R., 1967, “Assigning meaning to programs”, _Proceedings of the American Mathematical Society Symposia on Applied Mathematics_ (Volume 19), Providence, RI: American Mathematical Society, 19–31.
-* Gargov, G., and S. Passy, 1988, “Determinism and looping in combinatory PDL”, _Theoretical Computer Science_, Amsterdam: Elsevier, 259–277.
-* Goldblatt, R., 1982, _Axiomatising the Logic of Computer Programming_, Berlin: Springer-Verlag.
-* –––, 1992a, _Logics of Time and Computation_, Stanford: Center for the Study of Language and Information Publications.
-* –––, 1992b, “Parallel Action: Concurrent Dynamic Logic with Independent Modalities”, _Studia Logica_, 51: 551–578.
-* Göller, S., M. Lohrey, and C. Lutz, 2007, “PDL with intersection and converse is 2EXP-complete”, _Foundations of Software Science and Computational Structures_, Berlin: Springer, 198–212.
-* Harel, D., 1979, _First-Order Dynamic Logic_, Berlin: Springer-Verlag.
-* –––, 1983, “Recurring dominoes: making the highly undecidable highly understandable”, in M. Karpinski (ed.), _Foundations of Computation Theory_, Berlin: Springer-Verlag, 177–194.
-* –––, 1984, “Dynamic logic”, in D. Gabbay and F. Guenthner (eds.), _Handbook of Philosophical Logic_ (Volume II), Dordrecht: D. Reidel, 497–604.
-* Harel, D., D. Kozen, and J. Tiuryn, 2000, _Dynamic Logic_, Cambridge, MA: MIT Press.
-* Harel, D. and Sherman, R., 1982, “Looping vs. Repeating in Dynamic Logic”, _Information and Control_, 55: 175–192.
-* Hoare, C., 1969, “An axiomatic basis for computer programming”, _Communications of the Association of Computing Machinery_, 12: 576–580.
-* Kozen, D., 1983, “Results on the Propositional μ-Calculus”, _Theoretical Computer Science_, 27: 333–354.
-* Kozen, D., and R. Parikh, 1981, “An elementary proof of the completeness of PDL”, _Theoretical Computer Science_, 14: 113–118.
-* Kozen, D., and J. Tiuryn, 1990, “Logics of programs”, in J. Van Leeuwen (ed.), _Handbook of Theoretical Computer Science_ (Volume B), Amsterdam: Elsevier, 789–840.
-* Lange, M., 2005, “A lower complexity bound for propositional dynamic logic with intersection”, in R. Schmidt, I. Pratt-Hartmann, M. Reynolds and H. Wansing (eds.), _Advances in Modal Logic_ (Volume 5), London: King’s College Publications, 133–147.
-* Lange, M., and C. Lutz, 2005, “2-EXPTIME lower bounds for propositional dynamic logics with intersection”, _Journal of Symbolic Logic_, 70: 1072–1086.
-* Lutz, C., 2005, “PDL with intersection and converse is decidable”. In L. Ong (ed.), _Computer Science Logic_, Berlin: Springer-Verlag, 413-427.
-* Massacci, F., 2001, “Decision procedures for expressive description logics with intersection, composition, converse of roles and role identity”, in B. Nebel (ed.), _17th International Joint Conference on Artificial Intelligence_, San Francisco: Morgan Kaufmann, 193–198.
-* Mirkowska, G., and A. Salwicki, 1987, _Algorithmic Logic_, Dordrecht: D. Reidel.
-* Nishimura, H., 1979, “Sequential method in propositional dynamic logic”, _Acta Informatica_, 12: 377–400.
-* Parikh, R., 1978, “The completeness of propositional dynamic logic”, in J. Winkowski (ed.), _Mathematical Foundations of Computer Science_, Berlin: Springer-Verlag, 1978, 403-415.
-* –––, 1983, “Propositional logics of programs: new directions”, in M. Karpinski (ed.), _Foundations of Computation Theory_, Berlin: Springer-Verlag, 347-359.
-* –––, 1985, “The logic of games and its applications”, _Annals of Discrete Mathematics_, 24: 111–140.
-* Peleg, D., 1987, “Concurrent dynamic logic”, _Journal of the Association of Computing Machinery_, 34: 450–479.
-* Platzer, A., 2010, _Logical Analysis of Hybrid Systems: Proving Theorems for Complex Dynamics_, Berlin: Springer, 2010.
-* Pratt, V., 1976, “Semantical considerations on Floyd-Hoare logic”, in _Proceedings of the 17th IEEE Symposium on Foundations of Computer Science_, Los Alamitos, CA: IEEE Computer Society, 109–121.
-* –––, 1978, “A practical decision method for propositional dynamic logic”, in _Proceedings of the 10th Annual ACM Symposium on Theory of Computing_, New York, NY: ACM, 326–337.
-* –––, 1980a, “A near-optimal method for reasoning about action”, _Journal of Computer and System Sciences_, 20: 231–254.
-* –––, 1980b, “Application of Modal Logic to Programming”, _Studia Logica_, 39: 257–274.
-* –––, 2017, “Dynamic Logic: A Personal Perspective”, _Lecture Notes in Computer Science_ (Volume 10669), Cham: Springer, 153–170.
-* Sakalauskaite, J., and M. Valiev, 1990, “Completeness of propositional dynamic logic with infinite repeating”, in P. Petkov (ed.), _Mathematical Logic_, New York: Plenum Press, 339–349.
-* Salwicki, A., 1970, “Formalized algorithmic languages”, _Bulletin de l’Academie Polonaise des Sciences, Serie des sciences mathematiques, astronomiques et physiques_, 18: 227–232.
-* Segerberg, K., 1977, “A completeness theorem in the modal logic of programs”, _Notices of the American Mathematical Society_, 24: 522.
-* Schneider, K., 2004, _Verification of Reactive Systems_, Berlin: Springer-Verlag.
-* Streett, R., 1982, “Propositional dynamic logic of looping and converse is elementary decidable”, _Information and Control_, 54: 121–141.
-* Vakarelov, D., 1983, “Filtration theorem for dynamic algebras with tests and inverse operator”, in A. Salwicki (ed.), _Logics of Programs and their Applications_, Berlin: Springer-Verlag, 314–324.
-* Vardi, M., 1985, “The Taming of Converse: Reasoning about Two-way Computations”, in _Lecture Notes in Computer Science_ (Volume 193), Berlin-Heidelberg: Springer, 413–423.
-* –––, 1998, “Reasoning about the past with two-way automata”, in _Lecture Notes in Computer Science_ (Volume 1443), Berlin-Heidelberg: Springer, 628–641.
-* Vardi, M., and Stockmeyer, L., 1985, “Improved Upper and Lower Bounds for Modal Logics of Programs: Preliminary Report”, in _Proceedings of the 17th Annual ACM Symposium on Theory of Computing_, New York, NY: ACM, 240–251.
-* Yanov, J., 1959, “On equivalence of operator schemes”, _Problems of Cybernetic_, 1: 1–100.
+* Apt, K., 1981, “Ten years of Hoare’s logic: A survey — Part I”, *ACM Transactions on Programming Languages and Systems*, 3(4): 431–483.
+* Balbiani, P., and D. Vakarelov, 2003, “PDL with intersection of programs: a complete axiomatization”, *Journal of Applied Non-Classical Logics*, 13: 231-276.
+* van Benthem, J., 1998, “Program constructions that are safe for bisimulation”, *Studia Logica*, 60: 311–330.
+* Berman, F., and M. Paterson, 1981, “Propositional dynamic logic is weaker without tests”, *Theoretical Computer Science*, 16: 321–328.
+* Burstall, R., 1974, “Program Proving as Hand Simulation with a Little Induction”, *Information Processing 74: Proceedings of IFIP Congress 74*, Amsterdam: North Holland Publishing Company, 308–312.
+* Danecki, R., 1984a, “Propositional dynamic logic with strong loop predicate”, in M. Chytil and V. Koubek, *Mathematical Foundations of Computer Science*, Berlin: Springer-Verlag, 573-581.
+* –––, 1984b, “Nondeterministic propositional dynamic logic with intersection is decidable”, in A. Skowron (ed.), *Computation Theory*, Berlin: Springer-Verlag, 34-53.
+* De Giacomo, G., and F. Massacci, 2000, “Combining deduction and model checking into tableaux and algorithms for converse-PDL”, *Information and Computation*, 160: 109–169.
+* van Ditmarsch, H., W. van Der Hoek, and B. Kooi, 2007, *Dynamic epistemic logic*, Dordrecht: Springer-Verlag.
+* van Eijck, J., and M. Stokhof, 2006, “The Gamut of Dynamic Logics”, in D. Gabbay and J. Woods (eds.), *The Handbook of History of Logic*, Volume 7—*Logic and the Modalities in the Twentieth Century*, Amsterdam: Elsevier, 499–600.
+* Emerson, E., and Jutla, C., 1988, “The Complexity of Tree Automata and Logics of Programs (Extended Abstract)”, in *Proceedings of the 29th Annual Symposium on Foundations of Computer Science*, Los Alamitos, CA: IEEE Computer Society, 328–337.
+* –––, 1999, “The Complexity of Tree Automata and Logics of Programs”, in *SIAM Journal of Computing*, 29: 132–158.
+* Engeler, E., 1967, “Algorithmic properties of structures”, *Mathematical Systems Theory*, 1: 183–195.
+* Fischer, M., and R. Ladner, 1979, “Propositional dynamic logic of regular programs”, *Journal of Computer and System Sciences*, 18: 194–211.
+* Floyd, R., 1967, “Assigning meaning to programs”, *Proceedings of the American Mathematical Society Symposia on Applied Mathematics* (Volume 19), Providence, RI: American Mathematical Society, 19–31.
+* Gargov, G., and S. Passy, 1988, “Determinism and looping in combinatory PDL”, *Theoretical Computer Science*, Amsterdam: Elsevier, 259–277.
+* Goldblatt, R., 1982, *Axiomatising the Logic of Computer Programming*, Berlin: Springer-Verlag.
+* –––, 1992a, *Logics of Time and Computation*, Stanford: Center for the Study of Language and Information Publications.
+* –––, 1992b, “Parallel Action: Concurrent Dynamic Logic with Independent Modalities”, *Studia Logica*, 51: 551–578.
+* Göller, S., M. Lohrey, and C. Lutz, 2007, “PDL with intersection and converse is 2EXP-complete”, *Foundations of Software Science and Computational Structures*, Berlin: Springer, 198–212.
+* Harel, D., 1979, *First-Order Dynamic Logic*, Berlin: Springer-Verlag.
+* –––, 1983, “Recurring dominoes: making the highly undecidable highly understandable”, in M. Karpinski (ed.), *Foundations of Computation Theory*, Berlin: Springer-Verlag, 177–194.
+* –––, 1984, “Dynamic logic”, in D. Gabbay and F. Guenthner (eds.), *Handbook of Philosophical Logic* (Volume II), Dordrecht: D. Reidel, 497–604.
+* Harel, D., D. Kozen, and J. Tiuryn, 2000, *Dynamic Logic*, Cambridge, MA: MIT Press.
+* Harel, D. and Sherman, R., 1982, “Looping vs. Repeating in Dynamic Logic”, *Information and Control*, 55: 175–192.
+* Hoare, C., 1969, “An axiomatic basis for computer programming”, *Communications of the Association of Computing Machinery*, 12: 576–580.
+* Kozen, D., 1983, “Results on the Propositional μ-Calculus”, *Theoretical Computer Science*, 27: 333–354.
+* Kozen, D., and R. Parikh, 1981, “An elementary proof of the completeness of PDL”, *Theoretical Computer Science*, 14: 113–118.
+* Kozen, D., and J. Tiuryn, 1990, “Logics of programs”, in J. Van Leeuwen (ed.), *Handbook of Theoretical Computer Science* (Volume B), Amsterdam: Elsevier, 789–840.
+* Lange, M., 2005, “A lower complexity bound for propositional dynamic logic with intersection”, in R. Schmidt, I. Pratt-Hartmann, M. Reynolds and H. Wansing (eds.), *Advances in Modal Logic* (Volume 5), London: King’s College Publications, 133–147.
+* Lange, M., and C. Lutz, 2005, “2-EXPTIME lower bounds for propositional dynamic logics with intersection”, *Journal of Symbolic Logic*, 70: 1072–1086.
+* Lutz, C., 2005, “PDL with intersection and converse is decidable”. In L. Ong (ed.), *Computer Science Logic*, Berlin: Springer-Verlag, 413-427.
+* Massacci, F., 2001, “Decision procedures for expressive description logics with intersection, composition, converse of roles and role identity”, in B. Nebel (ed.), *17th International Joint Conference on Artificial Intelligence*, San Francisco: Morgan Kaufmann, 193–198.
+* Mirkowska, G., and A. Salwicki, 1987, *Algorithmic Logic*, Dordrecht: D. Reidel.
+* Nishimura, H., 1979, “Sequential method in propositional dynamic logic”, *Acta Informatica*, 12: 377–400.
+* Parikh, R., 1978, “The completeness of propositional dynamic logic”, in J. Winkowski (ed.), *Mathematical Foundations of Computer Science*, Berlin: Springer-Verlag, 1978, 403-415.
+* –––, 1983, “Propositional logics of programs: new directions”, in M. Karpinski (ed.), *Foundations of Computation Theory*, Berlin: Springer-Verlag, 347-359.
+* –––, 1985, “The logic of games and its applications”, *Annals of Discrete Mathematics*, 24: 111–140.
+* Peleg, D., 1987, “Concurrent dynamic logic”, *Journal of the Association of Computing Machinery*, 34: 450–479.
+* Platzer, A., 2010, *Logical Analysis of Hybrid Systems: Proving Theorems for Complex Dynamics*, Berlin: Springer, 2010.
+* Pratt, V., 1976, “Semantical considerations on Floyd-Hoare logic”, in *Proceedings of the 17th IEEE Symposium on Foundations of Computer Science*, Los Alamitos, CA: IEEE Computer Society, 109–121.
+* –––, 1978, “A practical decision method for propositional dynamic logic”, in *Proceedings of the 10th Annual ACM Symposium on Theory of Computing*, New York, NY: ACM, 326–337.
+* –––, 1980a, “A near-optimal method for reasoning about action”, *Journal of Computer and System Sciences*, 20: 231–254.
+* –––, 1980b, “Application of Modal Logic to Programming”, *Studia Logica*, 39: 257–274.
+* –––, 2017, “Dynamic Logic: A Personal Perspective”, *Lecture Notes in Computer Science* (Volume 10669), Cham: Springer, 153–170.
+* Sakalauskaite, J., and M. Valiev, 1990, “Completeness of propositional dynamic logic with infinite repeating”, in P. Petkov (ed.), *Mathematical Logic*, New York: Plenum Press, 339–349.
+* Salwicki, A., 1970, “Formalized algorithmic languages”, *Bulletin de l’Academie Polonaise des Sciences, Serie des sciences mathematiques, astronomiques et physiques*, 18: 227–232.
+* Segerberg, K., 1977, “A completeness theorem in the modal logic of programs”, *Notices of the American Mathematical Society*, 24: 522.
+* Schneider, K., 2004, *Verification of Reactive Systems*, Berlin: Springer-Verlag.
+* Streett, R., 1982, “Propositional dynamic logic of looping and converse is elementary decidable”, *Information and Control*, 54: 121–141.
+* Vakarelov, D., 1983, “Filtration theorem for dynamic algebras with tests and inverse operator”, in A. Salwicki (ed.), *Logics of Programs and their Applications*, Berlin: Springer-Verlag, 314–324.
+* Vardi, M., 1985, “The Taming of Converse: Reasoning about Two-way Computations”, in *Lecture Notes in Computer Science* (Volume 193), Berlin-Heidelberg: Springer, 413–423.
+* –––, 1998, “Reasoning about the past with two-way automata”, in *Lecture Notes in Computer Science* (Volume 1443), Berlin-Heidelberg: Springer, 628–641.
+* Vardi, M., and Stockmeyer, L., 1985, “Improved Upper and Lower Bounds for Modal Logics of Programs: Preliminary Report”, in *Proceedings of the 17th Annual ACM Symposium on Theory of Computing*, New York, NY: ACM, 240–251.
+* Yanov, J., 1959, “On equivalence of operator schemes”, *Problems of Cybernetic*, 1: 1–100.
 
 ## Academic Tools
 
@@ -522,5 +520,5 @@ xR(α∩β)y 当且仅当 xR(α)y 和 xR(β)y。
 [computability and complexity](https://plato.stanford.edu/entries/computability/) | [computer science, philosophy of](https://plato.stanford.edu/entries/computer-science/) | [logic: action](https://plato.stanford.edu/entries/logic-action/) | [logic: and information](https://plato.stanford.edu/entries/logic-information/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [logic: temporal](https://plato.stanford.edu/entries/logic-temporal/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Nicolas Troquard](https://www.inf.unibz.it/\~ntroquard/) <[_nicolas.troquard@gssi.it_](mailto:nicolas%2etroquard%40gssi%2eit)>\
+[Nicolas Troquard](https://www.inf.unibz.it/\~ntroquard/) <[*nicolas.troquard@gssi.it*](mailto:nicolas%2etroquard%40gssi%2eit)>\
 [Philippe Balbiani](http://www.irit.fr/\~Philippe.Balbiani/)

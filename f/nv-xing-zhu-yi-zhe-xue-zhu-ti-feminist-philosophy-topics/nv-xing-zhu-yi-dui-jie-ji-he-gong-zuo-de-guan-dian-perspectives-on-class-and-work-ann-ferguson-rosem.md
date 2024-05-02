@@ -8,8 +8,6 @@
 
 在过去的 30 年中，已经有大量研究致力于女性和工作在全球劳动力分工转变的背景下（Ehrenreich and Hochschild 2004）。其中一些女性主义研究是基于联合国和其他政策制定机构提倡的发展观点（Chen et al. 2005），而另一些研究持更为批判的观点（Beneria 2003; Pyle and Ward 2007）。许多研究探讨了特定国家经济中性别劳动分工的变化（Freeman 1999; George 2005; Rofel; Sangster 1995），而其他研究考虑了跨国移民对女性阶级地位的影响（Pratt 2004; Romero 1992; Stephen 2007; Keogh 2015）以及女性跨阶级团结和基于草根的组织机会（Mohanty 2003）。更近期的女性主义研究探讨了工作重组及其对女性和性别文化的影响，作为新自由主义经济调整的结果（Adkins 2002; Enloe 2004; Federici 2008 [Other Internet Resources]; McRobbie 2002; Skeggs 2003）。
 
-
-
 ---
 
 ## 马克思主义、工作和人性

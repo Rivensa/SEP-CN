@@ -1,10 +1,9 @@
 # 加布里埃尔·马塞尔 Marcel, Gabriel (-Honoré) (Brian Treanor and Brendan Sweetman)
 
-_首次发表于2004年11月16日；实质性修订于2021年5月9日。_
+*首次发表于2004年11月16日；实质性修订于2021年5月9日。*
 
 加布里埃尔·马塞尔（1889-1973）是一位哲学家、戏剧评论家、剧作家和音乐家。他于 1929 年皈依天主教，他的哲学后来被描述为“基督教存在主义”（最著名的是让-保罗·萨特的《存在主义是一种人道主义》），这是一个他最初支持但后来否认的术语。除了他众多的哲学著作外，他还是大约 30 部戏剧作品的作者。马塞尔在 1949 年至 1950 年间在阿伯丁举办了吉福德讲座，这些讲座以两卷本《存在之谜》的形式出版，他还在 1961 年至 1962 年间在哈佛大学举办了威廉·詹姆斯讲座，这些讲座被整理并出版为《人的尊严的存在背景》。
 
- 
 ***
 
 ## 1. 传略
@@ -191,98 +190,98 @@ Thus, secondary reflection is one important aspect of our access to the self. It
 
 ## Bibliography
 
-Marcel was a very prolific writer, whose work ranges over philosophy, drama, criticism, and musical compositions. The following bibliography merely scratches the surface of his extensive oeuvre. More complete bibliographies can be found in: (1) Francois H. and Claire Lapointe (eds.), _Gabriel Marcel and His Critics: An International Bibliography (1928–1976)_, New York and London: Garland Publishing, 1977; (2) Paul Arthur Schilpp and Lewis Edwin Hahn (eds.), _The Philosophy of Gabriel Marcel_ (Library of Living Philosophers Volume 17), La Salle, IL: Open Court, 1984; and (3) K.R. Hanley (ed.), _Gabriel Marcel’s Perspectives on the Broken World_, Milwaukee, WI: Marquette University Press, 1998. The websites of the _Gabriel Marcel Society_, and of the new journal, _Marcel Studies_, are also valuable resources (see the Other Internet Resources section below).
+Marcel was a very prolific writer, whose work ranges over philosophy, drama, criticism, and musical compositions. The following bibliography merely scratches the surface of his extensive oeuvre. More complete bibliographies can be found in: (1) Francois H. and Claire Lapointe (eds.), *Gabriel Marcel and His Critics: An International Bibliography (1928–1976)*, New York and London: Garland Publishing, 1977; (2) Paul Arthur Schilpp and Lewis Edwin Hahn (eds.), *The Philosophy of Gabriel Marcel* (Library of Living Philosophers Volume 17), La Salle, IL: Open Court, 1984; and (3) K.R. Hanley (ed.), *Gabriel Marcel’s Perspectives on the Broken World*, Milwaukee, WI: Marquette University Press, 1998. The websites of the *Gabriel Marcel Society*, and of the new journal, *Marcel Studies*, are also valuable resources (see the Other Internet Resources section below).
 
 ### Primary Literature: Works by Marcel
 
-* 1949, _Being and Having_, translated by Katharine Farrer, Westminster, UK: Dacre Press.
-* 1950, “Theism and Personal Relationships,” _Cross Currents_, 1(1): 38-45.
-* 1951a, _The Mystery of Being_, vol.1, _Reflection and Mystery_, translated by G. S. Fraser, London: The Harvill Press.
-* 1951b, _The Mystery of Being_, vol.2, _Faith and Reality_, translated by René Hague, London: The Harvill Press.
-* 1952, _Metaphysical Journal_, translated by Bernard Wall, London: Rockliff.
-* 1960 (ed.), _Fresh Hope for the World: Moral Re-Armament in Action_, translated by Helen Hardringe, London: Longman, Green.
-* 1962a, _Homo Viator: Introduction to a Metaphysic of Hope_, translated by Emma Crawford, New York: Harper Torchbooks.
-* 1962b, _Man Against Mass Society_, translated by G. S. Fraser, Chicago: Henry Regnery Company.
-* 1963, _The Existential Background of Human Dignity_, Cambridge, MA: Harvard University Press.
-* 1964, _Creative Fidelity_, translated, with an introduction, by Robert Rosthal, New York: Farrar, Strauss and Company.
-* 1965, _Philosophical Fragments 1909–1914 and the Philosopher and Peace_, with an introduction by Lionel A. Blain, Notre Dame, IN: University of Notre Dame Press.
-* 1965, _Three Plays_, New York. Hill and Wang.
-* 1967, _Presence and Immortality_, translated by Michael A. Machado, Pittsburgh: Duquesne University Press.
-* 1967, _Problematic Man_, New York: Herder and Herder.
-* 1967, _Searchings_, New York: Paulist Newman Press.
-* 1973, _Tragic Wisdom and Beyond_, translated by Stephen Jolin and Peter McCormick, edited by John Wild, Evanston, IL: Northwestern University Press (Northwestern University Studies in Phenomenology and Existential Philosophy).
-* 1984, “An Autobiographical Essay,” in P. Schilpp and L. Hahn (eds.), _The Philosophy of Gabriel Marcel_, translated by Forrest Williams, La Salle, IL: Open Court. 3-68.
-* 1995, _The Philosophy of Existentialism_, translated by Manya Harari, New York: Citadel.
-* 2002, _Awakenings_ (Autobiography), translated by Peter S. Rogers, with an Introduction by Patrick Bourgeois, Milwaukee, WI: Marquette University Press.
-* 2007, _A Path to Peace: Dramatic Explorations_ (Five Plays), translated by K.R. Hanley, Milwaukee, WI. Marquette University Press
-* 2009, _Thou Shall Not Die_, selected by Anne Marcel, translated by K.R. Hanley, South Bend, IN: Saint Augustine’s Press.
+* 1949, *Being and Having*, translated by Katharine Farrer, Westminster, UK: Dacre Press.
+* 1950, “Theism and Personal Relationships,” *Cross Currents*, 1(1): 38-45.
+* 1951a, *The Mystery of Being*, vol.1, *Reflection and Mystery*, translated by G. S. Fraser, London: The Harvill Press.
+* 1951b, *The Mystery of Being*, vol.2, *Faith and Reality*, translated by René Hague, London: The Harvill Press.
+* 1952, *Metaphysical Journal*, translated by Bernard Wall, London: Rockliff.
+* 1960 (ed.), *Fresh Hope for the World: Moral Re-Armament in Action*, translated by Helen Hardringe, London: Longman, Green.
+* 1962a, *Homo Viator: Introduction to a Metaphysic of Hope*, translated by Emma Crawford, New York: Harper Torchbooks.
+* 1962b, *Man Against Mass Society*, translated by G. S. Fraser, Chicago: Henry Regnery Company.
+* 1963, *The Existential Background of Human Dignity*, Cambridge, MA: Harvard University Press.
+* 1964, *Creative Fidelity*, translated, with an introduction, by Robert Rosthal, New York: Farrar, Strauss and Company.
+* 1965, *Philosophical Fragments 1909–1914 and the Philosopher and Peace*, with an introduction by Lionel A. Blain, Notre Dame, IN: University of Notre Dame Press.
+* 1965, *Three Plays*, New York. Hill and Wang.
+* 1967, *Presence and Immortality*, translated by Michael A. Machado, Pittsburgh: Duquesne University Press.
+* 1967, *Problematic Man*, New York: Herder and Herder.
+* 1967, *Searchings*, New York: Paulist Newman Press.
+* 1973, *Tragic Wisdom and Beyond*, translated by Stephen Jolin and Peter McCormick, edited by John Wild, Evanston, IL: Northwestern University Press (Northwestern University Studies in Phenomenology and Existential Philosophy).
+* 1984, “An Autobiographical Essay,” in P. Schilpp and L. Hahn (eds.), *The Philosophy of Gabriel Marcel*, translated by Forrest Williams, La Salle, IL: Open Court. 3-68.
+* 1995, *The Philosophy of Existentialism*, translated by Manya Harari, New York: Citadel.
+* 2002, *Awakenings* (Autobiography), translated by Peter S. Rogers, with an Introduction by Patrick Bourgeois, Milwaukee, WI: Marquette University Press.
+* 2007, *A Path to Peace: Dramatic Explorations* (Five Plays), translated by K.R. Hanley, Milwaukee, WI. Marquette University Press
+* 2009, *Thou Shall Not Die*, selected by Anne Marcel, translated by K.R. Hanley, South Bend, IN: Saint Augustine’s Press.
 
 ### Secondary Literature
 
-* Applebaum, David, 1986. _Contact and Alienation, The Anatomy of Gabriel Marcel’s Metaphysical Method_, Washington, D.C.: University Press of America.
-* Anderson, Thomas C., 2006. _A Commentary on Gabriel Marcel’s_ The Mystery of Being. Milwaukee: WI, Marquette University Press
-* –––, 2006. “Gabriel Marcel on Personal Immortality,” in _American Catholic Philosophical Quarterly_, 80(3): 393–406.
-* –––, 1981. “Philosophy and the Experience of God according to Gabriel Marcel,” in _Proceedings of the Catholic Philosophical Association_, 55: 228–238.
-* –––, 1982. “The Experiential Paths to God in Kierkegaard and Marcel,” in _Philosophy Today_, XXVI: 22–40.
-* Bertocci, P.A., 1967-8. “Descartes and Marcel on the person and his body: A Critique,” _Proceedings of the Aristotelian Society_, LXVII: 207–226.
-* Blackham, H.J., 1952. _Six Existentialist Thinkers_, London: Routledge and Kegan Paul
-* Blain, L.A., 1969. “Marcel’s Logic of Freedom in Proving the Existence of God,” _International Philosophical Quarterly_, IX: 177–204.
-* Bourgeois, Patrick L., 2006. “Marcel and Ricoeur: Mystery and Hope at the Boundary of Reason in the Postmodern Situation,” _American Catholic Philosophical Quarterly_, 80(3): 421–433.
-* Busch, Thomas, 1987. _The Participant Perspective_: _A Gabriel Marcel Reader_, Lanham, MD: University Press of America.
-* Cain, Seymour, 1963. _Gabriel Marcel_, South Bend, IN: Regnery/Gateway.
-* –––, 1995. _Gabriel Marcel’s Theory of Religious Experience_, New York: Peter Lang Inc.
-* Cipriani, Gérald, 2004. “The Art of Renewal and Consideration: Marcelian Reflections,” _Revista Portuguesa de Filosofia_, 60(1): 167–175.
-* Engelland, Chad, 2004. “Marcel and Heidegger on the Proper Matter and Manner of Thinking,” _Philosophy Today_, 48(1): 94–109.
-* Flynn, Thomas R, 2006. “Toward the Concrete: Marcel As Existentialist,” _American Catholic Philosophical Quarterly_, 80(3): 355–367.
-* Franke, William, 2009. “Existentialism: An Athistic or a Christian Philosophy?” in _Analecta Husserliana: The Yearbook of Phenomenological Research_ (Volume CIII), Dordrecht: Springer.
-* Gallagher, Kenneth T., 1975. _The Philosophy of Gabriel Marcel_, New York: Fordham University Press.
-* Gilson, E., 1959. _Existentialisme Chretien: Gabriel Marcel_, Paris: Plon.
-* Godfrey J.J., 1987. _A Philosophy of Human Hope_, Dordrecht: Martinus Nijhoff.
-* Hanley, Katharine Rose, 2006. “A Journey to Consciousness: Gabriel Marcel’s Relevance for the Twenty-First-Century Classroom,” _American Catholic Philosophical Quarterly_, 80(3): 457–474.
-* ––– (ed.), 1998. _Gabriel Marcel’s Perspectives on The Broken World_, Milwaukee WI: Marquette University Press.
-* –––, 1987. _Dramatic Approaches to Creative Fidelity: A Study in the Theatre and Philosophy of Gabriel Marcel (1889–1973)_, Lanham, MD: University Press of America.
-* Hanratty, Gerald, 1976. “The Religious Philosophy of Gabriel Marcel,” _Heythrop Journal_, 17: 395–412.
-* Hocking W.E., 1954. “Marcel and the Ground Issues of Metaphysics,” _Philosophy and Phenomenological Research_, XIV: 439–469.
-* Howland, M.D., 1990. _The Gift of the Other: Gabriel Marcel’s Concept of Intersubjectivity in Walker Percy’s Novels_, Pittsburgh: Duquesne University Press
-* Hernandez, Jill Graper, 2013. _Gabriel Marcel’s Ethics of Hope: Evil, God and Virtue_, New York: Continuum Books.
-* Keen, Sam, 1967. _Gabriel Marcel_, Richmond, VA: John Knox Press.
+* Applebaum, David, 1986. *Contact and Alienation, The Anatomy of Gabriel Marcel’s Metaphysical Method*, Washington, D.C.: University Press of America.
+* Anderson, Thomas C., 2006. *A Commentary on Gabriel Marcel’s* The Mystery of Being. Milwaukee: WI, Marquette University Press
+* –––, 2006. “Gabriel Marcel on Personal Immortality,” in *American Catholic Philosophical Quarterly*, 80(3): 393–406.
+* –––, 1981. “Philosophy and the Experience of God according to Gabriel Marcel,” in *Proceedings of the Catholic Philosophical Association*, 55: 228–238.
+* –––, 1982. “The Experiential Paths to God in Kierkegaard and Marcel,” in *Philosophy Today*, XXVI: 22–40.
+* Bertocci, P.A., 1967-8. “Descartes and Marcel on the person and his body: A Critique,” *Proceedings of the Aristotelian Society*, LXVII: 207–226.
+* Blackham, H.J., 1952. *Six Existentialist Thinkers*, London: Routledge and Kegan Paul
+* Blain, L.A., 1969. “Marcel’s Logic of Freedom in Proving the Existence of God,” *International Philosophical Quarterly*, IX: 177–204.
+* Bourgeois, Patrick L., 2006. “Marcel and Ricoeur: Mystery and Hope at the Boundary of Reason in the Postmodern Situation,” *American Catholic Philosophical Quarterly*, 80(3): 421–433.
+* Busch, Thomas, 1987. *The Participant Perspective*: *A Gabriel Marcel Reader*, Lanham, MD: University Press of America.
+* Cain, Seymour, 1963. *Gabriel Marcel*, South Bend, IN: Regnery/Gateway.
+* –––, 1995. *Gabriel Marcel’s Theory of Religious Experience*, New York: Peter Lang Inc.
+* Cipriani, Gérald, 2004. “The Art of Renewal and Consideration: Marcelian Reflections,” *Revista Portuguesa de Filosofia*, 60(1): 167–175.
+* Engelland, Chad, 2004. “Marcel and Heidegger on the Proper Matter and Manner of Thinking,” *Philosophy Today*, 48(1): 94–109.
+* Flynn, Thomas R, 2006. “Toward the Concrete: Marcel As Existentialist,” *American Catholic Philosophical Quarterly*, 80(3): 355–367.
+* Franke, William, 2009. “Existentialism: An Athistic or a Christian Philosophy?” in *Analecta Husserliana: The Yearbook of Phenomenological Research* (Volume CIII), Dordrecht: Springer.
+* Gallagher, Kenneth T., 1975. *The Philosophy of Gabriel Marcel*, New York: Fordham University Press.
+* Gilson, E., 1959. *Existentialisme Chretien: Gabriel Marcel*, Paris: Plon.
+* Godfrey J.J., 1987. *A Philosophy of Human Hope*, Dordrecht: Martinus Nijhoff.
+* Hanley, Katharine Rose, 2006. “A Journey to Consciousness: Gabriel Marcel’s Relevance for the Twenty-First-Century Classroom,” *American Catholic Philosophical Quarterly*, 80(3): 457–474.
+* ––– (ed.), 1998. *Gabriel Marcel’s Perspectives on The Broken World*, Milwaukee WI: Marquette University Press.
+* –––, 1987. *Dramatic Approaches to Creative Fidelity: A Study in the Theatre and Philosophy of Gabriel Marcel (1889–1973)*, Lanham, MD: University Press of America.
+* Hanratty, Gerald, 1976. “The Religious Philosophy of Gabriel Marcel,” *Heythrop Journal*, 17: 395–412.
+* Hocking W.E., 1954. “Marcel and the Ground Issues of Metaphysics,” *Philosophy and Phenomenological Research*, XIV: 439–469.
+* Howland, M.D., 1990. *The Gift of the Other: Gabriel Marcel’s Concept of Intersubjectivity in Walker Percy’s Novels*, Pittsburgh: Duquesne University Press
+* Hernandez, Jill Graper, 2013. *Gabriel Marcel’s Ethics of Hope: Evil, God and Virtue*, New York: Continuum Books.
+* Keen, Sam, 1967. *Gabriel Marcel*, Richmond, VA: John Knox Press.
 * –––, 1984. “The Development of the Idea of Being,” in Schilpp and Hahn (eds.) 1984.
-* Kruks, Sonia, 1990. _Situation and Human Existence_, London: Unwin.
-* Lazaron, Hilda, 1998. _Gabriel Marcel: The Dramatist_, London: Colin Smythe.
-* Lechner, Robert, 1984. “Marcel as Radical Empiricist,” in P. Schilpp and L. Hahn (eds.), _The Philosophy of Gabriel Marcel_, La Salle, IL: Open Court, 457–469.
-* ––– (ed.), 1975. “Gabriel Marcel,” Special Issue of _Philosophy Today_, Volume XIX.
-* Malagon, Anthony, 2016. “The Existential Approach to God in Kierkegaard and Marcel: A Conciliatory Study,” _Marcel Studies_, 1(1): 1–23.
-* Marcus, Paul, 2012. _In Search of the Spiritual: Gabriel Marcel, Psychoanalysis and the Sacred_, London: Karnac Books
-* Michaud, Thomas, 1984. “Secondary Reflection and Marcelian Anthropology,” _Philosophy Today_, 34: 222–228.
-* –––, 1995. ed. “Gabriel Marcel and the Postmodern World,” Special Issue of _Bulletin de la Société Américaine de Philosophie de Langue Française_, Volume VII.
-* –––, 2006. “Gabriel Marcel’s Politics: Theory and Practice,” _American Catholic Philosophical Quarterly_, 80(3): 435–455.
-* Moran, D, 1992. _Gabriel Marcel_, Lanham, MD. University Press of America.
-* O’Malley, J.B., 1966. _The Fellowship of Being: An Essay on the concept of the person in the philosophy of Gabriel Marcel_, The Hague: Martinus Nijhoff.
-* Novak, Michael, 2006. “Marcel at Harvard,” _American Catholic Philosophical Quarterly_, 80(3): 337–341.
-* Ojara, Pius and Patrick Madigan, 2004. _Marcel, Girad, Bakhtin: The Return of Conversion_, New York: Peter Lang.
-* Oyler D., 1979. “Proofs for the Existence of God in Marcel’s Philosophy,” _Modern Schoolman_, 56: 217–235.
-* Pax, Clyde, 1972. _An Existentialist Approach to God: A Study of Gabriel Marcel_, The Hague: Martinus Nijhoff.
-* –––, 1975. “Marcel’s Way of Creative Fidelity,” _Philosophy Today_, 19 (Spring): 12–25.
-* Peccorini, Francisco L., 1987. _Selfhood as Thinking Thought in the Work of Gabriel Marcel: A New Interpretation_, Lewiston, NY: The Edwin Mellen Press.
-* Plourde, Simone, 2005. “Gabriel Marcel and the Mystery of Suffering,” _Anuario Filosofico_, 38(2): 575–596.
-* Popper, Hans, 2004. “Gabriel Marcel’s ‘Essai de philosophie concrète’ in Its Historical Context,” _Appraisal_, 5(1): 9–24.
-* Randall, Albert B., 1992. _The Mystery of Hope in the Philosophy of Gabriel Marcel_, Lewiston, NY: The Edwin Mellen Press.
-* Reed, Teresa., 2003. “Aspects of Marcel’s Essays,” in _Renascence_, 55(3): 211–227.
-* Redpath, Peter A., 2006. “Gabriel Marcel and the Recovery of Philosophy in Our Time,” in _American Catholic Philosophical Quarterly_, 80(3): 343–353.
-* Rodick, David., 2017. _Gabriel Marcel and American Philosophy_. Lanham, MD.: Lexington.&#x20;
-* Schilpp, Paul A. and Hahn, Lewis E. (eds.), 1984. _The Philosophy of Gabriel Marcel_, La Salle, IL: Open Court.
-* Sweetman, Brendan 2008. _The Vision of Gabriel Marcel: Epistemology, Human Person, the Transcendent_, New York: Rodopi Press.
-* –––, Maria Traub & Geoffrey Karabin (eds.), 2019. _The Invisible Threshold: Two Plays by Gabriel Marcel_, South Bend, IN: St. Augustine’s Press.
-* ––– (ed.), 2011. _A Gabriel Marcel Reader_, South Bend, IN: St. Augustine’s Press.
-* –––, 2006. “Marcel on God and Religious Experience, and the Critique of Alston and Hick,” _American Catholic Philosophical Quarterly_, 80(3): 407–420.
-* –––, 2003. “Marcel and Phenomenology: Can Literature Help Philosophy?,” _Renascence_, 55(3): 179–192.
-* –––, 2001. “Martin Buber’s Epistemology,” _International Philosophical Quarterly_, 61(2): 145–160.
-* Tattam, Helen, 2013. _Time in the Philosophy of Gabriel Marcel_, London. Modern Humanities Research Association
-* Tobin, Theresa, 2010. “Toward an Epistemology of Mysticism: Knowing God as Mystery,” _International Philosophical Quarterly_, 50(2): 221–241.
-* Traub, Donald F., 1988. _Toward a Fraternal Society: A Study of Gabriel Marcel’s Approach to Being Technology and Intersubjectivity_, New York, NY: Peter Lang.
-* Treanor, Brian, 2006. “Constellations: Gabriel Marcel’s Philosophy of Relative Otherness,” _American Catholic Philosophical Quarterly_, 80(3): 369–392.
-* –––, 2006. _Aspects of Alterity: Levinas, Marcel, and the Contemporary Debate_, New York: Fordham University Press.
-* Tunstall, Dwayne, 2013. _Doing Philosophy Personally: Thinking about Metaphysics, Theism and Antiblack Racism_, New York: Fordham University Press
+* Kruks, Sonia, 1990. *Situation and Human Existence*, London: Unwin.
+* Lazaron, Hilda, 1998. *Gabriel Marcel: The Dramatist*, London: Colin Smythe.
+* Lechner, Robert, 1984. “Marcel as Radical Empiricist,” in P. Schilpp and L. Hahn (eds.), *The Philosophy of Gabriel Marcel*, La Salle, IL: Open Court, 457–469.
+* ––– (ed.), 1975. “Gabriel Marcel,” Special Issue of *Philosophy Today*, Volume XIX.
+* Malagon, Anthony, 2016. “The Existential Approach to God in Kierkegaard and Marcel: A Conciliatory Study,” *Marcel Studies*, 1(1): 1–23.
+* Marcus, Paul, 2012. *In Search of the Spiritual: Gabriel Marcel, Psychoanalysis and the Sacred*, London: Karnac Books
+* Michaud, Thomas, 1984. “Secondary Reflection and Marcelian Anthropology,” *Philosophy Today*, 34: 222–228.
+* –––, 1995. ed. “Gabriel Marcel and the Postmodern World,” Special Issue of *Bulletin de la Société Américaine de Philosophie de Langue Française*, Volume VII.
+* –––, 2006. “Gabriel Marcel’s Politics: Theory and Practice,” *American Catholic Philosophical Quarterly*, 80(3): 435–455.
+* Moran, D, 1992. *Gabriel Marcel*, Lanham, MD. University Press of America.
+* O’Malley, J.B., 1966. *The Fellowship of Being: An Essay on the concept of the person in the philosophy of Gabriel Marcel*, The Hague: Martinus Nijhoff.
+* Novak, Michael, 2006. “Marcel at Harvard,” *American Catholic Philosophical Quarterly*, 80(3): 337–341.
+* Ojara, Pius and Patrick Madigan, 2004. *Marcel, Girad, Bakhtin: The Return of Conversion*, New York: Peter Lang.
+* Oyler D., 1979. “Proofs for the Existence of God in Marcel’s Philosophy,” *Modern Schoolman*, 56: 217–235.
+* Pax, Clyde, 1972. *An Existentialist Approach to God: A Study of Gabriel Marcel*, The Hague: Martinus Nijhoff.
+* –––, 1975. “Marcel’s Way of Creative Fidelity,” *Philosophy Today*, 19 (Spring): 12–25.
+* Peccorini, Francisco L., 1987. *Selfhood as Thinking Thought in the Work of Gabriel Marcel: A New Interpretation*, Lewiston, NY: The Edwin Mellen Press.
+* Plourde, Simone, 2005. “Gabriel Marcel and the Mystery of Suffering,” *Anuario Filosofico*, 38(2): 575–596.
+* Popper, Hans, 2004. “Gabriel Marcel’s ‘Essai de philosophie concrète’ in Its Historical Context,” *Appraisal*, 5(1): 9–24.
+* Randall, Albert B., 1992. *The Mystery of Hope in the Philosophy of Gabriel Marcel*, Lewiston, NY: The Edwin Mellen Press.
+* Reed, Teresa., 2003. “Aspects of Marcel’s Essays,” in *Renascence*, 55(3): 211–227.
+* Redpath, Peter A., 2006. “Gabriel Marcel and the Recovery of Philosophy in Our Time,” in *American Catholic Philosophical Quarterly*, 80(3): 343–353.
+* Rodick, David., 2017. *Gabriel Marcel and American Philosophy*. Lanham, MD.: Lexington.&#x20;
+* Schilpp, Paul A. and Hahn, Lewis E. (eds.), 1984. *The Philosophy of Gabriel Marcel*, La Salle, IL: Open Court.
+* Sweetman, Brendan 2008. *The Vision of Gabriel Marcel: Epistemology, Human Person, the Transcendent*, New York: Rodopi Press.
+* –––, Maria Traub & Geoffrey Karabin (eds.), 2019. *The Invisible Threshold: Two Plays by Gabriel Marcel*, South Bend, IN: St. Augustine’s Press.
+* ––– (ed.), 2011. *A Gabriel Marcel Reader*, South Bend, IN: St. Augustine’s Press.
+* –––, 2006. “Marcel on God and Religious Experience, and the Critique of Alston and Hick,” *American Catholic Philosophical Quarterly*, 80(3): 407–420.
+* –––, 2003. “Marcel and Phenomenology: Can Literature Help Philosophy?,” *Renascence*, 55(3): 179–192.
+* –––, 2001. “Martin Buber’s Epistemology,” *International Philosophical Quarterly*, 61(2): 145–160.
+* Tattam, Helen, 2013. *Time in the Philosophy of Gabriel Marcel*, London. Modern Humanities Research Association
+* Tobin, Theresa, 2010. “Toward an Epistemology of Mysticism: Knowing God as Mystery,” *International Philosophical Quarterly*, 50(2): 221–241.
+* Traub, Donald F., 1988. *Toward a Fraternal Society: A Study of Gabriel Marcel’s Approach to Being Technology and Intersubjectivity*, New York, NY: Peter Lang.
+* Treanor, Brian, 2006. “Constellations: Gabriel Marcel’s Philosophy of Relative Otherness,” *American Catholic Philosophical Quarterly*, 80(3): 369–392.
+* –––, 2006. *Aspects of Alterity: Levinas, Marcel, and the Contemporary Debate*, New York: Fordham University Press.
+* Tunstall, Dwayne, 2013. *Doing Philosophy Personally: Thinking about Metaphysics, Theism and Antiblack Racism*, New York: Fordham University Press
 
 ## Academic Tools
 
@@ -303,4 +302,4 @@ Marcel was a very prolific writer, whose work ranges over philosophy, drama, cri
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
 [Brian Treanor](http://faculty.lmu.edu/briantreanor/)\
-[Brendan Sweetman](http://www.rockhurst.edu/directory/faculty/brendan-sweetman/) <[_brendan.sweetman@rockhurst.edu_](mailto:brendan%2esweetman%40rockhurst%2eedu)>
+[Brendan Sweetman](http://www.rockhurst.edu/directory/faculty/brendan-sweetman/) <[*brendan.sweetman@rockhurst.edu*](mailto:brendan%2esweetman%40rockhurst%2eedu)>

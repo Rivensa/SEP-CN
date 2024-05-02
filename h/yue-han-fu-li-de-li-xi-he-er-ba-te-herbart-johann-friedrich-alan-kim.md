@@ -1,14 +1,12 @@
 # 约翰·弗里德里希·赫尔巴特 Herbart, Johann Friedrich (Alan Kim)
 
-_首次发表于 2015 年 12 月 8 日星期二_
+*首次发表于 2015 年 12 月 8 日星期二*
 
 ![a picture of Johann Friedrich Herbart](https://plato.stanford.edu/entries/johann-herbart/herbart.png)
 
 约翰·弗里德里希·赫尔巴特（1776-1841）今天主要以现代心理学和教育理论的奠基人而闻名。但这只是他更宏大哲学项目的一部分，他的同时代人将他视为一流哲学家。即使在他自己的时代，赫尔巴特对学术哲学的直接影响有限，但这既与学科边界的转变有关，也与他对德国唯心主义者的抨击有关。然而，在心理学和教育学领域，他的影响更为深远和持久。尽管没有人完全继承了他的哲学或心理学（尤其是晦涩的数学），但他思想的某些方面被证明是极其富有成效的。事实上，没有赫尔巴特，现代心理学和哲学的格局将是无法辨认的。
 
 尽管他对心灵的数学化被证明是一条死胡同，但它鼓励了像费希纳这样的早期实验者将数学应用于心灵。他对空间的解释对赫尔姆霍兹的视知觉经验理论和纳托普的康德时间空间直觉“逻辑化”产生了重要影响。赫尔巴特反对心理学能力的论点被温特接受，他对门槛和“潜意识”的概念对弗洛伊德的精神分析理论至关重要。在哲学方面，赫尔巴特预见了现象学的关键思想，如布伦塔诺对心理现象的概念，他关于表象力、门槛和再现的观念在胡塞尔的现象学中得到了积极的认可和发展。最后，无论是心理学还是哲学的最新研究都在重新发现赫尔巴特。例如，博德温斯等人不仅论证了赫尔巴特的心理机械学的当代相关性，而且认为这一观点得到了实验证实。贝泽尔对新康德主义早期历史的重要贡献揭示了赫尔巴特作为康德的激进和重要解释者。
-
- 
 
 ***
 
@@ -430,7 +428,7 @@ arr′r′′r′′′...r(n)bRR′R′′...R(n−1)cρρ′...ρ(n−2)dr...r
 
 换句话说，从其“内容”中抽象出来，自我并不存在：
 
-> _它是一个点，只有当无数的\[表征]序列指向它时，它才存在并且可以被表示，即作为它们的共同前提。_
+> *它是一个点，只有当无数的\[表征]序列指向它时，它才存在并且可以被表示，即作为它们的共同前提。*
 
 或锚点（SW VI: 168）。它仅仅是一个概念性的参照点，所有表征系列的共同节点（SW VI: 168）。
 
@@ -580,105 +578,105 @@ The concepts we use to think these elemental relations Herbart calls “paradigm
 
 ### Abbreviations
 
-* AP_Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet_ \[_General Theory of Education, Derived from the Purpose of Child-rearing_], Herbart 1806, SW II: 1–139.
-* LEP_Lehrbuch zur Einleitung in die Philosophie_ \[_Introductory Textbook of Philosophy_], Herbart 1813, etc., SW IV: 1–275.
-* LPs_Lehrbuch der Psychologie_ \[_Textbook of Psychology_], Herbart 1816, etc., SW IV: 295–436.
-* LPs (1850)_Lehrbuch zur Psychologie_, 2nd ed. (=1834; = SW IV: 369–436 \[see LPs]). Reprinted in Vol. I of _Herbarts Schriften zur Psychologie_, G. Hartenstein (ed.), Leipzig: Voss.
-* PS_Johann Friedrich Herbarts Pädagogische Schriften. Mit Einleitungen\[,] Anmerkungen und Registern sowie reichem bisher ungedruckten Material aus Herbarts Nachlaß_ \[_Johann Friedrich Herbart’s Pedagogical Writings: With Introductions, Notes, and Indices, as well as a Wealth of Hitherto Unprinted Material_], three volumes (1913; 1914; 1919), O. Willmann and T. Fritzsch (eds.), Osterwieck/Harz & Leipzig: Zickfeldt.
-* PsW_Psychologie als Wissenschaft_ \[_Psychology as a Science_], Herbart 1968 (1850) only (corresponds to SW V).
-* SW_Johann Friedrich Herbart’s_ \[_sic_] _Sämmtliche Werke_ \[_J.F. Herbart’s Complete Works_], G. Hartenstein (ed.), Leipzig 1906: Voss.
+* AP_Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet_ \[*General Theory of Education, Derived from the Purpose of Child-rearing*], Herbart 1806, SW II: 1–139.
+* LEP_Lehrbuch zur Einleitung in die Philosophie_ \[*Introductory Textbook of Philosophy*], Herbart 1813, etc., SW IV: 1–275.
+* LPs_Lehrbuch der Psychologie_ \[*Textbook of Psychology*], Herbart 1816, etc., SW IV: 295–436.
+* LPs (1850)*Lehrbuch zur Psychologie*, 2nd ed. (=1834; = SW IV: 369–436 \[see LPs]). Reprinted in Vol. I of *Herbarts Schriften zur Psychologie*, G. Hartenstein (ed.), Leipzig: Voss.
+* PS_Johann Friedrich Herbarts Pädagogische Schriften. Mit Einleitungen\[,] Anmerkungen und Registern sowie reichem bisher ungedruckten Material aus Herbarts Nachlaß_ \[*Johann Friedrich Herbart’s Pedagogical Writings: With Introductions, Notes, and Indices, as well as a Wealth of Hitherto Unprinted Material*], three volumes (1913; 1914; 1919), O. Willmann and T. Fritzsch (eds.), Osterwieck/Harz & Leipzig: Zickfeldt.
+* PsW_Psychologie als Wissenschaft_ \[*Psychology as a Science*], Herbart 1968 (1850) only (corresponds to SW V).
+* SW_Johann Friedrich Herbart’s_ \[*sic*] *Sämmtliche Werke* \[*J.F. Herbart’s Complete Works*], G. Hartenstein (ed.), Leipzig 1906: Voss.
 
 ### Editions of Herbart’s works
 
-* 11851, 21886, _Johann Friedrich Herbart’s_ \[_sic_] _Sämmtliche Werke_ (_J.F. Herbart’s Complete Works_), G. Hartenstein (ed.), Leipzig: Voss.
-* 1906, _Johann Friedrich Herbart’s_ \[_sic_] _Sämtliche Werke in chronologischer Reihenfolge_ (_J.F. Herbart’s Complete Works in Chronological Order_), K. Kehrbach and O. Flügel, (eds.), 19 vols., Langensalza: Beyer.
+* 11851, 21886, *Johann Friedrich Herbart’s* \[*sic*] *Sämmtliche Werke* (*J.F. Herbart’s Complete Works*), G. Hartenstein (ed.), Leipzig: Voss.
+* 1906, *Johann Friedrich Herbart’s* \[*sic*] *Sämtliche Werke in chronologischer Reihenfolge* (*J.F. Herbart’s Complete Works in Chronological Order*), K. Kehrbach and O. Flügel, (eds.), 19 vols., Langensalza: Beyer.
 
 The entirety of SW is available through the HathiTrust Digital Library at: [http://catalog.hathitrust.org/Record/005758671](http://catalog.hathitrust.org/Record/005758671)
 
 ### Herbart’s writings
 
-* 1804a, “Pestalozzi’s \[_sic_] Idee eines A B C der Anschauung”, SW I: 151–274.
+* 1804a, “Pestalozzi’s \[*sic*] Idee eines A B C der Anschauung”, SW I: 151–274.
 * 1804b, “Über die ästhetische Darstellung der Welt als das Hauptgeschäft der Erziehung”, in 1804a, pp. 259–74.
-* 1806, _Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet_, SW II: 1–139.
-* 1806b, _Hauptpuncte der Metaphysik_, Göttingen: Baier (1806); reprinted, Göttingen: Danckwerts, 1808. In SW II, 175-226.
-* 1807, _Über philosophisches Studium_, SW II: 227–96.
-* 1808, _Allgemeine practische Philosophie_, Göttingen: Danckwerts.
+* 1806, *Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet*, SW II: 1–139.
+* 1806b, *Hauptpuncte der Metaphysik*, Göttingen: Baier (1806); reprinted, Göttingen: Danckwerts, 1808. In SW II, 175-226.
+* 1807, *Über philosophisches Studium*, SW II: 227–96.
+* 1808, *Allgemeine practische Philosophie*, Göttingen: Danckwerts.
 * 1811, “Psychologische Bemerkungen zur Tonlehre” (Psychological Remarks on the Doctrine of Tones), SW III: 96–118.
-* 11813, 21821, 31834, 41837, 51891, _Lehrbuch zur Einleitung in die Philosophie_ \[_Introductory Textbook of Philosophy_], SW IV: 1–275. See 1993.
+* 11813, 21821, 31834, 41837, 51891, *Lehrbuch zur Einleitung in die Philosophie* \[*Introductory Textbook of Philosophy*], SW IV: 1–275. See 1993.
 * 1814, “Bemerkungen über einen pädagogischen Aufsatz” (Remarks on a pedagogical essay \[Lecture]). In Herbart 1851: 378–87.
-* 11816, 21834. _Lehrbuch der Psychologie_ \[_Textbook of Psychology_]. SW IV: 295–436.
+* 11816, 21834. *Lehrbuch der Psychologie* \[*Textbook of Psychology*]. SW IV: 295–436.
 * 1819, “Erste Vorlesung über die practische Philosophie im Sommer 1819” (“First Lecture on practical philosophy in the summer of 1819”). SW V: 3–10.
 * 1822, “Ueber die Moeglichkeit und Nothwendigkeit, Mathematik auf Psychologie anzuwenden” (“On the Possibility and Necessity of Applying Mathematics to Psychology”). SW V: 91–122.
-* 1824, _Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Erster, synthetischer Teil._ (_Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; First, Synthetic Part_). SW V: 177-402.\[[79](https://plato.stanford.edu/entries/johann-herbart/notes.html#note-79)]
-* 1825, _Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Zweiter, analytischer Teil._ (_Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; Second, Synthetic Part_). SW VI: 1–338.
-* 1828, _Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Erster historisch-kritischer Teil._ (_General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: First, Historico-critical Part_). SW VII.
-* 1829, _Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Zweiter, synthetischer Teil._ (_General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: Second, Synthetic Part_). SW VIII.
-* 1831a, _Kurze Encyklopädie der Philosophie_. (_Concise Encyclopedia of Philosophy_). SW IX, 17–338.
-* 1831b, _Briefe über die Anwendung der Psychologie auf die Pädagogik_. (_Letters Concerning the Application of Psychology to Pedagogy_). SW IX: 339–462.
+* 1824, *Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Erster, synthetischer Teil.* (*Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; First, Synthetic Part*). SW V: 177-402.\[[79](https://plato.stanford.edu/entries/johann-herbart/notes.html#note-79)]
+* 1825, *Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Zweiter, analytischer Teil.* (*Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; Second, Synthetic Part*). SW VI: 1–338.
+* 1828, *Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Erster historisch-kritischer Teil.* (*General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: First, Historico-critical Part*). SW VII.
+* 1829, *Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Zweiter, synthetischer Teil.* (*General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: Second, Synthetic Part*). SW VIII.
+* 1831a, *Kurze Encyklopädie der Philosophie*. (*Concise Encyclopedia of Philosophy*). SW IX, 17–338.
+* 1831b, *Briefe über die Anwendung der Psychologie auf die Pädagogik*. (*Letters Concerning the Application of Psychology to Pedagogy*). SW IX: 339–462.
 * 1838, “Erinnerung an die Göttingsche Katastrophe 1837”. SW XI, 27–44.
-* 1839a, _Psychologische Untersuchungen_ (I). (_Psychological Investigations_ I). SW XI: 45–176.
+* 1839a, *Psychologische Untersuchungen* (I). (*Psychological Investigations* I). SW XI: 45–176.
 * 1839b, “Ueber die Wichtigkeit der Lehre von den Verhältnissen der Töne, und vom Zeitmaasse, für die gesammte Psychologie”, (“On the Importance for all Psychology of the Doctrine of Tonal Relations and of the Measurement of Time”) in 1839a, 50–69.
-* 1840a, _Psychologische Untersuchungen_ (II). (_Psychological Investigations_ II). SW XI, 177–343.
-* 1840b, “Ueber Analogien, in Bezug auf das Fundament der Psychologie”, (_On Analogies, with Respect to the Foundation of Psychology_). First essay of 1840a, 185–202.
-* 1850, _Lehrbuch zur Psychologie_ (_Textbook of Psychology_), 2nd ed. (=21834; \[see 1816, above]). Reprinted in Vol. I of _Herbarts Schriften zur Psychologie_. Hartenstein, G. (ed.). Leipzig: Voss. All references to this edition will be cited as “LPs (1850)”. It is available online at: [http://catalog.hathitrust.org/Record/008918764](http://catalog.hathitrust.org/Record/008918764)
-* 1851, _Schriften zur Pädagogik_ (_Writings on Pedagogy_), Part II. Vol. XI of Hartenstein’s edition of Herbart’s complete works; see “Editions”, above.
-* 1878, _Kleinere pädagogische Schriften, Reden und Abhandlungen_. (_Shorter Pedagogical Writings, Speeches, and Papers_). Richter, K., ed. Leipzig: Siegismund & Volkening.
-* 1887a, _Johann Friedrich Herbart’s_ \[_sic_] _Pädagogische Schriften, mit Herbart’s Biographie_. 4th ed. Bartholomäi, F., ed. Vol. I. Langensalza: Beyer.
-* 1887b, _Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet_ (_General Theory of Education, Derived from the Purpose of Child-rearing_), in 1887a: 1–148 (= 1806, SW II).
-* 1891, _A Textbook in Psychology_ \[English translation of LPs (1816)]. M.K. Smith (trans.), New York: Appleton.
-* 1906a, “Bruchstücke des dritten Heftes”. (“Fragments of the third volume” \[sc. of _Psychologische Untersuchungen_, I, II {1839, 1840, above}]). SW XI, 345–81.
+* 1840a, *Psychologische Untersuchungen* (II). (*Psychological Investigations* II). SW XI, 177–343.
+* 1840b, “Ueber Analogien, in Bezug auf das Fundament der Psychologie”, (*On Analogies, with Respect to the Foundation of Psychology*). First essay of 1840a, 185–202.
+* 1850, *Lehrbuch zur Psychologie* (*Textbook of Psychology*), 2nd ed. (=21834; \[see 1816, above]). Reprinted in Vol. I of *Herbarts Schriften zur Psychologie*. Hartenstein, G. (ed.). Leipzig: Voss. All references to this edition will be cited as “LPs (1850)”. It is available online at: [http://catalog.hathitrust.org/Record/008918764](http://catalog.hathitrust.org/Record/008918764)
+* 1851, *Schriften zur Pädagogik* (*Writings on Pedagogy*), Part II. Vol. XI of Hartenstein’s edition of Herbart’s complete works; see “Editions”, above.
+* 1878, *Kleinere pädagogische Schriften, Reden und Abhandlungen*. (*Shorter Pedagogical Writings, Speeches, and Papers*). Richter, K., ed. Leipzig: Siegismund & Volkening.
+* 1887a, *Johann Friedrich Herbart’s* \[*sic*] *Pädagogische Schriften, mit Herbart’s Biographie*. 4th ed. Bartholomäi, F., ed. Vol. I. Langensalza: Beyer.
+* 1887b, *Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet* (*General Theory of Education, Derived from the Purpose of Child-rearing*), in 1887a: 1–148 (= 1806, SW II).
+* 1891, *A Textbook in Psychology* \[English translation of LPs (1816)]. M.K. Smith (trans.), New York: Appleton.
+* 1906a, “Bruchstücke des dritten Heftes”. (“Fragments of the third volume” \[sc. of *Psychologische Untersuchungen*, I, II {1839, 1840, above}]). SW XI, 345–81.
 * 1906b, “Zur Lehre von der Apperception”. (“On the doctrine of apperception”). In 1906a: 371–3.
 * 1906c, “Aphorismen zur Psychologie”. SW XI, 383–432.
-* 1913, 1914, 1919, _Johann Friedrich Herbarts Pädagogische Schriften._ _Mit Einleitungen\[,] Anmerkungen und Registern sowie reichem bisher ungedruckten Material aus Herbarts Nachlaß_ (_Johann Friedrich Herbart’s Pedagogical Writings: With Introductions, Notes, and Indices, as well as a Wealth of Hitherto Unprinted Material_), three volumes, O. Willmann and T. Fritzsch (eds.), Osterwieck/Harz & Leipzig: Zickfeldt.
-* 1968, _Psychologie als Wissenschaft_, \[_usw._]. _Erster … Teil_. (_Psychology as Science: Newly Founded, etc.; First, Synthetic Part_). Reprint of the 1850 edition of Herbart 1824, above (= SW V: 177–434). Amsterdam: Bonset. References to this edition abbreviated as _PsW_.
-* 1993, _Lehrbuch zur Einleitung in die Philosophie_. (_Introductory Textbook of Philosophy_). W. Henckmann (ed.), Hamburg: Meiner (reprint of LEP).
+* 1913, 1914, 1919, *Johann Friedrich Herbarts Pädagogische Schriften.* *Mit Einleitungen\[,] Anmerkungen und Registern sowie reichem bisher ungedruckten Material aus Herbarts Nachlaß* (*Johann Friedrich Herbart’s Pedagogical Writings: With Introductions, Notes, and Indices, as well as a Wealth of Hitherto Unprinted Material*), three volumes, O. Willmann and T. Fritzsch (eds.), Osterwieck/Harz & Leipzig: Zickfeldt.
+* 1968, *Psychologie als Wissenschaft*, \[*usw.*]. *Erster … Teil*. (*Psychology as Science: Newly Founded, etc.; First, Synthetic Part*). Reprint of the 1850 edition of Herbart 1824, above (= SW V: 177–434). Amsterdam: Bonset. References to this edition abbreviated as *PsW*.
+* 1993, *Lehrbuch zur Einleitung in die Philosophie*. (*Introductory Textbook of Philosophy*). W. Henckmann (ed.), Hamburg: Meiner (reprint of LEP).
 
 ### Other works
 
-* Askay, R. and J. Farquhar, 2006, _Apprehending the Inaccessible: Freudian Psychoanalysis and Existential Phenomenology_, Evanston: Northwestern University Press.
-* Asmus, W., 1968–70, _Johann Friedrich Herbart: Eine pädagogische Biographie_, two volumes, Heidelberg: Quelle & Meyer.
-* Banks, E.C., 2005, “Kant, Herbart and Riemann”, _Kant-Studien_ 96(2): 208–34. \[[Banks 2005 available online](http://philpapers.org/archive/BANKHA.pdf)]
-* Beiser, F.C., 2014, _The Genesis of Neo-Kantianism, 1796–1880_, Oxford: Oxford University Press, (see esp. Ch. 2, “Johann Friedrich Herbart, Neo-Kantian Metaphysician”).
-* Boring, E.G., 1950, _A History of Experimental Psychology_, New York: Appleton-Century-Crofts, 2nd ed.
-* Boudewijnse, G.-J.A., D.J. Murray, and C.A. Bandomir, 1999, “Herbart’s mathematical psychology”, _History of Psychology_, 2(3): 163–93.
-* –––, 2001, “The fate of Herbart’s mathematical psychology”, _History of Psychology_, 4(2): 107–32.
-* Diriwächter, R., 2013, “Structure and Hierarchies in _Ganzheitspsychologie_”, in Rudolph 2013: 189–226.
-* Dunkel, H.B., 1970, _Herbart and Herbartism: An Educational Ghost Story_, Chicago: University of Chicago Press.
-* Felsch, C., 1902, “Die Psychologie bei Herbart und Wundt mit Berücksichtigung der von Ziehen gegen die Herbartsche Psychologie gemachten Einwendungen \[Psychology in Herbart and Wundt, with Consideration of Ziehen’s Objections to Herbartian Psychology]”, _Zeitschrift für Philosophie und Pädagogik_, 9: 1–33.
-* –––, 1904, _Die Hauptpunkte der Psychologie mit Berücksichtigung der Pädagogik und einiger Verhältnisse des gesellschaftlichen Lebens_ \[_The Main Points of Psychology with Respect to Pedagogy and Certain Relationships of Social Life_], Cöthen: Schulze.
-* Flügel, O., 1905, _J.F. Herbart_, Leipzig: Weicher.
-* Glöckner, J.G., 1892, “Die formalen Stufen bei Herbart und seiner Schule \[The Formal Stages in Herbart and His School]”, in _Jahrbuch des Vereins für wissenschaftliche Pädagogik_, 24:184–279.
-* Gockler, L., 1905, _La pédagogie de Herbart_ \[_Herbart’s Pedagogy_], Paris: Hachette.
-* Guyer, P., 1987, _Kant and the Claims of Knowledge_, Cambridge: Cambridge University Press.
-* Hayward, F.H., 1907, _The Secret of Herbart: An Essay on the Science of Education_, London: Watts.
+* Askay, R. and J. Farquhar, 2006, *Apprehending the Inaccessible: Freudian Psychoanalysis and Existential Phenomenology*, Evanston: Northwestern University Press.
+* Asmus, W., 1968–70, *Johann Friedrich Herbart: Eine pädagogische Biographie*, two volumes, Heidelberg: Quelle & Meyer.
+* Banks, E.C., 2005, “Kant, Herbart and Riemann”, *Kant-Studien* 96(2): 208–34. \[[Banks 2005 available online](http://philpapers.org/archive/BANKHA.pdf)]
+* Beiser, F.C., 2014, *The Genesis of Neo-Kantianism, 1796–1880*, Oxford: Oxford University Press, (see esp. Ch. 2, “Johann Friedrich Herbart, Neo-Kantian Metaphysician”).
+* Boring, E.G., 1950, *A History of Experimental Psychology*, New York: Appleton-Century-Crofts, 2nd ed.
+* Boudewijnse, G.-J.A., D.J. Murray, and C.A. Bandomir, 1999, “Herbart’s mathematical psychology”, *History of Psychology*, 2(3): 163–93.
+* –––, 2001, “The fate of Herbart’s mathematical psychology”, *History of Psychology*, 4(2): 107–32.
+* Diriwächter, R., 2013, “Structure and Hierarchies in *Ganzheitspsychologie*”, in Rudolph 2013: 189–226.
+* Dunkel, H.B., 1970, *Herbart and Herbartism: An Educational Ghost Story*, Chicago: University of Chicago Press.
+* Felsch, C., 1902, “Die Psychologie bei Herbart und Wundt mit Berücksichtigung der von Ziehen gegen die Herbartsche Psychologie gemachten Einwendungen \[Psychology in Herbart and Wundt, with Consideration of Ziehen’s Objections to Herbartian Psychology]”, *Zeitschrift für Philosophie und Pädagogik*, 9: 1–33.
+* –––, 1904, *Die Hauptpunkte der Psychologie mit Berücksichtigung der Pädagogik und einiger Verhältnisse des gesellschaftlichen Lebens* \[*The Main Points of Psychology with Respect to Pedagogy and Certain Relationships of Social Life*], Cöthen: Schulze.
+* Flügel, O., 1905, *J.F. Herbart*, Leipzig: Weicher.
+* Glöckner, J.G., 1892, “Die formalen Stufen bei Herbart und seiner Schule \[The Formal Stages in Herbart and His School]”, in *Jahrbuch des Vereins für wissenschaftliche Pädagogik*, 24:184–279.
+* Gockler, L., 1905, *La pédagogie de Herbart* \[*Herbart’s Pedagogy*], Paris: Hachette.
+* Guyer, P., 1987, *Kant and the Claims of Knowledge*, Cambridge: Cambridge University Press.
+* Hayward, F.H., 1907, *The Secret of Herbart: An Essay on the Science of Education*, London: Watts.
 * Hartenstein, G., 1850, “Introduction” to Volume 5 of Herbart 21886 \[=1851]: v-xii.
-* Hostinsky, O., 1891, _Herbarts_ _Ästhetik_ \[_Herbart’s Aesthetics_], Hamburg and Leipzig: Voss.
-* Huemer, W. and C. Landerer, 2010, “Mathematics, experience and laboratories: Herbart’s and Brentano’s role in the rise of scientific psychology”, _History of the Human Sciences_, 23(3): 72–94.
-* James, W., 1890, _Principles of Psychology_, Volume 1, New York: Henry Holt.
+* Hostinsky, O., 1891, *Herbarts* *Ästhetik* \[*Herbart’s Aesthetics*], Hamburg and Leipzig: Voss.
+* Huemer, W. and C. Landerer, 2010, “Mathematics, experience and laboratories: Herbart’s and Brentano’s role in the rise of scientific psychology”, *History of the Human Sciences*, 23(3): 72–94.
+* James, W., 1890, *Principles of Psychology*, Volume 1, New York: Henry Holt.
 * Kim, A., 2009, “Early Experimental Psychology”, in Symons and Calvo 2009: 41–58.
 * –––, 2015, “Neo-Kantian Ideas of History”, in Staiti and de Warren 2015: 39–58.
-* Leibniz, G.W., 2002a, _Monadologie und andere metaphysische Schriften_, Hamburg: Meiner.
-* –––, 2002b, _La monadologie_ \[_Monadology_], in Leibniz, 2002a: 110–51.
-* –––, 2002c, _Principes de la nature et de la grâce fondés en raison_ \[_Principles of Nature and Grace Based on Reason_], in Leibniz, 2002a: 152–74.
-* McGurk, H. and J. MacDonald, 1976, “Hearing lips and seeing voices”, _Nature_, 264: 746–8.
-* de Montaigne, M., 1993, “On the Education of Children” (“Education”), in _Essays_, J.M. Cohen (trans.), Harmondsworth: Penguin, 1993.
-* Murray, D.J., 1988, _A History of Western Psychology_, Englewood Cliffs, NJ: Prentice Hall, 2nd edition.
+* Leibniz, G.W., 2002a, *Monadologie und andere metaphysische Schriften*, Hamburg: Meiner.
+* –––, 2002b, *La monadologie* \[*Monadology*], in Leibniz, 2002a: 110–51.
+* –––, 2002c, *Principes de la nature et de la grâce fondés en raison* \[*Principles of Nature and Grace Based on Reason*], in Leibniz, 2002a: 152–74.
+* McGurk, H. and J. MacDonald, 1976, “Hearing lips and seeing voices”, *Nature*, 264: 746–8.
+* de Montaigne, M., 1993, “On the Education of Children” (“Education”), in *Essays*, J.M. Cohen (trans.), Harmondsworth: Penguin, 1993.
+* Murray, D.J., 1988, *A History of Western Psychology*, Englewood Cliffs, NJ: Prentice Hall, 2nd edition.
 * Murray, D.J. and C.A. Bandomir, 2001, “Fechner’s inner psychophysics viewed from both a Herbartian and Fechnerian perspective”, in E. Sommerfeld, et al. 2001: 49–54. \[[Murray and Bandomir 2001 available online](http://www.uni-leipzig.de/\~psycho/fechner/generalinfo/PDFs/DMurray.pdf)]
-* Natorp, P., 1910, _Die logischen Grundlagen der exakten Wissenschaften_, (_The Logical Foundations of the Exact Sciences_), Leipzig: Teubner.
-* Rein, W., A. Pickel, and E. Scheller, 1903, _Theorie und Praxis des Volksschulunterrichts nach Herbartischen Grundsätzen_ \[_Theory and Praxis of Public School Instruction According to Herbartian Principles_], Leipzig: Bredt.
-* Rudolph, L. (ed.), 2013, _Qualitative Mathematics for the Social Sciences: Mathematical Models for Research on Cultural Dynamics_, London and New York: Routledge.
-* Schaar, M. van der, 2013, _G.F. Stout and the Psychological Origins of Analytic Philosophy_, New York: Palgrave/Macmillan.
-* Sommerfeld, E., R. Kopass, and T. Lachmann (eds.), 2001, _Fechner Day 2001: Proceedings of the 17th Annual Meeting of the International Society for Psychophysics_, Lengerich, Germany: Pabst.
-* Staiti, A. and N. de Warren, 2015, _New Approaches to Neo-Kantianism_, Cambridge: Cambridge University Press.
-* Stout, G.F. 1888a, “The Herbartian Psychology (I)”, _Mind_, 13(51): 321–38.
-* –––, 1888b, “The Herbartian Psychology (II)”, _Mind_, 13(52): 473–98.
-* –––, 1889, “Herbart Compared with English Psychologists and with Beneke”, _Mind_, 14(53): 1–26.
-* –––, 1930, _Studies in Philosophy and Psychology_, London: Macmillan, (includes reprint of Stout 1888a and 1888b).
-* Symons, J. and P. Calvo, (eds.), 2009, _The Routledge Companion to Philosophy of Psychology_, London and New York: Routledge.
-* Ward, J., 1910–11, “Herbart, Johann Friedrich”, _Encyclopedia Britannica_, 11th ed., Vol. 13: 335–8.
-* Weiss, G., 1928, _Herbart und seine Schule_ \[_Herbart and His School_], Munich: Reinhardt.
-* Zayakin \[Zajakin], O.R., 2004, _Die Herbart-Rezeption in der russischen Pädagogik seit der Mitte des 19. Jahrhunderts_ \[_Herbart Reception in Russian Pedagogy Since the Mid-19th Century_], Münster: LIT Verlag.
-* Ziehen, T., 1900, _Das Verhältnis der Herbart’schen Psychologie zur physiologisch-experimentellen Psychologie_ \[_The Relation of Herbartian Psychology to Physiological-Experimental Psychology_], Berlin: Reuther & Reichard.
+* Natorp, P., 1910, *Die logischen Grundlagen der exakten Wissenschaften*, (*The Logical Foundations of the Exact Sciences*), Leipzig: Teubner.
+* Rein, W., A. Pickel, and E. Scheller, 1903, *Theorie und Praxis des Volksschulunterrichts nach Herbartischen Grundsätzen* \[*Theory and Praxis of Public School Instruction According to Herbartian Principles*], Leipzig: Bredt.
+* Rudolph, L. (ed.), 2013, *Qualitative Mathematics for the Social Sciences: Mathematical Models for Research on Cultural Dynamics*, London and New York: Routledge.
+* Schaar, M. van der, 2013, *G.F. Stout and the Psychological Origins of Analytic Philosophy*, New York: Palgrave/Macmillan.
+* Sommerfeld, E., R. Kopass, and T. Lachmann (eds.), 2001, *Fechner Day 2001: Proceedings of the 17th Annual Meeting of the International Society for Psychophysics*, Lengerich, Germany: Pabst.
+* Staiti, A. and N. de Warren, 2015, *New Approaches to Neo-Kantianism*, Cambridge: Cambridge University Press.
+* Stout, G.F. 1888a, “The Herbartian Psychology (I)”, *Mind*, 13(51): 321–38.
+* –––, 1888b, “The Herbartian Psychology (II)”, *Mind*, 13(52): 473–98.
+* –––, 1889, “Herbart Compared with English Psychologists and with Beneke”, *Mind*, 14(53): 1–26.
+* –––, 1930, *Studies in Philosophy and Psychology*, London: Macmillan, (includes reprint of Stout 1888a and 1888b).
+* Symons, J. and P. Calvo, (eds.), 2009, *The Routledge Companion to Philosophy of Psychology*, London and New York: Routledge.
+* Ward, J., 1910–11, “Herbart, Johann Friedrich”, *Encyclopedia Britannica*, 11th ed., Vol. 13: 335–8.
+* Weiss, G., 1928, *Herbart und seine Schule* \[*Herbart and His School*], Munich: Reinhardt.
+* Zayakin \[Zajakin], O.R., 2004, *Die Herbart-Rezeption in der russischen Pädagogik seit der Mitte des 19. Jahrhunderts* \[*Herbart Reception in Russian Pedagogy Since the Mid-19th Century*], Münster: LIT Verlag.
+* Ziehen, T., 1900, *Das Verhältnis der Herbart’schen Psychologie zur physiologisch-experimentellen Psychologie* \[*The Relation of Herbartian Psychology to Physiological-Experimental Psychology*], Berlin: Reuther & Reichard.
 
 ## Academic Tools
 

@@ -1,6 +1,6 @@
 # 私人语言 private language (Stewart Candlish and George Wrisley)
 
-_首次发表于1996年7月26日，实质性修订于2019年7月30日。_
+*首次发表于1996年7月26日，实质性修订于2019年7月30日。*
 
 私人语言的概念在哲学界因路德维希·维特根斯坦而闻名，他在他的著作《哲学研究》的第 243 节中解释了这个概念：“这种语言的词汇是指只有说话者才能知道的事物-他的直接私人感觉。所以其他人无法理解这种语言。”这并不意味着涵盖了（容易想象的）用个人代码记录自己经历的情况，因为这样的代码，无论实际上多么晦涩，原则上都可以被解读。维特根斯坦所指的是一种被构想为只有其单一创始人能够理解的语言，因为定义其词汇的事物对其他人来说是无法接触的。
 
@@ -195,53 +195,53 @@ Kripke 对私人语言论的解释/原理因他未经争论地依赖维特根斯
 
 The secondary literature on this topic is enormous. The following list is highly selective, and entries are included by meeting at least one of the following criteria: good representative of a standard reading of the argument; influential source, primary or secondary; useful collection of items meeting one or other of the previous two criteria; useful survey; item making recent and significant progress in the understanding and assessment of the argument; source drawn on in the writing of this article; item mentioned in the main text of this article.
 
-* Baker, G.P., 1998, ‘The private language argument’, _Language & Communication_, 18: 325–56.
-* Baker, G.P. & Hacker, P.M.S., 1990, ‘Malcolm on language and rules’, _Philosophy_, 65: 167–79.
-* Boghossian, P.A., 1989, ‘The rule-following considerations’, _Mind_, 98: 507–49.
-* Candlish, S., 1997, ‘Wittgensteins Privatsprachenargumentation’, in Eike von Savigny (ed.), _Wittgensteins Philosophische Untersuchungen_, Berlin: Akademie Verlag: 143–65.
-* Canfield, J.V. (ed.), 1986, _The Philosophy of Wittgenstein, Volume 9: The Private Language Argument_, New York: Garland.
-* ––– (ed.), 1986, _The Philosophy of Wittgenstein_ (Volume 10: Logical Necessity and Rules), New York: Garland.
-* –––, 1996, ‘The community view’, _The Philosophical Review_, 105: 469–88.
-* –––, 2001, ‘Private language: the diary case’ _Australasian Journal of Philosophy_, 79: 377–94.
-* Child, W., 2013, ‘Does the _Tractatus_ contain a private language argument?’ in P. Sullivan and M. Potter (eds.), _Wittgenstein’s_Tractatus\*: History and Interpretation\*, Oxford: Oxford University Press: 143–169.
-* Conant, J., 2004, ‘Why worry about the _Tractatus_?’, in B. Stocker (ed.), _Post-Analytic Tractatus_, Aldershot: Ashgate: 167–92.
-* Cook, J.W., 1969, ‘Human beings’, in P. Winch, (ed.), _Studies in the Philosophy of Wittgenstein_, London: Routledge & Kegan Paul.
-* Crary, A. & Read, R. (eds.), 2000, _The New Wittgenstein_, London and New York: Routledge.
-* Diamond, C. 2000, ‘Does Bismarck Have A Beetle In His Box?: The Private Language Argument in the _Tractatus_’ in A. Crary & R. Read (eds.) 2000: 272–302.
-* Fodor, J., 1975, _The Language of Thought_, New York: Crowell.
-* Fogelin, R.J., 1995., _Wittgenstein_, London: Routledge, 2nd edition, Ch. XII.
-* –––, 1994, _Pyrrhonian Reflections on Knowledge and Justification_, New York and Oxford: Oxford University Press.
-* Hacker, P.M.S., 1990, _Wittgenstein: Meaning and Mind, Volume 3 of an Analytical Commentary on the Philosophical Investigations_, Oxford: Blackwell.
-* –––, 2010, ‘Robinson Crusoe Sails Again: The Interpretative Relevance of Wittgenstein’s _Nachlass_’, in N. Venturhina (ed.), _Wittgenstein After His Nachlass_, Basingstoke and New York: Palgrave Macmillan.
-* Hymers, M., 2017, _Wittgenstein on Sensation and Perception_, London: Routledge.
-* Jones, O.R. (ed.), 1971, _The Private Language Argument_, London: Macmillan.
-* Kenny, A., 1966, ‘Cartesian privacy’, in G. Pitcher (ed.), _Wittgenstein: The Philosophical Investigations_, London: Macmillan, 1968.
-* –––, 2005, _Wittgenstein_, London: Allen Lane, revised edition, Ch. 10.
-* Kripke, S., 1982, _Wittgenstein on Rules and Private Language_, Oxford: Blackwell.
-* Kusch, M., 2006, _A sceptical guide to meaning and rules: defending Kripke’s Wittgenstein_. Routledge.
-* Malcolm, N., 1954, ‘Wittgenstein’s _Philosophical Investigations_’, _The Philosophical Review_, 63: 530–59.
-* –––, 1989, ‘Wittgenstein on language and rules’, _Philosophy_, 64: 5–28.
-* McDowell, J., 1989, ‘One Strand in the Private Language Argument’, _Grazer Philosophische Studien_, 33/34: 285–303.
-* McGinn, M., 2013, _Routledge Philosophy Guidebook to Wittgenstein and the Philosophical Investigations_, London: Routledge, Chs. 4–5.
-* Mulhall, S., 2007, _Wittgenstein’s Private Language: Grammar, Nonsense, and Imagination in_ Philosophical Investigations, _§§ 243–315_, Oxford: Clarendon Press.
-* Nielsen, K.S., 2008, _The Evolution of the Private Language Argument_, Aldershot: Ashgate.
-* Pears, D., 1988, _The False Prison_ (Volume Two), Oxford: Clarendon Press, Chs. 13–15.
-* –––, 2006, _Paradox and Platitude in Wittgenstein’s Philosophy_. Oxford: Oxford University Press, Ch. 3.
-* Rhees, R. (ed.), 1984, _Recollections of Wittgenstein_, revised edition, New York: Oxford University Press. Originally published as _Ludwig Wittgenstein: Personal Recollections_, Oxford: Blackwell, 1981.
-* Russell, B., 1918, ‘The philosophy of logical atomism’, in _The Collected Papers of Bertrand Russell_ (Volume 8: The Philosophy of Logical Atomism and Other Essays 1914–19), London: George Allen and Unwin, 1986.
-* Sluga, H., 2004, ‘Wittgenstein and Pyrrhonism’, in W. Sinnott-Armstrong (ed.), _Pyrrhonian Skepticism_, Oxford and New York: Oxford University Press, 99–117.
-* Stern, D.G., 2004, _Wittgenstein’s Philosophical Investigations: an introduction_, Cambridge: Cambridge University Press.
-* –––, 2007, ‘The uses of Wittgenstein’s beetle: Philosophical Investigations §293 and its interpreters’, in G. Kahane, E., Kanterian, and O. Kuusela (eds.), _Wittgenstein and his Interpreters: Essays in Memory of Gordon Baker_, Malden: Blackwell: 248–68.
-* –––, 2010, ‘Another strand in the private language argument’, in A. Ahmed (ed.), _Wittgenstein’s Philosophical Investigations: A Critical Guide_, Cambridge and New York: Cambridge University Press, 178–96.
-* –––., 2011, ‘Private language’, in O. Kuusela and M. McGinn (eds.), _The Oxford Handbook of Wittgenstein_, Oxford: Oxford University Press: 333–50.
-* Stroud, B., 2000, _Meaning, Understanding, and Practice_, Oxford: Oxford University Press, Essays 5, 6 and 13.
-* Tang, H., 2014, ‘“It is not a _something_, but not a _nothing_ either” – McDowell on Wittgenstein’, _Synthese_, 191: 557–67.
-* Travis, C., 2001, _The Uses of Sense: Wittgenstein’s Philosophy of Language_, Oxford: Oxford University Press, Ch. 8.
-* Verheggen, C. 2007, ‘The Community View Revisited’, _Metaphilosophy_, 38: 612–631.
-* Winch, P., 1983, ‘Facts and superfacts’, _The Philosophical Quarterly_, 33: 398–404; revised and reprinted in P. Winch, _Trying to Make Sense_, Oxford: Blackwell, 1987, 54–63.
-* Wittgenstein, L., 1993, _Philosophical Occasions_, specifically chapter 10, ‘Notes for lectures on “private experience” and “sense-data”’, chapter 11, ‘Notes by R. Rhees, The Language of Sense Data and Private Experience’, and chapter 14, ‘Notes for the “Philosophical Lecture”’, J. Klagge and A. Nordmann (eds.), Indianapolis: Hackett Publishing Company, Inc.
-* –––, 2009, _Philosophical Investigations_, translated by G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte, Oxford: Blackwell, Revised 4th edition by P. M. S. Hacker and Joachim Schulte.
-* Wrisley, G., 2011, ‘Wherefore the Failure of Private Ostension?’, _Australasian Journal of Philosophy_, 89:3: 483–498.
+* Baker, G.P., 1998, ‘The private language argument’, *Language & Communication*, 18: 325–56.
+* Baker, G.P. & Hacker, P.M.S., 1990, ‘Malcolm on language and rules’, *Philosophy*, 65: 167–79.
+* Boghossian, P.A., 1989, ‘The rule-following considerations’, *Mind*, 98: 507–49.
+* Candlish, S., 1997, ‘Wittgensteins Privatsprachenargumentation’, in Eike von Savigny (ed.), *Wittgensteins Philosophische Untersuchungen*, Berlin: Akademie Verlag: 143–65.
+* Canfield, J.V. (ed.), 1986, *The Philosophy of Wittgenstein, Volume 9: The Private Language Argument*, New York: Garland.
+* ––– (ed.), 1986, *The Philosophy of Wittgenstein* (Volume 10: Logical Necessity and Rules), New York: Garland.
+* –––, 1996, ‘The community view’, *The Philosophical Review*, 105: 469–88.
+* –––, 2001, ‘Private language: the diary case’ *Australasian Journal of Philosophy*, 79: 377–94.
+* Child, W., 2013, ‘Does the *Tractatus* contain a private language argument?’ in P. Sullivan and M. Potter (eds.), _Wittgenstein’s_Tractatus\*: History and Interpretation\*, Oxford: Oxford University Press: 143–169.
+* Conant, J., 2004, ‘Why worry about the *Tractatus*?’, in B. Stocker (ed.), *Post-Analytic Tractatus*, Aldershot: Ashgate: 167–92.
+* Cook, J.W., 1969, ‘Human beings’, in P. Winch, (ed.), *Studies in the Philosophy of Wittgenstein*, London: Routledge & Kegan Paul.
+* Crary, A. & Read, R. (eds.), 2000, *The New Wittgenstein*, London and New York: Routledge.
+* Diamond, C. 2000, ‘Does Bismarck Have A Beetle In His Box?: The Private Language Argument in the *Tractatus*’ in A. Crary & R. Read (eds.) 2000: 272–302.
+* Fodor, J., 1975, *The Language of Thought*, New York: Crowell.
+* Fogelin, R.J., 1995., *Wittgenstein*, London: Routledge, 2nd edition, Ch. XII.
+* –––, 1994, *Pyrrhonian Reflections on Knowledge and Justification*, New York and Oxford: Oxford University Press.
+* Hacker, P.M.S., 1990, *Wittgenstein: Meaning and Mind, Volume 3 of an Analytical Commentary on the Philosophical Investigations*, Oxford: Blackwell.
+* –––, 2010, ‘Robinson Crusoe Sails Again: The Interpretative Relevance of Wittgenstein’s *Nachlass*’, in N. Venturhina (ed.), *Wittgenstein After His Nachlass*, Basingstoke and New York: Palgrave Macmillan.
+* Hymers, M., 2017, *Wittgenstein on Sensation and Perception*, London: Routledge.
+* Jones, O.R. (ed.), 1971, *The Private Language Argument*, London: Macmillan.
+* Kenny, A., 1966, ‘Cartesian privacy’, in G. Pitcher (ed.), *Wittgenstein: The Philosophical Investigations*, London: Macmillan, 1968.
+* –––, 2005, *Wittgenstein*, London: Allen Lane, revised edition, Ch. 10.
+* Kripke, S., 1982, *Wittgenstein on Rules and Private Language*, Oxford: Blackwell.
+* Kusch, M., 2006, *A sceptical guide to meaning and rules: defending Kripke’s Wittgenstein*. Routledge.
+* Malcolm, N., 1954, ‘Wittgenstein’s *Philosophical Investigations*’, *The Philosophical Review*, 63: 530–59.
+* –––, 1989, ‘Wittgenstein on language and rules’, *Philosophy*, 64: 5–28.
+* McDowell, J., 1989, ‘One Strand in the Private Language Argument’, *Grazer Philosophische Studien*, 33/34: 285–303.
+* McGinn, M., 2013, *Routledge Philosophy Guidebook to Wittgenstein and the Philosophical Investigations*, London: Routledge, Chs. 4–5.
+* Mulhall, S., 2007, *Wittgenstein’s Private Language: Grammar, Nonsense, and Imagination in* Philosophical Investigations, *§§ 243–315*, Oxford: Clarendon Press.
+* Nielsen, K.S., 2008, *The Evolution of the Private Language Argument*, Aldershot: Ashgate.
+* Pears, D., 1988, *The False Prison* (Volume Two), Oxford: Clarendon Press, Chs. 13–15.
+* –––, 2006, *Paradox and Platitude in Wittgenstein’s Philosophy*. Oxford: Oxford University Press, Ch. 3.
+* Rhees, R. (ed.), 1984, *Recollections of Wittgenstein*, revised edition, New York: Oxford University Press. Originally published as *Ludwig Wittgenstein: Personal Recollections*, Oxford: Blackwell, 1981.
+* Russell, B., 1918, ‘The philosophy of logical atomism’, in *The Collected Papers of Bertrand Russell* (Volume 8: The Philosophy of Logical Atomism and Other Essays 1914–19), London: George Allen and Unwin, 1986.
+* Sluga, H., 2004, ‘Wittgenstein and Pyrrhonism’, in W. Sinnott-Armstrong (ed.), *Pyrrhonian Skepticism*, Oxford and New York: Oxford University Press, 99–117.
+* Stern, D.G., 2004, *Wittgenstein’s Philosophical Investigations: an introduction*, Cambridge: Cambridge University Press.
+* –––, 2007, ‘The uses of Wittgenstein’s beetle: Philosophical Investigations §293 and its interpreters’, in G. Kahane, E., Kanterian, and O. Kuusela (eds.), *Wittgenstein and his Interpreters: Essays in Memory of Gordon Baker*, Malden: Blackwell: 248–68.
+* –––, 2010, ‘Another strand in the private language argument’, in A. Ahmed (ed.), *Wittgenstein’s Philosophical Investigations: A Critical Guide*, Cambridge and New York: Cambridge University Press, 178–96.
+* –––., 2011, ‘Private language’, in O. Kuusela and M. McGinn (eds.), *The Oxford Handbook of Wittgenstein*, Oxford: Oxford University Press: 333–50.
+* Stroud, B., 2000, *Meaning, Understanding, and Practice*, Oxford: Oxford University Press, Essays 5, 6 and 13.
+* Tang, H., 2014, ‘“It is not a *something*, but not a *nothing* either” – McDowell on Wittgenstein’, *Synthese*, 191: 557–67.
+* Travis, C., 2001, *The Uses of Sense: Wittgenstein’s Philosophy of Language*, Oxford: Oxford University Press, Ch. 8.
+* Verheggen, C. 2007, ‘The Community View Revisited’, *Metaphilosophy*, 38: 612–631.
+* Winch, P., 1983, ‘Facts and superfacts’, *The Philosophical Quarterly*, 33: 398–404; revised and reprinted in P. Winch, *Trying to Make Sense*, Oxford: Blackwell, 1987, 54–63.
+* Wittgenstein, L., 1993, *Philosophical Occasions*, specifically chapter 10, ‘Notes for lectures on “private experience” and “sense-data”’, chapter 11, ‘Notes by R. Rhees, The Language of Sense Data and Private Experience’, and chapter 14, ‘Notes for the “Philosophical Lecture”’, J. Klagge and A. Nordmann (eds.), Indianapolis: Hackett Publishing Company, Inc.
+* –––, 2009, *Philosophical Investigations*, translated by G. E. M. Anscombe, P. M. S. Hacker and Joachim Schulte, Oxford: Blackwell, Revised 4th edition by P. M. S. Hacker and Joachim Schulte.
+* Wrisley, G., 2011, ‘Wherefore the Failure of Private Ostension?’, *Australasian Journal of Philosophy*, 89:3: 483–498.
 
 ## Academic Tools
 
@@ -261,4 +261,4 @@ The secondary literature on this topic is enormous. The following list is highly
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 [Stewart Candlish](http://members.iinet.net.au/\~stewartcandlish/)\
-[George Wrisley](http://www.georgewrisley.com/) <[_gwrisley3@gmail.com_](mailto:gwrisley3%40gmail%2ecom)>
+[George Wrisley](http://www.georgewrisley.com/) <[*gwrisley3@gmail.com*](mailto:gwrisley3%40gmail%2ecom)>

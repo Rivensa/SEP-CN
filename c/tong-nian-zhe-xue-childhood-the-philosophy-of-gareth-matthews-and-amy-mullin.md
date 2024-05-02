@@ -1,15 +1,14 @@
 # 童年哲学 childhood, the philosophy of (Gareth Matthews and Amy Mullin)
 
-_首次发表于 2002 年 9 月 13 日星期五；实质性修订于 2023 年 1 月 31 日星期二_
+*首次发表于 2002 年 9 月 13 日星期五；实质性修订于 2023 年 1 月 31 日星期二*
 
 童年哲学最近被认可为一种类似于科学哲学、历史哲学、宗教哲学以及其他许多已被视为哲学研究合法领域的探讨领域。此外，近年来与之相关主题的哲学研究（如父母的权利、责任和义务）蓬勃发展。童年哲学探讨了关于童年的哲学问题，随着时间的推移对童年的不同概念以及对儿童的态度的变化；认知和道德发展理论；儿童的利益和权利，童年的好处；儿童和自主权；儿童的道德地位以及儿童在社会中的地位。作为一个学术课题，童年哲学有时被包括在教育哲学中（例如，Siegel，2009）。然而，最近，哲学家们开始专门开设大学和大学课程，专门讨论童年哲学。关于童年、育儿和家庭的哲学文献在数量和质量上都在增加。
-
 
 ***
 
 ## 1. 什么是孩子？
 
-在他具有影响力的著作《_童年的世纪_》（Ariès, 1962）中，菲利普·阿里耶斯（Philippe Ariès）几乎独自一人让读者意识到，对于童年的概念在几个世纪间有所不同。我们现在意识到，孩子这个概念在历史和文化上都有所依赖。但是，童年概念在历史上如何变化，以及在不同文化中概念如何不同，这是一个学术争议和哲学兴趣的问题（参见肯尼迪，2006）。因此，阿里耶斯部分基于中世纪艺术中对婴儿的描绘，认为中世纪人将孩子视为简单的“小成人”。相比之下，舒拉米斯·沙哈尔（Shulamith Shahar，1990）发现一些中世纪思想家理解童年被划分为相当明确定义的阶段。而皮亚杰（Piaget）声称他的研究对象——20 世纪上半叶的瑞士儿童在思维上是有灵性的（Piaget, 1929），玛格丽特·米德（Margaret Mead，1967）提供证据表明太平洋岛屿的孩子们并非如此。
+在他具有影响力的著作《*童年的世纪*》（Ariès, 1962）中，菲利普·阿里耶斯（Philippe Ariès）几乎独自一人让读者意识到，对于童年的概念在几个世纪间有所不同。我们现在意识到，孩子这个概念在历史和文化上都有所依赖。但是，童年概念在历史上如何变化，以及在不同文化中概念如何不同，这是一个学术争议和哲学兴趣的问题（参见肯尼迪，2006）。因此，阿里耶斯部分基于中世纪艺术中对婴儿的描绘，认为中世纪人将孩子视为简单的“小成人”。相比之下，舒拉米斯·沙哈尔（Shulamith Shahar，1990）发现一些中世纪思想家理解童年被划分为相当明确定义的阶段。而皮亚杰（Piaget）声称他的研究对象——20 世纪上半叶的瑞士儿童在思维上是有灵性的（Piaget, 1929），玛格丽特·米德（Margaret Mead，1967）提供证据表明太平洋岛屿的孩子们并非如此。
 
 对任何关于根本性不连续性的主张持怀疑态度的一个原因——至少在西方对童年的概念中——是因为即使在今天，对儿童的主流观点仍体现了我们可以称之为广义“亚里士多德观念”的童年。根据亚里士多德，有四种因果关系，其中之一是最终因果关系，另一种是形式因果关系。亚里士多德认为，生物体的最终原因是该生物体在成熟时通常执行的功能。他认为生物体的形式原因是该生物体在成熟时通常具有的形式或结构，这种形式或结构被认为能使生物体良好地执行其功能。根据这种观念，人类儿童是人类这一生物类型的不成熟标本，其天生具有发展为具有正常或标准成年人结构、形式和功能的成熟标本的潜力。
 
@@ -31,7 +30,7 @@ _首次发表于 2002 年 9 月 13 日星期五；实质性修订于 2023 年 1 
 
 行为主义为最近的认知发展理论家提供了一种强烈经验主义的方式，而不需要借助洛克心灵内部的剧场。然而，当诺姆·乔姆斯基（Noam Chomsky）在他对斯金纳（Skinner）的《言语行为》（1957）的评论（1959）中成功地论证出纯粹的行为主义对语言学习的解释是不可能的时，行为主义计划遭遇了重大挫折。乔姆斯基提出的另一种理论，即普遍语法理论，在某种程度上受到了柏拉图和笛卡尔的启发，使得固有语言结构的概念，以及也许其他认知结构，似乎成为认知发展更纯粹经验主义构想的一个可行替代方案。
 
-然而，让心理学家、教育家甚至哲学家开始思考儿童认知发展的方式最具影响力的是让-皮亚杰(Jean Piaget)的研究。皮亚杰早期的作品《_儿童对世界的概念_》(1929)特别清楚地展示了发展心理学家的工作在哲学上是多么具有挑战性。尽管他的项目总是要阐明儿童理解因果关系、思考或其他内容的阶段，但他的描述的可理解性预设了对哲学难题有令人满意的回应，比如因果关系、思考和生命等话题。
+然而，让心理学家、教育家甚至哲学家开始思考儿童认知发展的方式最具影响力的是让-皮亚杰(Jean Piaget)的研究。皮亚杰早期的作品《*儿童对世界的概念*》(1929)特别清楚地展示了发展心理学家的工作在哲学上是多么具有挑战性。尽管他的项目总是要阐明儿童理解因果关系、思考或其他内容的阶段，但他的描述的可理解性预设了对哲学难题有令人满意的回应，比如因果关系、思考和生命等话题。
 
 以生命的概念为例。根据皮亚杰的说法，这一概念是通过四个阶段获得的（皮亚杰，1929 年，第 6 章）
 
@@ -50,7 +49,7 @@ Donaldson（1978）对皮亚杰在认知发展方面提出了心理学批评。M
 
 ## 3. 道德发展理论
 
-伦理学史上许多哲学家都认真关注道德发展问题。例如，柏拉图在他的对话《理想国》中提出了一个旨在培养统治者美德的模型课程。亚里士多德在他的《_尼各马可伦理学_》中对美德的逻辑结构进行了阐述，为理解道德发展的过程提供了支架。斯多葛派（Turner 和 Matthews，1998 年，45-64 页）特别关注道德发展的动态。
+伦理学史上许多哲学家都认真关注道德发展问题。例如，柏拉图在他的对话《理想国》中提出了一个旨在培养统治者美德的模型课程。亚里士多德在他的《*尼各马可伦理学*》中对美德的逻辑结构进行了阐述，为理解道德发展的过程提供了支架。斯多葛派（Turner 和 Matthews，1998 年，45-64 页）特别关注道德发展的动态。
 
 在现代哲学家中，再次是卢梭（1762 年）最专注于发展问题。他提出了一个与年龄相关的五个阶段的顺序，一个人必须经历这些阶段才能达到道德成熟：（i）婴儿期（出生至 2 岁）；（ii）感觉时期（3 至 12 岁）；（iii）思想时期（13 至青春期）；（iv）感情时期（青春期至 20 岁）；和（v）结婚和社会责任时期（21 岁及以上）。尽管他允许成年人可以通过解释坏行为会带来惩罚来有效地改变儿童的行为（1762 年\[1979, 90]），但他坚持认为真正的道德推理直到 13 岁及以上的思想时期才会被欣赏。根据他的道德发展阶段理论，他明确拒绝了洛克的格言，“与儿童理性相处”（洛克，JLE），理由是试图与 13 岁以下的儿童进行推理在发展上是不合适的。
 
@@ -60,7 +59,7 @@ Kohlberg 提出了一个理论，根据这个理论，道德发展大约经历�
 
 Kohlberg 开发了一个测试，被广泛使用，来确定任何个体在任何特定时间的阶段。这个测试需要对道德困境做出反应，并通过查阅详尽的手册来评分。
 
-童年哲学中最有影响力的批评之一可以在卡罗尔·吉利根（Carol Gilligan）的《_In a Different Voice_》（1982）中找到。吉利根认为，科尔伯格（Kohlberg）基于规则的道德概念具有一种朝向公正的取向，她将其与男性思维的刻板印象联系在一起，而女性和女孩可能更有可能用“关怀”取向来处理道德困境。科尔伯格-吉利根辩论引发的道德理论中的一个重要问题是道德感情在道德生活中的作用和重要性（请参阅关于[女性伦理学](https://plato.stanford.edu/entries/feminism-ethics/)的条目）。
+童年哲学中最有影响力的批评之一可以在卡罗尔·吉利根（Carol Gilligan）的《*In a Different Voice*》（1982）中找到。吉利根认为，科尔伯格（Kohlberg）基于规则的道德概念具有一种朝向公正的取向，她将其与男性思维的刻板印象联系在一起，而女性和女孩可能更有可能用“关怀”取向来处理道德困境。科尔伯格-吉利根辩论引发的道德理论中的一个重要问题是道德感情在道德生活中的作用和重要性（请参阅关于[女性伦理学](https://plato.stanford.edu/entries/feminism-ethics/)的条目）。
 
 道德发展的另一种方法可以在马丁·霍夫曼（Martin Hoffman）的作品（1982）中找到。霍夫曼描述了共情感和反应的四个阶段的发展。霍夫曼的方法使人能够欣赏到很小的孩子中真正道德感情的可能性，因此也能够欣赏到真正的道德代理人。相比之下，科尔伯格的道德困境测试会将学龄前儿童甚至早期小学生归为前道德水平。
 
@@ -120,89 +119,89 @@ Mullin (2007, 2014) 认为，考虑儿童自主能力应该以自我治理为核
 
 ## Bibliography
 
-* Anderson, J. and Claassen, R., 2012, “Sailing alone: Teenage autonomy and regimes of childhood,” _Law and Philosophy_, 31(5): 495–522.
-* Archard, David, 2004, _Children: Rights and Childhood_, London: Routledge.
-* Ariès, Philippe, 1962, _Centuries of Childhood_, New York: Random House.
-* Baylis, Françoise and Carolyn McLeod (eds.), 2014, _Family-Making: Contemporary Ethical Challenges_, Oxford: Oxford University Press.
-* Betzler, M., 2022, “The Moral Significance of Adolescence,” _Journal of Applied Philosophy_, 39(4): 547–56.
-* Bluebond-Langner, Myra, 1980, _The Private Worlds of Dying Children_, Princeton: Princeton University Press.
-* Blustein, Jeffrey, 1982, _Parents and Children: The Ethics of the Family_, New York: Oxford University Press.
-* Bou-Habib, P. and Olsaretti, S., 2015, “Autonomy and children’s well-being,” in _The Nature of Children’s Well-Being_, Dordrecht: Springer, pp. 15-33.
-* Brennan, Samantha, 2014, “The Goods of Childhood and Children’s Rights,” F. Baylis and C. McLeod (eds.), _Family-Making: Contemporary Ethical Challenges_, Oxford: Oxford University Press
-* Brighouse, Harry and Adam Swift, 2014, _The Ethics of Parent-Child Relationships_, Princeton: Princeton University Press.
-* Burroughs, Michael D., 2020, “Navigating the penumbra: Children and moral responsibility,” _The Southern Journal of Philosophy_, 58(1): 77–101.
-* Carlson, Licia, 2010, _The Faces of Intellectual Disability: Philosophical Reflections_, Bloomington: Indiana University Press.
-* Chomsky, Noam, 1959, Review of B.F. Skinner’s _Verbal Behavior_, _Language_, XXXV: 26–58.
-* Descartes, René, \[PW], _The Philosophical Writings of Descartes_ (Volume 1), J. Cottingham, R. Stoothoff, and D. Murdich (trans.), Cambridge: Cambridge University Press, 1985.
-* Dombrowski, Daniel, 1997, _Babies and Beasts: The Argument from Marginal Cases_, Chicago: University of Illinois Press.
-* Donaldson, Margaret, 1978, _Children’s Minds_, Glasgow: Fontana.
-* Feinberg, Joel, 1980, “The Child’s Right to an Open Future,” W. Aiken and H. LaFollette (eds.), _Whose Child? Children’s Rights, Parental Authority and the State_, Totowa, New Jersey: Rowman & Littlefield
-* Fineberg, Jonathan, 1997, _The Innocent Eye: Children’s Art and the Modern Artist_, Princeton: Princeton University Press.
-* ––– (ed.), 2006, _When We Were Young: New Perspectives on the Art of the Child_, Urbana-Champaign: University of Illinois Press.
-* Flavel, John H., _et al_., 1995, _Young Children’s Knowledge about Thinking_, Monographs of the Society for Research in Child Development, 60 (1, Serial no. 243).
-* Franklin‐Hall, A., 2013, “On becoming an adult: Autonomy and the moral relevance of life’s stages,” _The Philosophical Quarterly_, 63(251): 223–247.
-* Freud, Sigmund, 1950, _Totem and Taboo_, London: Routledge & Kegan Paul.
-* Friedman, Marilyn, 1987, “Beyond Caring: The De-Moralization of Gender,” M. Hanen and K. Nielsen (eds.), _Science, Morality and Gender_, Calgary: University of Calgary Press
-* Gelman, Susan, 2003, _The Essential Child: Origins of Essentialism in Everyday Thought_, New York: Oxford University Press.
-* Gheaus, Anca, 2014, “The ‘Intrinsic Goods of Childhood’ and the Just Society,” A. Bagattini and C. Macleod (eds.), _The Nature of Children’s Well-Being: Theory and Practice_, Dordrecht: Springer.
-* Gilligan, Carol, 1982, _In a Different Voice_, Cambridge: Harvard University Press.
-* Gopnik, Alison, 2009, _The Philosophical Baby_, New York: Farrar, Straus and Giroux.
-* Gould, Stephen Jay, 1977, _Ontogeny and Phylogeny_, Cambridge: Harvard University Press.
-* Hannan, Sarah, 2018a, “Childhood and autonomy,” in _The Routledge Handbook of the Philosophy of Childhood and Children_, London: Routledge, pp. 112–122..
-* –––, 2018b, “Why Childhood is Bad for Children,” _Journal of Applied Philosophy_, 35(S1): 11–28.
-* Hannan, Sarah, and R. J. Leland, 2018, “Childhood Bads, Parenting Goods, and the Right to Procreate,” _Critical Review of International Social and Political Philosophy_, 21(3): 366–384.
-* Hoffman, Martin, 1982, “Affect and Moral Development,” D. Chicchetti and P. Hesse, eds., _New Directions in Child Development: Emotional Development_, San Francisco:Jossey-Bass, 83–103.
-* Houlgate, Laurence D., 1980, _The Child and the State_, Baltimore, MD: Johns Hopkins University Press.
-* –––.1999, _Morals, Marriage, and Parenthood_, Belmont, CA: Wadsworth.
-* Jaworska, Agnieszka and Tannenbaum Julie, 2018, “The moral status of children,” _The Routledge Handbook of the Philosophy of Childhood and Children_, London: Routledge, pp. 67–78.
-* Kagan, Jerome, and Sharon Lamb (eds.), 1987, _The Emergence of Morality in Young Children_, Chicago: University of Chicago Press.
-* Kennedy, David, 2006, _The Well of Being: Childhood, Subjectivity, and Education_, Albany: SUNY Press.
-* Kittay, Eva Feder, 2005, “At the Margins of Moral Personhood,” _Ethics_, 116(1): 100–131
-* Kohlberg, Lawrence, 1981, 1984, _Essays on Moral Development_ (Volumes I and II), San Francisco: Harper & Row.
-* Kopelman, Loretta M., and John C. Moskop (eds.), 1989, _Children and Health Care_, Dordrecht: Kluwer Academic Publishers.
-* Levinson, Meira, 1999, _The Demands of Liberal Education_, Oxford: Oxford University Press.
-* Likona, Thomas (ed.), 1976, _Moral Development and Behavior_, New York: Holt, Rinehart & Winston.
-* Locke, John, \[EHC], _An Essay Concerning Human Understanding_ (Volume I), New York: Dover publications, 1959.
-* –––, \[TTG], _Two Treatises of Government_, New York: American Library, 1965.
-* –––, \[JLE], _John Locke on Education_, New York: Teachers College Press, 1971.
-* Macleod, Colin, 2010, “Primary Goods, Capabilities and Children,” H. Brighouse and I. Robeyns (eds.), _Measuring Justice: Primary Goods and Capabilities_, Cambridge: Cambridge University Press
-* Matthews, Gareth B., 1980, _Philosophy and the Young Child_, Cambridge: Harvard University Press.
-* –––, 1994, _The Philosophy of Childhood_, Cambridge: Harvard University Press.
-* –––, 2008, “Getting Beyond the Deficit Conception of Childhood: Thinking Philosophically with Children,” in M. Hand and C. Win Stanley (eds.), _Philosophy in Schools_, London: Continuum, 27–40.
+* Anderson, J. and Claassen, R., 2012, “Sailing alone: Teenage autonomy and regimes of childhood,” *Law and Philosophy*, 31(5): 495–522.
+* Archard, David, 2004, *Children: Rights and Childhood*, London: Routledge.
+* Ariès, Philippe, 1962, *Centuries of Childhood*, New York: Random House.
+* Baylis, Françoise and Carolyn McLeod (eds.), 2014, *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press.
+* Betzler, M., 2022, “The Moral Significance of Adolescence,” *Journal of Applied Philosophy*, 39(4): 547–56.
+* Bluebond-Langner, Myra, 1980, *The Private Worlds of Dying Children*, Princeton: Princeton University Press.
+* Blustein, Jeffrey, 1982, *Parents and Children: The Ethics of the Family*, New York: Oxford University Press.
+* Bou-Habib, P. and Olsaretti, S., 2015, “Autonomy and children’s well-being,” in *The Nature of Children’s Well-Being*, Dordrecht: Springer, pp. 15-33.
+* Brennan, Samantha, 2014, “The Goods of Childhood and Children’s Rights,” F. Baylis and C. McLeod (eds.), *Family-Making: Contemporary Ethical Challenges*, Oxford: Oxford University Press
+* Brighouse, Harry and Adam Swift, 2014, *The Ethics of Parent-Child Relationships*, Princeton: Princeton University Press.
+* Burroughs, Michael D., 2020, “Navigating the penumbra: Children and moral responsibility,” *The Southern Journal of Philosophy*, 58(1): 77–101.
+* Carlson, Licia, 2010, *The Faces of Intellectual Disability: Philosophical Reflections*, Bloomington: Indiana University Press.
+* Chomsky, Noam, 1959, Review of B.F. Skinner’s *Verbal Behavior*, *Language*, XXXV: 26–58.
+* Descartes, René, \[PW], *The Philosophical Writings of Descartes* (Volume 1), J. Cottingham, R. Stoothoff, and D. Murdich (trans.), Cambridge: Cambridge University Press, 1985.
+* Dombrowski, Daniel, 1997, *Babies and Beasts: The Argument from Marginal Cases*, Chicago: University of Illinois Press.
+* Donaldson, Margaret, 1978, *Children’s Minds*, Glasgow: Fontana.
+* Feinberg, Joel, 1980, “The Child’s Right to an Open Future,” W. Aiken and H. LaFollette (eds.), *Whose Child? Children’s Rights, Parental Authority and the State*, Totowa, New Jersey: Rowman & Littlefield
+* Fineberg, Jonathan, 1997, *The Innocent Eye: Children’s Art and the Modern Artist*, Princeton: Princeton University Press.
+* ––– (ed.), 2006, *When We Were Young: New Perspectives on the Art of the Child*, Urbana-Champaign: University of Illinois Press.
+* Flavel, John H., *et al*., 1995, *Young Children’s Knowledge about Thinking*, Monographs of the Society for Research in Child Development, 60 (1, Serial no. 243).
+* Franklin‐Hall, A., 2013, “On becoming an adult: Autonomy and the moral relevance of life’s stages,” *The Philosophical Quarterly*, 63(251): 223–247.
+* Freud, Sigmund, 1950, *Totem and Taboo*, London: Routledge & Kegan Paul.
+* Friedman, Marilyn, 1987, “Beyond Caring: The De-Moralization of Gender,” M. Hanen and K. Nielsen (eds.), *Science, Morality and Gender*, Calgary: University of Calgary Press
+* Gelman, Susan, 2003, *The Essential Child: Origins of Essentialism in Everyday Thought*, New York: Oxford University Press.
+* Gheaus, Anca, 2014, “The ‘Intrinsic Goods of Childhood’ and the Just Society,” A. Bagattini and C. Macleod (eds.), *The Nature of Children’s Well-Being: Theory and Practice*, Dordrecht: Springer.
+* Gilligan, Carol, 1982, *In a Different Voice*, Cambridge: Harvard University Press.
+* Gopnik, Alison, 2009, *The Philosophical Baby*, New York: Farrar, Straus and Giroux.
+* Gould, Stephen Jay, 1977, *Ontogeny and Phylogeny*, Cambridge: Harvard University Press.
+* Hannan, Sarah, 2018a, “Childhood and autonomy,” in *The Routledge Handbook of the Philosophy of Childhood and Children*, London: Routledge, pp. 112–122..
+* –––, 2018b, “Why Childhood is Bad for Children,” *Journal of Applied Philosophy*, 35(S1): 11–28.
+* Hannan, Sarah, and R. J. Leland, 2018, “Childhood Bads, Parenting Goods, and the Right to Procreate,” *Critical Review of International Social and Political Philosophy*, 21(3): 366–384.
+* Hoffman, Martin, 1982, “Affect and Moral Development,” D. Chicchetti and P. Hesse, eds., *New Directions in Child Development: Emotional Development*, San Francisco:Jossey-Bass, 83–103.
+* Houlgate, Laurence D., 1980, *The Child and the State*, Baltimore, MD: Johns Hopkins University Press.
+* –––.1999, *Morals, Marriage, and Parenthood*, Belmont, CA: Wadsworth.
+* Jaworska, Agnieszka and Tannenbaum Julie, 2018, “The moral status of children,” *The Routledge Handbook of the Philosophy of Childhood and Children*, London: Routledge, pp. 67–78.
+* Kagan, Jerome, and Sharon Lamb (eds.), 1987, *The Emergence of Morality in Young Children*, Chicago: University of Chicago Press.
+* Kennedy, David, 2006, *The Well of Being: Childhood, Subjectivity, and Education*, Albany: SUNY Press.
+* Kittay, Eva Feder, 2005, “At the Margins of Moral Personhood,” *Ethics*, 116(1): 100–131
+* Kohlberg, Lawrence, 1981, 1984, *Essays on Moral Development* (Volumes I and II), San Francisco: Harper & Row.
+* Kopelman, Loretta M., and John C. Moskop (eds.), 1989, *Children and Health Care*, Dordrecht: Kluwer Academic Publishers.
+* Levinson, Meira, 1999, *The Demands of Liberal Education*, Oxford: Oxford University Press.
+* Likona, Thomas (ed.), 1976, *Moral Development and Behavior*, New York: Holt, Rinehart & Winston.
+* Locke, John, \[EHC], *An Essay Concerning Human Understanding* (Volume I), New York: Dover publications, 1959.
+* –––, \[TTG], *Two Treatises of Government*, New York: American Library, 1965.
+* –––, \[JLE], *John Locke on Education*, New York: Teachers College Press, 1971.
+* Macleod, Colin, 2010, “Primary Goods, Capabilities and Children,” H. Brighouse and I. Robeyns (eds.), *Measuring Justice: Primary Goods and Capabilities*, Cambridge: Cambridge University Press
+* Matthews, Gareth B., 1980, *Philosophy and the Young Child*, Cambridge: Harvard University Press.
+* –––, 1994, *The Philosophy of Childhood*, Cambridge: Harvard University Press.
+* –––, 2008, “Getting Beyond the Deficit Conception of Childhood: Thinking Philosophically with Children,” in M. Hand and C. Win Stanley (eds.), *Philosophy in Schools*, London: Continuum, 27–40.
 * –––, 2009, “Philosophy and Developmental Psychology: Outgrowing the Deficit Conception of Childhood,” in Siegel 2009, 162–76.
-* Mead, Margaret, 1967, “An Investigation of the Thought of Primitive Children, with Special Reference to Animism,” _Personalities and Cultures_, in Robert C. Hunt (ed.), Garden City, NY: Natural History Press, 213–37.
-* Mullin, Amy, 2007, “Children, Autonomy and Care,” _Journal of Social Philosophy_, 38(4): 536–553.
-* –––, 2010, “Filial Responsibilities of Dependent Children,” _Hypatia_, 25(1): 157–173.
-* –––, 2011, “Children and the Argument from Marginal Cases,” _Ethical Theory and Moral Practice_, 14(3): 291–305.
-* –––, 2014, “Children, Paternalism and the Development of Autonomy,” _Ethical Theory and Moral Practice_, 17(3): 413–426
-* Narveson, Jan, 1989, “The Problem of Children,” in his _The Libertarian Idea_, Philadelphia: Temple University Press.
-* Oshana, Marina, 2005, “Autonomy and Self-Identity,” J. Christman and J. Anderson (eds.), _Autonomy and the Challenge to Liberalism_, Cambridge: Cambridge University Press
-* Piaget, Jean, 1929, _The Child’s Conception of the World_, London: Routledge & Kegan Paul.
-* –––, 1930, _The Child’s Conception of Physical Causality_, London: Routledge & Kegan Paul.
-* –––, 1933, “Children’s Philosophies,” C. Murchison (ed.), _A Handbook of Child Psychology_, 2nd edition, Worcester, MA: Clark University Press.
-* –––, 1965, _The Moral Judgment of the Child_, New York: Free Press.
-* –––, 1967, _The Child’s Conception of Space_, New York: W.W. Norton and Company.
-* –––, 1968, “The Mental Development of the Child,” in _Six Psychological Studies_, D. Elkind (ed.), New York: Vintage Books, 1–73.
-* –––, 1971, _The Child’s Construction of Quantities_, London: Routledge& Kegan Paul.
-* Pritchard, Michael S., 1991, _On Becoming Responsible_, Lawrence: University Press of Kansas.
-* –––, 1996, _Reasonable Children: Moral Education and Moral Learning_, Lawrence: University Press of Kansas.
-* Purdy, Laura M., _In Their Best Interest? The Case against Equal Rights for Children_, Ithaca: Cornell University Press.
-* Rawls, John, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Rosch, Eleanor, and Barbara B. Lloyd, 1978, _Cognition and Categorization_, Hillsdale, NJ: Erlbaum.
-* Ross, Lainie, 1998, _Children, Families and Health Care Decision-Making_, Oxford: Oxford University Press.
-* Rousseau, Jean-Jacques, 1762, _Emile or On Education_, New York: Basic Books, 1979.
-* Sapontzis, Steve, 1987, _Morals, Reason and Animals_, Philadelphia: Temple University Press.
-* Schapiro, Tamar, 1999, “What is a Child?” _Ethics_, 109: 715–38.
-* Shahar, Shulamith, 1990, _Childhood in the Middle Ages_, London: Routledge.
-* Siegel, Harvey, 2009, _The Oxford Handbook of the Philosophy of Education_, Oxford: Oxford University Press.
-* Skinner, B.F., 1957, _Verbal Behavior_, New York: Appleton-Century-Crofts.
-* Spock, Benjamin, 1968, _Baby and Child Care_, 3rd edition, New York: Hawthorn Books.
-* Subbotsky, Eugene V., 1996, _The Child as Cartesian Thinker_, Hove, East Sussex: Psychology Press.
-* Tiboris, Michael, 2014, “Blaming the Kids: Children’s Agency and Diminished Responsibility,” _Journal of Applied Philosophy_, 31(1): 77–90.
-* Turner, Susan, and Gareth B. Matthews (eds.), 1998, _The Philosopher’s Child_, Rochester, NY: University of Rochester Press.
-* Warren, Mary Anne, 1992, “The Rights of the Nonhuman World,” E. Hargrove (ed.), _The Animal Rights/Environmental Ethics Debate_, Albany: State University of New York Press
-* Wellman, Henry M., 1990, _The Child’s Theory of Mind_, Cambridge: MIT Press.
-* Wood, Allen, 1998, “Kant on Duties Regarding Nonrational Nature,” _Proceedings of the Aristotelian Society_ (Supplement): 72: 189–228.
+* Mead, Margaret, 1967, “An Investigation of the Thought of Primitive Children, with Special Reference to Animism,” *Personalities and Cultures*, in Robert C. Hunt (ed.), Garden City, NY: Natural History Press, 213–37.
+* Mullin, Amy, 2007, “Children, Autonomy and Care,” *Journal of Social Philosophy*, 38(4): 536–553.
+* –––, 2010, “Filial Responsibilities of Dependent Children,” *Hypatia*, 25(1): 157–173.
+* –––, 2011, “Children and the Argument from Marginal Cases,” *Ethical Theory and Moral Practice*, 14(3): 291–305.
+* –––, 2014, “Children, Paternalism and the Development of Autonomy,” *Ethical Theory and Moral Practice*, 17(3): 413–426
+* Narveson, Jan, 1989, “The Problem of Children,” in his *The Libertarian Idea*, Philadelphia: Temple University Press.
+* Oshana, Marina, 2005, “Autonomy and Self-Identity,” J. Christman and J. Anderson (eds.), *Autonomy and the Challenge to Liberalism*, Cambridge: Cambridge University Press
+* Piaget, Jean, 1929, *The Child’s Conception of the World*, London: Routledge & Kegan Paul.
+* –––, 1930, *The Child’s Conception of Physical Causality*, London: Routledge & Kegan Paul.
+* –––, 1933, “Children’s Philosophies,” C. Murchison (ed.), *A Handbook of Child Psychology*, 2nd edition, Worcester, MA: Clark University Press.
+* –––, 1965, *The Moral Judgment of the Child*, New York: Free Press.
+* –––, 1967, *The Child’s Conception of Space*, New York: W.W. Norton and Company.
+* –––, 1968, “The Mental Development of the Child,” in *Six Psychological Studies*, D. Elkind (ed.), New York: Vintage Books, 1–73.
+* –––, 1971, *The Child’s Construction of Quantities*, London: Routledge& Kegan Paul.
+* Pritchard, Michael S., 1991, *On Becoming Responsible*, Lawrence: University Press of Kansas.
+* –––, 1996, *Reasonable Children: Moral Education and Moral Learning*, Lawrence: University Press of Kansas.
+* Purdy, Laura M., *In Their Best Interest? The Case against Equal Rights for Children*, Ithaca: Cornell University Press.
+* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Rosch, Eleanor, and Barbara B. Lloyd, 1978, *Cognition and Categorization*, Hillsdale, NJ: Erlbaum.
+* Ross, Lainie, 1998, *Children, Families and Health Care Decision-Making*, Oxford: Oxford University Press.
+* Rousseau, Jean-Jacques, 1762, *Emile or On Education*, New York: Basic Books, 1979.
+* Sapontzis, Steve, 1987, *Morals, Reason and Animals*, Philadelphia: Temple University Press.
+* Schapiro, Tamar, 1999, “What is a Child?” *Ethics*, 109: 715–38.
+* Shahar, Shulamith, 1990, *Childhood in the Middle Ages*, London: Routledge.
+* Siegel, Harvey, 2009, *The Oxford Handbook of the Philosophy of Education*, Oxford: Oxford University Press.
+* Skinner, B.F., 1957, *Verbal Behavior*, New York: Appleton-Century-Crofts.
+* Spock, Benjamin, 1968, *Baby and Child Care*, 3rd edition, New York: Hawthorn Books.
+* Subbotsky, Eugene V., 1996, *The Child as Cartesian Thinker*, Hove, East Sussex: Psychology Press.
+* Tiboris, Michael, 2014, “Blaming the Kids: Children’s Agency and Diminished Responsibility,” *Journal of Applied Philosophy*, 31(1): 77–90.
+* Turner, Susan, and Gareth B. Matthews (eds.), 1998, *The Philosopher’s Child*, Rochester, NY: University of Rochester Press.
+* Warren, Mary Anne, 1992, “The Rights of the Nonhuman World,” E. Hargrove (ed.), *The Animal Rights/Environmental Ethics Debate*, Albany: State University of New York Press
+* Wellman, Henry M., 1990, *The Child’s Theory of Mind*, Cambridge: MIT Press.
+* Wood, Allen, 1998, “Kant on Duties Regarding Nonrational Nature,” *Proceedings of the Aristotelian Society* (Supplement): 72: 189–228.
 
 ## Academic Tools
 
@@ -222,4 +221,4 @@ Mullin (2007, 2014) 认为，考虑儿童自主能力应该以自我治理为核
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
 [Gareth Matthews](http://www.umass.edu/philosophy/faculty/faculty-pages/matthews.htm)\
-Amy Mullin <[_amy.mullin@utoronto.ca_](mailto:amy%2emullin%40utoronto%2eca)>
+Amy Mullin <[*amy.mullin@utoronto.ca*](mailto:amy%2emullin%40utoronto%2eca)>

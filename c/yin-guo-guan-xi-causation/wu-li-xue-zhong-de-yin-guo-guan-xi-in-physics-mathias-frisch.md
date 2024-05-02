@@ -1,9 +1,8 @@
 # 物理学中的因果关系 in physics (Mathias Frisch)
 
-_首次发布于周一，2020 年 8 月 24 日_
+*首次发布于周一，2020 年 8 月 24 日*
 
 在物理学中，因果观念是否扮演着什么样的角色呢？一方面，物理学似乎旨在为我们提供关于世界的因果知识，并且因果断言是物理学的一个组成部分，这一点可能在直觉上是显而易见的。另一方面，有一个具有影响力的哲学传统，可以追溯到恩斯特·马赫和伯特兰·罗素极具影响力的文章《论因果观念》（1912 年），否认了因果观念在物理学中的适用性或至少有用性。虽然这一传统可能不像过去那样占主导地位，但在今天仍然存在着关于因果观念是否可以在物理学中发挥合法作用以及如果可以的话，可能扮演的是什么角色的激烈而活跃的哲学辩论。本条目概述了这场辩论中的主要论点，特别关注那些诉诸于物理学理论化的显著特征的论点。
-
 
 ***
 
@@ -11,15 +10,15 @@ _首次发布于周一，2020 年 8 月 24 日_
 
 ### 1.1 形而上学、描述性和功能性项目
 
-在讨论因果在物理学或我们对世界的概念中的作用时，我们可能参与几个不同的哲学项目（Woodward 2014）：一个_形而上学项目_，一个_描述性项目_，以及 Woodward 所称的“_功能性项目_”。虽然这些项目之间存在明显的联系点，并且哲学观点可能同时有助于多个项目，但这三个项目具有明显不同的核心目标，并且具有不同的方法论。
+在讨论因果在物理学或我们对世界的概念中的作用时，我们可能参与几个不同的哲学项目（Woodward 2014）：一个_形而上学项目_，一个_描述性项目_，以及 Woodward 所称的“*功能性项目*”。虽然这些项目之间存在明显的联系点，并且哲学观点可能同时有助于多个项目，但这三个项目具有明显不同的核心目标，并且具有不同的方法论。
 
-_形而上学项目_的目的是揭示因果主张的形而上基础或真理生成者。因果形而上学的主要分歧在于广义的休谟派和非休谟派对因果的解释。休谟派的观点是否认基本模态的存在，并坚持认为从根本上讲，宇宙是由本体实体实例化的分类属性和关系组成的分布——即大卫·刘易斯所称的“休谟马赛克”（Lewis 1973; Loewer 2012）。在休谟派观点中，所有真实的模态主张，包括因果主张，都是基于马赛克的非模态特征。尽管休谟派否认模态属性，包括因果属性，是世界基本本体的一部分，他们可能允许存在可归约为基本物理属性的非基本因果事实。因此，休谟派可以是——而且其中许多人是——_非基本主义者_，而不是_消除论者_关于因果。\[[1](https://plato.stanford.edu/entries/causation-physics/notes.html#note-1)]
+_形而上学项目_的目的是揭示因果主张的形而上基础或真理生成者。因果形而上学的主要分歧在于广义的休谟派和非休谟派对因果的解释。休谟派的观点是否认基本模态的存在，并坚持认为从根本上讲，宇宙是由本体实体实例化的分类属性和关系组成的分布——即大卫·刘易斯所称的“休谟马赛克”（Lewis 1973; Loewer 2012）。在休谟派观点中，所有真实的模态主张，包括因果主张，都是基于马赛克的非模态特征。尽管休谟派否认模态属性，包括因果属性，是世界基本本体的一部分，他们可能允许存在可归约为基本物理属性的非基本因果事实。因此，休谟派可以是——而且其中许多人是——*非基本主义者*，而不是_消除论者_关于因果。\[[1](https://plato.stanford.edu/entries/causation-physics/notes.html#note-1)]
 
 相比之下，非休谟派认为基本属性包括模态属性，如规律必然关系、倾向性本质或因果属性。对于非休谟派来说，因果特征可以是世界的基本构成要素之一。一些非休谟派认为，物理学的动力学定律从根本上是因果定律，根据这些定律，系统或世界的早期状态会产生后续状态（莫德林 2007）。其他人认为，物体具有基本倾向、能力或本质，这些本质具有因果性质（卡特赖特 1989; 伯德 2007）。
 
-与形而上学项目相比，_描述性项目_的目标是描述我们的因果推理实践。传统上，哲学家倾向于将这个项目看作其核心目标是提供我们日常概念或因果概念的概念分析。概念分析为“_c_导致_e_”形式的主张提供了必要和充分条件。规律性解释、麦基的_INUS_条件解释，或者大卫·刘易斯的反事实分析都是描述性项目的例子。原则上，该项目可以涉及广泛的数据，包括心理学家和认知科学家的实证研究。然而，描述性项目通常几乎完全集中于探究哲学家在反思时认为是关于因果判断的常识直觉（通常涉及比利和苏茜扔石头或刺客往饮料里倒毒药）。那些发展概念分析的人倾向于将他们的分析集中在常识因果主张上，而不是物理学或更广泛科学中使用因果概念的情况。
+与形而上学项目相比，_描述性项目_的目标是描述我们的因果推理实践。传统上，哲学家倾向于将这个项目看作其核心目标是提供我们日常概念或因果概念的概念分析。概念分析为“*c_导致_e*”形式的主张提供了必要和充分条件。规律性解释、麦基的_INUS_条件解释，或者大卫·刘易斯的反事实分析都是描述性项目的例子。原则上，该项目可以涉及广泛的数据，包括心理学家和认知科学家的实证研究。然而，描述性项目通常几乎完全集中于探究哲学家在反思时认为是关于因果判断的常识直觉（通常涉及比利和苏茜扔石头或刺客往饮料里倒毒药）。那些发展概念分析的人倾向于将他们的分析集中在常识因果主张上，而不是物理学或更广泛科学中使用因果概念的情况。
 
-第三个项目，_功能性项目_，由伍德沃德在（伍德沃德 2014 年）中概述和捍卫，探讨因果概念在我们的认知结构中扮演什么样的功能角色，以及因果认知可以服务于什么目的和目标。关于因果概念不可或缺性的一个有影响力的论据是南希·卡特赖特的论据，即因果概念在区分有效和无效策略方面发挥着关键作用（卡特赖特 1979 年）。
+第三个项目，*功能性项目*，由伍德沃德在（伍德沃德 2014 年）中概述和捍卫，探讨因果概念在我们的认知结构中扮演什么样的功能角色，以及因果认知可以服务于什么目的和目标。关于因果概念不可或缺性的一个有影响力的论据是南希·卡特赖特的论据，即因果概念在区分有效和无效策略方面发挥着关键作用（卡特赖特 1979 年）。
 
 功能项目与近年来讨论的_概念工程_（Cappelen 2018）密切相关。概念工程旨在发展满足特定认知目标的精确哲学概念，通常以现有概念为出发点，提供对该概念的哲学精确化，然后评估精确化概念的实用性。在以现有因果概念为出发点的功能项目中，主要涉及大卫·查尔默斯所称的“再工程”，而不是“_de novo_工程”（查尔默斯 2018，参见[其他互联网资源](https://plato.stanford.edu/entries/causation-physics/#Oth)）。与描述性项目不同，功能项目具有方法论或规范维度，评估因果概念及因果推理类型的实用性。
 
@@ -31,7 +30,7 @@ Woodward（2014）将“因果如何与物理学相契合”区分为一个与�
 
 对于与物理学相容的任何形而上学解释，问题是，因果主张的真理生成者是什么，或者这些主张的基础是什么。有三种选择：(i) 要么因果主张的真理生成者是世界的物理特征，(ii) 要么它们是世界的物理特征的者，(iii) 要么它们是世界的非物理特征，不依赖于世界的物理特征。如果因果主张的真理生成者是物理特征或者依赖于这些特征，那么形而上学解释就与物理完备性的论点相容。然而，在第三种选择上，这种解释与物理完备性是不相容的。
 
-_因果消除论者_认为，没有与物理学相容或者与物理学完备性相容的形而上学解释，因此，应该像伯 trand Russell (1912)所建议的那样，将因果观念从哲学词汇中清除。_非消除论的因果论者_，也是_非基础主义的因果论者_，可以有各种不同的观点。一些非基础主义者允许非基础因果概念可以成为物理学至少某些领域的合法部分。其他非基础主义者否定了后一种说法，并拒绝认为因果观念和因果判断可以在物理学中发挥合法作用。约翰·诺顿是一个非基础主义者，他似乎支持前一种观点，认为虽然因果基础主义是错误的，“在适当限制的情况下，我们的科学意味着自然将符合我们因果期望的某种形式” (Norton 2003: 13)。然而，诺顿似乎也对因果消除论有些同情，因为他将因果概念比作热量的概念——一个在科学中不再被接受为发挥合法作用的概念。
+*因果消除论者_认为，没有与物理学相容或者与物理学完备性相容的形而上学解释，因此，应该像伯 trand Russell (1912)所建议的那样，将因果观念从哲学词汇中清除。*非消除论的因果论者*，也是_非基础主义的因果论者*，可以有各种不同的观点。一些非基础主义者允许非基础因果概念可以成为物理学至少某些领域的合法部分。其他非基础主义者否定了后一种说法，并拒绝认为因果观念和因果判断可以在物理学中发挥合法作用。约翰·诺顿是一个非基础主义者，他似乎支持前一种观点，认为虽然因果基础主义是错误的，“在适当限制的情况下，我们的科学意味着自然将符合我们因果期望的某种形式” (Norton 2003: 13)。然而，诺顿似乎也对因果消除论有些同情，因为他将因果概念比作热量的概念——一个在科学中不再被接受为发挥合法作用的概念。
 
 在_描述性项目_中，我们可以区分两种不同的方式来处理与物理学契合问题。最明显的方式（在哲学文献中更为突出）是提出对我们直觉的常识因果观念进行概念分析，然后询问分析对象在多大程度上在物理学中也起到合法作用。例如，我们可以询问在多大程度上，以时间非对称的反事实依赖来分析的 Lewis 的因果依赖观念在物理推理中发挥作用。正如我们将在下文看到的，最有说服力的否认因果观念与物理学契合的论点最好被理解为参与这种描述性项目的版本。
 
@@ -214,7 +213,7 @@ Green 函数在物理学中具有广泛的适用性，可以很自然地用因�
 * 结构方程 xi=fi(pai,ui)，规定每个变量 xi 的值，以其因果父变量 pai 和随机外生干扰 ui 的值为条件；和
 * 一个概率分布 P(ui) ，覆盖外生变量 Ui 的值 ui ，这导致了所有变量的概率分布。
 
-这是结构模型定义的一部分，外生变量彼此之间是概率独立的（例如，Pearl 2000: 44）。根据这一点以及假设因果模型是完备的，可以推导出_因果马尔可夫条件_，这是一种广义的共同原因条件，并且规定对于集合_V_中的每个变量_X_，在给定_X_的父节点的情况下，_X_与集合 _(V−Descendants(X))_ 中的变量是概率独立的。
+这是结构模型定义的一部分，外生变量彼此之间是概率独立的（例如，Pearl 2000: 44）。根据这一点以及假设因果模型是完备的，可以推导出_因果马尔可夫条件_，这是一种广义的共同原因条件，并且规定对于集合_V_中的每个变量_X_，在给定_X_的父节点的情况下，_X_与集合 *(V−Descendants(X))* 中的变量是概率独立的。
 
 文献中存在一场关于结构模型能在物理学中应用到什么程度以及这些模型对物理学中因果关系角色的影响有多大的辩论。Frisch (2014) 提出，我们可以通过将表征系统初始状态的变量与因果模型中的外生变量以及理论的格林函数与模型的结构方程进行对应来构建物理系统的因果表示（另见 Lloyd 1996）。
 
@@ -276,11 +275,11 @@ CQ2.
 
 ## 7. 因果与量子力学
 
-经常有人争论说量子力学对因果观念特别不友好。早期关于因果观念与量子力学之间的潜在紧张关系的讨论主要集中在量子力学的不确定性上。相比之下，最近的讨论集中在非局域量子相关性违反贝尔不等式这一问题上，提出了对因果分析的挑战。在贝尔型实验的标准设置中，人们考虑两个观察者在两个空间分离的实验室中对两个纠缠子系统进行实验。这两个实验是独立进行的，但结果可能以一种经典因果模型无法轻易解释的方式相关。有不同的方法来推导贝尔不等式。Wiseman 和 Cavalcanti（2017）以及 Wood 和 Spekkens（2015）开发了对各种因果假设状态特别有帮助的分析，他们研究如何将 Pearl 的结构因果模型应用于贝尔实验（Myrvold，Genovese 和 Shimony 2019）。简单来说，Wiseman 和 Cavalcanti 假设贝尔实验发生在闵可夫斯基时空中，并且具有不相对于任何事物的实际结果。然后，他们展示了贝尔实验预测的量子相关性与三个假设的结合相冲突：_相对论因果性_，根据这一原则，事件的因果过去是其过去的光锥；_自由选择_，即测量设置可以自由选择，因此在考虑的系统内部没有原因；以及莱希巴赫的_共同原因原则_，根据这一原则，不以因果关系相联系的事件之间的相关性是由它们共同的过去中的一个共同原因解释的，这个共同原因屏蔽了相关性。
+经常有人争论说量子力学对因果观念特别不友好。早期关于因果观念与量子力学之间的潜在紧张关系的讨论主要集中在量子力学的不确定性上。相比之下，最近的讨论集中在非局域量子相关性违反贝尔不等式这一问题上，提出了对因果分析的挑战。在贝尔型实验的标准设置中，人们考虑两个观察者在两个空间分离的实验室中对两个纠缠子系统进行实验。这两个实验是独立进行的，但结果可能以一种经典因果模型无法轻易解释的方式相关。有不同的方法来推导贝尔不等式。Wiseman 和 Cavalcanti（2017）以及 Wood 和 Spekkens（2015）开发了对各种因果假设状态特别有帮助的分析，他们研究如何将 Pearl 的结构因果模型应用于贝尔实验（Myrvold，Genovese 和 Shimony 2019）。简单来说，Wiseman 和 Cavalcanti 假设贝尔实验发生在闵可夫斯基时空中，并且具有不相对于任何事物的实际结果。然后，他们展示了贝尔实验预测的量子相关性与三个假设的结合相冲突：*相对论因果性*，根据这一原则，事件的因果过去是其过去的光锥；*自由选择*，即测量设置可以自由选择，因此在考虑的系统内部没有原因；以及莱希巴赫的_共同原因原则_，根据这一原则，不以因果关系相联系的事件之间的相关性是由它们共同的过去中的一个共同原因解释的，这个共同原因屏蔽了相关性。
 
 如果我们想要接受量子力学的预测，这些预测似乎在经验上得到了很好的确认，我们必须拒绝至少一个假设。拒绝_自由选择_相当于接受超决定论，根据超决定论，测量设置不能自由选择。或者，我们可以放弃_相对论因果性_，要么通过允许来自一个翼的结果对另一个翼的结果产生超光速的影响，要么通过假设逆因果关系，允许测量结果影响源的早期状态（参见，例如，Price 2012；以及 Friederich＆Evans 2019 中的参考文献）。
 
-虽然这些策略使我们能够保留莱希巴赫的原则，即非因果相关事件之间的相关性是由一个共同原因解释的，但这是有代价的，正如 Wood 和 Spekkens（2015）所展示的，违反了一个被称为_忠诚性_（Spirtes，Glymour 和 Scheines 1993 \[2000: 35]）、_稳定性_（Pearl 2009: 49）或_无微调_的条件，该条件规定每个因果依赖都意味着概率依赖。Wood 和 Spekkens 表明，忠诚性、因果马尔可夫条件以及量子预测是正确的这些假设构成了一个不一致的集合。因此，至少必须放弃这两个条件中的一个——忠诚性或马尔可夫条件。
+虽然这些策略使我们能够保留莱希巴赫的原则，即非因果相关事件之间的相关性是由一个共同原因解释的，但这是有代价的，正如 Wood 和 Spekkens（2015）所展示的，违反了一个被称为_忠诚性_（Spirtes，Glymour 和 Scheines 1993 \[2000: 35]）、*稳定性*（Pearl 2009: 49）或_无微调_的条件，该条件规定每个因果依赖都意味着概率依赖。Wood 和 Spekkens 表明，忠诚性、因果马尔可夫条件以及量子预测是正确的这些假设构成了一个不一致的集合。因此，至少必须放弃这两个条件中的一个——忠诚性或马尔可夫条件。
 
 支持保持忠实的理由在于它是许多因果发现算法中的一个核心假设。然而，也有观点认为，忠实性不能成为因果模型的必要条件（Cartwright 2001）。忠实性违反的典型案例涉及不同因果路径之间的抵消，正如它们在反馈控制结构中发生的那样。例如，环境温度与人体温度有因果关系，即使在广泛的环境温度范围内，人体温度与环境温度在概率上是独立的，因为人体对环境温度变化通过不同的因果路径进行反应，这些机制经过精心调节，使人体能够保持恒定的核心温度。因此，可以说忠实性不是因果模型的必要条件。
 
@@ -296,7 +295,7 @@ CQ2.
 
 早期支持因果解释的辩护者认为因果解释的一个显著特征是它们的形而上学，或者正如阿尔贝托·科法所说的_本体_解释观念。根据这一观念，解释的目标是将现象定位于客观的“因果关系”之中（Salmon 1984: 120）。然而，正如伍德沃德（2003a）的研究所显示的那样，也可以在功能性项目中调查解释与因果之间的关系，审视解释和因果判断在认知角色以及它们与预测、操纵和控制的联系方面。
 
-_因果帝国主义者_，我们可以这样称呼他们，认为所有科学解释从根本上都是因果的。与之相反，新罗素主义者否认因果观念和因果解释在物理学的基础理论中起任何作用。然而，尽管他们存在明显分歧，新罗素主义者和因果帝国主义者都坚持伍德沃德所称的“隐藏结构策略”（Woodward 2003b \[2019]）。这两种观点都致力于彼得·雷尔顿所说的“理想解释文本”（Railton 1981），其中包含了关于某一现象完整解释的所有相关信息。虽然实际解释可能无法提供理想解释文本中包含的完整信息，但根据隐藏结构策略，它们之所以具有解释性，是因为为我们提供了关于文本的一些信息。
+*因果帝国主义者*，我们可以这样称呼他们，认为所有科学解释从根本上都是因果的。与之相反，新罗素主义者否认因果观念和因果解释在物理学的基础理论中起任何作用。然而，尽管他们存在明显分歧，新罗素主义者和因果帝国主义者都坚持伍德沃德所称的“隐藏结构策略”（Woodward 2003b \[2019]）。这两种观点都致力于彼得·雷尔顿所说的“理想解释文本”（Railton 1981），其中包含了关于某一现象完整解释的所有相关信息。虽然实际解释可能无法提供理想解释文本中包含的完整信息，但根据隐藏结构策略，它们之所以具有解释性，是因为为我们提供了关于文本的一些信息。
 
 对于新罗素主义者来说，基本的解释结构包括给定_解释对象_的反向光锥的微物理完整动力学模型。虽然新罗素主义观点认为，在某些非基本领域和出于实用原因，关于理想解释文本的信息可以有益地用因果术语呈现，但该观点认为理想的物理解释并非因果的。因果帝国主义将这一觏图颠倒过来：对于刘易斯和其他人来说，潜在的理想解释结构是因果结构。因此，所有解释都是因果的，因为它们提供关于这一结构的信息，即使在实际解释中提供的信息可能不是用因果术语呈现的。
 
@@ -310,110 +309,110 @@ _因果帝国主义者_，我们可以这样称呼他们，认为所有科学解
 
 ## Bibliography
 
-* Albert, David Z., 2000, _Time and Chance_, Cambridge, MA: Harvard University Press.
-* –––, 2015, _After Physics_, Cambridge, MA: Harvard University Press.
-* Allen, John-Mark A., Jonathan Barrett, Dominic C. Horsman, Ciarán M. Lee, and Robert W. Spekkens, 2017, “Quantum Common Causes and Quantum Causal Models”, _Physical Review X_, 7(3): 031021. doi:10.1103/PhysRevX.7.031021
-* Arntzenius, Frank, 1992, “The Common Cause Principle”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1992: 227–237.
-* –––, 1999 \[2010], “Reichenbach’s Common Cause Principle”, in _The Stanford Encyclopedia of Philosophy_ (Fall 2010 edition), Edward N. Zalta (ed.), URL = <[Reichenbach's Common Cause Principle (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/physics-Rpcc/)>
-* Atkinson, David, 2006, “Does Quantum Electrodynamics Have an Arrow of Time?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 37(3): 528–541. doi:10.1016/j.shpsb.2005.03.003
-* Ben-Menahem, Yemima, 2018, _Causation in Science_, Princeton, NJ: Princeton University Press.
-* Bird, Alexander, 2007, _Nature’s Metaphysics: Laws and Properties_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199227013.001.0001
-* Callender, Craig, 2000, “Is Time ‘Handed’ in a Quantum World?”, _Proceedings of the Aristotelian Society_, 100: 247–269. doi:10.1111/j.0066-7372.2003.00015.x
-* Cappelen, Herman, 2018, _Fixing Language: An Essay on Conceptual Engineering_, Oxford: Oxford University Press. doi:10.1093/oso/9780198814719.003.0001
-* Cartwright, Nancy, 1979, “Causal Laws and Effective Strategies”, _Noûs_, 13(4): 419–437. doi:10.2307/2215337
-* –––, 1989, _Nature’s Capacities and Their Measurement_, Oxford: Oxford University Press. doi:10.1093/0198235070.001.0001
-* –––, 1999, _The Dappled World: A Study of the Boundaries of Science_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139167093
-* –––, 2001, “What Is Wrong With Bayes Nets?”:, _Monist_, 84(2): 242–264. doi:10.5840/monist20018429
-* Costa, Fabio and Sally Shrapnel, 2016, “Quantum Causal Modelling”, _New Journal of Physics_, 18(6): 063032. doi:10.1088/1367-2630/18/6/063032
-* Dowe, Phil, 2000, _Physical Causation_, (Cambridge Studies in Probability, Induction and Decision Theory), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570650
-* Earman, John, 2011, “Sharpening the Electromagnetic Arrow(s) of Time”, in _The Oxford Handbook of Philosophy of Time_, Craig Callender (ed.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199298204.003.0017
-* –––, 2014, “No Superluminal Propagation for Classical Relativistic and Relativistic Quantum Fields”, in special issue on _Relativistic Causality_ of _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 48: 102–108. doi:10.1016/j.shpsb.2014.07.005
-* Eberhardt, Frederick and Richard Scheines, 2007, “Interventions and Causal Inference”, _Philosophy of Science_, 74(5): 981–995. doi:10.1086/525638
-* Einstein, Albert, 1909a, “Über die Entwicklung unserer Anschauung über das Wesen und die Konstitution der Strahlung”, _Physikalische Zeitschrift_, 10(22): 817–825.
-* –––, 1909b, “Zum Gegenwärtigen stand des Strahlungsproblems”, _Physikalische Zeitschrift_, 10(6): 185–193.
-* –––, 1948, “Quanten-Mechanik Und Wirklichkeit”, _Dialectica_, 2(3–4): 320–324. doi:10.1111/j.1746-8361.1948.tb00704.x
-* Farr, Matt and Alexander Reutlinger, 2013, “A Relic of a Bygone Age? Causation, Time Symmetry and the Directionality Argument”, _Erkenntnis_, 78(S2): 215–235. doi:10.1007/s10670-013-9510-z
-* Feynman, Richard P., 1965, _The Character of Physical Law_, Cambridge, MA: MIT Press.
-* Field, Hartry, 2003, “Causation in a Physical World”, in _The Oxford Handbook of Metaphysics_, Michael J. Loux and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 435–460. doi:10.1093/oxfordhb/9780199284221.003.0015
-* Fletcher, Samuel Craig, 2012, “What Counts as a Newtonian System? The View from Norton’s Dome”, _European Journal for Philosophy of Science_, 2(3): 275–297. doi:10.1007/s13194-011-0040-8
-* Friederich, Simon and Peter W. Evans, 2019, “Retrocausality in Quantum Mechanics”, in _The Stanford Encyclopedia of Philosophy_ (Summer 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/](https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/)
-* Frisch, Mathias, 2002, “Non-Locality in Classical Electrodynamics”, _The British Journal for the Philosophy of Science_, 53(1): 1–19. doi:10.1093/bjps/53.1.1
-* –––, 2005, _Inconsistency, Asymmetry, and Non-Locality_, Oxford: Oxford University Press. doi:10.1093/0195172159.001.0001
-* –––, 2006, “A Tale of Two Arrows”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 37(3): 542–558. doi:10.1016/j.shpsb.2005.03.004
+* Albert, David Z., 2000, *Time and Chance*, Cambridge, MA: Harvard University Press.
+* –––, 2015, *After Physics*, Cambridge, MA: Harvard University Press.
+* Allen, John-Mark A., Jonathan Barrett, Dominic C. Horsman, Ciarán M. Lee, and Robert W. Spekkens, 2017, “Quantum Common Causes and Quantum Causal Models”, *Physical Review X*, 7(3): 031021. doi:10.1103/PhysRevX.7.031021
+* Arntzenius, Frank, 1992, “The Common Cause Principle”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1992: 227–237.
+* –––, 1999 \[2010], “Reichenbach’s Common Cause Principle”, in *The Stanford Encyclopedia of Philosophy* (Fall 2010 edition), Edward N. Zalta (ed.), URL = <[Reichenbach's Common Cause Principle (Stanford Encyclopedia of Philosophy/Fall 2010 Edition)](https://plato.stanford.edu/archives/fall2010/entries/physics-Rpcc/)>
+* Atkinson, David, 2006, “Does Quantum Electrodynamics Have an Arrow of Time?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 37(3): 528–541. doi:10.1016/j.shpsb.2005.03.003
+* Ben-Menahem, Yemima, 2018, *Causation in Science*, Princeton, NJ: Princeton University Press.
+* Bird, Alexander, 2007, *Nature’s Metaphysics: Laws and Properties*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199227013.001.0001
+* Callender, Craig, 2000, “Is Time ‘Handed’ in a Quantum World?”, *Proceedings of the Aristotelian Society*, 100: 247–269. doi:10.1111/j.0066-7372.2003.00015.x
+* Cappelen, Herman, 2018, *Fixing Language: An Essay on Conceptual Engineering*, Oxford: Oxford University Press. doi:10.1093/oso/9780198814719.003.0001
+* Cartwright, Nancy, 1979, “Causal Laws and Effective Strategies”, *Noûs*, 13(4): 419–437. doi:10.2307/2215337
+* –––, 1989, *Nature’s Capacities and Their Measurement*, Oxford: Oxford University Press. doi:10.1093/0198235070.001.0001
+* –––, 1999, *The Dappled World: A Study of the Boundaries of Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139167093
+* –––, 2001, “What Is Wrong With Bayes Nets?”:, *Monist*, 84(2): 242–264. doi:10.5840/monist20018429
+* Costa, Fabio and Sally Shrapnel, 2016, “Quantum Causal Modelling”, *New Journal of Physics*, 18(6): 063032. doi:10.1088/1367-2630/18/6/063032
+* Dowe, Phil, 2000, *Physical Causation*, (Cambridge Studies in Probability, Induction and Decision Theory), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570650
+* Earman, John, 2011, “Sharpening the Electromagnetic Arrow(s) of Time”, in *The Oxford Handbook of Philosophy of Time*, Craig Callender (ed.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199298204.003.0017
+* –––, 2014, “No Superluminal Propagation for Classical Relativistic and Relativistic Quantum Fields”, in special issue on *Relativistic Causality* of *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 48: 102–108. doi:10.1016/j.shpsb.2014.07.005
+* Eberhardt, Frederick and Richard Scheines, 2007, “Interventions and Causal Inference”, *Philosophy of Science*, 74(5): 981–995. doi:10.1086/525638
+* Einstein, Albert, 1909a, “Über die Entwicklung unserer Anschauung über das Wesen und die Konstitution der Strahlung”, *Physikalische Zeitschrift*, 10(22): 817–825.
+* –––, 1909b, “Zum Gegenwärtigen stand des Strahlungsproblems”, *Physikalische Zeitschrift*, 10(6): 185–193.
+* –––, 1948, “Quanten-Mechanik Und Wirklichkeit”, *Dialectica*, 2(3–4): 320–324. doi:10.1111/j.1746-8361.1948.tb00704.x
+* Farr, Matt and Alexander Reutlinger, 2013, “A Relic of a Bygone Age? Causation, Time Symmetry and the Directionality Argument”, *Erkenntnis*, 78(S2): 215–235. doi:10.1007/s10670-013-9510-z
+* Feynman, Richard P., 1965, *The Character of Physical Law*, Cambridge, MA: MIT Press.
+* Field, Hartry, 2003, “Causation in a Physical World”, in *The Oxford Handbook of Metaphysics*, Michael J. Loux and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 435–460. doi:10.1093/oxfordhb/9780199284221.003.0015
+* Fletcher, Samuel Craig, 2012, “What Counts as a Newtonian System? The View from Norton’s Dome”, *European Journal for Philosophy of Science*, 2(3): 275–297. doi:10.1007/s13194-011-0040-8
+* Friederich, Simon and Peter W. Evans, 2019, “Retrocausality in Quantum Mechanics”, in *The Stanford Encyclopedia of Philosophy* (Summer 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/](https://plato.stanford.edu/archives/sum2019/entries/qm-retrocausality/)
+* Frisch, Mathias, 2002, “Non-Locality in Classical Electrodynamics”, *The British Journal for the Philosophy of Science*, 53(1): 1–19. doi:10.1093/bjps/53.1.1
+* –––, 2005, *Inconsistency, Asymmetry, and Non-Locality*, Oxford: Oxford University Press. doi:10.1093/0195172159.001.0001
+* –––, 2006, “A Tale of Two Arrows”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 37(3): 542–558. doi:10.1016/j.shpsb.2005.03.004
 * –––, 2007, “Causation, Counterfactuals and Entropy”, in Price and Corry 2007: 351–395.
-* –––, 2009a, “Causality and Dispersion: A Reply to John Norton”, _The British Journal for the Philosophy of Science_, 60(3): 487–495. doi:10.1093/bjps/axp031
-* –––, 2009b, “‘The Most Sacred Tenet’? Causal Reasoning in Physics”, _The British Journal for the Philosophy of Science_, 60(3): 459–474. doi:10.1093/bjps/axp029
-* –––, 2010, “Does a Low-Entropy Constraint Prevent Us from Influencing the Past?”, in _Time, Chance and Reduction: Philosophical Aspects of Statistical Mechanics_, Gerhard Ernst and Andreas Huttemann (eds.), Cambridge: Cambridge University Press, 13–33. doi:10.1017/CBO9780511770777.002
-* –––, 2014, _Causal Reasoning in Physics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139381772
-* Frisch, Mathias and Wolfgang Pietsch, 2016, “Reassessing the Ritz–Einstein Debate on the Radiation Asymmetry in Classical Electrodynamics”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 55: 13–23. doi:10.1016/j.shpsb.2016.05.001
-* Glymour, Clark, 2006, “Markov Properties and Quantum Experiments”, in _Physical Theory and Its Interpretation_, William Demopoulos and Itamar Pitowsky (eds.), (The Western Ontario Series in Philosophy of Science, 72), Dordrecht: Springer Netherlands, 117–126. doi:10.1007/1-4020-4876-9\_5
-* Griffiths, David J., 2017, _Introduction to Electrodynamics_, fourth edition, Cambridge: Cambridge University Press.
-* Hausman, Daniel M. and James Woodward, 1999, “Independence, Invariance and the Causal Markov Condition”, _The British Journal for the Philosophy of Science_, 50(4): 521–583. doi:10.1093/bjps/50.4.521
-* Healey, Richard A., 1983, “Temporal and Causal Asymmetry”, in _Space, Time and Causality_, Richard Swinburne (ed.), (Syntheses Library 157), Dordrecht: Springer Netherlands, 79–103. doi:10.1007/978-94-009-6966-7\_6
-* Hempel, Carl G. and Paul Oppenheim, 1948, “Studies in the Logic of Explanation”, _Philosophy of Science_, 15(2): 135–175. doi:10.1086/286983
-* Horwich, Paul, 1987, _Asymmetries in Time: Problems in the Philosophy of Science_, Cambridge, MA: MIT Press.
-* Howard, Don, 1985, “Einstein on Locality and Separability”, _Studies in History and Philosophy of Science Part A_, 16(3): 171–201. doi:10.1016/0039-3681(85)90001-9
-* Ismael, J. T., 2016, _How Physics Makes Us Free_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190269449.001.0001
-* Jackson, John David, 1999, _Classical Electrodynamics_, New York: Wiley.
-* Kirchhoff, Gustav R., 1876, _Vorlesungen über mathematische Physik: Mechanik. I_, Leipzig: B.G. Teubner.
-* Kistler, Max, 1999 \[2006], _Causalité et lois de la nature_, Paris: J. Vrin. Translated by the author as _Causation and Laws of Nature_, London: Routledge, 2006. doi:10.4324/9780203966228
-* Kittel, Charles, 2005, _Introduction to Solid State Physics_, eighth edition, Hoboken, NJ: John Wiley & Sons.
-* Lange, Marc, 2002, _An Introduction to the Philosophy of Physics: Locality, Fields, Energy, and Mass_, Oxford: Wiley-Blackwell.
-* –––, 2016, _Because Without Cause: Non-Causal Explanations in Science and Mathematics_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190269487.001.0001
-* Lewis, David, 1973, “Causation”, _The Journal of Philosophy_, 70(17): 556–567. doi:10.2307/2025310
-* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, _Noûs_, 13(4): 455–476. doi:10.2307/2215339
-* –––, 1986, “Causal Explanation”, in his _Philosophical Papers Vol. Ii_, Oxford: Oxford University Press, 214–240.
-* Lloyd, Seth, 1996, “Causal Asymmetry from Statistics”, In _Physical Origins of Time Asymmetry_, J. J. Halliwell, J. Pérez-Mercader, and W. H. Zurek (eds), Cambridge: Cambridge University Press, 108–116.
+* –––, 2009a, “Causality and Dispersion: A Reply to John Norton”, *The British Journal for the Philosophy of Science*, 60(3): 487–495. doi:10.1093/bjps/axp031
+* –––, 2009b, “‘The Most Sacred Tenet’? Causal Reasoning in Physics”, *The British Journal for the Philosophy of Science*, 60(3): 459–474. doi:10.1093/bjps/axp029
+* –––, 2010, “Does a Low-Entropy Constraint Prevent Us from Influencing the Past?”, in *Time, Chance and Reduction: Philosophical Aspects of Statistical Mechanics*, Gerhard Ernst and Andreas Huttemann (eds.), Cambridge: Cambridge University Press, 13–33. doi:10.1017/CBO9780511770777.002
+* –––, 2014, *Causal Reasoning in Physics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139381772
+* Frisch, Mathias and Wolfgang Pietsch, 2016, “Reassessing the Ritz–Einstein Debate on the Radiation Asymmetry in Classical Electrodynamics”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 55: 13–23. doi:10.1016/j.shpsb.2016.05.001
+* Glymour, Clark, 2006, “Markov Properties and Quantum Experiments”, in *Physical Theory and Its Interpretation*, William Demopoulos and Itamar Pitowsky (eds.), (The Western Ontario Series in Philosophy of Science, 72), Dordrecht: Springer Netherlands, 117–126. doi:10.1007/1-4020-4876-9\_5
+* Griffiths, David J., 2017, *Introduction to Electrodynamics*, fourth edition, Cambridge: Cambridge University Press.
+* Hausman, Daniel M. and James Woodward, 1999, “Independence, Invariance and the Causal Markov Condition”, *The British Journal for the Philosophy of Science*, 50(4): 521–583. doi:10.1093/bjps/50.4.521
+* Healey, Richard A., 1983, “Temporal and Causal Asymmetry”, in *Space, Time and Causality*, Richard Swinburne (ed.), (Syntheses Library 157), Dordrecht: Springer Netherlands, 79–103. doi:10.1007/978-94-009-6966-7\_6
+* Hempel, Carl G. and Paul Oppenheim, 1948, “Studies in the Logic of Explanation”, *Philosophy of Science*, 15(2): 135–175. doi:10.1086/286983
+* Horwich, Paul, 1987, *Asymmetries in Time: Problems in the Philosophy of Science*, Cambridge, MA: MIT Press.
+* Howard, Don, 1985, “Einstein on Locality and Separability”, *Studies in History and Philosophy of Science Part A*, 16(3): 171–201. doi:10.1016/0039-3681(85)90001-9
+* Ismael, J. T., 2016, *How Physics Makes Us Free*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190269449.001.0001
+* Jackson, John David, 1999, *Classical Electrodynamics*, New York: Wiley.
+* Kirchhoff, Gustav R., 1876, *Vorlesungen über mathematische Physik: Mechanik. I*, Leipzig: B.G. Teubner.
+* Kistler, Max, 1999 \[2006], *Causalité et lois de la nature*, Paris: J. Vrin. Translated by the author as *Causation and Laws of Nature*, London: Routledge, 2006. doi:10.4324/9780203966228
+* Kittel, Charles, 2005, *Introduction to Solid State Physics*, eighth edition, Hoboken, NJ: John Wiley & Sons.
+* Lange, Marc, 2002, *An Introduction to the Philosophy of Physics: Locality, Fields, Energy, and Mass*, Oxford: Wiley-Blackwell.
+* –––, 2016, *Because Without Cause: Non-Causal Explanations in Science and Mathematics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190269487.001.0001
+* Lewis, David, 1973, “Causation”, *The Journal of Philosophy*, 70(17): 556–567. doi:10.2307/2025310
+* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13(4): 455–476. doi:10.2307/2215339
+* –––, 1986, “Causal Explanation”, in his *Philosophical Papers Vol. Ii*, Oxford: Oxford University Press, 214–240.
+* Lloyd, Seth, 1996, “Causal Asymmetry from Statistics”, In *Physical Origins of Time Asymmetry*, J. J. Halliwell, J. Pérez-Mercader, and W. H. Zurek (eds), Cambridge: Cambridge University Press, 108–116.
 * Loewer, Barry, 2007, “Counterfactuals and the Second Law”, in Price and Corry 2007: 293–326.
-* –––, 2012, “Two Accounts of Laws and Time”, _Philosophical Studies_, 160(1): 115–137. doi:10.1007/s11098-012-9911-x
-* Mach, Ernst, 1900, _Die principien der wärmelehre. Historisch-kritisch entwickelt_, Leipzig: J.A. Barth.
-* –––, 1905, _Erkenntnis und Irrtum. Skizzen zur Psychologie der Forschung_, Leipzig: Barth.
-* Maudlin, Tim, 2007, _The Metaphysics Within Physics_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199218219.001.0001
-* Myrvold, Wayne, Marco Genovese, and Abner Shimony, 2019, “Bell’s Theorem”, in _The Stanford Encyclopedia of Philosophy_ (Spring 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/bell-theorem/](https://plato.stanford.edu/archives/spr2019/entries/bell-theorem/)
-* Näger, Paul M., 2016, “The Causal Problem of Entanglement”, _Synthese_, 193(4): 1127–1155. doi:10.1007/s11229-015-0668-6
-* Ney, Alyssa, 2009, “Physical Causation and Difference-Making”, _The British Journal for the Philosophy of Science_, 60(4): 737–764. doi:10.1093/bjps/axp037
-* –––, 2016, “Microphysical Causation and the Case for Physicalism”, _Analytic Philosophy_, 57(2): 141–164. doi:10.1111/phib.12082
-* North, Jill, 2003, “Understanding the Time‐Asymmetry of Radiation”, _Philosophy of Science_, 70(5): 1086–1097. doi:10.1086/377391
-* Norton, John D., 2003, “Causation as Folk Science”, _Philosopher’s Imprint_, 3(4): 22 pages. \[[Norton 2003 available online](http://hdl.handle.net/2027/spo.3521354.0003.004)]
-* –––, 2007, “Do the Causal Principles of Modern Physics Contradict Causal Anti-Fundamentalism?”, in _Thinking about Causes: From Greek Philosophy to Modern Physics_, P.K. Machamer and G. Wolters (eds), Pittsburgh: Pittsburgh University Press, 222–234.
-* –––, 2009, “Is There an Independent Principle of Causality in Physics?”, _The British Journal for the Philosophy of Science_, 60(3): 475–486. doi:10.1093/bjps/axp030
-* Papineau, David, 1985, “Causal Asymmetry”, _The British Journal for the Philosophy of Science_, 36(3): 273–289. doi:10.1093/bjps/36.3.273
-* Pearl, Judea, 2000, _Causality: Models, Reasoning, and Inference_, first edition, Cambridge: Cambridge University Press.
-* –––, 2009, _Causality: Models, Reasoning, and Inference_, second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511803161
-* Price, Huw, 1997, _Time’s Arrow & Archimedes’ Point: New Directions for the Physics of Time_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195117981.001.0001
-* –––, 2006, “Recent Work on the Arrow of Radiation”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 37(3): 498–527. doi:10.1016/j.shpsb.2006.03.004
-* –––, 2012, “Does Time-Symmetry Imply Retrocausality? How the Quantum World Says ‘Maybe’?”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 43(2): 75–83. doi:10.1016/j.shpsb.2011.12.003
-* Price, Huw and Richard Corry (eds), 2007, _Causation, Physics, and the Constitution of Reality Russell’s Republic Revisited_, Oxford: Clarendon Press.
-* Price, Huw and Brad Weslake, 2009, “The Time‐Asymmetry of Causation”, in _The Oxford Handbook of Causation_, Helen Beebee, Christopher Hitchcock, and Peter Menzies (eds.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199279739.003.0021
-* Railton, Peter, 1981, “Probability, Explanation, and Information”, _Synthese_, 48(2): 233–256. doi:10.1007/BF01063889
-* Reichenbach, Hans, 1956, _The Direction of Time_, Berkeley, CA: University of California Press.
-* Ritz, Walther, 1908, “Über die Grundlagen der Elektrodynamik und die Theorie des schwarzen Strahlung”, _Physikalische Zeitschrift_, 9(25): 903–907.
-* Rohrlich, Fritz, 2006, “Time in Classical Electrodynamics”, _American Journal of Physics_, 74(4): 313–315. doi:10.1119/1.2178847
-* –––, 2007, _Classical Charged Particles_, Singapore; Hackensack, NJ: World Scientific.
-* Russell, Bertrand, 1912, “On the Notion of Cause”, _Proceedings of the Aristotelian Society_, 13: 1–26. doi:10.1093/aristotelian/13.1.1
-* –––, 1927 \[1992], _The Analysis of Matter_, London: Keegan Paul. Reprinted by Psychology Press, 1992.
-* Salmon, Wesley C., 1984, _Scientific Explanation and the Causal Structure of the World_, Princeton, NJ: Princeton University Press.
-* Schrödinger, Erwin, 1935, “Die gegenwärtige Situation in der Quantenmechanik”, _Naturwissenschaften_, 23(48): 807–812. doi: 10.1007/BF01491891
-* –––, 1951, _Science and Humanism; Physics in Our Time_, Cambridge: Cambridge University Press.
-* Shrapnel, Sally, 2014, “Quantum Causal Explanation: Or, Why Birds Fly South”, _European Journal for Philosophy of Science_, 4(3): 409–423. doi:10.1007/s13194-014-0094-5
-* –––, 2019, “Discovering Quantum Causal Models”, _The British Journal for the Philosophy of Science_, 70(1): 1–25. doi:10.1093/bjps/axx044
-* Sider, Theodore, 2011, _Writing the Book of the World_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
-* Skow, B., 2014, “Are There Non-Causal Explanations (of Particular Events)?”, _The British Journal for the Philosophy of Science_, 65(3): 445–467. doi:10.1093/bjps/axs047
-* Skyrms, Brian, 1984, “EPR: Lessons for Metaphysics”, _Midwest Studies in Philosophy_, 9: 245–255. doi:10.1111/j.1475-4975.1984.tb00062.x
-* Smith, Sheldon R., 2013, “Causation in Classical Mechanics”, in _The Oxford Handbook of Philosophy of Physics_, Robert Batterman (ed.), Oxford: Oxford University Press, 107–140. doi:10.1093/oxfordhb/9780195392043.013.0004
-* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993 \[2000], _Causation, Prediction, and Search_, first edition, (Lecture Notes in Statistics 81), New York: Springer New York. Second edition, Cambridge, MA: MIT Press, 2000. doi:10.1007/978-1-4612-2748-9
-* Suppes, Patrick, 1970, _A Probabilistic Theory of Causality_, Amsterdam: North-Holland.
-* Watanabe, Satosi, 1965, “Conditional Probability in Physics”, _Progress of Theoretical Physics Supplement_, E65: 135–160. doi:10.1143/PTPS.E65.135
-* Wheeler, John Archibald and Richard Phillips Feynman, 1945, “Interaction with the Absorber as the Mechanism of Radiation”, _Reviews of Modern Physics_, 17(2–3): 157–181. doi:10.1103/RevModPhys.17.157
-* Wiseman, Howard M. and Eric G. Cavalcanti, 2017, “Causarum Investigatio and the Two Bell’s Theorems of John Bell”, in _Quantum \[Un]Speakables II: Half a Century of Bell’ s Theorem_, Reinhold Bertlmann and Anton Zeilinger (eds.), (The Frontiers Collection), Cham: Springer International Publishing, 119–142. doi:10.1007/978-3-319-38987-5\_6
-* Wood, Christopher J. and Robert W. Spekkens, 2015, “The Lesson of Causal Discovery Algorithms for Quantum Correlations: Causal Explanations of Bell-Inequality Violations Require Fine-Tuning”, _New Journal of Physics_, 17(3): 033002. doi:10.1088/1367-2630/17/3/033002
-* Woodward, James, 1979, “Scientific Explanation”, _The British Journal for the Philosophy of Science_, 30(1): 41–67. doi:10.1093/bjps/30.1.41
-* –––, 2003a, _Making Things Happen_, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
-* –––, 2003b \[2019], “Scientific Explanation”, in _The Stanford Encyclopedia of Philosophy_ (Winter 2019 edition], Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2017/entries/scientific-explanation/](https://plato.stanford.edu/archives/spr2017/entries/scientific-explanation/)
-* –––, 2007, “Causation with a Human Face”, in _Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited_, Huw Price and Richard Corry (eds.), Oxford: Oxford University Press, 66–105.
-* –––, 2014, “A Functional Account of Causation; or, A Defense of the Legitimacy of Causal Thinking by Reference to the Only Standard That Matters—Usefulness (as Opposed to Metaphysics or Agreement with Intuitive Judgment)”, _Philosophy of Science_, 81(5): 691–713. doi:10.1086/678313
-* –––, 2016, “Causation in Science”, in _The Oxford Handbook of Philosophy of Science_, Paul Humphreys (ed.), Oxford: Oxford University Press, 163–284. doi:10.1093/oxfordhb/9780199368815.013.8\_update\_001
-* Zeh, H. Dieter, 2007, _The Physical Basis of the Direction of Time_ (The Frontiers Collection), Berlin, Heidelberg: Springer. doi:10.1007/978-3-540-68001-7
+* –––, 2012, “Two Accounts of Laws and Time”, *Philosophical Studies*, 160(1): 115–137. doi:10.1007/s11098-012-9911-x
+* Mach, Ernst, 1900, *Die principien der wärmelehre. Historisch-kritisch entwickelt*, Leipzig: J.A. Barth.
+* –––, 1905, *Erkenntnis und Irrtum. Skizzen zur Psychologie der Forschung*, Leipzig: Barth.
+* Maudlin, Tim, 2007, *The Metaphysics Within Physics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199218219.001.0001
+* Myrvold, Wayne, Marco Genovese, and Abner Shimony, 2019, “Bell’s Theorem”, in *The Stanford Encyclopedia of Philosophy* (Spring 2019 edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2019/entries/bell-theorem/](https://plato.stanford.edu/archives/spr2019/entries/bell-theorem/)
+* Näger, Paul M., 2016, “The Causal Problem of Entanglement”, *Synthese*, 193(4): 1127–1155. doi:10.1007/s11229-015-0668-6
+* Ney, Alyssa, 2009, “Physical Causation and Difference-Making”, *The British Journal for the Philosophy of Science*, 60(4): 737–764. doi:10.1093/bjps/axp037
+* –––, 2016, “Microphysical Causation and the Case for Physicalism”, *Analytic Philosophy*, 57(2): 141–164. doi:10.1111/phib.12082
+* North, Jill, 2003, “Understanding the Time‐Asymmetry of Radiation”, *Philosophy of Science*, 70(5): 1086–1097. doi:10.1086/377391
+* Norton, John D., 2003, “Causation as Folk Science”, *Philosopher’s Imprint*, 3(4): 22 pages. \[[Norton 2003 available online](http://hdl.handle.net/2027/spo.3521354.0003.004)]
+* –––, 2007, “Do the Causal Principles of Modern Physics Contradict Causal Anti-Fundamentalism?”, in *Thinking about Causes: From Greek Philosophy to Modern Physics*, P.K. Machamer and G. Wolters (eds), Pittsburgh: Pittsburgh University Press, 222–234.
+* –––, 2009, “Is There an Independent Principle of Causality in Physics?”, *The British Journal for the Philosophy of Science*, 60(3): 475–486. doi:10.1093/bjps/axp030
+* Papineau, David, 1985, “Causal Asymmetry”, *The British Journal for the Philosophy of Science*, 36(3): 273–289. doi:10.1093/bjps/36.3.273
+* Pearl, Judea, 2000, *Causality: Models, Reasoning, and Inference*, first edition, Cambridge: Cambridge University Press.
+* –––, 2009, *Causality: Models, Reasoning, and Inference*, second edition, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511803161
+* Price, Huw, 1997, *Time’s Arrow & Archimedes’ Point: New Directions for the Physics of Time*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195117981.001.0001
+* –––, 2006, “Recent Work on the Arrow of Radiation”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 37(3): 498–527. doi:10.1016/j.shpsb.2006.03.004
+* –––, 2012, “Does Time-Symmetry Imply Retrocausality? How the Quantum World Says ‘Maybe’?”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 43(2): 75–83. doi:10.1016/j.shpsb.2011.12.003
+* Price, Huw and Richard Corry (eds), 2007, *Causation, Physics, and the Constitution of Reality Russell’s Republic Revisited*, Oxford: Clarendon Press.
+* Price, Huw and Brad Weslake, 2009, “The Time‐Asymmetry of Causation”, in *The Oxford Handbook of Causation*, Helen Beebee, Christopher Hitchcock, and Peter Menzies (eds.), Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199279739.003.0021
+* Railton, Peter, 1981, “Probability, Explanation, and Information”, *Synthese*, 48(2): 233–256. doi:10.1007/BF01063889
+* Reichenbach, Hans, 1956, *The Direction of Time*, Berkeley, CA: University of California Press.
+* Ritz, Walther, 1908, “Über die Grundlagen der Elektrodynamik und die Theorie des schwarzen Strahlung”, *Physikalische Zeitschrift*, 9(25): 903–907.
+* Rohrlich, Fritz, 2006, “Time in Classical Electrodynamics”, *American Journal of Physics*, 74(4): 313–315. doi:10.1119/1.2178847
+* –––, 2007, *Classical Charged Particles*, Singapore; Hackensack, NJ: World Scientific.
+* Russell, Bertrand, 1912, “On the Notion of Cause”, *Proceedings of the Aristotelian Society*, 13: 1–26. doi:10.1093/aristotelian/13.1.1
+* –––, 1927 \[1992], *The Analysis of Matter*, London: Keegan Paul. Reprinted by Psychology Press, 1992.
+* Salmon, Wesley C., 1984, *Scientific Explanation and the Causal Structure of the World*, Princeton, NJ: Princeton University Press.
+* Schrödinger, Erwin, 1935, “Die gegenwärtige Situation in der Quantenmechanik”, *Naturwissenschaften*, 23(48): 807–812. doi: 10.1007/BF01491891
+* –––, 1951, *Science and Humanism; Physics in Our Time*, Cambridge: Cambridge University Press.
+* Shrapnel, Sally, 2014, “Quantum Causal Explanation: Or, Why Birds Fly South”, *European Journal for Philosophy of Science*, 4(3): 409–423. doi:10.1007/s13194-014-0094-5
+* –––, 2019, “Discovering Quantum Causal Models”, *The British Journal for the Philosophy of Science*, 70(1): 1–25. doi:10.1093/bjps/axx044
+* Sider, Theodore, 2011, *Writing the Book of the World*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199697908.001.0001
+* Skow, B., 2014, “Are There Non-Causal Explanations (of Particular Events)?”, *The British Journal for the Philosophy of Science*, 65(3): 445–467. doi:10.1093/bjps/axs047
+* Skyrms, Brian, 1984, “EPR: Lessons for Metaphysics”, *Midwest Studies in Philosophy*, 9: 245–255. doi:10.1111/j.1475-4975.1984.tb00062.x
+* Smith, Sheldon R., 2013, “Causation in Classical Mechanics”, in *The Oxford Handbook of Philosophy of Physics*, Robert Batterman (ed.), Oxford: Oxford University Press, 107–140. doi:10.1093/oxfordhb/9780195392043.013.0004
+* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993 \[2000], *Causation, Prediction, and Search*, first edition, (Lecture Notes in Statistics 81), New York: Springer New York. Second edition, Cambridge, MA: MIT Press, 2000. doi:10.1007/978-1-4612-2748-9
+* Suppes, Patrick, 1970, *A Probabilistic Theory of Causality*, Amsterdam: North-Holland.
+* Watanabe, Satosi, 1965, “Conditional Probability in Physics”, *Progress of Theoretical Physics Supplement*, E65: 135–160. doi:10.1143/PTPS.E65.135
+* Wheeler, John Archibald and Richard Phillips Feynman, 1945, “Interaction with the Absorber as the Mechanism of Radiation”, *Reviews of Modern Physics*, 17(2–3): 157–181. doi:10.1103/RevModPhys.17.157
+* Wiseman, Howard M. and Eric G. Cavalcanti, 2017, “Causarum Investigatio and the Two Bell’s Theorems of John Bell”, in *Quantum \[Un]Speakables II: Half a Century of Bell’ s Theorem*, Reinhold Bertlmann and Anton Zeilinger (eds.), (The Frontiers Collection), Cham: Springer International Publishing, 119–142. doi:10.1007/978-3-319-38987-5\_6
+* Wood, Christopher J. and Robert W. Spekkens, 2015, “The Lesson of Causal Discovery Algorithms for Quantum Correlations: Causal Explanations of Bell-Inequality Violations Require Fine-Tuning”, *New Journal of Physics*, 17(3): 033002. doi:10.1088/1367-2630/17/3/033002
+* Woodward, James, 1979, “Scientific Explanation”, *The British Journal for the Philosophy of Science*, 30(1): 41–67. doi:10.1093/bjps/30.1.41
+* –––, 2003a, *Making Things Happen*, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
+* –––, 2003b \[2019], “Scientific Explanation”, in *The Stanford Encyclopedia of Philosophy* (Winter 2019 edition], Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2017/entries/scientific-explanation/](https://plato.stanford.edu/archives/spr2017/entries/scientific-explanation/)
+* –––, 2007, “Causation with a Human Face”, in *Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited*, Huw Price and Richard Corry (eds.), Oxford: Oxford University Press, 66–105.
+* –––, 2014, “A Functional Account of Causation; or, A Defense of the Legitimacy of Causal Thinking by Reference to the Only Standard That Matters—Usefulness (as Opposed to Metaphysics or Agreement with Intuitive Judgment)”, *Philosophy of Science*, 81(5): 691–713. doi:10.1086/678313
+* –––, 2016, “Causation in Science”, in *The Oxford Handbook of Philosophy of Science*, Paul Humphreys (ed.), Oxford: Oxford University Press, 163–284. doi:10.1093/oxfordhb/9780199368815.013.8\_update\_001
+* Zeh, H. Dieter, 2007, *The Physical Basis of the Direction of Time* (The Frontiers Collection), Berlin, Heidelberg: Springer. doi:10.1007/978-3-540-68001-7
 
 ## Academic Tools
 
@@ -426,11 +425,11 @@ _因果帝国主义者_，我们可以这样称呼他们，认为所有科学解
 ## Other Internet Resources
 
 * Chalmers, David, 2018, “[What Is Conceptual Engineering and What Should It Be?](http://consc.net/papers/engineering.pdf)”, transcript of a talk given at the NYU workshop on “Foundations of Conceptual Engineering” on 14 September 2018.
-* “[Cauchy-Lipschitz theorem](https://www.encyclopediaofmath.org/index.php?title=Cauchy-Lipschitz\theorem\&oldid=30822)”, in _Encyclopedia of Mathematics_.
+* “[Cauchy-Lipschitz theorem](https://www.encyclopediaofmath.org/index.php?title=Cauchy-Lipschitz\theorem\&oldid=30822)”, in *Encyclopedia of Mathematics*.
 
 ## Related Entries
 
 [Bell’s Theorem](https://plato.stanford.edu/entries/bell-theorem/) | [causal models](https://plato.stanford.edu/entries/causal-models/) | [causation: and manipulability](https://plato.stanford.edu/entries/causation-mani/) | [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [causation: probabilistic](https://plato.stanford.edu/entries/causation-probabilistic/) | [causation: regularity and inferential theories of](https://plato.stanford.edu/entries/causation-regularity/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [quantum mechanics: retrocausality](https://plato.stanford.edu/entries/qm-retrocausality/) | [Reichenbach, Hans: common cause principle](https://plato.stanford.edu/entries/physics-Rpcc/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [time: thermodynamic asymmetry in](https://plato.stanford.edu/entries/time-thermo/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Mathias Frisch](https://www.philos.uni-hannover.de/frisch.html) <[_mathias.frisch@philos.uni-hannover.de_](mailto:mathias%2efrisch%40philos%2euni-hannover%2ede)>
+[Mathias Frisch](https://www.philos.uni-hannover.de/frisch.html) <[*mathias.frisch@philos.uni-hannover.de*](mailto:mathias%2efrisch%40philos%2euni-hannover%2ede)>

@@ -1,6 +1,6 @@
 # 混沌 chaos (Robert Bishop)
 
-_首次发表于 2008 年 7 月 16 日星期三；实质性修订于 2015 年 10 月 13 日星期二_
+*首次发表于 2008 年 7 月 16 日星期三；实质性修订于 2015 年 10 月 13 日星期二*
 
 关于混沌的重要消息应该是，系统中微小的变化可能导致该系统行为上的非常大差异。所谓的蝴蝶效应已经成为混沌最流行的形象之一。这个想法是，阿根廷一只蝴蝶的煽动可能导致三周后德克萨斯州的龙卷风。相比之下，在一个没有阿根廷蝴蝶的世界的完全相同副本中，德克萨斯州不会出现这样的风暴。这种属性的数学版本被称为_敏感依赖_。然而，事实证明，敏感依赖有点陈旧，因此从中流出的一些含义也许并不是那么“重大的消息”。尽管如此，混沌研究以新颖的方式突出了这些含义，并促使人们思考其他含义。
 
@@ -20,7 +20,7 @@ _首次发表于 2008 年 7 月 16 日星期三；实质性修订于 2015 年 10
 
 庞加莱讨论了一些例子，事后我们可以将其视为对将微小影响的爆炸性增长作为定义混沌的充分条件提出疑问。首先，考虑一个完全对称的锥体，精确平衡在其尖端，只有重力作用于它。在没有任何外力作用的情况下，锥体将永远保持这种不稳定的平衡。它是不稳定的，因为最轻微的推动，比如来自空气分子的推动，都会导致锥体倾倒，但由于受到不同分子碰撞引起的微小扰动的轻微差异，它可能朝任何方向倾倒。在这里，即使是最轻微的原因的变化也会导致戏剧性不同的效果（违反了麦克斯韦的物理公理）。如果我们要绘制不稳定锥体的倾倒，我们会看到从一小团初始条件中，从这个小团中发出的许多不同轨迹会迅速相互分歧。
 
-The concept of nearby trajectories diverging or growing away from each other plays an important role in discussions of chaos. Three useful benchmarks for characterizing trajectory divergence are linear, exponential and geometric growth rates. _Linear growth_ can be represented by the simple expression y=ax+b, where a is an arbitrary positive constant and b is an arbitrary constant. A special case of linear growth is illustrated by stacking pennies on a checkerboard (a=1, b=0). If we use the rule of placing one penny on the first square, two pennies on the second square, three pennies on the third square, and so forth, we will end up with 64 pennies stacked on the last square. The total number of pennies on the checkerboard will be 2080. _Exponential growth_ can be represented by the expression y=n0eax, where n0 is some initial quantity (say the initial number of pennies to be stacked) and a is an arbitrary positive constant. (n0 is called ‘initial’ because when x=0 (the ‘initial time’), we get y=n0.) Going back to our penny stacking analogy (a=1), we again start with placing 1 penny on the first square, but now about 2.7 pennies are stacked on the second square, about 7.4 pennies on the third square, and so forth, and we finally end up with about 6.2×1027 pennies staked on the last square! Clearly, exponential growth outpaces linear very rapidly. Finally, we have _geometric growth_, which can be represented by the expression y=abx, where a and b are arbitrary positive constants. Note that in the case a=e and b=1, we recover the exponential case.\[[1](https://plato.stanford.edu/entries/chaos/notes.html#1)]
+The concept of nearby trajectories diverging or growing away from each other plays an important role in discussions of chaos. Three useful benchmarks for characterizing trajectory divergence are linear, exponential and geometric growth rates. *Linear growth* can be represented by the simple expression y=ax+b, where a is an arbitrary positive constant and b is an arbitrary constant. A special case of linear growth is illustrated by stacking pennies on a checkerboard (a=1, b=0). If we use the rule of placing one penny on the first square, two pennies on the second square, three pennies on the third square, and so forth, we will end up with 64 pennies stacked on the last square. The total number of pennies on the checkerboard will be 2080. *Exponential growth* can be represented by the expression y=n0eax, where n0 is some initial quantity (say the initial number of pennies to be stacked) and a is an arbitrary positive constant. (n0 is called ‘initial’ because when x=0 (the ‘initial time’), we get y=n0.) Going back to our penny stacking analogy (a=1), we again start with placing 1 penny on the first square, but now about 2.7 pennies are stacked on the second square, about 7.4 pennies on the third square, and so forth, and we finally end up with about 6.2×1027 pennies staked on the last square! Clearly, exponential growth outpaces linear very rapidly. Finally, we have *geometric growth*, which can be represented by the expression y=abx, where a and b are arbitrary positive constants. Note that in the case a=e and b=1, we recover the exponential case.\[[1](https://plato.stanford.edu/entries/chaos/notes.html#1)]
 
 Many authors consider an important mark of chaos to be trajectories issuing from nearby points diverging from one another exponentially quickly. However, it is also possible for trajectory divergence to be faster than exponential. Take Poincaré’s example of a molecule in a gas of N molecules. If this molecule suffered the slightest of deviations from its initial starting point and you compared the molecule’s trajectories from these two slightly different starting points, the resulting trajectories would diverge at a geometric rate, to the nth power, due to the n subsequent collisions, each being different than what it would have been had there been no slight change in the initial condition.
 
@@ -75,7 +75,7 @@ dxdtdydtdzdt=−σx+σy;=rx−y+xz;=xy−bz.(Lorenz)
 
 ![洛伦兹吸引子](https://plato.stanford.edu/entries/chaos/lorenz.png)
 
-图 1：_洛伦兹吸引子_
+图 1：*洛伦兹吸引子*
 
 然而，对于巴特曼来说，似乎作为混沌的一个关键特征的是一种“拉伸和折叠”机制在动力学中的存在（请参阅他的论文第 49 页和图 5 的讨论）。基本上，这样的机制会导致一些轨迹迅速收敛，同时导致其他轨迹迅速发散。这样的机制会导致状态空间中某个小邻域内的各个点发出的轨迹以相当戏剧性的方式混合和分离。例如，在洛伦兹吸引子上，一些最初相邻的轨迹（图 1）会分离，其中一些最终迅速到达一侧，而另一些则迅速到达另一侧。这种拉伸和折叠是导致状态空间中轨迹之间距离定义增加（发散）的部分。
 
@@ -103,13 +103,13 @@ dxdtdydtdzdt=−σx+σy;=rx−y+xz;=xy−bz.(Lorenz)
 
 为了设计混沌的定义，一种策略是从离散映射开始，然后推广到连续情况。例如，如果从一个连续系统开始，通过使用庞加莱截面——大致上，定义一个二维平面并绘制轨迹与该平面的交点——可以生成一个离散映射。如果原始连续系统表现出混沌行为，那么通过截面生成的离散映射也将是混沌的，因为截面将具有与连续系统相同的拓扑性质。罗伯特·德瓦尼（Robert Devaney）在 1989 年以这种方式提出了混沌的影响力定义。
 
-让 f 是定义在某个状态空间 S 上的函数。在连续情况下，f 会在 S 上连续变化，我们可能会有一个微分方程来说明 f 的变化方式。在离散情况下，f 可以被看作是一个可以被迭代或多次应用的映射。为了表示这一点，我们可以写成 fn(x)，表示 f 被迭代应用 n 次。例如，f3(x) 就表示 f 已经被应用了三次，因此 f3(x)=f(f(f(x)))（Robert May 在 1976 年的经典评论文章中对此进行了很好的讨论，对于 logistic 映射 xn+1=rxn(1−xn)（例如在建模捕食者-猎物关系动态时出现）。此外，让 K 是 S 的一个子集。那么 f(K) 表示将 f 应用于点集 K，也就是说，f 将集合 K 映射到 f(K)。如果 f(K)=K，则 K 在 f 下是一个 _不变_ 集。
+让 f 是定义在某个状态空间 S 上的函数。在连续情况下，f 会在 S 上连续变化，我们可能会有一个微分方程来说明 f 的变化方式。在离散情况下，f 可以被看作是一个可以被迭代或多次应用的映射。为了表示这一点，我们可以写成 fn(x)，表示 f 被迭代应用 n 次。例如，f3(x) 就表示 f 已经被应用了三次，因此 f3(x)=f(f(f(x)))（Robert May 在 1976 年的经典评论文章中对此进行了很好的讨论，对于 logistic 映射 xn+1=rxn(1−xn)（例如在建模捕食者-猎物关系动态时出现）。此外，让 K 是 S 的一个子集。那么 f(K) 表示将 f 应用于点集 K，也就是说，f 将集合 K 映射到 f(K)。如果 f(K)=K，则 K 在 f 下是一个 *不变* 集。
 
 现在，Devaney 对混沌的定义可以如下陈述：
 
 **(混沌)**
 
-一个连续映射 _f_ 如果存在不变集合 _K⊆S_ ，则 _f_ 被称为 _混沌_
+一个连续映射 *f* 如果存在不变集合 *K⊆S* ，则 *f* 被称为 *混沌*
 
 1. f 在 K 上满足 WSD，
 2. 引发周期轨道的点集在 K 中是密集的，而变化
@@ -127,7 +127,7 @@ Devaney 的定义具有精确和简洁的优点。然而，对此提出了异议
 
 ![马蹄图](https://plato.stanford.edu/entries/chaos/horseshoemap.gif)
 
-图 2：_斯梅尔的马蹄_
+图 2：*斯梅尔的马蹄*
 
 要构建 Smale 马蹄地图（图 2），首先从单位正方形（用黄色表示）开始。首先，将其在 y 方向拉伸超过两倍。然后在 x 方向压缩超过两倍。现在，折叠得到的长方形，并将其放回正方形，使构造重叠并留下初始单位正方形的中间和垂直边缘。重复这些拉伸和折叠操作会导致 Samale 吸引子。
 
@@ -183,7 +183,7 @@ Devaney 的定义具有精确和简洁的优点。然而，对此提出了异议
 
 那么，这让我们在混沌的定义方面处于何种境地？我们所有的定义尝试都是不足的吗？混沌只有一个定义吗？如果是这样，它只是一个数学属性还是一个物理属性？也许我们需要多个定义（其中一些是不等价的）来充分描述这种复杂而错综复杂的行为？可以合理地期望对物理学家和应用数学家感兴趣的混沌现象学特征能够在精确的数学定义中得到捕捉吗？考虑到对这些特征的表征可能存在不可简化的模糊性，从物理角度来看，对于识别和探索负责轨迹拉伸和折叠的基本机制是否仅需要现象学的表征就足够了？对于这些问题的答案在很大程度上取决于我们所从事的调查类型的目的（例如，证明严格的数学定理 vs. 检测物理数据中的混沌行为 vs. 设计系统来控制这种行为）。
 
-坐在所有这些讨论的背景中的是非线性。混沌只存在于非线性系统中（至少对于经典宏观系统来说；有关量子混沌的副标题请参见第 6 节）。非线性似乎是拉伸和折叠机制的必要条件，因此似乎是混沌行为的必要条件。然而，还有一种描述发生这种拉伸和折叠的系统的替代方式：_不可分割性_。
+坐在所有这些讨论的背景中的是非线性。混沌只存在于非线性系统中（至少对于经典宏观系统来说；有关量子混沌的副标题请参见第 6 节）。非线性似乎是拉伸和折叠机制的必要条件，因此似乎是混沌行为的必要条件。然而，还有一种描述发生这种拉伸和折叠的系统的替代方式：*不可分割性*。
 
 如第 1.2.2 节所讨论的，线性系统总是遵守线性叠加原理。这意味着这类系统的哈密顿量总是可分的。可分的哈密顿量总是可以转化为一系列单独哈密顿量的和，其中每个元素对应于每个子系统。实际上，可分系统是指子系统之间的相互作用可以被消除，使得子系统彼此独立。整体就像是部分的总和。对于可分的哈密顿量来说，混沌是不可能的。相比之下，对于非线性系统，哈密顿量从不可分。没有转化技术可以将不可分的哈密顿量转化为单独哈密顿量的和。换句话说，非线性系统中的相互作用无法分解为单独独立的子系统，整个系统及其环境也不能被忽略（Bishop 2010a）。不可分的经典系统是混沌行为可能显现的系统类型。因此，可以说哈密顿量的不可分性是拉伸和折叠机制以及混沌的必要条件（例如，Kronz 1998）。
 
@@ -276,7 +276,7 @@ SDIC 的一个令人兴奋的特点是，改变或扰动有多么微小都没有
 
 当我们将这种维度概括应用于奇怪吸引子的几何结构时，我们经常发现非整数维度。粗略地说，这意味着如果我们尝试用小正方形或小立方体“填充”奇怪吸引子形成的结构，并在ε趋近于零的极限情况下，结果是非整数。无论是研究一组非线性数学方程还是分析实验中的时间序列数据，自相似性或非整数维度的存在表明所研究系统的混沌行为是耗散性的（非保守的，不保守能量），而不是哈密顿量的（保守能量）。
 
-尽管数学家们对奇怪吸引子或分形维度没有普遍接受的定义，但更严肃的问题是奇怪吸引子和分形维度是我们模型的特性还是实际世界系统的特性。例如，对一些实际世界系统的经验调查表明，不存在类似奇怪吸引子那样的无限重复自相似结构（Avnir，_et al._ 1998；另见 Shenker 1994）。最多，人们在重建的状态空间中发现自相似结构只在两到三个空间尺度上重复出现，仅此而已。这似乎更像是一个_前分形_，在其中自相似结构仅存在于有限数量的长度尺度上。也就是说，前分形在放大时只有有限次重复其结构，而不像分形那样无限次。因此，这似乎表明实际系统中不存在真正具有分形维度的奇怪吸引子，而可能只有具有前分形几何特征的吸引子，在有限数量的空间尺度上具有自相似性。
+尽管数学家们对奇怪吸引子或分形维度没有普遍接受的定义，但更严肃的问题是奇怪吸引子和分形维度是我们模型的特性还是实际世界系统的特性。例如，对一些实际世界系统的经验调查表明，不存在类似奇怪吸引子那样的无限重复自相似结构（Avnir，*et al.* 1998；另见 Shenker 1994）。最多，人们在重建的状态空间中发现自相似结构只在两到三个空间尺度上重复出现，仅此而已。这似乎更像是一个_前分形_，在其中自相似结构仅存在于有限数量的长度尺度上。也就是说，前分形在放大时只有有限次重复其结构，而不像分形那样无限次。因此，这似乎表明实际系统中不存在真正具有分形维度的奇怪吸引子，而可能只有具有前分形几何特征的吸引子，在有限数量的空间尺度上具有自相似性。
 
 另一方面，用于表征一些实际世界系统的耗散混沌模型都展示出具有分形几何的奇怪吸引子。因此，看起来混沌模型状态空间中的分形几何与实际世界系统的前分形特征没有关系。换句话说，尽管这些模型本身可能仍然有助于科学家找到具有前分形特性的目标系统的有趣动态，但这些模型的许多分形特征显然与目标系统的特征不符。在这里，科学实在主义和有用性似乎分道扬镳。至少我们的许多模型中的奇怪吸引子起到了有用的虚构作用。
 
@@ -364,7 +364,7 @@ Kellert 对“动态理解”的讨论和 Peter Smith 的批评意见在他们�
 
 量子混沌学的研究人员专注于与研究对象的量子系统无关的普遍统计特性。此外，研究侧重于所谓的简单量子系统（即可以用有限数量的参数或有限信息量描述的系统）。在这些系统中研究的统计特性包括能级的统计和波函数的半经典结构。这些统计特性与量子态转换、电离以及在原子和核物理、介观系统的固态物理以及量子信息中发现的其他量子现象相关。一些典型的研究系统包括量子台球（粒子受限于二维运动）、量子踢转子、单个周期驱动自旋和耦合自旋。通常，在研究量子混沌时会像研究经典混沌一样使用迭代映射（见上文[§1.2.5](https://plato.stanford.edu/entries/chaos/#QuanDefCha)）。
 
-台球是一类经过深入研究的模型家族。想象一个完全平坦的台球桌，并假设台球会弹开桌子的边缘。在我们的经验宏观尺度下，球和边缘由经典力学表征的模型桌被称为_经典台球_。已经为经典台球得出了许多分析结果，因此这使得台球成为一个非常吸引人的研究模型。_混沌台球_是一个条件导致球混沌行为的经典台球。混沌台球也有大量的研究结果。这些分析和计算丰富性使得量子版本的台球成为研究量子混沌的得力工具，如下所示。人们可以通过使用薛定谔方程描述粒子在边界上的反射（在那里规定粒子的波函数在边界上为零），或者可以从描述经典台球的方程开始，并量子化可观测量（例如位置和动量），从而产生_量子化台球_。
+台球是一类经过深入研究的模型家族。想象一个完全平坦的台球桌，并假设台球会弹开桌子的边缘。在我们的经验宏观尺度下，球和边缘由经典力学表征的模型桌被称为_经典台球_。已经为经典台球得出了许多分析结果，因此这使得台球成为一个非常吸引人的研究模型。*混沌台球_是一个条件导致球混沌行为的经典台球。混沌台球也有大量的研究结果。这些分析和计算丰富性使得量子版本的台球成为研究量子混沌的得力工具，如下所示。人们可以通过使用薛定谔方程描述粒子在边界上的反射（在那里规定粒子的波函数在边界上为零），或者可以从描述经典台球的方程开始，并量子化可观测量（例如位置和动量），从而产生_量子化台球*。
 
 为了组织讨论，将首先讨论能谱是离散的孤立系统，然后是能谱是连续的相互作用系统。虽然能谱是离散的与否对量子混沌并不至关重要，但量子系统是孤立的与否被认为可能对量子领域中混沌是否存在具有潜在重要性。
 
@@ -436,7 +436,7 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 
 其次，即使从量子领域开始，也会有不同的经典世界，这些世界是通过以不同顺序取这些各种极限而产生的。由于这些极限对应于不同的物理转变，改变极限的顺序会改变物理转变的顺序，从而产生物理上不等效的宏观领域。鉴于这些不同宏观世界之间的物理不相容性，量子和经典之间的实际物理转变必须按特定顺序发生，以恢复我们经验中的经典领域。
 
-当然，有很多关于从半经典考虑中得出的量子系统的“近似经典”或“准经典”轨迹的讨论（Berry 1987 和 2001）。但是，这种准经典行为仅在有限的时间内展示（除了过度理想化的模型）并且在非常特殊的初始条件下展示（Pauli 1933，第 166 页）_仅适用于基态_（激发态能量本征态从不显示经典行为）。在这里，对 Ehrenfest 定理的引用没有帮助，因为这个定理仅保证对于这些非常特殊的、短暂存在的动力学，量子力学可观测量的值的平均倾向于消除经典和量子计算之间的错误或差异，以适应相关情况和时间。此外，该定理既不是经典行为的必要条件也不是充分条件。例如，将 Ehrenfest 定理应用于量子谐振子会产生一段时间内与经典量相符的位置和动量的平均量。然而，量子振荡器的离散态产生的热力学性质与经典振荡器大不相同。因此，满足该定理并不足以保证经典行为。
+当然，有很多关于从半经典考虑中得出的量子系统的“近似经典”或“准经典”轨迹的讨论（Berry 1987 和 2001）。但是，这种准经典行为仅在有限的时间内展示（除了过度理想化的模型）并且在非常特殊的初始条件下展示（Pauli 1933，第 166 页）*仅适用于基态*（激发态能量本征态从不显示经典行为）。在这里，对 Ehrenfest 定理的引用没有帮助，因为这个定理仅保证对于这些非常特殊的、短暂存在的动力学，量子力学可观测量的值的平均倾向于消除经典和量子计算之间的错误或差异，以适应相关情况和时间。此外，该定理既不是经典行为的必要条件也不是充分条件。例如，将 Ehrenfest 定理应用于量子谐振子会产生一段时间内与经典量相符的位置和动量的平均量。然而，量子振荡器的离散态产生的热力学性质与经典振荡器大不相同。因此，满足该定理并不足以保证经典行为。
 
 第三，我们古典世界的出现不仅仅是环境失调的问题（例如，Omnés 1994；Berry 2001；Wallace 2012）。首先，不存在无限多自由度的无上下文限制，因为这种限制总是有不可数无穷多个物理上不等价的表示。此外，一个不正确的量子态混合“允许我们用经典概率分布来解释\[量子]系统的状态”是错误的，因此“将‘混合态’视为有效经典是有用的”，这样“人们可以解释由\[非纯态密度算子]描述的系统为未知观察者的系统的经典‘混合’”（Zurek 1991，46–47）。不纯净的量子态可以被解释为经典混合，_仅当_它们的组成部分由不相交的状态描述时。对于两个纯态的经典混合（例如，水和油），只有当存在一个经典可观测量，使得相对于这些状态的期望值不同时，这些纯态才是不相交的。正是这种不相交性使得可以以经典方式区分状态。
 
@@ -474,7 +474,7 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 
 相比之下，布鲁塞尔-奥斯汀方法将非平衡系统视为非线性模型，其基本解释要素是分布；也就是说，粒子的排列是基本解释要素，而不是个别粒子和轨迹。控制这些分布行为的方程通常是关于时间不可逆的。此外，仅专注于分布函数还开启了这样一个可能性，即宏观非平衡模型可能是不可约的不确定性，这种不确定性与对系统的无知无关。如果是这样，这将意味着概率在宏观世界中与微观世界一样是本体论上的基本要素，并且不受传统量子力学中出现的解释困难的影响。
 
-一个重要的洞察是布鲁塞尔-奥斯汀小组从轨迹转向分布作为基本要素，解释也从局部背景（一组粒子轨迹）转向全局背景（整个粒子集的分布）。作为整体运作的系统可能产生集体效应，这些效应不能简单归结为轨迹和组成系统的子要素的总和（Bishop 2004 和 2012）。大脑在许多情况下展示了这种类型的集体行为（Engel，_et al_。1997），Prigogine 及其同事的工作为我们提供了另一个工具，用于尝试理解这种行为。此外，非线性非平衡模型也展示了 SDIC，因此在这些方法中存在许多可能性，可以对大脑操作和认知现象进行非常丰富的动力学描述（例如，Juarrero 1999；Chemero 和 Silberstein 2008）。尽管布鲁塞尔-奥斯汀对非平衡统计力学的方法仍然是推测性的，并包含一些未解决的技术问题，但它提供了一种探索物理学、意识和自由意志之间关系的替代方案，并指出了一个新的可能的用于探讨自由意志理论中的不确定性的来源。
+一个重要的洞察是布鲁塞尔-奥斯汀小组从轨迹转向分布作为基本要素，解释也从局部背景（一组粒子轨迹）转向全局背景（整个粒子集的分布）。作为整体运作的系统可能产生集体效应，这些效应不能简单归结为轨迹和组成系统的子要素的总和（Bishop 2004 和 2012）。大脑在许多情况下展示了这种类型的集体行为（Engel，*et al*。1997），Prigogine 及其同事的工作为我们提供了另一个工具，用于尝试理解这种行为。此外，非线性非平衡模型也展示了 SDIC，因此在这些方法中存在许多可能性，可以对大脑操作和认知现象进行非常丰富的动力学描述（例如，Juarrero 1999；Chemero 和 Silberstein 2008）。尽管布鲁塞尔-奥斯汀对非平衡统计力学的方法仍然是推测性的，并包含一些未解决的技术问题，但它提供了一种探索物理学、意识和自由意志之间关系的替代方案，并指出了一个新的可能的用于探讨自由意志理论中的不确定性的来源。
 
 将混沌动力学应用于理解意识和自由意志本质的方法是否代表真正的进步仍然是一个悬而未决的问题。例如，如果世界是确定性的，那么在认知动力学中引入 SDIC（例如，Kane 1996）可能为探索审慎过程提供了一个复杂的框架，但对于自由意志的不相容主义观念来说并不足够。另一方面，如果大脑中存在不确定性（量子力学或其他方式），那么对于不确定论者如 Robert Kane（1996）来说，仍然存在挑战，即要证明代理能够有效地利用非线性动力学提供的精细敏感性来确立和解释自由意志。关于混沌动力学中的现实主义和解释问题（[§5](https://plato.stanford.edu/entries/chaos/#QueAboReaExp)）在这里是相关的，以及忠实模型假设。
 
@@ -492,145 +492,145 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 
 ## Bibliography
 
-* Aihara, K. (2008), “Chaos in Neurons”, _Scholarpedia_, 3(5): 1768 [available online](http://www.scholarpedia.org/article/Chaos\in\neurons), referenced on 31 July 2014.
-* Anderson, M. L. (2010), “Neural Re-use as a Fundamental Organizational Principle of the Brain”, _Behavioral Brain Science_, 33: 45–313.
-* Aristotle (1985) \[OTH], _On the Heavens_,; in. J. Barnes (ed.), _The Complete Works of Aristotle: The Revised Oxford Translation_, Vol 1. Princeton: Princeton University Press.
-* Arnold, V. I. and Avez, A. (1968), _Ergodic Problems of Classical Mechanics_. Reading, MA: W. A. Benjamin.
-* Atmanspacher, H. and Scheingraber, H. (1987), “A Fundamental Link between System Theory and Statistical Mechanics”, _Foundations of Physics_, 17: 939–963.
-* Avnir, D., Biham, O., Lidar, D. and Malcai, O. (1998), “Is the Geometry of Nature Fractal?” _Science_, 279: 39–40.
-* Banks, J., Brooks, J. Cairns, G. Davis, G. and Stacey, P. (1992), “On Devaney’s Definition of Chaos”, _American Mathematical Monthly_, 99: 332–334.
-* Barone, S. R., Kunhardt, E. E., Bentson, J. and Syljuasen (1993), “Newtonian Chaos + Heisenberg Uncertainty = Macroscopic Indeterminacy”, _American Journal Of Physics_, 61: 423–7.
-* Bayfield , J. E. and Koch, P. M. (1974), “Multiphoton Ionization of Highly Excited Hydrogen Atoms”, _Physical Review Letters_, 33: 258–261.
-* Batterman, R. W. (1993), “Defining Chaos”, _Philosophy of Science_, 60: 43–66.
-* Beck, F. and Eccles, J. (1992), “Quantum Aspects of Brain Activity and the Role of Consciousness”, in _Proceedings of the National Academy of Science (United States)_, 89: 11357–11361.
-* Berry, M. V. (1977), “Regular and Irregular Semiclassical Wavefunctions”, _Journal of Physics A_, 10: 2083–198.
-* Berry, M. V. (1987), “Quantum Chaology”, _Proceedings of the Royal Society A_, 413: 183–2091.
-* Berry, M. V. (1989), “Quantum Chaology, Not Quantum Chaos,” _Physica Scripta_, 40: 335–336.
-* Berry, M. V. (2001), “Chaos and the Semiclassical Limit of Quantum Mechanics (Is the Moon There When Somebody Looks?)”, R. J. Russell, P. Clayton, K. Wegter-McNelly, and J. Polkinghorne (eds.), _Quantum Mechanics: Scientific Perspectives on Divine Action_, Vatican Observatory: CTNS Publications, pp. 41–54.
-* Berry, M. V., Balazs, N. L., Tabor, M. and Voros, A. (1979), “Quantum Maps,” _Annals of Physics_, 122: 26–63.
-* Berkovitz, J, Frigg, R. and Kronz, F. (2006), “The Ergodic Hierarchy, Randomness and Chaos”, _Studies in History and Philosophy of Modern Physics_, 37: 661–691.
-* Bishop, R. C. (2002a), “Chaos, Indeterminism, and Free Will”, in R. Kane (ed.), _The Oxford Handbook of Free Will_. Oxford: Oxford University Press, pp. 111–124.
-* Bishop, R. C. (2002b), “Deterministic and Indeterministic Descriptions”, in H. Atmanspacher and R. Bishop (eds.), _Between Chance and Choice_: Interdisciplinary Perspectives on Determinism. Thorverton: Imprint Academic, pp. 5–31.
-* Bishop, R. C. (2003), “On Separating Prediction from Determinism”, _Erkenntnis_, 58: 169–188.
-* Bishop, R. C. (2004), “Nonequilibrium Statistical Mechanics Brussels-Austin Style”, _Studies in History and Philosophy of Modern Physics_, 35: 1–30.
-* Bishop, R. C. (2005), “Anvil or Onion? Determinism as a Layered Concept”, _Erkenntnis_, 63: 55–71.
-* Bishop, R. C. (2008), “What Could Be Worse than the Butterfly Effect?”, _Canadian Journal of Philosophy_ 38: 519–548.
-* Bishop, R. C. (2010a), “Metaphysical and Epistemological Issues in Complex Systems”, in C. Hooker (ed.) _Philosophy of Complex Systems, vol 10, Handbook of the Philosophy of Science_, Amsterdam: North Holland. pp. 119–150.
-* Bishop, R. C. (2010b), “Whence Chemistry? Reductionism and Neoreductionism”, _Studies in History and Philosophy of Modern Physics_ 41: 171–177.
-* Bishop, R. C. (2012), “Fluid Convection, Constraint and Causation”, _Interface Focus_, 2: 4–12.
-* Bricmont , J. (1995), “Science of Chaos or Chaos in Science?”, _Physicalia Magazine_ 17: 159–208.
-* Bohigas , O., Giannoni, M. J. and Schmit, C. (1984), “Characterization of Chaotic Quantum Spectra and Universality of Level Fluctuation Laws”, _Physical Review Letters_ 52: 1–4.
-* Bohm, D. (1951), _Quantum Mechanics_. Englewood Cliffs, NJ: Prentice-Hall.
-* Bohm, D. and Hiley, B. J. (1993), _The Undivided Universe_. New York: Routledge.
-* Bokulich, A. (2008), _Reexamining the Quantum-Classical Relation: Beyond Reductionism and Pluralism_. Cambridge: Cambridge University Press.
-* Cartwright, N. (1999), _The Dappled World: A study of the Boundaries of Science_. Cambridge: Cambridge University Press.
-* Casati, G., Chirikov, B. V., Izrailev, F. M. and Ford, J. (1979), “Stochastic Behavior of a Quantum Pendulum Under a Periodic perturbation”, in G. Casati and J. Ford (eds.) _Stochastic Behavior in Classical and Quantum Hamiltonian Systems._ Lecture Notes in Physics, Vol. 93. Berlin: Springer. pp. 334–352.
-* Casati, G., Chirikov, B. V. and Shepelyanski, D. (1984), “Classical Billiards and Double-slit Quantum Interference”, _Physical Review A_, 72: 032111.
-* Casati, G. and Prosen, T. (2005), “Quantum Limitations for Chaotic Excitation of the Hydrogen Atom in a Monochromatic Field”, _Physical Review Letters_, 53: 2525–2528.
-* Casati, G., Valz-Gris, F. and Guarneri, I. (1980) , “On the Connection Between Quantization of Nonintegrable Systems and Statistical Theory of Spectra”, _Lettere Al Nuovo Cimento Series 2_, 28: 279–282.
-* Chemero A. and Silberstein M. (2008), “After the Philosophy of Mind: Replacing Scholasticism with Science”, _Philosophy of Science_, 75: 1–27.
-* Chirikov, B. V., Izrailev, F. M. and Shepelyanski, D. (1988), “Quantum Chaos: Localization vs. Ergodicity”, _Physica D_, 33: 77–88.
-* Clark, A. (1998), “Time and Mind”, _Journal of Philosophy_, 95: 354–376.
-* Compton, A.(1935), _The Freedom of Man_. New Haven: Yale University Press.
-* Davies, E. B. (1976), _Quantum Theory of Open Systems_. Waltham, MA: Academic Press.
-* Devaney, R. (1989), “Dynamics of Simple Maps”, _Proceedings of Symposia in Applied Mathematics_, 39: 1–24.
-* Diesmann M., Gewaltig M-O., Aertsen A. (1999), “Stable Propagation of Synchronous Spiking in Cortical Neural Networks”, _Nature_, 402: 529–533.
-* Dingle, R. (1973), _Asymptotic Expansions: Their Derivation and Interpretation_. New York: Academic Press.
-* Duhem, P. (1982), _The Aim and Structure of Physical Theory_. Princeton: Princeton University Press.
-* Dupré, J. (1993), _The Disorder of Things: Metaphysical Foundations of the Disunity of Science_. Cambridge, MA: Harvard University Press.
-* Eccles, J. (1970), _Facing Reality_. New York: Springer.
-* Engel, A., Roelfsema, P., König, P. and Singer, W. (1997), “Neurophysiological Relevance of Time”, in H. Atmanspacher and E. Ruhnau (eds.), _Time, Temporality, Now: Experiencing Time and Concepts of Time in an Interdisciplinary Perspective_. Berlin: Springer, pp. 133–157.
-* Filikhin, I., Matinyan, S. and Vlahovic, B. (2011), “Disappearance of Quantum Chaos in Coupled Chaotic Quantum Dots”, _Physical Letters A_, 375: 620–623.
-* Fishman, S., Grempel, D. R. and Prange, R. E. (1982), “Chaos, Quantum Recurrences, and Anderson Localization” _Physical Review Letters_, 49: 509–512.
-* Ford, J. and Mantica, G. (1992), “Does Quantum Mechanics Obey the Correspondence Principle? Is It Complete?” _American Journal of Physics_, 60: 1086–1097.
-* Fox, R. F. (1990), “Chaos, Molecular Fluctuations, and the Correspondence Limit”, _Physical Review A_, 41: 2969–2976.
-* Freeman, W. J. (1991), “Nonlinear Dynamics in Olfactory Information Processing”, in J. Davis and H. Eichenbaum (eds.) _Olfaction_. Cambridge, MA: MIT Press.
-* Freeman, W. J. (2000), _How Brains Make Up Their Minds_. New York: Columbia University Press.
-* Freeman, W. J. and Skarda, C. A. (1987), “How Brains Make Chaos in Order to Make Sense of the World”, _Behavioral and Brain Sciences_, 10: 161–195.
-* Friedrichs, K. (1955), “Asymptotic Phenomena in Mathematical Physics”, _Bulletin of the American Mathematics Society_, 61: 485–504.
-* van Gelder, T. (1995), “What Might Cognition Be if not Computation?”, _Journal of Philosophy_, 92: 345–381.
-* Guhr, T., Müller-Groeling, A. and Weidenmüller, H. A. (1998), “Random-matrix Theories in Quantum Physics: Common Concepts”, _Physics Reports_, 299: 189–425.
-* Gutzwiller, M. C. (1971), “Periodic Orbits and Classical Quantization Conditions”, _Journal of Mathematical Physics_, 91: 343–358.
-* Gutzwiller, M. C. (1992), “Quantum Chaos”, _Scientific American_, 266 (January): 78–84.
-* Hadamard, J. (1922), _Lectures on Cauchy’s Problem in Linear Partial Differential Equations_, New Haven: Yale University Press.
-* Hilborn, R. C. (1994), _Chaos and Nonlinear Dynamics: An Introduction for Scientists and Engineers_, Oxford: Oxford University Press.
-* Hobbs, J. (1991), “Chaos and Indeterminism”, _Canadian Journal of Philosophy_, 21: 141–164.
-* Hunt, B. R. and Yorke, J. A. (1993), “Maxwell on Chaos”, _Nonlinear Science Today_, 3(1): 1–4.
-* Jensen, R. V. (1987), “Classical Chaos”, _American Scientist_, 75 (March-April): 168–181.
-* Jensen, R. V. (1992), “Quantum Chaos”, _Nature_, 355: 311–318.
-* Jones, R. (1990), “Determinism in Deterministic Chaos”, in A. Fine, M Forbes, and L. Wessels (eds.) _PSA_ 1990, Volume 2, East Lansing: Philosophy of Science Association, pp. 537–549.
-* Juarrero, A. (1999), _Dynamics in Action: Intentional Behavior as a Complex System_, Cambridge, MA: MIT Press.
-* Judd, K., and Smith, L. (2001), “Indistinguishable States I: Perfect Model Scenario”, _Physica D_ 151: 125–141.
-* Judd, K., and Smith, L. (2004), “Indistinguishable States II: Imperfect Model Scenarios”, _Physica D_ 196: 224–242.
-* Kane, R. (1996), _The Significance of Free Will_, Oxford: Oxford University Press.
-* Kaneko, K. and Tsuda, I. (2000), _Complex Systems: Chaos and Beyond_, Berlin: Springer.
-* Kaneko, K., Tsuda, I. and Ikegami, T. (eds.), (1994), “Constructive Complexity and Artificial Reality: Proceedings of the Oji International Seminar on Complex Systems—from Complex Dynamical Systems to Sciences of Artificial Reality”, _Physica D_ 75: 1–448.
-* Kellert, S. (1993), _In the Wake of Chaos_, Chicago University Press.
-* Kelso, J. A. S. (1995), _Dynamical Patterns: The Self-Organization of Brain and Behavior_, Cambridge, MA: MIT Press.
-* King, C. C. (1995), “Fractal Neurodynamics and Quantum Chaos: Resolving the Mind-Brain Paradox Through Novel Biophysics”, in E. MacCormack, E. and M.I. Stamenov, M.I. (eds.) _Fractals of Brain, Fractals of Mind_. Amsterdam and Philadelphia: John Benjamins.
-* Koperski, J. (1998), “Models, Confirmation and Chaos”, _Philosophy of Science_, 65: 624–648.
-* Koperski, J. (2001), “Has Chaos Been Explained?”, _British Journal for the Philosophy of Science_, 52: 683–700.
-* Kronz, F. (1998), “Nonseparability and Quantum Chaos”, _Philosophy of Science_, 65: 50–75.
-* Kronz, F. (2000), “Chaos in a Model of an Open Quantum System”, _Philosophy of Science_, 67 (Proceedings): S446–S453.
-* Kuhn, T. (1996), _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press, 3rd edition.
-* Laymon, R. (1989), “Cartwright and the Lying Laws of Physics”, _Journal of Philosophy_, 86: 353–372.
-* Lehnertz, K., Elger, C., Arnhold, J. and Grassberger, P. (eds.) (2000), _Chaos in Brain?_: Proceedings of the Workshop. Singapore: World Scientific.
-* Lorenz, E. N. (1963), “Deterministic Nonperiodic Flow”, _Journal of Atmospheric Science_, 20: 131–40.
-* Lorenz, E. N. (1965), “A Study of the Predictability of a 28-Variable Atmospheric Model”, _Tellus_, 17: 321–33.
-* Mar, G. and Patrick, G. (1991), “Pattern and Chaos: New Images in the Semantics of Paradox”, _Noûs_, 25: 659–693.
-* Maxwell, J. C. \[1860] (1965), “Illustrations of the dynamical theory of gases,” _Philosophical Magazine_, in W. D. Nivens (ed.) _The Scientific Papers of James Clerk Maxwell_, New York: Dover, pp. 378–379.
-* Maxwell, J. C. \[1876] (1992), _Matter and Motion_, New York: Dover.
-* May, R. M. (1976), “Simple Mathematical Models with very Complicated Dynamics”, _Nature_, 261: 459–467.
-* Omnés, R. (1994), _The Interpretation of Quantum Mechanics_. Princeton, NJ: University of Princeton Press.
-* Oseledec, V. I. (1969), “A multiplicative ergodic theorem. Lyapunov characteristic numbers for dynamical systems,” _Transactions of the Moscow Mathematical Society_, 19: 197–232.
-* Ott, E. (2002), _Chaos in Dynamical Systems_, Cambridge: Cambridge University Press, 2nd edition.
-* Packard, N. H., Crutchfield, J. P., Farmer, J. D., and Shaw, R. S. (1980), “Geometry from a Time Series”, _Physical Review Letters_, 45: 712–716.
-* Pauli, W. (1993), “Allgemeinen Prinzipien der Wellenmechanik”, in H. Geiger and K. Scheel (eds.), _Handbuch der Physik, vol 24_. Berlin: Springer Verlag, pp. 83–272.
-* Penrose, R. (1991) _The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics_, New York: Penguin Books.
-* Penrose, R. (1994) _Shadows of the Mind_, Oxford: Oxford University Press.
-* Penrose, R. (1997). _The Large, the Small and the Human Mind_, Cambridge: Cambridge University Press.
-* Poincaré, H. (1913), _The Foundations of Science: Science and Method_, Lancaster: The Science Press.
-* Polkinghorne, J. (1989), _Science and Creation: The Search for Understanding_, Boston: Shambhala Publications.
-* Polkinghorne, J. (1991), _Reason and Reality: The Relationship between Science and Theology_, Valley Forge, PA: Trinity Press.
-* Ponomarenko, L. A., Schedin, F., Katsnelson, M. I., Yang, R., Hill, E. W., Novoselov, K. S. and Geim, K. A. (2008), “Chaotic Dirac Billiard in Graphene Quantum Dots”, _Science_ 320: 356–358.
-* Popper, K. (1950), “Indeterminism in Quantum Physics and in Classical Physics”, _The British Journal for the Philosophy of Science_, 1: 117–133.
-* Port, R. and van Gelder, T. (eds.) (1995), _Mind as Motion_, Cambridge, MA: MIT Press.
-* Rajan, K., Abbott, L. F., and Sompolinsky, H. (2010), “Stimulus-dependent Suppression of Chaos in Recurrent Neural Networks”, _Physical Review E_, 82: 011903.
-* Primas, H. (1998), “Emergence in Exact Natural Sciences”, _Acta Polytechnica Scandinavia_, 91: 83–98.
-* Redhead, M. G. L. (1980), “Models in Physics”, _British Journal for the Philosophy of Science_, 31: 145–163.
-* Robinson, C. (1995), _Dynamical Systems: Stability, Symbol Dynamics and Chaos_, London: CRC Press.
-* Rueger, A. and Sharp, D. (1996), “Simple Theories of a Messy World: Truth and Explanatory Power in Nonlinear Dynamics”, _British Journal for the Philosophy of Science_, 47: 93–112.
-* Ruhla, C. (1992), “Poincaré, or Deterministic Chaos (Sensitivity to Initial Conditions)”, in C. Ruhla, _The Physics of Chance: From Blaise Pascal to Niels Bohr_, translated from the French by G. Barton, Oxford: Oxford University Press.
-* St. Denis, P. and Patrick, G. (1997), “Fractal Images of Formal Systems”, _Journal of Philosophical Logic_, 26: 181–222.
-* Shaw, R. S. (1981), “Modeling Chaotic Systems”, in H. Haken (ed.) , _Chaos and Order in Nature_, New York: Springer, pp. 218–231.
-* Shenker, O. (1994), “Fractal Geometry Is not the Geometry of Nature”, _Studies in the History and Philosophy of Modern Physics_, 25: 147–82.
-* Sklar, L. (1995), _Physics and Chance: Philosophical Issues in the Foundations of Statistical Mechanics_, Cambridge: Cambridge University Press.
-* Smart, J. (1963), _Philosophy and Scientific Realism_, New York: The Humanities Press.
-* Smith, L. A. (1992), “Identification and Prediction of Low Dimensional Dynamics”, _Physica D_, 58: 50–76.
-* Smith, L. A. (2000), “Disentangling Uncertainty and Error: On the Predictability of Nonlinear Systems”, in A. Mees (ed.) _Nonlinear Dynamics and Statistics_, Boston: Birkhauser, pp. 31–64.
-* Smith, L. A. (2003), “Predictability Past Predictability Present”, in _Seminar on Predictability of Weather and Climate_, Reading, UK: ECMWF Proceedings, pp. 219–242.
-* Smith, L. A. (2007), _Chaos: A Very Short Introduction_, Oxford: Oxford University Press.
-* Smith, L. A., Ziehmann, C. and Fraedrich, K. (1999), “Uncertainty Dynamics and Predictability in Chaotic Systems”, _Quarterly Journal of the Royal Meteorological Society_, 125: 2855–86.
-* Smith, P. (1998), _Explaining Chaos_, Cambridge: Cambridge University Press.
-* Stapp, H. (1993) _Mind, Matter, and Quantum Mechanics_. Berlin: Springer.
-* Stone, M. A. (1989), “Chaos, Prediction and Laplacian Determinism”, _American Philosophical Quarterly_, 26: 123–31.
-* Takens, F. (1981), “Detecting Strange Attractors in Turbulence”, in D. Rand and L.-S. Young (eds.), _Lecture Notes in Mathematics_, Vol. 898. Berlin: Springer, pp. 366–381.
-* Thompson, P. D. (1957), “Uncertainty of Initial State as a Factor in the Predictability of Large Scale Atmospheric Flow Patterns”, _Tellus_, 9: 275–295.
-* Tomsovic, S. and Heller, E. J. (1993), “Long-time Semiclassical Dynamics of Chaos: The Stadium Billiard”, _Physical Review E_, 47: 282–300.
-* Tsuda, I (2001). “Towards an Interpretation of Dynamic Neural Activity in Terms of Chaotic Dynamical Systems”, _Behavioral and Brain Sciences_, 24: 793–847.
-* Vandervert, L., ed. (1997), _Understanding Tomorrow’s Mind: Advances in Chaos Theory, Quantum Theory, and Consciousness in Psychology_, New York: _Journal of Mind and Behavior_, Volume 18, Numbers 2–3.
-* Van Orden, G., Holden, J. and Turvey, M. T. (2003), “Self-Organization of Cognitive Performance”, _Journal of Experimental Psychology: General_, 132: 331–351.
-* Van Orden, G., Holden, J. and Turvey, M. T. (2003), “Human Cognition and 1/f Scaling”, _Journal of Experimental Psychology: General_, 134: 117–123.
-* Wallace, D. (2012) _The Emergent Multiverse: Quantum Theory according to the Everett Interpretation_. Oxford: Oxford University Press.
-* Weigert, S. (1990), “The Configurational Quantum Cat Map”, _Zeitschrift für Physik B_, 80: 3–4.
-* Weigert, S. (1992), “The Problem of Quantum Integrability”, _Physica D_, 56: 107–119.
-* Weigert, S. (1993), “Quantum Chaos in the Configurational Quantum Cat Map”, _Physical Review A_, 48: 1780–1798.
-* Wigner, E. P. (1951), “On the Statistical Distribution of the Widths and Spacings of Nuclear Resonance Levels”, _Mathematical Proceedings of the Cambridge Philosophical Society_, 47: 790–798.
-* Wimsatt, W. C. (1987), “False Models as Means to Truer Theories”, in M. Nitecki and A. Hoffmann (eds.), _Neutral Models in Biology_, New York: Oxford University Press, pp. 3–55.
-* Zheng, Z., Misra, B. and Atmanspacher, H. (2003), “Observer-Dependence of Chaos Under Lorentz and Rindler Transformations”, _International Journal of Theoretical Physics_, 42: 869–878.
-* Ziehmann, C., Smith, L. A., and Kurths, J. (2000), “Localized Lyapunov Exponents and the Prediction of Predictability”, _Physics Letters A_, 271: 237–51.
-* Zhilinskií, B. I. (2001), “Symmetry, invariants, and topology, vol II: Symmetry, invariants, and topology in molecular models”, _Physics Reports_, 341: 85–171.
-* Zurek, W. H. (1991), “Quantum Measurements and the Environment-Induced Transition from Quantum to Classical”, in A. Ashtekar and J. Stachel (eds.), _Conceptual Problems of Quantum Gravity_, Boston: Birkhäuser, pp. 43–62.
+* Aihara, K. (2008), “Chaos in Neurons”, *Scholarpedia*, 3(5): 1768 [available online](http://www.scholarpedia.org/article/Chaos\in\neurons), referenced on 31 July 2014.
+* Anderson, M. L. (2010), “Neural Re-use as a Fundamental Organizational Principle of the Brain”, *Behavioral Brain Science*, 33: 45–313.
+* Aristotle (1985) \[OTH], *On the Heavens*,; in. J. Barnes (ed.), *The Complete Works of Aristotle: The Revised Oxford Translation*, Vol 1. Princeton: Princeton University Press.
+* Arnold, V. I. and Avez, A. (1968), *Ergodic Problems of Classical Mechanics*. Reading, MA: W. A. Benjamin.
+* Atmanspacher, H. and Scheingraber, H. (1987), “A Fundamental Link between System Theory and Statistical Mechanics”, *Foundations of Physics*, 17: 939–963.
+* Avnir, D., Biham, O., Lidar, D. and Malcai, O. (1998), “Is the Geometry of Nature Fractal?” *Science*, 279: 39–40.
+* Banks, J., Brooks, J. Cairns, G. Davis, G. and Stacey, P. (1992), “On Devaney’s Definition of Chaos”, *American Mathematical Monthly*, 99: 332–334.
+* Barone, S. R., Kunhardt, E. E., Bentson, J. and Syljuasen (1993), “Newtonian Chaos + Heisenberg Uncertainty = Macroscopic Indeterminacy”, *American Journal Of Physics*, 61: 423–7.
+* Bayfield , J. E. and Koch, P. M. (1974), “Multiphoton Ionization of Highly Excited Hydrogen Atoms”, *Physical Review Letters*, 33: 258–261.
+* Batterman, R. W. (1993), “Defining Chaos”, *Philosophy of Science*, 60: 43–66.
+* Beck, F. and Eccles, J. (1992), “Quantum Aspects of Brain Activity and the Role of Consciousness”, in *Proceedings of the National Academy of Science (United States)*, 89: 11357–11361.
+* Berry, M. V. (1977), “Regular and Irregular Semiclassical Wavefunctions”, *Journal of Physics A*, 10: 2083–198.
+* Berry, M. V. (1987), “Quantum Chaology”, *Proceedings of the Royal Society A*, 413: 183–2091.
+* Berry, M. V. (1989), “Quantum Chaology, Not Quantum Chaos,” *Physica Scripta*, 40: 335–336.
+* Berry, M. V. (2001), “Chaos and the Semiclassical Limit of Quantum Mechanics (Is the Moon There When Somebody Looks?)”, R. J. Russell, P. Clayton, K. Wegter-McNelly, and J. Polkinghorne (eds.), *Quantum Mechanics: Scientific Perspectives on Divine Action*, Vatican Observatory: CTNS Publications, pp. 41–54.
+* Berry, M. V., Balazs, N. L., Tabor, M. and Voros, A. (1979), “Quantum Maps,” *Annals of Physics*, 122: 26–63.
+* Berkovitz, J, Frigg, R. and Kronz, F. (2006), “The Ergodic Hierarchy, Randomness and Chaos”, *Studies in History and Philosophy of Modern Physics*, 37: 661–691.
+* Bishop, R. C. (2002a), “Chaos, Indeterminism, and Free Will”, in R. Kane (ed.), *The Oxford Handbook of Free Will*. Oxford: Oxford University Press, pp. 111–124.
+* Bishop, R. C. (2002b), “Deterministic and Indeterministic Descriptions”, in H. Atmanspacher and R. Bishop (eds.), *Between Chance and Choice*: Interdisciplinary Perspectives on Determinism. Thorverton: Imprint Academic, pp. 5–31.
+* Bishop, R. C. (2003), “On Separating Prediction from Determinism”, *Erkenntnis*, 58: 169–188.
+* Bishop, R. C. (2004), “Nonequilibrium Statistical Mechanics Brussels-Austin Style”, *Studies in History and Philosophy of Modern Physics*, 35: 1–30.
+* Bishop, R. C. (2005), “Anvil or Onion? Determinism as a Layered Concept”, *Erkenntnis*, 63: 55–71.
+* Bishop, R. C. (2008), “What Could Be Worse than the Butterfly Effect?”, *Canadian Journal of Philosophy* 38: 519–548.
+* Bishop, R. C. (2010a), “Metaphysical and Epistemological Issues in Complex Systems”, in C. Hooker (ed.) *Philosophy of Complex Systems, vol 10, Handbook of the Philosophy of Science*, Amsterdam: North Holland. pp. 119–150.
+* Bishop, R. C. (2010b), “Whence Chemistry? Reductionism and Neoreductionism”, *Studies in History and Philosophy of Modern Physics* 41: 171–177.
+* Bishop, R. C. (2012), “Fluid Convection, Constraint and Causation”, *Interface Focus*, 2: 4–12.
+* Bricmont , J. (1995), “Science of Chaos or Chaos in Science?”, *Physicalia Magazine* 17: 159–208.
+* Bohigas , O., Giannoni, M. J. and Schmit, C. (1984), “Characterization of Chaotic Quantum Spectra and Universality of Level Fluctuation Laws”, *Physical Review Letters* 52: 1–4.
+* Bohm, D. (1951), *Quantum Mechanics*. Englewood Cliffs, NJ: Prentice-Hall.
+* Bohm, D. and Hiley, B. J. (1993), *The Undivided Universe*. New York: Routledge.
+* Bokulich, A. (2008), *Reexamining the Quantum-Classical Relation: Beyond Reductionism and Pluralism*. Cambridge: Cambridge University Press.
+* Cartwright, N. (1999), *The Dappled World: A study of the Boundaries of Science*. Cambridge: Cambridge University Press.
+* Casati, G., Chirikov, B. V., Izrailev, F. M. and Ford, J. (1979), “Stochastic Behavior of a Quantum Pendulum Under a Periodic perturbation”, in G. Casati and J. Ford (eds.) *Stochastic Behavior in Classical and Quantum Hamiltonian Systems.* Lecture Notes in Physics, Vol. 93. Berlin: Springer. pp. 334–352.
+* Casati, G., Chirikov, B. V. and Shepelyanski, D. (1984), “Classical Billiards and Double-slit Quantum Interference”, *Physical Review A*, 72: 032111.
+* Casati, G. and Prosen, T. (2005), “Quantum Limitations for Chaotic Excitation of the Hydrogen Atom in a Monochromatic Field”, *Physical Review Letters*, 53: 2525–2528.
+* Casati, G., Valz-Gris, F. and Guarneri, I. (1980) , “On the Connection Between Quantization of Nonintegrable Systems and Statistical Theory of Spectra”, *Lettere Al Nuovo Cimento Series 2*, 28: 279–282.
+* Chemero A. and Silberstein M. (2008), “After the Philosophy of Mind: Replacing Scholasticism with Science”, *Philosophy of Science*, 75: 1–27.
+* Chirikov, B. V., Izrailev, F. M. and Shepelyanski, D. (1988), “Quantum Chaos: Localization vs. Ergodicity”, *Physica D*, 33: 77–88.
+* Clark, A. (1998), “Time and Mind”, *Journal of Philosophy*, 95: 354–376.
+* Compton, A.(1935), *The Freedom of Man*. New Haven: Yale University Press.
+* Davies, E. B. (1976), *Quantum Theory of Open Systems*. Waltham, MA: Academic Press.
+* Devaney, R. (1989), “Dynamics of Simple Maps”, *Proceedings of Symposia in Applied Mathematics*, 39: 1–24.
+* Diesmann M., Gewaltig M-O., Aertsen A. (1999), “Stable Propagation of Synchronous Spiking in Cortical Neural Networks”, *Nature*, 402: 529–533.
+* Dingle, R. (1973), *Asymptotic Expansions: Their Derivation and Interpretation*. New York: Academic Press.
+* Duhem, P. (1982), *The Aim and Structure of Physical Theory*. Princeton: Princeton University Press.
+* Dupré, J. (1993), *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*. Cambridge, MA: Harvard University Press.
+* Eccles, J. (1970), *Facing Reality*. New York: Springer.
+* Engel, A., Roelfsema, P., König, P. and Singer, W. (1997), “Neurophysiological Relevance of Time”, in H. Atmanspacher and E. Ruhnau (eds.), *Time, Temporality, Now: Experiencing Time and Concepts of Time in an Interdisciplinary Perspective*. Berlin: Springer, pp. 133–157.
+* Filikhin, I., Matinyan, S. and Vlahovic, B. (2011), “Disappearance of Quantum Chaos in Coupled Chaotic Quantum Dots”, *Physical Letters A*, 375: 620–623.
+* Fishman, S., Grempel, D. R. and Prange, R. E. (1982), “Chaos, Quantum Recurrences, and Anderson Localization” *Physical Review Letters*, 49: 509–512.
+* Ford, J. and Mantica, G. (1992), “Does Quantum Mechanics Obey the Correspondence Principle? Is It Complete?” *American Journal of Physics*, 60: 1086–1097.
+* Fox, R. F. (1990), “Chaos, Molecular Fluctuations, and the Correspondence Limit”, *Physical Review A*, 41: 2969–2976.
+* Freeman, W. J. (1991), “Nonlinear Dynamics in Olfactory Information Processing”, in J. Davis and H. Eichenbaum (eds.) *Olfaction*. Cambridge, MA: MIT Press.
+* Freeman, W. J. (2000), *How Brains Make Up Their Minds*. New York: Columbia University Press.
+* Freeman, W. J. and Skarda, C. A. (1987), “How Brains Make Chaos in Order to Make Sense of the World”, *Behavioral and Brain Sciences*, 10: 161–195.
+* Friedrichs, K. (1955), “Asymptotic Phenomena in Mathematical Physics”, *Bulletin of the American Mathematics Society*, 61: 485–504.
+* van Gelder, T. (1995), “What Might Cognition Be if not Computation?”, *Journal of Philosophy*, 92: 345–381.
+* Guhr, T., Müller-Groeling, A. and Weidenmüller, H. A. (1998), “Random-matrix Theories in Quantum Physics: Common Concepts”, *Physics Reports*, 299: 189–425.
+* Gutzwiller, M. C. (1971), “Periodic Orbits and Classical Quantization Conditions”, *Journal of Mathematical Physics*, 91: 343–358.
+* Gutzwiller, M. C. (1992), “Quantum Chaos”, *Scientific American*, 266 (January): 78–84.
+* Hadamard, J. (1922), *Lectures on Cauchy’s Problem in Linear Partial Differential Equations*, New Haven: Yale University Press.
+* Hilborn, R. C. (1994), *Chaos and Nonlinear Dynamics: An Introduction for Scientists and Engineers*, Oxford: Oxford University Press.
+* Hobbs, J. (1991), “Chaos and Indeterminism”, *Canadian Journal of Philosophy*, 21: 141–164.
+* Hunt, B. R. and Yorke, J. A. (1993), “Maxwell on Chaos”, *Nonlinear Science Today*, 3(1): 1–4.
+* Jensen, R. V. (1987), “Classical Chaos”, *American Scientist*, 75 (March-April): 168–181.
+* Jensen, R. V. (1992), “Quantum Chaos”, *Nature*, 355: 311–318.
+* Jones, R. (1990), “Determinism in Deterministic Chaos”, in A. Fine, M Forbes, and L. Wessels (eds.) *PSA* 1990, Volume 2, East Lansing: Philosophy of Science Association, pp. 537–549.
+* Juarrero, A. (1999), *Dynamics in Action: Intentional Behavior as a Complex System*, Cambridge, MA: MIT Press.
+* Judd, K., and Smith, L. (2001), “Indistinguishable States I: Perfect Model Scenario”, *Physica D* 151: 125–141.
+* Judd, K., and Smith, L. (2004), “Indistinguishable States II: Imperfect Model Scenarios”, *Physica D* 196: 224–242.
+* Kane, R. (1996), *The Significance of Free Will*, Oxford: Oxford University Press.
+* Kaneko, K. and Tsuda, I. (2000), *Complex Systems: Chaos and Beyond*, Berlin: Springer.
+* Kaneko, K., Tsuda, I. and Ikegami, T. (eds.), (1994), “Constructive Complexity and Artificial Reality: Proceedings of the Oji International Seminar on Complex Systems—from Complex Dynamical Systems to Sciences of Artificial Reality”, *Physica D* 75: 1–448.
+* Kellert, S. (1993), *In the Wake of Chaos*, Chicago University Press.
+* Kelso, J. A. S. (1995), *Dynamical Patterns: The Self-Organization of Brain and Behavior*, Cambridge, MA: MIT Press.
+* King, C. C. (1995), “Fractal Neurodynamics and Quantum Chaos: Resolving the Mind-Brain Paradox Through Novel Biophysics”, in E. MacCormack, E. and M.I. Stamenov, M.I. (eds.) *Fractals of Brain, Fractals of Mind*. Amsterdam and Philadelphia: John Benjamins.
+* Koperski, J. (1998), “Models, Confirmation and Chaos”, *Philosophy of Science*, 65: 624–648.
+* Koperski, J. (2001), “Has Chaos Been Explained?”, *British Journal for the Philosophy of Science*, 52: 683–700.
+* Kronz, F. (1998), “Nonseparability and Quantum Chaos”, *Philosophy of Science*, 65: 50–75.
+* Kronz, F. (2000), “Chaos in a Model of an Open Quantum System”, *Philosophy of Science*, 67 (Proceedings): S446–S453.
+* Kuhn, T. (1996), *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press, 3rd edition.
+* Laymon, R. (1989), “Cartwright and the Lying Laws of Physics”, *Journal of Philosophy*, 86: 353–372.
+* Lehnertz, K., Elger, C., Arnhold, J. and Grassberger, P. (eds.) (2000), *Chaos in Brain?*: Proceedings of the Workshop. Singapore: World Scientific.
+* Lorenz, E. N. (1963), “Deterministic Nonperiodic Flow”, *Journal of Atmospheric Science*, 20: 131–40.
+* Lorenz, E. N. (1965), “A Study of the Predictability of a 28-Variable Atmospheric Model”, *Tellus*, 17: 321–33.
+* Mar, G. and Patrick, G. (1991), “Pattern and Chaos: New Images in the Semantics of Paradox”, *Noûs*, 25: 659–693.
+* Maxwell, J. C. \[1860] (1965), “Illustrations of the dynamical theory of gases,” *Philosophical Magazine*, in W. D. Nivens (ed.) *The Scientific Papers of James Clerk Maxwell*, New York: Dover, pp. 378–379.
+* Maxwell, J. C. \[1876] (1992), *Matter and Motion*, New York: Dover.
+* May, R. M. (1976), “Simple Mathematical Models with very Complicated Dynamics”, *Nature*, 261: 459–467.
+* Omnés, R. (1994), *The Interpretation of Quantum Mechanics*. Princeton, NJ: University of Princeton Press.
+* Oseledec, V. I. (1969), “A multiplicative ergodic theorem. Lyapunov characteristic numbers for dynamical systems,” *Transactions of the Moscow Mathematical Society*, 19: 197–232.
+* Ott, E. (2002), *Chaos in Dynamical Systems*, Cambridge: Cambridge University Press, 2nd edition.
+* Packard, N. H., Crutchfield, J. P., Farmer, J. D., and Shaw, R. S. (1980), “Geometry from a Time Series”, *Physical Review Letters*, 45: 712–716.
+* Pauli, W. (1993), “Allgemeinen Prinzipien der Wellenmechanik”, in H. Geiger and K. Scheel (eds.), *Handbuch der Physik, vol 24*. Berlin: Springer Verlag, pp. 83–272.
+* Penrose, R. (1991) *The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics*, New York: Penguin Books.
+* Penrose, R. (1994) *Shadows of the Mind*, Oxford: Oxford University Press.
+* Penrose, R. (1997). *The Large, the Small and the Human Mind*, Cambridge: Cambridge University Press.
+* Poincaré, H. (1913), *The Foundations of Science: Science and Method*, Lancaster: The Science Press.
+* Polkinghorne, J. (1989), *Science and Creation: The Search for Understanding*, Boston: Shambhala Publications.
+* Polkinghorne, J. (1991), *Reason and Reality: The Relationship between Science and Theology*, Valley Forge, PA: Trinity Press.
+* Ponomarenko, L. A., Schedin, F., Katsnelson, M. I., Yang, R., Hill, E. W., Novoselov, K. S. and Geim, K. A. (2008), “Chaotic Dirac Billiard in Graphene Quantum Dots”, *Science* 320: 356–358.
+* Popper, K. (1950), “Indeterminism in Quantum Physics and in Classical Physics”, *The British Journal for the Philosophy of Science*, 1: 117–133.
+* Port, R. and van Gelder, T. (eds.) (1995), *Mind as Motion*, Cambridge, MA: MIT Press.
+* Rajan, K., Abbott, L. F., and Sompolinsky, H. (2010), “Stimulus-dependent Suppression of Chaos in Recurrent Neural Networks”, *Physical Review E*, 82: 011903.
+* Primas, H. (1998), “Emergence in Exact Natural Sciences”, *Acta Polytechnica Scandinavia*, 91: 83–98.
+* Redhead, M. G. L. (1980), “Models in Physics”, *British Journal for the Philosophy of Science*, 31: 145–163.
+* Robinson, C. (1995), *Dynamical Systems: Stability, Symbol Dynamics and Chaos*, London: CRC Press.
+* Rueger, A. and Sharp, D. (1996), “Simple Theories of a Messy World: Truth and Explanatory Power in Nonlinear Dynamics”, *British Journal for the Philosophy of Science*, 47: 93–112.
+* Ruhla, C. (1992), “Poincaré, or Deterministic Chaos (Sensitivity to Initial Conditions)”, in C. Ruhla, *The Physics of Chance: From Blaise Pascal to Niels Bohr*, translated from the French by G. Barton, Oxford: Oxford University Press.
+* St. Denis, P. and Patrick, G. (1997), “Fractal Images of Formal Systems”, *Journal of Philosophical Logic*, 26: 181–222.
+* Shaw, R. S. (1981), “Modeling Chaotic Systems”, in H. Haken (ed.) , *Chaos and Order in Nature*, New York: Springer, pp. 218–231.
+* Shenker, O. (1994), “Fractal Geometry Is not the Geometry of Nature”, *Studies in the History and Philosophy of Modern Physics*, 25: 147–82.
+* Sklar, L. (1995), *Physics and Chance: Philosophical Issues in the Foundations of Statistical Mechanics*, Cambridge: Cambridge University Press.
+* Smart, J. (1963), *Philosophy and Scientific Realism*, New York: The Humanities Press.
+* Smith, L. A. (1992), “Identification and Prediction of Low Dimensional Dynamics”, *Physica D*, 58: 50–76.
+* Smith, L. A. (2000), “Disentangling Uncertainty and Error: On the Predictability of Nonlinear Systems”, in A. Mees (ed.) *Nonlinear Dynamics and Statistics*, Boston: Birkhauser, pp. 31–64.
+* Smith, L. A. (2003), “Predictability Past Predictability Present”, in *Seminar on Predictability of Weather and Climate*, Reading, UK: ECMWF Proceedings, pp. 219–242.
+* Smith, L. A. (2007), *Chaos: A Very Short Introduction*, Oxford: Oxford University Press.
+* Smith, L. A., Ziehmann, C. and Fraedrich, K. (1999), “Uncertainty Dynamics and Predictability in Chaotic Systems”, *Quarterly Journal of the Royal Meteorological Society*, 125: 2855–86.
+* Smith, P. (1998), *Explaining Chaos*, Cambridge: Cambridge University Press.
+* Stapp, H. (1993) *Mind, Matter, and Quantum Mechanics*. Berlin: Springer.
+* Stone, M. A. (1989), “Chaos, Prediction and Laplacian Determinism”, *American Philosophical Quarterly*, 26: 123–31.
+* Takens, F. (1981), “Detecting Strange Attractors in Turbulence”, in D. Rand and L.-S. Young (eds.), *Lecture Notes in Mathematics*, Vol. 898. Berlin: Springer, pp. 366–381.
+* Thompson, P. D. (1957), “Uncertainty of Initial State as a Factor in the Predictability of Large Scale Atmospheric Flow Patterns”, *Tellus*, 9: 275–295.
+* Tomsovic, S. and Heller, E. J. (1993), “Long-time Semiclassical Dynamics of Chaos: The Stadium Billiard”, *Physical Review E*, 47: 282–300.
+* Tsuda, I (2001). “Towards an Interpretation of Dynamic Neural Activity in Terms of Chaotic Dynamical Systems”, *Behavioral and Brain Sciences*, 24: 793–847.
+* Vandervert, L., ed. (1997), *Understanding Tomorrow’s Mind: Advances in Chaos Theory, Quantum Theory, and Consciousness in Psychology*, New York: *Journal of Mind and Behavior*, Volume 18, Numbers 2–3.
+* Van Orden, G., Holden, J. and Turvey, M. T. (2003), “Self-Organization of Cognitive Performance”, *Journal of Experimental Psychology: General*, 132: 331–351.
+* Van Orden, G., Holden, J. and Turvey, M. T. (2003), “Human Cognition and 1/f Scaling”, *Journal of Experimental Psychology: General*, 134: 117–123.
+* Wallace, D. (2012) *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford: Oxford University Press.
+* Weigert, S. (1990), “The Configurational Quantum Cat Map”, *Zeitschrift für Physik B*, 80: 3–4.
+* Weigert, S. (1992), “The Problem of Quantum Integrability”, *Physica D*, 56: 107–119.
+* Weigert, S. (1993), “Quantum Chaos in the Configurational Quantum Cat Map”, *Physical Review A*, 48: 1780–1798.
+* Wigner, E. P. (1951), “On the Statistical Distribution of the Widths and Spacings of Nuclear Resonance Levels”, *Mathematical Proceedings of the Cambridge Philosophical Society*, 47: 790–798.
+* Wimsatt, W. C. (1987), “False Models as Means to Truer Theories”, in M. Nitecki and A. Hoffmann (eds.), *Neutral Models in Biology*, New York: Oxford University Press, pp. 3–55.
+* Zheng, Z., Misra, B. and Atmanspacher, H. (2003), “Observer-Dependence of Chaos Under Lorentz and Rindler Transformations”, *International Journal of Theoretical Physics*, 42: 869–878.
+* Ziehmann, C., Smith, L. A., and Kurths, J. (2000), “Localized Lyapunov Exponents and the Prediction of Predictability”, *Physics Letters A*, 271: 237–51.
+* Zhilinskií, B. I. (2001), “Symmetry, invariants, and topology, vol II: Symmetry, invariants, and topology in molecular models”, *Physics Reports*, 341: 85–171.
+* Zurek, W. H. (1991), “Quantum Measurements and the Environment-Induced Transition from Quantum to Classical”, in A. Ashtekar and J. Stachel (eds.), *Conceptual Problems of Quantum Gravity*, Boston: Birkhäuser, pp. 43–62.
 
 ## Academic Tools
 
@@ -650,4 +650,4 @@ Joseph Ford 提供了对应原理的不同解释：“任何两个在其有效�
 [determinism: causal](https://plato.stanford.edu/entries/determinism-causal/) | [Kuhn, Thomas](https://plato.stanford.edu/entries/thomas-kuhn/) | [mind/brain identity theory](https://plato.stanford.edu/entries/mind-identity/) | [models in science](https://plato.stanford.edu/entries/models-science/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum theory: philosophical issues in](https://plato.stanford.edu/entries/qt-issues/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 
 [Copyright © 2015](https://plato.stanford.edu/info.html#c) by\
-[Robert Bishop](http://www.wheaton.edu/physics/faculty/bishop/bishop.html) <[_Robert.C.Bishop@wheaton.edu_](mailto:Robert%2eC%2eBishop%40wheaton%2eedu)>
+[Robert Bishop](http://www.wheaton.edu/physics/faculty/bishop/bishop.html) <[*Robert.C.Bishop@wheaton.edu*](mailto:Robert%2eC%2eBishop%40wheaton%2eedu)>

@@ -12,7 +12,6 @@
 
 在阿拉伯语进行——依我理解——既非必要也非充分，才能被视为阿拉伯逻辑。阿拉伯逻辑的问题已被采纳，并且其中的技术术语已被借译或翻译成其他语言，如波斯语、土耳其语、希伯来语和乌尔都语。举一个可能的例子，纳西尔·阿尔丁·图西的《逻辑基础》，虽然用波斯语写成，但在十五世纪时却适合用阿拉伯语精确表达，因为它是用另一种语言写成的阿拉伯逻辑。同样地，其他逻辑传统虽然是用阿拉伯语进行的，但在我的用法中并非阿拉伯逻辑。弗雷格开创的传统中的现代逻辑，在大多数现代阿拉伯大学中教授，通常用阿拉伯语授课，但并非阿拉伯逻辑。同样地，如果十八世纪的马龙尼特人仅基于他们在罗马学习的逻辑写成阿拉伯语的逻辑论著，那么他们是在用阿拉伯语写拉丁逻辑，而非阿拉伯逻辑。
 
-
 ---
 
 ## 1. 历史概述
@@ -101,7 +100,7 @@
 
 阿维森纳十二世纪传统
 
-#### 
+####
 
 然而，对逻辑的研究在技术上是先进的（因此不同于格哈兹利），并对后来的阿拉伯逻辑学家产生了影响（因此不同于阿维森纳）。这项工作是由开始修复和重述阿维森纳的工作的阿维森纳逻辑学家完成的。正如阿维森纳宣称自己有权根据直觉重新整理亚里士多德一样，这些致力于阿维森纳逻辑的逻辑学家也认为自己有权根据需要修复阿维森纳体系，无论是由于内在的不一致性，还是由于体系外在的智力要求。这一潮流的一个重要早期代表是乌马尔·伊本·萨赫兰·阿萨维（逝于 1148 年），他在《纳西尔丁的逻辑洞见》中开始重新整理阿维森纳的模态三段论。然而，最终对阿维森纳逻辑进行最终改变的是他的学生及其学生，这些改变构成了后来在清真学校中教授的学科的特征。
 
@@ -409,69 +408,69 @@ Kâtibî进一步修改了 Khûnajî的阅读，将具有本质主语的命题�
 
 ## Bibliography
 
-* Abed, S., 1991, _Aristotelian logic and the Arabic language in Alfârâbî_, Albany: State University of New York Press.
-* Ahmed, A. Q., 2010, “Interpreting Avicenna: Urmawî/Tahtânî and the later logical tradition on propositions”, _Documenti e studi sulla tradizione filosofica medievale_, xxi: 313–342.
-* –––, 2011b, “Systematic growth in sustained error: a case study in the dynamism of post-classical Islamic scholarship”, in _The Islamic Scholarly Tradition_, A. Q. Ahmed, B. Sadeghi, and M. Bonner (eds), Leiden: Brill, 343–378.
-* –––, 2012, “Logic in the Khayrâbâdî School in India: a preliminary exploration”, in _Law and Tradition in Classical Islamic Thought: Studies in Honor of Professor Hossein Modarressi_, M. Cook, N. Haider, I. Rabb, and A. Sayeed (eds), New York: Palgrave Macmillan, pp. 227–244.
-* Alfarabi \[al-Farabi], 1931, _Ihsâ’ al-‘ulûm_ (Enumeration of the Sciences), Cairo: Maktabat al-Khânjî.
-* –––, 1970. _Kitâb al-Hurûf_ (Book of Letters), Muhsin Mahdi (ed.), Beirut: Dar al-Machriq.
-* –––, 1986, _Kitâb al-Qiyâs as-saghîr_ (Short Treatise on Reasoning), Beirut: Dâr al-Mashriq. In _al-Mantiq ‘inda l-Fârâbî_, edited by R. al-‘Ajam, in three volumes; vol 2, pages 65–93.
+* Abed, S., 1991, *Aristotelian logic and the Arabic language in Alfârâbî*, Albany: State University of New York Press.
+* Ahmed, A. Q., 2010, “Interpreting Avicenna: Urmawî/Tahtânî and the later logical tradition on propositions”, *Documenti e studi sulla tradizione filosofica medievale*, xxi: 313–342.
+* –––, 2011b, “Systematic growth in sustained error: a case study in the dynamism of post-classical Islamic scholarship”, in *The Islamic Scholarly Tradition*, A. Q. Ahmed, B. Sadeghi, and M. Bonner (eds), Leiden: Brill, 343–378.
+* –––, 2012, “Logic in the Khayrâbâdî School in India: a preliminary exploration”, in *Law and Tradition in Classical Islamic Thought: Studies in Honor of Professor Hossein Modarressi*, M. Cook, N. Haider, I. Rabb, and A. Sayeed (eds), New York: Palgrave Macmillan, pp. 227–244.
+* Alfarabi \[al-Farabi], 1931, *Ihsâ’ al-‘ulûm* (Enumeration of the Sciences), Cairo: Maktabat al-Khânjî.
+* –––, 1970. *Kitâb al-Hurûf* (Book of Letters), Muhsin Mahdi (ed.), Beirut: Dar al-Machriq.
+* –––, 1986, *Kitâb al-Qiyâs as-saghîr* (Short Treatise on Reasoning), Beirut: Dâr al-Mashriq. In *al-Mantiq ‘inda l-Fârâbî*, edited by R. al-‘Ajam, in three volumes; vol 2, pages 65–93.
 * Aouad, M., 1989, “La Rhétorique. Tradition syriaque et arabe”, in Goulet (ed.) 1989–, volume 1, pp. 455–472.
 * –––, 2003, “La Rhétorique: Tradition syriaque et arabe (compléments)”, in Goulet (ed.) 1989–, Supplement, pp. 219–223.
-* Aristotle, 1989, _Aristotle: Prior Analytics_, R. Smith (ed.), Indianapolis: Hackett.
-* Arnaldez, R., 1991, “Mantik”, (“logic”), in _Encyclopedia of Islam, 2nd edition_, Leiden: Brill, vol. 6, 442–452.
-* Averroes \[Ibn Rushd], 1983, _Maqâlât fî al-mantiq wa-al-‘ilm at-tabî‘î_, Series: _Rasâ‘il falsafiyya_, Casablanca: Dâr al-Nashr al-Maghribiyya. Edited by Jamâl al-Dîn ‘Alawi.
-* Avicenna \[Ibn Sînâ], 1952, _Kitâb as-Shifâ‘: al-Madkhal_, M. el-Khodeiri, G. Anawati, F. el-Ahwani (eds), Cairo: Organisation Générale des Imprimeries Gouvernementales.
-* –––, 1964, _Kitâb as-Shifâ‘: al-Qiyâs_ (The Cure: Syllogism), S. Zayed and I. Madkour (eds.), Cairo: Organisation Générale des Imprimeries Gouvernementales.
-* –––, 2005, _The Metaphysics of “The Healing”_ (_al-Shifâ‘_), Provo: Brigham Young University. Translated M. Marmura.
-* –––, 1971, _al-Ishârât wa-t-tanbîhât_ (Pointers and Reminders), Cairo: Dar al-Marif. Edited by Sulyman Dunya, in four volumes, with Tûsî's commentary at the bottom of page.
+* Aristotle, 1989, *Aristotle: Prior Analytics*, R. Smith (ed.), Indianapolis: Hackett.
+* Arnaldez, R., 1991, “Mantik”, (“logic”), in *Encyclopedia of Islam, 2nd edition*, Leiden: Brill, vol. 6, 442–452.
+* Averroes \[Ibn Rushd], 1983, *Maqâlât fî al-mantiq wa-al-‘ilm at-tabî‘î*, Series: *Rasâ‘il falsafiyya*, Casablanca: Dâr al-Nashr al-Maghribiyya. Edited by Jamâl al-Dîn ‘Alawi.
+* Avicenna \[Ibn Sînâ], 1952, *Kitâb as-Shifâ‘: al-Madkhal*, M. el-Khodeiri, G. Anawati, F. el-Ahwani (eds), Cairo: Organisation Générale des Imprimeries Gouvernementales.
+* –––, 1964, *Kitâb as-Shifâ‘: al-Qiyâs* (The Cure: Syllogism), S. Zayed and I. Madkour (eds.), Cairo: Organisation Générale des Imprimeries Gouvernementales.
+* –––, 2005, *The Metaphysics of “The Healing”* (*al-Shifâ‘*), Provo: Brigham Young University. Translated M. Marmura.
+* –––, 1971, *al-Ishârât wa-t-tanbîhât* (Pointers and Reminders), Cairo: Dar al-Marif. Edited by Sulyman Dunya, in four volumes, with Tûsî's commentary at the bottom of page.
 * –––, 1974, “al-Masâ‘il al-gharîba al-‘ishrîniyya”, in Mohaghegh and Izutsu 1974: 81–103.
-* –––, 1985, _Kitâb al-Najât_ (The Salvation), Tehran: Dânishgâh-i Tihrân. Edited by Danishpazhuh.
-* –––, 2011a, _Avicenna's Deliverance: Logic_ (from _al-Najât_), translated and edited by Asad Q. Ahmed, Karachi: Oxford University Press.
-* Badawi, A. R., 1948/52, _Mantiq Aristû_, Cairo: Dâr al-Kutub al-Misriyya. 3 volumes.
-* Baydâwî, 2001, _The Ascending Lights_ (_Tawali‘ al-Anwar min Matali‘ al-Anzar_), translated in _Nature, Man and God in Medieval Islam_, ed. and trans. by E. E. Calverley and J. W. Pollock, Leiden: Brill. Two volumes.
-* Bertolacci, A., 2006, _The Reception of Aristotle's “Metaphysics” in Avicenna's “Kitâb al-Sifâ‘”: A Milestone of Western Metaphysical Thought_, Leiden: Brill.
-* Black, D. L., 1990, _Logic and Aristotle's “Rhetoric” and “Poetics” in medieval Arabic philosophy_, Leiden: Brill.
-* –––, 1991, “Aristotle's ‘Peri hermeneias’ in medieval Latin and Arabic philosophy: logic and the linguistic arts”, _Canadian Journal of Philosophy_, Supplementary volume 21: 25–83.
-* –––, 1998, “Logic in Islamic philosophy”, in _Routledge Encyclopedia of Philosophy_, London: Routledge, vol. 5, 706–713.
+* –––, 1985, *Kitâb al-Najât* (The Salvation), Tehran: Dânishgâh-i Tihrân. Edited by Danishpazhuh.
+* –––, 2011a, *Avicenna's Deliverance: Logic* (from *al-Najât*), translated and edited by Asad Q. Ahmed, Karachi: Oxford University Press.
+* Badawi, A. R., 1948/52, *Mantiq Aristû*, Cairo: Dâr al-Kutub al-Misriyya. 3 volumes.
+* Baydâwî, 2001, *The Ascending Lights* (*Tawali‘ al-Anwar min Matali‘ al-Anzar*), translated in *Nature, Man and God in Medieval Islam*, ed. and trans. by E. E. Calverley and J. W. Pollock, Leiden: Brill. Two volumes.
+* Bertolacci, A., 2006, *The Reception of Aristotle's “Metaphysics” in Avicenna's “Kitâb al-Sifâ‘”: A Milestone of Western Metaphysical Thought*, Leiden: Brill.
+* Black, D. L., 1990, *Logic and Aristotle's “Rhetoric” and “Poetics” in medieval Arabic philosophy*, Leiden: Brill.
+* –––, 1991, “Aristotle's ‘Peri hermeneias’ in medieval Latin and Arabic philosophy: logic and the linguistic arts”, *Canadian Journal of Philosophy*, Supplementary volume 21: 25–83.
+* –––, 1998, “Logic in Islamic philosophy”, in *Routledge Encyclopedia of Philosophy*, London: Routledge, vol. 5, 706–713.
 * Boudon, V., 2000, “Galien”, in Goulet (ed.) 1989–, volume 3, 440–466.
-* Burnett, C. (ed.), 1993, _Glosses and Commentaries on Aristotelian Logical Texts: The Syriac, Arabic and Medieval Latin Traditions_, London: Warburg Institute.
-* Calverley, E. E., 1933, “Al-Abharî‘s ‘îsâghûjî fî ‘l-mantiq’”, in _The Macdonald presentation volume: A Tribute to Duncan Black Macdonald_, Princeton: Princeton University Press, 75–85.
-* Danishpazhuh, M. T., 1978, _al-Mantiq libni l-Muqaffa‘. Hudud al-mantiq libn Bihrîz_, Tehran: Anjumân-i Shâhanshâhi Falsafah-i Iran.
-* –––, 1989, _al-Mantiqiyyât lil-Fârâbî_, Qum: Maktabat al-Mar'ashî al-Najafî. 3 volumes.
-* Dunlop, D. M., 1955, “Philosophical predecessors and contemporaries of ibn Bajjah”, _Islamic Quarterly_, 2: 110–116.
-* Eichner, H., 2009, _The Post-Avicennan Philosophical Tradition and Islamic Orthodoxy. Philosophical and Theological Summae in Context_. Habilitationschrift, Martin-Luther-universität Halle-Wittenberg.
-* El-Rouayheb, K., 2004, “Sunni Muslim scholars on the status of logic, 1500–1800”, _Islamic Law and Society_, 11(2): 213–232.
-* –––, 2005, “Was there a revival of logical studies in eighteenth-century Egypt?”, _Die Welt des Islams_, 45(1): 1–19.
-* –––, 2009, “Impossible antecedents and their consequences: some thirteenth-century Arabic discussions”, _History and Philosophy of Logic_, 30(3): 209–225.
+* Burnett, C. (ed.), 1993, *Glosses and Commentaries on Aristotelian Logical Texts: The Syriac, Arabic and Medieval Latin Traditions*, London: Warburg Institute.
+* Calverley, E. E., 1933, “Al-Abharî‘s ‘îsâghûjî fî ‘l-mantiq’”, in *The Macdonald presentation volume: A Tribute to Duncan Black Macdonald*, Princeton: Princeton University Press, 75–85.
+* Danishpazhuh, M. T., 1978, *al-Mantiq libni l-Muqaffa‘. Hudud al-mantiq libn Bihrîz*, Tehran: Anjumân-i Shâhanshâhi Falsafah-i Iran.
+* –––, 1989, *al-Mantiqiyyât lil-Fârâbî*, Qum: Maktabat al-Mar'ashî al-Najafî. 3 volumes.
+* Dunlop, D. M., 1955, “Philosophical predecessors and contemporaries of ibn Bajjah”, *Islamic Quarterly*, 2: 110–116.
+* Eichner, H., 2009, *The Post-Avicennan Philosophical Tradition and Islamic Orthodoxy. Philosophical and Theological Summae in Context*. Habilitationschrift, Martin-Luther-universität Halle-Wittenberg.
+* El-Rouayheb, K., 2004, “Sunni Muslim scholars on the status of logic, 1500–1800”, *Islamic Law and Society*, 11(2): 213–232.
+* –––, 2005, “Was there a revival of logical studies in eighteenth-century Egypt?”, *Die Welt des Islams*, 45(1): 1–19.
+* –––, 2009, “Impossible antecedents and their consequences: some thirteenth-century Arabic discussions”, *History and Philosophy of Logic*, 30(3): 209–225.
 * –––, 2010a. “Introduction”, in Khunaji 2010.
-* –––, 2010b. _Relational Syllogisms and the History of Arabic Logic, 900–1900_, Leiden: Brill.
-* –––, 2012, “Post-Avicennan logicians on the subject-matter of logic: some thirteenth- and fourteenth-century discussions”, _Arabic Sciences and Philosophy_, 22(1): 69–90.
-* Elamrani-Jamal, A., 1983, _Logique aristotélicienne et grammaire arabe (étude et documents)_, Paris: Librairie Philosophique J. Vrin.
+* –––, 2010b. *Relational Syllogisms and the History of Arabic Logic, 900–1900*, Leiden: Brill.
+* –––, 2012, “Post-Avicennan logicians on the subject-matter of logic: some thirteenth- and fourteenth-century discussions”, *Arabic Sciences and Philosophy*, 22(1): 69–90.
+* Elamrani-Jamal, A., 1983, *Logique aristotélicienne et grammaire arabe (étude et documents)*, Paris: Librairie Philosophique J. Vrin.
 * –––, 1989, “Alinus”, in Goulet (ed.) 1989–, volume 1, 151–152.
-* –––, 1995, “Ibn Rusd et les _Premiers Analytiques_ d'Aristote: aperçu sur un problème de syllogistique modale”, _Arabic Sciences and Philosophy_, 5(1): 51–74.
+* –––, 1995, “Ibn Rusd et les *Premiers Analytiques* d'Aristote: aperçu sur un problème de syllogistique modale”, *Arabic Sciences and Philosophy*, 5(1): 51–74.
 * Elamrani-Jamal, A. and H. Hugonnard-Roche, 1989, “‘Les Seconds Analytiques’, tradition arabe”, in Goulet (ed.) 1989–, volume 1, pp. 521–524.
-* Endress, G., 1977, _The works of Yahyâ ibn ‘Adi: An analytical inventory_, Wiesbaden: L. Reichert.
-* –––, 1978, “Yahyâ b. ‘adi fi tabyîn al-fasl bayn al-mantiq al-falsafi wan-nahw al-‘arabî”, _Journal for the History of Arabic Science_, 2: 39–50.
-* –––, 1986, “Grammatik und Logik. Arabische Philologie und griechische Philosophie im Widerstreit”, in _Sprachphilosophie in Antike und Mittelalter_, B. Mojsisch (ed.), Amsterdam: Verlag B. R. Grüner, 163–299.
+* Endress, G., 1977, *The works of Yahyâ ibn ‘Adi: An analytical inventory*, Wiesbaden: L. Reichert.
+* –––, 1978, “Yahyâ b. ‘adi fi tabyîn al-fasl bayn al-mantiq al-falsafi wan-nahw al-‘arabî”, *Journal for the History of Arabic Science*, 2: 39–50.
+* –––, 1986, “Grammatik und Logik. Arabische Philologie und griechische Philosophie im Widerstreit”, in *Sprachphilosophie in Antike und Mittelalter*, B. Mojsisch (ed.), Amsterdam: Verlag B. R. Grüner, 163–299.
 * –––, 2006, “Reading Avicenna in the Madrasa”, in Montgomery 2006: 371–422.
-* Frank, R. M., 1990, “Review of Burkhard Mojsisch, ‘Sprachphilosophie in Antike und Mittelalter’ (Amsterdam, 1986)”, _Journal of the American Oriental Society_, 110(2): 356–360.
-* Gätje, H., 1985, “Zur Lehre von den Voraussetzungsschlüssen bei Avicenna”, _Zeitschrift für Geschichte der Arabisch-Islamischen Wissenschaften_, 2: 140–240.
-* Ghazâlî, 1322 AH, _al-Mustasfâ min ‘ilm al-usûl_ (Distillation of the Principles of Jurisprudence), Bûlâq: al-Matba'a al-Amîriyya.
-* –––, 1961, _Mi‘yâr al-‘ilm_ (Yardstick of knowledge), Cairo: Dar al-ma‘arif. Edited by S. Dunya as _Mantiq tahâfut al-falâsifa._
-* –––, 1966, _Mihakk an-nazar_ (Touchstone for Speculation), Beirut: Dâr al-Nahda al-Hadîtha. Edited by M. Na‘sani.
-* Goldziher, I., 1981, “The attitude of orthodox Islam toward the ‘ancient sciences’”, in _Studies on Islam_, translated and edited by M. L. Swartz, Oxford: Oxford University Press, 185–215.
-* Goulet, R. (ed.), 1989–, _Dictionnaire des Philosophes Antiques_, Paris: Editions du Centre national de la recherche scientifique. 5 volumes so far plus a Supplement.
-* Gutas, D., 2000, “Tardjama,” (“translation”, sections 2 & 3), in _Encyclopedia of Islam, second edition_, Leiden: Brill, vol. 10.
-* –––, 1988, _Avicenna and the Aristotelian tradition_, Leiden: Brill.(New edition expected December 2013.)
+* Frank, R. M., 1990, “Review of Burkhard Mojsisch, ‘Sprachphilosophie in Antike und Mittelalter’ (Amsterdam, 1986)”, *Journal of the American Oriental Society*, 110(2): 356–360.
+* Gätje, H., 1985, “Zur Lehre von den Voraussetzungsschlüssen bei Avicenna”, *Zeitschrift für Geschichte der Arabisch-Islamischen Wissenschaften*, 2: 140–240.
+* Ghazâlî, 1322 AH, *al-Mustasfâ min ‘ilm al-usûl* (Distillation of the Principles of Jurisprudence), Bûlâq: al-Matba'a al-Amîriyya.
+* –––, 1961, *Mi‘yâr al-‘ilm* (Yardstick of knowledge), Cairo: Dar al-ma‘arif. Edited by S. Dunya as *Mantiq tahâfut al-falâsifa.*
+* –––, 1966, *Mihakk an-nazar* (Touchstone for Speculation), Beirut: Dâr al-Nahda al-Hadîtha. Edited by M. Na‘sani.
+* Goldziher, I., 1981, “The attitude of orthodox Islam toward the ‘ancient sciences’”, in *Studies on Islam*, translated and edited by M. L. Swartz, Oxford: Oxford University Press, 185–215.
+* Goulet, R. (ed.), 1989–, *Dictionnaire des Philosophes Antiques*, Paris: Editions du Centre national de la recherche scientifique. 5 volumes so far plus a Supplement.
+* Gutas, D., 2000, “Tardjama,” (“translation”, sections 2 & 3), in *Encyclopedia of Islam, second edition*, Leiden: Brill, vol. 10.
+* –––, 1988, *Avicenna and the Aristotelian tradition*, Leiden: Brill.(New edition expected December 2013.)
 * –––, 1993, “Aspects of literary form and genre in Arabic logical works”, in Burnett 1993: 29–76.
-* –––, 1998, _Greek thought, Arabic culture: The Graeco-Arabic Translation Movement in Baghdad and Early ’Abbasaid Society (2nd–4th/5th–10th c.)_, London and New York: Routledge.
-* –––, 2002, “The Heritage of Avicenna: The Golden Age of Arabic Philosophy, 1000 – ca. 1350”, in _Avicenna and His Heritage_, J. Janssens and D. De Smet (eds.), Leuven: Leuven University Press, 81–97.
-* –––, 2012, “The empiricism of Avicenna”, _Oriens_, 40(2): 391–436.
+* –––, 1998, *Greek thought, Arabic culture: The Graeco-Arabic Translation Movement in Baghdad and Early ’Abbasaid Society (2nd–4th/5th–10th c.)*, London and New York: Routledge.
+* –––, 2002, “The Heritage of Avicenna: The Golden Age of Arabic Philosophy, 1000 – ca. 1350”, in *Avicenna and His Heritage*, J. Janssens and D. De Smet (eds.), Leuven: Leuven University Press, 81–97.
+* –––, 2012, “The empiricism of Avicenna”, *Oriens*, 40(2): 391–436.
 * Hasnawi, A., 2008, “Avicenna on the quantification of the predicate”, in Rahman et al. 2008: 295–328.
-* –––, 2009, “Topique et syllogistique: la tradition arabe (al-Fârâbî et Averroès)”, in J. Biard and F. M. Zini (eds.), _Les lieux de l'argumentation: Histoire du syllogisme topique d'Aristote à Leibniz_, Turnhout, Belgium: Brepols, 191–226.
-* –––, 2013, “L'âge de la démonstration. Logique, science et histoire: al-Fârâbî, Avicenne, Avempace, Averroès”, in G. Federici-Vescovini and A. Hasnawi (eds), _Circolazione dei saperi nel Mediterraneo : filosofia e scienze, secoli IX–XVII_, (Proceedings of the seventh colloquium of SIHSPAI held 16–18 February 2006, Florence), Florence: Edizioni Cadmo, p. 257–282.
-* Hillî, 1363 SH, _al-Jawhar an-nadîd fî sharh mantiq at-tajrîd_ (Facetted jewel on the book of abstraction), Tehran: Intishârât-Baydâr. Edited Baydârfâr.
+* –––, 2009, “Topique et syllogistique: la tradition arabe (al-Fârâbî et Averroès)”, in J. Biard and F. M. Zini (eds.), *Les lieux de l'argumentation: Histoire du syllogisme topique d'Aristote à Leibniz*, Turnhout, Belgium: Brepols, 191–226.
+* –––, 2013, “L'âge de la démonstration. Logique, science et histoire: al-Fârâbî, Avicenne, Avempace, Averroès”, in G. Federici-Vescovini and A. Hasnawi (eds), *Circolazione dei saperi nel Mediterraneo : filosofia e scienze, secoli IX–XVII*, (Proceedings of the seventh colloquium of SIHSPAI held 16–18 February 2006, Florence), Florence: Edizioni Cadmo, p. 257–282.
+* Hillî, 1363 SH, *al-Jawhar an-nadîd fî sharh mantiq at-tajrîd* (Facetted jewel on the book of abstraction), Tehran: Intishârât-Baydâr. Edited Baydârfâr.
 * Hugonnard-Roche, H., 2003, “La Poétique: Tradition syriaque et arabe”, in Goulet (ed.) 1989–, Supplement, 208–218.
 * –––, 1989a, “Le de interpretatione”, in Goulet (ed.) 1989–, volume 1, 513–516.
 * –––, 1989b, “Les premiers analytiques”, in Goulet (ed.) 1989–2003, volume 1 516–520.
@@ -480,74 +479,74 @@ Kâtibî进一步修改了 Khûnajî的阅读，将具有本质主语的命题�
 * –––, 1993, “Remarques sur la tradition arabe de l'Organon d'après le manuscrit paris, Bibliothèque nationale, ar. 2346”, in Burnett 1993, 19–28.
 * Hugonnard-Roche, H. and A. Elamrani-Jamal, 1989a, “Les catègories”, in Goulet (ed.) 1989–, volume 1, 507–513.
 * –––, 1989b, “Les topiques”, in Goulet (ed.) 1989–, volume 1, 524–526.
-* Ibn-Khaldûn, 1858, _Prolégomènes d'Ebn-Khaldoun: texte arabe_ (three volumes), Paris: Benjamin Duprat. Edited by M. Quatremère.
-* –––, 1967, _The Muqaddimah of Ibn Khaldûn_, London: Routledge and Kegan Paul. 2nd edition. 3 volumes, translated by F. Rosenthal.
-* Inati, S. C., 1984, _Remarks and Admonitions, Part One: Logic_. Toronto: Pontifical Institute of Mediaeval Studies.
-* Jabre, F., 1999, _al-Nass al-kâmil li-mantiq Aristû_, Beirut: Dâr al-Fikr al-Lubnânî. 2 volumes.
-* Kâtibî, 1948, _ar-Risâla ash-Shamsiyya_, Cairo: Halabî and Sons. With Tahtânî's commentary.
-* Khûnajî, 2010, _Kashf al-Asrâr ‘an Ghawâmid al-Afkâr_ (Disclosure of Secrets about the Obscurities of Thoughts). Edited K. El-Rouayheb. Tehran: Iranian Institute of Philosophy and Institute of Islamic Studies, Free University of Berlin. ISBN 978-964-8036-59-6.
-* Lameer, J., 1994, _Al-Fârâbî and Aristotelian syllogistics: Greek theory and Islamic practice_, Leiden: Brill.
-* –––, 1996, “The Organon of Aristotle in the medieval oriental and occidental traditions”, _Journal of the American Oriental Society_, 116(1): 90–98.
-* –––, 2006, _Conception and Belief in Sadr al-Din Shirazi_, Tehran: Iranian Institute of Philosophy.
-* Larkin, M., 1982, “Al-Jurjani's Theory of Discourse”, _Alif: Journal of Comparative Poetics_, 2: 76–86.
+* Ibn-Khaldûn, 1858, *Prolégomènes d'Ebn-Khaldoun: texte arabe* (three volumes), Paris: Benjamin Duprat. Edited by M. Quatremère.
+* –––, 1967, *The Muqaddimah of Ibn Khaldûn*, London: Routledge and Kegan Paul. 2nd edition. 3 volumes, translated by F. Rosenthal.
+* Inati, S. C., 1984, *Remarks and Admonitions, Part One: Logic*. Toronto: Pontifical Institute of Mediaeval Studies.
+* Jabre, F., 1999, *al-Nass al-kâmil li-mantiq Aristû*, Beirut: Dâr al-Fikr al-Lubnânî. 2 volumes.
+* Kâtibî, 1948, *ar-Risâla ash-Shamsiyya*, Cairo: Halabî and Sons. With Tahtânî's commentary.
+* Khûnajî, 2010, *Kashf al-Asrâr ‘an Ghawâmid al-Afkâr* (Disclosure of Secrets about the Obscurities of Thoughts). Edited K. El-Rouayheb. Tehran: Iranian Institute of Philosophy and Institute of Islamic Studies, Free University of Berlin. ISBN 978-964-8036-59-6.
+* Lameer, J., 1994, *Al-Fârâbî and Aristotelian syllogistics: Greek theory and Islamic practice*, Leiden: Brill.
+* –––, 1996, “The Organon of Aristotle in the medieval oriental and occidental traditions”, *Journal of the American Oriental Society*, 116(1): 90–98.
+* –––, 2006, *Conception and Belief in Sadr al-Din Shirazi*, Tehran: Iranian Institute of Philosophy.
+* Larkin, M., 1982, “Al-Jurjani's Theory of Discourse”, *Alif: Journal of Comparative Poetics*, 2: 76–86.
 * Madelung, W., 2000. “To See all things in things in the sight of God: Nasîr al-Dîn al-Tûsî's attitude to sufism”, in N. Pourjavady and Z. Vesel 2000: 1–11.
 * Mahdi, M., 1970, “Language and logic in classical Islam”, in von Grunebaum 1970: 51–83.
-* Makdisi, G., 1981, _The Rise of Colleges. Institutions of learning in Islam and the West_, Edinburgh: Edinburgh University Press.
-* Margoliouth, D. S., 1905, “The discussion between Abû Bishr Mattâ and Abû Sa‘id al-Sîrâfî on the merits of logic and grammar”, _Journal of the Royal Asiatic Society_, 37(1): 79–129.
-* Menn, S., 2012. “Fârâbî in the reception of Avicenna's metaphysics: Averroes against Avicenna on being and unity”, in D. N. Hasse and A. Bertolacci (eds.) _The Arabic, Hebrew and Latin reception of Avicenna's Metaphysics_, Berlin: De Gruyter, 51–96.
-* Michot, Y., 2000, “Vanités intellectuelles. l'impasse des rationalismes selon le Rejet de la Contradiction d'ibn Taymiyyah”, _Oriente Moderno_, 19 (n.s.): 597–617.
-* Miller, L., 1984, _Islamic Disputation Theory_, Ph.D. thesis, Princeton.
-* Mohaghegh, M. and T. Izutsu (eds.), 1974, _Collected texts and papers on logic and language_, Tehran: Anjomane Asar va Mafakher-e Farhangi.
-* Montgomery, J. (ed.), 2006, _Arabic Theology, Arabic Philosophy: From the Many to the One: Essays in Celebration of Richard M. Frank_, Leuven: Peeters.
-* Perler, D. and U. Rudolph (eds.), 2005, _Logik und Theologie. Das “Organon” im arabischen und im lateinischen Mittelalter_, Leiden: Brill.
-* Peters, F. E., 1968, _Aristoteles Arabus: The Oriental Translations and Commentaries of the Aristotelian Corpus_, Leiden: Brill.
-* Pines, S., 1996, “A parallel in the East to the _logica vetus_”, in S. Stroumsa (ed.), _The Collected Works of Shlomo Pines: Studies in the History of Arabic Philosophy_, Jerusalem: The Hebrew University Magnes Press, vol. 3, 262–266. Originally published in _Philosophie im Mittelalter: Entwicklungslinien und Paradigmen_, J. P. Beckmann (ed.), p. 125–129, Hamburg: Geburstag, 1987.
-* Pococke, E. (tr.), 1663, _Historia Compendiosa Dynastiarum authore Gregorio Abul-Pharajio_, Oxford.
-* Pourjavady, N. and Z. Vesel, 2000, _Nasîr al-Dîn Tûsî: philosophe et savant du XIIIe siècle_, Bibliothèque Iranienne, 54, Leuven, Belgium: Peeters Publishers. Actes du colloque tenu à l'Université de Téhéran (6–9 Mars 1997), Tehran.
-* Pourjavady, R., 2011, _Philosophy in early Safavid Iran: Najm al-Dîn Mahmûd al-Nayrîzî and his writings_, Leiden: Brill.
-* Pourjavady, R. and S. Schmidtke, 2006, _A Jewish philosopher of Baghdad: ‘Izz al-Dawla Ibn Kammûna (d. 683/1284) and his writings_, Leiden: Brill.
-* Rahman, S., T. Street, and H. Tahiri, 2008, _The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions_, Berlin: Springer.
-* Râzî, 1355 AH, _Lubâb al-Ishârât_ (Gist of pointers), Cairo: Maktabat al-Khânjî. Edited by A. ‘Atiyya.
-* –––, 1996, _al-Âyât al-Bayyinât_, Beirut: Dâr Sâdir. With commentary by ibn Abî l-Hadîd al-Madâ‘inî.
-* –––, 2002, _Mantiq al-Mulakhkhas_, Tehran: Intishârât Dānišgāh-i Imām Ṣādiq. Ed. A. Karamaleki & A. Asgharinizhad.
-* Rescher, N., 1963a, “al-Kindî's sketch of Aristotle's Organon”, _The New Scholasticism_, 37(1): 44–58. Also in Rescher 1963b: 28–38.
-* –––, 1963b, _Studies in the History of Arabic Logic_, Pittsburgh: University of Pittsburg Press.
+* Makdisi, G., 1981, *The Rise of Colleges. Institutions of learning in Islam and the West*, Edinburgh: Edinburgh University Press.
+* Margoliouth, D. S., 1905, “The discussion between Abû Bishr Mattâ and Abû Sa‘id al-Sîrâfî on the merits of logic and grammar”, *Journal of the Royal Asiatic Society*, 37(1): 79–129.
+* Menn, S., 2012. “Fârâbî in the reception of Avicenna's metaphysics: Averroes against Avicenna on being and unity”, in D. N. Hasse and A. Bertolacci (eds.) *The Arabic, Hebrew and Latin reception of Avicenna's Metaphysics*, Berlin: De Gruyter, 51–96.
+* Michot, Y., 2000, “Vanités intellectuelles. l'impasse des rationalismes selon le Rejet de la Contradiction d'ibn Taymiyyah”, *Oriente Moderno*, 19 (n.s.): 597–617.
+* Miller, L., 1984, *Islamic Disputation Theory*, Ph.D. thesis, Princeton.
+* Mohaghegh, M. and T. Izutsu (eds.), 1974, *Collected texts and papers on logic and language*, Tehran: Anjomane Asar va Mafakher-e Farhangi.
+* Montgomery, J. (ed.), 2006, *Arabic Theology, Arabic Philosophy: From the Many to the One: Essays in Celebration of Richard M. Frank*, Leuven: Peeters.
+* Perler, D. and U. Rudolph (eds.), 2005, *Logik und Theologie. Das “Organon” im arabischen und im lateinischen Mittelalter*, Leiden: Brill.
+* Peters, F. E., 1968, *Aristoteles Arabus: The Oriental Translations and Commentaries of the Aristotelian Corpus*, Leiden: Brill.
+* Pines, S., 1996, “A parallel in the East to the *logica vetus*”, in S. Stroumsa (ed.), *The Collected Works of Shlomo Pines: Studies in the History of Arabic Philosophy*, Jerusalem: The Hebrew University Magnes Press, vol. 3, 262–266. Originally published in *Philosophie im Mittelalter: Entwicklungslinien und Paradigmen*, J. P. Beckmann (ed.), p. 125–129, Hamburg: Geburstag, 1987.
+* Pococke, E. (tr.), 1663, *Historia Compendiosa Dynastiarum authore Gregorio Abul-Pharajio*, Oxford.
+* Pourjavady, N. and Z. Vesel, 2000, *Nasîr al-Dîn Tûsî: philosophe et savant du XIIIe siècle*, Bibliothèque Iranienne, 54, Leuven, Belgium: Peeters Publishers. Actes du colloque tenu à l'Université de Téhéran (6–9 Mars 1997), Tehran.
+* Pourjavady, R., 2011, *Philosophy in early Safavid Iran: Najm al-Dîn Mahmûd al-Nayrîzî and his writings*, Leiden: Brill.
+* Pourjavady, R. and S. Schmidtke, 2006, *A Jewish philosopher of Baghdad: ‘Izz al-Dawla Ibn Kammûna (d. 683/1284) and his writings*, Leiden: Brill.
+* Rahman, S., T. Street, and H. Tahiri, 2008, *The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions*, Berlin: Springer.
+* Râzî, 1355 AH, *Lubâb al-Ishârât* (Gist of pointers), Cairo: Maktabat al-Khânjî. Edited by A. ‘Atiyya.
+* –––, 1996, *al-Âyât al-Bayyinât*, Beirut: Dâr Sâdir. With commentary by ibn Abî l-Hadîd al-Madâ‘inî.
+* –––, 2002, *Mantiq al-Mulakhkhas*, Tehran: Intishârât Dānišgāh-i Imām Ṣādiq. Ed. A. Karamaleki & A. Asgharinizhad.
+* Rescher, N., 1963a, “al-Kindî's sketch of Aristotle's Organon”, *The New Scholasticism*, 37(1): 44–58. Also in Rescher 1963b: 28–38.
+* –––, 1963b, *Studies in the History of Arabic Logic*, Pittsburgh: University of Pittsburg Press.
 * –––, 1963c, “Avicenna on the logic of conditional propositions ”, in Rescher 1963b: 76–86.
-* –––, 1964, _The Development of Arabic Logic_, Pittsburgh: University of Pittsburgh Press.
+* –––, 1964, *The Development of Arabic Logic*, Pittsburgh: University of Pittsburgh Press.
 * Rudolph, U., 2005, “Die Neuberwertung der Logik durch al-Gazali”, in Perler and Rudolph 2005: 73–97.
 * –––, 2012, “Al-Fârâbî: Logik,” in Rudolph & Würsch, 413–422.
-* Rudolph, U., with R. Würsch, 2012, _Philosophie in der islamischen Welt_. vol. 1. Basel: Schwabe.
-* Sabra, A. I., 1965, “Review of Nicholas Rescher's _Al-Fârâbî's Short Commentary on Aristotle's Prior Analytics_ (Pittsburgh 1963)”, _Journal of the American Oriental Society_, 85(2): 241–243.
-* –––, 1980, “Avicenna on the subject matter of logic”, _Journal of Philosophy_, 77(11): 746–764.
-* Sâwî, 1898, _al-Basâ‘ir an-nasîriyya fî ‘ilm al-mantiq_ (Logical Insights for Nasîraddîn), Cairo: al-Matba'a al-Kubrâ. Edited by M. ‘Abduh.
-* Schmidtke, S., 1991, _The Theology of al-‘Allâma al-Hillî (d. 726/1325)_. Berlin: Klaus Schwarz.
-* –––, 2013, “Two commentaries on Najm al-Dîn al-Kâtibî's _al-Shamsiyya_, copied in the hand of David b. Joshua Maimonides (fl. ca. 1335–1410)”, in _Law and Tradition in Classical Islamic Thought: Studies in Honor of Professor Hossein Modarressi_, M. Cook, N. Haider, I. Rabb, and A. Sayeed (eds), New York: Palgrave Macmillan, 173–191.
-* Shehaby, N., 1973, _Avicenna's Propositional Logic_, Dordrecht and Boston: D. Reidel.
-* Smyth, W., 1993, “The making of a textbook”, _Studia Islamica_, 78: 99–115.
-* Stern, S. M., 1962, “A collection of treatises by ‘Abd al-Latif al-Baghdâdî”, _Islamic Studies_, 1(1): 53–70.
-* Street, T., 2001, “‘The eminent later scholar’ in Avicenna's _Book of the Syllogism_,” _Arabic Sciences and Philosophy_, 11(2): 205–218.
+* Rudolph, U., with R. Würsch, 2012, *Philosophie in der islamischen Welt*. vol. 1. Basel: Schwabe.
+* Sabra, A. I., 1965, “Review of Nicholas Rescher's *Al-Fârâbî's Short Commentary on Aristotle's Prior Analytics* (Pittsburgh 1963)”, *Journal of the American Oriental Society*, 85(2): 241–243.
+* –––, 1980, “Avicenna on the subject matter of logic”, *Journal of Philosophy*, 77(11): 746–764.
+* Sâwî, 1898, *al-Basâ‘ir an-nasîriyya fî ‘ilm al-mantiq* (Logical Insights for Nasîraddîn), Cairo: al-Matba'a al-Kubrâ. Edited by M. ‘Abduh.
+* Schmidtke, S., 1991, *The Theology of al-‘Allâma al-Hillî (d. 726/1325)*. Berlin: Klaus Schwarz.
+* –––, 2013, “Two commentaries on Najm al-Dîn al-Kâtibî's *al-Shamsiyya*, copied in the hand of David b. Joshua Maimonides (fl. ca. 1335–1410)”, in *Law and Tradition in Classical Islamic Thought: Studies in Honor of Professor Hossein Modarressi*, M. Cook, N. Haider, I. Rabb, and A. Sayeed (eds), New York: Palgrave Macmillan, 173–191.
+* Shehaby, N., 1973, *Avicenna's Propositional Logic*, Dordrecht and Boston: D. Reidel.
+* Smyth, W., 1993, “The making of a textbook”, *Studia Islamica*, 78: 99–115.
+* Stern, S. M., 1962, “A collection of treatises by ‘Abd al-Latif al-Baghdâdî”, *Islamic Studies*, 1(1): 53–70.
+* Street, T., 2001, “‘The eminent later scholar’ in Avicenna's *Book of the Syllogism*,” *Arabic Sciences and Philosophy*, 11(2): 205–218.
 * –––, 2005, “Fahraddîn ar-Râzî's critique of Avicennan logic”, in Perler and Rudolph 2005: 99–116.
-* –––, 2010, “Avicenna's _Twenty Questions on Logic_: Preliminary Notes for Further Work”, _Documenti e studi sulla tradizione filosofica medievale_, 21: 97–112.
-* Strobino, R., 2010, “Avicenna on the indemonstrability of definition,” _Documenti e studi sulla tradizione filosofica medievale_, 21: 113–163.
-* –––, 2012, “Avicenna's use of the Arabic translations of the _Posterior Analytics_ and the ancient commentary tradition”, _Oriens_, 40: 355–389.
-* Tâhtânî, 1948, _Tahrîr al-Qawâ'id al-Mantiqiyya fi sharh ar-Risâla ash-Shamsiyya_, Cairo: Halabî and Sons. As lower text in Kâtibî 1948.
-* Thom, P., 2003, _Medieval Modal Systems: Problems and Concepts_, Aldershot: Ashgate Publishing.
-* –––, 2008a, “Al-Fârâbî on indefinite and privative names”, _Arabic Sciences and Philosophy_, 18(2): 193–209.
-* –––, 2008b, “Logic and metaphysics in Avicenna's modal syllogistic”, in _The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions_, S. Rahman, T. Street, and H. Tahiri (eds), Dordrecht: Springer.
-* –––, 2010, “Abharî on the logic of conjunctive terms”, _Arabic Sciences and Philosophy_, 20(1): 105–117.
-* –––, 2012, “Syllogisms about possibility and necessity in Avicenna and Tûsî”, in C. Dutilh Novaes and O. Hjortland (eds), _Insolubles and consequences: essays in honour of Stephen Read_. Milton Keynes: College Publications, 239–248.
-* al-Toulawy, B., 1688 \[2001], _Isagoge or Introduction to Logic_, Beirut: NDU Press.
-* Tûsî, 1971, _Sharh al-Ishârât_ (Solution to the difficulties of pointers), Cairo: Dâr al-Ma'ârif. Published with Avicenna's _al-Ishârât_.
+* –––, 2010, “Avicenna's *Twenty Questions on Logic*: Preliminary Notes for Further Work”, *Documenti e studi sulla tradizione filosofica medievale*, 21: 97–112.
+* Strobino, R., 2010, “Avicenna on the indemonstrability of definition,” *Documenti e studi sulla tradizione filosofica medievale*, 21: 113–163.
+* –––, 2012, “Avicenna's use of the Arabic translations of the *Posterior Analytics* and the ancient commentary tradition”, *Oriens*, 40: 355–389.
+* Tâhtânî, 1948, *Tahrîr al-Qawâ'id al-Mantiqiyya fi sharh ar-Risâla ash-Shamsiyya*, Cairo: Halabî and Sons. As lower text in Kâtibî 1948.
+* Thom, P., 2003, *Medieval Modal Systems: Problems and Concepts*, Aldershot: Ashgate Publishing.
+* –––, 2008a, “Al-Fârâbî on indefinite and privative names”, *Arabic Sciences and Philosophy*, 18(2): 193–209.
+* –––, 2008b, “Logic and metaphysics in Avicenna's modal syllogistic”, in *The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions*, S. Rahman, T. Street, and H. Tahiri (eds), Dordrecht: Springer.
+* –––, 2010, “Abharî on the logic of conjunctive terms”, *Arabic Sciences and Philosophy*, 20(1): 105–117.
+* –––, 2012, “Syllogisms about possibility and necessity in Avicenna and Tûsî”, in C. Dutilh Novaes and O. Hjortland (eds), *Insolubles and consequences: essays in honour of Stephen Read*. Milton Keynes: College Publications, 239–248.
+* al-Toulawy, B., 1688 \[2001], *Isagoge or Introduction to Logic*, Beirut: NDU Press.
+* Tûsî, 1971, *Sharh al-Ishârât* (Solution to the difficulties of pointers), Cairo: Dâr al-Ma'ârif. Published with Avicenna's *al-Ishârât*.
 * –––, 1974a, “Mutârahât mantiqiyya bayna l-Kâtibî wat-Tûsî”, in Mohaghegh and Izutsu 1974: 279–286.
 * –––, 1974b, “Ta‘dîl al-mi‘yâr fî naqd al-asrâr” (Setting the scale for an evaluation of “Revealing Thoughts”), in Mohaghegh and Izutsu 1974: 137–248.
-* von Grunebaum, G. E. (ed.), 1970, _Logic in classical Islamic culture_, Wiesbaden: Otto Harrassowitz.
-* Walbridge, J., 2000, “Logic in the Islamic intellectual tradition: The recent centuries”, _Islamic Studies_, 39(1): 55–75.
-* –––, 2003, “A nineteenth-century Indo-Islamic logic textbook”, _Islamic Studies_, 42(4): 687–693.
-* Weiss, B., 1974, “Medieval Muslim discussions of the origin of language”, _Zeitschrift der Deutschen Morgenlandischen Gesellschaft_, 124(1): 33–41.
-* –––, 1987, “_‘Ilm al-wad‘_: an introductory account of a later Muslim philological science”, _Arabica_, 34(1): 339–356.
-* Wisnovsky, R., 2003, _Avicenna's Metaphysics in Context_, London: Duckworth Academic.
-* –––, 2004, “The nature and scope of Arabic philosophical commentary in post-classical (ca. 1100–1900 AD) Islamic intellectual history: Some preliminary observations”, in _Philosophy, science and exegesis in Greek, Arabic and Latin commentaries_, vol. 2, Supplement to the _Bulletin of the Institute of Classical Studies_ 83/1–2, ed. H. Baltussen et al. London, 149–191.
-* Zimmermann, F. W., 1981, _Al-Fârâbî's Commentary and Short Treatise on Aristotle's De Interpretatione_, Oxford: Oxford University Press.
+* von Grunebaum, G. E. (ed.), 1970, *Logic in classical Islamic culture*, Wiesbaden: Otto Harrassowitz.
+* Walbridge, J., 2000, “Logic in the Islamic intellectual tradition: The recent centuries”, *Islamic Studies*, 39(1): 55–75.
+* –––, 2003, “A nineteenth-century Indo-Islamic logic textbook”, *Islamic Studies*, 42(4): 687–693.
+* Weiss, B., 1974, “Medieval Muslim discussions of the origin of language”, *Zeitschrift der Deutschen Morgenlandischen Gesellschaft*, 124(1): 33–41.
+* –––, 1987, “*‘Ilm al-wad‘*: an introductory account of a later Muslim philological science”, *Arabica*, 34(1): 339–356.
+* Wisnovsky, R., 2003, *Avicenna's Metaphysics in Context*, London: Duckworth Academic.
+* –––, 2004, “The nature and scope of Arabic philosophical commentary in post-classical (ca. 1100–1900 AD) Islamic intellectual history: Some preliminary observations”, in *Philosophy, science and exegesis in Greek, Arabic and Latin commentaries*, vol. 2, Supplement to the *Bulletin of the Institute of Classical Studies* 83/1–2, ed. H. Baltussen et al. London, 149–191.
+* Zimmermann, F. W., 1981, *Al-Fârâbî's Commentary and Short Treatise on Aristotle's De Interpretatione*, Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -562,14 +561,14 @@ Kâtibî进一步修改了 Khûnajî的阅读，将具有本质主语的命题�
 * [Islamic Philosophy Online](http://www.muslimphilosophy.com/).
 * [Medieval Logic and Philosophy](http://www.pvspade.com/Logic/), maintained by Paul Vincent Spade (Indiana University)
 * [Max van Berchem Foundation](http://www.maxvanberchem.org/en/scientific-activities/projects/?a=101).
-*   Wilfrid Hodges' papers and talk slides on Avicenna:
+* Wilfrid Hodges' papers and talk slides on Avicenna:
 
-    * 2009, “[Ibn Sînâ on analysis: 1. Proof search. Or: Abstract state machines as a tool for the history of logic](http://wilfridhodges.co.uk/arabic05.pdf)”.
-    * 2011a, “[A note: Ibn Sînâ on the subject of logic](http://wilfridhodges.co.uk/arabic14.pdf)”.
-    * 2011b, “[Ibn Sînâ: analysis with modal syllogisms](http://wilfridhodges.co.uk/arabic16.pdf)”.
-    * 2011c, “[Ibn Sînâ's explanation of reductio ad absurdum](http://wilfridhodges.co.uk/arabic15.pdf)”.
-    * 2012a, “[What would count as Ibn Sînâ having a first order logic?](http://wilfridhodges.co.uk/arabic17.pdf)”.
-    * 2012b, “[Ibn Sînâ's modal logic](http://wilfridhodges.co.uk/arabic20a.pdf)”.
+  * 2009, “[Ibn Sînâ on analysis: 1. Proof search. Or: Abstract state machines as a tool for the history of logic](http://wilfridhodges.co.uk/arabic05.pdf)”.
+  * 2011a, “[A note: Ibn Sînâ on the subject of logic](http://wilfridhodges.co.uk/arabic14.pdf)”.
+  * 2011b, “[Ibn Sînâ: analysis with modal syllogisms](http://wilfridhodges.co.uk/arabic16.pdf)”.
+  * 2011c, “[Ibn Sînâ's explanation of reductio ad absurdum](http://wilfridhodges.co.uk/arabic15.pdf)”.
+  * 2012a, “[What would count as Ibn Sînâ having a first order logic?](http://wilfridhodges.co.uk/arabic17.pdf)”.
+  * 2012b, “[Ibn Sînâ's modal logic](http://wilfridhodges.co.uk/arabic20a.pdf)”.
 
     See [Hodges' home page](http://wilfridhodges.co.uk/) for translations of Avicenna and other papers on Arabic Logic.
 
@@ -579,4 +578,4 @@ Kâtibî进一步修改了 Khûnajî的阅读，将具有本质主语的命题�
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Tony Street\
-Nadja Germann <[_nadja.germann@philosophie.uni-freiburg.de_](mailto:nadja%2egermann%40philosophie%2euni-freiburg%2ede)>
+Nadja Germann <[*nadja.germann@philosophie.uni-freiburg.de*](mailto:nadja%2egermann%40philosophie%2euni-freiburg%2ede)>

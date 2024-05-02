@@ -1,9 +1,8 @@
 # 狭义心灵内容 narrow (Curtis Brown)
 
-_首次发表于2002年11月20日，实质修订于2022年4月27日。_
+*首次发表于2002年11月20日，实质修订于2022年4月27日。*
 
 狭义心灵内容是一种不依赖于个体环境的心灵内容。狭义内容与个体环境的特征以及个体的特征有关的“广义”或“宽义”内容形成对比。关于是否存在狭义内容存在争议。假设存在狭义内容，它是什么样的内容，它与普通或“广义”内容的关系如何，以及它如何由个体的内在属性决定也存在争议。
- 
 
 ***
 
@@ -145,7 +144,7 @@ White (1982)和 Fodor (1987)提出了一种非常不同且具有很高影响力�
 
 (2) A second difficulty noted by Fodor is that, like conceptual role semantics, the mapping conception may not deserve to be called “content,” because the narrow contents it yields do not suffice to determine truth conditions. A central characteristic of broad content is that a thought or belief with broad content thereby has truth conditions: in some possible circumstances it is true, and in others it is false. On the mapping conception, narrow content does not suffice to determine truth conditions in this sense. To determine truth conditions, one needs to fix not only a narrow content but also a context. For instance, given the narrow content shared by Oscar and Twin Oscar when they think, “Lake Superior is full of water,” we do not have enough information to say whether that thought is true or false in a particular situation. Suppose Lake Superior is full of XYZ. Then Twin Oscar’s thought is true but Oscar’s thought is false, even though both thoughts have the same narrow content. So it seems that narrow content by itself is not enough to determine what truth conditions a thought has. (However, see the following section on “Diagonal Propositions.”)
 
-(3) Finally, although the mapping conception gives us an abstract, formal conception of narrow content, it does not give us an algorithm for _finding_ the narrow content of a particular state. Although apparently any function from contexts to contents would count as a “narrow content” in Fodor’s sense, some of these functions could not really be the content of a mental state. To use a computational analogy, we are really interested only in “computable” functions from context to content, functions that can be implemented somehow in a human mind, and this suggests that it is not the function itself that is of interest but rather the algorithm by means of which it is computed.
+(3) Finally, although the mapping conception gives us an abstract, formal conception of narrow content, it does not give us an algorithm for *finding* the narrow content of a particular state. Although apparently any function from contexts to contents would count as a “narrow content” in Fodor’s sense, some of these functions could not really be the content of a mental state. To use a computational analogy, we are really interested only in “computable” functions from context to content, functions that can be implemented somehow in a human mind, and this suggests that it is not the function itself that is of interest but rather the algorithm by means of which it is computed.
 
 ### 4.4 Diagonal Propositions
 
@@ -165,7 +164,7 @@ White (1982)和 Fodor (1987)提出了一种非常不同且具有很高影响力�
 
 我们可以用以下表格总结情况：
 
-|   |                             | <p>** w(上下文 1)<br>物质:<br>XYZ**</p> | <p>** w(狭义 2)<br>物质:<br>H2O**</p> | <p>** w(心灵内容 3)<br>物质:<br>H2SO4**</p> |
+|   |                             | <p>**w(上下文 1)<br>物质:<br>XYZ**</p> | <p>**w(狭义 2)<br>物质:<br>H2O**</p> | <p>**w(心灵内容 3)<br>物质:<br>H2SO4**</p> |
 | - | --------------------------- | ---------------------------------- | --------------------------------- | ------------------------------------- |
 | 1 | <p>锚点: XYZ;<br>物质: XYZ</p>  | T                                  | F                                 | F                                     |
 | 2 | <p>锚点: H20;<br>物质: H2O</p>  | F                                  | T                                 | F                                     |
@@ -211,7 +210,7 @@ Chalmers借助以下装置发展了这一思路。如果一个思想在经验上
 
 Block and Stalnaker argue in some detail that the likely candidates for what to hold constant all give the wrong results. Consider how we might find the diagonal proposition associated with Oscar’s belief that water is wet. Suppose that a belief is, or is associated with, a mental analog of a sentence. We will suppose that, like a sentence, a mental token can be identified separately from its meaning. Then Oscar’s mental token, like the sentence “Water is wet,” could, in some possible mental language, mean that dogs have fur. Now if in diagonalizing we consider all possible worlds centered on someone who possesses the same mental sentence as Oscar’s water-sentence, regardless of its meaning, we get a diagonal proposition that is much too unconstrained to serve as a narrow content. We surely do not want to say that the narrow content of Oscar’s belief that water is wet has the value True in a world that contains no remotely watery substance, but in which dogs are furry and the mental token in question means that dogs are furry.
 
-So it is not sufficient to hold a syntactically identified mental token constant in deciding which worlds to include in the diagonal proposition. We must somehow consider worlds in which the token carries the same meaning it carries in the actual world. However, if we consider only worlds in which the token has the _broad_ meaning that water is wet, the diagonal proposition will be too constrained to play the role of narrow content: it will be false, not true, in a world centered on Twin Oscar.
+So it is not sufficient to hold a syntactically identified mental token constant in deciding which worlds to include in the diagonal proposition. We must somehow consider worlds in which the token carries the same meaning it carries in the actual world. However, if we consider only worlds in which the token has the *broad* meaning that water is wet, the diagonal proposition will be too constrained to play the role of narrow content: it will be false, not true, in a world centered on Twin Oscar.
 
 Still another possibility is to hold constant, not the broad content of the mental token, but its narrow content. This will give the results we want, but at the cost of making the account completely circular; diagonalizing cannot be a useful strategy for discovering narrow contents if we must already know the narrow content of a mental token in order to apply the strategy.
 
@@ -233,7 +232,7 @@ This strategy is proposed by Dennett (1982). The idea is that a (centered) world
 
 A possible problem for the ideal environment strategy is that, while it may give us a way to determine a subject’s total view of the world, it does not provide a way of parceling out narrow contents to more specific states.
 
-A second problem is that the strategy does not seem to properly discriminate cognitive content from other sorts of information a subject’s body may carry. A baby is better adapted to worlds in which extreme heat can damage its body than to worlds in which it cannot. When the baby touches something hot it automatically jerks away. This action has a useful purpose in a world in which heat is damaging, but would be pointless in a world in which it was not. But it does not follow that the baby _believes_ that extreme heat is damaging. (See Stalnaker 1989, White 1991.)
+A second problem is that the strategy does not seem to properly discriminate cognitive content from other sorts of information a subject’s body may carry. A baby is better adapted to worlds in which extreme heat can damage its body than to worlds in which it cannot. When the baby touches something hot it automatically jerks away. This action has a useful purpose in a world in which heat is damaging, but would be pointless in a world in which it was not. But it does not follow that the baby *believes* that extreme heat is damaging. (See Stalnaker 1989, White 1991.)
 
 第三个问题是，在某些情况下，个体的状态似乎是有内容的，如上所述，理想环境策略似乎会产生错误的内容。从最明显的意义上讲，我更适合于不包含想要杀死我的杀人狂的世界，而不是包含这样一个杀人狂的世界，即使我相信这样的杀人狂存在。因此，理想环境策略似乎不会正确地将这种信念的内容包括在它归因于我的内容之中。（Stalnaker 1989，White 1991 和 Chalmers 2002 提供了相关的例子。）正如 Stalnaker 所指出的（1999：182-183），更好地理解丹尼特的意思不是我最适合的世界是那些我做得最好的世界，而是那些我最适合应对的世界。但是，对这一解释进行细化是一项具有挑战性的任务。（例如，武术训练可能使我能够应对我不相信存在的危险，这引发了这样一个担忧，即在这种解释下，理想环境策略将归因于我实际上没有的信念。）
 
@@ -309,90 +308,90 @@ YVH 给狭义内容倡导者留下了多少回旋余地？已经尝试了许多�
 
 ## Bibliography
 
-* Bach, Kent, 1987, _Thought and Reference_, Oxford: Oxford University Press.
-* –––, 1998, “Content: Wide and Narrow,”_Routledge Encyclopedia of Philosophy_ (Version 1.0), London: Routledge.
-* Bailey, Andrew and Bradley Richards, 2014, “Horgan and Tienson on phenomenology and intentionality,” _Philosophical Studies_ 167: 313–326.
-* Bayne, Tim and Michelle Montague (eds.), 2011, _Cognitive Phenomenology_, Oxford: Oxford University Press.
-* Block, Ned, 1986, “Advertisement for a Semantics for Psychology,” _Midwest Studies in Philosophy_, 10: 615–678. Reprinted in Stephen P. Stich and Ted A. Warfield, eds., _Mental Representation: A Reader_, Oxford: Blackwell, 1994.
+* Bach, Kent, 1987, *Thought and Reference*, Oxford: Oxford University Press.
+* –––, 1998, “Content: Wide and Narrow,”*Routledge Encyclopedia of Philosophy* (Version 1.0), London: Routledge.
+* Bailey, Andrew and Bradley Richards, 2014, “Horgan and Tienson on phenomenology and intentionality,” *Philosophical Studies* 167: 313–326.
+* Bayne, Tim and Michelle Montague (eds.), 2011, *Cognitive Phenomenology*, Oxford: Oxford University Press.
+* Block, Ned, 1986, “Advertisement for a Semantics for Psychology,” *Midwest Studies in Philosophy*, 10: 615–678. Reprinted in Stephen P. Stich and Ted A. Warfield, eds., *Mental Representation: A Reader*, Oxford: Blackwell, 1994.
 * –––, 1991, “What Narrow Content is Not,” In Loewer and Rey (eds.) 1991.
-* Block, Ned, and Stalnaker, Robert, 1999, “Conceptual Analysis, Dualism, and the Explanatory Gap,” _Philosophical Review_, 108: 1–46.
-* Boghossian, Paul, 1989, “Content and self-knowledge,” _Philosophical Topics_, 17: 5–26.
-* Braddon-Mitchell, David, and Jackson, Frank, 1996, _Philosophy of Mind and Cognition_, Oxford: Blackwell.
-* Brown, Curtis, 1992, “Direct and Indirect Belief,” _Philosophy and Phenomenological Research_, 52: 289–316.
-* –––, 1993, “Belief States and Narrow Content,” _Mind and Language_, 8: 343–67.
-* Burge, Tyler, 1979, “Individualism and the Mental,” _Midwest Studies in Philosophy_, 4: 73–121; reprinted in Burge 2007.
-* –––, 1986, “Individualism and Psychology,” _Philosophical Review_, 95: 3–45; reprinted in Burge 2007.
-* –––, 1988, “Individualism and Self-Knowledge,” _Journal of Philosophy_, 85: 649–65.
-* –––, 1989, “Individuation and Causation in Psychology,” _Pacific Philosophical Quarterly_, 70: 303–322; reprinted in Burge 2007.
-* –––, 2003, “Phenomenality and Reference: Reply to Loar,” in Martin Hahn and Bjørn Ramberg (eds.), _Reflections and Replies: Essays on the Philosophy of Tyler Burge_, Cambridge, MA: MIT Press.
-* –––, 2007, _Foundations of Mind: Philosophical Essays, Volume 2_, Oxford: Oxford University Press.
-* –––, 2010, _Origins of Objectivity_, Oxford: Oxford University Press.
-* Byrne, Alex, 2021, “Comment on Yli-Vakkuri and Hawthorne, Narrow Content,” _Philosophical Studies_, 178: 3017–3026.
-* Chalmers, David J., 1996, _The Conscious Mind_, Oxford: Oxford University Press.
-* –––, 2002, “The Components of Content,” in D. Chalmers (ed.), _Philosophy of Mind: Classical and Contemporary Readings_, Oxford: Oxford University Press.
-* –––, 2003, “The Nature of Narrow Content,” _Philosophical Issues_, 13: 46–66.
-* –––, 2006, “The Foundations of Two-Dimensional Semantics,” in Garcia-Carpintero and Macia (eds.), _Two-Dimensional Semantics_, Oxford: Oxford University Press.
-* –––, 2010, “The Representational Character of Experience,” in D. Chalmers, _The Character of Consciousness_, Oxford: Oxford University Press.
-* –––, 2018, “Review of Juhani Yli-Vakkuri and John Hawthorne, _Narrow Content_,” _Notre Dame Philosophical Reviews_, published 01 December 2018 \[[Chalmers 2018 available online](https://ndpr.nd.edu/reviews/narrow-content/)].
-* Clark, Andy, and David Chalmers, 1998, “The Extended Mind,” _Analysis_, 58: 7–19.
-* Crane, Tim, 1991, “All the Difference in the World,” _Philosophical Quarterly_, 41: 1–25.
-* Dennett, Daniel, 1982, “Beyond Belief,” in Andrew Woodfield (ed.), _Thought and Object: Essays on Intentionality_, Oxford: Oxford University Press, 1982; reprinted in D. Dennett, _The Intentional Stance_, Cambridge: MIT Press, 1987.
-* Egan, Frances, 1991, “Must Psychology Be Individualistic?” _Philosophical Review_, 100: 179–203.
-* Fodor, Jerry, 1987, _Psychosemantics_, Cambridge, MA: MIT Press.
-* –––, 1991a, “A Modal Argument for Narrow Content,” _Journal of Philosophy_, 88: 5–26.
+* Block, Ned, and Stalnaker, Robert, 1999, “Conceptual Analysis, Dualism, and the Explanatory Gap,” *Philosophical Review*, 108: 1–46.
+* Boghossian, Paul, 1989, “Content and self-knowledge,” *Philosophical Topics*, 17: 5–26.
+* Braddon-Mitchell, David, and Jackson, Frank, 1996, *Philosophy of Mind and Cognition*, Oxford: Blackwell.
+* Brown, Curtis, 1992, “Direct and Indirect Belief,” *Philosophy and Phenomenological Research*, 52: 289–316.
+* –––, 1993, “Belief States and Narrow Content,” *Mind and Language*, 8: 343–67.
+* Burge, Tyler, 1979, “Individualism and the Mental,” *Midwest Studies in Philosophy*, 4: 73–121; reprinted in Burge 2007.
+* –––, 1986, “Individualism and Psychology,” *Philosophical Review*, 95: 3–45; reprinted in Burge 2007.
+* –––, 1988, “Individualism and Self-Knowledge,” *Journal of Philosophy*, 85: 649–65.
+* –––, 1989, “Individuation and Causation in Psychology,” *Pacific Philosophical Quarterly*, 70: 303–322; reprinted in Burge 2007.
+* –––, 2003, “Phenomenality and Reference: Reply to Loar,” in Martin Hahn and Bjørn Ramberg (eds.), *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Cambridge, MA: MIT Press.
+* –––, 2007, *Foundations of Mind: Philosophical Essays, Volume 2*, Oxford: Oxford University Press.
+* –––, 2010, *Origins of Objectivity*, Oxford: Oxford University Press.
+* Byrne, Alex, 2021, “Comment on Yli-Vakkuri and Hawthorne, Narrow Content,” *Philosophical Studies*, 178: 3017–3026.
+* Chalmers, David J., 1996, *The Conscious Mind*, Oxford: Oxford University Press.
+* –––, 2002, “The Components of Content,” in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press.
+* –––, 2003, “The Nature of Narrow Content,” *Philosophical Issues*, 13: 46–66.
+* –––, 2006, “The Foundations of Two-Dimensional Semantics,” in Garcia-Carpintero and Macia (eds.), *Two-Dimensional Semantics*, Oxford: Oxford University Press.
+* –––, 2010, “The Representational Character of Experience,” in D. Chalmers, *The Character of Consciousness*, Oxford: Oxford University Press.
+* –––, 2018, “Review of Juhani Yli-Vakkuri and John Hawthorne, *Narrow Content*,” *Notre Dame Philosophical Reviews*, published 01 December 2018 \[[Chalmers 2018 available online](https://ndpr.nd.edu/reviews/narrow-content/)].
+* Clark, Andy, and David Chalmers, 1998, “The Extended Mind,” *Analysis*, 58: 7–19.
+* Crane, Tim, 1991, “All the Difference in the World,” *Philosophical Quarterly*, 41: 1–25.
+* Dennett, Daniel, 1982, “Beyond Belief,” in Andrew Woodfield (ed.), *Thought and Object: Essays on Intentionality*, Oxford: Oxford University Press, 1982; reprinted in D. Dennett, *The Intentional Stance*, Cambridge: MIT Press, 1987.
+* Egan, Frances, 1991, “Must Psychology Be Individualistic?” *Philosophical Review*, 100: 179–203.
+* Fodor, Jerry, 1987, *Psychosemantics*, Cambridge, MA: MIT Press.
+* –––, 1991a, “A Modal Argument for Narrow Content,” *Journal of Philosophy*, 88: 5–26.
 * –––, 1991b, “Replies,” in Loewer and Rey (eds.) 1991.
-* –––, 1995, _The Elm and the Expert: Mentalese and its Semantics_, Cambridge, MA: MIT Press.
-* Frances, Bryan, 2016, “The Dual Concepts Objection to Content Externalism,” _American Philosophical Quarterly_, 53: 123–138.
-* Gaukroger, Cressida, 2017, “Why Broad Content Can’t Influence Behavior,” _Synthese_, 194: 3005–3020.
-* Glüer, Kathrin and Åsa Wikforss, 2009, “Against Content Normativity,” _Mind_, 118: 31–70.
-* Hattiangadi, Anandi, 2019, “In Defence of _Narrow Content_,”, _Analysis_, 79 (3): 539–550.
-* Horgan, Terence, and John Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality,” in D. Chalmers (ed.), _Philosophy of Mind: Classical and Contemporary Readings_, Oxford: Oxford University Press.
-* Horgan, Terence, John Tienson, and George Graham, 2004, “Phenomenal Intentionality and the Brain in a Vat,” in Richard Schanz (ed.), _The Externalist Challenge_, Berlin: Walter de Gruyter.
-* Jackson, Frank, 1996, “Mental Causation,” _Mind_, 105:: 377–413.
-* –––, 2003, “Representation and Narrow Belief,” _Philosophical Issues_, 13: 99–112.
-* –––, 2003, “Narrow Content and Representation, or Twin Earth Revisited,” _Proceedings and Addresses of the American Philosophical Association_, 77 (2): 55–70.
-* Jerzak, Ethan, 2021, “Review of Yli-Vakkuri and Hawthorne’ s_Narrow Content_,” _The Philosophical Review_, 130 (3): 475–480.
-* Kriegel, Uriah, 2008, “Real Narrow Content,” _Mind and Language_, 23: 305–328.
-* –––, 2013, “The Phenomenal Intentionality Research Program,” in Uriah Kriegel (ed.), _Phenomenal Intentionality_, Oxford: Oxford University Press.
-* Kripke, Saul, 1979, “A Puzzle About Belief,” in A. Margalit (ed.), _Meaning and Use_, Dordrecht: D. Reidel, 239–283.
-* Lepore, Ernest, and Barry Loewer, 1986, “Solipsist Semantics,” _Midwest Studies in Philosophy_, 10: 595–614.
-* Lewis, David, 1979, “Attitudes _De Dicto_ and _De Se_,” _Philosophical Review_, 88: 513–543; reprinted in D. Lewis, _Philosophical Papers_ (Volume 1), Oxford: Oxford University Press, 1983.
-* –––, 1994, “Reduction of Mind,” in Samuel Guttenplan (ed.), _A Companion to the Philosophy of Mind_, Oxford: Blackwell.
-* Loar, Brian, 1988, “Social Content and Psychological Content,” in R. Grimm and D. Merrill (eds.), _Contents of Thought_, Tucson: University of Arizona Press.
-* –––, 2003, “Phenomenal Intentionality as the Basis of Mental Content,” in Martin Hahn and Bjørn Ramberg (eds.), _Reflections and Replies: Essays on the Philosophy of Tyler Burge_, Cambridge, MA: MIT Press.
-* Loewer, Barry and Georges Rey (eds.), 1991, _Meaning in Mind: Fodor and his Critics_, Oxford: Blackwell.
-* Ludlow, Peter and Norah Martin (eds.), 1998, _Externalism and Self-Knowledge_, Stanford: CSLI Publications.
-* Lycan, William G., 2008, “Phenomenal Intentionalities,” _American Philosophical Quarterly_, 45: 233–252.
-* McDermott, Michael, 1986, “Narrow Content,” _Australasian Journal of Philosophy_, 64: 277–288.
-* McGinn, Colin, 1977, “Charity, Interpretation, and Belief,” _Journal of Philosophy_, 74: 521–535.
-* Mendola, Joseph, 2008, _Anti-Externalism_, Oxford: Oxford University Press.
-* Nagel, Thomas, 1974, “What Is It Like to Be a Bat?” _Philosophical Review_, 4: 435–450.
-* Nuccetelli, Susana (ed.), 2003, _New Essays on Semantic Externalism and Self-Knowledge_, Cambridge, MA: MIT Press.
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’,” in Keith Gunderson (ed.), _Language, Mind and Knowledge_ (Minnesota Studies in the Philosophy of Science, Volumes VII), Minneapolis: University of Minnesota Press, 1975; reprinted in H. Putnam, _Mind, Language and Reality_ (Philosophical Papers, Volume 2), Cambridge: Cambridge University Press, 1975.
-* Recanati, Francois, 1994, “How Narrow is Narrow Content?” _Dialectica_, 48: 209–229.
-* Sawyer, Sarah, 2007, “There Is No Viable Notion of Narrow Content,” in Brian P. McLaughlin and Jonathan Cohen (eds.), _Contemporary Debates in Philosophy of Mind_, Oxford: Blackwell.
-* Schroeter, Laura, 2004, “The Rationalist Foundations of Chalmers’s 2D Semantics,” _Philosophical Studies_, 118: 227–255.
-* Segal, Gabriel, 1989, “Seeing What Is Not There,” _Philosophical Review_, 98: 189–214.
-* Segal, Gabriel, 2000, _A Slim Book about Narrow Content_, Cambridge: MIT Press.
-* –––, 2003, “Ignorance of Meaning,” in A. Barber (ed.), _Epistemology of Language_, Oxford: Oxford University Press.
-* Soames, Scott, 2005, _Reference and Description: The Case Against Two-Dimensionalism_, Princeton: Princeton University Press.
-* Speaks, Jeff, 2021, “Galacticism, Thought-Relativism, Quasi-Internalism,” _Philosophical Studies_, 178: 3037–3047.
-* Stalnaker, Robert C., 1990, “Narrow Content,” In C. Anthony Anderson and Joseph Owens (eds.), _Propositional Attitudes: The Role of Content in Logic, Language, and Mind_, Stanford: CSLI Publications; reprinted in Stalnaker 1999.
-* –––, 1989, “On What’s in the Head,” _Philosophical Perspectives_, 3: 287–316; reprinted in Stalnaker 1999.
-* –––, 1999, _Context and Content_, Oxford: Oxford University Press.
-* –––, 2006, “Assertion Revisited,” in Garcia-Carpintero and Macia (eds.), _Two-Dimensional Semantics_, Oxford: Oxford University Press.
-* –––, 2008, _Our Knowledge of the Internal World_, Oxford: Oxford University Press.
+* –––, 1995, *The Elm and the Expert: Mentalese and its Semantics*, Cambridge, MA: MIT Press.
+* Frances, Bryan, 2016, “The Dual Concepts Objection to Content Externalism,” *American Philosophical Quarterly*, 53: 123–138.
+* Gaukroger, Cressida, 2017, “Why Broad Content Can’t Influence Behavior,” *Synthese*, 194: 3005–3020.
+* Glüer, Kathrin and Åsa Wikforss, 2009, “Against Content Normativity,” *Mind*, 118: 31–70.
+* Hattiangadi, Anandi, 2019, “In Defence of *Narrow Content*,”, *Analysis*, 79 (3): 539–550.
+* Horgan, Terence, and John Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality,” in D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*, Oxford: Oxford University Press.
+* Horgan, Terence, John Tienson, and George Graham, 2004, “Phenomenal Intentionality and the Brain in a Vat,” in Richard Schanz (ed.), *The Externalist Challenge*, Berlin: Walter de Gruyter.
+* Jackson, Frank, 1996, “Mental Causation,” *Mind*, 105:: 377–413.
+* –––, 2003, “Representation and Narrow Belief,” *Philosophical Issues*, 13: 99–112.
+* –––, 2003, “Narrow Content and Representation, or Twin Earth Revisited,” *Proceedings and Addresses of the American Philosophical Association*, 77 (2): 55–70.
+* Jerzak, Ethan, 2021, “Review of Yli-Vakkuri and Hawthorne’ s_Narrow Content_,” *The Philosophical Review*, 130 (3): 475–480.
+* Kriegel, Uriah, 2008, “Real Narrow Content,” *Mind and Language*, 23: 305–328.
+* –––, 2013, “The Phenomenal Intentionality Research Program,” in Uriah Kriegel (ed.), *Phenomenal Intentionality*, Oxford: Oxford University Press.
+* Kripke, Saul, 1979, “A Puzzle About Belief,” in A. Margalit (ed.), *Meaning and Use*, Dordrecht: D. Reidel, 239–283.
+* Lepore, Ernest, and Barry Loewer, 1986, “Solipsist Semantics,” *Midwest Studies in Philosophy*, 10: 595–614.
+* Lewis, David, 1979, “Attitudes *De Dicto* and *De Se*,” *Philosophical Review*, 88: 513–543; reprinted in D. Lewis, *Philosophical Papers* (Volume 1), Oxford: Oxford University Press, 1983.
+* –––, 1994, “Reduction of Mind,” in Samuel Guttenplan (ed.), *A Companion to the Philosophy of Mind*, Oxford: Blackwell.
+* Loar, Brian, 1988, “Social Content and Psychological Content,” in R. Grimm and D. Merrill (eds.), *Contents of Thought*, Tucson: University of Arizona Press.
+* –––, 2003, “Phenomenal Intentionality as the Basis of Mental Content,” in Martin Hahn and Bjørn Ramberg (eds.), *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, Cambridge, MA: MIT Press.
+* Loewer, Barry and Georges Rey (eds.), 1991, *Meaning in Mind: Fodor and his Critics*, Oxford: Blackwell.
+* Ludlow, Peter and Norah Martin (eds.), 1998, *Externalism and Self-Knowledge*, Stanford: CSLI Publications.
+* Lycan, William G., 2008, “Phenomenal Intentionalities,” *American Philosophical Quarterly*, 45: 233–252.
+* McDermott, Michael, 1986, “Narrow Content,” *Australasian Journal of Philosophy*, 64: 277–288.
+* McGinn, Colin, 1977, “Charity, Interpretation, and Belief,” *Journal of Philosophy*, 74: 521–535.
+* Mendola, Joseph, 2008, *Anti-Externalism*, Oxford: Oxford University Press.
+* Nagel, Thomas, 1974, “What Is It Like to Be a Bat?” *Philosophical Review*, 4: 435–450.
+* Nuccetelli, Susana (ed.), 2003, *New Essays on Semantic Externalism and Self-Knowledge*, Cambridge, MA: MIT Press.
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’,” in Keith Gunderson (ed.), *Language, Mind and Knowledge* (Minnesota Studies in the Philosophy of Science, Volumes VII), Minneapolis: University of Minnesota Press, 1975; reprinted in H. Putnam, *Mind, Language and Reality* (Philosophical Papers, Volume 2), Cambridge: Cambridge University Press, 1975.
+* Recanati, Francois, 1994, “How Narrow is Narrow Content?” *Dialectica*, 48: 209–229.
+* Sawyer, Sarah, 2007, “There Is No Viable Notion of Narrow Content,” in Brian P. McLaughlin and Jonathan Cohen (eds.), *Contemporary Debates in Philosophy of Mind*, Oxford: Blackwell.
+* Schroeter, Laura, 2004, “The Rationalist Foundations of Chalmers’s 2D Semantics,” *Philosophical Studies*, 118: 227–255.
+* Segal, Gabriel, 1989, “Seeing What Is Not There,” *Philosophical Review*, 98: 189–214.
+* Segal, Gabriel, 2000, *A Slim Book about Narrow Content*, Cambridge: MIT Press.
+* –––, 2003, “Ignorance of Meaning,” in A. Barber (ed.), *Epistemology of Language*, Oxford: Oxford University Press.
+* Soames, Scott, 2005, *Reference and Description: The Case Against Two-Dimensionalism*, Princeton: Princeton University Press.
+* Speaks, Jeff, 2021, “Galacticism, Thought-Relativism, Quasi-Internalism,” *Philosophical Studies*, 178: 3037–3047.
+* Stalnaker, Robert C., 1990, “Narrow Content,” In C. Anthony Anderson and Joseph Owens (eds.), *Propositional Attitudes: The Role of Content in Logic, Language, and Mind*, Stanford: CSLI Publications; reprinted in Stalnaker 1999.
+* –––, 1989, “On What’s in the Head,” *Philosophical Perspectives*, 3: 287–316; reprinted in Stalnaker 1999.
+* –––, 1999, *Context and Content*, Oxford: Oxford University Press.
+* –––, 2006, “Assertion Revisited,” in Garcia-Carpintero and Macia (eds.), *Two-Dimensional Semantics*, Oxford: Oxford University Press.
+* –––, 2008, *Our Knowledge of the Internal World*, Oxford: Oxford University Press.
 * Stich, Stephen P., 1991, “Narrow Content Meets Fat Syntax,” in Loewer and Rey (eds.) 1991.
-* Taylor, Kenneth A., 1989, “Narrow Content Functionalism and the Mind-Body Problem,” _Noûs_, 23: 355–372.
-* Walker, Valerie, 1990, “In Defense of a Different Taxonomy: A Reply to Owens,” _Philosophical Review_, 99: 425–431.
-* Werner, Preston J., 2015, “Character (alone) doesn’t count: phenomenal character and narrow intentional content,” _American Philosophical Quarterly_ 52: 261–271.
-* White, Stephen, 1982, “Partial Character and the Language of Thought,” _Pacific Philosophical Quarterly_, 63: 347–365.
-* –––, 1991, “Narrow Content and Narrow Interpretation,” in S. White, _The Unity of the Self_, Cambridge, MA: MIT Press, 1991.
-* Williams, Meredith, 1990, “Social Norms and Narrow Content,” _Midwest Studies in Philosophy_, 15: 425–462.
-* Wilson, Robert A., 1995, _Cartesian Psychology and Physical Minds: Individualism and the Sciences of Mind_, New York: Cambridge University Press.
-* Yli-Vakkuri, Juhani, and John Hawthorne, 2018, _Narrow Content_, Oxford: Oxford University Press.
-* –––, 2021a, “Reply to Byrne,” _Philosophical Studies_, 178: 3049–3054.
-* –––, 2021b, “Reply to Speaks,” _Philosophical Studies_, 178: 3061–3065.
+* Taylor, Kenneth A., 1989, “Narrow Content Functionalism and the Mind-Body Problem,” *Noûs*, 23: 355–372.
+* Walker, Valerie, 1990, “In Defense of a Different Taxonomy: A Reply to Owens,” *Philosophical Review*, 99: 425–431.
+* Werner, Preston J., 2015, “Character (alone) doesn’t count: phenomenal character and narrow intentional content,” *American Philosophical Quarterly* 52: 261–271.
+* White, Stephen, 1982, “Partial Character and the Language of Thought,” *Pacific Philosophical Quarterly*, 63: 347–365.
+* –––, 1991, “Narrow Content and Narrow Interpretation,” in S. White, *The Unity of the Self*, Cambridge, MA: MIT Press, 1991.
+* Williams, Meredith, 1990, “Social Norms and Narrow Content,” *Midwest Studies in Philosophy*, 15: 425–462.
+* Wilson, Robert A., 1995, *Cartesian Psychology and Physical Minds: Individualism and the Sciences of Mind*, New York: Cambridge University Press.
+* Yli-Vakkuri, Juhani, and John Hawthorne, 2018, *Narrow Content*, Oxford: Oxford University Press.
+* –––, 2021a, “Reply to Byrne,” *Philosophical Studies*, 178: 3049–3054.
+* –––, 2021b, “Reply to Speaks,” *Philosophical Studies*, 178: 3061–3065.
 
 ## Academic Tools
 
@@ -411,4 +410,4 @@ YVH 给狭义内容倡导者留下了多少回旋余地？已经尝试了许多�
 [externalism about the mind](https://plato.stanford.edu/entries/content-externalism/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [intentionality: phenomenal](https://plato.stanford.edu/entries/phenomenal-intentionality/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [mental content: causal theories of](https://plato.stanford.edu/entries/content-causal/) | [mental content: teleological theories of](https://plato.stanford.edu/entries/content-teleological/) | [mental representation](https://plato.stanford.edu/entries/mental-representation/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Curtis Brown](http://www.trinity.edu/cbrown/) <[_cbrown@trinity.edu_](mailto:cbrown%40trinity%2eedu)>
+[Curtis Brown](http://www.trinity.edu/cbrown/) <[*cbrown@trinity.edu*](mailto:cbrown%40trinity%2eedu)>

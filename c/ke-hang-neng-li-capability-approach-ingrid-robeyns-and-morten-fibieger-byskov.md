@@ -1,11 +1,10 @@
 # 可行能力 capability approach (Ingrid Robeyns and Morten Fibieger Byskov)
 
-_首次发表于 2011 年 4 月 14 日星期四；实质性修订于 2020 年 12 月 10 日星期四_
+*首次发表于 2011 年 4 月 14 日星期四；实质性修订于 2020 年 12 月 10 日星期四*
 
 可行能力 是一个理论框架，包括两个规范性主张：首先，主张实现幸福的自由是首要的道德重要性，其次，幸福应该从人们的能力和功能的角度来理解。能力是人们可以实现的行为和存在，如果他们选择的话 - 他们可以做或成为的事情，比如营养良好，结婚，接受教育和旅行；功能是已经实现的能力。某人能否将一组手段 - 资源和公共物品 - 转化为功能（即，她是否具有特定能力）在很大程度上取决于某些个人、社会政治和环境条件，在可行能力文献中被称为“转化因素”。能力也被称为真实或实质性自由，因为它们表示已经清除了任何潜在障碍的自由，与仅仅形式上的权利和自由形成对比。
 
 在哲学领域，可行能力方法已被应用于发展伦理学、政治哲学、公共卫生伦理学、环境伦理学和气候正义以及教育哲学等多个概念和规范性理论的发展。可行能力文献的蓬勃发展引发了关于它是何种框架（第 1 节）；其核心概念应如何定义（第 2 节）；如何进一步为特定目的加以具体化（第 3 节）；需要什么来将可行能力方法发展为社会正义的阐述（第 4 节）；它与非西方哲学的关系如何（第 5 节）；以及如何能够并已经在实践中应用（第 6 节）的问题。
-
 
 ***
 
@@ -159,7 +158,7 @@ Sen 始终明确表示拒绝捍卫“由理论家在没有一般社会讨论或�
 
 然而，在可行能力的文献中，对于森（Sen）究竟是什么意思的“有理由珍视”一直存在着解释和争议。Khader 和 Kosko（2019）认为，对于 Sen 的“有理由珍视”定义有三种解释。在_程序自主解释_中，如果个体 Y 经过推理认为 X 有价值，那么 Y 就有理由珍视做或成为 X；在_过程解释_中，我们有理由珍视的不一定是我们_实际_珍视的，而是我们_如果_经过适当的个体反思（Alkire 和 Deneulin 2009；Bonvin 和 Farvaque 2005，282；Ibrahim 和 Alkire 2007；Nussbaum 2000；Sen 2002，16）或公共磋商（Alkire 2013，91；Sen 1999，152-153；Crocker 2008，270）后会珍视的；在_完善主义解释_中，人们有理由珍视的是客观有价值的东西：Y 之所以有理由珍视 X，只是因为 X 有价值，即使 Y 本身并不珍视 X（例如，Arneson 2020）。
 
-Nussbaum 和 Sen 在如何选择相关能力方面的分歧导致许多能力学者得出结论，即只有两种选择能力的方法，即 Nussbaum 偏爱的哲学方法或 Sen 提倡的程序方法。然而，正如 Byskov（2018a；2018b，第 6 章）所指出的那样，这种看法过于简单，忽略了许多可能的和已经使用的选择能力和功能的方法。Byskov 至少确定了文献中选择能力的 14 种不同方法，他将这些方法归类为_特设_方法，根据实用考虑选择能力；_基础方法_，根据某种最终规范价值或原则选择能力；_程序方法_，采用开放式经验性或磋商性练习来确定相关能力；以及_混合（或多阶段）方法_，结合两种或更多基础和/或程序方法。
+Nussbaum 和 Sen 在如何选择相关能力方面的分歧导致许多能力学者得出结论，即只有两种选择能力的方法，即 Nussbaum 偏爱的哲学方法或 Sen 提倡的程序方法。然而，正如 Byskov（2018a；2018b，第 6 章）所指出的那样，这种看法过于简单，忽略了许多可能的和已经使用的选择能力和功能的方法。Byskov 至少确定了文献中选择能力的 14 种不同方法，他将这些方法归类为_特设_方法，根据实用考虑选择能力；*基础方法*，根据某种最终规范价值或原则选择能力；*程序方法*，采用开放式经验性或磋商性练习来确定相关能力；以及_混合（或多阶段）方法_，结合两种或更多基础和/或程序方法。
 
 在选择维度的理论辩论变得复杂的事实是，对于选择的地位有不同的看法。选择是一个真理主张，还是应该被视为对民主决策的贡献？学者提出的能力选择类似于哲学君王，还是更像哲学公民或哲学调解者？根据一个人如何看待这些问题，可能会影响一个人认为某种选择或选择程序的正当性（Claassen 2011，Byskov 2017）。
 
@@ -227,175 +226,175 @@ Nussbaum 的工作最接近于为我们提供了一个正义的可行能力理�
 
 ## Bibliography
 
-* Alexander, John M., 2010, “Ending the Liberal Hegemony: Republican Freedom and Amartya Sen’s Theory of Capabilities”, _Contemporary Political Theory_, 9(1): 5–24.
-* Alkire, Sabina, 2002, _Valuing Freedoms: Sen’s Capability Approach and Poverty Reduction_, New York: Oxford University Press.
-* –––, 2013, “Choosing Dimensions: The Capability Approach and Multidimensional Poverty,” in N. Kakwani and J. Silber (eds.), _The Many Dimensions of Poverty_, London: Palgrave Macmillan, London, pp. 89–119.
-* Alkire, S. and Deneulin, S., 2009, “The Human Development and Capability Approach”, in Shahani and Deneulin (eds.), _An Introduction to the Human Development and Capability Approach: Freedom and Agency_, London: Earthscan, pp. 22–48.
-* Anderson, E., 1999, “What is the Point of Equality?” _Ethics_, 109(2): 287–337.
+* Alexander, John M., 2010, “Ending the Liberal Hegemony: Republican Freedom and Amartya Sen’s Theory of Capabilities”, *Contemporary Political Theory*, 9(1): 5–24.
+* Alkire, Sabina, 2002, *Valuing Freedoms: Sen’s Capability Approach and Poverty Reduction*, New York: Oxford University Press.
+* –––, 2013, “Choosing Dimensions: The Capability Approach and Multidimensional Poverty,” in N. Kakwani and J. Silber (eds.), *The Many Dimensions of Poverty*, London: Palgrave Macmillan, London, pp. 89–119.
+* Alkire, S. and Deneulin, S., 2009, “The Human Development and Capability Approach”, in Shahani and Deneulin (eds.), *An Introduction to the Human Development and Capability Approach: Freedom and Agency*, London: Earthscan, pp. 22–48.
+* Anderson, E., 1999, “What is the Point of Equality?” *Ethics*, 109(2): 287–337.
 * –––, 2010, “Justifying the capabilities approach to justice”, in Brighouse and Robeyns (eds.), pp. 81–100.
-* Argenton, C. and Rossi, E., 2013, “Pluralism, Preferences, and Deliberation: A Critique of Sen’s Constructive Argument for Democracy”, _Journal of Social Philosophy_, 44(2): 129–145.
+* Argenton, C. and Rossi, E., 2013, “Pluralism, Preferences, and Deliberation: A Critique of Sen’s Constructive Argument for Democracy”, *Journal of Social Philosophy*, 44(2): 129–145.
 * Arneson, R., 2010, “Two cheers for capabilities”, in Brighouse and Robeyns (eds.), pp. 101–127.
-* –––, 2020, “The Capabilities Approach and Political Liberalism”, in Chiappero-Martinetti, Osmani, and Qizilbash (eds.), _The Cambridge Handbook of the Capability Approach_, Cambridge: Cambridge University Press, pp.165-187.
-* Barclay, L., 2003, “What kind of liberal is Martha Nussbaum?”, _SATS: Nordic Journal of Philosophy_, 4(3): 5–24.
-* Basu, K., 1987, “Achievements, Capabilities, and the Concept of Well-being”,, _Social Choice and Welfare_, 4: 69–76.
-* Beauchamp, T. and Childress, J., 2001, _Principles of Biomedical Ethics_, Oxford: Oxford University Press.
-* Bendik-Keymer, J., 2014, “From Humans to all of Life: Nussbaum’s transformation of human dignity” in Comim and Nussbaum (eds.), _Capabilities, Gender, Equality_, Cambridge: Cambridge University Press, pp. 165–187.
-* Bertland, A., 2009, “Virtue Ethics in Business and the Capability Approach”, _Journal of Business Ethics_, 84: 25–32.
-* Bhargava, R., 1992, _Individualism in Social Science. Forms and Limits of a Methodology_, Oxford: Clarendon Press.
-* Binder, C. and Binder, C., 2016, “A Capability Perspective on Indigenous Autonomy”, _Oxford Development Studies_, 44(3): 297–314.
-* Binder, C., 2009, “Context-Dependency of Valuable Functionings: How Culture Affects the Capability Framework”, in Chiappero-Martinetti (ed.), _Debating Global Society: Reach and Limit of the Capability Approach_, Fondazione Giangiacomo Feltrinelli, pp. 205–232.
-* –––, 2019, _Agency, Freedom, and Choice_, Dordrecht: Spinger.
-* Bockstael, E. and Watene, K., 2016, “Indigenous Peoples and the Capability Approach: Taking Stock”, _Oxford Development Studies_, 44(3): 265–270.
-* Bonvin, J.-M. and Farvaque, N., 2005, “What Informational Bases for Assessing Job-Seekers? Capabilities vs. Preferences”, _Review of Social Economy_, 63(2): 269-289.
-* Brando, N. and Schweiger, G. (eds.), 2019, _Philosophy and Child Poverty: Reflections on the Ethics and Politics of Poor Children and their Families_, Cham: Springer.
-* Brighouse, H. and I. Robeyns (eds.), 2010, _Measuring Justice: Primary Goods and Capabilities_, Cambridge: Cambridge University Press.
-* Byskov, M.F., 2017, “Democracy, Philosophy, and the Selection of Capabilities”, _Journal of Human Development and Capabilities_, online first September 28, 2015. doi: 10.1080/19452829.2015.1091809
-* –––, 2018a, “Selecting Capabilities for Development”, in Comim, Fennell, and Anand (eds.), _New Frontiers of the Capability Approach_, Cambridge: Cambridge University Press, pp. 198–231..
-* –––, 2018b, _The Capability Approach in Practice: A New Ethics for Setting Development Agendas_, London: Routledge.
-* –––, 2019, “Qualitative and Quantitative Interpretations of the Least Restrictive Means”, _Bioethics_, 33(4): 511–521.
-* –––, 2020, “Beyond ‘Having Reason to Value’: Why We Should Adopt a Procedure-Independent and Value-Neutral Definition of Capabilities”, _Journal of Economic Methodology_, 27(1): 18–35.
-* Carter, I., 2014, “Is the Capability Approach Paternalist?”, _Economics & Philosophy_, 30(1): 75–98.
-* Chakraborty, A., 1996, “On the Possibility of a Weighting System for Functionings”, _Indian Economic Review_, 31: 241–50.
-* Claassen R., 2011, “Making Capability Lists: Philosophy versus Democracy”, _Political Studies_, 59: 491–508.
-* –––, 2014, “Capability Paternalism”, _Economics & Philosophy_, 30: 57–73.
-* –––, 2017, “An Agency-Based Capability Theory of Justice”, _European Journal of Philosophy_, 25(4): 1279–1304.
-* –––, 2018, _Capabilities in a Just Society: A Theory of Navigational Agency_, Cambridge: Cambridge University Press.
-* –––, 2020, “Selecting a List: The Capability Approach’s Achilles’ Heel”, in Chiappero-Martinetti, Osmani, and Qizilbash (eds.), _The Cambridge Handbook of the Capability Approach_, Cambridge: Cambridge University Press, pp. 188–205.
-* Cripps, E., 2010, “Saving the Polar Bear, Saving the World: Can the Capabilities Approach do Justice to Humans, Animals and Ecosystems?” _Res Publica_, 16(1): 1–22.
-* Crocker, D. A., 2008, _Ethics of Global Development: Agency, Capability and Deliberative Democracy_, Cambridge: Cambridge University Press.
-* Crocker, D. A. and I. Robeyns, 2009, “Capability and agency” in: Christopher Morris (ed.), _The Philosophy of Amartya Sen_, Cambridge University Press, 2009, pp. 60–90.
-* Deneulin, S. (ed.), 2009, _The Human Development and Capabilities Approach_, London: Earthscan.
-* Dowding, K. and Van Hees, M., 2009, “Freedom of Choice”, in Anand, Pattanaik, and Puppe (eds.), _The Handbook of Rational and Social Choice_, Oxford: Oxford University Press, pp. 374–392.
-* Drèze, J. and A. Sen, 2002, _India: Development and Participation_, 2nd edition, Oxford: Oxford University Press.
-* Drydyk, J., 2012, “A Capability Approach to Justice as a Virtue”,, _Ethical Theory and Moral Practice_, 15: 23–38.
-* –––, 2013, “Empowerment, Agency, and Power”, _Journal of Global Ethics_, 9(3): 249–262.
-* Drydyk, J. and Keleher, L., 2018, _Routledge Handbook of Development Ethics_, Routledge.
-* Dworkin, R., 2000, _Sovereign Virtue: The Theory and Practice of Equality_, Cambridge, MA: Harvard University Press.
-* Entwistle, V. and Watt, I., 2013a, “A Capabilities Approach to Person-Centered Care: Response to Open-Peer Commentaries on ‘Treating Patients as Persons: A Capability Approach to Support Delivery of Person-Centered Care’ ”, _The American Journal of Bioethics_, 13(8): 29–39.
-* –––, 2013b, “Treating Patients as Persons: A Capability Approach to Support Delivery of Person-Centered Care”, _The American Journal of Bioethics_, 13(8): 29–39.
-* Evans, P., 2002, “Collective Capabilities, Culture, and Amartya Sen’s Development as Freedom”, _Studies in Comparative International Development_, 37(2): 54–60.
-* Ferracioli, L. and Terlazzo, R., 2014, “Educating for Autonomy: Liberalism and Autonomy in the Capabilities Approach”, _Ethical Theory and Moral Practice_, 17(3): 443–455.
-* Fleurbaey, M., 2002, “Development, Capabilities and Freedom”, _Studies in Comparative International Development_, 37: 71–7.
-* Freeman, S., 2006, “Book Review — Frontiers of Justice: The Capabilities Approach versus Contractualism”, _Texas Law Review_, 85(2): 385–430.
-* Fukuda-Parr, S., 2002, “Operationalising Amartya Sen’s Ideas on Capabilities, Development, Freedom and Human Rights – the Shifting Policy Focus of the Human Development Approach”, _Publicaciones PNUD_, PNUD-Costa Rica.
-* –––, 2003, “The human development paradigm: operationalizing Sen’s ideas on development”, _Feminist Economics_, 9(2/3): 301–317.
-* –––, 2011a, “The Metrics of Human Rights: Complementarities of the Human Development and Capabilities Approach”, _Journal of Human Development and Capabilities_, 12(1): 73–89.
-* –––, 2011b, “Theory and Policy in International Development: Human Development and Capability Approach and the Millennium Development Goals”, _International Studies Review_, 13(1): 122–132.
-* Fukuda-Parr, S. and S. Kumar (eds.,), 2009, _Handbook of Human Development: Concepts, Measures and Policies_, Delhi: Oxford University Press.
-* Giovanola, B., 2009, “Re-Thinking the Anthropological and Ethical Foundation of Economics and Business: Human Richness and Capability Enhancement”, _Journal of Business Ethics_, 88(3): 431–444.
-* Gore, C., 1997, “Irreducibly Social Goods and the Informational Basis of Amartya Sen’s Capability Approach”, _Journal of International Development_, 9(2): 235–250–
-* Gutwald, R., Lessmann, O., Masson, T., and Rauschmayer, F., 2014, “A Capability Approach to Intergenerational Justice? Examining the Potential of Amartya Sen’s Ethics with Regard to Intergenerational Issues”, _Journal of Human Development and Capabilities_, 15(4): 355–368.
-* ul Haq, M., 2003, “The Birth of the Human Development Index”, in Fukuda-Parr and Kumar (eds.), _Readings in Human Development_, New Delhi: Oxford University Press, pp. 103–113.
-* Harnacke, C., 2013, “Disability and Capability: Exploring the Usefulness of Martha Nussbaum’s Capabilities Approach for the UN Disability Rights Convention”, _The Journal of Law, Medicine & Ethics_, 41(4): 768–780.
-* Hart, C. and Brando, N., 2018, “A Capability Approach to Childrens’ Well-Being, Agency and Participatory Rights in Education”, _European Journal of Education_, 53(3): 293-309.
-* Hoffmann, N. and Metz, T., 2017, “What can the Capabilities Approach Learn from an Ubuntu Ethics? A Relational Approach to Development Theory”, _World Development_, 97: 153–164.
-* Holland, B., 2008a, “Justice and the Environment in Nussbaum’s Capabilities Approach: Why Sustainable Ecological Capacity Is a Meta-Capability”, _Political Research Quarterly_, 61: 319–32.
-* –––, 2008b, “Ecology and the Limits of Justice: Establishing Capability Ceilings in Nussbaum’s Capability Approach”, _Journal of Human Development_, 9(3): 401–425.
-* –––, 2014a, _Allocating the Earth: A Distributional Framework for Protecting Capabilities in Environmental Law and Policy_, New York: Oxford University Press.
-* –––, 2014b, “Nussbaum, Rawls, and the Ecological Limits of Justice: Using Capability Ceilings to Resolve Capability Conflicts”, in Comim and Nussbaum (eds.), _Capabilities, Gender, Equality: Towards Fundamental Entitlements_, Cambridge: Cambridge University Press, pp. 382–413.
-* Ibrahim, S., 2006, “From Individual to Collective Capabilities: The Capability Approach as a Conceptual Framework for Self-Help”, _Journal of Human Development_, 7(3): 397–416.
-* –––, 2020, “Individualism and the Capability Approach: The Role of Collectivities in Expanding Human Capabilities”, in Chiappero-Martinetti, Osmani, and Qizilbash, _The Cambridge Handbook of the Capability Approach_, Cambridge: Cambridge University Press, pp. 206–226.
-* Ibrahim, S. and Alkire, S., 2007, “Agency and Empowerment: A Proposal for Internationally Comparable Indicators”, _Oxford Development Studies_, 35(4): 379–403.
-* Kaufman, A., 2006a, “Capabilities and Freedom”, _Journal of Political Philosophy_, 14(3): 289–300.
-* –––, 2006b, “What Goods Do to (and for) People: Duality and Ambiguity in Sen’s Capabilities Approach?” in A. Kaufman (ed.), _Capabilities Equality: Basic Issues and Problems_, New York: Routledge, pp. 117–129.
-* Keleher, L. and Kosko, S.J. (eds.), 2019, _Agency and Democracy in Development Ethics_, Cambridge: Cambridge University Press.
+* –––, 2020, “The Capabilities Approach and Political Liberalism”, in Chiappero-Martinetti, Osmani, and Qizilbash (eds.), *The Cambridge Handbook of the Capability Approach*, Cambridge: Cambridge University Press, pp.165-187.
+* Barclay, L., 2003, “What kind of liberal is Martha Nussbaum?”, *SATS: Nordic Journal of Philosophy*, 4(3): 5–24.
+* Basu, K., 1987, “Achievements, Capabilities, and the Concept of Well-being”,, *Social Choice and Welfare*, 4: 69–76.
+* Beauchamp, T. and Childress, J., 2001, *Principles of Biomedical Ethics*, Oxford: Oxford University Press.
+* Bendik-Keymer, J., 2014, “From Humans to all of Life: Nussbaum’s transformation of human dignity” in Comim and Nussbaum (eds.), *Capabilities, Gender, Equality*, Cambridge: Cambridge University Press, pp. 165–187.
+* Bertland, A., 2009, “Virtue Ethics in Business and the Capability Approach”, *Journal of Business Ethics*, 84: 25–32.
+* Bhargava, R., 1992, *Individualism in Social Science. Forms and Limits of a Methodology*, Oxford: Clarendon Press.
+* Binder, C. and Binder, C., 2016, “A Capability Perspective on Indigenous Autonomy”, *Oxford Development Studies*, 44(3): 297–314.
+* Binder, C., 2009, “Context-Dependency of Valuable Functionings: How Culture Affects the Capability Framework”, in Chiappero-Martinetti (ed.), *Debating Global Society: Reach and Limit of the Capability Approach*, Fondazione Giangiacomo Feltrinelli, pp. 205–232.
+* –––, 2019, *Agency, Freedom, and Choice*, Dordrecht: Spinger.
+* Bockstael, E. and Watene, K., 2016, “Indigenous Peoples and the Capability Approach: Taking Stock”, *Oxford Development Studies*, 44(3): 265–270.
+* Bonvin, J.-M. and Farvaque, N., 2005, “What Informational Bases for Assessing Job-Seekers? Capabilities vs. Preferences”, *Review of Social Economy*, 63(2): 269-289.
+* Brando, N. and Schweiger, G. (eds.), 2019, *Philosophy and Child Poverty: Reflections on the Ethics and Politics of Poor Children and their Families*, Cham: Springer.
+* Brighouse, H. and I. Robeyns (eds.), 2010, *Measuring Justice: Primary Goods and Capabilities*, Cambridge: Cambridge University Press.
+* Byskov, M.F., 2017, “Democracy, Philosophy, and the Selection of Capabilities”, *Journal of Human Development and Capabilities*, online first September 28, 2015. doi: 10.1080/19452829.2015.1091809
+* –––, 2018a, “Selecting Capabilities for Development”, in Comim, Fennell, and Anand (eds.), *New Frontiers of the Capability Approach*, Cambridge: Cambridge University Press, pp. 198–231..
+* –––, 2018b, *The Capability Approach in Practice: A New Ethics for Setting Development Agendas*, London: Routledge.
+* –––, 2019, “Qualitative and Quantitative Interpretations of the Least Restrictive Means”, *Bioethics*, 33(4): 511–521.
+* –––, 2020, “Beyond ‘Having Reason to Value’: Why We Should Adopt a Procedure-Independent and Value-Neutral Definition of Capabilities”, *Journal of Economic Methodology*, 27(1): 18–35.
+* Carter, I., 2014, “Is the Capability Approach Paternalist?”, *Economics & Philosophy*, 30(1): 75–98.
+* Chakraborty, A., 1996, “On the Possibility of a Weighting System for Functionings”, *Indian Economic Review*, 31: 241–50.
+* Claassen R., 2011, “Making Capability Lists: Philosophy versus Democracy”, *Political Studies*, 59: 491–508.
+* –––, 2014, “Capability Paternalism”, *Economics & Philosophy*, 30: 57–73.
+* –––, 2017, “An Agency-Based Capability Theory of Justice”, *European Journal of Philosophy*, 25(4): 1279–1304.
+* –––, 2018, *Capabilities in a Just Society: A Theory of Navigational Agency*, Cambridge: Cambridge University Press.
+* –––, 2020, “Selecting a List: The Capability Approach’s Achilles’ Heel”, in Chiappero-Martinetti, Osmani, and Qizilbash (eds.), *The Cambridge Handbook of the Capability Approach*, Cambridge: Cambridge University Press, pp. 188–205.
+* Cripps, E., 2010, “Saving the Polar Bear, Saving the World: Can the Capabilities Approach do Justice to Humans, Animals and Ecosystems?” *Res Publica*, 16(1): 1–22.
+* Crocker, D. A., 2008, *Ethics of Global Development: Agency, Capability and Deliberative Democracy*, Cambridge: Cambridge University Press.
+* Crocker, D. A. and I. Robeyns, 2009, “Capability and agency” in: Christopher Morris (ed.), *The Philosophy of Amartya Sen*, Cambridge University Press, 2009, pp. 60–90.
+* Deneulin, S. (ed.), 2009, *The Human Development and Capabilities Approach*, London: Earthscan.
+* Dowding, K. and Van Hees, M., 2009, “Freedom of Choice”, in Anand, Pattanaik, and Puppe (eds.), *The Handbook of Rational and Social Choice*, Oxford: Oxford University Press, pp. 374–392.
+* Drèze, J. and A. Sen, 2002, *India: Development and Participation*, 2nd edition, Oxford: Oxford University Press.
+* Drydyk, J., 2012, “A Capability Approach to Justice as a Virtue”,, *Ethical Theory and Moral Practice*, 15: 23–38.
+* –––, 2013, “Empowerment, Agency, and Power”, *Journal of Global Ethics*, 9(3): 249–262.
+* Drydyk, J. and Keleher, L., 2018, *Routledge Handbook of Development Ethics*, Routledge.
+* Dworkin, R., 2000, *Sovereign Virtue: The Theory and Practice of Equality*, Cambridge, MA: Harvard University Press.
+* Entwistle, V. and Watt, I., 2013a, “A Capabilities Approach to Person-Centered Care: Response to Open-Peer Commentaries on ‘Treating Patients as Persons: A Capability Approach to Support Delivery of Person-Centered Care’ ”, *The American Journal of Bioethics*, 13(8): 29–39.
+* –––, 2013b, “Treating Patients as Persons: A Capability Approach to Support Delivery of Person-Centered Care”, *The American Journal of Bioethics*, 13(8): 29–39.
+* Evans, P., 2002, “Collective Capabilities, Culture, and Amartya Sen’s Development as Freedom”, *Studies in Comparative International Development*, 37(2): 54–60.
+* Ferracioli, L. and Terlazzo, R., 2014, “Educating for Autonomy: Liberalism and Autonomy in the Capabilities Approach”, *Ethical Theory and Moral Practice*, 17(3): 443–455.
+* Fleurbaey, M., 2002, “Development, Capabilities and Freedom”, *Studies in Comparative International Development*, 37: 71–7.
+* Freeman, S., 2006, “Book Review — Frontiers of Justice: The Capabilities Approach versus Contractualism”, *Texas Law Review*, 85(2): 385–430.
+* Fukuda-Parr, S., 2002, “Operationalising Amartya Sen’s Ideas on Capabilities, Development, Freedom and Human Rights – the Shifting Policy Focus of the Human Development Approach”, *Publicaciones PNUD*, PNUD-Costa Rica.
+* –––, 2003, “The human development paradigm: operationalizing Sen’s ideas on development”, *Feminist Economics*, 9(2/3): 301–317.
+* –––, 2011a, “The Metrics of Human Rights: Complementarities of the Human Development and Capabilities Approach”, *Journal of Human Development and Capabilities*, 12(1): 73–89.
+* –––, 2011b, “Theory and Policy in International Development: Human Development and Capability Approach and the Millennium Development Goals”, *International Studies Review*, 13(1): 122–132.
+* Fukuda-Parr, S. and S. Kumar (eds.,), 2009, *Handbook of Human Development: Concepts, Measures and Policies*, Delhi: Oxford University Press.
+* Giovanola, B., 2009, “Re-Thinking the Anthropological and Ethical Foundation of Economics and Business: Human Richness and Capability Enhancement”, *Journal of Business Ethics*, 88(3): 431–444.
+* Gore, C., 1997, “Irreducibly Social Goods and the Informational Basis of Amartya Sen’s Capability Approach”, *Journal of International Development*, 9(2): 235–250–
+* Gutwald, R., Lessmann, O., Masson, T., and Rauschmayer, F., 2014, “A Capability Approach to Intergenerational Justice? Examining the Potential of Amartya Sen’s Ethics with Regard to Intergenerational Issues”, *Journal of Human Development and Capabilities*, 15(4): 355–368.
+* ul Haq, M., 2003, “The Birth of the Human Development Index”, in Fukuda-Parr and Kumar (eds.), *Readings in Human Development*, New Delhi: Oxford University Press, pp. 103–113.
+* Harnacke, C., 2013, “Disability and Capability: Exploring the Usefulness of Martha Nussbaum’s Capabilities Approach for the UN Disability Rights Convention”, *The Journal of Law, Medicine & Ethics*, 41(4): 768–780.
+* Hart, C. and Brando, N., 2018, “A Capability Approach to Childrens’ Well-Being, Agency and Participatory Rights in Education”, *European Journal of Education*, 53(3): 293-309.
+* Hoffmann, N. and Metz, T., 2017, “What can the Capabilities Approach Learn from an Ubuntu Ethics? A Relational Approach to Development Theory”, *World Development*, 97: 153–164.
+* Holland, B., 2008a, “Justice and the Environment in Nussbaum’s Capabilities Approach: Why Sustainable Ecological Capacity Is a Meta-Capability”, *Political Research Quarterly*, 61: 319–32.
+* –––, 2008b, “Ecology and the Limits of Justice: Establishing Capability Ceilings in Nussbaum’s Capability Approach”, *Journal of Human Development*, 9(3): 401–425.
+* –––, 2014a, *Allocating the Earth: A Distributional Framework for Protecting Capabilities in Environmental Law and Policy*, New York: Oxford University Press.
+* –––, 2014b, “Nussbaum, Rawls, and the Ecological Limits of Justice: Using Capability Ceilings to Resolve Capability Conflicts”, in Comim and Nussbaum (eds.), *Capabilities, Gender, Equality: Towards Fundamental Entitlements*, Cambridge: Cambridge University Press, pp. 382–413.
+* Ibrahim, S., 2006, “From Individual to Collective Capabilities: The Capability Approach as a Conceptual Framework for Self-Help”, *Journal of Human Development*, 7(3): 397–416.
+* –––, 2020, “Individualism and the Capability Approach: The Role of Collectivities in Expanding Human Capabilities”, in Chiappero-Martinetti, Osmani, and Qizilbash, *The Cambridge Handbook of the Capability Approach*, Cambridge: Cambridge University Press, pp. 206–226.
+* Ibrahim, S. and Alkire, S., 2007, “Agency and Empowerment: A Proposal for Internationally Comparable Indicators”, *Oxford Development Studies*, 35(4): 379–403.
+* Kaufman, A., 2006a, “Capabilities and Freedom”, *Journal of Political Philosophy*, 14(3): 289–300.
+* –––, 2006b, “What Goods Do to (and for) People: Duality and Ambiguity in Sen’s Capabilities Approach?” in A. Kaufman (ed.), *Capabilities Equality: Basic Issues and Problems*, New York: Routledge, pp. 117–129.
+* Keleher, L. and Kosko, S.J. (eds.), 2019, *Agency and Democracy in Development Ethics*, Cambridge: Cambridge University Press.
 * Kelly, E., 2010, “Equal Opportunity, Unequal Capability”, in Brighouse and Robeyns (ed.): 61–80.
-* Khader, S., 2008, “Cognitive Disability, Capabilities, and Justice”,, _Essays in Philosophy_, 9(1): 93–112; [available online](http://commons.pacificu.edu/cgi/viewcontent.cgi?article=1297\&context=eip).
-* Khader, S. and Kosko, S.J., 2019, “‘Reason to Value’: Process, Opportunity, and Perfectionism in the Capability Approach”in Keleher and Kosko (eds.), _Agency and Democracy in Development Ethics_, Cambridge: Cambridge University Press, pp. 178–204.
-* Kramm, M., 2020, “When a River Becomes a Person”, _Journal of Human Development and Capabilities_, 21(4): 307–319.
-* Kronlid, D., 2014, _Climate Change Adaptation and Human Capabilities: Justice and Ethics in Research and Policy_, Dordrecht: Springer.
-* Kynch, J. and Sen, A., 1983, “Indian Women: Well-Being and Survival”, _Cambridge Journal of Economics_, 7(3/4): 363–380.
-* Lessmann, O. and Rauschmayer, F. (eds.), 2014, _The Capability Approach and Sustainability_, London: Routledge.
-* List, C., 2004, “The Impossibility of a Paretian Republican? Some Comments on Pettit and Sen”, _Economics & Philosophy_, 20(1): 65–87.
-* Metz, T., 2016, “Recent Philosophical Approaches to Social Protection: From Capability to Ubuntu”, _Global Social Policy_, 16(2): 132–150.
-* Millar, M., 2013, “A Capabilities Perspective on Healthcare Associated Infection”, _The American Journal of Bioethics_, 13(8): 53–54.
-* Murphy, M., 2014, “Self-Determination as a Collective Capability: The Case of Indigenous Peoples”, _Journal of Human Development and Capabilities_, 15(4): 320–334.
-* Nielsen, L., 2015, “Why Health Matters to Justice: A Capability Theory Perspective”, _Ethical Theory and Moral Practice_, 18: 403–415.
-* Nielsen, L. and D. Axelsen, 2017, “Capabilitarian Sufficiency: Capabilities and Social Justice”, _Journal of Human Development and Capabilities_, 18(1): 46–59.
-* Nussbaum, M., 1988, “Nature, Functioning and Capability: Aristotle on Political Distribution”, _Oxford Studies in Ancient Philosophy_ (Supplementary Volume), 6: 145–84.
-* –––, 1992, Human functioning and social justice. In defense of Aristotelian essentialism. _Political Theory_, 20(2): 202–246.
-* –––, 2000, _Women and Human Development: The Capabilities Approach_, Cambridge: Cambridge University Press.
-* –––, 2003, “Capabilities as Fundamental Entitlements: Sen and Social Justice”, _Feminist Economics_, 9(2/3): 33–59.
-* –––, 2006, _Frontiers of Justice: Disability, Nationality, Species Membership_, Cambridge, MA: Harvard University Press.
-* –––, 2011a, _Creating Capabilities_, Cambridge, MA: Harvard University Press.
-* –––, 2011b, “The Capabilities Approach and Animal Entitlements”, in Beauchamp and Frey (eds.), _The Oxford Handbook of Animal Ethics_, Oxford University Press, pp. 228–53.
-* –––, 2020, “The Capabilities Approach and the History of Philosophy”, in Chiappero-Martinetti, Osmani, and Qizilbash (eds.), _The Cambridge Handbook of the Capability Approach_, Cambridge: Cambridge University Press, pp. 13–39.
-* O’Neill, O., 1996, _Towards Justice and Virtue_, Cambridge: Cambridge University Press.
-* Oosterlaken, I., 2011, “Inserting Technologies in the Relational Ontology of Sen’s Capability Approach”, _Journal of Human Development and Capabilities_, 12(3): 425–432.
-* –––, 2015, _Technology and Human Development_, London: Routledge.
-* Palmer, C., 2010, _Animal Ethics in Context_, New York: Columbia University Press.
-* Panzironi, F., 2012, “The ‘Indigenous Capability-Right to Health’ and Australia’s ‘Close the Gap’ Indigenous Health Policy”, in Panzironi and Gelber (eds.), _The Capability Approach: Development Practice and Public Policy in the Asia-Pacific Region_, London: Routledge, pp. 68–83.
-* Pettit, P., 2001, “Capability and Freedom: A Defence of Sen”, _Economics & Philosophy_, 17(1): 1–20.
-* –––, 2009, “Freedom in the Spirit of Sen”, in Morris (ed.), _Amartya Sen_, Cambridge: Cambridge University Press, pp. 91 –114.
-* Phillips, A. 2004, “Defending Equality of Outcome”, _Journal of Political Philosophy_, 12(1): 1–19.
-* Pierik, R. and I. Robeyns, 2007, “Resources versus Capabilities: Social Endowments in Egalitarian Theory”, _Political Studies_, 55(1): 133–52.
-* Pogge, T., 2002, “Can the Capability Approach be Justified?” _Philosophical Topics_, 30(2): 167–228.
-* –––, 2008, _World Poverty and Human Rights_, Cambridge: Polity Press.
-* Prah Ruger, J., 2009, _Health and Social Justice_, Oxford: Oxford University Press.
-* –––, 2010, “Health Capability: Conceptualization and Operationalization”, _American Journal of Public Health_, 100(1): 41–49.
+* Khader, S., 2008, “Cognitive Disability, Capabilities, and Justice”,, *Essays in Philosophy*, 9(1): 93–112; [available online](http://commons.pacificu.edu/cgi/viewcontent.cgi?article=1297\&context=eip).
+* Khader, S. and Kosko, S.J., 2019, “‘Reason to Value’: Process, Opportunity, and Perfectionism in the Capability Approach”in Keleher and Kosko (eds.), *Agency and Democracy in Development Ethics*, Cambridge: Cambridge University Press, pp. 178–204.
+* Kramm, M., 2020, “When a River Becomes a Person”, *Journal of Human Development and Capabilities*, 21(4): 307–319.
+* Kronlid, D., 2014, *Climate Change Adaptation and Human Capabilities: Justice and Ethics in Research and Policy*, Dordrecht: Springer.
+* Kynch, J. and Sen, A., 1983, “Indian Women: Well-Being and Survival”, *Cambridge Journal of Economics*, 7(3/4): 363–380.
+* Lessmann, O. and Rauschmayer, F. (eds.), 2014, *The Capability Approach and Sustainability*, London: Routledge.
+* List, C., 2004, “The Impossibility of a Paretian Republican? Some Comments on Pettit and Sen”, *Economics & Philosophy*, 20(1): 65–87.
+* Metz, T., 2016, “Recent Philosophical Approaches to Social Protection: From Capability to Ubuntu”, *Global Social Policy*, 16(2): 132–150.
+* Millar, M., 2013, “A Capabilities Perspective on Healthcare Associated Infection”, *The American Journal of Bioethics*, 13(8): 53–54.
+* Murphy, M., 2014, “Self-Determination as a Collective Capability: The Case of Indigenous Peoples”, *Journal of Human Development and Capabilities*, 15(4): 320–334.
+* Nielsen, L., 2015, “Why Health Matters to Justice: A Capability Theory Perspective”, *Ethical Theory and Moral Practice*, 18: 403–415.
+* Nielsen, L. and D. Axelsen, 2017, “Capabilitarian Sufficiency: Capabilities and Social Justice”, *Journal of Human Development and Capabilities*, 18(1): 46–59.
+* Nussbaum, M., 1988, “Nature, Functioning and Capability: Aristotle on Political Distribution”, *Oxford Studies in Ancient Philosophy* (Supplementary Volume), 6: 145–84.
+* –––, 1992, Human functioning and social justice. In defense of Aristotelian essentialism. *Political Theory*, 20(2): 202–246.
+* –––, 2000, *Women and Human Development: The Capabilities Approach*, Cambridge: Cambridge University Press.
+* –––, 2003, “Capabilities as Fundamental Entitlements: Sen and Social Justice”, *Feminist Economics*, 9(2/3): 33–59.
+* –––, 2006, *Frontiers of Justice: Disability, Nationality, Species Membership*, Cambridge, MA: Harvard University Press.
+* –––, 2011a, *Creating Capabilities*, Cambridge, MA: Harvard University Press.
+* –––, 2011b, “The Capabilities Approach and Animal Entitlements”, in Beauchamp and Frey (eds.), *The Oxford Handbook of Animal Ethics*, Oxford University Press, pp. 228–53.
+* –––, 2020, “The Capabilities Approach and the History of Philosophy”, in Chiappero-Martinetti, Osmani, and Qizilbash (eds.), *The Cambridge Handbook of the Capability Approach*, Cambridge: Cambridge University Press, pp. 13–39.
+* O’Neill, O., 1996, *Towards Justice and Virtue*, Cambridge: Cambridge University Press.
+* Oosterlaken, I., 2011, “Inserting Technologies in the Relational Ontology of Sen’s Capability Approach”, *Journal of Human Development and Capabilities*, 12(3): 425–432.
+* –––, 2015, *Technology and Human Development*, London: Routledge.
+* Palmer, C., 2010, *Animal Ethics in Context*, New York: Columbia University Press.
+* Panzironi, F., 2012, “The ‘Indigenous Capability-Right to Health’ and Australia’s ‘Close the Gap’ Indigenous Health Policy”, in Panzironi and Gelber (eds.), *The Capability Approach: Development Practice and Public Policy in the Asia-Pacific Region*, London: Routledge, pp. 68–83.
+* Pettit, P., 2001, “Capability and Freedom: A Defence of Sen”, *Economics & Philosophy*, 17(1): 1–20.
+* –––, 2009, “Freedom in the Spirit of Sen”, in Morris (ed.), *Amartya Sen*, Cambridge: Cambridge University Press, pp. 91 –114.
+* Phillips, A. 2004, “Defending Equality of Outcome”, *Journal of Political Philosophy*, 12(1): 1–19.
+* Pierik, R. and I. Robeyns, 2007, “Resources versus Capabilities: Social Endowments in Egalitarian Theory”, *Political Studies*, 55(1): 133–52.
+* Pogge, T., 2002, “Can the Capability Approach be Justified?” *Philosophical Topics*, 30(2): 167–228.
+* –––, 2008, *World Poverty and Human Rights*, Cambridge: Polity Press.
+* Prah Ruger, J., 2009, *Health and Social Justice*, Oxford: Oxford University Press.
+* –––, 2010, “Health Capability: Conceptualization and Operationalization”, *American Journal of Public Health*, 100(1): 41–49.
 * Qizilbash, M., 2008, “Amartya Sen’s capability view: insightful sketch or distorted picture?”, in: Comim, Qizilbash and Alkire (eds.), pp. 53–81.
-* –––, 2012, “The Capability Approach: Its Interpretation and ‘Limitations’”, in Panzironi and Gelber (eds.), _The Capability Approach: Development Practice and Public Policy in the Asia-Pacific Region_, London: Routledge, pp. 9–22.
-* Rawls, J., 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Richardson, H.S., 2006, “Rawlsian Social Contract and the Severely Disabled”, _Journal of Ethics_, 10: 419–62.
-* Riddle, C.A., 2013, “Well-Being and the Capability of Health”, _Topoi_, 32(2): 153–160.
-* –––, 2014, _Disability and Justice: The Capabilies Approach in Practice_, Lanham, MD: Lexington Books.
-* Robeyns, I., 2003, “Sen’s Capability Approach and Gender Inequality: Selecting Relevant Capabilities”, _Feminist Economics_, 9(2/3): 61–92.
-* –––, 2005, “The Capability Approach: A theoretical survey”, _Journal of Human Development_, 6(1): 93–117.
-* –––, 2006, “The Capability Approach in Practice”, _Journal of Political Philosophy_, 14(3): 351–76.
-* –––, 2009, “Justice as fairness and the capability approach”, in: Kaushik Basu and Ravi Kanbur (eds.), _Arguments for a Better World. Essays for Amartya Sen’s 75th Birthday_, Oxford University Press, pp. 397–413.
-* –––, 2016, “Capabilitarianism”, _Journal of Human Development and Capabilities_, 17(3): 397–414. doi: 10.1080/19452829.2016.1145631
-* –––, 2017, _Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined_, Cambridge: Open Book Publishers.
-* Schlosberg, D., 2012, “Climate Justice and Capabilities: A Framework for Adaptation Policy”, _Ethics & International Affairs_, 26(4): 445–461.
-* Schlosberg, D. and Carruthers, D., 2010, “Indigenous Struggles, Environmental Justice, and Community Capabilities”, _Global Environmental Politics_, 10(4): 12–35.
-* Schokkaert, E., 2007, “Capabilities and Satisfaction with Life”, _Journal of Human Development_, 8(3): 415–30.
-* Sen, A., 1974, “Informational Bases of Alternative Welfare Approaches: Aggregation and Income Distribution”, _Journal of Public Economics_, 3(4): 387–403.
-* –––, 1979a, “Equality of What?” in McMurrin (ed.), _Tanner Lectures on Human Values_, Cambridge: Cambridge University Press, pp. 197–220.
-* –––, 1979b, “Issues in the Measurement of Poverty”, _The Scandinavian Journal of Economics_, 81(2): 285–307.
-* –––, 1983, “Poor, Relatively Speaking”, _Oxford Economic Papers_, 35: 153–169.
-* –––, 1985a, _Commodities and Capabilities_, Amsterdam: North-Holland.
-* –––, 1985b, “Rights and Capabilities”, in _Morality and Objectivity: A Tribute to J.L. Mackie_, London: Routledge and Kegan Paul, pp. 130–48.
-* –––, 1985c, “Women, Technology and Sexual Divisions”, in _Trade and Development_, New York: United Nations, pp. 218–223.
-* –––, 1985d, “Well-being, Agency and Freedom: The Dewey Lectures 1984”, _Journal of Philosophy_, 82(4): 169–221.
-* –––, 1987a, “Gender and Cooperative Conflicts”, _WIDER Working Papers_, 18.
-* –––, 1987b, “The Standard of Living”, in Sen, Muellbauer, Kanbur, Hart, and Williams, _The Standard of Living: The Tanner Lectures on Human Values_, Cambridge: Cambridge University Press.
-* –––, 1992, _Inequality Re-examined_, Oxford: Clarendon Press.
-* –––, 1993a, “Capability and Well-being”, in Nussbaum and Sen (eds.), _The Quality of Life_, Oxford: Clarendon Press, pp. 30–53
-* –––, 1993b, “Markets and Freedoms: Achievements and Limitations of the Market Mechanism in Promoting Individual Freedoms”, _Oxford Economic Papers_, 45(4): 519–541.
-* –––, 1997, “Editorial: Human Capital and Human Capability”, _World Development_, 25(12): 1959–1961.
-* –––, 1999, _Development as Freedom_, New York: Knopf.
-* –––, 2001, “Reply”, _Economics & Philosophy_, 17: 51–66.
-* –––, 2002, _Rationality and Freedom_, Cambridge, MA: Harvard University Press.
-* –––, 2004a, “Capabilities, Lists and Public Reasons: Continuing the Conversation”, _Feminist Economics_, 10(3): 77–80.
-* –––, 2004b, “Elements of a Theory of Human Rights”, _Philosophy & Public Affairs_, 32(4): 315–56.
-* –––, 2005, “Human Rights and Capabilities”, _Journal of Human Development_, 6(2): 151–66.
-* –––, 2006, “What Do We Want from a Theory of Justice?”, _Journal Philosophy_, 103(5): 215–238.
-* –––, 2008, “The Idea of Justice”, _Journal of Human Development_, 9(3): 331–342.
-* –––, 2009, _The Idea of Justice_, London: Allen Lane.
-* Sferrazzo, R. and Ruffini, R., forthcoming, “Are Liberated Companies a Concrete Application of Sen’s Capability Approach?”, _Journal of Business Ethics_, first online 31 October 2019. doi:10.1007/s10551-019-04324-3
-* Singer, P., 2009. _The Life You Can Safe_, New York: Random House.
-* Stewart, F., 1995, “Basic Needs, Capabilities and Human Development”, _Greek Economic Review_, 17(2): 83–96.
-* –––, 2005, “Groups and Capabilities”, _Journal of Human Development_, 6(2): 185–204.
-* Stewart, F. and Deneulin, S., 2002, “Amartya Sen’s Contribution to Development Thinking”, _Studies in Comparative International Development_, 37(2): 61–70.
-* Terzi, L., 2008, _Justice and Equality in Education: A Capability Perspective on Disability and Special Education Needs_, London: Bloomsbury Publishing.
+* –––, 2012, “The Capability Approach: Its Interpretation and ‘Limitations’”, in Panzironi and Gelber (eds.), *The Capability Approach: Development Practice and Public Policy in the Asia-Pacific Region*, London: Routledge, pp. 9–22.
+* Rawls, J., 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Richardson, H.S., 2006, “Rawlsian Social Contract and the Severely Disabled”, *Journal of Ethics*, 10: 419–62.
+* Riddle, C.A., 2013, “Well-Being and the Capability of Health”, *Topoi*, 32(2): 153–160.
+* –––, 2014, *Disability and Justice: The Capabilies Approach in Practice*, Lanham, MD: Lexington Books.
+* Robeyns, I., 2003, “Sen’s Capability Approach and Gender Inequality: Selecting Relevant Capabilities”, *Feminist Economics*, 9(2/3): 61–92.
+* –––, 2005, “The Capability Approach: A theoretical survey”, *Journal of Human Development*, 6(1): 93–117.
+* –––, 2006, “The Capability Approach in Practice”, *Journal of Political Philosophy*, 14(3): 351–76.
+* –––, 2009, “Justice as fairness and the capability approach”, in: Kaushik Basu and Ravi Kanbur (eds.), *Arguments for a Better World. Essays for Amartya Sen’s 75th Birthday*, Oxford University Press, pp. 397–413.
+* –––, 2016, “Capabilitarianism”, *Journal of Human Development and Capabilities*, 17(3): 397–414. doi: 10.1080/19452829.2016.1145631
+* –––, 2017, *Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined*, Cambridge: Open Book Publishers.
+* Schlosberg, D., 2012, “Climate Justice and Capabilities: A Framework for Adaptation Policy”, *Ethics & International Affairs*, 26(4): 445–461.
+* Schlosberg, D. and Carruthers, D., 2010, “Indigenous Struggles, Environmental Justice, and Community Capabilities”, *Global Environmental Politics*, 10(4): 12–35.
+* Schokkaert, E., 2007, “Capabilities and Satisfaction with Life”, *Journal of Human Development*, 8(3): 415–30.
+* Sen, A., 1974, “Informational Bases of Alternative Welfare Approaches: Aggregation and Income Distribution”, *Journal of Public Economics*, 3(4): 387–403.
+* –––, 1979a, “Equality of What?” in McMurrin (ed.), *Tanner Lectures on Human Values*, Cambridge: Cambridge University Press, pp. 197–220.
+* –––, 1979b, “Issues in the Measurement of Poverty”, *The Scandinavian Journal of Economics*, 81(2): 285–307.
+* –––, 1983, “Poor, Relatively Speaking”, *Oxford Economic Papers*, 35: 153–169.
+* –––, 1985a, *Commodities and Capabilities*, Amsterdam: North-Holland.
+* –––, 1985b, “Rights and Capabilities”, in *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge and Kegan Paul, pp. 130–48.
+* –––, 1985c, “Women, Technology and Sexual Divisions”, in *Trade and Development*, New York: United Nations, pp. 218–223.
+* –––, 1985d, “Well-being, Agency and Freedom: The Dewey Lectures 1984”, *Journal of Philosophy*, 82(4): 169–221.
+* –––, 1987a, “Gender and Cooperative Conflicts”, *WIDER Working Papers*, 18.
+* –––, 1987b, “The Standard of Living”, in Sen, Muellbauer, Kanbur, Hart, and Williams, *The Standard of Living: The Tanner Lectures on Human Values*, Cambridge: Cambridge University Press.
+* –––, 1992, *Inequality Re-examined*, Oxford: Clarendon Press.
+* –––, 1993a, “Capability and Well-being”, in Nussbaum and Sen (eds.), *The Quality of Life*, Oxford: Clarendon Press, pp. 30–53
+* –––, 1993b, “Markets and Freedoms: Achievements and Limitations of the Market Mechanism in Promoting Individual Freedoms”, *Oxford Economic Papers*, 45(4): 519–541.
+* –––, 1997, “Editorial: Human Capital and Human Capability”, *World Development*, 25(12): 1959–1961.
+* –––, 1999, *Development as Freedom*, New York: Knopf.
+* –––, 2001, “Reply”, *Economics & Philosophy*, 17: 51–66.
+* –––, 2002, *Rationality and Freedom*, Cambridge, MA: Harvard University Press.
+* –––, 2004a, “Capabilities, Lists and Public Reasons: Continuing the Conversation”, *Feminist Economics*, 10(3): 77–80.
+* –––, 2004b, “Elements of a Theory of Human Rights”, *Philosophy & Public Affairs*, 32(4): 315–56.
+* –––, 2005, “Human Rights and Capabilities”, *Journal of Human Development*, 6(2): 151–66.
+* –––, 2006, “What Do We Want from a Theory of Justice?”, *Journal Philosophy*, 103(5): 215–238.
+* –––, 2008, “The Idea of Justice”, *Journal of Human Development*, 9(3): 331–342.
+* –––, 2009, *The Idea of Justice*, London: Allen Lane.
+* Sferrazzo, R. and Ruffini, R., forthcoming, “Are Liberated Companies a Concrete Application of Sen’s Capability Approach?”, *Journal of Business Ethics*, first online 31 October 2019. doi:10.1007/s10551-019-04324-3
+* Singer, P., 2009. *The Life You Can Safe*, New York: Random House.
+* Stewart, F., 1995, “Basic Needs, Capabilities and Human Development”, *Greek Economic Review*, 17(2): 83–96.
+* –––, 2005, “Groups and Capabilities”, *Journal of Human Development*, 6(2): 185–204.
+* Stewart, F. and Deneulin, S., 2002, “Amartya Sen’s Contribution to Development Thinking”, *Studies in Comparative International Development*, 37(2): 61–70.
+* Terzi, L., 2008, *Justice and Equality in Education: A Capability Perspective on Disability and Special Education Needs*, London: Bloomsbury Publishing.
 * –––, 2010, “What metric of justice for disabled people?”, in Brighouse and Robeyns (eds.), pp. 150–173.
-* Unterhalter, E., 2005, “Global Inequality, Capabilities, Social Justice: The Millennium Development Goals for Gender Equality in Education”, _International Journal of Educational Development_, 25(2): 111–22.
-* –––, 2007, _Gender, Schooling, and Global Social Justice_, Abington: Psychology Press/Taylor & Francis.
-* –––, 2013, “What is Wrong with Global Inequality in Education?”, in Boni and Walker (eds.), _Human Development and Capabilities: Re-Imagining the University of the Twenty-First Century_, London: Routledge.
-* Vallentyne, P., 2005, “Debate: Capabilities versus Opportunities for Wellbeing”, _Journal of Political Philosophy_, 13: 359–71.
-* Venkatapuram, S., 2011, _Health Justice: An Argument from the Capabilities Approach_, Cambridge: Polity Press.
-* Voget-Kleschin, L., 2013, “Employing the Capability Approach in Conceptualizing Sustainable Development”, _Journal of Human Development and Capabilities_, 14(4): 483–502.
-* –––, 2015, “Reasoning Claims for More Sustainable Food Consumption: A Capabilities Perspective”, _Journal of Agricultural and Environmental Ethics_, 28(3): 455–477.
-* Walker, M., 2003, “Framing Social Justice in Education: What Does the ‘Capabilities’ Approach Offer?”, _British Journal of Educational Studies_, 51(2): 168–187.
-* –––, 2006, “Towards a Capability-Based Theory of Social Justice for Education Policy-Making”, _Journal of Education Policy_, 21(2): 163–185.
-* Walker, M. and Unterhalter, E., 2007, _Amartya Sen’s Capability Approach and Social Justice in Education_, New York: Palgrave Macmillan.
-* Walsh, V., 2000, “Smith after Sen”, _Review of Political Economy_, 12(1): 5–25.
-* Watene, K., 2016, “Valuing Nature: Maori Philosophy and the Capability Approach”, _Oxford Development Studies_, 44(3): 287–296.
-* Watene, K. and J. Drydyk (eds.), 2016, _Theorizing Justice_, London: Rowman & Littlefield.
-* Watene, K. and Yap, M., 2015, “Culture and Sustainable Development: Indigenous Contributions”, _Journal of Global Ethics_, 11(1): 51–55.
-* Williams, A., 2002, “Dworkin on Capability”, _Ethics_, 113: 23–39.
-* Williams, B., 1987, “The Standard of Living: Interests and Capabilities”, Sen, Muellbauer, Kanbur, Hart, and Williams, _The Standard of Living: The Tanner Lectures on Human Values_, Cambridge: Cambridge University Press, pp. 94–102.
-* Wolff, J. and A. de-Shalit, 2007, _Disadvantage_, Oxford: Oxford University Press.
-* Wynne Bannister, E. and Venkatapuram, S., 2020, “Grounding the Right to Live in the Community (CRPF Article 19) in the Capabilities Approach to Social Justice”, _International Journal of Law and Psychiatry_, 69: 101551.
+* Unterhalter, E., 2005, “Global Inequality, Capabilities, Social Justice: The Millennium Development Goals for Gender Equality in Education”, *International Journal of Educational Development*, 25(2): 111–22.
+* –––, 2007, *Gender, Schooling, and Global Social Justice*, Abington: Psychology Press/Taylor & Francis.
+* –––, 2013, “What is Wrong with Global Inequality in Education?”, in Boni and Walker (eds.), *Human Development and Capabilities: Re-Imagining the University of the Twenty-First Century*, London: Routledge.
+* Vallentyne, P., 2005, “Debate: Capabilities versus Opportunities for Wellbeing”, *Journal of Political Philosophy*, 13: 359–71.
+* Venkatapuram, S., 2011, *Health Justice: An Argument from the Capabilities Approach*, Cambridge: Polity Press.
+* Voget-Kleschin, L., 2013, “Employing the Capability Approach in Conceptualizing Sustainable Development”, *Journal of Human Development and Capabilities*, 14(4): 483–502.
+* –––, 2015, “Reasoning Claims for More Sustainable Food Consumption: A Capabilities Perspective”, *Journal of Agricultural and Environmental Ethics*, 28(3): 455–477.
+* Walker, M., 2003, “Framing Social Justice in Education: What Does the ‘Capabilities’ Approach Offer?”, *British Journal of Educational Studies*, 51(2): 168–187.
+* –––, 2006, “Towards a Capability-Based Theory of Social Justice for Education Policy-Making”, *Journal of Education Policy*, 21(2): 163–185.
+* Walker, M. and Unterhalter, E., 2007, *Amartya Sen’s Capability Approach and Social Justice in Education*, New York: Palgrave Macmillan.
+* Walsh, V., 2000, “Smith after Sen”, *Review of Political Economy*, 12(1): 5–25.
+* Watene, K., 2016, “Valuing Nature: Maori Philosophy and the Capability Approach”, *Oxford Development Studies*, 44(3): 287–296.
+* Watene, K. and J. Drydyk (eds.), 2016, *Theorizing Justice*, London: Rowman & Littlefield.
+* Watene, K. and Yap, M., 2015, “Culture and Sustainable Development: Indigenous Contributions”, *Journal of Global Ethics*, 11(1): 51–55.
+* Williams, A., 2002, “Dworkin on Capability”, *Ethics*, 113: 23–39.
+* Williams, B., 1987, “The Standard of Living: Interests and Capabilities”, Sen, Muellbauer, Kanbur, Hart, and Williams, *The Standard of Living: The Tanner Lectures on Human Values*, Cambridge: Cambridge University Press, pp. 94–102.
+* Wolff, J. and A. de-Shalit, 2007, *Disadvantage*, Oxford: Oxford University Press.
+* Wynne Bannister, E. and Venkatapuram, S., 2020, “Grounding the Right to Live in the Community (CRPF Article 19) in the Capabilities Approach to Social Justice”, *International Journal of Law and Psychiatry*, 69: 101551.
 
 ## Academic Tools
 
@@ -415,5 +414,5 @@ Nussbaum 的工作最接近于为我们提供了一个正义的可行能力理�
 [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [economics \[normative\] and economic justice](https://plato.stanford.edu/entries/economic-justice/) | [egalitarianism](https://plato.stanford.edu/entries/egalitarianism/) | [justice: distributive](https://plato.stanford.edu/entries/justice-distributive/) | [liberty: positive and negative](https://plato.stanford.edu/entries/liberty-positive-negative/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [well-being](https://plato.stanford.edu/entries/well-being/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Ingrid Robeyns](http://www.uu.nl/staff/IAMRobeyns/0) <[_i.a.m.robeyns@uu.nl_](mailto:i%2ea%2em%2erobeyns%40uu%2enl)>\
-Morten Fibieger Byskov <[_morten.byskov@warwick.ac.uk_](mailto:morten%2ebyskov%40warwick%2eac%2euk)>
+[Ingrid Robeyns](http://www.uu.nl/staff/IAMRobeyns/0) <[*i.a.m.robeyns@uu.nl*](mailto:i%2ea%2em%2erobeyns%40uu%2enl)>\
+Morten Fibieger Byskov <[*morten.byskov@warwick.ac.uk*](mailto:morten%2ebyskov%40warwick%2eac%2euk)>

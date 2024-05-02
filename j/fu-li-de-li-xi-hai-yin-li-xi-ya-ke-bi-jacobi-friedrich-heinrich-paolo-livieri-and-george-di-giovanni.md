@@ -1,13 +1,11 @@
 # 弗里德里希·海因里希·雅可比 Jacobi, Friedrich Heinrich (Paolo Livieri and George di Giovanni
 
-
-
 *首次发表于2001年12月6日，实质性修订于2023年8月22日。*
 
 弗里德里希·海因里希·雅可比（出生于 1743 年，逝世于 1819 年）是现代哲学及其产物（德国晚期启蒙的理性主义）、康德的先验唯心主义、费希特的系统哲学以及谢林的唯心主义的批评者。起初，他并未被视为一位一流的哲学家，但他具备了提出正确问题的天赋：哲学是否忘记了概念化条件与存在条件之间的差异？它是否忘记了解释必须从无法进一步解释的事物开始？它是否忘记了思维和存在是不同的？雅可比打算纠正这个错误，因此他将自己的努力集中在对存在的哲学定义上。通过关注以个体行动者形式存在的个体，他的哲学开辟了一条通向充满独特主体、个人上帝和神圣价值秩序的生命宇宙的孤独之路。雅可比提出的表达和主题至今仍然引人共鸣（di Giovanni，1994：115）。
 
 他是那个塑造了“虚无主义”概念哲学意义的人，与其宗教内涵有所区别。在他的词汇中，虚无主义是亚里士多德之后所有哲学的必然结果。尽管他从未认为自己是一个非理性主义者，但他被指责攻击理性并重新引入保守价值观。事实上，他批评了理性的工具性使用和推理的辩证形式。相反，他提倡一系列不同的概念，最终揭示了重新构想现实的可能性。
- 
+
 ---
 
 ## 1. 生平和知识生涯
@@ -369,6 +367,7 @@ Consult also the ‘Preface to the Paperback Edition’ (2009) in Jacobi (1994 (
 > | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/friedrich-jacobi/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
 > | ![inpho icon](../.gitbook/assets/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=friedrich-jacobi&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
 > | ![phil papers icon](../.gitbook/assets/pp.png) | [Enhanced bibliography for this entry](https://philpapers.org/sep/friedrich-jacobi/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+>
 ## Other Internet Resources
 
 [Please contact the author with suggestions.]

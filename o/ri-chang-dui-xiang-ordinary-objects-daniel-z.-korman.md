@@ -1,6 +1,6 @@
 # 日常对象 ordinary objects (Daniel Z. Korman)
 
-_首次发表于2011年12月8日；实质修订于2020年8月31日_
+*首次发表于2011年12月8日；实质修订于2020年8月31日*
 
 我们日常的经验给我们呈现了各种各样的对象：狗和猫，桌子和椅子，树和它们的树枝等等。与数字、命题、修辞、洞、空间点和时间瞬间等实体相比，这些普通对象似乎相对不那么棘手。然而，经过仔细观察，它们至少同样令人困惑，甚至更加令人困惑。
 
@@ -8,7 +8,6 @@ _首次发表于2011年12月8日；实质修订于2020年8月31日_
 
 第 1 节阐述了从普通保守的对象概念中偏离的各种方式，无论是通过消除普通对象还是允许比我们通常认为存在的更多对象。第 2 节研究了旨在激发这些偏离的谜题和论证。第 3 节研究了一些反对消除和允许观点的论证。最后，第 4 节从存在哪些对象的问题转向存在哪些根本对象的问题。
 
- 
 ***
 
 ## 1. 位置
@@ -645,598 +644,598 @@ JK1 背后的想法是，就像没有逻辑或概念上的障碍可以无限下�
 
 ## Bibliography
 
-* Almotahari, Mahrad, 2014, ‘The Identity of a Material Thing and its Matter’, _Philosophical Quarterly_, 64: 387–406.
-* –––, 2017, ‘‘Not’ Again! Another Essay on the Metaphysics of Material Objects’, _Philosophy and Phenomenological Research_, 94: 711–737.
-* Antony, Michael V., 2006, ‘Vagueness and the Metaphysics of Consciousness’, _Philosophical Studies_, 128: 515–538.
-* –––, 2008, ‘Are Our Concepts _Conscious State_ and _Conscious Creature_ Vague?’, Erkenntnis, 68: 239–263.
-* Armstrong, David M., 1978, _Universals and Scientific Realism_ (Volume 1), Cambridge: Cambridge University Press.
-* –––, 1997, _A World of States of Affairs_, New York: Cambridge University Press.
-* Árnadóttir, Steinvör Thöll, 2015, ‘Overdetermination and Elimination’, _International Journal of Philosophical Studies_ 23: 479–503.
-* Ayers, Michael R., 1974, ‘Individuals without Sortals’, _Canadian Journal of Philosophy_, 4: 113–148.
-* Azzouni, Jody, 2017, _Ontology Without Borders_, Oxford: Oxford University Press.
-* Bagwell, Jeffrey N., forthcoming, ‘Eliminativism and Evolutionary Debunking’, _Ergo_.
-* Bailey, Andrew M., 2011, ‘The Incompatibility of Composition as Identity, Priority Pluralism, and Irreflexive Grounding’, _Analytic Philosophy_, 52: 171–174.
-* –––, 2016, ‘Composition and the Cases’, _Inquiry_, 59:453–470.
-* Baker, Lynne Rudder, 1997, ‘Why Constitution is not Identity,’ _The Journal of Philosophy_, 94: 599–621.
-* –––, 2000, _Persons and Bodies_, Cambridge: Cambridge University Press.
-* –––, 2003, ‘Review of _Objects and Persons_’, _Australasian Journal of Philosophy_, 81: 97–98.
-* –––, 2007, _The Metaphysics of Everyday Life_, Cambridge: Cambridge University Press.
-* Balaguer, Mark, 2018, ‘Why the Debate about Composition is Factually Empty’, _Synthese_, 195: 3975–4008.
-* Balashov, Yuri, 2005, ‘On Vagueness, 4D and Diachronic Universalism’, _Australasian Journal of Philosophy_, 83: 523–531.
-* –––, 2007, ‘About Stage Universalism’, _Philosophical Quarterly_, 57: 21–39.
-* Barker, Jonathan, forthcoming, ‘Debunking Arguments and Metaphysical Laws’, _Philosophical Studies_.
-* Barker, Stephen and Mark Jago, 2014, ‘Monism and Material Constitution’, _Pacific Philosophical Quarterly_, 95: 189–204.
-* –––, 2018, ‘Material Objects and Essential Bundle Theory’, _Philosophical Studies_ 175: 2969–2986.
-* Barnes, Elizabeth, 2005, ‘Vagueness in Sparseness: A Study in Property Ontology’, _Analysis_, 65: 315–321.
-* –––, 2007, ‘Vagueness and Arbitrariness: Merricks on Composition’, _Mind_, 116: 105–113.
-* –––, 2013, ‘Metaphysically Indeterminate Existence’, _Philosophical Studies_, 166: 495–510.
-* Båve, Arvid, 2011, ‘How To Precisify Quantifiers’, _Journal of Philosophical Logic_, 40: 103–111.
-* Baxter, Donald L. M., 1988, ‘Many-One Identity’, _Philosophical Papers_, 17: 193–216.
-* Beebee, Helen, 2017, ‘Do Ordinary Objects Exist? Yes’, in Elizabeth Barnes (ed.), _Current Controversies in Metaphysics_, New York: Routledge, pp. 149–163.
-* Belleri, Delia, 2018, ‘Two Species of Merely Verbal Disputes’, _Metaphilosophy_, 49: 691–710.
-* Bennett, Karen, 2004, ‘Spatio-Temporal Coincidence and the Grounding Problem’, _Philosophical Studies_, 118: 339–371.
-* –––, 2009, ‘Composition, Colocation, and Metaontology’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 38–76.
-* Benovsky, Jiri, 2015, ‘From Experience to Metaphysics’, _Noûs_ 49: 684–697.
-* –––, 2018, _Eliminativism, Objects, and Persons_, New York: Routledge.
-* Bernstein, Sara, 2016, ‘Overdetermination Underdetermined’, _Erkenntnis_ 81: 17–40.
-* Bigelow, John and Robert Pargetter, 2006, ‘Real Work for Aggregates’, _Dialectica_, 60: 485–503.
-* Biro, John, 2017, ‘Saving the Ship’, _European Journal of Analytic Philosophy_, 13: 43–54.
-* –––, 2018, ‘Constitution and Identity’, _Erkenntnis_ 83: 1127–1138.
-* Bohn, Einar D., 2009a, ‘An Argument Against the Necessity of Unrestricted Composition’, _Analysis_, 69: 27–31.
-* –––, 2009b, ‘Must There Be a Top Level?’, _Philosophical Quarterly_, 59: 193–201.
-* Bowers, Jason, 2019, ‘A Teleological Answer to the Special Composition Question’, _Dialectica_, 73: 231–246.
-* Braddon-Mitchell, David and Kristie Miller, 2006, ‘Talking about a Universalist World’, _Philosophical Studies_, 130: 499–534.
-* Brenner, Andrew, 2015a, ‘Mereological Nihilism and Theoretical Unification’, _Analytic Philosophy_, 56: 318–337.
-* –––, 2015b, ‘Mereological Nihilism and the Special Arrangement Question’, _Synthese_ 192: 1295–1314.
-* –––, 2017, ‘Mereological Nihilism and Personal Ontology’, _Philosophical Quarterly_, 67: 464–485.
-* –––, 2018a, ‘Easy Ontology, Application Conditions and Infinite Regress’, _Analysis_, 78: 605–614.
-* –––, 2018b, ‘Science and the Special Composition Question’, _Synthese_ 195: 657–678.
-* –––, forthcoming, ‘Mereology and Ideology’, _Synthese_.
-* Bricker, Phillip, 2016, ‘Composition as a Kind of Identity’, _Inquiry_, 59: 264–294.
-* Brzozowski, Jacek, 2016, ‘Monism and Gunk’, in Mark Jago (ed.), _Reality Making_, Oxford: Oxford University Press, pp. 57–74.
-* Builes, David, forthcoming, ‘The World Just Is the Way It Is’, _The Monist_.
-* Burke, Michael B., 1980, ‘Cohabitation, Stuff and Intermittent Existence’, _Mind_ 89: 391–405.
-* –––, 1992, ‘Copper Statues and Pieces of Copper: A Challenge to the Standard Account’, _Analysis_, 52: 12–17.
-* –––, 1994a, ‘Dion and Theon: An Essentialist Solution to an Ancient Puzzle’, _The Journal of Philosophy_, 91: 129–139.
-* –––, 1994b, ‘Preserving the Principle of One Object to a Place’, _Philosophy and Phenomenological Research_, 54: 591–624. Reprinted in Rea 1997a.
-* –––, 1996, ‘Tibbles the Cat: A Modern Sophisma’, _Philosophical Studies_, 84: 63–74.
-* –––, 1997, ‘Coinciding Objects: Reply to Lowe and Denkel’, _Analysis_, 57: 11–18.
-* –––, 2003, ‘Is My Head a Person?’, in K. Petrus (ed.), _On Human Persons_, Frankfurt: Ontos Verlag, pp. 107–125.
-* –––, 2004, ‘Dion, Theon, and the Many-Thinkers Problem’, _Analysis_, 64: 242–250.
-* Button, Tim, 2020, ‘Deflationary Metaphysics and Ordinary Language, _Synthese_, 197: 33–57.
-* Byrne, Alex, 2019, ‘Perception and Ordinary Objects’, in Javier Cumpa and Bill Brewer (eds.), _The Nature of Ordinary Objects_, Cambridge: Cambridge University Press, pp. 6–26.
-* Calosi, Claudio, 2016, ‘Composition is Identity and Mereological Nihilism’, _Philosophical Quarterly_ 66: 219–235.
-* Cameron, Ross P., 2007, ‘The Contingency of Composition’, _Philosophical Studies_, 136: 99–121.
-* –––, 2008a, ‘There Are No Things That Are Music Works’, _British Journal of Aesthetics_, 48: 295–314.
-* –––, 2008b, ‘Truthmakers and Necessary Connections’, _Synthese_, 161: 27–45.
-* –––, 2008c, ‘Truthmakers and Ontological Commitment’, _Philosophical Studies_, 140: 1–18.
-* –––, 2010a, ‘How to Have a Radically Minimal Ontology’, _Philosophical Studies_, 151: 249–264.
-* –––, 2010b, ‘Quantification, Naturalness and Ontology’, in Allan Hazlett (ed.), _New Waves in Metaphysics_, New York: Palgrave-Macmillan, pp. 8–26.
-* –––, 2010c, ‘Vagueness and Naturalness’, _Erkenntnis_, 72: 281–293.
-* –––, 2012, ‘Composition as Identity Doesn’t Settle the Special Composition Question’, _Philosophy and Phenomenological Research_, 84: 531–554.
-* –––, 2014, ‘Parts Generate the Whole, But They Are Not Identical To It’, in A. J. Cotnoir and Donald L. M. Baxter (eds.), _Composition as Identity_, Oxford: Oxford University Press, pp. 90–107.
-* Campdelacreu, Marta, 2010, ‘Naturalness, Vagueness, and Sortals’, _Metaphysica_, 11: 79–91.
-* Carmichael, Chad, 2011, ‘Vague Composition Without Vague Existence’, _Noûs_, 45: 315–327.
-* –––, 2015, ‘Toward a Commonsense Answer to the Special Composition Question’, _Australasian Journal of Philosophy_, 93: 475–490.
-* –––, 2016, ‘Deep Platonism’, _Philosophy and Phenomenological Research_ 92: 307–328.
-* –––, 2020, ‘How to Solve the Puzzle of Dion and Theon Without Losing Your Head’, _Mind_, 129: 205–224.
-* Carrara, Massimiliano and Giorgio Lando, 2017, ‘Composition and Relative Counting’, _Dialectica_, 71: 489–529.
-* Carroll, John W. and William R. Carter, 2005, ‘An Unstable Eliminativism’, _Pacific Philosophical Quarterly_, 86: 1–17.
-* Carter, William R., 1983, ‘In Defense of Undetached Parts’, _Pacific Philosophical Quarterly_, 64: 126–143.
-* Cartwright, Richard, 1975, ‘Scattered Objects’, in Keith Lehrer (ed.), _Analysis and Metaphysics_, Boston: Reidel Publishing Company, pp. 153–171.
-* Caves, Richard L. J., 2018, ‘Emergence for Nihilists’, _Pacific Philosophical Quarterly_, 99: 2–28.
-* Chalmers, David, 2009, ‘Ontological Anti-Realism’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 77–129.
-* Chihara, Charles S., 1994, ‘The Many Persons Problem’, _Philosophical Studies_, 76: 45–49.
-* Chisholm, Roderick M., 1973, ‘Parts as Essential to Their Wholes’, _Review of Metaphysics_, 26: 581–603.
-* –––, 1976, _Person and Object_, London: George Allen and Unwin Ltd. “Identity Through Time” (Ch. 3) is reprinted in Kim et al. 2011.
-* –––, 1986, ‘Self-Profile’, in Radu J. Bogdan (ed.), _Roderick M. Chisholm_, Dordrecht: D. Reidel, pp. 3–77.
-* Colyvan, Mark, 1998, ‘Can the Eleatic Principle be Justified?’, _Canadian Journal of Philosophy_, 28: 313–336.
-* Comesaña. Juan, 2008, ‘Could There Be Exactly Two Things?’, _Synthese_, 162: 31–35.
-* Contessa, Gabriele, 2012, ‘The Junk Argument: Safe Disposal Guidelines for Mereological Universalists’, _Analysis_, 72: 455–457.
-* –––, 2014, ‘One’s a Crowd: Mereological Nihilism Without Ordinary-Object Eliminativism’, _Analytic Philosophy_, 55: 199–221.
-* Corcoran, Kevin J., 1999, ‘Persons, Bodies, and the Constitution Relation’, _Southern Journal of Philosophy_, 37: 1–20.
-* Cornell, David, 2016, ‘Taking Monism Seriously’, _Philosophical Studies_ 173: 2397–2415.
-* Cotnoir, Aaron J., 2010, ‘Antisymmetry and Non-Extensional Mereology’, _Philosophical Quarterly_, 60: 396–405.
-* –––, 2013a, ‘Composition as General Identity’, _Oxford Studies in Metaphysics_, 8: 295–322.
-* –––, 2013b, ‘Parts as Counterparts’, _Thought_, 2: 228–241.
-* –––, 2014, ‘Universalism and Junk’, _Australasian Journal of Philosophy_, 92: 649–664.
-* –––, 2016a, ‘Does Universalism Entail Extensionalism?’, _Noûs_ 50: 121–132.&#x20;
-* –––, 2016b, ‘How Many Angels Can Be in the Same Place at the Same Time? A Defense of Mereological Universalism’, _Mind_ 125: 959–965.&#x20;
-* Cotnoir, Aaron J. and Donald L. M. Baxter, 2014, _Composition as Identity_, Oxford: Oxford University Press.
-* Cowling, Sam, 2013, ‘Ideological Parsimony’, _Synthese_, 190: 3889–3908.
-* –––, 2014, ‘No Simples, No Gunk, No Nothing’, _Pacific Philosophical Quarterly_, 95: 246–60.
-* –––, 2015, ‘Advice for Eleatics’, in Chris Daly (ed.), _Palgrave Handbook of Philosophical Methods_, Palgrave, pp. 306–330.
-* Crane, Judith K., 2012, ‘Biological–Mereological Coincidence’, _Philosophical Studies_, 161: 309–325.
-* Cray, Wesley, 2014, ‘Inconstancy and Content’, _Dialectica_, 68: 337–353.
-* Daly, Chris and David Liggins, 2010, ‘In Defence of Error Theory’, _Philosophical Studies_ 149: 209–230.
-* –––, 2016a, ‘Dorr on the Language of Ontology’, _Philosophical Studies_, 173: 3301–3315.
-* –––, 2016b, ‘Is Ontological Revisionism Uncharitable?’, _Canadian Journal of Philosophy_, 46: 405–425.
-* Dasgupta, Shamik, 2009, ‘Individuals: An Essay in Revisionary Metaphysics’, _Philosophical Studies_, 145: 35–67.
-* –––, 2018, ‘Essentialism and the Nonidentity Problem’, _Philosophy and Phenomenological Research_ 96: 540–570.
-* Davidson, Donald, 1974, ‘On the Very Idea of a Conceptual Scheme’, _Proceedings and Addresses of the American Philosophical Association_, 47: 5–20.
-* –––, 1989/2008, ‘A Coherence Theory of Truth and Knowledge’, in Ernest Sosa, Jaegwon Kim, Jeremy Fantl, and Matthew McGrath (eds.), _Epistemology: An Anthology_, Malden: Blackwell, pp. 124–133.
-* Denkel, Arda, 1995, ‘Theon’s Tale: Does a Cambridge Change Result in a Substantial Change?’, _Analysis_, 55: 166–170.
-* deRosset, Louis, 2011, ‘What is the Grounding Problem?’, _Philosophical Studies_, 156: 173–197.
-* –––, 2015, ‘Analyticity and Ontology’, _Oxford Studies in Metaphysics_ 9: 129–170.
-* –––, forthcoming, ‘What is Conservatism?’, _Analysis_.
-* Dershowitz, Naomi, forthcoming, ‘Nihilism, but Not Necessarily’, _Erkenntnis_.
-* Devitt, Michael and Kim Sterelny, 1999, _Language and Reality_, Cambridge: MIT Press.
-* Doepke, Fred, 1982, ‘Spatially Coinciding Objects’, _Ratio_, 24: 45–60. Reprinted in Rea 1997a.
-* –––, 1986a, ‘In Defence of Locke’s Principle: a Reply to Peter M. Simons’, _Mind_, 95: 238–241.
-* –––, 1986b, ‘The Trees of Constitution’, _Philosophical Studies_, 49: 385–392.
-* Donnelly, Maureen, 2009, ‘Mereological Vagueness and Existential Vagueness’, _Synthese_, 168: 53–79.
-* –––, 2014, ‘A Linguistic Account of Mereological Vagueness’, in Akiba, Ken and Ali Abasnezhad (eds.), _Vague Objects and Vague Identity_, Dordrecht: Springer, pp. 43–65.
-* Dorr, Cian, 2003, ‘Merricks on the Existence of Human Organisms’, _Philosophy and Phenomenological Research_, 67: 711–718.
-* –––, 2005, ‘What We Disagree About When We Disagree About Ontology’, in Mark Kalderon (ed.), _Fictionalism in Metaphysics_, Oxford: Oxford University Press, pp. 234–286.
-* –––, 2008, ‘There are no Abstract Objects’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Malden: Blackwell, pp. 32–63.
-* Dowland, S. Clint, 2016, ‘Embodied Mind Sparsism’, _Philosophical Studies_ 173: 1853–1872.
-* Dyke, Heather, 2008, _Metaphysics and the Representational Fallacy_, New York: Routledge.
-* Effingham, Nikk, 2009, ‘Universalism, Vagueness, and Supersubstantivalism’, _Australasian Journal of Philosophy_, 87: 35–42.
-* –––, 2011a, ‘Sider, Hawley, Sider and the Vagueness Argument’, _Philosophical Studies_, 154: 241–250.
-* –––, 2011b, ‘Undermining Motivations for Universalism’, _Noûs_, 45: 696–713.
-* –––, 2011c, ‘Universalism and Classes’, _Dialectica_, 65: 451–472.
-* Einheuser, Iris, 2006, ‘Counterconventional Conditionals’, _Philosophical Studies_, 127: 459–482.
-* –––, 2011, ‘Toward a Conceptualist Solution of the Grounding Problem’, _Noûs_, 45: 300–314.
-* Eklund, Matti, 2002, ‘Peter van Inwagen on Material Beings’, _Ratio_, 15: 245–256.
-* –––, 2005, ‘Fiction, Indifference, and Ontology’, _Philosophy and Phenomenological Research_, 71: 557–579.
-* –––, 2006, ‘Neo-Fregean Ontology’, _Philosophical Perspectives_, 20: 95–121.
-* –––, 2008, ‘The Picture of Reality as an Amorphous Lump’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Malden: Blackwell, pp. 382–396.
-* –––, 2020, ‘The Existence of Personites’, _Synthese_, 177: 2051–2071.
-* Elder, Crawford L., 2000, ‘Familiar Objects and the Sorites of Decomposition’, _American Philosophical Quarterly_, 37: 79–89.
-* –––, 2004, _Real Natures and Familiar Objects_, Cambridge: MIT Press.
-* –––, 2007, ‘On the Phenomenon of “Dog-Wise Arrangement”’, _Philosophy and Phenomenological Research_, 74: 132–155.
-* –––, 2008, ‘Against Universal Mereological Composition’, _Dialectica_, 62: 433–454.
-* –––, 2011, _Familiar Objects and Their Shadows_, Cambridge: Cambridge University Press.
-* Evans, Gareth, 1978, ‘Can There be Vague Objects?’, _Analysis_, 38: 208. Reprinted in Kim et al. 2011.
-* Evnine, Simon, 2016a, _Making Objects and Events: A Hylomorphic Theory of Artifacts, Actions, and Organisms_, Oxford University Press.
-* –––, 2016b, ‘Much Ado About Something-From-Nothing: Problems for Ontological Minimalism’, in Stephan Blatti and Sandra Lapointe (eds.), _Ontology After Carnap_, Oxford University Press, pp. 145–164.
-* Fairchild, Maegan, 2017, ‘A Paradox of Matter and Form’, _Thought_, 6: 33–42.
-* –––, 2019, ‘The Barest Flutter of the Smallest Leaf: Understanding Material Plenitude’, _Philosophical Review_, 128: 143–178.
-* Fairchild, Maegan and John Hawthorne, 2018, ‘Against Conservatism in Metaphysics’, _Royal Institute of Philosophy Supplement_, 82: 45–75.
-* Falls, Edward, forthcoming, ‘Composition as Identity, Universalism, and Generic Quantifiers’, _Erkenntnis_.
-* Fara, Delia Graff, 2008, ‘Relative-Sameness Counterpart Theory’, _Review of Symbolic Logic_, 1: 167–189.
-* –––, 2012, ‘Possibility Relative to a Sortal’, _Oxford Studies in Metaphysics_, 7: 3–40.
-* Fine, Kit, 1982, ‘Acts, Events, and Things’, in W. Leinfellner, E. Kraemer, and J. Schank (eds.), _Language and Ontology_, Vienna: Hölder-Pichler-Tempsky, pp. 97–105.
-* –––, 1999, ‘Things and Their Parts’, _Midwest Studies in Philosophy_, 23: 61–74.
-* –––, 2000, ‘A Counter-example to Locke’s Thesis’, _The Monist_, 83: 357–361.
-* –––, 2003, ‘The Non-identity of a Thing and its Matter’, _Mind_, 112: 195–234.
-* –––, 2006, ‘Arguing for Non-Identity: A Response to King and Frances’, _Mind_, 115: 1059–1082.
-* –––, 2008, ‘Coincidence and Form’, _Proceedings of the Aristotelian Society_, 82: 101–118.
-* –––, 2009, The Question of Ontology, in David J. Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 157–177.
-* Frances, Bryan, 2006, ‘The New Leibniz’s Law Arguments for Pluralism’, _Mind_, 115: 1007–1021.
-* Francescotti, Robert, 2019, ‘Maximality, Function, and the Many’, _Metaphysica_, 20: 175–193.
-* French, Steven, 2010, ‘The Interdependence of Structure, Objects and Dependence’, _Synthese_, 175: 89–109.
-* –––, 2014, _The Structure of the World: Metaphysics and Representation_, Oxford: Oxford University Press.
-* Gabriel, John, 2017, ‘Particularism About Composition’, _Ratio_ 30: 15–30.
-* Gallois, André, 2004, ‘Comments on Ted Sider: Four Dimensionalism’, _Philosophy and Phenomenological Research_, 67: 648–657.
-* Gauker, Christopher, 1986, ‘The Principle of Charity’, _Synthese_, 69: 1–25.
-* Geach, Peter T., 1980, _Reference and Generality_, 3rd edition, Ithaca: Cornell.
-* Gibbard, Allan, 1975, ‘Contingent Identity’, _Journal of Philosophical Logic_, 4: 187–221. Reprinted in Rea 1997a and in Kim et al. 2011.
-* Giberman, Daniel, 2015a, ‘Junky-Non-Worlds’, _Erkenntnis_, 80: 437–443.
-* –––, 2015b, ‘A Topological Theory of Fundamental Concrete Particulars’, _Philosophical Studies_, 172: 2679–2704.
-* –––, 2019, ‘Plurdurance’, _Philosophers’ Imprint_, 19: 1–19.
-* Gilmore, Cody, 2010, ‘Sider, the Inheritance of Intrinsicality, and Theories of Composition’, _Philosophical Studies_, 151: 177–197.
-* Ginet, Carl, 1985, ‘Plantinga and the Philosophy of Mind’, in James E. Tomberlin and Peter van Inwagen (eds.), _Alvin Plantinga_, Dordrecht: D. Reidel, pp. 199–223.
-* Goff, Philip, 2012, ‘There is More than One Thing’, in Philip Goff (ed.), _Spinoza on Monism_, Palgrave-Macmillan, pp. 113–22.
-* Goldwater, Jonah P. B., 2015, ‘No Composition, No Problem: Ordinary Objects as Arrangements’, _Philosophia_ 43: 367–379.
-* –––, 2018, ‘Physicalism and the Sortalist Conception of Objects’, _Synthese_, 195: 5497–5519.
-* –––, forthcoming a, ‘How Many There Are Isn’t’, _Philosophia_.
-* –––, forthcoming b, ‘The Lump and the Ledger: Material Coincidence at Little-to-No Cost’, _Erkenntnis_.
-* Goodman, Nelson, 1978, _Ways of Worldmaking_, Indianapolis: Hackett.
-* Goodman, Nelson and W. V. Quine, 1947, ‘Steps Towards a Constructive Nominalism’, _Journal of Symbolic Logic_, 12: 105–122.
-* Goswick, Dana, 2018a, ‘The Hard Question for Hylomorphism’, _Metaphysics_, 1: 52–62.
-* –––, 2018b, ‘Review of _Ontology Made Easy_’, _Philosophical Review_, 127: 145–149.
-* Graham, Andrew, 2015, ‘From Four- to Five-Dimensionalism’, _Ratio_, 28: 14–28.
-* Grandy, Richard, 1973, ‘Reference, Meaning, and Belief’, _The Journal of Philosophy_, 70: 439–452.
-* Grupp, Jeffrey, 2006, ‘Mereological Nihilism: Quantum Atomism and the Impossibility of Material Constitution’, _Axiomathes_, 16: 245–386.
-* Guillon, Jean-Baptiste, forthcoming, ‘Coincidence as Parthood’, _Synthese_.
-* Harte, Verity, 2002, _Plato on Parts and Wholes_, Oxford: Clarendon Press.
-* Hawley, Katherine, 2001, _How Things Persist_, Oxford: Oxford University Press.
-* –––, 2002, ‘Vagueness and Existence’, _Proceedings of the Aristotelian Society_, 102: 125–140.
-* –––, 2004, ‘Borderline Simple or Extremely Simple’, _The Monist_, 87: 385–404.
-* –––, 2006, ‘Principles of Composition and Criteria of Identity’, _Australasian Journal of Philosophy_, 83: 481–493.
-* Hawthorne, John, 2006, _Metaphysical Essays_, Oxford: Oxford University Press.
-* –––, 2009, ‘Superficialism in Ontology’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 213–230.
-* Hawthorne, John and Andrew Cortens, 1995, ‘Towards Ontological Nihilism’, _Philosophical Studies_, 79: 143–165.
-* Hawthorne, John and Michaelis Michael, 1996, ‘Compatibilist Semantics in Metaphysics: A Case Study’, _Australasian Journal of Philosophy_, 74: 117–134.
-* Heil, John, 2003, _From an Ontological Point of View_, Oxford: Oxford University Press.
-* Heller, Mark, 1984, ‘Temporal Parts of Four Dimensional Objects’, _Philosophical Studies_, 46: 323–334.
-* –––, 1990, _The Ontology of Physical Objects: Four-Dimensional Hunks of Matter_, New York: Cambridge University Press. “Temporal Parts of Four-Dimensional Objects” (Ch. 1) is reprinted in Kim et al. 2011.
-* –––, 1993, ‘Varieties of Four Dimensionalism’, _Australasian Journal of Philosophy_, 71: 47–59.
-* –––, 2000, ‘Temporal Overlap Is Not Coincidence’, _The Monist_, 83: 362–380.
-* –––, 2008, ‘The Donkey Problem’, _Philosophical Studies_, 140: 83–101.
-* Hershenov, David, 2003, ‘Can There be Spatially Coincident Entities of the Same Kind?’, _Canadian Journal of Philosophy_, 33: 1–22.
-* Hestevold, H. Scott, 1981, ‘Conjoining’, _Philosophy and Phenomenological Research_, 41: 371–385.
-* Hirsch, Eli, 1976, ‘Physical Identity’, _The Philosophical Review_, 85: 357–389.
-* –––, 1978, ‘A Sense of Unity’, _The Journal of Philosophy_, 75: 470–494. Reprinted in Hirsch 2011.
-* –––, 1982, _The Concept of Identity_, Oxford: Oxford University Press.
-* –––, 1993, _Dividing Reality_, Oxford: Oxford University Press.
-* –––, 1999, ‘The Vagueness of Identity’, _Philosophical Topics_, 26: 139–159. Reprinted in Hirsch 2011.
-* –––, 2000, ‘Objectivity Without Objects’, _Proceedings of the World Congress of Philosophy_, 5: 189–197. Page references are to Hirsch 2011.
-* –––, 2002a, ‘Against Revisionary Ontology’, _Philosophical Topics_, 30: 103–127. Reprinted in Hirsch 2011 and in Kim et. al. 2011.
-* –––, 2002b, ‘Quantifier Variance and Realism’, _Philosophical Issues_, 12: 51–73. Reprinted in Hirsch 2011.
-* –––, 2004a, ‘Comments on Theodore Sider’s Four Dimensionalism’, _Philosophy and Phenomenological Research_, 68: 658–664. Reprinted in Hirsch 2011.
-* –––, 2004b, ‘Sosa’s Existential Relativism’, in John Greco (ed.), _Ernest Sosa and His Critics_, Malden: Blackwell Publishing, pp. 224–232. Page references are to Hirsch 2011.
-* –––, 2005, ‘Physical-Object Ontology, Verbal Disputes, and Common Sense’, _Philosophy and Phenomenological Research_, 70: 67–97. Reprinted in Hirsch 2011.
-* –––, 2008a, ‘Language, Ontology, and Structure’, _Noûs_, 42: 509–528.
-* –––, 2008b, ‘Ontological Arguments: Interpretive Charity and Quantifier Variance’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Oxford: Blackwell, pp. 367–381. Reprinted in Hirsch 2011.
-* –––, 2009, ‘Ontology and Alternative Languages’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 231–259. Reprinted in Hirsch 2011.
-* –––, 2011, _Quantifier Variance and Realism_, Oxford: Oxford University Press.
-* –––, 2013, ‘Charity to Charity’, _Philosophy and Phenomenological Research_, 86: 435–442.
-* Hobbes, Thomas, 1655, Part II of _De Corpore_ (“Concerning Body”).
-* Hoffman, Joshua and Gary S. Rosenkrantz, 1997, _Substance: Its Nature and Existence_, New York: Routledge.
-* Hofweber, Thomas, 2016, _Ontology and the Ambitions of Metaphysics_, Oxford: Oxford University Press.
-* –––, 2017, ‘Replies to Bennett, Rayo, and Sattig’, _Philosophy and Phenomenological Research_, 94: 488–504.
-* –––, 2019, ‘Empirical Evidence and the Metaphysics of Ordinary Objects’, in Javier Cumpa and Bill Brewer (eds.), _The Nature of Ordinary Objects_, Cambridge: Cambridge University Press, pp. 27–47.
-* Holden, Thomas, 2004, _The Architecture of Matter_, Oxford: Oxford University Press.
-* Horden, John, 2014, ‘Ontology in Plain English’, _Philosophical Quarterly_, 255: 225–242.
-* –––, 2017, ‘Devious Stipulations’, _Oxford Studies in Metaphysics_ 10: 63–73.
-* Horgan, Terence, 1991, ‘Metaphysical Realism and Psychologistic Semantics’, _Erkenntnis_, 34: 297–322.
-* –––, 1993, ‘On What There Isn’t’, _Philosophy and Phenomenological Research_, 53: 693–700.
-* Horgan, Terence and Matjaž Potrč, 2000, ‘Blobjectivism and Indirect Correspondence’, _Facta Philosophica_, 2: 249–270.
-* –––, 2008, _Austere Realism: Contextual Semantics Meets Minimal Ontology_, Cambridge: MIT Press.
-* –––, 2012, ‘Existence Monism Trumps Priority Monism’, in Philip Goff (ed.), _Spinoza on Monism_, Palgrave-Macmillan, pp. 51–76.
-* Hossack, Keith, 2000, ‘Plurals and Complexes’, _British Journal for Philosophy of Science_, 51: 411–443.
+* Almotahari, Mahrad, 2014, ‘The Identity of a Material Thing and its Matter’, *Philosophical Quarterly*, 64: 387–406.
+* –––, 2017, ‘‘Not’ Again! Another Essay on the Metaphysics of Material Objects’, *Philosophy and Phenomenological Research*, 94: 711–737.
+* Antony, Michael V., 2006, ‘Vagueness and the Metaphysics of Consciousness’, *Philosophical Studies*, 128: 515–538.
+* –––, 2008, ‘Are Our Concepts *Conscious State* and *Conscious Creature* Vague?’, Erkenntnis, 68: 239–263.
+* Armstrong, David M., 1978, *Universals and Scientific Realism* (Volume 1), Cambridge: Cambridge University Press.
+* –––, 1997, *A World of States of Affairs*, New York: Cambridge University Press.
+* Árnadóttir, Steinvör Thöll, 2015, ‘Overdetermination and Elimination’, *International Journal of Philosophical Studies* 23: 479–503.
+* Ayers, Michael R., 1974, ‘Individuals without Sortals’, *Canadian Journal of Philosophy*, 4: 113–148.
+* Azzouni, Jody, 2017, *Ontology Without Borders*, Oxford: Oxford University Press.
+* Bagwell, Jeffrey N., forthcoming, ‘Eliminativism and Evolutionary Debunking’, *Ergo*.
+* Bailey, Andrew M., 2011, ‘The Incompatibility of Composition as Identity, Priority Pluralism, and Irreflexive Grounding’, *Analytic Philosophy*, 52: 171–174.
+* –––, 2016, ‘Composition and the Cases’, *Inquiry*, 59:453–470.
+* Baker, Lynne Rudder, 1997, ‘Why Constitution is not Identity,’ *The Journal of Philosophy*, 94: 599–621.
+* –––, 2000, *Persons and Bodies*, Cambridge: Cambridge University Press.
+* –––, 2003, ‘Review of *Objects and Persons*’, *Australasian Journal of Philosophy*, 81: 97–98.
+* –––, 2007, *The Metaphysics of Everyday Life*, Cambridge: Cambridge University Press.
+* Balaguer, Mark, 2018, ‘Why the Debate about Composition is Factually Empty’, *Synthese*, 195: 3975–4008.
+* Balashov, Yuri, 2005, ‘On Vagueness, 4D and Diachronic Universalism’, *Australasian Journal of Philosophy*, 83: 523–531.
+* –––, 2007, ‘About Stage Universalism’, *Philosophical Quarterly*, 57: 21–39.
+* Barker, Jonathan, forthcoming, ‘Debunking Arguments and Metaphysical Laws’, *Philosophical Studies*.
+* Barker, Stephen and Mark Jago, 2014, ‘Monism and Material Constitution’, *Pacific Philosophical Quarterly*, 95: 189–204.
+* –––, 2018, ‘Material Objects and Essential Bundle Theory’, *Philosophical Studies* 175: 2969–2986.
+* Barnes, Elizabeth, 2005, ‘Vagueness in Sparseness: A Study in Property Ontology’, *Analysis*, 65: 315–321.
+* –––, 2007, ‘Vagueness and Arbitrariness: Merricks on Composition’, *Mind*, 116: 105–113.
+* –––, 2013, ‘Metaphysically Indeterminate Existence’, *Philosophical Studies*, 166: 495–510.
+* Båve, Arvid, 2011, ‘How To Precisify Quantifiers’, *Journal of Philosophical Logic*, 40: 103–111.
+* Baxter, Donald L. M., 1988, ‘Many-One Identity’, *Philosophical Papers*, 17: 193–216.
+* Beebee, Helen, 2017, ‘Do Ordinary Objects Exist? Yes’, in Elizabeth Barnes (ed.), *Current Controversies in Metaphysics*, New York: Routledge, pp. 149–163.
+* Belleri, Delia, 2018, ‘Two Species of Merely Verbal Disputes’, *Metaphilosophy*, 49: 691–710.
+* Bennett, Karen, 2004, ‘Spatio-Temporal Coincidence and the Grounding Problem’, *Philosophical Studies*, 118: 339–371.
+* –––, 2009, ‘Composition, Colocation, and Metaontology’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 38–76.
+* Benovsky, Jiri, 2015, ‘From Experience to Metaphysics’, *Noûs* 49: 684–697.
+* –––, 2018, *Eliminativism, Objects, and Persons*, New York: Routledge.
+* Bernstein, Sara, 2016, ‘Overdetermination Underdetermined’, *Erkenntnis* 81: 17–40.
+* Bigelow, John and Robert Pargetter, 2006, ‘Real Work for Aggregates’, *Dialectica*, 60: 485–503.
+* Biro, John, 2017, ‘Saving the Ship’, *European Journal of Analytic Philosophy*, 13: 43–54.
+* –––, 2018, ‘Constitution and Identity’, *Erkenntnis* 83: 1127–1138.
+* Bohn, Einar D., 2009a, ‘An Argument Against the Necessity of Unrestricted Composition’, *Analysis*, 69: 27–31.
+* –––, 2009b, ‘Must There Be a Top Level?’, *Philosophical Quarterly*, 59: 193–201.
+* Bowers, Jason, 2019, ‘A Teleological Answer to the Special Composition Question’, *Dialectica*, 73: 231–246.
+* Braddon-Mitchell, David and Kristie Miller, 2006, ‘Talking about a Universalist World’, *Philosophical Studies*, 130: 499–534.
+* Brenner, Andrew, 2015a, ‘Mereological Nihilism and Theoretical Unification’, *Analytic Philosophy*, 56: 318–337.
+* –––, 2015b, ‘Mereological Nihilism and the Special Arrangement Question’, *Synthese* 192: 1295–1314.
+* –––, 2017, ‘Mereological Nihilism and Personal Ontology’, *Philosophical Quarterly*, 67: 464–485.
+* –––, 2018a, ‘Easy Ontology, Application Conditions and Infinite Regress’, *Analysis*, 78: 605–614.
+* –––, 2018b, ‘Science and the Special Composition Question’, *Synthese* 195: 657–678.
+* –––, forthcoming, ‘Mereology and Ideology’, *Synthese*.
+* Bricker, Phillip, 2016, ‘Composition as a Kind of Identity’, *Inquiry*, 59: 264–294.
+* Brzozowski, Jacek, 2016, ‘Monism and Gunk’, in Mark Jago (ed.), *Reality Making*, Oxford: Oxford University Press, pp. 57–74.
+* Builes, David, forthcoming, ‘The World Just Is the Way It Is’, *The Monist*.
+* Burke, Michael B., 1980, ‘Cohabitation, Stuff and Intermittent Existence’, *Mind* 89: 391–405.
+* –––, 1992, ‘Copper Statues and Pieces of Copper: A Challenge to the Standard Account’, *Analysis*, 52: 12–17.
+* –––, 1994a, ‘Dion and Theon: An Essentialist Solution to an Ancient Puzzle’, *The Journal of Philosophy*, 91: 129–139.
+* –––, 1994b, ‘Preserving the Principle of One Object to a Place’, *Philosophy and Phenomenological Research*, 54: 591–624. Reprinted in Rea 1997a.
+* –––, 1996, ‘Tibbles the Cat: A Modern Sophisma’, *Philosophical Studies*, 84: 63–74.
+* –––, 1997, ‘Coinciding Objects: Reply to Lowe and Denkel’, *Analysis*, 57: 11–18.
+* –––, 2003, ‘Is My Head a Person?’, in K. Petrus (ed.), *On Human Persons*, Frankfurt: Ontos Verlag, pp. 107–125.
+* –––, 2004, ‘Dion, Theon, and the Many-Thinkers Problem’, *Analysis*, 64: 242–250.
+* Button, Tim, 2020, ‘Deflationary Metaphysics and Ordinary Language, *Synthese*, 197: 33–57.
+* Byrne, Alex, 2019, ‘Perception and Ordinary Objects’, in Javier Cumpa and Bill Brewer (eds.), *The Nature of Ordinary Objects*, Cambridge: Cambridge University Press, pp. 6–26.
+* Calosi, Claudio, 2016, ‘Composition is Identity and Mereological Nihilism’, *Philosophical Quarterly* 66: 219–235.
+* Cameron, Ross P., 2007, ‘The Contingency of Composition’, *Philosophical Studies*, 136: 99–121.
+* –––, 2008a, ‘There Are No Things That Are Music Works’, *British Journal of Aesthetics*, 48: 295–314.
+* –––, 2008b, ‘Truthmakers and Necessary Connections’, *Synthese*, 161: 27–45.
+* –––, 2008c, ‘Truthmakers and Ontological Commitment’, *Philosophical Studies*, 140: 1–18.
+* –––, 2010a, ‘How to Have a Radically Minimal Ontology’, *Philosophical Studies*, 151: 249–264.
+* –––, 2010b, ‘Quantification, Naturalness and Ontology’, in Allan Hazlett (ed.), *New Waves in Metaphysics*, New York: Palgrave-Macmillan, pp. 8–26.
+* –––, 2010c, ‘Vagueness and Naturalness’, *Erkenntnis*, 72: 281–293.
+* –––, 2012, ‘Composition as Identity Doesn’t Settle the Special Composition Question’, *Philosophy and Phenomenological Research*, 84: 531–554.
+* –––, 2014, ‘Parts Generate the Whole, But They Are Not Identical To It’, in A. J. Cotnoir and Donald L. M. Baxter (eds.), *Composition as Identity*, Oxford: Oxford University Press, pp. 90–107.
+* Campdelacreu, Marta, 2010, ‘Naturalness, Vagueness, and Sortals’, *Metaphysica*, 11: 79–91.
+* Carmichael, Chad, 2011, ‘Vague Composition Without Vague Existence’, *Noûs*, 45: 315–327.
+* –––, 2015, ‘Toward a Commonsense Answer to the Special Composition Question’, *Australasian Journal of Philosophy*, 93: 475–490.
+* –––, 2016, ‘Deep Platonism’, *Philosophy and Phenomenological Research* 92: 307–328.
+* –––, 2020, ‘How to Solve the Puzzle of Dion and Theon Without Losing Your Head’, *Mind*, 129: 205–224.
+* Carrara, Massimiliano and Giorgio Lando, 2017, ‘Composition and Relative Counting’, *Dialectica*, 71: 489–529.
+* Carroll, John W. and William R. Carter, 2005, ‘An Unstable Eliminativism’, *Pacific Philosophical Quarterly*, 86: 1–17.
+* Carter, William R., 1983, ‘In Defense of Undetached Parts’, *Pacific Philosophical Quarterly*, 64: 126–143.
+* Cartwright, Richard, 1975, ‘Scattered Objects’, in Keith Lehrer (ed.), *Analysis and Metaphysics*, Boston: Reidel Publishing Company, pp. 153–171.
+* Caves, Richard L. J., 2018, ‘Emergence for Nihilists’, *Pacific Philosophical Quarterly*, 99: 2–28.
+* Chalmers, David, 2009, ‘Ontological Anti-Realism’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 77–129.
+* Chihara, Charles S., 1994, ‘The Many Persons Problem’, *Philosophical Studies*, 76: 45–49.
+* Chisholm, Roderick M., 1973, ‘Parts as Essential to Their Wholes’, *Review of Metaphysics*, 26: 581–603.
+* –––, 1976, *Person and Object*, London: George Allen and Unwin Ltd. “Identity Through Time” (Ch. 3) is reprinted in Kim et al. 2011.
+* –––, 1986, ‘Self-Profile’, in Radu J. Bogdan (ed.), *Roderick M. Chisholm*, Dordrecht: D. Reidel, pp. 3–77.
+* Colyvan, Mark, 1998, ‘Can the Eleatic Principle be Justified?’, *Canadian Journal of Philosophy*, 28: 313–336.
+* Comesaña. Juan, 2008, ‘Could There Be Exactly Two Things?’, *Synthese*, 162: 31–35.
+* Contessa, Gabriele, 2012, ‘The Junk Argument: Safe Disposal Guidelines for Mereological Universalists’, *Analysis*, 72: 455–457.
+* –––, 2014, ‘One’s a Crowd: Mereological Nihilism Without Ordinary-Object Eliminativism’, *Analytic Philosophy*, 55: 199–221.
+* Corcoran, Kevin J., 1999, ‘Persons, Bodies, and the Constitution Relation’, *Southern Journal of Philosophy*, 37: 1–20.
+* Cornell, David, 2016, ‘Taking Monism Seriously’, *Philosophical Studies* 173: 2397–2415.
+* Cotnoir, Aaron J., 2010, ‘Antisymmetry and Non-Extensional Mereology’, *Philosophical Quarterly*, 60: 396–405.
+* –––, 2013a, ‘Composition as General Identity’, *Oxford Studies in Metaphysics*, 8: 295–322.
+* –––, 2013b, ‘Parts as Counterparts’, *Thought*, 2: 228–241.
+* –––, 2014, ‘Universalism and Junk’, *Australasian Journal of Philosophy*, 92: 649–664.
+* –––, 2016a, ‘Does Universalism Entail Extensionalism?’, *Noûs* 50: 121–132.&#x20;
+* –––, 2016b, ‘How Many Angels Can Be in the Same Place at the Same Time? A Defense of Mereological Universalism’, *Mind* 125: 959–965.&#x20;
+* Cotnoir, Aaron J. and Donald L. M. Baxter, 2014, *Composition as Identity*, Oxford: Oxford University Press.
+* Cowling, Sam, 2013, ‘Ideological Parsimony’, *Synthese*, 190: 3889–3908.
+* –––, 2014, ‘No Simples, No Gunk, No Nothing’, *Pacific Philosophical Quarterly*, 95: 246–60.
+* –––, 2015, ‘Advice for Eleatics’, in Chris Daly (ed.), *Palgrave Handbook of Philosophical Methods*, Palgrave, pp. 306–330.
+* Crane, Judith K., 2012, ‘Biological–Mereological Coincidence’, *Philosophical Studies*, 161: 309–325.
+* Cray, Wesley, 2014, ‘Inconstancy and Content’, *Dialectica*, 68: 337–353.
+* Daly, Chris and David Liggins, 2010, ‘In Defence of Error Theory’, *Philosophical Studies* 149: 209–230.
+* –––, 2016a, ‘Dorr on the Language of Ontology’, *Philosophical Studies*, 173: 3301–3315.
+* –––, 2016b, ‘Is Ontological Revisionism Uncharitable?’, *Canadian Journal of Philosophy*, 46: 405–425.
+* Dasgupta, Shamik, 2009, ‘Individuals: An Essay in Revisionary Metaphysics’, *Philosophical Studies*, 145: 35–67.
+* –––, 2018, ‘Essentialism and the Nonidentity Problem’, *Philosophy and Phenomenological Research* 96: 540–570.
+* Davidson, Donald, 1974, ‘On the Very Idea of a Conceptual Scheme’, *Proceedings and Addresses of the American Philosophical Association*, 47: 5–20.
+* –––, 1989/2008, ‘A Coherence Theory of Truth and Knowledge’, in Ernest Sosa, Jaegwon Kim, Jeremy Fantl, and Matthew McGrath (eds.), *Epistemology: An Anthology*, Malden: Blackwell, pp. 124–133.
+* Denkel, Arda, 1995, ‘Theon’s Tale: Does a Cambridge Change Result in a Substantial Change?’, *Analysis*, 55: 166–170.
+* deRosset, Louis, 2011, ‘What is the Grounding Problem?’, *Philosophical Studies*, 156: 173–197.
+* –––, 2015, ‘Analyticity and Ontology’, *Oxford Studies in Metaphysics* 9: 129–170.
+* –––, forthcoming, ‘What is Conservatism?’, *Analysis*.
+* Dershowitz, Naomi, forthcoming, ‘Nihilism, but Not Necessarily’, *Erkenntnis*.
+* Devitt, Michael and Kim Sterelny, 1999, *Language and Reality*, Cambridge: MIT Press.
+* Doepke, Fred, 1982, ‘Spatially Coinciding Objects’, *Ratio*, 24: 45–60. Reprinted in Rea 1997a.
+* –––, 1986a, ‘In Defence of Locke’s Principle: a Reply to Peter M. Simons’, *Mind*, 95: 238–241.
+* –––, 1986b, ‘The Trees of Constitution’, *Philosophical Studies*, 49: 385–392.
+* Donnelly, Maureen, 2009, ‘Mereological Vagueness and Existential Vagueness’, *Synthese*, 168: 53–79.
+* –––, 2014, ‘A Linguistic Account of Mereological Vagueness’, in Akiba, Ken and Ali Abasnezhad (eds.), *Vague Objects and Vague Identity*, Dordrecht: Springer, pp. 43–65.
+* Dorr, Cian, 2003, ‘Merricks on the Existence of Human Organisms’, *Philosophy and Phenomenological Research*, 67: 711–718.
+* –––, 2005, ‘What We Disagree About When We Disagree About Ontology’, in Mark Kalderon (ed.), *Fictionalism in Metaphysics*, Oxford: Oxford University Press, pp. 234–286.
+* –––, 2008, ‘There are no Abstract Objects’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Malden: Blackwell, pp. 32–63.
+* Dowland, S. Clint, 2016, ‘Embodied Mind Sparsism’, *Philosophical Studies* 173: 1853–1872.
+* Dyke, Heather, 2008, *Metaphysics and the Representational Fallacy*, New York: Routledge.
+* Effingham, Nikk, 2009, ‘Universalism, Vagueness, and Supersubstantivalism’, *Australasian Journal of Philosophy*, 87: 35–42.
+* –––, 2011a, ‘Sider, Hawley, Sider and the Vagueness Argument’, *Philosophical Studies*, 154: 241–250.
+* –––, 2011b, ‘Undermining Motivations for Universalism’, *Noûs*, 45: 696–713.
+* –––, 2011c, ‘Universalism and Classes’, *Dialectica*, 65: 451–472.
+* Einheuser, Iris, 2006, ‘Counterconventional Conditionals’, *Philosophical Studies*, 127: 459–482.
+* –––, 2011, ‘Toward a Conceptualist Solution of the Grounding Problem’, *Noûs*, 45: 300–314.
+* Eklund, Matti, 2002, ‘Peter van Inwagen on Material Beings’, *Ratio*, 15: 245–256.
+* –––, 2005, ‘Fiction, Indifference, and Ontology’, *Philosophy and Phenomenological Research*, 71: 557–579.
+* –––, 2006, ‘Neo-Fregean Ontology’, *Philosophical Perspectives*, 20: 95–121.
+* –––, 2008, ‘The Picture of Reality as an Amorphous Lump’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Malden: Blackwell, pp. 382–396.
+* –––, 2020, ‘The Existence of Personites’, *Synthese*, 177: 2051–2071.
+* Elder, Crawford L., 2000, ‘Familiar Objects and the Sorites of Decomposition’, *American Philosophical Quarterly*, 37: 79–89.
+* –––, 2004, *Real Natures and Familiar Objects*, Cambridge: MIT Press.
+* –––, 2007, ‘On the Phenomenon of “Dog-Wise Arrangement”’, *Philosophy and Phenomenological Research*, 74: 132–155.
+* –––, 2008, ‘Against Universal Mereological Composition’, *Dialectica*, 62: 433–454.
+* –––, 2011, *Familiar Objects and Their Shadows*, Cambridge: Cambridge University Press.
+* Evans, Gareth, 1978, ‘Can There be Vague Objects?’, *Analysis*, 38: 208. Reprinted in Kim et al. 2011.
+* Evnine, Simon, 2016a, *Making Objects and Events: A Hylomorphic Theory of Artifacts, Actions, and Organisms*, Oxford University Press.
+* –––, 2016b, ‘Much Ado About Something-From-Nothing: Problems for Ontological Minimalism’, in Stephan Blatti and Sandra Lapointe (eds.), *Ontology After Carnap*, Oxford University Press, pp. 145–164.
+* Fairchild, Maegan, 2017, ‘A Paradox of Matter and Form’, *Thought*, 6: 33–42.
+* –––, 2019, ‘The Barest Flutter of the Smallest Leaf: Understanding Material Plenitude’, *Philosophical Review*, 128: 143–178.
+* Fairchild, Maegan and John Hawthorne, 2018, ‘Against Conservatism in Metaphysics’, *Royal Institute of Philosophy Supplement*, 82: 45–75.
+* Falls, Edward, forthcoming, ‘Composition as Identity, Universalism, and Generic Quantifiers’, *Erkenntnis*.
+* Fara, Delia Graff, 2008, ‘Relative-Sameness Counterpart Theory’, *Review of Symbolic Logic*, 1: 167–189.
+* –––, 2012, ‘Possibility Relative to a Sortal’, *Oxford Studies in Metaphysics*, 7: 3–40.
+* Fine, Kit, 1982, ‘Acts, Events, and Things’, in W. Leinfellner, E. Kraemer, and J. Schank (eds.), *Language and Ontology*, Vienna: Hölder-Pichler-Tempsky, pp. 97–105.
+* –––, 1999, ‘Things and Their Parts’, *Midwest Studies in Philosophy*, 23: 61–74.
+* –––, 2000, ‘A Counter-example to Locke’s Thesis’, *The Monist*, 83: 357–361.
+* –––, 2003, ‘The Non-identity of a Thing and its Matter’, *Mind*, 112: 195–234.
+* –––, 2006, ‘Arguing for Non-Identity: A Response to King and Frances’, *Mind*, 115: 1059–1082.
+* –––, 2008, ‘Coincidence and Form’, *Proceedings of the Aristotelian Society*, 82: 101–118.
+* –––, 2009, The Question of Ontology, in David J. Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 157–177.
+* Frances, Bryan, 2006, ‘The New Leibniz’s Law Arguments for Pluralism’, *Mind*, 115: 1007–1021.
+* Francescotti, Robert, 2019, ‘Maximality, Function, and the Many’, *Metaphysica*, 20: 175–193.
+* French, Steven, 2010, ‘The Interdependence of Structure, Objects and Dependence’, *Synthese*, 175: 89–109.
+* –––, 2014, *The Structure of the World: Metaphysics and Representation*, Oxford: Oxford University Press.
+* Gabriel, John, 2017, ‘Particularism About Composition’, *Ratio* 30: 15–30.
+* Gallois, André, 2004, ‘Comments on Ted Sider: Four Dimensionalism’, *Philosophy and Phenomenological Research*, 67: 648–657.
+* Gauker, Christopher, 1986, ‘The Principle of Charity’, *Synthese*, 69: 1–25.
+* Geach, Peter T., 1980, *Reference and Generality*, 3rd edition, Ithaca: Cornell.
+* Gibbard, Allan, 1975, ‘Contingent Identity’, *Journal of Philosophical Logic*, 4: 187–221. Reprinted in Rea 1997a and in Kim et al. 2011.
+* Giberman, Daniel, 2015a, ‘Junky-Non-Worlds’, *Erkenntnis*, 80: 437–443.
+* –––, 2015b, ‘A Topological Theory of Fundamental Concrete Particulars’, *Philosophical Studies*, 172: 2679–2704.
+* –––, 2019, ‘Plurdurance’, *Philosophers’ Imprint*, 19: 1–19.
+* Gilmore, Cody, 2010, ‘Sider, the Inheritance of Intrinsicality, and Theories of Composition’, *Philosophical Studies*, 151: 177–197.
+* Ginet, Carl, 1985, ‘Plantinga and the Philosophy of Mind’, in James E. Tomberlin and Peter van Inwagen (eds.), *Alvin Plantinga*, Dordrecht: D. Reidel, pp. 199–223.
+* Goff, Philip, 2012, ‘There is More than One Thing’, in Philip Goff (ed.), *Spinoza on Monism*, Palgrave-Macmillan, pp. 113–22.
+* Goldwater, Jonah P. B., 2015, ‘No Composition, No Problem: Ordinary Objects as Arrangements’, *Philosophia* 43: 367–379.
+* –––, 2018, ‘Physicalism and the Sortalist Conception of Objects’, *Synthese*, 195: 5497–5519.
+* –––, forthcoming a, ‘How Many There Are Isn’t’, *Philosophia*.
+* –––, forthcoming b, ‘The Lump and the Ledger: Material Coincidence at Little-to-No Cost’, *Erkenntnis*.
+* Goodman, Nelson, 1978, *Ways of Worldmaking*, Indianapolis: Hackett.
+* Goodman, Nelson and W. V. Quine, 1947, ‘Steps Towards a Constructive Nominalism’, *Journal of Symbolic Logic*, 12: 105–122.
+* Goswick, Dana, 2018a, ‘The Hard Question for Hylomorphism’, *Metaphysics*, 1: 52–62.
+* –––, 2018b, ‘Review of *Ontology Made Easy*’, *Philosophical Review*, 127: 145–149.
+* Graham, Andrew, 2015, ‘From Four- to Five-Dimensionalism’, *Ratio*, 28: 14–28.
+* Grandy, Richard, 1973, ‘Reference, Meaning, and Belief’, *The Journal of Philosophy*, 70: 439–452.
+* Grupp, Jeffrey, 2006, ‘Mereological Nihilism: Quantum Atomism and the Impossibility of Material Constitution’, *Axiomathes*, 16: 245–386.
+* Guillon, Jean-Baptiste, forthcoming, ‘Coincidence as Parthood’, *Synthese*.
+* Harte, Verity, 2002, *Plato on Parts and Wholes*, Oxford: Clarendon Press.
+* Hawley, Katherine, 2001, *How Things Persist*, Oxford: Oxford University Press.
+* –––, 2002, ‘Vagueness and Existence’, *Proceedings of the Aristotelian Society*, 102: 125–140.
+* –––, 2004, ‘Borderline Simple or Extremely Simple’, *The Monist*, 87: 385–404.
+* –––, 2006, ‘Principles of Composition and Criteria of Identity’, *Australasian Journal of Philosophy*, 83: 481–493.
+* Hawthorne, John, 2006, *Metaphysical Essays*, Oxford: Oxford University Press.
+* –––, 2009, ‘Superficialism in Ontology’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 213–230.
+* Hawthorne, John and Andrew Cortens, 1995, ‘Towards Ontological Nihilism’, *Philosophical Studies*, 79: 143–165.
+* Hawthorne, John and Michaelis Michael, 1996, ‘Compatibilist Semantics in Metaphysics: A Case Study’, *Australasian Journal of Philosophy*, 74: 117–134.
+* Heil, John, 2003, *From an Ontological Point of View*, Oxford: Oxford University Press.
+* Heller, Mark, 1984, ‘Temporal Parts of Four Dimensional Objects’, *Philosophical Studies*, 46: 323–334.
+* –––, 1990, *The Ontology of Physical Objects: Four-Dimensional Hunks of Matter*, New York: Cambridge University Press. “Temporal Parts of Four-Dimensional Objects” (Ch. 1) is reprinted in Kim et al. 2011.
+* –––, 1993, ‘Varieties of Four Dimensionalism’, *Australasian Journal of Philosophy*, 71: 47–59.
+* –––, 2000, ‘Temporal Overlap Is Not Coincidence’, *The Monist*, 83: 362–380.
+* –––, 2008, ‘The Donkey Problem’, *Philosophical Studies*, 140: 83–101.
+* Hershenov, David, 2003, ‘Can There be Spatially Coincident Entities of the Same Kind?’, *Canadian Journal of Philosophy*, 33: 1–22.
+* Hestevold, H. Scott, 1981, ‘Conjoining’, *Philosophy and Phenomenological Research*, 41: 371–385.
+* Hirsch, Eli, 1976, ‘Physical Identity’, *The Philosophical Review*, 85: 357–389.
+* –––, 1978, ‘A Sense of Unity’, *The Journal of Philosophy*, 75: 470–494. Reprinted in Hirsch 2011.
+* –––, 1982, *The Concept of Identity*, Oxford: Oxford University Press.
+* –––, 1993, *Dividing Reality*, Oxford: Oxford University Press.
+* –––, 1999, ‘The Vagueness of Identity’, *Philosophical Topics*, 26: 139–159. Reprinted in Hirsch 2011.
+* –––, 2000, ‘Objectivity Without Objects’, *Proceedings of the World Congress of Philosophy*, 5: 189–197. Page references are to Hirsch 2011.
+* –––, 2002a, ‘Against Revisionary Ontology’, *Philosophical Topics*, 30: 103–127. Reprinted in Hirsch 2011 and in Kim et. al. 2011.
+* –––, 2002b, ‘Quantifier Variance and Realism’, *Philosophical Issues*, 12: 51–73. Reprinted in Hirsch 2011.
+* –––, 2004a, ‘Comments on Theodore Sider’s Four Dimensionalism’, *Philosophy and Phenomenological Research*, 68: 658–664. Reprinted in Hirsch 2011.
+* –––, 2004b, ‘Sosa’s Existential Relativism’, in John Greco (ed.), *Ernest Sosa and His Critics*, Malden: Blackwell Publishing, pp. 224–232. Page references are to Hirsch 2011.
+* –––, 2005, ‘Physical-Object Ontology, Verbal Disputes, and Common Sense’, *Philosophy and Phenomenological Research*, 70: 67–97. Reprinted in Hirsch 2011.
+* –––, 2008a, ‘Language, Ontology, and Structure’, *Noûs*, 42: 509–528.
+* –––, 2008b, ‘Ontological Arguments: Interpretive Charity and Quantifier Variance’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Oxford: Blackwell, pp. 367–381. Reprinted in Hirsch 2011.
+* –––, 2009, ‘Ontology and Alternative Languages’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 231–259. Reprinted in Hirsch 2011.
+* –––, 2011, *Quantifier Variance and Realism*, Oxford: Oxford University Press.
+* –––, 2013, ‘Charity to Charity’, *Philosophy and Phenomenological Research*, 86: 435–442.
+* Hobbes, Thomas, 1655, Part II of *De Corpore* (“Concerning Body”).
+* Hoffman, Joshua and Gary S. Rosenkrantz, 1997, *Substance: Its Nature and Existence*, New York: Routledge.
+* Hofweber, Thomas, 2016, *Ontology and the Ambitions of Metaphysics*, Oxford: Oxford University Press.
+* –––, 2017, ‘Replies to Bennett, Rayo, and Sattig’, *Philosophy and Phenomenological Research*, 94: 488–504.
+* –––, 2019, ‘Empirical Evidence and the Metaphysics of Ordinary Objects’, in Javier Cumpa and Bill Brewer (eds.), *The Nature of Ordinary Objects*, Cambridge: Cambridge University Press, pp. 27–47.
+* Holden, Thomas, 2004, *The Architecture of Matter*, Oxford: Oxford University Press.
+* Horden, John, 2014, ‘Ontology in Plain English’, *Philosophical Quarterly*, 255: 225–242.
+* –––, 2017, ‘Devious Stipulations’, *Oxford Studies in Metaphysics* 10: 63–73.
+* Horgan, Terence, 1991, ‘Metaphysical Realism and Psychologistic Semantics’, *Erkenntnis*, 34: 297–322.
+* –––, 1993, ‘On What There Isn’t’, *Philosophy and Phenomenological Research*, 53: 693–700.
+* Horgan, Terence and Matjaž Potrč, 2000, ‘Blobjectivism and Indirect Correspondence’, *Facta Philosophica*, 2: 249–270.
+* –––, 2008, *Austere Realism: Contextual Semantics Meets Minimal Ontology*, Cambridge: MIT Press.
+* –––, 2012, ‘Existence Monism Trumps Priority Monism’, in Philip Goff (ed.), *Spinoza on Monism*, Palgrave-Macmillan, pp. 51–76.
+* Hossack, Keith, 2000, ‘Plurals and Complexes’, *British Journal for Philosophy of Science*, 51: 411–443.
 * Howard-Snyder, Frances, 1997, ‘De Re Modality Entails De Re Vagueness’, in Rea 1997a, pp. 290–301.
-* Hudson, Hud, 2000, ‘Universalism, Four Dimensionalism, and Vagueness’, _Philosophy and Phenomenological Research_, 60: 547–560.
-* –––, 2001, _A Materialist Metaphysics of the Human Person_, Ithaca: Cornell University Press.
-* –––, 2006, ‘Confining Composition’, _The Journal of Philosophy_, 103: 631–651.
-* –––, 2007, ‘Simples and Gunk’, _Philosophy Compass_, 2: 291–302.
-* Hughes, Christopher, 1997, ‘Same-Kind Coincidence and the Ship of Theseus’, _Mind_, 106: 53–67.
-* Inman, Ross, 2014, ‘Neo-Aristotelian Plenitude’, _Philosophical Studies_, 168: 583–597.
-* –––, 2018, _Substance and the Fundamentality of the Familiar_, New York: Routledge.
-* Jackson, Brendan Balcerak, 2013, ‘Metaphysics, Verbal Disputes and the Limits of Charity’, _Philosophy and Phenomenological Research_, 86: 412–434.
-* Jago, Mark, 2016, ‘Essence and the Grounding Problem’, in Mark Jago (ed.), _Reality Making_, Oxford University Press, pp. 99–120.
-* Johnston, Mark, 1992, ‘Constitution Is Not Identity’, _Mind_, 101: 89–105.
-* –––, 2006, ‘Hylomorphism’, _The Journal of Philosophy_, 103: 652–698.
-* –––, 2016, ‘The Personite Problem: Should Practical Reason Be Tabled?’, _Noûs_, 50: 617–644.
-* Jones, Nicholas K., 2015, ‘Multiple Constitution’, _Oxford Studies in Metaphysics_, 9: 217–261.
-* Joyce, Richard, 2006, _The Evolution of Morality_, Cambridge: MIT Press.
-* Jubien, Michael, 1993, _Ontology, Modality, and the Fallacy of Reference_, Cambridge: Cambridge University Press.
-* –––, 2001, ‘Thinking about Things’, _Philosophical Perspectives_, 15: 1–15.
-* Kantin, Holly, forthcoming, ‘Why Compositional Nihilism Dissolves Puzzles’, _Synthese_.
-* Keller, John A., 2015, ‘Paraphrase, Semantics, and Ontology’, _Oxford Studies in Metaphysics_ 10: 89–128.
-* Kelly, Thomas, 2008, ‘Common Sense as Evidence: Against Revisionary Ontology and Skepticism’, _Midwest Studies in Philosophy_, 32: 53–78.
-* Kim, Jaegwon, 1976, ‘Events as Property Exemplifications’, in M. Brand and D. Walton (eds.), _Action Theory_, Dordrecht: D. Reidel, pp. 159–177. Reprinted in Laurence and MacDonald 1998.
-* –––, 2005, _Physicalism, or Something Near Enough_, Princeton: Princeton University Press.
-* Kim, Jaegwon, Daniel Z. Korman, and Ernest Sosa, 2011, _Metaphysics: An Anthology_, 2nd Edition, Oxford: Blackwell Publishing.
-* King, Jeffrey C., 2006, ‘Semantics for Monists’, _Mind_, 115: 1023–1058.
-* Kitamura, Naoaki, 2016, ‘Defending Priority Views from the Gunk/Junk Argument’, _Philosophia_, 44: 155–165.
-* Kitsik, Eve, 2020, ‘Explication as a Strategy for Revisionary Philosophy’, _Synthese_, 197: 1035–1056.
-* Kment, Boris, 2014, _Modality and Explanatory Reasoning_, Oxford: Oxford University Press.
-* Korman, Daniel Z., 2008a, ‘Review of _Austere Realism_’, _Notre Dame Philosophical Reviews_.
-* –––, 2008b, ‘Unrestricted Composition and Restricted Quantification’, _Philosophical Studies_, 140: 319–334.
-* –––, 2009, ‘Eliminativism and the Challenge from Folk Belief’, _Noûs_, 43: 242–264.
-* –––, 2010b, ‘Strange Kinds, Familiar Kinds, and the Charge of Arbitrariness’, _Oxford Studies in Metaphysics_, 5: 119–144. Reprinted in Kim et al. 2011.
-* –––, 2011, ‘Review of _Familiar Objects and Their Shadows_’, _Notre Dame Philosophical Reviews_.
-* –––, 2014a, ‘Debunking Perceptual Beliefs about Ordinary Objects’, _Philosophers’ Imprint_, 14: 1–21.
-* –––, 2014b, ‘The Vagueness Argument Against Abstract Artifacts’, _Philosophical Studies_, 167: 57–71.
-* –––, 2015a, ‘Fundamental Quantification and the Language of the Ontology Room’, _Noûs_, 49: 298–321.
-* –––, 2015b, _Objects: Nothing Out of the Ordinary_, Oxford: Oxford University Press.
-* –––, 2015c, ‘Review of _The Double Lives of Objects_’, _Notre Dame Philosophical Reviews_.&#x20;
-* ––– 2019a), ‘Debunking Arguments in Metaethics and Metaphysics’, in Alvin Goldman and Brian McLaughlin (eds.), _Metaphysics and Cognitive Science_, Oxford: Oxford University Press, pp. 337–363.
-* –––, 2019b, ‘Easy Ontology Without Deflationary Metaontology’, _Philosophy and Phenomenological Research_ 99: 236–243.
-* –––, forthcoming, ‘Conservatism, Counterexamples, and Debunking’, _Analysis_.
-* Korman, Daniel Z. and Chad Carmichael, 2016, ‘Composition’, _Oxford Handbooks Online_.
-* –––, 2017, ‘What Do the Folk Think About Composition and Does It Matter?’, in David Rose (ed.), _Experimental Metaphysics_, London: Bloomsbury, pp.187–206.
-* Koslicki, Kathrin, 2003, ‘The Crooked Path from Vagueness to Four-Dimensionalism’, _Philosophical Studies_, 114: 107–134.
-* –––, 2007, ‘Towards a Neo-Aristotelian Mereology’, _Dialectica_, 61: 127–159.
-* –––, 2008, _The Structure of Objects_, Oxford: Oxford University Press.
-* –––, 2018a, _Form, Matter, Substance_, Oxford: Oxford University Press.
-* –––, 2018b, ‘Towards a Hylomorphic Solution to the Grounding Problem’, _Royal Institute of Philosophy Supplement_, 82: 333–364.
-* Kovacs, David Mark, 2010, ‘Is There a Conservative Solution to the Many Thinkers Problem?’, _Ratio_, 23: 275–290.
-* –––, forthcoming a, ‘How to be an Uncompromising Revisionary Ontologist’, _Synthese_.
-* –––, forthcoming b, ‘Intuitions about Objects: From Teleology to Elimination’, _Mind_.
-* Kriegel, Uriah, 2011, ‘Two Defenses of Common-Sense Ontology’, _Dialectica­_, 65: 177–204.
-* –––, 2008, ‘Composition as a Secondary Quality’, _Pacific Philosophical Quarterly_, 89: 359–383.
-* –––, 2013, ‘The Epistemological Challenge of Revisionary Metaphysics’, _Philosophers’ Imprint_, 13: 1–30.
-* Kripke, Saul, 1971, ‘Identity and Necessity’, in Milton K. Kunitz (ed.), _Identity and Individuation_, New York: New York University Press, pp. 135–164. Reprinted in Kim et al. 2011.
-* Kurtsal Steen, İrem, 2010, ‘Three-Dimensionalist’s Semantic Solution to Diachronic Vagueness’, _Philosophical Studies_, 150: 79–96.
-* –––, 2014, ‘Almost-Ontology: Why Epistemicism Cannot Help Us Avoid Unrestricted Composition or Diachronic Plenitude’, _Pacific Philosophical Quarterly_, 95: 130–139.
-* –––, 2019, ‘The Sorites Paradox in Metaphysics’, in Sergi Oms and Elia Zardini (eds.), _The Sorites Paradox_, Cambridge: Cambridge University Press, pp. 207–228.
-* Lando, Giorgio, 2017, _Mereology: A Philosophical Introduction_, London: Bloomsbury.
-* Laurence, Stephen and Cynthia MacDonald, 1998, _Contemporary Readings in the Foundations of Metaphysics_, Oxford: Blackwell.
-* Le Bihan, Baptiste, 2013, ‘Why a Gunk World is Compatible with Nihilism about Objects’, _Studia Philosophica Estonica_, 6: 1–14.
-* –––, 2015, ‘No Physical Particles for a Dispositional Monist’, _Philosophical Papers_ 44: 207–232.
-* –––, 2016, ‘Super-Relationism: Combining Eliminativism about Objects and Relationism about Spacetime’, _Philosophical Studies_ 173: 2151–2172.
-* Lechthaler, Manuel, forthcoming, ‘No Universalism without Gunk? Composition as Identity and the Universality of Identity’, _Synthese_.
-* Leonard, Henry S. and Nelson Goodman, 1940, ‘The Calculus of Individuals and Its Uses’, _Journal of Symbolic Logic_, 5: 45–55.
-* Leslie, Sarah-Jane, 2011, ‘Essence, Plenitude, and Paradox’, _Philosophical Perspectives_, 25: 277–296.
-* Leśniewski, Stanisław, 1916/1922, ‘Foundations of the General Theory of Sets I’, in S. J. Surma, J. Srzednicki, D. I. Barnett, and F. V. Rickey (eds.), _Collected Works_ (Volume 1), Dordrecht: Kluwer, pp. 129–173.
-* Lewis, David, 1971, ‘Counterparts of Persons and Their Bodies’, _The Journal of Philosophy_, 68: 203–211.
-* –––, 1974, ‘Radical Interpretation’, _Synthese_, 23: 331–344.
-* –––, 1976, ‘Survival and Identity’, in his _Philosophical Papers_ (Volume 1), Oxford: Oxford University Press, pp. 55–70. Reprinted in Kim et al. 2011.
-* –––, 1983, ‘New Work for a Theory of Universals’, _Australasian Journal of Philosophy_, 61: 343–377. Reprinted in Lewis 1999 and in Kim et al. 2011.
-* –––, 1984, ‘Putnam’s Paradox’, _Australasian Journal of Philosophy_, 62: 221–236. Reprinted in Lewis 1999.
-* –––, 1986, _On the Plurality of Worlds_, Malden: Blackwell.
-* –––, 1988, ‘Vague Identity: Evans Misunderstood’, _Analysis_, 48: 128–130.
-* –––, 1991, _Parts of Classes_, Cambridge: Blackwell.
-* –––, 1993, ‘Many, But Almost One’, in Keith Campbell, John Bacon and Lloyd Reinhardt (eds.), _Ontology, Causality, and Mind_, Cambridge: Cambridge University Press, pp. 23–42. Reprinted in Lewis 1999 and in Kim et al. 2011. Page references are to Lewis 1999.
-* –––, 1999, _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press.
-* Liebesman, David, forthcoming, ‘Double-Counting and the Problem of the Many’, _Philosophical Studies_: 1–26.
-* Liebesman, David and Matti Eklund, 2007, ‘Sider on Existence’, _Noûs_, 41: 519–528.
-* Liggins, David, 2008, ‘Nihilism without Self-Contradiction’, _Royal Institute of Philosophy Supplement_, 62: 177–196.
-* Long, Joseph, 2019, ‘One’s an Illusion: Organisms, Reference, and Non-Eliminative Nihilism’, _Philosophia_, 47: 459–475.
-* Longenecker, Michael, 2018, ‘Non-Concrete Parts of Material Objects’, _Synthese_, 195: 5091–5111.
-* López de Sa, Dan, 2006, ‘Is “Everything” Precise?’, _Dialectica_, 60: 397–409.
-* –––, 2014, ‘Lewis vs Lewis on the Problem of the Many’, _Synthese_, 191: 1105–1117.
-* Loss, Roberto, 2018a, ‘Against ‘Against ‘Against Vague Existence’’’, _Oxford Studies in Metaphysics_, 11: 278–287.
-* –––, 2018b, ‘A Sudden Collapse to Nihilism’, _Philosophical Quarterly_, 68: 370–375.
-* Lowe, E. J., 1982, ‘The Paradox of the 1,001 Cats’, _Analysis_, 42: 27–30.
-* –––, 1983a, ‘Instantiation, Identity and Constitution’, _Philosophical Studies_, 44: 45–59.
-* –––, 1983b, ‘On the Identity of Artifacts’, _The Journal of Philosophy_, 80: 220–231.
-* –––, 1989, _Kinds of Being_, Oxford: Basil Blackwell.
-* –––, 1994, ‘Vague Identity and Quantum Indeterminacy’, _Analysis_, 54: 110–114.
-* –––, 1995, ‘The Problem of the Many and the Vagueness of Constitution’, _Analysis_, 55: 179–182.
-* –––, 2000, _An Introduction to the Philosophy of Mind_, Cambridge: Cambridge University Press.
-* –––, 2002, ‘Material Coincidence and the Cinemato-Graphic Fallacy: A Response to Olson’, _Philosophical Quarterly_, 52: 369–372.
-* –––, 2003a, ‘In Defense of Moderate-Sized Specimens of Dry Goods’, _Philosophy and Phenomenological Research_, 67: 704–710.
-* –––, 2003b, ‘Substantial Change and Spatiotemporal Coincidence’, _Ratio_, 16: 140–160.
-* –––, 2005a, ‘How are Ordinary Objects Possible?’, _The Monist_, 88: 510–533.
-* –––, 2005b, ‘Vagueness and Endurance’, _Analysis_, 65: 104–112.
-* –––, 2007, ‘Review of _Metaphysical Essays_’, _Notre Dame Philosophical Reviews_.
-* –––, 2009, _More Kinds of Being_, Malden: Wiley-Blackwell.
-* –––, 2011, ‘Vagueness and Metaphysics’, in G. Ronzitti (ed.), _Vagueness: A Guide_, Dordrecht: Springer, pp. 19–53.
-* –––, 2012, ‘Against Monism’, in Philip Goff (ed.), _Spinoza on Monism_, Palgrave-Macmillan, pp. 92–112.
-* –––, 2013a, ‘Mereological Extensionality, Supplementation, and Material Constitution’, _The Monist_, 96: 131–148.
-* –––, 2013b, ‘Ontological Vagueness, Existence Monism and Metaphysical Realism’, _Metaphysica_, 14: 265–274.
-* Mackie, Penelope, 1993, ‘Ordinary Language and Metaphysical Commitment’, _Analysis_, 53: 243–251.
-* –––, 2007, ‘Coincidence and Modal Predicates’, _Analysis_, 67: 21–31.
-* –––, 2008, ‘Coincidence and Identity’, _Royal Institute of Philosophy Supplement_, 62: 151–176.
-* –––, forthcoming, ‘Persistence and Modality’, _Synthese_.
-* Madden, Rory, 2019, ‘How Can Thought Select Between Coincident Material Things?’, in Javier Cumpa and Bill Brewer (eds.), _The Nature of Ordinary Objects_, Cambridge: Cambridge University Press, pp. 149–172.
-* Magidor, Ofra, 2015, ‘Why Neither Diachronic Universalism Nor the Argument from Vagueness Establish Perdurantism’, _Canadian Journal of Philosophy_, 45: 113–126.
-* –––, 2016, ‘Endurantism vs. Perdurantism?: A Debate Reconsidered’, _Noûs_ 50: 509–532.
-* Markosian, Ned, 1998a, ‘Brutal Composition’, _Philosophical Studies_, 92: 211–249.
-* –––, 1998b, ‘Simples’, _Australasian Journal of Philosophy_, 76: 213–228.
-* –––, 2000, ‘What Are Physical Objects?’, _Philosophy and Phenomenological Research_, 61: 375–395.
-* –––, 2004, ‘Two Arguments from Sider’s “Four-Dimensionalism”’, _Philosophy and Phenomenological Research_, 68: 665–673.
-* –––, 2005, ‘Against Ontological Fundamentalism’, _Facta Philosophica_, 7: 69–83.
-* –––, 2008, ‘Restricted Composition’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Malden: Blackwell, pp. 341–364.
-* –––, 2010, ‘Identifying the Problem of Personal Identity’, In Joseph Keim Campbell, Michael O’Rourke, and Harry Silverstein (eds.), _Time and Identity_, MIT Press, pp. 127–148.
-* –––, 2014, ‘A Spatial Approach to Mereology’, in Shieva Kleinschmidt (ed.), _Mereology and Location_, Oxford: Oxford University Press, pp. 69–90.
-* –––, 2015, ‘The Right Stuff’, _Australasian Journal of Philosophy_, 93: 665–687.
-* McDaniel, Kris, 2001, ‘Tropes and Ordinary Physical Objects’, _Philosophical Studies_, 104: 269–290.
-* –––, 2004, ‘Modal Realism with Overlap’, _Australasian Journal of Philosophy_, 82: 137–152.
-* –––, 2007, ‘Extended Simples’, _Philosophical Studies_, 133: 131–141.
-* –––, 2008, ‘Against Composition as Identity’, _Analysis_, 68: 128–133.
-* –––, 2010a, ‘Being and Almost Nothingness’, _Noûs_, 44: 628–649.
-* –––, 2010b, ‘Composition as Identity Does Not Entail Universalism’, _Erkenntnis_, 73: 97–100.
-* –––, 2017, _The Fragmentation of Being_, Oxford University Press.
-* McGee, Vann and Brian McLaughlin, 2000, ‘Lessons of the Many’, _Philosophical Topics_, 28: 129–151.
-* McGrath, Matthew, 1998, ‘Van Inwagen on Universalism’, _Analysis_, 58: 116–121.
-* –––, 2005, ‘No Objects, No Problem?’, _Australasian Journal of Philosophy_, 83: 457–486.
-* –––, 2008, ‘Conciliatory Metaontology and the Vindication of Common Sense’, _Noûs_, 42: 482–508.
-* McKay, Thomas J., 2006, _Plural Predication_, Oxford: Oxford University Press.
-* McKinnon, Neil, 2002, ‘Supervaluations and the Problem of the Many’, _Philosophical Quarterly_, 52: 320–359.
-* Merricks, Trenton, 2000, ‘‘No Statues’’, _Australasian Journal of Philosophy_, 78: 47–52.
-* –––, 2001, _Objects and Persons_, Oxford: Oxford University Press. “Epiphenomenalism and Eliminativism” (Ch. 3) is reprinted in Kim et al. 2011.
-* –––, 2003, ‘Replies’, _Philosophy and Phenomenological Research_, 67: 727–744.
-* –––, 2005, ‘Composition and Vagueness’, _Mind_, 114: 615–637.
-* –––, 2007, ‘Remarks on Vagueness and Arbitrariness’, _Mind_, 116: 115–119.
-* –––, 2009, ‘Review of _Structure of Objects_’, _The Journal of Philosophy_, 106: 301–307.
-* –––, 2017, ‘Do Ordinary Objects Exist? No.’, in Elizabeth Barnes (ed.), _Current Controversies in Metaphysics_, Routledge, pp. 135–148.
-* Merrill, G. H., 1980, ‘The Model-Theoretic Argument against Realism’, _Philosophy of Science_, 47: 69–81.
-* Miller, Kristie, 2005, ‘Blocking the Path from Vagueness to Four Dimensionalism’, _Ratio_, 18: 317–331.
-* –––, 2009, ‘Defending Contingentism in Metaphysics’, _Dialectica_, 63: 23–49.
-* –––, 2010, ‘The Existential Quantifier, Composition and Contingency’, _Erkenntnis_, 73: 211–235.
-* Miller, Kristie & Johann Hariman, 2017, ‘What is an Ersatz Part?’, _Grazer Philosophische Studien_, 94: 524–551.
-* Moran, Alex, 2018, ‘The Paradox of Decrease and Dependent Parts’, _Ratio_, 31: 273–284.
-* Morreau, Michael, 2002, ‘What Vague Objects are Like’, _Journal of Philosophy_, 99: 333–361.
-* Moyer, Mark, 2006, ‘Statues and Lumps: A Strange Coincidence’, _Synthese_, 148: 401–423.
-* –––, 2008, ‘A Survival Guide to Fission’, _Philosophical Studies_, 141: 299–322.
-* Newman, Andrew, 2013, ‘On the Constitution of Solid Objects out of Atoms’, _The Monist_, 96: 149–171.
-* Nolan, Daniel, 2005, _David Lewis_, London: Acumen.
-* –––, 2006, ‘Vagueness, Multiplicity, and Parts’, _Noûs_, 40: 716–737.
-* –––, 2010, ‘Metaphysical Language, Ordinary Language and Peter van Inwagen’s _Material Beings_’, _Humana.Mente_, 13: 237–246.
-* –––, 2014, ‘Balls and All’, in Shieva Kleinschmidt (ed.), _Mereology and Location_, Oxford: Oxford University Press, pp. 91–116.
-* Noonan, Harold W., 1988, ‘Reply to Lowe on Ships and Structures’, _Analysis_, 48: 221–223.
-* –––, 1991, ‘Indeterminate Identity, Contingent Identity and Abelardian Predicates’, _Philosophical Quarterly_, 41: 183–193.
-* –––, 1992, ‘Review of _Material Beings_’, _Philosophical Quarterly_, 42: 239–242.
-* –––, 1993, ‘Constitution is Identity’, _Mind_, 102: 133–146.
-* –––, 1999a, ‘Identity, Constitution, and Microphysical Supervenience’, _Proceedings of the Aristotelian Society_, 99: 273–288.
-* –––, 1999b, ‘Tibbles the Cat: Reply to Burke’, _Philosophical Studies_, 95: 215–218.
-* –––, 2010, ‘A Flaw in Sider’s Vagueness Argument for Unrestricted Mereological Composition’, _Analysis_, 70: 669–672.
-* –––, 2014, ‘Tollensing van Inwagen’, _Philosophia_, 42: 1055–1061.
-* –––, 2015, ‘Against Strong Pluralism’, _Philosophia_, 43: 1081–1087.
-* O’Connor, Timothy, 2007, ‘Review of _All the Power in the World_’, _Notre Dame Philosophical Reviews_.
-* Oddie, Graham, 1982, ‘Armstrong on the Eleatic Principle and Abstract Entities’, _Philosophical Studies_, 41: 285–295.
-* Oderberg, David, 1996, ‘Coincidence Under a Sortal’, _Philosophical Review_, 105: 145–171.
-* Olson, Eric T., 1995, ‘Why I Have no Hands’, _Theoria_, 61: 182–197.
-* –––, 1996, ‘Composition and Coincidence’, _Pacific Philosophical Quarterly_, 77: 374–403.
-* –––, 2001, ‘Material Coincidence and the Indiscernibility Problem’, _Philosophical Quarterly_, 51: 337–355.
-* –––, 2002, ‘The Ontology of Material Objects: Critical Notice of _Objects and Persons_’, _Philosophical Books_, 39: 252–254.
-* –––, 2007, _What Are We?_, Oxford: Oxford University Press.
-* –––, 2010, ‘Ethics and the Generous Ontology’, _Theoretical Medicine and Bioethics_, 31: 259–270.
-* Osborne, Robert C., 2016, ‘Debunking Rationalist Defenses of Common-Sense Ontology: An Empirical Approach’, _Review of Philosophy and Psychology_, 7: 197–221.
-* Papineau, David, 1993, _Philosophical Naturalism_, Oxford: Blackwell.
-* Parfit, Derek, 1971, ‘Personal Identity’, _Philosophical Review_, 80: 3–27.
-* Parsons, Josh, 2004, ‘Dion, Theon, and DAUP’, _Pacific Philosophical Quarterly_, 85: 85–91.
-* –––, 2013, ‘Conceptual Conservatism and Contingent Composition’, _Inquiry_, 56: 327–339.
-* Parsons, Terence, 1987, ‘Entities Without Identity’, _Philosophical Perspectives_, 1: 1–19.
-* Parsons, Terence and Peter Woodruff, 1994, ‘Worldly Indeterminacy of Identity’, _Proceedings of the Aristotelian Society_, 95: 171–191.
-* Paul, L. A., 2002, ‘Logical Parts’, _Noûs_, 36: 578–596.
-* –––, 2006, ‘Coincidence as Overlap’, _Noûs_, 40: 623–659.
-* –––, 2010, ‘The Puzzles of Material Constitution’, _Philosophy Compass_, 5: 579–590.
-* Pearce, Kenneth L., 2017, ‘Mereological Idealism’, in Tyron Goldschmidt and Kenneth L. Pearce (eds.), _Idealism: New Essays in Metaphysics_, Oxford: Oxford University Press, pp. 200–216.
-* Perry, John, 1970, ‘The Same F’, _Philosophical Review_, 79: 181–200.
-* Petersen, Steve, 2019, ‘Composition as Pattern’, _Philosophical Studies_, 176: 1119–1139.
-* Pickel, Bryan, 2010, ‘There is no ‘Is’ of Constitution’, _Philosophical Studies_, 147: 193–211.
-* Price, Marjorie S., 1977, ‘Identity Through Time’, _The Journal of Philosophy_, 74: 201–217.
-* Putnam, Hilary, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press.
-* –––, 1987, ‘Truth and Convention: On Davidson’s Refutation of Conceptual Relativism’, _Dialectica_, 41: 69–77.
-* –––, 1994, ‘The Question of Realism’, in his _Words and Life_, Cambridge: Harvard University Press, pp. 295–312.
-* Quine, W. V., 1953, ‘Identity, Ostension and Hypostasis’, in his _From a Logical Point of View_, Cambridge: Harvard University Press, pp. 65–79. Reprinted in Kim et al. 2011.
-* –––, 1981a, _Theories and Things_, Cambridge: Harvard University Press.
-* –––, 1981b, ‘What Price Bivalence?’, _The Journal of Philosophy_, 78: 90–95. Reprinted in Quine 1981a.
-* Rea, Michael C., 1995, ‘The Problem of Material Constitution’, _Philosophical Review_, 104: 525–552.
-* –––, 1997a, _Material Constitution_, Oxford: Rowman & Littlefield.
-* –––, 1997b, ‘Supervenience and Co-Location’, _American Philosophical Quarterly_, 34: 367–375.
-* –––, 1998, ‘In Defense of Mereological Universalism’, _Philosophy and Phenomenological Research_, 58: 347–360.
-* –––, 1999, ‘McGrath on Universalism’, _Analysis_, 59: 201–204.
-* –––, 2000, ‘Constitution and Kind Membership’, _Philosophical Studies_, 97: 169–193.
-* –––, 2001, ‘How to be an Eleatic Monist’, _Philosophical Perspectives_, 15: 129–151.
-* –––, 2002, _World Without Design_, Oxford: Oxford University Press.
-* Remhof, Justin, 2017, _Nietzsche’s Constructivism: A Metaphysics of Material Objects_, New York: Routledge.
-* Renz, Graham, 2016, ‘It’s All in your Head: a Solution to the Problem of Object Coincidence’, _Philosophia_, 44: 1387–1407.
-* Rettler, Bradley, 2016, ‘The General Truthmaker View of Ontological Commitment’, _Philosophical Studies_ 173: 1405–1425.
-* –––, 2018, ‘Mereological Nihilism and Puzzles about Material Objects’, _Pacific Philosophical Quarterly_, 99: 842–868.
-* –––, 2019, ‘Quantification in the Ontology Room’, _Dialectica_, 73: 563–585.
-* Richard, Mark, 2006, ‘Context, Vagueness, and Ontology’, in Patrick Greenough and Michael Lynch (eds.), _Truth and Realism_, Oxford: Oxford University Press, pp. 162–174.
-* Robinson, Denis, 1985, ‘Can Amoebae Divide Without Multiplying?’, _Australasian Journal of Philosophy_, 63: 299–319.
-* Rose, David and Jonathan Schaffer, 2017, ‘Folk Mereology is Teleological’, _Noûs_, 51: 238–270.
-* Rosen, Gideon, 2006, ‘The Limits of Contingency’, in Fraser MacBride (ed.), _Identity and Modality_, Oxford: Oxford University Press, pp. 13–39.
-* Rosen, Gideon and Cian Dorr, 2002, ‘Composition as Fiction’, in Richard M. Gale (ed.), _The Blackwell Guide to Metaphysics_, Oxford: Blackwell, pp. 151–174.
-* Rosenberg, Jay F., 1993, ‘Comments on Peter van Inwagen’s Material Beings’, _Philosophy and Phenomenological Research_, 53: 701–708.
-* Saenz, Noël B., 2015, ‘A Grounding Solution to the Grounding Problem’, _Philosophical Studies_, 172: 2193–2214.
-* –––, 2018, ‘Sums and Grounding’, _Australasian Journal of Philosophy_, 96: 102–117.
-* Salmon, Nathan, 1981, _Reference and Essence_, Princeton: Princeton University Press.
-* Sanford, David H., 1979, ‘Nostalgia for the Ordinary: Comments on Papers by Unger and Wheeler’, _Synthese_, 41: 175–184.
-* –––, 1993, ‘The Problem of the Many, Many Composition Questions, and Naive Mereology’, _Noûs_, 27: 219–228.
-* Sanson, David, 2016, ‘Worlds Enough for Junk’, _Res Philosophica_, 93: 45–62.
-* Sattig, Thomas, 2015, _The Double Lives of Objects_, Oxford: Oxford University Press.
-* –––, 2017, ‘Metaphysical Ambitions in the Ontology of Objects’, _Philosophy and Phenomenological Research_, 94: 481–487.
-* Saucedo, Raúl, 2011, ‘Parthood and Location’, _Oxford Studies in Metaphysics_, 6: 223–284.
-* Schaffer, Jonathan, 2007, ‘From Nihilism to Monism’, _Australasian Journal of Philosophy_, 85: 175–191.
-* –––, 2009a, ‘The Deflationary Metaontology of Thomasson’s _Ordinary Objects_’, _Philosophical Books_, 50: 142–157.
-* –––, 2009b, ‘On What Grounds What’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 347–383.
-* –––, 2010, ‘Monism: The Priority of the Whole’, _Philosophical Review_, 119: 31–76.
-* –––, 2012, ‘Why the World Has Parts: Reply to Horgan and Potrč’, in Philip Goff (ed.), _Spinoza on Monism_, Palgrave-Macmillan, pp. 77–91.
-* Shagrir, Oron, 2002, ‘Global Supervenience, Coincident Entities, and Anti-Individualism’, _Philosophical Studies_, 109: 171–196.
-* Shoemaker, Sydney, 1979, ‘Identity, Properties, and Causality’, _Midwest Studies in Philosophy_, 4: 321–342.
-* –––, 1988, ‘On What There Are’, _Philosophical Topics_, 16: 201–223.
-* –––, 2012, ‘Coincidence Through Thick and Thin’, _Oxford Studies in Metaphysics_, 7: 227–253.
-* Shorter, J. M., 1977, ‘On Coinciding in Space and Time’, _Philosophy_, 52: 399–408.
-* Sidelle, Alan, 1989, _Necessity, Essence, and Individuation: a Defense of Conventionalism_, Ithaca: Cornell University Press.
-* –––, 1992a, ‘Identity and Identity-Like’, _Philosophical Topics_, 20: 269–292.
-* –––, 1992b, ‘Rigidity, Ontology, and Semantic Structure’, _The Journal of Philosophy_, 89: 410–430.
-* –––, 1998, ‘A Sweater Unraveled: Following One Thread of Thought for Avoiding Coincident Entities’, _Noûs_, 32: 423–448.
-* –––, 2002, ‘Is There a True Metaphysics of Material Objects?’, _Philosophical Issues_, 12: 118–145.
-* –––, 2009, ‘Conventionalism and the Contingency of Conventions’, _Noûs_, 43: 224–241.
-* –––, 2010, ‘Modality and Objects’, _Philosophical Quarterly_, 60: 109–125.
-* –––, 2014, ‘Does Hylomorphism Offer a Distinctive Solution to the Grounding Problem?’, _Analysis_, 74: 397–404.
-* Sidelle, Alan, 2016, ‘Coincidence: The Grounding Problem, Object-Specifying Principles, and Some Consequences’, _Philosophical Papers_, 45: 497–528.
-* Sider, Theodore, 1993, ‘Van Inwagen and the Possibility of Gunk’, _Analysis_, 53: 285–289.
-* –––, 1996, ‘All the World’s a Stage’, _Australasian Journal of Philosophy_, 74: 433–453. Reprinted in Kim et al. 2011.
-* –––, 1997, ‘Four-Dimensionalism’, _Philosophical Review_, 106: 197–231.
-* –––, 2001a, _Four-Dimensionalism_, Oxford: Oxford University Press. “The Argument from Vagueness” (§4.9) is reprinted in Kim et al. 2011.
-* –––, 2001b, ‘Maximality and Intrinsic Properties’, _Philosophy and Phenomenological Research_, 63: 357–364.
-* –––, 2003a, ‘Against Vague Existence’, _Philosophical Studies_, 114: 135–146.
-* –––, 2003b, ‘What’s So Bad About Overdetermination’, _Philosophy and Phenomenological Research_, 67: 719–726.
-* –––, 2004, ‘Replies to Gallois, Hirsch and Markosian’, _Philosophy and Phenomenological Research_, 58: 674–687.
-* –––, 2007a, ‘Against Monism’, _Analysis_, 67: 1–7.
-* –––, 2007b, ‘Parthood’, _Philosophical Review_, 116: 51–91.
-* –––, 2008a, ‘Temporal Parts’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Malden: Blackwell, pp. 241–262.
-* –––, 2008b, ‘Yet Another Paper on the Supervenience Argument Against Coincident Entities’, _Philosophy and Phenomenological Research_, 77: 613–624.
-* –––, 2009a, ‘Against Vague and Unnatural Existence: Reply to Liebesman and Eklund’, _Noûs_, 43: 557–567.
-* –––, 2009b, ‘Ontological Realism’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 384–423.
-* –––, 2011, _Writing the Book of the World_, Oxford: Oxford University Press.
-* –––, 2013, ‘Against Parthood’, _Oxford Studies in Metaphysics_, 8: 237–293.
-* –––, 2014, ‘Hirsch’s Attack on Ontologese’, _Noûs_, 48: 565–572.
-* Siderits, Mark, 2003, _Personal Identity and Buddhist Philosophy: Empty Persons_, Burlington: Ashgate.
-* Silva, Paul, 2013, ‘Ordinary Objects and Series-Style Answers to the Special Composition Question’, _Pacific Philosophical Quarterly_, 94: 69–88.
-* Simon, Jonathan A., 2017a, ‘The Hard Problem of the Many’, _Philosophical Perspectives_, 31: 449–468.
-* –––, 2017b, ‘Vagueness and Zombies: Why ‘Phenomenally Conscious’ Has No Borderline Cases’, _Philosophical Studies_, 174: 2105–2123.
-* Simons, Peter, 1985, ‘Coincidence of Things of a Kind’, _Mind_, 94: 70–75.
-* –––, 1987, _Parts: A Study in Ontology_, Oxford: Oxford University Press.
-* –––, 2006, ‘Real Wholes, Real Parts: Mereology Without Algebra’, _The Journal of Philosophy_, 103: 597–613.
-* Skiles, Alexander, 2015, ‘Against Grounding Necessitarianism’, _Erkenntnis_, 80: 717–751.
-* Smith, Deborah, 2019, ‘Gunky Objects, Junky Worlds, and Weak Mereological Universalism’, _Erkenntnis_, 84: 41–55.
-* Smith, Donald, 2006, ‘The Vagueness Argument for Mereological Universalism’, _Pacific Philosophical Quarterly_, 87: 357–368.
-* Smith, Nicholas J. J., 2005, ‘A Plea for Things That Are Not Quite All There’, _The Journal of Philosophy_, 102: 381–421.
-* Sosa, Ernest, 1987, ‘Subjects Among Other Things’, _Philosophical Perspectives_, 1: 155–187.
-* –––, 1999, ‘Existential Relativity’, _Midwest Studies in Philosophy_, 23: 132–143. Reprinted in Kim et al. 2011.
-* Spencer, Joshua, 2012, ‘All Things Must Pass Away’, _Oxford Studies in Metaphysics_, 7: 67–92.
-* –––, 2017, ‘Counting on Strong Composition as Identity to Settle the Special Composition Question’, _Erkenntnis_, 82: 857–872.
-* –––, 2020, ‘The Limits of Neo‐Aristotelian Plenitude’, _Pacific Philosophical Quarterly_, 101: 74–92.
-* –––, forthcoming, ‘On the Explanatory Demands of the Special Composition Question’, _Synthese_.
-* Spolaore, Giuseppe, 2012, ‘Not Just a Coincidence: Conditional Counter-examples to Locke’s Thesis’, _Thought_, 1: 108–115.
-* Spolaore, Giuseppe and Pierdaniele Giaretta, 2018, ‘Michelangelo’s Puzzle’, _Philosophia_, 46: 453–464.
-* Stalnaker, Robert, 1988, ‘Vague Identity’, in David F. Austin (ed.), _Philosophical Analysis_, Dordrecht: Kluwer, pp. 349–360. Reprinted in Kim et al. 2011.
-* Steen, Mark, 2008, ‘Chisholm’s Changing Conception of Ordinary Objects’, _Grazer Philosophische Studien_, 76: 1–56.
-* Steen, Mark, 2017, ‘Temporally Restricted Composition’, _Croatian Journal of Philosophy_, 17: 431–440.
-* Stone, Jim, 2002, ‘Why Sortal Essentialism Cannot Solve Chrysippus’s Puzzle’, _Analysis_, 62: 216–223.
-* Street, Sharon,  2006, ‘A Darwinian Dilemma for Realist Theories of Value’, _Philosophical Studies_, 127: 109–166.
-* Strohminger, Margot, 2013, ‘Modal Humeanism and Arguments from Possibility’, _Proceedings of the Aristotelian Society_, 113: 391–401.
-* Sutton, C. S., 2012, ‘Colocated Objects, Tally-Ho: A Solution to the Grounding Problem’, _Mind_, 121: 703–730.
-* –––, 2014, ‘Against the Maximality Principle’, _Metaphysica_, 15: 381–390.
-* Tahko, Tuomas E., 2009, ‘Against the Vagueness Argument’, _Philosophia_, 37: 335–340.
-* Tallant, Jonathan, 2014, ‘Against Mereological Nihilism’, _Synthese_, 191: 1511–1527.
-* Thomasson, Amie, 2003, ‘Realism and Human Kinds’, _Philosophy and Phenomenological Research_, 57: 580–609.
-* –––, 2006, ‘Metaphysical Arguments Against Ordinary Objects’, _Philosophical Quarterly_, 56: 340–359.
-* –––, 2007, _Ordinary Objects_, Oxford: Oxford University Press.
-* –––, 2009, ‘Answerable and Unanswerable Questions’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), _Metametaphysics_, Oxford: Oxford University Press, pp. 444–471.
-* –––, 2015, _Ontology Made Easy_, Oxford: Oxford University Press.
-* –––, 2019, ‘Replies to Comments on _Ontology Made Easy_’, _Philosophy and Phenomenological Research_, 99: 251–264.
-* Thomson, Judith Jarvis, 1983, ‘Parthood and Identity Across Time’, _The Journal of Philosophy_, 80: 201–220. Reprinted in Kim et al. 2011.
-* –––, 1998, ‘The Statue and the Clay’, _Noûs_, 32: 149–173.
-* Tichý, Pavel, 1987/2004, ‘Individuals and Their Roles’, in Vladimir Svoboda, Bjørn Jesperson, and Colin Cheyne (eds.), _Pavel Tichý’s Collected Papers in Logic and Philosophy_, Otago: Otago University Press, pp. 711–748.
-* Tillman, Chris and Joshua Spencer, forthcoming, ‘Advanced D\&D’, _Analysis_.
-* Toner, Patrick, 2006, ‘Meta-Ontology and Accidental Unity’, _Philosophical Quarterly_, 56: 550–561.
-* –––, 2008, ‘On Merricks’s Dictum’, _Journal of Philosophical Research_, 33: 293–297.
-* Torza, Alessandro, 2017, ‘Vague Existence’, _Oxford Studies in Metaphysics_, 10: 201–234.
-* Turner, Jason, 2011, ‘Ontological Nihilism’, _Oxford Studies in Metaphysics_, 6: 3–54.
-* –––, 2013, ‘Existence and Many-One Identity’, _Philosophical Quarterly_, 63: 313–329.
-* Tye, Michael, 1990, ‘Vague Objects’, _Mind_, 99: 535–557.
-* –––, 1992, ‘Review of _Material Beings_’, _Philosophical Review_, 101: 881–884.
-* –––, 1996a, ‘Fuzzy Realism and the Problem of the Many’, _Philosophical Studies_, 81: 215–225.
-* –––, 1996b, ‘Is Consciousness Vague or Arbitrary?’, _Philosophy and Phenomenological Research_, 56: 679–685.
-* Unger, Peter, 1979a, ‘I Do Not Exist’, in G. F. Macdonald (ed.), _Perception and Identity_, New York: Macmillan, pp. 235–251. Reprinted in Rea 1997a.
-* –––, 1979b, ‘There Are No Ordinary Things’, _Synthese_, 41: 117–154.
-* –––, 1979c, ‘Why There Are No People’, _Midwest Studies in Philosophy_, 4: 177–222.
-* –––, 1980, ‘The Problem of the Many’, _Midwest Studies in Philosophy_, 5: 411–467.
-* –––, 2004, ‘The Mental Problems of the Many’, _Oxford Studies in Metaphysics_, 1: 195–222.
-* –––, 2005, _All the Power in the World_, Oxford: Oxford University Press.
-* Uzquiano, Gabriel, 2004, ‘Plurals and Simples’, _Noûs_, 87: 429–451.
-* Van Cleve, James, 1986, ‘Mereological Essentialism, Mereological Conjunctivism, and Identity Through Time’, _Midwest Studies in Philosophy_, 11: 141–156.
-* –––, 2008, ‘The Moon and Sixpence: A Defense of Mereological Universalism’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), _Contemporary Debates in Metaphysics_, Malden: Blackwell, pp. 321–340.
-* van Elswyk, Peter, 2018, ‘Contrast and Constitution’, _Philosophical Quarterly_, 68: 158–174.
-* van Inwagen, Peter, 1981, ‘The Doctrine of Arbitrary Undetached Parts’, _Pacific Philosophical Quarterly_, 62: 123–137. Reprinted in Rea 1997a.
-* –––, 1987, ‘When Are Objects Parts?’, _Philosophical Perspectives_, 1: 21–47. Reprinted in Kim et al. 2011.
-* –––, 1990, _Material Beings_, Ithaca: Cornell.
-* –––, 1993, ‘Reply to Reviewers’, _Philosophy and Phenomenological Research_, 53: 709–719.
-* –––, 1994, ‘Composition as Identity’, _Philosophical Perspectives_, 8: 207–220.
-* –––, 2014, ‘Introduction: Inside and Outside the Ontology Room’, in his _Existence: Essays in Ontology_, New York: Cambridge University Press, pp. 1–14.
-* –––, 2019, ‘Against Analytic Existence Entailments’, in Javier Cumpa and Bill Brewer (eds.), _The Nature of Ordinary Objects_, Cambridge: Cambridge University Press, pp. 173–197.
-* Vander Laan, David, 2010, ‘A Relevance Constraint on Composition’, _Australasian Journal of Philosophy_, 88: 135–145.
-* Varzi, Achille C., 2002, ‘Words and Objects’, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), _Individuals, Essence, and Identity: Themes of Analytic Metaphysics_, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
-* –––, 2003, ‘Perdurantism, Universalism, and Quantifiers’, _Australasian Journal of Philosophy_, 81: 208–215.
-* –––, 2005, ‘Change, Temporal Parts, and the Argument From Vagueness’, _Dialectica_, 59: 485–498.
-* Vavova, Katia, 2015, ‘Evolutionary Debunking of Moral Realism’, _Philosophy Compass_, 10: 104–116.
-* Wake, Andrew V., 2011, ‘Spacetime and Mereology’, _Erkenntnis_, 74: 17–35.
-* Wallace, Megan B., 2011a, ‘Composition as Identity: Part 1’, _Philosophy Compass_, 6: 804–816.
-* –––, 2011b, ‘Composition as Identity: Part 2’, _Philosophy Compass_, 6: 817–827.
-* –––, 2013, ‘Counterparts and Compositional Nihilism: A Reply to A. J. Cotnoir’, _Thought_, 2: 242–247.
-* –––, 2014, ‘The Argument from Vagueness for Modal Parts’, _Dialectica_, 68: 355–373.
-* –––, forthcoming, ‘Counterexamples and Commonsense’, _Analysis_.
-* Wasserman, Ryan, 2002, ‘The Standard Objection to the Standard Account’, _Philosophical Studies_, 111: 197–216.
-* Watson, Duncan, 2010, ‘An Argument Against an Argument Against the Necessity of Universal Mereological Composition’, _Analysis_, 70: 78–82.
-* Weatherson, Brian, 2003, ‘Many Many Problems’, _Philosophical Quarterly_, 53: 481–501.
-* Wheeler, Samuel C., 1979, ‘On That Which is Not’, _Synthese_, 41: 155–173.
-* Wiggins, David, 1968, ‘On Being in the Same Place at the Same Time’, _Philosophical Review_, 77: 90–95. Reprinted in Rea 1997a.
-* –––, 2001, _Sameness and Substance Renewed_, New York: Cambridge University Press.
-* Wilkins, Shane, 2016, ‘Why Paraphrase Nihilism Fails’, _Synthese_, 193: 2619–2632.
-* Williams, J. Robert G., 2006a, ‘An Argument for the Many’, _Proceedings of the Aristotelian Society_, 106: 411–417.
-* –––, 2006b, ‘Illusions of Gunk’, _Philosophical Perspectives_, 20: 493–513.
-* –––, 2007, ‘Eligibility and Inscrutability’, _Philosophical Review_, 116: 361–399.
-* –––, 2013, ‘Part-Intrinsicality’, _Noûs_, 47: 431–452.
-* Williamson, Timothy, 1994, _Vagueness_, London: Routledge.
-* –––, 2007, _The Philosophy of Philosophy_, Malden: Blackwell.
-* –––, 2013, _Modal Logic as Metaphysics_, Oxford: Oxford University Press.
-* Wilson, Jessica M., 2010, ‘What is Hume’s Dictum, and Why Believe It?’, _Philosophy and Phenomenological Research_, 80: 595–637.
-* –––, 2013, ‘A Determinable-Based Account of Metaphysical Indeterminacy’, _Inquiry_, 56: 359–385.
-* Witmer, D. Gene, 2003, ‘Review of _World Without Design_’, _Australasian Journal of Philosophy_, 81: 603–606.
-* Woods, Evan T., forthcoming, ‘Many, But One’, _Synthese_.
-* Woodward, Richard, 2011, ‘Metaphysical Indeterminacy and Vague Existence’, _Oxford Studies in Metaphysics_, 6: 183–197.
-* Yablo, Stephen, 1987, ‘Identity, Essence, and Indiscernibility’, _The Journal of Philosophy_, 84: 293–314.
-* –––, 2014, ‘Carnap’s Paradox and Easy Ontology’, _Journal of Philosophy_, 111: 470–501.
-* Yang, Eric, 2013, ‘Eliminativism, Interventionism and the Overdetermination Argument’, _Philosophical Studies_, 164: 321–340.
-* Yi, Byeong-Uk, 1999, ‘Is Mereology Ontologically Innocent?’, _Philosophical Studies_, 93: 141–160.
-* –––, forthcoming, ‘Is Composition Identity?’, _Synthese_.
-* Zerbudis, Ezequiel, 2018, ‘El Conservadurismo Realista Acerca de la Composición de Daniel Korman’, _Cuadernos de Filosofía_, 36: 33–53.
-* Zimmerman, Dean W., 1995, ‘Theories of Masses and Problems of Constitution’, _Philosophical Review_, 104: 53–110.
-* –––, 1996, ‘Could Extended Objects Be Made Out of Simple Parts? An Argument for ‘Atomless Gunk’’, _Philosophy and Phenomenological Research_, 56: 1–29.
-* –––, 1999, ‘Review of _Substance: Its Nature and Existence_’, _Philosophical Review_, 108: 118–122.
+* Hudson, Hud, 2000, ‘Universalism, Four Dimensionalism, and Vagueness’, *Philosophy and Phenomenological Research*, 60: 547–560.
+* –––, 2001, *A Materialist Metaphysics of the Human Person*, Ithaca: Cornell University Press.
+* –––, 2006, ‘Confining Composition’, *The Journal of Philosophy*, 103: 631–651.
+* –––, 2007, ‘Simples and Gunk’, *Philosophy Compass*, 2: 291–302.
+* Hughes, Christopher, 1997, ‘Same-Kind Coincidence and the Ship of Theseus’, *Mind*, 106: 53–67.
+* Inman, Ross, 2014, ‘Neo-Aristotelian Plenitude’, *Philosophical Studies*, 168: 583–597.
+* –––, 2018, *Substance and the Fundamentality of the Familiar*, New York: Routledge.
+* Jackson, Brendan Balcerak, 2013, ‘Metaphysics, Verbal Disputes and the Limits of Charity’, *Philosophy and Phenomenological Research*, 86: 412–434.
+* Jago, Mark, 2016, ‘Essence and the Grounding Problem’, in Mark Jago (ed.), *Reality Making*, Oxford University Press, pp. 99–120.
+* Johnston, Mark, 1992, ‘Constitution Is Not Identity’, *Mind*, 101: 89–105.
+* –––, 2006, ‘Hylomorphism’, *The Journal of Philosophy*, 103: 652–698.
+* –––, 2016, ‘The Personite Problem: Should Practical Reason Be Tabled?’, *Noûs*, 50: 617–644.
+* Jones, Nicholas K., 2015, ‘Multiple Constitution’, *Oxford Studies in Metaphysics*, 9: 217–261.
+* Joyce, Richard, 2006, *The Evolution of Morality*, Cambridge: MIT Press.
+* Jubien, Michael, 1993, *Ontology, Modality, and the Fallacy of Reference*, Cambridge: Cambridge University Press.
+* –––, 2001, ‘Thinking about Things’, *Philosophical Perspectives*, 15: 1–15.
+* Kantin, Holly, forthcoming, ‘Why Compositional Nihilism Dissolves Puzzles’, *Synthese*.
+* Keller, John A., 2015, ‘Paraphrase, Semantics, and Ontology’, *Oxford Studies in Metaphysics* 10: 89–128.
+* Kelly, Thomas, 2008, ‘Common Sense as Evidence: Against Revisionary Ontology and Skepticism’, *Midwest Studies in Philosophy*, 32: 53–78.
+* Kim, Jaegwon, 1976, ‘Events as Property Exemplifications’, in M. Brand and D. Walton (eds.), *Action Theory*, Dordrecht: D. Reidel, pp. 159–177. Reprinted in Laurence and MacDonald 1998.
+* –––, 2005, *Physicalism, or Something Near Enough*, Princeton: Princeton University Press.
+* Kim, Jaegwon, Daniel Z. Korman, and Ernest Sosa, 2011, *Metaphysics: An Anthology*, 2nd Edition, Oxford: Blackwell Publishing.
+* King, Jeffrey C., 2006, ‘Semantics for Monists’, *Mind*, 115: 1023–1058.
+* Kitamura, Naoaki, 2016, ‘Defending Priority Views from the Gunk/Junk Argument’, *Philosophia*, 44: 155–165.
+* Kitsik, Eve, 2020, ‘Explication as a Strategy for Revisionary Philosophy’, *Synthese*, 197: 1035–1056.
+* Kment, Boris, 2014, *Modality and Explanatory Reasoning*, Oxford: Oxford University Press.
+* Korman, Daniel Z., 2008a, ‘Review of *Austere Realism*’, *Notre Dame Philosophical Reviews*.
+* –––, 2008b, ‘Unrestricted Composition and Restricted Quantification’, *Philosophical Studies*, 140: 319–334.
+* –––, 2009, ‘Eliminativism and the Challenge from Folk Belief’, *Noûs*, 43: 242–264.
+* –––, 2010b, ‘Strange Kinds, Familiar Kinds, and the Charge of Arbitrariness’, *Oxford Studies in Metaphysics*, 5: 119–144. Reprinted in Kim et al. 2011.
+* –––, 2011, ‘Review of *Familiar Objects and Their Shadows*’, *Notre Dame Philosophical Reviews*.
+* –––, 2014a, ‘Debunking Perceptual Beliefs about Ordinary Objects’, *Philosophers’ Imprint*, 14: 1–21.
+* –––, 2014b, ‘The Vagueness Argument Against Abstract Artifacts’, *Philosophical Studies*, 167: 57–71.
+* –––, 2015a, ‘Fundamental Quantification and the Language of the Ontology Room’, *Noûs*, 49: 298–321.
+* –––, 2015b, *Objects: Nothing Out of the Ordinary*, Oxford: Oxford University Press.
+* –––, 2015c, ‘Review of *The Double Lives of Objects*’, *Notre Dame Philosophical Reviews*.&#x20;
+* ––– 2019a), ‘Debunking Arguments in Metaethics and Metaphysics’, in Alvin Goldman and Brian McLaughlin (eds.), *Metaphysics and Cognitive Science*, Oxford: Oxford University Press, pp. 337–363.
+* –––, 2019b, ‘Easy Ontology Without Deflationary Metaontology’, *Philosophy and Phenomenological Research* 99: 236–243.
+* –––, forthcoming, ‘Conservatism, Counterexamples, and Debunking’, *Analysis*.
+* Korman, Daniel Z. and Chad Carmichael, 2016, ‘Composition’, *Oxford Handbooks Online*.
+* –––, 2017, ‘What Do the Folk Think About Composition and Does It Matter?’, in David Rose (ed.), *Experimental Metaphysics*, London: Bloomsbury, pp.187–206.
+* Koslicki, Kathrin, 2003, ‘The Crooked Path from Vagueness to Four-Dimensionalism’, *Philosophical Studies*, 114: 107–134.
+* –––, 2007, ‘Towards a Neo-Aristotelian Mereology’, *Dialectica*, 61: 127–159.
+* –––, 2008, *The Structure of Objects*, Oxford: Oxford University Press.
+* –––, 2018a, *Form, Matter, Substance*, Oxford: Oxford University Press.
+* –––, 2018b, ‘Towards a Hylomorphic Solution to the Grounding Problem’, *Royal Institute of Philosophy Supplement*, 82: 333–364.
+* Kovacs, David Mark, 2010, ‘Is There a Conservative Solution to the Many Thinkers Problem?’, *Ratio*, 23: 275–290.
+* –––, forthcoming a, ‘How to be an Uncompromising Revisionary Ontologist’, *Synthese*.
+* –––, forthcoming b, ‘Intuitions about Objects: From Teleology to Elimination’, *Mind*.
+* Kriegel, Uriah, 2011, ‘Two Defenses of Common-Sense Ontology’, *Dialectica­*, 65: 177–204.
+* –––, 2008, ‘Composition as a Secondary Quality’, *Pacific Philosophical Quarterly*, 89: 359–383.
+* –––, 2013, ‘The Epistemological Challenge of Revisionary Metaphysics’, *Philosophers’ Imprint*, 13: 1–30.
+* Kripke, Saul, 1971, ‘Identity and Necessity’, in Milton K. Kunitz (ed.), *Identity and Individuation*, New York: New York University Press, pp. 135–164. Reprinted in Kim et al. 2011.
+* Kurtsal Steen, İrem, 2010, ‘Three-Dimensionalist’s Semantic Solution to Diachronic Vagueness’, *Philosophical Studies*, 150: 79–96.
+* –––, 2014, ‘Almost-Ontology: Why Epistemicism Cannot Help Us Avoid Unrestricted Composition or Diachronic Plenitude’, *Pacific Philosophical Quarterly*, 95: 130–139.
+* –––, 2019, ‘The Sorites Paradox in Metaphysics’, in Sergi Oms and Elia Zardini (eds.), *The Sorites Paradox*, Cambridge: Cambridge University Press, pp. 207–228.
+* Lando, Giorgio, 2017, *Mereology: A Philosophical Introduction*, London: Bloomsbury.
+* Laurence, Stephen and Cynthia MacDonald, 1998, *Contemporary Readings in the Foundations of Metaphysics*, Oxford: Blackwell.
+* Le Bihan, Baptiste, 2013, ‘Why a Gunk World is Compatible with Nihilism about Objects’, *Studia Philosophica Estonica*, 6: 1–14.
+* –––, 2015, ‘No Physical Particles for a Dispositional Monist’, *Philosophical Papers* 44: 207–232.
+* –––, 2016, ‘Super-Relationism: Combining Eliminativism about Objects and Relationism about Spacetime’, *Philosophical Studies* 173: 2151–2172.
+* Lechthaler, Manuel, forthcoming, ‘No Universalism without Gunk? Composition as Identity and the Universality of Identity’, *Synthese*.
+* Leonard, Henry S. and Nelson Goodman, 1940, ‘The Calculus of Individuals and Its Uses’, *Journal of Symbolic Logic*, 5: 45–55.
+* Leslie, Sarah-Jane, 2011, ‘Essence, Plenitude, and Paradox’, *Philosophical Perspectives*, 25: 277–296.
+* Leśniewski, Stanisław, 1916/1922, ‘Foundations of the General Theory of Sets I’, in S. J. Surma, J. Srzednicki, D. I. Barnett, and F. V. Rickey (eds.), *Collected Works* (Volume 1), Dordrecht: Kluwer, pp. 129–173.
+* Lewis, David, 1971, ‘Counterparts of Persons and Their Bodies’, *The Journal of Philosophy*, 68: 203–211.
+* –––, 1974, ‘Radical Interpretation’, *Synthese*, 23: 331–344.
+* –––, 1976, ‘Survival and Identity’, in his *Philosophical Papers* (Volume 1), Oxford: Oxford University Press, pp. 55–70. Reprinted in Kim et al. 2011.
+* –––, 1983, ‘New Work for a Theory of Universals’, *Australasian Journal of Philosophy*, 61: 343–377. Reprinted in Lewis 1999 and in Kim et al. 2011.
+* –––, 1984, ‘Putnam’s Paradox’, *Australasian Journal of Philosophy*, 62: 221–236. Reprinted in Lewis 1999.
+* –––, 1986, *On the Plurality of Worlds*, Malden: Blackwell.
+* –––, 1988, ‘Vague Identity: Evans Misunderstood’, *Analysis*, 48: 128–130.
+* –––, 1991, *Parts of Classes*, Cambridge: Blackwell.
+* –––, 1993, ‘Many, But Almost One’, in Keith Campbell, John Bacon and Lloyd Reinhardt (eds.), *Ontology, Causality, and Mind*, Cambridge: Cambridge University Press, pp. 23–42. Reprinted in Lewis 1999 and in Kim et al. 2011. Page references are to Lewis 1999.
+* –––, 1999, *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press.
+* Liebesman, David, forthcoming, ‘Double-Counting and the Problem of the Many’, *Philosophical Studies*: 1–26.
+* Liebesman, David and Matti Eklund, 2007, ‘Sider on Existence’, *Noûs*, 41: 519–528.
+* Liggins, David, 2008, ‘Nihilism without Self-Contradiction’, *Royal Institute of Philosophy Supplement*, 62: 177–196.
+* Long, Joseph, 2019, ‘One’s an Illusion: Organisms, Reference, and Non-Eliminative Nihilism’, *Philosophia*, 47: 459–475.
+* Longenecker, Michael, 2018, ‘Non-Concrete Parts of Material Objects’, *Synthese*, 195: 5091–5111.
+* López de Sa, Dan, 2006, ‘Is “Everything” Precise?’, *Dialectica*, 60: 397–409.
+* –––, 2014, ‘Lewis vs Lewis on the Problem of the Many’, *Synthese*, 191: 1105–1117.
+* Loss, Roberto, 2018a, ‘Against ‘Against ‘Against Vague Existence’’’, *Oxford Studies in Metaphysics*, 11: 278–287.
+* –––, 2018b, ‘A Sudden Collapse to Nihilism’, *Philosophical Quarterly*, 68: 370–375.
+* Lowe, E. J., 1982, ‘The Paradox of the 1,001 Cats’, *Analysis*, 42: 27–30.
+* –––, 1983a, ‘Instantiation, Identity and Constitution’, *Philosophical Studies*, 44: 45–59.
+* –––, 1983b, ‘On the Identity of Artifacts’, *The Journal of Philosophy*, 80: 220–231.
+* –––, 1989, *Kinds of Being*, Oxford: Basil Blackwell.
+* –––, 1994, ‘Vague Identity and Quantum Indeterminacy’, *Analysis*, 54: 110–114.
+* –––, 1995, ‘The Problem of the Many and the Vagueness of Constitution’, *Analysis*, 55: 179–182.
+* –––, 2000, *An Introduction to the Philosophy of Mind*, Cambridge: Cambridge University Press.
+* –––, 2002, ‘Material Coincidence and the Cinemato-Graphic Fallacy: A Response to Olson’, *Philosophical Quarterly*, 52: 369–372.
+* –––, 2003a, ‘In Defense of Moderate-Sized Specimens of Dry Goods’, *Philosophy and Phenomenological Research*, 67: 704–710.
+* –––, 2003b, ‘Substantial Change and Spatiotemporal Coincidence’, *Ratio*, 16: 140–160.
+* –––, 2005a, ‘How are Ordinary Objects Possible?’, *The Monist*, 88: 510–533.
+* –––, 2005b, ‘Vagueness and Endurance’, *Analysis*, 65: 104–112.
+* –––, 2007, ‘Review of *Metaphysical Essays*’, *Notre Dame Philosophical Reviews*.
+* –––, 2009, *More Kinds of Being*, Malden: Wiley-Blackwell.
+* –––, 2011, ‘Vagueness and Metaphysics’, in G. Ronzitti (ed.), *Vagueness: A Guide*, Dordrecht: Springer, pp. 19–53.
+* –––, 2012, ‘Against Monism’, in Philip Goff (ed.), *Spinoza on Monism*, Palgrave-Macmillan, pp. 92–112.
+* –––, 2013a, ‘Mereological Extensionality, Supplementation, and Material Constitution’, *The Monist*, 96: 131–148.
+* –––, 2013b, ‘Ontological Vagueness, Existence Monism and Metaphysical Realism’, *Metaphysica*, 14: 265–274.
+* Mackie, Penelope, 1993, ‘Ordinary Language and Metaphysical Commitment’, *Analysis*, 53: 243–251.
+* –––, 2007, ‘Coincidence and Modal Predicates’, *Analysis*, 67: 21–31.
+* –––, 2008, ‘Coincidence and Identity’, *Royal Institute of Philosophy Supplement*, 62: 151–176.
+* –––, forthcoming, ‘Persistence and Modality’, *Synthese*.
+* Madden, Rory, 2019, ‘How Can Thought Select Between Coincident Material Things?’, in Javier Cumpa and Bill Brewer (eds.), *The Nature of Ordinary Objects*, Cambridge: Cambridge University Press, pp. 149–172.
+* Magidor, Ofra, 2015, ‘Why Neither Diachronic Universalism Nor the Argument from Vagueness Establish Perdurantism’, *Canadian Journal of Philosophy*, 45: 113–126.
+* –––, 2016, ‘Endurantism vs. Perdurantism?: A Debate Reconsidered’, *Noûs* 50: 509–532.
+* Markosian, Ned, 1998a, ‘Brutal Composition’, *Philosophical Studies*, 92: 211–249.
+* –––, 1998b, ‘Simples’, *Australasian Journal of Philosophy*, 76: 213–228.
+* –––, 2000, ‘What Are Physical Objects?’, *Philosophy and Phenomenological Research*, 61: 375–395.
+* –––, 2004, ‘Two Arguments from Sider’s “Four-Dimensionalism”’, *Philosophy and Phenomenological Research*, 68: 665–673.
+* –––, 2005, ‘Against Ontological Fundamentalism’, *Facta Philosophica*, 7: 69–83.
+* –––, 2008, ‘Restricted Composition’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Malden: Blackwell, pp. 341–364.
+* –––, 2010, ‘Identifying the Problem of Personal Identity’, In Joseph Keim Campbell, Michael O’Rourke, and Harry Silverstein (eds.), *Time and Identity*, MIT Press, pp. 127–148.
+* –––, 2014, ‘A Spatial Approach to Mereology’, in Shieva Kleinschmidt (ed.), *Mereology and Location*, Oxford: Oxford University Press, pp. 69–90.
+* –––, 2015, ‘The Right Stuff’, *Australasian Journal of Philosophy*, 93: 665–687.
+* McDaniel, Kris, 2001, ‘Tropes and Ordinary Physical Objects’, *Philosophical Studies*, 104: 269–290.
+* –––, 2004, ‘Modal Realism with Overlap’, *Australasian Journal of Philosophy*, 82: 137–152.
+* –––, 2007, ‘Extended Simples’, *Philosophical Studies*, 133: 131–141.
+* –––, 2008, ‘Against Composition as Identity’, *Analysis*, 68: 128–133.
+* –––, 2010a, ‘Being and Almost Nothingness’, *Noûs*, 44: 628–649.
+* –––, 2010b, ‘Composition as Identity Does Not Entail Universalism’, *Erkenntnis*, 73: 97–100.
+* –––, 2017, *The Fragmentation of Being*, Oxford University Press.
+* McGee, Vann and Brian McLaughlin, 2000, ‘Lessons of the Many’, *Philosophical Topics*, 28: 129–151.
+* McGrath, Matthew, 1998, ‘Van Inwagen on Universalism’, *Analysis*, 58: 116–121.
+* –––, 2005, ‘No Objects, No Problem?’, *Australasian Journal of Philosophy*, 83: 457–486.
+* –––, 2008, ‘Conciliatory Metaontology and the Vindication of Common Sense’, *Noûs*, 42: 482–508.
+* McKay, Thomas J., 2006, *Plural Predication*, Oxford: Oxford University Press.
+* McKinnon, Neil, 2002, ‘Supervaluations and the Problem of the Many’, *Philosophical Quarterly*, 52: 320–359.
+* Merricks, Trenton, 2000, ‘‘No Statues’’, *Australasian Journal of Philosophy*, 78: 47–52.
+* –––, 2001, *Objects and Persons*, Oxford: Oxford University Press. “Epiphenomenalism and Eliminativism” (Ch. 3) is reprinted in Kim et al. 2011.
+* –––, 2003, ‘Replies’, *Philosophy and Phenomenological Research*, 67: 727–744.
+* –––, 2005, ‘Composition and Vagueness’, *Mind*, 114: 615–637.
+* –––, 2007, ‘Remarks on Vagueness and Arbitrariness’, *Mind*, 116: 115–119.
+* –––, 2009, ‘Review of *Structure of Objects*’, *The Journal of Philosophy*, 106: 301–307.
+* –––, 2017, ‘Do Ordinary Objects Exist? No.’, in Elizabeth Barnes (ed.), *Current Controversies in Metaphysics*, Routledge, pp. 135–148.
+* Merrill, G. H., 1980, ‘The Model-Theoretic Argument against Realism’, *Philosophy of Science*, 47: 69–81.
+* Miller, Kristie, 2005, ‘Blocking the Path from Vagueness to Four Dimensionalism’, *Ratio*, 18: 317–331.
+* –––, 2009, ‘Defending Contingentism in Metaphysics’, *Dialectica*, 63: 23–49.
+* –––, 2010, ‘The Existential Quantifier, Composition and Contingency’, *Erkenntnis*, 73: 211–235.
+* Miller, Kristie & Johann Hariman, 2017, ‘What is an Ersatz Part?’, *Grazer Philosophische Studien*, 94: 524–551.
+* Moran, Alex, 2018, ‘The Paradox of Decrease and Dependent Parts’, *Ratio*, 31: 273–284.
+* Morreau, Michael, 2002, ‘What Vague Objects are Like’, *Journal of Philosophy*, 99: 333–361.
+* Moyer, Mark, 2006, ‘Statues and Lumps: A Strange Coincidence’, *Synthese*, 148: 401–423.
+* –––, 2008, ‘A Survival Guide to Fission’, *Philosophical Studies*, 141: 299–322.
+* Newman, Andrew, 2013, ‘On the Constitution of Solid Objects out of Atoms’, *The Monist*, 96: 149–171.
+* Nolan, Daniel, 2005, *David Lewis*, London: Acumen.
+* –––, 2006, ‘Vagueness, Multiplicity, and Parts’, *Noûs*, 40: 716–737.
+* –––, 2010, ‘Metaphysical Language, Ordinary Language and Peter van Inwagen’s *Material Beings*’, *Humana.Mente*, 13: 237–246.
+* –––, 2014, ‘Balls and All’, in Shieva Kleinschmidt (ed.), *Mereology and Location*, Oxford: Oxford University Press, pp. 91–116.
+* Noonan, Harold W., 1988, ‘Reply to Lowe on Ships and Structures’, *Analysis*, 48: 221–223.
+* –––, 1991, ‘Indeterminate Identity, Contingent Identity and Abelardian Predicates’, *Philosophical Quarterly*, 41: 183–193.
+* –––, 1992, ‘Review of *Material Beings*’, *Philosophical Quarterly*, 42: 239–242.
+* –––, 1993, ‘Constitution is Identity’, *Mind*, 102: 133–146.
+* –––, 1999a, ‘Identity, Constitution, and Microphysical Supervenience’, *Proceedings of the Aristotelian Society*, 99: 273–288.
+* –––, 1999b, ‘Tibbles the Cat: Reply to Burke’, *Philosophical Studies*, 95: 215–218.
+* –––, 2010, ‘A Flaw in Sider’s Vagueness Argument for Unrestricted Mereological Composition’, *Analysis*, 70: 669–672.
+* –––, 2014, ‘Tollensing van Inwagen’, *Philosophia*, 42: 1055–1061.
+* –––, 2015, ‘Against Strong Pluralism’, *Philosophia*, 43: 1081–1087.
+* O’Connor, Timothy, 2007, ‘Review of *All the Power in the World*’, *Notre Dame Philosophical Reviews*.
+* Oddie, Graham, 1982, ‘Armstrong on the Eleatic Principle and Abstract Entities’, *Philosophical Studies*, 41: 285–295.
+* Oderberg, David, 1996, ‘Coincidence Under a Sortal’, *Philosophical Review*, 105: 145–171.
+* Olson, Eric T., 1995, ‘Why I Have no Hands’, *Theoria*, 61: 182–197.
+* –––, 1996, ‘Composition and Coincidence’, *Pacific Philosophical Quarterly*, 77: 374–403.
+* –––, 2001, ‘Material Coincidence and the Indiscernibility Problem’, *Philosophical Quarterly*, 51: 337–355.
+* –––, 2002, ‘The Ontology of Material Objects: Critical Notice of *Objects and Persons*’, *Philosophical Books*, 39: 252–254.
+* –––, 2007, *What Are We?*, Oxford: Oxford University Press.
+* –––, 2010, ‘Ethics and the Generous Ontology’, *Theoretical Medicine and Bioethics*, 31: 259–270.
+* Osborne, Robert C., 2016, ‘Debunking Rationalist Defenses of Common-Sense Ontology: An Empirical Approach’, *Review of Philosophy and Psychology*, 7: 197–221.
+* Papineau, David, 1993, *Philosophical Naturalism*, Oxford: Blackwell.
+* Parfit, Derek, 1971, ‘Personal Identity’, *Philosophical Review*, 80: 3–27.
+* Parsons, Josh, 2004, ‘Dion, Theon, and DAUP’, *Pacific Philosophical Quarterly*, 85: 85–91.
+* –––, 2013, ‘Conceptual Conservatism and Contingent Composition’, *Inquiry*, 56: 327–339.
+* Parsons, Terence, 1987, ‘Entities Without Identity’, *Philosophical Perspectives*, 1: 1–19.
+* Parsons, Terence and Peter Woodruff, 1994, ‘Worldly Indeterminacy of Identity’, *Proceedings of the Aristotelian Society*, 95: 171–191.
+* Paul, L. A., 2002, ‘Logical Parts’, *Noûs*, 36: 578–596.
+* –––, 2006, ‘Coincidence as Overlap’, *Noûs*, 40: 623–659.
+* –––, 2010, ‘The Puzzles of Material Constitution’, *Philosophy Compass*, 5: 579–590.
+* Pearce, Kenneth L., 2017, ‘Mereological Idealism’, in Tyron Goldschmidt and Kenneth L. Pearce (eds.), *Idealism: New Essays in Metaphysics*, Oxford: Oxford University Press, pp. 200–216.
+* Perry, John, 1970, ‘The Same F’, *Philosophical Review*, 79: 181–200.
+* Petersen, Steve, 2019, ‘Composition as Pattern’, *Philosophical Studies*, 176: 1119–1139.
+* Pickel, Bryan, 2010, ‘There is no ‘Is’ of Constitution’, *Philosophical Studies*, 147: 193–211.
+* Price, Marjorie S., 1977, ‘Identity Through Time’, *The Journal of Philosophy*, 74: 201–217.
+* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press.
+* –––, 1987, ‘Truth and Convention: On Davidson’s Refutation of Conceptual Relativism’, *Dialectica*, 41: 69–77.
+* –––, 1994, ‘The Question of Realism’, in his *Words and Life*, Cambridge: Harvard University Press, pp. 295–312.
+* Quine, W. V., 1953, ‘Identity, Ostension and Hypostasis’, in his *From a Logical Point of View*, Cambridge: Harvard University Press, pp. 65–79. Reprinted in Kim et al. 2011.
+* –––, 1981a, *Theories and Things*, Cambridge: Harvard University Press.
+* –––, 1981b, ‘What Price Bivalence?’, *The Journal of Philosophy*, 78: 90–95. Reprinted in Quine 1981a.
+* Rea, Michael C., 1995, ‘The Problem of Material Constitution’, *Philosophical Review*, 104: 525–552.
+* –––, 1997a, *Material Constitution*, Oxford: Rowman & Littlefield.
+* –––, 1997b, ‘Supervenience and Co-Location’, *American Philosophical Quarterly*, 34: 367–375.
+* –––, 1998, ‘In Defense of Mereological Universalism’, *Philosophy and Phenomenological Research*, 58: 347–360.
+* –––, 1999, ‘McGrath on Universalism’, *Analysis*, 59: 201–204.
+* –––, 2000, ‘Constitution and Kind Membership’, *Philosophical Studies*, 97: 169–193.
+* –––, 2001, ‘How to be an Eleatic Monist’, *Philosophical Perspectives*, 15: 129–151.
+* –––, 2002, *World Without Design*, Oxford: Oxford University Press.
+* Remhof, Justin, 2017, *Nietzsche’s Constructivism: A Metaphysics of Material Objects*, New York: Routledge.
+* Renz, Graham, 2016, ‘It’s All in your Head: a Solution to the Problem of Object Coincidence’, *Philosophia*, 44: 1387–1407.
+* Rettler, Bradley, 2016, ‘The General Truthmaker View of Ontological Commitment’, *Philosophical Studies* 173: 1405–1425.
+* –––, 2018, ‘Mereological Nihilism and Puzzles about Material Objects’, *Pacific Philosophical Quarterly*, 99: 842–868.
+* –––, 2019, ‘Quantification in the Ontology Room’, *Dialectica*, 73: 563–585.
+* Richard, Mark, 2006, ‘Context, Vagueness, and Ontology’, in Patrick Greenough and Michael Lynch (eds.), *Truth and Realism*, Oxford: Oxford University Press, pp. 162–174.
+* Robinson, Denis, 1985, ‘Can Amoebae Divide Without Multiplying?’, *Australasian Journal of Philosophy*, 63: 299–319.
+* Rose, David and Jonathan Schaffer, 2017, ‘Folk Mereology is Teleological’, *Noûs*, 51: 238–270.
+* Rosen, Gideon, 2006, ‘The Limits of Contingency’, in Fraser MacBride (ed.), *Identity and Modality*, Oxford: Oxford University Press, pp. 13–39.
+* Rosen, Gideon and Cian Dorr, 2002, ‘Composition as Fiction’, in Richard M. Gale (ed.), *The Blackwell Guide to Metaphysics*, Oxford: Blackwell, pp. 151–174.
+* Rosenberg, Jay F., 1993, ‘Comments on Peter van Inwagen’s Material Beings’, *Philosophy and Phenomenological Research*, 53: 701–708.
+* Saenz, Noël B., 2015, ‘A Grounding Solution to the Grounding Problem’, *Philosophical Studies*, 172: 2193–2214.
+* –––, 2018, ‘Sums and Grounding’, *Australasian Journal of Philosophy*, 96: 102–117.
+* Salmon, Nathan, 1981, *Reference and Essence*, Princeton: Princeton University Press.
+* Sanford, David H., 1979, ‘Nostalgia for the Ordinary: Comments on Papers by Unger and Wheeler’, *Synthese*, 41: 175–184.
+* –––, 1993, ‘The Problem of the Many, Many Composition Questions, and Naive Mereology’, *Noûs*, 27: 219–228.
+* Sanson, David, 2016, ‘Worlds Enough for Junk’, *Res Philosophica*, 93: 45–62.
+* Sattig, Thomas, 2015, *The Double Lives of Objects*, Oxford: Oxford University Press.
+* –––, 2017, ‘Metaphysical Ambitions in the Ontology of Objects’, *Philosophy and Phenomenological Research*, 94: 481–487.
+* Saucedo, Raúl, 2011, ‘Parthood and Location’, *Oxford Studies in Metaphysics*, 6: 223–284.
+* Schaffer, Jonathan, 2007, ‘From Nihilism to Monism’, *Australasian Journal of Philosophy*, 85: 175–191.
+* –––, 2009a, ‘The Deflationary Metaontology of Thomasson’s *Ordinary Objects*’, *Philosophical Books*, 50: 142–157.
+* –––, 2009b, ‘On What Grounds What’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 347–383.
+* –––, 2010, ‘Monism: The Priority of the Whole’, *Philosophical Review*, 119: 31–76.
+* –––, 2012, ‘Why the World Has Parts: Reply to Horgan and Potrč’, in Philip Goff (ed.), *Spinoza on Monism*, Palgrave-Macmillan, pp. 77–91.
+* Shagrir, Oron, 2002, ‘Global Supervenience, Coincident Entities, and Anti-Individualism’, *Philosophical Studies*, 109: 171–196.
+* Shoemaker, Sydney, 1979, ‘Identity, Properties, and Causality’, *Midwest Studies in Philosophy*, 4: 321–342.
+* –––, 1988, ‘On What There Are’, *Philosophical Topics*, 16: 201–223.
+* –––, 2012, ‘Coincidence Through Thick and Thin’, *Oxford Studies in Metaphysics*, 7: 227–253.
+* Shorter, J. M., 1977, ‘On Coinciding in Space and Time’, *Philosophy*, 52: 399–408.
+* Sidelle, Alan, 1989, *Necessity, Essence, and Individuation: a Defense of Conventionalism*, Ithaca: Cornell University Press.
+* –––, 1992a, ‘Identity and Identity-Like’, *Philosophical Topics*, 20: 269–292.
+* –––, 1992b, ‘Rigidity, Ontology, and Semantic Structure’, *The Journal of Philosophy*, 89: 410–430.
+* –––, 1998, ‘A Sweater Unraveled: Following One Thread of Thought for Avoiding Coincident Entities’, *Noûs*, 32: 423–448.
+* –––, 2002, ‘Is There a True Metaphysics of Material Objects?’, *Philosophical Issues*, 12: 118–145.
+* –––, 2009, ‘Conventionalism and the Contingency of Conventions’, *Noûs*, 43: 224–241.
+* –––, 2010, ‘Modality and Objects’, *Philosophical Quarterly*, 60: 109–125.
+* –––, 2014, ‘Does Hylomorphism Offer a Distinctive Solution to the Grounding Problem?’, *Analysis*, 74: 397–404.
+* Sidelle, Alan, 2016, ‘Coincidence: The Grounding Problem, Object-Specifying Principles, and Some Consequences’, *Philosophical Papers*, 45: 497–528.
+* Sider, Theodore, 1993, ‘Van Inwagen and the Possibility of Gunk’, *Analysis*, 53: 285–289.
+* –––, 1996, ‘All the World’s a Stage’, *Australasian Journal of Philosophy*, 74: 433–453. Reprinted in Kim et al. 2011.
+* –––, 1997, ‘Four-Dimensionalism’, *Philosophical Review*, 106: 197–231.
+* –––, 2001a, *Four-Dimensionalism*, Oxford: Oxford University Press. “The Argument from Vagueness” (§4.9) is reprinted in Kim et al. 2011.
+* –––, 2001b, ‘Maximality and Intrinsic Properties’, *Philosophy and Phenomenological Research*, 63: 357–364.
+* –––, 2003a, ‘Against Vague Existence’, *Philosophical Studies*, 114: 135–146.
+* –––, 2003b, ‘What’s So Bad About Overdetermination’, *Philosophy and Phenomenological Research*, 67: 719–726.
+* –––, 2004, ‘Replies to Gallois, Hirsch and Markosian’, *Philosophy and Phenomenological Research*, 58: 674–687.
+* –––, 2007a, ‘Against Monism’, *Analysis*, 67: 1–7.
+* –––, 2007b, ‘Parthood’, *Philosophical Review*, 116: 51–91.
+* –––, 2008a, ‘Temporal Parts’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Malden: Blackwell, pp. 241–262.
+* –––, 2008b, ‘Yet Another Paper on the Supervenience Argument Against Coincident Entities’, *Philosophy and Phenomenological Research*, 77: 613–624.
+* –––, 2009a, ‘Against Vague and Unnatural Existence: Reply to Liebesman and Eklund’, *Noûs*, 43: 557–567.
+* –––, 2009b, ‘Ontological Realism’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 384–423.
+* –––, 2011, *Writing the Book of the World*, Oxford: Oxford University Press.
+* –––, 2013, ‘Against Parthood’, *Oxford Studies in Metaphysics*, 8: 237–293.
+* –––, 2014, ‘Hirsch’s Attack on Ontologese’, *Noûs*, 48: 565–572.
+* Siderits, Mark, 2003, *Personal Identity and Buddhist Philosophy: Empty Persons*, Burlington: Ashgate.
+* Silva, Paul, 2013, ‘Ordinary Objects and Series-Style Answers to the Special Composition Question’, *Pacific Philosophical Quarterly*, 94: 69–88.
+* Simon, Jonathan A., 2017a, ‘The Hard Problem of the Many’, *Philosophical Perspectives*, 31: 449–468.
+* –––, 2017b, ‘Vagueness and Zombies: Why ‘Phenomenally Conscious’ Has No Borderline Cases’, *Philosophical Studies*, 174: 2105–2123.
+* Simons, Peter, 1985, ‘Coincidence of Things of a Kind’, *Mind*, 94: 70–75.
+* –––, 1987, *Parts: A Study in Ontology*, Oxford: Oxford University Press.
+* –––, 2006, ‘Real Wholes, Real Parts: Mereology Without Algebra’, *The Journal of Philosophy*, 103: 597–613.
+* Skiles, Alexander, 2015, ‘Against Grounding Necessitarianism’, *Erkenntnis*, 80: 717–751.
+* Smith, Deborah, 2019, ‘Gunky Objects, Junky Worlds, and Weak Mereological Universalism’, *Erkenntnis*, 84: 41–55.
+* Smith, Donald, 2006, ‘The Vagueness Argument for Mereological Universalism’, *Pacific Philosophical Quarterly*, 87: 357–368.
+* Smith, Nicholas J. J., 2005, ‘A Plea for Things That Are Not Quite All There’, *The Journal of Philosophy*, 102: 381–421.
+* Sosa, Ernest, 1987, ‘Subjects Among Other Things’, *Philosophical Perspectives*, 1: 155–187.
+* –––, 1999, ‘Existential Relativity’, *Midwest Studies in Philosophy*, 23: 132–143. Reprinted in Kim et al. 2011.
+* Spencer, Joshua, 2012, ‘All Things Must Pass Away’, *Oxford Studies in Metaphysics*, 7: 67–92.
+* –––, 2017, ‘Counting on Strong Composition as Identity to Settle the Special Composition Question’, *Erkenntnis*, 82: 857–872.
+* –––, 2020, ‘The Limits of Neo‐Aristotelian Plenitude’, *Pacific Philosophical Quarterly*, 101: 74–92.
+* –––, forthcoming, ‘On the Explanatory Demands of the Special Composition Question’, *Synthese*.
+* Spolaore, Giuseppe, 2012, ‘Not Just a Coincidence: Conditional Counter-examples to Locke’s Thesis’, *Thought*, 1: 108–115.
+* Spolaore, Giuseppe and Pierdaniele Giaretta, 2018, ‘Michelangelo’s Puzzle’, *Philosophia*, 46: 453–464.
+* Stalnaker, Robert, 1988, ‘Vague Identity’, in David F. Austin (ed.), *Philosophical Analysis*, Dordrecht: Kluwer, pp. 349–360. Reprinted in Kim et al. 2011.
+* Steen, Mark, 2008, ‘Chisholm’s Changing Conception of Ordinary Objects’, *Grazer Philosophische Studien*, 76: 1–56.
+* Steen, Mark, 2017, ‘Temporally Restricted Composition’, *Croatian Journal of Philosophy*, 17: 431–440.
+* Stone, Jim, 2002, ‘Why Sortal Essentialism Cannot Solve Chrysippus’s Puzzle’, *Analysis*, 62: 216–223.
+* Street, Sharon,  2006, ‘A Darwinian Dilemma for Realist Theories of Value’, *Philosophical Studies*, 127: 109–166.
+* Strohminger, Margot, 2013, ‘Modal Humeanism and Arguments from Possibility’, *Proceedings of the Aristotelian Society*, 113: 391–401.
+* Sutton, C. S., 2012, ‘Colocated Objects, Tally-Ho: A Solution to the Grounding Problem’, *Mind*, 121: 703–730.
+* –––, 2014, ‘Against the Maximality Principle’, *Metaphysica*, 15: 381–390.
+* Tahko, Tuomas E., 2009, ‘Against the Vagueness Argument’, *Philosophia*, 37: 335–340.
+* Tallant, Jonathan, 2014, ‘Against Mereological Nihilism’, *Synthese*, 191: 1511–1527.
+* Thomasson, Amie, 2003, ‘Realism and Human Kinds’, *Philosophy and Phenomenological Research*, 57: 580–609.
+* –––, 2006, ‘Metaphysical Arguments Against Ordinary Objects’, *Philosophical Quarterly*, 56: 340–359.
+* –––, 2007, *Ordinary Objects*, Oxford: Oxford University Press.
+* –––, 2009, ‘Answerable and Unanswerable Questions’, in David Chalmers, David Manley, and Ryan Wasserman (eds.), *Metametaphysics*, Oxford: Oxford University Press, pp. 444–471.
+* –––, 2015, *Ontology Made Easy*, Oxford: Oxford University Press.
+* –––, 2019, ‘Replies to Comments on *Ontology Made Easy*’, *Philosophy and Phenomenological Research*, 99: 251–264.
+* Thomson, Judith Jarvis, 1983, ‘Parthood and Identity Across Time’, *The Journal of Philosophy*, 80: 201–220. Reprinted in Kim et al. 2011.
+* –––, 1998, ‘The Statue and the Clay’, *Noûs*, 32: 149–173.
+* Tichý, Pavel, 1987/2004, ‘Individuals and Their Roles’, in Vladimir Svoboda, Bjørn Jesperson, and Colin Cheyne (eds.), *Pavel Tichý’s Collected Papers in Logic and Philosophy*, Otago: Otago University Press, pp. 711–748.
+* Tillman, Chris and Joshua Spencer, forthcoming, ‘Advanced D\&D’, *Analysis*.
+* Toner, Patrick, 2006, ‘Meta-Ontology and Accidental Unity’, *Philosophical Quarterly*, 56: 550–561.
+* –––, 2008, ‘On Merricks’s Dictum’, *Journal of Philosophical Research*, 33: 293–297.
+* Torza, Alessandro, 2017, ‘Vague Existence’, *Oxford Studies in Metaphysics*, 10: 201–234.
+* Turner, Jason, 2011, ‘Ontological Nihilism’, *Oxford Studies in Metaphysics*, 6: 3–54.
+* –––, 2013, ‘Existence and Many-One Identity’, *Philosophical Quarterly*, 63: 313–329.
+* Tye, Michael, 1990, ‘Vague Objects’, *Mind*, 99: 535–557.
+* –––, 1992, ‘Review of *Material Beings*’, *Philosophical Review*, 101: 881–884.
+* –––, 1996a, ‘Fuzzy Realism and the Problem of the Many’, *Philosophical Studies*, 81: 215–225.
+* –––, 1996b, ‘Is Consciousness Vague or Arbitrary?’, *Philosophy and Phenomenological Research*, 56: 679–685.
+* Unger, Peter, 1979a, ‘I Do Not Exist’, in G. F. Macdonald (ed.), *Perception and Identity*, New York: Macmillan, pp. 235–251. Reprinted in Rea 1997a.
+* –––, 1979b, ‘There Are No Ordinary Things’, *Synthese*, 41: 117–154.
+* –––, 1979c, ‘Why There Are No People’, *Midwest Studies in Philosophy*, 4: 177–222.
+* –––, 1980, ‘The Problem of the Many’, *Midwest Studies in Philosophy*, 5: 411–467.
+* –––, 2004, ‘The Mental Problems of the Many’, *Oxford Studies in Metaphysics*, 1: 195–222.
+* –––, 2005, *All the Power in the World*, Oxford: Oxford University Press.
+* Uzquiano, Gabriel, 2004, ‘Plurals and Simples’, *Noûs*, 87: 429–451.
+* Van Cleve, James, 1986, ‘Mereological Essentialism, Mereological Conjunctivism, and Identity Through Time’, *Midwest Studies in Philosophy*, 11: 141–156.
+* –––, 2008, ‘The Moon and Sixpence: A Defense of Mereological Universalism’, in Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), *Contemporary Debates in Metaphysics*, Malden: Blackwell, pp. 321–340.
+* van Elswyk, Peter, 2018, ‘Contrast and Constitution’, *Philosophical Quarterly*, 68: 158–174.
+* van Inwagen, Peter, 1981, ‘The Doctrine of Arbitrary Undetached Parts’, *Pacific Philosophical Quarterly*, 62: 123–137. Reprinted in Rea 1997a.
+* –––, 1987, ‘When Are Objects Parts?’, *Philosophical Perspectives*, 1: 21–47. Reprinted in Kim et al. 2011.
+* –––, 1990, *Material Beings*, Ithaca: Cornell.
+* –––, 1993, ‘Reply to Reviewers’, *Philosophy and Phenomenological Research*, 53: 709–719.
+* –––, 1994, ‘Composition as Identity’, *Philosophical Perspectives*, 8: 207–220.
+* –––, 2014, ‘Introduction: Inside and Outside the Ontology Room’, in his *Existence: Essays in Ontology*, New York: Cambridge University Press, pp. 1–14.
+* –––, 2019, ‘Against Analytic Existence Entailments’, in Javier Cumpa and Bill Brewer (eds.), *The Nature of Ordinary Objects*, Cambridge: Cambridge University Press, pp. 173–197.
+* Vander Laan, David, 2010, ‘A Relevance Constraint on Composition’, *Australasian Journal of Philosophy*, 88: 135–145.
+* Varzi, Achille C., 2002, ‘Words and Objects’, in Andrea Bottani, Massimiliano Carrara, and Daniele Giaretta (eds.), *Individuals, Essence, and Identity: Themes of Analytic Metaphysics*, Dordrecht: Kluwer Academic Publishers, pp. 49–75.
+* –––, 2003, ‘Perdurantism, Universalism, and Quantifiers’, *Australasian Journal of Philosophy*, 81: 208–215.
+* –––, 2005, ‘Change, Temporal Parts, and the Argument From Vagueness’, *Dialectica*, 59: 485–498.
+* Vavova, Katia, 2015, ‘Evolutionary Debunking of Moral Realism’, *Philosophy Compass*, 10: 104–116.
+* Wake, Andrew V., 2011, ‘Spacetime and Mereology’, *Erkenntnis*, 74: 17–35.
+* Wallace, Megan B., 2011a, ‘Composition as Identity: Part 1’, *Philosophy Compass*, 6: 804–816.
+* –––, 2011b, ‘Composition as Identity: Part 2’, *Philosophy Compass*, 6: 817–827.
+* –––, 2013, ‘Counterparts and Compositional Nihilism: A Reply to A. J. Cotnoir’, *Thought*, 2: 242–247.
+* –––, 2014, ‘The Argument from Vagueness for Modal Parts’, *Dialectica*, 68: 355–373.
+* –––, forthcoming, ‘Counterexamples and Commonsense’, *Analysis*.
+* Wasserman, Ryan, 2002, ‘The Standard Objection to the Standard Account’, *Philosophical Studies*, 111: 197–216.
+* Watson, Duncan, 2010, ‘An Argument Against an Argument Against the Necessity of Universal Mereological Composition’, *Analysis*, 70: 78–82.
+* Weatherson, Brian, 2003, ‘Many Many Problems’, *Philosophical Quarterly*, 53: 481–501.
+* Wheeler, Samuel C., 1979, ‘On That Which is Not’, *Synthese*, 41: 155–173.
+* Wiggins, David, 1968, ‘On Being in the Same Place at the Same Time’, *Philosophical Review*, 77: 90–95. Reprinted in Rea 1997a.
+* –––, 2001, *Sameness and Substance Renewed*, New York: Cambridge University Press.
+* Wilkins, Shane, 2016, ‘Why Paraphrase Nihilism Fails’, *Synthese*, 193: 2619–2632.
+* Williams, J. Robert G., 2006a, ‘An Argument for the Many’, *Proceedings of the Aristotelian Society*, 106: 411–417.
+* –––, 2006b, ‘Illusions of Gunk’, *Philosophical Perspectives*, 20: 493–513.
+* –––, 2007, ‘Eligibility and Inscrutability’, *Philosophical Review*, 116: 361–399.
+* –––, 2013, ‘Part-Intrinsicality’, *Noûs*, 47: 431–452.
+* Williamson, Timothy, 1994, *Vagueness*, London: Routledge.
+* –––, 2007, *The Philosophy of Philosophy*, Malden: Blackwell.
+* –––, 2013, *Modal Logic as Metaphysics*, Oxford: Oxford University Press.
+* Wilson, Jessica M., 2010, ‘What is Hume’s Dictum, and Why Believe It?’, *Philosophy and Phenomenological Research*, 80: 595–637.
+* –––, 2013, ‘A Determinable-Based Account of Metaphysical Indeterminacy’, *Inquiry*, 56: 359–385.
+* Witmer, D. Gene, 2003, ‘Review of *World Without Design*’, *Australasian Journal of Philosophy*, 81: 603–606.
+* Woods, Evan T., forthcoming, ‘Many, But One’, *Synthese*.
+* Woodward, Richard, 2011, ‘Metaphysical Indeterminacy and Vague Existence’, *Oxford Studies in Metaphysics*, 6: 183–197.
+* Yablo, Stephen, 1987, ‘Identity, Essence, and Indiscernibility’, *The Journal of Philosophy*, 84: 293–314.
+* –––, 2014, ‘Carnap’s Paradox and Easy Ontology’, *Journal of Philosophy*, 111: 470–501.
+* Yang, Eric, 2013, ‘Eliminativism, Interventionism and the Overdetermination Argument’, *Philosophical Studies*, 164: 321–340.
+* Yi, Byeong-Uk, 1999, ‘Is Mereology Ontologically Innocent?’, *Philosophical Studies*, 93: 141–160.
+* –––, forthcoming, ‘Is Composition Identity?’, *Synthese*.
+* Zerbudis, Ezequiel, 2018, ‘El Conservadurismo Realista Acerca de la Composición de Daniel Korman’, *Cuadernos de Filosofía*, 36: 33–53.
+* Zimmerman, Dean W., 1995, ‘Theories of Masses and Problems of Constitution’, *Philosophical Review*, 104: 53–110.
+* –––, 1996, ‘Could Extended Objects Be Made Out of Simple Parts? An Argument for ‘Atomless Gunk’’, *Philosophy and Phenomenological Research*, 56: 1–29.
+* –––, 1999, ‘Review of *Substance: Its Nature and Existence*’, *Philosophical Review*, 108: 118–122.
 
 ## Academic Tools
 
@@ -1255,4 +1254,4 @@ JK1 背后的想法是，就像没有逻辑或概念上的障碍可以无限下�
 [emergent properties](https://plato.stanford.edu/entries/properties-emergent/) | [grounding, metaphysical](https://plato.stanford.edu/entries/grounding/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [many, problem of](https://plato.stanford.edu/entries/problem-of-many/) | [material constitution](https://plato.stanford.edu/entries/material-constitution/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [monism](https://plato.stanford.edu/entries/monism/) | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/) | [temporal parts](https://plato.stanford.edu/entries/temporal-parts/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Daniel Z. Korman <[_dkorman@ucsb.edu_](mailto:dkorman%40ucsb%2eedu)>
+Daniel Z. Korman <[*dkorman@ucsb.edu*](mailto:dkorman%40ucsb%2eedu)>

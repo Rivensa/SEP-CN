@@ -1,9 +1,9 @@
 # 博弈论 game theory (Don Ross)
 
-_首次发表于 1997 年 1 月 25 日，实质性修订于 2023 年 9 月 3 日。_
+*首次发表于 1997 年 1 月 25 日，实质性修订于 2023 年 9 月 3 日。*
 
 博弈论是研究经济主体相互作用选择如何产生与这些主体的偏好（或效用）相关的结果的学科，其中所讨论的结果可能没有任何一个主体的意图。对于非专家来说，除非解释并且在一些例子中展示了每个斜体字和短语，否则这个陈述的意义将不清楚。这将是本文的主要内容。然而，首先，我们提供一些历史和哲学背景，以激发读者对即将展开的技术工作的兴趣。
- 
+
 ***
 
 ## 1. Philosophical and Historical Motivation
@@ -94,9 +94,9 @@ Hobbes 将这一论点的逻辑推到了一个非常强烈的结论，认为这�
 
 |                |                | 猎人             |     |     |
 | -------------- | -------------- | -------------- | --- | --- |
-| _Safe Bridge_  | _Rocky Bridge_ | _Cobra Bridge_ |     |     |
-| Fugitive       | _Safe Bridge_  | 0,1            | 1,0 | 1,0 |
-| _Rocky Bridge_ | ?              | 0,1            | ?   |     |
+| *Safe Bridge*  | *Rocky Bridge* | *Cobra Bridge* |     |     |
+| Fugitive       | *Safe Bridge*  | 0,1            | 1,0 | 1,0 |
+| *Rocky Bridge* | ?              | 0,1            | ?   |     |
 | \* 眼镜蛇桥\*      | ?              | ?              | 0,1 |     |
 
 Figure 2
@@ -121,9 +121,9 @@ Go free ≫42 years ≫35 years ≫210 years ≫0
 
 |           |           | 第二位玩家 |     |
 | --------- | --------- | ----- | --- |
-| _Confess_ | _Refuse_  |       |     |
-| Player I  | _Confess_ | 2,2   | 4,0 |
-| _Refuse_  | 0,4       | 3,3   |     |
+| *Confess* | *Refuse*  |       |     |
+| Player I  | *Confess* | 2,2   | 4,0 |
+| *Refuse*  | 0,4       | 3,3   |     |
 
 Figure 3
 
@@ -145,7 +145,7 @@ Figure 3
 
 首先，这里有一些概念的定义，这些概念有助于分析博弈树：
 
-> _Node_: a point at which a player chooses an action.
+> *Node*: a point at which a player chooses an action.
 >
 > 初始节点：游戏中发生第一次行动的点。
 >
@@ -381,10 +381,10 @@ f1=36121f2=40121f3=45121
 
 |                |                                                                                                                                                                                                                                                                                                                                                          | Hunter    |         |     |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------- | --- |
-| _Safe Bridge_  | \* 岩石桥\*                                                                                                                                                                                                                                                                                                                                                 | \* 眼镜蛇桥\* |         |     |
+| *Safe Bridge*  | \* 岩石桥\*                                                                                                                                                                                                                                                                                                                                                 | \* 眼镜蛇桥\* |         |     |
 | 逃亡者            | \* 安全的桥Now, I will translate the philosophy paper according to the result of the first direct translation, making the content more in line with the Chinese expression habits under the premise of abiding by the original meaning. Then I will check whether it meets the specific requirements and correct the ones that don't meet the requirements\* | 0,1       | 1,0     | 1,0 |
-| _Rocky Bridge_ | 0.9,0.1                                                                                                                                                                                                                                                                                                                                                  | 0,1       | 0.9,0.1 |     |
-| _Cobra Bridge_ | 0.8,0.2                                                                                                                                                                                                                                                                                                                                                  | 0.8,0.2   | 0,1     |     |
+| *Rocky Bridge* | 0.9,0.1                                                                                                                                                                                                                                                                                                                                                  | 0,1       | 0.9,0.1 |     |
+| *Cobra Bridge* | 0.8,0.2                                                                                                                                                                                                                                                                                                                                                  | 0.8,0.2   | 0,1     |     |
 
 图 12
 
@@ -463,7 +463,7 @@ Bayes's Rule在下面的例子中将被用于工作。但首先，让我们对�
 
 如果玩家知道存在这种误传的可能性，他们就有动机采用更复杂的策略。特别是，他们可能会准备好有时冒险在背叛之后合作，以测试他们的推断。然而，如果他们太宽容，其他玩家就可以通过额外的背叛来剥削他们。一般来说，随着策略变得更加复杂，发生这种情况的游戏的玩家会遇到更加困难的学习挑战。因为更复杂的策略对其他玩家的推断更加困难（因为它们与更多变和复杂的可观察行为模式相容），它们的使用增加了误传的可能性。但误传正是导致重复博弈合作均衡首先瓦解的原因。围绕信息信号、筛选和推断的复杂性有助于直观地解释民间定理，之所以如此称呼是因为没有人确定是谁首先意识到它，在重复博弈中，对于任何策略 S，存在其他玩家策略的可能分布，使得 S 和这些其他策略的向量是一个纳什均衡。当批评者批评将博弈论应用于行为科学、社会科学和商业案例时，抱怨所涉及的应用假设人们推断能力的水平不切实际，这就是他们所指的。在第 5 节中，我们将考虑一种回应这种关注的方式。
 
-Real, complex, social and political dramas are seldom straightforward instantiations of simple games such as PDs. [Hardin (1995)](https://plato.stanford.edu/entries/game-theory/#Har95) offers an analysis of two tragically real political cases, the Yugoslavian civil war of 1991–95, and the 1994 Rwandan genocide, as PDs that were nested inside _coordination games_.
+Real, complex, social and political dramas are seldom straightforward instantiations of simple games such as PDs. [Hardin (1995)](https://plato.stanford.edu/entries/game-theory/#Har95) offers an analysis of two tragically real political cases, the Yugoslavian civil war of 1991–95, and the 1994 Rwandan genocide, as PDs that were nested inside *coordination games*.
 
 协调博弈发生在两个或更多玩家通过彼此做相同的事情来最大化效用的情况下，而这种对应对他们来说比他们所做的具体事情更重要。一个标准的例子是道路交通规则：‘都靠左行驶’和‘都靠右行驶’都是纳什均衡，而且两者之间没有更有效率的。在“纯”协调游戏中，使用更具选择性的均衡标准甚至都没有帮助。例如，假设我们要求我们的玩家根据贝叶斯定理进行推理（见上文第 3 节）。在这种情况下，对于任何在纳什均衡中可用的混合策略向量的任何最佳回应策略都被称为是合理化的。也就是说，玩家可以找到其他玩家的一组信念系统，使得游戏沿着均衡路径的任何历史都与该信念系统一致。纯协调游戏的特点是合理化策略的向量是非唯一的。诺贝尔奖获得者托马斯·谢林（1978）推测，并且通过实验证明，在这种情况下，玩家可能会试图通过寻找焦点来预测均衡，也就是说，他们相信某些策略的特征将对其他玩家产生显著影响，并且他们相信其他玩家会相信这些特征对他们来说是显著的。例如，如果两个人想在某一天在一个大城市见面，但无法联系对方安排具体的时间和地点，两人都可能明智地在中午去城市最显著的市中心广场。一般来说，玩家彼此了解得越多，或者他们观察彼此的战略行为的次数越多，他们成功找到协调的焦点的可能性就越大。
 
@@ -517,7 +517,7 @@ O’Connor 的分析的第一部分对政策也有重要的启示。正如她强
 | I                                                                                                                                                                                                                                                                                                                                                                                                             | C   | 2,2 | 0,3 |
 | C (C 表示与对手合作的策略（即拒绝坦白），D 表示对交易中的对手采取背叛的策略（即坦白）。) 当一个博弈论者告诉人们，被称为“理性”的玩家必须以这种方式选择游戏，以产生结果(D,D)时，许多人会觉得难以置信。这种解释似乎需要对非常强大的描述性和规范性个人主义形式进行诉诸。毕竟，如果玩家们对社会利益（对于他们这个由两个小偷组成的社会）给予更高的价值，而不是对个人福利，那么他们也可以在个人层面做得更好；有人反对说，固执的个人主义会导致从个人优化的角度来看是一种错误的行为，因此似乎是不连贯的。有人可能会争辩说，玩家破坏了自己的福祉，因为他们固执地拒绝关注他们选择的社会背景。Sugden（1993）似乎是第一个提出即使是在一次性的囚徒困境中，即使是非利他主义的玩家也可能共同看到他们可以作为一个团队进行推理，也就是说，通过问“什么对我们最有利？”而不是“什么对我最有利？”来选择他们的策略。 | 3,0 | 1,1 |     |
 
-(C denotes the strategy of cooperating with one’s opponent (i.e., refusing to confess) and D denotes the strategy of defecting on a deal with one’s opponent (i.e., confessing).) Many people find it incredible when a game theorist tells them that players designated with the honorific ‘rational’ must choose in this game in such a way as to produce the outcome (D,D). The explanation seems to require appeal to very strong forms of both descriptive and normative individualism. After all, if the players attached higher value to the social good (for their 2-person society of thieves) than to their individual welfare, they could then do better individually too; obstinate individualism, it is objected, yields behavior that is perverse from the individually optimizing point of view, and so seems incoherent. The players undermine their own welfare, one might argue, because they obstinately refuse to pay any attention to the social context of their choices. [Sugden (1993)](https://plato.stanford.edu/entries/game-theory/#Sug93) seems to have been the first to suggest that even non-altruistic players in the one-shot PD might jointly see that they could reason _as a team_, that is, arrive at their choices of strategies by asking ‘What is best for _us_?’ instead of ’What is best for _me_?’.
+(C denotes the strategy of cooperating with one’s opponent (i.e., refusing to confess) and D denotes the strategy of defecting on a deal with one’s opponent (i.e., confessing).) Many people find it incredible when a game theorist tells them that players designated with the honorific ‘rational’ must choose in this game in such a way as to produce the outcome (D,D). The explanation seems to require appeal to very strong forms of both descriptive and normative individualism. After all, if the players attached higher value to the social good (for their 2-person society of thieves) than to their individual welfare, they could then do better individually too; obstinate individualism, it is objected, yields behavior that is perverse from the individually optimizing point of view, and so seems incoherent. The players undermine their own welfare, one might argue, because they obstinately refuse to pay any attention to the social context of their choices. [Sugden (1993)](https://plato.stanford.edu/entries/game-theory/#Sug93) seems to have been the first to suggest that even non-altruistic players in the one-shot PD might jointly see that they could reason *as a team*, that is, arrive at their choices of strategies by asking ‘What is best for *us*?’ instead of ’What is best for *me*?’.
 
 Binmore (1994) 强烈主张，这一批评观点混淆了将博弈论作为数学与关于哪种博弈论模型最常适用于人们所处情境的问题。如果玩家们重视他们所属团队的效用，超过了更狭隘的个人利益，那么这应该在与他们选择相关的博弈论模型的回报中得到体现。在上文中被建模为 PD 的情境中，如果两名玩家对“团队”的关注足够强烈，以至于导致从 D 到 C 策略的转变，那么（在基数解释下）左上角的回报至少必须提高到 3。（在 3 的情况下，玩家在合作和背叛之间会感到漠不关心。）然后我们得到了如下对游戏的转换：
 
@@ -527,7 +527,7 @@ Binmore (1994) 强烈主张，这一批评观点混淆了将博弈论作为数�
 | I                                                                                                                   | C   | 4,4 | 0,3 |
 | 这不再是一个 PD; 它是一个保证博弈，有两个 NE 在(C,C)和(D,D)，前者对后者是帕累托优越的。因此，如果玩家找到这个均衡，我们不应该说他们在 PD 中玩了非 NE 策略。相反，我们应该说 PD 是对他们情况的错误模型。 | 3,0 | 1,1 |     |
 
-This is no longer a PD; it is an _Assurance game_, which has two NE at (C,C) and (D,D), with the former being Pareto superior to the latter. Thus if the players find this equilibrium, we should not say that they have played non-NE strategies in a PD. Rather, we should say that the PD was the wrong model of their situation.
+This is no longer a PD; it is an *Assurance game*, which has two NE at (C,C) and (D,D), with the former being Pareto superior to the latter. Thus if the players find this equilibrium, we should not say that they have played non-NE strategies in a PD. Rather, we should say that the PD was the wrong model of their situation.
 
 批评个人主义者可以承认宾莫尔的逻辑观点，但可以通过主张改变博弈来加以解释，如果他们发现自己处于这样的情况中，当经济代理的相关解释是个人主义时，这些情况具有 PDs 的结构。这正是巴哈拉赫的理论提议。他的科学执行者苏格登和戈尔德在巴哈拉赫（2006）第 171-173 页中，与 Hollis 和 Sugden（1993）不同，使用了收益解释的标准约定，根据这一约定，只有在至少有一名玩家出错时，玩家才能被建模为在一次性 PD 中合作。在这种假设下，巴哈拉赫、苏格登和戈尔德认为，人类游戏玩家通常或经常会避免以一次性 PD 是他们情况的正确模型的方式构建情况。个人主义代理会将作为 PD 的情况构建为上述保证博弈。请注意，团队的福祉可能会对（基数）收益产生影响，但不足以抵消单方面背叛的诱惑。假设它使他们每个玩家的收益提高到 2.5；那么游戏仍然是 PD。这一点很重要，因为在实验中，受试者玩一系列一次性 PD（而不是重复的 PD，因为实验中的对手在每一轮都会改变）时，大多数受试者开始合作，但随着实验的进行，他们学会了背叛。根据巴哈拉赫对这一现象的解释，这些受试者最初将游戏构建为团队推理者。然而，少数受试者将其构建为个人主义推理者并进行背叛，获取搭便车者的利润。然后团队推理者重新构建情况以自卫。这引入了巴哈拉赫解释的一个关键方面。个人主义推理者和团队推理者并不被认为是不同类型的人。巴哈拉赫认为，人们倾向于在个人主义代理和参与团队代理之间来回切换。
 
@@ -563,11 +563,11 @@ This is no longer a PD; it is an _Assurance game_, which has two NE at (C,C) and
 
 斯特林正式定义了三种有序效用函数的表示定理：条件效用、一致效用和条件一致效用。这些可以被递归应用，即对个体、团队和团队的团队。然后，正式发展的核心是将个体的条件一致偏好聚合起来，建立团队选择模型，这些模型不是外生地强加给团队成员的，而是从他们的几种偏好中得出的。在当前情境中陈述斯特林的聚合程序时，改变他的术语是有用的，因此我们可以转述他而不是直接引用。这是因为斯特林提到“群体”而不是“团队”。斯特林在 CGT 方面的最初工作完全独立于巴查拉克的工作，因此没有在团队推理的背景下配置（或者我们可以重新解释为以团队为中心的选择）。但是巴查拉克的想法提供了一个自然的框架，用来构建斯特林的技术成就，作为对社会科学中博弈论适用性的丰富。然后我们可以转述他对聚合的五个约束如下：
 
-> (1) _Conditioning_: A team member’s preference ordering may be influenced by the preferences of other team members, i.e. may be conditional. (Influence may be set to zero, in which case the conditional preference ordering collapses to the categorical preference ordering to standard RPT.)
+> (1) *Conditioning*: A team member’s preference ordering may be influenced by the preferences of other team members, i.e. may be conditional. (Influence may be set to zero, in which case the conditional preference ordering collapses to the categorical preference ordering to standard RPT.)
 >
-> (2) _Endogeny_: A concordant ordering for a team must be determined by the social interactions of its sub-teams. (This condition ensures that team preferences are not simply imposed on individual preferences.)
+> (2) *Endogeny*: A concordant ordering for a team must be determined by the social interactions of its sub-teams. (This condition ensures that team preferences are not simply imposed on individual preferences.)
 >
-> (3) _Acyclicity_: Social influence relations are not reciprocal. (This will likely look at first glance to be a strange restriction: surely most social influence relationships, among people at any rate, _are_ reciprocal. But, as noted earlier, we need to keep conditional preference distinct from agent fusion, and this condition helps to do that. More importantly, as a matter of mathematics it allows teams to be represented in directed graphs. The condition is not as restrictive, where modeling flexibility is concerned, as one might at first think, for two reasons. First, it only bars us from representing an agent j influenced by another agent i from _directly_ influencing i. We are free to represent j as influencing k who in turn influences i.) Second, and more importantly, in light of the exchangeability constraint below, aggregation is insensitive to the ordering of pairs of players between whom there is a social influence relationship.)
+> (3) *Acyclicity*: Social influence relations are not reciprocal. (This will likely look at first glance to be a strange restriction: surely most social influence relationships, among people at any rate, *are* reciprocal. But, as noted earlier, we need to keep conditional preference distinct from agent fusion, and this condition helps to do that. More importantly, as a matter of mathematics it allows teams to be represented in directed graphs. The condition is not as restrictive, where modeling flexibility is concerned, as one might at first think, for two reasons. First, it only bars us from representing an agent j influenced by another agent i from *directly* influencing i. We are free to represent j as influencing k who in turn influences i.) Second, and more importantly, in light of the exchangeability constraint below, aggregation is insensitive to the ordering of pairs of players between whom there is a social influence relationship.)
 >
 > (4) 交换性：一致的偏好排序在与条件偏好相关的信息等价的表征转换下保持不变。
 >
@@ -846,190 +846,190 @@ The theory of cooperative games is consolidated in [Chakravarty, Mitra and Sarka
 
 ### References
 
-* Ainslie, G. (1992). _Picoeconomics_, Cambridge: Cambridge University Press.
-* ––– (2001). _Breakdown of Will_, Cambridge: Cambridge University Press.
-* Alexander, J.M. (2023). _Evolutionary Game Theory_, Cambridge: Cambridge University Press.
-* Amadae, S. (2016). _Prisoners of Reason_, Cambridge: Cambridge University Press.
-* Andersen, S., Harrison, G., Lau, M., and Rutstrom, E. (2008). Eliciting risk and time preferences. _Econometrica_, 76: 583–618.
-* ––– (2014). Dual criteria decisions. _Journal of Economic Psychology_, forthcoming.
-* Aumann, R. (1974). Subjectivity and Correlation in Randomized Strategies. _Journal of Mathematical Economics_, 1: 67–96.
-* ––– (1987). Correlated Equilibrium as an Expression of Bayesian Rationality. _Econometrica_, 55: 1–18.
-* Bacharach, M. (2006). _Beyond Individual Choice: Teams and Frames in Game Theory_, Princeton: Princeton University Press.
-* Baird, D., Gertner, R., and Picker, R. (1994). _Game Theory and the Law_, Cambridge, MA: Harvard University Press.
-* Bell, W., (1991). _Searching Behaviour_, London: Chapman and Hall.
-* Bicchieri, C. (1993). _Rationality and Coordination_, Cambridge: Cambridge University Press.
-* ––– (2006). _The Grammar of Society_, Cambridge: Cambridge University Press.
-* ––– (2017). _Norms in the Wild_. Oxford: Oxford University Press.
-* Bickhard, M. (2008). Social Ontology as Convention. _Topoi_, 27: 139–149.
-* Binmore, K. (1987). Modeling Rational Players I. _Economics and Philosophy_, 3: 179–214.
-* ––– (1994). _Game Theory and the Social Contract_ (v. 1): _Playing Fair_, Cambridge, MA: MIT Press.
-* ––– (1998). _Game Theory and the Social Contract_ (v. 2): _Just Playing_, Cambridge, MA: MIT Press.
-* ––– (2005a). _Natural Justice_, Oxford: Oxford University Press.
-* ––– (2005b). Economic Man—or Straw Man? _Behavioral and Brain Sciences_ 28: 817–818.
-* ––– (2005c). _Playing For Real_, Oxford: Oxford University Press.
-* ––– (2007). _Does Game Theory Work? The Bargaining Challenge_, Cambridge, MA: MIT Press.
-* ––– (2008). Do Conventions Need to be Common Knowledge? _Topoi_ 27: 17–27.
-* ––– (2009). _Rational Decisions_, Princeton: Princeton University Press.
-* Binmore, K., Kirman, A., and Tani, P. (eds.) (1993). _Frontiers of Game Theory_, Cambridge, MA: MIT Press
-* Binmore, K., and Klemperer, P. (2002). The Biggest Auction Ever: The Sale of British 3G Telcom Licenses. _Economic Journal_, 112: C74–C96.
-* Bishop, B.(2009). _The Big Sort_. New York: Mariner.
-* Boyd, R., and Richerson, P. (1985). _Culture and the Evolutionary Process_, Chicago: University of Chicago Press.
-* Camerer, C. (1995). Individual Decision Making. In J. Kagel and A. Roth, eds., _Handbook of Experimental Economics_, 587–703. Princeton: Princeton University Press.
-* ––– (2003). _Behavioral Game Theory: Experiments in Strategic Interaction_, Princeton: Princeton University Press.
-* Camerer, C., Loewenstein, G., and Prelec, D. (2005). Neuroeconomics: How Neuroscience Can Inform Economics. _Journal of Economic Literature_, 40: 9–64.
-* Chakravarty, S., Mitra, M., and Sarkar, P. (2015). _A Course on Cooperative Game Theory_, Cambridge: Cambridge University Press.
+* Ainslie, G. (1992). *Picoeconomics*, Cambridge: Cambridge University Press.
+* ––– (2001). *Breakdown of Will*, Cambridge: Cambridge University Press.
+* Alexander, J.M. (2023). *Evolutionary Game Theory*, Cambridge: Cambridge University Press.
+* Amadae, S. (2016). *Prisoners of Reason*, Cambridge: Cambridge University Press.
+* Andersen, S., Harrison, G., Lau, M., and Rutstrom, E. (2008). Eliciting risk and time preferences. *Econometrica*, 76: 583–618.
+* ––– (2014). Dual criteria decisions. *Journal of Economic Psychology*, forthcoming.
+* Aumann, R. (1974). Subjectivity and Correlation in Randomized Strategies. *Journal of Mathematical Economics*, 1: 67–96.
+* ––– (1987). Correlated Equilibrium as an Expression of Bayesian Rationality. *Econometrica*, 55: 1–18.
+* Bacharach, M. (2006). *Beyond Individual Choice: Teams and Frames in Game Theory*, Princeton: Princeton University Press.
+* Baird, D., Gertner, R., and Picker, R. (1994). *Game Theory and the Law*, Cambridge, MA: Harvard University Press.
+* Bell, W., (1991). *Searching Behaviour*, London: Chapman and Hall.
+* Bicchieri, C. (1993). *Rationality and Coordination*, Cambridge: Cambridge University Press.
+* ––– (2006). *The Grammar of Society*, Cambridge: Cambridge University Press.
+* ––– (2017). *Norms in the Wild*. Oxford: Oxford University Press.
+* Bickhard, M. (2008). Social Ontology as Convention. *Topoi*, 27: 139–149.
+* Binmore, K. (1987). Modeling Rational Players I. *Economics and Philosophy*, 3: 179–214.
+* ––– (1994). *Game Theory and the Social Contract* (v. 1): *Playing Fair*, Cambridge, MA: MIT Press.
+* ––– (1998). *Game Theory and the Social Contract* (v. 2): *Just Playing*, Cambridge, MA: MIT Press.
+* ––– (2005a). *Natural Justice*, Oxford: Oxford University Press.
+* ––– (2005b). Economic Man—or Straw Man? *Behavioral and Brain Sciences* 28: 817–818.
+* ––– (2005c). *Playing For Real*, Oxford: Oxford University Press.
+* ––– (2007). *Does Game Theory Work? The Bargaining Challenge*, Cambridge, MA: MIT Press.
+* ––– (2008). Do Conventions Need to be Common Knowledge? *Topoi* 27: 17–27.
+* ––– (2009). *Rational Decisions*, Princeton: Princeton University Press.
+* Binmore, K., Kirman, A., and Tani, P. (eds.) (1993). *Frontiers of Game Theory*, Cambridge, MA: MIT Press
+* Binmore, K., and Klemperer, P. (2002). The Biggest Auction Ever: The Sale of British 3G Telcom Licenses. *Economic Journal*, 112: C74–C96.
+* Bishop, B.(2009). *The Big Sort*. New York: Mariner.
+* Boyd, R., and Richerson, P. (1985). *Culture and the Evolutionary Process*, Chicago: University of Chicago Press.
+* Camerer, C. (1995). Individual Decision Making. In J. Kagel and A. Roth, eds., *Handbook of Experimental Economics*, 587–703. Princeton: Princeton University Press.
+* ––– (2003). *Behavioral Game Theory: Experiments in Strategic Interaction*, Princeton: Princeton University Press.
+* Camerer, C., Loewenstein, G., and Prelec, D. (2005). Neuroeconomics: How Neuroscience Can Inform Economics. *Journal of Economic Literature*, 40: 9–64.
+* Chakravarty, S., Mitra, M., and Sarkar, P. (2015). *A Course on Cooperative Game Theory*, Cambridge: Cambridge University Press.
 * Chew, S., and MacCrimmon, K. (1979). Alpha-nu Choice Theory: A Generalization of Expected Utility Theory. Working Paper No. 686, University of Columbia Faculty of Commerce and Business Administration.
-* Chiappori, P.-A. (2017). _Matching With Transfers: The Economics of Love and Marriage_, Princeton: Princeton University Press.
-* Clark, A. (1997). _Being There_, Cambridge, MA: MIT Press.
-* ––– (2016). _Surfing Uncertainty_, Cambridge, MA: MIT Press.
-* Danielson, P. (1992). _Artificial Morality_, London: Routledge
-* ––– (ed.) (1998). _Modelling Rationality, Morality and Evolution_, Oxford: Oxford University Press.
-* Dennett, D. (1987). _The Intentional Stance_, Cambridge, MA: MIT Press.
-* ––– (1995). _Darwin’s Dangerous Idea_, New York: Simon and Schuster.
-* Dixit, A., and Nalebuff, B. (1991). _Thinking Strategically_, New York: Norton.
-* ––– (2008). _The Art of Strategy_, New York: Norton.
-* Dixit, A., Skeath, S., and Reiley, D. (2014). _Games of Strategy_, fourth edition. New York: W. W. Norton and Company.
-* Dugatkin, L., and Reeve, H., eds. (1998). _Game Theory and Animal Behavior_, Oxford: Oxford University Press.
-* Dukas, R., ed. (1998). _Cognitive Ecology._, Chicago: University of Chicago Press.
-* Durlauf, S., and Young, H.P., eds. (2001). _Social Dynamics_, Cambridge, MA: MIT Press.
-* Ellsberg, D. (2017). _The Doomsday Machine_, New York: Bloomsbury.
-* Erickson, P. (2015). _The World the Game Theorists Made_, Chicago: University of Chicago Press.
-* Frank, R. (1988). _Passions Within Reason_, New York: Norton.
-* Fudenberg, D., and Levine, D. (1998). _The Theory of Learning in Games_, Cambridge, MA: MIT Press.
-* ––– (2008). _A Long-Run Collaboration on Long-Run Games_. Singapore: World Scientific.
-* ––– (2016). Whither Game Theory? Towards a Theory of Learning in Games. _Journal of Economic Perspectives_, 30(4): 151–170
-* Fudenberg, D., and Tirole, J. (1991). _Game Theory_, Cambridge, MA: MIT Press.
-* Gale, D., and Shapley, L. (1962). College Admissions and the Stability of Marriage. _American Mathematical Monthly_, 69 :9–15.
-* Gauthier, D. (1986). _Morals By Agreement_, Oxford: Oxford University Press.
-* Gershkov, A., and Moldovanu, B. (2014). _Dynamic Allocation and Pricing: A Mechanism Design Approach_, Cambridge, MA: MIT Press.
-* Ghemawat, P. (1997). _Games Businesses Play_, Cambridge, MA: MIT Press.
-* Gilbert, M. (1989). _On Social Facts_, Princeton: Princeton University Press.
-* Gintis, G.(2004). Towards the Unity of the Human Behavioral Sciences. _Philosophy, Politics and Economics_, 31: 37–57.
-* ––– (2005). Behavioral Ethics Meets Natural Justice. _Politics, Philosophy and Economics_, 5: 5–32.
-* ––– (2009a). _The Bounds of Reason_, Princeton: Princeton University Press.
-* ––– (2009b). _Game Theory Evolving._ Second edition. Princeton: Princeton University Press.
-* Glimcher, P. (2003). _Decisions, Uncertainty and the Brain_, Cambridge, MA: MIT Press.
-* Glimcher, P., Kable, J., and Louie, K. (2007). Neuroeconomic Studies of Impulsivity: Now or Just as Soon as Possible? _American Economic Review (Papers and Proceedings)_, 97: 142–147.
-* Godfrey-Smith, P. (1996). _Complexity and the Function of Mind in Nature_. Cambridge, UK: Cambridge University Press.
-* Goeree, J., Holt, C., and Palfrey, T. (2016). _Quantal Response Equilibrium_, Princeton: Princeton University Press.
-* Guala, F. (2005). _The Methodology of Experimental Economics_, Cambridge: Cambridge University Press.
-* ––– (2016). _Understanding Institutions_, Princeton: Princeton University Press.
-* Hammerstein, P. (2003). Why is Reciprocity so Rare in Social Animals? A Protestant Appeal. In P. Hammerstein, ed., _Genetic and Cultural Evolution of Cooperation_, 83–93. Cambridge, MA: MIT Press.
-* Hampton, J. (1986), _Hobbes and the Social Contract Tradition_. Cambridge: Cambridge University Press.
-* Hardin, R. (1995). _One For All_, Princeton: Princeton University Press.
-* Harrison, G.W. (2008). Neuroeconomics: A Critical Reconsideration. _Economics and Philosophy_ 24: 303–344.
-* Harrison, G.W., and Rutstrom, E. (2008). Risk aversion in the laboratory. In _Risk Aversion in Experiments_, J. Cox and G. Harrison eds., Bingley, UK: Emerald, 41–196.
-* Harrison, G.W., and Ross, D. (2010). The Methodologies of Neuroeconomics. _Journal of Economic Methodology_, 17: 185–196.
-* ––– (2016). The Psychology of Human Risk Preferences and Vulnerability to Scare-mongers: Experimental Economic Tools for Hypothesis Formulation and Testing. _Journal of Cognition and Culture_, 16: 383–414.
-* ––– forthcoming. Behavioral Welfare Economics and the Quantitative Intentional Stance. In G.W. Harrison & D. Ross, eds., _Models of Risk Preferences: Descriptive and Normative Challenges_. Bingley, UK: Emerald.
-* Harsanyi, J. (1967). Games With Incomplete Information Played by ‘Bayesian’ Players, Parts I–III. _Management Science_ 14: 159–182.
-* ––– (1977). _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_, Cambridge: Cambridge University Press.
-* Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., and Gintis, H., eds. (2004). _Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence From 15 Small-Scale Societies_, Oxford: Oxford University Press.
-* Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., Gintis, H., McElreath, R., Alvard, M., Barr, A., Ensminger, J., Henrich, N., Hill, K., Gil-White, F., Gurven, M., Marlowe, F., Patton, J., and Tracer, D. (2005). ‘Economic Man’ in Cross-Cultural Perspective. _Behavioral and Brain Sciences_, 28: 795–815.
-* Hendricks, V., and Hansen, P., eds. (2007). _Game Theory: 5 Questions_, Copenhagen: Automatic Press.
-* Hofbauer, J., and Sigmund, K. (1998). _Evolutionary Games and Population Dynamics_, Cambridge: Cambridge University Press.
-* Hofmeyr, A., and Ross, D. (2019). Team Agency and Conditional Games. In M. Nagatsu, ed., _Philosophy and Social Science: An Interdisciplinary Dialogue_, London: Bloomsbury, 67–92.
-* Hollis, M. (1998). _Trust Within Reason_, Cambridge: Cambridge University Press.
-* Hollis, M., and Sugden, R. (1993). Rationality in Action. _Mind_, 102: 1–35.
-* Hurwicz, L., and Reiter, S. (2006). _Designing Economic Mechanisms_, Cambridge: Cambridge University Press.
-* Hutto, D. (2008). _Folk Psychological Narratives_, Cambridge, MA: MIT Press.
-* Kagel, J., and Roth, A., eds. (1995). _Handbook of Experimental Economics_, Princeton: Princeton University Press.
-* Keeney, R., and Raiffa, H. (1976). _Decisions With Multiple Objectives_, New York: Wiley.
-* King-Casas, B., Tomlin, D., Anen, C., Camerer, C., Quartz, S., and Montague, P.R. (2005). Getting to Know You: Reputation and Trust in a Two-Person Economic Exchange. _Science_, 308: 78–83.
-* Klemperer, P. (2004). _Auctions: Theory and Practice_, Princeton: Princeton University Press.
-* Koons, R. (1992). _Paradoxes of Belief and Strategic Rationality_, Cambridge: Cambridge University Press.
-* Krebs, J., and Davies, N. (1984). _Behavioral Ecology: An Evolutionary Approach_, Second edition. Sunderland: Sinauer.
-* Kreps, D. (1990). _A Course in Microeconomic Theory_, Princeton: Princeton University Press.
-* Kruschke, J. (2014). _Doing Bayesian Data Analysis_, 2nd Edition. Cambridge, MA: Academic Press.
-* Kuhn, H., ed., (1997). _Classics in Game Theory_, Princeton: Princeton University Press.
-* Kuran, T. (1995). _Private Truths, Public Lies_. Cambridge, MA: Harvard University Press.
-* LaCasse, C., and Ross, D. (1994). ‘The Microeconomic Interpretation of Games’. _PSA 1994, Volume 1_, D. Hull, S. Forbes and R. Burien (eds.), East Lansing, MI: Philosophy of Science Association, pp. 479–387.
-* Ledyard, J. (1995). Public Goods: A Survey of Experimental Research. In J. Kagel and A. Roth, eds., _Handbook of Experimental Economics_, Princeton: Princeton University Press.
-* Lewis, D. (1969). _Convention_, Cambridge, MA: Harvard University Press.
-* Lichtenstein, S., and Slovic, P., eds. (2006). _The Construction of Preference_, Cambridge, UK: Cambridge University Press.
-* Maynard Smith, J. (1982). _Evolution and the Theory of Games_, Cambridge: Cambridge University Press.
-* McClure, S., Laibson, D., Loewenstein, G., and Cohen, J. (2004). Separate Neural Systems Value Immediate and Delayed Monetary Rewards. _Science_, 306: 503–507.
-* McElreath, R. (2020). _Statistical Rethinking_, 2nd Edition. London: Chapman & Hall.
-* McGeer, V. (2001). Psycho-practice, Psycho-theory, and the Contrastive Case of Autism: How Processes of Mind Become Second Nature, _Journal of Consciousness Studies_, 8: 109–132.
-* –––(2002). Enculturating Folk-Psychologists, _Synthese_, 199: 1039–1063.
-* McKelvey, R., and Palfrey, T. (1995). Quantal Response Equilibria for Normal Form Games. _Games and Economic Behavior_ 10: 6–38.
-* ––– (1998). Quantal Response Equilibria for Extensive Form Games. _Experimental Economics_ 1: 9–41.
-* McMillan, J. (1991). _Games, Strategies and Managers_, Oxford: Oxford University Press.
-* Millikan, R. (1984). _Language, Thought and Other Biological Categories_, Cambridge, MA: MIT Press.
-* Montague,P. R., and Berns, G. (2002). Neural Economics and the Biological Substrates of Valuation. _Neuron_, 36: 265–284.
-* Mueller, D. (1997). _Perspectives on Public Choice_, Cambridge: Cambridge University Press.
-* Nash, J. (1950a). ‘Equilibrium Points in n-Person Games.’ _Proceedings of the National Academy of Science_, 36: 48–49.
-* ––– (1950b). ‘The Bargaining Problem.’ _Econometrica_, 18: 155–162.
-* ––– (1951). ‘Non-cooperative Games.’ _Annals of Mathematics Journal_, 54: 286–295.
-* ––– (1953). Two-Person Cooperative Games. _Econometrica_, 21: 128–140.
-* Nichols, S., and Stich, S. (2003). _Mindreading_, Oxford: Oxford University Press.
-* Noe, R., van Hoof, J., and Hammerstein, P., eds. (2001). _Economics in Nature_, Cambridge: Cambridge University Press.
-* Nozick, R. (1998). _Socratic Puzzles_, Cambridge, MA: Harvard University Press.
-* O’Connor, C. (2019). _The Origins of Unfairness_, Oxford: Oxford University Press.
-* Ofek, H. (2001). _Second Nature_. Cambridge: Cambridge University Press.
-* Ormerod, P. (1994). _The Death of Economics_, New York: Wiley.
-* Parr, T., Pezzulo, G., & Friston, K. (2022). _Active Inference_. Cambridge, MA: MIT Press.
-* Pettit, P., and Sugden, R. (1989). The Backward Induction Paradox. _Journal of Philosophy_, 86: 169–182.
-* Planer, R., & Sterelny, K. (2021). _From Signal to Symbol_. Cambridge, MA: MIT Press.
-* Platt, M., and Glimcher, P. (1999). Neural Correlates of Decision Variables in Parietal Cortex. _Nature_, 400: 233–238.
-* Plott, C., and Smith, V. (1978). An Experimental Examination of Two Exchange Institutions. _Review of Economic Studies_, 45: 133–153.
-* Poundstone, W. (1992). _Prisoner’s Dilemma_, New York: Doubleday.
-* Prelec, D. (1998). The Probability Weighting Function. _Econometrica_, 66: 497–527.
-* Quiggin,J. (1982). A Theory of Anticipated Utility. _Journal of Economic Behavior and Organization_, 3: 323–343.
-* Rawls, J. (1971). _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Robbins, L. (1931). _An Essay on the Nature and Significance of Economic Science_, London: Macmillan.
-* Ross, D. (2005a). _Economic Theory and Cognitive Science: Microexplanation._, Cambridge, MA: MIT Press.
-* ––– (2006). Evolutionary Game Theory and the Normative Theory of Institutional Design: Binmore and Behavioral Economics. _Politics, Philosophy and Economics_, 5(1): 51–79.
-* ––– (2008a). Classical Game Theory, Socialization and the Rationalization of Conventions. _Topoi_, 27: 57–72.
-* ––– (2008b). Two Styles of Neuroeconomics. _Economics and Philosophy_ 24: 473–483.
-* ––– (2014). _Philosophy of Economics_, Houndmills, Basingstoke: Palgrave Macmillan.
-* Ross, D., and Dumouchel, P. (2004). Emotions as Strategic Signals. _Rationality and Society_, 16: 251–286.
-* Ross, D., and LaCasse, C. (1995). ‘Towards a New Philosophy of Positive Economics’. _Dialogue_, 34: 467–493.
-* Ross, D., and Stirling, W. (2021). Economics, Social Neuroscience, and Mindshaping. In J. Harbeckeand C. Herrmann-Pillath, eds., _Social Neuroeconomics_, London: Routledge, 174–201.
-* Ross, D., Stirling, W., and Tummolini, L. (2023). Strategic Theory of Norms for Empirical Applications in Political Science and Political Economy. In H. Kincaid and J. van Bouwel, eds., _The Oxford Handbook of Philosophy of Political Science_, Oxford: Oxford University Press, 86–121.
-* Roth, A. (2015). _Who Gets What and Why?_, New York: Houghton Mifflin Harcourt.
-* Sally, J. (1995). Conversation and Cooperation in Social Dilemmas: A Meta-analysis of Experiments From 1958 to 1992. _Rationality and Society_, 7: 58–92.
-* Samuelson, L. (1997). _Evolutionary Games and Equilibrium Selection_, Cambridge, MA: MIT Press.
-* ––– (2005). Economic Theory and Experimental Economics. _Journal of Economic Literature_, 43: 65–107.
-* ––– (2016). Game Theory in Economics and Beyond. _Journal of Economic Perspectives_, 30(4): 107–130.
-* Samuelson, P. (1938). ‘A Note on the Pure Theory of Consumers’ Behaviour.’ _Economica_, 5: 61–71.
-* Savage, L. (1954). _The Foundations of Statistics_, New York: Wiley.
-* Schelling, T. (1960). Schelling, T (1960). _Strategy of Conflict_, Cambridge, MA: Harvard University Press.
-* ––– (1978). _Micromotives and Macrobehavior_, New York: Norton. Second edition 2006.
-* ––– (1980). The Intimate Contest for Self-Command. _Public Interest_, 60: 94–118.
-* ––– (1984). _Choice and Consequence_, Cambridge, MA: Harvard University Press.
-* ––– (2006). _Strategies of Commitment_, Cambridge, MA: Harvard University Press.
-* Selten, R. (1975). ‘Re-examination of the Perfectness Concept for Equilibrium Points in Extensive Games.’ _International Journal of Game Theory_, 4: 22–55.
-* Sigmund, K. (1993). _Games of Life_, Oxford: Oxford University Press.
-* Shapley, L. (1953). A Value of n-Person Games. In H, Kuhn and A. Tucker, eds., _Contributions to the Theory of Games II_, 307–317. Princeton: Princeton University Press.
-* Skyrms, B. (1996). _Evolution of the Social Contract_, Cambridge: Cambridge University Press.
-* ––– (2004). _The Stag Hunt and the Evolution of Social Structure_, Cambridge: Cambridge University Press.
-* Smith, V. (1962). An Experimental Study of Competitive Market Behavior. _Journal of Political Economy_, 70: 111–137.
-* ––– (1964). Effect of Market Organization on Competitive Equilibrium. _Quarterly Journal of Economics_, 78: 181–201.
-* ––– (1965). Experimental Auction Markets and the Walrasian Hypothesis. _Journal of Political Economy_, 73: 387–393.
-* ––– (1976). Bidding and Auctioning Institutions: Experimental Results. In Y. Amihud, ed., _Bidding and Auctioning for Procurement and Allocation_, 43–64. New York: New York University Press.
-* ––– (1982). Microeconomic Systems as an Experimental Science. _American Economic Review_, 72: 923–955.
-* ––– (2008). _Rationality in Economics_, Cambridge: Cambridge University Press.
-* Sober, E., and Wilson, D.S. (1998). _Unto Others_, Cambridge, MA: Harvard University Press.
-* Sterelny, K. (2003). _Thought in a Hostile World_, Oxford: Blackwell.
-* Stirling, W. (2012). _Theory of Conditional Games_, Cambridge: Cambridge University Press.
-* Stratmann, T. (1997). Logrolling. In D. Mueller, ed., _Perspectives on Public Choice_, Cambridge: Cambridge University Press, 322–341.
-* Strotz, R. (1956). Myopia and Inconsistency in Dynamic Utility Maximization. _The Review of Economic Studies_, 23: 165–180.
-* Sugden, R. (1993). Thinking as a Team: Towards an Explanation of Nonselfish Behavior. _Social Philosophy and Policy_ 10: 69–89.
-* ––– (2000). Team Preferences. _Economics and Philosophy_ 16: 175–204.
-* ––– (2003). The Logic of Team Reasoning. _Philosophical Explorations_ 6: 165–181.
-* ––– (2018). _The Community of Advantage_, Oxford: Oxford University Press.
-* Thurstone, L. (1931). The Indifference Function. _Journal of Social Psychology_, 2: 139–167.
-* Tomasello, M., M. Carpenter, J. Call, T. Behne and H. Moll (2004). Understanding and Sharing Intentions: The Origins of Cultural Cognition. _Behavioral and Brain Sciences_, 28: 675–691.
-* Vallentyne, P. (ed.). (1991). _Contractarianism and Rational Choice_, Cambridge: Cambridge University Press.
-* von Neumann, J., and Morgenstern, O., (1944). _The Theory of Games and Economic Behavior_, Princeton: Princeton University Press.
-* –––, (1947). _The Theory of Games and Economic Behavior_, second edition, Princeton: Princeton University Press.
-* Weibull, J. (1995). _Evolutionary Game Theory_, Cambridge, MA: MIT Press.
-* Wilcox, N. (2008). Stochastic Models for Binary Discrete Choice Under Risk: A Critical Primer and Econometric Comparison. In J. Cox and G. Harrison, eds., _Risk Aversion and Experiments_, Bingley, UK: Emeraldn, 197–292.
-* Wrangham, R. (2009). _Catching Fire_. London: Profile.
-* Yaari, M. (1987). The Dual Theory of Choice Under Risk. _Econometrica_, 55: 95–115.
-* Young, H.P. (1998). _Individual Strategy and Social Structure_, Princeton: Princeton University Press.
-* Zawidzki, T. (2013). _Mindshaping_, Cambridge, MA: MIT Press.
+* Chiappori, P.-A. (2017). *Matching With Transfers: The Economics of Love and Marriage*, Princeton: Princeton University Press.
+* Clark, A. (1997). *Being There*, Cambridge, MA: MIT Press.
+* ––– (2016). *Surfing Uncertainty*, Cambridge, MA: MIT Press.
+* Danielson, P. (1992). *Artificial Morality*, London: Routledge
+* ––– (ed.) (1998). *Modelling Rationality, Morality and Evolution*, Oxford: Oxford University Press.
+* Dennett, D. (1987). *The Intentional Stance*, Cambridge, MA: MIT Press.
+* ––– (1995). *Darwin’s Dangerous Idea*, New York: Simon and Schuster.
+* Dixit, A., and Nalebuff, B. (1991). *Thinking Strategically*, New York: Norton.
+* ––– (2008). *The Art of Strategy*, New York: Norton.
+* Dixit, A., Skeath, S., and Reiley, D. (2014). *Games of Strategy*, fourth edition. New York: W. W. Norton and Company.
+* Dugatkin, L., and Reeve, H., eds. (1998). *Game Theory and Animal Behavior*, Oxford: Oxford University Press.
+* Dukas, R., ed. (1998). *Cognitive Ecology.*, Chicago: University of Chicago Press.
+* Durlauf, S., and Young, H.P., eds. (2001). *Social Dynamics*, Cambridge, MA: MIT Press.
+* Ellsberg, D. (2017). *The Doomsday Machine*, New York: Bloomsbury.
+* Erickson, P. (2015). *The World the Game Theorists Made*, Chicago: University of Chicago Press.
+* Frank, R. (1988). *Passions Within Reason*, New York: Norton.
+* Fudenberg, D., and Levine, D. (1998). *The Theory of Learning in Games*, Cambridge, MA: MIT Press.
+* ––– (2008). *A Long-Run Collaboration on Long-Run Games*. Singapore: World Scientific.
+* ––– (2016). Whither Game Theory? Towards a Theory of Learning in Games. *Journal of Economic Perspectives*, 30(4): 151–170
+* Fudenberg, D., and Tirole, J. (1991). *Game Theory*, Cambridge, MA: MIT Press.
+* Gale, D., and Shapley, L. (1962). College Admissions and the Stability of Marriage. *American Mathematical Monthly*, 69 :9–15.
+* Gauthier, D. (1986). *Morals By Agreement*, Oxford: Oxford University Press.
+* Gershkov, A., and Moldovanu, B. (2014). *Dynamic Allocation and Pricing: A Mechanism Design Approach*, Cambridge, MA: MIT Press.
+* Ghemawat, P. (1997). *Games Businesses Play*, Cambridge, MA: MIT Press.
+* Gilbert, M. (1989). *On Social Facts*, Princeton: Princeton University Press.
+* Gintis, G.(2004). Towards the Unity of the Human Behavioral Sciences. *Philosophy, Politics and Economics*, 31: 37–57.
+* ––– (2005). Behavioral Ethics Meets Natural Justice. *Politics, Philosophy and Economics*, 5: 5–32.
+* ––– (2009a). *The Bounds of Reason*, Princeton: Princeton University Press.
+* ––– (2009b). *Game Theory Evolving.* Second edition. Princeton: Princeton University Press.
+* Glimcher, P. (2003). *Decisions, Uncertainty and the Brain*, Cambridge, MA: MIT Press.
+* Glimcher, P., Kable, J., and Louie, K. (2007). Neuroeconomic Studies of Impulsivity: Now or Just as Soon as Possible? *American Economic Review (Papers and Proceedings)*, 97: 142–147.
+* Godfrey-Smith, P. (1996). *Complexity and the Function of Mind in Nature*. Cambridge, UK: Cambridge University Press.
+* Goeree, J., Holt, C., and Palfrey, T. (2016). *Quantal Response Equilibrium*, Princeton: Princeton University Press.
+* Guala, F. (2005). *The Methodology of Experimental Economics*, Cambridge: Cambridge University Press.
+* ––– (2016). *Understanding Institutions*, Princeton: Princeton University Press.
+* Hammerstein, P. (2003). Why is Reciprocity so Rare in Social Animals? A Protestant Appeal. In P. Hammerstein, ed., *Genetic and Cultural Evolution of Cooperation*, 83–93. Cambridge, MA: MIT Press.
+* Hampton, J. (1986), *Hobbes and the Social Contract Tradition*. Cambridge: Cambridge University Press.
+* Hardin, R. (1995). *One For All*, Princeton: Princeton University Press.
+* Harrison, G.W. (2008). Neuroeconomics: A Critical Reconsideration. *Economics and Philosophy* 24: 303–344.
+* Harrison, G.W., and Rutstrom, E. (2008). Risk aversion in the laboratory. In *Risk Aversion in Experiments*, J. Cox and G. Harrison eds., Bingley, UK: Emerald, 41–196.
+* Harrison, G.W., and Ross, D. (2010). The Methodologies of Neuroeconomics. *Journal of Economic Methodology*, 17: 185–196.
+* ––– (2016). The Psychology of Human Risk Preferences and Vulnerability to Scare-mongers: Experimental Economic Tools for Hypothesis Formulation and Testing. *Journal of Cognition and Culture*, 16: 383–414.
+* ––– forthcoming. Behavioral Welfare Economics and the Quantitative Intentional Stance. In G.W. Harrison & D. Ross, eds., *Models of Risk Preferences: Descriptive and Normative Challenges*. Bingley, UK: Emerald.
+* Harsanyi, J. (1967). Games With Incomplete Information Played by ‘Bayesian’ Players, Parts I–III. *Management Science* 14: 159–182.
+* ––– (1977). *Rational Behavior and Bargaining Equilibrium in Games and Social Situations*, Cambridge: Cambridge University Press.
+* Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., and Gintis, H., eds. (2004). *Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence From 15 Small-Scale Societies*, Oxford: Oxford University Press.
+* Henrich, J., Boyd, R., Bowles, S., Camerer, C., Fehr, E., Gintis, H., McElreath, R., Alvard, M., Barr, A., Ensminger, J., Henrich, N., Hill, K., Gil-White, F., Gurven, M., Marlowe, F., Patton, J., and Tracer, D. (2005). ‘Economic Man’ in Cross-Cultural Perspective. *Behavioral and Brain Sciences*, 28: 795–815.
+* Hendricks, V., and Hansen, P., eds. (2007). *Game Theory: 5 Questions*, Copenhagen: Automatic Press.
+* Hofbauer, J., and Sigmund, K. (1998). *Evolutionary Games and Population Dynamics*, Cambridge: Cambridge University Press.
+* Hofmeyr, A., and Ross, D. (2019). Team Agency and Conditional Games. In M. Nagatsu, ed., *Philosophy and Social Science: An Interdisciplinary Dialogue*, London: Bloomsbury, 67–92.
+* Hollis, M. (1998). *Trust Within Reason*, Cambridge: Cambridge University Press.
+* Hollis, M., and Sugden, R. (1993). Rationality in Action. *Mind*, 102: 1–35.
+* Hurwicz, L., and Reiter, S. (2006). *Designing Economic Mechanisms*, Cambridge: Cambridge University Press.
+* Hutto, D. (2008). *Folk Psychological Narratives*, Cambridge, MA: MIT Press.
+* Kagel, J., and Roth, A., eds. (1995). *Handbook of Experimental Economics*, Princeton: Princeton University Press.
+* Keeney, R., and Raiffa, H. (1976). *Decisions With Multiple Objectives*, New York: Wiley.
+* King-Casas, B., Tomlin, D., Anen, C., Camerer, C., Quartz, S., and Montague, P.R. (2005). Getting to Know You: Reputation and Trust in a Two-Person Economic Exchange. *Science*, 308: 78–83.
+* Klemperer, P. (2004). *Auctions: Theory and Practice*, Princeton: Princeton University Press.
+* Koons, R. (1992). *Paradoxes of Belief and Strategic Rationality*, Cambridge: Cambridge University Press.
+* Krebs, J., and Davies, N. (1984). *Behavioral Ecology: An Evolutionary Approach*, Second edition. Sunderland: Sinauer.
+* Kreps, D. (1990). *A Course in Microeconomic Theory*, Princeton: Princeton University Press.
+* Kruschke, J. (2014). *Doing Bayesian Data Analysis*, 2nd Edition. Cambridge, MA: Academic Press.
+* Kuhn, H., ed., (1997). *Classics in Game Theory*, Princeton: Princeton University Press.
+* Kuran, T. (1995). *Private Truths, Public Lies*. Cambridge, MA: Harvard University Press.
+* LaCasse, C., and Ross, D. (1994). ‘The Microeconomic Interpretation of Games’. *PSA 1994, Volume 1*, D. Hull, S. Forbes and R. Burien (eds.), East Lansing, MI: Philosophy of Science Association, pp. 479–387.
+* Ledyard, J. (1995). Public Goods: A Survey of Experimental Research. In J. Kagel and A. Roth, eds., *Handbook of Experimental Economics*, Princeton: Princeton University Press.
+* Lewis, D. (1969). *Convention*, Cambridge, MA: Harvard University Press.
+* Lichtenstein, S., and Slovic, P., eds. (2006). *The Construction of Preference*, Cambridge, UK: Cambridge University Press.
+* Maynard Smith, J. (1982). *Evolution and the Theory of Games*, Cambridge: Cambridge University Press.
+* McClure, S., Laibson, D., Loewenstein, G., and Cohen, J. (2004). Separate Neural Systems Value Immediate and Delayed Monetary Rewards. *Science*, 306: 503–507.
+* McElreath, R. (2020). *Statistical Rethinking*, 2nd Edition. London: Chapman & Hall.
+* McGeer, V. (2001). Psycho-practice, Psycho-theory, and the Contrastive Case of Autism: How Processes of Mind Become Second Nature, *Journal of Consciousness Studies*, 8: 109–132.
+* –––(2002). Enculturating Folk-Psychologists, *Synthese*, 199: 1039–1063.
+* McKelvey, R., and Palfrey, T. (1995). Quantal Response Equilibria for Normal Form Games. *Games and Economic Behavior* 10: 6–38.
+* ––– (1998). Quantal Response Equilibria for Extensive Form Games. *Experimental Economics* 1: 9–41.
+* McMillan, J. (1991). *Games, Strategies and Managers*, Oxford: Oxford University Press.
+* Millikan, R. (1984). *Language, Thought and Other Biological Categories*, Cambridge, MA: MIT Press.
+* Montague,P. R., and Berns, G. (2002). Neural Economics and the Biological Substrates of Valuation. *Neuron*, 36: 265–284.
+* Mueller, D. (1997). *Perspectives on Public Choice*, Cambridge: Cambridge University Press.
+* Nash, J. (1950a). ‘Equilibrium Points in n-Person Games.’ *Proceedings of the National Academy of Science*, 36: 48–49.
+* ––– (1950b). ‘The Bargaining Problem.’ *Econometrica*, 18: 155–162.
+* ––– (1951). ‘Non-cooperative Games.’ *Annals of Mathematics Journal*, 54: 286–295.
+* ––– (1953). Two-Person Cooperative Games. *Econometrica*, 21: 128–140.
+* Nichols, S., and Stich, S. (2003). *Mindreading*, Oxford: Oxford University Press.
+* Noe, R., van Hoof, J., and Hammerstein, P., eds. (2001). *Economics in Nature*, Cambridge: Cambridge University Press.
+* Nozick, R. (1998). *Socratic Puzzles*, Cambridge, MA: Harvard University Press.
+* O’Connor, C. (2019). *The Origins of Unfairness*, Oxford: Oxford University Press.
+* Ofek, H. (2001). *Second Nature*. Cambridge: Cambridge University Press.
+* Ormerod, P. (1994). *The Death of Economics*, New York: Wiley.
+* Parr, T., Pezzulo, G., & Friston, K. (2022). *Active Inference*. Cambridge, MA: MIT Press.
+* Pettit, P., and Sugden, R. (1989). The Backward Induction Paradox. *Journal of Philosophy*, 86: 169–182.
+* Planer, R., & Sterelny, K. (2021). *From Signal to Symbol*. Cambridge, MA: MIT Press.
+* Platt, M., and Glimcher, P. (1999). Neural Correlates of Decision Variables in Parietal Cortex. *Nature*, 400: 233–238.
+* Plott, C., and Smith, V. (1978). An Experimental Examination of Two Exchange Institutions. *Review of Economic Studies*, 45: 133–153.
+* Poundstone, W. (1992). *Prisoner’s Dilemma*, New York: Doubleday.
+* Prelec, D. (1998). The Probability Weighting Function. *Econometrica*, 66: 497–527.
+* Quiggin,J. (1982). A Theory of Anticipated Utility. *Journal of Economic Behavior and Organization*, 3: 323–343.
+* Rawls, J. (1971). *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Robbins, L. (1931). *An Essay on the Nature and Significance of Economic Science*, London: Macmillan.
+* Ross, D. (2005a). *Economic Theory and Cognitive Science: Microexplanation.*, Cambridge, MA: MIT Press.
+* ––– (2006). Evolutionary Game Theory and the Normative Theory of Institutional Design: Binmore and Behavioral Economics. *Politics, Philosophy and Economics*, 5(1): 51–79.
+* ––– (2008a). Classical Game Theory, Socialization and the Rationalization of Conventions. *Topoi*, 27: 57–72.
+* ––– (2008b). Two Styles of Neuroeconomics. *Economics and Philosophy* 24: 473–483.
+* ––– (2014). *Philosophy of Economics*, Houndmills, Basingstoke: Palgrave Macmillan.
+* Ross, D., and Dumouchel, P. (2004). Emotions as Strategic Signals. *Rationality and Society*, 16: 251–286.
+* Ross, D., and LaCasse, C. (1995). ‘Towards a New Philosophy of Positive Economics’. *Dialogue*, 34: 467–493.
+* Ross, D., and Stirling, W. (2021). Economics, Social Neuroscience, and Mindshaping. In J. Harbeckeand C. Herrmann-Pillath, eds., *Social Neuroeconomics*, London: Routledge, 174–201.
+* Ross, D., Stirling, W., and Tummolini, L. (2023). Strategic Theory of Norms for Empirical Applications in Political Science and Political Economy. In H. Kincaid and J. van Bouwel, eds., *The Oxford Handbook of Philosophy of Political Science*, Oxford: Oxford University Press, 86–121.
+* Roth, A. (2015). *Who Gets What and Why?*, New York: Houghton Mifflin Harcourt.
+* Sally, J. (1995). Conversation and Cooperation in Social Dilemmas: A Meta-analysis of Experiments From 1958 to 1992. *Rationality and Society*, 7: 58–92.
+* Samuelson, L. (1997). *Evolutionary Games and Equilibrium Selection*, Cambridge, MA: MIT Press.
+* ––– (2005). Economic Theory and Experimental Economics. *Journal of Economic Literature*, 43: 65–107.
+* ––– (2016). Game Theory in Economics and Beyond. *Journal of Economic Perspectives*, 30(4): 107–130.
+* Samuelson, P. (1938). ‘A Note on the Pure Theory of Consumers’ Behaviour.’ *Economica*, 5: 61–71.
+* Savage, L. (1954). *The Foundations of Statistics*, New York: Wiley.
+* Schelling, T. (1960). Schelling, T (1960). *Strategy of Conflict*, Cambridge, MA: Harvard University Press.
+* ––– (1978). *Micromotives and Macrobehavior*, New York: Norton. Second edition 2006.
+* ––– (1980). The Intimate Contest for Self-Command. *Public Interest*, 60: 94–118.
+* ––– (1984). *Choice and Consequence*, Cambridge, MA: Harvard University Press.
+* ––– (2006). *Strategies of Commitment*, Cambridge, MA: Harvard University Press.
+* Selten, R. (1975). ‘Re-examination of the Perfectness Concept for Equilibrium Points in Extensive Games.’ *International Journal of Game Theory*, 4: 22–55.
+* Sigmund, K. (1993). *Games of Life*, Oxford: Oxford University Press.
+* Shapley, L. (1953). A Value of n-Person Games. In H, Kuhn and A. Tucker, eds., *Contributions to the Theory of Games II*, 307–317. Princeton: Princeton University Press.
+* Skyrms, B. (1996). *Evolution of the Social Contract*, Cambridge: Cambridge University Press.
+* ––– (2004). *The Stag Hunt and the Evolution of Social Structure*, Cambridge: Cambridge University Press.
+* Smith, V. (1962). An Experimental Study of Competitive Market Behavior. *Journal of Political Economy*, 70: 111–137.
+* ––– (1964). Effect of Market Organization on Competitive Equilibrium. *Quarterly Journal of Economics*, 78: 181–201.
+* ––– (1965). Experimental Auction Markets and the Walrasian Hypothesis. *Journal of Political Economy*, 73: 387–393.
+* ––– (1976). Bidding and Auctioning Institutions: Experimental Results. In Y. Amihud, ed., *Bidding and Auctioning for Procurement and Allocation*, 43–64. New York: New York University Press.
+* ––– (1982). Microeconomic Systems as an Experimental Science. *American Economic Review*, 72: 923–955.
+* ––– (2008). *Rationality in Economics*, Cambridge: Cambridge University Press.
+* Sober, E., and Wilson, D.S. (1998). *Unto Others*, Cambridge, MA: Harvard University Press.
+* Sterelny, K. (2003). *Thought in a Hostile World*, Oxford: Blackwell.
+* Stirling, W. (2012). *Theory of Conditional Games*, Cambridge: Cambridge University Press.
+* Stratmann, T. (1997). Logrolling. In D. Mueller, ed., *Perspectives on Public Choice*, Cambridge: Cambridge University Press, 322–341.
+* Strotz, R. (1956). Myopia and Inconsistency in Dynamic Utility Maximization. *The Review of Economic Studies*, 23: 165–180.
+* Sugden, R. (1993). Thinking as a Team: Towards an Explanation of Nonselfish Behavior. *Social Philosophy and Policy* 10: 69–89.
+* ––– (2000). Team Preferences. *Economics and Philosophy* 16: 175–204.
+* ––– (2003). The Logic of Team Reasoning. *Philosophical Explorations* 6: 165–181.
+* ––– (2018). *The Community of Advantage*, Oxford: Oxford University Press.
+* Thurstone, L. (1931). The Indifference Function. *Journal of Social Psychology*, 2: 139–167.
+* Tomasello, M., M. Carpenter, J. Call, T. Behne and H. Moll (2004). Understanding and Sharing Intentions: The Origins of Cultural Cognition. *Behavioral and Brain Sciences*, 28: 675–691.
+* Vallentyne, P. (ed.). (1991). *Contractarianism and Rational Choice*, Cambridge: Cambridge University Press.
+* von Neumann, J., and Morgenstern, O., (1944). *The Theory of Games and Economic Behavior*, Princeton: Princeton University Press.
+* –––, (1947). *The Theory of Games and Economic Behavior*, second edition, Princeton: Princeton University Press.
+* Weibull, J. (1995). *Evolutionary Game Theory*, Cambridge, MA: MIT Press.
+* Wilcox, N. (2008). Stochastic Models for Binary Discrete Choice Under Risk: A Critical Primer and Econometric Comparison. In J. Cox and G. Harrison, eds., *Risk Aversion and Experiments*, Bingley, UK: Emeraldn, 197–292.
+* Wrangham, R. (2009). *Catching Fire*. London: Profile.
+* Yaari, M. (1987). The Dual Theory of Choice Under Risk. *Econometrica*, 55: 95–115.
+* Young, H.P. (1998). *Individual Strategy and Social Structure*, Princeton: Princeton University Press.
+* Zawidzki, T. (2013). *Mindshaping*, Cambridge, MA: MIT Press.
 
 ## Academic Tools
 
@@ -1055,4 +1055,4 @@ The theory of cooperative games is consolidated in [Chakravarty, Mitra and Sarka
 I would like to thank James Joyce and Edward Zalta for their comments on various versions of this entry. I would also like to thank Sam Lazell for not only catching a nasty patch of erroneous analysis in the second version, but going to the supererogatory trouble of actually providing fully corrected reasoning. If there were many such readers, all authors in this project would become increasingly collective over time. One of my MBA students, Anthony Boting, noticed that my solution to an example I used in the second version rested on equivocating between relative-frequency and objective-chance interpretations of probability. Two readers, Brian Ballsun-Stanton and George Mucalov, spotted this too and were kind enough to write to me about it. Many thanks to them. Joel Guttman pointed out that I’d illustrated a few principles with some historical anecdotes that circulate in the game theory community, but told them in a way that was too credulous with respect to their accuracy. Michel Benaim and Mathius Grasselli noted that I’d identified the wrong Plato text as the source of Socrates’s reflections on soldiers’ incentives. Ken Binmore picked up another factual error while the third revision was in preparation, as a result of which no one else ever saw it. Not so for a mistake found by Bob Galesloot that survived in the article all the way into the third edition. (That error was corrected in July 2010.) Chris Judge spotted a slip in the historical attribution of the dawn of the mathematical analysis of games, which was corrected in 2019. Some other readers helpfully spotted typos: thanks to Fabian Ottjes, Brad Colbourne, Nicholas Dozet and Gustavo Narez. Finally, thanks go to Colin Allen for technical support (in the effort to deal with bandwidth problems to South Africa) prior to publication of the second version of this entry, to Daniel McKenzie for procedural advice on preparation of the third version, and to Uri Nodelman for helping with code for math notation and formatting of figures for the fifth, version published in 2014.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Don Ross](http://uct.academia.edu/DonRoss) <[_don.ross@uct.ac.za_](mailto:don%2eross%40uct%2eac%2eza)>
+[Don Ross](http://uct.academia.edu/DonRoss) <[*don.ross@uct.ac.za*](mailto:don%2eross%40uct%2eac%2eza)>

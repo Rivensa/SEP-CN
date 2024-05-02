@@ -1,9 +1,8 @@
 # 预测与解释 prediction versus accommodation (Eric Christian Barnes)
 
-_首次发表于2018年7月17日；实质修订于2022年9月23日_
+*首次发表于2018年7月17日；实质修订于2022年9月23日*
 
 在早期的哲学文献中，“预测”被认为是一个理论的经验后果，在该理论在构建时尚未得到验证的情况下产生的，“解释”是已经得到验证的。认为预测在科学理论评估中优于解释的观点被称为“预测主义”。然而，通常情况下，预测主义更精确地被理解为当预测时，证据比解释更强烈地确认理论。关于“预测”的概念已经进行了大量的讨论，并解释了为什么预测主义是真实的或不真实的，以及科学史和最近的逻辑（Martin 和 Hjortland 2021）是否表明科学家在评估理论时是预测主义者。关于预测主义的争论在科学现实主义的争论中也起着重要的作用。
- 
 
 ***
 
@@ -279,149 +278,149 @@ Leplin 澄清，这种推理的“最小充分重建”将是一个有效的推�
 
 ## Bibliography
 
-* Achinstein, Peter, 1994, “Explanation vs. Prediction: Which Carries More Weight”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1994(2): 156–164. doi:10.1086/psaprocbienmeetp.1994.2.192926
-* –––, 2001, _The Book of Evidence_, Oxford: Oxford University Press. doi:10.1093/0195143892.001.0001
-* Akaike, Hirotugu, 1973, “Information Theory as an Extension of the Maximum Likelihood Principle”, in B.N. Petrov and F. Csaki, (eds.) _Second International Symposium on Information Theory_, Budapest, Akademiai Kiado, pp. 267–281.
-* Akeroyd, F. Michael, 2003, “Prediction and the Periodic Table: A Response to Scerri and Worrall”, _Journal for General Philosophy of Science_, 34(2): 337–355. doi:10.1023/B:JGPS.0000005277.60641.ca
-* Alai, Mario, 2014, “Novel Predictions and the No Miracle Argument”, _Erkenntnis_, 79(2): 297–326. doi:10.1007/s10670-013-9495-7
-* –––, 2016, “The No Miracle Argument and Strong Predictivism vs. Barnes”, in Lorenzo Magnini and Claudia Casadio (eds.), _Model Based Reasoning in Science and Technology_, (Studies in Applied Philosophy, Epistemology and Rational Ethics, 27), Switzerland: Springer International Publishing, pp.541–556. doi:10.1007/978-3-319-38983-7\_30
-* Bamford, Greg, 1993, “Popper’s Explication of _Ad Hoc_ness: Circularity, Empirical Content, and Scientific Practice”, _British Journal for the Philosophy of Science_, 44(2): 335–355. doi:10.1093/bjps/44.2.335
-* Barnes, Eric Christian, 1996a, “Discussion: Thoughts on Maher’s Predictivism”, _Philosophy of Science_, 63: 401–10. doi:10.1086/289918
-* –––, 1996b, “Social Predictivism”, _Erkenntnis_, 45(1): 69–89. doi:10.1007/BF00226371
-* –––, 1999, “The Quantitative Problem of Old Evidence”, _British Journal for the Philosophy of Science_, 50(2): 249–264. doi:10.1093/bjps/50.2.249
-* –––, 2002, “Neither Truth Nor Empirical Adequacy Explain Novel Success”, _Australasian Journal of Philosophy_, 80(4): 418–431. doi:10.1080/713659528
-* –––, 2005a, “Predictivism for Pluralists”, _British Journal for the Philosophy of Science_, 56(3): 421–450. doi:10.1093/bjps/axi131
-* –––, 2005b, “On Mendeleev’s Predictions: Comment on Scerri and Worrall”, _Studies in the History and Philosophy of Science_, 36(4): 801–812. doi:10.1016/j.shpsa.2005.08.005
-* –––, 2008, _The Paradox of Predictivism_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487330
-* –––, 2014, “The Roots of Predictivism”, _Studies in the History and Philosophy of Science_, 45: 46–53. doi:10.1016/j.shpsa.2013.10.002
-* Brush, Stephen G., 1989, “Prediction and Theory Evaluation: The Case of Light Bending”, _Science_, 246(4934): 1124–1129. doi:10.1126/science.246.4934.1124
-* –––, 1990, “Prediction and Theory Evaluation: Alfvén on Space Plasma Phenomena”, _Eos_, 71(2): 19–33. doi:10.1029/EO071i002p00019
-* –––, 1993, “Prediction and Theory Evaluation: Cosmic Microwaves and the Revival of the Big Bang”, _Perspectives on Science_, 1(4):: 565–601.
-* –––, 1994, “Dynamics of Theory Change: The Role of Predictions”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1994(2): 133–145. doi:10.1086/psaprocbienmeetp.1994.2.192924
-* –––, 1996, “The Reception of Mendeleev’s Periodic Law in America and Britain”, _Isis_, 87(4): 595–628. doi:10.1086/357649
-* –––, 2007, “Predictivism and the Periodic Table”, _Studies in the History and Philosophy of Science Part A_, 38(1): 256–259. doi:10.1016/j.shpsa.2006.12.007
-* Campbell, Richmond and Thomas Vinci, 1983, “Novel Confirmation”, _British Journal for the Philosophy of Science_, 34(4): 315–341. doi:10.1093/bjps/34.4.315
-* Carman, Christián and José Díez, 2015, “Did Ptolemy Make Novel Predictions? Launching Ptolemaic Astronomy into the Scientific Realism Debate”, _Studies in the History and Philosophy of Science_, 52: 20–34. doi:10.1016/j.shpsa.2015.04.002
-* Carrier, Martin, 2014, “Prediction in context: On the comparative epistemic merit of predictive success”, _Studies in the History and Philosophy of Science_, 45: 97–102. doi:10.1016/j.shpsa.2013.10.003
-* Chang, Hasok, 2003, “Preservative Realism and Its Discontents: Revisiting Caloric”, _Philosophy of Science_, 70(5): 902–912. doi:10.1086/377376
-* Christiansen, David, 1999, “Measuring Confirmation”, _Journal of Philosophy_, 96(9): 437–461. doi:10.2307/2564707
-* Collins, Robin, 1994, “Against the Epistemic Value of Prediction over Accommodation”, _Noûs_, 28(2): 210–224. doi:10.2307/2216049
-* Dawid, R. and Stephan Hartmann, 2017, “The No Miracles Argument without the Base-Rate Fallacy”, _Synthese_. doi:10.1007/s11229-017-1408-x
-* Dellsen, Finnur, (forthcoming), “An Epistemic Advantage of Accommodation Over Prediction”, _Philosophers' Imprint_
-* Dicken, P., 2013, “Normativity, the Base-Rate Fallacy, and Some Problems for Retail Realism”, _Studies in the History and Philosophy of Science Part_ A, 44 (4): 563–570.
-* Douglas, Heather and P.D. Magnus, 2013, “State of the Field: Why Novel Prediction Matters”, _Studies in the History and Philosophy of Science_, 44(4): 580–589. doi:10.1016/j.shpsa.2013.04.001
-* Eells, Ellery and Branden Fitelson, 2000, “Measuring Confirmation and Evidence”, _Journal of Philosophy_, 97(12): 663–672. doi:10.2307/2678462
-* Forster, Malcolm R., 2002, “Predictive Accuracy as an Achievable Goal of Science”, _Philosophy of Science_, 69(S3): S124–S134. doi:10.1086/341840
-* Forster, Malcolm and Elliott Sober, 1994, “How to Tell when Simpler, More Unified, or Less _Ad Hoc_ Theories Will Provide More Accurate Predictions”, _British Journal for the Philosophy of Science_, 45(1): 1–35. doi:10.1093/bjps/45.1.1
-* Frankel, Henry, 1979, “The Career of Continental Drift Theory: An application of Imre Lakatos’ analysis of scientific growth to the rise of drift theory”, _Studies in the History and Philosophy of Science_, 10(1): 21–66. doi:10.1016/0039-3681(79)90003-7
-* Frisch, Mathias, 2015, “Predictivism and Old Evidence: A Critical Look at Climate Model Tuning”, _European Journal for the Philosophy of Science_, 5(2): 171–190. doi:10.1007/s13194-015-0110-4
-* Frost-Arnold, Greg, 2010, “The No-Miracles Argument for Scientific Realism: Inference to an Unacceptable Explanation”, _Philosophy of Science_, 77(1): 35–58. doi:10.1086/650207
-* Gardner, Michael R., 1982, “Predicting Novel Facts”, _British Journal for the Philosophy of Science_, 33(1): 1–15. doi:10.1093/bjps/33.1.1
-* Giere, Ronald N., 1984, _Understanding Scientific Reasoning_, second edition, New York: Holt, Rinehart, and Winston. First edition 1979.
-* Glymour, Clark N., 1980, _Theory and Evidence_, Princeton, NJ: Princeton University Press.
-* –––, 2008, “Review: _The Paradox of Predictivism_ by Eric Christian Barnes”, _Notre Dame Philosophical Reviews_, 2008.06.13. \[[Glymour 2008 available online](https://ndpr.nd.edu/news/the-paradox-of-predictivism/)]
-* Good, I.J. 1967, “The White Shoe is a Red Herring”, _British Journal for the Philosophy of Science_, 17(4): 322. doi:10.1093/bjps/17.4.322
-* Goodman, Nelson, 1983, _Fact, Fiction and Forecast_, fourth edition, Cambridge, MA: Harvard University Press. First edition 1950.
-* Grünbaum, Adolf, 1976, “_Ad Hoc_ Auxiliary Hypotheses and Falsificationism”, _British Journal for the Philosophy of Science_, 27(4): 329–362. doi:10.1093/bjps/27.4.329
-* Hacking, Ian, 1979, “Imre Lakatos’s Philosophy of Science”, _British Journal for the Philosophy of Science_, 30(4): 381–410. doi:10.1093/bjps/30.4.381
-* Harker, David, 2006, “Accommodation and Prediction: The Case of the Persistent Head”, _British Journal for the Philosophy of Science_, 57(2): 309–321. doi:10.1093/bjps/axl004
-* –––, 2008, “The Predilections for Predictions”, _British Journal for the Philosophy of Science_, 59(3): 429–453. doi:10.1093/bjps/axn017
-* –––, 2010, “Two Arguments for Scientific Realism Unified”, _Studies in the History and Philosophy of Science_, 41(2): 192–202. doi:10.1016/j.shpsa.2010.03.006
-* –––, 2011, “_Review: The Paradox of Predictivism_ by Eric Christian Barnes”, _British Journal for the Philosophy of Science_, 62(1): 219–223. doi:10.1093/bjps/axq027
-* Hartman, Stephan and Branden Fitelson, 2015, “A New Garber-Style Solution to the Problem of Old Evidence”, _Philosophy of Science_, 82(4): 712–717. doi:10.1086/682916
-* Healey, Richard, 2001, “Review: _A Novel Defense of Scientific Realism_ by Jarrett Leplin”, _Mind_, 110(439): 777–780. doi:10.1093/mind/110.439.777
-* Henderson, Leah, 2017, “The No Miracles Argument and the Base-Rate Fallacy”, _Synthese_ (4): 1295–1302.
-* Hitchcock, Christopher and Elliott Sober, 2004, “Prediction versus Accommodation and the Risk of Overfitting”, _British Journal for the Philosophy of Science_, 55(1): 1–34. doi:10.1093/bjps/55.1.1
-* Holton, Gerald, 1988, _Thematic Origins of Scientific Thought: Kepler to Einstein_, revised edition, Cambridge, MA and London, England: Harvard University Press. First edition 1973.
-* Howson, Colin, 1984, “Bayesianism and Support by Novel Facts”, _British Journal for the Philosophy of Science_, 35(3): 245–251. doi:10.1093/bjps/35.3.245
-* –––, 1988, “Accommodation, Prediction and Bayesian Confirmation Theory”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association, 1988_, 2: 381–392. doi:10.1086/psaprocbienmeetp.1988.2.192899
-* –––, 1990, “Fitting Your Theory to the Facts: Probably Not Such a Bad Thing After All”, in _Scientific Theories_, (_Minnesota Studies in the Philosophy of Science_, Vol. XIV), C. Wade Savage (ed.), Minneapolis: University of Minnesota Press, pp. 224–244. \[[Howson 1990 available online](http://mcps.umn.edu/philosophy/14\10Howson.pdf)]
-* Howson, Colin and Allan Franklin, 1991, “Maher, Mendeleev and Bayesianism”, _Philosophy of Science_, 58(4): 574–585. doi:10.1086/289641
-* Hudson, Robert G., 2003, “Novelty and the 1919 Eclipse Experiments”, _Studies in the History and Philosophy of Modern Physics_, 34(1): 107–129. doi:10.1016/S1355-2198(02)00082-5
-* –––, 2007, “What’s Really at Issue with Novel Predictions?” _Synthese_, 155(1): 1–20. doi:10.1007/s11229-005-6267-1
-* Hunt, J. Christopher, 2012, “On Ad Hoc Hypotheses”, _Philosophy of Science_, 79(1): 1–14. doi:10.1086/663238
-* Iseda, Tetsuji, 1999, “Use-Novelty, Severity, and a Systematic Neglect of Relevant Alternatives”, _Philosophy of Science_, 66: S403–S413. doi:10.1086/392741
-* Kahn, J.A., S.E. Landsberg, and A.C. Stockman, 1990, “On Novel Confirmation”, _British Journal for the Philosophy of Science_, 43, 503–516.
-* Keynes, John Maynard, 1921, _A Treatise on Probability_, London: Macmillan.
-* Kish, Leslie, 1959, “Some Statistical Problems in Research Design”, _American Sociological Review_, 24(3): 328–338; reprinted in Denton E. Morrison and Ramon E. Henkel (eds.), _The Significance Test Controversy: A Reader_, Chicago: Aldine, pp. 127–141. doi:10.2307/2089381
-* Kitcher, Philip, 1993, _The Advancement of Science: Science without Legend, Objectivity without Illusions_, Oxford: Oxford University Press.
-* Ladyman, James, 1999, “Review: Jarrett Leplin, _A Novel Defense of Scientific Realism_”, _British Journal for the Philosophy of Science_, 50(1): 181–188. doi:10.1093/bjps/50.1.181
-* Lakatos, Imre, 1970, “Falsification and the Methodology of Scientific Research Programmes”, in Imre Lakatos and Alan Musgrave (eds.), _Criticism and the Growth of Knowledge: Proceedings of the International Colloquium in the Philosophy of Science, London, 1965_, Cambridge: Cambridge University Press, pp. 91–196. doi:10.1017/CBO9781139171434.009
-* –––, 1971, “History of Science and its Rational Reconstructions”, in Roger C. Buck and Robert S. Cohen (eds.), _PSA 1970_, (_Boston Studies in the Philosophy of Science_, 8), Dordrecht: Springer Netherlands, pp. 91–135. doi:10.1007/978-94-010-3142-4\_7
-* Lange, Marc, 2001, “The Apparent Superiority of Prediction to Accommodation: a Reply to Maher”, _British Journal for the Philosophy of Science_, 52(3): 575–588. doi:10.1093/bjps/52.3.575
-* Laudan, Larry, 1981a, “The Epistemology of Light: Some Methodological Issues in the Subtle Fluids Debate”, in _Science and Hypothesis: Historical Essays on Scientific Methodology_ (University of Western Ontario Series in Philosophy of Science, 19), Dordrecht: D. Reidel, pp. 111–140.
-* –––, 1981b, “A Confutation of Convergent Realism”, _Philosophy of Science_, 48(1): 19–49. doi:10.1086/288975
-* Leconte, Gauvain, 2017, “Predictive Success, Partial Truth, and Duhemian Realism”, _Synthese_, 194(9): 3245–3265. doi:10.1007/s11229-016-1305-8
-* Lee, Wang-Yen, 2012, “Hitchcock and Sober on Weak Predictivism”, _Philosophia_, 40(3): 553–562. doi:10.1007/s11406-011-9331-8
-* –––, 2013, “Akaike’s Theorem and Weak Predictivism in Science” _Studies in the History and Philosophy of Science Part A_, 44(4): 594–599. doi:10.1016/j.shpsa.2013.06.001
-* Leplin, Jarrett, 1975, “The Concept of an _Ad Hoc_ Hypothesis”, _Studies in History and Philosophy of Science_, 5 No. 3: 309–345. doi:10.1016/0039-3681(75)90006-0
-* –––, 1982, “The Assessment of Auxiliary Hypotheses”, _British Journal for the Philosophy of Science_, 33(3): 235–249. doi:10.1093/bjps/33.3.235
-* –––, 1987, “The Bearing of Discovery on Justification”, _Canadian Journal of Philosophy_, 17: 805–814. doi:10.1080/00455091.1987.10715919
-* –––, 1997, _A Novel Defense of Scientific Realism_, New York, Oxford: Oxford University Press.
-* –––, 2009, “Review: _The Paradox of Predictivism_ by Eric Christian Barnes”, _The Review of Metaphysics_, 63(2): 455–457.
-* Lipton, Peter 1990, “Prediction and Prejudice”, _International Studies in the Philosophy of Science_, 4(1): 51–65. doi:10.1080/02698599008573345
-* –––, 1991, _Inference to the Best Explanation_, London/New York: Routledge.
-* Lyons, Timothy D., 2006, “Scientific Realism and the Strategema de Divide et Impera”, _British Journal for the Philosophy of Science_, 57(3): 537–560. doi:10.1093/bjps/axl021
-* Magnus, P.D., 2011, “Miracles, trust, and ennui in Barnes’ Predictivism”, _Logos & Episteme_, 2(1): 103–115. doi:10.5840/logos-episteme20112152
-* Magnus, P.D. and Craig Callender, 2004, “Realist Ennui and the Base Rate Fallacy”, _Philosophy of Science_, 71(3): 320–338. doi:10.1086/421536
-* Maher, Patrick, 1988, “Prediction, Accommodation, and the Logic of Discovery”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association 1988_, 1: 273–285. doi:10.1086/psaprocbienmeetp.1988.1.192994
-* –––, 1990, “How Prediction Enhances Confirmation”, in J. Michael Dunn and Anil Gupta (eds.), _Truth or Consequences: Essays in Honor of Nuel Belnap_, Dordrecht: Kluwer, pp. 327–343.
-* –––, 1993, “Howson and Franklin on Prediction”, _Philosophy of Science_, 60(2): 329–340. doi:10.1086/289736
-* Martin, Ben and Ole Hjortland, 2021, “Logical Predictivism”, _Journal of Philosophical Logic_, 50: 285–318.
-* Mayo, Deborah G., 1991, “Novel Evidence and Severe Tests”, _Philosophy of Science_, 58(4): 523–552. doi:10.1086/289639
-* –––, 1996, _Error and the Growth of Experimental Knowledge_, Chicago and London: University of Chicago Press.
-* –––, 2003, “Novel Work on the Problem of Novelty? Comments on Hudson”, _Studies in the History and Philosophy of Modern Physics_, 34: 131–134. doi:10.1016/S1355-2198(02)00083-7
-* –––, 2008, “How to Discount Double-Counting When It Counts: Some Clarifications”, _British Journal for the Philosophy of Science_, 59(4): 857–879. doi:10.1093/bjps/axn034
+* Achinstein, Peter, 1994, “Explanation vs. Prediction: Which Carries More Weight”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1994(2): 156–164. doi:10.1086/psaprocbienmeetp.1994.2.192926
+* –––, 2001, *The Book of Evidence*, Oxford: Oxford University Press. doi:10.1093/0195143892.001.0001
+* Akaike, Hirotugu, 1973, “Information Theory as an Extension of the Maximum Likelihood Principle”, in B.N. Petrov and F. Csaki, (eds.) *Second International Symposium on Information Theory*, Budapest, Akademiai Kiado, pp. 267–281.
+* Akeroyd, F. Michael, 2003, “Prediction and the Periodic Table: A Response to Scerri and Worrall”, *Journal for General Philosophy of Science*, 34(2): 337–355. doi:10.1023/B:JGPS.0000005277.60641.ca
+* Alai, Mario, 2014, “Novel Predictions and the No Miracle Argument”, *Erkenntnis*, 79(2): 297–326. doi:10.1007/s10670-013-9495-7
+* –––, 2016, “The No Miracle Argument and Strong Predictivism vs. Barnes”, in Lorenzo Magnini and Claudia Casadio (eds.), *Model Based Reasoning in Science and Technology*, (Studies in Applied Philosophy, Epistemology and Rational Ethics, 27), Switzerland: Springer International Publishing, pp.541–556. doi:10.1007/978-3-319-38983-7\_30
+* Bamford, Greg, 1993, “Popper’s Explication of _Ad Hoc_ness: Circularity, Empirical Content, and Scientific Practice”, *British Journal for the Philosophy of Science*, 44(2): 335–355. doi:10.1093/bjps/44.2.335
+* Barnes, Eric Christian, 1996a, “Discussion: Thoughts on Maher’s Predictivism”, *Philosophy of Science*, 63: 401–10. doi:10.1086/289918
+* –––, 1996b, “Social Predictivism”, *Erkenntnis*, 45(1): 69–89. doi:10.1007/BF00226371
+* –––, 1999, “The Quantitative Problem of Old Evidence”, *British Journal for the Philosophy of Science*, 50(2): 249–264. doi:10.1093/bjps/50.2.249
+* –––, 2002, “Neither Truth Nor Empirical Adequacy Explain Novel Success”, *Australasian Journal of Philosophy*, 80(4): 418–431. doi:10.1080/713659528
+* –––, 2005a, “Predictivism for Pluralists”, *British Journal for the Philosophy of Science*, 56(3): 421–450. doi:10.1093/bjps/axi131
+* –––, 2005b, “On Mendeleev’s Predictions: Comment on Scerri and Worrall”, *Studies in the History and Philosophy of Science*, 36(4): 801–812. doi:10.1016/j.shpsa.2005.08.005
+* –––, 2008, *The Paradox of Predictivism*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487330
+* –––, 2014, “The Roots of Predictivism”, *Studies in the History and Philosophy of Science*, 45: 46–53. doi:10.1016/j.shpsa.2013.10.002
+* Brush, Stephen G., 1989, “Prediction and Theory Evaluation: The Case of Light Bending”, *Science*, 246(4934): 1124–1129. doi:10.1126/science.246.4934.1124
+* –––, 1990, “Prediction and Theory Evaluation: Alfvén on Space Plasma Phenomena”, *Eos*, 71(2): 19–33. doi:10.1029/EO071i002p00019
+* –––, 1993, “Prediction and Theory Evaluation: Cosmic Microwaves and the Revival of the Big Bang”, *Perspectives on Science*, 1(4):: 565–601.
+* –––, 1994, “Dynamics of Theory Change: The Role of Predictions”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1994(2): 133–145. doi:10.1086/psaprocbienmeetp.1994.2.192924
+* –––, 1996, “The Reception of Mendeleev’s Periodic Law in America and Britain”, *Isis*, 87(4): 595–628. doi:10.1086/357649
+* –––, 2007, “Predictivism and the Periodic Table”, *Studies in the History and Philosophy of Science Part A*, 38(1): 256–259. doi:10.1016/j.shpsa.2006.12.007
+* Campbell, Richmond and Thomas Vinci, 1983, “Novel Confirmation”, *British Journal for the Philosophy of Science*, 34(4): 315–341. doi:10.1093/bjps/34.4.315
+* Carman, Christián and José Díez, 2015, “Did Ptolemy Make Novel Predictions? Launching Ptolemaic Astronomy into the Scientific Realism Debate”, *Studies in the History and Philosophy of Science*, 52: 20–34. doi:10.1016/j.shpsa.2015.04.002
+* Carrier, Martin, 2014, “Prediction in context: On the comparative epistemic merit of predictive success”, *Studies in the History and Philosophy of Science*, 45: 97–102. doi:10.1016/j.shpsa.2013.10.003
+* Chang, Hasok, 2003, “Preservative Realism and Its Discontents: Revisiting Caloric”, *Philosophy of Science*, 70(5): 902–912. doi:10.1086/377376
+* Christiansen, David, 1999, “Measuring Confirmation”, *Journal of Philosophy*, 96(9): 437–461. doi:10.2307/2564707
+* Collins, Robin, 1994, “Against the Epistemic Value of Prediction over Accommodation”, *Noûs*, 28(2): 210–224. doi:10.2307/2216049
+* Dawid, R. and Stephan Hartmann, 2017, “The No Miracles Argument without the Base-Rate Fallacy”, *Synthese*. doi:10.1007/s11229-017-1408-x
+* Dellsen, Finnur, (forthcoming), “An Epistemic Advantage of Accommodation Over Prediction”, *Philosophers' Imprint*
+* Dicken, P., 2013, “Normativity, the Base-Rate Fallacy, and Some Problems for Retail Realism”, *Studies in the History and Philosophy of Science Part* A, 44 (4): 563–570.
+* Douglas, Heather and P.D. Magnus, 2013, “State of the Field: Why Novel Prediction Matters”, *Studies in the History and Philosophy of Science*, 44(4): 580–589. doi:10.1016/j.shpsa.2013.04.001
+* Eells, Ellery and Branden Fitelson, 2000, “Measuring Confirmation and Evidence”, *Journal of Philosophy*, 97(12): 663–672. doi:10.2307/2678462
+* Forster, Malcolm R., 2002, “Predictive Accuracy as an Achievable Goal of Science”, *Philosophy of Science*, 69(S3): S124–S134. doi:10.1086/341840
+* Forster, Malcolm and Elliott Sober, 1994, “How to Tell when Simpler, More Unified, or Less *Ad Hoc* Theories Will Provide More Accurate Predictions”, *British Journal for the Philosophy of Science*, 45(1): 1–35. doi:10.1093/bjps/45.1.1
+* Frankel, Henry, 1979, “The Career of Continental Drift Theory: An application of Imre Lakatos’ analysis of scientific growth to the rise of drift theory”, *Studies in the History and Philosophy of Science*, 10(1): 21–66. doi:10.1016/0039-3681(79)90003-7
+* Frisch, Mathias, 2015, “Predictivism and Old Evidence: A Critical Look at Climate Model Tuning”, *European Journal for the Philosophy of Science*, 5(2): 171–190. doi:10.1007/s13194-015-0110-4
+* Frost-Arnold, Greg, 2010, “The No-Miracles Argument for Scientific Realism: Inference to an Unacceptable Explanation”, *Philosophy of Science*, 77(1): 35–58. doi:10.1086/650207
+* Gardner, Michael R., 1982, “Predicting Novel Facts”, *British Journal for the Philosophy of Science*, 33(1): 1–15. doi:10.1093/bjps/33.1.1
+* Giere, Ronald N., 1984, *Understanding Scientific Reasoning*, second edition, New York: Holt, Rinehart, and Winston. First edition 1979.
+* Glymour, Clark N., 1980, *Theory and Evidence*, Princeton, NJ: Princeton University Press.
+* –––, 2008, “Review: *The Paradox of Predictivism* by Eric Christian Barnes”, *Notre Dame Philosophical Reviews*, 2008.06.13. \[[Glymour 2008 available online](https://ndpr.nd.edu/news/the-paradox-of-predictivism/)]
+* Good, I.J. 1967, “The White Shoe is a Red Herring”, *British Journal for the Philosophy of Science*, 17(4): 322. doi:10.1093/bjps/17.4.322
+* Goodman, Nelson, 1983, *Fact, Fiction and Forecast*, fourth edition, Cambridge, MA: Harvard University Press. First edition 1950.
+* Grünbaum, Adolf, 1976, “*Ad Hoc* Auxiliary Hypotheses and Falsificationism”, *British Journal for the Philosophy of Science*, 27(4): 329–362. doi:10.1093/bjps/27.4.329
+* Hacking, Ian, 1979, “Imre Lakatos’s Philosophy of Science”, *British Journal for the Philosophy of Science*, 30(4): 381–410. doi:10.1093/bjps/30.4.381
+* Harker, David, 2006, “Accommodation and Prediction: The Case of the Persistent Head”, *British Journal for the Philosophy of Science*, 57(2): 309–321. doi:10.1093/bjps/axl004
+* –––, 2008, “The Predilections for Predictions”, *British Journal for the Philosophy of Science*, 59(3): 429–453. doi:10.1093/bjps/axn017
+* –––, 2010, “Two Arguments for Scientific Realism Unified”, *Studies in the History and Philosophy of Science*, 41(2): 192–202. doi:10.1016/j.shpsa.2010.03.006
+* –––, 2011, “*Review: The Paradox of Predictivism* by Eric Christian Barnes”, *British Journal for the Philosophy of Science*, 62(1): 219–223. doi:10.1093/bjps/axq027
+* Hartman, Stephan and Branden Fitelson, 2015, “A New Garber-Style Solution to the Problem of Old Evidence”, *Philosophy of Science*, 82(4): 712–717. doi:10.1086/682916
+* Healey, Richard, 2001, “Review: *A Novel Defense of Scientific Realism* by Jarrett Leplin”, *Mind*, 110(439): 777–780. doi:10.1093/mind/110.439.777
+* Henderson, Leah, 2017, “The No Miracles Argument and the Base-Rate Fallacy”, *Synthese* (4): 1295–1302.
+* Hitchcock, Christopher and Elliott Sober, 2004, “Prediction versus Accommodation and the Risk of Overfitting”, *British Journal for the Philosophy of Science*, 55(1): 1–34. doi:10.1093/bjps/55.1.1
+* Holton, Gerald, 1988, *Thematic Origins of Scientific Thought: Kepler to Einstein*, revised edition, Cambridge, MA and London, England: Harvard University Press. First edition 1973.
+* Howson, Colin, 1984, “Bayesianism and Support by Novel Facts”, *British Journal for the Philosophy of Science*, 35(3): 245–251. doi:10.1093/bjps/35.3.245
+* –––, 1988, “Accommodation, Prediction and Bayesian Confirmation Theory”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association, 1988*, 2: 381–392. doi:10.1086/psaprocbienmeetp.1988.2.192899
+* –––, 1990, “Fitting Your Theory to the Facts: Probably Not Such a Bad Thing After All”, in *Scientific Theories*, (*Minnesota Studies in the Philosophy of Science*, Vol. XIV), C. Wade Savage (ed.), Minneapolis: University of Minnesota Press, pp. 224–244. \[[Howson 1990 available online](http://mcps.umn.edu/philosophy/14\10Howson.pdf)]
+* Howson, Colin and Allan Franklin, 1991, “Maher, Mendeleev and Bayesianism”, *Philosophy of Science*, 58(4): 574–585. doi:10.1086/289641
+* Hudson, Robert G., 2003, “Novelty and the 1919 Eclipse Experiments”, *Studies in the History and Philosophy of Modern Physics*, 34(1): 107–129. doi:10.1016/S1355-2198(02)00082-5
+* –––, 2007, “What’s Really at Issue with Novel Predictions?” *Synthese*, 155(1): 1–20. doi:10.1007/s11229-005-6267-1
+* Hunt, J. Christopher, 2012, “On Ad Hoc Hypotheses”, *Philosophy of Science*, 79(1): 1–14. doi:10.1086/663238
+* Iseda, Tetsuji, 1999, “Use-Novelty, Severity, and a Systematic Neglect of Relevant Alternatives”, *Philosophy of Science*, 66: S403–S413. doi:10.1086/392741
+* Kahn, J.A., S.E. Landsberg, and A.C. Stockman, 1990, “On Novel Confirmation”, *British Journal for the Philosophy of Science*, 43, 503–516.
+* Keynes, John Maynard, 1921, *A Treatise on Probability*, London: Macmillan.
+* Kish, Leslie, 1959, “Some Statistical Problems in Research Design”, *American Sociological Review*, 24(3): 328–338; reprinted in Denton E. Morrison and Ramon E. Henkel (eds.), *The Significance Test Controversy: A Reader*, Chicago: Aldine, pp. 127–141. doi:10.2307/2089381
+* Kitcher, Philip, 1993, *The Advancement of Science: Science without Legend, Objectivity without Illusions*, Oxford: Oxford University Press.
+* Ladyman, James, 1999, “Review: Jarrett Leplin, *A Novel Defense of Scientific Realism*”, *British Journal for the Philosophy of Science*, 50(1): 181–188. doi:10.1093/bjps/50.1.181
+* Lakatos, Imre, 1970, “Falsification and the Methodology of Scientific Research Programmes”, in Imre Lakatos and Alan Musgrave (eds.), *Criticism and the Growth of Knowledge: Proceedings of the International Colloquium in the Philosophy of Science, London, 1965*, Cambridge: Cambridge University Press, pp. 91–196. doi:10.1017/CBO9781139171434.009
+* –––, 1971, “History of Science and its Rational Reconstructions”, in Roger C. Buck and Robert S. Cohen (eds.), *PSA 1970*, (*Boston Studies in the Philosophy of Science*, 8), Dordrecht: Springer Netherlands, pp. 91–135. doi:10.1007/978-94-010-3142-4\_7
+* Lange, Marc, 2001, “The Apparent Superiority of Prediction to Accommodation: a Reply to Maher”, *British Journal for the Philosophy of Science*, 52(3): 575–588. doi:10.1093/bjps/52.3.575
+* Laudan, Larry, 1981a, “The Epistemology of Light: Some Methodological Issues in the Subtle Fluids Debate”, in *Science and Hypothesis: Historical Essays on Scientific Methodology* (University of Western Ontario Series in Philosophy of Science, 19), Dordrecht: D. Reidel, pp. 111–140.
+* –––, 1981b, “A Confutation of Convergent Realism”, *Philosophy of Science*, 48(1): 19–49. doi:10.1086/288975
+* Leconte, Gauvain, 2017, “Predictive Success, Partial Truth, and Duhemian Realism”, *Synthese*, 194(9): 3245–3265. doi:10.1007/s11229-016-1305-8
+* Lee, Wang-Yen, 2012, “Hitchcock and Sober on Weak Predictivism”, *Philosophia*, 40(3): 553–562. doi:10.1007/s11406-011-9331-8
+* –––, 2013, “Akaike’s Theorem and Weak Predictivism in Science” *Studies in the History and Philosophy of Science Part A*, 44(4): 594–599. doi:10.1016/j.shpsa.2013.06.001
+* Leplin, Jarrett, 1975, “The Concept of an *Ad Hoc* Hypothesis”, *Studies in History and Philosophy of Science*, 5 No. 3: 309–345. doi:10.1016/0039-3681(75)90006-0
+* –––, 1982, “The Assessment of Auxiliary Hypotheses”, *British Journal for the Philosophy of Science*, 33(3): 235–249. doi:10.1093/bjps/33.3.235
+* –––, 1987, “The Bearing of Discovery on Justification”, *Canadian Journal of Philosophy*, 17: 805–814. doi:10.1080/00455091.1987.10715919
+* –––, 1997, *A Novel Defense of Scientific Realism*, New York, Oxford: Oxford University Press.
+* –––, 2009, “Review: *The Paradox of Predictivism* by Eric Christian Barnes”, *The Review of Metaphysics*, 63(2): 455–457.
+* Lipton, Peter 1990, “Prediction and Prejudice”, *International Studies in the Philosophy of Science*, 4(1): 51–65. doi:10.1080/02698599008573345
+* –––, 1991, *Inference to the Best Explanation*, London/New York: Routledge.
+* Lyons, Timothy D., 2006, “Scientific Realism and the Strategema de Divide et Impera”, *British Journal for the Philosophy of Science*, 57(3): 537–560. doi:10.1093/bjps/axl021
+* Magnus, P.D., 2011, “Miracles, trust, and ennui in Barnes’ Predictivism”, *Logos & Episteme*, 2(1): 103–115. doi:10.5840/logos-episteme20112152
+* Magnus, P.D. and Craig Callender, 2004, “Realist Ennui and the Base Rate Fallacy”, *Philosophy of Science*, 71(3): 320–338. doi:10.1086/421536
+* Maher, Patrick, 1988, “Prediction, Accommodation, and the Logic of Discovery”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association 1988*, 1: 273–285. doi:10.1086/psaprocbienmeetp.1988.1.192994
+* –––, 1990, “How Prediction Enhances Confirmation”, in J. Michael Dunn and Anil Gupta (eds.), *Truth or Consequences: Essays in Honor of Nuel Belnap*, Dordrecht: Kluwer, pp. 327–343.
+* –––, 1993, “Howson and Franklin on Prediction”, *Philosophy of Science*, 60(2): 329–340. doi:10.1086/289736
+* Martin, Ben and Ole Hjortland, 2021, “Logical Predictivism”, *Journal of Philosophical Logic*, 50: 285–318.
+* Mayo, Deborah G., 1991, “Novel Evidence and Severe Tests”, *Philosophy of Science*, 58(4): 523–552. doi:10.1086/289639
+* –––, 1996, *Error and the Growth of Experimental Knowledge*, Chicago and London: University of Chicago Press.
+* –––, 2003, “Novel Work on the Problem of Novelty? Comments on Hudson”, *Studies in the History and Philosophy of Modern Physics*, 34: 131–134. doi:10.1016/S1355-2198(02)00083-7
+* –––, 2008, “How to Discount Double-Counting When It Counts: Some Clarifications”, *British Journal for the Philosophy of Science*, 59(4): 857–879. doi:10.1093/bjps/axn034
 * –––, 2010, “An Ad Hoc Save of a Theory of Adhocness? Exchanges with John Worrall” in Mayo and Spanos 2010: 155–169.
-* –––, 2014, “Some surprising facts about (the problem of) surprising facts (from the Dusseldorf Conference, February 2011)”, _Studies in the History and Philosophy of Science_, 45: 79–86. doi:10.1016/j.shpsa.2013.10.005
-* Mayo, Deborah G. and Aris Spanos (eds.), _Error and Inference: Recent Exchanges on Experimental Reasoning, Reliability, and the Objectivity and Rationality of Science_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511657528
-* McCain, Kevin, 2012, “A Predictivist Argument Against Skepticism” _Analysis_, 72(4): 660–665. doi:10.1093/analys/ans109
-* McIntyre, Lee, 2001, “Accommodation, Prediction, and Confirmation”, _Perspectives on Science_, 9(3): 308–328. doi:10.1162/10636140160176161
-* Menke, C., 2014, “Does the Miracle Argument Embody a Base-Rate Fallacy?”, _Studies in the History and Philosophy of Science_ Part A, 45: 103–108.
-* Mill, John Stuart, 1843, _A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation_, Vol. 2, London: John W. Parker.
-* Mizrahi, Moti, 2012, “Why the Ultimate Argument for Scientific Realism Fails”, _Studies in the History and Philosophy of Science_, 43(1): 132–138. doi:10.1016/j.shpsa.2011.11.001
-* Murphy, Nancey, 1989, “Another Look at Novel Facts”, _Studies in the History and Philosophy of Science_, 20(3): 385–388. doi:10.1016/0039-3681(89)90014-9
-* Musgrave, Alan, 1974, “Logical versus Historical Theories of Confirmation”, _British Journal for the Philosophy of Science_, 25(1): 1–23. doi:10.1093/bjps/25.1.1
-* –––, 1988, “The Ultimate Argument for Scientific Realism”, in Robert Nola (ed.), _Relativism and Realism in Science_, Dordrecht: Kluwer Academic Publishers, pp. 229–252. doi:10.1007/978-94-009-2877-0\_10
-* Nunan, Richard, 1984, “Novel Facts, Bayesian Rationality, and the History of Continental Drift”, _Studies in the History and Philosophy of Science_, 15(4): 267–307. doi:10.1016/0039-3681(84)90013-X
-* Partington, J.R. and Douglas McKie, 1937–38, “Historical Studies on the Phlogiston Theory”, _Annals of Science_,
+* –––, 2014, “Some surprising facts about (the problem of) surprising facts (from the Dusseldorf Conference, February 2011)”, *Studies in the History and Philosophy of Science*, 45: 79–86. doi:10.1016/j.shpsa.2013.10.005
+* Mayo, Deborah G. and Aris Spanos (eds.), *Error and Inference: Recent Exchanges on Experimental Reasoning, Reliability, and the Objectivity and Rationality of Science*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511657528
+* McCain, Kevin, 2012, “A Predictivist Argument Against Skepticism” *Analysis*, 72(4): 660–665. doi:10.1093/analys/ans109
+* McIntyre, Lee, 2001, “Accommodation, Prediction, and Confirmation”, *Perspectives on Science*, 9(3): 308–328. doi:10.1162/10636140160176161
+* Menke, C., 2014, “Does the Miracle Argument Embody a Base-Rate Fallacy?”, *Studies in the History and Philosophy of Science* Part A, 45: 103–108.
+* Mill, John Stuart, 1843, *A System of Logic, Ratiocinative and Inductive: Being a Connected View of the Principles of Evidence and the Methods of Scientific Investigation*, Vol. 2, London: John W. Parker.
+* Mizrahi, Moti, 2012, “Why the Ultimate Argument for Scientific Realism Fails”, *Studies in the History and Philosophy of Science*, 43(1): 132–138. doi:10.1016/j.shpsa.2011.11.001
+* Murphy, Nancey, 1989, “Another Look at Novel Facts”, *Studies in the History and Philosophy of Science*, 20(3): 385–388. doi:10.1016/0039-3681(89)90014-9
+* Musgrave, Alan, 1974, “Logical versus Historical Theories of Confirmation”, *British Journal for the Philosophy of Science*, 25(1): 1–23. doi:10.1093/bjps/25.1.1
+* –––, 1988, “The Ultimate Argument for Scientific Realism”, in Robert Nola (ed.), *Relativism and Realism in Science*, Dordrecht: Kluwer Academic Publishers, pp. 229–252. doi:10.1007/978-94-009-2877-0\_10
+* Nunan, Richard, 1984, “Novel Facts, Bayesian Rationality, and the History of Continental Drift”, *Studies in the History and Philosophy of Science*, 15(4): 267–307. doi:10.1016/0039-3681(84)90013-X
+* Partington, J.R. and Douglas McKie, 1937–38, “Historical Studies on the Phlogiston Theory”, *Annals of Science*,
   * 1937, “I. The Levity of Phlogiston”, 2(4): 361–404, doi:10.1080/00033793700200691
   * 1938a, “II. The Negative Weight of Phlogiston”, 3(1): 1–58, doi:10.1080/00033793800200781
   * 1938b, “III. Light and Heat in Combustion”, 3(4): 337–371, doi:10.1080/00033793800200951
-* Peterson, Clayton, 2019, “Accommodation, Prediction, and Replication: Model Selection in Scale Construction”, _Synthese_, 196: 4329–4350.
-* Popper, Karl, 1963, _Conjectures and Refutations: The Growth of Scientific Knowledge_, New York and Evanston: Harper and Row.
-* –––, 1972, _Objective Knowledge_, Oxford: Clarendon Press.
-* –––, 1974, “Replies to my critics”, in Paul Arthur Schilpp (ed.), _The Philosophy of Karl Popper_, Book II, 961–1197, La Salle, Illinois: Open Court.
-* Psillos, Stathis, 1999, _Scientific Realism: How Science Tracks the Truth_, London and New York: Routledge.
-* Putnam, Hilary, 1975, _Philosophical Papers,Vol. 1, Mathematics, Matter, and Method_, Cambridge: Cambridge University Press.
-* Redhead, Michael, 1978, “Adhocness and the Appraisal of Theories”, _British Journal for the Philosophy of Science_, 29: 355–361.
-* Salmon, Wesley C., 1981, “Rational Prediction”, _British Journal for the Philosophy of Science_, 32(2): 115–125. doi:10.1093/bjps/32.2.115
-* Sarkar, Husain, 1998, “Review of _A Novel Defense of Scientific Realism_ by Jarrett Leplin”, _Journal of Philosophy_, 95(4): 204–209. doi:10.2307/2564685
-* Scerri, Eric R., 2005, “Response to Barnes’s critique of Scerri and Worrall”, _Studies in the History and Philosophy of Science_, 36(4): 813–816. doi:10.1016/j.shpsa.2005.08.006
-* Scerri, Eric R. and John Worrall, 2001, “Prediction and the Periodic Table”, _Studies in the History and Philosophy of Science_, 32(3): 407–452. doi:10.1016/S0039-3681(01)00023-1
-* Schindler, Samuel, 2008, “Use Novel Predictions and Mendeleev’s Periodic Table: Response to Scerri and Worrall (2001)”, _Studies in the History and Philosophy of Science Part A_, 39(2): 265–269. doi:10.1016/j.shpsa.2008.03.008
-* –––, 2014, “Novelty, coherence, and Mendeleev’s periodic table”, _Studies in the History and Philosophy of Science Part A_, 45: 62–69. doi:10.1016/j.shpsa.2013.10.007
-* Schlesinger, George N., 1987, “Accommodation and Prediction”, _Australasian Journal of Philosophy_, 65(1): 1 33–42. doi:10.1080/00048408712342751
-* Schurz, Gerhard, 2014, “Bayesian Pseudo-Confirmation, Use-Novelty, and Genuine Confirmation”, _Studies in History and Philosophy of Science Part A_, 45: 87–96. doi:10.1016/j.shpsa.2013.10.008
-* Sereno, Sergio Gabriele Maria, 2020, “Prediction, Accommodation, and the Periodic Table: A Reappraisal”, _Foundations of Chemistry_, 22: 477–488.
-* Stanford, P. Kyle, 2006, _Exceeding Our Grasp: Science, History, and the Problem of Unconceived Altenatives_, Oxford: Oxford University Press. doi:10.1093/0195174089.001.0001
-* Steele, Katie and Charlotte Werndl, 2013, “Climate Models, Calibration, and Confirmation”, _The British Journal for the Philosophy of Science_, 64 (30): 609–635.
-* Swinburne, Richard, 2001, _Epistemic Justification_, Oxford: Oxford University Press. doi:10.1093/0199243794.001.0001
-* Thomason, Neil, 1992, “Could Lakatos, Even with Zahar’s Criterion of Novel Fact, Evaluate the Copernican Research Programme?”, _British Journal for the Philosophy of Science_, 43(2): 161–200. doi:10.1093/bjps/43.2.161
-* Votsis, Ioannis, 2014, “Objectivity in Confirmation: Post Hoc Monsters and Novel Predictions”, _Studies in the History and Philosophy of Science Part A_, 45: 70–78. doi:10.1016/j.shpsa.2013.10.009
-* Whewell, William, 1849 \[1968], “Mr. Mill’s Logic”, originally published 1849, reprinted in Robert E. Butts (ed.), _William Whewell’s Theory of Scientific Method_, Pittsburgh, PA: University of Pittsburgh Press, pp. 265–308.
-* White, Roger, 2003, “The Epistemic Advantage of Prediction over Accommodation”, _Mind_, 112(448): 653–683. doi:10.1093/mind/112.448.653
-* Worrall, John, 1978, “The Ways in Which the Methodology of Scientific Research Programmes Improves Upon Popper’s Methodology”, in Gerard Radnitzky and Gunnar Andersson (eds.) _Progress and Rationality in Science_, (Boston studies in the philosophy of science, 58), Dordrecht: D. Reidel, pp. 45–70. doi:10.1007/978-94-009-9866-7\_3
-* –––, 1985, “Scientific Discovery and Theory-Confirmation”, in Joseph C. Pitt (ed.), _Change and Progress in Modern Science: Papers Related to and Arising from the Fourth International Conference on History and Philosophy of Science, Blacksburg, Virginia, November 1982_, Dordrecht: D. Reidel, pp. 301–331. doi:10.1007/978-94-009-6525-6\_11
-* –––, 1989, “Fresnel, Poisson and the White Spot: The Role of Successful Predictions in the Acceptance of Scientific Theories”, in David Gooding, Trevor Pinch, and Simon Schaffer (eds.), _The Uses of Experiment: Studies in the Natural Sciences_, Cambridge: Cambridge University Press, pp. 135–157.
-* –––, 2002, “New Evidence for Old”, in Peter Gärdenfors, Jan Wolenski, and K. Kijania-Placek (eds.), _In the Scope of Logic, Methodology and Philosophy of Science: Volume One of the 11th International Congress of Logic, Methodology and Philosophy of Science, Cracow, August 1999_, Dordrecht: Kluwer Academic Publishers, pp. 191–209.
-* –––, 2005, “Prediction and the ‘Periodic Law’: A Rejoinder to Barnes”, _Studies in the History and Philosophy of Science_, 36(4): 817–826. doi:10.1016/j.shpsa.2005.08.007
-* –––, 2006, “Theory-Confirmation and History”, in Colin Cheyne and John Worrall. (eds.), _Rationality and Reality: Conversations with Alan Musgrave_, Dordrecht: Springer, pp. 31–61. doi:10.1007/1-4020-4207-8\_4
+* Peterson, Clayton, 2019, “Accommodation, Prediction, and Replication: Model Selection in Scale Construction”, *Synthese*, 196: 4329–4350.
+* Popper, Karl, 1963, *Conjectures and Refutations: The Growth of Scientific Knowledge*, New York and Evanston: Harper and Row.
+* –––, 1972, *Objective Knowledge*, Oxford: Clarendon Press.
+* –––, 1974, “Replies to my critics”, in Paul Arthur Schilpp (ed.), *The Philosophy of Karl Popper*, Book II, 961–1197, La Salle, Illinois: Open Court.
+* Psillos, Stathis, 1999, *Scientific Realism: How Science Tracks the Truth*, London and New York: Routledge.
+* Putnam, Hilary, 1975, *Philosophical Papers,Vol. 1, Mathematics, Matter, and Method*, Cambridge: Cambridge University Press.
+* Redhead, Michael, 1978, “Adhocness and the Appraisal of Theories”, *British Journal for the Philosophy of Science*, 29: 355–361.
+* Salmon, Wesley C., 1981, “Rational Prediction”, *British Journal for the Philosophy of Science*, 32(2): 115–125. doi:10.1093/bjps/32.2.115
+* Sarkar, Husain, 1998, “Review of *A Novel Defense of Scientific Realism* by Jarrett Leplin”, *Journal of Philosophy*, 95(4): 204–209. doi:10.2307/2564685
+* Scerri, Eric R., 2005, “Response to Barnes’s critique of Scerri and Worrall”, *Studies in the History and Philosophy of Science*, 36(4): 813–816. doi:10.1016/j.shpsa.2005.08.006
+* Scerri, Eric R. and John Worrall, 2001, “Prediction and the Periodic Table”, *Studies in the History and Philosophy of Science*, 32(3): 407–452. doi:10.1016/S0039-3681(01)00023-1
+* Schindler, Samuel, 2008, “Use Novel Predictions and Mendeleev’s Periodic Table: Response to Scerri and Worrall (2001)”, *Studies in the History and Philosophy of Science Part A*, 39(2): 265–269. doi:10.1016/j.shpsa.2008.03.008
+* –––, 2014, “Novelty, coherence, and Mendeleev’s periodic table”, *Studies in the History and Philosophy of Science Part A*, 45: 62–69. doi:10.1016/j.shpsa.2013.10.007
+* Schlesinger, George N., 1987, “Accommodation and Prediction”, *Australasian Journal of Philosophy*, 65(1): 1 33–42. doi:10.1080/00048408712342751
+* Schurz, Gerhard, 2014, “Bayesian Pseudo-Confirmation, Use-Novelty, and Genuine Confirmation”, *Studies in History and Philosophy of Science Part A*, 45: 87–96. doi:10.1016/j.shpsa.2013.10.008
+* Sereno, Sergio Gabriele Maria, 2020, “Prediction, Accommodation, and the Periodic Table: A Reappraisal”, *Foundations of Chemistry*, 22: 477–488.
+* Stanford, P. Kyle, 2006, *Exceeding Our Grasp: Science, History, and the Problem of Unconceived Altenatives*, Oxford: Oxford University Press. doi:10.1093/0195174089.001.0001
+* Steele, Katie and Charlotte Werndl, 2013, “Climate Models, Calibration, and Confirmation”, *The British Journal for the Philosophy of Science*, 64 (30): 609–635.
+* Swinburne, Richard, 2001, *Epistemic Justification*, Oxford: Oxford University Press. doi:10.1093/0199243794.001.0001
+* Thomason, Neil, 1992, “Could Lakatos, Even with Zahar’s Criterion of Novel Fact, Evaluate the Copernican Research Programme?”, *British Journal for the Philosophy of Science*, 43(2): 161–200. doi:10.1093/bjps/43.2.161
+* Votsis, Ioannis, 2014, “Objectivity in Confirmation: Post Hoc Monsters and Novel Predictions”, *Studies in the History and Philosophy of Science Part A*, 45: 70–78. doi:10.1016/j.shpsa.2013.10.009
+* Whewell, William, 1849 \[1968], “Mr. Mill’s Logic”, originally published 1849, reprinted in Robert E. Butts (ed.), *William Whewell’s Theory of Scientific Method*, Pittsburgh, PA: University of Pittsburgh Press, pp. 265–308.
+* White, Roger, 2003, “The Epistemic Advantage of Prediction over Accommodation”, *Mind*, 112(448): 653–683. doi:10.1093/mind/112.448.653
+* Worrall, John, 1978, “The Ways in Which the Methodology of Scientific Research Programmes Improves Upon Popper’s Methodology”, in Gerard Radnitzky and Gunnar Andersson (eds.) *Progress and Rationality in Science*, (Boston studies in the philosophy of science, 58), Dordrecht: D. Reidel, pp. 45–70. doi:10.1007/978-94-009-9866-7\_3
+* –––, 1985, “Scientific Discovery and Theory-Confirmation”, in Joseph C. Pitt (ed.), *Change and Progress in Modern Science: Papers Related to and Arising from the Fourth International Conference on History and Philosophy of Science, Blacksburg, Virginia, November 1982*, Dordrecht: D. Reidel, pp. 301–331. doi:10.1007/978-94-009-6525-6\_11
+* –––, 1989, “Fresnel, Poisson and the White Spot: The Role of Successful Predictions in the Acceptance of Scientific Theories”, in David Gooding, Trevor Pinch, and Simon Schaffer (eds.), *The Uses of Experiment: Studies in the Natural Sciences*, Cambridge: Cambridge University Press, pp. 135–157.
+* –––, 2002, “New Evidence for Old”, in Peter Gärdenfors, Jan Wolenski, and K. Kijania-Placek (eds.), *In the Scope of Logic, Methodology and Philosophy of Science: Volume One of the 11th International Congress of Logic, Methodology and Philosophy of Science, Cracow, August 1999*, Dordrecht: Kluwer Academic Publishers, pp. 191–209.
+* –––, 2005, “Prediction and the ‘Periodic Law’: A Rejoinder to Barnes”, *Studies in the History and Philosophy of Science*, 36(4): 817–826. doi:10.1016/j.shpsa.2005.08.007
+* –––, 2006, “Theory-Confirmation and History”, in Colin Cheyne and John Worrall. (eds.), *Rationality and Reality: Conversations with Alan Musgrave*, Dordrecht: Springer, pp. 31–61. doi:10.1007/1-4020-4207-8\_4
 * –––, 2010, “Errors, Tests, and Theory Confirmation”, in Mayo. and Spanos 2010: 125–154.
-* –––, 2014, “Prediction and Accommodation Revisited”, _Studies in History and Philosophy of Science Part A_, 45: 54–61. doi:10.1016/j.shpsa.2013.10.001
-* Wright, John, 2012, _Explaining Science’s Success: Understanding How Scientific Knowledge Works_, Durham, England: Acumen.
-* Zahar, Elie, 1973, “Why did Einstein’s Programme supersede Lorentz’s? (I)”, _British Journal for the Philosophy of Science_, 24(2): 95–123. doi:10.1093/bjps/24.2.95
-* –––, 1983, _Einstein’s Revolution: A Study In Heuristic_, La Salle, IL: Open Court.
+* –––, 2014, “Prediction and Accommodation Revisited”, *Studies in History and Philosophy of Science Part A*, 45: 54–61. doi:10.1016/j.shpsa.2013.10.001
+* Wright, John, 2012, *Explaining Science’s Success: Understanding How Scientific Knowledge Works*, Durham, England: Acumen.
+* Zahar, Elie, 1973, “Why did Einstein’s Programme supersede Lorentz’s? (I)”, *British Journal for the Philosophy of Science*, 24(2): 95–123. doi:10.1093/bjps/24.2.95
+* –––, 1983, *Einstein’s Revolution: A Study In Heuristic*, La Salle, IL: Open Court.
 
 ## Academic Tools
 
@@ -440,4 +439,4 @@ Leplin 澄清，这种推理的“最小充分重建”将是一个有效的推�
 [confirmation](https://plato.stanford.edu/entries/confirmation/) | [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [Lakatos, Imre](https://plato.stanford.edu/entries/lakatos/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Popper, Karl](https://plato.stanford.edu/entries/popper/) | [realism: and theory change in science](https://plato.stanford.edu/entries/realism-theory-change/) | [scientific discovery](https://plato.stanford.edu/entries/scientific-discovery/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific method](https://plato.stanford.edu/entries/scientific-method/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [Whewell, William](https://plato.stanford.edu/entries/whewell/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Eric Christian Barnes <[_ebarnes@smu.edu_](mailto:ebarnes%40smu%2eedu)>
+Eric Christian Barnes <[*ebarnes@smu.edu*](mailto:ebarnes%40smu%2eedu)>

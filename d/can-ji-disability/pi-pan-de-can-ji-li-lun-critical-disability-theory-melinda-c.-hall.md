@@ -30,25 +30,25 @@
 
 这篇文章有五个主要部分。首先，通过背景，文章阐述并探讨了批判的残疾理论在批判理论中的起源及持续共鸣。然后，介绍了残疾研究中存在的紧张关系，包括使用新语言“批判的残疾理论”来区分批判性方法与传统的“残疾研究”。其次，文章考虑了批判的残疾理论中的关键跨学科方法，包括残疾理论、残疾与种族交叉工作，包括残疾批判种族理论、土著方法和后殖民方法。第三，文章涵盖了采用大陆哲学的哲学方法，特别关注了福柯的影响。在第四部分，文章讨论了政治参与，包括在批判的残疾理论环境中对心理学提出的挑战以及围绕批判的残疾理论的活动。最后，文章提供了关于批判的残疾理论未来的结论思考。
 
-* [ 背景](https://plato.stanford.edu/entries/disability-critical/#Back)
+* [背景](https://plato.stanford.edu/entries/disability-critical/#Back)
 
-  * [ 批判理论](https://plato.stanford.edu/entries/disability-critical/#CritTheo)
+  * [批判理论](https://plato.stanford.edu/entries/disability-critical/#CritTheo)
   * [残疾研究中的紧张关系](https://plato.stanford.edu/entries/disability-critical/#TensWithDisaStud)
 * [跨学科方法](https://plato.stanford.edu/entries/disability-critical/#InteAppr)
 
-  * [ 残疾理论](https://plato.stanford.edu/entries/disability-critical/#CripTheo)
+  * [残疾理论](https://plato.stanford.edu/entries/disability-critical/#CripTheo)
   * [批判的残疾理论种族研究和黑人残疾研究](https://plato.stanford.edu/entries/disability-critical/#DisaCritRaceStudBlacDisaStud)
   * [原住民理论和后殖民理论](https://plato.stanford.edu/entries/disability-critical/#IndiTheoPostTheo)
 * [哲学方法论](https://plato.stanford.edu/entries/disability-critical/#PhilAppr)
 
   * [福柯分析](https://plato.stanford.edu/entries/disability-critical/#FoucAnal)
   * [其他大陆方法](https://plato.stanford.edu/entries/disability-critical/#OtheContAppr)
-* [ 激进主义](https://plato.stanford.edu/entries/disability-critical/#Acti)
-* [ 结论](https://plato.stanford.edu/entries/disability-critical/#Conc)
-* [ 参考文献](https://plato.stanford.edu/entries/disability-critical/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/disability-critical/#Aca)
+* [激进主义](https://plato.stanford.edu/entries/disability-critical/#Acti)
+* [结论](https://plato.stanford.edu/entries/disability-critical/#Conc)
+* [参考文献](https://plato.stanford.edu/entries/disability-critical/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/disability-critical/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/disability-critical/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/disability-critical/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/disability-critical/#Rel)
 
 ---
 
@@ -303,7 +303,6 @@ Lydia X. Z. Brown, an activist, community organizer, and legal advocate, maintai
 > 残疾研究领域所声称代表的残疾状况范围（例如，神经、心理、身体、认知）以及残疾社区在种族、阶级、性别和性取向等方面的多样性。(Erevelles & Kafer 2010: 212)
 
 批判的残疾理论理论家明确邀请关于批判的残疾理论未来方向的对话（例如，Minich 2016）。
-
 
 ## Bibliography
 

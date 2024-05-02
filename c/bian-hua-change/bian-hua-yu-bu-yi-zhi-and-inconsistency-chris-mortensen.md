@@ -1,10 +1,8 @@
 # 变化与不一致 and inconsistency (Chris Mortensen)
 
-_首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2020 年 2 月 13 日星期四_
+*首次发表于 2002 年 12 月 18 日星期三；实质性修订于 2020 年 2 月 13 日星期四*
 
 变化在我们的生活中是如此普遍，以至于几乎无法描述和分析。可以用一种非常普遍的方式来思考它，即变更。但是，一件事物的变更引发了微妙的问题。其中一个最令人困惑的问题是变化的一致性问题：一个事物如何具有不兼容的属性，却仍然保持相同的事物？有人认为变化是一个连贯的过程，并且由时间的存在来实现。其他人认为理解变化的唯一方法是将其视为不一致性。本文概述了这一问题及相关问题的历史，并得出结论：将变化视为不一致性的论点并非那么容易被轻易摒弃。
-
-
 
 ***
 
@@ -50,7 +48,7 @@ Zeno 的杰出悖论通常被视为捍卫巴门尼德的尝试。我们不会详
 
 如果一个变化中的事物具有不同和不兼容的属性，那么就会出现矛盾。当面对事物变化这一事实时，显而易见的做法是像康德（1781）那样说它们随时间变化，这样可以避免不一致。但随之而来的另一个问题是什么意义上的一致可以使一件事物在变化中持续存在？时间和空间上的一致是普遍性的标志，但我们也将诸如台球和人这样的个别事物视为在时间上具有自我认同。
 
-亚里士多德（Aristotle）关于事物持续性的观点在这里值得注意。冒着对其他地方已经详细讨论的内容进行极度简化的风险（请参阅[亚里士多德的形而上学](https://plato.stanford.edu/entries/aristotle-metaphysics/)条目），可以说他早期认为随着时间的推移和变化而持续存在的_基质_可以与_物质_等同，物质的_形式_是被获得或丢失的（《物理学》I，5-7）。当他写《范畴论》时，被认为容易受到相反属性影响的是_实质_；因此实质本身没有对立面（范畴论 4a10）。在《形而上学》Z 中，对实质的更复杂的学说进行了阐述。实质不是基质、物质，因为那缺乏特殊性。_它_的实质，_那个东西_存在的本质，没有它就不存在，是它的_本质_。亚里士多德随后将本质与他的因果理论联系起来，被各种方式认同为最终原因和形式原因。
+亚里士多德（Aristotle）关于事物持续性的观点在这里值得注意。冒着对其他地方已经详细讨论的内容进行极度简化的风险（请参阅[亚里士多德的形而上学](https://plato.stanford.edu/entries/aristotle-metaphysics/)条目），可以说他早期认为随着时间的推移和变化而持续存在的_基质_可以与_物质_等同，物质的_形式_是被获得或丢失的（《物理学》I，5-7）。当他写《范畴论》时，被认为容易受到相反属性影响的是_实质_；因此实质本身没有对立面（范畴论 4a10）。在《形而上学》Z 中，对实质的更复杂的学说进行了阐述。实质不是基质、物质，因为那缺乏特殊性。_它_的实质，*那个东西_存在的本质，没有它就不存在，是它的_本质*。亚里士多德随后将本质与他的因果理论联系起来，被各种方式认同为最终原因和形式原因。
 
 尽管亚里士多德关于变化的观点 — 特别是他区分本质和意外的观点 — 有时被认为包含了对通过变化实现持续性身份问题的解决方案，但笔者认为它们实际上并没有真正抓住问题的最基本形式。这在《范畴论》中可能最为明显，那里实质能够容纳不兼容的意外特征几乎是定义性的。
 
@@ -102,7 +100,7 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 在询问这个精心制定的立场的论据有多强时，我们回到普里斯特（Priest）反对对手一致、外在、电影观点的三个论点。我们回想第一个论点是“对接”论点：一致的变化不能允许有变化发生的（单一）时间。这不会动摇反对派，他们会回答说这是变化的本质，即使是点上的变化，也需要与附近的点进行比较；因此，对变化的内在概念的需求是一个错误。
 
-第二个论点是电影观点与拉普拉斯观点相矛盾，即过去决定现在。普里斯特表达得不太可信：他说拉普拉斯主义是可能的，而电影观点则“_先验_”地排除了它（第 217 页）。但这是一种模态谬误：只有在采纳拉普拉斯观点时，电影观点才被排除，因此这只是相对先验。
+第二个论点是电影观点与拉普拉斯观点相矛盾，即过去决定现在。普里斯特表达得不太可信：他说拉普拉斯主义是可能的，而电影观点则“*先验*”地排除了它（第 217 页）。但这是一种模态谬误：只有在采纳拉普拉斯观点时，电影观点才被排除，因此这只是相对先验。
 
 第三个论点，变化的箭，尽管有更大的力量。任何数量，甚至是无限数量的零怎么可能加起来得到一个非零呢？测度论的数学可能会说，区间具有非零测度，而单个点为零，但那又怎样呢？我们需要的是一个能够使其应用可理解且非任意的故事。如果这个故事无法提供，那么就会有一个强烈的反直觉，即零标志着不存在的缺失；没有任何缺失或不存在的事物或数量会构成一个现存的事物或数量。
 
@@ -160,38 +158,38 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 
 ## Bibliography
 
-* Cohen, S. Marc, 2001, “Aristotle’s Metaphysics,” _Stanford Encyclopedia of Philosophy_ (Winter 2001 Edition), Edward N. Zalta (ed.), URL = <[Aristotle�s Metaphysics (Stanford Encyclopedia of Philosophy/Winter 2001 Edition)](https://plato.stanford.edu/archives/win2001/entries/aristotle-metaphysics/)>.
-* Dainton, Barry, 2001, _Time and Space_, Chesham: Acumen.
-* Davidson, Donald, 1967, “The Logical Form of Action Sentences,” in N. Rescher (ed.), _The Logic of Decision and Action_, Pittsburgh: University of Pittsburgh Press.
-* Dharmakirti, 1930, “A System of Logic” (with Commentary by Dharmottara), in F. Th. Scherbatsky, _Buddhist Logic_, New York: Dover, 1962.
-* Geach, Peter, 1969, _God and the Soul_, London: Routledge and Kegan Paul.
-* Gruber, Ronald P., Michael Bach, and Richard A. Block, 2015, “Perceiving Two Levels of the Flow of Time,” _Journal of Consciousness Studies_, 22(5–6): 7–22.
-* Haslanger, Sally, 1989, “Endurance and Temporary Intrinsics,” _Analysis_, 49: 119–125.
-* Herakleitos, _Fragments_, T.H. Robinson (trans.), Toronto: University of Toronto Press, 1987.
-* Hamblin, Charles, 1969, “Starting and Stopping,” _The Monist_, 53: 410–425.
-* Hegel, Georg W.F., 1812, _Wissenschaft der Logik_, see A. Miller (trans.), _Hegel’s Science of Logic_, London: Allen and Unwin, 1969.
-* Johnston, Mark, 1987, “Is There a Problem About Persistence?, ” _Proceedings of the Aristotelian Society_ (Supplement), 61: 107–35.
-* Kant, Immanuel, 1781, _Critique of Pure Reason_, N. Kemp Smith (trans.), London: McMillan, 1933. (See The Transcendental Aesthetic, Section 5.)
-* Lewis, David, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1988, “Rearrangement of Particles: Reply to Lowe,” _Analysis_, 48: 65–72.
-* Lowe, E.J., 1987, “Lewis on Perdurance versus Endurance,” _Analysis_, 47: 152–154.
-* –––, 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis,” _Analysis_, 48: 72–77.
-* McTaggart, J.E., 1908, “The Unreality of Time,” _Mind_, 17: 457–74.
-* Medlin, Brian, 1963, “The Origin of Motion,” _Mind_, 72: 155–175.
-* Mellor, Hugh, 1981, _Real Time_, Cambridge: Cambridge University Press.
-* Mortensen, Chris, 1985, “The Limits of Change,” _Australasian Journal of Philosophy_, 63: 1–10.
-* –––, 1997, “The Leibniz Continuity Condition, Inconsistency and Quantum Dynamics,” _The Journal of Philosophical Logic_, 26: 377–389.
-* –––, 2013, “Motion Perception as Inconsistent,” _Philosophical Psychology_, 26(5): 913–924.
-* Nerlich, Graham, 1976, _The Shape of Space_, Cambridge: Cambridge University Press.
-* Parfit, Derek, 1984, _Reasons and Persons_, Oxford: The Clarendon Press.
-* Palmer, Stephen, 1999, _Vision Science: Photons to Phenomenology_, Cambridge, MA: MIT Press.
-* Price, Huw, 1996, _Time’s Arrow and Archimedes’ Point_, Oxford: Oxford University Press.
-* Priest, Graham, 1987, _In Contradiction_, Dordrecht: Nijhoff; second edition, Oxford: Oxford University Press, 2006.
-* Priest, G., R. Routley and J. Norman (eds.), 1989, _Paraconsistent Logic_, Munich: Philosophia Verlag.
-* Savitt, Steven, 2006, “Being and Becoming in Modern Physics,” _Stanford Encyclopedia of Philosophy_ (Fall 2006 Edition), Edward N. Zalta (ed.), URL = <[Being and Becoming in Modern Physics (Stanford Encyclopedia of Philosophy/Fall2006 Edition)](https://plato.stanford.edu/archives/fall2006/entries/spacetime-bebecome/)>.
-* von Wright, Georg H., 1968, _Time, Change and Contradiction_, Cambridge: Cambridge University Press.
-* Weatherson, Brian, 2002, “Intrinsic vs. Extrinsic Properties”, _Stanford Encyclopedia of Philosophy_ (Spring 2002 Edition), Edward N. Zalta (ed.), URL = <[Intrinsic vs. Extrinsic Properties (Stanford Encyclopedia of Philosophy/Spring 2002 Edition)](https://plato.stanford.edu/archives/spr2002/entries/intrinsic-extrinsic/)>.
-* Weyl, H., 1960, _Das Kontinuum und Andere Monographien_, New York: Chelsea.
+* Cohen, S. Marc, 2001, “Aristotle’s Metaphysics,” *Stanford Encyclopedia of Philosophy* (Winter 2001 Edition), Edward N. Zalta (ed.), URL = <[Aristotle�s Metaphysics (Stanford Encyclopedia of Philosophy/Winter 2001 Edition)](https://plato.stanford.edu/archives/win2001/entries/aristotle-metaphysics/)>.
+* Dainton, Barry, 2001, *Time and Space*, Chesham: Acumen.
+* Davidson, Donald, 1967, “The Logical Form of Action Sentences,” in N. Rescher (ed.), *The Logic of Decision and Action*, Pittsburgh: University of Pittsburgh Press.
+* Dharmakirti, 1930, “A System of Logic” (with Commentary by Dharmottara), in F. Th. Scherbatsky, *Buddhist Logic*, New York: Dover, 1962.
+* Geach, Peter, 1969, *God and the Soul*, London: Routledge and Kegan Paul.
+* Gruber, Ronald P., Michael Bach, and Richard A. Block, 2015, “Perceiving Two Levels of the Flow of Time,” *Journal of Consciousness Studies*, 22(5–6): 7–22.
+* Haslanger, Sally, 1989, “Endurance and Temporary Intrinsics,” *Analysis*, 49: 119–125.
+* Herakleitos, *Fragments*, T.H. Robinson (trans.), Toronto: University of Toronto Press, 1987.
+* Hamblin, Charles, 1969, “Starting and Stopping,” *The Monist*, 53: 410–425.
+* Hegel, Georg W.F., 1812, *Wissenschaft der Logik*, see A. Miller (trans.), *Hegel’s Science of Logic*, London: Allen and Unwin, 1969.
+* Johnston, Mark, 1987, “Is There a Problem About Persistence?, ” *Proceedings of the Aristotelian Society* (Supplement), 61: 107–35.
+* Kant, Immanuel, 1781, *Critique of Pure Reason*, N. Kemp Smith (trans.), London: McMillan, 1933. (See The Transcendental Aesthetic, Section 5.)
+* Lewis, David, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1988, “Rearrangement of Particles: Reply to Lowe,” *Analysis*, 48: 65–72.
+* Lowe, E.J., 1987, “Lewis on Perdurance versus Endurance,” *Analysis*, 47: 152–154.
+* –––, 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis,” *Analysis*, 48: 72–77.
+* McTaggart, J.E., 1908, “The Unreality of Time,” *Mind*, 17: 457–74.
+* Medlin, Brian, 1963, “The Origin of Motion,” *Mind*, 72: 155–175.
+* Mellor, Hugh, 1981, *Real Time*, Cambridge: Cambridge University Press.
+* Mortensen, Chris, 1985, “The Limits of Change,” *Australasian Journal of Philosophy*, 63: 1–10.
+* –––, 1997, “The Leibniz Continuity Condition, Inconsistency and Quantum Dynamics,” *The Journal of Philosophical Logic*, 26: 377–389.
+* –––, 2013, “Motion Perception as Inconsistent,” *Philosophical Psychology*, 26(5): 913–924.
+* Nerlich, Graham, 1976, *The Shape of Space*, Cambridge: Cambridge University Press.
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: The Clarendon Press.
+* Palmer, Stephen, 1999, *Vision Science: Photons to Phenomenology*, Cambridge, MA: MIT Press.
+* Price, Huw, 1996, *Time’s Arrow and Archimedes’ Point*, Oxford: Oxford University Press.
+* Priest, Graham, 1987, *In Contradiction*, Dordrecht: Nijhoff; second edition, Oxford: Oxford University Press, 2006.
+* Priest, G., R. Routley and J. Norman (eds.), 1989, *Paraconsistent Logic*, Munich: Philosophia Verlag.
+* Savitt, Steven, 2006, “Being and Becoming in Modern Physics,” *Stanford Encyclopedia of Philosophy* (Fall 2006 Edition), Edward N. Zalta (ed.), URL = <[Being and Becoming in Modern Physics (Stanford Encyclopedia of Philosophy/Fall2006 Edition)](https://plato.stanford.edu/archives/fall2006/entries/spacetime-bebecome/)>.
+* von Wright, Georg H., 1968, *Time, Change and Contradiction*, Cambridge: Cambridge University Press.
+* Weatherson, Brian, 2002, “Intrinsic vs. Extrinsic Properties”, *Stanford Encyclopedia of Philosophy* (Spring 2002 Edition), Edward N. Zalta (ed.), URL = <[Intrinsic vs. Extrinsic Properties (Stanford Encyclopedia of Philosophy/Spring 2002 Edition)](https://plato.stanford.edu/archives/spr2002/entries/intrinsic-extrinsic/)>.
+* Weyl, H., 1960, *Das Kontinuum und Andere Monographien*, New York: Chelsea.
 
 ## Academic Tools
 
@@ -210,4 +208,4 @@ Priest 的第三个论点（第 218 页）是他对前面提到的泽诺箭论�
 [Aristotle, General Topics: metaphysics](https://plato.stanford.edu/entries/aristotle-metaphysics/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Heraclitus](https://plato.stanford.edu/entries/heraclitus/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [logic: paraconsistent](https://plato.stanford.edu/entries/logic-paraconsistent/) | [Mach, Ernst](https://plato.stanford.edu/entries/ernst-mach/) | [mathematics: inconsistent](https://plato.stanford.edu/entries/mathematics-inconsistent/) | [McTaggart, John M. E.](https://plato.stanford.edu/entries/mctaggart/) | [Newton, Isaac: philosophy](https://plato.stanford.edu/entries/newton-philosophy/) | [Newton, Isaac: views on space, time, and motion](https://plato.stanford.edu/entries/newton-stm/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [space and time: being and becoming in modern physics](https://plato.stanford.edu/entries/spacetime-bebecome/) | [time](https://plato.stanford.edu/entries/time/) | [Zeno of Elea: Zeno’s paradoxes](https://plato.stanford.edu/entries/paradox-zeno/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[_Chris.Mortensen@adelaide.edu.au_](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>
+[Chris Mortensen](https://www.adelaide.edu.au/directory/chris.mortensen) <[*Chris.Mortensen@adelaide.edu.au*](mailto:Chris%2eMortensen%40adelaide%2eedu%2eau)>

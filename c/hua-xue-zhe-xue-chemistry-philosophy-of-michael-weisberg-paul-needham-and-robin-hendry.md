@@ -1,11 +1,10 @@
 # 化学哲学 chemistry, philosophy of (Michael Weisberg, Paul Needham, and Robin Hendry)
 
-_首次发表于 2011 年 3 月 14 日星期一；实质性修订于 2019 年 1 月 16 日星期三_
+*首次发表于 2011 年 3 月 14 日星期一；实质性修订于 2019 年 1 月 16 日星期三*
 
 化学是研究物质结构和转化的学科。当亚里士多德在公元前 4 世纪撰写了关于化学的第一部系统论著时，他对物质性质的概念把握是为了适应相对简单的一系列可观察现象。到了 21 世纪，化学已成为最大的科学学科，每年产生超过 50 万篇出版物，涵盖直接经验调查到重要的理论工作。然而，对化学中出现的概念问题的专门兴趣，以下简称为_化学哲学_，是近年来哲学科学中的一个相对新的领域。
 
 化学哲学有两个主要部分。首先，认真阐明和分析化学中出现的概念问题。这些涉及化学内部的问题包括物质的本质、原子论、化学键和合成。其次，在化学背景下探讨传统科学哲学中的主题，如现实主义、还原主义、解释、证实和建模。
-
 
 ***
 
@@ -22,13 +21,13 @@ _首次发表于 2011 年 3 月 14 日星期一；实质性修订于 2019 年 1 
 
 ### 1.1 亚里士多德的化学
 
-化学哲学中最早关于物质及其转化的概念分析出现在亚里士多德传统中。与现代化学一样，亚里士多德理论的焦点是物质的性质及其转化。他在《物种起源与灭亡论》（_De Generatione et Corruptione_）、《气象学》和《物理学》以及《天体论》（_De Caelo_）的部分中提出了化学理论的首部系统论著。
+化学哲学中最早关于物质及其转化的概念分析出现在亚里士多德传统中。与现代化学一样，亚里士多德理论的焦点是物质的性质及其转化。他在《物种起源与灭亡论》（*De Generatione et Corruptione*）、《气象学》和《物理学》以及《天体论》（*De Caelo*）的部分中提出了化学理论的首部系统论著。
 
-亚里士多德认识到，大多数普通物质是由多种物质组成的，尽管他认为其中一些可能是由单一纯物质组成的。因此，他需要提供一个能够区分单一物质的纯度标准。他的标准是纯物质是_同质的_：它们在每个层次都由相同的部分组成。“\[如果发生了组合，化合物_必须_是均匀的——这种化合物的任何部分都与整体相同，就像水的任何部分都是水”（_De Generatione et Corruptione_，以下简称_DG_，I.10，328a10ff）。\[[1](https://plato.stanford.edu/entries/chemistry/notes.html#note-1)]因此，当我们在岩石中发现钻石、水中发现油，或空气中发现烟雾时，亚里士多德化学告诉我们存在不止一种物质。
+亚里士多德认识到，大多数普通物质是由多种物质组成的，尽管他认为其中一些可能是由单一纯物质组成的。因此，他需要提供一个能够区分单一物质的纯度标准。他的标准是纯物质是_同质的_：它们在每个层次都由相同的部分组成。“\[如果发生了组合，化合物_必须_是均匀的——这种化合物的任何部分都与整体相同，就像水的任何部分都是水”（*De Generatione et Corruptione*，以下简称_DG_，I.10，328a10ff）。\[[1](https://plato.stanford.edu/entries/chemistry/notes.html#note-1)]因此，当我们在岩石中发现钻石、水中发现油，或空气中发现烟雾时，亚里士多德化学告诉我们存在不止一种物质。
 
-像他的一些前辈一样，亚里士多德认为火、水、空气和土是所有物质的基本构成要素。但与他的前辈不同，亚里士多德从基本原理中建立了这个列表。他认为“同一事物不可能既热又冷，既湿润又干燥……火是热和干燥的，而空气是热和潮湿的……；水是冷和潮湿的，而土是冷和干燥的”（_DG_ II.3, 330a30–330b5）。亚里士多德认为热和潮湿是热和湿度的最大程度，而冷和干燥是最小程度。非元素物质的特征是初级品质温暖和湿度的中间程度。
+像他的一些前辈一样，亚里士多德认为火、水、空气和土是所有物质的基本构成要素。但与他的前辈不同，亚里士多德从基本原理中建立了这个列表。他认为“同一事物不可能既热又冷，既湿润又干燥……火是热和干燥的，而空气是热和潮湿的……；水是冷和潮湿的，而土是冷和干燥的”（*DG* II.3, 330a30–330b5）。亚里士多德认为热和潮湿是热和湿度的最大程度，而冷和干燥是最小程度。非元素物质的特征是初级品质温暖和湿度的中间程度。
 
-亚里士多德运用这一元素理论来解释物质的许多性质。例如，他通过注意元素的两个特征性质，湿润和干燥，区分液体和固体。“湿润是那种在形状上容易适应的东西，没有自己的极限来确定；而干燥是那种可以由自己的极限来确定，但在形状上不容易适应的东西”（_DG_ II.2, 329b30f.）。固体具有自己的形状和体积，液体只有自己的体积。他进一步区分了液体和气体，后者甚至没有自己的体积。他推理说，水和空气都是流体，因为它们是湿润的，冷使水成为液体，热使空气成为气体。另一方面，干燥和冷使土变得固体，但干燥和热则得到火。
+亚里士多德运用这一元素理论来解释物质的许多性质。例如，他通过注意元素的两个特征性质，湿润和干燥，区分液体和固体。“湿润是那种在形状上容易适应的东西，没有自己的极限来确定；而干燥是那种可以由自己的极限来确定，但在形状上不容易适应的东西”（*DG* II.2, 329b30f.）。固体具有自己的形状和体积，液体只有自己的体积。他进一步区分了液体和气体，后者甚至没有自己的体积。他推理说，水和空气都是流体，因为它们是湿润的，冷使水成为液体，热使空气成为气体。另一方面，干燥和冷使土变得固体，但干燥和热则得到火。
 
 化学不仅关注物质的基本构成，它试图解释将物质转变为其他类型物质的过程。亚里士多德也对这一过程进行了首次重要分析，区分了_变质_（transmutation），其中一种物质压倒并消除另一种物质，以及_适当混合_（proper mixing）。前者最接近我们现在所称的相变，后者最接近我们现在所称的化学结合。
 
@@ -42,9 +41,9 @@ _首次发表于 2011 年 3 月 14 日星期一；实质性修订于 2019 年 1 
 
 然后，他继续提供了关于元素概念的明确定义，涉及到简单物质，特别提到了在分析中的恢复。
 
-一个元素，我们认为，是一个可以被分析为其他物质的物体，它在其中可能是潜在的或实际存在的（这两者仍有争议），并且本身不可分为形式不同的物体。这就是所有人在任何情况下都通过元素（_De caelo_，III.3，302a15ff）所指的含义，或类似这样的含义。
+一个元素，我们认为，是一个可以被分析为其他物质的物体，它在其中可能是潜在的或实际存在的（这两者仍有争议），并且本身不可分为形式不同的物体。这就是所有人在任何情况下都通过元素（*De caelo*，III.3，302a15ff）所指的含义，或类似这样的含义。
 
-这里隐含的简单性概念是在_DG_的第二卷中引入的，亚里士多德在那里声称“所有的复合物体……都是由所有简单物质组成的”（334b31）。但是，如果所有简单物质（元素）都存在于所有化合物中，那么各种化合物如何区分呢？回顾更近期的化学，自然而然地会认为，不同物质所特征的温暖和湿度的主要特性的不同程度是由于混合不同比例的元素而产生的。也许亚里士多德在表达混合产物的均匀性时曾稍纵即逝地提到了这个想法，他说“部分展示出与整体成分之间相同的比率”（_DG_ I.10，328a8-9，再次出现在_DG_ II.7，334b15）。
+这里隐含的简单性概念是在_DG_的第二卷中引入的，亚里士多德在那里声称“所有的复合物体……都是由所有简单物质组成的”（334b31）。但是，如果所有简单物质（元素）都存在于所有化合物中，那么各种化合物如何区分呢？回顾更近期的化学，自然而然地会认为，不同物质所特征的温暖和湿度的主要特性的不同程度是由于混合不同比例的元素而产生的。也许亚里士多德在表达混合产物的均匀性时曾稍纵即逝地提到了这个想法，他说“部分展示出与整体成分之间相同的比率”（*DG* I.10，328a8-9，再次出现在_DG_ II.7，334b15）。
 
 但是“元素的比例”是什么意思呢？当代的恒定比例和多重比例法则涉及基于质量概念理解的元素比例概念。亚里士多德没有这样的概念。现存的文本很少表明亚里士多德可能如何理解元素比例的概念，我们不得不诉诸推测（Needham 2009a）。
 
@@ -52,9 +51,9 @@ _首次发表于 2011 年 3 月 14 日星期一；实质性修订于 2019 年 1 
 
 在亚里士多德的理论中，元素实际上并不存在化合物中有两个原因。第一个原因涉及混合发生的方式。混合仅发生是因为物质对影响和被其他物质影响的主要力量和易感性。这意味着当形成新化合物时，所有原始物质都_改变_了。亚里士多德告诉我们，化合物是在对立的对立物被中和并产生中间状态时形成的：
 
-> 由于热和冷在程度上存在差异，... \[当]两者通过结合消除彼此的过度，从而存在着一个热（对于热而言）是冷的，一个冷（对于冷而言）是热的；那么将会存在...一个中间状态。...因此，元素中产生肉体、骨骼等物质——当它们被带到中间状态时，热变冷，冷变热。因为在中间状态既不热也不冷。然而，中间状态是相当广泛的，而不是不可分割的。同样，正是由于中间状态的存在，干燥的、湿润的和其他物质产生肉体、骨骼和其他化合物。(_DG_ II.7, 334b8–30)
+> 由于热和冷在程度上存在差异，... \[当]两者通过结合消除彼此的过度，从而存在着一个热（对于热而言）是冷的，一个冷（对于冷而言）是热的；那么将会存在...一个中间状态。...因此，元素中产生肉体、骨骼等物质——当它们被带到中间状态时，热变冷，冷变热。因为在中间状态既不热也不冷。然而，中间状态是相当广泛的，而不是不可分割的。同样，正是由于中间状态的存在，干燥的、湿润的和其他物质产生肉体、骨骼和其他化合物。(*DG* II.7, 334b8–30)
 
-第二个原因与纯物质的同质性要求有关。亚里士多德告诉我们，“如果发生了组合，化合物_必须_是均匀的 - 这种化合物的任何部分都与整体相同，就像水的任何部分都是水”（_DG_ I.10, 328a10f.）。由于元素是根据温暖和湿度的极端来定义的，具有这些特性的中间程度的物质不是元素。由于是均匀的，化合物的每个部分都具有相同的这些特性的中间程度。因此，没有具有极端特性的部分，因此实际上没有元素存在。他关于新物质出现的理论因此暗示元素实际上并不存在于化合物中。
+第二个原因与纯物质的同质性要求有关。亚里士多德告诉我们，“如果发生了组合，化合物_必须_是均匀的 - 这种化合物的任何部分都与整体相同，就像水的任何部分都是水”（*DG* I.10, 328a10f.）。由于元素是根据温暖和湿度的极端来定义的，具有这些特性的中间程度的物质不是元素。由于是均匀的，化合物的每个部分都具有相同的这些特性的中间程度。因此，没有具有极端特性的部分，因此实际上没有元素存在。他关于新物质出现的理论因此暗示元素实际上并不存在于化合物中。
 
 因此，我们陷入了一个有趣的理论僵局。亚里士多德通过元素在孤立状态下展现的条件来定义元素，并认为所有化合物都由元素组成。然而，元素在孤立状态下具有的特性并不是任何实际存在的化合物的任何部分可能具有的。那么如何可能恢复元素呢？
 
@@ -351,7 +350,7 @@ Goodwin（2012）确定了化学机制中涉及的两种概念。化学机制的
 3. 设计实验，针对给定的背景条件，差异性地评估至少两个假设。
 4. 进行这些实验，拒绝与实验结果不一致的反应机制假设。
 
-In following this procedure, chemists do more than simply falsify: they add confirmatory power to the mechanisms that haven’t been eliminated. Indeed, in discussing similar issues, biochemist John Platt (1964) argued that good scientific inference is _strong inference_, whereby the goal in an experiment is to eliminate one or more hypotheses. Several contemporary philosophers have endorsed the role of eliminative induction in science (e.g., Bird 2010, Dorling 1995, Kitcher 1993, Norton 1995). It is easy to see how it can be modeled in Bayesian and other quantitative frameworks for confirmation. Specifically, as particular candidate reaction mechanisms are eliminated, the probability that one of the remaining mechanisms is correct goes up (see Earman 1992 for details).
+In following this procedure, chemists do more than simply falsify: they add confirmatory power to the mechanisms that haven’t been eliminated. Indeed, in discussing similar issues, biochemist John Platt (1964) argued that good scientific inference is *strong inference*, whereby the goal in an experiment is to eliminate one or more hypotheses. Several contemporary philosophers have endorsed the role of eliminative induction in science (e.g., Bird 2010, Dorling 1995, Kitcher 1993, Norton 1995). It is easy to see how it can be modeled in Bayesian and other quantitative frameworks for confirmation. Specifically, as particular candidate reaction mechanisms are eliminated, the probability that one of the remaining mechanisms is correct goes up (see Earman 1992 for details).
 
 One difficulty with eliminative induction is the source of the relevant alternative hypotheses, in this case reaction mechanisms. There is no algorithmic procedure for generating these mechanisms, and there is always the possibility that the correct mechanism has not been considered at all. This is a genuine problem, and we believe that it is the very issue that motivates chemists to turn towards falsification when thinking about mechanisms; all they can do is evaluate the plausible mechanisms that they have thought of. However, we see eliminative induction as a more plausible reflection of the epistemic situation of mechanistic chemists. This problem is not uncertainty about mechanisms compatible with experiments—chemists have evidence that weighs in favor of those. Rather, the problem is with unconceived alternatives. Structure offers one way to delineate such mechanistic possibilities: Hoffmann (1997, Chapter 29) provides a beautiful example of explicitly eliminative reasoning in his discussion of how H. Okabe and J. R. McNesby used isotopic labelling to eliminate two out of three possible mechanisms for the photolysis of ethane to ethylene. But this is an issue in all parts of science, not just mechanistic chemistry, and eliminative induction has always played a role in chemists’ reasoning about structure. How did van ’t Hoff argue for the tetrahedral carbon atom? He argued first that it was possible to account for the observed number and variety of the isomers of certain organic substances only by taking into account the arrangement of atoms in space. He then defended a tetrahedral geometry for the carbon atom by rejecting a square planar arrangement: if carbon’s geometry were square planar, there would be more isomers of substituted methane than are observed. Thus, for instance, disubstituted methane (of the form CH2X2) should have two separable isomers if it is square planar, whereas only one can be found. Assuming a tetrahedral arrangement, in contrast, would be in accord with the observed number of isomers (Brock 1992).
 
@@ -437,7 +436,7 @@ Bogaard（1978 年），Scerri（1991 年，1994 年）和 Hendry（1998 年）�
 
 为什么简单模型比其他模型更少具有黑匣子特征呢？一个解释是我们的认知局限性。我们一次只能记住几个论点的步骤。现代高水平的计算可能需要几个小时甚至几天才能用快速计算机计算出来。即使每一步都被计算机明确表达，也无法记住计算步骤，因此很难理解结果的原因，即使我们相信答案是正确的。保罗·亨弗里斯（Paul Humphreys）称之为模拟的_认识不透明性_（2004）。
 
-在化学中采用简单、更高度理想化的模型的第二个原因源于化学的解释传统。在阐述这一观点时，霍夫曼（Hoffmann）认为化学系统可以进行两种解释：_水平_和_垂直_（Hoffmann 1997）。垂直解释是科学哲学家所称的_演绎-范例_解释。这些解释通过从量子力学推导化学现象的发生来解释化学现象。量子化学中的计算通常用于预测，但只要它们被视为解释化学现象，就会遵循这种模式。通过展示分子结构是稳定的，量子化学家推断这种结构是可以预期的，鉴于底层物理学。
+在化学中采用简单、更高度理想化的模型的第二个原因源于化学的解释传统。在阐述这一观点时，霍夫曼（Hoffmann）认为化学系统可以进行两种解释：*水平_和_垂直*（Hoffmann 1997）。垂直解释是科学哲学家所称的_演绎-范例_解释。这些解释通过从量子力学推导化学现象的发生来解释化学现象。量子化学中的计算通常用于预测，但只要它们被视为解释化学现象，就会遵循这种模式。通过展示分子结构是稳定的，量子化学家推断这种结构是可以预期的，鉴于底层物理学。
 
 与垂直模式相比，水平模式的解释试图用化学概念解释化学现象。例如，所有一年级有机化学学生都会学习不同底物在 SN2 反应中的相对反应速率。有机化学家可能会问：“为什么溴甲烷比氯甲烷更快地发生 SN2 反应？”一个答案是“离去基团 Br-比 Cl-更弱，其他条件相同，较弱的碱是更好的离去基团。”这通过引用化学性质（在这种情况下是碱的弱度）来解释化学反应。
 
@@ -451,160 +450,160 @@ Hoffmann 对水平和垂直解释的不同价值没有多少言论，但一个�
 
 ## Bibliography
 
-* Aristotle \[_DG_], _On Generation and Corruption_ (_De Generatione et Corruptione_), in _The Complete Works of Aristotle_ (Volume 1), J. Barnes (ed.), Princeton: Princeton University Press, 1984, 512–554.
-* Aristotle, _On the Heavens_ (_De Caelo_), in _The Complete Works of Aristotle_ (Volume 1), J. Barnes (ed.), Princeton: Princeton University Press, 1984, 447–511.
-* Atkins, P.W., 1991, _The Second Law_, New York: Freeman.
-* Bader, R.F.W., 1991, _Atoms in Molecules_, Oxford: Clarendon Press.
-* –––, 2009, “Bond Paths are Not Chemical Bonds,” _Journal of Physical Chemistry A_, 113: 10391–10396.
-* Berson, J., 2008, “Molecules with Very Weak Bonds: The Edge of Covalency” _Philosophy of Science_, 75: 947–957.
-* Berzelius, Jacob, 1813, “Experiments on the Nature of Azote, of Hydrogen, and of Ammonia, and Upon the Degrees of Oxidation of Which Azote is Susceptible”, _Annals of Philosophy_, 2: 276–86, 357–68.
-* –––, 1815, “An Address to those Chemists Who Wish to Examine the Laws of Chemical Proportions,” _Annals of Philosophy_, 5: 122–131.
-* Biggs, Norman L., E. Keith Lloyd and Robin J. Wilson, 1976, _Graph Theory 1736–1936_, Oxford: Clarendon Press.
-* Bird, Alexander, 2010, “Eliminative Induction: Examples from medicine”, _Studies in History and Philosophy of Science_, 41: 345–52.
-* Bishop, Robert C., 2010, “Whence Chemistry?”, _Studies in History and Philosophy of Modern Physics_, 41: 171–177.
-* Bogaard, Paul A., 1978, “The Limitations of Physics as a Chemical Reducing Agent”, _Proceedings of the Philosophy of Science Association_ (PSA 1978), 2: 345–56.
-* Bréhier, Émile, 1951, _Chrysippe et l’ancien stoïcisme_, 2nd edition, Presses Universitaires de France, Paris.
-* Brock, W.H., 2000, _The Chemical Tree: A History of Chemistry_, New York: W.H. Norton.
-* Brush, Stephen, 1999a, “Dynamics of Theory Change in Chemistry: The Benzene Problem 1865–1945”, _Studies in History and Philosophy of Science_, 30: 21–79.
-* –––, 1999b, “Dynamics of Theory Change in Chemistry: Benzene and Molecular Orbitals, 1945–1980”, _Studies in History and Philosophy of Science_, 30: 263–302.
-* Bursten, Julia, 2014, “Microstructure without Essentialism: A New Perspective on Chemical Classification”, _Philosophy of Science_, 81: 633–53.
-* Carpenter, B., 1984, _Determination of Organic Reaction Mechanisms_, New York: John Wiley and Sons.
-* Carroll, F. A., 1998, _Perspectives on Structure and Mechanism in Organic Chemistry_, Pacific Grove: Brooks/Cole.
-* Cerpa, Erick, A. Krapp, A. Vela, and G. Merino, 2008, “The Implications of the External Symmetry on the External Potential on Bond Paths,” _Chemistry: A European Journal_, 14: 10232–10234.
-* Chalmers, Alan, 1993, “The Lack of Excellency of Boyle’s Mechanical Philosophy”, _Studies in History and Philosophy of Science_, 24: 541–564.
-* –––, 2002, “Experiment Versus Mechanical Philosophy in the Work of Robert Boyle: A Reply to Anstey and Pyle”, _Studies in History and Philosophy of Science_, 33: 191–7.
-* –––, 2005a, “Atomism from the 17th to the 20th Century”, _The Stanford Encyclopedia of Philosophy_ (Fall 2005 Edition), Edward N. Zalta(ed.), URL = <[Atomism from the 17th to the 20th Century (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/atomism-modern/)>.
-* –––, 2005b, “Transforming Atomic Chemistry into an Experimental Science: The Limitations of Dalton’s Theory”, _The Rutherford Journal_, 1 \[[Available online](http://www.rutherfordjournal.org/article010101.html)].
-* –––, 2008, “Atomism and Aether in Nineteenth-Century Physical Science”, _Foundations of Chemistry_, 10: 157–66.
-* –––, 2009, _The Scientist’s Atom and the Philosopher’s Stone: How Science Succeeded and Philosophy Failed to Gain Knowledge of Atoms_ (Boston Studies in the Philosophy of Science, Vol. 279), Dordrecht: Springer.
-* Chang, Hasok, 2012, _Is Water H2O? Evidence, Realism and Pluralism_ (Boston Studies in the Philosophy of Science, Vol. 293), Dordrecht: Springer.
-* Churchland, P, 1985, “Reduction, Qualia, and Direct Introspection,” _Journal of Philosophy_, 82: 8–28.
-* Cooper, J., 2004, “Two notes on Aristotle on mixture”, In J. Cooper, _Knowledge, nature, and the good_, Princeton: Princeton University Press.
-* Corey, E. J. and X. Cheng, 1989, _The Logic of Chemical Synthesis_, New York: Wiley.
-* Coulson, C. A., 1952, “What Is a Chemical Bond?”, _Scientiﬁc Journal of the Royal College of Science_, 21: 11–29.
-* –––, 1960, “Present state of molecular structure calculations”. _Reviews of Modern Physics_, 32: 170–177.
-* Crum Brown, Alexander, 1864 \[1865], “On the Theory of Isomeric Compound,” _Transactions of the Royal Society of Edinburgh_ 23, 707–19. Page references are to the 1865 reprint in the _Journal of the Chemical Society_, 18: 230–45.
-* Davidson, Donald, 1970, “Mental Events”, in L. Foster and J. W. Swanson (eds.), _Experience and Theory_, Duckworth, London; reprinted in Davidson 1980, pp. 207–25.
-* –––, 1980, _Essays on Actions and Events_, New York: Oxford University Press.
-* Deltete, Robert J., 2000, _The Historical Development of Energetics_, trans. of G. Helm, _Die Energetik nach ihrer geschichtlichen Entwicklung_, Veit & Comp., Leipzig, 1898, by Kluwer, Dordrecht.
-* Dorling, J., 1995, “Einstein’s Methodology of Discovery was Newtonian Deduction from the Phenomena”, in J. Leplin (ed.), _The Creation of Ideas in Physics_, Dordrecht: Kluwer, 97–112.
-* Duhem, Pierre, 1892, “Notation atomique et hypothèses atomistiques”, _Revue des questions scientifiques_, 31, 391–457; translated (with the original pagination) by Paul Needham as “Atomic Notation and Atomistic Hypotheses”, _Foundations of Chemistry_, 2 (2000): 127–180.
-* –––, 1902, _Le mixte et la combinaison chimique: Essai sur l’évolution d’une idée_, C. Naud, Paris; reprinted Fayard, Paris, 1985. Translated in Duhem (2002).
-* –––, 2002, _Mixture and Chemical Combination, and Related Essays_, translated and edited by Paul Needham, Kluwer, Dordrecht.
-* Earley, Joseph E., 2005, “Why There is no Salt in the Sea”, _Foundations of Chemistry_, 7: 85–102.
-* Earman, J., 1992, _Bayes or Bust?_ Cambridge, MA: MIT Press.
+* Aristotle \[*DG*], *On Generation and Corruption* (*De Generatione et Corruptione*), in *The Complete Works of Aristotle* (Volume 1), J. Barnes (ed.), Princeton: Princeton University Press, 1984, 512–554.
+* Aristotle, *On the Heavens* (*De Caelo*), in *The Complete Works of Aristotle* (Volume 1), J. Barnes (ed.), Princeton: Princeton University Press, 1984, 447–511.
+* Atkins, P.W., 1991, *The Second Law*, New York: Freeman.
+* Bader, R.F.W., 1991, *Atoms in Molecules*, Oxford: Clarendon Press.
+* –––, 2009, “Bond Paths are Not Chemical Bonds,” *Journal of Physical Chemistry A*, 113: 10391–10396.
+* Berson, J., 2008, “Molecules with Very Weak Bonds: The Edge of Covalency” *Philosophy of Science*, 75: 947–957.
+* Berzelius, Jacob, 1813, “Experiments on the Nature of Azote, of Hydrogen, and of Ammonia, and Upon the Degrees of Oxidation of Which Azote is Susceptible”, *Annals of Philosophy*, 2: 276–86, 357–68.
+* –––, 1815, “An Address to those Chemists Who Wish to Examine the Laws of Chemical Proportions,” *Annals of Philosophy*, 5: 122–131.
+* Biggs, Norman L., E. Keith Lloyd and Robin J. Wilson, 1976, *Graph Theory 1736–1936*, Oxford: Clarendon Press.
+* Bird, Alexander, 2010, “Eliminative Induction: Examples from medicine”, *Studies in History and Philosophy of Science*, 41: 345–52.
+* Bishop, Robert C., 2010, “Whence Chemistry?”, *Studies in History and Philosophy of Modern Physics*, 41: 171–177.
+* Bogaard, Paul A., 1978, “The Limitations of Physics as a Chemical Reducing Agent”, *Proceedings of the Philosophy of Science Association* (PSA 1978), 2: 345–56.
+* Bréhier, Émile, 1951, *Chrysippe et l’ancien stoïcisme*, 2nd edition, Presses Universitaires de France, Paris.
+* Brock, W.H., 2000, *The Chemical Tree: A History of Chemistry*, New York: W.H. Norton.
+* Brush, Stephen, 1999a, “Dynamics of Theory Change in Chemistry: The Benzene Problem 1865–1945”, *Studies in History and Philosophy of Science*, 30: 21–79.
+* –––, 1999b, “Dynamics of Theory Change in Chemistry: Benzene and Molecular Orbitals, 1945–1980”, *Studies in History and Philosophy of Science*, 30: 263–302.
+* Bursten, Julia, 2014, “Microstructure without Essentialism: A New Perspective on Chemical Classification”, *Philosophy of Science*, 81: 633–53.
+* Carpenter, B., 1984, *Determination of Organic Reaction Mechanisms*, New York: John Wiley and Sons.
+* Carroll, F. A., 1998, *Perspectives on Structure and Mechanism in Organic Chemistry*, Pacific Grove: Brooks/Cole.
+* Cerpa, Erick, A. Krapp, A. Vela, and G. Merino, 2008, “The Implications of the External Symmetry on the External Potential on Bond Paths,” *Chemistry: A European Journal*, 14: 10232–10234.
+* Chalmers, Alan, 1993, “The Lack of Excellency of Boyle’s Mechanical Philosophy”, *Studies in History and Philosophy of Science*, 24: 541–564.
+* –––, 2002, “Experiment Versus Mechanical Philosophy in the Work of Robert Boyle: A Reply to Anstey and Pyle”, *Studies in History and Philosophy of Science*, 33: 191–7.
+* –––, 2005a, “Atomism from the 17th to the 20th Century”, *The Stanford Encyclopedia of Philosophy* (Fall 2005 Edition), Edward N. Zalta(ed.), URL = <[Atomism from the 17th to the 20th Century (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/atomism-modern/)>.
+* –––, 2005b, “Transforming Atomic Chemistry into an Experimental Science: The Limitations of Dalton’s Theory”, *The Rutherford Journal*, 1 \[[Available online](http://www.rutherfordjournal.org/article010101.html)].
+* –––, 2008, “Atomism and Aether in Nineteenth-Century Physical Science”, *Foundations of Chemistry*, 10: 157–66.
+* –––, 2009, *The Scientist’s Atom and the Philosopher’s Stone: How Science Succeeded and Philosophy Failed to Gain Knowledge of Atoms* (Boston Studies in the Philosophy of Science, Vol. 279), Dordrecht: Springer.
+* Chang, Hasok, 2012, *Is Water H2O? Evidence, Realism and Pluralism* (Boston Studies in the Philosophy of Science, Vol. 293), Dordrecht: Springer.
+* Churchland, P, 1985, “Reduction, Qualia, and Direct Introspection,” *Journal of Philosophy*, 82: 8–28.
+* Cooper, J., 2004, “Two notes on Aristotle on mixture”, In J. Cooper, *Knowledge, nature, and the good*, Princeton: Princeton University Press.
+* Corey, E. J. and X. Cheng, 1989, *The Logic of Chemical Synthesis*, New York: Wiley.
+* Coulson, C. A., 1952, “What Is a Chemical Bond?”, *Scientiﬁc Journal of the Royal College of Science*, 21: 11–29.
+* –––, 1960, “Present state of molecular structure calculations”. *Reviews of Modern Physics*, 32: 170–177.
+* Crum Brown, Alexander, 1864 \[1865], “On the Theory of Isomeric Compound,” *Transactions of the Royal Society of Edinburgh* 23, 707–19. Page references are to the 1865 reprint in the *Journal of the Chemical Society*, 18: 230–45.
+* Davidson, Donald, 1970, “Mental Events”, in L. Foster and J. W. Swanson (eds.), *Experience and Theory*, Duckworth, London; reprinted in Davidson 1980, pp. 207–25.
+* –––, 1980, *Essays on Actions and Events*, New York: Oxford University Press.
+* Deltete, Robert J., 2000, *The Historical Development of Energetics*, trans. of G. Helm, *Die Energetik nach ihrer geschichtlichen Entwicklung*, Veit & Comp., Leipzig, 1898, by Kluwer, Dordrecht.
+* Dorling, J., 1995, “Einstein’s Methodology of Discovery was Newtonian Deduction from the Phenomena”, in J. Leplin (ed.), *The Creation of Ideas in Physics*, Dordrecht: Kluwer, 97–112.
+* Duhem, Pierre, 1892, “Notation atomique et hypothèses atomistiques”, *Revue des questions scientifiques*, 31, 391–457; translated (with the original pagination) by Paul Needham as “Atomic Notation and Atomistic Hypotheses”, *Foundations of Chemistry*, 2 (2000): 127–180.
+* –––, 1902, *Le mixte et la combinaison chimique: Essai sur l’évolution d’une idée*, C. Naud, Paris; reprinted Fayard, Paris, 1985. Translated in Duhem (2002).
+* –––, 2002, *Mixture and Chemical Combination, and Related Essays*, translated and edited by Paul Needham, Kluwer, Dordrecht.
+* Earley, Joseph E., 2005, “Why There is no Salt in the Sea”, *Foundations of Chemistry*, 7: 85–102.
+* Earman, J., 1992, *Bayes or Bust?* Cambridge, MA: MIT Press.
 * Einstein, Albert, 1905 \[1956], Investigations on the Theory of the Brownian Movement, Dover Books, New York.
-* Emerton, Norma E., 1984, _The Scientific Reinterpretation of Form_, Cornell University Press, Ithaca, New York.
-* Feynman, R.P., 1939, “Forces in Molecules”, _Physical Review_, 56: 340–3.
-* Fine, K., 1995, “The problem of mixture”, _Pacific Philosophical Quarterly_, 76: 266–369.
-* Finney, John L., 2004, “Water? What’s so special about it?”, _Philosophical Transactions of the Royal Society of London B_, 359: 1145–1165.
-* Foresman, J. B., & Frisch, A., 1996, _Exploring chemistry with electronic structure methods_, second edition, Pittsburgh: Gaussian, Inc.
-* Fox, Robert, 1971, _The Caloric Theory of Gases: From Lavoisier to Regnault_, Clarendon Press, Oxford.
-* Geoffroy, Etienne François, 1718 \[1996], “Table of Different Relations Observed in Chemistry Between Different Substances”, _Science in Context_, 9: 313–20.
-* Gibbs, J. W., 1948, “On the equilibrium of heterogeneous substances”, in _The collected works of J. Willard Gibbs_, Vol. I (pp. 55–353), Yale University Press, New Haven. (First published in _Transactions of the Connecticut Academy of Arts and Sciences_, 3: 1876–1878, 108–248, 343–520; this edition was first published in 1906).
-* Gillespie, Ronald J. and Paul L. A. Popelier, 2001, _Chemical Bonding and Molecular Geometry: From Lewis to Electron Densities_, Oxford University Press, Oxford.
-* Goodman, M and S. Ro, 1995, “Peptidomimetics for Drug Design,” _Burger’s Medicinal Chemistry and Drug Discovery, Vol. I_ (Eds.: M. E. Wolff), John Wiley & Sons, Inc., 803–861.
-* Goodwin, W., 2012, “Mechanisms and Chemical Reactions,” _Handbook of the Philosophy of Science, Vol 6: Philosophy of Chemistry_, R. Hendry, P. Needham, and A. Woody (eds.), Amsterdam: Elsevier, 301–327.
-* Harré, Rom and Jean-Pierre Llored, 2011, “Mereologies as the Grammars of Chemical Discourses”, _Foundations of Chemistry_, 13: 63–76.
-* Havstad, Joyce C., 2018, “Messy Chemical Kinds”, _British Journal for the Philosophy of Science_, 69: 719–743
-* Hempel, C. G., 1965, “Aspects of Scientific Explanation”, _Aspects of Scientific Explanation_, Free Press, Collier-Macmillan, Toronto; pp. 331–496.
-* Hendry, Robin Findlay, 1998, “Models and Approximations in Quantum Chemistry”, in Niall Shanks (ed.), _Idealization IX: Idealization in Contemporary Physics_ (Poznan Studies in the Philosophy of the Sciences and the Humanities, Vol. 63), Amsterdam: Rodopi; 123–42.
-* –––, 2005, “Lavoisier and Mendeleev on the Elements”, _Foundations of Chemistry_, 7: 31–48.
-* –––, 2006a, “Elements, compounds and other chemical kinds”, _Philosophy of Science_, 73: 864–75.
-* –––, 2006b, “Is There Downwards Causation in Chemistry?”, in Davis Baird, Eric Scerri and Lee McIntyre, eds., _Philosophy of Chemistry: Synthesis of a New Discipline_ (Boston Studies in the Philosophy of Science), Dordrecht: Springer, 173–89.
-* –––, 2008, “Two Conceptions of the Chemical Bond,” _Philosophy of Science_, 75(5): 909–920.
-* –––, 2010a, “Ontological Reduction and Molecular Structure”, _Studies in History and Philosophy of Modern Physics_, 41: 183–191.
-* –––, 2010b, “The chemical bond: structure, energy and explanation,” in Mauro Dorato, Miklos Redei and Mauricio Suarez (eds.), _EPSA: Philosophical Issues in the Sciences: Launch of the European Philosophy of Science Association_, Berlin: Springer, 117–27.
-* –––, 2010c, “Entropy and chemical substance”, _Philosophy of Science_, 77: 921–32.
-* –––, 2016, “Natural kinds in chemistry,” in Grant Fisher and Eric Scerri (eds.), _Essays in the Philosophy of Chemistry_, Oxford: Oxford University Press, 253–75.
-* Hendry, Robin Findlay and Paul Needham, 2007, “Le Poidevin on the Reduction of Chemistry”, _British Journal for the Philosophy of Science_, 58: 339–53.
-* Hoffmann, R., 1997, _The Same and Not the Same_, New York: Columbia University Press.
-* –––, 1998, “Qualitative thinking in the age of modern computational chemistry–or what Lionel Salem knows”. _Journal of Molecular Structure_, 424: 1–6.
-* Hoffmann, R., Minkin, V. I., & Carpenter, B. K., 1996, “Ockham’s razor and chemistry”. _Bulletin de la Société Chimique de France_, 133: 117–130.
-* Humphreys, P., 2004, _Extending Ourselves_, New York: Oxford University Press.
-* Kitcher, Philip, 1984, “1953 and All That. A Tale of Two Sciences”, _Philosophical Review_, 93: 335–73.
-* –––, 1993, _The Advancement of Science_, New York: Oxford University Press.
-* Kim, Jaegwon, 1999, “Making Sense of Emergence”, _Philosophical Studies_, 95: 3–36.
-* Kekulé A., 1858 \[1963], Uber die Constitution und die Metamorphosen der chemischen Verbindungen und uber die chemische Natur des Kohlenstoffs. _Ann. Chem. Pharm._, 106: 129–159. Page references are to the translation as “The constitution and metamorphoses of chemical compounds and the chemical nature of carbon,” in Theodor Benfey (ed.) _Classics in the theory of chemical combination_, New York: Dover, 109–131.
-* Klein, Ursula, 1994, “Origin of the Concept of Chemical Compound”, _Science in Context_, 7: 163–204.
-* –––, 1995, “E. F. Geoffroy’s Table of Different ‘Rapports’ Between Different Chemical Substances—A Reinterpretation”, _Ambix_, 42: 79–100.
-* –––, 2003, _Experiments, models and paper tools: Cultures of organic chemistry in the nineteenth century_, Stanford: Stanford University Press.
-* Kohler, Robert, 1971, “The Origin of G.N. Lewis’s Theory of the Shared Pair Bond,” _Historical Studies in the Physical Sciences_, 3: 343–376.
-* –––, 1975, “G.N. Lewis’s Views on Bond Theory, 1900–16.” _British Journal for the History of Science_, 8: 233–239.
-* Kragh, Helge, 2000, “Conceptual Changes in Chemistry: The Notion of a Chemical Element, ca. 1900–1925” _Studies in History and Philosophy of Modern Physics_ 31B: 435–50.
-* –––, 2002, “The Vortex Atom: A Victorian Theory of Everything”, _Centaurus_, 44: 32–126.
-* Kripke, Saul, 1980, _Naming and Necessity_, Oxford: Blackwell.
-* Ladyman, James, 2011, “Structural Realism versus Standard Scientific Realism: The Case of Phlogiston and Dephlogisticated Air”, _Synthese_, 180: 87–101.
-* Lavoisier, Antoine–Laurent, 1789 \[1965], _Elements of Chemistry in a new systematic order, containing all the modern discoveries_, trans. by Robert Kerr of _Traité Élémentaire de Chimie_, reprinted New York: Dover.
-* Le Poidevin. R., 2005, “Missing Elements and Missing Premises: A Combinatorial Argument for the Ontological Reduction of Chemistry”, _British Journal for the Philosophy of Science_, 56: 117–134
-* Lewis, G. N., 1923 \[1966], _Valence and the structure of atoms and molecules_, New York: Dover.
-* Machamer, P., L. Darden, and C. Craver, 2000, “Thinking About Mechanisms”, _Philosophy of Science_, 67: 1–25.
-* Maiocchi, Roberto, 1990, “The Case of Brownian Motion”, _British Journal for the History of Science_, 23: 257–83.
-* Malt, Barbara, 1994, “Water is _Not_ H2O”, _Cognitive Psychology_, 27: 41–70
-* McMullin, E., 1985, “Galilean Idealization”, _Studies in History and Philosophy of Science_, 16: 247–73.
-* Mendeleev, Dmitri, 1869 \[2005], “On the correlation between the properties of the elements and their atomic weights,” in William B. Jensen (ed.), _Mendeleev on the Periodic Law: Selected Writings, 1869–1905_, New York: Dover, 18–37.
-* Meinel, Christoph, 1988, “Early Seventeenth-century Atomism: Theory, Epistemology, and the Insufficiency of Experiment”, _Isis_, 79: 68–103.
-* –––, 2004, “Molecules and Croquet Balls,” in _Models: The Third Dimension of Science_, Soraya de Chadarevian and Nick Hopwood (eds.), Stanford: Stanford University Press, pp. 242–275.
-* Mulder, Peter, 2010, “On the Alleged Non-Existence of Orbitals”, _Studies in History and Philosophy of Modern Physics_, 41: 178–82.
-* Mulliken, R.S., 1931, “Bonding Power of Electrons and Theory of Valence”, _Chemical Reviews_, 9: 347–88.
-* Nagel, Ernest, 1961, _The Structure of Science_, London: Routledge and Kegan Paul.
-* Needham, Paul, 1996, “Substitution: Duhem’s Explication of a Chemical Paradigm”, _Perspectives on Science_, 4: 408–33.
-* –––, 2000, “What is Water?”, _Analysis_, 60: 13–21.
-* –––, 2004, “When did atoms begin to do any explanatory work in chemistry?”, _International Studies in the Philosophy of Science_, 8: 199–219.
-* –––, 2008, “Is Water a Mixture?—Bridging the Distinction Between Physical and Chemical Properties”, _Studies in History and Philosophy of Science_, 39: 66–77.
-* –––, 2009a, “An Aristotelian Theory of Chemical Substance”, _Logical Analysis and History of Philosophy_, 12: 149–64.
-* –––, 2009b, “Reduction and Emergence: A Critique of Kim”, _Philosophical Studies_, 146: 93–116.
-* –––, 2010a, “Substance and Time”, _British Journal for the Philosophy of Science_, 61: 485–512.
-* –––, 2010b, “Nagel’s Analysis of Reduction: Comments in Defence as Well as Critique”, _Studies in History and Philosophy of Modern Physics_, 41: 163–170.
-* –––, 2011, “Microessentialism: What is the Argument?”, _Noûs_, 45(1): 1–21.
-* –––, 2014, “The Source of Chemical Bonding”, _Studies in History and Philosophy of Science_, 45: 1–13.
-* Newman, William R., 1996, “The Alchemical Sources of Robert Boyle’s Corpuscular Philosophy”, _Annals of Science_, 53: 567–85.
-* Norton, J., 1995, “Eliminative Induction as a Method of Discovery”, in J. Leplin (ed.), _The Creation of Ideas in Physics_, Dordrecht: Kluwer, 29–69.
-* Nye, Mary Jo, 1972, _Molecular Reality_, New York: Elsevier, 1972.
-* Ostrovsky, V. N., 2005, “Towards a Philosophy of Approximations in the ‘Exact’ Sciences”, _Hyle: International Journal for the Philosophy of Chemistry_, 11: 101–26.
-* Ostwald, Wilhelm, 1904, “Elements and Compounds”, _Journal of the Chemical Society_, 85: 506–22.
-* Paneth, F.A., 1962, “The Epistemological Status of the Chemical Concept of Element”, _British Journal for the Philosophy of Science_, 13: 1–14, 144–160.
-* Pauling, L., 1939, _The Nature of the Chemical Bond_, Ithaca: Cornell University Press.
-* Perrin, Jean, 1913 \[1990], _Atoms_, Ox Bow Press, Woodbridge, Connecticut.
-* Platt, J., 1964, “Strong Inference”, _Science_, 146: 347–353.
-* Primas, H., 1981, _Chemistry, Quantum Mechanics and Reductionism_, New York: Springer-Verlag.
-* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’,” in _Philosophical Papers_, Vol. 2, Cambridge: Cambridge University Press, pp. 215–71.
-* –––, 1990, “Is water necessarily H2O?” in H. Putnam, _Realism with a Human Face_, Cambridge, MA: Harvard University Press, 54–79.
-* Ramberg, P., 2003, _Chemical Structure, Spatial Arrangement: The Early History of Stereochemistry, 1874–1914_, Aldershot: Ashgate.
-* Ramsey, J., 1997, “Molecular Shape, Reduction, Explanation and Approximate Concepts”, _Synthese_ 111: 233–251.
-* Ritter, Christopher, 2001, “An Early History of Alexander Crum Brown’s Graphical Formulas,” in _Tools and Modes of Representation in the Laboratory Sciences_, Ursula Klein (ed.), Dordrecht: Kluwer, pp. 35–46.
-* Rocke, Alan J., 1984, _Chemical Atomism in the Nineteenth Century: From Dalton to Cannizzaro_, Columbus, OH: Ohio State University Press.
-* –––, 2010, _Image and Reality: Kekulé, Kopp and the Scientific Imagination_, Chicago: University of Chicago Press.
-* Russell, Colin A., 1971, _The History of Valency_, Leicester: Leicester University Press.
-* Scerri, Eric, 1991, “The Electronic Configuration Model, Quantum Mechanics and Reduction”, _British Journal for the Philosophy of Science_, 42: 309–25
-* –––, 1994, “Has Chemistry Been at Least Approximately Reduced to Quantum Mechanics?”, in D. Hull, M. Forbes and R. Burian (eds.), _PSA 1994_ (Vol. 1), Philosophy of Science Association.
-* –––, 1997, “The Periodic Table and the Electron”, _American Scientist_, 85: 546–553.
-* –––, 2000, “Have Orbitals Really Been Observed?”, _Journal of Chemical Education_, 77 (11): 1492–4.
-* –––, 2006, _The Periodic Table: Its Story and its Significance_, Oxford: Oxford University Press.
-* Schaffner, K., 1967, “Approaches to Reduction,” _Philosophy of Science_, 34: 137–147.
-* Schwarz, W. H. Eugen, 2007, “Recommended Questions on the Road Towards a Scientific Explanation of the periodic System of Chemical Elements with the Help of the Concepts of Quantum Physics”, _Foundations of Chemistry_, 9: 139–88.
-* –––, 2006, “Measuring Orbitals: Provocation or Reality?”, _Angewandte Chemie International Edition_, 45 (10): 1508–17.
-* Sklar, Lawrence, 1993, _Physics and Chance: Philosophical Issues in the Foundations of Statistical Mechanics_, Cambridge: Cambridge University Press.
-* Sutcliffe, B.T. and R.G. Woolley, 2012, “Atoms and Molecules in Classical Chemistry and Quantum Mechanics”, _Handbook of the Philosophy of Science, Vol 6: Philosophy of Chemistry_, R. Hendry, P. Needham, and A. Woody (eds.), Amsterdam: Elsevier, 387–426.
-* Todd, Robert B., 1976, _Alexander of Aphrodisias on Stoic Physics_, Leiden: E. J. Brill.
-* van Brakel, Jaap, 1986, “The Chemistry of Substances and the Philosophy of Mass Terms”, _Synthese_, 69: 291–324.
-* –––, 1997, “Chemistry as the Science of the Transformation of Substances”, _Synthese_, 111: 253–82.
-* –––, 2000a, _Philosophy of Chemistry: Between the Manifest and the Scientific Image_, Leuven: Leuven University Press.
-* –––, 2000b, “The Nature of Chemical Substances”, in N. Bhushan and S. Rosenfeld (eds.), _Of Minds and Molecules_, Oxford: Oxford University Press, pp. 162–84.
-* Watson, James D., 1968, _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_, New York: New American Library.
-* Weininger, Stephen J., 2014, “Reactivity and its Contexts”, in Ursula Klein and Carsten Reinhardt (eds.), _Objects of Chemical Inquiry_, Leiden: Brill, 203–36.
-* Weisberg, M., 2004, “Qualitative theory and chemical explanation”. _Philosophy of Science_, 71: 1071–1081.
-* –––, 2005, “Water is Not H2O,” _Philosophy of Chemistry: Synthesis of a New Discipline_, D. Baird, _et al_. (eds.), New York: Springer, 337–345.
-* –––, 2007a, “Who is a modeler?” _British Journal for Philosophy of Science_, 58: 207–233.
-* –––, 2007b, “Three Kinds of Idealization” _Journal of Philosophy_, 104 (12): 639–659.
-* –––, 2008, “Challenges to the Structural Conception of Bonding,” _Philosophy of Science_, 75: 932–946.
-* Weisheipl, James A., 1963, “The Concept of Matter in Fourteenth Century Science”, in Ernan McMullin (ed.), _The Concept of Matter in Greek and Medieval Philosophy_, Notre Dame: University of Notre Dame Press.
-* Wikforss, Åsa, 2010, “Are Natural Kind Terms Special?”, in H. Beebee and N. Sabbarton-Leary (eds.), _The Semantics and Metaphysics of Natural Kinds_, New York: Routledge, pp. 64–83.
-* Wood, R. and M. Weisberg, 2004, “Interpreting Aristotle on mixture: problems about elemental composition from Philoponus to Cooper”, _Studies in the History and Philosophy of Science_, 35: 681–706.
-* Woody, A.I., 2000, “Putting Quantum Mechanics to Work in Chemistry: The Power of Diagrammatic Representation”, _Philosophy of Science_, 67: S612–27.
-* –––, 2012, “Concept Amalgamation and Representation in Quantum Chemistry”, _Handbook of the Philosophy of Science_ (Volume 6: Philosophy of Chemistry), R. Hendry, P. Needham, and A. Woody (eds.), Amsterdam: Elsevier, 427–66.
-* Woolley, R., 1978, “Must a Molecule Have a Shape?”, _Journal of the American Chemical Society_, 100: 1073–1078.
-* Zuo, J. M., M. Kim, M. O’Keeffe and J. C. H. Spence, 1999, “Direct Observation of _d_-orbital Holes and Cu-Cu Bonding in Cu2O”, _Nature_, 401 (6748): 4952.
+* Emerton, Norma E., 1984, *The Scientific Reinterpretation of Form*, Cornell University Press, Ithaca, New York.
+* Feynman, R.P., 1939, “Forces in Molecules”, *Physical Review*, 56: 340–3.
+* Fine, K., 1995, “The problem of mixture”, *Pacific Philosophical Quarterly*, 76: 266–369.
+* Finney, John L., 2004, “Water? What’s so special about it?”, *Philosophical Transactions of the Royal Society of London B*, 359: 1145–1165.
+* Foresman, J. B., & Frisch, A., 1996, *Exploring chemistry with electronic structure methods*, second edition, Pittsburgh: Gaussian, Inc.
+* Fox, Robert, 1971, *The Caloric Theory of Gases: From Lavoisier to Regnault*, Clarendon Press, Oxford.
+* Geoffroy, Etienne François, 1718 \[1996], “Table of Different Relations Observed in Chemistry Between Different Substances”, *Science in Context*, 9: 313–20.
+* Gibbs, J. W., 1948, “On the equilibrium of heterogeneous substances”, in *The collected works of J. Willard Gibbs*, Vol. I (pp. 55–353), Yale University Press, New Haven. (First published in *Transactions of the Connecticut Academy of Arts and Sciences*, 3: 1876–1878, 108–248, 343–520; this edition was first published in 1906).
+* Gillespie, Ronald J. and Paul L. A. Popelier, 2001, *Chemical Bonding and Molecular Geometry: From Lewis to Electron Densities*, Oxford University Press, Oxford.
+* Goodman, M and S. Ro, 1995, “Peptidomimetics for Drug Design,” *Burger’s Medicinal Chemistry and Drug Discovery, Vol. I* (Eds.: M. E. Wolff), John Wiley & Sons, Inc., 803–861.
+* Goodwin, W., 2012, “Mechanisms and Chemical Reactions,” *Handbook of the Philosophy of Science, Vol 6: Philosophy of Chemistry*, R. Hendry, P. Needham, and A. Woody (eds.), Amsterdam: Elsevier, 301–327.
+* Harré, Rom and Jean-Pierre Llored, 2011, “Mereologies as the Grammars of Chemical Discourses”, *Foundations of Chemistry*, 13: 63–76.
+* Havstad, Joyce C., 2018, “Messy Chemical Kinds”, *British Journal for the Philosophy of Science*, 69: 719–743
+* Hempel, C. G., 1965, “Aspects of Scientific Explanation”, *Aspects of Scientific Explanation*, Free Press, Collier-Macmillan, Toronto; pp. 331–496.
+* Hendry, Robin Findlay, 1998, “Models and Approximations in Quantum Chemistry”, in Niall Shanks (ed.), *Idealization IX: Idealization in Contemporary Physics* (Poznan Studies in the Philosophy of the Sciences and the Humanities, Vol. 63), Amsterdam: Rodopi; 123–42.
+* –––, 2005, “Lavoisier and Mendeleev on the Elements”, *Foundations of Chemistry*, 7: 31–48.
+* –––, 2006a, “Elements, compounds and other chemical kinds”, *Philosophy of Science*, 73: 864–75.
+* –––, 2006b, “Is There Downwards Causation in Chemistry?”, in Davis Baird, Eric Scerri and Lee McIntyre, eds., *Philosophy of Chemistry: Synthesis of a New Discipline* (Boston Studies in the Philosophy of Science), Dordrecht: Springer, 173–89.
+* –––, 2008, “Two Conceptions of the Chemical Bond,” *Philosophy of Science*, 75(5): 909–920.
+* –––, 2010a, “Ontological Reduction and Molecular Structure”, *Studies in History and Philosophy of Modern Physics*, 41: 183–191.
+* –––, 2010b, “The chemical bond: structure, energy and explanation,” in Mauro Dorato, Miklos Redei and Mauricio Suarez (eds.), *EPSA: Philosophical Issues in the Sciences: Launch of the European Philosophy of Science Association*, Berlin: Springer, 117–27.
+* –––, 2010c, “Entropy and chemical substance”, *Philosophy of Science*, 77: 921–32.
+* –––, 2016, “Natural kinds in chemistry,” in Grant Fisher and Eric Scerri (eds.), *Essays in the Philosophy of Chemistry*, Oxford: Oxford University Press, 253–75.
+* Hendry, Robin Findlay and Paul Needham, 2007, “Le Poidevin on the Reduction of Chemistry”, *British Journal for the Philosophy of Science*, 58: 339–53.
+* Hoffmann, R., 1997, *The Same and Not the Same*, New York: Columbia University Press.
+* –––, 1998, “Qualitative thinking in the age of modern computational chemistry–or what Lionel Salem knows”. *Journal of Molecular Structure*, 424: 1–6.
+* Hoffmann, R., Minkin, V. I., & Carpenter, B. K., 1996, “Ockham’s razor and chemistry”. *Bulletin de la Société Chimique de France*, 133: 117–130.
+* Humphreys, P., 2004, *Extending Ourselves*, New York: Oxford University Press.
+* Kitcher, Philip, 1984, “1953 and All That. A Tale of Two Sciences”, *Philosophical Review*, 93: 335–73.
+* –––, 1993, *The Advancement of Science*, New York: Oxford University Press.
+* Kim, Jaegwon, 1999, “Making Sense of Emergence”, *Philosophical Studies*, 95: 3–36.
+* Kekulé A., 1858 \[1963], Uber die Constitution und die Metamorphosen der chemischen Verbindungen und uber die chemische Natur des Kohlenstoffs. *Ann. Chem. Pharm.*, 106: 129–159. Page references are to the translation as “The constitution and metamorphoses of chemical compounds and the chemical nature of carbon,” in Theodor Benfey (ed.) *Classics in the theory of chemical combination*, New York: Dover, 109–131.
+* Klein, Ursula, 1994, “Origin of the Concept of Chemical Compound”, *Science in Context*, 7: 163–204.
+* –––, 1995, “E. F. Geoffroy’s Table of Different ‘Rapports’ Between Different Chemical Substances—A Reinterpretation”, *Ambix*, 42: 79–100.
+* –––, 2003, *Experiments, models and paper tools: Cultures of organic chemistry in the nineteenth century*, Stanford: Stanford University Press.
+* Kohler, Robert, 1971, “The Origin of G.N. Lewis’s Theory of the Shared Pair Bond,” *Historical Studies in the Physical Sciences*, 3: 343–376.
+* –––, 1975, “G.N. Lewis’s Views on Bond Theory, 1900–16.” *British Journal for the History of Science*, 8: 233–239.
+* Kragh, Helge, 2000, “Conceptual Changes in Chemistry: The Notion of a Chemical Element, ca. 1900–1925” *Studies in History and Philosophy of Modern Physics* 31B: 435–50.
+* –––, 2002, “The Vortex Atom: A Victorian Theory of Everything”, *Centaurus*, 44: 32–126.
+* Kripke, Saul, 1980, *Naming and Necessity*, Oxford: Blackwell.
+* Ladyman, James, 2011, “Structural Realism versus Standard Scientific Realism: The Case of Phlogiston and Dephlogisticated Air”, *Synthese*, 180: 87–101.
+* Lavoisier, Antoine–Laurent, 1789 \[1965], *Elements of Chemistry in a new systematic order, containing all the modern discoveries*, trans. by Robert Kerr of *Traité Élémentaire de Chimie*, reprinted New York: Dover.
+* Le Poidevin. R., 2005, “Missing Elements and Missing Premises: A Combinatorial Argument for the Ontological Reduction of Chemistry”, *British Journal for the Philosophy of Science*, 56: 117–134
+* Lewis, G. N., 1923 \[1966], *Valence and the structure of atoms and molecules*, New York: Dover.
+* Machamer, P., L. Darden, and C. Craver, 2000, “Thinking About Mechanisms”, *Philosophy of Science*, 67: 1–25.
+* Maiocchi, Roberto, 1990, “The Case of Brownian Motion”, *British Journal for the History of Science*, 23: 257–83.
+* Malt, Barbara, 1994, “Water is *Not* H2O”, *Cognitive Psychology*, 27: 41–70
+* McMullin, E., 1985, “Galilean Idealization”, *Studies in History and Philosophy of Science*, 16: 247–73.
+* Mendeleev, Dmitri, 1869 \[2005], “On the correlation between the properties of the elements and their atomic weights,” in William B. Jensen (ed.), *Mendeleev on the Periodic Law: Selected Writings, 1869–1905*, New York: Dover, 18–37.
+* Meinel, Christoph, 1988, “Early Seventeenth-century Atomism: Theory, Epistemology, and the Insufficiency of Experiment”, *Isis*, 79: 68–103.
+* –––, 2004, “Molecules and Croquet Balls,” in *Models: The Third Dimension of Science*, Soraya de Chadarevian and Nick Hopwood (eds.), Stanford: Stanford University Press, pp. 242–275.
+* Mulder, Peter, 2010, “On the Alleged Non-Existence of Orbitals”, *Studies in History and Philosophy of Modern Physics*, 41: 178–82.
+* Mulliken, R.S., 1931, “Bonding Power of Electrons and Theory of Valence”, *Chemical Reviews*, 9: 347–88.
+* Nagel, Ernest, 1961, *The Structure of Science*, London: Routledge and Kegan Paul.
+* Needham, Paul, 1996, “Substitution: Duhem’s Explication of a Chemical Paradigm”, *Perspectives on Science*, 4: 408–33.
+* –––, 2000, “What is Water?”, *Analysis*, 60: 13–21.
+* –––, 2004, “When did atoms begin to do any explanatory work in chemistry?”, *International Studies in the Philosophy of Science*, 8: 199–219.
+* –––, 2008, “Is Water a Mixture?—Bridging the Distinction Between Physical and Chemical Properties”, *Studies in History and Philosophy of Science*, 39: 66–77.
+* –––, 2009a, “An Aristotelian Theory of Chemical Substance”, *Logical Analysis and History of Philosophy*, 12: 149–64.
+* –––, 2009b, “Reduction and Emergence: A Critique of Kim”, *Philosophical Studies*, 146: 93–116.
+* –––, 2010a, “Substance and Time”, *British Journal for the Philosophy of Science*, 61: 485–512.
+* –––, 2010b, “Nagel’s Analysis of Reduction: Comments in Defence as Well as Critique”, *Studies in History and Philosophy of Modern Physics*, 41: 163–170.
+* –––, 2011, “Microessentialism: What is the Argument?”, *Noûs*, 45(1): 1–21.
+* –––, 2014, “The Source of Chemical Bonding”, *Studies in History and Philosophy of Science*, 45: 1–13.
+* Newman, William R., 1996, “The Alchemical Sources of Robert Boyle’s Corpuscular Philosophy”, *Annals of Science*, 53: 567–85.
+* Norton, J., 1995, “Eliminative Induction as a Method of Discovery”, in J. Leplin (ed.), *The Creation of Ideas in Physics*, Dordrecht: Kluwer, 29–69.
+* Nye, Mary Jo, 1972, *Molecular Reality*, New York: Elsevier, 1972.
+* Ostrovsky, V. N., 2005, “Towards a Philosophy of Approximations in the ‘Exact’ Sciences”, *Hyle: International Journal for the Philosophy of Chemistry*, 11: 101–26.
+* Ostwald, Wilhelm, 1904, “Elements and Compounds”, *Journal of the Chemical Society*, 85: 506–22.
+* Paneth, F.A., 1962, “The Epistemological Status of the Chemical Concept of Element”, *British Journal for the Philosophy of Science*, 13: 1–14, 144–160.
+* Pauling, L., 1939, *The Nature of the Chemical Bond*, Ithaca: Cornell University Press.
+* Perrin, Jean, 1913 \[1990], *Atoms*, Ox Bow Press, Woodbridge, Connecticut.
+* Platt, J., 1964, “Strong Inference”, *Science*, 146: 347–353.
+* Primas, H., 1981, *Chemistry, Quantum Mechanics and Reductionism*, New York: Springer-Verlag.
+* Putnam, Hilary, 1975, “The Meaning of ‘Meaning’,” in *Philosophical Papers*, Vol. 2, Cambridge: Cambridge University Press, pp. 215–71.
+* –––, 1990, “Is water necessarily H2O?” in H. Putnam, *Realism with a Human Face*, Cambridge, MA: Harvard University Press, 54–79.
+* Ramberg, P., 2003, *Chemical Structure, Spatial Arrangement: The Early History of Stereochemistry, 1874–1914*, Aldershot: Ashgate.
+* Ramsey, J., 1997, “Molecular Shape, Reduction, Explanation and Approximate Concepts”, *Synthese* 111: 233–251.
+* Ritter, Christopher, 2001, “An Early History of Alexander Crum Brown’s Graphical Formulas,” in *Tools and Modes of Representation in the Laboratory Sciences*, Ursula Klein (ed.), Dordrecht: Kluwer, pp. 35–46.
+* Rocke, Alan J., 1984, *Chemical Atomism in the Nineteenth Century: From Dalton to Cannizzaro*, Columbus, OH: Ohio State University Press.
+* –––, 2010, *Image and Reality: Kekulé, Kopp and the Scientific Imagination*, Chicago: University of Chicago Press.
+* Russell, Colin A., 1971, *The History of Valency*, Leicester: Leicester University Press.
+* Scerri, Eric, 1991, “The Electronic Configuration Model, Quantum Mechanics and Reduction”, *British Journal for the Philosophy of Science*, 42: 309–25
+* –––, 1994, “Has Chemistry Been at Least Approximately Reduced to Quantum Mechanics?”, in D. Hull, M. Forbes and R. Burian (eds.), *PSA 1994* (Vol. 1), Philosophy of Science Association.
+* –––, 1997, “The Periodic Table and the Electron”, *American Scientist*, 85: 546–553.
+* –––, 2000, “Have Orbitals Really Been Observed?”, *Journal of Chemical Education*, 77 (11): 1492–4.
+* –––, 2006, *The Periodic Table: Its Story and its Significance*, Oxford: Oxford University Press.
+* Schaffner, K., 1967, “Approaches to Reduction,” *Philosophy of Science*, 34: 137–147.
+* Schwarz, W. H. Eugen, 2007, “Recommended Questions on the Road Towards a Scientific Explanation of the periodic System of Chemical Elements with the Help of the Concepts of Quantum Physics”, *Foundations of Chemistry*, 9: 139–88.
+* –––, 2006, “Measuring Orbitals: Provocation or Reality?”, *Angewandte Chemie International Edition*, 45 (10): 1508–17.
+* Sklar, Lawrence, 1993, *Physics and Chance: Philosophical Issues in the Foundations of Statistical Mechanics*, Cambridge: Cambridge University Press.
+* Sutcliffe, B.T. and R.G. Woolley, 2012, “Atoms and Molecules in Classical Chemistry and Quantum Mechanics”, *Handbook of the Philosophy of Science, Vol 6: Philosophy of Chemistry*, R. Hendry, P. Needham, and A. Woody (eds.), Amsterdam: Elsevier, 387–426.
+* Todd, Robert B., 1976, *Alexander of Aphrodisias on Stoic Physics*, Leiden: E. J. Brill.
+* van Brakel, Jaap, 1986, “The Chemistry of Substances and the Philosophy of Mass Terms”, *Synthese*, 69: 291–324.
+* –––, 1997, “Chemistry as the Science of the Transformation of Substances”, *Synthese*, 111: 253–82.
+* –––, 2000a, *Philosophy of Chemistry: Between the Manifest and the Scientific Image*, Leuven: Leuven University Press.
+* –––, 2000b, “The Nature of Chemical Substances”, in N. Bhushan and S. Rosenfeld (eds.), *Of Minds and Molecules*, Oxford: Oxford University Press, pp. 162–84.
+* Watson, James D., 1968, *The Double Helix: A Personal Account of the Discovery of the Structure of DNA*, New York: New American Library.
+* Weininger, Stephen J., 2014, “Reactivity and its Contexts”, in Ursula Klein and Carsten Reinhardt (eds.), *Objects of Chemical Inquiry*, Leiden: Brill, 203–36.
+* Weisberg, M., 2004, “Qualitative theory and chemical explanation”. *Philosophy of Science*, 71: 1071–1081.
+* –––, 2005, “Water is Not H2O,” *Philosophy of Chemistry: Synthesis of a New Discipline*, D. Baird, *et al*. (eds.), New York: Springer, 337–345.
+* –––, 2007a, “Who is a modeler?” *British Journal for Philosophy of Science*, 58: 207–233.
+* –––, 2007b, “Three Kinds of Idealization” *Journal of Philosophy*, 104 (12): 639–659.
+* –––, 2008, “Challenges to the Structural Conception of Bonding,” *Philosophy of Science*, 75: 932–946.
+* Weisheipl, James A., 1963, “The Concept of Matter in Fourteenth Century Science”, in Ernan McMullin (ed.), *The Concept of Matter in Greek and Medieval Philosophy*, Notre Dame: University of Notre Dame Press.
+* Wikforss, Åsa, 2010, “Are Natural Kind Terms Special?”, in H. Beebee and N. Sabbarton-Leary (eds.), *The Semantics and Metaphysics of Natural Kinds*, New York: Routledge, pp. 64–83.
+* Wood, R. and M. Weisberg, 2004, “Interpreting Aristotle on mixture: problems about elemental composition from Philoponus to Cooper”, *Studies in the History and Philosophy of Science*, 35: 681–706.
+* Woody, A.I., 2000, “Putting Quantum Mechanics to Work in Chemistry: The Power of Diagrammatic Representation”, *Philosophy of Science*, 67: S612–27.
+* –––, 2012, “Concept Amalgamation and Representation in Quantum Chemistry”, *Handbook of the Philosophy of Science* (Volume 6: Philosophy of Chemistry), R. Hendry, P. Needham, and A. Woody (eds.), Amsterdam: Elsevier, 427–66.
+* Woolley, R., 1978, “Must a Molecule Have a Shape?”, *Journal of the American Chemical Society*, 100: 1073–1078.
+* Zuo, J. M., M. Kim, M. O’Keeffe and J. C. H. Spence, 1999, “Direct Observation of *d*-orbital Holes and Cu-Cu Bonding in Cu2O”, *Nature*, 401 (6748): 4952.
 
 ## Academic Tools
 
@@ -631,6 +630,6 @@ Hoffmann 对水平和垂直解释的不同价值没有多少言论，但一个�
 The authors would like to thank Brad Berman, Mark Goodwin, Roald Hoffmann, Deena Skolnick Weisberg, and the Stanford Encyclopedia editors for extremely helpful comments and advice. Thanks also to Simon Garcia and Gabriel Merino for providing some of the figures.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Michael Weisberg](http://www.phil.upenn.edu/\~weisberg) <[_weisberg@phil.upenn.edu_](mailto:weisberg%40phil%2eupenn%2eedu)>\
-[Paul Needham](http://people.su.se/\~pneedham/PNEng.html) <[_paul.needham@philosophy.su.se_](mailto:paul%2eneedham%40philosophy%2esu%2ese)>\
-[Robin Hendry](http://www.dur.ac.uk/philosophy/staff/?id=513) <[_r.f.hendry@durham.ac.uk_](mailto:r%2ef%2ehendry%40durham%2eac%2euk)>
+[Michael Weisberg](http://www.phil.upenn.edu/\~weisberg) <[*weisberg@phil.upenn.edu*](mailto:weisberg%40phil%2eupenn%2eedu)>\
+[Paul Needham](http://people.su.se/\~pneedham/PNEng.html) <[*paul.needham@philosophy.su.se*](mailto:paul%2eneedham%40philosophy%2esu%2ese)>\
+[Robin Hendry](http://www.dur.ac.uk/philosophy/staff/?id=513) <[*r.f.hendry@durham.ac.uk*](mailto:r%2ef%2ehendry%40durham%2eac%2euk)>

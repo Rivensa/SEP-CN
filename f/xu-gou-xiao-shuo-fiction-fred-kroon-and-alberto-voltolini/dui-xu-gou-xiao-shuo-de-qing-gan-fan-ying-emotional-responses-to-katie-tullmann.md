@@ -12,8 +12,6 @@
 
 进一步阅读：Carroll 2011; Currie 1995; Gendler & Kovakovich 2006; Tullmann & Buckwalter 2014; Walton 1978 & 1990.
 
- 
-
 ---
 
 ## 虚构小说的情感心理学
@@ -118,7 +116,7 @@ DAV 的主要理论支持源自对心理态度本质的民间心理学和功能�
 
 进一步阅读：Buckwalter & Tullmann 2017; Langland-Hassan 2020; Cova & Teroni 2016.
 
-### 情感反应是非理性的。
+### 情感反应是非理性的
 
 对这个悖论的一种解释是，我们对虚构实体的反应在根本上是不理性的。Colin Radford (1975) 接受（悖论的变体），认为我们对虚构的情感迫使读者采纳两种矛盾的信念：我们既相信又不相信我们情感的虚构对象存在。Radford 表示：
 

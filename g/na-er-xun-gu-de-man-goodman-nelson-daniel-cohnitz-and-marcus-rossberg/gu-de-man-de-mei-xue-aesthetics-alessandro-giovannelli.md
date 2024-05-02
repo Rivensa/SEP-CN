@@ -1,12 +1,10 @@
 # 古德曼的美学 aesthetics (Alessandro Giovannelli)
 
-_首次发布于2021年12月17日星期五_
+*首次发布于2021年12月17日星期五*
 
 成为终极的要素是成为所有可能存在的事物中最基本的真实、有价值或令人满足的。在西方，宗教哲学一直认为上帝是终极的。在过去的一个世纪里，这一领域越来越意识到，在世界各种宗教、哲学和准宗教哲学中，终极性是以不同的概念来把握的——因此不仅仅是“上帝”，还有“梵”、“道”等等。此外，人们试图以不同方式概念化每一个终极，跨越文化和时代，因此有许多梵的模型，许多上帝的模型，许多道的模型，等等；也许甚至有一个模型是对每个认真思考过终极问题的人来说最终的。本条目提供了一个框架，用于理解上帝和其他终极模型的广阔景观，然后概述了一些主要景点。熟悉这一景观可以澄清决定是否存在任何终极事物等问题的漫长旅程，以及其他好处。
 
 第 1 节定义了“终极”和“终极模型”，讨论了对建模终极事物项目感兴趣的原因，或者认为这样做是徒劳的原因，并解释了帮助组织模型领域的主要类别。第 2 节使用这些类别来介绍二十多个梵、上帝和道的模型，既是为了它们本身，也是作为进入这一景观的入口（这些模型按照它们出现的顺序编号，以帮助读者发现它们，并通过示例展示模型是什么）。第 3 节讨论了一旦这些模型并置时的重要性。
-
- 
 
 ***
 
@@ -22,7 +20,7 @@ _首次发布于2021年12月17日星期五_
 
 > 其他理论家探讨了可能详细说明或补充 Berthrong 名单的因素，例如贸易和征服（Gayatriprana 2020）、共享的人类进化生物学（Wildman 2017）以及道德发展的演变（Wright 2010）。\[4] 然而，大多数人认为第二个关于文化熏陶的担忧是确凿的，因此会减弱乐观情绪：在达成全球终极观念时，既有共同的人性，也有真正的文化差异需要拥有。 Raimon Panikkar 说得很好：
 
-Other theorists explore factors that could detail or add to Berthrong’s list—e.g., trade and conquests (Gayatriprana 2020), shared human evolutionary biology (Wildman 2017), and the evolution of moral development (Wright 2010).\[[4](https://plato.stanford.edu/entries/god-ultimates/notes.html#note-4)] Still, most take the second concern about enculturation to stick and thus to temper the optimism: there is _both_ a shared humanity _and_ real cultural difference to own in reaching a global idea of ultimacy. Raimon Panikkar says it well:
+Other theorists explore factors that could detail or add to Berthrong’s list—e.g., trade and conquests (Gayatriprana 2020), shared human evolutionary biology (Wildman 2017), and the evolution of moral development (Wright 2010).\[[4](https://plato.stanford.edu/entries/god-ultimates/notes.html#note-4)] Still, most take the second concern about enculturation to stick and thus to temper the optimism: there is *both* a shared humanity *and* real cultural difference to own in reaching a global idea of ultimacy. Raimon Panikkar says it well:
 
 > 婆罗门显然不是亚伯拉罕传统中唯一真实且活着的上帝。也不能说上帝或者神是与婆罗门相同的。然而它们并非毫无关联。(Panikkar 1987 \[2005: 2254])
 
@@ -62,7 +60,7 @@ Schellenberg对于什么是终极的描述已经有些模糊：他建议不进�
 
 那最后的犹豫——“至少不是用言辞”——为通过宗教、神秘或灵性经验的具体方式留下了空间，这些经验在世界宗教传统中以及更普遍地被报道（无论这些经验是否真实发生，参见，例如，詹姆斯 1902 \[1961]）。尽管如此，上述综合论证及其背后的直觉代表了对用言辞建模终极事物的整个企业的巨大挑战。有些人选择在面对这些论点时保持沉默，因此可以理解但遗憾地“从对话中真正消失了”（Wildman 2013: 768，“遗憾”是因为他们被错过了）。那些继续交谈的人的一个主要策略是区分终极事物本身的本质，他们承认我们永远无法谈论或了解，以及它如何影响我们的经验，他们认为我们可以谈论和了解。因此，一些人区分，例如，绝对道与相对道（《道德经》第1章）；上帝本质与启示的上帝（艾哈德神学家，例如，第97篇布道；潘尼卡尔 1987 \[2005: 2254]）；物自体与现象实在（希克 1989）等等，并仅就后者进行讨论或提出知识主张（另见，例如，保罗·赫奇斯 2020 \[其他网络资源]）。
 
-有些人还声称通过将这些陈述限制在某些关于终极事物的类型的陈述中，来对其进行真实陈述。一种策略是讨论终极性如何与我们或自然（或非自然）世界的其他部分相关，而不是讨论它本身是如何的，即，讨论其外在与内在属性。例如， 纳尔逊·古德曼 建议使“终极性是 P”成为真实的一种方式是使 P 成为“行动属性”，即，“被描述者已经执行的行动，比如扎伊德做了这扇门…”（《困惑之导引》，I.52–3，添加了斜体），这种属性除了表明扎伊德具备做这扇门的能力外，并未透露出扎伊德的内在属性。终极性的类比是道生成的存在，再次表明道，无论是什么或不是什么，都能够并且已经生成了存在。关于终极性真实陈述的其他可能方式包括著名的否定途径（“上帝不是 P”，沙弗 2013: 783），卓越途径（“上帝比 P 更好”），类比之道（“上帝是完美的 P”，科普斯顿 1952: 351 关于阿奎那，例如，《神学大全》I，13 和《异教徒大全》I，30，另请参见肯尼迪 2013: 158–159），超越途径（“上帝超越 P 或非 P”，伪狄奥尼修斯，沙弗 2013: 786ff）以及——尽管这似乎只在理论上可行——模棱两可的断言（“上帝是 P _”，其中 P_是人类语言之外的谓词，沙弗 2013: 783）。然而，这一切真正允许我们在哲学上说、知道和做些什么呢？内维尔说比人们想象的要多：尽管无法言说性似乎阻止了形而上学，但实际上它告诉我们如何进行形而上学，例如，“_道…_ 主要通过否定和迂回来讨论”（2008: 43），或者通过其他方式。
+有些人还声称通过将这些陈述限制在某些关于终极事物的类型的陈述中，来对其进行真实陈述。一种策略是讨论终极性如何与我们或自然（或非自然）世界的其他部分相关，而不是讨论它本身是如何的，即，讨论其外在与内在属性。例如， 纳尔逊·古德曼 建议使“终极性是 P”成为真实的一种方式是使 P 成为“行动属性”，即，“被描述者已经执行的行动，比如扎伊德做了这扇门…”（《困惑之导引》，I.52–3，添加了斜体），这种属性除了表明扎伊德具备做这扇门的能力外，并未透露出扎伊德的内在属性。终极性的类比是道生成的存在，再次表明道，无论是什么或不是什么，都能够并且已经生成了存在。关于终极性真实陈述的其他可能方式包括著名的否定途径（“上帝不是 P”，沙弗 2013: 783），卓越途径（“上帝比 P 更好”），类比之道（“上帝是完美的 P”，科普斯顿 1952: 351 关于阿奎那，例如，《神学大全》I，13 和《异教徒大全》I，30，另请参见肯尼迪 2013: 158–159），超越途径（“上帝超越 P 或非 P”，伪狄奥尼修斯，沙弗 2013: 786ff）以及——尽管这似乎只在理论上可行——模棱两可的断言（“上帝是 P _”，其中 P_是人类语言之外的谓词，沙弗 2013: 783）。然而，这一切真正允许我们在哲学上说、知道和做些什么呢？内维尔说比人们想象的要多：尽管无法言说性似乎阻止了形而上学，但实际上它告诉我们如何进行形而上学，例如，“*道…* 主要通过否定和迂回来讨论”（2008: 43），或者通过其他方式。
 
 ### 1.5 终极性的哲学范畴
 
@@ -199,7 +197,7 @@ Vedanta 学派在神与宇宙之间的联系类型上存在分歧，这些分歧
 
 > 从仪式背景之外的实践者也尝试通过内在培养行为技能来回归，就像道在生成存在时所做的那样：以无为之道。米勒提醒我们，无为并不是一种松散的放手，而是一种特定的“精神技术”，在恰当的时机、恰当的地点非常温和地干预——正如内维尔所说，当在道的惰性力量中出现罕见的“自发性机会”时，以“微妙的无限小剂量”（米勒 2003 年：140；内维尔 2008 年：47-51）。安德森对这些努力的看法令人难忘：
 
-Practitioners outside of ritual contexts also try to return by inwardly cultivating the skill of acting as the Dao does when it generates being: with _wu wei_. Miller reminds us that _wu wei_ is not some loose form of letting go, but is rather a specific “spiritual technology” of intervening very gently at the right time, in the right place—as Neville says, with “a subtle infinitesimal dose” when there is a rare “opening for spontaneity \[in the otherwise hard-to-beat] inertial forces of the Dao” (Miller 2003: 140; Neville 2008: 47–51). Andersen’s take on these efforts is haunting:
+Practitioners outside of ritual contexts also try to return by inwardly cultivating the skill of acting as the Dao does when it generates being: with *wu wei*. Miller reminds us that *wu wei* is not some loose form of letting go, but is rather a specific “spiritual technology” of intervening very gently at the right time, in the right place—as Neville says, with “a subtle infinitesimal dose” when there is a rare “opening for spontaneity \[in the otherwise hard-to-beat] inertial forces of the Dao” (Miller 2003: 140; Neville 2008: 47–51). Andersen’s take on these efforts is haunting:
 
 > 一位精通道家学说的纳尔逊·古德曼居住在存在与虚无之间的空隙中。道家学说的根本真理就在这个空隙中，在道和其作为真实和实在的体现中。(2019: 130)
 
@@ -231,252 +229,252 @@ Practitioners outside of ritual contexts also try to return by inwardly cultivat
 
 #### A.1 Books
 
-* 1968a, _Languages of Art: An Approach to a Theory of Symbols_, Indianapolis: The Bobbs-Merrill Company.
-* 1972a, (with Perkins, David, and Howard Gardner), _Basic Abilities Required for Understanding and Creation in the Arts: Final Report_, Cambridge, Mass.: Harvard University, Graduate School of Education: Project No. 9–0283.
-* 1972b, _Problems and Projects_, Indianapolis: The Bobbs-Merrill Company.
-* 1976, _Languages of Art: An Approach to a Theory of Symbols_, 2nd edition, Indianapolis: Hackett Publishing Company.
-* 1978a, _Ways of Worldmaking_, Indianapolis: Hackett Publishing Company.
-* 1984, _Of Mind and Other Matters_, Cambridge, Mass.: Harvard University Press.
-* 1988, (with Catherine Z. Elgin), _Reconceptions in Philosophy and Other Arts and Sciences_, London: Routledge.
+* 1968a, *Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: The Bobbs-Merrill Company.
+* 1972a, (with Perkins, David, and Howard Gardner), *Basic Abilities Required for Understanding and Creation in the Arts: Final Report*, Cambridge, Mass.: Harvard University, Graduate School of Education: Project No. 9–0283.
+* 1972b, *Problems and Projects*, Indianapolis: The Bobbs-Merrill Company.
+* 1976, *Languages of Art: An Approach to a Theory of Symbols*, 2nd edition, Indianapolis: Hackett Publishing Company.
+* 1978a, *Ways of Worldmaking*, Indianapolis: Hackett Publishing Company.
+* 1984, *Of Mind and Other Matters*, Cambridge, Mass.: Harvard University Press.
+* 1988, (with Catherine Z. Elgin), *Reconceptions in Philosophy and Other Arts and Sciences*, London: Routledge.
 
 #### A.2 Articles
 
-* 1966, “Merit as Means,” in Sidney Hook (ed.), _Art and Philosophy,_ New York: New York University Press, reprinted in Goodman, 1972b.
-* 1968b, “Art and Inquiry” (Presidential Address), _Proceedings and Addresses of The American Philosophical Association_, Eastern Division, 41, Yellow Springs, OH: Antioch.
-* 1970a, “Some Notes on _Languages of Art_. Reply to Richard Wollheim,” _Journal of Philosophy_, 67, reprinted in Goodman, 1972b.
+* 1966, “Merit as Means,” in Sidney Hook (ed.), *Art and Philosophy,* New York: New York University Press, reprinted in Goodman, 1972b.
+* 1968b, “Art and Inquiry” (Presidential Address), *Proceedings and Addresses of The American Philosophical Association*, Eastern Division, 41, Yellow Springs, OH: Antioch.
+* 1970a, “Some Notes on *Languages of Art*. Reply to Richard Wollheim,” *Journal of Philosophy*, 67, reprinted in Goodman, 1972b.
 * 1970b, (with Howard Gardner), “The Randolph Museum Case,” prepared for the Institute in Arts Administration, Harvard University.
-* 1971, “On J. J. Gibson’s New Perspective,” _Leonardo_, 4.
-* 1972c, “Art and Understanding: The Need for a Less Simple-Minded Approach,” _Music Educators Journal_ 58.
-* 1974a, “On Reconceiving Cognition,” _The Monist_ (Supplement), 58.
-* 1974b, “On Some Questions Concerning Quotation,” _The Monist_, 58.
-* 1975a, “A Message from Mars,” _The Arts Spectrum_, Office of the Arts, Harvard University, 2.
-* 1975b, “The Status of Style,” _Critical Inquiry_, 1.
-* 1975c, “Words, Works, Worlds,” _Erkenntnis_, 9, reprinted in Goodman, 1978a.
-* 1977, “When Is Art?” In Perkins, David, and Barbara Leondar (eds.), _The Arts and Cognition_, Baltimore: Johns Hopkins University Press.
-* 1978b, “Comments on Wollheim’s Paper: ‘Are the Criteria of Identity that Hold for a Work of Art in the Different Arts Aesthetically Relevant?’” _Ratio_, 20.
-* 1978c, “Reply to Beardsley,” _Erkenntnis_, 12, reprinted in Goodman, 1984.
-* 1978d, “Reply to Eberle,” _Erkenntnis_, 12, reprinted in Goodman, 1984.
-* 1978e, “Reply to Kjørup,” _Erkenntnis_, 12, reprinted in Goodman, 1984.
-* 1978f, “Reply to Robinson,” _Erkenntnis_, 12, reprinted in Goodman, 1984.
-* 1978g, “Reply to Rudner,” _Erkenntnis_, 12, reprinted in Goodman, 1984.
+* 1971, “On J. J. Gibson’s New Perspective,” *Leonardo*, 4.
+* 1972c, “Art and Understanding: The Need for a Less Simple-Minded Approach,” *Music Educators Journal* 58.
+* 1974a, “On Reconceiving Cognition,” *The Monist* (Supplement), 58.
+* 1974b, “On Some Questions Concerning Quotation,” *The Monist*, 58.
+* 1975a, “A Message from Mars,” *The Arts Spectrum*, Office of the Arts, Harvard University, 2.
+* 1975b, “The Status of Style,” *Critical Inquiry*, 1.
+* 1975c, “Words, Works, Worlds,” *Erkenntnis*, 9, reprinted in Goodman, 1978a.
+* 1977, “When Is Art?” In Perkins, David, and Barbara Leondar (eds.), *The Arts and Cognition*, Baltimore: Johns Hopkins University Press.
+* 1978b, “Comments on Wollheim’s Paper: ‘Are the Criteria of Identity that Hold for a Work of Art in the Different Arts Aesthetically Relevant?’” *Ratio*, 20.
+* 1978c, “Reply to Beardsley,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+* 1978d, “Reply to Eberle,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+* 1978e, “Reply to Kjørup,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+* 1978f, “Reply to Robinson,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
+* 1978g, “Reply to Rudner,” *Erkenntnis*, 12, reprinted in Goodman, 1984.
 * 1978h, “Stories upon Stories; or, Reality in Tiers,” originally presented at the Conference on Levels of Reality, Florence, reprinted in Goodman, 1984.
-* 1979a, “J. J. Gibson’s Approach to the Visual Perception of Pictures,” _Leonardo_, 12.
-* 1979b, “Metaphor as Moonlighting,” _Critical Inquiry_, 6, reprinted in Goodman, 1984.
-* 1980, “Twisted Tales—or, Story, Study, and Symphony,” _Critical Inquiry_, 7.
+* 1979a, “J. J. Gibson’s Approach to the Visual Perception of Pictures,” *Leonardo*, 12.
+* 1979b, “Metaphor as Moonlighting,” *Critical Inquiry*, 6, reprinted in Goodman, 1984.
+* 1980, “Twisted Tales—or, Story, Study, and Symphony,” *Critical Inquiry*, 7.
 * 1981a, “Routes of Reference”, Critical Inquiry, 8, reprinted in Goodman, 1984.
-* 1981b, “Perspective as a Convention—on the Views of Goodman and Gombrich,” _Leonardo_, 14.
-* 1981c, “Routes of Reference.” _Critical Inquiry_, 8, reprinted in Goodman, 1984.
-* 1981d, “The Telling and the Told,” _Critical Inquiry_, 7.
-* 1981e, “Ways of Worldmaking,” _Leonardo_, 14.
-* 1982a, “Fiction for Five Fingers,” _Philosophy and Literature_, 6, reprinted in Goodman, 1984.
-* 1982b, “Implementation of the Arts,” _Journal of Aesthetics and Art Criticism_, 40.
-* 1983a, “Afterword: An Illustration,” in Copeland, Roger, and Marshall Cohen (eds.), _What Is Dance?_ Oxford: Oxford University Press.
-* 1983b, “Modes of Symbolization,” in Copeland, Roger, and Marshall Cohen (eds.), _What Is Dance?_ Oxford: Oxford University Press.
-* 1983c, “Realism, Relativism, and Reality,” _New Literary History_, 14.
-* 1983d, (with Menachem Brinker), “Representation and Realism in Art,” printed in Hebrew as “Yitzog v’ realizem b’omanut,” _Iyyun_, 32.
-* 1983e, “The Role of Notations,” in Copeland, Roger, and Marshall Cohen (eds.), _What Is Dance?_ Oxford: Oxford University Press.
-* 1985a, “How Buildings Mean,” _Critical Inquiry_, 11, reprinted in Goodman, Elgin, 1988.
-* 1985b, “Statements and Pictures,” _Erkenntnis_ 22.
-* 1985c, “The End of the Museum?” _Journal of Aesthetic Education_, 19.
-* 1986a, “A Note on Copies,” _Journal of Aesthetics and Art Criticism_, 44, pp. 291–292.
-* 1986b, (with Catherine Z. Elgin), “Interpretation and Identity—Can the Work Survive the World?” _Critical Inquiry_, 12.
-* 1986c, “The Nature and Function of Architecture,” _Domus_, 672.
-* 1987a, with Catherine Z. Elgin, “Changing the Subject,” _Journal of Aesthetics and Art Criticism_, 46, reprinted with modifications in Shusterman, Richard (ed.), _Analytic Aesthetics_, Oxford: Blackwell, 1989.
-* 1987b, “Variations on Variation—or Picasso Back to Bach,” _Acta Philosophica Fennica_, 43.
-* 1988, “Aims and Claims,” _Journal of Aesthetic Education_, 22.
-* 1988, “On What Should Not Be Said about Representation,” _Journal of Aesthetics and Art Criticism_ 46.
-* 1991a, “On Capturing Cities,” _Journal of Aesthetic Education_, 25.
-* 1991b, “Retrospections,” _Journal of Aesthetic Education_, 25.
-* 1992, “Contraverting a Contradiction, A Note On Metaphor And Simile, Reply To Kulka, Tomas,” _Poetics Today_, 13.
-* 1994, (with T. Kulka), “How Metaphor Works its Wonders,” in Czech, _Filosoficky Casopis_, 42.
-* 1996, “Authenticity,” in Turner, Jane Shoaf (ed.), _The Grover Dictionary of Art_, Oxford: Oxford University Press.
-* 1997, “Some Reflections on My Philosophies,” _Philosophia Scientiae_, 2.
+* 1981b, “Perspective as a Convention—on the Views of Goodman and Gombrich,” *Leonardo*, 14.
+* 1981c, “Routes of Reference.” *Critical Inquiry*, 8, reprinted in Goodman, 1984.
+* 1981d, “The Telling and the Told,” *Critical Inquiry*, 7.
+* 1981e, “Ways of Worldmaking,” *Leonardo*, 14.
+* 1982a, “Fiction for Five Fingers,” *Philosophy and Literature*, 6, reprinted in Goodman, 1984.
+* 1982b, “Implementation of the Arts,” *Journal of Aesthetics and Art Criticism*, 40.
+* 1983a, “Afterword: An Illustration,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
+* 1983b, “Modes of Symbolization,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
+* 1983c, “Realism, Relativism, and Reality,” *New Literary History*, 14.
+* 1983d, (with Menachem Brinker), “Representation and Realism in Art,” printed in Hebrew as “Yitzog v’ realizem b’omanut,” *Iyyun*, 32.
+* 1983e, “The Role of Notations,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
+* 1985a, “How Buildings Mean,” *Critical Inquiry*, 11, reprinted in Goodman, Elgin, 1988.
+* 1985b, “Statements and Pictures,” *Erkenntnis* 22.
+* 1985c, “The End of the Museum?” *Journal of Aesthetic Education*, 19.
+* 1986a, “A Note on Copies,” *Journal of Aesthetics and Art Criticism*, 44, pp. 291–292.
+* 1986b, (with Catherine Z. Elgin), “Interpretation and Identity—Can the Work Survive the World?” *Critical Inquiry*, 12.
+* 1986c, “The Nature and Function of Architecture,” *Domus*, 672.
+* 1987a, with Catherine Z. Elgin, “Changing the Subject,” *Journal of Aesthetics and Art Criticism*, 46, reprinted with modifications in Shusterman, Richard (ed.), *Analytic Aesthetics*, Oxford: Blackwell, 1989.
+* 1987b, “Variations on Variation—or Picasso Back to Bach,” *Acta Philosophica Fennica*, 43.
+* 1988, “Aims and Claims,” *Journal of Aesthetic Education*, 22.
+* 1988, “On What Should Not Be Said about Representation,” *Journal of Aesthetics and Art Criticism* 46.
+* 1991a, “On Capturing Cities,” *Journal of Aesthetic Education*, 25.
+* 1991b, “Retrospections,” *Journal of Aesthetic Education*, 25.
+* 1992, “Contraverting a Contradiction, A Note On Metaphor And Simile, Reply To Kulka, Tomas,” *Poetics Today*, 13.
+* 1994, (with T. Kulka), “How Metaphor Works its Wonders,” in Czech, *Filosoficky Casopis*, 42.
+* 1996, “Authenticity,” in Turner, Jane Shoaf (ed.), *The Grover Dictionary of Art*, Oxford: Oxford University Press.
+* 1997, “Some Reflections on My Philosophies,” *Philosophia Scientiae*, 2.
 
 #### A.3 Multimedia Works
 
-* 1972, _Hockey Seen: A Nightmare in Three Periods and Sudden Death_, first performed in Cambridge, Mass. Drawings by Katharine Sturgis; author and producer, Nelson Goodman; choreographer, Martha Gray; composer, John C. Adams.
-* 1973, _Rabbit, Run_, dance version of John Updike’s novel, first performed at the Agassiz Theatre, Harvard University. Author and producer, Nelson Goodman; choreographer, Martha Gray; composer, Joel Kabakov.
-* 1985d, _Variations: An Illustrated Lecture Concert_, including live or taped performance of David Alpher’s “Las Meninas” Theme and Variations for piano, guitar, oboe, and cello, synchronized with presentation of slides of Las Meninas by Velazquez and of Picasso’s painted variations on it, first performed at the University of Helsinki. Conceptual design by Nelson Goodman.
+* 1972, *Hockey Seen: A Nightmare in Three Periods and Sudden Death*, first performed in Cambridge, Mass. Drawings by Katharine Sturgis; author and producer, Nelson Goodman; choreographer, Martha Gray; composer, John C. Adams.
+* 1973, *Rabbit, Run*, dance version of John Updike’s novel, first performed at the Agassiz Theatre, Harvard University. Author and producer, Nelson Goodman; choreographer, Martha Gray; composer, Joel Kabakov.
+* 1985d, *Variations: An Illustrated Lecture Concert*, including live or taped performance of David Alpher’s “Las Meninas” Theme and Variations for piano, guitar, oboe, and cello, synchronized with presentation of slides of Las Meninas by Velazquez and of Picasso’s painted variations on it, first performed at the University of Helsinki. Conceptual design by Nelson Goodman.
 
 ### B. Secondary Works
 
 #### B.1 References
 
-* Black, Max, 1954, “Metaphor,” _Proceedings of the Aristotelian Society_, 55, pp. 273–294.
-* Borges, Jorge, 1962, “Pierre Menard, Author of the _Quixote_,” _Labyrinths_, New York: New Directions, pp. 36–44.
-* Budd, Malcolm, 1993, “How Pictures Look.” In Knowles, Dudley, and John Skorupski (eds.), _Virtue and Taste_, Cambridge: Blackwell.
-* Currie, Gregory, 1989, _An Ontology of Art_, New York: Saint Martin’s Press.
-* Dodd, Julian, 2013, “Adventures in the Metaontology of Art: Local Descriptivism, Artefacts and Dreamcatchers,” _Philosophical Studies_, 165: 1047–68.
-* Dutton, Denis, 1983, _The Forger’s Art_, Berkeley, Calif.: University of California Press.
-* Giovannelli, Alessandro, 1997, “Pictures and Reference in Nelson Goodman,” (in Italian), _Annali del Dipartimento di Filosofia di Firenze_, 1996-1997, pp. 91–131.
-* Gombrich, Ernst, 1960, _Art and Illusion_, London: Phaidon Press.
-* Goodman, Nelson, 1941, _A Study of Qualities_, Ph.D. Dissertation, Harvard University; in book form, New York: Garland (Harvard Dissertations in Philosophy Series, 1990).
-* –––, 1951, _The Structure of Appearance_, Cambridge, Mass.: Harvard University Press (3rd edition), Boston: Reidel, 1977.
-* –––, 1954, _Fact, Fiction, and Forecast_, University of London: Athlone Press. 4th ed. Cambridge, MA: Harvard University Press, 1983.
-* Levinson, Jerrold, 1980. “Autographic and Allographic Art Revisited,” _Philosophical Studies_, 38: 367–84.
-* Pillow, Kirk, 2003. “Did Goodman’s Distinction Survive LeWitt?” _Journal of Aesthetics and Art Criticism_, 61, pp. 365–80.
-* Ridley, Aaron, 2013, “Brilliant Performances,” _Royal Institute of Philosophy Supplement_, 71: 209–27.
-* Robinson, Jenefer, 2000, “_Languages of Art_ at the Turn of the Century,” _Journal of Aesthetics and Art Criticism_, 58, pp. 213–218.
-* Walton, Kendall, 1990, _Mimesis as Make-Believe_, Cambridge, Mass.: Harvard University Press.
-* Wollheim, Richard, 1968, _Art and Its Objects: An Introduction to Aesthetics_, New York: Harper and Row (2nd edition), Cambridge: Cambridge University Press, 1980.
-* Wollheim, Richard, 1987, _Painting as an Art_, London: Thames and Hudson.
+* Black, Max, 1954, “Metaphor,” *Proceedings of the Aristotelian Society*, 55, pp. 273–294.
+* Borges, Jorge, 1962, “Pierre Menard, Author of the *Quixote*,” *Labyrinths*, New York: New Directions, pp. 36–44.
+* Budd, Malcolm, 1993, “How Pictures Look.” In Knowles, Dudley, and John Skorupski (eds.), *Virtue and Taste*, Cambridge: Blackwell.
+* Currie, Gregory, 1989, *An Ontology of Art*, New York: Saint Martin’s Press.
+* Dodd, Julian, 2013, “Adventures in the Metaontology of Art: Local Descriptivism, Artefacts and Dreamcatchers,” *Philosophical Studies*, 165: 1047–68.
+* Dutton, Denis, 1983, *The Forger’s Art*, Berkeley, Calif.: University of California Press.
+* Giovannelli, Alessandro, 1997, “Pictures and Reference in Nelson Goodman,” (in Italian), *Annali del Dipartimento di Filosofia di Firenze*, 1996-1997, pp. 91–131.
+* Gombrich, Ernst, 1960, *Art and Illusion*, London: Phaidon Press.
+* Goodman, Nelson, 1941, *A Study of Qualities*, Ph.D. Dissertation, Harvard University; in book form, New York: Garland (Harvard Dissertations in Philosophy Series, 1990).
+* –––, 1951, *The Structure of Appearance*, Cambridge, Mass.: Harvard University Press (3rd edition), Boston: Reidel, 1977.
+* –––, 1954, *Fact, Fiction, and Forecast*, University of London: Athlone Press. 4th ed. Cambridge, MA: Harvard University Press, 1983.
+* Levinson, Jerrold, 1980. “Autographic and Allographic Art Revisited,” *Philosophical Studies*, 38: 367–84.
+* Pillow, Kirk, 2003. “Did Goodman’s Distinction Survive LeWitt?” *Journal of Aesthetics and Art Criticism*, 61, pp. 365–80.
+* Ridley, Aaron, 2013, “Brilliant Performances,” *Royal Institute of Philosophy Supplement*, 71: 209–27.
+* Robinson, Jenefer, 2000, “*Languages of Art* at the Turn of the Century,” *Journal of Aesthetics and Art Criticism*, 58, pp. 213–218.
+* Walton, Kendall, 1990, *Mimesis as Make-Believe*, Cambridge, Mass.: Harvard University Press.
+* Wollheim, Richard, 1968, *Art and Its Objects: An Introduction to Aesthetics*, New York: Harper and Row (2nd edition), Cambridge: Cambridge University Press, 1980.
+* Wollheim, Richard, 1987, *Painting as an Art*, London: Thames and Hudson.
 
 #### B.2 Festschrifts and Symposia
 
-* _The Monist_, Special issue dedicated to _Languages of Art_, 1974, 58. Includes: Margolis, Joseph, “Art as Language”; Sparshot, F. E., “Goodman on Expression”; Tormey, Alan, “Indeterminacy and of Identity in Art”; Kjørup, Søren. “George Inness and the Battle of Hastings, or Doing Things with Pictures”; Walton, Kendall L., “Are Representations Symbols?”; Bennett, John G., “Depiction and Convention”; Carrier, David, “A Reading of Goodman on Representation”; Ross, Stephanie, “Caricature”; Goodman, Nelson. “On Some Questions Concerning Quotation.” 294–306; Howard, V. A., “On Musical Quotation.”
-* _The Monist_, Supplement, Symposium on Skills and Symbols, 1974, 58. Includes: Gardner, Howard, “A Psychological Investigation of Nelson Goodman’s Theory of Symbols”; Wartowsky, Marx W., “Art, Action and Ambiguity”; Goodman, Nelson, “On Reconceiving Cognition.”
-* _Erkenntnis_, Special issue dedicated to The Philosophy of Nelson Goodman, 1978, 12. Includes: Eberle, Rolf A., “Goodman on Likeness and Difference of Meaning”; Wartowsky, Marx W., “Rules and Representation: The Virtues of Constancy and Fidelity Put in Perspective”; Robinson, Jenefer. “Two Theories of Representation”; Kjørup, Søren, “Pictorial Speech Acts”; Howard, V. A., “Music and Constant Comment”; Sagoff, Mark, “Historical Authenticity”; Beardsley, Monroe C., “_Languages of Art_ and Art Criticism”; Morawski, Stefan, “Three Observations on _Languages of Art_”; Rudner, Richard S., “Show or Tell: Incoherence among Symbol Systems”; Goodman, Nelson, “Replies”.
-* _The Journal of Aesthetics and Art Criticism_, Symposium: Aesthetics and Worldmaking: An Exchange with Nelson Goodman, 1981, 39. Includes: Ackerman, James S., “Worldmaking and Practical Criticism”; Kulenkampff, Jens, “Music Considered as a Way of Worldmaking”; Martin, Richard, “On Some Aesthetic Relations”; Nagel, Alan F., “‘Or as a Blanket’ Some Comments and Questions on Exemplification”; Margolis, Joseph, “What is When? When is What? Two Questions for Nelson Goodman”; Silvers, Anita, “The Secret of Style”; Hernadi, Paul.“More Questions Concerning Quotations”; Goodman, Nelson, “Replies.”
-* _Journal of Aesthetic Education_, Symposium on More Ways of Worldmaking, 1991, 25. Includes: Hernadi, Paul, “More Ways of Worldmaking”; Goodman, Nelson, “On Capturing Cities”; Elgin, Catherine Z., “Sign, Symbol and System”; Mitchell, W.J.T., “Realism, Irrealism and Ideology—A Critique of Nelson Goodman”; Wollheim, Richard, “The Core of Aesthetics”; Hernadi, Paul, “Reconceiving Notation and Performance”; Ullian, J. S. “Truth”; Bruner, Jerome, “Self-Making and World-Making”; Hawley, A., “A Venerable Museum Faces the Future—Guided Tour Through the Gardner and its Director’s Mind”; Elgin, Catherine Z., “What Goodman Leaves Out”; Goodman, Nelson, “Retrospections”; Berka, Sigrid, “An International Bibliography of Works by and Selected Works about Nelson Goodman.”
-* _The Journal of Aesthetics and Art Criticism_, Symposium: The Legacy of Nelson Goodman, 2000, 58. Includes: Carter, Curtis, “Nelson Goodman: Obituary”; Robinson, Jenefer, “_Languages of Art_ at the End of the Century”; Elgin, Catherine Z., “Reorienting Aesthetics, Reconceiving Cognition”; Lopes, Dominic McIver, “From _Languages of_ Art to Art in Mind”; Cometti, Jean-Pierre, “Activating Art: A View from France”; Kivy, Peter, “How to Forge a Musical Work”; Gardner, Howard, “Project Zero: Nelson Goodman’s Legacy in Arts Education.”
+* *The Monist*, Special issue dedicated to *Languages of Art*, 1974, 58. Includes: Margolis, Joseph, “Art as Language”; Sparshot, F. E., “Goodman on Expression”; Tormey, Alan, “Indeterminacy and of Identity in Art”; Kjørup, Søren. “George Inness and the Battle of Hastings, or Doing Things with Pictures”; Walton, Kendall L., “Are Representations Symbols?”; Bennett, John G., “Depiction and Convention”; Carrier, David, “A Reading of Goodman on Representation”; Ross, Stephanie, “Caricature”; Goodman, Nelson. “On Some Questions Concerning Quotation.” 294–306; Howard, V. A., “On Musical Quotation.”
+* *The Monist*, Supplement, Symposium on Skills and Symbols, 1974, 58. Includes: Gardner, Howard, “A Psychological Investigation of Nelson Goodman’s Theory of Symbols”; Wartowsky, Marx W., “Art, Action and Ambiguity”; Goodman, Nelson, “On Reconceiving Cognition.”
+* *Erkenntnis*, Special issue dedicated to The Philosophy of Nelson Goodman, 1978, 12. Includes: Eberle, Rolf A., “Goodman on Likeness and Difference of Meaning”; Wartowsky, Marx W., “Rules and Representation: The Virtues of Constancy and Fidelity Put in Perspective”; Robinson, Jenefer. “Two Theories of Representation”; Kjørup, Søren, “Pictorial Speech Acts”; Howard, V. A., “Music and Constant Comment”; Sagoff, Mark, “Historical Authenticity”; Beardsley, Monroe C., “*Languages of Art* and Art Criticism”; Morawski, Stefan, “Three Observations on *Languages of Art*”; Rudner, Richard S., “Show or Tell: Incoherence among Symbol Systems”; Goodman, Nelson, “Replies”.
+* *The Journal of Aesthetics and Art Criticism*, Symposium: Aesthetics and Worldmaking: An Exchange with Nelson Goodman, 1981, 39. Includes: Ackerman, James S., “Worldmaking and Practical Criticism”; Kulenkampff, Jens, “Music Considered as a Way of Worldmaking”; Martin, Richard, “On Some Aesthetic Relations”; Nagel, Alan F., “‘Or as a Blanket’ Some Comments and Questions on Exemplification”; Margolis, Joseph, “What is When? When is What? Two Questions for Nelson Goodman”; Silvers, Anita, “The Secret of Style”; Hernadi, Paul.“More Questions Concerning Quotations”; Goodman, Nelson, “Replies.”
+* *Journal of Aesthetic Education*, Symposium on More Ways of Worldmaking, 1991, 25. Includes: Hernadi, Paul, “More Ways of Worldmaking”; Goodman, Nelson, “On Capturing Cities”; Elgin, Catherine Z., “Sign, Symbol and System”; Mitchell, W.J.T., “Realism, Irrealism and Ideology—A Critique of Nelson Goodman”; Wollheim, Richard, “The Core of Aesthetics”; Hernadi, Paul, “Reconceiving Notation and Performance”; Ullian, J. S. “Truth”; Bruner, Jerome, “Self-Making and World-Making”; Hawley, A., “A Venerable Museum Faces the Future—Guided Tour Through the Gardner and its Director’s Mind”; Elgin, Catherine Z., “What Goodman Leaves Out”; Goodman, Nelson, “Retrospections”; Berka, Sigrid, “An International Bibliography of Works by and Selected Works about Nelson Goodman.”
+* *The Journal of Aesthetics and Art Criticism*, Symposium: The Legacy of Nelson Goodman, 2000, 58. Includes: Carter, Curtis, “Nelson Goodman: Obituary”; Robinson, Jenefer, “*Languages of Art* at the End of the Century”; Elgin, Catherine Z., “Reorienting Aesthetics, Reconceiving Cognition”; Lopes, Dominic McIver, “From *Languages of* Art to Art in Mind”; Cometti, Jean-Pierre, “Activating Art: A View from France”; Kivy, Peter, “How to Forge a Musical Work”; Gardner, Howard, “Project Zero: Nelson Goodman’s Legacy in Arts Education.”
 
 #### B.3 Books
 
-* Cohnitz, Daniel, and Rossberg, Marcus, 2006, _Nelson Goodman_, Montreal: McGill-Queen’s University Press.
-* Douglas, Mary, and David Hull, 1992, _How classification works: Nelson Goodman among the social sciences_, Edinburgh: Edinburgh University Press.
-* Elgin, Catherine, 1983, _With Reference to Reference_, Indianapolis: Hackett.
-* Elgin, Catherine, 1997, _Nelson Goodman’s Philosophy of Art_ (_The Philosophy of Nelson Goodman: Selected Series_ series). New York: Garland Publishing.
-* Ernst, Gerhard, Steinbrenner, Jakob, and Scholz, Oliver (eds.), 2009, _From Logic to Art: Themes from Nelson Goodman_, Philosophical Research (Philosophische Forschung), Vol. 7, Frankfurt: Ontos Verlag.
-* Morizot, Jacques, 1996, _La philosophie de l’art de Nelson Goodman_, Nîmes: Éd. J. Chambon.
-* Paetzold, Heinz, 1997, _The Symbolic Language of Culture, Fine arts, and Architecture: Consequences of Cassirer and Goodman: Three Trondheim Lectures_, Trondheim: FF Edition.
-* Reimer, B., and J. E. Wright (eds.), 1992, _On the Nature of Musical Experience_, Niwot, Co.: University Press of Colorado.
-* Rudner, Richard, and Israel Scheffler (eds.), 1972, _Logic and Art: Essays in Honor of Nelson Goodman_, Indianapolis: Bobbs-Merrill Company.
-* Shottenkirk, Dena, 2009, _Nominalism and Its Aftermath: The Philosophy of Nelson Goodman_, (Synthese Library), New York: Springer.
+* Cohnitz, Daniel, and Rossberg, Marcus, 2006, *Nelson Goodman*, Montreal: McGill-Queen’s University Press.
+* Douglas, Mary, and David Hull, 1992, *How classification works: Nelson Goodman among the social sciences*, Edinburgh: Edinburgh University Press.
+* Elgin, Catherine, 1983, *With Reference to Reference*, Indianapolis: Hackett.
+* Elgin, Catherine, 1997, *Nelson Goodman’s Philosophy of Art* (*The Philosophy of Nelson Goodman: Selected Series* series). New York: Garland Publishing.
+* Ernst, Gerhard, Steinbrenner, Jakob, and Scholz, Oliver (eds.), 2009, *From Logic to Art: Themes from Nelson Goodman*, Philosophical Research (Philosophische Forschung), Vol. 7, Frankfurt: Ontos Verlag.
+* Morizot, Jacques, 1996, *La philosophie de l’art de Nelson Goodman*, Nîmes: Éd. J. Chambon.
+* Paetzold, Heinz, 1997, *The Symbolic Language of Culture, Fine arts, and Architecture: Consequences of Cassirer and Goodman: Three Trondheim Lectures*, Trondheim: FF Edition.
+* Reimer, B., and J. E. Wright (eds.), 1992, *On the Nature of Musical Experience*, Niwot, Co.: University Press of Colorado.
+* Rudner, Richard, and Israel Scheffler (eds.), 1972, *Logic and Art: Essays in Honor of Nelson Goodman*, Indianapolis: Bobbs-Merrill Company.
+* Shottenkirk, Dena, 2009, *Nominalism and Its Aftermath: The Philosophy of Nelson Goodman*, (Synthese Library), New York: Springer.
 
 #### B.4 Articles and Book Chapters
 
-* Ackerman, James, 1981. “Worldmaking and Practical Criticism,” _Journal of Aesthetics and Art Criticism_, 39: 249–54.
-* Arrell, Douglas, 1990. “Exemplification Reconsidered,” _British Journal of Aesthetics_, 30: 233–43.
-* –––, 1987. “What Goodman Should Have Said About Representation,” _Journal of Aesthetics and Art Criticism_, 46: 41–9.
-* Bach, Kent, 1970. “Part of What a Picture Is,” _British Journal of Aesthetics_, 10: 119–37.
-* Beardsley, Monroe, 1978. “_Languages of Art_ and Art Criticism,” _Erkenntnis: An International Journal of Analytic Philosophy_, 12: 95–118.
-* –––, 1973. “Semiotic Aesthetics and Aesthetic Education,” _Philosophic Exchange: Annual Proceedings_, 1: 155–71.
-* –––, 1973. “What Is an Aesthetic Quality?” _Theoria: A Swedish Journal of Philosophy_, 39: 50–70.
-* Bender, John, 1996. “Realism, Supervenience, and Irresolvable Aesthetic Disputes,” _Journal of Aesthetics and Art Criticism_, 54: 371–81.
-* Bennett, John, 1974. “Depiction and Convention,” _Monist: An International Quarterly Journal of General Philosophical Inquiry_, 58: 255–68.
-* Blumson, Ben, 2008. “Depiction and Convention,” _Dialectica: International Journal of Philosophy of Knowledge_, 62: 335–48.
-* Boretz, Benjamin, 1970. “Nelson Goodman’s Languages of Art from a Musical Point of View,” _Journal of Philosophy_, 67: 540–52.
-* Brown, Lee, 1980. “Philosophy, Rhetoric, and Style,” _Monist: An International Quarterly Journal of General Philosophical Inquiry_, 63: 425–44.
-* –––, 1996. “Musical Works, Improvisation, and the Principle of Continuity,” _Journal of Aesthetics and Art Criticism_, 54: 353–69.
-* Bruner, Jerome, 1991. “Self-Making and World-Making,” _Journal of Aesthetic Education_: 67–78.
-* Bull, Malcolm, 1994. “Scheming Schemata,” _British Journal of Aesthetics_, 34: 207–17.
-* Campbell, Keith, 1994. “Nelson Goodman’s Assimilation of Literary and Scientific Knowledge,” _Literature and Aesthetics: The Journal of the Sydney Society of Literature and Aesthetics_, 4: 7–15.
-* Cantrick, Robert, 1993. “Is the Constructionalist Program Still Relevant?” _Journal of Aesthetics and Art Criticism_, 51: 71–2.
-* Capdevila-Werning, Remei, 2011. “Can Buildings Quote?,” _Journal of Aesthetics and Art Criticism_, 69: 115–24.
-* Carrier, David, 1982. “Art Without Its Artists?” _British Journal of Aesthetics_, 22: 233–44.
-* –––, 1974. “A Reading of Goodman on Representation,” _Monist: An International Quarterly Journal of General Philosophical Inquiry_, 58: 269–84.
-* Carter, Curtis, 2000. “A Tribute to Nelson Goodman,” _Journal of Aesthetics and Art Criticism_, 58: 251–3.
-* Charlton, William, 1979. “The Art of Apelles,” _Aristotelian Society: Supplementary Volume_, Suppl. 53: 167–186.
-* Chasid, Alon, 2004. “Why the Pictorial Relation Is Not Reference,” _British Journal of Aesthetics_, 44: 226–47.
-* Cohen, Ted, 1981. “The Facts of Narrative: A Response to Nelson Goodman,” _Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science_, 46: 351–4.
-* Coldron, John, 1982. “Peltz on Goodman on Exemplification,” _Journal of Aesthetic Education_, 16: 87–94.
-* Cometti, Jean-Pierre, 2000. “Activating Art,” _Journal of Aesthetics and Art Criticism_, 58: 237–43.
-* Cooper Wengrowicz, Monica, 2002. “Poetry and Scientific Exposition: An analysis of Two Forms of Symbolic Representation,” _Journal of Aesthetic Education_, 36: 86–99.
-* Davies, David, 1996. “Interpretive Pluralism and the Ontology of Art,” _Revue Internationale De Philosophie_, 50: 577–92.
-* –––, 1991. “Works, Texts, and Contexts: Goodman on the Literary Artwork,” _Canadian Journal of Philosophy_, 21(3): 331–46.
-* D’Cruz, Jason, and P.D., Magnus, 2014. “Are Digital Images Allographic?,” _Journal of Aesthetics and Art Criticism_, 72: 417–27.
-* Derksen, Anthony, 2005. “Linear Perspective as a Realist Constraint,” _Journal of Philosophy_, 102: 235–58.
-* Dickie, George, 1985. “Evaluating Art,” _British Journal of Aesthetics_, 25: 3–16.
-* Drost, Mark, 1994. “Husserl and Goodman on the Role of Resemblance in Pictorial Representation,” _International Studies in Philosophy_ 26: 17–27.
-* Eaton, Marcia, 1977. “Metaphor and the Causal Theory of Expression,” _Personalist_, 58: 358–68.
-* Elgin, Catherine Z., 1991. “What Goodman Leaves Out,” _Journal of Aesthetic Education_, 25: 89–96.
-* –––, 1993. “Relocating Aesthetics,” _Revue Internationale De Philosophie_, 46: 171–86.
-* –––, 2000. “Interpretation and Understanding,” _Erkenntnis: An International Journal of Analytic Philosophy_, 52: 175–83.
-* –––, 2000. “Reorienting Aesthetics, Reconceiving Cognition,” _Journal of Aesthetics and Art Criticism_, 58: 219–25.
-* Elkins, James, 1993. “From Original to Copy and Back Again,” _British Journal of Aesthetics_, 33: 113–20.
-* Falk, B., 1975. “Portraits and Persons,” _Proceedings of the Aristotelian Society_, 75: 181–200.
-* Files, Craig, 1996. “Goodman’s Rejection of Resemblance,” _British Journal of Aesthetics_, 36: 398–412.
-* Gardner, Howard, 2000. “Project Zero: Nelson Goodman’s Legacy in Arts Education,” _Journal of Aesthetics and Art Criticism_, 58: 245–9.
-* Giordani, A., Frigerio, A., Mari, L., 2013. “On Representing Information: A Characterization of the Analog/Digital Distinction,” _Dialectica: International Journal of Philosophy of Knowledge_, 67: 455–483.
-* Giovannelli, Alessandro, 2012. “Nelson Goodman (1906–1998),” in A. Giovannelli (ed.), _Aesthetics: The Key Thinkers_, London: Continuum, 166–80.
-* Goodrich, R. A., 1988. “Goodman on Representation and Resemblance,” _British Journal of Aesthetics_, 28: 48–58.
-* Gover, K. E., 2015. “Are All Multiples the Same? The Problematic Nature of the Limited Edition,” _Journal of Aesthetics and Art Criticism_, 73: 69–80.
-* Harris, N. G. E., 1973. “Goodman’s Account of Representation,” _Journal of Aesthetics and Art Criticism_, 31: 323–7.
-* Hernadi, Paul, 1981. “More Questions Concerning Quotation,” _Journal of Aesthetics and Art Criticism_, 39: 271–3.
-* Hester, Marcus, 1972. “Are Paintings and Photographs Inherently Interpretative?” _Journal of Aesthetics and Art Criticism_, 31: 235–46.
-* Hopkins, Robert, 2005. “Aesthetics, Experience, and Discrimination,” _Journal of Aesthetics and Art Criticism_, 63: 119–33.
-* Howard, V. A., 1978. “Music and Constant Comment,” _Erkenntnis: An International Journal of Analytic Philosophy_, 12: 73–82.
-* –––, 1972. “On Representational Music,” _Noûs_, 6: 41–53.
-* Hyman, John, 2013. “Depiction,” _Royal Institute of Philosophy Supplement_, 71: 129–50.
-* Innis, Robert, 1977. “Art, Symbol, and Consciousness: A Polanyi Gloss on Susan Langer and Nelson Goodman,” _International Philosophical Quarterly_, 17: 455–76.
-* Jacquette, Dale, 2000. “Goodman on the Concept of Style,” _British Journal of Aesthetics_, 40: 452–66.
-* Janaway, Christopher, 1999. “What a Musical Forgery Isn’t,” _British Journal of Aesthetics_, 39: 62–71.
-* Jensen, Henning, 1973. “Exemplification in Nelson Goodman’s Aesthetic Theory,” _Journal of Aesthetics and Art Criticism_, 32: 47–51.
-* Kivy, Peter, 2000. “How to Forge a Musical Work,” _Journal of Aesthetics and Art Criticism_, 58: 233–5.
-* Kotrozo-Donnell, Carol, 1982. “Representation as Denotation,” _Journal of Aesthetics and Art Criticism_, 40: 361–8.
-* Kulenkampff, Jens, 1981. “Music Considered as a Way of Worldmaking,” _Journal of Aesthetics and Art Criticism_, 39: 254–8.
-* Kulka, Tomas, 2005. “Forgeries and Art Evaluation: An Argument for Dualism in Aesthetics,” _Journal of Aesthetic Education_, 39: 58–70.
-* Kulvicki, John, 2003. “Image Structure,” _Journal of Aesthetics and Art Criticism_, 61: 323–40.
-* Lammenranta, Markus, 1992. “Goodman’s Semiotic Theory of Art,” _Canadian Journal of Philosophy_, 22: 339–51.
-* –––, 1988. “Nelson Goodman on Emotions in Music,” _Acta Philosophica Fennica_, 43: 210–6.
-* Laner, Iris, 2015. “Practical Aesthetic Knowledge: Goodman and Husserl on the Possibilities of Learning from Aesthetic Practices,” _Estetika: The Central European Journal of Aesthetics_, 52: 164–89.
-* –––, 2014. “Learning by Viewing: Towards a Phenomenological Understanding of the Practical Value of Aesthetic Experience,” _Proceedings of the European Society for Aesthetics_, 6: 208–28.
-* Lauter, H. A., 1988. “Cognitive Art,” _Philosophical Inquiry: International Quarterly_, 10: 85–95.
-* Levinson, Jerrold, 1980. “Autographic and Allographic Art Revisited,” _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_, 38: 367–84.
-* Lewis, Douglas, 1971. “Analog and Digital,” _Noûs_, 5: 321–8.
-* Lopes, Dominic M. McIver, 2000. “From _Languages of Art_ to Art in Mind,” _Journal of Aesthetics and Art Criticism_, 58: 227–31.
-* Lord, Catherine, and José A. Benardete, 1991. “Baxandall and Goodman,” in Kemal, Samil, and Ivan Gaskell (eds.), _The Language of Art History_, New York: Cambridge Univ Press.
-* Manns, James, 1977. “Goodman on Metaphor,” _Personalist_, 58: 173–8.
-* Margolis, Joseph, 1970. “Numerical Identity and Reference in the Arts,” _British Journal of Aesthetics_, 10: 138–46.
-* –––, 1976. “Aesthetic Appreciation and the Imperceptible,” _British Journal of Aesthetics_, 16: 305–12.
-* –––, 1981. “What is When, When is What: Two Questions for Nelson Goodman,” _Journal of Aesthetics and Art Criticism_, 39: 266–8.
-* –––, 1984. “Artworks and the History of Production,” _Communication and Cognition: An Interdisciplinary Quarterly Journal_, 17: 89–106.
-* –––, 1998. “Farewell to Danto and Goodman,” _British Journal of Aesthetics_, 38: 353–74.
-* Martin, Richard, 1981. “On Some Aesthetic Relations,” _Journal of Aesthetics and Art Criticism_, 39: 258–64.
-* McCormick, Peter. 1987. “Real Fictions,” _Journal of Aesthetics and Art Criticism_, 46: 259–70.
-* Mitchell, W. J. T., 1991. “Realism, Irrealism, and Ideology: A Critique of Nelson Goodman,” _Journal of Aesthetic Education_, 25(1): 21–35.
-* Mitias, Michael, 1994. “Expression in Architecture,” in Mitias, M. (ed.), _Philosophy and Architecture_, Amsterdam: Rodopi.
-* Morawski, Stefan, 1978. “Three Observations on _Languages of Art_,” _Erkenntnis: An International Journal of Analytic Philosophy_, 12: 119–28.
-* –––, 1974. “On Mimesis,” _Ajatus: Yearbook of the Philosophical Society of Finland_, 36: 201–34.
-* Morizot, Jacques, 2011. “Phenomenalism in Epistemology and Physicalism in Aesthetics,” _Principia: Revista Internacional de Epistemologia_, 15: 439–52.
-* Morton, Luise, and Thomas R. Foster, 1991. “Goodman, Forgery, and the Aesthetic,” _Journal of Aesthetics and Art Criticism_, 49: 155–9.
-* Newall, Michael, 2010. “Pictorial Resemblance,” _Journal of Aesthetics and Art Criticism_, 68: 91–103.
-* Novitz, David, 1975. “Picturing,” _Journal of Aesthetics and Art Criticism_, 34: 145–55.
-* Nozick, Robert, 1972. “Goodman, Nelson, on Merit, Aesthetic,” _Journal of Philosophy_, 21: 783–5.
-* Pearce, David, 1988. “Musical Expression: Some Remarks on Goodman’s Theory,” _Acta Philosophica Fennica_, 43: 228–43.
-* Peltz, Richard, 1972. “Nelson Goodman on Picturing, Describing, and Exemplifying,” _Journal of Aesthetic Education_, 6: 71–86.
-* Pillow, Kirk, 2003. “Did Goodman’s Distinction Survive LeWitt?” _Journal of Aesthetics and Art Criticism_, 61: 365–80.
-* Pole, David, 1974. “Goodman and the ‘Naïve’ View of Representation,” _British Journal of Aesthetics_, 14: 68–80.
-* Predelli, Stefano, 1999. “Goodman and the Wrong Note Paradox,” _British Journal of Aesthetics_, 39: 364–75.
-* –––, 1999. “Goodman and the Score,” _British Journal of Aesthetics_, 39: 138–47.
-* Ralls, Anthony, 1972. “The Uniqueness and Reproducibility of a Work of Art: A Critique of Goodman’s Theory,” _Philosophical Quarterly_, 86: 1–18.
-* Ridley, Aaron, 2013, “Brilliant Performances,” _Royal Institute of Philosophy Supplement_, 71: 209–27.
-* Robinson, Jenefer, 1979. “Some Remarks on Goodman’s Language Theory of Pictures,” _British Journal of Aesthetics_, 19: 63–75.
-* –––, 2000. “_Languages of Art_ at the Turn of the Century,” _Journal of Aesthetics and Art Criticism_, 58: 213–8.
-* Ross, Stephanie, 1981. “On Goodman’s Query,” _Southern Journal of Philosophy_, 19: 375–88.
-* Sagoff, Mark, 1976. “The Aesthetic Status of Forgeries,” _Journal of Aesthetics and Art Criticism_, 35: 169–80.
-* Salmon, Merrilee, 1974. “Representation and Intention in Art,” _Philosophical Forum_, 5: 365–74.
-* Savile, Anthony, 1971. “Nelson Goodman’s _Languages of Art_: A Study,” _British Journal of Aesthetics_, 11: 3–27.
-* Schutz, Robert, 1975. “Sense and Reference in the Languages of Art,” _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_, 28: 77–89.
-* Schwartz, Robert, 1997. “Pictures, Puzzles, and Paradigms,” _Philosophia Scientiae_, 2: 231–42.
-* Shusterman, Richard, 1995. “Art Infraction: Goodman, Rap, Pragmatism,” _Australasian Journal of Philosophy_, 73: 269–79.
-* Sigman, Jill, 2000. “How Dances Signify: Exemplification, Representation, and Ordinary Movement,” _Journal of Philosophical Research_, 25: 489–533.
-* Silvers, Anita, 1981. “The Secret of Style,” _Journal of Aesthetics and Art Criticism_, 39: 268–71.
-* Sirridge, Mary, 1980. “The Moral of the Story: Exemplification and the Literary Work,” _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_, 38: 391–402.
-* Smith, Barbara Herrnstein, 1970. “Literature as Performance, Fiction and Art,” _Journal of Philosophy_, 67: 553–62.
-* Soldati, Kristina, 2013. “Dance-Specific Aspects in the Tradition of the Symbol Theory of Nelson Goodman,” _Proceedings of the European Society for Aesthetics_, 5: 442–454.
-* Sparshott, Francis E., 1974. “Goodman on Expression,” _Monist: An International Quarterly Journal of General Philosophical Inquiry_, 48: 187–202.
-* Stalker, Douglas, 1978. “Goodman on Authenticity,” _British Journal of Aesthetics_, 18: 195–8.
-* Todd, Jennifer, 1980. “The Roots of Pictorial Reference,” _Journal of Aesthetics and Art Criticism_, 39: 47–58.
-* Topper, David, 1984. “On the Fidelity of Pictures: A Critique of Goodman’s Disjunction of Perspective and Realism,” _Philosophia: Philosophical Quarterly of Israel_, 14: 187–98.
-* Tormey, Alan, 1973. “Aesthetic Theory and Education,” _Philosophic Exchange: Annual Proceedings_, 1: 177–81.
-* van de Vall, Renée, 2015. “The Devil and the Details: The Ontology of Contemporary Art in Conservation Theory and Practice,” _British Journal of Aesthetics_, 55: 285–302.
-* van der Berg, Servaas, 2012. “Towards Defending a Semantic Theory of Expression in Art: Revisiting Goodman,” _South African Journal of Philosophy_, 31: 600–612.
-* Walton, Kendall, 1971. “_Languages of Art_: An Emendation,” _Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition_, 22: 82–5.
-* –––, 1974. “Are Representations Symbols?” _Monist: An International Quarterly Journal of General Philosophical Inquiry_, 58: 236–54.
-* Wartofsky, Marx, 1974. “Art, Action and Ambiguity,” _Monist: An International Quarterly Journal of General Philosophical Inquiry_, 58: 327–38.
-* Webster, William, 1971. “Music is not a ‘Notational System’,” _Journal of Aesthetics and Art Criticism_, 29: 489–98.
-* Weitz, Morris, 1971. “Professor Goodman on the Aesthetic,” _Journal of Aesthetics and Art Criticism_, 29: 485–8.
-* Wilsmore, Susan, 1987. “The Literary Work is not Its Text,” _Philosophy and Literature_, 11: 307–16.
-* Wilson, Catherine, 1982. “Illusion and Representation,” _British Journal of Aesthetics_, 22: 211–21.
-* Wollheim, Richard, 1970. “Nelson Goodman’s _Languages of Art_,” _Journal of Philosophy_, 67: 531–9.
-* –––, 1991. “The Core of Aesthetics,” _Journal of Aesthetic Education_: 37–45.
-* Wolterstorff, Nicholas, 1985. “Art in Realist Perspective,” _Idealistic Studies: An Interdisciplinary Journal of Philosophy_, 15: 87–99.
-* Woosuk, Park, 2014. “Misrepresentation in Context,” _Foundations of Science_, 19: 363–74.
-* Wreen, Michael, 1983. “Goodman on Forgery,” _Philosophical Quarterly_, 33: 340–53.
-* Young, James, 1999. “Art, Knowledge, and Exemplification,” _British Journal of Aesthetics_, 39: 126–37.
-* Zeimbekis, John, 2015. “Why Digital Pictures Are Not Notational Representations,” _Journal of Aesthetics and Art Criticism_, 73: 449–53.
-* Ziff, Paul, 1971. “Goodman’s _Languages of Art_,” _Philosophical Review_, 80: 509–15.
+* Ackerman, James, 1981. “Worldmaking and Practical Criticism,” *Journal of Aesthetics and Art Criticism*, 39: 249–54.
+* Arrell, Douglas, 1990. “Exemplification Reconsidered,” *British Journal of Aesthetics*, 30: 233–43.
+* –––, 1987. “What Goodman Should Have Said About Representation,” *Journal of Aesthetics and Art Criticism*, 46: 41–9.
+* Bach, Kent, 1970. “Part of What a Picture Is,” *British Journal of Aesthetics*, 10: 119–37.
+* Beardsley, Monroe, 1978. “*Languages of Art* and Art Criticism,” *Erkenntnis: An International Journal of Analytic Philosophy*, 12: 95–118.
+* –––, 1973. “Semiotic Aesthetics and Aesthetic Education,” *Philosophic Exchange: Annual Proceedings*, 1: 155–71.
+* –––, 1973. “What Is an Aesthetic Quality?” *Theoria: A Swedish Journal of Philosophy*, 39: 50–70.
+* Bender, John, 1996. “Realism, Supervenience, and Irresolvable Aesthetic Disputes,” *Journal of Aesthetics and Art Criticism*, 54: 371–81.
+* Bennett, John, 1974. “Depiction and Convention,” *Monist: An International Quarterly Journal of General Philosophical Inquiry*, 58: 255–68.
+* Blumson, Ben, 2008. “Depiction and Convention,” *Dialectica: International Journal of Philosophy of Knowledge*, 62: 335–48.
+* Boretz, Benjamin, 1970. “Nelson Goodman’s Languages of Art from a Musical Point of View,” *Journal of Philosophy*, 67: 540–52.
+* Brown, Lee, 1980. “Philosophy, Rhetoric, and Style,” *Monist: An International Quarterly Journal of General Philosophical Inquiry*, 63: 425–44.
+* –––, 1996. “Musical Works, Improvisation, and the Principle of Continuity,” *Journal of Aesthetics and Art Criticism*, 54: 353–69.
+* Bruner, Jerome, 1991. “Self-Making and World-Making,” *Journal of Aesthetic Education*: 67–78.
+* Bull, Malcolm, 1994. “Scheming Schemata,” *British Journal of Aesthetics*, 34: 207–17.
+* Campbell, Keith, 1994. “Nelson Goodman’s Assimilation of Literary and Scientific Knowledge,” *Literature and Aesthetics: The Journal of the Sydney Society of Literature and Aesthetics*, 4: 7–15.
+* Cantrick, Robert, 1993. “Is the Constructionalist Program Still Relevant?” *Journal of Aesthetics and Art Criticism*, 51: 71–2.
+* Capdevila-Werning, Remei, 2011. “Can Buildings Quote?,” *Journal of Aesthetics and Art Criticism*, 69: 115–24.
+* Carrier, David, 1982. “Art Without Its Artists?” *British Journal of Aesthetics*, 22: 233–44.
+* –––, 1974. “A Reading of Goodman on Representation,” *Monist: An International Quarterly Journal of General Philosophical Inquiry*, 58: 269–84.
+* Carter, Curtis, 2000. “A Tribute to Nelson Goodman,” *Journal of Aesthetics and Art Criticism*, 58: 251–3.
+* Charlton, William, 1979. “The Art of Apelles,” *Aristotelian Society: Supplementary Volume*, Suppl. 53: 167–186.
+* Chasid, Alon, 2004. “Why the Pictorial Relation Is Not Reference,” *British Journal of Aesthetics*, 44: 226–47.
+* Cohen, Ted, 1981. “The Facts of Narrative: A Response to Nelson Goodman,” *Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science*, 46: 351–4.
+* Coldron, John, 1982. “Peltz on Goodman on Exemplification,” *Journal of Aesthetic Education*, 16: 87–94.
+* Cometti, Jean-Pierre, 2000. “Activating Art,” *Journal of Aesthetics and Art Criticism*, 58: 237–43.
+* Cooper Wengrowicz, Monica, 2002. “Poetry and Scientific Exposition: An analysis of Two Forms of Symbolic Representation,” *Journal of Aesthetic Education*, 36: 86–99.
+* Davies, David, 1996. “Interpretive Pluralism and the Ontology of Art,” *Revue Internationale De Philosophie*, 50: 577–92.
+* –––, 1991. “Works, Texts, and Contexts: Goodman on the Literary Artwork,” *Canadian Journal of Philosophy*, 21(3): 331–46.
+* D’Cruz, Jason, and P.D., Magnus, 2014. “Are Digital Images Allographic?,” *Journal of Aesthetics and Art Criticism*, 72: 417–27.
+* Derksen, Anthony, 2005. “Linear Perspective as a Realist Constraint,” *Journal of Philosophy*, 102: 235–58.
+* Dickie, George, 1985. “Evaluating Art,” *British Journal of Aesthetics*, 25: 3–16.
+* Drost, Mark, 1994. “Husserl and Goodman on the Role of Resemblance in Pictorial Representation,” *International Studies in Philosophy* 26: 17–27.
+* Eaton, Marcia, 1977. “Metaphor and the Causal Theory of Expression,” *Personalist*, 58: 358–68.
+* Elgin, Catherine Z., 1991. “What Goodman Leaves Out,” *Journal of Aesthetic Education*, 25: 89–96.
+* –––, 1993. “Relocating Aesthetics,” *Revue Internationale De Philosophie*, 46: 171–86.
+* –––, 2000. “Interpretation and Understanding,” *Erkenntnis: An International Journal of Analytic Philosophy*, 52: 175–83.
+* –––, 2000. “Reorienting Aesthetics, Reconceiving Cognition,” *Journal of Aesthetics and Art Criticism*, 58: 219–25.
+* Elkins, James, 1993. “From Original to Copy and Back Again,” *British Journal of Aesthetics*, 33: 113–20.
+* Falk, B., 1975. “Portraits and Persons,” *Proceedings of the Aristotelian Society*, 75: 181–200.
+* Files, Craig, 1996. “Goodman’s Rejection of Resemblance,” *British Journal of Aesthetics*, 36: 398–412.
+* Gardner, Howard, 2000. “Project Zero: Nelson Goodman’s Legacy in Arts Education,” *Journal of Aesthetics and Art Criticism*, 58: 245–9.
+* Giordani, A., Frigerio, A., Mari, L., 2013. “On Representing Information: A Characterization of the Analog/Digital Distinction,” *Dialectica: International Journal of Philosophy of Knowledge*, 67: 455–483.
+* Giovannelli, Alessandro, 2012. “Nelson Goodman (1906–1998),” in A. Giovannelli (ed.), *Aesthetics: The Key Thinkers*, London: Continuum, 166–80.
+* Goodrich, R. A., 1988. “Goodman on Representation and Resemblance,” *British Journal of Aesthetics*, 28: 48–58.
+* Gover, K. E., 2015. “Are All Multiples the Same? The Problematic Nature of the Limited Edition,” *Journal of Aesthetics and Art Criticism*, 73: 69–80.
+* Harris, N. G. E., 1973. “Goodman’s Account of Representation,” *Journal of Aesthetics and Art Criticism*, 31: 323–7.
+* Hernadi, Paul, 1981. “More Questions Concerning Quotation,” *Journal of Aesthetics and Art Criticism*, 39: 271–3.
+* Hester, Marcus, 1972. “Are Paintings and Photographs Inherently Interpretative?” *Journal of Aesthetics and Art Criticism*, 31: 235–46.
+* Hopkins, Robert, 2005. “Aesthetics, Experience, and Discrimination,” *Journal of Aesthetics and Art Criticism*, 63: 119–33.
+* Howard, V. A., 1978. “Music and Constant Comment,” *Erkenntnis: An International Journal of Analytic Philosophy*, 12: 73–82.
+* –––, 1972. “On Representational Music,” *Noûs*, 6: 41–53.
+* Hyman, John, 2013. “Depiction,” *Royal Institute of Philosophy Supplement*, 71: 129–50.
+* Innis, Robert, 1977. “Art, Symbol, and Consciousness: A Polanyi Gloss on Susan Langer and Nelson Goodman,” *International Philosophical Quarterly*, 17: 455–76.
+* Jacquette, Dale, 2000. “Goodman on the Concept of Style,” *British Journal of Aesthetics*, 40: 452–66.
+* Janaway, Christopher, 1999. “What a Musical Forgery Isn’t,” *British Journal of Aesthetics*, 39: 62–71.
+* Jensen, Henning, 1973. “Exemplification in Nelson Goodman’s Aesthetic Theory,” *Journal of Aesthetics and Art Criticism*, 32: 47–51.
+* Kivy, Peter, 2000. “How to Forge a Musical Work,” *Journal of Aesthetics and Art Criticism*, 58: 233–5.
+* Kotrozo-Donnell, Carol, 1982. “Representation as Denotation,” *Journal of Aesthetics and Art Criticism*, 40: 361–8.
+* Kulenkampff, Jens, 1981. “Music Considered as a Way of Worldmaking,” *Journal of Aesthetics and Art Criticism*, 39: 254–8.
+* Kulka, Tomas, 2005. “Forgeries and Art Evaluation: An Argument for Dualism in Aesthetics,” *Journal of Aesthetic Education*, 39: 58–70.
+* Kulvicki, John, 2003. “Image Structure,” *Journal of Aesthetics and Art Criticism*, 61: 323–40.
+* Lammenranta, Markus, 1992. “Goodman’s Semiotic Theory of Art,” *Canadian Journal of Philosophy*, 22: 339–51.
+* –––, 1988. “Nelson Goodman on Emotions in Music,” *Acta Philosophica Fennica*, 43: 210–6.
+* Laner, Iris, 2015. “Practical Aesthetic Knowledge: Goodman and Husserl on the Possibilities of Learning from Aesthetic Practices,” *Estetika: The Central European Journal of Aesthetics*, 52: 164–89.
+* –––, 2014. “Learning by Viewing: Towards a Phenomenological Understanding of the Practical Value of Aesthetic Experience,” *Proceedings of the European Society for Aesthetics*, 6: 208–28.
+* Lauter, H. A., 1988. “Cognitive Art,” *Philosophical Inquiry: International Quarterly*, 10: 85–95.
+* Levinson, Jerrold, 1980. “Autographic and Allographic Art Revisited,” *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 38: 367–84.
+* Lewis, Douglas, 1971. “Analog and Digital,” *Noûs*, 5: 321–8.
+* Lopes, Dominic M. McIver, 2000. “From *Languages of Art* to Art in Mind,” *Journal of Aesthetics and Art Criticism*, 58: 227–31.
+* Lord, Catherine, and José A. Benardete, 1991. “Baxandall and Goodman,” in Kemal, Samil, and Ivan Gaskell (eds.), *The Language of Art History*, New York: Cambridge Univ Press.
+* Manns, James, 1977. “Goodman on Metaphor,” *Personalist*, 58: 173–8.
+* Margolis, Joseph, 1970. “Numerical Identity and Reference in the Arts,” *British Journal of Aesthetics*, 10: 138–46.
+* –––, 1976. “Aesthetic Appreciation and the Imperceptible,” *British Journal of Aesthetics*, 16: 305–12.
+* –––, 1981. “What is When, When is What: Two Questions for Nelson Goodman,” *Journal of Aesthetics and Art Criticism*, 39: 266–8.
+* –––, 1984. “Artworks and the History of Production,” *Communication and Cognition: An Interdisciplinary Quarterly Journal*, 17: 89–106.
+* –––, 1998. “Farewell to Danto and Goodman,” *British Journal of Aesthetics*, 38: 353–74.
+* Martin, Richard, 1981. “On Some Aesthetic Relations,” *Journal of Aesthetics and Art Criticism*, 39: 258–64.
+* McCormick, Peter. 1987. “Real Fictions,” *Journal of Aesthetics and Art Criticism*, 46: 259–70.
+* Mitchell, W. J. T., 1991. “Realism, Irrealism, and Ideology: A Critique of Nelson Goodman,” *Journal of Aesthetic Education*, 25(1): 21–35.
+* Mitias, Michael, 1994. “Expression in Architecture,” in Mitias, M. (ed.), *Philosophy and Architecture*, Amsterdam: Rodopi.
+* Morawski, Stefan, 1978. “Three Observations on *Languages of Art*,” *Erkenntnis: An International Journal of Analytic Philosophy*, 12: 119–28.
+* –––, 1974. “On Mimesis,” *Ajatus: Yearbook of the Philosophical Society of Finland*, 36: 201–34.
+* Morizot, Jacques, 2011. “Phenomenalism in Epistemology and Physicalism in Aesthetics,” *Principia: Revista Internacional de Epistemologia*, 15: 439–52.
+* Morton, Luise, and Thomas R. Foster, 1991. “Goodman, Forgery, and the Aesthetic,” *Journal of Aesthetics and Art Criticism*, 49: 155–9.
+* Newall, Michael, 2010. “Pictorial Resemblance,” *Journal of Aesthetics and Art Criticism*, 68: 91–103.
+* Novitz, David, 1975. “Picturing,” *Journal of Aesthetics and Art Criticism*, 34: 145–55.
+* Nozick, Robert, 1972. “Goodman, Nelson, on Merit, Aesthetic,” *Journal of Philosophy*, 21: 783–5.
+* Pearce, David, 1988. “Musical Expression: Some Remarks on Goodman’s Theory,” *Acta Philosophica Fennica*, 43: 228–43.
+* Peltz, Richard, 1972. “Nelson Goodman on Picturing, Describing, and Exemplifying,” *Journal of Aesthetic Education*, 6: 71–86.
+* Pillow, Kirk, 2003. “Did Goodman’s Distinction Survive LeWitt?” *Journal of Aesthetics and Art Criticism*, 61: 365–80.
+* Pole, David, 1974. “Goodman and the ‘Naïve’ View of Representation,” *British Journal of Aesthetics*, 14: 68–80.
+* Predelli, Stefano, 1999. “Goodman and the Wrong Note Paradox,” *British Journal of Aesthetics*, 39: 364–75.
+* –––, 1999. “Goodman and the Score,” *British Journal of Aesthetics*, 39: 138–47.
+* Ralls, Anthony, 1972. “The Uniqueness and Reproducibility of a Work of Art: A Critique of Goodman’s Theory,” *Philosophical Quarterly*, 86: 1–18.
+* Ridley, Aaron, 2013, “Brilliant Performances,” *Royal Institute of Philosophy Supplement*, 71: 209–27.
+* Robinson, Jenefer, 1979. “Some Remarks on Goodman’s Language Theory of Pictures,” *British Journal of Aesthetics*, 19: 63–75.
+* –––, 2000. “*Languages of Art* at the Turn of the Century,” *Journal of Aesthetics and Art Criticism*, 58: 213–8.
+* Ross, Stephanie, 1981. “On Goodman’s Query,” *Southern Journal of Philosophy*, 19: 375–88.
+* Sagoff, Mark, 1976. “The Aesthetic Status of Forgeries,” *Journal of Aesthetics and Art Criticism*, 35: 169–80.
+* Salmon, Merrilee, 1974. “Representation and Intention in Art,” *Philosophical Forum*, 5: 365–74.
+* Savile, Anthony, 1971. “Nelson Goodman’s *Languages of Art*: A Study,” *British Journal of Aesthetics*, 11: 3–27.
+* Schutz, Robert, 1975. “Sense and Reference in the Languages of Art,” *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 28: 77–89.
+* Schwartz, Robert, 1997. “Pictures, Puzzles, and Paradigms,” *Philosophia Scientiae*, 2: 231–42.
+* Shusterman, Richard, 1995. “Art Infraction: Goodman, Rap, Pragmatism,” *Australasian Journal of Philosophy*, 73: 269–79.
+* Sigman, Jill, 2000. “How Dances Signify: Exemplification, Representation, and Ordinary Movement,” *Journal of Philosophical Research*, 25: 489–533.
+* Silvers, Anita, 1981. “The Secret of Style,” *Journal of Aesthetics and Art Criticism*, 39: 268–71.
+* Sirridge, Mary, 1980. “The Moral of the Story: Exemplification and the Literary Work,” *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 38: 391–402.
+* Smith, Barbara Herrnstein, 1970. “Literature as Performance, Fiction and Art,” *Journal of Philosophy*, 67: 553–62.
+* Soldati, Kristina, 2013. “Dance-Specific Aspects in the Tradition of the Symbol Theory of Nelson Goodman,” *Proceedings of the European Society for Aesthetics*, 5: 442–454.
+* Sparshott, Francis E., 1974. “Goodman on Expression,” *Monist: An International Quarterly Journal of General Philosophical Inquiry*, 48: 187–202.
+* Stalker, Douglas, 1978. “Goodman on Authenticity,” *British Journal of Aesthetics*, 18: 195–8.
+* Todd, Jennifer, 1980. “The Roots of Pictorial Reference,” *Journal of Aesthetics and Art Criticism*, 39: 47–58.
+* Topper, David, 1984. “On the Fidelity of Pictures: A Critique of Goodman’s Disjunction of Perspective and Realism,” *Philosophia: Philosophical Quarterly of Israel*, 14: 187–98.
+* Tormey, Alan, 1973. “Aesthetic Theory and Education,” *Philosophic Exchange: Annual Proceedings*, 1: 177–81.
+* van de Vall, Renée, 2015. “The Devil and the Details: The Ontology of Contemporary Art in Conservation Theory and Practice,” *British Journal of Aesthetics*, 55: 285–302.
+* van der Berg, Servaas, 2012. “Towards Defending a Semantic Theory of Expression in Art: Revisiting Goodman,” *South African Journal of Philosophy*, 31: 600–612.
+* Walton, Kendall, 1971. “*Languages of Art*: An Emendation,” *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition*, 22: 82–5.
+* –––, 1974. “Are Representations Symbols?” *Monist: An International Quarterly Journal of General Philosophical Inquiry*, 58: 236–54.
+* Wartofsky, Marx, 1974. “Art, Action and Ambiguity,” *Monist: An International Quarterly Journal of General Philosophical Inquiry*, 58: 327–38.
+* Webster, William, 1971. “Music is not a ‘Notational System’,” *Journal of Aesthetics and Art Criticism*, 29: 489–98.
+* Weitz, Morris, 1971. “Professor Goodman on the Aesthetic,” *Journal of Aesthetics and Art Criticism*, 29: 485–8.
+* Wilsmore, Susan, 1987. “The Literary Work is not Its Text,” *Philosophy and Literature*, 11: 307–16.
+* Wilson, Catherine, 1982. “Illusion and Representation,” *British Journal of Aesthetics*, 22: 211–21.
+* Wollheim, Richard, 1970. “Nelson Goodman’s *Languages of Art*,” *Journal of Philosophy*, 67: 531–9.
+* –––, 1991. “The Core of Aesthetics,” *Journal of Aesthetic Education*: 37–45.
+* Wolterstorff, Nicholas, 1985. “Art in Realist Perspective,” *Idealistic Studies: An Interdisciplinary Journal of Philosophy*, 15: 87–99.
+* Woosuk, Park, 2014. “Misrepresentation in Context,” *Foundations of Science*, 19: 363–74.
+* Wreen, Michael, 1983. “Goodman on Forgery,” *Philosophical Quarterly*, 33: 340–53.
+* Young, James, 1999. “Art, Knowledge, and Exemplification,” *British Journal of Aesthetics*, 39: 126–37.
+* Zeimbekis, John, 2015. “Why Digital Pictures Are Not Notational Representations,” *Journal of Aesthetics and Art Criticism*, 73: 449–53.
+* Ziff, Paul, 1971. “Goodman’s *Languages of Art*,” *Philosophical Review*, 80: 509–15.
 
 ## Academic Tools
 
@@ -501,4 +499,4 @@ Also, there are 3 supplementary documents in the Summer 2015 archived version of
 [convention](https://plato.stanford.edu/entries/convention/) | [diagrams](https://plato.stanford.edu/entries/diagrams/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [logic: inductive](https://plato.stanford.edu/entries/logic-inductive/) | [metaphor](https://plato.stanford.edu/entries/metaphor/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | predication | [reference](https://plato.stanford.edu/entries/reference/) | [relativism](https://plato.stanford.edu/entries/relativism/)
 
 [Copyright © 2017](https://plato.stanford.edu/info.html#c) by\
-[Alessandro Giovannelli](http://sites.lafayette.edu/giovannelli/) <[_giovannelli@lafayette.edu_](mailto:giovannelli%40lafayette%2eedu)>
+[Alessandro Giovannelli](http://sites.lafayette.edu/giovannelli/) <[*giovannelli@lafayette.edu*](mailto:giovannelli%40lafayette%2eedu)>

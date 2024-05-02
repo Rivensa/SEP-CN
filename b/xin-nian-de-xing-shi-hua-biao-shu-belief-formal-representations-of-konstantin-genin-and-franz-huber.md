@@ -1,11 +1,10 @@
 # 信念的形式表述 belief, formal representations of (Konstantin Genin and Franz Huber)
 
-_首次发布于2008年10月22日（星期三）；实质性修订于2020年11月13日（星期五）。_
+*首次发布于2008年10月22日（星期三）；实质性修订于2020年11月13日（星期五）。*
 
 认识论学者对信念系统的结构和动态的规范感兴趣：个体的信念必须相互协调才能被认为是合理的；它们必须在决策中得到反映；并且它们应该适应新的证据。形式认识论学者通过构建数学模型或“形式表述”来探讨这些问题，这些模型在某种程度上是认识论上的典范。广义上讲，这些模型捕捉到了一个理想理性主体如何管理其认识生活的重要方面。本文概述了为此目的提出的形式表述。
 
 信念以定性（完全）形式存在，例如 Sophia 相信维也纳是奥地利的首都，以及定量（部分）形式存在，例如 Sophia 相信维也纳是奥地利的首都的程度，在某种意义上，比她相信维也纳比布达佩斯人口更多的程度更强。关于完全信念和部分信念如何相关的问题在形式认识论中受到了相当多的关注，产生了几种微妙、优雅但不幸不兼容的解决方案。这些替代方案之间的辩论是本文的一个特定焦点，涵盖在第 4 节中。
-
 
 ***
 
@@ -65,7 +64,7 @@ L 中的一些句子“逻辑上”从其他句子中推导出来。例如，在
 
 健全性表明，如果句子 β 是 α 的可推导结果，那么无论如何解释 L 的非逻辑词汇，β 在所有使得 α 为真的世界中都为真。也就是说，从真前提出发，我们的推理关系总是得出真结论。健全性还意味着每个定理都是有效的。健全性是任何_演绎_推理关系的基本要求，并且说明了演绎证明和语义蕴涵之间的预期联系。
 
-句子在某种意义上能够表达命题无法表达的区别。例如，两个句子 p 和 ¬¬p 显然是不同的。但是如果 p 和 q 可以被证明等价，即如果 ⊢p↔q，那么 {p}⊢q 和 {q}⊢p。根据完备性，{p}⊨q 和 {q}⊨p。因此，对于任何赋值函数，V(p)=V(q)。所以 p 和 q 必须表达相同的命题。当然，一个不知道等价性的代理可能相信 p 而不相信 q。更糟糕的是，对于任何 ⊢p 的句子 p，它必须表达重言命题 W。当然，普通的代理并不总是能够识别命题逻辑的定理。因此，有人认为句子而不是命题是信念的适当对象。然而，我们将研究的大多数提出的模型要求理性代理对逻辑等价的句子采取相同的信念态度。这是一个非常严格的要求，相当于假设每个理性代理都是_逻辑全知_的，即她认为所有逻辑蕴涵都是完全透明的。只要这种情况存在，将信念的对象视为句子或命题之间没有重大区别。然而，仍有其他人对句子或命题都不满意。Perry (1979)，Lewis (1979) 和 Stalnaker (1981) 认为，为了捕捉_本质上指示性_的信念，即本质上涉及诸如_I, here,_ 或 _now_ 的指示性的信念，信念的对象必须是_中心化_命题。我们在这里不讨论这个有帮助的建议，但是可以参考 Ninan (2019) 或 Liao (2012) 了解更多关于中心化命题的内容。
+句子在某种意义上能够表达命题无法表达的区别。例如，两个句子 p 和 ¬¬p 显然是不同的。但是如果 p 和 q 可以被证明等价，即如果 ⊢p↔q，那么 {p}⊢q 和 {q}⊢p。根据完备性，{p}⊨q 和 {q}⊨p。因此，对于任何赋值函数，V(p)=V(q)。所以 p 和 q 必须表达相同的命题。当然，一个不知道等价性的代理可能相信 p 而不相信 q。更糟糕的是，对于任何 ⊢p 的句子 p，它必须表达重言命题 W。当然，普通的代理并不总是能够识别命题逻辑的定理。因此，有人认为句子而不是命题是信念的适当对象。然而，我们将研究的大多数提出的模型要求理性代理对逻辑等价的句子采取相同的信念态度。这是一个非常严格的要求，相当于假设每个理性代理都是_逻辑全知_的，即她认为所有逻辑蕴涵都是完全透明的。只要这种情况存在，将信念的对象视为句子或命题之间没有重大区别。然而，仍有其他人对句子或命题都不满意。Perry (1979)，Lewis (1979) 和 Stalnaker (1981) 认为，为了捕捉_本质上指示性_的信念，即本质上涉及诸如_I, here,_ 或 *now* 的指示性的信念，信念的对象必须是_中心化_命题。我们在这里不讨论这个有帮助的建议，但是可以参考 Ninan (2019) 或 Liao (2012) 了解更多关于中心化命题的内容。
 
 ## 2. 完全信念的表述
 
@@ -151,7 +150,7 @@ Kelly 和 Lin（即将出版）使用以下例子来反驳理性单调性。Soph
 
 Kraus 等人（1990）首次证明了本节中的大部分结果。然而，原始结果的陈述过于一般化，对我们的目的来说过于繁琐。我们陈述了一个简化但更明确的版本。有关更接近原始的演示，请参见 Makinson（1994）和关于[可废除推理](https://plato.stanford.edu/entries/reasoning-defeasible/)的条目。
 
-_优先模型_是一个三元组⟨W,V,≺⟩，其中 W 是一组可能的世界，V 是一个估值函数，≺是 W 元素之间的任意关系。回顾一下[第 1.2 节](https://plato.stanford.edu/entries/formal-belief/#StrObjBel)中提到的 V(α)是α为真的世界集。关系≺是_传递的_，当 x≺y 且 y≺z 时，x≺z。关系≺是_非自反的_，当 w∈W 时，对于所有 w∈W，不成立 w≺w。传递的、非自反的关系称为_严格顺序_。我们写作 w⪯v 当且仅当 w≺v 或 w=v。严格顺序≺是_全序_，当 w,v∈W 时，要么 w≺v，要么 v≺w。
+*优先模型_是一个三元组⟨W,V,≺⟩，其中 W 是一组可能的世界，V 是一个估值函数，≺是 W 元素之间的任意关系。回顾一下[第 1.2 节](https://plato.stanford.edu/entries/formal-belief/#StrObjBel)中提到的 V(α)是α为真的世界集。关系≺是_传递的*，当 x≺y 且 y≺z 时，x≺z。关系≺是_非自反的_，当 w∈W 时，对于所有 w∈W，不成立 w≺w。传递的、非自反的关系称为_严格顺序_。我们写作 w⪯v 当且仅当 w≺v 或 w=v。严格顺序≺是_全序_，当 w,v∈W 时，要么 w≺v，要么 v≺w。
 
 我们说 w 是_α-最小_的世界，当且仅当 w∈V(α)，且不存在 v∈V(α)使得 v≺w。每个偏好模型都通过设置α|∼β来产生一个推论关系，其中β在所有_α-最小_的世界中为真。Kraus 等人（1990）证明了以下结论：
 
@@ -231,7 +230,7 @@ Gärdenfors（1988）还提出了以下两个与包含和保全密切相关的�
 
 #### 2.2.2 巩固程度
 
-Gärdenfors（1988）以以下方式引入了“_扎根关系_”的概念：
+Gärdenfors（1988）以以下方式引入了“*扎根关系*”的概念：
 
 即使一个集合中的所有句子都被接受或被视为事实……，这并不意味着所有句子在规划或解决问题时具有相等的价值……我们将说某些句子……具有更高程度的_认识扎根性_。直观上，扎根程度将影响在进行收缩或修订时放弃什么……以及保留什么。
 
@@ -263,7 +262,7 @@ Grove（1988）证明了一个类似的表示定理，适用于一种扩展了 L
 
 认知逻辑是一种形式框架，其现代形式通常可以追溯到冯·赖特（1951）和欣蒂卡（1962），旨在突出这些问题。有关一本有影响力的入门性文本，请参见 Fagin 等人（1995）。认知逻辑的形式语言扩展了命题逻辑的认知运算符 Baϕ和 Kaϕ，分别发音为“代理人 a 相信ϕ”和“代理人 a 知道ϕ”。当只讨论一个代理人时，下标被省略。（熟悉[模态逻辑](https://plato.stanford.edu/entries/logic-modal/)的读者将会认识到这些运算符类似于其他“盒子”运算符，比如必然性和义务。）在扩展了语言之后，可以表达认知原则，例如 B(p→q)→(Bp→Bq)，它表示你的信念在演绎法则下是封闭的，或者 Bp→BBp，它表示如果你相信 p，那么你也相信自己相信它。请注意，尽管第一个原则在 AGM（封闭性）和非单调逻辑（右弱化）中有自然的类似物，但第二个原则无法直接在任一形式主义中表达。例如，在 AGM 框架中，我们可以理解 p∈B 与 Bp 是相同的意思，但如何表达 BBp 则一点也不清楚。（但请参见 Moore（1985）和关于[非单调逻辑](https://plato.stanford.edu/entries/logic-nonmonotonic/#AutoLogi)的自我认知部分。）此外，认知逻辑没有困难地表达知识和信念相互作用的原则。例如，Kp→Bp 表达了一切被知道的事物也被相信的论点。AGM 和非单调逻辑无法轻易地对这些问题做出任何陈述。
 
-不同的公理选择来规定信念、知识及其相互作用会导致不同的认识逻辑。认识逻辑中的大量工作对这些系统进行了表征，并证明了公理的各种令人惊讶的结果。_克里普克模型_是认识逻辑最广泛使用的语义基础。（关于这些模型是否正确归因于克里普克，请参见 Goldblatt（2006）的讨论。）克里普克模型在可能世界集合 W 上配备了一个二元的_不可区分关系_。基本思想是，如果 w 是实际世界，那么代理 a 无法排除实际世界是 w′，则两个世界 w,w′之间存在关系 wRaw′。然后，该模型通过以下定义与形式语言相连接：w⊨Baϕ当且仅当对于所有 w′（wRaw′），w′⊨ϕ。换句话说：在 w 中，a 相信ϕ当且仅当在所有 a 无法区分 w 与 w′的世界 w′中，ϕ为真。配备了这种语义，可以证明认识原则与不可区分关系的结构性质之间存在各种优雅的对应关系。例如，当不可区分关系是传递的时候，原则 Bϕ→BBϕ成立。当不可区分关系是自反的时候，可疑的原则 Bϕ→ϕ成立。大量的理论活动致力于直观认识原则在模态逻辑语言中的表达与不可区分关系的优雅结构条件之间的相互作用。关于这个主题的优秀介绍，请参见[认识逻辑](https://plato.stanford.edu/entries/logic-epistemic/)条目，或更一般的[模态逻辑](https://plato.stanford.edu/entries/logic-modal/)条目。最近，对认识逻辑的替代拓扑语义进行了重要的理论研究活动（例如：Bjorndahl 和Özgün，即将出版）。
+不同的公理选择来规定信念、知识及其相互作用会导致不同的认识逻辑。认识逻辑中的大量工作对这些系统进行了表征，并证明了公理的各种令人惊讶的结果。*克里普克模型_是认识逻辑最广泛使用的语义基础。（关于这些模型是否正确归因于克里普克，请参见 Goldblatt（2006）的讨论。）克里普克模型在可能世界集合 W 上配备了一个二元的_不可区分关系*。基本思想是，如果 w 是实际世界，那么代理 a 无法排除实际世界是 w′，则两个世界 w,w′之间存在关系 wRaw′。然后，该模型通过以下定义与形式语言相连接：w⊨Baϕ当且仅当对于所有 w′（wRaw′），w′⊨ϕ。换句话说：在 w 中，a 相信ϕ当且仅当在所有 a 无法区分 w 与 w′的世界 w′中，ϕ为真。配备了这种语义，可以证明认识原则与不可区分关系的结构性质之间存在各种优雅的对应关系。例如，当不可区分关系是传递的时候，原则 Bϕ→BBϕ成立。当不可区分关系是自反的时候，可疑的原则 Bϕ→ϕ成立。大量的理论活动致力于直观认识原则在模态逻辑语言中的表达与不可区分关系的优雅结构条件之间的相互作用。关于这个主题的优秀介绍，请参见[认识逻辑](https://plato.stanford.edu/entries/logic-epistemic/)条目，或更一般的[模态逻辑](https://plato.stanford.edu/entries/logic-modal/)条目。最近，对认识逻辑的替代拓扑语义进行了重要的理论研究活动（例如：Bjorndahl 和Özgün，即将出版）。
 
 正如 von Wright（1951）和 Hintikka（1962）最初制定的那样，认识逻辑对于代理如何对新信息做出反应没有提出任何要求。Segerberg 引入了动态信念逻辑（1995 年，1999 年）来弥合信念修正和认识逻辑之间的差距。此外，动态认识逻辑是为了同样的目的而发展起来的，但重点放在多主体环境中（参见 Plaza 1989，Baltag 等人 1998，van Ditmarsch 等人 2007）。这个框架受益于哲学家、逻辑学家、经济学家和计算机科学家的理论贡献。对于这些发展的适当讨论将使我们偏离主题。感兴趣的读者应该参考[动态认识逻辑](https://plato.stanford.edu/entries/dynamic-epistemic/)条目。对于贝叶斯自我认识论方法，请参见 van Fraassen（1985 年，1995 年）。对于排名理论方法，请参见 Spohn（2012）的第 9 章，以及 Hild（1998）和 Spohn（2017b）。对于将传统认识论的定性概念与概率概念相结合的非常不同的方法，请参见 Moss（2013 年，2018 年），他辩护了知识涉及概率内容的论点。
 
@@ -291,18 +290,18 @@ Cohen（1980）将另一种少数派传统追溯到弗朗西斯·培根的《新
 
 前两个原则是贝叶斯理论的同步要求；第三个原则涉及到历时更新行为。大多数贝叶斯主义者也会同意以下原则的某个版本，将主观概率与思考和行动联系起来：
 
-1. 世界的可能状态（_结果_）被赋予一个_效用_：一个反映该结果的可取或不可取性的正或负实数。
+1. 世界的可能状态（*结果*）被赋予一个_效用_：一个反映该结果的可取或不可取性的正或负实数。
 2. 理性的代理人只执行最大化_期望_效用的行动
 
 贝叶斯主义之所以强大，是因为除了提供对理性信念及其更新的解释外，它还提供了对理性行动和思考的解释。没有其他理论能够提供对这三个方面的发展细致的解释。接下来，我们将简要阐述贝叶斯图像的一些技术细节。
 
 #### 3.1.1 信念的形式结构
 
-引入\[0,1]区间内的信念程度来量化信念态度的强度。对于我们的目的，我们将假设命题是部分信念的对象。也可以将信念程度分配给形式语言中的句子，但在很大程度上，我们选择的方法并不重要（参见 Weisberg，2011）。因此，设 A 是一组可能性集合 W 上的命题领域。如果对于 A 中的所有命题 A、B，从 A 到实数集合 R 的函数 Pr: A→R 是一个（有限可加且非条件性的）_概率测度_，当且仅当满足以下条件：
+引入\[0,1]区间内的信念程度来量化信念态度的强度。对于我们的目的，我们将假设命题是部分信念的对象。也可以将信念程度分配给形式语言中的句子，但在很大程度上，我们选择的方法并不重要（参见 Weisberg，2011）。因此，设 A 是一组可能性集合 W 上的命题领域。如果对于 A 中的所有命题 A、B，从 A 到实数集合 R 的函数 Pr: A→R 是一个（有限可加且非条件性的）*概率测度*，当且仅当满足以下条件：
 
 （正性）（单位性）（可加性）Pr(A)≥0 Pr(W)=1 Pr(A∪B)=Pr(A)+Pr(B)，如果 A∩B=∅
 
-满足这三个原则的三元组⟨W,A,Pr⟩被称为（有限可加）_概率空间_。从这些原则可以推导出许多有启发性的定理。例如，分配给矛盾命题的信念程度必须等于零。此外，如果 E 蕴含 F，则 Pr(E)≤Pr(F)。最后，对于任何命题 E∈A，我们有 0≤Pr(E)≤1。
+满足这三个原则的三元组⟨W,A,Pr⟩被称为（有限可加）*概率空间*。从这些原则可以推导出许多有启发性的定理。例如，分配给矛盾命题的信念程度必须等于零。此外，如果 E 蕴含 F，则 Pr(E)≤Pr(F)。最后，对于任何命题 E∈A，我们有 0≤Pr(E)≤1。
 
 假设 A 还在可数交集下封闭（因此是一个σ-域）。假设 Pr 还满足 A 中所有命题 A1,…An,…的条件，
 
@@ -366,9 +365,9 @@ Bronfman（2006 年，其他互联网资源）观察到，乔伊斯对不准确�
 
 #### 3.1.5 无知
 
-主观概率理论通过将概率分配为 0.5 来模拟对命题 A 的无知，以及其补集¬A。更一般地，如果主观概率 Pr 满足 Pr(Ai)=1/n，则称代理人对划分{A1,…,An}的无知。当代理人缺乏相关证据时，_不偏见原则_要求信念代理人以这种方式分配她的主观概率。Leitgeb 和 Pettigrew（2010b）为不偏见原则提供了一个准确性论证。然而，如果所讨论的划分不是固定的，该原则会导致矛盾的结果。举个简单的例子，假设 Sophia 对某个大理石的颜色一无所知。那么，她必须几乎确定它不是蓝色的。在这种情况下，对一件事的无知意味着她对另一件事非常有主见。但是可以推测她对颜色是否为蓝色也一无所知。有关更多信息，请参阅 Kneale（1949）中对_Bertrand 悖论_的讨论以及[概率解释](https://plato.stanford.edu/entries/probability-interpret/#ClaPro)条目的 3.1 节。如果划分包含可数无穷多个元素，不偏见原则的一个更谨慎版本是_最大熵原则_。它要求代理人采用其中一个概率测度 Pr 作为她对由可数划分{Ai}生成的（σ-域）的信念函数，以最大化量−∑iPr(Ai)logPr(Ai)。后者被称为 Pr 相对于划分{Ai}的_熵_。请参阅 Paris（1994）。
+主观概率理论通过将概率分配为 0.5 来模拟对命题 A 的无知，以及其补集¬A。更一般地，如果主观概率 Pr 满足 Pr(Ai)=1/n，则称代理人对划分{A1,…,An}的无知。当代理人缺乏相关证据时，*不偏见原则_要求信念代理人以这种方式分配她的主观概率。Leitgeb 和 Pettigrew（2010b）为不偏见原则提供了一个准确性论证。然而，如果所讨论的划分不是固定的，该原则会导致矛盾的结果。举个简单的例子，假设 Sophia 对某个大理石的颜色一无所知。那么，她必须几乎确定它不是蓝色的。在这种情况下，对一件事的无知意味着她对另一件事非常有主见。但是可以推测她对颜色是否为蓝色也一无所知。有关更多信息，请参阅 Kneale（1949）中对_Bertrand 悖论_的讨论以及[概率解释](https://plato.stanford.edu/entries/probability-interpret/#ClaPro)条目的 3.1 节。如果划分包含可数无穷多个元素，不偏见原则的一个更谨慎版本是_最大熵原则*。它要求代理人采用其中一个概率测度 Pr 作为她对由可数划分{Ai}生成的（σ-域）的信念函数，以最大化量−∑iPr(Ai)logPr(Ai)。后者被称为 Pr 相对于划分{Ai}的_熵_。请参阅 Paris（1994）。
 
-假设 Sophia 对葡萄酒了解不多。根据不偏见原则，她对奥地利 Schilcher 是白葡萄酒的信念程度和她对它是红葡萄酒的信念程度都应该是 0.5。与之形成对比的是以下情况。Sophia 确信一枚特定的硬币是公平的，即硬币正面朝上的客观机会和硬币反面朝上的客观机会都是 0.5。_主要原则_（Lewis，1980）要求，在给定客观机会的条件下，主观概率应等于客观概率（参见 Briggs，2009b）。根据主要原则，她对硬币在下一次旋转中正面朝上的信念程度也应该是 0.5。尽管 Sophia 的主观概率在这两种情况下是相同的，但存在重要的区别。在第一种情况下，0.5 的主观概率代表完全的无知。在第二种情况下，它代表对客观机会的确定性。
+假设 Sophia 对葡萄酒了解不多。根据不偏见原则，她对奥地利 Schilcher 是白葡萄酒的信念程度和她对它是红葡萄酒的信念程度都应该是 0.5。与之形成对比的是以下情况。Sophia 确信一枚特定的硬币是公平的，即硬币正面朝上的客观机会和硬币反面朝上的客观机会都是 0.5。*主要原则*（Lewis，1980）要求，在给定客观机会的条件下，主观概率应等于客观概率（参见 Briggs，2009b）。根据主要原则，她对硬币在下一次旋转中正面朝上的信念程度也应该是 0.5。尽管 Sophia 的主观概率在这两种情况下是相同的，但存在重要的区别。在第一种情况下，0.5 的主观概率代表完全的无知。在第二种情况下，它代表对客观机会的确定性。
 
 这些例子表明，主观概率理论并不能充分解释关于部分信念的问题，因为它无法区分完全无知和对机会的知识，或者至少是确定性。我们将在第 3.2 节讨论对这一异议的潜在回应。
 
@@ -684,7 +683,7 @@ Buchak（2014）认为，在第一种情况下，完全相信蓝色公共汽车�
 
 换句话说：每个完全的信念必须具有稳定的高条件信念程度，至少在对当前不被否定的命题进行条件推断时如此。由于完全信念出现在双条件语句的两侧，很明显这不是将完全信念归约为部分信念的建议，而是每个有理的代理人必须满足的约束条件。休谟主义论述并未明确指定阈值 s。当然，对于每个 12\<s<1，我们可以制定一个具体的论述 HTs ，使得该论述成立。例如，HT.5 要求每个完全被信任的命题在对当前不被否定的命题进行条件推断时仍然比其否定更有可能。
 
-某种形式的稳定性被广泛认为是 _知识_ 的必要条件。苏格拉底在《梅诺篇》中提出了这样的观点。Paxson Jr.和 Lehrer（1969）在基于盖蒂尔（1963）之后的认识论文献中支持这样的观点。然而，稳定性通常不被视为 _信念_ 的条件。Raidl 和 Skovgaard-Olsen（2017）声称 Leitgeb 的稳定性条件在知识分析中更为合适，对于信念来说则是一个过于严格的条件。休谟主义论述的辩护者可能会说每个 _有理的_ 信念可能是知识的一个实例。由于知识必然是稳定的，不稳定的信念 _ipso facto_ 不被认为是知识。
+某种形式的稳定性被广泛认为是 *知识* 的必要条件。苏格拉底在《梅诺篇》中提出了这样的观点。Paxson Jr.和 Lehrer（1969）在基于盖蒂尔（1963）之后的认识论文献中支持这样的观点。然而，稳定性通常不被视为 *信念* 的条件。Raidl 和 Skovgaard-Olsen（2017）声称 Leitgeb 的稳定性条件在知识分析中更为合适，对于信念来说则是一个过于严格的条件。休谟主义论述的辩护者可能会说每个 *有理的* 信念可能是知识的一个实例。由于知识必然是稳定的，不稳定的信念 *ipso facto* 不被认为是知识。
 
 Leitgeb 证明了 Hume 论题、演绎力和弱 Locke 论题之间的以下关系。
 
@@ -767,277 +766,277 @@ AGM 的粉丝们会遗憾地发现，Shoham 修订不满足 AGM 保持性（合�
 
 ## Bibliography
 
-* Alchourrón, Carlos E. & Gärdenfors, Peter & Makinson, David, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions,” _Journal of Symbolic Logic_, 50: 510–530.
-* Allais, Maurice, 1953, “Le comportement de l’homme rationnel devant le risque: Critique des postulats et axiomes de l’ecole americaine,” _Econometrica_, 21(4): 503–546.
-* Arló-Costa, Horacio, 1999, “Qualitative and Probabilistic Models of Full Belief,” in S.R. Buss, P. Hájek and P. Pudlák (eds.), _Proceedings of Logic Colloquium_ (Volume 98), pp. 25–43.
-* Arló-Costa, Horacio and Arthur Paul Pedersen, 2012, “Belief and Probability: A General Theory of Probability Cores,” _International Journal of Approximate Reasoning_, 53(3): 293–315.
-* Armendt, Brad, 1980, “Is There a Dutch Book Argument for Probability Kinematics?” _Philosophy of Science_, 47: 583–588.
-* –––, 1993, “Dutch Book, Additivity, and Utility Theory,” _Philosophical Topics_, 21: 1–20.
-* Arntzenius, Frank, 2003, “Some Problems for Conditionalization and Reflection,” _Journal of Philosophy_, 100: 356–371.
-* Bacon, Francis, 1620 \[2000], _The New Organon_, L. Jardine and M. Silverthorne (eds.), Cambrdige: Cambridge University Press.
-* Baltag, Alexandru, Moss, Larry and Solecki, Stawomir, 1998, “The logic of public announcements, common knowledge, and private suspicions,” in I. Gilboa (ed.) _Proceedings of the 7th conference on the theoretical aspects of rationality and knowledge_ (TARK ’98), San Francisco: Morgan Kaufmann, pp. 43–56.
-* Bjorndahl, Adam and Özgün, Aybüke, forthcoming, “Logic and Topology for Knowledge, Knowability, and Belief,” _The Review of Symbolic Logic_, first online 09 October 2019. doi:10.1017/S1755020319000509
-* Bostrom, Nick, 2007, “Sleeping Beauty and Self-Location: a Hybrid Model,” _Synthese_, 157: 59–78.
-* Boutilier, Craig, 1996, “Iterated Revision and Minimal Change of Conditional Beliefs,” _Journal of Philosophical Logic_, 25: 263–305.
-* Bradley, Darren, 2012, “Four Problems about Self-Locating Belief,” _Philosophical Review_, 121: 149–177.
-* Brössel, Peter & Eder, Anna-Maria & Huber, Franz, 2013, “Evidential Support and Instrumental Rationality,” _Philosophy and Phenomenological Research_, 87: 279–300.
-* Briggs, R.A., 2009a, “Distorted Reflection,” _Philosophical Review_, 118: 59–85.
-* –––, 2009b, “The Big Bad Bug Bites Anti-Realists About Chance,” _Synthese_, 167: 81–92.
-* Buchak, Lara, 2013, _Risk and Rationality_, Oxford: Oxford University Press.
-* –––, 2014, “Belief, credence, and norms” _Philosophical Studies_, 169(2): 285–311.
-* Carnap, Rudolf, 1962, _Logical Foundations of Probability_, 2nd edition, Chicago: University of Chicago Press.
-* Christensen, David, 1996, “Dutch-Book Arguments Depragmatized: Epistemic Consistency for Partial Believers,” _Journal of Philosophy_, 93: 450–479.
-* –––, 2004, _Putting Logic in Its Place. Formal Constraints on Rational Belief_, Oxford: Oxford University Press.
-* Cox, Richard T., 1946, “Probability, Frequency, and Reasonable Expectation,” _American Journal of Physics_, 14: 1–13.
-* Darwiche, Adnan & Pearl, Judea, 1997, “On the Logic of Iterated Belief Revision,” _Artificial Intelligence_, 89: 1–29.
-* De Finetti, Bruno, 1937, “Le prévision: ses lois logiques, ses sources subjectives,” in _Annales de l’institut Henri Poincaré_, 7: 1–68.
-* –––, 1970, _Theory of Probability_, New York: Wiley.
-* –––, 1972, _Probability, Induction and Statistics_, New York: Wiley.
-* Dempster, Arthur P., 1968, “A Generalization of Bayesian Inference,” _Journal of the Royal Statistical Society_ (Series B, Methodological), 30: 205–247.
-* Dietrich, Franz and Christian List, 2016, “Probabilistic Opinion Pooling,” in A. Hájek and C.R. Hitchcock (eds.), _Oxford Handbook of Philosophy and Probability_, Oxford: Oxford University Press.
-* Dorst, Kevin, 2017, “Lockeans Maximize Expected Accuracy,” _Mind_, 128(509): 175– 211.
-* Douven, Igor, 2002, “A New Solution to the Paradoxes of Rational Acceptability,” _British Journal for the Philosophy of Science_, 53(3): 391–401.
-* Douven, Igor and Hans Rott, 2018, “From Probabilities to Categorical Beliefs: Going Beyond Toy Models,” _Journal of Logic and Computation_, 28(6): 1099–1124.
-* Douven, Igor and Timothy Williamson, 2006, “Generalizing the Lottery Paradox” _British Journal for the Philosophy of Science_, 57(4): 755–779.
-* Doyle, Jon, 1979, “A Truth Maintenance System,” _Artificial Intelligence_, 12(3): 231–272.
-* –––, 1992, “Reason Maintenance and Belief Revision: Foundations vs. Coherence Theories,” in P. Gärdenfors (ed.), _Belief Revision_ (Cambridge Tracts in Theoretical Computer Science), Cambridge: Cambridge University Press, 29–52.
-* Dubois, Didier & Prade, Henri, 1988, _Possibility Theory_, _An Approach to Computerized Processing of Uncertainty_, New York: Plenum.
-* –––, 2009, “Accepted Beliefs, Revision, and Bipolarity in the Possibilistic Framework,” in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* Earman, John, 1992, _Bayes or Bust?: a critical examination of Bayesian confirmation theory_, Cambridge, MA: MIT Press.
-* Easwaran, Kenny, 2011a, “Bayesianism I: Introduction and Arguments in Favor,” _Philosophy Compass_, 6: 312–320.
-* –––, 2011b, “Bayesianism II: Criticisms and Applications,” _Philosophy Compass_, 6: 321–332.
-* –––, 2015, “Dr. Truthlove, or: How I Learned to Stop Worrying and Love Bayesian Probabilities,” _Noûs_, 50(4): 816–853.
-* Easwaran, Kenny & Fitelson, Branden, 2012, “An ‘Evidentialist’ Worry About Joyce’s Argument for Probabilism,” _Dialectica_, 66: 425–433.
-* Egan, Andy, 2006, “Secondary Qualities and Self-Location,” _Philosophy and Phenomenological Research_, 72: 97–119.
-* Égré, Paul & Barberousse, Anouk, 2014, “Borel on the Heap,” _Erkenntnis_, 79: 1043–1079.
-* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem,” _Analysis_, 60: 143–147.
-* Ellsberg, Daniel, 1961, “ Risk, abiguity and the Savage axioms,” _Quarterly Journal of Economics_, 75(4): 643–669.
-* Eriksson, Lina & Hájek, Alan, 2007, “What Are Degrees of Belief?” _Studia Logica_, 86: 183–213.
-* Fagin, Ronald and Joseph Halpern, Yoram Moses, and Moshe Y. Vardi, 1995, _Reasoning about Knowledge_, Cambridge, MA: The MIT Press.
-* Field, Hartry, 1978, “A Note on Jeffrey Conditionalization,” _Philosophy of Science_, 45: 361–367.
-* Field, Hartry, forthcoming, “Vagueness, Partial Belief, and Logic”, in G. Ostertag (ed.), _Meanings and Other Things: Essays on Stephen Schiffer_, Oxford: Oxford University Press \[[Preprint available online](https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/field/Field_Vagueness-Partial-Belief-Logic.pdf)].
-* Foley, Richard, 1992, “The Epistemology of Belief and the Epistemology of Degrees of Belief,” _American Philosophical Quarterly_, 29: 111–121.
-* –––, 1993, _Working without a net: A study of egocentric epistemology_, Oxford: Oxford University Press.
-* –––, 2009, “Belief, Degrees of Belief, and the Lockean Thesis,” in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* Frankish, Keith, 2004, _Mind and Supermind_, Cambridge: Cambridge University Press.
-* –––, 2009, “Partial Belief and Flat-Out Belief,” in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* Gabbay, Dov M., 1985, “Theoretical Foundations for Non-Monotonic Reasoning in Expert Systems,” in K.R. Apt (ed.), _Logics and Models of Concurrent Systems_, NATO ASI Series 13. Berlin: Springer, 439–457.
-* Garber, Daniel, 1983, “Old Evidence and Logical Omniscience in Bayesian Confirmation Theory,” in J. Earman (ed.), _Testing Scientific Theories_ (Minnesota Studies in the Philosophy of Science: Volume 10), Minneapolis: University of Minnesota Press, 99–131.
-* Gärdenfors, Peter, 1986, “The dynamics of belief: Contractions and revisions of probability functions,” _Topoi_, 5(1): 29–37.
-* –––, 1988, _Knowledge in Flux_, _Modeling the Dynamics of Epistemic States_, Cambridge, MA: MIT Press.
-* –––, 1992, “Belief Revision: An Introduction” in Gärdenfors, P. (ed.), _Belief Revision_ (Cambridge Tracts in Theoretical Computer Science), Cambridge: Cambridge University Press, 1–29.
-* Gärdenfors, Peter and Makinson, David, 1988, “Revisions of Knowledge Systems Using Epistemic Entrenchment,” _Proceedings of the 2nd Conference on Theoretical Aspects of Reasoning and Knowledge_, San Francisco: Morgan Kauffman, 83–95.
-* Gärdenfors, Peter & Rott, Hans, 1995, “Belief Revision,” in D.M. Gabbay & C.J. Hogger & J.A. Robinson (eds.), _Epistemic and Temporal Reasoning_ (Handbook of Logic in Artificial Intelligence and Logic Programming: Volume 4), Oxford: Clarendon Press, 35–132.
-* Genin, Konstantin, 2019, “Full and Partial Belief,” in R. Pettigrew and J. Weisberg (eds.), _The Open Handbook of Formal Epistemology_, PhilPapers Foundation, pp. 437–498; [Genin 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
-* Genin, Konstantin and Kelly, Kevin T., 2018, “Theory Choice, Theory Change, and Inductive Truth-Conduciveness,” _Studia Logica_, 107: 949–989.
-* Gettier, Edmund L., 1963, “Is justified true belief knowledge?” _Analysis_, 23(6): 121–123.
-* Giang, Phan H. & Shenoy, Prakash P., 2000, “A Qualitative Linear Utility Theory for Spohn’s Theory of Epistemic Beliefs,” in C. Boutilier & M. Goldszmidt (eds.), _Uncertainty in Artificial Intelligence_ (Volume 16), San Francisco: Morgan Kaufmann, 220–229.
-* Glymour, Clark, 1980, _Theory and Evidence_, Princeton: Princeton University Press.
-* Goldblatt, Robert, 2005, “ Mathematical modal logic: A view of its evolution, _Handbook of the History of Logic_ (Volume 6), D. Gabbay and J. Woods (eds.), Amsterdam: North-Holland, pp. 1–98.
-* Greaves, Hilary & Wallace, David, 2006, ”Justifying Conditionalization: Conditionalization Maximizes Expected Epistemic Utility,“ _Mind_, 115: 607–632.
-* Grove, Adam, 1988, ”Two Modellings for Theory Change,“ _Journal of Philosophical Logic_, 17: 157–170.
-* Hacking, Ian, 1967, ”Slightly More Realistic Personal Probability,“ _Philosophy of Science_, 34(4): 311–325.
-* –––, 1975, _The Emergence of Probability_, Cambridge: Cambridge University Press.
-* –––, 2001, _An Introduction to Probability and Inductive Logic_, Cambridge: Cambridge University Press.
-* Haenni, Rolf, 2009, ”Non-Additive Degrees of Belief,“ in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* Haenni, Rolf & Lehmann, Norbert, 2003, ”Probabilistic Argumentation Systems: A New Perspective on Dempster-Shafer Theory,“ _International Journal of Intelligent Systems_, 18: 93–106.
-* Hájek, Alan, 1998, ”Agnosticism Meets Bayesianism,“ _Analysis_, 58: 199–206.
-* –––, 2003, ”What Conditional Probability Could Not Be,“ _Synthese_, 137: 273–323.
-* –––, 2005, ”Scotching Dutch Books?“ _Philosophical Perspectives_, 19: 139–151.
-* –––, 2006, ”Interview on Formal Philosophy,“ in V.F. Hendricks & J. Symons (eds.), _Masses of Formal Philosophy_, Copenhagen: Automatic Press.
-* –––, 2008, ”Arguments for – or against – Probabilism?“ _British Journal for the Philosophy of Science_, 59: 793–819. Reprinted in F. Huber & C. Schmidt-Petri (2009, eds.), _Degrees of Belief_, Dordrecht: Springer, 229–251.
-* Hájek, Alan and Lin, Hanti, 2017, ”A tale of two epistemologies?“ _Res Philosophica_, 94(2): 207–232.
-* Halpern, Joseph Y., 2003, _Reasoning about Uncertainty_, Cambridge, MA: MIT Press.
-* –––, 2015, ”The Role of the Protocol in Anthropic Reasoning,“ _Ergo_, 2: 195–206.
-* Harman, Gilbert, 1986, _Change in view: Principles of Reasoning_, Cambridge, MA: MIT Press.
-* Harper, William L., 1976, ”Ramsey Test Conditionals and Iterated Belief Change,“ in W.L. Harper & C.A. Hooker (eds.), _Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science_ (Volume I), Dordrecht: D. Reidel, 117–135.
-* Hansson, Sven Ove, 1999a, ”A Survey of Non-Prioritized Belief Revision,“ _Erkenntnis_, 50: 413–427.
-* –––, 1999b, _A Textbook of Belief Dynamics: Theory Change and Database Updating_, Dordrecht: Kluwer.
-* –––, 2005, ”Interview on Formal Epistemology,“ in V.F. Hendricks & J. Symons (eds.), _Formal Philosophy_, Copenhagen: Automatic Press.
-* Hawthorne, James, 2009, ”The Lockean Thesis and the Logic of Belief,“ in F. Huber & C. Schmidt-Petri (ed.), _Degrees of Belief_, Dordrecht: Springer.
-* Hawthorne, James & Bovens, Luc, 1999, ”The _Preface_, the _Lottery_, and the Logic of Belief,“ _Mind_, 108: 241–264.
-* Hawthorne, John, 2004, _Knowledge and Lotteries_, Oxford: Oxford University Press.
-* Hempel, Carl Gustav, 1962, ”Deductive-Nomological vs. Statistical Explanation,“ in H. Feigl & G. Maxwell (eds.), _Scientific Explanation, Space and Time_ (Minnesota Studies in the Philosophy of Science: Volume 3), Minneapolis: University of Minnesota Press, 98–169.
-* Hendricks, Vincent F., 2006, _Mainstream and Formal Epistemology_, New York: Cambridge University Press.
-* Hild, Matthias, 1998, ”Auto-Epistemology and Updating,“ _Philosophical Studies_, 92: 321–361.
-* Hild, Matthias & Spohn, Wolfgang, 2008, ”The Measurement of Ranks and the Laws of Iterated Contraction,“ _Artificial Intelligence_, 172: 1195–1218.
-* Hintikka, Jaakko, 1961, _Knowledge and Belief_, _An Introduction to the Logic of the Two Notions_, Ithaca, NY: Cornell University Press. Reissued as J. Hintikka (2005), _Knowledge and Belief: An Introduction to the Logic of the Two Notions_, prepared by V.F. Hendricks & J. Symons, London: King’s College Publications.
-* Horgan, Terry, 2017, ”Troubles for Bayesian formal epistemology,“ _Res Philosophica_, 94(2): 223–255.
-* Horty, John F., 2012, _Reasons as Defaults_, Oxford: Oxford University Press.
-* Howson, Colin & Urbach, Peter, 2006, _Scientific reasoning: the Bayesian approach_, Chicago: Open Court Publishing.
-* Huber, Franz, 2006, ”Ranking Functions and Rankings on Languages,“ _Artificial Intelligence_, 170: 462–471.
-* –––, 2007, ”The Consistency Argument for Ranking Functions,“ _Studia Logica_, 86: 299–329.
-* –––, 2009, ”Belief and Degrees of Belief,“ in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer, 1–33.
-* –––, 2013a, ”Belief Revision I: The AGM Theory,“ _Philosophy Compass_, 8: 604–612.
-* –––, 2013b, ”Belief Revision II: Ranking Theory,“ _Philosophy Compass_, 8: 613–621.
-* –––, 2014, ”For True Conditionalizers Weisberg’s Paradox is a False Alarm,“ _Symposion_, 1: 111–119.
-* –––, 2018, _A Logical Introduction to Probability and Induction_, New York: Oxford University Press.
-* –––, 2019, ”Ranking Theory,“ in R. Pettigrew and J. Weisberg (eds.), _The Open Handbook of Formal Epistemology_, Philpapers Foundation, 397–436; [Huber 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
-* –––, 2020, _Belief and Counterfactuals: A Study in Means-End Philosophy_, New York: Oxford University Press.
-* Jeffrey, Richard C., 1970, ”Dracula Meets Wolfman: Acceptance vs. Partial Belief,“ in M. Swain (ed.), _Induction, Acceptance, and Rational Belief_, Dordrecht: D. Reidel, 157–185.
-* –––, 1983a, _The Logic of Decision_, 2nd edition, Chicago: University of Chicago Press.
-* –––, 1983b, ”Bayesianism with a Human Face,“ in J. Earman (ed.), _Testing Scientific Theories_ (Minnesota Studies in the Philosophy of Science: Volume 10), Minneapolis: University of Minnesota Press, 133–156.
-* –––, 2004, _Subjective Probability. The Real Thing_, Cambridge: Cambridge University Press.
-* Joyce, James M., 1998, ”A Nonpragmatic Vindication of Probabilism,“ _Philosophy of Science_, 65: 575–603.
-* –––, 1999, _The Foundations of Causal Decision Theory_, Cambridge: Cambridge University Press.
-* –––, 2005, ”How Probabilities Reflect Evidence,“ _Philosophical Perspectives_, 19: 153–178.
-* –––, 2009, ”Accuracy and Coherence: Prospects for an Alethic Epistemology of Partial Belief,“ in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* Kahneman, Daniel & Slovic, Paul & Tversky, Amos (eds.), 1982, _Judgment Under Uncertainty: Heuristics and Biases_, Cambridge: Cambridge University Press.
-* Kaplan, Mark, 1996, _Decision Theory as Philosophy_, Cambridge: Cambridge University Press.
-* Kelly, Kevin T., 1996, _The Logic of Reliable Inquiry_, Oxford: Oxford University Press.
-* –––, forthcoming, ”Beliefs, Probabilities and their Coherent Correspondence,“ in I. Douven (ed.), _Lotteries, Knowledge and Rational Belief: Essays on the Lottery Paradox_, Cambridge: Cambridge University Press.
-* Keynes, John Maynard, 1921, _A Treatise on Probability_, in _The Collected Writings of John Maynard Keynes_ (Volume 8, Elizabeth Johnson and Donald Moggridge, editors), Cambridge, Cambridge University Press, 1973.
+* Alchourrón, Carlos E. & Gärdenfors, Peter & Makinson, David, 1985, “On the Logic of Theory Change: Partial Meet Contraction and Revision Functions,” *Journal of Symbolic Logic*, 50: 510–530.
+* Allais, Maurice, 1953, “Le comportement de l’homme rationnel devant le risque: Critique des postulats et axiomes de l’ecole americaine,” *Econometrica*, 21(4): 503–546.
+* Arló-Costa, Horacio, 1999, “Qualitative and Probabilistic Models of Full Belief,” in S.R. Buss, P. Hájek and P. Pudlák (eds.), *Proceedings of Logic Colloquium* (Volume 98), pp. 25–43.
+* Arló-Costa, Horacio and Arthur Paul Pedersen, 2012, “Belief and Probability: A General Theory of Probability Cores,” *International Journal of Approximate Reasoning*, 53(3): 293–315.
+* Armendt, Brad, 1980, “Is There a Dutch Book Argument for Probability Kinematics?” *Philosophy of Science*, 47: 583–588.
+* –––, 1993, “Dutch Book, Additivity, and Utility Theory,” *Philosophical Topics*, 21: 1–20.
+* Arntzenius, Frank, 2003, “Some Problems for Conditionalization and Reflection,” *Journal of Philosophy*, 100: 356–371.
+* Bacon, Francis, 1620 \[2000], *The New Organon*, L. Jardine and M. Silverthorne (eds.), Cambrdige: Cambridge University Press.
+* Baltag, Alexandru, Moss, Larry and Solecki, Stawomir, 1998, “The logic of public announcements, common knowledge, and private suspicions,” in I. Gilboa (ed.) *Proceedings of the 7th conference on the theoretical aspects of rationality and knowledge* (TARK ’98), San Francisco: Morgan Kaufmann, pp. 43–56.
+* Bjorndahl, Adam and Özgün, Aybüke, forthcoming, “Logic and Topology for Knowledge, Knowability, and Belief,” *The Review of Symbolic Logic*, first online 09 October 2019. doi:10.1017/S1755020319000509
+* Bostrom, Nick, 2007, “Sleeping Beauty and Self-Location: a Hybrid Model,” *Synthese*, 157: 59–78.
+* Boutilier, Craig, 1996, “Iterated Revision and Minimal Change of Conditional Beliefs,” *Journal of Philosophical Logic*, 25: 263–305.
+* Bradley, Darren, 2012, “Four Problems about Self-Locating Belief,” *Philosophical Review*, 121: 149–177.
+* Brössel, Peter & Eder, Anna-Maria & Huber, Franz, 2013, “Evidential Support and Instrumental Rationality,” *Philosophy and Phenomenological Research*, 87: 279–300.
+* Briggs, R.A., 2009a, “Distorted Reflection,” *Philosophical Review*, 118: 59–85.
+* –––, 2009b, “The Big Bad Bug Bites Anti-Realists About Chance,” *Synthese*, 167: 81–92.
+* Buchak, Lara, 2013, *Risk and Rationality*, Oxford: Oxford University Press.
+* –––, 2014, “Belief, credence, and norms” *Philosophical Studies*, 169(2): 285–311.
+* Carnap, Rudolf, 1962, *Logical Foundations of Probability*, 2nd edition, Chicago: University of Chicago Press.
+* Christensen, David, 1996, “Dutch-Book Arguments Depragmatized: Epistemic Consistency for Partial Believers,” *Journal of Philosophy*, 93: 450–479.
+* –––, 2004, *Putting Logic in Its Place. Formal Constraints on Rational Belief*, Oxford: Oxford University Press.
+* Cox, Richard T., 1946, “Probability, Frequency, and Reasonable Expectation,” *American Journal of Physics*, 14: 1–13.
+* Darwiche, Adnan & Pearl, Judea, 1997, “On the Logic of Iterated Belief Revision,” *Artificial Intelligence*, 89: 1–29.
+* De Finetti, Bruno, 1937, “Le prévision: ses lois logiques, ses sources subjectives,” in *Annales de l’institut Henri Poincaré*, 7: 1–68.
+* –––, 1970, *Theory of Probability*, New York: Wiley.
+* –––, 1972, *Probability, Induction and Statistics*, New York: Wiley.
+* Dempster, Arthur P., 1968, “A Generalization of Bayesian Inference,” *Journal of the Royal Statistical Society* (Series B, Methodological), 30: 205–247.
+* Dietrich, Franz and Christian List, 2016, “Probabilistic Opinion Pooling,” in A. Hájek and C.R. Hitchcock (eds.), *Oxford Handbook of Philosophy and Probability*, Oxford: Oxford University Press.
+* Dorst, Kevin, 2017, “Lockeans Maximize Expected Accuracy,” *Mind*, 128(509): 175– 211.
+* Douven, Igor, 2002, “A New Solution to the Paradoxes of Rational Acceptability,” *British Journal for the Philosophy of Science*, 53(3): 391–401.
+* Douven, Igor and Hans Rott, 2018, “From Probabilities to Categorical Beliefs: Going Beyond Toy Models,” *Journal of Logic and Computation*, 28(6): 1099–1124.
+* Douven, Igor and Timothy Williamson, 2006, “Generalizing the Lottery Paradox” *British Journal for the Philosophy of Science*, 57(4): 755–779.
+* Doyle, Jon, 1979, “A Truth Maintenance System,” *Artificial Intelligence*, 12(3): 231–272.
+* –––, 1992, “Reason Maintenance and Belief Revision: Foundations vs. Coherence Theories,” in P. Gärdenfors (ed.), *Belief Revision* (Cambridge Tracts in Theoretical Computer Science), Cambridge: Cambridge University Press, 29–52.
+* Dubois, Didier & Prade, Henri, 1988, *Possibility Theory*, *An Approach to Computerized Processing of Uncertainty*, New York: Plenum.
+* –––, 2009, “Accepted Beliefs, Revision, and Bipolarity in the Possibilistic Framework,” in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* Earman, John, 1992, *Bayes or Bust?: a critical examination of Bayesian confirmation theory*, Cambridge, MA: MIT Press.
+* Easwaran, Kenny, 2011a, “Bayesianism I: Introduction and Arguments in Favor,” *Philosophy Compass*, 6: 312–320.
+* –––, 2011b, “Bayesianism II: Criticisms and Applications,” *Philosophy Compass*, 6: 321–332.
+* –––, 2015, “Dr. Truthlove, or: How I Learned to Stop Worrying and Love Bayesian Probabilities,” *Noûs*, 50(4): 816–853.
+* Easwaran, Kenny & Fitelson, Branden, 2012, “An ‘Evidentialist’ Worry About Joyce’s Argument for Probabilism,” *Dialectica*, 66: 425–433.
+* Egan, Andy, 2006, “Secondary Qualities and Self-Location,” *Philosophy and Phenomenological Research*, 72: 97–119.
+* Égré, Paul & Barberousse, Anouk, 2014, “Borel on the Heap,” *Erkenntnis*, 79: 1043–1079.
+* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem,” *Analysis*, 60: 143–147.
+* Ellsberg, Daniel, 1961, “ Risk, abiguity and the Savage axioms,” *Quarterly Journal of Economics*, 75(4): 643–669.
+* Eriksson, Lina & Hájek, Alan, 2007, “What Are Degrees of Belief?” *Studia Logica*, 86: 183–213.
+* Fagin, Ronald and Joseph Halpern, Yoram Moses, and Moshe Y. Vardi, 1995, *Reasoning about Knowledge*, Cambridge, MA: The MIT Press.
+* Field, Hartry, 1978, “A Note on Jeffrey Conditionalization,” *Philosophy of Science*, 45: 361–367.
+* Field, Hartry, forthcoming, “Vagueness, Partial Belief, and Logic”, in G. Ostertag (ed.), *Meanings and Other Things: Essays on Stephen Schiffer*, Oxford: Oxford University Press \[[Preprint available online](https://as.nyu.edu/content/dam/nyu-as/philosophy/documents/faculty-documents/field/Field_Vagueness-Partial-Belief-Logic.pdf)].
+* Foley, Richard, 1992, “The Epistemology of Belief and the Epistemology of Degrees of Belief,” *American Philosophical Quarterly*, 29: 111–121.
+* –––, 1993, *Working without a net: A study of egocentric epistemology*, Oxford: Oxford University Press.
+* –––, 2009, “Belief, Degrees of Belief, and the Lockean Thesis,” in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* Frankish, Keith, 2004, *Mind and Supermind*, Cambridge: Cambridge University Press.
+* –––, 2009, “Partial Belief and Flat-Out Belief,” in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* Gabbay, Dov M., 1985, “Theoretical Foundations for Non-Monotonic Reasoning in Expert Systems,” in K.R. Apt (ed.), *Logics and Models of Concurrent Systems*, NATO ASI Series 13. Berlin: Springer, 439–457.
+* Garber, Daniel, 1983, “Old Evidence and Logical Omniscience in Bayesian Confirmation Theory,” in J. Earman (ed.), *Testing Scientific Theories* (Minnesota Studies in the Philosophy of Science: Volume 10), Minneapolis: University of Minnesota Press, 99–131.
+* Gärdenfors, Peter, 1986, “The dynamics of belief: Contractions and revisions of probability functions,” *Topoi*, 5(1): 29–37.
+* –––, 1988, *Knowledge in Flux*, *Modeling the Dynamics of Epistemic States*, Cambridge, MA: MIT Press.
+* –––, 1992, “Belief Revision: An Introduction” in Gärdenfors, P. (ed.), *Belief Revision* (Cambridge Tracts in Theoretical Computer Science), Cambridge: Cambridge University Press, 1–29.
+* Gärdenfors, Peter and Makinson, David, 1988, “Revisions of Knowledge Systems Using Epistemic Entrenchment,” *Proceedings of the 2nd Conference on Theoretical Aspects of Reasoning and Knowledge*, San Francisco: Morgan Kauffman, 83–95.
+* Gärdenfors, Peter & Rott, Hans, 1995, “Belief Revision,” in D.M. Gabbay & C.J. Hogger & J.A. Robinson (eds.), *Epistemic and Temporal Reasoning* (Handbook of Logic in Artificial Intelligence and Logic Programming: Volume 4), Oxford: Clarendon Press, 35–132.
+* Genin, Konstantin, 2019, “Full and Partial Belief,” in R. Pettigrew and J. Weisberg (eds.), *The Open Handbook of Formal Epistemology*, PhilPapers Foundation, pp. 437–498; [Genin 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
+* Genin, Konstantin and Kelly, Kevin T., 2018, “Theory Choice, Theory Change, and Inductive Truth-Conduciveness,” *Studia Logica*, 107: 949–989.
+* Gettier, Edmund L., 1963, “Is justified true belief knowledge?” *Analysis*, 23(6): 121–123.
+* Giang, Phan H. & Shenoy, Prakash P., 2000, “A Qualitative Linear Utility Theory for Spohn’s Theory of Epistemic Beliefs,” in C. Boutilier & M. Goldszmidt (eds.), *Uncertainty in Artificial Intelligence* (Volume 16), San Francisco: Morgan Kaufmann, 220–229.
+* Glymour, Clark, 1980, *Theory and Evidence*, Princeton: Princeton University Press.
+* Goldblatt, Robert, 2005, “ Mathematical modal logic: A view of its evolution, *Handbook of the History of Logic* (Volume 6), D. Gabbay and J. Woods (eds.), Amsterdam: North-Holland, pp. 1–98.
+* Greaves, Hilary & Wallace, David, 2006, ”Justifying Conditionalization: Conditionalization Maximizes Expected Epistemic Utility,“ *Mind*, 115: 607–632.
+* Grove, Adam, 1988, ”Two Modellings for Theory Change,“ *Journal of Philosophical Logic*, 17: 157–170.
+* Hacking, Ian, 1967, ”Slightly More Realistic Personal Probability,“ *Philosophy of Science*, 34(4): 311–325.
+* –––, 1975, *The Emergence of Probability*, Cambridge: Cambridge University Press.
+* –––, 2001, *An Introduction to Probability and Inductive Logic*, Cambridge: Cambridge University Press.
+* Haenni, Rolf, 2009, ”Non-Additive Degrees of Belief,“ in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* Haenni, Rolf & Lehmann, Norbert, 2003, ”Probabilistic Argumentation Systems: A New Perspective on Dempster-Shafer Theory,“ *International Journal of Intelligent Systems*, 18: 93–106.
+* Hájek, Alan, 1998, ”Agnosticism Meets Bayesianism,“ *Analysis*, 58: 199–206.
+* –––, 2003, ”What Conditional Probability Could Not Be,“ *Synthese*, 137: 273–323.
+* –––, 2005, ”Scotching Dutch Books?“ *Philosophical Perspectives*, 19: 139–151.
+* –––, 2006, ”Interview on Formal Philosophy,“ in V.F. Hendricks & J. Symons (eds.), *Masses of Formal Philosophy*, Copenhagen: Automatic Press.
+* –––, 2008, ”Arguments for – or against – Probabilism?“ *British Journal for the Philosophy of Science*, 59: 793–819. Reprinted in F. Huber & C. Schmidt-Petri (2009, eds.), *Degrees of Belief*, Dordrecht: Springer, 229–251.
+* Hájek, Alan and Lin, Hanti, 2017, ”A tale of two epistemologies?“ *Res Philosophica*, 94(2): 207–232.
+* Halpern, Joseph Y., 2003, *Reasoning about Uncertainty*, Cambridge, MA: MIT Press.
+* –––, 2015, ”The Role of the Protocol in Anthropic Reasoning,“ *Ergo*, 2: 195–206.
+* Harman, Gilbert, 1986, *Change in view: Principles of Reasoning*, Cambridge, MA: MIT Press.
+* Harper, William L., 1976, ”Ramsey Test Conditionals and Iterated Belief Change,“ in W.L. Harper & C.A. Hooker (eds.), *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science* (Volume I), Dordrecht: D. Reidel, 117–135.
+* Hansson, Sven Ove, 1999a, ”A Survey of Non-Prioritized Belief Revision,“ *Erkenntnis*, 50: 413–427.
+* –––, 1999b, *A Textbook of Belief Dynamics: Theory Change and Database Updating*, Dordrecht: Kluwer.
+* –––, 2005, ”Interview on Formal Epistemology,“ in V.F. Hendricks & J. Symons (eds.), *Formal Philosophy*, Copenhagen: Automatic Press.
+* Hawthorne, James, 2009, ”The Lockean Thesis and the Logic of Belief,“ in F. Huber & C. Schmidt-Petri (ed.), *Degrees of Belief*, Dordrecht: Springer.
+* Hawthorne, James & Bovens, Luc, 1999, ”The *Preface*, the *Lottery*, and the Logic of Belief,“ *Mind*, 108: 241–264.
+* Hawthorne, John, 2004, *Knowledge and Lotteries*, Oxford: Oxford University Press.
+* Hempel, Carl Gustav, 1962, ”Deductive-Nomological vs. Statistical Explanation,“ in H. Feigl & G. Maxwell (eds.), *Scientific Explanation, Space and Time* (Minnesota Studies in the Philosophy of Science: Volume 3), Minneapolis: University of Minnesota Press, 98–169.
+* Hendricks, Vincent F., 2006, *Mainstream and Formal Epistemology*, New York: Cambridge University Press.
+* Hild, Matthias, 1998, ”Auto-Epistemology and Updating,“ *Philosophical Studies*, 92: 321–361.
+* Hild, Matthias & Spohn, Wolfgang, 2008, ”The Measurement of Ranks and the Laws of Iterated Contraction,“ *Artificial Intelligence*, 172: 1195–1218.
+* Hintikka, Jaakko, 1961, *Knowledge and Belief*, *An Introduction to the Logic of the Two Notions*, Ithaca, NY: Cornell University Press. Reissued as J. Hintikka (2005), *Knowledge and Belief: An Introduction to the Logic of the Two Notions*, prepared by V.F. Hendricks & J. Symons, London: King’s College Publications.
+* Horgan, Terry, 2017, ”Troubles for Bayesian formal epistemology,“ *Res Philosophica*, 94(2): 223–255.
+* Horty, John F., 2012, *Reasons as Defaults*, Oxford: Oxford University Press.
+* Howson, Colin & Urbach, Peter, 2006, *Scientific reasoning: the Bayesian approach*, Chicago: Open Court Publishing.
+* Huber, Franz, 2006, ”Ranking Functions and Rankings on Languages,“ *Artificial Intelligence*, 170: 462–471.
+* –––, 2007, ”The Consistency Argument for Ranking Functions,“ *Studia Logica*, 86: 299–329.
+* –––, 2009, ”Belief and Degrees of Belief,“ in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer, 1–33.
+* –––, 2013a, ”Belief Revision I: The AGM Theory,“ *Philosophy Compass*, 8: 604–612.
+* –––, 2013b, ”Belief Revision II: Ranking Theory,“ *Philosophy Compass*, 8: 613–621.
+* –––, 2014, ”For True Conditionalizers Weisberg’s Paradox is a False Alarm,“ *Symposion*, 1: 111–119.
+* –––, 2018, *A Logical Introduction to Probability and Induction*, New York: Oxford University Press.
+* –––, 2019, ”Ranking Theory,“ in R. Pettigrew and J. Weisberg (eds.), *The Open Handbook of Formal Epistemology*, Philpapers Foundation, 397–436; [Huber 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
+* –––, 2020, *Belief and Counterfactuals: A Study in Means-End Philosophy*, New York: Oxford University Press.
+* Jeffrey, Richard C., 1970, ”Dracula Meets Wolfman: Acceptance vs. Partial Belief,“ in M. Swain (ed.), *Induction, Acceptance, and Rational Belief*, Dordrecht: D. Reidel, 157–185.
+* –––, 1983a, *The Logic of Decision*, 2nd edition, Chicago: University of Chicago Press.
+* –––, 1983b, ”Bayesianism with a Human Face,“ in J. Earman (ed.), *Testing Scientific Theories* (Minnesota Studies in the Philosophy of Science: Volume 10), Minneapolis: University of Minnesota Press, 133–156.
+* –––, 2004, *Subjective Probability. The Real Thing*, Cambridge: Cambridge University Press.
+* Joyce, James M., 1998, ”A Nonpragmatic Vindication of Probabilism,“ *Philosophy of Science*, 65: 575–603.
+* –––, 1999, *The Foundations of Causal Decision Theory*, Cambridge: Cambridge University Press.
+* –––, 2005, ”How Probabilities Reflect Evidence,“ *Philosophical Perspectives*, 19: 153–178.
+* –––, 2009, ”Accuracy and Coherence: Prospects for an Alethic Epistemology of Partial Belief,“ in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* Kahneman, Daniel & Slovic, Paul & Tversky, Amos (eds.), 1982, *Judgment Under Uncertainty: Heuristics and Biases*, Cambridge: Cambridge University Press.
+* Kaplan, Mark, 1996, *Decision Theory as Philosophy*, Cambridge: Cambridge University Press.
+* Kelly, Kevin T., 1996, *The Logic of Reliable Inquiry*, Oxford: Oxford University Press.
+* –––, forthcoming, ”Beliefs, Probabilities and their Coherent Correspondence,“ in I. Douven (ed.), *Lotteries, Knowledge and Rational Belief: Essays on the Lottery Paradox*, Cambridge: Cambridge University Press.
+* Keynes, John Maynard, 1921, *A Treatise on Probability*, in *The Collected Writings of John Maynard Keynes* (Volume 8, Elizabeth Johnson and Donald Moggridge, editors), Cambridge, Cambridge University Press, 1973.
 * Kneale, William C., 1949, Probability and Induction. Oxford: Clarendon Press.
-* Kolmogorov, Andrej N., 1956, _Foundations of the Theory of Probability_, 2nd edition, New York: Chelsea Publishing Company.
-* Korb, Kevin B., 1992, ”The Collapse of Collective Defeat: Lessons from the Lottery paradox,“ in D. Hull, M. Forbes and K. Okruhlick (eds.) _Proceedings of the Biennial Meeting of the Philosophy of Science Association_ 1992(1): 230–236.
-* Krantz, David H. & Luce, Duncan R. & Suppes, Patrick & Tversky, Amos, 1971, _Foundations of Measurement_ (Volume 1), New York: Academic Press.
-* Kraus, Sarit & Lehmann, Daniel & Magidor, Menachem, 1990, ”Nonmonotonic Reasoning, Preferential Models, and Cumulative Logics,“ _Artificial Intelligence_, 40: 167–207.
-* Kripke, Saul, 1979, ”A Puzzle About Belief,“ in A. Margalit (ed.), _Meaning and Use_, Dordrecht: D. Reidel, 239–283.
-* Kroedel, Thomas, 2012, ”The Lottery Paradox, Epistemic Justification and Permissibility,“ _Analysis_, 52: 57–60.
-* Kvanvig, Jonathan L., 1994, ”A Critique of van Fraassen’s Voluntaristic Epistemology,“ _Synthese_, 98: 325–348.
-* Kyburg, Henry E. Jr., 1961, _Probability and the Logic of Rational Belief_, Middletown, CT: Wesleyan University Press.
-* –––, 1997, ”The rule of adjunction and reasonable inference,“ _The Journal of Philosophy_, 94(3): 109–125.
-* Kyburg, Henry E. Jr. & Teng, Choh Man, 2001, _Uncertain Inference_, Cambridge: Cambridge University Press.
-* Leibniz, Gottfried, 1679 \[1989], ”On the General Characteristic“ in L. Loemker (ed.), _Philosophical Papers and Letters_, second edition, Dordrecht: Kluwer.
-* Leitgeb, Hannes, 2004, _Inference on the Low Level_: _An Investigation into Deduction, Nonmonotonic Reasoning, and the Philosophy of Cognition_, Dordrecht: Kluwer.
-* –––, 2013, ”Reducing Belief Simpliciter to Degrees of Belief,“ _Annals of Pure and Applied Logic_, 164: 1338–1389.
-* –––, 2014, ”The Stability Thoery of Belief,“ _Philosophical Review_, 123: 131–171.
-* –––, 2017, _The Stability Theory of Belief_, Oxford: Oxford University Press.
-* –––, forthcoming, ”A Structural Justification of Probabilism: From Partition Invariance to Subjective Probability,“ _Philosophy of Science_, first online 24 February 2020. doi:10.1086/711570
-* Leitgeb, Hannes & Pettigrew, Richard, 2010a, ”An Objective Justification of Bayesianism I: Measuring Inaccuracy,“ _Philosophy of Science_, 77: 201–235.
-* –––, 2010b, ”An Objective Justification of Bayesianism II: The Consequences of Minimizing Inaccuracy,“ _Philosophy of Science_, 77: 236–272.
-* Levi, Isaac, 1967a, _Gambling With Truth. An Essay on Induction and the Aims of Science_, New York: Knopf.
-* –––, 1967b, ”Probability Kinematics,“ _British Journal for the Philosophy of Science_, 18: 197–209.
-* –––, 1974, ”On Indeterminate Probabilities,“ _Journal of Philosophy_, 71: 391–418.
-* –––, 1977, ”Subjunctives, Dispositions and Chances,“ _Synthese_, 34(4): 423–455.
-* –––, 1978, ”Dissonance and Consistency according to Shackle and Shafer,“ _PSA: Proceedings of the Biennial Meeting od the Philosophy of Science Association_ (Volume 2: Symposia and Invited Papers), 466–477.
-* –––, 1980, _The Enterprise of Knowledge_, Cambridge, MA: MIT Press.
-* –––, 1991, _The Fixation of Belief and its Undoing_, Cambridge: Cambridge University Press.
-* Lewis, David K., 1973, _Counterfactuals_, Oxford: Blackwell.
-* –––, 1979, ”Attitudes _De Dicto_ and _De Se_,“ _The Philosophical Review_, 88: 513–543; reprinted with postscripts in D. Lewis (1983), _Philosophical Papers_ (Volume I), Oxford: Oxford University Press, 133–159.
-* –––, 1980, ”A Subjectivist’s Guide to Objective Chance,“ in R.C. Jeffrey (ed.), _Studies in Inductive Logic and Probability_ (Volume II), Berkeley: University of Berkeley Press, 263–293; reprinted with postscripts in D. Lewis (1986), _Philosophical Papers_ (Volume II), Oxford: Oxford University Press, 83–132.
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1999, ”Why Conditionalize?“ in D. Lewis (1999), _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press, 403–407.
-* –––, 2001, ”Sleeping Beauty: Reply to Elga,“ _Analysis_, 61: 171–176.
-* Liao, Shen–yi, 2012, ”What are centered worlds?“ _The Philosophical Quarterly_, 62(247): 294–316.
-* Lin, Hanti & Kelly, Kevin T., 2012, ”Propositional Reasoning that Tracks Probabilistic Reasoning,“ _Journal of Philosophical Logic_, 41: 957–981.
-* Lin, Hanti, 2013, ”Foundations of everyday practical reasoning,“ _Journal of Philosophical Logic_, 42: 831–862.
-* –––, 2019, ”Belief Revision Theory,“ in R. Pettigrew & J. Weisberg (eds.), _The Open Handbook of Formal Epistemology_, PhilPapers Foundation pp. 349–396; [Lin 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
-* Lindström, Sten & Rabinowicz, Wlodek, 1999, ”DDL Unlimited: Dynamic Doxastic Logic for Introspective Agents,“ _Erkenntnis_, 50: 353–385.
-* Locke, John, 1690 \[1975], _An Essay Concerning Human Understanding_, Oxford: Clarendon Press.
-* Loeb, Louis E., 2002, _Stability and Justification in Hume’s Treatise_, Oxford: Oxford University Press.
-* –––, 2010, _Reflection and the Stability of Belief_, Oxford: Oxford University Press.
-* Maher, Patrick, 2002, ”Joyce’s Argument for Probabilism,“ _Philosophy of Science_, 69: 73–81.
-* –––, 2006, ”Review of David Christensen, _Putting Logic in Its Place. Formal Constraints on Rational Belief_,“ _Notre Dame Journal of Formal Logic_, 47: 133–149.
-* Mahtani, Anna, 2019, ”Imprecise Probabilities“ in R. Pettigrew and J. Weisberg (eds.), _The Open Handbook of Formal Epistemology_, PhilPapers Foundation, pp. 107–130; [Mahtani 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
-* Makinson, David, 1965, ”The Paradox of the Preface,“ _Analysis_, 25: 205–207.
-* –––, 1989, ”General Theory of Cumulative Inference,“ in M. Reinfrank & J. de Kleer & M.L. Ginsberg & E. Sandewall (eds.), _Non-Monotonic Reasoning_ (Lecture Notes in Artificial Intelligence: Volume 346), Berlin: Springer, 1–18.
-* –––, 1994, ”General Patterns in Nonmonotonic Reasoning,“ in D.M. Gabbay & C.J. Hogger & J.A. Robinson (eds.), _Nonmonotonic Reasoning and Uncertain Reasoning_ (Handbook of Logic in Artificial Intelligence and Logic Programming: Volume 3), Oxford: Clarendon Press, 35–110.
-* –––, 2009, ”Levels of Belief in Nonmonotonic Reasoning,“ in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* Makinson, David & Peter Gärdenfors, 1991, ”Relations between the Logic of Theory Change and Nonmonotonic Logic,“ A. Fuhrmann & M. Morreau (eds.), _The Logic of Theory Change_, Berlin: Springer, 185–205.
-* Makinson, David and James Hawthorne, 2015 ”Lossy Inference Rules and their Bounds“ in A. Koslow and A. Buchsbaum (eds.) _The Road to Universal Logic_, Cham: Springer, pp. 385–407.
-* Meacham, Christopher, 2008, ”Sleeping Beauty and the Dynamics of _De Se_ Belief,“ _Philosophical Studies_, 138: 245–269.
-* Meacham, Christopher & Weisberg, Jonathan, 2011, ”Representation Theorems and the Foundations of Decision Theory,“ _Australasian Journal of Philosophy_, 89: 641–663.
-* Moss, Sarah, 2013, ”Epistemology Formalized,“ _Philosophical Review_, 122: 1–43.
-* –––, 2018, _Probabilistic Knowledge_, Oxford University Press.
-* Moon, Andrew, 2017, ”Beliefs do not come in degrees,“ _Canadian Journal of Philosophy_, 47(6): 760–778.
-* Moore, Robert C., 1985, ”Semantical considerations on nonmonotonic logic,“ _Artificial Intelligence_, 25(1): 75–94.
-* Nayak, Abhaya C., 1994, ”Iterated Belief Change Based on Epistemic Entrenchment,“ _Erkenntnis_, 41: 353–390.
-* Nelkin, Dana K., 2000, ”The Lottery Paradox, Knowledge and Rationality,“ _The Philosophical Review_, 109(3): 373–409.
-* Niiniluoto, Ilkka, 1983, ”Novel Facts and Bayesianism,“ _British Journal for the Philosophy of Science_, 34: 375–379.
-* Ninan, Dilip, 2010, ”_De Se_ Attitudes: Ascription and Communication,“ _Philosophy Compass_, 5: 551–567.
-* Paris, Jeff B., 1994, _The Uncertain Reasoner’s Companion — A Mathematical Perspective_ (Cambridge Tracts in Theoretical Computer Science: Volume 39), Cambridge: Cambridge University Press.
-* –––, 2001, ”A Note on the Dutch Book Method,“ _Proceedings of the Second International Symposium on Imprecise Probabilities and their Applications_, Ithaca, NY: Shaker.
-* Pascal, Blaise, ca. 1658 \[2004], ”Discourse on the Machine“ in R. Ariew (ed. and trans.), _Pensées_, Indianapolis: Hackett.
-* Paxson Jr., Thomas and Keith Lehrer, 1969, ”Knowledge: Undefeated Justified True Belief,“ _The Journal of Philosophy_, 66(8): 373– 409.
-* Percival, Philip, 2002, ”Epistemic Consequentialism,“ _Supplement to the Proceedings of the Aristotelian Society_, 76: 121–151.
-* Perry, John, 1979, ”The Problem of the Essential Indexical,“ _Noûs_, 13(1): 3–21.
-* Pettigrew, Richard, 2013, ”Accuracy and Evidence,“ _Dialectica_, 67: 579–596.
-* –––, 2016, _Accuracy and the Laws of Credence_, Oxford: Oxford University Press.
-* –––, 2019, ”Aggregating Incoherent Agents who Disagree,“ _Synthese_, 196: 2737–2776.
-* –––, forthcoming, ”Logical Ignorance and Logical Learning,“ _Synthese_, first online 05 June 2020. doi:10.1007/s11229-020-02699-9
-* Peirce, Charles Sanders, 1877 \[1992], ”The Fixation of Belief,“ in N. Houser and C. Kloesel (eds.), _The Essential Peirce: Selected Philosophical Writings_ (Volume 1: 1867–1893), Bloomington: Indiana University Press.
-* Plaza, Jan, 1989, ”Logics of public communication,“ in M.L. Emrich, et al. (eds.) _Proceedings of the 4th international symposium on methodologies for intelligent systems_, Oak Ridge, TN: Oak Ridge National Laboratory, pp. 201–216.
-* Pollock, John L., 1987, ”Defeasible Reasoning,“ _Cognitive Science_, 11(4): 481–518.
-* –––, 1995, _Cognitive Carpentry_, Cambridge, MA: MIT Press.
-* –––, 2006, _Thinking about Acting: Logical Foundations for Rational Decision Making_, Oxford: Oxford University Press.
-* Popper, Karl R., 1955, ”Two Autonomous Axiom Systems for the Calculus of Probabilities,“ _British Journal for the Philosophy of Science_, 6: 51–57.
-* Popper, Karl Y. & Miller, David, 1983, ”A proof of the impossibility of inductive probability,“ _Nature_, 302(5910): 687.
-* Quine, Willard V.O. & Ullian, Joseph S., 1970, _The Web of Belief_, New York: Random House.
-* Quine, Willard V.O., 1990, _Pursuit of Truth_, Cambridge: Harvard University Press.
-* Raffman, Diana, 2014, _Unruly Words. A Study of Vague Language_, Oxford: Oxford University Press.
-* Raidl, Eric, 2019, ” Completenes for Counter-Doxa Conditionals Using Ranking Semantics,“ _Review of Symbolic Logic_, 12(4): 861– 891.
-* Raidl, Eric and Niels Skovgaard-Olsen, 2017, ” Bridging Ranking Theory and the Stability Theory of Belief,“ _Journal of Philosophical Logic_, 46(6): 577– 609.
-* Ramsey, Frank P., 1926, ”Truth and Probability,“ in F.P. Ramsey, _The Foundations of Mathematics and Other Logical Essays_, R.B. Braithwaite (ed.), London: Kegan, Paul, Trench, Trubner & Co., 1931, 156–198.
-* Rényi, Alfred, 1955, ”On a New Axiomatic System for Probability,“ _Acta Mathematica Academiae Scientiarum Hungaricae_, 6: 285–335.
-* –––, 1970, _Foundations of Probability_, San Francisco: Holden-Day.
-* Resnik, Michael D., 1987, _Choices: An Introduction to Decision Theory_, Minneapolis: University of Minnesota Press.
-* Ross, David, 1930, _The Right and the Good_, Oxford: Oxford University Press.
-* Rott, Hans, 2001, _Change, Choice, and Inference_, _A Study of Belief Revision and Nonmonotonic Reasoning_, Oxford: Oxford University Press.
-* –––, 2009a, ”Degrees All the Way Down: Beliefs, Non-Beliefs, Disbeliefs,“ in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* –––, 2009b, ”Shifting Priorities: Simple Representations for Twenty-seven Iterated Theory Change Operators,“ in D. Makinson & J. Malinowski & H. Wansing (eds.), _Towards Mathematical Philosophy. Trends in Logic_ 28, Dordrecht: Springer, 269–296.
-* –––, 2017, ”Stability and Skepticism in the Modelling of Doxastic States: Probabilities and Plain Beliefs,“ _Minds and Machines_, 27(1): 167–197.
-* Ryan, Sharon, 1996, ”The Epistemic Virtues of Consistency,“ _Synthese_, 109(2): 121–141.
-* Savage, Leonard J., 1972, _The Foundations of Statistics_, 2nd edition, New York: Dover.
-* Schauer, Frederick, 2003, _Profiles, Probabilities and Stereotypes_, Cambridge, MA: Belknap.
-* Schurz, Gerhard, 2011, ”Abductive Belief Revision in Science,“ in E. Olsson & S. Enqvist (eds.) _Belief Revision Meets Philosophy of Science_, Dordrecht: Springer, 77–104.
-* Segerberg, Krister, 1995, ”Belief Revision from the Point of View of Doxastic Logic,“ _Bulletin of the IGPL_, 3: 535–553.
-* –––, 1999, ”Two Traditions in the Logic of Belief: Bringing them Together,“ in H.J Ohlbach and U. Reyle (eds.), _Logic, Language and Reasoning: Essays in Honor of Dov Gabbay_, Dordrecht: Kluwer Academic Plublishers, pp. 135–147.
-* Shackle, George L.S., 1949, _Expectation in Economics_, Cambridge: Cambridge University Press.
-* –––, 1969, _Decision, Order, and Time_, 2nd ed. Cambridge: Cambridge University Press.
-* Shafer, Glenn, 1976, _A Mathematical Theory of Evidence_, Princteton, NJ: Princeton University Press.
-* Shear, Ted and Branden Fitelson, 2018, ”Two Approaches to Belief Revision,“ _Erkenntnis_, 84(3): 487–518.
-* Shenoy, Prakash P., 1991, ”On Spohn’s Rule for Revision of Beliefs,“ _International Journal for Approximate Reasoning_, 5: 149–181.
-* Shoham, Yoav, 1987, ”A semantical approach to nonmonotonic logics,’ in M. Ginsberg (ed.), _Readings in Nonmonotonic Reasoning_, San Francisco: Morgan Kaufmann, 227–250.
-* Skyrms, Brian, 1984, _Pragmatism and Empiricism_, New Haven: Yale University Press.
-* –––, 1987, “Dynamic Coherence and Probability Kinematics,” _Philosophy of Science_, 54: 1–20.
-* –––, 2000 _Choice and Chance: An Introduction to Inductive Logic_, Belmont, CA: Wadsworth.
-* –––, 2006, “Diachronic Coherence and Radical Probabilism,” _Philosophy of Science_, 73: 959–968; reprinted in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer, 2009.
-* –––, 2011, “Resiliency, Propensities and Causal Necessity,” in A. Eagle (ed), _Philosophy of Probability: Contemporary Readings_, London: Routledge, 529–536.
-* Smets, Philippe, 2002, “Showing Why Measures of Quantified Beliefs are Belief Functions,” in B. Bouchon & L. Foulloy & R.R. Yager (eds.), _Intelligent Systems for Information Processing: From Representation to Applications_, Amsterdam: Elsevier, 265–276.
-* Smets, Philippe & Kennes, Robert, 1994, “The Transferable Belief Model,” _Artifical Intelligence_, 66: 191–234.
-* Spohn, Wolfgang, 1986, “On the Representation of Popper Measures,” _Topoi_, 5: 69–74.
-* –––, 1988, “Ordinal Conditional Functions: A Dynamic Theory of Epistemic States,” in W.L. Harper & B. Skyrms (eds.), _Causation in Decision, Belief Change, and Statistics_ (Volume II), Dordrecht: Kluwer, 105–134.
-* –––, 1990, “A General Non-Probabilistic Theory of Inductive Reasoning,” in R.D. Shachter & T.S. Levitt & J. Lemmer & L.N. Kanal (eds.), _Uncertainty in Artificial Intelligence_ (Volume 4), Amsterdam: North-Holland, 149–158.
-* –––, 1994, “On the Properties of Conditional Independence,” in P. Humphreys (ed.), _Patrick Suppes: Scientific Philosopher_ (Volume 1: Probability and Probabilistic Causality), Dordrecht: Kluwer, 173–194.
-* –––, 2009, “A Survey of Ranking Theory,” in F. Huber & C. Schmidt-Petri (eds.), _Degrees of Belief_, Dordrecht: Springer.
-* –––, 2012, _The Laws of Belief: Ranking Theory and Its Philosophical Applications_, Oxford: Oxford University Press.
-* –––, 2017a, “Knightian Uncertainty and Ranking Theory,” _Homo Oeconomicus_, 34(4): 293–311.
-* –––, 2017b, “ The Epistemology and Auto-Epistemology of Temporal Self-Location and Forgetfulness,” _Ergo_, 4(13): 359–418
-* –––, 2020, “Defeasible Normative Reasoning,” _Synthese_, 197: 1391–1428.
-* Staffel, Julia, 2013, “Can there be reasoning with degrees of belief?” _Synthese_, 190(16): 3535–3551.
-* –––, 2016, “Beliefs, Buses and Lotteries: Why Rational Belief Can’t Be Stably High Credence,” _Philosophical Studies_, 173(7): 1721–1734.
-* –––, 2018, “How do beliefs simplify reasoning?” _Noûs_, 53(4): 937–962.
-* Stalnaker, Robert C., 1970, “Probability and Conditionality,” _Philosophy of Science_, 37: 64–80.
-* –––, 1981, “Indexical Belief,” _Synthese_, 49(1): 129–151.
-* –––, 1984, _Inquiry_, Cambridge, MA: MIT Press
-* –––, 1996, “Knowledge, Belief, and Counterfactual Reasoning in Games,” _Economics and Philosophy_, 12: 133–162.
-* –––, 2002, “Epistemic Consequentialism” _Supplement to the Proceedings of the Aristotelian Society_, 76: 153–168.
-* –––, 2003, _Ways a World Might Be_, Oxford: Oxford University Press.
-* –––, 2009, “Iterated Belief Revision,” _Erkenntnis_, 70: 189–209.
-* Sturgeon, Scott, 2008, “Reason and the Grain of Belief,” _Noûs_, 42: 139–165.
-* Teller, Paul, 1973, “Conditionalization and Observation,” _Synthese_, 26: 218–258.
-* Thoma, Johanna, 2019, “Decision Theory,” in R. Pettigrew & J. Weisberg (eds.), _The Open Handbook of Formal Epistemology_, The PhilPapers Foundation, pp. 57–106; [Thoma 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
-* Thomson, Judith Jarvis, 1986, “Liability and Individualized Evidence,” _Law and Contemporary Problems_, 49(3): 199–219.
-* Titelbaum, Michael G., 2013, _Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief_, Oxford: Oxford University Press.
-* Ullman-Margalit, Edna, 1983, “On Presumption,” _The Journal of Philosophy_, 80(3): 143–163.
-* van Ditmarsch, Hans & van der Hoek, Wiebe and Kooi, Barteld, 2007, _Dynamic Epistemic Logic_, Dordrecht: Springer.
-* van Fraassen, Bas C., 1985, “Belief and the Will,” _Journal of Philosophy_, 81: 235–256.
-* –––, 1989, _Laws and Symmetry_, Oxford: Oxford University Press.
-* –––, 1990, “Figures in a Probability Landscape,” in J.M. Dunn & A. Gupta (eds.), _Truth or Consequences_, Dordrecht: Kluwer, 345–356.
-* –––, 1995, “Belief and the Problem of Ulysses and the Sirens,” _Philosophical Studies_, 77: 7–37.
-* von Neumann, John & Morgenstern, Oskar, 1944, _Theory of Games and Economic Behavior_, Princeton: Princeton University Press.
-* von Wright, Georg Henrik, 1951, _An Essay in Modal Logic_, Amsterdam: North-Holland Publishing Company.
-* Walley, Peter, 1991, _Statistical Reasoning With Imprecise Probabilities_, New York: Chapman and Hall.
-* Weatherson, Brian, 2005, “Can We Do Without Pragmatic Encroachment?” _Philosophical Perspectives_, 19: 417–443.
-* –––, 2007, “The Bayesian and the Dogmatist,” _Proceedings of the Aristotelian Society_, 107: 169–185.
-* Weichselberger, Kurt, 2000, “The Theory of Interval-probability as a Unifying Concept for Uncertainty,” _International Journal of Approximate Reasoning_, 24: 149–170.
-* Weisberg, Jonathan, 2009, “Commutativity or Holism? A Dilemma for Jeffrey Conditionalizers,” _British Journal for the Philosophy of Science_, 60: 793–812.
-* –––, 2011, “Varieties of Bayesianism,” in D.M. Gabbay & S. Hartmann & J. Woods (eds.), _Inductive Logic_ (Handbook of the History of Logic: Volume 10), Amsterdam/New York: Elsevier, 477–551.
-* –––, 2015, “Updating, Undermining, and Independence,” _British Journal for the Philosophy of Science_, 66: 121–159.
-* Williams, Robert, 2012, “Gradational Accuracy and Nonclassical Semantics,” _Review of Symbolic Logic_, 5(4): 513–537.
-* Williamson, Timothy, 1994, _Vagueness_, New York: Routledge.
-* Zadeh, Lotfi A., 1978, “Fuzzy Sets as a Basis for a Theory of Possibility,” _Fuzzy Sets and Systems_, 1: 3–28.
+* Kolmogorov, Andrej N., 1956, *Foundations of the Theory of Probability*, 2nd edition, New York: Chelsea Publishing Company.
+* Korb, Kevin B., 1992, ”The Collapse of Collective Defeat: Lessons from the Lottery paradox,“ in D. Hull, M. Forbes and K. Okruhlick (eds.) *Proceedings of the Biennial Meeting of the Philosophy of Science Association* 1992(1): 230–236.
+* Krantz, David H. & Luce, Duncan R. & Suppes, Patrick & Tversky, Amos, 1971, *Foundations of Measurement* (Volume 1), New York: Academic Press.
+* Kraus, Sarit & Lehmann, Daniel & Magidor, Menachem, 1990, ”Nonmonotonic Reasoning, Preferential Models, and Cumulative Logics,“ *Artificial Intelligence*, 40: 167–207.
+* Kripke, Saul, 1979, ”A Puzzle About Belief,“ in A. Margalit (ed.), *Meaning and Use*, Dordrecht: D. Reidel, 239–283.
+* Kroedel, Thomas, 2012, ”The Lottery Paradox, Epistemic Justification and Permissibility,“ *Analysis*, 52: 57–60.
+* Kvanvig, Jonathan L., 1994, ”A Critique of van Fraassen’s Voluntaristic Epistemology,“ *Synthese*, 98: 325–348.
+* Kyburg, Henry E. Jr., 1961, *Probability and the Logic of Rational Belief*, Middletown, CT: Wesleyan University Press.
+* –––, 1997, ”The rule of adjunction and reasonable inference,“ *The Journal of Philosophy*, 94(3): 109–125.
+* Kyburg, Henry E. Jr. & Teng, Choh Man, 2001, *Uncertain Inference*, Cambridge: Cambridge University Press.
+* Leibniz, Gottfried, 1679 \[1989], ”On the General Characteristic“ in L. Loemker (ed.), *Philosophical Papers and Letters*, second edition, Dordrecht: Kluwer.
+* Leitgeb, Hannes, 2004, *Inference on the Low Level*: *An Investigation into Deduction, Nonmonotonic Reasoning, and the Philosophy of Cognition*, Dordrecht: Kluwer.
+* –––, 2013, ”Reducing Belief Simpliciter to Degrees of Belief,“ *Annals of Pure and Applied Logic*, 164: 1338–1389.
+* –––, 2014, ”The Stability Thoery of Belief,“ *Philosophical Review*, 123: 131–171.
+* –––, 2017, *The Stability Theory of Belief*, Oxford: Oxford University Press.
+* –––, forthcoming, ”A Structural Justification of Probabilism: From Partition Invariance to Subjective Probability,“ *Philosophy of Science*, first online 24 February 2020. doi:10.1086/711570
+* Leitgeb, Hannes & Pettigrew, Richard, 2010a, ”An Objective Justification of Bayesianism I: Measuring Inaccuracy,“ *Philosophy of Science*, 77: 201–235.
+* –––, 2010b, ”An Objective Justification of Bayesianism II: The Consequences of Minimizing Inaccuracy,“ *Philosophy of Science*, 77: 236–272.
+* Levi, Isaac, 1967a, *Gambling With Truth. An Essay on Induction and the Aims of Science*, New York: Knopf.
+* –––, 1967b, ”Probability Kinematics,“ *British Journal for the Philosophy of Science*, 18: 197–209.
+* –––, 1974, ”On Indeterminate Probabilities,“ *Journal of Philosophy*, 71: 391–418.
+* –––, 1977, ”Subjunctives, Dispositions and Chances,“ *Synthese*, 34(4): 423–455.
+* –––, 1978, ”Dissonance and Consistency according to Shackle and Shafer,“ *PSA: Proceedings of the Biennial Meeting od the Philosophy of Science Association* (Volume 2: Symposia and Invited Papers), 466–477.
+* –––, 1980, *The Enterprise of Knowledge*, Cambridge, MA: MIT Press.
+* –––, 1991, *The Fixation of Belief and its Undoing*, Cambridge: Cambridge University Press.
+* Lewis, David K., 1973, *Counterfactuals*, Oxford: Blackwell.
+* –––, 1979, ”Attitudes *De Dicto* and *De Se*,“ *The Philosophical Review*, 88: 513–543; reprinted with postscripts in D. Lewis (1983), *Philosophical Papers* (Volume I), Oxford: Oxford University Press, 133–159.
+* –––, 1980, ”A Subjectivist’s Guide to Objective Chance,“ in R.C. Jeffrey (ed.), *Studies in Inductive Logic and Probability* (Volume II), Berkeley: University of Berkeley Press, 263–293; reprinted with postscripts in D. Lewis (1986), *Philosophical Papers* (Volume II), Oxford: Oxford University Press, 83–132.
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1999, ”Why Conditionalize?“ in D. Lewis (1999), *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press, 403–407.
+* –––, 2001, ”Sleeping Beauty: Reply to Elga,“ *Analysis*, 61: 171–176.
+* Liao, Shen–yi, 2012, ”What are centered worlds?“ *The Philosophical Quarterly*, 62(247): 294–316.
+* Lin, Hanti & Kelly, Kevin T., 2012, ”Propositional Reasoning that Tracks Probabilistic Reasoning,“ *Journal of Philosophical Logic*, 41: 957–981.
+* Lin, Hanti, 2013, ”Foundations of everyday practical reasoning,“ *Journal of Philosophical Logic*, 42: 831–862.
+* –––, 2019, ”Belief Revision Theory,“ in R. Pettigrew & J. Weisberg (eds.), *The Open Handbook of Formal Epistemology*, PhilPapers Foundation pp. 349–396; [Lin 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
+* Lindström, Sten & Rabinowicz, Wlodek, 1999, ”DDL Unlimited: Dynamic Doxastic Logic for Introspective Agents,“ *Erkenntnis*, 50: 353–385.
+* Locke, John, 1690 \[1975], *An Essay Concerning Human Understanding*, Oxford: Clarendon Press.
+* Loeb, Louis E., 2002, *Stability and Justification in Hume’s Treatise*, Oxford: Oxford University Press.
+* –––, 2010, *Reflection and the Stability of Belief*, Oxford: Oxford University Press.
+* Maher, Patrick, 2002, ”Joyce’s Argument for Probabilism,“ *Philosophy of Science*, 69: 73–81.
+* –––, 2006, ”Review of David Christensen, *Putting Logic in Its Place. Formal Constraints on Rational Belief*,“ *Notre Dame Journal of Formal Logic*, 47: 133–149.
+* Mahtani, Anna, 2019, ”Imprecise Probabilities“ in R. Pettigrew and J. Weisberg (eds.), *The Open Handbook of Formal Epistemology*, PhilPapers Foundation, pp. 107–130; [Mahtani 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
+* Makinson, David, 1965, ”The Paradox of the Preface,“ *Analysis*, 25: 205–207.
+* –––, 1989, ”General Theory of Cumulative Inference,“ in M. Reinfrank & J. de Kleer & M.L. Ginsberg & E. Sandewall (eds.), *Non-Monotonic Reasoning* (Lecture Notes in Artificial Intelligence: Volume 346), Berlin: Springer, 1–18.
+* –––, 1994, ”General Patterns in Nonmonotonic Reasoning,“ in D.M. Gabbay & C.J. Hogger & J.A. Robinson (eds.), *Nonmonotonic Reasoning and Uncertain Reasoning* (Handbook of Logic in Artificial Intelligence and Logic Programming: Volume 3), Oxford: Clarendon Press, 35–110.
+* –––, 2009, ”Levels of Belief in Nonmonotonic Reasoning,“ in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* Makinson, David & Peter Gärdenfors, 1991, ”Relations between the Logic of Theory Change and Nonmonotonic Logic,“ A. Fuhrmann & M. Morreau (eds.), *The Logic of Theory Change*, Berlin: Springer, 185–205.
+* Makinson, David and James Hawthorne, 2015 ”Lossy Inference Rules and their Bounds“ in A. Koslow and A. Buchsbaum (eds.) *The Road to Universal Logic*, Cham: Springer, pp. 385–407.
+* Meacham, Christopher, 2008, ”Sleeping Beauty and the Dynamics of *De Se* Belief,“ *Philosophical Studies*, 138: 245–269.
+* Meacham, Christopher & Weisberg, Jonathan, 2011, ”Representation Theorems and the Foundations of Decision Theory,“ *Australasian Journal of Philosophy*, 89: 641–663.
+* Moss, Sarah, 2013, ”Epistemology Formalized,“ *Philosophical Review*, 122: 1–43.
+* –––, 2018, *Probabilistic Knowledge*, Oxford University Press.
+* Moon, Andrew, 2017, ”Beliefs do not come in degrees,“ *Canadian Journal of Philosophy*, 47(6): 760–778.
+* Moore, Robert C., 1985, ”Semantical considerations on nonmonotonic logic,“ *Artificial Intelligence*, 25(1): 75–94.
+* Nayak, Abhaya C., 1994, ”Iterated Belief Change Based on Epistemic Entrenchment,“ *Erkenntnis*, 41: 353–390.
+* Nelkin, Dana K., 2000, ”The Lottery Paradox, Knowledge and Rationality,“ *The Philosophical Review*, 109(3): 373–409.
+* Niiniluoto, Ilkka, 1983, ”Novel Facts and Bayesianism,“ *British Journal for the Philosophy of Science*, 34: 375–379.
+* Ninan, Dilip, 2010, ”*De Se* Attitudes: Ascription and Communication,“ *Philosophy Compass*, 5: 551–567.
+* Paris, Jeff B., 1994, *The Uncertain Reasoner’s Companion — A Mathematical Perspective* (Cambridge Tracts in Theoretical Computer Science: Volume 39), Cambridge: Cambridge University Press.
+* –––, 2001, ”A Note on the Dutch Book Method,“ *Proceedings of the Second International Symposium on Imprecise Probabilities and their Applications*, Ithaca, NY: Shaker.
+* Pascal, Blaise, ca. 1658 \[2004], ”Discourse on the Machine“ in R. Ariew (ed. and trans.), *Pensées*, Indianapolis: Hackett.
+* Paxson Jr., Thomas and Keith Lehrer, 1969, ”Knowledge: Undefeated Justified True Belief,“ *The Journal of Philosophy*, 66(8): 373– 409.
+* Percival, Philip, 2002, ”Epistemic Consequentialism,“ *Supplement to the Proceedings of the Aristotelian Society*, 76: 121–151.
+* Perry, John, 1979, ”The Problem of the Essential Indexical,“ *Noûs*, 13(1): 3–21.
+* Pettigrew, Richard, 2013, ”Accuracy and Evidence,“ *Dialectica*, 67: 579–596.
+* –––, 2016, *Accuracy and the Laws of Credence*, Oxford: Oxford University Press.
+* –––, 2019, ”Aggregating Incoherent Agents who Disagree,“ *Synthese*, 196: 2737–2776.
+* –––, forthcoming, ”Logical Ignorance and Logical Learning,“ *Synthese*, first online 05 June 2020. doi:10.1007/s11229-020-02699-9
+* Peirce, Charles Sanders, 1877 \[1992], ”The Fixation of Belief,“ in N. Houser and C. Kloesel (eds.), *The Essential Peirce: Selected Philosophical Writings* (Volume 1: 1867–1893), Bloomington: Indiana University Press.
+* Plaza, Jan, 1989, ”Logics of public communication,“ in M.L. Emrich, et al. (eds.) *Proceedings of the 4th international symposium on methodologies for intelligent systems*, Oak Ridge, TN: Oak Ridge National Laboratory, pp. 201–216.
+* Pollock, John L., 1987, ”Defeasible Reasoning,“ *Cognitive Science*, 11(4): 481–518.
+* –––, 1995, *Cognitive Carpentry*, Cambridge, MA: MIT Press.
+* –––, 2006, *Thinking about Acting: Logical Foundations for Rational Decision Making*, Oxford: Oxford University Press.
+* Popper, Karl R., 1955, ”Two Autonomous Axiom Systems for the Calculus of Probabilities,“ *British Journal for the Philosophy of Science*, 6: 51–57.
+* Popper, Karl Y. & Miller, David, 1983, ”A proof of the impossibility of inductive probability,“ *Nature*, 302(5910): 687.
+* Quine, Willard V.O. & Ullian, Joseph S., 1970, *The Web of Belief*, New York: Random House.
+* Quine, Willard V.O., 1990, *Pursuit of Truth*, Cambridge: Harvard University Press.
+* Raffman, Diana, 2014, *Unruly Words. A Study of Vague Language*, Oxford: Oxford University Press.
+* Raidl, Eric, 2019, ” Completenes for Counter-Doxa Conditionals Using Ranking Semantics,“ *Review of Symbolic Logic*, 12(4): 861– 891.
+* Raidl, Eric and Niels Skovgaard-Olsen, 2017, ” Bridging Ranking Theory and the Stability Theory of Belief,“ *Journal of Philosophical Logic*, 46(6): 577– 609.
+* Ramsey, Frank P., 1926, ”Truth and Probability,“ in F.P. Ramsey, *The Foundations of Mathematics and Other Logical Essays*, R.B. Braithwaite (ed.), London: Kegan, Paul, Trench, Trubner & Co., 1931, 156–198.
+* Rényi, Alfred, 1955, ”On a New Axiomatic System for Probability,“ *Acta Mathematica Academiae Scientiarum Hungaricae*, 6: 285–335.
+* –––, 1970, *Foundations of Probability*, San Francisco: Holden-Day.
+* Resnik, Michael D., 1987, *Choices: An Introduction to Decision Theory*, Minneapolis: University of Minnesota Press.
+* Ross, David, 1930, *The Right and the Good*, Oxford: Oxford University Press.
+* Rott, Hans, 2001, *Change, Choice, and Inference*, *A Study of Belief Revision and Nonmonotonic Reasoning*, Oxford: Oxford University Press.
+* –––, 2009a, ”Degrees All the Way Down: Beliefs, Non-Beliefs, Disbeliefs,“ in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* –––, 2009b, ”Shifting Priorities: Simple Representations for Twenty-seven Iterated Theory Change Operators,“ in D. Makinson & J. Malinowski & H. Wansing (eds.), *Towards Mathematical Philosophy. Trends in Logic* 28, Dordrecht: Springer, 269–296.
+* –––, 2017, ”Stability and Skepticism in the Modelling of Doxastic States: Probabilities and Plain Beliefs,“ *Minds and Machines*, 27(1): 167–197.
+* Ryan, Sharon, 1996, ”The Epistemic Virtues of Consistency,“ *Synthese*, 109(2): 121–141.
+* Savage, Leonard J., 1972, *The Foundations of Statistics*, 2nd edition, New York: Dover.
+* Schauer, Frederick, 2003, *Profiles, Probabilities and Stereotypes*, Cambridge, MA: Belknap.
+* Schurz, Gerhard, 2011, ”Abductive Belief Revision in Science,“ in E. Olsson & S. Enqvist (eds.) *Belief Revision Meets Philosophy of Science*, Dordrecht: Springer, 77–104.
+* Segerberg, Krister, 1995, ”Belief Revision from the Point of View of Doxastic Logic,“ *Bulletin of the IGPL*, 3: 535–553.
+* –––, 1999, ”Two Traditions in the Logic of Belief: Bringing them Together,“ in H.J Ohlbach and U. Reyle (eds.), *Logic, Language and Reasoning: Essays in Honor of Dov Gabbay*, Dordrecht: Kluwer Academic Plublishers, pp. 135–147.
+* Shackle, George L.S., 1949, *Expectation in Economics*, Cambridge: Cambridge University Press.
+* –––, 1969, *Decision, Order, and Time*, 2nd ed. Cambridge: Cambridge University Press.
+* Shafer, Glenn, 1976, *A Mathematical Theory of Evidence*, Princteton, NJ: Princeton University Press.
+* Shear, Ted and Branden Fitelson, 2018, ”Two Approaches to Belief Revision,“ *Erkenntnis*, 84(3): 487–518.
+* Shenoy, Prakash P., 1991, ”On Spohn’s Rule for Revision of Beliefs,“ *International Journal for Approximate Reasoning*, 5: 149–181.
+* Shoham, Yoav, 1987, ”A semantical approach to nonmonotonic logics,’ in M. Ginsberg (ed.), *Readings in Nonmonotonic Reasoning*, San Francisco: Morgan Kaufmann, 227–250.
+* Skyrms, Brian, 1984, *Pragmatism and Empiricism*, New Haven: Yale University Press.
+* –––, 1987, “Dynamic Coherence and Probability Kinematics,” *Philosophy of Science*, 54: 1–20.
+* –––, 2000 *Choice and Chance: An Introduction to Inductive Logic*, Belmont, CA: Wadsworth.
+* –––, 2006, “Diachronic Coherence and Radical Probabilism,” *Philosophy of Science*, 73: 959–968; reprinted in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer, 2009.
+* –––, 2011, “Resiliency, Propensities and Causal Necessity,” in A. Eagle (ed), *Philosophy of Probability: Contemporary Readings*, London: Routledge, 529–536.
+* Smets, Philippe, 2002, “Showing Why Measures of Quantified Beliefs are Belief Functions,” in B. Bouchon & L. Foulloy & R.R. Yager (eds.), *Intelligent Systems for Information Processing: From Representation to Applications*, Amsterdam: Elsevier, 265–276.
+* Smets, Philippe & Kennes, Robert, 1994, “The Transferable Belief Model,” *Artifical Intelligence*, 66: 191–234.
+* Spohn, Wolfgang, 1986, “On the Representation of Popper Measures,” *Topoi*, 5: 69–74.
+* –––, 1988, “Ordinal Conditional Functions: A Dynamic Theory of Epistemic States,” in W.L. Harper & B. Skyrms (eds.), *Causation in Decision, Belief Change, and Statistics* (Volume II), Dordrecht: Kluwer, 105–134.
+* –––, 1990, “A General Non-Probabilistic Theory of Inductive Reasoning,” in R.D. Shachter & T.S. Levitt & J. Lemmer & L.N. Kanal (eds.), *Uncertainty in Artificial Intelligence* (Volume 4), Amsterdam: North-Holland, 149–158.
+* –––, 1994, “On the Properties of Conditional Independence,” in P. Humphreys (ed.), *Patrick Suppes: Scientific Philosopher* (Volume 1: Probability and Probabilistic Causality), Dordrecht: Kluwer, 173–194.
+* –––, 2009, “A Survey of Ranking Theory,” in F. Huber & C. Schmidt-Petri (eds.), *Degrees of Belief*, Dordrecht: Springer.
+* –––, 2012, *The Laws of Belief: Ranking Theory and Its Philosophical Applications*, Oxford: Oxford University Press.
+* –––, 2017a, “Knightian Uncertainty and Ranking Theory,” *Homo Oeconomicus*, 34(4): 293–311.
+* –––, 2017b, “ The Epistemology and Auto-Epistemology of Temporal Self-Location and Forgetfulness,” *Ergo*, 4(13): 359–418
+* –––, 2020, “Defeasible Normative Reasoning,” *Synthese*, 197: 1391–1428.
+* Staffel, Julia, 2013, “Can there be reasoning with degrees of belief?” *Synthese*, 190(16): 3535–3551.
+* –––, 2016, “Beliefs, Buses and Lotteries: Why Rational Belief Can’t Be Stably High Credence,” *Philosophical Studies*, 173(7): 1721–1734.
+* –––, 2018, “How do beliefs simplify reasoning?” *Noûs*, 53(4): 937–962.
+* Stalnaker, Robert C., 1970, “Probability and Conditionality,” *Philosophy of Science*, 37: 64–80.
+* –––, 1981, “Indexical Belief,” *Synthese*, 49(1): 129–151.
+* –––, 1984, *Inquiry*, Cambridge, MA: MIT Press
+* –––, 1996, “Knowledge, Belief, and Counterfactual Reasoning in Games,” *Economics and Philosophy*, 12: 133–162.
+* –––, 2002, “Epistemic Consequentialism” *Supplement to the Proceedings of the Aristotelian Society*, 76: 153–168.
+* –––, 2003, *Ways a World Might Be*, Oxford: Oxford University Press.
+* –––, 2009, “Iterated Belief Revision,” *Erkenntnis*, 70: 189–209.
+* Sturgeon, Scott, 2008, “Reason and the Grain of Belief,” *Noûs*, 42: 139–165.
+* Teller, Paul, 1973, “Conditionalization and Observation,” *Synthese*, 26: 218–258.
+* Thoma, Johanna, 2019, “Decision Theory,” in R. Pettigrew & J. Weisberg (eds.), *The Open Handbook of Formal Epistemology*, The PhilPapers Foundation, pp. 57–106; [Thoma 2019 available online](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf).
+* Thomson, Judith Jarvis, 1986, “Liability and Individualized Evidence,” *Law and Contemporary Problems*, 49(3): 199–219.
+* Titelbaum, Michael G., 2013, *Quitting Certainties: A Bayesian Framework Modeling Degrees of Belief*, Oxford: Oxford University Press.
+* Ullman-Margalit, Edna, 1983, “On Presumption,” *The Journal of Philosophy*, 80(3): 143–163.
+* van Ditmarsch, Hans & van der Hoek, Wiebe and Kooi, Barteld, 2007, *Dynamic Epistemic Logic*, Dordrecht: Springer.
+* van Fraassen, Bas C., 1985, “Belief and the Will,” *Journal of Philosophy*, 81: 235–256.
+* –––, 1989, *Laws and Symmetry*, Oxford: Oxford University Press.
+* –––, 1990, “Figures in a Probability Landscape,” in J.M. Dunn & A. Gupta (eds.), *Truth or Consequences*, Dordrecht: Kluwer, 345–356.
+* –––, 1995, “Belief and the Problem of Ulysses and the Sirens,” *Philosophical Studies*, 77: 7–37.
+* von Neumann, John & Morgenstern, Oskar, 1944, *Theory of Games and Economic Behavior*, Princeton: Princeton University Press.
+* von Wright, Georg Henrik, 1951, *An Essay in Modal Logic*, Amsterdam: North-Holland Publishing Company.
+* Walley, Peter, 1991, *Statistical Reasoning With Imprecise Probabilities*, New York: Chapman and Hall.
+* Weatherson, Brian, 2005, “Can We Do Without Pragmatic Encroachment?” *Philosophical Perspectives*, 19: 417–443.
+* –––, 2007, “The Bayesian and the Dogmatist,” *Proceedings of the Aristotelian Society*, 107: 169–185.
+* Weichselberger, Kurt, 2000, “The Theory of Interval-probability as a Unifying Concept for Uncertainty,” *International Journal of Approximate Reasoning*, 24: 149–170.
+* Weisberg, Jonathan, 2009, “Commutativity or Holism? A Dilemma for Jeffrey Conditionalizers,” *British Journal for the Philosophy of Science*, 60: 793–812.
+* –––, 2011, “Varieties of Bayesianism,” in D.M. Gabbay & S. Hartmann & J. Woods (eds.), *Inductive Logic* (Handbook of the History of Logic: Volume 10), Amsterdam/New York: Elsevier, 477–551.
+* –––, 2015, “Updating, Undermining, and Independence,” *British Journal for the Philosophy of Science*, 66: 121–159.
+* Williams, Robert, 2012, “Gradational Accuracy and Nonclassical Semantics,” *Review of Symbolic Logic*, 5(4): 513–537.
+* Williamson, Timothy, 1994, *Vagueness*, New York: Routledge.
+* Zadeh, Lotfi A., 1978, “Fuzzy Sets as a Basis for a Theory of Possibility,” *Fuzzy Sets and Systems*, 1: 3–28.
 
 ## Academic Tools
 
@@ -1051,7 +1050,7 @@ AGM 的粉丝们会遗憾地发现，Shoham 修订不满足 AGM 保持性（合�
 
 * Genin, Konstantin (2017), “[How inductive is Bayesian conditioning?](http://kgenin.github.io/papers/conditioning_long.pdf)”, unpublished manuscript.
 * Heinemann, Frank (1997), “[Relative Probabilities](http://www.macroeconomics.tu-berlin.de/fileadmin/fg124/heinemann/papers/relprob.pdf),” unpublished manuscript.
-* Huber, Franz, (2007a), “[Confirmation and Induction](http://www.iep.utm.edu/c/conf-ind.htm),” in J. Fieser & B. Dowden (eds.), _The Internet Encyclopedia of Philosophy_.
+* Huber, Franz, (2007a), “[Confirmation and Induction](http://www.iep.utm.edu/c/conf-ind.htm),” in J. Fieser & B. Dowden (eds.), *The Internet Encyclopedia of Philosophy*.
 * Joyce, James M. (2013), “[Why Evidentialists Need Not Worry About the Accuracy Argument for Probabilism](http://www-personal.umich.edu/\~jjoyce/papers/APA201.pdf),” unpublished manuscript.
 * Pryor, James (2007), “[Uncertainty and Undermining](http://www.jimpryor.net/research/papers/Uncertainty.pdf),” unpublished manuscript.
 * Roorda, Jonathan (1995), “[Revenge of Wolfman: A Probabilistic Explication of Full Belief](http://www.princeton.edu/\~bayesway/pu/Wolfman.pdf),” unpublished manuscript.
@@ -1066,5 +1065,5 @@ AGM 的粉丝们会遗憾地发现，Shoham 修订不满足 AGM 保持性（合�
 We are grateful to Liam Kofi Bright and a very gracious anonymous reviewer for their comments and suggestions. We are also grateful to Branden Fitelson, Alan Hájek, and Wolfgang Spohn for their feedback on the previous version of this entry. We have used material from Huber (2009) and Genin (2019). Supported by the German Research Foundation through the Cluster of Excellence “Machine Learning – New Perspectives for Science”, EXC 2064/1, project number 390727645.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Konstantin Genin](https://kgenin.github.io/) <[_konstantin.genin@gmail.com_](mailto:konstantin%2egenin%40gmail%2ecom)>\
+[Konstantin Genin](https://kgenin.github.io/) <[*konstantin.genin@gmail.com*](mailto:konstantin%2egenin%40gmail%2ecom)>\
 [Franz Huber](https://philosophy.utoronto.ca/directory/franz-huber/)

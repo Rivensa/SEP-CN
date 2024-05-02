@@ -1,10 +1,9 @@
 # 形而上学中的唯名论 in metaphysics (Gonzalo Rodriguez-Pereyra)
 
-_首次发表于2008年2月11日；实质修订于2015年4月1日。_
+*首次发表于2008年2月11日；实质修订于2015年4月1日。*
 
 唯名论至少有两种形式。其中一种是对抽象对象的否定，另一种是对普遍性的否定。哲学家们经常发现有必要假设抽象对象或普遍性。因此，唯名论在至少中世纪以来的形而上学辩论中发挥了重要作用，当时引入了第二种唯名论的版本。这两种唯名论是相互独立的，可以单独持有其中一种而保持一致。然而，这两种形式的唯名论都有一些共同的动机和论证。本条目概述了这两种形式的唯名论理论。
 
- 
 ***
 
 ## 1. 什么是唯名论？
@@ -169,68 +168,68 @@ _首次发表于2008年2月11日；实质修订于2015年4月1日。_
 
 ## Bibliography
 
-* Alston, W., 1958, “Ontological Commitments”, _Philosophical Studies_, 9: 8–17.
-* Adams, R. M., 1974, “Theories of Actuality”, _Noûs_, 8: 211–31.
-* Armstrong, D. M., 1978, _Universals and Scientific Realism_, vols. I and II, Cambridge: Cambridge University Press.
-* Armstrong, D. M., 1986, “In defence of structural universals”, _Australasian Journal of Philosophy_, 64: 85–88.
-* Armstrong, D. M., 1989, _A Combinatorial Theory of Possibility_, Cambridge: Cambridge University Press.
-* Armstrong, D. M, 1997, _A World of States of Affairs_, Cambridge: Cambridge University Press.
-* Balaguer, M., 1998, “Attitudes Without Propositions”, _Philosophy and Phenomenological Research_, 58: 805–26.
-* Balaguer, M., 2004, “Platonism in Metaphysics”, _The Stanford Encyclopedia of Philosophy (Summer 2004 Edition)_, Edward N. Zalta (ed.), URL = <[Platonism in Metaphysics (Stanford Encyclopedia of Philosophy/Summer 2004 Edition)](https://plato.stanford.edu/archives/sum2004/entries/platonism/)>
-* Bealer, G., 2006, “Universals and the Defense of _Ante Rem_ Realism”, in _Universals, Concepts and Qualities. New Essays on the Meaning of Predicates_, P. F. Strawson and A. Chakrabarti (eds), Aldershot and Burlington: Ashgate, pp. 225–238.
-* Benacerraf, P., 1973, “Mathematical Truth”, _The Journal of Philosophy_, 70: 661–79.
-* Bradley, F. H., 1893, _Appearance and Reality_, Oxford: Oxford University Press.
-* Burgess, J. and Rosen, G., 1997, _A Subject with no Object_, Oxford: Oxford University Press.
-* Campbell, K., 1990, _Abstract Particulars_. Oxford and Cambridge, MA: Basil Blackwell.
-* Cresswell, M., 1972, “The World is Everything That is the Case”, _Australasian Journal of Philosophy_, 50: 1–13; page reference is to the reprint in Loux, M., 1976.
-* Daly, C., 1997, “Tropes”, in _Properties_, D. H. Mellor and A. Oliver (eds.), Oxford: Oxford University Press, pp. 140–59.
-* Devitt, M., 1980, ‘“Ostrich Nominalism” or “Mirage Realism”?’, _Pacific Philosophical Quarterly_, 61: 433–9; page reference is to the reprint in Mellor, D. H. and Oliver, A. (eds.) 1997.
-* Dummett, M., 1973, _Frege. Philosophy of Language_, London: Duckworth.
-* Ehring, D., 2011, _Tropes. Properties, Objects, and Mental Causation_, Oxford: Oxford University Press.
-* Field, H., 1980, _Science Without Numbers: A Defence of Nominalism_, Oxford: Basil Blackwell.
-* Field, H., 1989, _Realism, Mathematics & Modality_, Oxford: Basil Blackwell.
-* Forrest, P., 1986a, “Ways Worlds Could Be”, _Australasian Journal of Philosophy_, 64: 15–24.
-* Forrest, P., 1986b, “Neither Magic nor Mereology”, _Australasian Journal of Philosophy_, 64: 89–91.
-* Goodman, N., 1972, “A World of Individuals”, in his _Problems and Projects_, Indianapolis and New York: The Bobbs-Merrill Company, Inc., pp. 155–72.
-* Goodman, N., 1986, “Nominalisms”, in _The Philosophy of W. V. Quine_, L. E. Hahn and P. A. Schilpp (eds.), Open Court: La Salle, Illinois, pp. 159–61.
-* Goodman, N. and Quine, W. V. O., 1947, “Steps Toward a Constructive Nominalism”, _The Journal of Symbolic Logic_, 12: 105–22.
-* Hale, B., 1987, _Abstract Objects_. Oxford and New York: Basil Blackwell.
-* Jubien, M., 2001, “Propositions and the Objects of Thought”, _Philosophical Studies_, 104: 47–62.
-* Keinänen, M., 2005, _Trope Theories and the Problem of Universals_, Helsinki: University of Helsinki Press.
-* King, J., 2007, _The Nature and Structure of Content_. Oxford: Oxford University Press.
-* Lewis, D., 1983, “New Work for a Theory of Universals”, _Australasian Journal of Philosophy_, 61: 343–77.
-* Lewis, D., 1986a, _On the Plurality of Worlds_, Oxford: Blackwell.
-* Lewis, D., 1986b, “Against Structural Universals”, _Australasian Journal of Philosophy_, 64: 25–46.
-* Linsky, B. and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives,_ 8: 431–458.
-* Loux, M., 1976, _The Possible and the Actual_, Ithaca and London: Cornell University Press.
-* Loux, M., 1998, _Metaphysics. Contemporary Introduction_, London and New York: Routledge.
-* Lowe, E. J., 1995, “The Metaphysics of Abstract Objects”, _The Journal of Philosophy_, 92: 509–524.
-* Maddy, P., 1990, _Realism in Mathematics_. Oxford: Clarendon Press.
-* Maurin, A-S., 2002, _If Tropes_, Dordrecht: Kluwer Academic Publishers.
-* Mellor, D. H. and Oliver, A. (eds.) 1997, _Properties_, Oxford: Oxford University Press.
-* Pickel, B. and Mantegani, N., 2012, “A Quinean critique of Ostrich Nominalism”, _Philosophers' Imprint_, 12(6).
-* Plantinga, A., 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
-* Plantinga, A., 2003a, “Actualism and Possible Worlds”, in his _Essays in the Metaphysics of Modality_, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 103–21.
-* Plantinga, A., 2003b, “ Two Concepts of Modality: Modal Realism and Modal Reductionism”, in his _Essays in the Metaphysics of Modality_, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 192–228.
-* Quine, W. V. O., 1947, “On Universals”, _The Journal of Symbolic Logic_, 12: 74–84.
-* Quine, W. V. O., 1960, _Word and Object_, Cambridge, MA: The M.I.T. Press.
-* Quine, W. V. O., 1964, “On What There Is”, in his _From a Logical Point of View_, Second edition, revised, Cambridge, Massachusetts: Harvard University Press, pp. 1–19.
-* Quine, W. V. O., 1969, “Propositional Objects”, in his _Ontological Relativity and Other Essays_, New York: Columbia University Press, pp. 139–60.
-* Quine, W. V. O., 1981, “Things and Their Place in Theories”, in his _Theories and Things_, Cambridge, Massachusetts: Harvard University Press, pp. 1–23.
-* Ramsey, F. P., 1925, “Universals”, _Mind_, 34: 401–417.
-* Rodriguez-Pereyra, G., 2002, _Resemblance Nominalism_. _A solution to the problem of universals_, Oxford: Clarendon Press.
-* Rodriguez-Pereyra, G., 2004, “Modal Realism and Metaphysical Nihilism”, _Mind_, 113: 683–704.
-* Rosen, G., 1990, “Modal Fictionalism”, _Mind_, 99: 327–354.
-* Rosen, G., 2001, “Abstract Objects”, _The Stanford Encyclopedia of Philosophy (Spring 2006 Edition)_, Edward N. Zalta (ed.), URL = <[Abstract Objects (Stanford Encyclopedia of Philosophy/Spring 2006 Edition)](https://plato.stanford.edu/archives/spr2006/entries/abstract-objects/)>
-* Russell, B., 1912, _The Problems of Philosophy_, London: Oxford University Press.
-* Scheffler, I., 1954, “An inscriptional approach to indirect quotation”, _Analysis_, 14: 83–90.
-* Scheffler, I., 1958, “Inscriptionalism and indirect quotation”, _Analysis_, 19: 12–18.
-* Stalnaker, R. 1987. _Inquiry_, Cambridge, MA, London, England: The MIT Press.
-* Stalnaker, R., 2003, _Ways a World Might Be_, Oxford: Clarendon Press.
-* Tugby, M., 2013, “Causal nominalism and the one over many problem”, _Analysis_, 73: 455–62.
-* Whittle, A., 2009, “Causal Nominalism”, in _Dispositions and Causes_, T. Handfield (ed.), Oxford: Oxford University Press, pp. 242–85.
-* Williams, D. C. 1953, “On the Elements of Being: I”, _Review of Metaphysics_, 7: 3–18.
-* Zalta, E., 1983, _Abstract Objects_, Dordrecht, Boston, Lancaster: D. Reidel Publishing Company.
+* Alston, W., 1958, “Ontological Commitments”, *Philosophical Studies*, 9: 8–17.
+* Adams, R. M., 1974, “Theories of Actuality”, *Noûs*, 8: 211–31.
+* Armstrong, D. M., 1978, *Universals and Scientific Realism*, vols. I and II, Cambridge: Cambridge University Press.
+* Armstrong, D. M., 1986, “In defence of structural universals”, *Australasian Journal of Philosophy*, 64: 85–88.
+* Armstrong, D. M., 1989, *A Combinatorial Theory of Possibility*, Cambridge: Cambridge University Press.
+* Armstrong, D. M, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
+* Balaguer, M., 1998, “Attitudes Without Propositions”, *Philosophy and Phenomenological Research*, 58: 805–26.
+* Balaguer, M., 2004, “Platonism in Metaphysics”, *The Stanford Encyclopedia of Philosophy (Summer 2004 Edition)*, Edward N. Zalta (ed.), URL = <[Platonism in Metaphysics (Stanford Encyclopedia of Philosophy/Summer 2004 Edition)](https://plato.stanford.edu/archives/sum2004/entries/platonism/)>
+* Bealer, G., 2006, “Universals and the Defense of *Ante Rem* Realism”, in *Universals, Concepts and Qualities. New Essays on the Meaning of Predicates*, P. F. Strawson and A. Chakrabarti (eds), Aldershot and Burlington: Ashgate, pp. 225–238.
+* Benacerraf, P., 1973, “Mathematical Truth”, *The Journal of Philosophy*, 70: 661–79.
+* Bradley, F. H., 1893, *Appearance and Reality*, Oxford: Oxford University Press.
+* Burgess, J. and Rosen, G., 1997, *A Subject with no Object*, Oxford: Oxford University Press.
+* Campbell, K., 1990, *Abstract Particulars*. Oxford and Cambridge, MA: Basil Blackwell.
+* Cresswell, M., 1972, “The World is Everything That is the Case”, *Australasian Journal of Philosophy*, 50: 1–13; page reference is to the reprint in Loux, M., 1976.
+* Daly, C., 1997, “Tropes”, in *Properties*, D. H. Mellor and A. Oliver (eds.), Oxford: Oxford University Press, pp. 140–59.
+* Devitt, M., 1980, ‘“Ostrich Nominalism” or “Mirage Realism”?’, *Pacific Philosophical Quarterly*, 61: 433–9; page reference is to the reprint in Mellor, D. H. and Oliver, A. (eds.) 1997.
+* Dummett, M., 1973, *Frege. Philosophy of Language*, London: Duckworth.
+* Ehring, D., 2011, *Tropes. Properties, Objects, and Mental Causation*, Oxford: Oxford University Press.
+* Field, H., 1980, *Science Without Numbers: A Defence of Nominalism*, Oxford: Basil Blackwell.
+* Field, H., 1989, *Realism, Mathematics & Modality*, Oxford: Basil Blackwell.
+* Forrest, P., 1986a, “Ways Worlds Could Be”, *Australasian Journal of Philosophy*, 64: 15–24.
+* Forrest, P., 1986b, “Neither Magic nor Mereology”, *Australasian Journal of Philosophy*, 64: 89–91.
+* Goodman, N., 1972, “A World of Individuals”, in his *Problems and Projects*, Indianapolis and New York: The Bobbs-Merrill Company, Inc., pp. 155–72.
+* Goodman, N., 1986, “Nominalisms”, in *The Philosophy of W. V. Quine*, L. E. Hahn and P. A. Schilpp (eds.), Open Court: La Salle, Illinois, pp. 159–61.
+* Goodman, N. and Quine, W. V. O., 1947, “Steps Toward a Constructive Nominalism”, *The Journal of Symbolic Logic*, 12: 105–22.
+* Hale, B., 1987, *Abstract Objects*. Oxford and New York: Basil Blackwell.
+* Jubien, M., 2001, “Propositions and the Objects of Thought”, *Philosophical Studies*, 104: 47–62.
+* Keinänen, M., 2005, *Trope Theories and the Problem of Universals*, Helsinki: University of Helsinki Press.
+* King, J., 2007, *The Nature and Structure of Content*. Oxford: Oxford University Press.
+* Lewis, D., 1983, “New Work for a Theory of Universals”, *Australasian Journal of Philosophy*, 61: 343–77.
+* Lewis, D., 1986a, *On the Plurality of Worlds*, Oxford: Blackwell.
+* Lewis, D., 1986b, “Against Structural Universals”, *Australasian Journal of Philosophy*, 64: 25–46.
+* Linsky, B. and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives,* 8: 431–458.
+* Loux, M., 1976, *The Possible and the Actual*, Ithaca and London: Cornell University Press.
+* Loux, M., 1998, *Metaphysics. Contemporary Introduction*, London and New York: Routledge.
+* Lowe, E. J., 1995, “The Metaphysics of Abstract Objects”, *The Journal of Philosophy*, 92: 509–524.
+* Maddy, P., 1990, *Realism in Mathematics*. Oxford: Clarendon Press.
+* Maurin, A-S., 2002, *If Tropes*, Dordrecht: Kluwer Academic Publishers.
+* Mellor, D. H. and Oliver, A. (eds.) 1997, *Properties*, Oxford: Oxford University Press.
+* Pickel, B. and Mantegani, N., 2012, “A Quinean critique of Ostrich Nominalism”, *Philosophers' Imprint*, 12(6).
+* Plantinga, A., 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
+* Plantinga, A., 2003a, “Actualism and Possible Worlds”, in his *Essays in the Metaphysics of Modality*, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 103–21.
+* Plantinga, A., 2003b, “ Two Concepts of Modality: Modal Realism and Modal Reductionism”, in his *Essays in the Metaphysics of Modality*, edited by Matthew Davidson, Oxford: Oxford University Press, pp. 192–228.
+* Quine, W. V. O., 1947, “On Universals”, *The Journal of Symbolic Logic*, 12: 74–84.
+* Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: The M.I.T. Press.
+* Quine, W. V. O., 1964, “On What There Is”, in his *From a Logical Point of View*, Second edition, revised, Cambridge, Massachusetts: Harvard University Press, pp. 1–19.
+* Quine, W. V. O., 1969, “Propositional Objects”, in his *Ontological Relativity and Other Essays*, New York: Columbia University Press, pp. 139–60.
+* Quine, W. V. O., 1981, “Things and Their Place in Theories”, in his *Theories and Things*, Cambridge, Massachusetts: Harvard University Press, pp. 1–23.
+* Ramsey, F. P., 1925, “Universals”, *Mind*, 34: 401–417.
+* Rodriguez-Pereyra, G., 2002, *Resemblance Nominalism*. *A solution to the problem of universals*, Oxford: Clarendon Press.
+* Rodriguez-Pereyra, G., 2004, “Modal Realism and Metaphysical Nihilism”, *Mind*, 113: 683–704.
+* Rosen, G., 1990, “Modal Fictionalism”, *Mind*, 99: 327–354.
+* Rosen, G., 2001, “Abstract Objects”, *The Stanford Encyclopedia of Philosophy (Spring 2006 Edition)*, Edward N. Zalta (ed.), URL = <[Abstract Objects (Stanford Encyclopedia of Philosophy/Spring 2006 Edition)](https://plato.stanford.edu/archives/spr2006/entries/abstract-objects/)>
+* Russell, B., 1912, *The Problems of Philosophy*, London: Oxford University Press.
+* Scheffler, I., 1954, “An inscriptional approach to indirect quotation”, *Analysis*, 14: 83–90.
+* Scheffler, I., 1958, “Inscriptionalism and indirect quotation”, *Analysis*, 19: 12–18.
+* Stalnaker, R. 1987. *Inquiry*, Cambridge, MA, London, England: The MIT Press.
+* Stalnaker, R., 2003, *Ways a World Might Be*, Oxford: Clarendon Press.
+* Tugby, M., 2013, “Causal nominalism and the one over many problem”, *Analysis*, 73: 455–62.
+* Whittle, A., 2009, “Causal Nominalism”, in *Dispositions and Causes*, T. Handfield (ed.), Oxford: Oxford University Press, pp. 242–85.
+* Williams, D. C. 1953, “On the Elements of Being: I”, *Review of Metaphysics*, 7: 3–18.
+* Zalta, E., 1983, *Abstract Objects*, Dordrecht, Boston, Lancaster: D. Reidel Publishing Company.
 
 ## Academic Tools
 

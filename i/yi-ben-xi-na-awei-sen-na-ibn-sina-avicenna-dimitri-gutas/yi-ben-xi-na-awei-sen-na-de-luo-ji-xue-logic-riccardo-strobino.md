@@ -1,6 +1,6 @@
 # 伊本·西那（阿维森纳）的逻辑学 logic (Riccardo Strobino)
 
-_首次发表于2018年8月15日星期三_
+*首次发表于2018年8月15日星期三*
 
 阿维森纳（980-1037 年）是阿拉伯传统中最有影响力的逻辑学家，直接或间接地。他的工作在重新定义一系列问题和学说方面起着核心作用，这些问题和学说是从古代和晚期古代逻辑学中继承下来的，尤其是亚里士多德和亚里士多德学派的传统。总的来说，阿维森纳明确地属于一个可以合理地称之为亚里士多德主义的逻辑传统，但他引入的创新宝库使他成为一个真正的新的经典人物。这个传统中的每一个后来的逻辑学家都要么批评他，要么追随他，以至于除了少数例外，亚里士多德和亚里士多德学派几乎完全从舞台上消失了。因此，阿拉伯逻辑分为两个领域和时期：阿维森纳之前和阿维森纳之后（Street 2004）。
 
@@ -8,7 +8,6 @@ _首次发表于2018年8月15日星期三_
 
 本条目旨在介绍阿维森纳逻辑的一些最具代表性的特点，没有详尽的假装。阿拉伯传统中亚里士多德 Organon 的作品和内容的标准分类（包括波菲利的《导引》以及亚里士多德的《修辞学》和《诗学》）将逻辑学的研究广泛分为两个主要领域，一个侧重于形式方面（例如，分析命题的真值条件、推理和论证结构），另一个侧重于物质方面（例如，根据术语和前提对论证进行分类，这为逻辑学的标准划分为五个领域：演绎、辩证法、诡辩、修辞学和诗学提供了基础）。本条目主要关注（i）并将（ii）的处理限制在演绎和谬误的情况下。
 
- 
 ***
 
 ## 1. 阿维森纳的逻辑作品及其来源
@@ -79,14 +78,14 @@ _首次发表于2018年8月15日星期三_
 * 阿维森纳的参照永恒性（dāʾima）
 * X1 参照单边绝对性（muṭlaqa ʿāmma）
 * X2 参照双边绝对性（muṭlaqa ḫāṣṣa, wuğūdiyya lā dāʾima）
-* Ad1descriptional unrestricted perpetuity (_ʿurfiyya ʿāmma_)
-* Xd1descriptional one-sided absoluteness (_ḥiniyya muṭlaqa_)
+* Ad1descriptional unrestricted perpetuity (*ʿurfiyya ʿāmma*)
+* Xd1descriptional one-sided absoluteness (*ḥiniyya muṭlaqa*)
 
 Alethic
 
-* Lreferential necessity (_ḍarūriyya_)
-* M1referential one-sided possibility (_mumkina ʿāmma_)
-* M2referential two-sided possibility (_mumkina ḫāṣṣa_)
+* Lreferential necessity (*ḍarūriyya*)
+* M1referential one-sided possibility (*mumkina ʿāmma*)
+* M2referential two-sided possibility (*mumkina ḫāṣṣa*)
 * Ld1 描述性无限必然性 (mašrūṭa ʿāmma)
 * Md1 描述性单边可能性 (ḥiniyya mumkina)
 
@@ -751,8 +750,8 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 | (e-D)ia      | “从来没有，要么某个 A 是 B，要么每个 C 是 D”    |
 | (i-D)oe      | “有时候，要么不是每个 A 是 B，要么没有 C 是 D”   |
 | (o-D)ee      | “并非总是，要么没有 A 是 B，要么没有 C 是 D”    |
-| (a-C)_pq_    | 始终，如果 p，则 q                     |
-| (a-C)_p_-AaB | 始终，如果 p，则每个 A 都是 B              |
+| (a-C)*pq*    | 始终，如果 p，则 q                     |
+| (a-C)*p*-AaB | 始终，如果 p，则每个 A 都是 B              |
 
 有时，需要对条件类型（luzūmī或 ittifāqī）或析取类型（排他且穷尽；排他但非穷尽；包含）进行更细致的区分。同样，有时需要确定条件语句的前提和结论（用于转换和推理关系与析取）。在这种情况下，上述缩写将扩展以包括所需的附加信息。例如，为了表达普遍肯定的排他且穷尽的析取蕴含了普遍肯定的 luzūmī条件，其中前提和结论是矛盾的，并且可以是析取的任何部分，我将写成(a-D1)a1a2 蕴含(a-Cl)a1o2，(a-Cl)a2o1，(a-Cl)o1a2 和(a-Cl)o2a1，其中上标“l”代表 luzūmī，上标数字用于跟踪析取式中它们作为条件语句的前提或结论的部分。
 
@@ -760,129 +759,129 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 
 ### Primary Sources
 
-* Aristotle, _Manṭiq Arisṭū_, edited by ʿA. Badawī, Cairo: Maktabat Dār al-kutub al-miṣriyya, 3 volumes, 1948–52 (edition of the “Arabic _Organon_” based on Ms. Paris, BNF Arabe 2346). \[[Ms. Paris, BNF Arabe 2346 scan available online](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc30263r)]
-* Avicenna (Ibn Sīnā) (d. 1037 CE), \[_**Išārāt**_], _al-Išārāt wa-t-tanbīhāt_, edited by Jacques Forget, Leiden: Brill, 1892.
-* –––, \[_**Išārāt**_**-Ṭūsī**], _al-Išārāt wa-t-tanbīhāt_, edited by S. Dunyā, 4 parts in 3 volumes, with Ṭūsī’s commentary at the bottom of the page, Cairo: Dār al-maʿārif bi-Miṣr, 1960-1968.
-* –––, _Manṭiq al-Mašriqiyyīn_, edited by M. al-Ḫāṭīb, ʿA. al-Qatlā, Cairo: al-Maktaba as-salafiyya, 1910.
-* –––, \[_**Madḫal**_], _aš-Šifāʾ, al-Manṭiq, al-Madḫal_, edited by Ğ. Š. Qanawatī, M. al-Ḫuḍayrī, A. F. al-Ahwānī, Cairo: al-Maṭbaʿa al-amīriyya, 1952.
-* –––, \[_**Burhān**_], _aš-Šifāʾ, al-Manṭiq, al-Burhān_, edited by A. ʿAfīfī, Cairo: al-Maṭbaʿa al-amīriyya, 1956.
-* –––, \[_**Safsaṭa**_], _aš-Šifāʾ, al-Manṭiq, as-Safsaṭa_, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1958.
-* –––, \[_**Ilāhiyyāt**_], _aš-Šifāʾ, al-Ilāhiyyāt_ (1), edited by Ğ. Š. Qanawatī, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960; _aš-Šifāʾ, al-Ilāhiyyāt_ (2), edited by M. Y. Mūsā, S. Dunyā, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960.
-* –––, \[_**Qiyās**_], _aš-Šifāʾ, al-Manṭiq, al-Qiyās_, edited by S. Zāyid. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1964.
-* –––, \[_**Ğadal**_], _aš-Šifāʾ, al-Manṭiq, al-Ğadal_, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1965.
-* –––, _aš-Šifāʾ, al-Manṭiq, al-ʿIbāra_, edited by M. al-Ḫuḍayrī. Cairo: al-Hayʾa al-miṣrīyya al-ʿāmma li-t-taʿlīf wa-n-našr, 1970.
-* –––, \[_**Nağāt**_], _an-Nağāt min al-ġarq fī baḥr aḍ-ḍalālāt_, edited by M. Dānešpažūh, Tehran: Entešārāt-e Dānešgāh, 1985.
-* –––, _al-Muḫtaṣar al-awsaṭ fī l-manṭiq_, edited by H. Takci, Sakarya University, Haziran, 2009.
-* –––, _Treatise on Logic. Part One of Danesh-name Alai: A Concise Philosophical Encyclopaedia and Autobiography_, edited and translated from the original Persian by F. Zabeeh, The Hague: Nijhoff, 1971.
-* –––, _The Deliverance: Logic_, translated by Asad Q. Ahmed, Karachi: Oxford University Press, 2011.
-* Bahmanyār b. al-Marzubān (d. 1066 CE), _at-Taḥsīl_, edited by Murtaḍā Muṭahharī, Tehrān: Dānešgāh-e Tehrān, 1375 SH \[1996/1997 CE].
-* al-Fārābī, Abū Naṣr (d. 950/951 CE), _Kitāb al-Burhān wa-Kitāb šarāʾiṭ al-yaqīn_, edited by M. Faḫrī. Beirut: Dār al-Mašriq, 1985.
-* Gundissalinus, Dominicus, (ca. 1110–1190 CE), _De divisione philosophiae_, edited by L. Baur, Münster: Aschendorff, 1903.
-* Ḫūnağī, Afḍal ad-Dīn (d. 1248 CE), \[_**Kašf al-asrār**_], _Kašf al-asrār ʿan ġawāmiḍ al-afkār_, edited by Khaled El-Rouayheb. Tehran-Berlin: Iranian Institute of Philosophy & Institute of Islamic Studies—Free University of Berlin, 2010.
-* Kātibī, Naǧm ad-Dīn (d. 1277 CE), \[_**Šamsiyya**_], _ar-Risāla aš-Šamsiyya_ (Logic for Šams ad-Dīn), in _Taḥtānī, Quṭb ad-Dīn ar-Rāzī, Taḥrīr al-qawāʿid al-manṭiqiyya fī šarḥ ar-Risāla aš-Šamsiyya_, Cairo: Dār Iḥyāʾ al-kutub al-ʿarabiyya, Muṣṭafā al-Bābī al-Ḥalabī, 1988.
-* Rāzī, Faḫr ad-Dīn (d. 1209 CE), _Šarḥ al-Išārāt_, edited by ʿA.R. Najafzādeh, Tehran: Anjuman Āthār wa-Mafākhir Ferhangi, 2005.
-* –––, \[_**Mulaḫḫaṣ**_], _Manṭiq al-Mulaḫḫaṣ_, edited by F. Qārāmālekī and A. Aṣgharīnezhad, Tehran: Dānešgāh-e ṣāde, 2002.
-* Ṭūsī, Naṣīr ad-Dīn (d. 1274 CE), _Asās al-iqtibās fī l-manṭiq_, Cairo, 2004 (15th-century Arabic translation from Persian).
+* Aristotle, *Manṭiq Arisṭū*, edited by ʿA. Badawī, Cairo: Maktabat Dār al-kutub al-miṣriyya, 3 volumes, 1948–52 (edition of the “Arabic *Organon*” based on Ms. Paris, BNF Arabe 2346). \[[Ms. Paris, BNF Arabe 2346 scan available online](http://archivesetmanuscrits.bnf.fr/ark:/12148/cc30263r)]
+* Avicenna (Ibn Sīnā) (d. 1037 CE), \[***Išārāt***], *al-Išārāt wa-t-tanbīhāt*, edited by Jacques Forget, Leiden: Brill, 1892.
+* –––, \[***Išārāt*****-Ṭūsī**], *al-Išārāt wa-t-tanbīhāt*, edited by S. Dunyā, 4 parts in 3 volumes, with Ṭūsī’s commentary at the bottom of the page, Cairo: Dār al-maʿārif bi-Miṣr, 1960-1968.
+* –––, *Manṭiq al-Mašriqiyyīn*, edited by M. al-Ḫāṭīb, ʿA. al-Qatlā, Cairo: al-Maktaba as-salafiyya, 1910.
+* –––, \[***Madḫal***], *aš-Šifāʾ, al-Manṭiq, al-Madḫal*, edited by Ğ. Š. Qanawatī, M. al-Ḫuḍayrī, A. F. al-Ahwānī, Cairo: al-Maṭbaʿa al-amīriyya, 1952.
+* –––, \[***Burhān***], *aš-Šifāʾ, al-Manṭiq, al-Burhān*, edited by A. ʿAfīfī, Cairo: al-Maṭbaʿa al-amīriyya, 1956.
+* –––, \[***Safsaṭa***], *aš-Šifāʾ, al-Manṭiq, as-Safsaṭa*, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1958.
+* –––, \[***Ilāhiyyāt***], *aš-Šifāʾ, al-Ilāhiyyāt* (1), edited by Ğ. Š. Qanawatī, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960; *aš-Šifāʾ, al-Ilāhiyyāt* (2), edited by M. Y. Mūsā, S. Dunyā, S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1960.
+* –––, \[***Qiyās***], *aš-Šifāʾ, al-Manṭiq, al-Qiyās*, edited by S. Zāyid. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1964.
+* –––, \[***Ğadal***], *aš-Šifāʾ, al-Manṭiq, al-Ğadal*, edited by A. F. al-Ahwānī. Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1965.
+* –––, *aš-Šifāʾ, al-Manṭiq, al-ʿIbāra*, edited by M. al-Ḫuḍayrī. Cairo: al-Hayʾa al-miṣrīyya al-ʿāmma li-t-taʿlīf wa-n-našr, 1970.
+* –––, \[***Nağāt***], *an-Nağāt min al-ġarq fī baḥr aḍ-ḍalālāt*, edited by M. Dānešpažūh, Tehran: Entešārāt-e Dānešgāh, 1985.
+* –––, *al-Muḫtaṣar al-awsaṭ fī l-manṭiq*, edited by H. Takci, Sakarya University, Haziran, 2009.
+* –––, *Treatise on Logic. Part One of Danesh-name Alai: A Concise Philosophical Encyclopaedia and Autobiography*, edited and translated from the original Persian by F. Zabeeh, The Hague: Nijhoff, 1971.
+* –––, *The Deliverance: Logic*, translated by Asad Q. Ahmed, Karachi: Oxford University Press, 2011.
+* Bahmanyār b. al-Marzubān (d. 1066 CE), *at-Taḥsīl*, edited by Murtaḍā Muṭahharī, Tehrān: Dānešgāh-e Tehrān, 1375 SH \[1996/1997 CE].
+* al-Fārābī, Abū Naṣr (d. 950/951 CE), *Kitāb al-Burhān wa-Kitāb šarāʾiṭ al-yaqīn*, edited by M. Faḫrī. Beirut: Dār al-Mašriq, 1985.
+* Gundissalinus, Dominicus, (ca. 1110–1190 CE), *De divisione philosophiae*, edited by L. Baur, Münster: Aschendorff, 1903.
+* Ḫūnağī, Afḍal ad-Dīn (d. 1248 CE), \[***Kašf al-asrār***], *Kašf al-asrār ʿan ġawāmiḍ al-afkār*, edited by Khaled El-Rouayheb. Tehran-Berlin: Iranian Institute of Philosophy & Institute of Islamic Studies—Free University of Berlin, 2010.
+* Kātibī, Naǧm ad-Dīn (d. 1277 CE), \[***Šamsiyya***], *ar-Risāla aš-Šamsiyya* (Logic for Šams ad-Dīn), in *Taḥtānī, Quṭb ad-Dīn ar-Rāzī, Taḥrīr al-qawāʿid al-manṭiqiyya fī šarḥ ar-Risāla aš-Šamsiyya*, Cairo: Dār Iḥyāʾ al-kutub al-ʿarabiyya, Muṣṭafā al-Bābī al-Ḥalabī, 1988.
+* Rāzī, Faḫr ad-Dīn (d. 1209 CE), *Šarḥ al-Išārāt*, edited by ʿA.R. Najafzādeh, Tehran: Anjuman Āthār wa-Mafākhir Ferhangi, 2005.
+* –––, \[***Mulaḫḫaṣ***], *Manṭiq al-Mulaḫḫaṣ*, edited by F. Qārāmālekī and A. Aṣgharīnezhad, Tehran: Dānešgāh-e ṣāde, 2002.
+* Ṭūsī, Naṣīr ad-Dīn (d. 1274 CE), *Asās al-iqtibās fī l-manṭiq*, Cairo, 2004 (15th-century Arabic translation from Persian).
 
 ### Secondary Sources
 
-* Ahmed, Asad Q., 2003, “Avicenna’s Reception of Aristotle’s Modal Syllogistic”, in _Before and After Avicenna_, edited by D. Reisman, Leiden: Brill, 3–24.
+* Ahmed, Asad Q., 2003, “Avicenna’s Reception of Aristotle’s Modal Syllogistic”, in *Before and After Avicenna*, edited by D. Reisman, Leiden: Brill, 3–24.
 * –––, 2008, “The Jiha/Tropos-Mādda/Hūlē Distinction in Arabic Logic and its Significance for Avicenna’s Modals”, in Rahman, Street, & Tahiri 2008: 229–253. doi:10.1007/978-1-4020-8405-8\_8
-* –––, 2011, “Systematic Growth in Sustained Error: A Case Study in the Dynamism of Post-Classical Islamic Scholasticism”, in _The Islamic Scholarly Tradition. Studies in History, Law, and Thought in Honor of Professor Michael Allan Cook_, (Islamic History and Civilization, 83), edited by Asad Q. Ahmed, Behnam Sadeghi, and Michael Bonner, Leiden: Brill, 343–378.
-* Anellis, Irving H., 2007, “‘Ibn-Sina’s Anticipation of the Formulas of Buridan and Barcan’, by Z. Movahed”, _The Review of Modern Logic_, 11(1–2): 73–86. \[[Anellis 2007 available online](https://projecteuclid.org/euclid.rml/1317305581)]
-* Bäck, Allan, 1992, “Avicenna’s Conception of the Modalities”, _Vivarium_, 30(2): 217–255. doi:10.1163/156853492X00142
-* –––, 1987, “Avicenna on Existence”, _Journal of the History of Philosophy_, 25(3): 351–367. doi:10.1353/hph.1987.0036
-* –––, 2014, _Avicenna/Ibn Sīnā: al-ʿIbāra. Avicenna’s Commentary on Aristotle’s De Interpretatione_, Munich: Philosophia Verlag.
-* Black, Deborah L., 1990, _Logic and Aristotle’s Rhetoric and Poetics in Medieval Arabic Philosophy_, Leiden: Brill.
-* –––, 2006, “Knowledge (_ʿilm_) and Certitude (_yaqīn_) in Al-Fārābī’s Epistemology”, _Arabic Sciences and Philosophy_, 16(1): 11–45. doi:10.1017/S0957423906000221
-* Chatti, Saloua, 2012, “Logical Oppositions in Arabic Logic: Avicenna and Averroes”, in _Around and Beyond the Square of Opposition_, edited by Jean-Yves Béziau and Dale Jacquette, Basel: Springer, pp. 21–40. doi:10.1007/978-3-0348-0379-3\_2
-* –––, 2014a, “Avicenna on Possibility and Necessity”, _History and Philosophy of Logic_, 35(4): 332–353. doi:10.1080/01445340.2014.916893
-* –––, 2014b, “_Syncategoremata_ in Arabic Logic, al-Fārābī and Avicenna”, _History and Philosophy of Logic_, 35(2): 167–197. doi:10.1080/01445340.2014.891372
-* –––, 2016, “Existential Import in Avicenna’s Modal Logic”, _Arabic Sciences and Philosophy_, 26(1): 45–71. doi:10.1017/S0957423915000119
-* Di Vincenzo, Silvia, 2012, “Avicenna’s _Isagoge_, Chap. I, 12, _De Universalibus_: Some Observations on the Latin Translation”, _Oriens_, 40(2): 437–476. doi:10.1163/18778372-00402009
-* Dutilh Novaes, Catarina and Stephen Read (eds), 2016, _The Cambridge Companion to Medieval Logic_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107449862
-* Dutilh Novaes, Catarina and Ole Thomassen Hjortland (eds), 2012, _Insolubles and Consequences: Essays in honour of Stephen Read_, London: College Publications.
-* Eichner, Heidrun, 2010, “Al-Fārābī and Ibn Sīnā on ‘Universal Science’ and the System of Sciences: Evidence of the Arabic Tradition of the _Posterior Analytics_”, _Documenti e studi sulla tradizione filosofica medievale_, 21: 71–95.
-* El-Rouayheb, Khaled, 2009, “Impossible Antecedents and Their Consequences: Some Thirteenth-Century Arabic Discussions”, _History and Philosophy of Logic_, 30(3): 209–225. doi:10.1080/01445340802447905
-* –––, 2010, “Introduction”, in Ḫūnağī, _Kašf al-asrār_: iii–lix.
-* –––, 2012, “Post-Avicennan Logicians on the Subject Matter of Logic: Some Thirteenth- and Fourteenth-Century Discussions”, _Arabic Sciences and Philosophy_, 22(1): 69–90. doi:10.1017/S0957423911000105
+* –––, 2011, “Systematic Growth in Sustained Error: A Case Study in the Dynamism of Post-Classical Islamic Scholasticism”, in *The Islamic Scholarly Tradition. Studies in History, Law, and Thought in Honor of Professor Michael Allan Cook*, (Islamic History and Civilization, 83), edited by Asad Q. Ahmed, Behnam Sadeghi, and Michael Bonner, Leiden: Brill, 343–378.
+* Anellis, Irving H., 2007, “‘Ibn-Sina’s Anticipation of the Formulas of Buridan and Barcan’, by Z. Movahed”, *The Review of Modern Logic*, 11(1–2): 73–86. \[[Anellis 2007 available online](https://projecteuclid.org/euclid.rml/1317305581)]
+* Bäck, Allan, 1992, “Avicenna’s Conception of the Modalities”, *Vivarium*, 30(2): 217–255. doi:10.1163/156853492X00142
+* –––, 1987, “Avicenna on Existence”, *Journal of the History of Philosophy*, 25(3): 351–367. doi:10.1353/hph.1987.0036
+* –––, 2014, *Avicenna/Ibn Sīnā: al-ʿIbāra. Avicenna’s Commentary on Aristotle’s De Interpretatione*, Munich: Philosophia Verlag.
+* Black, Deborah L., 1990, *Logic and Aristotle’s Rhetoric and Poetics in Medieval Arabic Philosophy*, Leiden: Brill.
+* –––, 2006, “Knowledge (*ʿilm*) and Certitude (*yaqīn*) in Al-Fārābī’s Epistemology”, *Arabic Sciences and Philosophy*, 16(1): 11–45. doi:10.1017/S0957423906000221
+* Chatti, Saloua, 2012, “Logical Oppositions in Arabic Logic: Avicenna and Averroes”, in *Around and Beyond the Square of Opposition*, edited by Jean-Yves Béziau and Dale Jacquette, Basel: Springer, pp. 21–40. doi:10.1007/978-3-0348-0379-3\_2
+* –––, 2014a, “Avicenna on Possibility and Necessity”, *History and Philosophy of Logic*, 35(4): 332–353. doi:10.1080/01445340.2014.916893
+* –––, 2014b, “*Syncategoremata* in Arabic Logic, al-Fārābī and Avicenna”, *History and Philosophy of Logic*, 35(2): 167–197. doi:10.1080/01445340.2014.891372
+* –––, 2016, “Existential Import in Avicenna’s Modal Logic”, *Arabic Sciences and Philosophy*, 26(1): 45–71. doi:10.1017/S0957423915000119
+* Di Vincenzo, Silvia, 2012, “Avicenna’s *Isagoge*, Chap. I, 12, *De Universalibus*: Some Observations on the Latin Translation”, *Oriens*, 40(2): 437–476. doi:10.1163/18778372-00402009
+* Dutilh Novaes, Catarina and Stephen Read (eds), 2016, *The Cambridge Companion to Medieval Logic*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781107449862
+* Dutilh Novaes, Catarina and Ole Thomassen Hjortland (eds), 2012, *Insolubles and Consequences: Essays in honour of Stephen Read*, London: College Publications.
+* Eichner, Heidrun, 2010, “Al-Fārābī and Ibn Sīnā on ‘Universal Science’ and the System of Sciences: Evidence of the Arabic Tradition of the *Posterior Analytics*”, *Documenti e studi sulla tradizione filosofica medievale*, 21: 71–95.
+* El-Rouayheb, Khaled, 2009, “Impossible Antecedents and Their Consequences: Some Thirteenth-Century Arabic Discussions”, *History and Philosophy of Logic*, 30(3): 209–225. doi:10.1080/01445340802447905
+* –––, 2010, “Introduction”, in Ḫūnağī, *Kašf al-asrār*: iii–lix.
+* –––, 2012, “Post-Avicennan Logicians on the Subject Matter of Logic: Some Thirteenth- and Fourteenth-Century Discussions”, *Arabic Sciences and Philosophy*, 22(1): 69–90. doi:10.1017/S0957423911000105
 * –––, 2016, “Arabic Logic after Avicenna”, in Dutilh Novaes and Read 2016: 67–93. doi:10.1017/CBO9781107449862.004
-* Gätje, H., 1985, “Zur Lehre von den Voraussetzungsschlüssen bei Avicenna”, _Zeitschrift für Geschichte der Arabisch-Islamischen Wissenschaften_ 2: 140–204.
-* Goichon, Anne-Marie, 1951, _Livre des directives et remarques: Kitāb al-Išārāt wa l-tanbīhāt_, Paris: Vrin.
-* Gutas Dimitri, 2012, “The Empiricism of Avicenna”, _Oriens_, 40(2): 391–436. doi:10.1163/18778372-00402008
-* –––, 2014, _Avicenna and the Aristotelian Tradition_, second edition, Leiden: Brill.
-* Gyekye, Kwame, 1972, “The Term _Istithnāʾ_ in Arabic Logic”, _Journal of the American Oriental Society_, 92(1): 88–92. doi:10.2307/599652
+* Gätje, H., 1985, “Zur Lehre von den Voraussetzungsschlüssen bei Avicenna”, *Zeitschrift für Geschichte der Arabisch-Islamischen Wissenschaften* 2: 140–204.
+* Goichon, Anne-Marie, 1951, *Livre des directives et remarques: Kitāb al-Išārāt wa l-tanbīhāt*, Paris: Vrin.
+* Gutas Dimitri, 2012, “The Empiricism of Avicenna”, *Oriens*, 40(2): 391–436. doi:10.1163/18778372-00402008
+* –––, 2014, *Avicenna and the Aristotelian Tradition*, second edition, Leiden: Brill.
+* Gyekye, Kwame, 1972, “The Term *Istithnāʾ* in Arabic Logic”, *Journal of the American Oriental Society*, 92(1): 88–92. doi:10.2307/599652
 * Hasnawi, Ahmad, 2008, “Avicenna on the quantification of the predicate (with an appendix on \[Ibn Zurʾa])”, in Rahman, Street, & Tahiri 2008: 295–328. doi:10.1007/978-1-4020-8405-8\_11
-* –––, 2013, “L’âge de la démonstration. Logique, science et histoire: al-Fārābī, Avicenne, Avempace, Averroès”, in _Circolazione dei saperi nel Mediterraneo : filosofia e scienze (secoli IX–XVII)_, edited by G. Federici Vescovini and A. Hasnawi (eds.), Firenze: Cadmo, pp. 257–281 doi:10.1400/206561
+* –––, 2013, “L’âge de la démonstration. Logique, science et histoire: al-Fārābī, Avicenne, Avempace, Averroès”, in *Circolazione dei saperi nel Mediterraneo : filosofia e scienze (secoli IX–XVII)*, edited by G. Federici Vescovini and A. Hasnawi (eds.), Firenze: Cadmo, pp. 257–281 doi:10.1400/206561
 * Hasnawi, Ahmad and Wilfrid Hodges, 2016, “Arabic Logic up to Avicenna”, in Dutilh Novaes and Read 2016: 45–66. doi: 10.1017/CBO9781107449862.003
-* Hodges, Wilfrid, 2011, “Ibn Sīnā and Conflict in Logic”, in _Logic, Mathematics, Philosophy: Vintage Enthusiasms, Essays in Honour of John L. Bell_, edited by David DeVidi, Michael Hallett and Peter Clark, Dordrecht: Springer, pp. 35–67. doi:10.1007/978-94-007-0214-1\_3
+* Hodges, Wilfrid, 2011, “Ibn Sīnā and Conflict in Logic”, in *Logic, Mathematics, Philosophy: Vintage Enthusiasms, Essays in Honour of John L. Bell*, edited by David DeVidi, Michael Hallett and Peter Clark, Dordrecht: Springer, pp. 35–67. doi:10.1007/978-94-007-0214-1\_3
 * –––, 2012, “Affirmative and Negative in Ibn Sīnā”, in Dutilh Novaes and Thomassen Hjortland 2012: 119–134.
-* –––, 2013, “Ibn Sina, Frege and the Grammar of Meanings”, _Al-Mukhatabat_, 5: 29–60. \[[Hodges 2013 available online (pdf)](https://pdfs.semanticscholar.org/cd03/7d53cf71fd029035b46e37fced5a77fe5541.pdf)]
-* –––, 2014, “Notes on the History of Scope”, in _Logic Without Borders: Essays on Set Theory, Model Theory, Philosophical Logic and Philosophy of Mathematics_, edited by Åsa Hirvonen, Juha Kontinen, Roman Kossak, and Andrés Villaveces, Boston: De Gruyter, pp. 215–239. doi:10.1515/9781614516873.215
-* –––, 2015, “The Move from One to Two Quantifiers”, in _The Road to Universal Logic: Festschrift for the 50th Birthday of Jean-Yves Béziau_, vol. 1, edited by Arnold Koslow and Arthur Buchsbaum, Basel: Birkhäuser, pp. 221–240. doi:10.1007/978-3-319-10193-4\_9
-* –––, 2017, “Ibn Sīnā on reductio ad absurdum”, _Review of Symbolic Logic_, 10(3): 587–601. doi:10.1017/S1755020316000290
-* –––, 2018, “Proofs as Cognitive or Computational: Ibn Sīnā’s Innovations”, _Philosophy and Technology_, 31(1): 131–153. doi:10.1007/s13347-016-0242-2
-* Hodges, Wilfrid and Spencer Johnston, 2017, “Medieval Modalities and Modern Methods: Avicenna and Buridan”, _IfCoLog Journal of Logics and their Applications_, 4(4): 1029–1073.
-* Hugonnard-Roche, Henri, 1984, “La classification des sciences de Gundissalinus et l’influence d’Avicenne”, in _Études sur Avicenne_, edited by Jean Jolivet and Rushdī Rashed, Paris: Les Belles Lettres, 41–75.
-* Inati, Shams C., 1984a, _Ibn Sīnā. Remarks and Admonitions, Part One: Logic_, Toronto: Pontifical Institute of Mediaeval Studies.
-* –––, 1984b, “Ibn Sīnā on Single Expressions”, in _Islamic Theology and Philosophy, Studies in Honor of George F. Hourani_, Michael E. Marmura (ed.), Albany, NY: State University of New York Press, pp. 148–159.
-* Kalbarczyk, Alexander, 2012, “The _Kitāb al-Maqūlāt_ of the _Muḫtaṣar al-awsaṭ fī l-manṭiq_: A Hitherto Unknown Source for Studying Ibn Sīnā’s Reception of Aristotle’s _Categories_”, _Oriens_ 40(2): 305–354. doi:10.1163/18778372-00402006
-* Karimullah, Kamran I., 2014a, _Avicenna (d. 1037), Logical Theory and the Aristotelian Tradition_, Ph.D dissertation, The Institute of Islamic Studies, McGill University. \[[Karimullah 2014a available online](http://digitool.library.mcgill.ca/webclient/StreamGate?folder\id=0\&dvs=1527708554990\~648)]
-* –––, 2014b, “Alfarabi on Conditionals”, _Arabic Sciences and Philosophy_, 24(2): 211–267. doi:10.1017/S0957423914000022
-* Lagerlund, Henrik, 2009, “Avicenna and Ṭūsī on Modal Logic”, _History and Philosophy of Logic_, 30(3): 227–239. doi:10.1080/01445340802518119
-* Lameer, Joep, 2006, _Conception and Belief in Ṣadr al-Dīn Shīrāzī_, Tehran: Iranian Institute of Philosophy.
-* Malink, Marko, 2013, _Aristotle’s Modal Syllogistic_, Cambridge, MA: Harvard University Press.
-* Malink, Marko and Jacob Rosen, 2013, “Proof by Assumption of the Possible in _Prior Analytics_ 1.15”, _Mind_, 122(488): 953–986. doi:10.1093/mind/fzt095
-* Maróth, Miklos, 1989, _Ibn Sīnā und die peripatetische ‘Aussagenlogik’_, Leiden: Brill.
-* Marmura, Michael E., 1990, “The Fortuna of the _Posterior Analytics_ in the Arabic Middle Ages”, in _Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.)_, Helsinki 24–29 August 1987, 2 vols., edited by M. Asztalos, J. E. Murdoch, I. Niniluoto, Helsinki: 1990, vol. I, 85–102.
+* –––, 2013, “Ibn Sina, Frege and the Grammar of Meanings”, *Al-Mukhatabat*, 5: 29–60. \[[Hodges 2013 available online (pdf)](https://pdfs.semanticscholar.org/cd03/7d53cf71fd029035b46e37fced5a77fe5541.pdf)]
+* –––, 2014, “Notes on the History of Scope”, in *Logic Without Borders: Essays on Set Theory, Model Theory, Philosophical Logic and Philosophy of Mathematics*, edited by Åsa Hirvonen, Juha Kontinen, Roman Kossak, and Andrés Villaveces, Boston: De Gruyter, pp. 215–239. doi:10.1515/9781614516873.215
+* –––, 2015, “The Move from One to Two Quantifiers”, in *The Road to Universal Logic: Festschrift for the 50th Birthday of Jean-Yves Béziau*, vol. 1, edited by Arnold Koslow and Arthur Buchsbaum, Basel: Birkhäuser, pp. 221–240. doi:10.1007/978-3-319-10193-4\_9
+* –––, 2017, “Ibn Sīnā on reductio ad absurdum”, *Review of Symbolic Logic*, 10(3): 587–601. doi:10.1017/S1755020316000290
+* –––, 2018, “Proofs as Cognitive or Computational: Ibn Sīnā’s Innovations”, *Philosophy and Technology*, 31(1): 131–153. doi:10.1007/s13347-016-0242-2
+* Hodges, Wilfrid and Spencer Johnston, 2017, “Medieval Modalities and Modern Methods: Avicenna and Buridan”, *IfCoLog Journal of Logics and their Applications*, 4(4): 1029–1073.
+* Hugonnard-Roche, Henri, 1984, “La classification des sciences de Gundissalinus et l’influence d’Avicenne”, in *Études sur Avicenne*, edited by Jean Jolivet and Rushdī Rashed, Paris: Les Belles Lettres, 41–75.
+* Inati, Shams C., 1984a, *Ibn Sīnā. Remarks and Admonitions, Part One: Logic*, Toronto: Pontifical Institute of Mediaeval Studies.
+* –––, 1984b, “Ibn Sīnā on Single Expressions”, in *Islamic Theology and Philosophy, Studies in Honor of George F. Hourani*, Michael E. Marmura (ed.), Albany, NY: State University of New York Press, pp. 148–159.
+* Kalbarczyk, Alexander, 2012, “The *Kitāb al-Maqūlāt* of the *Muḫtaṣar al-awsaṭ fī l-manṭiq*: A Hitherto Unknown Source for Studying Ibn Sīnā’s Reception of Aristotle’s *Categories*”, *Oriens* 40(2): 305–354. doi:10.1163/18778372-00402006
+* Karimullah, Kamran I., 2014a, *Avicenna (d. 1037), Logical Theory and the Aristotelian Tradition*, Ph.D dissertation, The Institute of Islamic Studies, McGill University. \[[Karimullah 2014a available online](http://digitool.library.mcgill.ca/webclient/StreamGate?folder\id=0\&dvs=1527708554990\~648)]
+* –––, 2014b, “Alfarabi on Conditionals”, *Arabic Sciences and Philosophy*, 24(2): 211–267. doi:10.1017/S0957423914000022
+* Lagerlund, Henrik, 2009, “Avicenna and Ṭūsī on Modal Logic”, *History and Philosophy of Logic*, 30(3): 227–239. doi:10.1080/01445340802518119
+* Lameer, Joep, 2006, *Conception and Belief in Ṣadr al-Dīn Shīrāzī*, Tehran: Iranian Institute of Philosophy.
+* Malink, Marko, 2013, *Aristotle’s Modal Syllogistic*, Cambridge, MA: Harvard University Press.
+* Malink, Marko and Jacob Rosen, 2013, “Proof by Assumption of the Possible in *Prior Analytics* 1.15”, *Mind*, 122(488): 953–986. doi:10.1093/mind/fzt095
+* Maróth, Miklos, 1989, *Ibn Sīnā und die peripatetische ‘Aussagenlogik’*, Leiden: Brill.
+* Marmura, Michael E., 1990, “The Fortuna of the *Posterior Analytics* in the Arabic Middle Ages”, in *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.)*, Helsinki 24–29 August 1987, 2 vols., edited by M. Asztalos, J. E. Murdoch, I. Niniluoto, Helsinki: 1990, vol. I, 85–102.
 * McGinnis, Jon, 2008, “Avicenna’s Naturalized Epistemology and Scientific Method”, in Rahman, Street, & Tahiri 2008: 129–152. doi:10.1007/978-1-4020-8405-8\_5
-* McKirahan, Richard D., 1992, _Principles and Proofs: Aristotle’s Theory of Demonstrative Science_, Princeton: Princeton University Press.
-* Movahed, Zia, 2003, “Ibn-Sina’s Anticipation of the Formulas of Buridan and Barcan”, in _Logic in Teheran: Proceedings of the Workshop and Conference on Logic, Algebra and Arithmetic, held October 18-22, 2003, LNL26_, Ali Enayat, Iraj Kalantari, & Mojtabi Moniri (editors), Wellesley, MA: ASL/A K Peters, pp. 248–255.
-* –––, 2009, “A Critical Examination of Ibn Sina’s Theory of the Conditional Syllogism”, _Sophia Perennis_, 1(1): 5–21.
-* Rahman, Shahid, Johan Georg Granström, and Zaynab Sallum, 2014, “Ibn Sīnā’s Approach to Equality and Unity”, _Arabic Sciences and Philosophy_, 24(2): 297–307. doi:10.1017/S0957423914000046
-* Rahman, Shahid, Tony Street, and Hassan Tahiri (eds), 2008, _The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions_, Dordrecht: Springer-Netherlands. doi: 10.1007/978-1-4020-8405-8
-* Rescher, Nicholas, 1963a, _Studies in the History of Arabic Logic_, Pittsburgh: University of Pittsburg Press.
-* –––, 1963b, “Avicenna on the logic of ‘conditional’ propositions”, _Notre Dame Journal of Formal Logic_, 4(1): 48–58. Reprinted in Rescher 1963a: 76–86. doi:10.1305/ndjfl/1093957394
-* –––, 1964, _The Development of Arabic Logic_, Pittsburgh: University of Pittsburgh Press.
-* –––, 1967, _Temporal Modalities in Arabic Logic_, Dordrecht: Reidel. doi:10.1007/978-94-010-3523-1
-* Rescher, Nicholas and Arnold vander Nat, 1974, “The Theory of Modal Syllogistic in Medieval Arabic Philosophy” in _Studies in Modality_, edited by Nicholas Rescher, Ruth Manor et al. Oxford: Blackwell, 17–56.
-* –––, 1975, “New Light on the Arabic Theory of Temporal Modal Syllogistic”, in _Essays in Islamic Philosophy and Science_, edited by George F. Hourani, Albany, NY: SUNY Press, 189–221.
-* Sabra A. I., 1980, “Avicenna on the Subject Matter of Logic”, _Journal of Philosophy_, 77(11): 746–764. doi:10.5840/jphil1980771115
-* Schöck, Cornelia, 2006, _Koranexegese, Grammatik und Logik: zum Verhältnis von arabischer und aristotelischer Urteils-, Konsequenz- und Schlußlehre_, Leiden: Brill.
-* –––, 2008, “Name (_ism_), Derived Name (_ism mushtaqq_) and Description (_waṣf_) in Arabic Grammar, Muslim Dialectical Theology and Arabic Logic”, in Rahman, Street, & Tahiri 2008: 329–360. doi:10.1007/978-1-4020-8405-8\_12
-* Shehaby, Nabil, 1973, _The Propositional Logic of Avicenna: A Translation from al-Shifāʾ: al-Qiyās with Introduction, Commentary and Glossary_, Dordrecht: Reidel. doi:10.1007/978-94-010-2624-6
-* Street, Tony, 1995, “Tūsī on Avicenna’s Logical Connectives”, _History and Philosophy of Logic_, 16(2): 257–268. doi:10.1080/01445349508837252
-* –––, 2000, “Toward a History of Syllogistic after Avicenna: Notes on Rescher’s Studies on Arabic Modal Logic”, _Journal of Islamic Studies_, 11(2): 209–228. doi:10.1093/jis/11.2.209
-* –––, 2001, “‘The Eminent Later Scholar’ in Avicenna’s _Book of the Syllogism_”, _Arabic Sciences and Philosophy_, 11(2): 205–218. doi:10.1017/S0957423901001096
-* –––, 2002, “An Outline of Avicenna’s Syllogistic”, _Archiv für Geschichte der Philosophie_, 84(2): 129–160. doi:10.1515/agph.2002.007
-* –––, 2004, “Arabic Logic”, in _Handbook of the History of Logic: Greek, Indian and Arabic Logic_, edited by Dov M. Gabbay and John Woods, Amsterdam: Elsevier, 523–596. doi:10.1016/S1874-5857(04)80009-8
-* –––, 2005a, “Logic”, in _The Cambridge Companion to Arabic Philosophy_, edited by Peter Adamson and Richard C. Taylor, Cambridge: Cambridge University Press, 247–265. doi:10.1017/CCOL0521817439.012
-* –––, 2005b, “Fakhraddīn ar-Rāzī’s Critique of Avicennan Logic”, in _Logik und Theologie, Das ‘Organon’ im arabischen und im lateinischen Mittelalter_, edited by Dominik Perler and Ulrich Rudolph, Leiden: Brill, 99–116.
-* –––, 2010a, “Avicenna’s _Twenty Questions on Logic_: Preliminary Notes for Further Work”, _Documenti e studi sulla tradizione filosofica medievale_, 21: 97–112.
-* –––, 2010b, “Appendix: Readings of the subject term”, _Arabic Sciences and Philosophy_, 20(1): 119–124. doi:10.1017/S0957423909990117
-* –––, 2012, “Medieval and Modern Interpretations of Avicenna’s Modal Syllogistic”, in _Islamic Philosophy, Science, Culture, and Religion_, edited by Felicitas Meta Maria Opwis and David Reisman, Leiden: Brill, 233–255.
-* –––, 2013, “Arabic and Islamic Philosophy of Language and Logic” (Winter 2013 edition), in _The Stanford Encyclopedia of Philosophy_, Edward Zalta (ed.), (first version Fall 2008, substantive revision Winter 2013) URL = <[Arabic and Islamic Philosophy of Language and Logic (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/arabic-islamic-language/)>, accessed on 30 June 2017.
-* –––, 2014a, “ Afḍal al-Dīn al-Khūnajī (d. 1248) on the Conversion of Modal Propositions”, _Oriens_, 42(3–4): 454—513. doi:10.1163/18778372-04203006
-* –––, 2014b, s.v. “Definition”, in _Encyclopaedia of Islam_ (third edition), Leiden: Brill, 85–89.
-* –––, 2016, “Kātibī (d. 1277), Taḥtānī (d. 1365), and the _Shamsiyya_” in _The Oxford Handbook of Islamic Philosophy_, edited by Khaled El-Rouayheb and Sabine Schmidtke, Oxford: Oxford University Press, 348–374.
-* –––, forthcoming, “Avicenna: Logic (Ibn Sīnā: Lokig)”, in _Grundriss der Geschichte der Philosophie. Philosophie in der Islamischen Welt_, Band II: 11–12, Jahrhundert, edited by U. Rudolph, Basel: Schwabe.
-* Strobino, Riccardo, 2010, “Avicenna on the Indemonstrability of Definition”, _Documenti e studi sulla tradizione filosofica medievale_, 21: 113–163.
-* –––, 2012, “Avicenna’s Use of the Arabic Translations of the _Posterior Analytics_ and the Ancient Commentary Tradition”, _Oriens_, 40(2): 355–389. doi:10.1163/18778372-00402007
-* –––, 2015a, “Time and Necessity in Avicenna’s Theory of Demonstration”, _Oriens_, 43(3–4): 338–367. doi:10.1163/18778372-04303003
-* –––, 2015b, “What If That (Is) Why? Avicenna’s Taxonomy of Scientific Inquiries”, in _Aristotle and the Arabic Tradition_, edited by Ahmed Alwishah and Josh Hayes, Cambridge: Cambridge University Press, 50–75.
-* –––, 2016a, “Avicenna on Knowledge (_ʿilm_), Certainty (_yaqīn_), Cause (_ʿilla/sabab_) and the Relative (_muḍāf_)”, _British Journal for the History of Philosophy_, 24(3): 426–446. doi:10.1080/09608788.2015.1084267
-* –––, 2016b, “Per se, Inseparability, Containment, and Implication: Bridging the Gap between Avicenna’s Theory of Demonstration and Logic of the Predicables”, _Oriens_, 44(3–4): 181–266. doi:10.1163/18778372-04403002
-* –––, 2017, “Avicenna’s _Kitāb al-Burhān_ II.7 and its Latin Translation by Gundissalinus: Text and Content”, _Documenti e studi sulla tradizione filosofica medievale_, 28: 105–147.
-* –––, forthcoming, _Avicenna’s Book of Demonstration: Logic, Metaphysics, Epistemology_, Berkeley: University of California Press.
+* McKirahan, Richard D., 1992, *Principles and Proofs: Aristotle’s Theory of Demonstrative Science*, Princeton: Princeton University Press.
+* Movahed, Zia, 2003, “Ibn-Sina’s Anticipation of the Formulas of Buridan and Barcan”, in *Logic in Teheran: Proceedings of the Workshop and Conference on Logic, Algebra and Arithmetic, held October 18-22, 2003, LNL26*, Ali Enayat, Iraj Kalantari, & Mojtabi Moniri (editors), Wellesley, MA: ASL/A K Peters, pp. 248–255.
+* –––, 2009, “A Critical Examination of Ibn Sina’s Theory of the Conditional Syllogism”, *Sophia Perennis*, 1(1): 5–21.
+* Rahman, Shahid, Johan Georg Granström, and Zaynab Sallum, 2014, “Ibn Sīnā’s Approach to Equality and Unity”, *Arabic Sciences and Philosophy*, 24(2): 297–307. doi:10.1017/S0957423914000046
+* Rahman, Shahid, Tony Street, and Hassan Tahiri (eds), 2008, *The Unity of Science in the Arabic Tradition: Science, Logic, Epistemology and their Interactions*, Dordrecht: Springer-Netherlands. doi: 10.1007/978-1-4020-8405-8
+* Rescher, Nicholas, 1963a, *Studies in the History of Arabic Logic*, Pittsburgh: University of Pittsburg Press.
+* –––, 1963b, “Avicenna on the logic of ‘conditional’ propositions”, *Notre Dame Journal of Formal Logic*, 4(1): 48–58. Reprinted in Rescher 1963a: 76–86. doi:10.1305/ndjfl/1093957394
+* –––, 1964, *The Development of Arabic Logic*, Pittsburgh: University of Pittsburgh Press.
+* –––, 1967, *Temporal Modalities in Arabic Logic*, Dordrecht: Reidel. doi:10.1007/978-94-010-3523-1
+* Rescher, Nicholas and Arnold vander Nat, 1974, “The Theory of Modal Syllogistic in Medieval Arabic Philosophy” in *Studies in Modality*, edited by Nicholas Rescher, Ruth Manor et al. Oxford: Blackwell, 17–56.
+* –––, 1975, “New Light on the Arabic Theory of Temporal Modal Syllogistic”, in *Essays in Islamic Philosophy and Science*, edited by George F. Hourani, Albany, NY: SUNY Press, 189–221.
+* Sabra A. I., 1980, “Avicenna on the Subject Matter of Logic”, *Journal of Philosophy*, 77(11): 746–764. doi:10.5840/jphil1980771115
+* Schöck, Cornelia, 2006, *Koranexegese, Grammatik und Logik: zum Verhältnis von arabischer und aristotelischer Urteils-, Konsequenz- und Schlußlehre*, Leiden: Brill.
+* –––, 2008, “Name (*ism*), Derived Name (*ism mushtaqq*) and Description (*waṣf*) in Arabic Grammar, Muslim Dialectical Theology and Arabic Logic”, in Rahman, Street, & Tahiri 2008: 329–360. doi:10.1007/978-1-4020-8405-8\_12
+* Shehaby, Nabil, 1973, *The Propositional Logic of Avicenna: A Translation from al-Shifāʾ: al-Qiyās with Introduction, Commentary and Glossary*, Dordrecht: Reidel. doi:10.1007/978-94-010-2624-6
+* Street, Tony, 1995, “Tūsī on Avicenna’s Logical Connectives”, *History and Philosophy of Logic*, 16(2): 257–268. doi:10.1080/01445349508837252
+* –––, 2000, “Toward a History of Syllogistic after Avicenna: Notes on Rescher’s Studies on Arabic Modal Logic”, *Journal of Islamic Studies*, 11(2): 209–228. doi:10.1093/jis/11.2.209
+* –––, 2001, “‘The Eminent Later Scholar’ in Avicenna’s *Book of the Syllogism*”, *Arabic Sciences and Philosophy*, 11(2): 205–218. doi:10.1017/S0957423901001096
+* –––, 2002, “An Outline of Avicenna’s Syllogistic”, *Archiv für Geschichte der Philosophie*, 84(2): 129–160. doi:10.1515/agph.2002.007
+* –––, 2004, “Arabic Logic”, in *Handbook of the History of Logic: Greek, Indian and Arabic Logic*, edited by Dov M. Gabbay and John Woods, Amsterdam: Elsevier, 523–596. doi:10.1016/S1874-5857(04)80009-8
+* –––, 2005a, “Logic”, in *The Cambridge Companion to Arabic Philosophy*, edited by Peter Adamson and Richard C. Taylor, Cambridge: Cambridge University Press, 247–265. doi:10.1017/CCOL0521817439.012
+* –––, 2005b, “Fakhraddīn ar-Rāzī’s Critique of Avicennan Logic”, in *Logik und Theologie, Das ‘Organon’ im arabischen und im lateinischen Mittelalter*, edited by Dominik Perler and Ulrich Rudolph, Leiden: Brill, 99–116.
+* –––, 2010a, “Avicenna’s *Twenty Questions on Logic*: Preliminary Notes for Further Work”, *Documenti e studi sulla tradizione filosofica medievale*, 21: 97–112.
+* –––, 2010b, “Appendix: Readings of the subject term”, *Arabic Sciences and Philosophy*, 20(1): 119–124. doi:10.1017/S0957423909990117
+* –––, 2012, “Medieval and Modern Interpretations of Avicenna’s Modal Syllogistic”, in *Islamic Philosophy, Science, Culture, and Religion*, edited by Felicitas Meta Maria Opwis and David Reisman, Leiden: Brill, 233–255.
+* –––, 2013, “Arabic and Islamic Philosophy of Language and Logic” (Winter 2013 edition), in *The Stanford Encyclopedia of Philosophy*, Edward Zalta (ed.), (first version Fall 2008, substantive revision Winter 2013) URL = <[Arabic and Islamic Philosophy of Language and Logic (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/arabic-islamic-language/)>, accessed on 30 June 2017.
+* –––, 2014a, “ Afḍal al-Dīn al-Khūnajī (d. 1248) on the Conversion of Modal Propositions”, *Oriens*, 42(3–4): 454—513. doi:10.1163/18778372-04203006
+* –––, 2014b, s.v. “Definition”, in *Encyclopaedia of Islam* (third edition), Leiden: Brill, 85–89.
+* –––, 2016, “Kātibī (d. 1277), Taḥtānī (d. 1365), and the *Shamsiyya*” in *The Oxford Handbook of Islamic Philosophy*, edited by Khaled El-Rouayheb and Sabine Schmidtke, Oxford: Oxford University Press, 348–374.
+* –––, forthcoming, “Avicenna: Logic (Ibn Sīnā: Lokig)”, in *Grundriss der Geschichte der Philosophie. Philosophie in der Islamischen Welt*, Band II: 11–12, Jahrhundert, edited by U. Rudolph, Basel: Schwabe.
+* Strobino, Riccardo, 2010, “Avicenna on the Indemonstrability of Definition”, *Documenti e studi sulla tradizione filosofica medievale*, 21: 113–163.
+* –––, 2012, “Avicenna’s Use of the Arabic Translations of the *Posterior Analytics* and the Ancient Commentary Tradition”, *Oriens*, 40(2): 355–389. doi:10.1163/18778372-00402007
+* –––, 2015a, “Time and Necessity in Avicenna’s Theory of Demonstration”, *Oriens*, 43(3–4): 338–367. doi:10.1163/18778372-04303003
+* –––, 2015b, “What If That (Is) Why? Avicenna’s Taxonomy of Scientific Inquiries”, in *Aristotle and the Arabic Tradition*, edited by Ahmed Alwishah and Josh Hayes, Cambridge: Cambridge University Press, 50–75.
+* –––, 2016a, “Avicenna on Knowledge (*ʿilm*), Certainty (*yaqīn*), Cause (*ʿilla/sabab*) and the Relative (*muḍāf*)”, *British Journal for the History of Philosophy*, 24(3): 426–446. doi:10.1080/09608788.2015.1084267
+* –––, 2016b, “Per se, Inseparability, Containment, and Implication: Bridging the Gap between Avicenna’s Theory of Demonstration and Logic of the Predicables”, *Oriens*, 44(3–4): 181–266. doi:10.1163/18778372-04403002
+* –––, 2017, “Avicenna’s *Kitāb al-Burhān* II.7 and its Latin Translation by Gundissalinus: Text and Content”, *Documenti e studi sulla tradizione filosofica medievale*, 28: 105–147.
+* –––, forthcoming, *Avicenna’s Book of Demonstration: Logic, Metaphysics, Epistemology*, Berkeley: University of California Press.
 * Strobino, Riccardo and Paul Thom, 2016, “The Logic of Modality”, in Dutilh Novaes and Read 2016: 342–369. doi:10.1017/CBO9781107449862.015
-* Tahiri, Hassan, 2016, _Mathematics and the Mind: An Introduction into Ibn Sīnā’s Theory of Knowledge_, Heidelberg: Springer. doi:10.1007/978-3-319-25238-4
-* Thom, Paul, 1996, _The Logic of Essentialism: An Interpretation of Aristotle’s Modal Syllogistic_, Dordrecht: Kluwer. doi:10.1007/978-94-009-1663-0
-* –––, 2003, _Medieval Modal Systems: Problems and Concepts_, Aldershot: Ashgate.
+* Tahiri, Hassan, 2016, *Mathematics and the Mind: An Introduction into Ibn Sīnā’s Theory of Knowledge*, Heidelberg: Springer. doi:10.1007/978-3-319-25238-4
+* Thom, Paul, 1996, *The Logic of Essentialism: An Interpretation of Aristotle’s Modal Syllogistic*, Dordrecht: Kluwer. doi:10.1007/978-94-009-1663-0
+* –––, 2003, *Medieval Modal Systems: Problems and Concepts*, Aldershot: Ashgate.
 * –––, 2008, “Logic and Metaphysics in Avicenna’s Modal Syllogistic”, in Rahman, Street, & Tahiri 2008: 361–376. doi:10.1007/978-1-4020-8405-8\_13
 * –––, 2012, “Necessity- and Possibility-Syllogisms in Avicenna and Ṭusī”, in Dutilh Novaes and Thomassen Hjortland 2012: 239–248.
-* –––, 2016a, “Necessity in Avicenna and the Arabic Tradition”, in _Logical Modalities from Aristotle to Carnap: The Story of Necessity_, edited by Max Cresswell, Edwin Mares and Adriane Rini, Cambridge: Cambridge University Press, 91–112. doi:10.1017/CBO9781139939553.002
+* –––, 2016a, “Necessity in Avicenna and the Arabic Tradition”, in *Logical Modalities from Aristotle to Carnap: The Story of Necessity*, edited by Max Cresswell, Edwin Mares and Adriane Rini, Cambridge: Cambridge University Press, 91–112. doi:10.1017/CBO9781139939553.002
 * –––, 2016b, “The Syllogism and its Transformations”, in Dutilh Novaes and Read 2016: 290–315. doi:10.1017/CBO9781107449862.013
-* Wolfson, Harry A., 1943, “The Terms _Taṣawwur_ and _Taṣdiq_ in Arabic Philosophy and their Greek, Latin and Hebrew equivalents”, _The Muslim World_, 33(2): 114–128. doi:10.1111/j.1478-1913.1943.tb01290.x
+* Wolfson, Harry A., 1943, “The Terms *Taṣawwur* and *Taṣdiq* in Arabic Philosophy and their Greek, Latin and Hebrew equivalents”, *The Muslim World*, 33(2): 114–128. doi:10.1111/j.1478-1913.1943.tb01290.x
 
 ## Academic Tools
 
@@ -902,7 +901,7 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 * [Rational Sciences in Islam Project](http://islamsci.mcgill.ca/RASI/), R. Wisnovski
 * [Islamic Manuscripts](http://www.islamicmanuscripts.info/), J. J. Witkam
 * [Presentations and Papers on Arabic Logic and Semantics](http://wilfridhodges.co.uk/), W. Hodges
-* [Avicenna’s Logic](https://www.iep.utm.edu/av-logic/), entry by S. Chatti, in the _Internet Encyclopedia of Philosophy_.
+* [Avicenna’s Logic](https://www.iep.utm.edu/av-logic/), entry by S. Chatti, in the *Internet Encyclopedia of Philosophy*.
 * [Philosophy on the Border of Civilizations and Intellectual Endeavours: Towards a Critical Edition of the Metaphysics (Ilāhiyyāt of Kitāb al-Šifā) of Avicenna (Ibn Sīnā)](http://www.avicennaproject.eu/index.php?id=2%CA%BE), A. Bertolacci
 
 ## Related Entries
@@ -910,4 +909,4 @@ ignoratio elenchi 的情况更加棘手。Nağāt 列表中最后一个可用的
 [al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | [Arabic and Islamic Philosophy, disciplines in: metaphysics](https://plato.stanford.edu/entries/arabic-islamic-metaphysics/) | [Arabic and Islamic Philosophy, disciplines in: philosophy of language and logic](https://plato.stanford.edu/entries/arabic-islamic-language/) | [Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [demonstration: medieval theories of](https://plato.stanford.edu/entries/demonstration-medieval/) | [Ibn Sina \[Avicenna\]](https://plato.stanford.edu/entries/ibn-sina/) | [logic, history of: modal logic](https://plato.stanford.edu/entries/logic-modal-origins/) | [logic: ancient](https://plato.stanford.edu/entries/logic-ancient/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [modality: medieval theories of](https://plato.stanford.edu/entries/modality-medieval/) | [syllogism: medieval theories of](https://plato.stanford.edu/entries/medieval-syllogism/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Riccardo Strobino](https://ase.tufts.edu/classics/people/facultyStrobino.htm) <[_riccardo.strobino@tufts.edu_](mailto:riccardo%2estrobino%40tufts%2eedu)>
+[Riccardo Strobino](https://ase.tufts.edu/classics/people/facultyStrobino.htm) <[*riccardo.strobino@tufts.edu*](mailto:riccardo%2estrobino%40tufts%2eedu)>

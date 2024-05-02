@@ -1,6 +1,6 @@
 # 范畴 categories (Amie Thomasson)
 
-_首次发表于 2004 年 6 月 3 日星期四；实质性修订于 2022 年 11 月 22 日星期二_
+*首次发表于 2004 年 6 月 3 日星期四；实质性修订于 2022 年 11 月 22 日星期二*
 
 一个范畴系统是最高种类或属的完整列表。传统上，沿袭亚里士多德，这些被认为是实体的最高属（在术语的最广泛意义上），因此，在这种现实主义精神下进行的范畴系统理想情况下将提供一切存在的清单，从而回答形而上学最基本的问题：“有什么？”对于我们能否辨别‘现实本身’的基本范畴系统的独特性产生怀疑，导致其他人处理范畴系统的方式不是旨在编目世界本身中的最高种类，而是旨在阐明我们概念系统或语言的范畴。因此，康德通过描绘对任何可能认知对象都是_先验_必要的范畴，从而转向了概念主义方法。由于这些范畴保证适用于任何可能的认知对象，它们保留了一定类型的本体论意义，尽管这种应用仅限于现象，而不是事物本身。在康德之后，通常以一种中立的精神来处理范畴项目，布莱恩·卡尔（1987 年，7 页）称之为“范畴描述主义”，描述了世界根据我们的思想、经验或语言将具有的范畴结构，同时避免对这些范畴是否被占据或本体上基础做出承诺。埃德蒙德·胡塞尔以类似这种方式处理范畴，因为他首先列出了_意义_的范畴，然后可以用来描绘_本体论_范畴（意味着的可能对象的范畴）作为意义范畴的对应物，而不关心关于这些本体论范畴中的各种对象是否真的存在的任何经验事实。
 
@@ -27,7 +27,7 @@ _首次发表于 2004 年 6 月 3 日星期四；实质性修订于 2022 年 11 
 * Action（例如，切割，燃烧）
 * Passion（例如，被切割，被烧伤）
 
-存在两种物质：主要物质是，例如，一个_个体_人或马；这些个体的种类（和属）（例如，_人_，_动物_）是次要物质。虽然十个范畴都是同样最高级别的种类，但主要物质仍然具有一定的优先级，因为“所有其他事物要么是关于主要物质作为主语说的，要么是在它们作为主语中说的。因此，如果主要物质不存在，任何其他事物都不可能存在”（_范畴学_ 2b4）。
+存在两种物质：主要物质是，例如，一个_个体_人或马；这些个体的种类（和属）（例如，*人*，*动物*）是次要物质。虽然十个范畴都是同样最高级别的种类，但主要物质仍然具有一定的优先级，因为“所有其他事物要么是关于主要物质作为主语说的，要么是在它们作为主语中说的。因此，如果主要物质不存在，任何其他事物都不可能存在”（*范畴学* 2b4）。
 
 在其他地方，恩斯特·卡西尔在《形而上学》(998b22)中明确提出，不可能存在一个最高的类别（例如，存在或统一）被不同类别的实体共享（参见 Ackrill 1963, 81）。因为一个物种是根据其包容的类和差异来定义的（例如，人可以被定义为一个理性的动物），而类（动物）可以被预言为物种（人），但不能被预言为差异（理性）。因此，如果存在（或统一）是一个类，就不能说任何差异具有存在（或为一）；但是“任何类别的差异都必须具有存在和为一”（《形而上学》998b22-3）。
 
@@ -53,9 +53,9 @@ _首次发表于 2004 年 6 月 3 日星期四；实质性修订于 2022 年 11 
 * Totality
 * Quality
 
-_现实_
+*现实*
 
-_否定_
+*否定*
 
 * 限制
 * 关系
@@ -97,7 +97,7 @@ Roman Ingarden（1960 \[1964]，22ff）将 Husserl 的多维本体论推进了�
 
 在二十世纪，本体论范畴系统在某种程度上已经过时（我将在下文§1.5 中讨论原因），大多数关于范畴的讨论转向仅仅阐明范畴的_差异_，而不是旨在概述一个全面的范畴系统。
 
-一个重要的例外是塞缪尔·亚历山大（Samuel Alexander）的作品《空间、时间和神》（_Space, Time and Deity_），他在 1920 年的作品中以现实主义精神发展了一种范畴理论。亚历山大捍卫一种唯一论的本体论，他将时空（Space-Time）设定为“涵盖现实中每个实体和每个特征的唯一的单一实体”（Fisher 2015, 246）。他认为这些范畴是基于时空的内在本质，只将“普遍”的特征作为范畴特征，即每个实体都具有的特征。他确定的范畴分为三个“等级”（或者说递增复杂度的等级，后一个等级预设前一个等级），给出了以下系统：
+一个重要的例外是塞缪尔·亚历山大（Samuel Alexander）的作品《空间、时间和神》（*Space, Time and Deity*），他在 1920 年的作品中以现实主义精神发展了一种范畴理论。亚历山大捍卫一种唯一论的本体论，他将时空（Space-Time）设定为“涵盖现实中每个实体和每个特征的唯一的单一实体”（Fisher 2015, 246）。他认为这些范畴是基于时空的内在本质，只将“普遍”的特征作为范畴特征，即每个实体都具有的特征。他确定的范畴分为三个“等级”（或者说递增复杂度的等级，后一个等级预设前一个等级），给出了以下系统：
 
 * 等级 1
 * 存在
@@ -162,20 +162,20 @@ Ingvar Johansson（1989 年）和 Roderick Chisholm（1996 年）都采取新亚
 
 但尽管格罗斯曼将他的书描述为一次“使亚里士多德的《范畴论》保持最新状态”的尝试（1983 年，xv），他明确否认自己对于他所区分的八个范畴中是否存在任何事物是否有任何主张，认为这超出了本体论的范围（1983 年，10-12）。
 
-Joshua Hoffman 和 Gary Rosenkrantz（1994）提出了一个树形系统的范畴，_实体_是_summum genus_，细分为_抽象_和_具体_（而不是 Chisholm 的_偶然_和_必然_），每个又进一步细分为：%%\* 实体
+Joshua Hoffman 和 Gary Rosenkrantz（1994）提出了一个树形系统的范畴，*实体_是_summum genus*，细分为_抽象_和_具体_（而不是 Chisholm 的_偶然_和_必然_），每个又进一步细分为：%%\* 实体
 
 * 摘要
 * 财产
 * 关系
 * 主张
 
-_具体的_
+*具体的*
 
-_事件_
+*事件*
 
-_时间_
+*时间*
 
-_地点_
+*地点*
 
 * Substance
 * Material Object
@@ -187,7 +187,7 @@ _地点_
 
 他们也明确以范畴描述的精神提供他们的范畴系统，作为对存在可能的各种范畴进行分析，而不是对这些范畴中哪些是非空的做出任何断言（1994 年，7-8 页）。
 
-E. J. Lowe 认为范畴是“存在和共存的事物种类”（2006 年，5 页）。他认为，这些范畴应根据其成员的存在和/或身份条件来个体化；基本范畴是那些关于其成员的存在和身份条件不能完全用它们与其他范畴实体之间的本体依赖关系来规定的范畴（2006 年，8 页）。因此，他认为存在四个基本的本体范畴：对象（如 Fido 这样的个体物质）、模式（如 Fido 的四条腿这样的属性或关系实例）、种类（如 _dog_ 这样的实质普遍性）、以及属性（如 _being four-legged_ 这样的属性或关系普遍性）。但尽管他认为确切存在四个 _基本_ 范畴，Lowe 仍然采取了一种分层安排范畴的方法。这四个基本范畴出现在他的分层图表的第三级；出现在更高级别的范畴（第二级的个体和普遍性；顶层的实体）是“纯粹的抽象，本身并不在本体上做出严肃的本体论工作”（2006 年，39 页）。他更完整的范畴图表如下：
+E. J. Lowe 认为范畴是“存在和共存的事物种类”（2006 年，5 页）。他认为，这些范畴应根据其成员的存在和/或身份条件来个体化；基本范畴是那些关于其成员的存在和身份条件不能完全用它们与其他范畴实体之间的本体依赖关系来规定的范畴（2006 年，8 页）。因此，他认为存在四个基本的本体范畴：对象（如 Fido 这样的个体物质）、模式（如 Fido 的四条腿这样的属性或关系实例）、种类（如 *dog* 这样的实质普遍性）、以及属性（如 *being four-legged* 这样的属性或关系普遍性）。但尽管他认为确切存在四个 *基本* 范畴，Lowe 仍然采取了一种分层安排范畴的方法。这四个基本范畴出现在他的分层图表的第三级；出现在更高级别的范畴（第二级的个体和普遍性；顶层的实体）是“纯粹的抽象，本身并不在本体上做出严肃的本体论工作”（2006 年，39 页）。他更完整的范畴图表如下：
 
 * Entities
 * Particulars
@@ -223,7 +223,7 @@ E. J. Lowe 认为范畴是“存在和共存的事物种类”（2006 年，5 �
 
 多维系统（Husserl 1913 \[1962]，§10；Ingarden 1960 \[1964]，第 2 章；Thomasson 1999，第 8 章；Smith 2007，第 8 章）在一定程度上解决了第二个担忧，承认分类的不同维度是可能的，并且没有一个一维列表可以声称完整。原则上，多维论者甚至可能接受没有固定数量或限制有多少个一维类别列表，尽管每个这样的列表可能声称提供了在所选方面考虑的实体的独特、正确、详尽的分类。
 
-无论如何，鉴于类别系统的巨大潜在用途（其中许多并不依赖于该类别系统是唯一“正确”的主张），我们不应过早放弃发展和评估分类系统的努力。即使我们不认为类别系统提供了存在的真实清单或对现实的基本内在“划分”的描述，以描述主义精神制定的类别系统提供了一个框架，可以在其中以系统和全面的方式回答存在问题，通过列举类别，我们可以进一步调查是否真的存在每种类型的事物。从类别框架中工作可以帮助确保我们提供的任何本体论都是有原则的和统一的，避免 _临时_ 和零碎的决定。描述主义者的类别还提供了一个工具，可以在本体论的其他地方使用，例如，帮助确保可以合法地进行简约性比较（通过检查各种理论接受哪些实体类别，拒绝哪些实体类别），并检查潜在解决形而上学问题的方案是否被忽视，因为使用的类别系统不是详尽的（Thomasson 1999，第 8 章和第 9 章）。类别系统的另一个重要用途是，有了一套提出的类别，我们可以像 Daniel Nolan（2011）建议的那样，继续研究放置在不同类别中的实体之间关系的问题：例如，关于事件是否依赖于或基于事物的问题，或者（如 Nolan 所建议的）事物和事件最终是否可以被确定为属于单一类别。对分类的假设在哲学讨论中起着如此重要的作用（例如，关于心灵的笛卡尔理论，数学的柏拉图主义理论等的讨论），因此，进行有关类别的工作，以使这些类别假设明确化并开放它们供检查，无论对于发现唯一正确的类别系统的前景存疑，这仍然是一种非常有用的练习。
+无论如何，鉴于类别系统的巨大潜在用途（其中许多并不依赖于该类别系统是唯一“正确”的主张），我们不应过早放弃发展和评估分类系统的努力。即使我们不认为类别系统提供了存在的真实清单或对现实的基本内在“划分”的描述，以描述主义精神制定的类别系统提供了一个框架，可以在其中以系统和全面的方式回答存在问题，通过列举类别，我们可以进一步调查是否真的存在每种类型的事物。从类别框架中工作可以帮助确保我们提供的任何本体论都是有原则的和统一的，避免 *临时* 和零碎的决定。描述主义者的类别还提供了一个工具，可以在本体论的其他地方使用，例如，帮助确保可以合法地进行简约性比较（通过检查各种理论接受哪些实体类别，拒绝哪些实体类别），并检查潜在解决形而上学问题的方案是否被忽视，因为使用的类别系统不是详尽的（Thomasson 1999，第 8 章和第 9 章）。类别系统的另一个重要用途是，有了一套提出的类别，我们可以像 Daniel Nolan（2011）建议的那样，继续研究放置在不同类别中的实体之间关系的问题：例如，关于事件是否依赖于或基于事物的问题，或者（如 Nolan 所建议的）事物和事件最终是否可以被确定为属于单一类别。对分类的假设在哲学讨论中起着如此重要的作用（例如，关于心灵的笛卡尔理论，数学的柏拉图主义理论等的讨论），因此，进行有关类别的工作，以使这些类别假设明确化并开放它们供检查，无论对于发现唯一正确的类别系统的前景存疑，这仍然是一种非常有用的练习。
 
 ### 1.6 其他学科中的范畴
 
@@ -295,81 +295,81 @@ Dummett 对于理解对象类别的方式也为回应这一反对意见打开了
 
 ## Bibliography
 
-* Ackrill, J. L., 1963, _Aristotle’s Categories and De Interpretatione_ (translation with notes), Oxford: Clarendon Press.
-* Alexander, Samuel, 1920, _Space, Time and Deity_, London: Macmillan.
-* Aristotle, 1953, _Metaphysics_, revised text translated with commentary and introduction by W. D. Ross, Oxford: Clarendon Press.
-* Aristotle, 1963, _Categories_, translated with notes by J. L. Ackrill, Oxford: Clarendon Press.
-* Baumer, Michael, 1993, “Chasing Aristotle’s Categories down the Tree of Grammar”, _Journal of Philosophical Research_, 18: 341–449.
-* Bennett, Karen, 2009, “Composition, Colocation and Metaontology”, in David Chalmers, Ryan Wasserman, and David Manley (eds.), _Metametaphysics: New Essays on the Foundations of Ontology_, Oxford: Oxford University Press: 38–76.
-* Butchvarov, Panayot, 1995, “Categories”, in _A Companion to Metaphysics_, Jaegwon Kim and Ernest Sosa (eds.), Oxford: Blackwell.
-* Carey, Susan, 2009, _The Origin of Concepts_, Oxford: Oxford University Press.
-* Carr, Brian, 1987, _Metaphysics: An Introduction_, Atlantic Highlands, New Jersey: Humanities Press International.
-* Carstairs, A. D., 1971, “Ryle, Hillman and Harrison on Categories”, _Mind_, 80(319): 403–408.
-* Chisholm, Roderick, 1989, _On Metaphysics_, Minneapolis: University of Minnesota Press.
-* –––, 1996, _A Realistic Theory of Categories_, Cambridge: Cambridge University Press.
-* Collingwood, R. G., 1940 \[1998], _An Essay on Metaphysics_, Oxford: Clarendon.
-* Cumpa, Javier and Erwin Tegtmeier (eds.), 2011, _Ontological Categories_. Frankfurt: Ontos.
-* Dummett, Michael, 1973 \[1981], _Frege: Philosophy of Language_, second edition, Cambridge, MA: Harvard University Press.
-* Fisher, A. R. J., 2015, “Samuel Alexander’s Theory of Categories”, _The Monist_, 98(3): 246–67.
-* Frege, Gottlob, 1884 \[1968], _Die Grundlagen der Arithmetik/The Foundations of Arithmetic_, J. L. Austin (trans.), Evanston, Illinois: Northwestern University Press.
-* Goldwater, Jonah, 2018, “Ryle, the Double-Counting Problem, and the Logical Form of Category Mistakes”, _The Journal of the History of Philosophy,_ 56(2): 337–59.
-* Goldwater, Jonah, 2021, “Paraphrase, Categories, and Ontology”, _Analytic Philosophy_ 00-1-18 DOI: 10.1111/phib.12240.
-* Grossmann, Reinhardt, 1983, _The Categorial Structure of the World_, Bloomington, Indiana: Indiana University Press.
-* Hale, Bob, 1987, _Abstract Objects_, Oxford: Blackwell.
-* –––, 2010, “The Bearable Lightness of Being”. _Axiomathes_, 20: 399–422.
-* Harrison, Bernard, 1965, “Category Mistakes and Rules of Language”. _Mind_, 74(295): 309–325.
-* Hoffman, Joshua and Gary S. Rosenkrantz, 1994, _Substance among other Categories_, Cambridge: Cambridge University Press.
-* Husserl, Edmund, 1913 \[1962], _Ideas: General Introduction to Pure Phenomenology_, W. R. Boyce Gibson (trans.), New York: Collier Books.
-* –––, 1913 \[2000]. _Logical Investigations_ (2nd edition; 2 volumes), J. N. Findlay (trans.), London: Routledge.
-* Ingarden, Roman, 1960 \[1964], _Time and Modes of Being_, Helen R. Michejda (trans.), Springfield, Illinois: Charles C. Thomas.
-* Johansson, Ingvar, 1989, _Ontological Investigations_, New York: Routledge.
-* Kant, Immanuel, 1781 \[1958], _Critique of Pure Reason_, Norman Kemp Smith (trans.), London: Macmillan.
-* Körner, Stephan, 1955, _Kant_, Harmondsworth, England: Penguin.
-* –––, 1970, _Categorial Frameworks_, Oxford: Blackwell.
-* Kriegel, Uriah, 2013, “The Epistemological Challenge of Revisionary Metaphysics”, _Philosopher’s Imprint_, 13(12): 1–30.
-* Lakoff, George, 1987, _Women, Fire, and Dangerous Things: What Categories Reveal about the Mind_, Chicago: University of Chicago Press.
-* Lowe, E. J., 1989, _Kinds of Being: A Study of Individuation, Identity and the Logic of Sortal Terms_, Oxford: Blackwell.
-* –––, 2006, _The Four-Category Ontology: A Metaphysical Foundation for Natural Science_, Oxford: Clarendon.
-* Magidor, Ofra, 2013, _Category Mistakes_. Oxford: Oxford University Press.
-* –––, 2019, “Category Mistakes”. _The Stanford Encyclopedia of Philosophy_ (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2022/entries/category-mistakes/](https://plato.stanford.edu/archives/fall2022/entries/category-mistakes/).
-* Moltmann, Friederike, 2017, “Natural Language Ontology”, in _The Oxford Research Encyclopedia of Linguistics_, New York: Oxford University Press.
-* Moravcsik, J. M. E., 1967, “Aristotle’s Theory of Categories”, in _Aristotle: A Collection of Critical Essays_, Garden City: Doubleday and Co.: 125–48.
-* Munn, Katherine and Barry Smith (eds.), 2008, _Applied Ontology: An Introduction_, Frankfurt: Ontos Verlag.
-* Nolan, Daniel, 2011, “Categories and Ontological Dependence”, in _The Monist_, 94(2): 277–300.
-* O’Shea, James (forthcoming). “On Sellars’s Analytic-Kantian Conception of Categories as Classifying Conceptual Roles”, in Javier Cumpa, ed. _Categorial Ontologies: From Realism to Eliminativism,_ London: Routledge.
-* Paton, H. J., 1936, _Kant’s Metaphysic of Experience_, London: George Allen and Unwin.
-* Paul, L. A., 2016, “A One-Category Ontology”, in John A. Keller (ed.), _Freedom, Metaphysics and Method: Themes from van Inwagen_, Oxford: Oxford University Press.
-* Price, Huw, 2009, “Metaphysics after Carnap: The Ghost who Walks?” in _Metametaphysics: New Essays on the Foundations of Ontology,_ ed. David J. Chalmers, David Manley and Ryan Wasserman. Oxford: Oxford University Press.
-* Rakison, David and Lisa M. Oakes, 2003, _Early Category and Concept Development_, Oxford: Oxford University Press.
-* Russell, Bertrand and Alfred North Whitehead, 1913 \[1962], _Principia Mathematica_ to \*56, Cambridge: Cambridge University Press.
-* Ryle, Gilbert, 1938 \[1971], “Categories”, in _Collected Papers, Volume II: Collected Essays_, New York: Barnes and Noble.
-* –––, 1949, _The Concept of Mind_, Chicago: University of Chicago Press.
-* –––, 1970, “Autobiographical”, in Oscar P. Wood and George Pitcher (eds.), _Ryle_, New York: Doubleday and Co.
-* Sellars, Wilfrid, 1970 \[1974], “Toward a Theory of the Categories”, reprinted in _Essays in Philosophy and its History_, Dordrecht, Holland: D. Reidel.
-* Simons, Peter, 1992, _Philosophy and Logic in Central Europe from Bolzano to Tarski_, Dordrecht, The Netherlands: Kluwer.
-* –––, 1995, “Meaning and Language”, in Barry Smith and David W. Smith (eds.), _The Cambridge Companion to Husserl_, Cambridge: Cambridge University Press.
-* Smart, J. J. C., 1953, “A Note on Categories”. _British Journal for the Philosophy of Science_, 4(15): 227–8.
-* Smith, Barry, 2003, “Ontology”, in _Blackwell Guide to the Philosophy of Computing and Information_, Oxford: Blackwell.
-* Smith, David Woodruff, 1995, “Mind and Body”, in Barry Smith and David Woodruff Smith (eds.), _The Cambridge Companion to Husserl_, Cambridge: Cambridge University Press.
-* –––, 2004, _Mind World: Essays in Phenomenology and Ontology_, Cambridge: Cambridge University Press.
-* –––, 2007, _Husserl_, London: Routledge.
-* Sommers, Fred, 1959, “The Ordinary Language Tree”, _Mind_, 68: 160–85.
-* –––, 1971, “Structural Ontology”, _Philosophia_, 1: 21–42.
-* –––, 1982, _The Logic of Natural Language_, Oxford: Clarendon Press.
-* Sowa, John, 1995, “Top Level Ontological Categories”. _International Journal of Human-Computer Studies_, 43(5-6): 669–85.
-* Strawson, P. F., 1959 \[1963], _Individuals: An Essay in Descriptive Metaphysics_, New York: Anchor Books.
-* Studtmann, Paul, 2007, “Aristotle’s Categories”, _The Stanford Encyclopedia of Philosophy_ (Fall 2008 edition). Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2008/entries/aristotle-categories/](https://plato.stanford.edu/archives/fall2008/entries/aristotle-categories/).
-* Thomasson, Amie L., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
-* –––, 2002, “Phenomenology and the Development of Analytic Philosophy”, _Southern Journal of Philosophy_, 40 (Supplement): 115–142.
-* –––, 2007, _Ordinary Objects_, New York: Oxford University Press.
-* –––, 2015, _Ontology Made Easy_, New York: Oxford University Press.
-* –––, 2022, “How Should we Think about Linguistic Function?”, _Inquiry,_ DOI: 10.1080/0020174X.2022.2074886
-* Thompson, Manley, 1957, “On Category Differences”, _Philosophical Review_, 66(4): 486–508.
-* Westerhoff, Jan, 2002, “Defining ‘Ontological Category’”, _Proceedings of the Aristotelian Society_, 102(3): 337–343.
-* –––, 2004, “The Construction of Ontological Categories”, _Australasian Journal of Philosophy_, 84(4): 599–620.
-* –––, 2005, _Ontological Categories: Their Nature and Significance_, Oxford: Clarendon.
-* Wiggins, David, 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
-* Wright, Crispin, 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
+* Ackrill, J. L., 1963, *Aristotle’s Categories and De Interpretatione* (translation with notes), Oxford: Clarendon Press.
+* Alexander, Samuel, 1920, *Space, Time and Deity*, London: Macmillan.
+* Aristotle, 1953, *Metaphysics*, revised text translated with commentary and introduction by W. D. Ross, Oxford: Clarendon Press.
+* Aristotle, 1963, *Categories*, translated with notes by J. L. Ackrill, Oxford: Clarendon Press.
+* Baumer, Michael, 1993, “Chasing Aristotle’s Categories down the Tree of Grammar”, *Journal of Philosophical Research*, 18: 341–449.
+* Bennett, Karen, 2009, “Composition, Colocation and Metaontology”, in David Chalmers, Ryan Wasserman, and David Manley (eds.), *Metametaphysics: New Essays on the Foundations of Ontology*, Oxford: Oxford University Press: 38–76.
+* Butchvarov, Panayot, 1995, “Categories”, in *A Companion to Metaphysics*, Jaegwon Kim and Ernest Sosa (eds.), Oxford: Blackwell.
+* Carey, Susan, 2009, *The Origin of Concepts*, Oxford: Oxford University Press.
+* Carr, Brian, 1987, *Metaphysics: An Introduction*, Atlantic Highlands, New Jersey: Humanities Press International.
+* Carstairs, A. D., 1971, “Ryle, Hillman and Harrison on Categories”, *Mind*, 80(319): 403–408.
+* Chisholm, Roderick, 1989, *On Metaphysics*, Minneapolis: University of Minnesota Press.
+* –––, 1996, *A Realistic Theory of Categories*, Cambridge: Cambridge University Press.
+* Collingwood, R. G., 1940 \[1998], *An Essay on Metaphysics*, Oxford: Clarendon.
+* Cumpa, Javier and Erwin Tegtmeier (eds.), 2011, *Ontological Categories*. Frankfurt: Ontos.
+* Dummett, Michael, 1973 \[1981], *Frege: Philosophy of Language*, second edition, Cambridge, MA: Harvard University Press.
+* Fisher, A. R. J., 2015, “Samuel Alexander’s Theory of Categories”, *The Monist*, 98(3): 246–67.
+* Frege, Gottlob, 1884 \[1968], *Die Grundlagen der Arithmetik/The Foundations of Arithmetic*, J. L. Austin (trans.), Evanston, Illinois: Northwestern University Press.
+* Goldwater, Jonah, 2018, “Ryle, the Double-Counting Problem, and the Logical Form of Category Mistakes”, *The Journal of the History of Philosophy,* 56(2): 337–59.
+* Goldwater, Jonah, 2021, “Paraphrase, Categories, and Ontology”, *Analytic Philosophy* 00-1-18 DOI: 10.1111/phib.12240.
+* Grossmann, Reinhardt, 1983, *The Categorial Structure of the World*, Bloomington, Indiana: Indiana University Press.
+* Hale, Bob, 1987, *Abstract Objects*, Oxford: Blackwell.
+* –––, 2010, “The Bearable Lightness of Being”. *Axiomathes*, 20: 399–422.
+* Harrison, Bernard, 1965, “Category Mistakes and Rules of Language”. *Mind*, 74(295): 309–325.
+* Hoffman, Joshua and Gary S. Rosenkrantz, 1994, *Substance among other Categories*, Cambridge: Cambridge University Press.
+* Husserl, Edmund, 1913 \[1962], *Ideas: General Introduction to Pure Phenomenology*, W. R. Boyce Gibson (trans.), New York: Collier Books.
+* –––, 1913 \[2000]. *Logical Investigations* (2nd edition; 2 volumes), J. N. Findlay (trans.), London: Routledge.
+* Ingarden, Roman, 1960 \[1964], *Time and Modes of Being*, Helen R. Michejda (trans.), Springfield, Illinois: Charles C. Thomas.
+* Johansson, Ingvar, 1989, *Ontological Investigations*, New York: Routledge.
+* Kant, Immanuel, 1781 \[1958], *Critique of Pure Reason*, Norman Kemp Smith (trans.), London: Macmillan.
+* Körner, Stephan, 1955, *Kant*, Harmondsworth, England: Penguin.
+* –––, 1970, *Categorial Frameworks*, Oxford: Blackwell.
+* Kriegel, Uriah, 2013, “The Epistemological Challenge of Revisionary Metaphysics”, *Philosopher’s Imprint*, 13(12): 1–30.
+* Lakoff, George, 1987, *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*, Chicago: University of Chicago Press.
+* Lowe, E. J., 1989, *Kinds of Being: A Study of Individuation, Identity and the Logic of Sortal Terms*, Oxford: Blackwell.
+* –––, 2006, *The Four-Category Ontology: A Metaphysical Foundation for Natural Science*, Oxford: Clarendon.
+* Magidor, Ofra, 2013, *Category Mistakes*. Oxford: Oxford University Press.
+* –––, 2019, “Category Mistakes”. *The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2022/entries/category-mistakes/](https://plato.stanford.edu/archives/fall2022/entries/category-mistakes/).
+* Moltmann, Friederike, 2017, “Natural Language Ontology”, in *The Oxford Research Encyclopedia of Linguistics*, New York: Oxford University Press.
+* Moravcsik, J. M. E., 1967, “Aristotle’s Theory of Categories”, in *Aristotle: A Collection of Critical Essays*, Garden City: Doubleday and Co.: 125–48.
+* Munn, Katherine and Barry Smith (eds.), 2008, *Applied Ontology: An Introduction*, Frankfurt: Ontos Verlag.
+* Nolan, Daniel, 2011, “Categories and Ontological Dependence”, in *The Monist*, 94(2): 277–300.
+* O’Shea, James (forthcoming). “On Sellars’s Analytic-Kantian Conception of Categories as Classifying Conceptual Roles”, in Javier Cumpa, ed. *Categorial Ontologies: From Realism to Eliminativism,* London: Routledge.
+* Paton, H. J., 1936, *Kant’s Metaphysic of Experience*, London: George Allen and Unwin.
+* Paul, L. A., 2016, “A One-Category Ontology”, in John A. Keller (ed.), *Freedom, Metaphysics and Method: Themes from van Inwagen*, Oxford: Oxford University Press.
+* Price, Huw, 2009, “Metaphysics after Carnap: The Ghost who Walks?” in *Metametaphysics: New Essays on the Foundations of Ontology,* ed. David J. Chalmers, David Manley and Ryan Wasserman. Oxford: Oxford University Press.
+* Rakison, David and Lisa M. Oakes, 2003, *Early Category and Concept Development*, Oxford: Oxford University Press.
+* Russell, Bertrand and Alfred North Whitehead, 1913 \[1962], *Principia Mathematica* to \*56, Cambridge: Cambridge University Press.
+* Ryle, Gilbert, 1938 \[1971], “Categories”, in *Collected Papers, Volume II: Collected Essays*, New York: Barnes and Noble.
+* –––, 1949, *The Concept of Mind*, Chicago: University of Chicago Press.
+* –––, 1970, “Autobiographical”, in Oscar P. Wood and George Pitcher (eds.), *Ryle*, New York: Doubleday and Co.
+* Sellars, Wilfrid, 1970 \[1974], “Toward a Theory of the Categories”, reprinted in *Essays in Philosophy and its History*, Dordrecht, Holland: D. Reidel.
+* Simons, Peter, 1992, *Philosophy and Logic in Central Europe from Bolzano to Tarski*, Dordrecht, The Netherlands: Kluwer.
+* –––, 1995, “Meaning and Language”, in Barry Smith and David W. Smith (eds.), *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press.
+* Smart, J. J. C., 1953, “A Note on Categories”. *British Journal for the Philosophy of Science*, 4(15): 227–8.
+* Smith, Barry, 2003, “Ontology”, in *Blackwell Guide to the Philosophy of Computing and Information*, Oxford: Blackwell.
+* Smith, David Woodruff, 1995, “Mind and Body”, in Barry Smith and David Woodruff Smith (eds.), *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press.
+* –––, 2004, *Mind World: Essays in Phenomenology and Ontology*, Cambridge: Cambridge University Press.
+* –––, 2007, *Husserl*, London: Routledge.
+* Sommers, Fred, 1959, “The Ordinary Language Tree”, *Mind*, 68: 160–85.
+* –––, 1971, “Structural Ontology”, *Philosophia*, 1: 21–42.
+* –––, 1982, *The Logic of Natural Language*, Oxford: Clarendon Press.
+* Sowa, John, 1995, “Top Level Ontological Categories”. *International Journal of Human-Computer Studies*, 43(5-6): 669–85.
+* Strawson, P. F., 1959 \[1963], *Individuals: An Essay in Descriptive Metaphysics*, New York: Anchor Books.
+* Studtmann, Paul, 2007, “Aristotle’s Categories”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 edition). Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2008/entries/aristotle-categories/](https://plato.stanford.edu/archives/fall2008/entries/aristotle-categories/).
+* Thomasson, Amie L., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* –––, 2002, “Phenomenology and the Development of Analytic Philosophy”, *Southern Journal of Philosophy*, 40 (Supplement): 115–142.
+* –––, 2007, *Ordinary Objects*, New York: Oxford University Press.
+* –––, 2015, *Ontology Made Easy*, New York: Oxford University Press.
+* –––, 2022, “How Should we Think about Linguistic Function?”, *Inquiry,* DOI: 10.1080/0020174X.2022.2074886
+* Thompson, Manley, 1957, “On Category Differences”, *Philosophical Review*, 66(4): 486–508.
+* Westerhoff, Jan, 2002, “Defining ‘Ontological Category’”, *Proceedings of the Aristotelian Society*, 102(3): 337–343.
+* –––, 2004, “The Construction of Ontological Categories”, *Australasian Journal of Philosophy*, 84(4): 599–620.
+* –––, 2005, *Ontological Categories: Their Nature and Significance*, Oxford: Clarendon.
+* Wiggins, David, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
+* Wright, Crispin, 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
 
 ## Academic Tools
 
@@ -396,4 +396,4 @@ Dummett 对于理解对象类别的方式也为回应这一反对意见打开了
 Many thanks go to Willem de Vries, Simon Evnine, Jonathan Lowe, Friederike Moltmann, Linda Palmer, David Woodruff Smith, Jennifer Uleman, and Achille Varzi for very helpful comments on earlier drafts of this entry. Thanks also to Amanda McMullen and an anonymous referee for help in identifying new literature relevant to the (2013) revised version of this entry.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Amie Thomasson](http://philosophy.dartmouth.edu/people/amie-l-thomasson) <[_amie.l.thomasson@dartmouth.edu_](mailto:amie%2el%2ethomasson%40dartmouth%2eedu)>
+[Amie Thomasson](http://philosophy.dartmouth.edu/people/amie-l-thomasson) <[*amie.l.thomasson@dartmouth.edu*](mailto:amie%2el%2ethomasson%40dartmouth%2eedu)>

@@ -1,9 +1,8 @@
 # 最著名的一对 binarium famosissimum \[= most famous pair] (Paul Vincent Spade)
 
-_First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
+*First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008*
 
-“_Binarium famosissimum_”（=“最著名的一对”）是 20 世纪一些中世纪哲学历史学家赋予中世纪哲学特征的一对学说的名称——普遍的物质形态学和形式的多样性，这两个学说通常由 13 世纪“奥古斯丁派”的学者们共同维护。这些学说受到了“亚里士多德派”如托马斯·阿奎那等人的反对。这两个理论在这个名称下的联系似乎是最近才发展起来的，尽管这两个理论之间存在概念上的联系。
-
+“*Binarium famosissimum*”（=“最著名的一对”）是 20 世纪一些中世纪哲学历史学家赋予中世纪哲学特征的一对学说的名称——普遍的物质形态学和形式的多样性，这两个学说通常由 13 世纪“奥古斯丁派”的学者们共同维护。这些学说受到了“亚里士多德派”如托马斯·阿奎那等人的反对。这两个理论在这个名称下的联系似乎是最近才发展起来的，尽管这两个理论之间存在概念上的联系。
 
 ***
 
@@ -17,11 +16,11 @@ _First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
 4. 神圣的启示，通过亚维哲学的影响进行解释
 5. 灵魂的真实本质与其能力或能量。
 
-这个列表中的第二和第三项共同构成了被称为“最著名的一对”的 _“binarium famosissimum”_ 。
+这个列表中的第二和第三项共同构成了被称为“最著名的一对”的 *“binarium famosissimum”* 。
 
 ### 1.1 通用的物质形态学
 
-保罗·伍德拉夫（Paul Woodruff）将物质形态论定义为“亚里士多德首次提出的观点，即具体物质由物质（_hyle_）中的形态组成”（Audi \[1999]，第 408 页）。因此，人们可能会期望_普遍_的物质形态论是一种观点，即_所有_物质都由物质中的形态组成。但事实上，中世纪的普遍物质形态论维持了比这稍微弱一些的观点；它认为除了上帝之外，所有物质都由物质和形态组成，而上帝则完全是非物质的。
+保罗·伍德拉夫（Paul Woodruff）将物质形态论定义为“亚里士多德首次提出的观点，即具体物质由物质（*hyle*）中的形态组成”（Audi \[1999]，第 408 页）。因此，人们可能会期望_普遍_的物质形态论是一种观点，即_所有_物质都由物质中的形态组成。但事实上，中世纪的普遍物质形态论维持了比这稍微弱一些的观点；它认为除了上帝之外，所有物质都由物质和形态组成，而上帝则完全是非物质的。
 
 这种观点似乎是基于两个更基本的命题的结果：
 
@@ -31,7 +30,7 @@ _First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
 
 第二个论点的推理是模糊的。另一方面，很容易找到详细论述第一个主张的中世纪作者。\[[3](https://plato.stanford.edu/entries/binarium/notes.html#AquinasSimplicity)] 然而，令人惊讶的是，很难找到任何一个中世纪作者对此提供一个好的“动机”。也就是说，为什么坚持认为上帝和只有上帝在形而上学上是简单的是“重要”的呢？这个主张有什么依据呢？
 
-诱人而合理的假设是，内隐的推理大致如下：“复合”（_com_ + _positus_ = “放在一起”）的事物不仅仅是“偶然”地复合在一起；有些东西将它们放在一起。简而言之，构成需要一个效果原因。因此，作为第一原因的上帝不能是复合的。相反，任何被引起的东西在某种意义上都是复合的。因此，由于除上帝之外的一切都是被创造的，因此是被引起的，除上帝之外的一切都是复合的。简而言之，上帝的独特简单性之所以重要，是因为它是创造教义所要求的。然而，尽管这种推理线索是合理的，但我所知道的任何一个中世纪作者都没有明确陈述过它。\[[4](https://plato.stanford.edu/entries/binarium/notes.html#Simplicity)]
+诱人而合理的假设是，内隐的推理大致如下：“复合”（*com* + *positus* = “放在一起”）的事物不仅仅是“偶然”地复合在一起；有些东西将它们放在一起。简而言之，构成需要一个效果原因。因此，作为第一原因的上帝不能是复合的。相反，任何被引起的东西在某种意义上都是复合的。因此，由于除上帝之外的一切都是被创造的，因此是被引起的，除上帝之外的一切都是复合的。简而言之，上帝的独特简单性之所以重要，是因为它是创造教义所要求的。然而，尽管这种推理线索是合理的，但我所知道的任何一个中世纪作者都没有明确陈述过它。\[[4](https://plato.stanford.edu/entries/binarium/notes.html#Simplicity)]
 
 所有生物都是物质和形式的组合的观念要求我们对我们可能称之为“非物质”物质的东西进行一些说明——天使、亚里士多德的“分离物质”，以及死后的人类灵魂。对于普遍的物质形式论来说，这些实体不能真正是非物质的，然而它们显然与熟悉的物理对象非常不同。因此，普遍的物质形式论者区分了“有形”物质，即物理、可感知对象的物质，和另一种有时被称为“精神物质”的物质。\[[5](https://plato.stanford.edu/entries/binarium/notes.html#SpiritualMatter)]
 
@@ -51,7 +50,7 @@ _First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
 
 但其他作者则否定了这两种观点。最著名的无疑是托马斯·阿奎那。阿奎那认为上帝绝对的简单性的独特性并不需要在所有受造物中假设一种物质的存在。相反，所有受造物，包括无形的物质，如天使或人的灵魂，都是复合的，因为它们具有本质和存在（“to be”，存在的行为）的组合，无论它们是否具有额外的组合或物质和形式。\[17]此外，他认为，如果任何物质具有多样性的形式，只有第一个到达它的形式可以是实质形式；其他所有形式都必须是偶然形式。\[18]Godfrey of Fontaines 同样否定了这两个理论。约翰·邓斯·斯科特则接受了形式的多样性，但否认了普遍的物质形态学。\[19]
 
-## 3. The expression _“binarium famosissimum”_
+## 3. The expression *“binarium famosissimum”*
 
 “binarium famosissimum”这个表达并不是中世纪对这两个学说的标签；在这个意义上的使用似乎纯粹是 20 世纪的发展。奇怪的是，在中世纪的文本中只发现了一次这个表达，即上面引用的匿名的《Summa philosophiae》。\[20]但很明显，这位作者使用这个表达来指代物质的分裂为有形和无形的\[21]。
 
@@ -61,11 +60,11 @@ _First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
 
 > 在布伦德身上，我们看到了在那个世纪的下半叶将不同学派分为两个对立阵营的重大问题，哲学家和神学家、亚里士多德派和所谓的奥古斯丁派之间冲突的轮廓。在布伦德身上，我们遇到了关于奥古斯丁派最著名的二元性、形式的多样性和属物形态组合的最早、清晰且不容置疑的描述，这些形态包括了天使和人类灵魂。
 
-再次，在 1946 年发表的一篇论文中，卡卢斯\[1955]，第 4 页提到了“_binarium famosissimum_，这个被认为是奥古斯丁学派整个结构所依赖的双重支柱。”虽然他在那里没有说这个“双重支柱”是什么，但几页之后（第 9 页），他引用了“_famosissimum binarium Augustinianum_，即所有被创造的存在的物质形态组合，不仅包括有形的，还包括精神的物质，天使和人的灵魂；以及一个个体中的多样形式。”
+再次，在 1946 年发表的一篇论文中，卡卢斯\[1955]，第 4 页提到了“*binarium famosissimum*，这个被认为是奥古斯丁学派整个结构所依赖的双重支柱。”虽然他在那里没有说这个“双重支柱”是什么，但几页之后（第 9 页），他引用了“*famosissimum binarium Augustinianum*，即所有被创造的存在的物质形态组合，不仅包括有形的，还包括精神的物质，天使和人的灵魂；以及一个个体中的多样形式。”
 
 几年后，吉尔森\[1955]，第 377 页，在他的巨著《中世纪基督教哲学史》中讨论托马斯·阿奎那时说：
 
-> 对于“_binarium famosissimum_，即物质形态和多样形式的根本消除，并不是由于对亚里士多德形而上学的更正确理解，而是由于托马斯·阿奎那引入了一种新的形而上学存在概念。”
+> 对于“*binarium famosissimum*，即物质形态和多样形式的根本消除，并不是由于对亚里士多德形而上学的更正确理解，而是由于托马斯·阿奎那引入了一种新的形而上学存在概念。”
 
 再次，Weisheipl \[1980]，第 250 页，谈到阿尔伯特大师时说（强调是 Weisheipl 的）：
 
@@ -99,25 +98,25 @@ _First published Mon Jul 14, 2003; substantive revision Mon Jun 16, 2008_
 
 ## Bibliography
 
-* Aquinas, Thomas. 1949. _On Spiritual Creatures (De Spiritualibus Creaturis)._ Mary C. FitzPatrick and John J. Wellmuth, trans. “Mediaeval Philosophical Texts in Translation,” no. 5. Milwaukee: Marquette University Press.
-* –––. 1968. _On Being and Essence._ 2nd rev. ed. Armand Maurer, trans. Toronto: Pontifical Institute of Mediaeval Studies. (Original edition 1949.)
-* Audi, Robert, ed. 1999. _The Cambridge Dictionary of Philosophy._ 2nd ed. Cambridge: Cambridge University Press.
-* Baur, Ludwig, ed. 1912. _Die philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln_, Münster i. W.: Aschendorff. (_Beiträge zur Geschichte der Philosophie des Mittelalters,_ Bd. 9.)
-* Callus, Daniel. 1943. “Introduction of Aristotelian Learning to Oxford,” _Proceedings of the British Academy_ 29, pp. 229–81,
+* Aquinas, Thomas. 1949. *On Spiritual Creatures (De Spiritualibus Creaturis).* Mary C. FitzPatrick and John J. Wellmuth, trans. “Mediaeval Philosophical Texts in Translation,” no. 5. Milwaukee: Marquette University Press.
+* –––. 1968. *On Being and Essence.* 2nd rev. ed. Armand Maurer, trans. Toronto: Pontifical Institute of Mediaeval Studies. (Original edition 1949.)
+* Audi, Robert, ed. 1999. *The Cambridge Dictionary of Philosophy.* 2nd ed. Cambridge: Cambridge University Press.
+* Baur, Ludwig, ed. 1912. *Die philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln*, Münster i. W.: Aschendorff. (*Beiträge zur Geschichte der Philosophie des Mittelalters,* Bd. 9.)
+* Callus, Daniel. 1943. “Introduction of Aristotelian Learning to Oxford,” *Proceedings of the British Academy* 29, pp. 229–81,
 * –––. 1955. “The Condemnation of St Thomas at Oxford.” 2nd ed. (“The Aquinas Society of London: Aquinas Paper,” No. 5.) London: Blackfriars. (“A paper read to the Aquinas Society of London on 24th April, 1946.” First published 1946.)
-* De Wulf, Maurice. 1926. _History of Mediaeval Philosophy._ Ernest C. Messenger, trans. 2 vols. London: Longmans, Green and Co. (Translated from De Wulf's _Histoire de la philosophie médiévale._ Louvain: Institut supérieure de philosophie, 1924–25.)
-* Gilson, Étienne. 1955. _History of Christian Philosophy in the Middle Ages._ New York: Random House.
-* Hyman, Arthur, and James J. Walsh. 1973. _Philosophy in the Middle Ages: The Christian, Islamic, and Jewish Traditions._ Indianapolis: Hackett Publishing Co. (2nd ed. 1983.)
-* Lottin, Odon. 1932. “La composition hylémorphique des substances spirituelles. Les débuts de la controverse,” _Revue néoscolastique de Philosophie_ 34, pp. 21–41.
-* Ockham, William of. 1991. _Quodlibetal Questions._ Alfred J. Freddoso and Francis E. Kelly, trans. New Haven: Yale University Press.
-* Peckham, John. 1882–85. _Registrum epistolarum fratris Johannis Peckham, archiepiscopi cantuariensis._ Charles Trice Martin, ed. 3 vols. London: Longman. (In the “Rolls Series.”)
-* Quinn, John Francis. 1973. _The Historical Constitution of St. Bonaventure's Philosophy._ “Studies and Texts,” vol. 23. Toronto: Pontifical Institute of Mediaeval Studies.
-* Sharp, D. E. 1930. _Franciscan Philosophy at Oxford in the Thirteenth Century._ London: Oxford University Press.
-* Steenberghen, Fernand van. 1955. _The Philosophical Movement in the Thirteenth Century._ Edinburgh: Thomas Nelson. (Lectures given at The Queen's University, Belfast, 1953.)
-* Synan, E. A. 1993. Review of Girard J. Etzkorn, ed. 1989. _Fr. Ioannes Pecham, O.F.M. Quodlibeta quatuor: Quodlibeta I–III._ Grottaferrata: Collegio S. Bonaventura, Padri Editori di Quaracchi. (_Bibliotheca Franciscana Scholastica Medii Aevi,_ vol. 25.) In _Speculum_ 68, pp. 234–36.
-* Weisheipl, James A. 1980. “Albertus Magnus and Universal Hylomorphism: Avicebron. A Note on Thirteenth-Century Augustinianism.” In Kovach, Francis J., and Robert W. Shahan, ed. 1980. _Albert the Great: Commemorative Essays._ Norman, Oklahoma: University of Oklahoma Press, pp. 239–60. Also published in _The Southwestern Journal of Philosophy_ X.3 (1980), pp. 239–60.
-* –––. 1984. “Science in the Thirteenth Century.” In J. I. Catto, ed. _The early Oxford Schools._ Oxford: Clarendon Press, 1984. Chap. 11, pp. 435–69. (Vol. 1 of T. H. Aston, ed. _The History of the University of Oxford._)
-* Zavalloni, Roberto. 1951. _Richard de Mediavilla et la controverse sur la pluralité des forms._ Louvain: Éditions de l'institut supérieur de philosophie. (_Philosophes Médiévaux,_ vol. 2.)
+* De Wulf, Maurice. 1926. *History of Mediaeval Philosophy.* Ernest C. Messenger, trans. 2 vols. London: Longmans, Green and Co. (Translated from De Wulf's *Histoire de la philosophie médiévale.* Louvain: Institut supérieure de philosophie, 1924–25.)
+* Gilson, Étienne. 1955. *History of Christian Philosophy in the Middle Ages.* New York: Random House.
+* Hyman, Arthur, and James J. Walsh. 1973. *Philosophy in the Middle Ages: The Christian, Islamic, and Jewish Traditions.* Indianapolis: Hackett Publishing Co. (2nd ed. 1983.)
+* Lottin, Odon. 1932. “La composition hylémorphique des substances spirituelles. Les débuts de la controverse,” *Revue néoscolastique de Philosophie* 34, pp. 21–41.
+* Ockham, William of. 1991. *Quodlibetal Questions.* Alfred J. Freddoso and Francis E. Kelly, trans. New Haven: Yale University Press.
+* Peckham, John. 1882–85. *Registrum epistolarum fratris Johannis Peckham, archiepiscopi cantuariensis.* Charles Trice Martin, ed. 3 vols. London: Longman. (In the “Rolls Series.”)
+* Quinn, John Francis. 1973. *The Historical Constitution of St. Bonaventure's Philosophy.* “Studies and Texts,” vol. 23. Toronto: Pontifical Institute of Mediaeval Studies.
+* Sharp, D. E. 1930. *Franciscan Philosophy at Oxford in the Thirteenth Century.* London: Oxford University Press.
+* Steenberghen, Fernand van. 1955. *The Philosophical Movement in the Thirteenth Century.* Edinburgh: Thomas Nelson. (Lectures given at The Queen's University, Belfast, 1953.)
+* Synan, E. A. 1993. Review of Girard J. Etzkorn, ed. 1989. *Fr. Ioannes Pecham, O.F.M. Quodlibeta quatuor: Quodlibeta I–III.* Grottaferrata: Collegio S. Bonaventura, Padri Editori di Quaracchi. (*Bibliotheca Franciscana Scholastica Medii Aevi,* vol. 25.) In *Speculum* 68, pp. 234–36.
+* Weisheipl, James A. 1980. “Albertus Magnus and Universal Hylomorphism: Avicebron. A Note on Thirteenth-Century Augustinianism.” In Kovach, Francis J., and Robert W. Shahan, ed. 1980. *Albert the Great: Commemorative Essays.* Norman, Oklahoma: University of Oklahoma Press, pp. 239–60. Also published in *The Southwestern Journal of Philosophy* X.3 (1980), pp. 239–60.
+* –––. 1984. “Science in the Thirteenth Century.” In J. I. Catto, ed. *The early Oxford Schools.* Oxford: Clarendon Press, 1984. Chap. 11, pp. 435–69. (Vol. 1 of T. H. Aston, ed. *The History of the University of Oxford.*)
+* Zavalloni, Roberto. 1951. *Richard de Mediavilla et la controverse sur la pluralité des forms.* Louvain: Éditions de l'institut supérieur de philosophie. (*Philosophes Médiévaux,* vol. 2.)
 
 ## Academic Tools
 

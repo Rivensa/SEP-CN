@@ -1,10 +1,8 @@
 # 恩斯特·卡西尔 Cassirer, Ernst (Michael Friedman)
 
-_首次发表于 2004 年 6 月 30 日星期三；实质性修订于 2022 年 2 月 27 日星期日_
+*首次发表于 2004 年 6 月 30 日星期三；实质性修订于 2022 年 2 月 27 日星期日*
 
-恩斯特·卡西尔在 20 世纪哲学中占据着独特的地位。他的工作同样关注数学和自然科学哲学中的基础和认识论问题，以及美学、历史哲学和其他广义上的“文化科学”问题。与自康德以来的任何其他德国哲学家不同，卡西尔因此致力于同等哲学关注（数学和）自然科学（_Naturwissenschaften_）以及更人文学科（_Geisteswissenschaften_）。因此，卡西尔比 20 世纪其他任何哲学家更多地扮演着基础性的中介角色，既关注 C. P. Snow 著名的“两种文化”，又在 20 世纪学术哲学的两大传统——“分析”和“大陆”传统之间扮演着类似的中介角色——这两大传统在对待学科中科学和人文元素之间关系的根本不同（并且常常相互不理解）的观点导致了哲学在英美世界一侧的实践与在世界其他地方的实践之间产生了根本性的分裂或鸿沟。相比之下，卡西尔与这两大传统的主要成员都有着富有成效的哲学关系——与维也纳逻辑实证主义者圈的创始人和精神领袖莫里茨·施利克，后者在逻辑和科学哲学方面的工作对美国哲学的发展产生了决定性影响，以及与马丁·海德格尔，后者创立了一种激进的“存在-诠释学”版本的胡塞尔现象学，迅速在欧洲大陆占主导地位。
-
-
+恩斯特·卡西尔在 20 世纪哲学中占据着独特的地位。他的工作同样关注数学和自然科学哲学中的基础和认识论问题，以及美学、历史哲学和其他广义上的“文化科学”问题。与自康德以来的任何其他德国哲学家不同，卡西尔因此致力于同等哲学关注（数学和）自然科学（*Naturwissenschaften*）以及更人文学科（*Geisteswissenschaften*）。因此，卡西尔比 20 世纪其他任何哲学家更多地扮演着基础性的中介角色，既关注 C. P. Snow 著名的“两种文化”，又在 20 世纪学术哲学的两大传统——“分析”和“大陆”传统之间扮演着类似的中介角色——这两大传统在对待学科中科学和人文元素之间关系的根本不同（并且常常相互不理解）的观点导致了哲学在英美世界一侧的实践与在世界其他地方的实践之间产生了根本性的分裂或鸿沟。相比之下，卡西尔与这两大传统的主要成员都有着富有成效的哲学关系——与维也纳逻辑实证主义者圈的创始人和精神领袖莫里茨·施利克，后者在逻辑和科学哲学方面的工作对美国哲学的发展产生了决定性影响，以及与马丁·海德格尔，后者创立了一种激进的“存在-诠释学”版本的胡塞尔现象学，迅速在欧洲大陆占主导地位。
 
 ***
 
@@ -18,7 +16,7 @@ _首次发表于 2004 年 6 月 30 日星期三；实质性修订于 2022 年 2 
 
 如上所述，卡西尔的最初著作在很大程度上具有历史性特征 - 包括讨论莱布尼茨哲学在其科学背景下的著作《认识问题在近代哲学和科学中的哲学》\[卡西尔 1902]，以及一部关于从文艺复兴到康德的现代思想史的大部头作品，《认识问题在近代哲学和科学中的哲学》\[卡西尔 1906, 1907a]。后者尤其是一部权威且极具原创性的作品，对哲学史和科学史都作出了贡献。事实上，这是第一部以“柏拉图式”思想来全面阐释科学革命的作品，即将数学彻底应用于自然（即所谓的自然数学化）被视为这一革命的中心和主要成就。卡西尔的洞见得到了埃·A·伯特、E·J·迪克斯特豪斯和亚历山大·科伊雷等开创性的知识史学家的明确肯定，后者在建立我们今天所知的科学史学科的过程中在本世纪后期发展了这一主题（参见，例如，\[伯特 1925]，\[科伊雷 1939]，\[迪克斯特豪斯 1959]）。卡西尔本人同时阐述了现代哲学史的解释，称之为“现代哲学唯心主义”的发展和最终胜利。根据卡西尔的说法，这一传统从柏拉图式的唯心主义中汲取灵感，从对数学中典范性研究的“理想”形式结构的赞赏中汲取灵感，它在承认将这些结构系统地应用于现代数学物理学中对经验性给定的自然的基本重要性方面具有现代特色 - 这是一个渐进的综合过程，在这个过程中，自然的数学模型不断被完善和修正，没有极限。对于卡西尔来说，最重要的是，伽利略首先领悟了这一综合过程的基本结构，与无生气的亚里士多德-斯科拉学派形式逻辑和无生气的亚里士多德-斯科拉学派经验归纳相对立；而笛卡尔、斯宾诺莎、伽森第、霍布斯、莱布尼兹和康德等思想家发展了“现代哲学唯心主义”，其核心在于越来越自觉地哲学表达和阐释这一过程。
 
-在恩斯特·卡西尔的《莱布尼茨书》和《认识问题》中，他从马堡新康德主义的基本哲学原则的角度解释了现代思想的整体发展：哲学作为认识论（_Erkenntniskritik_）将现代数学自然科学的结构的表达和阐述作为其首要任务；因此，哲学必须以“科学事实”为出发点和最终给定的数据；尤其重要的是，所谓的科学知识的“遗传”观念被看作是一个持续的、永远不会完成的综合过程（见下文）。从当代的角度看，卡西尔的历史可能看起来既“Whiggish”又“胜利主义”，但不可否认的是，他的作品非常丰富、清晰而富有启发性。卡西尔仔细而详细地研究了令人惊讶的各种文本来源（包括主要和次要人物），并且，在不忽视怀疑论和经验主义传统中的相反倾向的情况下，他描绘了通过康德发展起来的“现代哲学唯心主义”的演变，即使在今天看来，仍然极具说服力和敏锐。
+在恩斯特·卡西尔的《莱布尼茨书》和《认识问题》中，他从马堡新康德主义的基本哲学原则的角度解释了现代思想的整体发展：哲学作为认识论（*Erkenntniskritik*）将现代数学自然科学的结构的表达和阐述作为其首要任务；因此，哲学必须以“科学事实”为出发点和最终给定的数据；尤其重要的是，所谓的科学知识的“遗传”观念被看作是一个持续的、永远不会完成的综合过程（见下文）。从当代的角度看，卡西尔的历史可能看起来既“Whiggish”又“胜利主义”，但不可否认的是，他的作品非常丰富、清晰而富有启发性。卡西尔仔细而详细地研究了令人惊讶的各种文本来源（包括主要和次要人物），并且，在不忽视怀疑论和经验主义传统中的相反倾向的情况下，他描绘了通过康德发展起来的“现代哲学唯心主义”的演变，即使在今天看来，仍然极具说服力和敏锐。
 
 因此，卡西尔必须被视为二十世纪最伟大的知识历史学家之一，实际上，也是这一学科在 1900 年后开始实践时的创始人之一。他在整个职业生涯中继续对广义的知识史做出贡献（尤其是在他对文艺复兴和启蒙运动的基础研究中\[Cassirer 1927a, 1932]），并且对整个世纪的知识史产生了重大影响。除了科学史（见上文），卡西尔还对知识历史学家产生了决定性影响，包括著名的知识历史学家彼得·盖伊和杰出的艺术史学家埃尔温·帕诺夫斯基（例如，\[Gay 1977]，\[Panofsky 1939]）。正如我们将在下文看到的，知识历史（以及后来的文化历史）是卡西尔独特哲学方法论的一个组成部分，因此，在他的案例中，哲学中“历史性”和“系统性”工作之间的标准区分看起来相当人为。
 
@@ -40,11 +38,11 @@ _首次发表于 2004 年 6 月 30 日星期三；实质性修订于 2022 年 2 
 
 象征形式哲学的特点是关注“更原始”的世界呈现形式，这些形式构成了“更高级”和更复杂的文化形式的基础 - 关注主要表现在自然语言中的普通感知世界意识，尤其是关注位于所有最原始层次的神话世界观。对于卡西尔来说，这些更原始的“象征意义”表现现在具有独立的地位和基础性作用，这与马尔堡新康德主义和康德最初的哲学构想完全不相容。特别是，它们位于更深层次、自主的精神生活水平，然后通过辩证发展过程产生更复杂的形式。从神话思维中发展出宗教和艺术；从自然语言中发展出理论科学。正是在这里，卡西尔借鉴了超越康德和新康德主义传统的“浪漫”哲学倾向，运用了源自黑格尔的历史辩证法，并与威廉·迪尔泰、亨利·勃松、马克斯·舍勒和乔治·西美尔等当代的“生活哲学” - 以及与马丁·海德格尔密切相关的哲学进行了调和。
 
-最基本和原始的符号意义类型是_表达_意义，是卡西尔所称的思维表达功能（_Ausdrucksfunktion_）的产物，它关注我们周围世界中事件的经验，将其视为充满情感和情绪意义，或可爱或可恨，令人安慰或威胁。对于卡西尔来说，正是这种意义类型构成了神话意识的基础，并解释了其最独特的特征，即其完全不考虑表象与现实之间的区别。由于神话世界并非由稳定持久的物质组成，这些物质可以从不同角度和在不同场合展现自己，而是由一系列因其情感和情绪“相貌特征”而紧密联系的事件组成，因此它也展示了自己特有的因果关系类型，其中每个部分实际上包含了它所属的整体，并因此能够施加整体的所有因果效力。同样，生者和死者之间，清醒经历和梦境之间，物体的名称和物体本身之间等，在效力上没有根本区别。因此，康德的基本“范畴”空间、时间、物质（或对象）和因果关系呈现出独特的配置，代表了神话思维的形式先验结构。
+最基本和原始的符号意义类型是_表达_意义，是卡西尔所称的思维表达功能（*Ausdrucksfunktion*）的产物，它关注我们周围世界中事件的经验，将其视为充满情感和情绪意义，或可爱或可恨，令人安慰或威胁。对于卡西尔来说，正是这种意义类型构成了神话意识的基础，并解释了其最独特的特征，即其完全不考虑表象与现实之间的区别。由于神话世界并非由稳定持久的物质组成，这些物质可以从不同角度和在不同场合展现自己，而是由一系列因其情感和情绪“相貌特征”而紧密联系的事件组成，因此它也展示了自己特有的因果关系类型，其中每个部分实际上包含了它所属的整体，并因此能够施加整体的所有因果效力。同样，生者和死者之间，清醒经历和梦境之间，物体的名称和物体本身之间等，在效力上没有根本区别。因此，康德的基本“范畴”空间、时间、物质（或对象）和因果关系呈现出独特的配置，代表了神话思维的形式先验结构。
 
-恩斯特·卡西尔所称的_代表性_符号意义，是思维的代表功能（_Darstellungsfunktion_）的产物，其任务是从原始神话般的“相貌”字符流中析出一个稳定而持久的物质世界，可作为可区分和可重新识别的实体。与在工具和工艺品的技术和实用使用中展现出的基本实用取向一起，根据卡西尔的说法，自然语言是思维的代表功能最为清晰可见的地方。因为主要是通过自然语言的媒介，我们基于卡西尔所称的直观空间和直观时间构建了普通感知世界。自然语言的指示性粒子（后来的冠词）和时态指定了感知对象在与说话者的变化的时空位置（相对于“此时此地”）的关系中的位置，从而形成了一个统一的时空秩序，其中每个指定的对象与说话者、他/她的观点以及他/她的潜在实用活动范围具有确定的关系。我们现在能够区分持久的物质实体，一方面，与其在不同观点和不同场合下的可变表现，另一方面，并因此得出外观与现实之间的新基本区别。这一区别在卡西尔看来以其最发展的形式表达，即在命题真理的语言概念中，因此在命题连词中。在这里，康德的空间、时间、物质和因果性的“范畴”具有独特的直观或“陈述性”配置。
+恩斯特·卡西尔所称的_代表性_符号意义，是思维的代表功能（*Darstellungsfunktion*）的产物，其任务是从原始神话般的“相貌”字符流中析出一个稳定而持久的物质世界，可作为可区分和可重新识别的实体。与在工具和工艺品的技术和实用使用中展现出的基本实用取向一起，根据卡西尔的说法，自然语言是思维的代表功能最为清晰可见的地方。因为主要是通过自然语言的媒介，我们基于卡西尔所称的直观空间和直观时间构建了普通感知世界。自然语言的指示性粒子（后来的冠词）和时态指定了感知对象在与说话者的变化的时空位置（相对于“此时此地”）的关系中的位置，从而形成了一个统一的时空秩序，其中每个指定的对象与说话者、他/她的观点以及他/她的潜在实用活动范围具有确定的关系。我们现在能够区分持久的物质实体，一方面，与其在不同观点和不同场合下的可变表现，另一方面，并因此得出外观与现实之间的新基本区别。这一区别在卡西尔看来以其最发展的形式表达，即在命题真理的语言概念中，因此在命题连词中。在这里，康德的空间、时间、物质和因果性的“范畴”具有独特的直观或“陈述性”配置。
 
-区分表象和现实，如在命题的连词中所表达的那样，辩证地引导思维的一个新任务，即理论科学的任务，系统地探究真理领域。在这里，我们遇到了符号意义的第三和最终功能，即“指示功能”（_Bedeutungsfunktion_），根据卡西尔的说法，这在“纯粹的关系范畴”中表现得最为明显。因为正是在这里，在世界的科学观中，现代数学、逻辑和数学物理学中特有的纯粹关系概念最终摆脱了感性直觉的限制。例如，数学空间和时间是从直觉空间和时间中抽象出来的，当我们摆脱了所有指示性关系到“此时此地”的时刻，转而考虑所有可能的“此时此地”点都嵌入其中的单一关系系统；自然数的数学系统是从所有计数的具体应用中抽象出来的，转而考虑所有可能的计数应用都被包括在内的单一潜在无限进程；等等。最终的结果是卡西尔早期科学著作中描述的现代数学物理世界——一个纯粹的形式关系系统，在这里，特别是直观的实体概念最终被普遍法则的关系功能概念所取代。因此，正是在这里，也只有在这里，马尔堡学派特有的（新）康德主义的概括和纯化形式才能准确描述人类思维。这种描述现在被看作是从一个更为全面的辩证过程中单方面抽象出来的，这个过程如果不同等地关注其更具体和直观的符号表现，就无法得到充分理解；最终，正是这种方式，马尔堡的“科学事实”现在已牢固地嵌入到更为普遍的整体“文化事实”中。
+区分表象和现实，如在命题的连词中所表达的那样，辩证地引导思维的一个新任务，即理论科学的任务，系统地探究真理领域。在这里，我们遇到了符号意义的第三和最终功能，即“指示功能”（*Bedeutungsfunktion*），根据卡西尔的说法，这在“纯粹的关系范畴”中表现得最为明显。因为正是在这里，在世界的科学观中，现代数学、逻辑和数学物理学中特有的纯粹关系概念最终摆脱了感性直觉的限制。例如，数学空间和时间是从直觉空间和时间中抽象出来的，当我们摆脱了所有指示性关系到“此时此地”的时刻，转而考虑所有可能的“此时此地”点都嵌入其中的单一关系系统；自然数的数学系统是从所有计数的具体应用中抽象出来的，转而考虑所有可能的计数应用都被包括在内的单一潜在无限进程；等等。最终的结果是卡西尔早期科学著作中描述的现代数学物理世界——一个纯粹的形式关系系统，在这里，特别是直观的实体概念最终被普遍法则的关系功能概念所取代。因此，正是在这里，也只有在这里，马尔堡学派特有的（新）康德主义的概括和纯化形式才能准确描述人类思维。这种描述现在被看作是从一个更为全面的辩证过程中单方面抽象出来的，这个过程如果不同等地关注其更具体和直观的符号表现，就无法得到充分理解；最终，正是这种方式，马尔堡的“科学事实”现在已牢固地嵌入到更为普遍的整体“文化事实”中。
 
 ## 5. 卡西尔、黑格尔和文化科学
 
@@ -52,13 +50,13 @@ Cassirer 在《象征形式哲学》和黑格尔《精神现象学》的序言�
 
 黑格尔将自然（Natur）和精神（Geist）构想为单一神圣无限理性的两种不同表达形式，这种理性从两个不同的角度在时间上显现出来。他的哲学科学百科全书项目分为三部分，逻辑、自然哲学和精神哲学，其中逻辑的任务是描述无限神圣理性的辩证概念结构。然而，随着世纪的发展，黑格尔为确保自然和精神的最终逻辑-形而上学一致性的项目的追随者越来越少，新康德主义的兴起以及由赫尔曼·冯·赫尔姆霍兹（Hermann von Helmholtz）在自然科学领域的进一步发展，削弱了舒莱林和黑格尔的原始“自然哲学”以及他们的绝对理性的吸引力。结果就是“自然科学”和“人文科学”的问题，它呈现给 19 世纪末和 20 世纪初。卡西尔在 1942 年对这一问题提出了一种典型的方法论视角，将这两个学科视为“经验的”而不是“推测性”的科学（在舒莱林和黑格尔的意义上），并在象征形式哲学中阐明了它们的方法论关系。
 
-\[Cassirer 1942]认为，文化科学的经验证据基础始于感知到的物理对象和过程的领域，这与自然科学相同 - 在这种情况下，文献、文物、仪式、表演 - 但它继续赋予它们一种在自然科学中并不涉及的象征“意义”或“含义”。我们必须特别区分思维的代表功能（_Darstellungsfunktion_）和表达功能（_Ausdrucksfunktion_），只有偏袒“物感知\[_Dingwahrnehmen_]”胜过“表达感知\[_Ausdruckswahrnehmen_]”的偏见才能支持自然科学比文化科学具有更可靠的证据基础的观念。（正是这种偏见，根据卡西尔的说法，是卡尔纳普的“物理主义”背后的原因。）相比之下，对卡西尔来说，两种感知形式同样合法。自然科学从物感知领域获取证据，而文化科学则从表达感知领域获取证据 - 首先是从我们在共享“文化含义”共同系统的人类社区中的生活经验中获取。
+\[Cassirer 1942]认为，文化科学的经验证据基础始于感知到的物理对象和过程的领域，这与自然科学相同 - 在这种情况下，文献、文物、仪式、表演 - 但它继续赋予它们一种在自然科学中并不涉及的象征“意义”或“含义”。我们必须特别区分思维的代表功能（*Darstellungsfunktion*）和表达功能（*Ausdrucksfunktion*），只有偏袒“物感知\[*Dingwahrnehmen*]”胜过“表达感知\[*Ausdruckswahrnehmen*]”的偏见才能支持自然科学比文化科学具有更可靠的证据基础的观念。（正是这种偏见，根据卡西尔的说法，是卡尔纳普的“物理主义”背后的原因。）相比之下，对卡西尔来说，两种感知形式同样合法。自然科学从物感知领域获取证据，而文化科学则从表达感知领域获取证据 - 首先是从我们在共享“文化含义”共同系统的人类社区中的生活经验中获取。
 
 然而，在文化_科学_中，我们也有能力将这种含义扩展到超出最初局部背景的范围。在自然科学中，人际有效性依赖于涵盖所有（物理）地点和时间的自然普遍规律，而在文化科学中，类似类型的人际有效性独立于这些规律而产生。尽管每个“文化对象”在（历史）时间和（地理文化）空间中都有其独特位置，但它仍然可以不断接近一个通用的文化含义（在历史或民族志学中），因为它在不断地_解释和重新解释_，从其他时间和地点的角度来看。通用文化含义因此只是渐近地出现，类似于马尔堡学派对知识的意义功能的基础。然而，与抽象的数学向后包含关系不同，我们在历史文化科学中关注的是向后解释和重新解释的解释关系 - 结果是，在这些科学中，无法可靠地预测未来。
 
 我们可以通过考虑恩斯特·卡西尔与康德和黑格尔之间的关系的演变来进一步阐明。在 1929 年的达沃斯辩论中，卡西尔挑战海德格尔的激进“有限主义”，他提到数学科学和道德中所发现的假定的必要和永恒的有效性。在辩论之后，卡西尔在《存在与时间》（1927 年）中增加了五个脚注，这本书在《知识现象学》出版之前，他在其中暗示他试图用神话思维而不是普通感知开始黑格尔现象学的尝试也可以解决海德格尔的关注点。然而，1931 年，卡西尔发表了一篇评论\[海德格尔 1929]，这与他在达沃斯的言论有所不同。卡西尔现在主要强调康德思想中的伦理和美学维度，而不是数学科学中发现的“永恒”有效性，这表现在《实践理性批判》（1788 年）和《判断力批判》（1790 年）中。他的主要观点是，虽然《纯粹理性批判》（1781/1787）的“经验批判”确实可以从人类有限性的角度撰写，但康德体系的其他部分将这一观点嵌入了更广泛的“人类的可知基础”概念中。
 
-\[卡西尔 1931]反映了他刚刚完成的将马尔堡的知识基因观嵌入更广泛的人类文化发展观念的尝试。卡西尔将他的新文化哲学与黑格尔和海德格尔的关系放在一起，阐明了他与黑格尔的根本分歧——这一分歧在卡西尔 1933 年永远离开德国后的历史和文化著作中得到了表达。通过在他的新文化哲学中将知识的马尔堡观念建立在神话思维\[_Ausdruckswahrnehmen_]和普通语言\[_Dingwahrnehmen_]这些更原始形式之上，卡西尔认为他既尊重了黑格尔和海德格尔的洞见，又避免了前者的无限神圣理性和后者的激进人类有限性。然而，他现在承认康德的人类认知理论仅涉及潜在无限的概念，而非实际无限。特别是，康德对理性观念的规范使用的处理仅从一个纯粹_理论_的角度来看，使得它们的实际内容相当不确定。例如，在超越自由的观念中，我们只能从负面（从理论角度）来确定它，作为一种不受支配于统治现象世界的时间确定条件的因果性。
+\[卡西尔 1931]反映了他刚刚完成的将马尔堡的知识基因观嵌入更广泛的人类文化发展观念的尝试。卡西尔将他的新文化哲学与黑格尔和海德格尔的关系放在一起，阐明了他与黑格尔的根本分歧——这一分歧在卡西尔 1933 年永远离开德国后的历史和文化著作中得到了表达。通过在他的新文化哲学中将知识的马尔堡观念建立在神话思维\[*Ausdruckswahrnehmen*]和普通语言\[*Dingwahrnehmen*]这些更原始形式之上，卡西尔认为他既尊重了黑格尔和海德格尔的洞见，又避免了前者的无限神圣理性和后者的激进人类有限性。然而，他现在承认康德的人类认知理论仅涉及潜在无限的概念，而非实际无限。特别是，康德对理性观念的规范使用的处理仅从一个纯粹_理论_的角度来看，使得它们的实际内容相当不确定。例如，在超越自由的观念中，我们只能从负面（从理论角度）来确定它，作为一种不受支配于统治现象世界的时间确定条件的因果性。
 
 在《实践理性批判》中，康德断言，超越性自由通过我们对道德法则的直接认识（作为理性事实）从纯粹的_实践_理性获得了明确的内容，并且由此赋予这一观念的（实践）客观现实性可以转移到上帝和永恒的观念上。这是因为道德法则无条件地命令我们追求最高善——在地球上实现终极目标的王国——这是一个需要_无限_（实践）信念和希望的_无限_任务。由此产生的与理论理性内部产生的不明确和仅具潜在性的无限的分歧，在《实践理性批判》末尾关于我头顶的星空和我内心的道德法则的著名段落中可见，恩斯特·卡西尔在 1931 年对海德格尔的评论中引用了这段话。《判断力批判》对这一概念的补充是，严格的数学科学对现象世界的理解（“机械”理解）在我们到达人类文化史之前就已经大大耗尽，因此未来原则上可以不断接近最高善而无限制。但正如我们刚才看到的，卡西尔通过他对自然科学和文化科学的方法论区分，已经取得了类似的结果。因此，他有能力用我们人类（实践）理性的解放性无限取代他认为是黑格尔绝对理性的压迫性（推测性）无限。对于卡西尔来说，我们文化的未来始终是开放的，并且始终取决于我们。
 
@@ -68,7 +66,7 @@ Cassirer 在《象征形式哲学》和黑格尔《精神现象学》的序言�
 
 在第二卷的序言中，关于《神话思维》（1925 年），以同样的方式援引了黑格尔，同时也表明了卡西尔与他仍然存在的基本分歧。对于黑格尔\[Hegel（GW 9, 23）]：“科学要求自我意识提升到这个以太中，以便能够与科学共存并为科学而活。相反，个体有权要求科学至少应该为他提供一把梯子，让他达到这个高度，并在他自己身上展示给他。这种权利基于他在每种形式的知识中都知道自己拥有的绝对独立性；因为在每种形式中，无论科学是否承认它，无论其内容是什么，它都是绝对的形式 - 也就是说，它是对自身的直接确定性，如果更喜欢这个术语，因此它是绝对的存在。”
 
-卡西尔在 1925 年修改黑格尔\[Cassirer (1925, ix–x)]：“从这个角度来看，神话问题超越了心理学和心理主义的界限，进入了黑格尔所称的‘精神现象学’这一普遍问题领域。神话与精神现象学的普遍任务之间存在内在而必然的关系，可以从黑格尔对这一概念的构想和界定中间接推导出来：‘自己认识为发展起来的精神的精神’，他在《精神现象学导言》中写道，‘就是科学。’\[因此，从(GW 9, 22–4)开始了一段相当长的引文，其中包括‘认识在其第一阶段，或_直接精神_，是非精神的，即_感性_ _意识_。’]黑格尔表征‘科学’与感性意识的关系的这些命题，对于知识与神话意识的关系来说，同样适用，具有充分的准确性。因为科学所有变化的适当出发点，即其在直接中的起源，不太在感性直觉的领域，而更多地在神话\[直觉]的领域……因此，如果根据黑格尔的要求，‘科学’应该提供通往自身的自然意识之梯，那么它必须再将这梯子放低一级。”
+卡西尔在 1925 年修改黑格尔\[Cassirer (1925, ix–x)]：“从这个角度来看，神话问题超越了心理学和心理主义的界限，进入了黑格尔所称的‘精神现象学’这一普遍问题领域。神话与精神现象学的普遍任务之间存在内在而必然的关系，可以从黑格尔对这一概念的构想和界定中间接推导出来：‘自己认识为发展起来的精神的精神’，他在《精神现象学导言》中写道，‘就是科学。’\[因此，从(GW 9, 22–4)开始了一段相当长的引文，其中包括‘认识在其第一阶段，或_直接精神_，是非精神的，即_感性_ *意识*。’]黑格尔表征‘科学’与感性意识的关系的这些命题，对于知识与神话意识的关系来说，同样适用，具有充分的准确性。因为科学所有变化的适当出发点，即其在直接中的起源，不太在感性直觉的领域，而更多地在神话\[直觉]的领域……因此，如果根据黑格尔的要求，‘科学’应该提供通往自身的自然意识之梯，那么它必须再将这梯子放低一级。”
 
 在超越感性意识到神话意识时，卡西尔强调了一个_非理性_的符号形式作为其他一切的基础。这种强调在卡西尔最后的著作之一《国家神话》中得到了最引人注目的哲学回报，该书于他 1945 年去世后的一年出版。卡西尔受到耶鲁大学同事的鼓励写下了这部作品，以此将他的符号形式哲学应用于当时的重大灾难——纳粹主义在德国的崛起以及随之而来的第二次世界大战。卡西尔对这一情况的诊断是，它依赖于利用现代大众传播技术来唤醒、操纵和利用每个人内心始终存在的基本非理性神话思维功能。卡西尔特别指出两位德国思想家，黑格尔和施宾格勒，对纳粹对极权主义国家的美化做出了贡献——前者作为 19 世纪背景中最重要的政治哲学家，相对较少有罪，为卡西尔所称的‘现代政治神话’铺平了道路，而后者则更有罪，因为这个神话在 20 世纪才刚刚形成。
 
@@ -78,11 +76,11 @@ Cassirer 在哥德堡发展了他对自然科学和文化科学关系的特征�
 
 Hegel 的历史和政治著作应该与早期的《精神现象学》区分开来。当时的黑格尔是启蒙运动的产物 - 尽管是在康德之后的一个时期，法国大革命和拿破仑战争的后果以及工业革命已经开始。
 
-黑格尔的《现象学》中首先讨论的话题是_意识_，从众所周知的_感性确证_和_这个_的讨论开始。下一个话题是_自我意识_，它始于著名的_主宰_和_奴役_的讨论。在这里，很明显，所讨论的自我意识是所谓的“现代主体性”，侧重于第一人称单数代词_I_ - 但同样，在这种情况下，也侧重于第二人称单数_you_和第一人称复数_we_。在这里，黑格尔继承了费希特对承认的概念。但黑格尔还增加了一个重要的元素，即斗争、冲突和竞争，这取决于_I_和_you_之间的不平等，或者更普遍地说，取决于任何自我意识人类群体(_we_)之间的成员。这一元素受到卢梭《论不平等的起源》(1755)的影响，康德在《具有世界性目标的通向普遍历史的思想》(1784)中介绍的“非社会性社会性”概念也受到了影响。在这方面，康德和黑格尔之间的区别在于，这些想法只在康德的实践哲学背景下出现，而在黑格尔的《现象学》中，它们出现在自我意识讨论的开头。换句话说，康德区分了理论和实践理性，然后在《判断力批判》中建立了它们之间的桥梁，而黑格尔在《现象学》中对自我意识的讨论开启了统一理性概念的发展，既是理论的又是实践的。
+黑格尔的《现象学》中首先讨论的话题是_意识_，从众所周知的_感性确证_和_这个_的讨论开始。下一个话题是_自我意识_，它始于著名的_主宰_和_奴役_的讨论。在这里，很明显，所讨论的自我意识是所谓的“现代主体性”，侧重于第一人称单数代词_I_ - 但同样，在这种情况下，也侧重于第二人称单数_you_和第一人称复数_we_。在这里，黑格尔继承了费希特对承认的概念。但黑格尔还增加了一个重要的元素，即斗争、冲突和竞争，这取决于_I_和_you_之间的不平等，或者更普遍地说，取决于任何自我意识人类群体(*we*)之间的成员。这一元素受到卢梭《论不平等的起源》(1755)的影响，康德在《具有世界性目标的通向普遍历史的思想》(1784)中介绍的“非社会性社会性”概念也受到了影响。在这方面，康德和黑格尔之间的区别在于，这些想法只在康德的实践哲学背景下出现，而在黑格尔的《现象学》中，它们出现在自我意识讨论的开头。换句话说，康德区分了理论和实践理性，然后在《判断力批判》中建立了它们之间的桥梁，而黑格尔在《现象学》中对自我意识的讨论开启了统一理性概念的发展，既是理论的又是实践的。
 
 问题所在的是理性概念或观念的实现，正如康德所描述的，上帝、自由和永恒的观念，这些观念是由纯_实践_理性产生的。康德认为，事实上（理性的事实），我们拥有这样一种能力，它产生这些观念并为我们赋予推动力。但始终存在一个问题，即我们是否真的会选择遵循这种纯粹的理性动机，因此康德发展了一个复杂的理论，阐述了我们如何培养和发展增强和支持这种动机的手段，以牺牲相反动机（由于非社会性社会性仍然存在）。
 
-相比之下，对于黑格尔来说，理性观念是一种规范性的概念或结构，为了成为规范性，需要在某个实际的人类社区中作为规范（作为法律）_发挥作用_。理性观念本身在人类历史中得以实现或实现，因此问题转变为理解可以引导我们走向更高意识形态的历史概念过程，通过日益全面和连贯的规范结构。这导致了《现象学》中关于_精神_的关键部分，历史阐述部分在讨论启蒙运动和法国大革命时达到了某种程度的高潮，黑格尔本人所处的历史背景。这为倒数第二次讨论宗教作为解决剩余问题的手段奠定了基础，即通过完全内化道德规范来解决人类社区所有成员所面临的问题，这些成员位于同一历史背景之中。
+相比之下，对于黑格尔来说，理性观念是一种规范性的概念或结构，为了成为规范性，需要在某个实际的人类社区中作为规范（作为法律）*发挥作用*。理性观念本身在人类历史中得以实现或实现，因此问题转变为理解可以引导我们走向更高意识形态的历史概念过程，通过日益全面和连贯的规范结构。这导致了《现象学》中关于_精神_的关键部分，历史阐述部分在讨论启蒙运动和法国大革命时达到了某种程度的高潮，黑格尔本人所处的历史背景。这为倒数第二次讨论宗教作为解决剩余问题的手段奠定了基础，即通过完全内化道德规范来解决人类社区所有成员所面临的问题，这些成员位于同一历史背景之中。
 
 内化问题涉及将道德的普遍客观法则与构成相关社区的特定个体统一起来的需要。这些法则必须被纳入每个个体的主观意识之中，黑格尔这样解释道成肉身的教义。特别是在一个在哲学上开明的基督教内，这种基督教是在一个在哲学上开明的宗教社区内实践的，神圣在人类生活中得以具现。正如黑格尔在关于_道德_的章节末尾所说\[Hegel (GW 9, 362)]：“\[我]是上帝在那些以纯知识形式认识自己的人中间显现。”
 
@@ -98,62 +96,62 @@ Hegel 的历史和政治著作应该与早期的《精神现象学》区分开�
 
 (Fuller bibliographies may be found in \[Schilpp 1949], \[Krois 1987]; many of Cassirer’s German writings are reprinted by the Wissenschaftliche Buchgesellschaft, Darmstadt.)
 
-* (1902) _Leibniz’ System in seinen wissenschaftlichen Grundlagen_. Marburg: Elwert.
-* (1906) _Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit. Erster Band_. Berlin: Bruno Cassirer.
-* (1907a) _Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit. Zweiter Band._ Berlin: Bruno Cassirer.
-* (1907b) “Kant und die moderne Mathematik.” _Kant-Studien_ 12, 1–40.
-* (1910) _Substanzbegriff und Funktionsbegriff: Untersuchungen über die Grundfragen der Erkenntniskritik_. Berlin: Bruno Cassirer. Translated as _Substance and Function_. Chicago: Open Court, 1923.
-* (1921) _Zur Einsteinschen Relativitätstheorie. Erkenntnistheoretische Betrachtungen_. Berlin: Bruno Cassirer. Translated as _Einstein’s Theory of Relativity_. Chicago: Open Court, 1923.
-* (1923) _Philosophie der symbolischen Formen. Erster Teil: Die Sprache_. Berlin: Bruno Cassirer. Translated as _The Philosophy of Symbolic Forms. Volume One: Language_. New Haven: Yale University Press, 1955.
-* (1925a) _Philosophie der symbolischen Formen. Zweiter Teil: Das mythische Denken_. Berlin: Bruno Cassirer. Translated as _The Philosophy of Symbolic Forms. Volume Two: Mythical Thought_. New Haven: Yale University Press, 1955.
-* (1925b) _Sprache und Mythos: Ein Beitrag zum Problem der Götternamen_. Leipzig: Teubner. Translated as _Language and Myth_. New York: Harper, 1946.
-* (1927a) _Individuum und Kosmos in der Philosophie der Renaissance_. Leipzig: Teubner. Translated as _The Individual and the Cosmos in Renaissance Philosophy_. New York: Harper, 1964.
-* (1927b) “Erkenntnistheorie nebst den Grenzfragen der Logik und Denkpsychologie.” _Jahrbücher der Philosophie_ 3, 31–92.
-* (1929a) _Die Idee der republikanischen Verfassung_. Hamburg: Friedrichsen.
-* (1929b) _Philosophie der symbolischen Formen. Dritter Teil: Phänomenologie der Erkenntnis_. Berlin: Bruno Cassirer. Translated as _The Philosophy of Symbolic Forms. Volume Three: The Phenomenology of Knowledge_. New Haven: Yale University Press, 1957.
-* (1931) “Kant und das Problem der Metaphysik. Bemerkungen zu Martin Heideggers Kantinterpretation.” _Kant-Studien_ 36, 1–16. Translated as “Kant and the Problem of Metaphysics.” In M. Gram, ed. _Kant: Disputed Questions_. Chicago: Quadrangle, 1967.
-* (1932) _Die Philosophie der Aufklärung_. Tübingen: Morh. Translated as _The Philosophy of the Enlightenment_. Princeton: Princeton University Press, 1951.
-* (1936) _Determinismus und Indeterminismus in der modernen Physik_. Göteborg: Göteborgs Högskolas Årsskrift 42. Translated as _Determinism and Indeterminism in Modern Physics_. New Haven: Yale University Press, 1956.
-* (1939a) _Axel Hägerström: Eine Studie zur Schwedischen Philosophie der Gegenwart_. Göteborg: Göteborgs Högskolas Årsskrift 45.
-* (1939b) “Naturalistische und humanistische Begründung der Kulturphilosophie.” _Göteborg Kungl. Vetenskaps- och Vitterhets-Semhälles Handlingar_. 5e Földjen, Ser. A, Band 7, Nr. 3. Translated as “Introduction: Naturalistic and Humanistic Philosophies of Culture” in (1942/1961) below.
-* (1942) _Zur Logik der Kulturwissenschaften_. Göteborg: Göteborgs Högskolas Årsskrift 47. Translated as _The Logic of the Humanities_. New Haven: Yale University Press, 1961. Translated as _The Logic of the Cultural Sciences_. New Haven: Yale University Press, 2000.
-* (1944) _An Essay on Man_. New Haven: Yale University Press.
-* (1946) _The Myth of the State_. New Haven: Yale University Press.
+* (1902) *Leibniz’ System in seinen wissenschaftlichen Grundlagen*. Marburg: Elwert.
+* (1906) *Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit. Erster Band*. Berlin: Bruno Cassirer.
+* (1907a) *Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit. Zweiter Band.* Berlin: Bruno Cassirer.
+* (1907b) “Kant und die moderne Mathematik.” *Kant-Studien* 12, 1–40.
+* (1910) *Substanzbegriff und Funktionsbegriff: Untersuchungen über die Grundfragen der Erkenntniskritik*. Berlin: Bruno Cassirer. Translated as *Substance and Function*. Chicago: Open Court, 1923.
+* (1921) *Zur Einsteinschen Relativitätstheorie. Erkenntnistheoretische Betrachtungen*. Berlin: Bruno Cassirer. Translated as *Einstein’s Theory of Relativity*. Chicago: Open Court, 1923.
+* (1923) *Philosophie der symbolischen Formen. Erster Teil: Die Sprache*. Berlin: Bruno Cassirer. Translated as *The Philosophy of Symbolic Forms. Volume One: Language*. New Haven: Yale University Press, 1955.
+* (1925a) *Philosophie der symbolischen Formen. Zweiter Teil: Das mythische Denken*. Berlin: Bruno Cassirer. Translated as *The Philosophy of Symbolic Forms. Volume Two: Mythical Thought*. New Haven: Yale University Press, 1955.
+* (1925b) *Sprache und Mythos: Ein Beitrag zum Problem der Götternamen*. Leipzig: Teubner. Translated as *Language and Myth*. New York: Harper, 1946.
+* (1927a) *Individuum und Kosmos in der Philosophie der Renaissance*. Leipzig: Teubner. Translated as *The Individual and the Cosmos in Renaissance Philosophy*. New York: Harper, 1964.
+* (1927b) “Erkenntnistheorie nebst den Grenzfragen der Logik und Denkpsychologie.” *Jahrbücher der Philosophie* 3, 31–92.
+* (1929a) *Die Idee der republikanischen Verfassung*. Hamburg: Friedrichsen.
+* (1929b) *Philosophie der symbolischen Formen. Dritter Teil: Phänomenologie der Erkenntnis*. Berlin: Bruno Cassirer. Translated as *The Philosophy of Symbolic Forms. Volume Three: The Phenomenology of Knowledge*. New Haven: Yale University Press, 1957.
+* (1931) “Kant und das Problem der Metaphysik. Bemerkungen zu Martin Heideggers Kantinterpretation.” *Kant-Studien* 36, 1–16. Translated as “Kant and the Problem of Metaphysics.” In M. Gram, ed. *Kant: Disputed Questions*. Chicago: Quadrangle, 1967.
+* (1932) *Die Philosophie der Aufklärung*. Tübingen: Morh. Translated as *The Philosophy of the Enlightenment*. Princeton: Princeton University Press, 1951.
+* (1936) *Determinismus und Indeterminismus in der modernen Physik*. Göteborg: Göteborgs Högskolas Årsskrift 42. Translated as *Determinism and Indeterminism in Modern Physics*. New Haven: Yale University Press, 1956.
+* (1939a) *Axel Hägerström: Eine Studie zur Schwedischen Philosophie der Gegenwart*. Göteborg: Göteborgs Högskolas Årsskrift 45.
+* (1939b) “Naturalistische und humanistische Begründung der Kulturphilosophie.” *Göteborg Kungl. Vetenskaps- och Vitterhets-Semhälles Handlingar*. 5e Földjen, Ser. A, Band 7, Nr. 3. Translated as “Introduction: Naturalistic and Humanistic Philosophies of Culture” in (1942/1961) below.
+* (1942) *Zur Logik der Kulturwissenschaften*. Göteborg: Göteborgs Högskolas Årsskrift 47. Translated as *The Logic of the Humanities*. New Haven: Yale University Press, 1961. Translated as *The Logic of the Cultural Sciences*. New Haven: Yale University Press, 2000.
+* (1944) *An Essay on Man*. New Haven: Yale University Press.
+* (1946) *The Myth of the State*. New Haven: Yale University Press.
 
-Note: Cassirer’s unpublished writings are now appearing in volumes edited by J. Krois and E. Schwemmer, _Nachgelassene Manuskripte und Texte_. Hamburg: Meiner.
+Note: Cassirer’s unpublished writings are now appearing in volumes edited by J. Krois and E. Schwemmer, *Nachgelassene Manuskripte und Texte*. Hamburg: Meiner.
 
 ### Secondary and Other Relevant Literature
 
-* Aubenque, P., L. Ferry, E. Rudolf, J.-F. Courtine, F. Capeillières (1992) “Philosophie und Politik: Die Davoser Disputation zwischen Ernst Cassirer und Martin Heidegger in der Retrospektive.” _Internationale Zeitschrift für Philosophie_, 2: 290–312.
-* Burtt, E. (1925) _The Metaphysical Foundations of Modern Physical Science_. London: Paul, Trench, Trubner.
-* Cassirer, T. (1981) _Mein Leben mit Ernst Cassirer_. Hildesheim: Gerstenberg.
-* Cohen, H. (1871) _Kants Theorie der Erfahrung_. Berlin: Dümmler.
-* ––– (1883) _Das Princip der Infinitesimal-Methode und seine Geschichte: ein Kapitel zur Grundlegung der Ekenntnißkritik_. Berlin: Dümmler.
-* Dijksterhuis, E. (1959) _De Mechanisering van get Wereldbeeld_. Amsterdam: Uitgeverif Meulenhoff. Translated as _The Mechanization of the World Picture_. Oxford: Oxford University Press, 1961.
-* Friedman, M. (2000) _A Parting of the Ways: Carnap, Cassirer, and Heidegger_. Chicago: Open Court.
-* Gay, P. (1977) _The Enlightenment: An Interpretation_, 2 vols. New York: Norton\*.\*
-* Gordon, P. (2010) _Continental Divide: Heidegger, Cassirer, Davos_. Cambridge, Mass.: Harvard University Press.
-* Hegel, G. W. F. (1807) _Phänomenologie des Geistes._ Gesammelte Werke \[GW]. Bd. 9. Hamburg, 1980.
-* Heidegger, M. (1927) _Sein und Zeit_. Tübingen: Max Niemeyer. Translated as _Being and Time_. New York: Harper, 1962.
-* ––– (1928) “Ernst Cassirer: Philosophie der symbolischen Formen. 2. Teil: Das mythische Denken.” _Deutsche Literaturzeitung_, 21: 1000–1012. Translated as “Book Review of Ernst Cassirer’s _Mythical Thought_.” In _The Piety of Thinking_. Bloomington: Indiana University Press, 1976.
-* ––– (1929) _Kant und das Problem der Metaphysik_. Bonn: Friedrich Cohen. Translated (together with a protocol of the Davos disputation with Cassirer) as _Kant and the Problem of Metaphysics_. Bloomington: Indiana University Press: 1990.
-* Ihmig, K.-N. (2001) _Grundzüge einer Philosophie der Wissenschaften bei Ernst Cassirer_. Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Kaegi, D. and E. Rudolph, eds. (2000)_70 Jahre Davoser Disputation_. Hamburg: Meiner.
-* Knoppe, T. (1992) _Die theoretische Philosophie Ernst Cassirers: Zu den Grundlagen transzendentaler Wissenschafts- und Kulturtheorie_. Hamburg: Meiner.
-* Koyré, A. (1939) _Etudes galiléennes_. 3 vols. Paris: Hermann. Translated as _Galileo Studies_. Atlantic Highlands, NJ: Humanities Press, 1978.
-* Krois, J. (1987) _Cassirer: Symbolic Forms and History_. New Haven: Yale University Press.
-* Langer, S. (1942) _Philosophy in a New Key: A Study in the Symbolism of Reason, Rite and Art_. Cambridge, Mass.: Harvard University Press.
-* Luft, Sebastian. (2015) _The Space of Culture. Towards a Neo-Kantian Philosophy of Culture (Cohen, Natorp & Cassirer)_. Oxford: Oxford University Press.
-* Moss, G. S. (2015) _Ernst Cassirer and the Autonomy of Language_. Lanham, Md.: Lexington Books.
-* Matherne, S. (2021) _Ernst Cassirer._ Abingdon-on-Thames, Oxfordshire, UK: Routledge.
-* Paetzold, H. (1995) _Ernst Cassirer – Von Marburg nach New York: eine philosophische Biographie_. Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Panofsky, E. (1939) _Studies in Iconology: Humanistic Themes in the Art of the Renaissance_. New York: Oxford University Press.
-* Pap, A. (1946) _The A Priori in Physical Theory_. New York: King’s Cross Press.
-* Renz, U. (2002) _Die Rationalität der Kultur: Zur Kulturphilosophie und ihrer transzendentalen Begründung bei Cohen, Natorp und Cassirer_. Hamburg: Meiner.
-* Schilpp, P., ed. (1949) _The Philosophy of Ernst Cassirer_. La Salle: Open Court.
-* Schlick, M. (1921) “Kritizistische oder empiristische Deutung der neuen Physik?” _Kant-Studien_, 26: 96–111. Translated as “Critical or Empiricist Interpretation of Modern Physics?” In H. Mulder and B. van de Velde-Schlick, eds. _Moritz Schlick: Philosophical Papers_. Vol. 2. Dordrecht: Reidel, 1979.
-* Schwemmer, O. (1997) _Ernst Cassirer. Ein Philosoph der europäischen Moderne_. Berlin: Akademie.
-* Skidelsky, E. (2008) _Ernst Cassirer: The Last Philosopher of Culture_. Princeton: Princeton University Press.
+* Aubenque, P., L. Ferry, E. Rudolf, J.-F. Courtine, F. Capeillières (1992) “Philosophie und Politik: Die Davoser Disputation zwischen Ernst Cassirer und Martin Heidegger in der Retrospektive.” *Internationale Zeitschrift für Philosophie*, 2: 290–312.
+* Burtt, E. (1925) *The Metaphysical Foundations of Modern Physical Science*. London: Paul, Trench, Trubner.
+* Cassirer, T. (1981) *Mein Leben mit Ernst Cassirer*. Hildesheim: Gerstenberg.
+* Cohen, H. (1871) *Kants Theorie der Erfahrung*. Berlin: Dümmler.
+* ––– (1883) *Das Princip der Infinitesimal-Methode und seine Geschichte: ein Kapitel zur Grundlegung der Ekenntnißkritik*. Berlin: Dümmler.
+* Dijksterhuis, E. (1959) *De Mechanisering van get Wereldbeeld*. Amsterdam: Uitgeverif Meulenhoff. Translated as *The Mechanization of the World Picture*. Oxford: Oxford University Press, 1961.
+* Friedman, M. (2000) *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. Chicago: Open Court.
+* Gay, P. (1977) *The Enlightenment: An Interpretation*, 2 vols. New York: Norton\*.\*
+* Gordon, P. (2010) *Continental Divide: Heidegger, Cassirer, Davos*. Cambridge, Mass.: Harvard University Press.
+* Hegel, G. W. F. (1807) *Phänomenologie des Geistes.* Gesammelte Werke \[GW]. Bd. 9. Hamburg, 1980.
+* Heidegger, M. (1927) *Sein und Zeit*. Tübingen: Max Niemeyer. Translated as *Being and Time*. New York: Harper, 1962.
+* ––– (1928) “Ernst Cassirer: Philosophie der symbolischen Formen. 2. Teil: Das mythische Denken.” *Deutsche Literaturzeitung*, 21: 1000–1012. Translated as “Book Review of Ernst Cassirer’s *Mythical Thought*.” In *The Piety of Thinking*. Bloomington: Indiana University Press, 1976.
+* ––– (1929) *Kant und das Problem der Metaphysik*. Bonn: Friedrich Cohen. Translated (together with a protocol of the Davos disputation with Cassirer) as *Kant and the Problem of Metaphysics*. Bloomington: Indiana University Press: 1990.
+* Ihmig, K.-N. (2001) *Grundzüge einer Philosophie der Wissenschaften bei Ernst Cassirer*. Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Kaegi, D. and E. Rudolph, eds. (2000)*70 Jahre Davoser Disputation*. Hamburg: Meiner.
+* Knoppe, T. (1992) *Die theoretische Philosophie Ernst Cassirers: Zu den Grundlagen transzendentaler Wissenschafts- und Kulturtheorie*. Hamburg: Meiner.
+* Koyré, A. (1939) *Etudes galiléennes*. 3 vols. Paris: Hermann. Translated as *Galileo Studies*. Atlantic Highlands, NJ: Humanities Press, 1978.
+* Krois, J. (1987) *Cassirer: Symbolic Forms and History*. New Haven: Yale University Press.
+* Langer, S. (1942) *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite and Art*. Cambridge, Mass.: Harvard University Press.
+* Luft, Sebastian. (2015) *The Space of Culture. Towards a Neo-Kantian Philosophy of Culture (Cohen, Natorp & Cassirer)*. Oxford: Oxford University Press.
+* Moss, G. S. (2015) *Ernst Cassirer and the Autonomy of Language*. Lanham, Md.: Lexington Books.
+* Matherne, S. (2021) *Ernst Cassirer.* Abingdon-on-Thames, Oxfordshire, UK: Routledge.
+* Paetzold, H. (1995) *Ernst Cassirer – Von Marburg nach New York: eine philosophische Biographie*. Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Panofsky, E. (1939) *Studies in Iconology: Humanistic Themes in the Art of the Renaissance*. New York: Oxford University Press.
+* Pap, A. (1946) *The A Priori in Physical Theory*. New York: King’s Cross Press.
+* Renz, U. (2002) *Die Rationalität der Kultur: Zur Kulturphilosophie und ihrer transzendentalen Begründung bei Cohen, Natorp und Cassirer*. Hamburg: Meiner.
+* Schilpp, P., ed. (1949) *The Philosophy of Ernst Cassirer*. La Salle: Open Court.
+* Schlick, M. (1921) “Kritizistische oder empiristische Deutung der neuen Physik?” *Kant-Studien*, 26: 96–111. Translated as “Critical or Empiricist Interpretation of Modern Physics?” In H. Mulder and B. van de Velde-Schlick, eds. *Moritz Schlick: Philosophical Papers*. Vol. 2. Dordrecht: Reidel, 1979.
+* Schwemmer, O. (1997) *Ernst Cassirer. Ein Philosoph der europäischen Moderne*. Berlin: Akademie.
+* Skidelsky, E. (2008) *Ernst Cassirer: The Last Philosopher of Culture*. Princeton: Princeton University Press.
 
 ## Academic Tools
 
@@ -165,11 +163,11 @@ Note: Cassirer’s unpublished writings are now appearing in volumes edited by J
 
 ## Other Internet Resources
 
-* [Review of S. Langer’s translation of Cassirer’s _Language and Myth_](http://www.ditext.com/sellars/rc.html), by W. Sellars, published in _Philosophy and Phenomenological Research_, 9 (1948).
+* [Review of S. Langer’s translation of Cassirer’s *Language and Myth*](http://www.ditext.com/sellars/rc.html), by W. Sellars, published in *Philosophy and Phenomenological Research*, 9 (1948).
 
 ## Related Entries
 
 [Einstein, Albert: philosophy of science](https://plato.stanford.edu/entries/einstein-philscience/) | [general relativity: early philosophical interpretations of](https://plato.stanford.edu/entries/genrel-early/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Natorp, Paul](https://plato.stanford.edu/entries/natorp/) | [Schlick, Moritz](https://plato.stanford.edu/entries/schlick/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Michael Friedman](https://philosophy.stanford.edu/people/michael-friedman) <[_mlfriedman@stanford.edu_](mailto:mlfriedman%40stanford%2eedu)>
+[Michael Friedman](https://philosophy.stanford.edu/people/michael-friedman) <[*mlfriedman@stanford.edu*](mailto:mlfriedman%40stanford%2eedu)>

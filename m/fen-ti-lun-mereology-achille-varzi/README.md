@@ -1,12 +1,10 @@
 # 分体论 mereology (Achille Varzi)
 
-_首次发表于2003年5月13日；实质性修订于2016年2月13日_
+*首次发表于2003年5月13日；实质性修订于2016年2月13日*
 
 分体论（来自希腊语μερος，意为“部分”）是关于部分关系的理论：关于部分与整体之间的关系以及部分与整体内部的关系\[1]。它的根源可以追溯到哲学的早期，始于前苏格拉底哲学家，并贯穿于柏拉图（尤其是《巴门尼德斯》和《忒艾泰特斯》）、亚里士多德（尤其是《形而上学》、《物理学》、《论题学》和《动物部分》）以及博伊修斯（尤其是《分割论》和《关于西塞罗的论题学》）的著作中。分体论在中世纪本体论者和学院哲学家的著作中也占据重要地位，如计算学家加兰德、彼得·阿伯拉德、托马斯·阿奎那、雷蒙德·卢尔、约翰·邓斯·斯科特、沃尔特·伯利、威廉·奥坎和让·布里丹，以及荣格的《汉堡逻辑学》（1638）、莱布尼兹的《组合艺术论文》（1666）和《单子论》（1714），以及康德的早期著作（1747年的《思想》和1756年的《物理单子论》）。然而，作为一个关于部分关系的形式理论，分体论主要通过弗朗茨·布伦塔诺及其学生的工作，特别是胡塞尔的第三篇《逻辑研究》（1901年）进入我们的时代。后者可以被认为是对该理论的首次彻底阐述的尝试，尽管在一个难以将分体论概念的分析与其他本体论相关概念（如本体依赖关系）区分开来的格式中\[2]。直到莱什涅夫斯基的《集合论一般理论的基础》（1916年）和《数学基础》（1927-1931年），纯粹的部分关系理论才得到了确切的阐述\[3]。由于莱什涅夫斯基的工作在波兰以外的非波兰语使用者中很难获得，直到莱纳德和古德曼的《个体的演算》（1940年）出版，受到怀特海德的影响，分体论才成为现代本体论者和形而上学家关注的重要章节。\[ 4]
 
 在接下来的内容中，我们主要关注分体论的当代表述，因为它们源于这些最近的理论——勒什涅夫斯基的和伦纳德与古德曼的理论。实际上，尽管这些理论以不同的逻辑形式出现，但它们足够相似，可以被认为是大多数后续发展的共同基础。然而，为了正确评估相对的优势和劣势，逐步进行将是方便的。首先，我们考虑一些核心的分体论概念和原则。然后，我们继续对基于这一基础上建立的更强理论进行审查。
-
- 
 
 ***
 
@@ -77,7 +75,7 @@ _首次发表于2003年5月13日；实质性修订于2016年2月13日_
 | (P.1) | \* 自反性_P_xx\*                           |
 | ----- | --------------------------------------- |
 | (P.2) | \* 传递性 _(P_xy _∧ P_yz _) → P_xz\*       |
-| (P.3) | \* 反对称性 _(P_xy _∧ P_yx _) →_ x _=_ y\*. |
+| (P.3) | \* 反对称性 _(P_xy _∧ P_yx *) →* x *=* y\*. |
 
 (在此及以下，我们通过省略所有初始的全称量词来简化符号表示。除非另有说明，否则所有公式都应被理解为普遍封闭的。) 我们可以将这样的理论称为核心分体论—简称为 M\[8]—因为它代表了所有标准理论的共同起点。
 
@@ -85,10 +83,10 @@ _首次发表于2003年5月13日；实质性修订于2016年2月13日_
 
 | (19) | \* 相等性_EQ_xy _=df P_xy _∧ P_yx\*         |
 | ---- | ---------------------------------------- |
-| (20) | \* 适当的部分_PP_xy _=df P_xy _∧ ¬_ x _=_ y\* |
-| (21) | \* 适当的扩展_PE_xy _=df P_yx _∧ ¬_ x _=_ y\* |
-| (22) | \* 重叠_O_xy _=df ∃_ z _(P_zx _∧ P_zy\*)   |
-| (23) | \* 下重叠_U_xy _=df ∃_ z _(P_xz _∧ P_yz\*). |
+| (20) | \* 适当的部分_PP_xy _=df P_xy *∧ ¬* x *=* y\* |
+| (21) | \* 适当的扩展_PE_xy _=df P_yx *∧ ¬* x *=* y\* |
+| (22) | \* 重叠_O_xy *=df ∃* z _(P_zx _∧ P_zy\*)   |
+| (23) | \* 下重叠_U_xy *=df ∃* z _(P_xz _∧ P_yz\*). |
 
 对于这些关系的直观模型，将‘P’解释为空间包含，如图 1 所示。
 
@@ -109,12 +107,12 @@ _首次发表于2003年5月13日；实质性修订于2016年2月13日_
 
 最后，注意到由于反对称性公设（P.3）的以下明显推论，身份本身可以通过定义引入：
 
-| (26) | _x_=_y_↔ EQ_xy_. |
+| (26) | *x*=*y*↔ EQ_xy_. |
 | ---- | ---------------- |
 
 因此，理论 M 可以通过假设（P.1）和（P.2）并用以下的 Leibniz 身份公理模式的变体（其中φ是语言中的任何公式）来用纯一阶语言来表述：
 
-| (P.3′) | <p>* 不可辨性*<br>EQxy → (φx ↔ φy)。</p> |
+| (P.3′) | <p>*不可辨性*<br>EQxy → (φx ↔ φy)。</p> |
 | ------ | ----------------------------------- |
 
 实际上，可以基于这些理由争论，部分关系在某种意义上在概念上优先于同一关系（如 Sharvy 1983: 234 所述），并且由于“EQ”不能仅仅通过“PP”或“PE”来定义，除非在更强的公理存在的情况下（见下文中的(27)），这个论点也将提供支持“P”作为最基本的原始概念的证据。然而，正如我们将在第 3.2 节中看到的，部分关系和同一关系之间的联系在哲学上是有问题的。为了不损害我们的阐述，我们将保持一种同时包含“P”和“=”作为原始概念的语言。鉴于关于 Antisymmetry 的争议地位的前述评论，这也是方便的。（26）依赖于此。
@@ -136,9 +134,9 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 让我们从第一种扩展开始。让我们首先仔细研究一下这样的直觉，即整体不能被分解为单个适当的部分。有多种方式可以尝试捕捉这种直觉。考虑以下内容（来自 Simons 1987 年：26-28）：
 
-| (P.4a) | \* 公司_PP_xy _→ ∃_ z _(PP_zy _∧ ¬_ z _=_ x\*)                               |
+| (P.4a) | \* 公司_PP_xy *→ ∃* z _(PP_zy *∧ ¬* z *=* x\*)                               |
 | ------ | -------------------------------------------------------------------------- |
-| (P.4b) | \* 强大公司_PP_xy _→ ∃_ z _(PP_zy _∧ ¬P_zx\*)                                  |
+| (P.4b) | \* 强大公司_PP_xy *→ ∃* z _(PP_zy _∧ ¬P_zx\*)                                  |
 | (P.4)  | <p>随附[ 13]<br>PP<em>xy</em>→ ∃<em>z</em>(P<em>zy</em>∧ ¬O<em>zx</em>).</p> |
 
 第一个原则（P.4a）是对所讨论的观念的直接表达：每个适当的部分都必须有另一个部分随附。然而，从某种明显的意义上讲，（P.4a）只捕捉到了观念的字面意义，而非精神意义：它排除了上述提到的意外模型（见图 2，左侧），但并未排除一个不合理的模型，其中包含一个无限下降的链条，而额外的适当部分并不留下任何剩余物（图 2，中间）。
@@ -157,12 +155,12 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 在这方面可以提供两种答案（参见例如 Gilmore 2016）。第一种是通过加强前提来削弱补充性条件。例如，可以简单地用（20'）中定义的更严格的真部分概念来重新表述（P.4），即有效地：
 
-| (P.4c) | \* 严格补充性 _(P_xy _∧ ¬P_yx _) → ∃_ z _(P_zy _∧ ¬O_zx\*). |
+| (P.4c) | \* 严格补充性 _(P_xy _∧ ¬P_yx *) → ∃* z _(P_zy _∧ ¬O_zx\*). |
 | ------ | ------------------------------------------------------ |
 
 在分体论中，这等同于(P.4)。然而，它在逻辑上较弱，很容易看出即使在存在(P.1)-(P.2)的情况下，这足以阻止(P.3)的蕴涵（只需考虑一个具有相互分体关系的两个元素模型，如图 3 左侧）。尽管如此，(P.4c)比(P.4a)和(P.4b)要强得多，可以排除图 2 中的所有三种模式，并且显然保留了(P.4)的精神-尽管不是字面上的。第二种回答是通过调整结果来削弱随附/监督。有多种方法可以做到这一点，其中最自然的方法似乎是以下方式：
 
-| (P.4d) | \* 随附/监督_PP_xy _→ ∃_ z _∃_ w _(P_zy _∧ P_wy _∧ ¬O_zw\*). |
+| (P.4d) | \* 随附/监督_PP_xy *→ ∃* z *∃* w _(P_zy _∧ P_wy _∧ ¬O_zw\*). |
 | ------ | -------------------------------------------------------- |
 
 再次，这个原则比(P.4a)和(P.4b)更强，因为它排除了图 2 中的所有模式，在 M 中它等同于(P.4)。实际上，(P.4d)字面上说，如果某物有一个适当的部分，那么它至少有两个不相交的部分，这与 Simons (1987: 27)认为(P.4)所捕捉到的直觉相同。然而，(P.4d)在逻辑上比(P.4)更弱，因为它允许图 3 中的非反对称模型，出现在中间位置，因此在违反(P.3)的理论背景下，它可能更合适。还要注意的是，(P.4d)不允许图 3 中的对称模型出现在左侧，因此在某种程度上它比(P.4c)更强。然而，在另一方面，它更弱，因为它允许图 3 中的模型出现在右侧，而(P.4c)排除了这种情况（对于那些认为黏土是雕像的一部分，但反之则不然的人来说，他们可能希望保留这种情况）。
@@ -173,7 +171,7 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 还有其他选择。例如，在一些标准的处理中，补充原则（P.4）也使用“PP”在结果中进行表述：
 
-| (P.4′) | <p>* 适当的补充*<br>PPxy → ∃z(PPzy ∧ ¬Ozx)。</p> |
+| (P.4′) | <p>*适当的补充*<br>PPxy → ∃z(PPzy ∧ ¬Ozx)。</p> |
 | ------ | ------------------------------------------ |
 
 在分体论中，这再次等同于（P.4），但等同性依赖于自反性和对称性。在没有（P.1）或（P.2）的情况下，（P.4'）在逻辑上更强。然而，可以依赖于“PP”的替代定义来获得比（P.4c）更强但比（P.4）更弱的（P.4'）的变体。类似地，对于（P.4d），可以通过篡改出现在前提和结论中的部分谓词来进一步削弱或加强它。
@@ -182,7 +180,7 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 我们还可以提出相反的问题：除了（P.4）之外，还有没有更强的表达补充直觉的方式？在经典的分体论中，标准答案是肯定的，主要候选人是以下内容：
 
-| (P.5) | <p>* 强补充*<br>¬Pyx → ∃z(Pzy ∧ ¬Ozx)。</p> |
+| (P.5) | <p>*强补充*<br>¬Pyx → ∃z(Pzy ∧ ¬Ozx)。</p> |
 | ----- | --------------------------------------- |
 
 直观地说，这意味着如果一个对象未包含另一个对象作为其部分，则必须存在一个余数，即某种弥补差异的东西。很容易看出，给定 M，（P.5）蕴含（P.4），因此任何违反（P.4）的 M 理论都将更加违反（P.5）。例如，在怀特海德的无边界广义连接理论中，尽管前者的每个部分与后者重叠，但封闭区域并不是其内部的一部分。更一般地说，只要部分关系是反对称的（请参见图 3 中心的非反对称反例），蕴涵就成立。然而，反过来并不成立。图 4 中的图表说明了一个满足（P.4）的 M 模型，因为每个适当的部分都被视为对方的补充；然而，（P.5）是错误的。
@@ -193,7 +191,7 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 通过将（P.5）添加到（P.1）-（P.3）中得到的理论因此是 MM 的适当扩展。我们将这个更强的理论标记为 EM，即 Extensional Mereology，属性“extensional”正是通过排除像图 4 中那样包含具有相同适当部分的不同对象的反模型来证明的。实际上，EM 的一个定理是不能区分具有相同适当部分的复合对象：
 
-| (27) | (∃_z_PP_zx_∨ ∃_z_PP_zy_) → (_x_=_y_↔ ∀_z_(PP_zx_↔ PP_zy_)). |
+| (27) | (∃*z_PP_zx*∨ ∃*z_PP_zy*) → (*x*=*y*↔ ∀*z*(PP_zx_↔ PP_zy_)). |
 | ---- | ----------------------------------------------------------- |
 
 （“P”的类比在 M 中已经可以证明，因为 P 是自反和反对称的。）这远远超出了基本的补充原则（P.4）背后的直觉。它是否过分了？
@@ -206,17 +204,17 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 或许可以注意到，这个困难并不特定于分体论。反对意见来自于这样的考虑：普通实体，如猫和其他生物体（以及可能的其他实体，如雕像和船只），能够在各种逐渐的分体变化中存活下来。这是一个合理的想法，以免被迫采取某种形式的“分体论本质主义”（Chisholm 1973, 1975, 1976; Plantinga 1975; Wiggins 1979）。然而，同样的情况也适用于其他类型的变化：香蕉成熟，房屋破损，人们晚上睡觉，中午吃饭。如果它们并不完全相同，我们如何说它们是同一物体呢？实际上，（28）本质上是身份公理模式的一个实例
 
-| (ID) | _x_=_y_→ (φ_x_↔ φ_y_), |
+| (ID) | *x*=*y*→ (φ_x_↔ φ_y_), |
 | ---- | ---------------------- |
 
 而众所周知，当“=”被赋予历时的解读时，这个公理模式会遇到麻烦。（请参阅关于变化和时间上的身份的条目。）这个问题是普遍存在的。无论解决方案如何，它都将适用于所讨论的情况，从这个意义上说，对（28）的上述反对意见可以被忽略。例如，如果将（28）中的变量视为可以在时间和空间上延伸的四维实体（Heller 1984, Lewis 1986b, Sider 2001），或者如果将身份本身解释为一种可能在某些时间或世界上成立但在其他时间或世界上不成立的偶然关系（Gibbard 1975, Myro 1985, Gallois 1998），那么问题将立即消失。或者，根据对物质对象的更传统的三维概念，变化的问题通常通过将属性和关系相对于时间进行相对化来解释，将（ID）重写为
 
-| (ID′) | _x_=_y_→ ∀_t_(φ_tx_↔ φ_ty_). |
+| (ID′) | *x*=*y*→ ∀*t*(φ_tx_↔ φ_ty_). |
 | ----- | ---------------------------- |
 
 （这可以以不同的方式理解；参见 Haslanger 和 Kurtz 2006 年的论文，第三部分。）如果是这样的话，那么关于（28）的具体担忧将消除，因为（P.5）的相对化版本只会保证以下问题的变体：
 
-| (28′) | _x_=_y_→ ∀_t_∀_z_(PP_tzx_↔ PP_tzy_). |
+| (28′) | *x*=*y*→ ∀*t*∀*z*(PP_tzx_↔ PP_tzy_). |
 | ----- | ------------------------------------ |
 
 （见 Thomson 1983，Simons 1987：§5.2，Masolo 2009，Giaretta 和 Spolaore 2011；另请参阅 Kazmi 1990 和 Hovda 2013 以获取此策略的时态版本。）最近，从所谓的“众多问题”（Hudson 2001）到物质构成（Bittner 和 Donnelly 2007），模态现实主义（McDaniel 2004），模糊性（Donnelly 2009），相对论时空（Balashov 2008）或位置的一般理论（Gilmore 2009，Donnelly 2010），也有独立的理由需要将部分性相对化到时间，也许还有其他参数，如空间，可能的世界等。无论如何，这些修订都可以被视为对外延分体论有限本体论中立性的指示。但它们的独立动机也证明了关于（28）的争议源于真正而基本的哲学难题，不能通过诉诸于我们对“部分”含义的直觉来评估。
@@ -260,14 +258,14 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 一个最后重要的分体论原则家族涉及原子论问题。从分体论的角度来看，无论是点状的还是具有空间（和/或时间）延伸的，原子（或“简单体”）都是没有适当部分的实体：
 
-| (32) | \* 原子_A_x _=df ¬∃_ y_PP_yx\*. |
+| (32) | \* 原子_A_x *=df ¬∃* y_PP_yx\*. |
 | ---- | ----------------------------- |
 
 根据“PP”的定义，所有的原子都是两两不相交的，只能与它们所属的事物重叠。是否存在这样的实体？如果存在，是否一切都完全由原子组成？一切是否都由至少一些原子组成？还是一切都由无原子的“gunk”组成，正如 Lewis（1991: 20）所称，它永远分裂成越来越小的部分？这些是深奥而困难的问题，自哲学的早期以来一直是哲学研究的焦点，贯穿于中世纪和现代关于反分割主义的辩论，直到康德在《纯粹理性批判》中的反论（参见关于古代原子论和 17 世纪至 20 世纪的原子论的条目）。随着核物理学的发展，它们主要通过尼科德（1924 年）的“感性世界的几何学”，塔斯基（1929 年）的“固体几何学”以及怀特海德（1929 年）在第 3.1 节中提到的“广泛联系”理论进入当代分体论，并且现在在形而上学和空间时间哲学的许多分体论争议中占据中心舞台（例如，参见 Sider 1993，Forrest 1996a，Zimmerman 1996，Markosian 1998a，Schaffer 2003，McDaniel 2006，Hudson 2007a，Arntzenius 2008 和 J. Russell 2008，以及 Hudson 2004 中收集的论文；另请参见 Sobociński 1971 和 Eberle 1967，以了解 Leśniewski 的分体论和 Leonard 和 Goodman 的个体演算的一些早期处理）。在这里，我们将限制自己进行简要的考察。
 
 两个主要选项，即一切最终都由原子组成，或者根本没有原子，通常分别通过以下假设来表达：
 
-| (P.7) | \* 原子性 _∃_ y _(A_y _∧ P_yx\*)                             |
+| (P.7) | \* 原子性 *∃* y _(A_y _∧ P_yx\*)                             |
 | ----- | --------------------------------------------------------- |
 | (P.8) | <p><em>Atomlessness</em><br>∃<em>y</em>PP<em>yx</em>.</p> |
 
@@ -277,12 +275,12 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 逻辑上等价于
 
-| (34) | ((A_y_∧ P_yx_) → P_yx_) ∧ (P_zx_→ ∃_y_(A_y_∧ P_yx_∧ O_yz_)) |
+| (34) | ((A_y_∧ P_yx_) → P_yx_) ∧ (P_zx_→ ∃*y*(A_y_∧ P_yx_∧ O_yz_)) |
 | ---- | ----------------------------------------------------------- |
 
 （添加一个重言联结），这是一般模式的一个实例
 
-| (35) | (φ_y_→ P_yx_) ∧ (P_zx_→ ∃_y_(φ_y_∧ O_yz_)). |
+| (35) | (φ_y_→ P_yx_) ∧ (P_zx_→ ∃*y*(φ_y_∧ O_yz_)). |
 | ---- | ------------------------------------------- |
 
 而（35）是我们能够表达 x 由φs 组成的最接近的方式，即仅有满足给定条件φ（在本例中为：作为 x 的原子部分）的实体：每个φ都是 x 的一部分，并且 x 的任何部分都与某个φ重叠。实际上，只要φs 两两不相交，这就是 x 由φs 组成的标准定义（van Inwagen 1990: 29），而且如果φs 都是原子的，那么它们两两不相交。因此，尽管（P.7）并没有说一切都最终由原子组成，但它暗示了这一点——至少在（P.1）和（P.2）的存在下。（当然，如果拒绝其中一个假设的非标准分体论可能不支持初始的等价性，因此在这样的理论中，（33）可能是表达原子论假设的更好方式。）然而，从另一方面来看，（34）可能仍然不够。因为如果域是无限的，（P.7）允许看似违背原子论教义的模型存在。一个简单的例子是一个永不“触底”的降解链，如图 6 所示：在这里，x 最终由原子组成，但是沿着右分支向下进行的降解模式“看起来”非常类似于一个粘稠的悬崖。举一个具体的例子（来自 Eberle 1970: 75），考虑所有自然数的子集的集合，其中部分关系由子集关系建模。在这样的宇宙中，每个单例集合{n}都被视为一个原子，每个无限集合{m: m > n}都是由原子“组成”的。然而，所有这些无限集合的集合将是无限下降的。这种类型的模型并不违反一切最终由原子组成的观念。然而，它们违反了一切都可以分解为其最终组成部分的观念。如果原子论意味着承载形而上学基础的重量，这可能会引发问题：正如 J. 正如 Schaffer 所说，原子论的本体论似乎在“一个无底洞里消失”（2007: 184）；存在是“无限延迟，永远无法实现”（2010: 62）。原子论者有没有办法避免这个指责呢？一个选择就是要求每个模型都是有限的，或者只涉及有限个原子。然而，这些要求除了在原子论者中引起哲学上的严厉争议之外，还不能在一阶分体论中形式化实现，前者是因为众所周知的模型论原因，后者是因为 Hodges 和 Lewis（1968）的上述结果。唯一合理的选择似乎是在原子性的精神上真正加强原子性，正如 Cotnoir（2013c）所称的“超原子论”。对于任何对象 x，（P.7）保证存在一些以原子为底的部分链。超原子性要求 x 的每个部分链都以原子为底，这是图 6 模型中缺失的属性。目前，尚未探索加强（P.7）的这种方式。然而，鉴于经典分体论与布尔代数之间的联系（见下文第 4.4 节），可以从 Mostowski 和 Tarski（1939）对超原子布尔代数的研究以及 Day（1960）的系统化中恢复超原子分体论的数学模型。（布尔代数是超原子的，当且仅当每个子代数都是原子的，就像由给定集合的有限子集生成的代数一样；有关概述，请参见 Day 1967。）此外，还可以参考 Shiver（2015）中在更强的分体论（如 GEM（第 4.4 节））或在语言中引入集合变量或复数量化的理论背景下加强（P.7）的方法。
@@ -298,20 +296,20 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 这反过来暗示了外延性论（27）的以下原子论变体：
 
-| (27′) | _x_=_y_↔ ∀_z_(A_z_→ (P_zx_↔ P_zy_)). |
+| (27′) | *x*=*y*↔ ∀*z*(A_z_→ (P_zx_↔ P_zy_)). |
 | ----- | ------------------------------------ |
 
 因此，任何原子论的外延性分体论在 Goodman（1958）的意义上都是真正的“超外延性”：由完全相同的原子构建的事物是相同的。特别是，如果 AEM 模型的域只有有限多个原子，那么域本身必然是有限的。一个有趣的问题，在 1960 年代后期进行了广泛讨论（Yoes 1967，Eberle 1968，Schuldenfrei 1969），并由 Simons（1987：44f）和 Engel 和 Yoes（1996）最近重新提出，是是否存在（27'）的无原子类比。是否存在一个可以在无原子分体论中扮演“A”的谓词？这样的谓词将确定系统的“基础”（在拓扑意义上），从而使得分体论能够在没有原子的情况下实现 Goodman 的超外延直觉。因此，这个问题尤其从名义主义的角度来看是重要的，但它在其他领域（例如，与 Whitehead 对空间的概念相联系，根据该概念，空间本身不包含诸如点或边界元素之类的低维部分；参见 Forrest 1996a，Roeper 1997 和 Cohn 和 Varzi 2003）也有深远的影响。在特殊情况下，提供一个肯定的答案并不困难。例如，在由实数线的开正则子集组成的ÃEM 模型中，具有有理端点的开区间在相关意义上形成一个基础。然而，目前尚不清楚是否可以给出适用于任何类型域的一般答案。如果不能，那么唯一的选择似乎是一个解释，其中“基础”的概念是相对于给定类型的实体的。用 Simons 的术语来说，我们可以说如果且仅如果满足以下（P.5'）和（P.7）的变体，ψ-ers 形成φ-ers 的基础：
 
 | (P.5φ/ψ) | <p><em>相对补充</em><br>(φ<em>x</em>∧ φ<em>y</em>) → (¬P<em>xy</em>→ ∃<em>z</em>(ψ<em>z</em>∧ P<em>zx</em>∧ ¬P<em>zy</em>))</p> |
 | -------- | --------------------------------------------------------------------------------------------------------------------------- |
-| (P.7φ/ψ) | \* 相对原子性_φ_x _→ ∃_ y _(ψ_y _∧ P_yx\*).                                                                                      |
+| (P.7φ/ψ) | \* 相对原子性_φ_x *→ ∃* y _(ψ_y _∧ P_yx\*).                                                                                      |
 
 一个分体论的理论将对应于当每个选择的'φ'都被认同为谓词'A'时的极限情况。相比之下，在一个无原子的分体论中，基础的选择将取决于由相关的'φ'规范设定的“粒度”水平。
 
 关于无原子的分体论，还有一点需要注意。正如(P.7)对于排除不愉快的原子模型来说太弱，(P.8)的表述也可能被认为对于捕捉一个粘粘世界的预期概念来说太弱。首先，就目前而言，(P.8)假设了反对称性。在没有(P.3)的情况下，图 3 左侧的对称的两个元素模式将被视为无原子的。为了独立于(P.3)排除这样的模型，应该根据(20')中给出的更强的'PP'概念来理解(P.8)，即
 
-| (P.8′) | <p>* 适当的原子性*<br>∃y(Pyx ∧ ¬Pxy)。</p> |
+| (P.8′) | <p>*适当的原子性*<br>∃y(Pyx ∧ ¬Pxy)。</p> |
 | ------ | ----------------------------------- |
 
 同样地，注意到图 2 中的模式，在没有假设补充的情况下，将符合(P.8)的条件，尽管这样的模式并不完全对应哲学家在谈论泥浆时通常所指的内容。确实，一个有趣的问题是，假设补充（或者根据 Gilmore 2016 的建议，也许是准补充）在某种程度上是否被普通的泥浆概念所预设。然而，如果是这样的话，那么人们可能希望明确表达，这种情况下相关的公理化可能会被简化。例如，ÃMM 可以通过将(P.4)和(P.8)合并为一个公理来简化。
@@ -331,30 +329,30 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 在这一点上，类似的考虑也适用于其他可能浮现在脑海中的分解原则。例如，可以考虑一个要求“PP”形成一个稠密序列的要求，正如怀特海德（1919）已经提到的那样：
 
-| (P.9) | <p>* 稠密性*<br>PPxy → ∃z(PPxz ∧ PPzy)。</p> |
+| (P.9) | <p>*稠密性*<br>PPxy → ∃z(PPxz ∧ PPzy)。</p> |
 | ----- | ---------------------------------------- |
 
 作为一般的分解原则，（P.9）可能被认为过于强大，特别是在一个原子论的背景下。（怀特海德的理论假设无原子性。）然而，可以合理地假设（P.9）至少在关于时空区域的领域中成立，无论这些区域是被构想为无原子混沌还是时空原子的聚合体。有关更多信息，请参见 Eschenbach 和 Heydrich（1995）和 Varzi（2007：§3.2）。
 
 最后，值得注意的是，如果假设存在一个“空项目”，它是一切事物的一部分，对应于这个假设。
 
-| (P.10) | <p>* 底部*<br>∃x∀yPxy，</p> |
+| (P.10) | <p>*底部*<br>∃x∀yPxy，</p> |
 | ------ | ------------------------ |
 
 那么这样的实体必然是一个原子。因此，没有原子的分体论与这个假设是不相容的。但需要强调的是，（P.10）与许多其他理论相矛盾。因为根据（P.10），反对称公理（P.3）将立即导致所讨论的原子是唯一的，而自反公理（P.1）将导致它与一切重叠，因此一切都与一切重叠。这意味着在这些公理下，补充原理（P.4）除非在其域中包含一个单一元素的模型中，否则无法满足。事实上，这也适用于较弱的准补充原理（P.4d）。因此，将（P.10）添加到至少与（P.1）+（P.3）+（P.4d）一样强的任何理论以及 MM 及其任何扩展的结果将立即因以下推论而崩溃为平凡：
 
-| (36) | ∃_x_∀_y x_=_y_. |
+| (36) | ∃*x*∀*y x*=*y*. |
 | ---- | --------------- |
 
 “琐碎”可能在这里不太合适。毕竟，一直以来都有哲学家持有激进的唯一主义本体论观点——从Eleatics（Rea 2001）到Spinoza（J. Bennett 1984），一直到当代作者如Horgan和Potrč（2000），他们的比较本体论的简约性导致了这样的论点：整个宇宙只是一个巨大的扩展原子，一个极其复杂但无部分的“blobject”。就我们所知，对于量子力学而言，如果不是对于牛顿力学，最好的本体论可能是一个孤独的原子在构型空间中高速运动（Albert 1996）。这些都不是琐碎的。然而，这些也都不完全符合对（36）的完全认同。因为这些哲学理论严格来说并不断言存在一个单一实体——这正是（36）所说的——而只是断言存在一个单一的物质实质以及其他种类的实体，比如属性或时空区域。换句话说，它们只是对（36）的一种分类限制版本表示认同。在其完全普遍性上，（36）更加强大和难以接受，大多数分体论者宁愿避免它。因此，最重要的是，支持（P.10）的理论很可能是非常非标准的，与Carnap的说法相反，空项目对于某些目的（如为所有有缺陷的描述提供指称）将是一个“自然和方便的选择”（见1947年：37）。确实有一些作者采取了这种方式，从Martin（1943, 1965）开始，他拒绝了无限制的反身性，并将空项目描述为“不是其自身的那个”。其他值得注意的例外包括Bunt（1985）和Meixner（1997），以及更近期的Hudson（2006）和Segal（2014），他们都对空个体表示同情，但放弃了无限制的（准）补充。另请参阅Priest（2014a和2014b：§6）。13) 和 Cotnoir 和 Weber (2014)，他们通过对基本逻辑进行一个矛盾论的重塑来避免 (36)。另一个选择是将空项目视为一个纯粹的代数“虚构”，并相应地修正整个分体论机制，仔细区分包含传染性空项目的平凡部分和重叠的情况与真正的非平凡情况：
 
-| (37) | \* 真正的分体关系_GP_xy _=df P_xy _∧ ∃_ z _¬P_xz\*   |
+| (37) | \* 真正的分体关系_GP_xy _=df P_xy *∧ ∃* z _¬P_xz\*   |
 | ---- | --------------------------------------------- |
-| (38) | \* 真正的重叠_GO_xy _=df ∃_ z _(GP_zx _∧ GP_zy\*). |
+| (38) | \* 真正的重叠_GO_xy *=df ∃* z _(GP_zx _∧ GP_zy\*). |
 
 这种区别不会影响基本的分体论公理。但是更强的原则，比如随附，可能会让位给它们的“真正的”对应物，如
 
-| (P.4G) | <p>* 真正的随附*<br>PPxy → ∃z(GPzy ∧ ¬GOzx)，</p> |
+| (P.4G) | <p>*真正的随附*<br>PPxy → ∃z(GPzy ∧ ¬GOzx)，</p> |
 | ------ | ------------------------------------------- |
 
 这足以阻止推理到(36)，同时保持标准分体论的精神。这种策略并不罕见，尤其在数学导向的文献中（例如，参见 Mormann 2000，Forrest 2002，Pontow 和 Schubert 2006），我们将在下面的第 4.4 节中简要回顾一下。然而，总的来说，分体论者倾向于站在传统智慧的一边，避免完全涉及（P.10）。
@@ -383,7 +381,7 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 （“Sizxy”可以读作：“z 是 x 和 y 的和”。第一个概念可以在 Eberle 1967、Bostock 1979 和 van Benthem 1983 中找到；第二个概念可以在 Tarski 1935 和 Lewis 1991 中找到；第三个概念可以在 Needham 1981、Simons 1987 和 Casati 和 Varzi 1999 中找到。）然后，对于每个 i ∈ {1, 2, 3}，可以通过添加相应的公理来扩展 M，如下所示，其中ξ再次指定一个合适的二元条件：
 
-| (P.12ξ,_i_) | <p>ξ-分体论<br>ξ<em>xy</em>→ ∃<em>z</em>S<em>izxy</em>.</p> |
+| (P.12ξ,*i*) | <p>ξ-分体论<br>ξ<em>xy</em>→ ∃<em>z</em>S<em>izxy</em>.</p> |
 | ----------- | -------------------------------------------------------- |
 
 从某种意义上说，（P.12ξ,1）似乎是显而易见的选择，对应于一个对象的总和只是相对于 P（一个偏序）的那些对象的最小上界。然而，这个条件可能被认为太弱，无法捕捉到分体论总和的预期概念。例如，如果将ξ解释为重叠，（P.12ξ,1）在图 7 左侧的模型中得到满足：这里 z 是 x 和 y 的最小上界，但 z 几乎不符合作为由 x 和 y“组成”的总和，因为它的部分还包括一个第三个不相交的项 w。事实上，这是关于偏序的一个简单事实，在有限模型中（P.12ξ,1）等价于（P.11ξ），因此同样弱。
@@ -398,23 +396,23 @@ M 通常被视为体现任何分体论理论的共同核心。然而，并非任
 
 实际上，这些原则背后的直观思想在存在（P.5）即外延性的情况下最能体现，因为在这种情况下，相关的总和必须是唯一的。因此，考虑以下定义，其中 i ∈ {1, 2, 3}，‘℩’是确定性描述符：
 
-| (40_i_) | _x_+_i y_=df ℩_z_S_izxy_. |
+| (40_i_) | *x*+*i y*=df ℩*z_S_izxy*. |
 | ------- | ------------------------- |
 
 在 EM 的背景下，每个（P.12ξ，i）都意味着相应的求和运算符具有所有可能期望的“布尔”属性（Breitkopf 1978）。例如，只要参数满足相关条件ξ，\[20]每个+i 都是幂等的，可交换的和可结合的，
 
-| (41) | _x_=_x_+_i x_                            |
+| (41) | *x*=*x*+*i x*                            |
 | ---- | ---------------------------------------- |
-| (42) | _x_+_i y_=_y_+_i x_                      |
-| (43) | _x_+_i_(_y_+_i z_) = (_x_+_i y_) +_i z_, |
+| (42) | *x*+*i y*=*y*+*i x*                      |
+| (43) | *x*+*i*(*y*+*i z*) = (*x*+*i y*) +*i z*, |
 
 and well-behaved with respect to parthood:
 
-| (44) | P_x_(_x_+_i y_)        |
+| (44) | P_x_(*x*+*i y*)        |
 | ---- | ---------------------- |
-| (45) | P_xy_→ P_x_(_y_+_i z_) |
-| (46) | P(_x_+_i y_)_z_→ P_xz_ |
-| (47) | P_xy_↔_x_+_i y_=_y_.   |
+| (45) | P_xy_→ P_x_(*y*+*i z*) |
+| (46) | P(*x*+*i y*)*z*→ P_xz_ |
+| (47) | P_xy_↔*x*+*i y*=*y*.   |
 
 （注意，（47）将要求用原始的‘+i’来定义‘P’。对于 i=3，这实际上是 Leonard 1930: 187ff 所支持的选项。）
 
@@ -425,16 +423,16 @@ and well-behaved with respect to parthood:
 
 在哪里
 
-| (48) | <p>* 产品*<br>Rzxy =df ∀w(Pwz ↔ (Pwx ∧ Pwy))</p> |
+| (48) | <p>*产品*<br>Rzxy =df ∀w(Pwz ↔ (Pwx ∧ Pwy))</p> |
 | ---- | ---------------------------------------------- |
 
 而“ξ”至少与“O”一样强大（除非假设底部原则（P.10））。在 EM 中，可以引入相应的二元运算符，
 
 结果表明，再次，这样的运算符将具有人们所期望的属性。例如，只要参数满足相关条件ξ，×是幂等的，可交换的，并且是结合的，并且它与每个+i 符合通常的分配法则：
 
-| (50) | _x_+_i_(_y_×_z_) = (_x_+_i_ _y_) × (_x_+_i_ _z_) |
+| (50) | *x*+*i*(*y*×*z*) = (*x*+*i* *y*) × (*x*+*i* *z*) |
 | ---- | ------------------------------------------------ |
-| (51) | _x_× (_y_+_i_ _z_) = (_x_×_y_) +_i_(_x_×_z_).    |
+| (51) | *x*× (*y*+*i* *z*) = (*x*×*y*) +*i*(*x*×*z*).    |
 
 显然，（P.13ξ）在我们在这里考虑的主要意义上并不符合组合原则，即通过适当的ξ相关部分产生一个整体的原则。然而，在派生意义上，它确实如此。它断言存在一个由适当相关实体共享的部分组成的整体。不管怎样，值得注意的是，除非“ξ”表示的条件比简单的重叠更强，否则这样的附加原则并不无害。例如，我们已经说过，如果不愿接受任意散布的总和，重叠可能是一个自然的选择。然而，这还不足以避免接受散布的乘积。想象两个C形物体在两个极端重叠；它们的总和将是一个整体的O形物体，但它们的乘积将由两个不相交的独立部分组成（Bostock 1979: 125）。此外，独立地，如果ξ只是重叠，那么（P.13ξ）对于不愿接受部分整体性的人来说是不可接受的。因为事实证明，强补充原则（P.5）可以从较弱的补充原则（P.4）中推导出来，只使用“P”的偏序公理（实际上，只使用自反性和传递性；参见Simons 1987: 30f）。换句话说，除非“ξ”表示的条件比重叠更强，否则MM cum（P.13ξ）将自动包括EM。这可能更令人惊讶，因为初步思考时，乘积的存在似乎与分解问题无关，更不用说承诺于整体性的分解原则了。然而，经过再次思考，分体论的整体性实际上是一个双管齐下的命题：它说两个整体不能被分解为相同的适当部分，但同时也意味着两个整体不能由相同的适当部分组成。因此，不完全令人惊讶的是，只要适当的部分性行为良好，根据（P.4) 在实体组成原则存在的情况下，外延性可能会出现这样的情况。（然而，值得注意的是，一旦将（P.4）与存在产品的看似无害的论点相结合，它就会立即出现，因此反外延论者应该记住这一点。)
 
@@ -447,7 +445,7 @@ and well-behaved with respect to parthood:
 
 （前提中的第一个连词只是为了确保“φ”选择一个非空集合，而在结论中，变量“z”被假定不在“ψ”中自由出现。）与（P.12ξ，i）中的模式相对应的三个二进制和公理可以以类似的方式加强如下：
 
-| (P.15ψ,_i_) | <p>一般的ψ-和<br>（∃wφw ∧ ∀w(φw → ψw)) → ∃zSizφw,</p> |
+| (P.15ψ,*i*) | <p>一般的ψ-和<br>（∃wφw ∧ ∀w(φw → ψw)) → ∃zSizφw,</p> |
 | ----------- | ------------------------------------------------ |
 
 在哪里
@@ -466,7 +464,7 @@ and well-behaved with respect to parthood:
 
 其中
 
-| (53) | \* 一般产品_R_z_φ_w _=df ∀_ v _(P_vz _↔ ∀_ w _(φ_w _→ P_vw\*)) |
+| (53) | \* 一般产品_R_z_φ_w *=df ∀* v _(P_vz *↔ ∀* w _(φ_w _→ P_vw\*)) |
 | ---- | ---------------------------------------------------------- |
 
 而“ψw”至少表达了“∀x(φx → Owx)”这样一个条件（再次强调，除非假设底部原则（P.10））。该原则包括有限版本（P.13ξ）作为一个特例，取“φw”和“ψw”如上所述，因此我们在与后者相关的评论中所做的适用于此处。然而，还需要额外的说明。因为在（P.15ψ,i）中存在无穷和原则的情况下，（P.16ψ）可能被认为是多余的。直观地说，一组重叠实体的最大公共重叠者（即乘积）只是它们共同部分的最小下层者（即和）；这正是乘积原则作为组合原则的意义所在。因此，直观地说，上述每个无穷和原则都应该有一个替代实例，该实例将（P.16ψ）作为一个定理，至少当“ψw”足够强时。然而，除非假设外延性，事实证明这通常不是这种情况。特别是，很容易看出（P.15ψ,3）通常不蕴含（P.16ψ），因为它甚至可能不蕴含二元版本（P.13ξ）。这可以通过取“ξxy”和“ψw”仅表示重叠的要求，即条件“Oxy”和“∀x(φx → Owx)”分别，并再次考虑图 4 中的非外延模型来验证。在该模型中，x 和 y 没有乘积，因为它们互不包含对方，而 z 和 w 也不包含对方作为一部分。因此，（P.13ξ）失败，也就是说，当“φ”选择集合{x，y}时，（P.16ψ）失败；然而，（P.15ψ,3）成立，因为 z 和 w 都是与φ-ers 的某个共同部分重叠的事物，即 x 和 y。
@@ -477,12 +475,12 @@ and well-behaved with respect to parthood:
 
 所有这些组合原理的最强版本是通过将它们作为适用于每个条件ψ的公理模式来获得的，即实际上放弃对ψ的任何引用。从形式上来说，这在每种情况下都等于放弃前提的第二个合取式，即通过断言相关结论所表示的模式，并且唯一的限制是存在一些φ-ers。特别地，以下模式是（P.15ψ，i）的无限制版本，即每个可指定的非空实体集合都有一个总和 i：
 
-| (P.15_i_) | \* 无限制的总和\*\*i _∃_ w_φ_w _→ ∃_ z_S_iz_φ_w\*. |
+| (P.15_i_) | \* 无限制的总和\*\*i *∃* w_φ_w *→ ∃* z_S_iz_φ_w\*. |
 | --------- | -------------------------------------------- |
 
 对于 i=3，通过添加此模式的每个实例所得到的 EM 的扩展具有特殊的来源，并且在文献中被称为广义外延分体论，或 GEM。它对应于 Leśniewski 和 Leonard 和 Goodman 的经典系统，除了底层逻辑和原始选择之外。在外延性的存在下，通过扩展 EM 而得到相同的理论，只需使用(P.152)。实际上，后者的公理化有些冗余：仅给定传递性和补充性，无限制总和 2 就包含了所有其他公理，即 GEM 与(P.2) + (P.4) + (P.152)是相同的理论。相比之下，通过使用(P.151)扩展 EM 将导致一个较弱的理论（图 8），尽管可以通过额外的公理获得 GEM 的全部力量。例如，Hovda（2009）证明了以下公理可以实现：
 
-| (P.17) | \* 过滤 _(S1_z_φ_w _∧ P_xz _) → ∃_ w _(φ_w _∧ O_wx\*). |
+| (P.17) | \* 过滤 _(S1_z_φ_w _∧ P_xz *) → ∃* w _(φ_w _∧ O_wx\*). |
 | ------ | ---------------------------------------------------- |
 
 （在这种情况下，再次使用传递性和补充性即可，即 GEM = (P.2) + (P.4) + (P.151) + (P.17)）。有关使用（P.151）对 GEM 进行公理化的其他方法，请参见例如 Link（1983）和 Landman（1991）（以及 Hovda 2009）。另请参见 Sharvy（1980, 1983），在其中通过添加（P.151）获得的 M 的扩展被称为“准分体论”。
@@ -493,7 +491,7 @@ and well-behaved with respect to parthood:
 
 GEM 是一个强大的理论，它被其名义主义的前辈们认为是一个很好的替代集合论的选择。它也是可决定的（Tsai 2013a），而例如 M，MM 和 EM 以及它们的许多扩展都被证明是不可决定的。（关于分体论中可决定性的全面图景，还可以参考 Tsai 2009、2011、2013b。）GEM 有多强大？为了回答这个问题，让我们专注于基于（P.153）的经典表述，并考虑以下广义求和运算符：
 
-| (54) | \* 广义求和_σ_x_φ_x _=df ℩_ z_S3_z_φ_w\*. |
+| (54) | \* 广义求和_σ_x_φ_x *=df ℩* z_S3_z_φ_w\*. |
 | ---- | ------------------------------------- |
 
 然后（P.153）和（P.5）可以简化为一个公理模式：
@@ -503,16 +501,16 @@ GEM 是一个强大的理论，它被其名义主义的前辈们认为是一个�
 
 并且我们可以引入以下定义：
 
-| (55) | \* 分体论x _+_ y _=df σ_z _(P_zx _∨ P_zy\*) |
+| (55) | \* 分体论x *+* y _=df σ_z _(P_zx _∨ P_zy\*) |
 | ---- | ---------------------------------------- |
-| (56) | \* 乘积x _×_ y _=df σ_z _(P_zx _∧ P_zy\*)  |
-| (57) | \* 差异x _−_ y _=df σ_z _(P_zx _∧ D_zy\*)  |
-| (58) | \* 补集 _\~_ x _=df σ_z_D_zx\*             |
+| (56) | \* 乘积x *×* y _=df σ_z _(P_zx _∧ P_zy\*)  |
+| (57) | \* 差异x *−* y _=df σ_z _(P_zx _∧ D_zy\*)  |
+| (58) | \* 补集 *\~* x _=df σ_z_D_zx\*             |
 | (59) | \* 宇宙U _=df σ_z_P_zz\*.                  |
 
 注意，(55)和(56)给出了(403)和(49)中定义的二元运算符的特殊情况。此外，在 GEM 中，一般的ψ-乘积原理(P.16ψ)也可以作为一个定理推导出来，其中‘ψ’的要求仅仅是相互重叠，我们可以引入一个相应的函子如下：
 
-| (60) | <p>* 一般乘积*<br>πxφx =df σz∀x(φx → Pzx)。</p> |
+| (60) | <p>*一般乘积*<br>πxφx =df σz∀x(φx → Pzx)。</p> |
 | ---- | ------------------------------------------ |
 
 然后，通过考虑到其模型在每个这些函子下都是封闭的，可以充分理解该理论的全部力量，前提是相关条件的可满足性。明确地说：条件“DzU”是不可满足的，因此 U 不能有一个补集。同样，产品仅对重叠者定义，差异仅对留下余数的一对定义。然而，除此之外，(55)-(60)产生了完全良好行为的函子。由于这样的函子是熟知的集合论运算符的自然分体论类比，其中“σ”代替了集合抽象，因此可以得出结论：GEM 所公理化的分体关系基本上具有与标准集合论中的包含关系相同的性质。更准确地说，它与限制在给定集合的所有非空子集上的包含关系同构，也就是说，一个去除了零元素的完全布尔代数——这个结果可以追溯到塔斯基（1935：n. 4），并首次在格热戈尔奇克（1955：§4）中得到证明。\[22]
@@ -531,19 +529,19 @@ GEM 是一个强大的理论，它被其名义主义的前辈们认为是一个�
 
 最后，值得回顾的是，原子论的假设通常可以在分体论的公理化中实现显著的简化。例如，我们已经看到，通过将（P.5）和（P.7）纳入单一的原子论补充原则（P.5'）下，可以简化 AEM。同样，很容易看出 GEM 与原子性的假设是兼容的（只需考虑单元素模型），并且得到的理论具有一些有吸引力的特点。特别是，结果表明，通过用更明确的方式将（P.15i）中的任何无限制求和公理替换为
 
-| (P.15_i_′) | \* 原子论总和 _∃_ w_φ_w _→ ∃_ z_S_iz _(A_v _∧ ∃_ w _(φ_w _∧ P_vw\*)), |
+| (P.15_i_′) | \* 原子论总和 *∃* w_φ_w *→ ∃* z_S_iz _(A_v *∧ ∃* w _(φ_w _∧ P_vw\*)), |
 | ---------- | ---------------------------------------------------------------- |
 
 这个理论断言，对于任何非空的实体集合，存在一个由组成这些实体的所有原子粒子组成的总和。事实上，分体论也提供了克服第 3.4 节中讨论的原子性公理（P.7）的限制的资源。一方面，图 6 中描绘的无限下降链不是 AGEM 的模型，因为它缺少各种各样的总和。另一方面，在分体论中，可以实际上加强（P.7），以要求一切都完全由原子粒子构成，就像在...中一样。
 
-| (P.7′) | \* 强原子性 _∃_ y_A_y _∧ P_x_σ_y_A_y\*. |
+| (P.7′) | \* 强原子性 *∃* y_A_y _∧ P_x_σ_y_A_y\*. |
 | ------ | ----------------------------------- |
 
 （见 Shiver 2015）。然而，值得注意的是，这些优势是有代价的。无论开始时有多少个原子，AGEM 的公理都会在该数量κ和总体数量之间施加一种固定关系，总体数量将为 2κ-1。正如 Simons（1987: 17）指出的那样，这意味着 AGEM 模型的可能基数受到限制。有 1、3、7、15、2ℵ0 和许多其他基数的模型，但没有基数为 2、4、6 或ℵ0 的模型。显然，这不仅仅是（P.15i）的结果，也是 GEM 的其他公理的结果（图 2 左侧的未补充模式满足每个 i 的（P.15i），有 2 个元素，并且可以随意扩展以获得任何有限基数的模型，或者无限扩展以获得具有ℵ0 个元素的模型，如图 2 中心所示；有关具有 4 个元素的（P.151）的补充非过滤模型的图 8，以及具有 6 个元素的（P.153）的补充非外延模型的图 7 右侧）。尽管如此，事实是在这些公理的存在下，每个（P.15i）都排除了大量的可能性。特别是，AGEM 的每个有限模型（因此也是 GEM 的模型）都必然涉及对 Comesaña（2008）所称的“原始基数”的大规模违反，即，对于任何整数 n，可能存在恰好 n 个事物的直观命题。并且由于任何原子领域的大小总是可以通过取幂从下方达到，因此还可以得出结论，AGEM 不能具有强不可达基数的无限模型。这就是在原子性背景下的“普遍性的代价”，正如 Uzquiano（2006）所称。
 
 加入原子无性公理（P.8）的结果——ÃGEM 如何？显然，上述限制不适用，并且在第 3.4 节中提到的 Tarski 模型足以确立一致性。然而，需要注意的是，每个 GEM 模型——因此每个ÃGEM 模型——在顶部都是必然受限的，这是由于普遍实体 U 的存在。这本身并不成问题：虽然 U 的存在是底部公理的对偶，其中一切都是部分的顶级巨大物体没有底部原子的形式和哲学上的奇异之处（尽管请参见第 4.5 节的限定）。然而，一个相信无限可分性，或者至少相信其可能性的哲学家，可能对无限可组合性有同样的感觉。就像一切都可以由无原子的粘液制成，它永远分裂成越来越小的部分，一切可能都是仅仅“垃圾”组成的——正如 Schaffer（2010: 64）所称。持有这种观点的哲学家之一是怀特海德，他的事件分体论包括原子无性原则及其向上对偶，即：
 
-| (P.19) | \* 上升 _∃_ y_PP_xy\*. |
+| (P.19) | \* 上升 *∃* y_PP_xy\*. |
 | ------ | -------------------- |
 
 见 Whitehead 1919: 101; 1920: 76）。GEM 与前一种可能性兼容，而ÃGEM 使其成为普遍必然性。但是，两者都没有容纳后者的空间。实际上，从原子论的角度来看，垃圾的可能性也许是有吸引力的。毕竟，即使一切都由单子组成，Theophilus 也认为“世界上从不会有无限的整体，尽管总是有比其他整体更大的整体”（Leibniz，New Essays，I-xiii-21）。这是 GEM 的一个严重限制吗？更一般地说，这是任何存在 U 的理论的严重限制吗？（在没有反对对称性的情况下，人们可能希望通过将（P.19）中的谓词“PP”理解为（20'）中给出的更强定义来考虑这个问题；见上文，ad（P.8'）。）一些作者认为是这样的（Bohn 2009a, 2009b, 2010），因为垃圾至少是可以想象的（也请参见 Tallant 2013），并且可以提供合理的宇宙学和数学模型（Morganti 2009, Mormann 2014）。其他人认为不是这样，因为垃圾在形而上学上是不可能的（Schaffer 2010, Watson 2010）。还有一些人对这个问题持开放态度（Simons 1987: 83）。人们还可以将这个问题视为任何涉及对绝对一切进行量化的理论所面临的困扰的症状，正如（P.15i）中的无限和原则所明显表明的那样（参见 Spencer 2012，尽管他的评论集中在以复数量化为基础的分体论理论上）。无论如何，从形式的角度来看，与 Ascent 的不兼容性可以被视为（P.15i）的一个不愉快的结果，并且是选择更弱的理论的一个理由。特别是，它可以被视为只支持有限求和的理由，也就是说只支持（P.12ξ,i）的实例，或者可能是它的无限版本：
@@ -574,7 +572,7 @@ GEM 的代数强度以及其较弱的有限和无限变体值得强调，但它�
 
 当然与 M（直到 EM 和更多）是兼容的。但是，直接的推论是：没有任何东西会成为其他任何东西的一部分，部分会坍缩为同一性。（这种观点有时被称为分体论虚无主义，与（P.15i）所表达的分体论普遍主义形成对比；参见 van Inwagen 1990: 72ff.\[ 25] Van Inwagen 本人支持一种受限虚无主义，为复合生物留出了空间。Merricks 2000, 2001 也是如此，他的受限虚无主义为复合有意识的事物留出了空间。）
 
-| (63) | P_xy_↔_x_=_y_ |
+| (63) | P_xy_↔*x*=*y* |
 | ---- | ------------- |
 
 近年来，对具有实质性组合原则的分体论理论提出了进一步的担忧，特别是对 GEM 的全部力量的担忧。除其他事项外，有人认为无限制组合原则与关于时间持续性的某些基本直觉不相符（van Inwagen 1990, 75ff），与某些合理的空间理论不兼容（Forrest 1996b），或者导致类似于困扰朴素集合论的悖论（Bigelow 1996）。对此类论证的详细研究超出了本条目的范围。然而，关于第一个问题的一些讨论，请参见 Rea（1998），McGrath（1998, 2001），Hudson（2001: 93ff）和 Eklund（2002: §7）。关于第二个问题，请参见 Oppy（1997）和 Mormann（1999）。Hudson（2001: 95ff）还包含了一些关于最后一点的讨论。
@@ -623,9 +621,9 @@ In recent years, further worries have been raised concerning mereological theori
 
 这并不意味着这个问题很容易。事实证明，核心理论 M 的“模糊化”相当简单，但其扩展引发了各种问题。因此，考虑偏序公理（P.1）-（P.3）。在经典情况下，这些对应于对π的以下条件：
 
-| (P.1π) | π(_x_,_x_) = 1                           |
+| (P.1π) | π(*x*,*x*) = 1                           |
 | ------ | ---------------------------------------- |
-| (P.2π) | π(_x_,_z_) ≥ min(π(_x_,_y_), π(_y_,_z_)) |
+| (P.2π) | π(*x*,*z*) ≥ min(π(*x*,*y*), π(*y*,*z*)) |
 | (P.3π) | 如果π(x, y) = 1 且π(y, x) = 1，则 x = y，      |
 
 并且可以认为，无论π是否为二值的，相同的条件可以用来确定部分性的基本属性。也许可以考虑如下弱化（P.2π）（Polkowsky 和 Skowron 1994）：
@@ -646,499 +644,499 @@ In recent years, further worries have been raised concerning mereological theori
 
 ### Cited Works
 
-* Aczel, P., 1988, _Non-Well-Founded Sets_, Stanford: CSLI Publications.
-* Akiba, K., 2000, ‘Vagueness as a Modality’, _Philosophical Quarterly_, 50: 359–370.
-* –––, 2004, ‘Vagueness in the World’, _Noûs_, 38: 407–429.
-* Albert, D. Z, 1996, ‘Elementary Quantum Metaphysics’, in J. T. Cushing _et al._ (eds.), _Bohmian Mechanics and Quantum Theory: An Appraisal_, Dodrecht: Kluwer, pp. 277–284.
-* Armstrong, D. M., 1986, ‘In Defence of Structural Universals’, _Australasian Journal of Philosophy_, 64: 85–88.
-* –––, 1988, ‘Are Quantities Relations? A Reply to Bigelow and Pargetter’, _Philosophical Studies_, 54: 305–316.
-* –––, 1997, _A World of States of Affairs_, Cambridge: Cambridge University Press.
-* Bader, R., 2013, ‘Multiple-Domain Supervenience for Non-Classical Mereologies’, in M. Hoeltje _et al._ (eds.), _Varieties of Dependence_, Munich: Philosophia, pp. 347–368.
-* Baker, L. R., 1997, ‘Why Constitution Is Not Identity’, _Journal of Philosophy_, 94: 599–621.
-* Balashov, Y., 2008, ‘Persistence and Multilocation in Spacetime’, in D. Dieks (ed.), _The Ontology of Spacetime_, Amsterdam: Elsevier, pp. 59–81.
-* Barnes, E. and Williams, J. R. G., 2009, ‘Vague Parts and Vague Identity’, _Pacific Philosophical Quarterly_, 90: 176–187.
-* Barnett, D., 2004, ‘Some Stuffs Are Not Sums of Stuff’, _Philosophical Review_, 113: 89–100.
-* Barwise, J. and Moss, L., 1996, _Vicious Circles: On the Mathematics of Non-Wellfounded Phenomena_, Stanford: CSLI Publications.
-* Baumgartner, W., 2013, ‘Franz Brentano's Mereology’, in D. Fisette and G. Fréchette (eds.), _Themes from Brentano_, Amsterdam: Rodopi, pp. 227–245.
-* Baumgartner, W. and Simons, P. M., 1993, ‘Brentanos Mereologie’, _Brentano Studien_, 4: 53–77; Eng. trans. by P. M. Simons: ‘Brentano's Mereology’, _Axiomathes_, 5 (1994): 55–76.
-* Baxter, D. L. M., 1988a, ‘Many–One Identity’, _Philosophical Papers_, 17: 193–216.
-* –––, 1988b, ‘Identity in the Loose and Popular Sense’, _Mind_, 97: 575–582.
-* Baxter, D. L. M. and Cotnoir, A. J. (eds.), 2014, _Composition as Identity_, Oxford: Oxford University Press.
-* Beall, J. and Restall, G., 2006, _Logical Pluralism_, Oxford: Oxford University Press.
-* Bennett, J., 1984, _A Study of Spinoza's Ethics_, Indianapolis: Hackett.
-* Bennett, K., 2013, ‘Having a Part Twice Over’, _Australasian Journal of Philosophy_, 91: 83–103.
-* Berto, F. and M. Carrara, 2009, ‘To Exist and to Count: A Note on the Minimalist View’, _Dialectica_, 63: 343–356.
-* Betti, A., 2013, ‘Leśniewski, Tarski and the Axioms of Mereology’, in K. Mulligan _et al._ (eds.), _The History and Philosophy of Polish Logic. Essays in Honour of Jan Woleński_, Basingstoke: Palgrave Macmillan, pp. 242–258.
-* Bigelow, J., 1996, ‘God and the New Math’, _Philosophical Studies_, 84: 127–154.
-* Bigelow, J. and Pargetter, R., 1989, ‘A Theory of Structural Universals’, _Australasian Journal of Philosophy_, 67: 1–11.
-* Bittner, T. and Donnelly, M., 2007, ‘A Temporal Mereology for Distinguishing between Integral Objects and Portions of Stuff’, in R. Holte and A. Howe (eds.), _Proceedings of the Twenty-Second AAAI Conference on Artificial Intelligence_, Vancouver: AAAI Press, pp. 287–292.
-* Blecksmith, R. and Null, G., 1991, ‘Matrix Representation of Husserl's Part-Whole-Foundation Theory’, _Notre Dame Journal of Formal Logic_, 32: 87–111.
-* Bogen, J., 1995, ‘Fire in the Belly: Aristotelian Elements, Organisms, and Chemical Compounds’, _Pacific Philosophical Quarterly_, 76: 370–404.
-* Bohn, E. D., 2009a, ‘An Argument against the Necessity of Unrestricted Composition’, _Analysis_, 69: 27–31.
-* –––, 2009b, ‘Must There Be a Top Level?’, _Philosophical Quarterly_, 59: 193–201.
-* –––, 2010, ‘The Necessity of Universalism versus the Possibility of Junky Worlds: A Rejoinder’, _Analysis_, 70: 296–298.
-* –––, 2012, ‘Monism, Emergence, and Plural Logic’, _Erkenntnis_, 76: 211–223
-* Boolos, G., 1984, ‘To Be Is To Be the Value of a Variable (or To Be Some Values of Some Variables)’, _Journal of Philosophy_, 81: 430–449.
-* Borges, J. L., 1949, ‘El Aleph’, in _El Aleph_, Buenos Aires: Losada; Eng. trans. by A. Kerrigan: ‘The Aleph’, in J. L. Borges, _A Personal Anthology_, New York: Grove, 1967.
-* Bostock, D., 1979, _Logic and Arithmetic, Vol. 2: Rational and Irrational Numbers_, Oxford: Clarendon Press.
-* Bower, G. H. and Glass, A., 1976, ‘Structural Units and the Redintegrative Power of Picture Fragments’, _Journal of Experimental Psychology: Human Learning and Memory_ , 2: 456–466.
-* Braddon-Mitchell, D. and Miller, K., 2006, ‘The Physics of Extended Simples’, _Analysis_, 66: 222–226.
-* Breitkopf, A., 1978, ‘Axiomatisierung einiger Begriffe aus Nelson Goodmans _The Structure of Appearance_’, _Erkenntnis_, 12: 229–247.
-* Brentano, F., 1933, _Kategorienlehre_, ed. A. Kastil, Hamburg: Meiner; Eng. trans. by R. M. Chisholm and N. Guterman: _The Theory of Categories_, The Hague: Nijhoff, 1981.
-* Brown, C. M., 2005, _Aquinas and the Ship of Theseus_, London: Continuum.
-* Bunge, M., 1966, ‘On Null Individuals’, _Journal of Philosophy_, 63: 776–778.
-* Bunt, H. C., 1985, _Mass Terms and Model-Theoretic Semantics_, Cambridge: Cambridge University Press.
-* Burge, T., 1977, ‘A Theory of Aggregates’, _Noûs_, 11: 97–117.
-* Burgess, J. A., 1990, ‘Vague Objects and Indefinite Identity’, _Philosophical Studies_, 59: 263–287.
-* Burgess, J. P., 2015, ‘Lewis on Mereology and Set Theory’, in B. Loewer and J. Schaffer (eds.), _A Companion to David Lewis_, Oxford: Wiley-Blackwell, pp. 459–469.
-* Burke M. B., 1994, ‘Dion and Theon: An Essentialist Solution to an Ancient Puzzle’, _Journal of Philosophy_, 91: 129–139.
-* Calosi, C., Fano, V. and Tarozzi, G., 2011, ‘Quantum Ontology and Extensional Mereology’, _Foundations of Physics_, 41: 1740–1755.
-* Calosi, C. and Tarozzi, G., 2014, ‘Parthood and Composition in Quantum Mechanics’, in C. Calosi and P. Graziani (eds.), _Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context_, Berlin: Springer, pp. 53–84.
-* Cameron, R. P., 2007, ‘The Contingency of Composition’, _Philosophical Studies_, 136: 99–121.
-* –––, 2010, ‘Quantification, Naturalness and Ontology’, in A. Hazlett (ed.), _New Waves in Metaphysics_, Basingstoke: Palgrave Macmillan, pp. 8–26.
-* –––, 2012, ‘Composition as Identity Doesn't Settle the Special Composition Question’, _Philosophy and Phenomenological Research_, 84: 531–554.
-* Cantor, G., 1891, ‘Über eine elementare Frage der Mannigfaltigkeitslehre’, _Jahresbericht der Deutschen Mathematiker-Vereinigung_, 1: 75–78.
-* Carmichael, C., 2011, ‘Vague Composition without Vague Existence’, _Noûs_, 45: 315–327.
-* Carnap, R., 1947, _Meaning and Necessity_, Chicago: University of Chicago Press.
-* Carrara, M. and Martino, M., 2011, ‘Four Theses on the Alleged Innocence of Mereology’, _Humana.Mente_, 19: 57–77.
-* Cartwright, H. M., 1979, ‘Quantities’, _Philosophical Review_, 79: 25–42.
-* Cartwright, R., 1975, ‘Scattered Objects’, in K. Lehrer (ed.), _Analysis and Metaphysics_, Dordrecht: Reidel, pp. 153–171.
-* Casari, E., 2000, ‘On Husserl's Theory of Wholes and Parts’, _History and Philosophy of Logic_, 21: 1–43.
-* –––, 2007, ‘On the Relationship between Parts and Wholes in Husserl's Phenomenology’, in L. Boi _et al._ (eds.), _Rediscovering Phenomenology_, Berlin: Springer, pp. 67–102.
-* Casati, R. and Varzi, A. C., 1999, _Parts and Places: The Structures of Spatial Representation_, Cambridge (MA): MIT Press.
-* Chant, S. R., 2006, ‘The Special Composition Question in Action’, _Pacific Philosophical Quarterly_, 87: 422–441.
-* Chappell, V. C., 1973, ‘Matter’, _Journal of Philosophy_, 70: 679–696.
-* Chisholm, R. M., 1973, ‘Parts as Essential to Their Wholes’, _Review of Metaphysics_, 26: 581–603.
-* –––, 1975, ‘Mereological Essentialism: Further Considerations’, _Review of Metaphysics_, 28: 477–484.
-* –––, 1976, _Person and Object. A Metaphysical Study_, La Salle (IL): Open Court.
-* –––, 1978, ‘Brentano's Conception of Substance and Accident’, _Grazer philosophische Studien_, 5: 197–210.
-* –––, 1987, ‘Scattered Objects’, in J. J. Thomson (ed.), _On Being and Saying: Essays for Richard Cartwright_, Cambridge (MA): MIT Press, pp. 167–173.
-* Clarke, B. L., 1981, ‘A Calculus of Individuals Based on “Connection”’, _Notre Dame Journal of Formal Logic_, 22: 204–218.
-* Clay, R. E., 1981, _Leśniewski's Mereology_, Cumana: Universidad de Oriente.
-* Cohn, A. G. and Gotts, N., 1996, ‘The “Egg-Yolk” Representation of Regions with Indeterminate Boundaries’, in P. Burrough and A. Frank (eds.), _Geographical Objects with Undetermined Boundaries_, London: Taylor and Francis, pp. 171–187.
-* Cohn, A. G. and Varzi, A. C., 2003, ‘Mereotopological Connection’, _Journal of Philosophical Logic_, 32: 357–390.
-* Cohnitz, D. and Rossberg, M., 2006, _Nelson Goodman_, Chesham: Acumen.
-* Comesaña, J., 2008, ‘Could There Be Exactly Two Things?’, _Synthese_, 162: 31–35.
-* Contessa, G., 2012, ‘The Junk Argument: Safe Disposal Guidelines for Mereological Universalists’, _Analysis_, 72: 455–457.
-* –––, 2014, ‘One's a Crowd: Mereological Nihilism without Ordinary-Object Eliminativism’, _Analytical Philosophy_, 55: 199–221.
-* Cook, M., 1986, ‘Indeterminacy of Identity’, _Analysis_, 46: 179–186.
-* Copp, D., 1984, ‘What Collectives Are: Agency, Individualism and Legal Theory’, _Dialogue_, 23, 249–269.
-* Cotnoir, A. J., 2010, ‘Anti-Symmetry and Non-Extensional Mereology’, _Philosophical Quarterly_, 60: 396–405.
-* –––, 2013a, ‘Composition as General Identity’, _Oxford Studies in Metaphysics_, 8: 295–322.
-* –––, 2013b, ‘Strange Parts: The Metaphysics of Non-classical Mereologies’, _Philosophy Compass_, 8/9: 834–845.
-* –––, 2013c, ‘Beyond Atomism’, _Thought_, 2: 67–72.
-* –––, 2014, ‘Universalism and Junk’, _Australasian Journal of Philosophy_, 92: 649–664.
-* –––, 2015, ‘Abelian Mereology’, _Logic and Logical Philosophy_, 24: 429–447.
-* –––, 2016, ‘Does Universalism Entail Extensionalism?’, _Noûs_, 50: 121–132.
-* Cotnoir, A. J. and Bacon, A., 2012, ‘Non-Wellfounded Mereology’, _Review of Symbolic Logic_, 5: 187–204.
+* Aczel, P., 1988, *Non-Well-Founded Sets*, Stanford: CSLI Publications.
+* Akiba, K., 2000, ‘Vagueness as a Modality’, *Philosophical Quarterly*, 50: 359–370.
+* –––, 2004, ‘Vagueness in the World’, *Noûs*, 38: 407–429.
+* Albert, D. Z, 1996, ‘Elementary Quantum Metaphysics’, in J. T. Cushing *et al.* (eds.), *Bohmian Mechanics and Quantum Theory: An Appraisal*, Dodrecht: Kluwer, pp. 277–284.
+* Armstrong, D. M., 1986, ‘In Defence of Structural Universals’, *Australasian Journal of Philosophy*, 64: 85–88.
+* –––, 1988, ‘Are Quantities Relations? A Reply to Bigelow and Pargetter’, *Philosophical Studies*, 54: 305–316.
+* –––, 1997, *A World of States of Affairs*, Cambridge: Cambridge University Press.
+* Bader, R., 2013, ‘Multiple-Domain Supervenience for Non-Classical Mereologies’, in M. Hoeltje *et al.* (eds.), *Varieties of Dependence*, Munich: Philosophia, pp. 347–368.
+* Baker, L. R., 1997, ‘Why Constitution Is Not Identity’, *Journal of Philosophy*, 94: 599–621.
+* Balashov, Y., 2008, ‘Persistence and Multilocation in Spacetime’, in D. Dieks (ed.), *The Ontology of Spacetime*, Amsterdam: Elsevier, pp. 59–81.
+* Barnes, E. and Williams, J. R. G., 2009, ‘Vague Parts and Vague Identity’, *Pacific Philosophical Quarterly*, 90: 176–187.
+* Barnett, D., 2004, ‘Some Stuffs Are Not Sums of Stuff’, *Philosophical Review*, 113: 89–100.
+* Barwise, J. and Moss, L., 1996, *Vicious Circles: On the Mathematics of Non-Wellfounded Phenomena*, Stanford: CSLI Publications.
+* Baumgartner, W., 2013, ‘Franz Brentano's Mereology’, in D. Fisette and G. Fréchette (eds.), *Themes from Brentano*, Amsterdam: Rodopi, pp. 227–245.
+* Baumgartner, W. and Simons, P. M., 1993, ‘Brentanos Mereologie’, *Brentano Studien*, 4: 53–77; Eng. trans. by P. M. Simons: ‘Brentano's Mereology’, *Axiomathes*, 5 (1994): 55–76.
+* Baxter, D. L. M., 1988a, ‘Many–One Identity’, *Philosophical Papers*, 17: 193–216.
+* –––, 1988b, ‘Identity in the Loose and Popular Sense’, *Mind*, 97: 575–582.
+* Baxter, D. L. M. and Cotnoir, A. J. (eds.), 2014, *Composition as Identity*, Oxford: Oxford University Press.
+* Beall, J. and Restall, G., 2006, *Logical Pluralism*, Oxford: Oxford University Press.
+* Bennett, J., 1984, *A Study of Spinoza's Ethics*, Indianapolis: Hackett.
+* Bennett, K., 2013, ‘Having a Part Twice Over’, *Australasian Journal of Philosophy*, 91: 83–103.
+* Berto, F. and M. Carrara, 2009, ‘To Exist and to Count: A Note on the Minimalist View’, *Dialectica*, 63: 343–356.
+* Betti, A., 2013, ‘Leśniewski, Tarski and the Axioms of Mereology’, in K. Mulligan *et al.* (eds.), *The History and Philosophy of Polish Logic. Essays in Honour of Jan Woleński*, Basingstoke: Palgrave Macmillan, pp. 242–258.
+* Bigelow, J., 1996, ‘God and the New Math’, *Philosophical Studies*, 84: 127–154.
+* Bigelow, J. and Pargetter, R., 1989, ‘A Theory of Structural Universals’, *Australasian Journal of Philosophy*, 67: 1–11.
+* Bittner, T. and Donnelly, M., 2007, ‘A Temporal Mereology for Distinguishing between Integral Objects and Portions of Stuff’, in R. Holte and A. Howe (eds.), *Proceedings of the Twenty-Second AAAI Conference on Artificial Intelligence*, Vancouver: AAAI Press, pp. 287–292.
+* Blecksmith, R. and Null, G., 1991, ‘Matrix Representation of Husserl's Part-Whole-Foundation Theory’, *Notre Dame Journal of Formal Logic*, 32: 87–111.
+* Bogen, J., 1995, ‘Fire in the Belly: Aristotelian Elements, Organisms, and Chemical Compounds’, *Pacific Philosophical Quarterly*, 76: 370–404.
+* Bohn, E. D., 2009a, ‘An Argument against the Necessity of Unrestricted Composition’, *Analysis*, 69: 27–31.
+* –––, 2009b, ‘Must There Be a Top Level?’, *Philosophical Quarterly*, 59: 193–201.
+* –––, 2010, ‘The Necessity of Universalism versus the Possibility of Junky Worlds: A Rejoinder’, *Analysis*, 70: 296–298.
+* –––, 2012, ‘Monism, Emergence, and Plural Logic’, *Erkenntnis*, 76: 211–223
+* Boolos, G., 1984, ‘To Be Is To Be the Value of a Variable (or To Be Some Values of Some Variables)’, *Journal of Philosophy*, 81: 430–449.
+* Borges, J. L., 1949, ‘El Aleph’, in *El Aleph*, Buenos Aires: Losada; Eng. trans. by A. Kerrigan: ‘The Aleph’, in J. L. Borges, *A Personal Anthology*, New York: Grove, 1967.
+* Bostock, D., 1979, *Logic and Arithmetic, Vol. 2: Rational and Irrational Numbers*, Oxford: Clarendon Press.
+* Bower, G. H. and Glass, A., 1976, ‘Structural Units and the Redintegrative Power of Picture Fragments’, *Journal of Experimental Psychology: Human Learning and Memory* , 2: 456–466.
+* Braddon-Mitchell, D. and Miller, K., 2006, ‘The Physics of Extended Simples’, *Analysis*, 66: 222–226.
+* Breitkopf, A., 1978, ‘Axiomatisierung einiger Begriffe aus Nelson Goodmans *The Structure of Appearance*’, *Erkenntnis*, 12: 229–247.
+* Brentano, F., 1933, *Kategorienlehre*, ed. A. Kastil, Hamburg: Meiner; Eng. trans. by R. M. Chisholm and N. Guterman: *The Theory of Categories*, The Hague: Nijhoff, 1981.
+* Brown, C. M., 2005, *Aquinas and the Ship of Theseus*, London: Continuum.
+* Bunge, M., 1966, ‘On Null Individuals’, *Journal of Philosophy*, 63: 776–778.
+* Bunt, H. C., 1985, *Mass Terms and Model-Theoretic Semantics*, Cambridge: Cambridge University Press.
+* Burge, T., 1977, ‘A Theory of Aggregates’, *Noûs*, 11: 97–117.
+* Burgess, J. A., 1990, ‘Vague Objects and Indefinite Identity’, *Philosophical Studies*, 59: 263–287.
+* Burgess, J. P., 2015, ‘Lewis on Mereology and Set Theory’, in B. Loewer and J. Schaffer (eds.), *A Companion to David Lewis*, Oxford: Wiley-Blackwell, pp. 459–469.
+* Burke M. B., 1994, ‘Dion and Theon: An Essentialist Solution to an Ancient Puzzle’, *Journal of Philosophy*, 91: 129–139.
+* Calosi, C., Fano, V. and Tarozzi, G., 2011, ‘Quantum Ontology and Extensional Mereology’, *Foundations of Physics*, 41: 1740–1755.
+* Calosi, C. and Tarozzi, G., 2014, ‘Parthood and Composition in Quantum Mechanics’, in C. Calosi and P. Graziani (eds.), *Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context*, Berlin: Springer, pp. 53–84.
+* Cameron, R. P., 2007, ‘The Contingency of Composition’, *Philosophical Studies*, 136: 99–121.
+* –––, 2010, ‘Quantification, Naturalness and Ontology’, in A. Hazlett (ed.), *New Waves in Metaphysics*, Basingstoke: Palgrave Macmillan, pp. 8–26.
+* –––, 2012, ‘Composition as Identity Doesn't Settle the Special Composition Question’, *Philosophy and Phenomenological Research*, 84: 531–554.
+* Cantor, G., 1891, ‘Über eine elementare Frage der Mannigfaltigkeitslehre’, *Jahresbericht der Deutschen Mathematiker-Vereinigung*, 1: 75–78.
+* Carmichael, C., 2011, ‘Vague Composition without Vague Existence’, *Noûs*, 45: 315–327.
+* Carnap, R., 1947, *Meaning and Necessity*, Chicago: University of Chicago Press.
+* Carrara, M. and Martino, M., 2011, ‘Four Theses on the Alleged Innocence of Mereology’, *Humana.Mente*, 19: 57–77.
+* Cartwright, H. M., 1979, ‘Quantities’, *Philosophical Review*, 79: 25–42.
+* Cartwright, R., 1975, ‘Scattered Objects’, in K. Lehrer (ed.), *Analysis and Metaphysics*, Dordrecht: Reidel, pp. 153–171.
+* Casari, E., 2000, ‘On Husserl's Theory of Wholes and Parts’, *History and Philosophy of Logic*, 21: 1–43.
+* –––, 2007, ‘On the Relationship between Parts and Wholes in Husserl's Phenomenology’, in L. Boi *et al.* (eds.), *Rediscovering Phenomenology*, Berlin: Springer, pp. 67–102.
+* Casati, R. and Varzi, A. C., 1999, *Parts and Places: The Structures of Spatial Representation*, Cambridge (MA): MIT Press.
+* Chant, S. R., 2006, ‘The Special Composition Question in Action’, *Pacific Philosophical Quarterly*, 87: 422–441.
+* Chappell, V. C., 1973, ‘Matter’, *Journal of Philosophy*, 70: 679–696.
+* Chisholm, R. M., 1973, ‘Parts as Essential to Their Wholes’, *Review of Metaphysics*, 26: 581–603.
+* –––, 1975, ‘Mereological Essentialism: Further Considerations’, *Review of Metaphysics*, 28: 477–484.
+* –––, 1976, *Person and Object. A Metaphysical Study*, La Salle (IL): Open Court.
+* –––, 1978, ‘Brentano's Conception of Substance and Accident’, *Grazer philosophische Studien*, 5: 197–210.
+* –––, 1987, ‘Scattered Objects’, in J. J. Thomson (ed.), *On Being and Saying: Essays for Richard Cartwright*, Cambridge (MA): MIT Press, pp. 167–173.
+* Clarke, B. L., 1981, ‘A Calculus of Individuals Based on “Connection”’, *Notre Dame Journal of Formal Logic*, 22: 204–218.
+* Clay, R. E., 1981, *Leśniewski's Mereology*, Cumana: Universidad de Oriente.
+* Cohn, A. G. and Gotts, N., 1996, ‘The “Egg-Yolk” Representation of Regions with Indeterminate Boundaries’, in P. Burrough and A. Frank (eds.), *Geographical Objects with Undetermined Boundaries*, London: Taylor and Francis, pp. 171–187.
+* Cohn, A. G. and Varzi, A. C., 2003, ‘Mereotopological Connection’, *Journal of Philosophical Logic*, 32: 357–390.
+* Cohnitz, D. and Rossberg, M., 2006, *Nelson Goodman*, Chesham: Acumen.
+* Comesaña, J., 2008, ‘Could There Be Exactly Two Things?’, *Synthese*, 162: 31–35.
+* Contessa, G., 2012, ‘The Junk Argument: Safe Disposal Guidelines for Mereological Universalists’, *Analysis*, 72: 455–457.
+* –––, 2014, ‘One's a Crowd: Mereological Nihilism without Ordinary-Object Eliminativism’, *Analytical Philosophy*, 55: 199–221.
+* Cook, M., 1986, ‘Indeterminacy of Identity’, *Analysis*, 46: 179–186.
+* Copp, D., 1984, ‘What Collectives Are: Agency, Individualism and Legal Theory’, *Dialogue*, 23, 249–269.
+* Cotnoir, A. J., 2010, ‘Anti-Symmetry and Non-Extensional Mereology’, *Philosophical Quarterly*, 60: 396–405.
+* –––, 2013a, ‘Composition as General Identity’, *Oxford Studies in Metaphysics*, 8: 295–322.
+* –––, 2013b, ‘Strange Parts: The Metaphysics of Non-classical Mereologies’, *Philosophy Compass*, 8/9: 834–845.
+* –––, 2013c, ‘Beyond Atomism’, *Thought*, 2: 67–72.
+* –––, 2014, ‘Universalism and Junk’, *Australasian Journal of Philosophy*, 92: 649–664.
+* –––, 2015, ‘Abelian Mereology’, *Logic and Logical Philosophy*, 24: 429–447.
+* –––, 2016, ‘Does Universalism Entail Extensionalism?’, *Noûs*, 50: 121–132.
+* Cotnoir, A. J. and Bacon, A., 2012, ‘Non-Wellfounded Mereology’, *Review of Symbolic Logic*, 5: 187–204.
 * Cotnoir, A. J. and Weber, Z., 2014, ‘Inconsistent Boundaries’, unpublished ms.
-* Crane, J. K., 2012, ‘Biological-Mereological Coincidence’, _Philosophical Studies_, 161: 309–325.
-* Cowling, S., 2014, ‘No Simples, No Gunk, No Nothing’, _Pacific Philosophical Quarterly_, 95: 246–260.
-* Cruse, D. A., 1979, ‘On the Transitivity of the Part-Whole Relation’, _Journal of Linguistics_, 15: 29–38.
-* Daniels, P. R., 2014, ‘Occupy Wall: A Mereological Puzzle and the Burdens of Endurantism’, _Australasian Journal of Philosophy_, 92: 91–101.
-* Day, G. W., 1960, _Super-atomic Boolean Algebras_, West Lafayette, IN: Purdue University, Ph.D. dissertation.
-* –––, 1967, ‘Superatomic Boolean Algebras’, _Pacific Journal of Mathematics_, 23: 479–489.
-* Doepke, F. C., 1982, ‘Spatially Coinciding Objects’, _Ratio_, 24: 45–60.
-* Donnelly, M., 2009, ‘Mereological Vagueness and Existential Vagueness’, _Synthese_, 168: 53–79.
-* –––, 2010, ‘Parthood and Multi-location’, _Oxford Studies in Metaphysics_, 5: 203–243.
-* –––, 2011, ‘Using Mereological Principles to Support Metaphysics’, _Philosophical Quarterly_, 61: 225–246.
-* –––, 2014, ‘A Linguistic Account of Mereological Vagueness’, in K. Akiba and A. Abasnezhad (eds.), _Vague Objects and Vague Identity. New Essays on Ontic Vagueness_, Berlin: Springer, pp. 43–65.
-* Donnelly, M. and Bittner, T., 2008, ‘Summation Relations and Portions of Stuff’, _Philosophical Studies_, 143: 167–185.
-* Dorr, C., 2005, ‘What We Disagree about When We Disagree about Ontology’, in M. Kalderon (ed.), _Fictionalist Approaches to Metaphysics_, Oxford: Oxford University Press, pp. 234–286.
-* Dummett, M., 1975, ‘Wang's Paradox’, _Synthese_, 30: 265–300.
-* –––, 1981, _The Interpretation of Frege's Philosophy_, London: Duckworth.
-* Eagle, A., 2010, ‘Location and Perdurance’, _Oxford Studies in Metaphysics_, 5: 53–94.
-* Eberle, R. A., 1967, ‘Some Complete Calculi of Individuals’, _Notre Dame Journal of Formal Logic_, 8: 267–278.
-* –––, 1968, ‘Yoes on Non-Atomic Systems of Individuals’, _Noûs_, 2: 399–403.
-* –––, 1970, _Nominalistic Systems_, Dordrecht: Reidel.
-* Effingham, N., 2009, ‘Universalism, Vagueness and Supersubstantivalism’, _Australasian Journal of Philosophy_, 87: 35–42.
-* –––, 2010a, ‘Mereological Explanation and Time Travel’, _Australasian Journal of Philosophy_, 88: 333–345.
-* –––, 2010b, ‘The Metaphysics of Groups’, _Philosophical Studies_, 149: 251–267.
-* –––, 2011a, ‘Undermining Motivations for Universalism’, _Noûs_, 45: 696–713.
-* –––, 2011b, ‘Universalism and Classes’, _Dialectica_, 65: 451–472.
-* –––, 2011c, ‘Sider, Hawley, Sider and the Vagueness Argument’, _Philosophical Studies_, 154: 241–250
-* Effingham, N. and Robson, J., 2007, ‘A Mereological Challenge to Endurantism’, _Australasian Journal of Philosophy_, 85: 633–640.
-* Efird, D. and Stoneham, T., 2005, ‘Genuine Modal Realism and the Empty World’, _European Journal of Analytic Philosophy_, 1: 21–36.
-* Eklund, M., 2002, ‘Peter van Inwagen on Material Beings’, _Ratio_, 15: 245–256.
-* Elder, C., 2008, ‘Against Universal Mereological Composition’, _Dialectica_, 62: 433–454.
-* Engel, R. and Yoes, M. G., 1996, ‘Exponentiating Entities by Necessity’, _Australasian Journal of Philosophy_, 74: 293–304.
-* Eschenbach, C. and Heydrich, W., 1995, ‘Classical Mereology and Restricted Domains’, _International Journal of Human-Computer Studies_, 43: 723–740.
-* Evans, G., 1978, ‘Can There Be Vague Objects?’, _Analysis_, 38: 208.
-* Evnine, S., 2011, ‘Constitution and Composition: Three Approaches to Their Relation’, _ProtoSociology_, 27: 212–235.
-* Fine, K., 1975, ‘Vagueness, Truth and Logic’, _Synthese_, 30: 265–300.
-* –––, 1982, ‘Acts, Events, and Things’, in W. Leinfellner _et al._ (eds.), _Language and Ontology. Proceedings of the 6th International Wittgenstein Symposium_, Vienna: Hölder-Pichler-Tempsky, pp. 97–105.
-* –––, 1994, ‘Compounds and Aggregates’, _Noûs_, 28: 137–158.
-* –––, 1995a, ‘The Problem of Mixture’, _Pacific Philosophical Quarterly_, 76: 266–369.
-* –––, 1995b, ‘Part-Whole’, in B. Smith and D. W. Smith (eds.), _The Cambridge Companion to Husserl_, Cambridge: Cambridge University Press, pp. 463–485.
-* –––, 1999, ‘Things and Their Parts’, _Midwest Studies in Philosophy_, 23: 61–74.
-* –––, 2003, ‘The Non-identity of a Material Thing and Its Matter’, _Mind_, 112: 195–234.
-* –––, 2010, ‘Towards a Theory of Part’, _Journal of Philosophy_, 107: 559–589.
-* Fiorini, S. R., Gärdenfors, P. and Abel, M., 2014, ‘Representing Part-Whole Relations in Conceptual Spaces’, _Cognitive Processing_, 15: 127–142.
-* Fisher, A. R. J., 2013, ‘Bennett on Parts Twice Over’, _Philosophia_, 41: 757–761.
-* Forrest, P., 1996a, ‘From Ontology to Topology in the Theory of Regions’, _The Monist_, 79: 34–50.
-* –––, 1996b, ‘How Innocent Is Mereology?’, _Analysis_, 56: 127–131.
-* –––, 2002, ‘Nonclassical Mereology and Its Application to Sets’, _Notre Dame Journal of Formal Logic_, 43: 79–94.
-* –––, 2013, ‘Exemplification and Parthood’, _Axiomathes_, 23: 323–341.
-* –––, forthcoming, ‘The Mereology of Structural Universals’, _Logic and Logical Philosophy_, [published online 2015](http://apcz.pl/czasopisma/index.php/LLP/article/download/LLP.2015.012/5401), doi:10.12775/LLP.2015.012
-* Frege, G., 1976, _Wissenschaftlicher Briefwechsel_ (ed. by G. Gabriel _et al._), Hamburg: Meiner; cited from the Eng. trans. by H. Kaal, _Philosophical and Mathematical Correspondence_, Oxford: Blackwell, 1980.
-* Gallois, A., 1998, _Occasions of Identity. The Metaphysics of Persistence, Change, and Sameness_, Oxford: Clarendon Press.
-* Garbacz, P., 2007, ‘A First-Order Theory of Functional Parthood’, _Journal of Philosophical Logic_, 36: 309–337.
-* Geach, P. T., 1949, ‘On Rigour in Semantics’, _Mind_, 58: 518–522.
-* –––, 1980, _Reference and Generality_, 3rd edition, Ithaca: Cornell University Press.
-* Gerstl, P. and Pribbenow, S., 1995, ‘Midwinters, End Games, and Bodyparts. A Classification of Part-Whole Relations’, _International Journal of Human-Computer Studies_, 43: 865–889.
-* Gessler, N., 2005, _Introduction à l'oeuvre de S. Leśniewski, Fascicule III: La méréologie_, Neuchâtel: Centre de Recherches Sémiologiques.
-* Giaretta, P. and Spolaore, G., 2011, ‘A Mereology for the Change of Parts’, in M. Trobok _et al._ (eds.), _Between Logic and Reality: Modeling Inference, Action and Understanding_, Berlin: Springer, pp. 243–259.
-* Gibbard, A., 1975, ‘Contingent Identity’, _Journal of Philosophical Logic_, 4: 187–221.
-* Giberman, D., 2015, ‘Junky Non-Worlds’, _Erkenntnis_, 80: 437–443.
-* Gilbert, M., 1989, _On Social Reality_, Princeton (NJ): Princeton University Press.
-* Gilmore, C., 2007, ‘Time Travel, Coinciding Objects, and Persistence’, _Oxford Studies in Metaphysics_, 3: 177–198.
-* –––, 2009, ‘Why Parthood Might Be a Four-Place Relation, and How It Behaves If It Is’, in L. Honnefelder _et al._ (eds.), _Unity and Time in Metaphysics_, Berlin: de Gruyter, pp. 83–133.
-* –––, 2014, ‘Parts of Propositions’, in S. Kleinschmidt (ed.), _Mereology and Location_, Oxford: Oxford University Press, pp. 156–208.
-* –––, 2016, ‘Quasi-Supplementation, Plenitudinous Coincidentalism, and Gunk’, in R. Garcia (ed.), _Substance: New Essays_, Munich: Philosophia (forthcoming).
-* Giraud, T., 2013, ‘An Abstract Mereology for Meinongian Objects’, _Humana.Mente_, 25: 177–210.
-* Goodman, N., 1951, _The Structure of Appearance_, Cambridge (MA): Harvard University Press (3rd ed. Dordrecht: Reidel, 1977).
-* –––, 1956, ‘A World of Individuals’, in J. M. Bochenski, A. Church, and N. Goodman, _The Problem of Universals. A Symposium_, Notre Dame: University of Notre Dame Press, pp. 13–31.
-* –––, 1958, ‘On Relations that Generate’, _Philosophical Studies_, 9: 65–66.
-* Grandy, R., 1975, ‘Stuff and Things’, _Synthese_, 31: 479–485.
-* Grupp, J., 2006, ‘Mereological Nihilism: Quantum Atomism and the Impossibility of Material Constitution’, _Axiomathes_, 16: 245–386.
-* Gruszczyński, R., 2013, ‘Mereological Fusion as an Upper Bound’, _Bulletin of the Section of Logic_, 42: 135–150.
-* Gruszczyński, R. and Pietruszczak, A., 2009, ‘Space, Points and Mereology. On Foundations of Point-free Euclidean Geometry’, _Logic and Logical Philosophy_, 18: 145–188.
-* –––, 2010, ‘How To Define A Mereological (Collective) Set’, _Logic and Logical Philosophy_, 19: 309–328.
-* –––, 2014, ‘The Relations of _Supremum_ and _Mereological Sum_ in Partially Ordered Sets’, in C. Calosi and P. Graziani (eds.), _Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context_, Berlin: Springer, pp. 123–140.
-* Grzegorczyk , A., 1955, ‘The Systems of Leśniewski in Relation to Contemporary Logical Research’, _Studia Logica_, 3: 77–97.
-* Hamkins, J. D. and Kikuchi, M., forthcoming, ‘Set-Theoretic Mereology’, _Logic and Logical Philosophy_.
-* Harré, R. and Llored, J.-P., 2011, ‘Mereologies as the Grammars of Chemical Discourses’, _Foundations of Chemistry_, 13: 63–76.
-* Haslanger, S., 1994, ‘Parts, Compounds, and Substantial Unity’, in T. Scaltsas _et al._ (eds.), _Unity and Identity of Aristotelian Substances_, Oxford: Oxford University Press, pp. 129–170.
-* Haslanger, S. and Kurtz, R. M. (eds.), 2006, _Persistence: Contemporary Readings_, Cambridge (MA): MIT Press.
-* Hawley, K., 2006, ‘Principles of Composition and Criteria of Identity’, _Australasian Journal of Philosophy_, 84: 481–493.
-* –––, 2010, ‘Mereology, Modality, and Magic’, _Australasian Journal of Philosophy_, 88: 117–133.
-* –––, 2013, ‘Cut the Pie Any Way You Like? Cotnoir on General Identity’, _Oxford Studies in Metaphysics_, 8: 323–330.
-* Hazen, A. P., 2004, ‘Hypergunk’, _The Monist_, 87: 322–338.
-* Heller, M., 1984, ‘Temporal Parts of Four Dimensional Objects’, _Philosophical Studies_, 46: 323–334.
-* –––, 1990, _The Ontology of Physical Objects: Four-Dimensional Hunks of Matter_, Cambridge: Cambridge University Press.
-* Hempel, C. G., 1953, ‘Reflections on Nelson Goodman's _The Structure of Appearance_’, _Philosophical Review_, 62: 108–116.
-* Hershenov, D. B., 2008, ‘Lowe's Defence of Constitution and the Principle of Weak Extensionality’, _Ratio_, 21: 168–181.
-* Hershenov, D. B. and Koch-Hershenov, R., 2006, ‘Personal Identity and Purgatory’, _Religious Studies_, 42: 439–451.
-* Hestevold, H. S., 1981, ‘Conjoining’, _Philosophy and Phenomenological Research_, 41: 371–383.
-* Hirsch, E., 2005, ‘Physical-Object Ontology, Verbal Disputes, and Common Sense’, _Philosophy and Phenomenological Research_, 70: 67–97.
-* Hodges, W. and Lewis, D. K., 1968, ‘Finitude and Infinitude in the Atomic Calculus of Individuals’, _Noûs_, 2: 405–410.
-* Hoffman, D. D. and Richards, W. A., 1985, ‘Parts of Recognition’, _Cognition_, 18: 65–96.
-* Hoffman, J. and Rosenkrantz, G., 1997, _Substance: Its Nature and Existence_, London: Routledge.
-* –––, 1999, ‘Mereology’, in R. Audi (ed.), _The Cambridge Dictionary of Philosophy_, 2nd Edition, Cambridge: Cambridge University Press, pp. 557–558.
-* Horgan, T., 1993, ‘On What There Isn't’, _Philosophy and Phenomenological Research_, 53: 693–700.
-* Horgan, T. and Potrč, M., 2000, ‘Blobjectivism and Indirect Correspondence’, _Facta Philosophica_, 2: 249–270.
-* Hossack, K., 2000, ‘Plurals and Complexes’, _British Journal for the Philosophy of Science_, 51: 411–443.
-* Hovda, P., 2009, ‘What Is Classical Mereology?’, _Journal of Philosophical Logic_, 38: 55–82.
-* –––, 2013, ‘Tensed Mereology’, _Journal of Philosopical Logic_, 42: 241–283.
-* –––, 2014, ‘Natural Mereology and Classical Mereology’, in C. Calosi and P. Graziani (eds.), _Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context_, Berlin: Springer, pp. 141–159.
-* Hudson, H., 2001, _A Materialist Metaphysics of the Human Person_, Ithaca: Cornell University Press.
-* ––– (ed.), 2004, _Simples_, special issue of _The Monist_, 87: 303–451.
-* –––, 2006a ‘Simple Statues’, _Philo_, 9: 40–46.
-* –––, 2006b ‘Confining Composition’, _Journal of Philosophy_, 103: 631–651.
-* –––, 2007a, ‘Simples and Gunk’, _Philosophy Compass_, 2: 291–302.
-* –––, 2007b, ‘Lesser Kinds Quartet’, _The Monist_, 90: 333–348.
-* –––, 2009, ‘Omnipresence’, in T. P. Flint and M. Rea (eds.), _The Oxford Handbook of Philosophical Theology_, Oxford: Oxford University Press, pp. 199–216.
-* Hughes, C., 1986, ‘Is a Thing Just the Sum of Its Parts?’, _Proceedings of the Aristotelian Society_, 86: 213–233.
-* Husserl, E., 1900/1901, _Logische Untersuchungen. Zweiter Band. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis_, Halle: Niemeyer; 2nd ed. 1913; Eng. trans. by J. N. Findlay: _Logical Investigations, Volume Two_, London: Routledge & Kegan Paul, 1970.
-* Hyde, D., 2008, _Vagueness, Logic and Ontology_, Aldershot: Ashgate.
-* Iris, M. A., Litowitz, B. E. and Evens, M., 1988, ‘Problems of the Part-Whole Relation’, in M. Evens (ed.), _Relations Models of the Lexicon_, Cambridge: Cambridge University Press, pp. 261–288.
-* Jackson, F., 2001, ‘Responses’, _Philosophy and Phenomenological Research_, 62: 653–664.
-* Johansson, I., 2004, ‘On the Transitivity of Parthood Relations’, in H. Hochberg and K. Mulligan (eds.), _Relations and Predicates_, Frankfurt: Ontos/Lancaster, pp. 161–181.
-* –––, 2006, ‘Formal Mereology and Ordinary Language. Reply to Varzi’, _Applied Ontology_, 1: 157–161.
-* –––, 2015, ‘Applied Mereology’, _Metascience_, 24: 239–245.
-* Johnsen, B., 1989, ‘Is Vague Identity Incoherent?’, _Analysis_, 49: 103–112.
-* Johnston, M., 1992, ‘Constitution Is Not Identity’, _Mind_, 101: 89–105.
-* –––, 2002, ‘Parts and Principles. False Axioms in Mereology’, _Philosophical Topics_, 30: 129–166.
-* –––, 2005, ‘Constitution’, in F. Jackson and M. Smith (eds.), _The Oxford Handbook of Contemporary Philosophy_, Oxford: Oxford University Press, pp. 636–675.
-* –––, 2006, ‘Hylomorphism’, _Journal of Philosophy_, 103: 652–698.
-* Jones, N. J., 2012, ‘Mereological Heuristics for Huayan Buddhism’, _Philosophy East and West_, 60: 355–368.
-* Jubien, M., 1993, _Ontology, Modality, and the Fallacy of Reference_, Cambridge: Cambridge University Press.
-* Kazmi, A., 1990, ‘Parthood and Persistence’, _Canadian Journal of Philosophy_ (Supplement), 16: 227–250.
-* Kearns, S., 2011, ‘Can a Thing Be Part of Itself?’, _American Philosophical Quarterly_, 48: 87–93.
-* King, J. C., 2006, ‘Semantics for Monists’, _Mind_, 115: 1023–1058.
-* Kleene, S. C., 1938, ‘On a Notation for Ordinal Numbers’, _Journal of Symbolic Logic_, 3: 150–155.
-* Kleinschmidt, S., 2007, ‘Some Things About Stuff’, _Philosophical Studies_, 135: 407–423.
-* –––, 2011, ‘Multilocation and Mereology’, _Philosophical Perspectives_, 25: 253–276.
-* Korman, D. Z., 2008, ‘Unrestricted Composition and Restricted Quantification’, _Philosophical Studies_, 140: 319–334.
-* –––, 2010, ‘The Argument from Vagueness’, _Philosophy Compass_, 5: 891–901.
-* Koslicki, K., 1999, ‘The Semantics of Mass Predicates’, _Noûs_, 33: 46–91.
-* –––, 2007, ‘Towards a Neo-Aristotelian Mereology’, _Dialectica_, 61: 127–159.
-* –––, 2008, _The Structure of Objects_, Oxford: Oxford University Press.
-* Krause, D., 2011, ‘A Calculus of Non-Individuals (Ideas for a Quantum Mereology)’, in L. H. de A. Dutra and A. M. Luz (eds.), _Linguagem, Ontologia e Ação_, Florianópolis: NEL/UFSC, pp. 92–106.
-* Kriegel, U., 2008, ‘Composition as a Secondary Quality’, _Pacific Philosophical Quarterly_, 89: 359–383.
-* Landman, F., 1991, _Structures for Semantics_, Dordrecht: Kluwer.
-* Laycock, H., 1975, ‘Theories of Matter’, _Synthese_, 31: 411–442.
-* –––, 2011, ‘Any Sum of Parts which Are Water Is Water’, _Humana.Mente_, 19: 41–55.
-* Lejewski, C., 1957, Review of Rescher (1955), _Journal of Symbolic Logic_, 22: 213–214.
-* Leonard, H. S., 1930, _Singular Terms_, Cambridge, MA: Harvard University, Ph.D. Dissertation.
-* Leonard, H. S. and Goodman, N., 1940, ‘The Calculus of Individuals and Its Uses’, _Journal of Symbolic Logic_, 5: 45–55.
-* Leśniewski, S., 1916, _Podstawy ogólnej teoryi mnogości. I_, Moskow: Prace Polskiego Koła Naukowego w Moskwie, Sekcya matematyczno-przyrodnicza; Eng. trans. by D. I. Barnett: ‘Foundations of the General Theory of Sets. I’, in S. Leśniewski, _Collected Works_ (ed. by S. J. Surma _et al._), Dordrecht: Kluwer, 1992, Vol. 1, pp. 129–173.
-* –––, 1927–1931, ‘O podstawach matematyki’, _Przegląd Filozoficzny_, 30: 164–206; 31: 261–291; 32: 60–101; 33: 77–105; 34: 142–170; Eng. trans. by D. I. Barnett: ‘On the Foundations of Mathematics’, in S. Leśniewski, _Collected Works_ (ed. by S. J. Surma _et al._), Dordrecht: Kluwer, 1992, Vol. 1, pp. 174–382.
-* Lewis, D. K., 1971, ‘Counterpart of Persons and Their Bodies’, _Journal of Philosophy_, 68: 203–211.
-* –––, 1986a, ‘Against Structural Universals’, _Australasian Journal of Philosophy_, 64: 25–46.
-* –––, 1986b, _The Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1991, _Parts of Classes_, Oxford: Blackwell.
-* –––, 1993a, ‘Many, but Almost One’, in J. Bacon _et al._ (eds.), _Ontology, Causality, and Mind_, Cambridge: Cambridge University Press, pp. 23–38.
-* –––, 1993b, ‘Mathematics Is Megethology’, _Philosophia Mathematica_, 3: 3–23.
-* Liggins, D., 2008, ‘Nihilism Without Self-Contradiction’, _Philosophy_, 83: 177–196.
-* Link, G., 1983, ‘The Logical Analysis of Plural and Mass Terms: A Lattice-Theoretical Approach’, in R. Bäuerle _et al._ (eds.), _Meaning, Use, and Interpretation of Language_, Berlin: de Gruyter, pp. 303–323.
-* Lowe, E. J., 1989, _Kinds of Being: A Study of Individuation, Identity and the Logic of Sortal terms_, Oxford: Blackwell.
-* –––, 2001, ‘Identity, Composition and the Self’, in K. Corcoran (ed.), _Soul, Body and Survival_, Ithaca (NY): Cornell University Press, pp. 139–158.
-* –––, 2013, ‘Mereological Extensionality, Supplementation, and Material Constitution’, _The Monist_, 96: 131–148.
-* Lowe, V., 1953, ‘Professor Goodman's Concept of an Individual’, _Philosophical Review_, 62: 117–126.
-* Łukasiewicz, J., 1920, ‘O logice trojwartosciowej’, _Ruch Filozoficny_, 5: 169–171; Eng. trans. by S. McCall: ‘On Three-Valued Logic’, in S. McCall (ed.), _Polish Logic 1920–1939_, Oxford: Oxford University Press, 1967, pp. 15–18.
-* Luschei, E. C., 1965, _The Logical Systems of Leśniewski_, Amsterdam: North-Holland.
-* MacBride, F., 1998, ‘Where Are Particulars and Universals?’, _Dialectica_, 52: 203–227.
-* Markosian, N., 1998a, ‘Simples’, _Australasian Journal of Philosophy_, 76: 213–228.
-* –––, 1998b, ‘Brutal Composition’, _Philosophical Studies_, 92: 211–249.
-* –––, 2008, ‘Restricted Composition’, in T. Sider _et al._ (eds.), _Contemporary Debates in Metaphysics_, Oxford: Blackwell, pp. 341–363.
-* Martin, R. M., 1943, ‘A Homogeneous System for Formal Logic’, _Journal of Symbolic Logic_, 8: 1–23.
-* –––, 1965, ‘Of Time and the Null Individual’, _Journal of Philosophy_, 62: 723–736.
-* –––, 1988, _Metaphysical Foundations: Mereology and Metalogic_, Munich: Philosophia.
-* Masolo, C., 2009, ‘Parthood Simpliciter vs. Temporary Parthood’, in G. Lakemeyer _et al._ (eds.), _Commonsense 2009. Proceedings of the Ninth International Symposium on Logical Formalizations of Commonsense Reasoning_, Sydney, UTSePress, pp. 97–102.
-* Masolo, C. and Vieu, L., 1999, ‘Atomicity vs. Infinite Divisibility of Space’, in C. Freksa and D. Mark (eds.), _Spatial Information Theory. Proceedings of COSIT '99_, Berlin: Springer, pp. 235–250.
-* Maudlin, T., 1998, ‘Part and Whole in Quantum Mechanics’, in E. Castellani (ed.), _Interpreting Bodies_, Princeton: Princeton University Press, pp. 46–60.
-* McDaniel, K., 2004, ‘Modal Realism with Overlap’, _Australasian Journal of Philosophy_, 82: 137–152.
-* –––, 2006, ‘Gunky Objects in a Simple World’, _Philo_, 9: 39–46.
-* –––, 2007, ‘Extended Simples’, _Philosophical Studies_, 133: 131–141.
-* –––, 2008, ‘Against Composition as Identity’, _Analysis_, 68: 128–133.
-* –––, 2009, ‘Structure-Making’, _Australasian Journal of Philosophy_, 87: 251–274.
-* –––, 2010, ‘Composition as Identity Does Not Entail Universalism’, _Erkenntnis_, 73: 97–100.
-* McGee, V., 1997, ‘“Kilimanjaro”’, _Canadian Journal of Philosophy_ (Supplement), 23: 141–195.
-* McGrath, M., 1998, ‘Van Inwagen's Critique of Universalism’, _Analysis_, 58: 116–121.
-* –––, 2001, ‘Rea on Universalism’, _Analysis_, 61: 69–76.
-* –––, 2008, ‘Conciliatory Metaontology and the Vindication of Common Sense’, _Noûs_, 42: 482–508.
-* McKinnon, N., 2003, ‘Vague Simples’, _Pacific Philosophical Quarterly_, 84: 394–397.
-* Meirav, A., 2003, _Wholes, Sums and Unities_, Dordrecht: Kluwer.
-* Meixner, U., 1997, _Axiomatic Formal Ontology_, Dordrecht: Kluwer.
-* Mellor, D. H., 2006, ‘Wholes and Parts: The Limits of Composition’, _South African Journal of Philosophy_, 25: 138–145.
-* Merricks, T., 1999, ‘Composition as Identity, Mereological Essentialism, and Counterpart Theory’, _Australasian Journal of Philosophy_, 77: 192–195.
-* –––, 2000, ‘“No Statues”’, _Australasian Journal of Philosophy_, 78: 47–52.
-* –––, 2001, _Objects and Persons_, Oxford: Oxford University Press.
-* –––, 2005, ‘Composition and Vagueness’, _Mind_, 114: 615–637.
-* Mesarović, M. D., Macko, D. and Takahara, Y., 1970, _Theory of Hierarchical, Multilevel, Systems_, New York: Academic Press.
-* Meyers, J., 2014, ‘What is Nominalistic Mereology?’, _Journal of Philosophical Logic_, 43: 71–108.
-* Miéville, D., 1984, _Un développement des systèmes logiques de Stanisław Leśniewski. Protothétique - Ontologie - Méréologie_, Berne: Lang.
-* Moltmann, F., 1997, _Parts and Wholes in Semantics_, Oxford: Oxford University Press.
-* Morganti, M., 2009, ‘Ontological Priority, Fundamentality and Monism’, _Dialectica_, 63: 271–288.
-* Mormann, T., 1999, ‘Neither Mereology Nor Whiteheadian Account of Space Yet Convicted’, _Analysis_, 59: 174–182.
-* –––, 2000, ‘Topological Representations of Mereological Systems’, _Poznan Studies in the Philosophy of the Sciences and the Humanities_, 76: 463–486.
-* –––, 2010, ‘Structural Universals as Structural Parts: Toward a General Theory of Parthood and Composition’, _Axiomathes_, 20: 209–227.
-* –––, 2014, ‘Set Theory, Topology, and the Possibility of Junky Worlds’, _Notre Dame Journal of Formal Logic_, 55: 79–90.
-* Morreau, M., 2002, ‘What Vague Objects Are Like’, _Journal of Philosophy_, 99: 333–361.
-* Mostowski, A. and Tarski, A., 1939, ‘Boolesche Ringe mit geordneter Basis’, _Fundamenta Mathematicae_, 32: 69–86; Eng. trans. by M. J. Maczynski: ‘Boolean Rings with an Ordered Basis’, in A. Mostowski, _Foundational Studies. Selected Works_ (ed. by K. Kuratowski _et al._), Vol. 2, Amsterdam: North-Holland, 1979, pp. 75–91.
-* Myro, G., 1985, ‘Identity and Time’, in R. E. Grandy (ed.), _The Philosophical Grounds of Rationality: Intentions, Categories, and Ends_, Oxford: Clarendon Press, pp. 383–409.
-* Needham, P., 1981, ‘Temporal Intervals and Temporal Order’, _Logique et Analyse_, 24: 49–64.
-* –––, 2007, ‘Macroscopic Mixtures’, _Journal of Philosophy_, 104: 26–52.
-* Nicod, J., 1924, _La géométrie dans le monde sensible_, Paris: Alcan; Eng. trans. by J. Bell and M. Woods: ‘Geometry in the Sensible World’, in _Geometry and Induction_, Berkeley: University of California Press, 1970.
-* Niebergall, K.-G., 2009a, ‘On 2nd Order Calculi of Individuals’, _Theoria_, 65: 169–202.
-* –––, 2009b, ‘Calculi of Individuals and Some Extensions: An Overview’, in A. Hieke and H. Leitgeb (eds.), _Reduction, Abstraction, Analysis. Proceedings of the 31th International Wittgenstein Symposium_, Frankfurt: Ontos, pp. 335–354.
-* –––, 2011, ‘Mereology’, in R. Pettigrew and L. Horsten (eds.), _The Continuum Companion to Philosophical Logic_, London: Continuum, pp. 271–298.
-* Nolan, D., 2004, ‘Classes, Worlds, and Hypergunk’, _The Monist_, 87: 303–321.
-* –––, 2005, _David Lewis_, Chesham: Acumen.
-* –––, 2006, ‘Vagueness, Multiplicity and Parts’, _Noûs_, 40: 716–737.
-* Noonan, H., 1993, ‘Constitution Is Identity’, _Mind_, 102: 133–146.
-* Null, G., 1983, ‘A First-Order Axiom System for Non-Universal Part-Whole and Foundational Relations’, in L. Embree (ed.), _Essays in Memory of Aron Gurwitsch_, Lanham (MD): University Press of America, pp. 463–484.
-* Obojska, L., 2013, ‘Some Remarks on Supplementation Principles in the Absence of Antisymmetry’, _Review of Symbolic Logic_, 6: 343–347.
-* Oderberg, D. S., 2005, ‘Hylemorphic Dualism’, in E. F. Paul _et al._ (eds.), _Personal Identity_, Cambridge: Cambridge University Press, pp. 70–99.
-* –––, 2012, ‘Survivalism, Corruptionism, and Mereology’, _European Journal for Philosophy of Religion_, 4: 1–26.
-* Olson, E. T., 2006, ‘Temporal Parts and Timeless Parthood’, _Noûs_, 40: 738–752.
-* Oppenheim, P. and Putnam, H., 1958, ‘Unity of Science as a Working Hypothesis’, _Minnesota Studies in the Philosophy of Science_, 2: 3–36.
-* Oppy, G., 1997, ‘Countable Fusion Not Yet Proven Guilty: It May Be the Whiteheadian Account of Space Whatdunnit’, _Analysis_, 57: 249–253.
-* Palmer, S. E., 1977, ‘Hierarchical Structure in Perceptual Representation’, _Cognitive Psychology_, 9: 441–474.
-* Parsons, J., 2004, ‘Dion, Theon, and DAUP’, _Pacific Philosophical Quarterly_, 85: 85–91.
-* –––, 2007, ‘Theories of Location’, _Oxford Studies in Metaphysics_, 3: 201–232.
-* –––, 2014, ‘The Many Primitives of Mereology’, in S. Kleinschmidt (ed.), _Mereology and Location_, Oxford: Oxford University Press, pp. 3–12.
-* Parsons, T., 2000, _Indeterminate Identity. Metaphysics and Semantics_, Oxford: Clarendon Press.
-* Pickel, B., 2010, ‘There Is No ‘Is' of Constitution’, _Philosophical Studies_, 147: 193–211.
-* Pietruszczak, A., 2000, ‘Kawałki mereologii’, in J. Perzanowski and A. Pietruszczak (eds.), _Logika & Filozoﬁa Logiczna. FLFL 1996–1998_, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika, pp. 357–374; revised Eng. trans.: ‘Pieces of Mereology’, _Logic and Logical Philosophy_, 14 (2005): 211–234.
-* –––, 2014, ‘A General Concept of Being a Part of a Whole’, _Notre Dame Journal of Formal Logic_, 55: 359–381.
-* Plantinga, A., 1975, ‘On Mereological Essentialism’, _Review of Metaphysics_, 28: 468–476.
-* Polkowski, L. and Skowron, A., 1994, ‘Rough Mereology’, in Z. W. Ras and M. Zemankova (eds.), _Proceedings of the 8th International Symposium on Methodologies for Intelligent Systems (ISMIS 94)_, Berlin: Springer, pp. 85–94.
-* Pontow, C., 2004, ‘A Note on the Axiomatics of Theories in Parthood’, _Data & Knowledge Engineering_, 50: 195–213.
-* Pontow, C. and Schubert, R., 2006, ‘A Mathematical Analysis of Theories of Parthood’, _Data & Knowledge Engineering_, 59: 107–138.
-* Pribbenow, S., 2002, ‘Meronymic Relationships: From Classical Mereology to Complex Part-Whole Relations’, in R. Green _et al_. (eds.), _The Semantics of Relationships. An Interdisciplinary Perspective_, Dordrecht, Kluwer, pp. 35–50.
-* Priest, G., 2014a, ‘Much Ado about Nothing’, _Australasian Journal of Logic_, 11: 146–158.
-* –––, 2014b, _One. Being an Investigation into the Unity of Reality and of Its Parts, Including the Singular Object which is Nothingness_, Oxford: Oxford University Press.
-* Putnam, H., 1987, _The Many Faces of Realism_, La Salle (IL): Open Court.
-* Quine, W. V. O., 1939, ‘Designation and Existence’, _Journal of Philosophy_, 36: 701–709.
-* –––, 1970, _Philosophy of Logic_, Englewood Cliffs (NJ):Prentice-Hall (2nd ed. Cambridge (MA): Harvard University Press, 1986).
-* –––, 1981, ‘Things and Their Place in Theories’, in his _Theories and Things_, Cambridge (MA): Harvard University Press, pp. 1–23.
-* Quinton, A., 1976, ‘Social Objects’, _Proceedings of the Aristotelian Society_, 76: 1–27.
-* Randell, D. A., Cui, Z. and Cohn, A. G., 1992, ‘A Spatial Logic Based on Regions and Connection’, in B. Nebel _et al._ (eds.), _Principles of Knowledge Representation and Reasoning. Proceedings of the Third International Conference_, Los Altos (CA): Morgan Kaufmann, pp. 165–176.
-* Rea, M., 1995, ‘The Problem of Material Constitution’, _Philosophical Review_, 104: 525–552.
-* –––, 1998, ‘In Defense of Mereological Universalism’, _Philosophy and Phenomenological Research_, 58: 347–360.
-* –––, 1999, ‘McGrath on Universalism’, _Analysis_, 59: 201–204.
-* –––, 2001, ‘How to Be an Eleatic Monist’, _Philosophical Perspectives_, 15: 129–151.
-* Rescher, N., 1955, ‘Axioms for the Part Relation’, _Philosophical Studies_, 6: 8–11.
-* Rescher, N. and Oppenheim, P. 1955, ‘Logical Analysis of Gestalt Concepts’, _British Journal for the Philosophy of Science_, 6: 89–106.
-* Ritchie, K., 2013, ‘What Are Groups?’, _Philosophical Studies_, 166: 257–272.
-* Robinson, D., 1982, ‘Reidentifying Matter’, _Philosophical Review_, 91: 317–342.
-* Roeper, P., 1997, ‘Region-Based Topology’, _Journal of Philosophical Logic_, 26: 251–309.
-* Rosen, G. and Dorr, C., 2002, ‘Composition as a Fiction’, in R. Gale (ed.), _The Blackwell Guide to Metaphysics_, Oxford: Blackwell, pp. 151–174.
-* Rossberg, M., 2009, ‘Leonard, Goodman, and the Development of the _Calculus of Individuals_’, in G. Ernst _et al._ (eds.), _From Logic to Art: Themes from Nelson Goodman_, Frankfurt: Ontos, pp. 51–69.
-* Ruben, D.-H., 1983, ‘Social Wholes and Parts’, _Mind_, 92: 219–238.
-* Russell, B., 1903, _Principles of Mathematics_, New York: Norton.
-* –––, 1923, ‘Vagueness’, _Australasian Journal of Psychology and Philosophy_, 1: 84–92.
-* Russell, J. T., 2008, ‘The Structure of Gunk: Adventures in the Ontology of Space’, _Oxford Studies in Metaphysics_, 4: 248–274.
-* Sainsbury, R. M., 1989, ‘What Is a Vague Object’, _Analysis_, 49: 99–103.
-* Sanford, D., 1993, ‘The Problem of the Many, Many Composition Questions, and Naive Mereology’, _Noûs_, 27: 219–228.
-* –––, 2003, ‘Fusion Confusion’, _Analysis_, 63: 1–4.
-* Sattig, T., 2013, ‘Vague Objects and the Problem of the Many’, _Metaphysica_, 14: 211–223.
-* –––, 2014, ‘Mereological Indeterminacy: Metaphysical but Not Fundamental’, in K. Akiba and A. Abasnezhad (eds.), _Vague Objects and Vague Identity. New Essays on Ontic Vagueness_, Berlin: Springer, pp. 25–42.
-* Saucedo, R., 2011, ‘Parthood and Location’, _Oxford Studies in Metaphysics_, 6: 223–284.
-* Scala, M., 2002, ‘Homogeneous Simples’, _Philosophy and Phenomenological Research_, 64: 393–397.
-* Schaffer, J., 2003, ‘Is There a Fundamental Level?, _Noûs_, 37: 498–517.
-* –––, 2007, ‘From Nihilism to Monism’, _Australasian Journal of Philosophy_, 85: 175–191.
-* –––, 2009, ‘Spacetime the One Substance’, _Philosophical Studies_, 145: 131–148.
-* –––, 2010, ‘Monism: The Priority of the Whole’, _Philosophical Review_, 119: 31–76.
-* Schmitt, F. F., 2003, ‘Socializing Metaphysics: An Introduction’, in F. F. Schmitt (ed.), _Socializing Metaphysics: The Nature of Social Reality_, Lanham (MD): Rowman & Littlefield, pp. 1–37.
-* Schuldenfrei, R., 1969, ‘Eberle on Nominalism in Non-Atomic Systems’, _Noûs_, 3: 427–430.
-* Sedley, D., 1982, ‘The Stoic Criterion of Identity’, _Phronesis_, 27: 255–275.
-* Segal, A., 2014, ‘Causal Essentialism and Mereological Monism’, _Philosophical Studies_, 169: 227–255.
-* Sharvy, R., 1980, ‘A More General Theory of Definite Descriptions’, _Philosophical Review_, 89: 607–624.
-* –––, 1983, ‘Mixtures’, _Philosophy and Phenomenological Research_, 44: 227–239.
-* Sheehy, P., 2006, ‘Sharing Space. The Synchronic Identity of Social Groups’, _Philosophy of the Social Sciences_, 36: 131–148.
-* Shiver, A., 2015, ‘How Do You Say “Everything Is Ultimately Composed of Atoms”?’, _Philosophical Studies_, 172: 607–614.
-* Sider, T., 1993, ‘Van Inwagen and the Possibility of Gunk’, _Analysis_, 53: 285–289.
-* –––, 2001, _Four-Dimensionalism. An Ontology of Persistence and Time_, New York: Oxford University Press.
-* –––, 2007, ‘Parthood’, _Philosophical Review_, 116: 51–91.
-* –––, 2013, ‘Against Parthood’, _Oxford Studies in Metaphysics_, 8: 237–293
-* Silva, P. Jr., 2013, ‘Ordinary Objects and Series-Style Answers to the Special Composition Question’, _Pacific Philosophical Quarterly_, 94: 69–88
-* Simons, P. M., 1980, ‘Individuals, Groups and Manifolds’, in R. Haller and W. Grassl (eds.), _Logic, Language and Philosophy_, Vienna: Hölder-Pichler-Tempsky, pp. 483–486.
-* –––, 1982, ‘The Formalization of Husserl's Theory of Parts and Wholes’, in B. Smith (ed.), _Parts and Moments. Studies in Logic and Formal Ontology_, Munich: Philosophia, pp. 481–552.
-* –––, 1987, _Parts. A Study in Ontology_, Oxford: Clarendon Press.
-* –––, 1991a, ‘Free Part-Whole Theory’, in K. Lambert (ed.), _Philosophical Applications of Free Logic_, Oxford: Oxford University Press, pp. 285–306.
-* –––, 1991b, ‘Whitehead und die Mereologie’, in M. Hampe and H. Maaßen (eds.), _Die Gifford Lectures und ihre Deutung. Materialien zu Whiteheads Prozess and Realität_, vol. 2, Frankfurt: Suhrkamp, pp. 369–388; revised Eng. trans.: ‘Whitehead and Mereology’, in G. Durand and M. Weber (eds.), _Les principes de la connaissance naturelle d’Alfred North Whitehead_, Frankfurt: Ontos, 2007, pp. 215–233.
-* –––, 1997, ‘Bolzano on Collections’, _Grazer philosophische Studien_, 53: 87–108.
-* –––, 2003, ‘The Universe’, _Ratio_, 16: 237–250.
-* –––, 2004, ‘Extended Simples: A Third Way between Atoms and Gunk’, _The Monist_, 87: 371–384.
-* –––, 2006, ‘Real Wholes, Real Parts: Mereology without Algebra’, _Journal of Philosophy_, 103: 597–613.
-* –––, 2013, ‘Varieties of Parthood: Ontology Learns from Engineering’, in D. P. Michelfelder _et al._ (eds.), _Philosophy and Engineering: Reflections on Practice, Principles and Process_, Berlin, Springer, pp. 151–163.
-* Simons, P. M. and Dement, C. W., 1996, ‘Aspects of the Mereology of Artifacts’, in R. Poli and P. M. Simons (eds.), _Formal Ontology_, Dordrecht: Kluwer, pp. 255–276.
-* Smid, J., 2015, ‘The Ontological Parsimony of Mereology’, _Philosophical Studies_, 172: 3253–3271.
-* Smith, B. and Mulligan, K., 1982, ‘Pieces of a Theory’, in B. Smith (ed.), _Parts and Moments. Studies in Logic and Formal Ontology_, Munich: Philosophia, pp. 15–109.
-* Smith, D., 2006, ‘The Vagueness Argument for Mereological Universalism’, _Pacific Philosophical Quarterly_, 87: 357–368.
-* –––, 2009, ‘Mereology without Weak Supplementation’, _Australasian Journal of Philosophy_, 87: 505–511.
-* Smith, N. J. J., 2005, ‘A Plea for Things That Are Not Quite All There’, _Journal of Philosophy_, 102: 381–421.
-* Sobociński, B., 1971, ‘Atomistic Mereology’, _Notre Dame Journal of Formal Logic_, 12: 89–103 and 203–213.
-* Sokolowski, R., 1968, ‘The Logic of Parts and Wholes in Husserl's _Investigations_’, _Philosophy and Phenomenological Research_, 28: 537–553.
-* Spencer, J., 2010, ‘A Tale of Two Simples’, _Philosophical Studies_, 148: 167–181.
-* –––, 2012 ‘All Things Must Pass Away’, _Oxford Studies in Metaphysics_, 7: 67–92.
-* Stump, E., 2006, ‘Resurrection, Reassembly, and Reconstitution: Aquinas on the Soul’, in B. Niederbacher and E. Runggaldier (eds.), _Die Menschliche Seele: Brauchen wir den Dualismus?_, Frankfurt: Ontos, pp. 151–171.
-* Sukumar, N., 2013, ‘The Atom in a Molecule as a Mereological Construct in Chemistry’, _Foundations of Chemistry_, 15: 303–309.
-* Tallant, J., 2013, ‘Problems of Parthood for Proponents of Priority’, _Analysis_, 73: 429–438.
-* Tanksley, C., 2010, ‘The Mereological Constancy of Masses’, _Philosophical Quarterly_ , 60: 343–354.
-* Tarski, A., 1929, ‘Les fondements de la géométrie des corps’, _Ksiega Pamiatkowa Pierwszkego Polskiego Zjazdu Matematycznego_, suppl. to _Annales de la Société Polonaise de Mathématique_, 7: 29–33; Eng. trans. by J. H. Woodger: ‘Foundations of the Geometry of Solids’, in A. Tarski, _Logics, Semantics, Metamathematics. Papers from 1923 to 1938_, Oxford: Clarendon Press, 1956, pp. 24–29.
-* –––, 1935, ‘Zur Grundlegung der Booleschen Algebra. I’, _Fundamenta Mathematicae_, 24: 177–198; Eng. trans. by J. H. Woodger: ‘On the Foundations of the Boolean Algebra’, in A. Tarski, _Logics, Semantics, Metamathematics, Papers from 1923 to 1938_, Oxford: Clarendon Press, 1956, pp. 320–341.
-* –––, 1937, ‘Appendix E’, in J. E. Woodger, _The Axiomatic Method in Biology_, Cambridge: Cambridge University Press, 161–172.
-* Thomson, J. J., 1977, _Acts and Other Events_, Ithaca (NY): Cornell University Press.
-* –––, 1983, ‘Parthood and Identity Across Time’, _Journal of Philosophy_, 80: 201–220.
-* –––, 1998, ‘The Statue and the Clay’, _Noûs_, 32: 149–173.
-* Tillman, C. and Fowler, G., 2012, ‘Propositions and Parthood: The Universe and Antisymmetry’, _Australasian Journal of Philosophy_, 90: 525–539.
-* Tognazzini, N. A., 2006, ‘Simples and the Possibility of Discrete Space’, _Australasian Journal of Philosophy_, 84: 117–128.
-* Toner, P., 2009, ‘On Hylemorphism and Personal Identity’, _European Journal of Philosophy_, 19: 454–473.
-* –––, 2012, ‘On Aristotelianism and Structures as Parts’, _Ratio_, 26: 148–161.
-* Tsai, H., 2009, ‘Decidability of Mereological Theories’, _Logic and Logical Philosophy_, 18: 45–63.
-* –––, 2011, ‘More on the Decidability of Mereological Theories’, _Logic and Logical Philosophy_, 20: 251–265.
-* –––, 2013a, ‘Decidability of General Extensional Mereology’, _Studia Logica_, 101: 619–636.
-* –––, 2013b, ‘A Comprehensive Picture of the Decidability of Mereological Theories’, _Studia Logica_, 101: 987–1012.
-* Tversky, B., 1989, ‘Parts, Partonomies, and Taxonomies’, _Developmental Psychology_, 25: 983–995.
-* –––, 2005, ‘On Exploring Parts and Wholes’, in J. S. Gero and M. L. Maher (eds.), _Computational and Cognitive Models of Creative Design VI. Preprints of the International Conference_, Sydney: Key Centre of Design Computing and Cognition, pp. 3–16.
-* Tye, M., 1990, ‘Vague Objects’, _Mind_, 99: 535–557.
-* –––, 2000, ‘Vagueness and Reality’, _Philosopical Topics_, 28: 195–209.
-* Unger, P., 1980, ‘The Problem of the Many’, _Midwest Studies in Philosophy_, 5: 411–467.
-* Urbaniak, R., 2013, _Leśniewski's Systems of Logic and Foundations of Mathematics_, Berlin: Springer.
-* Uzquiano, G., 2004, ‘The Supreme Court and the Supreme Court Justices: A Metaphysical Puzzle’, _Noûs_, 38: 135–153.
-* –––, 2006, ‘The Price of Universality’, _Philosophical Studies_, 129: 137–169.
-* –––, 2011, ‘Mereological Harmony’, _Oxford Studies in Metaphysics_, 6: 199–224.
-* van Benthem, J., 1983, _The Logic of Time_, Dordrecht: Reidel. (2nd ed. 1991).
-* Van Cleve, J., 1986, ‘Mereological Essentialism, Mereological Conjunctivism, and Identity Through Time’, _Midwest Studies in Philosophy_, 11: 141–156.
-* –––, 2008, ‘The Moon and Sixpence: A Defense of Mereological Universalism’, in T. Sider _et al._ (eds.), _Contemporary Debates in Metaphysics_, Oxford: Blackwell, pp. 321–340.
-* van Inwagen, P., 1981, ‘The Doctrine of Arbitrary Undetached Parts’, _Pacific Philosophical Quarterly_, 62: 123–137.
-* –––, 1987, ‘When Are Objects Parts?’, _Philosophical Perspectives_, 1: 21–47.
-* –––, 1990, _Material Beings_, Ithaca (NY): Cornell University Press.
-* –––, 1993, ‘Naive Mereology, Admissible Valuations, and Other Matters’, _Noûs_, 27: 229–234.
-* –––, 1994, ‘Composition as Identity’, in J. E. Tomberlin (ed.), _Philosophical Perspectives, 8: Logic and Language_, Ridgeview: Atascadero, pp. 207–220.
-* Vander Laan, D., 2010, ‘A Relevance Constraint on Composition’, _Australasian Journal of Philosophy_, 88: 135–145.
-* Varzi, A. C., 1996, ‘Parts, Wholes, and Part-Whole Relations: The Prospects of Mereotopology’, _Data and Knowledge Engineering_, 20: 259–286.
-* –––, 2000, ‘Mereological Commitments’, _Dialectica_, 54: 283–305.
-* –––, 2001, ‘Vagueness in Geography’, _Philosophy and Geography_, 4: 49–65.
-* –––, 2006a, ‘A Note on the Transitivity of Parthood’, _Applied Ontology_, 1: 141–146.
-* –––, 2006b, ‘The Universe Among Other Things’, _Ratio_, 19: 107–120.
-* –––, 2007, ‘Spatial Reasoning and Ontology: Parts, Wholes, and Locations’, in M. Aiello _et al._ (eds.), _Handbook of Spatial Logics_, Berlin: Springer, pp. 945–1038.
-* –––, 2008, ‘The Extensionality of Parthood and Composition’, _The Philosophical Quarterly_, 58: 108–133.
-* –––, 2009, ‘Universalism Entails Extensionalism’, _Analysis_, 69: 599–604.
-* –––, 2010, ‘On the Boundary between Material and Formal Ontology’, in B. Smith _et al._ (eds.), _Interdisciplinary Ontology, Vol. 3: Proceedings of the Third Interdisciplinary Ontology Meeting_, Tokyo: Keio University, pp. 3–8.
+* Crane, J. K., 2012, ‘Biological-Mereological Coincidence’, *Philosophical Studies*, 161: 309–325.
+* Cowling, S., 2014, ‘No Simples, No Gunk, No Nothing’, *Pacific Philosophical Quarterly*, 95: 246–260.
+* Cruse, D. A., 1979, ‘On the Transitivity of the Part-Whole Relation’, *Journal of Linguistics*, 15: 29–38.
+* Daniels, P. R., 2014, ‘Occupy Wall: A Mereological Puzzle and the Burdens of Endurantism’, *Australasian Journal of Philosophy*, 92: 91–101.
+* Day, G. W., 1960, *Super-atomic Boolean Algebras*, West Lafayette, IN: Purdue University, Ph.D. dissertation.
+* –––, 1967, ‘Superatomic Boolean Algebras’, *Pacific Journal of Mathematics*, 23: 479–489.
+* Doepke, F. C., 1982, ‘Spatially Coinciding Objects’, *Ratio*, 24: 45–60.
+* Donnelly, M., 2009, ‘Mereological Vagueness and Existential Vagueness’, *Synthese*, 168: 53–79.
+* –––, 2010, ‘Parthood and Multi-location’, *Oxford Studies in Metaphysics*, 5: 203–243.
+* –––, 2011, ‘Using Mereological Principles to Support Metaphysics’, *Philosophical Quarterly*, 61: 225–246.
+* –––, 2014, ‘A Linguistic Account of Mereological Vagueness’, in K. Akiba and A. Abasnezhad (eds.), *Vague Objects and Vague Identity. New Essays on Ontic Vagueness*, Berlin: Springer, pp. 43–65.
+* Donnelly, M. and Bittner, T., 2008, ‘Summation Relations and Portions of Stuff’, *Philosophical Studies*, 143: 167–185.
+* Dorr, C., 2005, ‘What We Disagree about When We Disagree about Ontology’, in M. Kalderon (ed.), *Fictionalist Approaches to Metaphysics*, Oxford: Oxford University Press, pp. 234–286.
+* Dummett, M., 1975, ‘Wang's Paradox’, *Synthese*, 30: 265–300.
+* –––, 1981, *The Interpretation of Frege's Philosophy*, London: Duckworth.
+* Eagle, A., 2010, ‘Location and Perdurance’, *Oxford Studies in Metaphysics*, 5: 53–94.
+* Eberle, R. A., 1967, ‘Some Complete Calculi of Individuals’, *Notre Dame Journal of Formal Logic*, 8: 267–278.
+* –––, 1968, ‘Yoes on Non-Atomic Systems of Individuals’, *Noûs*, 2: 399–403.
+* –––, 1970, *Nominalistic Systems*, Dordrecht: Reidel.
+* Effingham, N., 2009, ‘Universalism, Vagueness and Supersubstantivalism’, *Australasian Journal of Philosophy*, 87: 35–42.
+* –––, 2010a, ‘Mereological Explanation and Time Travel’, *Australasian Journal of Philosophy*, 88: 333–345.
+* –––, 2010b, ‘The Metaphysics of Groups’, *Philosophical Studies*, 149: 251–267.
+* –––, 2011a, ‘Undermining Motivations for Universalism’, *Noûs*, 45: 696–713.
+* –––, 2011b, ‘Universalism and Classes’, *Dialectica*, 65: 451–472.
+* –––, 2011c, ‘Sider, Hawley, Sider and the Vagueness Argument’, *Philosophical Studies*, 154: 241–250
+* Effingham, N. and Robson, J., 2007, ‘A Mereological Challenge to Endurantism’, *Australasian Journal of Philosophy*, 85: 633–640.
+* Efird, D. and Stoneham, T., 2005, ‘Genuine Modal Realism and the Empty World’, *European Journal of Analytic Philosophy*, 1: 21–36.
+* Eklund, M., 2002, ‘Peter van Inwagen on Material Beings’, *Ratio*, 15: 245–256.
+* Elder, C., 2008, ‘Against Universal Mereological Composition’, *Dialectica*, 62: 433–454.
+* Engel, R. and Yoes, M. G., 1996, ‘Exponentiating Entities by Necessity’, *Australasian Journal of Philosophy*, 74: 293–304.
+* Eschenbach, C. and Heydrich, W., 1995, ‘Classical Mereology and Restricted Domains’, *International Journal of Human-Computer Studies*, 43: 723–740.
+* Evans, G., 1978, ‘Can There Be Vague Objects?’, *Analysis*, 38: 208.
+* Evnine, S., 2011, ‘Constitution and Composition: Three Approaches to Their Relation’, *ProtoSociology*, 27: 212–235.
+* Fine, K., 1975, ‘Vagueness, Truth and Logic’, *Synthese*, 30: 265–300.
+* –––, 1982, ‘Acts, Events, and Things’, in W. Leinfellner *et al.* (eds.), *Language and Ontology. Proceedings of the 6th International Wittgenstein Symposium*, Vienna: Hölder-Pichler-Tempsky, pp. 97–105.
+* –––, 1994, ‘Compounds and Aggregates’, *Noûs*, 28: 137–158.
+* –––, 1995a, ‘The Problem of Mixture’, *Pacific Philosophical Quarterly*, 76: 266–369.
+* –––, 1995b, ‘Part-Whole’, in B. Smith and D. W. Smith (eds.), *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press, pp. 463–485.
+* –––, 1999, ‘Things and Their Parts’, *Midwest Studies in Philosophy*, 23: 61–74.
+* –––, 2003, ‘The Non-identity of a Material Thing and Its Matter’, *Mind*, 112: 195–234.
+* –––, 2010, ‘Towards a Theory of Part’, *Journal of Philosophy*, 107: 559–589.
+* Fiorini, S. R., Gärdenfors, P. and Abel, M., 2014, ‘Representing Part-Whole Relations in Conceptual Spaces’, *Cognitive Processing*, 15: 127–142.
+* Fisher, A. R. J., 2013, ‘Bennett on Parts Twice Over’, *Philosophia*, 41: 757–761.
+* Forrest, P., 1996a, ‘From Ontology to Topology in the Theory of Regions’, *The Monist*, 79: 34–50.
+* –––, 1996b, ‘How Innocent Is Mereology?’, *Analysis*, 56: 127–131.
+* –––, 2002, ‘Nonclassical Mereology and Its Application to Sets’, *Notre Dame Journal of Formal Logic*, 43: 79–94.
+* –––, 2013, ‘Exemplification and Parthood’, *Axiomathes*, 23: 323–341.
+* –––, forthcoming, ‘The Mereology of Structural Universals’, *Logic and Logical Philosophy*, [published online 2015](http://apcz.pl/czasopisma/index.php/LLP/article/download/LLP.2015.012/5401), doi:10.12775/LLP.2015.012
+* Frege, G., 1976, *Wissenschaftlicher Briefwechsel* (ed. by G. Gabriel *et al.*), Hamburg: Meiner; cited from the Eng. trans. by H. Kaal, *Philosophical and Mathematical Correspondence*, Oxford: Blackwell, 1980.
+* Gallois, A., 1998, *Occasions of Identity. The Metaphysics of Persistence, Change, and Sameness*, Oxford: Clarendon Press.
+* Garbacz, P., 2007, ‘A First-Order Theory of Functional Parthood’, *Journal of Philosophical Logic*, 36: 309–337.
+* Geach, P. T., 1949, ‘On Rigour in Semantics’, *Mind*, 58: 518–522.
+* –––, 1980, *Reference and Generality*, 3rd edition, Ithaca: Cornell University Press.
+* Gerstl, P. and Pribbenow, S., 1995, ‘Midwinters, End Games, and Bodyparts. A Classification of Part-Whole Relations’, *International Journal of Human-Computer Studies*, 43: 865–889.
+* Gessler, N., 2005, *Introduction à l'oeuvre de S. Leśniewski, Fascicule III: La méréologie*, Neuchâtel: Centre de Recherches Sémiologiques.
+* Giaretta, P. and Spolaore, G., 2011, ‘A Mereology for the Change of Parts’, in M. Trobok *et al.* (eds.), *Between Logic and Reality: Modeling Inference, Action and Understanding*, Berlin: Springer, pp. 243–259.
+* Gibbard, A., 1975, ‘Contingent Identity’, *Journal of Philosophical Logic*, 4: 187–221.
+* Giberman, D., 2015, ‘Junky Non-Worlds’, *Erkenntnis*, 80: 437–443.
+* Gilbert, M., 1989, *On Social Reality*, Princeton (NJ): Princeton University Press.
+* Gilmore, C., 2007, ‘Time Travel, Coinciding Objects, and Persistence’, *Oxford Studies in Metaphysics*, 3: 177–198.
+* –––, 2009, ‘Why Parthood Might Be a Four-Place Relation, and How It Behaves If It Is’, in L. Honnefelder *et al.* (eds.), *Unity and Time in Metaphysics*, Berlin: de Gruyter, pp. 83–133.
+* –––, 2014, ‘Parts of Propositions’, in S. Kleinschmidt (ed.), *Mereology and Location*, Oxford: Oxford University Press, pp. 156–208.
+* –––, 2016, ‘Quasi-Supplementation, Plenitudinous Coincidentalism, and Gunk’, in R. Garcia (ed.), *Substance: New Essays*, Munich: Philosophia (forthcoming).
+* Giraud, T., 2013, ‘An Abstract Mereology for Meinongian Objects’, *Humana.Mente*, 25: 177–210.
+* Goodman, N., 1951, *The Structure of Appearance*, Cambridge (MA): Harvard University Press (3rd ed. Dordrecht: Reidel, 1977).
+* –––, 1956, ‘A World of Individuals’, in J. M. Bochenski, A. Church, and N. Goodman, *The Problem of Universals. A Symposium*, Notre Dame: University of Notre Dame Press, pp. 13–31.
+* –––, 1958, ‘On Relations that Generate’, *Philosophical Studies*, 9: 65–66.
+* Grandy, R., 1975, ‘Stuff and Things’, *Synthese*, 31: 479–485.
+* Grupp, J., 2006, ‘Mereological Nihilism: Quantum Atomism and the Impossibility of Material Constitution’, *Axiomathes*, 16: 245–386.
+* Gruszczyński, R., 2013, ‘Mereological Fusion as an Upper Bound’, *Bulletin of the Section of Logic*, 42: 135–150.
+* Gruszczyński, R. and Pietruszczak, A., 2009, ‘Space, Points and Mereology. On Foundations of Point-free Euclidean Geometry’, *Logic and Logical Philosophy*, 18: 145–188.
+* –––, 2010, ‘How To Define A Mereological (Collective) Set’, *Logic and Logical Philosophy*, 19: 309–328.
+* –––, 2014, ‘The Relations of *Supremum* and *Mereological Sum* in Partially Ordered Sets’, in C. Calosi and P. Graziani (eds.), *Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context*, Berlin: Springer, pp. 123–140.
+* Grzegorczyk , A., 1955, ‘The Systems of Leśniewski in Relation to Contemporary Logical Research’, *Studia Logica*, 3: 77–97.
+* Hamkins, J. D. and Kikuchi, M., forthcoming, ‘Set-Theoretic Mereology’, *Logic and Logical Philosophy*.
+* Harré, R. and Llored, J.-P., 2011, ‘Mereologies as the Grammars of Chemical Discourses’, *Foundations of Chemistry*, 13: 63–76.
+* Haslanger, S., 1994, ‘Parts, Compounds, and Substantial Unity’, in T. Scaltsas *et al.* (eds.), *Unity and Identity of Aristotelian Substances*, Oxford: Oxford University Press, pp. 129–170.
+* Haslanger, S. and Kurtz, R. M. (eds.), 2006, *Persistence: Contemporary Readings*, Cambridge (MA): MIT Press.
+* Hawley, K., 2006, ‘Principles of Composition and Criteria of Identity’, *Australasian Journal of Philosophy*, 84: 481–493.
+* –––, 2010, ‘Mereology, Modality, and Magic’, *Australasian Journal of Philosophy*, 88: 117–133.
+* –––, 2013, ‘Cut the Pie Any Way You Like? Cotnoir on General Identity’, *Oxford Studies in Metaphysics*, 8: 323–330.
+* Hazen, A. P., 2004, ‘Hypergunk’, *The Monist*, 87: 322–338.
+* Heller, M., 1984, ‘Temporal Parts of Four Dimensional Objects’, *Philosophical Studies*, 46: 323–334.
+* –––, 1990, *The Ontology of Physical Objects: Four-Dimensional Hunks of Matter*, Cambridge: Cambridge University Press.
+* Hempel, C. G., 1953, ‘Reflections on Nelson Goodman's *The Structure of Appearance*’, *Philosophical Review*, 62: 108–116.
+* Hershenov, D. B., 2008, ‘Lowe's Defence of Constitution and the Principle of Weak Extensionality’, *Ratio*, 21: 168–181.
+* Hershenov, D. B. and Koch-Hershenov, R., 2006, ‘Personal Identity and Purgatory’, *Religious Studies*, 42: 439–451.
+* Hestevold, H. S., 1981, ‘Conjoining’, *Philosophy and Phenomenological Research*, 41: 371–383.
+* Hirsch, E., 2005, ‘Physical-Object Ontology, Verbal Disputes, and Common Sense’, *Philosophy and Phenomenological Research*, 70: 67–97.
+* Hodges, W. and Lewis, D. K., 1968, ‘Finitude and Infinitude in the Atomic Calculus of Individuals’, *Noûs*, 2: 405–410.
+* Hoffman, D. D. and Richards, W. A., 1985, ‘Parts of Recognition’, *Cognition*, 18: 65–96.
+* Hoffman, J. and Rosenkrantz, G., 1997, *Substance: Its Nature and Existence*, London: Routledge.
+* –––, 1999, ‘Mereology’, in R. Audi (ed.), *The Cambridge Dictionary of Philosophy*, 2nd Edition, Cambridge: Cambridge University Press, pp. 557–558.
+* Horgan, T., 1993, ‘On What There Isn't’, *Philosophy and Phenomenological Research*, 53: 693–700.
+* Horgan, T. and Potrč, M., 2000, ‘Blobjectivism and Indirect Correspondence’, *Facta Philosophica*, 2: 249–270.
+* Hossack, K., 2000, ‘Plurals and Complexes’, *British Journal for the Philosophy of Science*, 51: 411–443.
+* Hovda, P., 2009, ‘What Is Classical Mereology?’, *Journal of Philosophical Logic*, 38: 55–82.
+* –––, 2013, ‘Tensed Mereology’, *Journal of Philosopical Logic*, 42: 241–283.
+* –––, 2014, ‘Natural Mereology and Classical Mereology’, in C. Calosi and P. Graziani (eds.), *Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context*, Berlin: Springer, pp. 141–159.
+* Hudson, H., 2001, *A Materialist Metaphysics of the Human Person*, Ithaca: Cornell University Press.
+* ––– (ed.), 2004, *Simples*, special issue of *The Monist*, 87: 303–451.
+* –––, 2006a ‘Simple Statues’, *Philo*, 9: 40–46.
+* –––, 2006b ‘Confining Composition’, *Journal of Philosophy*, 103: 631–651.
+* –––, 2007a, ‘Simples and Gunk’, *Philosophy Compass*, 2: 291–302.
+* –––, 2007b, ‘Lesser Kinds Quartet’, *The Monist*, 90: 333–348.
+* –––, 2009, ‘Omnipresence’, in T. P. Flint and M. Rea (eds.), *The Oxford Handbook of Philosophical Theology*, Oxford: Oxford University Press, pp. 199–216.
+* Hughes, C., 1986, ‘Is a Thing Just the Sum of Its Parts?’, *Proceedings of the Aristotelian Society*, 86: 213–233.
+* Husserl, E., 1900/1901, *Logische Untersuchungen. Zweiter Band. Untersuchungen zur Phänomenologie und Theorie der Erkenntnis*, Halle: Niemeyer; 2nd ed. 1913; Eng. trans. by J. N. Findlay: *Logical Investigations, Volume Two*, London: Routledge & Kegan Paul, 1970.
+* Hyde, D., 2008, *Vagueness, Logic and Ontology*, Aldershot: Ashgate.
+* Iris, M. A., Litowitz, B. E. and Evens, M., 1988, ‘Problems of the Part-Whole Relation’, in M. Evens (ed.), *Relations Models of the Lexicon*, Cambridge: Cambridge University Press, pp. 261–288.
+* Jackson, F., 2001, ‘Responses’, *Philosophy and Phenomenological Research*, 62: 653–664.
+* Johansson, I., 2004, ‘On the Transitivity of Parthood Relations’, in H. Hochberg and K. Mulligan (eds.), *Relations and Predicates*, Frankfurt: Ontos/Lancaster, pp. 161–181.
+* –––, 2006, ‘Formal Mereology and Ordinary Language. Reply to Varzi’, *Applied Ontology*, 1: 157–161.
+* –––, 2015, ‘Applied Mereology’, *Metascience*, 24: 239–245.
+* Johnsen, B., 1989, ‘Is Vague Identity Incoherent?’, *Analysis*, 49: 103–112.
+* Johnston, M., 1992, ‘Constitution Is Not Identity’, *Mind*, 101: 89–105.
+* –––, 2002, ‘Parts and Principles. False Axioms in Mereology’, *Philosophical Topics*, 30: 129–166.
+* –––, 2005, ‘Constitution’, in F. Jackson and M. Smith (eds.), *The Oxford Handbook of Contemporary Philosophy*, Oxford: Oxford University Press, pp. 636–675.
+* –––, 2006, ‘Hylomorphism’, *Journal of Philosophy*, 103: 652–698.
+* Jones, N. J., 2012, ‘Mereological Heuristics for Huayan Buddhism’, *Philosophy East and West*, 60: 355–368.
+* Jubien, M., 1993, *Ontology, Modality, and the Fallacy of Reference*, Cambridge: Cambridge University Press.
+* Kazmi, A., 1990, ‘Parthood and Persistence’, *Canadian Journal of Philosophy* (Supplement), 16: 227–250.
+* Kearns, S., 2011, ‘Can a Thing Be Part of Itself?’, *American Philosophical Quarterly*, 48: 87–93.
+* King, J. C., 2006, ‘Semantics for Monists’, *Mind*, 115: 1023–1058.
+* Kleene, S. C., 1938, ‘On a Notation for Ordinal Numbers’, *Journal of Symbolic Logic*, 3: 150–155.
+* Kleinschmidt, S., 2007, ‘Some Things About Stuff’, *Philosophical Studies*, 135: 407–423.
+* –––, 2011, ‘Multilocation and Mereology’, *Philosophical Perspectives*, 25: 253–276.
+* Korman, D. Z., 2008, ‘Unrestricted Composition and Restricted Quantification’, *Philosophical Studies*, 140: 319–334.
+* –––, 2010, ‘The Argument from Vagueness’, *Philosophy Compass*, 5: 891–901.
+* Koslicki, K., 1999, ‘The Semantics of Mass Predicates’, *Noûs*, 33: 46–91.
+* –––, 2007, ‘Towards a Neo-Aristotelian Mereology’, *Dialectica*, 61: 127–159.
+* –––, 2008, *The Structure of Objects*, Oxford: Oxford University Press.
+* Krause, D., 2011, ‘A Calculus of Non-Individuals (Ideas for a Quantum Mereology)’, in L. H. de A. Dutra and A. M. Luz (eds.), *Linguagem, Ontologia e Ação*, Florianópolis: NEL/UFSC, pp. 92–106.
+* Kriegel, U., 2008, ‘Composition as a Secondary Quality’, *Pacific Philosophical Quarterly*, 89: 359–383.
+* Landman, F., 1991, *Structures for Semantics*, Dordrecht: Kluwer.
+* Laycock, H., 1975, ‘Theories of Matter’, *Synthese*, 31: 411–442.
+* –––, 2011, ‘Any Sum of Parts which Are Water Is Water’, *Humana.Mente*, 19: 41–55.
+* Lejewski, C., 1957, Review of Rescher (1955), *Journal of Symbolic Logic*, 22: 213–214.
+* Leonard, H. S., 1930, *Singular Terms*, Cambridge, MA: Harvard University, Ph.D. Dissertation.
+* Leonard, H. S. and Goodman, N., 1940, ‘The Calculus of Individuals and Its Uses’, *Journal of Symbolic Logic*, 5: 45–55.
+* Leśniewski, S., 1916, *Podstawy ogólnej teoryi mnogości. I*, Moskow: Prace Polskiego Koła Naukowego w Moskwie, Sekcya matematyczno-przyrodnicza; Eng. trans. by D. I. Barnett: ‘Foundations of the General Theory of Sets. I’, in S. Leśniewski, *Collected Works* (ed. by S. J. Surma *et al.*), Dordrecht: Kluwer, 1992, Vol. 1, pp. 129–173.
+* –––, 1927–1931, ‘O podstawach matematyki’, *Przegląd Filozoficzny*, 30: 164–206; 31: 261–291; 32: 60–101; 33: 77–105; 34: 142–170; Eng. trans. by D. I. Barnett: ‘On the Foundations of Mathematics’, in S. Leśniewski, *Collected Works* (ed. by S. J. Surma *et al.*), Dordrecht: Kluwer, 1992, Vol. 1, pp. 174–382.
+* Lewis, D. K., 1971, ‘Counterpart of Persons and Their Bodies’, *Journal of Philosophy*, 68: 203–211.
+* –––, 1986a, ‘Against Structural Universals’, *Australasian Journal of Philosophy*, 64: 25–46.
+* –––, 1986b, *The Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1991, *Parts of Classes*, Oxford: Blackwell.
+* –––, 1993a, ‘Many, but Almost One’, in J. Bacon *et al.* (eds.), *Ontology, Causality, and Mind*, Cambridge: Cambridge University Press, pp. 23–38.
+* –––, 1993b, ‘Mathematics Is Megethology’, *Philosophia Mathematica*, 3: 3–23.
+* Liggins, D., 2008, ‘Nihilism Without Self-Contradiction’, *Philosophy*, 83: 177–196.
+* Link, G., 1983, ‘The Logical Analysis of Plural and Mass Terms: A Lattice-Theoretical Approach’, in R. Bäuerle *et al.* (eds.), *Meaning, Use, and Interpretation of Language*, Berlin: de Gruyter, pp. 303–323.
+* Lowe, E. J., 1989, *Kinds of Being: A Study of Individuation, Identity and the Logic of Sortal terms*, Oxford: Blackwell.
+* –––, 2001, ‘Identity, Composition and the Self’, in K. Corcoran (ed.), *Soul, Body and Survival*, Ithaca (NY): Cornell University Press, pp. 139–158.
+* –––, 2013, ‘Mereological Extensionality, Supplementation, and Material Constitution’, *The Monist*, 96: 131–148.
+* Lowe, V., 1953, ‘Professor Goodman's Concept of an Individual’, *Philosophical Review*, 62: 117–126.
+* Łukasiewicz, J., 1920, ‘O logice trojwartosciowej’, *Ruch Filozoficny*, 5: 169–171; Eng. trans. by S. McCall: ‘On Three-Valued Logic’, in S. McCall (ed.), *Polish Logic 1920–1939*, Oxford: Oxford University Press, 1967, pp. 15–18.
+* Luschei, E. C., 1965, *The Logical Systems of Leśniewski*, Amsterdam: North-Holland.
+* MacBride, F., 1998, ‘Where Are Particulars and Universals?’, *Dialectica*, 52: 203–227.
+* Markosian, N., 1998a, ‘Simples’, *Australasian Journal of Philosophy*, 76: 213–228.
+* –––, 1998b, ‘Brutal Composition’, *Philosophical Studies*, 92: 211–249.
+* –––, 2008, ‘Restricted Composition’, in T. Sider *et al.* (eds.), *Contemporary Debates in Metaphysics*, Oxford: Blackwell, pp. 341–363.
+* Martin, R. M., 1943, ‘A Homogeneous System for Formal Logic’, *Journal of Symbolic Logic*, 8: 1–23.
+* –––, 1965, ‘Of Time and the Null Individual’, *Journal of Philosophy*, 62: 723–736.
+* –––, 1988, *Metaphysical Foundations: Mereology and Metalogic*, Munich: Philosophia.
+* Masolo, C., 2009, ‘Parthood Simpliciter vs. Temporary Parthood’, in G. Lakemeyer *et al.* (eds.), *Commonsense 2009. Proceedings of the Ninth International Symposium on Logical Formalizations of Commonsense Reasoning*, Sydney, UTSePress, pp. 97–102.
+* Masolo, C. and Vieu, L., 1999, ‘Atomicity vs. Infinite Divisibility of Space’, in C. Freksa and D. Mark (eds.), *Spatial Information Theory. Proceedings of COSIT '99*, Berlin: Springer, pp. 235–250.
+* Maudlin, T., 1998, ‘Part and Whole in Quantum Mechanics’, in E. Castellani (ed.), *Interpreting Bodies*, Princeton: Princeton University Press, pp. 46–60.
+* McDaniel, K., 2004, ‘Modal Realism with Overlap’, *Australasian Journal of Philosophy*, 82: 137–152.
+* –––, 2006, ‘Gunky Objects in a Simple World’, *Philo*, 9: 39–46.
+* –––, 2007, ‘Extended Simples’, *Philosophical Studies*, 133: 131–141.
+* –––, 2008, ‘Against Composition as Identity’, *Analysis*, 68: 128–133.
+* –––, 2009, ‘Structure-Making’, *Australasian Journal of Philosophy*, 87: 251–274.
+* –––, 2010, ‘Composition as Identity Does Not Entail Universalism’, *Erkenntnis*, 73: 97–100.
+* McGee, V., 1997, ‘“Kilimanjaro”’, *Canadian Journal of Philosophy* (Supplement), 23: 141–195.
+* McGrath, M., 1998, ‘Van Inwagen's Critique of Universalism’, *Analysis*, 58: 116–121.
+* –––, 2001, ‘Rea on Universalism’, *Analysis*, 61: 69–76.
+* –––, 2008, ‘Conciliatory Metaontology and the Vindication of Common Sense’, *Noûs*, 42: 482–508.
+* McKinnon, N., 2003, ‘Vague Simples’, *Pacific Philosophical Quarterly*, 84: 394–397.
+* Meirav, A., 2003, *Wholes, Sums and Unities*, Dordrecht: Kluwer.
+* Meixner, U., 1997, *Axiomatic Formal Ontology*, Dordrecht: Kluwer.
+* Mellor, D. H., 2006, ‘Wholes and Parts: The Limits of Composition’, *South African Journal of Philosophy*, 25: 138–145.
+* Merricks, T., 1999, ‘Composition as Identity, Mereological Essentialism, and Counterpart Theory’, *Australasian Journal of Philosophy*, 77: 192–195.
+* –––, 2000, ‘“No Statues”’, *Australasian Journal of Philosophy*, 78: 47–52.
+* –––, 2001, *Objects and Persons*, Oxford: Oxford University Press.
+* –––, 2005, ‘Composition and Vagueness’, *Mind*, 114: 615–637.
+* Mesarović, M. D., Macko, D. and Takahara, Y., 1970, *Theory of Hierarchical, Multilevel, Systems*, New York: Academic Press.
+* Meyers, J., 2014, ‘What is Nominalistic Mereology?’, *Journal of Philosophical Logic*, 43: 71–108.
+* Miéville, D., 1984, *Un développement des systèmes logiques de Stanisław Leśniewski. Protothétique - Ontologie - Méréologie*, Berne: Lang.
+* Moltmann, F., 1997, *Parts and Wholes in Semantics*, Oxford: Oxford University Press.
+* Morganti, M., 2009, ‘Ontological Priority, Fundamentality and Monism’, *Dialectica*, 63: 271–288.
+* Mormann, T., 1999, ‘Neither Mereology Nor Whiteheadian Account of Space Yet Convicted’, *Analysis*, 59: 174–182.
+* –––, 2000, ‘Topological Representations of Mereological Systems’, *Poznan Studies in the Philosophy of the Sciences and the Humanities*, 76: 463–486.
+* –––, 2010, ‘Structural Universals as Structural Parts: Toward a General Theory of Parthood and Composition’, *Axiomathes*, 20: 209–227.
+* –––, 2014, ‘Set Theory, Topology, and the Possibility of Junky Worlds’, *Notre Dame Journal of Formal Logic*, 55: 79–90.
+* Morreau, M., 2002, ‘What Vague Objects Are Like’, *Journal of Philosophy*, 99: 333–361.
+* Mostowski, A. and Tarski, A., 1939, ‘Boolesche Ringe mit geordneter Basis’, *Fundamenta Mathematicae*, 32: 69–86; Eng. trans. by M. J. Maczynski: ‘Boolean Rings with an Ordered Basis’, in A. Mostowski, *Foundational Studies. Selected Works* (ed. by K. Kuratowski *et al.*), Vol. 2, Amsterdam: North-Holland, 1979, pp. 75–91.
+* Myro, G., 1985, ‘Identity and Time’, in R. E. Grandy (ed.), *The Philosophical Grounds of Rationality: Intentions, Categories, and Ends*, Oxford: Clarendon Press, pp. 383–409.
+* Needham, P., 1981, ‘Temporal Intervals and Temporal Order’, *Logique et Analyse*, 24: 49–64.
+* –––, 2007, ‘Macroscopic Mixtures’, *Journal of Philosophy*, 104: 26–52.
+* Nicod, J., 1924, *La géométrie dans le monde sensible*, Paris: Alcan; Eng. trans. by J. Bell and M. Woods: ‘Geometry in the Sensible World’, in *Geometry and Induction*, Berkeley: University of California Press, 1970.
+* Niebergall, K.-G., 2009a, ‘On 2nd Order Calculi of Individuals’, *Theoria*, 65: 169–202.
+* –––, 2009b, ‘Calculi of Individuals and Some Extensions: An Overview’, in A. Hieke and H. Leitgeb (eds.), *Reduction, Abstraction, Analysis. Proceedings of the 31th International Wittgenstein Symposium*, Frankfurt: Ontos, pp. 335–354.
+* –––, 2011, ‘Mereology’, in R. Pettigrew and L. Horsten (eds.), *The Continuum Companion to Philosophical Logic*, London: Continuum, pp. 271–298.
+* Nolan, D., 2004, ‘Classes, Worlds, and Hypergunk’, *The Monist*, 87: 303–321.
+* –––, 2005, *David Lewis*, Chesham: Acumen.
+* –––, 2006, ‘Vagueness, Multiplicity and Parts’, *Noûs*, 40: 716–737.
+* Noonan, H., 1993, ‘Constitution Is Identity’, *Mind*, 102: 133–146.
+* Null, G., 1983, ‘A First-Order Axiom System for Non-Universal Part-Whole and Foundational Relations’, in L. Embree (ed.), *Essays in Memory of Aron Gurwitsch*, Lanham (MD): University Press of America, pp. 463–484.
+* Obojska, L., 2013, ‘Some Remarks on Supplementation Principles in the Absence of Antisymmetry’, *Review of Symbolic Logic*, 6: 343–347.
+* Oderberg, D. S., 2005, ‘Hylemorphic Dualism’, in E. F. Paul *et al.* (eds.), *Personal Identity*, Cambridge: Cambridge University Press, pp. 70–99.
+* –––, 2012, ‘Survivalism, Corruptionism, and Mereology’, *European Journal for Philosophy of Religion*, 4: 1–26.
+* Olson, E. T., 2006, ‘Temporal Parts and Timeless Parthood’, *Noûs*, 40: 738–752.
+* Oppenheim, P. and Putnam, H., 1958, ‘Unity of Science as a Working Hypothesis’, *Minnesota Studies in the Philosophy of Science*, 2: 3–36.
+* Oppy, G., 1997, ‘Countable Fusion Not Yet Proven Guilty: It May Be the Whiteheadian Account of Space Whatdunnit’, *Analysis*, 57: 249–253.
+* Palmer, S. E., 1977, ‘Hierarchical Structure in Perceptual Representation’, *Cognitive Psychology*, 9: 441–474.
+* Parsons, J., 2004, ‘Dion, Theon, and DAUP’, *Pacific Philosophical Quarterly*, 85: 85–91.
+* –––, 2007, ‘Theories of Location’, *Oxford Studies in Metaphysics*, 3: 201–232.
+* –––, 2014, ‘The Many Primitives of Mereology’, in S. Kleinschmidt (ed.), *Mereology and Location*, Oxford: Oxford University Press, pp. 3–12.
+* Parsons, T., 2000, *Indeterminate Identity. Metaphysics and Semantics*, Oxford: Clarendon Press.
+* Pickel, B., 2010, ‘There Is No ‘Is' of Constitution’, *Philosophical Studies*, 147: 193–211.
+* Pietruszczak, A., 2000, ‘Kawałki mereologii’, in J. Perzanowski and A. Pietruszczak (eds.), *Logika & Filozoﬁa Logiczna. FLFL 1996–1998*, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika, pp. 357–374; revised Eng. trans.: ‘Pieces of Mereology’, *Logic and Logical Philosophy*, 14 (2005): 211–234.
+* –––, 2014, ‘A General Concept of Being a Part of a Whole’, *Notre Dame Journal of Formal Logic*, 55: 359–381.
+* Plantinga, A., 1975, ‘On Mereological Essentialism’, *Review of Metaphysics*, 28: 468–476.
+* Polkowski, L. and Skowron, A., 1994, ‘Rough Mereology’, in Z. W. Ras and M. Zemankova (eds.), *Proceedings of the 8th International Symposium on Methodologies for Intelligent Systems (ISMIS 94)*, Berlin: Springer, pp. 85–94.
+* Pontow, C., 2004, ‘A Note on the Axiomatics of Theories in Parthood’, *Data & Knowledge Engineering*, 50: 195–213.
+* Pontow, C. and Schubert, R., 2006, ‘A Mathematical Analysis of Theories of Parthood’, *Data & Knowledge Engineering*, 59: 107–138.
+* Pribbenow, S., 2002, ‘Meronymic Relationships: From Classical Mereology to Complex Part-Whole Relations’, in R. Green *et al*. (eds.), *The Semantics of Relationships. An Interdisciplinary Perspective*, Dordrecht, Kluwer, pp. 35–50.
+* Priest, G., 2014a, ‘Much Ado about Nothing’, *Australasian Journal of Logic*, 11: 146–158.
+* –––, 2014b, *One. Being an Investigation into the Unity of Reality and of Its Parts, Including the Singular Object which is Nothingness*, Oxford: Oxford University Press.
+* Putnam, H., 1987, *The Many Faces of Realism*, La Salle (IL): Open Court.
+* Quine, W. V. O., 1939, ‘Designation and Existence’, *Journal of Philosophy*, 36: 701–709.
+* –––, 1970, *Philosophy of Logic*, Englewood Cliffs (NJ):Prentice-Hall (2nd ed. Cambridge (MA): Harvard University Press, 1986).
+* –––, 1981, ‘Things and Their Place in Theories’, in his *Theories and Things*, Cambridge (MA): Harvard University Press, pp. 1–23.
+* Quinton, A., 1976, ‘Social Objects’, *Proceedings of the Aristotelian Society*, 76: 1–27.
+* Randell, D. A., Cui, Z. and Cohn, A. G., 1992, ‘A Spatial Logic Based on Regions and Connection’, in B. Nebel *et al.* (eds.), *Principles of Knowledge Representation and Reasoning. Proceedings of the Third International Conference*, Los Altos (CA): Morgan Kaufmann, pp. 165–176.
+* Rea, M., 1995, ‘The Problem of Material Constitution’, *Philosophical Review*, 104: 525–552.
+* –––, 1998, ‘In Defense of Mereological Universalism’, *Philosophy and Phenomenological Research*, 58: 347–360.
+* –––, 1999, ‘McGrath on Universalism’, *Analysis*, 59: 201–204.
+* –––, 2001, ‘How to Be an Eleatic Monist’, *Philosophical Perspectives*, 15: 129–151.
+* Rescher, N., 1955, ‘Axioms for the Part Relation’, *Philosophical Studies*, 6: 8–11.
+* Rescher, N. and Oppenheim, P. 1955, ‘Logical Analysis of Gestalt Concepts’, *British Journal for the Philosophy of Science*, 6: 89–106.
+* Ritchie, K., 2013, ‘What Are Groups?’, *Philosophical Studies*, 166: 257–272.
+* Robinson, D., 1982, ‘Reidentifying Matter’, *Philosophical Review*, 91: 317–342.
+* Roeper, P., 1997, ‘Region-Based Topology’, *Journal of Philosophical Logic*, 26: 251–309.
+* Rosen, G. and Dorr, C., 2002, ‘Composition as a Fiction’, in R. Gale (ed.), *The Blackwell Guide to Metaphysics*, Oxford: Blackwell, pp. 151–174.
+* Rossberg, M., 2009, ‘Leonard, Goodman, and the Development of the *Calculus of Individuals*’, in G. Ernst *et al.* (eds.), *From Logic to Art: Themes from Nelson Goodman*, Frankfurt: Ontos, pp. 51–69.
+* Ruben, D.-H., 1983, ‘Social Wholes and Parts’, *Mind*, 92: 219–238.
+* Russell, B., 1903, *Principles of Mathematics*, New York: Norton.
+* –––, 1923, ‘Vagueness’, *Australasian Journal of Psychology and Philosophy*, 1: 84–92.
+* Russell, J. T., 2008, ‘The Structure of Gunk: Adventures in the Ontology of Space’, *Oxford Studies in Metaphysics*, 4: 248–274.
+* Sainsbury, R. M., 1989, ‘What Is a Vague Object’, *Analysis*, 49: 99–103.
+* Sanford, D., 1993, ‘The Problem of the Many, Many Composition Questions, and Naive Mereology’, *Noûs*, 27: 219–228.
+* –––, 2003, ‘Fusion Confusion’, *Analysis*, 63: 1–4.
+* Sattig, T., 2013, ‘Vague Objects and the Problem of the Many’, *Metaphysica*, 14: 211–223.
+* –––, 2014, ‘Mereological Indeterminacy: Metaphysical but Not Fundamental’, in K. Akiba and A. Abasnezhad (eds.), *Vague Objects and Vague Identity. New Essays on Ontic Vagueness*, Berlin: Springer, pp. 25–42.
+* Saucedo, R., 2011, ‘Parthood and Location’, *Oxford Studies in Metaphysics*, 6: 223–284.
+* Scala, M., 2002, ‘Homogeneous Simples’, *Philosophy and Phenomenological Research*, 64: 393–397.
+* Schaffer, J., 2003, ‘Is There a Fundamental Level?, *Noûs*, 37: 498–517.
+* –––, 2007, ‘From Nihilism to Monism’, *Australasian Journal of Philosophy*, 85: 175–191.
+* –––, 2009, ‘Spacetime the One Substance’, *Philosophical Studies*, 145: 131–148.
+* –––, 2010, ‘Monism: The Priority of the Whole’, *Philosophical Review*, 119: 31–76.
+* Schmitt, F. F., 2003, ‘Socializing Metaphysics: An Introduction’, in F. F. Schmitt (ed.), *Socializing Metaphysics: The Nature of Social Reality*, Lanham (MD): Rowman & Littlefield, pp. 1–37.
+* Schuldenfrei, R., 1969, ‘Eberle on Nominalism in Non-Atomic Systems’, *Noûs*, 3: 427–430.
+* Sedley, D., 1982, ‘The Stoic Criterion of Identity’, *Phronesis*, 27: 255–275.
+* Segal, A., 2014, ‘Causal Essentialism and Mereological Monism’, *Philosophical Studies*, 169: 227–255.
+* Sharvy, R., 1980, ‘A More General Theory of Definite Descriptions’, *Philosophical Review*, 89: 607–624.
+* –––, 1983, ‘Mixtures’, *Philosophy and Phenomenological Research*, 44: 227–239.
+* Sheehy, P., 2006, ‘Sharing Space. The Synchronic Identity of Social Groups’, *Philosophy of the Social Sciences*, 36: 131–148.
+* Shiver, A., 2015, ‘How Do You Say “Everything Is Ultimately Composed of Atoms”?’, *Philosophical Studies*, 172: 607–614.
+* Sider, T., 1993, ‘Van Inwagen and the Possibility of Gunk’, *Analysis*, 53: 285–289.
+* –––, 2001, *Four-Dimensionalism. An Ontology of Persistence and Time*, New York: Oxford University Press.
+* –––, 2007, ‘Parthood’, *Philosophical Review*, 116: 51–91.
+* –––, 2013, ‘Against Parthood’, *Oxford Studies in Metaphysics*, 8: 237–293
+* Silva, P. Jr., 2013, ‘Ordinary Objects and Series-Style Answers to the Special Composition Question’, *Pacific Philosophical Quarterly*, 94: 69–88
+* Simons, P. M., 1980, ‘Individuals, Groups and Manifolds’, in R. Haller and W. Grassl (eds.), *Logic, Language and Philosophy*, Vienna: Hölder-Pichler-Tempsky, pp. 483–486.
+* –––, 1982, ‘The Formalization of Husserl's Theory of Parts and Wholes’, in B. Smith (ed.), *Parts and Moments. Studies in Logic and Formal Ontology*, Munich: Philosophia, pp. 481–552.
+* –––, 1987, *Parts. A Study in Ontology*, Oxford: Clarendon Press.
+* –––, 1991a, ‘Free Part-Whole Theory’, in K. Lambert (ed.), *Philosophical Applications of Free Logic*, Oxford: Oxford University Press, pp. 285–306.
+* –––, 1991b, ‘Whitehead und die Mereologie’, in M. Hampe and H. Maaßen (eds.), *Die Gifford Lectures und ihre Deutung. Materialien zu Whiteheads Prozess and Realität*, vol. 2, Frankfurt: Suhrkamp, pp. 369–388; revised Eng. trans.: ‘Whitehead and Mereology’, in G. Durand and M. Weber (eds.), *Les principes de la connaissance naturelle d’Alfred North Whitehead*, Frankfurt: Ontos, 2007, pp. 215–233.
+* –––, 1997, ‘Bolzano on Collections’, *Grazer philosophische Studien*, 53: 87–108.
+* –––, 2003, ‘The Universe’, *Ratio*, 16: 237–250.
+* –––, 2004, ‘Extended Simples: A Third Way between Atoms and Gunk’, *The Monist*, 87: 371–384.
+* –––, 2006, ‘Real Wholes, Real Parts: Mereology without Algebra’, *Journal of Philosophy*, 103: 597–613.
+* –––, 2013, ‘Varieties of Parthood: Ontology Learns from Engineering’, in D. P. Michelfelder *et al.* (eds.), *Philosophy and Engineering: Reflections on Practice, Principles and Process*, Berlin, Springer, pp. 151–163.
+* Simons, P. M. and Dement, C. W., 1996, ‘Aspects of the Mereology of Artifacts’, in R. Poli and P. M. Simons (eds.), *Formal Ontology*, Dordrecht: Kluwer, pp. 255–276.
+* Smid, J., 2015, ‘The Ontological Parsimony of Mereology’, *Philosophical Studies*, 172: 3253–3271.
+* Smith, B. and Mulligan, K., 1982, ‘Pieces of a Theory’, in B. Smith (ed.), *Parts and Moments. Studies in Logic and Formal Ontology*, Munich: Philosophia, pp. 15–109.
+* Smith, D., 2006, ‘The Vagueness Argument for Mereological Universalism’, *Pacific Philosophical Quarterly*, 87: 357–368.
+* –––, 2009, ‘Mereology without Weak Supplementation’, *Australasian Journal of Philosophy*, 87: 505–511.
+* Smith, N. J. J., 2005, ‘A Plea for Things That Are Not Quite All There’, *Journal of Philosophy*, 102: 381–421.
+* Sobociński, B., 1971, ‘Atomistic Mereology’, *Notre Dame Journal of Formal Logic*, 12: 89–103 and 203–213.
+* Sokolowski, R., 1968, ‘The Logic of Parts and Wholes in Husserl's *Investigations*’, *Philosophy and Phenomenological Research*, 28: 537–553.
+* Spencer, J., 2010, ‘A Tale of Two Simples’, *Philosophical Studies*, 148: 167–181.
+* –––, 2012 ‘All Things Must Pass Away’, *Oxford Studies in Metaphysics*, 7: 67–92.
+* Stump, E., 2006, ‘Resurrection, Reassembly, and Reconstitution: Aquinas on the Soul’, in B. Niederbacher and E. Runggaldier (eds.), *Die Menschliche Seele: Brauchen wir den Dualismus?*, Frankfurt: Ontos, pp. 151–171.
+* Sukumar, N., 2013, ‘The Atom in a Molecule as a Mereological Construct in Chemistry’, *Foundations of Chemistry*, 15: 303–309.
+* Tallant, J., 2013, ‘Problems of Parthood for Proponents of Priority’, *Analysis*, 73: 429–438.
+* Tanksley, C., 2010, ‘The Mereological Constancy of Masses’, *Philosophical Quarterly* , 60: 343–354.
+* Tarski, A., 1929, ‘Les fondements de la géométrie des corps’, *Ksiega Pamiatkowa Pierwszkego Polskiego Zjazdu Matematycznego*, suppl. to *Annales de la Société Polonaise de Mathématique*, 7: 29–33; Eng. trans. by J. H. Woodger: ‘Foundations of the Geometry of Solids’, in A. Tarski, *Logics, Semantics, Metamathematics. Papers from 1923 to 1938*, Oxford: Clarendon Press, 1956, pp. 24–29.
+* –––, 1935, ‘Zur Grundlegung der Booleschen Algebra. I’, *Fundamenta Mathematicae*, 24: 177–198; Eng. trans. by J. H. Woodger: ‘On the Foundations of the Boolean Algebra’, in A. Tarski, *Logics, Semantics, Metamathematics, Papers from 1923 to 1938*, Oxford: Clarendon Press, 1956, pp. 320–341.
+* –––, 1937, ‘Appendix E’, in J. E. Woodger, *The Axiomatic Method in Biology*, Cambridge: Cambridge University Press, 161–172.
+* Thomson, J. J., 1977, *Acts and Other Events*, Ithaca (NY): Cornell University Press.
+* –––, 1983, ‘Parthood and Identity Across Time’, *Journal of Philosophy*, 80: 201–220.
+* –––, 1998, ‘The Statue and the Clay’, *Noûs*, 32: 149–173.
+* Tillman, C. and Fowler, G., 2012, ‘Propositions and Parthood: The Universe and Antisymmetry’, *Australasian Journal of Philosophy*, 90: 525–539.
+* Tognazzini, N. A., 2006, ‘Simples and the Possibility of Discrete Space’, *Australasian Journal of Philosophy*, 84: 117–128.
+* Toner, P., 2009, ‘On Hylemorphism and Personal Identity’, *European Journal of Philosophy*, 19: 454–473.
+* –––, 2012, ‘On Aristotelianism and Structures as Parts’, *Ratio*, 26: 148–161.
+* Tsai, H., 2009, ‘Decidability of Mereological Theories’, *Logic and Logical Philosophy*, 18: 45–63.
+* –––, 2011, ‘More on the Decidability of Mereological Theories’, *Logic and Logical Philosophy*, 20: 251–265.
+* –––, 2013a, ‘Decidability of General Extensional Mereology’, *Studia Logica*, 101: 619–636.
+* –––, 2013b, ‘A Comprehensive Picture of the Decidability of Mereological Theories’, *Studia Logica*, 101: 987–1012.
+* Tversky, B., 1989, ‘Parts, Partonomies, and Taxonomies’, *Developmental Psychology*, 25: 983–995.
+* –––, 2005, ‘On Exploring Parts and Wholes’, in J. S. Gero and M. L. Maher (eds.), *Computational and Cognitive Models of Creative Design VI. Preprints of the International Conference*, Sydney: Key Centre of Design Computing and Cognition, pp. 3–16.
+* Tye, M., 1990, ‘Vague Objects’, *Mind*, 99: 535–557.
+* –––, 2000, ‘Vagueness and Reality’, *Philosopical Topics*, 28: 195–209.
+* Unger, P., 1980, ‘The Problem of the Many’, *Midwest Studies in Philosophy*, 5: 411–467.
+* Urbaniak, R., 2013, *Leśniewski's Systems of Logic and Foundations of Mathematics*, Berlin: Springer.
+* Uzquiano, G., 2004, ‘The Supreme Court and the Supreme Court Justices: A Metaphysical Puzzle’, *Noûs*, 38: 135–153.
+* –––, 2006, ‘The Price of Universality’, *Philosophical Studies*, 129: 137–169.
+* –––, 2011, ‘Mereological Harmony’, *Oxford Studies in Metaphysics*, 6: 199–224.
+* van Benthem, J., 1983, *The Logic of Time*, Dordrecht: Reidel. (2nd ed. 1991).
+* Van Cleve, J., 1986, ‘Mereological Essentialism, Mereological Conjunctivism, and Identity Through Time’, *Midwest Studies in Philosophy*, 11: 141–156.
+* –––, 2008, ‘The Moon and Sixpence: A Defense of Mereological Universalism’, in T. Sider *et al.* (eds.), *Contemporary Debates in Metaphysics*, Oxford: Blackwell, pp. 321–340.
+* van Inwagen, P., 1981, ‘The Doctrine of Arbitrary Undetached Parts’, *Pacific Philosophical Quarterly*, 62: 123–137.
+* –––, 1987, ‘When Are Objects Parts?’, *Philosophical Perspectives*, 1: 21–47.
+* –––, 1990, *Material Beings*, Ithaca (NY): Cornell University Press.
+* –––, 1993, ‘Naive Mereology, Admissible Valuations, and Other Matters’, *Noûs*, 27: 229–234.
+* –––, 1994, ‘Composition as Identity’, in J. E. Tomberlin (ed.), *Philosophical Perspectives, 8: Logic and Language*, Ridgeview: Atascadero, pp. 207–220.
+* Vander Laan, D., 2010, ‘A Relevance Constraint on Composition’, *Australasian Journal of Philosophy*, 88: 135–145.
+* Varzi, A. C., 1996, ‘Parts, Wholes, and Part-Whole Relations: The Prospects of Mereotopology’, *Data and Knowledge Engineering*, 20: 259–286.
+* –––, 2000, ‘Mereological Commitments’, *Dialectica*, 54: 283–305.
+* –––, 2001, ‘Vagueness in Geography’, *Philosophy and Geography*, 4: 49–65.
+* –––, 2006a, ‘A Note on the Transitivity of Parthood’, *Applied Ontology*, 1: 141–146.
+* –––, 2006b, ‘The Universe Among Other Things’, *Ratio*, 19: 107–120.
+* –––, 2007, ‘Spatial Reasoning and Ontology: Parts, Wholes, and Locations’, in M. Aiello *et al.* (eds.), *Handbook of Spatial Logics*, Berlin: Springer, pp. 945–1038.
+* –––, 2008, ‘The Extensionality of Parthood and Composition’, *The Philosophical Quarterly*, 58: 108–133.
+* –––, 2009, ‘Universalism Entails Extensionalism’, *Analysis*, 69: 599–604.
+* –––, 2010, ‘On the Boundary between Material and Formal Ontology’, in B. Smith *et al.* (eds.), *Interdisciplinary Ontology, Vol. 3: Proceedings of the Third Interdisciplinary Ontology Meeting*, Tokyo: Keio University, pp. 3–8.
 * –––, 2014, ‘Counting and Countenancing’, in D. L. M. Baxter and A. J. Cotnoir (eds.), Composition as Identity, Oxford: Oxford University Press, pp. 47–69.
-* Vieu, L., 2006, ‘On the Transitivity of Functional Parthood’, _Applied Ontology_, 1: 147–155.
+* Vieu, L., 2006, ‘On the Transitivity of Functional Parthood’, *Applied Ontology*, 1: 147–155.
 * Wake, A. W., 2011, ‘Spacetime and Mereology’, _Erkenntnis_74: 17–35.
-* Wallace, M., 2013, ‘Composition as Identity’, _Philosophy Compass_, 6: 804–816 and 817–827.
-* Watson, D., 2010, ‘An Argument Against an Argument Against the Necessity of Universal Mereological Composition’, _Analysis_, 70: 78–82.
-* Westerhoff, J., 2004, ‘A Taxonomy of Composition Operations’, _Logique and Analyse_, 47: 375–393.
-* Whitehead, A. N., 1919, _An Enquiry Concerning the Principles of Natural Knowledge_, Cambridge: Cambridge University Press.
-* –––, 1920, _The Concept of Nature_, Cambridge: Cambridge University Press.
-* –––, 1929, _Process and Reality. An Essay in Cosmology_, New York: Macmillan.
-* Wiggins, D., 1968, ‘On Being in the Same Place at the Same Time’, _Philosophical Review_, 77: 90–95.
-* –––, 1979, ‘Mereological Essentialism: Asymmetrical Essential Dependence and the Nature of Continuants’, _Grazer philosophische Studien_, 7/8: 297–315
-* –––, 1980, _Sameness and Substance_, Oxford: Blackwell.
-* Williamson, T., 1994, _Vagueness_, London: Routledge.
-* Winston, M., Chaffin, R. and Herrmann, D., 1987, ‘A Taxonomy of Part-Whole Relations’, _Cognitive Science_, 11: 417–444.
-* Winther, R. G., 2011, ‘Part-Whole Science’, _Synthese_, 178: 397–427.
-* Yi, B.-U., 1999, ‘Is Mereology Ontologically Innocent?’, _Philosophical Studies_, 93: 141–160.
-* Yoes, M. G., 1967, ‘Nominalism and Non-Atomic Systems’, _Noûs_, 1: 193–200.
-* Zadeh, L., 1965, ‘Fuzzy Sets’, _Information and Control_, 8: 338–353.
-* Zimmerman, D. W., 1995, ‘Theories of Masses and Problems of Constitution’, _Philosophical Review_, 104: 53–110.
-* –––, 1996, ‘Could Extended Objects Be Made Out of Simple Parts? An Argument for “Atomless Gunk”’, _Philosophy and Phenomenological Research_, 56: 1–29.
+* Wallace, M., 2013, ‘Composition as Identity’, *Philosophy Compass*, 6: 804–816 and 817–827.
+* Watson, D., 2010, ‘An Argument Against an Argument Against the Necessity of Universal Mereological Composition’, *Analysis*, 70: 78–82.
+* Westerhoff, J., 2004, ‘A Taxonomy of Composition Operations’, *Logique and Analyse*, 47: 375–393.
+* Whitehead, A. N., 1919, *An Enquiry Concerning the Principles of Natural Knowledge*, Cambridge: Cambridge University Press.
+* –––, 1920, *The Concept of Nature*, Cambridge: Cambridge University Press.
+* –––, 1929, *Process and Reality. An Essay in Cosmology*, New York: Macmillan.
+* Wiggins, D., 1968, ‘On Being in the Same Place at the Same Time’, *Philosophical Review*, 77: 90–95.
+* –––, 1979, ‘Mereological Essentialism: Asymmetrical Essential Dependence and the Nature of Continuants’, *Grazer philosophische Studien*, 7/8: 297–315
+* –––, 1980, *Sameness and Substance*, Oxford: Blackwell.
+* Williamson, T., 1994, *Vagueness*, London: Routledge.
+* Winston, M., Chaffin, R. and Herrmann, D., 1987, ‘A Taxonomy of Part-Whole Relations’, *Cognitive Science*, 11: 417–444.
+* Winther, R. G., 2011, ‘Part-Whole Science’, *Synthese*, 178: 397–427.
+* Yi, B.-U., 1999, ‘Is Mereology Ontologically Innocent?’, *Philosophical Studies*, 93: 141–160.
+* Yoes, M. G., 1967, ‘Nominalism and Non-Atomic Systems’, *Noûs*, 1: 193–200.
+* Zadeh, L., 1965, ‘Fuzzy Sets’, *Information and Control*, 8: 338–353.
+* Zimmerman, D. W., 1995, ‘Theories of Masses and Problems of Constitution’, *Philosophical Review*, 104: 53–110.
+* –––, 1996, ‘Could Extended Objects Be Made Out of Simple Parts? An Argument for “Atomless Gunk”’, *Philosophy and Phenomenological Research*, 56: 1–29.
 
 ### Historical Surveys
 
-* Arlig, A., 2011, ‘Mereology’, in H. Lagerlund (ed.), _Encyclopedia of Medieval Philosophy. Philosophy Between 500 and 1500_, Dordrecht: Springer, 763–771
-* Barnes, J., 1988, ‘Bits and Pieces’, in J. Barnes and M. Mignucci (eds.), _Matter and Metaphysics_, Naples: Bibliopolis, pp. 225–294.
-* Burkhardt, H. and Dufour, C. A., 1991, ‘Part/Whole I: History’, in H. Burkhardt and B. Smith (eds.), _Handbook of Metaphysics and Ontology_, Munich: Philosophia, pp. 663–673.
-* Henry, D., 1991, _Medieval Mereology_, Amsterdam: Grüner.
-* Simons, P. M., 1991, ‘Part/Whole II: Mereology Since 1900’, in H. Burkhardt and B. Smith (eds.), _Handbook of Metaphysics and Ontology_, Munich: Philosophia, pp. 209–210.
-* Smith, B., 1982, ‘Annotated Bibliography of Writings on Part-Whole Relations since Brentano’, in B. Smith (ed.), _Parts and Moments. Studies in Logic and Formal Ontology_, Munich: Philosophia, pp. 481–552.
+* Arlig, A., 2011, ‘Mereology’, in H. Lagerlund (ed.), *Encyclopedia of Medieval Philosophy. Philosophy Between 500 and 1500*, Dordrecht: Springer, 763–771
+* Barnes, J., 1988, ‘Bits and Pieces’, in J. Barnes and M. Mignucci (eds.), *Matter and Metaphysics*, Naples: Bibliopolis, pp. 225–294.
+* Burkhardt, H. and Dufour, C. A., 1991, ‘Part/Whole I: History’, in H. Burkhardt and B. Smith (eds.), *Handbook of Metaphysics and Ontology*, Munich: Philosophia, pp. 663–673.
+* Henry, D., 1991, *Medieval Mereology*, Amsterdam: Grüner.
+* Simons, P. M., 1991, ‘Part/Whole II: Mereology Since 1900’, in H. Burkhardt and B. Smith (eds.), *Handbook of Metaphysics and Ontology*, Munich: Philosophia, pp. 209–210.
+* Smith, B., 1982, ‘Annotated Bibliography of Writings on Part-Whole Relations since Brentano’, in B. Smith (ed.), *Parts and Moments. Studies in Logic and Formal Ontology*, Munich: Philosophia, pp. 481–552.
 
 ### Monographs and Collections
 
-* Albertazzi, L. and Libardi, M. (eds.), 1994, _Mereologies_, special issue of _Axiomathes_, 5: 1–175.
-* Asenjo, F. G., 1962, _El todo y las partes: Estudios de ontología formal_, Madrid: Editorial Tecnos.
-* Baxter, D. L. M. and Cotnoir, A. J. (eds.), 2014, _Composition as Identity_, Oxford: Oxford University Press.
-* Burkhardt, H., Seibt, J. and Imaguire, G. (eds.), 2016, _Handbook of Mereology_, Munich: Philosophia (forthcoming).
-* Calosi, C. and Graziani, P. (eds.), 2014, _Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context_, Berlin: Springer.
-* Casati, R. and Varzi, A. C., 1999, _Parts and Places: The Structures of Spatial Representation_, Cambridge (MA): MIT Press.
-* Clay, R. E., 1981, _Leśniewski's Mereology_, Cumana: Universidad de Oriente.
-* Eberle, R. A., 1970, _Nominalistic Systems_, Dordrecht: Reidel.
-* Gessler, N., 2005, _Introduction à l'oeuvre de S. Leśniewski, Fascicule III: La méréologie_, Neuchâtel: Centre de Recherches Sémiologiques.
-* Gorzka, C., 2013, _Mereologia a topologia i geometria bezpunktowa_, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika.
-* Grize, J. B., 1972, _Notes sur l’ontologie et la méréologie de Leśniewski_, Neuchâtel: Centre de Recherches Sémiologiques.
-* Gruszczyński, R. and Varzi, A. C. (eds.), 2015, _Beyond Mereology, Part I_, special issue of _Logic and Logical Philosophy_, 24: 409–553.
-* ––– (eds.), 2016, _Beyond Mereology, Part II_, special issue of _Logic and Logical Philosophy_ (forthcoming).
-* Harte, V., 2002, _Plato on Parts and Wholes. The Metaphysics of Structure_, New York: Oxford University Press.
-* Hudson, H. (ed.), 2004, _Simples_, special issue of _The Monist_, 87: 303–451.
-* Kleinschmidt, S. (ed.), 2014, _Mereology and Location_, Oxford: Oxford University Press.
-* Koslicki, K., 2008, _The Structure of Objects_, Oxford: Oxford University Press.
-* Lambrix, P. 2000, _Part-Whole Reasoning in an Object-Centered Framework_, Berlin: Springer.
-* Lerner, D. (ed.), 1963, _Parts and Wholes. The Hayden Colloquium on Scientific Method and Concept_, New York: Free Press of Glencoe.
-* Lewis, D. K., 1991, _Parts of Classes_, Oxford: Blackwell.
-* Libardi, M., 1990, _Teorie delle parti e dell'intero. Mereologie estensionali_, Trento: Quaderni del Centro Studi per la Filosofia Mitteleoropea.
-* Link, G., 1998, _Algebraic Semantics in Language and Philosophy_, Stanford (CA): CSLI Publications.
-* Luschei, E. C., 1965, _The Logical Systems of Leśniewski_, Amsterdam: North-Holland.
-* Mann, W. R. and Varzi, A. C. (eds.), 2006, _Parts and Wholes_, special issue of the _Journal of Philosophy_, 103: 593–754.
-* Martin, R., 1988, _Metaphysical Foundations: Mereology and Metalogic_, Munich: Philosophia.
-* –––, 1992, _Logical Semiotics and Mereology_, Amsterdam: Benjamins.
-* Meirav, A., 2003, _Wholes, Sums and Unities_, Dordrecht: Kluwer.
-* Miéville, D., 1984, _Un développement des systèmes logiques de Stanisław Leśniewski. Protothétique - Ontologie - Méréologie_, Berne: Lang.
-* ––– (ed.), 2001, _Méréologie et modalités. Aspects critiques et développements_, special issue of _Travaux de logique_, 14: 1–171.
-* Moltmann, F., 1997, _Parts and Wholes in Semantics_, Oxford: Oxford University Press.
-* Pietruszczak, A., 2000, _Metamereologia_, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika.
-* –––, 2013, _Podstawy teorii cześci_, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika.
-* Ridder, L., 2002, _Mereologie. Ein Beitrag zur Ontologie und Erkenntnistheorie_, Frankfurt: Klostermann.
-* Sällström, P. (ed.), 1983–1986, _Parts & Wholes: An Inventory of Present Thinking about Parts and Wholes_, 4 vols., Stockholm: Forskningsrådsnämnden.
-* Simons, P. M., 1987, _Parts. A Study in Ontology_, Oxford: Clarendon Press.
-* Srzednicki, J. T. J. and Rickey, V. F. (eds.), 1984, _Leśniewski's Systems: Ontology and Mereology_, Dordrecht: Kluwer.
-* Urbaniak, R., 2013, _Leśniewski's Systems of Logic and Foundations of Mathematics_, Berlin: Springer.
+* Albertazzi, L. and Libardi, M. (eds.), 1994, *Mereologies*, special issue of *Axiomathes*, 5: 1–175.
+* Asenjo, F. G., 1962, *El todo y las partes: Estudios de ontología formal*, Madrid: Editorial Tecnos.
+* Baxter, D. L. M. and Cotnoir, A. J. (eds.), 2014, *Composition as Identity*, Oxford: Oxford University Press.
+* Burkhardt, H., Seibt, J. and Imaguire, G. (eds.), 2016, *Handbook of Mereology*, Munich: Philosophia (forthcoming).
+* Calosi, C. and Graziani, P. (eds.), 2014, *Mereology and the Sciences. Parts and Wholes in the Contemporary Scientific Context*, Berlin: Springer.
+* Casati, R. and Varzi, A. C., 1999, *Parts and Places: The Structures of Spatial Representation*, Cambridge (MA): MIT Press.
+* Clay, R. E., 1981, *Leśniewski's Mereology*, Cumana: Universidad de Oriente.
+* Eberle, R. A., 1970, *Nominalistic Systems*, Dordrecht: Reidel.
+* Gessler, N., 2005, *Introduction à l'oeuvre de S. Leśniewski, Fascicule III: La méréologie*, Neuchâtel: Centre de Recherches Sémiologiques.
+* Gorzka, C., 2013, *Mereologia a topologia i geometria bezpunktowa*, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika.
+* Grize, J. B., 1972, *Notes sur l’ontologie et la méréologie de Leśniewski*, Neuchâtel: Centre de Recherches Sémiologiques.
+* Gruszczyński, R. and Varzi, A. C. (eds.), 2015, *Beyond Mereology, Part I*, special issue of *Logic and Logical Philosophy*, 24: 409–553.
+* ––– (eds.), 2016, *Beyond Mereology, Part II*, special issue of *Logic and Logical Philosophy* (forthcoming).
+* Harte, V., 2002, *Plato on Parts and Wholes. The Metaphysics of Structure*, New York: Oxford University Press.
+* Hudson, H. (ed.), 2004, *Simples*, special issue of *The Monist*, 87: 303–451.
+* Kleinschmidt, S. (ed.), 2014, *Mereology and Location*, Oxford: Oxford University Press.
+* Koslicki, K., 2008, *The Structure of Objects*, Oxford: Oxford University Press.
+* Lambrix, P. 2000, *Part-Whole Reasoning in an Object-Centered Framework*, Berlin: Springer.
+* Lerner, D. (ed.), 1963, *Parts and Wholes. The Hayden Colloquium on Scientific Method and Concept*, New York: Free Press of Glencoe.
+* Lewis, D. K., 1991, *Parts of Classes*, Oxford: Blackwell.
+* Libardi, M., 1990, *Teorie delle parti e dell'intero. Mereologie estensionali*, Trento: Quaderni del Centro Studi per la Filosofia Mitteleoropea.
+* Link, G., 1998, *Algebraic Semantics in Language and Philosophy*, Stanford (CA): CSLI Publications.
+* Luschei, E. C., 1965, *The Logical Systems of Leśniewski*, Amsterdam: North-Holland.
+* Mann, W. R. and Varzi, A. C. (eds.), 2006, *Parts and Wholes*, special issue of the *Journal of Philosophy*, 103: 593–754.
+* Martin, R., 1988, *Metaphysical Foundations: Mereology and Metalogic*, Munich: Philosophia.
+* –––, 1992, *Logical Semiotics and Mereology*, Amsterdam: Benjamins.
+* Meirav, A., 2003, *Wholes, Sums and Unities*, Dordrecht: Kluwer.
+* Miéville, D., 1984, *Un développement des systèmes logiques de Stanisław Leśniewski. Protothétique - Ontologie - Méréologie*, Berne: Lang.
+* ––– (ed.), 2001, *Méréologie et modalités. Aspects critiques et développements*, special issue of *Travaux de logique*, 14: 1–171.
+* Moltmann, F., 1997, *Parts and Wholes in Semantics*, Oxford: Oxford University Press.
+* Pietruszczak, A., 2000, *Metamereologia*, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika.
+* –––, 2013, *Podstawy teorii cześci*, Toruń: Wydawnictwo Naukowe Uniwersytetu Mikołaja Kopernika.
+* Ridder, L., 2002, *Mereologie. Ein Beitrag zur Ontologie und Erkenntnistheorie*, Frankfurt: Klostermann.
+* Sällström, P. (ed.), 1983–1986, *Parts & Wholes: An Inventory of Present Thinking about Parts and Wholes*, 4 vols., Stockholm: Forskningsrådsnämnden.
+* Simons, P. M., 1987, *Parts. A Study in Ontology*, Oxford: Clarendon Press.
+* Srzednicki, J. T. J. and Rickey, V. F. (eds.), 1984, *Leśniewski's Systems: Ontology and Mereology*, Dordrecht: Kluwer.
+* Urbaniak, R., 2013, *Leśniewski's Systems of Logic and Foundations of Mathematics*, Berlin: Springer.
 
 ## Academic Tools
 
@@ -1162,4 +1160,4 @@ In recent years, further worries have been raised concerning mereological theori
 The author would like to thank Aaron Cotnoir, Maureen Donnelly, Cody Gilmore, Paolo Maffezioli, Anthony Shiver, and an anonymous referee for helpful comments and suggestions.
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
-[Achille Varzi](http://www.columbia.edu/\~av72/) <[_achille.varzi@columbia.edu_](mailto:achille%2evarzi%40columbia%2eedu)>
+[Achille Varzi](http://www.columbia.edu/\~av72/) <[*achille.varzi@columbia.edu*](mailto:achille%2evarzi%40columbia%2eedu)>

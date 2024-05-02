@@ -1,6 +1,6 @@
 # 免疫学哲学 immunology, philosophy of (Bartlomiej Swiatczak and Alfred I. Tauber)
 
-_首次发表于2016年12月22日星期四；实质性修订于2020年5月7日星期四_
+*首次发表于2016年12月22日星期四；实质性修订于2020年5月7日星期四*
 
 免疫学哲学是生物学哲学的一个子领域，涉及与免疫系统研究相关的本体论和认识论问题。虽然推测性研究和抽象分析一直是免疫理论的一部分，但直到最近哲学家们才在很大程度上忽视了免疫学。然而，通过免疫学所提供的有关有机体功能的哲学基础的理解，为生物学和医学的基本问题提供了新的视角。免疫学哲学在医学史、理论生物学和医学人类学的背景下发展起来，与这些相关研究领域不同，它关注传统哲学问题，如身份、个体性、生态学、认知、科学方法论和理论构建。这个广泛的议程源于免疫学的多方面研究计划，该计划从最初的临床挑战中发展起来，包括宿主防御、移植、自身免疫、肿瘤免疫和过敏。除了这些成熟的研究领域外，我们现在还了解到免疫在其他生理功能、发育、生态学和进化机制中起着核心作用。将这些不同的研究领域联系在一起的是以有机体身份为导向的哲学承诺。在这方面，涉及到与认知（免疫感知和信息处理的组织）、个体性的特征（由免疫介导的同化和排斥的生态背景所框定）以及
 
@@ -9,8 +9,6 @@ _首次发表于2016年12月22日星期四；实质性修订于2020年5月7日�
 3. 复杂系统的动力学（被理解为整体性的系统生物学）。
 
 实际上，在认知科学、进化生物学、环境科学和发展中，免疫学为科学哲学提供了多焦点的视角。
-
- 
 
 ***
 
@@ -188,254 +186,254 @@ Jerne的挑衅性假设虽然在构思上优雅且激发了新的研究方向，
 
 ## Bibliography
 
-* Ader, Robert (ed.), 2006, _Psychoneuroimmunology_, 4th edition, Burlington, MA: Elsevier Academic Press.
-* Agamben, Giorgio, 1998, _Homo Sacer: Sovereign Power and Bare Life_, Stanford: Stanford University Press.
-* Anderson, Warwick, 2004, “Natural Histories Of Infectious Disease: Ecological Vision In Twentieth-Century Biomedical Science”, _Osiris_, 19: 39–61. doi:10.1086/649393
-* –––, 2014, “Getting ahead of one’s self? The common culture of immunology and philosophy”, _Isis_, 105(3): 606–616. doi:10.1086/678176
-* Anderson, Warwick and Ian R. Mackay, 2014, “Fashioning the Immunological Self: The Biological Individuality of F. Macfarlane Burnet”, _Journal of the History of Biology_, 47(1): 147–75. doi:10.1007/s10739-013-9352-1
-* Aristotle, _Categories_, translated with notes by J.L. Ackrill, in _>Aristotle’s Categories and De Interpretatione_, Oxford: Clarendon Press, 1963.
-* Aristotle, _Metaphysics_, translated by W.D. Ross, in _Aristotle’s Metaphysics_, Oxford: Clarendon Press, 1924.
-* Baetu, Tudor M., 2014, “Models and the Mosaic of Scientific Knowledge: The Case of Immunology”, _Studies in History and Philosophy of Sciences. Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 45: 49–56. doi:10.1016/j.shpsc.2013.11.003
-* Barbour, Michael G., 1995, “Ecological Fragmentation in the Fifties”, in _Uncommon Ground. Toward Reinventing Nature_, William Cronon (ed.), New York: Norton, pp. 233–255.
-* Baxter, Alan G., 2006, “Self/Nonself Recognition”, In _Autoantibodies and Autoimmunity: Molecular Mechanisms in Health and Disease_, K. Michael Pollard (ed.), Weinheim: Wiley-VCH, pp. 37–61.
-* Ben-Ze’ev, Aaron, 1993, _The Perceptual System: A Philosophical and Psychological Perspective_, New York: Lang.
-* Bekoff, Marc, Collin Allen, and Gordon M. Burghardt, 2002, _The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition_, Cambridge, MA: MIT Press.
-* Ben Jacob, Eshel, Israela Becker, Yoash Shapira, and Herbert Levine, 2004, “Bacterial Linguistic Communication and Social Intelligence”, _Trends in Microbiology_, 12(8): 366–372. doi:10.1016/j.tim.2004.06.006
-* Ben Jacob, Eshel, Donald S. Coffey, and Herbert Levine, 2012, “Bacterial Survival Strategies Suggest Rethinking Cancer Cooperativity”, _Trends in Microbiology_, 20(9): 403–10. doi:10.1016/j.tim.2012.06.001
-* Ben Jacob, Eshel, Yoash Shapira, and Alfred I. Tauber, 2005, “Seeking the Foundations of Cognition in Bacteria: from Schrödinger’s Negative Entropy to Functional Information”, _Physica A_, 359: 495–524. doi:10.1016/j.physa.2005.05.096
-* Bilate, Angelina M. and Juan J. LaFaille, 2012, “Induced CD4+Fox3+ Regulatory T Cells in Immune Tolerance”, _Annual Review of Immunology_, 30: 733–58. doi:10.1146/annurev-immunol-020711-075043
-* Bokulich N.A., J. Chung, T. Battaglia, N. Henderson, M. Jay, H.Li, A.D. Lieber, F. Wu, G.I. Perez-Perez, Y. Chen, W. Schweizer, X. Zheng, M. Contreras, M.G. Dominguez-Bello, and M.J. Blaser, 2016, “Antibiotics, Birth Mode, and Diet Shape Microbiome Maturation During Early Life”, _Science Translational Medicine_, 8(343): 343ra82. doi:10.1126/scitranslmed.aad7121
+* Ader, Robert (ed.), 2006, *Psychoneuroimmunology*, 4th edition, Burlington, MA: Elsevier Academic Press.
+* Agamben, Giorgio, 1998, *Homo Sacer: Sovereign Power and Bare Life*, Stanford: Stanford University Press.
+* Anderson, Warwick, 2004, “Natural Histories Of Infectious Disease: Ecological Vision In Twentieth-Century Biomedical Science”, *Osiris*, 19: 39–61. doi:10.1086/649393
+* –––, 2014, “Getting ahead of one’s self? The common culture of immunology and philosophy”, *Isis*, 105(3): 606–616. doi:10.1086/678176
+* Anderson, Warwick and Ian R. Mackay, 2014, “Fashioning the Immunological Self: The Biological Individuality of F. Macfarlane Burnet”, *Journal of the History of Biology*, 47(1): 147–75. doi:10.1007/s10739-013-9352-1
+* Aristotle, *Categories*, translated with notes by J.L. Ackrill, in *>Aristotle’s Categories and De Interpretatione*, Oxford: Clarendon Press, 1963.
+* Aristotle, *Metaphysics*, translated by W.D. Ross, in *Aristotle’s Metaphysics*, Oxford: Clarendon Press, 1924.
+* Baetu, Tudor M., 2014, “Models and the Mosaic of Scientific Knowledge: The Case of Immunology”, *Studies in History and Philosophy of Sciences. Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 45: 49–56. doi:10.1016/j.shpsc.2013.11.003
+* Barbour, Michael G., 1995, “Ecological Fragmentation in the Fifties”, in *Uncommon Ground. Toward Reinventing Nature*, William Cronon (ed.), New York: Norton, pp. 233–255.
+* Baxter, Alan G., 2006, “Self/Nonself Recognition”, In *Autoantibodies and Autoimmunity: Molecular Mechanisms in Health and Disease*, K. Michael Pollard (ed.), Weinheim: Wiley-VCH, pp. 37–61.
+* Ben-Ze’ev, Aaron, 1993, *The Perceptual System: A Philosophical and Psychological Perspective*, New York: Lang.
+* Bekoff, Marc, Collin Allen, and Gordon M. Burghardt, 2002, *The Cognitive Animal: Empirical and Theoretical Perspectives on Animal Cognition*, Cambridge, MA: MIT Press.
+* Ben Jacob, Eshel, Israela Becker, Yoash Shapira, and Herbert Levine, 2004, “Bacterial Linguistic Communication and Social Intelligence”, *Trends in Microbiology*, 12(8): 366–372. doi:10.1016/j.tim.2004.06.006
+* Ben Jacob, Eshel, Donald S. Coffey, and Herbert Levine, 2012, “Bacterial Survival Strategies Suggest Rethinking Cancer Cooperativity”, *Trends in Microbiology*, 20(9): 403–10. doi:10.1016/j.tim.2012.06.001
+* Ben Jacob, Eshel, Yoash Shapira, and Alfred I. Tauber, 2005, “Seeking the Foundations of Cognition in Bacteria: from Schrödinger’s Negative Entropy to Functional Information”, *Physica A*, 359: 495–524. doi:10.1016/j.physa.2005.05.096
+* Bilate, Angelina M. and Juan J. LaFaille, 2012, “Induced CD4+Fox3+ Regulatory T Cells in Immune Tolerance”, *Annual Review of Immunology*, 30: 733–58. doi:10.1146/annurev-immunol-020711-075043
+* Bokulich N.A., J. Chung, T. Battaglia, N. Henderson, M. Jay, H.Li, A.D. Lieber, F. Wu, G.I. Perez-Perez, Y. Chen, W. Schweizer, X. Zheng, M. Contreras, M.G. Dominguez-Bello, and M.J. Blaser, 2016, “Antibiotics, Birth Mode, and Diet Shape Microbiome Maturation During Early Life”, *Science Translational Medicine*, 8(343): 343ra82. doi:10.1126/scitranslmed.aad7121
 * Bonabeau, Eric, 2001, “Control Mechanisms for Distributed Autonomous Systems: Insights from the Social Insects”, in Segel and Cohen 2001: 281–292.
-* Brigandt, Ingo, 2010, “Beyond Reduction and Pluralism: Toward an Epistemology of Explanatory Integration in Biology”, _Erkenntnis_, 73(3): 295–311. doi:10.1007/s10670-010-9233-3
-* Burnet, Frank Macfarlane, 1957, “A Modification of Jerne’s Theory of Antibody Production using the Concept of Clonal Selection”, _The Australian Journal of Science_, 20(3): 67–69.
-* –––, 1959, _The Clonal Selection Theory of Acquired Immunity_, Nashville, TN: Vanderbilt University Press.
-* –––, 1965, “The Darwinian Approach to Immunity”, in _Molecular and Cellular Basis of Antibody Formation_, Jaroslav Šterzl (ed.), New York: Academic Press, pp. 17–20.
-* –––, 1969, _Self and Not-Self. Cellular Immunology Book I_, Melbourne: Melbourne University Press.
-* –––, 1971, _Dominant Mammal. The Biology of Human Destiny_, Harmondsworth, Middlesex: Penguin Books.
-* Burnet, Frank Macfarlane and Frank Fenner, 1949, _The Production of Antibodies_, 2nd ed., Melbourne: Macmillan and Company.
-* Burnet, Frank Macfarlane and David O. White, 1972, _Natural History of Infectious Disease_, Cambridge: Cambridge University Press.
-* Burzyn, Dalia, Christophe Benoist and Diane Mathis, 2013, “Regulatory T Cells in Nonlymphoid Tissues”, _Nature Immunology_, 14(10): 1007–1013. doi:10.1038/ni.2683
-* Buss, Leo, 1987, _The Evolution of Individuality_, Princeton, NJ: Princeton University Press.
+* Brigandt, Ingo, 2010, “Beyond Reduction and Pluralism: Toward an Epistemology of Explanatory Integration in Biology”, *Erkenntnis*, 73(3): 295–311. doi:10.1007/s10670-010-9233-3
+* Burnet, Frank Macfarlane, 1957, “A Modification of Jerne’s Theory of Antibody Production using the Concept of Clonal Selection”, *The Australian Journal of Science*, 20(3): 67–69.
+* –––, 1959, *The Clonal Selection Theory of Acquired Immunity*, Nashville, TN: Vanderbilt University Press.
+* –––, 1965, “The Darwinian Approach to Immunity”, in *Molecular and Cellular Basis of Antibody Formation*, Jaroslav Šterzl (ed.), New York: Academic Press, pp. 17–20.
+* –––, 1969, *Self and Not-Self. Cellular Immunology Book I*, Melbourne: Melbourne University Press.
+* –––, 1971, *Dominant Mammal. The Biology of Human Destiny*, Harmondsworth, Middlesex: Penguin Books.
+* Burnet, Frank Macfarlane and Frank Fenner, 1949, *The Production of Antibodies*, 2nd ed., Melbourne: Macmillan and Company.
+* Burnet, Frank Macfarlane and David O. White, 1972, *Natural History of Infectious Disease*, Cambridge: Cambridge University Press.
+* Burzyn, Dalia, Christophe Benoist and Diane Mathis, 2013, “Regulatory T Cells in Nonlymphoid Tissues”, *Nature Immunology*, 14(10): 1007–1013. doi:10.1038/ni.2683
+* Buss, Leo, 1987, *The Evolution of Individuality*, Princeton, NJ: Princeton University Press.
 * Casadevall, Arturo and Liise-anne Pirofski, 2015, “What is a Host? Incorporating the Microbiota into the Damage-Response Framework”, _Infection and Immunit_y, 83(1): 2–7. doi:10.1128/IAI.02627-14.
-* Casadevall, Arturo, Ferric C. Fang, and Liise-anne Pirofski, 2011, “Microbial Virulence as an Emergent Property: Consequences and Opportunities”, _PLoS Pathogens_, 7(7): e1002136. doi:10.1371/journal.ppat.1002136
-* Chiu, Lynn and Scott F. Gilbert, 2015, “The Birth of the Holobiont: Multi-species Birthing Through Mutual Scaffolding and Niche Construction”, _Biosemiotics_, 8(2): 191–210. doi:10.1007/s12304-015-9232-5
-* Churchland, Paul M., 1989, _A Neurocomputational Perspective, The Nature of Mind and the Structure of Science_, Cambridge, MA: MIT Press.
-* Clarke, Ellen, 2010, “The Problem of Biological Individuality”, _Biological Theory_, 5: 312–325. doi:10.1162/BIOT\_a\_00068
-* Cohen, Irun R., 1992a, “The Cognitive Principle Challenges Clonal Selection”, _Immunology Today_, 13(1): 441–444. doi:10.1016/0167-5699(92)90071-E
-* –––, 1992b, “The Cognitive Paradigm and the Immunological Homunculus”, _Immunology Today_, 13(12): 490–494. doi:10.1016/0167-5699(92)90024-2
-* –––, 2000, _Tending Adam’s Garden: Evolving the Cognitive Immune Self_, New York: Academic Press.
-* –––, 2007a, “Biomarkers, Self-antigens, and the Immunological Homunculus”, _Journal of Autoimmunity_, 29(4): 246–9. doi:10.1016/j.jaut.2007.07.016
-* –––, 2007b, “Real and Artificial Immune Systems: Computing the State of the Body”, _Nature Reviews Immunology_, 7(7): 569–74. doi:10.1038/nri2102
-* Cohen, Irun R. and Sol Efroni, 2019, “The immune System Computes the State of the Body: Crowd Wisdom, Machine Learning, and Immune Cell Reference Repertoires Help Manage Inflammation”, _Frontiers in Immunology_, 10: 10. doi:10.3389/fimmu.2019.00010
-* Cohn, Melvin, 2015, “Autoimmunity: Rationalizing Possible Pathways from Initiation to Disease”, _Journal of Theoretical Biology_, 375: 40–51. doi:10.1016/j.jtbi.2014.05.030
-* Coutinho, Antonio, 1989, “Beyond Clonal Selection and Network”, _Immunological Reviews_, 110: 63–88. doi:10.1111/j.1600-065X.1989.tb00027.x
-* –––, 2003, “A Walk with Francisco Varela from First- to Second-generation Networks: In Search of the Structure, Dynamics and Metadynamics of An Organism-centered Immune System”, _Biological Research_, 36(1): 17–26. doi:10.4067/S0716-97602003000100004
-* Craver, Carl F., 2005, “Beyond Reduction: Mechanisms, Multifield Integration and the Unity of Neuroscience”, _Studies in History and Philosophy of Biological and Biomedical Sciences_, 36(2): 373–395. doi:10.1016/j.shpsc.2005.03.008
-* Crist, Eileen and Alfred I. Tauber, 2000, “Selfhood, Immunity, and the Biological Imagination: The Thought of Frank Macfarlane Burnet”, _Biology & Philosophy_, 15(4): 509–533. doi:10.1023/A:1006657124783
-* Daëron, Marc, 2014, “Fc Receptors as Adaptive Immunoreceptors”, in _Fc Receptors_, Marc Daeron and Falk Nimmerjahn (eds.), (Current Topics in Microbiology and Immunology 382), Cham: Springer International Publishing, 131–164. doi:10.1007/978-3-319-07911-0\_7
-* Darden, Lindley and Joseph A. Cain, 1989, “Selection Type Theories”, _Philosophy of Science_, 56(1): 106–129. doi:10.1086/289475
-* Davies, Luke C., Stephen J. Jenkins, Judith E. Allen, and Philip R. Taylor, 2013, “Tissue-Resident Macrophages”, _Nature Immunology_, 14(10): 986–995. doi:10.1038/ni.2705
-* Davis, Daniel M., 2014, _The Compatibility Gene_, Oxford: Oxford University Press.
-* Dennett, Daniel C., 1987, _The Intentional Stance_, Cambridge, MA: The MIT Press.
-* –––, 1991, _Consciousness Explained_, Boston: Little Brown.
-* Depew, David J. and Bruce H. Weber, 1996, _Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection_, Cambridge, MA: MIT Press.
-* Derecki N.C., A.N. Cardani, C.H. Yang, K.M. Quinnies, A. Crihfield, K.R. Lynch, and J. Kipnis, 2010, “Regulation of Learning and Memory by Meningeal Immunity: a Key Role for IL-4”, _The Journal of Experimental Medicine_, 207(5): 1067–1080. doi:10.1084/jem.20091419
-* Derrida, Jacques, 2003, “Autoimmunity: Real and Symbolic Suicides” in _Philosophy in a Time of Terror: Dialogues with Jurgen Habermas and Jacques Derrida_, Borradori Giovanna (ed.), Chicago: The University of Chicago Press, pp. 85–136.
-* Dobzhansky, Theodosius, 1970, _Genetics of the Evolutionary Process_, New York and London: Columbia University Press.
-* Dumouchel, Paul, 1996, “Natural Selection and Selection Type Theories”, in _in Québec Studies in the Philosophy of Science_, Mathieu Marion and Robert S. Cohen (eds.), (Boston Studies in the Philosophy of Science 178), Dordrecht: Springer Netherlands, 13–24. doi:10.1007/978-94-009-0113-1\_2
-* Dupré, John, 1993, _The Disorder of Things: Metaphysical Foundations of the Disunity of Science_, Cambridge, MA: Harvard University Press.
-* –––, 2014, “Animalism and the Persistence of Human Organisms”, _The Southern Journal of Philosophy_, Spindel Supplement, 52: 6–23. doi:10.1111/sjp.12065
-* –––, 2017, “Metaphysics of Metamorphosis”, _Aeon_, URL = <[Science and metaphysics must work together to answer life’s deepest questions | Aeon Essays](https://aeon.co/essays/science-and-metaphysics-must-work-together-to-answer-lifes-deepest-questions)>
-* Eberl, Gérard, 2010, “A New Vision of Immunity: Homeostasis of the Superorganism”, _Mucosal Immunology_, 3: 450–460. doi:10.1038/mi.2010.20
-* –––, 2016, “Immunity by Equilibrium”, _Nature Reviews Immunology_, 16(8): 524–532. doi:10.1038/nri.2016.75
-* Edelman, Gerald M., 1974, “The Problem of Molecular Recognition by a Selective System”, in _Studies in the Philosophy of Biology_, Francisco Jose Ayala and Theodosius Dobzhansky (eds), London: Palgrave, pp. 45–56.
-* –––, 1987, _Natural Darwinism: The Theory of Neuronal Group Selection_, New York: Basic Books.
-* Eichmann, Klaus, 2008, _The Network Collective: Rise and Fall of a Scientific Paradigm_, Basel, Switzerland: Birkhäuser.
-* Erlebacher, Adrian, 2013, “Immunology of the Maternal-Fetal Interface”, _Annual Review of Immunology_, 31(1): 387–411. doi:10.1146/annurev-immunol-032712-100003
-* Esposito, Roberto, 2011, _Immunitas. The Protection and Negation of Life_, Cambridge: Polity.
-* Fagan, Melinda Bonnie, 2007, “The Search for the Hematopoietic Stem Cell: Social Interaction and Epistemic Success in Immunology”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 38(1): 217–237. doi:10.1016/j.shpsc.2006.12.010
-* –––, 2009, “Fleck and the Social Constitution of Scientific Objectivity”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 40(4): 272–225. doi:10.1016/j.shpsc.2009.09.005
-* Fang, Ferric C. and Arturo Casadevall, 2011, “Reductionistic and Holistic Science”, _Infection and Immunity_, 79(4): 1401–1404. doi:10.1128/IAI.01343-10
-* Filiano A.J., Y. Xu, N.J. Tustison, R.L. Marsh, W. Baker, I. Smirnov, C.C. Overall, S.P. Gadani, S.D. Turner, Z. Weng, S.N. Peerzade, H. Chen, K.S. Lee, M.M. Scott, M.P. Beenhakker, V. Litvak, and J. Kipnis, 2016, “Unexpected Role of Interferon-γ in Regulating Neuronal Connectivity and Social Behaviour”, _Nature_, 535(7612): 425–429. doi:10.1038/nature18626
-* Fleck, Ludwik, 1935 \[1979], _Entstehung und Entwicklung einer wissenschaftlichen Tatsache_, Basel: Schwabe. Translated as _Genesis and Development of a Scientific Fact_, Frederick Bradley and Thaddeus J. Trenn (trans), Chicago: The University of Chicago Press.
-* Fodor, Jerry A., 1974, “Special Sciences (or: The Disunity of Science as a Working Hypothesis)”, _Synthese_, 28(2): 97–115. doi:10.1007/BF00485230
-* Forbes, Stuart J. and Nadia Rosenthal, 2014, “Preparing the Ground for Tissue Regeneration: From Mechanism to Therapy”, _Nature Medicine_, 20(8): 857–869. doi:10.1038/nm.3653
+* Casadevall, Arturo, Ferric C. Fang, and Liise-anne Pirofski, 2011, “Microbial Virulence as an Emergent Property: Consequences and Opportunities”, *PLoS Pathogens*, 7(7): e1002136. doi:10.1371/journal.ppat.1002136
+* Chiu, Lynn and Scott F. Gilbert, 2015, “The Birth of the Holobiont: Multi-species Birthing Through Mutual Scaffolding and Niche Construction”, *Biosemiotics*, 8(2): 191–210. doi:10.1007/s12304-015-9232-5
+* Churchland, Paul M., 1989, *A Neurocomputational Perspective, The Nature of Mind and the Structure of Science*, Cambridge, MA: MIT Press.
+* Clarke, Ellen, 2010, “The Problem of Biological Individuality”, *Biological Theory*, 5: 312–325. doi:10.1162/BIOT\_a\_00068
+* Cohen, Irun R., 1992a, “The Cognitive Principle Challenges Clonal Selection”, *Immunology Today*, 13(1): 441–444. doi:10.1016/0167-5699(92)90071-E
+* –––, 1992b, “The Cognitive Paradigm and the Immunological Homunculus”, *Immunology Today*, 13(12): 490–494. doi:10.1016/0167-5699(92)90024-2
+* –––, 2000, *Tending Adam’s Garden: Evolving the Cognitive Immune Self*, New York: Academic Press.
+* –––, 2007a, “Biomarkers, Self-antigens, and the Immunological Homunculus”, *Journal of Autoimmunity*, 29(4): 246–9. doi:10.1016/j.jaut.2007.07.016
+* –––, 2007b, “Real and Artificial Immune Systems: Computing the State of the Body”, *Nature Reviews Immunology*, 7(7): 569–74. doi:10.1038/nri2102
+* Cohen, Irun R. and Sol Efroni, 2019, “The immune System Computes the State of the Body: Crowd Wisdom, Machine Learning, and Immune Cell Reference Repertoires Help Manage Inflammation”, *Frontiers in Immunology*, 10: 10. doi:10.3389/fimmu.2019.00010
+* Cohn, Melvin, 2015, “Autoimmunity: Rationalizing Possible Pathways from Initiation to Disease”, *Journal of Theoretical Biology*, 375: 40–51. doi:10.1016/j.jtbi.2014.05.030
+* Coutinho, Antonio, 1989, “Beyond Clonal Selection and Network”, *Immunological Reviews*, 110: 63–88. doi:10.1111/j.1600-065X.1989.tb00027.x
+* –––, 2003, “A Walk with Francisco Varela from First- to Second-generation Networks: In Search of the Structure, Dynamics and Metadynamics of An Organism-centered Immune System”, *Biological Research*, 36(1): 17–26. doi:10.4067/S0716-97602003000100004
+* Craver, Carl F., 2005, “Beyond Reduction: Mechanisms, Multifield Integration and the Unity of Neuroscience”, *Studies in History and Philosophy of Biological and Biomedical Sciences*, 36(2): 373–395. doi:10.1016/j.shpsc.2005.03.008
+* Crist, Eileen and Alfred I. Tauber, 2000, “Selfhood, Immunity, and the Biological Imagination: The Thought of Frank Macfarlane Burnet”, *Biology & Philosophy*, 15(4): 509–533. doi:10.1023/A:1006657124783
+* Daëron, Marc, 2014, “Fc Receptors as Adaptive Immunoreceptors”, in *Fc Receptors*, Marc Daeron and Falk Nimmerjahn (eds.), (Current Topics in Microbiology and Immunology 382), Cham: Springer International Publishing, 131–164. doi:10.1007/978-3-319-07911-0\_7
+* Darden, Lindley and Joseph A. Cain, 1989, “Selection Type Theories”, *Philosophy of Science*, 56(1): 106–129. doi:10.1086/289475
+* Davies, Luke C., Stephen J. Jenkins, Judith E. Allen, and Philip R. Taylor, 2013, “Tissue-Resident Macrophages”, *Nature Immunology*, 14(10): 986–995. doi:10.1038/ni.2705
+* Davis, Daniel M., 2014, *The Compatibility Gene*, Oxford: Oxford University Press.
+* Dennett, Daniel C., 1987, *The Intentional Stance*, Cambridge, MA: The MIT Press.
+* –––, 1991, *Consciousness Explained*, Boston: Little Brown.
+* Depew, David J. and Bruce H. Weber, 1996, *Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection*, Cambridge, MA: MIT Press.
+* Derecki N.C., A.N. Cardani, C.H. Yang, K.M. Quinnies, A. Crihfield, K.R. Lynch, and J. Kipnis, 2010, “Regulation of Learning and Memory by Meningeal Immunity: a Key Role for IL-4”, *The Journal of Experimental Medicine*, 207(5): 1067–1080. doi:10.1084/jem.20091419
+* Derrida, Jacques, 2003, “Autoimmunity: Real and Symbolic Suicides” in *Philosophy in a Time of Terror: Dialogues with Jurgen Habermas and Jacques Derrida*, Borradori Giovanna (ed.), Chicago: The University of Chicago Press, pp. 85–136.
+* Dobzhansky, Theodosius, 1970, *Genetics of the Evolutionary Process*, New York and London: Columbia University Press.
+* Dumouchel, Paul, 1996, “Natural Selection and Selection Type Theories”, in *in Québec Studies in the Philosophy of Science*, Mathieu Marion and Robert S. Cohen (eds.), (Boston Studies in the Philosophy of Science 178), Dordrecht: Springer Netherlands, 13–24. doi:10.1007/978-94-009-0113-1\_2
+* Dupré, John, 1993, *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*, Cambridge, MA: Harvard University Press.
+* –––, 2014, “Animalism and the Persistence of Human Organisms”, *The Southern Journal of Philosophy*, Spindel Supplement, 52: 6–23. doi:10.1111/sjp.12065
+* –––, 2017, “Metaphysics of Metamorphosis”, *Aeon*, URL = <[Science and metaphysics must work together to answer life’s deepest questions | Aeon Essays](https://aeon.co/essays/science-and-metaphysics-must-work-together-to-answer-lifes-deepest-questions)>
+* Eberl, Gérard, 2010, “A New Vision of Immunity: Homeostasis of the Superorganism”, *Mucosal Immunology*, 3: 450–460. doi:10.1038/mi.2010.20
+* –––, 2016, “Immunity by Equilibrium”, *Nature Reviews Immunology*, 16(8): 524–532. doi:10.1038/nri.2016.75
+* Edelman, Gerald M., 1974, “The Problem of Molecular Recognition by a Selective System”, in *Studies in the Philosophy of Biology*, Francisco Jose Ayala and Theodosius Dobzhansky (eds), London: Palgrave, pp. 45–56.
+* –––, 1987, *Natural Darwinism: The Theory of Neuronal Group Selection*, New York: Basic Books.
+* Eichmann, Klaus, 2008, *The Network Collective: Rise and Fall of a Scientific Paradigm*, Basel, Switzerland: Birkhäuser.
+* Erlebacher, Adrian, 2013, “Immunology of the Maternal-Fetal Interface”, *Annual Review of Immunology*, 31(1): 387–411. doi:10.1146/annurev-immunol-032712-100003
+* Esposito, Roberto, 2011, *Immunitas. The Protection and Negation of Life*, Cambridge: Polity.
+* Fagan, Melinda Bonnie, 2007, “The Search for the Hematopoietic Stem Cell: Social Interaction and Epistemic Success in Immunology”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 38(1): 217–237. doi:10.1016/j.shpsc.2006.12.010
+* –––, 2009, “Fleck and the Social Constitution of Scientific Objectivity”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(4): 272–225. doi:10.1016/j.shpsc.2009.09.005
+* Fang, Ferric C. and Arturo Casadevall, 2011, “Reductionistic and Holistic Science”, *Infection and Immunity*, 79(4): 1401–1404. doi:10.1128/IAI.01343-10
+* Filiano A.J., Y. Xu, N.J. Tustison, R.L. Marsh, W. Baker, I. Smirnov, C.C. Overall, S.P. Gadani, S.D. Turner, Z. Weng, S.N. Peerzade, H. Chen, K.S. Lee, M.M. Scott, M.P. Beenhakker, V. Litvak, and J. Kipnis, 2016, “Unexpected Role of Interferon-γ in Regulating Neuronal Connectivity and Social Behaviour”, *Nature*, 535(7612): 425–429. doi:10.1038/nature18626
+* Fleck, Ludwik, 1935 \[1979], *Entstehung und Entwicklung einer wissenschaftlichen Tatsache*, Basel: Schwabe. Translated as *Genesis and Development of a Scientific Fact*, Frederick Bradley and Thaddeus J. Trenn (trans), Chicago: The University of Chicago Press.
+* Fodor, Jerry A., 1974, “Special Sciences (or: The Disunity of Science as a Working Hypothesis)”, *Synthese*, 28(2): 97–115. doi:10.1007/BF00485230
+* Forbes, Stuart J. and Nadia Rosenthal, 2014, “Preparing the Ground for Tissue Regeneration: From Mechanism to Therapy”, *Nature Medicine*, 20(8): 857–869. doi:10.1038/nm.3653
 * Forrest, Stephanie and Steven A. Hofmeyr, 2001, “Immunology as Information Processing”, in Segel and Cohen 2001: 361–387.
-* Foucault, Michel, 1963 \[1973], _Naissance de la clinique: une archéologie du regard médical_, Paris : Presses Universitaires de France. Translated as _The Birth of the Clinic: An Archaeology of Medical Perception_, A. M. Sheridan Smith (trans.), New York: Vintage, 1973.
-* Fox Keller, Evelyn, 2002, _Making Sense of Life. Explaining Biological Development with Models, Metaphors and Machines_, Cambridge, MA; Harvard University Press.
-* Fridman, Wolf-H., 1991, _Le Cerveau Mobile_, Paris: Hermann.
-* Geaney, Jane, 2011, “Self as Container? Metaphors We Lose by in Understanding Early Chinese Texts”, _Antiqvorm Philosophia: An International Journal_, 5: 11–30.
-* Gibson, James J., 1966, _The Senses Considered as Perceptual Systems_, Boston, MA: Houghton Mifflin.
-* –––, 1979, _The Ecological Approach to Visual Perception_, Boston, MA: Houghton Mifflin.
-* Gieryn, Thomas F., 1995, “Boundaries of Science”, in _Handbook of Science and Technology Studies_, Sheila Jasanoff, Gerald E. Markle, James C. Peterson, and Trevor Pinch (eds), Thousand Oaks, CA: Sage, pp. 393–443.
-* Gilbert, Charles D., 2013, “Intermediate-level Visual Processing and Visual Primitives”, in _Principles of Neuroscience_, fifth edition, Eric R. Kandel, James H. Schwartz, Thomas M. Jessell, Steven A. Siegelbaum, A. J. Hudspeth (eds), New York: McGraw-Hill Professional, pp. 602–620.
-* Gilbert, Scott F. and David Epel, 2015, _Ecological Developmental Biology: The Environmental Regulation of Development, Health, and Evolution_, Sunderland, MA: Sinauer Associates.
-* Gilbert, Scott F., Jan Sapp, and Alfred I. Tauber, 2012, “A Symbiotic View of Life: We Have Never Been Individuals”, _Quarterly Review of Biology_, 87(4): 325–341. doi:10.1086/668166
-* Gilbert, Scott F. and Sahotra Sarkar, 2000, “Embracing Complexity: Organicism for the 21st Century”, _Developmental Dynamics_, 219(1): 1–9.
-* Gissis, Snait B. and Eva Jablonka (eds), 2011, _Transformations of Lamarckism: From Subtle Fluids to Molecular Biology_, Cambridge, MA: MIT Press.
-* Godfrey-Smith, Peter, 2009, _Darwinian Populations and Natural Selection_, Oxford: Oxford University Press.
-* Gomez de Agüero M., S.C. Ganal-Vonarburg, T. Fuhrer, S. Rupp, Y. Uchimura, H. Li, A. Steinert, M. Heikenwalder, S. Hapfelmeier, U. Sauer, K.D. McCoy, A.J. Macpherson, 2016, “The Maternal Microbiota Drives Early Postnatal Innate Immune Development”, _Science_, 351(6279): 1296–1302. doi:10.1126/science.aad2571
+* Foucault, Michel, 1963 \[1973], *Naissance de la clinique: une archéologie du regard médical*, Paris : Presses Universitaires de France. Translated as *The Birth of the Clinic: An Archaeology of Medical Perception*, A. M. Sheridan Smith (trans.), New York: Vintage, 1973.
+* Fox Keller, Evelyn, 2002, *Making Sense of Life. Explaining Biological Development with Models, Metaphors and Machines*, Cambridge, MA; Harvard University Press.
+* Fridman, Wolf-H., 1991, *Le Cerveau Mobile*, Paris: Hermann.
+* Geaney, Jane, 2011, “Self as Container? Metaphors We Lose by in Understanding Early Chinese Texts”, *Antiqvorm Philosophia: An International Journal*, 5: 11–30.
+* Gibson, James J., 1966, *The Senses Considered as Perceptual Systems*, Boston, MA: Houghton Mifflin.
+* –––, 1979, *The Ecological Approach to Visual Perception*, Boston, MA: Houghton Mifflin.
+* Gieryn, Thomas F., 1995, “Boundaries of Science”, in *Handbook of Science and Technology Studies*, Sheila Jasanoff, Gerald E. Markle, James C. Peterson, and Trevor Pinch (eds), Thousand Oaks, CA: Sage, pp. 393–443.
+* Gilbert, Charles D., 2013, “Intermediate-level Visual Processing and Visual Primitives”, in *Principles of Neuroscience*, fifth edition, Eric R. Kandel, James H. Schwartz, Thomas M. Jessell, Steven A. Siegelbaum, A. J. Hudspeth (eds), New York: McGraw-Hill Professional, pp. 602–620.
+* Gilbert, Scott F. and David Epel, 2015, *Ecological Developmental Biology: The Environmental Regulation of Development, Health, and Evolution*, Sunderland, MA: Sinauer Associates.
+* Gilbert, Scott F., Jan Sapp, and Alfred I. Tauber, 2012, “A Symbiotic View of Life: We Have Never Been Individuals”, *Quarterly Review of Biology*, 87(4): 325–341. doi:10.1086/668166
+* Gilbert, Scott F. and Sahotra Sarkar, 2000, “Embracing Complexity: Organicism for the 21st Century”, *Developmental Dynamics*, 219(1): 1–9.
+* Gissis, Snait B. and Eva Jablonka (eds), 2011, *Transformations of Lamarckism: From Subtle Fluids to Molecular Biology*, Cambridge, MA: MIT Press.
+* Godfrey-Smith, Peter, 2009, *Darwinian Populations and Natural Selection*, Oxford: Oxford University Press.
+* Gomez de Agüero M., S.C. Ganal-Vonarburg, T. Fuhrer, S. Rupp, Y. Uchimura, H. Li, A. Steinert, M. Heikenwalder, S. Hapfelmeier, U. Sauer, K.D. McCoy, A.J. Macpherson, 2016, “The Maternal Microbiota Drives Early Postnatal Innate Immune Development”, *Science*, 351(6279): 1296–1302. doi:10.1126/science.aad2571
 * Gordon, Deborah M., 2001, “Task Allocation in Ant Colonies”, in Segel and Cohen 2001: 293–301.
-* Gould Stephen J. and Elisabeth A. Lloyd, 1999, “Individuality and Adaptation Across Levels of Selection: How Shall we Name and Generalize the Unit of Darwinism?”, _Proceedings of the National Academy of Science (USA)_, 96(21): 11904–11909. doi:10.1073/pnas.96.21.11904
-* Green, S., M. Şerban, R. Scholl, N. Jones, I. Brigandt, and W. Bechtel, 2017, “Network Analyses in Systems Biology: New Strategies for Dealing with Biological Complexity”, _Synthese_, 195(4), 1751–1777. doi:10.1007/s11229-016-1307-6
-* Griffith O.W., Chavan A.R., Protopapas S., Maziarz J., Romero R., and Wagner G.P., 2017, “Embryo Implantation Evolved from an Ancestral Inflammatory Attachment Reaction”, _Proceedings of the National Academy of Science (USA)_, 114(32): E6566–E6575. doi:10.1073/pnas.1701129114
-* Grignolio, Andrea, Michele Mishto, Ana Maria Caetano Faria, Paolo Garagnani, Claudio Franceschi, and Paolo Tieri, 2014, “Towards a Liquid Self: How Time, Geography, and Life Experiences Reshape the Biological Identity”, _Frontiers in Immunology_, 5: 153. doi:10.3389/fimmu.2014.00153
-* Grossman, Zvi, 2019, “Immunological Paradigms, Mechanisms, and Models: Conceptual Understanding Is a Prerequisite to Effective Modeling”, _Frontiers in Immunology_, 10: 2522. doi:10.3389/fimmu.2019.02522
-* Grossman, Zvi and William E Paul, 1992, “Adaptive Cellular Interactions in the Immune System: The Tunable Activation Threshold and the Significance of Subthreshold Responses”, _Proceedings of the National Academy of Science (USA)_, 89(21): 10365–10369. doi:10.1073/pnas.89.21.10365
-* –––, 2015, “Dynamic Tuning of Lymphocytes: Physiological Basis, Mechanisms, and Function”, _Annual Review of Immunology_, 33: 677–713. doi:10.1146/annurev-immunol-032712-100027
-* Guay, Alexandre and Thomas Pradeu, 2016, “To Be Continued: The Genidentity of Physical and Biological Processes”, in _Individuals Across the Sciences_, Alexandre Guay and Thomas Pradeu (eds), New York: Oxford University Press, pp. 317–347.
-* Haraway, Donna, 1989, “The Biopolitics of Postmodern Bodies: Determinations of Self in Immune System Discourse”, _Differences_, 1: 3–43.
-* Hershberg Uri and Sol Efroni, 2001, “The Immune System and Other Cognitive Systems”, _Complexity_ 6(5): 14–21. doi:10.1002/cplx.1046
-* Hesse, Mary B., 1966, _Models and Analogies in Science_, Notre Dame, IN: University of Notre Dame Press.
-* Hoffman, Steven A., 2012, “The Immunological Self”, _Perspectives in Biology and Medicine_, 55(3): 350–361. doi:10.1353/pbm.2012.0029
-* Horvath, Philippe and Rodolphe Barrangou, 2010, “CRISPR/Cas, the Immune System of Bacteria and Archaea”, _Science_, 327(5962): 167–170. doi:10.1126/science.1179555
-* Howes, Moira, 1998, “The Self of Philosophy and the Self of Immunology”, _Perspectives in Biology and Medicine_, 42(1): 118–130. doi:10.1353/pbm.1998.0046
-* –––, 1999, _Immunology and the Indiscrete Self_, Phd Dissertation, The University of Western Ontario (Canada).
-* –––, 2000, “Self, Intentionality, and Immunological Explanation”, _Seminars in Immunology_, 12(3): 249–256. doi:10.1006/smim.2000.0238
-* –––, 2007, “Maternal Agency and the Immunological Paradox of Pregnancy”, in Harodl Kincaid and Jennifer McKitrick (eds), _Establishing Medical Reality: Essays in the Metaphysics and Epistemology of Biomedical Science_, Dordrecht: Springer, pp. 179–198. doi:10.1007/1-4020-5216-2\_13
+* Gould Stephen J. and Elisabeth A. Lloyd, 1999, “Individuality and Adaptation Across Levels of Selection: How Shall we Name and Generalize the Unit of Darwinism?”, *Proceedings of the National Academy of Science (USA)*, 96(21): 11904–11909. doi:10.1073/pnas.96.21.11904
+* Green, S., M. Şerban, R. Scholl, N. Jones, I. Brigandt, and W. Bechtel, 2017, “Network Analyses in Systems Biology: New Strategies for Dealing with Biological Complexity”, *Synthese*, 195(4), 1751–1777. doi:10.1007/s11229-016-1307-6
+* Griffith O.W., Chavan A.R., Protopapas S., Maziarz J., Romero R., and Wagner G.P., 2017, “Embryo Implantation Evolved from an Ancestral Inflammatory Attachment Reaction”, *Proceedings of the National Academy of Science (USA)*, 114(32): E6566–E6575. doi:10.1073/pnas.1701129114
+* Grignolio, Andrea, Michele Mishto, Ana Maria Caetano Faria, Paolo Garagnani, Claudio Franceschi, and Paolo Tieri, 2014, “Towards a Liquid Self: How Time, Geography, and Life Experiences Reshape the Biological Identity”, *Frontiers in Immunology*, 5: 153. doi:10.3389/fimmu.2014.00153
+* Grossman, Zvi, 2019, “Immunological Paradigms, Mechanisms, and Models: Conceptual Understanding Is a Prerequisite to Effective Modeling”, *Frontiers in Immunology*, 10: 2522. doi:10.3389/fimmu.2019.02522
+* Grossman, Zvi and William E Paul, 1992, “Adaptive Cellular Interactions in the Immune System: The Tunable Activation Threshold and the Significance of Subthreshold Responses”, *Proceedings of the National Academy of Science (USA)*, 89(21): 10365–10369. doi:10.1073/pnas.89.21.10365
+* –––, 2015, “Dynamic Tuning of Lymphocytes: Physiological Basis, Mechanisms, and Function”, *Annual Review of Immunology*, 33: 677–713. doi:10.1146/annurev-immunol-032712-100027
+* Guay, Alexandre and Thomas Pradeu, 2016, “To Be Continued: The Genidentity of Physical and Biological Processes”, in *Individuals Across the Sciences*, Alexandre Guay and Thomas Pradeu (eds), New York: Oxford University Press, pp. 317–347.
+* Haraway, Donna, 1989, “The Biopolitics of Postmodern Bodies: Determinations of Self in Immune System Discourse”, *Differences*, 1: 3–43.
+* Hershberg Uri and Sol Efroni, 2001, “The Immune System and Other Cognitive Systems”, *Complexity* 6(5): 14–21. doi:10.1002/cplx.1046
+* Hesse, Mary B., 1966, *Models and Analogies in Science*, Notre Dame, IN: University of Notre Dame Press.
+* Hoffman, Steven A., 2012, “The Immunological Self”, *Perspectives in Biology and Medicine*, 55(3): 350–361. doi:10.1353/pbm.2012.0029
+* Horvath, Philippe and Rodolphe Barrangou, 2010, “CRISPR/Cas, the Immune System of Bacteria and Archaea”, *Science*, 327(5962): 167–170. doi:10.1126/science.1179555
+* Howes, Moira, 1998, “The Self of Philosophy and the Self of Immunology”, *Perspectives in Biology and Medicine*, 42(1): 118–130. doi:10.1353/pbm.1998.0046
+* –––, 1999, *Immunology and the Indiscrete Self*, Phd Dissertation, The University of Western Ontario (Canada).
+* –––, 2000, “Self, Intentionality, and Immunological Explanation”, *Seminars in Immunology*, 12(3): 249–256. doi:10.1006/smim.2000.0238
+* –––, 2007, “Maternal Agency and the Immunological Paradox of Pregnancy”, in Harodl Kincaid and Jennifer McKitrick (eds), *Establishing Medical Reality: Essays in the Metaphysics and Epistemology of Biomedical Science*, Dordrecht: Springer, pp. 179–198. doi:10.1007/1-4020-5216-2\_13
 * –––, 2008. “Conceptualizing the Maternal-Fetal Relationship in Reproductive Immunology”, in Kroker, Keelan, and Mazumdar 2008: 247–271.
 * –––, 2010, “Self and Nonself”, in Sarkar and Plutynski 2010: 271–286.
-* Hughes, David T. and Vanessa Sperandio, 2008, “Inter-Kingdom Signalling: Communication Between Bacteria and Their Hosts”, _Nature Reviews Microbiology_, 6(2): 111–120. doi:10.1038/nrmicro1836
-* Hull, David L., 1974, _Philosophy of Biological Science_, Englewood Cliffs: Prentice-Hall.
-* –––, 1978, “A Matter of Individuality”, _Philosophy of Science_, 45(3): 335–360. doi:10.1086/288811
-* –––, 1992, “Individual”, in _Keywords in Evolutionary Biology_, Evelyn F. Keller and Elisabeth A. Lloyd (eds), Cambridge, MA: Harvard University Press, pp. 180–187.
-* Hull, David L., Rodney E. Langman, and Sigrid S. Glenn, 2001, “A General Account of Selection: Biology, Immunology, and Behavior”, _Behavioral and Brain Sciences_, 24(3): 511–528. doi:10.1017/S0140525X01004162
-* Hull, David L. and Michael Ruse (eds), 2007, _The Cambridge Companion to the Philosophy of Biology_, New York: Cambridge University Press.
-* Huss, John, 2014, “Methodology and Ontology in Microbiome Research”, _Biological Theory_, 9(4): 392–400. doi:10.1007/s13752-014-0187-6
-* Jablonka, Eva, 2019, “Lamarckian Realities: The CRISPR-Cas System and Beyond”, _Biology and Philosophy_, 34(1). doi:10.1007/s10539-018-9660-0
-* Jablonka, Eva and Marion J. Lamb, 2014, _Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life_, Cambridge, MA: MIT Press.
-* Jerne, Niels K., 1966, “The Natural Selection Theory of Antibody Formation: Ten Years Later”, in _Phage and the Origins of Molecular Biology_, John Cairns, Gunther S. Stent, and James D. Watson (eds), New York: Cold Spring Harbor Laboratory Press, pp. 301–312.
-* –––, 1974, “Towards a Network Theory of the Immune System”, _Annals of Institute Pasteur/Immunology_, (Paris) 125C: 373–389.
-* –––, 1985, “The Generative Grammar of the Immune System”, _EMBO Journal_, 4(4): 847–852.
-* Karasov, William H., Carlos Martínez del Rio, and Enrique Caviedes-Vidal, 2011, “Ecological Physiology of Diet and Digestive Systems”, _Annual Review of Physiology_, 73: 69–93. doi:10.1146/annurev-physiol-012110-142152
-* Kaufman, Dan, 2016, “Locke’s Theory of Identity”, in _A Companion to Locke_, Matthew Stuart (ed.), Chichester, West Sussex, UK: Wiley-Blackwell, pp. 236–259.
-* Kidd, Brian A., Lauren A. Peters, Eric E. Schadt, and Joel T. Dudley, 2014, “Unifying Immunology with Informatics and Multiscale Biology”, _Nature Immunology_, 15(2): 118–127. doi:10.1038/ni.2787
-* Kim, Peter S., Doron Levy, and Peter P. Lee, 2009, “Modeling and Simulation of the Immune System as a Self-regulating Network”, _Methods in Enzymology_, 467: 79–109. doi:10.1016/S0076-6879(09)67004-X
-* Kitano, Hiroaki, 2001, “Systems Biology: Toward System-Level Understanding of Biological Systems”, in _Foundations of Systems Biology_, Hiroaki Kitano (ed.), Cambridge, MA: MIT Press, pp. 1–36.
-* Kitcher, Philip, 1984, “1953 and All That. A Tale of Two Sciences”, _The Philosophical Review_, 93(3): 335–373. doi:10.2307/2184541
-* Koonin, Eugene V., 2012, _The Logic of Chance: The Nature and Origin of Biological Evolution_, Upper Saddle River, NJ: FT Press Science Series.
-* –––, 2019, “CRISPR: A New Principle of Genome Engineering Linked to Conceptual Shifts in Evolutionary Biology”, _Biology and Philosophy_, 34(1). doi:10.1007/s10539-018-9658-7
-* Koonin, Eugene V. and Yuri I. Wolf, 2016, “Just how Lamarckian is CRISPR-Cas Immunity: The Continuum of Evolvability Mechanisms”, _Biology Direct_, 11(1): 9. doi:10.1186/s13062-016-0111-z
-* Kroker, Kenton, Jennifer Keelan, and Pauline M.H. Mazumdar (eds), 2008, _Crafting Immunity: Working Histories of Clinical Immunology_, Aldershot, UK and Burlington, VT: Ashgate Publishing.
-* Kurashima, Yosuke and Hiroshi Kiyono, 2017, “Mucosal Ecological Network of Epithelium and Immune Cells for Gut Homeostasis and Tissue Healing”, _Annual Review of Immunology_, 35: 119–147. doi:10.1146/annurev-immunol-051116-052424
-* Lafferty, Kevin J., 1995, “Politics, Personalities and the Development of Science”, _Immunology and Cell Biology_, 73(1): 1–7. doi:10.1038/icb.1995.1
-* Lakoff, George and Mark Johnson, 1980, _Metaphors We Live By_, Chicago and London: University of Chicago Press
-* Lenz, Kathryn M. and Lars H. Nelson, 2018, “Microglia and Beyond: Innate Immune Cells As Regulators of Brain Development and Behavioral Function”, _Frontiers in Immunology_, 13: 698. doi:10.3389/fimmu.2018.00698
-* León-Letelier, Ricardo A., Laura C. Bonifaz, and Ezequiel M. Fuentes-Pananá, 2019, “OMIC Signatures to Understand Cancer Immunosurveillance and Immunoediting: Melanoma and Immune Cells Interplay in Immunotherapy”, _Journal of Leukocyte Biology_, 105(5): 915–933. doi:10.1002/JLB.MR0618-241RR
-* Lewin, Kurt, 1922, _Der Begriff der Genese in Physik, Biologie und Entwicklungsgeschichte_, Berlin: Springer.
-* Levins, Richard and Richard Lewontin, 1985, _The Dialectical Biologist_, Cambridge, MA: Harvard University Press.
-* Ley, Ruth E., Fredrik Bäckhed, Peter Turnbaugh, Catherine A. Lozupone, Robin D. Knight, and Jeffrey I. Gordon, 2005, “Obesity Alters Gut Microbial Ecology”, _Proceedings of the National Academy of Science (USA)_, 102(31): 11070–11075. doi:10.1073/pnas.0504978102
-* Locke, John, 1689, _An Essay Concerning Human Understanding_, London; reprinted, Philadelphis: James Kay, 1800.
-* Love, Alan C., 2008, “Explaining Evolutionary Innovation and Novelty: Criteria of Adequacy and Multidisciplinary Prerequisites”, _Philosophy of Science_, 75(5): 874–886. doi:10.1086/594531
-* –––, 2018, “Individuation, Individuality, and Experimental Practice in Developmental Biology”, in _Individuation, Process and Scientific Practices_, Otávio Bueno, Ruey- Lin Chen, and Melinda Bonnie Fagan (eds), Oxford University Press, pp. 165–191. doi:10.1093/oso/9780190636814.003.0008
-* Love, Alan C. and Ingo Brigandt, 2017, “Philosophical Dimensions of Individuality”, in Scott Lidgard and Lynn K. Nyhart (eds), _Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives_, Chicago: University of Chicago Press, pp: 318–348.
-* Love, Alan C. and Gary L. Lugar, 2013, “Dimensions of Integration in Interdisciplinary Explanations of the Origin of Evolutionary Novelty”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 537–550. doi:10.1016/j.shpsc.2013.09.008
-* Löwy, Ilana, 1986, “The Epistemology of the Science of an Epistemologist of the Sciences: Ludwik Fleck’s Professional Outlook and Its Relationship to His Philosophical Works”, in _Cognition and Fact_, Robert S. Cohen and Thomas Schnelle (eds.), (Boston Studies in the Philosophy of Science 87), Dordrecht: Springer Netherlands, 421–442. doi:10.1007/978-94-009-4498-5\_22
-* –––, 1991, “The Immunological Construction of the Self”, in _Organism and the Origins of Self_, Alfred I. Tauber (ed.), Dordrecht: Kluwer Academic Publishers, pp. 43–75.
+* Hughes, David T. and Vanessa Sperandio, 2008, “Inter-Kingdom Signalling: Communication Between Bacteria and Their Hosts”, *Nature Reviews Microbiology*, 6(2): 111–120. doi:10.1038/nrmicro1836
+* Hull, David L., 1974, *Philosophy of Biological Science*, Englewood Cliffs: Prentice-Hall.
+* –––, 1978, “A Matter of Individuality”, *Philosophy of Science*, 45(3): 335–360. doi:10.1086/288811
+* –––, 1992, “Individual”, in *Keywords in Evolutionary Biology*, Evelyn F. Keller and Elisabeth A. Lloyd (eds), Cambridge, MA: Harvard University Press, pp. 180–187.
+* Hull, David L., Rodney E. Langman, and Sigrid S. Glenn, 2001, “A General Account of Selection: Biology, Immunology, and Behavior”, *Behavioral and Brain Sciences*, 24(3): 511–528. doi:10.1017/S0140525X01004162
+* Hull, David L. and Michael Ruse (eds), 2007, *The Cambridge Companion to the Philosophy of Biology*, New York: Cambridge University Press.
+* Huss, John, 2014, “Methodology and Ontology in Microbiome Research”, *Biological Theory*, 9(4): 392–400. doi:10.1007/s13752-014-0187-6
+* Jablonka, Eva, 2019, “Lamarckian Realities: The CRISPR-Cas System and Beyond”, *Biology and Philosophy*, 34(1). doi:10.1007/s10539-018-9660-0
+* Jablonka, Eva and Marion J. Lamb, 2014, *Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life*, Cambridge, MA: MIT Press.
+* Jerne, Niels K., 1966, “The Natural Selection Theory of Antibody Formation: Ten Years Later”, in *Phage and the Origins of Molecular Biology*, John Cairns, Gunther S. Stent, and James D. Watson (eds), New York: Cold Spring Harbor Laboratory Press, pp. 301–312.
+* –––, 1974, “Towards a Network Theory of the Immune System”, *Annals of Institute Pasteur/Immunology*, (Paris) 125C: 373–389.
+* –––, 1985, “The Generative Grammar of the Immune System”, *EMBO Journal*, 4(4): 847–852.
+* Karasov, William H., Carlos Martínez del Rio, and Enrique Caviedes-Vidal, 2011, “Ecological Physiology of Diet and Digestive Systems”, *Annual Review of Physiology*, 73: 69–93. doi:10.1146/annurev-physiol-012110-142152
+* Kaufman, Dan, 2016, “Locke’s Theory of Identity”, in *A Companion to Locke*, Matthew Stuart (ed.), Chichester, West Sussex, UK: Wiley-Blackwell, pp. 236–259.
+* Kidd, Brian A., Lauren A. Peters, Eric E. Schadt, and Joel T. Dudley, 2014, “Unifying Immunology with Informatics and Multiscale Biology”, *Nature Immunology*, 15(2): 118–127. doi:10.1038/ni.2787
+* Kim, Peter S., Doron Levy, and Peter P. Lee, 2009, “Modeling and Simulation of the Immune System as a Self-regulating Network”, *Methods in Enzymology*, 467: 79–109. doi:10.1016/S0076-6879(09)67004-X
+* Kitano, Hiroaki, 2001, “Systems Biology: Toward System-Level Understanding of Biological Systems”, in *Foundations of Systems Biology*, Hiroaki Kitano (ed.), Cambridge, MA: MIT Press, pp. 1–36.
+* Kitcher, Philip, 1984, “1953 and All That. A Tale of Two Sciences”, *The Philosophical Review*, 93(3): 335–373. doi:10.2307/2184541
+* Koonin, Eugene V., 2012, *The Logic of Chance: The Nature and Origin of Biological Evolution*, Upper Saddle River, NJ: FT Press Science Series.
+* –––, 2019, “CRISPR: A New Principle of Genome Engineering Linked to Conceptual Shifts in Evolutionary Biology”, *Biology and Philosophy*, 34(1). doi:10.1007/s10539-018-9658-7
+* Koonin, Eugene V. and Yuri I. Wolf, 2016, “Just how Lamarckian is CRISPR-Cas Immunity: The Continuum of Evolvability Mechanisms”, *Biology Direct*, 11(1): 9. doi:10.1186/s13062-016-0111-z
+* Kroker, Kenton, Jennifer Keelan, and Pauline M.H. Mazumdar (eds), 2008, *Crafting Immunity: Working Histories of Clinical Immunology*, Aldershot, UK and Burlington, VT: Ashgate Publishing.
+* Kurashima, Yosuke and Hiroshi Kiyono, 2017, “Mucosal Ecological Network of Epithelium and Immune Cells for Gut Homeostasis and Tissue Healing”, *Annual Review of Immunology*, 35: 119–147. doi:10.1146/annurev-immunol-051116-052424
+* Lafferty, Kevin J., 1995, “Politics, Personalities and the Development of Science”, *Immunology and Cell Biology*, 73(1): 1–7. doi:10.1038/icb.1995.1
+* Lakoff, George and Mark Johnson, 1980, *Metaphors We Live By*, Chicago and London: University of Chicago Press
+* Lenz, Kathryn M. and Lars H. Nelson, 2018, “Microglia and Beyond: Innate Immune Cells As Regulators of Brain Development and Behavioral Function”, *Frontiers in Immunology*, 13: 698. doi:10.3389/fimmu.2018.00698
+* León-Letelier, Ricardo A., Laura C. Bonifaz, and Ezequiel M. Fuentes-Pananá, 2019, “OMIC Signatures to Understand Cancer Immunosurveillance and Immunoediting: Melanoma and Immune Cells Interplay in Immunotherapy”, *Journal of Leukocyte Biology*, 105(5): 915–933. doi:10.1002/JLB.MR0618-241RR
+* Lewin, Kurt, 1922, *Der Begriff der Genese in Physik, Biologie und Entwicklungsgeschichte*, Berlin: Springer.
+* Levins, Richard and Richard Lewontin, 1985, *The Dialectical Biologist*, Cambridge, MA: Harvard University Press.
+* Ley, Ruth E., Fredrik Bäckhed, Peter Turnbaugh, Catherine A. Lozupone, Robin D. Knight, and Jeffrey I. Gordon, 2005, “Obesity Alters Gut Microbial Ecology”, *Proceedings of the National Academy of Science (USA)*, 102(31): 11070–11075. doi:10.1073/pnas.0504978102
+* Locke, John, 1689, *An Essay Concerning Human Understanding*, London; reprinted, Philadelphis: James Kay, 1800.
+* Love, Alan C., 2008, “Explaining Evolutionary Innovation and Novelty: Criteria of Adequacy and Multidisciplinary Prerequisites”, *Philosophy of Science*, 75(5): 874–886. doi:10.1086/594531
+* –––, 2018, “Individuation, Individuality, and Experimental Practice in Developmental Biology”, in *Individuation, Process and Scientific Practices*, Otávio Bueno, Ruey- Lin Chen, and Melinda Bonnie Fagan (eds), Oxford University Press, pp. 165–191. doi:10.1093/oso/9780190636814.003.0008
+* Love, Alan C. and Ingo Brigandt, 2017, “Philosophical Dimensions of Individuality”, in Scott Lidgard and Lynn K. Nyhart (eds), *Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives*, Chicago: University of Chicago Press, pp: 318–348.
+* Love, Alan C. and Gary L. Lugar, 2013, “Dimensions of Integration in Interdisciplinary Explanations of the Origin of Evolutionary Novelty”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 537–550. doi:10.1016/j.shpsc.2013.09.008
+* Löwy, Ilana, 1986, “The Epistemology of the Science of an Epistemologist of the Sciences: Ludwik Fleck’s Professional Outlook and Its Relationship to His Philosophical Works”, in *Cognition and Fact*, Robert S. Cohen and Thomas Schnelle (eds.), (Boston Studies in the Philosophy of Science 87), Dordrecht: Springer Netherlands, 421–442. doi:10.1007/978-94-009-4498-5\_22
+* –––, 1991, “The Immunological Construction of the Self”, in *Organism and the Origins of Self*, Alfred I. Tauber (ed.), Dordrecht: Kluwer Academic Publishers, pp. 43–75.
 * –––, 2008, “Immunology in the Clinics: Reductionism, Holism or Both?”, in Kroker, Keelan, and Mazumdar 2008: 165–176.
-* Mackie, David, 1999, “Personal Identity and Dead People”, _Philosophical Studies_, 95(3): 219–242.
-* Maley C.C., A. Aktipis, T.A. Graham, A. Sottoriva, A.M. Boddy, M. Janiszewska, A.S. Silva, M. Gerlinger, Y. Yuan, K.J. Pienta, K.S. Anderson, R. Gatenby, C. Swanton, D. Posada, C.I. Wu, J.D. Schiffman, E.S. Hwang, K. Polyak, A.R.A. Anderson, J.S. Brown, M. Greaves, and D. Shibata, 2017, “Classifying the Evolutionary and Ecological Features of Neoplasms”, _Nature Reviews Cancer_, 17(10): 605–619. doi:10.1038/nrc.2017.69
-* Margulis, Lynn, Celeste A. Asikainen, and Wolfgang E. Krumbein (eds), 2011, _Chimera and Consciousness. Evolution of the Sensory Self_, Cambridge, MA: The MIT Press.
-* Martin, Aryn, 2010, “Microchimerism in the Mother(land): Blurring the Borders of Body and Nation”, _Body & Society_, 16(3): 23–50. doi:10.1177/1357034X10373404
-* Martin, Emily, 1994, _Flexible Bodies. The Role of Immunity in American Culture from the Days of Polio to the Age of AIDS_, Boston: Beacon Press.
-* Matthen, Mohan and Edwin Levy, 1984, “Teleology, Error and the Human Immune System”, _Journal of Philosophy_, 81(7): 351–372. doi:10.2307/2026291
-* Matzinger, Polly, 1994, “Tolerance, Danger, and the Extended Family”, _Annual Review of Immunology_, 12: 991–1045. doi:10.1146/annurev.iy.12.040194.005015
-* Mazzocchi, Fulvio, 2012, “Complexity and the Reductionism-Holism Debate in Systems Biology”, _Wiley Interdisciplinary Reviews: Systems Biology and Medicine_, 4(5): 413–427. doi:10.1002/wsbm.1181
-* Mead, George H., 1962, _Mind, Self and Society. From the Standpoint of a Social Behaviorist_, Chicago, IL: University of Chicago Press.
+* Mackie, David, 1999, “Personal Identity and Dead People”, *Philosophical Studies*, 95(3): 219–242.
+* Maley C.C., A. Aktipis, T.A. Graham, A. Sottoriva, A.M. Boddy, M. Janiszewska, A.S. Silva, M. Gerlinger, Y. Yuan, K.J. Pienta, K.S. Anderson, R. Gatenby, C. Swanton, D. Posada, C.I. Wu, J.D. Schiffman, E.S. Hwang, K. Polyak, A.R.A. Anderson, J.S. Brown, M. Greaves, and D. Shibata, 2017, “Classifying the Evolutionary and Ecological Features of Neoplasms”, *Nature Reviews Cancer*, 17(10): 605–619. doi:10.1038/nrc.2017.69
+* Margulis, Lynn, Celeste A. Asikainen, and Wolfgang E. Krumbein (eds), 2011, *Chimera and Consciousness. Evolution of the Sensory Self*, Cambridge, MA: The MIT Press.
+* Martin, Aryn, 2010, “Microchimerism in the Mother(land): Blurring the Borders of Body and Nation”, *Body & Society*, 16(3): 23–50. doi:10.1177/1357034X10373404
+* Martin, Emily, 1994, *Flexible Bodies. The Role of Immunity in American Culture from the Days of Polio to the Age of AIDS*, Boston: Beacon Press.
+* Matthen, Mohan and Edwin Levy, 1984, “Teleology, Error and the Human Immune System”, *Journal of Philosophy*, 81(7): 351–372. doi:10.2307/2026291
+* Matzinger, Polly, 1994, “Tolerance, Danger, and the Extended Family”, *Annual Review of Immunology*, 12: 991–1045. doi:10.1146/annurev.iy.12.040194.005015
+* Mazzocchi, Fulvio, 2012, “Complexity and the Reductionism-Holism Debate in Systems Biology”, *Wiley Interdisciplinary Reviews: Systems Biology and Medicine*, 4(5): 413–427. doi:10.1002/wsbm.1181
+* Mead, George H., 1962, *Mind, Self and Society. From the Standpoint of a Social Behaviorist*, Chicago, IL: University of Chicago Press.
 * Meincke, Anne S., 2018, “Persons as Biological Processes: A Bio-Processual Way Out of the Personal Identity Dilemma”, in Nicholson and Dupré 2018: 357–378.
-* Melander, Peter, 1993, “How Not to Explain the Errors of the Immune System”, _Philosophy of Science_, 60(2): 223–241. doi:10.1086/289730
-* Merlin, Francesca, 2010, “Evolutionary Chance Mutation: A Defense of the Modern Synthesis’ Consensus View”, _Philosophy and Theory in Biology_, 2(201306): 22pp. doi:10.3998/ptb.6959004.0002.003
-* Metchnikoff, Élie, 1901 \[1905], _L’Immunité dans les maladies infectieuses_, Paris. Translated as _Immunity in Infective Diseases_, F.G. Binnie (trans.), Cambridge: Cambridge University Press, 1905.
-* Méthot, Pierre-Olivier, 2012, “Why Do Parasites Harm Their Host? On the Origin and Legacy of Theobald Smith’s ‘Law of Declining virulence’—1900–1980”, _History and Philosophy of the Life Sciences_, 34(4): 561–601.
-* Méthot, Pierre-Olivier and Samuel Alizon, 2014, “What Is a Pathogen? Toward a Process View of Host-Parasite Interactions”, _Virulence_, 5(8): 775–785. doi:10.4161/21505594.2014.960726
-* Mingers, John, 1991, “The Cognitive Theories of Maturana and Varela”, _Systems Practice_, 4(4): 319–338. doi:10.1007/BF01062008
-* Mitchell, Sandra D., 2003, _Biological Complexity and Integrative Pluralism_, New York: Cambridge University Press.
-* Mor, Gil, Paulomi Aldo, and Ayesha B. Alvero, 2017, “The Unique Immunological and Microbial Aspects of Pregnancy”, _Nature Reviews Immunology_, 17(8), 469–482. doi:10.1038/nri.2017.64
-* Mueller, Noel T., Elizabeth Bakacs, Joan Combellick, Zoya Grigoryan, and Maria G. Dominguez-Bello, 2015, “The Infant Microbiome Development: Mom Matters”, _Trends in Molecular Medicine_, 21(2): 109–117. doi:10.1016/j.molmed.2014.12.002
-* Myers, Darienne R., Julie Zikherman, and Jeroen P. Roose, 2017, “Tonic Signals: Why Do Lymphocytes Bother?”, _Trends in Immunology_, 38(11): 844–857. doi:10.1016/j.it.2017.06.010
-* Napier. David A., 2003, _The Age of Immunology: Conceiving A Future in an Alienating World_, Chicago: University of Chicago Press.
-* Nataf, Serge, 2016, “Clonal Selection Versus Clonal Cooperation: The Integrated Perception of Immune Objects”, _F1000Research_, 5: 2226. doi:10.12688/f1000research.9386.1
-* Nathan, Marco J., 2014, “Molecular Ecosystems”, _Biology and Philosophy_, 29(1): 101–122. doi:10.1007/s10539-013-9400-4
-* Nicholson, Daniel J. and John Dupré (eds), 2018, _Everything Flows. Towards a Processual Philosophy of Biology_, Oxford: Oxford University Press.
-* Odling-Smee, John, Douglas H. Erwin, Eric P. Palkovacs, Marcus W. Feldman, and Kevin N. Laland, 2013, “Niche Construction Theory: A Practical Guide for Ecologists”, _The Quarterly Review of Biology,_ 88(1): 4–28. doi:10.1086/669266
-* Odling-Smee, John, Kevin Laland, and Marcus W. Feldman, 2003, _Niche Construction: The Neglected Process in Evolution_, Princeton: Princeton University Press.
-* Ohno, Susumu, 1990, “Commentary on ‘The Protection: the Evolutionarily Selected Unit of Humoral Immunity’”, _Immunological Reviews_, 115(1): 191–194. doi:10.1111/j.1600-065x.1990.tb00788.x
-* Olson, Eric T., 1997, _The Human Animal: Personal Identity Without Psychology_, New York: Oxford University Press.
-* O’Malley, Maureen, 2014, _Philosophy of Microbiology_, Cambridge: Cambridge University Press.
-* O’Malley, Maureen A. and John Dupré, 2007, “Size Doesn’t Matter: Towards a More Inclusive Philosophy of Biology”, _Biology & Philosophy_, 22(2): 155–191. doi:10.1007/s10539-006-9031-0
+* Melander, Peter, 1993, “How Not to Explain the Errors of the Immune System”, *Philosophy of Science*, 60(2): 223–241. doi:10.1086/289730
+* Merlin, Francesca, 2010, “Evolutionary Chance Mutation: A Defense of the Modern Synthesis’ Consensus View”, *Philosophy and Theory in Biology*, 2(201306): 22pp. doi:10.3998/ptb.6959004.0002.003
+* Metchnikoff, Élie, 1901 \[1905], *L’Immunité dans les maladies infectieuses*, Paris. Translated as *Immunity in Infective Diseases*, F.G. Binnie (trans.), Cambridge: Cambridge University Press, 1905.
+* Méthot, Pierre-Olivier, 2012, “Why Do Parasites Harm Their Host? On the Origin and Legacy of Theobald Smith’s ‘Law of Declining virulence’—1900–1980”, *History and Philosophy of the Life Sciences*, 34(4): 561–601.
+* Méthot, Pierre-Olivier and Samuel Alizon, 2014, “What Is a Pathogen? Toward a Process View of Host-Parasite Interactions”, *Virulence*, 5(8): 775–785. doi:10.4161/21505594.2014.960726
+* Mingers, John, 1991, “The Cognitive Theories of Maturana and Varela”, *Systems Practice*, 4(4): 319–338. doi:10.1007/BF01062008
+* Mitchell, Sandra D., 2003, *Biological Complexity and Integrative Pluralism*, New York: Cambridge University Press.
+* Mor, Gil, Paulomi Aldo, and Ayesha B. Alvero, 2017, “The Unique Immunological and Microbial Aspects of Pregnancy”, *Nature Reviews Immunology*, 17(8), 469–482. doi:10.1038/nri.2017.64
+* Mueller, Noel T., Elizabeth Bakacs, Joan Combellick, Zoya Grigoryan, and Maria G. Dominguez-Bello, 2015, “The Infant Microbiome Development: Mom Matters”, *Trends in Molecular Medicine*, 21(2): 109–117. doi:10.1016/j.molmed.2014.12.002
+* Myers, Darienne R., Julie Zikherman, and Jeroen P. Roose, 2017, “Tonic Signals: Why Do Lymphocytes Bother?”, *Trends in Immunology*, 38(11): 844–857. doi:10.1016/j.it.2017.06.010
+* Napier. David A., 2003, *The Age of Immunology: Conceiving A Future in an Alienating World*, Chicago: University of Chicago Press.
+* Nataf, Serge, 2016, “Clonal Selection Versus Clonal Cooperation: The Integrated Perception of Immune Objects”, *F1000Research*, 5: 2226. doi:10.12688/f1000research.9386.1
+* Nathan, Marco J., 2014, “Molecular Ecosystems”, *Biology and Philosophy*, 29(1): 101–122. doi:10.1007/s10539-013-9400-4
+* Nicholson, Daniel J. and John Dupré (eds), 2018, *Everything Flows. Towards a Processual Philosophy of Biology*, Oxford: Oxford University Press.
+* Odling-Smee, John, Douglas H. Erwin, Eric P. Palkovacs, Marcus W. Feldman, and Kevin N. Laland, 2013, “Niche Construction Theory: A Practical Guide for Ecologists”, *The Quarterly Review of Biology,* 88(1): 4–28. doi:10.1086/669266
+* Odling-Smee, John, Kevin Laland, and Marcus W. Feldman, 2003, *Niche Construction: The Neglected Process in Evolution*, Princeton: Princeton University Press.
+* Ohno, Susumu, 1990, “Commentary on ‘The Protection: the Evolutionarily Selected Unit of Humoral Immunity’”, *Immunological Reviews*, 115(1): 191–194. doi:10.1111/j.1600-065x.1990.tb00788.x
+* Olson, Eric T., 1997, *The Human Animal: Personal Identity Without Psychology*, New York: Oxford University Press.
+* O’Malley, Maureen, 2014, *Philosophy of Microbiology*, Cambridge: Cambridge University Press.
+* O’Malley, Maureen A. and John Dupré, 2007, “Size Doesn’t Matter: Towards a More Inclusive Philosophy of Biology”, *Biology & Philosophy*, 22(2): 155–191. doi:10.1007/s10539-006-9031-0
 * Orosz, Charles G., 2001, “An Introduction to Immuno-ecology and Immuno-informatics”, in Segel and Cohen 2001: 125–149.
-* Palacios, Adrián G. and Juan Bacigalupo, 2003, “Francisco Varela (1946–2001): Filling the Mind-Brain Gap: A Life Adventure”, _Biological Research_, 36(1): 9–12. doi:10.4067/s0716-97602003000100002
-* Piattelli-Palmarini, Massimo, 1986, “The Rise of Selective Theories: A Case Study and Some Lessons From Immunology”, in _Language Learning and Concept Acquisition_, William Demopoulos and Ausonio Marras (eds), Norwood, N.J.: Ablex.
-* Plutynski, Anya, 2013, “Cancer and the Goals of Integration”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 466–476. doi:10.1016/j.shpsc.2013.03.019
-* Podolsky, Scott H. and Alfred I. Tauber, 1997, _The Generation of Diversity: Clonal Selection Theory and the Rise of Molecular Immunology_, Cambridge, MA: Harvard University Press.
-* Poletaev, Alexander B., Vladimir L. Stepanyuk, and M. Eric Gershwin, 2008, “Integrating Immunity: The Immunculus and Self-reactivity”, _Journal of Autoimmunity_, 30(1–2): 68–73. doi:10.1016/j.jaut.2007.11.012
-* Powell, Alexander and Dupré John, 2009, “From Molecules to Systems: The Importance of Looking Both Ways”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 40(1): 54–64. doi:10.1016/j.shpsc.2008.12.007
-* Pradeu, Thomas, 2012, _The Limits of the Self. Immunology and Biological Identity_, New York: Oxford University Press.
-* –––, 2016, “Organisms or Biological Individuals? Combining Physiological and Evolutionary Individuality”, _Biology & Philosophy_, 31(6): 797–817. doi:10.1007/s10539-016-9551-1
+* Palacios, Adrián G. and Juan Bacigalupo, 2003, “Francisco Varela (1946–2001): Filling the Mind-Brain Gap: A Life Adventure”, *Biological Research*, 36(1): 9–12. doi:10.4067/s0716-97602003000100002
+* Piattelli-Palmarini, Massimo, 1986, “The Rise of Selective Theories: A Case Study and Some Lessons From Immunology”, in *Language Learning and Concept Acquisition*, William Demopoulos and Ausonio Marras (eds), Norwood, N.J.: Ablex.
+* Plutynski, Anya, 2013, “Cancer and the Goals of Integration”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 466–476. doi:10.1016/j.shpsc.2013.03.019
+* Podolsky, Scott H. and Alfred I. Tauber, 1997, *The Generation of Diversity: Clonal Selection Theory and the Rise of Molecular Immunology*, Cambridge, MA: Harvard University Press.
+* Poletaev, Alexander B., Vladimir L. Stepanyuk, and M. Eric Gershwin, 2008, “Integrating Immunity: The Immunculus and Self-reactivity”, *Journal of Autoimmunity*, 30(1–2): 68–73. doi:10.1016/j.jaut.2007.11.012
+* Powell, Alexander and Dupré John, 2009, “From Molecules to Systems: The Importance of Looking Both Ways”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 40(1): 54–64. doi:10.1016/j.shpsc.2008.12.007
+* Pradeu, Thomas, 2012, *The Limits of the Self. Immunology and Biological Identity*, New York: Oxford University Press.
+* –––, 2016, “Organisms or Biological Individuals? Combining Physiological and Evolutionary Individuality”, *Biology & Philosophy*, 31(6): 797–817. doi:10.1007/s10539-016-9551-1
 * –––, 2018, “Genidentity and Biological Processes”, in: Nicholson and Dupré 2018: 96–112.
-* –––, 2019, “Philosophy of CRISPR-Cas: Introduction to Eugene Koonin’s target paper and commentaries”, _Biology and Philosophy_, 34(1). doi:10.1007/s10539-018-9664-9
-* Pradeu, Thomas and Edgardo D. Carosella, 2006a, “The Self Model and the Conception of Biological Identity in Immunology”, _Biology and Philosophy_, 21(2): 235–252. doi:10.1007/s10539-005-8621-6
-* –––, 2006b, “On the Definition of a Criterion of Immunogenicity”, _Proceedings of the National Academy of Science (USA)_, 103(47): 17858–17861. 858–61. doi:10.1073/pnas.0608683103
-* Pradeu, Thomas, Sébastien Jaeger, and Eric Vivier, 2013, “The Speed of Change: Towards a Discontinuity Theory of Immunity?”, _Nature Reviews Immunology_, 13: 764–769. doi:10.1038/nri3521
-* Queller, David C. and Joan E. Strassman, 2009, “Beyond Society: The Evolution of Organismality”, _Philosophical Transactions Royal Society London B, Biological Science_, 364(1533): 3143–55. doi:10.1098/rstb.2009.0095
-* Ramos, Gustavo C., 2012, “Inflammation as an Animal Development Phenomenon”, _Clinical and Developmental Immunology_, 2012: 1–8. doi:10.1155/2012/983203
-* Reynolds, Andrew S., 2018, _The Third Lens: Metaphor and the Creation of Modern Cell Biology_, Chicago: The University of Chicago Press.
-* Rivas A.L., G. Leitner, M.D. Jankowski, A.L. Hoogesteijn, M.J. Iandiorio, S. Chatzipanagiotou, A. Ioannidis, S.E. Blum, R. Piccinini, A. Antoniades, J.C. Fazio, Y. Apidianakis, J.M. Fair, and M.H.V. Van Regenmortel, 2017, “Nature and Consequences of Biological Reductionism for the Immunological Study of Infectious Diseases”, _Frontiers in Immunology_, 8: 612. doi:10.3389/fimmu.2017.00612
-* Roland, Alan, 1988, _In Search of Self in India and Japan. Toward a Cross-cultural Psychology_, Princeton: Princeton University Press.
-* Rosenberg, Alexander, 1989, “Perceptual Presentations and Biological Function: A Comment on Matthen”, _Journal of Philosophy_, 86(1): 38–44. doi:10.2307/2027175
-* Roux, Wilhelm, 1881, _Der Kampf der Teile im Organismus_, Leipzig: W. Engelmann.
-* Roy, Nilotpal and Matthias Hebrok, 2015, “Regulation of Cellular Identity in Cancer”, _Developmental Cell_, 35(6): 674–684. doi:10.1016/j.devcel.2015.12.001
-* Sarkar, Sahotra, 1991, “Lamarck Contre Darwin, Reduction Versus Statistics: Conceptual Issues in the Controversy Over Directed Mutagenesis in Bacteria”, in _Organisms and the Origins of Self_, Alfred I. Tauber (ed.), The Netherlands: Kluwer Academic, pp. 253–271.
-* –––, 1998, _Genetics and Reductionism_, Cambridge: Cambridge University Press.
-* Sarkar, Sahotra and Anya Plutynski (eds), 2010, _A Companion to the Philosophy of Biology_, Malden, MA: Blackwell.
-* Schaffner, Kenneth F., 1980, “Theory Structure in the Biomedical Sciences”, _Journal of Medicine and Philosophy_, 5(1): 57–97. doi:10.1093/jmp/5.1.57
-* Schatz, Michael C. and Ben Langmead 2013, “The DNA Data Deluge. Fast, Efficient Genome Sequencing Machines are Spewing Out More Data than Geneticists can Analyze”, _IEEE Spectrum_, 50(7): 26–33. doi:10.1109/MSPEC.2013.6545119
-* Segel, Lee A. and Irun R. Cohen (eds), 2001, _Design Principles for the Immune System and Other Distributed Autonomous Systems_, New York: Oxford University Press.
-* Shapiro, James A., 2011, _Evolution: A View from the 21st Century_, Upper Saddle River, NJ: FT Press.
-* Shapiro, Lawrence A., 2011, _Embodied Cognition_, New York: Routledge.
-* Silverstein, Arthur M., 2009, _A History of Immunology_, 2nd edition, Amsterdam: Elsevier.
-* Simon, A. Katharina, Georg A. Hollander, and Andrew McMichael, 2015, “Evolution of the Immune System in Humans From Infancy to Old Age”, _Proceedings of the Royal Society B: Biological Sciences_, 282(1821): 20143085. doi:10.1098/rspb.2014.3085
-* Skillings, Derek, 2016, “Holobionts and the Ecology of Organisms: Multi-Species Communities or Integrated Individuals?”, _Biology and Philosophy_, 31: 875–892. doi:10.1007/s10539-016-9544-0
-* Sloterdijk, Peter, 2011, _Bubbles: Spheres Volume 1. Microspherology_, Cambridge, MA: Semiotext(e).
-* Sober, Elliott, 2000, _Philosophy of Biology_, 2nd Edition, Boulder: Westview.
-* Soderborg T.K., S.E. Clark, C.E. Mulligan, R.C. Janssen, L. Babcock, D. Ir, D.J. Lemas, L.K. Johnson, T. Weir, L.L. Lenz, D.N. Frank, T.L. Hernandez, K.A. Kuhn, A. D’Alessandro, L.A. Barbour, K.C. El Kasmi, and J.E. Friedman, 2018, “The Gut Microbiota in Infants of Obese Mothers Increases Inflammation and Susceptibility to NAFLD”, _Nature Communications_, 9(1): 4462. doi:10.1038/s41467-018-06929-0
-* Söderqvist, Thomas, 2003, _Science as Autobiography: The Troubled Life of Niels Jerne_, New Haven, CT: Yale University Press.
-* Sontag, Susan, 1990, _Illness as Metaphor and AIDS and Its Metaphors_, New York: Anchor Books.
-* Swann, Jeremy B. and Mark J. Smyth, 2007, “Immune Surveillance of Tumors”, _Journal of Clinical Investigation_, 117(5): 1137–1146. doi:10.1172/JCI31405
-* Swiatczak, Bartlomiej, 2014, “Immune Balance: The Development of the Idea and Its Applications”, _Journal of the History of Biology_, 47(3): 411–42. doi:10.1007/s10739-013-9370-z
-* Swiatczak Bartlomiej, Rescigno Maria, and Irun R. Cohen, 2011, “Systemic Features of Immune Recognition in the Gut”, _Microbes and Infection_, 13(12–13): 983–991. doi:10.1016/j.micinf.2011.06.011
-* Tauber, Alfred I., 1994, _The Immune Self: Theory or Metaphor?_, New York: Cambridge University Press.
-* –––, 2000, “Moving Beyond the Immune Self?”, _Seminars in Immunology_, 12(3): 241–248. doi:10.1006/smim.2000.0237
-* –––, 2008, “The Immune System and Its Ecology”, _Philosophy of Science_, 75(2): 224–245 doi:10.1086/590200
-* –––, 2013, “Immunology’s Theories of Cognition”, _History and Philosophy of the Life Sciences_, 35(2): 239–264.
-* –––, 2015, “Reconceiving Autoimmunity: An Overview”, _Journal of Theoretical Biology_, 375: 52–60. doi:10.1016/j.jtbi.2014.05.029
-* –––, 2016, “Immunity in Context: Science and Society in Dialogue”, _THEORIA. An International Journal for Theory, History and Foundations of Science_, 31(2): 207–24. doi:10.1387/theoria.14560
-* –––, 2017, _Immunity: The Evolution of an Idea_, New York: Oxford University Press.
-* Tauber, Alfred I. and Leon Chernyak, 1991, _Metchnikoff and the Origins of Immunology: From Metaphor to Theory_, Oxford: Oxford University Press.
-* Tonegawa, S., C. Steinberg, S. Dube, and A. Bernardini, 1974, “Evidence for Somatic Generation of Antibody Diversity”, _Proceedings of the National Academy of Science (USA)_, 71(10): 4027–4031. doi:10.1073/pnas.71.10.4027
-* Ulvestad, Elling, 2007, _Defending Life. The Nature of Host-Parasite Relations_, Dordrecht: Springer.
-* van Baalen, Minus and Philippe Huneman, 2014, “Organisms as Ecosystems/Ecosystems as Organisms”, _Biological Theory_, 9(4): 357–360. doi:10.1007/s13752-014-0194-7
-* van Inwagen, Peter, 1990, _Material Beings_, Ithaca, NY: Cornell University Press.
-* van Regenmortel, Marc H.V., 2002, “Pitfalls of Reductionism in Immunology”, in _Promises and Limits of Reductionism in the Biomedical Sciences_, Mark van Regenmortel and David L. Hull (eds), Chichester: John Wiley & Sons, pp. 47–66.
-* Varela, Francisco J., 1991, “Organism: A Meshwork of Selfless Selves”, in _Organism and the Origin of Self_, Alfred I. Tauber (ed.), Dordrecht: Kluwer, pp. 79–107.
-* –––, 1994, “A Cognitive View of the Immune System”, _World Futures_, 42(1–2): 31–40.
-* Varela, Francisco J. and António Coutinho, 1991, “Immuknowledge: Learning Mechanisms of Somatic Individuation”, in _Doing Science_, John Brockman (ed.), New York: Prentice-Hall, pp. 237–256.
-* Varela, Francisco J., António Coutinho, B. Dupire, and Nelson M. Vaz, 1988, “Cognitive Networks: Immune, Neural, and Otherwise”, in _Theoretical Immunology, Part Two_, Alan S. Perelson (ed.), Redwood City, CA: Addison-Wesley Publishing Co., pp. 359–375.
-* Vaz, Nelson M., 2011a, “Francisco Varela and the Immunological Self”, _Systems Research and Behavioral Science_, 28(6): 696–703. doi:10.1002/sres.1126
-* –––, 2011b, “The Specificity of Immunological Observations”, _Constructivist Foundations_, 6(3): 334–342.
-* Vaz, Nelson M. and Francisco J. Varela, 1978, “Self and Non-sense: an Organism-Centered Approach to Immunology”, _Medical Hypotheses_, 4(3): 231–267. doi:10.1016/0306-9877(78)90005-1
-* Virgin, Herbert W., E. John Wherry, and Rafi Ahmed, 2009, “Redefining Chronic Viral Infection”, _Cell_, 138(1): 30–50. doi:10.1016/j.cell.2009.06.036
-* Virchow, Rudolf, 1858 \[1863], _Die Cellularpathologie in ihrer Begründung auf physiologische und pathologische Gewebelehre_, Berlin: August Hirschwald. Translated as _Cellular Pathology as Based Upon Physiological and Pathological Histology_, Frank Chance (trans.), Philadelphia: J.B. Lippincott, 1863.
-* Wagner, Günter P., Eric M. Erkenbrack and Alan C. Love, 2019, “Stress-Induced Evolutionary Innovation: A Mechanism for the Origin of Cell Types”, _Bioessays_, 41(4): e1800188. doi:10.1002/bies.201800188
-* Wagner, Robert P., 1999, “Anecdotal, Historical and Critical Commentaries on Genetics. Rudolph Virchow and the Genetic Basis of Somatic Ecology”, _Genetics_, 151(3): 917–920.
-* Weasel, Lisa, 2001, “Dismantling the Self/Other Dichotomy in Science: Towards a Feminist Model of the Immune System”, _Hypatia_ 16(1): 27–44. doi:10.1111/j.1527-2001.2001.tb01047.x
-* Weiss, Adam, 2015, “Lamarckian Illusions”, _Trends in Ecology & Evolution_, 30(10): 566–568. doi:10.1016/j.tree.2015.08.003
-* Wideman, Jeremy G., S. Andrew Inkpen, W. Ford Doolittle and Rosemary J. Redfield, 2019, “Mutationism, not Lamarckism, Captures the Novelty of CRISPR–Cas”:, _Biology and Philosophy_, 34(1). doi:10.1007/s10539-018-9659-6
-* Wimsatt, William C., 2007, _Re-engineering Philosophy for Limited Beings: Piecewise Approximations to Reality_, Cambridge, MA: Harvard University Press.
-* Wolkenhauer, Olaf and Sara Green, 2013, “The Search for Organizing Principles as a Cure Against Reductionism in Systems Medicine”, _FEBS Journal_, 280(23): 5938–5948. doi:10.1111/febs.12311
-* Woolley, Sam, Emily C. Parke, David Kelley, Anthony M. Poole, and Austen R. D. Ganley, 2019, “Striving for Clarity About the ‘Lamarckian’ Nature of CRISPR-Cas Systems”, _Biology and Philosophy_, 34(1). doi:10.1007/s10539-018-9662-y
-* Wynn, Thomas A., Ajay Chawla and Jeffrey W. Pollard, 2013, “Macrophage Biology in Development, Homeostasis and Disease”, _Nature_, 496(7446): 445–455. doi:10.1038/nature12034
-* Zmora, Niv, Stavros Bashiardes, Maayan Levy, and Eran Elinav, 2017, “The Role of the Immune System in Metabolic Health and Disease”, _Cell Metabolism_, 25(3): 506–521. doi:10.1016/j.cmet.2017.02.006
+* –––, 2019, “Philosophy of CRISPR-Cas: Introduction to Eugene Koonin’s target paper and commentaries”, *Biology and Philosophy*, 34(1). doi:10.1007/s10539-018-9664-9
+* Pradeu, Thomas and Edgardo D. Carosella, 2006a, “The Self Model and the Conception of Biological Identity in Immunology”, *Biology and Philosophy*, 21(2): 235–252. doi:10.1007/s10539-005-8621-6
+* –––, 2006b, “On the Definition of a Criterion of Immunogenicity”, *Proceedings of the National Academy of Science (USA)*, 103(47): 17858–17861. 858–61. doi:10.1073/pnas.0608683103
+* Pradeu, Thomas, Sébastien Jaeger, and Eric Vivier, 2013, “The Speed of Change: Towards a Discontinuity Theory of Immunity?”, *Nature Reviews Immunology*, 13: 764–769. doi:10.1038/nri3521
+* Queller, David C. and Joan E. Strassman, 2009, “Beyond Society: The Evolution of Organismality”, *Philosophical Transactions Royal Society London B, Biological Science*, 364(1533): 3143–55. doi:10.1098/rstb.2009.0095
+* Ramos, Gustavo C., 2012, “Inflammation as an Animal Development Phenomenon”, *Clinical and Developmental Immunology*, 2012: 1–8. doi:10.1155/2012/983203
+* Reynolds, Andrew S., 2018, *The Third Lens: Metaphor and the Creation of Modern Cell Biology*, Chicago: The University of Chicago Press.
+* Rivas A.L., G. Leitner, M.D. Jankowski, A.L. Hoogesteijn, M.J. Iandiorio, S. Chatzipanagiotou, A. Ioannidis, S.E. Blum, R. Piccinini, A. Antoniades, J.C. Fazio, Y. Apidianakis, J.M. Fair, and M.H.V. Van Regenmortel, 2017, “Nature and Consequences of Biological Reductionism for the Immunological Study of Infectious Diseases”, *Frontiers in Immunology*, 8: 612. doi:10.3389/fimmu.2017.00612
+* Roland, Alan, 1988, *In Search of Self in India and Japan. Toward a Cross-cultural Psychology*, Princeton: Princeton University Press.
+* Rosenberg, Alexander, 1989, “Perceptual Presentations and Biological Function: A Comment on Matthen”, *Journal of Philosophy*, 86(1): 38–44. doi:10.2307/2027175
+* Roux, Wilhelm, 1881, *Der Kampf der Teile im Organismus*, Leipzig: W. Engelmann.
+* Roy, Nilotpal and Matthias Hebrok, 2015, “Regulation of Cellular Identity in Cancer”, *Developmental Cell*, 35(6): 674–684. doi:10.1016/j.devcel.2015.12.001
+* Sarkar, Sahotra, 1991, “Lamarck Contre Darwin, Reduction Versus Statistics: Conceptual Issues in the Controversy Over Directed Mutagenesis in Bacteria”, in *Organisms and the Origins of Self*, Alfred I. Tauber (ed.), The Netherlands: Kluwer Academic, pp. 253–271.
+* –––, 1998, *Genetics and Reductionism*, Cambridge: Cambridge University Press.
+* Sarkar, Sahotra and Anya Plutynski (eds), 2010, *A Companion to the Philosophy of Biology*, Malden, MA: Blackwell.
+* Schaffner, Kenneth F., 1980, “Theory Structure in the Biomedical Sciences”, *Journal of Medicine and Philosophy*, 5(1): 57–97. doi:10.1093/jmp/5.1.57
+* Schatz, Michael C. and Ben Langmead 2013, “The DNA Data Deluge. Fast, Efficient Genome Sequencing Machines are Spewing Out More Data than Geneticists can Analyze”, *IEEE Spectrum*, 50(7): 26–33. doi:10.1109/MSPEC.2013.6545119
+* Segel, Lee A. and Irun R. Cohen (eds), 2001, *Design Principles for the Immune System and Other Distributed Autonomous Systems*, New York: Oxford University Press.
+* Shapiro, James A., 2011, *Evolution: A View from the 21st Century*, Upper Saddle River, NJ: FT Press.
+* Shapiro, Lawrence A., 2011, *Embodied Cognition*, New York: Routledge.
+* Silverstein, Arthur M., 2009, *A History of Immunology*, 2nd edition, Amsterdam: Elsevier.
+* Simon, A. Katharina, Georg A. Hollander, and Andrew McMichael, 2015, “Evolution of the Immune System in Humans From Infancy to Old Age”, *Proceedings of the Royal Society B: Biological Sciences*, 282(1821): 20143085. doi:10.1098/rspb.2014.3085
+* Skillings, Derek, 2016, “Holobionts and the Ecology of Organisms: Multi-Species Communities or Integrated Individuals?”, *Biology and Philosophy*, 31: 875–892. doi:10.1007/s10539-016-9544-0
+* Sloterdijk, Peter, 2011, *Bubbles: Spheres Volume 1. Microspherology*, Cambridge, MA: Semiotext(e).
+* Sober, Elliott, 2000, *Philosophy of Biology*, 2nd Edition, Boulder: Westview.
+* Soderborg T.K., S.E. Clark, C.E. Mulligan, R.C. Janssen, L. Babcock, D. Ir, D.J. Lemas, L.K. Johnson, T. Weir, L.L. Lenz, D.N. Frank, T.L. Hernandez, K.A. Kuhn, A. D’Alessandro, L.A. Barbour, K.C. El Kasmi, and J.E. Friedman, 2018, “The Gut Microbiota in Infants of Obese Mothers Increases Inflammation and Susceptibility to NAFLD”, *Nature Communications*, 9(1): 4462. doi:10.1038/s41467-018-06929-0
+* Söderqvist, Thomas, 2003, *Science as Autobiography: The Troubled Life of Niels Jerne*, New Haven, CT: Yale University Press.
+* Sontag, Susan, 1990, *Illness as Metaphor and AIDS and Its Metaphors*, New York: Anchor Books.
+* Swann, Jeremy B. and Mark J. Smyth, 2007, “Immune Surveillance of Tumors”, *Journal of Clinical Investigation*, 117(5): 1137–1146. doi:10.1172/JCI31405
+* Swiatczak, Bartlomiej, 2014, “Immune Balance: The Development of the Idea and Its Applications”, *Journal of the History of Biology*, 47(3): 411–42. doi:10.1007/s10739-013-9370-z
+* Swiatczak Bartlomiej, Rescigno Maria, and Irun R. Cohen, 2011, “Systemic Features of Immune Recognition in the Gut”, *Microbes and Infection*, 13(12–13): 983–991. doi:10.1016/j.micinf.2011.06.011
+* Tauber, Alfred I., 1994, *The Immune Self: Theory or Metaphor?*, New York: Cambridge University Press.
+* –––, 2000, “Moving Beyond the Immune Self?”, *Seminars in Immunology*, 12(3): 241–248. doi:10.1006/smim.2000.0237
+* –––, 2008, “The Immune System and Its Ecology”, *Philosophy of Science*, 75(2): 224–245 doi:10.1086/590200
+* –––, 2013, “Immunology’s Theories of Cognition”, *History and Philosophy of the Life Sciences*, 35(2): 239–264.
+* –––, 2015, “Reconceiving Autoimmunity: An Overview”, *Journal of Theoretical Biology*, 375: 52–60. doi:10.1016/j.jtbi.2014.05.029
+* –––, 2016, “Immunity in Context: Science and Society in Dialogue”, *THEORIA. An International Journal for Theory, History and Foundations of Science*, 31(2): 207–24. doi:10.1387/theoria.14560
+* –––, 2017, *Immunity: The Evolution of an Idea*, New York: Oxford University Press.
+* Tauber, Alfred I. and Leon Chernyak, 1991, *Metchnikoff and the Origins of Immunology: From Metaphor to Theory*, Oxford: Oxford University Press.
+* Tonegawa, S., C. Steinberg, S. Dube, and A. Bernardini, 1974, “Evidence for Somatic Generation of Antibody Diversity”, *Proceedings of the National Academy of Science (USA)*, 71(10): 4027–4031. doi:10.1073/pnas.71.10.4027
+* Ulvestad, Elling, 2007, *Defending Life. The Nature of Host-Parasite Relations*, Dordrecht: Springer.
+* van Baalen, Minus and Philippe Huneman, 2014, “Organisms as Ecosystems/Ecosystems as Organisms”, *Biological Theory*, 9(4): 357–360. doi:10.1007/s13752-014-0194-7
+* van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
+* van Regenmortel, Marc H.V., 2002, “Pitfalls of Reductionism in Immunology”, in *Promises and Limits of Reductionism in the Biomedical Sciences*, Mark van Regenmortel and David L. Hull (eds), Chichester: John Wiley & Sons, pp. 47–66.
+* Varela, Francisco J., 1991, “Organism: A Meshwork of Selfless Selves”, in *Organism and the Origin of Self*, Alfred I. Tauber (ed.), Dordrecht: Kluwer, pp. 79–107.
+* –––, 1994, “A Cognitive View of the Immune System”, *World Futures*, 42(1–2): 31–40.
+* Varela, Francisco J. and António Coutinho, 1991, “Immuknowledge: Learning Mechanisms of Somatic Individuation”, in *Doing Science*, John Brockman (ed.), New York: Prentice-Hall, pp. 237–256.
+* Varela, Francisco J., António Coutinho, B. Dupire, and Nelson M. Vaz, 1988, “Cognitive Networks: Immune, Neural, and Otherwise”, in *Theoretical Immunology, Part Two*, Alan S. Perelson (ed.), Redwood City, CA: Addison-Wesley Publishing Co., pp. 359–375.
+* Vaz, Nelson M., 2011a, “Francisco Varela and the Immunological Self”, *Systems Research and Behavioral Science*, 28(6): 696–703. doi:10.1002/sres.1126
+* –––, 2011b, “The Specificity of Immunological Observations”, *Constructivist Foundations*, 6(3): 334–342.
+* Vaz, Nelson M. and Francisco J. Varela, 1978, “Self and Non-sense: an Organism-Centered Approach to Immunology”, *Medical Hypotheses*, 4(3): 231–267. doi:10.1016/0306-9877(78)90005-1
+* Virgin, Herbert W., E. John Wherry, and Rafi Ahmed, 2009, “Redefining Chronic Viral Infection”, *Cell*, 138(1): 30–50. doi:10.1016/j.cell.2009.06.036
+* Virchow, Rudolf, 1858 \[1863], *Die Cellularpathologie in ihrer Begründung auf physiologische und pathologische Gewebelehre*, Berlin: August Hirschwald. Translated as *Cellular Pathology as Based Upon Physiological and Pathological Histology*, Frank Chance (trans.), Philadelphia: J.B. Lippincott, 1863.
+* Wagner, Günter P., Eric M. Erkenbrack and Alan C. Love, 2019, “Stress-Induced Evolutionary Innovation: A Mechanism for the Origin of Cell Types”, *Bioessays*, 41(4): e1800188. doi:10.1002/bies.201800188
+* Wagner, Robert P., 1999, “Anecdotal, Historical and Critical Commentaries on Genetics. Rudolph Virchow and the Genetic Basis of Somatic Ecology”, *Genetics*, 151(3): 917–920.
+* Weasel, Lisa, 2001, “Dismantling the Self/Other Dichotomy in Science: Towards a Feminist Model of the Immune System”, *Hypatia* 16(1): 27–44. doi:10.1111/j.1527-2001.2001.tb01047.x
+* Weiss, Adam, 2015, “Lamarckian Illusions”, *Trends in Ecology & Evolution*, 30(10): 566–568. doi:10.1016/j.tree.2015.08.003
+* Wideman, Jeremy G., S. Andrew Inkpen, W. Ford Doolittle and Rosemary J. Redfield, 2019, “Mutationism, not Lamarckism, Captures the Novelty of CRISPR–Cas”:, *Biology and Philosophy*, 34(1). doi:10.1007/s10539-018-9659-6
+* Wimsatt, William C., 2007, *Re-engineering Philosophy for Limited Beings: Piecewise Approximations to Reality*, Cambridge, MA: Harvard University Press.
+* Wolkenhauer, Olaf and Sara Green, 2013, “The Search for Organizing Principles as a Cure Against Reductionism in Systems Medicine”, *FEBS Journal*, 280(23): 5938–5948. doi:10.1111/febs.12311
+* Woolley, Sam, Emily C. Parke, David Kelley, Anthony M. Poole, and Austen R. D. Ganley, 2019, “Striving for Clarity About the ‘Lamarckian’ Nature of CRISPR-Cas Systems”, *Biology and Philosophy*, 34(1). doi:10.1007/s10539-018-9662-y
+* Wynn, Thomas A., Ajay Chawla and Jeffrey W. Pollard, 2013, “Macrophage Biology in Development, Homeostasis and Disease”, *Nature*, 496(7446): 445–455. doi:10.1038/nature12034
+* Zmora, Niv, Stavros Bashiardes, Maayan Levy, and Eran Elinav, 2017, “The Role of the Immune System in Metabolic Health and Disease”, *Cell Metabolism*, 25(3): 506–521. doi:10.1016/j.cmet.2017.02.006
 
 ## Academic Tools
 
@@ -447,7 +445,7 @@ Jerne的挑衅性假设虽然在构思上优雅且激发了新的研究方向，
 
 ## Other Internet Resources
 
-* Nuño de la Rosa, Laura, Mihaela Pavlicev, and Arantza Etxeberria, 2019, “[Rethinking the Individuality of Pregnancy: Eutherian Pregnancy as an Evolved Relational Novelty](https://www.preprints.org/manuscript/201910.0127/v1)”, _Preprints_, 2019100127.
+* Nuño de la Rosa, Laura, Mihaela Pavlicev, and Arantza Etxeberria, 2019, “[Rethinking the Individuality of Pregnancy: Eutherian Pregnancy as an Evolved Relational Novelty](https://www.preprints.org/manuscript/201910.0127/v1)”, *Preprints*, 2019100127.
 * [National Institute of Allergy and Infectious Diseases: Immune System Research](https://www.niaid.nih.gov/research/immune-system-research)
 
 ## Related Entries
@@ -455,5 +453,5 @@ Jerne的挑衅性假设虽然在构思上优雅且激发了新的研究方向，
 [animalism](https://plato.stanford.edu/entries/animalism/) | [biological individuals](https://plato.stanford.edu/entries/biology-individual/) | [biology: philosophy of](https://plato.stanford.edu/entries/biology-philosophy/) | [causation: probabilistic](https://plato.stanford.edu/entries/causation-probabilistic/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [consciousness: representational theories of](https://plato.stanford.edu/entries/consciousness-representational/) | [feminist philosophy, topics: perspectives on the self](https://plato.stanford.edu/entries/feminism-self/) | [genomics and postgenomics](https://plato.stanford.edu/entries/genomics/) | [identity: over time](https://plato.stanford.edu/entries/identity-time/) | [inheritance systems](https://plato.stanford.edu/entries/inheritance-systems/) | [models in science](https://plato.stanford.edu/entries/models-science/) | [personal identity](https://plato.stanford.edu/entries/identity-personal/) | [pregnancy, birth, and medicine](https://plato.stanford.edu/entries/ethics-pregnancy/) | [reduction, scientific: in biology](https://plato.stanford.edu/entries/reduction-biology/) | [scientific knowledge: social dimensions of](https://plato.stanford.edu/entries/scientific-knowledge-social/) | [systems and synthetic biology, philosophy of](https://plato.stanford.edu/entries/systems-synthetic-biology/) | [teleology: teleological notions in biology](https://plato.stanford.edu/entries/teleology-biology/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Bartlomiej Swiatczak](https://www.researchgate.net/profile/Bartlomiej\Swiatczak) <[_bartlomiej.swiatczak@gmail.com_](mailto:bartlomiej%2eswiatczak%40gmail%2ecom)>\
-[Alfred I. Tauber](http://www.bu.edu/philo/people/faculty/full-time/alfred-i-tauber/) <[_ait@bu.edu_](mailto:ait%40bu%2eedu)>
+[Bartlomiej Swiatczak](https://www.researchgate.net/profile/Bartlomiej\Swiatczak) <[*bartlomiej.swiatczak@gmail.com*](mailto:bartlomiej%2eswiatczak%40gmail%2ecom)>\
+[Alfred I. Tauber](http://www.bu.edu/philo/people/faculty/full-time/alfred-i-tauber/) <[*ait@bu.edu*](mailto:ait%40bu%2eedu)>

@@ -1,13 +1,12 @@
 # 柏拉图的《蒂迈欧篇》 Timaeus (Donald Zeyl and Barbara Sattler)
 
-_首次发表于2005年10月25日；实质性修订于2022年5月13日。_
+*首次发表于2005年10月25日；实质性修订于2022年5月13日。*
 
 在《蒂迈欧》中，柏拉图详细阐述了宇宙的形成以及其令人印象深刻的秩序和美丽的解释。他提出，宇宙是理性、有目的和有益的力量的产物。它是一位神圣工匠（“Demiurge”，dêmiourgos，28a6）的手工艺品，他模仿一个不变和永恒的模型，在一个已经存在的混沌中施加数学秩序，生成有序的宇宙（kosmos）。这个解释的主导原则是目的论：整个宇宙以及它的各个部分都被安排得如此之好，以产生各种良好的效果。对于柏拉图来说，这种安排并非偶然，而是智慧（nous）的刻意意图的结果，智慧被人形化地代表为计划和构建一个尽可能优秀的世界的工匠的形象。
 
 宇宙的美丽有序不仅是智慧的表现，也是理性灵魂理解和效仿的模范。这种理解和效仿使这些灵魂恢复到它们最初的卓越状态，这种状态在它们的具体化中丧失了。因此，这种论述还具有明确的伦理和宗教维度。
 
 这幅神圣创造的宇宙的图画，虽然从一开始就备受争议（见下文第 2 节），但通过几个世纪的哲学家和神学家的想象和赞赏，它已经吸引了无数代人的注意。\[1]由于这部作品的广泛范围，以及它作为一种独白的性质——通过排除对话者之间的交流，这篇演讲更像是一种权威性陈述，而不是一系列需要调查的问题——《蒂迈欧》通常被认为是作者智力成就的巅峰，特别是对于那些赞同它对宇宙描绘的思想家来说。这也似乎是它早期被翻译成拉丁语的原因之一。公元四世纪的卡尔西迪乌斯（Calcidius）的拉丁译本使它成为中世纪拉丁西方唯一可用的柏拉图文本，直到十二世纪。虽然它仍然是开普勒的重要参考点，但随着时间的推移，它的影响力开始减弱。在 19 世纪后期和 20 世纪前期，随着语言学方法的精细化和确切的历史学研究的完善，对《蒂迈欧》的兴趣再次被激发出来，\[2]但在 20 世纪下半叶，这篇对话经常被认为在哲学上至多是无足轻重的，甚至是倒退的。它在关于柏拉图哲学发展的争论中起到了重要的作用，但并不多。然而，近几十年来，《蒂迈欧》再次引起了人们对它的浓厚兴趣：哲学家、科学史学家、思想史学家和语言学家，虽然不一定被对话的大胆主张所说服，但对它宏伟的描述感到着迷，并积极参与并试图阐明其概念结构。
- 
 
 ***
 
@@ -120,92 +119,92 @@ _首次发表于2005年10月25日；实质性修订于2022年5月13日。_
 
 ### Primary Literature
 
-* Archer-Hind, R. D. (ed. and trans.), 1888, _The Timaeus of Plato_, London: McMillan & Co.; reprinted, Salem, NH: Ayers Co. Publishers, 1988.
-* Burnet, J. (ed.), 1902, _Platonis Opera_, vol. IV, Oxford: Clarendon Press.
-* Bury, R. G. (ed. and trans.), 1960, _Plato: Timaeus, Critias, Cleitophon, Menexenus, Epistles_, Cambridge, Mass.: Loeb Classical Library.
-* Cornford, F. M., 1937, _Plato’s Cosmology_, London: Routledge & Kegan Paul; reprinted, Indianapolis: Hackett Publishing Co., 1997.
-* Lee, D. (trans.), 1972, _Timaeus and Critias_, London: Penguin Books; revised by T. K. Johansen, 2008.
-* Waterfield, R. (trans.), 2008, _Timaeus and Critias_ (with introduction and notes by A. Gregory), Oxford: Oxford University Press.
-* Zeyl, D. J. (trans.), 2000, _Plato: Timaeus_, Indianapolis and Cambridge, Mass: Hackett Publishing Co.
+* Archer-Hind, R. D. (ed. and trans.), 1888, *The Timaeus of Plato*, London: McMillan & Co.; reprinted, Salem, NH: Ayers Co. Publishers, 1988.
+* Burnet, J. (ed.), 1902, *Platonis Opera*, vol. IV, Oxford: Clarendon Press.
+* Bury, R. G. (ed. and trans.), 1960, *Plato: Timaeus, Critias, Cleitophon, Menexenus, Epistles*, Cambridge, Mass.: Loeb Classical Library.
+* Cornford, F. M., 1937, *Plato’s Cosmology*, London: Routledge & Kegan Paul; reprinted, Indianapolis: Hackett Publishing Co., 1997.
+* Lee, D. (trans.), 1972, *Timaeus and Critias*, London: Penguin Books; revised by T. K. Johansen, 2008.
+* Waterfield, R. (trans.), 2008, *Timaeus and Critias* (with introduction and notes by A. Gregory), Oxford: Oxford University Press.
+* Zeyl, D. J. (trans.), 2000, *Plato: Timaeus*, Indianapolis and Cambridge, Mass: Hackett Publishing Co.
 
 ### Secondary Literature
 
-* Artmann, B., and L. Schäfer, 1993, “On Plato’s ‘Fairest Triangles’ (_Timaeus_ 54a),” _Historia Mathematica_, 20: 255–64.
-* Barney, R., T. Brennan and C. Brittain (eds.), 2012, _Plato and the Divided Self_, Cambridge: Cambridge University Press.
-* Betegh, G., 2009, “What Makes a Myth _eikôs_? Remarks inspired by Myles Burnyeat’s Eikôs Mythos,” in _One Book, The Whole Universe: Plato’s Timaeus Today_, R. Mohr and B. Sattler (eds.), Las Vegas: Parmenides Publishing.
-* Brague, R., 1982, _Du temps chez Platon et Aristote. Quatre études_, Paris: Presses Universitaires de France.
-* Brandwood, L., 1990, _The Chronology of Plato’s Dialogues_, Cambridge: Cambridge University Press.
-* Brisson, L., 1994, _Le Même et l’Autre dans la Structure Ontologique du_ Timée _de Platon_, Sankt Augustin: Akademia Verlag.
-* –––, 2000, _Plato the Myth Maker_ (translated, edited and with an introduction by G. Naddaf), Chicago: Chicago University Press.
-* Broadie, S., 2012, _Nature and Divinity in Plato’s_ Timaeus, Cambridge: Cambridge University Press.
-* Burnyeat, M. F., 1999, “Plato on Why Mathematics is Good for the Soul,” in _Mathematics and Necessity: Essays in the History of Philosophy, Proceedings of the_ _British Academy 103_, T. Smiley (ed.), Oxford: Oxford University Press.
-* –––, 2005, “Eikôs Mythos,” _Rizai_, 2.2, 143–165.
-* Calcidius, 1962, _Timaeus a Calcidio Translatus Commentarioque Instructus_, J. H. Waszink (ed.), London/Leiden: Brill.
-* –––, 2016, _On Plato’s_ Timaeus, J. Magee (ed. and transl.), Cambridge, MA: Harvard University Press (in Latin and English).
-* Calvo, T. and L. Brisson (eds.), 1997, _Interpreting the_ Timaeus _and_ Critias, Sankt Augustin: Akademia Verlag.
-* Carone, G. R., 2005, _Plato’s Cosmology and its Ethical Dimensions_, Cambridge: Cambridge University Press.
-* Cherniss, H. F., 1944, _Aristotle’s Criticism of Plato and the Academy_, vol. 1, Baltimore.
-* –––, 1965, “The Relation of the _Timaeus_ to Plato’s Later Dialogues,” in _Studies in Plato’s Metaphysics_, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul; reprinted in _Selected Papers_, L. Tarán (ed.), Leiden: Brill, 1977.
-* Cooper, J. M., 1997, “The Psychology of Justice in Plato,” in _Plato’s Republic: Critical Essays_, R. Kraut (ed.), Lanham: Rowman & Littlefield Publishers.
-* DeVogel, C. J., 1970, _Philosophia I: Studies in Greek Philosophy_, Assen: Van Gorcum.
-* Dicks, D. R., 1970, _Early Greek Astronomy_, Ithaca: Cornell University Press.
-* Dillon, J., 1989, “Tampering with the _Timaeus_: Ideological Emendations in Plato, with Special Reference to the _Timaeus_,” _American Journal of Philology_, 110: 50–72.
-* Fletcher, E., 2016, “_Aisthesis_, Reason and Appetite in the _Timaeus_,” _Phronesis_, 61: 397–434.
-* Frede, D., 1996, “The Philosophical Economy of Plato’s Psychology: Rationality and Common Concepts in the _Timaeus_,” in _Rationality in Greek Thought_, M. Frede and G. Striker (eds.), Oxford: Clarendon Press.
-* Gill, C., 1979, “Plato’s Atlantis Story and the Birth of Fiction,” _Philosophy and Literature_, 3: 64–78.
-* –––, 1977, “The Genre of the Atlantis Story,” _Classical Philology_, 72: 287–304.
-* –––, 2017, _Plato’s Atlantis Story. Text, Translation and Commentary_, Liverpool: Liverpool University Press.
-* Gill, M. L., 1987, “Matter and Flux in Plato’s _Timaeus_,” _Phronesis_, 32: 34–53.
-* Grams, L., 2009, “Medical Theory in Plato’s ‘Timaeus’,” _Rhizai_, 6: 161–192.
-* Hackforth, R., 1965, “Plato’s Theism,” in _Studies in Plato’s Metaphysics_, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul.
-* Hampton, C., 1990, _Pleasure, Knowledge and Being_, Albany: SUNY Press.
-* Johansen, T. K., 2004, _Plato’s Natural Philosophy_, Cambridge: Cambridge University Press.
-* –––, 2014, “Why the Cosmos Needs a Craftsman,” _Phronesis_, 59: 297–320.
-* Jorgenson, C.,  F. Karfík and Š. Špinka (eds.), 2021, _Plato’s Timaeus. Proceedings of the Tenth Symposium Platonicum Pragense_, Leiden and Boston: Brill.
-* Keyt, D., 1971, “The Mad Craftsman of the _Timaeus_,” _Philosophical Review_, 80: 230–235.
-* Kung, J., 1989, “Mathematics and Virtue in Plato’s _Timaeus_,” in _Essays in Ancient Greek Philosophy_, vol. 3, J. P. Anton and A. Preus (eds.), Albany: SUNY Press.
-* Ledger, G. R., 1989, _Re-counting Plato: A Computer Analysis of Plato’s Style_, Oxford: Clarendon Press.
-* Lee, E. N., 1976, “Reason and Rotation: Circular Movement as the Model of Mind (_Noûs_) in the Later Plato,” in _Facets of Plato’s Philosophy_, W. H. Werkmeister (ed.), Assen: Van Gorcum.
-* –––, 1966, “On the Metaphysics of the Image in Plato’s _Timaeus_,” _Monist_, 50: 341–368.
-* Lennox, J. G., 1985, “Plato’s Unnatural Teleology,” in _Platonic Investigations_, D. O’Meara (ed.), Washington: Catholic University Press.
-* Menn, S., 1995, _Plato on God as Nous_, Carbondale: Southern Illinois University Press.
-* Miller, D., 2003, _The Third Kind in Plato’s Timaeus_, Göttingen: Vandenhoeck & Ruprecht.
-* Mohr, R.D., 2006, _God and Forms in Plato_, Las Vegas: Parmenides Publishing.
-* ––– and B.M. Sattler (eds.), 2010, _One Book, The Whole Universe: Plato’s Timaeus Today_, Las Vegas: Parmenides Publishing.
-* Morrow, G., 1965, “Necessity and Persuasion in Plato’s _Timaeus_,” in _Studies in Plato’s Metaphysics_, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul.
-* Mourelatos, A. P. D., 2010, “The Epistemological Section (29b–d) of the Proem in Timaeus’ Speech: M. F. Burnyeat on _eikôs mythos_, and Comparison with Xenophanes B34 and B35,” in _One Book, The Whole Universe: Plato’s Timaeus Today_, R.D. Mohr and B.M. Sattler (eds.), Las Vegas: Parmenides Publishing.
-* –––, 2014, “The Conception of _eoikos/eikos_ as Epistemic Standard in Xenophanes, Parmenides, and Plato’s _Timaeus_,” _Ancient Philosophy_, 34: 169–191.
-* Mueller, I., 1989, “Joan Kung’s Reading of Plato’s _Timaeus_,” in _Nature, Knowledge and Virtue: Essays in Memory of Joan Kung_, T. Penner and R. Kraut (eds.), Edmonton: Academic Printing and Publishing.
-* Nesselrath, H.-G. (trans. and commentary), 2006, _Platon: Kritias_, Platon Werke, VIII/4, Göttingen: Vandenhoeck & Ruprecht.
-* Owen, G. E. L., 1965, “The Place of the _Timaeus_ in Plato’s Dialogues,” _The Classical Quarterly_ (New Series), 3 (1–2): 79–95; reprinted in _Studies in Plato’s Metaphysics_, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul, 1965; and in _Logic, Science and Dialectic_, M. Nussbaum (ed.), Ithaca: Cornell University Press, 1986.
-* Patterson, R., 1985, _Image and Reality in Plato’s Metaphysics_, Indianapolis: Hackett Publishing Co., 1985.
-* Pelikan, J., 1997, _What has Athens to do with Jerusalem?_ Timaeus _and_ Genesis _in Counterpoint_, Ann Arbor: The University of Michigan Press.
-* Perl, E. D., 1998, “The Demiurge and the Forms: A Return to the Ancient Interpretation of Plato’s _Timaeus_,” _Ancient Philosophy_, 18: 81–92.
-* Phillips, J. F., 1997, “NeoPlatonic Exegeses of Plato’s Cosmology,” _Journal of the History of Philosophy_, 35: 173–197.
-* Plutarch, 1976, _De Animae Procreatione in_ Timaeo, in _Plutarch’s Moralia_, vol. 13 pt. 1, H. Cherniss (trans.), Cambridge, Mass. & London: Loeb Classical Library.
-* Pradeau, J. F., 1997, _Le Monde de la Politique_, Sankt Augustin: Akademia Verlag.
-* Pritchard, P., 1990, “The Meaning of _Dynamis_ at Timaeus 31c,” _Phronesis_, 35: 182–193.
-* Proclus, 1903, _In Timaeum_, E. Diehl (ed.), Leipzig: Teubner.
-* Rashed, M. and Auffret, T., 2017, “On the Inauthenticity of the _Critias_,” _Phronesis_, 62: 237–254.
-* Reydams-Schils, G. (ed.), 2003, _Plato’s Timaeus as Cultural Icon_, Notre Dame: University of Notre Dame Press.
-* Robinson, T. M., 1986, “Understanding the _Timaeus_,” _Proceedings of the Boston Area Colloquium in Ancient Philosophy_, 2: 103–119.
-* Sattler, B.M., 2012, “A Likely Account of Necessity, Plato’s Receptacle as a Physical and Metaphysical Basis of Space,” _Journal of the History of Philosophy_, 50: 159–195.
-* –––, 2021, “Plato’s astronomy and moral history in the _Timaeus_”, in _Ethics and the Natural World_, B.M. Sattler and U. Coope (eds.), Cambridge: Cambridge University Press.
-* Sedley, D., 1997, “‘Becoming Like God’ in the _Timaeus_ and Aristotle,” in _Interpreting the Timaeus-Critias_, T. Calvo and L. Brisson (eds.), Sankt Augustin: Academia.
-* –––, 2009, _Creationism and its Critics in Antiquity_, Berkeley: University of California Press.
-* Silverman, A., 1992, “Timean Particulars,” _Classical Quarterly_ (n.s.) 42: 87–113.
-* –––, 2002, _The Dialectic of Essence: A Study of Plato’s Metaphysics_, Princeton: Princeton University Press.
-* Sorabji, R., 1983, _Time, Creation and the Continuum_, Ithaca: Cornell University Press.
-* Strange, S. K., 1999, “The Double Explanation in the _Timaeus_,” in _Plato 1: Metaphysics and Epistemology_, G. Fine (ed.), Oxford: Oxford University Press.
-* Tarán, L., 1971, “The Creation Myth in Plato’s _Timaeus_,” in _Essays in Ancient Greek Philosophy_, vol. 1, J. P. Anton and G. Kustas (eds.), Albany: SUNY Press.
-* Taylor, A. E., 1928, _A Commentary on Plato’s Timaeus_, Oxford: Clarendon Press; reprinted, New York: Garland, 1967.
-* Vlastos, G., 1965a, “The Disorderly Motion in the _Timaeus_,” in _Studies in Plato’s Metaphysics_, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul; reprinted in _Studies in Greek Philosophy_, vol. 2, D. W. Graham (ed.), Princeton: Princeton University Press, 1995.
-* –––, 1965b, “Creation in the _Timaeus_: Is It a Fiction?” in _Studies in Plato’s Metaphysics_, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul; reprinted in _Studies in Greek Philosophy_, vol. 2, D. W. Graham (ed.), Princeton: Princeton University Press, 1995.
-* –––, 1975, _Plato’s Universe_, Seattle: University of Washington Press; reprinted with a new introduction by L. Brisson, Las Vegas: Parmenides Publishing, 2005.
-* Wilson, J. C., 1889, _On the Interpretation of Plato’s_ Timaeus _and On the Platonist Doctrine of the_ Asymbletoi Arithmoi, London: Nutt, 1889; reprinted, New York: Garland, 1980.
-* Wright, M. R (ed.), 2000, _Reason and Necessity: Essays on Plato’s ‘Timaeus’_, London: Duckworth.
-* Young, C. M., 1994, “Plato and Computer Dating,” _Oxford Studies in Ancient Philosophy_, 12: 227–50.
-* Zeyl, D. J., 2010, “Visualizing Platonic Space,” in _One Book, The Whole Universe: Plato’s Timaeus Today_, R.D. Mohr and B.M. Sattler (eds.), Las Vegas: Parmenides Publishing.
+* Artmann, B., and L. Schäfer, 1993, “On Plato’s ‘Fairest Triangles’ (*Timaeus* 54a),” *Historia Mathematica*, 20: 255–64.
+* Barney, R., T. Brennan and C. Brittain (eds.), 2012, *Plato and the Divided Self*, Cambridge: Cambridge University Press.
+* Betegh, G., 2009, “What Makes a Myth *eikôs*? Remarks inspired by Myles Burnyeat’s Eikôs Mythos,” in *One Book, The Whole Universe: Plato’s Timaeus Today*, R. Mohr and B. Sattler (eds.), Las Vegas: Parmenides Publishing.
+* Brague, R., 1982, *Du temps chez Platon et Aristote. Quatre études*, Paris: Presses Universitaires de France.
+* Brandwood, L., 1990, *The Chronology of Plato’s Dialogues*, Cambridge: Cambridge University Press.
+* Brisson, L., 1994, *Le Même et l’Autre dans la Structure Ontologique du* Timée *de Platon*, Sankt Augustin: Akademia Verlag.
+* –––, 2000, *Plato the Myth Maker* (translated, edited and with an introduction by G. Naddaf), Chicago: Chicago University Press.
+* Broadie, S., 2012, *Nature and Divinity in Plato’s* Timaeus, Cambridge: Cambridge University Press.
+* Burnyeat, M. F., 1999, “Plato on Why Mathematics is Good for the Soul,” in *Mathematics and Necessity: Essays in the History of Philosophy, Proceedings of the* *British Academy 103*, T. Smiley (ed.), Oxford: Oxford University Press.
+* –––, 2005, “Eikôs Mythos,” *Rizai*, 2.2, 143–165.
+* Calcidius, 1962, *Timaeus a Calcidio Translatus Commentarioque Instructus*, J. H. Waszink (ed.), London/Leiden: Brill.
+* –––, 2016, *On Plato’s* Timaeus, J. Magee (ed. and transl.), Cambridge, MA: Harvard University Press (in Latin and English).
+* Calvo, T. and L. Brisson (eds.), 1997, *Interpreting the* Timaeus *and* Critias, Sankt Augustin: Akademia Verlag.
+* Carone, G. R., 2005, *Plato’s Cosmology and its Ethical Dimensions*, Cambridge: Cambridge University Press.
+* Cherniss, H. F., 1944, *Aristotle’s Criticism of Plato and the Academy*, vol. 1, Baltimore.
+* –––, 1965, “The Relation of the *Timaeus* to Plato’s Later Dialogues,” in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul; reprinted in *Selected Papers*, L. Tarán (ed.), Leiden: Brill, 1977.
+* Cooper, J. M., 1997, “The Psychology of Justice in Plato,” in *Plato’s Republic: Critical Essays*, R. Kraut (ed.), Lanham: Rowman & Littlefield Publishers.
+* DeVogel, C. J., 1970, *Philosophia I: Studies in Greek Philosophy*, Assen: Van Gorcum.
+* Dicks, D. R., 1970, *Early Greek Astronomy*, Ithaca: Cornell University Press.
+* Dillon, J., 1989, “Tampering with the *Timaeus*: Ideological Emendations in Plato, with Special Reference to the *Timaeus*,” *American Journal of Philology*, 110: 50–72.
+* Fletcher, E., 2016, “*Aisthesis*, Reason and Appetite in the *Timaeus*,” *Phronesis*, 61: 397–434.
+* Frede, D., 1996, “The Philosophical Economy of Plato’s Psychology: Rationality and Common Concepts in the *Timaeus*,” in *Rationality in Greek Thought*, M. Frede and G. Striker (eds.), Oxford: Clarendon Press.
+* Gill, C., 1979, “Plato’s Atlantis Story and the Birth of Fiction,” *Philosophy and Literature*, 3: 64–78.
+* –––, 1977, “The Genre of the Atlantis Story,” *Classical Philology*, 72: 287–304.
+* –––, 2017, *Plato’s Atlantis Story. Text, Translation and Commentary*, Liverpool: Liverpool University Press.
+* Gill, M. L., 1987, “Matter and Flux in Plato’s *Timaeus*,” *Phronesis*, 32: 34–53.
+* Grams, L., 2009, “Medical Theory in Plato’s ‘Timaeus’,” *Rhizai*, 6: 161–192.
+* Hackforth, R., 1965, “Plato’s Theism,” in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul.
+* Hampton, C., 1990, *Pleasure, Knowledge and Being*, Albany: SUNY Press.
+* Johansen, T. K., 2004, *Plato’s Natural Philosophy*, Cambridge: Cambridge University Press.
+* –––, 2014, “Why the Cosmos Needs a Craftsman,” *Phronesis*, 59: 297–320.
+* Jorgenson, C.,  F. Karfík and Š. Špinka (eds.), 2021, *Plato’s Timaeus. Proceedings of the Tenth Symposium Platonicum Pragense*, Leiden and Boston: Brill.
+* Keyt, D., 1971, “The Mad Craftsman of the *Timaeus*,” *Philosophical Review*, 80: 230–235.
+* Kung, J., 1989, “Mathematics and Virtue in Plato’s *Timaeus*,” in *Essays in Ancient Greek Philosophy*, vol. 3, J. P. Anton and A. Preus (eds.), Albany: SUNY Press.
+* Ledger, G. R., 1989, *Re-counting Plato: A Computer Analysis of Plato’s Style*, Oxford: Clarendon Press.
+* Lee, E. N., 1976, “Reason and Rotation: Circular Movement as the Model of Mind (*Noûs*) in the Later Plato,” in *Facets of Plato’s Philosophy*, W. H. Werkmeister (ed.), Assen: Van Gorcum.
+* –––, 1966, “On the Metaphysics of the Image in Plato’s *Timaeus*,” *Monist*, 50: 341–368.
+* Lennox, J. G., 1985, “Plato’s Unnatural Teleology,” in *Platonic Investigations*, D. O’Meara (ed.), Washington: Catholic University Press.
+* Menn, S., 1995, *Plato on God as Nous*, Carbondale: Southern Illinois University Press.
+* Miller, D., 2003, *The Third Kind in Plato’s Timaeus*, Göttingen: Vandenhoeck & Ruprecht.
+* Mohr, R.D., 2006, *God and Forms in Plato*, Las Vegas: Parmenides Publishing.
+* ––– and B.M. Sattler (eds.), 2010, *One Book, The Whole Universe: Plato’s Timaeus Today*, Las Vegas: Parmenides Publishing.
+* Morrow, G., 1965, “Necessity and Persuasion in Plato’s *Timaeus*,” in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul.
+* Mourelatos, A. P. D., 2010, “The Epistemological Section (29b–d) of the Proem in Timaeus’ Speech: M. F. Burnyeat on *eikôs mythos*, and Comparison with Xenophanes B34 and B35,” in *One Book, The Whole Universe: Plato’s Timaeus Today*, R.D. Mohr and B.M. Sattler (eds.), Las Vegas: Parmenides Publishing.
+* –––, 2014, “The Conception of *eoikos/eikos* as Epistemic Standard in Xenophanes, Parmenides, and Plato’s *Timaeus*,” *Ancient Philosophy*, 34: 169–191.
+* Mueller, I., 1989, “Joan Kung’s Reading of Plato’s *Timaeus*,” in *Nature, Knowledge and Virtue: Essays in Memory of Joan Kung*, T. Penner and R. Kraut (eds.), Edmonton: Academic Printing and Publishing.
+* Nesselrath, H.-G. (trans. and commentary), 2006, *Platon: Kritias*, Platon Werke, VIII/4, Göttingen: Vandenhoeck & Ruprecht.
+* Owen, G. E. L., 1965, “The Place of the *Timaeus* in Plato’s Dialogues,” *The Classical Quarterly* (New Series), 3 (1–2): 79–95; reprinted in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul, 1965; and in *Logic, Science and Dialectic*, M. Nussbaum (ed.), Ithaca: Cornell University Press, 1986.
+* Patterson, R., 1985, *Image and Reality in Plato’s Metaphysics*, Indianapolis: Hackett Publishing Co., 1985.
+* Pelikan, J., 1997, *What has Athens to do with Jerusalem?* Timaeus *and* Genesis *in Counterpoint*, Ann Arbor: The University of Michigan Press.
+* Perl, E. D., 1998, “The Demiurge and the Forms: A Return to the Ancient Interpretation of Plato’s *Timaeus*,” *Ancient Philosophy*, 18: 81–92.
+* Phillips, J. F., 1997, “NeoPlatonic Exegeses of Plato’s Cosmology,” *Journal of the History of Philosophy*, 35: 173–197.
+* Plutarch, 1976, *De Animae Procreatione in* Timaeo, in *Plutarch’s Moralia*, vol. 13 pt. 1, H. Cherniss (trans.), Cambridge, Mass. & London: Loeb Classical Library.
+* Pradeau, J. F., 1997, *Le Monde de la Politique*, Sankt Augustin: Akademia Verlag.
+* Pritchard, P., 1990, “The Meaning of *Dynamis* at Timaeus 31c,” *Phronesis*, 35: 182–193.
+* Proclus, 1903, *In Timaeum*, E. Diehl (ed.), Leipzig: Teubner.
+* Rashed, M. and Auffret, T., 2017, “On the Inauthenticity of the *Critias*,” *Phronesis*, 62: 237–254.
+* Reydams-Schils, G. (ed.), 2003, *Plato’s Timaeus as Cultural Icon*, Notre Dame: University of Notre Dame Press.
+* Robinson, T. M., 1986, “Understanding the *Timaeus*,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 2: 103–119.
+* Sattler, B.M., 2012, “A Likely Account of Necessity, Plato’s Receptacle as a Physical and Metaphysical Basis of Space,” *Journal of the History of Philosophy*, 50: 159–195.
+* –––, 2021, “Plato’s astronomy and moral history in the *Timaeus*”, in *Ethics and the Natural World*, B.M. Sattler and U. Coope (eds.), Cambridge: Cambridge University Press.
+* Sedley, D., 1997, “‘Becoming Like God’ in the *Timaeus* and Aristotle,” in *Interpreting the Timaeus-Critias*, T. Calvo and L. Brisson (eds.), Sankt Augustin: Academia.
+* –––, 2009, *Creationism and its Critics in Antiquity*, Berkeley: University of California Press.
+* Silverman, A., 1992, “Timean Particulars,” *Classical Quarterly* (n.s.) 42: 87–113.
+* –––, 2002, *The Dialectic of Essence: A Study of Plato’s Metaphysics*, Princeton: Princeton University Press.
+* Sorabji, R., 1983, *Time, Creation and the Continuum*, Ithaca: Cornell University Press.
+* Strange, S. K., 1999, “The Double Explanation in the *Timaeus*,” in *Plato 1: Metaphysics and Epistemology*, G. Fine (ed.), Oxford: Oxford University Press.
+* Tarán, L., 1971, “The Creation Myth in Plato’s *Timaeus*,” in *Essays in Ancient Greek Philosophy*, vol. 1, J. P. Anton and G. Kustas (eds.), Albany: SUNY Press.
+* Taylor, A. E., 1928, *A Commentary on Plato’s Timaeus*, Oxford: Clarendon Press; reprinted, New York: Garland, 1967.
+* Vlastos, G., 1965a, “The Disorderly Motion in the *Timaeus*,” in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul; reprinted in *Studies in Greek Philosophy*, vol. 2, D. W. Graham (ed.), Princeton: Princeton University Press, 1995.
+* –––, 1965b, “Creation in the *Timaeus*: Is It a Fiction?” in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London and New York: Routledge and Kegan Paul; reprinted in *Studies in Greek Philosophy*, vol. 2, D. W. Graham (ed.), Princeton: Princeton University Press, 1995.
+* –––, 1975, *Plato’s Universe*, Seattle: University of Washington Press; reprinted with a new introduction by L. Brisson, Las Vegas: Parmenides Publishing, 2005.
+* Wilson, J. C., 1889, *On the Interpretation of Plato’s* Timaeus *and On the Platonist Doctrine of the* Asymbletoi Arithmoi, London: Nutt, 1889; reprinted, New York: Garland, 1980.
+* Wright, M. R (ed.), 2000, *Reason and Necessity: Essays on Plato’s ‘Timaeus’*, London: Duckworth.
+* Young, C. M., 1994, “Plato and Computer Dating,” *Oxford Studies in Ancient Philosophy*, 12: 227–50.
+* Zeyl, D. J., 2010, “Visualizing Platonic Space,” in *One Book, The Whole Universe: Plato’s Timaeus Today*, R.D. Mohr and B.M. Sattler (eds.), Las Vegas: Parmenides Publishing.
 
 ## Academic Tools
 
@@ -217,7 +216,7 @@ _首次发表于2005年10月25日；实质性修订于2022年5月13日。_
 
 ## Other Internet Resources
 
-* [_The Timaeus_](http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0180\&query=head%3D%236), Greek text and English translation, Perseus Digital Library, Tufts.
+* [*The Timaeus*](http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0180\&query=head%3D%236), Greek text and English translation, Perseus Digital Library, Tufts.
 
 ## Related Entries
 
@@ -225,4 +224,4 @@ cosmology: ancient | [Plato](https://plato.stanford.edu/entries/plato/) | [Plato
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
 [Donald Zeyl](https://web.uri.edu/philosophy/meet/donald-zeyl/)\
-Barbara Sattler <[_Barbara.Sattler@rub.de_](mailto:Barbara%2eSattler%40rub%2ede)>
+Barbara Sattler <[*Barbara.Sattler@rub.de*](mailto:Barbara%2eSattler%40rub%2ede)>

@@ -1,6 +1,6 @@
 # 结构化命题 structured (Jeffrey C. King)
 
-_首次发表于1997年9月22日星期一；实质修订于2019年5月15日星期三。_
+*首次发表于1997年9月22日星期一；实质修订于2019年5月15日星期三。*
 
 两个说话者可以通过说出不同的句子来表达相同的意思，无论是在相同的语言还是不同的语言中。例如，当一个德语说话者说出句子“Schnee ist weiss”，一个英语说话者说出句子“Snow is white”时，他们通过说出这些句子来表达了相同的意思。命题的支持者认为，严格来说，当说话者通过不同的陈述句来表达相同的意思时，存在着一些（非语言的）东西，即命题，每个人都说了这个东西。\[1]这个命题被认为是由说话者所说的两个句子（在话语背景下——为了适应语境敏感的表达）所表达的，并且可以被看作是句子的信息内容（在这些语境中）。命题被认为是首先是真或假的东西。陈述句是通过表达（在话语背景下——从现在开始忽略这种语境敏感性，因此不再需要这种限定）一个真或假的命题而具有真或假的派生性。
 
@@ -22,7 +22,7 @@ _首次发表于1997年9月22日星期一；实质修订于2019年5月15日星�
 
 表达了一个由 Jason、爱的关系和 Patty 组成的命题，以某种方式将它们统一在一起。让‘’代表 Jason，‘p’代表 Patty，‘L’代表爱的关系，我们可以将所讨论的命题表示如下：
 
-* (1a)\[_j_\[_L_\[_p_]]]
+* (1a)\[*j*\[*L*\[*p*]]]
 
 因此，(1a)的结构与(1)非常接近；而(1a)的组成部分是(1)中出现的词的语义值。实际上，在(1)和(1a)的情况下，句子中的所有语义值都是命题的组成部分。但是，对于结构化命题的某个解释/原理可能不认为这在一般情况下都成立，至少有三个原因。首先，有人可能认为句子中的某些词在短语中出现时不会将它们的语义值贡献给由这些句子表达的命题，因为这些词的语义值反而部分决定了它们所在短语的语义值，并将这些后者的语义值贡献给命题。例如，有人可能认为在句子中
 
@@ -107,16 +107,16 @@ Soames 和 Salmon 是直接指称理论家，他们认为名称（以及指示�
 
 表达命题
 
-* (4a)< < _o_ >, _R_ >
-* (5a)< < _o_, _o_′ >, _S_ >
+* (4a)< < *o* >, *R* >
+* (5a)< < *o*, *o*′ >, *S* >
 
 其中 o 是 Scott，o′ 是 Nathan，R 是跑步的属性，S 是看见的关系。 (4) 的否定表达了命题
 
-* (4b)< NEG, < < _o_ >, _R_ > >
+* (4b)< NEG, < < *o* >, *R* > >
 
 其中 NEG 是否定的真值函数。而(4)和(5)的合取（按照顺序）表达了命题
 
-* (5b)< CONJ<  < < _o_ >, _R_ >, < < _o_, _o_′ >, _S_ > > >
+* (5b)< CONJ<  < < *o* >, *R* >, < < *o*, *o*′ >, *S* > > >
 
 其中 CONJ 是合取的真值函数。类似的评论适用于使用其他真值联结词形成的句子。此外，像这样的句子也可以解释为其他原理。
 
@@ -124,7 +124,7 @@ Soames 和 Salmon 是直接指称理论家，他们认为名称（以及指示�
 
 表达命题
 
-* (6a)< SOME, _g_ >
+* (6a)< SOME, *g* >
 
 其中 SOME 是非空集合的属性，g 是从个体 o'到命题<\<o'>, R>的函项（其中，R 是运行的属性，与之前一样）。
 
@@ -150,11 +150,11 @@ Soames 和 Salmon 是直接指称理论家，他们认为名称（以及指示�
 
 expresses the proposition/set theoretic construction
 
-* (4a)< < _o_ >, _R_ >
+* (4a)< < *o* >, *R* >
 
 但是以下集合论构造似乎同样适用于命题(4)所表达的:
 
-* (4b)< _R_, < _o_ > >
+* (4b)< *R*, < *o* > >
 
 那么为什么(4a)而不是(4b)是命题(4)所表达的，并具有模态特性和真值条件？
 
@@ -170,11 +170,11 @@ expresses the proposition/set theoretic construction
 
 回到主题，我们试图说的是，在达拉游泳的命题中，达拉和游泳属性之间存在着什么关系。金先生声称我们应该确保选择一种关系，以便有充分的独立理由认为达拉和游泳属性确实处于这种关系中，从而使得所讨论的命题存在。鉴于“达拉”具有达拉作为其语义值，而“游泳”具有游泳属性作为其语义值，那么由于英语句子“达拉游泳”的存在，这里存在着一种达拉和游泳属性之间的二元关系：
 
-\*\* （关系）\*\* _存在一种语言 L，一个上下文 c 和 L 的词汇项 a 和 b，使得 a 和 b 出现在语句关系 R 的左右终端节点（分别），在 L 中编码为归属的\_\_\_是 a 在 c 中的语义值，而\_\_\_是 b 在 c 中的语义值。_
+\*\* （关系）\*\* *存在一种语言 L，一个上下文 c 和 L 的词汇项 a 和 b，使得 a 和 b 出现在语句关系 R 的左右终端节点（分别），在 L 中编码为归属的\_\_\_是 a 在 c 中的语义值，而\_\_\_是 b 在 c 中的语义值。*
 
 在以下的文中，让我们称一个具有属性的对象，或者 n 个对象之间的 n 元关系，或者一个对象与一个属性之间的关系，或者 n 个属性之间的 n 元关系等等为一个事实。因此，由于达拉与游泳的属性之间存在上述关系，以下是一个事实：
 
-\*\* （事实）\*\* _存在一种语言 L，一个上下文 c 和 L 的词汇项 a 和 b，使得 a 和 b 分别出现在句法关系 R 的左右终端节点上，在 L 中编码为归属关系，达拉是 c 中 a 的语义值，游泳是 c 中 b 的语义值。_
+\*\* （事实）\*\* *存在一种语言 L，一个上下文 c 和 L 的词汇项 a 和 b，使得 a 和 b 分别出现在句法关系 R 的左右终端节点上，在 L 中编码为归属关系，达拉是 c 中 a 的语义值，游泳是 c 中 b 的语义值。*
 
 英文句子“Dara swims”存在，而“Dara”在任何语境中的语义值是Dara，“swims”在任何语境中的语义值是游泳属性，这足以证明这个事实的存在。同样，德文句子“Dara schwimmt”存在（以及句子中的词在语境中具有的语义值），以及在Dara是说话者的语境中存在的英文句子“I swim”也足以证明这个事实的存在。如果没有这样的句子存在，所讨论的事实将不存在。
 
@@ -220,11 +220,11 @@ Lewis \[1972]和 Cresswell \[1985]都受到了像 Salmon 和 Soames 这样的新
 
 …一个人可能很容易有两个在完全相同的世界中都为真的句子α和β，但是这两个句子
 
-_xφ_s that _α_
+_xφ_s that *α*
 
 是真的，但是
 
-_xφ_s that _β_
+_xφ_s that *β*
 
 是假的。（Cresswell \[1985] p. 73; φ当然是一个命题态度的动词）。
 
@@ -236,11 +236,11 @@ _xφ_s that _β_
 
 对于 Cresswell 来说，像“runs”这样的谓词的意义本质上是它的内涵：从个体到世界集合的函数（它将个体映射到她奔跑的世界）。\[32] 让 I\*\*r 表示这个内涵。像“Max”这样的名称的意义（至少在某些情况下）仅仅是它的指称：o。因此，与（7）相关联的细粒度实体是有序对：
 
-* (7a)< _o_, _I\*\*r_ >
+* (7a)< *o*, *I\*\*r* >
 
 （7）的否定将与以下内容相关联：
 
-* (7b)< NOT, < _o_, _I\*\*r_ > >
+* (7b)< NOT, < *o*, *I\*\*r* > >
 
 其中 NOT 是从世界集合到世界集合的函项，将一个世界集合映射到其补集。最后，这个句子：
 
@@ -248,7 +248,7 @@ _xφ_s that _β_
 
 与之相关联
 
-* (8a)< Σ, _I\*\*r_ >
+* (8a)< Σ, *I\*\*r* >
 
 其中 Σ 是从个体函数到世界集合的函数，使得 Σ(f)={w: 存在某个 o，w 在 f(o) 中}。
 
@@ -352,47 +352,47 @@ Ed 跑步。
 
 ## Bibliography
 
-* Bealer, George, 1979, ‘Theories of Properties, Relations and Propositions’, _Journal of Philosophy_ 76: 634–648.
-* –––, 1982, _Quality and Concept_, Oxford: Clarendon Press.
-* –––, 1993, ‘A Solution to Frege’s Puzzle’, in _Philosophical Perspectives_ (Volume 7: Language and Logic), pp. 17–60, Atascadero, CA: Ridgeview Publishing Company.
-* Carnap, Rudolf, 1947, _Meaning and Necessity_, Chicago: University of Chicago Press.
-* Cresswell, M.J., 1985, _Structured Meanings_, Cambridge, MA: MIT Press.
-* Crimmins, Mark, 1992, _Talk About Beliefs_, Cambridge, MA: MIT Press.
-* Frege, Gottlob, 1892, ‘On Concept and Object’, in _Translations from the Philosophical Writings of Gottlob Frege_, Geach and Black (eds.), Oxford: Basil Blackwell, 1977, pp. 42–55.
-* –––, \[PMC], _Philosophical and Mathematical Correspondence_, ed. Gabriel, Hermes, Kambartek, Thiel and Veraart, Chicago: University of Chicago Press, 1980.
-* Hanks, Peter, 2009, ‘Recent Work on Propositions’, _Philosophy Compass_, 4(3): 469–486
-* –––, 2015, _Propositional Content_, Oxford: Oxford University Press.
-* Kaplan, David, 1977, ‘Demonstratives’, Draft #2, in _Themes From Kaplan_, Almog, Wettstein, Perry (eds.), Oxford: Oxford University Press, 1989, pp. 481–564.
-* Keller, Lorraine, 2014, ‘The Metaphysics of Propositional Constituency’, _Canadian Journal of Philosophy_, 43: 655–78
-* King, Jeffrey C., 1995, ‘Structured Propositions and Complex Predicates’, _Noûs_, 29(4): 516–535
-* –––, 1996, ‘Structured Propositions and Sentence Structure’, _Journal of Philosophical Logic_, 25: 495–521
-* –––, 2007, _The Nature and Structure of Content_, Oxford: Oxford University Press.
-* –––, 2009, ‘Questions of Unity’, _The Proceedings of the Aristotelian Society_, 109: 257–277.
-* –––, 2018, ‘On Propositions and Fineness of Grain (Again!)’, _Synthese_, 196(4): 1343–1367.
-* King, Jeffrey C., Jeff Speaks, and Scott Soames, 2014, _New Thinking About Propositions_, New York: Oxford University Press.
-* Kripke, Saul, 1972, 1980, _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* Larson, R and P. Ludlow, 1993, ‘Interpreted Logical Forms’, _Synthese_, 95: 305–356
-* Lewis, David, 1972, ‘General Semantics’, in _Semantics of Natural Language_, Davidson and Harman (eds.), Dordrecht: D. Reidel, pp. 169–218.
-* Menzel, Christopher, 1993, ‘The Proper Treatment of Predication in Fine-grained Intensional Logic’, in _Philosophical Perspectives, 7, Language and Logic_, pp. 61–87, Atascadero, CA: Ridgeview Publishing Company.
-* Merricks, Trenton, 2015, _Propositions_, Oxford: Oxford University Press.
-* Montague, Richard, 1960, ‘On the Nature of Certain Philosophical Entities’, _The Monist_, 53: 159–94
-* –––, 1970, ‘Pragmatics and Intensional Logic’ in _Formal Philosophy: Selected Papers of Richard Montague_, New Haven: Yale University Press, 1974.
-* Richard, Mark, 1982, ‘Tense, Propositions and Meanings’ _Philosophical Studies_, 41: 337–351.
-* –––, 1990, _Propositional Attitudes: An Essay on Thoughts and How We Ascribe Them_, Cambridge: Cambridge University Press.
-* Russell, Bertrand, 1903, _Principles of Mathematics_, second Edition, New York: Norton.
-* Salmon, Nathan, 1986a, _Frege’s Puzzle_, Cambridge: MIT Press/Bradford Books.
-* –––, 1986b, ‘Reflexivity’, _Notre Dame Journal of Formal Logic_, 27(3): 401–429.
-* –––, 1989a, ‘Illogical Belief’, _Philosophical Perspectives, 3, Philosophy of Mind and Action Theory_, Atascadero, CA: Ridgeview Publishing Company, p. 243–285.
-* –––, 1989b, ‘Tense and Singular Propositions’, in _Themes From Kaplan_, Almog, Wettstein, Perry (eds.), Oxford: Oxford University Press, 1989, pp. 391–392.
-* Soames, Scott, 1985, ‘Lost Innocence’, _Linguistics and Philosophy_, 8: 59–71.
-* –––, 1987, ‘Direct Reference, Propositional Attitudes and Semantic Content’, _Philosophical Topics_, 15: 47–87.
-* –––, 1989, ‘Semantics and Semantic Competence’, _Philosophical Perspectives, 3, Philosophy of Mind and Action Theory_, Atascadero, CA: Ridgeview Publishing Company, pp. 575–596.
-* –––, 2002, _Beyond Rigidity_, New York: Oxford University Press.
-* –––, 2010, _What is Meaning?_, Princeton: Princeton University Press.
-* –––, 2019, ‘Propositions’, in Chris Tillman (ed.), _The Routledge Handbook of Propositions_, London: Routledge.
-* Stanley, Jason, 2000, ‘Context and Logical Form’, _Linguistics and Philosophy_, 23: 391–434.
-* Zalta, Edward N., 1983, _Abstract Objects: An Introduction to Axiomatic Metaphysics_, Dordrecht: D. Reidel.
-* –––, 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: MIT Press.
+* Bealer, George, 1979, ‘Theories of Properties, Relations and Propositions’, *Journal of Philosophy* 76: 634–648.
+* –––, 1982, *Quality and Concept*, Oxford: Clarendon Press.
+* –––, 1993, ‘A Solution to Frege’s Puzzle’, in *Philosophical Perspectives* (Volume 7: Language and Logic), pp. 17–60, Atascadero, CA: Ridgeview Publishing Company.
+* Carnap, Rudolf, 1947, *Meaning and Necessity*, Chicago: University of Chicago Press.
+* Cresswell, M.J., 1985, *Structured Meanings*, Cambridge, MA: MIT Press.
+* Crimmins, Mark, 1992, *Talk About Beliefs*, Cambridge, MA: MIT Press.
+* Frege, Gottlob, 1892, ‘On Concept and Object’, in *Translations from the Philosophical Writings of Gottlob Frege*, Geach and Black (eds.), Oxford: Basil Blackwell, 1977, pp. 42–55.
+* –––, \[PMC], *Philosophical and Mathematical Correspondence*, ed. Gabriel, Hermes, Kambartek, Thiel and Veraart, Chicago: University of Chicago Press, 1980.
+* Hanks, Peter, 2009, ‘Recent Work on Propositions’, *Philosophy Compass*, 4(3): 469–486
+* –––, 2015, *Propositional Content*, Oxford: Oxford University Press.
+* Kaplan, David, 1977, ‘Demonstratives’, Draft #2, in *Themes From Kaplan*, Almog, Wettstein, Perry (eds.), Oxford: Oxford University Press, 1989, pp. 481–564.
+* Keller, Lorraine, 2014, ‘The Metaphysics of Propositional Constituency’, *Canadian Journal of Philosophy*, 43: 655–78
+* King, Jeffrey C., 1995, ‘Structured Propositions and Complex Predicates’, *Noûs*, 29(4): 516–535
+* –––, 1996, ‘Structured Propositions and Sentence Structure’, *Journal of Philosophical Logic*, 25: 495–521
+* –––, 2007, *The Nature and Structure of Content*, Oxford: Oxford University Press.
+* –––, 2009, ‘Questions of Unity’, *The Proceedings of the Aristotelian Society*, 109: 257–277.
+* –––, 2018, ‘On Propositions and Fineness of Grain (Again!)’, *Synthese*, 196(4): 1343–1367.
+* King, Jeffrey C., Jeff Speaks, and Scott Soames, 2014, *New Thinking About Propositions*, New York: Oxford University Press.
+* Kripke, Saul, 1972, 1980, *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Larson, R and P. Ludlow, 1993, ‘Interpreted Logical Forms’, *Synthese*, 95: 305–356
+* Lewis, David, 1972, ‘General Semantics’, in *Semantics of Natural Language*, Davidson and Harman (eds.), Dordrecht: D. Reidel, pp. 169–218.
+* Menzel, Christopher, 1993, ‘The Proper Treatment of Predication in Fine-grained Intensional Logic’, in *Philosophical Perspectives, 7, Language and Logic*, pp. 61–87, Atascadero, CA: Ridgeview Publishing Company.
+* Merricks, Trenton, 2015, *Propositions*, Oxford: Oxford University Press.
+* Montague, Richard, 1960, ‘On the Nature of Certain Philosophical Entities’, *The Monist*, 53: 159–94
+* –––, 1970, ‘Pragmatics and Intensional Logic’ in *Formal Philosophy: Selected Papers of Richard Montague*, New Haven: Yale University Press, 1974.
+* Richard, Mark, 1982, ‘Tense, Propositions and Meanings’ *Philosophical Studies*, 41: 337–351.
+* –––, 1990, *Propositional Attitudes: An Essay on Thoughts and How We Ascribe Them*, Cambridge: Cambridge University Press.
+* Russell, Bertrand, 1903, *Principles of Mathematics*, second Edition, New York: Norton.
+* Salmon, Nathan, 1986a, *Frege’s Puzzle*, Cambridge: MIT Press/Bradford Books.
+* –––, 1986b, ‘Reflexivity’, *Notre Dame Journal of Formal Logic*, 27(3): 401–429.
+* –––, 1989a, ‘Illogical Belief’, *Philosophical Perspectives, 3, Philosophy of Mind and Action Theory*, Atascadero, CA: Ridgeview Publishing Company, p. 243–285.
+* –––, 1989b, ‘Tense and Singular Propositions’, in *Themes From Kaplan*, Almog, Wettstein, Perry (eds.), Oxford: Oxford University Press, 1989, pp. 391–392.
+* Soames, Scott, 1985, ‘Lost Innocence’, *Linguistics and Philosophy*, 8: 59–71.
+* –––, 1987, ‘Direct Reference, Propositional Attitudes and Semantic Content’, *Philosophical Topics*, 15: 47–87.
+* –––, 1989, ‘Semantics and Semantic Competence’, *Philosophical Perspectives, 3, Philosophy of Mind and Action Theory*, Atascadero, CA: Ridgeview Publishing Company, pp. 575–596.
+* –––, 2002, *Beyond Rigidity*, New York: Oxford University Press.
+* –––, 2010, *What is Meaning?*, Princeton: Princeton University Press.
+* –––, 2019, ‘Propositions’, in Chris Tillman (ed.), *The Routledge Handbook of Propositions*, London: Routledge.
+* Stanley, Jason, 2000, ‘Context and Logical Form’, *Linguistics and Philosophy*, 23: 391–434.
+* Zalta, Edward N., 1983, *Abstract Objects: An Introduction to Axiomatic Metaphysics*, Dordrecht: D. Reidel.
+* –––, 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: MIT Press.
 
 ## Academic Tools
 
@@ -415,4 +415,4 @@ Ed 跑步。
 Thanks go to Mark Brown for spotting a use/mention error in Section 2 and for identifying other typographical errors which have now been corrected. Thanks to Annie Papreck King for help with manuscript preparation.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com\_content\&task=view\&id=105\&Itemid=210) <[_jcking310@gmail.com_](mailto:jcking310%40gmail%2ecom)>
+[Jeffrey C. King](http://philosophy.rutgers.edu/index.php?option=com\_content\&task=view\&id=105\&Itemid=210) <[*jcking310@gmail.com*](mailto:jcking310%40gmail%2ecom)>

@@ -172,7 +172,7 @@
 * Corris, Michael (ed.), 2004. *Conceptual Art: Theory, Myth, and Practice*, Cambridge: Cambridge University Press.
 * Cray, Wesley, 2014. ‘Conceptual Art, Ideas and Ontology’, *Journal of Aesthetics and Art Criticism*, 72: 265–277.
 * Currie, Gregory, 1988. *An Ontology of Art*, New York: St Martin’s Press.
-* Dal Sasso, David & Schellekens, Elisabeth, 2022. *Aesthetics, Philosophy and Conceptual Art.* London: Bloomsbury. 
+* Dal Sasso, David & Schellekens, Elisabeth, 2022. *Aesthetics, Philosophy and Conceptual Art.* London: Bloomsbury.
 * Danto, Arthur C., 1964. ‘The Artworld’, *Journal of Philosophy*, 61: 571–584.
 * –––, 1981. *The Transfiguration of the Commonplace*, Cambridge, MA: Harvard University Press.
 * Davies, David, 2004. *Art as Performance*, Oxford: Blackwells.

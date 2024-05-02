@@ -1,10 +1,9 @@
 # 康德的先验论证 transcendental arguments (Derk Pereboom)
 
-_首次发表于2009年8月21日，实质修订于2022年8月19日。_
+*首次发表于2009年8月21日，实质修订于2022年8月19日。*
 
 伊曼努尔·康德（1724-1804）对哲学最有影响力的贡献之一是他对先验论证的发展。在康德的构想中，这种论证始于一个关于我们的思想、经验或知识的令人信服的前提，然后推理出一个实质性且不明显的预设和这个前提的必要条件的结论。这种推理中的关键步骤是声称一个子结论或结论是一个前提的预设和必要条件。这样的必要条件可能是逻辑上的必要条件，但在康德的先验论证中，这个条件通常是必要的，因为它是前提的唯一可能的解释，因此这种必要性可能比逻辑上的要弱。通常情况下，这种推理在某种意义上被认为是先验的，要么是严格的（Smit 1999），要么是更宽松的（Philip Kitcher 1981，Pereboom 1990）。论证的结论通常是针对某种形式的怀疑主义。例如，康德的先验演绎论证针对休谟关于先验形而上学概念适用性的怀疑，他的唯心主义反驳则针对对外部对象的怀疑。这两种先验论证都可以在《纯粹理性批判》（1781 年，1787 年）中找到，但这样的论证在康德的著作中随处可见，例如在《道德形而上学基础》（1785 年），《实践理性批判》（1788 年），《判断力批判》（1790 年）和《遗稿》（1804 年；Förster 1989）中。本文重点介绍先验演绎论证、唯心主义反驳以及受康德著作启发的更近期的先验论证。
 
- 
 ***
 
 ## 1. 先验推论
@@ -317,122 +316,122 @@ Stern (2017)将这一论点解释如下。行动就是出于理由去做或选�
 
 ### Primary Literature: Works by Kant
 
-* _Gesammelte Schriften_, _Koniglichen Preussischen Academie der Wissenschaften_ (ed.), 29 Volumes, Berlin: Walter de Gruyter _et al_., 1902–
-* 1781/1787, _Critique of Pure Reason_ (trans. P. Guyer and A. Wood). Cambridge and New York: Cambridge University Press, 1987. (References to _CPR_ are in the standard pagination of the 1st (A) and 2nd (B) editions. A reference to only one edition means that the passage appeared only in that edition.)
-* 1785, _Groundwork of the Metaphysics of Morals_, (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1996.
-* 1788, _Critique of Practical Reason_ (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1997.
-* 1790, _Critique of the Power of Judgment_ (trans. P. Guyer and E. Matthews). Cambridge and New York: Cambridge University Press, 2001.
-* 1804, _Opus Postumum_ (trans. E. Förster and M. Rosen). Cambridge and New York: Cambridge University Press, 1995.
+* *Gesammelte Schriften*, *Koniglichen Preussischen Academie der Wissenschaften* (ed.), 29 Volumes, Berlin: Walter de Gruyter *et al*., 1902–
+* 1781/1787, *Critique of Pure Reason* (trans. P. Guyer and A. Wood). Cambridge and New York: Cambridge University Press, 1987. (References to *CPR* are in the standard pagination of the 1st (A) and 2nd (B) editions. A reference to only one edition means that the passage appeared only in that edition.)
+* 1785, *Groundwork of the Metaphysics of Morals*, (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1996.
+* 1788, *Critique of Practical Reason* (trans. M. Gregor). Cambridge and New York: Cambridge University Press, 1997.
+* 1790, *Critique of the Power of Judgment* (trans. P. Guyer and E. Matthews). Cambridge and New York: Cambridge University Press, 2001.
+* 1804, *Opus Postumum* (trans. E. Förster and M. Rosen). Cambridge and New York: Cambridge University Press, 1995.
 
 ### Secondary Literature
 
-* Adams, R. M., 1983. “Phenomenalism and Corporeal Substance in Leibniz,” _Midwest Studies in Philosophy_ 8: 217–57.
-* –––, 1994. _Leibniz: Determinist, Theist, Idealist_. Oxford: Oxford University Press.
-* Adickes, E., 1889. _Immanuel Kants Kritik der reinen Vernunft_, Berlin: Mayer & Müller.
-* Allais, L., 2011. “Transcendental Idealism and the Transcendental Deduction,” in _Kant’s Idealism_, D. Schulting and J. Verburgt, (eds.), Dordrecht: Springer, pp. 91–107.
-* –––, 2015. _Manifest Reality_, Oxford: Oxford University Press.
-* Allison, H., 1983/2004. _Kant’s Transcendental Idealism_, New Haven: Yale University Press; second edition, 2004.
-* –––, 2015. _Kant’s Transcendental Deduction_, Oxford: Oxford University Press.
-* Aquila, R., 1989. _Matter and Mind_, Bloomington: Indiana University Press.
-* Ameriks, K., 1978. “Kant’s Transcendental Deduction as a Regressive Argument,” _Kant-Studien_, 69: 273–87.
-* Baum, M., 1986. _Deduktion und Beweis in Kants Transzendentalphilosophie_, Konigstein, Athenaeum.
-* Beck, L. W., 1978. “Did the Sage of Königsberg Have No Dreams?” in L. W. Beck (ed.), _Essays on Kant and Hume_, New Haven: Yale University Press, pp. 38–60.
-* Bennett, J., 1966. _Kant’s Analytic_, Cambridge: Cambridge University Press.
+* Adams, R. M., 1983. “Phenomenalism and Corporeal Substance in Leibniz,” *Midwest Studies in Philosophy* 8: 217–57.
+* –––, 1994. *Leibniz: Determinist, Theist, Idealist*. Oxford: Oxford University Press.
+* Adickes, E., 1889. *Immanuel Kants Kritik der reinen Vernunft*, Berlin: Mayer & Müller.
+* Allais, L., 2011. “Transcendental Idealism and the Transcendental Deduction,” in *Kant’s Idealism*, D. Schulting and J. Verburgt, (eds.), Dordrecht: Springer, pp. 91–107.
+* –––, 2015. *Manifest Reality*, Oxford: Oxford University Press.
+* Allison, H., 1983/2004. *Kant’s Transcendental Idealism*, New Haven: Yale University Press; second edition, 2004.
+* –––, 2015. *Kant’s Transcendental Deduction*, Oxford: Oxford University Press.
+* Aquila, R., 1989. *Matter and Mind*, Bloomington: Indiana University Press.
+* Ameriks, K., 1978. “Kant’s Transcendental Deduction as a Regressive Argument,” *Kant-Studien*, 69: 273–87.
+* Baum, M., 1986. *Deduktion und Beweis in Kants Transzendentalphilosophie*, Konigstein, Athenaeum.
+* Beck, L. W., 1978. “Did the Sage of Königsberg Have No Dreams?” in L. W. Beck (ed.), *Essays on Kant and Hume*, New Haven: Yale University Press, pp. 38–60.
+* Bennett, J., 1966. *Kant’s Analytic*, Cambridge: Cambridge University Press.
 * –––, 1979. “Analytic Transcendental Arguments,” in Bieri, Horstmann and Krüger (eds.), 1979, pp. 45–64.
-* Berkeley, G., 1710. _A Treatise Concerning the Principles of Human Knowledge_, Jonathan Dancy (ed.), Oxford: Oxford University Press, 1998.
-* –––, 1713. _Three Dialogues between Hylas and Philonous_, Jonathan Dancy (ed.), Oxford: Oxford University Press, 1998.
-* Bieri, P., Horstmann, R., and Krüger, L. (eds.), 1979. _Transcendental Arguments and Science: Essays in Epistemology_, Dordrecht: D. Reidel.
-* Bird, G., 1962/1973. _Kant’s Theory of Knowledge_, London: Routledge and Kegan Paul; reprinted, New York: Humanities Press, 1973.
-* Brueckner, A., 1983. “Transcendental Arguments I,” _Noûs_, 17: 551–75.
-* –––, 1984. “Transcendental Arguments II,” _Noûs_, 18: 197–225.
-* –––, 1996. “Modest Transcendental Arguments,” _Philosophical Perspectives_, 10: 265–80.
-* Caird, E., 1889. _The Critical Philosophy of Kant_, New York: Macmillan.
+* Berkeley, G., 1710. *A Treatise Concerning the Principles of Human Knowledge*, Jonathan Dancy (ed.), Oxford: Oxford University Press, 1998.
+* –––, 1713. *Three Dialogues between Hylas and Philonous*, Jonathan Dancy (ed.), Oxford: Oxford University Press, 1998.
+* Bieri, P., Horstmann, R., and Krüger, L. (eds.), 1979. *Transcendental Arguments and Science: Essays in Epistemology*, Dordrecht: D. Reidel.
+* Bird, G., 1962/1973. *Kant’s Theory of Knowledge*, London: Routledge and Kegan Paul; reprinted, New York: Humanities Press, 1973.
+* Brueckner, A., 1983. “Transcendental Arguments I,” *Noûs*, 17: 551–75.
+* –––, 1984. “Transcendental Arguments II,” *Noûs*, 18: 197–225.
+* –––, 1996. “Modest Transcendental Arguments,” *Philosophical Perspectives*, 10: 265–80.
+* Caird, E., 1889. *The Critical Philosophy of Kant*, New York: Macmillan.
 * Carl, W., 1989. “Kant’s First Drafts of the Deduction of the Categories,” in Förster 1989, pp. 3–26.
-* –––, 1992. _Die Transzendentale Deduktion der Kategorien in der erstren Auflage der Kritik der reinen Vernuft_, Frankfurt: Klostermann.
-* Cassam, Q., 1999. _Self and World_. Oxford: Oxford University Press.
-* Chignell, A., 2010. “Causal Refutations of Idealism,” _Philosophical Quarterly_, 60: 487–507.
-* Coates, J., 2017. “Strawson’s Modest Transcendental Argument,” _British Journal for the History of Philosophy_, 25: 799–822.
-* Dicker, G., 2004. _Kant’s Theory of Knowledge_, New York: Oxford University Press.
-* –––, 2008. “Kant’s Refutation of Idealism,” _Noûs_, 42: 80–108.
-* Dickerson, A. B., 2004. _Kant on Representation and Objectivity_, Cambridge: Cambridge University Press.
-* Dufour, E., 2003. “Remarque sur la note du paragraph 26 de l’Analytique transcendentale,” _Kant-Studien_ 94(1): 69–79.
-* Dyck, C., 2011. “Kant’s Transcendental Deduction and the Ghosts of Descartes and Hume,” _British Journal for the History of Philosophy_, 19: 473–96.
-* Falkenstein, Lorne. 1995. _Kant’s Intuitionism_, Toronto: University of Toronto Press.
-* Fichant, M. 1997. “L’espace est représenté comme une grandeur infinie donnée: La radicalité de l’esthétique,”_Philosophie_ 56(1): 20–48.
-* Förster, E. (ed.), 1989. _Kant’s Transcendental Deductions_, Stanford: Stanford University Press.
-* Friedman, M., 2012. “Kant on Geometry and Spatial Intuition,” _Synthese_ 186(1): 231–255.
-* Gomes, A., 2010. “Is Kant’s Transcendental Deduction of the Categories Fit for Purpose?” _Kantian Review_, 15(2): 118–137.
-* Grüne, S., 2011. “Is There a Gap in Kant’s B Deduction?”_International Journal of Philosophical Studies_ 19: 465–90.
-* Guyer, P., 1977. “Review of W. H. Walsh, _Kant and the Criticism of Metaphysics_,” _The Philosophical Review_, 86: 264–70.
-* –––, 1987. _Kant and the Claims of Knowledge_, Cambridge: Cambridge University Press.
-* Hanna, R., 2008. “Kantian Non-Conceptualism,” _Philosophical Studies_, 137: 41–64.
-* –––, 2011. “Beyond the Myth of the Myth: A Kantian Theory of Non-Conceptual Content,” _International Journal of Philosophical Studies_, 43: 91–110.
-* Heidegger, M., 1929/1997. _Immanuel Kant und das Problem der Metaphysik_, Friedrich Cohen; translated as _Immanuel Kant and the Problem of Metaphysics_, by Richard Taft, fifth edition, Bloomington: Indiana University Press.
-* Henrich, D., 1968–9. “The Proof-structure of Kant’s Transcendental Deduction,” _Review of Metaphysics_, 22: 640–59.
+* –––, 1992. *Die Transzendentale Deduktion der Kategorien in der erstren Auflage der Kritik der reinen Vernuft*, Frankfurt: Klostermann.
+* Cassam, Q., 1999. *Self and World*. Oxford: Oxford University Press.
+* Chignell, A., 2010. “Causal Refutations of Idealism,” *Philosophical Quarterly*, 60: 487–507.
+* Coates, J., 2017. “Strawson’s Modest Transcendental Argument,” *British Journal for the History of Philosophy*, 25: 799–822.
+* Dicker, G., 2004. *Kant’s Theory of Knowledge*, New York: Oxford University Press.
+* –––, 2008. “Kant’s Refutation of Idealism,” *Noûs*, 42: 80–108.
+* Dickerson, A. B., 2004. *Kant on Representation and Objectivity*, Cambridge: Cambridge University Press.
+* Dufour, E., 2003. “Remarque sur la note du paragraph 26 de l’Analytique transcendentale,” *Kant-Studien* 94(1): 69–79.
+* Dyck, C., 2011. “Kant’s Transcendental Deduction and the Ghosts of Descartes and Hume,” *British Journal for the History of Philosophy*, 19: 473–96.
+* Falkenstein, Lorne. 1995. *Kant’s Intuitionism*, Toronto: University of Toronto Press.
+* Fichant, M. 1997. “L’espace est représenté comme une grandeur infinie donnée: La radicalité de l’esthétique,”*Philosophie* 56(1): 20–48.
+* Förster, E. (ed.), 1989. *Kant’s Transcendental Deductions*, Stanford: Stanford University Press.
+* Friedman, M., 2012. “Kant on Geometry and Spatial Intuition,” *Synthese* 186(1): 231–255.
+* Gomes, A., 2010. “Is Kant’s Transcendental Deduction of the Categories Fit for Purpose?” *Kantian Review*, 15(2): 118–137.
+* Grüne, S., 2011. “Is There a Gap in Kant’s B Deduction?”*International Journal of Philosophical Studies* 19: 465–90.
+* Guyer, P., 1977. “Review of W. H. Walsh, *Kant and the Criticism of Metaphysics*,” *The Philosophical Review*, 86: 264–70.
+* –––, 1987. *Kant and the Claims of Knowledge*, Cambridge: Cambridge University Press.
+* Hanna, R., 2008. “Kantian Non-Conceptualism,” *Philosophical Studies*, 137: 41–64.
+* –––, 2011. “Beyond the Myth of the Myth: A Kantian Theory of Non-Conceptual Content,” *International Journal of Philosophical Studies*, 43: 91–110.
+* Heidegger, M., 1929/1997. *Immanuel Kant und das Problem der Metaphysik*, Friedrich Cohen; translated as *Immanuel Kant and the Problem of Metaphysics*, by Richard Taft, fifth edition, Bloomington: Indiana University Press.
+* Henrich, D., 1968–9. “The Proof-structure of Kant’s Transcendental Deduction,” *Review of Metaphysics*, 22: 640–59.
 * –––, 1989. “Kant’s Notion of a Deduction,” in Förster 1989, pp. 29–46.
-* Hogan, D., 2021. “Handedness, Idealism, and Freedom,” _The Philosophical Review,_ 130(3): 385–449.
-* Howell, R., 1992. _Kant’s Transcendental Deduction_, Dordrecht: Kluwer.
-* –––, 2001. ‘Kant, the ‘I think’ and Self-Awareness,’ in P. Cicovacki (ed.), _Kant’s Legacy_, Rochester: University of Rochester Press, pp. 117–52.
-* Hume, D., 1739. _A Treatise of Human Nature_, Oxford: Oxford University Press, 1978.
-* –––, 1748. _An Enquiry Concerning Human Understanding_, Oxford: Oxford University Press, 2005.
-* Husserl, E., 1913. _Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie_, Vol. 1. In: J_ahrbuch für Philosophie und phänomenologische Forschung_ 1,1, 1–323 \[= _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy_—First Book: General Introduction to a Pure Phenomenology, trans. F. Kersten. The Hague: Nijhoff, 1982].
-* –––, 1939. _Erfahrung und Urteil._ _Untersuchungen zur Genealogie der Logik_. Ausgearbeitet und herausgegeben von Ludwig Landgrebe. Prag: Academia Verlagsbuchhandlung \[= _Experience and Judgement_, trans. J. S. Churchill and K. Ameriks. London: Routledge, 1973].
-* Jauernig, A., 2021. _The World according to Kant: Appearances and Things in Themselves in Critical Idealism_, New York: Oxford University Press.
-* Kaye, L. J., 2015. _Kant’s Transcendental Deduction of the Categories: Unity, Representation, and Apperception_, Lanham, MD: Lexington Books.
-* Keller, P., 1998. _Kant and the Demands of Self-Consciousness_, Cambridge: Cambridge University Press.
-* Kemp-Smith, N., 1923. A Commentary to Kant’s _Critique of Pure Reason_, New York: Humanities Press, 1962, second edition.
-* Kitcher, Patricia, 1990. _Kant’s Transcendental Psychology_, New York: Oxford University Press.
-* –––, 2011. _Kant’s Thinker_, New York: Oxford University Press.
-* Kitcher, Philip, 1981. ‘How Kant Almost Wrote ‘Two Dogmas of Empiricism,’ _Philosophical Topics_, 12: 217–49.
-* Korsgaard, C., 1996. _The Sources of Normativity_, Cambridge: Cambridge University Press.
-* Kuehn, M., 1997. “The Wolffian Background to Kant’s Transcendental Deduction,” in _Logic and the Workings of the Mind_, P. A. Easton (ed.), Atascadero: Ridgeview Press, pp. 229–50.
-* Longuenesse, B., 1998. _Kant and the Capacity to Judge_, Princeton: Princeton University Press.
-* –––, 2000. “Kant’s Categories and the Capacity to Judge,” _Inquiry_, 43: 91–110.
-* –––, 2017. _I, Me, Mine_, New York: Oxford University Press.
-* McCann, E., 1985 “Skepticism and Kant’s B-Deduction,” _History of Philosophy Quarterly_, 2: 71–89.
-* McLear, C., 2014. “The Kantian (Non)-Conceptualism Debate,” _Philosophy Compass,_ 9(11): 769–90.
-* –––, 2015. “Two Kinds of Unity in the Critique of Pure Reason,” _Journal of the History of Philosophy_, 53(1), pp. 79–110.
-* –––, 2020. “Kantian Conceptualism/Nonconceptualism,” _The Stanford Encyclopedia of Philosophy_ (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/kant-conceptualism/](https://plato.stanford.edu/archives/fall2021/entries/kant-conceptualism/).
-* Melnick, A., 1973., _Kant’s Analogies of Experience_, Chicago: University of Chicago Press.
-* Messina, J., 2014., “Kant on the Unity of Space and the Synthetic Unity of Apperception,” _Kant-Studien_, 105(1): 5–40.
-* Nagel, T., 1997. _The Last Word_, Oxford: Oxford University Press.
-* Onof, C., and D. Schulting, 2015. “Space as Formal Intuition and as Form of Intuition,” _The Philosophical Review_, 124: 1–58.
-* Paton, H. J., 1936. _Kant’s Metaphysic of Experience_, London: Allen and Unwin, 2 vols.
+* Hogan, D., 2021. “Handedness, Idealism, and Freedom,” *The Philosophical Review,* 130(3): 385–449.
+* Howell, R., 1992. *Kant’s Transcendental Deduction*, Dordrecht: Kluwer.
+* –––, 2001. ‘Kant, the ‘I think’ and Self-Awareness,’ in P. Cicovacki (ed.), *Kant’s Legacy*, Rochester: University of Rochester Press, pp. 117–52.
+* Hume, D., 1739. *A Treatise of Human Nature*, Oxford: Oxford University Press, 1978.
+* –––, 1748. *An Enquiry Concerning Human Understanding*, Oxford: Oxford University Press, 2005.
+* Husserl, E., 1913. *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, Vol. 1. In: J_ahrbuch für Philosophie und phänomenologische Forschung_ 1,1, 1–323 \[= *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*—First Book: General Introduction to a Pure Phenomenology, trans. F. Kersten. The Hague: Nijhoff, 1982].
+* –––, 1939. *Erfahrung und Urteil.* *Untersuchungen zur Genealogie der Logik*. Ausgearbeitet und herausgegeben von Ludwig Landgrebe. Prag: Academia Verlagsbuchhandlung \[= *Experience and Judgement*, trans. J. S. Churchill and K. Ameriks. London: Routledge, 1973].
+* Jauernig, A., 2021. *The World according to Kant: Appearances and Things in Themselves in Critical Idealism*, New York: Oxford University Press.
+* Kaye, L. J., 2015. *Kant’s Transcendental Deduction of the Categories: Unity, Representation, and Apperception*, Lanham, MD: Lexington Books.
+* Keller, P., 1998. *Kant and the Demands of Self-Consciousness*, Cambridge: Cambridge University Press.
+* Kemp-Smith, N., 1923. A Commentary to Kant’s *Critique of Pure Reason*, New York: Humanities Press, 1962, second edition.
+* Kitcher, Patricia, 1990. *Kant’s Transcendental Psychology*, New York: Oxford University Press.
+* –––, 2011. *Kant’s Thinker*, New York: Oxford University Press.
+* Kitcher, Philip, 1981. ‘How Kant Almost Wrote ‘Two Dogmas of Empiricism,’ *Philosophical Topics*, 12: 217–49.
+* Korsgaard, C., 1996. *The Sources of Normativity*, Cambridge: Cambridge University Press.
+* Kuehn, M., 1997. “The Wolffian Background to Kant’s Transcendental Deduction,” in *Logic and the Workings of the Mind*, P. A. Easton (ed.), Atascadero: Ridgeview Press, pp. 229–50.
+* Longuenesse, B., 1998. *Kant and the Capacity to Judge*, Princeton: Princeton University Press.
+* –––, 2000. “Kant’s Categories and the Capacity to Judge,” *Inquiry*, 43: 91–110.
+* –––, 2017. *I, Me, Mine*, New York: Oxford University Press.
+* McCann, E., 1985 “Skepticism and Kant’s B-Deduction,” *History of Philosophy Quarterly*, 2: 71–89.
+* McLear, C., 2014. “The Kantian (Non)-Conceptualism Debate,” *Philosophy Compass,* 9(11): 769–90.
+* –––, 2015. “Two Kinds of Unity in the Critique of Pure Reason,” *Journal of the History of Philosophy*, 53(1), pp. 79–110.
+* –––, 2020. “Kantian Conceptualism/Nonconceptualism,” *The Stanford Encyclopedia of Philosophy* (Fall 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2021/entries/kant-conceptualism/](https://plato.stanford.edu/archives/fall2021/entries/kant-conceptualism/).
+* Melnick, A., 1973., *Kant’s Analogies of Experience*, Chicago: University of Chicago Press.
+* Messina, J., 2014., “Kant on the Unity of Space and the Synthetic Unity of Apperception,” *Kant-Studien*, 105(1): 5–40.
+* Nagel, T., 1997. *The Last Word*, Oxford: Oxford University Press.
+* Onof, C., and D. Schulting, 2015. “Space as Formal Intuition and as Form of Intuition,” *The Philosophical Review*, 124: 1–58.
+* Paton, H. J., 1936. *Kant’s Metaphysic of Experience*, London: Allen and Unwin, 2 vols.
 * Pereboom, D., 1988. “Kant on Intentionality,” Synthèse, 77(3): 321–52.
-* –––, 1990. “Kant on Justification in Transcendental Philosophy,” _Synthèse_, 85: 25–54.
-* –––, 1995. “Self-Understanding in Kant’s Transcendental Deduction,” _Synthèse_, 103: 1–42.
-* –––, 2006. “Kant’s Metaphysical and Transcendental Deductions,” in _The Blackwell Guide to Kant_, G. Bird (ed.), Oxford: Blackwell, pp. 154–68.
-* –––, 2016. “Transcendental Arguments,” in _The Oxford Handbook of Philosophical Methodology_, J. Hawthorne, H. Cappelen, and T. Gendler (eds.), Oxford: Oxford University Press, pp. 444–62.
-* –––, 2022. _Wrongdoing and the Moral Emotions_, Oxford: Oxford University Press.
-* Pollok, K., 2008. “‘An Almost Single Inference’ – Kant’s Transcendental Deduction of the Categories Reconsidered,” _Archiv für Geschichte der Philosophie_ 90: 323–45.
-* Rosefeldt, T., 2000. _Das logische Ich: Kant über den Gehalt des Begriffes von sich selbst_, Berlin: Philo.
-* –––, 2022. “Kant on Decomposing Synthesis and the Intuition of Infinite Space,” _Philosophers’ Imprint_, 22: 1–32.
+* –––, 1990. “Kant on Justification in Transcendental Philosophy,” *Synthèse*, 85: 25–54.
+* –––, 1995. “Self-Understanding in Kant’s Transcendental Deduction,” *Synthèse*, 103: 1–42.
+* –––, 2006. “Kant’s Metaphysical and Transcendental Deductions,” in *The Blackwell Guide to Kant*, G. Bird (ed.), Oxford: Blackwell, pp. 154–68.
+* –––, 2016. “Transcendental Arguments,” in *The Oxford Handbook of Philosophical Methodology*, J. Hawthorne, H. Cappelen, and T. Gendler (eds.), Oxford: Oxford University Press, pp. 444–62.
+* –––, 2022. *Wrongdoing and the Moral Emotions*, Oxford: Oxford University Press.
+* Pollok, K., 2008. “‘An Almost Single Inference’ – Kant’s Transcendental Deduction of the Categories Reconsidered,” *Archiv für Geschichte der Philosophie* 90: 323–45.
+* Rosefeldt, T., 2000. *Das logische Ich: Kant über den Gehalt des Begriffes von sich selbst*, Berlin: Philo.
+* –––, 2022. “Kant on Decomposing Synthesis and the Intuition of Infinite Space,” *Philosophers’ Imprint*, 22: 1–32.
 * Rorty, R., 1979. “Transcendental Arguments, Self-Reference, and Pragmatism,” in Bieri, Horstmann & Krüger (eds.), 1979, pp. 77–103.
-* Russell, B., 1912. _The Problems of Philosophy_, London, Williams and Norgate; New York, Henry Holt & Co.
+* Russell, B., 1912. *The Problems of Philosophy*, London, Williams and Norgate; New York, Henry Holt & Co.
 * Sacks, M., 1999. “Transcendental Arguments and the Inference to Reality,” in Stern (ed.) 1999, pp. 67–83.
-* –––, 2000. _Objectivity and Insight_, Oxford: Oxford University Press.
-* Schulting, D., 2012a. _Kant’s Deduction and Apperception: Explaining the Categories_, Basingstoke: Palgrave Macmillan.
-* –––, 2012b. “Kant, Non-Conceptual Content, and the ‘Second Step’ of the B-Deduction,” _Kant Studies Online_: 51–92.
-* Sethi, J., 2020. “‘For Me, In My Present State’: Kant on Judgments of Perception and Mere Subjective Validity,” _Journal of Modern Philosophy_, 2(1): 1–20.
-* Smit, H., 1999. “The Role of Reflection in the Critique of Pure Reason,” _Pacific Philosophical Quarterly_, 80: 203–23.
-* –––, 2009. “Kant on Apriority and the Spontaneity of Cognition,” in _Metaphysics and the Good: Themes from the Philosophy of Robert Merrihew Adams_, Oxford: Oxford University Press, pp. 188–251.
+* –––, 2000. *Objectivity and Insight*, Oxford: Oxford University Press.
+* Schulting, D., 2012a. *Kant’s Deduction and Apperception: Explaining the Categories*, Basingstoke: Palgrave Macmillan.
+* –––, 2012b. “Kant, Non-Conceptual Content, and the ‘Second Step’ of the B-Deduction,” *Kant Studies Online*: 51–92.
+* Sethi, J., 2020. “‘For Me, In My Present State’: Kant on Judgments of Perception and Mere Subjective Validity,” *Journal of Modern Philosophy*, 2(1): 1–20.
+* Smit, H., 1999. “The Role of Reflection in the Critique of Pure Reason,” *Pacific Philosophical Quarterly*, 80: 203–23.
+* –––, 2009. “Kant on Apriority and the Spontaneity of Cognition,” in *Metaphysics and the Good: Themes from the Philosophy of Robert Merrihew Adams*, Oxford: Oxford University Press, pp. 188–251.
 * Stang, N., 2018. “Hermann Cohen and Kant’s Concept of Experience,” in Philosophie und Wissenschaft bei Hermann Cohen, Christian Damböck (ed.), pp. 13–40.
 * Stern, R., 1999. “On Kant’s Response to Hume: The Second Analogy as Transcendental Argument,” in Stern 1999a, pp. 47–66.
-* –––, 2000. _Transcendental Arguments and Scepticism: Answering the Question of Justification_, Oxford: Oxford University Press.
-* –––, 2017. “Transcendental Arguments,” _The Stanford Encyclopedia of Philosophy_ (Summer 2017 edition), Edward N. Zalta, (ed.), URL = [https://plato.stanford.edu/archives/sum2017/entries/transcendental-arguments/](https://plato.stanford.edu/archives/sum2017/entries/transcendental-arguments/).
-* Stern, R. (ed.), 1999. _Transcendental Arguments_, Oxford: Oxford University Press.
-* Sutherland, D., 2021. _Kant’s Mathematical World_. Cambridge: Cambridge University Press.
-* Strawson, P. F., 1966. _The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason_, London: Methuen.
-* Stroud, B., 1968. “Transcendental Arguments,” _Journal of Philosophy_, 65: 241–56.
-* –––, 1994. “Kantian Argument, Conceptual Capacities, and Invulnerability,” in Paolo Parrini (ed.), _Kant and Contemporary Epistemology_, Dordrecht: Kluwer, pp. 231–51.
+* –––, 2000. *Transcendental Arguments and Scepticism: Answering the Question of Justification*, Oxford: Oxford University Press.
+* –––, 2017. “Transcendental Arguments,” *The Stanford Encyclopedia of Philosophy* (Summer 2017 edition), Edward N. Zalta, (ed.), URL = [https://plato.stanford.edu/archives/sum2017/entries/transcendental-arguments/](https://plato.stanford.edu/archives/sum2017/entries/transcendental-arguments/).
+* Stern, R. (ed.), 1999. *Transcendental Arguments*, Oxford: Oxford University Press.
+* Sutherland, D., 2021. *Kant’s Mathematical World*. Cambridge: Cambridge University Press.
+* Strawson, P. F., 1966. *The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason*, London: Methuen.
+* Stroud, B., 1968. “Transcendental Arguments,” *Journal of Philosophy*, 65: 241–56.
+* –––, 1994. “Kantian Argument, Conceptual Capacities, and Invulnerability,” in Paolo Parrini (ed.), *Kant and Contemporary Epistemology*, Dordrecht: Kluwer, pp. 231–51.
 * –––, 1999. “The Goal of Transcendental Arguments,” in Stern 1999a, pp. 155–72.
-* van Cleve, J., 1999. _Problems From Kant_, Oxford: Oxford University Press.
-* Williams, J. J., 2018. “Kant on the Original Synthesis of Understanding and Sensibility,” _British Journal for the History of Philosophy,_ 28(1): 66–86.
-* Wilson, M. D., 1987. “The Phenomenalisms of Leibniz and Berkeley,” in _Essays on George Berkeley_, Ernest Sosa (ed.), Dordrecht: D. Reidel, pp. 3–22.
-* Wolff, R. P., 1963. _Kant’s Theory of Mental Activity_, Cambridge: Harvard University Press.
-* Vaihinger, H., 1881–2. _Commentar zu Kants Kritik der reinen Vernunft_, Stuttgart: W. Spellman.
-* Vinci, T., 2014. _Space, Geometry, and Kant’s Transcendental Deduction of the Categories_, Oxford: Oxford University Press.
-* Vogel, J., 1993. “The Problem of Self-Knowledge in Kant’s ‘Refutation of Idealism,’” _Philosophy and Phenomenological Research_, 53: 875–87.
+* van Cleve, J., 1999. *Problems From Kant*, Oxford: Oxford University Press.
+* Williams, J. J., 2018. “Kant on the Original Synthesis of Understanding and Sensibility,” *British Journal for the History of Philosophy,* 28(1): 66–86.
+* Wilson, M. D., 1987. “The Phenomenalisms of Leibniz and Berkeley,” in *Essays on George Berkeley*, Ernest Sosa (ed.), Dordrecht: D. Reidel, pp. 3–22.
+* Wolff, R. P., 1963. *Kant’s Theory of Mental Activity*, Cambridge: Harvard University Press.
+* Vaihinger, H., 1881–2. *Commentar zu Kants Kritik der reinen Vernunft*, Stuttgart: W. Spellman.
+* Vinci, T., 2014. *Space, Geometry, and Kant’s Transcendental Deduction of the Categories*, Oxford: Oxford University Press.
+* Vogel, J., 1993. “The Problem of Self-Knowledge in Kant’s ‘Refutation of Idealism,’” *Philosophy and Phenomenological Research*, 53: 875–87.
 
 ## Academic Tools
 
@@ -451,4 +450,4 @@ Stern (2017)将这一论点解释如下。行动就是出于理由去做或选�
 [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Kant, Immanuel: account of reason](https://plato.stanford.edu/entries/kant-reason/) | [Kant, Immanuel: aesthetics and teleology](https://plato.stanford.edu/entries/kant-aesthetics/) | [Kant, Immanuel: and Hume on causality](https://plato.stanford.edu/entries/kant-hume-causality/) | [Kant, Immanuel: and Hume on morality](https://plato.stanford.edu/entries/kant-hume-morality/) | [Kant, Immanuel: and Leibniz](https://plato.stanford.edu/entries/kant-leibniz/) | [Kant, Immanuel: conceptualism/nonconceptualism](https://plato.stanford.edu/entries/kant-conceptualism/) | [Kant, Immanuel: critique of metaphysics](https://plato.stanford.edu/entries/kant-metaphysics/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [Kant, Immanuel: philosophical development](https://plato.stanford.edu/entries/kant-development/) | [Kant, Immanuel: philosophy of religion](https://plato.stanford.edu/entries/kant-religion/) | [Kant, Immanuel: philosophy of science](https://plato.stanford.edu/entries/kant-science/) | [Kant, Immanuel: social and political philosophy](https://plato.stanford.edu/entries/kant-social-political/) | [Kant, Immanuel: theory of judgment](https://plato.stanford.edu/entries/kant-judgment/) | [Kant, Immanuel: transcendental idealism](https://plato.stanford.edu/entries/kant-transcendental-idealism/) | [Kant, Immanuel: view of mind and consciousness of self](https://plato.stanford.edu/entries/kant-mind/) | [Kant, Immanuel: views on space and time](https://plato.stanford.edu/entries/kant-spacetime/) | [transcendental arguments](https://plato.stanford.edu/entries/transcendental-arguments/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[_dp346@cornell.edu_](mailto:dp346%40cornell%2eedu)>
+[Derk Pereboom](https://derkpereboom.philosophy.cornell.edu/) <[*dp346@cornell.edu*](mailto:dp346%40cornell%2eedu)>

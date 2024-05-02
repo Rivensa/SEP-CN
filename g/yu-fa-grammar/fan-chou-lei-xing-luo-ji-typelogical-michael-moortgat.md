@@ -1,9 +1,9 @@
 # 范畴类型逻辑 typelogical (Michael Moortgat)
 
-_首次发布于2010年9月7日星期二_
+*首次发布于2010年9月7日星期二*
 
 范畴类型逻辑是次结构逻辑，旨在推理自然语言中形式和含义的组成。这些语法的核心是类型形成操作的残余家族；范畴类型逻辑的层次结构源自于对类型形成操作的结构特性所做的选择，以及引入的用于控制语法资源管理的手段。计算语义是从范畴推导的柯里-霍华德解释中获得的。解析和自然语言处理是以线性逻辑的证明网的适当精炼版本建模的。
- 
+
 ***
 
 ## 1. 一点历史
@@ -45,10 +45,10 @@ _首次发布于2010年9月7日星期二_
 对于 NL 的完备性结果并不对合并关系 R 的解释施加任何限制。这意味着最小语法逻辑的定理和推理规则具有语法不变性的地位：无论个别语言的结构特点如何，类型组合的属性都是成立的。以下是一些这种普遍有效原则的例子。它们是成对出现的，因为斜杠和反斜杠之间存在左右对称性。
 
 * 应用程序:
-  * (_A_/_B_) ⊗ _B_ ⊢ _A_
-  * _B_ ⊗ (_BA_) ⊢ _A_
+  * (*A*/*B*) ⊗ *B* ⊢ *A*
+  * *B* ⊗ (*BA*) ⊢ *A*
 * 共应用:
-  * _A_ ⊢ (_A_ ⊗ _B_)/_B_
+  * *A* ⊢ (*A* ⊗ *B*)/*B*
   * A ⊢ B → 目标(◊,□,/,⊗,), 使得
 * 在 Source 逻辑中，当且仅当 μ(A) ⊢ μ(B) 在 Target 逻辑中可推导时，A ⊢ B 是可推导的
 
@@ -58,31 +58,31 @@ _首次发布于2010年9月7日星期二_
 
 |     |    |     |    |     |   |     |
 | --- | -- | --- | -- | --- | - | --- |
-| _x_ |    |     |    | _y_ |   | _z_ |
+| *x* |    |     |    | *y* |   | *z* |
 |     | \\ |     | /  |     |   |     |
-|     |    | _s_ |    |     |   | _t_ |
+|     |    | *s* |    |     |   | *t* |
 |     |    |     | \\ |     | / |     |
-|     |    |     |    | _r_ |   |     |
+|     |    |     |    | *r* |   |     |
 
 |     |    |     |    |      |   |      |
 | --- | -- | --- | -- | ---- | - | ---- |
-|     |    |     |    |      |   | _z_  |
+|     |    |     |    |      |   | *z*  |
 |     |    |     |    |      |   |      |
-|     |    | _y_ |    |      |   | _t_′ |
+|     |    | *y* |    |      |   | *t*′ |
 |     |    |     | \\ |      | / |      |
-| _x_ |    |     |    | _s_′ |   |      |
+| *x* |    |     |    | *s*′ |   |      |
 |     | \\ |     | /  |      |   |      |
-|     |    | _r_ |    |      |   |      |
+|     |    | *r* |    |      |   |      |
 
 |     |    |      |    |      |   |     |
 | --- | -- | ---- | -- | ---- | - | --- |
-|     |    |      |    | _z_  |   |     |
+|     |    |      |    | *z*  |   |     |
 |     |    |      |    |      |   |     |
-| _x_ |    |      |    | _t_′ |   |     |
+| *x* |    |      |    | *t*′ |   |     |
 |     | \\ |      | /  |      |   |     |
-|     |    | _s_′ |    |      |   | _y_ |
+|     |    | *s*′ |    |      |   | *y* |
 |     |    |      | \\ |      | / |     |
-|     |    |      |    | _r_  |   |     |
+|     |    |      |    | *r*  |   |     |
 
 > 输入 输出 ◊ 混合关联 输出 ◊ 混合交换
 
@@ -100,7 +100,7 @@ Morrill 及其合作者开发的不连续 Lambek 演算（参见 Morrill 等人 
 
 DL（不连续 Lambek 演算）的词汇包括一元和二元类型形成操作的残留家族。下面给出了一个代表性样本。对于二元情况，除了 L 的串联积和剩余斜杠操作之外，我们还有一个不连续（包裹）积 ⊙，带有残留中缀 ↓ 和提取 ↑ 操作。对于确定性解释，不连续类型形成操作具有明确指向其解释对象的第 k 个分裂点的索引形式 ↑k，⊙k，↓k。一元操作的功能是控制分裂点的创建和移除。与二元情况一样，我们有非确定性操作（桥 ∧，分裂 ∨）和带有确定性解释的索引形式（∧k，∨k）。
 
-> _A_,_B_ ::= … | _A_ ⊙ _B_ | _A_ ↓ _B_ | _B_ ↑ _A_ | ∧_A_ | ∨_A_
+> *A*,*B* ::= … | *A* ⊙ *B* | *A* ↓ *B* | *B* ↑ *A* | ∧*A* | ∨*A*
 
 在模型理论方面，DL 的一个创新特点是转向多分类解释。关键概念是分级代数：一个自由生成的代数 (W,·,1, ⎵)，其中 L\* 的解释的幺半群 (W,·,1) 增加了一个称为分隔符的特殊生成器 ⎵。表达式 s 的排序，σ(s)，由其中分隔符的出现次数给出。零元排序的表达式是 L 的语言模型中熟悉的字符串。排序为 n > 0 的表达式是分割字符串，其中有 n 个标记位置可以替换为其他表达式。
 
@@ -108,10 +108,10 @@ DL（不连续 Lambek 演算）的词汇包括一元和二元类型形成操作�
 
 | 关系/操作                                 | interpretation                          |
 | ------------------------------------- | --------------------------------------- |
-| _Rwrap_⊆_W\*\*i_+1 ×_Wj_×_W\*\*i_+_j_ | 最小关系，使得 Rwrap(u⎵w,v,uvw)                |
-| _R\*\*bridge_⊆_W\*\*i_+1 ×_Wi_        | 最小关系，使得 R\*\*bridge(u⎵v,uv)             |
-| wrapk：W**i+1 × Wj → W**i+_j_          | wrapk(s,t) 是将 s 中第 k 个分隔符替换为 t 的结果      |
-| _bridgek_:_W\*\*i_+1 →_Wi_            | bridgek(s) 是通过将 s 中的第 k 个分隔符替换为 1 得到的结果 |
+| *Rwrap*⊆*W\*\*i*+1 ×*Wj*×*W\*\*i*+*j* | 最小关系，使得 Rwrap(u⎵w,v,uvw)                |
+| *R\*\*bridge*⊆*W\*\*i*+1 ×*Wi*        | 最小关系，使得 R\*\*bridge(u⎵v,uv)             |
+| wrapk：W**i+1 × Wj → W**i+*j*          | wrapk(s,t) 是将 s 中第 k 个分隔符替换为 t 的结果      |
+| *bridgek*:*W\*\*i*+1 →*Wi*            | bridgek(s) 是通过将 s 中的第 k 个分隔符替换为 1 得到的结果 |
 
 DL 的解释将第 i 类别的原子类型与 Wi 的子集相关联。新复杂类型的解释子句是标准的。根据下面的示例，我们给出了非确定性 bridge/split 和 wrapping family 的子句。类型的类别可以从解释操作/关系的类别信息中轻松计算得出。
 
@@ -129,7 +129,7 @@ DL 的解释将第 i 类别的原子类型与 Wi 的子集相关联。新复杂�
 
 > 被叫 ⋅ ⎵ ⋅ 上 ⋅ ⎵ −电话：∨(np_s_) ↑ np 玛丽 − m：np E↑
 
-| 范畴类型逻辑 ⋅ Mary ⋅ up ⋅ ⎵ − (phone m) : ∨(np_s_) | _E_∨ |
+| 范畴类型逻辑 ⋅ Mary ⋅ up ⋅ ⎵ − (phone m) : ∨(np_s_) | *E*∨ |
 | --------------------------------------------- | ---- |
 | 范畴类型逻辑 ⋅ Mary ⋅ up − (phone m) : np_s_        |      |
 
@@ -137,7 +137,7 @@ DL 的解释将第 i 类别的原子类型与 Wi 的子集相关联。新复杂�
 
 |                |
 | -------------- |
-| …_a_−_x_:_np_… |
+| …*a*−*x*:*np*… |
 | ⋮              |
 
 > 玛丽 ⋅ 认为 ⋅ 一个 ⋅ 左 − ((认为 (左 x)) m) : s
@@ -156,38 +156,38 @@ DL 的解释将第 i 类别的原子类型与 Wi 的子集相关联。新复杂�
 
 |                 |
 | --------------- |
-| _A_⊢_B_ _B_⊢_C_ |
-| _A_⊢_C_         |
+| *A*⊢*B* *B*⊢*C* |
+| *A*⊢*C*         |
 
 > (双重) 残余定律
 
-| _A_⊢_C_/_B_ |
+| *A*⊢*C*/*B* |
 | ----------- |
-| _A_⊗_B_⊢_C_ |
-| _B_⊢_AC_    |
+| *A*⊗*B*⊢*C* |
+| *B*⊢*AC*    |
 
-| _B_⦸_C_⊢_A_ |
+| *B*⦸*C*⊢*A* |
 | ----------- |
-| _C_⊢_B_⊕_A_ |
-| _C_⊘_A_⊢_B_ |
+| *C*⊢*B*⊕*A* |
+| *C*⊘*A*⊢*B* |
 
 > 交互原则
 
-| _A_⊗_B_⊢_C_⊕_D_ |
+| *A*⊗*B*⊢*C*⊕*D* |
 | --------------- |
-| _C_⦸_A_⊢_D_/_B_ |
+| *C*⦸*A*⊢*D*/*B* |
 
-| _A_⊗_B_⊢_C_⊕_D_  |
+| *A*⊗*B*⊢*C*⊕*D*  |
 | ---------------- |
-| _B_⊘_D_⊢_A_\\_C_ |
+| *B*⊘*D*⊢*A*\\*C* |
 
-| _A_⊗_B_⊢_C_⊕_D_  |
+| *A*⊗*B*⊢*C*⊕*D*  |
 | ---------------- |
-| _C_⦸_B_⊢_A_\\_D_ |
+| *C*⦸*B*⊢*A*\\*D* |
 
-| _A_⊗_B_⊢_C_⊕_D_ |
+| *A*⊗*B*⊢*C*⊕*D* |
 | --------------- |
-| _A_⊘_D_⊢_C_/_B_ |
+| *A*⊘*D*⊢*C*/*B* |
 
 > 范畴类型逻辑 Lambek-Grishin 演算 LG
 
@@ -197,18 +197,18 @@ LG 由纯残余逻辑 NL 的对称版本以及与结构保持相互作用原则�
 
 |                         |
 | ----------------------- |
-| _C_/_B_ _A_⊗_B_ _AC_    |
-| _B_⦸_C_ _B_⊕_A_ _C_⊘_A_ |
+| *C*/*B* *A*⊗*B* *AC*    |
+| *B*⦸*C* *B*⊕*A* *C*⊘*A* |
 
 在可推导性层面上，我们有 A ⊢ B 当且仅当 δ(B) ⊢ δ(A)：对于 NL 中的每个定理或规则，我们在 LG 中也找到其在 δ 下的映像。关于符号的说明：我们将 B ⦸ A 读作“从 A 中得到 B”，将 A ⊘ B 读作“A 减去 B”，即被减去的量放在带圈的（反）斜杠下面，就像在左除和右除类型的情况下分母放在（反）斜杠下面一样。在“公式即类型”的精神中，我们将自由地将除法操作称为蕴涵，将差异操作称为协蕴涵。
 
 产品和余产品族之间的通信需要将交互原则添加到（对偶的）残留定律中。上述原则采用以下方法得到推理规则：从前提 A ⊗ B ⊢ C ⊕ D 中，选择一个乘积项和一个余积项；在结论中，同时引入剩余两个项的残余操作。利用（对偶的）残留定律，可以从交互原则中推导出以下模式。或者，可以将（P1）-（P4）视为原始公设，并利用传递性和（对偶的）残留定律得出交互原则作为推导的推理规则。
 
-| (P1) | (_A_⦸_B_) ⊗_C_⊢_A_⦸ (_B_⊗_C_)   |
+| (P1) | (*A*⦸*B*) ⊗*C*⊢*A*⦸ (*B*⊗*C*)   |
 | ---- | ------------------------------- |
-| (P2) | _C_⊗ (_A_⦸_B_) ⊢_A_⦸ (_C_⊗_B_)  |
-| (P3) | _C_⊗ (_B_⊘_A_) ⊢ (_C_⊗_B_) ⊘_A_ |
-| (P4) | (_B_⊘_A_) ⊗_C_⊢ (_B_⊗_C_) ⊘_A_  |
+| (P2) | *C*⊗ (*A*⦸*B*) ⊢*A*⦸ (*C*⊗*B*)  |
+| (P3) | *C*⊗ (*B*⊘*A*) ⊢ (*C*⊗*B*) ⊘*A* |
+| (P4) | (*B*⊘*A*) ⊗*C*⊢ (*B*⊗*C*) ⊘*A*  |
 
 形式为(P1)–(P4)的可导性模式被称为线性分配原则 — 线性，因为它们不会复制任何涉及的术语。在范畴类型逻辑中，除了是线性的之外，它们还尊重非交换、非结合类型构造操作中编码的词序和短语结构信息。
 
@@ -216,23 +216,23 @@ LG 由纯残余逻辑 NL 的对称版本以及与结构保持相互作用原则�
 
 |                  |
 | ---------------- |
-| _X_⊢_B_ _C_⊢_Y_  |
-| _BC_ ⊢_XY_       |
-| _X_⊗ (_BC_) ⊢_Y_ |
+| *X*⊢*B* *C*⊢*Y*  |
+| *BC* ⊢*XY*       |
+| *X*⊗ (*BC*) ⊢*Y* |
 
 |                     |
 | ------------------- |
-| _X_⊢_B_ _C_⊢_Y_     |
-| _X_⊘_Y_⊢_B_⊘_C_     |
-| _X_⊢ (_B_⊘_C_) ⊕_Y_ |
+| *X*⊢*B* *C*⊢*Y*     |
+| *X*⊘*Y*⊢*B*⊘*C*     |
+| *X*⊢ (*B*⊘*C*) ⊕*Y* |
 
 一般来说，类型为 (B ⊘ C) ⦸ A 的表达式在类型为 B 的上下文中表现为 A，然后作为一个将 B 转换为 C 的函数。我们通过前一节中的 DL 分析所见的非局部范围解释的示例进行说明。关键点是将广义量词表达式的词汇类型分配为 (B ⊘ C) ⦸ A，将其实例化为 (s ⊘ s) ⦸ np。这个推导的语义解释将在下面讨论。
 
 > \| np ⊗ (((np_s_)/s) ⊗ (np ⊗ (np_s_))) ⊢ s s ⊢ s | | --- | --- | --- | --- | --- | --- | --- | --- | | np ⊗ (((np_s_)/s) ⊗ ( np ⊗ (np_s_))) ⊢ (s ⊘ s) ⊕ s | | | | | | | | | ⋮ | | | | | | | | | np | ⊗ | (((np_s_)/s) | ⊗ | (( (s ⊘ s) ⦸ np ) | ⊗ | (np_s_)) | ) ⊢ s | | 爱丽丝 | | 认为 | | 有人 | | 离开 | |
 
-**Completeness, decidability**. Relational models for **LG** are given in terms of two interpreting relations: _R_⊗ for multiplicative conjunction (merge, fusion), and _R_⊕ for multiplicative disjunction (fission). The truth conditions for co-product and the difference operations are given below.
+**Completeness, decidability**. Relational models for **LG** are given in terms of two interpreting relations: *R*⊗ for multiplicative conjunction (merge, fusion), and *R*⊕ for multiplicative disjunction (fission). The truth conditions for co-product and the difference operations are given below.
 
-* _x_ ⊩ _A_ ⊕ _B_ iff ∀_yz_(if _R_⊕_xyz_, then either _y_ ⊩ _A_ or _z_ ⊩ _B_)
+* *x* ⊩ *A* ⊕ *B* iff ∀*yz*(if *R*⊕*xyz*, then either *y* ⊩ *A* or *z* ⊩ *B*)
 * y ⊩ C ⊘ B 当且仅当 ∃xz(R⊕xyz 且 非-(z ⊩ B) 且 x ⊩ C)
 * z ⊩ A ⦸ C 当且仅当 ∃xy(R⊕xyz 且 非-(y ⊩ A) 且 x ⊩ C)
 
@@ -252,32 +252,32 @@ LG 由纯残余逻辑 NL 的对称版本以及与结构保持相互作用原则�
 
 继续。近年来，已经清楚地表明，Hendriks 关于派生歧义的范畴转换解释的核心思想可以以一种继续传递风格解释（CPS）的方式重新阐释，这在计算机科学中得到了发展，并且有不同的可用于这种解释的评估策略。在自然语言语义学中使用继续的先驱是 de Groote（2001b）和 Barker（2002）。在编程语言理论中，继续是控制状态的表示，即要执行的计算的未来。通过将控制状态作为解释中的显式参数添加，程序可以操纵其继续，从而表达否则无法使用的控制结构。从技术上讲，继续语义利用了计算的最终结果的指定响应类型；对于类型 A 的表达式，继续是一个将 A 值取到响应类型的函数。在应用于自然语言语义时，响应类型通常被确定为真值 t 的类型，即分配给完整句子的类型。
 
-Barker 2004 展示了如何通过继续传递风格的转换来获得“每个人都爱某人”中的类型转换作用域歧义。关键思想是，在将源演算映射到语义目标演算时，所有类型都带有额外的继续参数。我们使用一个新的翻译函数(·)_来实现这一点，它将从句法到语义类型的映射与继续化相结合。现在，源语言类型 A 与目标语言中的所谓计算相关联，即作用于其自身继续的函数：A_ = (A′ → t) → t。
+Barker 2004 展示了如何通过继续传递风格的转换来获得“每个人都爱某人”中的类型转换作用域歧义。关键思想是，在将源演算映射到语义目标演算时，所有类型都带有额外的继续参数。我们使用一个新的翻译函数(·)*来实现这一点，它将从句法到语义类型的映射与继续化相结合。现在，源语言类型 A 与目标语言中的所谓计算相关联，即作用于其自身继续的函数：A* = (A′ → t) → t。
 
 在证明的层面上，考虑到类型的上述解释，任务是为下面的 sequent 找到一个 LP 证明，即 A, A_B_ ⊢ B 和 B/A, A ⊢ B 的\和/消除规则的图像。而在源演算中，只有一种将 A_B_（或 B/A）函数与其 A 参数组合的方式，在目标演算中，有关于求值顺序的选择：我们是想先评估参数的翻译图像，然后是函数的图像，还是反过来。我们用·v 表示第一种选项（按值调用），用·n 表示第二种选项（按名调用）。在目标语言中，m 和 n 是类型 A′ → B′和 A′的变量；k 是生成的 B′ → t 延续。
 
-* 应用的 LP 翻译： (_A_′ → _t_) → _t_, ((_A_′ → _B_′) → _t_) → _t_ ⊢ (_B_′ → _t_) → _t_
-* 按值调用解决方案: (_M_ ⊲ _N_)_v_ = (_N_ ⊳ _M_)_v_ = λ_k_.(_N\*\*v_ λ_n_.(_M\*\*v_ λ_m_.(_k_ (_mn_))))
-* 按名调用解决方案: (_N_ ⊳ _M_)_n_ = (_M_ ⊲ _N_)_n_ = λ_k_.(_M\*\*n_ λ_m_.(_N\*\*n_ λ_n_.(_k_ (_mn_))))
+* 应用的 LP 翻译： (*A*′ → *t*) → *t*, ((*A*′ → *B*′) → *t*) → *t* ⊢ (*B*′ → *t*) → *t*
+* 按值调用解决方案: (*M* ⊲ *N*)*v* = (*N* ⊳ *M*)*v* = λ_k_.(*N\*\*v* λ_n_.(*M\*\*v* λ_m_.(*k* (*mn*))))
+* 按名调用解决方案: (*N* ⊳ *M*)*n* = (*M* ⊲ *N*)*n* = λ_k_.(*M\*\*n* λ_m_.(*N\*\*n* λ_n_.(*k* (*mn*))))
 
 类型转换方法的延续传递风格解释使得可以将句法类型 np 同时分配给专有名词和量化名词短语：在目标演算中，np 的翻译具有适当的语义类型 (e → t) → t。但是提升策略现在被推广到所有源类型：一个及物动词 (np_s_)/np) 被映射为 ((e → e → t) → t) → t，等等。对于类型 A 的词汇常量的翻译，默认的方法是 λk.(k c)，其中 c 是类型 A′ 的非逻辑常量。默认翻译简单地将这些词汇项目的语义值传递给延续参数 k。但是量化名词短语有效地利用了延续参数：它们在其延续上取作用域，导致词汇翻译 λk.(∀ λx.(k x))，λk.(∃ λx.(k x)) 分别对应于 'everyone' 和 'someone'。在评估策略之间的选择，结合这些词汇翻译，然后导致在源演算中单一推导的不同解释，例如 M = (everyone⊳(loves⊲someone))，其中 ·v 产生表层作用域解释，而 ·n 产生倒置作用域解读。
 
-| _M\*\*v_ | = | λ_k_.(∀ λ_x_.(∃ λ_y_.(_k_((_loves_ _y_)_x_))) |
+| *M\*\*v* | = | λ_k_.(∀ λ_x_.(∃ λ_y_.(*k*((*loves* *y*)*x*))) |
 | -------- | - | --------------------------------------------- |
-| _M\*\*n_ | = | λ_k_.(∃ λ_y_.(∀ λ_x_.(_k_((_loves_ _y_)_x_))) |
+| *M\*\*n* | = | λ_k_.(∃ λ_y_.(∀ λ_x_.(*k*((*loves* *y*)*x*))) |
 
 以上示例仅使用了范畴类型逻辑中的斜杠消除。引入延续的一个重要动机是使得能够对经典逻辑（而非直觉主义逻辑）给出建设性解释；详见 Sørensen 和 Urzyczyn 2006 年的讨论。因此，也不足为奇，多结论对称范畴语法 LG 在延续传递风格中有自然解释（Bernardi 和 Moortgat 2010 年，Moortgat 2009 年）。在我们上面给出的示例中，源类型 A 提供了一个单一的延续参数。在 LG 类型的 CPS 翻译中，对语法源类型的延续化是递归执行的。我们用 V(A)表示类型 A 的目标语言值，用 K(A)表示延续，即函数 V(A) → R，用 C(A)表示计算，即函数 K(A) → R，其中 R 是响应类型。对于 LG 的语法源类型 A，按值调用的 CPS 翻译产生 LP 值 V(A)如下。对于原子类型，V(p) = p，
 
-* implications: _V_(_AB_) = _V_(_B_/_A_) = _K_(_B_) → _K_(_A_)
+* implications: *V*(*AB*) = *V*(*B*/*A*) = *K*(*B*) → *K*(*A*)
 * 联合蕴含（对偶于蕴含）：V(A ⊘ B) = V(B ⦸ A) = K(A_B_)
 
 在证明层面（以及与之对应的柯里-霍华德对应中的术语），CPS 翻译将多结论源推导转换为单结论 LP 推导。该翻译遵守以下不变性。活跃输出公式 A（在下方方框中用竖线标记）映射到计算 C(A)，活跃输入公式映射到延续 K(A)。因此，剪切被解释为将 C(A)应用于 K(A)。
 
 | 范畴类型逻辑：LG/,,⊘,⦸ | →CPS    | target:**LP**→         |
 | --------------- | ------- | ---------------------- |
-| _X_⊢_A_         | _Y_     |                        |
-| _X_             | _A_⊢_Y_ |                        |
-| _X_⊢_Y_         |         | _V_(_X_),_K_(_Y_) ⊢_R_ |
+| *X*⊢*A*         | *Y*     |                        |
+| *X*             | *A*⊢*Y* |                        |
+| *X*⊢*Y*         |         | *V*(*X*),*K*(*Y*) ⊢*R* |
 
 讨论。现在可以使用基于延续的方法来处理一些看似无法进行组合处理的顽固现象。在句子级别上的例子包括 Shan 和 Barker 2006 年关于原位范围构建和 wh 问题的处理，其中交叉和优越性违规是以人类处理器对左到右评估策略的偏好来解释的；驴子照应（Barker 和 Shan 2008）；对于 LG 的按值调用和按名调用解释的量词范围歧义在 Bernardi 和 Moortgat 2010 年进行了研究。在话语层面上，de Groote（2006）对动态现象进行了类型理论分析，将命题建模为对句子左右上下文（延续）的函数。
 
@@ -323,8 +323,8 @@ Pregroup grammars. Pregroups是紧凑双线性逻辑（Lambek 1993）的代数�
 
 |                          | book | that                 | Carroll | wrote           |      |
 | ------------------------ | ---- | -------------------- | ------- | --------------- | ---- |
-| type assignment in**L**: | _n_  | (_nn_)/(_s_/_np_)    | _np_    | (_nps_)/_np_    |      |
-| 范畴类型逻辑分配 :               | _n_  | _nr_ _n_ _npll_ _sl_ | _np_    | _npr_ _s_ _npl_ | →_n_ |
+| type assignment in**L**: | *n*  | (*nn*)/(*s*/*np*)    | *np*    | (*nps*)/*np*    |      |
+| 范畴类型逻辑分配 :               | *n*  | *nr* *n* *npll* *sl* | *np*    | *npr* *s* *npl* | →*n* |
 
 紧凑双线性逻辑不是原始句法演算的保守扩展。在 L 中可推导的每个序列在相应的 pregroup 中也可推导出一个翻译，但反之则不成立：例如，类型(a ⊗ b)/c 和 a ⊗ (b/c)的 pregroup 映像是 a b cl，但这两种类型在 L 中并不可相互推导。
 
@@ -342,93 +342,93 @@ Note: In addition to the regular text references, the bibliography contains some
 
 * For general logical and mathematical background, see Galatos et al. 2007, Restall 2000, Sørensen and Urzyczyn 2006.
 * For monographs, collections and survey articles on typelogical grammar, see Buszkowski 1997, Buszkowski et al. 1988, Carpenter 1998, Jäger 2005, Moortgat 1988, 1997, Morrill 1994, 2010, Oehrle et al. 1988, van Benthem 1995.
-* Baldridge, J. (2002). _Lexically Specified Derivational Control in Combinatory Categorial Grammar_. Ph. D. thesis, University of Edinburgh.
-* Barker, C. (2004). Continuations in natural language. In H. Thielecke (Ed.), _CW'04: Proceedings of the 4th ACM SIGPLAN continuations workshop_, Tech. Rep. CSR-04-1, School of Computer Science, University of Birmingham, pp. 1–11.
-* –––. (2002). Continuations and the nature of quantification. _Natural language semantics_, 10: 211–242.
-* Barker, C. and C. Shan (2006). Types as graphs: Continuations in type logical grammar. _Journal of Logic, Language and Information_, 15(4): 331–370.
-* –––. (2008). Donkey anaphora is in-scope binding. _Semantics and Pragmatics_, 1(1): 1–46.
-* Barry, G., M. Hepple, N. Leslie, and G. Morrill (1991). Proof figures and structural operators for categorial grammar. In _Proceedings of the 5th conference on European chapter of the Association for Computational Linguistics_, Association for Computational Linguistics, pp. 198–203.
-* Bastenhof, A. (2010). Tableaux for the Lambek-Grishin calculus. CoRR abs/1009.3238. To appear in _Proceedings ESSLLI 2010 Student Session_. Copenhagen.
-* Bernardi, R. and M. Moortgat (2010). Continuation semantics for the Lambek-Grishin calculus. _Information and Computation_, 208(5): 394–416.
-* Bernardi, R. and A. Szabolcsi (2008). Optionality, Scope, and Licensing: An Application of Partially Ordered Categories. _Journal of Logic, Language and Information_, 17(3): 237–283.
-* Bransen, J. (2010). The Lambek-Grishin calculus is NP-complete. To appear in _Proceedings 15th Conference on Formal Grammar_, Copenhagen. CoRR abs/1005.4697.
-* Buszkowski, W. (2001). Lambek grammars based on pregroups. In P. de Groote, G. Morrill, and C. Retoré (Eds.), _Logical Aspects of Computational Linguistics_, _Lecture Notes in Artificial Intelligence_ (Volume 2099), Berlin: Springer, pp. 95–109.
-* –––. (1997). Mathematical linguistics and proof theory. In J. van Benthem and A. ter Meulen (Eds.), _Handbook of Logic and Language_ (Chapter 12), Amsterdam: Elsevier, and Cambridge, MA: MIT Press, pp. 683–736.
-* Buszkowski, W. and G. Penn (1990). Categorial grammars determined from linguistic data by unification. _Studia Logica_, 49(4): 431–454.
-* Buszkowski, W. and A. Preller (2007). Editorial introduction special issue on pregroup grammars. _Studia Logica_, 87(2): 139–144.
-* Buszkowski, W., W. Marciszewski, and J. van Benthem (Eds.) (1988). _Categorial Grammar_. Amsterdam: John Benjamins.
-* Capelletti, M. (2007). _Parsing with structure-preserving categorial grammars_. Ph. D. thesis, Utrecht Institute of Linguistics OTS, Utrecht University.
-* Carpenter, B. (1999). The Turing-completeness of multimodal categorial grammars. In J. Gerbrandy, M. Marx, M. de Rijke, and Y. Venema (Eds.), _JFAK. Essays Dedicated to Johan van Benthem on the Occasion of his 50th Birthday_. Amsterdam: Amsterdam University Press.
-* –––. (1998). _Type-logical Semantics_. Cambridge, MA: MIT Press.
-* Curry, H. B. (1961). Some logical aspects of grammatical structure. In R. Jacobson (Ed.), _Structure of Language and its Mathematical Aspects_, _Proceedings of the Symposia in Applied Mathematics_ (Volume XII), American Mathematical Society, pp. 56–68.
-* de Groote, P. (2006). Towards a Montagovian account of dynamics. In _Proceedings SALT 16_. CLC Publications.
-* –––. (2001a). Towards abstract categorial grammars. In _Proceedings of 39th Annual Meeting of the Association for Computational Linguistics_, Association for Computational Linguistics, pp. 252–259.
-* –––. (2001b). Type raising, continuations, and classical logic. In M. S. R. van Rooy (Ed.), _Proceedings of the Thirteenth Amsterdam Colloquium_, Amsterdam: ILLC (Universiteit van Amsterdam), pp. 97–101.
-* –––. (1999). The non-associative Lambek calculus with product in polynomial time. In N. V. Murray (Ed.), _Automated Reasoning With Analytic Tableaux and Related Methods_, _Lecture Notes in Artificial Intelligence_ (Volume 1617), Berlin: Springer, pp. 128–139.
-* de Groote, P. and F. Lamarche (2002). Classical non-associative Lambek calculus. _Studia Logica_, 71(3): 355–388.
-* de Groote, P. and S. Pogodalla (2004). On the Expressive Power of Abstract Categorial Grammars: Representing Context-Free Formalisms. _Journal of Logic, Language and Information_, 13(4): 421–438.
-* de Groote, P. and C. Retoré (1996). On the semantic readings of proof nets. In G.-J. Kruijff, G. Morrill, and D. Oehrle (Eds.), _Proceedings 2nd Formal Grammar Conference_, Prague, pp. 57–70.
-* Došen, K. (1992). A brief survey of frames for the Lambek calculus. _Mathematical Logic Quarterly_, 38(1): 179–187.
-* Galatos, N., P. Jipsen, T. Kowalski, and H. Ono (2007). _Residuated Lattices: An Algebraic Glimpse at Substructural Logics, Studies in Logic and the Foundations of Mathematics (Volume 151)_, Amsterdam: Elsevier.
-* Girard, J.-Y. (1987). Linear logic. _Theoretical Computer Science_, 50: 1–102.
-* Grishin, V. (1983). On a generalization of the Ajdukiewicz-Lambek system. In A. Mikhailov (Ed.), _Studies in Nonclassical Logics and Formal Systems_, Moscow: Nauka, pp. 315–334. \[English translation in Abrusci and Casadio (eds.) New Perspectives in Logic and Formal Linguistics. Bulzoni, Rome, 2002].
-* Hendriks, H. (1993). _Studied Flexibility. Categories and Types in Syntax and Semantics_. Ph. D. thesis, ILLC, University of Amsterdam.
-* Hepple, M. (1999). An Earley-style predictive chart parsing method for Lambek grammars. In _Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics_, Association for Computational Linguistics, pp. 465–472.
-* –––. (1990). Normal form theorem proving for the Lambek calculus. In _Papers presented to the 13th International Conference on Computational Linguistics_, Helsinki, pp. 173–178.
-* Hoyt, F. and J. Baldridge (2008). A logical basis for the D combinator and normal form in CCG. In _Proceedings of ACL-08: HLT_, Association for Computational Linguistics, pp. 326–334.
-* Jäger, G. (2005). _Anaphora And Type Logical Grammar_. Berlin: Springer.
-* –––. (2004). Residuation, Structural Rules and Context Freeness. _Journal of Logic, Language and Information_, 13: 47–59.
-* Johnson, M. (1998). Proof nets and the complexity of processing center-embedded constructions. _Journal of Logic, Language and Information_, 7(4): 433–447.
-* Joshi, A. K., K. Vijay-Shanker, and D. Weir (1991). The convergence of mildly context-sensitive grammar formalisms. In P. Sells, S. M. Shieber, and T. Wasow (Eds.), _Foundational Issues in Natural Language Processing_, Cambridge, MA: MIT Press, pp. 31–81.
-* Kanazawa, M. (1998). _Learnable classes of categorial grammars_. Stanford: CSLI Publications.
-* Kandulski, M. (1988). The equivalence of nonassociative Lambek categorial grammars and context-free grammars. _Zeitschrift für mathematische Logik und Grundlagen der Mathematik_, 34: 41–52.
-* Kanovich, M. (1994). The Complexity of Horn Fragments of Linear Logic. _Annals of Pure and Applied Logic_, 69(2-3): 195–241.
-* Kruijff, G.-J. and J. Baldridge (2003). Multi-modal combinatory categorial grammar. In _Proceedings of the 10th Conference of the European Chapter of the Association for Computational Linguistics_, Association for Computational Linguistics, pp. 211–218.
-* Kurtonina, N. (1995). _Frames and Labels. A Modal Analysis of Categorial Inference_. Ph. D. thesis, OTS Utrecht, ILLC Amsterdam.
-* Kurtonina, N. and M. Moortgat (2010). Relational semantics for the Lambek-Grishin calculus. In C. Ebert, G. Jäger, and J. Michaelis (Eds.), _The Mathematics of Language. Proceedings of the 10th and 11th Biennial Conference_, Lecture Notes in Computer Science (Volume 6149). Berlin: Springer, pp. 210–222.
-* ––– (1997). Structural control. In P. Blackburn and M. de Rijke (Eds.), _Specifying Syntactic Structures_, Stanford: CSLI Publications, pp. 75–113.
-* Lambek, J. (2008). _From word to sentence. A computational algebraic approach to grammar_. Polimetrica.
-* –––. (1999). Type grammar revisited. In A. Lecomte, F. Lamarche, and G. Perrier (Eds.), _Logical Aspects of Computational Linguistics_, _Lecture Notes in Artificial Intelligence_ (Volume 1582), Berlin: Springer, pp. 1–27.
-* –––. (1993). From categorial to bilinear logic. In K. Došen and P. Schröder-Heister (Ed.), _Substructural Logics_. Oxford University Press.
-* –––. (1961). On the calculus of syntactic types. In R. Jacobson (Ed.), _Structure of Language and its Mathematical Aspects_, _Proceedings of the Symposia in Applied Mathematics_ (Volume XII), American Mathematical Society, pp. 166–178.
-* –––. (1958). The mathematics of sentence structure. _American Mathematical Monthly_, 65: 154–170.
-* Melissen, M. (2009). The generative capacity of the Lambek-Grishin calculus: A new lower bound. In P. de Groote (Ed.), _Proceedings 14th Conference on Formal Grammar_, Lecture Notes in Computer Science (Volume 5591), Berlin: Springer.
-* Moortgat, M. (2009). Symmetric categorial grammar. _Journal of Philosophical Logic_, 8(6), 681–710.
-* –––. (1997). Categorial type logics. In J. van Benthem and A. ter Meulen (Eds.), _Handbook of Logic and Language_ (Chapter 2), Amsterdam: Elsevier, pp. 93–177. (Second edition, revised and updated: Elsevier Insights Series, 2010).
-* –––. (1996). Multimodal linguistic inference. _Journal of Logic, Language and Information_, 5(3–4): 349–385.
-* –––. (1988). _Categorial Investigations. Logical and Linguistic Aspects of the Lambek calculus_. Berlin: De Gruyter.
-* Moot, R. (2008). Lambek grammars, tree adjoining grammars and hyperedge replacement grammars. In _Proceedings of TAG+9, The 9th International Workshop on Tree Adjoining Grammars and Related Formalisms_, Tübingen, pp. 65–72.
-* –––. (2007). Proof nets for display logic. _CoRR_, abs/0711.2444.
-* –––. (2002). _Proof Nets for Linguistic Analysis_. Ph. D. thesis, Utrecht Institute of Linguistics OTS, Utrecht University.
-* Moot, R. and M. Piazza (2001). Linguistic Applications of First Order Intuitionistic Linear Logic. _Journal of Logic, Language and Information_, 10(2): 211–232.
-* Moot, R. and Q. Puite (2002). Proof Nets for the Multimodal Lambek Calculus. _Studia Logica_, 71(3): 415–442.
-* Morrill, G. (2010). _Categorial Grammar: Logical Syntax, Semantics, and Processing_. Oxford: Oxford University Press.
-* –––. (2000). Incremental processing and acceptability. _Computational linguistics_, 26(3): 319–338.
-* –––. (1994). _Type Logical Grammar: Categorial Logic of Signs_. Dordrecht: Kluwer Academic Publishers.
-* –––. (1990). Intensionality and boundedness. _Linguistics and Philosophy_, 13(6): 699–726.
-* Morrill, G. and M. Fadda (2008). Proof nets for basic discontinuous Lambek calculus. _Journal of Logic and Computation_, 18(2): 239–256.
-* Morrill, G., M. Fadda, and O. Valentin (2007). Nondeterministic discontinuous Lambek calculus. In _Proceedings of the Seventh International Workshop on Computational Semantics (IWCS7)_, Tilburg.
-* Morrill, G., O. Valentin, and M. Fadda (2009). Dutch grammar and processing: A case study in TLG. In P. Bosch, D. Gabelaia, and J. Lang (eds.), _Logic, Language, and Computation: 7th International Tbilisi Symposium on Logic, Language, and Computation_, Tbilisi, Georgia, October 1-5, 2007 (Revised Selected Papers), Lecture Notes in Artificial Intelligence (Volume 5422), Berlin: Springer, pp. 272–286.
-* Muskens, R. (2007). Separating syntax and combinatorics in categorial grammar. _Research on Language & Computation_, 5(3): 267–285.
-* Oehrle, R. T., E. Bach, and D. Wheeler (Eds.) (1988). _Categorial Grammars and Natural Language Structures_, Studies in Linguistics and Philosophy (Number 32). Dordrecht: Reidel.
-* Pentus, M. (1993b). Lambek grammars are context free. In _Proceedings of the 8th Annual IEEE_ Symposium on Logic in Computer Science}, IEEE Computer Society Press, pp. 429–433.
-* –––. (2006). Lambek calculus is NP-complete. _Theoretical Computer Science_, 357: 186–201.
-* –––. (1995). Models for the Lambek calculus. _Annals of Pure and Applied Logic_, 75(1–2), 179–213.
-* Restall, G. (2000). _An Introduction to Substructural Logics_. London: Routledge.
-* Retoré, C. and S. Salvati (2010). A faithful representation of non-associative Lambek grammars in Abstract Categorial Grammars. _Journal of Logic, Language and Information_, 19(2). Special issue on New Directions in Type Theoretic Grammars.
-* Roorda, D. (1992). Proof Nets for Lambek calculus. _Journal of Logic and Computation_, 2(2): 211–231.
-* Savateev, Y. (2009). Product-free Lambek Calculus is NP-complete. In S. Artemov and A. Nerode (Eds.), _Proceedings of the 2009 International Symposium on Logical Foundations of Computer Science_, Lecture Notes in Computer Science (Volume 5407), Berlin: Springer, pp. 380–394.
-* Shan, C. and C. Barker (2006). Explaining Crossover and Superiority as Left-to-right Evaluation. _Linguistics and Philosophy_, 29(1): 91–134.
-* Sørensen, M. H. and P. Urzyczyn (2006). _Lectures on the Curry-Howard Isomorphism_, _Studies in Logic and the Foundations of Mathematics_ (Volume 149), Amsterdam: Elsevier.
-* Stabler, E. (1999). Remnant movement and complexity. In G. Bouma, E. Hinrichs, G.-J. Kruijff, and R. T. Oehrle (Eds.), _Constraints and Resources in Natural Language Syntax and Semantics_, Stanford: CSLI, pp. 299–326.
-* –––. (1997). Derivational minimalism. In C. Retoré (Ed.), _Logical Aspects of Computational Linguistics_, _Lecture Notes in Artificial Intelligence_ (Volume 1328), Berlin: Springer, pp. 68–95.
-* Steedman, M. (2000). _The Syntactic Process_. Cambridge, MA: MIT Press.
-* van Benthem, J. (1995). _Language in Action: Categories, Lambdas and Dynamic Logic_. Cambridge, MA: MIT Press.
-* –––. (1983). The semantics of variety in categorial grammar. Technical Report 83-29, Simon Fraser University. Revised version in W. Buszkowski _et al_. (1988).
-* Vermaat, W. (2006). _The logic of variation. A cross-linguistic account of wh-question formation_. Ph. D. thesis, Utrecht Institute of Linguistics OTS, Utrecht University.
-* –––. (2004). The minimalist move operation in a deductive perspective. _Research on Language & Computation_, 2(1), 69–85.
-* Wansing, H. (2002). Sequent systems for modal logics. In D. Gabbay and F. Guenthner (Eds.), _Handbook of Philosophical Logic_ (Volume 8), Dordrecht: Kluwer Academic Publishers, pp. 61–145.
-* –––. (1992). Formulas-as-types for a hierarchy of sublogics of intuitionistic propositional logic. In D. Pearce and H. Wansing (Eds.), _Nonclassical Logics and Information Processing_, Lecture Notes in Computer Science (Volume 619), Berlin: Springer, pp. 125–145.
+* Baldridge, J. (2002). *Lexically Specified Derivational Control in Combinatory Categorial Grammar*. Ph. D. thesis, University of Edinburgh.
+* Barker, C. (2004). Continuations in natural language. In H. Thielecke (Ed.), *CW'04: Proceedings of the 4th ACM SIGPLAN continuations workshop*, Tech. Rep. CSR-04-1, School of Computer Science, University of Birmingham, pp. 1–11.
+* –––. (2002). Continuations and the nature of quantification. *Natural language semantics*, 10: 211–242.
+* Barker, C. and C. Shan (2006). Types as graphs: Continuations in type logical grammar. *Journal of Logic, Language and Information*, 15(4): 331–370.
+* –––. (2008). Donkey anaphora is in-scope binding. *Semantics and Pragmatics*, 1(1): 1–46.
+* Barry, G., M. Hepple, N. Leslie, and G. Morrill (1991). Proof figures and structural operators for categorial grammar. In *Proceedings of the 5th conference on European chapter of the Association for Computational Linguistics*, Association for Computational Linguistics, pp. 198–203.
+* Bastenhof, A. (2010). Tableaux for the Lambek-Grishin calculus. CoRR abs/1009.3238. To appear in *Proceedings ESSLLI 2010 Student Session*. Copenhagen.
+* Bernardi, R. and M. Moortgat (2010). Continuation semantics for the Lambek-Grishin calculus. *Information and Computation*, 208(5): 394–416.
+* Bernardi, R. and A. Szabolcsi (2008). Optionality, Scope, and Licensing: An Application of Partially Ordered Categories. *Journal of Logic, Language and Information*, 17(3): 237–283.
+* Bransen, J. (2010). The Lambek-Grishin calculus is NP-complete. To appear in *Proceedings 15th Conference on Formal Grammar*, Copenhagen. CoRR abs/1005.4697.
+* Buszkowski, W. (2001). Lambek grammars based on pregroups. In P. de Groote, G. Morrill, and C. Retoré (Eds.), *Logical Aspects of Computational Linguistics*, *Lecture Notes in Artificial Intelligence* (Volume 2099), Berlin: Springer, pp. 95–109.
+* –––. (1997). Mathematical linguistics and proof theory. In J. van Benthem and A. ter Meulen (Eds.), *Handbook of Logic and Language* (Chapter 12), Amsterdam: Elsevier, and Cambridge, MA: MIT Press, pp. 683–736.
+* Buszkowski, W. and G. Penn (1990). Categorial grammars determined from linguistic data by unification. *Studia Logica*, 49(4): 431–454.
+* Buszkowski, W. and A. Preller (2007). Editorial introduction special issue on pregroup grammars. *Studia Logica*, 87(2): 139–144.
+* Buszkowski, W., W. Marciszewski, and J. van Benthem (Eds.) (1988). *Categorial Grammar*. Amsterdam: John Benjamins.
+* Capelletti, M. (2007). *Parsing with structure-preserving categorial grammars*. Ph. D. thesis, Utrecht Institute of Linguistics OTS, Utrecht University.
+* Carpenter, B. (1999). The Turing-completeness of multimodal categorial grammars. In J. Gerbrandy, M. Marx, M. de Rijke, and Y. Venema (Eds.), *JFAK. Essays Dedicated to Johan van Benthem on the Occasion of his 50th Birthday*. Amsterdam: Amsterdam University Press.
+* –––. (1998). *Type-logical Semantics*. Cambridge, MA: MIT Press.
+* Curry, H. B. (1961). Some logical aspects of grammatical structure. In R. Jacobson (Ed.), *Structure of Language and its Mathematical Aspects*, *Proceedings of the Symposia in Applied Mathematics* (Volume XII), American Mathematical Society, pp. 56–68.
+* de Groote, P. (2006). Towards a Montagovian account of dynamics. In *Proceedings SALT 16*. CLC Publications.
+* –––. (2001a). Towards abstract categorial grammars. In *Proceedings of 39th Annual Meeting of the Association for Computational Linguistics*, Association for Computational Linguistics, pp. 252–259.
+* –––. (2001b). Type raising, continuations, and classical logic. In M. S. R. van Rooy (Ed.), *Proceedings of the Thirteenth Amsterdam Colloquium*, Amsterdam: ILLC (Universiteit van Amsterdam), pp. 97–101.
+* –––. (1999). The non-associative Lambek calculus with product in polynomial time. In N. V. Murray (Ed.), *Automated Reasoning With Analytic Tableaux and Related Methods*, *Lecture Notes in Artificial Intelligence* (Volume 1617), Berlin: Springer, pp. 128–139.
+* de Groote, P. and F. Lamarche (2002). Classical non-associative Lambek calculus. *Studia Logica*, 71(3): 355–388.
+* de Groote, P. and S. Pogodalla (2004). On the Expressive Power of Abstract Categorial Grammars: Representing Context-Free Formalisms. *Journal of Logic, Language and Information*, 13(4): 421–438.
+* de Groote, P. and C. Retoré (1996). On the semantic readings of proof nets. In G.-J. Kruijff, G. Morrill, and D. Oehrle (Eds.), *Proceedings 2nd Formal Grammar Conference*, Prague, pp. 57–70.
+* Došen, K. (1992). A brief survey of frames for the Lambek calculus. *Mathematical Logic Quarterly*, 38(1): 179–187.
+* Galatos, N., P. Jipsen, T. Kowalski, and H. Ono (2007). *Residuated Lattices: An Algebraic Glimpse at Substructural Logics, Studies in Logic and the Foundations of Mathematics (Volume 151)*, Amsterdam: Elsevier.
+* Girard, J.-Y. (1987). Linear logic. *Theoretical Computer Science*, 50: 1–102.
+* Grishin, V. (1983). On a generalization of the Ajdukiewicz-Lambek system. In A. Mikhailov (Ed.), *Studies in Nonclassical Logics and Formal Systems*, Moscow: Nauka, pp. 315–334. \[English translation in Abrusci and Casadio (eds.) New Perspectives in Logic and Formal Linguistics. Bulzoni, Rome, 2002].
+* Hendriks, H. (1993). *Studied Flexibility. Categories and Types in Syntax and Semantics*. Ph. D. thesis, ILLC, University of Amsterdam.
+* Hepple, M. (1999). An Earley-style predictive chart parsing method for Lambek grammars. In *Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics*, Association for Computational Linguistics, pp. 465–472.
+* –––. (1990). Normal form theorem proving for the Lambek calculus. In *Papers presented to the 13th International Conference on Computational Linguistics*, Helsinki, pp. 173–178.
+* Hoyt, F. and J. Baldridge (2008). A logical basis for the D combinator and normal form in CCG. In *Proceedings of ACL-08: HLT*, Association for Computational Linguistics, pp. 326–334.
+* Jäger, G. (2005). *Anaphora And Type Logical Grammar*. Berlin: Springer.
+* –––. (2004). Residuation, Structural Rules and Context Freeness. *Journal of Logic, Language and Information*, 13: 47–59.
+* Johnson, M. (1998). Proof nets and the complexity of processing center-embedded constructions. *Journal of Logic, Language and Information*, 7(4): 433–447.
+* Joshi, A. K., K. Vijay-Shanker, and D. Weir (1991). The convergence of mildly context-sensitive grammar formalisms. In P. Sells, S. M. Shieber, and T. Wasow (Eds.), *Foundational Issues in Natural Language Processing*, Cambridge, MA: MIT Press, pp. 31–81.
+* Kanazawa, M. (1998). *Learnable classes of categorial grammars*. Stanford: CSLI Publications.
+* Kandulski, M. (1988). The equivalence of nonassociative Lambek categorial grammars and context-free grammars. *Zeitschrift für mathematische Logik und Grundlagen der Mathematik*, 34: 41–52.
+* Kanovich, M. (1994). The Complexity of Horn Fragments of Linear Logic. *Annals of Pure and Applied Logic*, 69(2-3): 195–241.
+* Kruijff, G.-J. and J. Baldridge (2003). Multi-modal combinatory categorial grammar. In *Proceedings of the 10th Conference of the European Chapter of the Association for Computational Linguistics*, Association for Computational Linguistics, pp. 211–218.
+* Kurtonina, N. (1995). *Frames and Labels. A Modal Analysis of Categorial Inference*. Ph. D. thesis, OTS Utrecht, ILLC Amsterdam.
+* Kurtonina, N. and M. Moortgat (2010). Relational semantics for the Lambek-Grishin calculus. In C. Ebert, G. Jäger, and J. Michaelis (Eds.), *The Mathematics of Language. Proceedings of the 10th and 11th Biennial Conference*, Lecture Notes in Computer Science (Volume 6149). Berlin: Springer, pp. 210–222.
+* ––– (1997). Structural control. In P. Blackburn and M. de Rijke (Eds.), *Specifying Syntactic Structures*, Stanford: CSLI Publications, pp. 75–113.
+* Lambek, J. (2008). *From word to sentence. A computational algebraic approach to grammar*. Polimetrica.
+* –––. (1999). Type grammar revisited. In A. Lecomte, F. Lamarche, and G. Perrier (Eds.), *Logical Aspects of Computational Linguistics*, *Lecture Notes in Artificial Intelligence* (Volume 1582), Berlin: Springer, pp. 1–27.
+* –––. (1993). From categorial to bilinear logic. In K. Došen and P. Schröder-Heister (Ed.), *Substructural Logics*. Oxford University Press.
+* –––. (1961). On the calculus of syntactic types. In R. Jacobson (Ed.), *Structure of Language and its Mathematical Aspects*, *Proceedings of the Symposia in Applied Mathematics* (Volume XII), American Mathematical Society, pp. 166–178.
+* –––. (1958). The mathematics of sentence structure. *American Mathematical Monthly*, 65: 154–170.
+* Melissen, M. (2009). The generative capacity of the Lambek-Grishin calculus: A new lower bound. In P. de Groote (Ed.), *Proceedings 14th Conference on Formal Grammar*, Lecture Notes in Computer Science (Volume 5591), Berlin: Springer.
+* Moortgat, M. (2009). Symmetric categorial grammar. *Journal of Philosophical Logic*, 8(6), 681–710.
+* –––. (1997). Categorial type logics. In J. van Benthem and A. ter Meulen (Eds.), *Handbook of Logic and Language* (Chapter 2), Amsterdam: Elsevier, pp. 93–177. (Second edition, revised and updated: Elsevier Insights Series, 2010).
+* –––. (1996). Multimodal linguistic inference. *Journal of Logic, Language and Information*, 5(3–4): 349–385.
+* –––. (1988). *Categorial Investigations. Logical and Linguistic Aspects of the Lambek calculus*. Berlin: De Gruyter.
+* Moot, R. (2008). Lambek grammars, tree adjoining grammars and hyperedge replacement grammars. In *Proceedings of TAG+9, The 9th International Workshop on Tree Adjoining Grammars and Related Formalisms*, Tübingen, pp. 65–72.
+* –––. (2007). Proof nets for display logic. *CoRR*, abs/0711.2444.
+* –––. (2002). *Proof Nets for Linguistic Analysis*. Ph. D. thesis, Utrecht Institute of Linguistics OTS, Utrecht University.
+* Moot, R. and M. Piazza (2001). Linguistic Applications of First Order Intuitionistic Linear Logic. *Journal of Logic, Language and Information*, 10(2): 211–232.
+* Moot, R. and Q. Puite (2002). Proof Nets for the Multimodal Lambek Calculus. *Studia Logica*, 71(3): 415–442.
+* Morrill, G. (2010). *Categorial Grammar: Logical Syntax, Semantics, and Processing*. Oxford: Oxford University Press.
+* –––. (2000). Incremental processing and acceptability. *Computational linguistics*, 26(3): 319–338.
+* –––. (1994). *Type Logical Grammar: Categorial Logic of Signs*. Dordrecht: Kluwer Academic Publishers.
+* –––. (1990). Intensionality and boundedness. *Linguistics and Philosophy*, 13(6): 699–726.
+* Morrill, G. and M. Fadda (2008). Proof nets for basic discontinuous Lambek calculus. *Journal of Logic and Computation*, 18(2): 239–256.
+* Morrill, G., M. Fadda, and O. Valentin (2007). Nondeterministic discontinuous Lambek calculus. In *Proceedings of the Seventh International Workshop on Computational Semantics (IWCS7)*, Tilburg.
+* Morrill, G., O. Valentin, and M. Fadda (2009). Dutch grammar and processing: A case study in TLG. In P. Bosch, D. Gabelaia, and J. Lang (eds.), *Logic, Language, and Computation: 7th International Tbilisi Symposium on Logic, Language, and Computation*, Tbilisi, Georgia, October 1-5, 2007 (Revised Selected Papers), Lecture Notes in Artificial Intelligence (Volume 5422), Berlin: Springer, pp. 272–286.
+* Muskens, R. (2007). Separating syntax and combinatorics in categorial grammar. *Research on Language & Computation*, 5(3): 267–285.
+* Oehrle, R. T., E. Bach, and D. Wheeler (Eds.) (1988). *Categorial Grammars and Natural Language Structures*, Studies in Linguistics and Philosophy (Number 32). Dordrecht: Reidel.
+* Pentus, M. (1993b). Lambek grammars are context free. In *Proceedings of the 8th Annual IEEE* Symposium on Logic in Computer Science}, IEEE Computer Society Press, pp. 429–433.
+* –––. (2006). Lambek calculus is NP-complete. *Theoretical Computer Science*, 357: 186–201.
+* –––. (1995). Models for the Lambek calculus. *Annals of Pure and Applied Logic*, 75(1–2), 179–213.
+* Restall, G. (2000). *An Introduction to Substructural Logics*. London: Routledge.
+* Retoré, C. and S. Salvati (2010). A faithful representation of non-associative Lambek grammars in Abstract Categorial Grammars. *Journal of Logic, Language and Information*, 19(2). Special issue on New Directions in Type Theoretic Grammars.
+* Roorda, D. (1992). Proof Nets for Lambek calculus. *Journal of Logic and Computation*, 2(2): 211–231.
+* Savateev, Y. (2009). Product-free Lambek Calculus is NP-complete. In S. Artemov and A. Nerode (Eds.), *Proceedings of the 2009 International Symposium on Logical Foundations of Computer Science*, Lecture Notes in Computer Science (Volume 5407), Berlin: Springer, pp. 380–394.
+* Shan, C. and C. Barker (2006). Explaining Crossover and Superiority as Left-to-right Evaluation. *Linguistics and Philosophy*, 29(1): 91–134.
+* Sørensen, M. H. and P. Urzyczyn (2006). *Lectures on the Curry-Howard Isomorphism*, *Studies in Logic and the Foundations of Mathematics* (Volume 149), Amsterdam: Elsevier.
+* Stabler, E. (1999). Remnant movement and complexity. In G. Bouma, E. Hinrichs, G.-J. Kruijff, and R. T. Oehrle (Eds.), *Constraints and Resources in Natural Language Syntax and Semantics*, Stanford: CSLI, pp. 299–326.
+* –––. (1997). Derivational minimalism. In C. Retoré (Ed.), *Logical Aspects of Computational Linguistics*, *Lecture Notes in Artificial Intelligence* (Volume 1328), Berlin: Springer, pp. 68–95.
+* Steedman, M. (2000). *The Syntactic Process*. Cambridge, MA: MIT Press.
+* van Benthem, J. (1995). *Language in Action: Categories, Lambdas and Dynamic Logic*. Cambridge, MA: MIT Press.
+* –––. (1983). The semantics of variety in categorial grammar. Technical Report 83-29, Simon Fraser University. Revised version in W. Buszkowski *et al*. (1988).
+* Vermaat, W. (2006). *The logic of variation. A cross-linguistic account of wh-question formation*. Ph. D. thesis, Utrecht Institute of Linguistics OTS, Utrecht University.
+* –––. (2004). The minimalist move operation in a deductive perspective. *Research on Language & Computation*, 2(1), 69–85.
+* Wansing, H. (2002). Sequent systems for modal logics. In D. Gabbay and F. Guenthner (Eds.), *Handbook of Philosophical Logic* (Volume 8), Dordrecht: Kluwer Academic Publishers, pp. 61–145.
+* –––. (1992). Formulas-as-types for a hierarchy of sublogics of intuitionistic propositional logic. In D. Pearce and H. Wansing (Eds.), *Nonclassical Logics and Information Processing*, Lecture Notes in Computer Science (Volume 619), Berlin: Springer, pp. 125–145.
 
 ## Academic Tools
 
@@ -449,4 +449,4 @@ Note: In addition to the regular text references, the bibliography contains some
 [compositionality](https://plato.stanford.edu/entries/compositionality/) | [logic: linear](https://plato.stanford.edu/entries/logic-linear/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [logic: relevance](https://plato.stanford.edu/entries/logic-relevance/) | [logic: substructural](https://plato.stanford.edu/entries/logic-substructural/) | [type theory](https://plato.stanford.edu/entries/type-theory/)
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
-Michael Moortgat <[_Michael.Moortgat@phil.uu.nl_](mailto:Michael%2eMoortgat%40phil%2euu%2enl)>
+Michael Moortgat <[*Michael.Moortgat@phil.uu.nl*](mailto:Michael%2eMoortgat%40phil%2euu%2enl)>

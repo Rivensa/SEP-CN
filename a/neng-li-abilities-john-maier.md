@@ -320,7 +320,6 @@ van Inwagen 的观点是，只要不相容论者已经提出了关于这些能�
 
 然而，即使这些兼容主义的愿望可能过于乐观，或者至少过早。在审视能力理论时，我们发现了严重的困难，无论是假设性的还是非假设性的方法，这些困难似乎与决定论问题无关。因此，也许最好的进展希望是在追求能力理论的同时，暂时搁置自由意志辩论中提出的问题。鉴于能力所带来的困难，以及能力理论对与自由意志辩论相去甚远的哲学领域的重要性，有理由在追求能力理论的同时，对决定论可能引发的难题保持一定的宁静主义态度。
 
-
 ## Bibliography
 
 * Albritton, Rogers, 1985. “Freedom of Will and Freedom of Action,” *Proceedings and Addresses of the American Philosophical Association*, 59: 239–251.

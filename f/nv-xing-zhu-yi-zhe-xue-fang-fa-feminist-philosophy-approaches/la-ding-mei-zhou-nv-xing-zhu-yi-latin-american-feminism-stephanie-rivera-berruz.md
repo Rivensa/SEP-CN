@@ -8,7 +8,6 @@
 
 在美国，追溯拉丁美洲女性主义及其思想的历史是一项紧迫的任务。尽管对更广泛的拉丁美洲哲学的兴趣日益增长，要求增加文本表现和获取途径，但女性在拉丁美洲哲学思想演变中所扮演的角色却被大多数忽视。然而，存在着大量关于身份、政治和文化理论的批判性女性主义思想。
 
-
 ---
 
 ## 拉丁美洲女性主义的系谱史
@@ -355,7 +354,6 @@ Silvia Rivera Cusicanqui 和 Rita Segato 的作品中可以找到两个著名的
   
 * Vaz Ferreira, C., 1933, *Sobre feminismo,* Uruguay: Sociedad Amigos del Libro Rioplatense.
   
-
 ## Academic Tools
 
 > | ![sep man icon](../../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=feminism-latin-america). |

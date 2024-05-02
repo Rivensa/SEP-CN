@@ -1,12 +1,10 @@
 # 爱国主义 patriotism (Igor Primoratz)
 
-_首次发表于2009年6月1日；实质修订于2020年12月16日。_
+*首次发表于2009年6月1日；实质修订于2020年12月16日。*
 
 爱国主义引发了哲学家们经常讨论的问题：爱国主义如何定义？它与类似的态度（如民族主义）有何关联？它的道德地位如何：它在道德上有价值甚至是强制性的，还是我们应该避免的一种立场？然而，直到几十年前，哲学家们对这个主题几乎没有兴趣。《哲学历史词典》中关于爱国主义的文章回顾了从 16 世纪到现在这个词的使用情况，给出了许多参考资料，但大多数是非哲学家的作者。此外，被引用的为数不多的几位知名哲学家中，只有一位，即 J.G.菲希特，对这个主题进行了更多的提及，而菲希特所说的大部分实际上与民族主义有关，而不是爱国主义（参见 Busch 和 Dierse 1989）。
 
 这种情况在 20 世纪 80 年代发生了变化。这种变化部分是由于社群主义的复兴，这是对以约翰·罗尔斯的《正义论》（1971）为代表的个人主义、自由政治和道德哲学的回应；但也是由于世界上几个地区民族主义的复兴。这种变化的开始由安德鲁·奥尔登奎斯特（Andrew Oldenquist）关于道德是各种忠诚而不是抽象原则和理想的问题的解释（Oldenquist 1982）以及阿拉斯泰尔·麦金泰尔（Alasdair MacIntyre）关于爱国主义是一种核心道德美德的论证（MacIntyre 1984）标志。在很大程度上是对麦金泰尔的回应，一些哲学家辩护了受限制或减弱版本的爱国主义（Baron 1989，Nathanson 1989，Primoratz 2002）。其他人则反对任何形式的爱国主义（Gomberg 1990，McCabe 1997，Keller 2005）。现在有一个活跃的关于爱国主义的道德资格的哲学辩论，而且没有任何减弱的迹象。政治哲学中的一场平行讨论涉及一种可能作为一个稳定、运转良好的政体的精神风貌而提供替代民族主义的爱国主义。
-
- 
 
 ***
 
@@ -179,107 +177,107 @@ Mason 继续声称：
 
 ## Bibliography
 
-* Acton, Lord, 1972, “Nationality,” _Essays on Freedom and Power_, Gloucester: Peter Smith, 141–70.
-* Addams, Jane, 2004, “Patriotism in Time of War,” _Midwest Studies in Philosophy_, 28: 102–18.
-* Anderson, Benedict, 1991, _Imagined Communities: Reflections on the Origins and Spread of Nationalism_, rev. ed., London: Verso.
-* Anderson, John P., 2003, “Patriotic Liberalism,” _Law and Philosophy_, 22: 577–95.
-* Appiah, Kwame Anthony, 2005, _The Ethics of Identity_, Princeton: Princeton University Press.
-* Archard, David, 1995, “Three Ways to Be a Good Patriot,” _Public Affairs Quarterly_, 9: 101–13.
-* –––, 1999, “Should We Teach Patriotism?” _Studies in Philosophy and Education_, 18: 157–73.
-* Arneson, Richard J., 2005, “Do Patriotic Ties Limit Global Justice Duties?” _Journal of Ethics_, 9: 127–50.
-* Audi, Robert, 2009, “Nationalism, Patriotism, and Cosmopolitanism in an Age of Globalization,” _Journal of Ethics_, 13: 365–81.
-* Axinn, Sidney, 1986, “Honor, Patriotism and Ultimate Loyalty,” in Avner Cohen (ed.), _Nuclear Weapons and the Future of Humanity_, Totowa: Rowman & Allanheld, 273–88.
-* –––, 1987, “Loyalty and the Limits of Patriotism,” in Kenneth Kipnis and Diana T. Meyers (eds.), _Political Realism and International Morality_, Boulder: Westview Press, 239–50.
-* Bader, Veit, 1999, “For Love of Country,” _Political Theory_, 27: 379–97.
-* –––, 2005, “Reasonable Impartiality and Priority for Compatriots: A Critique of Liberal Nationalism’s Main Flaws,” _Ethical Theory and Moral Practice_, 8: 83–103.
-* Baron, Marcia, 1989, “Patriotism and ‘Liberal’ Morality,” in D. Weissbord (ed.), _Mind, Value, and Culture: Essays in Honor of E.M. Adams_, Atascadero: Ridgeview Publishing Co., 269–300. Reprinted with a postscript in Primoratz (ed.), 2002.
-* Billig, Michael, 1995, _Banal Nationalism_, London: Sage Publications.
-* Blattberg, Charles, 2003, “Patriotic, Not Deliberative, Democracy,” _CRISPP: Critical Review of International Social and Political Philosophy_, 6: 155–74.
-* Boutros, Victor, 2003, “Patriotism and International Aid: An Analysis of Alasdair MacIntyre’s ‘Is Patriotism a Virtue?’,” _Contemporary Philosophy_, 25: 9–16.
-* Boxill, Bernard B., 2009, “Frederick Douglass’s Patriotism,” _Journal of Ethics_, 13: 301–17.
-* Breda, Vito, 2004, “The Incoherence of the Patriotic State: A Critique of ‘Constitutional Patriotism’,” _Res Publica_, 10: 247–65.
-* Brighouse, Harry, 2006, “Justifying Patriotism,” _Social Theory and Practice_, 32: 547–58.
-* Busch, Hans Jürgen, and Ulrich Dierse, 1989, “Patriotismus,” in Joachim Ritter and Karlfried Gründer (eds.), _Historisches Wörterbuch der Philosophie_, Basel: Schwabe & Co., Vol. 7: 207–17.
-* Cafaro, Philip, 1995, “Patriotism as an Environmental Virtue,” _Journal of Agricultural and Environmental Ethics_, 23: 185–302.
-* Callan, Eamon, 2006, “Love, Idolatry, and Patriotism,” _Social Theory and Practice_, 32: 525–46.
-* –––, 2010, “The Better Angels of Our Nature: Patriotism and Dirty Hands,” _Journal of Political Philosophy_, 18: 249–70.
-* Canovan, Margaret, 2000, “Patriotism Is Not Enough,” _British Journal of Political Science_, 30: 413–32. Reprinted in Primoratz (ed.), 2002.
-* Cohen, Joshua (ed.), 1996, _For Love of Country: Debating the Limits of Patriotism_, Boston: Beacon Press.
-* Coons, Christian, 2002, “Wellman’s ‘Reductive’ Justification for Redistributive Policies that Favor Compatriots,” _Ethics_, 111: 782–87.
-* Cronin, Ciaran, 2003, “Democracy and Collective Identity: A Defence of Constitutional Patriotism,” _European Journal of Philosophy_, 11: 1–28.
-* Dagger, Richard, 1985, “Rights, Boundaries, and the Bonds of Community: A Qualified Defense of Moral Parochialism,” _American Political Science Review_, 79: 436–47.
-* Dombrowski, Daniel, 1992, “On Why Patriotism Is not a Virtue,”_International Journal of Applied Philosophy_, 7: 1–4.
-* Fullinwider, Robert K., 1992, “The New Patriotism,” in Claudia Mills (ed.), _Values and Public Policy_, Orlando: Harcourt Brace Jovanovich, 449–54.
-* –––, 1996, “Patriotic History,” in Robert K. Fullinwider (ed.), _Public Education in a Multicultural Society: Policy, Theory, Critique_, Cambridge: Cambridge University Press, 203–28.
-* Gaffney, James, 1993, “Patriotism: Virtue or Vice?” _Philosophy and Theology_, 8: 129–47. A revised version is reprinted in Igor Primoratz (ed.), 2007, _Politics and Morality_, Basingstoke: Palgrave Macmillan.
-* Gilbert, Margaret, 2009, “_Pro Patria_: An Essay on Patriotism,” _Journal of Ethics_, 13: 319–46.
-* Gomberg, Paul, 1990, “Patriotism Is Like Racism,” _Ethics_, 101: 144–50. Reprinted in Primoratz (ed.), 2002.
-* –––, 2000, “Patriotism in Sports and in War,” in Torbjorn Tannsjo and Claudio Tamburrini (eds.), _Values in Sport_, London: Taylor & Francis, 87–98.
-* Goodin, Robert E., 1988, “What Is So Special about Our Fellow Countrymen?” _Ethics_, 98: 663–86. Reprinted in Primoratz (ed.), 2002.
-* Gordon, Rupert H., 2000, “Modernity, Freedom, and the State: Hegel’s Concept of Patriotism,” _Review of Politics_, 62: 295–325.
-* Habermas, Jürgen, 1992, “Citizenship and National Identity: Some Reflections on the Future of Europe,” _Praxis International_, 12: 1–19. Reprinted in Habermas, _Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy_, William Rehg (trans.), Cambridge, MA: MIT Press, 1998.
-* Hand, Michael, 2011, “Should We Promote Patriotism in Schools?” _Political Studies_, 59: 328–47.
-* Hughes, Martin, 1989, “Is Patriotism a Virtue?” _Cogito_, 3: 98–104.
-* Hulas, Maciej, and Stanislaw Fel (eds.), 2015, _Intricacies of Patriotism: Towards a Complexity of Patriotic Allegiance_, Frankfurt am Main: Peter Lang.
-* Kateb, George, 2000, “Is Patriotism a Mistake?” _Social Research_, 67: 901–24; reprinted in G. Kateb, _Patriotism and Other Mistakes_, Ithaca: Yale University Press, 2006.
-* Kedourie, Elie, 1985, _Nationalism_, 3rd edition, London: Hutchinson.
-* Keller, Simon, 2005, “Patriotism as Bad Faith,” _Ethics_, 115: 563–92.
-* –––, 2007a, _The Limits of Loyalty_, Cambridge: Cambridge University Press.
-* –––, 2007b, “Are Patriotism and Universalism Compatible?” _Social Theory and Practice_, 32: 609–24.
-* –––, 2009, “Making Nonsense of Loyalty to Country,” in Bodewijn de Bruin and Christopher S. Zurn (eds.), _New Waves in Political Philosophy_, Basingstoke: Palgrave Macmillan, 87–104.
-* Khan, Carrie-Ann Biondi, 2003, “The Possibility of Liberal Patriotism,” _Public Affairs Quarterly_, 17: 265–90.
-* Klampfer, Friderik, 1998, “Can the Appeal to the Intrinsic Value of Citizenship Really Help Us Justify Special Duties to Compatriots?” in P. Kampits, K. Kokai and A. Weiberg (eds.), _Applied Ethics: Proceedings of the 21st International Wittgenstein Symposium_ (Volume 1), Kirchberg am Wechsel: Austrian Ludwig Wittgenstein Society, 358–63.&#x20;
-* Kleingeld, Pauline, 2000, “Kantian Patriotism,” _Philosophy & Public Affairs_, 29: 313–41.
-* –––, 2003, “Kant’s Cosmopolitan Patriotism,” _Kant–Studien_, 94: 299–316.
-* Kleinig, John, Simon Keller, and Igor Primoratz, 2015, _The Ethics of Patriotism: A Debate_, Oxford: Wiley Blackwell.
-* Kodelja, Zdenko, 2011, “Is Education for Patriotism Morally Required, Permitted or Unacceptable?” _Studies in Philosophy and Education_, 30: 127–40.
-* Königs, Peter, 2012, “Patriotism: A Case Study in the Philosophy of Emotions,” _Grazer Philosophische Studien_, 85: 299–309.
-* Macedo, Stephen, 2011, “Just Patriotism?” _Philosophy and Social Criticism_, 37: 413–23.
-* Machiavelli, Niccolò, 1998 \[1518], _The Discourses_, B. Crick (ed.), L.J. Walker (trans.), Harmondsworth: Penguin Books.
-* MacIntyre, Alasdair, 1984, _Is Patriotism a Virtue?_ (The Lindley Lecture), Lawrence: University of Kansas. Reprinted in Primoratz (ed.), 2002.
-* Mason, Andrew, 1997, “Special Obligations to Compatriots,” _Ethics_, 107: 427–47.
-* McCabe, David, 1997, “Patriotic Gore, Again,” _Southern Journal of Philosophy_, 35: 203–23. Reprinted in Primoratz (ed.), 2002.
-* McHugh Griffin, Michelle, 2007, “As a Woman I Have No Country,” _Peace Review_, 10: 255–59.
-* Michelman, Frank I., 2001, “Morality, Identity and Constitutional Patriotism,” _Ratio Juris_, 14: 253–70.
-* Miller, David, 2005, “Reasonable Partiality towards Compatriots,” _Ethical Theory and Moral Practice_, 8: 63–81.
-* Miller, Richard W., 1997, “Killing for the Homeland: Patriotism, Nationalism and Violence,” _Journal of Ethics_, 1: 165–85.
-* Müller, Jan-Werner, 2007, _Constitutional Patriotism_, Princeton: Princeton University Press.
-* Montague, Phillip, 1994, “Patriotism and Political Obligation,” _Journal of Social Philosophy_, 25: 44–56.
-* Moore, Margaret, 2009, “Is Patriotism an Associative Duty?” _Journal of Ethics_, 13: 383–99.
-* Nathanson, Stephen, 1989, “In Defense of ‘Moderate Patriotism’,” _Ethics_, 99: 535–52. Reprinted in Primoratz (ed.), 2002.
-* –––, 1993, _Patriotism, Morality, and Peace_, Lanham: Rowman & Littlefield.
-* –––, 2009, “Patriotism, War, and the Limits of Permissible Partiality,” _Journal of Ethics_, 13: 401–22.
-* –––, 2016, “Immigration, Citizenship, and the Clash Between Partiality and Impartiality,” in Ann Cudd and Win-chiat Lee (eds.), _Citizenship and Immigration_, New York: Springer, 137–52.
-* Nussbaum, Martha, 2012, “Teaching Patriotism: Love and Critical Freedom,” _University of Chicago Law Review_, 79: 215–51.
-* Oldenquist, Andrew, 1982, “Loyalties,” _Journal of Philosophy_, 79: 173–93. Reprinted in Primoratz (ed.), 2002.
-* Orwell, George, 1968, “Notes on Nationalism,” _Collected Essays, Journalism and Letters_, Sonia Orwell and Ian Angus (eds.), London: Secker & Warburg, vol. 3, 361–80.
-* Papastephanou, Marianna, 2017, “Patriotism and Pride beyond Richard Rorty and Martha Nussbaum,” _International Journal of Philosophical Studies_, 25: 484–503.
-* Primoratz, Igor, 2002, “Patriotism: A Deflationary View,” _Philosophical Forum_, 33: 443–58.
-* –––, 2006, “Patriotism: Worldly and Ethical,” in Igor Primoratz and Aleksandar Pavković (eds.), _Identity, Self-Determination and Secession_, Aldershot: Ashgate Publishing, 91–106.
-* –––, 2009, “Patriotism and the Value of Citizenship,” _Acta Analytica_, 24: 63–67.
-* Primoratz, Igor (ed.), 2002, _Patriotism_, Amherst: Humanity Books.
-* Primoratz, Igor, and Aleksandar Pavković (eds.), 2007, _Patriotism: Philosophical and Political Perspectives_, Aldershot: Ashgate Publishing.
-* Sardoc, Mitja (ed.), 2020, _Handbook of Patriotism_, Cham: Springer.
-* Schaar, John H., 1981, “The Case for Patriotism,” _Legitimacy in the Modern State_, New Brunswick: Transaction Books, 285–311. Reprinted in Primoratz (ed.), 2002.
-* Scruton, Roger, 1990, “In Defence of the Nation,” _The Philosopher on Dover Beach_, Manchester: Carcanet, 299–328.
-* Shue, Henry, 1988, “Mediating Duties,” _Ethics_, 98: 687–704.
-* Singer, Peter, 2002, _One World: The Ethics of Globalization_, New Haven: Yale University Press.
-* Somerville, John, 1981, “Patriotism and War,” _Ethics_, 91: 568–78.
-* Soutphommasane, Tim, 2012, _The Virtuous Citizen: Patriotism in a Multicultural Society_, Cambridge: Cambridge University Press.
-* Sternberger, Dolf, 1990, _Verfassungspatriotismus_ (_Schriften_, Vol. 10), Frankfurt/M.: Insel Verlag.
-* Tan, Kok-Chor, 2004, _Justice without Borders: Cosmopolitanism, Nationalism and Patriotism_, Cambridge: Cambridge University Press.
-* Tolstoy, Leo, 1987, “On Patriotism” and “Patriotism, or Peace?” _Writings on Civil Disobedience and Nonviolence_, Philadelphia: New Society Publishers, 51–123, 137–47.
-* Toth, Szilard Janos, 2019, “Justifying Republican Patriotism,” _Philosophy and Society_, 30: 287–303.
-* Van Hooft, Stan, 2009, “Political Patriotism,” _Journal of Applied Ethics and Philosophy_, 1: 20–29.
-* Vandevelde, Toon, 1997, “Communitarianism and Patriotism,” _Ethical Perspectives_, 4: 180–90.
-* Vincent, Andrew, 2009, “Patriotism and Human Rights: An Argument for Unpatriotic Patriotism,” _Journal of Ethics_, 13: 347–64.
-* Viroli, Maurizio, 1995, _For Love of Country: An Essay on Patriotism and Nationalism_, Oxford: Oxford University Press.
-* Weil, Simone, 1952, _The Need for Roots_, trans. A.F. Wills, London: Routledge & Kegan Paul.
-* Wellman, Christopher Heath, 2000, “Relational Facts in Liberal Political Theory: Is there Magic in the Pronoun ‘My’?” _Ethics_, 110: 537–62.
-* –––, 2001, “Friends, Compatriots, and Special Political Obligations,” _Political Theory_, 29: 217–36.
-* White, John, 2001, “Patriotism without Obligation,” _Journal of Philosophy of Education_, 35: 141–51.
-* Woolf, Virginia, 1938, _Three Guineas_, London: Hogarth Press.
-* Zmora, Hillay, 2004, “Love of Country and Love of Party: Patriotism and Human Nature in Machiavelli,” _History of Political Thought_, 25: 424–45.
+* Acton, Lord, 1972, “Nationality,” *Essays on Freedom and Power*, Gloucester: Peter Smith, 141–70.
+* Addams, Jane, 2004, “Patriotism in Time of War,” *Midwest Studies in Philosophy*, 28: 102–18.
+* Anderson, Benedict, 1991, *Imagined Communities: Reflections on the Origins and Spread of Nationalism*, rev. ed., London: Verso.
+* Anderson, John P., 2003, “Patriotic Liberalism,” *Law and Philosophy*, 22: 577–95.
+* Appiah, Kwame Anthony, 2005, *The Ethics of Identity*, Princeton: Princeton University Press.
+* Archard, David, 1995, “Three Ways to Be a Good Patriot,” *Public Affairs Quarterly*, 9: 101–13.
+* –––, 1999, “Should We Teach Patriotism?” *Studies in Philosophy and Education*, 18: 157–73.
+* Arneson, Richard J., 2005, “Do Patriotic Ties Limit Global Justice Duties?” *Journal of Ethics*, 9: 127–50.
+* Audi, Robert, 2009, “Nationalism, Patriotism, and Cosmopolitanism in an Age of Globalization,” *Journal of Ethics*, 13: 365–81.
+* Axinn, Sidney, 1986, “Honor, Patriotism and Ultimate Loyalty,” in Avner Cohen (ed.), *Nuclear Weapons and the Future of Humanity*, Totowa: Rowman & Allanheld, 273–88.
+* –––, 1987, “Loyalty and the Limits of Patriotism,” in Kenneth Kipnis and Diana T. Meyers (eds.), *Political Realism and International Morality*, Boulder: Westview Press, 239–50.
+* Bader, Veit, 1999, “For Love of Country,” *Political Theory*, 27: 379–97.
+* –––, 2005, “Reasonable Impartiality and Priority for Compatriots: A Critique of Liberal Nationalism’s Main Flaws,” *Ethical Theory and Moral Practice*, 8: 83–103.
+* Baron, Marcia, 1989, “Patriotism and ‘Liberal’ Morality,” in D. Weissbord (ed.), *Mind, Value, and Culture: Essays in Honor of E.M. Adams*, Atascadero: Ridgeview Publishing Co., 269–300. Reprinted with a postscript in Primoratz (ed.), 2002.
+* Billig, Michael, 1995, *Banal Nationalism*, London: Sage Publications.
+* Blattberg, Charles, 2003, “Patriotic, Not Deliberative, Democracy,” *CRISPP: Critical Review of International Social and Political Philosophy*, 6: 155–74.
+* Boutros, Victor, 2003, “Patriotism and International Aid: An Analysis of Alasdair MacIntyre’s ‘Is Patriotism a Virtue?’,” *Contemporary Philosophy*, 25: 9–16.
+* Boxill, Bernard B., 2009, “Frederick Douglass’s Patriotism,” *Journal of Ethics*, 13: 301–17.
+* Breda, Vito, 2004, “The Incoherence of the Patriotic State: A Critique of ‘Constitutional Patriotism’,” *Res Publica*, 10: 247–65.
+* Brighouse, Harry, 2006, “Justifying Patriotism,” *Social Theory and Practice*, 32: 547–58.
+* Busch, Hans Jürgen, and Ulrich Dierse, 1989, “Patriotismus,” in Joachim Ritter and Karlfried Gründer (eds.), *Historisches Wörterbuch der Philosophie*, Basel: Schwabe & Co., Vol. 7: 207–17.
+* Cafaro, Philip, 1995, “Patriotism as an Environmental Virtue,” *Journal of Agricultural and Environmental Ethics*, 23: 185–302.
+* Callan, Eamon, 2006, “Love, Idolatry, and Patriotism,” *Social Theory and Practice*, 32: 525–46.
+* –––, 2010, “The Better Angels of Our Nature: Patriotism and Dirty Hands,” *Journal of Political Philosophy*, 18: 249–70.
+* Canovan, Margaret, 2000, “Patriotism Is Not Enough,” *British Journal of Political Science*, 30: 413–32. Reprinted in Primoratz (ed.), 2002.
+* Cohen, Joshua (ed.), 1996, *For Love of Country: Debating the Limits of Patriotism*, Boston: Beacon Press.
+* Coons, Christian, 2002, “Wellman’s ‘Reductive’ Justification for Redistributive Policies that Favor Compatriots,” *Ethics*, 111: 782–87.
+* Cronin, Ciaran, 2003, “Democracy and Collective Identity: A Defence of Constitutional Patriotism,” *European Journal of Philosophy*, 11: 1–28.
+* Dagger, Richard, 1985, “Rights, Boundaries, and the Bonds of Community: A Qualified Defense of Moral Parochialism,” *American Political Science Review*, 79: 436–47.
+* Dombrowski, Daniel, 1992, “On Why Patriotism Is not a Virtue,”*International Journal of Applied Philosophy*, 7: 1–4.
+* Fullinwider, Robert K., 1992, “The New Patriotism,” in Claudia Mills (ed.), *Values and Public Policy*, Orlando: Harcourt Brace Jovanovich, 449–54.
+* –––, 1996, “Patriotic History,” in Robert K. Fullinwider (ed.), *Public Education in a Multicultural Society: Policy, Theory, Critique*, Cambridge: Cambridge University Press, 203–28.
+* Gaffney, James, 1993, “Patriotism: Virtue or Vice?” *Philosophy and Theology*, 8: 129–47. A revised version is reprinted in Igor Primoratz (ed.), 2007, *Politics and Morality*, Basingstoke: Palgrave Macmillan.
+* Gilbert, Margaret, 2009, “*Pro Patria*: An Essay on Patriotism,” *Journal of Ethics*, 13: 319–46.
+* Gomberg, Paul, 1990, “Patriotism Is Like Racism,” *Ethics*, 101: 144–50. Reprinted in Primoratz (ed.), 2002.
+* –––, 2000, “Patriotism in Sports and in War,” in Torbjorn Tannsjo and Claudio Tamburrini (eds.), *Values in Sport*, London: Taylor & Francis, 87–98.
+* Goodin, Robert E., 1988, “What Is So Special about Our Fellow Countrymen?” *Ethics*, 98: 663–86. Reprinted in Primoratz (ed.), 2002.
+* Gordon, Rupert H., 2000, “Modernity, Freedom, and the State: Hegel’s Concept of Patriotism,” *Review of Politics*, 62: 295–325.
+* Habermas, Jürgen, 1992, “Citizenship and National Identity: Some Reflections on the Future of Europe,” *Praxis International*, 12: 1–19. Reprinted in Habermas, *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*, William Rehg (trans.), Cambridge, MA: MIT Press, 1998.
+* Hand, Michael, 2011, “Should We Promote Patriotism in Schools?” *Political Studies*, 59: 328–47.
+* Hughes, Martin, 1989, “Is Patriotism a Virtue?” *Cogito*, 3: 98–104.
+* Hulas, Maciej, and Stanislaw Fel (eds.), 2015, *Intricacies of Patriotism: Towards a Complexity of Patriotic Allegiance*, Frankfurt am Main: Peter Lang.
+* Kateb, George, 2000, “Is Patriotism a Mistake?” *Social Research*, 67: 901–24; reprinted in G. Kateb, *Patriotism and Other Mistakes*, Ithaca: Yale University Press, 2006.
+* Kedourie, Elie, 1985, *Nationalism*, 3rd edition, London: Hutchinson.
+* Keller, Simon, 2005, “Patriotism as Bad Faith,” *Ethics*, 115: 563–92.
+* –––, 2007a, *The Limits of Loyalty*, Cambridge: Cambridge University Press.
+* –––, 2007b, “Are Patriotism and Universalism Compatible?” *Social Theory and Practice*, 32: 609–24.
+* –––, 2009, “Making Nonsense of Loyalty to Country,” in Bodewijn de Bruin and Christopher S. Zurn (eds.), *New Waves in Political Philosophy*, Basingstoke: Palgrave Macmillan, 87–104.
+* Khan, Carrie-Ann Biondi, 2003, “The Possibility of Liberal Patriotism,” *Public Affairs Quarterly*, 17: 265–90.
+* Klampfer, Friderik, 1998, “Can the Appeal to the Intrinsic Value of Citizenship Really Help Us Justify Special Duties to Compatriots?” in P. Kampits, K. Kokai and A. Weiberg (eds.), *Applied Ethics: Proceedings of the 21st International Wittgenstein Symposium* (Volume 1), Kirchberg am Wechsel: Austrian Ludwig Wittgenstein Society, 358–63.&#x20;
+* Kleingeld, Pauline, 2000, “Kantian Patriotism,” *Philosophy & Public Affairs*, 29: 313–41.
+* –––, 2003, “Kant’s Cosmopolitan Patriotism,” *Kant–Studien*, 94: 299–316.
+* Kleinig, John, Simon Keller, and Igor Primoratz, 2015, *The Ethics of Patriotism: A Debate*, Oxford: Wiley Blackwell.
+* Kodelja, Zdenko, 2011, “Is Education for Patriotism Morally Required, Permitted or Unacceptable?” *Studies in Philosophy and Education*, 30: 127–40.
+* Königs, Peter, 2012, “Patriotism: A Case Study in the Philosophy of Emotions,” *Grazer Philosophische Studien*, 85: 299–309.
+* Macedo, Stephen, 2011, “Just Patriotism?” *Philosophy and Social Criticism*, 37: 413–23.
+* Machiavelli, Niccolò, 1998 \[1518], *The Discourses*, B. Crick (ed.), L.J. Walker (trans.), Harmondsworth: Penguin Books.
+* MacIntyre, Alasdair, 1984, *Is Patriotism a Virtue?* (The Lindley Lecture), Lawrence: University of Kansas. Reprinted in Primoratz (ed.), 2002.
+* Mason, Andrew, 1997, “Special Obligations to Compatriots,” *Ethics*, 107: 427–47.
+* McCabe, David, 1997, “Patriotic Gore, Again,” *Southern Journal of Philosophy*, 35: 203–23. Reprinted in Primoratz (ed.), 2002.
+* McHugh Griffin, Michelle, 2007, “As a Woman I Have No Country,” *Peace Review*, 10: 255–59.
+* Michelman, Frank I., 2001, “Morality, Identity and Constitutional Patriotism,” *Ratio Juris*, 14: 253–70.
+* Miller, David, 2005, “Reasonable Partiality towards Compatriots,” *Ethical Theory and Moral Practice*, 8: 63–81.
+* Miller, Richard W., 1997, “Killing for the Homeland: Patriotism, Nationalism and Violence,” *Journal of Ethics*, 1: 165–85.
+* Müller, Jan-Werner, 2007, *Constitutional Patriotism*, Princeton: Princeton University Press.
+* Montague, Phillip, 1994, “Patriotism and Political Obligation,” *Journal of Social Philosophy*, 25: 44–56.
+* Moore, Margaret, 2009, “Is Patriotism an Associative Duty?” *Journal of Ethics*, 13: 383–99.
+* Nathanson, Stephen, 1989, “In Defense of ‘Moderate Patriotism’,” *Ethics*, 99: 535–52. Reprinted in Primoratz (ed.), 2002.
+* –––, 1993, *Patriotism, Morality, and Peace*, Lanham: Rowman & Littlefield.
+* –––, 2009, “Patriotism, War, and the Limits of Permissible Partiality,” *Journal of Ethics*, 13: 401–22.
+* –––, 2016, “Immigration, Citizenship, and the Clash Between Partiality and Impartiality,” in Ann Cudd and Win-chiat Lee (eds.), *Citizenship and Immigration*, New York: Springer, 137–52.
+* Nussbaum, Martha, 2012, “Teaching Patriotism: Love and Critical Freedom,” *University of Chicago Law Review*, 79: 215–51.
+* Oldenquist, Andrew, 1982, “Loyalties,” *Journal of Philosophy*, 79: 173–93. Reprinted in Primoratz (ed.), 2002.
+* Orwell, George, 1968, “Notes on Nationalism,” *Collected Essays, Journalism and Letters*, Sonia Orwell and Ian Angus (eds.), London: Secker & Warburg, vol. 3, 361–80.
+* Papastephanou, Marianna, 2017, “Patriotism and Pride beyond Richard Rorty and Martha Nussbaum,” *International Journal of Philosophical Studies*, 25: 484–503.
+* Primoratz, Igor, 2002, “Patriotism: A Deflationary View,” *Philosophical Forum*, 33: 443–58.
+* –––, 2006, “Patriotism: Worldly and Ethical,” in Igor Primoratz and Aleksandar Pavković (eds.), *Identity, Self-Determination and Secession*, Aldershot: Ashgate Publishing, 91–106.
+* –––, 2009, “Patriotism and the Value of Citizenship,” *Acta Analytica*, 24: 63–67.
+* Primoratz, Igor (ed.), 2002, *Patriotism*, Amherst: Humanity Books.
+* Primoratz, Igor, and Aleksandar Pavković (eds.), 2007, *Patriotism: Philosophical and Political Perspectives*, Aldershot: Ashgate Publishing.
+* Sardoc, Mitja (ed.), 2020, *Handbook of Patriotism*, Cham: Springer.
+* Schaar, John H., 1981, “The Case for Patriotism,” *Legitimacy in the Modern State*, New Brunswick: Transaction Books, 285–311. Reprinted in Primoratz (ed.), 2002.
+* Scruton, Roger, 1990, “In Defence of the Nation,” *The Philosopher on Dover Beach*, Manchester: Carcanet, 299–328.
+* Shue, Henry, 1988, “Mediating Duties,” *Ethics*, 98: 687–704.
+* Singer, Peter, 2002, *One World: The Ethics of Globalization*, New Haven: Yale University Press.
+* Somerville, John, 1981, “Patriotism and War,” *Ethics*, 91: 568–78.
+* Soutphommasane, Tim, 2012, *The Virtuous Citizen: Patriotism in a Multicultural Society*, Cambridge: Cambridge University Press.
+* Sternberger, Dolf, 1990, *Verfassungspatriotismus* (*Schriften*, Vol. 10), Frankfurt/M.: Insel Verlag.
+* Tan, Kok-Chor, 2004, *Justice without Borders: Cosmopolitanism, Nationalism and Patriotism*, Cambridge: Cambridge University Press.
+* Tolstoy, Leo, 1987, “On Patriotism” and “Patriotism, or Peace?” *Writings on Civil Disobedience and Nonviolence*, Philadelphia: New Society Publishers, 51–123, 137–47.
+* Toth, Szilard Janos, 2019, “Justifying Republican Patriotism,” *Philosophy and Society*, 30: 287–303.
+* Van Hooft, Stan, 2009, “Political Patriotism,” *Journal of Applied Ethics and Philosophy*, 1: 20–29.
+* Vandevelde, Toon, 1997, “Communitarianism and Patriotism,” *Ethical Perspectives*, 4: 180–90.
+* Vincent, Andrew, 2009, “Patriotism and Human Rights: An Argument for Unpatriotic Patriotism,” *Journal of Ethics*, 13: 347–64.
+* Viroli, Maurizio, 1995, *For Love of Country: An Essay on Patriotism and Nationalism*, Oxford: Oxford University Press.
+* Weil, Simone, 1952, *The Need for Roots*, trans. A.F. Wills, London: Routledge & Kegan Paul.
+* Wellman, Christopher Heath, 2000, “Relational Facts in Liberal Political Theory: Is there Magic in the Pronoun ‘My’?” *Ethics*, 110: 537–62.
+* –––, 2001, “Friends, Compatriots, and Special Political Obligations,” *Political Theory*, 29: 217–36.
+* White, John, 2001, “Patriotism without Obligation,” *Journal of Philosophy of Education*, 35: 141–51.
+* Woolf, Virginia, 1938, *Three Guineas*, London: Hogarth Press.
+* Zmora, Hillay, 2004, “Love of Country and Love of Party: Patriotism and Human Nature in Machiavelli,” *History of Political Thought*, 25: 424–45.
 
 ## Academic Tools
 
@@ -302,4 +300,4 @@ Mason 继续声称：
 Thanks to Simon Keller, Stephen Nathanson, and Thomas Pogge for helpful comments on a draft of this article.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Igor Primoratz <[_igorprim@gmail.com_](mailto:igorprim%40gmail%2ecom)>
+Igor Primoratz <[*igorprim@gmail.com*](mailto:igorprim%40gmail%2ecom)>

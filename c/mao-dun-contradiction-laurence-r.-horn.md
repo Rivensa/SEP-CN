@@ -1,13 +1,12 @@
 # 矛盾 contradiction (Laurence R. Horn)
 
-_首次发布于2006年6月28日星期三；实质性修订于2018年8月29日星期三。_
+*首次发布于2006年6月28日星期三；实质性修订于2018年8月29日星期三。*
 
 > 我是否矛盾自己？ 好的，那么，我与自己矛盾。 我是巨大的，我包含着无数个自我。 ——沃尔特·惠特曼，《自我之歌》
 
 > * 我想要又不想要。\* Zerlina，“让我们手牵手”，唐璜
 
 本条目概述了矛盾律（LNC）作为亚里士多德哲学及其继承者中最重要的第一原则之一的角色，并描述了LNC与排中律（LEM）在建立矛盾和相反对立性质方面的关系。第1节介绍了亚里士多德《第一哲学》中将LNC作为公理的经典处理方式，并回顾了在对立方块上概括的矛盾和相反对立的地位。第2节进一步探讨了LNC和LEM的可能特征，包括未来可能陈述的相关性，在其中LEM（但不是LNC）有时被认为失败。第3节讨论了矛盾否定作为命题运算符的逻辑地位与自然语言中矛盾否定的多样实现之间的不匹配。第4节涉及了西方哲学中对LNC的几个挑战，包括悖论，以及具有真值缺失（违反LEM）和真值过剩（违反LNC）的系统之间的关系。在第5节中，佛教逻辑的四隅论在缺失和过剩的背景下进行了讨论；提出了在这一传统（以及其他传统）中对LNC的明显违反可以归因于亚里士多德所预见的评估不同观点，或者干预的情态和认识运算符。第6节关注“边界矛盾”的问题：在实证研究中调查的具有模糊谓词的明显矛盾句子的接受判断范围，以及这些研究的理论含义。最后，第7节从莎士比亚到社交媒体，概述了矛盾及其在文学和流行文化中的利用方式。
-
 
 ***
 
@@ -134,11 +133,11 @@ Jespersen（1917:144）描述了英语中带有否定前缀的形容词的逻辑
 
 尽管LNC传统上一直保持更神圣，反映了其作为不可证明命题中的第一人的地位，但在最近几年，突破这一最后的禁忌变得越来越诱人。这里的举措涉及接受真值过剩，即给定句子及其否定被认为同时为真的情况，或者句子可能被分配多个（经典的）真值的情况，即真和假。Parsons（1990）观察到这两种非经典理论在逻辑上是可以等价的，因为真值过剩在一个类别的理论中出现，而在另一个类别的理论中则是空缺；然而，其他人则认为空缺（如直觉主义非二值逻辑中的情况）比真值过剩更容易接受（请参阅Priest等人2004年的论文集进行进一步讨论）。双真论者通过指出接受一些矛盾并不意味着接受所有矛盾来拒绝不一致的指控；特别是，他们试图化解由Ex Contradictione Quodlibet提出的逻辑末日或“爆炸”的威胁，即推理（8）中的推论：
 
-> (8) _p_, ¬_p_
+> (8) *p*, ¬*p*
 >
 > ***
 >
-> ∴_q_
+> ∴*q*
 
 远非被降为植物般的沉默，正如亚里士多德所规定的那样，真正矛盾的支持者，包括自称为二值论者的人们，一直都很雄辩。
 
@@ -164,7 +163,7 @@ Jespersen（1917:144）描述了英语中带有否定前缀的形容词的逻辑
 
 在西方经典之外，关于非二元逻辑的争论主要由佛教徒承担，尤其是由龙树阐述的四隅论（公元前200年左右；参见Bochenski 1961: Part VI, Raju 1954, Garfield 1995, Tillemans 1999, Garfield & Priest 2002），也被称为四角或四重否定。考虑任何陈述及其（表面上的）矛盾的以下四种可能的真实结果：
 
-| (9) (i) | _S_is_P_   |
+| (9) (i) | *S_is_P*   |
 | ------- | ---------- |
 | (ii)    | S不是P       |
 | (iii)   | S既是P又不是P   |
@@ -186,9 +185,9 @@ Jespersen（1917:144）描述了英语中带有否定前缀的形容词的逻辑
 
 因此，当我否定你的条件句“如果你给她青霉素，她会好转”时，我是允许给她青霉素可能对她没有影响的可能性，但我并没有预测你会给她青霉素而她无法康复。否认这个格言（通常虽然不准确地归因于陀思妥耶夫斯基或尼采）即如果上帝已死，一切皆可允许，并不意味着承认上帝已死且某事被禁止。正如邓梅特（1973: 328-30）所指出的，我们必须区分弗雷格断言运算符范围之外的否定，非（⊢p），与否定命题的断言，⊢（非p）。前者的解释“可能被视为表达不愿意断言”p，特别是当p是一个条件句时。
 
-| (11)_X_: | If it rains, the match will be canceled. |
+| (11)*X*: | If it rains, the match will be canceled. |
 | -------- | ---------------------------------------- |
-| _Y_:     | 我不这么认为。                                  |
+| *Y*:     | 我不这么认为。                                  |
 
 Y在这里的贡献并不构成对X内容的否定；相反，我们可以将Y解释为传达（11'a）或（11'b）：
 
@@ -198,9 +197,9 @@ Y在这里的贡献并不构成对X内容的否定；相反，我们可以将Y�
 
 同样地，对于析取也是如此。考虑在2000年选举前的（12）中的交流，这是根据Grice的一个例子更新的：
 
-| (12)_X_: | Bush or Gore will be elected. |
+| (12)*X*: | Bush or Gore will be elected. |
 | -------- | ----------------------------- |
-| _Y_:     | 这并非如此：布什、戈尔或纳德将会当选。           |
+| *Y*:     | 这并非如此：布什、戈尔或纳德将会当选。           |
 
 Y的反驳不能与X的主张内容相矛盾，因为布什的（法定）选举使得X和Y的陈述都成立。相反，Y反对的理由是X没有认识论立场来断言二元析取。
 
@@ -228,7 +227,7 @@ Y的反驳不能与X的主张内容相矛盾，因为布什的（法定）选举
 
 面对将诸如高和红这类语义模糊的谓词应用于边界情况的任务，心理语言学研究中受访者的直觉往往变得不确定。受试者对关键数据产生不同的反应，研究者们对数据提出了不同的解释。在早期的一项研究中，Bonini等人指出了关于边界情况下真假判断的不对称性，并最终拒绝了真空和真过剩解释，支持了一个与LEM和LNC兼容的认识论“模糊即无知”理论。也就是说，主体S“在心理上以与其他具有明确真/假边界的谓词相同的方式来表征模糊谓词，而S对其位置不确定”（Bonini等人，1999年：387）。
 
-Kyburg（2000）提供了一个实用的解释，解释为什么在边界高度的情况下，a高可能被判断为既不真实也不虚假，或者为什么在同样情况下a高和a不高可能被判断为真实。她指出，对于一个旨在提供最大信息的合作讲话者来说，真值直觉和可断言性直觉之间存在脱节，而不是承认间隙或过剩。当然，在某些情况下，a高和a不高的适当性可能仅仅反映出意识到不同的截断点适用于相关实体类别（儿童与成年人，男性成年人与男性职业篮球运动员等）—这是亚里士多德骑手所预见的情况。但在其他情况下，这样的陈述确实会传达出a具有边界高度的意思，而仅仅肯定或否定模糊的谓词—a高或_a不高—_ 会传达出太高或太低的程度。正如说话者可能会避免发出或分类为真实的句子一样，这种句子的使用会误导听者—_雪是白色的或雪是紫色的—_ 因此，在边界情况下断言相反的连接—_a高和他不高—_ 可能更受欢迎，尽管它具有矛盾性，而不是在同样情况下误导性地断言a高或a不高。
+Kyburg（2000）提供了一个实用的解释，解释为什么在边界高度的情况下，a高可能被判断为既不真实也不虚假，或者为什么在同样情况下a高和a不高可能被判断为真实。她指出，对于一个旨在提供最大信息的合作讲话者来说，真值直觉和可断言性直觉之间存在脱节，而不是承认间隙或过剩。当然，在某些情况下，a高和a不高的适当性可能仅仅反映出意识到不同的截断点适用于相关实体类别（儿童与成年人，男性成年人与男性职业篮球运动员等）—这是亚里士多德骑手所预见的情况。但在其他情况下，这样的陈述确实会传达出a具有边界高度的意思，而仅仅肯定或否定模糊的谓词—a高或_a不高—_ 会传达出太高或太低的程度。正如说话者可能会避免发出或分类为真实的句子一样，这种句子的使用会误导听者—*雪是白色的或雪是紫色的—* 因此，在边界情况下断言相反的连接—*a高和他不高—* 可能更受欢迎，尽管它具有矛盾性，而不是在同样情况下误导性地断言a高或a不高。
 
 对于Sorensen（2001）来说，个体接受某些虚假主张的真实性，包括那些必然虚假的主张，如a高和a不高，反映的不是我们语义和逻辑分析的不足，而是说话者错误、困惑或对给定句子的真实条件或自己的信念无知的倾向，尤其是涉及模糊性的情况，类似于感知在视觉错觉的情况下可能误导的方式。
 
@@ -284,66 +283,66 @@ Ripley（2011: §2）进行了关于明显矛盾的反应的调查，例如模�
 
 ## Bibliography
 
-* Akiba, Ken, 1999. “On super- and subvaluation: a classicist's reply to Hyde,” _Mind_, 108: 727–32.
-* Alxatib, Sam and Francis Jeffry Pelletier, 2011. “The psychology of vagueness: Borderline cases and contradictions,” _Mind & Language_, 26(3): 287–326.
-* Aristotle. _Categories_ and _De Interpretatione_, J. N. Ackrill (ed.), Oxford: Clarendon, 1963.
-* Aristotle. _Metaphysics_, Hippocrates Apostle (ed.), Bloomington: Indiana University Press, 1966.
-* Aristotle. _Metaphysics Books Γ, Δ, and E_, Christopher Kirwan (ed.), 2nd edition, Oxford: Clarendon, 1993.
-* Aristotle. _Prior and Posterior Analytics_, W. D. Ross (ed.), Oxford: Clarendon, 1957.
-* Avicenna. _La Métaphysique du Shifā Livres I à V_, Georges Anawati (ed.), Paris: Vrin, 1978.
-* Balcerowicz, Piotr, 2003. “Some remarks on the _Naya_ method,” in _Essays in Jaina Philosophy and Religion. Warsaw Indological Studies_ (Volume 2), Delhi: Motilal Banarsidass Publishers, pp. 37–68.
-* Barnes, Jonathan, 1969. “The law of contradiction,” _Philosophical Quarterly_, 19: 302–309.
-* Barnes, Jonathan, 1982. _The Presocratic Philosophers_, London: Routledge & Kegan Paul.
+* Akiba, Ken, 1999. “On super- and subvaluation: a classicist's reply to Hyde,” *Mind*, 108: 727–32.
+* Alxatib, Sam and Francis Jeffry Pelletier, 2011. “The psychology of vagueness: Borderline cases and contradictions,” *Mind & Language*, 26(3): 287–326.
+* Aristotle. *Categories* and *De Interpretatione*, J. N. Ackrill (ed.), Oxford: Clarendon, 1963.
+* Aristotle. *Metaphysics*, Hippocrates Apostle (ed.), Bloomington: Indiana University Press, 1966.
+* Aristotle. *Metaphysics Books Γ, Δ, and E*, Christopher Kirwan (ed.), 2nd edition, Oxford: Clarendon, 1993.
+* Aristotle. *Prior and Posterior Analytics*, W. D. Ross (ed.), Oxford: Clarendon, 1957.
+* Avicenna. *La Métaphysique du Shifā Livres I à V*, Georges Anawati (ed.), Paris: Vrin, 1978.
+* Balcerowicz, Piotr, 2003. “Some remarks on the *Naya* method,” in *Essays in Jaina Philosophy and Religion. Warsaw Indological Studies* (Volume 2), Delhi: Motilal Banarsidass Publishers, pp. 37–68.
+* Barnes, Jonathan, 1969. “The law of contradiction,” *Philosophical Quarterly*, 19: 302–309.
+* Barnes, Jonathan, 1982. *The Presocratic Philosophers*, London: Routledge & Kegan Paul.
 * Benveniste, Émile, 1956. “Remarks on the function of language in Freudian theory,” reprinted in_Problems in General Linguistics_, M. E. Meek (trans.), Coral Gables: University of Miami Press, 1971, pp. 65–75.
-* Bochenski, Joseph M., 1961. _A History of Formal Logic_, Ivo Thomas (ed. and trans.), Notre Dame: University of Notre Dame Press.
-* Bonini, Nicolao, Daniel Osherson, Riccardo Viale, and Timothy Williamson, 1999. “On the psychology of vague predicates,” _Mind & Language_, 14: 377–93.
-* Dummett, Michael, 1973. _Frege: philosophy of language_, London: Duckworth.
-* Fine, Kit, 1975. “Vagueness, truth, and logic,” _Synthese_, 30: 265–300.
-* van Fraassen, Bas, 1969. “Presuppositions, super-valuations, and free logic,” in K. Lambert (ed.), _The Logical Way of Doing Things_, New Haven: Yale University Press, pp. 67–91.
-* Frankfurt, Harry, 1964. “The logic of omnipotence,” _Philosophical Review_, 73: 262–63.
-* Frege, Gottlob, 1892. “On sense and reference”, in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds.), Oxford: Blackwell, 1952, pp. 56–78.
-* Frege, Gottlob, 1919. “Negation,” in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds.), Oxford: Blackwell, 1952, pp. 117–35.
-* Freud, Sigmund, 1910. “The antithetical sense of primal words,” in J. Strachey (ed.), _The Standard Edition of the Complete Psychological Works of Sigmund Freud_ (Volume 11), London: Hogarth Press, 1957, pp. 155–61.
-* Garfield, Jay, 1995. _The fundamental wisdom of the middle way: Nāgārjuna's Mūlamadhyamakakārikā_, Jay L. Garfield (trans., commentary), New York: Oxford University Press.
+* Bochenski, Joseph M., 1961. *A History of Formal Logic*, Ivo Thomas (ed. and trans.), Notre Dame: University of Notre Dame Press.
+* Bonini, Nicolao, Daniel Osherson, Riccardo Viale, and Timothy Williamson, 1999. “On the psychology of vague predicates,” *Mind & Language*, 14: 377–93.
+* Dummett, Michael, 1973. *Frege: philosophy of language*, London: Duckworth.
+* Fine, Kit, 1975. “Vagueness, truth, and logic,” *Synthese*, 30: 265–300.
+* van Fraassen, Bas, 1969. “Presuppositions, super-valuations, and free logic,” in K. Lambert (ed.), *The Logical Way of Doing Things*, New Haven: Yale University Press, pp. 67–91.
+* Frankfurt, Harry, 1964. “The logic of omnipotence,” *Philosophical Review*, 73: 262–63.
+* Frege, Gottlob, 1892. “On sense and reference”, in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds.), Oxford: Blackwell, 1952, pp. 56–78.
+* Frege, Gottlob, 1919. “Negation,” in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds.), Oxford: Blackwell, 1952, pp. 117–35.
+* Freud, Sigmund, 1910. “The antithetical sense of primal words,” in J. Strachey (ed.), *The Standard Edition of the Complete Psychological Works of Sigmund Freud* (Volume 11), London: Hogarth Press, 1957, pp. 155–61.
+* Garfield, Jay, 1995. *The fundamental wisdom of the middle way: Nāgārjuna's Mūlamadhyamakakārikā*, Jay L. Garfield (trans., commentary), New York: Oxford University Press.
 * Garfield, Jay and Graham Priest, 2002. “Nāgārjuna and the limits of thought,” in Priest 2002, pp. 249–70.
-* Geach, P. T., 1972. _Logic Matters_, reprinted Berkeley: University of California Press, 1980.
-* Grice, H. P., 1989. _Studies in the Way of Words_, Cambridge: Harvard University Press.
-* Heraclitus. _Heraclitus: The Cosmic Fragments_, G. S. Kirk (ed.), Cambridge: Cambridge University Press, 1954.
-* Horn, Laurence, 1989. _A Natural History of Negation_, Chicago: University of Chicago Press; reissue edition, Stanford: CSLI, Publications, 2001.
-* Horn, Laurence, 2017. “Lie-toe-tease: double negatives and excluded middles,” _Philosophical Studies_, 174: 79–103.
-* Hyde, Dominic, 1997. “From heaps and gaps to heaps of gluts,” _Mind_, 106: 641–660.
-* Jespersen, Otto, 1962. _Negation in English and Other Languages_, Copenhagen: A. F. Høst.
-* Kneale, William and Martha Kneale, 1962. _The Development of Logic_, Oxford: Clarendon.
-* Kumārila Bhaṭṭa, _The Mīmāmsā-śloka-vārtika_, R. Talainga (ed.), Benares: Freeman & Co., 1899.
-* Kyburg, Alice, 2000. “When vague sentences inform,” _Synthese_, 124: 175–91.
-* Lear, Jonathan, 1980. _Aristotle and Logical Theory_, Cambridge: Cambridge U. Press.
-* Leibniz, Wilhelm Gottfried von, 1696. _New Essays Concerning Human Understanding by Gottfried Wilhelm Leibniz_, A. G. Langley (ed. and trans.), 2nd edition, Chicago: Open Court, 1916.
-* Lee-Goldman, Russell, 2011. “_No_ as a discourse marker,” _Journal of Pragmatics_, 43: 2627–49.
-* Łukasiewicz, Jan, 1910. “On the principle of contradiction in Aristotle”, V. Wedin (trans.), _Review of Metaphysics_, 24 (1971): 485–509.
-* Mates, Benson, 1953. _Stoic Logic_, Berkeley and Los Angeles: University of California Press.
-* Mavrodes, George, 1963. “Some puzzles concerning omnipotence,” _Philosophical Review_, 72: 221–23.
-* Parsons, Terence, 1990. “True Contradictions,” _Canadian Journal Philosophy_, 20: 335–53.
-* Peter of Spain, _Tractatus, called afterwards Summulae Logicales_, L. M. de Rijk (ed.), Assen: van Gorcum, 1972.
-* Plekhanov, Gyorgii, 1909. _Fundamental Problems of Marxism_, D. Ryazanov (ed.), New York: International Publishers, 1929.
-* Priest, Graham, 1987. _In Contradiction_, Dordrecht: M. Nijhoff.
-* –––, 1998. “To be and not to be—that is the answer. On Aristotle on the law of non-contradiction,” _Philosophiegeschichte und logische Analyse_, 1: 91–130.
-* –––, 2002. _Beyond the Limits of Thought_, Oxford: Oxford University Press.
-* –––, 2006. _In Contradiction: A Study of the Transconsistent_, The Hague: M. Nijhoff.
-* Priest, Graham, J. C. Beall, and Bradley Armour-Garb (eds.), 2004. _The Law of Non-Contradiction: New Philosophical Essays_, Oxford: Clarendon.
-* Raju, P. T., 1954. “The principle of four-cornered negation in Indian philosophy,” _Review of Metaphysics_, 7: 694–713.
-* Razinsky, Hili, 2017. _Ambivalence: A Philosophical Exploration_, London: Rowman & Littlefield.
-* Recanati, François, 2002. “Unarticulated constituents,” _Linguistics and Philosophy_, 25: 299–345.
-* Ripley, David, 2011. “Contradiction at the borders,” in R. Nouwen, R. van Rooij, U. Sauerland, and H.-C. Schmitz (eds.), _Vagueness in Communication_, Dordrecht: Springer, pp. 169–88.
-* Robinson, Richard, 1967. _Early Mâdhyamika in India and China_, Madison: University of Wisconsin Press.
-* Russell, Bertrand, 1905. “On descriptions”, _Mind_, 14: 479–93.
+* Geach, P. T., 1972. *Logic Matters*, reprinted Berkeley: University of California Press, 1980.
+* Grice, H. P., 1989. *Studies in the Way of Words*, Cambridge: Harvard University Press.
+* Heraclitus. *Heraclitus: The Cosmic Fragments*, G. S. Kirk (ed.), Cambridge: Cambridge University Press, 1954.
+* Horn, Laurence, 1989. *A Natural History of Negation*, Chicago: University of Chicago Press; reissue edition, Stanford: CSLI, Publications, 2001.
+* Horn, Laurence, 2017. “Lie-toe-tease: double negatives and excluded middles,” *Philosophical Studies*, 174: 79–103.
+* Hyde, Dominic, 1997. “From heaps and gaps to heaps of gluts,” *Mind*, 106: 641–660.
+* Jespersen, Otto, 1962. *Negation in English and Other Languages*, Copenhagen: A. F. Høst.
+* Kneale, William and Martha Kneale, 1962. *The Development of Logic*, Oxford: Clarendon.
+* Kumārila Bhaṭṭa, *The Mīmāmsā-śloka-vārtika*, R. Talainga (ed.), Benares: Freeman & Co., 1899.
+* Kyburg, Alice, 2000. “When vague sentences inform,” *Synthese*, 124: 175–91.
+* Lear, Jonathan, 1980. *Aristotle and Logical Theory*, Cambridge: Cambridge U. Press.
+* Leibniz, Wilhelm Gottfried von, 1696. *New Essays Concerning Human Understanding by Gottfried Wilhelm Leibniz*, A. G. Langley (ed. and trans.), 2nd edition, Chicago: Open Court, 1916.
+* Lee-Goldman, Russell, 2011. “*No* as a discourse marker,” *Journal of Pragmatics*, 43: 2627–49.
+* Łukasiewicz, Jan, 1910. “On the principle of contradiction in Aristotle”, V. Wedin (trans.), *Review of Metaphysics*, 24 (1971): 485–509.
+* Mates, Benson, 1953. *Stoic Logic*, Berkeley and Los Angeles: University of California Press.
+* Mavrodes, George, 1963. “Some puzzles concerning omnipotence,” *Philosophical Review*, 72: 221–23.
+* Parsons, Terence, 1990. “True Contradictions,” *Canadian Journal Philosophy*, 20: 335–53.
+* Peter of Spain, *Tractatus, called afterwards Summulae Logicales*, L. M. de Rijk (ed.), Assen: van Gorcum, 1972.
+* Plekhanov, Gyorgii, 1909. *Fundamental Problems of Marxism*, D. Ryazanov (ed.), New York: International Publishers, 1929.
+* Priest, Graham, 1987. *In Contradiction*, Dordrecht: M. Nijhoff.
+* –––, 1998. “To be and not to be—that is the answer. On Aristotle on the law of non-contradiction,” *Philosophiegeschichte und logische Analyse*, 1: 91–130.
+* –––, 2002. *Beyond the Limits of Thought*, Oxford: Oxford University Press.
+* –––, 2006. *In Contradiction: A Study of the Transconsistent*, The Hague: M. Nijhoff.
+* Priest, Graham, J. C. Beall, and Bradley Armour-Garb (eds.), 2004. *The Law of Non-Contradiction: New Philosophical Essays*, Oxford: Clarendon.
+* Raju, P. T., 1954. “The principle of four-cornered negation in Indian philosophy,” *Review of Metaphysics*, 7: 694–713.
+* Razinsky, Hili, 2017. *Ambivalence: A Philosophical Exploration*, London: Rowman & Littlefield.
+* Recanati, François, 2002. “Unarticulated constituents,” *Linguistics and Philosophy*, 25: 299–345.
+* Ripley, David, 2011. “Contradiction at the borders,” in R. Nouwen, R. van Rooij, U. Sauerland, and H.-C. Schmitz (eds.), *Vagueness in Communication*, Dordrecht: Springer, pp. 169–88.
+* Robinson, Richard, 1967. *Early Mâdhyamika in India and China*, Madison: University of Wisconsin Press.
+* Russell, Bertrand, 1905. “On descriptions”, *Mind*, 14: 479–93.
 * Sainsbury, R. M., 2004. “Option negation and dialetheias,” in Priest et al. (eds.) 2004, 85–92.
-* Savage, C. Wade, 1967. “The paradox of the stone,” _Philosophical Review_, 76: 74–79.
-* Smiley, Timothy, 1993. “Can contradictions be true?,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 67: 17–33.
-* Sorensen, Roy, 2001. _Vagueness and Contradiction_, Oxford: Oxford University Press.
-* Strawson, P. F., 1952. _Introduction to Logical Theory_, London: Methuen.
-* Tillemans, Tom, 1999. “Is Buddhist Logic non-classical or deviant?,” _Scripture, Logic, Language_ (Chapter 9) Boston: Wisdom Publications.
-* Wedin, Michael V., 2004a. “Aristotle on the firmness of the principle of non-contradiction,” _Phronesis_, 49: 226-65.
-* –––, 2004b. “On the use and abuse of non-contradiction: Aristotle's critique of Protagoras and Heraclitus in _Metaphysics_ Gamma 5,” _Oxford Studies in Ancient Philosophy_, 26: 213–39.
+* Savage, C. Wade, 1967. “The paradox of the stone,” *Philosophical Review*, 76: 74–79.
+* Smiley, Timothy, 1993. “Can contradictions be true?,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 67: 17–33.
+* Sorensen, Roy, 2001. *Vagueness and Contradiction*, Oxford: Oxford University Press.
+* Strawson, P. F., 1952. *Introduction to Logical Theory*, London: Methuen.
+* Tillemans, Tom, 1999. “Is Buddhist Logic non-classical or deviant?,” *Scripture, Logic, Language* (Chapter 9) Boston: Wisdom Publications.
+* Wedin, Michael V., 2004a. “Aristotle on the firmness of the principle of non-contradiction,” *Phronesis*, 49: 226-65.
+* –––, 2004b. “On the use and abuse of non-contradiction: Aristotle's critique of Protagoras and Heraclitus in *Metaphysics* Gamma 5,” *Oxford Studies in Ancient Philosophy*, 26: 213–39.
 
 ## Academic Tools
 
@@ -355,11 +354,11 @@ Ripley（2011: §2）进行了关于明显矛盾的反应的调查，例如模�
 
 ## Other Internet Resources
 
-* Carey, Stan (2014). “[Sorry not sorry: The many names for non-apologies](https://tinyurl.com/kzf5d6d),” LexiconValley blogpost, _Slate_, Nov. 20, 2014.
+* Carey, Stan (2014). “[Sorry not sorry: The many names for non-apologies](https://tinyurl.com/kzf5d6d),” LexiconValley blogpost, *Slate*, Nov. 20, 2014.
 * Liberman, Mark (2008). “[Yeah-no mailbag](http://itre.cis.upenn.edu/\~myl/languagelog/archives/005525.html),” Language Log blog post, April 3, 2008.
-* Meyer, Matthew (2008). “[Non-contradiction as an ontological principle: An interpretation of Aristotle's _Metaphysics IV.3-4_](http://www.princeton.edu/\~classics/conferences/2008/ancientphil/documents/MeyerNon-Contradiction\000.pdf),” unpublished manuscript, Boston University.
+* Meyer, Matthew (2008). “[Non-contradiction as an ontological principle: An interpretation of Aristotle's *Metaphysics IV.3-4*](http://www.princeton.edu/\~classics/conferences/2008/ancientphil/documents/MeyerNon-Contradiction\000.pdf),” unpublished manuscript, Boston University.
 * Saturday Night Live (2017). [Levi’s Wokes](https://theawesomer.com/snl-levis-wokes/448150/), non-gender-conforming style-free jeans introduced in faux commercial, Nov. 30, 2017.
-* Schulz, Kathryn (2014). “[The walking cure: Talking to Cheryl Strayed about what made _Wild_ work](http://grantland.com/the-triangle/finding-the-cleveland-misery-tipping-point/),” _Vulture_, Dec. 3, 2014.
+* Schulz, Kathryn (2014). “[The walking cure: Talking to Cheryl Strayed about what made *Wild* work](http://grantland.com/the-triangle/finding-the-cleveland-misery-tipping-point/),” *Vulture*, Dec. 3, 2014.
 * Simmons, Bill (2014). [Grantland column](http://www.vulture.com/2014/12/cheryl-strayed-wild-movie.html), Dec. 19, 2014.
 
 ## Related Entries
@@ -371,4 +370,4 @@ Ripley（2011: §2）进行了关于明显矛盾的反应的调查，例如模�
 I thank an anonymous reader and Professor Piotr Balcerowicz for very helpful comments on the original version of this entry. I am especially grateful to an anonymous referee for comments on the 2018 update.
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[_laurence.horn@yale.edu_](mailto:laurence%2ehorn%40yale%2eedu)>
+[Laurence R. Horn](https://ling.yale.edu/people/laurence-r-horn) <[*laurence.horn@yale.edu*](mailto:laurence%2ehorn%40yale%2eedu)>

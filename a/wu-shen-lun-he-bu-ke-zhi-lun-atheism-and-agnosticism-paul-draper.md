@@ -1,10 +1,8 @@
 # 无神论和不可知论 atheism and agnosticism (Paul Draper)
 
-_首次发布于 2017 年 8 月 2 日；实质性修订于 2022 年 3 月 22 日_
+*首次发布于 2017 年 8 月 2 日；实质性修订于 2022 年 3 月 22 日*
 
 本文的目的是探讨无神论和不可知论与有神论以及彼此之间的关系。这需要对如何最好地定义“无神论”和“不可知论”这两个术语进行令人惊讶的争议性讨论。至少在本文的目的上解决这个问题将为讨论全球无神论和局部无神论之间的重要区别奠定基础，这进而有助于区分不同形式的不可知论。接下来将对一种支持适度形式的不可知论的论证进行考察，然后讨论三种支持无神论的论证以及一种反对更雄心勃勃的不可知论的论证。
-
-
 
 ***
 
@@ -96,7 +94,7 @@ Jeanine Diller（2016）指出，正如大多数有神论者在宣称上帝存�
 
 同样地，考虑一下大卫·休谟的《宗教的自然史》第十一节开头的这段话：
 
-> 如果我们不带偏见地审视古代异教神话，如同它们在诗人的作品中所包含的那样，我们将不会发现其中任何我们一开始可能会担心的怪诞荒谬之处。在我们能够构想出的这个可见世界、人类和动物的形成者，以及一种比其他物种更精致、更有权威的智慧生物之间，存在着什么困难呢？这些生物可能是反复无常、报复心重、充满激情、沉溺于欲望，这是很容易想象的；在我们自己之间，没有什么比绝对权威的许可更容易滋生这样的恶习了。总之，整个神话体系是如此自然，以至于在这个宇宙中包含的各种行星和世界中，_它似乎更有可能在某个地方真正得到实施_。（休谟\[1757] 1956: 53，强调添加）
+> 如果我们不带偏见地审视古代异教神话，如同它们在诗人的作品中所包含的那样，我们将不会发现其中任何我们一开始可能会担心的怪诞荒谬之处。在我们能够构想出的这个可见世界、人类和动物的形成者，以及一种比其他物种更精致、更有权威的智慧生物之间，存在着什么困难呢？这些生物可能是反复无常、报复心重、充满激情、沉溺于欲望，这是很容易想象的；在我们自己之间，没有什么比绝对权威的许可更容易滋生这样的恶习了。总之，整个神话体系是如此自然，以至于在这个宇宙中包含的各种行星和世界中，*它似乎更有可能在某个地方真正得到实施*。（休谟\[1757] 1956: 53，强调添加）
 
 关于休谟是无神论者、有神论者还是两者都不是的争论很多，但没有人使用这段文字来支持他实际上是多神论者的观点。也许这是因为，即使存在自然外星人，他们的力量远远超过人类，但在道德和其他心理特质上与古希腊和罗马的神祗非常相似，至少现在没有人会被诱惑将他们视为值得崇拜的对象。
 
@@ -273,7 +271,7 @@ Le Poidevin 通过陈述这个论证的第一个前提来进行辩护，他认�
 
 > 如果一个人_S_相信一个命题_P_是合理的，那么只有当_S_对_P_的确信度足够高，使得_S_对_P_的态度成为信仰，才是合理的。
 
-然而，洛克的论点本身也需要证明。幸运的是，不需要像洛克的论点那样强大来捍卫[前提（2）](https://plato.stanford.edu/entries/atheism-agnosticism/#s7.2)。首先，（2）的捍卫者只需要一个“如果”，而不是“如果且仅如果”。此外，（2）的捍卫者不需要像洛克的论点那样将信念态度与高度的确信等同起来。因此，只需要以下更为谦虚的论点（称之为“_T_”）：
+然而，洛克的论点本身也需要证明。幸运的是，不需要像洛克的论点那样强大来捍卫[前提（2）](https://plato.stanford.edu/entries/atheism-agnosticism/#s7.2)。首先，（2）的捍卫者只需要一个“如果”，而不是“如果且仅如果”。此外，（2）的捍卫者不需要像洛克的论点那样将信念态度与高度的确信等同起来。因此，只需要以下更为谦虚的论点（称之为“*T*”）：
 
 * （T）如果对于_S_对命题_P_的确信度是（非常）高的是合理的，那么对于_S_相信_P_也是合理的。
 
@@ -285,57 +283,57 @@ Le Poidevin 通过陈述这个论证的第一个前提来进行辩护，他认�
 
 ## Bibliography
 
-* Baggini, Julian, 2003, _Atheism: A Very Short Introduction_, Oxford: Oxford University Press.
-* Bishop, John C., 2008, “How a Modest Fideism May Constrain Theistic Commitments: Exploring an Alternative to Classical Theism”, _Philosophia_, 35(3–4): 387–402. doi:10.1007/s11406-007-9071-y
-* Buckareff, Andrei A. and Yujin Nagasawa (eds.), 2016, _Alternative Concepts of God: Essays on the Metaphysics of the Divine_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
+* Baggini, Julian, 2003, *Atheism: A Very Short Introduction*, Oxford: Oxford University Press.
+* Bishop, John C., 2008, “How a Modest Fideism May Constrain Theistic Commitments: Exploring an Alternative to Classical Theism”, *Philosophia*, 35(3–4): 387–402. doi:10.1007/s11406-007-9071-y
+* Buckareff, Andrei A. and Yujin Nagasawa (eds.), 2016, *Alternative Concepts of God: Essays on the Metaphysics of the Divine*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198722250.001.0001
 * Bullivant, Stephen, 2013, “Defining ‘Atheism’”, in Bullivant and Ruse 2013: 11–21.
-* Bullivant, Stephen and Michael Ruse (eds.), 2013, _The Oxford Handbook of Atheism_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199644650.001.0001
-* Darwin, Charles, 1859, _On the Origin of Species by Means of Natural Selection_, London: John Murray. \[[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373\&viewtype=side\&pageseq=1)]
-* Dennett, Daniel C., 2006, _Breaking the Spell: Religion as a Natural Phenomenon_, New York: Viking Penguin.
-* Diller, Jeanine, 2016, “Global and Local Atheisms”, _International Journal for Philosophy of Religion_, 79(1): 7–18. doi:10.1007/s11153-015-9550-1
-* Diller, Jeanine and Asa Kasher, 2013, _Models of God and Alternative Ultimate Realities_, Dordrecht: Springer.
-* Draper, Paul, 2002, “Seeking but Not Believing: Confessions of a Practicing Agnostic”, in Daniel Howard-Snyder and Paul Moser (eds.), _Divine Hiddenness: New Essays_, Cambridge: Cambridge University Press, pp. 197–214.
-* –––, 2016, “Where Skeptical Theism Fails, Skeptical Atheism Prevails”, in _Oxford Studies in Philosophy of Religion_, volume 7, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 63–80.
-* Edwards, Paul, 2006, “Atheism”, in Donald M. Borchert (ed.), _Encyclopedia of Philosophy_ (2nd edition, Volume 1), Detroit, MI: Macmillan Reference USA, pp. 356–377.
-* Ellis, Fiona, 2014, _God, Value, and Nature_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714125.001.0001
-* Flew, Antony, 1972, “The Presumption of Atheism”, _Canadian Journal of Philosophy_, 2(1): 29–46. doi:10.1080/00455091.1972.10716861
-* Foley, Richard, 1992, “The Epistemology of Belief and the Epistemology of Degrees of Belief”, _American Philosophical Quarterly_, 29(2): 111–121.
-* French, Peter A. and Howard K. Wettstein (eds.), 2013, “Special Issue: The New Atheism and Its Critics”, _Midwest Studies in Philosophy_, 37(1).
-* Garvey, Brian, 2010, “Absence of Evidence, Evidence of Absence, and the Atheist’s Teapot”, _Ars Disputandi_, 10: 9–22.
-* Gutting, Gary, 2013, “Religious Agnosticism”, _Midwest Studies in Philosophy_, 37(1): 51–67. doi:10.1111/misp.12002
-* Hume, David, \[1757] 1956, _The Natural History of Religion_, H.E. Root (ed.), Stanford, CA: Stanford University Press, originally published in 1757. \[[Hume 1757 available online (1889 edition)](http://oll.libertyfund.org/titles/hume-the-natural-history-of-religion)]
-* –––, \[1779] 2007, _Dialogues Concerning Natural Religion_, Dorothy Coleman (ed.), Cambridge: Cambridge University Press. \[References are to the part and paragraph number.]
-* Huxley, Thomas Henry, 1884, “Agnosticism: A Symposium”, _The Agnostic Annual_, Charles Watts (ed.), pp. 5–6. \[[Huxley 1884 available online](http://aleph0.clarku.edu/huxley/UnColl/Rdetc/AgnAnn.html)]
-* –––, 1889, “Agnosticism and Christianity”, reprinted in his _Collected Essays, Volume 5: Science and the Christian Tradition_, Cambridge: Cambridge University Press, 1894, pp. 309–365. \[[Huxley \[1889\] 1894 available online](http://aleph0.clarku.edu/huxley/CE5/Agn-X.html)]
-* Kahane, Guy, 2011, “Should We Want God to Exist?” _Philosophy and Phenomenological Research_ 82(3): 674–696. doi:10.1111/j.1933-1592.2010.00426.x
-* Kenny, Anthony, 1983, _Faith and Reason_, (Bampton lectures in America, no. 22), New York: Columbia University Press.
-* Le Poidevin, Robin, 1996, _Arguing for Atheism: An Introduction to the Philosophy of Religion_, London and New York: Routledge.
-* –––, 2010, _Agnosticism: A Very Short Introduction_, Oxford: Oxford University Press. doi:10.1093/actrade/9780199575268.001.0001
+* Bullivant, Stephen and Michael Ruse (eds.), 2013, *The Oxford Handbook of Atheism*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199644650.001.0001
+* Darwin, Charles, 1859, *On the Origin of Species by Means of Natural Selection*, London: John Murray. \[[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373\&viewtype=side\&pageseq=1)]
+* Dennett, Daniel C., 2006, *Breaking the Spell: Religion as a Natural Phenomenon*, New York: Viking Penguin.
+* Diller, Jeanine, 2016, “Global and Local Atheisms”, *International Journal for Philosophy of Religion*, 79(1): 7–18. doi:10.1007/s11153-015-9550-1
+* Diller, Jeanine and Asa Kasher, 2013, *Models of God and Alternative Ultimate Realities*, Dordrecht: Springer.
+* Draper, Paul, 2002, “Seeking but Not Believing: Confessions of a Practicing Agnostic”, in Daniel Howard-Snyder and Paul Moser (eds.), *Divine Hiddenness: New Essays*, Cambridge: Cambridge University Press, pp. 197–214.
+* –––, 2016, “Where Skeptical Theism Fails, Skeptical Atheism Prevails”, in *Oxford Studies in Philosophy of Religion*, volume 7, Jonathan Kvanvig (ed.), Oxford: Oxford University Press, pp. 63–80.
+* Edwards, Paul, 2006, “Atheism”, in Donald M. Borchert (ed.), *Encyclopedia of Philosophy* (2nd edition, Volume 1), Detroit, MI: Macmillan Reference USA, pp. 356–377.
+* Ellis, Fiona, 2014, *God, Value, and Nature*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198714125.001.0001
+* Flew, Antony, 1972, “The Presumption of Atheism”, *Canadian Journal of Philosophy*, 2(1): 29–46. doi:10.1080/00455091.1972.10716861
+* Foley, Richard, 1992, “The Epistemology of Belief and the Epistemology of Degrees of Belief”, *American Philosophical Quarterly*, 29(2): 111–121.
+* French, Peter A. and Howard K. Wettstein (eds.), 2013, “Special Issue: The New Atheism and Its Critics”, *Midwest Studies in Philosophy*, 37(1).
+* Garvey, Brian, 2010, “Absence of Evidence, Evidence of Absence, and the Atheist’s Teapot”, *Ars Disputandi*, 10: 9–22.
+* Gutting, Gary, 2013, “Religious Agnosticism”, *Midwest Studies in Philosophy*, 37(1): 51–67. doi:10.1111/misp.12002
+* Hume, David, \[1757] 1956, *The Natural History of Religion*, H.E. Root (ed.), Stanford, CA: Stanford University Press, originally published in 1757. \[[Hume 1757 available online (1889 edition)](http://oll.libertyfund.org/titles/hume-the-natural-history-of-religion)]
+* –––, \[1779] 2007, *Dialogues Concerning Natural Religion*, Dorothy Coleman (ed.), Cambridge: Cambridge University Press. \[References are to the part and paragraph number.]
+* Huxley, Thomas Henry, 1884, “Agnosticism: A Symposium”, *The Agnostic Annual*, Charles Watts (ed.), pp. 5–6. \[[Huxley 1884 available online](http://aleph0.clarku.edu/huxley/UnColl/Rdetc/AgnAnn.html)]
+* –––, 1889, “Agnosticism and Christianity”, reprinted in his *Collected Essays, Volume 5: Science and the Christian Tradition*, Cambridge: Cambridge University Press, 1894, pp. 309–365. \[[Huxley \[1889\] 1894 available online](http://aleph0.clarku.edu/huxley/CE5/Agn-X.html)]
+* Kahane, Guy, 2011, “Should We Want God to Exist?” *Philosophy and Phenomenological Research* 82(3): 674–696. doi:10.1111/j.1933-1592.2010.00426.x
+* Kenny, Anthony, 1983, *Faith and Reason*, (Bampton lectures in America, no. 22), New York: Columbia University Press.
+* Le Poidevin, Robin, 1996, *Arguing for Atheism: An Introduction to the Philosophy of Religion*, London and New York: Routledge.
+* –––, 2010, *Agnosticism: A Very Short Introduction*, Oxford: Oxford University Press. doi:10.1093/actrade/9780199575268.001.0001
 * Leftow, Brian, 2016, “Naturalistic Pantheism”, in Buckareff and Nagasawa 2016: 64–87.
-* Martin, Michael, 1990, _Atheism: A Philosophical Justification_, Philadelphia, PA: Temple University Press.
-* McLaughlin, Robert, 1984, “Necessary agnosticism?” _Analysis_ 44(4): 198–202. doi:10.1093/analys/44.4.198
-* Morris, Thomas V., 1985, “Agnosticism”, _Analysis_ 45(4): 219–224. doi:10.1093/analys/45.4.219
-* Morriston, Wes, 2017, “Protest and Enlightenment in the Book of Job”, in Paul Draper and J.L. Schellenberg (eds.), _Renewing Philosophy of Religion: Exploratory Essays_, Oxford: Oxford University Press, pp. 223–242.
-* Mulgan, Tim, 2015, _Purpose in the Universe: The Moral and Metaphysical Case for Ananthropocentric Purposivism_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199646142.001.0001
-* Murphy, Mark C., 2017, _God’s Own Ethics: Norms of Divine Agency and the Argument from Evil_, Oxford: Oxford University Press.
-* Nagasawa, Yujin, 2008, “A New Defence of Anselmian Theism”, _Philosophical Quarterly_, 58(233): 577–596. doi:10.1111/j.1467-9213.2008.578.x
-* Nagel, Thomas, 1997, _The Last Word_, Oxford: Oxford University Press. doi:10.1093/0195149831.001.0001
-* Oppy, Graham, 1994, “Weak Agnosticism Defended”, _International Journal for Philosophy of Religion,_ 36(3): 147–67. doi:10.1007/BF01316921
-* –––, 2006, _Arguing About Gods_, Cambridge: Cambridge University Press.
-* Pike, Nelson, 1970, _God and Timelessness_, New York: Schocken Books.
-* Plantinga, Alvin, 2000, _Warranted Christian Belief_, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
-* Pojman, Louis P., 2015, “Atheism”, in Robert Audi (ed.), _The Cambridge Dictionary of Philosophy_, Cambridge: Cambridge University Press.
-* Rowe, William L., 1979, “The Problem of Evil and Some Varieties of Atheism”, _American Philosophical Quarterly_, 16(4): 335–341.
-* –––, 2000, “Atheism”, in Edward Craig (ed.), _Concise Routledge Encyclopedia of Philosophy_, London and New York: Routledge, pp. 62–63.
-* Russell, Bertrand, 1997, “Is There a God? \[1952]”, in John G. Slater and Peter Köllner (eds.), _The Collected Papers of Bertrand Russell, Vol. 11: Last Philosophical Testament, 1943–68_, London and New York: Routledge, pp. 542–548.
-* Schellenberg, J.L., 2007, _The Wisdom to Doubt: A Justification of Religious Skepticism_, Ithaca and London: Cornell University Press.
-* –––, 2019, _Progressive Atheism: How Moral Evolution Changes the God Debate_, London: Bloomsbury.
-* Strawson, Galen, 1990, “Review of _Created from Animals_, by James Rachels”, _The Independent_, London, June 24.
-* Stump, Eleonore, 2010, _Wandering in Darkness: Narrative and the Problem of Suffering_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199277421.001.0001
-* Swinburne, Richard, 2001, _Epistemic Justification_, Oxford: Clarendon Press. doi:10.1093/0199243794.001.0001
-* –––, 2004, _The Existence of God_, second edition, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199271672.001.0001
-* van Inwagen, Peter, 2012, “Russell’s China Teapot”, in Dariusz Lukasiewicz and Roger Pouivet (eds.), _The Right to Believe: Perspectives in Religious Epistemology_, Heusenstamm: Ontos Verlag, pp. 11–26.
-* Wielenberg, Erik J., 2009, “Dawkins’ Gambit, Hume’s Aroma, and God’s Simplicity”, _Philosophia Christi_, 11(1): 111–125.
+* Martin, Michael, 1990, *Atheism: A Philosophical Justification*, Philadelphia, PA: Temple University Press.
+* McLaughlin, Robert, 1984, “Necessary agnosticism?” *Analysis* 44(4): 198–202. doi:10.1093/analys/44.4.198
+* Morris, Thomas V., 1985, “Agnosticism”, *Analysis* 45(4): 219–224. doi:10.1093/analys/45.4.219
+* Morriston, Wes, 2017, “Protest and Enlightenment in the Book of Job”, in Paul Draper and J.L. Schellenberg (eds.), *Renewing Philosophy of Religion: Exploratory Essays*, Oxford: Oxford University Press, pp. 223–242.
+* Mulgan, Tim, 2015, *Purpose in the Universe: The Moral and Metaphysical Case for Ananthropocentric Purposivism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199646142.001.0001
+* Murphy, Mark C., 2017, *God’s Own Ethics: Norms of Divine Agency and the Argument from Evil*, Oxford: Oxford University Press.
+* Nagasawa, Yujin, 2008, “A New Defence of Anselmian Theism”, *Philosophical Quarterly*, 58(233): 577–596. doi:10.1111/j.1467-9213.2008.578.x
+* Nagel, Thomas, 1997, *The Last Word*, Oxford: Oxford University Press. doi:10.1093/0195149831.001.0001
+* Oppy, Graham, 1994, “Weak Agnosticism Defended”, *International Journal for Philosophy of Religion,* 36(3): 147–67. doi:10.1007/BF01316921
+* –––, 2006, *Arguing About Gods*, Cambridge: Cambridge University Press.
+* Pike, Nelson, 1970, *God and Timelessness*, New York: Schocken Books.
+* Plantinga, Alvin, 2000, *Warranted Christian Belief*, Oxford: Oxford University Press. doi:10.1093/0195131932.001.0001
+* Pojman, Louis P., 2015, “Atheism”, in Robert Audi (ed.), *The Cambridge Dictionary of Philosophy*, Cambridge: Cambridge University Press.
+* Rowe, William L., 1979, “The Problem of Evil and Some Varieties of Atheism”, *American Philosophical Quarterly*, 16(4): 335–341.
+* –––, 2000, “Atheism”, in Edward Craig (ed.), *Concise Routledge Encyclopedia of Philosophy*, London and New York: Routledge, pp. 62–63.
+* Russell, Bertrand, 1997, “Is There a God? \[1952]”, in John G. Slater and Peter Köllner (eds.), *The Collected Papers of Bertrand Russell, Vol. 11: Last Philosophical Testament, 1943–68*, London and New York: Routledge, pp. 542–548.
+* Schellenberg, J.L., 2007, *The Wisdom to Doubt: A Justification of Religious Skepticism*, Ithaca and London: Cornell University Press.
+* –––, 2019, *Progressive Atheism: How Moral Evolution Changes the God Debate*, London: Bloomsbury.
+* Strawson, Galen, 1990, “Review of *Created from Animals*, by James Rachels”, *The Independent*, London, June 24.
+* Stump, Eleonore, 2010, *Wandering in Darkness: Narrative and the Problem of Suffering*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199277421.001.0001
+* Swinburne, Richard, 2001, *Epistemic Justification*, Oxford: Clarendon Press. doi:10.1093/0199243794.001.0001
+* –––, 2004, *The Existence of God*, second edition, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199271672.001.0001
+* van Inwagen, Peter, 2012, “Russell’s China Teapot”, in Dariusz Lukasiewicz and Roger Pouivet (eds.), *The Right to Believe: Perspectives in Religious Epistemology*, Heusenstamm: Ontos Verlag, pp. 11–26.
+* Wielenberg, Erik J., 2009, “Dawkins’ Gambit, Hume’s Aroma, and God’s Simplicity”, *Philosophia Christi*, 11(1): 111–125.
 * Zenk, Thomas, 2013, “New Atheism”, in Bullivant and Ruse 2013: 245–260.
 
 ## Academic Tools
@@ -348,8 +346,8 @@ Le Poidevin 通过陈述这个论证的第一个前提来进行辩护，他认�
 
 ## Other Internet Resources
 
-* [Atheism](http://www.iep.utm.edu/atheism/), Matt McCormick, _Internet Encyclopedia of Philosophy_.
-* [_God or Blind Nature: Philosophers Debate the Evidence_](https://infidels.org/library/modern/debates/great-debate.html), Paul Draper (ed.), The Secular Web.
+* [Atheism](http://www.iep.utm.edu/atheism/), Matt McCormick, *Internet Encyclopedia of Philosophy*.
+* [*God or Blind Nature: Philosophers Debate the Evidence*](https://infidels.org/library/modern/debates/great-debate.html), Paul Draper (ed.), The Secular Web.
 
 ## Related Entries
 
@@ -360,4 +358,4 @@ Le Poidevin 通过陈述这个论证的第一个前提来进行辩护，他认�
 The author is grateful to the students in his Fall 2016 seminar on atheism and agnosticism: John Absher, Matthew Fritz, Alžbeta Hájková, Vincent Jacobson, Daniel Linford, Adam Nuske, Bianca Oprea, and Luke Wilson. They contributed in a variety of ways to making this entry much better than it would otherwise have been. The author is also grateful to Jeanine Diller and Jeffery Lowder for very helpful comments.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Paul Draper](https://www.cla.purdue.edu/philosophy/directory/?p=paul_draper) <[_pdraper@purdue.edu_](mailto:pdraper%40purdue%2eedu)>
+[Paul Draper](https://www.cla.purdue.edu/philosophy/directory/?p=paul_draper) <[*pdraper@purdue.edu*](mailto:pdraper%40purdue%2eedu)>

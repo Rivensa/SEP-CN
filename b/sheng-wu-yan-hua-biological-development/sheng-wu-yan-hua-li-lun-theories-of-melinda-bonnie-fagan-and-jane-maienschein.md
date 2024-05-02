@@ -1,9 +1,8 @@
 # 生物演化理论 theories of (Melinda Bonnie Fagan and Jane Maienschein)
 
-_首次发布于 2022 年 6 月 3 日_
+*首次发布于 2022 年 6 月 3 日*
 
 发展是一个中心的生物过程，对其本质的理念在生物学思想中具有影响力。本文通过“表观发生与预定论”这个视角概述了这些理念的历史。表观发生大致上是指每个发展实体都从未形成的物质开始，形式逐渐在发展过程中随着时间的推移逐渐出现。相比之下，预定论认为发展始于某种已经预先形成、预先界定或预先确定的实体。问题“表观发生还是预定论？”在一定程度上是形而上学的：存在的是什么——形式还是成为形式的未形成物？它在一定程度上是认识论的：我们如何知道——通过观察还是推理？关于这些纠缠不清的问题的辩论自古以来就一直存在，今天表现为遗传决定论者诉诸通过遗传继承已经“形成”的实体，而其他人则坚持环境可塑性的有效性。本文概述了参与这一辩论的发展主要理论，从亚里士多德的有关生殖的理论到最近的系统论和干细胞理论。当然，“表观发生与预定论”并不是唯一与发展相关的长期理论对立。但这种框架是一种包容性的方式，以捕捉关于生物发展的转变和恒定性的模式。自然还是培养，表观发生还是预定论，遗传决定论还是发展自由意志，或者某种中间立场的版本是否可能？这场长期讨论的术语和潜在假设继续塑造关于生命何时开始的辩论，并具有深远的生物伦理和政策影响。
-
 
 ***
 
@@ -71,7 +70,7 @@ Shirley Roe 对十八世纪的辩论进行了优秀的考察。对各种自然�
 
 此外，我们必须寻求科学而不是哲学来解决各自的相对贡献，因为“两种倾向都将在调查中找到纠正之处”（Wheeler 1899: 284）。
 
-Wheeler 受到了最近 19 世纪末的辩论的刺激，这些辩论是由一系列新发现引发的。奥古斯特·魏斯曼（August Weismann）和奥斯卡·赫特维希（Oscar Hertwig）提出了特别强烈且截然不同的观点。魏斯曼最初从表观遗传学的观点出发，拒绝了个体形态通过遗传胚胎中预先存在的形态的展开或演化而出现的想法。但到 1892 年他的《种质论》（_Das Keimplasm_）出版时（1893 年翻译成英文），魏斯曼改变了他的观点。正如魏斯曼所写：
+Wheeler 受到了最近 19 世纪末的辩论的刺激，这些辩论是由一系列新发现引发的。奥古斯特·魏斯曼（August Weismann）和奥斯卡·赫特维希（Oscar Hertwig）提出了特别强烈且截然不同的观点。魏斯曼最初从表观遗传学的观点出发，拒绝了个体形态通过遗传胚胎中预先存在的形态的展开或演化而出现的想法。但到 1892 年他的《种质论》（*Das Keimplasm*）出版时（1893 年翻译成英文），魏斯曼改变了他的观点。正如魏斯曼所写：
 
 对达尔文理论的有效性我一直怀疑，这种怀疑并不仅限于这一点：我认为身体各部分都存在预先形成的组成部分的假设过于简单，除此之外还涉及到一个不可能的问题，即绝对无法想象的初级组成部分的聚集。因此，我努力想看看是否可能想象胚胎质体虽然结构复杂，但并不由如此庞大数量的粒子组成，而其进一步的复杂化是在发育过程中随后产生的。换句话说，我寻求的是一种物质，整个有机体可以通过发生论而不是进化论产生。经过多次尝试，我曾多次认为自己成功了，但所有这些尝试在进一步的事实检验中都失败了。最后，我确信发生论发展是不可能的。此外，我找到了进化的实际证据，这个证据非常简单，以至于我几乎无法理解为什么它能够逃脱我的注意力这么长时间。（魏斯曼 1892 \[1893: xiii–xiv]）
 
@@ -152,7 +151,7 @@ Haraway（1976）确定了有机主义的四个主要要素：
 
 同样，查尔斯·曼宁·奇尔德提出有机体发育基于代谢中的“活动梯度”。其他人反对这些概念不清晰、形而上学模糊和不科学的生命论（参见吉尔伯特、奥皮茨和拉夫，1996 年）。
 
-梯度理论和场理论的一个重要推动力是“组织者”现象，由希尔德·曼戈尔德的实验证明。她移植了一小块来自发育中的_水螈_胚胎背唇的组织到另一种螈类(_条纹水螈_)的早期胚胎原肠胚中。供体组织与另一种物种的未分化外胚层接触。结果是：两个连接在一起的具有不同体轴的胚胎。这表明背唇组织以某种方式“组织”宿主细胞和组织形成另一个胚胎体。斯佩曼将胚胎的背唇称为“组织中心”或“组织者”。但是这是如何起作用的呢？提出的答案表明，体轴是由组织者细胞释放的某种化学物质的梯度所导致的。这是“场理论”的起点；例如，
+梯度理论和场理论的一个重要推动力是“组织者”现象，由希尔德·曼戈尔德的实验证明。她移植了一小块来自发育中的_水螈_胚胎背唇的组织到另一种螈类(*条纹水螈*)的早期胚胎原肠胚中。供体组织与另一种物种的未分化外胚层接触。结果是：两个连接在一起的具有不同体轴的胚胎。这表明背唇组织以某种方式“组织”宿主细胞和组织形成另一个胚胎体。斯佩曼将胚胎的背唇称为“组织中心”或“组织者”。但是这是如何起作用的呢？提出的答案表明，体轴是由组织者细胞释放的某种化学物质的梯度所导致的。这是“场理论”的起点；例如，
 
 > …卵和早期胚胎由场组成——梯度或分化中心，其中特定属性的强度随着距离场中心的增加而降低….（哈里森 1969 年：258）
 
@@ -172,7 +171,7 @@ Weiss 以场的概念来理论化这个想法：
 
 ### 8.2 图灵的反应扩散模型
 
-图灵的形态发生理论（1952 年）摒弃了遗传学，试图解释早期胚胎中模式是如何首次出现的。他的答案是一个简单的模型，由两个反应扩散方程组成，代表了化学物质“形态因子” _X_ 和 _Y_ 在组织中通过常数 _Dx_ 和 _Dy_ 确定的速率扩散，与化学反应相耦合，其效应由函数 _f_ 和 _g_ 表示：
+图灵的形态发生理论（1952 年）摒弃了遗传学，试图解释早期胚胎中模式是如何首次出现的。他的答案是一个简单的模型，由两个反应扩散方程组成，代表了化学物质“形态因子” *X* 和 *Y* 在组织中通过常数 *Dx* 和 *Dy* 确定的速率扩散，与化学反应相耦合，其效应由函数 *f* 和 *g* 表示：
 
 Xt=f(X,Y)+Dx∇2XYt=g(X,Y)+Dy∇2Y
 
@@ -280,7 +279,7 @@ Jacob 和 Monod 随后的工作强调了分子遗传还原论和发育的遗传�
 
 与早期的有机主义一样，模式和形式是在多个组织层次上、在多个时间尺度上的持续相互作用中产生的。但与有机主义者不同，奥亚马（Oyama）有一个已经建立的理论替代方案需要应对。她的大部分论证都是否定性的，拒绝了基因/环境二分法、基因作为原因的主导地位，以及遗传发育规划的残留先行论观念。她的理论观点旨在克服生物学思想中根深蒂固（但常常未被认识到）的二分法。尽管她的观点因其复杂性、与科学概括的表面不兼容以及与实验实践的缺乏联系而受到批评，但奥亚马关于发展系统的观点在 21 世纪的生物哲学中具有影响力。
 
-其中一个影响是进一步阐述发展系统理论（DST；参见[遗传系统](https://plato.stanford.edu/entries/inheritance-systems/)和[复制与繁殖](https://plato.stanford.edu/entries/replication/)的条目）。在他们 2001 年编辑的《偶然循环》（_Cycles of Contingency_）的引言中，奥亚马、保罗·格里菲斯（Paul Griffiths）和拉塞尔·格雷（Russell Gray）阐明了 DST 的主要主题和承诺：多个原因的联合决定（因果平等性）、上下文敏感性和偶然性、扩展遗传、发展作为建构、分布式控制和进化作为建构。另一个核心原则是拒绝对立的二元对立，如自然/培养、基因/环境和生物/文化，不是主张一个充分的发展理论必须包括对立的两个方面，而是认为这些对立本身在一个充分的发展理论中没有地位。相关地，基因并不是发展的特权原因（格里菲斯和奈特 1998）。这个“平等论”有时被误解为一个理论上的主张，即发展的所有原因都同等重要。但更好地理解它是对发展理论（和进化理论）的限制：不预设基因与其他所有原因之间的任何基本区别（奥亚马等人 2001: 3）。DST 的其他主题同样反对二十世纪的预定论。通过这种方式，DST 对继承、发展和进化的思考进行了概念上的重新定位，并为哲学探索基因中心主义和根深蒂固的二分法的替代方案提供了一个出发点。这项研究的重点大部分集中在整合发展和进化上，即进化发育理论（参见[进化与发展](https://plato.stanford.edu/entries/evolution-development/)的条目）。在这里讨论与 DST 相关的有机体发育的项目。
+其中一个影响是进一步阐述发展系统理论（DST；参见[遗传系统](https://plato.stanford.edu/entries/inheritance-systems/)和[复制与繁殖](https://plato.stanford.edu/entries/replication/)的条目）。在他们 2001 年编辑的《偶然循环》（*Cycles of Contingency*）的引言中，奥亚马、保罗·格里菲斯（Paul Griffiths）和拉塞尔·格雷（Russell Gray）阐明了 DST 的主要主题和承诺：多个原因的联合决定（因果平等性）、上下文敏感性和偶然性、扩展遗传、发展作为建构、分布式控制和进化作为建构。另一个核心原则是拒绝对立的二元对立，如自然/培养、基因/环境和生物/文化，不是主张一个充分的发展理论必须包括对立的两个方面，而是认为这些对立本身在一个充分的发展理论中没有地位。相关地，基因并不是发展的特权原因（格里菲斯和奈特 1998）。这个“平等论”有时被误解为一个理论上的主张，即发展的所有原因都同等重要。但更好地理解它是对发展理论（和进化理论）的限制：不预设基因与其他所有原因之间的任何基本区别（奥亚马等人 2001: 3）。DST 的其他主题同样反对二十世纪的预定论。通过这种方式，DST 对继承、发展和进化的思考进行了概念上的重新定位，并为哲学探索基因中心主义和根深蒂固的二分法的替代方案提供了一个出发点。这项研究的重点大部分集中在整合发展和进化上，即进化发育理论（参见[进化与发展](https://plato.stanford.edu/entries/evolution-development/)的条目）。在这里讨论与 DST 相关的有机体发育的项目。
 
 一个发育系统是一个异质且因果复杂的相互作用实体和影响的混合体，它产生了一个有机体的生命周期。（Oyama 2000b: 1）
 
@@ -334,152 +333,152 @@ Jane Maienschien 和 Kate MacCord 提供了一个有启发性的观点，即再�
 
 ## Bibliography
 
-* Agutter, Paul S., P. Colm Malone, and Denys N. Wheatley, 2000, “Diffusion Theory in Biology: A Relic of Mechanistic Materialism”, _Journal of the History of Biology_, 33(1): 71–111. doi:10.1023/A:1004745516972
-* Aristotle, \[GA] _De Generatione Animalium_. Translated as _Generation of Animals_, Greek and English, A. L. Peck (trans.), (Loeb Classical Library 366), Cambridge, MA: Harvard University Press, 1979.
-* Baedke, Jan, 2013, “The Epigenetic Landscape in the Course of Time: Conrad Hal Waddington’s Methodological Impact on the Life Sciences”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 44(4): 756–773. doi:10.1016/j.shpsc.2013.06.001
-* –––, 2018, _Above the Gene, beyond Biology: Toward a Philosophy of Epigenetics_, Pittsburgh, PA: University of Pittsburgh Press.
-* Bard, Jonathan, 2011, “A Systems Biology Representation of Developmental Anatomy”, _Journal of Anatomy_, 218(6): 591–599. doi:10.1111/j.1469-7580.2011.01371.x
-* –––, 2013, “Driving Developmental and Evolutionary Change: A Systems Biology View”, _Progress in Biophysics and Molecular Biology_, 111(2–3): 83–91. doi:10.1016/j.pbiomolbio.2012.09.006
+* Agutter, Paul S., P. Colm Malone, and Denys N. Wheatley, 2000, “Diffusion Theory in Biology: A Relic of Mechanistic Materialism”, *Journal of the History of Biology*, 33(1): 71–111. doi:10.1023/A:1004745516972
+* Aristotle, \[GA] *De Generatione Animalium*. Translated as *Generation of Animals*, Greek and English, A. L. Peck (trans.), (Loeb Classical Library 366), Cambridge, MA: Harvard University Press, 1979.
+* Baedke, Jan, 2013, “The Epigenetic Landscape in the Course of Time: Conrad Hal Waddington’s Methodological Impact on the Life Sciences”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 44(4): 756–773. doi:10.1016/j.shpsc.2013.06.001
+* –––, 2018, *Above the Gene, beyond Biology: Toward a Philosophy of Epigenetics*, Pittsburgh, PA: University of Pittsburgh Press.
+* Bard, Jonathan, 2011, “A Systems Biology Representation of Developmental Anatomy”, *Journal of Anatomy*, 218(6): 591–599. doi:10.1111/j.1469-7580.2011.01371.x
+* –––, 2013, “Driving Developmental and Evolutionary Change: A Systems Biology View”, *Progress in Biophysics and Molecular Biology*, 111(2–3): 83–91. doi:10.1016/j.pbiomolbio.2012.09.006
 * Berestycki, Henri, 2013, “Alan Turing and Reaction-Diffusion Equations”, in S. B. Cooper and van Leeuwen 2013: 723–732.
-* von Bertalanffy, Ludwig von, 1928 \[1933], _Kritische Theorie der Formenbildung_, Berlin: Gebruder Borntraeger. Translated as _Modern Theories of Development: An Introduction to Theoretical Biology_, J. H. Woodger (trans.), London: Oxford University Press, 1933.
-* Beurton, Peter J., Raphael Falk, and Hans-Jörg Rheinberger (eds.), 2000, _The Concept of the Gene in Development and Evolution: Historical and Epistemological Perspectives_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527296
-* Bonner, John Tyler, 1974, _On Development: The Biology of Form_, Cambridge, MA: Harvard University Press.
-* Bowler, Peter J., 1971, “Preformation and Pre-Existence in the Seventeenth Century: A Brief Analysis”, _Journal of the History of Biology_, 4(2): 221–244. doi:10.1007/BF00138311
-* –––, 1975, “The Changing Meaning of ‘Evolution’”, _Journal of the History of Ideas_, 36(1): 95–114. doi:10.2307/2709013
-* Brandt, Christina, 2010, “The Metaphor of ‘Nuclear Reprogramming’: 1970’s Cloning Research and Beyond”, in _Hereditary Hourglass. Genetics and Epigenetics, 1868–2000_, Ana Barahona, Edna Suárez Díaz, and Hans-Jörg Rheinberger (eds.), Berlin: Max Planck Institute for History of Science, 85–95.
-* Briggs, Robert and Thomas J. King, 1952, “Transplantation of Living Nuclei from Blastula Cells into Enucleated Frogs’ Eggs”, _Proceedings of the National Academy of Sciences_, 38(5): 455–463. doi:10.1073/pnas.38.5.455
-* Burian, Richard M., 2005, _The Epistemology of Development, Evolution, and Genetics_, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511610271
+* von Bertalanffy, Ludwig von, 1928 \[1933], *Kritische Theorie der Formenbildung*, Berlin: Gebruder Borntraeger. Translated as *Modern Theories of Development: An Introduction to Theoretical Biology*, J. H. Woodger (trans.), London: Oxford University Press, 1933.
+* Beurton, Peter J., Raphael Falk, and Hans-Jörg Rheinberger (eds.), 2000, *The Concept of the Gene in Development and Evolution: Historical and Epistemological Perspectives*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511527296
+* Bonner, John Tyler, 1974, *On Development: The Biology of Form*, Cambridge, MA: Harvard University Press.
+* Bowler, Peter J., 1971, “Preformation and Pre-Existence in the Seventeenth Century: A Brief Analysis”, *Journal of the History of Biology*, 4(2): 221–244. doi:10.1007/BF00138311
+* –––, 1975, “The Changing Meaning of ‘Evolution’”, *Journal of the History of Ideas*, 36(1): 95–114. doi:10.2307/2709013
+* Brandt, Christina, 2010, “The Metaphor of ‘Nuclear Reprogramming’: 1970’s Cloning Research and Beyond”, in *Hereditary Hourglass. Genetics and Epigenetics, 1868–2000*, Ana Barahona, Edna Suárez Díaz, and Hans-Jörg Rheinberger (eds.), Berlin: Max Planck Institute for History of Science, 85–95.
+* Briggs, Robert and Thomas J. King, 1952, “Transplantation of Living Nuclei from Blastula Cells into Enucleated Frogs’ Eggs”, *Proceedings of the National Academy of Sciences*, 38(5): 455–463. doi:10.1073/pnas.38.5.455
+* Burian, Richard M., 2005, *The Epistemology of Development, Evolution, and Genetics*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511610271
 * –––, 2014 “Foreword: A Philosopher’s View”, in Minelli and Pradeu 2014a: xi–xiii.
-* Burian, Richard M. and Denis Thieffry (eds), 2000, _From Embryology to Developmental Biology_, special issue of _History and Philosophy of the Life Sciences_, 22(3).
+* Burian, Richard M. and Denis Thieffry (eds), 2000, *From Embryology to Developmental Biology*, special issue of *History and Philosophy of the Life Sciences*, 22(3).
 * Churchill, Frederick Barton, 1966, “Wilhelm Roux and a Program for Embryology”, Ph.D. dissertation, Cambridge, MA: Harvard University.
-* –––, 1973, “Chabry, Roux, and the experimental method in nineteenth century embryology”, in _Foundations of the Scientific Method: the Nineteenth Century_, Ronald N. Giere and Richard S. Westfall (eds), Bloomington, IN: Indiana University Press, 161–205.
-* –––, 2015, _August Weismann: Development, Heredity, and Evolution_, Cambridge, MA: Harvard University Press.
-* Connell, Sophia M., 2016, _Aristotle on Female Animals: A Study of the “Generation of Animals”_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316479766
-* –––, 2020, “The Female Contribution to Generation and Nutritive Soul in Aristotle’s Embryology”, in _Nutrition and Nutritive Soul in Aristotle and Aristotelianism_, Giouli Korobili and Roberto Lo Presti (eds.), Berlin: De Gruyter, 63–84. doi:10.1515/9783110690552-006
-* Cooper, Melinda, 2003, “Rediscovering the Immortal Hydra : Stem Cells and the Question of Epigenesis”, _Configurations_, 11(1): 1–26. doi:10.1353/con.2004.0010
-* Cooper, S. Barry and Jan van Leeuwen (eds.), 2013, _Alan Turing: His Work and Impact_, Waltham, MA: Elsevier. doi:10.1016/C2010-0-66380-2
-* Crick, Francis, 1970, “Diffusion in Embryogenesis”, _Nature_, 225(5231): 420–422. doi:10.1038/225420a0
-* Darwin, Charles, 1859, _On the Origin of Species_, London: John Murray. \[[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373\&viewtype=text\&pageseq=442)]
-* Davidson, Eric H., 1968, _Gene Activity in Early Development_, first edition, New York: Academic Press. Second edition, 1976; third edition, 1986.
-* –––, 2001, _Genomic Regulatory Systems: Development and Evolution_, San Diego, CA: Academic Press.
-* –––, 2006, _The Regulatory Genome: Gene Regulatory Networks in Development and Evolution_, Burlington, MA ; San Diego: Academic Press.
-* Davidson, Eric H. and Michael S. Levine, 2008, “Properties of Developmental Gene Regulatory Networks”, _Proceedings of the National Academy of Sciences_, 105(51): 20063–20066. doi:10.1073/pnas.0806007105
-* Detlefsen, Karen, 2006, “Explanation and Demonstration in the Haller-Wolff Debate”, in _The Problem of Animal Generation in Early Modern Philosophy_, Justin E. H. Smith (ed.), Cambridge: Cambridge University Press, 235–261. doi:10.1017/CBO9780511498572.012
-* Driesch, Hans, 1892 \[1964], “Entwicklungsmechanische Studien. I. Der Werth der beiden ersten Furchungszellen in der Echinodermentwicklung. Experimentelle Erzeugen von Theil- und Doppelbildung”, _Zeitschrift für wissenschafliche Zoologie_, 53: 160–178. Abridged translation as “The Potency of the First Two Cleavage Cells in Echinoderm Development. Experimental Production of Partial and Double Formations.” L. Mezger, M. Hamburger, V. Hamburger, and T.S. Hall (trans.), in Willier and Oppenheimer 1964: 38–50.
-* Driever, Wolfgang and Christiane Nüsslein-Volhard, 1988, “The _bicoid_ Protein Determines Position in the Drosophila Embryo in a Concentration-Dependent Manner”, _Cell_, 54(1): 95–104. doi:10.1016/0092-8674(88)90183-3
-* Dröscher, Ariane, 2014, “Images of Cell Trees, Cell Lines, and Cell Fates: The Legacy of Ernst Haeckel and August Weismann in Stem Cell Research”, _History and Philosophy of the Life Sciences_, 36(2): 157–186. doi:10.1007/s40656-014-0028-8
-* Fagan, Melinda Bonnie, 2012, “Waddington Redux: Models and Explanation in Stem Cell and Systems Biology”, _Biology & Philosophy_, 27(2): 179–213. doi:10.1007/s10539-011-9294-y
-* –––, 2013a, _Philosophy of Stem Cell Biology: Knowledge in Flesh and Blood_, New York: Palgrave Macmillan. doi:10.1057/9781137296023
-* –––, 2013b, “The Stem Cell Uncertainty Principle”, _Philosophy of Science_, 80(5): 945–957. doi:10.1086/674014
-* –––, 2016, “Stem Cells and Systems Models: Clashing Views of Explanation”, _Synthese_, 193(3): 873–907. doi:10.1007/s11229-015-0776-3
-* –––, 2017, “Stem Cell Lineages: Between Cell and Organism”, _Ontologies of Living Beings_ special issue of _Philosophy, Theory, and Practice in Biology_, 9: article 6. doi:10.3998/ptb.6959004.0009.006
-* Falcon, Andrea and David Lefebvre (eds.), 2017, _Aristotle’s “Generation of Animals”: A Critical Guide_, Cambridge: Cambridge University Press. doi:10.1017/9781316459386
-* Farley, John, 1977, _The Spontaneous Generation Controversy from Descartes to Oparin_, Baltimore, MD: Johns Hopkins University Press.
-* Forgacs, Gabor and Stuart Newman, 2005, _Biological Physics of the Developing Embryo_, Cambridge/New York: Cambridge University Press.
-* Fry, Iris, 2000, _The Emergence of Life on Earth: A Historical and Scientific Overview_, New Brunswick, NJ: Rutgers University Press.
+* –––, 1973, “Chabry, Roux, and the experimental method in nineteenth century embryology”, in *Foundations of the Scientific Method: the Nineteenth Century*, Ronald N. Giere and Richard S. Westfall (eds), Bloomington, IN: Indiana University Press, 161–205.
+* –––, 2015, *August Weismann: Development, Heredity, and Evolution*, Cambridge, MA: Harvard University Press.
+* Connell, Sophia M., 2016, *Aristotle on Female Animals: A Study of the “Generation of Animals”*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781316479766
+* –––, 2020, “The Female Contribution to Generation and Nutritive Soul in Aristotle’s Embryology”, in *Nutrition and Nutritive Soul in Aristotle and Aristotelianism*, Giouli Korobili and Roberto Lo Presti (eds.), Berlin: De Gruyter, 63–84. doi:10.1515/9783110690552-006
+* Cooper, Melinda, 2003, “Rediscovering the Immortal Hydra : Stem Cells and the Question of Epigenesis”, *Configurations*, 11(1): 1–26. doi:10.1353/con.2004.0010
+* Cooper, S. Barry and Jan van Leeuwen (eds.), 2013, *Alan Turing: His Work and Impact*, Waltham, MA: Elsevier. doi:10.1016/C2010-0-66380-2
+* Crick, Francis, 1970, “Diffusion in Embryogenesis”, *Nature*, 225(5231): 420–422. doi:10.1038/225420a0
+* Darwin, Charles, 1859, *On the Origin of Species*, London: John Murray. \[[Darwin 1859 available online](http://darwin-online.org.uk/content/frameset?itemID=F373\&viewtype=text\&pageseq=442)]
+* Davidson, Eric H., 1968, *Gene Activity in Early Development*, first edition, New York: Academic Press. Second edition, 1976; third edition, 1986.
+* –––, 2001, *Genomic Regulatory Systems: Development and Evolution*, San Diego, CA: Academic Press.
+* –––, 2006, *The Regulatory Genome: Gene Regulatory Networks in Development and Evolution*, Burlington, MA ; San Diego: Academic Press.
+* Davidson, Eric H. and Michael S. Levine, 2008, “Properties of Developmental Gene Regulatory Networks”, *Proceedings of the National Academy of Sciences*, 105(51): 20063–20066. doi:10.1073/pnas.0806007105
+* Detlefsen, Karen, 2006, “Explanation and Demonstration in the Haller-Wolff Debate”, in *The Problem of Animal Generation in Early Modern Philosophy*, Justin E. H. Smith (ed.), Cambridge: Cambridge University Press, 235–261. doi:10.1017/CBO9780511498572.012
+* Driesch, Hans, 1892 \[1964], “Entwicklungsmechanische Studien. I. Der Werth der beiden ersten Furchungszellen in der Echinodermentwicklung. Experimentelle Erzeugen von Theil- und Doppelbildung”, *Zeitschrift für wissenschafliche Zoologie*, 53: 160–178. Abridged translation as “The Potency of the First Two Cleavage Cells in Echinoderm Development. Experimental Production of Partial and Double Formations.” L. Mezger, M. Hamburger, V. Hamburger, and T.S. Hall (trans.), in Willier and Oppenheimer 1964: 38–50.
+* Driever, Wolfgang and Christiane Nüsslein-Volhard, 1988, “The *bicoid* Protein Determines Position in the Drosophila Embryo in a Concentration-Dependent Manner”, *Cell*, 54(1): 95–104. doi:10.1016/0092-8674(88)90183-3
+* Dröscher, Ariane, 2014, “Images of Cell Trees, Cell Lines, and Cell Fates: The Legacy of Ernst Haeckel and August Weismann in Stem Cell Research”, *History and Philosophy of the Life Sciences*, 36(2): 157–186. doi:10.1007/s40656-014-0028-8
+* Fagan, Melinda Bonnie, 2012, “Waddington Redux: Models and Explanation in Stem Cell and Systems Biology”, *Biology & Philosophy*, 27(2): 179–213. doi:10.1007/s10539-011-9294-y
+* –––, 2013a, *Philosophy of Stem Cell Biology: Knowledge in Flesh and Blood*, New York: Palgrave Macmillan. doi:10.1057/9781137296023
+* –––, 2013b, “The Stem Cell Uncertainty Principle”, *Philosophy of Science*, 80(5): 945–957. doi:10.1086/674014
+* –––, 2016, “Stem Cells and Systems Models: Clashing Views of Explanation”, *Synthese*, 193(3): 873–907. doi:10.1007/s11229-015-0776-3
+* –––, 2017, “Stem Cell Lineages: Between Cell and Organism”, *Ontologies of Living Beings* special issue of *Philosophy, Theory, and Practice in Biology*, 9: article 6. doi:10.3998/ptb.6959004.0009.006
+* Falcon, Andrea and David Lefebvre (eds.), 2017, *Aristotle’s “Generation of Animals”: A Critical Guide*, Cambridge: Cambridge University Press. doi:10.1017/9781316459386
+* Farley, John, 1977, *The Spontaneous Generation Controversy from Descartes to Oparin*, Baltimore, MD: Johns Hopkins University Press.
+* Forgacs, Gabor and Stuart Newman, 2005, *Biological Physics of the Developing Embryo*, Cambridge/New York: Cambridge University Press.
+* Fry, Iris, 2000, *The Emergence of Life on Earth: A Historical and Scientific Overview*, New Brunswick, NJ: Rutgers University Press.
 * Fusco, Giuseppe, Roberto Carrer, and Emanuele Serrelli, 2014, “The Landscape Metaphor in Development”, in Minelli and Pradeu 2014a: 114–128 (chap. 7).
-* Gearhart, John, 1998, “New Potential for Human Embryonic Stem Cells”, _Science_, 282(5391): 1061–1062. doi:10.1126/science.282.5391.1061
-* Gilbert, Scott F., 1991, “Epigenetic Landscaping: Waddington’s Use of Cell Fate Bifurcation Diagrams”, _Biology & Philosophy_, 6(2): 135–154. doi:10.1007/BF02426835
-* –––, 2004, “Foreword”, in _Crystals, Fabrics, and Fields: Metaphors that Shape Embryos_, by Donna Jeanne Haraway, Berkeley, CA: North Atlantic Books, pages xi–xv.
-* Gilbert, Scott F., John M. Opitz, and Rudolf A. Raff, 1996, “Resynthesizing Evolutionary and Developmental Biology”, _Developmental Biology_, 173(2): 357–372. doi:10.1006/dbio.1996.0032
-* Goodwin, Brian C., 1965, “Oscillatory Behavior in Enzymatic Control Processes”, _Advances in Enzyme Regulation_, 3: 425–437. doi:10.1016/0065-2571(65)90067-1
-* Goodwin, Brian C. and Lynn E. H. Trainor, 1985, “Tip and Whorl Morphogenesis in ‘Acetabularia’ by Calcium-Regulated Strain Fields”, _Journal of Theoretical Biology_, 117(1): 79–106. doi:10.1016/S0022-5193(85)80165-X
-* Griesemer, James R., 2000a, “Development, Culture, and the Units of Inheritance”, _Philosophy of Science_, 67(S3): S348–S368. doi:10.1086/392831
+* Gearhart, John, 1998, “New Potential for Human Embryonic Stem Cells”, *Science*, 282(5391): 1061–1062. doi:10.1126/science.282.5391.1061
+* Gilbert, Scott F., 1991, “Epigenetic Landscaping: Waddington’s Use of Cell Fate Bifurcation Diagrams”, *Biology & Philosophy*, 6(2): 135–154. doi:10.1007/BF02426835
+* –––, 2004, “Foreword”, in *Crystals, Fabrics, and Fields: Metaphors that Shape Embryos*, by Donna Jeanne Haraway, Berkeley, CA: North Atlantic Books, pages xi–xv.
+* Gilbert, Scott F., John M. Opitz, and Rudolf A. Raff, 1996, “Resynthesizing Evolutionary and Developmental Biology”, *Developmental Biology*, 173(2): 357–372. doi:10.1006/dbio.1996.0032
+* Goodwin, Brian C., 1965, “Oscillatory Behavior in Enzymatic Control Processes”, *Advances in Enzyme Regulation*, 3: 425–437. doi:10.1016/0065-2571(65)90067-1
+* Goodwin, Brian C. and Lynn E. H. Trainor, 1985, “Tip and Whorl Morphogenesis in ‘Acetabularia’ by Calcium-Regulated Strain Fields”, *Journal of Theoretical Biology*, 117(1): 79–106. doi:10.1016/S0022-5193(85)80165-X
+* Griesemer, James R., 2000a, “Development, Culture, and the Units of Inheritance”, *Philosophy of Science*, 67(S3): S348–S368. doi:10.1086/392831
 * –––, 2000b, “Reproduction and the Reduction of Genetics”, in Beurton, Falk, and Rheinberger 2000: 240–285. doi:10.1017/CBO9780511527296.013
-* –––, 2014a, “Reproduction and the Scaffolded Development of Hybrids”, in _Developing Scaffolds in Evolution, Culture, and Cognition_, Linnda R. Caporael, James R. Griesemer, and William C. Wimsatt (eds.), Cambridge, MA: The MIT Press, 23–56. doi:10.7551/mitpress/9780262019552.003.0002
+* –––, 2014a, “Reproduction and the Scaffolded Development of Hybrids”, in *Developing Scaffolds in Evolution, Culture, and Cognition*, Linnda R. Caporael, James R. Griesemer, and William C. Wimsatt (eds.), Cambridge, MA: The MIT Press, 23–56. doi:10.7551/mitpress/9780262019552.003.0002
 * –––, 2014b, “Reproduction and Scaffolded Developmental Processes: An Integrated Evolutionary Perspective” in Minelli and Pradeu 2014a: 183–202 (chap. 12).
-* Griffiths, Paul E. and Robin D. Knight, 1998, “What Is the Developmentalist Challenge?”, _Philosophy of Science_, 65(2): 253–258. doi:10.1086/392636
-* Gurdon, J. B. and Alan Colman, 1999, “The Future of Cloning”, _Nature_, 402(6763): 743–746. doi:10.1038/45429
-* Haeckel, Ernst, 1866, _Generelle Morphologie der Organismen : allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von Charles Darwin reformirte Descendenz-Theorie_, Berlin: G. Reimer.
-* Haraway, Donna Jeanne, 1976 \[2004], _Crystals, Fabrics, and Fields: Metaphors of Organicism in Twentieth-Century Developmental Biology_, New Haven, CT: Yale University Press. Reprinted Berkeley, CA: North Atlantic Books, 2004.
-* Harrison, Ross G., 1969, _Organization and Development of the Embryo_, Sally Wilens (ed.), (Yale University. Mrs. Hepsa Ely Silliman Memorial Lectures), New Haven, CT: Yale University Press.
+* Griffiths, Paul E. and Robin D. Knight, 1998, “What Is the Developmentalist Challenge?”, *Philosophy of Science*, 65(2): 253–258. doi:10.1086/392636
+* Gurdon, J. B. and Alan Colman, 1999, “The Future of Cloning”, *Nature*, 402(6763): 743–746. doi:10.1038/45429
+* Haeckel, Ernst, 1866, *Generelle Morphologie der Organismen : allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von Charles Darwin reformirte Descendenz-Theorie*, Berlin: G. Reimer.
+* Haraway, Donna Jeanne, 1976 \[2004], *Crystals, Fabrics, and Fields: Metaphors of Organicism in Twentieth-Century Developmental Biology*, New Haven, CT: Yale University Press. Reprinted Berkeley, CA: North Atlantic Books, 2004.
+* Harrison, Ross G., 1969, *Organization and Development of the Embryo*, Sally Wilens (ed.), (Yale University. Mrs. Hepsa Ely Silliman Memorial Lectures), New Haven, CT: Yale University Press.
 * Henry, Devin, 2017, “Aristotle on Epigenesis: Two Senses of Epigenesis”, in Falcon and Lefebvre 2017: 89–107. doi:10.1017/9781316459386.007
-* Hertwig, Oscar, 1894 \[1900], _Zeit- und Streitfragen der Biologie_, 2 vols., Jena: Gustav Fischer. Translated as _The Biological Problem of Today: Preformation or Epigenesis? The Basis of a Theory of Organic Development, by Professor Dr. Oscar Hertwig_, P. Chalmers Mitchell (trans.), New York: The Macmillan Company, 1900. doi:10.5962/bhl.title.1492
-* Hopwood, Nick, Rebecca Flemming, and Lauren Kassell (eds.), 2018, _Reproduction: Antiquity to the Present Day_, Cambridge: Cambridge University Press.
-* Jacob, François, 1970 \[1973], _La logique du vivant: une histoire de l’hérédité_, (Bibliothèque des sciences humaines), Paris: Gallimard. Translated as _The Logic of Life: A History of Heredity_, Betty E. Spillmann (trans.), New York: Pantheon Books, 1973.
-* Jacob, François and Jacques Monod, 1961a, “On the Regulation of Gene Activity”, _Cold Spring Harbor Symposia on Quantitative Biology_, 26: 193–211. doi:10.1101/SQB.1961.026.01.024
-* –––, 1961b, “Genetic Regulatory Mechanisms in the Synthesis of Proteins”, _Journal of Molecular Biology_, 3(3): 318–356. doi:10.1016/S0022-2836(61)80072-7
-* Jaeger, Johannes, David Irons, and Nick Monk, 2008, “Regulative Feedback in Pattern Formation: Towards a General Relativistic Theory of Positional Information”, _Development_, 135(19): 3175–3183. doi:10.1242/dev.018697
+* Hertwig, Oscar, 1894 \[1900], *Zeit- und Streitfragen der Biologie*, 2 vols., Jena: Gustav Fischer. Translated as *The Biological Problem of Today: Preformation or Epigenesis? The Basis of a Theory of Organic Development, by Professor Dr. Oscar Hertwig*, P. Chalmers Mitchell (trans.), New York: The Macmillan Company, 1900. doi:10.5962/bhl.title.1492
+* Hopwood, Nick, Rebecca Flemming, and Lauren Kassell (eds.), 2018, *Reproduction: Antiquity to the Present Day*, Cambridge: Cambridge University Press.
+* Jacob, François, 1970 \[1973], *La logique du vivant: une histoire de l’hérédité*, (Bibliothèque des sciences humaines), Paris: Gallimard. Translated as *The Logic of Life: A History of Heredity*, Betty E. Spillmann (trans.), New York: Pantheon Books, 1973.
+* Jacob, François and Jacques Monod, 1961a, “On the Regulation of Gene Activity”, *Cold Spring Harbor Symposia on Quantitative Biology*, 26: 193–211. doi:10.1101/SQB.1961.026.01.024
+* –––, 1961b, “Genetic Regulatory Mechanisms in the Synthesis of Proteins”, *Journal of Molecular Biology*, 3(3): 318–356. doi:10.1016/S0022-2836(61)80072-7
+* Jaeger, Johannes, David Irons, and Nick Monk, 2008, “Regulative Feedback in Pattern Formation: Towards a General Relativistic Theory of Positional Information”, *Development*, 135(19): 3175–3183. doi:10.1242/dev.018697
 * Jaeger, Johannes and James Sharpe, 2014, “On the Concept of Mechanism in Development”, in Minelli and Pradeu 2014a: 56–78 (chap. 4).
-* Judson, Horace Freeland, 1979, _The Eighth Day of Creation: Makers of the Revolution in Biology_, New York: Simon and Schuster.
-* Keller, Evelyn Fox, 1983, “The Force of the Pacemaker Concept in Theories of Aggregation in Cellular Slime Mold”, _Perspectives in Biology and Medicine_, 26(4): 515–521. doi:10.1353/pbm.1983.0049
-* –––, 2002, _Making Sense of Life: Explaining Biological Development with Models, Metaphors, and Machines_, Cambridge, MA: Harvard University Press.
-* Kondo, Shigeru and Takashi Miura, 2010, “Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation”, _Science_, 329(5999): 1616–1620. doi:10.1126/science.1179047
-* Laubichler, Manfred D. and Günter P. Wagner, 2001, “How Molecular Is Molecular Developmental Biology? A Reply to Alex Rosenberg’s ‘Reductionism Redux: Computing the Embryo’”, _Biology & Philosophy_, 16(1): 53–68. doi:10.1023/A:1006750126784
-* Lennox, James G. (ed.), 2001, _Aristotle: On the Parts of Animals I–IV_, Oxford: Clarendon Press.
-* Lenoir, Timothy, 1982, _The Strategy of Life: Teleology and Mechanics in Nineteenth Century German Biology_, Dordrecht, Holland: D. Reidel Publishing Company. doi:10.1007/978-94-009-6951-3
-* Lillie, Frank R., 1927, “The Gene and the Ontogenetic Process”, _Science_, 66(1712): 361–368. doi:10.1126/science.66.1712.361
-* Maienschein, Jane, 1991a, “T.H. Morgan’s Regeneration, Epigenesis, and (W)Holism”, in _A History of Regeneration Research: Milestones in the Evolution of a Science_, Charles E. Dinsmore (ed.), Cambridge/New York: Cambridge University Press, 133–149.
-* –––, 1991b, “The Origins of Entwicklungsmechanik,” in Scott Gilbert, editor, _A Conceptual History of Modern Developmental Biology_, New York: Plenum Press, 43–61.
-* –––, 2000, “Competing Epistemologies and Developmental Biology”, in _Biology and Epistemology_, Richard Creath and Jane Maienschein (eds.), Cambridge/New York: Cambridge University Press, 122–137.
-* –––, 2003, _Whose View of Life? Embryos, Cloning, and Stem Cells_, Cambridge, MA: Harvard University Press.
-* Maienschein, Jane and Kate MacCord, 2022, _What is Regeneration?_, Chicago: University of Chicago Press.
-* McLaren, Anne, 2000, “Cloning: Pathways to a Pluripotent Future”, _Science_, 288(5472): 1775–1780. doi:10.1126/science.288.5472.1775
-* Meinhardt, Hans, 1982, _Models of Biological Pattern Formation_, London/New York: Academic Press.
-* Minelli, Alessandro, 2009, _Perspectives in Animal Phylogeny and Evolution_, (Oxford Biology), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198566205.001.0001
+* Judson, Horace Freeland, 1979, *The Eighth Day of Creation: Makers of the Revolution in Biology*, New York: Simon and Schuster.
+* Keller, Evelyn Fox, 1983, “The Force of the Pacemaker Concept in Theories of Aggregation in Cellular Slime Mold”, *Perspectives in Biology and Medicine*, 26(4): 515–521. doi:10.1353/pbm.1983.0049
+* –––, 2002, *Making Sense of Life: Explaining Biological Development with Models, Metaphors, and Machines*, Cambridge, MA: Harvard University Press.
+* Kondo, Shigeru and Takashi Miura, 2010, “Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation”, *Science*, 329(5999): 1616–1620. doi:10.1126/science.1179047
+* Laubichler, Manfred D. and Günter P. Wagner, 2001, “How Molecular Is Molecular Developmental Biology? A Reply to Alex Rosenberg’s ‘Reductionism Redux: Computing the Embryo’”, *Biology & Philosophy*, 16(1): 53–68. doi:10.1023/A:1006750126784
+* Lennox, James G. (ed.), 2001, *Aristotle: On the Parts of Animals I–IV*, Oxford: Clarendon Press.
+* Lenoir, Timothy, 1982, *The Strategy of Life: Teleology and Mechanics in Nineteenth Century German Biology*, Dordrecht, Holland: D. Reidel Publishing Company. doi:10.1007/978-94-009-6951-3
+* Lillie, Frank R., 1927, “The Gene and the Ontogenetic Process”, *Science*, 66(1712): 361–368. doi:10.1126/science.66.1712.361
+* Maienschein, Jane, 1991a, “T.H. Morgan’s Regeneration, Epigenesis, and (W)Holism”, in *A History of Regeneration Research: Milestones in the Evolution of a Science*, Charles E. Dinsmore (ed.), Cambridge/New York: Cambridge University Press, 133–149.
+* –––, 1991b, “The Origins of Entwicklungsmechanik,” in Scott Gilbert, editor, *A Conceptual History of Modern Developmental Biology*, New York: Plenum Press, 43–61.
+* –––, 2000, “Competing Epistemologies and Developmental Biology”, in *Biology and Epistemology*, Richard Creath and Jane Maienschein (eds.), Cambridge/New York: Cambridge University Press, 122–137.
+* –––, 2003, *Whose View of Life? Embryos, Cloning, and Stem Cells*, Cambridge, MA: Harvard University Press.
+* Maienschein, Jane and Kate MacCord, 2022, *What is Regeneration?*, Chicago: University of Chicago Press.
+* McLaren, Anne, 2000, “Cloning: Pathways to a Pluripotent Future”, *Science*, 288(5472): 1775–1780. doi:10.1126/science.288.5472.1775
+* Meinhardt, Hans, 1982, *Models of Biological Pattern Formation*, London/New York: Academic Press.
+* Minelli, Alessandro, 2009, *Perspectives in Animal Phylogeny and Evolution*, (Oxford Biology), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780198566205.001.0001
 * –––, 2014, “Developmental Disparity”, in Minelli and Pradeu 2014a: 227–245 (chap. 15).
-* Minelli, Alessandro and Thomas Pradeu (eds.), 2014a, _Towards a Theory of Development_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199671427.001.0001
+* Minelli, Alessandro and Thomas Pradeu (eds.), 2014a, *Towards a Theory of Development*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199671427.001.0001
 * –––, 2014b, “Theories of Development in Biology—Problems and Perspectives”, in Minelli and Pradeu 2014a: 1–14. doi:10.1093/acprof:oso/9780199671427.003.0001
-* Monod, Jacques, 1970 \[1971], _Le hasard et la nécessité: essai sur la philosophie naturelle de la biologie moderne_, Paris: Éditions du Seuil. Translated as _Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology_, Austryn Wainhouse (trans.), New York: Knopf.
+* Monod, Jacques, 1970 \[1971], *Le hasard et la nécessité: essai sur la philosophie naturelle de la biologie moderne*, Paris: Éditions du Seuil. Translated as *Chance and Necessity: An Essay on the Natural Philosophy of Modern Biology*, Austryn Wainhouse (trans.), New York: Knopf.
 * Morange, Michel, 2000, “The Developmental Gene Concept: History and Limits”, in Beurton, Falk, and Rheinberger 2000: 193–216. doi:10.1017/CBO9780511527296.011
-* Morgan, Thomas Hunt, 1901, “Regeneration in the Egg, Embryo, and Adult”, _The American Naturalist_, 35(420): 949–973. doi:10.1086/278049
+* Morgan, Thomas Hunt, 1901, “Regeneration in the Egg, Embryo, and Adult”, *The American Naturalist*, 35(420): 949–973. doi:10.1086/278049
 * –––, 1908, letter to his friend Ross Harrison in 1908 that embryology was his field, Harrison Papers, Yale University Archives.
-* –––, 1910a, “Chromosomes and Heredity”, _The American Naturalist_, 44(524): 449–496.
-* –––, 1910b, “Sex Limited Inheritance in _Drosophila_”, _Science_, 32(812): 120–122. doi:10.1126/science.32.812.120
-* –––, 1934, _Embryology and Genetics_, New York: Columbia University Press.
-* Müller, Gerd B. and Stuart A. Newman (eds.), 2003, _Origination of Organismal Form: Beyond the Gene in Developmental and Evolutionary Biology_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/5182.001.0001
-* Murray, James D., 1989, _Mathematical Biology_, Berlin: Springer Verlag.
-* Needham, Joseph, 1936, _Order and Life_, (Terry Lectures), New Haven, CT: Yale University Press.
-* –––, 1951, “Biochemical Aspects of Form and Growth”, in _Aspects of Form_, L.L. Whyte (ed.), New York: Pellegrini and Cudahy, 77–-90.
+* –––, 1910a, “Chromosomes and Heredity”, *The American Naturalist*, 44(524): 449–496.
+* –––, 1910b, “Sex Limited Inheritance in *Drosophila*”, *Science*, 32(812): 120–122. doi:10.1126/science.32.812.120
+* –––, 1934, *Embryology and Genetics*, New York: Columbia University Press.
+* Müller, Gerd B. and Stuart A. Newman (eds.), 2003, *Origination of Organismal Form: Beyond the Gene in Developmental and Evolutionary Biology*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/5182.001.0001
+* Murray, James D., 1989, *Mathematical Biology*, Berlin: Springer Verlag.
+* Needham, Joseph, 1936, *Order and Life*, (Terry Lectures), New Haven, CT: Yale University Press.
+* –––, 1951, “Biochemical Aspects of Form and Growth”, in *Aspects of Form*, L.L. Whyte (ed.), New York: Pellegrini and Cudahy, 77–-90.
 * Newman, Stuart A., 2003, “From Physics to Development: The Evolution of Morphogenetic Mechanisms”, in Müller and Newman 2003: 221–239 (chap. 13). doi:10.7551/mitpress/5182.003.0019
 * –––, 2014, “Physico-Genetics of Morphogenesis: The Hybrid Nature of Developmental Mechanisms”, in Minelli and Pradeu 2014a: 95–113 (chap. 6).
-* Nicoglou, Antonine, 2018, “Waddington’s Epigenetics or the Pictorial Meetings of Development and Genetics”, _History and Philosophy of the Life Sciences_, 40(4): article 61. doi:10.1007/s40656-018-0228-8
-* Nicoglou, Antonine and Francesca Merlin, 2017, “Epigenetics: A Way to Bridge the Gap between Biological Fields”, _Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences_, 66: 73–82. doi:10.1016/j.shpsc.2017.10.002
-* Nicoglou, Antonine and Charles T. Wolfe, 2018, “Introduction: Sketches of a Conceptual History of Epigenesis”, _History and Philosophy of the Life Sciences_, 40(4): art. 64. doi:10.1007/s40656-018-0230-1
-* Olby, Robert Cecil, 1974, _The Path to the Double Helix: The Discovery of DNA_, Seattle, WA: University of Washington Press.
-* Oppenheimer, Jane M., 1967, _Essays in the History of Embryology and Biology_, Cambridge, MA: MIT Press.
-* Oyama, Susan, 1985 \[2000a], _The Ontogeny of Information: Developmental Systems and Evolution_, Cambridge/New York: Cambridge University Press. Second revised and expanded edition, Durham, NC: Duke University Press, 2000.
-* –––, 2000b, _Evolution’s Eye: A Systems View of the Biology-Culture Divide_, (Science and Cultural Theory), Durham, NC: Duke University Press.
-* Oyama, Susan, Paul E. Griffiths, and Russell D. Gray, 2001, “Introduction: What Is Developmental Systems Theory?”, in _Cycles of Contingency: Developmental Systems and Evolution_, Susan Oyama, Paul E. Griffiths, and Russell D. Gray (eds.), (Life and Mind), Cambridge, MA: MIT Press, 1–11.
-* Pinto-Correia, Clara, 1997, _The Ovary of Eve: Egg and Sperm and Preformation_, Chicago: University of Chicago Press.
-* Pradeu, Thomas, Lucie Laplane, Michel Morange, Antonine Nicoglou, and Michel Vervoort, 2011, “The Boundaries of Development”, _Biological Theory_, 6(1): 1–3. doi:10.1007/s13752-011-0001-7
-* Robert, Jason Scott, 2004, _Embryology, Epigenesis, and Evolution: Taking Development Seriously_, (Cambridge Studies in Philosophy and Biology), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511498541
-* Roe, Shirley A., 1981, _Matter, Life, and Generation: Eighteenth-Century Embryology and the Haller-Wolff Debate_, Cambridge/New York: Cambridge University Press.
-* Rosenberg, Alex, 1997, “Reductionism Redux: Computing the Embryo”, _Biology & Philosophy_, 12(4): 445–470. doi:10.1023/A:1006574719901
-* Roux, Wilhelm, 1888, “Beiträge zur Entwickelungsmechanik des Embryo. Über die künstliche Hervorbringung halber Embryonen durch Zerstörung einer der beiden ersten Furchungskugeln, sowie über die Nachentwickelung (Postgeneration) der fehlenden Körperhälfte”, _Virchows Archiv_, 114: 113–153. Translated by Hans Laufer as “Contributions to the Developmental Mechanics of the Embryo. On the Artificial Production of Half-Embryos by Destruction of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body,” in Willier and Oppenheimer 1964: 2–37.
-* Salazar-Ciudad, I., S. A. Newman, and R. V. Solé, 2001, “Phenotypic and Dynamical Transitions in Model Genetic Networks I. Emergence of Patterns and Genotype-Phenotype Relationships”, _Evolution and Development_, 3(2): 84–94. doi:10.1046/j.1525-142x.2001.003002084.x
+* Nicoglou, Antonine, 2018, “Waddington’s Epigenetics or the Pictorial Meetings of Development and Genetics”, *History and Philosophy of the Life Sciences*, 40(4): article 61. doi:10.1007/s40656-018-0228-8
+* Nicoglou, Antonine and Francesca Merlin, 2017, “Epigenetics: A Way to Bridge the Gap between Biological Fields”, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, 66: 73–82. doi:10.1016/j.shpsc.2017.10.002
+* Nicoglou, Antonine and Charles T. Wolfe, 2018, “Introduction: Sketches of a Conceptual History of Epigenesis”, *History and Philosophy of the Life Sciences*, 40(4): art. 64. doi:10.1007/s40656-018-0230-1
+* Olby, Robert Cecil, 1974, *The Path to the Double Helix: The Discovery of DNA*, Seattle, WA: University of Washington Press.
+* Oppenheimer, Jane M., 1967, *Essays in the History of Embryology and Biology*, Cambridge, MA: MIT Press.
+* Oyama, Susan, 1985 \[2000a], *The Ontogeny of Information: Developmental Systems and Evolution*, Cambridge/New York: Cambridge University Press. Second revised and expanded edition, Durham, NC: Duke University Press, 2000.
+* –––, 2000b, *Evolution’s Eye: A Systems View of the Biology-Culture Divide*, (Science and Cultural Theory), Durham, NC: Duke University Press.
+* Oyama, Susan, Paul E. Griffiths, and Russell D. Gray, 2001, “Introduction: What Is Developmental Systems Theory?”, in *Cycles of Contingency: Developmental Systems and Evolution*, Susan Oyama, Paul E. Griffiths, and Russell D. Gray (eds.), (Life and Mind), Cambridge, MA: MIT Press, 1–11.
+* Pinto-Correia, Clara, 1997, *The Ovary of Eve: Egg and Sperm and Preformation*, Chicago: University of Chicago Press.
+* Pradeu, Thomas, Lucie Laplane, Michel Morange, Antonine Nicoglou, and Michel Vervoort, 2011, “The Boundaries of Development”, *Biological Theory*, 6(1): 1–3. doi:10.1007/s13752-011-0001-7
+* Robert, Jason Scott, 2004, *Embryology, Epigenesis, and Evolution: Taking Development Seriously*, (Cambridge Studies in Philosophy and Biology), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511498541
+* Roe, Shirley A., 1981, *Matter, Life, and Generation: Eighteenth-Century Embryology and the Haller-Wolff Debate*, Cambridge/New York: Cambridge University Press.
+* Rosenberg, Alex, 1997, “Reductionism Redux: Computing the Embryo”, *Biology & Philosophy*, 12(4): 445–470. doi:10.1023/A:1006574719901
+* Roux, Wilhelm, 1888, “Beiträge zur Entwickelungsmechanik des Embryo. Über die künstliche Hervorbringung halber Embryonen durch Zerstörung einer der beiden ersten Furchungskugeln, sowie über die Nachentwickelung (Postgeneration) der fehlenden Körperhälfte”, *Virchows Archiv*, 114: 113–153. Translated by Hans Laufer as “Contributions to the Developmental Mechanics of the Embryo. On the Artificial Production of Half-Embryos by Destruction of One of the First Two Blastomeres, and the Later Development (Postgeneration) of the Missing Half of the Body,” in Willier and Oppenheimer 1964: 2–37.
+* Salazar-Ciudad, I., S. A. Newman, and R. V. Solé, 2001, “Phenotypic and Dynamical Transitions in Model Genetic Networks I. Emergence of Patterns and Genotype-Phenotype Relationships”, *Evolution and Development*, 3(2): 84–94. doi:10.1046/j.1525-142x.2001.003002084.x
 * Saunders, Paul, 2013, “Introduction: Alan Turing’s Work in Biology”, in S. B. Cooper and van Leeuwen 2013: 683–684.
-* Schrödinger, Erwin, 1944, _What Is Life? The Physical Aspect of the Living Cell_, Cambridge: Cambridge University Press.
-* Shamblott, Michael J., Joyce Axelman, Shunping Wang, Elizabeth M. Bugg, John W. Littlefield, Peter J. Donovan, Paul D. Blumenthal, George R. Huggins, and John D. Gearhart, 1998, “Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells”, _Proceedings of the National Academy of Sciences_, 95(23): 13726–13731. doi:10.1073/pnas.95.23.13726
-* Spemann, Hans, 1936 \[1938], _Experimentelle Beiträge zu einer Theorie der Entwicklung_, Berlin: Verlag von Julius Springer. Given as the 1933 Silliman Memorial Lectures at Yale. Translated as _Embryonic Development and Induction_, New Haven, CT: Yale University Press, 1938.
+* Schrödinger, Erwin, 1944, *What Is Life? The Physical Aspect of the Living Cell*, Cambridge: Cambridge University Press.
+* Shamblott, Michael J., Joyce Axelman, Shunping Wang, Elizabeth M. Bugg, John W. Littlefield, Peter J. Donovan, Paul D. Blumenthal, George R. Huggins, and John D. Gearhart, 1998, “Derivation of Pluripotent Stem Cells from Cultured Human Primordial Germ Cells”, *Proceedings of the National Academy of Sciences*, 95(23): 13726–13731. doi:10.1073/pnas.95.23.13726
+* Spemann, Hans, 1936 \[1938], *Experimentelle Beiträge zu einer Theorie der Entwicklung*, Berlin: Verlag von Julius Springer. Given as the 1933 Silliman Memorial Lectures at Yale. Translated as *Embryonic Development and Induction*, New Haven, CT: Yale University Press, 1938.
 * Takahashi, Kazutoshi, and Shinya Yamanaka, 2006, “Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors.” Cell 126: 663–76. doi: 10.1016/j.cell.2006.07.024
-* Thompson, D’Arcy Wentworth, 1917, _On Growth and Form_, Cambridge: Cambridge University Press.
-* Thomson, James A., Joseph Itskovitz-Eldor, Sander S. Shapiro, Michelle A. Waknitz, Jennifer J. Swiergiel, Vivienne S. Marshall, and Jeffrey M. Jones, 1998, “Embryonic Stem Cell Lines Derived from Human Blastocysts”, _Science_, 282(5391): 1145–1147. doi:10.1126/science.282.5391.1145
-* Turing, Alan Mathison, 1952, “The Chemical Basis of Morphogenesis”, _Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences_, 237(641): 37–72. doi:10.1098/rstb.1952.0012
-* Van Speybroeck, Linda, Dani De Waele, and Gertrudis Van de Vijver, 2002, “Theories in Early Embryology: Close Connections between Epigenesis, Preformationism, and Self-Organization”, _Annals of the New York Academy of Sciences_, 981: 7–49.
-* Waddington, Conrad H., 1939, _An Introduction to Modern Genetics_, New York: The Macmillian Company.
-* –––, 1940, _Organisers and Genes_, Cambridge: Cambridge University Press.
-* –––, 1942, “The Epigenotype”, _Endeavour_, 1: 18–20.
-* –––, 1956, _Principles of Embryology_, New York: Macmillan.
-* –––, 1957, _The Strategy of the Genes: A Discussion of Some Aspects of Theoretical Biology_, New York: Macmillan.
-* ––– (ed.), 1968, _Towards a Theoretical Biology: An IUBS Symposium_, Chicago: Aldine Publishing.
-* Wang, Jin, Li Xu, Erkang Wang, and Sui Huang, 2010, “The Potential Landscape of Genetic Circuits Imposes the Arrow of Time in Stem Cell Differentiation”, _Biophysical Journal_, 99(1): 29–39. doi:10.1016/j.bpj.2010.03.058
-* Weber, Marcel, 2022, _Philosophy of Developmental Biology_ (Elements in the Philosophy of Biology), Cambridge: Cambridge University Press. doi:10.1017/9781108954181
-* Weismann, August, 1892 \[1893], _Das Keimplasma: eine theorie der Vererbung_, Jena: G. Fischer. Translated as _The Germ-Plasm: A Theory of Heredity_, W. Newton Parker and Harriet Rönnfeldt (trans.), New York: Scribner’s, 1893.
-* Weiss, Paul A., 1939, _Principles of Development: A Text in Experimental Embryology. Print_, New York: H. Holt and Co.
-* –––, 1968, _Dynamics of Development: Experiments and Inferences: Selected Papers on Developmental Biology_, New York: Academic Press.
-* Wheeler, William Morton, 1899, “Caspar Friedrich Wolff and the Theoria Generationis”, _Biological Lectures from the Marine Biological Laboratory, Wood’s Holl, Mass_, 1898: 265–284. \[[Wheeler 1899 available online](https://hdl.handle.net/1912/22017)]
-* Willier, Benjamin H. and Jane M. Oppenheimer (eds), 1964, _Foundations of Experimental Embryology_, Englewood Cliffs, NJ: Prentice-Hall.
+* Thompson, D’Arcy Wentworth, 1917, *On Growth and Form*, Cambridge: Cambridge University Press.
+* Thomson, James A., Joseph Itskovitz-Eldor, Sander S. Shapiro, Michelle A. Waknitz, Jennifer J. Swiergiel, Vivienne S. Marshall, and Jeffrey M. Jones, 1998, “Embryonic Stem Cell Lines Derived from Human Blastocysts”, *Science*, 282(5391): 1145–1147. doi:10.1126/science.282.5391.1145
+* Turing, Alan Mathison, 1952, “The Chemical Basis of Morphogenesis”, *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 237(641): 37–72. doi:10.1098/rstb.1952.0012
+* Van Speybroeck, Linda, Dani De Waele, and Gertrudis Van de Vijver, 2002, “Theories in Early Embryology: Close Connections between Epigenesis, Preformationism, and Self-Organization”, *Annals of the New York Academy of Sciences*, 981: 7–49.
+* Waddington, Conrad H., 1939, *An Introduction to Modern Genetics*, New York: The Macmillian Company.
+* –––, 1940, *Organisers and Genes*, Cambridge: Cambridge University Press.
+* –––, 1942, “The Epigenotype”, *Endeavour*, 1: 18–20.
+* –––, 1956, *Principles of Embryology*, New York: Macmillan.
+* –––, 1957, *The Strategy of the Genes: A Discussion of Some Aspects of Theoretical Biology*, New York: Macmillan.
+* ––– (ed.), 1968, *Towards a Theoretical Biology: An IUBS Symposium*, Chicago: Aldine Publishing.
+* Wang, Jin, Li Xu, Erkang Wang, and Sui Huang, 2010, “The Potential Landscape of Genetic Circuits Imposes the Arrow of Time in Stem Cell Differentiation”, *Biophysical Journal*, 99(1): 29–39. doi:10.1016/j.bpj.2010.03.058
+* Weber, Marcel, 2022, *Philosophy of Developmental Biology* (Elements in the Philosophy of Biology), Cambridge: Cambridge University Press. doi:10.1017/9781108954181
+* Weismann, August, 1892 \[1893], *Das Keimplasma: eine theorie der Vererbung*, Jena: G. Fischer. Translated as *The Germ-Plasm: A Theory of Heredity*, W. Newton Parker and Harriet Rönnfeldt (trans.), New York: Scribner’s, 1893.
+* Weiss, Paul A., 1939, *Principles of Development: A Text in Experimental Embryology. Print*, New York: H. Holt and Co.
+* –––, 1968, *Dynamics of Development: Experiments and Inferences: Selected Papers on Developmental Biology*, New York: Academic Press.
+* Wheeler, William Morton, 1899, “Caspar Friedrich Wolff and the Theoria Generationis”, *Biological Lectures from the Marine Biological Laboratory, Wood’s Holl, Mass*, 1898: 265–284. \[[Wheeler 1899 available online](https://hdl.handle.net/1912/22017)]
+* Willier, Benjamin H. and Jane M. Oppenheimer (eds), 1964, *Foundations of Experimental Embryology*, Englewood Cliffs, NJ: Prentice-Hall.
 * Wilmut, Ian, Angelica E. Schnieke, Jim McWhir, Alex J. Kind, and Keith H. S. Campbell, 1997, “Viable offspring derived from fetal and adult mammalian cells.” Nature 385: 810–3.
-* Wilmut, Ian, Keith Campbell, and Colin Tudge, 2000, _The Second Creation: The Age of Biological Control by the Scientists Who Cloned Dolly_, London: Headline.
-* Wolfe, Charles T., 2021, “Vitalism and the Metaphysics of Life: The Discreet Charm of Eighteenth-Century Vitalism”, in _Life and Death in Early Modern Philosophy_, Susan James (ed.), Oxford: Oxford University Press, 292–314. doi:10.1093/oso/9780192843616.003.0016
-* Wolpert, Lewis, 1969, “Positional Information and the Spatial Pattern of Cellular Differentiation”, _Journal of Theoretical Biology_, 25(1): 1–47. doi:10.1016/S0022-5193(69)80016-0
-* –––, 1989, “Positional Information Revisited”, _Development_, 107(Supplement): 3–12. doi:10.1242/dev.107.Supplement.3
-* –––, 1994, “Do We Understand Development?”, _Science_, 266(5185): 571–572. doi:10.1126/science.7939707
-* Wolpert, L. and J. H. Lewis, 1975, “Towards a Theory of Development”, _Federation Proceedings_, 34(1): 14–20.
+* Wilmut, Ian, Keith Campbell, and Colin Tudge, 2000, *The Second Creation: The Age of Biological Control by the Scientists Who Cloned Dolly*, London: Headline.
+* Wolfe, Charles T., 2021, “Vitalism and the Metaphysics of Life: The Discreet Charm of Eighteenth-Century Vitalism”, in *Life and Death in Early Modern Philosophy*, Susan James (ed.), Oxford: Oxford University Press, 292–314. doi:10.1093/oso/9780192843616.003.0016
+* Wolpert, Lewis, 1969, “Positional Information and the Spatial Pattern of Cellular Differentiation”, *Journal of Theoretical Biology*, 25(1): 1–47. doi:10.1016/S0022-5193(69)80016-0
+* –––, 1989, “Positional Information Revisited”, *Development*, 107(Supplement): 3–12. doi:10.1242/dev.107.Supplement.3
+* –––, 1994, “Do We Understand Development?”, *Science*, 266(5185): 571–572. doi:10.1126/science.7939707
+* Wolpert, L. and J. H. Lewis, 1975, “Towards a Theory of Development”, *Federation Proceedings*, 34(1): 14–20.
 * Vecchi, Davide and Isaac Hernández, 2014, “The Epistemological Resilience of the Concept of Morphogenetic Field”, in Minelli and Pradeu 2014a: 79–94 (chap. 5).
-* Vinci, Thomas C. and Jason Scott Robert, 2005, “Aristotle and Modern Genetics”, _Journal of the History of Ideas_, 66(2): 201–221. doi:10.1353/jhi.2005.0041
-* Zammito, John H., 2018, _The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling_, Chicago/London: The University of Chicago Press.
+* Vinci, Thomas C. and Jason Scott Robert, 2005, “Aristotle and Modern Genetics”, *Journal of the History of Ideas*, 66(2): 201–221. doi:10.1353/jhi.2005.0041
+* Zammito, John H., 2018, *The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling*, Chicago/London: The University of Chicago Press.
 
 ## Academic Tools
 
@@ -502,5 +501,5 @@ Jane Maienschien 和 Kate MacCord 提供了一个有启发性的观点，即再�
 The authors would like to thank Alan Love and Karin Ekholm for helpful and constructive comments on a earlier draft. This entry includes portions of the former entry on [Epigenesis and Preformationism (Spring 2017)](https://plato.stanford.edu/archives/spr2017/entries/epigenesis/).
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Melinda Bonnie Fagan](https://faculty.utah.edu/u0976724-MELINDA_BONNIE_FAGAN/hm/index.hml) <[_mel.fagan@utah.edu_](mailto:mel%2efagan%40utah%2eedu)>\
+[Melinda Bonnie Fagan](https://faculty.utah.edu/u0976724-MELINDA_BONNIE_FAGAN/hm/index.hml) <[*mel.fagan@utah.edu*](mailto:mel%2efagan%40utah%2eedu)>\
 \[Jane Maienschein

@@ -1,10 +1,10 @@
 # 邱奇-图灵论题 Church-Turing Thesis (B. Jack Copeland)
 
-_首次发表于 1997 年 1 月 8 日；实质性修订于 2023 年 12 月 18 日_
+*首次发表于 1997 年 1 月 8 日；实质性修订于 2023 年 12 月 18 日*
 
 邱奇-图灵论题（或图灵-邱奇论题）是可计算性理论中的一个基本主张。它在 1930 年代中期由邱奇和图灵独立提出。这个论题有各种等价的表述。一个常见的表述是，每个有效计算都可以由图灵机（即图灵的抽象计算机，在其通用形式中包含了存储程序全功能数字计算机的基本逻辑原则）来执行。对邱奇-图灵论题的现代重新构想将其转化，将其扩展到基础物理学、复杂性理论、奇特算法和认知科学。然而，重要的是要意识到，现今被称为邱奇-图灵论题的一些论题充其量只是邱奇和图灵提出的论题的_非常_遥远的亲戚。
 
-_翻译说明_：在本条目中，除非另有说明，德语原著作的翻译由杰克·科普兰、托比亚斯·米尔兹和乔瓦尼·索马鲁加完成，法语原著作的翻译由科普兰和索马鲁加完成。
+*翻译说明*：在本条目中，除非另有说明，德语原著作的翻译由杰克·科普兰、托比亚斯·米尔兹和乔瓦尼·索马鲁加完成，法语原著作的翻译由科普兰和索马鲁加完成。
 
 ***
 
@@ -55,7 +55,7 @@ L.C.M.s \[logical computing machines: 图灵对图灵机的表达] 可以做任�
 
 ### 1.3 以数字形式阐述的图灵论题的表述
 
-在他 1936 年的论文中，他题为“On Computable Numbers, with an Application to the _Entscheidungsproblem_”，图灵写道：
+在他 1936 年的论文中，他题为“On Computable Numbers, with an Application to the *Entscheidungsproblem*”，图灵写道：
 
 尽管本文的主题表面上是可计算数，但定义和研究可计算函数几乎同样容易……我选择了可计算数进行明确处理，因为它涉及的技术最不繁琐。 (1936 \[2004: 58])
 
@@ -63,7 +63,7 @@ L.C.M.s \[logical computing machines: 图灵对图灵机的表达] 可以做任�
 
 * 任何十进制表示由有限位数数字组成的数字（例如，109，1.142）
 
-_所有有理数，比如三分之一，七分之二等。_
+*所有有理数，比如三分之一，七分之二等。*
 
 * 一些无理实数，如 π 和 e。
 
@@ -115,7 +115,7 @@ _所有有理数，比如三分之一，七分之二等。_
 
 因此，邱奇和图灵的论题是等价的。我们通常会将它们称为_邱奇论题_，或者在涉及“图灵机”之一的版本时称为_邱奇-图灵论题_。（Kleene 1967: 232）
 
-一些人更喜欢使用名称 _邱奇-图灵论题_。
+一些人更喜欢使用名称 *邱奇-图灵论题*。
 
 ### 1.6 比较邱奇和图灵方法
 
@@ -154,13 +154,13 @@ _所有有理数，比如三分之一，七分之二等。_
 
 ### 1.7 决策问题
 
-邱奇-图灵论题 邱奇和图灵在攻击所谓的_Entscheidungsproblem_时分别提出了各自版本的邱奇-图灵论题。正如前面提到的，图灵 1936 年的论文标题中包含“with an Application to the _Entscheidungsproblem_”，而邱奇在 1936 年的论文标题中只写了“A Note on the _Entscheidungsproblem_”。那么，_Entscheidungsproblem_是什么？
+邱奇-图灵论题 邱奇和图灵在攻击所谓的_Entscheidungsproblem_时分别提出了各自版本的邱奇-图灵论题。正如前面提到的，图灵 1936 年的论文标题中包含“with an Application to the *Entscheidungsproblem*”，而邱奇在 1936 年的论文标题中只写了“A Note on the *Entscheidungsproblem*”。那么，_Entscheidungsproblem_是什么？
 
-德语单词“_Entscheidungsproblem_”意为_decision problem_。逻辑演算的_Entscheidungsproblem_是设计一种有效方法来决定一个给定公式——任何公式——是否可在该演算中被证明的问题。（这里的“可证明”意味着该公式可以通过演算的公理和定义，仅使用演算的规则，逐步推导出来。）例如，如果用于经典命题演算的这种方法来测试公式 A→A（A 蕴含 A），输出将是“是，可证明”，如果测试矛盾 A&¬A，输出将是“不可证明”。这样的方法被称为_decision method_或_decision procedure_。
+德语单词“*Entscheidungsproblem*”意为_decision problem_。逻辑演算的_Entscheidungsproblem_是设计一种有效方法来决定一个给定公式——任何公式——是否可在该演算中被证明的问题。（这里的“可证明”意味着该公式可以通过演算的公理和定义，仅使用演算的规则，逐步推导出来。）例如，如果用于经典命题演算的这种方法来测试公式 A→A（A 蕴含 A），输出将是“是，可证明”，如果测试矛盾 A&¬A，输出将是“不可证明”。这样的方法被称为_decision method_或_decision procedure_。
 
-邱奇和图灵针对一个名为（一阶）_函数演算_的基本重要逻辑系统提出了_Entscheidungsproblem_。函数演算包括标准命题逻辑和标准量词逻辑。函数演算也被称为_古典谓词演算_和_量化理论_（有时邱奇使用德语术语_engere Funktionenkalkül_）。他们都得出了相同的否定结果，根据邱奇-图灵论题的论据，即在函数演算的情况下，_Entscheidungsproblem_是_无法解决_的——对于演算来说，没有决策方法。两人独立发现了这一结果，分别在 1936 年发表（邱奇比图灵早几个月）。由于邱奇的证明没有涉及计算机，因此有时被认为比图灵的证明更不那么有趣。
+邱奇和图灵针对一个名为（一阶）*函数演算_的基本重要逻辑系统提出了_Entscheidungsproblem*。函数演算包括标准命题逻辑和标准量词逻辑。函数演算也被称为_古典谓词演算_和_量化理论_（有时邱奇使用德语术语_engere Funktionenkalkül_）。他们都得出了相同的否定结果，根据邱奇-图灵论题的论据，即在函数演算的情况下，_Entscheidungsproblem_是_无法解决_的——对于演算来说，没有决策方法。两人独立发现了这一结果，分别在 1936 年发表（邱奇比图灵早几个月）。由于邱奇的证明没有涉及计算机，因此有时被认为比图灵的证明更不那么有趣。
 
-_Entscheidungsproblem_ 吸引了二十世纪初期数理逻辑领域一些最杰出的思想家，包括 Gödel、Herbrand、Post、Ramsey 以及希尔伯特和他的助手 Ackermann、Behmann、Bernays 和 Schönfinkel。Herbrand 将_Entscheidungsproblem_描述为“数学中最一般的问题”（Herbrand 1931b: 187）。但正是希尔伯特将函数演算中的_Entscheidungsproblem_推上了舞台。1928 年，他和 Ackermann 将其称为“数理逻辑的主要问题”（Hilbert & Ackermann 1928: 77）。
+*Entscheidungsproblem* 吸引了二十世纪初期数理逻辑领域一些最杰出的思想家，包括 Gödel、Herbrand、Post、Ramsey 以及希尔伯特和他的助手 Ackermann、Behmann、Bernays 和 Schönfinkel。Herbrand 将_Entscheidungsproblem_描述为“数学中最一般的问题”（Herbrand 1931b: 187）。但正是希尔伯特将函数演算中的_Entscheidungsproblem_推上了舞台。1928 年，他和 Ackermann 将其称为“数理逻辑的主要问题”（Hilbert & Ackermann 1928: 77）。
 
 希尔伯特知道命题演算（这是函数演算的一个片段）是可决定的，他与伯奈斯找到了一个基于所谓“正规形式”的决策过程（Bernays 1918；Behmann 1922；希尔伯特和阿克曼 1928：9-12；扎赫 1999），他也从勒文海姆的工作中知道单调函数演算是可决定的（Löwenheim 1915）。 （单调函数演算是涉及仅一位谓词的片段，即没有关系，如“=”和“<”，也没有更高位的谓词，如“-在-和-之间-”。）他认为整个函数演算必须有一个决策过程。数理逻辑的挑战，主要问题是找到它。正如他和阿克曼在 1928 年所写的那样，在他们著名的书《理论逻辑基础》（数理逻辑原理）中：
 
@@ -188,21 +188,21 @@ _Entscheidungsproblem_ 吸引了二十世纪初期数理逻辑领域一些最杰
 
 如今，有效的方法——算法——是电子计算机进行的每项工作的基础。根据一些计算机科学家的说法，有效方法设计的进步将很快引入人类水平的人工智能，随后是超人类智能。已经有虚拟助手如 Siri、Cortana 和 ChatGPT 实施有效方法，为各种问题提供有用答案。
 
-在其最崇高的一般形式中，_Entscheidungsproblem_是设计一种有效的通用问答者的问题，一种能够对_任何_有意义的科学问题，甚至是伦理和形而上问题给出正确答案的有效方法。这样一种方法的概念几乎令人瞠目结舌。卢尔（Llull）似乎已经瞥见了一种通用问答方法的概念，在大约 1300 年写道一个通用艺术（_ars_）或技术，“通过这种方法，人们可以了解所有自然事物”（_Lo Desconhort_，第 8 行，见卢尔 1986 年：99）。他梦想着一种_ars generalis_（通用技术），可以使“一个通用科学机械化，其具有自己的一般原则，其他科学的原则将被包含其中”（《通用最终艺术》前言，见卢尔 1645 年\[1970：1]）。卢尔用有限的知识领域来阐明他关于机械问答者的想法，设计了由叠加的圆盘组成的小领域特定机器；他的机器可能采用了羊皮_volvelle_的形式，这是金属星盘的近亲。
+在其最崇高的一般形式中，*Entscheidungsproblem_是设计一种有效的通用问答者的问题，一种能够对_任何_有意义的科学问题，甚至是伦理和形而上问题给出正确答案的有效方法。这样一种方法的概念几乎令人瞠目结舌。卢尔（Llull）似乎已经瞥见了一种通用问答方法的概念，在大约 1300 年写道一个通用艺术（*ars*）或技术，“通过这种方法，人们可以了解所有自然事物”（*Lo Desconhort*，第 8 行，见卢尔 1986 年：99）。他梦想着一种_ars generalis*（通用技术），可以使“一个通用科学机械化，其具有自己的一般原则，其他科学的原则将被包含其中”（《通用最终艺术》前言，见卢尔 1645 年\[1970：1]）。卢尔用有限的知识领域来阐明他关于机械问答者的想法，设计了由叠加的圆盘组成的小领域特定机器；他的机器可能采用了羊皮_volvelle_的形式，这是金属星盘的近亲。
 
 在早期现代时代，Llull 的_ars generalis_的想法在莱布尼茨的著作中得到了同情的讨论。
 
 ### 2.2 莱布尼茨
 
-莱布尼茨设计了一台计算机，据说可以进行加法、减法、乘法和除法，并且在 1673 年在伦敦和巴黎展示了他的机器的一个版本（Leibniz 1710）。他对机械方法的兴趣使他产生了更宏大的构想，部分灵感来自吕尔关于通用问答机制的模糊但引人深思的推测。莱布尼茨说吕尔“只是揭示了这个想法的表面，但没有看到它的内在部分”（Leibniz 1671 \[1926: 160]）。莱布尼茨设想了一种方法，就像乘法或除法一样机械化，可以实现 _#邱奇-图灵论题_#
+莱布尼茨设计了一台计算机，据说可以进行加法、减法、乘法和除法，并且在 1673 年在伦敦和巴黎展示了他的机器的一个版本（Leibniz 1710）。他对机械方法的兴趣使他产生了更宏大的构想，部分灵感来自吕尔关于通用问答机制的模糊但引人深思的推测。莱布尼茨说吕尔“只是揭示了这个想法的表面，但没有看到它的内在部分”（Leibniz 1671 \[1926: 160]）。莱布尼茨设想了一种方法，就像乘法或除法一样机械化，可以实现 *#邱奇-图灵论题*#
 
 当人们之间发生争执时，我们可以简单地说：让我们计算一下，毋需多言，以查明谁是正确的。(Leibniz 1685 \[1951: 51])
 
-这种方法的基础，莱布尼茨解释道，“我们可以用数字来表示各种真理和结果”，“然后所有推理的结果都可以用数字方式确定”（Leibniz 1685 \[1951: 50–51]）。他希望这种方法能够像对数学一样适用于“形而上学、物理学和伦理学”（1685 \[1951: 50]）。他推测这种方法可以通过他所称的_machina combinatoria_，即组合机（Leibniz _n.d._ 1；Leibniz 1666）来实现。然而，对于他梦寐以求的方法几乎没有取得什么进展，在他去世前两年的一封信中，他写道：
+这种方法的基础，莱布尼茨解释道，“我们可以用数字来表示各种真理和结果”，“然后所有推理的结果都可以用数字方式确定”（Leibniz 1685 \[1951: 50–51]）。他希望这种方法能够像对数学一样适用于“形而上学、物理学和伦理学”（1685 \[1951: 50]）。他推测这种方法可以通过他所称的_machina combinatoria_，即组合机（Leibniz *n.d.* 1；Leibniz 1666）来实现。然而，对于他梦寐以求的方法几乎没有取得什么进展，在他去世前两年的一封信中，他写道：
 
 如果我年轻一些或者有才华横溢的年轻人来帮助我，我仍然希望能够创造一种普遍的符号体系，在这种体系中，所有理性的真理都能被归纳为一种演算。（Leibniz 1714 \[1969: 654]）
 
-在他的理论中，莱布尼茨描述了他所称之为_ars inveniendi_的发现或设计方法。_ars inveniendi_的功能是产生科学上迄今未知的真理（Leibniz 1679 \[1903: 37]; Leibniz _n.d._ 2 \[1890: 180]; Hermes 1969）。一个机械的_ars inveniendi_将产生真实的陈述，随着时间的推移，对科学问题的期待答案将会到来（Leibniz 1671 \[1926: 160]）。拥有普遍的（即完整和一致的）_ars inveniendi_，用户可以输入_任何_有意义且明确的（科学或数学的）陈述 S，机器最终会（正确地）回答“S 为真”或“S 为假”。正如邱奇和图灵在 1936 年的开创性发展所明确的那样，如果_ars inveniendi_被认为是通过一种有效的方法工作，那么就不可能有普遍的_ars inveniendi_ —— 甚至没有一个仅限于所有数学陈述的_ars inveniendi_，因为这些包括“p 可证明”形式的陈述，甚至是所有纯逻辑陈述。
+在他的理论中，莱布尼茨描述了他所称之为_ars inveniendi_的发现或设计方法。*ars inveniendi_的功能是产生科学上迄今未知的真理（Leibniz 1679 \[1903: 37]; Leibniz *n.d.* 2 \[1890: 180]; Hermes 1969）。一个机械的_ars inveniendi_将产生真实的陈述，随着时间的推移，对科学问题的期待答案将会到来（Leibniz 1671 \[1926: 160]）。拥有普遍的（即完整和一致的）*ars inveniendi*，用户可以输入_任何_有意义且明确的（科学或数学的）陈述 S，机器最终会（正确地）回答“S 为真”或“S 为假”。正如邱奇和图灵在 1936 年的开创性发展所明确的那样，如果_ars inveniendi_被认为是通过一种有效的方法工作，那么就不可能有普遍的_ars inveniendi* —— 甚至没有一个仅限于所有数学陈述的_ars inveniendi_，因为这些包括“p 可证明”形式的陈述，甚至是所有纯逻辑陈述。
 
 ### 2.3 逻辑机器
 
@@ -230,7 +230,7 @@ Venn, like Jevons, was well aware of the concept of a literally mechanical metho
 
 皮尔斯对数学中机器的使用有着超前的想法。在世纪之交左右，他写道：
 
-> 整个高等算术科学，以其数百个奇妙定理，实际上是从关于数字的六个基本假设中推导出来的。迄今为止构建的逻辑机器无法执行数学推导。然而，有一种现代精确逻辑，虽然仍处于萌芽阶段，但已经发展得足够先进，使得构建一台能够推导出所有已知算术定理并比现在更快推进该科学的机器只是一个费用问题。 (Peirce _n.d._ ，引自 Stjernfelt 2022)
+> 整个高等算术科学，以其数百个奇妙定理，实际上是从关于数字的六个基本假设中推导出来的。迄今为止构建的逻辑机器无法执行数学推导。然而，有一种现代精确逻辑，虽然仍处于萌芽阶段，但已经发展得足够先进，使得构建一台能够推导出所有已知算术定理并比现在更快推进该科学的机器只是一个费用问题。 (Peirce *n.d.* ，引自 Stjernfelt 2022)
 
 这里，皮尔斯似乎在断言——非常正确地——可以设计出一台机器来推导出戴德金德（1888 年）算术公理化的所有定理（其中包括六个“主要假设”，形式为四个公理和两个定义）。这个皮尔斯的论述是在图灵将图灵机引入数学之前近四十年提出的，可以说是超前的。
 
@@ -254,13 +254,13 @@ Venn, like Jevons, was well aware of the concept of a literally mechanical metho
 
 假设提出了一个可以用圆规完成的几何构造问题；我们将尝试建立一个标准，使我们能够立即从问题及其解决方案的分析性质中确定，是否也可以仅使用尺和线段传递器来完成构造。 (Hilbert 1899: 85–86)
 
-他描述了现在被称为有效方法来确定这一点，他的术语“_beurteilen_”可以有点时代错误地翻译为“决定”。
+他描述了现在被称为有效方法来确定这一点，他的术语“*beurteilen*”可以有点时代错误地翻译为“决定”。
 
 希尔伯特在接下来的一年更清晰地表达了决策方法的概念，在他在巴黎举行的著名的世纪之交的演讲中，向国际数学家大会提出了二十三个未解问题，“可以预期从讨论这些问题中推动科学的发展”。他名单上的第十个问题（现在被普遍称为希尔伯特的第十个问题）是：
 
-给定一个具有任意数量未知量和具有有理整数系数的丢番图方程：_设计一个过程，根据这个过程可以通过有限次操作确定方程是否可在有理整数中求解_。 (Hilbert 1900: 276 \[trans. 1902: 458])
+给定一个具有任意数量未知量和具有有理整数系数的丢番图方程：*设计一个过程，根据这个过程可以通过有限次操作确定方程是否可在有理整数中求解*。 (Hilbert 1900: 276 \[trans. 1902: 458])
 
-_Entscheidungsproblem_在希尔伯特的学生贝曼于 1922 年发表了一篇具有里程碑意义的文章之后变得更加清晰。这篇文章名为《逻辑代数的贡献，特别是_Entscheidungsproblem_》。很可能是贝曼创造了“_Entscheidungsproblem_”这个术语。在 1921 年向哥廷根小组的演讲中，贝曼说道：
+*Entscheidungsproblem_在希尔伯特的学生贝曼于 1922 年发表了一篇具有里程碑意义的文章之后变得更加清晰。这篇文章名为《逻辑代数的贡献，特别是_Entscheidungsproblem*》。很可能是贝曼创造了“*Entscheidungsproblem*”这个术语。在 1921 年向哥廷根小组的演讲中，贝曼说道：
 
 如果给出一个逻辑或数学命题，所需的程序应该提供完整的指令，通过有限步骤后的确定性计算来判断该命题是正确还是错误。因此，我想称之为_allgemeine Entscheidungsproblem_ \[一般决策问题]。（Behmann 1921: 6 \[trans. 2015: 176]）
 
@@ -294,7 +294,7 @@ Newman 在他 1923 年的论文中没有提到_Entscheidungsproblem_，更不用
 
 Newman 并不是剑桥唯一对邱奇-图灵论题感兴趣的人。在图灵着手研究这个问题的前十年，邱奇-图灵论题在剑桥大学备受关注。剑桥大学的数学 Sadleirian 教授 Hardy 对这个问题很感兴趣，受到冯·诺伊曼对希尔伯特思想的权威阐述和批判的启发（冯·诺伊曼 1927 年）。Ackermann 本人于 1925 年上半年从哥廷根访问剑桥大学（Zach 2003: 226）。另一位访问者 Langford 曾在剑桥大学从哈佛大学获得的奖学金支持下工作，于 1924 年至 1925 年学术年度后不久回到哈佛大学，实际上解决了邱奇-图灵论题的一些特殊情况（Langford 1926a, 1927）。
 
-剑桥逻辑学家 Ramsey，像图灵一样是国王学院的研究员，在 20 世纪 20 年代后期也致力于\* Entscheidungsproblem _。他于 1930 年去世（就在图灵作为本科生抵达剑桥的前一年），但在去世前完成了一篇解决_ Entscheidungsproblem _特殊情况的关键论文（Ramsey 1930）。他的工作也是纽曼讲座课程推荐阅读中的重要内容。Braithwaite，国王学院的另一位研究员（曾在 1935 年帮助图灵当选国王学院的初级研究员），对 Ramsey 在_ Entscheidungsproblem _上的工作非常感兴趣（Copeland＆Fan 2022）。同样在 1935 年，冯·诺伊曼从普林斯顿访问剑桥，参加纽曼讲座课程的下一个学期（Copeland＆Fan 2023）。冯·诺伊曼是 20 世纪 20 年代中期哥廷根学派的成员，曾称_ Entscheidungsproblem \*为“深奥而复杂”，并表示怀疑其是否可解决（冯·诺伊曼 1927 年：11；1931 年：120）。
+剑桥逻辑学家 Ramsey，像图灵一样是国王学院的研究员，在 20 世纪 20 年代后期也致力于\* Entscheidungsproblem *。他于 1930 年去世（就在图灵作为本科生抵达剑桥的前一年），但在去世前完成了一篇解决* Entscheidungsproblem *特殊情况的关键论文（Ramsey 1930）。他的工作也是纽曼讲座课程推荐阅读中的重要内容。Braithwaite，国王学院的另一位研究员（曾在 1935 年帮助图灵当选国王学院的初级研究员），对 Ramsey 在* Entscheidungsproblem *上的工作非常感兴趣（Copeland＆Fan 2022）。同样在 1935 年，冯·诺伊曼从普林斯顿访问剑桥，参加纽曼讲座课程的下一个学期（Copeland＆Fan 2023）。冯·诺伊曼是 20 世纪 20 年代中期哥廷根学派的成员，曾称* Entscheidungsproblem \*为“深奥而复杂”，并表示怀疑其是否可解决（冯·诺伊曼 1927 年：11；1931 年：120）。
 
 他并不孤单。哈代在讨论希尔伯特的观点时提出了这个_Entscheidungsproblem_（决策问题）的论述。
 
@@ -343,7 +343,7 @@ Post 的论文于 1936 年 10 月提交发表，比图灵晚了大约五个月�
 
 ### 3.3 希尔伯特和伯奈斯
 
-1939 年，在他们庞大的著作《数学基础》第二卷中，希尔伯特和伯奈斯提出了基于逻辑的有效性分析。根据这一分析，可有效计算的数值函数是可以以他们所称的“_regelrecht_”方式进行评估的数值函数（Hilbert＆Bernays 1939:392-421）。在这个背景下，德语词“_regelrecht_”可以翻译为“rule-governed”。希尔伯特和伯奈斯提出了数值函数的_rule-governed evaluation_概念作为“可计算概念的深化”（1939:417）。
+1939 年，在他们庞大的著作《数学基础》第二卷中，希尔伯特和伯奈斯提出了基于逻辑的有效性分析。根据这一分析，可有效计算的数值函数是可以以他们所称的“*regelrecht*”方式进行评估的数值函数（Hilbert＆Bernays 1939:392-421）。在这个背景下，德语词“*regelrecht*”可以翻译为“rule-governed”。希尔伯特和伯奈斯提出了数值函数的_rule-governed evaluation_概念作为“可计算概念的深化”（1939:417）。
 
 基本思想是：以规则为基础的方式评估数值函数（如加法或乘法）是逐步逻辑地计算函数的值，在适当的演绎逻辑系统中。根据这种方法，有效可计算性被分析为_逻辑中的可计算性_。（邱奇和图灵之前曾讨论过这种方法—请参见[第 4.4 节](https://plato.stanford.edu/entries/church-turing/#TuriArguII)。）
 
@@ -371,7 +371,7 @@ a=b, f(a)⊢f(b) translates to a=b, f(a)⊢f(b)
 
 * Gandy（图灵的唯一博士生）指出，图灵对人类计算的分析并不立即适用于与图灵机大不相同的计算机。有关图灵分析的详细信息，请参见下文[第 4.3 节](https://plato.stanford.edu/entries/church-turing/#TuriArguI)。例如，图灵的分析显然不适用于并行机，与图灵机不同，它们能够同时处理任意数量的符号。Gandy（1980）寻求了一种广义的图灵分析形式，既适用于图灵机又适用于大规模并行机，他提出了规定所谓_离散确定性机械装置_行为的四个公理。（他用继承有限集的术语制定了这些公理。）然后，Gandy 证明了满足这些公理的每个装置都可以被图灵机模拟：离散确定性机械装置，即使是大规模并行装置，在某种意义上也不比图灵机更强大，因为这样的装置能够执行的任何计算也可以被通用图灵机完成。（有关 Gandy 的分析，请参见[第 6.4.2 节](https://plato.stanford.edu/entries/church-turing/#GandArgu)。)
 
-_Engeler_ 通过使用_组合子_（Engeler 1983: ch. III）对算法函数的概念进行了公理化。组合子最初是由 Schönfinkel 于 1924 年引入的，在一本关于组合子的最新书中被描述为“首次提出了通用计算的形式化”（Schönfinkel 1924; Wolfram 2021: 214）。Schönfinkel 的组合子得到了 Curry 的广泛发展（Curry 1929, 1930a,b, 1932; Curry & Feys 1958）。组合子的例子包括“置换器”C 和“取消器”K。这些产生以下效果：Cxyz=xzy 和 Kxy=x。
+*Engeler* 通过使用_组合子_（Engeler 1983: ch. III）对算法函数的概念进行了公理化。组合子最初是由 Schönfinkel 于 1924 年引入的，在一本关于组合子的最新书中被描述为“首次提出了通用计算的形式化”（Schönfinkel 1924; Wolfram 2021: 214）。Schönfinkel 的组合子得到了 Curry 的广泛发展（Curry 1929, 1930a,b, 1932; Curry & Feys 1958）。组合子的例子包括“置换器”C 和“取消器”K。这些产生以下效果：Cxyz=xzy 和 Kxy=x。
 
 * 邱奇 formalized 图灵对人类计算的分析，通过四个公理（Sieg 2008）。结果，邱奇说，这是对“‘机械程序’概念”的公理化描述，并且他观察到他的系统“证实了哥德尔的评论”（上文），即应该尝试找到一个包含普遍接受的有效性概念属性的公理集（Sieg 2008: 150）。
 * Dershowitz 和 Gurevich（2008）陈述了三个非常一般的公理，将计算视为离散的、确定性的、顺序演变的状态结构。他们将这些结构称为“状态转移系统”，将这三个公理称为“顺序公设”。他们还使用了第四个公理，规定“初始状态只能使用不可否认的可计算操作”（2008：306）。从他们的四个公理中，他们证明了一个命题，称为邱奇-图灵论题：“由满足顺序公设的状态转移系统计算的每个数值函数，并且初始只提供基本算术，都是部分递归的”（2008：327）。
@@ -406,9 +406,9 @@ _Engeler_ 通过使用_组合子_（Engeler 1983: ch. III）对算法函数的�
 
 在他 1952 年的调查中，Kleene 还发展了图灵的归纳论证（1952: 319-320）。要总结：
 
-_每个在这方面被研究过的有效可计算函数都被证明可以被图灵机计算。_
+*每个在这方面被研究过的有效可计算函数都被证明可以被图灵机计算。*
 
-_所有已知的从给定的有效可计算函数获取新的有效可计算函数的方法或操作，都可以通过从给定的图灵机构造新的图灵机的方法来实现。_
+*所有已知的从给定的有效可计算函数获取新的有效可计算函数的方法或操作，都可以通过从给定的图灵机构造新的图灵机的方法来实现。*
 
 归纳证据继续积累支持这一论题。例如，Gurevich 指出邱奇-图灵论题
 
@@ -503,7 +503,7 @@ Mendelson 更温和地表达了这一观点，称等价论证“并非决定性�
 
 下一个也是最后一个论证步骤涉及到的陈述是，任何由 B-L 型机器执行的计算也可以由普通图灵机执行。这是直接的，因为通过一系列单方格移动，普通机器可以模拟 B-L 型机器一次最多 L 个方格的磁带移动；而且普通机器也可以通过一系列单方格扫描（必要时夹杂着 m-配置的更改）模拟 B-L 型机器一次最多 B 个方格的扫描。因此，如果 B-L 型机器可以“完成”人类计算机的工作，普通图灵机也可以。
 
-总之，邱奇已经表明了以下内容——假设他的主张被接受，“计算机的每个心智状态对应于机器的‘m-配置’”：_根据上述对人类计算基本特征的描述，一台普通的图灵机能够完成任何人类计算的工作_。换句话说：在那个条件和前提下，他已经证实了他的论点，即普通图灵机可计算的数字包括所有自然被视为可计算的数字。
+总之，邱奇已经表明了以下内容——假设他的主张被接受，“计算机的每个心智状态对应于机器的‘m-配置’”：*根据上述对人类计算基本特征的描述，一台普通的图灵机能够完成任何人类计算的工作*。换句话说：在那个条件和前提下，他已经证实了他的论点，即普通图灵机可计算的数字包括所有自然被视为可计算的数字。
 
 #### 4.3.4 心灵状态，和论证 III
 
@@ -533,7 +533,7 @@ Mendelson 更温和地表达了这一观点，称等价论证“并非决定性�
 
 然而，邱奇的观点并非免疫怀疑。一些怀疑的问题是：图灵是否忽视了人类计算的某些方面？一个受到 1-9 限制的计算机是否无法执行一些人类计算机可以完成的计算？此外，在描述计算机行为时，是否总是需要考虑的心态状态数量必须是有限的？哥德尔认为图灵的“可区分心态状态”的数量可能“趋近于无穷”，称
 
-图灵完全忽视的是，_心智在使用中并非静止不变，而是不断发展_。 (邱奇 1972: 306)
+图灵完全忽视的是，*心智在使用中并非静止不变，而是不断发展*。 (邱奇 1972: 306)
 
 确实，认为 1-9 是真实的根据应该是什么？这些说法应该建立在人类感官和人类思维的本质和局限性上吗？还是它们应该以其他方式作为基础，例如，以_有效方法_的基本本质作为基础？
 
@@ -589,7 +589,7 @@ Kripke 认为邱奇-图灵论题是戈德尔关于带有恒等性的一阶谓词
 
 Kripke 论证的第一步是他声称（无误差的人类）计算本身就是一种推理形式
 
-\[一个] 计算是数学论证的一种特殊形式。给定一组指令，计算中的步骤应该——根据给定的指令——推导出来。_因此，计算只是另一种数学推导，尽管是一种非常专门化的形式_。 (Kripke 2013: 80)
+\[一个] 计算是数学论证的一种特殊形式。给定一组指令，计算中的步骤应该——根据给定的指令——推导出来。*因此，计算只是另一种数学推导，尽管是一种非常专门化的形式*。 (Kripke 2013: 80)
 
 以下伪代码中的两行程序说明了克里普克的观点。符号“→”读作“变为”，而“=”通常表示相等。程序中的第一条指令是 r→2。这告诉计算机将值 2 放入存储位置 r （假定最初为空）。第二条指令 r→r+3 告诉计算机将 3 添加到 r 的内容中，并将结果存储在 r 中（覆盖 r 的先前内容）。这个两行程序的执行可以表示为一个推导：
 
@@ -633,9 +633,9 @@ Kripke 论证的第二步是诉诸他所称的_希尔伯特论题_：这个论�
 
 图灵还说（在 2004 年出版的手稿中），“系统方法”这个短语
 
-是一个短语，就像许多其他短语（例如，“蔬菜”）一样，在日常生活中人们都能理解得很好。但是当与蔬菜商、微生物学家交谈或玩“二十个问题”时可能会遇到困难。大黄和番茄是蔬菜还是水果？煤是蔬菜还是矿物？煤气、骨髓、化石树、链球菌、病毒呢？我午餐吃的生菜已经变成动物了吗？…关于上述问题 c）\[_我是否有一种系统方法可以回答这类问题_]也会出现同样的困难。对“系统方法”这个短语的普通了解是不够的，因为人们必须能够非常清楚地表明对于任何可能被提出的方法，它是否是允许的。 （邱奇-图灵论题中的图灵，Copeland 2004: 590）
+是一个短语，就像许多其他短语（例如，“蔬菜”）一样，在日常生活中人们都能理解得很好。但是当与蔬菜商、微生物学家交谈或玩“二十个问题”时可能会遇到困难。大黄和番茄是蔬菜还是水果？煤是蔬菜还是矿物？煤气、骨髓、化石树、链球菌、病毒呢？我午餐吃的生菜已经变成动物了吗？…关于上述问题 c）\[*我是否有一种系统方法可以回答这类问题*]也会出现同样的困难。对“系统方法”这个短语的普通了解是不够的，因为人们必须能够非常清楚地表明对于任何可能被提出的方法，它是否是允许的。 （邱奇-图灵论题中的图灵，Copeland 2004: 590）
 
-在这里，图灵强调“系统方法”这个术语并不精确，因此在这方面类似于“蔬菜”这个术语，不同于数学上精确的术语，如“λ-可定义”、“图灵机可计算”和“替换拼图”。Kleene 声称，由于诸如“系统方法”和“有效可计算”之类的术语并不精确，涉及它们的论题无法被证明。然而，图灵并没有提出类似的论点（也许是因为他看到了困难）。“系统方法”这个术语不精确_并不足以表明_不存在涉及该术语的论题的数学上可接受的证明。Mendelson 对这一观点进行了生动阐述，写到了上文所称的“_邱奇-图灵论题的逆_”（[1.5 节](https://plato.stanford.edu/entries/church-turing/#MeanCompCompTuriThes)）。
+在这里，图灵强调“系统方法”这个术语并不精确，因此在这方面类似于“蔬菜”这个术语，不同于数学上精确的术语，如“λ-可定义”、“图灵机可计算”和“替换拼图”。Kleene 声称，由于诸如“系统方法”和“有效可计算”之类的术语并不精确，涉及它们的论题无法被证明。然而，图灵并没有提出类似的论点（也许是因为他看到了困难）。“系统方法”这个术语不精确_并不足以表明_不存在涉及该术语的论题的数学上可接受的证明。Mendelson 对这一观点进行了生动阐述，写到了上文所称的“*邱奇-图灵论题的逆*”（[1.5 节](https://plato.stanford.edu/entries/church-turing/#MeanCompCompTuriThes)）。
 
 假设连接直觉和精确数学概念的证明是不可能的这一假设显然是错误的。事实上，邱奇-图灵论题的一半（“更容易”的一半），即所有部分递归函数都是有效可计算的这一断言，被公认为在递归理论的所有教科书中都是显而易见的。可以为此提供一个直接的论证……这个简单的论证就像我在数学中见过的证明一样清晰，尽管它涉及到有效可计算性的直观概念。（Mendelson 1990: 232–233）
 
@@ -655,7 +655,7 @@ Gandy 可能是第一个明确区分图灵论题和非常不同命题的人，�
 
 邱奇-图灵论题 M 不够精确，因为甘迪从未明确指出他所说的“由机器计算”。陈述一个更明确的命题来捕捉邱奇-图灵论题 M 的精神是很有用的。这可能被称为_强邱奇-图灵论题_，但总的来说，避免使用那个名字似乎更可取，因为所讨论的命题与 1936 年的邱奇-图灵论题非常不同。这个命题将被称为“极大性命题”。
 
-一些更多的术语：如果一台机器_m_能够被设置成这样，即当_m_被提供函数的任何参数（例如 4）时，_m_将执行一系列处理步骤，最终产生函数对应的值（例如例子中的 16），那么将说机器_m_会_生成_（从图灵 1937 年借用此词）某个函数（例如_x_的平方）。对于像加法这样需要多个参数的函数，_mutatis mutandis_。
+一些更多的术语：如果一台机器_m_能够被设置成这样，即当_m_被提供函数的任何参数（例如 4）时，*m_将执行一系列处理步骤，最终产生函数对应的值（例如例子中的 16），那么将说机器_m_会_生成*（从图灵 1937 年借用此词）某个函数（例如_x_的平方）。对于像加法这样需要多个参数的函数，*mutatis mutandis*。
 
 **最大性论题**：
 
@@ -855,7 +855,7 @@ Andréka, Németi 和 Németi 甚至说，他们在这里陈述的论题“是�
 
 Gandy (1980) 对是否存在确定性、离散系统的行为无法被通用图灵机计算进行了深入讨论。现在著名的“Gandy 论证”旨在表明，在某些方面，Gandy 论证类似并扩展了图灵的 I 论证，Gandy 认为这是对图灵的 I 的改进和更一般的替代（1980: 145）。他强调（与图灵的论证不同），他的论证考虑了“并行工作”（1980: 124-5）；正是这一点导致了 Gandy 的分析相对于图灵的分析更加复杂。
 
-Gandy 视其论证的结论（即每个离散确定性机制的行为都可以通过图灵机计算）为相对 _先验_，可基于一组非常一般的物理假设（即[第 3.4 节](https://plato.stanford.edu/entries/church-turing/#ModeAxioAnal)中提到的四个公理）进行证明。这些假设包括，例如，对机制组成部分维度的下限以及效应和信号传播速度的上限。（该论证旨在仅涵盖遵守相对论原理的机制。）Gandy 通过精确的公理，即他称之为原则 I – IV，集合论地表达了他的各种物理假设。例如，第三原则捕捉了这样一个观念，即机器状态是由有限种基本部件（原子）组装而成的数量受限；而 Gandy 称之为“局部因果关系原则”的第四原则捕捉了这样一个观念，即每个状态转换必须由机制部件的局部环境确定。
+Gandy 视其论证的结论（即每个离散确定性机制的行为都可以通过图灵机计算）为相对 *先验*，可基于一组非常一般的物理假设（即[第 3.4 节](https://plato.stanford.edu/entries/church-turing/#ModeAxioAnal)中提到的四个公理）进行证明。这些假设包括，例如，对机制组成部分维度的下限以及效应和信号传播速度的上限。（该论证旨在仅涵盖遵守相对论原理的机制。）Gandy 通过精确的公理，即他称之为原则 I – IV，集合论地表达了他的各种物理假设。例如，第三原则捕捉了这样一个观念，即机器状态是由有限种基本部件（原子）组装而成的数量受限；而 Gandy 称之为“局部因果关系原则”的第四原则捕捉了这样一个观念，即每个状态转换必须由机制部件的局部环境确定。
 
 Gandy 非常清楚地指出，他的论点不适用于连续系统——他称之为模拟机器——和非相对论系统。(Gandy 的未发表作品摘录在 Copeland＆Shagrir 2007 年的著作中，其中他试图为模拟机器发展一个类似的论点。) 但是，Gandy 论点的适用范围在其他方面也有限，这是 Gandy 本人没有注意到的。例如，一些异步算法超出了 Gandy 原则的适用范围(Gurevich 2012; Copeland＆Shagrir 2007)。Gurevich 得出结论称，Gandy 并未表明“他的公理被所有离散机械设备满足”，Shagrir 表示没有“依据表明 Gandy 表征了有限机器计算”(Gurevich 2012: 36，Shagrir 2002: 234)。给出一些离散确定性系统的例子将会很有用，这些系统在某种程度上规避了 Gandy 的结论，即每个这样的系统的行为都可以通过图灵机计算。
 
@@ -869,7 +869,7 @@ Németi 相对论计算机利用引力时间膨胀效应来计算（广义上）
 
 2. “What can be calculated by a device satisfying principles I-IV is computable” (he labelled this “Theorem”). 2. “通过满足原则 I-IV 的设备可以计算的内容是可计算的”（他将其标记为“定理”）。
 
-1 and 2 together yield: _邱奇-图灵论题_：_离散确定性机械设备可以计算的内容是可计算的_。
+1 and 2 together yield: *邱奇-图灵论题*：*离散确定性机械设备可以计算的内容是可计算的*。
 
 然而，Németi 计算机是一种离散的、确定性的机械装置，但却能够计算图灵机无法计算的函数。也就是说，相对论计算机是反例，违背了甘迪的 P 论题。简言之，这是因为甘迪原则中隐含的“确定性”概念（“甘迪确定性”）比直观意义上的“确定性”更狭窄，其中确定性系统是指遵循不涉及随机性或随机性的法则的系统。相对论计算机是确定性的，但不是甘迪确定性的。（有关更详细的讨论，请参见 Copeland，Shagrir 和 Sprevak 2018。）
 
@@ -993,265 +993,265 @@ Cubitt 等人的不可计算性结果源于他们发现停机问题可以被编�
 
 尽管邱奇试图将更多物理现实主义引入图灵机的概念中，但就像图灵的情况一样，不清楚如果询问，邱奇是否会同意[德意志-沃尔夫勒姆论题](https://plato.stanford.edu/entries/church-turing/#deutschwolframthesis)或任何类似的论题。没有任何文本证据支持任何一种观点。邱奇对这类问题保持沉默。
 
-补充文件：[The Rise and Fall of the ](https://plato.stanford.edu/entries/church-turing/decision-problem.html)​\*[Entscheidungsproblem](https://plato.stanford.edu/entries/church-turing/decision-problem.html)\*)。
+补充文件：[The Rise and Fall of the](https://plato.stanford.edu/entries/church-turing/decision-problem.html)​\*[Entscheidungsproblem](https://plato.stanford.edu/entries/church-turing/decision-problem.html)\*)。
 
 ## Bibliography
 
-* Ackermann, Wilhelm, 1928, “Zum Hilbertschen Aufbau der reellen Zahlen”, _Mathematische Annalen_, 99(1): 118–133. doi:10.1007/BF01459088
+* Ackermann, Wilhelm, 1928, “Zum Hilbertschen Aufbau der reellen Zahlen”, *Mathematische Annalen*, 99(1): 118–133. doi:10.1007/BF01459088
 * Aharonov, Dorit and Umesh V. Vazirani, 2013, “Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics”, in Copeland, Posy, and Shagrir 2013: 329–349 (ch. 11).
-* Andréka, Hajnal, István Németi, and Péter Németi, 2009, “General Relativistic Hypercomputing and Foundation of Mathematics”, _Natural Computing_, 8(3): 499–516. doi:10.1007/s11047-009-9114-3
-* Baldwin, J. Mark, 1902, “Logical Machine”, in J. Mark Baldwin (ed.), _Dictionary of Philosophy and Psychology_, volume 2, New York: Macmillan, 28–30.
-* Barendregt, Henk, 1997, “The Impact of the Lambda Calculus in Logic and Computer Science”, _Bulletin of Symbolic Logic_, 3(2): 181–215. doi:10.2307/421013
-* Barrett, Lindsay and Matthew Connell, 2005, “Jevons and the Logic ‘Piano’”, _The Rutherford Journal_, 1: article 3. \[[Barrett & Connell 2005 available online](http://www.rutherfordjournal.org/article010103.html)]
-* Barwise, Jon, 1977, “An Introduction to First-Order Logic”, in Jon Barwise (ed.), _Handbook of Mathematical Logic_, Amsterdam: North-Holland, 5–46.
-* Bausch, Johannes, Toby S. Cubitt, Angelo Lucia, and David Perez-Garcia, 2020, “Undecidability of the Spectral Gap in One Dimension”, _Physical Review X_, 10(3): 031038. doi:10.1103/PhysRevX.10.031038
+* Andréka, Hajnal, István Németi, and Péter Németi, 2009, “General Relativistic Hypercomputing and Foundation of Mathematics”, *Natural Computing*, 8(3): 499–516. doi:10.1007/s11047-009-9114-3
+* Baldwin, J. Mark, 1902, “Logical Machine”, in J. Mark Baldwin (ed.), *Dictionary of Philosophy and Psychology*, volume 2, New York: Macmillan, 28–30.
+* Barendregt, Henk, 1997, “The Impact of the Lambda Calculus in Logic and Computer Science”, *Bulletin of Symbolic Logic*, 3(2): 181–215. doi:10.2307/421013
+* Barrett, Lindsay and Matthew Connell, 2005, “Jevons and the Logic ‘Piano’”, *The Rutherford Journal*, 1: article 3. \[[Barrett & Connell 2005 available online](http://www.rutherfordjournal.org/article010103.html)]
+* Barwise, Jon, 1977, “An Introduction to First-Order Logic”, in Jon Barwise (ed.), *Handbook of Mathematical Logic*, Amsterdam: North-Holland, 5–46.
+* Bausch, Johannes, Toby S. Cubitt, Angelo Lucia, and David Perez-Garcia, 2020, “Undecidability of the Spectral Gap in One Dimension”, *Physical Review X*, 10(3): 031038. doi:10.1103/PhysRevX.10.031038
 * Bausch, Johannes, Toby S. Cubitt, and James D. Watson, 2019, “Uncomputability of Phase Diagrams”, arXiv:1910.01631.
-* –––, 2021, “Uncomputability of Phase Diagrams”, _Nature Communications_, 12(1): article 452. doi:10.1038/s41467-020-20504-6
+* –––, 2021, “Uncomputability of Phase Diagrams”, *Nature Communications*, 12(1): article 452. doi:10.1038/s41467-020-20504-6
 * Behmann, Heinrich, 1921 \[2015], “Entscheidungsproblem und Algebra der Logik”, Lecture, 10 May 1921, to the Göttingen Mathematical Society. In Mancosu and Zach 2015: 177–187, with a partial translation by Richard Zach in the same (2015: 173–177).
-* –––, 1922, “Beiträge zur Algebra der Logik, insbesondere zum Entscheidungsproblem”, _Mathematische Annalen_, 88(1–2): 168–168. doi:10.1007/BF01448447
+* –––, 1922, “Beiträge zur Algebra der Logik, insbesondere zum Entscheidungsproblem”, *Mathematische Annalen*, 88(1–2): 168–168. doi:10.1007/BF01448447
 * Bernays, Paul, 1918, “Beiträge zur axiomatischen Behandlung des Logik-Kalküls”, Habilitationsschrift, University of Göttingen. Bernays Papers, ETH Zurich (Hs 973.192).
-* Bernays, Paul and Moses Schönfinkel, 1928, “Zum Entscheidungsproblem der mathematischen Logik”, _Mathematische Annalen_, 99(1): 342–372. doi:10.1007/BF01459101
-* Bernstein, Ethan and Umesh Vazirani, 1997, “Quantum Complexity Theory”, _SIAM Journal on Computing_, 26(5): 1411–1473. doi:10.1137/S0097539796300921
-* Blum, Lenore, Felipe Cucker, Michael Shub, and Steve Smale, 1998, _Complexity and Real Computation_, New York: Springer. doi:10.1007/978-1-4612-0701-6
-* Boolos, George and Richard C. Jeffrey, 1974, _Computability and Logic_, New York: Cambridge University Press.
-* Buss, Samuel R., Alexander S. Kechris, Anand Pillay, and Richard A. Shore, 2001, “The Prospects for Mathematical Logic in the Twenty-First Century”, _Bulletin of Symbolic Logic_, 7(2): 169–196. doi:10.2307/2687773
-* Calude, Cristian S. and Karl Svozil, 2008, “Quantum Randomness and Value Indefiniteness”, _Advanced Science Letters_, 1(2): 165–168. doi:10.1166/asl.2008.016
-* Calude, Cristian S., Michael J. Dinneen, Monica Dumitrescu, and Karl Svozil, 2010, “Experimental Evidence of Quantum Randomness Incomputability”, _Physical Review A_, 82(2): 022102. doi:10.1103/PhysRevA.82.022102
-* Cantor, Georg, 1874, “Ueber eine Eigenschaft des Inbegriffs aller reellen algebraischen Zahlen”, _Journal für die reine und angewandte Mathematik_, 77: 258–262. doi:10.1515/crll.1874.77.258
-* Carnap, Rudolf, 1935, “Ein Gültigkeitskriterium für die Sätze der klassischen Mathematik”, _Monatshefte für Mathematik und Physik_, 42: 163–190. doi:10.1007/BF01733289
-* Cassirer, Ernst, 1929, _Philosophie der symbolischen Formen_ (Volume 3: _Phänomenologie der Erkenntnis_), Berlin: Bruno Cassirer.
-* Church, Alonzo, 1932, “A Set of Postulates for the Foundation of Logic”, _Annals of Mathematics_, second series 33(2): 346–366. doi:10.2307/1968337
-* –––, 1933, “A Set of Postulates For the Foundation of Logic (2)”, _Annals of Mathematics_, second series 34(4): 839–864. doi:10.2307/1968702
-* –––, 1935a, “An Unsolvable Problem of Elementary Number Theory, Preliminary Report” (abstract), _Bulletin of the American Mathematical Society_, 41(6): 332–333. Full paper in Church 1936b.
+* Bernays, Paul and Moses Schönfinkel, 1928, “Zum Entscheidungsproblem der mathematischen Logik”, *Mathematische Annalen*, 99(1): 342–372. doi:10.1007/BF01459101
+* Bernstein, Ethan and Umesh Vazirani, 1997, “Quantum Complexity Theory”, *SIAM Journal on Computing*, 26(5): 1411–1473. doi:10.1137/S0097539796300921
+* Blum, Lenore, Felipe Cucker, Michael Shub, and Steve Smale, 1998, *Complexity and Real Computation*, New York: Springer. doi:10.1007/978-1-4612-0701-6
+* Boolos, George and Richard C. Jeffrey, 1974, *Computability and Logic*, New York: Cambridge University Press.
+* Buss, Samuel R., Alexander S. Kechris, Anand Pillay, and Richard A. Shore, 2001, “The Prospects for Mathematical Logic in the Twenty-First Century”, *Bulletin of Symbolic Logic*, 7(2): 169–196. doi:10.2307/2687773
+* Calude, Cristian S. and Karl Svozil, 2008, “Quantum Randomness and Value Indefiniteness”, *Advanced Science Letters*, 1(2): 165–168. doi:10.1166/asl.2008.016
+* Calude, Cristian S., Michael J. Dinneen, Monica Dumitrescu, and Karl Svozil, 2010, “Experimental Evidence of Quantum Randomness Incomputability”, *Physical Review A*, 82(2): 022102. doi:10.1103/PhysRevA.82.022102
+* Cantor, Georg, 1874, “Ueber eine Eigenschaft des Inbegriffs aller reellen algebraischen Zahlen”, *Journal für die reine und angewandte Mathematik*, 77: 258–262. doi:10.1515/crll.1874.77.258
+* Carnap, Rudolf, 1935, “Ein Gültigkeitskriterium für die Sätze der klassischen Mathematik”, *Monatshefte für Mathematik und Physik*, 42: 163–190. doi:10.1007/BF01733289
+* Cassirer, Ernst, 1929, *Philosophie der symbolischen Formen* (Volume 3: *Phänomenologie der Erkenntnis*), Berlin: Bruno Cassirer.
+* Church, Alonzo, 1932, “A Set of Postulates for the Foundation of Logic”, *Annals of Mathematics*, second series 33(2): 346–366. doi:10.2307/1968337
+* –––, 1933, “A Set of Postulates For the Foundation of Logic (2)”, *Annals of Mathematics*, second series 34(4): 839–864. doi:10.2307/1968702
+* –––, 1935a, “An Unsolvable Problem of Elementary Number Theory, Preliminary Report” (abstract), *Bulletin of the American Mathematical Society*, 41(6): 332–333. Full paper in Church 1936b.
 * –––, 1935b, letter to Kleene, 29 November 1935. Excerpt in Davis 1982: 9.
-* –––, 1935c, “A Proof of Freedom from Contradiction”, _Proceedings of the National Academy of Sciences_, 21(5): 275–281. doi:10.1073/pnas.21.5.275
-* –––, 1936a, “An Unsolvable Problem of Elementary Number Theory”, _American Journal of Mathematics_, 58(2): 345–363. doi:10.2307/2371045
-* –––, 1936b, “A Note on the Entscheidungsproblem”, _The Journal of Symbolic Logic_, 1(1): 40–41. doi:10.2307/2269326
-* –––, 1937a, Review of Turing 1936, _The Journal of Symbolic Logic_, 2(1): 42–43. doi:10.1017/S002248120003958X
-* –––, 1937b, Review of Post 1936, _The Journal of Symbolic Logic_, 2(1): 43. doi:10.1017/S0022481200039591
-* –––, 1941, _The Calculi of Lambda-Conversion_, Princeton, NJ: Princeton University Press.
-* Church, Alonzo and J. Barkley Rosser, 1936, “Some Properties of Conversion”, _Transactions of the American Mathematical Society_, 39(3): 472–482. doi:10.1090/S0002-9947-1936-1501858-0
-* Copeland, B. Jack, 1998a, “Even Turing Machines Can Compute Uncomputable Functions”, in _Unconventional Models of Computation, Proceedings of the 1st International Conference, New Zealand_, Christian S. Calude, John Casti, and Michael J. Dinneen (eds), London: Springer-Verlag, 150–164.
-* –––, 1998b, “Super Turing-Machines”, _Complexity_, 4(1): 30–32. doi:10.1002/(SICI)1099-0526(199809/10)4:1<30::AID-CPLX9>3.0.CO;2-8
-* –––, 2000, “Narrow versus Wide Mechanism: Including a Re-Examination of Turing’s Views on the Mind-Machine Issue”, _The Journal of Philosophy_, 97(1): 5–32. doi:10.2307/2678472
-* –––, 2002a, “Accelerating Turing Machines”, _Minds and Machines_, 12(2): 281–300. (In a special issue on the Church-Turing thesis, edited by Carol Cleland.) doi:10.1023/A:1015607401307
-* ––– (ed.), 2004, _The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life_, Oxford: Clarendon Press. doi:10.1093/oso/9780198250791.001.0001
-* Copeland, B. Jack and Zhao Fan, 2022, “Did Turing Stand on Gödel’s Shoulders?”, _The Mathematical Intelligencer_, 44: 308–319. doi:10.1007/s00283-022-10177-y
-* –––, 2023, “Turing and von Neumann: From Logic to the Computer”, _Philosophies_, 8(2): 1–30.
-* Copeland, B. Jack, Carl J. Posy, and Oron Shagrir (eds), 2013, _Computability: Turing, Gödel, Church, and Beyond_, Cambridge, MA: The MIT Press.
-* Copeland, B. Jack and Oron Shagrir, 2007, “Physical Computation: How General Are Gandy’s Principles for Mechanisms?”, _Minds and Machines_, 17(2): 217–231. doi:10.1007/s11023-007-9058-2
-* –––, 2011, “Do Accelerating Turing Machines Compute the Uncomputable?”, _Minds and Machines_, 21(2): 221–239. doi:10.1007/s11023-011-9238-y
+* –––, 1935c, “A Proof of Freedom from Contradiction”, *Proceedings of the National Academy of Sciences*, 21(5): 275–281. doi:10.1073/pnas.21.5.275
+* –––, 1936a, “An Unsolvable Problem of Elementary Number Theory”, *American Journal of Mathematics*, 58(2): 345–363. doi:10.2307/2371045
+* –––, 1936b, “A Note on the Entscheidungsproblem”, *The Journal of Symbolic Logic*, 1(1): 40–41. doi:10.2307/2269326
+* –––, 1937a, Review of Turing 1936, *The Journal of Symbolic Logic*, 2(1): 42–43. doi:10.1017/S002248120003958X
+* –––, 1937b, Review of Post 1936, *The Journal of Symbolic Logic*, 2(1): 43. doi:10.1017/S0022481200039591
+* –––, 1941, *The Calculi of Lambda-Conversion*, Princeton, NJ: Princeton University Press.
+* Church, Alonzo and J. Barkley Rosser, 1936, “Some Properties of Conversion”, *Transactions of the American Mathematical Society*, 39(3): 472–482. doi:10.1090/S0002-9947-1936-1501858-0
+* Copeland, B. Jack, 1998a, “Even Turing Machines Can Compute Uncomputable Functions”, in *Unconventional Models of Computation, Proceedings of the 1st International Conference, New Zealand*, Christian S. Calude, John Casti, and Michael J. Dinneen (eds), London: Springer-Verlag, 150–164.
+* –––, 1998b, “Super Turing-Machines”, *Complexity*, 4(1): 30–32. doi:10.1002/(SICI)1099-0526(199809/10)4:1<30::AID-CPLX9>3.0.CO;2-8
+* –––, 2000, “Narrow versus Wide Mechanism: Including a Re-Examination of Turing’s Views on the Mind-Machine Issue”, *The Journal of Philosophy*, 97(1): 5–32. doi:10.2307/2678472
+* –––, 2002a, “Accelerating Turing Machines”, *Minds and Machines*, 12(2): 281–300. (In a special issue on the Church-Turing thesis, edited by Carol Cleland.) doi:10.1023/A:1015607401307
+* ––– (ed.), 2004, *The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life*, Oxford: Clarendon Press. doi:10.1093/oso/9780198250791.001.0001
+* Copeland, B. Jack and Zhao Fan, 2022, “Did Turing Stand on Gödel’s Shoulders?”, *The Mathematical Intelligencer*, 44: 308–319. doi:10.1007/s00283-022-10177-y
+* –––, 2023, “Turing and von Neumann: From Logic to the Computer”, *Philosophies*, 8(2): 1–30.
+* Copeland, B. Jack, Carl J. Posy, and Oron Shagrir (eds), 2013, *Computability: Turing, Gödel, Church, and Beyond*, Cambridge, MA: The MIT Press.
+* Copeland, B. Jack and Oron Shagrir, 2007, “Physical Computation: How General Are Gandy’s Principles for Mechanisms?”, *Minds and Machines*, 17(2): 217–231. doi:10.1007/s11023-007-9058-2
+* –––, 2011, “Do Accelerating Turing Machines Compute the Uncomputable?”, *Minds and Machines*, 21(2): 221–239. doi:10.1007/s11023-011-9238-y
 * –––, 2013, “Turing versus Gödel on Computability and the Mind”, in Copeland, Posy, and Shagrir 2013: 1–33 (ch. 1).
-* –––, 2019, “The Church-Turing Thesis: Logical Limit or Breachable Barrier?”, _Communications of the ACM_, 62(1): 66–74. doi:10.1145/3198448
-* –––, 2020, “Physical Computability Theories”, in _Quantum, Probability, Logic: The Work and Influence of Itamar Pitowsky_, Meir Hemmo and Orly Shenker (eds), Cham: Springer: 217–231.
-* Copeland, B. Jack, Oron Shagrir, and Mark Sprevak, 2018, “Zuse’s Thesis, Gandy’s Thesis, and Penrose’s Thesis”, in _Physical Perspectives on Computation, Computational Perspectives on Physics_, Michael E. Cuffaro and Samuel C. Fletcher (eds), Cambridge: Cambridge University Press, 39–59. doi:10.1017/9781316759745.003
-* Copeland, B. Jack and Richard Sylvan, 1999, “Beyond the Universal Turing Machine”, _Australasian Journal of Philosophy_, 77(1): 46–66. doi:10.1080/00048409912348801
-* Couturat, Louis (ed.), 1903, _Opuscules et Fragments Inédits de Leibniz_, Paris: Alcan. Facsimile of the 1903 edition, Hildesheim: G. Olms, 1961.
-* Cubitt, Toby S., David Perez-Garcia, and Michael M. Wolf, 2015, “Undecidability of the Spectral Gap”, _Nature_, 528(7581): 207–211. doi:10.1038/nature16059
-* Curry, Haskell B., 1929, “An Analysis of Logical Substitution”, _American Journal of Mathematics_, 51(3): 363–384. doi:10.2307/2370728
-* –––, 1930a, “Grundlagen der kombinatorischen Logik, Teil 1”, _American Journal of Mathematics_, 52(3): 509–536. doi:10.2307/2370619
-* –––, 1930b, “Grundlagen der kombinatorischen Logik, Teil 2”, _American Journal of Mathematics_, 52(4): 789–834. doi:10.2307/2370716
-* –––, 1932, “Some Additions to the Theory of Combinators”, _American Journal of Mathematics_, 54(3): 551–558. doi:10.2307/2370900
-* Curry, Haskell B. and Robert Feys, 1958, _Combinatory Logic_, Amsterdam: North-Holland.
-* da Costa, Newton C. A. and Francisco A. Doria, 1991, “Classical Physics and Penrose’s Thesis”, _Foundations of Physics Letters_, 4(4): 363–373. doi:10.1007/BF00665895
-* –––, 1994, “Undecidable Hopf Bifurcation with Undecidable Fixed Point”, _International Journal of Theoretical Physics_, 33(9): 1885–1903. doi:10.1007/BF00671031
-* Davies, E. Brian, 2001, “Building Infinite Machines”, _The British Journal for the Philosophy of Science_, 52(4): 671–682. doi:10.1093/bjps/52.4.671
-* Davis, Martin, 1958, _Computability and Unsolvability_, New York: McGraw-Hill.
-* ––– (ed.), 1965, _The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions_, Hewlett, NY: Raven Press.
-* –––, 1982, “Why Gödel Didn’t Have Church’s Thesis”, _Information and Control_, 54(1–2): 3–24. doi:10.1016/S0019-9958(82)91226-8
-* Davis, Martin and Wilfried Sieg, 2015, “Conceptual Confluence in 1936: Post and Turing”, in _Turing’s Revolution_, Giovanni Sommaruga and Thomas Strahm (eds), Cham: Birkhäuser, 3–27. doi:10.1007/978-3-319-22156-4\_1
-* Dawson, John W., 2006, “Gödel and the Origins of Computer Science”, in _Logical Approaches to Computational Barriers_, Arnold Beckmann, Ulrich Berger, Benedikt Löwe, and John V. Tucker (eds), (Lecture Notes in Computer Science 3988), Berlin/Heidelberg: Springer, 133–136. doi:10.1007/11780342\_14
-* Dedekind, Richard, 1888, _Was Sind und was Sollen die Zahlen?_ Braunschweig: Vieweg.
-* Dershowitz, Nachum and Yuri Gurevich, 2008, “A Natural Axiomatization of Computability and Proof of Church’s Thesis”, _Bulletin of Symbolic Logic_, 14(3): 299–350. doi:10.2178/bsl/1231081370
-* Deutsch, David, 1985, “Quantum Theory, the Church–Turing Principle and the Universal Quantum Computer”, _Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences_, 400(1818): 97–117. doi:10.1098/rspa.1985.0070
+* –––, 2019, “The Church-Turing Thesis: Logical Limit or Breachable Barrier?”, *Communications of the ACM*, 62(1): 66–74. doi:10.1145/3198448
+* –––, 2020, “Physical Computability Theories”, in *Quantum, Probability, Logic: The Work and Influence of Itamar Pitowsky*, Meir Hemmo and Orly Shenker (eds), Cham: Springer: 217–231.
+* Copeland, B. Jack, Oron Shagrir, and Mark Sprevak, 2018, “Zuse’s Thesis, Gandy’s Thesis, and Penrose’s Thesis”, in *Physical Perspectives on Computation, Computational Perspectives on Physics*, Michael E. Cuffaro and Samuel C. Fletcher (eds), Cambridge: Cambridge University Press, 39–59. doi:10.1017/9781316759745.003
+* Copeland, B. Jack and Richard Sylvan, 1999, “Beyond the Universal Turing Machine”, *Australasian Journal of Philosophy*, 77(1): 46–66. doi:10.1080/00048409912348801
+* Couturat, Louis (ed.), 1903, *Opuscules et Fragments Inédits de Leibniz*, Paris: Alcan. Facsimile of the 1903 edition, Hildesheim: G. Olms, 1961.
+* Cubitt, Toby S., David Perez-Garcia, and Michael M. Wolf, 2015, “Undecidability of the Spectral Gap”, *Nature*, 528(7581): 207–211. doi:10.1038/nature16059
+* Curry, Haskell B., 1929, “An Analysis of Logical Substitution”, *American Journal of Mathematics*, 51(3): 363–384. doi:10.2307/2370728
+* –––, 1930a, “Grundlagen der kombinatorischen Logik, Teil 1”, *American Journal of Mathematics*, 52(3): 509–536. doi:10.2307/2370619
+* –––, 1930b, “Grundlagen der kombinatorischen Logik, Teil 2”, *American Journal of Mathematics*, 52(4): 789–834. doi:10.2307/2370716
+* –––, 1932, “Some Additions to the Theory of Combinators”, *American Journal of Mathematics*, 54(3): 551–558. doi:10.2307/2370900
+* Curry, Haskell B. and Robert Feys, 1958, *Combinatory Logic*, Amsterdam: North-Holland.
+* da Costa, Newton C. A. and Francisco A. Doria, 1991, “Classical Physics and Penrose’s Thesis”, *Foundations of Physics Letters*, 4(4): 363–373. doi:10.1007/BF00665895
+* –––, 1994, “Undecidable Hopf Bifurcation with Undecidable Fixed Point”, *International Journal of Theoretical Physics*, 33(9): 1885–1903. doi:10.1007/BF00671031
+* Davies, E. Brian, 2001, “Building Infinite Machines”, *The British Journal for the Philosophy of Science*, 52(4): 671–682. doi:10.1093/bjps/52.4.671
+* Davis, Martin, 1958, *Computability and Unsolvability*, New York: McGraw-Hill.
+* ––– (ed.), 1965, *The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions*, Hewlett, NY: Raven Press.
+* –––, 1982, “Why Gödel Didn’t Have Church’s Thesis”, *Information and Control*, 54(1–2): 3–24. doi:10.1016/S0019-9958(82)91226-8
+* Davis, Martin and Wilfried Sieg, 2015, “Conceptual Confluence in 1936: Post and Turing”, in *Turing’s Revolution*, Giovanni Sommaruga and Thomas Strahm (eds), Cham: Birkhäuser, 3–27. doi:10.1007/978-3-319-22156-4\_1
+* Dawson, John W., 2006, “Gödel and the Origins of Computer Science”, in *Logical Approaches to Computational Barriers*, Arnold Beckmann, Ulrich Berger, Benedikt Löwe, and John V. Tucker (eds), (Lecture Notes in Computer Science 3988), Berlin/Heidelberg: Springer, 133–136. doi:10.1007/11780342\_14
+* Dedekind, Richard, 1888, *Was Sind und was Sollen die Zahlen?* Braunschweig: Vieweg.
+* Dershowitz, Nachum and Yuri Gurevich, 2008, “A Natural Axiomatization of Computability and Proof of Church’s Thesis”, *Bulletin of Symbolic Logic*, 14(3): 299–350. doi:10.2178/bsl/1231081370
+* Deutsch, David, 1985, “Quantum Theory, the Church–Turing Principle and the Universal Quantum Computer”, *Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences*, 400(1818): 97–117. doi:10.1098/rspa.1985.0070
 * Doyle, Jon, 1982, “What is Church’s Thesis? An Outline”, Laboratory for Computer Science, MIT.
-* –––, 2002, “What Is Church’s Thesis? An Outline”, _Minds and Machines_, 12(4): 519–520. doi:10.1023/A:1021126521437
-* Earman, John, 1986, _A Primer on Determinism_, Dordrecht: Reidel.
-* Eisert, Jens, Markus P. Müller, and Christian Gogolin, 2012, “Quantum Measurement Occurrence Is Undecidable”, _Physical Review Letters_, 108(26): 260501 (5 pages). doi:10.1103/PhysRevLett.108.260501
-* Engeler, Erwin, 1983 \[1993], _Metamathematik der Elementarmathematik_, Berlin: Springer. Translated as _Foundations of Mathematics: Questions of Analysis, Geometry & Algorithmics_, Charles B. Thomas (trans.), Berlin/New York: Springer-Verlag.
-* Etesi, Gábor and István Németi, 2002, “Non-Turing Computations via Malament-Hogarth Space-Times”, _International Journal of Theoretical Physics_, 41(2): 341–370. doi:10.1023/A:1014019225365
-* Frankena, William and Arthur W. Burks, 1964, “Cooper Harold Langford 1895–1964”, _Proceedings and Addresses of the American Philosophical Association_, 38: 99–101.
-* Gandy, Robin, 1980, “Church’s Thesis and Principles for Mechanisms”, in _The Kleene Symposium_, Jon Barwise, H. Jerome Keisler, and Kenneth Kunen (eds), Amsterdam: North-Holland, 123–148. doi:10.1016/S0049-237X(08)71257-6
-* –––, 1988, “The Confluence of Ideas in 1936”, in _The Universal Turing Machine: A Half-Century Survey_, Rolf Herken (ed.), New York: Oxford University Press, 51–102.
-* Geroch, Robert and James B. Hartle, 1986, “Computability and Physical Theories”, _Foundations of Physics_, 16(6): 533–550. doi:10.1007/BF01886519
-* Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, _Monatshefte für Mathematik und Physik_, 37: 349–360. doi:10.1007/BF01696781
-* –––, 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I”, _Monatshefte für Mathematik und Physik_, 38: 173–198. doi:10.1007/BF01700692
-* –––, 1933, “Zum Entscheidungsproblem des logischen Funktionenkalküls”, _Monatshefte für Mathematik und Physik_, 40: 433–443. doi:10.1007/BF01708881
+* –––, 2002, “What Is Church’s Thesis? An Outline”, *Minds and Machines*, 12(4): 519–520. doi:10.1023/A:1021126521437
+* Earman, John, 1986, *A Primer on Determinism*, Dordrecht: Reidel.
+* Eisert, Jens, Markus P. Müller, and Christian Gogolin, 2012, “Quantum Measurement Occurrence Is Undecidable”, *Physical Review Letters*, 108(26): 260501 (5 pages). doi:10.1103/PhysRevLett.108.260501
+* Engeler, Erwin, 1983 \[1993], *Metamathematik der Elementarmathematik*, Berlin: Springer. Translated as *Foundations of Mathematics: Questions of Analysis, Geometry & Algorithmics*, Charles B. Thomas (trans.), Berlin/New York: Springer-Verlag.
+* Etesi, Gábor and István Németi, 2002, “Non-Turing Computations via Malament-Hogarth Space-Times”, *International Journal of Theoretical Physics*, 41(2): 341–370. doi:10.1023/A:1014019225365
+* Frankena, William and Arthur W. Burks, 1964, “Cooper Harold Langford 1895–1964”, *Proceedings and Addresses of the American Philosophical Association*, 38: 99–101.
+* Gandy, Robin, 1980, “Church’s Thesis and Principles for Mechanisms”, in *The Kleene Symposium*, Jon Barwise, H. Jerome Keisler, and Kenneth Kunen (eds), Amsterdam: North-Holland, 123–148. doi:10.1016/S0049-237X(08)71257-6
+* –––, 1988, “The Confluence of Ideas in 1936”, in *The Universal Turing Machine: A Half-Century Survey*, Rolf Herken (ed.), New York: Oxford University Press, 51–102.
+* Geroch, Robert and James B. Hartle, 1986, “Computability and Physical Theories”, *Foundations of Physics*, 16(6): 533–550. doi:10.1007/BF01886519
+* Gödel, Kurt, 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik*, 37: 349–360. doi:10.1007/BF01696781
+* –––, 1931, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I”, *Monatshefte für Mathematik und Physik*, 38: 173–198. doi:10.1007/BF01700692
+* –––, 1933, “Zum Entscheidungsproblem des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik*, 40: 433–443. doi:10.1007/BF01708881
 * –––, 1934 \[1965], “On Undecidable Propositions of Formal Mathematical Systems”, Lecture notes taken by Stephen Kleene and J. Barkley Rosser at the Institute for Advanced Study, in Davis 1965: 39–74.
-* –––, 1936, “Über die Länge von Beweisen”, _Ergebnisse eirtes mathematischen Kolloquiums_, 7: 23–24.
+* –––, 1936, “Über die Länge von Beweisen”, *Ergebnisse eirtes mathematischen Kolloquiums*, 7: 23–24.
 * –––, 193?, “Undecidable Diophantine Propositions”, in Gödel 1995: 164–175.
 * –––, 1946, “Remarks Before the Princeton Bicentennial Conference”, in Gödel 1990: 150–153.
 * –––, 1951, “Some Basic Theorems on the Foundations of Mathematics and Their Implications”, in Gödel 1995: 304–323.
 * –––, 1965a, “Postscriptum” to Gödel 1934, in Davis 1965: 71–73.
 * –––, 1965b, letter to Davis, 15 February 1965. Excerpt in Davis 1982: 8.
-* –––, _Kurt Gödel: Collected Works_, 5 volumes, Solomon Feferman et al. (eds), Oxford: Clarendon Press.
-  * 1986, _Volume 1: Publications 1929–1936_
-  * 1990, _Volume 2: Publications 1938–1974_
-  * 1995, _Volume 3: Unpublished Essays and Lectures_
-* Gurevich, Yuri, 2012, “What Is an Algorithm?”, in _SOFSEM 2012: Theory and Practice of Computer Science_, Mária Bieliková, Gerhard Friedrich, Georg Gottlob, Stefan Katzenbeisser, and György Turán (eds), (Lecture Notes in Computer Science 7147), Berlin/Heidelberg: Springer, 31–42. doi:10.1007/978-3-642-27660-6\_3
-* Guttenplan, Samuel D. (ed.), 1994, _A Companion to the Philosophy of Mind_, Oxford/Cambridge, MA: Blackwell Reference. doi:10.1002/9781405164597.
-* Hardy, G. H., 1929, “Mathematical Proof”, _Mind_, 38(149): 1–25. doi:10.1093/mind/XXXVIII.149.1
-* Harel, David, 1992, _Algorithmics: The Spirit of Computing_, second edition, Reading, MA: Addison-Wesley.
-* Herbrand, Jacques, 1930a, _Recherches sur la Théorie de la Démonstration_, doctoral thesis, University of Paris. In Herbrand 1968.
-* –––, 1930b, “Les bases de la logique Hilbertienne”, _Revue de Métaphysique et de Morale_, 37(2): 243–255.
-* –––, 1931a, “Sur le Problème Fondamental de la Logique Mathématique”, _Sprawozdania z Posiedzeń Towarzystwa Naukowego Warszawskiego, Wydział III_, 24: 12–56.
-* –––, 1931b, Precis of Herbrand 1930a, _Annales de l’Université de Paris_, 6: 186–189. In Herbrand 1968.
-* –––, 1932, “Sur la non-contradiction de l’Arithmétique”, _Journal für die reine und angewandte Mathematik_, 166: 1–8. doi:10.1515/crll.1932.166.1
-* –––, 1968, _Écrits Logiques_, Paris: Presses Universitaires de France.
-* Hermes, Hans, 1969, “Ideen von Leibniz zur Grundlagenforschung: Die Ars inveniendi und die Ars iudicandi”, in _Systemprinzip und Vielheit der Wissenschaften_, Udo W. Bargenda and Jürgen Blühdorn (eds), Wiesbaden: Franz Steiner: 78–88.
-* Hilbert, David, 1899, _Grundlagen der Geometrie_, Leipzig: Teubner.
-* –––, 1900 \[1902], “Mathematische Probleme”, _Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse_, 3: 253–297. Translated in 1902 as “Mathematical Problems”, Mary Winston Newson (trans.), _Bulletin of the American Mathematical Society_, 8(10): 437–480. doi:10.1090/S0002-9904-1902-00923-3
-* –––, 1917, “Axiomatisches Denken”, _Mathematische Annalen_, 78(1–4): 405–415. doi:10.1007/BF01457115
-* –––, 1922, “Neubegründung der Mathematik. Erste Mitteilung”, _Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg_, 1: 157–177. doi:10.1007/BF02940589
-* –––, 1926 \[1967], “Über das Unendliche”, _Mathematische Annalen_, 95(1): 161–190. Translated as “On the Infinite” in van Heijenoort 1967: 367–392. doi:10.1007/BF01206605
-* –––, 1930a, “Probleme der Grundlegung der Mathematik”, _Mathematische Annalen_, 102(1): 1–9. doi:10.1007/BF01782335
-* –––, 1930b, “Naturerkennen und Logik”, _Die Naturwissenschaften_, 18(47–49): 959–963. doi:10.1007/BF01492194
-* Hilbert, David and Wilhelm Ackermann, 1928, _Grundzüge der Theoretischen Logik_, Berlin: Springer.
-* –––, 1938, _Grundzüge der Theoretischen Logik_, Berlin: Springer. Second edition.
-* Hilbert, David and Paul Bernays, 1934, _Grundlagen der Mathematik_, Volume 1, Berlin: Springer.
-* –––, 1939, _Grundlagen der Mathematik_, Volume 2, Berlin: Springer.
-* Hobbes, Thomas, 1655 \[1839], _De Corpore_, in _Thomæ Hobbes Malmesburiensis: Opera Philosophica_ (Volume 1), William Molesworth (ed.), London: J. Bohn, 1839.
-* Hogarth, Mark, 1994, “Non-Turing Computers and Non-Turing Computability”, _PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association_, 1994(1): 126–138. doi:10.1086/psaprocbienmeetp.1994.1.193018
-* –––, 2004, “Deciding Arithmetic Using _SAD_ Computers”, _The British Journal for the Philosophy of Science_, 55(4): 681–691. doi:10.1093/bjps/55.4.681
-* Hopcroft, John E. and Jeffrey D. Ullman, 1979, _Introduction to Automata Theory, Languages, and Computation_, Reading, MA: Addison-Wesley.
-* Houser, Nathan, Don D. Roberts, and James Van Evra (eds), 1997, _Studies in the Logic of Charles Sanders Peirce_, Bloomington, IN: Indiana University Press.
-* Jevons, W. Stanley, 1870, “On the Mechanical Performance of Logical Inference”, _Philosophical Transactions of the Royal Society of London_, 160: 497–518. doi:10.1098/rstl.1870.0022
+* –––, *Kurt Gödel: Collected Works*, 5 volumes, Solomon Feferman et al. (eds), Oxford: Clarendon Press.
+  * 1986, *Volume 1: Publications 1929–1936*
+  * 1990, *Volume 2: Publications 1938–1974*
+  * 1995, *Volume 3: Unpublished Essays and Lectures*
+* Gurevich, Yuri, 2012, “What Is an Algorithm?”, in *SOFSEM 2012: Theory and Practice of Computer Science*, Mária Bieliková, Gerhard Friedrich, Georg Gottlob, Stefan Katzenbeisser, and György Turán (eds), (Lecture Notes in Computer Science 7147), Berlin/Heidelberg: Springer, 31–42. doi:10.1007/978-3-642-27660-6\_3
+* Guttenplan, Samuel D. (ed.), 1994, *A Companion to the Philosophy of Mind*, Oxford/Cambridge, MA: Blackwell Reference. doi:10.1002/9781405164597.
+* Hardy, G. H., 1929, “Mathematical Proof”, *Mind*, 38(149): 1–25. doi:10.1093/mind/XXXVIII.149.1
+* Harel, David, 1992, *Algorithmics: The Spirit of Computing*, second edition, Reading, MA: Addison-Wesley.
+* Herbrand, Jacques, 1930a, *Recherches sur la Théorie de la Démonstration*, doctoral thesis, University of Paris. In Herbrand 1968.
+* –––, 1930b, “Les bases de la logique Hilbertienne”, *Revue de Métaphysique et de Morale*, 37(2): 243–255.
+* –––, 1931a, “Sur le Problème Fondamental de la Logique Mathématique”, *Sprawozdania z Posiedzeń Towarzystwa Naukowego Warszawskiego, Wydział III*, 24: 12–56.
+* –––, 1931b, Precis of Herbrand 1930a, *Annales de l’Université de Paris*, 6: 186–189. In Herbrand 1968.
+* –––, 1932, “Sur la non-contradiction de l’Arithmétique”, *Journal für die reine und angewandte Mathematik*, 166: 1–8. doi:10.1515/crll.1932.166.1
+* –––, 1968, *Écrits Logiques*, Paris: Presses Universitaires de France.
+* Hermes, Hans, 1969, “Ideen von Leibniz zur Grundlagenforschung: Die Ars inveniendi und die Ars iudicandi”, in *Systemprinzip und Vielheit der Wissenschaften*, Udo W. Bargenda and Jürgen Blühdorn (eds), Wiesbaden: Franz Steiner: 78–88.
+* Hilbert, David, 1899, *Grundlagen der Geometrie*, Leipzig: Teubner.
+* –––, 1900 \[1902], “Mathematische Probleme”, *Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen, Mathematisch-Physikalische Klasse*, 3: 253–297. Translated in 1902 as “Mathematical Problems”, Mary Winston Newson (trans.), *Bulletin of the American Mathematical Society*, 8(10): 437–480. doi:10.1090/S0002-9904-1902-00923-3
+* –––, 1917, “Axiomatisches Denken”, *Mathematische Annalen*, 78(1–4): 405–415. doi:10.1007/BF01457115
+* –––, 1922, “Neubegründung der Mathematik. Erste Mitteilung”, *Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg*, 1: 157–177. doi:10.1007/BF02940589
+* –––, 1926 \[1967], “Über das Unendliche”, *Mathematische Annalen*, 95(1): 161–190. Translated as “On the Infinite” in van Heijenoort 1967: 367–392. doi:10.1007/BF01206605
+* –––, 1930a, “Probleme der Grundlegung der Mathematik”, *Mathematische Annalen*, 102(1): 1–9. doi:10.1007/BF01782335
+* –––, 1930b, “Naturerkennen und Logik”, *Die Naturwissenschaften*, 18(47–49): 959–963. doi:10.1007/BF01492194
+* Hilbert, David and Wilhelm Ackermann, 1928, *Grundzüge der Theoretischen Logik*, Berlin: Springer.
+* –––, 1938, *Grundzüge der Theoretischen Logik*, Berlin: Springer. Second edition.
+* Hilbert, David and Paul Bernays, 1934, *Grundlagen der Mathematik*, Volume 1, Berlin: Springer.
+* –––, 1939, *Grundlagen der Mathematik*, Volume 2, Berlin: Springer.
+* Hobbes, Thomas, 1655 \[1839], *De Corpore*, in *Thomæ Hobbes Malmesburiensis: Opera Philosophica* (Volume 1), William Molesworth (ed.), London: J. Bohn, 1839.
+* Hogarth, Mark, 1994, “Non-Turing Computers and Non-Turing Computability”, *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1994(1): 126–138. doi:10.1086/psaprocbienmeetp.1994.1.193018
+* –––, 2004, “Deciding Arithmetic Using *SAD* Computers”, *The British Journal for the Philosophy of Science*, 55(4): 681–691. doi:10.1093/bjps/55.4.681
+* Hopcroft, John E. and Jeffrey D. Ullman, 1979, *Introduction to Automata Theory, Languages, and Computation*, Reading, MA: Addison-Wesley.
+* Houser, Nathan, Don D. Roberts, and James Van Evra (eds), 1997, *Studies in the Logic of Charles Sanders Peirce*, Bloomington, IN: Indiana University Press.
+* Jevons, W. Stanley, 1870, “On the Mechanical Performance of Logical Inference”, *Philosophical Transactions of the Royal Society of London*, 160: 497–518. doi:10.1098/rstl.1870.0022
 * –––, 1880, letter to Venn, 18 August 1880, Venn Collection, Gonville and Caius College, Cambridge, C 45/4 (quoted by permission of the Master and Fellows of Gonville and Caius).
-* Kalmár, László, 1959, “An Argument Against the Plausibility of Church’s Thesis”, in _Constructivity in Mathematics: Proceedings of the colloquium held at Amsterdam 1957_, Arend Heyting (ed.), Amsterdam: North-Holland: 72–80.
-* Kennedy, Juliette, 2013, “On Formalism Freeness: Implementing Gödel’s 1946 Princeton Bicentennial Lecture”, _Bulletin of Symbolic Logic_, 19(3): 351–393. doi:10.1017/S1079898600010684
-* Ketner, Kenneth L. and Arthur F. Stewart, 1984, “The Early History of Computer Design: Charles Sanders Peirce and Marquand’s Logical Machines”, _The Princeton University Library Chronicle_, 45(3): 187–224. doi:10.2307/26402393
-* Kieu, Tien D., 2004, “Hypercomputation with Quantum Adiabatic Processes”, _Theoretical Computer Science_, 317(1–3): 93–104. doi:10.1016/j.tcs.2003.12.006
-* Kleene, Stephen C., 1934, “Proof by Cases in Formal Logic”, _Annals of Mathematics_, second series 35(3): 529–544. doi:10.2307/1968749
-* –––, 1935a, “A Theory of Positive Integers in Formal Logic. Part I”, _American Journal of Mathematics_, 57(1): 153–173. doi:10.2307/2372027
-* –––, 1935b, “A Theory of Positive Integers in Formal Logic. Part II”, _American Journal of Mathematics_, 57(2): 219–244. doi:10.2307/2371199
-* –––, 1936a, “General Recursive Functions of Natural Numbers”, _Mathematische Annalen_, 112(1): 727–742. doi:10.1007/BF01565439
-* –––, 1936b, “λ-Definability and Recursiveness”, _Duke Mathematical Journal_, 2(2): 340–353. doi:10.1215/S0012-7094-36-00227-2
-* –––, 1952, _Introduction to Metamathematics_, Amsterdam: North-Holland.
-* –––, 1967, _Mathematical Logic_, New York: Wiley.
-* –––, 1981, “Origins of Recursive Function Theory”, _IEEE Annals of the History of Computing_, 3(1): 52–67. doi:10.1109/MAHC.1981.10004
-* –––, 1986, “Introductory Note to _1930b_, _1931_ and _1932b_”, in Gödel 1986: 126–141.
-* –––, 1987, “Reflections on Church’s Thesis”, _Notre Dame Journal of Formal Logic_, 28(4): 490–498. doi:10.1305/ndjfl/1093637645
-* Kleene, Stephen C. and J. Barkley Rosser, 1935, “The Inconsistency of Certain Formal Logics”, _Annals of Mathematics_, second series 36(3): 630–636. doi:10.2307/1968646
-* Kreisel, Georg, 1965, “Mathematical Logic”, in _Lectures on Modern Mathematics, Volume 3_, Thomas L. Saaty (ed.), New York: Wiley, 95–195.
-* –––, 1967, “Mathematical Logic: What Has it Done For the Philosophy of Mathematics?”, in _Bertrand Russell: Philosopher of the Century_, Ralph Schoenman (ed.), London: George Allen and Unwin: 201–272.
-* –––, 1974, “A Notion of Mechanistic Theory”, _Synthese_, 29(1–4): 11–26. doi:10.1007/BF00484949
-* –––, 1982, Review of Pour-El and Richards 1979 and 1981, _The Journal of Symbolic Logic_, 47(4): 900–902. doi:10.2307/2273108
+* Kalmár, László, 1959, “An Argument Against the Plausibility of Church’s Thesis”, in *Constructivity in Mathematics: Proceedings of the colloquium held at Amsterdam 1957*, Arend Heyting (ed.), Amsterdam: North-Holland: 72–80.
+* Kennedy, Juliette, 2013, “On Formalism Freeness: Implementing Gödel’s 1946 Princeton Bicentennial Lecture”, *Bulletin of Symbolic Logic*, 19(3): 351–393. doi:10.1017/S1079898600010684
+* Ketner, Kenneth L. and Arthur F. Stewart, 1984, “The Early History of Computer Design: Charles Sanders Peirce and Marquand’s Logical Machines”, *The Princeton University Library Chronicle*, 45(3): 187–224. doi:10.2307/26402393
+* Kieu, Tien D., 2004, “Hypercomputation with Quantum Adiabatic Processes”, *Theoretical Computer Science*, 317(1–3): 93–104. doi:10.1016/j.tcs.2003.12.006
+* Kleene, Stephen C., 1934, “Proof by Cases in Formal Logic”, *Annals of Mathematics*, second series 35(3): 529–544. doi:10.2307/1968749
+* –––, 1935a, “A Theory of Positive Integers in Formal Logic. Part I”, *American Journal of Mathematics*, 57(1): 153–173. doi:10.2307/2372027
+* –––, 1935b, “A Theory of Positive Integers in Formal Logic. Part II”, *American Journal of Mathematics*, 57(2): 219–244. doi:10.2307/2371199
+* –––, 1936a, “General Recursive Functions of Natural Numbers”, *Mathematische Annalen*, 112(1): 727–742. doi:10.1007/BF01565439
+* –––, 1936b, “λ-Definability and Recursiveness”, *Duke Mathematical Journal*, 2(2): 340–353. doi:10.1215/S0012-7094-36-00227-2
+* –––, 1952, *Introduction to Metamathematics*, Amsterdam: North-Holland.
+* –––, 1967, *Mathematical Logic*, New York: Wiley.
+* –––, 1981, “Origins of Recursive Function Theory”, *IEEE Annals of the History of Computing*, 3(1): 52–67. doi:10.1109/MAHC.1981.10004
+* –––, 1986, “Introductory Note to *1930b*, *1931* and *1932b*”, in Gödel 1986: 126–141.
+* –––, 1987, “Reflections on Church’s Thesis”, *Notre Dame Journal of Formal Logic*, 28(4): 490–498. doi:10.1305/ndjfl/1093637645
+* Kleene, Stephen C. and J. Barkley Rosser, 1935, “The Inconsistency of Certain Formal Logics”, *Annals of Mathematics*, second series 36(3): 630–636. doi:10.2307/1968646
+* Kreisel, Georg, 1965, “Mathematical Logic”, in *Lectures on Modern Mathematics, Volume 3*, Thomas L. Saaty (ed.), New York: Wiley, 95–195.
+* –––, 1967, “Mathematical Logic: What Has it Done For the Philosophy of Mathematics?”, in *Bertrand Russell: Philosopher of the Century*, Ralph Schoenman (ed.), London: George Allen and Unwin: 201–272.
+* –––, 1974, “A Notion of Mechanistic Theory”, *Synthese*, 29(1–4): 11–26. doi:10.1007/BF00484949
+* –––, 1982, Review of Pour-El and Richards 1979 and 1981, *The Journal of Symbolic Logic*, 47(4): 900–902. doi:10.2307/2273108
 * Kripke, Saul A., 2013, “The Church-Turing ‘Thesis’ as a Special Corollary of Gödel’s Completeness Theorem”, in Copeland, Posy, and Shagrir 2013: 77–104 (ch. 4).
-* Langford, C. Harold, 1926a, “Some Theorems on Deducibility”, _Annals of Mathematics_, second series 28(1/4): 16–40. doi:10.2307/1968352
-* –––, 1926b, “Analytic Completeness of Sets of Postulates”, _Proceedings of the London Mathematical Society_, second series 25: 115–142. doi:10.1112/plms/s2-25.1.115
-* –––, 1927, “Theorems on Deducibility (Second Paper)”, _Annals of Mathematics_, second series 28(1/4): 459–471. doi:10.2307/1968390
-* Langton, Christopher G., 1989, “Artificial Life”, in _Artificial Life: The Proceedings of An Interdisciplinary Workshop on the Synthesis and Simulation of Living Systems, Held September, 1987 in Los Alamos, New Mexico_, Christopher G. Langton (ed.), Redwood City, CA: Addison-Wesley, 1–47.
-* Leibniz, Gottfried Wilhelm, 1666 \[2020], _Dissertatio de Arte Combinatoria_, Leipzig. Translated in _Leibniz: Dissertation on Combinatorial Art_, Massimo Mugnai, Han van Ruler, and Martin Wilson (eds), Oxford: Oxford University Press, 2020.
-* –––, 1671 \[1926], letter to Herzog, October(?) 1671, in Erich Hochstetter, Willy Kabitz and Paul Ritter (eds), _Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe,_ second series: _Philosophischer Briefwechsel_ (Volume 1), _1663–1685_, Darmstadt: O. Reichl, 1926: 159–165 (facsimile of the 1926 edition, Hildesheim: G. Olms, 1972).
+* Langford, C. Harold, 1926a, “Some Theorems on Deducibility”, *Annals of Mathematics*, second series 28(1/4): 16–40. doi:10.2307/1968352
+* –––, 1926b, “Analytic Completeness of Sets of Postulates”, *Proceedings of the London Mathematical Society*, second series 25: 115–142. doi:10.1112/plms/s2-25.1.115
+* –––, 1927, “Theorems on Deducibility (Second Paper)”, *Annals of Mathematics*, second series 28(1/4): 459–471. doi:10.2307/1968390
+* Langton, Christopher G., 1989, “Artificial Life”, in *Artificial Life: The Proceedings of An Interdisciplinary Workshop on the Synthesis and Simulation of Living Systems, Held September, 1987 in Los Alamos, New Mexico*, Christopher G. Langton (ed.), Redwood City, CA: Addison-Wesley, 1–47.
+* Leibniz, Gottfried Wilhelm, 1666 \[2020], *Dissertatio de Arte Combinatoria*, Leipzig. Translated in *Leibniz: Dissertation on Combinatorial Art*, Massimo Mugnai, Han van Ruler, and Martin Wilson (eds), Oxford: Oxford University Press, 2020.
+* –––, 1671 \[1926], letter to Herzog, October(?) 1671, in Erich Hochstetter, Willy Kabitz and Paul Ritter (eds), *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe,* second series: *Philosophischer Briefwechsel* (Volume 1), *1663–1685*, Darmstadt: O. Reichl, 1926: 159–165 (facsimile of the 1926 edition, Hildesheim: G. Olms, 1972).
 * –––, 1679 \[1903], “Consilium de Encyclopaedia Nova Conscribenda Methodo Inventoria”, in Couturat 1903: 30–41.
-* –––, 1685 \[1951], “L’Art d’Inventer”, in Couturat 1903. Translated as “The Art of Discovery” in Philip P. Wiener (ed.),_Leibniz Selections_, New York: Scribner, 1951: 50–58.
-* –––, 1710, “_Brevis descriptio machinae arithmeticae, cum figura_”, in _Miscellanea Berolinensia ad incrementum scientiarum_, pp. 317–19 (and Fig. 73), Berlin: Johann Christoph Papenius.
-* –––, 1714 \[1969], letter to Remond, 10 January 1714, in Leroy E. Loemker (ed.), _Gottfried Wilhelm Leibniz: Philosophical Papers and Letters_, second edition, Dordrecht: Reidel, 1969: 654–655.
+* –––, 1685 \[1951], “L’Art d’Inventer”, in Couturat 1903. Translated as “The Art of Discovery” in Philip P. Wiener (ed.),*Leibniz Selections*, New York: Scribner, 1951: 50–58.
+* –––, 1710, “*Brevis descriptio machinae arithmeticae, cum figura*”, in *Miscellanea Berolinensia ad incrementum scientiarum*, pp. 317–19 (and Fig. 73), Berlin: Johann Christoph Papenius.
+* –––, 1714 \[1969], letter to Remond, 10 January 1714, in Leroy E. Loemker (ed.), *Gottfried Wilhelm Leibniz: Philosophical Papers and Letters*, second edition, Dordrecht: Reidel, 1969: 654–655.
 * –––, \*n.d.\*1 \[1903], “De Machina Combinatoria”, in Couturat 1903: 572.
-* –––, \*n.d.\*2 \[1890], “Discours touchant la methode de la certitude et l’art d’inventer pour finir les disputes et pour faire en peu de temps des grands progrés”, in Carl J. Gerhardt (ed.), _Die philosophischen Schriften von Gottfried Wilhelm Leibniz_ (Volume 7), Berlin, 1890: 174–183 (facsimile of the 1890 edition, Hildesheim: G. Olms, 1965).
-* Lewis, Harry R. and Christos H. Papadimitriou, 1981, _Elements of the Theory of Computation_, Englewood Cliffs, NJ: Prentice-Hall.
-* Llull, Ramon, 1645 \[1970], _Ars Generalis Ultima_, Palma Malorca, facsimile of the 1645 edition, Frankfurt: Minerva, 1970.
-* –––, 1986, _Poesies_, Josep Romeu i Figueras (ed.), Barcelona: Enciclopèdia Catalana.
-* Löwenheim, Leopold, 1915, “Über Möglichkeiten im Relativkalkül”, _Mathematische Annalen_, 76(4): 447–470. doi:10.1007/BF01458217
-* MacLennan, Bruce J., 2003, “Transcending Turing Computability”, _Minds and Machines_, 13(1): 3–22. doi:10.1023/A:1021397712328
-* Mancosu, Paolo and Richard Zach, 2015, “Heinrich Behmann’s 1921 Lecture on the Decision Problem and the Algebra of Logic”, _Bulletin of Symbolic Logic_, 21(2): 164–187. doi:10.1017/bsl.2015.10
-* Markov, Andrey A., 1951, “Теория Алгорифмов”, _Trudy Matematicheskogo Instituta imeni V. A. Steklova_, 38: 176–189. Translation by Edwin Hewitt, 1960, “The Theory of Algorithms”, _American Mathematical Society Translations_, Series 2, 15: 1–14.
-* Marquand, Allan, 1881, “On Logical Diagrams for _n_ Terms”, _The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science_, fifth series, 12(75): 266–270. doi:10.1080/14786448108627104
-* –––, 1883, “A Machine for Producing Syllogistic Variations”, in _Studies in Logic_, Charles S. Peirce (ed.), Boston: Little, Brown, 12–15. doi:10.1037/12811-002
-* –––, 1885, “A New Logical Machine”, _Proceedings of the American Academy of Arts and Sciences_, 21: 303–307.
-* Massey, Gerald J., 1966, “An Extension of Venn Diagrams”, _Notre Dame Journal of Formal Logic_, 7(3): 239–250. doi:10.1305/ndjfl/1093958619
-* Mays, Wolfe and Desmond P. Henry, 1951, “Logical Machines: New Light on W. Stanley Jevons”, _Manchester Guardian_, no. 32677 (14 July 1951) B, 4.
-* –––, 1953, “Jevons and Logic”, _Mind_, 62(248): 484–505. doi:10.1093/mind/LXII.248.484
-* Mays, W. and Dietrich G. Prinz, 1950, “A Relay Machine for the Demonstration of Symbolic Logic”, _Nature_, 165(4188): 197–198. doi:10.1038/165197a0
-* Mendelson, Elliott, 1963, “On Some Recent Criticism of Church’s Thesis.”, _Notre Dame Journal of Formal Logic_, 4(3): 201–205. doi:10.1305/ndjfl/1093957577
-* –––, 1964, _Introduction to Mathematical Logic_, Princeton, NJ: Van Nostrand.
-* –––, 1990, “Second Thoughts about Church’s Thesis and Mathematical Proofs”, _The Journal of Philosophy_, 87(5): 225–233. doi:10.2307/2026831
-* Montague, Richard, 1960, “Towards a General Theory of Computability”, _Synthese_, 12(4): 429–438. doi:10.1007/BF00485427
-* Németi, István and Gyula Dávid, 2006, “Relativistic Computers and the Turing Barrier”, _Applied Mathematics and Computation_, 178(1): 118–142. doi:10.1016/j.amc.2005.09.075
-* Newell, Allen, 1980, “Physical Symbol Systems”, _Cognitive Science_, 4(2): 135–183. doi:10.1207/s15516709cog0402\_2
+* –––, \*n.d.\*2 \[1890], “Discours touchant la methode de la certitude et l’art d’inventer pour finir les disputes et pour faire en peu de temps des grands progrés”, in Carl J. Gerhardt (ed.), *Die philosophischen Schriften von Gottfried Wilhelm Leibniz* (Volume 7), Berlin, 1890: 174–183 (facsimile of the 1890 edition, Hildesheim: G. Olms, 1965).
+* Lewis, Harry R. and Christos H. Papadimitriou, 1981, *Elements of the Theory of Computation*, Englewood Cliffs, NJ: Prentice-Hall.
+* Llull, Ramon, 1645 \[1970], *Ars Generalis Ultima*, Palma Malorca, facsimile of the 1645 edition, Frankfurt: Minerva, 1970.
+* –––, 1986, *Poesies*, Josep Romeu i Figueras (ed.), Barcelona: Enciclopèdia Catalana.
+* Löwenheim, Leopold, 1915, “Über Möglichkeiten im Relativkalkül”, *Mathematische Annalen*, 76(4): 447–470. doi:10.1007/BF01458217
+* MacLennan, Bruce J., 2003, “Transcending Turing Computability”, *Minds and Machines*, 13(1): 3–22. doi:10.1023/A:1021397712328
+* Mancosu, Paolo and Richard Zach, 2015, “Heinrich Behmann’s 1921 Lecture on the Decision Problem and the Algebra of Logic”, *Bulletin of Symbolic Logic*, 21(2): 164–187. doi:10.1017/bsl.2015.10
+* Markov, Andrey A., 1951, “Теория Алгорифмов”, *Trudy Matematicheskogo Instituta imeni V. A. Steklova*, 38: 176–189. Translation by Edwin Hewitt, 1960, “The Theory of Algorithms”, *American Mathematical Society Translations*, Series 2, 15: 1–14.
+* Marquand, Allan, 1881, “On Logical Diagrams for *n* Terms”, *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, fifth series, 12(75): 266–270. doi:10.1080/14786448108627104
+* –––, 1883, “A Machine for Producing Syllogistic Variations”, in *Studies in Logic*, Charles S. Peirce (ed.), Boston: Little, Brown, 12–15. doi:10.1037/12811-002
+* –––, 1885, “A New Logical Machine”, *Proceedings of the American Academy of Arts and Sciences*, 21: 303–307.
+* Massey, Gerald J., 1966, “An Extension of Venn Diagrams”, *Notre Dame Journal of Formal Logic*, 7(3): 239–250. doi:10.1305/ndjfl/1093958619
+* Mays, Wolfe and Desmond P. Henry, 1951, “Logical Machines: New Light on W. Stanley Jevons”, *Manchester Guardian*, no. 32677 (14 July 1951) B, 4.
+* –––, 1953, “Jevons and Logic”, *Mind*, 62(248): 484–505. doi:10.1093/mind/LXII.248.484
+* Mays, W. and Dietrich G. Prinz, 1950, “A Relay Machine for the Demonstration of Symbolic Logic”, *Nature*, 165(4188): 197–198. doi:10.1038/165197a0
+* Mendelson, Elliott, 1963, “On Some Recent Criticism of Church’s Thesis.”, *Notre Dame Journal of Formal Logic*, 4(3): 201–205. doi:10.1305/ndjfl/1093957577
+* –––, 1964, *Introduction to Mathematical Logic*, Princeton, NJ: Van Nostrand.
+* –––, 1990, “Second Thoughts about Church’s Thesis and Mathematical Proofs”, *The Journal of Philosophy*, 87(5): 225–233. doi:10.2307/2026831
+* Montague, Richard, 1960, “Towards a General Theory of Computability”, *Synthese*, 12(4): 429–438. doi:10.1007/BF00485427
+* Németi, István and Gyula Dávid, 2006, “Relativistic Computers and the Turing Barrier”, *Applied Mathematics and Computation*, 178(1): 118–142. doi:10.1016/j.amc.2005.09.075
+* Newell, Allen, 1980, “Physical Symbol Systems”, *Cognitive Science*, 4(2): 135–183. doi:10.1207/s15516709cog0402\_2
 * Newman, Maxwell H.A., 1923, “The Foundations of Mathematics from the Standpoint of Physics”, fellowship dissertation, in the Records of St John’s College, Cambridge, SJCR/SJAC/2/1/5/1 (quoted by permission of the Master and Fellows of St John’s).
-* –––, 1955, “Alan Mathison Turing, 1912–1954”, _Biographical Memoirs of Fellows of the Royal Society_, 1(November): 253–263. doi:10.1098/rsbm.1955.0019
-* –––, _c_1977, Newman in interview with Christopher Evans, _n.d._, “The Pioneers of Computing: An Oral History of Computing”, London: Science Museum; transcription by Copeland in Copeland 2004: 206.
-* Olszewski, Adam, Jan Woleński, and Robert Janusz (eds), 2006, _Church’s Thesis after 70 Years_, Frankfurt/New Brunswick, NJ: Ontos. doi:10.1515/9783110325461
+* –––, 1955, “Alan Mathison Turing, 1912–1954”, *Biographical Memoirs of Fellows of the Royal Society*, 1(November): 253–263. doi:10.1098/rsbm.1955.0019
+* –––, _c_1977, Newman in interview with Christopher Evans, *n.d.*, “The Pioneers of Computing: An Oral History of Computing”, London: Science Museum; transcription by Copeland in Copeland 2004: 206.
+* Olszewski, Adam, Jan Woleński, and Robert Janusz (eds), 2006, *Church’s Thesis after 70 Years*, Frankfurt/New Brunswick, NJ: Ontos. doi:10.1515/9783110325461
 * Peirce, Charles S., 1886, letter to Marquand, 30 December 1886, in Peirce 1993: item 58, pp. 422–424.
-* –––, 1887, “Logical Machines”, _The American Journal of Psychology_, 1(1): 165–170.
+* –––, 1887, “Logical Machines”, *The American Journal of Psychology*, 1(1): 165–170.
 * –––, 1903a, “The 1903 Lowell Institute Lectures I–V”, in Peirce 2021: 137–310.
 * –––, 1903b, R S32, draft of last part of the 2nd Lowell Lecture, in Peirce 2021.
 * –––, 1903c, R 462, 2nd draft of the 3rd Lowell Lecture, in Peirce 2021.
 * –––, 1903d, R 464, 3rd draft of the 3rd Lowell Lecture, in Peirce 2021.
-* –––, _n.d._, R 831, untitled, Charles S. Peirce Papers, Houghton Library, Harvard.
-* –––, 1908, “Some Amazing Mazes (conclusion)”, _Monist_, 18(3): 416–464. doi:10.5840/monist190818326
-* –––, 1993, _Writings of Charles S. Peirce: A Chronological Edition, Volume 5: 1884–1886_, Christian J.W. Kloesel (ed.), Bloomington, IN: Indiana University Press.
-* –––, 2021, _Charles S. Peirce: Logic of the Future, Writings on the Existential Graphs, Volume 2/2: The 1903 Lowell Lectures_, Ahti-Veikko Pietarinen (ed.), Berlin: de Gruyter.
-* Penrose, Roger, 1994, _Shadows of the Mind: A Search for the Missing Science of Consciousness_, Oxford/New York: Oxford University Press.
-* –––, 2011, “Gödel, the Mind, and the Laws of Physics”, in _Kurt Gödel and the Foundations of Mathematics_, Matthias Baaz, Christos H. Papadimitriou, Hilary W. Putnam, Dana S. Scott, and Charles L. Harper, Jr (eds), Cambridge: Cambridge University Press, 339–358. doi:10.1017/CBO9780511974236.019
-* –––, 2016, “On Attempting to Model the Mathematical Mind”, in _The Once and Future Turing: Computing the World_, S. Barry Cooper and Andrew Hodges (eds), Cambridge: Cambridge University Press, 361–378. doi:10.1017/CBO9780511863196.022
-* Péter, Rózsa, 1935, “Über den Zusammenhang der verschiedenen Begriffe der rekursiven Funktion”, _Mathematische Annalen_, 110(1): 612–632. doi:10.1007/BF01448046
-* Pitowski, Itamar, 1990, “The Physical Church Thesis and Physical Computational Complexity”, _Iyyun_, 39: 81–99.
-* Post, Emil L., 1936, “Finite Combinatory Processes—Formulation 1”, _The Journal of Symbolic Logic_, 1(3): 103–105. doi:10.2307/2269031
-* –––, 1943, “Formal Reductions of the General Combinatorial Decision Problem”, _American Journal of Mathematics_, 65(2): 197–215. doi:10.2307/2371809
-* –––, 1946, “A Variant of a Recursively Unsolvable Problem”, _Bulletin of the American Mathematical Society_, 52(4): 264–268. doi:10.1090/S0002-9904-1946-08555-9
+* –––, *n.d.*, R 831, untitled, Charles S. Peirce Papers, Houghton Library, Harvard.
+* –––, 1908, “Some Amazing Mazes (conclusion)”, *Monist*, 18(3): 416–464. doi:10.5840/monist190818326
+* –––, 1993, *Writings of Charles S. Peirce: A Chronological Edition, Volume 5: 1884–1886*, Christian J.W. Kloesel (ed.), Bloomington, IN: Indiana University Press.
+* –––, 2021, *Charles S. Peirce: Logic of the Future, Writings on the Existential Graphs, Volume 2/2: The 1903 Lowell Lectures*, Ahti-Veikko Pietarinen (ed.), Berlin: de Gruyter.
+* Penrose, Roger, 1994, *Shadows of the Mind: A Search for the Missing Science of Consciousness*, Oxford/New York: Oxford University Press.
+* –––, 2011, “Gödel, the Mind, and the Laws of Physics”, in *Kurt Gödel and the Foundations of Mathematics*, Matthias Baaz, Christos H. Papadimitriou, Hilary W. Putnam, Dana S. Scott, and Charles L. Harper, Jr (eds), Cambridge: Cambridge University Press, 339–358. doi:10.1017/CBO9780511974236.019
+* –––, 2016, “On Attempting to Model the Mathematical Mind”, in *The Once and Future Turing: Computing the World*, S. Barry Cooper and Andrew Hodges (eds), Cambridge: Cambridge University Press, 361–378. doi:10.1017/CBO9780511863196.022
+* Péter, Rózsa, 1935, “Über den Zusammenhang der verschiedenen Begriffe der rekursiven Funktion”, *Mathematische Annalen*, 110(1): 612–632. doi:10.1007/BF01448046
+* Pitowski, Itamar, 1990, “The Physical Church Thesis and Physical Computational Complexity”, *Iyyun*, 39: 81–99.
+* Post, Emil L., 1936, “Finite Combinatory Processes—Formulation 1”, *The Journal of Symbolic Logic*, 1(3): 103–105. doi:10.2307/2269031
+* –––, 1943, “Formal Reductions of the General Combinatorial Decision Problem”, *American Journal of Mathematics*, 65(2): 197–215. doi:10.2307/2371809
+* –––, 1946, “A Variant of a Recursively Unsolvable Problem”, *Bulletin of the American Mathematical Society*, 52(4): 264–268. doi:10.1090/S0002-9904-1946-08555-9
 * –––, 1965, “Absolutely Unsolvable Problems and Relatively Undecidable Propositions—Account of an Anticipation”, in Davis 1965: 340–433.
-* Pour-El, Marian Boykan and Ian Richards, 1979, “A Computable Ordinary Differential Equation Which Possesses No Computable Solution”, _Annals of Mathematical Logic_, 17(1–2): 61–90. doi:10.1016/0003-4843(79)90021-4
-* –––, 1981, “The Wave Equation with Computable Initial Data Such That Its Unique Solution Is Not Computable”, _Advances in Mathematics_, 39(3): 215–239. doi:10.1016/0001-8708(81)90001-3
-* –––, 1989, _Computability in Analysis and Physics_, Berlin: Springer. \[[Pour-El and Richards 1989 available online](https://projecteuclid.org/eBooks/perspectives-in-logic/Computability-in-Analysis-and-Physics/toc/pl/1235422916)]
-* Quine, Willard Van Orman, 1950, _Methods of Logic_, New York: Holt.
-* –––, 1951, _Mathematical Logic_, revised edition, Cambridge, MA: Harvard University Press.
-* Rabin, Michael O. and Dana S. Scott, 1959, “Finite Automata and Their Decision Problems”, _IBM Journal of Research and Development_, 3(2): 114–125. doi:10.1147/rd.32.0114
-* Ramsey, Frank P., 1930, “On a Problem of Formal Logic”, _Proceedings of the London Mathematical Society_, second series 30(1): 264–286. doi:10.1112/plms/s2-30.1.264
-* Roberts, Don D., 1973, _The Existential Graphs of Charles S. Peirce_, Hague: Mouton.
+* Pour-El, Marian Boykan and Ian Richards, 1979, “A Computable Ordinary Differential Equation Which Possesses No Computable Solution”, *Annals of Mathematical Logic*, 17(1–2): 61–90. doi:10.1016/0003-4843(79)90021-4
+* –––, 1981, “The Wave Equation with Computable Initial Data Such That Its Unique Solution Is Not Computable”, *Advances in Mathematics*, 39(3): 215–239. doi:10.1016/0001-8708(81)90001-3
+* –––, 1989, *Computability in Analysis and Physics*, Berlin: Springer. \[[Pour-El and Richards 1989 available online](https://projecteuclid.org/eBooks/perspectives-in-logic/Computability-in-Analysis-and-Physics/toc/pl/1235422916)]
+* Quine, Willard Van Orman, 1950, *Methods of Logic*, New York: Holt.
+* –––, 1951, *Mathematical Logic*, revised edition, Cambridge, MA: Harvard University Press.
+* Rabin, Michael O. and Dana S. Scott, 1959, “Finite Automata and Their Decision Problems”, *IBM Journal of Research and Development*, 3(2): 114–125. doi:10.1147/rd.32.0114
+* Ramsey, Frank P., 1930, “On a Problem of Formal Logic”, *Proceedings of the London Mathematical Society*, second series 30(1): 264–286. doi:10.1112/plms/s2-30.1.264
+* Roberts, Don D., 1973, *The Existential Graphs of Charles S. Peirce*, Hague: Mouton.
 * –––, 1997, “A Decision Method for Existential Graphs”, in Houser, Roberts, & Van Evra 1997: 387–401.
-* Rosser, J. Barkley, 1935a, “A Mathematical Logic Without Variables. I”, _Annals of Mathematics_, second series 36(1): 127–150. doi:10.2307/1968669
-* –––, 1935b, “A Mathematical Logic without Variables. II”, _Duke Mathematical Journal_, 1(3): 328–355. doi:10.1215/S0012-7094-35-00123-5
-* Scarpellini, Bruno, 1963, “Zwei Unentscheidbare Probleme Der Analysis”, _Zeitschrift für Mathematische Logik und Grundlagen der Mathematik_, 9(18–20): 265–289. doi:10.1002/malq.19630091802
-* –––, 2003, “Comments on ‘Two Undecidable Problems of Analysis’”, _Minds and Machines_, 13(1): 79–85. doi:10.1023/A:1021364916624
-* Schiemer, Georg, Richard Zach, and Erich Reck, 2017, “Carnap’s Early Metatheory: Scope and Limits”, _Synthese_, 194(1): 33–65. doi:10.1007/s11229-015-0877-z
-* Schmidhuber, Jürgen, 2012, “Turing in Context”, _Science_, 336(6089): 1638–1639. doi:10.1126/science.336.6089.1638-c
-* Schönfinkel, Moses, 192?, “Zum Entscheidungsproblem der mathematischen Logik”, _n.d._, Heft I, _Bernays Papers_, ETH Zurich (Hs 974.282).
-* –––, 1924, “Über die Bausteine der mathematischen Logik”, _Mathematische Annalen_, 92(3–4): 305–316. doi:10.1007/BF01448013
-* Searle, John R., 1992, _The Rediscovery of the Mind_, Cambridge, MA: MIT Press.
-* Shagrir, Oron, 2002, “Effective Computation by Humans and Machines”, _Minds and Machines_, 12(2): 221–240. doi:10.1023/A:1015694932257
+* Rosser, J. Barkley, 1935a, “A Mathematical Logic Without Variables. I”, *Annals of Mathematics*, second series 36(1): 127–150. doi:10.2307/1968669
+* –––, 1935b, “A Mathematical Logic without Variables. II”, *Duke Mathematical Journal*, 1(3): 328–355. doi:10.1215/S0012-7094-35-00123-5
+* Scarpellini, Bruno, 1963, “Zwei Unentscheidbare Probleme Der Analysis”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 9(18–20): 265–289. doi:10.1002/malq.19630091802
+* –––, 2003, “Comments on ‘Two Undecidable Problems of Analysis’”, *Minds and Machines*, 13(1): 79–85. doi:10.1023/A:1021364916624
+* Schiemer, Georg, Richard Zach, and Erich Reck, 2017, “Carnap’s Early Metatheory: Scope and Limits”, *Synthese*, 194(1): 33–65. doi:10.1007/s11229-015-0877-z
+* Schmidhuber, Jürgen, 2012, “Turing in Context”, *Science*, 336(6089): 1638–1639. doi:10.1126/science.336.6089.1638-c
+* Schönfinkel, Moses, 192?, “Zum Entscheidungsproblem der mathematischen Logik”, *n.d.*, Heft I, *Bernays Papers*, ETH Zurich (Hs 974.282).
+* –––, 1924, “Über die Bausteine der mathematischen Logik”, *Mathematische Annalen*, 92(3–4): 305–316. doi:10.1007/BF01448013
+* Searle, John R., 1992, *The Rediscovery of the Mind*, Cambridge, MA: MIT Press.
+* Shagrir, Oron, 2002, “Effective Computation by Humans and Machines”, *Minds and Machines*, 12(2): 221–240. doi:10.1023/A:1015694932257
 * –––, 2006, “Gödel on Turing on Computability”, in Olszewski, Wolenski, and Janusz 2006: 393–419. doi:10.1515/9783110325461.393
-* Shagrir, Oron and Itamar Pitowsky, 2003, “Physical Hypercomputation and the Church–Turing Thesis”, _Minds and Machines_, 13(1): 87–101. doi:10.1023/A:1021365222692
-* Shepherdson, John C. and Howard E. Sturgis, 1963, “Computability of Recursive Functions”, _Journal of the ACM_, 10(2): 217–255. doi:10.1145/321160.321170
-* Shoenfield, Joseph R., 1993, _Recursion Theory_, Berlin/New York: Springer.
-* Sieg, Wilfried, 1994, “Mechanical Procedures and Mathematical Experience”, in _Mathematics and Mind_, Alexander George (ed.), Oxford: Oxford University Press: 71–117.
-* –––, 2002, “Calculations by Man and Machine: Conceptual Analysis”, in _Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman_, Wilfried Sieg, Richard Sommer, and Carolyn Talcott (eds), Urbana, IL: Association for Symbolic Logic, 390–409.
-* –––, 2008, “Church Without Dogma: Axioms for Computability”, in _New Computational Paradigms_, S. Barry Cooper, Benedikt Löwe, and Andrea Sorbi (eds), New York, NY: Springer New York, 139–152. doi:10.1007/978-0-387-68546-5\_7
-* Siegelmann, Hava T., 2003, “Neural and Super-Turing Computing”, _Minds and Machines_, 13(1): 103–114. doi:10.1023/A:1021376718708
-* Siegelmann, Hava T. and Eduardo D. Sontag, 1992, “On the Computational Power of Neural Nets”, in _Proceedings of the Fifth Annual Workshop on Computational Learning Theory - COLT ’92_, Pittsburgh, PA: ACM Press, 440–449. doi:10.1145/130385.130432
-* –––, 1994, “Analog Computation via Neural Networks”, _Theoretical Computer Science_, 131(2): 331–360. doi:10.1016/0304-3975(94)90178-3
-* Skolem, Thoralf, 1923, “Begründung der elementaren Arithmetik”, _Videnskapsselskapets Skrifter, I. Matematisk-naturvidenskabelig Klasse_, 6: 3–38.
+* Shagrir, Oron and Itamar Pitowsky, 2003, “Physical Hypercomputation and the Church–Turing Thesis”, *Minds and Machines*, 13(1): 87–101. doi:10.1023/A:1021365222692
+* Shepherdson, John C. and Howard E. Sturgis, 1963, “Computability of Recursive Functions”, *Journal of the ACM*, 10(2): 217–255. doi:10.1145/321160.321170
+* Shoenfield, Joseph R., 1993, *Recursion Theory*, Berlin/New York: Springer.
+* Sieg, Wilfried, 1994, “Mechanical Procedures and Mathematical Experience”, in *Mathematics and Mind*, Alexander George (ed.), Oxford: Oxford University Press: 71–117.
+* –––, 2002, “Calculations by Man and Machine: Conceptual Analysis”, in *Reflections on the Foundations of Mathematics: Essays in Honor of Solomon Feferman*, Wilfried Sieg, Richard Sommer, and Carolyn Talcott (eds), Urbana, IL: Association for Symbolic Logic, 390–409.
+* –––, 2008, “Church Without Dogma: Axioms for Computability”, in *New Computational Paradigms*, S. Barry Cooper, Benedikt Löwe, and Andrea Sorbi (eds), New York, NY: Springer New York, 139–152. doi:10.1007/978-0-387-68546-5\_7
+* Siegelmann, Hava T., 2003, “Neural and Super-Turing Computing”, *Minds and Machines*, 13(1): 103–114. doi:10.1023/A:1021376718708
+* Siegelmann, Hava T. and Eduardo D. Sontag, 1992, “On the Computational Power of Neural Nets”, in *Proceedings of the Fifth Annual Workshop on Computational Learning Theory - COLT ’92*, Pittsburgh, PA: ACM Press, 440–449. doi:10.1145/130385.130432
+* –––, 1994, “Analog Computation via Neural Networks”, *Theoretical Computer Science*, 131(2): 331–360. doi:10.1016/0304-3975(94)90178-3
+* Skolem, Thoralf, 1923, “Begründung der elementaren Arithmetik”, *Videnskapsselskapets Skrifter, I. Matematisk-naturvidenskabelig Klasse*, 6: 3–38.
 * Smithies, Frank, 1934, “Foundations of Mathematics. Mr. Newman”, lecture notes, St John’s College Library, Cambridge, GB 275 Smithies/H/H57.
-* Stannett, Mike, 1990, “X-Machines and the Halting Problem: Building a Super-Turing Machine”, _Formal Aspects of Computing_, 2(1): 331–341. doi:10.1007/BF01888233
-* Stewart, Ian, 1991, “Deciding the Undecidable”, _Nature_, 352(6337): 664–665. doi:10.1038/352664a0
-* Stjernfelt, Frederik, 2022, _Sheets, Diagrams, and Realism in Peirce_, Berlin: De Gruyter. doi:10.1515/9783110793628
-* Syropoulos, Apostolos, 2008, _Hypercomputation: Computing beyond the Church-Turing Barrier_, New York: Springer. doi:10.1007/978-0-387-49970-3
-* Turing, Alan M., 1936 \[2004], “On Computable Numbers, with an Application to the Entscheidungsproblem”, _Proceedings of the London Mathematical Society_, 1936, second series, 42(1): 230–265. Reprinted in Copeland 2004: 58–90 (ch. 1). doi:10.1112/plms/s2-42.1.230
-* –––, 1937, “Computability and λ-Definability”, _The Journal of Symbolic Logic_, 2(4): 153–163. doi:10.2307/2268280
-* –––, 1939 \[2004], “Systems of Logic Based on Ordinals”, _Proceedings of the London Mathematical Society_, second series, 45(1): 161–228. Reprinted in Copeland 2004: 146–204 (ch. 3). doi:10.1112/plms/s2-45.1.161
+* Stannett, Mike, 1990, “X-Machines and the Halting Problem: Building a Super-Turing Machine”, *Formal Aspects of Computing*, 2(1): 331–341. doi:10.1007/BF01888233
+* Stewart, Ian, 1991, “Deciding the Undecidable”, *Nature*, 352(6337): 664–665. doi:10.1038/352664a0
+* Stjernfelt, Frederik, 2022, *Sheets, Diagrams, and Realism in Peirce*, Berlin: De Gruyter. doi:10.1515/9783110793628
+* Syropoulos, Apostolos, 2008, *Hypercomputation: Computing beyond the Church-Turing Barrier*, New York: Springer. doi:10.1007/978-0-387-49970-3
+* Turing, Alan M., 1936 \[2004], “On Computable Numbers, with an Application to the Entscheidungsproblem”, *Proceedings of the London Mathematical Society*, 1936, second series, 42(1): 230–265. Reprinted in Copeland 2004: 58–90 (ch. 1). doi:10.1112/plms/s2-42.1.230
+* –––, 1937, “Computability and λ-Definability”, *The Journal of Symbolic Logic*, 2(4): 153–163. doi:10.2307/2268280
+* –––, 1939 \[2004], “Systems of Logic Based on Ordinals”, *Proceedings of the London Mathematical Society*, second series, 45(1): 161–228. Reprinted in Copeland 2004: 146–204 (ch. 3). doi:10.1112/plms/s2-45.1.161
 * –––, c.1940 \[2004], letter to Newman, n.d., in Copeland 2004: 214–216 (ch. 4).
 * –––, 1945 \[2005], “Proposed Electronic Calculator”, National Physical Laboratory Report, in Copeland 2005: 369–454 (ch. 20). doi:10.1093/acprof:oso/9780198565932.003.0021
 * –––, 1947 \[2004], “Lecture on the Automatic Computing Engine”, London Mathematical Society, in Copeland 2004: 378–394 (ch. 9).
 * –––, 1948 \[2004], “Intelligent Machinery”, National Physical Laboratory Report, in Copeland 2004: 410–432 (ch. 10).
-* –––, 1950a \[2004], “Computing Machinery and Intelligence”, _Mind_, 59(236): 433–460. Reprinted in Copeland 2004: 441–464 (ch. 11). doi:10.1093/mind/LIX.236.433
-* –––, 1950b, “The Word Problem in Semi-Groups With Cancellation”, _Annals of Mathematics_, second series 52(2): 491–505. doi:10.2307/1969481
-* –––, c.1950, _Programmers’ Handbook for Manchester Electronic Computer Mark II_, Computing Machine Laboratory, University of Manchester. \[[Turing c.1950 available online](http://www.alanturing.net/programmers\handbook)]
-* –––, 1954 \[2004], “Solvable and Unsolvable Problems”, _Science News_ (Penguin Books), 31: 7–23. Reprinted in Copeland 2004: 582–595 (ch. 17).
-* van Heijenoort, Jean, 1967, _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press.
-* Venn, John, 1880, “On the Diagrammatic and Mechanical Representation of Propositions and Reasonings”, _The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science_, fifth series, 10(59): 1–18. doi:10.1080/14786448008626877
-* von Neumann, John, 1927, “Zur Hilbertschen Beweistheorie”, _Mathematische Zeitschrift_, 26(1): 1–46. doi:10.1007/BF01475439
-* –––, 1931, “Die formalistische Grundlegung der Mathematik”, _Erkenntnis_, 2(1): 116–121. doi:10.1007/BF02028144
-* Wang, Hao, 1974, _From Mathematics to Philosophy_, New York: Humanities Press.
-* –––, 1996, _A Logical Journey: From Gödel to Philosophy_, Cambridge, MA: MIT Press.
-* Weyl, Hermann, 1927 \[1949], “Philosophie der Mathematik und Naturwissenschaft”, _Handbuch der Philosophie_, Munich: Oldenbourg. Published in English as _Philosophy of Mathematics and Natural Science_, Princeton, NJ: Princeton University Press, 1949.
-* Wittgenstein, Ludwig, 1947 \[1980], _Bemerkungen über die Philosophie der Psychologie_. Translated as _Remarks on the Philosophy of Psychology_, Volume 1, Anscombe, G. Elizabeth M. and Georg Henrik von Wright (eds), Oxford: Blackwell, 1980.
-* Wolfram, Stephen, 1985, “Undecidability and Intractability in Theoretical Physics”, _Physical Review Letters_, 54(8): 735–738. doi:10.1103/PhysRevLett.54.735
-* –––, 2021, _Combinators: A Centennial View_, Champaign, IL: Wolfram Media.
-* Yao, Andrew C.-C., 2003, “Classical Physics and the Church-Turing Thesis”, _Journal of the ACM_, 50(1): 100–105. doi:10.1145/602382.602411
-* Zach, Richard, 1999, “Completeness Before Post: Bernays, Hilbert, and the Development of Propositional Logic”, _Bulletin of Symbolic Logic_, 5(3): 331–366. doi:10.2307/421184
-* –––, 2003, “The Practice of Finitism: Epsilon Calculus and Consistency Proofs in Hilbert’s Program”, _Synthese_, 137(1/2): 211–259. doi:10.1023/A:1026247421383
-* Zanichelli, Nicola (ed.), 1929, _Atti del Congresso Internazionale dei Matematici, Bologna, 3–10 Settembre 1928, Volume 1: Rendiconto del Congresso Conferenze_, Bologna: Società Tipografica.
+* –––, 1950a \[2004], “Computing Machinery and Intelligence”, *Mind*, 59(236): 433–460. Reprinted in Copeland 2004: 441–464 (ch. 11). doi:10.1093/mind/LIX.236.433
+* –––, 1950b, “The Word Problem in Semi-Groups With Cancellation”, *Annals of Mathematics*, second series 52(2): 491–505. doi:10.2307/1969481
+* –––, c.1950, *Programmers’ Handbook for Manchester Electronic Computer Mark II*, Computing Machine Laboratory, University of Manchester. \[[Turing c.1950 available online](http://www.alanturing.net/programmers\handbook)]
+* –––, 1954 \[2004], “Solvable and Unsolvable Problems”, *Science News* (Penguin Books), 31: 7–23. Reprinted in Copeland 2004: 582–595 (ch. 17).
+* van Heijenoort, Jean, 1967, *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press.
+* Venn, John, 1880, “On the Diagrammatic and Mechanical Representation of Propositions and Reasonings”, *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, fifth series, 10(59): 1–18. doi:10.1080/14786448008626877
+* von Neumann, John, 1927, “Zur Hilbertschen Beweistheorie”, *Mathematische Zeitschrift*, 26(1): 1–46. doi:10.1007/BF01475439
+* –––, 1931, “Die formalistische Grundlegung der Mathematik”, *Erkenntnis*, 2(1): 116–121. doi:10.1007/BF02028144
+* Wang, Hao, 1974, *From Mathematics to Philosophy*, New York: Humanities Press.
+* –––, 1996, *A Logical Journey: From Gödel to Philosophy*, Cambridge, MA: MIT Press.
+* Weyl, Hermann, 1927 \[1949], “Philosophie der Mathematik und Naturwissenschaft”, *Handbuch der Philosophie*, Munich: Oldenbourg. Published in English as *Philosophy of Mathematics and Natural Science*, Princeton, NJ: Princeton University Press, 1949.
+* Wittgenstein, Ludwig, 1947 \[1980], *Bemerkungen über die Philosophie der Psychologie*. Translated as *Remarks on the Philosophy of Psychology*, Volume 1, Anscombe, G. Elizabeth M. and Georg Henrik von Wright (eds), Oxford: Blackwell, 1980.
+* Wolfram, Stephen, 1985, “Undecidability and Intractability in Theoretical Physics”, *Physical Review Letters*, 54(8): 735–738. doi:10.1103/PhysRevLett.54.735
+* –––, 2021, *Combinators: A Centennial View*, Champaign, IL: Wolfram Media.
+* Yao, Andrew C.-C., 2003, “Classical Physics and the Church-Turing Thesis”, *Journal of the ACM*, 50(1): 100–105. doi:10.1145/602382.602411
+* Zach, Richard, 1999, “Completeness Before Post: Bernays, Hilbert, and the Development of Propositional Logic”, *Bulletin of Symbolic Logic*, 5(3): 331–366. doi:10.2307/421184
+* –––, 2003, “The Practice of Finitism: Epsilon Calculus and Consistency Proofs in Hilbert’s Program”, *Synthese*, 137(1/2): 211–259. doi:10.1023/A:1026247421383
+* Zanichelli, Nicola (ed.), 1929, *Atti del Congresso Internazionale dei Matematici, Bologna, 3–10 Settembre 1928, Volume 1: Rendiconto del Congresso Conferenze*, Bologna: Società Tipografica.
 
 ## Academic Tools
 
@@ -1271,4 +1271,4 @@ Cubitt 等人的不可计算性结果源于他们发现停机问题可以被编�
 [Church, Alonzo](https://plato.stanford.edu/entries/church/) | [computability and complexity](https://plato.stanford.edu/entries/computability/) | [computation: in physical systems](https://plato.stanford.edu/entries/computation-physicalsystems/) | [computer science, philosophy of](https://plato.stanford.edu/entries/computer-science/) | [computing: modern history of](https://plato.stanford.edu/entries/computing-history/) | [Gödel, Kurt: incompleteness theorems](https://plato.stanford.edu/entries/goedel-incompleteness/) | [Llull, Ramon](https://plato.stanford.edu/entries/llull/) | [mind: computational theory of](https://plato.stanford.edu/entries/computational-mind/) | [Turing, Alan](https://plato.stanford.edu/entries/turing/) | [Turing machines](https://plato.stanford.edu/entries/turing-machine/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[B. Jack Copeland](https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html) <[_jack.copeland@canterbury.ac.nz_](mailto:jack%2ecopeland%40canterbury%2eac%2enz)>
+[B. Jack Copeland](https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html) <[*jack.copeland@canterbury.ac.nz*](mailto:jack%2ecopeland%40canterbury%2eac%2enz)>

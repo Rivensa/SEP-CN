@@ -1,12 +1,10 @@
 # 恩斯特·马利 Mally, Ernst (Alexander Hieke and Gerhard Zecha)
 
-_首次发表于 2005 年 10 月 13 日；实质性修订于 2018 年 7 月 25 日_
+*首次发表于 2005 年 10 月 13 日；实质性修订于 2018 年 7 月 25 日*
 
 ![Photo of Ernst Mally](https://plato.stanford.edu/entries/mally/mally.png)
 
 奥地利哲学家恩斯特·马利（1879-1944）是迈农学派最重要的代表之一。尽管他以其对迈农的客体理论（Gegenstandstheorie）的研究和对德意志义务逻辑的发展而闻名，但他也因其德意志民族主义信仰和对国家社会主义意识形态的支持而获得了一些声名。一方面，马利对迈农的客体理论的贡献并不仅仅是对他老师工作的延伸，而是一种真正的替代，反过来又影响了迈农自己的观念。此外，他是第一个建立起形式化的德意志义务逻辑体系的哲学家（参见马利的德意志义务逻辑条目），尽管大多数哲学家认为它存在严重缺陷，但这是一项重大的工作，并且直到最近才得到应有的关注。另一方面，马利的一些后期著作特别受到他对国家社会主义的同情的影响。接下来，我们将确定和概述他思想的各个方面，并探讨一个微妙的问题，即他对国家社会主义的同情是否以及如何影响了他后来的哲学工作。
-
- 
 
 ***
 
@@ -98,7 +96,7 @@ _首次发表于 2005 年 10 月 13 日；实质性修订于 2018 年 7 月 25 �
 
 我们通过再次指出，恩斯特·马利在 1926 年开发了第一个形式逻辑系统的德意志逻辑，来结束本节。这个系统在恩斯特·马利的德意志逻辑条目中被详细描述和分析。该条目解释了马利如何引入一个运算符（！）来形成“应该是 A 的情况”（“！A”）的陈述，以及他的系统的逻辑公理暗示了以下有问题的主张：
 
-> !_A_ ↔ _A_
+> !*A* ↔ *A*
 
 这个方案说明，如果某事是义务的，那么它就是事实。换句话说，在马利的系统中，义务和事实是一致的。当然，这是不可接受的。第一个指出这一点的人是卡尔·门格尔（Karl Menger）在 1939 年。关于恩斯特·马利的德意志逻辑的进一步讨论可以在莫尔舍尔（Morscher）1998 年的著作中找到，以及上述引用的条目中，即洛克霍斯特（Lokhorst）2013a 年的著作。我们想重申洛克霍斯特的观点，即尽管恩斯特·马利的德意志逻辑存在缺陷，但他的“开创性努力应该得到恢复而不是蔑视”。另请参阅洛克霍斯特关于恩斯特·马利的德意志逻辑直觉重构的论文，他在其中试图捕捉恩斯特·马利的基本思想，同时避免上述的一致性问题（洛克霍斯特 2013b 和 2015 年的著作）。
 
@@ -212,7 +210,7 @@ _首次发表于 2005 年 10 月 13 日；实质性修订于 2018 年 7 月 25 �
 
 在 NS 意识形态中，恩斯特·马利（Ernst Mally）的“恩斯特·马利”（das Volk）概念，尤其是“德国人民”（das deutsche Volk）概念，起着核心作用。从 20 世纪 30 年代初开始，马利试图为以下价值判断提供哲学上的理论解释：（1）“德国人民”比其个体成员更重要，（2）德国人构成了主导民族。他进一步提出了一种反还原论的观点，即“德国人民”的概念不能还原为其每个成员（个体人）的概念。因此，他希望“与主观主义、犹太实证主义和相关学说进行斗争...并用更健康的东西取而代之”。
 
-> （摘自马利的履历，日期为 1938 年 9 月 23 日，即“安纳克卢斯”（Anschluss）六个月后；未发表，格拉茨大学图书馆/遗产收藏。然而，这不是一部哲学著作，而可以被视为一种机会主义的自我描述）。 (From Mally’s curriculum vitæ, dated September 23, 1938, six months after the _Anschluss_; unpublished, University of Graz Library/Nachlass-Sammlung. This is, however, not a _philosophical work_ but can rather be seen as an opportunistic self-description).
+> （摘自马利的履历，日期为 1938 年 9 月 23 日，即“安纳克卢斯”（Anschluss）六个月后；未发表，格拉茨大学图书馆/遗产收藏。然而，这不是一部哲学著作，而可以被视为一种机会主义的自我描述）。 (From Mally’s curriculum vitæ, dated September 23, 1938, six months after the *Anschluss*; unpublished, University of Graz Library/Nachlass-Sammlung. This is, however, not a *philosophical work* but can rather be seen as an opportunistic self-description).
 
 这个事实也解释了为什么马利将自己视为维也纳学派和逻辑实证主义者的对立面，他认为他们是“个人主义意识形态”的主要代表者，这种意识形态试图剥夺世界的意义（Sinn）。马利将“大众”视为一种“准人”，拥有身体、心灵和灵魂；大众不能完全理性地被理解，而是必须通过经历来体验（erlebt）。他坚持认为，通过这种经历揭示了大众的“本质现实”，即其意义，从而揭示了其“动态发展”的意义。此外，不同的民族具有不同的特性，取决于它们的起源、发展和文化等。据称，这些特性导致了显著的道德差异：德国人民被认为是价值最高的民族之一，因此必须保持“纯洁”。外部影响必须被消除，以便德国人民可以“繁殖”到更高的发展状态，从而逐渐努力实现其意义的完全实现（参见马利1934b、1935和1938a）。
 
@@ -228,59 +226,59 @@ All quotations originally in German were translated by the authors of the entry.
 
 ### Primary Literature: Selection of Mally’s Writings
 
-* (1904) “Untersuchungen zur Gegenstandstheorie des Messens”, in _Untersuchungen zur Gegenstandstheorie und Psychologie_, vol. 3, A. Meinong (ed.), Leipzig: Barth, 121–262.
-* (1912) _Gegenstandstheoretische Grundlagen der Logik und Logistik_, supplement to _Zeitschrift für Philosophie und philosophische Kritik_, 148.
-* (1923) “Studien zur Theorie der Möglichkeit und Ähnlichkeit. Allgemeine Theorie der Verwandschaft gegenständlicher Bestimmungen”, in _Sitzungsberichte der Akademie der Wissenschaften in Wien. Philosophisch-historische Klasse._ Wien-Leipzig: Hölder-Pichler-Tempsky, 1–131.
-* (1926) _Grundgesetze des Sollens. Elemente der Logik des Willens_, Graz: Leuschner & Lubensky. Reprinted in _Ernst Mally: Logische Schriften. Großes Logikfragment—Grundgesetze des Sollens_, K. Wolf, P. Weingartner (eds.), Dordrecht: Reidel, 1971, 227–324.
+* (1904) “Untersuchungen zur Gegenstandstheorie des Messens”, in *Untersuchungen zur Gegenstandstheorie und Psychologie*, vol. 3, A. Meinong (ed.), Leipzig: Barth, 121–262.
+* (1912) *Gegenstandstheoretische Grundlagen der Logik und Logistik*, supplement to *Zeitschrift für Philosophie und philosophische Kritik*, 148.
+* (1923) “Studien zur Theorie der Möglichkeit und Ähnlichkeit. Allgemeine Theorie der Verwandschaft gegenständlicher Bestimmungen”, in *Sitzungsberichte der Akademie der Wissenschaften in Wien. Philosophisch-historische Klasse.* Wien-Leipzig: Hölder-Pichler-Tempsky, 1–131.
+* (1926) *Grundgesetze des Sollens. Elemente der Logik des Willens*, Graz: Leuschner & Lubensky. Reprinted in *Ernst Mally: Logische Schriften. Großes Logikfragment—Grundgesetze des Sollens*, K. Wolf, P. Weingartner (eds.), Dordrecht: Reidel, 1971, 227–324.
 * (1934a) “Briefe Ernst Mallys an Hans Pichler vom 5. Jänner 1934 und vom 6. Jänner 1934”, in: Mally’s unpublished work in the Library Archives of the University of Graz.
-* (1934b) “Wesen und Dasein des Volkes”, _Volksspiegel. Zeitschrift für Deutsche Soziologie und Volkswissenschaft_, 2: 70–77.
-* (1935) _Erlebnis und Wirklichkeit. Einleitung zur Philosophie der Natürlichen Weltauffassung_, Leipzig: Julius Klinkhardt.
-* (1938a) _Anfangsgründe der Philosophie. Leitfaden für den Philosophischen Einführungsunterricht an höheren Schulen_, Wien-Leipzig: Hölder-Pichler-Tempsky.
-* (1938b) _Wahrscheinlichkeit und Gesetz. Ein Beitrag zur wahrscheinlichkeitstheoretischen Begründung der Naturwissenschaft_, Berlin: de Gruyter.
-* (1940) “Zur Frage der ‘objektiven Wahrheit’ ”, _Wissenschaftliches Jahrbuch der Universität Graz_, 1940, 177–197.
+* (1934b) “Wesen und Dasein des Volkes”, *Volksspiegel. Zeitschrift für Deutsche Soziologie und Volkswissenschaft*, 2: 70–77.
+* (1935) *Erlebnis und Wirklichkeit. Einleitung zur Philosophie der Natürlichen Weltauffassung*, Leipzig: Julius Klinkhardt.
+* (1938a) *Anfangsgründe der Philosophie. Leitfaden für den Philosophischen Einführungsunterricht an höheren Schulen*, Wien-Leipzig: Hölder-Pichler-Tempsky.
+* (1938b) *Wahrscheinlichkeit und Gesetz. Ein Beitrag zur wahrscheinlichkeitstheoretischen Begründung der Naturwissenschaft*, Berlin: de Gruyter.
+* (1940) “Zur Frage der ‘objektiven Wahrheit’ ”, *Wissenschaftliches Jahrbuch der Universität Graz*, 1940, 177–197.
 * (1971) “Grosses Logikfragment”, in Wolf & Weingartner 1971, 29–187.
 
 ### Secondary Literature
 
-* Findlay, J.N., 1963, _Meinong’s Theory of Objects and Values_, 2nd edition, Oxford: Clarendon Press.
-* Hieke, A. (ed.), 1998, _Ernst Mally. Versuch einer Neubewertung_, Sankt Augustin: Academia Verlag.
-* Jacquette, D., 1989, “Mally’s heresy and the logic of Meinong’s Object Theory”, _History and Philosophy of Logic_, 10: 1–14.
-* Korotin, I., 2007, “Deutsche Philosophen aus der Sicht des Sicherheitsdienstes des Reichsführers SS. Dossier Ernst Mally”, in Carsten Klingemann (ed.), _Jahrbuch für Soziologiegeschichte_, Wiesbaden: VS Verlag fü̈r Sozialwissenschafte, 167–175.
-* Krickler, B., 2008, _Die fünf Grundgesetze von E. Mallys Normenlogik und deren Beurteilung durch die modernen Logiker G. Kalinowksi, E. Morscher und O. Weinberger_, M.A. Thesis, University of Graz.
-* Laird, J., 1926, “Review of Mally’s _Grundgesetze des Sollens_”, _Mind_ (New Series), 35: 394–395.
-* Linsky, B., 2014, “Ernst Mally’s Anticipation of Encoding”, in _Journal for the History of Analytical Philosophy_, 2(5), [available online](https://jhaponline.org/jhap/issue/view/17).
-* Lokhorst, G.-J., 2013a, “Mally’s Deontic Logic”, in the _Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = [Mally's Deontic Logic (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/mally-deontic/)
-* –––, 2013b, “An Intuitionistic Reformulation of Mally’s Deontic Logic”, in _Journal of Philosophical Logic_, 42(4): 635–641.
-* –––, 2015, “Mally’s Deontic Logic: Reducibility and Semantics”, in _Journal of Philosophical Logic_, 44(3): 309–319.
-* Marek, J., 2008, “Alexius Meinong”, in the _Stanford Encyclopedia of Philosophy_, (Winter 2008 Edition), Edward N. Zalta (ed.), URL = [Alexius Meinong (Stanford Encyclopedia of Philosophy/Winter 2008 Edition)](https://plato.stanford.edu/archives/win2008/entries/meinong/)
-* Meinong, A., 1915, _Über Möglichkeit und Wahrscheinlichkeit_, Leipzig: Barth.
-* –––, 1923a, _Zur Grundlegung der allgemeinen Werttheorie_, ed. with a preface by Ernst Mally, Graz: Leuschner & Lubensky.
+* Findlay, J.N., 1963, *Meinong’s Theory of Objects and Values*, 2nd edition, Oxford: Clarendon Press.
+* Hieke, A. (ed.), 1998, *Ernst Mally. Versuch einer Neubewertung*, Sankt Augustin: Academia Verlag.
+* Jacquette, D., 1989, “Mally’s heresy and the logic of Meinong’s Object Theory”, *History and Philosophy of Logic*, 10: 1–14.
+* Korotin, I., 2007, “Deutsche Philosophen aus der Sicht des Sicherheitsdienstes des Reichsführers SS. Dossier Ernst Mally”, in Carsten Klingemann (ed.), *Jahrbuch für Soziologiegeschichte*, Wiesbaden: VS Verlag fü̈r Sozialwissenschafte, 167–175.
+* Krickler, B., 2008, *Die fünf Grundgesetze von E. Mallys Normenlogik und deren Beurteilung durch die modernen Logiker G. Kalinowksi, E. Morscher und O. Weinberger*, M.A. Thesis, University of Graz.
+* Laird, J., 1926, “Review of Mally’s *Grundgesetze des Sollens*”, *Mind* (New Series), 35: 394–395.
+* Linsky, B., 2014, “Ernst Mally’s Anticipation of Encoding”, in *Journal for the History of Analytical Philosophy*, 2(5), [available online](https://jhaponline.org/jhap/issue/view/17).
+* Lokhorst, G.-J., 2013a, “Mally’s Deontic Logic”, in the *Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = [Mally's Deontic Logic (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/mally-deontic/)
+* –––, 2013b, “An Intuitionistic Reformulation of Mally’s Deontic Logic”, in *Journal of Philosophical Logic*, 42(4): 635–641.
+* –––, 2015, “Mally’s Deontic Logic: Reducibility and Semantics”, in *Journal of Philosophical Logic*, 44(3): 309–319.
+* Marek, J., 2008, “Alexius Meinong”, in the *Stanford Encyclopedia of Philosophy*, (Winter 2008 Edition), Edward N. Zalta (ed.), URL = [Alexius Meinong (Stanford Encyclopedia of Philosophy/Winter 2008 Edition)](https://plato.stanford.edu/archives/win2008/entries/meinong/)
+* Meinong, A., 1915, *Über Möglichkeit und Wahrscheinlichkeit*, Leipzig: Barth.
+* –––, 1923a, *Zur Grundlegung der allgemeinen Werttheorie*, ed. with a preface by Ernst Mally, Graz: Leuschner & Lubensky.
 * –––, 1923b, “A. Meinong”, in Schmidt 1923, 101–160.
-* Menger, K., 1939, “A Logic of the Doubtful: On Optative and Imperative Logic”, in _Reports of a Mathematical Colloquium_, Notre Dame, Indiana: Indiana University Press, pp. 53–64.
-* Mokre, H. (ed.), 1927, _Wertlehre und Ethik. Nach Vorlesungen von Ernst Mally (1926/27)_, unpublished manuscript, see Sagheb-Oehlinger 2008, cited as SOM.
+* Menger, K., 1939, “A Logic of the Doubtful: On Optative and Imperative Logic”, in *Reports of a Mathematical Colloquium*, Notre Dame, Indiana: Indiana University Press, pp. 53–64.
+* Mokre, H. (ed.), 1927, *Wertlehre und Ethik. Nach Vorlesungen von Ernst Mally (1926/27)*, unpublished manuscript, see Sagheb-Oehlinger 2008, cited as SOM.
 * –––, 1971, “Gegenstandstheorie—Logik—Deontik”, in Wolf & Weingartner 1971, 16–20.
 * Morscher, E., 1998, “Mallys Axiomensystem für die deontische Logik—Rekonstruktion und kritische Würdigung”, in Hieke 1998: 81–165.
-* Parsons, T., 1980, _Nonexistent Objects_, New Haven/CT: Yale University Press.
+* Parsons, T., 1980, *Nonexistent Objects*, New Haven/CT: Yale University Press.
 * Poli, R., 1998, “Understanding Mally”, in Hieke 1998: 29–49.
-* Rapaport, W., 1978, “Meinongian Theories and a Russellian Paradox”, _Noûs_, 12: 153–180.
-* Reicher, M.E., 2009, “Value Facts and Value Experiences in Early Phenomenology” in Centi, B. and Huemer, W. (eds.), _Values and Ontology. Problems and Perspectives_, Heusenstamm: Ontos, 105–135.
-* Roschitz, M., 2016a, “Zu Ernst Mallys Lebensgang, Umfeld und akademischer Laufbahn”, in Antonelli, M. and David, M. (eds.), _Existence, Fiction, Assumption. Meinongian Themes and the History of Austrian Philosophy_, Berlin-Boston: de Gruyter Ontos, 207–257.
-* Roschitz, M., 2016b, _Zauberbuch und Zauberkolleg. Ernst Mallys dynamische Wirklichkeitsphilosophie_, Graz: Universitätsverlag.
-* Rothbucher, M. and G. Zecha, (eds.), 2012, _Karl Wolf: Biopädagogik._ Aufsätze, Reden, Abhandlungen, Vienna: LIT.
-* Russell, B., 1905, “On Denoting”, in _Mind_, 14: 479–493.
-* Russell, B. and A.N. Whitehead, 1932, _Einführung in die Mathematische Logik (Die Einleitung der “Principia Mathematica”)_, translation into German of Preface, Introduction, Introduction to the Second Edition (1925) by Hans Mokre, Munich: Drei Masken Verlag. (Note that Mokre changed the order of the authors’ names intentionally.)
-* Sagheb-Oehlinger, M., 2008, _Ernst Mally: Philosophie und Nationalsozialismus_, master’s thesis, University of Salzburg, with an _Appendix_: Mokre 1927.
+* Rapaport, W., 1978, “Meinongian Theories and a Russellian Paradox”, *Noûs*, 12: 153–180.
+* Reicher, M.E., 2009, “Value Facts and Value Experiences in Early Phenomenology” in Centi, B. and Huemer, W. (eds.), *Values and Ontology. Problems and Perspectives*, Heusenstamm: Ontos, 105–135.
+* Roschitz, M., 2016a, “Zu Ernst Mallys Lebensgang, Umfeld und akademischer Laufbahn”, in Antonelli, M. and David, M. (eds.), *Existence, Fiction, Assumption. Meinongian Themes and the History of Austrian Philosophy*, Berlin-Boston: de Gruyter Ontos, 207–257.
+* Roschitz, M., 2016b, *Zauberbuch und Zauberkolleg. Ernst Mallys dynamische Wirklichkeitsphilosophie*, Graz: Universitätsverlag.
+* Rothbucher, M. and G. Zecha, (eds.), 2012, *Karl Wolf: Biopädagogik.* Aufsätze, Reden, Abhandlungen, Vienna: LIT.
+* Russell, B., 1905, “On Denoting”, in *Mind*, 14: 479–493.
+* Russell, B. and A.N. Whitehead, 1932, *Einführung in die Mathematische Logik (Die Einleitung der “Principia Mathematica”)*, translation into German of Preface, Introduction, Introduction to the Second Edition (1925) by Hans Mokre, Munich: Drei Masken Verlag. (Note that Mokre changed the order of the authors’ names intentionally.)
+* Sagheb-Oehlinger, M., 2008, *Ernst Mally: Philosophie und Nationalsozialismus*, master’s thesis, University of Salzburg, with an *Appendix*: Mokre 1927.
 * Sauer, W., 1998, “Mally als NS-Philosoph”, in Hieke 1998: 167–191.
-* Schmidt, R. (ed.), 1923, _Die Philosophie der Gegenwart in Selbstdarstellungen_, Leipzig: Felix Meiner (2nd rev. edition).
-* Schönafinger, B., 1994, _Das Grazer Philosophische Institut 1920–45 und seine Verstrickung in den Nationalsozialismus_, master’s thesis, University of Graz.
-* Wolf, K., 1947, _Ethische Naturbetrachtung. Eine Philosophie des modernen Naturgefühls_, Salzburg: Jgonta-Verlag.
-* –––, 1952a, “Die Entwicklung der Wertphilosophie in der Schule Meinongs”, in Radakovic, K., Tarouca, S. and Weinhandl, F. (eds.): _Meinong-Gedenkschrift_, 157–171.
-* –––, 1952b, “Die Spätphilosophie Ernst Mallys”, in _Wissenschaft und Weltbild_, 5: 145–153.
+* Schmidt, R. (ed.), 1923, *Die Philosophie der Gegenwart in Selbstdarstellungen*, Leipzig: Felix Meiner (2nd rev. edition).
+* Schönafinger, B., 1994, *Das Grazer Philosophische Institut 1920–45 und seine Verstrickung in den Nationalsozialismus*, master’s thesis, University of Graz.
+* Wolf, K., 1947, *Ethische Naturbetrachtung. Eine Philosophie des modernen Naturgefühls*, Salzburg: Jgonta-Verlag.
+* –––, 1952a, “Die Entwicklung der Wertphilosophie in der Schule Meinongs”, in Radakovic, K., Tarouca, S. and Weinhandl, F. (eds.): *Meinong-Gedenkschrift*, 157–171.
+* –––, 1952b, “Die Spätphilosophie Ernst Mallys”, in *Wissenschaft und Weltbild*, 5: 145–153.
 * –––, 1971, “Ernst Mallys Lebensgang und philosophische Entwicklung”, in Wolf & Weingartner 1971, 3–15.
-* Wolf, K. and P. Weingartner (eds.), 1971, _Ernst Mally: Logische Schriften. Großes Logikfragment—Grundgesetze des Sollens_, Dordrecht: Reidel.
-* Zalta, E.N., 1983, _Abstract Objects. An Introduction to Axiomatic Metaphysics_, Dordrecht: Reidel.
-* –––, 1988, _Intensional Logic and The Metaphysics of Intentionality_, Cambridge, MA: The MIT Press.
-* –––, 1992, “On Mally’s Alleged Heresy: A Reply”, _History and Philosophy of Logic_, 13: 59–68.
+* Wolf, K. and P. Weingartner (eds.), 1971, *Ernst Mally: Logische Schriften. Großes Logikfragment—Grundgesetze des Sollens*, Dordrecht: Reidel.
+* Zalta, E.N., 1983, *Abstract Objects. An Introduction to Axiomatic Metaphysics*, Dordrecht: Reidel.
+* –––, 1988, *Intensional Logic and The Metaphysics of Intentionality*, Cambridge, MA: The MIT Press.
+* –––, 1992, “On Mally’s Alleged Heresy: A Reply”, *History and Philosophy of Logic*, 13: 59–68.
 * –––, 1998, “Mally’s Determinates and Husserl’s Noemata”, in Hieke 1998: 9–28.
 
 ## Academic Tools
@@ -300,5 +298,5 @@ All quotations originally in German were translated by the authors of the entry.
 [Brentano, Franz](https://plato.stanford.edu/entries/brentano/) | [existence](https://plato.stanford.edu/entries/existence/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [logic: deontic](https://plato.stanford.edu/entries/logic-deontic/) | [Mally, Ernst: deontic logic](https://plato.stanford.edu/entries/mally-deontic/) | [Meinong, Alexius](https://plato.stanford.edu/entries/meinong/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Alexander Hieke](http://www.uni-salzburg.at/phs/hieke) <[_Alexander.Hieke@sbg.ac.at_](mailto:Alexander%2eHieke%40sbg%2eac%2eat)>\
+[Alexander Hieke](http://www.uni-salzburg.at/phs/hieke) <[*Alexander.Hieke@sbg.ac.at*](mailto:Alexander%2eHieke%40sbg%2eac%2eat)>\
 [Gerhard Zecha](http://www.uni-salzburg.at/portal/page?\pageid=1225,421752&\dad=portal&\schema=PORTAL)

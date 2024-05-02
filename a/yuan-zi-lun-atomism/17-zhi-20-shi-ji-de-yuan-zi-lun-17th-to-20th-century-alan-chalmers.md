@@ -1,11 +1,10 @@
 # 17 至 20 世纪的原子论 17th to 20th century (Alan Chalmers)
 
-_首次发布于 2005 年 6 月 30 日；实质性修订于 2014 年 10 月 9 日_
+*首次发布于 2005 年 6 月 30 日；实质性修订于 2014 年 10 月 9 日*
 
 原子论最早在古希腊出现时是一种形而上学的命题，旨在通过哲学论证来建立关于物质现实的最终本质的主张。17 世纪机械哲学家发展的原子论版本也具有这一特点。相比之下，现代科学中关于原子的知识并非通过_先验_的哲学论证来确立，而是通过对特定实验结果的解释和指导，结合特定的理论——量子力学。如果形而上学涉及对物质现实基本本质的描述，那么这是一个科学而非哲学更有发言权的问题。研究从哲学原子论到当代科学原子论的发展路径有助于阐明哲学和科学的本质以及两者之间的关系。
 
 从 19 世纪开始，当严肃的科学原子论首次出现时，原子论的历史意义变为认识论而非形而上学。由于原子远远超出了观察的范畴，关于原子的假设是否应该成为经验科学的一部分？19 世纪确实有哲学家和科学家对这个问题给出了否定的答案。当代哲学家对于这个辩论究竟是科学问题还是哲学问题存在分歧。是否有理由反对原子论，认为其无益或缺乏充分的实验支持，或者这样的反对源于某种一般的认识论命题，也许是某种实证主义，它排除了任何试图通过引入不可观察的原子来解释可观察现象的尝试？许多当代哲学家认为原子论的最终胜利是现实主义战胜实证主义的胜利。这些主张既具有历史性又具有哲学性，因此在评估它们时，弄清历史事实是很重要的。在这方面，哲学文献在 19 世纪化学史的最新进展方面仍有待追赶。本文介绍了从 17 世纪到 20 世纪初，即原子的存在不再是一个有争议的问题的时期，原子论的关键发展。重点放在各个版本的认识论地位上，以及科学与哲学之间的关系。
-
 
 ***
 
@@ -21,7 +20,7 @@ _首次发布于 2005 年 6 月 30 日；实质性修订于 2014 年 10 月 9 �
 
 二十世纪的原子论在某种程度上代表了古希腊理想的实现，因为它是一种关于物质性质的理论，以基本粒子（电子、质子和中子）为基础，以少数基本属性来描述。主要的区别在于，粒子的性质和统治它们的法则是通过经验而不是先验的哲学论证得出的。
 
-_推荐阅读：_ Melson（1952）是一本有些过时但仍然有趣和有用的关于原子论历史的哲学观点的概述。Chalmers（2009）是一部关于原子论的历史，重点关注哲学和科学关于原子的理论之间的关系。
+*推荐阅读：* Melson（1952）是一本有些过时但仍然有趣和有用的关于原子论历史的哲学观点的概述。Chalmers（2009）是一部关于原子论的历史，重点关注哲学和科学关于原子的理论之间的关系。
 
 ## 2.十七世纪的原子论
 
@@ -67,7 +66,7 @@ _推荐阅读：_ Melson（1952）是一本有些过时但仍然有趣和有用�
 
 17 世纪无疑见证了一系列实验科学的发展，这是一个具有重要认识论意义的事件。然而，17 世纪原子论的实验基础仍然非常薄弱，各种版本的原子论都不能说对实验产生了有益的启发或得到了实验的证实，这一观点已经由迈内尔（1988 年）在他对 17 世纪原子论实验基础的调查中得到了证明，并在 Chalmers（2009 年）的详细论述中进行了论证。诉诸原子来解释石头逐渐磨损、液体蒸发、溶液通过多次折叠的滤纸等现象的做法至少可以追溯到卢克莱修斯（Lucretius），并且这些做法并不足以说服任何不愿接受原子的现实性的人。化学反应物的组合和恢复的实验知识在 17 世纪显然有了显著增长，但这本身并不足以证明原子的参与。显微镜揭示的证据当然是 17 世纪的新发现，揭示了一个以前未知的微观世界。但是，微观系统的性质在质量上与宏观系统并没有本质上的区别，这并没有帮助证明可观察系统（无论是微观还是宏观）的性质是从原子的性质中产生的。
 
-_推荐阅读：_ Clericuzio（2000）是对 17 世纪原子理论的详细调查。Stewart（1979）是关于伯尔的机械原子论的哲学论文集。Newman（2006）和 Chalmers（2009）详细介绍了伯尔的原子论。关于其性质和地位的辩论包括 Chalmers（1993），Chalmers（2002），Chalmers（2009），Chalmers（2010），Newman（2006），Newman（2010），Anstey（2002）和 Pyle（2002）。
+*推荐阅读：* Clericuzio（2000）是对 17 世纪原子理论的详细调查。Stewart（1979）是关于伯尔的机械原子论的哲学论文集。Newman（2006）和 Chalmers（2009）详细介绍了伯尔的原子论。关于其性质和地位的辩论包括 Chalmers（1993），Chalmers（2002），Chalmers（2009），Chalmers（2010），Newman（2006），Newman（2010），Anstey（2002）和 Pyle（2002）。
 
 ## 3. 牛顿的原子论
 
@@ -101,7 +100,7 @@ _推荐阅读：_ Clericuzio（2000）是对 17 世纪原子理论的详细调�
 
 十八世纪的原子论被实验证实不充分，并且未能为实验者提供有用的指导，这样的评价对于采用何种证实理论或对于一个充分科学解释的要求是相当不敏感的。这种情况在道尔顿原子论的出现后得到了改变，这是第一个与实验有生产性联系的原子论的有力候选。
 
-_推荐阅读：_ Thackray（1970）是牛顿的原子论及其在十八世纪的发展的权威详细描述。牛顿的原子论与他的力学之间的关系在 Chalmers（2009 年，第 7 章）中进行了讨论。
+*推荐阅读：* Thackray（1970）是牛顿的原子论及其在十八世纪的发展的权威详细描述。牛顿的原子论与他的力学之间的关系在 Chalmers（2009 年，第 7 章）中进行了讨论。
 
 ## 4.十九世纪的化学原子论
 
@@ -159,7 +158,7 @@ Berzelius 关于化学组合的电性质的猜测之所以具有合理性，是�
 
 到 19 世纪 60 年代，独特的原子质量和有机化学所产生的结构式对于最终能够提出原子论的案例来说是至关重要的要素。但有理由对原子论促使有机化学的兴起以及这一成就对原子论的支持程度提出警惕，需要更加谨慎地阐述。格莱默（1980 年，226-263 页）提供了一个关于道尔顿的原子论如何逐渐得到证实并在 1860 年确立相对原子质量的解释，这符合他关于证实的“自我提升”解释，这一解释被加德纳（1979 年）采纳并发展。这些解释没有考虑有机化学。从某种意义上说，这样做实际上有助于改进格莱默的解释，因为它为他的案例提供了更多相互关联和相互支持的假设和证据的要素。但从另一方面来说，有机化学通过化学手段导致了独特的化学式，这对格莱默关注化学中确立明确的原子质量作为“问题”的观点产生了怀疑。有理由认为，在 1860 年之前，有机化学的进展是正确的原子质量的结果，而不是先决条件。毕竟，从现代观点来看，那些引人注目的进展中，大多数产生的化学式都是错误的！例如，使用同系列将较低碳氢化合物的性质推广到较高碳氢化合物上，如果将正确的化学式中的碳原子数加倍，这不会受到影响，而当时许多有机化学家就是这样做的，将碳的相对原子质量设为 6。
 
-_推荐阅读：_ Rocke（1984）是对 18 世纪化学相关理论的详细研究，而 Klein（2003）则是有机化学中引入公式的历史和哲学分析。Chalmers（2009，第 9 章和第 10 章）讨论了 19 世纪化学中原子论的经验状况。
+*推荐阅读：* Rocke（1984）是对 18 世纪化学相关理论的详细研究，而 Klein（2003）则是有机化学中引入公式的历史和哲学分析。Chalmers（2009，第 9 章和第 10 章）讨论了 19 世纪化学中原子论的经验状况。
 
 ## 5. 19 世纪物理学中的原子论
 
@@ -211,7 +210,7 @@ _推荐阅读：_ Rocke（1984）是对 18 世纪化学相关理论的详细研�
 
 通常被认为彻底改变原子论者命运的因素是让·佩兰关于布朗运动的实验。Nye（1972 年，145-52 页）记录了奥斯特瓦尔德和其他人承认这些实验证明了原子论的案例。
 
-_建议阅读：_ Clarke（1976）是对热力学和动力学理论之间关系的详细调查，其中包含了两个理论的良好总结。Nyoff（1988）对 Clarke 关于动力学理论的反对意见主要基于科学理由的观点提出了质疑，并对特定热容问题进行了良好的处理，这一观点在 de Regt（1996）中进一步讨论。
+*建议阅读：* Clarke（1976）是对热力学和动力学理论之间关系的详细调查，其中包含了两个理论的良好总结。Nyoff（1988）对 Clarke 关于动力学理论的反对意见主要基于科学理由的观点提出了质疑，并对特定热容问题进行了良好的处理，这一观点在 de Regt（1996）中进一步讨论。
 
 ## 6. 布朗运动
 
@@ -249,65 +248,65 @@ Perrin 对动力学理论的论证力量，以及分子的实际存在，源于�
 
 ## Bibliography
 
-* Achinstein, P., 2001, _The Book of Evidence_, Oxford: Oxford University Press.
-* Anstey, P., 2002, “Robert Boyle and the Heuristic Value of Mechanism”, _Studies in History and Philosophy of Science_, 33: 161–74.
-* Berzelius, J., 1813, “Essay on the Cause of Chemical Proportions , and on Some Circumstances Relating to Them; Together with a Short and Easy Method of Expressing Them”, _Annals of Philosophy_, 3: 51–62, 93–106, 244–57, 353–64.
-* –––, 1815, “An Address to the Chemists Who Wish to Examine the Laws of Chemical Proportions and the Theory of Chemistry in General”, _Annals of Philosophy_, 5: 122–31.
-* Bird, A., 1998, _Philosophy of Science_, London: UCL Press.
-* Boltzmann, L, 1872, “Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen”, _Wissenschaftliche Abhandlungen_, 1: 316–402, translated in S. Brush, _Kinetic Theory_, Vol. 2, Oxford: Pergamon Press, 1966, 88–175.
-* Boscovich, R., 1966, _A Theory of Natural Philosophy_, Cambridge, Mass.: MIT Press.
-* Brooke, J., 1981, “Avogadro's Hypothesis and its Fate: A Case-study in the History of Case-studies”, _History of Science_, 19: 235–73.
-* Cajori, F., 1962, _Sir Isaac Newton's Mathematical Principles of Natural Philosophy and his System of the World_, Berkeley, California: University of California Press.
-* Chalmers, A., 1993, “The Lack of Excellency of Boyle’s Mechanical Philosophy”, _Studies in History and Philosophy of Science_, 24: 541–64.
-* –––, 2002, “Experiment versus Mechanical Philosophy in the Work of Robert Boyle”, _Studies in History and Philosophy of Science_, 33: 191–97.
-* –––, 2009, _The Scientist's Atom and the Philosopher's Stone: How Science Succeeded and Philosophy Failed to Gain Knowledge of Atoms._ , Dordrecht: Springer.
-* –––, 2010, “Boyle and the Origins of Modern Chemistry: Newman Tried in the Fire”, _Studies in History and Philosophy of Science_, 41: 1–10.
-* –––, 2011, “The Philosophical Significance of Perrin's Experiments on Brownian Motion”, _British Journal for the Philosophy of Science_, 62: 711–732.
-* Clark, P., 1976, “Atomism Versus Thermodynamics”, in _Method and Appraisal in the Physical Sciences_, C. Howson (ed.), Cambridge: Cambridge University Press.
-* Clericuzio, A., 1990, “A Redefinition of Boyle’s Chemistry and Corpuscular Philosophy”, _Annals of Science_, 47: 561–89.
-* –––, 2000, _Elements, Principles and Corpuscles: A Study of Atomism and Chemistry in the Seventeenth Century_, Dordrecht: Kluwer.
-* Cohen, I., 1958, _Isaac Newton's Papers and Letters in Natural Philosophy_, Cambridge: Cambridge University Press.
-* Dalton, J., 1808, _A New System of Chemical Philosophy_, Manchester: S. Russell, reprinted by Citadel Press, New York, 1964.
-* –––, 1814, “Remarks on the Essay of Dr. Berzelius on the Cause of Chemical Proportions”, _Annals of Philosophy_, 3: 174–80.
-* de Regt, H. W., 1996, “Philosophy and the Kinetic Theory of Gases”, _British Journal for the Philosophy of Science_ 47: 31–62.
-* Duhem, P., 2002, _Mixture and Chemical Combination and Related Essays_, P. Needham (ed. and trans.), Dordrecht: Kluwer.
-* Einstein, A., 1905, “Über die von der molecular-kinetischen Theorie der Wärme Bewegungen von in ruhenden Flüssigkeiten suspendierten Teilchen”, _Annalen der Physik_, 17: 549–60, translated in R. Furth (1956, 1–18).
-* –––, 1906, “Theorie der Brownschen Bewegung”, _Annalen der Physik_, 19: 371–81, translated in Furth (1956, 19–35).
-* –––, 1907, “Theoretische Bemerkungen über die Brownsche Bewegung”, _Zeitschrift für Electrochemie_, 13: 41–2, translated in Furth (1956, 63–7).
-* Emerton, N., 1984, _The Scientific Reinterpretation of Form_, Ithaca: Cornell University Press.
-* Fisher, N., 1982, “Avogadro, the Chemists, and Historians of Chemistry”, _History of Science_, 20: 77–102 and 212–31.
-* Furth, R. (ed.), 1956, _Albert Einstein: Investigations on the Theory of Brownian Movement_, New York: Dover.
-* Gardner, M., 1979, “Realism and Instrumentalism in 19th-Century Atomism”, _Philosophy of Science_, 46: 1–34.
-* Gibbs, J., 1876–8, “On the Equilibrium of Heterogeneous Substances” in _The Scientific Papers of J. Willard Gibbs_, New York: Dover, 1961, 55–353.
-* Glymour, C., 1980, “_Theory and Evidence_”, Princeton: Princeton University Press.
-* Helmholtz, H., 1881, “On the Modern Development of Faraday's Conception of Electricity: The Faraday Lecture”, _Journal of the Chemical Society_, 39: 227–304.
-* Klein, U., 1995, “E. F. Geoffroy's Table of Different ‘Rapports’ Observed between Different Chemical Substances – A Reinterpretation”, _Ambix_, 42: 79–100.
-* –––, 2003, _Experiment, Models, Paper Tools: Cultures of Organic Chemistry in the Nineteenth Century_, Stanford: Stanford University Press.
-* Mandelbaum, M., 1964, _Philosophy, Science and Sense Perception: Historical and Critical Studies_, Baltimore: John Hopkins Press.
-* Mayo, D., 1996, _Error and the Growth of Experimental Knowledge_, Chicago: Chicago University Press.
-* Meinel, C., 1988, “Seventeenth-Century Atomism: Theory, Epistemology and the Insufficiency of Experiment”, _Isis_, 79: 68–103.
-* Van Melsen, A., 1952, _From Atomos to Atom_, Pittsburgh; Dusquesne University Press.
-* Needham, P. 2004a, “Has Daltonian Atomism Provided Chemistry With any Explanations?”, _Philosophy of Science_, 71: 1038–48.
-* –––, 2004b, “When Did Atoms Begin to Do Explanatory Work in Chemistry?” _International Studies in the Philosophy of Science_, 18: 199–219.
-* Newman, W., 1991, _The Summa Perfectionis of Pseudo-Geber_, Leiden: E. J. Brill.
-* –––, 1994, _Gehennical Fire: The Lives of George Starkey, an American Alchemist in the Scientific Revolution_, Cambridge, Mass.: Harvard University Press.
-* –––, 1996, “The Alchemical Sources of Robert Boyle’s Chemistry and Corpuscular Philosophy”, _Annals of Science_, 53: 567–85.
-* –––, 2006, _Atoms and Alchemy_, Chicago: University of Chicago Press.
-* –––, 2010, “How not to Integrate the History and Philosophy of Science: A Reply to Chalmers”, _Studies in History and Philosophy of Science_, 41: 203–213.
-* Niven, W., 1965, _The Scientific Papers of James Clerk Maxwell_, 2. Vols., New York: Dover.
-* Nye, M., 1972, _Molecular Reality: A Perspective on the Scientific Work of Jean Perrin_, London: MacDonald.
-* Nyhof, J., 1988, “Philosophical Objections to the Kinetic Theory”, _British Journal for the Philosophy of Science_, 39: 81–109.
-* Ostwald, W., 1904, “Elements and Compounds” reprinted in C. Gibson and A. Greenaway (eds), _Faraday Lectures, 1869–1928_, London: The Chemical Society, 1928.
-* Perrin, J., 1990, _Atoms_, Woodbridge, Ct.: Ox Bow Press.
-* Pyle, A., 1995, _Atomism and Its Critics_, Bristol: Thoemmes Press.
-* –––, 2002, “Boyle on Science and the Mechanical Philosophy: A Reply to Chalmers”, _Studies in History and Philosophy of Science_, 33: 175–190.
-* Rocke, A., 1984, “_Atomism in the Nineteenth Century: From Dalton to Cannizzaro_”, Ohio: Ohio State University Press.
-* –––, 2013, “What Did Theory Mean to Nineteenth-century Chemists”, _Foundations of Chemistry_, 15: 145–156.
-* Stewart, M., 1974, _Selected Philosophical Papers of Robert Boyle_, Manchester: Manchester University Press.
-* Thackray, A., 1968, “Matter in a Nut-shell: Newton’s _Opticks_ and Eighteenth-Century Chemistry”, _Ambix_, 15:, 29–53.
-* –––, 1970, _Atoms and Powers: An Essay on Newtonian Matter Theory and the Development of Chemistry_, Cambridge, Mass.: Harvard University Press.
-* Thomson, J., 1987, “Cathode Rays”, _Philosophical Magazine,_ 44: 293–316.
-* Van Fraassen, B., “The Perils of Perrin in the Hands of Philosophers”, _Philosophical Studies,_ 143: 5–24.
+* Achinstein, P., 2001, *The Book of Evidence*, Oxford: Oxford University Press.
+* Anstey, P., 2002, “Robert Boyle and the Heuristic Value of Mechanism”, *Studies in History and Philosophy of Science*, 33: 161–74.
+* Berzelius, J., 1813, “Essay on the Cause of Chemical Proportions , and on Some Circumstances Relating to Them; Together with a Short and Easy Method of Expressing Them”, *Annals of Philosophy*, 3: 51–62, 93–106, 244–57, 353–64.
+* –––, 1815, “An Address to the Chemists Who Wish to Examine the Laws of Chemical Proportions and the Theory of Chemistry in General”, *Annals of Philosophy*, 5: 122–31.
+* Bird, A., 1998, *Philosophy of Science*, London: UCL Press.
+* Boltzmann, L, 1872, “Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen”, *Wissenschaftliche Abhandlungen*, 1: 316–402, translated in S. Brush, *Kinetic Theory*, Vol. 2, Oxford: Pergamon Press, 1966, 88–175.
+* Boscovich, R., 1966, *A Theory of Natural Philosophy*, Cambridge, Mass.: MIT Press.
+* Brooke, J., 1981, “Avogadro's Hypothesis and its Fate: A Case-study in the History of Case-studies”, *History of Science*, 19: 235–73.
+* Cajori, F., 1962, *Sir Isaac Newton's Mathematical Principles of Natural Philosophy and his System of the World*, Berkeley, California: University of California Press.
+* Chalmers, A., 1993, “The Lack of Excellency of Boyle’s Mechanical Philosophy”, *Studies in History and Philosophy of Science*, 24: 541–64.
+* –––, 2002, “Experiment versus Mechanical Philosophy in the Work of Robert Boyle”, *Studies in History and Philosophy of Science*, 33: 191–97.
+* –––, 2009, *The Scientist's Atom and the Philosopher's Stone: How Science Succeeded and Philosophy Failed to Gain Knowledge of Atoms.* , Dordrecht: Springer.
+* –––, 2010, “Boyle and the Origins of Modern Chemistry: Newman Tried in the Fire”, *Studies in History and Philosophy of Science*, 41: 1–10.
+* –––, 2011, “The Philosophical Significance of Perrin's Experiments on Brownian Motion”, *British Journal for the Philosophy of Science*, 62: 711–732.
+* Clark, P., 1976, “Atomism Versus Thermodynamics”, in *Method and Appraisal in the Physical Sciences*, C. Howson (ed.), Cambridge: Cambridge University Press.
+* Clericuzio, A., 1990, “A Redefinition of Boyle’s Chemistry and Corpuscular Philosophy”, *Annals of Science*, 47: 561–89.
+* –––, 2000, *Elements, Principles and Corpuscles: A Study of Atomism and Chemistry in the Seventeenth Century*, Dordrecht: Kluwer.
+* Cohen, I., 1958, *Isaac Newton's Papers and Letters in Natural Philosophy*, Cambridge: Cambridge University Press.
+* Dalton, J., 1808, *A New System of Chemical Philosophy*, Manchester: S. Russell, reprinted by Citadel Press, New York, 1964.
+* –––, 1814, “Remarks on the Essay of Dr. Berzelius on the Cause of Chemical Proportions”, *Annals of Philosophy*, 3: 174–80.
+* de Regt, H. W., 1996, “Philosophy and the Kinetic Theory of Gases”, *British Journal for the Philosophy of Science* 47: 31–62.
+* Duhem, P., 2002, *Mixture and Chemical Combination and Related Essays*, P. Needham (ed. and trans.), Dordrecht: Kluwer.
+* Einstein, A., 1905, “Über die von der molecular-kinetischen Theorie der Wärme Bewegungen von in ruhenden Flüssigkeiten suspendierten Teilchen”, *Annalen der Physik*, 17: 549–60, translated in R. Furth (1956, 1–18).
+* –––, 1906, “Theorie der Brownschen Bewegung”, *Annalen der Physik*, 19: 371–81, translated in Furth (1956, 19–35).
+* –––, 1907, “Theoretische Bemerkungen über die Brownsche Bewegung”, *Zeitschrift für Electrochemie*, 13: 41–2, translated in Furth (1956, 63–7).
+* Emerton, N., 1984, *The Scientific Reinterpretation of Form*, Ithaca: Cornell University Press.
+* Fisher, N., 1982, “Avogadro, the Chemists, and Historians of Chemistry”, *History of Science*, 20: 77–102 and 212–31.
+* Furth, R. (ed.), 1956, *Albert Einstein: Investigations on the Theory of Brownian Movement*, New York: Dover.
+* Gardner, M., 1979, “Realism and Instrumentalism in 19th-Century Atomism”, *Philosophy of Science*, 46: 1–34.
+* Gibbs, J., 1876–8, “On the Equilibrium of Heterogeneous Substances” in *The Scientific Papers of J. Willard Gibbs*, New York: Dover, 1961, 55–353.
+* Glymour, C., 1980, “*Theory and Evidence*”, Princeton: Princeton University Press.
+* Helmholtz, H., 1881, “On the Modern Development of Faraday's Conception of Electricity: The Faraday Lecture”, *Journal of the Chemical Society*, 39: 227–304.
+* Klein, U., 1995, “E. F. Geoffroy's Table of Different ‘Rapports’ Observed between Different Chemical Substances – A Reinterpretation”, *Ambix*, 42: 79–100.
+* –––, 2003, *Experiment, Models, Paper Tools: Cultures of Organic Chemistry in the Nineteenth Century*, Stanford: Stanford University Press.
+* Mandelbaum, M., 1964, *Philosophy, Science and Sense Perception: Historical and Critical Studies*, Baltimore: John Hopkins Press.
+* Mayo, D., 1996, *Error and the Growth of Experimental Knowledge*, Chicago: Chicago University Press.
+* Meinel, C., 1988, “Seventeenth-Century Atomism: Theory, Epistemology and the Insufficiency of Experiment”, *Isis*, 79: 68–103.
+* Van Melsen, A., 1952, *From Atomos to Atom*, Pittsburgh; Dusquesne University Press.
+* Needham, P. 2004a, “Has Daltonian Atomism Provided Chemistry With any Explanations?”, *Philosophy of Science*, 71: 1038–48.
+* –––, 2004b, “When Did Atoms Begin to Do Explanatory Work in Chemistry?” *International Studies in the Philosophy of Science*, 18: 199–219.
+* Newman, W., 1991, *The Summa Perfectionis of Pseudo-Geber*, Leiden: E. J. Brill.
+* –––, 1994, *Gehennical Fire: The Lives of George Starkey, an American Alchemist in the Scientific Revolution*, Cambridge, Mass.: Harvard University Press.
+* –––, 1996, “The Alchemical Sources of Robert Boyle’s Chemistry and Corpuscular Philosophy”, *Annals of Science*, 53: 567–85.
+* –––, 2006, *Atoms and Alchemy*, Chicago: University of Chicago Press.
+* –––, 2010, “How not to Integrate the History and Philosophy of Science: A Reply to Chalmers”, *Studies in History and Philosophy of Science*, 41: 203–213.
+* Niven, W., 1965, *The Scientific Papers of James Clerk Maxwell*, 2. Vols., New York: Dover.
+* Nye, M., 1972, *Molecular Reality: A Perspective on the Scientific Work of Jean Perrin*, London: MacDonald.
+* Nyhof, J., 1988, “Philosophical Objections to the Kinetic Theory”, *British Journal for the Philosophy of Science*, 39: 81–109.
+* Ostwald, W., 1904, “Elements and Compounds” reprinted in C. Gibson and A. Greenaway (eds), *Faraday Lectures, 1869–1928*, London: The Chemical Society, 1928.
+* Perrin, J., 1990, *Atoms*, Woodbridge, Ct.: Ox Bow Press.
+* Pyle, A., 1995, *Atomism and Its Critics*, Bristol: Thoemmes Press.
+* –––, 2002, “Boyle on Science and the Mechanical Philosophy: A Reply to Chalmers”, *Studies in History and Philosophy of Science*, 33: 175–190.
+* Rocke, A., 1984, “*Atomism in the Nineteenth Century: From Dalton to Cannizzaro*”, Ohio: Ohio State University Press.
+* –––, 2013, “What Did Theory Mean to Nineteenth-century Chemists”, *Foundations of Chemistry*, 15: 145–156.
+* Stewart, M., 1974, *Selected Philosophical Papers of Robert Boyle*, Manchester: Manchester University Press.
+* Thackray, A., 1968, “Matter in a Nut-shell: Newton’s *Opticks* and Eighteenth-Century Chemistry”, *Ambix*, 15:, 29–53.
+* –––, 1970, *Atoms and Powers: An Essay on Newtonian Matter Theory and the Development of Chemistry*, Cambridge, Mass.: Harvard University Press.
+* Thomson, J., 1987, “Cathode Rays”, *Philosophical Magazine,* 44: 293–316.
+* Van Fraassen, B., “The Perils of Perrin in the Hands of Philosophers”, *Philosophical Studies,* 143: 5–24.
 
 ## Academic Tools
 

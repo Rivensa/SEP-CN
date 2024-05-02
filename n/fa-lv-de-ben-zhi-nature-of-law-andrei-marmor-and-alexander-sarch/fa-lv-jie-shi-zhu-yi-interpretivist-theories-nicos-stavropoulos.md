@@ -6,8 +6,6 @@
 
 法律解释主义与罗纳德·德沃金密切相关，他在 45 年的多个出版物中发展了这一立场（参见参考文献中引用的德沃金的著作）。德沃金的著作引发了大量的辩论（以下是一些来自广泛的二次文献的例子：Mitchell 1983; Cohen 1984; Hart 1994 (Postscript); Raz 1972, 1986, 1994: Chapters 10 and 13, 2001; Finnis 1992; Coleman 2001b; Brink 2001; Burley 2004; Hershovitz 2006a; Ripstein 2007; Shapiro 2007; Smith 2010; Gardner 2012; Greenberg 2014; Hershovitz 2015)。在本条目中，我们将重点关注德沃金发展和捍卫的立场的解释（尽管不一定关注他的表述或捍卫方式）。
 
- 
-
 ---
 
 ## 1. 法律的基础

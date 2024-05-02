@@ -4,7 +4,6 @@
 
 殖民主义是一种统治实践，涉及将一群人征服另一群人。至少自十字军东征和对美洲的征服以来，政治理论家们一直使用正义、契约和自然法理论来批评和辩护欧洲的统治。在 19 世纪，自由主义理想与殖民实践之间的矛盾变得尤为尖锐，因为欧洲对世界其他地区的统治达到了顶峰。本文从殖民主义的定义开始，第二部分解释了欧洲思想家如何辩护、合法化和挑战对美洲的征服。第三部分关注自由主义，第四部分简要讨论了马克思主义传统，包括马克思自己对英国在印度的殖民统治的辩护以及列宁的反帝国主义著作。第五部分介绍了当代的“后殖民理论”。这种方法在文学研究中特别有影响，因为它引起人们对后殖民主体性是如何通过话语实践构成和抵抗的多样方式的关注。最后一部分将介绍土著对殖民者殖民主义的批评，这些批评是对殖民统治和剥夺土地、风俗和传统历史的回应，也是对普遍主义后殖民理论的回应。本文的目标是概述对欧洲殖民经验的哲学回应。
 
-
 ---
 
 ## 1. 定义和概要
@@ -145,7 +144,7 @@ Coulthard 的书名暗示了 Frantz Fanon 的开创性作品《黑皮肤，白�
 * Tocqueville, Alexis, 1837. “Second Letter on Algeria,” in *Writings on Empire and Slavery*, Jennifer Pitts (ed. and trans.), Baltimore, MD: Johns Hopkins University Press, 2001, pp. 14–26.
 * Tocqueville, Alexis, 1841. “Essay on Algeria,” in *Writings on Empire and Slavery*, Jennifer Pitts (ed. and trans.), Baltimore, MD: Johns Hopkins University Press, 2001, pp. 59–116.
 * Turner, Dale, 2006. *This Is Not a Peace Pipe: Towards a Critical Indigenous Philosophy*, Toronto: University of Toronto Press.
-* Tuck, Eve, and Yang, Wayne, K., 2012. “Decolonization is not a Metaphor,” *Decolonization: Indigeneity, Education and Society*, 1(1): 1–40. 
+* Tuck, Eve, and Yang, Wayne, K., 2012. “Decolonization is not a Metaphor,” *Decolonization: Indigeneity, Education and Society*, 1(1): 1–40.
 * Victoria, Franciscus de, 1917. *On the Indians Lately Discovered*, E. Nys (ed.), Washington: Carnegie Institute.
 * Wallerstein, Immanuel, 1974–1989. *The Modern World System*, 3 volumes, New York: Academic Press.
 * Williams, Eric, 1994. *Capitalism and Slavery*. Chapel Hill: The University of North Carolina Press.

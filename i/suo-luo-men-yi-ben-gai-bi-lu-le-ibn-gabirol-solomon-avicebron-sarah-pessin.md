@@ -1,10 +1,9 @@
 # 所罗门·伊本·盖比鲁勒 Ibn Gabirol, Solomon \[Avicebron] (Sarah Pessin)
 
-_首次发表于2010年9月23日星期四_
+*首次发表于2010年9月23日星期四*
 
 所罗门·伊本·盖比鲁勒是一位多产的诗人，也是《生命之泉》的作者。在哲学史上，他以“普遍的物质形态论”（包括灵魂和智力在内的一切事物都由物质和形态组成）和对神圣意愿的强调而闻名。伊本·盖比鲁勒首先受到新柏拉图主义神学的影响，认为上帝的实在贯穿万物，并受到新柏拉图主义回归的伦理和存在理想的影响——即我们必须通过思想和行为努力回归我们自己最真实的本质和与源头的相似性。几个世纪以来，基督教学者错误地认为伊本·盖比鲁勒是奥古斯丁的基督教捍卫者或亚里士多德的穆斯林误读者，实际上他是一位犹太新柏拉图主义者，受到伪恩庇多克勒斯思想的额外影响，为我们描绘了一个修改过的普罗提诺宇宙，其中一切事物都根植于各种物质和形态的“层次”，揭示了上帝自己的意愿/智慧/话语的调解之恩。对于伊本·盖比鲁勒来说，一切事物（甚至智力本身的简单统一）都显示出物质+形态的复杂性，以此反映出上帝自己“本质”和“活动”时刻的复杂统一。当上帝展示自己为“生命之泉”时，我们的物质核心就像一条河流，通过它我们可以始终回到我们的源头。
 
- 
 ***
 
 ## 1. 生平、作品、来源和影响
@@ -35,7 +34,7 @@ _首次发表于2010年9月23日星期四_
 
 指出伊本·盖比鲁勒不是亚里士多德主义者，很大程度上否定了托马斯·阿奎那和其他中世纪思想家对伊本·盖比鲁勒的形而上学的最深层批评（与细节相对）。由于伊本·盖比鲁勒并不试图（明示或暗示地）做许多学者试图做的事情（即“正确理解亚里士多德”），从亚里士多德的角度批评伊本·盖比鲁勒在方法上是有问题的。亚里士多德的视角并不能让我们理解伊本·盖比鲁勒试图为我们描绘的形而上学图景。
 
-### 在研究伊本·盖比鲁勒时，注意到奥古斯丁的视角。
+### 在研究伊本·盖比鲁勒时，注意到奥古斯丁的视角
 
 所罗门·伊本·盖比鲁勒在《生命之泉》中的另一个关键兴趣是神圣的意愿。这部分解释了为什么许多基督教方济各会修士认为《生命之泉》不仅是由一个基督徒所写，而且是由他们认为是一个正直的奥古斯丁基督徒所写。虽然自 19 世纪以来我们就已经知道《生命之泉》实际上是由一位犹太诗人所写，但这在很大程度上并没有改变对《生命之泉》的奥古斯丁主义学术研究。例如，一些学者仅仅基于伊本·盖比鲁勒对神圣意愿的概念认为，他（像奥古斯丁一样）必须是指与发出相悖的某种神圣力量。虽然伊本·盖比鲁勒的宇宙起源学细节很复杂，而且他的意愿观可能确实排除了发出，但另一个同样有力的选择是他使用“神圣意愿”一词的方式（与奥古斯丁相反）与普罗提诺的发出理论非常相容。我在这里的观点只是要告诫读者：仅仅因为某些东西听起来像奥古斯丁的观点并不意味着它就是，如果不是，我们需要保持所有概念选择的开放性。在普罗提诺的著作中，“意愿”与发出是一致的；我们不应该从一个假设相反的奥古斯丁视角出发，来阅读《生命之泉》。\[16]（在这方面，Pessin 2009 年，第 286 页，附注 54，使用“神圣欲望”一词来替代拉丁文的“voluntas”和英文的“Will”，作为对伊本·盖比鲁勒的阿拉伯文“al-irâda”的翻译。）
 
@@ -189,151 +188,151 @@ _首次发表于2010年9月23日星期四_
 
 ### Works by Ibn Gabirol
 
-#### _Fons Vitae_. Original 11th century Arabic text
+#### *Fons Vitae*. Original 11th century Arabic text
 
-* For Arabic fragments of _Fons Vitae_, see main bibliography: Pines 1958/77 and Fenton 1976.
+* For Arabic fragments of *Fons Vitae*, see main bibliography: Pines 1958/77 and Fenton 1976.
 
-#### _Fons Vitae_. 12th century Latin translation (and translations of the Latin translation)
+#### *Fons Vitae*. 12th century Latin translation (and translations of the Latin translation)
 
-* 1892\. _Avencebrolis (Ibn Gabirol) Fons Vitae, ex Arabico in Latinum Translatus ab Johanne Hispano et Dominico Gundissalino_, edited by Baeumker. Münster. In _Beiträge zur Geschichte der Philosophie des Mittelalters, Texte und Untersuchungen_, edited by Baeumker and Hertling. Münster.\
-  Contains the Latin text of the _Fons Vitae_ as translated from Arabic in the 12th century by Dominicus Gundissalinus and John of Spain
-* 1950\. _La source de vie; livre III_, translated with commentary by Fernand Brunner. Paris: Librairie Philosophique J. Vrin.\
-  French translation of book three of the _Fons Vitae_, with commentary by Brunner.
-* 1954\. _Fountain of Life_, translated by A. B. Jacob. Philadelphia.\
-  This is a full English translation of the _Fons_ _Vitae_, but its idiosyncratic terminology greatly obscures philosophical points in the text (e.g. matter and form are translated as “material and structure”).
-* 1962\. _Ozar Ha-Mahshavah shel Ha-Yahadut_, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk.\
-  This volume includes a contemporary Hebrew translation by Blovstein of the Latin Baeumker text (see pp. 3–432): _Rabbi Shlomo ben Gabirol, Sefer Meqor Hayyim_, translated \[into Hebrew from Latin] by Yaakov Blovstein.
-* 1962/2008. _The Fountain of Life_, (Book 3), translated by Henry E. Wedeck. New York: Philosophical Library. \[Reprinted as _Solomon Ibn Gabirol, The Fountain of Life_. Bibliobazaar, 2008.]
+* 1892\. *Avencebrolis (Ibn Gabirol) Fons Vitae, ex Arabico in Latinum Translatus ab Johanne Hispano et Dominico Gundissalino*, edited by Baeumker. Münster. In *Beiträge zur Geschichte der Philosophie des Mittelalters, Texte und Untersuchungen*, edited by Baeumker and Hertling. Münster.\
+  Contains the Latin text of the *Fons Vitae* as translated from Arabic in the 12th century by Dominicus Gundissalinus and John of Spain
+* 1950\. *La source de vie; livre III*, translated with commentary by Fernand Brunner. Paris: Librairie Philosophique J. Vrin.\
+  French translation of book three of the *Fons Vitae*, with commentary by Brunner.
+* 1954\. *Fountain of Life*, translated by A. B. Jacob. Philadelphia.\
+  This is a full English translation of the *Fons* *Vitae*, but its idiosyncratic terminology greatly obscures philosophical points in the text (e.g. matter and form are translated as “material and structure”).
+* 1962\. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk.\
+  This volume includes a contemporary Hebrew translation by Blovstein of the Latin Baeumker text (see pp. 3–432): *Rabbi Shlomo ben Gabirol, Sefer Meqor Hayyim*, translated \[into Hebrew from Latin] by Yaakov Blovstein.
+* 1962/2008. *The Fountain of Life*, (Book 3), translated by Henry E. Wedeck. New York: Philosophical Library. \[Reprinted as *Solomon Ibn Gabirol, The Fountain of Life*. Bibliobazaar, 2008.]
 
-#### _Fons Vitae_. 13th century Hebrew translation (and translations of the Hebrew translation)
+#### *Fons Vitae*. 13th century Hebrew translation (and translations of the Hebrew translation)
 
-* 1853/1955. _Extraits de la source de vie de Salomon Ibn Gebirol_. In Solomon Munk, _Mélanges de Philosophie Juive et Arabe_. Paris: Chez A. Franck, Libraire. (Reprinted Paris, 1955).\
-  Contains text of Falaquera's 13th century Hebrew summary of the _Fons Vitae_, as well as Munk's French translation and commentary.
-* 1962\. _Ozar Ha-Mahshavah shel Ha-Yahadut_, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk.\
+* 1853/1955. *Extraits de la source de vie de Salomon Ibn Gebirol*. In Solomon Munk, *Mélanges de Philosophie Juive et Arabe*. Paris: Chez A. Franck, Libraire. (Reprinted Paris, 1955).\
+  Contains text of Falaquera's 13th century Hebrew summary of the *Fons Vitae*, as well as Munk's French translation and commentary.
+* 1962\. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk.\
   The volume includes Shem Tov ibn Falaquera's 13th century Hebrew summary translation of the original Arabic text; see pp. 433–532.
-* 2001\. _Shelomoh ibn Gabirol, Fons Vitae_, by Roberto Gatti. Genova: Il Melangolo.\
-  A new edition of Falaquera's 13th century Hebrew summary of the _Fons Vitae_ (based on new manuscripts not used by Munk) and Italian translation.
+* 2001\. *Shelomoh ibn Gabirol, Fons Vitae*, by Roberto Gatti. Genova: Il Melangolo.\
+  A new edition of Falaquera's 13th century Hebrew summary of the *Fons Vitae* (based on new manuscripts not used by Munk) and Italian translation.
 *
-  2008. “Solomon Ibn Gabirol and Shem Tov b. Joseph Falaquera, _Excerpts from ‘The Source of Life_’ ”, in _Medieval Jewish Philosophical Writings_, edited by Charles Manekin. Cambridge: Cambridge University Press, pp. 23–87.\
+  2008. “Solomon Ibn Gabirol and Shem Tov b. Joseph Falaquera, *Excerpts from ‘The Source of Life*’ ”, in *Medieval Jewish Philosophical Writings*, edited by Charles Manekin. Cambridge: Cambridge University Press, pp. 23–87.\
         English translation of selections of Falaquera's Hebrew excerpts by Charles Manekin.
 
-#### _The Choice of Pearls_/_Mivhar ha-Peninim_
+#### *The Choice of Pearls*/*Mivhar ha-Peninim*
 
-* 1484\. _Mibhar ha-Peninim_ (_Choice of Pearls: Maxims, Proverbs, and Moral Reflections_) \[microform]. Soncino (Italian books before 1601); roll 352, item 5; Cambridge, Mass., General Microfilm Co.
-* 1925\. _Solomon Ibn Gabirol's Choice of Pearls_ (Library of Jewish Classics, Volume IV), translated from the Hebrew with introduction and annotation, A. Cohen (trans.). New York: Bloch Publishing Co., Inc., 1925.
-* 1947\. _Sefer Mivhar ha-Peninim_. A. Habermann, (ed.), Jerusalem: Sifriyat haPo'alim.
+* 1484\. *Mibhar ha-Peninim* (*Choice of Pearls: Maxims, Proverbs, and Moral Reflections*) \[microform]. Soncino (Italian books before 1601); roll 352, item 5; Cambridge, Mass., General Microfilm Co.
+* 1925\. *Solomon Ibn Gabirol's Choice of Pearls* (Library of Jewish Classics, Volume IV), translated from the Hebrew with introduction and annotation, A. Cohen (trans.). New York: Bloch Publishing Co., Inc., 1925.
+* 1947\. *Sefer Mivhar ha-Peninim*. A. Habermann, (ed.), Jerusalem: Sifriyat haPo'alim.
 
-#### _Book on the Improvement of the Moral Qualities of the Soul_
+#### *Book on the Improvement of the Moral Qualities of the Soul*
 
-* 1962\. _Ozar Ha-Mahshavah shel Ha-Yahadut_, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk.\
-  Contains contemporary Hebrew translation by Bar-On of the Arabic text; see second half of the volume after p. 549 (i.e. after the Blovstein and the Falaquera Hebrew translations of _Fons Vitae_), pagination starts again from p. 1; see pp. 1–112. Also contains Hebrew translation of Ibn Tibbon; see third section of the volume after the Bar-On translation; pagination starts again from p. 1; see pp. 1–85.
-* 1966\. _The Improvement of the Moral Qualities_, Columbia University Oriental Studies, Vol. I, Stephen S. Wise (trans.). New York: AMS Press.\
-  Arabic text and English translation of Gabirol's _Sefer Tiqun Midot ha-Nefesh_
+* 1962\. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk.\
+  Contains contemporary Hebrew translation by Bar-On of the Arabic text; see second half of the volume after p. 549 (i.e. after the Blovstein and the Falaquera Hebrew translations of *Fons Vitae*), pagination starts again from p. 1; see pp. 1–112. Also contains Hebrew translation of Ibn Tibbon; see third section of the volume after the Bar-On translation; pagination starts again from p. 1; see pp. 1–85.
+* 1966\. *The Improvement of the Moral Qualities*, Columbia University Oriental Studies, Vol. I, Stephen S. Wise (trans.). New York: AMS Press.\
+  Arabic text and English translation of Gabirol's *Sefer Tiqun Midot ha-Nefesh*
 
 #### Hebrew Poetry Editions
 
 (Note: For some editions of Ibn Gabirol's poetry in English translation, see main bibliography: Cole 2001, Gluck 2003, Lewis 1961, Scheindlin 1986 and 1991.)
 
-* Bialik and Ravnitsky, eds. 1924/1925. _Shirei Shlomo ben Yehudah Ibn Gevirol_, Vol. I–II (_Shirei Hol_). Tel Aviv; Berlin: Dwir-Verlags-Gesellschaft.
-* Schirmann, Y., ed. 1967. _Ibn Gabirol: Shirim Nivharim_. Jerusalem; Tel Aviv: Schocken.
-* Yarden, Dov, ed. 1975. _Shirei ha-Hol le-Rabbi Shlomo Ibn Gevirol_. Jerusalem: Kiryat Noar.
+* Bialik and Ravnitsky, eds. 1924/1925. *Shirei Shlomo ben Yehudah Ibn Gevirol*, Vol. I–II (*Shirei Hol*). Tel Aviv; Berlin: Dwir-Verlags-Gesellschaft.
+* Schirmann, Y., ed. 1967. *Ibn Gabirol: Shirim Nivharim*. Jerusalem; Tel Aviv: Schocken.
+* Yarden, Dov, ed. 1975. *Shirei ha-Hol le-Rabbi Shlomo Ibn Gevirol*. Jerusalem: Kiryat Noar.
 
 ### Some Related Primary Texts
 
-* al-Shahrastânî (Abu’ l-Fath Muhammad). 1923. _Kitâb al-Milal wal-Nihal (Book of Religious and Philosophical Sects)_, Part II, edited by W. Cureton (Leipzig), pp. 260–65. \[This is a reprint of 1846 edition; also see 2002 reprint: _The Book of Religious and Philosophical Sects, Al-Shahrastani_. Edited by W. Cureton. Piscataway: Gorgias Press].
-* Plotinus. _The Enneads_, translated with notes by A.H. Armstrong. The Loeb Classical Library. Cambridge: Harvard University Press, 1966.
-* Plotinus, _Die sogenannte Theologie des Aristoteles: aus arabischen Handschriften_ (_Theology of Aristotle_), F. Dieterici (ed.), Leipzig, 1882. \[Reprint: Amsterdam: Rodopi, 1965.]
-* Proclus. _Liber de Causis_ (_The Book of Causes_)/ (in Arabic: _kalâm fî mahd al-khayr_ / _Discourse on Pure Goodness_)
-  * Bardenhewer, Otto, (ed.). _Die pseudo-aristotelische Schrift Ueber das reine gute: bekannt unter dem Namen Liber De Causis_ \[Arabic text]. Freiberg-im-Breisgau: Herder, 1882 / Frankfurt am Main: Minerva, 1957.
-  * Badawi, A (ed.). _Liber (Pseudo-Aristotelis) de expositione bonitatis purae. In Neoplatonici apud Arabes_. _Islamica_ 19 \[Arabic text]. Cairo, 1955; pp. 1–33.
-  * _St. Thomas Aquinas' Commentary on the Book of Causes_, translated and annotated by Vincent A. Guagliardo, Charles Hess, and Richard C. Taylor. Washington: Catholic University of America Press, 1996.
-* Proclus, _De Philosophia Chaldaica_:
-  * 1971\. _De Philosophia Chaldaica_, ed. É. des Places. Paris (Oracles Chaldaïques, text établi et traduit, pp. 202–12)
-  * 1988\. _The exhortation to philosophy. Including the Letters of Iamblichus and Proclus' commentary on the Chaldean oracles_. Iamblichus, Johnson, T. M., Neuville, S., & Proclus. \[EST: _De philosophia Chaldaica_ \<engl.>]. Grand Rapids, Mich: Phanes Press.
-* Simplicius, 1882. _Simplicii in Aristotelis Physicorum libros quattuor priores commentaria_, edited by Herman Diels. Berlin.
+* al-Shahrastânî (Abu’ l-Fath Muhammad). 1923. *Kitâb al-Milal wal-Nihal (Book of Religious and Philosophical Sects)*, Part II, edited by W. Cureton (Leipzig), pp. 260–65. \[This is a reprint of 1846 edition; also see 2002 reprint: *The Book of Religious and Philosophical Sects, Al-Shahrastani*. Edited by W. Cureton. Piscataway: Gorgias Press].
+* Plotinus. *The Enneads*, translated with notes by A.H. Armstrong. The Loeb Classical Library. Cambridge: Harvard University Press, 1966.
+* Plotinus, *Die sogenannte Theologie des Aristoteles: aus arabischen Handschriften* (*Theology of Aristotle*), F. Dieterici (ed.), Leipzig, 1882. \[Reprint: Amsterdam: Rodopi, 1965.]
+* Proclus. *Liber de Causis* (*The Book of Causes*)/ (in Arabic: *kalâm fî mahd al-khayr* / *Discourse on Pure Goodness*)
+  * Bardenhewer, Otto, (ed.). *Die pseudo-aristotelische Schrift Ueber das reine gute: bekannt unter dem Namen Liber De Causis* \[Arabic text]. Freiberg-im-Breisgau: Herder, 1882 / Frankfurt am Main: Minerva, 1957.
+  * Badawi, A (ed.). *Liber (Pseudo-Aristotelis) de expositione bonitatis purae. In Neoplatonici apud Arabes*. *Islamica* 19 \[Arabic text]. Cairo, 1955; pp. 1–33.
+  * *St. Thomas Aquinas' Commentary on the Book of Causes*, translated and annotated by Vincent A. Guagliardo, Charles Hess, and Richard C. Taylor. Washington: Catholic University of America Press, 1996.
+* Proclus, *De Philosophia Chaldaica*:
+  * 1971\. *De Philosophia Chaldaica*, ed. É. des Places. Paris (Oracles Chaldaïques, text établi et traduit, pp. 202–12)
+  * 1988\. *The exhortation to philosophy. Including the Letters of Iamblichus and Proclus' commentary on the Chaldean oracles*. Iamblichus, Johnson, T. M., Neuville, S., & Proclus. \[EST: *De philosophia Chaldaica* \<engl.>]. Grand Rapids, Mich: Phanes Press.
+* Simplicius, 1882. *Simplicii in Aristotelis Physicorum libros quattuor priores commentaria*, edited by Herman Diels. Berlin.
 
 ### Secondary Literature
 
-* Altmann, Alexander. 1979. “Creation and Emanation in Isaac Israeli: A Reappraisal,” _Studies in Medieval Jewish History and Literature_, 1: 1–15.
-* Altmann, Alexander, and Stern, S. M. 1958/2009. _Isaac Israeli_. Oxford: Oxford University Press. \[Reprinted 2009 by University of Chicago Press.]
-* Asín-Palacios, Miguel. 1978. _The Mystical Philosophy of Ibn Masarra and his Followers_. Leiden: E. J. Brill.
-* Bargebuhr, Frederick P. 1976. _Salomo Ibn Gabirol, Ostwestliches Dichtertum_. Wiesbaden: Harrassowitz.
-* Brunner, Fernand. 1965. _Platonisme et aristotélisme—la critique d'Ibn Gabirol par St. Thomas d'Aquin_. Louvain: _Publications universitaires de Louvain_.
-* –––. 1956 / 1997. “_La doctrine de la matière chez Avicébron_,” _Revue de Théologie et de Philosophie, trois. série_, 6: 261—79. Reprinted in _Fernand Brunner, Métaphysique d'Ibn Gabirol et de la tradition platonicienne_. Great Britain; USA: Ashgate, Variorum.
-* –––. 1965. _Platonisme et Aristotélisme: la critique d'Ibn Gabirol par Saint Thomas D'Aquin_. Louvain: Publications Universitaires de Louvain.
-* –––. _Fernand Brunner, Métaphysique d'Ibn Gabirol et de la tradition platonicienne_. Great Britain; USA: Ashgate, Variorum.
-* Cole, Peter. 2007. _The Dream of the Poem: Hebrew Poetry from Muslim and Christian Spain, 950–1492_. Lockert Library of Poetry in Translation. Princeton: Princeton University Press.
-* –––. 2001. _Selected Poems of Solomon Ibn Gabirol_. Princeton University Press.
-* Crowley, Theodore. 1950. _Roger Bacon: The Problem of the Soul in his Philosophical Commentaries_. Louvain; Dublin: James Duffy and Co., Ltd.
-* Damascius. 1889. _Dubitationes et Solutiones_, C. É. Ruelle (ed.), Paris: Klincksieck.
-* Davidson, Herbert A. 1992. _Alfarabi_\*, Avicenna, and Averroes on Intellect: Their Cosmologies, Theories of the Active Intellect and Theories of Human Intellect\*. Oxford University Press.
-* –––. 1972. “Alfarabi and Avicenna on the Active Intellect,” _Viator_, 3: 109–78.
-* Dillon, John. 1992. “Solomon Ibn Gabirol's Doctrine of Intelligible Matter,” in L. Goodman (ed.), _Neoplatonism_ _and Jewish Thought_, pp. 43–59. Albany: SUNY Press.
-* Fenton, Paul. 1976. “Gleanings from Môseh Ibn ‘Ezra's _Maqâlat_ _al-Hadîqa_,” _Sefarad_, 36: 285–298.
-* –––. _Philosophie et exégèse dans le Jardin de la méthaphore \[sic] de Moïse IbnʻEzra, philosophe et poète andalou du XIIe siècle_. Leiden; New York: Brill.
-* Friedlaender, M. 1877. _Essays on the Writings of Abraham Ibn Ezra_. London. \[Reprinted: Jerusalem, 1964].\
+* Altmann, Alexander. 1979. “Creation and Emanation in Isaac Israeli: A Reappraisal,” *Studies in Medieval Jewish History and Literature*, 1: 1–15.
+* Altmann, Alexander, and Stern, S. M. 1958/2009. *Isaac Israeli*. Oxford: Oxford University Press. \[Reprinted 2009 by University of Chicago Press.]
+* Asín-Palacios, Miguel. 1978. *The Mystical Philosophy of Ibn Masarra and his Followers*. Leiden: E. J. Brill.
+* Bargebuhr, Frederick P. 1976. *Salomo Ibn Gabirol, Ostwestliches Dichtertum*. Wiesbaden: Harrassowitz.
+* Brunner, Fernand. 1965. *Platonisme et aristotélisme—la critique d'Ibn Gabirol par St. Thomas d'Aquin*. Louvain: *Publications universitaires de Louvain*.
+* –––. 1956 / 1997. “*La doctrine de la matière chez Avicébron*,” *Revue de Théologie et de Philosophie, trois. série*, 6: 261—79. Reprinted in *Fernand Brunner, Métaphysique d'Ibn Gabirol et de la tradition platonicienne*. Great Britain; USA: Ashgate, Variorum.
+* –––. 1965. *Platonisme et Aristotélisme: la critique d'Ibn Gabirol par Saint Thomas D'Aquin*. Louvain: Publications Universitaires de Louvain.
+* –––. *Fernand Brunner, Métaphysique d'Ibn Gabirol et de la tradition platonicienne*. Great Britain; USA: Ashgate, Variorum.
+* Cole, Peter. 2007. *The Dream of the Poem: Hebrew Poetry from Muslim and Christian Spain, 950–1492*. Lockert Library of Poetry in Translation. Princeton: Princeton University Press.
+* –––. 2001. *Selected Poems of Solomon Ibn Gabirol*. Princeton University Press.
+* Crowley, Theodore. 1950. *Roger Bacon: The Problem of the Soul in his Philosophical Commentaries*. Louvain; Dublin: James Duffy and Co., Ltd.
+* Damascius. 1889. *Dubitationes et Solutiones*, C. É. Ruelle (ed.), Paris: Klincksieck.
+* Davidson, Herbert A. 1992. *Alfarabi*\*, Avicenna, and Averroes on Intellect: Their Cosmologies, Theories of the Active Intellect and Theories of Human Intellect\*. Oxford University Press.
+* –––. 1972. “Alfarabi and Avicenna on the Active Intellect,” *Viator*, 3: 109–78.
+* Dillon, John. 1992. “Solomon Ibn Gabirol's Doctrine of Intelligible Matter,” in L. Goodman (ed.), *Neoplatonism* *and Jewish Thought*, pp. 43–59. Albany: SUNY Press.
+* Fenton, Paul. 1976. “Gleanings from Môseh Ibn ‘Ezra's *Maqâlat* *al-Hadîqa*,” *Sefarad*, 36: 285–298.
+* –––. *Philosophie et exégèse dans le Jardin de la méthaphore \[sic] de Moïse IbnʻEzra, philosophe et poète andalou du XIIe siècle*. Leiden; New York: Brill.
+* Friedlaender, M. 1877. *Essays on the Writings of Abraham Ibn Ezra*. London. \[Reprinted: Jerusalem, 1964].\
   Contains (in Hebrew) Abraham ibn Ezra's recounted version of Gabirol's commentary on Genesis.
-* Frank, Daniel H. 1998. “Ibn Gabirol, Solomon (1021/2–57/8),” s.v. _Routledge Encyclopedia of Philosophy_, Version 1.0. London and New York: Routledge.
-* Gersh, Stephen. 1978. _From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition_. Leiden: E.J. Brill.
-* Gibb, H.A.R., et al. (ed.), 1954. “_anbaduklîs_,” s.v. _Encyclopedia of Islam_, New Edition, Volume I, pp. 483–4. Leiden: Brill
-* –––, 1954. _hayûlâ_,” s.v. _Encyclopedia of Islam_, New Edition, Leiden: Brill.
-* –––, 1954. “_Kursî_,” s.v. _Encyclopedia of Islam_, New Edition, Volume V, p. 509, Leiden: Brill.
-* Gilson, Etienne. 1955. _History of Christian Philosophy in the Middle Ages_, New York: Random House.
-* Gluck, Andrew. 2003. _The Kingly Crown, Keter Malkhut_, translation and notes by Bernard Lewis. Indiana: University of Notre Dame.
-* Gracia and Newton. 2010. “Medieval Theories of the Categories,” _The Stanford Encyclopedia of Philosophy_ (Summer 2010 Edition), Edward N. Zalta (ed.), URL = <[Medieval Theories of the Categories (Stanford Encyclopedia of Philosophy/Summer 2010 Edition)](https://plato.stanford.edu/archives/sum2010/entries/medieval-categories/)>.
-* Guttmann, Julius. 1973. _Philosophies of Judaism: A History of Jewish Philosophy from Biblical Times to Franz Rosenzweig_. New York: Schocken Books.
-* Heller-Wilensky, Sara O. 1967. “Isaac Ibn Latif—Philosopher or Kabbalist,” in _Jewish Medieval and Renaissance Studies_, edited by Alexander Altmann. Cambridge: Harvard University Press.
-* Husik, Isaac. 1916/1958. _A History of Medieval Jewish Philosophy_. Philadelphia: The Jewish Publication Society of America.
-* Idel, Moshe. 1982. “_Ha-sefirot she-me‘al ha-sefirot: lahkor meqorotehem shel rishone he-mequbalim_,” _Tarbiz_ 51, pp. 239–280.
-* –––. 1992. “Jewish Kabbalah and Platonism in the Middle Ages and Renaissance,” in L. E. Goodman, (ed.), _Neoplatonism and Jewish Thought_, pp. 319–51. Albany: SUNY Press.
-* _Ikhwân as-safâ’ (Brethren of Purity)._ 1928. _Rasâ’il Ikhwân as-safâ’_. Volume 2. Cairo.
-* Karamanolis, George E. 2006. _Plato and Aristotle in Agreement?: Platonists on Aristotle from Antiochus to Porphyry_. Oxford University Press.
-* Kaufmann, David. 1877/1964. “_Ha-Pseudo Empedocles ka-Mekor le-R’ Shlomo ibn Gabirol_,” _Mehkarim ba-Sifrut ha-Ivrit_, pp. 78–164, Jerusalem: Mosad Ha-Ruv Kuk.
-* –––. 1880. _Die Spuren al-Batlajûsi's, Studien Über Salomon ibn Gabirol and Die Sinne_, Budapest. \[Reprint with an introduction by Louis Jacobs: London: Gregg International Publishers Ltd., 1972.]
-* –––. 1899. _Studien über Salomon Ibn Gabirol_ (_Jahresberichte der Landes-Rabbinerschule zu Budapest für das Schuljahr_ 1898/99). Budapest. \[Reprint: New York : Arno Press, 1980]
-* Lewis, Bernard, tr., 1961. _Solomon ibn Gabirol: The Kingly Crown_. London: Vallentine, Mitchell. \[See edition of Gluck 2003].
-* Liebes, Yehudah. 1987. “_Sefer Yezirah ezel R. Shlomo Ibn Gevirol u-perush ha-shir ‘Ahavtikha_.” In _The Beginnings of Jewish Mysticism in Medieval Europe_, edited by J. Dan. \[Also In _Jerusalem Studies in Jewish Thought_ 6: 73–123.]
-* Loewe, Raphael. 1989. _Ibn Gabirol_. London: Peter Halban.
-* –––. 1979. “Ibn Gabirol's Treatment of Sources in the _Kether Malkhuth_,” in _Studies in Jewish Religious and Intellectual History (Presented to Alexander Altmann on the Occasion of His Seventieth Birthday)_, edited by S. Stein and R. Loewe, pp. 183–194. Tuscaloosa: The University of Alabama Press.
-* Mathis II, C. K. 1992. “Parallel Structures in the Metaphysics of Iamblichus and Ibn Gabirol,” in L. E. Goodman, Ed. _Neoplatonism and Jewish Thought_, pp. 61–76. Albany: SUNY Press.
-* Nasr, Seyyed Hossein. 1993. _An Introduction to Islamic Cosmological Doctrines_. Albany: State University of New York Press.
-* Pessin, Sarah. 2003. “Jewish Neoplatonism: Being Above Being and Divine Emanation in Solomon Ibn Gabirol and Isaac Israeli,” in _Cambridge Companion to Medieval Jewish Philosophy_, edited by Dan Frank and Oliver Leaman, pp. 91–110. Cambridge University Press.
-* –––. 2004. “Loss, Presence, and Gabirol's Desire: Medieval Jewish Philosophy and the Possibility of a Feminist Ground,” in _Women and Gender in Jewish Philosophy_, edited by Hava Tirosh-Samuelson, pp. 27–50. Bloomington: Indiana University Press.
-* –––. 2005a. “The Manifest Image: Revealing the Hidden in Halevi, Saadya and Gabirol,” in _History of Platonism: Plato Redivivus_, edited by John Finamore and Robert Berchman, pp. 253–270. New Orleans: University Press of the South.
-* –––. 2005b. “The Influence of Islamic Thought on Maimonides,” _The Stanford Encyclopedia of Philosophy_ (Fall 2005 Edition), Edward N. Zalta (ed.), URL = <[The Influence of Islamic Thought on Maimonides (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/maimonides-islamic/)>.
-* –––. 2009. “Matter, Form and the Corporeal World,” in _The Cambridge History of Jewish Philosophy: From Antiquity to the Seventeenth Century_, edited by Tamar Rudavsky and Steven Nadler, pp. 269–301. Cambridge: Cambridge University Press.
-* Peters, F. E. 1967. “Avicebron (Ibn Gabirol, Solomon ben Judah),” s.v. _New Catholic Encyclopedia_, volume 1, p. 1130. \[New York: McGraw-Hill]
-* Pines, S. 1955. “A Tenth Century Philosophical Correspondence,” _Proceedings of the American Academy for Jewish Research_, 24, pp. 103–136.
-* –––. 1958/1977. “_Sefer_ _‘Arûgat ha-Bôsem: ha-Qeta‘im mi-tôkh Sêfer ‘Meqôr Hayyîm’_,” _Tarbiz_ 27. \[Reprinted in Shlomo Pines, _Bêyn Mahshevet Yisrôel le-Mahshevet ha-‘Amîm: Mehkarîm be-Tôldôt ha-Fîlôsôfiya ha-Yehûdit_ (Bialik: Jerusalem, 1977), pp. 44–60 \[in Hebrew].
-* –––. 1977a. “_ha-’im dîber Shlômô Ibn Gabîrôl sarah al ha-ûma_?,” in _Bêyn Mahshevet Yisrôel le-Mahshevet ha-‘Amîm: Mehkarîm be-Tôldôt ha-Fîlôsôfiya ha-Yehûdit_ (Bialik: Jerusalem, 1977), pp. 61–7 \[in Hebrew].
-* –––. 1980. “_Ve-qara el ha-Ayin ve-Nivqa,_” _Tarbiz_, 50: 339–47.
-* Rudavksy, T. M. 1978. “Conflicting Motifs: Ibn Gabirol on Matter and Evil.” _The New Scholasticism_, 52 (1): 54–71.
-* –––. 1991. “Ibn Gabirol (Avicebron or Avicebrol),” s.v. _Dictionary of Literary Biography_ (Medieval Volume, Vol. 115), pp. 248–252. Detroit: Gale.
-* Samuelson, Norbert. 1987. “Ibn Gabirol, Shelomoh,” s.v. _The Encyclopedia of Religion_, edited by Mircea Eliade. New York: The MacMillan Publishing Co.
-* Schechter, Solomon. 1909/1961. _Aspects of Rabbinic Theology: Major Concepts of the Talmud_. New York: Schocken Books.
-* Scheindlin, Raymond. 1986. _Wine, Women and Death: Medieval Hebrew Poems on the Good Life_. Philadelphia: Jewish Publication Society.
-* –––. 1991. _The Gazelle: Medieval Hebrew Poems on God, Israel, and the Soul_. Philadelphia: Jewish Publication Society.
+* Frank, Daniel H. 1998. “Ibn Gabirol, Solomon (1021/2–57/8),” s.v. *Routledge Encyclopedia of Philosophy*, Version 1.0. London and New York: Routledge.
+* Gersh, Stephen. 1978. *From Iamblichus to Eriugena: An Investigation of the Prehistory and Evolution of the Pseudo-Dionysian Tradition*. Leiden: E.J. Brill.
+* Gibb, H.A.R., et al. (ed.), 1954. “*anbaduklîs*,” s.v. *Encyclopedia of Islam*, New Edition, Volume I, pp. 483–4. Leiden: Brill
+* –––, 1954. *hayûlâ*,” s.v. *Encyclopedia of Islam*, New Edition, Leiden: Brill.
+* –––, 1954. “*Kursî*,” s.v. *Encyclopedia of Islam*, New Edition, Volume V, p. 509, Leiden: Brill.
+* Gilson, Etienne. 1955. *History of Christian Philosophy in the Middle Ages*, New York: Random House.
+* Gluck, Andrew. 2003. *The Kingly Crown, Keter Malkhut*, translation and notes by Bernard Lewis. Indiana: University of Notre Dame.
+* Gracia and Newton. 2010. “Medieval Theories of the Categories,” *The Stanford Encyclopedia of Philosophy* (Summer 2010 Edition), Edward N. Zalta (ed.), URL = <[Medieval Theories of the Categories (Stanford Encyclopedia of Philosophy/Summer 2010 Edition)](https://plato.stanford.edu/archives/sum2010/entries/medieval-categories/)>.
+* Guttmann, Julius. 1973. *Philosophies of Judaism: A History of Jewish Philosophy from Biblical Times to Franz Rosenzweig*. New York: Schocken Books.
+* Heller-Wilensky, Sara O. 1967. “Isaac Ibn Latif—Philosopher or Kabbalist,” in *Jewish Medieval and Renaissance Studies*, edited by Alexander Altmann. Cambridge: Harvard University Press.
+* Husik, Isaac. 1916/1958. *A History of Medieval Jewish Philosophy*. Philadelphia: The Jewish Publication Society of America.
+* Idel, Moshe. 1982. “*Ha-sefirot she-me‘al ha-sefirot: lahkor meqorotehem shel rishone he-mequbalim*,” *Tarbiz* 51, pp. 239–280.
+* –––. 1992. “Jewish Kabbalah and Platonism in the Middle Ages and Renaissance,” in L. E. Goodman, (ed.), *Neoplatonism and Jewish Thought*, pp. 319–51. Albany: SUNY Press.
+* *Ikhwân as-safâ’ (Brethren of Purity).* 1928. *Rasâ’il Ikhwân as-safâ’*. Volume 2. Cairo.
+* Karamanolis, George E. 2006. *Plato and Aristotle in Agreement?: Platonists on Aristotle from Antiochus to Porphyry*. Oxford University Press.
+* Kaufmann, David. 1877/1964. “*Ha-Pseudo Empedocles ka-Mekor le-R’ Shlomo ibn Gabirol*,” *Mehkarim ba-Sifrut ha-Ivrit*, pp. 78–164, Jerusalem: Mosad Ha-Ruv Kuk.
+* –––. 1880. *Die Spuren al-Batlajûsi's, Studien Über Salomon ibn Gabirol and Die Sinne*, Budapest. \[Reprint with an introduction by Louis Jacobs: London: Gregg International Publishers Ltd., 1972.]
+* –––. 1899. *Studien über Salomon Ibn Gabirol* (*Jahresberichte der Landes-Rabbinerschule zu Budapest für das Schuljahr* 1898/99). Budapest. \[Reprint: New York : Arno Press, 1980]
+* Lewis, Bernard, tr., 1961. *Solomon ibn Gabirol: The Kingly Crown*. London: Vallentine, Mitchell. \[See edition of Gluck 2003].
+* Liebes, Yehudah. 1987. “*Sefer Yezirah ezel R. Shlomo Ibn Gevirol u-perush ha-shir ‘Ahavtikha*.” In *The Beginnings of Jewish Mysticism in Medieval Europe*, edited by J. Dan. \[Also In *Jerusalem Studies in Jewish Thought* 6: 73–123.]
+* Loewe, Raphael. 1989. *Ibn Gabirol*. London: Peter Halban.
+* –––. 1979. “Ibn Gabirol's Treatment of Sources in the *Kether Malkhuth*,” in *Studies in Jewish Religious and Intellectual History (Presented to Alexander Altmann on the Occasion of His Seventieth Birthday)*, edited by S. Stein and R. Loewe, pp. 183–194. Tuscaloosa: The University of Alabama Press.
+* Mathis II, C. K. 1992. “Parallel Structures in the Metaphysics of Iamblichus and Ibn Gabirol,” in L. E. Goodman, Ed. *Neoplatonism and Jewish Thought*, pp. 61–76. Albany: SUNY Press.
+* Nasr, Seyyed Hossein. 1993. *An Introduction to Islamic Cosmological Doctrines*. Albany: State University of New York Press.
+* Pessin, Sarah. 2003. “Jewish Neoplatonism: Being Above Being and Divine Emanation in Solomon Ibn Gabirol and Isaac Israeli,” in *Cambridge Companion to Medieval Jewish Philosophy*, edited by Dan Frank and Oliver Leaman, pp. 91–110. Cambridge University Press.
+* –––. 2004. “Loss, Presence, and Gabirol's Desire: Medieval Jewish Philosophy and the Possibility of a Feminist Ground,” in *Women and Gender in Jewish Philosophy*, edited by Hava Tirosh-Samuelson, pp. 27–50. Bloomington: Indiana University Press.
+* –––. 2005a. “The Manifest Image: Revealing the Hidden in Halevi, Saadya and Gabirol,” in *History of Platonism: Plato Redivivus*, edited by John Finamore and Robert Berchman, pp. 253–270. New Orleans: University Press of the South.
+* –––. 2005b. “The Influence of Islamic Thought on Maimonides,” *The Stanford Encyclopedia of Philosophy* (Fall 2005 Edition), Edward N. Zalta (ed.), URL = <[The Influence of Islamic Thought on Maimonides (Stanford Encyclopedia of Philosophy/Fall 2005 Edition)](https://plato.stanford.edu/archives/fall2005/entries/maimonides-islamic/)>.
+* –––. 2009. “Matter, Form and the Corporeal World,” in *The Cambridge History of Jewish Philosophy: From Antiquity to the Seventeenth Century*, edited by Tamar Rudavsky and Steven Nadler, pp. 269–301. Cambridge: Cambridge University Press.
+* Peters, F. E. 1967. “Avicebron (Ibn Gabirol, Solomon ben Judah),” s.v. *New Catholic Encyclopedia*, volume 1, p. 1130. \[New York: McGraw-Hill]
+* Pines, S. 1955. “A Tenth Century Philosophical Correspondence,” *Proceedings of the American Academy for Jewish Research*, 24, pp. 103–136.
+* –––. 1958/1977. “*Sefer* *‘Arûgat ha-Bôsem: ha-Qeta‘im mi-tôkh Sêfer ‘Meqôr Hayyîm’*,” *Tarbiz* 27. \[Reprinted in Shlomo Pines, *Bêyn Mahshevet Yisrôel le-Mahshevet ha-‘Amîm: Mehkarîm be-Tôldôt ha-Fîlôsôfiya ha-Yehûdit* (Bialik: Jerusalem, 1977), pp. 44–60 \[in Hebrew].
+* –––. 1977a. “*ha-’im dîber Shlômô Ibn Gabîrôl sarah al ha-ûma*?,” in *Bêyn Mahshevet Yisrôel le-Mahshevet ha-‘Amîm: Mehkarîm be-Tôldôt ha-Fîlôsôfiya ha-Yehûdit* (Bialik: Jerusalem, 1977), pp. 61–7 \[in Hebrew].
+* –––. 1980. “*Ve-qara el ha-Ayin ve-Nivqa,*” *Tarbiz*, 50: 339–47.
+* Rudavksy, T. M. 1978. “Conflicting Motifs: Ibn Gabirol on Matter and Evil.” *The New Scholasticism*, 52 (1): 54–71.
+* –––. 1991. “Ibn Gabirol (Avicebron or Avicebrol),” s.v. *Dictionary of Literary Biography* (Medieval Volume, Vol. 115), pp. 248–252. Detroit: Gale.
+* Samuelson, Norbert. 1987. “Ibn Gabirol, Shelomoh,” s.v. *The Encyclopedia of Religion*, edited by Mircea Eliade. New York: The MacMillan Publishing Co.
+* Schechter, Solomon. 1909/1961. *Aspects of Rabbinic Theology: Major Concepts of the Talmud*. New York: Schocken Books.
+* Scheindlin, Raymond. 1986. *Wine, Women and Death: Medieval Hebrew Poems on the Good Life*. Philadelphia: Jewish Publication Society.
+* –––. 1991. *The Gazelle: Medieval Hebrew Poems on God, Israel, and the Soul*. Philadelphia: Jewish Publication Society.
 * Schirmann-Fleischer. 1995. _The History of Hebrew Poetry in Muslim S_pain. Jerusalem: Magnes and Ben-Zvi.
-* Schlanger, Jacques. 1965. “_Sur le role du ‘tout’ dans la création selon Ibn_ _Gabiro_l,” _Revue des Études Juives_, Vol. IV: 125–35.
-* –––. 1968. _Le philosophie de Salomon Ibn Gabirol_. Leiden: E.J. Brill.
-* Scholem, G. 1939. “_Iqvatov shel Gevirol ba-Qabbalah_.” In E. Steiman and A.A. Kovak, Eds. _Measef Sofrei Eretz Yisroel_, pp. 160–78. Tel Aviv.
-* Sharp, D. E. 1930. _Franciscan Philosophy at Oxford in the Thirteenth Century_. London: Oxford University Press.
-* Skolnik, Fred (ed.). 1996. “_Merkabah_ Mysticism,” in _Encyclopaedia Judaica_ (1996 edition). Jerusalem: Keter Publishing House.
-* –––. 1996. “_Shekhina_,” in _Encyclopaedia Judaica_ (1996 edition). Jerusalem: Keter Publishing House.
-* –––. 1996. “Throne of God,” in _Encyclopaedia Judaica_ (1996 edition). Jerusalem: Keter Publishing House.
-* Sirat, Colette. 1985. _A History of Jewish Philosophy in the Middle Ages_. Cambridge: Cambridge University Press.
-* Stern, S. M. 1983a. “Ibn Hasday's Neoplatonist,” reprinted in F.W. Zimmerman ed. _Medieval Arabic and Hebrew Thought_. London: Variorum Reprints, pp. 58–120.
-* –––. 1983b. “Ibn Masarra—A Myth?” reprinted in F.W. Zimmerman ed. _Medieval Arabic and Hebrew Thought_. London: Variorum Reprints.
-* Taylor, Richard C. 1979. “St. Thomas and the Liber de causis on the Hylomorphic Composition of Separate Substances,” _Mediaeval Studies_ XLI, pp. 506–13.
-* –––. 1981. _The Liber de Causis (Kalâm fî mahd al-khair): A Study of Medieval Neoplatonism_. Doctoral Thesis, University of Toronto.
-* Tanenbaum, Adena. 1996. “Nine Spheres or Ten? A Medieval Gloss on Moses Ibn Ezra's ‘_Be-Shem El Asher Amar’_,” _Journal of Jewish Studies_, Vol. XLVII, No. 2, pp. 294–303.
-* Tzemah, Adi. 1985. Essay in _Mehkarim bi-yetsirat Shelomoh Ibn Gevirol, edited by Zvi Malachi_. Tel-Aviv: _Mekhon Kats le-heker ha-sifrut ha-‘ivrit, Universitat Tel-Aviv_.
-* Tzur, Reuven. 1985. “‘_Ahavtikha ki-ahavat ish yehido’ li-Ibn Gevirol—Shir Philosophi o Philosophia be-haruzim_?,” in _Mehkarim bi-yetsirat Shelomoh Ibn Gevirol, edited by Zvi Malachi_. Tel-Aviv: _Mekhon Kats le-heker ha-sifrut ha-‘ivrit, Universitat Tel-Aviv_.
-* Weisheipl, James A. 1979. “Albertus Magnus and Universal Hylomorphism: Avicebron,” in _Southwestern Journal of Philosophy_ 10, pp. 239–260.
-* Wensinck, A. J. 1932. _The Muslim Creed: Its Genesis and Historical Development_. Cambridge: Cambridge University Press.
-* Wolfson, Elliot R. 1990. “God, the Demiurge and the Intellect: On the Usage of the Word _Kol_ in Abraham ibn Ezra,” _Revue des Études Juives_ 149, pp. 77-111.
-* Wolfson, H. A. 1973. “The meaning of _ex nihilo_ in Isaac Israeli,” reprinted in _Studies in the History of Philosophy and Religion, Harry Austryn Wolfson_, edited by Twersky and Williams, Vol I, pp. 222–33. Cambridge: Harvard University Press.
-* –––. 1979. _Repercussions of the Kalam in Jewish Philosophy_. Mass.: Cambridge University Press.
+* Schlanger, Jacques. 1965. “*Sur le role du ‘tout’ dans la création selon Ibn* _Gabiro_l,” *Revue des Études Juives*, Vol. IV: 125–35.
+* –––. 1968. *Le philosophie de Salomon Ibn Gabirol*. Leiden: E.J. Brill.
+* Scholem, G. 1939. “*Iqvatov shel Gevirol ba-Qabbalah*.” In E. Steiman and A.A. Kovak, Eds. *Measef Sofrei Eretz Yisroel*, pp. 160–78. Tel Aviv.
+* Sharp, D. E. 1930. *Franciscan Philosophy at Oxford in the Thirteenth Century*. London: Oxford University Press.
+* Skolnik, Fred (ed.). 1996. “*Merkabah* Mysticism,” in *Encyclopaedia Judaica* (1996 edition). Jerusalem: Keter Publishing House.
+* –––. 1996. “*Shekhina*,” in *Encyclopaedia Judaica* (1996 edition). Jerusalem: Keter Publishing House.
+* –––. 1996. “Throne of God,” in *Encyclopaedia Judaica* (1996 edition). Jerusalem: Keter Publishing House.
+* Sirat, Colette. 1985. *A History of Jewish Philosophy in the Middle Ages*. Cambridge: Cambridge University Press.
+* Stern, S. M. 1983a. “Ibn Hasday's Neoplatonist,” reprinted in F.W. Zimmerman ed. *Medieval Arabic and Hebrew Thought*. London: Variorum Reprints, pp. 58–120.
+* –––. 1983b. “Ibn Masarra—A Myth?” reprinted in F.W. Zimmerman ed. *Medieval Arabic and Hebrew Thought*. London: Variorum Reprints.
+* Taylor, Richard C. 1979. “St. Thomas and the Liber de causis on the Hylomorphic Composition of Separate Substances,” *Mediaeval Studies* XLI, pp. 506–13.
+* –––. 1981. *The Liber de Causis (Kalâm fî mahd al-khair): A Study of Medieval Neoplatonism*. Doctoral Thesis, University of Toronto.
+* Tanenbaum, Adena. 1996. “Nine Spheres or Ten? A Medieval Gloss on Moses Ibn Ezra's ‘*Be-Shem El Asher Amar’*,” *Journal of Jewish Studies*, Vol. XLVII, No. 2, pp. 294–303.
+* Tzemah, Adi. 1985. Essay in *Mehkarim bi-yetsirat Shelomoh Ibn Gevirol, edited by Zvi Malachi*. Tel-Aviv: *Mekhon Kats le-heker ha-sifrut ha-‘ivrit, Universitat Tel-Aviv*.
+* Tzur, Reuven. 1985. “‘*Ahavtikha ki-ahavat ish yehido’ li-Ibn Gevirol—Shir Philosophi o Philosophia be-haruzim*?,” in *Mehkarim bi-yetsirat Shelomoh Ibn Gevirol, edited by Zvi Malachi*. Tel-Aviv: *Mekhon Kats le-heker ha-sifrut ha-‘ivrit, Universitat Tel-Aviv*.
+* Weisheipl, James A. 1979. “Albertus Magnus and Universal Hylomorphism: Avicebron,” in *Southwestern Journal of Philosophy* 10, pp. 239–260.
+* Wensinck, A. J. 1932. *The Muslim Creed: Its Genesis and Historical Development*. Cambridge: Cambridge University Press.
+* Wolfson, Elliot R. 1990. “God, the Demiurge and the Intellect: On the Usage of the Word *Kol* in Abraham ibn Ezra,” *Revue des Études Juives* 149, pp. 77-111.
+* Wolfson, H. A. 1973. “The meaning of *ex nihilo* in Isaac Israeli,” reprinted in *Studies in the History of Philosophy and Religion, Harry Austryn Wolfson*, edited by Twersky and Williams, Vol I, pp. 222–33. Cambridge: Harvard University Press.
+* –––. 1979. *Repercussions of the Kalam in Jewish Philosophy*. Mass.: Cambridge University Press.
 
 ## Academic Tools
 
@@ -345,15 +344,15 @@ _首次发表于2010年9月23日星期四_
 
 ## Other Internet Resources
 
-* [Ibn Gabirol](http://www.jewishencyclopedia.com/view.jsp?artid=17\&letter=I), _Jewish Encyclopedia_ entry.
+* [Ibn Gabirol](http://www.jewishencyclopedia.com/view.jsp?artid=17\&letter=I), *Jewish Encyclopedia* entry.
 * [Selected Religious Poems of Solomon ibn Gabirol](http://www.sacred-texts.com/jud/sig/index.htm), translated by Israel Zangwill.
-* [Excerpt from _The Kingly Crown_, Section One](http://www.jewishvirtuallibrary.org/jsource/biography/Gabirol.html), in English translation.
+* [Excerpt from *The Kingly Crown*, Section One](http://www.jewishvirtuallibrary.org/jsource/biography/Gabirol.html), in English translation.
 * [Google Timeline](http://www.google.com/search?q=ibn+gabirol\&ie=utf-8\&oe=utf-8\&aq=t\&rls=org.mozilla:en-US:official\&client=firefox-a#q=ibn+gabirol\&hl=en\&client=firefox-a\&hs=Jgj\&rls=org.mozilla:en-US:official\&prmd=ivb\&tbs=tl:1\&tbo=u\&ei=Y1GWTKEoiPqwA9bevcAK\&sa=X\&oi=timeline\result\&ct=title\&resnum=11\&ved=0CFcQ5wIwCg\&fp=7b3e9e0669ddb0a1).
 * [Shelomo Ibn Gabirol](http://www.pen.org/nonfiction/shelomo-ibn-gabirol-102122-c-105758), short literary biography at pen.org.
 
 ## Related Entries
 
-[Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [_binarium famosissimum_ \[= most famous pair\]](https://plato.stanford.edu/entries/binarium/) | [Maimonides: the influence of Islamic thought on](https://plato.stanford.edu/entries/maimonides-islamic/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Theology of Aristotle](https://plato.stanford.edu/entries/theology-aristotle/)
+[Arabic and Islamic Philosophy, historical and methodological topics in: Greek sources](https://plato.stanford.edu/entries/arabic-islamic-greek/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Aristotle](https://plato.stanford.edu/entries/aristotle/) | [*binarium famosissimum* \[= most famous pair\]](https://plato.stanford.edu/entries/binarium/) | [Maimonides: the influence of Islamic thought on](https://plato.stanford.edu/entries/maimonides-islamic/) | [Plotinus](https://plato.stanford.edu/entries/plotinus/) | [Theology of Aristotle](https://plato.stanford.edu/entries/theology-aristotle/)
 
 [Copyright © 2010](https://plato.stanford.edu/info.html#c) by\
-[Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[_spessin@du.edu_](mailto:spessin%40du%2eedu)>
+[Sarah Pessin](http://www.du.edu/philosophy/Pessin.html) <[*spessin@du.edu*](mailto:spessin%40du%2eedu)>

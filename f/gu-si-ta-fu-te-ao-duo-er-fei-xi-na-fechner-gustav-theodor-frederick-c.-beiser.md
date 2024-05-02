@@ -1,6 +1,6 @@
 # 古斯塔夫·特奥多尔·费希纳 Fechner, Gustav Theodor (Frederick C. Beiser)
 
-_2020 年 1 月 12 日星期日首次发表_
+*2020 年 1 月 12 日星期日首次发表*
 
 费希纳的哲学以他的形而上学兴趣和实证主义倾向之间的冲突为特征。他的形而上学兴趣使他倾向于心灵万物论：即宇宙是由心灵或灵魂创造和统治的学说；他的实证主义倾向使他坚持早期验证主义和现象主义。费希纳坚称这些倾向之间没有差异，最好的科学证据支持宇宙是心灵的观点。他的心灵哲学是早期的中性唯心主义形式。
 
@@ -117,7 +117,7 @@ Fechner 在疾病的深处描述的一些症状听起来像是精神分裂症。
 
 另一个否认植物有灵魂的常见理由是它们无法运动，改变位置，就像人类和动物一样（Nanna: 41, 71）。但费希纳问，为什么运动到不同的地方对生命是必要的呢？植物也会移动，只是它们是垂直移动而不是水平移动。有人认为植物的运动不是自愿的，就像人类和动物那样，因为它们受到物理必然性的约束。但费希纳回答说，动物的行为也可以被证明是在物理上必要的。一种行为的单纯必要性——根据机械原因的可解释性——并不表明它不可能同时伴随内部或心理事件（Nanna: 79）。
 
-费希纳论证的一个弱点是他从未充分阐明他所说的灵魂或思想的含义。他的论点是用“有灵魂”的语言表达的，这使得他似乎指的是一种特殊的物质。他告诉我们，灵魂（_Seele ）与心灵（ **​**Geist\*\*​ ）是同一个意思；但这只是把问题抛到了一边：心灵的标准是什么？费希纳最重要的考虑因素似乎是感觉、意识或意识，或者至少是其可能性。他认为，即使是最原始的植物也有意识或感觉。尽管它可能达不到人类和动物的水平，但它至少仍然是活跃和激烈的（ Nanna ：188）。这很有趣，因为费希纳似乎排除了潜意识的可能性；正如莱布尼茨的名言一样，他不允许潜意识生物的存在。在某些地方，费希纳似乎认为，拥有感情和欲望就足以使心灵存在；但他也写道，没有意识也可以有感觉和欲望（ Nanna ：53）。在其他地方，他把有目的的活动作为拥有思想的必要条件。他说，只有有灵魂的存在才有目的（ Nanna ：152）。他还认为，对于一个有机体来说，最重要的考虑因素是它的组织使其能够有效地实现其目标（ Nanna ：191）。但这也变得很麻烦，因为费希纳承认，可以在没有任何意识的情况下进行有目的的或有机的发展（ Nanna_：87）。
+费希纳论证的一个弱点是他从未充分阐明他所说的灵魂或思想的含义。他的论点是用“有灵魂”的语言表达的，这使得他似乎指的是一种特殊的物质。他告诉我们，灵魂（*Seele ）与心灵（ **​**Geist\*\*​ ）是同一个意思；但这只是把问题抛到了一边：心灵的标准是什么？费希纳最重要的考虑因素似乎是感觉、意识或意识，或者至少是其可能性。他认为，即使是最原始的植物也有意识或感觉。尽管它可能达不到人类和动物的水平，但它至少仍然是活跃和激烈的（ Nanna ：188）。这很有趣，因为费希纳似乎排除了潜意识的可能性；正如莱布尼茨的名言一样，他不允许潜意识生物的存在。在某些地方，费希纳似乎认为，拥有感情和欲望就足以使心灵存在；但他也写道，没有意识也可以有感觉和欲望（ Nanna ：53）。在其他地方，他把有目的的活动作为拥有思想的必要条件。他说，只有有灵魂的存在才有目的（ Nanna ：152）。他还认为，对于一个有机体来说，最重要的考虑因素是它的组织使其能够有效地实现其目标（ Nanna ：191）。但这也变得很麻烦，因为费希纳承认，可以在没有任何意识的情况下进行有目的的或有机的发展（ Nanna*：87）。
 
 费希纳的泛心灵论与谢林和黑格尔的唯心主义之间最重要的区别之一是，对于谢林和黑格尔来说，理念并不一定意味着意识的存在。使生物成为有生命的是其目的性活动，这并不意味着其活动是由意识引导的。这些与唯心主义传统的差异最终在费希纳对爱德华·冯·哈特曼的《无意识哲学》的尖锐批评中变得公开，该书提出了一个强有力的论据，即自然界中存在着潜意识生命（参见费希纳 1879 年：22）。
 
@@ -127,7 +127,7 @@ Fechner 在疾病的深处描述的一些症状听起来像是精神分裂症。
 
 Zend-Avesta 是毫不掩饰地宗教性质。费希纳将其构想为对古代自然宗教的辩护。在序言中，他写道其目的是恢复一种古老信仰：“即自然的一切都是有生命的，有神圣的灵魂” (ZA: vi)。Zend-Avesta 在古波斯语中意为“有生命的话”，是琐罗亚斯德教的圣典。费希纳希望他的作品能成为一部新的 Zend-Avesta (ZA: vii)。
 
-尽管它有宗教议程，但 _《Zend-Avesta》_ 并不是对基督教信仰的捍卫。费希纳的自然宗教绝对不是基督教。他否认自然之外的超验维度，坚持精神体现在物质之中，以及他对自然之神的肯定，这一切都与基督教教义大相径庭。尽管如此，费希纳还是同情基督教——他的家人和父亲的信仰——并试图用他的哲学来解释它的许多信仰。\[ [11](https://plato.stanford.edu/entries/fechner/notes.html#note-11) ]他将自己的宗教视为基督教和异教的综合体(Fechner 1879: 71) ）。
+尽管它有宗教议程，但 *《Zend-Avesta》* 并不是对基督教信仰的捍卫。费希纳的自然宗教绝对不是基督教。他否认自然之外的超验维度，坚持精神体现在物质之中，以及他对自然之神的肯定，这一切都与基督教教义大相径庭。尽管如此，费希纳还是同情基督教——他的家人和父亲的信仰——并试图用他的哲学来解释它的许多信仰。\[ [11](https://plato.stanford.edu/entries/fechner/notes.html#note-11) ]他将自己的宗教视为基督教和异教的综合体(Fechner 1879: 71) ）。
 
 尽管有宗教议程，费希纳坚持他打算以最好的科学为基础来坚定信仰。他写道，这项工作与大多数自然哲学不同，因为它不是从普遍原则开始，然后下降到事实；相反，它是从对经验细节的检查开始，然后上升到普遍性。他在序言中说：“这篇著作的整个倾向是，普遍性建立在特殊性之上，而不是特殊性建立在普遍性之上。”（ZA: xiii）它将展示灵魂领域比通常认为的要广泛得多，然后继续证明它延伸到整个宇宙。
 
@@ -135,75 +135,75 @@ Zend-Avesta 是毫不掩饰地宗教性质。费希纳将其构想为对古代�
 
 我们应该将费希纳对宗教和科学的态度与他那个时代的唯物主义者（费尔巴哈，福格特，比希纳，莫勒肖特）进行对比。费希纳声称，他的哲学的一个主要优势是它能够调和科学与宗教。唯物主义者认为这根本不是优势；他们坚持认为现代科学正在朝着唯物主义的方向发展，这使得有必要拒绝过去所有的宗教教条。费希纳深知唯物主义的威胁，并尽力加以对抗。他不断呼吁科学，试图在唯物主义者的立场上与他们对抗。
 
-为了证明宇宙有灵魂，费希纳再次遵循类比的指导思想，就像他在 _《南纳》_ 中所做的那样。他首先考虑离我们最近的物体：地球。他发现地球和我们的身体之间有许多相似之处：两者都是自我封闭的、有目的的整体；两者均由多种连接的固体、液体、气体材料组成；两者都会经历变化的周期；两者都经历了发展过程，从而变得差异化和组织更加精细（_ZA_：29-31）。此外，地球也有一个像我们身体一样的循环系统（_ZA_：73-74）。费希纳认为，由于存在如此多的相似之处，我们有理由得出结论：地球是一个独立的有机体（_ZA_：35）。当然，因为它是一种更大的有机体，所以地球上有很多东西是人类所没有的。但人身上的一切都是在地球上找不到的（_ZA_：37）。人体与地球的主要区别在于，地球是比人体更高等的有机体；这是因为它更加独立、自给自足、庞大和强大（_ZA_：31）。人类有机体的所有特征——统一性、多样性、组织性和内部发展——地球都具有更大程度的特征（_ZA_：35-6）。
+为了证明宇宙有灵魂，费希纳再次遵循类比的指导思想，就像他在 *《南纳》* 中所做的那样。他首先考虑离我们最近的物体：地球。他发现地球和我们的身体之间有许多相似之处：两者都是自我封闭的、有目的的整体；两者均由多种连接的固体、液体、气体材料组成；两者都会经历变化的周期；两者都经历了发展过程，从而变得差异化和组织更加精细（*ZA*：29-31）。此外，地球也有一个像我们身体一样的循环系统（*ZA*：73-74）。费希纳认为，由于存在如此多的相似之处，我们有理由得出结论：地球是一个独立的有机体（*ZA*：35）。当然，因为它是一种更大的有机体，所以地球上有很多东西是人类所没有的。但人身上的一切都是在地球上找不到的（*ZA*：37）。人体与地球的主要区别在于，地球是比人体更高等的有机体；这是因为它更加独立、自给自足、庞大和强大（*ZA*：31）。人类有机体的所有特征——统一性、多样性、组织性和内部发展——地球都具有更大程度的特征（*ZA*：35-6）。
 
-在证明地球是一个有机体之后，费希纳继续论证说它也有灵魂。因为地球有一个很像我们自己的身体，所以我们有理由在类比的基础上假设它有一个很像我们自己的灵魂（_ZA_：110-111）。如果我们认为自由是灵魂的必要特征，那么我们也应该将它归因于地球，因为地球是一个更加自给自足和独立的存在（_ZA_：113）。地球与我们不同的所有方面都只是归因于它更高的灵魂的理由（_ZA_：115）。对于地球不具有像我们这样的神经系统和其他有机功能的反对意见，费希纳回答说，虽然这些功能的存在证明了灵魂，但它们的缺失并不能反驳灵魂，而只能反驳_动物_ 或 _人类_的缺乏。 灵魂（_ZA_：130）。费希纳声称，证明地球有灵魂比植物更容易，原因很简单，我们有灵魂并且是地球的一部分（_ZA_：120）。费希纳最后指出，我们都是地球的一部分，正因为如此，地球也必须有灵魂，因为灵魂不能从物质中产生，而只能从另一个灵魂中产生（_ZA_：140-1）。
+在证明地球是一个有机体之后，费希纳继续论证说它也有灵魂。因为地球有一个很像我们自己的身体，所以我们有理由在类比的基础上假设它有一个很像我们自己的灵魂（*ZA*：110-111）。如果我们认为自由是灵魂的必要特征，那么我们也应该将它归因于地球，因为地球是一个更加自给自足和独立的存在（*ZA*：113）。地球与我们不同的所有方面都只是归因于它更高的灵魂的理由（*ZA*：115）。对于地球不具有像我们这样的神经系统和其他有机功能的反对意见，费希纳回答说，虽然这些功能的存在证明了灵魂，但它们的缺失并不能反驳灵魂，而只能反驳_动物_ 或 _人类_的缺乏。 灵魂（*ZA*：130）。费希纳声称，证明地球有灵魂比植物更容易，原因很简单，我们有灵魂并且是地球的一部分（*ZA*：120）。费希纳最后指出，我们都是地球的一部分，正因为如此，地球也必须有灵魂，因为灵魂不能从物质中产生，而只能从另一个灵魂中产生（*ZA*：140-1）。
 
-费希纳认为地球的灵魂存在于所有个体的灵魂之中，就像阿威罗伊著名的普遍智慧学说一样。一个头脑中所有不同的表征都以单一的普遍意识为前提。但不同头脑中的不同表征也是如此：它们也预设了普遍意识（_ZA_：160-1）。我们作为个人头脑所感知或思考的东西，我们通过一般头脑来感知或思考（_ZA_：164）。费希纳认为，所有个体意识中的这种单一的共同意识解释了相互理解和沟通是如何可能的。尽管我们相对于彼此而言是独立和自给自足的，但这并不是相对于更高的心灵而言的。我了解我自己，也只了解我自己，而你了解你自己，也只了解你自己，但这并不妨碍更高的精神了解我们俩。什么是分离（_Scheidung_）对于我们来说只是一种区别（_Unterscheidung_）。
+费希纳认为地球的灵魂存在于所有个体的灵魂之中，就像阿威罗伊著名的普遍智慧学说一样。一个头脑中所有不同的表征都以单一的普遍意识为前提。但不同头脑中的不同表征也是如此：它们也预设了普遍意识（*ZA*：160-1）。我们作为个人头脑所感知或思考的东西，我们通过一般头脑来感知或思考（*ZA*：164）。费希纳认为，所有个体意识中的这种单一的共同意识解释了相互理解和沟通是如何可能的。尽管我们相对于彼此而言是独立和自给自足的，但这并不是相对于更高的心灵而言的。我了解我自己，也只了解我自己，而你了解你自己，也只了解你自己，但这并不妨碍更高的精神了解我们俩。什么是分离（*Scheidung*）对于我们来说只是一种区别（*Unterscheidung*）。
 
-地球只是宇宙中的一颗行星，因此也只是无限之内的一个有机体，无限之内的一个心灵。宇宙有机体就是上帝，他是生命之树，一切事物都从它生长，一切事物都依赖于它（_ZA_：23）。费希纳坚持认为，上帝并不 凌驾于空间和时间_之上_ ，但他却 在空间和时间_之内_ 。他不仅 在万物中 _做一切，而且他\*\*是_ 万物中的一切（_ZA_：200）。费希纳说：“上帝是独一的、万有的”（_ZA_：223），他赞同 《歌德时代》 中 _的“hen kai pan”_ 。外在的表象世界并不与上帝对立，而只是他的外在一面（ZA：201）。神的灵并不站在物质世界之外，而是在物质世界中并通过物质世界表达自己。费希纳区分了狭义和广义的上帝概念：狭义概念是上帝仅作为精神；而狭义概念是上帝。更广泛的概念是精神 及其 在世界中的体现（ZA：200-1）。他说，同样地，我们不仅将一个人视为一个人格，而且将其视为一个涉及其身体的整体。但值得注意的是，费希纳说狭义的上帝，即作为纯粹精神的上帝，只是一个抽象概念（ZA：204）。广义上的世界概念，包括精神和物质存在，与上帝的概念是一致的（ZA：204）。费希纳承认，在这个意义上，他的观点是泛神论的，但他坚持认为，黑格尔意义上的泛神论并非如此，在黑格尔意义上，精神 仅存在 于其个体表现中。
+地球只是宇宙中的一颗行星，因此也只是无限之内的一个有机体，无限之内的一个心灵。宇宙有机体就是上帝，他是生命之树，一切事物都从它生长，一切事物都依赖于它（*ZA*：23）。费希纳坚持认为，上帝并不 凌驾于空间和时间_之上_ ，但他却 在空间和时间_之内_ 。他不仅 在万物中 *做一切，而且他\*\*是* 万物中的一切（*ZA*：200）。费希纳说：“上帝是独一的、万有的”（*ZA*：223），他赞同 《歌德时代》 中 *的“hen kai pan”* 。外在的表象世界并不与上帝对立，而只是他的外在一面（ZA：201）。神的灵并不站在物质世界之外，而是在物质世界中并通过物质世界表达自己。费希纳区分了狭义和广义的上帝概念：狭义概念是上帝仅作为精神；而狭义概念是上帝。更广泛的概念是精神 及其 在世界中的体现（ZA：200-1）。他说，同样地，我们不仅将一个人视为一个人格，而且将其视为一个涉及其身体的整体。但值得注意的是，费希纳说狭义的上帝，即作为纯粹精神的上帝，只是一个抽象概念（ZA：204）。广义上的世界概念，包括精神和物质存在，与上帝的概念是一致的（ZA：204）。费希纳承认，在这个意义上，他的观点是泛神论的，但他坚持认为，黑格尔意义上的泛神论并非如此，在黑格尔意义上，精神 仅存在 于其个体表现中。
 
 ## 原子的存在
 
-1855 年，费希纳出版了一本远不如 _Nanna_ 和 _Zend-Avesta_出名的书 ，但对于阐述他的哲学同样重要： _《物理与哲学原子》_ 。_Nanna_ 和 _Zend-Avesta_ 构成了费希纳哲学的思辨或形而上学的一面，而 Atomlehre _则_ 代表了其实证主义的一面。费希纳正是在这部著作中提出了他的现象主义和验证主义。现在事实证明，所有存在的东西，以及所有我们可以有意义地谈论的东西，都是可能体验的对象。就好像宇宙的灵魂被实证主义的扫帚扫走了
+1855 年，费希纳出版了一本远不如 *Nanna* 和 _Zend-Avesta_出名的书 ，但对于阐述他的哲学同样重要： *《物理与哲学原子》* 。*Nanna* 和 *Zend-Avesta* 构成了费希纳哲学的思辨或形而上学的一面，而 Atomlehre *则* 代表了其实证主义的一面。费希纳正是在这部著作中提出了他的现象主义和验证主义。现在事实证明，所有存在的东西，以及所有我们可以有意义地谈论的东西，都是可能体验的对象。就好像宇宙的灵魂被实证主义的扫帚扫走了
 
 原子理论是费希纳对 19 世纪中叶一场重大争议的贡献：原子的存在。费希纳认为，根据当时物理学中最佳的观察和实验标准，最有可能的观点是原子确实存在；它们不仅仅是一种方便的虚构或一个错误的本质化。观察和实验数据最简单且最一致的解释是，在经验法则背后存在着原子。
 
-原子存在的问题使哲学和自然科学相互对立。哲学家认为原子只是一种虚构或假设，而物理学家则声称它们是现实，是观察和实验的最佳推论，尽管它们本身是不可观察的。哲学家和科学家之间的这种分歧反映了他们对物质本质和科学方法的更广泛的分歧。他们在三个方面遭到反对。首先，哲学家认为物质是无限可分的、连续的，而科学家则认为物质是不可分割的、离散的。其次，哲学家将力视为基础，将物质分析为吸引力和排斥力。然而，科学家们将物质作为力的基础，声称力是物质固有的，它们只是解释其类似规律的规律的一种方式。第三，哲学家们指出，关于自然的基本问题不能通过观察和实验来解决，必须 _先验地_确定；物理学家坚持认为，自然科学的每个问题都必须通过观察和实验来确定，并且关于其可能性的问题不是自然科学所关心的。主要哲学家都是德国人，包括谢林、黑格尔和赫尔巴特；他们的自然哲学继承了康德的 _《自然科学形而上学》_ 的传统 。主要的法国科学家都是实验物理学家，如安德烈·安培（André Ampère，1775-1836）、奥古斯丁·柯西（Augustin Cauchy，1858-1898）和奥古斯丁·菲涅尔（Augustin Fresnel，1788-1827）。
+原子存在的问题使哲学和自然科学相互对立。哲学家认为原子只是一种虚构或假设，而物理学家则声称它们是现实，是观察和实验的最佳推论，尽管它们本身是不可观察的。哲学家和科学家之间的这种分歧反映了他们对物质本质和科学方法的更广泛的分歧。他们在三个方面遭到反对。首先，哲学家认为物质是无限可分的、连续的，而科学家则认为物质是不可分割的、离散的。其次，哲学家将力视为基础，将物质分析为吸引力和排斥力。然而，科学家们将物质作为力的基础，声称力是物质固有的，它们只是解释其类似规律的规律的一种方式。第三，哲学家们指出，关于自然的基本问题不能通过观察和实验来解决，必须 _先验地_确定；物理学家坚持认为，自然科学的每个问题都必须通过观察和实验来确定，并且关于其可能性的问题不是自然科学所关心的。主要哲学家都是德国人，包括谢林、黑格尔和赫尔巴特；他们的自然哲学继承了康德的 *《自然科学形而上学》* 的传统 。主要的法国科学家都是实验物理学家，如安德烈·安培（André Ampère，1775-1836）、奥古斯丁·柯西（Augustin Cauchy，1858-1898）和奥古斯丁·菲涅尔（Augustin Fresnel，1788-1827）。
 
-原子论在十九世纪中叶成为一个如此有争议的问题，部分原因是唯物主义的兴起，部分原因是原子论的传统声誉。 20世纪50年代初，唯物主义已成为德国哲学中一股崛起的力量。到了 1855 年，也就是费希纳发表其著作的那一年，卡尔·沃格特、海因里希·乔尔贝和路德维希·布希纳发表了他们的唯物主义宣言（沃格特 1855 年；布希纳 1855 年；乔尔贝 1855 年）。德国唯物主义者并非不折不扣的原子论拥护者。尽管佐尔贝明确地为其辩护（1855：105和1875：95），布希纳更为谨慎，仅表示原子仍然是一个有效的假设（1855\[1904：39-40]）。然而，原子论作为唯物主义学说的声誉自古以来就已形成。原子论的主要阐述是卢克莱修的 _《物物论》，_ 它代表着一种完全自然主义的世界观。
+原子论在十九世纪中叶成为一个如此有争议的问题，部分原因是唯物主义的兴起，部分原因是原子论的传统声誉。 20世纪50年代初，唯物主义已成为德国哲学中一股崛起的力量。到了 1855 年，也就是费希纳发表其著作的那一年，卡尔·沃格特、海因里希·乔尔贝和路德维希·布希纳发表了他们的唯物主义宣言（沃格特 1855 年；布希纳 1855 年；乔尔贝 1855 年）。德国唯物主义者并非不折不扣的原子论拥护者。尽管佐尔贝明确地为其辩护（1855：105和1875：95），布希纳更为谨慎，仅表示原子仍然是一个有效的假设（1855\[1904：39-40]）。然而，原子论作为唯物主义学说的声誉自古以来就已形成。原子论的主要阐述是卢克莱修的 *《物物论》，* 它代表着一种完全自然主义的世界观。
 
-_正如《南纳》_ 和 _《赞德-阿维斯塔》_ 的作者所推测的那样 ， 费希纳并不同情唯物主义，并对它在德国生活和文学中日益强大的力量感到遗憾。他的书最有趣的特点之一是它试图打破原子论与唯物主义的传统联系。费希纳认为，原子论不一定支持唯物主义，而且它最终确实比哲学家的反对观点更好地支持上帝存在和不朽的信仰。 _《Atomlehre》_ 的第一部分 列出了_物理_原子论 的实验证据 ；但第二部分阐述了_哲学_原子论的情况 ，它支持承认上帝存在和不朽的形而上学。至少在费希纳看来，哲学和物理学之间关于原子存在的斗争不应该被视为信仰和科学之间的斗争。
+*正如《南纳》* 和 *《赞德-阿维斯塔》* 的作者所推测的那样 ， 费希纳并不同情唯物主义，并对它在德国生活和文学中日益强大的力量感到遗憾。他的书最有趣的特点之一是它试图打破原子论与唯物主义的传统联系。费希纳认为，原子论不一定支持唯物主义，而且它最终确实比哲学家的反对观点更好地支持上帝存在和不朽的信仰。 *《Atomlehre》* 的第一部分 列出了_物理_原子论 的实验证据 ；但第二部分阐述了_哲学_原子论的情况 ，它支持承认上帝存在和不朽的形而上学。至少在费希纳看来，哲学和物理学之间关于原子存在的斗争不应该被视为信仰和科学之间的斗争。
 
-费希纳的书最显着的特点是它完全是对原子论的辩护。费希纳在 _《南纳》_ 和 _《赞德-阿维斯塔》_ 中 阐述了浪漫主义特征的有机宇宙观。_自然哲学家_（谢林、黑格尔和赫尔巴特）提出的有机愿景的支持 是物质的动态理论，根据该理论，物质本质上是由生命力组成的。_自然哲学家_认为，如果物质存在于力量中， 那么心灵和物质之间就没有本质上的区别，因为它们只是力量的发展和组织程度不同。然而，费希纳在他的 _《原子论》_ 中拒绝了这种物质观。他非常明确地指出，力以物质的存在为前提，试图将物质分析为这些力就像试图将声音分析为它们之间的间隔一样（_原子_：112, 113）。但这种对动态主义的否定不可避免地提出了一个问题：费希纳的原子论没有破坏他的有机主义吗？\[ [12](https://plato.stanford.edu/entries/fechner/notes.html#note-12) ]
+费希纳的书最显着的特点是它完全是对原子论的辩护。费希纳在 *《南纳》* 和 *《赞德-阿维斯塔》* 中 阐述了浪漫主义特征的有机宇宙观。*自然哲学家*（谢林、黑格尔和赫尔巴特）提出的有机愿景的支持 是物质的动态理论，根据该理论，物质本质上是由生命力组成的。_自然哲学家_认为，如果物质存在于力量中， 那么心灵和物质之间就没有本质上的区别，因为它们只是力量的发展和组织程度不同。然而，费希纳在他的 *《原子论》* 中拒绝了这种物质观。他非常明确地指出，力以物质的存在为前提，试图将物质分析为这些力就像试图将声音分析为它们之间的间隔一样（*原子*：112, 113）。但这种对动态主义的否定不可避免地提出了一个问题：费希纳的原子论没有破坏他的有机主义吗？\[ [12](https://plato.stanford.edu/entries/fechner/notes.html#note-12) ]
 
-费希纳提倡原子论的主要原因是他认为原子论比它的竞争对手动力学论更好地解释了事实。原子论不仅仅是一个好的解释模型，而且是正确的本体论，即对世界上存在的事物的正确解释。也就是说，原子论并不简单地建立在假设的基础上： 如果原子存在，那么我们就可以解释现象；_如果_ 原子存在，我们就可以解释现象；如果原子存在，我们就可以解释现象。相反，它假设原子确实存在，并且只有原子才能解释现象。原子论者知道原子的存在不能通过经验来证实；但他仍然坚持认为，解释我们所知道的经验的唯一方法是假设原子的存在（_原子_：25, 30）。在这里，自然科学家再次遵循类比的指导。他假设适用于宏观世界的相同定律也适用于微观世界，这一假设使他的总体世界观保持一致（_Atom_：33, 35-6, 88）。费希纳承认，许多可以根据原子论解释的现象也可以根据动力论解释。但他坚持认为，总有一个时刻，现象会揭示出动态主义无法解释的现象（ _《原子》_ ：13,21,24）。当我们更详细地研究质量宏观现象时——将它们分解成微观成分——我们发现我们随后发现的事实可以仅根据原子论来解释。
+费希纳提倡原子论的主要原因是他认为原子论比它的竞争对手动力学论更好地解释了事实。原子论不仅仅是一个好的解释模型，而且是正确的本体论，即对世界上存在的事物的正确解释。也就是说，原子论并不简单地建立在假设的基础上： 如果原子存在，那么我们就可以解释现象；*如果* 原子存在，我们就可以解释现象；如果原子存在，我们就可以解释现象。相反，它假设原子确实存在，并且只有原子才能解释现象。原子论者知道原子的存在不能通过经验来证实；但他仍然坚持认为，解释我们所知道的经验的唯一方法是假设原子的存在（*原子*：25, 30）。在这里，自然科学家再次遵循类比的指导。他假设适用于宏观世界的相同定律也适用于微观世界，这一假设使他的总体世界观保持一致（*Atom*：33, 35-6, 88）。费希纳承认，许多可以根据原子论解释的现象也可以根据动力论解释。但他坚持认为，总有一个时刻，现象会揭示出动态主义无法解释的现象（ *《原子》* ：13,21,24）。当我们更详细地研究质量宏观现象时——将它们分解成微观成分——我们发现我们随后发现的事实可以仅根据原子论来解释。
 
 费希纳引用了以下支持原子论的实验和现象。
 
 1. 一束光折射成不同颜色通常被认为是光波动论的一个难点。为什么一束透明光线会突然变成多种颜色？然而，柯西的研究表明， 如果假设以太中存在离散粒子（原子：18），则不同颜色的折射不仅 \*符合波动理论，而且\*\*与波动理论一致。\[ \* 13 ]
-2. 热射线（_Wärmestralung_）和热传导（_Wärmefortpfanzung_）似乎是非常不同的现象。但傅里叶已经证明，只要假设射线由离散粒子组成（_原子_：22），传导就遵循适用于射线的相同定律。
-3. 异构现象——具有相同质量和化学组成但产生不同实验结果的物体——只能根据原子论来解释。原子论者认为，除了原子的质量和化学组成之外，原子还有更多的东西：即它们的方向或位置。不同的结果归因于原子的不同方向或位置（_原子_：37）。然而，动力学家只能参考质量和化学构成。
-4. 两种晶型即使彼此不一致，其部分和结构也可以完全相同。原子论者从组成原子的不同方向解释了它们的不协调性（_原子_：43）
-5. 橡皮筋在拉伸时最终会在一处断裂。动力论者无法在一个地方解释这种断裂。他对连续性原则的坚持迫使他声称橡皮筋会 _无限_延伸 或在所有地方断裂。原子论者解释了带内粒子之间距离不断增大导致的断裂；随着带的拉伸和粒子之间的距离的增加，粒子之间的吸引力减弱（_原子_：54-55）
-6. 当物体因热而膨胀时，其密度会随着体积的增加而减小（_原子_：45）。原子论者可以很容易地解释这一点：当物体被加热时，粒子彼此之间的距离进一步扩大。
-7. 原子论者可以比动力论者更好地解释有机发展——原始质量分化为众多器官和功能，因为他声称最初表面上未分化的质量实际上由许多不同种类的具有不同结构的粒子组成（_原子_：60-62）。动力论者惩罚原子论者超越经验的推测，只能指原始质量之间微小的可见差异，这些差异不足以解释个体之间的分化或差异。
+2. 热射线（*Wärmestralung*）和热传导（*Wärmefortpfanzung*）似乎是非常不同的现象。但傅里叶已经证明，只要假设射线由离散粒子组成（*原子*：22），传导就遵循适用于射线的相同定律。
+3. 异构现象——具有相同质量和化学组成但产生不同实验结果的物体——只能根据原子论来解释。原子论者认为，除了原子的质量和化学组成之外，原子还有更多的东西：即它们的方向或位置。不同的结果归因于原子的不同方向或位置（*原子*：37）。然而，动力学家只能参考质量和化学构成。
+4. 两种晶型即使彼此不一致，其部分和结构也可以完全相同。原子论者从组成原子的不同方向解释了它们的不协调性（*原子*：43）
+5. 橡皮筋在拉伸时最终会在一处断裂。动力论者无法在一个地方解释这种断裂。他对连续性原则的坚持迫使他声称橡皮筋会 _无限_延伸 或在所有地方断裂。原子论者解释了带内粒子之间距离不断增大导致的断裂；随着带的拉伸和粒子之间的距离的增加，粒子之间的吸引力减弱（*原子*：54-55）
+6. 当物体因热而膨胀时，其密度会随着体积的增加而减小（*原子*：45）。原子论者可以很容易地解释这一点：当物体被加热时，粒子彼此之间的距离进一步扩大。
+7. 原子论者可以比动力论者更好地解释有机发展——原始质量分化为众多器官和功能，因为他声称最初表面上未分化的质量实际上由许多不同种类的具有不同结构的粒子组成（*原子*：60-62）。动力论者惩罚原子论者超越经验的推测，只能指原始质量之间微小的可见差异，这些差异不足以解释个体之间的分化或差异。
 
-正如案例 1 所示，费希纳仍然持有以太理论。他甚至将以太纳入他的学说总结中，根据该学说，可衡量的物质由空间离散的部分组成，在这些部分之间存在不可估量的物质或以太（_原子_：79）。然而，费希纳承认，可计量物质与不可计量物质之间的关系存在很大的不确定性。他知道以太理论是有问题的，但这并不妨碍他参考柯西的实验。在《Atomlehre》第一部分的引言中 _，_ 他明确指出原子论并不依赖于以太理论（ _《原子》_ ：14-15）。他坚持认为，光或热是否可以用原子论来解释的问题与以太的存在无关。
+正如案例 1 所示，费希纳仍然持有以太理论。他甚至将以太纳入他的学说总结中，根据该学说，可衡量的物质由空间离散的部分组成，在这些部分之间存在不可估量的物质或以太（*原子*：79）。然而，费希纳承认，可计量物质与不可计量物质之间的关系存在很大的不确定性。他知道以太理论是有问题的，但这并不妨碍他参考柯西的实验。在《Atomlehre》第一部分的引言中 *，* 他明确指出原子论并不依赖于以太理论（ *《原子》* ：14-15）。他坚持认为，光或热是否可以用原子论来解释的问题与以太的存在无关。
 
-费希纳捍卫原子论的一个重要方面是它没有对物质本身的本质提出任何哲学主张。它的基础仅仅在于它对经验现象的解释；它并不试图回答有关物质和经验的可能性的更深层次的哲学问题。正如费希纳所说：物理学家不再担心对物质的哲学分析，就像建筑工人不再担心砖块和砂浆的化学分析一样（_原子_：72）。哲学家总是声称原子论者对物质的分析还不够深入，他没有试图回答终极问题。然而，他没有看到的是，物理学家并没有试图回答这些问题；他只是试图回答这些问题。他只是试图解释经验中给出的数据。从这种谦虚的经验观点来看，费希纳愿意向动力学家做出重大让步：也许物质最终确实由吸引力和排斥力组成（_原子_：72）；也许物质之间的空间最终被填满，所以一切毕竟是连续的（_原子_：76）。
+费希纳捍卫原子论的一个重要方面是它没有对物质本身的本质提出任何哲学主张。它的基础仅仅在于它对经验现象的解释；它并不试图回答有关物质和经验的可能性的更深层次的哲学问题。正如费希纳所说：物理学家不再担心对物质的哲学分析，就像建筑工人不再担心砖块和砂浆的化学分析一样（*原子*：72）。哲学家总是声称原子论者对物质的分析还不够深入，他没有试图回答终极问题。然而，他没有看到的是，物理学家并没有试图回答这些问题；他只是试图回答这些问题。他只是试图解释经验中给出的数据。从这种谦虚的经验观点来看，费希纳愿意向动力学家做出重大让步：也许物质最终确实由吸引力和排斥力组成（*原子*：72）；也许物质之间的空间最终被填满，所以一切毕竟是连续的（*原子*：76）。
 
-但这种对原子论的温和经验主义辩护是不诚实的。这只是故事的一半。因为费希纳对原子论进行了更为激进的哲学辩护，这是一种实证主义风格的反击，声称哲学家提出的问题毫无意义。与物理学家不同，哲学家并不打算停留在经验的范围之内；他只是想把自己的想法局限在经验的范围之内。他试图超越这些限制，寻找其可能性的条件。对他来说，使经验成为可能的是无条件的、自在的事物。因此，他的推测是为了了解事物本身的许多尝试。但费希纳坚持认为，自在之物是一种幻觉，是一种并不真正存在的东西（ _《原子》_ ：94, 98）。世界不在于自在之物的表象，而在于表象（_原子_：94）。物质只是出现的东西，或者在某些情况下会出现的东西（_原子_：95）。表面现象背后有某种东西，某种东西使它们成为一体，这种想法只是一种本质，是将所有这些表面现象统一为一个概念的具体化（_原子_：96）。作为反击的一部分，费希纳继续论证，动力论者的力或权力概念只是法律概念的具体化（_原子_：106）。将一个身体分析成它的力量甚至没有意义，因为力量只是身体之间的关系概念；尝试从力量构建物质就像从音调间隔构建声音（_原子_：112）。
+但这种对原子论的温和经验主义辩护是不诚实的。这只是故事的一半。因为费希纳对原子论进行了更为激进的哲学辩护，这是一种实证主义风格的反击，声称哲学家提出的问题毫无意义。与物理学家不同，哲学家并不打算停留在经验的范围之内；他只是想把自己的想法局限在经验的范围之内。他试图超越这些限制，寻找其可能性的条件。对他来说，使经验成为可能的是无条件的、自在的事物。因此，他的推测是为了了解事物本身的许多尝试。但费希纳坚持认为，自在之物是一种幻觉，是一种并不真正存在的东西（ *《原子》* ：94, 98）。世界不在于自在之物的表象，而在于表象（*原子*：94）。物质只是出现的东西，或者在某些情况下会出现的东西（*原子*：95）。表面现象背后有某种东西，某种东西使它们成为一体，这种想法只是一种本质，是将所有这些表面现象统一为一个概念的具体化（*原子*：96）。作为反击的一部分，费希纳继续论证，动力论者的力或权力概念只是法律概念的具体化（*原子*：106）。将一个身体分析成它的力量甚至没有意义，因为力量只是身体之间的关系概念；尝试从力量构建物质就像从音调间隔构建声音（*原子*：112）。
 
-同样本着这种反击的精神，费希纳提出了物质的定义，拒绝任何对它的哲学解释。物质被定义为抵抗触觉的东西；它无非就是“有形性”（_Handgreiflichkeit_）（_Atom_：90）。哲学家问什么是如此有形的东西，费希纳回答说，这只不过是他所感受到的以及他从这种感觉中推断出的东西（ _《原子》_ ：92）。费希纳不允许哲学家推测这种感觉的来源或条件。相反，他声称这种感觉背后有某种东西，有一个现实使之成为可能，这种想法本身就是一种幻觉（_Atom_：94）。
+同样本着这种反击的精神，费希纳提出了物质的定义，拒绝任何对它的哲学解释。物质被定义为抵抗触觉的东西；它无非就是“有形性”（*Handgreiflichkeit*）（*Atom*：90）。哲学家问什么是如此有形的东西，费希纳回答说，这只不过是他所感受到的以及他从这种感觉中推断出的东西（ *《原子》* ：92）。费希纳不允许哲学家推测这种感觉的来源或条件。相反，他声称这种感觉背后有某种东西，有一个现实使之成为可能，这种想法本身就是一种幻觉（*Atom*：94）。
 
-因此，费希纳对原子论的辩护并不像它最初看起来的那样，或者至少不是他假装的那样。它并没有开辟一个原子论所持有的经验领域，然后撇开一个超越的领域，这是形而上学的正确领域。相反，费希纳认为不存在这样的超然境界，形而上学在推测它时会欺骗自己。在这方面，费希纳对形而上学的攻击准确地预见了奥托·利卜曼十年后在他著名的《 _康德与后继者》（Kant und die Epigonen_ ，1865）中所写的内容。
+因此，费希纳对原子论的辩护并不像它最初看起来的那样，或者至少不是他假装的那样。它并没有开辟一个原子论所持有的经验领域，然后撇开一个超越的领域，这是形而上学的正确领域。相反，费希纳认为不存在这样的超然境界，形而上学在推测它时会欺骗自己。在这方面，费希纳对形而上学的攻击准确地预见了奥托·利卜曼十年后在他著名的《 *康德与后继者》（Kant und die Epigonen* ，1865）中所写的内容。
 
-尽管费希纳对哲学家的攻击非常激进，但他坚持认为他并不反对哲学 _本身_；他的目标只是 _当代_ 哲学，特别是谢林、黑格尔和赫尔巴特的形而上学（_原子_：xiii）。他的书的第二部分确实致力于他自己的哲学，他自己的物质形而上学。它将放弃 _物理_ 原子论的经验限制，然后尝试提供一种 _哲学原子论，_ 从而给出“物质本身的最终构造”（_原子_：viii）。费希纳向他的读者保证，他不会牺牲他们对世界观的要求，并且他会勾勒出自己的世界观。他表示完全同意哲学家们关于研究“最普遍、最高和终极”的必要性；他说，他与他们的不同之处仅在于 他想_如何_ 进行这样的调查。谢林、黑格尔和赫尔巴特遵循 先于自然科学的 _先验_方法论，而费希纳则坚持 基于自然科学的_后验_方法论。他的形而上学出现 在物理学_之后_，而不是 _之前_ 或 _之前_（_原子_：126）。他的形而上学的基础正是整个自然科学（_原子_：127）。
+尽管费希纳对哲学家的攻击非常激进，但他坚持认为他并不反对哲学 *本身*；他的目标只是 *当代* 哲学，特别是谢林、黑格尔和赫尔巴特的形而上学（*原子*：xiii）。他的书的第二部分确实致力于他自己的哲学，他自己的物质形而上学。它将放弃 *物理* 原子论的经验限制，然后尝试提供一种 *哲学原子论，* 从而给出“物质本身的最终构造”（*原子*：viii）。费希纳向他的读者保证，他不会牺牲他们对世界观的要求，并且他会勾勒出自己的世界观。他表示完全同意哲学家们关于研究“最普遍、最高和终极”的必要性；他说，他与他们的不同之处仅在于 他想_如何_ 进行这样的调查。谢林、黑格尔和赫尔巴特遵循 先于自然科学的 *先验_方法论，而费希纳则坚持 基于自然科学的_后验_方法论。他的形而上学出现 在物理学_之后*，而不是 *之前* 或 *之前*（*原子*：126）。他的形而上学的基础正是整个自然科学（*原子*：127）。
 
 费希纳和他那个时代的许多其他哲学家（特伦德伦堡、洛茨、哈特曼）一样，最大的希望是自然科学能够提供比 旧形而上学的_先验_方法更可靠的世界观。这里的旧形而上学不仅仅是莱布尼茨和沃尔夫的理性主义，而是康德、谢林、黑格尔和赫尔巴特的自然科学形而上学，它仍然受到旧理性主义对纯粹理性的信仰的影响。这种新的世界观仍然能够满足道德和宗教的利益；它将消除唯物主义的威胁，唯物主义认为旧的道德和宗教只不过是迷信。
 
 费希纳新形而上学的显着特征是他坚持认为它仅基于经验而不是 旧 自然哲学的_先验_推理。因此，他的哲学原子论的基本原理是，原子是经验分析中的“限制性概念”。这意味着它们代表了 迄今为止分析的最终单位，因此它们并不涉及分析是完整的。原子必须严格根据经验给出的定义；它们不是空间和时间背后或之外的点，而是空间和时间之内的点；但总有这样的规定：无论它们被表示得多么小，都是不够的（Atom：132）。在我们看来，它们是最小的可见和有形的点；然而它们比我们能看到和触摸到的最小的物体还要小（原子：156）。
 
-费希纳的新形而上学并没有回避旧形而上学的问题或概念；它只是给他们穿上了一件准经验主义的衣服。尽管费希纳坚定地坚持他的原子是根据经验来定义的，但他继续将单子的经典属性归因于它们，所有这些属性都超越了经验给定的范围。因此，他写道，他的原子是完全简单的存在，没有任何特征（_原子_：133）；它们是不可扩展的点（_原子_：120）；并且它们彼此完全独立，因此它们不能相互连接（_Atom_：142）。现在，费希纳面临着给莱布尼茨带来如此多麻烦的老难题：未扩展的点如何产生经验的扩展实体？费希纳轻松地驳斥了这个问题。广延不是由原子本身产生的，而是由原子之间的关系产生的。正是它们的聚集产生了它们的空间外观（_原子_：156-157）。但这个快速解决方案仍然无法解释空间关系如何从无空间的存在中产生。
+费希纳的新形而上学并没有回避旧形而上学的问题或概念；它只是给他们穿上了一件准经验主义的衣服。尽管费希纳坚定地坚持他的原子是根据经验来定义的，但他继续将单子的经典属性归因于它们，所有这些属性都超越了经验给定的范围。因此，他写道，他的原子是完全简单的存在，没有任何特征（*原子*：133）；它们是不可扩展的点（*原子*：120）；并且它们彼此完全独立，因此它们不能相互连接（*Atom*：142）。现在，费希纳面临着给莱布尼茨带来如此多麻烦的老难题：未扩展的点如何产生经验的扩展实体？费希纳轻松地驳斥了这个问题。广延不是由原子本身产生的，而是由原子之间的关系产生的。正是它们的聚集产生了它们的空间外观（*原子*：156-157）。但这个快速解决方案仍然无法解释空间关系如何从无空间的存在中产生。
 
 ## 7. 心智理论
 
-费希纳从 _《Zend-Avesta》_ 开始 提出了一种心身关系理论，然后他在他的 _《Ueber die Seelenfrage》_ 和 _《Elemente der Psychophysicalk》_ 中更详细地阐述了这一理论。迈克尔·海德堡（Michael Heidelberger，2004：73-115）对此理论进行了详细解释，他认为这是费希纳对哲学最重要的贡献。这个理论和费希纳的泛心论之间没有必然的联系：即使人类的思想是宇宙中唯一的思想，这个理论也可能是正确的；泛心论更多的是关于心灵的范围而不是本质。
+费希纳从 *《Zend-Avesta》* 开始 提出了一种心身关系理论，然后他在他的 *《Ueber die Seelenfrage》* 和 *《Elemente der Psychophysicalk》* 中更详细地阐述了这一理论。迈克尔·海德堡（Michael Heidelberger，2004：73-115）对此理论进行了详细解释，他认为这是费希纳对哲学最重要的贡献。这个理论和费希纳的泛心论之间没有必然的联系：即使人类的思想是宇宙中唯一的思想，这个理论也可能是正确的；泛心论更多的是关于心灵的范围而不是本质。
 
-费希纳的理论始于区分两种立场、两种观察或了解人类的方式。有内在和外在的立场，相应地，人就有两种表象，内在的和外在的表象。内在外表是指我对自己的看法或 _自我外表_；外表是我在别人眼中的样子。每种相貌对应有两种知识。我们立即以心灵的形式认识自己，即直观地或直接地认识自己，而不需要进行推理；但我们通过从某些迹象（即行动或言语）中做出的推论，以间接方式（即智力上或间接地）了解他人。
+费希纳的理论始于区分两种立场、两种观察或了解人类的方式。有内在和外在的立场，相应地，人就有两种表象，内在的和外在的表象。内在外表是指我对自己的看法或 *自我外表*；外表是我在别人眼中的样子。每种相貌对应有两种知识。我们立即以心灵的形式认识自己，即直观地或直接地认识自己，而不需要进行推理；但我们通过从某些迹象（即行动或言语）中做出的推论，以间接方式（即智力上或间接地）了解他人。
 
-费希纳对这些观点的主要观点是，它们的表象属于同一个事物。不存在两个不同的实体，即对应于内在现象的心和对应于外在现象的身体；相反，在我自己的内心和他人的外表上，存在着同一件事。 “从内心看来，它是这样的；表面上看来是这样的；但所显现的却是一回事”（_ZA_：253）。因此，费希纳的理论被描述为自我的“两面理论”。
+费希纳对这些观点的主要观点是，它们的表象属于同一个事物。不存在两个不同的实体，即对应于内在现象的心和对应于外在现象的身体；相反，在我自己的内心和他人的外表上，存在着同一件事。 “从内心看来，它是这样的；表面上看来是这样的；但所显现的却是一回事”（*ZA*：253）。因此，费希纳的理论被描述为自我的“两面理论”。
 
 这是该理论最简单的表述。然而，当费希纳添加其他主张时，事情变得更加复杂。这些主张中最引人注目的是，心灵和身体只不过是它们的表象。心灵只不过是它自身的（实际的和可能的）显现；身体只不过是它对他人的（实际的和可能的）外观。除了它自身呈现的样子之外，没有任何心灵本身存在。身体本身并不存在，除了它在他人眼中的样子之外，也先于它在他人眼中的样子。那么，该理论就是“中性一元论”的一种形式，根据该理论，有一个同一种事物具有两个方面或属性，具体取决于如何看待它。\[ [14](https://plato.stanford.edu/entries/fechner/notes.html#note-14) ]这个事物只存在于它的表象中，无论是内在的还是外在的。或外部。
 
-费希纳在他的理论中添加的另一个主张是，这两种表象以因果或类似规律的方式相互关联（见 1861：211 和 _ZA_：253）。因此，他明确地说，它们处于一种互换关系（_Wechselbedingheit_），它们彼此密切相关（_solidarisch zusammenhangen_）（1861：211）。这是值得注意的，因为一些双方面理论排除了精神和身体表象之间任何相互作用的可能性，正是因为它们是不同种类的属性。例如，斯宾诺莎禁止精神和身体之间的任何因果相互作用，因为它们是物质的不同种类的属性（Spinoza 1677：Pars Prima，Propositio VI & X）。费希纳认为这种相互作用是有问题的，难以解释，但他并不排除其可能性。尽管精神和身体特征之间存在差异，但他认为它们指的是不同的事件，这些事件在某种程度上可以相互作用。他的_心理物理学_的全部目的 是解释它们之间的相互作用。
+费希纳在他的理论中添加的另一个主张是，这两种表象以因果或类似规律的方式相互关联（见 1861：211 和 *ZA*：253）。因此，他明确地说，它们处于一种互换关系（*Wechselbedingheit*），它们彼此密切相关（*solidarisch zusammenhangen*）（1861：211）。这是值得注意的，因为一些双方面理论排除了精神和身体表象之间任何相互作用的可能性，正是因为它们是不同种类的属性。例如，斯宾诺莎禁止精神和身体之间的任何因果相互作用，因为它们是物质的不同种类的属性（Spinoza 1677：Pars Prima，Propositio VI & X）。费希纳认为这种相互作用是有问题的，难以解释，但他并不排除其可能性。尽管精神和身体特征之间存在差异，但他认为它们指的是不同的事件，这些事件在某种程度上可以相互作用。他的_心理物理学_的全部目的 是解释它们之间的相互作用。
 
 费希纳的理论中还有一个令人费解的主张，即他所谓的“心理物理学最普遍的法则”：如果身体中没有存在、起源或作用的东西，那么任何东西都不会在心灵中存在、起源或作用。换句话说，一切精神事物都有其在物质事物中的表达（1861：211）。这个原则似乎偏向了心灵和身体之间的联系，以至于心灵表现为身体，但反过来却不然；但该理论最初要求 身心之间存在_相互联系或相互作用（正如我们在上面所看到的）。_
 
 正是基于这一普遍规律，费希纳的理论被描述为“唯物主义”（Heidelberger 2004: 98, 107）。不过，这是一个奇怪的描述，因为法律似乎假定心灵对身体有作用，而不是相反。唯物主义理论通常是附带现象，只允许因果方向从身体转向心灵。但费希纳定律的说法似乎恰恰相反。
 
-由于篇幅原因，我们将把费希纳理论的进一步复杂性放在一边。然而，为了避免严重的混乱，有必要简单地考虑一下该理论的起源。\[ [15](https://plato.stanford.edu/entries/fechner/notes.html#note-15) ]费希纳本人表示，他的理论根源于谢林的 _自然哲学_ （ _《原子》_ ：xiv）。费希纳的家谱有一定的合理性。 1800年代初期，谢林发展了自己的身心双重理论，根据该理论，精神与物质、理想与现实是绝对的两个平等且独立的表象。我们不必对费希纳的家谱表示怀疑。 他的双重理论的_最初推动者_可能 确实是谢林。也许，如果他没有读过谢林，他永远不会提出双重理论。尽管如此，重要的是要看到费希纳沿着与谢林完全不同的路线发展了他的理论。谢林理论的一个基本原则是，精神和身体是同一的，因为它们是生命力的不同表现或表现；精神是该力量的最高组织和发展，身体是其最低组织和发展。因此，他的理论建立在其_自然哲学_核心的物质动态理论之上 。但正如我们所见，费希纳拒绝了这一与他的原子论相冲突的理论。此外，谢林和斯宾诺莎一样，禁止精神和身体之间相互作用的可能性，而费希纳想要研究的正是这种可能性（Schelling 1859: I/4, 344）。
+由于篇幅原因，我们将把费希纳理论的进一步复杂性放在一边。然而，为了避免严重的混乱，有必要简单地考虑一下该理论的起源。\[ [15](https://plato.stanford.edu/entries/fechner/notes.html#note-15) ]费希纳本人表示，他的理论根源于谢林的 *自然哲学* （ *《原子》* ：xiv）。费希纳的家谱有一定的合理性。 1800年代初期，谢林发展了自己的身心双重理论，根据该理论，精神与物质、理想与现实是绝对的两个平等且独立的表象。我们不必对费希纳的家谱表示怀疑。 他的双重理论的_最初推动者_可能 确实是谢林。也许，如果他没有读过谢林，他永远不会提出双重理论。尽管如此，重要的是要看到费希纳沿着与谢林完全不同的路线发展了他的理论。谢林理论的一个基本原则是，精神和身体是同一的，因为它们是生命力的不同表现或表现；精神是该力量的最高组织和发展，身体是其最低组织和发展。因此，他的理论建立在其_自然哲学_核心的物质动态理论之上 。但正如我们所见，费希纳拒绝了这一与他的原子论相冲突的理论。此外，谢林和斯宾诺莎一样，禁止精神和身体之间相互作用的可能性，而费希纳想要研究的正是这种可能性（Schelling 1859: I/4, 344）。
 
 ## Bibliography
 
@@ -211,75 +211,75 @@ All translations are by the author of this entry, unless otherwise noted.
 
 ### Works by Fechner
 
-* 1821 \[1832], as Dr. Mises, _Beweis, daß der Mond aus Jodine bestehe_, Germanien: Penig. Zweite Auflage: Leipzig: Voß, 1832. Reprinted also in Fechner 1875: 1–20.
-* 1822, as Dr. Mises, _Panegyrikus der jezigen Medicin und Naturgeschichte_, Leipzig: C.H.F. Hartmann. Reprinted in Fechner 1875: 21–68.
-* 1823, _Praemissae ad theoriam organismi generalem_, Leipzig: Staritz.
-*   1824, as Dr. Mises, _Stapelia Mixta_, Leipzig: Leopold Voß. Essays include:
+* 1821 \[1832], as Dr. Mises, *Beweis, daß der Mond aus Jodine bestehe*, Germanien: Penig. Zweite Auflage: Leipzig: Voß, 1832. Reprinted also in Fechner 1875: 1–20.
+* 1822, as Dr. Mises, *Panegyrikus der jezigen Medicin und Naturgeschichte*, Leipzig: C.H.F. Hartmann. Reprinted in Fechner 1875: 21–68.
+* 1823, *Praemissae ad theoriam organismi generalem*, Leipzig: Staritz.
+* 1824, as Dr. Mises, *Stapelia Mixta*, Leipzig: Leopold Voß. Essays include:
 
-    * “Ueber Definitionen des Lebens”, 65–73.
-    * “Verkehrte Welt”, 83–86
-    * “Ueber Schematismus und Symbolik”, 119–128
-    * “Ueber das Verhältniß von Kunst, Wissenschaft und Religion”, 129–157.
-    * “Extreme sese tangent”, 172–179
-    * “Versuch einer Entwicklung des Organisationsgesetzes aus dem räumlichen Symbol”, 180–205
+  * “Ueber Definitionen des Lebens”, 65–73.
+  * “Verkehrte Welt”, 83–86
+  * “Ueber Schematismus und Symbolik”, 119–128
+  * “Ueber das Verhältniß von Kunst, Wissenschaft und Religion”, 129–157.
+  * “Extreme sese tangent”, 172–179
+  * “Versuch einer Entwicklung des Organisationsgesetzes aus dem räumlichen Symbol”, 180–205
 
-    \[[_Stapelia_ available online](https://archive.org/details/stapeliamixta00fechgoog/page/n5)]
-* 1825, as Dr. Mises, _Vergleichende Anatomie der Engel. Eine Skizze_, Leipzig: Industrie-Comptoir.
-* 1831, _Maßbestimmungen über die galvanische Kette_, Leipzig: Brockhaus.
-* 1832, as Dr. Mises, _Schutzmittel für die Cholera_, Leipzig: Voß.
-* 1834, _Das Hauslexikon. Vollständiges Handbuch praktischer Lenbenskenntnizze für alle Stände_, 8 volumes, Leipzig: Breitkopf und Härtel.
-* 1836, as Dr. Mises, _Das Büchlein vom Leben nach dem Tode_, Dresden: C.F. Grimmersche Buchhandlung.
-* 1846a, _Ueber das höchste Gut_, Leipzig: Breitkopf und Härtel.
-* 1846b, as Dr. Mises, _Vier Paradoxa_, Leipzig: Leopold Voß.
-* \[_Nanna_] 1848a \[1908], _Nanna oder über das Seelenleben der Pflanzen_, Leipzig: Leopold Voß. Fourth edition (Vierte Auflage), 1908. Page references are to the fourth edition.
-* 1848b, “Ueber das Lustprincip des Handeln”, _Zeitschrift für Philosophie und philosophische Kritik_, 19: 1–30, 163–94.
-* 1849, “Über das Causalgesetze”, _Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig_, Jahrgang 1849: 98–120.
-* 1851a, “Zur Kritik der Grundlagen von Herbarts Metaphysik”, _Zeitschrift für Philosophie und philosophische Kritik_ 21: 193–209.
-* \[_ZA_] 1851b \[1901], _Zend-Avesta oder über die Dinge des Himmels und des Jenseits. Vom Standpunkt der Naturbetrachtung_, Leipzig: Leopold Voß. Second edition, Kurd Laßwitz (ed.), 1901. Page references are to the second edition.
-* \[_Atom_] 1855, _Über die physikalische und philosophische Atomlehre_, Leipzig: Hermann Mendelssohn. A second expanded edition appeared in 1864. All page references are to the first edition.
-* 1856, _Professor Schleiden und der Mond_, Leipzig: Adolf Gumprecht.
-* 1860, _Elemente der Psychophysik_, 2 volumes, Leipzig: Breitkopf und Härtel.
-* 1861, _Ueber die Seelenfrage. Ein Gang durch die sichtbare Welt, um die unsichtbare zu Finden_, Leipzig: Amelang.
-* 1863, _Die drei Motive und Gründe des Glaubens_, Leipzig: Breitkopf und Härtel.
-* 1873, _Einige Ideen zur Schöpfungsund Entwickelungsgeschichte der Organismen_, Leipzig: Breitkopf und Härtel.
-* 1875, _Kleine Schriften_, Leipzig: Breitkopf und Härtel.
-* 1876, _Vorschule der Aesthetik_, Leipzig: Breitkopf und Härtel.
-* 1877, _In Sachen der Psychophysik_, Leipzig: Breitkopf und Härtel.
-* 1879, _Die Tagesansicht gegenüber die Nachtansicht_, Leipzig: Breitkopf und Härtel.
-* 1946, _Religion of a Scientist: Selections from Gustav Theodor Fechner_, Walter Lowrie (ed./trans.), New York: Pantheon Books.
+    \[[*Stapelia* available online](https://archive.org/details/stapeliamixta00fechgoog/page/n5)]
+* 1825, as Dr. Mises, *Vergleichende Anatomie der Engel. Eine Skizze*, Leipzig: Industrie-Comptoir.
+* 1831, *Maßbestimmungen über die galvanische Kette*, Leipzig: Brockhaus.
+* 1832, as Dr. Mises, *Schutzmittel für die Cholera*, Leipzig: Voß.
+* 1834, *Das Hauslexikon. Vollständiges Handbuch praktischer Lenbenskenntnizze für alle Stände*, 8 volumes, Leipzig: Breitkopf und Härtel.
+* 1836, as Dr. Mises, *Das Büchlein vom Leben nach dem Tode*, Dresden: C.F. Grimmersche Buchhandlung.
+* 1846a, *Ueber das höchste Gut*, Leipzig: Breitkopf und Härtel.
+* 1846b, as Dr. Mises, *Vier Paradoxa*, Leipzig: Leopold Voß.
+* \[*Nanna*] 1848a \[1908], *Nanna oder über das Seelenleben der Pflanzen*, Leipzig: Leopold Voß. Fourth edition (Vierte Auflage), 1908. Page references are to the fourth edition.
+* 1848b, “Ueber das Lustprincip des Handeln”, *Zeitschrift für Philosophie und philosophische Kritik*, 19: 1–30, 163–94.
+* 1849, “Über das Causalgesetze”, *Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig*, Jahrgang 1849: 98–120.
+* 1851a, “Zur Kritik der Grundlagen von Herbarts Metaphysik”, *Zeitschrift für Philosophie und philosophische Kritik* 21: 193–209.
+* \[*ZA*] 1851b \[1901], *Zend-Avesta oder über die Dinge des Himmels und des Jenseits. Vom Standpunkt der Naturbetrachtung*, Leipzig: Leopold Voß. Second edition, Kurd Laßwitz (ed.), 1901. Page references are to the second edition.
+* \[*Atom*] 1855, *Über die physikalische und philosophische Atomlehre*, Leipzig: Hermann Mendelssohn. A second expanded edition appeared in 1864. All page references are to the first edition.
+* 1856, *Professor Schleiden und der Mond*, Leipzig: Adolf Gumprecht.
+* 1860, *Elemente der Psychophysik*, 2 volumes, Leipzig: Breitkopf und Härtel.
+* 1861, *Ueber die Seelenfrage. Ein Gang durch die sichtbare Welt, um die unsichtbare zu Finden*, Leipzig: Amelang.
+* 1863, *Die drei Motive und Gründe des Glaubens*, Leipzig: Breitkopf und Härtel.
+* 1873, *Einige Ideen zur Schöpfungsund Entwickelungsgeschichte der Organismen*, Leipzig: Breitkopf und Härtel.
+* 1875, *Kleine Schriften*, Leipzig: Breitkopf und Härtel.
+* 1876, *Vorschule der Aesthetik*, Leipzig: Breitkopf und Härtel.
+* 1877, *In Sachen der Psychophysik*, Leipzig: Breitkopf und Härtel.
+* 1879, *Die Tagesansicht gegenüber die Nachtansicht*, Leipzig: Breitkopf und Härtel.
+* 1946, *Religion of a Scientist: Selections from Gustav Theodor Fechner*, Walter Lowrie (ed./trans.), New York: Pantheon Books.
 
 ### Other Primary Sources
 
-* Biot, Jean Baptiste, 1817 \[1828–29], _Précis élémentaire de physique expérimentale_, 2 volumes, Paris: Déterville. Translated by Fechner into German as _Lehrbuch der Experimental-Physik oder Erfahrungs-Naturlehre_, 5 volumes, Lepzig: Voß, 1828–29.
-* Büchner, Ludwig, 1855 \[1904], _Kraft und Stoff_, Frankfurt: Meidinger. 21st edition, Leipzig: Thomas, 1904.
-* Czolbe, Heinrich, 1855, _Neue Darstellung des Sensualismus_, Leipzig: Costenoble.
-* –––, 1875, _Grundzüge einer Extensionale Erkenntnistheorie_, Plauen, Hohmann.
-* Hartmann, Eduard, 1869, _Philosophie des Unbewußten_, Berlin: Duncker.
-* Helmholtz, Hermann, 1867, _Handbuch der physiologischen Optik_, Leipzig: Voß.
-* James, William, 1904 \[1912], “Does ‘Consciousness’ Exist?”, _The Journal of Philosophy, Psychology and Scientific Methods_, 1(18): 477–491. Reprinted in his _Essays in Radical Empiricism_, New York: Longmans, Green & Co., 1912, pp. 1–38. doi:10.2307/2011942
-* Lange, Friedrich, 1875, _Geschichte des Materialismus und Kritik seiner Bedeutung in der Gegenwart_, 2 volumes, Iserlohn: J. Baedeker.
-* Liebmann, Otto, 1865, _Kant und die Epigonen: Eine kritische Abhandlung_, Stuttgart: Carl Schober.
-* Oken, Lorenz, 1809, _Lehrbuch der Naturphilosophie_, Jena: Friedrich Frommann.
-* Schelling, F.W.J., 1859, _Fernere Darstellungen aus dem System der Philosophie_, in _Sämtliche Werke_, K.F.A. Schelling (ed.), Stuttgart: Cotta, 14 vols.
-* Spinoza, Baruch de, 1677 \[1967], _Ethica_, in _Opera/Werke_, Günter Gawlick, Friedrich Niewöhner and Konrad Blumenstock (eds), Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Thénard, Louis Jacques, 1813–16 \[1825–28], _Traité de chimie élémentaire, théorique et pratique_, 4 volumes, Paris: Crochand. Translated by Fechner into German as _Lehrbuch der theoretischen und praktischen Chemie_, 6 volumes, Leipzig: Leopold Voß, 1825–28.
-* Uhland, Ludwig, 1836, _Sagenforschungen_, Stuttgart: Cotta.
-* Vogt, Karl, 1855, _Köhlergluabe und Wissenschaft_, Gießen: Ricker.
+* Biot, Jean Baptiste, 1817 \[1828–29], *Précis élémentaire de physique expérimentale*, 2 volumes, Paris: Déterville. Translated by Fechner into German as *Lehrbuch der Experimental-Physik oder Erfahrungs-Naturlehre*, 5 volumes, Lepzig: Voß, 1828–29.
+* Büchner, Ludwig, 1855 \[1904], *Kraft und Stoff*, Frankfurt: Meidinger. 21st edition, Leipzig: Thomas, 1904.
+* Czolbe, Heinrich, 1855, *Neue Darstellung des Sensualismus*, Leipzig: Costenoble.
+* –––, 1875, *Grundzüge einer Extensionale Erkenntnistheorie*, Plauen, Hohmann.
+* Hartmann, Eduard, 1869, *Philosophie des Unbewußten*, Berlin: Duncker.
+* Helmholtz, Hermann, 1867, *Handbuch der physiologischen Optik*, Leipzig: Voß.
+* James, William, 1904 \[1912], “Does ‘Consciousness’ Exist?”, *The Journal of Philosophy, Psychology and Scientific Methods*, 1(18): 477–491. Reprinted in his *Essays in Radical Empiricism*, New York: Longmans, Green & Co., 1912, pp. 1–38. doi:10.2307/2011942
+* Lange, Friedrich, 1875, *Geschichte des Materialismus und Kritik seiner Bedeutung in der Gegenwart*, 2 volumes, Iserlohn: J. Baedeker.
+* Liebmann, Otto, 1865, *Kant und die Epigonen: Eine kritische Abhandlung*, Stuttgart: Carl Schober.
+* Oken, Lorenz, 1809, *Lehrbuch der Naturphilosophie*, Jena: Friedrich Frommann.
+* Schelling, F.W.J., 1859, *Fernere Darstellungen aus dem System der Philosophie*, in *Sämtliche Werke*, K.F.A. Schelling (ed.), Stuttgart: Cotta, 14 vols.
+* Spinoza, Baruch de, 1677 \[1967], *Ethica*, in *Opera/Werke*, Günter Gawlick, Friedrich Niewöhner and Konrad Blumenstock (eds), Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Thénard, Louis Jacques, 1813–16 \[1825–28], *Traité de chimie élémentaire, théorique et pratique*, 4 volumes, Paris: Crochand. Translated by Fechner into German as *Lehrbuch der theoretischen und praktischen Chemie*, 6 volumes, Leipzig: Leopold Voß, 1825–28.
+* Uhland, Ludwig, 1836, *Sagenforschungen*, Stuttgart: Cotta.
+* Vogt, Karl, 1855, *Köhlergluabe und Wissenschaft*, Gießen: Ricker.
 
 ### Secondary Sources
 
-* Adolph, Heinrich, 1923, _Die Weltanschauung Gustav Theodor Fechners_, Stuttgart: Strecker und Schröder.
-* Audi, Robert, 1995, _Cambridge Dictionary of Philosophy_, Cambridge: Cambridge University Press.
-* Bruchmann, Kurt, 1887, “Gustav Theodor Fechner, ein deutscher Metaphysiker”, _Preußische Jahrbücher_, 58: 293–309.
-* Heidelberger, Michael, 2004, _Nature from Within: Gustav Theodor Fechner and his Psychophysical Worldview_, Pittsburgh, PA: University of Pittsburgh Press.
-* Kuntze, Johannes Emil, 1892, _Gustav Theodor Fechner: Ein deutsches Gelehrtenleben_, Leipzig: Breitkopf und Härtel.
-* Lasswitz, Kurd, 1902, _Gustav Theodor Fechner_, Zweite vermehrte Auflage. Stuttgart: Frommanns Verlag.
-* Marshall, Marilyn E., 1974a, “William James, Gustav Fechner, and the Question of Dogs and Cats in the Library”, _Journal of the History of the Behavioral Sciences_, 10(3): 304–312.
-* –––, 1974b, “G. T. Fechner: Premises toward a General Theory of Organisms (1823)”, _Journal of the History of the Behavioral Sciences_, 10(4): 438–447.
-* Pastor, Willy, 1901a, _Im Geiste Fechners, Fünf naturwissenschaftliche Essays_, Leipzig: G.H. Meyer.
-* –––, 1901b, _Gustav Theodor Fechner und die durch ihn erschlossene Weltanschauung_, Leipzig: G.H. Meyer.
-* Wentscher, Max, 1924, _Fechner und Lotze_, Munich: Ernst Reinhardt.
-* Wille, Bruno, 1905, _Idealistische Weltanschauung auf naturwissenschaftliche Grundlage im Sinne Fechners_, Hamburg: Leopold Voß.
+* Adolph, Heinrich, 1923, *Die Weltanschauung Gustav Theodor Fechners*, Stuttgart: Strecker und Schröder.
+* Audi, Robert, 1995, *Cambridge Dictionary of Philosophy*, Cambridge: Cambridge University Press.
+* Bruchmann, Kurt, 1887, “Gustav Theodor Fechner, ein deutscher Metaphysiker”, *Preußische Jahrbücher*, 58: 293–309.
+* Heidelberger, Michael, 2004, *Nature from Within: Gustav Theodor Fechner and his Psychophysical Worldview*, Pittsburgh, PA: University of Pittsburgh Press.
+* Kuntze, Johannes Emil, 1892, *Gustav Theodor Fechner: Ein deutsches Gelehrtenleben*, Leipzig: Breitkopf und Härtel.
+* Lasswitz, Kurd, 1902, *Gustav Theodor Fechner*, Zweite vermehrte Auflage. Stuttgart: Frommanns Verlag.
+* Marshall, Marilyn E., 1974a, “William James, Gustav Fechner, and the Question of Dogs and Cats in the Library”, *Journal of the History of the Behavioral Sciences*, 10(3): 304–312.
+* –––, 1974b, “G. T. Fechner: Premises toward a General Theory of Organisms (1823)”, *Journal of the History of the Behavioral Sciences*, 10(4): 438–447.
+* Pastor, Willy, 1901a, *Im Geiste Fechners, Fünf naturwissenschaftliche Essays*, Leipzig: G.H. Meyer.
+* –––, 1901b, *Gustav Theodor Fechner und die durch ihn erschlossene Weltanschauung*, Leipzig: G.H. Meyer.
+* Wentscher, Max, 1924, *Fechner und Lotze*, Munich: Ernst Reinhardt.
+* Wille, Bruno, 1905, *Idealistische Weltanschauung auf naturwissenschaftliche Grundlage im Sinne Fechners*, Hamburg: Leopold Voß.
 
 ## Academic Tools
 
@@ -298,4 +298,4 @@ All translations are by the author of this entry, unless otherwise noted.
 [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Herbart, Johann Friedrich](https://plato.stanford.edu/entries/johann-herbart/) | [Lotze, Hermann](https://plato.stanford.edu/entries/hermann-lotze/) | [measurement: in science](https://plato.stanford.edu/entries/measurement-science/) | [neutral monism](https://plato.stanford.edu/entries/neutral-monism/) | [panpsychism](https://plato.stanford.edu/entries/panpsychism/) | [Schelling, Friedrich Wilhelm Joseph von](https://plato.stanford.edu/entries/schelling/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Frederick C. Beiser](http://thecollege.syr.edu/people/faculty/pages/phi/beiser-fred.html) <[_fbeiser@syr.edu_](mailto:fbeiser%40syr%2eedu)>
+[Frederick C. Beiser](http://thecollege.syr.edu/people/faculty/pages/phi/beiser-fred.html) <[*fbeiser@syr.edu*](mailto:fbeiser%40syr%2eedu)>

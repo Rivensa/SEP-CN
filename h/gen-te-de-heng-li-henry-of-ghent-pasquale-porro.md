@@ -1,6 +1,5 @@
 # 根特的亨利 Henry of Ghent (Pasquale Porro)
 
-
 *首次发布于2007年12月19日星期三；实质性修订于2014年8月25日星期一*
 
 根特的亨利（约公元 1217 年出生，公元 1293 年逝世）或许是 13 世纪末巴黎神学院最杰出的人物；也就是说，在托马斯·阿奎那逝世后的下一代人中。长期以来，人们认为亨利是一位保守的神学家，致力于捍卫奥古斯丁传统，抵御亚里士多德主义和阿拉伯哲学传播所带来的风险 — 这一印象似乎得到了亨利参与主教坦皮尔成立的委员会的证实，该委员会旨在准备著名的 1277 年 3 月谴责。然而，亨利的《全集》新批判版的进展 — 由雷蒙德·马肯近 30 年前在鲁汶开始，现在由 G.A.威尔逊协调，得到国际团队支持 — 已经表明，这一评价需要进行实质性修订。事实上，亨利试图将传统的奥古斯丁理论与亚里士多德认识论和阿维森纳本体论的一些基本原则调和起来，从而产生了一种复杂而独特的综合。
@@ -13,16 +12,16 @@
 * [6. 本质存在 (esse essentiae)](https://plato.stanford.edu/entries/henry-ghent/#EssBeiEssEss)
 * [7. 受造本质与神圣理念](https://plato.stanford.edu/entries/henry-ghent/#CreEssDivIde)
 * [8. 上帝作为我们知识的第一对象 (primum cognitum)](https://plato.stanford.edu/entries/henry-ghent/#GodFirObjOurKnoPriCog)
-* [ 9. 类比](https://plato.stanford.edu/entries/henry-ghent/#Ana)
+* [9. 类比](https://plato.stanford.edu/entries/henry-ghent/#Ana)
 * [10. 智力和意志](https://plato.stanford.edu/entries/henry-ghent/#IntWil)
 * [11. 其他特征元素：人类二态性，时间，积极生活，人权，神学家的特殊启示](https://plato.stanford.edu/entries/henry-ghent/#OthChaEleHumDimTimActLifHumRigSpeIllThe)
-* [ 参考文献](https://plato.stanford.edu/entries/henry-ghent/#Bib)
+* [参考文献](https://plato.stanford.edu/entries/henry-ghent/#Bib)
 
-  * [ 一手资料](https://plato.stanford.edu/entries/henry-ghent/#PriSou)
-  * [ 二手资料](https://plato.stanford.edu/entries/henry-ghent/#SecSou)
-* [ 学术工具](https://plato.stanford.edu/entries/henry-ghent/#Aca)
+  * [一手资料](https://plato.stanford.edu/entries/henry-ghent/#PriSou)
+  * [二手资料](https://plato.stanford.edu/entries/henry-ghent/#SecSou)
+* [学术工具](https://plato.stanford.edu/entries/henry-ghent/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/henry-ghent/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/henry-ghent/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/henry-ghent/#Rel)
 
 ---
 
@@ -175,6 +174,7 @@ On the other hand, if God did not have access to the multiplicity of all that is
 * 关于超自然之光(lumen supernaturale)的教义，这是神学家的特权，使他们的科学习惯优于其他知识分子（Quodl. XII，第 2 问；Trottmann 1999；Arezzo 2014）。
 
 事实上，亨利职业生涯中的一个中心关注点是辩护神学的绝对科学性质。此外，神学硕士有责任在请求时就任何主题发表权威意见；因此，亨利的 Quodlibeta 中涉及的许多关于牧师、社会、政治甚至经济等问题，使其成为整个经院哲学作品中最丰富、最生动的神学著作之一（Porro 2006；Marmursztejn 2007；König-Pralong 2011）。
+
 ## Bibliography
 
 ### Primary Sources

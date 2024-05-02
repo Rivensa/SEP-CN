@@ -1,6 +1,6 @@
 # 历时同一性 over time (Andre Gallois)
 
-_首次发表于2005年3月18日星期五；实质性修订于2016年10月6日星期四。_
+*首次发表于2005年3月18日星期五；实质性修订于2016年10月6日星期四。*
 
 伊尔文·科皮曾经通过指出以下两个陈述似乎都是真实的，但是在假设存在变化的情况下，它们似乎是不一致的，来定义了同一性问题：
 
@@ -10,8 +10,6 @@ _首次发表于2005年3月18日星期五；实质性修订于2016年10月6日�
 传统上，这个谜题有多种解法。例如，亚里士多德区分了“偶然”和“本质”变化。偶然变化是指在变化后不会导致对象同一性改变的变化，比如房子被粉刷了，或者头发变灰了等等。亚里士多德认为这些是物体偶然属性的变化。相比之下，本质变化是指当物体发生变化时不保留其同一性的变化，比如房子被烧毁成灰烬，或者有人死亡。有了这些区别，亚里士多德会说，在偶然变化的情况下，（1）是错误的——一个变化的物体确实可以改变其“偶然属性”之一，但在变化之前和之后仍然是同一个物体。
 
 当然，这个谜题的解决方案取决于偶然变化和本质变化之间是否存在一种连贯的区别，以及偶然属性和本质属性之间是否存在一种连贯的区别。一些哲学家认为这种区别存在问题，并提出了其他不需要这种区别的解决方案。接下来，我们将讨论这些解决方案以及在考虑物体的同一性随时间变化时出现的其他谜题。
-
- 
 
 ***
 
@@ -55,7 +53,7 @@ _首次发表于2005年3月18日星期五；实质性修订于2016年10月6日�
 
 同一性最常被认为具有的区分特征是符合同一性不可辨认性，早期被称为莱布尼兹定律。将“∀F”视为量词，范围为属性，以下是一种表述莱布尼兹定律的方式：
 
-> LL: ∀_x_∀_y_\[_x_=_y_ → ∀_F_(_F\*\*x_ → _F\*\*y_)]
+> LL: ∀*x*∀*y*\[*x*=*y* → ∀*F*(*F\*\*x* → *F\*\*y*)]
 
 LL，被理解为涵盖同一性属性（如果有的话），比如与 a 相同，它说如果 x 与 y 相同，则 x 的任何属性都是 y 的属性。
 
@@ -157,23 +155,23 @@ Kripke 和 Ruth Barcan Marcus 提出了一个论证，以证明没有有条件�
 
 假设：
 
-> (1) _a_=_b_.
+> (1) *a*=*b*.
 
 但是每个事物与自身必然具有同一性。因此；
 
-> (2) □ (_a_=_a_)
+> (2) □ (*a*=*a*)
 
 将‘\[λx Φ]’解释为：存在一个 x 使得Φ成立（其中Φ是一个逻辑公式，其中‘x’是一个自由变量），我们假设有：
 
-> (3) \[λ_x_ □(_x_=_a_)]_a_
+> (3) \[λ_x_ □(*x*=*a*)]*a*
 
 由于根据莱布尼兹定律，如果（1）成立，则 a 和 b 共有所有属性。因此（1）和（3）得出：
 
-> (4) \[λ_x_ □(_x_=_a_)]_b_
+> (4) \[λ_x_ □(*x*=*a*)]*b*
 
 这反过来产生：
 
-> (5) □(_a_=_b_).
+> (5) □(*a*=*b*).
 
 尽管这种论证被广泛接受，但也存在争议。莱布尼茨的定律，再次被理解为涉及同一性属性，用于从步骤（3）中推导出步骤（4）——b具有与a必然相同的属性。我们可以否认存在这样的模态属性。如果将LL的应用限制在属性上，这样做会阻止这个论证。或者我们可以允许存在与a必然相同的属性，但否认（3）是由（2）推导出来的。从某种观点来看，从（2）推导出来的只是a具有与自身必然相同的属性，由谓词“\[λx x=x]”表示。我们需要区分与自身必然相同的属性（每个存在物都有）和与a必然相同的属性（只有a有）（Lowe 1982）。最后，我们可以基于以下理由拒绝（2）。有一个深入人心的惯例，即相同类型的名称、常量或变量的重复标记被赋予相同的值。从这个惯例的存在可以推导出“a = a”表达了一个真理。但并不意味着“a = a”表达了某种必然真理。
 
@@ -197,27 +195,27 @@ Kripke 和 Ruth Barcan Marcus 提出了一个论证，以证明没有有条件�
 
 但是：
 
-> (2′) _D_ (_a_=_a_).
+> (2′) *D* (*a*=*a*).
 
 (2’) 产生：
 
-> (3′) \[λ_xD_(_x_=_a_)]_a_
+> (3′) \[λ_xD_(*x*=*a*)]*a*
 
 假设：
 
-> (4′) _a_=_b_
+> (4′) *a*=*b*
 
 应用莱布尼兹定律到(3′)和(4′)得到：
 
-> (5′) \[λ_xD_(_a_=_x_)]_b_
+> (5′) \[λ_xD_(*a*=*x*)]*b*
 
 由此可得：
 
-> (6′) _D_(_a_=_b_),
+> (6′) *D*(*a*=*b*),
 
 这与(1′)相矛盾。因此(1′)意味着：
 
-> (7′) ¬(_a_=_b_)
+> (7′) ¬(*a*=*b*)
 
 如果(7′)为真，则 a 与 b 不是同一性。因此，如果(7′)为真，则 a 与 b 是明确不同的。(1′)不能为真。
 
@@ -367,306 +365,306 @@ Parfit、Nozick和Lewis都认为心理连续性对于个人同一性至关重要
 
 ### A. Identity and Change
 
-* Botterill, A., 2004, “Temporal Parts and Temporary Intrinsics,” _Metaphysica_, 5(2): 5–23.
-* Braddon-Mitchell, D., Miller K., 2006, “Talking About a Universalist World,” _Philosophical Studies_, 130(3): 499–534.
-* Caplan, B., 2005, “Why So Tense About the Cupola?,” _Mind_, 114(455): 703–708.
-* Fiocco, M.O., 2010, “Temporary Intrinsics and Relativisation,” _Pacific Philosophical Quarterly_, 91(1): 64–77.
-* Francescotti, R.M., 2005, “Constitution and the Necessity of Identity,” _Logique et Analyse_, 48: 311–321.
-* Geach, P.T., 1967, “Identity,” _Review of Metaphysics_, 21: 3–12.
-* Haslanger, S., 1989, “Endurance and Temporary Intrinsics,” _Analysis_, 49: 119–25.
-* –––, 1989, “Persistence, Change and Explanation,” _Philosophical Studies_, 56: 1–28.
-* Hansson, T., 2007, “The Problem(s) of Change Revisited,” _Dialectica_, 61(2): 265–274.
-* Hestevold, H.S., 2008, “Presentism: Through Thick and Thin,” _Pacific Philosophical Quarterly_, 89(3): 325–347.
-* Hinchcliff, M., 1996, “The Puzzle of Change,” _Philosophical Perspectives 10: Metaphysics_, James Tomberlin (ed.), Atascadero: Ridgeview.
-* Johnston, M., 1987, “The Problem of Persistence,” _Proceedings of the Aristotelian Society_ (Supplementary Volume) 61: 107–135.
-* Koslicki, K., 2005, “Almost Indiscernible Objects and the Suspect Strategy,” _Journal of Philosophy_, 102(2): 55–77.
-* Lewis, D., 1986, _The Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1988, “Rearrangement of Particles: Reply to Lowe,” _Analysis_, 48: 128–130.
-* –––, 2002, “Tensing the Cupola,” _Mind_, 111: 1–13.
-* Lombard, L.B., 2006, “Scope Fallacies and the ‘Decisive Objection’ Against Endurance,” _Philosophia_, 34(4): 441–452.
-* Lowe, E.J., 1987, “Lewis on Perdurance Versus Endurance,” _Analysis_, 47: 152–54.
-* –––, 1988, “The Problem of Intrinsic Change: Rejoinder to Lewis,” _Analysis_, 48: 72–77.
-* –––, 2006, “How Real is Substantial Change?,” _Monist_, 89(3): 275–293.
-* McCall, S. and Lowe, E.J., 2009, “The Definition of Endurance,” _Analysis_, 69(2): 277–280.
-* Merricks, T., 1994, “Endurance and Indiscernibility,” _Journal of Philosophy_, 41: 165–84.
-* Moyer, M., 2008, “Statues and Lumps: A Strange Coincidence,” _Synthese_, 148(2): 401–423.
-* Oderberg, D.S., 2004, “Temporal Parts and hte Possibility of Change,” _Philosophy and Phenomenological Research_, 69(3): 686–708.
-* Pruss, A. R., 2012, “A Deflationary Theory of Diachronic Identity,” _Australasian Journal of Philosophy_, 90(1): 19–37.
-* Stone, J., 2003, “On Staying the Same,” _Analysis_, 63(4): 288–291.
-* Tegtmeir, E., 2007, “Three Flawed Distinctions in the Philosophy of Time,” _Metaphysica_, 8(1): 53–59.
-* Wasserman, R., 2003, “The Argument From Temporary Intrinsics,” _Australasian Journal of Philosophy_, 81: 413–419.
-* –––, 2006, “The problem of Change,” _Philosophy Compass_, 1(1): 48–57.
-* –––, 2010, “Teaching and Learning Guide for: The Problem of Change,” _Philosophy Compass_, 5(3), 283–286.
+* Botterill, A., 2004, “Temporal Parts and Temporary Intrinsics,” *Metaphysica*, 5(2): 5–23.
+* Braddon-Mitchell, D., Miller K., 2006, “Talking About a Universalist World,” *Philosophical Studies*, 130(3): 499–534.
+* Caplan, B., 2005, “Why So Tense About the Cupola?,” *Mind*, 114(455): 703–708.
+* Fiocco, M.O., 2010, “Temporary Intrinsics and Relativisation,” *Pacific Philosophical Quarterly*, 91(1): 64–77.
+* Francescotti, R.M., 2005, “Constitution and the Necessity of Identity,” *Logique et Analyse*, 48: 311–321.
+* Geach, P.T., 1967, “Identity,” *Review of Metaphysics*, 21: 3–12.
+* Haslanger, S., 1989, “Endurance and Temporary Intrinsics,” *Analysis*, 49: 119–25.
+* –––, 1989, “Persistence, Change and Explanation,” *Philosophical Studies*, 56: 1–28.
+* Hansson, T., 2007, “The Problem(s) of Change Revisited,” *Dialectica*, 61(2): 265–274.
+* Hestevold, H.S., 2008, “Presentism: Through Thick and Thin,” *Pacific Philosophical Quarterly*, 89(3): 325–347.
+* Hinchcliff, M., 1996, “The Puzzle of Change,” *Philosophical Perspectives 10: Metaphysics*, James Tomberlin (ed.), Atascadero: Ridgeview.
+* Johnston, M., 1987, “The Problem of Persistence,” *Proceedings of the Aristotelian Society* (Supplementary Volume) 61: 107–135.
+* Koslicki, K., 2005, “Almost Indiscernible Objects and the Suspect Strategy,” *Journal of Philosophy*, 102(2): 55–77.
+* Lewis, D., 1986, *The Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1988, “Rearrangement of Particles: Reply to Lowe,” *Analysis*, 48: 128–130.
+* –––, 2002, “Tensing the Cupola,” *Mind*, 111: 1–13.
+* Lombard, L.B., 2006, “Scope Fallacies and the ‘Decisive Objection’ Against Endurance,” *Philosophia*, 34(4): 441–452.
+* Lowe, E.J., 1987, “Lewis on Perdurance Versus Endurance,” *Analysis*, 47: 152–54.
+* –––, 1988, “The Problem of Intrinsic Change: Rejoinder to Lewis,” *Analysis*, 48: 72–77.
+* –––, 2006, “How Real is Substantial Change?,” *Monist*, 89(3): 275–293.
+* McCall, S. and Lowe, E.J., 2009, “The Definition of Endurance,” *Analysis*, 69(2): 277–280.
+* Merricks, T., 1994, “Endurance and Indiscernibility,” *Journal of Philosophy*, 41: 165–84.
+* Moyer, M., 2008, “Statues and Lumps: A Strange Coincidence,” *Synthese*, 148(2): 401–423.
+* Oderberg, D.S., 2004, “Temporal Parts and hte Possibility of Change,” *Philosophy and Phenomenological Research*, 69(3): 686–708.
+* Pruss, A. R., 2012, “A Deflationary Theory of Diachronic Identity,” *Australasian Journal of Philosophy*, 90(1): 19–37.
+* Stone, J., 2003, “On Staying the Same,” *Analysis*, 63(4): 288–291.
+* Tegtmeir, E., 2007, “Three Flawed Distinctions in the Philosophy of Time,” *Metaphysica*, 8(1): 53–59.
+* Wasserman, R., 2003, “The Argument From Temporary Intrinsics,” *Australasian Journal of Philosophy*, 81: 413–419.
+* –––, 2006, “The problem of Change,” *Philosophy Compass*, 1(1): 48–57.
+* –––, 2010, “Teaching and Learning Guide for: The Problem of Change,” *Philosophy Compass*, 5(3), 283–286.
 
 ### B. Necessary and Determinate Identities
 
 #### B.1 Necessary Identities
 
-* Baldwin, T., 1984, “Lowe on Modalities _De Re_,” _Mind_, 93: 252–5.
-* Barcan Marcus, R., 1947. “The Identity of Indiscernibles in a Strict Functional Calculus of the Second Order,” _Journal of Symbolic Logic_, 12: 12–15.
-* –––, 1993, _Modalities_:_Philosophical Essays_, Oxford: Oxford University Press.
-* Bostock, D., 1977, “Kripke on Identity and Necessity,” _Philosophical Quarterly_, 27: 313–29.
-* Blum, A., 1998. “Identity,” _Iyyun_, 47: 77–79.
-* Hale, B., 2003, “The Necessity of Identity,” _The Logica Yearbook 2003_, Prague: Filosofia, 21–33
-* Hughes, C., 2008, _Kripke, Names, Necessity, and Identity_, Oxford: Oxford University Press.
-* Hugly, P., Sayward C., 1998, “Kripke on Necessity and Identity,” _Philosophical Papers_, 27(3): 151–159.
-* Karmo, T., 1983, “Contingent Non-Identity,” Australasia, _Journal of Philosophy_, 61: 185–7.
-* Keefe, R., 1995, “Contingent Identity and Vague Identity,” _Analysis_, 55: 183–90.
-* Kripke, S., 1971, “Identity and Necessity,” in Milton K. Munitz (ed.), _Identity and Individuation_, New York: New York University Press.
-* –––, 1980, _Naming and Necessity_, London: Routledge.
-* Levinson, J., 1988, “A Note on Categorical Properties and Contingent Identity,” _Journal of Philosophy_, 85: 718–22.
-* Lowe, E.J., 1982, “On the Alleged Necessity of True Identity Statements,” _Mind_, 91: 579–84.
-* McKay, T., 1986, “Lowe and Baldwin on Modalities,” _Mind_, 95: 499–505.
-* Pendlbury, M., 1975, “Necessary identity,” _Philosophical Papers_, 4: 12–20.
-* Salmon, N., 1981, _Reference and Essence_, Princeton: Princeton University Press.
-* Schnieder, B., 2006, “By Leibniz's Law: Remarks on a Fallacy,” _Philosophical Quarterly_, 56(222): 39–54.
-* Wiggins, D., 1986, “On Singling Out An Object Determinately,” in P. Pettit, and J. McDowell (eds.), _Subject, Thought and Context_, Oxford: Oxford University Press.
-* Williamson, T., 1996. “The Necessity and Determinacy of Distinctness,” in S. Lovibond and S. Williams (eds.) _Essays for David Wiggins: Identity, Truth and Value_, Oxford: Oxford University Press.
-* Wilson, M., 1983. “Why Contingent Identity is Necessary,” _Philosophical Studies_, 43: 301–328.
-* Wreen, M., 1998, “Proper names and the Necessity of Identity Statements,” _Synthese_, 114(2): 319–335.
+* Baldwin, T., 1984, “Lowe on Modalities *De Re*,” *Mind*, 93: 252–5.
+* Barcan Marcus, R., 1947. “The Identity of Indiscernibles in a Strict Functional Calculus of the Second Order,” *Journal of Symbolic Logic*, 12: 12–15.
+* –––, 1993, *Modalities*:*Philosophical Essays*, Oxford: Oxford University Press.
+* Bostock, D., 1977, “Kripke on Identity and Necessity,” *Philosophical Quarterly*, 27: 313–29.
+* Blum, A., 1998. “Identity,” *Iyyun*, 47: 77–79.
+* Hale, B., 2003, “The Necessity of Identity,” *The Logica Yearbook 2003*, Prague: Filosofia, 21–33
+* Hughes, C., 2008, *Kripke, Names, Necessity, and Identity*, Oxford: Oxford University Press.
+* Hugly, P., Sayward C., 1998, “Kripke on Necessity and Identity,” *Philosophical Papers*, 27(3): 151–159.
+* Karmo, T., 1983, “Contingent Non-Identity,” Australasia, *Journal of Philosophy*, 61: 185–7.
+* Keefe, R., 1995, “Contingent Identity and Vague Identity,” *Analysis*, 55: 183–90.
+* Kripke, S., 1971, “Identity and Necessity,” in Milton K. Munitz (ed.), *Identity and Individuation*, New York: New York University Press.
+* –––, 1980, *Naming and Necessity*, London: Routledge.
+* Levinson, J., 1988, “A Note on Categorical Properties and Contingent Identity,” *Journal of Philosophy*, 85: 718–22.
+* Lowe, E.J., 1982, “On the Alleged Necessity of True Identity Statements,” *Mind*, 91: 579–84.
+* McKay, T., 1986, “Lowe and Baldwin on Modalities,” *Mind*, 95: 499–505.
+* Pendlbury, M., 1975, “Necessary identity,” *Philosophical Papers*, 4: 12–20.
+* Salmon, N., 1981, *Reference and Essence*, Princeton: Princeton University Press.
+* Schnieder, B., 2006, “By Leibniz's Law: Remarks on a Fallacy,” *Philosophical Quarterly*, 56(222): 39–54.
+* Wiggins, D., 1986, “On Singling Out An Object Determinately,” in P. Pettit, and J. McDowell (eds.), *Subject, Thought and Context*, Oxford: Oxford University Press.
+* Williamson, T., 1996. “The Necessity and Determinacy of Distinctness,” in S. Lovibond and S. Williams (eds.) *Essays for David Wiggins: Identity, Truth and Value*, Oxford: Oxford University Press.
+* Wilson, M., 1983. “Why Contingent Identity is Necessary,” *Philosophical Studies*, 43: 301–328.
+* Wreen, M., 1998, “Proper names and the Necessity of Identity Statements,” *Synthese*, 114(2): 319–335.
 
 #### B.2 Determinate Identities
 
-* Barnes, E., 2009, “Indeterminacy,Identity and Counterparts: Evans Reconsidered,” _Synthese_, 168(1): 81–96.
-* Broome, J., 1984, “Indefiniteness in Identity,” _Analysis_, 44(1): 6–12.
-* Burgess, J., 1990, “Vague Objects and Indefinite Identity,” _Philosophical Studies_, 59: 263–87.
-* –––, 1989, “Vague Identity: Evans Misrepresented,” _Analysis_, 49: 112–19.
-* –––, 1990, “Vague Objects and Indefinite Identity,” _Philosophical Studies_, 59: 263–87.
-* Cook, M., 1986, “Indeterminacy of Identity,” _Analysis_, 46: 179–86.
-* Copeland, J., 1997, “Vague Identity and Fuzzy Logic,” _Journal of Philosophy_, 94: 514–34.
-* Evans, G., 1978, “Can There Be Vague Objects?,” _Analysis_, 38: 208.
-* French, S., and Krause, D., 1995, “Vague Identity and Quantum Indeterminacy,” _Analysis_, 55: 20–6.
-* Garrett, B., 1988, “Vagueness and Identity,” _Analysis_, 48(3): 130–44.
-* –––, 1991, “Vague Identity and Vague Objects,” _Noûs_, 25: 341–51.
-* Hirsh, E., 1999, “The Vagueness of Identity,” _Philosophical Topics_, 26: 139–58.
-* Johnsen, B., 1989, “Is Vague Identity Incoherent?,” _Analysis_, 49: 103–12.
-* Keefe, R., and Smith, P. (eds.), 1996, _Vagueness: A Reader_, Cambridge, MA: MIT Press.
-* Lewis, D.K., 1988, “Vague identity: Evans Misunderstood,” _Analysis_, 48: 128–30.
-* Lowe, E.J., 1982, “Vague Identity and Quantum Indeterminacy,” _Analysis_, 54: 110–114.
-* Miller, K., 2006, “Vagueness, Persistence and Indeterminate Identity,” _Erkenntnis_, 64(2): 223–230.
-* Noonan, H., 1985, “Indefinite Identity: A Reply to Broome,” _Analysis_, 44(3): 117–21.
-* –––, 1990, “Vague Identity Yet Again,” _Analysis_, 50: 157–62.
-* –––, 1991, “Indeterminate Identity, Contingent Identity and Abelardian Predicates,” _Philosophical Quarterly_, 41: 183–93.
-* –––, 1995, “E.J. Lowe on Vague Identity and Quantum Indeterminacy,” _Analysis_, 55: 14–19.
-* Over, D.E., 1989, “Vague Objects and Identity,” _Analysis_, 49: 97–9.
-* Parfit, D., 1993, “The Indeterminacy of Identity: A Reply to Brueckner,” _Philosophical Studies_, 70: 23–33.
-* Parsons, T., 2000, _Indeterminate Identity: Metaphysics and Semantics_, Oxford: Oxford University Press.
-* –––, and Woodruff, P., 1995, “Worldly Indeterminacy of Identity,” _Proceedings of the Aristotelian Society_, 95: 171–91.
-* Pinillos, N.A., 2003, “Counting and Indeterminate Identity,” _Mind_, 112(445): 35–50.
-* Rassmussen, S.A., 1986, “Vague Identity,” _Mind_, 95: 81–91.
-* Romerales, E., 2008, “Persistence, Ontic Vagueness and Identity: Towards a Substantialist Four-Dimensionalism,” _Metaphysica_, 9(1): 33–55.
-* Stalnaker, R., 1988, “Vague Identity,” in D.F. Austen (ed.), _Philosophical Analysis: A Defence By Examples_, Dordrecht: Kluwer.
-* Thomason, R., 1982, “Identity and Vagueness,” _Philosophical Studies_, 43: 329–32.
-* Van Inwagen, P., 1988, “How To Reason About Vague Objects” _Philosophical Topics_, 16: 255–84.
-* Wiggins, D., 1986, “On Singling Out an Object Determinately,” in P. Pettit and J. McDowell (eds.), _Subject, Thought and Context_, Oxford: Oxford University Press.
-* Williamson, T., 1990, _Identity and Discrimination_, Oxford: Oxford University Press.
+* Barnes, E., 2009, “Indeterminacy,Identity and Counterparts: Evans Reconsidered,” *Synthese*, 168(1): 81–96.
+* Broome, J., 1984, “Indefiniteness in Identity,” *Analysis*, 44(1): 6–12.
+* Burgess, J., 1990, “Vague Objects and Indefinite Identity,” *Philosophical Studies*, 59: 263–87.
+* –––, 1989, “Vague Identity: Evans Misrepresented,” *Analysis*, 49: 112–19.
+* –––, 1990, “Vague Objects and Indefinite Identity,” *Philosophical Studies*, 59: 263–87.
+* Cook, M., 1986, “Indeterminacy of Identity,” *Analysis*, 46: 179–86.
+* Copeland, J., 1997, “Vague Identity and Fuzzy Logic,” *Journal of Philosophy*, 94: 514–34.
+* Evans, G., 1978, “Can There Be Vague Objects?,” *Analysis*, 38: 208.
+* French, S., and Krause, D., 1995, “Vague Identity and Quantum Indeterminacy,” *Analysis*, 55: 20–6.
+* Garrett, B., 1988, “Vagueness and Identity,” *Analysis*, 48(3): 130–44.
+* –––, 1991, “Vague Identity and Vague Objects,” *Noûs*, 25: 341–51.
+* Hirsh, E., 1999, “The Vagueness of Identity,” *Philosophical Topics*, 26: 139–58.
+* Johnsen, B., 1989, “Is Vague Identity Incoherent?,” *Analysis*, 49: 103–12.
+* Keefe, R., and Smith, P. (eds.), 1996, *Vagueness: A Reader*, Cambridge, MA: MIT Press.
+* Lewis, D.K., 1988, “Vague identity: Evans Misunderstood,” *Analysis*, 48: 128–30.
+* Lowe, E.J., 1982, “Vague Identity and Quantum Indeterminacy,” *Analysis*, 54: 110–114.
+* Miller, K., 2006, “Vagueness, Persistence and Indeterminate Identity,” *Erkenntnis*, 64(2): 223–230.
+* Noonan, H., 1985, “Indefinite Identity: A Reply to Broome,” *Analysis*, 44(3): 117–21.
+* –––, 1990, “Vague Identity Yet Again,” *Analysis*, 50: 157–62.
+* –––, 1991, “Indeterminate Identity, Contingent Identity and Abelardian Predicates,” *Philosophical Quarterly*, 41: 183–93.
+* –––, 1995, “E.J. Lowe on Vague Identity and Quantum Indeterminacy,” *Analysis*, 55: 14–19.
+* Over, D.E., 1989, “Vague Objects and Identity,” *Analysis*, 49: 97–9.
+* Parfit, D., 1993, “The Indeterminacy of Identity: A Reply to Brueckner,” *Philosophical Studies*, 70: 23–33.
+* Parsons, T., 2000, *Indeterminate Identity: Metaphysics and Semantics*, Oxford: Oxford University Press.
+* –––, and Woodruff, P., 1995, “Worldly Indeterminacy of Identity,” *Proceedings of the Aristotelian Society*, 95: 171–91.
+* Pinillos, N.A., 2003, “Counting and Indeterminate Identity,” *Mind*, 112(445): 35–50.
+* Rassmussen, S.A., 1986, “Vague Identity,” *Mind*, 95: 81–91.
+* Romerales, E., 2008, “Persistence, Ontic Vagueness and Identity: Towards a Substantialist Four-Dimensionalism,” *Metaphysica*, 9(1): 33–55.
+* Stalnaker, R., 1988, “Vague Identity,” in D.F. Austen (ed.), *Philosophical Analysis: A Defence By Examples*, Dordrecht: Kluwer.
+* Thomason, R., 1982, “Identity and Vagueness,” *Philosophical Studies*, 43: 329–32.
+* Van Inwagen, P., 1988, “How To Reason About Vague Objects” *Philosophical Topics*, 16: 255–84.
+* Wiggins, D., 1986, “On Singling Out an Object Determinately,” in P. Pettit and J. McDowell (eds.), *Subject, Thought and Context*, Oxford: Oxford University Press.
+* Williamson, T., 1990, *Identity and Discrimination*, Oxford: Oxford University Press.
 
 ### C. Diachronic Identity Puzzles
 
-* Armstrong, D.M. 1980, “Identity Through Time,” Peter van Inwagen (ed.), _Time and Cause:Essays Presented to Richard Taylor_, Dordrecht: D. Reidel, 67–78.
-* Baker, L.R., 1997, “Why Constitution is not Identity,” _Journal of Philosophy_, 94(12): 599–621.
-* –––, 2000, _Persons and Bodies_, Cambridge: Cambridge University Press.
-* –––, 2013, “Three-Dimensionalism Rescued: A Brief Reply to Michael Della Rocca,” _Journal of Philosophy_, 110(3): 166–170.
-* Balashov, Y., 2000, “Enduring and Perduring Objects in Minkowski Space-Time,” _Philosophical Studies_, 99: 129–166.
-* Baxter, D., 1988a, “Many-One Identity,” _Philosophical Papers_, 17: 193–216.
-* –––, 1988b, “Identity in the Loose and popular Sense,” _Mind_, 97: 575–82.
-* –––, 2001, “Loose Identity and Becoming Something Else,” _Noûs_, 35(4): 592–601.
-* Broad, C.D., 1923, _Scientific Thought_, New York: Harcourt Press.
-* Frances, B., 2006, “The New Leibniz's Law Arguments for Pluralism,” _Mind_, 115(460): 1007–1021.
-* Burke, M., 1980, “Cohabitation, Stuff and Intermittent Existence,” _Mind_, 89: 391–405.
-* –––, 1994, “Deon and Theon: An Essentialist Solution to an Ancient Puzzle,” _Journal of Philosophy_, 91: 129–39.
-* –––, 1994, “Copper Statues and pieces of Copper,” _Analysis_, 52: 12–17.
-* –––, 1994, “Preserving the Principle of One Object to a Place,” _Philosophy and Phenomenological Research_, 54: 591–624.
-* Butterfield, J., 1984, “Spatial and Temporal Parts,” _Philosophical Quarterly_, 35: 32–44.
-* Carroll, J.W., and Wentz, L., 2003, “A Puzzle about Persistence,” _Canadian Journal of Philosophy_, 33(3): 323–342.
-* Carter W., 1982, “On Contingent Identity and Temporal Worms,” _Philosophical Studies_, 41: 213–30.
-* –––, 1983, “Artifacts of Theseus Fact and Fission,” _Australasian journal of Philosophy_, 61(3): 248–65.
-* –––, 1983, “In Defence of Undetached Parts,” _Pacific Philosophical Quarterly_, 64: 126–143.
-* –––, and Heller, M., 1989, “Metaphysical Boundaries: A Question of Independence,” _Australasian Journal of Philosophy_, 67: 263–276.
-* Cartwright, R., 1975, “Scattered Objects,” in Keith Lehrer (ed.) _Analysis and Metaphysics_, Dordrecht: D. Reidel, 153–171.
-* Chisholm, R., 1969a, “The Loose and Popular and the Strict and philosophical Senses of Identity,” in Care, N and Grimm, H, _Perception and Identity_, Cleveland: Case Western Reserve University Press, 82–106.
-* –––, 1969b, “Reply to Shoemaker,” in N. Care and H. Grimm (eds.), _Perception and Identity_, Cleveland: Case Western University Press.
-* –––, 1971, “Problems of Identity,” _Identity and Individuation_, in Milton K. Munitz (ed.), New York: New York University Press, 3–30.
-* –––, 1973, “Parts As Essential to their Wholes,” _Review of Metaphysics_, 26: 581–603.
-* –––, 1976, _Person and Object: A Metaphysical Study_, La Salle: Open Court.
-* –––, 1979, “Objects and Persons: Revisions and Replies,” _Grazier Philosophishe Studien_, 7/8: 317–388.
-* Cleve, J.V., 1986, “Mereological Essentialism, Mereological Conjunctivism, and Identity Through Time,” _Midwest Studies in Philosophy_, 11: 141–56.
-* Cortens, A. and O'Leary Hawthorne, J., 1995, “Towards Ontological Nihilism,” _Philosophical Studies_, 91: 205–219.
-* Dau, P., 1986, “Part Time Objets,” _Midwest Studies in Philosophy_, 11: 459–74.
-* Doepke, F., 1982, “Spatially Coinciding Objects,” _Ratio_, 24(1): 45–60.
-* –––, 1987, “Contingent Identity and Rigid Designation,” _Mind_, 95: 250–5.
-* Donnelly, M., 2011, “Endurantist and Perdurantist Accounts of Persistence,” _Philosophical Studies_, 154(1): 27–51.
-* Elder, C., 1998, “Essential Properties and Coinciding Objects,” _Philosophy and Phenomenological Research_, 58: 317–331.
-* Fine, K., 1994, “Compounds and Aggregates,” _Noûs_, 28: 137–158.
-* –––, 1999, “Things and Their Parts,” _Midwest Studies in Philosophy_, 23: 61–74.
-* –––, 2003, “The Non-identity of a Material Thing and Its Matter,” _Mind_, 112: 195–234.
-* Gabbay, D., and Moravcsik, J.M., 1973, “Sameness and Individuation,” _Journal of Philosophy_, 70: 513–526.
-* Gallois, A., 1998, _Occasions of Identity: The metaphysics of Persistence, Change, and Sameness_, New York: Oxford University Press.
-* –––, 1986, “Rigid Designation and the Contingency of Identity,” _Mind_, 95: 57–76.
-* –––, 1990, “Occasional Identity,” _Philosophical Studies_, 58: 203–24.
-* –––, Gibbard, A., 1975, “Contingent Identity,” _Journal of Philosophical Logic_, 4: 187–221.
-* Griffin, N., 1977, _Relative Identity_, Oxford: Oxford University Press.
-* Hansson W, T., 2008, “Can I Be an Instantaneous Stage and Yet Persist Through Time?,” _Metaphysica_, 9(2): 235–239.
-* Haslanger, S., 1994, “Humean Supervenience and Enduring Things,” _Australasian Journal of Philosophy_ 72: 339–359.
-* –––, 2003, “Persistence Through Time,” in Loux M.J. and Zimmerman D. (eds.), _the Oxford Handbook of Metaphysics_, Oxford: Oxford University Press, 315–354.
-* Haslanger, S., and Kurtz, R.M. (eds.), 2006, _Persistence: Contemporary Readings_, Cambridge: Cambridge University Press.
-* Hawley, K., 1999, “Persistence and Non-Supervenient Relations,” _Mind_ 108: 53–67.
-* –––, 2001, _How Things Persist_, Oxford: Oxford University Press.
-* Hawthorne, J., Scala, M. and Wasserman R., 2003, “Recombination, Humean Supervenience and Causal Constraints: An Argument for Temporal Parts?,” in _Oxford Studies in Metaphysics_, 1: 301–318.
-* Heller, M., 1984, “Temporal parts of Four Dimensional Objects,” _Philosophical Studies_, 46: 323–334.
-* –––, 1990, _The Ontology of Physical Objects_, Cambridge: Cambridge University Press.
-* –––, 1992, “Things Change,” _Philosophy and Phenomenological Research_, 52: 695–704.
-* –––, 1993, “Varieties of Four Dimensionalism,” _Australasian Journal of Philosophy_, 71: 47–59.
-* Hirsh, E., 1976, “Physical Identity,” _Philosophical Review_, 85: 357–389.
-* –––, 1982. _The Concept of Identity_, Oxford: Oxford University Press.
-* Hudson, H., 1999, “Temporal Parts and Moral Personhood,” _Philosophical Studies_, 93: 299–316.
-* Hughes, C., 1986, “Is a Thing Just the Sum of its Parts?,” _Proceedings of the Aristotelian Society_, 86: 213–23.
-* Johnston, M., 1989, “Fission and the Facts,” in _Philosophical Perspectives 3_ (Philosophy of mind and Action Theory), Atascadero: Ridgeview Press.
-* –––, 1992, “Constitution is not Identity,” _Mind_, 101: 89–105.
-* Jubien, M., 1993, _Ontology, Modality and the Fallacy of Reference_, Cambridge: Cambridge University Press.
-* Kazmi, A., 1990, “Parthood and Persistence,” _Canadian Journal of Philosophy_ (Supplementary Volume), 16: 227–250.
-* Levy, S., 1997, “Coincidence and Principles of Composition,” _Analysis_, 57: 1–10.
-* Lewis, D., 1971, “Counterparts of Persons and Their Bodies,” _Journal of Philosophy_, 68: 203–211.
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Oxford University Press.
-* –––, 1986, _Philosophical Papers_ (Volume 2), Oxford: Oxford University Press.
-* –––, 1993, “Many, but Almost One,” in J.Bacon (ed), _Ontology, Causality and Mind: Essays in Honour of D.M. Armstrong_, Cambridge: Cambridge University Press.
-* Lombard, L., 1994, “The Doctrine of Temporal Parts and the ‘No-Change’ Objection,” _Philosophy and Phenomenological Research_, 54: 365–372.
-* –––, 1999, “On the Alleged Incompatibility of Presentism and Temporal Parts,” _Philosophia_, 27: 253–260.
-* Lowe, E.J., 1983, “On the Identity of Artifacts,” _Journal of Philosophy_, 80: 220–232.
-* –––, 1983, “Instantiation, Identity and Constitution,” _Philosophical Studies_, 44: 45–59.
-* –––, and Noonan, H., 1988, “Substance, identity and Time,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 62: 61–100.
-* –––, 1989, _Kinds of Being_, Oxford: Blackwell.
-* –––, 1995, “Coinciding Objects: In Defense of the ‘Standard Account’,” _Analysis_, 55: 171–178.
-* Markosian, N., 1998, “Brutal Composition,” _Philosophical Studies_, 79: 95–105.
-* Merricks, T., 1998, “There Are No Criteria of Identity Over Time,” _Noûs_, 323: 106–12.
-* –––, 1999, “Composition as Identity, Mereological Essentialism and Counterpart Theory,” _Australasian Journal of Philosophy_, 77: 192–195.
-* Miller, K., 2005, “A New Definition of Endurance,” _Theoria_, 71(4): 309–332.
-* Miller, K. and Braddon-Mitchell, D., 2007, “There is no ‘Simpliciter Simpliciter’”,_Philosophical Studies_, 136(2): 249–278.
-* Moyer, M., 2006, “Statues and Lumps a Strange Coincidence,” _Synthese_, 148(2): 401–423.
-* –––, 2001, _Objects and Persons_, Oxford: Oxford University Press.
-* Myro, G., 1986, “Identity and Time,” in R. Grandy and R. Warner (eds.), _Philosophical Grounds of Rationality: Intentions Categories and Ends_, Oxford: Clarendon Press, 383–409.
-* –––, 1986, “Time and Essence,” in _Midwest Studies in Philosophy_, 11: 331–41.
-* Needham, P., 2010, “Transient Things and Permanent Stuff,” _Australasian Journal of Philosophy_, 88(1): 147–166.
-* Noonan, H., 1976, “The Four Dimensional World,” _Analysis_, 37: 32–39.
-* –––, 1980, _Objects and Identity_, The Hague: Martinus Nijhoff.
-* –––, 1985, “A Note on Temporal Parts,” _Analysis_, 45: 151–152.
-* –––, 1987, “Reply to Grham Spinkes on Temporal Parts,” _Analysis_, 47: 187–189.
-* –––, 1988, “Substance, Identity and Time,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 62: 79–100.
-* –––, 1993, “Constitution is Identity,” _Mind_ 102: 133–146.
-* –––, 2001, “The Case for Perdurance,” in _Reality and Humean Supervenience: Essays on the Philosophy of David Lewis_, Gerhard Preyer (ed.), Lanham: Rowman and Littlefield, 123–139.
-* Oaklander, N., 1992, “Temporal Passage and Temporal Parts,” _Noûs_, 26: 79–84.
-* Oderberg, D.S., 1993, _The Metaphysics of identity Over Time_, London: Macmillan.
-* Parsons J., 2000, “Must a Four-Dimensionalist believe in temporal Parts?,” _The Monist_, 83: 399–814.
-* Perry, J., 1970, “The Same F,” _Philosophical Review_, 79: 181–200.
-* Rea, M., 1995, “The Problem of Material Constitution,” _Philosophical Review_, 104: 525–552.
-* –––, (ed.) 1997, _Material Constitution_, Cornell: Cornell University Press.
-* –––, 1998, “Temporal Parts Unmotivated,” _Philosophical Review_, 107: 225–260.
-* –––, 2003, “Four-dimensionalism,” in M. Loux and D. Zimmerman (eds.), _Oxford Handbook of Metaphysics_, Oxford: Oxford University Press, 246–280.
-* Robinson, D., 1982, “Re-identifying Matter,” _Philosophical Review_, 91: 317–342.
-* –––, 1985, “Can Amoebae Divide Without Multiplying?,” _Australasian Journal of Philosophy_, 63: 299–319.
-* –––, 1989, “Matter, Motion and Humean Supervenience,” _Australasian Journal of Philosophy_, 67: 394–409.
-* Sanford, D.H., 2005, “Distinctness and Non-Identity,” _Analysis_, 65(4): 269-274.
-* –––, 2011, “Can a Sum Change Its Parts?” _Analysis_, 71(2): 235–239.
-* Sattig, T., 2008, “Identity in 4D,” _Philosophical Studies_, 104(2): 179–195.
-* –––, 2010, “Compatibilism About Coincidence,” _Philosophical Review_, 119: 273–313.
-* Shoemaker, S., 2015, “Persistence and Properties,” _Journal of the American Philosophical Association_, 1(3): 433–448.
-* Sidelle, A., 1998, “A Sweater Unraveled: Following One Thread of Thought For Avoiding Coincident Entities,” _Noûs_ 32: 423–44.
-* Sider T., 2003, _Four Dimensionalism_, Oxford: Oxford University Press.
-* Wahlberg, T. H, 2008, “Can I Be an Instantaneous Stage and Yet Persist Through Time?” _Metaphysica_, 9(2): 235–239.
-* Wiggins, D., 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
-* Wilson, R.A., 2009, “The Transitivity of Material Constitution,” _Noûs_, 43(2): 363–377.
-* Wright, S., 2010, “The Leibniz's Law Problem (for Stage Theory),” _Metaphysica_, 11(2): 137–151.
+* Armstrong, D.M. 1980, “Identity Through Time,” Peter van Inwagen (ed.), *Time and Cause:Essays Presented to Richard Taylor*, Dordrecht: D. Reidel, 67–78.
+* Baker, L.R., 1997, “Why Constitution is not Identity,” *Journal of Philosophy*, 94(12): 599–621.
+* –––, 2000, *Persons and Bodies*, Cambridge: Cambridge University Press.
+* –––, 2013, “Three-Dimensionalism Rescued: A Brief Reply to Michael Della Rocca,” *Journal of Philosophy*, 110(3): 166–170.
+* Balashov, Y., 2000, “Enduring and Perduring Objects in Minkowski Space-Time,” *Philosophical Studies*, 99: 129–166.
+* Baxter, D., 1988a, “Many-One Identity,” *Philosophical Papers*, 17: 193–216.
+* –––, 1988b, “Identity in the Loose and popular Sense,” *Mind*, 97: 575–82.
+* –––, 2001, “Loose Identity and Becoming Something Else,” *Noûs*, 35(4): 592–601.
+* Broad, C.D., 1923, *Scientific Thought*, New York: Harcourt Press.
+* Frances, B., 2006, “The New Leibniz's Law Arguments for Pluralism,” *Mind*, 115(460): 1007–1021.
+* Burke, M., 1980, “Cohabitation, Stuff and Intermittent Existence,” *Mind*, 89: 391–405.
+* –––, 1994, “Deon and Theon: An Essentialist Solution to an Ancient Puzzle,” *Journal of Philosophy*, 91: 129–39.
+* –––, 1994, “Copper Statues and pieces of Copper,” *Analysis*, 52: 12–17.
+* –––, 1994, “Preserving the Principle of One Object to a Place,” *Philosophy and Phenomenological Research*, 54: 591–624.
+* Butterfield, J., 1984, “Spatial and Temporal Parts,” *Philosophical Quarterly*, 35: 32–44.
+* Carroll, J.W., and Wentz, L., 2003, “A Puzzle about Persistence,” *Canadian Journal of Philosophy*, 33(3): 323–342.
+* Carter W., 1982, “On Contingent Identity and Temporal Worms,” *Philosophical Studies*, 41: 213–30.
+* –––, 1983, “Artifacts of Theseus Fact and Fission,” *Australasian journal of Philosophy*, 61(3): 248–65.
+* –––, 1983, “In Defence of Undetached Parts,” *Pacific Philosophical Quarterly*, 64: 126–143.
+* –––, and Heller, M., 1989, “Metaphysical Boundaries: A Question of Independence,” *Australasian Journal of Philosophy*, 67: 263–276.
+* Cartwright, R., 1975, “Scattered Objects,” in Keith Lehrer (ed.) *Analysis and Metaphysics*, Dordrecht: D. Reidel, 153–171.
+* Chisholm, R., 1969a, “The Loose and Popular and the Strict and philosophical Senses of Identity,” in Care, N and Grimm, H, *Perception and Identity*, Cleveland: Case Western Reserve University Press, 82–106.
+* –––, 1969b, “Reply to Shoemaker,” in N. Care and H. Grimm (eds.), *Perception and Identity*, Cleveland: Case Western University Press.
+* –––, 1971, “Problems of Identity,” *Identity and Individuation*, in Milton K. Munitz (ed.), New York: New York University Press, 3–30.
+* –––, 1973, “Parts As Essential to their Wholes,” *Review of Metaphysics*, 26: 581–603.
+* –––, 1976, *Person and Object: A Metaphysical Study*, La Salle: Open Court.
+* –––, 1979, “Objects and Persons: Revisions and Replies,” *Grazier Philosophishe Studien*, 7/8: 317–388.
+* Cleve, J.V., 1986, “Mereological Essentialism, Mereological Conjunctivism, and Identity Through Time,” *Midwest Studies in Philosophy*, 11: 141–56.
+* Cortens, A. and O'Leary Hawthorne, J., 1995, “Towards Ontological Nihilism,” *Philosophical Studies*, 91: 205–219.
+* Dau, P., 1986, “Part Time Objets,” *Midwest Studies in Philosophy*, 11: 459–74.
+* Doepke, F., 1982, “Spatially Coinciding Objects,” *Ratio*, 24(1): 45–60.
+* –––, 1987, “Contingent Identity and Rigid Designation,” *Mind*, 95: 250–5.
+* Donnelly, M., 2011, “Endurantist and Perdurantist Accounts of Persistence,” *Philosophical Studies*, 154(1): 27–51.
+* Elder, C., 1998, “Essential Properties and Coinciding Objects,” *Philosophy and Phenomenological Research*, 58: 317–331.
+* Fine, K., 1994, “Compounds and Aggregates,” *Noûs*, 28: 137–158.
+* –––, 1999, “Things and Their Parts,” *Midwest Studies in Philosophy*, 23: 61–74.
+* –––, 2003, “The Non-identity of a Material Thing and Its Matter,” *Mind*, 112: 195–234.
+* Gabbay, D., and Moravcsik, J.M., 1973, “Sameness and Individuation,” *Journal of Philosophy*, 70: 513–526.
+* Gallois, A., 1998, *Occasions of Identity: The metaphysics of Persistence, Change, and Sameness*, New York: Oxford University Press.
+* –––, 1986, “Rigid Designation and the Contingency of Identity,” *Mind*, 95: 57–76.
+* –––, 1990, “Occasional Identity,” *Philosophical Studies*, 58: 203–24.
+* –––, Gibbard, A., 1975, “Contingent Identity,” *Journal of Philosophical Logic*, 4: 187–221.
+* Griffin, N., 1977, *Relative Identity*, Oxford: Oxford University Press.
+* Hansson W, T., 2008, “Can I Be an Instantaneous Stage and Yet Persist Through Time?,” *Metaphysica*, 9(2): 235–239.
+* Haslanger, S., 1994, “Humean Supervenience and Enduring Things,” *Australasian Journal of Philosophy* 72: 339–359.
+* –––, 2003, “Persistence Through Time,” in Loux M.J. and Zimmerman D. (eds.), *the Oxford Handbook of Metaphysics*, Oxford: Oxford University Press, 315–354.
+* Haslanger, S., and Kurtz, R.M. (eds.), 2006, *Persistence: Contemporary Readings*, Cambridge: Cambridge University Press.
+* Hawley, K., 1999, “Persistence and Non-Supervenient Relations,” *Mind* 108: 53–67.
+* –––, 2001, *How Things Persist*, Oxford: Oxford University Press.
+* Hawthorne, J., Scala, M. and Wasserman R., 2003, “Recombination, Humean Supervenience and Causal Constraints: An Argument for Temporal Parts?,” in *Oxford Studies in Metaphysics*, 1: 301–318.
+* Heller, M., 1984, “Temporal parts of Four Dimensional Objects,” *Philosophical Studies*, 46: 323–334.
+* –––, 1990, *The Ontology of Physical Objects*, Cambridge: Cambridge University Press.
+* –––, 1992, “Things Change,” *Philosophy and Phenomenological Research*, 52: 695–704.
+* –––, 1993, “Varieties of Four Dimensionalism,” *Australasian Journal of Philosophy*, 71: 47–59.
+* Hirsh, E., 1976, “Physical Identity,” *Philosophical Review*, 85: 357–389.
+* –––, 1982. *The Concept of Identity*, Oxford: Oxford University Press.
+* Hudson, H., 1999, “Temporal Parts and Moral Personhood,” *Philosophical Studies*, 93: 299–316.
+* Hughes, C., 1986, “Is a Thing Just the Sum of its Parts?,” *Proceedings of the Aristotelian Society*, 86: 213–23.
+* Johnston, M., 1989, “Fission and the Facts,” in *Philosophical Perspectives 3* (Philosophy of mind and Action Theory), Atascadero: Ridgeview Press.
+* –––, 1992, “Constitution is not Identity,” *Mind*, 101: 89–105.
+* Jubien, M., 1993, *Ontology, Modality and the Fallacy of Reference*, Cambridge: Cambridge University Press.
+* Kazmi, A., 1990, “Parthood and Persistence,” *Canadian Journal of Philosophy* (Supplementary Volume), 16: 227–250.
+* Levy, S., 1997, “Coincidence and Principles of Composition,” *Analysis*, 57: 1–10.
+* Lewis, D., 1971, “Counterparts of Persons and Their Bodies,” *Journal of Philosophy*, 68: 203–211.
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Oxford University Press.
+* –––, 1986, *Philosophical Papers* (Volume 2), Oxford: Oxford University Press.
+* –––, 1993, “Many, but Almost One,” in J.Bacon (ed), *Ontology, Causality and Mind: Essays in Honour of D.M. Armstrong*, Cambridge: Cambridge University Press.
+* Lombard, L., 1994, “The Doctrine of Temporal Parts and the ‘No-Change’ Objection,” *Philosophy and Phenomenological Research*, 54: 365–372.
+* –––, 1999, “On the Alleged Incompatibility of Presentism and Temporal Parts,” *Philosophia*, 27: 253–260.
+* Lowe, E.J., 1983, “On the Identity of Artifacts,” *Journal of Philosophy*, 80: 220–232.
+* –––, 1983, “Instantiation, Identity and Constitution,” *Philosophical Studies*, 44: 45–59.
+* –––, and Noonan, H., 1988, “Substance, identity and Time,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 62: 61–100.
+* –––, 1989, *Kinds of Being*, Oxford: Blackwell.
+* –––, 1995, “Coinciding Objects: In Defense of the ‘Standard Account’,” *Analysis*, 55: 171–178.
+* Markosian, N., 1998, “Brutal Composition,” *Philosophical Studies*, 79: 95–105.
+* Merricks, T., 1998, “There Are No Criteria of Identity Over Time,” *Noûs*, 323: 106–12.
+* –––, 1999, “Composition as Identity, Mereological Essentialism and Counterpart Theory,” *Australasian Journal of Philosophy*, 77: 192–195.
+* Miller, K., 2005, “A New Definition of Endurance,” *Theoria*, 71(4): 309–332.
+* Miller, K. and Braddon-Mitchell, D., 2007, “There is no ‘Simpliciter Simpliciter’”,*Philosophical Studies*, 136(2): 249–278.
+* Moyer, M., 2006, “Statues and Lumps a Strange Coincidence,” *Synthese*, 148(2): 401–423.
+* –––, 2001, *Objects and Persons*, Oxford: Oxford University Press.
+* Myro, G., 1986, “Identity and Time,” in R. Grandy and R. Warner (eds.), *Philosophical Grounds of Rationality: Intentions Categories and Ends*, Oxford: Clarendon Press, 383–409.
+* –––, 1986, “Time and Essence,” in *Midwest Studies in Philosophy*, 11: 331–41.
+* Needham, P., 2010, “Transient Things and Permanent Stuff,” *Australasian Journal of Philosophy*, 88(1): 147–166.
+* Noonan, H., 1976, “The Four Dimensional World,” *Analysis*, 37: 32–39.
+* –––, 1980, *Objects and Identity*, The Hague: Martinus Nijhoff.
+* –––, 1985, “A Note on Temporal Parts,” *Analysis*, 45: 151–152.
+* –––, 1987, “Reply to Grham Spinkes on Temporal Parts,” *Analysis*, 47: 187–189.
+* –––, 1988, “Substance, Identity and Time,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 62: 79–100.
+* –––, 1993, “Constitution is Identity,” *Mind* 102: 133–146.
+* –––, 2001, “The Case for Perdurance,” in *Reality and Humean Supervenience: Essays on the Philosophy of David Lewis*, Gerhard Preyer (ed.), Lanham: Rowman and Littlefield, 123–139.
+* Oaklander, N., 1992, “Temporal Passage and Temporal Parts,” *Noûs*, 26: 79–84.
+* Oderberg, D.S., 1993, *The Metaphysics of identity Over Time*, London: Macmillan.
+* Parsons J., 2000, “Must a Four-Dimensionalist believe in temporal Parts?,” *The Monist*, 83: 399–814.
+* Perry, J., 1970, “The Same F,” *Philosophical Review*, 79: 181–200.
+* Rea, M., 1995, “The Problem of Material Constitution,” *Philosophical Review*, 104: 525–552.
+* –––, (ed.) 1997, *Material Constitution*, Cornell: Cornell University Press.
+* –––, 1998, “Temporal Parts Unmotivated,” *Philosophical Review*, 107: 225–260.
+* –––, 2003, “Four-dimensionalism,” in M. Loux and D. Zimmerman (eds.), *Oxford Handbook of Metaphysics*, Oxford: Oxford University Press, 246–280.
+* Robinson, D., 1982, “Re-identifying Matter,” *Philosophical Review*, 91: 317–342.
+* –––, 1985, “Can Amoebae Divide Without Multiplying?,” *Australasian Journal of Philosophy*, 63: 299–319.
+* –––, 1989, “Matter, Motion and Humean Supervenience,” *Australasian Journal of Philosophy*, 67: 394–409.
+* Sanford, D.H., 2005, “Distinctness and Non-Identity,” *Analysis*, 65(4): 269-274.
+* –––, 2011, “Can a Sum Change Its Parts?” *Analysis*, 71(2): 235–239.
+* Sattig, T., 2008, “Identity in 4D,” *Philosophical Studies*, 104(2): 179–195.
+* –––, 2010, “Compatibilism About Coincidence,” *Philosophical Review*, 119: 273–313.
+* Shoemaker, S., 2015, “Persistence and Properties,” *Journal of the American Philosophical Association*, 1(3): 433–448.
+* Sidelle, A., 1998, “A Sweater Unraveled: Following One Thread of Thought For Avoiding Coincident Entities,” *Noûs* 32: 423–44.
+* Sider T., 2003, *Four Dimensionalism*, Oxford: Oxford University Press.
+* Wahlberg, T. H, 2008, “Can I Be an Instantaneous Stage and Yet Persist Through Time?” *Metaphysica*, 9(2): 235–239.
+* Wiggins, D., 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
+* Wilson, R.A., 2009, “The Transitivity of Material Constitution,” *Noûs*, 43(2): 363–377.
+* Wright, S., 2010, “The Leibniz's Law Problem (for Stage Theory),” *Metaphysica*, 11(2): 137–151.
 
 ### D. Personal Identity
 
-* Ballie, J., 1990, “Recent Work on Personal Identity,” _Philosophical Books_, 34: 193–206.
-* –––, 1993, _Problems in Personal Identity_, New York: Paragon House Publisher.
-* Bermudez, J., 1998, _The Paradox of Self-Consciousness_, Cambridge: MIT.
-* Brennan, A., 1988, “Best Candidate Theories of Identity,” _Inquiry_, 29: 423–38.
-* –––, 1988, _Conditions of Identity_, Oxford: Oxford University Press.
-* Brueckner, A., 1993, “Parfit on What Matters in Survival,” _Philosophical Studies_, 70: 1–22.
-* –––, 2009, “Endurantism and the Psychological Approach to Personal Identity,” _Theoria_, 75(1): 28–33.
-* Buford, C., 2009, “Memory, Quasi-Memory, and Pseudo-Quasi Memory,” _Australasian Journal of Philosophy_, 87(3): 465–478.
-* Butler J., 1736, “Of Personal Identity,” in _The Analogy of Religion_, New York: Cosimo, 2005.
-* Campbell, J., 2011, “Personal Identity,” _The Oxford Handbook of the Self_, Oxford: Oxford University Press.
-* Cartwright, H.M., 1993, “On Two Arguments for the Indeterminacy of Personal Identity,” _Synthese_, 95: 241–273.
-* Chandler, H., 1969, “Shoemaker's Arguments Against Locke,” _Philosophical Quarterly_, 19: 17–37.
-* Chihara, C., 1994, “The Many Persons Problem,” _Philosophical Studies_, 76: 45–9.
-* Chisholm, R., 1976, _Person and Object_, La Salle: Open Court.
-* Coburn, R., 1960, “Bodily Continuity and Personal Identity,” _Analysis_, 20: 117–120.
-* Cole, D., 1991, “Artificial Intelligence and personal Identity,” _Synthese_, 88: 399–417.
-* Doepke, F., 1996, _The Kinds of Things: A Theory of Personal Identity Based on Transcendental Argument_, Chicago: Open Court Publishing.
-* Ehring, D., 1987, “Personal Identity and Time Travel,” _Philosophical Studies_, 52: 427–33.
-* –––, 1990, “Nonbranching and Nontransitivity,” _Analysis_, 50: 268–71.
-* –––, 1995, “Personal Identity and the _R_-Relation: Reconciliation Through Cohabitation?,” _Australasian Journal of Philosophy_, 73: 337–346.
-* ––\&Ndash;, 2013, “Why Parfit Did Not Go Far Enough,” _Philosophical Studies_, 165(1): 133–149.
-* Eklund, M., 2004, “Personal Identity, Concerns, and Indeterminacy,” _Monist_, 87(4): 489–511.
-* Elliott, R., 1991, “Personal Identity and the Causal Continuity Requirement,” _Philosophical Quarterly_, 41: 55–75.
-* Fuller, G., 1992, “Functionalism and personal Identity,” _Personalist Forum_, 8: 133–143.
-* Garrett, B., 1990, “Personal Identity and Extrinsicness,” _Philosophical Studies_, 59: 177–94.
-* –––, 1998, _Personal Identity and Self-Consciousness_, London: Routledge.
-* Gendler, T.Z., 2002, “Personal Identity and Thought Experiments,” _Philosophical Quarterly_, 52: 34–54.
-* Grice, H.P., 1941, “Personal Identity,” _Mind_, 50: 330–350.
-* Hamilton, A., 1995, “A New Look at Personal Identity,” _Philosophical Quarterly_, 45: 332–349.
-* Hirsch, E., 1991, “Divided Minds,” _Philosophical Review_ 100: 3–30.
-* Johnston, M., 1987, “Human Beings,” _Journal of Philosophy_, 84(2): 59–83.
-* –––, 1989, “Relativism and the Self,” in _Relativism, Interpretation and Confrontation_, M. Krausz (ed.), Notre Dame: University of Notre Dame Press.
-* –––, 1992, “Reasons and Reductionism,” _Philosophical Review_, 101: 589–618.
-* Kolak, D., 1993, “The metaphysics and Metapsychology of Personal Identity,” _American philosophical Quarterly_, 30: 39–50.
-* Lewis, D., 1976, “Survival and Identity,” in Amelie Oksenberg Rorty (ed.), _The Identities of Persons_, Berkeley: University of Calfornia Press.
-* Lowe, E. J., 2011, “Personal Identity,” _The Continuum Companion to Philosophy of Mind_, London: Continuum International Publishing Group.
-* Mackenzie, C., 2009, “Personal Identity, Narrative Integration and Embodiment,” in S. Campbell (ed.), _Embodiment and Agency_, University Park: Penn State University Press.
-* Markosian, N., 2010, “Identifying the Problem of Personal Identity,” in J.K. Campbell, M. O'Rourke, and H.S. Silverstein (eds.), _Time and Identity_, Cambridge MA: MIT Press.
-* Merricks, T., 2001, “Realism about Personal Identity over Time,” _Philosophical Perspective_ 15 (_Noûs_ Supplement, 35): 173–187.
-* Mills, E., 1993, “Dividing Without Reducing: Bodily Fission and Personal Identity,” _Mind_, 102: 35–51.
-* Miri, M., 1973, “Memory and personal Identity,” _Mind_, 82: 1–21.
-* Nagel, T., 1979, “Brain Bisection and the Unity of Consciousness,” in Nagel, T., _Mortal Questions_, Cambridge: Cambridge University Press.
-* Nelson, J., 1972, “Logically Necessary and Sufficient Conditions For Identity Through Time,” _American Philosophical Quarterly_, 9 (2): 177–185.
-* Nichols, S., and Bruno, M., 2010, “Intuitions about Personal Identity: An Empirical Study,” _Philosophical Psychology_, 23(3), 293–312.
-* Ninan, D., 2009, “Persistence and the First Person Perspective,” _Philosophical Review_, 118(4): 425–464.
-* Noonan, H., 1982, “Williams on “The Self and The Future”,” _Analysis_, 42: 158–63.
-* –––, 1983, “Personal Identity and Bodily Continuity,” _Analysis_, 43: 98–104.
-* –––, 1985, “Wiggins, Artifact Identity and ‘Best Candidate Theories’“,_Analysis_, 45: 4–8.
-* –––, 1985, “The Only X and Y Principle,” _Analysis_, 45: 79–83.
-* –––, 1985, “The Closest Continuer Theory of Identity,” _Inquiry_, 28: 195–230.
-* –––, 1989, _Personal Identity_, London: Routledge.
-* –––, 1998, “Animalism versus Lockeanism: A Current Controversy,” _Philosophical Quarterly_, 48: 302–18.
-* –––, 2001, “The Epistemological Problem of Relativism-Reply to Olsen,” _Philosophical Studies_, 104: 323–36.
-* –––, 2003, _Personal Identity_, London: Routledge.
-* –––, 2010, “The Thinking Animal Problem and Personal Pronoun Revisionism,” _Analysis_, 70(1): 93–98.
-* –––, 2011, “The Complex and Simple Views of Personal Identity,” _Analysis_, 71(1): 72–77.
-* Nozick, R., 1981, _Philosophical Explanations_, Cambridge MA, Belknap Press.
-* Olsen, E., 1994, “Is Psychology Relevant To Personal Identity?,” _Australasian Journal of Philosophy_, 72: 173–86.
-* –––, 1997, _The Human Animal: Personal Identity Without Psychology_, Oxford: Oxford University Press.
-* Olson, Eric T., 2015, “On Parfit's View That We Are Not Human Beings,” _Royal Institute of Philosophy Supplement_, 76: 39–56.
-* Parfit, D., 1971, “Personal Identity,” _Philosophical Review_, 80: 3–27.
-* –––, 1971, “On the importance of Self-Identity,” _Journal of Philosophy_, 68: 6893–690.
-* –––, 1982, “Personal Identity and Rationality,” _Synthese_, 53: 227–241.
-* –––, 1984, _Reasons and Persons_, Oxford: Oxford University Press.
-* –––, 1987, “Divided Minds and the Nature of Persons,” in Blackmore and Greenfield (eds.) _Mindwaves_, Oxford: Blackwell.
-* Penelhum, T., 1971, “The Importance of Self-Identity,” _Journal of Philosophy_, 68: 667–678.
-* Perry, J., 1972, “Can the Self Divide?,” _Journal of Philosophy_, 69: 463–88.
-* –––, 1975, _Personal Identity_, Berkeley: University of California Press.
-* –––, 1978, _A Dialogue on Personal Identity and Immortality_, Indianapolis: Hackett.
-* –––, 1993, “Williams on the Self and Its Future,” in _Introduction to Philosophy_, in J. Perry and M. Bratman (eds.), New York: Oxford University Press.
-* Prior, A.N., 1957b, “Opposite Number,” _Review of Metaphysics_, 11/12: 196–201.
-* Pucetti, R., 1969, _Persons_, New York: Herder and Herder.
-* Robinson, D., 2004 “Failing to Agree or Failing to Disagree?-Personal Identity Quasi-Relativism,” _The Monist_, : 512–536.
-* Rorty, A., 1976, _The Identities of Persons_, Berkeley: University of California Press.
-* Shoemaker, D.W., 2007, “Personal Identity and Practical Concerns,” _Mind_, 116(462): 317–357.
+* Ballie, J., 1990, “Recent Work on Personal Identity,” *Philosophical Books*, 34: 193–206.
+* –––, 1993, *Problems in Personal Identity*, New York: Paragon House Publisher.
+* Bermudez, J., 1998, *The Paradox of Self-Consciousness*, Cambridge: MIT.
+* Brennan, A., 1988, “Best Candidate Theories of Identity,” *Inquiry*, 29: 423–38.
+* –––, 1988, *Conditions of Identity*, Oxford: Oxford University Press.
+* Brueckner, A., 1993, “Parfit on What Matters in Survival,” *Philosophical Studies*, 70: 1–22.
+* –––, 2009, “Endurantism and the Psychological Approach to Personal Identity,” *Theoria*, 75(1): 28–33.
+* Buford, C., 2009, “Memory, Quasi-Memory, and Pseudo-Quasi Memory,” *Australasian Journal of Philosophy*, 87(3): 465–478.
+* Butler J., 1736, “Of Personal Identity,” in *The Analogy of Religion*, New York: Cosimo, 2005.
+* Campbell, J., 2011, “Personal Identity,” *The Oxford Handbook of the Self*, Oxford: Oxford University Press.
+* Cartwright, H.M., 1993, “On Two Arguments for the Indeterminacy of Personal Identity,” *Synthese*, 95: 241–273.
+* Chandler, H., 1969, “Shoemaker's Arguments Against Locke,” *Philosophical Quarterly*, 19: 17–37.
+* Chihara, C., 1994, “The Many Persons Problem,” *Philosophical Studies*, 76: 45–9.
+* Chisholm, R., 1976, *Person and Object*, La Salle: Open Court.
+* Coburn, R., 1960, “Bodily Continuity and Personal Identity,” *Analysis*, 20: 117–120.
+* Cole, D., 1991, “Artificial Intelligence and personal Identity,” *Synthese*, 88: 399–417.
+* Doepke, F., 1996, *The Kinds of Things: A Theory of Personal Identity Based on Transcendental Argument*, Chicago: Open Court Publishing.
+* Ehring, D., 1987, “Personal Identity and Time Travel,” *Philosophical Studies*, 52: 427–33.
+* –––, 1990, “Nonbranching and Nontransitivity,” *Analysis*, 50: 268–71.
+* –––, 1995, “Personal Identity and the *R*-Relation: Reconciliation Through Cohabitation?,” *Australasian Journal of Philosophy*, 73: 337–346.
+* ––\&Ndash;, 2013, “Why Parfit Did Not Go Far Enough,” *Philosophical Studies*, 165(1): 133–149.
+* Eklund, M., 2004, “Personal Identity, Concerns, and Indeterminacy,” *Monist*, 87(4): 489–511.
+* Elliott, R., 1991, “Personal Identity and the Causal Continuity Requirement,” *Philosophical Quarterly*, 41: 55–75.
+* Fuller, G., 1992, “Functionalism and personal Identity,” *Personalist Forum*, 8: 133–143.
+* Garrett, B., 1990, “Personal Identity and Extrinsicness,” *Philosophical Studies*, 59: 177–94.
+* –––, 1998, *Personal Identity and Self-Consciousness*, London: Routledge.
+* Gendler, T.Z., 2002, “Personal Identity and Thought Experiments,” *Philosophical Quarterly*, 52: 34–54.
+* Grice, H.P., 1941, “Personal Identity,” *Mind*, 50: 330–350.
+* Hamilton, A., 1995, “A New Look at Personal Identity,” *Philosophical Quarterly*, 45: 332–349.
+* Hirsch, E., 1991, “Divided Minds,” *Philosophical Review* 100: 3–30.
+* Johnston, M., 1987, “Human Beings,” *Journal of Philosophy*, 84(2): 59–83.
+* –––, 1989, “Relativism and the Self,” in *Relativism, Interpretation and Confrontation*, M. Krausz (ed.), Notre Dame: University of Notre Dame Press.
+* –––, 1992, “Reasons and Reductionism,” *Philosophical Review*, 101: 589–618.
+* Kolak, D., 1993, “The metaphysics and Metapsychology of Personal Identity,” *American philosophical Quarterly*, 30: 39–50.
+* Lewis, D., 1976, “Survival and Identity,” in Amelie Oksenberg Rorty (ed.), *The Identities of Persons*, Berkeley: University of Calfornia Press.
+* Lowe, E. J., 2011, “Personal Identity,” *The Continuum Companion to Philosophy of Mind*, London: Continuum International Publishing Group.
+* Mackenzie, C., 2009, “Personal Identity, Narrative Integration and Embodiment,” in S. Campbell (ed.), *Embodiment and Agency*, University Park: Penn State University Press.
+* Markosian, N., 2010, “Identifying the Problem of Personal Identity,” in J.K. Campbell, M. O'Rourke, and H.S. Silverstein (eds.), *Time and Identity*, Cambridge MA: MIT Press.
+* Merricks, T., 2001, “Realism about Personal Identity over Time,” *Philosophical Perspective* 15 (*Noûs* Supplement, 35): 173–187.
+* Mills, E., 1993, “Dividing Without Reducing: Bodily Fission and Personal Identity,” *Mind*, 102: 35–51.
+* Miri, M., 1973, “Memory and personal Identity,” *Mind*, 82: 1–21.
+* Nagel, T., 1979, “Brain Bisection and the Unity of Consciousness,” in Nagel, T., *Mortal Questions*, Cambridge: Cambridge University Press.
+* Nelson, J., 1972, “Logically Necessary and Sufficient Conditions For Identity Through Time,” *American Philosophical Quarterly*, 9 (2): 177–185.
+* Nichols, S., and Bruno, M., 2010, “Intuitions about Personal Identity: An Empirical Study,” *Philosophical Psychology*, 23(3), 293–312.
+* Ninan, D., 2009, “Persistence and the First Person Perspective,” *Philosophical Review*, 118(4): 425–464.
+* Noonan, H., 1982, “Williams on “The Self and The Future”,” *Analysis*, 42: 158–63.
+* –––, 1983, “Personal Identity and Bodily Continuity,” *Analysis*, 43: 98–104.
+* –––, 1985, “Wiggins, Artifact Identity and ‘Best Candidate Theories’“,*Analysis*, 45: 4–8.
+* –––, 1985, “The Only X and Y Principle,” *Analysis*, 45: 79–83.
+* –––, 1985, “The Closest Continuer Theory of Identity,” *Inquiry*, 28: 195–230.
+* –––, 1989, *Personal Identity*, London: Routledge.
+* –––, 1998, “Animalism versus Lockeanism: A Current Controversy,” *Philosophical Quarterly*, 48: 302–18.
+* –––, 2001, “The Epistemological Problem of Relativism-Reply to Olsen,” *Philosophical Studies*, 104: 323–36.
+* –––, 2003, *Personal Identity*, London: Routledge.
+* –––, 2010, “The Thinking Animal Problem and Personal Pronoun Revisionism,” *Analysis*, 70(1): 93–98.
+* –––, 2011, “The Complex and Simple Views of Personal Identity,” *Analysis*, 71(1): 72–77.
+* Nozick, R., 1981, *Philosophical Explanations*, Cambridge MA, Belknap Press.
+* Olsen, E., 1994, “Is Psychology Relevant To Personal Identity?,” *Australasian Journal of Philosophy*, 72: 173–86.
+* –––, 1997, *The Human Animal: Personal Identity Without Psychology*, Oxford: Oxford University Press.
+* Olson, Eric T., 2015, “On Parfit's View That We Are Not Human Beings,” *Royal Institute of Philosophy Supplement*, 76: 39–56.
+* Parfit, D., 1971, “Personal Identity,” *Philosophical Review*, 80: 3–27.
+* –––, 1971, “On the importance of Self-Identity,” *Journal of Philosophy*, 68: 6893–690.
+* –––, 1982, “Personal Identity and Rationality,” *Synthese*, 53: 227–241.
+* –––, 1984, *Reasons and Persons*, Oxford: Oxford University Press.
+* –––, 1987, “Divided Minds and the Nature of Persons,” in Blackmore and Greenfield (eds.) *Mindwaves*, Oxford: Blackwell.
+* Penelhum, T., 1971, “The Importance of Self-Identity,” *Journal of Philosophy*, 68: 667–678.
+* Perry, J., 1972, “Can the Self Divide?,” *Journal of Philosophy*, 69: 463–88.
+* –––, 1975, *Personal Identity*, Berkeley: University of California Press.
+* –––, 1978, *A Dialogue on Personal Identity and Immortality*, Indianapolis: Hackett.
+* –––, 1993, “Williams on the Self and Its Future,” in *Introduction to Philosophy*, in J. Perry and M. Bratman (eds.), New York: Oxford University Press.
+* Prior, A.N., 1957b, “Opposite Number,” *Review of Metaphysics*, 11/12: 196–201.
+* Pucetti, R., 1969, *Persons*, New York: Herder and Herder.
+* Robinson, D., 2004 “Failing to Agree or Failing to Disagree?-Personal Identity Quasi-Relativism,” *The Monist*, : 512–536.
+* Rorty, A., 1976, *The Identities of Persons*, Berkeley: University of California Press.
+* Shoemaker, D.W., 2007, “Personal Identity and Practical Concerns,” *Mind*, 116(462): 317–357.
 * Shoemaker, S., 1975, Persons and Their Pasts, American Philosophical Quarterly, 7 (4): 269–285.
-* –––, 2008, “Persons, Animals and Identity,” _Synthese_, 162(3): 313–324.
-* –––, 1999, “Self, Body, and Coincidence,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 73: 287–306.
-* Schroer, R., 2013, “Reductionism in Personal Identity and the Phenomenological Sense of Being a Temporally Extended Self,” _American Philosophical Quarterly_, 50(4): 339–356.
-* Sider, T., 2001, “Criteria of Personal Identity and the Limits of Conceptual Analysis,” _Philosophical Perspectives_, 15 (Noûs Supplement), 189–209.
-* Smith, Q., 1993, “Personal Identity and Time,” _Philosophia_ 22: 155–167.
-* Strawson, G., 2015, “‘The Secrets of All Hearts’: Locke on Personal Identity,” _Royal Institute of Philosophy Supplement_, 76: 111–141.
-* Unger, P., 1990, _Identity, Consciousness and Value_, Oxford: Oxford University Press.
-* White, S.L., 1991, _The Unity of the Self_, Cambridge, MA: MIT.
-* Williams, B., 1976, _Problems of the Self_, Cambridge: Cambridge University Press.
-* –––, 1975, “The Self and the Future,” in Perry, J. (ed.) _Personal Identity_, Berkeley: University of California Press, 179–198.
-* Wilkes, K., 1988, _Real People: Personal Identity Without Thought Experiments_, Oxford: Oxford University Press.
-* Vesey, G., 1977, _Personal Identity a Philosophical Analysis_, Ithaca: Cornell University Press.
+* –––, 2008, “Persons, Animals and Identity,” *Synthese*, 162(3): 313–324.
+* –––, 1999, “Self, Body, and Coincidence,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 73: 287–306.
+* Schroer, R., 2013, “Reductionism in Personal Identity and the Phenomenological Sense of Being a Temporally Extended Self,” *American Philosophical Quarterly*, 50(4): 339–356.
+* Sider, T., 2001, “Criteria of Personal Identity and the Limits of Conceptual Analysis,” *Philosophical Perspectives*, 15 (Noûs Supplement), 189–209.
+* Smith, Q., 1993, “Personal Identity and Time,” *Philosophia* 22: 155–167.
+* Strawson, G., 2015, “‘The Secrets of All Hearts’: Locke on Personal Identity,” *Royal Institute of Philosophy Supplement*, 76: 111–141.
+* Unger, P., 1990, *Identity, Consciousness and Value*, Oxford: Oxford University Press.
+* White, S.L., 1991, *The Unity of the Self*, Cambridge, MA: MIT.
+* Williams, B., 1976, *Problems of the Self*, Cambridge: Cambridge University Press.
+* –––, 1975, “The Self and the Future,” in Perry, J. (ed.) *Personal Identity*, Berkeley: University of California Press, 179–198.
+* Wilkes, K., 1988, *Real People: Personal Identity Without Thought Experiments*, Oxford: Oxford University Press.
+* Vesey, G., 1977, *Personal Identity a Philosophical Analysis*, Ithaca: Cornell University Press.
 
 ## Academic Tools
 

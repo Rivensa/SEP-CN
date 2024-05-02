@@ -1,9 +1,8 @@
 # 直陈条件 conditionals (Dorothy Edgington)
 
-_首次发表于 2001 年 8 月 8 日星期三；实质性修订于 2020 年 8 月 29 日星期六_
+*首次发表于 2001 年 8 月 8 日星期三；实质性修订于 2020 年 8 月 29 日星期六*
 
 取一个直陈条件句，适合用于陈述：“我们会在十点前回家”，“汤姆做了晚餐”。在其后加上一个条件从句，你就得到了一个带有条件的陈述句：“如果火车准点的话，我们会在十点前回家”，“如果玛丽没有做晚餐，汤姆做了它”。一个条件句“如果 A，C”或“如果 A，C”因此包含两个句子或类似句子的子句。A 被称为前提，C 被称为结论。如果你理解 A 和 C，并且掌握了条件句的结构（就像我们在幼年时期所做的那样），你就理解了“如果 A，C”。 “如果”是什么意思？查阅词典得到的是“在条件下；假设；假如”。这些是足够的同义词。但我们想要的不仅仅是同义词。条件句的理论旨在解释条件性判断何时是可以接受的，涉及条件句的推理何时是良好的推理，以及为什么这种语言结构如此重要。尽管有许多极具创造性的密集工作，这仍然是一个极具争议性的主题。
-
 
 ***
 
@@ -169,7 +168,7 @@ Hook 和假设理论家（称她为 Supp）在 p(∼A)很高且 p(A\&B)远小于
 
 Supp 已经解决了这个难题：她对两个问题都给出了直觉上正确的答案。在这一点上，她与 Hook 和 Arrow 都不同。Supp 评估条件句的方式与真功能方式不兼容（它们对问题 2 的回答不同）；也与强于真功能真值条件不兼容（它们对问题 1 的回答不同）。由此可见，Supp 评估条件句的方式与条件句具有任何真值条件的主张不兼容。pA(B)不衡量任何命题真值的概率。假设它衡量了某个命题 A∗B 的真值概率。要么 A∗B 由“A⊃B”蕴涵，要么不是。如果是，那么当∼A 为真时它也为真，因此当∼A 为可能时它不可能是不可能的。也就是说，它不能在回答问题 2 时与 Supp 达成一致。如果 A∗B 不是由“A⊃B”蕴涵，那么当∼(A&∼B)为真时它可能为假，因此对∼(A&∼B)的确定性（在没有对∼A 的确定性的情况下）不足以确保 A∗B 的确定性；它不能在回答问题 1 时与 Supp 达成一致。
 
-为了以稍微不同的方式表达观点，让我采用以下作为一种阐释性、启发性的设备，一个无害的虚构。想象一个分割，被划分为大量有限数量的等可能块，使得我们关心的命题在其中的确切数量为真。任何命题的概率是它为真的块的比例。在假设 A 的情况下，B 的概率是 A _-块_（A 为真的块）中为 B 块的比例。我有些犹豫，但我屈服于称这些块为“世界”的诱惑：它们是等可能的、相互排斥且共同构成的认知可能性，足够让我们关心的命题在每个世界中为真或为假。启发性在于，概率和条件概率的判断随后转化为关于比例的陈述。
+为了以稍微不同的方式表达观点，让我采用以下作为一种阐释性、启发性的设备，一个无害的虚构。想象一个分割，被划分为大量有限数量的等可能块，使得我们关心的命题在其中的确切数量为真。任何命题的概率是它为真的块的比例。在假设 A 的情况下，B 的概率是 A *-块*（A 为真的块）中为 B 块的比例。我有些犹豫，但我屈服于称这些块为“世界”的诱惑：它们是等可能的、相互排斥且共同构成的认知可能性，足够让我们关心的命题在每个世界中为真或为假。启发性在于，概率和条件概率的判断随后转化为关于比例的陈述。
 
 尽管 Supp 和 Hook 对问题 1 给出了相同的答案，但他们的理由是不同的。Supp 的答案是“是”，并不是因为命题 A∗B 在 A&∼B 为假时为真；而是因为在评估“If A,B”时重要的“世界”中 B 为真：即 A-世界。尽管 Supp 和 Arrow 对问题 2 给出了相同的答案，但他们的理由是不同的。Supp 的答案是“是”，并不是因为命题 A∗B 在 A 为假时可能为假；而是因为大多数世界是∼A-世界与大多数 A _-世界_是 B-世界无关。事实证明，判断在 A 为真的假设下 B 为真，并不意味着判断某种 A∗B 为真。
 
@@ -482,85 +481,85 @@ Hook 将回复关于条件命令的上述论点，我们需要诉诸语用学。
 
 ### General Overviews
 
-* Bennett, Jonathan, 2003. _A Philosophical Guide to Conditionals_, Oxford: Clarendon Press.
-* Edgington, Dorothy, 1995. “On Conditionals”, _Mind_, 104: 235–329.
-* Evans, Jonathan and Over, David, 2004. _If_, Oxford: Oxford University Press. (This is a work in cognitive psychology.)
-* Gillies, Anthony S., 2012. “Indicative Conditionals”, in Delia Graff Fara and Gillian Russell (eds.) _Routledge Companion to the Philosophy of Language_, New York and London: Routledge, pp. 449–65.
-* Harper, W. L., Stalnaker, R., and Pearce, C. T. (eds.), 1981. _Ifs_, Dordrecht: Reidel.
-* Jackson, Frank (ed.), 1991. _Conditionals_, Oxford: Clarendon Press.
-* Sanford, David, 2003. _If P, then Q: Conditionals and the Foundations of Reasoning_, London: Routledge.
-* Woods, Michael, 1997. _Conditionals_, Oxford: Clarendon Press.
+* Bennett, Jonathan, 2003. *A Philosophical Guide to Conditionals*, Oxford: Clarendon Press.
+* Edgington, Dorothy, 1995. “On Conditionals”, *Mind*, 104: 235–329.
+* Evans, Jonathan and Over, David, 2004. *If*, Oxford: Oxford University Press. (This is a work in cognitive psychology.)
+* Gillies, Anthony S., 2012. “Indicative Conditionals”, in Delia Graff Fara and Gillian Russell (eds.) *Routledge Companion to the Philosophy of Language*, New York and London: Routledge, pp. 449–65.
+* Harper, W. L., Stalnaker, R., and Pearce, C. T. (eds.), 1981. *Ifs*, Dordrecht: Reidel.
+* Jackson, Frank (ed.), 1991. *Conditionals*, Oxford: Clarendon Press.
+* Sanford, David, 2003. *If P, then Q: Conditionals and the Foundations of Reasoning*, London: Routledge.
+* Woods, Michael, 1997. *Conditionals*, Oxford: Clarendon Press.
 
 ### Other Cited Works
 
-* Adams, E. W., 1965. “A Logic of Conditionals”, _Inquiry_, 8: 166–97.
-* –––, 1966. “Probability and the Logic of Conditionals”, in J. Hintikka and P. Suppes (eds.), _Aspects of Inductive Logic_, Amsterdam: North Holland, pp. 256–316.
-* –––, 1970. “Subjunctive and Indicative Conditionals”, _Foundations of Language_, 6: 89–94.
-* –––, 1975. _The Logic of Conditionals_, Dordrecht: Reidel.
-* –––, 1998. _A Primer of Probability Logic_, Stanford: CSLI Publications.
-* Appiah, A., 1985. _Assertion and Conditionals_, Cambridge: Cambridge University Press.
-* Barnett, David, 2006. “Zif is If”, _Mind_, 115 (459): 519–66.
-* Bacon, Andrew, 2018. _Vagueness and Thought_. Oxford: Oxford University Press.
-* Bayes, Thomas, 1763. “An Essay Towards Solving a Problem in the Doctrine of Chances”, _Transactions of the Royal Society of London_, 53: 370–418.
-* Belnap, Nuel, 1970. “Conditional Assertion and Restricted Quantification”, _Noûs_, 4: 1–13.
-* Bennett, Jonathan, 1988. “Farewell to the Phlogiston Theory of Conditionals”, _Mind_, 97: 509–27.
-* –––, 1995. “Classifying Conditionals: the Traditional Way is Right”, _Mind_, 104: 331–44.
-* Bradley, Richard, 2012. “Multidimensional Possible-World Semantics for Conditionals”, _Philosophical Review_, 122(4): 539–71.
-* de Finetti, Bruno, 1936. “La logique de la probabilité”, translated as “The Logic of Probability”, _Philosophical Studies_, 77 (1995): 181–190.
-* Charlow, Nate, 2019. “The Spectre of Triviality”. _Analysis_, 79: 595–605.
-* Dudman, V. H., 1984. “Parsing ”If“-sentences”, _Analysis_, 44: 145–53.
-* –––, 1988. “Indicative and Subjunctive”, _Analysis_, 48: 113–22.
-* Edgington, Dorothy, 1991. “The Mystery of the Missing Matter of Fact”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 65: 185–209.
-* –––, 2009. “Conditionals, Truth and Assertion” in Ian Ravenscroft (ed.), _op. cit._, pp. 283–310.
-* Frege, G., 1879. _Begriffsschrift_, in Geach, Peter and Black, Max, 1960. _Translations from the Philosophical Writings of Gottlob Frege_, Oxford: Basil Blackwell, pp. 1–20.
-* Gärdenfors, Peter, 1986. “Belief Revisions and the Ramsey Test for Conditionals”, _Philosophical Review_, 95: 81–93.
-* –––, 1988. _Knowledge in Flux_, Cambridge MA. MIT Press.
+* Adams, E. W., 1965. “A Logic of Conditionals”, *Inquiry*, 8: 166–97.
+* –––, 1966. “Probability and the Logic of Conditionals”, in J. Hintikka and P. Suppes (eds.), *Aspects of Inductive Logic*, Amsterdam: North Holland, pp. 256–316.
+* –––, 1970. “Subjunctive and Indicative Conditionals”, *Foundations of Language*, 6: 89–94.
+* –––, 1975. *The Logic of Conditionals*, Dordrecht: Reidel.
+* –––, 1998. *A Primer of Probability Logic*, Stanford: CSLI Publications.
+* Appiah, A., 1985. *Assertion and Conditionals*, Cambridge: Cambridge University Press.
+* Barnett, David, 2006. “Zif is If”, *Mind*, 115 (459): 519–66.
+* Bacon, Andrew, 2018. *Vagueness and Thought*. Oxford: Oxford University Press.
+* Bayes, Thomas, 1763. “An Essay Towards Solving a Problem in the Doctrine of Chances”, *Transactions of the Royal Society of London*, 53: 370–418.
+* Belnap, Nuel, 1970. “Conditional Assertion and Restricted Quantification”, *Noûs*, 4: 1–13.
+* Bennett, Jonathan, 1988. “Farewell to the Phlogiston Theory of Conditionals”, *Mind*, 97: 509–27.
+* –––, 1995. “Classifying Conditionals: the Traditional Way is Right”, *Mind*, 104: 331–44.
+* Bradley, Richard, 2012. “Multidimensional Possible-World Semantics for Conditionals”, *Philosophical Review*, 122(4): 539–71.
+* de Finetti, Bruno, 1936. “La logique de la probabilité”, translated as “The Logic of Probability”, *Philosophical Studies*, 77 (1995): 181–190.
+* Charlow, Nate, 2019. “The Spectre of Triviality”. *Analysis*, 79: 595–605.
+* Dudman, V. H., 1984. “Parsing ”If“-sentences”, *Analysis*, 44: 145–53.
+* –––, 1988. “Indicative and Subjunctive”, *Analysis*, 48: 113–22.
+* Edgington, Dorothy, 1991. “The Mystery of the Missing Matter of Fact”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 65: 185–209.
+* –––, 2009. “Conditionals, Truth and Assertion” in Ian Ravenscroft (ed.), *op. cit.*, pp. 283–310.
+* Frege, G., 1879. *Begriffsschrift*, in Geach, Peter and Black, Max, 1960. *Translations from the Philosophical Writings of Gottlob Frege*, Oxford: Basil Blackwell, pp. 1–20.
+* Gärdenfors, Peter, 1986. “Belief Revisions and the Ramsey Test for Conditionals”, *Philosophical Review*, 95: 81–93.
+* –––, 1988. *Knowledge in Flux*, Cambridge MA. MIT Press.
 * Gibbard, A., 1981. “Two Recent Theories of Conditionals” in Harper, Stalnaker and Pearce (eds.) 1981, pp. 211–247.
-* –––, 1990. _Wise Choices, Apt Feelings_. Oxford: Clarendon Press.
-* Gillies, Anthony S., 2009. “On Truth-Conditions for If (But Not Quite Only If)”, _Philosophical Review_, 118(3): 325–49.
-* Grice, H. P., 1989. _Studies in the Way of Words_, Cambridge MA: Harvard University Press.
-* Jackson, Frank, 1979. “On Assertion and Indicative Conditionals”, _Philosophical Review_, 88: 565–589.
-* –––, 1981. “Conditionals and Possibilia”, _Proceedings of the Aristotelian Society_, 81: 125–137.
-* –––, 1987. _Conditionals_, Oxford: Basil Blackwell.
-* –––, 1990. “Classifying Conditionals I”, _Analysis_, 50: 134–47, reprinted in Jackson 1998.
-* –––, 1998. _Mind, Method and Conditionals_, London: Routledge.
-* –––, “Replies to my Critics” in Ian Ravenscroft (ed.), _op. cit._, pp. 387–474.
-* Jeffrey, Richard, 1991. “Matter of Fact Conditionals”, _Proceedings of the Aristotelian Society Supplementary Volume_ 65: 161–183.
-* Khoo, Justin and Matthew Mandelkern, 2019. “Triviality Results and the Relationship between Logical and Natural Languages”, _Mind_ 128: 485–526.
-* Kratzer, Angelica, 1986. “Conditionals”, In A. M. Farley, P. Farley, and K. E. McCollough (eds.), _Papers from the Parasession on Pragmatics and Grammatical Theory_, Chicago: Chicago Linguistics Society, pp. 115–35.
-* –––, 2012. _Modals and Conditionals_, Oxford: Oxford University Press.
-* Lance, Mark, 1991. “Probabilistic Dependence among Conditionals”, _Philosophical Review_, 100: 269–76.
-* Lewis, David, 1973. _Counterfactuals_, Oxford: Basil Blackwell.
-* –––, 1975. “Adverbs of Quantification” in E. Keenan (ed.), _Semantics of Natural Language_, Cambridge: Cambridge University Press, pp. 3–15; reprinted in David Lewis (1998), _Papers in Philosophical Logic_, Cambridge: Cambridge University Press, pp. 5–20.
-* –––, 1976. “Probabilities of Conditionals and Conditional Probabilities”, _Philosophical Review_, 85: 297–315; reprinted, with postscript, in Lewis 1986, pp. 133–151 (page references in the text are to the reprint).
-* –––, 1979, “Attitudes _De Dicto_ and _De Se_”, _Philosophical Review_ 88: 513–43.
-* –––, 1986. _Philosophical Papers_ (Volume II), Oxford: Oxford University Press.
-* Lycan, William, 2001. _Real Conditionals_, Oxford: Oxford University Press.
-* Mackie, J., 1973. _Truth, Probability and Paradox_, Oxford: Clarendon Press.
-* McDermott, Michael, 1996. “On the Truth Conditions of Certain ‘If’-Sentences”, _Philosophical Review_, 105: 1–37.
-* McGee, Vann, 1985. “A Counterexample to Modus Ponens”, _Journal of Philosophy_, 82: 462–71.
-* –––, 1989. “Conditional Probabilities and Compounds of Conditionals”, _Philosophical Review_, 98: 485–542.
-* Milne, Peter, 1997. “Bruno de Finetti and the Logic of Conditional Events”, _British Journal for the Philosophy of Science_, 48: 195–232.
-* Moss, Sarah, 2018. _Probabilistic Knowledge_. Oxford: Clarendon Press.
+* –––, 1990. *Wise Choices, Apt Feelings*. Oxford: Clarendon Press.
+* Gillies, Anthony S., 2009. “On Truth-Conditions for If (But Not Quite Only If)”, *Philosophical Review*, 118(3): 325–49.
+* Grice, H. P., 1989. *Studies in the Way of Words*, Cambridge MA: Harvard University Press.
+* Jackson, Frank, 1979. “On Assertion and Indicative Conditionals”, *Philosophical Review*, 88: 565–589.
+* –––, 1981. “Conditionals and Possibilia”, *Proceedings of the Aristotelian Society*, 81: 125–137.
+* –––, 1987. *Conditionals*, Oxford: Basil Blackwell.
+* –––, 1990. “Classifying Conditionals I”, *Analysis*, 50: 134–47, reprinted in Jackson 1998.
+* –––, 1998. *Mind, Method and Conditionals*, London: Routledge.
+* –––, “Replies to my Critics” in Ian Ravenscroft (ed.), *op. cit.*, pp. 387–474.
+* Jeffrey, Richard, 1991. “Matter of Fact Conditionals”, *Proceedings of the Aristotelian Society Supplementary Volume* 65: 161–183.
+* Khoo, Justin and Matthew Mandelkern, 2019. “Triviality Results and the Relationship between Logical and Natural Languages”, *Mind* 128: 485–526.
+* Kratzer, Angelica, 1986. “Conditionals”, In A. M. Farley, P. Farley, and K. E. McCollough (eds.), *Papers from the Parasession on Pragmatics and Grammatical Theory*, Chicago: Chicago Linguistics Society, pp. 115–35.
+* –––, 2012. *Modals and Conditionals*, Oxford: Oxford University Press.
+* Lance, Mark, 1991. “Probabilistic Dependence among Conditionals”, *Philosophical Review*, 100: 269–76.
+* Lewis, David, 1973. *Counterfactuals*, Oxford: Basil Blackwell.
+* –––, 1975. “Adverbs of Quantification” in E. Keenan (ed.), *Semantics of Natural Language*, Cambridge: Cambridge University Press, pp. 3–15; reprinted in David Lewis (1998), *Papers in Philosophical Logic*, Cambridge: Cambridge University Press, pp. 5–20.
+* –––, 1976. “Probabilities of Conditionals and Conditional Probabilities”, *Philosophical Review*, 85: 297–315; reprinted, with postscript, in Lewis 1986, pp. 133–151 (page references in the text are to the reprint).
+* –––, 1979, “Attitudes *De Dicto* and *De Se*”, *Philosophical Review* 88: 513–43.
+* –––, 1986. *Philosophical Papers* (Volume II), Oxford: Oxford University Press.
+* Lycan, William, 2001. *Real Conditionals*, Oxford: Oxford University Press.
+* Mackie, J., 1973. *Truth, Probability and Paradox*, Oxford: Clarendon Press.
+* McDermott, Michael, 1996. “On the Truth Conditions of Certain ‘If’-Sentences”, *Philosophical Review*, 105: 1–37.
+* McGee, Vann, 1985. “A Counterexample to Modus Ponens”, *Journal of Philosophy*, 82: 462–71.
+* –––, 1989. “Conditional Probabilities and Compounds of Conditionals”, *Philosophical Review*, 98: 485–542.
+* Milne, Peter, 1997. “Bruno de Finetti and the Logic of Conditional Events”, *British Journal for the Philosophy of Science*, 48: 195–232.
+* Moss, Sarah, 2018. *Probabilistic Knowledge*. Oxford: Clarendon Press.
 * Ramsey, F. P., 1926. “Truth and Probability” in Ramsey 1990, pp. 52–94.
 * –––, 1929. “General Propositions and Causality” in Ramsey 1990, pp. 145–63.
-* –––, 1990. _Philosophical Papers_, ed. by D. H. Mellor. Cambridge University Press.
-* Ravenscroft, Ian (ed.), 2009, _Mind, Ethics and Conditionals: Themes from the Philosophy of Frank Jackson_, Oxford: Clarendon Press.
-* Read, Stephen, 1995. “Conditionals and the Ramsey Test”, _Proceedings of the Aristotelian Society Supplementary Volume_, 69: 47–65.
-* Rothschild, Daniel, 2013. “Do Indicative Conditionals Express Propositions”, _Noûs_ 47: 49–68.
-* –––, 2015. “Conditionals and Propositions in Semantics”, _Journal of Philosophical Logic_, 44: 781–91.
-* Sanfilippo, G., Gilio, A., Over, D.E. and Pfeifer, N., 2020. “Probabilities of Conditionals and Previsions of Iterated Conditionals”, _International Journal of Approximate Reasoning_, 121: 150–73.
-* Stalnaker, R., 1968. “A Theory of Conditionals”, in N. Rescher (ed.), _Studies in Logical Theory_ (American Philosophical Quarterly Monograph Series 2), Oxford: Blackwell, pp. 98–112; reprinted in F. Jackson (ed.) 1991, 28–45. (page references in the text are to the reprint).
-* –––, 1970. “Probability and Conditionals”, _Philosophy of Science_, 37: 64–80. Reprinted in Harper, W. L., Stalnaker, R. and Pearce, G. eds. 1981.
-* –––, 1975. “Indicative Conditionals”, _Philosophia_, 5: 269–86, reprinted in F. Jackson (ed.), 1991.
-* –––, 1984. _Inquiry_, Cambridge MA: MIT Press.
-* –––, 1981. “A Defense of Conditional Excluded Middle” in Harper, Stalnaker and Pearce (eds.) _op. cit._, pp. 87–104.
-* –––, 2005. ‘Conditional Propositions and Conditional Assertions’, in _New Work on Modality_, MIT Working Papers in Linguistics and Philosophy, Volume 51.
-* –––, 2019. _Knowledge and Conditionals_, Oxford: Oxford University Press.
-* Stalnaker, R. and Jeffrey, R., 1994. “Conditionals as Random Variables”, in E. Eells and B. Skyrms (eds.), _Probability and Conditionals_, Cambridge: Cambridge University Press.
-* Thomson, James, 1990. “In Defense of ⊃”, _Journal of Philosophy_, 87: 56–70.
-* van Fraassen, Bas, 1976. “Probabilities of Conditionals”, in Harper, W. and Hooker, C. eds., _Foundations of Probability theory, Statistical Inference, and Statistical Theories of Science_, Volume I. Dordrecht: Reidel, pp. 261–308.
-* Williamson, Timothy, 2020. _Suppose and Tell: The Semantics and Heuristics of Conditionals_. Oxford: Oxford University Press.
+* –––, 1990. *Philosophical Papers*, ed. by D. H. Mellor. Cambridge University Press.
+* Ravenscroft, Ian (ed.), 2009, *Mind, Ethics and Conditionals: Themes from the Philosophy of Frank Jackson*, Oxford: Clarendon Press.
+* Read, Stephen, 1995. “Conditionals and the Ramsey Test”, *Proceedings of the Aristotelian Society Supplementary Volume*, 69: 47–65.
+* Rothschild, Daniel, 2013. “Do Indicative Conditionals Express Propositions”, *Noûs* 47: 49–68.
+* –––, 2015. “Conditionals and Propositions in Semantics”, *Journal of Philosophical Logic*, 44: 781–91.
+* Sanfilippo, G., Gilio, A., Over, D.E. and Pfeifer, N., 2020. “Probabilities of Conditionals and Previsions of Iterated Conditionals”, *International Journal of Approximate Reasoning*, 121: 150–73.
+* Stalnaker, R., 1968. “A Theory of Conditionals”, in N. Rescher (ed.), *Studies in Logical Theory* (American Philosophical Quarterly Monograph Series 2), Oxford: Blackwell, pp. 98–112; reprinted in F. Jackson (ed.) 1991, 28–45. (page references in the text are to the reprint).
+* –––, 1970. “Probability and Conditionals”, *Philosophy of Science*, 37: 64–80. Reprinted in Harper, W. L., Stalnaker, R. and Pearce, G. eds. 1981.
+* –––, 1975. “Indicative Conditionals”, *Philosophia*, 5: 269–86, reprinted in F. Jackson (ed.), 1991.
+* –––, 1984. *Inquiry*, Cambridge MA: MIT Press.
+* –––, 1981. “A Defense of Conditional Excluded Middle” in Harper, Stalnaker and Pearce (eds.) *op. cit.*, pp. 87–104.
+* –––, 2005. ‘Conditional Propositions and Conditional Assertions’, in *New Work on Modality*, MIT Working Papers in Linguistics and Philosophy, Volume 51.
+* –––, 2019. *Knowledge and Conditionals*, Oxford: Oxford University Press.
+* Stalnaker, R. and Jeffrey, R., 1994. “Conditionals as Random Variables”, in E. Eells and B. Skyrms (eds.), *Probability and Conditionals*, Cambridge: Cambridge University Press.
+* Thomson, James, 1990. “In Defense of ⊃”, *Journal of Philosophy*, 87: 56–70.
+* van Fraassen, Bas, 1976. “Probabilities of Conditionals”, in Harper, W. and Hooker, C. eds., *Foundations of Probability theory, Statistical Inference, and Statistical Theories of Science*, Volume I. Dordrecht: Reidel, pp. 261–308.
+* Williamson, Timothy, 2020. *Suppose and Tell: The Semantics and Heuristics of Conditionals*. Oxford: Oxford University Press.
 
 ## Academic Tools
 
@@ -579,4 +578,4 @@ Hook 将回复关于条件命令的上述论点，我们需要诉诸语用学。
 [conditionals: counterfactual](https://plato.stanford.edu/entries/counterfactuals/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: conditionals](https://plato.stanford.edu/entries/logic-conditionals/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [Ramsey, Frank](https://plato.stanford.edu/entries/ramsey/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Dorothy Edgington <[_d.edgington@bbk.ac.uk_](mailto:d%2eedgington%40bbk%2eac%2euk)>
+Dorothy Edgington <[*d.edgington@bbk.ac.uk*](mailto:d%2eedgington%40bbk%2eac%2euk)>

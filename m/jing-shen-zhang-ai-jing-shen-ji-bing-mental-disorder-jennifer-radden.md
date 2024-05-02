@@ -1,12 +1,11 @@
 # 精神障碍（精神疾病）mental disorder (Jennifer Radden)
 
-_首次发表于2019年2月20日星期三；实质修订于2023年5月7日星期日。_
+*首次发表于2019年2月20日星期三；实质修订于2023年5月7日星期日。*
 
 精神障碍（早期称为“疾病”或“残疾”），被归因于思维、推理、情感、态度和行为与正常状态偏离，被其主体或他人认为在社会或个人上具有功能障碍并适合治疗。精神分裂症、抑郁症、强迫症、物质滥用和躁狂症是其中的例子。精神障碍的概念在许多领域起着作用，包括医学、心理学和人类学等社会科学，以及文学和哲学等人文学科。哲学讨论是本文的主要焦点，与精神病学哲学的条目不同，本文还注意到了几种不同的方法，不仅包括科学和心灵哲学的方法，还包括现象学和社会理论传统的方法。
 
 作为一个范畴，精神障碍在当代精神病学中并不适合其所扮演的角色，因为它经常被误解和各种解释。尽管被广泛认为是一种障碍形式，但上述列出的疾病/残疾并不总是被理解为如此（Porter 2002）。而且，即使被认为是一种障碍，这种状态通常也意味着伦理上的不足，而不仅仅是其他方面的不足（Irwin 2013）。这些提醒使我们注意到当代医学精神病学有时是毫不妥协的神经生物学和公然无价值观的“医学模型”，以及它所带来的类比和假设，以及精神病学分类的分类法如何被视为自然科学的对象的一般问题。这个模型已经接受了深入和持续的哲学分析和批评，包括那些否认这些疾病/残疾根本就是不足的人。除此之外，还有来自认知心理学和神经科学的问题，这些基础问题构成了以下条目的大部分内容。由于它们关注的是与心灵哲学和伦理学中的核心思想有关的问题，如心灵与身体的关系、责任、行动和身份，对精神障碍的分析对这些领域有广泛的影响。作为临床现象，它们还反映了一个不可避免的、日常的、社会的现实，使理论探讨具有迫切的实际、道德和法律意义。
 
- 
 ***
 
 ## 1. 术语
@@ -89,7 +88,7 @@ ICD-11 中的一段非常相似的内容也有类似的限定：
 
 有人预测，生物标记最终将使我们能够区分是抑郁症的症状还是对外部偶然因素的正常反应（Horwitz & Wakefield 2007）。这样的生物标记可能会受到那些对过度诊断表示不满的人的欢迎，尽管对于这些生物标记在健康和不健康形式中是否出现以及何时出现需要进行评估性解释。
 
-Some argue that the subjective experience of distress and the extent of impairment of the person’s day-to-day functioning are intrinsic properties of disorders like depression: conceptually, disorder attributions are made on the basis of “consequences of the syndrome as they manifest for the subject” (Rashed & Bingham 2014: 245). Psychological symptoms may _constitute_ a mental disorder, even as it is caused by biological or social factors. In the absence of known biomarkers, depression is attributed based on psychological symptoms alone; and were known biomarkers present without evidence of any psychological symptoms, our intuitions suggest, disorder attribution would be withheld. These intuitions may shift with time, it is recognized, depending on how most people and most psychiatrists _now_ understand, define, diagnose, and treat, depression. But today at least, disorder would be attributed on the basis of the symptoms of depression with or without biomarkers. (See Cooper 2020).
+Some argue that the subjective experience of distress and the extent of impairment of the person’s day-to-day functioning are intrinsic properties of disorders like depression: conceptually, disorder attributions are made on the basis of “consequences of the syndrome as they manifest for the subject” (Rashed & Bingham 2014: 245). Psychological symptoms may *constitute* a mental disorder, even as it is caused by biological or social factors. In the absence of known biomarkers, depression is attributed based on psychological symptoms alone; and were known biomarkers present without evidence of any psychological symptoms, our intuitions suggest, disorder attribution would be withheld. These intuitions may shift with time, it is recognized, depending on how most people and most psychiatrists *now* understand, define, diagnose, and treat, depression. But today at least, disorder would be attributed on the basis of the symptoms of depression with or without biomarkers. (See Cooper 2020).
 
 Analyses characterizing felt distress as a property constitutive of some given psychiatric condition (such as depression), are also compatible with recent models focused on the causally interconnected statistical networks making up symptom clusters. These clusters are depicted as reinforced through feedback loops that serve to rope together assorted symptoms independent of any underlying, antecedent, common, cause. In the case of depression, a range of symptoms arise from diverse sources and, through their looping interactions, form, worsen, and maintain the disorder as a relatively stable entity and conceptual whole (Kendler, Zachar, & Craver 2011; Borsboom & Cramer 2013; Borsboom 2017).
 
@@ -247,272 +246,272 @@ DSM 和 ICD 的诊断分类在全球范围内具有显著的影响力：如今�
 
 ## Bibliography
 
-* Adams, M.P., 2013, “Explaining the Theory of Mind Deficit in Autism Spectrum Disorder”, _Philosophical Studies_, 163: 233–249. doi:10.1007/s11098-011-9809-z
-* Adshead, Gwen, 2008, “Psychopaths and Moral Identity”, _Philosophy, Psychiatry, & Psychology_, 20(4): 339–343. doi:10.1353/ppp.2013.0056
-* Aftab, Awais and Rashed, M.A., 2021, “Mental Disorder and Social Deviance”, _International Review of Psychiatry_, 33 (5): 478–485. doi:10.1080/09540261.2020.1815666
-* Allen, C., 2017, “On (not) defining cognition”, _Synthese_ 194(11): 4233–4249. doi:10.1007/s11229-017-1454-4
-* Amundson, Ron and Shari Tresky, 2007, “On a Bioethical Challenge to Disability Rights”, _Journal of Medicine and Philosophy_, 32(6): 541–561. doi:10.1080/03605310701680924
-* \[APA] American Psychiatric Association, 2013, _Diagnostic and Statistical Manual of Mental Disorders_, fifth edition, Washington DC: Psychiatric Press.
-* Baron-Cohen, Simon, Michael Lombardo, and Helen Tager-Flusberg (eds.), 2013, _Understanding Other Minds: Perspectives from Developmental Social Neuroscience_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199692972.001.0001
-* Berrios, German E., 1991, “Delusions as ‘Wrong Beliefs’: A Conceptual History”, _British Journal of Psychiatry_, 159(S14): 6–13. doi:10.1192/S0007125000296414
-* Bentall, Richard P., 2004, _Madness Explained: Psychosis and Human Nature_, London: Penguin.
-* Biegler, Paul, 2011, _The Ethical Treatment of Depression: Autonomy through Psychotherapy_ (Philosophical Psychopathology: Disorders of the Mind), Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262015493.001.0001
-* Bluhm, Robyn, 2011, “Gender Differences in Depression: Explanations from Feminist Ethics”, _IJFAB: International Journal of Feminist Approaches to Bioethics_, special issue: _Feminist Perspectives on Ethics in Psychiatry_, 4(1): 69–88. doi:10.3138/ijfab.4.1.69
-* Bluhm, Robyn, Anne Jaap Jacobson, and Heidi Lene Maibom (eds.), 2012, _Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science_, London: Palgrave Macmillan UK. doi:10.1057/9780230368385
-* Bolton, Derek, 2008, _What Is Mental Disorder?: An Essay in Philosophy, Science, and Values_, Oxford: Oxford University Press. doi:10.1093/med/9780198565925.001.0001
-* –––, 2010, “Conceptualisation of Mental Disorder and Its Personal Meanings”, _Journal of Mental Health_, 19(4): 328–336. doi:10.3109/09638237.2010.492483
-* –––, 2012, “Classification and Causal Mechanisms: A Deflationary Approach to the Classification Problem”, in _Philosophical Issues in Psychiatry II: Nosology_, Kenneth S. Kendler and Josef Parnas (eds.), Oxford: Oxford University Press, 6–11. doi:10.1093/med/9780199642205.003.0002
+* Adams, M.P., 2013, “Explaining the Theory of Mind Deficit in Autism Spectrum Disorder”, *Philosophical Studies*, 163: 233–249. doi:10.1007/s11098-011-9809-z
+* Adshead, Gwen, 2008, “Psychopaths and Moral Identity”, *Philosophy, Psychiatry, & Psychology*, 20(4): 339–343. doi:10.1353/ppp.2013.0056
+* Aftab, Awais and Rashed, M.A., 2021, “Mental Disorder and Social Deviance”, *International Review of Psychiatry*, 33 (5): 478–485. doi:10.1080/09540261.2020.1815666
+* Allen, C., 2017, “On (not) defining cognition”, *Synthese* 194(11): 4233–4249. doi:10.1007/s11229-017-1454-4
+* Amundson, Ron and Shari Tresky, 2007, “On a Bioethical Challenge to Disability Rights”, *Journal of Medicine and Philosophy*, 32(6): 541–561. doi:10.1080/03605310701680924
+* \[APA] American Psychiatric Association, 2013, *Diagnostic and Statistical Manual of Mental Disorders*, fifth edition, Washington DC: Psychiatric Press.
+* Baron-Cohen, Simon, Michael Lombardo, and Helen Tager-Flusberg (eds.), 2013, *Understanding Other Minds: Perspectives from Developmental Social Neuroscience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199692972.001.0001
+* Berrios, German E., 1991, “Delusions as ‘Wrong Beliefs’: A Conceptual History”, *British Journal of Psychiatry*, 159(S14): 6–13. doi:10.1192/S0007125000296414
+* Bentall, Richard P., 2004, *Madness Explained: Psychosis and Human Nature*, London: Penguin.
+* Biegler, Paul, 2011, *The Ethical Treatment of Depression: Autonomy through Psychotherapy* (Philosophical Psychopathology: Disorders of the Mind), Cambridge, MA: MIT Press. doi:10.7551/mitpress/9780262015493.001.0001
+* Bluhm, Robyn, 2011, “Gender Differences in Depression: Explanations from Feminist Ethics”, *IJFAB: International Journal of Feminist Approaches to Bioethics*, special issue: *Feminist Perspectives on Ethics in Psychiatry*, 4(1): 69–88. doi:10.3138/ijfab.4.1.69
+* Bluhm, Robyn, Anne Jaap Jacobson, and Heidi Lene Maibom (eds.), 2012, *Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science*, London: Palgrave Macmillan UK. doi:10.1057/9780230368385
+* Bolton, Derek, 2008, *What Is Mental Disorder?: An Essay in Philosophy, Science, and Values*, Oxford: Oxford University Press. doi:10.1093/med/9780198565925.001.0001
+* –––, 2010, “Conceptualisation of Mental Disorder and Its Personal Meanings”, *Journal of Mental Health*, 19(4): 328–336. doi:10.3109/09638237.2010.492483
+* –––, 2012, “Classification and Causal Mechanisms: A Deflationary Approach to the Classification Problem”, in *Philosophical Issues in Psychiatry II: Nosology*, Kenneth S. Kendler and Josef Parnas (eds.), Oxford: Oxford University Press, 6–11. doi:10.1093/med/9780199642205.003.0002
 * –––, 2013, “What Is Mental Illness?”, in Fulford et al. 2013: 434–450. doi:10.1093/oxfordhb/9780199579563.013.0028
-* Bolton, Derek and Gillett, Grant, 2019, _The Biopsychosocial Model of Health & Disease: New Philosophical & Scientific Developments_. Springer Nature.
-* Boorse, Christopher, 1977, “Health as a Theoretical Concept”, _Philosophy of Science_, 44(4): 542–573. doi:10.1086/288768
-* –––, 1997, “A Rebuttal on Health”, in _What Is Disease?_, James M. Humber and Robert F. Almeder (eds.), Totowa, NJ: Humana Press, 1–134. doi:10.1007/978-1-59259-451-1\_1
-* Borsboom, Denny and Angélique O.J. Cramer, 2013, “Network Analysis: An Integrative Approach to the Structure of Psychopathology”, _Annual Review of Clinical Psychology_, 9(1): 91–121. doi:10.1146/annurev-clinpsy-050212-185608
-* Borsboom, Denny, 2017,“A Network Theory of Mental Disorder”, _World Psychiatry_, 16(1): 5–13. doi:10.1002/wps.20375
-* Bordo, Susan, 1993, _Unbearable Weight: Feminism, Western Culture, and the Body_, Berkeley: University of California Press.
-* Bortolotti, Lisa, 2009 , _Delusions and Other Irrational Beliefs_, Oxford: Oxford University Press. doi:10.1093/med/9780199206162.001.1
+* Bolton, Derek and Gillett, Grant, 2019, *The Biopsychosocial Model of Health & Disease: New Philosophical & Scientific Developments*. Springer Nature.
+* Boorse, Christopher, 1977, “Health as a Theoretical Concept”, *Philosophy of Science*, 44(4): 542–573. doi:10.1086/288768
+* –––, 1997, “A Rebuttal on Health”, in *What Is Disease?*, James M. Humber and Robert F. Almeder (eds.), Totowa, NJ: Humana Press, 1–134. doi:10.1007/978-1-59259-451-1\_1
+* Borsboom, Denny and Angélique O.J. Cramer, 2013, “Network Analysis: An Integrative Approach to the Structure of Psychopathology”, *Annual Review of Clinical Psychology*, 9(1): 91–121. doi:10.1146/annurev-clinpsy-050212-185608
+* Borsboom, Denny, 2017,“A Network Theory of Mental Disorder”, *World Psychiatry*, 16(1): 5–13. doi:10.1002/wps.20375
+* Bordo, Susan, 1993, *Unbearable Weight: Feminism, Western Culture, and the Body*, Berkeley: University of California Press.
+* Bortolotti, Lisa, 2009 , *Delusions and Other Irrational Beliefs*, Oxford: Oxford University Press. doi:10.1093/med/9780199206162.001.1
 * –––, 2013, “Rationality and Sanity: The Role of Rationality Judgements in Understanding Psychiatric Disorders”, in Fulford et al. 2013: 413–433. doi:10.1093/oxfordhb/9780199579563.013.0030
-* –––, 2020, _The Innocence of Beliefs_, Oxford: Oxford University Press.
-* Bracken, Patrick and Philip Thomas, 2005, _Postpsychiatry: Mental Health in a Postmodern World_, Oxford: Oxford University Press. doi:10.1093/med/9780198526094.001.0001
-* –––, 2010, “From Szasz to Foucault: On the Role of Critical Psychiatry”, _Philosophy, Psychiatry, & Psychology_, 17(3): 219–228. muse.jhu.edu/article/405314
-* Broome, Matthew and Lisa Bortolotti (eds.), 2009, _Psychiatry as Cognitive Neuroscience: Philosophical Perspectives_, Oxford: Oxford University Press. doi:10.1093/med/9780199238033.001.0001
+* –––, 2020, *The Innocence of Beliefs*, Oxford: Oxford University Press.
+* Bracken, Patrick and Philip Thomas, 2005, *Postpsychiatry: Mental Health in a Postmodern World*, Oxford: Oxford University Press. doi:10.1093/med/9780198526094.001.0001
+* –––, 2010, “From Szasz to Foucault: On the Role of Critical Psychiatry”, *Philosophy, Psychiatry, & Psychology*, 17(3): 219–228. muse.jhu.edu/article/405314
+* Broome, Matthew and Lisa Bortolotti (eds.), 2009, *Psychiatry as Cognitive Neuroscience: Philosophical Perspectives*, Oxford: Oxford University Press. doi:10.1093/med/9780199238033.001.0001
 * Broome, Matthew, Paolo Fusar-Poli, and Philippe Wuyts, 2013, “Conceptual and Ethical Issues in the Prodromal Phase of Psychosis”, in Fulford et al. 2013: 779–802. doi:10.1093/oxfordhb/9780199579563.013.0046
-* Browne, Tamara Kayali, 2018, _Depression and the Self: Meaning, Control and Authenticity_, Cambridge: Cambridge University Press. doi:10.1017/9781316481578
-* Brülde, Bengt and Filip Radovic, 2006, “What Is Mental About Mental Disorder?”, _Philosophy, Psychiatry, & Psychology_, 13(2): 99–116. doi:10.1353/ppp.2007.0001
-* Bueter, A., 2018, “Public Epistemic Trustworthiness and the Integration of Patients in Psychiatric Classification”, _Synthese_ (Supplement 19), 198: 4711–4729. doi:10.1007/s11229-018-01913-z
+* Browne, Tamara Kayali, 2018, *Depression and the Self: Meaning, Control and Authenticity*, Cambridge: Cambridge University Press. doi:10.1017/9781316481578
+* Brülde, Bengt and Filip Radovic, 2006, “What Is Mental About Mental Disorder?”, *Philosophy, Psychiatry, & Psychology*, 13(2): 99–116. doi:10.1353/ppp.2007.0001
+* Bueter, A., 2018, “Public Epistemic Trustworthiness and the Integration of Patients in Psychiatric Classification”, *Synthese* (Supplement 19), 198: 4711–4729. doi:10.1007/s11229-018-01913-z
 * Campbell, John, 2013, “Causation and Mechanisms in Psychiatry”, in Fulford et al. 2013: 935–949. doi:10.1093/oxfordhb/9780199579563.013.0055
-* Carel, Havi, 2023, “Vulnerabilization and De-pathologization: Two Philosophical Suggestions”, _Philosophy, Psychiatry\&Psychology_, 30(1): 73–76. doi.10.1353/ppp.2023.0013
-* Caruso, Gregg and Owen Flanagan (eds.), 2018, _Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience_, New York: Oxford University Press. doi:10.1093/oso/9780190460723.001.0001
-* Castel, Pierre-Henri, Angela Verdier, and Louis Sass, 2014, “A New History of Ourselves, in the Shadow of Our Obsessions and Compulsions”, _Philosophy, Psychiatry, & Psychology_, 21(4): 299–309.soi/10.1353/ppp.2014.0047
-* Chalmers, David J., 1996, _The Conscious Mind: In Search of a Fundamental Theory_, Oxford: Oxford University Press.
-* Chapman, Robert, 2019, “Neurodiversity theory and its discontents: Autism, schizophrenia, and the social model of disability”, in S. Tekin and R. Bluhm (eds.), _The Bloomsbury Companion to Philosophy of Psychiatry_, London: Bloomsbury, pp. 371–390.
-* Chapman, Robert and Havi Carel, 2022, “Neurodiversity, epistemic injustice, and the good human life”, _J. Social Philosophy_, first online 01 March 2022. doi:10.1111/josp.12456
+* Carel, Havi, 2023, “Vulnerabilization and De-pathologization: Two Philosophical Suggestions”, *Philosophy, Psychiatry\&Psychology*, 30(1): 73–76. doi.10.1353/ppp.2023.0013
+* Caruso, Gregg and Owen Flanagan (eds.), 2018, *Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience*, New York: Oxford University Press. doi:10.1093/oso/9780190460723.001.0001
+* Castel, Pierre-Henri, Angela Verdier, and Louis Sass, 2014, “A New History of Ourselves, in the Shadow of Our Obsessions and Compulsions”, *Philosophy, Psychiatry, & Psychology*, 21(4): 299–309.soi/10.1353/ppp.2014.0047
+* Chalmers, David J., 1996, *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
+* Chapman, Robert, 2019, “Neurodiversity theory and its discontents: Autism, schizophrenia, and the social model of disability”, in S. Tekin and R. Bluhm (eds.), *The Bloomsbury Companion to Philosophy of Psychiatry*, London: Bloomsbury, pp. 371–390.
+* Chapman, Robert and Havi Carel, 2022, “Neurodiversity, epistemic injustice, and the good human life”, *J. Social Philosophy*, first online 01 March 2022. doi:10.1111/josp.12456
 * Charland, Louis C., 2004, “Character: Moral Treatment and the Personality Disorders”, in Radden 2004: 64–77.
-* Cohen, Carl I. and Sami Timimi (eds.), 2008, _Liberatory Psychiatry: Philosophy, Politics and Mental Health_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511543678
-* Coltheart, Max and Martin Davies (eds.), 2000, _Pathologies of Belief_, (Readings in Mind and Language), Oxford: Blackwell Publishers.
-* Cooper, Rachel, 2007, _Psychiatry and Philosophy of Science_, Stocksfield, UK: Acumen Publishing Limited.
+* Cohen, Carl I. and Sami Timimi (eds.), 2008, *Liberatory Psychiatry: Philosophy, Politics and Mental Health*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511543678
+* Coltheart, Max and Martin Davies (eds.), 2000, *Pathologies of Belief*, (Readings in Mind and Language), Oxford: Blackwell Publishers.
+* Cooper, Rachel, 2007, *Psychiatry and Philosophy of Science*, Stocksfield, UK: Acumen Publishing Limited.
 * –––, 2017, “Classification, Rating Scales, and Promoting User-Led Research”, in Poland, and Tekin 2017: 197–220.
-* –––, 2020, “The Concept of Disorder Revisited: Robustly Value-laden Despite Change”, _Aristotelian Society Supplementary Volume XCIV_: 141–161. doi:10.1093/arisup/aka010
+* –––, 2020, “The Concept of Disorder Revisited: Robustly Value-laden Despite Change”, *Aristotelian Society Supplementary Volume XCIV*: 141–161. doi:10.1093/arisup/aka010
 * Cratsley, Kelso, 2019, “The Ethics of Coercion and Other Forms of Influence”, in Tekin and Bluhm (eds.) 2019: 283–304.
 * Cratsley, Kelso and Richard Samuels, 2013, “Cognitive Science and Explanations of Psychopathology” in Fulford et al. 2013: 413–433. doi:10.1093/oxfordhb/9780199579563.013.0027
-* Currie, Gregory and Ian Ravenscroft, 2002, _Recreative Minds: Imagination in Philosophy and Psychology_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198238089.001.0001
-* Cuthbert, Bruce N. and Thomas R. Insel, 2013, “Toward the Future of Psychiatric Diagnosis: The Seven Pillars of RDoC”, _BMC Medicine_, 11(1): 126. doi:10.1186/1741-7015-11-126
+* Currie, Gregory and Ian Ravenscroft, 2002, *Recreative Minds: Imagination in Philosophy and Psychology*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198238089.001.0001
+* Cuthbert, Bruce N. and Thomas R. Insel, 2013, “Toward the Future of Psychiatric Diagnosis: The Seven Pillars of RDoC”, *BMC Medicine*, 11(1): 126. doi:10.1186/1741-7015-11-126
 * Davidson, Larry, 2013, “Cure and Recovery”, in Fulford et al. 2013: 197–213. doi:10.1093/oxfordhb/9780199579563.013.0015
-* Davies, A.M.A and Martin Davies, 2009, “Explaining Pathologies of Belief”, in _Psychiatry as Cognitive Neuroscience: Philosophical Perspectives_, M. Broome and L. Bortolotti (eds.), Oxford: Oxford University Press, pp 285–323.
-* Davies, Martin, Max Coltheart, Robyn Langdon, and Nora Breen, 2001, “Monothematic Delusions: Towards a Two-Factor Account”, _Philosophy, Psychiatry, & Psychology_, 8(2): 133–158. doi:10.1353/ppp.2001.0007
-* Davies, Will and Rebecca Roach, 2017, “Reassessing biopsychosocial psychiatry”, _The British Journal of Psychiatry_, 210(1): 3–5. doi:10.1192/bjp.116.182873
+* Davies, A.M.A and Martin Davies, 2009, “Explaining Pathologies of Belief”, in *Psychiatry as Cognitive Neuroscience: Philosophical Perspectives*, M. Broome and L. Bortolotti (eds.), Oxford: Oxford University Press, pp 285–323.
+* Davies, Martin, Max Coltheart, Robyn Langdon, and Nora Breen, 2001, “Monothematic Delusions: Towards a Two-Factor Account”, *Philosophy, Psychiatry, & Psychology*, 8(2): 133–158. doi:10.1353/ppp.2001.0007
+* Davies, Will and Rebecca Roach, 2017, “Reassessing biopsychosocial psychiatry”, *The British Journal of Psychiatry*, 210(1): 3–5. doi:10.1192/bjp.116.182873
 * Di Paolo, Ezequiel and Hanne De Jaegher, 2017, “Neither Individualistic, Nor Interactionist”, in Durt, Fuchs, and Tewes 2017: 87–104.
-* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, _Hypatia_, 26(2): 236–257. doi:10.1111/j.1527-2001.2011.01177.x
-* Double, D. B. (ed.), 2006, _Critical Psychiatry: The Limits of Madness_, London: Palgrave Macmillan UK. doi:10.1057/9780230599192
-* Drayson, Zoe, 2009, “Embodied Cognitive Science and Its Implications for Psychopathology”, _Philosophy, Psychiatry, & Psychology_, 16(4): 329–340. doi:10.1353/ppp.0.0261
-* Durt, Christoph, Thomas Fuchs, and Christian Tewes (eds.), 2017, _Embodiment, Enaction, and Culture: Investigating the Constitution of the Shared World_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262035552.001.0001
-* Egan, Andy, 2009, “Imagination, Delusion and Self-Deception”, _Delusion and Self-Deception: Affective and Motivational Influences on Belief Formation_, Tim Bayne and Jordi Fernández (eds.), (Macquarie Monographs in Cognitive Science), New York: Psychology Press, 263–280.
-* Ellis, Brian, 2001, _Scientific Essentialism_, Cambridge: Cambridge University Press.
-* Evans, Amanda, 2022, “Anorexia Nervosa; Illusion in the Sense of Agency”, _Mind & Language_, first online 13 February 2022. doi:10.1111/mila.12385
+* Dotson, Kristie, 2011, “Tracking Epistemic Violence, Tracking Practices of Silencing”, *Hypatia*, 26(2): 236–257. doi:10.1111/j.1527-2001.2011.01177.x
+* Double, D. B. (ed.), 2006, *Critical Psychiatry: The Limits of Madness*, London: Palgrave Macmillan UK. doi:10.1057/9780230599192
+* Drayson, Zoe, 2009, “Embodied Cognitive Science and Its Implications for Psychopathology”, *Philosophy, Psychiatry, & Psychology*, 16(4): 329–340. doi:10.1353/ppp.0.0261
+* Durt, Christoph, Thomas Fuchs, and Christian Tewes (eds.), 2017, *Embodiment, Enaction, and Culture: Investigating the Constitution of the Shared World*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262035552.001.0001
+* Egan, Andy, 2009, “Imagination, Delusion and Self-Deception”, *Delusion and Self-Deception: Affective and Motivational Influences on Belief Formation*, Tim Bayne and Jordi Fernández (eds.), (Macquarie Monographs in Cognitive Science), New York: Psychology Press, 263–280.
+* Ellis, Brian, 2001, *Scientific Essentialism*, Cambridge: Cambridge University Press.
+* Evans, Amanda, 2022, “Anorexia Nervosa; Illusion in the Sense of Agency”, *Mind & Language*, first online 13 February 2022. doi:10.1111/mila.12385
 * Faulkner, Alison and Sarah Layzell, 2000, “Strategies for Living: A Report of User-Led Research into People’s Strategies for Living with Mental Distress”, London: Mental Health Foundation.
 * Flanagan, Owen, 2011, “What Is It Like to Be an Addict?”, in Poland and Graham 2011: 269–292. doi:10.7551/mitpress/9780262015509.003.0011
-* –––, 2017, “Addiction Doesn’t Exist, But It Is Bad for You”, _Neuroethics_, 10(1): 91–98. doi:10.1007/s12152-016-9298-z
+* –––, 2017, “Addiction Doesn’t Exist, But It Is Bad for You”, *Neuroethics*, 10(1): 91–98. doi:10.1007/s12152-016-9298-z
 * Flanagan, Owen and George Graham, 2017, “Truth and Sanity: Positive Illusions, Spiritual Delusions, and Metaphysical Hallucinations”, in Poland and Tekin 2017: 293–313.
-* Fletcher, Paul C. and Chris D. Frith, 2009, “Perceiving Is Believing: A Bayesian Approach to Explaining the Positive Symptoms of Schizophrenia”, _Nature Reviews Neuroscience_, 10(1): 48–58. doi:10.1038/nrn2536
-* Flores, C., 2021, “Delusional Evidence Responsiveness”, _Synthese_, 199 (3–4): 6299–6330. doi:10.1007/s11229-021-03070-2
-* Foddy, Bennett and Julian Savulescu, 2010, “A Liberal Account of Addiction”, _Philosophy, Psychiatry, & Psychology_, 17(1): 1–22. doi:10.1353/ppp.0.0282
-* Foucault, Michel, 1965, _Madness and Civilization: A History of Insanity in the Age of Reason_ (_Folie et Déraison: Histoire de la folie à l’âge classique_), Richard Howard (trans.), New York: Vintage. This is an abridged version of the 1961 French original.
-* Foucher, L., and Forest, D., (eds) 2021, _Defining Mental Disorder: Jerome Wakefield & His Critics_. Cambridge, MA: MIT Press.
-* Friedenberg, Jay and Gordon Silverman, 2011, _Cognitive Science: An Introduction to the Study of Mind_, Thousand Oaks, CA: SAGE Publications.
-* Frith, Christopher D., 1992, _The Cognitive Neuroscience of Schizophrenia_, Hillsdale NJ: Erlbaum.
-* Fuchs, Thomas, 2001, “Melancholia as a Desynchronization: Towards a Psychopathology of Interpersonal Time”, _Psychopathology_, 34(4): 179–186. doi:10.1159/000049304
-* –––, 2005, “Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia”, _Philosophy, Psychiatry, & Psychology_, 12(2): 95–107.
+* Fletcher, Paul C. and Chris D. Frith, 2009, “Perceiving Is Believing: A Bayesian Approach to Explaining the Positive Symptoms of Schizophrenia”, *Nature Reviews Neuroscience*, 10(1): 48–58. doi:10.1038/nrn2536
+* Flores, C., 2021, “Delusional Evidence Responsiveness”, *Synthese*, 199 (3–4): 6299–6330. doi:10.1007/s11229-021-03070-2
+* Foddy, Bennett and Julian Savulescu, 2010, “A Liberal Account of Addiction”, *Philosophy, Psychiatry, & Psychology*, 17(1): 1–22. doi:10.1353/ppp.0.0282
+* Foucault, Michel, 1965, *Madness and Civilization: A History of Insanity in the Age of Reason* (*Folie et Déraison: Histoire de la folie à l’âge classique*), Richard Howard (trans.), New York: Vintage. This is an abridged version of the 1961 French original.
+* Foucher, L., and Forest, D., (eds) 2021, *Defining Mental Disorder: Jerome Wakefield & His Critics*. Cambridge, MA: MIT Press.
+* Friedenberg, Jay and Gordon Silverman, 2011, *Cognitive Science: An Introduction to the Study of Mind*, Thousand Oaks, CA: SAGE Publications.
+* Frith, Christopher D., 1992, *The Cognitive Neuroscience of Schizophrenia*, Hillsdale NJ: Erlbaum.
+* Fuchs, Thomas, 2001, “Melancholia as a Desynchronization: Towards a Psychopathology of Interpersonal Time”, *Psychopathology*, 34(4): 179–186. doi:10.1159/000049304
+* –––, 2005, “Corporealized and Disembodied Minds: A Phenomenological View of the Body in Melancholia and Schizophrenia”, *Philosophy, Psychiatry, & Psychology*, 12(2): 95–107.
 * –––, 2013, “The Phenomenology of Affectivity”, in Fulford et al. 2013: 612–631. doi:10.1093/oxfordhb/9780199579563.013.0038
 * Fulford, K.W.M., 2004. “Facts/Values: Ten Principles of Value-based Medicine”, in Radden 2004: 205–234.
-* –––, 2014, “Values-Based Practice: The Facts”, in _Debates in Values-Based Practice_, Michael Loughlin (ed.), Cambridge: Cambridge University Press, 3–19. doi:10.1017/CBO9781139855976.003
-* Fulford, K.W.M., Martin Davies, Richard G.T. Gipps, George Graham, John Z. Sadler, Giovanni Stanghellini, and Tim Thornton (eds.), 2013, _The Oxford Handbook of Philosophy and Psychiatry_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199579563.001.0001
-* Gadsby, Stephen, 2017, “Distorted Body Representations in Anorexia Nervosa”, _Consciousness and Cognition_, 51: 17–33. doi:10.1016/j.concog.2017.02.015
-* –––, 2017, “Anorexia Nervosa and Oversized Experiences”, _Philosophical Psychology_, 30(5): 594–615. doi:10.1080/09515089.2017.1315083
-* –––, 2020, “Self-deception and the second factor. How desire causes delusion in anorexia nervosa”, _Erkenntnis_, 85(3): 609–626. doi:10.1007/s10670-018-0039-z
-* Gagné-Julien, A.M., 2021, “Wrongful medicalization & epistemic injustice in psychiatry. The case of premenstrual dysphoric disorder”, _European J. of Analytic Philosophy_, 17.2:S4–36. doi:10.31820/ejap.17.3.3
-* Gallagher, Shaun, 2005, _How the Body Shapes the Mind_, Oxford: Clarendon Press. doi:10.1093/0199271941.001.0001
+* –––, 2014, “Values-Based Practice: The Facts”, in *Debates in Values-Based Practice*, Michael Loughlin (ed.), Cambridge: Cambridge University Press, 3–19. doi:10.1017/CBO9781139855976.003
+* Fulford, K.W.M., Martin Davies, Richard G.T. Gipps, George Graham, John Z. Sadler, Giovanni Stanghellini, and Tim Thornton (eds.), 2013, *The Oxford Handbook of Philosophy and Psychiatry*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199579563.001.0001
+* Gadsby, Stephen, 2017, “Distorted Body Representations in Anorexia Nervosa”, *Consciousness and Cognition*, 51: 17–33. doi:10.1016/j.concog.2017.02.015
+* –––, 2017, “Anorexia Nervosa and Oversized Experiences”, *Philosophical Psychology*, 30(5): 594–615. doi:10.1080/09515089.2017.1315083
+* –––, 2020, “Self-deception and the second factor. How desire causes delusion in anorexia nervosa”, *Erkenntnis*, 85(3): 609–626. doi:10.1007/s10670-018-0039-z
+* Gagné-Julien, A.M., 2021, “Wrongful medicalization & epistemic injustice in psychiatry. The case of premenstrual dysphoric disorder”, *European J. of Analytic Philosophy*, 17.2:S4–36. doi:10.31820/ejap.17.3.3
+* Gallagher, Shaun, 2005, *How the Body Shapes the Mind*, Oxford: Clarendon Press. doi:10.1093/0199271941.001.0001
 * –––, 2013, “Intersubjectivity and Psychopathology”, in Fulford et al. 2013: 258–274. doi:10.1093/oxfordhb/9780199579563.013.0019
-* Garson, Justin, 2015, “Psychiatry and the Mismatched Mind”, in his _The Biological Mind: A Philosophical Introduction_, New York and London: Routledge, 169–187 (chapter 8).
-* –––, 2022, _Madness: A Philosophical Exploration_. Oxford: Oxford University Press.
-* Gergel, Tania L., 2012, “Medicine and the Individual: Is Phenomenology the Answer?”, _Journal of Evaluation in Clinical Practice_, 18(5): 1102–1109. doi:10.1111/j.1365-2753.2012.01926.x
-* Gerrans, Philip, 2014, _The Measure of Madness: Philosophy of Mind, Cognitive Neuroscience, and Delusional Thought_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262027557.001.0001
+* Garson, Justin, 2015, “Psychiatry and the Mismatched Mind”, in his *The Biological Mind: A Philosophical Introduction*, New York and London: Routledge, 169–187 (chapter 8).
+* –––, 2022, *Madness: A Philosophical Exploration*. Oxford: Oxford University Press.
+* Gergel, Tania L., 2012, “Medicine and the Individual: Is Phenomenology the Answer?”, *Journal of Evaluation in Clinical Practice*, 18(5): 1102–1109. doi:10.1111/j.1365-2753.2012.01926.x
+* Gerrans, Philip, 2014, *The Measure of Madness: Philosophy of Mind, Cognitive Neuroscience, and Delusional Thought*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262027557.001.0001
 * Gert, Bernard and Charles M. Culver, 2004, “Defining Mental Disorder”, in Radden 2004: 415–425.
-* Gilman, Sander L., 1985, _Difference and Pathology: Stereotypes of Sexuality, Race, and Madness_, Ithaca, NY: Cornell University Press.
-* Giordano, Simona, 2005, _Understanding Eating Disorders: Conceptual and Ethical Issues in the Treatment of Anorexia and Bulimia Nervosa_, Oxford: Oxford University Press. doi:10.1093/0199269742.001.0001
-* –––, 2019, “Anorexia nervosa: A Case for Exceptionalism in Ethical Decision Making”, _Philosophy, Psychiatry & Psychology_, 26(4): 315–331. doi:10.1353/ppp.2019.0047
-* Gipps, R.G.T., 2022, _On Madness: Understanding the Psychotic Mind_, London: Bloomsbury Publishing.
-* Glacken, Shane, Tom Roberts \&Joel Kruger 2021, “Out of our heads: Addiction and psychiatric externalism”, _Behavioral Brain Research_, 398: 112936.doi/10.1016/jbbr.2020.112936
-* Glannon, Walter (ed.), 2015, _Free Will and the Brain: Neuroscientific, Philosophical, and Legal Perspectives_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139565820
+* Gilman, Sander L., 1985, *Difference and Pathology: Stereotypes of Sexuality, Race, and Madness*, Ithaca, NY: Cornell University Press.
+* Giordano, Simona, 2005, *Understanding Eating Disorders: Conceptual and Ethical Issues in the Treatment of Anorexia and Bulimia Nervosa*, Oxford: Oxford University Press. doi:10.1093/0199269742.001.0001
+* –––, 2019, “Anorexia nervosa: A Case for Exceptionalism in Ethical Decision Making”, *Philosophy, Psychiatry & Psychology*, 26(4): 315–331. doi:10.1353/ppp.2019.0047
+* Gipps, R.G.T., 2022, *On Madness: Understanding the Psychotic Mind*, London: Bloomsbury Publishing.
+* Glacken, Shane, Tom Roberts \&Joel Kruger 2021, “Out of our heads: Addiction and psychiatric externalism”, *Behavioral Brain Research*, 398: 112936.doi/10.1016/jbbr.2020.112936
+* Glannon, Walter (ed.), 2015, *Free Will and the Brain: Neuroscientific, Philosophical, and Legal Perspectives*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139565820
 * Glas, Gerrit, 2013, “Anxiety and Phobias: Phenomenology, Concepts, Explanations”, in Fulford et al. 2013: 551–573. doi:10.1093/oxfordhb/9780199579563.013.0035
-* Glover, Jonathan, 2014, _Alien Landscapes: Interpreting Disordered Minds_, Cambridge, Mass: Harvard University Press.
-* Gorski, Mike, 2012, “Karl Jaspers on Delusion: Definition by Genus and Specific Difference”, _Philosophy, Psychiatry, & Psychology_, 19(2): 79–86. muse.hju.edu/article/484341
-* Graham, George, 2013, _The Disordered Mind: An Introduction to Philosophy of Mind and Mental Illness_, New York: Routledge.
-* Hacking, Ian, 1995, “The Looping Effects of Human Kinds”, in _Causal Cognition: A Multidisciplinary Debate_, Dan Sperber, David Premack, and Ann James Premack (eds.), Oxford: Oxford University Press, 351–383. doi:10.1093/acprof:oso/9780198524021.003.0012
-* Haslam, Nick, 2002, “Kinds of Kinds: A Conceptual Taxonomy of Psychiatric Categories”, _Philosophy, Psychiatry, & Psychology_, 9(3): 203–217. doi:10.1353/ppp.2003.0043
+* Glover, Jonathan, 2014, *Alien Landscapes: Interpreting Disordered Minds*, Cambridge, Mass: Harvard University Press.
+* Gorski, Mike, 2012, “Karl Jaspers on Delusion: Definition by Genus and Specific Difference”, *Philosophy, Psychiatry, & Psychology*, 19(2): 79–86. muse.hju.edu/article/484341
+* Graham, George, 2013, *The Disordered Mind: An Introduction to Philosophy of Mind and Mental Illness*, New York: Routledge.
+* Hacking, Ian, 1995, “The Looping Effects of Human Kinds”, in *Causal Cognition: A Multidisciplinary Debate*, Dan Sperber, David Premack, and Ann James Premack (eds.), Oxford: Oxford University Press, 351–383. doi:10.1093/acprof:oso/9780198524021.003.0012
+* Haslam, Nick, 2002, “Kinds of Kinds: A Conceptual Taxonomy of Psychiatric Categories”, *Philosophy, Psychiatry, & Psychology*, 9(3): 203–217. doi:10.1353/ppp.2003.0043
 * –––, 2014, “Natural Kinds in Psychiatry: Conceptually Implausible, Empirically Questionable, and Stigmatizing”, in Kincaid and Sullivan 2014: 11–28.
-* Haslam, Nick and Erlend P. Kvaale, 2015, “Biogenetic Explanations of Mental Disorder: The Mixed-Blessings Model”, _Current Directions in Psychological Science_, 24(5): 399–404. doi:10.1177/0963721415588082
-* Hempel, Carl Gustav, 1961, “Introduction to problems of taxonomy” in _Field Studies in Mental Disorders_, Joseph Zubin, (ed), New York: Grune and Stratton, 3–22.
-* Henriksen, Mads Gram, Andrea Raballo, and Josef Parnas, 2015, “The Pathogenesis of Auditory Verbal Hallucinations in Schizophrenia: A Clinical-Phenomenological Account”, _Philosophy, Psychiatry, & Psychology_, 22(3): 165–181. doi:10.1353/ppp.2015.0041
-* Hinshaw, Stephen P., 2009, _The Mark of Shame: Stigma of Mental Illness and an Agenda for Change_, Oxford: Oxford University Press. doi:10.1093/med:psych/9780199730926.001.0001
+* Haslam, Nick and Erlend P. Kvaale, 2015, “Biogenetic Explanations of Mental Disorder: The Mixed-Blessings Model”, *Current Directions in Psychological Science*, 24(5): 399–404. doi:10.1177/0963721415588082
+* Hempel, Carl Gustav, 1961, “Introduction to problems of taxonomy” in *Field Studies in Mental Disorders*, Joseph Zubin, (ed), New York: Grune and Stratton, 3–22.
+* Henriksen, Mads Gram, Andrea Raballo, and Josef Parnas, 2015, “The Pathogenesis of Auditory Verbal Hallucinations in Schizophrenia: A Clinical-Phenomenological Account”, *Philosophy, Psychiatry, & Psychology*, 22(3): 165–181. doi:10.1353/ppp.2015.0041
+* Hinshaw, Stephen P., 2009, *The Mark of Shame: Stigma of Mental Illness and an Agenda for Change*, Oxford: Oxford University Press. doi:10.1093/med:psych/9780199730926.001.0001
 * Hoffman, Ginger A., 2019, “‘Aren’t Mental Disorders Just Chemical Imbalances?,’ ‘Aren’t Mental Disorders Just Brain Dysfunctions?’, and Other Frequently Asked Questions About Mental Disorders”, in Tekin and Bluhm (eds.) 2019: 59–92.
-* Hoffman, Ginger A. and Jennifer L. Hansen, 2017, “Prozac or Prosaic Diaries?: The Gendering of Psychiatric Disability in Depression Memoirs”, _Philosophy, Psychiatry, & Psychology_, 24(4): 285–298. doi:10.1353/ppp.2017.0041
+* Hoffman, Ginger A. and Jennifer L. Hansen, 2017, “Prozac or Prosaic Diaries?: The Gendering of Psychiatric Disability in Depression Memoirs”, *Philosophy, Psychiatry, & Psychology*, 24(4): 285–298. doi:10.1353/ppp.2017.0041
 * Holton, Richard and Kent Berridge, 2013, “Addiction Between Compulsion and Choice”, in Levy 2013: 239–268. doi:10.1093/acprof:oso/9780199862580.003.0012
-* Horwitz, Allan V. and Jerome C. Wakefield, 2007, _The Loss of Sadness: How Psychiatry Transformed Normal Sorrow into Depressive Disorder_, New York: Oxford University Press.
-* –––, 2012, _All We Have to Fear: Psychiatry’s Transformation of Natural Anxieties into Mental Disorders_, New York: Oxford University Press.
-* Iliopoulos, John, 2012, “Foucault’s Notion of Power and Current Psychiatric Practice”, _Philosophy, Psychiatry, & Psychology_, 19(1): 49–58. doi:10.1353/ppp.2012.0006
+* Horwitz, Allan V. and Jerome C. Wakefield, 2007, *The Loss of Sadness: How Psychiatry Transformed Normal Sorrow into Depressive Disorder*, New York: Oxford University Press.
+* –––, 2012, *All We Have to Fear: Psychiatry’s Transformation of Natural Anxieties into Mental Disorders*, New York: Oxford University Press.
+* Iliopoulos, John, 2012, “Foucault’s Notion of Power and Current Psychiatric Practice”, *Philosophy, Psychiatry, & Psychology*, 19(1): 49–58. doi:10.1353/ppp.2012.0006
 * Irwin, Terence H., 2013, “Mental Health as Moral Virtue: Some Ancient Arguments”, in Fulford et al. 2013: 37–46. doi:10.1093/oxfordhb/9780199579563.013.0004
-* Jacobs, Kerrin, Achim Stephan, Asena Paskaleva-Yankova, and Wendy Wilutzky, 2014, “Existential and Atmospheric Feelings in Depressive Comportment”, _Philosophy, Psychiatry, & Psychology_, 21(2): 89–110. doi:10.1353/ppp.2014.0021
-* Jaspers, Karl, 1913 \[1963], _General Psychopathology_, J. Hoenig and Marian W.Hamilton (trans.), Chicago: University of Chicago Press. Translation of the seventh edition of _Allgemeine Psychopathologie_, first edition published 1913.
-* Jefferson, Anneli, Lisa Bortolotti, and Bojana Kuzmanovic, 2017, “What Is Unrealistic Optimism?”, _Consciousness and Cognition_, 50: 3–11. doi:10.1016/j.concog.2016.10.005
-* Jefferson, Anneli, 2021, “On Mental Illness & Broken Brains”, _Think_, 20(58): 103–112. doi.10.1017/S1477175621000099
-* Jeppsson, Sofia, 2021, “Psychosis and Intelligibility”, _Philosophy, Psychiatry & Psychology_, 28(3): 233–249.
-* Jopling, David A., 2008, _Talking Cures and Placebo Effects_, Oxford: Oxford University Press. doi:10.1093/med/9780199239504.001.0001
-* Justman, Stewart, 2021, “The Guilt-Free Psychopath”_Philosophy, Psychiatry & Psychology_, 28(2): 87–104. doi.10.1353/ppp.2021.0014
-* Kallert, Thomas W., Juan E. Mezzich, and John Monahan (eds.), 2011, _Coercive Treatment in Psychiatry: Clinical, Legal and Ethical Aspects_, Chichester, UK: Wiley-Blackwell. doi:10.1002/9780470978573
-* Karp, David Allen, 2017, _Speaking of Sadness: Depression, Disconnection, and the Meanings of Illness_, updated and expanded edition, New York: Oxford University Press. First edition in 1996.
-* Keil, G., Keuck, L., Hauswald, R., 2017, _Vagueness in Psychiatry_, Oxford: Oxford University Press.
-* Kendler, K. S., P. Zachar, and C. Craver, 2011, “What Kinds of Things Are Psychiatric Disorders?”, _Psychological Medicine_, 41(6): 1143–1150. doi:10.1017/S0033291710001844
-* Kendler, K.S., P. Zachar, 2015, “The Incredible Insecurity of Psychiatric Nosology”, in K. Kendler and J. Parnas (eds.), _Philosophical Issues in Psychiatry: Explanation, Phenomenology & Nosology_, Baltimore: Johns Hopkins Press.
+* Jacobs, Kerrin, Achim Stephan, Asena Paskaleva-Yankova, and Wendy Wilutzky, 2014, “Existential and Atmospheric Feelings in Depressive Comportment”, *Philosophy, Psychiatry, & Psychology*, 21(2): 89–110. doi:10.1353/ppp.2014.0021
+* Jaspers, Karl, 1913 \[1963], *General Psychopathology*, J. Hoenig and Marian W.Hamilton (trans.), Chicago: University of Chicago Press. Translation of the seventh edition of *Allgemeine Psychopathologie*, first edition published 1913.
+* Jefferson, Anneli, Lisa Bortolotti, and Bojana Kuzmanovic, 2017, “What Is Unrealistic Optimism?”, *Consciousness and Cognition*, 50: 3–11. doi:10.1016/j.concog.2016.10.005
+* Jefferson, Anneli, 2021, “On Mental Illness & Broken Brains”, *Think*, 20(58): 103–112. doi.10.1017/S1477175621000099
+* Jeppsson, Sofia, 2021, “Psychosis and Intelligibility”, *Philosophy, Psychiatry & Psychology*, 28(3): 233–249.
+* Jopling, David A., 2008, *Talking Cures and Placebo Effects*, Oxford: Oxford University Press. doi:10.1093/med/9780199239504.001.0001
+* Justman, Stewart, 2021, “The Guilt-Free Psychopath”*Philosophy, Psychiatry & Psychology*, 28(2): 87–104. doi.10.1353/ppp.2021.0014
+* Kallert, Thomas W., Juan E. Mezzich, and John Monahan (eds.), 2011, *Coercive Treatment in Psychiatry: Clinical, Legal and Ethical Aspects*, Chichester, UK: Wiley-Blackwell. doi:10.1002/9780470978573
+* Karp, David Allen, 2017, *Speaking of Sadness: Depression, Disconnection, and the Meanings of Illness*, updated and expanded edition, New York: Oxford University Press. First edition in 1996.
+* Keil, G., Keuck, L., Hauswald, R., 2017, *Vagueness in Psychiatry*, Oxford: Oxford University Press.
+* Kendler, K. S., P. Zachar, and C. Craver, 2011, “What Kinds of Things Are Psychiatric Disorders?”, *Psychological Medicine*, 41(6): 1143–1150. doi:10.1017/S0033291710001844
+* Kendler, K.S., P. Zachar, 2015, “The Incredible Insecurity of Psychiatric Nosology”, in K. Kendler and J. Parnas (eds.), *Philosophical Issues in Psychiatry: Explanation, Phenomenology & Nosology*, Baltimore: Johns Hopkins Press.
 * Kennett, Jeanette, 2013, “Just Say No? Addiction and the Elements of Self-Control”, in Levy 2013: 144–164. doi:10.1093/acprof:oso/9780199862580.003.0008
 * Kennett, Jeanette and Cordelia Fine, 2008, “Internalism and the Evidence from Psychopaths and ‘Acquired Sociopaths’”, in Sinnott-Armstrong 2008: 173–190.
-* Khalidi, M.A., 2010, “Interactive Kinds”, _British J. of the Philosophy of Science_, 61: 335–360.
+* Khalidi, M.A., 2010, “Interactive Kinds”, *British J. of the Philosophy of Science*, 61: 335–360.
 * Kidd, Ian James, Spencer, Kucienne & Havi Carel, 2022, “Epistemic Injustice in Psychiatric Research and Practice”, doi:10.1080/09515089.2022.215633
-* Kincaid, Harold and Jacqueline A. Sullivan (eds.), 2014, _Classifying Psychopathology: Mental Kinds and Natural Kinds_, (Philosophical Psychopathology), Cambridge, MA: The MIT Press.
-* Kirmayer, Laurence J., Robert Lemelson, and Constance A. Cummings (eds.), 2015, _Re-Visioning Psychiatry: Cultural Phenomenology, Critical Neuroscience, and Global Mental Health_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139424745
-* Kingma, Elselijn, 2014, “Naturalism about Health and Disease: Adding Nuance for Progress”, _Journal of Medicine and Philosophy_, 39(6): 590–608. doi:10.1093/jmp/jhu037
+* Kincaid, Harold and Jacqueline A. Sullivan (eds.), 2014, *Classifying Psychopathology: Mental Kinds and Natural Kinds*, (Philosophical Psychopathology), Cambridge, MA: The MIT Press.
+* Kirmayer, Laurence J., Robert Lemelson, and Constance A. Cummings (eds.), 2015, *Re-Visioning Psychiatry: Cultural Phenomenology, Critical Neuroscience, and Global Mental Health*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139424745
+* Kingma, Elselijn, 2014, “Naturalism about Health and Disease: Adding Nuance for Progress”, *Journal of Medicine and Philosophy*, 39(6): 590–608. doi:10.1093/jmp/jhu037
 * Kontos, Nicholas, 2016, “Can What’s in Your Head be All in Your Head?” in Moseley and Gala 2016: 7–28.
-* Kristeva, Julia, 1987 \[1989], _Soleil Noir: Dépression et mélancolie_, Paris: Gallimard. Translated by Leon S. Roudiez as _Black Sun: Depression and Melancholia_, New York: Columbia University Press, 1989.
-* Kusters, Wouter, 2016, “Philosophy and Madness. Radical Turns in the Natural Attitude to Life”, _Philosophy, Psychiatry, & Psychology_, 23(2): 129–146. doi:10.1353/ppp.2016.0012
-* Lalumera, Elisabetta, 2016, “Saving the DSM-5? Descriptive conceptions and theoretical concepts of mental disorders”, _Medicina & Storia_, XVI(9–10): 109–127.
-* Leudar, Ivan and Philip Thomas, 2000, _Voices of Reason, Voices of Insanity: Studies of Verbal Hallucinations_, London: Routledge.
-* Levy, Neil, 2006, “Autonomy and Addiction”, _Canadian Journal of Philosophy_, 36(3): 427–447. doi:10.1353/cjp.2006.0018
-* –––, 2007, “The Responsibility of the Psychopath Revisited”, _Philosophy, Psychiatry, & Psychology_, 14(2): 129–138. doi:10.1353/ppp.0.0003
+* Kristeva, Julia, 1987 \[1989], *Soleil Noir: Dépression et mélancolie*, Paris: Gallimard. Translated by Leon S. Roudiez as *Black Sun: Depression and Melancholia*, New York: Columbia University Press, 1989.
+* Kusters, Wouter, 2016, “Philosophy and Madness. Radical Turns in the Natural Attitude to Life”, *Philosophy, Psychiatry, & Psychology*, 23(2): 129–146. doi:10.1353/ppp.2016.0012
+* Lalumera, Elisabetta, 2016, “Saving the DSM-5? Descriptive conceptions and theoretical concepts of mental disorders”, *Medicina & Storia*, XVI(9–10): 109–127.
+* Leudar, Ivan and Philip Thomas, 2000, *Voices of Reason, Voices of Insanity: Studies of Verbal Hallucinations*, London: Routledge.
+* Levy, Neil, 2006, “Autonomy and Addiction”, *Canadian Journal of Philosophy*, 36(3): 427–447. doi:10.1353/cjp.2006.0018
+* –––, 2007, “The Responsibility of the Psychopath Revisited”, *Philosophy, Psychiatry, & Psychology*, 14(2): 129–138. doi:10.1353/ppp.0.0003
 * –––, 2011, “Addiction, Responsibility, and Ego Depletion”, in Poland and Graham 2011: 89–112. doi:10.7551/mitpress/9780262015509.003.0004
-* ––– (ed.), 2013, _Addiction and Self-Control: Perspectives from Philosophy, Psychology, and Neuroscience_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199862580.001.0001
-* Lewis, Benjamin R., 2015, “‘The Drugs Didn’t Mix’: On the Overvaluation of Misvaluation”, _Philosophy, Psychiatry, & Psychology_, 22(1): 41–43. doi:10.1353/ppp.2015.0013
-* Lilienfeld, Scott O. and Lori Marino, 1995, “Mental Disorder as a Roschian Concept: A Critique of Wakefield’s ‘Harmful Dysfunction’ Analysis”, _Journal of Abnormal Psychology_, 104(3): 411–420. doi:10.1037/0021-843X.104.3.411
-* Lloyd, Genevieve, 1984, _The Man of Reason : “Male” and “Female” in Western Philosophy_, London: Methuen.
+* ––– (ed.), 2013, *Addiction and Self-Control: Perspectives from Philosophy, Psychology, and Neuroscience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199862580.001.0001
+* Lewis, Benjamin R., 2015, “‘The Drugs Didn’t Mix’: On the Overvaluation of Misvaluation”, *Philosophy, Psychiatry, & Psychology*, 22(1): 41–43. doi:10.1353/ppp.2015.0013
+* Lilienfeld, Scott O. and Lori Marino, 1995, “Mental Disorder as a Roschian Concept: A Critique of Wakefield’s ‘Harmful Dysfunction’ Analysis”, *Journal of Abnormal Psychology*, 104(3): 411–420. doi:10.1037/0021-843X.104.3.411
+* Lloyd, Genevieve, 1984, *The Man of Reason : “Male” and “Female” in Western Philosophy*, London: Methuen.
 * Machery, Edouard, 2017, “Kinds or Tails?” in Poland and Tekin 2017: 15–35.
-* Madeira, Luis, Elizabeth Pienkos, Teresa Filipe, Mariana Melo, Guilherme Queiroz, Joao Eira, Cristina Costa, Maria Luisa Figueira, and Louis Sass, 2019, “Self and world experience in non-affective first episode of psychosis” _Schizophrenia Research_, 211: 69–78. doi:10.1016/j.shres.2019.07.001
-* Maibom, Heidi Lene, 2014, “To Treat a Psychopath”, _Theoretical Medicine and Bioethics_, 35(1): 31–42. doi:10.1007/s11017-014-9281-9
-* Maiese, Michelle, 2016, _Embodied Selves and Divided Minds_, Oxford: Oxford University Press. doi:10.1093/med/9780199689231.001.0001
-* McKay, Ryan T. and Daniel C. Dennett, 2009, “The Evolution of Misbelief”, _Behavioral and Brain Sciences_, 32(6): 493–561. doi:10.1017/S0140525X09990975
-* Miyazono, Kengo, 2019, _Delusions & Beliefs: A Philosophical Inquiry_, London: Routledge.
-* Mishara, Aaron L, 2007, “Missing Links in Phenomenological Clinical Neuroscience: Why We Still Are Not There Yet”:, _Current Opinion in Psychiatry_, 20(6): 559–569. doi:10.1097/YCO.0b013e3282f128b8
-* Mishara, Aaron L. and Phil Corlett, 2009, “Are Delusions Biologically Adaptive? Salvaging the Doxastic Shear Pin”, _Behavioral and Brain Sciences_, 32(6): 530–531. doi:10.1017/S0140525X09991464
-* Moncrieff, Joanna, 2008, _The Myth of the Chemical Cure: A Critique of Psychiatric Drug Treatment_, London: Palgrave Macmillan.
+* Madeira, Luis, Elizabeth Pienkos, Teresa Filipe, Mariana Melo, Guilherme Queiroz, Joao Eira, Cristina Costa, Maria Luisa Figueira, and Louis Sass, 2019, “Self and world experience in non-affective first episode of psychosis” *Schizophrenia Research*, 211: 69–78. doi:10.1016/j.shres.2019.07.001
+* Maibom, Heidi Lene, 2014, “To Treat a Psychopath”, *Theoretical Medicine and Bioethics*, 35(1): 31–42. doi:10.1007/s11017-014-9281-9
+* Maiese, Michelle, 2016, *Embodied Selves and Divided Minds*, Oxford: Oxford University Press. doi:10.1093/med/9780199689231.001.0001
+* McKay, Ryan T. and Daniel C. Dennett, 2009, “The Evolution of Misbelief”, *Behavioral and Brain Sciences*, 32(6): 493–561. doi:10.1017/S0140525X09990975
+* Miyazono, Kengo, 2019, *Delusions & Beliefs: A Philosophical Inquiry*, London: Routledge.
+* Mishara, Aaron L, 2007, “Missing Links in Phenomenological Clinical Neuroscience: Why We Still Are Not There Yet”:, *Current Opinion in Psychiatry*, 20(6): 559–569. doi:10.1097/YCO.0b013e3282f128b8
+* Mishara, Aaron L. and Phil Corlett, 2009, “Are Delusions Biologically Adaptive? Salvaging the Doxastic Shear Pin”, *Behavioral and Brain Sciences*, 32(6): 530–531. doi:10.1017/S0140525X09991464
+* Moncrieff, Joanna, 2008, *The Myth of the Chemical Cure: A Critique of Psychiatric Drug Treatment*, London: Palgrave Macmillan.
 * Morris, Katherine J.,2013, “Body Image Disorders”, in Fulford et al. 2013: 592–611. doi:10.1093/oxfordhb/9780199579563.013.0037
-* Morris, S.E., C.A. Sanislow, Jenni Pacheco, Uma Vaidyanathan, Gordon, J.A. & Cuthbert, Bruce, N., 2022, “Revisiting the seven pillars of RDoC” _BMC Medicine_, 20(1): 220. doi:10.1186/s12916-022-02414-0
-* Moseley, Daniel D. and Gary Gala (eds.), 2016, _Philosophy and Psychiatry: Problems, Intersections, and New Perspectives_, New York: Routledge.
-* Mullen, Richard, 2011, “Psychopathology Divergent: Phenomenology and Empiricism”, _Philosophy, Psychiatry, & Psychology_, 18(2): 157–161. doi:10.1353/ppp.2011.0020
-* Mullen, Richard and Grant Gillett, 2014, “Delusions: A Different Kind of Belief?”, _Philosophy, Psychiatry, & Psychology_, 21(1): 27–37. doi:10.1353/ppp.2014.0002
-* Murphy, Dominic, 2012, _Psychiatry in the Scientific Image_, Cambridge, MA: MIT Press.
-* Murphy, Dominic and Stephen Stich, 2000, “Darwin in the Madhouse: Evolutionary Psychology and the Classification of Mental Disorders”, in _Evolution and the Human Mind: Modularity, Language and Meta-Cognition_, Peter Carruthers and Andrew Chamberlain (eds.), Cambridge: Cambridge University Press, 62–92. doi:10.1017/CBO9780511611926.005
+* Morris, S.E., C.A. Sanislow, Jenni Pacheco, Uma Vaidyanathan, Gordon, J.A. & Cuthbert, Bruce, N., 2022, “Revisiting the seven pillars of RDoC” *BMC Medicine*, 20(1): 220. doi:10.1186/s12916-022-02414-0
+* Moseley, Daniel D. and Gary Gala (eds.), 2016, *Philosophy and Psychiatry: Problems, Intersections, and New Perspectives*, New York: Routledge.
+* Mullen, Richard, 2011, “Psychopathology Divergent: Phenomenology and Empiricism”, *Philosophy, Psychiatry, & Psychology*, 18(2): 157–161. doi:10.1353/ppp.2011.0020
+* Mullen, Richard and Grant Gillett, 2014, “Delusions: A Different Kind of Belief?”, *Philosophy, Psychiatry, & Psychology*, 21(1): 27–37. doi:10.1353/ppp.2014.0002
+* Murphy, Dominic, 2012, *Psychiatry in the Scientific Image*, Cambridge, MA: MIT Press.
+* Murphy, Dominic and Stephen Stich, 2000, “Darwin in the Madhouse: Evolutionary Psychology and the Classification of Mental Disorders”, in *Evolution and the Human Mind: Modularity, Language and Meta-Cognition*, Peter Carruthers and Andrew Chamberlain (eds.), Cambridge: Cambridge University Press, 62–92. doi:10.1017/CBO9780511611926.005
 * Nissim-Sabat, Marilyn, 2013, “Race and Gender in Philosophy of Psychiatry: Science, Relativism, and Phenomenology”, in Fulford et al. 2013: 139–158. doi:10.1093/oxfordhb/9780199579563.013.0012
-* Nordenfelt, Lennart, 1995, _On the Nature of Health: An Action-Theoretic Approach_, second revised and enlarged edition, (Philosophy and Medicine, 26), Dordrecht: Springer Netherlands, first edition 1987. doi:10.1007/978-94-011-0241-4
-* O’Leary, D, 2021 “Medicine’s Metaphysical Morass” _Synthese_, doi:10.1007/s11229-020-02869-9
-* Oliver, Mike, 2004, “The Social Model in Action: If I had a Hammer”, in _Implementing the Social Model of Disability: Theory and Research_, Colin Barnes and Geof Mercer (eds), Leeds: Disability Press, 18–31. \[[Oliver 2004 available online (pdf)](https://disability-studies.leeds.ac.uk/wp-content/uploads/sites/40/library/Barnes-implementing-the-social-model-chapter-2.pdf)]
-* Ortega, Francisco, 2009, “The Cerebral Subject and the Challenge of Neurodiversity”, _BioSocieties_, 4(4): 425–445. doi:10.1017/S1745855209990287
-* Parnas, Josef and Louis A. Sass, 2008, “On Varieties of ‘Phenomenology’: On Description, Understanding, and Explanation in Psychiatry”, _Philosophical Issues in Psychiatry: Explanation, Phenomenology, and Nosology_, Kenneth S. Kendler and Josef Parnas (eds.), Baltimore, MD: Johns Hopkins University Press.
-* Pârvan, Alexandra, 2015, “Patients’ Substantialization of Disease, the Hybrid Symptom and Meta Physical Care”, _Journal of Evaluation in Clinical Practice_, 21(3): 380–388. doi:10.1111/jep.12250
-* –––, 2016, “Monistic Dualism and the Body Electric: An Ontology of Disease, Patient and Clinician for Person-Centred Healthcare: Monistic Dualism and the Body Electric”, _Journal of Evaluation in Clinical Practice_, 22(4): 530–538. doi:10.1111/jep.12570
+* Nordenfelt, Lennart, 1995, *On the Nature of Health: An Action-Theoretic Approach*, second revised and enlarged edition, (Philosophy and Medicine, 26), Dordrecht: Springer Netherlands, first edition 1987. doi:10.1007/978-94-011-0241-4
+* O’Leary, D, 2021 “Medicine’s Metaphysical Morass” *Synthese*, doi:10.1007/s11229-020-02869-9
+* Oliver, Mike, 2004, “The Social Model in Action: If I had a Hammer”, in *Implementing the Social Model of Disability: Theory and Research*, Colin Barnes and Geof Mercer (eds), Leeds: Disability Press, 18–31. \[[Oliver 2004 available online (pdf)](https://disability-studies.leeds.ac.uk/wp-content/uploads/sites/40/library/Barnes-implementing-the-social-model-chapter-2.pdf)]
+* Ortega, Francisco, 2009, “The Cerebral Subject and the Challenge of Neurodiversity”, *BioSocieties*, 4(4): 425–445. doi:10.1017/S1745855209990287
+* Parnas, Josef and Louis A. Sass, 2008, “On Varieties of ‘Phenomenology’: On Description, Understanding, and Explanation in Psychiatry”, *Philosophical Issues in Psychiatry: Explanation, Phenomenology, and Nosology*, Kenneth S. Kendler and Josef Parnas (eds.), Baltimore, MD: Johns Hopkins University Press.
+* Pârvan, Alexandra, 2015, “Patients’ Substantialization of Disease, the Hybrid Symptom and Meta Physical Care”, *Journal of Evaluation in Clinical Practice*, 21(3): 380–388. doi:10.1111/jep.12250
+* –––, 2016, “Monistic Dualism and the Body Electric: An Ontology of Disease, Patient and Clinician for Person-Centred Healthcare: Monistic Dualism and the Body Electric”, *Journal of Evaluation in Clinical Practice*, 22(4): 530–538. doi:10.1111/jep.12570
 * Perring, Christian, 2016, “Commentary on Kinghorn: Evaluating Traditions in Psychiatry”, in Moseley and Gala 2016: 80–88.
-* Phillips, James 1996, “Key Concepts: Hermeneutics”, _Philosophy, Psychiatry and Psychology_, 3(1): 61–9.
-* Phillips, James (ed.), 2009, _Philosophical Perspectives on Technology and Psychiatry_, Oxford: Oxford University Press. doi:10.1093/med/9780199207428.001.0001
+* Phillips, James 1996, “Key Concepts: Hermeneutics”, *Philosophy, Psychiatry and Psychology*, 3(1): 61–9.
+* Phillips, James (ed.), 2009, *Philosophical Perspectives on Technology and Psychiatry*, Oxford: Oxford University Press. doi:10.1093/med/9780199207428.001.0001
 * –––, 2013, “Technology and Psychiatry”, in Fulford et al. 2013: 176–196. doi:10.1093/oxfordhb/9780199579563.013.0014
-* Pickard, Hanna, 2011, “Responsibility Without Blame: Empathy and the Effective Treatment of Personality Disorder”, _Philosophy, Psychiatry, & Psychology_, 18(3): 209–224. doi:10.1353/ppp.2011.0032
-* –––, 2016, “Denial in Addiction: Denial in Addiction”, _Mind and Language_, 31(3): 277–299. doi:10.1111/mila.12106
+* Pickard, Hanna, 2011, “Responsibility Without Blame: Empathy and the Effective Treatment of Personality Disorder”, *Philosophy, Psychiatry, & Psychology*, 18(3): 209–224. doi:10.1353/ppp.2011.0032
+* –––, 2016, “Denial in Addiction: Denial in Addiction”, *Mind and Language*, 31(3): 277–299. doi:10.1111/mila.12106
 * Poland, Jeffrey, 2014, “Deeply Rooted Sources of Error and Bias in Psychiatric Classification”, in Kincaid and Sullivan 2014: 29–63.
 * Poland, Jeffrey and Barbara Von Eckardt, 2013, “Mapping the Domain of Mental Illness”, in Fulford et al. 2013: 735–752. doi:10.1093/oxfordhb/9780199579563.013.0044
-* Poland, Jeffrey and George Graham (eds.), 2011, _Addiction and Responsibility_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262015509.001.0001
-* Poland, Jeffrey and Şerife Tekin (eds.), 2017, _Extraordinary Science and Psychiatry: Responses to the Crisis in Mental Health Research_, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262035484.001.0001
-* Polvora, 2011, “Diagnosis ‘Human’”, _Wax and Feathers: The Icarus Project Zine_, April 2011. \[[Polvora 2011 available online (pdf)](http://nycicarus.org/images/waxandfeathers.pdf)]
-* Porter, Roy, 2002, _Madness: A Brief History_, New York: Oxford University Press.
-* Potter, Nancy Nyquist, 2009, _Mapping the Edges and the In-between: A Critical Analysis of Borderline Personality Disorder_, Oxford: Oxford University Press. doi:10.1093/med/9780198530213.001.0001
+* Poland, Jeffrey and George Graham (eds.), 2011, *Addiction and Responsibility*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262015509.001.0001
+* Poland, Jeffrey and Şerife Tekin (eds.), 2017, *Extraordinary Science and Psychiatry: Responses to the Crisis in Mental Health Research*, Cambridge, MA: The MIT Press. doi:10.7551/mitpress/9780262035484.001.0001
+* Polvora, 2011, “Diagnosis ‘Human’”, *Wax and Feathers: The Icarus Project Zine*, April 2011. \[[Polvora 2011 available online (pdf)](http://nycicarus.org/images/waxandfeathers.pdf)]
+* Porter, Roy, 2002, *Madness: A Brief History*, New York: Oxford University Press.
+* Potter, Nancy Nyquist, 2009, *Mapping the Edges and the In-between: A Critical Analysis of Borderline Personality Disorder*, Oxford: Oxford University Press. doi:10.1093/med/9780198530213.001.0001
 * –––, 2014, “Oppositional Defiant Disorder: Cultural Factors That influence Interpretations of Defiant Behavior and their Social and Scientific Consequences”, in Kincaid and Sullivan 2014: 175–194.
-* Pouncey, Claire L. and Jonathan M. Lukens, 2010, “Madness versus Badness: The Ethical Tension between the Recovery Movement and Forensic Psychiatry”, _Theoretical Medicine and Bioethics_, 31(1): 93–105. doi:10.1007/s11017-010-9138-9
+* Pouncey, Claire L. and Jonathan M. Lukens, 2010, “Madness versus Badness: The Ethical Tension between the Recovery Movement and Forensic Psychiatry”, *Theoretical Medicine and Bioethics*, 31(1): 93–105. doi:10.1007/s11017-010-9138-9
 * Pouncey, Claire and Jon F. Mertz, 2019, “Informed Consent in Psychiatry: Philosophical and Legal Issues”, in Tekin and Bluhm (eds.) 2019: 257–282.
-* Powell, Russell and Eric Scarffe, 2019, “Rethinking ‘Disease’: A Fresh Diagnosis and a New Philosophical Treatment”, _Journal of Medical Ethics_, 45: 579–588. doi:10.1136/medethics-2019-105467
-* Radden, Jennifer, 2013, “The Self and Its Moods in Depression and Mania”, _Journal of Consciousness Studies_, 20(7–8): 80–102.
-* –––, 2018, “Public Mental Health and Prevention”, _Public Health Ethics_, 11(2): 126–138. doi:10.1093/phe/phx011
-* –––, 2021, “Capturing the Anorexia Nervosa Phenotype: Conceptual and Normative Issues in ICD-11”, _J. Evaluation in Clinical Practice_, 28(5): 807–813. doi:10.1111/jep.13586
-* Radoilska, Lubomira, (ed) 2012, _Autonomy and Mental Disorder_, Oxford: Oxford University Press. doi:10.1093/med/9780199595426.001.0001
-* Rashed, Mohammed Abouelleil, 2019, _Madness and the Demand for Recognition a Philosophical Inquiry into Identity and Mental Health Activism_, New York: Oxford University Press.
-* –––, 2021 “An Approach to the Boundary Problem:Mental Health Activism and the Limits of Recognition”, _Philosophy, Psychiatry & Psychology_,28(4), 297–313. doi:10.1353/ppp.2021.0047
-* Rashed, Mohammed Abouelleil and Rachel Bingham, 2014, “Can Psychiatry Distinguish Social Deviance From Mental Disorder?”, _Philosophy, Psychiatry, & Psychology_, 21(3): 243–255. doi:10.1353/ppp.2014.0043
-* Ratcliffe, Matthew, 2008, _Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality_, Oxford: Oxford University Press. doi:10.1093/med/9780199206469.001.0001
-* –––, 2011, “Phenomenology Is Not a Servant of Science”, _Philosophy, Psychiatry, & Psychology_, 18(1): 33–36. doi:10.1353/ppp.2011.0001
-* –––, 2017, _Real Hallucinations: Psychiatric Illness, Intentionality, and the Interpersonal World_, (Philosophical Psychopathology), Cambridge, MA: The MIT Press.
-* Ratcliffe, Matthew and Achim Stephan (eds.), 2014, _Depression, Emotion and the Self Philosophical and Interdisciplinary Perspectives_, Exeter, UK: Imprint Academic.
-* Reznek, Lawrie, 1987, _The Nature of Disease_, (Philosophical Issues in Science), London: Routledge & Kegan Paul.
-* Robinson, Daniel N, 1996, _Wild Beasts and Idle Humours: The Insanity Defense from Antiquity to the Present_, Cambridge, MA: Harvard University Press.
+* Powell, Russell and Eric Scarffe, 2019, “Rethinking ‘Disease’: A Fresh Diagnosis and a New Philosophical Treatment”, *Journal of Medical Ethics*, 45: 579–588. doi:10.1136/medethics-2019-105467
+* Radden, Jennifer, 2013, “The Self and Its Moods in Depression and Mania”, *Journal of Consciousness Studies*, 20(7–8): 80–102.
+* –––, 2018, “Public Mental Health and Prevention”, *Public Health Ethics*, 11(2): 126–138. doi:10.1093/phe/phx011
+* –––, 2021, “Capturing the Anorexia Nervosa Phenotype: Conceptual and Normative Issues in ICD-11”, *J. Evaluation in Clinical Practice*, 28(5): 807–813. doi:10.1111/jep.13586
+* Radoilska, Lubomira, (ed) 2012, *Autonomy and Mental Disorder*, Oxford: Oxford University Press. doi:10.1093/med/9780199595426.001.0001
+* Rashed, Mohammed Abouelleil, 2019, *Madness and the Demand for Recognition a Philosophical Inquiry into Identity and Mental Health Activism*, New York: Oxford University Press.
+* –––, 2021 “An Approach to the Boundary Problem:Mental Health Activism and the Limits of Recognition”, *Philosophy, Psychiatry & Psychology*,28(4), 297–313. doi:10.1353/ppp.2021.0047
+* Rashed, Mohammed Abouelleil and Rachel Bingham, 2014, “Can Psychiatry Distinguish Social Deviance From Mental Disorder?”, *Philosophy, Psychiatry, & Psychology*, 21(3): 243–255. doi:10.1353/ppp.2014.0043
+* Ratcliffe, Matthew, 2008, *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*, Oxford: Oxford University Press. doi:10.1093/med/9780199206469.001.0001
+* –––, 2011, “Phenomenology Is Not a Servant of Science”, *Philosophy, Psychiatry, & Psychology*, 18(1): 33–36. doi:10.1353/ppp.2011.0001
+* –––, 2017, *Real Hallucinations: Psychiatric Illness, Intentionality, and the Interpersonal World*, (Philosophical Psychopathology), Cambridge, MA: The MIT Press.
+* Ratcliffe, Matthew and Achim Stephan (eds.), 2014, *Depression, Emotion and the Self Philosophical and Interdisciplinary Perspectives*, Exeter, UK: Imprint Academic.
+* Reznek, Lawrie, 1987, *The Nature of Disease*, (Philosophical Issues in Science), London: Routledge & Kegan Paul.
+* Robinson, Daniel N, 1996, *Wild Beasts and Idle Humours: The Insanity Defense from Antiquity to the Present*, Cambridge, MA: Harvard University Press.
 * –––, 2013, “The Insanity Defense as a History of Mental Disorder”, in Fulford et al. 2013: 18–36. doi:10.1093/oxfordhb/9780199579563.013.0003
-* Rose, Nikolas, 2010, “Normality and Pathology in a Biomedical Age”, _Nature, Society and Environmental Crisis_, Bob Carter and Nickie Charles (eds.), (Sociological Review Monograph Series), Malden, MA: Wiley Blackwell.
-* Rose, Nikolas S. and Joelle M. Abi-Rached, 2013, _Neuro: The New Brain Sciences and the Management of the Mind_, Princeton, NJ: Princeton University Press.
-* Roskies, Adina L., 2003, “Are Ethical Judgments Intrinsically Motivational? Lessons from ‘Acquired Sociopathy’”, _Philosophical Psychology_, 16(1): 51–66. doi:10.1080/0951508032000067743
-* –––, 2007, “Neuroethics beyond Genethics. Despite the Overlap between the Ethics of Neuroscience and Genetics, There Are Important Areas Where the Two Diverge”, _EMBO Reports_, 8(S1): S52–S56. doi:10.1038/sj.embor.7401009
-* Russo, Jasna and Angela Sweeney, 2016, _Searching for a Rose Garden Challenging Psychiatry, Fostering Mad Studies_, Wyastone Leys, UK: PCCS Books.
-* Russell, Denise, 1995, _Women, Madness, and Medicine_, Cambridge: Polity Press.
-* Sadler, John Z., 2005, _Values and Psychiatric Diagnosis_, Oxford: Oxford University Press. doi:10.1093/med/9780198526377.001.1
+* Rose, Nikolas, 2010, “Normality and Pathology in a Biomedical Age”, *Nature, Society and Environmental Crisis*, Bob Carter and Nickie Charles (eds.), (Sociological Review Monograph Series), Malden, MA: Wiley Blackwell.
+* Rose, Nikolas S. and Joelle M. Abi-Rached, 2013, *Neuro: The New Brain Sciences and the Management of the Mind*, Princeton, NJ: Princeton University Press.
+* Roskies, Adina L., 2003, “Are Ethical Judgments Intrinsically Motivational? Lessons from ‘Acquired Sociopathy’”, *Philosophical Psychology*, 16(1): 51–66. doi:10.1080/0951508032000067743
+* –––, 2007, “Neuroethics beyond Genethics. Despite the Overlap between the Ethics of Neuroscience and Genetics, There Are Important Areas Where the Two Diverge”, *EMBO Reports*, 8(S1): S52–S56. doi:10.1038/sj.embor.7401009
+* Russo, Jasna and Angela Sweeney, 2016, *Searching for a Rose Garden Challenging Psychiatry, Fostering Mad Studies*, Wyastone Leys, UK: PCCS Books.
+* Russell, Denise, 1995, *Women, Madness, and Medicine*, Cambridge: Polity Press.
+* Sadler, John Z., 2005, *Values and Psychiatric Diagnosis*, Oxford: Oxford University Press. doi:10.1093/med/9780198526377.001.1
 * –––, 2013, “Values in Psychiatric Diagnosis and Classification”, in Fulford et al. 2013: 753–778. doi:10.1093/oxfordhb/9780199579563.013.0045
-* Sadler, John Z., K. W. M. Fulford, and Cornelius Werendly van Staden (eds.), 2015, _The Oxford Handbook of Psychiatric Ethics_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780198732365.001.0001
+* Sadler, John Z., K. W. M. Fulford, and Cornelius Werendly van Staden (eds.), 2015, *The Oxford Handbook of Psychiatric Ethics*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780198732365.001.0001
 * Samuels, Richard, 2009, “Delusion as a Natural Kind”, in Broome, and Bortolotti 2009: 49–80. doi:10.1093/med/9780199238033.003.0004
-* Sass, Louis Arnorsson, 2001, “Self and World in Schizophrenia: Three Classic Approaches”, _Philosophy, Psychiatry, & Psychology_, 8(4): 251–270. doi:10.1353/ppp.2002.0026
-* Sass, Louis, Josef Parnas, and Dan Zahavi, 2011, “Phenomenological Psychopathology and Schizophrenia: Contemporary Approaches and Misunderstandings”, _Philosophy, Psychiatry, & Psychology_, 18(1): 1–23. doi:10.1353/ppp.2011.0008
-* Savulescu, Julian, Ruud ter Meulen, and Guy Kahane (eds.), 2011, _Enhancing Human Capacities_, Oxford: Blackwell Publishing. doi:10.1002/9781444393552
-* Schaffner, Kenneth F., 2016, _Behaving: What’s Genetic, What’s Not, and Why Should We Care?_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195171402.001.0001
-* Schramme, Thomas (ed), 2014, _Being Amoral: Psychopathy and Moral Incapacity_, Cambridge, MA: The MIT Press.
-* Schwartz, Peter H., 2008, “Risk and Disease”, _Perspectives in Biology and Medicine_, 51(3): 320–334. doi:10.1353/pbm.0.0027
-* Scull, Andrew, 2009, _Hysteria: The Biography_, Oxford: Oxford University Press.
-* Shorter, Edward, 2006, “Hysteria and Catatonia as Motor Disorders in Historical Context”, _History of Psychiatry_, 17(4): 461–468. doi:10.1177/0957154X06073012
-* Singh, Ilina, Walter P. Sinnott-Armstrong, and Julian Savulescu (eds.), 2013, _Bioprediction, Biomarkers, and Bad Behavior: Scientific, Legal, and Ethical Challenges_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199844180.001.0001
-* Sinnott-Armstrong, Walter (ed.), 2008, _Moral Psychology, volume 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development_, Cambridge, MA: MIT Press.
-* Spitzer, Manfred and Friedrich A. Uehlein, 1992, “Phenomenology and Psychiatry”, in _Phenomenology, Language & Schizophrenia_, Manfred Spitzer, Friedrich Uehlein, Michael A. Schwartz, and Christoph Mundt (eds.), New York, NY: Springer New York, 35–45. doi:10.1007/978-1-4613-9329-0\_3
-* Stanghellini, Giovanni, 2004, _Disembodied Spirits and Deanimated Bodies: The Psychopathology of Common Sense_, Oxford: Oxford University Press. doi:10.1093/med/9780198520894.001.0001
-* –––, 2016, _Lost in Dialogue: Anthropology, Psychopathology & Care_, Oxford: Oxford University Press.
-* Stein, D. J., K. A. Phillips, D. Bolton, K. W. M. Fulford, J. Z. Sadler, and K. S. Kendler, 2010, “What Is a Mental/Psychiatric Disorder? From DSM-IV to DSM-V”, _Psychological Medicine_, 40(11): 1759–1765. doi:10.1017/S0033291709992261
-* Stone, Tony and Andrew W. Young, 2007, “Delusions and Brain Injury: The Philosophy and Psychology of Belief”, _Mind & Language_, 12(3–4): 327–364. doi:10.1111/j.1468-0017.1997.tb00077.x
-* Summers, Jesse S., 2015, “What Is Wrong with Addiction”, _Philosophy, Psychiatry, & Psychology_, 22(1): 25–40. doi:10.1353/ppp.2015.0011
-* Summers, Jesse S., Sinnott-Armstrong, Walter, 2019, _Clean Hands: Philosophical Lessons from Scrupulosity_, Oxford: Oxford University Press.
-* Sulik, Gayle A., 2011, “Our Diagnoses, Our Selves: The Rise of the Technoscientific Illness Identity”, _Sociology Compass_, 5(6): 4463–477. doi:10.1111/j.1751-9020.211.00374.x
-* Svenaeus, Fredrik, 2013, “Anorexia Nervosa and the Body Uncanny: A Phenomenological Approach”, _Philosophy, Psychiatry, & Psychology_, 20(1): 81–91.muse.jhu.edy/article/511263
-* Szalai, Judit, 2016, “Agency and Mental States in Obsessive-Compulsive Disorder”, _Philosophy, Psychiatry, & Psychology_, 23(1): 47–59. doi:10.1353/ppp.2016.0001
+* Sass, Louis Arnorsson, 2001, “Self and World in Schizophrenia: Three Classic Approaches”, *Philosophy, Psychiatry, & Psychology*, 8(4): 251–270. doi:10.1353/ppp.2002.0026
+* Sass, Louis, Josef Parnas, and Dan Zahavi, 2011, “Phenomenological Psychopathology and Schizophrenia: Contemporary Approaches and Misunderstandings”, *Philosophy, Psychiatry, & Psychology*, 18(1): 1–23. doi:10.1353/ppp.2011.0008
+* Savulescu, Julian, Ruud ter Meulen, and Guy Kahane (eds.), 2011, *Enhancing Human Capacities*, Oxford: Blackwell Publishing. doi:10.1002/9781444393552
+* Schaffner, Kenneth F., 2016, *Behaving: What’s Genetic, What’s Not, and Why Should We Care?*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195171402.001.0001
+* Schramme, Thomas (ed), 2014, *Being Amoral: Psychopathy and Moral Incapacity*, Cambridge, MA: The MIT Press.
+* Schwartz, Peter H., 2008, “Risk and Disease”, *Perspectives in Biology and Medicine*, 51(3): 320–334. doi:10.1353/pbm.0.0027
+* Scull, Andrew, 2009, *Hysteria: The Biography*, Oxford: Oxford University Press.
+* Shorter, Edward, 2006, “Hysteria and Catatonia as Motor Disorders in Historical Context”, *History of Psychiatry*, 17(4): 461–468. doi:10.1177/0957154X06073012
+* Singh, Ilina, Walter P. Sinnott-Armstrong, and Julian Savulescu (eds.), 2013, *Bioprediction, Biomarkers, and Bad Behavior: Scientific, Legal, and Ethical Challenges*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199844180.001.0001
+* Sinnott-Armstrong, Walter (ed.), 2008, *Moral Psychology, volume 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development*, Cambridge, MA: MIT Press.
+* Spitzer, Manfred and Friedrich A. Uehlein, 1992, “Phenomenology and Psychiatry”, in *Phenomenology, Language & Schizophrenia*, Manfred Spitzer, Friedrich Uehlein, Michael A. Schwartz, and Christoph Mundt (eds.), New York, NY: Springer New York, 35–45. doi:10.1007/978-1-4613-9329-0\_3
+* Stanghellini, Giovanni, 2004, *Disembodied Spirits and Deanimated Bodies: The Psychopathology of Common Sense*, Oxford: Oxford University Press. doi:10.1093/med/9780198520894.001.0001
+* –––, 2016, *Lost in Dialogue: Anthropology, Psychopathology & Care*, Oxford: Oxford University Press.
+* Stein, D. J., K. A. Phillips, D. Bolton, K. W. M. Fulford, J. Z. Sadler, and K. S. Kendler, 2010, “What Is a Mental/Psychiatric Disorder? From DSM-IV to DSM-V”, *Psychological Medicine*, 40(11): 1759–1765. doi:10.1017/S0033291709992261
+* Stone, Tony and Andrew W. Young, 2007, “Delusions and Brain Injury: The Philosophy and Psychology of Belief”, *Mind & Language*, 12(3–4): 327–364. doi:10.1111/j.1468-0017.1997.tb00077.x
+* Summers, Jesse S., 2015, “What Is Wrong with Addiction”, *Philosophy, Psychiatry, & Psychology*, 22(1): 25–40. doi:10.1353/ppp.2015.0011
+* Summers, Jesse S., Sinnott-Armstrong, Walter, 2019, *Clean Hands: Philosophical Lessons from Scrupulosity*, Oxford: Oxford University Press.
+* Sulik, Gayle A., 2011, “Our Diagnoses, Our Selves: The Rise of the Technoscientific Illness Identity”, *Sociology Compass*, 5(6): 4463–477. doi:10.1111/j.1751-9020.211.00374.x
+* Svenaeus, Fredrik, 2013, “Anorexia Nervosa and the Body Uncanny: A Phenomenological Approach”, *Philosophy, Psychiatry, & Psychology*, 20(1): 81–91.muse.jhu.edy/article/511263
+* Szalai, Judit, 2016, “Agency and Mental States in Obsessive-Compulsive Disorder”, *Philosophy, Psychiatry, & Psychology*, 23(1): 47–59. doi:10.1353/ppp.2016.0001
 * Szmukler, George, 2016, “Coercion in Psychiatric Treatment and Its Justifications”, in Moseley and Gala 2016: 125–146.
 * Szmukler, George and John Dawson, 2011, “Reducing Discrimination in Mental Health Law—The ‘Fusion’ of Incapacity and Mental Health Legislation”, in Kallert, Mezzich, and Monahan 2011: 97–119. doi:10.1002/9780470978573.ch7
-* Tabb, Kathryn, 2019, “Philosophy of psychiatry after diagnostic kinds”, _Synthese_, 196(6): 2177–2195. doi.10.1007/s11229-017-1659-6
-* Tan, Jacinta O.A., Tony Hope, and Anne Stewart, 2003, “Anorexia Nervosa and Personal Identity: The Accounts of Patients and Their Parents”, _International Journal of Law and Psychiatry_, 26(5): 533–548. doi:10.1016/S0160-2527(03)00085-2
-* Tan, Jacinta O.A., Anne Stewart, Raymond Fitzpatrick, and Tony Hope, 2010, “Attitudes of Patients with Anorexia Nervosa to Compulsory Treatment and Coercion”, _International Journal of Law and Psychiatry_, 33(1): 13–19. doi:10.1016/j.ijlp.2009.10.003
-* Taylor, Shelley E. and Jonathon D. Brown, 1988, “Illusion and Well-Being: A Social Psychological Perspective on Mental Health”, _Psychological Bulletin_, 103(2): 193–210. doi:10.1037/0033-2909.103.2.193
-* Tekin, Şerife, 2011, “Self-Concept Through the Diagnostic Looking Glass: Narratives and Mental Disorder”, _Philosophical Psychology_, 24(3): 357–380. doi:10.1080/09515089.2011.559622
-* –––, 2016, “Are Mental Disorders Natural Kinds?: A Plea for a New Approach to Intervention in Psychiatry”, _Philosophy, Psychiatry, & Psychology_, 23(2): 147–163. doi:10.1353/ppp.2016.0013
-* –––, 2019, “The Missing Self in Scientific Psychiatry”, _Synthese_, 196: 2197–2215. doi:10.1007/s11229-017-1324-0
-* Tekin, Şerife and Robyn Bluhm (eds.), 2019, _The Bloomsbury Companion to the Philosophy of Psychiatry_, London: Bloomsbury Academic.
-* Thornicroft, G., 2006, _Shunned: Discrimination against People with Mental Illness_, Oxford: Oxford University Press.
-* Thornton, Tim, 2007, _Essential Philosophy of Psychiatry_, Oxford: Oxford University Press. doi:10.1093/med/9780199228713.001.1
-* United Nations, 2006, _Convention on the Rights of Persons with Disabilities (CRPD)_, Department of Economic and Social Affairs. \[[United Nations 2006 available online](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)]
-* Tsou, Jonathan, 2021, _Philosophy of Psychiatry_, Cambridge: Cambridge University Press.
-* Ussher, Jane M., 2011, _The Madness of Women: Myth and Experience_, (Women and Psychology), New York: Routledge.
-* Varela, Francisco J., Evan Thompson, and Eleanor Rosch, 1991, _The Embodied Mind: Cognitive Science and Human Experience_, Cambridge, MA: MIT Press.
-* Varga, Somogy, 2015, _Naturalism, Interpretation, and Mental Disorder_, Oxford: Oxford University Press. doi:10.1093/med/9780198747253.001.0001
-* –––, 2016, “Evolutionary Approaches to Depression: Prospects and Limitations”, in _Evolutionary Thinking in Medicine_, Alexandra Alvergne, Crispin Jenkinson, and Charlotte Faurie (eds.), Cham: Springer International Publishing, 347–356. doi:10.1007/978-3-319-29716-3\_22
-* –––, 2018, “Demarcating the Realm of Cognition”, _Journal for General Philosophy of Science_, 49(3): 435–450. doi:10.1007/s10838-017-9375-y
-* Vohs, Kathleen D. and Todd F. Heatherton, 2000, “Self-Regulatory Failure: A Resource-Depletion Approach”, _Psychological Science_, 11(3): 249–254. doi:10.1111/1467-9280.00250
-* Von Eckardt, Barbara, 1995, _What Is Cognitive Science?_, Cambridge, MA: MIT Press.
-* Voronka, Jijian, 2016, “Disciplines, Difference, and Representational Authority: Making Moves Through Inclusionary Practices”, _Philosophy, Psychiatry, & Psychology_, 23(3): 211–214. doi:10.1353/ppp.2016.0020
-* Wakefield, Jerome C., 1992, “The Concept of Mental Disorder: On the Boundary between Biological Facts and Social Values”., _American Psychologist_, 47(3): 373–388. doi:10.1037/0003-066X.47.3.373
-* –––, 1997, “Diagnosing DSM-IV—Part I: DSM-IV and the Concept of Disorder”, _Behaviour Research and Therapy_, 35(7): 633–649. doi:10.1016/S0005-7967(97)00018-1
-* –––, 2012, “Editorial: DSM-5: Proposed Changes to Depressive Disorders”, _Current Medical Research and Opinion_, 28(3): 335–343. doi:10.1185/03007995.2011.653436
-* Watson, Gary, 2004, _Agency and Answerability: Selected Essays_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199272273.001.0001
-* West, Robert, 2006, _Theory of Addiction_, Oxford: Blackwell.
-* Westin, Anna, 2020, _An Existential Phenomenology of Addiction_. London: Bloomsbury Press.
-* Whitaker, Robert and Lisa Cosgrove, 2015, _Psychiatry under the Influence: Institutional Corruption, Social Injury and Prescriptions for Reform_, New York, NY: Palgrave Macmillan.
-* Wickham, Sophie and Richard Bentall, 2016, “Are Specific Early-Life Adversities Associated With Specific Symptoms of Psychosis?: A Patient Study Considering Just World Beliefs as a Mediator”, _The Journal of Nervous and Mental Disease_, 204(8): 606–613. doi:10.1097/NMD.0000000000000511
-* Wiggins, Osborne P. and Michael A. Schwartz, 2011, “Phenomenological Psychiatry Needs a Big Tent”, _Philosophy, Psychiatry, & Psychology_, 18(1): 31–32. doi:10.1353/ppp.2011.0013
-* Wilkinson, Stephen, 2000, “Is ‘Normal Grief’ a Mental Disorder?”, _The Philosophical Quarterly_, 50(200): 289–304. doi:10.1111/j.0031-8094.2000.00186.x
+* Tabb, Kathryn, 2019, “Philosophy of psychiatry after diagnostic kinds”, *Synthese*, 196(6): 2177–2195. doi.10.1007/s11229-017-1659-6
+* Tan, Jacinta O.A., Tony Hope, and Anne Stewart, 2003, “Anorexia Nervosa and Personal Identity: The Accounts of Patients and Their Parents”, *International Journal of Law and Psychiatry*, 26(5): 533–548. doi:10.1016/S0160-2527(03)00085-2
+* Tan, Jacinta O.A., Anne Stewart, Raymond Fitzpatrick, and Tony Hope, 2010, “Attitudes of Patients with Anorexia Nervosa to Compulsory Treatment and Coercion”, *International Journal of Law and Psychiatry*, 33(1): 13–19. doi:10.1016/j.ijlp.2009.10.003
+* Taylor, Shelley E. and Jonathon D. Brown, 1988, “Illusion and Well-Being: A Social Psychological Perspective on Mental Health”, *Psychological Bulletin*, 103(2): 193–210. doi:10.1037/0033-2909.103.2.193
+* Tekin, Şerife, 2011, “Self-Concept Through the Diagnostic Looking Glass: Narratives and Mental Disorder”, *Philosophical Psychology*, 24(3): 357–380. doi:10.1080/09515089.2011.559622
+* –––, 2016, “Are Mental Disorders Natural Kinds?: A Plea for a New Approach to Intervention in Psychiatry”, *Philosophy, Psychiatry, & Psychology*, 23(2): 147–163. doi:10.1353/ppp.2016.0013
+* –––, 2019, “The Missing Self in Scientific Psychiatry”, *Synthese*, 196: 2197–2215. doi:10.1007/s11229-017-1324-0
+* Tekin, Şerife and Robyn Bluhm (eds.), 2019, *The Bloomsbury Companion to the Philosophy of Psychiatry*, London: Bloomsbury Academic.
+* Thornicroft, G., 2006, *Shunned: Discrimination against People with Mental Illness*, Oxford: Oxford University Press.
+* Thornton, Tim, 2007, *Essential Philosophy of Psychiatry*, Oxford: Oxford University Press. doi:10.1093/med/9780199228713.001.1
+* United Nations, 2006, *Convention on the Rights of Persons with Disabilities (CRPD)*, Department of Economic and Social Affairs. \[[United Nations 2006 available online](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)]
+* Tsou, Jonathan, 2021, *Philosophy of Psychiatry*, Cambridge: Cambridge University Press.
+* Ussher, Jane M., 2011, *The Madness of Women: Myth and Experience*, (Women and Psychology), New York: Routledge.
+* Varela, Francisco J., Evan Thompson, and Eleanor Rosch, 1991, *The Embodied Mind: Cognitive Science and Human Experience*, Cambridge, MA: MIT Press.
+* Varga, Somogy, 2015, *Naturalism, Interpretation, and Mental Disorder*, Oxford: Oxford University Press. doi:10.1093/med/9780198747253.001.0001
+* –––, 2016, “Evolutionary Approaches to Depression: Prospects and Limitations”, in *Evolutionary Thinking in Medicine*, Alexandra Alvergne, Crispin Jenkinson, and Charlotte Faurie (eds.), Cham: Springer International Publishing, 347–356. doi:10.1007/978-3-319-29716-3\_22
+* –––, 2018, “Demarcating the Realm of Cognition”, *Journal for General Philosophy of Science*, 49(3): 435–450. doi:10.1007/s10838-017-9375-y
+* Vohs, Kathleen D. and Todd F. Heatherton, 2000, “Self-Regulatory Failure: A Resource-Depletion Approach”, *Psychological Science*, 11(3): 249–254. doi:10.1111/1467-9280.00250
+* Von Eckardt, Barbara, 1995, *What Is Cognitive Science?*, Cambridge, MA: MIT Press.
+* Voronka, Jijian, 2016, “Disciplines, Difference, and Representational Authority: Making Moves Through Inclusionary Practices”, *Philosophy, Psychiatry, & Psychology*, 23(3): 211–214. doi:10.1353/ppp.2016.0020
+* Wakefield, Jerome C., 1992, “The Concept of Mental Disorder: On the Boundary between Biological Facts and Social Values”., *American Psychologist*, 47(3): 373–388. doi:10.1037/0003-066X.47.3.373
+* –––, 1997, “Diagnosing DSM-IV—Part I: DSM-IV and the Concept of Disorder”, *Behaviour Research and Therapy*, 35(7): 633–649. doi:10.1016/S0005-7967(97)00018-1
+* –––, 2012, “Editorial: DSM-5: Proposed Changes to Depressive Disorders”, *Current Medical Research and Opinion*, 28(3): 335–343. doi:10.1185/03007995.2011.653436
+* Watson, Gary, 2004, *Agency and Answerability: Selected Essays*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199272273.001.0001
+* West, Robert, 2006, *Theory of Addiction*, Oxford: Blackwell.
+* Westin, Anna, 2020, *An Existential Phenomenology of Addiction*. London: Bloomsbury Press.
+* Whitaker, Robert and Lisa Cosgrove, 2015, *Psychiatry under the Influence: Institutional Corruption, Social Injury and Prescriptions for Reform*, New York, NY: Palgrave Macmillan.
+* Wickham, Sophie and Richard Bentall, 2016, “Are Specific Early-Life Adversities Associated With Specific Symptoms of Psychosis?: A Patient Study Considering Just World Beliefs as a Mediator”, *The Journal of Nervous and Mental Disease*, 204(8): 606–613. doi:10.1097/NMD.0000000000000511
+* Wiggins, Osborne P. and Michael A. Schwartz, 2011, “Phenomenological Psychiatry Needs a Big Tent”, *Philosophy, Psychiatry, & Psychology*, 18(1): 31–32. doi:10.1353/ppp.2011.0013
+* Wilkinson, Stephen, 2000, “Is ‘Normal Grief’ a Mental Disorder?”, *The Philosophical Quarterly*, 50(200): 289–304. doi:10.1111/j.0031-8094.2000.00186.x
 * Worrell, Franklin and Alison Denham, 2016, “Fragments of the Self: Dissociation, Agency, and Integration”, in Moseley and Gala (eds.) 2016: 214–237.
-* \[WHO] World Health Organization, 2020, _The ICD-11 Classification of Mental and Behavioural Disorders_, Geneva: World Health Organization.
-* Young, Garry, 2011, “Beliefs, Experiences and Misplaced Being: An Interactionist Account of Delusional Misidentification”, _Phenomenology and the Cognitive Sciences_, 10(2): 195–215. doi:10.1007/s11097-010-9168-9
-* Zachar, Peter, 2014, _A Metaphysics of Psychopathology_, (Philosophical Psychopathology), Cambridge, MA: The MIT Press.
-* Zeiler, Kristin and Lisa Folkmarson Käll (eds.), 2014, _Feminist Phenomenology and Medicine_, Albany, NY: SUNY Press.
+* \[WHO] World Health Organization, 2020, *The ICD-11 Classification of Mental and Behavioural Disorders*, Geneva: World Health Organization.
+* Young, Garry, 2011, “Beliefs, Experiences and Misplaced Being: An Interactionist Account of Delusional Misidentification”, *Phenomenology and the Cognitive Sciences*, 10(2): 195–215. doi:10.1007/s11097-010-9168-9
+* Zachar, Peter, 2014, *A Metaphysics of Psychopathology*, (Philosophical Psychopathology), Cambridge, MA: The MIT Press.
+* Zeiler, Kristin and Lisa Folkmarson Käll (eds.), 2014, *Feminist Phenomenology and Medicine*, Albany, NY: SUNY Press.
 
 ## Academic Tools
 
@@ -536,4 +535,4 @@ DSM 和 ICD 的诊断分类在全球范围内具有显著的影响力：如今�
 Several colleagues offered suggestions about earlier drafts of this entry, for which I am extremely grateful: Edward Harcourt, Lisa Bortolotti, Jeff Poland, Derek Bolton, Somogy Varga, Kelso Cratsley, John Sadler, George Graham, Alexandra Pârvan, Şerife Tekin, and Christian Perring. My special thanks for invaluable comprehensive critique are owed to Ginger Hoffman and two anonymous readers assigned by the Encyclopedia.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Jennifer Radden <[_jennifer.radden@umb.edu_](mailto:jennifer%2eradden%40umb%2eedu)>
+Jennifer Radden <[*jennifer.radden@umb.edu*](mailto:jennifer%2eradden%40umb%2eedu)>

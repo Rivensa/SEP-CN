@@ -6,8 +6,6 @@
 
 除了 SEP 的女性主义哲学部分外，还有一些关于哲学史上的女性的条目，例如玛丽·沃斯通克拉夫特（Mary Wollstonecraft）、玛丽·阿斯特尔（Mary Astell）、简·亚当斯（Jane Addams）、罗莎·卢森堡（Rosa Luxemburg）、西蒙娜·德·波伏娃（Simone de Beauvoir）、艾丽丝·默多克（Iris Murdoch）等。此外，SEP 中还有数十个其他条目讨论女性主义哲学的各个方面，包括全球正义、尊重、当代非洲哲学、多元文化主义、隐私和拉丁裔哲学等。
 
-
-
 ---
 
 ## 什么是女性主义？
@@ -52,13 +50,13 @@
 
 随着 SEP 的不断发展，我们预计这个关于女性主义方法的子部分将扩展到涵盖其他传统，包括黑人女性主义。但目前，这里是该子部分条目的链接：
 
-* [ 分析女性主义](https://plato.stanford.edu/entries/femapproach-analytic/)
-* [ 大陆女性主义](https://plato.stanford.edu/entries/femapproach-continental/)
-* [ 拉丁美洲女性主义](https://plato.stanford.edu/entries/feminism-latin-america/)
-* [ 实用主义女性主义](https://plato.stanford.edu/entries/femapproach-pragmatism/)
+* [分析女性主义](https://plato.stanford.edu/entries/femapproach-analytic/)
+* [大陆女性主义](https://plato.stanford.edu/entries/femapproach-continental/)
+* [拉丁美洲女性主义](https://plato.stanford.edu/entries/feminism-latin-america/)
+* [实用主义女性主义](https://plato.stanford.edu/entries/femapproach-pragmatism/)
 * [实用主义和大陆女性主义之间的交集](https://plato.stanford.edu/entries/femapproach-prag-cont/)
 * [分析性与大陆女性主义之间的交集](https://plato.stanford.edu/entries/femapproach-analy-cont/)
-* [ 精神分析女性主义](https://plato.stanford.edu/entries/feminism-psychoanalysis/)
+* [精神分析女性主义](https://plato.stanford.edu/entries/feminism-psychoanalysis/)
 
 尽管在目录中未列出，但儒家哲学中关于性别的条目中可以找到另一个相关方法。
 
@@ -80,14 +78,14 @@
 
 女性主义干预的条目包括以下内容：
 
-* [ 女性主义美学](https://plato.stanford.edu/entries/feminism-aesthetics/)
-* [ 女性主义生命伦理学](https://plato.stanford.edu/entries/feminist-bioethics/)
+* [女性主义美学](https://plato.stanford.edu/entries/feminism-aesthetics/)
+* [女性主义生命伦理学](https://plato.stanford.edu/entries/feminist-bioethics/)
 * [女性主义环境哲学](https://plato.stanford.edu/entries/feminism-environmental/)
 * [女性主义认识论和科学哲学](https://plato.stanford.edu/entries/feminism-epistemology/)
-* [ 女性主义伦理学](https://plato.stanford.edu/entries/feminism-ethics/)
+* [女性主义伦理学](https://plato.stanford.edu/entries/feminism-ethics/)
 * [哲学的女性主义历史](https://plato.stanford.edu/entries/feminism-femhist/)
-* [ 自由主义女性主义是一种女性主义理论和运动，强调个人自由和平等权利的重要性。它强调消除社会中的性别歧视和不平等，支持女性在政治、经济和社会领域的平等地位。自由主义女性主义倡导通过法律和政策改革来实现这些目标，以确保女性能够自由选择自己的生活道路，并获得与男性同等的权利和机会](https://plato.stanford.edu/entries/feminism-liberal/)
-* [ 女性主义形而上学](https://plato.stanford.edu/entries/feminism-metaphysics/)
+* [自由主义女性主义是一种女性主义理论和运动，强调个人自由和平等权利的重要性。它强调消除社会中的性别歧视和不平等，支持女性在政治、经济和社会领域的平等地位。自由主义女性主义倡导通过法律和政策改革来实现这些目标，以确保女性能够自由选择自己的生活道路，并获得与男性同等的权利和机会](https://plato.stanford.edu/entries/feminism-liberal/)
+* [女性主义形而上学](https://plato.stanford.edu/entries/feminism-metaphysics/)
 * [女性主义道德心理学](https://plato.stanford.edu/entries/feminism-moralpsych/)
 * [生物学的女性主义哲学](https://plato.stanford.edu/entries/feminist-philosophy-biology/)
 * [女性主义语言哲学](https://plato.stanford.edu/entries/feminism-language/)

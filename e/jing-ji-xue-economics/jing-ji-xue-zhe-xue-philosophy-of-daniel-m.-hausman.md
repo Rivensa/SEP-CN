@@ -1,9 +1,8 @@
 # 经济学哲学 philosophy of (Daniel M. Hausman)
 
-_首次发表于 2003 年 9 月 12 日星期五；实质性修订于 2018 年 9 月 4 日星期二_
+*首次发表于 2003 年 9 月 12 日星期五；实质性修订于 2018 年 9 月 4 日星期二*
 
 “经济学哲学”包括对(a)理性选择、(b)经济结果、制度和过程的评估，以及(c)经济现象的本体论和获取关于它们的知识的可能性的探讨。尽管这些探讨在许多方面重叠，但将经济学哲学以这种方式划分为三个主题是有用的，可以分别视为行动理论、伦理学（或规范社会和政治哲学）和科学哲学的分支。关于理性、福利和社会选择的经济理论通常捍卫由相关哲学文献启发的实质性哲学命题，对于那些对行动理论、哲学心理学以及社会和政治哲学感兴趣的人具有明显的吸引力。经济学对那些对认识论和科学哲学感兴趣的人特别重要，因为它具有详细的特点，并且具有许多自然科学的明显特征，而其对象是社会现象。
-
 
 ***
 
@@ -244,7 +243,7 @@ Imre Lakatos（1970 年）在他的大部分哲学生涯中都是波普的追随
 
 类似问题影响了社会判断的逻辑连贯性（List and Pettit 2002）。假设社会由三个个体组成，他们对命题 P 和 Q 的真假做出以下判断，并且社会判断遵循多数意见。
 
-|      | _P_   | if_P_then_Q_ | _Q_   |
+|      | *P*   | if_P_then_Q_ | *Q*   |
 | ---- | ----- | ------------ | ----- |
 | 个体 1 | true  | true         | true  |
 | 个体 2 | 经济学哲学 | true         | 经济学哲学 |
@@ -301,939 +300,939 @@ Imre Lakatos（1970 年）在他的大部分哲学生涯中都是波普的追随
 
 ## Bibliography
 
-The following bibliography is not comprehensive. It generally avoids separate citations for methodological essays in collections. It does not list separately the essays on economic methodology from special issues on philosophy and economics. A large number of essays on philosophy of economics can be found in the journals, _Economics and Philosophy_, _The Journal of Economic Methodology_ and the annual series _Research in the History of Economic Thought and Methodology_.
+The following bibliography is not comprehensive. It generally avoids separate citations for methodological essays in collections. It does not list separately the essays on economic methodology from special issues on philosophy and economics. A large number of essays on philosophy of economics can be found in the journals, *Economics and Philosophy*, *The Journal of Economic Methodology* and the annual series *Research in the History of Economic Thought and Methodology*.
 
-Readers may want to consult the _Journal of Economic Methodology_, Vol. 8, No. 1, March 2001 Millennium symposium on “The Past, Present and Future of Economic Methodology” the and Binder _et al._ 2016. For an encyclopedic overview of economic methodology, see the _Handbook of Economic Methodology_ edited by Davis, Hands, and Mäki. For a comprehensive bibliography of works on economic methodology through 1988, see Redman 1989. Essays from economics journals are indexed in _The Journal of Economic Literature_, and the _Index of Economic Articles in Journal and Collective Volumes_ also indexes collections. Since 1991, works on methodology can be found under the number B4. Works on ethics and economics can be found under the numbers A13, D6, and I3. Discussions of rationality and game theory can be found under A1, C7, D00, D7, D8, and D9.
+Readers may want to consult the *Journal of Economic Methodology*, Vol. 8, No. 1, March 2001 Millennium symposium on “The Past, Present and Future of Economic Methodology” the and Binder *et al.* 2016. For an encyclopedic overview of economic methodology, see the *Handbook of Economic Methodology* edited by Davis, Hands, and Mäki. For a comprehensive bibliography of works on economic methodology through 1988, see Redman 1989. Essays from economics journals are indexed in *The Journal of Economic Literature*, and the *Index of Economic Articles in Journal and Collective Volumes* also indexes collections. Since 1991, works on methodology can be found under the number B4. Works on ethics and economics can be found under the numbers A13, D6, and I3. Discussions of rationality and game theory can be found under A1, C7, D00, D7, D8, and D9.
 
 ### Economic methodology
 
-* Ackroyd, S. and S. Fleetwood, 2004. _Critical Realist Applications in Organisation and Management Studies_, London: Routledge.
-* Alchian, A., 1950. “Uncertainty, Evolution and Economic Theory”, _Journal of Political Economy_, 57: 211–21.
-* Alt, J., M. Levi, and E. Ostrom (eds.), 1999. _Competition and Cooperation: Conversations with Nobelists about Economics and Political Science_, New York: Russell Sage Foundation.
-* Amariglio, J., S. Cullenberg, D. Ruccio (eds.), 2001. _Post-Modernism, Economics and Knowledge_, London: Routledge.
-* Angyrous, G., 1967. “Refutation or Comparison?” _British Journal for the Philosophy of Science_, 17: 279–96.
-* Ardalan, K., 2016, _Paradigms in Political Economy_, London: Routledge.
-* Ariely, D., 2009, _Predictably Irrational: The Hidden Forces That Shape Our Decisions_, New York, Harper.
-* Arrow, K., 1968. “Economic Equilibrium”, pp. 376–89, _International Encyclopedia of the Social Sciences_, New York: Macmillan.
-* –––, 1974. _The Limits of Organization_, New York: Norton.
-* Arrow, K. and F. Hahn, 1971. _General Competitive Analysis_, San Francisco: Holden-Day.
-* Aruka, Y., 2015. _Evolutionary Foundations of Economic Science: How Can Scientists Study Evolving Economic Doctrines from the Last Centuries?_, New York: Springer.
-* Auerbach, P., 2016, _Socialist Optimism: An Alternative Political Economy for the Twenty-First Century_, New York: Palgrave Macmillan.
-* Ayer, A., 1936. _Language, Truth and Logic_, 2nd edition, reprinted New York: Dover, 1946.
-* Backhouse, R. (ed.), 1994. _New Perspectives on Economic Methodology_, London: Routledge.
-* –––, 1997. _Truth and Progress in Economic Knowledge_, Cheltenham: Edward Elgar.
-* –––, 2009. “The Rise and fall of Popper and Lakatos in Economics”, pp. 25-48 of Mäki, _et al_, (2009).
-* –––, 2010. _The Puzzle of Modern Economics_, Cambridge: Cambridge University Press.
-* Backhouse, R., D. Hausman, and U. Mäki (eds.), 1998. _Economics and Methodology: Crossing Boundaries_, London: Palgrave Macmillan.
-* Backhouse, R. and S. Medema, 2009. “The Definition of Economics”, _Journal of Economic Perspectives_, 23(1): 221–33.
-* Backhouse, R. and P. Fontaine (eds.), 2010. _The Unsocial Social Science? Economics and Neighboring Disciplines since 1945_, Durham, NC: Duke University Press.
-* Backhouse, R.E. and B.W. Bateman, 2011. _Capitalist Revolutionary: John Maynard Keynes_, Cambridge and London: Harvard University Press.
-* Balzer, W. and B. Hamminga (eds.), 1989. _Philosophy of Economics_, Dordrecht: Kluwer-Nijhoff.
-* Bardsley, Nicholas and Robin Cubitt, 2009. _Experimental Economics: Rethinking the Rules_, Princeton, Princeton University Press.
-* Barker, D. and E. Kuiper (eds.), 2003. _Toward a Feminist Philosophy of Economics_, London: Routledge.
-* Bateman, B., 1990. “Keynes, Induction and Econometrics”, _History of Political Economy_, 22: 359–79.
-* Baumberger, J., 1977. “No Kuhnian Revolutions in Economics”, _Journal of Economic Issues_, 11: 1–20.
-* Bavetta, Sebastiano, Pietro Navarra, and Dario Maimone, 2014, _Freedom and the Pursuit of Happiness: An Economic and Political Perspective_, Cambridge: Cambridge University Press.
-* Bear, D. and D. Orr, 1967. “Logic and Expediency in Economic Theorizing”, _Journal of Political Economy_, 75: 188–96.
-* Becker, G., 1962. “Irrational Behavior and Economic Theory”, _Journal of Political Economy_, 70: 1–13.
-* –––, 1976. _The Economic Approach to Human Behavior_, Chicago: University of Chicago Press.
-* Beckert, J., 2016, _Imagined Futures: Fictional Expectations and Capitalist Dynamics_, Cambridge, MA: Harvard University Press.
-* Beed, C., 1991. “Philosophy of Science and Contemporary Economics”, _Journal of Post Keynesian Economics_, 13: 459–94.
-* Begg, D., 1982. _The Rational Expectations Revolution in Macroeconomics: Theories and Evidence_, Baltimore: Johns-Hopkins University Press.
-* Bell, D. and I. Kristol (eds.), 1981. _The Crisis in Economic Theory_, New York: Basic Books.
-* Ben-Ner, A. and L. Putterman (eds.), 1998. _Economics, Values and Organization_, Cambridge: Cambridge University Press.
-* Berger, L., 1989. “Economics and Hermeneutics”, _Economics and Philosophy_, 5: 209–34.
-* Bhaskar, R., M. Archer, A. Collier, T. Lawson, and A. Norrie (eds.), 1998. _Critical Realism_, London: Routledge.
-* Billings, D., 2016, _Introducing Economic Actualism_, 2nd edition, Bloomington, IN: Author House.
-* Binder, C., C. Heilmann, and J. Vromen, 2016. _The Future of the Philosophy of Economics_, London: Routledge.
-* Birks, S., 2015, _Rethinking Economics: From Analogies to the Real World_, New York: Springer.
-* Birner, J., 1990. _Strategies and Programmes in Capital Theory: A Contribution to the Methodology of Theory Development_, Ph.D. Dissertation, University of Amsterdam.
-* Blaug, M., 1975. _The Cambridge Revolution. Success or Failure_?, London: Institute of Economic Affairs.
-* –––, 1976. “Kuhn versus Lakatos _or_, Paradigms versus Research Programmes in the History of Economics”, in Latsis (ed.) 1976, pp. 149–80.
-* –––, 1980a. _The Methodology of Economics: Or How Economists Explain_, Cambridge: Cambridge University Press; Second Edition 1992.
-* –––, 1980b. _A Methodological Appraisal of Marxian Economics_, Amsterdam: North-Holland.
-* Blinder, A., 1974. “The Economics of Brushing Teeth”, _Journal of Political Economy_, 82: 887–91.
-* –––, 1990. “Learning by Asking Those Who are Doing”, _Eastern Economic Journal_, 16: 297–306.
-* Boehm, S. _et al_ (eds.), 2002. _Is There Progress in Economics? Knowledge, Truth and the History of Economic Thought_, Cheltenham: Edward Elgar.
-* Boettke, P.J. (ed.), 2010. _Handbook on Contemporary Austrian Economics_, Cheltenham, UK and Northampton, MA: Elgar.
-* Boettke, P. and, C. Coyne, eds. 2015, _The Oxford Handbook of Austrian Economics_, New York: Oxford University Press.
-* Boland, L., 1979. “A Critique of Friedman’s Critics”, _Journal of Economic Literature_, 17: 503–22.
-* –––, 1982. _The Foundations of Economic Method_, London: George Allen & Unwin.
-* –––, 1989. _The Methodology of Economic Model Building: Methodology after Samuelson_, London: Routledge.
-* –––, 1992. _The Principles of Economics: Some Lies my Teachers Told Me_, London: Routledge.
-* –––, 1997. _Critical Economic Methodology: A Personal Odyssey_, London: Routledge.
-* –––, 2014. _Model Building in Economics: Its Purposes and Limitations_, New York: Cambridge University Press.
-* –––, 2017. _Equilibrium Models in Economics: Purposes and Critical Limitations_, New York: Oxford University Press.
-* Bonar, J., 1893. _Philosophy and Political Economy_, reprinted London: Allen & Unwin, 1967.
-* Boulding, K., 1970. _Economics as a Science_, New York: McGraw-Hill.
-* Boulier, B., 1991. “Pisces Economicus: The Fish as Economic Man”, _Economics and Philosophy_, 7: 83–86.
-* Boumans, M., 2015, _Science Outside the Laboratory. Measurement in Field Science and Economics_, Oxford: Oxford University Press.
-* Boumans, M. and J.B. Davis, 2015. _Economic Methodology: Understanding Economics as a Science_, 2nd edition, New York: Palgrave Macmillan.
-* Boylan, T. and P. O’Gorman, 1995. _Beyond Rhetoric and Realism in Economics: Towards a Reformulation of Economic Methodology_, London: Routledge.
-* Boylan, T. and P. O’Gorman (eds.), 2007. _Popper and Economic Methodology: Contemporary Challenges_, London: Routledge.
-* Branas–Garza, P. and A. Cabrales (eds.), 2015. _Experimental Economics_, 2 volumes, London: Macmillan.
-* Bray, J., 1977. “The Logic of Scientific Method in Economics”, _Journal of Economic Studies_, 4: 1–28.
-* Brennan J. and P. Jaworski, 2016. _Markets Without Limits: Moral Virtues and Commercial Interests_, London: Routledge.
-* Brennan, T., 1989. “A Methodological Assessment of Multiple Utility Frameworks”, _Economics and Philosophy_, 5: 189–208.
-* Bronfenbrenner, M., 1971. “The Structure of Revolutions in Economic Thought”, _History of Political Economy_, 3: 136–51.
-* Broome, J., 2012, _Climate Matters: Ethics in a Warming World_, New York: Norton.
-* Brousseau, E. and J. Glachant (eds.), 2008. _New Institutional Economics: A Guidebook_, Cambridge: Cambridge University Press.
-* Brown, Andrew and Steve Fleetwood, 2003. _Critical Realism and Marxism_, London: Routledge.
-* Bruni, L., 2012, _The Genesis and Ethos of the Market_, New York: Palgrave-Macmillan.
-* Brunner, K., 1969. “‘Assumptions’ and the Cognitive Quality of Theories”, _Synthese_, 20: 501–25.
-* Brzezinski, J., F. Coniglione, R. Kuipers, and L. Nowak (eds.), 1990. _Idealization I: General Problems_ (Poznan Studies in the Philosophy of the Sciences and Humanities, Volumes 16), Amsterdam: Rodopi.
-* Buchanan, J., 1958. “_Ceteris Paribus_: Some Notes on Methodology”, _Southern Economic Journal_, 24: 259–70.
-* –––, 1975. _The Limits of Liberty: Between Anarchy and the Leviathan_, Chicago: University of Chicago Press.
-* –––, 1979. _What Should Economists Do_? Indianapolis: Liberty Press.
-* –––, 2007. _Economics from the Outside In: “Better than Plowing” and Beyond_, College Station: Texas A\&M University Press.
-* Buchanan, J. and V. Vanberg, 1979. “The Market as a Creative Process”, _Economics and Philosophy_, 7: 167–86.
-* Buechner, M.N., 2011. _Objective Economics: How Ayn Rand’s Philosophy Changes Everything about Economics_, Lanham, MD: Rowman and Littlefield.
-* Cairnes, J., 1875. _The Character and Logical Method of Political Economy_, 2nd edition, reprinted New York: A. M. Kelley, 1965.
-* Caldwell, B., 1982. _Beyond Positivism: Economic Methodology in the Twentieth Century_, London: Allen & Unwin.
-* –––, 1983. “The Neoclassical Maximization Hypothesis: Comment”, _American Economic Review_, 75: 824–7.
-* –––, 1990. “Does Methodology Matter? How Should It Be Practiced?” _Finnish Economic Papers_, 3: 64–71.
-* –––, 1991. “Clarifying Popper”, _Journal of Economic Literature_, 29: 1–33.
-* Caldwell, B. (ed.), 1984. _Appraisal and Criticism in Economics_, London: Allen & Unwin.
-* ––– (ed.), 1993. _The Philosophy and Methodology of Economics_, Cheltenham: Edward Elgar.
-* Camerer, C., 2003. _Behavioral Game Theory: Experiments in Strategic Interaction_, Princeton: Princeton University Press.
-* –––, 2007. “Neuroeconomics: Using Neuroscience to Make Economic Predictions”, _Economic Journal_, 117: C26–42.
-* Camerer, C., G. Loewenstein, and M. Rabin (eds.), 2003. _Advances in Behavioral Economics_, Princeton: Princeton University Press.
-* Camerer, C., G. Loewenstein and D. Prelec, 2005. “Neuroeconomics: How Neuroscience Can Inform Economics”, _Journal of Economic Literature_, 43: 9–64.
-* Camerer, C., J. Cohen, E. Fehr, P. Glimcher, D. Laibson, G. Loewenstein, and R. Montague, 2008. “Neuroeconomics”, in J. Kagel and A. Roth (eds.), _The Handbook of Experimental Economics_, Princeton: Princeton University Press, 2nd edition.
-* Camerer, C. and G. Loewenstein (eds.), 2013. _Advances in Behavioral Economics_, Princeton: Princeton University Press.
-* Caplin, A. and A. Schotter (eds.), 2008. _Handbook of Economic Methodology_, New York: Oxford University Press.
-* Carpenter, Jeffrey, Glenn Harrison, and John List (eds.), 2005. _Research in Experimental Economics_, Bingley, UK: Emerald Publishing.
-* Carter, M. and R. Maddock, 1984. _Rational Expectations: Macroeconomics for the 1980s_? London: Macmillan.
-* Chipman, J., 1965. “The Nature and Meaning of Equilibrium in Economic Theory”, in D. Martindale (ed.), _Functionalism in the Social Sciences: The Strength and Limits of Functionalism in Anthropology, Economics, Political Science and Sociology_, Philadelphia: American Academy of Political and Social Science, pp. 35–64.
-* Clark, Andrew and Sarah Flèche, 2018. _The Origins of Happiness: The Science of Well-Being over the Life Course_, Princeton: Princeton University Press.
-* Clift, E.M. (ed.), 2008. _How Language Is Used to Do Business: Essays on the Rhetoric of Economics_, Lewiston, NY and Queenston, Ont.: Edwin Mellen Press.
-* Coase, R., 1960. “The Problem of Social Cost”, _Journal of Law and Economics_, 3: 1–30.
-* Coats, A., 1969. “Is There a ‘Structure of Scientific Revolutions’ in Economics?” _Kyklos_, 22: 289–94.
-* –––, 1982. “The Methodology of Economics: Some Recent Contributions”, _Kylos_, 35: 310–21.
-* Coddington, A., 1972. “Positive Economics”, _Canadian Journal of Economics_, 5: 1–15.
-* Coddington, A., 1975. “The Rationale of General Equilibrium Theory”, _Economic Inquiry_, 13: 539–58.
-* Cohen, I., N. Daniels, and N.Eyal (eds.), 2015,_Identified Versus Statistical Lives: An Interdisciplinary Perspective_, New York: Oxford University Press.
-* Colander, D. and A. Klamer, 1987. “The Making of An Economist”, _Journal of Economic Perspectives_, 1: 95–112.
-* Cole, K., J. Cameron, and C. Edwards, 1991. _What Economists Disagree_, 2nd ed. London: Longmans.
-* Coleman, J., 1984. “Economics and the Law: A Critical Review of the Foundations of the Economic Approach to Law”, _Ethics_, 94: 649–79.
-* Collins, H., 1991. “The Meaning of Replication and the Science of Economics”, _History of Political Economy_, 23: 123–42.
-* Cook, S.J., 2009. _The Intellectual Foundation of Alfred Marshall’s Economic Science: A Rounded Globe of Knowledge_, Cambridge: Cambridge University Press.
-* Cooter, R. and P. Rappoport, 1984. “Were the Ordinalists Wrong About Welfare Economics?” _Journal of Economic Literature_, 22: 507–30.
-* Coyne, C. and V. Storr (eds.), 2015. _New Thinking in Austrian Political Economy_, Bingley, UK: Emerald Publishing.
-* Crespo, R., 2013. _Philosophy of the Economy: An Aristotelian Approach_, New York: Springer.
-* Cross, R., 1982. “The Duhem-Quine Thesis, Lakatos and the Appraisal of Theories in Macroeconomics”, _Economic Journal_, 92: 320–40.
-* Cullenberg, S., J. Amariglio, and F. Ruccio (eds.), 2001. _Postmodernism, Economics, and Knowledge_, London: Routledge.
+* Ackroyd, S. and S. Fleetwood, 2004. *Critical Realist Applications in Organisation and Management Studies*, London: Routledge.
+* Alchian, A., 1950. “Uncertainty, Evolution and Economic Theory”, *Journal of Political Economy*, 57: 211–21.
+* Alt, J., M. Levi, and E. Ostrom (eds.), 1999. *Competition and Cooperation: Conversations with Nobelists about Economics and Political Science*, New York: Russell Sage Foundation.
+* Amariglio, J., S. Cullenberg, D. Ruccio (eds.), 2001. *Post-Modernism, Economics and Knowledge*, London: Routledge.
+* Angyrous, G., 1967. “Refutation or Comparison?” *British Journal for the Philosophy of Science*, 17: 279–96.
+* Ardalan, K., 2016, *Paradigms in Political Economy*, London: Routledge.
+* Ariely, D., 2009, *Predictably Irrational: The Hidden Forces That Shape Our Decisions*, New York, Harper.
+* Arrow, K., 1968. “Economic Equilibrium”, pp. 376–89, *International Encyclopedia of the Social Sciences*, New York: Macmillan.
+* –––, 1974. *The Limits of Organization*, New York: Norton.
+* Arrow, K. and F. Hahn, 1971. *General Competitive Analysis*, San Francisco: Holden-Day.
+* Aruka, Y., 2015. *Evolutionary Foundations of Economic Science: How Can Scientists Study Evolving Economic Doctrines from the Last Centuries?*, New York: Springer.
+* Auerbach, P., 2016, *Socialist Optimism: An Alternative Political Economy for the Twenty-First Century*, New York: Palgrave Macmillan.
+* Ayer, A., 1936. *Language, Truth and Logic*, 2nd edition, reprinted New York: Dover, 1946.
+* Backhouse, R. (ed.), 1994. *New Perspectives on Economic Methodology*, London: Routledge.
+* –––, 1997. *Truth and Progress in Economic Knowledge*, Cheltenham: Edward Elgar.
+* –––, 2009. “The Rise and fall of Popper and Lakatos in Economics”, pp. 25-48 of Mäki, *et al*, (2009).
+* –––, 2010. *The Puzzle of Modern Economics*, Cambridge: Cambridge University Press.
+* Backhouse, R., D. Hausman, and U. Mäki (eds.), 1998. *Economics and Methodology: Crossing Boundaries*, London: Palgrave Macmillan.
+* Backhouse, R. and S. Medema, 2009. “The Definition of Economics”, *Journal of Economic Perspectives*, 23(1): 221–33.
+* Backhouse, R. and P. Fontaine (eds.), 2010. *The Unsocial Social Science? Economics and Neighboring Disciplines since 1945*, Durham, NC: Duke University Press.
+* Backhouse, R.E. and B.W. Bateman, 2011. *Capitalist Revolutionary: John Maynard Keynes*, Cambridge and London: Harvard University Press.
+* Balzer, W. and B. Hamminga (eds.), 1989. *Philosophy of Economics*, Dordrecht: Kluwer-Nijhoff.
+* Bardsley, Nicholas and Robin Cubitt, 2009. *Experimental Economics: Rethinking the Rules*, Princeton, Princeton University Press.
+* Barker, D. and E. Kuiper (eds.), 2003. *Toward a Feminist Philosophy of Economics*, London: Routledge.
+* Bateman, B., 1990. “Keynes, Induction and Econometrics”, *History of Political Economy*, 22: 359–79.
+* Baumberger, J., 1977. “No Kuhnian Revolutions in Economics”, *Journal of Economic Issues*, 11: 1–20.
+* Bavetta, Sebastiano, Pietro Navarra, and Dario Maimone, 2014, *Freedom and the Pursuit of Happiness: An Economic and Political Perspective*, Cambridge: Cambridge University Press.
+* Bear, D. and D. Orr, 1967. “Logic and Expediency in Economic Theorizing”, *Journal of Political Economy*, 75: 188–96.
+* Becker, G., 1962. “Irrational Behavior and Economic Theory”, *Journal of Political Economy*, 70: 1–13.
+* –––, 1976. *The Economic Approach to Human Behavior*, Chicago: University of Chicago Press.
+* Beckert, J., 2016, *Imagined Futures: Fictional Expectations and Capitalist Dynamics*, Cambridge, MA: Harvard University Press.
+* Beed, C., 1991. “Philosophy of Science and Contemporary Economics”, *Journal of Post Keynesian Economics*, 13: 459–94.
+* Begg, D., 1982. *The Rational Expectations Revolution in Macroeconomics: Theories and Evidence*, Baltimore: Johns-Hopkins University Press.
+* Bell, D. and I. Kristol (eds.), 1981. *The Crisis in Economic Theory*, New York: Basic Books.
+* Ben-Ner, A. and L. Putterman (eds.), 1998. *Economics, Values and Organization*, Cambridge: Cambridge University Press.
+* Berger, L., 1989. “Economics and Hermeneutics”, *Economics and Philosophy*, 5: 209–34.
+* Bhaskar, R., M. Archer, A. Collier, T. Lawson, and A. Norrie (eds.), 1998. *Critical Realism*, London: Routledge.
+* Billings, D., 2016, *Introducing Economic Actualism*, 2nd edition, Bloomington, IN: Author House.
+* Binder, C., C. Heilmann, and J. Vromen, 2016. *The Future of the Philosophy of Economics*, London: Routledge.
+* Birks, S., 2015, *Rethinking Economics: From Analogies to the Real World*, New York: Springer.
+* Birner, J., 1990. *Strategies and Programmes in Capital Theory: A Contribution to the Methodology of Theory Development*, Ph.D. Dissertation, University of Amsterdam.
+* Blaug, M., 1975. *The Cambridge Revolution. Success or Failure*?, London: Institute of Economic Affairs.
+* –––, 1976. “Kuhn versus Lakatos *or*, Paradigms versus Research Programmes in the History of Economics”, in Latsis (ed.) 1976, pp. 149–80.
+* –––, 1980a. *The Methodology of Economics: Or How Economists Explain*, Cambridge: Cambridge University Press; Second Edition 1992.
+* –––, 1980b. *A Methodological Appraisal of Marxian Economics*, Amsterdam: North-Holland.
+* Blinder, A., 1974. “The Economics of Brushing Teeth”, *Journal of Political Economy*, 82: 887–91.
+* –––, 1990. “Learning by Asking Those Who are Doing”, *Eastern Economic Journal*, 16: 297–306.
+* Boehm, S. *et al* (eds.), 2002. *Is There Progress in Economics? Knowledge, Truth and the History of Economic Thought*, Cheltenham: Edward Elgar.
+* Boettke, P.J. (ed.), 2010. *Handbook on Contemporary Austrian Economics*, Cheltenham, UK and Northampton, MA: Elgar.
+* Boettke, P. and, C. Coyne, eds. 2015, *The Oxford Handbook of Austrian Economics*, New York: Oxford University Press.
+* Boland, L., 1979. “A Critique of Friedman’s Critics”, *Journal of Economic Literature*, 17: 503–22.
+* –––, 1982. *The Foundations of Economic Method*, London: George Allen & Unwin.
+* –––, 1989. *The Methodology of Economic Model Building: Methodology after Samuelson*, London: Routledge.
+* –––, 1992. *The Principles of Economics: Some Lies my Teachers Told Me*, London: Routledge.
+* –––, 1997. *Critical Economic Methodology: A Personal Odyssey*, London: Routledge.
+* –––, 2014. *Model Building in Economics: Its Purposes and Limitations*, New York: Cambridge University Press.
+* –––, 2017. *Equilibrium Models in Economics: Purposes and Critical Limitations*, New York: Oxford University Press.
+* Bonar, J., 1893. *Philosophy and Political Economy*, reprinted London: Allen & Unwin, 1967.
+* Boulding, K., 1970. *Economics as a Science*, New York: McGraw-Hill.
+* Boulier, B., 1991. “Pisces Economicus: The Fish as Economic Man”, *Economics and Philosophy*, 7: 83–86.
+* Boumans, M., 2015, *Science Outside the Laboratory. Measurement in Field Science and Economics*, Oxford: Oxford University Press.
+* Boumans, M. and J.B. Davis, 2015. *Economic Methodology: Understanding Economics as a Science*, 2nd edition, New York: Palgrave Macmillan.
+* Boylan, T. and P. O’Gorman, 1995. *Beyond Rhetoric and Realism in Economics: Towards a Reformulation of Economic Methodology*, London: Routledge.
+* Boylan, T. and P. O’Gorman (eds.), 2007. *Popper and Economic Methodology: Contemporary Challenges*, London: Routledge.
+* Branas–Garza, P. and A. Cabrales (eds.), 2015. *Experimental Economics*, 2 volumes, London: Macmillan.
+* Bray, J., 1977. “The Logic of Scientific Method in Economics”, *Journal of Economic Studies*, 4: 1–28.
+* Brennan J. and P. Jaworski, 2016. *Markets Without Limits: Moral Virtues and Commercial Interests*, London: Routledge.
+* Brennan, T., 1989. “A Methodological Assessment of Multiple Utility Frameworks”, *Economics and Philosophy*, 5: 189–208.
+* Bronfenbrenner, M., 1971. “The Structure of Revolutions in Economic Thought”, *History of Political Economy*, 3: 136–51.
+* Broome, J., 2012, *Climate Matters: Ethics in a Warming World*, New York: Norton.
+* Brousseau, E. and J. Glachant (eds.), 2008. *New Institutional Economics: A Guidebook*, Cambridge: Cambridge University Press.
+* Brown, Andrew and Steve Fleetwood, 2003. *Critical Realism and Marxism*, London: Routledge.
+* Bruni, L., 2012, *The Genesis and Ethos of the Market*, New York: Palgrave-Macmillan.
+* Brunner, K., 1969. “‘Assumptions’ and the Cognitive Quality of Theories”, *Synthese*, 20: 501–25.
+* Brzezinski, J., F. Coniglione, R. Kuipers, and L. Nowak (eds.), 1990. *Idealization I: General Problems* (Poznan Studies in the Philosophy of the Sciences and Humanities, Volumes 16), Amsterdam: Rodopi.
+* Buchanan, J., 1958. “*Ceteris Paribus*: Some Notes on Methodology”, *Southern Economic Journal*, 24: 259–70.
+* –––, 1975. *The Limits of Liberty: Between Anarchy and the Leviathan*, Chicago: University of Chicago Press.
+* –––, 1979. *What Should Economists Do*? Indianapolis: Liberty Press.
+* –––, 2007. *Economics from the Outside In: “Better than Plowing” and Beyond*, College Station: Texas A\&M University Press.
+* Buchanan, J. and V. Vanberg, 1979. “The Market as a Creative Process”, *Economics and Philosophy*, 7: 167–86.
+* Buechner, M.N., 2011. *Objective Economics: How Ayn Rand’s Philosophy Changes Everything about Economics*, Lanham, MD: Rowman and Littlefield.
+* Cairnes, J., 1875. *The Character and Logical Method of Political Economy*, 2nd edition, reprinted New York: A. M. Kelley, 1965.
+* Caldwell, B., 1982. *Beyond Positivism: Economic Methodology in the Twentieth Century*, London: Allen & Unwin.
+* –––, 1983. “The Neoclassical Maximization Hypothesis: Comment”, *American Economic Review*, 75: 824–7.
+* –––, 1990. “Does Methodology Matter? How Should It Be Practiced?” *Finnish Economic Papers*, 3: 64–71.
+* –––, 1991. “Clarifying Popper”, *Journal of Economic Literature*, 29: 1–33.
+* Caldwell, B. (ed.), 1984. *Appraisal and Criticism in Economics*, London: Allen & Unwin.
+* ––– (ed.), 1993. *The Philosophy and Methodology of Economics*, Cheltenham: Edward Elgar.
+* Camerer, C., 2003. *Behavioral Game Theory: Experiments in Strategic Interaction*, Princeton: Princeton University Press.
+* –––, 2007. “Neuroeconomics: Using Neuroscience to Make Economic Predictions”, *Economic Journal*, 117: C26–42.
+* Camerer, C., G. Loewenstein, and M. Rabin (eds.), 2003. *Advances in Behavioral Economics*, Princeton: Princeton University Press.
+* Camerer, C., G. Loewenstein and D. Prelec, 2005. “Neuroeconomics: How Neuroscience Can Inform Economics”, *Journal of Economic Literature*, 43: 9–64.
+* Camerer, C., J. Cohen, E. Fehr, P. Glimcher, D. Laibson, G. Loewenstein, and R. Montague, 2008. “Neuroeconomics”, in J. Kagel and A. Roth (eds.), *The Handbook of Experimental Economics*, Princeton: Princeton University Press, 2nd edition.
+* Camerer, C. and G. Loewenstein (eds.), 2013. *Advances in Behavioral Economics*, Princeton: Princeton University Press.
+* Caplin, A. and A. Schotter (eds.), 2008. *Handbook of Economic Methodology*, New York: Oxford University Press.
+* Carpenter, Jeffrey, Glenn Harrison, and John List (eds.), 2005. *Research in Experimental Economics*, Bingley, UK: Emerald Publishing.
+* Carter, M. and R. Maddock, 1984. *Rational Expectations: Macroeconomics for the 1980s*? London: Macmillan.
+* Chipman, J., 1965. “The Nature and Meaning of Equilibrium in Economic Theory”, in D. Martindale (ed.), *Functionalism in the Social Sciences: The Strength and Limits of Functionalism in Anthropology, Economics, Political Science and Sociology*, Philadelphia: American Academy of Political and Social Science, pp. 35–64.
+* Clark, Andrew and Sarah Flèche, 2018. *The Origins of Happiness: The Science of Well-Being over the Life Course*, Princeton: Princeton University Press.
+* Clift, E.M. (ed.), 2008. *How Language Is Used to Do Business: Essays on the Rhetoric of Economics*, Lewiston, NY and Queenston, Ont.: Edwin Mellen Press.
+* Coase, R., 1960. “The Problem of Social Cost”, *Journal of Law and Economics*, 3: 1–30.
+* Coats, A., 1969. “Is There a ‘Structure of Scientific Revolutions’ in Economics?” *Kyklos*, 22: 289–94.
+* –––, 1982. “The Methodology of Economics: Some Recent Contributions”, *Kylos*, 35: 310–21.
+* Coddington, A., 1972. “Positive Economics”, *Canadian Journal of Economics*, 5: 1–15.
+* Coddington, A., 1975. “The Rationale of General Equilibrium Theory”, *Economic Inquiry*, 13: 539–58.
+* Cohen, I., N. Daniels, and N.Eyal (eds.), 2015,*Identified Versus Statistical Lives: An Interdisciplinary Perspective*, New York: Oxford University Press.
+* Colander, D. and A. Klamer, 1987. “The Making of An Economist”, *Journal of Economic Perspectives*, 1: 95–112.
+* Cole, K., J. Cameron, and C. Edwards, 1991. *What Economists Disagree*, 2nd ed. London: Longmans.
+* Coleman, J., 1984. “Economics and the Law: A Critical Review of the Foundations of the Economic Approach to Law”, *Ethics*, 94: 649–79.
+* Collins, H., 1991. “The Meaning of Replication and the Science of Economics”, *History of Political Economy*, 23: 123–42.
+* Cook, S.J., 2009. *The Intellectual Foundation of Alfred Marshall’s Economic Science: A Rounded Globe of Knowledge*, Cambridge: Cambridge University Press.
+* Cooter, R. and P. Rappoport, 1984. “Were the Ordinalists Wrong About Welfare Economics?” *Journal of Economic Literature*, 22: 507–30.
+* Coyne, C. and V. Storr (eds.), 2015. *New Thinking in Austrian Political Economy*, Bingley, UK: Emerald Publishing.
+* Crespo, R., 2013. *Philosophy of the Economy: An Aristotelian Approach*, New York: Springer.
+* Cross, R., 1982. “The Duhem-Quine Thesis, Lakatos and the Appraisal of Theories in Macroeconomics”, *Economic Journal*, 92: 320–40.
+* Cullenberg, S., J. Amariglio, and F. Ruccio (eds.), 2001. *Postmodernism, Economics, and Knowledge*, London: Routledge.
 * Cyert, R., and E. Grunberg, 1963. “Assumption, Prediction and Explanation in Economics”, in Cyert and March 1963, pp. 298–311.
-* Cyert, R. and G. Pottinger, 1979. “Towards a Better Micro-economic Theory”, _Philosophy of Science_, 46: 204–22.
-* Danner, P., 2002. _The Economic Person_, Lanham, MD: Rowman and Littlefield.
-* D’Autume, A. and J. Cartelier (eds.), 1997. _Is Economics Becoming a Hard Science?_, Cheltenham: Edward Elgar.
-* Davies, William, 2015. _The Happiness Industry: How the Government and Big Business Sold us Well-Being_, London: Verso.
-* Davis, J., 2003. _The Theory of the Individual in Economics: Identity and Value_, London: Routledge.
-* –––, 2011. _Individuals and Identity in Economics_, Cambridge: Cambridge University Press.
-* Davis, J. (ed.), 2006. _Recent Developments in Economic Methodology_, Cheltenham: Edward Edgar.
-* Davis, J. and M. Boumans, 2010. _Economic Methodology: Understanding Economics as a Science_, London: Palgrave.
-* Davis, J. and D. Wade Hands (eds.), 2011. _The Elgar Companion to Recent Economic Methodology_, Cheltenham: Edward Elgar.
-* –––, 2015. _Reflexivity and Economics: George Soros’s theory of reflexivity and the methodology of economic science_, London: Routledge.
-* Davis, J., D. Wade Hands, and Uskali Mäki (eds.), 1998. _The Handbook of Economic Methodology_, Cheltenham: Edward Elgar.
-* Davis, J., A. Marciano, and J. Runde (eds.), 2004. _The Elgar Companion to Economic and Philosophy_, Cheltenham: Edward Elgar.
-* De Alessi, L., 1971. “Reversals of Assumptions and Implications”, _Journal of Political Economy_, 79: 867–77.
-* Deaton, A., 2010. “Instruments, Randomization, and Learning about Development”, _Journal of Economic Literature_, 48: 424–55.
-* Debreu, G., 1959. _Theory of Value_, New York: Wiley.
-* Dekker, E., 2016, _The Viennese Students of Civilization: The Meaning and Context of Austrian Economics Reconsidered_, New York: Cambridge University Press.
-* Delorme, R., 2010. _Deep Complexity and the Social Sciences: Experience, Modelling and Operationality_ (New Horizons in Institutional and Evolutionary Economics), Northampton, MA and Cheltenham, UK: Elgar.
-* de Marchi, N., 1970. “The Empirical Content and Longevity of Ricardian Economics”, _Economica_, 37: 257–76.
-* de Marchi, N. (ed.), 1988. _The Popperian Legacy in Economics_, Cambridge: Cambridge University Press.
-* ––– (ed.), 1992. _Post-Popperian Methodology of Economics: Recovering Practice_, Boston: Kluwer.
-* De Marchi, D. and M. Blaug (eds.), 1991. _Appraising Modern Economics: Studies in the Methodology of Scientific Research Programs_, Cheltenham: Edward Elgar.
-* DeVroey, M., 1990. “The Base Camp Paradox: A Reflection the the Place of Tâtonnement in General Equilibrium Theory”, _Economics and Philosophy_, 6: 235–54.
-* Diesing, P., 1982. _Science and Ideology in the Policy Sciences_, New York: Aldine.
-* Dietrich, F. and C. List, 2016. “Mentalism versus Behaviourism in Economics: A Philosophy-of-Science Perspective”, _Economics and Philosophy_, 32: 249–82
-* Dietsch, P., 2015, _Catching Capital: The Ethics of Tax Competition_, Oxford: Oxford University Press.
-* Dillard, D., 1978. “Revolutions in Economic Theory”, _Southern Economic Journal_, 44: 705–24.
-* Dolan, E. (ed.), 1976. _The Foundations of Modern Austrian Economics_, Kansas City: Sheed & Ward.
-* Dolan, Paul and Daniel Kahneman, 2014. _Happiness by Design: Change What You Do, Not How You Think_ New York: Avery Press.
-* Dopfer, K. and J. Potts, 2008. _The General Theory of Economic Evolution_, New York: Routledge.
-* ––– (eds.), 2014, _The New Evolutionary Economics_, 3 volumes, Cheltenham, U.K.: Elgar.
-* Dow, S., 1985. _Macroeconomic Thought: A Methodology Approach_, Oxford: Blackwell.
-* –––, 2002. _Economic Methodology: An Inquiry_, Oxford: Oxford University Press.
-* –––, 2012. _Foundations for New Economic Thinking_, London: Palgrave Macmillan.
-* Duflo, Esther and Abhijit Banerjee, 2011, _Poor Economics,_ New York: Public Affairs.
+* Cyert, R. and G. Pottinger, 1979. “Towards a Better Micro-economic Theory”, *Philosophy of Science*, 46: 204–22.
+* Danner, P., 2002. *The Economic Person*, Lanham, MD: Rowman and Littlefield.
+* D’Autume, A. and J. Cartelier (eds.), 1997. *Is Economics Becoming a Hard Science?*, Cheltenham: Edward Elgar.
+* Davies, William, 2015. *The Happiness Industry: How the Government and Big Business Sold us Well-Being*, London: Verso.
+* Davis, J., 2003. *The Theory of the Individual in Economics: Identity and Value*, London: Routledge.
+* –––, 2011. *Individuals and Identity in Economics*, Cambridge: Cambridge University Press.
+* Davis, J. (ed.), 2006. *Recent Developments in Economic Methodology*, Cheltenham: Edward Edgar.
+* Davis, J. and M. Boumans, 2010. *Economic Methodology: Understanding Economics as a Science*, London: Palgrave.
+* Davis, J. and D. Wade Hands (eds.), 2011. *The Elgar Companion to Recent Economic Methodology*, Cheltenham: Edward Elgar.
+* –––, 2015. *Reflexivity and Economics: George Soros’s theory of reflexivity and the methodology of economic science*, London: Routledge.
+* Davis, J., D. Wade Hands, and Uskali Mäki (eds.), 1998. *The Handbook of Economic Methodology*, Cheltenham: Edward Elgar.
+* Davis, J., A. Marciano, and J. Runde (eds.), 2004. *The Elgar Companion to Economic and Philosophy*, Cheltenham: Edward Elgar.
+* De Alessi, L., 1971. “Reversals of Assumptions and Implications”, *Journal of Political Economy*, 79: 867–77.
+* Deaton, A., 2010. “Instruments, Randomization, and Learning about Development”, *Journal of Economic Literature*, 48: 424–55.
+* Debreu, G., 1959. *Theory of Value*, New York: Wiley.
+* Dekker, E., 2016, *The Viennese Students of Civilization: The Meaning and Context of Austrian Economics Reconsidered*, New York: Cambridge University Press.
+* Delorme, R., 2010. *Deep Complexity and the Social Sciences: Experience, Modelling and Operationality* (New Horizons in Institutional and Evolutionary Economics), Northampton, MA and Cheltenham, UK: Elgar.
+* de Marchi, N., 1970. “The Empirical Content and Longevity of Ricardian Economics”, *Economica*, 37: 257–76.
+* de Marchi, N. (ed.), 1988. *The Popperian Legacy in Economics*, Cambridge: Cambridge University Press.
+* ––– (ed.), 1992. *Post-Popperian Methodology of Economics: Recovering Practice*, Boston: Kluwer.
+* De Marchi, D. and M. Blaug (eds.), 1991. *Appraising Modern Economics: Studies in the Methodology of Scientific Research Programs*, Cheltenham: Edward Elgar.
+* DeVroey, M., 1990. “The Base Camp Paradox: A Reflection the the Place of Tâtonnement in General Equilibrium Theory”, *Economics and Philosophy*, 6: 235–54.
+* Diesing, P., 1982. *Science and Ideology in the Policy Sciences*, New York: Aldine.
+* Dietrich, F. and C. List, 2016. “Mentalism versus Behaviourism in Economics: A Philosophy-of-Science Perspective”, *Economics and Philosophy*, 32: 249–82
+* Dietsch, P., 2015, *Catching Capital: The Ethics of Tax Competition*, Oxford: Oxford University Press.
+* Dillard, D., 1978. “Revolutions in Economic Theory”, *Southern Economic Journal*, 44: 705–24.
+* Dolan, E. (ed.), 1976. *The Foundations of Modern Austrian Economics*, Kansas City: Sheed & Ward.
+* Dolan, Paul and Daniel Kahneman, 2014. *Happiness by Design: Change What You Do, Not How You Think* New York: Avery Press.
+* Dopfer, K. and J. Potts, 2008. *The General Theory of Economic Evolution*, New York: Routledge.
+* ––– (eds.), 2014, *The New Evolutionary Economics*, 3 volumes, Cheltenham, U.K.: Elgar.
+* Dow, S., 1985. *Macroeconomic Thought: A Methodology Approach*, Oxford: Blackwell.
+* –––, 2002. *Economic Methodology: An Inquiry*, Oxford: Oxford University Press.
+* –––, 2012. *Foundations for New Economic Thinking*, London: Palgrave Macmillan.
+* Duflo, Esther and Abhijit Banerjee, 2011, *Poor Economics,* New York: Public Affairs.
 * Duflo, Esther and Abhijit Banerjee, 2017, \*Handbook of Field Experiments,\*Amsterdam: North-Holland.
-* Dugger, W., 1979. “Methodological Differences between Institutional and Neoclassical Economics”, _Journal of Economic Issues_, 13: 899–909.
-* Durlauf, Steven and Lawrence Blume (eds.), 2009, _Behavioural and Experimental Economics_, London: Macmillan.
-* Dyke, C., 1981. _Philosophy of Economics_, Englewood Cliffs, NJ: Prentice-Hall.
-* Edwards, P., J. Mahoney, and S. Vincent (eds.), 2014,_Studying Organizations Using Critical Realism: A Practical Guide_, Oxford: Oxford University Press.
-* Eichner, A., 1983. “Why Economics Is not yet a Science”, in A. Eichner (ed.), _Why Economics Is not yet a Science_, Armonk, NY: M.E. Sharpe, pp. 205–41.
-* Elster, J., 1985. _Making Sense of Marx_, Cambridge: Cambridge University Press.
-* Elster, J. and J. Roemer (eds.), 1991. _Interpersonal Comparisons of Well-Being_, Cambridge: Cambridge University Press.
-* Engle, R., D. Hendry, and J. Richard, 1983. “Exogeneity”, _Econometrica_, 51: 277–304.
-* Engelskirchen, H., 2011. _Capital as a Social Kind: Definitions and Transformations in the Critique of Political Economy_, New York: Routledge.
-* Epstein, Brian, 2015, _The Ant Trap: Rebuilding the Foundations of the Social Sciences_, New York: Oxford University Press.
-* Etzioni, A., 1988. _The Moral Dimension. Toward a New Economics_, New York: Macmillan.
-* –––, 2018, _Happiness is the Wrong Metric: A Liberal Communitarian Response to Populism_, New York: Springer.
-* Fama, E., 1980. “Agency Problems and the Theory of the Firm”, _Journal of Political Economy_, 88: 288–307.
-* Ferber, M. and J. Nelson (eds.), 2003. _Feminist Economics Today: Beyond Economic Man_, Chicago: University of Chicago Press.
-* Fisher, R., 1986. _The Logic of Economic Discovery: Neoclassical Economics and the Marginal Revolution_, New York: New York University Press.
-* Fleetwood, S. (ed.), 1999. _Critical Realism in Economics: Development and Debate_, London: Routledge.
-* Foldvary, F. (ed.), 1996. _Beyond Neoclassical Economics: Heterodox Approaches to Economic Theory_, Cheltenham: Edward Elgar.
-* Fox, G., 1997. _Reason and Reality in the Methodologies of Economics_, Cheltenham: Edward Elgar.
-* Frank, R., 1988. _Passions within Reason: The Strategic Role of the Emotions_, New York: W. W. Norton.
-* Frankfurter, G. and E. McGoun (eds.), 2002. _From Individualism to the Individual: Ideology and Inquiry in Financial Economics_, Aldershot: Ashgate.
-* Fraser, L., 1937. _Economic Thought and Language. A Critique of Some Fundamental Concepts_, London: A & C Black.
-* Freedman, C.F., 2008. _Chicago Fundamentalism: Ideology and Methodology in Economics_, Hackensack, NJ: World Scientific.
-* Frey, B., 1999. _Economics as a Science of Human Behaviour: Towards a New Social Science Paradigm_, 2nd edition, Dordrecht: Kluwer.
-* –––, 2010. _Happiness: A Revolution in Economics_, Cambridge: MA: MIT Press.
-* –––, 2018. _Economics of Happiness_, New York: Springer
-* Fréchette, Guillaume and Andrew Schotter, 2015. _Handbook of Experimental Economic Methodology_, Oxford: Oxford University Press.
-* Friedman, M., 1953. “The Methodology of Positive Economics”, _Essays in Positive Economics_, Chicago: University of Chicago Press, pp. 3–43.
-* –––, 1970. “Leon Walras and His Economic System”, in I. Rima (ed.), _Readings in the History of Economic Theory_, New York: Holt, Rinehart & Winston, pp. 145–53.
-* Fullbrook, E., 2004. _A Guide to What’s Wrong with Economics_, New York: Anthem Press.
-* Fullbrook, E. (ed.), 2001. _Intersubjectivity in Economics: Agents and Structures_, London: Routledge.
-* ––– (ed.), 2003. _The Crisis in Economics_, London: Routledge.
-* ––– (ed.), 2009. _Ontology and Economics: Tony Lawson and His Critics_, New York: Routledge.
-* Furubotn, E.G. and R. Richter (eds.), 2010. _The New Institutional Economics of Markets_, Cheltenham, UK and Northampton, MA: Elgar.
-* Gani, M., 2003. _Foundations of Economic Science_, Dhaka, Bangladesh and Ontario: Scholars.
-* Gaus, G., 2008. _On Philosophy, Politics, and Economics_, Belmont, CA: Wadsworth.
-* Gay, D., 2009. _Reflexivity and Development Economics: Methodology, Policy and Practice_, New York: St. Martin’s Press, Palgrave Macmillan.
-* George, D. (ed.), 2007. _Issues in Heterodox Economics_, _Journal of Economic Surveys_, Volume 21, No. 3, Malden, MA and Oxford: Blackwell.
-* Gerrard, B., 1990. “On Matters Methodological in Economics: Review Article”, _Journal of Economic Surveys_, 4: 197–219.
-* –––, 1995. “The Scientific Basis of Economics: A Review of the Methodological Debates in Economics and Econometrics”, _Scottish Journal of Political Economy_, 42: 201–20.
-* Georgescu-Roegen, N., 1979. “Methods in Economic Science”, _Journal of Economic Issues_, 13: 317–28.
-* Geweke, J., 1982. “Causality, Exogeneity and Inference”, in W. Hildenbrand (ed.), _Advances in Econometrics_, Cambridge: Cambridge University Press.
-* Gibbard, A. and H. Varian, 1978. “Economic Models”, _Journal of Philosophy_, 75: 664–77.
-* Giocoli, Nicola, 2003. _Modeling Rational Agents: From Interwar Economics to Early Modern Game Theory_, Cheltenham: Edward Elgar.
-* Glimcher, P., 2010. _Foundations of Neuroeconomic Analysis._ New York: Oxford University Press.
-* Glimcher, P., C. Camerer, R. Poldrack, and E. Fehr (eds.), 2009. _Neuroeconomics: Decision Making and the Brain_, Amsterdam: Elsevier.
-* Glimcher, P. and E. Fehr (eds.), 2013. _Neuroeconomics_, second edition, New York: Academic Press.
-* Gonzalez, W., 2008. _Scientific Prediction and Economics: A Philosophical Analysis_, Pittsburgh: University of Pittsburgh Press.
-* Gordon, D., 1955. “Operational Propositions in Economic Theory”, _Journal of Political Economy_, 63: 150–61.
-* Granger, C., 1969. “Investigating Causal Relations by Econometric Models and Cross-Spectral Methods”, _Econometrica_, 37: 424–38.
-* –––, 1980. “Testing for Causality: A Personal Viewpoint”, _Journal of Economic Dynamics and Control_, 2: 329–52.
-* Granovetter, M., 1985. “Economics and Social Structure: The Problem of Embeddedness”, _American Journal of Sociology_ 91: 481–510.
-* Grapard, U. and G. Hewitson (eds.), 2011. _Robinson Crusoe’s Economic Man: A Construction and Deconstruction_, New York: Routledge.
+* Dugger, W., 1979. “Methodological Differences between Institutional and Neoclassical Economics”, *Journal of Economic Issues*, 13: 899–909.
+* Durlauf, Steven and Lawrence Blume (eds.), 2009, *Behavioural and Experimental Economics*, London: Macmillan.
+* Dyke, C., 1981. *Philosophy of Economics*, Englewood Cliffs, NJ: Prentice-Hall.
+* Edwards, P., J. Mahoney, and S. Vincent (eds.), 2014,*Studying Organizations Using Critical Realism: A Practical Guide*, Oxford: Oxford University Press.
+* Eichner, A., 1983. “Why Economics Is not yet a Science”, in A. Eichner (ed.), *Why Economics Is not yet a Science*, Armonk, NY: M.E. Sharpe, pp. 205–41.
+* Elster, J., 1985. *Making Sense of Marx*, Cambridge: Cambridge University Press.
+* Elster, J. and J. Roemer (eds.), 1991. *Interpersonal Comparisons of Well-Being*, Cambridge: Cambridge University Press.
+* Engle, R., D. Hendry, and J. Richard, 1983. “Exogeneity”, *Econometrica*, 51: 277–304.
+* Engelskirchen, H., 2011. *Capital as a Social Kind: Definitions and Transformations in the Critique of Political Economy*, New York: Routledge.
+* Epstein, Brian, 2015, *The Ant Trap: Rebuilding the Foundations of the Social Sciences*, New York: Oxford University Press.
+* Etzioni, A., 1988. *The Moral Dimension. Toward a New Economics*, New York: Macmillan.
+* –––, 2018, *Happiness is the Wrong Metric: A Liberal Communitarian Response to Populism*, New York: Springer.
+* Fama, E., 1980. “Agency Problems and the Theory of the Firm”, *Journal of Political Economy*, 88: 288–307.
+* Ferber, M. and J. Nelson (eds.), 2003. *Feminist Economics Today: Beyond Economic Man*, Chicago: University of Chicago Press.
+* Fisher, R., 1986. *The Logic of Economic Discovery: Neoclassical Economics and the Marginal Revolution*, New York: New York University Press.
+* Fleetwood, S. (ed.), 1999. *Critical Realism in Economics: Development and Debate*, London: Routledge.
+* Foldvary, F. (ed.), 1996. *Beyond Neoclassical Economics: Heterodox Approaches to Economic Theory*, Cheltenham: Edward Elgar.
+* Fox, G., 1997. *Reason and Reality in the Methodologies of Economics*, Cheltenham: Edward Elgar.
+* Frank, R., 1988. *Passions within Reason: The Strategic Role of the Emotions*, New York: W. W. Norton.
+* Frankfurter, G. and E. McGoun (eds.), 2002. *From Individualism to the Individual: Ideology and Inquiry in Financial Economics*, Aldershot: Ashgate.
+* Fraser, L., 1937. *Economic Thought and Language. A Critique of Some Fundamental Concepts*, London: A & C Black.
+* Freedman, C.F., 2008. *Chicago Fundamentalism: Ideology and Methodology in Economics*, Hackensack, NJ: World Scientific.
+* Frey, B., 1999. *Economics as a Science of Human Behaviour: Towards a New Social Science Paradigm*, 2nd edition, Dordrecht: Kluwer.
+* –––, 2010. *Happiness: A Revolution in Economics*, Cambridge: MA: MIT Press.
+* –––, 2018. *Economics of Happiness*, New York: Springer
+* Fréchette, Guillaume and Andrew Schotter, 2015. *Handbook of Experimental Economic Methodology*, Oxford: Oxford University Press.
+* Friedman, M., 1953. “The Methodology of Positive Economics”, *Essays in Positive Economics*, Chicago: University of Chicago Press, pp. 3–43.
+* –––, 1970. “Leon Walras and His Economic System”, in I. Rima (ed.), *Readings in the History of Economic Theory*, New York: Holt, Rinehart & Winston, pp. 145–53.
+* Fullbrook, E., 2004. *A Guide to What’s Wrong with Economics*, New York: Anthem Press.
+* Fullbrook, E. (ed.), 2001. *Intersubjectivity in Economics: Agents and Structures*, London: Routledge.
+* ––– (ed.), 2003. *The Crisis in Economics*, London: Routledge.
+* ––– (ed.), 2009. *Ontology and Economics: Tony Lawson and His Critics*, New York: Routledge.
+* Furubotn, E.G. and R. Richter (eds.), 2010. *The New Institutional Economics of Markets*, Cheltenham, UK and Northampton, MA: Elgar.
+* Gani, M., 2003. *Foundations of Economic Science*, Dhaka, Bangladesh and Ontario: Scholars.
+* Gaus, G., 2008. *On Philosophy, Politics, and Economics*, Belmont, CA: Wadsworth.
+* Gay, D., 2009. *Reflexivity and Development Economics: Methodology, Policy and Practice*, New York: St. Martin’s Press, Palgrave Macmillan.
+* George, D. (ed.), 2007. *Issues in Heterodox Economics*, *Journal of Economic Surveys*, Volume 21, No. 3, Malden, MA and Oxford: Blackwell.
+* Gerrard, B., 1990. “On Matters Methodological in Economics: Review Article”, *Journal of Economic Surveys*, 4: 197–219.
+* –––, 1995. “The Scientific Basis of Economics: A Review of the Methodological Debates in Economics and Econometrics”, *Scottish Journal of Political Economy*, 42: 201–20.
+* Georgescu-Roegen, N., 1979. “Methods in Economic Science”, *Journal of Economic Issues*, 13: 317–28.
+* Geweke, J., 1982. “Causality, Exogeneity and Inference”, in W. Hildenbrand (ed.), *Advances in Econometrics*, Cambridge: Cambridge University Press.
+* Gibbard, A. and H. Varian, 1978. “Economic Models”, *Journal of Philosophy*, 75: 664–77.
+* Giocoli, Nicola, 2003. *Modeling Rational Agents: From Interwar Economics to Early Modern Game Theory*, Cheltenham: Edward Elgar.
+* Glimcher, P., 2010. *Foundations of Neuroeconomic Analysis.* New York: Oxford University Press.
+* Glimcher, P., C. Camerer, R. Poldrack, and E. Fehr (eds.), 2009. *Neuroeconomics: Decision Making and the Brain*, Amsterdam: Elsevier.
+* Glimcher, P. and E. Fehr (eds.), 2013. *Neuroeconomics*, second edition, New York: Academic Press.
+* Gonzalez, W., 2008. *Scientific Prediction and Economics: A Philosophical Analysis*, Pittsburgh: University of Pittsburgh Press.
+* Gordon, D., 1955. “Operational Propositions in Economic Theory”, *Journal of Political Economy*, 63: 150–61.
+* Granger, C., 1969. “Investigating Causal Relations by Econometric Models and Cross-Spectral Methods”, *Econometrica*, 37: 424–38.
+* –––, 1980. “Testing for Causality: A Personal Viewpoint”, *Journal of Economic Dynamics and Control*, 2: 329–52.
+* Granovetter, M., 1985. “Economics and Social Structure: The Problem of Embeddedness”, *American Journal of Sociology* 91: 481–510.
+* Grapard, U. and G. Hewitson (eds.), 2011. *Robinson Crusoe’s Economic Man: A Construction and Deconstruction*, New York: Routledge.
 * Green, E., 1981. “On the Role of Fundamental Theory in Positive Economics”, in Pitt 1981, pp. 5–15.
-* Grönkvist, U., 1992. _Economic Methodology: Patterns of Reasoning and the Structure of Theories_, Lund: University of Lund.
-* Grossbard-Shechtman, S. and C. Clague (eds.), 2002. _The Expansion of Economics: Toward a more Inclusive Social Science_, Armonk, N.Y.: M. E. Sharpe.
-* Grundberg, E., 1978. “‘Complexity’ and ‘Open Systems’ in Economic Discourse”, _Journal of Economic Issues_, 12: 541–60.
-* Grüne-Yanoff, T., 2009. “Learning from Minimal Economic Models”, _Erkenntnis_, 70: 81–99.
-* Guala, F., 2000a. “Artefacts in Experimental Economics: Preference Reversals and the Becker-DeGroot-Marschak Mechanism”, _Economics and Philosophy_, 16: 47–75.
-* –––, 2000b. “The Logic of Normative Falsification: Rationality and Experiments in Decision Theory”, _Journal of Economic Methodology_, 7: 59–93.
-* –––, 2005. _The Methodology of Experimental Economics_, Cambridge: Cambridge University Press.
-* –––, 2016. _Understanding Institutions: The Science and Philosophy of Living Together_, Princeton: Princeton University Press.
-* Gugerty, Mary Kay and Dean Karlan, 2018. _The Goldilocks Challenge: Right-Fit Evidence for the Social Sector_, Oxford: Oxford University Press.
+* Grönkvist, U., 1992. *Economic Methodology: Patterns of Reasoning and the Structure of Theories*, Lund: University of Lund.
+* Grossbard-Shechtman, S. and C. Clague (eds.), 2002. *The Expansion of Economics: Toward a more Inclusive Social Science*, Armonk, N.Y.: M. E. Sharpe.
+* Grundberg, E., 1978. “‘Complexity’ and ‘Open Systems’ in Economic Discourse”, *Journal of Economic Issues*, 12: 541–60.
+* Grüne-Yanoff, T., 2009. “Learning from Minimal Economic Models”, *Erkenntnis*, 70: 81–99.
+* Guala, F., 2000a. “Artefacts in Experimental Economics: Preference Reversals and the Becker-DeGroot-Marschak Mechanism”, *Economics and Philosophy*, 16: 47–75.
+* –––, 2000b. “The Logic of Normative Falsification: Rationality and Experiments in Decision Theory”, *Journal of Economic Methodology*, 7: 59–93.
+* –––, 2005. *The Methodology of Experimental Economics*, Cambridge: Cambridge University Press.
+* –––, 2016. *Understanding Institutions: The Science and Philosophy of Living Together*, Princeton: Princeton University Press.
+* Gugerty, Mary Kay and Dean Karlan, 2018. *The Goldilocks Challenge: Right-Fit Evidence for the Social Sector*, Oxford: Oxford University Press.
 * Gul, F. and W. Pesandorfer, 2008. “The Case for Mindless Economics”, in Caplin and Schotter (eds.) 2008, pp. 3–39.
-* Gurak, H., 2018, _Economic Growth and Development 2: Complementary Articles in the Pursuit of Economic Realities_, Frankfurt am Main: Peter Lang.
-* Gustafsson, B., C. Knudsen, and U. Mäki (eds.), 1993. _Rationality, Institutions and Economic Methodology_, London: Routledge.
-* Haavelmo, T., 1944. “The Probability Approach in Econometrics”, _Econometrica_, 12 (Supplement): 1–118.
-* Hahn, F., 1973. “The Winter of Our Discontent”, _Economica_, 40: 322–30.
-* Hagedorn, H., 2015, _A Model of Austrian Economics_, Wiesbaden: Springer Gabler.
-* Hahn, F. and M. Hollis (eds.), 1979. _Philosophy and Economic Theory_, Oxford: Oxford University Press.
-* Hall, R. and C. Hitch, 1939. “Price Theory and Business Behaviour”, _Oxford Economic Papers_, 2: 12–45.
-* Hamminga, B., 1983. _Neoclassical Theory Structure and Theory Development: An Empirical-Philosophical Case Study Concerning the Theory of International Trade_, Boston: Springer.
-* Hamminga, B. and N. DeMarchi (eds.), 1994. _Idealization in Economics_, Amsterdam: Rodopi.
-* Hammond, J.D., 1991. “Frank Knight’s Antipositivism”, _History of Political Economy_, 23: 355–81.
+* Gurak, H., 2018, *Economic Growth and Development 2: Complementary Articles in the Pursuit of Economic Realities*, Frankfurt am Main: Peter Lang.
+* Gustafsson, B., C. Knudsen, and U. Mäki (eds.), 1993. *Rationality, Institutions and Economic Methodology*, London: Routledge.
+* Haavelmo, T., 1944. “The Probability Approach in Econometrics”, *Econometrica*, 12 (Supplement): 1–118.
+* Hahn, F., 1973. “The Winter of Our Discontent”, *Economica*, 40: 322–30.
+* Hagedorn, H., 2015, *A Model of Austrian Economics*, Wiesbaden: Springer Gabler.
+* Hahn, F. and M. Hollis (eds.), 1979. *Philosophy and Economic Theory*, Oxford: Oxford University Press.
+* Hall, R. and C. Hitch, 1939. “Price Theory and Business Behaviour”, *Oxford Economic Papers*, 2: 12–45.
+* Hamminga, B., 1983. *Neoclassical Theory Structure and Theory Development: An Empirical-Philosophical Case Study Concerning the Theory of International Trade*, Boston: Springer.
+* Hamminga, B. and N. DeMarchi (eds.), 1994. *Idealization in Economics*, Amsterdam: Rodopi.
+* Hammond, J.D., 1991. “Frank Knight’s Antipositivism”, *History of Political Economy*, 23: 355–81.
 * –––, 1992. “An Interview with Milton Friedman on Methodology”, in Samuels (ed.) 1992, pp. 91–118.
-* Händler, E., 1980. “The Logical Structure of Modern Neoclassical Static Microeconomic Equilibrium Theory”, _Erkenntnis_, 15: 33–53.
-* Hands, D. W., 1985a. “Karl Popper and Economic Methodology”, _Economics and Philosophy_, 1: 83–100.
-* –––, 1985b. “Second Thoughts on Lakatos”, _History of Political Economy_, 17: 1–16.
-* –––, 1985c. “The Structuralist View of Economic Theories: The Case of General Equilibrium in Particular”, _Economics and Philosophy_, 1: 303–36.
+* Händler, E., 1980. “The Logical Structure of Modern Neoclassical Static Microeconomic Equilibrium Theory”, *Erkenntnis*, 15: 33–53.
+* Hands, D. W., 1985a. “Karl Popper and Economic Methodology”, *Economics and Philosophy*, 1: 83–100.
+* –––, 1985b. “Second Thoughts on Lakatos”, *History of Political Economy*, 17: 1–16.
+* –––, 1985c. “The Structuralist View of Economic Theories: The Case of General Equilibrium in Particular”, *Economics and Philosophy*, 1: 303–36.
 * –––, 1988. “Ad Hocness in Economics and the Popperian Tradition”, in de Marchi (1988), pp. 121–39.
-* –––, 1992. _Testing, Rationality and Progress_, Totowa, NJ: Rowman and Littlefield.
-* –––, 1995. “Social Epistemology Meets the Invisible Hand: Kitcher on the Advancement of Science”, _Dialogue_, 34: 605–21.
-* –––, 2001. _Reflection Without Rules: Economic Methodology and Contemporary Science Theory_, Cambridge: Cambridge University Press.
-* Hands, D.W. and P. Mirowski, 1998. “Harold Hotelling and the Neoclassical Dream”, in Backhouse _et al_. (eds.) 1998, pp. 322–397.
-* Harcourt, G. and P. Kriesler (eds.), 2013. _The Oxford Handbook of Post-Keynesian Economics_ (Volume 2: Critiques and Methodology), Oxford: Oxford University Press.
-* Hardt, L., 2017. _Economics without Laws: Toward a New Philosophy of Economics_, Cham, Switzerland: Palgrave Macmillan.
-* Harrod, R., 1938. “Scope and Method of Economics”, _Economic Journal_, 48: 383–412.
-* Hausman, D., 1981. _Capital, Profits, and Prices: An Essay in the Philosophy of Economics_, New York: Columbia University Press.
-* –––, 1983. “Are There Causal Relations Among Dependent Variables?” _Philosophy of Science_, 50: 58–81.
-* –––, 1990. “Supply and Demand Explanations and their _Ceteris Paribus_, Clauses”, _Review of Political Economy_, 2: 168–86.
-* –––, 1992a. _Essays on Philosophy and Economic Methodology_, Cambridge: Cambridge University Press.
-* –––, 1992b. _The Inexact and Separate Science of Economics_, Cambridge: Cambridge University Press.
-* –––, 1998. “Problems with Realism in Economics”, _Economics and Philosophy_, 14: 185–213.
+* –––, 1992. *Testing, Rationality and Progress*, Totowa, NJ: Rowman and Littlefield.
+* –––, 1995. “Social Epistemology Meets the Invisible Hand: Kitcher on the Advancement of Science”, *Dialogue*, 34: 605–21.
+* –––, 2001. *Reflection Without Rules: Economic Methodology and Contemporary Science Theory*, Cambridge: Cambridge University Press.
+* Hands, D.W. and P. Mirowski, 1998. “Harold Hotelling and the Neoclassical Dream”, in Backhouse *et al*. (eds.) 1998, pp. 322–397.
+* Harcourt, G. and P. Kriesler (eds.), 2013. *The Oxford Handbook of Post-Keynesian Economics* (Volume 2: Critiques and Methodology), Oxford: Oxford University Press.
+* Hardt, L., 2017. *Economics without Laws: Toward a New Philosophy of Economics*, Cham, Switzerland: Palgrave Macmillan.
+* Harrod, R., 1938. “Scope and Method of Economics”, *Economic Journal*, 48: 383–412.
+* Hausman, D., 1981. *Capital, Profits, and Prices: An Essay in the Philosophy of Economics*, New York: Columbia University Press.
+* –––, 1983. “Are There Causal Relations Among Dependent Variables?” *Philosophy of Science*, 50: 58–81.
+* –––, 1990. “Supply and Demand Explanations and their *Ceteris Paribus*, Clauses”, *Review of Political Economy*, 2: 168–86.
+* –––, 1992a. *Essays on Philosophy and Economic Methodology*, Cambridge: Cambridge University Press.
+* –––, 1992b. *The Inexact and Separate Science of Economics*, Cambridge: Cambridge University Press.
+* –––, 1998. “Problems with Realism in Economics”, *Economics and Philosophy*, 14: 185–213.
 * –––, 2008a. “Why Look Under the Hood”, pp. 217–21 of Hausman 2008b.
-* –––, 2011. “Mistakes about Preferences in the Social Sciences”, _Philosophy of the Social Sciences_, 41: 3–25.
-* –––, 2012. _Preference, Value, Choice, and Welfare_, New York: Cambridge University Press.
-* –––, 2013. “Paradox Postponed”, _Journal of Economic Methodology_, 20: 250-54.
-* –––, 2015a. “Much Ado about Models”, Review of Mary Morgan, _The World in the Model: How Economists Work and Think. Journal of Economic Methodology_. 22: 241–46.
-* –––, 2015b. _Valuing Health: Well-Being, Freedom, and Suffering_, New York: Oxford University Press.
-* Hausman, D. (ed.), 2008b. _The Philosophy of Economics: An Anthology_, 3rd. ed. Cambridge: Cambridge University Press.
-* Hausman, J., 2016, “Fiscal Policy and Economic Recovery: The Case of the 1936 Veterans’ Bonus”, _American Economic Review_, 106: 1100—1143.
-* Hayek, F., 1937. “Economics and Knowledge”, _Economica_, 4: 33–54.
-* Heilbroner, R., 1970. “On the Limited ‘Relevance’ of Economics”, _Public Interest_, 21: 80–93.
-* Helm, D., 1984. “Predictions and Causes: A Comparison of Friedman and Hicks on Method”, _Oxford Economic Papers_, 36 (Supplement): 118–34.
-* Henderson, W., T. Dudley-Evans, and R. Backhouse (eds.), 1993. _Economics and Language_, London: Routledge.
-* Hendry, D., 1993. _Econometrics — Alchemy or Science?_, Oxford: Blackwell.
-* Herrmann-Pillath, C., 2013. _Foundations of Economic Evolution: A Treatise on the Natural Philosophy of Economics_, Cheltenham, U.K.: Elgar.
-* Herzog, L., 2013, _Inventing the Market: Smith, Hegel, and Political Theory_, Oxford: Oxford University Press.
-* Hey, J.D., 1991. _Experiments in Economics_, Oxford: Blackwell.
-* Hicks, J., 1939. “The Foundations of Welfare Economics”, _Economic Journal_, 49: 696–712.
-* –––, 1979. _Causality in Economics_, New York: Basic Books.
-* Hicks, J. and R. Allen, 1934. “A Reconsideration of the Theory of Value”, _Economica_, N.S. 1: 52–76 and 196–219.
-* Hirsch, A. and N. de Marchi, 1990. _Milton Friedman: Economics in Theory and Practice_, Ann Arbor: University of Michigan Press.
-* Hirsch, F., 1976. _The Social Limits to Growth_, Cambridge, MA: Harvard University Press.
-* Hirschman, A., 1985. “Against Parsimony: Three Easy Ways of Complicating Some Categories of Economic Discourse”, _Economics and Philosophy_, 1: 7–22.
-* Hodgson, B., 2001. _Economics as Moral Science_, Heidelberg and New York: Springer.
-* Hodgson, G., 2000. “What Is the Essence of Institutional Economics?” _Journal of Economic Issues_, 34: 317–29.
-* –––, 2004. _The Evolution of Institutional Economics_, London: Routledge.
-* –––, 2013. _From Pleasure Machines to Moral Communities: An Evolutionary Economics without Homo economicus._ London: University of Chicago Press.
-* –––, 2016. _Conceptualizing Capitalism: Institutions, Evolution, Future_, London: University of Chicago Press.
-* Hodgson, G.M. and T. Knudsen, 2010. _Darwin’s Conjecture: The Search for General Principles of Social and Economic Evolution_, Chicago: University of Chicago Press.
-* Holcombe, R., 2014. _Advanced Introduction to the Austrian School of Economics_, Cheltenham, U.K. and Northampton, Mass.: Elgar.
-* Holland, J., K. Holyoak, R. Nisbett, and P. Thagard, 1986. _Induction: Processes of Inference, Learning, and Discovery_, Cambridge, MA: MIT Press.
-* Hollis, M. and E. Nell, 1975. _Rational Economic Man: A Philosophical Critique of Neo-Classical Economics_, London: Cambridge University Press.
-* Hoover, K., 1988. _The New Classical Macroeconomics: A Sceptical Inquiry_, Oxford: Basil Blackwell.
-* –––, 1994. “Econometrics as Observation: The Lucas Critique and the Nature of Econometric Inference”, _Journal of Economic Methodology_, 1: 65–80.
-* –––, 2001a. _Causality in Macroeconomics_, Cambridge: Cambridge University Press.
-* –––, 2001b. _The Methodology of Empirical Macroeconomics_, Cambridge: Cambridge University Press.
-* Horn, K.I., 2009. _Roads to Wisdom, Conversations with Ten Nobel Laureates in Economics_, Cheltenham, UK and Northampton, MA: Edward Elgar.
-* Horwitz, S., 2015, _Hayek’s Modern Family: Classical Liberalism and the Evolution of Social Institutions_, New York: St. Martin’s Press.
-* Hull, D., 1988. _Science as a Process: An Evolutionary Account of the Social and Conceptual Development of Science_, Chicago: University of Chicago Press.
-* Hume, D., 1752. “Of Money”, “Of the Balance of Trade”, reprinted in E. Rotwein (ed.), _David Hume Writings on Economics_, Madison: University of Wisconsin Press, 1970.
-* Humphries, J. (ed.), 1995. _Gender and Economics_, Aldershot: Edward Elgar.
-* Hutchison, T., 1938. _The Significance and Basic Postulates of Economic Theory_, reprinted with a new Preface, New York: A.M. Kelley, 1960.
-* –––, 1941. “The Significance and Basic Postulates of Economic Theory: A Reply to Professor Knight”, _Journal of Political Economy_, 49: 732–50.
-* –––, 1956. “Professor Machlup on Verification in Economics”, _Southern Economic Journal_, 22: 476–83.
-* –––, 1960. “Methodological Prescriptions in Economics: A Reply”, _Economica_, 27: 158–60.
-* –––, 1977. _Knowledge and Ignorance in Economics_, Chicago: University of Chicago Press.
-* –––, 1978. _On Revolutions and Progress in Economic Knowledge_, Cambridge: Cambridge University Press.
-* –––, 1981. _The Politics and Philosophy of Economics: Marxians, Keynesians and Austrians_, Oxford: Basil Blackwell.
-* –––, 2000. _On the Methodology of Economics and the Formalist Revolution_, Cheltenham: Edward Elgar.
-* Infante, G., G. Lecouteux, and R. Sugden, 2016. “Preference Purification and the Inner Rational Agent: A Critique of the Conventional Wisdom of Behavioural Welfare Economics”, _Journal of Economic Methodology_, 23: 1–25.
-* Jacquemet, N. and O. L’Haridon, 2018. _Experimental Economics: Method and Applications_, Cambridge: Cambridge University Press.
-* Jacobs, M. and M. Mazzucato (eds.), 2016. _Rethinking Capitalism: Economics and Policy for Sustainable and Inclusive Growth_, Oxford: Wiley-Blackwell.
-* Jalladeau, J., 1978. “Research Program versus Paradigm in the Development of Economics”, _Journal of Economic Issues_, 12: 583–608.
-* Janssen, M. and Y. Tan, 1992. “Friedman’s Permanent Income Hypothesis as an Example of Diagnostic Reasoning”, _Economics and Philosophy_, 8: 23–50.
-* Jarvie, I. and J. Zamora-Bonilla, 2011. _The SAGE Handbook of the Philosophy of Social Sciences_, New York: SAGE Publications.
-* Jensen, M. and W. Meckling, 1976. “Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”, _Journal of Financial Economics_, 3: 305–60.
-* Jespersen, J., 2009. _Macroeconomic Methodology: A Post-Keynesian Perspective_, Cheltenham, UK and Northampton, MA: Edward Elgar.
-* Jevons, W., 1871. _The Theory of Political Economy_, first edition, London and New York: MacMillan and Co.
-* Johnson, J., A. Nowak, P. Ormerod, B. Rosewell, and Y. Zhan (eds.), 2017. _Non-equilibrium Social Science and Policy: Introduction and Essays on New and Changing Paradigms in Socio-economic Thinking_, New York: Springer.
-* Kagel, J.H. and A.E. Roth (eds.), 1995. _The Handbook of Experimental Economics_, Princeton: Princeton University Press; 2nd edition, 2008.
-* –––, 2016, _The Handbook of Experimental Economics_ (Volume 2), Princeton: Princeton University Press.
-* Kahneman, D., J. Knetsch, and R. Thaler, 1986. “Fairness as a Constraint on Profit Seeking”, _American Economic Review_, 76: 728–41.
-* Kaldor, N., 1939. “Welfare Propositions of Economics and Interpersonal Comparisons of Utility”, _Economic Journal_, 49: 549–52.
-* Kamarck, A., 1983. _Economics and the Real World_, Philadelphia: University of Pennsylvania Press.
-* –––, 2001. _Economics for the Twenty-First Century: The Economics of the Economist-Fox_, Aldershot: Ashgate.
-* Karlan, Dean and Jacob Appel, 2018. _More Than Good Intentions: Improving the Ways the World’s Poor Borrow, Save, Farm, Learn, and Stay Healthy_, New York, Dutton.
-* –––, 2016. _Failing in the Field: What We Can Learn When Field Research Goes Wrong_, Princeton: Princeton University Press.
-* Katouzian, H., 1980. _Ideology and Method in Economics_, New York: New York University Press.
-* Kaufmann, F., 1933. “On the Subject-Matter and Method of Economic Science”, _Economica_, 13: 381–401.
-* –––, 1934. “The Concept of Law in Economic Science”, _Review of Economic Studies_, 1: 102–9.
-* –––, 1942. “On the Postulates of Economic Theory”, _Social Research_, 9: 379–95.
-* –––, 1944. _Methodology of the Social Sciences_, London: Oxford University Press.
-* Keen, S., 2001. _Debunking Economics: The Naked Emperor of the Social Sciences_, New York: St. Martin’s Press.
-* Keynes, J. N., 1917. _The Scope and Method of Political Economy_, 4th edition, reprinted New York: A. M. Kelley, 1955; 1st edition, 1891..
-* Kincaid, H., 1996. _Philosophical Foundations of the Social Sciences: Analyzing Controversies in Social Research_, Cambridge: Cambridge University Press.
-* Kincaid, H. and D. Ross (eds.), 2009. _Oxford Handbook of Philosophy of Economics_, Oxford: Oxford University Press.
-* Kincaid, H. (ed.), 2012. _The Oxford Handbook of Philosophy of Social Science_, Oxford: Oxford University Press.
-* Kirman, A., 1992. “Who or What Does the Representative Agent Represent?” _Journal of Economic Perspectives_, 6: 117–36.
-* Kirzner, I., 1976. _The Economic Point of View_, 2nd edition, Kansas City: Sheed & Ward.
-* Klamer, A., 1984. _Conversations with Economists: New Classical Economists and Opponents Speak Out on the Current Controversy in Macroeconomics_, Totowa, NJ: Rowman and Allanheld.
-* Klamer, A. and D. Colander, 1990. _The Making of An Economist_, Boulder, CO: Westview Press.
-* Klamer, A., D. McCloskey, and R. Solow (eds.), 1988. _The Consequences of Economic Rhetoric_, New York: Cambridge University Press.
-* Klant, J., 1984. _The Rules of the Game_, Cambridge: Cambridge University Press.
-* –––, 1994. _The Nature of Economic Thought: Essays in Economic Methodology_, Cheltenham: Edward Elgar.
-* Klappholz, K., 1964. “Value Judgments and Economics”, _British Journal for the Philosophy of Science_, 15: 97–114.
-* Klappholz K. and J. Agassi, 1959. “Methodological Prescriptions in Economics”, _Economica_, 26: 60–74.
+* –––, 2011. “Mistakes about Preferences in the Social Sciences”, *Philosophy of the Social Sciences*, 41: 3–25.
+* –––, 2012. *Preference, Value, Choice, and Welfare*, New York: Cambridge University Press.
+* –––, 2013. “Paradox Postponed”, *Journal of Economic Methodology*, 20: 250-54.
+* –––, 2015a. “Much Ado about Models”, Review of Mary Morgan, *The World in the Model: How Economists Work and Think. Journal of Economic Methodology*. 22: 241–46.
+* –––, 2015b. *Valuing Health: Well-Being, Freedom, and Suffering*, New York: Oxford University Press.
+* Hausman, D. (ed.), 2008b. *The Philosophy of Economics: An Anthology*, 3rd. ed. Cambridge: Cambridge University Press.
+* Hausman, J., 2016, “Fiscal Policy and Economic Recovery: The Case of the 1936 Veterans’ Bonus”, *American Economic Review*, 106: 1100—1143.
+* Hayek, F., 1937. “Economics and Knowledge”, *Economica*, 4: 33–54.
+* Heilbroner, R., 1970. “On the Limited ‘Relevance’ of Economics”, *Public Interest*, 21: 80–93.
+* Helm, D., 1984. “Predictions and Causes: A Comparison of Friedman and Hicks on Method”, *Oxford Economic Papers*, 36 (Supplement): 118–34.
+* Henderson, W., T. Dudley-Evans, and R. Backhouse (eds.), 1993. *Economics and Language*, London: Routledge.
+* Hendry, D., 1993. *Econometrics — Alchemy or Science?*, Oxford: Blackwell.
+* Herrmann-Pillath, C., 2013. *Foundations of Economic Evolution: A Treatise on the Natural Philosophy of Economics*, Cheltenham, U.K.: Elgar.
+* Herzog, L., 2013, *Inventing the Market: Smith, Hegel, and Political Theory*, Oxford: Oxford University Press.
+* Hey, J.D., 1991. *Experiments in Economics*, Oxford: Blackwell.
+* Hicks, J., 1939. “The Foundations of Welfare Economics”, *Economic Journal*, 49: 696–712.
+* –––, 1979. *Causality in Economics*, New York: Basic Books.
+* Hicks, J. and R. Allen, 1934. “A Reconsideration of the Theory of Value”, *Economica*, N.S. 1: 52–76 and 196–219.
+* Hirsch, A. and N. de Marchi, 1990. *Milton Friedman: Economics in Theory and Practice*, Ann Arbor: University of Michigan Press.
+* Hirsch, F., 1976. *The Social Limits to Growth*, Cambridge, MA: Harvard University Press.
+* Hirschman, A., 1985. “Against Parsimony: Three Easy Ways of Complicating Some Categories of Economic Discourse”, *Economics and Philosophy*, 1: 7–22.
+* Hodgson, B., 2001. *Economics as Moral Science*, Heidelberg and New York: Springer.
+* Hodgson, G., 2000. “What Is the Essence of Institutional Economics?” *Journal of Economic Issues*, 34: 317–29.
+* –––, 2004. *The Evolution of Institutional Economics*, London: Routledge.
+* –––, 2013. *From Pleasure Machines to Moral Communities: An Evolutionary Economics without Homo economicus.* London: University of Chicago Press.
+* –––, 2016. *Conceptualizing Capitalism: Institutions, Evolution, Future*, London: University of Chicago Press.
+* Hodgson, G.M. and T. Knudsen, 2010. *Darwin’s Conjecture: The Search for General Principles of Social and Economic Evolution*, Chicago: University of Chicago Press.
+* Holcombe, R., 2014. *Advanced Introduction to the Austrian School of Economics*, Cheltenham, U.K. and Northampton, Mass.: Elgar.
+* Holland, J., K. Holyoak, R. Nisbett, and P. Thagard, 1986. *Induction: Processes of Inference, Learning, and Discovery*, Cambridge, MA: MIT Press.
+* Hollis, M. and E. Nell, 1975. *Rational Economic Man: A Philosophical Critique of Neo-Classical Economics*, London: Cambridge University Press.
+* Hoover, K., 1988. *The New Classical Macroeconomics: A Sceptical Inquiry*, Oxford: Basil Blackwell.
+* –––, 1994. “Econometrics as Observation: The Lucas Critique and the Nature of Econometric Inference”, *Journal of Economic Methodology*, 1: 65–80.
+* –––, 2001a. *Causality in Macroeconomics*, Cambridge: Cambridge University Press.
+* –––, 2001b. *The Methodology of Empirical Macroeconomics*, Cambridge: Cambridge University Press.
+* Horn, K.I., 2009. *Roads to Wisdom, Conversations with Ten Nobel Laureates in Economics*, Cheltenham, UK and Northampton, MA: Edward Elgar.
+* Horwitz, S., 2015, *Hayek’s Modern Family: Classical Liberalism and the Evolution of Social Institutions*, New York: St. Martin’s Press.
+* Hull, D., 1988. *Science as a Process: An Evolutionary Account of the Social and Conceptual Development of Science*, Chicago: University of Chicago Press.
+* Hume, D., 1752. “Of Money”, “Of the Balance of Trade”, reprinted in E. Rotwein (ed.), *David Hume Writings on Economics*, Madison: University of Wisconsin Press, 1970.
+* Humphries, J. (ed.), 1995. *Gender and Economics*, Aldershot: Edward Elgar.
+* Hutchison, T., 1938. *The Significance and Basic Postulates of Economic Theory*, reprinted with a new Preface, New York: A.M. Kelley, 1960.
+* –––, 1941. “The Significance and Basic Postulates of Economic Theory: A Reply to Professor Knight”, *Journal of Political Economy*, 49: 732–50.
+* –––, 1956. “Professor Machlup on Verification in Economics”, *Southern Economic Journal*, 22: 476–83.
+* –––, 1960. “Methodological Prescriptions in Economics: A Reply”, *Economica*, 27: 158–60.
+* –––, 1977. *Knowledge and Ignorance in Economics*, Chicago: University of Chicago Press.
+* –––, 1978. *On Revolutions and Progress in Economic Knowledge*, Cambridge: Cambridge University Press.
+* –––, 1981. *The Politics and Philosophy of Economics: Marxians, Keynesians and Austrians*, Oxford: Basil Blackwell.
+* –––, 2000. *On the Methodology of Economics and the Formalist Revolution*, Cheltenham: Edward Elgar.
+* Infante, G., G. Lecouteux, and R. Sugden, 2016. “Preference Purification and the Inner Rational Agent: A Critique of the Conventional Wisdom of Behavioural Welfare Economics”, *Journal of Economic Methodology*, 23: 1–25.
+* Jacquemet, N. and O. L’Haridon, 2018. *Experimental Economics: Method and Applications*, Cambridge: Cambridge University Press.
+* Jacobs, M. and M. Mazzucato (eds.), 2016. *Rethinking Capitalism: Economics and Policy for Sustainable and Inclusive Growth*, Oxford: Wiley-Blackwell.
+* Jalladeau, J., 1978. “Research Program versus Paradigm in the Development of Economics”, *Journal of Economic Issues*, 12: 583–608.
+* Janssen, M. and Y. Tan, 1992. “Friedman’s Permanent Income Hypothesis as an Example of Diagnostic Reasoning”, *Economics and Philosophy*, 8: 23–50.
+* Jarvie, I. and J. Zamora-Bonilla, 2011. *The SAGE Handbook of the Philosophy of Social Sciences*, New York: SAGE Publications.
+* Jensen, M. and W. Meckling, 1976. “Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”, *Journal of Financial Economics*, 3: 305–60.
+* Jespersen, J., 2009. *Macroeconomic Methodology: A Post-Keynesian Perspective*, Cheltenham, UK and Northampton, MA: Edward Elgar.
+* Jevons, W., 1871. *The Theory of Political Economy*, first edition, London and New York: MacMillan and Co.
+* Johnson, J., A. Nowak, P. Ormerod, B. Rosewell, and Y. Zhan (eds.), 2017. *Non-equilibrium Social Science and Policy: Introduction and Essays on New and Changing Paradigms in Socio-economic Thinking*, New York: Springer.
+* Kagel, J.H. and A.E. Roth (eds.), 1995. *The Handbook of Experimental Economics*, Princeton: Princeton University Press; 2nd edition, 2008.
+* –––, 2016, *The Handbook of Experimental Economics* (Volume 2), Princeton: Princeton University Press.
+* Kahneman, D., J. Knetsch, and R. Thaler, 1986. “Fairness as a Constraint on Profit Seeking”, *American Economic Review*, 76: 728–41.
+* Kaldor, N., 1939. “Welfare Propositions of Economics and Interpersonal Comparisons of Utility”, *Economic Journal*, 49: 549–52.
+* Kamarck, A., 1983. *Economics and the Real World*, Philadelphia: University of Pennsylvania Press.
+* –––, 2001. *Economics for the Twenty-First Century: The Economics of the Economist-Fox*, Aldershot: Ashgate.
+* Karlan, Dean and Jacob Appel, 2018. *More Than Good Intentions: Improving the Ways the World’s Poor Borrow, Save, Farm, Learn, and Stay Healthy*, New York, Dutton.
+* –––, 2016. *Failing in the Field: What We Can Learn When Field Research Goes Wrong*, Princeton: Princeton University Press.
+* Katouzian, H., 1980. *Ideology and Method in Economics*, New York: New York University Press.
+* Kaufmann, F., 1933. “On the Subject-Matter and Method of Economic Science”, *Economica*, 13: 381–401.
+* –––, 1934. “The Concept of Law in Economic Science”, *Review of Economic Studies*, 1: 102–9.
+* –––, 1942. “On the Postulates of Economic Theory”, *Social Research*, 9: 379–95.
+* –––, 1944. *Methodology of the Social Sciences*, London: Oxford University Press.
+* Keen, S., 2001. *Debunking Economics: The Naked Emperor of the Social Sciences*, New York: St. Martin’s Press.
+* Keynes, J. N., 1917. *The Scope and Method of Political Economy*, 4th edition, reprinted New York: A. M. Kelley, 1955; 1st edition, 1891..
+* Kincaid, H., 1996. *Philosophical Foundations of the Social Sciences: Analyzing Controversies in Social Research*, Cambridge: Cambridge University Press.
+* Kincaid, H. and D. Ross (eds.), 2009. *Oxford Handbook of Philosophy of Economics*, Oxford: Oxford University Press.
+* Kincaid, H. (ed.), 2012. *The Oxford Handbook of Philosophy of Social Science*, Oxford: Oxford University Press.
+* Kirman, A., 1992. “Who or What Does the Representative Agent Represent?” *Journal of Economic Perspectives*, 6: 117–36.
+* Kirzner, I., 1976. *The Economic Point of View*, 2nd edition, Kansas City: Sheed & Ward.
+* Klamer, A., 1984. *Conversations with Economists: New Classical Economists and Opponents Speak Out on the Current Controversy in Macroeconomics*, Totowa, NJ: Rowman and Allanheld.
+* Klamer, A. and D. Colander, 1990. *The Making of An Economist*, Boulder, CO: Westview Press.
+* Klamer, A., D. McCloskey, and R. Solow (eds.), 1988. *The Consequences of Economic Rhetoric*, New York: Cambridge University Press.
+* Klant, J., 1984. *The Rules of the Game*, Cambridge: Cambridge University Press.
+* –––, 1994. *The Nature of Economic Thought: Essays in Economic Methodology*, Cheltenham: Edward Elgar.
+* Klappholz, K., 1964. “Value Judgments and Economics”, *British Journal for the Philosophy of Science*, 15: 97–114.
+* Klappholz K. and J. Agassi, 1959. “Methodological Prescriptions in Economics”, *Economica*, 26: 60–74.
 * Knight, F., 1935. “Economics and Human Action”, from Knight 1935b; reprinted in Hausman, ed. 2008b, pp. 111–18.
-* –––, 1940. “What is ‘Truth’ in Economics?” _Journal of Political Economy_, 48: 1–32.
-* –––, 1941. “The Significance and Basic Postulates of Economic Theory: A Rejoinder”, _Journal of Political Economy_, 49: 750–3.
-* –––, 1961. “Methodology in Economics”, _Southern Economic Journal_, 27: 185–93, 273–82.
-* Koopmans, T., 1957. _Three Essays on the State of Economic Science_, New York: McGraw-Hill.
-* –––, 1979. “Economics Among the Sciences”, _American Economic Review_, 69: 1–13.
-* Koppl, Roger (ed.), 2008. _Explorations in Austrian Economics_, Bingley, UK: JAI Press.
-* Kornai, J., 1971. _Anti-Equilibrium: On Economic Systems Theory and the Tasks of Research_, Amsterdam: North Holland.
-* Koslowski, P. (ed.), 1985. _Economics and Philosophy_, Tübingen: J.C.B. Mohr.
-* Kregel, J., 1976. “Economic Methodology in the Face of Uncertainty: The Modeling Methods of Keynes and the Post-Keynesians”, _Economic Journal_, 86: 209-25.
-* Kremer, Michael and Rachel Glennerster, 2011. _Small Changes, Big Results: Behavioral Economics at Work in Poor Countries_, Boston: Boston Review Press.
-* Krupp, S. (ed.), 1966. _The Structure of Economic Science_, Englewood Cliffs: Prentice-Hall.
-* Kuipers, T. (ed.), 1987. _What is Closer-to-the Truth? A Parade of Approaches to Truthlikeness_ (Poznan Studies in the Philosophy of the Sciences and Humanities, Volume 10), Amsterdam: Rodopi.
-* Kunin, L. and F. Weaver, 1971. “On the Structure of Scientific Revolutions in Economics”, _History of Political Economy_, 3: 391–7.
-* Kuorikoski, Ja. and A. Lehtinen, 2009. “Incredible Worlds, Credible Results”, _Erkenntnis_, 70: 119–31.
-* Kydland, V. and E. Prescott, 1991. “The Econometrics of the General Equilibrium Approach to Business Cycles”, _Scandinavian Journal of Economics_, 93: 161–78.
-* –––, 1996. “The Computational Experiment: An Econometric Tool”, _Journal of Economic Perspectives_, 10: 69–85.
-* Lachmann, L., 1950. “Economics as a Social Science”, _South African Journal of Economics_, 18: 233–41.
-* Lange, O., 1945. “The Scope and Method of Economics”, _Review of Economic Studies_, 13: 19–32.
-* Latsis, S. (ed.), 1976. _Method and Appraisal in Economics_, Cambridge: Cambridge University Press.
-* Lavoie, D. (ed.), 1990. _Economics and Hermeneutics_, London: Routledge.
-* Lawson, T., 1997. _Economics and Reality_, London: Routledge.
-* –––, 2015. _Essays on the Nature and State of Economic Theory_, London: Routledge.
-* Lawson, T. and H. Pesaran, 1985. _Keynes’ Economics: Methodological Issues_, Beckenham, Kent: Croom Helm.
-* Leamer, E., 1983. “Let’s Take the Con Out of Econometrics”, _American Economic Review_, 73: 31–43.
+* –––, 1940. “What is ‘Truth’ in Economics?” *Journal of Political Economy*, 48: 1–32.
+* –––, 1941. “The Significance and Basic Postulates of Economic Theory: A Rejoinder”, *Journal of Political Economy*, 49: 750–3.
+* –––, 1961. “Methodology in Economics”, *Southern Economic Journal*, 27: 185–93, 273–82.
+* Koopmans, T., 1957. *Three Essays on the State of Economic Science*, New York: McGraw-Hill.
+* –––, 1979. “Economics Among the Sciences”, *American Economic Review*, 69: 1–13.
+* Koppl, Roger (ed.), 2008. *Explorations in Austrian Economics*, Bingley, UK: JAI Press.
+* Kornai, J., 1971. *Anti-Equilibrium: On Economic Systems Theory and the Tasks of Research*, Amsterdam: North Holland.
+* Koslowski, P. (ed.), 1985. *Economics and Philosophy*, Tübingen: J.C.B. Mohr.
+* Kregel, J., 1976. “Economic Methodology in the Face of Uncertainty: The Modeling Methods of Keynes and the Post-Keynesians”, *Economic Journal*, 86: 209-25.
+* Kremer, Michael and Rachel Glennerster, 2011. *Small Changes, Big Results: Behavioral Economics at Work in Poor Countries*, Boston: Boston Review Press.
+* Krupp, S. (ed.), 1966. *The Structure of Economic Science*, Englewood Cliffs: Prentice-Hall.
+* Kuipers, T. (ed.), 1987. *What is Closer-to-the Truth? A Parade of Approaches to Truthlikeness* (Poznan Studies in the Philosophy of the Sciences and Humanities, Volume 10), Amsterdam: Rodopi.
+* Kunin, L. and F. Weaver, 1971. “On the Structure of Scientific Revolutions in Economics”, *History of Political Economy*, 3: 391–7.
+* Kuorikoski, Ja. and A. Lehtinen, 2009. “Incredible Worlds, Credible Results”, *Erkenntnis*, 70: 119–31.
+* Kydland, V. and E. Prescott, 1991. “The Econometrics of the General Equilibrium Approach to Business Cycles”, *Scandinavian Journal of Economics*, 93: 161–78.
+* –––, 1996. “The Computational Experiment: An Econometric Tool”, *Journal of Economic Perspectives*, 10: 69–85.
+* Lachmann, L., 1950. “Economics as a Social Science”, *South African Journal of Economics*, 18: 233–41.
+* Lange, O., 1945. “The Scope and Method of Economics”, *Review of Economic Studies*, 13: 19–32.
+* Latsis, S. (ed.), 1976. *Method and Appraisal in Economics*, Cambridge: Cambridge University Press.
+* Lavoie, D. (ed.), 1990. *Economics and Hermeneutics*, London: Routledge.
+* Lawson, T., 1997. *Economics and Reality*, London: Routledge.
+* –––, 2015. *Essays on the Nature and State of Economic Theory*, London: Routledge.
+* Lawson, T. and H. Pesaran, 1985. *Keynes’ Economics: Methodological Issues*, Beckenham, Kent: Croom Helm.
+* Leamer, E., 1983. “Let’s Take the Con Out of Econometrics”, *American Economic Review*, 73: 31–43.
 * –––, 1984. “Vector Autoregressions for Causal Inference?” delivered at 1984 Carnegie-Rochester Conference.
-* Lebowitz, M., 2015, _The Socialist Imperative: From Gotha to Now_, New York: Monthly Review Press.
-* Lee, F. and B. Cronin (eds.), 2016, _Handbook of Research Methods and Applications in Heterodox Economics_, Cheltenham, UK: Elgar.
-* Lehtinen, J.K. and P. Ylikoski (eds.), 2012 _Economics for Real: Uskali Mäki and the Place of Truth in Economics_, London: Routledge.
-* Leibenstein, H., 1976. _Beyond Economic Man: A New Foundation for Economics_, Cambridge, MA: Harvard University Press.
-* Leijonhufvud, A., 1968. _On Keynesian Economics and the Economics of Keynes_, Oxford: Oxford University Press.
-* –––, 1973. “Life Among the Econ”, _Western Economic Journal_, 11: 327–37.
-* Leonard, Thomas C., 2002 “Reflection on Rules in Science: An Invisible-Hand Perspective”, _Journal of Economic Methodology_, 9: 141–168.
-* Leontief, W., 1971. “Theoretical Assumptions and Nonobserved Facts”, _American Economic Review_, 61: 1–7.
-* Lester, R.A., 1946. “Shortcomings of Marginal Analysis for Wage-Employment Problems”, _American Economic Review_, 36: 62–82.
-* –––, 1947. “Marginal Costs, Minimum Wages, and Labor Markets”, _American Economic Review_, 37: 135–48.
-* Levine, A., E. Sober, and E. Wright, 1987. “Marxism and Methodological Individualism”, _New Left Review_, 162 (March/April): 67–84.
-* –––, 1992. _Reconstructing Marxism_, London: Verso.
-* Lewis, P. (ed.), 2004. _Transforming Economics_, London: Routledge.
-* Lichtenstein, S. and P. Slovic (eds.), 2006. _The Construction of Preference_, New York: Cambridge University Press.
-* Linsbichler, A., 2017. _Was Ludwig von Mises a Conventionalist? A New Analysis of the Epistemology of the Austrian School of Economics_, New York: Springer.
-* Lipsey, R. and K. Lancaster, 1956–7. “The General Theory of the Second Best”, _Review of Economic Studies_, 24: 11–31.
-* List, John and Anya Samek (eds.), 2018, _Field Experiments in Economics_, Northampton: Elgar.
-* Little, D. (ed.), 1993. _On the Reliability of Economic Models: Essays in the Philosophy of Economics_, Boston: Kluwer.
-* Loasby, B., 1976. _Choice, Complexity and Ignorance_, Cambridge: Cambridge University Press.
-* –––, 1989. _The Mind and Method of the Economist: A Criticial Appraisal of Major Economists in the 20th Century_, Cheltenham: Edward Elgar.
-* Loewenstein, G., 2007. _Exotic Preferences: Behavioral Economics and Human Motivation_, Oxford: Oxford University Press.
-* Loewenstein, G., S. Rick, and J.D. Cohen, 2008. “Neuroeconomics”, _Annual Review of Psychology_, 59: 647–672
-* Lowe, A., 1965. _On Economic Knowledge. Toward a Science of Political Economics_, New York: Harper & Row.
-* Lucas, R., 1976. “Econometric Policy Evaluation: A Critique”, _Journal of Monetary Economics_ (Supplemental Series) 1: 19–46, 62.
-* McClelland, P., 1975. _Causal Explanation and Model Building in History, Economics and the New Economic History_, Ithaca: Cornell University Press.
-* McCloskey, D., 1985. _The Rhetoric of Economics_, Madison: University of Wisconsin Press.
-* –––, 1992. _If You’re So Smart: The Narrative of Economic Expertise_, Chicago: University of Chicago Press.
-* –––, 1994. _Truth and Persuasion in Economics_, Cambridge: Cambridge University Press.
-* –––, 2000. _How to be Human_: _Though an Economist University_, Ann Arbor, MI: University of Michigan Press.
-* McCloskey, Deirdre N. and Stephen T. Ziliak, 2003. _Measurement and Meaning in Economics: The Essential Deirdre McCloskey_, Northampton, MA: Edward Elgar.
-* Machlup, F., 1955. “The Problem of Verification in Economics”, _Southern Economic Journal_, 22: 1–21.
-* –––, 1960. “Operational Concepts and Mental Constructs in Model and Theory Formation”, _Giornale Degli Economisti_, 19: 553–82.
-* –––, 1963. _Essays on Economic Semantics_, ed. M. Miller. Englewood Cliffs: Prentice-Hall.
-* –––, 1964. “Professor Samuelson on Theory and Realism”, _American Economic Review_, 54: 733–6.
+* Lebowitz, M., 2015, *The Socialist Imperative: From Gotha to Now*, New York: Monthly Review Press.
+* Lee, F. and B. Cronin (eds.), 2016, *Handbook of Research Methods and Applications in Heterodox Economics*, Cheltenham, UK: Elgar.
+* Lehtinen, J.K. and P. Ylikoski (eds.), 2012 *Economics for Real: Uskali Mäki and the Place of Truth in Economics*, London: Routledge.
+* Leibenstein, H., 1976. *Beyond Economic Man: A New Foundation for Economics*, Cambridge, MA: Harvard University Press.
+* Leijonhufvud, A., 1968. *On Keynesian Economics and the Economics of Keynes*, Oxford: Oxford University Press.
+* –––, 1973. “Life Among the Econ”, *Western Economic Journal*, 11: 327–37.
+* Leonard, Thomas C., 2002 “Reflection on Rules in Science: An Invisible-Hand Perspective”, *Journal of Economic Methodology*, 9: 141–168.
+* Leontief, W., 1971. “Theoretical Assumptions and Nonobserved Facts”, *American Economic Review*, 61: 1–7.
+* Lester, R.A., 1946. “Shortcomings of Marginal Analysis for Wage-Employment Problems”, *American Economic Review*, 36: 62–82.
+* –––, 1947. “Marginal Costs, Minimum Wages, and Labor Markets”, *American Economic Review*, 37: 135–48.
+* Levine, A., E. Sober, and E. Wright, 1987. “Marxism and Methodological Individualism”, *New Left Review*, 162 (March/April): 67–84.
+* –––, 1992. *Reconstructing Marxism*, London: Verso.
+* Lewis, P. (ed.), 2004. *Transforming Economics*, London: Routledge.
+* Lichtenstein, S. and P. Slovic (eds.), 2006. *The Construction of Preference*, New York: Cambridge University Press.
+* Linsbichler, A., 2017. *Was Ludwig von Mises a Conventionalist? A New Analysis of the Epistemology of the Austrian School of Economics*, New York: Springer.
+* Lipsey, R. and K. Lancaster, 1956–7. “The General Theory of the Second Best”, *Review of Economic Studies*, 24: 11–31.
+* List, John and Anya Samek (eds.), 2018, *Field Experiments in Economics*, Northampton: Elgar.
+* Little, D. (ed.), 1993. *On the Reliability of Economic Models: Essays in the Philosophy of Economics*, Boston: Kluwer.
+* Loasby, B., 1976. *Choice, Complexity and Ignorance*, Cambridge: Cambridge University Press.
+* –––, 1989. *The Mind and Method of the Economist: A Criticial Appraisal of Major Economists in the 20th Century*, Cheltenham: Edward Elgar.
+* Loewenstein, G., 2007. *Exotic Preferences: Behavioral Economics and Human Motivation*, Oxford: Oxford University Press.
+* Loewenstein, G., S. Rick, and J.D. Cohen, 2008. “Neuroeconomics”, *Annual Review of Psychology*, 59: 647–672
+* Lowe, A., 1965. *On Economic Knowledge. Toward a Science of Political Economics*, New York: Harper & Row.
+* Lucas, R., 1976. “Econometric Policy Evaluation: A Critique”, *Journal of Monetary Economics* (Supplemental Series) 1: 19–46, 62.
+* McClelland, P., 1975. *Causal Explanation and Model Building in History, Economics and the New Economic History*, Ithaca: Cornell University Press.
+* McCloskey, D., 1985. *The Rhetoric of Economics*, Madison: University of Wisconsin Press.
+* –––, 1992. *If You’re So Smart: The Narrative of Economic Expertise*, Chicago: University of Chicago Press.
+* –––, 1994. *Truth and Persuasion in Economics*, Cambridge: Cambridge University Press.
+* –––, 2000. *How to be Human*: *Though an Economist University*, Ann Arbor, MI: University of Michigan Press.
+* McCloskey, Deirdre N. and Stephen T. Ziliak, 2003. *Measurement and Meaning in Economics: The Essential Deirdre McCloskey*, Northampton, MA: Edward Elgar.
+* Machlup, F., 1955. “The Problem of Verification in Economics”, *Southern Economic Journal*, 22: 1–21.
+* –––, 1960. “Operational Concepts and Mental Constructs in Model and Theory Formation”, *Giornale Degli Economisti*, 19: 553–82.
+* –––, 1963. *Essays on Economic Semantics*, ed. M. Miller. Englewood Cliffs: Prentice-Hall.
+* –––, 1964. “Professor Samuelson on Theory and Realism”, *American Economic Review*, 54: 733–6.
 * –––, 1969a. “If Matter Could Talk”, Repr. in Machlup 1978, pp. 309–32.
 * –––, 1969b. “Positive and Normative Economics”, Repr. in Machlup 1978, pp. 425–50.
-* –––, 1978. _Methodology of Economics and Other Social Sciences_, New York: Academic Press.
-* MacIntyre, A., 1967. “The Idea of a Social Science”, _Proceedings of the Aristotelian Society Supplementary Volume_ 41: 95–114.
-* McKenzie, R., 1983. _The Limits of Economic Science_, Boston: Kluwer.
-* Mäki, U., 1988. “How to Combine Rhetoric and Realism in the Methodology of Economics”, _Economics and Philosophy_ 4: 89–109.
-* –––, 1990a. “Friedman and Realism”, _Research in the History of Economic Thought and Methodology_ 10:
-* –––, 1990b. “Mengerian Economics in Realist Perspective”, _History of Political Economy_, 22: 289–310.
-* –––, 1990c. “Scientific Realism and Austrian Explanation”, _Review of Political Economy_, 2: 310–44.
-* –––, 1992. “On the Method of Isolation in Economics”, in C. Dilworth (ed.), _Intelligibility in Science_ (Poznan Studies in the Philosophy of the Sciences and the Humanities), Amsterdam: Rodopi, pp. 317–51.
-* –––, 2005. “Models Are Experiments. Experiments Are Models”, _Journal of Economic Methodology_, 12: 303–15.
-* –––, 2006. “On the method of isolation in economics”, in _Recent developments in economic methodology_, Vol. 3. Davis, J. & J.B. Davis, eds. Cheltenham: Edward Edgar pp. 3–37.
-* –––, 2007. _Realism and Economic Methodology_, London: Routledge.
-* –––, 2009a. “Missing the World. Models as Isolations and Credible Surrogate Systems” _Erkenntnis_, 70: 29–43.
-* –––, 2009b. “Realistic Realism about Unrealistic Models”, in Harold Kincaid and Don Ross (eds.), _The Oxford Handbook of Philosophy of Economics_, New York: Oxford University Press, 68–98.
-* –––, 2011. “Models and the Locus of their Truth”, _Synthese_, 180: 47–63.
-* Mäki, U. (ed.), 1991. _Fact and Fiction in Economics: Models, Realism and Social Construction_, Cambridge: Cambridge University Press.
-* ––– (ed.), 2001. _The Economic World View: Studies in the Ontology of Economics_, Cambridge: Cambridge University Press.
-* ––– (ed.), 2009c. _The Methodology of Positive Economics: Reflections on the Milton Friedman Legacy_, Cambridge: Cambridge University Press.
-* ––– (ed.), 2012. _Handbook of the Philosophy of Economics_, Amsterdam: Elsevier.
-* Mäki, U., B. Gustafsson and C. Knudsen (eds.), 1993. _Rationality, Institutions and Economic Methodology_, London: Routledge.
-* Mäki, U., Dov M. Gabbay, Paul Thagard and John Woods (eds.), 2007. _The Rise and fall of Popper and Lakatos in Economics_, New York: Oxford University Press.
-* Malinvaud, E., 1972. _Lectures on Microeconomic Theory_, tr. A. Silvey. Amsterdam: North-Holland.
-* Marcet, Jane, 2009. _Conversations on the Nature of Political Economy_, Reprint edition. New Brunswick, N.J. and London: Transaction.
-* Marchionni, C. and J. Vromen (eds.), 2014 _Neuroeconomics: Hype or Hope?_, London: Routledge.
-* Marr, W. and B. Raj (eds.), 1983. _How Economists Explain: A Reader in Methodology_, Lanham, MD: University Press of America.
-* Marschak, J., 1969. “On Econometric Tools”, _Synthese_, 20: 483–88.
-* Mauro, Carlos, Sofia Miguens and Susana Cadilha, 2013. _Converations on Human Action and Practical Rationality_, Newcastle: Cambridge Scholars.
-* Marx, K., 1867. _Capital_ (Volume 1), S. Moore and E. Aveling (trans.), New York: International Publishers, 1967.
-* Marwell, G. and R. Ames, 1981. “Economists Free Ride. Does Anyone Else? Experiments on the Provision of Public Goods. IV”, _Journal of Public Economics_, 15: 295–310.
-* Mayer, T., 1993. _Truth Versus Precision in Economics_, Cheltenham: Edward Elgar.
-* Medema, S. and W. Samuels (eds.), 1996. _Foundations of Research in Economics: How do Economists do Economics?_, Cheltenham: Edward Elgar.
-* Meek, R., 1964. “Value-Judgements in Economics”, _British Journal for the Philosophy of Science_, 15: 89–96.
-* Meidinger, C., 1994. _Science Économique: Questions de Mèthode_, Paris: Vuibert.
-* Melitz, J., 1965. “Friedman and Machlup on the Significance of Testing Economic Assumptions”, _Journal of Political Economy_, 73: 37–60.
-* Menger, C., 1883. _Problems of Economics and Sociology_, L. Schneider (ed.), F. Nock (trans.), Urbana: University of Illinois Press, 1963.
-* Menger, K., 2009. _Unexplored Dimensions: Karl Menger on Economics and Philosophy (1923–1938)_, Edited by Giandomenica Becchio. Bingley, UK: Emerald.
-* Micocci, A., 2016, _A Historical Political Economy of Capitalism: After Metaphysics_, London: Routledge.
-* Mill, J. S., 1836. “On the Definition of Political Economy and the Method of Investigation Proper to It”, reprinted in _Collected Works of John Stuart Mill_ (Volume 4), Toronto: University of Toronto Press, 1967.
-* –––, 1843. _A System of Logic_, London: Longmans, Green & Co., 1949.
-* –––, 1871. _Principles of Political Economy_, 7th edition, 1909, W. Ashley (ed.), reprinted New York: A. M. Kelley, 1976.
-* Minford, P. and D. Peel, 1983. _Rational Expectations and the New Macroeconomics_, Oxford: Martin Robertson & Co.
-* Mirowski, P., 1988. _Against Mechanism: Protecting Economics from Science_, Totowa, NJ: Rowman and Littlefied.
-* –––, 1990. _More Heat Than Light_, Cambridge: Cambridge University Press.
-* –––, 2002. _Machine Dreams: Economics Becomes a Cyborg Science_, Cambridge: Cambridge University Press.
-* –––, 2004. _The Effortless Economy of Science?_, Durham, NC: Duke University Press.
-* –––, 2013, _Never Let a Serious Crisis Go to Waste: How Neoliberalism Survived the Financial Meltdown_, London: Verso.
-* Mirowski, P. (ed.), 1986. _The Reconstruction of Economic Theory_, Boston: Kluwer.
-* Mirowski, P. and E. Sent (eds.), 2002. _Science Bought and Sold: Essays in the Economics of Science_, Chicago: University of Chicago Press.
-* Mises, L. von, 1949. _Human Action. A Treatise on Economics_, New Haven, Yale University Press.
-* –––, 1978. _The Ultimate Foundation of Economic Science: An Essay on Method_, 2nd edition, Kansas City: Sheed Andrews.
-* –––, 1981. _Epistemological Problems of Economics_, G. Reisman (trans.), New York: New York University Press.
-* Mishan, E., 1971. _Cost Benefit Analysis: An Introduction_, New York: Praeger.
-* Mongin, P., 1986. “La Controverse sur l’Entreprise (1940–1950) et la Formation de l’Irréalisme Méthodologique”, _Economies et Sociéties_ (Sèrie Oeconomia) 5: 91–151.
-* –––, 1992. “The ‘Full-Cost’ Controversity of the 1940s and 1950s: A Methodological Assessment”, _History of Political Economy_, 24: 311–56.
-* Morgan, J. (ed.), 2016, _What is Neoclassical Economics? Debating the Origins, Meaning and Significance_, London: Routledge.
-* Morgan, M., 2001. “Models, Stories, and the Economic World”, _Journal of Economic Methodology_, 8: 361–84.
-* –––, 2004. “Imagination and Imaging in Model Building”, _Philosophy of Science_, 71: 753–66.
-* –––, 2012, _The World in the Model: How Economists Work and Think_, Cambridge: Cambridge University Presss.
-* Morgan, M. and M. Rutherford (eds.), 1998. _From Interwar Pluralism to Postwar Neoclassicism_, Durham: Duke University Press.
-* Mueller, J.D., 2010. _Redeeming Economics: Rediscovering the Missing Element_, Culture of Enterprise series. Wilmington, Del.: Intercollegiate Studies Institute.
-* Mullainathan, Sendhil and Eldar Shafir, 2013. _Scarcity: Why Having Too Little Means So Much_, London: Times Books.
-* Musgrave, A., 1981. “‘Unreal Assumptions’ in Economic Theory: The F-Twist Untwisted”, _Kyklos_, 34: 377–87.
-* Muth, J., 1961. “Rational Expectations and the Theory of Price Movements”, _Econometrica_, 29: 315–35.
-* Myrdal, G., 1955. _The Political Element in the Development of Economic Thought_, P. Streeten (trans.), Cambridge, MA: Harvard University Press.
-* Nagel, E., 1963. “Assumptions in Economic Theory”, _American Economic Review Papers and Proceedings_, 53: 211–19.
-* Nelson, A., 1986. “New Individualistic Foundations for Economics”, _Noûs_, 20: 469–90.
-* Nelson, J., 1995. “Feminism and Economics”, _Journal of Economic Perspectives_, 9: 131–48.
-* –––, 1996. _Feminism, Objectivity and Economics_, London: Routledge.
-* –––, 2001. “Economic Methodology and Feminist Critiques”, _Journal of Economic Methodology_, 8: 93–97.
-* Nell, 2017, _Liberty. The Driving Force of the Collective: Post-Austrian Theory in Response to Israel Kirzner_, New York: Springer.
-* Nell, G. (ed.), 2014a. _Austrian Economic Perspectives on Individualism and Society: Moving Beyond Methodological Individualism_, New York: St. Martin’s Press.
-* –––, 2014b. _Austrian Theory and Economic Organization: Reaching beyond Free Market Boundaries_, New York: St. Martin’s Press.
-* Nelson, R., 2001. _Economics As Religion: From Samuelson to Chicago and Beyond_, University Park, PA: Pennsylvania State University Press.
-* Nelson, R. and S. Winter, 1982. _An Evolutionary Theory of Economic Change_, Cambridge, MA: Harvard University Press.
-* Neuberg, L., 1988. _Conceptual Anomalies in Economics_, Cambridge: Cambridge University Press.
-* Nowak, L., 1980. _The Structure of Idealization: Towards a Systematic Interpretation of the Marxian Idea of Science_, Dordrecht: Reidel.
-* Oakley, A., 2002. _Reconstructing Economic Theory: The Problem of Human Agency_, Cheltenham, Edward Elgar.
-* O’Boyle, E., 1998. _Personalist Economics: Moral Convictions, Economic Realities, and Social Action_, Boston: Kluwer.
-* Ochangco, A., 1999. _Rationality in Economic Thought.: Methodological Ideas on the History of Political Economy_, Cheltenham: Edward Elgar.
-* Oliver, A. (ed.), 2013. _Behavioural Public Policy_, Cambridge: Cambridge University Press.
-* Ormerod, P., 1997. _The Death of Economics_, New York: Wiley.
-* –––, 2007. _Happiness, Economics and Public Policy_, London: Institute of Economic Affairs.
-* O’Sullivan, P., 1987. _Economic Methodology and Freedom to Choose_, London: Allen & Unwin.
-* Papandreou, A., 1958. _Economics as a Science_, Chicago: Lippincott.
-* Pareto, V., 1909. _Manual of Political Economy_, A. Schwier (trans.), New York: A.M. Kelley, 1971.
-* Parsons, T., 1934. “Some Reflections on ‘The Nature and Significance of Economics’”, _Quarterly Journal of Economics_, 48: 511–45.
-* Peterson, M. (ed.), 2015. _The Prisoner’s Dilemma_, New York: Cambridge University Press.
-* Pheby, J., 1988. _Methodology and Economics: A Critical Introduction_, London: Macmillan.
-* Piketty, T., 2014. _Capital in the Twenty-First Century_, Cambridge, MA: Harvard University Press.
-* Pitt, J. (ed.), 1981. _Philosophy in Economics_, Dordrecht: Reidel.
-* Plott, C.R., 1991. “Will Economics Become an Experimental Science?” _Southern Economic Journal_, 57: 901–919.
-* Popper, K., 1967. “La Rationalité et le Statut du Principe de Rationalité”, in E. Classen (ed.), _Les Fondements Philosophiques des Systèmes Économiques_, Paris: Paypot, pp. 142–50.
-* –––, 1976. “The Logic of the Social Sciences”, in T. Adorno _et al_. (eds.), _The Positivist Dispute in German Sociology_, G. Adey and D. Frisby (trans.), New York: Harper, pp. 87–104.
-* Posner, R., 1972. _Economic Analysis of Law_, Boston: Little, Brown & Co.
-* Pratten, S. (ed.), 2015. _Social Ontology and Modern Economics_, London: Routledge.
-* Rabin, M., 1998. “Psychology and Economics”, _Journal of Economic Literature_, 36: 11–46.
-* Radcliff, Benjamin, 2013. _The Political Economy of Human Happiness_, Cambridge: Cambridge University Press.
-* Rappaport, S., 1998. _Models and Reality in Economics_, Cheltenham: Edward Elgar.
-* Reder, M., 1999. _Economics: The Culture of a Controversial Science_, Chicago: University of Chicago Press.
-* Redman, D., 1989. _Economic Methodology: A Bibliography with References to Works in the Philosophy of Science, 1860–1988_, New York: Greenwood Press.
-* –––, 1990. _Economics and the Philosophy of Science_, Oxford: Oxford University Press.
-* –––, 1997. _The Rise of Political Economy as a Science: Methodology and the Classical Economists_, Cambridge, MA: MIT Press.
-* Reiss, J., 2007. _Error in Economics: Towards a More Evidence-Based Methodology_, London: Routledge.
-* –––, 2012. “The Explanation Paradox”, _Journal of Economic Methodology_, 19: 43–62.
-* –––, 2013. _The Philosophy of Economics: A Contemporary Introduction_, London: Routledge.
-* Reuter, M. and C. Montag (eds.), 2016. _Studies in Neuroscience, Psychology and Behavioral Economics_, New York: Springer.
-* Ricardo, D., 1817. _On the Principles of Political Economy and Taxation_ (Volume 1: The Collected Works of David Ricardo), P. Sraffa and M. Dobb (eds.), Cambridge: Cambridge University Press, 1951.
-* Richter, R. (ed.), 2015, _Essays on New Institutional Economics._ New York: Springer.
-* Robbins, L., 1932. _An Essay on the Nature and Significance of Economic Science_, London: Macmillan; 2nd edition, 1935; 3rd edition, 1983.
-* Robinson, J., 1962. _Economic Philosophy_, Chicago: Aldine.
-* Rochon, L. and S. Rossi (eds.), 2017. _A Modern Guide to Rethinking Economics. New Directions in Post-Keynesian Economics_, Cheltenham, UK: Elgar.
-* Rodrik, Dani, 2015. _Economics Rules: The Rights and Wrongs of the Dismal Science_, New York: W.W. Norton.
-* Roscher, W., 1874. _Geschichte der National-oekonomik in Deutschland_, Munich: R. Oldenbourg.
-* Rosenberg, A., 1976. _Microeconomic Laws: A Philosophical Analysis_, Pittsburgh: University of Pittsburgh Press.
-* –––, 1980. _Sociobiology and the Preemption of Social Science_, Baltimore: Johns-Hopkins University Press.
-* –––, 1988. “Economics is too Important to Be Left to the Rhetoricians”, _Economics and Philosophy_, 4: 129–49.
-* –––, 1992. _Economics — Mathematical Politics or Science of Diminishing Returns_, Chicago: University of Chicago Press.
-* Ross, D., 2005. _Economic Theory and Cognitive Science: Microexplanation_, Cambridge, MA: MIT Press.
-* –––, 2014. _Philosophy of Economics_, New York: St. Martin’s Press, .
-* Roth, A., 1988. “Laboratory Experimentation in Economics: A Methodological Overview”, _Economic Journal_, 98: 974–1031.
-* –––, 2015. _Who Gets What—and Why: The New Economics of Matchmaking and Market Design_, New York: Houghton Mifflin Harcourt.
-* Rothbard, M., 1957. “In Defense of ‘Extreme Apriorism’”, _Southern Economic Journal_, 23: 314–20.
-* Rothschild, K., 1993. _Ethics and Economic Theory_, Cheltenham: Edward Elgar.
-* Rotwein, E., 1959. “On ‘The Methodology of Positive Economics’”, _Quarterly Journal of Economics_, 73: 554–75.
-* Roy, S., 1991. _Philosophy of Economics: On the Scope of Reason in Economic Inquiry_, London: Routledge.
-* Ruccio, D. and J. Amariglio, 2003. _Postmodern Moments in Modern Economics_, Princeton: Princeton University Press.
-* Runde, J., 1998. “Assessing Causal Economic Explanations”, _Oxford Economic Papers_, 50: 151–72.
-* Runde, J. and S. Mizuhara (eds.), 2003. _The Philosophy of Keynes’ Economics: Probability, Uncertainty and Convention_, London: Routledge.
-* Russo, F., 2009. _Causality and Causal Modelling in the Social Sciences: Measuring Variations_, New York: Springer.
-* Rustichini, A., 2005. “Neuroeconomics: Present and Future”, _Games and Economic Behavior_, 52: 201–12.
-* –––, 2009. “Neuroeconomics: What have we found, and what should we search for?” _Current Opinion in Neurobiology_, 19: 672–677.
-* Rutherford, M., 1994. _Institutions in Economics: The Old and New Institutionalism_, Cambridge: Cambridge University Press.
-* Salanti, A. and E. Screpanti (eds.), 1997. _Pluralism in Economics: New Perspectives in History and Methodology_, Cheltenham: Edward Elgar.
-* Samuels, W., 2011. _Erasing the Invisible Hand: Essays on an Elusive and Misused Concept in Economics_ (with the assistance of Marianne F. Johnson and William H. Perry), Cambridge: Cambridge University Press.
-* Samuels, W. (ed.), 1980. _The Methodology of Economic Thought: Critical Papers from the Journal of Economic Thought \[Issues_, New Brunswick: Transaction Books.
-* ––– (ed.), 1987. _History and Methodology of Economics_, Greenwich, CN, JAI Press.
-* ––– (ed.), 1990. _Economics as Discourse_, Dordrecht: Kluwer.
-* Samuelson, P., 1947. _Foundations of Economic Analysis_, Cambridge, MA: Harvard University Press.
-* –––, 1963. “Problems of Methodology — Discussion”, _American Economic Review Papers and Proceedings_, 53: 232–36.
-* –––, 1964. “Theory and Realism: A Reply”, _American Economic Review_, 54: 736–40.
-* –––, 1965. “Professor Samuelson on Theory and Realism: Reply”, _American Economic Review_, 55: 1162–72.
-* Sassower, R., 1985. _Philosophy of Economics, A Critique of Demarcation_, Lanham, MD: University Press of America.
-* Scazzieri, R., A. Sen, and S. Zamagni (eds.), 2008. _Markets, Money and Capital: Hicksian Economics for the Twenty-First Century_, Cambridge: Cambridge University Press.
-* Schlefer, J., 2012. _The Assumptions Economists Make_, Cambridge, MA: Harvard University Press.
-* Schmoller, G., 1888. _Zur Literatur-geschichte der Staats- und Sozialwissenschaften_, Leipzig: Duncker & Humblot.
-* –––, 1898. _Über einige Grundfragen der Sozialpolitik und der Volkswirtshaftslehre_, Leipzig: Duncker & Humblot.
-* Schoeffler, S., 1955. _The Failures of Economics: A Diagnostic Study_, Cambridge, MA: Harvard University Press.
-* Schrader, D., 1992. _The Corporation as Anomaly_, Cambridge: Cambridge University Press.
-* Schumpeter, J., 1954. _History of Economic Analysis_, New York: Oxford University Press.
-* Scott, S., 2013, _Architectures of Economic Subjectivity: The Philosophical Foundations of the Subject in the History of Economic Thought_, New York: Routledge.
-* Seligman, B., 1967. “On the Question of Operationalism: A Review Article”, _American Economic Review_, 57: 146–61.
-* –––, 1969. “The Impact of Positivism on Economic Thought”, _History of Political Economy_, 1: 256–78.
-* Sen, A. and B. Williams (eds.), 1982. _Utilitarianism and Beyond_, Cambridge: Cambridge University Press.
-* Senior, N., 1836. _Outline of the Science of Political Economy_, reprinted, New York: A. M. Kelley, 1965.
-* Sensat, J., 1988. “Methodological Individualism and Marxism”, _Economics and Philosophy_, 4: 189–220.
-* Sent, E., 1998. _The Evolving Rationality of Rational Expectations_, Cambridge: Cambridge University Press.
-* Shackle, G., 1972. _Epistemics and Economics: A Critique of Economic Doctrines_, Cambridge: Cambridge University Press.
-* Sharpes, D.K., 2009. _The Evolution of the Social Sciences_, Lanham, MD: Rowman and Littlefield, Lexington Books.
-* Shrader-Frechette, K., 1984. _Science Policy, Ethics, and Economic Methodology: Some Problems of Technology Assessment and Environmental-Impact Analysis_, Dordrect: D. Reidel.
-* Sidgwick, H., 1885. _The Scope and Method of Economic Science_, reprinted, New York: A. M. Kelley, 1968.
-* Simon, H., 1959. “Theories of Decision-Making in Economics and Behavioral Science”, _American Economic Review_, 49: 253–83.
-* –––, 1963. “Problems of Methodology — Discussion”, _American Economic Review Papers and Proceedings_, 53: 229–31.
-* –––, 1997. _An Empirically Based Microeconomics_, Cambridge: Cambridge University Press.
-* Sims, C., 1977. “Exogeneity and Causal Orderings in Macroeconomic Models”, in C. Sims (ed.), _New Methods in Business Cycle Research_, Minneapolis: Federal Reserve Bank, pp. 23–43.
-* Smith, A., 1776. _An Inquiry into the Nature and Causes of the Wealth of Nations_, reprinted, New York: Random House, 1937.
-* Smyth, R. (ed.), 1962. _Essays in Economic Method_, London: Duckworth.
-* Sowell, T., 1980. _Knowledge and Decisions_, New York: Basic Books.
-* Stanfield, R., 1974. “Kuhnian Revolutions and the Keynesian Revolution”, _Journal of Economic Issues_, 8: 97–109.
-* Starmer, C., 1999. “Experiments in Economics: should we trust the dismal scientists in white coats?”, _Journal of Economic Methodology_, 6, 1–30.
-* Stewart, I., 1979. _Reasoning and Method in Economics. An Introduction to Economic Methodology_, London: McGraw-Hill.
-* Stigler, G. J., 1947. “Professor Lester and the Marginalists”, _American Economic Review_, 37: 154–7.
-* Stigum, B., 2003. _Econometrics and the Philosophy of Economics: Theory“”Data Confrontations in Economics_, Princeton: Princeton University Press.
-* Sugden, R., 2000. “Credible Worlds: The Status of Theoretical Models in Economics”, _Journal of Economic Methodology_, 7: 1–31.
-* –––, 2009. “Credible Worlds, Capacities and Mechanisms”, _Erkenntnis_, 70: 3–27.
-* Summers, L., 1991. “The Scientific Illusion in Empirical Macroeconomics”, _Scandinavian Journal of Economics_, 93: 129–48.
-* Swedberg, R., 1990. _Economics and Sociology--Redefining Their Boundaries: Conversations with Economists and Sociologists_, Princeton: Princeton University Press.
-* –––, 2007. _Principles of Economic Sociology_, Princeton: Princeton University Press.
-* Thomas, Rod, 2017. “Karl Popper and the Methodologists of Economics”, _Cambridge Journal of Economics_, 41: 1143–1160.
-* Titmuss, R., 1971. _The Gift Relationship: From Human Blood to Social Policy_, New York: Random House.
-* Veblen, T., 1898. “Why Is Economics Not an Evolutionary Science?” _Quarterly Journal of Economics_, 12: 373–97.
-* Vercelli, A., 1991. _Methodological Foundations of Macroeconomics: Keynes and Lucas_, Cambridge: Cambridge University Press.
-* Verdon, M., 1996. _Keynes and the “Classics”: A Study in Language, Epistemology and Mistaken Identities_, London: Routledge.
-* Vickers, D., 1995. _The Tyranny of the Market: A Critique of Theoretical Foundations_, Ann Arbor: University of Michigan Press.
-* Vromen, J., 1995. _Economic Evolution: An Inquiry into the Foundations of Institutional Economics_, London: Routledge.
-* –––, 2009. “Advancing Evolutionary Explanations in Economics: The Limited Usefulness of Tinbergen’s Four Questions Classification”, in Harold Kincaid and Don Ross (eds.), _Oxford Handbook of Philosophy of Economics_, Oxford: Oxford University Press, 337–368.
-* Vromen, J. and C. Marchionni (eds.), 2018 _Neuroeconomics_, London: Routledge.
-* Ward, B., 1972. _What’s Wrong with Economics_? New York: Basic Books.
-* Weber, M., 1904. “‘Objectivity’ in Social Science and Social Policy”, in E. Shils and H. Finch, eds. _The Methodology of the Social Sciences_, New York, Free Press, 1949, pp. 49–112.
-* Weimann, Joachim and Andreas Knabe, 2015. _Measuring Happiness: The Economics of Well-Being_, Cambridge, MA: MIT Press.
-* Weintraub, E.R., 1985. _General Equilibrium Analysis: Studies in Appraisal_, Cambridge: Cambridge University Press.
-* –––, 1991. _Stabilizing Dynamics: Constructing Economic Knowledge_, Cambridge: Cambridge University Press.
-* –––, 2002. _How Economics Became a Mathematical Science_, Durham, NC: Duke University Press.
-* Wible, J., 1998. _The Economics of Science: Methodology and Epistemology as if Economics Really Mattered_, London: Routledge.
-* Wilber, C. and R. Harrison, 1978. “The Methodological Basis of Institutional Economics: Pattern Model, Storytelling and Holism”, _Journal of Economic Issues_, 12: 61–89.
-* Wiles, P. and G. and Routh (eds.), 1984. _What is Political Economy? Eight Perspectives_, Oxford: Basil Blackwell.
-* Wilson, D. and A. Kirman (eds.), 2016, _Complexity and Evolution: Toward a New Synthesis for Economics_, Cambridge, MA: MIT Press.
-* Winston, G. and R. Teichgraeber (eds.), 1988. _The Boundaries of Economics_, Cambridge: Cambridge University Press.
-* Winter, S., 1962. “Economic ‘Natural Selection’ and the Theory of the Firm”, _Yale Economic Essays_, 4: 255–72.
-* Wiseman, J. (ed.), 1983. _Beyond Positive Economics?_, London: British Association for the Advancement of Science.
-* Wisman, J. and J. Rozansky, 1991. “The Methodology of Institutionalism Revisited”, _Journal of Economic Issues_, 25: 709–37.
-* Witt, U. (ed.), 2008. _Recent Developments in Evolutionary Economics_, Cheltenham, UK: Edward Elgar.
-* Wold, H., 1954. “Causality and Econometrics”, _Econometrica_, 22: 162–77.
-* Wolpin, K., 2013, _The Limits of Inference without Theory. Tjalling C. Koopmans Memorial Lectures_, Cambridge, MA: MIT Press.
-* Wong, S., 1978. _The Foundations of Paul Samuelson’s Revealed Preference Theory_, London: Routledge.
-* Worland, S., 1972. “Radical Political Economy as a ‘Scientific Revolution.’” _Southern Economic Journal_, 39: 274–84.
-* Yeager, L., 1969. “_Methodenstreit_, over Demand Curves”, _Journal of Political Economy_, 68: 53–64.
-* Yuengert, A., 2004. _The Boundaries of Technique: Ordering Positive and Normative Concerns in Economic Research_, Lanham, MD: Lexington Books.
-* Zanini, A., 2008. _Economic Philosophy: Economic Foundations and Political Categories_, Cosma E. Orsi (trans.), New York: Lang.
-* Zellner, A. and D. Aigner (eds.), 1988. _Causality_, special issue, _Journal of Econometrics_, 39(1).
-* Ziliak, Stephen and Deirdre McCloskey, 2008. _The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives_, Ann Arbor, MI: University of Michigan Press.
+* –––, 1978. *Methodology of Economics and Other Social Sciences*, New York: Academic Press.
+* MacIntyre, A., 1967. “The Idea of a Social Science”, *Proceedings of the Aristotelian Society Supplementary Volume* 41: 95–114.
+* McKenzie, R., 1983. *The Limits of Economic Science*, Boston: Kluwer.
+* Mäki, U., 1988. “How to Combine Rhetoric and Realism in the Methodology of Economics”, *Economics and Philosophy* 4: 89–109.
+* –––, 1990a. “Friedman and Realism”, *Research in the History of Economic Thought and Methodology* 10:
+* –––, 1990b. “Mengerian Economics in Realist Perspective”, *History of Political Economy*, 22: 289–310.
+* –––, 1990c. “Scientific Realism and Austrian Explanation”, *Review of Political Economy*, 2: 310–44.
+* –––, 1992. “On the Method of Isolation in Economics”, in C. Dilworth (ed.), *Intelligibility in Science* (Poznan Studies in the Philosophy of the Sciences and the Humanities), Amsterdam: Rodopi, pp. 317–51.
+* –––, 2005. “Models Are Experiments. Experiments Are Models”, *Journal of Economic Methodology*, 12: 303–15.
+* –––, 2006. “On the method of isolation in economics”, in *Recent developments in economic methodology*, Vol. 3. Davis, J. & J.B. Davis, eds. Cheltenham: Edward Edgar pp. 3–37.
+* –––, 2007. *Realism and Economic Methodology*, London: Routledge.
+* –––, 2009a. “Missing the World. Models as Isolations and Credible Surrogate Systems” *Erkenntnis*, 70: 29–43.
+* –––, 2009b. “Realistic Realism about Unrealistic Models”, in Harold Kincaid and Don Ross (eds.), *The Oxford Handbook of Philosophy of Economics*, New York: Oxford University Press, 68–98.
+* –––, 2011. “Models and the Locus of their Truth”, *Synthese*, 180: 47–63.
+* Mäki, U. (ed.), 1991. *Fact and Fiction in Economics: Models, Realism and Social Construction*, Cambridge: Cambridge University Press.
+* ––– (ed.), 2001. *The Economic World View: Studies in the Ontology of Economics*, Cambridge: Cambridge University Press.
+* ––– (ed.), 2009c. *The Methodology of Positive Economics: Reflections on the Milton Friedman Legacy*, Cambridge: Cambridge University Press.
+* ––– (ed.), 2012. *Handbook of the Philosophy of Economics*, Amsterdam: Elsevier.
+* Mäki, U., B. Gustafsson and C. Knudsen (eds.), 1993. *Rationality, Institutions and Economic Methodology*, London: Routledge.
+* Mäki, U., Dov M. Gabbay, Paul Thagard and John Woods (eds.), 2007. *The Rise and fall of Popper and Lakatos in Economics*, New York: Oxford University Press.
+* Malinvaud, E., 1972. *Lectures on Microeconomic Theory*, tr. A. Silvey. Amsterdam: North-Holland.
+* Marcet, Jane, 2009. *Conversations on the Nature of Political Economy*, Reprint edition. New Brunswick, N.J. and London: Transaction.
+* Marchionni, C. and J. Vromen (eds.), 2014 *Neuroeconomics: Hype or Hope?*, London: Routledge.
+* Marr, W. and B. Raj (eds.), 1983. *How Economists Explain: A Reader in Methodology*, Lanham, MD: University Press of America.
+* Marschak, J., 1969. “On Econometric Tools”, *Synthese*, 20: 483–88.
+* Mauro, Carlos, Sofia Miguens and Susana Cadilha, 2013. *Converations on Human Action and Practical Rationality*, Newcastle: Cambridge Scholars.
+* Marx, K., 1867. *Capital* (Volume 1), S. Moore and E. Aveling (trans.), New York: International Publishers, 1967.
+* Marwell, G. and R. Ames, 1981. “Economists Free Ride. Does Anyone Else? Experiments on the Provision of Public Goods. IV”, *Journal of Public Economics*, 15: 295–310.
+* Mayer, T., 1993. *Truth Versus Precision in Economics*, Cheltenham: Edward Elgar.
+* Medema, S. and W. Samuels (eds.), 1996. *Foundations of Research in Economics: How do Economists do Economics?*, Cheltenham: Edward Elgar.
+* Meek, R., 1964. “Value-Judgements in Economics”, *British Journal for the Philosophy of Science*, 15: 89–96.
+* Meidinger, C., 1994. *Science Économique: Questions de Mèthode*, Paris: Vuibert.
+* Melitz, J., 1965. “Friedman and Machlup on the Significance of Testing Economic Assumptions”, *Journal of Political Economy*, 73: 37–60.
+* Menger, C., 1883. *Problems of Economics and Sociology*, L. Schneider (ed.), F. Nock (trans.), Urbana: University of Illinois Press, 1963.
+* Menger, K., 2009. *Unexplored Dimensions: Karl Menger on Economics and Philosophy (1923–1938)*, Edited by Giandomenica Becchio. Bingley, UK: Emerald.
+* Micocci, A., 2016, *A Historical Political Economy of Capitalism: After Metaphysics*, London: Routledge.
+* Mill, J. S., 1836. “On the Definition of Political Economy and the Method of Investigation Proper to It”, reprinted in *Collected Works of John Stuart Mill* (Volume 4), Toronto: University of Toronto Press, 1967.
+* –––, 1843. *A System of Logic*, London: Longmans, Green & Co., 1949.
+* –––, 1871. *Principles of Political Economy*, 7th edition, 1909, W. Ashley (ed.), reprinted New York: A. M. Kelley, 1976.
+* Minford, P. and D. Peel, 1983. *Rational Expectations and the New Macroeconomics*, Oxford: Martin Robertson & Co.
+* Mirowski, P., 1988. *Against Mechanism: Protecting Economics from Science*, Totowa, NJ: Rowman and Littlefied.
+* –––, 1990. *More Heat Than Light*, Cambridge: Cambridge University Press.
+* –––, 2002. *Machine Dreams: Economics Becomes a Cyborg Science*, Cambridge: Cambridge University Press.
+* –––, 2004. *The Effortless Economy of Science?*, Durham, NC: Duke University Press.
+* –––, 2013, *Never Let a Serious Crisis Go to Waste: How Neoliberalism Survived the Financial Meltdown*, London: Verso.
+* Mirowski, P. (ed.), 1986. *The Reconstruction of Economic Theory*, Boston: Kluwer.
+* Mirowski, P. and E. Sent (eds.), 2002. *Science Bought and Sold: Essays in the Economics of Science*, Chicago: University of Chicago Press.
+* Mises, L. von, 1949. *Human Action. A Treatise on Economics*, New Haven, Yale University Press.
+* –––, 1978. *The Ultimate Foundation of Economic Science: An Essay on Method*, 2nd edition, Kansas City: Sheed Andrews.
+* –––, 1981. *Epistemological Problems of Economics*, G. Reisman (trans.), New York: New York University Press.
+* Mishan, E., 1971. *Cost Benefit Analysis: An Introduction*, New York: Praeger.
+* Mongin, P., 1986. “La Controverse sur l’Entreprise (1940–1950) et la Formation de l’Irréalisme Méthodologique”, *Economies et Sociéties* (Sèrie Oeconomia) 5: 91–151.
+* –––, 1992. “The ‘Full-Cost’ Controversity of the 1940s and 1950s: A Methodological Assessment”, *History of Political Economy*, 24: 311–56.
+* Morgan, J. (ed.), 2016, *What is Neoclassical Economics? Debating the Origins, Meaning and Significance*, London: Routledge.
+* Morgan, M., 2001. “Models, Stories, and the Economic World”, *Journal of Economic Methodology*, 8: 361–84.
+* –––, 2004. “Imagination and Imaging in Model Building”, *Philosophy of Science*, 71: 753–66.
+* –––, 2012, *The World in the Model: How Economists Work and Think*, Cambridge: Cambridge University Presss.
+* Morgan, M. and M. Rutherford (eds.), 1998. *From Interwar Pluralism to Postwar Neoclassicism*, Durham: Duke University Press.
+* Mueller, J.D., 2010. *Redeeming Economics: Rediscovering the Missing Element*, Culture of Enterprise series. Wilmington, Del.: Intercollegiate Studies Institute.
+* Mullainathan, Sendhil and Eldar Shafir, 2013. *Scarcity: Why Having Too Little Means So Much*, London: Times Books.
+* Musgrave, A., 1981. “‘Unreal Assumptions’ in Economic Theory: The F-Twist Untwisted”, *Kyklos*, 34: 377–87.
+* Muth, J., 1961. “Rational Expectations and the Theory of Price Movements”, *Econometrica*, 29: 315–35.
+* Myrdal, G., 1955. *The Political Element in the Development of Economic Thought*, P. Streeten (trans.), Cambridge, MA: Harvard University Press.
+* Nagel, E., 1963. “Assumptions in Economic Theory”, *American Economic Review Papers and Proceedings*, 53: 211–19.
+* Nelson, A., 1986. “New Individualistic Foundations for Economics”, *Noûs*, 20: 469–90.
+* Nelson, J., 1995. “Feminism and Economics”, *Journal of Economic Perspectives*, 9: 131–48.
+* –––, 1996. *Feminism, Objectivity and Economics*, London: Routledge.
+* –––, 2001. “Economic Methodology and Feminist Critiques”, *Journal of Economic Methodology*, 8: 93–97.
+* Nell, 2017, *Liberty. The Driving Force of the Collective: Post-Austrian Theory in Response to Israel Kirzner*, New York: Springer.
+* Nell, G. (ed.), 2014a. *Austrian Economic Perspectives on Individualism and Society: Moving Beyond Methodological Individualism*, New York: St. Martin’s Press.
+* –––, 2014b. *Austrian Theory and Economic Organization: Reaching beyond Free Market Boundaries*, New York: St. Martin’s Press.
+* Nelson, R., 2001. *Economics As Religion: From Samuelson to Chicago and Beyond*, University Park, PA: Pennsylvania State University Press.
+* Nelson, R. and S. Winter, 1982. *An Evolutionary Theory of Economic Change*, Cambridge, MA: Harvard University Press.
+* Neuberg, L., 1988. *Conceptual Anomalies in Economics*, Cambridge: Cambridge University Press.
+* Nowak, L., 1980. *The Structure of Idealization: Towards a Systematic Interpretation of the Marxian Idea of Science*, Dordrecht: Reidel.
+* Oakley, A., 2002. *Reconstructing Economic Theory: The Problem of Human Agency*, Cheltenham, Edward Elgar.
+* O’Boyle, E., 1998. *Personalist Economics: Moral Convictions, Economic Realities, and Social Action*, Boston: Kluwer.
+* Ochangco, A., 1999. *Rationality in Economic Thought.: Methodological Ideas on the History of Political Economy*, Cheltenham: Edward Elgar.
+* Oliver, A. (ed.), 2013. *Behavioural Public Policy*, Cambridge: Cambridge University Press.
+* Ormerod, P., 1997. *The Death of Economics*, New York: Wiley.
+* –––, 2007. *Happiness, Economics and Public Policy*, London: Institute of Economic Affairs.
+* O’Sullivan, P., 1987. *Economic Methodology and Freedom to Choose*, London: Allen & Unwin.
+* Papandreou, A., 1958. *Economics as a Science*, Chicago: Lippincott.
+* Pareto, V., 1909. *Manual of Political Economy*, A. Schwier (trans.), New York: A.M. Kelley, 1971.
+* Parsons, T., 1934. “Some Reflections on ‘The Nature and Significance of Economics’”, *Quarterly Journal of Economics*, 48: 511–45.
+* Peterson, M. (ed.), 2015. *The Prisoner’s Dilemma*, New York: Cambridge University Press.
+* Pheby, J., 1988. *Methodology and Economics: A Critical Introduction*, London: Macmillan.
+* Piketty, T., 2014. *Capital in the Twenty-First Century*, Cambridge, MA: Harvard University Press.
+* Pitt, J. (ed.), 1981. *Philosophy in Economics*, Dordrecht: Reidel.
+* Plott, C.R., 1991. “Will Economics Become an Experimental Science?” *Southern Economic Journal*, 57: 901–919.
+* Popper, K., 1967. “La Rationalité et le Statut du Principe de Rationalité”, in E. Classen (ed.), *Les Fondements Philosophiques des Systèmes Économiques*, Paris: Paypot, pp. 142–50.
+* –––, 1976. “The Logic of the Social Sciences”, in T. Adorno *et al*. (eds.), *The Positivist Dispute in German Sociology*, G. Adey and D. Frisby (trans.), New York: Harper, pp. 87–104.
+* Posner, R., 1972. *Economic Analysis of Law*, Boston: Little, Brown & Co.
+* Pratten, S. (ed.), 2015. *Social Ontology and Modern Economics*, London: Routledge.
+* Rabin, M., 1998. “Psychology and Economics”, *Journal of Economic Literature*, 36: 11–46.
+* Radcliff, Benjamin, 2013. *The Political Economy of Human Happiness*, Cambridge: Cambridge University Press.
+* Rappaport, S., 1998. *Models and Reality in Economics*, Cheltenham: Edward Elgar.
+* Reder, M., 1999. *Economics: The Culture of a Controversial Science*, Chicago: University of Chicago Press.
+* Redman, D., 1989. *Economic Methodology: A Bibliography with References to Works in the Philosophy of Science, 1860–1988*, New York: Greenwood Press.
+* –––, 1990. *Economics and the Philosophy of Science*, Oxford: Oxford University Press.
+* –––, 1997. *The Rise of Political Economy as a Science: Methodology and the Classical Economists*, Cambridge, MA: MIT Press.
+* Reiss, J., 2007. *Error in Economics: Towards a More Evidence-Based Methodology*, London: Routledge.
+* –––, 2012. “The Explanation Paradox”, *Journal of Economic Methodology*, 19: 43–62.
+* –––, 2013. *The Philosophy of Economics: A Contemporary Introduction*, London: Routledge.
+* Reuter, M. and C. Montag (eds.), 2016. *Studies in Neuroscience, Psychology and Behavioral Economics*, New York: Springer.
+* Ricardo, D., 1817. *On the Principles of Political Economy and Taxation* (Volume 1: The Collected Works of David Ricardo), P. Sraffa and M. Dobb (eds.), Cambridge: Cambridge University Press, 1951.
+* Richter, R. (ed.), 2015, *Essays on New Institutional Economics.* New York: Springer.
+* Robbins, L., 1932. *An Essay on the Nature and Significance of Economic Science*, London: Macmillan; 2nd edition, 1935; 3rd edition, 1983.
+* Robinson, J., 1962. *Economic Philosophy*, Chicago: Aldine.
+* Rochon, L. and S. Rossi (eds.), 2017. *A Modern Guide to Rethinking Economics. New Directions in Post-Keynesian Economics*, Cheltenham, UK: Elgar.
+* Rodrik, Dani, 2015. *Economics Rules: The Rights and Wrongs of the Dismal Science*, New York: W.W. Norton.
+* Roscher, W., 1874. *Geschichte der National-oekonomik in Deutschland*, Munich: R. Oldenbourg.
+* Rosenberg, A., 1976. *Microeconomic Laws: A Philosophical Analysis*, Pittsburgh: University of Pittsburgh Press.
+* –––, 1980. *Sociobiology and the Preemption of Social Science*, Baltimore: Johns-Hopkins University Press.
+* –––, 1988. “Economics is too Important to Be Left to the Rhetoricians”, *Economics and Philosophy*, 4: 129–49.
+* –––, 1992. *Economics — Mathematical Politics or Science of Diminishing Returns*, Chicago: University of Chicago Press.
+* Ross, D., 2005. *Economic Theory and Cognitive Science: Microexplanation*, Cambridge, MA: MIT Press.
+* –––, 2014. *Philosophy of Economics*, New York: St. Martin’s Press, .
+* Roth, A., 1988. “Laboratory Experimentation in Economics: A Methodological Overview”, *Economic Journal*, 98: 974–1031.
+* –––, 2015. *Who Gets What—and Why: The New Economics of Matchmaking and Market Design*, New York: Houghton Mifflin Harcourt.
+* Rothbard, M., 1957. “In Defense of ‘Extreme Apriorism’”, *Southern Economic Journal*, 23: 314–20.
+* Rothschild, K., 1993. *Ethics and Economic Theory*, Cheltenham: Edward Elgar.
+* Rotwein, E., 1959. “On ‘The Methodology of Positive Economics’”, *Quarterly Journal of Economics*, 73: 554–75.
+* Roy, S., 1991. *Philosophy of Economics: On the Scope of Reason in Economic Inquiry*, London: Routledge.
+* Ruccio, D. and J. Amariglio, 2003. *Postmodern Moments in Modern Economics*, Princeton: Princeton University Press.
+* Runde, J., 1998. “Assessing Causal Economic Explanations”, *Oxford Economic Papers*, 50: 151–72.
+* Runde, J. and S. Mizuhara (eds.), 2003. *The Philosophy of Keynes’ Economics: Probability, Uncertainty and Convention*, London: Routledge.
+* Russo, F., 2009. *Causality and Causal Modelling in the Social Sciences: Measuring Variations*, New York: Springer.
+* Rustichini, A., 2005. “Neuroeconomics: Present and Future”, *Games and Economic Behavior*, 52: 201–12.
+* –––, 2009. “Neuroeconomics: What have we found, and what should we search for?” *Current Opinion in Neurobiology*, 19: 672–677.
+* Rutherford, M., 1994. *Institutions in Economics: The Old and New Institutionalism*, Cambridge: Cambridge University Press.
+* Salanti, A. and E. Screpanti (eds.), 1997. *Pluralism in Economics: New Perspectives in History and Methodology*, Cheltenham: Edward Elgar.
+* Samuels, W., 2011. *Erasing the Invisible Hand: Essays on an Elusive and Misused Concept in Economics* (with the assistance of Marianne F. Johnson and William H. Perry), Cambridge: Cambridge University Press.
+* Samuels, W. (ed.), 1980. *The Methodology of Economic Thought: Critical Papers from the Journal of Economic Thought \[Issues*, New Brunswick: Transaction Books.
+* ––– (ed.), 1987. *History and Methodology of Economics*, Greenwich, CN, JAI Press.
+* ––– (ed.), 1990. *Economics as Discourse*, Dordrecht: Kluwer.
+* Samuelson, P., 1947. *Foundations of Economic Analysis*, Cambridge, MA: Harvard University Press.
+* –––, 1963. “Problems of Methodology — Discussion”, *American Economic Review Papers and Proceedings*, 53: 232–36.
+* –––, 1964. “Theory and Realism: A Reply”, *American Economic Review*, 54: 736–40.
+* –––, 1965. “Professor Samuelson on Theory and Realism: Reply”, *American Economic Review*, 55: 1162–72.
+* Sassower, R., 1985. *Philosophy of Economics, A Critique of Demarcation*, Lanham, MD: University Press of America.
+* Scazzieri, R., A. Sen, and S. Zamagni (eds.), 2008. *Markets, Money and Capital: Hicksian Economics for the Twenty-First Century*, Cambridge: Cambridge University Press.
+* Schlefer, J., 2012. *The Assumptions Economists Make*, Cambridge, MA: Harvard University Press.
+* Schmoller, G., 1888. *Zur Literatur-geschichte der Staats- und Sozialwissenschaften*, Leipzig: Duncker & Humblot.
+* –––, 1898. *Über einige Grundfragen der Sozialpolitik und der Volkswirtshaftslehre*, Leipzig: Duncker & Humblot.
+* Schoeffler, S., 1955. *The Failures of Economics: A Diagnostic Study*, Cambridge, MA: Harvard University Press.
+* Schrader, D., 1992. *The Corporation as Anomaly*, Cambridge: Cambridge University Press.
+* Schumpeter, J., 1954. *History of Economic Analysis*, New York: Oxford University Press.
+* Scott, S., 2013, *Architectures of Economic Subjectivity: The Philosophical Foundations of the Subject in the History of Economic Thought*, New York: Routledge.
+* Seligman, B., 1967. “On the Question of Operationalism: A Review Article”, *American Economic Review*, 57: 146–61.
+* –––, 1969. “The Impact of Positivism on Economic Thought”, *History of Political Economy*, 1: 256–78.
+* Sen, A. and B. Williams (eds.), 1982. *Utilitarianism and Beyond*, Cambridge: Cambridge University Press.
+* Senior, N., 1836. *Outline of the Science of Political Economy*, reprinted, New York: A. M. Kelley, 1965.
+* Sensat, J., 1988. “Methodological Individualism and Marxism”, *Economics and Philosophy*, 4: 189–220.
+* Sent, E., 1998. *The Evolving Rationality of Rational Expectations*, Cambridge: Cambridge University Press.
+* Shackle, G., 1972. *Epistemics and Economics: A Critique of Economic Doctrines*, Cambridge: Cambridge University Press.
+* Sharpes, D.K., 2009. *The Evolution of the Social Sciences*, Lanham, MD: Rowman and Littlefield, Lexington Books.
+* Shrader-Frechette, K., 1984. *Science Policy, Ethics, and Economic Methodology: Some Problems of Technology Assessment and Environmental-Impact Analysis*, Dordrect: D. Reidel.
+* Sidgwick, H., 1885. *The Scope and Method of Economic Science*, reprinted, New York: A. M. Kelley, 1968.
+* Simon, H., 1959. “Theories of Decision-Making in Economics and Behavioral Science”, *American Economic Review*, 49: 253–83.
+* –––, 1963. “Problems of Methodology — Discussion”, *American Economic Review Papers and Proceedings*, 53: 229–31.
+* –––, 1997. *An Empirically Based Microeconomics*, Cambridge: Cambridge University Press.
+* Sims, C., 1977. “Exogeneity and Causal Orderings in Macroeconomic Models”, in C. Sims (ed.), *New Methods in Business Cycle Research*, Minneapolis: Federal Reserve Bank, pp. 23–43.
+* Smith, A., 1776. *An Inquiry into the Nature and Causes of the Wealth of Nations*, reprinted, New York: Random House, 1937.
+* Smyth, R. (ed.), 1962. *Essays in Economic Method*, London: Duckworth.
+* Sowell, T., 1980. *Knowledge and Decisions*, New York: Basic Books.
+* Stanfield, R., 1974. “Kuhnian Revolutions and the Keynesian Revolution”, *Journal of Economic Issues*, 8: 97–109.
+* Starmer, C., 1999. “Experiments in Economics: should we trust the dismal scientists in white coats?”, *Journal of Economic Methodology*, 6, 1–30.
+* Stewart, I., 1979. *Reasoning and Method in Economics. An Introduction to Economic Methodology*, London: McGraw-Hill.
+* Stigler, G. J., 1947. “Professor Lester and the Marginalists”, *American Economic Review*, 37: 154–7.
+* Stigum, B., 2003. *Econometrics and the Philosophy of Economics: Theory“”Data Confrontations in Economics*, Princeton: Princeton University Press.
+* Sugden, R., 2000. “Credible Worlds: The Status of Theoretical Models in Economics”, *Journal of Economic Methodology*, 7: 1–31.
+* –––, 2009. “Credible Worlds, Capacities and Mechanisms”, *Erkenntnis*, 70: 3–27.
+* Summers, L., 1991. “The Scientific Illusion in Empirical Macroeconomics”, *Scandinavian Journal of Economics*, 93: 129–48.
+* Swedberg, R., 1990. *Economics and Sociology--Redefining Their Boundaries: Conversations with Economists and Sociologists*, Princeton: Princeton University Press.
+* –––, 2007. *Principles of Economic Sociology*, Princeton: Princeton University Press.
+* Thomas, Rod, 2017. “Karl Popper and the Methodologists of Economics”, *Cambridge Journal of Economics*, 41: 1143–1160.
+* Titmuss, R., 1971. *The Gift Relationship: From Human Blood to Social Policy*, New York: Random House.
+* Veblen, T., 1898. “Why Is Economics Not an Evolutionary Science?” *Quarterly Journal of Economics*, 12: 373–97.
+* Vercelli, A., 1991. *Methodological Foundations of Macroeconomics: Keynes and Lucas*, Cambridge: Cambridge University Press.
+* Verdon, M., 1996. *Keynes and the “Classics”: A Study in Language, Epistemology and Mistaken Identities*, London: Routledge.
+* Vickers, D., 1995. *The Tyranny of the Market: A Critique of Theoretical Foundations*, Ann Arbor: University of Michigan Press.
+* Vromen, J., 1995. *Economic Evolution: An Inquiry into the Foundations of Institutional Economics*, London: Routledge.
+* –––, 2009. “Advancing Evolutionary Explanations in Economics: The Limited Usefulness of Tinbergen’s Four Questions Classification”, in Harold Kincaid and Don Ross (eds.), *Oxford Handbook of Philosophy of Economics*, Oxford: Oxford University Press, 337–368.
+* Vromen, J. and C. Marchionni (eds.), 2018 *Neuroeconomics*, London: Routledge.
+* Ward, B., 1972. *What’s Wrong with Economics*? New York: Basic Books.
+* Weber, M., 1904. “‘Objectivity’ in Social Science and Social Policy”, in E. Shils and H. Finch, eds. *The Methodology of the Social Sciences*, New York, Free Press, 1949, pp. 49–112.
+* Weimann, Joachim and Andreas Knabe, 2015. *Measuring Happiness: The Economics of Well-Being*, Cambridge, MA: MIT Press.
+* Weintraub, E.R., 1985. *General Equilibrium Analysis: Studies in Appraisal*, Cambridge: Cambridge University Press.
+* –––, 1991. *Stabilizing Dynamics: Constructing Economic Knowledge*, Cambridge: Cambridge University Press.
+* –––, 2002. *How Economics Became a Mathematical Science*, Durham, NC: Duke University Press.
+* Wible, J., 1998. *The Economics of Science: Methodology and Epistemology as if Economics Really Mattered*, London: Routledge.
+* Wilber, C. and R. Harrison, 1978. “The Methodological Basis of Institutional Economics: Pattern Model, Storytelling and Holism”, *Journal of Economic Issues*, 12: 61–89.
+* Wiles, P. and G. and Routh (eds.), 1984. *What is Political Economy? Eight Perspectives*, Oxford: Basil Blackwell.
+* Wilson, D. and A. Kirman (eds.), 2016, *Complexity and Evolution: Toward a New Synthesis for Economics*, Cambridge, MA: MIT Press.
+* Winston, G. and R. Teichgraeber (eds.), 1988. *The Boundaries of Economics*, Cambridge: Cambridge University Press.
+* Winter, S., 1962. “Economic ‘Natural Selection’ and the Theory of the Firm”, *Yale Economic Essays*, 4: 255–72.
+* Wiseman, J. (ed.), 1983. *Beyond Positive Economics?*, London: British Association for the Advancement of Science.
+* Wisman, J. and J. Rozansky, 1991. “The Methodology of Institutionalism Revisited”, *Journal of Economic Issues*, 25: 709–37.
+* Witt, U. (ed.), 2008. *Recent Developments in Evolutionary Economics*, Cheltenham, UK: Edward Elgar.
+* Wold, H., 1954. “Causality and Econometrics”, *Econometrica*, 22: 162–77.
+* Wolpin, K., 2013, *The Limits of Inference without Theory. Tjalling C. Koopmans Memorial Lectures*, Cambridge, MA: MIT Press.
+* Wong, S., 1978. *The Foundations of Paul Samuelson’s Revealed Preference Theory*, London: Routledge.
+* Worland, S., 1972. “Radical Political Economy as a ‘Scientific Revolution.’” *Southern Economic Journal*, 39: 274–84.
+* Yeager, L., 1969. “*Methodenstreit*, over Demand Curves”, *Journal of Political Economy*, 68: 53–64.
+* Yuengert, A., 2004. *The Boundaries of Technique: Ordering Positive and Normative Concerns in Economic Research*, Lanham, MD: Lexington Books.
+* Zanini, A., 2008. *Economic Philosophy: Economic Foundations and Political Categories*, Cosma E. Orsi (trans.), New York: Lang.
+* Zellner, A. and D. Aigner (eds.), 1988. *Causality*, special issue, *Journal of Econometrics*, 39(1).
+* Ziliak, Stephen and Deirdre McCloskey, 2008. *The Cult of Statistical Significance: How the Standard Error Costs Us Jobs, Justice, and Lives*, Ann Arbor, MI: University of Michigan Press.
 
 ### Ethics and economics
 
-* Adler, M., 2012. _Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis_, New York: Oxford University Press.
-* Adler, M., and M. Fleurbaey (eds.), 2016. _The Oxford Handbook of Well-Being and Public Policy_, New York: Oxford University Press.
-* Adler, M. and E. Posner, 2006. _New Foundations of Cost-Benefit Analysis_, Chicago: University of Chicago Press.
-* ––– (eds.), 2000. _Cost-Benefit Analysis: Legal, Economic and Philosophical Perspectives_, Chicago: University of Chicago Press.
-* Allais, M., 1952. “The Foundations of a Positive Theory of Choice involving Risk and a Criticism of the Postulates and Axioms of the American School”, in M. Allais and O. Hagen (eds.), _Expected Utility Hypotheses and the Allais Paradox_, Dordrecht: Reidel, 1979, pp. 27–145.
-* Anderson, E., 1990. “The Ethical Limitations of the Market”, _Economics and Philosophy_, 6: 179–206.
-* Arneson, R., 1989. “Equality and Equal Opportunity for Welfare”, _Philosophical Studies_, 56: 77–93.
-* Arpaly, N. and T. Schroeder, 2014. _In Praise of Desire_, New York: Oxford University Press.
-* Arrow, K., 1990. “Liberalism, Distributive Subjectivism, and Equal Opportunity for Welfare”, _Philosophy and Public Affairs_, 19: 158–94.
-* –––, 1951. _Social Choice and Individual Values_, New York: Wiley; 2nd edition, 1963.
+* Adler, M., 2012. *Well-Being and Fair Distribution: Beyond Cost-Benefit Analysis*, New York: Oxford University Press.
+* Adler, M., and M. Fleurbaey (eds.), 2016. *The Oxford Handbook of Well-Being and Public Policy*, New York: Oxford University Press.
+* Adler, M. and E. Posner, 2006. *New Foundations of Cost-Benefit Analysis*, Chicago: University of Chicago Press.
+* ––– (eds.), 2000. *Cost-Benefit Analysis: Legal, Economic and Philosophical Perspectives*, Chicago: University of Chicago Press.
+* Allais, M., 1952. “The Foundations of a Positive Theory of Choice involving Risk and a Criticism of the Postulates and Axioms of the American School”, in M. Allais and O. Hagen (eds.), *Expected Utility Hypotheses and the Allais Paradox*, Dordrecht: Reidel, 1979, pp. 27–145.
+* Anderson, E., 1990. “The Ethical Limitations of the Market”, *Economics and Philosophy*, 6: 179–206.
+* Arneson, R., 1989. “Equality and Equal Opportunity for Welfare”, *Philosophical Studies*, 56: 77–93.
+* Arpaly, N. and T. Schroeder, 2014. *In Praise of Desire*, New York: Oxford University Press.
+* Arrow, K., 1990. “Liberalism, Distributive Subjectivism, and Equal Opportunity for Welfare”, *Philosophy and Public Affairs*, 19: 158–94.
+* –––, 1951. *Social Choice and Individual Values*, New York: Wiley; 2nd edition, 1963.
 * –––, 1967. “Values and Collective Decision Making”, reprinted in Hahn & Hollis 1979, pp. 110–26.
-* –––, 1972. “Gifts and Exchanges”, _Philosophy and Public Affairs_, 1: 343–62.
-* –––, 1973. “Some Ordinalist-Utilitarian Notes on Rawls’ Theory of Justice”, _Journal of Philosophy_, 70: 245–63.
-* –––, 1978. “Extended Sympathy and the Possibility of Social Choice”, _Philosophia_, 7: 223–37.
-* Atkinson, A., 2015. _Inequality: What Can Be Done?_, Cambridge, MA: Harvard University Press.
-* Axelrod, R., 1984. _The Evolution of Cooperation_, New York: Basic Books.
-* Baker, C., 1975. “The Ideology of the Economic Analysis of Law”, _Philosophy and Public Affairs_, 5: 3–48.
-* Ballet, J., D. Bazin, j. Dubois and F. Mahieu, 2014. _Freedom, Responsibility and Economics of the Person_, London: Routledge.
-* Baumol, W., 1986. _Superfairness: Applications and Theory_, Cambridge, MA: MIT Press.
-* Bentham, J., 1789. _An Introduction to the Principles of Morals and Legislation_, W. Harrison (ed.), Oxford: Basil Blackwell, 1967.
-* Bergson, A., 1938. “A Reformulation of Certain Aspects of Welfare Economics”, _Quarterly Journal of Economics_, 52: 30–34.
-* Binmore, K., 1994. _Playing Fair: Game Theory and the Social Contract_, Cambridge MA: MIT Press.
+* –––, 1972. “Gifts and Exchanges”, *Philosophy and Public Affairs*, 1: 343–62.
+* –––, 1973. “Some Ordinalist-Utilitarian Notes on Rawls’ Theory of Justice”, *Journal of Philosophy*, 70: 245–63.
+* –––, 1978. “Extended Sympathy and the Possibility of Social Choice”, *Philosophia*, 7: 223–37.
+* Atkinson, A., 2015. *Inequality: What Can Be Done?*, Cambridge, MA: Harvard University Press.
+* Axelrod, R., 1984. *The Evolution of Cooperation*, New York: Basic Books.
+* Baker, C., 1975. “The Ideology of the Economic Analysis of Law”, *Philosophy and Public Affairs*, 5: 3–48.
+* Ballet, J., D. Bazin, j. Dubois and F. Mahieu, 2014. *Freedom, Responsibility and Economics of the Person*, London: Routledge.
+* Baumol, W., 1986. *Superfairness: Applications and Theory*, Cambridge, MA: MIT Press.
+* Bentham, J., 1789. *An Introduction to the Principles of Morals and Legislation*, W. Harrison (ed.), Oxford: Basil Blackwell, 1967.
+* Bergson, A., 1938. “A Reformulation of Certain Aspects of Welfare Economics”, *Quarterly Journal of Economics*, 52: 30–34.
+* Binmore, K., 1994. *Playing Fair: Game Theory and the Social Contract*, Cambridge MA: MIT Press.
 * Boadway, R., 2016. “Cost-Benefit Analysis”, in Adler and Fleurbaey (eds.) 2016, pp. 47–81.
-* Boardman, A., D. Greenberg, A. Vining, and D. Weimer, 2010. _Cost-Benefit Analysis_, 4th edition, Englewood Cliffs, NJ: Prentice-Hall.
-* Boulding, K., 1969. “Economics as a Moral Science”, _American Economic Review_, 59: 1–12.
-* Bowles, S., 2012. _The New Economics of Inequality and Redistribution_, New York: Cambridge University Press.
-* Bowles, S. and H. Gintis, 1993. “A Political and Economic Case for the Democratic Enterprise”, _Economics and Philosophy_, 9: 75–100.
-* –––, 2011. _A Cooperative Species: Human Reciprocity and its Evolution_, Princeton: Princeton University Press.
-* Brennan, G. and J. Buchanan, 1985. _The Reason of Rules: Constitutional Political Economy_, New York: Cambridge University Press.
-* Broome, J., 1989. “Should Social Preferences Be Consistent?” _Economics and Philosophy_, 5: 7–18.
-* –––, 1991. _Weighing Goods_, Oxford: Basil Blackwell.
-* –––, 1999. _Ethics Out of Economics_, Cambridge: Cambridge University Press.
-* –––, 2006. _Weighing Lives_, Oxford: Oxford University Press.
-* –––, 2012. _Climate Matters: Ethics in a Warming World_, New York: Norton.
-* Buchanan, A., 1985. _Ethics, Efficiency, and the Market_, Totowa, NJ: Rowman & Allanheld.
-* Buchanan, J., 1975. _The Limits of Liberty: Between Anarchy and Leviathan_, Chicago: University of Chicago Press.
-* Carter, I., 1999. _A Measure of Freedom_, Oxford: Oxford University Press.
-* Coase, R., 1960. “The Problem of Social Cost”, _Journal of Law and Economics_, 3: 1–30.
-* Cohen, G.A., 1989. “On the Currency of Egalitarian Justice”, _Ethics_, 99: 906–44.
-* Coleman, J., 1984. “Economics and the Law: A Critical Review of the Foundations of the Economic Approach to Law”, _Ethics_, 94: 649–79.
-* Collard, D., 1978. _Altruism and Economy: A Study in Non-selfish Economics_, New York: Oxford University Press.
-* d’Aspremont, C. and L. Gevers, 1977. “Equity and the Informational Basis of Collective Choice”, _Review of Economic Studies_, 44: 199–209.
-* Deaton, Angus, 2013. _The Great Escape: Health, Wealth and the Origin of Inequality_, Princeton: Princeton University Press.
-* Debreu, G., 1959. _Theory of Value_, New York: Wiley.
-* Drakopoulos, S., 1991. _Values in Economic Theory_, Aldershot: Avebury.
-* Dworkin, G., G. Bermant and P. Brown (eds.), 1977. _Markets and Morals_, Washington: Hempisphere Publishing.
-* Dworkin, R., 1981. “What is Equality? Part 2: Equality of Resources”, _Philosophy and Public Affairs_, 10: 283–345.
-* Easterly, William, 2013. _The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor_, New York: Basic Books.
-* Ege, R. and H. Igersheim (eds.), 2011. _Freedom and Happiness in Economic Thought and Philosophy: From Clash to Reconciliation_, New York: Routledge.
-* Elster, J. and A. Hylland (eds.), 1986. _Foundations of Social Choice Theory_, New York: Cambridge University Press.
-* Elster, J. and J. Roemer (eds.), 1991. _Interpersonal comparisons of well-being_, Cambridge: Cambridge University Press.
-* Eyal, N., S. Hurst, O. Norheim, and D. Wikler (eds.), 2013. _Inequalities in Health: Concepts, Measures and Ethics_, Oxford: Oxford University Press.
-* Fleurbaey, M., 1995. “Equal Opportunity or Equal Social Outcome”, _Economics and Philosophy_, 11: 25–56.
-* –––, 2002. “Equality of Resources Revisited”, _Ethics_, 113: 82–105.
-* –––, 2005. “The Pazner-Schmeidler Social Ordering: A Defense”, _Review of Economic Design_, 9: 145–66.
-* –––, 2007. “Social Choice and Just Institutions: New Perspectives”, _Economics and Philosophy_, 23: 15–43.
-* –––, 2008. _Fairness, Responsibility, and Welfare_, Oxford: Oxford University Press.
-* Fleurbaey, M. and D. Blanchet, 2013. _Beyond GDP: Measuring Welfare and Assessing Sustainability_, Oxford: Oxford University Press.
-* Fleurbaey, M. and F. Maniquet, 2014. _A Theory of Fairness and Social Welfare_, Cambridge: Cambridge University Press.
-* Frank, R., 1988. _Passions Within Reason: The Strategic Role of the Emotions_, New York: W. W. Norton.
-* –––, R., 2007. _Falling Behind: How Rising inequality Harms the Middle Class_, Berkeley, CA: University of California Press.
-* Frank, R., T. Gilovich, and D. Regan, 1993. “Does Studying Economics Inhibit Cooperation?” _Journal of Economic Perspectives_, 7: 159–72.
-* Fankhauser, S., R. Tol, and D. Pearce, 1997. “The Aggregation of Climate Change Damages: A Welfare Theoretic Approach”, _Environmental and Resource Economics_, 10: 249–66.
-* Frey, B., 2010. _Happiness: A Revolution in Economics_, Cambridge, MA: MIT Press.
-* Frey, B. and A. Stutzer, 2001. _Happiness and Economics: How the Economy and Institutions Affect Human Well-Being_, Princeton, NJ: Princeton University Press.
-* Friedman, M., 1962. _Capitalism and Freedom_, Chicago: University of Chicago Press.
-* Friedman, M. and R. Friedman, 1980. _Free to Choose_, New York: Harcourt Brace Javanovich.
-* Gaertner, W. and E. Schokkaert, 2012. _Empirical Social Choice: Questionnaire-Experimental Studies on Distributive Justice_, Cambridge: Cambridge University Press.
-* Gaertner, W., P. Pattanaik, and K. Suzumura, 1992. “Individual Rights Revisited”, _Economica_, 59: 161–77.
-* Gambetta, D. (ed.), 1988. _Trust: Making and Breaking Cooperative Relations_, Oxford: Basil Blackwell.
-* Gardenfors, P., 1981. “Rights, Games and Social Choice”, _Noûs_, 15: 341–356.
-* Gaus, Gerald, 2011. _The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World_, Cambridge: Cambridge University Press.
-* Gauthier, D., 1986. _Morals by Agreement_, Oxford: Oxford University Press.
-* George, D., 2001. _Preference Pollution: How Markets Creates Desires We Dislike_, Ann Arbor: University of Michigan Press.
-* Gibbard, A., 1974. “A Pareto-Consistent Libertarian Claim”, _Journal of Economic Theory_, 7: 388–410.
-* Gilbert, M., 1990. “Walking Together: A Paradigmatic Social Phenomenon”, in P. French, T. Uehling and H. Wettstein (eds.), _Midwest Studies in Philosophy_ (Volume 15: _The Philosophy of the Human Sciences_), Notre Dame, IN: University of Notre Dame Press, pp. 1–14.
-* Gotoh, R. and P. Dumouchel (eds.), 2009 _Against Injustice: The New Economics of Amartya Sen_, Cambridge: Cambridge University Press.
-* Grant, R., 2012. _Strings Attached: Untangling the Ethics of Incentives_, Princeton: Princeton University Press.
-* Greaves, H., 2015. “‘Antiprioritarianism’”, _Utilitas_, 27: 1–42.
-* Grether, D. and C. Plott, 1979. “Economic Theory of Choice and the Preference Reversal Phenomenon”, _American Economic Review_, 69: 623–38.
-* Hamlin, A., 1986. _Ethics, Economics, and the State_, New York: St. Martin’s Press.
-* Hammond, P., 1983. “Ex-Post Optimality as a Dynamically Consistent Objective for Collective Choice Under Uncertainty”, in Prasanta Pattanaik and Maurice Salles (eds.), _Social Choice and Welfare_, Amsterdam: North-Holland.
-* Harburger, A., 1978. “On the Use of Distributional Weights in Social Cost-Benefit Analysis”, _Journal of Political Economy_, 86: s87-s120.
-* Hardin, R., 1982. _Collective Action_, Baltimore: Johns Hopkins University Press.
-* Harris, R. and N. Olewiler, 1979. “The Welfare Economics of _Ex Post_, Optimality”. _Economica_, 46: 137–147.
-* Harsanyi, J., 1955. “Cardinal Welfare, Individualistic Ethics and Interpersonal Comparisons of Utility”, _Journal of Political Economy_, 63: 309–321.
-* –––, 1977a. “Morality and the Theory of Rational Behavior”, _Social Research_, 44; reprinted in Sen and Williams (eds.) 1982, pp. 39–62.
-* Hausman, D., 2010. “Hedonism and Welfare Economics”, _Economics and Philosophy_, 26: 321–44.
-* Hausman, D. and M. McPherson, 2006. _Economic Analysis, Moral Philosophy, and Public Policy_, Cambridge: Cambridge University Press.
-* –––, 2007. “The Philosophical Foundations of Mainstream Normative Economics”, in _The Philosophy of Economics: An Anthology_, 3rd edition, Cambridge: Cambridge University Press, pp. 226–50.
-* –––, 2009. “Preference Satisfaction and Welfare Economics”, _Economics and Philosophy_, 25: 1–25.
-* Hausman, D. and M.S. Waldren, 2011. “Egalitarianism Reconsidered”, _Journal of Moral Philosophy_, 8: 567–86.
-* Hausman, D. and B. Welch, 2010. “To Nudge or Not to Nudge”, _Journal of Political Philosophy_, 18: 123–36.
-* Hausman, D, M. McPherson, and D. Satz, 2017. _Economic Analysis, Moral Philosophy, and Public Policy_, 3rd edition, New York: Cambridge University Press.
-* Hayek, F. von, 1967. “The Moral Element in Free Enterprise”, _Studies in Philosophy, Politics and Pconomics_, Chicago: University of Chicago Press, pp. 229–36.
-* –––, 1976. _The Mirage of Social Justice_, Chicago: University of Chicago Press.
-* Hennipman, P., 1992. “Hicks, Robbins, and the Demise of Pigovian Welfare Economics: A Rectification and Amplification”, _Southern Economic Journal_, 59: 88–97.
-* Hicks, J., 1939. “The Foundations of Welfare Economics”, _Economic Journal_, 49: 696–712.
-* Hirose, I., 2015. _Moral Aggregation_, Oxford: Oxford University Press.
-* Hirose, I. and J. Olson (eds.), 2015. _The Oxford Handbook of Value Theory_, New York: Oxford University Press.
-* Hirsch, F., 1976. _The Social Limits to Growth_, Cambridge: Harvard University Press.
-* Hook, S. (ed.), 1967. _Human Values and Economic Policy_, New York: New York University Press.
-* Kahneman, D., 1999. “Objective Happiness”, in D. Kahneman, E. Diener and N. Schwarz (eds.), _Well-Being: Foundations of Hedonic Psychology_, New York: Russell Sage Foundation Press, pp. 3–27.
+* Boardman, A., D. Greenberg, A. Vining, and D. Weimer, 2010. *Cost-Benefit Analysis*, 4th edition, Englewood Cliffs, NJ: Prentice-Hall.
+* Boulding, K., 1969. “Economics as a Moral Science”, *American Economic Review*, 59: 1–12.
+* Bowles, S., 2012. *The New Economics of Inequality and Redistribution*, New York: Cambridge University Press.
+* Bowles, S. and H. Gintis, 1993. “A Political and Economic Case for the Democratic Enterprise”, *Economics and Philosophy*, 9: 75–100.
+* –––, 2011. *A Cooperative Species: Human Reciprocity and its Evolution*, Princeton: Princeton University Press.
+* Brennan, G. and J. Buchanan, 1985. *The Reason of Rules: Constitutional Political Economy*, New York: Cambridge University Press.
+* Broome, J., 1989. “Should Social Preferences Be Consistent?” *Economics and Philosophy*, 5: 7–18.
+* –––, 1991. *Weighing Goods*, Oxford: Basil Blackwell.
+* –––, 1999. *Ethics Out of Economics*, Cambridge: Cambridge University Press.
+* –––, 2006. *Weighing Lives*, Oxford: Oxford University Press.
+* –––, 2012. *Climate Matters: Ethics in a Warming World*, New York: Norton.
+* Buchanan, A., 1985. *Ethics, Efficiency, and the Market*, Totowa, NJ: Rowman & Allanheld.
+* Buchanan, J., 1975. *The Limits of Liberty: Between Anarchy and Leviathan*, Chicago: University of Chicago Press.
+* Carter, I., 1999. *A Measure of Freedom*, Oxford: Oxford University Press.
+* Coase, R., 1960. “The Problem of Social Cost”, *Journal of Law and Economics*, 3: 1–30.
+* Cohen, G.A., 1989. “On the Currency of Egalitarian Justice”, *Ethics*, 99: 906–44.
+* Coleman, J., 1984. “Economics and the Law: A Critical Review of the Foundations of the Economic Approach to Law”, *Ethics*, 94: 649–79.
+* Collard, D., 1978. *Altruism and Economy: A Study in Non-selfish Economics*, New York: Oxford University Press.
+* d’Aspremont, C. and L. Gevers, 1977. “Equity and the Informational Basis of Collective Choice”, *Review of Economic Studies*, 44: 199–209.
+* Deaton, Angus, 2013. *The Great Escape: Health, Wealth and the Origin of Inequality*, Princeton: Princeton University Press.
+* Debreu, G., 1959. *Theory of Value*, New York: Wiley.
+* Drakopoulos, S., 1991. *Values in Economic Theory*, Aldershot: Avebury.
+* Dworkin, G., G. Bermant and P. Brown (eds.), 1977. *Markets and Morals*, Washington: Hempisphere Publishing.
+* Dworkin, R., 1981. “What is Equality? Part 2: Equality of Resources”, *Philosophy and Public Affairs*, 10: 283–345.
+* Easterly, William, 2013. *The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor*, New York: Basic Books.
+* Ege, R. and H. Igersheim (eds.), 2011. *Freedom and Happiness in Economic Thought and Philosophy: From Clash to Reconciliation*, New York: Routledge.
+* Elster, J. and A. Hylland (eds.), 1986. *Foundations of Social Choice Theory*, New York: Cambridge University Press.
+* Elster, J. and J. Roemer (eds.), 1991. *Interpersonal comparisons of well-being*, Cambridge: Cambridge University Press.
+* Eyal, N., S. Hurst, O. Norheim, and D. Wikler (eds.), 2013. *Inequalities in Health: Concepts, Measures and Ethics*, Oxford: Oxford University Press.
+* Fleurbaey, M., 1995. “Equal Opportunity or Equal Social Outcome”, *Economics and Philosophy*, 11: 25–56.
+* –––, 2002. “Equality of Resources Revisited”, *Ethics*, 113: 82–105.
+* –––, 2005. “The Pazner-Schmeidler Social Ordering: A Defense”, *Review of Economic Design*, 9: 145–66.
+* –––, 2007. “Social Choice and Just Institutions: New Perspectives”, *Economics and Philosophy*, 23: 15–43.
+* –––, 2008. *Fairness, Responsibility, and Welfare*, Oxford: Oxford University Press.
+* Fleurbaey, M. and D. Blanchet, 2013. *Beyond GDP: Measuring Welfare and Assessing Sustainability*, Oxford: Oxford University Press.
+* Fleurbaey, M. and F. Maniquet, 2014. *A Theory of Fairness and Social Welfare*, Cambridge: Cambridge University Press.
+* Frank, R., 1988. *Passions Within Reason: The Strategic Role of the Emotions*, New York: W. W. Norton.
+* –––, R., 2007. *Falling Behind: How Rising inequality Harms the Middle Class*, Berkeley, CA: University of California Press.
+* Frank, R., T. Gilovich, and D. Regan, 1993. “Does Studying Economics Inhibit Cooperation?” *Journal of Economic Perspectives*, 7: 159–72.
+* Fankhauser, S., R. Tol, and D. Pearce, 1997. “The Aggregation of Climate Change Damages: A Welfare Theoretic Approach”, *Environmental and Resource Economics*, 10: 249–66.
+* Frey, B., 2010. *Happiness: A Revolution in Economics*, Cambridge, MA: MIT Press.
+* Frey, B. and A. Stutzer, 2001. *Happiness and Economics: How the Economy and Institutions Affect Human Well-Being*, Princeton, NJ: Princeton University Press.
+* Friedman, M., 1962. *Capitalism and Freedom*, Chicago: University of Chicago Press.
+* Friedman, M. and R. Friedman, 1980. *Free to Choose*, New York: Harcourt Brace Javanovich.
+* Gaertner, W. and E. Schokkaert, 2012. *Empirical Social Choice: Questionnaire-Experimental Studies on Distributive Justice*, Cambridge: Cambridge University Press.
+* Gaertner, W., P. Pattanaik, and K. Suzumura, 1992. “Individual Rights Revisited”, *Economica*, 59: 161–77.
+* Gambetta, D. (ed.), 1988. *Trust: Making and Breaking Cooperative Relations*, Oxford: Basil Blackwell.
+* Gardenfors, P., 1981. “Rights, Games and Social Choice”, *Noûs*, 15: 341–356.
+* Gaus, Gerald, 2011. *The Order of Public Reason: A Theory of Freedom and Morality in a Diverse and Bounded World*, Cambridge: Cambridge University Press.
+* Gauthier, D., 1986. *Morals by Agreement*, Oxford: Oxford University Press.
+* George, D., 2001. *Preference Pollution: How Markets Creates Desires We Dislike*, Ann Arbor: University of Michigan Press.
+* Gibbard, A., 1974. “A Pareto-Consistent Libertarian Claim”, *Journal of Economic Theory*, 7: 388–410.
+* Gilbert, M., 1990. “Walking Together: A Paradigmatic Social Phenomenon”, in P. French, T. Uehling and H. Wettstein (eds.), *Midwest Studies in Philosophy* (Volume 15: *The Philosophy of the Human Sciences*), Notre Dame, IN: University of Notre Dame Press, pp. 1–14.
+* Gotoh, R. and P. Dumouchel (eds.), 2009 *Against Injustice: The New Economics of Amartya Sen*, Cambridge: Cambridge University Press.
+* Grant, R., 2012. *Strings Attached: Untangling the Ethics of Incentives*, Princeton: Princeton University Press.
+* Greaves, H., 2015. “‘Antiprioritarianism’”, *Utilitas*, 27: 1–42.
+* Grether, D. and C. Plott, 1979. “Economic Theory of Choice and the Preference Reversal Phenomenon”, *American Economic Review*, 69: 623–38.
+* Hamlin, A., 1986. *Ethics, Economics, and the State*, New York: St. Martin’s Press.
+* Hammond, P., 1983. “Ex-Post Optimality as a Dynamically Consistent Objective for Collective Choice Under Uncertainty”, in Prasanta Pattanaik and Maurice Salles (eds.), *Social Choice and Welfare*, Amsterdam: North-Holland.
+* Harburger, A., 1978. “On the Use of Distributional Weights in Social Cost-Benefit Analysis”, *Journal of Political Economy*, 86: s87-s120.
+* Hardin, R., 1982. *Collective Action*, Baltimore: Johns Hopkins University Press.
+* Harris, R. and N. Olewiler, 1979. “The Welfare Economics of *Ex Post*, Optimality”. *Economica*, 46: 137–147.
+* Harsanyi, J., 1955. “Cardinal Welfare, Individualistic Ethics and Interpersonal Comparisons of Utility”, *Journal of Political Economy*, 63: 309–321.
+* –––, 1977a. “Morality and the Theory of Rational Behavior”, *Social Research*, 44; reprinted in Sen and Williams (eds.) 1982, pp. 39–62.
+* Hausman, D., 2010. “Hedonism and Welfare Economics”, *Economics and Philosophy*, 26: 321–44.
+* Hausman, D. and M. McPherson, 2006. *Economic Analysis, Moral Philosophy, and Public Policy*, Cambridge: Cambridge University Press.
+* –––, 2007. “The Philosophical Foundations of Mainstream Normative Economics”, in *The Philosophy of Economics: An Anthology*, 3rd edition, Cambridge: Cambridge University Press, pp. 226–50.
+* –––, 2009. “Preference Satisfaction and Welfare Economics”, *Economics and Philosophy*, 25: 1–25.
+* Hausman, D. and M.S. Waldren, 2011. “Egalitarianism Reconsidered”, *Journal of Moral Philosophy*, 8: 567–86.
+* Hausman, D. and B. Welch, 2010. “To Nudge or Not to Nudge”, *Journal of Political Philosophy*, 18: 123–36.
+* Hausman, D, M. McPherson, and D. Satz, 2017. *Economic Analysis, Moral Philosophy, and Public Policy*, 3rd edition, New York: Cambridge University Press.
+* Hayek, F. von, 1967. “The Moral Element in Free Enterprise”, *Studies in Philosophy, Politics and Pconomics*, Chicago: University of Chicago Press, pp. 229–36.
+* –––, 1976. *The Mirage of Social Justice*, Chicago: University of Chicago Press.
+* Hennipman, P., 1992. “Hicks, Robbins, and the Demise of Pigovian Welfare Economics: A Rectification and Amplification”, *Southern Economic Journal*, 59: 88–97.
+* Hicks, J., 1939. “The Foundations of Welfare Economics”, *Economic Journal*, 49: 696–712.
+* Hirose, I., 2015. *Moral Aggregation*, Oxford: Oxford University Press.
+* Hirose, I. and J. Olson (eds.), 2015. *The Oxford Handbook of Value Theory*, New York: Oxford University Press.
+* Hirsch, F., 1976. *The Social Limits to Growth*, Cambridge: Harvard University Press.
+* Hook, S. (ed.), 1967. *Human Values and Economic Policy*, New York: New York University Press.
+* Kahneman, D., 1999. “Objective Happiness”, in D. Kahneman, E. Diener and N. Schwarz (eds.), *Well-Being: Foundations of Hedonic Psychology*, New York: Russell Sage Foundation Press, pp. 3–27.
 * –––, 2000a. “Evaluation by Moments: Past and Future”, in Kahneman and Tversky (eds.) 2000, pp. 693–708.
 * –––, 2000b. “Experienced Utility and Objective Happiness: A Moment-based Approach”, in Kahneman and Tversky (eds.) 2000, pp. 673–92.
-* –––, 2011. _Thinking Fast and Slow_, New York: Farrar, Straus and Giroux.
-* Kahneman, D. and A. Krueger, 2006. “Developments in the Measurement of Subjective Well Being”, _Journal of Economic Perspectives_, 20: 3–24.
-* Kahneman, D. and R. Sugden, 2005. “Experienced Utility as a Standard of Policy Evaluation”, _Environmental & Resource Economics_, 32: 161–181.
-* Kahneman, D. and R. Thaler, 2006. “Utility Maximization and Experienced Utility”, _Journal of Economic Perspectives_, 20: 221–34.
-* Kahneman, D. and A. Tversky (eds.), 2000. _Choices, Values and Frames_, New York: Cambridge University Press and the Russell Sage Foundation.
-* Kalai, E. and M. Smorodinsky, 1975. “Other Solutions to Nash’s Bargaining Problem”, _Econometrica_, 43: 513–18.
-* Kaldor, N., 1939. “Welfare Propositions of Economics and Interpersonal Comparisons of Utility”, _Economic Journal_, 49: 549–52.
-* Kelman, S., 1981. _What Price Incentives?_, Boston, MA: Auburn House.
-* Knight, F., 1935. “Economics and Human Action”, in _The Ethics of Competition, and other Essays_, New York and London: Harper & Brothers.
-* Kolm, S.-C., 1972. _Justice et équité_, Paris: Editions du Centre National de la Recherche Scientifique.
-* Kraus, J. and J. Coleman, 1987. “Morality and the Theory of Rational Choice”, _Ethics_, 97: 715–49.
-* Layard, R., 2006. _Happiness: Lessons from a New Science_, New York: Penguin.
-* Le Grand, J., 1991. _Equity and Choice_, London: Routledge.
-* –––, 2003. _Motivation, Agency, and Public Policy: Of Knights and Knaves, Pawns and Queens_, Oxford: Oxford University Press.
-* Le Grand, J., and B. New, 2015. _Government Paternalism: Nanny State or Helpful Friend?_, Princeton: Princeton University Press.
-* Lippert-Rasmussen, K., 2014. _Born Free and Equal?: A Philosophical Inquiry into the Nature of Discrimination_, Oxford: Oxford University Press.
-* Little, I., 1957. _A Critique of Welfare Economics_, 2nd edition, Oxford: Oxford University Press.
-* Lomasky, L., 1987. _Persons, Rights and the Moral Community_, New York: Oxford University Press.
-* MacCallum, G., 1967. “Negative and Positive Freedom”, _Philosophical Review_, 76: 312–34.
-* McCarthy, D., 2015. “Distributive equality”,, _Mind_, 124: 1045–1109.
-* –––, 2017, “The Priority View”, _Economics and Philosophy_, 33: 215–57.
-* MacKay, A., 1980. _Arrow’s Theorem: The Paradox of Social Choice. A Case Study in the Philosophy of Economics_, New Haven: Yale University Press.
-* –––, 1986. “Extended Sympathy and Interpersonal Utility Comparisons”, _Journal of Philosophy_, 83: 305–22.
-* McKean, R., 1975. “Economics of Trust, Altruism, and Corporate Responsibility”, in Edmund Phelps (ed.), _Altruism, Morality and Economic Theory_, New York: Russell Sage Foundation, pp. 29–44.
-* Mansbridge, J. (ed.), 1990. _Beyond Self-interest_, Chicago: University of Chicago Press, pp. 254–263.
-* Margolis, H., 1982. _Selfishness, Altruism and Rationality_, Cambridge: Cambridge University Press.
-* Marwell, G. and R. Ames, 1981. “Economists Free Ride. Does Anyone Else? Experiments on the Provision of Public Goods. IV”, _Journal of Public Economics_, 15: 295–310.
-* Meade, J., 1964. _Efficiency, Equality and the Ownership of Property_, London: George Allen & Unwin.
-* Mill, J.S., 1859. _On Liberty_, reprinted Indianapolis, Hackett, 1978.
-* Miller, D., 2012, _Justice for Earthlings: Essays in Political Philosophy_, Cambridge: Cambridge University Press.
-* Mirowski, P. and D. Plehwe (eds.), 2009. _The Road from Mont Pèlerin: The Making of the Neoliberal Thought Collective_, Cambridge, MA: Harvard University Press.
-* Mishan, E., 1971. _Cost Benefit Analysis: An Introduction_, New York: Praeger.
-* Mongin, P., 1995. “Consistent Bayesian Aggregation”, _Econometrica_, 66: 313–51.
-* –––, 2006. “Value Judgments and Value Neutrality in Economics”, _Economica_, 73: 257–86.
-* Morris, C.W. (ed.), 2010 _Amartya Sen. Contemporary Philosophy in Focus_, Cambridge: Cambridge University Press.
-* Nash, J., 1950, “The Bargaining Problem”, _Econometrica_, 18: 155–62.
-* Nelson, A., 1988. “Economic Rationality and Morality”, _Philosophy and Public Affairs_, 17: 149–66.
-* Ng, Y., 1983. _Welfare Economics: Introduction and Development of Basic Concepts_, revised edition, London: Macmillan.
-* Nussbaum, M. and A. Sen (eds.), 1993, _The Quality of Life_, Oxford: Clarendon Press.
-* Okasha, S. and K. Binmore, 2012. _Evolution and Rationality: Decisions, Cooperation, and Strategic Behaviour_, Cambridge: Cambridge University Press.
-* Okun, A., 1975. _Equality and Efficiency: The Big Tradeoff_, Washington, DC: Brookings Institution.
-* Pattinaik, P. and Y. Xu, 1990. “On Ranking Opportunity Sets in Terms of Freedom of Choice”, _Rescherches Economiques de Louvain_, 56: 383–90.
-* Pazner, E. and D. Schmeidler, 1974. “A Difficulty in the Concept of Fairness”, _Review of Economic Studies_, 41: 441–43.
-* Peter, F. and H.B. Schmid (eds.), 2007. _Rationality and Commitment_, Oxford: Oxford University Press.
-* Pettit, P., 1990. “Virtus Normativa: Rational Choice Perspectives”, _Ethics_, 100: 725–55.
-* Pettit, P. and R. Sugden, 1989. “The Backward Induction Paradox”, _Journal of Philosophy_, 86: 169–82.
-* Posner, R., 1972. _Economic Analysis of Law_, Boston: Little, Brown & Co.
-* Reder, M., 1979, “The Place of Ethics in the Theory of Production”, in M. Boskin (ed.), _Economics and Human Welfare: Essays in Honor of Tibor Scitovsky_, New York: Academic Press, pp. 133–146.
-* Robertson, D., 1956. “What Does the Economist Economize?” in _Economic Commentaries_, London: Staples Press, pp. 147–55.
-* Roemer, J., 1985. “Equality of Talent”, _Economics and Philosophy_, 1: 151–88.
-* –––, 1986a. “The Mismarriage of Bargaining Theory and Distributive Justice”, _Ethics_, 97: 88–110.
-* –––, 1986b. “Equality of Resources Implies Equality of Welfare”, _Quarterly Journal of Economics_, 101: 751–784.
-* –––, 1987. “Egalitarianism, Responsibility, and Information”, _Economics and Philosophy_, 3: 215–44.
-* Rothschild, K., 1993. _Ethics and Economic Theory_, Cheltenham: Edward Elgar.
-* Saint-Paul, G., 2011. _The Tyranny of Utility: Behavioral Social Science and the Rise of Paternalism_, Princeton: Princeton University Press.
-* Samuelson, P., 1947. _Foundations of Economic Analysis_, Cambridge, MA: Harvard University Press.
-* –––, 1950. “Evaluation of Real National Income”, _Oxford Economic Papers_ (New Series), 2(1): 1–29.
-* Sandel, M., 2012. _What Money Can’t Buy: The Moral Limits of Markets_, London: Allen Lane.
-* Satz, D., 2011. _Why Some Things Should Not be for Sale: The Moral Limits of Markets_, New York: Oxford University Press.
-* Scanlon, T., 1975. “Preference and Urgency”, _Journal of Philosophy_, 72: 655–670.
-* –––, 1986. “Equality of Resources and Equality of Welfare: A Forced Marriage?” _Ethics_, 97: 111–18.
-* Schotter, A., 1981. _The Economic Theory of Social Institutions_, Cambridge: Cambridge University Press.
-* Scitovsky, T., 1941. “A Note on Welfare Propositions in Economics”, _Review of Economic Studies_, 9: 77–88.
-* Seidenfeld T., J. Kadane and M. Schervish, 1989. “On the Shared Preferences of Two Bayesian Decision Makers”, _Journal of Philosophy_, 86: 225–44.
-* Sen, A., 1970a. _Collective Welfare and Social Choice_, San Francisco: Holden-Day.
-* –––, 1970b. “The Impossibility of a Paretian Liberal”, _Journal of Political Economy_, 78: 152–57.
-* –––, 1976. “Liberty, Unanimity and Rights”, _Economica_, 43: 217–45.
-* –––, 1987a. _On Ethics and Economics_, Oxford: Blackwells.
+* –––, 2011. *Thinking Fast and Slow*, New York: Farrar, Straus and Giroux.
+* Kahneman, D. and A. Krueger, 2006. “Developments in the Measurement of Subjective Well Being”, *Journal of Economic Perspectives*, 20: 3–24.
+* Kahneman, D. and R. Sugden, 2005. “Experienced Utility as a Standard of Policy Evaluation”, *Environmental & Resource Economics*, 32: 161–181.
+* Kahneman, D. and R. Thaler, 2006. “Utility Maximization and Experienced Utility”, *Journal of Economic Perspectives*, 20: 221–34.
+* Kahneman, D. and A. Tversky (eds.), 2000. *Choices, Values and Frames*, New York: Cambridge University Press and the Russell Sage Foundation.
+* Kalai, E. and M. Smorodinsky, 1975. “Other Solutions to Nash’s Bargaining Problem”, *Econometrica*, 43: 513–18.
+* Kaldor, N., 1939. “Welfare Propositions of Economics and Interpersonal Comparisons of Utility”, *Economic Journal*, 49: 549–52.
+* Kelman, S., 1981. *What Price Incentives?*, Boston, MA: Auburn House.
+* Knight, F., 1935. “Economics and Human Action”, in *The Ethics of Competition, and other Essays*, New York and London: Harper & Brothers.
+* Kolm, S.-C., 1972. *Justice et équité*, Paris: Editions du Centre National de la Recherche Scientifique.
+* Kraus, J. and J. Coleman, 1987. “Morality and the Theory of Rational Choice”, *Ethics*, 97: 715–49.
+* Layard, R., 2006. *Happiness: Lessons from a New Science*, New York: Penguin.
+* Le Grand, J., 1991. *Equity and Choice*, London: Routledge.
+* –––, 2003. *Motivation, Agency, and Public Policy: Of Knights and Knaves, Pawns and Queens*, Oxford: Oxford University Press.
+* Le Grand, J., and B. New, 2015. *Government Paternalism: Nanny State or Helpful Friend?*, Princeton: Princeton University Press.
+* Lippert-Rasmussen, K., 2014. *Born Free and Equal?: A Philosophical Inquiry into the Nature of Discrimination*, Oxford: Oxford University Press.
+* Little, I., 1957. *A Critique of Welfare Economics*, 2nd edition, Oxford: Oxford University Press.
+* Lomasky, L., 1987. *Persons, Rights and the Moral Community*, New York: Oxford University Press.
+* MacCallum, G., 1967. “Negative and Positive Freedom”, *Philosophical Review*, 76: 312–34.
+* McCarthy, D., 2015. “Distributive equality”,, *Mind*, 124: 1045–1109.
+* –––, 2017, “The Priority View”, *Economics and Philosophy*, 33: 215–57.
+* MacKay, A., 1980. *Arrow’s Theorem: The Paradox of Social Choice. A Case Study in the Philosophy of Economics*, New Haven: Yale University Press.
+* –––, 1986. “Extended Sympathy and Interpersonal Utility Comparisons”, *Journal of Philosophy*, 83: 305–22.
+* McKean, R., 1975. “Economics of Trust, Altruism, and Corporate Responsibility”, in Edmund Phelps (ed.), *Altruism, Morality and Economic Theory*, New York: Russell Sage Foundation, pp. 29–44.
+* Mansbridge, J. (ed.), 1990. *Beyond Self-interest*, Chicago: University of Chicago Press, pp. 254–263.
+* Margolis, H., 1982. *Selfishness, Altruism and Rationality*, Cambridge: Cambridge University Press.
+* Marwell, G. and R. Ames, 1981. “Economists Free Ride. Does Anyone Else? Experiments on the Provision of Public Goods. IV”, *Journal of Public Economics*, 15: 295–310.
+* Meade, J., 1964. *Efficiency, Equality and the Ownership of Property*, London: George Allen & Unwin.
+* Mill, J.S., 1859. *On Liberty*, reprinted Indianapolis, Hackett, 1978.
+* Miller, D., 2012, *Justice for Earthlings: Essays in Political Philosophy*, Cambridge: Cambridge University Press.
+* Mirowski, P. and D. Plehwe (eds.), 2009. *The Road from Mont Pèlerin: The Making of the Neoliberal Thought Collective*, Cambridge, MA: Harvard University Press.
+* Mishan, E., 1971. *Cost Benefit Analysis: An Introduction*, New York: Praeger.
+* Mongin, P., 1995. “Consistent Bayesian Aggregation”, *Econometrica*, 66: 313–51.
+* –––, 2006. “Value Judgments and Value Neutrality in Economics”, *Economica*, 73: 257–86.
+* Morris, C.W. (ed.), 2010 *Amartya Sen. Contemporary Philosophy in Focus*, Cambridge: Cambridge University Press.
+* Nash, J., 1950, “The Bargaining Problem”, *Econometrica*, 18: 155–62.
+* Nelson, A., 1988. “Economic Rationality and Morality”, *Philosophy and Public Affairs*, 17: 149–66.
+* Ng, Y., 1983. *Welfare Economics: Introduction and Development of Basic Concepts*, revised edition, London: Macmillan.
+* Nussbaum, M. and A. Sen (eds.), 1993, *The Quality of Life*, Oxford: Clarendon Press.
+* Okasha, S. and K. Binmore, 2012. *Evolution and Rationality: Decisions, Cooperation, and Strategic Behaviour*, Cambridge: Cambridge University Press.
+* Okun, A., 1975. *Equality and Efficiency: The Big Tradeoff*, Washington, DC: Brookings Institution.
+* Pattinaik, P. and Y. Xu, 1990. “On Ranking Opportunity Sets in Terms of Freedom of Choice”, *Rescherches Economiques de Louvain*, 56: 383–90.
+* Pazner, E. and D. Schmeidler, 1974. “A Difficulty in the Concept of Fairness”, *Review of Economic Studies*, 41: 441–43.
+* Peter, F. and H.B. Schmid (eds.), 2007. *Rationality and Commitment*, Oxford: Oxford University Press.
+* Pettit, P., 1990. “Virtus Normativa: Rational Choice Perspectives”, *Ethics*, 100: 725–55.
+* Pettit, P. and R. Sugden, 1989. “The Backward Induction Paradox”, *Journal of Philosophy*, 86: 169–82.
+* Posner, R., 1972. *Economic Analysis of Law*, Boston: Little, Brown & Co.
+* Reder, M., 1979, “The Place of Ethics in the Theory of Production”, in M. Boskin (ed.), *Economics and Human Welfare: Essays in Honor of Tibor Scitovsky*, New York: Academic Press, pp. 133–146.
+* Robertson, D., 1956. “What Does the Economist Economize?” in *Economic Commentaries*, London: Staples Press, pp. 147–55.
+* Roemer, J., 1985. “Equality of Talent”, *Economics and Philosophy*, 1: 151–88.
+* –––, 1986a. “The Mismarriage of Bargaining Theory and Distributive Justice”, *Ethics*, 97: 88–110.
+* –––, 1986b. “Equality of Resources Implies Equality of Welfare”, *Quarterly Journal of Economics*, 101: 751–784.
+* –––, 1987. “Egalitarianism, Responsibility, and Information”, *Economics and Philosophy*, 3: 215–44.
+* Rothschild, K., 1993. *Ethics and Economic Theory*, Cheltenham: Edward Elgar.
+* Saint-Paul, G., 2011. *The Tyranny of Utility: Behavioral Social Science and the Rise of Paternalism*, Princeton: Princeton University Press.
+* Samuelson, P., 1947. *Foundations of Economic Analysis*, Cambridge, MA: Harvard University Press.
+* –––, 1950. “Evaluation of Real National Income”, *Oxford Economic Papers* (New Series), 2(1): 1–29.
+* Sandel, M., 2012. *What Money Can’t Buy: The Moral Limits of Markets*, London: Allen Lane.
+* Satz, D., 2011. *Why Some Things Should Not be for Sale: The Moral Limits of Markets*, New York: Oxford University Press.
+* Scanlon, T., 1975. “Preference and Urgency”, *Journal of Philosophy*, 72: 655–670.
+* –––, 1986. “Equality of Resources and Equality of Welfare: A Forced Marriage?” *Ethics*, 97: 111–18.
+* Schotter, A., 1981. *The Economic Theory of Social Institutions*, Cambridge: Cambridge University Press.
+* Scitovsky, T., 1941. “A Note on Welfare Propositions in Economics”, *Review of Economic Studies*, 9: 77–88.
+* Seidenfeld T., J. Kadane and M. Schervish, 1989. “On the Shared Preferences of Two Bayesian Decision Makers”, *Journal of Philosophy*, 86: 225–44.
+* Sen, A., 1970a. *Collective Welfare and Social Choice*, San Francisco: Holden-Day.
+* –––, 1970b. “The Impossibility of a Paretian Liberal”, *Journal of Political Economy*, 78: 152–57.
+* –––, 1976. “Liberty, Unanimity and Rights”, *Economica*, 43: 217–45.
+* –––, 1987a. *On Ethics and Economics*, Oxford: Blackwells.
 * –––, 1987b. “The Standard of Living: Lecture I, Concepts and Critiques”,, pp. 1–19 of Sen, et al. 1987.
 * –––, 1987c. “The Standard of Living: Lecture II, Lives and Capabilities”,, pp. 20–38 of Sen, et al. 1987.
-* –––, 1988. “Freedom of Choice: Concept and Content”, _European Economic Review_, 32: 269–94.
-* –––, 1990. “Welfare, Freedom and Social Choice: a Reply” _Rescherches Economiques de Louvain_, 56: 451–86.
-* –––, 1991. “Welfare, Preference, and Freedom”, _Journal of Econometrics_, 50: 15–29.
-* –––, 1992. _Inequality reexamined_, Cambridge, MA: Harvard University Press.
-* –––, 1999. _Development as Freedom_, Oxford: Oxford University Press.
-* Sen, A. and B. Williams (eds.), 1982. _Utilitarianism and Beyond_, Cambridge: Cambridge University Press.
-* Shiffrin, Seana, 2000, “Paternalism, Unconscionability Doctrine, and Accommodation”, _Philosophy & Public Affairs_, 29: 205–50.
-* Sidgwick, H., 1901. _The Methods of Ethics_, 6th edition, London: Macmillan.
-* Steel, D., 2015. _Philosophy of the Precautionary Principle_, Cambridge: Cambridge University Press.
-* Streeten, P., 1953. “Appendix: Recent Controversies”, in Gunnar Myrdal, _The Political Element in the Development of Economic Theory_, P. Streeten (trans.), London: Routledge and Kegan Paul, pp. 208–17.
-* Sugden, R., 1985. “Liberty, Preference and Choice”, _Economics and Philosophy_, 2: 213–31.
-* –––, 1986. _The Economics of Rights, Co-operation and Welfare_, New York: Blackwell.
-* –––, 1989. “Spontaneous Order”, _Journal of Economic Perspectives_, 3: 85–97.
-* –––, 1990. “Contractarianism and Norms”, _Ethics_, 100: 768–86.
-* –––, 2018, _The Community of Advantage: A Behavioural Economist’s Defence of the Market_, Oxford: Oxford University Press.
-* Sugden, R. and A. Williams, 1978. _The Principles of Practical Cost-benefit Analysis_, New York: Oxford University Press.
-* Taylor, M., 1987. _The Possibility of Cooperation_, New York: Cambridge University Press.
-* Thaler, R. and C. Sunstein, 2008. _Nudge: Improving Decisions about Health, Wealth, and Happiness_, New Haven, CT: Yale University Press.
-* Titmuss, R., 1971. _The Gift Relationship: From Human Blood to Social Policy_, New York: Random House.
-* Tversky, A. and R. Thaler, 1990. “Preference Reversals”, _Journal of Economic Perspectives_, 4: 201–11.
-* van Parijs, P., 1990. “The Second Marriage of Justice and Efficiency”, _Journal of Social Policy_, 19: 1–25.
-* Varian, H., 1974. “Equity, Envy and Efficiency”, _Journal of Economic Theory_, 9: 63–91.
-* –––, 1975. “Distributive Justice, Welfare Economics and the Theory of Fairness”, _Philosophy and Public Affairs_, 4: 223–47.
-* –––, 1985. “Dworkin on Equality of Resources”, _Economics and Philosophy_, 1: 110–27.
-* Vickers, D., 1997. _Economics and Ethics: An Introduction to Theory, Institutions, and Policy_, London: Greenwood, Praeger.
-* Vickrey, W., 1960. “Utility, Strategy, and Social Decision Rules”, _Quarterly Journal of Economics_, 74: 507–35.
-* Wenar, L., 2016. _Blood Oil: Tyrants, Violence and the Rules that Run the World_, Oxford: Oxford University Press.
+* –––, 1988. “Freedom of Choice: Concept and Content”, *European Economic Review*, 32: 269–94.
+* –––, 1990. “Welfare, Freedom and Social Choice: a Reply” *Rescherches Economiques de Louvain*, 56: 451–86.
+* –––, 1991. “Welfare, Preference, and Freedom”, *Journal of Econometrics*, 50: 15–29.
+* –––, 1992. *Inequality reexamined*, Cambridge, MA: Harvard University Press.
+* –––, 1999. *Development as Freedom*, Oxford: Oxford University Press.
+* Sen, A. and B. Williams (eds.), 1982. *Utilitarianism and Beyond*, Cambridge: Cambridge University Press.
+* Shiffrin, Seana, 2000, “Paternalism, Unconscionability Doctrine, and Accommodation”, *Philosophy & Public Affairs*, 29: 205–50.
+* Sidgwick, H., 1901. *The Methods of Ethics*, 6th edition, London: Macmillan.
+* Steel, D., 2015. *Philosophy of the Precautionary Principle*, Cambridge: Cambridge University Press.
+* Streeten, P., 1953. “Appendix: Recent Controversies”, in Gunnar Myrdal, *The Political Element in the Development of Economic Theory*, P. Streeten (trans.), London: Routledge and Kegan Paul, pp. 208–17.
+* Sugden, R., 1985. “Liberty, Preference and Choice”, *Economics and Philosophy*, 2: 213–31.
+* –––, 1986. *The Economics of Rights, Co-operation and Welfare*, New York: Blackwell.
+* –––, 1989. “Spontaneous Order”, *Journal of Economic Perspectives*, 3: 85–97.
+* –––, 1990. “Contractarianism and Norms”, *Ethics*, 100: 768–86.
+* –––, 2018, *The Community of Advantage: A Behavioural Economist’s Defence of the Market*, Oxford: Oxford University Press.
+* Sugden, R. and A. Williams, 1978. *The Principles of Practical Cost-benefit Analysis*, New York: Oxford University Press.
+* Taylor, M., 1987. *The Possibility of Cooperation*, New York: Cambridge University Press.
+* Thaler, R. and C. Sunstein, 2008. *Nudge: Improving Decisions about Health, Wealth, and Happiness*, New Haven, CT: Yale University Press.
+* Titmuss, R., 1971. *The Gift Relationship: From Human Blood to Social Policy*, New York: Random House.
+* Tversky, A. and R. Thaler, 1990. “Preference Reversals”, *Journal of Economic Perspectives*, 4: 201–11.
+* van Parijs, P., 1990. “The Second Marriage of Justice and Efficiency”, *Journal of Social Policy*, 19: 1–25.
+* Varian, H., 1974. “Equity, Envy and Efficiency”, *Journal of Economic Theory*, 9: 63–91.
+* –––, 1975. “Distributive Justice, Welfare Economics and the Theory of Fairness”, *Philosophy and Public Affairs*, 4: 223–47.
+* –––, 1985. “Dworkin on Equality of Resources”, *Economics and Philosophy*, 1: 110–27.
+* Vickers, D., 1997. *Economics and Ethics: An Introduction to Theory, Institutions, and Policy*, London: Greenwood, Praeger.
+* Vickrey, W., 1960. “Utility, Strategy, and Social Decision Rules”, *Quarterly Journal of Economics*, 74: 507–35.
+* Wenar, L., 2016. *Blood Oil: Tyrants, Violence and the Rules that Run the World*, Oxford: Oxford University Press.
 * Weymark, J., 1991, “A Reconsideration of the Harsanyi-Sen Debate on Utilitarianism”, in Elster and Roemer 1991, pp. 255–320.
-* Yaari, M. and M. Bar-Hillel, 1984. “On Dividing Justly”, _Social Choice and Welfare_, 1: 1–24.
+* Yaari, M. and M. Bar-Hillel, 1984. “On Dividing Justly”, *Social Choice and Welfare*, 1: 1–24.
 
 ### Rationality
 
-* Allais, M. and O. Hagen (eds.), 1979. _Expected Utility Hypotheses and the Allais Paradox_, Dordrecht: Reidel.
-* Barberà, S., P. Hammond and C. Seidl, 1999. _Handbook of Utility Theory: Volume 1 Principles_, Dordrecht: Kluwer.
-* Bicchieri, C., 1993. _Rational and Coordination_, Cambridge: Cambridge University Press.
-* Binmore, K., 1987/1988. “Modeling Rational Players”, _Economics and Philosophy_, 3: 179–214 and 4: 9–56.
-* –––, 1992. _Fun and games_, New York: D.C Heath.
-* Bonnano, G., 1991. “The Logic of Rational Play in Games of Perfect Information”, _Economics and Philosophy_, 7: 37–65.
-* Broome, J., 1991. “Utility”, _Economics and Philosophy_, 7: 1–12.
-* Buchak, L., 2013, _Risk and Rationality_, New York: Oxford University Press.
-* Dennis, K. (ed.), 1998. _Rationality in Economics: Alternative Perspectives_, Boston: Kluwer.
-* Eells, E., 1982. _Rational Decision and Causality_, Cambridge: Cambridge University Press.
-* Ellsberg, D., 1954. “Classic and Current Notions of ‘Measurable Utility.’” _Economic Journal_, 64: 528–56; reprinted in A. Page (ed.), _Utility Theory: A Book of Readings_, New York: Wiley, 1968, pp. 269–96.
-* Elster, J., 1979, _Ulysses and the Sirens: Studies in Rationality and Irrationality_, Cambridge: Cambridge University Press.
-* –––, 1983. _Sour Grapes: Studies in the Subversion of Rationality_, Cambridge: Cambridge University Press.
-* Friedman, M. and L. Savage, 1948. “The Utility Analysis of Choices Involving Risk”, _Journal of Political Economy_, 56: 279–304.
-* Friedman, M. and L. Savage, 1952. “The Expected-Utility Hypothesis and the Measurability of Utility”, _Journal of Political Economy_, 60: 463–74.
-* Gerrard, B., 1993. _The Economics of Rationality_, London: Routledge.
-* Gilboa, I., 2010. _Rational Choice_, Cambridge, MA: MIT Press.
-* Gilboa, I., L. Samuelson, and D. Schmeidler, 2015. _Analogies and Theories: Formal Models of Reasoning_, New York: Oxford University Press.
-* Gilboa, I., and D. Schmeidler, 2001. _A Theory of Case-Based Decisions_, New York: Cambridge University Press Press.
-* Grether, D. and C. Plott, 1979. “Economic Theory of Choice and the Preference Reversal Phenomenon”, _American Economic Review_, 69: 623–38.
-* Hargreaves-Heap, S., 1989. _Rationality in Economics_, Oxford: Blackwell.
-* Harsanyi, J., 1977b. _Rational Behavior and Bargaining Equilibrium in Games and Social Situations_, Cambridge: Cambridge University Press.
-* Hausman, D., 2012. _Preference, Value, Choice and Welfare_, Cambridge: Cambridge University Press.
-* Hernstein, I. and J. Milnor, 1953. “An Axiomatic Approach to Measurable Utility”, _Econometrica_, 21: 291–7.
-* Houtthaker, H., 1950. “Revealed Preference and the Utility Function”, _Economica_, 17: 159–74.
-* Howson, C. and P. Urbach, 1989. _Scientific Reasoning: The Bayesian Approach_, LaSalle, IL: Open Court.
-* Jeffrey, R., 1983. _The Logic of Decision_, 2nd edition, Chicago: University of Chicago Press.
-* Kahneman, D. and A. Tversky, 1979. “Prospect Theory: An Analysis of Decision Making under Risk”, _Econometrica_ 47: 263–91.
-* Kreps, D., P. Milgrom, J. Roberts, and R. Wilson, 1982. “Rational Cooperation in the Finitely Repeated Prisoners’ Dilemma”, _Journal of Economic Theory_, 27: 245–52.
-* Levi, I., 1980. _The Enterprise of Knowledge_, Cambridge, MA: MIT Press.
-* –––, 1986. “The Paradoxes of Allais and Ellsberg”, _Economics and Philosophy_, 2: 23–53.
-* –––, 1990. “Pareto Unanimity and Consensus”, _Journal of Philosophy_, 89: 481–92.
-* Lichtenstein, S. and P. Slovic, 1971. “Reversals of Preference Between Bids and Choices in Gambling Decisions”, _Journal of Experimental Psychology_, 89: 46–55.
-* List, C. and P. Pettit, 2002. “Aggregating Sets of Judgments: An Impossibility Result”, _Economics and Philosophy_, 18: 89–110.
-* Loomes, G. and R. Sugden, 1982. “Regret Theory: an Alternative Theory of Rational Choice under Uncertainty”, _Economic Journal_, 92: 805–24.
-* Luce, R. and H. Raiffa, 1957. _Games and Decisions_, New York: Wiley.
-* McClennen, E., 1983. “Sure Thing Doubts”, in B. Stigum and F. Wenstop (eds.), _Foundations of Utility and Risk Theory with Applications_, Dordrecht: Reidel.
-* –––, 1990. _Rationality and Dynamic Choice: Foundational Explorations_, Cambridge: Cambridge University Press.
-* Machina, M., 1987. “Choice under Uncertainty: Problems Solved and Unsolved”, _Journal of Economic Perspectives_, 1: 121–54.
-* Paul, L.A., 2014, _Epistemic Transformation and Rational Choice: Transformative Experience_, Oxford: Oxford University Press.
-* Pettit, P. and R. Sugden, 1989. “The Backward Induction Paradox”, _Journal of Philosophy_, 86: 169–82.
-* Ramsey, F., 1926. “Truth and Probability”, in R. Braithwaite (ed.), _The Foundations of Mathematics and other Logical Essays_, London: Routledge & Kegan Paul, pp. 156–98.
-* Resnik, M., 1987. _Choices: An Introduction to Decision Theory_, Minneapolis: University of Minnesota Press.
-* Roth, A. and M. Malouf, 1979. “Game Theoretical Models and the Role of Information in Bargaining”, _Psychological Review_, 86: 574–94.
-* Savage, L., 1972. _The Foundations of Statistics_, New York: Dover.
-* Schick, F., 1986. “Money Pumps and Dutch Bookies”, _Journal of Philosophy_, 83: 112–19.
-* Sen, A., 1970. _Collective Welfare and Social Choice_, San Francisco: Holden-Day.
-* –––, 1971. “Choice Functions and Revealed Preference”, _Review of Economic Studies_, 38: 307–17.
-* –––, 1973. “Behaviour and the Concept of Preference”, _Economica_, 40: 241–59.
+* Allais, M. and O. Hagen (eds.), 1979. *Expected Utility Hypotheses and the Allais Paradox*, Dordrecht: Reidel.
+* Barberà, S., P. Hammond and C. Seidl, 1999. *Handbook of Utility Theory: Volume 1 Principles*, Dordrecht: Kluwer.
+* Bicchieri, C., 1993. *Rational and Coordination*, Cambridge: Cambridge University Press.
+* Binmore, K., 1987/1988. “Modeling Rational Players”, *Economics and Philosophy*, 3: 179–214 and 4: 9–56.
+* –––, 1992. *Fun and games*, New York: D.C Heath.
+* Bonnano, G., 1991. “The Logic of Rational Play in Games of Perfect Information”, *Economics and Philosophy*, 7: 37–65.
+* Broome, J., 1991. “Utility”, *Economics and Philosophy*, 7: 1–12.
+* Buchak, L., 2013, *Risk and Rationality*, New York: Oxford University Press.
+* Dennis, K. (ed.), 1998. *Rationality in Economics: Alternative Perspectives*, Boston: Kluwer.
+* Eells, E., 1982. *Rational Decision and Causality*, Cambridge: Cambridge University Press.
+* Ellsberg, D., 1954. “Classic and Current Notions of ‘Measurable Utility.’” *Economic Journal*, 64: 528–56; reprinted in A. Page (ed.), *Utility Theory: A Book of Readings*, New York: Wiley, 1968, pp. 269–96.
+* Elster, J., 1979, *Ulysses and the Sirens: Studies in Rationality and Irrationality*, Cambridge: Cambridge University Press.
+* –––, 1983. *Sour Grapes: Studies in the Subversion of Rationality*, Cambridge: Cambridge University Press.
+* Friedman, M. and L. Savage, 1948. “The Utility Analysis of Choices Involving Risk”, *Journal of Political Economy*, 56: 279–304.
+* Friedman, M. and L. Savage, 1952. “The Expected-Utility Hypothesis and the Measurability of Utility”, *Journal of Political Economy*, 60: 463–74.
+* Gerrard, B., 1993. *The Economics of Rationality*, London: Routledge.
+* Gilboa, I., 2010. *Rational Choice*, Cambridge, MA: MIT Press.
+* Gilboa, I., L. Samuelson, and D. Schmeidler, 2015. *Analogies and Theories: Formal Models of Reasoning*, New York: Oxford University Press.
+* Gilboa, I., and D. Schmeidler, 2001. *A Theory of Case-Based Decisions*, New York: Cambridge University Press Press.
+* Grether, D. and C. Plott, 1979. “Economic Theory of Choice and the Preference Reversal Phenomenon”, *American Economic Review*, 69: 623–38.
+* Hargreaves-Heap, S., 1989. *Rationality in Economics*, Oxford: Blackwell.
+* Harsanyi, J., 1977b. *Rational Behavior and Bargaining Equilibrium in Games and Social Situations*, Cambridge: Cambridge University Press.
+* Hausman, D., 2012. *Preference, Value, Choice and Welfare*, Cambridge: Cambridge University Press.
+* Hernstein, I. and J. Milnor, 1953. “An Axiomatic Approach to Measurable Utility”, *Econometrica*, 21: 291–7.
+* Houtthaker, H., 1950. “Revealed Preference and the Utility Function”, *Economica*, 17: 159–74.
+* Howson, C. and P. Urbach, 1989. *Scientific Reasoning: The Bayesian Approach*, LaSalle, IL: Open Court.
+* Jeffrey, R., 1983. *The Logic of Decision*, 2nd edition, Chicago: University of Chicago Press.
+* Kahneman, D. and A. Tversky, 1979. “Prospect Theory: An Analysis of Decision Making under Risk”, *Econometrica* 47: 263–91.
+* Kreps, D., P. Milgrom, J. Roberts, and R. Wilson, 1982. “Rational Cooperation in the Finitely Repeated Prisoners’ Dilemma”, *Journal of Economic Theory*, 27: 245–52.
+* Levi, I., 1980. *The Enterprise of Knowledge*, Cambridge, MA: MIT Press.
+* –––, 1986. “The Paradoxes of Allais and Ellsberg”, *Economics and Philosophy*, 2: 23–53.
+* –––, 1990. “Pareto Unanimity and Consensus”, *Journal of Philosophy*, 89: 481–92.
+* Lichtenstein, S. and P. Slovic, 1971. “Reversals of Preference Between Bids and Choices in Gambling Decisions”, *Journal of Experimental Psychology*, 89: 46–55.
+* List, C. and P. Pettit, 2002. “Aggregating Sets of Judgments: An Impossibility Result”, *Economics and Philosophy*, 18: 89–110.
+* Loomes, G. and R. Sugden, 1982. “Regret Theory: an Alternative Theory of Rational Choice under Uncertainty”, *Economic Journal*, 92: 805–24.
+* Luce, R. and H. Raiffa, 1957. *Games and Decisions*, New York: Wiley.
+* McClennen, E., 1983. “Sure Thing Doubts”, in B. Stigum and F. Wenstop (eds.), *Foundations of Utility and Risk Theory with Applications*, Dordrecht: Reidel.
+* –––, 1990. *Rationality and Dynamic Choice: Foundational Explorations*, Cambridge: Cambridge University Press.
+* Machina, M., 1987. “Choice under Uncertainty: Problems Solved and Unsolved”, *Journal of Economic Perspectives*, 1: 121–54.
+* Paul, L.A., 2014, *Epistemic Transformation and Rational Choice: Transformative Experience*, Oxford: Oxford University Press.
+* Pettit, P. and R. Sugden, 1989. “The Backward Induction Paradox”, *Journal of Philosophy*, 86: 169–82.
+* Ramsey, F., 1926. “Truth and Probability”, in R. Braithwaite (ed.), *The Foundations of Mathematics and other Logical Essays*, London: Routledge & Kegan Paul, pp. 156–98.
+* Resnik, M., 1987. *Choices: An Introduction to Decision Theory*, Minneapolis: University of Minnesota Press.
+* Roth, A. and M. Malouf, 1979. “Game Theoretical Models and the Role of Information in Bargaining”, *Psychological Review*, 86: 574–94.
+* Savage, L., 1972. *The Foundations of Statistics*, New York: Dover.
+* Schick, F., 1986. “Money Pumps and Dutch Bookies”, *Journal of Philosophy*, 83: 112–19.
+* Sen, A., 1970. *Collective Welfare and Social Choice*, San Francisco: Holden-Day.
+* –––, 1971. “Choice Functions and Revealed Preference”, *Review of Economic Studies*, 38: 307–17.
+* –––, 1973. “Behaviour and the Concept of Preference”, *Economica*, 40: 241–59.
 * –––, 1977. “Rational Fools”, in Hahn and Hollis 1981, pp. 87–109.
 * Simon, H. 1976. “From Substantive to Procedural Rationality”, in Latsis (ed.) 1976, pp. 129–48.
-* Stone, P., 2011. _The Luck of the Draw: The Role of Lotteries in Decision Making_, Oxford: Oxford University Press.
-* Sugden, R., 1986. “New Developments in the Theory of Choice Under Uncertainty”, _Bulletin of Economic Research_, 38: 1–24
-* Vickrey, W., 1945. “Measuring Marginal Utility by Reactions to Risk”, _Econometrica_, 13: 319–33.
-* von Neumann, J. and O. Morgenstern, 1947. _Theory of Games and Economic Behavior_, 2nd edition, Princeton: Princeton University Press.
-* Young, Peyton, 1998. _Individual Strategy and Social Structure_, Princeton: Princeton University Press.
+* Stone, P., 2011. *The Luck of the Draw: The Role of Lotteries in Decision Making*, Oxford: Oxford University Press.
+* Sugden, R., 1986. “New Developments in the Theory of Choice Under Uncertainty”, *Bulletin of Economic Research*, 38: 1–24
+* Vickrey, W., 1945. “Measuring Marginal Utility by Reactions to Risk”, *Econometrica*, 13: 319–33.
+* von Neumann, J. and O. Morgenstern, 1947. *Theory of Games and Economic Behavior*, 2nd edition, Princeton: Princeton University Press.
+* Young, Peyton, 1998. *Individual Strategy and Social Structure*, Princeton: Princeton University Press.
 
 ### Other works cited
 
-* Backhouse, R., 2002. _The Ordinary Business of Life_, Princeton: Princeton University Press.
-* Becker, G., 1981. _A Treatise on the Family_, Cambridge, MA: Harvard University Press.
-* Bentham, J., 1789. _An Introduction to the Principles of Morals and Legislation_, W. Harrison (ed.), Oxford: Basil Blackwell, 1967.
-* Bhaskar, R., 1975. _A Realist Theory of Science_, Leeds: Leeds Press.
-* Boyd, R., 1984. “The Current Status of Scientific Realism”, in J. Leplin (ed.), _Scientific Realism_, Berkeley: University of California Press, pp. 41–82.
+* Backhouse, R., 2002. *The Ordinary Business of Life*, Princeton: Princeton University Press.
+* Becker, G., 1981. *A Treatise on the Family*, Cambridge, MA: Harvard University Press.
+* Bentham, J., 1789. *An Introduction to the Principles of Morals and Legislation*, W. Harrison (ed.), Oxford: Basil Blackwell, 1967.
+* Bhaskar, R., 1975. *A Realist Theory of Science*, Leeds: Leeds Press.
+* Boyd, R., 1984. “The Current Status of Scientific Realism”, in J. Leplin (ed.), *Scientific Realism*, Berkeley: University of California Press, pp. 41–82.
 * Cantillon, R., 1952. “Essai sur la nature du commerce en général”, Paris: Institut national d’études démographiques. [translated version available on-line.](http://socserv.mcmaster.ca/econ/ugcm/3ll3/cantillon/index.html)
-* Cartwright, N., 1983. _How the Laws of Physics Lie_, Oxford: Clarendon Press.
-* –––, 1989. _Nature’s Capacities and their Measurement_, Oxford: Clarendon Press.
-* –––, 2007. _Hunting Causes and Using Them: Approaches in Philosophy and Economics_, Cambridge: Cambridge University Press.
-* Cartwright, Nancy and Jeremy Hardie, 2013. _Evidence-Based Policy: A Practical Guide to Doing it Better_, Oxford: Oxford University Press.
-* Chakravartty, Anjan, 2010. _A Metaphysics for Scientific Realism: Knowing the Unobservable_, Cambridge: Cambridge University Press.
-* Coase, R., 1937. “The Nature of the Firm”, _Economica_ 4: 386–405
-* Davidson, D., 1963. “Actions, Reasons and Causes”, _Journal of Philosophy_, 60: 685–700.
-* Dicken, Paul, 2016. _A Critical Introduction to Scientific Realism_, London: Bloomsbury Academic Press.
-* Duhem, P., 1906. _The Aim and Structure of Scientific Theories_, P. Wiener (trans.), Princeton: Princeton University Press, 1954.
-* Fish, S., 1980. _Is There a Text in This Class? The Authority of Interpretive Communities_, Cambridge, MA: Harvard University Press.
-* Frigg, R., 2010. “Fiction and Scientific Representation”, in R. Frigg and M.C. Hunter (eds.), _Beyond Mimesis and Convention_, New York: Springer.
-* Godfrey-Smith, P., 2006. “The Strategy of Model-Based Science”, _Biology and Philosophy_, 21: 725–40.
-* Kuhn, T., 1970. _The Structure of Scientific Revolutions_, 2nd edition, Chicago: University of Chicago Press.
+* Cartwright, N., 1983. *How the Laws of Physics Lie*, Oxford: Clarendon Press.
+* –––, 1989. *Nature’s Capacities and their Measurement*, Oxford: Clarendon Press.
+* –––, 2007. *Hunting Causes and Using Them: Approaches in Philosophy and Economics*, Cambridge: Cambridge University Press.
+* Cartwright, Nancy and Jeremy Hardie, 2013. *Evidence-Based Policy: A Practical Guide to Doing it Better*, Oxford: Oxford University Press.
+* Chakravartty, Anjan, 2010. *A Metaphysics for Scientific Realism: Knowing the Unobservable*, Cambridge: Cambridge University Press.
+* Coase, R., 1937. “The Nature of the Firm”, *Economica* 4: 386–405
+* Davidson, D., 1963. “Actions, Reasons and Causes”, *Journal of Philosophy*, 60: 685–700.
+* Dicken, Paul, 2016. *A Critical Introduction to Scientific Realism*, London: Bloomsbury Academic Press.
+* Duhem, P., 1906. *The Aim and Structure of Scientific Theories*, P. Wiener (trans.), Princeton: Princeton University Press, 1954.
+* Fish, S., 1980. *Is There a Text in This Class? The Authority of Interpretive Communities*, Cambridge, MA: Harvard University Press.
+* Frigg, R., 2010. “Fiction and Scientific Representation”, in R. Frigg and M.C. Hunter (eds.), *Beyond Mimesis and Convention*, New York: Springer.
+* Godfrey-Smith, P., 2006. “The Strategy of Model-Based Science”, *Biology and Philosophy*, 21: 725–40.
+* Kuhn, T., 1970. *The Structure of Scientific Revolutions*, 2nd edition, Chicago: University of Chicago Press.
 * Lakatos, I., 1970. “Falsification and the Methodology of Scientific Research Programmes”, in Lakatos and Musgrave 1970, pp. 91–196; also in Lakatos 1978b, Volume 1, pp. 8–101.
-* –––, 1974. “Popper on Demarcation and Induction”, in P. Schlipp (ed.), _The Philosophy of Karl Popper_, LaSalle, IL, Open Court, pp. 241–73; reprinted in Lakatos 1978b, Volume 1, 139–67.
-* Lakatos, I. and A. Musgrave (eds.), 1970. _Criticism and the Growth of Knowledge_, Cambridge: Cambridge University Press.
-* Morgan, M. and M. Morrison (eds.), 1999. _Models as Mediators: Perspectives on Natural and Social Science_, Cambridge: Cambridge University Press.
+* –––, 1974. “Popper on Demarcation and Induction”, in P. Schlipp (ed.), *The Philosophy of Karl Popper*, LaSalle, IL, Open Court, pp. 241–73; reprinted in Lakatos 1978b, Volume 1, 139–67.
+* Lakatos, I. and A. Musgrave (eds.), 1970. *Criticism and the Growth of Knowledge*, Cambridge: Cambridge University Press.
+* Morgan, M. and M. Morrison (eds.), 1999. *Models as Mediators: Perspectives on Natural and Social Science*, Cambridge: Cambridge University Press.
 * Morgenbesser, S., 1956. “Theories and Schemata in the Social Sciences”, Ph.D. Dissertation, University of Pennsylvania.
-* Morishima, M., 1973. _Marx’s Economics: A Dual Theory of Value and Growth_, Cambridge: Cambridge University Press.
-* Niiniluoto, Ilkka, 2002. _Critical Scientific Realism_, Oxford: Oxford University Press.
-* North, D., 1990. _Institutions, Institutional Change and Economic Performance_, Cambridge: Cambridge University Press.
-* Nozick, R., 1974. _Anarchy, State and Utopia_, New York: Basic Books.
-* Nussbaum, M., 2000. _Women and Economic Development: The Capabilities Approach_, Cambridge: Cambridge University Press.
-* Ochs, J. and A. Roth, 1989. “An Experimental Study of Sequential Bargaining”, _American Economic Review_, 79: 355–84.
-* Pasinetti, L., 1981. _Structural Change and Economic Growth: A Theoretical Essay on the Dynamics of the Wealth of Nations_, Cambridge: Cambridge University Press.
-* Pearl, J., 2000. _Causality_, Cambridge: Cambridge University Press.
-* Popper, K., 1968. _The Logic of Scientific Discovery_, revised edition, London: Hutchinson & Co.
-* –––, 1969. _Conjectures and Refutations; The Growth of Scientific Knowledge_, 3rd edition, London: Routledge & Kegan-Paul.
-* Psillos, Stathis, 1999. _Scientific Realism: How Science Tracks Truth_, London: Routledge.
+* Morishima, M., 1973. *Marx’s Economics: A Dual Theory of Value and Growth*, Cambridge: Cambridge University Press.
+* Niiniluoto, Ilkka, 2002. *Critical Scientific Realism*, Oxford: Oxford University Press.
+* North, D., 1990. *Institutions, Institutional Change and Economic Performance*, Cambridge: Cambridge University Press.
+* Nozick, R., 1974. *Anarchy, State and Utopia*, New York: Basic Books.
+* Nussbaum, M., 2000. *Women and Economic Development: The Capabilities Approach*, Cambridge: Cambridge University Press.
+* Ochs, J. and A. Roth, 1989. “An Experimental Study of Sequential Bargaining”, *American Economic Review*, 79: 355–84.
+* Pasinetti, L., 1981. *Structural Change and Economic Growth: A Theoretical Essay on the Dynamics of the Wealth of Nations*, Cambridge: Cambridge University Press.
+* Pearl, J., 2000. *Causality*, Cambridge: Cambridge University Press.
+* Popper, K., 1968. *The Logic of Scientific Discovery*, revised edition, London: Hutchinson & Co.
+* –––, 1969. *Conjectures and Refutations; The Growth of Scientific Knowledge*, 3rd edition, London: Routledge & Kegan-Paul.
+* Psillos, Stathis, 1999. *Scientific Realism: How Science Tracks Truth*, London: Routledge.
 * Putnam, H., 1962. “The Analytic and the Synthetic”, in Feigl and Maxwell 1962, pp. 350–97.
-* Quine, W.V.O., 1953. “Two Dogmas of Empiricism”, in _From a Logical Point of View_, Cambridge, MA: Harvard University Press, pp. 20–46.
-* Roemer, J., 1981. _Analytical Foundations of Marxian Economic Theory_, Cambridge: Cambridge University Press.
-* –––, 1982. _A General Theory of Exploitation and Class_, Cambridge, MA: Harvard University Press.
-* Roncaglia, A., 1978. _Sraffa and the Theory of Prices_, Chicester: John Wiley.
-* Smith, V.L., 1991. _Papers in Experimental Economics_, Cambridge, Cambridge University Press.
-* Sneed, J., 1971. _The Logical Structure of Mathematical Physics_, Dordrecht: Reidel.
-* Spirtes, P., C. Glymour, and R. Scheines, 2001. _Causation, Prediction and Search_, 2nd edition, Cambridge, MA: MIT Press.
-* Sraffa, P., 1960. _Production of Commodities by Means of Commodities: Prelude to a Critique of Economic Theory_, Cambridge: Cambridge University Press.
-* Stegmueller, W., 1976. _The Structure and Dynamics of Theories_, William Wohlhueter (trans.), New York: Springer-Verlag.
-* –––, 1979. _The Structuralist View of Theories_, New York: Springer-Verlag.
-* Stegmueller, W., W. Balzer, and W. Spohn (eds.), 1982. _Philosophy of Economics_ (Proceedings, Munich, July 1981), New York: Springer-Verlag.
-* Swedberg, R., 2014. _The Art of Social Theory_, Princeton: Princeton University Press.
-* Tuomela, R., 2016. _Social Ontology: Collective Intentionality and Group Agents_, Oxford: Oxford University Press.
-* Van Fraassen, B., 1980. _The Scientific Image_, Oxford: Oxford University Press.
-* Von Wright, G.H., 1971. _Explanation and Understanding_, Ithaca: Cornell University Press.
-* Watkins, J., 1984. _Science and Scepticism_, Princeton: Princeton University Press.
-* Weisberg, Michael, 2007. “Who Is a Modeler?” _British Journal for the Philosophy of Science_, 58: 207–233.
-* Williams, B., 1981. “Internal and External Reasons” in _Moral Luck_, Cambridge: Cambridge University Press, pp. 101–113.
-* Williamson, O., 1985. _The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting_, New York: Free Press.
-* Winch, P., 1958. _The Idea of a Social Science_, London: Routledge.
-* Woodward, James, 2003. _Making Things Happen_, New York: Oxford University Press.
-* Worrall, J., 2007. “Why There’s No Cause to Randomize”, _The British Journal for the Philosophy of Science_, 58(3): 451–488.
+* Quine, W.V.O., 1953. “Two Dogmas of Empiricism”, in *From a Logical Point of View*, Cambridge, MA: Harvard University Press, pp. 20–46.
+* Roemer, J., 1981. *Analytical Foundations of Marxian Economic Theory*, Cambridge: Cambridge University Press.
+* –––, 1982. *A General Theory of Exploitation and Class*, Cambridge, MA: Harvard University Press.
+* Roncaglia, A., 1978. *Sraffa and the Theory of Prices*, Chicester: John Wiley.
+* Smith, V.L., 1991. *Papers in Experimental Economics*, Cambridge, Cambridge University Press.
+* Sneed, J., 1971. *The Logical Structure of Mathematical Physics*, Dordrecht: Reidel.
+* Spirtes, P., C. Glymour, and R. Scheines, 2001. *Causation, Prediction and Search*, 2nd edition, Cambridge, MA: MIT Press.
+* Sraffa, P., 1960. *Production of Commodities by Means of Commodities: Prelude to a Critique of Economic Theory*, Cambridge: Cambridge University Press.
+* Stegmueller, W., 1976. *The Structure and Dynamics of Theories*, William Wohlhueter (trans.), New York: Springer-Verlag.
+* –––, 1979. *The Structuralist View of Theories*, New York: Springer-Verlag.
+* Stegmueller, W., W. Balzer, and W. Spohn (eds.), 1982. *Philosophy of Economics* (Proceedings, Munich, July 1981), New York: Springer-Verlag.
+* Swedberg, R., 2014. *The Art of Social Theory*, Princeton: Princeton University Press.
+* Tuomela, R., 2016. *Social Ontology: Collective Intentionality and Group Agents*, Oxford: Oxford University Press.
+* Van Fraassen, B., 1980. *The Scientific Image*, Oxford: Oxford University Press.
+* Von Wright, G.H., 1971. *Explanation and Understanding*, Ithaca: Cornell University Press.
+* Watkins, J., 1984. *Science and Scepticism*, Princeton: Princeton University Press.
+* Weisberg, Michael, 2007. “Who Is a Modeler?” *British Journal for the Philosophy of Science*, 58: 207–233.
+* Williams, B., 1981. “Internal and External Reasons” in *Moral Luck*, Cambridge: Cambridge University Press, pp. 101–113.
+* Williamson, O., 1985. *The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting*, New York: Free Press.
+* Winch, P., 1958. *The Idea of a Social Science*, London: Routledge.
+* Woodward, James, 2003. *Making Things Happen*, New York: Oxford University Press.
+* Worrall, J., 2007. “Why There’s No Cause to Randomize”, *The British Journal for the Philosophy of Science*, 58(3): 451–488.
 
 ## Academic Tools
 
@@ -1247,7 +1246,7 @@ Readers may want to consult the _Journal of Economic Methodology_, Vol. 8, No. 1
 
 ### Websites
 
-* [_Economics and Philosophy_](http://journals.cambridge.org/action/displayJournal?jid=EAP)
+* [*Economics and Philosophy*](http://journals.cambridge.org/action/displayJournal?jid=EAP)
 * [History of Economics Society](http://www.eh.net/HE/)
 * [Hoover Chair in Economic and Social Ethics](http://www.uclouvain.be/chaire-hoover)
 
@@ -1265,7 +1264,7 @@ There are now a large number of blogs by prominent economists. Though not predom
 
 ## Related Entries
 
-[action](https://plato.stanford.edu/entries/action/) | [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [economics \[normative\] and economic justice](https://plato.stanford.edu/entries/economic-justice/) | [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [folk psychology: as a theory](https://plato.stanford.edu/entries/folkpsych-theory/) | [game theory](https://plato.stanford.edu/entries/game-theory/) | [game theory: and ethics](https://plato.stanford.edu/entries/game-ethics/) | [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [individualism, methodological](https://plato.stanford.edu/entries/methodological-individualism/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Kuhn, Thomas](https://plato.stanford.edu/entries/thomas-kuhn/) | [Lakatos, Imre](https://plato.stanford.edu/entries/lakatos/) | [laws of nature: _ceteris paribus_](https://plato.stanford.edu/entries/ceteris-paribus/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Popper, Karl](https://plato.stanford.edu/entries/popper/) | [preferences](https://plato.stanford.edu/entries/preferences/) | [reasons for action: justification, motivation, explanation](https://plato.stanford.edu/entries/reasons-just-vs-expl/) | [risk](https://plato.stanford.edu/entries/risk/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [Smith, Adam: moral and political philosophy](https://plato.stanford.edu/entries/smith-moral-political/) | [social choice theory](https://plato.stanford.edu/entries/social-choice/) | [socialism](https://plato.stanford.edu/entries/socialism/) | [well-being](https://plato.stanford.edu/entries/well-being/)
+[action](https://plato.stanford.edu/entries/action/) | [Bayes’ Theorem](https://plato.stanford.edu/entries/bayes-theorem/) | [economics \[normative\] and economic justice](https://plato.stanford.edu/entries/economic-justice/) | [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [folk psychology: as a theory](https://plato.stanford.edu/entries/folkpsych-theory/) | [game theory](https://plato.stanford.edu/entries/game-theory/) | [game theory: and ethics](https://plato.stanford.edu/entries/game-ethics/) | [game theory: evolutionary](https://plato.stanford.edu/entries/game-evolutionary/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [individualism, methodological](https://plato.stanford.edu/entries/methodological-individualism/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Kuhn, Thomas](https://plato.stanford.edu/entries/thomas-kuhn/) | [Lakatos, Imre](https://plato.stanford.edu/entries/lakatos/) | [laws of nature: *ceteris paribus*](https://plato.stanford.edu/entries/ceteris-paribus/) | [Mill, John Stuart](https://plato.stanford.edu/entries/mill/) | [Popper, Karl](https://plato.stanford.edu/entries/popper/) | [preferences](https://plato.stanford.edu/entries/preferences/) | [reasons for action: justification, motivation, explanation](https://plato.stanford.edu/entries/reasons-just-vs-expl/) | [risk](https://plato.stanford.edu/entries/risk/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [Smith, Adam: moral and political philosophy](https://plato.stanford.edu/entries/smith-moral-political/) | [social choice theory](https://plato.stanford.edu/entries/social-choice/) | [socialism](https://plato.stanford.edu/entries/socialism/) | [well-being](https://plato.stanford.edu/entries/well-being/)
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
-[Daniel M. Hausman](https://ifh.rutgers.edu/faculty\staff/daniel-m-hausman/) <[_dhausman@cplb.rutgers.edu_](mailto:dhausman%40cplb%2erutgers%2eedu)>
+[Daniel M. Hausman](https://ifh.rutgers.edu/faculty\staff/daniel-m-hausman/) <[*dhausman@cplb.rutgers.edu*](mailto:dhausman%40cplb%2erutgers%2eedu)>

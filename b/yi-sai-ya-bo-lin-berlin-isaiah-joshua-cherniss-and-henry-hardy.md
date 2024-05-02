@@ -1,18 +1,16 @@
 # 以赛亚·伯林 Berlin, Isaiah (Joshua Cherniss and Henry Hardy)
 
-_首次发表于 2004 年 10 月 26 日；实质性修订于 2022 年 2 月 12 日_
+*首次发表于 2004 年 10 月 26 日；实质性修订于 2022 年 2 月 12 日*
 
 ![Photo of Isaiah Berlin](https://plato.stanford.edu/entries/berlin/berlin.png)
 
-_艾萨亚·柏林，1968 年 7 月 18 日_
+*艾萨亚·柏林，1968 年 7 月 18 日*
 
-_摄影：Helen Muspratt, Ramsey 和 Muspratt_
+*摄影：Helen Muspratt, Ramsey 和 Muspratt*
 
-_© The Trustees of the Isaiah Berlin Literary Trust_
+*© The Trustees of the Isaiah Berlin Literary Trust*
 
 以赛亚·伯林（1909-1997）是一位入籍英国的哲学家、思想史学家、政治理论家、教育家、公共知识分子和道德家，也是一位散文家。他以富有对话才华、捍卫自由主义和多元主义、反对政治极端主义和知识狂热主义，以及对人和思想进行通俗而犀利的写作而闻名。他的论文《自由的两个概念》（1958 年）对英语世界政治理论的复兴做出了贡献，并且仍然是该领域中最有影响力和广泛讨论的文本之一：赞赏者和批评者一致认为，伯林对积极自由和消极自由的区分，无论好坏，都是讨论政治自由的意义和价值的基本起点。在他的晚年，他的众多论文更加易得，引起了对他的工作的日益关注，特别是对价值多元主义的理念；伯林对价值多元主义的阐述存在许多模糊和甚至晦涩之处，这只是鼓励其他哲学家进一步研究这一丰富而重要主题的工作。
-
-
 
 ***
 
@@ -286,161 +284,161 @@ _© The Trustees of the Isaiah Berlin Literary Trust_
 
 The many works in languages other than English are mostly excluded.
 
-The twelve new editions of Berlin’s works published by Princeton University Press in 2013, 2014 and 2019 all contain significant additional material and new forewords by experts in the relevant fields, as does the Brookings Classics edition of _The Soviet Mind_ (2016). A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of _The Proper Study of Mankind_. Page references in this article are to the latest editions of Berlin’s books, though the date of the first edition is used to identify them. Concordances that enable readers to find corresponding pages in earlier editions are available [online](http://berlin.wolf.ox.ac.uk/published_works/index.html).
+The twelve new editions of Berlin’s works published by Princeton University Press in 2013, 2014 and 2019 all contain significant additional material and new forewords by experts in the relevant fields, as does the Brookings Classics edition of *The Soviet Mind* (2016). A new foreword by Andrew Marr was added in the second edition (Vintage, 2014) of *The Proper Study of Mankind*. Page references in this article are to the latest editions of Berlin’s books, though the date of the first edition is used to identify them. Concordances that enable readers to find corresponding pages in earlier editions are available [online](http://berlin.wolf.ox.ac.uk/published_works/index.html).
 
 ### A. Works by Berlin
 
 A complete list of Berlin’s works is available in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/catalogues) and in the [Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/bibliography/index.html).
 
-* 1930, ‘[Some Procrustations](https://berlin.wolf.ox.ac.uk/published_works/singles/bib3.pdf)’, _Oxford Outlook_, 10 (52): 491–502.
-* 1937a, ‘[Induction and Hypothesis](http://berlin.wolf.ox.ac.uk/published_works/singles/bib20.pdf)’, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 16: 63–102.
+* 1930, ‘[Some Procrustations](https://berlin.wolf.ox.ac.uk/published_works/singles/bib3.pdf)’, *Oxford Outlook*, 10 (52): 491–502.
+* 1937a, ‘[Induction and Hypothesis](http://berlin.wolf.ox.ac.uk/published_works/singles/bib20.pdf)’, *Proceedings of the Aristotelian Society* (Supplementary Volume), 16: 63–102.
 * 1937b, ‘[Utilitarianism](http://berlin.wolf.ox.ac.uk/lists/nachlass/utilitarianism.pdf)’, online (PDF).
-* 1939, _Karl Marx: His Life and Environment_, London: Thornton Butterworth, Toronto: Nelson; 5th ed., _Karl Marx_, ed. Henry Hardy, Princeton and Oxford: Princeton University Press, 2013.
+* 1939, *Karl Marx: His Life and Environment*, London: Thornton Butterworth, Toronto: Nelson; 5th ed., *Karl Marx*, ed. Henry Hardy, Princeton and Oxford: Princeton University Press, 2013.
 * 1949, ‘[Democracy, Communism and the Individual](http://berlin.wolf.ox.ac.uk/lists/nachlass/demcomind.pdf)’, online and in Berlin 2000a.
 * 1951, ‘[Synthetic A Priori Propositions](https://berlin.wolf.ox.ac.uk/lists/nachlass/synthetic.pdf)’, American Philosophical Association, December 1951.
-* 1953, _The Hedgehog and the Fox: An Essay on Tolstoy’s View of History_, London: Weidenfeld and Nicolson, New York: Simon and Schuster. Expanded version of ‘Lev Tolstoy’s Historical Scepticism’, _Oxford Slavonic Papers_, 2, 1951, pp. 17–54. Reprinted in Berlin 1978a; 2nd edition, ed. Henry Hardy, Princeton: Princeton University Press, 2013; London, 2014: Phoenix.
-* 1954, _Historical Inevitability_, London: Oxford University Press. Reprinted in Berlin 2002b.
-* 1955 (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘[Philosophy and Beliefs](http://berlin.wolf.ox.ac.uk/published_works/singles/bib59.pdf)’, _Twentieth Century_, 157: 495–521.
-* 1956, (ed.), _The Age of Enlightenment: The Eighteenth-Century Philosophers_, Boston: Houghton Mifflin, New York: New American Library; 2nd ed., ed. Henry Hardy, [online](https://berlin.wolf.ox.ac.uk/published_works/ae/AE2.pdf), Oxford: The Isaiah Berlin Literary Trust, 2017 (PDF).
+* 1953, *The Hedgehog and the Fox: An Essay on Tolstoy’s View of History*, London: Weidenfeld and Nicolson, New York: Simon and Schuster. Expanded version of ‘Lev Tolstoy’s Historical Scepticism’, *Oxford Slavonic Papers*, 2, 1951, pp. 17–54. Reprinted in Berlin 1978a; 2nd edition, ed. Henry Hardy, Princeton: Princeton University Press, 2013; London, 2014: Phoenix.
+* 1954, *Historical Inevitability*, London: Oxford University Press. Reprinted in Berlin 2002b.
+* 1955 (with Stuart Hampshire, Iris Murdoch and Anthony Quinton), ‘[Philosophy and Beliefs](http://berlin.wolf.ox.ac.uk/published_works/singles/bib59.pdf)’, *Twentieth Century*, 157: 495–521.
+* 1956, (ed.), *The Age of Enlightenment: The Eighteenth-Century Philosophers*, Boston: Houghton Mifflin, New York: New American Library; 2nd ed., ed. Henry Hardy, [online](https://berlin.wolf.ox.ac.uk/published_works/ae/AE2.pdf), Oxford: The Isaiah Berlin Literary Trust, 2017 (PDF).
 * 1958, ‘Two Concepts of Liberty’, Oxford: Clarendon Press; reprinted in Berlin 2002b.
-* 1972, ‘The Originality of Machiavelli’, in _Studies on Machiavelli_, M. Gilmore (ed.), Florence: Sansoni. Reprinted in Berlin 1979.
-* 1978a, _Russian Thinkers_, Henry Hardy and Aileen Kelly (eds), London: Hogarth Press; New York, 1979: Viking; 2nd ed., revised by Henry Hardy, London etc.: Penguin Classics, 2008.
-* 1978b, _Concepts and Categories: Philosophical Essays_, Henry Hardy (ed.), London: Hogarth Press; New York, 1979: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
-* 1979, _Against the Current: Essays in the History of Ideas_, Henry Hardy (ed.), London: Hogarth Press; New York, 1980: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
-* 1980, _Personal Impressions_, Henry Hardy (ed.), London: Hogarth Press; New York, 1981: Viking; 3rd (expanded) ed., Princeton: Princeton University Press, 2014; London, 2018: Pimlico.
-* 1990, _The Crooked Timber of Humanity: Chapters in the History of Ideas_, Henry Hardy (ed.), London: John Murray; New York, 1991: Knopf; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
-* 1996, _The Sense of Reality: Studies in Ideas and their History_, Henry Hardy (ed.), London: Chatto and Windus; New York: Farrar, Straus and Giroux, 1997; 2nd ed., Princeton: Princeton University Press, 2019.
-* 1997a, _The Proper Study of Mankind: An Anthology of Essays_, Henry Hardy and Roger Hausheer (eds), London: Chatto and Windus; New York, 1998: Farrar, Straus and Giroux; 2nd ed., London: Vintage, 2013.
+* 1972, ‘The Originality of Machiavelli’, in *Studies on Machiavelli*, M. Gilmore (ed.), Florence: Sansoni. Reprinted in Berlin 1979.
+* 1978a, *Russian Thinkers*, Henry Hardy and Aileen Kelly (eds), London: Hogarth Press; New York, 1979: Viking; 2nd ed., revised by Henry Hardy, London etc.: Penguin Classics, 2008.
+* 1978b, *Concepts and Categories: Philosophical Essays*, Henry Hardy (ed.), London: Hogarth Press; New York, 1979: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
+* 1979, *Against the Current: Essays in the History of Ideas*, Henry Hardy (ed.), London: Hogarth Press; New York, 1980: Viking; 2nd ed., Princeton: Princeton University Press, 2013.
+* 1980, *Personal Impressions*, Henry Hardy (ed.), London: Hogarth Press; New York, 1981: Viking; 3rd (expanded) ed., Princeton: Princeton University Press, 2014; London, 2018: Pimlico.
+* 1990, *The Crooked Timber of Humanity: Chapters in the History of Ideas*, Henry Hardy (ed.), London: John Murray; New York, 1991: Knopf; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
+* 1996, *The Sense of Reality: Studies in Ideas and their History*, Henry Hardy (ed.), London: Chatto and Windus; New York: Farrar, Straus and Giroux, 1997; 2nd ed., Princeton: Princeton University Press, 2019.
+* 1997a, *The Proper Study of Mankind: An Anthology of Essays*, Henry Hardy and Roger Hausheer (eds), London: Chatto and Windus; New York, 1998: Farrar, Straus and Giroux; 2nd ed., London: Vintage, 2013.
 * 1997b, ‘Israel and the Palestinians’, in 2015 (568) and [online](http://berlin.wolf.ox.ac.uk/information/israelandthepalestinians.html).
-* 1999a, _The First and the Last_, New York: New York Review Books; London: Granta.
-* 1999b, _The Roots of Romanticism_ (1965), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
-* 2000a, _The Power of Ideas_, Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
-* 2000b, _Three Critics of the Enlightenment: Vico, Hamann, Herder_ (1960–5), Henry Hardy (ed.), London: Pimlico; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
-* 2002a, _Freedom and its Betrayal: Six Enemies of Human Liberty_ (1952), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2014.
-* 2002b, _Liberty_, Henry Hardy (ed.), Oxford and New York: Oxford University Press.
-* 2004a, _Flourishing: Letters 1928–1946_, Henry Hardy (ed.), London: Chatto and Windus (initially published in the USA as _Letters 1928–1946_, New York: Cambridge University Press); [supplement online](https://berlin.wolf.ox.ac.uk/published_works/f/l1supp.pdf) (PDF); special supplement, ‘[What about Daphne? Correspondence with H. G. Nicholas 1942–1945](https://berlin.wolf.ox.ac.uk/published_works/f/lnicholas.pdf)’, also online (PDF).
-* 2004b, _The Soviet Mind: Russian Culture under Communism_, Henry Hardy (ed.), Washington: Brookings Institution Press; 2nd ed., Washington: Brookings Classics, Brookings Institution Press.
-* 2006, _Political Ideas in the Romantic Age: Their Rise and Influence on Modern Thought_, Henry Hardy (ed.), London: Chatto and Windus; 2nd. ed., Princeton: Princeton University Press, 2014.
-* 2006a (with Beata Polanowska-Sygulska), _Unfinished Dialogue_, New York: Prometheus Books.
-* 2009, _Enlightening: Letters 1946–1960_, Henry Hardy and Jennifer Holmes (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/e/l2supp.pdf) (PDF).
-* 2013, _Building: Letters 1960–1975_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/b/l3supp.pdf) (PDF).
-* 2015, _Affirming: Letters 1975–1997_, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/a/l4supp.pdf) (PDF); special supplement, ‘[More Explaining: Isaiah Berlin on His Own Ideas](https://berlin.wolf.ox.ac.uk/published_works/a/more-explaining.pdf)’, also online (PDF).
+* 1999a, *The First and the Last*, New York: New York Review Books; London: Granta.
+* 1999b, *The Roots of Romanticism* (1965), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
+* 2000a, *The Power of Ideas*, Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013.
+* 2000b, *Three Critics of the Enlightenment: Vico, Hamann, Herder* (1960–5), Henry Hardy (ed.), London: Pimlico; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2013; London, 2013: Pimlico.
+* 2002a, *Freedom and its Betrayal: Six Enemies of Human Liberty* (1952), Henry Hardy (ed.), London: Chatto and Windus; Princeton: Princeton University Press; 2nd ed., Princeton: Princeton University Press, 2014.
+* 2002b, *Liberty*, Henry Hardy (ed.), Oxford and New York: Oxford University Press.
+* 2004a, *Flourishing: Letters 1928–1946*, Henry Hardy (ed.), London: Chatto and Windus (initially published in the USA as *Letters 1928–1946*, New York: Cambridge University Press); [supplement online](https://berlin.wolf.ox.ac.uk/published_works/f/l1supp.pdf) (PDF); special supplement, ‘[What about Daphne? Correspondence with H. G. Nicholas 1942–1945](https://berlin.wolf.ox.ac.uk/published_works/f/lnicholas.pdf)’, also online (PDF).
+* 2004b, *The Soviet Mind: Russian Culture under Communism*, Henry Hardy (ed.), Washington: Brookings Institution Press; 2nd ed., Washington: Brookings Classics, Brookings Institution Press.
+* 2006, *Political Ideas in the Romantic Age: Their Rise and Influence on Modern Thought*, Henry Hardy (ed.), London: Chatto and Windus; 2nd. ed., Princeton: Princeton University Press, 2014.
+* 2006a (with Beata Polanowska-Sygulska), *Unfinished Dialogue*, New York: Prometheus Books.
+* 2009, *Enlightening: Letters 1946–1960*, Henry Hardy and Jennifer Holmes (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/e/l2supp.pdf) (PDF).
+* 2013, *Building: Letters 1960–1975*, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/b/l3supp.pdf) (PDF).
+* 2015, *Affirming: Letters 1975–1997*, Henry Hardy and Mark Pottle (eds), London: Chatto and Windus; [supplement online](https://berlin.wolf.ox.ac.uk/published_works/a/l4supp.pdf) (PDF); special supplement, ‘[More Explaining: Isaiah Berlin on His Own Ideas](https://berlin.wolf.ox.ac.uk/published_works/a/more-explaining.pdf)’, also online (PDF).
 * 2018 \[1969], ‘The Lessons of History’, in Cherniss and Smith 2018.
 
 ### B. Books about Berlin
 
-* Aarsbergen-Ligtvoet, Connie, 2006, _Isaiah Berlin: A Value Pluralist and Humanist View of Human Nature and the Meaning of Life_, Amsterdam/New York: Rodopi.
-* Baum, Bruce and Robert Nichols, 2013, (eds), _Isaiah Berlin and the Politics of Freedom: ‘Two Concepts of Liberty’ 50 Years Later_, New York and London: Routledge.
-* Brockliss, Laurence, and Ritchie Robertson (eds), 2016, _Isaiah Berlin and the Enlightenment_, Oxford: Oxford University Press.
-* Caute, David, 2013, _Isaac and Isaiah: The Covert Punishment of a Cold War Heretic_, New Haven and London: Yale University Press.
-* Cherniss, Joshua L., 2013, _A Mind and Its Time: The Development of Isaiah Berlin’s Political Thought_, Oxford: Oxford University Press.
-* ––– and Steven B. Smith (eds), 2018, _The Cambridge Companion to Isaiah Berlin_, Cambridge etc.: Cambridge University Press.
-* Crowder, George, 2004, _Isaiah Berlin: Liberty and Pluralism_, Cambridge: Polity.
-* –––, 2019, _The Problem of Value Pluralism: Isaiah Berlin and Beyond_, New York: Routledge.
-* ––– and Henry Hardy (eds), 2007, _The One and the Many: Reading Isaiah Berlin_, Amherst, NY: Prometheus.
-* Dimova-Cookson, Maria, 2020, _Rethinking Negative and Positive Liberty_, Abingdon and New York: Routledge.
-* Dubnov, Arie M., 2012, _Isaiah Berlin: The Journey of a Jewish Liberal_, London: Palgrave Macmillan.
-* Espada, João Carlos, Plattner, Marc F., and Wolfson, Adam (eds), 2001, _Pluralism without Relativism: Remembering Isaiah Berlin_, Lanham, MD: Lexington Books.
-* Galipeau, Claude J., 1994, _Isaiah Berlin’s Liberalism_, Oxford: Clarendon Press.
-* Gray, John, 1995, _Isaiah Berlin_, London: HarperCollins; Princeton, 1996: Princeton University Press; retitled _Berlin_ for the Modern Masters paperback edition, London, 1995: Fontana.
-* –––, 2013, _Isaiah Berlin: An Interpretation of His Thought_, Princeton: Princeton University Press \[2nd. ed. of Gray 1995].
-* Hardy, Henry, 2018, _In Search of Isaiah Berlin: A Literary Adventure_, London: I.B.Tauris; London, Tauris Parke, 2019.
-* ––– (ed.), 2009, _The Book of Isaiah: Personal Impressions of Isaiah Berlin_, Woodbridge: The Boydell Press in association with Wolfson College, Oxford.
-* –––, Kei Hiruta and Jennifer Holmes (eds), 2009, _Isaiah Berlin and Wolfson College_, Oxford: Wolfson College.
-* Ignatieff, Michael, 1998, _Isaiah Berlin: A Life_, London: Chatto and Windus; New York: Metropolitan.
-* Jahanbegloo, Ramin, 1992 (first published in French in 1991), _Conversations with Isaiah Berlin_, London: Peter Halban.
-* Kocis, Robert, 1989, _A Critical Appraisal of Sir Isaiah Berlin’s Political Philosophy_, Lewiston, NY, etc.: Edwin Mellen Press.
-* Lilla, Mark, Ronald Dworkin and Robert B. Silvers (eds), 2001, _The Legacy of Isaiah Berlin_, New York: New York Review Books; London: Granta.
-* Lyons, Johnny, 2020, _The Philosophy of Isaiah Berlin_, London: Bloomsbury.
-* Mali, Joseph, and Robert Wokler (eds), 2003, _Isaiah Berlin’s Counter-Enlightenment_ \[_Transactions of the American Philosophical Society_, 93(3)], Philadelphia: American Philosophical Society.
-* Margalit, Edna and Avishai, (eds), 1991, _Isaiah Berlin: A Celebration_, London: Hogarth Press; Chicago: University of Chicago Press.
-* Ryan, Alan (ed.), 1979, _The Idea of Freedom: Essays in Honour of Isaiah Berlin_, Oxford: Oxford University Press.
-* Walicki, Andrzej, 2011, _Encounters with Isaiah Berlin: Story of an Intellectual Friendship_, Frankfurt am Main: Peter Lang.
+* Aarsbergen-Ligtvoet, Connie, 2006, *Isaiah Berlin: A Value Pluralist and Humanist View of Human Nature and the Meaning of Life*, Amsterdam/New York: Rodopi.
+* Baum, Bruce and Robert Nichols, 2013, (eds), *Isaiah Berlin and the Politics of Freedom: ‘Two Concepts of Liberty’ 50 Years Later*, New York and London: Routledge.
+* Brockliss, Laurence, and Ritchie Robertson (eds), 2016, *Isaiah Berlin and the Enlightenment*, Oxford: Oxford University Press.
+* Caute, David, 2013, *Isaac and Isaiah: The Covert Punishment of a Cold War Heretic*, New Haven and London: Yale University Press.
+* Cherniss, Joshua L., 2013, *A Mind and Its Time: The Development of Isaiah Berlin’s Political Thought*, Oxford: Oxford University Press.
+* ––– and Steven B. Smith (eds), 2018, *The Cambridge Companion to Isaiah Berlin*, Cambridge etc.: Cambridge University Press.
+* Crowder, George, 2004, *Isaiah Berlin: Liberty and Pluralism*, Cambridge: Polity.
+* –––, 2019, *The Problem of Value Pluralism: Isaiah Berlin and Beyond*, New York: Routledge.
+* ––– and Henry Hardy (eds), 2007, *The One and the Many: Reading Isaiah Berlin*, Amherst, NY: Prometheus.
+* Dimova-Cookson, Maria, 2020, *Rethinking Negative and Positive Liberty*, Abingdon and New York: Routledge.
+* Dubnov, Arie M., 2012, *Isaiah Berlin: The Journey of a Jewish Liberal*, London: Palgrave Macmillan.
+* Espada, João Carlos, Plattner, Marc F., and Wolfson, Adam (eds), 2001, *Pluralism without Relativism: Remembering Isaiah Berlin*, Lanham, MD: Lexington Books.
+* Galipeau, Claude J., 1994, *Isaiah Berlin’s Liberalism*, Oxford: Clarendon Press.
+* Gray, John, 1995, *Isaiah Berlin*, London: HarperCollins; Princeton, 1996: Princeton University Press; retitled *Berlin* for the Modern Masters paperback edition, London, 1995: Fontana.
+* –––, 2013, *Isaiah Berlin: An Interpretation of His Thought*, Princeton: Princeton University Press \[2nd. ed. of Gray 1995].
+* Hardy, Henry, 2018, *In Search of Isaiah Berlin: A Literary Adventure*, London: I.B.Tauris; London, Tauris Parke, 2019.
+* ––– (ed.), 2009, *The Book of Isaiah: Personal Impressions of Isaiah Berlin*, Woodbridge: The Boydell Press in association with Wolfson College, Oxford.
+* –––, Kei Hiruta and Jennifer Holmes (eds), 2009, *Isaiah Berlin and Wolfson College*, Oxford: Wolfson College.
+* Ignatieff, Michael, 1998, *Isaiah Berlin: A Life*, London: Chatto and Windus; New York: Metropolitan.
+* Jahanbegloo, Ramin, 1992 (first published in French in 1991), *Conversations with Isaiah Berlin*, London: Peter Halban.
+* Kocis, Robert, 1989, *A Critical Appraisal of Sir Isaiah Berlin’s Political Philosophy*, Lewiston, NY, etc.: Edwin Mellen Press.
+* Lilla, Mark, Ronald Dworkin and Robert B. Silvers (eds), 2001, *The Legacy of Isaiah Berlin*, New York: New York Review Books; London: Granta.
+* Lyons, Johnny, 2020, *The Philosophy of Isaiah Berlin*, London: Bloomsbury.
+* Mali, Joseph, and Robert Wokler (eds), 2003, *Isaiah Berlin’s Counter-Enlightenment* \[*Transactions of the American Philosophical Society*, 93(3)], Philadelphia: American Philosophical Society.
+* Margalit, Edna and Avishai, (eds), 1991, *Isaiah Berlin: A Celebration*, London: Hogarth Press; Chicago: University of Chicago Press.
+* Ryan, Alan (ed.), 1979, *The Idea of Freedom: Essays in Honour of Isaiah Berlin*, Oxford: Oxford University Press.
+* Walicki, Andrzej, 2011, *Encounters with Isaiah Berlin: Story of an Intellectual Friendship*, Frankfurt am Main: Peter Lang.
 
 ### C. Other Works Cited
 
-* Allen, Jonathan, 1998, review of Berlin 1996, _South African Journal of Philosophy_, 17/2: 173–7.
+* Allen, Jonathan, 1998, review of Berlin 1996, *South African Journal of Philosophy*, 17/2: 173–7.
 * Annan, Noel, 1980, introduction to Berlin 1980 (renamed ‘afterword’ in 3rd ed.).
-* –––, 1990, _Our Age: Portrait of a Generation_, London: Weidenfeld and Nicolson; New York: Random House.
-* –––, 1999, ‘The Don as Magus: Isaiah Berlin’, in his _The Dons: Mentors, Eccentrics and Geniuses_, London: HarperCollins.
-* Baghramian, Maria, and Attracta Ingram (eds), 2000, _Pluralism: The Philosophy and Politics of Diversity_, London and New York: Routledge.
-* Barry, Brian, 2001, _Culture and Equality: An Egalitarian Critique of Multiculturalism_. Cambridge, Mass.: Harvard University Press.
-* Bew, John (2015), _Realpolitik: A History_, Oxford: Oxford University Press.
-* Blokland, Hans, 1999, ‘Berlin on Pluralism and Liberalism: A Defence’, _European Legacy_, 4/4: 1–23.
-* Brogan, A. P., 1931, ‘Objective Pluralism in the Theory of Value’, _International Journal of Ethics_, 41/3: 287–95.
-* Carr, E. H., 1961, _What is History?_, London: Macmillan.
-* Chang, Ruth (ed.), 1997, _Incommensurability, Incomparability, and Practical Reason_, Cambridge, Mass., and London: Harvard University Press.
-* Cherniss, Joshua L., 2018, ‘Isaiah Berlin’, in Robert Schuett and Miles Hollingworth (eds), _The Edinburgh Companion to Political Realism_, Edinburgh: Edinburgh University Press, 380–92.
-* –––, 2021, _Liberalism in Dark Times: The Liberal Ethos in the Twentieth Century_, Princeton: Princeton University Press.
+* –––, 1990, *Our Age: Portrait of a Generation*, London: Weidenfeld and Nicolson; New York: Random House.
+* –––, 1999, ‘The Don as Magus: Isaiah Berlin’, in his *The Dons: Mentors, Eccentrics and Geniuses*, London: HarperCollins.
+* Baghramian, Maria, and Attracta Ingram (eds), 2000, *Pluralism: The Philosophy and Politics of Diversity*, London and New York: Routledge.
+* Barry, Brian, 2001, *Culture and Equality: An Egalitarian Critique of Multiculturalism*. Cambridge, Mass.: Harvard University Press.
+* Bew, John (2015), *Realpolitik: A History*, Oxford: Oxford University Press.
+* Blokland, Hans, 1999, ‘Berlin on Pluralism and Liberalism: A Defence’, *European Legacy*, 4/4: 1–23.
+* Brogan, A. P., 1931, ‘Objective Pluralism in the Theory of Value’, *International Journal of Ethics*, 41/3: 287–95.
+* Carr, E. H., 1961, *What is History?*, London: Macmillan.
+* Chang, Ruth (ed.), 1997, *Incommensurability, Incomparability, and Practical Reason*, Cambridge, Mass., and London: Harvard University Press.
+* Cherniss, Joshua L., 2018, ‘Isaiah Berlin’, in Robert Schuett and Miles Hollingworth (eds), *The Edinburgh Companion to Political Realism*, Edinburgh: Edinburgh University Press, 380–92.
+* –––, 2021, *Liberalism in Dark Times: The Liberal Ethos in the Twentieth Century*, Princeton: Princeton University Press.
 * ––– and Henry Hardy, 2018, ‘The Life and Opinions of Isaiah Berlin’, in Cherniss and Smith 2018, 13–30.
-* Connolly, William E., 2005, _Pluralism_, Durham, NC: Duke University Press.
-* Craiutu, Aurelian, 2017, _Faces of Moderation: The Art of Balance in an Age of Extremes_, Philadelphia: University of Pennsylvania Press.
-* Crowder, George, 1994, ‘Pluralism and Liberalism’, _Political Studies_ 42: 293–305.
-* –––, 2002, _Liberalism and Value Pluralism_, London and New York: Continuum.
+* Connolly, William E., 2005, *Pluralism*, Durham, NC: Duke University Press.
+* Craiutu, Aurelian, 2017, *Faces of Moderation: The Art of Balance in an Age of Extremes*, Philadelphia: University of Pennsylvania Press.
+* Crowder, George, 1994, ‘Pluralism and Liberalism’, *Political Studies* 42: 293–305.
+* –––, 2002, *Liberalism and Value Pluralism*, London and New York: Continuum.
 * –––, 2016, ‘After Berlin: The Literature since 2002’, online (PDF).
-* Dewey, John, 1908, ‘The Virtues’, chapter 19 of John Dewey and James H. Tufts, _Ethics_, New York: Holt.
-* Dzur, Albert W., 1998, ‘Value Pluralism versus Political Liberalism?’, _Social Theory and Practice_, 24/3: 375–92.
-* Evans, J. D. G., 1996, ‘Cultural Realism: The Ancient Philosophical Background’, in _Philosophy and Pluralism_, D. Archard (ed.), Cambridge: Cambridge University Press.
-* Ferrell, Jason, 2009, ‘Isaiah Berlin: Liberalism and Pluralism in Theory and Practice’, _Contemporary Political Theory_, 8: 295–316.
-* Friedman, Jeffrey, 1997, ‘Pluralism or Relativism?’, _Critical Review_, 11/4: 469–80.
-* Galston, William, 2002, _Liberal Pluralism: The Implications of Value Pluralism for Political Theory and Practice_, Cambridge etc.: Cambridge University Press.
-* –––, 2004, _Liberal Purposes: Goods, Virtues and Diversity in the Liberal State_, Cambridge and New York: Cambridge University Press.
-* –––, 2010, ‘Realism in Political Theory’, _European Journal of Political Theory_, 9/4: 385–411.
-* Gertsen, A. I. \[i.e. Herzen], 1842, _Sobranie sochinenii v tridtsati tomakh_, Moscow: Academy of Sciences of the USSR, 1954–66; vol. 2, diary entry for 28 June.
-* Gray, John, 1993, _Post-Liberalism: Studies in Political Thought_, New York and London: Routledge.
-* –––, 1998, ‘Where Liberals and Pluralists Part Company’, _International Journal of Moral and Political Studies_, 6/1: 17–36.
-* –––, 2002, _Two Faces of Liberalism_, Cambridge: Polity.
+* Dewey, John, 1908, ‘The Virtues’, chapter 19 of John Dewey and James H. Tufts, *Ethics*, New York: Holt.
+* Dzur, Albert W., 1998, ‘Value Pluralism versus Political Liberalism?’, *Social Theory and Practice*, 24/3: 375–92.
+* Evans, J. D. G., 1996, ‘Cultural Realism: The Ancient Philosophical Background’, in *Philosophy and Pluralism*, D. Archard (ed.), Cambridge: Cambridge University Press.
+* Ferrell, Jason, 2009, ‘Isaiah Berlin: Liberalism and Pluralism in Theory and Practice’, *Contemporary Political Theory*, 8: 295–316.
+* Friedman, Jeffrey, 1997, ‘Pluralism or Relativism?’, *Critical Review*, 11/4: 469–80.
+* Galston, William, 2002, *Liberal Pluralism: The Implications of Value Pluralism for Political Theory and Practice*, Cambridge etc.: Cambridge University Press.
+* –––, 2004, *Liberal Purposes: Goods, Virtues and Diversity in the Liberal State*, Cambridge and New York: Cambridge University Press.
+* –––, 2010, ‘Realism in Political Theory’, *European Journal of Political Theory*, 9/4: 385–411.
+* Gertsen, A. I. \[i.e. Herzen], 1842, *Sobranie sochinenii v tridtsati tomakh*, Moscow: Academy of Sciences of the USSR, 1954–66; vol. 2, diary entry for 28 June.
+* Gray, John, 1993, *Post-Liberalism: Studies in Political Thought*, New York and London: Routledge.
+* –––, 1998, ‘Where Liberals and Pluralists Part Company’, *International Journal of Moral and Political Studies*, 6/1: 17–36.
+* –––, 2002, *Two Faces of Liberalism*, Cambridge: Polity.
 * Gustavsson, Gina, ‘Berlin’s Romantics and their Ambiguous Legacy’, in Cherniss and Smith 2018, 149–66.
 * Gutmann, Amy, 1999, ‘Liberty and Pluralism in Pursuit of the Non-Ideal’, in Mack 1999.
-* Hanley, Ryan P., 2004, ‘Political Science and Political Understanding: Isaiah Berlin on the Nature of Political Inquiry’, _American Political Science Review_, 98/2: 327–39
+* Hanley, Ryan P., 2004, ‘Political Science and Political Understanding: Isaiah Berlin on the Nature of Political Inquiry’, *American Political Science Review*, 98/2: 327–39
 * Harris, Ian, ‘Berlin and his Critics’, in Berlin 2002b.
 * Hausheer, Roger, 1979, introduction to Berlin 1979.
 * –––, 2004, ‘Enlightening the Enlightenment’, in Mali and Wokler 2003.
 * Herzen, Alexander: see Gertsen, A. I.
-* Hitchens, Christopher, 1998, ‘Moderation or Death’, _London Review of Books_, 23 November, 3–11.
-* Hollis, Martin, 1999, ‘Is Universalism Ethnocentric?’, in Christian Joppke and Steven Lukes (eds), _Multicultural Questions_, Oxford: Oxford University Press.
-* James, William, 1891, ‘The Moral Philosopher and the Moral Life‘, _International Journal of Ethics_ 1: 330–54.
-* Katznelson, Ira, 1994, ‘A Properly Defended Liberalism: On John Gray and the Filling of Political Life’, _Social Research_, 61: 611–30.
-* Kekes, John, 1993, _The Morality of Pluralism_, Princeton: Princeton University Press.
-* –––, 1997, _Against Liberalism_, Ithaca: Cornell University Press.
-* Lamprecht, Sterling, 1920, ‘The Need for a Pluralistic Emphasis in Ethics’, _Journal of Philosophy, Psychology and Scientific Methods_, 17: 561–72.
-* –––, 1921, ‘Some Political Implications of Ethical Pluralism’, _Journal of Philosophy_, 18: 225–44.
-* Larmore, Charles, 1994, ‘Pluralism and Reasonable Disagreement’, _Social Philosophy and Policy_, 11/1, 61–79 .
-* Lukes, Steven, 1989, ‘Making Sense of Moral Conflict’, in _Liberalism and the Moral Life_, N. Rosenblum (ed.), Cambridge, Mass.: Harvard University Press.
-* –––, 1994, ‘The Singular and the Plural: On the Distinctive Liberalism of Isaiah Berlin’, _Social Research_, 61: 687–718.
-* –––, 1995, ‘Pluralism is not Enough’, _The Times Literary Supplement_, 10 February, 4–5.
-* –––, 1998, ‘Berlin’s Dilemma’, _The Times Literary Supplement_, 27 March, 8–10.
+* Hitchens, Christopher, 1998, ‘Moderation or Death’, *London Review of Books*, 23 November, 3–11.
+* Hollis, Martin, 1999, ‘Is Universalism Ethnocentric?’, in Christian Joppke and Steven Lukes (eds), *Multicultural Questions*, Oxford: Oxford University Press.
+* James, William, 1891, ‘The Moral Philosopher and the Moral Life‘, *International Journal of Ethics* 1: 330–54.
+* Katznelson, Ira, 1994, ‘A Properly Defended Liberalism: On John Gray and the Filling of Political Life’, *Social Research*, 61: 611–30.
+* Kekes, John, 1993, *The Morality of Pluralism*, Princeton: Princeton University Press.
+* –––, 1997, *Against Liberalism*, Ithaca: Cornell University Press.
+* Lamprecht, Sterling, 1920, ‘The Need for a Pluralistic Emphasis in Ethics’, *Journal of Philosophy, Psychology and Scientific Methods*, 17: 561–72.
+* –––, 1921, ‘Some Political Implications of Ethical Pluralism’, *Journal of Philosophy*, 18: 225–44.
+* Larmore, Charles, 1994, ‘Pluralism and Reasonable Disagreement’, *Social Philosophy and Policy*, 11/1, 61–79 .
+* Lukes, Steven, 1989, ‘Making Sense of Moral Conflict’, in *Liberalism and the Moral Life*, N. Rosenblum (ed.), Cambridge, Mass.: Harvard University Press.
+* –––, 1994, ‘The Singular and the Plural: On the Distinctive Liberalism of Isaiah Berlin’, *Social Research*, 61: 687–718.
+* –––, 1995, ‘Pluralism is not Enough’, *The Times Literary Supplement*, 10 February, 4–5.
+* –––, 1998, ‘Berlin’s Dilemma’, *The Times Literary Supplement*, 27 March, 8–10.
 * –––, 2001, ‘An Unfashionable Fox’, in Lilla et al. 2001.
-* MacCallum, Gerald C., 1967a, ‘Berlin on the Compatibility of Values, Ideals, and ‘Ends’ ’, _Ethics_, 77: 139–45.
-* –––, 1967b, ‘Negative and Positive Freedom’, _Philosophical Review_, 76: 312–34.
-* Mack, Arien (ed.), 1999, _Liberty and Pluralism_ (_Social Research_ 66/4).
-* McQueen, Alison, 2017, ‘Political Realism and the Realist “Tradition” ’, _Critical Review of Social and Political Philosophy_, 20/3: 296–313.
-* Malebranche, Nicolas, 1680, _Treatise on Nature and Grace_, 1680, trans. and ed. Patrick Riley, Oxford: Clarendon Press, 1992.
-* Mehta, Pratap B., 1997, review of Gray 1995, _American Political Science Review_, 91/3: 722–4.
-* Meinecke, Friedrich, 1957 \[1924], _Machiavellism: The Doctrine of Raison d’État and Its Place in Modern History_, trans. Douglas Scott, New Haven: Yale University Press.
-* Momigliano, Arnaldo, 1976, ‘On the Pioneer Trail’, _New York Review of Books_, 11 November, 33–8.
-* Moore, Matthew, 2009, ‘Pluralism, Relativism, and Liberalism’, _Political Research Quarterly_, 62: 244–56.
-* Müller, Jan-Werner (ed.), 2019, _Isaiah Berlin’s Cold War Liberalism_, London: Palgrave Pivot.
-* Myers, Ella, 2010, ’From Pluralism to Liberalism: Rereading Isaiah Berlin’, _Review of Politics_, 72: 599–625.
-* Nussbaum, Martha, 1986, _The Fragility of Goodness_, Cambridge: Cambridge University Press.
-* Oakeshott, Michael, 1962, _Rationalism in Politics and Other Essays_, London: Methuen.
-* –––, 1965, ‘Rationalism in Politics: A Reply to Professor Raphael’, _Political Studies_ 13: 89–92.
-* Rashdall, Hastings, 1907, ‘The Commensurability of All Values’, chapter 2 of his _The Theory of Good and Evil_, vol. 2, London: Oxford University Press.
-* Riley, Jonathan, ‘Interpreting Berlin’s Liberalism’, _American Political Science Review_, 95: 283–95.
-* –––, 2002, ‘Defending Cultural Pluralism within Liberal Limits’, _Political Theory_, 30/1: 68–97.
-* Sabl, Andrew, and Rahul Sagar (eds.), 2017, ‘Realism’, _Critical Review of International Social and Political Philosophy_, 20(3): 269–402.
-* Scruton, Roger, 1989, ‘Freedom’s Cautious Defender’, _The Times_, 3 June, 10.
+* MacCallum, Gerald C., 1967a, ‘Berlin on the Compatibility of Values, Ideals, and ‘Ends’ ’, *Ethics*, 77: 139–45.
+* –––, 1967b, ‘Negative and Positive Freedom’, *Philosophical Review*, 76: 312–34.
+* Mack, Arien (ed.), 1999, *Liberty and Pluralism* (*Social Research* 66/4).
+* McQueen, Alison, 2017, ‘Political Realism and the Realist “Tradition” ’, *Critical Review of Social and Political Philosophy*, 20/3: 296–313.
+* Malebranche, Nicolas, 1680, *Treatise on Nature and Grace*, 1680, trans. and ed. Patrick Riley, Oxford: Clarendon Press, 1992.
+* Mehta, Pratap B., 1997, review of Gray 1995, *American Political Science Review*, 91/3: 722–4.
+* Meinecke, Friedrich, 1957 \[1924], *Machiavellism: The Doctrine of Raison d’État and Its Place in Modern History*, trans. Douglas Scott, New Haven: Yale University Press.
+* Momigliano, Arnaldo, 1976, ‘On the Pioneer Trail’, *New York Review of Books*, 11 November, 33–8.
+* Moore, Matthew, 2009, ‘Pluralism, Relativism, and Liberalism’, *Political Research Quarterly*, 62: 244–56.
+* Müller, Jan-Werner (ed.), 2019, *Isaiah Berlin’s Cold War Liberalism*, London: Palgrave Pivot.
+* Myers, Ella, 2010, ’From Pluralism to Liberalism: Rereading Isaiah Berlin’, *Review of Politics*, 72: 599–625.
+* Nussbaum, Martha, 1986, *The Fragility of Goodness*, Cambridge: Cambridge University Press.
+* Oakeshott, Michael, 1962, *Rationalism in Politics and Other Essays*, London: Methuen.
+* –––, 1965, ‘Rationalism in Politics: A Reply to Professor Raphael’, *Political Studies* 13: 89–92.
+* Rashdall, Hastings, 1907, ‘The Commensurability of All Values’, chapter 2 of his *The Theory of Good and Evil*, vol. 2, London: Oxford University Press.
+* Riley, Jonathan, ‘Interpreting Berlin’s Liberalism’, *American Political Science Review*, 95: 283–95.
+* –––, 2002, ‘Defending Cultural Pluralism within Liberal Limits’, *Political Theory*, 30/1: 68–97.
+* Sabl, Andrew, and Rahul Sagar (eds.), 2017, ‘Realism’, *Critical Review of International Social and Political Philosophy*, 20(3): 269–402.
+* Scruton, Roger, 1989, ‘Freedom’s Cautious Defender’, *The Times*, 3 June, 10.
 * Smith, Steven, 2018, ‘Isaiah Berlin on the Enlightenment and Counter-Enlightenment’, in Cherniss and Smith 2018: 132–148.
-* Stephen, James Fitzjames, 1873, _Liberty, Equality, Fraternity_, London: Smith, Elder & Co.
-* Strauss, Leo, 1961, ‘Relativism’, in _Relativism and the Study of Man_, H. Schoeck and J. Wiggins (eds), Princeton: Van Nostrand.
-* Talisse, Robert B., 2010, ‘Does Value Pluralism Entail Liberalism?’ _Journal of Moral Philosophy_, 7: 303–20.
-* –––, 2012, _Pluralism and Liberal Politics_, New York and London: Routledge.
-* Walzer, Michael, 1973, ‘Political Action: The Problem of Dirty Hands’, _Philosophy and Public Affairs_, 2/2: 160–80.
-* –––, 1995, ‘Are There Limits to Liberalism?’, _New York Review of Books_, 19 October, 28–31.
-* Weber, Max, 1904, ‘The Meaning of “Ethical Neutrality” in Sociology and Economics’, in Max Weber, _The Methodology of the Social Sciences_, E. Shils and H. Finch (trans. and eds), New York/Glencoe, Illinois, 1949: Free Press.
-* –––, 1918, ‘Politics as a Vocation’ and ‘Science as a Vocation’, in _From Max Weber: Essays in Sociology_, H. Gerth and C. Wright Mills (eds), London, 1946: Routledge and Kegan Paul.
-* Weinstock, Daniel, 1997, ‘The Graying of Berlin’, _Critical Review_, 11/4: 481–501.
-* Zakaras, Alex, 2013, ‘A Liberal Pluralism: Isaiah Berlin and John Stuart Mill’, _Review of Politics_, 75: 69–96.
+* Stephen, James Fitzjames, 1873, *Liberty, Equality, Fraternity*, London: Smith, Elder & Co.
+* Strauss, Leo, 1961, ‘Relativism’, in *Relativism and the Study of Man*, H. Schoeck and J. Wiggins (eds), Princeton: Van Nostrand.
+* Talisse, Robert B., 2010, ‘Does Value Pluralism Entail Liberalism?’ *Journal of Moral Philosophy*, 7: 303–20.
+* –––, 2012, *Pluralism and Liberal Politics*, New York and London: Routledge.
+* Walzer, Michael, 1973, ‘Political Action: The Problem of Dirty Hands’, *Philosophy and Public Affairs*, 2/2: 160–80.
+* –––, 1995, ‘Are There Limits to Liberalism?’, *New York Review of Books*, 19 October, 28–31.
+* Weber, Max, 1904, ‘The Meaning of “Ethical Neutrality” in Sociology and Economics’, in Max Weber, *The Methodology of the Social Sciences*, E. Shils and H. Finch (trans. and eds), New York/Glencoe, Illinois, 1949: Free Press.
+* –––, 1918, ‘Politics as a Vocation’ and ‘Science as a Vocation’, in *From Max Weber: Essays in Sociology*, H. Gerth and C. Wright Mills (eds), London, 1946: Routledge and Kegan Paul.
+* Weinstock, Daniel, 1997, ‘The Graying of Berlin’, *Critical Review*, 11/4: 481–501.
+* Zakaras, Alex, 2013, ‘A Liberal Pluralism: Isaiah Berlin and John Stuart Mill’, *Review of Politics*, 75: 69–96.
 
 ## Academic Tools
 
@@ -463,15 +461,15 @@ A complete list of Berlin’s works is available in [Isaiah Berlin Online](https
 
 * Billington, James H., Katharine Graham, Arthur Schlesinger, Jr., Robert Silvers, Charles Taylor and Leon Wieseltier, 1998, contributions to ‘[Washington Tributes](https://berlin.wolf.ox.ac.uk/writings_on_ib/washington_tributes/)’ to Isaiah Berlin delivered at ‘An American Remembrance’ held at the British Embassy in Washington, DC, on 28 January 1998.
 * Chappel, James, 2005, ‘[Dignity is Everything: Isaiah Berlin and His Jewish Identity](https://scholarship.tricolib.brynmawr.edu/items/5a4c62ca-f238-4310-976a-d962313baa5c)’, Senior Thesis, Department of History, Haverford College ([PDF](https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/672/2005ChappelJ.pdf)).
-* Cherniss, Joshua, 2017, ‘[Liberal Understanding for Troubled Times: Isaiah Berlin’s Insights and Our Moment of Populist Revolt](http://www.thecritique.com/articles/liberal-understanding-for-troubled-times/)’, _Critique_, 15 January 2017.
+* Cherniss, Joshua, 2017, ‘[Liberal Understanding for Troubled Times: Isaiah Berlin’s Insights and Our Moment of Populist Revolt](http://www.thecritique.com/articles/liberal-understanding-for-troubled-times/)’, *Critique*, 15 January 2017.
 * Cohen, G. A., 2001, ‘[Freedom and Money](http://www.utdt.edu/Upload/_115634753114776100.pdf)’ (PDF); manuscript dedicated to Isaiah Berlin.
 * Crowder, George, 2003, ‘[Pluralism, Relativism and Liberalism in Isaiah Berlin](https://berlin.wolf.ox.ac.uk/lists/onib/crowder/IBVPREL2003.pdf)’ (PDF), presented to the Australasian Political Studies Association Conference, University of Tasmania, Hobart, 29 September to 1 October 2003.
 * –––, 2020, ‘[After Berlin: The Literature 2002–2020](https://berlin.wolf.ox.ac.uk/lists/onib/after-berlin.pdf)’ (PDF).
-* Dubnov, Arie, 2012, ‘[What is Jewish (If Anything) about Isaiah Berlin’s Philosophy?](http://www.mdpi.com/2077-1444/3/2/289)’, _Religions_, 3(2): 289–319.
-* Hardy, Henry, 1995 \[2007], ‘[Taking Pluralism Seriously](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/taking_pluralism_seriously.html)’, online manuscript; Dutch translation in _Nexus_, 13 (1995): 74–86; original English text published in Crowder and Hardy 2007; shortened version, ‘[Pluralism and Radical Tolerance](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/plurradtol.html)’, _Insights_, 118(1) (2002): 21–3.
-* –––, 1997, [obituary of Isaiah Berlin](https://www.independent.co.uk/news/obituaries/obituray-sir-isaiah-berlin-1292530.html), _Independent_, 7 November 1997.
-* Lyons, Johnny, 2019, ‘[Philosopher of the Human](https://aeon.co/essays/what-can-isaiah-berlin-tell-us-about-political-freedom-today)’, _Aeon_, 10 December 2019.
-* –––, 2020, [_Discovering Isaiah Berlin_](https://johnnylyons.org/films), filmed interview with Henry Hardy in June 2019, in short and long versions).
+* Dubnov, Arie, 2012, ‘[What is Jewish (If Anything) about Isaiah Berlin’s Philosophy?](http://www.mdpi.com/2077-1444/3/2/289)’, *Religions*, 3(2): 289–319.
+* Hardy, Henry, 1995 \[2007], ‘[Taking Pluralism Seriously](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/taking_pluralism_seriously.html)’, online manuscript; Dutch translation in *Nexus*, 13 (1995): 74–86; original English text published in Crowder and Hardy 2007; shortened version, ‘[Pluralism and Radical Tolerance](http://berlin.wolf.ox.ac.uk/writings_on_ib/hhonib/plurradtol.html)’, *Insights*, 118(1) (2002): 21–3.
+* –––, 1997, [obituary of Isaiah Berlin](https://www.independent.co.uk/news/obituaries/obituray-sir-isaiah-berlin-1292530.html), *Independent*, 7 November 1997.
+* Lyons, Johnny, 2019, ‘[Philosopher of the Human](https://aeon.co/essays/what-can-isaiah-berlin-tell-us-about-political-freedom-today)’, *Aeon*, 10 December 2019.
+* –––, 2020, [*Discovering Isaiah Berlin*](https://johnnylyons.org/films), filmed interview with Henry Hardy in June 2019, in short and long versions).
 
 Other articles are listed in [Isaiah Berlin Online](https://isaiah-berlin.wolfson.ox.ac.uk/) and [The Isaiah Berlin Virtual Library](http://berlin.wolf.ox.ac.uk/lists/onib/other.html).
 
@@ -484,5 +482,5 @@ Other articles are listed in [Isaiah Berlin Online](https://isaiah-berlin.wolfso
 The authors would like to thank George Crowder, Johnny Lyons, Beata Polanowska-Sygulska and I. Alp Yilmaz, who read drafts of this entry, and whose comments were most helpful.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Joshua Cherniss](https://gufaculty360.georgetown.edu/s/contact/00336000014TIGAAA4/joshua-cherniss) <[_jlc306@georgetown.edu_](mailto:jlc306%40georgetown%2eedu)>\
-Henry Hardy <[_henry.hardy@wolfson.ox.ac.uk_](mailto:henry%2ehardy%40wolfson%2eox%2eac%2euk)>
+[Joshua Cherniss](https://gufaculty360.georgetown.edu/s/contact/00336000014TIGAAA4/joshua-cherniss) <[*jlc306@georgetown.edu*](mailto:jlc306%40georgetown%2eedu)>\
+Henry Hardy <[*henry.hardy@wolfson.ox.ac.uk*](mailto:henry%2ehardy%40wolfson%2eox%2eac%2euk)>

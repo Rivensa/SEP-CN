@@ -10,7 +10,6 @@
 
 > 自然神论者长期受到神学上的厌恶和运动的历史学家们几乎无一例外地自十八世纪约翰·利兰德以来，无论在社会上还是在智力上都对他们进行了贬低或诽谤。 (Mossner 1967b: 335)
 
-
 ---
 
 ## 生平与作品
@@ -417,7 +416,6 @@ Joseph Priestley (1733–1804) 对柯林斯的《关于自由意志的哲学探�
   
   A fine edition of Collins’ letters that includes an introduction, extensive notes that make clear many of the references in the letters that would otherwise be unintelligible, and an index.
   
-
 #### Works by Others
 
 * Bayle, Pierre, 1697 [1991], *Historical and Critical Dictionary Selections*, Richard Popkin (ed. and trans.), Indianapolis: Hackett Publishing.
@@ -436,7 +434,6 @@ Joseph Priestley (1733–1804) 对柯林斯的《关于自由意志的哲学探�
   
   Contains Locke’s letters to Collins during the period of their eighteen month friendship. It is thus a major source for the study of their relationship.
   
-
 ### Secondary Literature
 
 * Agnesina, Jacopo, 2009, «Sur l’attribution à Anthony Collins du Discourse Concerning Ridicule and Irony in Writing» (in French), in *La Lettre Clandestine*, 17, Paris: Presses de l’université de Paris-Sorbonne, 277–290.
@@ -536,13 +533,13 @@ Joseph Priestley (1733–1804) 对柯林斯的《关于自由意志的哲学探�
 * Mossner, Ernest Campbell, 1967, two articles in *The Encyclopedia of Philosophy*, volume 2, Paul Edwards (ed.), New York: Macmillan.
   
   * 1967a, “Anthony Collins”, pp. 144–146.
-    
+
     Provides a good account of Collins, though significantly shorter and less detailed than the one provided here.
-    
+
   * 1967b, “Deism”, pp. 326–336.
-    
+
     Provides a fine overview of Deism both in England and on the continent with brief biographies of both major and minor figures.
-    
+
 * O’Higgins, James, 1970, *Anthony Collins The Man and His Works*, The Hague: Martinus Nijhoff.
   
   The first full length study of Anthony Collins. The book is strong in its account of Collins’ life, his predecessors, his theological views, and his influence on the continent. What is missing is depth in the account of Collins’ philosophical views.
@@ -649,7 +646,6 @@ Joseph Priestley (1733–1804) 对柯林斯的《关于自由意志的哲学探�
   
   This book begins with Locke’s account of the possibility of “thinking matter” and traces the controversy over this suggestion well into the eighteenth century beginning with the Clarke Collins controversy of 1707–8
   
-
 ## Academic Tools
 
 > | ![sep man icon](../.gitbook/assets/sepman-icon.png) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=collins). |

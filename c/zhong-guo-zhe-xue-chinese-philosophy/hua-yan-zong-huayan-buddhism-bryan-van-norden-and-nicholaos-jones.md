@@ -1,14 +1,12 @@
 # 华严宗 Huayan Buddhism (Bryan Van Norden and Nicholaos Jones)
 
-_首次发布于 2019 年 11 月 5 日星期二_
+*首次发布于 2019 年 11 月 5 日星期二*
 
 华严宗是最具哲学意义和历史影响力的佛教学派之一。华严的独特贡献包括“一即一切，一切即一”的教义，认为究竟现实本体上与常识世界相同，并且认识到这些事实会导致普遍的慈悲心。华严还以其论证的深刻性而闻名，特别是在法藏的“梁木对话”和宗密的《人性起源论》中。
 
-汉语术语“华严”来源于梵文《华严经》（_Avatamsaka Sutra_），也称为“华严经”，这是一部印度梵文经典。华严还显示了龙树的中观学派、瑜伽行派以及《大乘起信论》的影响。然而，华严是中国独特的佛教形式，特别是在将“空”解释为“因缘”并将自然界视为具有内在价值的方式上。华严传入韩国（称为“华严宗”）和日本（称为“华严宗”）。与其他形式的中国佛教一样，华严确定了一系列祖师，据称他们将传承传统的正统教义从师傅传给弟子。其中，最重要的是法藏和宗密。
+汉语术语“华严”来源于梵文《华严经》（*Avatamsaka Sutra*），也称为“华严经”，这是一部印度梵文经典。华严还显示了龙树的中观学派、瑜伽行派以及《大乘起信论》的影响。然而，华严是中国独特的佛教形式，特别是在将“空”解释为“因缘”并将自然界视为具有内在价值的方式上。华严传入韩国（称为“华严宗”）和日本（称为“华严宗”）。与其他形式的中国佛教一样，华严确定了一系列祖师，据称他们将传承传统的正统教义从师傅传给弟子。其中，最重要的是法藏和宗密。
 
 尽管在唐文宗（842-846 年）对佛教的迫害之后，中国的华严宗学派的活力有所衰退，但其教义、隐喻和词汇对禅宗佛教和宋明两代的新儒家思想产生了重要影响。
-
-
 
 ***
 
@@ -16,9 +14,9 @@ _首次发布于 2019 年 11 月 5 日星期二_
 
 ### 1.1 印度背景
 
-佛教创立于公元前 6 至 4 世纪之间的南亚。佛教的基本教义是，普通生活充满了苦（梵文_d u k k h a_，通常翻译为“痛苦”），而苦是由于对持久个体自我的虚幻信仰所致。对自我的信仰导致无尽的渴望（梵文_t a n h a_），这种渴望是无法满足的，因为这是一个虚幻实体（个人自我）渴望永久拥有其他同样虚幻的事物。摆脱渴望（从而摆脱苦）只有通过实现开悟才可能，这意味着完全相信无我（梵文_a n a t m a n_）的真理。开悟导致普遍的慈悲：苦被视为无主，因此没有理由更喜欢消除传统上被描述为“我的痛苦”而不是“你们的痛苦”或“他们的痛苦”。独立自我的虚幻世界被称为梵文“_s a m s a r a_”，而通过开悟实现的状态被称为梵文“_n i r v a n a_”。
+佛教创立于公元前 6 至 4 世纪之间的南亚。佛教的基本教义是，普通生活充满了苦（梵文_d u k k h a_，通常翻译为“痛苦”），而苦是由于对持久个体自我的虚幻信仰所致。对自我的信仰导致无尽的渴望（梵文_t a n h a_），这种渴望是无法满足的，因为这是一个虚幻实体（个人自我）渴望永久拥有其他同样虚幻的事物。摆脱渴望（从而摆脱苦）只有通过实现开悟才可能，这意味着完全相信无我（梵文_a n a t m a n_）的真理。开悟导致普遍的慈悲：苦被视为无主，因此没有理由更喜欢消除传统上被描述为“我的痛苦”而不是“你们的痛苦”或“他们的痛苦”。独立自我的虚幻世界被称为梵文“*s a m s a r a*”，而通过开悟实现的状态被称为梵文“*n i r v a n a*”。
 
-佛教宗教的两大宗派是小乘和大乘。这些宗派有许多不同的哲学表述，但其中三个更有影响力的学派是阿毗达磨（小乘）、中观（大乘）和瑜伽行派（大乘）。这些学派各自以不同的方式解释佛教的关键概念。[阿毗达磨佛教徒](https://plato.stanford.edu/entries/abhidharma/#AbhOriTex)认为，常识认为是独立、持久的自我（如特定僧侣“那迦僧那”和战车等物体）实际上只是依据惯例存在。然而，这些依据惯例存在的实体在本体上根植于其他真正存在的（梵文\*[d h a r m a s](https://plato.stanford.edu/entries/abhidharma/#DhaTaxMetExp)_）（如瞬时的物质构成或临时的心理状态）。尽管这些_d h a r m a s_是暂时的并且在因果上相互依赖，它们也具有自性（梵文_[s v a b h a v a](https://plato.stanford.edu/entries/abhidharma/#IntNatBetCatOnt)\*）。
+佛教宗教的两大宗派是小乘和大乘。这些宗派有许多不同的哲学表述，但其中三个更有影响力的学派是阿毗达磨（小乘）、中观（大乘）和瑜伽行派（大乘）。这些学派各自以不同的方式解释佛教的关键概念。[阿毗达磨佛教徒](https://plato.stanford.edu/entries/abhidharma/#AbhOriTex)认为，常识认为是独立、持久的自我（如特定僧侣“那迦僧那”和战车等物体）实际上只是依据惯例存在。然而，这些依据惯例存在的实体在本体上根植于其他真正存在的（梵文\*[d h a r m a s](https://plato.stanford.edu/entries/abhidharma/#DhaTaxMetExp)*）（如瞬时的物质构成或临时的心理状态）。尽管这些_d h a r m a s_是暂时的并且在因果上相互依赖，它们也具有自性（梵文*[s v a b h a v a](https://plato.stanford.edu/entries/abhidharma/#IntNatBetCatOnt)\*）。
 
 相比之下，中觀派佛教徒（如龍樹）認為，因為一切_法_都是因果依存的，所以沒有任何東西是最終根基的。他們通過說現實的特徵是“[空](https://plato.stanford.edu/entries/nagarjuna/#EmptSvab)”（梵語_sunyata_）來描述這一點，意思是一切都“空無”自性和獨立、持久的自我。空性學說很容易被誤解，有時會被錯誤地與形而上的虛無主義混淆。然而，佛教徒將他們的觀點與斷滅論（梵語_uccheda-drsti_）和常有論（梵語_sasvata-drsti_）區分開來。斷滅論認為在任何意義上都不存在任何東西，而常有論認為存在著一個永恆、不變、不受其他任何事物條件限制的東西。中觀派否定這兩個極端，並認為雖然_法_確實存在，但每個_法_的存在都是“有條件的”（因果或概念上依存）於其他事物，沒有任何最終基礎。
 
@@ -26,7 +24,7 @@ _首次发布于 2019 年 11 月 5 日星期二_
 
 ### 1.2 中国发展
 
-佛教是在公元一世纪某个时候由传教士传入中国的。印度经典和论述逐步传入中国，导致早期中国佛教徒并未将来自不同印度传统的贡献视为根本不一致。因此，中国佛教在使用概念方面是折衷的，这些概念最初来自不同的印度佛教学派。这反过来导致了“判教”（_panjiao_）的实践，根据这一实践，不同的哲学体系被视为不是互相排斥的，而是真理的部分概念，可以按照其对真理的把握有多完整（字面上，“圆”）来进行层次化排列。用西方术语来说，可以说_panjiao_是一种最佳解释的推理形式，因为更全面的教义被证明提供了对相关伦理、形而上学和经验假设更合理和全面的解释。
+佛教是在公元一世纪某个时候由传教士传入中国的。印度经典和论述逐步传入中国，导致早期中国佛教徒并未将来自不同印度传统的贡献视为根本不一致。因此，中国佛教在使用概念方面是折衷的，这些概念最初来自不同的印度佛教学派。这反过来导致了“判教”（*panjiao*）的实践，根据这一实践，不同的哲学体系被视为不是互相排斥的，而是真理的部分概念，可以按照其对真理的把握有多完整（字面上，“圆”）来进行层次化排列。用西方术语来说，可以说_panjiao_是一种最佳解释的推理形式，因为更全面的教义被证明提供了对相关伦理、形而上学和经验假设更合理和全面的解释。
 
 随着影响力逐渐增长，佛教成为中国传统的“三教”之一，与儒家和道家并列。事实上，佛教曾经是中国的主要宗教和哲学运动之一（在知识分子和百姓中都如此）。然而，在中国历史上曾发生过几次佛教迫害事件。公元 567 年，韦元松（无年代），离开佛教团体后，向北周武帝（543–578 年在位，561–578 年统治）提出主张，认为佛教应该去制度化。他认为佛教导致社会不稳定，因为其各种制度——出家生活、内部等级制度和摆脱政治控制——破坏了促进和谐的中国文化和传统，因为这些制度助长了僧侣间的腐败，并使佛教与实际事务（中文“事”）隔离。
 
@@ -38,11 +36,11 @@ _首次发布于 2019 年 11 月 5 日星期二_
 
 通过华严宗对《华严经》和《大乘起信论》思想的融合，发展出了对“空”和“无我”概念的独特诠释。最初的印度佛教观点认为不存在自我，转变为中国佛教观点认为不存在个体自我，但存在一种超个人的自我（一心），其中包括现实中所有瞬息和本体上相互依存的方面。根本的人类恶习是自私，这是由于对个体自我的虚幻信仰所致，而根本的人类美德是普遍的慈悲，这是由于认识到我们都是超个人现实的一部分所致。对他人缺乏慈悲就像忽视自己肢体上的伤口一样，因为它暂时麻木了。
 
-华严宗继承了中观派的观点，认为一切实体都是有条件的。被条件化意味着一个实体在存在和身份上在因果或概念上依赖于其他事物。然而，华严宗进一步提出论证，因为任何事物的身份取决于其他事物的身份，“一即一切”，并且整体的身份取决于其部分，“一切即一”。华严宗从瑜伽行派借鉴了“阿赖耶识”（_alayavijnana_）和“如来藏”（_tathagatagarbha_）这两个术语，用来描述世界本身的实相。华严宗第三祖法藏（下文详述）通过夫柱与其所属建筑之间的关系阐释了“一即一切，一切即一”。他认为建筑就是夫柱，因为建筑不过是其部分的总和，所以每个部分对于其身份都是至关重要的。反之，夫柱也是建筑，因为夫柱之所以成为夫柱，是因为它作为建筑的一部分的角色。 （直观地说，如果夫柱从建筑中移除，其身份可能会变成长凳、跷跷板或简单的柴火。）
+华严宗继承了中观派的观点，认为一切实体都是有条件的。被条件化意味着一个实体在存在和身份上在因果或概念上依赖于其他事物。然而，华严宗进一步提出论证，因为任何事物的身份取决于其他事物的身份，“一即一切”，并且整体的身份取决于其部分，“一切即一”。华严宗从瑜伽行派借鉴了“阿赖耶识”（*alayavijnana*）和“如来藏”（*tathagatagarbha*）这两个术语，用来描述世界本身的实相。华严宗第三祖法藏（下文详述）通过夫柱与其所属建筑之间的关系阐释了“一即一切，一切即一”。他认为建筑就是夫柱，因为建筑不过是其部分的总和，所以每个部分对于其身份都是至关重要的。反之，夫柱也是建筑，因为夫柱之所以成为夫柱，是因为它作为建筑的一部分的角色。 （直观地说，如果夫柱从建筑中移除，其身份可能会变成长凳、跷跷板或简单的柴火。）
 
-_《华严经》_ 中经常用来阐述相互依存的隐喻之一是因陀罗网（或“因陀罗之网”）。根据佛教之前的神话，诸神因陀罗手持一张网，每两股交汇处都镶嵌着一颗宝石。每颗宝石都如此明亮，以至于反射出网中的每一颗宝石。这被用作一种隐喻，说明每一个存在的事物在其存在和身份上都依赖于其他一切存在的事物。
+*《华严经》* 中经常用来阐述相互依存的隐喻之一是因陀罗网（或“因陀罗之网”）。根据佛教之前的神话，诸神因陀罗手持一张网，每两股交汇处都镶嵌着一颗宝石。每颗宝石都如此明亮，以至于反射出网中的每一颗宝石。这被用作一种隐喻，说明每一个存在的事物在其存在和身份上都依赖于其他一切存在的事物。
 
-由于唯一存在的是这个现实，幻象世界（_轮回_）在本体论上与_涅磐_没有任何不同。（“_涅磐即轮回_” 的口号在中观前已存在。）换句话说，_轮回_只是对在开悟中体验到的同一终极现实的错误看法。法藏用金狮像的隐喻来阐述这一点（法藏 2014a）。我们不应否认或未能察觉到这尊像看起来像一只狮子的常规事实。然而，我们必须意识到狮子实际上并不存在，甚至狮子的外观也不是金之外的一个独立实体。金可以呈现不同的形式（矿石、锭、硬币等），但本身是不变的。同样，我们不应否认或未能察觉到普通现实似乎由不同的持久个体组成。然而，我们必须意识到实际上并不存在不同的持久个体。真正存在的只是完整的相互依存实体（_法_）网络，而这个网络（贯穿时间和空间的所有部分）是永恒不变的。
+由于唯一存在的是这个现实，幻象世界（*轮回*）在本体论上与_涅磐_没有任何不同。（“*涅磐即轮回*” 的口号在中观前已存在。）换句话说，_轮回_只是对在开悟中体验到的同一终极现实的错误看法。法藏用金狮像的隐喻来阐述这一点（法藏 2014a）。我们不应否认或未能察觉到这尊像看起来像一只狮子的常规事实。然而，我们必须意识到狮子实际上并不存在，甚至狮子的外观也不是金之外的一个独立实体。金可以呈现不同的形式（矿石、锭、硬币等），但本身是不变的。同样，我们不应否认或未能察觉到普通现实似乎由不同的持久个体组成。然而，我们必须意识到实际上并不存在不同的持久个体。真正存在的只是完整的相互依存实体（*法*）网络，而这个网络（贯穿时间和空间的所有部分）是永恒不变的。
 
 ## 2. 杜顺 (557–640)
 
@@ -54,7 +52,7 @@ _《华严经》_ 中经常用来阐述相互依存的隐喻之一是因陀罗�
 
 第一个创新是杜顺决定使用中文术语_li_（原则/模式）来描述终极现实的本质。印度大乘佛教通常将终极现实的本质描述为空（梵文_sunyata_）或如是（梵文_tathata_）。这两个术语都意味着无法概念化的东西。杜顺赋予_li_一种认识论内涵：_li_是那些实现涅槃的人所感知到的。正如杜顺所理解的，涅槃体验既不揭示空无也不是一个不加区分的整体，而是无边无际且不停的活动，其中有一种有模式的连贯性（参见江 2001, 466–467；对于相反的解释，参见 Gimello 1976a, 125)。
 
-通过讨论_li_——在涅槃体验中存在的无边无际的活动，而不是空无，杜顺避免了_li_和_完全虚无_之间的混淆。无论它可能是什么，_li_远非_一无所有_。通过讨论_li_而不是_tathata_，杜顺为关于终极现实的言说提供了可能性。将涅槃体验概念化为遭遇如是呈现这些经历为非“如是”，但将涅槃体验概念化为遭遇_li_并不将活动呈现为非活动。杜顺的第一个创新从而为发展关于在涅槃体验中遭遇的现实的形而上学理论（概念化）打开了道路。
+通过讨论_li_——在涅槃体验中存在的无边无际的活动，而不是空无，杜顺避免了_li_和_完全虚无_之间的混淆。无论它可能是什么，*li_远非_一无所有*。通过讨论_li_而不是_tathata_，杜顺为关于终极现实的言说提供了可能性。将涅槃体验概念化为遭遇如是呈现这些经历为非“如是”，但将涅槃体验概念化为遭遇_li_并不将活动呈现为非活动。杜顺的第一个创新从而为发展关于在涅槃体验中遭遇的现实的形而上学理论（概念化）打开了道路。
 
 《法界辨宗》中的第二个创新是杜顺决定使用中文术语“事”（物/事件/现象）来指代出现在我们对现实体验中的无数事物。印度大乘佛教更倾向于将空性与形相对立，其中形相作为构成现实的无数“法”之一。严格来说，“空即是色，色即是空”的等同说仅涉及“法”与空性概念之间的关系：即所有“法”都是空的主张。这种等同说并未涉及复合现实（如人和车）是否为空的问题。
 
@@ -62,15 +60,15 @@ _《华严经》_ 中经常用来阐述相互依存的隐喻之一是因陀罗�
 
 杜顺将第二种辨识称为“理事相通”，他将这种辨识分为十个主题，自然分为五对：
 
-* 1/2 _理_ 和 _事_ 相互渗透。
-* 3/4 _Li_ 和 _shi_ 相互显现。
-* 5/6 _Li_ 和 _shi_ 互相隐藏。
-* 7/8 _Li_ 和 _shi_ 互为一体。
-* 9/10 _Li_ 和 _shi_ 相互区别。
+* 1/2 *理* 和 *事* 相互渗透。
+* 3/4 *Li* 和 *shi* 相互显现。
+* 5/6 *Li* 和 *shi* 互相隐藏。
+* 7/8 *Li* 和 *shi* 互为一体。
+* 9/10 *Li* 和 *shi* 相互区别。
 
 这五种相互关系阐明了“相互不妨碍”的含义。由于第一种关系对其余四种至关重要，我们着重于理解_理_和_事_之间的“贯通”关系。
 
-_理_和_事_的相互贯通呈现出矛盾。_理_是无边无际的，无始无终的。_事_是有限的，有时效的。贯通意味着“遍布并完全存在于每一个部分中”。矛盾之处在于，有限和无限如何能够彼此贯通并不十分清楚。无边无际的东西会不会因为被包含在有限的东西中而变得_有边界_？有限的东西是否需要变得_无限_才能遍布无边无际的_每一个部分_？杜顺第二辨中的第一对似乎违反了两个相当合理的约束条件，即：没有任何有限的东西包含任何无限的东西；没有任何有限的东西遍布任何无限的东西。
+_理_和_事_的相互贯通呈现出矛盾。*理_是无边无际的，无始无终的。*事_是有限的，有时效的。贯通意味着“遍布并完全存在于每一个部分中”。矛盾之处在于，有限和无限如何能够彼此贯通并不十分清楚。无边无际的东西会不会因为被包含在有限的东西中而变得_有边界*？有限的东西是否需要变得_无限_才能遍布无边无际的_每一个部分*？杜顺第二辨中的第一对似乎违反了两个相当合理的约束条件，即：没有任何有限的东西包含任何无限的东西；没有任何有限的东西遍布任何无限的东西。
 
 杜顺承认他关于相互渗透的说法“超越了常规的感知”。然而，他提供了一个比喻来阐明，将_理_比作水，_事_比作波浪。这个比喻最初源自《楞伽经》，提出每个波浪都包含整个海洋，每个波浪出现在海洋的每个部分。这些假设并非完全不合情理。个别波浪横跨整个海洋，因为波浪没有自然的延伸边界；波浪延伸到海洋水面下，因为波浪也没有自然的厚度边界。但是，无论其可信度如何，这个比喻表明_理_和_事_的相互渗透意味着尽管它们看起来有边界（通过呈现给我们作为彼此分离且独立的离散个体），但无数事物都没有自然边界。
 
@@ -82,7 +80,7 @@ _理_和_事_的相互贯通呈现出矛盾。_理_是无边无际的，无始�
 
 与僧学者们更典型的道路不同，智严选择离开公众生活，漫游乡间并向在俗信徒传道约 20 年。他于公元 640 年代末回到长安，随即吸引了许多弟子，其中主要包括法藏（后来成为第三祖）和韩国僧人羽湘（625–702 年），后者将华严宗传入朝鲜。公元 661 年，太子沛（高祖皇帝和武则天皇后之子）任命智严为首席讲师。（这一任命可能是法藏后来职业生涯中获得进入皇家法庭的重要因素。）智严度过余生教书育人，并对早期的学术著作进行完善。
 
-智严后期作品中最重要的或许是他的《华严经内章门等杂空目章》（T45.1870）。在这部作品中，智严引入了一个五层次的_般教_。在这个_般教_中，最低级别是声闻教义，声称存在具有自性（_svabhava_）的_法_。然后第二和第三级别包括导致智严早期困惑的教派大乘教义。这些教义承认一切，包括_法_及其构造，都没有自性。但它们以不同的方式这样做。一些如中观派认为，普遍和彻底的空性排除了体验或认识没有概念构造的现实的可能性。另一些如瑜伽行派的如来藏理论则将普遍和彻底的空性建立在纯净无瑕的意识之上。智严将没有纯净无瑕基础的空性教义分类为“初级”，将有这种基础的教义分类为“高级”，分别排在他的_般教_中的第二和第三位。
+智严后期作品中最重要的或许是他的《华严经内章门等杂空目章》（T45.1870）。在这部作品中，智严引入了一个五层次的_般教_。在这个_般教_中，最低级别是声闻教义，声称存在具有自性（*svabhava*）的_法_。然后第二和第三级别包括导致智严早期困惑的教派大乘教义。这些教义承认一切，包括_法_及其构造，都没有自性。但它们以不同的方式这样做。一些如中观派认为，普遍和彻底的空性排除了体验或认识没有概念构造的现实的可能性。另一些如瑜伽行派的如来藏理论则将普遍和彻底的空性建立在纯净无瑕的意识之上。智严将没有纯净无瑕基础的空性教义分类为“初级”，将有这种基础的教义分类为“高级”，分别排在他的_般教_中的第二和第三位。
 
 Zhiyan 的_panjiao_的第二层对应第三层，就像 Dushun 的第一辨智对应他的第二辨智一样。在这两种情况下，后者声称对因缘起的意义有更深刻的洞察力，因为不仅适用于_dharmas_，还适用于这些构造。对于 Zhiyan 和 Dushun 来说，更深入的洞察似乎揭示了对肯定性描述的偏爱——侧重于因缘起的积极意义，如关于_tathata_的教义所体现的那样——而不是侧重于因缘起与空性之间联系的否定性描述。
 
@@ -92,7 +90,7 @@ Zhiyan 的_panjiao_的第二层对应第三层，就像 Dushun 的第一辨智�
 
 智严努力解释《华严经》在他的《华严一乘十秘门》（汉_华严一乘十玄门_；翻译自克利尔 1993 年，125-146 页）中对现实的视野。他通过他关于依正法界十秘（汉_十玄_）的教义来做到这一点。每个秘密旨在揭示《华严经》对现实的视野的某个方面。这些方面与度顺关于每个_玄_与其他所有_玄_“全贯通和全收容”的十项主张并不完全对应（在他的第三辨）。但华严学派的后续贡献者理解智严的秘密是为了详细阐述这些主张。
 
-智严意在十种奥秘适用于十种_法_的类别。他将每个类别呈现为对立的配对：教义和意义，_理_和_事_，理解和实践，因果，人和_法_，境界和阶段，师父和弟子，主和从，实体和功能，反应和刺激。但智严呈现这十种奥秘的顺序似乎没有明显的模式或系统，智严也没有解释每个类别如何适用于每个奥秘。
+智严意在十种奥秘适用于十种_法_的类别。他将每个类别呈现为对立的配对：教义和意义，*理_和_事*，理解和实践，因果，人和_法_，境界和阶段，师父和弟子，主和从，实体和功能，反应和刺激。但智严呈现这十种奥秘的顺序似乎没有明显的模式或系统，智严也没有解释每个类别如何适用于每个奥秘。
 
 为了举例说明，考虑每个奥秘与_事_类别的关系。 (1) 每个_事_同时引起，并导致其他所有_事_。 (2) 每个_事_与所有其他_事_的关系可以描述为“分形”：反映所有其他_事_，被其他_事_反映，反映这些反映，被这些反映的反映所反映，依此类推，类似于因陀罗的宝网。 (3) 每个_事_的出现与消失同时发生，并且每个_事_向涅槃意识显现的同时，也意味着它对其他_事_的依赖被隐藏。 (4) 每个_事_都具有所有其他_事_的特质，因此，例如，同时显现为最小的尘埃粒子和巍巍须弥山。 (5) 每个_事_在一个念头瞬间出现，同时是过去，现在和未来；而每个时间都有其自己的过去，现在和未来。 (6) 每个_事_同时纯净，因为它与所有其他_事_相同，又混合，因为它包含所有其他_事_在其中。 (7) 每个_事_同时包含，并被所有其他_事_包含，但不失去与其他事物的独特性。 (8) 每个_事_与所有其他_事_相同，因为每个_事_决定了所有其他_事_的身份和力量，并且其身份和力量由其他_事_决定，但不失去其独特性。 (9) 每个_事_仅仅是心灵的创造。 (10) 每个_事_揭示了_华严经_的圆教义，并促进对终极现实本质的理解。
 
@@ -114,7 +112,7 @@ Zhiyan 的进入皇室使法藏得以接触到武则天，他迅速获得了她�
 
 Madhyamaka 传统最终认可了三性理论的一个版本，尽管与瑜伽行派的版本存在一些重要差异。根据瑜伽行派的理论，虽然假性是空的，但依他性和圆满性是真实的。与依他性相关的想象建构——阴业种在阿赖耶识中——必须有一些是真实的方面，据瑜伽行派者称，否则它们将无处等待未来的实现；与圆满性相关的难以言喻的现实也必须有一些是真实的方面，以避免虚无主义的错误。Madhyamakins 拒绝瑜伽行派的推理为谬误，更倾向于对三性进行认识论解释而非本体论解释。然而，认识论解释的挑战在于如何理解在没有任何真实存在的情况下（妄想的）表象是如何可能的。
 
-法藏解决这一辩论的策略涉及将《大乘起信论》的取舍观策略应用于三性理论，为每种性质赋予两个方面。根据法藏的理论，与每种性质相关的两个方面中，一个是基本的，另一个是派生的。基本方面分别是：纯净且不变，无自性（_svabhava_），从现实角度来看是不存在的——也就是说，仅仅是约定俗成。派生方面包括：适应条件，作为彻底相互依存的表面存在，以及常识存在（涉及具有自性的外观能力）。
+法藏解决这一辩论的策略涉及将《大乘起信论》的取舍观策略应用于三性理论，为每种性质赋予两个方面。根据法藏的理论，与每种性质相关的两个方面中，一个是基本的，另一个是派生的。基本方面分别是：纯净且不变，无自性（*svabhava*），从现实角度来看是不存在的——也就是说，仅仅是约定俗成。派生方面包括：适应条件，作为彻底相互依存的表面存在，以及常识存在（涉及具有自性的外观能力）。
 
 Yogacarins 和 Madhyamkins 都支持每种性质的派生方面。所以法藏为了证明他的理论而采取的技巧是双重的：首先，论证与三性相关的基本方面彼此兼容；其次，论证每种性质只有在具有其派生方面时才具有其基本方面。由于每个人都接受派生方面是合法和正确的，那么基本方面也应该是合法和正确的。法藏的观点旨在包括瑜伽行者和中观派观点中的一切正确之处，同时避免这些更为有限的观点相互提出的异议。
 
@@ -130,19 +128,19 @@ Yogacarins 和 Madhyamkins 都支持每种性质的派生方面。所以法藏�
 
 如是与无明，在法藏看来，是一心的两个基本方面。如是的方面是不变的，无明的方面是空的，对应于如是心。这种对应将如是心定位为无为法的见证。同样，如是的方面伴随着变化，无明的方面积极运作，对应于轮回心。这种对应将轮回心定位为有为法的见证。（法藏对轮回心进行了深入的分析，受到《易经》的启发。他的分析要点解释道，由于如是存在于轮回心中，为了止息苦恼的正确修行涉及关注有为法的如是方面，而不是导致这些有为法的终止。）
 
-### 4.3 _Dharmas_ 的分析
+### 4.3 *Dharmas* 的分析
 
-在《华严五教论》第十章的第三部分中，法藏提出了关于因缘起法的八个命题。其中四个命题涉及到_法_与它们的不同实体有关（_法_与其他所有_法_的关系）：每个_法_包含所有其他_法_，被所有其他_法_所包含，决定了所有其他_法_的身份，并且其身份又被所有其他_法_所决定。剩下的四个命题涉及到_法_与它们的相同实体有关（_法_与依赖性境界的所有_法_总体的关系）：每个_法_包含所有_法_的总体，被包含在这个总体中，决定了这个总体的身份，并且其身份又被这个总体所决定。
+在《华严五教论》第十章的第三部分中，法藏提出了关于因缘起法的八个命题。其中四个命题涉及到_法_与它们的不同实体有关（*法_与其他所有_法_的关系）：每个_法_包含所有其他_法*，被所有其他_法_所包含，决定了所有其他_法_的身份，并且其身份又被所有其他_法_所决定。剩下的四个命题涉及到_法_与它们的相同实体有关（_法_与依赖性境界的所有_法_总体的关系）：每个_法_包含所有_法_的总体，被包含在这个总体中，决定了这个总体的身份，并且其身份又被这个总体所决定。
 
 法藏的命题涉及到两个显著的观点。第一个观点是每个_法_同时具有存在和空的特征。作为存在，每个_法_表现为一个与其他个体（数量上）有所不同的个体。作为空，每个_法_缺乏任何可能使其对其他_法_具有脆弱性的自性。法藏的第二个观点是每个_法_同时具有有力和无力的特征。作为有力，每个_法_以超出他们控制范围的方式影响其他_法_，尽管其他_法_抗拒。作为无力，每个_法_对其他_法_脆弱，受到超出自身控制范围的方式影响，尽管它们抗拒。法藏运用这些观点来论证，就存在或有力而言，其他_法_就是空的且无力；而就空或无力而言，其他_法_就是存在的且有力。他关于相互包含和身份的命题是随之而来的推论。
 
 法藏提供了几个隐喻来阐明他关于相互包容和认同的论点，比如印度的网的隐喻和数十枚硬币的隐喻。最发展完善的隐喻出现在《华严五教论》第十章的第四节和最后一节中，法藏使用了一个关于有框建筑的隐喻来解释_法_作为因缘而生的六个特征（法藏 2014b）。法藏将这六个特征标记为整体性、特殊性、认同性、差异性、整合性和分解性。每一个都涉及到个别_法_作为整体的一部分具有的某些特征，类似于一根椽子与建筑物的关系。法藏的解释以深奥著称。粗略地说，似乎一个_法_具有整体性，因为它创造了某个整体；具有特殊性，因为它在数字上与整体不同；具有认同性，因为它包含整体的所有其他部分；具有差异性，因为它在数字上与其他部分不同；具有整合性，因为它创造整体不会干扰整体中每个其他_法_做同样的事情；具有分解性，因为它的创造成功不依赖于整体中其他_法_的合作。
 
-### 4.4 _Panjiao_
+### 4.4 *Panjiao*
 
 法藏《华严五教章》的前九章实际上提供了一个百科全书式的论证，支持一个_panjiao_系统，将法藏的观点定位为超越所有先前佛教传统的局限性，但法藏没有提供便利的摘要。除了一些小的例外，基本轮廓遵循智严的_panjiao_。
 
-法藏_panjiao_中的第一教——他认为传达最少真理、在技巧手段上最有限的教义，是他所称的小乘（现在我们称之为阿毗达磨）。法藏对这一教义提出了三点批评。首先，他声称阿毗达磨对意识的分析是不完整的，因为它没有对仓识（_alayavijnana_）进行彻底的分析—这只有在大乘中的瑜伽行派传统中才会发生。其次，他声称阿毗达磨对法的分析是不完整的，因为传统中没有一所学派设立了一个包含所有其他清单中包含的所有法的法清单，并且因为传统似乎无法解决对某些假定法的地位的分歧。第三，最重要的是，他声称阿毗达磨传统仍然坚持不放空性的错误，因为否认法是空的。
+法藏_panjiao_中的第一教——他认为传达最少真理、在技巧手段上最有限的教义，是他所称的小乘（现在我们称之为阿毗达磨）。法藏对这一教义提出了三点批评。首先，他声称阿毗达磨对意识的分析是不完整的，因为它没有对仓识（*alayavijnana*）进行彻底的分析—这只有在大乘中的瑜伽行派传统中才会发生。其次，他声称阿毗达磨对法的分析是不完整的，因为传统中没有一所学派设立了一个包含所有其他清单中包含的所有法的法清单，并且因为传统似乎无法解决对某些假定法的地位的分歧。第三，最重要的是，他声称阿毗达磨传统仍然坚持不放空性的错误，因为否认法是空的。
 
 Fazang 的_般教_中的第二教义是他所称的大乘初教。这些是中观和瑜伽行派的教义，由印度的纳伽尔朱那和世亲，以及中国的濟蔵和玄奘代表。法藏认为这种教义优于第一教义，因为它教导一切，无论是_dharma_还是其他，都是空的，而且瑜伽行传统对仓识进行了彻底的分析。但是，根据法藏的说法，瑜伽行派对意识的分析是错误的，因为它误将仓识误认为某种终极现实。根据瑜伽行传统，仓识包含杂染和玷污。然而，正如法藏所理解的那样，终极现实是没有这些瑕疵的。
 
@@ -206,67 +204,67 @@ Chengguan 将慧远的_判教_视为他对禅修实践理解贫乏的产物。�
 
 ## Bibliography
 
-* Broughton, Jeffrey L., 2004, “Tsung-mi’s _Zen Prolegomenon_: Introduction to an Exemplary Zen Canon.” _The Zen Canon: Understanding the Classic Texts_, edited by Steve Heine and Dale S. Wright, New York: Oxford University Press, 11–51.
-* –––, 2009, _Zongmi on Chan_, New York: Columbia University Press.
-* Chan, Wing-tsit, 1963, “The One-and-All Philosophy: Fa-tsang of the Hua-yen School.” _A Source Book in Chinese Philosophy_, edited by Wing-tsit Chan, Princeton: Princeton University Press, 406–424.
-* Cheen, Guo, 2014, _Translating Totality in Parts: Chengguan’s Commentaries and Subcommentaries to the Avatamsaka Sutra_, Lanham, MD: University Press of America.
-* Chen, Jinhua, 2007, _Philosopher, Practitioner, Politician: The Many Lives of Fazang (643–712)_, Leiden: Brill.
-* Cleary, Thomas, 1984, _The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra_, Boston: Shambhala.
-* –––, 1993, _Entry into the Inconceivable: An Introduction to Hua-yen Buddhism_, Honolulu: University of Hawaii Press.
-* Cook, Francis Harold, 1970, _Fa-tsang’s Treatise on the Five Doctrines: An Annotated Translation_, Ph.D. Dissertation: University of Wisconsin.
-* –––, 1977, _Hua-yen Buddhism: The Jewel Net of Indra_, University Park, PA: The Pennsylvania State University Press.
-* –––, 1979, “Causation in the Chinese Hua-Yen Tradition”, _Journal of Chinese Philosophy_, 6: 367–385.
-* De Bary, William Theodore, 1972, “On the Original Nature of Man.” _The Buddhist Tradition in India, China and Japan_, edited by William Theodore de Bary, Vintage Books: Random House, 179–196.
-* Fazang. 2014a, “Essay on the Golden Lion”, translated by Bryan W. Van Norden. _Readings in Later Chinese Philosophy_, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 86–91.
-* –––, 2014b, “The Rafter Dialogue”, translated by David Elstein. _Readings in Later Chinese Philosophy_, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 80–86.
-* Fung, Yu-lan, 1953, “Fa-tsang’s Essay on the Golden Lion.” _A History of Chinese Philosophy_, vol. 2, edited by Derk Bodde, Princeton: Princeton University Press, 339–359.
-* Gimello, Robert Michael, 1976a, “Apophatic and Kataphatic Discourse in Mahayana: A Chinese View”, _Philosophy East and West_, 26(2): 117–136.
-* –––, 1976b, _Chih-yen and the Foundations of Hua-yen Buddhism_, Ph.D. Dissertation: Columbia University.
-* Gregory, Peter N., 1983a, “The Place of the Sudden Teaching within the Hua-yen Tradition: An Investigation of the Process of Doctrinal Change”, _The Journal of the International Association of Buddhist Studies_, 6(1): 31–60.
-* –––, 1983b, “Chinese Buddhist Hermeneutics: The Case of Hua-yen”, _Journal of the American Academy of Religion_, 51(2): 231–249.
-* –––, 1988, “What Happened to the ‘Perfect Teaching’? Another Look at Hua-yen Buddhist Hermeneutics.” _Buddhist Hermeneutics_, edited by Donald S. Lopez, Jr., Honolulu: University of Hawai’i Press, 207–230.
-* –––, 1991a, “Sudden Enlightenment Followed by Gradual Cultivation: Tsung-mi’s Analysis of Mind,” _Sudden and Gradual. Approaches to Enlightenment in Chinese Thought_, edited by Peter N. Gregory, Delhi: Motilal Banarsidass Publishers Private Limited, 279–320.
-* –––, 1991b, _Tsung-mi and the Sinification of Buddhism_, Princeton: Princeton University Press.
-* –––, 1995, _Inquiry into the Origin of Humanity: An Annotated Translation of Tsung-mi’s Yuan jen lun with a Modern Commentary_, Honolulu: University of Hawai’i Press.
-* Hakeda, Yoshito S., 2005, _The Awakening of Faith_, New York: Columbia University Press.
-* Hamar, Imre, 1998, “Chengguan’s Theory of the Four Dharma-Dhatus”, _Acta Orientalia Academiae Scientiarum Hungaricae_, 51(1/2): 1–19.
-* –––, 1999, “Buddhism and the Dao in Tang China: The Impact of Confucianism and Daoism on the Philosophy of Chengguan”, _Acta Orientalia Academiae Scientiarum Hungaricae_, 52(3/4): 283–292.
-* –––, 2002, _A Religious Leader in the Tang: Chengguan’s Biography_, Tokyo: The International Institute of Buddhist Studies.
-* –––, 2007, “A Huayan Paradigm for the Classification of Mahayana Teachings: The Origin and Meaning of _Faxiangzong_ and _Fazingzong_.” _Reflecting Mirrors: Perspectives on Huayan Buddhism_, edited by Imre Hamar, Wiesbaden: Harrassowitz Verlag, 207–232.
-* –––, 2010, “Interpretation of Yogacara Philosophy in Huayan Buddhism”, _Journal of Chinese Philosophy_, 37(2): 181–197.
-* –––, 2012, “Deconstructing and Reconstructing Yogacara: Ten Levels of Consciousness-only/One-mind in Huayan Buddhism.” _Avatamsaka (Huayan, Kegon, Flower Ornament) Buddhism in East Asia: Origins and Adaptation of a Visual Culture_, edited by Robert Gimello, Frederic Girard, and Imre Hamar, Wiesbaden: Harrassowitz, 53–71.
-* Han Yu, 2014, “On the Way.” _Readings in Later Chinese Philosophy_, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 126–130.
-* Jiang, Tao, 2001, “The Problematic of Whole-Part and the Horizon of the Enlightened in Huayan Buddhism”, _Journal of Chinese Philosophy_, 28(4): 457–475.
-* Jones, Nicholaos, 2010a, “Mereological Heuristics for Huayan Buddhism”, _Philosophy East and West_, 60(3): 355–368.
-* –––, 2010b, “Nyaya-Vaisesika Inherence, Buddhist Reduction, and Huayan Total Power”, _Journal of Chinese Philosophy_, 37(2): 215–230.
-* –––, 2018a, “Huayan Numismatics as Metaphysics: Explicating Fazang’s Coin-Counting Metaphor”, _Philosophy East and West_, 68(4): 1155–1177.
-* –––, 2018b, “Metaphysics of Identity in Fazang’s _Huayan Wujiao Zhang_: The Inexhaustible Freedom of Dependent Origination”. _Dao Companion to Chinese Buddhist Philosophy_, edited by Sandra A. Wawrytko and Youru Wang, New York: Springer, 295–323.
-* –––, 2019, “The Architecture of Fazang’s Six Characteristics”, _British Journal for the History of Philosophy_, 27(3): 468–491.
-* King, Sallie Behn, 1975, _Commentary to the Hua-yan Dharma-Realm Meditation_, MA Thesis: The University of British Columbia.
-* Koh, Seunghak, 2011, _Li Tongxuan’s (635–730) Thought and His Place in the Huayan Tradition of Chinese Buddhism_, Ph.D. Dissertation: University of California Los Angeles.
-* –––, 2013, “_Yi T’ong-hyŏn: Soksŏng ŏmnŭn maum ujihaji annŭn maŭm_” 이통현: 속성 없; 마음, 의지하지 않; 마음 \[Li Tongxuan: Mind Devoid of Nature, Mind with No Support]. _Maŭm kwa chŏrhak (Pulgyo p’yŏn): Putta esŏ Sŏngchŏl kkaji_ 마음과 철학(불교편): 다에서 성철까지 \[Mind and Philosophy (Buddhism): From the Buddha to Sŏngchŏl], Seoul: Sŏul Taehakkyo Ch’ulp’an Munhwawŏn, 101–131.
-* Lai, Whalen, 1975, _The Awakening of Faith in Mahayana (Ta-ch’eng ch’i-hsin lun): A Study of the Unfolding of Sinitic Mahayana Motifs_, Ph.D. Dissertation: Harvard University.
-* –––, 1980, “The I-Ching and the Formation of Hua-yen Philosophy”, _Journal of Chinese Philosophy_, 7: 245–258.
-* Lee, Peter H., 1962, “Fa-tsang and Uisang”, _Journal of the American Oriental Society_, 82(1): 56–62.
-* Lee, Sumi, 2014, _Toward a New Paradigm of East Asian Yogacara Buddhism: Taehyon (ca. 8th century CE), a Korean Yogacara monk, and His Predecessors_, Ph.D. Dissertation: University of California Los Angeles.
-* Liu, Ming-wood, 1979, _The Teaching of Fa-tsang: An Examination of Buddhist Metaphysics_, Ph.D. Dissertation: University of California Los Angeles.
-* –––, 1981, “The _Pan-chiao_ System of the Hua-yen School in Chinese Buddhism”, _T’oung Pao_ 67(1/2): 10–47.
-* –––, 1982, “The Three Nature Doctrine and Its Interpretation in Hua-yen Buddhism,” _T’oung Pao_ 68(4/5): 181–220.
-* Odin, Steve, 1982, _Process Metaphysics and Hua-yen Buddhism: A Critical Study of Cumulative Penetration vs. Interpenetration_, Albany: State University of New York Press.
-* Oh, Kang Nam, 1976, _A Study of Chinese Hua-yen Buddhism With Special Reference to the Dharmadhatu (Fa-Chieh) Doctrine_, Ph.D. Dissertation: McMaster University.
-* Park, Jin Y., 2012/2013, “A Huayanist Reading of the Lotus Sutra: The Case of Li Tongxuan”, _Journal of the International Association of Buddhist Studies_, 35(1–2): 295–327.
-* –––, 2018, “Temporality and Non-temporality in Li Tongxuan’s Huayan Buddhism”. _Dao Companion to Chinese Buddhist Philosophy_, edited by Sandra A. Wawrytko and Youru Wang, New York: Springer, 325–347.
-* Priest, Graham, 2015, “The Net of Indra.” _The Moon Points Back_, edited by Koji Tanaka, Yasuo Deguchi, Jay L. Garfield, and Graham Priest, New York: Oxford University Press, 113–127.
-* –––, 2018, _The Fifth Corner of Four: An Essay on Buddhist Metaphysics and the Catuskoti_, New York: Oxford University Press.
-* Vorenkamp, Dirck, 2004a, _An English Translation of Fa-tsang’s Commentary on the Awakening of Faith_, Lewiston: Edwin Mellen Press.
-* –––, 2004b, “Evil, the Bodhisattva Doctrine, and Faith in Chinese Buddhism: Examining Fa Zang’s Three Tests”, _Journal of Chinese Philosophy_, 31(2): 253–269.
-* –––, 2004c, “Reconsidering the Whiteheadean Critique of Huayan Temporal Symmetry in the Light of Fazang’s Views”, _Journal of Chinese Philosophy_, 32(2): 197–210.
-* Wright, Dale, 1982, “The Significance of Paradoxical Language in Hua-Yen Buddhism”, _Philosophy East and West_ 32(3): 325–338.
-* –––, 1986, “Language and Truth in Hua-Yen Buddhism”, _Journal of Chinese Philosophy_, 13(1): 21–47.
-* –––, 2001, “The ‘Thought of Enlightenment’ in Fa-tsang’s Hua-yen Buddhism”, _The Eastern Buddhist_, 33(2): 97–106.
-* Yao, Zhihua, 2010, “‘Suddenly Deluded Thoughts Arise’: Karmic Appearance in Huayan Buddhism”, _Journal of Chinese Philosophy_, 37(2): 198–214.
-* Yun-hua Jan, 1980, “Tsung-mi’s Questions regarding the Confucian Absolute”, _Philosophy East and West_, 30(4): 495–504.
-* Zongmi, 2014, _On Humanity_, translated by Bryan W. Van Norden. _Readings in Later Chinese Philosophy_, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 98–106.
+* Broughton, Jeffrey L., 2004, “Tsung-mi’s *Zen Prolegomenon*: Introduction to an Exemplary Zen Canon.” *The Zen Canon: Understanding the Classic Texts*, edited by Steve Heine and Dale S. Wright, New York: Oxford University Press, 11–51.
+* –––, 2009, *Zongmi on Chan*, New York: Columbia University Press.
+* Chan, Wing-tsit, 1963, “The One-and-All Philosophy: Fa-tsang of the Hua-yen School.” *A Source Book in Chinese Philosophy*, edited by Wing-tsit Chan, Princeton: Princeton University Press, 406–424.
+* Cheen, Guo, 2014, *Translating Totality in Parts: Chengguan’s Commentaries and Subcommentaries to the Avatamsaka Sutra*, Lanham, MD: University Press of America.
+* Chen, Jinhua, 2007, *Philosopher, Practitioner, Politician: The Many Lives of Fazang (643–712)*, Leiden: Brill.
+* Cleary, Thomas, 1984, *The Flower Ornament Scripture: A Translation of the Avatamsaka Sutra*, Boston: Shambhala.
+* –––, 1993, *Entry into the Inconceivable: An Introduction to Hua-yen Buddhism*, Honolulu: University of Hawaii Press.
+* Cook, Francis Harold, 1970, *Fa-tsang’s Treatise on the Five Doctrines: An Annotated Translation*, Ph.D. Dissertation: University of Wisconsin.
+* –––, 1977, *Hua-yen Buddhism: The Jewel Net of Indra*, University Park, PA: The Pennsylvania State University Press.
+* –––, 1979, “Causation in the Chinese Hua-Yen Tradition”, *Journal of Chinese Philosophy*, 6: 367–385.
+* De Bary, William Theodore, 1972, “On the Original Nature of Man.” *The Buddhist Tradition in India, China and Japan*, edited by William Theodore de Bary, Vintage Books: Random House, 179–196.
+* Fazang. 2014a, “Essay on the Golden Lion”, translated by Bryan W. Van Norden. *Readings in Later Chinese Philosophy*, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 86–91.
+* –––, 2014b, “The Rafter Dialogue”, translated by David Elstein. *Readings in Later Chinese Philosophy*, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 80–86.
+* Fung, Yu-lan, 1953, “Fa-tsang’s Essay on the Golden Lion.” *A History of Chinese Philosophy*, vol. 2, edited by Derk Bodde, Princeton: Princeton University Press, 339–359.
+* Gimello, Robert Michael, 1976a, “Apophatic and Kataphatic Discourse in Mahayana: A Chinese View”, *Philosophy East and West*, 26(2): 117–136.
+* –––, 1976b, *Chih-yen and the Foundations of Hua-yen Buddhism*, Ph.D. Dissertation: Columbia University.
+* Gregory, Peter N., 1983a, “The Place of the Sudden Teaching within the Hua-yen Tradition: An Investigation of the Process of Doctrinal Change”, *The Journal of the International Association of Buddhist Studies*, 6(1): 31–60.
+* –––, 1983b, “Chinese Buddhist Hermeneutics: The Case of Hua-yen”, *Journal of the American Academy of Religion*, 51(2): 231–249.
+* –––, 1988, “What Happened to the ‘Perfect Teaching’? Another Look at Hua-yen Buddhist Hermeneutics.” *Buddhist Hermeneutics*, edited by Donald S. Lopez, Jr., Honolulu: University of Hawai’i Press, 207–230.
+* –––, 1991a, “Sudden Enlightenment Followed by Gradual Cultivation: Tsung-mi’s Analysis of Mind,” *Sudden and Gradual. Approaches to Enlightenment in Chinese Thought*, edited by Peter N. Gregory, Delhi: Motilal Banarsidass Publishers Private Limited, 279–320.
+* –––, 1991b, *Tsung-mi and the Sinification of Buddhism*, Princeton: Princeton University Press.
+* –––, 1995, *Inquiry into the Origin of Humanity: An Annotated Translation of Tsung-mi’s Yuan jen lun with a Modern Commentary*, Honolulu: University of Hawai’i Press.
+* Hakeda, Yoshito S., 2005, *The Awakening of Faith*, New York: Columbia University Press.
+* Hamar, Imre, 1998, “Chengguan’s Theory of the Four Dharma-Dhatus”, *Acta Orientalia Academiae Scientiarum Hungaricae*, 51(1/2): 1–19.
+* –––, 1999, “Buddhism and the Dao in Tang China: The Impact of Confucianism and Daoism on the Philosophy of Chengguan”, *Acta Orientalia Academiae Scientiarum Hungaricae*, 52(3/4): 283–292.
+* –––, 2002, *A Religious Leader in the Tang: Chengguan’s Biography*, Tokyo: The International Institute of Buddhist Studies.
+* –––, 2007, “A Huayan Paradigm for the Classification of Mahayana Teachings: The Origin and Meaning of *Faxiangzong* and *Fazingzong*.” *Reflecting Mirrors: Perspectives on Huayan Buddhism*, edited by Imre Hamar, Wiesbaden: Harrassowitz Verlag, 207–232.
+* –––, 2010, “Interpretation of Yogacara Philosophy in Huayan Buddhism”, *Journal of Chinese Philosophy*, 37(2): 181–197.
+* –––, 2012, “Deconstructing and Reconstructing Yogacara: Ten Levels of Consciousness-only/One-mind in Huayan Buddhism.” *Avatamsaka (Huayan, Kegon, Flower Ornament) Buddhism in East Asia: Origins and Adaptation of a Visual Culture*, edited by Robert Gimello, Frederic Girard, and Imre Hamar, Wiesbaden: Harrassowitz, 53–71.
+* Han Yu, 2014, “On the Way.” *Readings in Later Chinese Philosophy*, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 126–130.
+* Jiang, Tao, 2001, “The Problematic of Whole-Part and the Horizon of the Enlightened in Huayan Buddhism”, *Journal of Chinese Philosophy*, 28(4): 457–475.
+* Jones, Nicholaos, 2010a, “Mereological Heuristics for Huayan Buddhism”, *Philosophy East and West*, 60(3): 355–368.
+* –––, 2010b, “Nyaya-Vaisesika Inherence, Buddhist Reduction, and Huayan Total Power”, *Journal of Chinese Philosophy*, 37(2): 215–230.
+* –––, 2018a, “Huayan Numismatics as Metaphysics: Explicating Fazang’s Coin-Counting Metaphor”, *Philosophy East and West*, 68(4): 1155–1177.
+* –––, 2018b, “Metaphysics of Identity in Fazang’s *Huayan Wujiao Zhang*: The Inexhaustible Freedom of Dependent Origination”. *Dao Companion to Chinese Buddhist Philosophy*, edited by Sandra A. Wawrytko and Youru Wang, New York: Springer, 295–323.
+* –––, 2019, “The Architecture of Fazang’s Six Characteristics”, *British Journal for the History of Philosophy*, 27(3): 468–491.
+* King, Sallie Behn, 1975, *Commentary to the Hua-yan Dharma-Realm Meditation*, MA Thesis: The University of British Columbia.
+* Koh, Seunghak, 2011, *Li Tongxuan’s (635–730) Thought and His Place in the Huayan Tradition of Chinese Buddhism*, Ph.D. Dissertation: University of California Los Angeles.
+* –––, 2013, “*Yi T’ong-hyŏn: Soksŏng ŏmnŭn maum ujihaji annŭn maŭm*” 이통현: 속성 없; 마음, 의지하지 않; 마음 \[Li Tongxuan: Mind Devoid of Nature, Mind with No Support]. *Maŭm kwa chŏrhak (Pulgyo p’yŏn): Putta esŏ Sŏngchŏl kkaji* 마음과 철학(불교편): 다에서 성철까지 \[Mind and Philosophy (Buddhism): From the Buddha to Sŏngchŏl], Seoul: Sŏul Taehakkyo Ch’ulp’an Munhwawŏn, 101–131.
+* Lai, Whalen, 1975, *The Awakening of Faith in Mahayana (Ta-ch’eng ch’i-hsin lun): A Study of the Unfolding of Sinitic Mahayana Motifs*, Ph.D. Dissertation: Harvard University.
+* –––, 1980, “The I-Ching and the Formation of Hua-yen Philosophy”, *Journal of Chinese Philosophy*, 7: 245–258.
+* Lee, Peter H., 1962, “Fa-tsang and Uisang”, *Journal of the American Oriental Society*, 82(1): 56–62.
+* Lee, Sumi, 2014, *Toward a New Paradigm of East Asian Yogacara Buddhism: Taehyon (ca. 8th century CE), a Korean Yogacara monk, and His Predecessors*, Ph.D. Dissertation: University of California Los Angeles.
+* Liu, Ming-wood, 1979, *The Teaching of Fa-tsang: An Examination of Buddhist Metaphysics*, Ph.D. Dissertation: University of California Los Angeles.
+* –––, 1981, “The *Pan-chiao* System of the Hua-yen School in Chinese Buddhism”, *T’oung Pao* 67(1/2): 10–47.
+* –––, 1982, “The Three Nature Doctrine and Its Interpretation in Hua-yen Buddhism,” *T’oung Pao* 68(4/5): 181–220.
+* Odin, Steve, 1982, *Process Metaphysics and Hua-yen Buddhism: A Critical Study of Cumulative Penetration vs. Interpenetration*, Albany: State University of New York Press.
+* Oh, Kang Nam, 1976, *A Study of Chinese Hua-yen Buddhism With Special Reference to the Dharmadhatu (Fa-Chieh) Doctrine*, Ph.D. Dissertation: McMaster University.
+* Park, Jin Y., 2012/2013, “A Huayanist Reading of the Lotus Sutra: The Case of Li Tongxuan”, *Journal of the International Association of Buddhist Studies*, 35(1–2): 295–327.
+* –––, 2018, “Temporality and Non-temporality in Li Tongxuan’s Huayan Buddhism”. *Dao Companion to Chinese Buddhist Philosophy*, edited by Sandra A. Wawrytko and Youru Wang, New York: Springer, 325–347.
+* Priest, Graham, 2015, “The Net of Indra.” *The Moon Points Back*, edited by Koji Tanaka, Yasuo Deguchi, Jay L. Garfield, and Graham Priest, New York: Oxford University Press, 113–127.
+* –––, 2018, *The Fifth Corner of Four: An Essay on Buddhist Metaphysics and the Catuskoti*, New York: Oxford University Press.
+* Vorenkamp, Dirck, 2004a, *An English Translation of Fa-tsang’s Commentary on the Awakening of Faith*, Lewiston: Edwin Mellen Press.
+* –––, 2004b, “Evil, the Bodhisattva Doctrine, and Faith in Chinese Buddhism: Examining Fa Zang’s Three Tests”, *Journal of Chinese Philosophy*, 31(2): 253–269.
+* –––, 2004c, “Reconsidering the Whiteheadean Critique of Huayan Temporal Symmetry in the Light of Fazang’s Views”, *Journal of Chinese Philosophy*, 32(2): 197–210.
+* Wright, Dale, 1982, “The Significance of Paradoxical Language in Hua-Yen Buddhism”, *Philosophy East and West* 32(3): 325–338.
+* –––, 1986, “Language and Truth in Hua-Yen Buddhism”, *Journal of Chinese Philosophy*, 13(1): 21–47.
+* –––, 2001, “The ‘Thought of Enlightenment’ in Fa-tsang’s Hua-yen Buddhism”, *The Eastern Buddhist*, 33(2): 97–106.
+* Yao, Zhihua, 2010, “‘Suddenly Deluded Thoughts Arise’: Karmic Appearance in Huayan Buddhism”, *Journal of Chinese Philosophy*, 37(2): 198–214.
+* Yun-hua Jan, 1980, “Tsung-mi’s Questions regarding the Confucian Absolute”, *Philosophy East and West*, 30(4): 495–504.
+* Zongmi, 2014, *On Humanity*, translated by Bryan W. Van Norden. *Readings in Later Chinese Philosophy*, edited by Justin Tiwald and Bryan W. Van Norden, Indianapolis: Hackett Publishing, 98–106.
 
 ## Academic Tools
 
@@ -287,5 +285,5 @@ Chengguan 将慧远的_判教_视为他对禅修实践理解贫乏的产物。�
 [Buddha](https://plato.stanford.edu/entries/buddha/) | [Chinese Philosophy: Chan Buddhism](https://plato.stanford.edu/entries/buddhism-chan/) | [Chinese Philosophy: ethics](https://plato.stanford.edu/entries/ethics-chinese/) | [Chinese Philosophy: metaphysics](https://plato.stanford.edu/entries/chinese-metaphysics/) | [Chinese Philosophy: philosophy of change](https://plato.stanford.edu/entries/chinese-change/) | [Chinese Philosophy: Tiantai Buddhism](https://plato.stanford.edu/entries/buddhism-tiantai/) | [dependence, ontological](https://plato.stanford.edu/entries/dependence-ontological/) | [Madhyamaka](https://plato.stanford.edu/entries/madhyamaka/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [mind: in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [Neo-Daoism](https://plato.stanford.edu/entries/neo-daoism/) | [two truths in India, theory of](https://plato.stanford.edu/entries/twotruths-india/) | [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/) | [Wang Yangming](https://plato.stanford.edu/entries/wang-yangming/) | [Zhu Xi](https://plato.stanford.edu/entries/zhu-xi/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Bryan Van Norden](http://www.bryanvannorden.com/) <[_brvannorden@vassar.edu_](mailto:brvannorden%40vassar%2eedu)>\
-[Nicholaos Jones](http://www.uah.edu/njones/) <[_nick.jones@uah.edu_](mailto:nick%2ejones%40uah%2eedu)>
+[Bryan Van Norden](http://www.bryanvannorden.com/) <[*brvannorden@vassar.edu*](mailto:brvannorden%40vassar%2eedu)>\
+[Nicholaos Jones](http://www.uah.edu/njones/) <[*nick.jones@uah.edu*](mailto:nick%2ejones%40uah%2eedu)>

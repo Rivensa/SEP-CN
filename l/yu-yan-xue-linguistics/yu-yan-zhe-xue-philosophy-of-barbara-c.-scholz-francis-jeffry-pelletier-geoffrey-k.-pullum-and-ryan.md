@@ -1,6 +1,6 @@
 # 语言哲学 philosophy of (Barbara C. Scholz, Francis Jeffry Pelletier, Geoffrey K. Pullum, and Ryan Nefdt)
 
-_首次发表于2011年9月21日星期三；实质性修订于2024年3月7日星期四。_
+*首次发表于2011年9月21日星期三；实质性修订于2024年3月7日星期四。*
 
 语言哲学是将科学哲学应用于语言学的学科。这使其与传统上关注意义和指称问题的语言哲学有着明显的区别。
 
@@ -17,8 +17,6 @@ _首次发表于2011年9月21日星期三；实质性修订于2024年3月7日星
 
 本条目的目的不是为哲学家提供语言学的一般介绍；寻求此类信息的读者应该参考适当的教材，如 Akmajian 等人（2010）或 Napoli（1996）。关于西方语言学思想的一般历史，包括最近的理论语言学，请参阅 Seuren（1998）。Newmeyer（1986）是关于 1950 年后美国语言学的有用的额外阅读材料。Tomalin（2006）追溯了 Chomsky 的巨著（1955/1956；1975 年出版）的哲学、科学和语言学前身，Scholz 和 Pullum（2007）提供了一篇批判性评论。关于生成语言学的哲学含义的文章包括 Ludlow（2011）和 Rey（2020）。关于语言学哲学的最新文章，Itkonen（2013）从其早期的希腊起源讨论了该领域的各个方面，Pullum（2019）详细介绍了从 1945 年到 2015 年哲学家们进行的辩论，Nefdt（2019a）讨论了与当代科学哲学中的相关问题的联系。
 
- 
-
 ***
 
 ## 1. 语言哲学的三种方法：外在主义、新兴主义和本质主义
@@ -31,9 +29,9 @@ _首次发表于2011年9月21日星期三；实质性修订于2024年3月7日星
 | ------------ | ----------------------------- | --------------------------- | --------------------------------- |
 | \* 初级现象\*    | 语言使用者实际发出的话语                  | 社会认知、互动和交流的事实               | 语法性和字面意义的直觉                       |
 | \* 主要主题\*    | 语言使用；表达和语言的结构特性               | 语言交流、认知、变异和变化               | 解释特定语言属性的抽象普遍原则                   |
-| _Aim_        | 描述已验证的表达结构和相互关系，并预测未验证的表达的属性  | 以普遍的认知机制和交际功能来解释语言的结构特性     | 阐述普遍原则并为深层和跨语言恒定的语言特性提供解释         |
+| *Aim*        | 描述已验证的表达结构和相互关系，并预测未验证的表达的属性  | 以普遍的认知机制和交际功能来解释语言的结构特性     | 阐述普遍原则并为深层和跨语言恒定的语言特性提供解释         |
 | \* 语言结构\*    | 一种从语言使用的普遍可获得的客观特征中推断出的模式系统   | 一种从固定的习语短语到高度抽象的可生产类型的构造系统  | 一种抽象条件的系统，这些条件可能不明显地体现在典型语言用户的经验中 |
-| _Values_     | 符合经验数据并允许对未考虑情况进行预测的语言形式的准确建模 | 对语言交流系统中出现的现象的认知、文化、历史和进化解释 | 从语言直觉推断出的语言属性的高度抽象、覆盖-法解释         |
+| *Values*     | 符合经验数据并允许对未考虑情况进行预测的语言形式的准确建模 | 对语言交流系统中出现的现象的认知、文化、历史和进化解释 | 从语言直觉推断出的语言属性的高度抽象、覆盖-法解释         |
 | \* 儿童语言\*    | 一种初生的语言形式，与成人的语言能力非常不同        | 发展成人交际能力的本体发展过程中的一系列阶段      | 尽管受到认知、发音和词汇限制的干扰，但与成年人的语言能力非常相似  |
 | \* 被获得的是什么\* | 对语言表达的成分的分布特性的把握              | 一种主要是传统的和文化传承的语言交流系统        | 一种内化的生成设备，用于描述无限集合的表达式            |
 
@@ -679,7 +677,7 @@ Derwing（1973）是对乔姆斯基（1969）观点的早期批评者之一，�
 
 语言哲学
 
-> \[M]y claim is that _none_ of the variables that confound metalinguistic data are peculiar to judgments about language. Rather they can be shown to operate in some other domain in a similar way. (This is quite similar to Valian’s (1982) claim that the data of more traditional psychological experiments have all the same problems that judgment data have.) (Schütze 1996: 14)
+> \[M]y claim is that *none* of the variables that confound metalinguistic data are peculiar to judgments about language. Rather they can be shown to operate in some other domain in a similar way. (This is quite similar to Valian’s (1982) claim that the data of more traditional psychological experiments have all the same problems that judgment data have.) (Schütze 1996: 14)
 
 The above can be read as sympathetic to the Essentialist preference for elicited judgments.
 
@@ -991,222 +989,222 @@ Bar-On（2013）区分了格赖斯式和后格赖斯式的语言演化方法。�
 
 ## Bibliography
 
-* Adger, David, 2003, _Core Syntax: A Minimalist Approach_, New York: Oxford University Press.
-* Akmajian, Adrian, Demers, Richard, Farmer, Ann, and Harnish, Robert, 2010, _Linguistics: An Introduction to Language and Communication_, Cambridge, Massachusetts: MIT Press, 6th ed.
-* Angluin, Dana, 1980, “Inductive inference of formal languages from positive data”, _Information and Control_, 45: 117–135.
-* Artstein, Ron and Poesio, Massimo, 2008, “Inter-Coder Agreement for Computational Linguistics”, _Computational Linguistics_, 34: 555–596.
-* Atkinson, Quentin D. and Gray, Russell D., 2006, “How old is the Indo-European language family? Progress or more moths to the flame?”, in J. Clackson, P. Forster, and C. Renfrew, (eds.), _Phylogenetic Methods and the Prehistory of Languages_, Cambridge: MacDonald Institute for Archaeological Research, 91–109.
-* Azzouni, Jody, 2004, _Deflating Existential Consequence: A Case for Nominalism_, New York: Oxford University Press.
-* Baldwin, Dare A. and Moses, L. J., 1994, “Early understanding of referential intent and attentional focus: Evidence from language and emotion”, in C. Lewis and P. Mitchell (eds.), _Children’s Early Understanding of Mind: Origins and Development_, Hillsdale, NJ: Lawrence Erlbaum, 133–156.
-* Bard, Ellen, Robertson, David, and Sorace, Antonella, 1996, “Magnitude estimation of linguistic acceptability”, _Language_, 72(1): 32–68.
-* Barkow, J. H., Cosmides, Leda, and Tooby, J., 1992, _The Adapted Mind: Evolutionary Psychology and the Generation of Culture_, New York: Oxford University Press.
-* Barlow, Michael and Kemmer, Suzanne (eds.), 2002, _Usage-Based Models of Language_, Stanford: CSLI Press.
-* Bar-On, Dorit, 2013, “Origins of Meaning: Must We ‘Go Gricean’?” _Mind and Language_, 38(3): 342–375.
-* Baroni, M., Bernardini, S., Ferraresi, A., and Zanchetta, E., 2009, “The WaCky Wide Web: A collection of very large linguistically processed web-crawled corpora”, _Journal of Language Resources and Evaluation_, 43(3): 209–226.
-* Bates, Elizabeth, Elman, Jeffrey, Johnson, Mark, Karmiloff-Smith, Annette, Parisi, Domenico, and Plunkett, Kim, 1998, “Innateness and emergentism”, William Bechtel and George Graham (eds.), _A Companion to Cognitive Science_, Oxford: Basil Blackwell, 590–601.
-* Berwick, Robert, and Chomsky, Noam, 2016, _Why only us? Language and evolution_, Cambridge, MA: MIT Press.
-* Bickerton, Derek, 2007, “Language evolution: A brief guide for linguists”, _Lingua_, 117: 510–526.
-* Bickerton, Derek, 2014, _More than nature needs: Language, mind, and evolution_, Cambridge, MA: Harvard University Press.
-* Bloomfield, Leonard, 1914, _An Introduction to the Study of Language_, New York, NY: Henry Holt.
-* –––, 1933, _Language_, New York, NY: Henry Holt.
-* –––, 1939, _Linguistic Aspects of Science_ (International Encyclopedia of Unified Science: Volume 1/Number 4), Chicago: University of Chicago Press.
-* Boroditsky, Lera, Schmidt, L., and Phillips, W., 2003, “Sex, syntax, and semantics”, in Dedre Gentner and Susan Goldin-Meadow (eds.), _Language in Mind: Advances in the Study of Language and Cognition_, Cambridge, Massachusetts: MIT Press, 61–80.
-* Bresnan, Joan, 2007, “A few lessons from typology”, _Linguistic Typology_, 11: 297–306.
-* Bresnan, Joan, Cueni, Anna, Nikitina, Tatiana, and Baayen, Harald, 2007, “Predicting the dative alternation”, in G. Boume, I. Kraemer, and J. Zwarts (eds.), _Cognitive Foundations of Interpretation_, Amsterdam: Royal Netherlands Academy of Science, 69–94.
-* Bresnan, Joan and Ford, Marilyn, 2010, “Predicting syntax: Processing dative constructions in American and Australian varieties of English”, _Language_, 86: 168–213.
-* Bromberger, Sylvain, 1989, “Types and tokens in linguistics”, in _Reflections on Chomsky_, A. George, (ed.), Oxford: Blackwell, 58–88.
-* –––, 2011, “What are words? Comments on Kaplan (1990), on Hawthorne and Lepore, and on the issue”, _The Journal of Philosophy_, 108(9): 486–503.
-* Brown, Roger and Hanlon, Camille, 1970, “Derivational complexity and order of acquisition in child speech”, in _Cognition and the Development of Language_, J. R. Hayes, (ed.), New York: John Wiley and Sons, 11–54.
-* Brown, Roger and Lenneberg, Eric, 1954, “A study in language and cognition”, _Journal of Abnormal and Social Psychology_, 49: 445–453.
-* Bybee, Joan and McClelland, J. L., 2005, “Alternatives to the combinatorial paradigm of linguistic theory based on domain general principles of human cognition”, _The Linguistic Review_, 22(2–4): 381–410.
-* Cappelen, Herman, 1999, “Intentions in words”, _Noûs_, 33(1): 92–102.
-* Cheney, D. L. and Seyfarth, R. M., 1990, “The assessment by vervet monkeys of their own and another species’ alarm calls”, _Animal Behavior_, 40: 754–764.
-* –––, 2005, “Constraints and preadaptations in the earliest stages of language evolution”, _The Linguistic Review_, 22: 135–159.
-* Chierchia, Gennaro, 1998, “Reference to kinds across languages”, _Natural Language Semantics_, 6: 339–405.
+* Adger, David, 2003, *Core Syntax: A Minimalist Approach*, New York: Oxford University Press.
+* Akmajian, Adrian, Demers, Richard, Farmer, Ann, and Harnish, Robert, 2010, *Linguistics: An Introduction to Language and Communication*, Cambridge, Massachusetts: MIT Press, 6th ed.
+* Angluin, Dana, 1980, “Inductive inference of formal languages from positive data”, *Information and Control*, 45: 117–135.
+* Artstein, Ron and Poesio, Massimo, 2008, “Inter-Coder Agreement for Computational Linguistics”, *Computational Linguistics*, 34: 555–596.
+* Atkinson, Quentin D. and Gray, Russell D., 2006, “How old is the Indo-European language family? Progress or more moths to the flame?”, in J. Clackson, P. Forster, and C. Renfrew, (eds.), *Phylogenetic Methods and the Prehistory of Languages*, Cambridge: MacDonald Institute for Archaeological Research, 91–109.
+* Azzouni, Jody, 2004, *Deflating Existential Consequence: A Case for Nominalism*, New York: Oxford University Press.
+* Baldwin, Dare A. and Moses, L. J., 1994, “Early understanding of referential intent and attentional focus: Evidence from language and emotion”, in C. Lewis and P. Mitchell (eds.), *Children’s Early Understanding of Mind: Origins and Development*, Hillsdale, NJ: Lawrence Erlbaum, 133–156.
+* Bard, Ellen, Robertson, David, and Sorace, Antonella, 1996, “Magnitude estimation of linguistic acceptability”, *Language*, 72(1): 32–68.
+* Barkow, J. H., Cosmides, Leda, and Tooby, J., 1992, *The Adapted Mind: Evolutionary Psychology and the Generation of Culture*, New York: Oxford University Press.
+* Barlow, Michael and Kemmer, Suzanne (eds.), 2002, *Usage-Based Models of Language*, Stanford: CSLI Press.
+* Bar-On, Dorit, 2013, “Origins of Meaning: Must We ‘Go Gricean’?” *Mind and Language*, 38(3): 342–375.
+* Baroni, M., Bernardini, S., Ferraresi, A., and Zanchetta, E., 2009, “The WaCky Wide Web: A collection of very large linguistically processed web-crawled corpora”, *Journal of Language Resources and Evaluation*, 43(3): 209–226.
+* Bates, Elizabeth, Elman, Jeffrey, Johnson, Mark, Karmiloff-Smith, Annette, Parisi, Domenico, and Plunkett, Kim, 1998, “Innateness and emergentism”, William Bechtel and George Graham (eds.), *A Companion to Cognitive Science*, Oxford: Basil Blackwell, 590–601.
+* Berwick, Robert, and Chomsky, Noam, 2016, *Why only us? Language and evolution*, Cambridge, MA: MIT Press.
+* Bickerton, Derek, 2007, “Language evolution: A brief guide for linguists”, *Lingua*, 117: 510–526.
+* Bickerton, Derek, 2014, *More than nature needs: Language, mind, and evolution*, Cambridge, MA: Harvard University Press.
+* Bloomfield, Leonard, 1914, *An Introduction to the Study of Language*, New York, NY: Henry Holt.
+* –––, 1933, *Language*, New York, NY: Henry Holt.
+* –––, 1939, *Linguistic Aspects of Science* (International Encyclopedia of Unified Science: Volume 1/Number 4), Chicago: University of Chicago Press.
+* Boroditsky, Lera, Schmidt, L., and Phillips, W., 2003, “Sex, syntax, and semantics”, in Dedre Gentner and Susan Goldin-Meadow (eds.), *Language in Mind: Advances in the Study of Language and Cognition*, Cambridge, Massachusetts: MIT Press, 61–80.
+* Bresnan, Joan, 2007, “A few lessons from typology”, *Linguistic Typology*, 11: 297–306.
+* Bresnan, Joan, Cueni, Anna, Nikitina, Tatiana, and Baayen, Harald, 2007, “Predicting the dative alternation”, in G. Boume, I. Kraemer, and J. Zwarts (eds.), *Cognitive Foundations of Interpretation*, Amsterdam: Royal Netherlands Academy of Science, 69–94.
+* Bresnan, Joan and Ford, Marilyn, 2010, “Predicting syntax: Processing dative constructions in American and Australian varieties of English”, *Language*, 86: 168–213.
+* Bromberger, Sylvain, 1989, “Types and tokens in linguistics”, in *Reflections on Chomsky*, A. George, (ed.), Oxford: Blackwell, 58–88.
+* –––, 2011, “What are words? Comments on Kaplan (1990), on Hawthorne and Lepore, and on the issue”, *The Journal of Philosophy*, 108(9): 486–503.
+* Brown, Roger and Hanlon, Camille, 1970, “Derivational complexity and order of acquisition in child speech”, in *Cognition and the Development of Language*, J. R. Hayes, (ed.), New York: John Wiley and Sons, 11–54.
+* Brown, Roger and Lenneberg, Eric, 1954, “A study in language and cognition”, *Journal of Abnormal and Social Psychology*, 49: 445–453.
+* Bybee, Joan and McClelland, J. L., 2005, “Alternatives to the combinatorial paradigm of linguistic theory based on domain general principles of human cognition”, *The Linguistic Review*, 22(2–4): 381–410.
+* Cappelen, Herman, 1999, “Intentions in words”, *Noûs*, 33(1): 92–102.
+* Cheney, D. L. and Seyfarth, R. M., 1990, “The assessment by vervet monkeys of their own and another species’ alarm calls”, *Animal Behavior*, 40: 754–764.
+* –––, 2005, “Constraints and preadaptations in the earliest stages of language evolution”, *The Linguistic Review*, 22: 135–159.
+* Chierchia, Gennaro, 1998, “Reference to kinds across languages”, *Natural Language Semantics*, 6: 339–405.
 * Chomsky, Noam, 1955, “The logical structure of linguistic theory”, Unpublished manuscript; revised in 1956 and distributed from MIT Library; published with some abridgement in 1975 by Plenum Press, New York.
-* –––, 1959, “On certain formal properties of grammars”, _Information and Control_, 1: 91–112.
-* –––, 1965, _Aspects of the Theory of Syntax_, Cambridge, Massachusetts: MIT Press.
-* –––, 1968, _Language and Mind_, New York: Harper and Row.
+* –––, 1959, “On certain formal properties of grammars”, *Information and Control*, 1: 91–112.
+* –––, 1965, *Aspects of the Theory of Syntax*, Cambridge, Massachusetts: MIT Press.
+* –––, 1968, *Language and Mind*, New York: Harper and Row.
 * –––, 1969, “Linguistics and philosophy”, in Language and Philosophy: A Symposium, Sidney Hook, (ed.), New York: New York University Press, 51–94.
-* –––, 1975, _Reflections on Language_, New York, NY: Pantheon.
-* –––, 1979, _Language and Responsibility_, \[translated by John Viertel from the 1977 French edition produced by Mitsou Ronat], Hassocks, Sussex: Harvester Press.
-* –––, 1981, _Lectures on Government and Binding_, Dordrecht: Foris.
-* –––, 1986, _Knowledge of Language: Its Nature, Origin and Use_, Westport, CT: Praeger.
-* –––, 1988, _Language and Problems of Knowledge_, Cambridge, Massachusetts: MIT Press.
-* –––, 1992, “Explaining language use”, _Philosophical Topics_, 20: 205–231.
-* –––, 1995, “Language and nature”, _Mind_, 104: 1–61.
-* –––, 2003, “Reply to Millikan”, in Louise M. Antony and Norbert Hornstein (eds.), _Chomsky and His Critics_, Oxford: Blackwell, 308–315.
-* Chouinard, M. M. and Clark, E. V., 2003, “Adult reformulations of child errors as negative evidence”, _Journal of Child Language_, 30(3): 637–669.
-* Cowart, Wayne, 1997, _Experimental Syntax: Applying Objective Methods to Sentence Judgments_, Newbury Park, CA: Sage Publications.
-* Cowie, Fiona, 1999, _What’s Within? Nativism Reconsidered_, New York: Oxford University Press.
-* Culicover, Peter W. and Jackendoff, Ray S., 2010, “Quantitative methods alone are not enough: Response to Gibson and Fedorenko”, _Trends in Cognitive Science_, 14(6): 234–235.
-* den Dikken, Marcel, Bernstein, Judy, Tortora, Christina, and Zanuttini, Raffaella, 2007, “Data and grammar: Means and individuals”, _Theoretical Linguistics_, 33: 269–318.
-* Derwing, Bruce, 1973, _Transformational Grammar as a Theory of Language Acquisition: A Study in the Empirical, Conceptual and Methodological Foundations of Contemporary Linguistics_, Cambridge: Cambridge University Press.
-* Devitt, Michael, 2006, _Ignorance of Language_, Oxford: Clarendon Press.
-* Dummett, Michael, 1986, “‘A nice derangement of epitaphs’: Some comments on Davidson and Hacking”, in _Truth and Interpretation_, Ernest Lepore (ed.), Oxford: Blackwell, 459–476.
-* Dunbar, Robin, 1998, “Theory of mind and the evolution of language”, in James R. Hurford, Michael Studdert-Kennedy, and Chris Knight (eds.), _Approaches to the Evolution of Language_, Cambridge: Cambridge University Press, 92–110.
-* Eckert, Penelope, 1989, _Jocks and Burnouts: Social Categories and Identity in the High School_, New York, NY: Teachers College Press.
-* Edelman, Shimon and Christiansen, Morten, 2003, “How seriously should we take minimalist syntax?”, _Trends in Cognitive Sciences_, 7: 60–61.
-* Elman, Jeffrey L., 1993, “Learning and development in neural networks: The importance of starting small”, _Cognition_, 48: 71–99.
-* Everett, Daniel, 2017, _How language began: The story of humanity’s greatest invention_, New York: W. W. Norton.
-* Ferreira, Fernanda, 2005, “Psycholinguistics, formal grammars, and cognitive science”, _The Linguistic Review_, 22: 365–380.
-* Field, Hartry, 1980, _Science without Numbers: A Defense of Nominalism_, Princeton, N.J.: Princeton University Press.
-* Fitch, W. Tecumseh, 2010, “Prolegomena to a future science of biolinguistics”, _Biolinguistics_, 3(4): 283–320.
-* Fodor, Janet Dean and Crowther, Carrie, 2002, “Understanding stimulus poverty arguments”, _The Linguistic Review_, 19(1–2): 105–146.
-* Fodor, Jerry A., 1983, _The Modularity of Mind: An Essay on Faculty Psychology_, Cambridge, Massachusetts: MIT Press.
-* Fodor, Jerry A. and Pylyshyn, Zenon W., 1988, “Connectionism and cognitive architecture: A critical analysis”, _Cognition_, 28: 3–71.
-* Foraker, Stephani, Regier, Terry, Khetarpal, Naveen, Perfors, Amy, and Tenenbaum, Joshua, 2009, “Indirect evidence and the poverty of the stimulus: The case of anaphoric one”, _Cognitive Science_, 33: 287–300.
-* Gasparri, Luca, 2021, “A pluralistic theory of wordhood”, _Mind and Language_, 36(4): 592–609.
-* George, Alexander, 1989, “How not to become confused about linguistics”, in _Reflections on Chomsky_, Alexander George (ed.), Oxford: Basil Blackwell, 90–110.
-* Gibson, Edward and Fedorenko, Evelina, 2013, “The need for quantitative methods in syntax and semantics research”, _Language and Cognitive Processes_, 28: 88–124. (See also the authors’ summary in _Trends in Cognitive Sciences_, 2010, Volume 14, pp. 233–234.)
-* Gold, E. Mark, 1967, “Language identification in the limit”, _Information and Control_, 10: 447–474.
-* Goldberg, Adele, 1995, _Constructions: A Construction Grammar Approach to Argument Structure_, Chicago: University of Chicago Press.
-* Gray, Russell D., 2005, “Pushing the time barrier in the quest for language roots”, _Science_, 209: 307–308.
-* Gray, Russell D., Drummond, A. J., and Greenhill, S. J., 2009, “Phylogenies reveal expansion pulses and pauses in Pacific settlement”, _Science_, 323: 479–483.
-* Gray, Russell D. and Jordan, Fiona M., 2000, “Language trees support the express-train sequence of Austronesian expansion”, _Nature_, 405: 1052–1055. Minor technical correction noted in _Nature_, 409: 743 (8 February 2001).
-* Greenhill, S. J., Atkinson, Q. D., Meade, A., and Gray, R. D., 2010, “The shape and tempo of language evolution”, _Proceedings of the Royal Society B_, 277: 2443–2450.
-* Harris, Zellig, 1957, “Co-occurrence and transformation in linguistic structure”, _Language_, 33: 283–340.
-* Haspelmath, Martin, 2011, “The indeterminacy of word segmentation and the nature of morphology and syntax”, _Folia Linguistica_, 45(1): 31–80.
-* Hauser, Marc D., Chomsky, Noam, and Fitch, W. Tecumseh, 2002 \[HCF], “The faculty of language: What is it, who has it, and how did it evolve”, _Science_, 298: 1569–1579.
-* Hawthorne, John, and Lepore, Ernest, 2011, “On words”, _The Journal of Philosophy_, 108(9): 447–485.
-* Hellman, Geoffrey, 1989, _Mathematics without Numbers: Towards a Modal-Structural Interpretation_, Oxford: Clarendon Press.
-* Hockett, Charles F., 1968, _The State of the Art_, The Hague: Mouton.
-* Hoijer, Harry, 1954, “The Sapir Whorf hypothesis”, in _Language in Culture_, Harry Hoijer (ed.), Chicago: University of Chicago Press, 92–105.
-* Hopper, Paul and Thompson, Sandra, 1993, “Language universals, discourse pragmatics, and semantics”, _Linguistic Sciences_, 15: 357–376.
-* Horner, Victoria, Whiten, Andrew, Flynn, Emma, and de Waal, Frans B. M., 2006, “Faithful replication of foraging techniques along cultural transmission chains by chimpanzees and children”, _Proceedings of the National Academy of Sciences_, 103: 13878–13883.
-* Hurford, James R., 2000, “Social transmission favours linguistic generalization”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), _The Evolutionary Emergence of Language: Social Function and the Origins of Linguistic Form_, Cambridge: Cambridge University Press, 219–230.
-* Irmak, Nurbay, 2019, “An ontology of words”, _Erkenntnis_, 84(5): 1139–1158.
-* Itkonen, Esa, 1978, _Grammatical Theory and Metascience: A Critical Investigation into the Methodological and Philosophical Foundations of ‘Autonomous’ Linguistics_, Berlin: Walter de Gruyter.
-* –––, 2013, “The philosophy of linguistics”, in Keith Allan (ed.), _The Oxford Handbook of the History of Linguistics_, Oxford: Oxford University Press, 747–774.
-* Jackendoff, Ray S., 2002, _Foundations of Language: Brain, Meaning, Grammar, Evolution_, Oxford: Oxford University Press.
-* –––, 2018, “Representations and Rules of Language”, in _The Philosophy of Daniel Dennett_, B. Huebner (ed.), Oxford University Press, 95–126.
-* Jacobson, Pauline, 1996, “The syntax/semantics interface in categorial grammar”, in _Handbook of Contemporary Semantic Theory_, Shalom Lappin (ed.), Cambridge, Massachusetts: Oxford University Press, 89–116.
-* Jain, Sanjay, Osherson, Daniel N., Royer, James S., and Sharma, Arun, 1999, _Systems That Learn_, Cambridge, Massachusetts: MIT Press, 2nd ed.
-* Johnson, Kent, 2004, “Gold’s theorem and cognitive science”, _Philosophy of Science_, 70(4): 571–592.
-* –––, 2007, “On the systematicity of language and thought”, _Journal of Philosophy_, 101: 111–139.
-* –––, 2015, “Notational variants and invariance in linguistics”, _Mind and Language_, 30(2): 162–186.
-* Joos, Martin (ed.), 1966, _Readings in Linguistics I: The Development of Descriptive Linguistics in America 1925–56_, Chicago, IL: University of Chicago Press, fourth ed.
-* Kaplan, David, 1990, “Words”, _Proceedings of the Aristotelian Society_, 64: 93–119.
-* –––, 2011, “Words on words”, _The Journal of Philosophy_, 108(9): 504–529.
-* Karlsson, Fred, 2007, “Constraints on multiple center-embedding of clauses”, _Journal of Linguistics_, 43(2): 365–392.
-* Katz, Jerrold J., 1980, “Chomsky on meaning”, _Language_, 56(1): 1–41.
-* –––, 1981, _Language and Other Abstract Objects_, Totowa, NJ: Rowman and Littlefield.
-* ––– (ed.), 1985, _Philosophy of Linguistics_, Oxford: Oxford University Press.
-* –––, 1996, “The Unfinished Chomskyan Revolution”, _Mind and Language_, 11(3): 270–294.
-* –––, 1998, _Realistic Rationalism_, Cambridge, Massachusetts: MIT Press.
-* Kay, Paul and Regier, Terry, 2006, “Language, thought and color: Recent developments”, _Trends in Cognitive Sciences_, 10(2): 51–53.
-* Kay, Paul, Berlin, Brent, Maffi, Luisa, Merrifield, William, 2011, _The World Color Survey_, Stanford, Center for the Study of Language and Information.
-* Kirby, Simon, 2001, “Spontaneous evolution of linguistic structure: An iterated learning model of the emergence of regularity and irregularity”, _IEEE Transactions on Evolutionary Computation_, 5(2): 102–110.
-* Kirby, Simon, Cornish, Hannah, and Smith, Kenny, 2008, “Cumulative cultural evolution in the laboratory: An experimental approach to the origins of structure in human language”, _Proceedings of the National Academy of Sciences_, 101(31): 10681–10686.
-* Kousta, S. T., Vinson, D. P., and Vigliocco, G., 2008, “Investigating linguistic relativity through bilingualism: The case of grammatical gender”, _Journal of Experimental Psychology: Learning, Memory, and Cognition_, 34(4): 843–858.
-* Labov, William, 1966, _The Social Stratification of English in New York City_, Washington, DC: Center for Applied Linguistics. 2nd edition Cambridge University Press, 2006.
-* –––, 1975, “Empirical foundations of linguistic theory”, in _The Scope of American Linguistics_, R. Austerlitz (ed.), Lisse: Peter de Ridder, 77–133.
-* –––, 1996, “When intuitions fail”, in L. McNair, K. Singer, L. Dobrin, and M. Aucon (eds.), _Papers from the Parasession on Theory and Data in Linguistics_, Chicago: Chicago Linguistic Society, 77–106.
-* Lappin, Shalom and Shieber, Stuart, 2007, “Machine learning theory and practice as a source of insight into universal grammar”, _Journal of Linguistics_, 43: 393–427.
-* Larson, Richard, 1988, “On the double object construction”, _Linguistic Inquiry_, 19: 335–391.
-* Laurence, Stephen and Margolis, Eric, 2001, “The poverty of the stimulus argument”, _British Journal of Philosophy of Science_, 52(2): 217–276.
-* Levelt, W. J. M., 2008, _An Introduction to the Theory of Formal Languages and Automata_, Amsterdam: John Benjamins.
-* Lewis, David, 1969, _Convention: A Philosophical Study_, Cambridge, Massachusetts: Harvard University Press.
-* Li, P. and Gleitman, Lila, 2002, “Turning the tables: Language and spatial reasoning”, _Cognition_, 83: 265–294.
-* Lucy, John, 1996, “The scope of linguistic relativity: An analysis and review of empirical research”, in J. Gumperz and S. Levinson (eds.), _Rethinking Linguistic Relativity_, Cambridge: Cambridge University Press, 37–69.
-* Ludlow, Peter, 2011, _The Philosophy of Generative Linguistics_, Oxford: Oxford University Press.
-* MacWhinney, Brian, 2005, “The emergence of grammar from perspective taking”, in D. Pecher and R. A. Zwaan (eds.), _The Grounding of Cognition_, Cambridge: Cambridge University Press, 198–223.
-* Mallory, Fintan, 2020, “Linguistic types are capacity-individuated action-types”. _Inquiry_, 63(9–10): 1123–1148.
-* Martinet, André, 1960, _Elements of General Linguistics_, London: Faber.
-* Matthews, Robert, 1984, “The plausibility of rationalism”, _Journal of Philosophy_, 81: 492–515. Reprinted in Matthews and Demopoulos (1989), 51–75.
-* –––, 2007, “The case for linguistic nativism”, in _Contemporary Debates in Cognitive Science_, Robert J. Stainton, (ed.), Oxford: Blackwell, 81–96.
-* Matthews, Robert and Demopoulos, William (eds.), 1989, _Learnability and Language Acquisition_, Dordrecht: Foris.
-* Miller, James, 2020, “The ontology of words: Realism, nominalism, and eliminativism”, _Philosophy Compass_, 15(7): e12691.
-* –––, 2021, “A bundle theory of words”, _Synthese_, 198: 5731–5748.
-* Millikan, Ruth Garrett, 2003, “In defense of public language”, in L. M. Antony and N. Hornstein (eds.), _Chomsky and His Critics_, Oxford: Blackwell, 215–237.
-* Montague, Richard, 1974, _Formal Philosophy: Selected Papers of Richard Montague_, New Haven: Yale University Press. Edited by R. Thomason.
-* Morris, Charles, 1938, _Foundations of the Theory of Signs_, Chicago: University of Chicago Press.
-* Napoli, Donna Jo, 1996, _Linguistics: An Introduction_, New York, NY: Oxford University Press.
-* Nefdt, Ryan, 2016, “Languages and other abstract structures”, in _Essays on Linguistic Realism_, C. Behme and M. Neef (eds.), Amsterdam: John Benjamins Publishing, 139–184.
-* –––, 2019a, “The philosophy of linguistics: scientific underpinnings and methodological disputes”, _Philosophy Compass_, 14(12): e12636.
-* –––, 2019b, “The ontology of words: a structural approach”, _Inquiry_, 62(8): 877–911.
-* –––, 2019c, “Infinity and the foundations of linguistics”, _Synthese_, 196: 1671–1711.
-* –––, 2020, “Formal semantics and applied mathematics: an inferential account”, _Journal of Logic, Language and Information_, 29(2): 221–253.
-* –––, 2021, “Structural realism and generative linguistics”, _Synthese_, 199: 3711–3737.
-* Newmeyer, Frederick J., 1986, _Linguistic Theory in America_, New York: Academic Press, 2nd edition.
-* –––, 1991, “Functional explanation in linguistics and the origins of language”, _Language and Communication_, 11(1–2): 3–28.
-* –––, 1998, “On the supposed ‘counterfunctionality’ of universal grammar: Some evolutionary implications”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), _Approaches to the Evolution of Language_, Cambridge: Cambridge University Press, 305–319.
-* –––, 2007, “Commentary on Sam Featherston, ‘Data in generative grammar: The stick and the carrot”’, _Theoretical Linguistics_, 33: 395–399.
-* Newport, Elissa L., 1988, “Constraints on learning and their role in language acquisition: Studies of the acquisition of American sign language”, _Language Sciences_, 10: 147–172.
-* O’Grady, William, 2008, “The emergentist program”, _Lingua_, 118: 447–464.
-* Osherson, Daniel N., Stob, Michael, and Weinstein, Scott, 1984, “Learning theory and natural language”, _Cognition_, 17(1): 1–28. Reprinted in Matthews and Demopoulos (1989), 19–50.
-* Partee, Barbara, 1975, “Montague grammar and transformational grammar”, _Linguistic Inquiry_, 6: 203–300.
-* Pelletier, Francis Jeffry, 1991, “The principle of semantic compositionality”, _Topoi_, 13: 11–24; reprinted, with additions, in S. Davis and B. Gillon, _Semantics: A Reader_, Oxford: Oxford University Press, 2004, pp. 133–156.
-* Penn, Julia, 1972, _Linguistic Relativity versus Innate Ideas: The Origins of the Sapir-Whorf Hypothesis in German Thought_, Paris: Mouton.
-* Phillips, Colin, 2010, “Should we impeach armchair linguists?”, in S. Iwasaki, H. Hoji, P. Clancy, and S.-O. Sohn (eds.), _Japanese-Korean Linguistics 17_, Stanford, CA: CSLI Publications, 49–64.
-* Piattelli-Palmarini, Massimo, 1989, “Evolution, selection, and cognition: From ‘learning’ to parameter setting in biology and the study of language”, _Cognition_, 31: 1–44.
-* Pinker, Steven, 1994, _The Language Instinct: The New Science of Language and Mind_, New York, NY: Morrow Press.
-* –––, 2007, _The Stuff of Thought: Language as a Window into Human Nature_, New York, NY: Viking Penguin.
-* Pinker, Steven and Bloom, Paul, 1990, “Natural language and natural selection”, _Behavioral and Brain Sciences_, 13: 707–726.
-* Pinker, Steven and Jackendoff, Ray S., 2005, “The faculty of language: What’s special about it?”, _Cognition_, 95: 201–236.
-* Postal, Paul, 2003, “Remarks on the foundations of linguistics”, _The Philosophical Forum_, 34: 233–251.
-* Power, Camilla, 1998, “‘Old wives’ tales’: The gossip hypothesis and the reliability of cheap signals”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), _Approaches to the Evolution of Language_, Cambridge: Cambridge University Press, 111–129.
-* Prinz, Jesse, 2002, _Furnishing the Mind: Concepts and Their Perceptual Basis_, Cambridge, Massachusetts: MIT Press.
-* Progovac, Ljiljana, 2015, _Evolutionary syntax_ (Oxford Studies in the Evolution of Language), Oxford: Oxford University Press.
-* Pullum, Geoffrey K., 1983, “How many possible human languages are there?”, _Linguistic Inquiry_, 14: 447–467.
-* –––, 2013, “The central question in comparative syntactic metatheory”, _Mind and Language_, 28(4): 492–521.
-* –––, 2019, “Philosophy of linguistics”, in Kelly Michael Becker and Iain Thomson, (eds.), _The Cambridge History of Philosophy, 1945–2015_, Cambridge: Cambridge University Press, 49–59.
-* Pullum, Geoffrey K. and Scholz, Barbara C., 1997, “Theoretical linguistics and the ontology of linguistic structure”, in T. Haukioja, M.-L. Helasvuo, and M. Miestamo, (eds.), _SKY 1997: 1997 Yearbook of the Linguistic Association of Finland_, Turku: Suomen kielitieteelinen yhdistys \[Linguistic Association of Finland], 25–47.
-* –––, 2002, “Empirical assessment of stimulus poverty arguments”, _The Linguistic Review_, 19: 9–50.
-* –––, 2007, “ Systematicity and Natural Language Syntax”, _Croatian Journal of Philosophy_, 21: 375–402.
-* –––, 2010, “Recursion and the infinitude claim”, in _Recursion in Human Language_, Harry van der Hulst (ed.), Berlin: Mouton de Gruyter, no. 104 in Studies in Generative Grammar, 113–138.
-* Putnam, Hilary, 1963, “Probability and confirmation”, in _The Voice of America Forum Lectures_ (Philosophy of Science Series, No. 10), Hilary Putnam, (ed.), Washington, D.C.: United States Information Agency. Reprinted in _Mathematics, Matter and Method_, Cambridge: Cambridge University Press, 1975, 293–304.
-* Quine, Willard Van Orman, 1972, “Linguistics and philosophy”, in _Language and Philosophy: A Symposium_, Sidney Hook (ed.), New York: New York University Press, 95–98.
-* –––, 1987, _Quiddities: An Intermittently Philosophical Dictionary_, Cambridge, Massachusetts: Harvard University Press.
-* Rey, Georges, 2006, “The intentional inexistence of language—But not cars”, in R. J. Stainton (ed.), _Contemporary debates in cognitive science_, Oxford: Blackwell, 237–255.
-* –––, 2020, _Representation of Language: philosophical issues in a Chomskyan linguistics_, Oxford: Oxford University Press.
-* Rohde, D. L. T. and Plaut, D. C., 1999, “Language acquisition in the absence of explicit negative evidence: How important is starting small?”, _Cognition_, 72: 67–109.
-* Roland, Doug and Jurafsky, Daniel, 2002, “Verb sense and verb subcategorization probabilities”, in S. Stevenson and P. Merlo (eds.), _The Lexical Basis of Sentence Processing: Formal, Computational, and Experimental Issues_, Amsterdam: John Benjamins, 325–346.
-* Ross, John R., 2010, “The Category Squish: Endstation Hauptwort”, _Cognitive Linguistics Bibliography (CogBib)_, Berlin, Boston: De Gruyter Mouton, 316–339.
-* Sampson, Geoffrey, 2001, _Empirical Linguistics_, London: Continuum Press.
-* –––, 2005, _The Language Instinct Debate_, London: Continuum Press.
-* Santana, Carlos, 2016, “What Is Language?” _Ergo_, 3(19): 501–523.
-* Sapir, Edward, 1921, _Language_, New York, NY: Harcourt.
-* –––, 1929, “The status of linguistics as a science”, _Language_, 5: 207–214. Reprinted in David Mandelbaum (ed.), _Selected Writings of Edward Sapir in Language Culture and Personality_, Berkeley and Los Angeles: University of California Press, 1968, 160–166.
-* Saussure, Ferdinand de, 1916, _Cours de linguistique générale_, Paris and Lausanne: Payot. Edited and published after Saussure’s death by Charles Bally and Albert Sechehaye with the collaboration of Albert Riedlinger. English translation by Roy Harris (1998) in Ferinand de Saussure _Course in General Linguistics_, New York: Open Court.
-* Scholz, Barbara C. and Pullum, Geoffrey K., 2002, “Searching for arguments to support linguistic nativism”, _The Linguistic Review_, 19: 185–223.
-* –––, 2006, “Irrational nativist exuberance”, in _Contemporary Debates in Cognitive Science_, Robert J. Stainton (ed.), Oxford: Basil Blackwell, 59–80.
-* –––, 2007, “Tracking the origins of generative grammar”, _Journal of Linguistics_, 43: 701–723.
-* Schütze, Carson, 1996, _The Empirical Base of Linguistics: Grammaticality Judgments and Linguistic Methodology_, Chicago: University of Chicago Press.
-* Seuren, Pieter A. M., 1998, _Western Linguistics: An Historical Introduction_, Oxford: Blackwell.
-* Shapiro, Stewart, 1997, _Philosophy of Mathematics: Structure and Ontology_, Oxford University Press.
-* Shinohara, Takeshi, 1990, “Inductive inference of monotonic formal systems from positive data”, in S. Arikawa, S. Goto, S. Ohsuga, and T. Yokomori (eds.), _Algorithmic Learning Theory_, Berlin: Springer, 339–351.
-* Skyrms, Brian, 2010, _Signals: Evolution, Learning and Information_, Oxford: Oxford University Press.
-* Slobin, Dan, 1996, “From thought and language to thinking for speaking”, in J. Gumperz and S. Levinson (eds.), _Rethinking Linguistic Relativity_, Cambridge: Cambridge University Press, 70–96.
-* Soames, Scott, 1984, “Linguistics and psychology”, _Linguistics and Philosophy_, 7: 155–179.
-* Sperber, Dan, and Origgi, Gloria, 2010, “A pragmatic perspective on the evolution of language”, in R. K. Larson, V. Déprez, and H. Yamakido (eds.), _The Evolution of Human Language: Biolinguistic Perspectives_, Cambridge: Cambridge University Press, 124–132.
-* Sprouse, Jon, 2011, “A test of the cognitive assumptions of magnitude estimation: Commutativity does not hold for acceptability judgments”, _Language_, 87(2): 274–288.
-* Sprouse, Jon and Almeida, Diogo, 2012, “Assessing the reliability of textbook data in syntax: Adger’s _Core Syntax_”, _Journal of Linguistics_, 48(3): 609–652.
-* Stainton, Robert J. (ed.), 2006, _Contemporary Debates in Cognitive Science_, Oxford: Blackwell.
-* Stainton, Robert J., 2014, “Philosophy of Linguistics”. _Oxford Handbooks Online_, published online July 2014. doi:10.1093/oxfordhb/9780199935314.013.002
-* Steedman, Mark, 2000, _The Syntactic Process_, Cambridge, Massachusetts: MIT Press.
-* –––, 2017, “The emergence of language”, _Mind and Language_, 32(5): 597–590.
-* Szabó, Zoltan, 1999, “Expressions and their representation”, _The Philosophical Quarterly_, 49(195): 145–163.
-* –––, 2015, “Major parts of speech”, _Erkenntnis_, 80: 3–29.
-* Szabolcsi, Anna, 1997, “Strategies for scope taking”, in _Ways of Scope Taking_, Anna Szabolcsi (ed.), Dordrecht: Kluwer, 109–155.
-* Thierry, Guillaume, Athanasopulous, Panos, Wiggett, Alison, Dering, Benjamin, and Kuipers, Jan-Rouke, 2009, “Unconscious effects of language-specific terminology on pre-attentive color perception”, _Proceedings of the National Academy of Sciences_, 106(11): 4567–4570.
-* Tomalin, Marcus, 2006, _Linguistics and the Formal Sciences: The Origins of Generative Grammar_, Cambridge: Cambridge University Press.
-* Tomasello, Michael, 1998, “Introduction”, in _The New Psychology of Language: Cognitive and Functional Approaches to Language Structure_, Michael Tomasello (ed.), Mahwah, NJ: Lawrence Erlbaum.
-* –––, 2003, _Constructing a Language: A Usage-Based Theory of Language Acquisition_, Cambridge, MA: Harvard University Press.
-* –––, 2008, _Origins of Human Communication_, Cambridge, MA: Bradford Books/MIT Press.
-* Tomlin, Russell S., 1990, “Functionalism in second language acquisition”, _Studies in Second Language Acquisition_, 12: 155–177.
-* Valian, Virginia, 1982, “Psycholinguistic experiment and linguistic intuition”, in T. W. Simon and R. J. Scholes (eds.), _Language, Mind, and Brain_, Hillsdale, NJ: Lawrence Erlbaum, 179–188.
-* Van Valin, Robert, 1991, “Functionalist linguistic theory and language acquisition”, _First Language_, 11: 7–40.
-* Voegelin, Carl F. and Harris, Zellig S., 1951, “Methods for determining intelligibility among dialects of natural languages”, _Proceedings of the American Philosophical Society_, 95(3): 322–329.
-* Wasow, Thomas and Arnold, Jennifer, 2005, “Intuitions in linguistic argumentation”, _Lingua_, 115: 1481–1496.
-* Weinreich, Max, 1945, “Der yivo un di problemen fun undzer tsayt”, _Yivo Bleter_, 25: 3–18.
-* Weskott, Thomas and Fanselow, Gisbert, 2011, “On the informativity of different measures of linguistic acceptability”, _Language_, 87(2): 249–273.
-* Weisberg, Michael, 2013, _Simulation and Similarity: Using Models to Understand the World_, New York: Oxford University Press.
-* Wetzel, Linda, 2009, _Types and tokens: An essay on abstract objects_, Boston, MA: MIT Press.
-* Wexler, Kenneth and Culicover, Peter, 1980, _Formal Principles of Language Acquisition_, Cambridge, Massachusetts: MIT Press.
-* Wexler, Kenneth and Hamburger, Henry, 1973, “On the insufficiency of surface data for the learning of transformational languages”, in J. Hintikka, J. Moravcsik, and P. Suppes (eds.), _Approaches to Natural Language_, Dordrecht: Reidel, 16–179.
-* Whorf, Benjamin Lee, 1956, _Language, Thought and Reality_, Cambridge University Press: MIT Press. Edited by John B. Carroll.
-* Worden, Robert, 1998, “The evolution of language from social intelligence”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), _Approaches to the Evolution of Language_, Cambridge: Cambridge University Press, 148–166.
+* –––, 1975, *Reflections on Language*, New York, NY: Pantheon.
+* –––, 1979, *Language and Responsibility*, \[translated by John Viertel from the 1977 French edition produced by Mitsou Ronat], Hassocks, Sussex: Harvester Press.
+* –––, 1981, *Lectures on Government and Binding*, Dordrecht: Foris.
+* –––, 1986, *Knowledge of Language: Its Nature, Origin and Use*, Westport, CT: Praeger.
+* –––, 1988, *Language and Problems of Knowledge*, Cambridge, Massachusetts: MIT Press.
+* –––, 1992, “Explaining language use”, *Philosophical Topics*, 20: 205–231.
+* –––, 1995, “Language and nature”, *Mind*, 104: 1–61.
+* –––, 2003, “Reply to Millikan”, in Louise M. Antony and Norbert Hornstein (eds.), *Chomsky and His Critics*, Oxford: Blackwell, 308–315.
+* Chouinard, M. M. and Clark, E. V., 2003, “Adult reformulations of child errors as negative evidence”, *Journal of Child Language*, 30(3): 637–669.
+* Cowart, Wayne, 1997, *Experimental Syntax: Applying Objective Methods to Sentence Judgments*, Newbury Park, CA: Sage Publications.
+* Cowie, Fiona, 1999, *What’s Within? Nativism Reconsidered*, New York: Oxford University Press.
+* Culicover, Peter W. and Jackendoff, Ray S., 2010, “Quantitative methods alone are not enough: Response to Gibson and Fedorenko”, *Trends in Cognitive Science*, 14(6): 234–235.
+* den Dikken, Marcel, Bernstein, Judy, Tortora, Christina, and Zanuttini, Raffaella, 2007, “Data and grammar: Means and individuals”, *Theoretical Linguistics*, 33: 269–318.
+* Derwing, Bruce, 1973, *Transformational Grammar as a Theory of Language Acquisition: A Study in the Empirical, Conceptual and Methodological Foundations of Contemporary Linguistics*, Cambridge: Cambridge University Press.
+* Devitt, Michael, 2006, *Ignorance of Language*, Oxford: Clarendon Press.
+* Dummett, Michael, 1986, “‘A nice derangement of epitaphs’: Some comments on Davidson and Hacking”, in *Truth and Interpretation*, Ernest Lepore (ed.), Oxford: Blackwell, 459–476.
+* Dunbar, Robin, 1998, “Theory of mind and the evolution of language”, in James R. Hurford, Michael Studdert-Kennedy, and Chris Knight (eds.), *Approaches to the Evolution of Language*, Cambridge: Cambridge University Press, 92–110.
+* Eckert, Penelope, 1989, *Jocks and Burnouts: Social Categories and Identity in the High School*, New York, NY: Teachers College Press.
+* Edelman, Shimon and Christiansen, Morten, 2003, “How seriously should we take minimalist syntax?”, *Trends in Cognitive Sciences*, 7: 60–61.
+* Elman, Jeffrey L., 1993, “Learning and development in neural networks: The importance of starting small”, *Cognition*, 48: 71–99.
+* Everett, Daniel, 2017, *How language began: The story of humanity’s greatest invention*, New York: W. W. Norton.
+* Ferreira, Fernanda, 2005, “Psycholinguistics, formal grammars, and cognitive science”, *The Linguistic Review*, 22: 365–380.
+* Field, Hartry, 1980, *Science without Numbers: A Defense of Nominalism*, Princeton, N.J.: Princeton University Press.
+* Fitch, W. Tecumseh, 2010, “Prolegomena to a future science of biolinguistics”, *Biolinguistics*, 3(4): 283–320.
+* Fodor, Janet Dean and Crowther, Carrie, 2002, “Understanding stimulus poverty arguments”, *The Linguistic Review*, 19(1–2): 105–146.
+* Fodor, Jerry A., 1983, *The Modularity of Mind: An Essay on Faculty Psychology*, Cambridge, Massachusetts: MIT Press.
+* Fodor, Jerry A. and Pylyshyn, Zenon W., 1988, “Connectionism and cognitive architecture: A critical analysis”, *Cognition*, 28: 3–71.
+* Foraker, Stephani, Regier, Terry, Khetarpal, Naveen, Perfors, Amy, and Tenenbaum, Joshua, 2009, “Indirect evidence and the poverty of the stimulus: The case of anaphoric one”, *Cognitive Science*, 33: 287–300.
+* Gasparri, Luca, 2021, “A pluralistic theory of wordhood”, *Mind and Language*, 36(4): 592–609.
+* George, Alexander, 1989, “How not to become confused about linguistics”, in *Reflections on Chomsky*, Alexander George (ed.), Oxford: Basil Blackwell, 90–110.
+* Gibson, Edward and Fedorenko, Evelina, 2013, “The need for quantitative methods in syntax and semantics research”, *Language and Cognitive Processes*, 28: 88–124. (See also the authors’ summary in *Trends in Cognitive Sciences*, 2010, Volume 14, pp. 233–234.)
+* Gold, E. Mark, 1967, “Language identification in the limit”, *Information and Control*, 10: 447–474.
+* Goldberg, Adele, 1995, *Constructions: A Construction Grammar Approach to Argument Structure*, Chicago: University of Chicago Press.
+* Gray, Russell D., 2005, “Pushing the time barrier in the quest for language roots”, *Science*, 209: 307–308.
+* Gray, Russell D., Drummond, A. J., and Greenhill, S. J., 2009, “Phylogenies reveal expansion pulses and pauses in Pacific settlement”, *Science*, 323: 479–483.
+* Gray, Russell D. and Jordan, Fiona M., 2000, “Language trees support the express-train sequence of Austronesian expansion”, *Nature*, 405: 1052–1055. Minor technical correction noted in *Nature*, 409: 743 (8 February 2001).
+* Greenhill, S. J., Atkinson, Q. D., Meade, A., and Gray, R. D., 2010, “The shape and tempo of language evolution”, *Proceedings of the Royal Society B*, 277: 2443–2450.
+* Harris, Zellig, 1957, “Co-occurrence and transformation in linguistic structure”, *Language*, 33: 283–340.
+* Haspelmath, Martin, 2011, “The indeterminacy of word segmentation and the nature of morphology and syntax”, *Folia Linguistica*, 45(1): 31–80.
+* Hauser, Marc D., Chomsky, Noam, and Fitch, W. Tecumseh, 2002 \[HCF], “The faculty of language: What is it, who has it, and how did it evolve”, *Science*, 298: 1569–1579.
+* Hawthorne, John, and Lepore, Ernest, 2011, “On words”, *The Journal of Philosophy*, 108(9): 447–485.
+* Hellman, Geoffrey, 1989, *Mathematics without Numbers: Towards a Modal-Structural Interpretation*, Oxford: Clarendon Press.
+* Hockett, Charles F., 1968, *The State of the Art*, The Hague: Mouton.
+* Hoijer, Harry, 1954, “The Sapir Whorf hypothesis”, in *Language in Culture*, Harry Hoijer (ed.), Chicago: University of Chicago Press, 92–105.
+* Hopper, Paul and Thompson, Sandra, 1993, “Language universals, discourse pragmatics, and semantics”, *Linguistic Sciences*, 15: 357–376.
+* Horner, Victoria, Whiten, Andrew, Flynn, Emma, and de Waal, Frans B. M., 2006, “Faithful replication of foraging techniques along cultural transmission chains by chimpanzees and children”, *Proceedings of the National Academy of Sciences*, 103: 13878–13883.
+* Hurford, James R., 2000, “Social transmission favours linguistic generalization”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), *The Evolutionary Emergence of Language: Social Function and the Origins of Linguistic Form*, Cambridge: Cambridge University Press, 219–230.
+* Irmak, Nurbay, 2019, “An ontology of words”, *Erkenntnis*, 84(5): 1139–1158.
+* Itkonen, Esa, 1978, *Grammatical Theory and Metascience: A Critical Investigation into the Methodological and Philosophical Foundations of ‘Autonomous’ Linguistics*, Berlin: Walter de Gruyter.
+* –––, 2013, “The philosophy of linguistics”, in Keith Allan (ed.), *The Oxford Handbook of the History of Linguistics*, Oxford: Oxford University Press, 747–774.
+* Jackendoff, Ray S., 2002, *Foundations of Language: Brain, Meaning, Grammar, Evolution*, Oxford: Oxford University Press.
+* –––, 2018, “Representations and Rules of Language”, in *The Philosophy of Daniel Dennett*, B. Huebner (ed.), Oxford University Press, 95–126.
+* Jacobson, Pauline, 1996, “The syntax/semantics interface in categorial grammar”, in *Handbook of Contemporary Semantic Theory*, Shalom Lappin (ed.), Cambridge, Massachusetts: Oxford University Press, 89–116.
+* Jain, Sanjay, Osherson, Daniel N., Royer, James S., and Sharma, Arun, 1999, *Systems That Learn*, Cambridge, Massachusetts: MIT Press, 2nd ed.
+* Johnson, Kent, 2004, “Gold’s theorem and cognitive science”, *Philosophy of Science*, 70(4): 571–592.
+* –––, 2007, “On the systematicity of language and thought”, *Journal of Philosophy*, 101: 111–139.
+* –––, 2015, “Notational variants and invariance in linguistics”, *Mind and Language*, 30(2): 162–186.
+* Joos, Martin (ed.), 1966, *Readings in Linguistics I: The Development of Descriptive Linguistics in America 1925–56*, Chicago, IL: University of Chicago Press, fourth ed.
+* Kaplan, David, 1990, “Words”, *Proceedings of the Aristotelian Society*, 64: 93–119.
+* –––, 2011, “Words on words”, *The Journal of Philosophy*, 108(9): 504–529.
+* Karlsson, Fred, 2007, “Constraints on multiple center-embedding of clauses”, *Journal of Linguistics*, 43(2): 365–392.
+* Katz, Jerrold J., 1980, “Chomsky on meaning”, *Language*, 56(1): 1–41.
+* –––, 1981, *Language and Other Abstract Objects*, Totowa, NJ: Rowman and Littlefield.
+* ––– (ed.), 1985, *Philosophy of Linguistics*, Oxford: Oxford University Press.
+* –––, 1996, “The Unfinished Chomskyan Revolution”, *Mind and Language*, 11(3): 270–294.
+* –––, 1998, *Realistic Rationalism*, Cambridge, Massachusetts: MIT Press.
+* Kay, Paul and Regier, Terry, 2006, “Language, thought and color: Recent developments”, *Trends in Cognitive Sciences*, 10(2): 51–53.
+* Kay, Paul, Berlin, Brent, Maffi, Luisa, Merrifield, William, 2011, *The World Color Survey*, Stanford, Center for the Study of Language and Information.
+* Kirby, Simon, 2001, “Spontaneous evolution of linguistic structure: An iterated learning model of the emergence of regularity and irregularity”, *IEEE Transactions on Evolutionary Computation*, 5(2): 102–110.
+* Kirby, Simon, Cornish, Hannah, and Smith, Kenny, 2008, “Cumulative cultural evolution in the laboratory: An experimental approach to the origins of structure in human language”, *Proceedings of the National Academy of Sciences*, 101(31): 10681–10686.
+* Kousta, S. T., Vinson, D. P., and Vigliocco, G., 2008, “Investigating linguistic relativity through bilingualism: The case of grammatical gender”, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 34(4): 843–858.
+* Labov, William, 1966, *The Social Stratification of English in New York City*, Washington, DC: Center for Applied Linguistics. 2nd edition Cambridge University Press, 2006.
+* –––, 1975, “Empirical foundations of linguistic theory”, in *The Scope of American Linguistics*, R. Austerlitz (ed.), Lisse: Peter de Ridder, 77–133.
+* –––, 1996, “When intuitions fail”, in L. McNair, K. Singer, L. Dobrin, and M. Aucon (eds.), *Papers from the Parasession on Theory and Data in Linguistics*, Chicago: Chicago Linguistic Society, 77–106.
+* Lappin, Shalom and Shieber, Stuart, 2007, “Machine learning theory and practice as a source of insight into universal grammar”, *Journal of Linguistics*, 43: 393–427.
+* Larson, Richard, 1988, “On the double object construction”, *Linguistic Inquiry*, 19: 335–391.
+* Laurence, Stephen and Margolis, Eric, 2001, “The poverty of the stimulus argument”, *British Journal of Philosophy of Science*, 52(2): 217–276.
+* Levelt, W. J. M., 2008, *An Introduction to the Theory of Formal Languages and Automata*, Amsterdam: John Benjamins.
+* Lewis, David, 1969, *Convention: A Philosophical Study*, Cambridge, Massachusetts: Harvard University Press.
+* Li, P. and Gleitman, Lila, 2002, “Turning the tables: Language and spatial reasoning”, *Cognition*, 83: 265–294.
+* Lucy, John, 1996, “The scope of linguistic relativity: An analysis and review of empirical research”, in J. Gumperz and S. Levinson (eds.), *Rethinking Linguistic Relativity*, Cambridge: Cambridge University Press, 37–69.
+* Ludlow, Peter, 2011, *The Philosophy of Generative Linguistics*, Oxford: Oxford University Press.
+* MacWhinney, Brian, 2005, “The emergence of grammar from perspective taking”, in D. Pecher and R. A. Zwaan (eds.), *The Grounding of Cognition*, Cambridge: Cambridge University Press, 198–223.
+* Mallory, Fintan, 2020, “Linguistic types are capacity-individuated action-types”. *Inquiry*, 63(9–10): 1123–1148.
+* Martinet, André, 1960, *Elements of General Linguistics*, London: Faber.
+* Matthews, Robert, 1984, “The plausibility of rationalism”, *Journal of Philosophy*, 81: 492–515. Reprinted in Matthews and Demopoulos (1989), 51–75.
+* –––, 2007, “The case for linguistic nativism”, in *Contemporary Debates in Cognitive Science*, Robert J. Stainton, (ed.), Oxford: Blackwell, 81–96.
+* Matthews, Robert and Demopoulos, William (eds.), 1989, *Learnability and Language Acquisition*, Dordrecht: Foris.
+* Miller, James, 2020, “The ontology of words: Realism, nominalism, and eliminativism”, *Philosophy Compass*, 15(7): e12691.
+* –––, 2021, “A bundle theory of words”, *Synthese*, 198: 5731–5748.
+* Millikan, Ruth Garrett, 2003, “In defense of public language”, in L. M. Antony and N. Hornstein (eds.), *Chomsky and His Critics*, Oxford: Blackwell, 215–237.
+* Montague, Richard, 1974, *Formal Philosophy: Selected Papers of Richard Montague*, New Haven: Yale University Press. Edited by R. Thomason.
+* Morris, Charles, 1938, *Foundations of the Theory of Signs*, Chicago: University of Chicago Press.
+* Napoli, Donna Jo, 1996, *Linguistics: An Introduction*, New York, NY: Oxford University Press.
+* Nefdt, Ryan, 2016, “Languages and other abstract structures”, in *Essays on Linguistic Realism*, C. Behme and M. Neef (eds.), Amsterdam: John Benjamins Publishing, 139–184.
+* –––, 2019a, “The philosophy of linguistics: scientific underpinnings and methodological disputes”, *Philosophy Compass*, 14(12): e12636.
+* –––, 2019b, “The ontology of words: a structural approach”, *Inquiry*, 62(8): 877–911.
+* –––, 2019c, “Infinity and the foundations of linguistics”, *Synthese*, 196: 1671–1711.
+* –––, 2020, “Formal semantics and applied mathematics: an inferential account”, *Journal of Logic, Language and Information*, 29(2): 221–253.
+* –––, 2021, “Structural realism and generative linguistics”, *Synthese*, 199: 3711–3737.
+* Newmeyer, Frederick J., 1986, *Linguistic Theory in America*, New York: Academic Press, 2nd edition.
+* –––, 1991, “Functional explanation in linguistics and the origins of language”, *Language and Communication*, 11(1–2): 3–28.
+* –––, 1998, “On the supposed ‘counterfunctionality’ of universal grammar: Some evolutionary implications”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), *Approaches to the Evolution of Language*, Cambridge: Cambridge University Press, 305–319.
+* –––, 2007, “Commentary on Sam Featherston, ‘Data in generative grammar: The stick and the carrot”’, *Theoretical Linguistics*, 33: 395–399.
+* Newport, Elissa L., 1988, “Constraints on learning and their role in language acquisition: Studies of the acquisition of American sign language”, *Language Sciences*, 10: 147–172.
+* O’Grady, William, 2008, “The emergentist program”, *Lingua*, 118: 447–464.
+* Osherson, Daniel N., Stob, Michael, and Weinstein, Scott, 1984, “Learning theory and natural language”, *Cognition*, 17(1): 1–28. Reprinted in Matthews and Demopoulos (1989), 19–50.
+* Partee, Barbara, 1975, “Montague grammar and transformational grammar”, *Linguistic Inquiry*, 6: 203–300.
+* Pelletier, Francis Jeffry, 1991, “The principle of semantic compositionality”, *Topoi*, 13: 11–24; reprinted, with additions, in S. Davis and B. Gillon, *Semantics: A Reader*, Oxford: Oxford University Press, 2004, pp. 133–156.
+* Penn, Julia, 1972, *Linguistic Relativity versus Innate Ideas: The Origins of the Sapir-Whorf Hypothesis in German Thought*, Paris: Mouton.
+* Phillips, Colin, 2010, “Should we impeach armchair linguists?”, in S. Iwasaki, H. Hoji, P. Clancy, and S.-O. Sohn (eds.), *Japanese-Korean Linguistics 17*, Stanford, CA: CSLI Publications, 49–64.
+* Piattelli-Palmarini, Massimo, 1989, “Evolution, selection, and cognition: From ‘learning’ to parameter setting in biology and the study of language”, *Cognition*, 31: 1–44.
+* Pinker, Steven, 1994, *The Language Instinct: The New Science of Language and Mind*, New York, NY: Morrow Press.
+* –––, 2007, *The Stuff of Thought: Language as a Window into Human Nature*, New York, NY: Viking Penguin.
+* Pinker, Steven and Bloom, Paul, 1990, “Natural language and natural selection”, *Behavioral and Brain Sciences*, 13: 707–726.
+* Pinker, Steven and Jackendoff, Ray S., 2005, “The faculty of language: What’s special about it?”, *Cognition*, 95: 201–236.
+* Postal, Paul, 2003, “Remarks on the foundations of linguistics”, *The Philosophical Forum*, 34: 233–251.
+* Power, Camilla, 1998, “‘Old wives’ tales’: The gossip hypothesis and the reliability of cheap signals”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), *Approaches to the Evolution of Language*, Cambridge: Cambridge University Press, 111–129.
+* Prinz, Jesse, 2002, *Furnishing the Mind: Concepts and Their Perceptual Basis*, Cambridge, Massachusetts: MIT Press.
+* Progovac, Ljiljana, 2015, *Evolutionary syntax* (Oxford Studies in the Evolution of Language), Oxford: Oxford University Press.
+* Pullum, Geoffrey K., 1983, “How many possible human languages are there?”, *Linguistic Inquiry*, 14: 447–467.
+* –––, 2013, “The central question in comparative syntactic metatheory”, *Mind and Language*, 28(4): 492–521.
+* –––, 2019, “Philosophy of linguistics”, in Kelly Michael Becker and Iain Thomson, (eds.), *The Cambridge History of Philosophy, 1945–2015*, Cambridge: Cambridge University Press, 49–59.
+* Pullum, Geoffrey K. and Scholz, Barbara C., 1997, “Theoretical linguistics and the ontology of linguistic structure”, in T. Haukioja, M.-L. Helasvuo, and M. Miestamo, (eds.), *SKY 1997: 1997 Yearbook of the Linguistic Association of Finland*, Turku: Suomen kielitieteelinen yhdistys \[Linguistic Association of Finland], 25–47.
+* –––, 2002, “Empirical assessment of stimulus poverty arguments”, *The Linguistic Review*, 19: 9–50.
+* –––, 2007, “ Systematicity and Natural Language Syntax”, *Croatian Journal of Philosophy*, 21: 375–402.
+* –––, 2010, “Recursion and the infinitude claim”, in *Recursion in Human Language*, Harry van der Hulst (ed.), Berlin: Mouton de Gruyter, no. 104 in Studies in Generative Grammar, 113–138.
+* Putnam, Hilary, 1963, “Probability and confirmation”, in *The Voice of America Forum Lectures* (Philosophy of Science Series, No. 10), Hilary Putnam, (ed.), Washington, D.C.: United States Information Agency. Reprinted in *Mathematics, Matter and Method*, Cambridge: Cambridge University Press, 1975, 293–304.
+* Quine, Willard Van Orman, 1972, “Linguistics and philosophy”, in *Language and Philosophy: A Symposium*, Sidney Hook (ed.), New York: New York University Press, 95–98.
+* –––, 1987, *Quiddities: An Intermittently Philosophical Dictionary*, Cambridge, Massachusetts: Harvard University Press.
+* Rey, Georges, 2006, “The intentional inexistence of language—But not cars”, in R. J. Stainton (ed.), *Contemporary debates in cognitive science*, Oxford: Blackwell, 237–255.
+* –––, 2020, *Representation of Language: philosophical issues in a Chomskyan linguistics*, Oxford: Oxford University Press.
+* Rohde, D. L. T. and Plaut, D. C., 1999, “Language acquisition in the absence of explicit negative evidence: How important is starting small?”, *Cognition*, 72: 67–109.
+* Roland, Doug and Jurafsky, Daniel, 2002, “Verb sense and verb subcategorization probabilities”, in S. Stevenson and P. Merlo (eds.), *The Lexical Basis of Sentence Processing: Formal, Computational, and Experimental Issues*, Amsterdam: John Benjamins, 325–346.
+* Ross, John R., 2010, “The Category Squish: Endstation Hauptwort”, *Cognitive Linguistics Bibliography (CogBib)*, Berlin, Boston: De Gruyter Mouton, 316–339.
+* Sampson, Geoffrey, 2001, *Empirical Linguistics*, London: Continuum Press.
+* –––, 2005, *The Language Instinct Debate*, London: Continuum Press.
+* Santana, Carlos, 2016, “What Is Language?” *Ergo*, 3(19): 501–523.
+* Sapir, Edward, 1921, *Language*, New York, NY: Harcourt.
+* –––, 1929, “The status of linguistics as a science”, *Language*, 5: 207–214. Reprinted in David Mandelbaum (ed.), *Selected Writings of Edward Sapir in Language Culture and Personality*, Berkeley and Los Angeles: University of California Press, 1968, 160–166.
+* Saussure, Ferdinand de, 1916, *Cours de linguistique générale*, Paris and Lausanne: Payot. Edited and published after Saussure’s death by Charles Bally and Albert Sechehaye with the collaboration of Albert Riedlinger. English translation by Roy Harris (1998) in Ferinand de Saussure *Course in General Linguistics*, New York: Open Court.
+* Scholz, Barbara C. and Pullum, Geoffrey K., 2002, “Searching for arguments to support linguistic nativism”, *The Linguistic Review*, 19: 185–223.
+* –––, 2006, “Irrational nativist exuberance”, in *Contemporary Debates in Cognitive Science*, Robert J. Stainton (ed.), Oxford: Basil Blackwell, 59–80.
+* –––, 2007, “Tracking the origins of generative grammar”, *Journal of Linguistics*, 43: 701–723.
+* Schütze, Carson, 1996, *The Empirical Base of Linguistics: Grammaticality Judgments and Linguistic Methodology*, Chicago: University of Chicago Press.
+* Seuren, Pieter A. M., 1998, *Western Linguistics: An Historical Introduction*, Oxford: Blackwell.
+* Shapiro, Stewart, 1997, *Philosophy of Mathematics: Structure and Ontology*, Oxford University Press.
+* Shinohara, Takeshi, 1990, “Inductive inference of monotonic formal systems from positive data”, in S. Arikawa, S. Goto, S. Ohsuga, and T. Yokomori (eds.), *Algorithmic Learning Theory*, Berlin: Springer, 339–351.
+* Skyrms, Brian, 2010, *Signals: Evolution, Learning and Information*, Oxford: Oxford University Press.
+* Slobin, Dan, 1996, “From thought and language to thinking for speaking”, in J. Gumperz and S. Levinson (eds.), *Rethinking Linguistic Relativity*, Cambridge: Cambridge University Press, 70–96.
+* Soames, Scott, 1984, “Linguistics and psychology”, *Linguistics and Philosophy*, 7: 155–179.
+* Sperber, Dan, and Origgi, Gloria, 2010, “A pragmatic perspective on the evolution of language”, in R. K. Larson, V. Déprez, and H. Yamakido (eds.), *The Evolution of Human Language: Biolinguistic Perspectives*, Cambridge: Cambridge University Press, 124–132.
+* Sprouse, Jon, 2011, “A test of the cognitive assumptions of magnitude estimation: Commutativity does not hold for acceptability judgments”, *Language*, 87(2): 274–288.
+* Sprouse, Jon and Almeida, Diogo, 2012, “Assessing the reliability of textbook data in syntax: Adger’s *Core Syntax*”, *Journal of Linguistics*, 48(3): 609–652.
+* Stainton, Robert J. (ed.), 2006, *Contemporary Debates in Cognitive Science*, Oxford: Blackwell.
+* Stainton, Robert J., 2014, “Philosophy of Linguistics”. *Oxford Handbooks Online*, published online July 2014. doi:10.1093/oxfordhb/9780199935314.013.002
+* Steedman, Mark, 2000, *The Syntactic Process*, Cambridge, Massachusetts: MIT Press.
+* –––, 2017, “The emergence of language”, *Mind and Language*, 32(5): 597–590.
+* Szabó, Zoltan, 1999, “Expressions and their representation”, *The Philosophical Quarterly*, 49(195): 145–163.
+* –––, 2015, “Major parts of speech”, *Erkenntnis*, 80: 3–29.
+* Szabolcsi, Anna, 1997, “Strategies for scope taking”, in *Ways of Scope Taking*, Anna Szabolcsi (ed.), Dordrecht: Kluwer, 109–155.
+* Thierry, Guillaume, Athanasopulous, Panos, Wiggett, Alison, Dering, Benjamin, and Kuipers, Jan-Rouke, 2009, “Unconscious effects of language-specific terminology on pre-attentive color perception”, *Proceedings of the National Academy of Sciences*, 106(11): 4567–4570.
+* Tomalin, Marcus, 2006, *Linguistics and the Formal Sciences: The Origins of Generative Grammar*, Cambridge: Cambridge University Press.
+* Tomasello, Michael, 1998, “Introduction”, in *The New Psychology of Language: Cognitive and Functional Approaches to Language Structure*, Michael Tomasello (ed.), Mahwah, NJ: Lawrence Erlbaum.
+* –––, 2003, *Constructing a Language: A Usage-Based Theory of Language Acquisition*, Cambridge, MA: Harvard University Press.
+* –––, 2008, *Origins of Human Communication*, Cambridge, MA: Bradford Books/MIT Press.
+* Tomlin, Russell S., 1990, “Functionalism in second language acquisition”, *Studies in Second Language Acquisition*, 12: 155–177.
+* Valian, Virginia, 1982, “Psycholinguistic experiment and linguistic intuition”, in T. W. Simon and R. J. Scholes (eds.), *Language, Mind, and Brain*, Hillsdale, NJ: Lawrence Erlbaum, 179–188.
+* Van Valin, Robert, 1991, “Functionalist linguistic theory and language acquisition”, *First Language*, 11: 7–40.
+* Voegelin, Carl F. and Harris, Zellig S., 1951, “Methods for determining intelligibility among dialects of natural languages”, *Proceedings of the American Philosophical Society*, 95(3): 322–329.
+* Wasow, Thomas and Arnold, Jennifer, 2005, “Intuitions in linguistic argumentation”, *Lingua*, 115: 1481–1496.
+* Weinreich, Max, 1945, “Der yivo un di problemen fun undzer tsayt”, *Yivo Bleter*, 25: 3–18.
+* Weskott, Thomas and Fanselow, Gisbert, 2011, “On the informativity of different measures of linguistic acceptability”, *Language*, 87(2): 249–273.
+* Weisberg, Michael, 2013, *Simulation and Similarity: Using Models to Understand the World*, New York: Oxford University Press.
+* Wetzel, Linda, 2009, *Types and tokens: An essay on abstract objects*, Boston, MA: MIT Press.
+* Wexler, Kenneth and Culicover, Peter, 1980, *Formal Principles of Language Acquisition*, Cambridge, Massachusetts: MIT Press.
+* Wexler, Kenneth and Hamburger, Henry, 1973, “On the insufficiency of surface data for the learning of transformational languages”, in J. Hintikka, J. Moravcsik, and P. Suppes (eds.), *Approaches to Natural Language*, Dordrecht: Reidel, 16–179.
+* Whorf, Benjamin Lee, 1956, *Language, Thought and Reality*, Cambridge University Press: MIT Press. Edited by John B. Carroll.
+* Worden, Robert, 1998, “The evolution of language from social intelligence”, in J. R. Hurford, M. Studdert-Kennedy, and C. Knight (eds.), *Approaches to the Evolution of Language*, Cambridge: Cambridge University Press, 148–166.
 
 ## Academic Tools
 
@@ -1232,6 +1230,6 @@ The authors are very grateful to the two SEP referees, Tom Wasow and William Sta
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
 Barbara C. Scholz\
-[Francis Jeffry Pelletier](http://www.ualberta.ca/\~francisp/) <[_francisp@ualberta.ca_](mailto:francisp%40ualberta%2eca)>\
-[Geoffrey K. Pullum](http://www.ling.ed.ac.uk/\~gpullum/) <[_pullum@gmail.com_](mailto:pullum%40gmail%2ecom)>\
-[Ryan Nefdt](https://ryannefdt.weebly.com/) <[_ryan.nefdt@uct.ac.za_](mailto:ryan%2enefdt%40uct%2eac%2eza)>
+[Francis Jeffry Pelletier](http://www.ualberta.ca/\~francisp/) <[*francisp@ualberta.ca*](mailto:francisp%40ualberta%2eca)>\
+[Geoffrey K. Pullum](http://www.ling.ed.ac.uk/\~gpullum/) <[*pullum@gmail.com*](mailto:pullum%40gmail%2ecom)>\
+[Ryan Nefdt](https://ryannefdt.weebly.com/) <[*ryan.nefdt@uct.ac.za*](mailto:ryan%2enefdt%40uct%2eac%2eza)>

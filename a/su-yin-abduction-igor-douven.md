@@ -1,6 +1,6 @@
 # 溯因 abduction (Igor Douven)
 
-_首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 月 18 日星期二_
+*首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 月 18 日星期二*
 
 在哲学文献中，“溯因”一词有两个相关但不同的含义。在这两个含义中，该术语指的是某种形式的解释推理。然而，在历史上首次出现的含义中，它指的是解释推理在_生成_假设中的位置，而在现代文献中最常见的含义中，它指的是解释推理在_证明_假设中的位置。在后一种意义上，溯因也经常被称为“最佳解释推断”。
 
@@ -11,8 +11,6 @@ _首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 �
 另请参阅有关[科学发现](https://plato.stanford.edu/entries/scientific-discovery/index.html#DiscAbdu)的条目，特别是有关发现作为溯因的部分。
 
 大多数哲学家都同意，溯因（在推理至最佳解释的意义上）是一种经常被使用的推理类型，无论是在日常生活中还是在科学推理中以某种形式。然而，溯因的确切形式以及规范地位仍然存在争议。本文对比了溯因与其他类型的推理；指出了它在哲学内外的突出用途；考虑了对它的各种或多或少精确的陈述；讨论了它的规范地位；并突出了溯因与贝叶斯证实理论之间可能的联系。
-
-
 
 ***
 
@@ -30,11 +28,11 @@ _首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 �
 
 溯因通常被认为是三种主要推理类型之一，另外两种是演绎和归纳。演绎、归纳和溯因之间的区别对应着必然和非必然推理之间的区别。在演绎推理中，如果推断的前提为真，则推断出的内容是_必然_为真；也就是说，前提的真实性_保证_了结论的真实性。一个熟悉的例子是实例化模式的推理。
 
-> 所有的 _A_ 都是 _B_。
+> 所有的 *A* 都是 *B*。
 
-> _a_ 是一个 _A_。
+> *a* 是一个 *A*。
 
-> 因此，_a_ 是 _B_。
+> 因此，*a* 是 *B*。
 
 但并非所有的推理都是这种类型。例如，考虑从“John 住在切尔西”和“大多数住在切尔西的人都很富有”推导出“John 很富有”的推理。在这里，第一句的真实性并不是由第二和第三句的联合真实性所保证（只是变得可能）。换句话说，前提为真并不一定意味着结论也为真：在前提为真的情况下，John 是切尔西非富有居民中的一员是与之逻辑相容的。关于你根据 Tim 和 Harry 一起慢跑的信息推断他们再次成为朋友的推理也是类似的。也许 Tim 和 Harry 是前商业伙伴，他们仍然有一些财务事项需要讨论，无论他们多么想避免这种情况，并决定将这与他们的日常锻炼结合起来；这与他们坚决决定永不和解是相容的。
 
@@ -54,7 +52,7 @@ _首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 �
 
 ### 1.2 溯因的普遍性
 
-在本条目开头描述的案例中所体现的推理类型，大多数人会觉得非常熟悉。哲学家和心理学家一般都同意，溯因经常被用于日常推理。有时我们对溯因推理的依赖是相当明显和明确的。但在一些日常实践中，它可能如此常规和自动化，以至于很容易被忽视。一个例子可能是我们对他人证词的信任，据说这种信任是建立在溯因推理的基础上的；参见 Harman 1965，Adler 1994，Fricker 1994 和 Lipton 1998，以支持这一说法。例如，根据 Jonathan Adler（1994 年，274 页），“\[t] 信息提供者声称 _P_ 的最佳解释通常是…他有充分负责任的理由相信它，并且…他打算我也相信它”，这就是为什么我们通常有理由相信信息提供者的证词。即使在开始相信一个人的证词时，人们通常似乎并没有意识到自己的头脑中正在进行任何溯因推理，这也可能是正确的。类似的评论也适用于一些人认为溯因在语言实践中发挥了进一步、甚至可能更为基础的作用，即在确定说话者通过话语表达的含义时的作用。具体来说，有人认为解码话语是推断为什么某人在话语所在的语境中说了什么的最佳解释的问题。更具体地说，从事语用学研究的作者们提出，当话语的语义内容对于谈话目的来说信息不足、信息过多、离题、不太可能，或者其他方面不寻常或不恰当时，听话者会援引格莱斯会话准则来帮助他们找出说话者话语的最佳解释；例如，参见 Bach 和 Harnish 1979（92 页），Dascal 1979（167 页）和 Hobbs 2004。与依赖说话者证词的情况一样，所需的溯因推理通常似乎是在潜意识层面上进行的。
+在本条目开头描述的案例中所体现的推理类型，大多数人会觉得非常熟悉。哲学家和心理学家一般都同意，溯因经常被用于日常推理。有时我们对溯因推理的依赖是相当明显和明确的。但在一些日常实践中，它可能如此常规和自动化，以至于很容易被忽视。一个例子可能是我们对他人证词的信任，据说这种信任是建立在溯因推理的基础上的；参见 Harman 1965，Adler 1994，Fricker 1994 和 Lipton 1998，以支持这一说法。例如，根据 Jonathan Adler（1994 年，274 页），“\[t] 信息提供者声称 *P* 的最佳解释通常是…他有充分负责任的理由相信它，并且…他打算我也相信它”，这就是为什么我们通常有理由相信信息提供者的证词。即使在开始相信一个人的证词时，人们通常似乎并没有意识到自己的头脑中正在进行任何溯因推理，这也可能是正确的。类似的评论也适用于一些人认为溯因在语言实践中发挥了进一步、甚至可能更为基础的作用，即在确定说话者通过话语表达的含义时的作用。具体来说，有人认为解码话语是推断为什么某人在话语所在的语境中说了什么的最佳解释的问题。更具体地说，从事语用学研究的作者们提出，当话语的语义内容对于谈话目的来说信息不足、信息过多、离题、不太可能，或者其他方面不寻常或不恰当时，听话者会援引格莱斯会话准则来帮助他们找出说话者话语的最佳解释；例如，参见 Bach 和 Harnish 1979（92 页），Dascal 1979（167 页）和 Hobbs 2004。与依赖说话者证词的情况一样，所需的溯因推理通常似乎是在潜意识层面上进行的。
 
 溯因推理并不局限于日常背景。相反：科学哲学家们认为，溯因是科学方法论的基石；例如，Boyd 1981, 1984，Harré 1986, 1988，Lipton 1991, 2004 和 Psillos 1999。根据 Timothy Williamson（2007），“\[t] 溯因方法论是科学提供的最佳方法”，Ernan McMullin（1992）甚至认为溯因是“推动科学前进的推理”。为了说明溯因在科学中的运用，我们考虑两个例子。
 
@@ -80,17 +78,17 @@ _首次发表于 2011 年 3 月 9 日星期三；实质性修订于 2021 年 5 �
 
 ABD1
 
-鉴于证据 _E_ 和候选解释 _H_1,…, _H\*\*n_ 对 _E_ 的推断，推断出最能解释 _E_ 的 _H\*\*i_ 的真实性。
+鉴于证据 *E* 和候选解释 _H_1,…, *H\*\*n* 对 *E* 的推断，推断出最能解释 *E* 的 *H\*\*i* 的真实性。
 
-经常对这一规则提出的观察指出了可能存在的问题，即它预设了候选解释和最佳解释的概念，这两者都没有直接的解释。虽然一些人仍然希望前者可以用纯逻辑或至少纯形式化的术语来阐明，但人们经常说后者必须诉诸所谓的理论优点，比如简单性、普适性和与成熟理论的一致性；然后，最佳解释将是在这些优点方面总体上表现最好的假设。（例如，参见 Thagard 1978 和 McMullin 1996。）问题在于目前没有一个所说的优点特别被充分理解。（Giere，在 Callebaut（ed.）1993（232）中，甚至做出激进的主张，即理论优点缺乏实质内容，在科学中仅起修辞作用。鉴于最近关于简单性和一致性的形式化工作，例如 Forster 和 Sober 1994，Li 和 Vitanyi 1997 以及 Sober 2015，关于简单性的 Bovens 和 Hartmann 2003 和 Olsson 2005，关于一致性的 Schupbach 和 Sprenger（2011）直接用概率术语提出了解释优势的解释。心理证据对该主张的第二部分提出了质疑；例如，参见 Lombrozo 2007，关于简单性在人们对解释优势的评估中的作用以及 Koslowski _et al_. 2008，关于与背景知识的一致性在这些评估中的作用。）
+经常对这一规则提出的观察指出了可能存在的问题，即它预设了候选解释和最佳解释的概念，这两者都没有直接的解释。虽然一些人仍然希望前者可以用纯逻辑或至少纯形式化的术语来阐明，但人们经常说后者必须诉诸所谓的理论优点，比如简单性、普适性和与成熟理论的一致性；然后，最佳解释将是在这些优点方面总体上表现最好的假设。（例如，参见 Thagard 1978 和 McMullin 1996。）问题在于目前没有一个所说的优点特别被充分理解。（Giere，在 Callebaut（ed.）1993（232）中，甚至做出激进的主张，即理论优点缺乏实质内容，在科学中仅起修辞作用。鉴于最近关于简单性和一致性的形式化工作，例如 Forster 和 Sober 1994，Li 和 Vitanyi 1997 以及 Sober 2015，关于简单性的 Bovens 和 Hartmann 2003 和 Olsson 2005，关于一致性的 Schupbach 和 Sprenger（2011）直接用概率术语提出了解释优势的解释。心理证据对该主张的第二部分提出了质疑；例如，参见 Lombrozo 2007，关于简单性在人们对解释优势的评估中的作用以及 Koslowski *et al*. 2008，关于与背景知识的一致性在这些评估中的作用。）
 
 此外，许多认为溯因走在正确方向上的人认为它太过强大。有些人认为溯因仅支持对最佳解释的_可能_真实性进行推断，另一些人认为它仅支持对最佳解释的_近似_真实性进行推断，还有一些人认为它仅支持对_可能_的_近似_真实性进行推断。
 
-然而，溯因的真正问题比这更深刻。因为溯因是扩张性的——正如前面解释的那样——无论溯因被解释得多么准确，它都不会成为严格逻辑意义上的正确推理规则。然而，只要前提为真，它仍然可以是_可靠_的，因为它在大多数情况下会导致一个真实的结论。ABD1 能够在这种意义上是可靠的一个明显的必要条件是，_大多数情况下_，当_H_最好地解释了_E_，而_E_为真时，_H_也为真（或_H_近似为真，或可能为真，或可能近似为真）。但这对于 ABD1 来说并不足够。因为 ABD1 的前提仅是某个假设是最佳解释证据的_相对于给定集合中的其他假设_。因此，如果这个规则要是可靠的，它必须保持，至少通常情况下，相对于我们考虑的假设集合，最佳解释也将被认为是最佳的，与我们可能构想的任何其他假设相比（但由于缺乏时间或才智，或出于其他原因，我们没有构想）。换句话说，它必须保持，至少通常情况下，证据的_绝对_最佳解释可以在我们提出的候选解释中找到，否则 ABD1 很可能会让我们相信“众坏中的精”（van Fraassen 1989, 143）。
+然而，溯因的真正问题比这更深刻。因为溯因是扩张性的——正如前面解释的那样——无论溯因被解释得多么准确，它都不会成为严格逻辑意义上的正确推理规则。然而，只要前提为真，它仍然可以是_可靠_的，因为它在大多数情况下会导致一个真实的结论。ABD1 能够在这种意义上是可靠的一个明显的必要条件是，*大多数情况下*，当_H_最好地解释了_E_，而_E_为真时，*H_也为真（或_H_近似为真，或可能为真，或可能近似为真）。但这对于 ABD1 来说并不足够。因为 ABD1 的前提仅是某个假设是最佳解释证据的_相对于给定集合中的其他假设*。因此，如果这个规则要是可靠的，它必须保持，至少通常情况下，相对于我们考虑的假设集合，最佳解释也将被认为是最佳的，与我们可能构想的任何其他假设相比（但由于缺乏时间或才智，或出于其他原因，我们没有构想）。换句话说，它必须保持，至少通常情况下，证据的_绝对_最佳解释可以在我们提出的候选解释中找到，否则 ABD1 很可能会让我们相信“众坏中的精”（van Fraassen 1989, 143）。
 
 多么合理地假设这种额外要求通常会被满足呢？很可能根本不会。要相信相反的情况，我们必须假设我们在考虑数据的可能解释时，在某种程度上有一种特权，即我们在某种程度上预先设定了，我们会在这些数据的绝对最佳解释中达成一致。毕竟，我们几乎永远不会考虑过，或者甚至不可能考虑_所有_潜在的解释。正如范弗拉森（1989 年，144 页）指出的那样，认为我们具有这种特权是_a priori_相当不可信的。
 
-作为对此的回应，有人可能会主张，要证明最佳解释总是或大多数情况下都在考虑的假设之中，可以在不必假设某种特权的情况下实现（有关不同回应，请参见 Schupbach 2014，有关讨论，请参见 Dellsén 2017）。因为鉴于我们已经设法提出的假设，我们总是可以生成一组共同穷尽逻辑空间的假设。假设_H_1，...，_H\*\*n_是我们迄今为止能够构想出的候选解释。然后简单地定义_H_n+1 := ¬_H_1 ∧ … ∧ ¬_H\*\*n_，并将这个新假设作为我们已经拥有的候选解释之外的另一个候选解释。显然，集合{_H_1，...，_H_n+1}是穷尽的，因为它的元素之一必须为真。遵循这个本身简单的程序似乎足以确保我们永远不会错过绝对最佳的解释。（有关这方面提议，请参见 Lipton 1993。）
+作为对此的回应，有人可能会主张，要证明最佳解释总是或大多数情况下都在考虑的假设之中，可以在不必假设某种特权的情况下实现（有关不同回应，请参见 Schupbach 2014，有关讨论，请参见 Dellsén 2017）。因为鉴于我们已经设法提出的假设，我们总是可以生成一组共同穷尽逻辑空间的假设。假设_H_1，...，_H\*\*n_是我们迄今为止能够构想出的候选解释。然后简单地定义_H_n+1 := ¬_H_1 ∧ … ∧ ¬*H\*\*n*，并将这个新假设作为我们已经拥有的候选解释之外的另一个候选解释。显然，集合{_H_1，...，_H_n+1}是穷尽的，因为它的元素之一必须为真。遵循这个本身简单的程序似乎足以确保我们永远不会错过绝对最佳的解释。（有关这方面提议，请参见 Lipton 1993。）
 
 哎呀，这里有一个问题。即使可能存在许多假设_H\*\*j_暗示_H_n+1，并且如果它们被提出来，会被评估为比我们最初列出的候选解释中最好的解释更好，_H_n+1 本身通常并不具有信息量；实际上，通常甚至不清楚它的经验后果是什么。例如，假设我们有作为竞争解释的狭义相对论和洛伦兹的以太理论。然后，根据上述建议，我们可以将这两个理论都不正确的假设添加到我们的候选解释中。但是这个进一步的假设肯定会被排名很低作为解释——如果它被排名的话，这似乎是值得怀疑的，因为它的经验后果完全不清楚。这并不是说建议的程序永远不起作用。关键在于通常情况下，它很少能确保最好的解释在我们考虑的候选解释中。
 
@@ -100,7 +98,7 @@ ABD1
 
 ABD2
 
-鉴于证据_E_和候选解释_H_1，...，_H\*\*n_，推断解释_E_最佳的_H\*\*i_的真实性，前提是_H\*\*i_在解释方面是令人满意/足够好的。
+鉴于证据_E_和候选解释_H_1，...，*H\*\*n*，推断解释_E_最佳的_H\*\*i_的真实性，前提是_H\*\*i_在解释方面是令人满意/足够好的。
 
 毋庸置疑，ABD2 需要补充一个关于解释的令人满意或足够好的标准，然而，我们目前仍然缺乏这一点。
 
@@ -108,7 +106,7 @@ ABD2
 
 ABD3
 
-给定证据 _E_ 和候选解释 _H_1,…, _H\*\*n_ 对 _E_ 的解释，如果 _H\*\*i_ 比其他假设更好地解释了 _E_，则推断 _H\*\*i_ 比其他假设更接近真相。
+给定证据 *E* 和候选解释 _H_1,…, *H\*\*n* 对 *E* 的解释，如果 *H\*\*i* 比其他假设更好地解释了 *E*，则推断 *H\*\*i* 比其他假设更接近真相。
 
 显然，溯因需要一个关于接近真相的解释，但今天有许多这样的解释（参见，例如，Niiniluoto 1998）。
 
@@ -180,117 +178,117 @@ Psillos（2000）提出了溯因可能如何补充贝叶斯证实理论的另一
 
 ## Bibliography
 
-* Achinstein, P., 2001. _The Book of Evidence_, Oxford: Oxford University Press.
-* Adler, J., 1994. “Testimony, Trust, Knowing,” _Journal of Philosophy_, 91: 264–275.
-* Bach, K. and Harnish, R., 1979. _Linguistic Communication and Speech Acts_, Cambridge MA: MIT Press.
-* Bird, A., 1998. _Philosophy of Science_, London: UCL Press.
-* Bigelow, J., 2010. “Quine, Mereology, and Inference to the Best Explanation,” _Logique et Analyse_, 212: 465–482.
-* Bovens, L. and Hartmann, S., 2003. “Solving the Riddle of Coherence,” _Mind_, 112: 601–633.
-* Boyd, R., 1981. “Scientific Realism and Naturalistic Epistemology,” in P. Asquith and R. Giere (eds.), _PSA 1980_, (vol. II), East Lansing MI: Philosophy of Science Association, pp. 613–662.
-* –––, 1984. “The Current Status of Scientific Realism,” in J. Leplin (ed.), _Scientific Realism_, Berkeley CA: University of California Press, pp. 41–82.
-* –––, 1985. “Lex Orandi est Lex Credendi,” in P. Churchland and C. Hooker (eds.), _Images of Science_, Chicago IL: University of Chicago Press, pp. 3–34.
-* Brem, S. and Rips, L. J., 2000. “Explanation and Evidence in Informal Argument,” _Cognitive Science_, 24: 573–604.
-* Callebaut, W. (ed.), 1993. _Taking the Naturalistic Turn_, Chicago IL: University of Chicago Press.
-* Campos, D., 2011. “On the Distinction Between Peirce’s Abduction and Lipton’s Inference to the Best Explanation,” _Synthese_, 180: 419–442.
-* Climenhaga, N., forthcoming. “Inference to the Best Explanation Made Incoherent,” _Journal of Philosophy_, [preprint available online](http://philsci-archive.pitt.edu/12756/1/IBE%20Made%20Incoherent.pdf).
-* Dascal, M., 1979. “Conversational Relevance,” in A. Margalit (ed.), _Meaning and Use_, Dordrecht: Reidel, pp. 153–174.
-* Dellsén, F., 2017. “Reactionary Responses to the Bad Lot Objection,” _Studies in History and Philosophy of Science_, 61: 32–40.
-* –––, 2018. “The Heuristic Conception of Inference to the Best Explanation,” _Philosophical Studies_, 175: 1745–1766.
-* Douven, I., 1999. “Inference to the Best Explanation Made Coherent,” _Philosophy_, _of Science_, 66: S424–S435.
-* –––, 2002. “Testing Inference to the Best Explanation,” _Synthese_, 130: 355–377.
-* –––, 2008. “Underdetermination,” in S. Psillos and M. Curd (eds.), _The Routledge Companion to the Philosophy of Science_, London: Routledge, pp. 292–301.
-* –––, 2013. “Inference to the Best Explanation, Dutch Books, and Inaccuracy Minimisation,” _Philosophical Quarterly_, 63: 428–444.
-* –––, 2016a. _The Epistemology of Indicative Conditionals_, Cambridge: Cambridge University Press.
-* –––, 2016b. “Explanation, Updating, and Accuracy,” _Journal of Cognitive Psychology_, 28: 1004–1012.
-* –––, 2017. “What Is Inference to the Best Explanation? And Why Should We Care?” in T. Poston and K. McCain (eds.), _Best Explanations: New Essays on Inference to the Best Explanation_, Oxford: Oxford University Press, pp. 4–22.
-* –––, 2020. “The Ecological Rationality of Explanatory Reasoning,” _Studies in History and Philosophy of Science_, 79: 1–14.
-* –––, forthcoming. _The Art of Abduction_, Cambridge MA: MIT Press.
-* Douven, I. and Mirabile, P., 2018. “Best, Second-best, and Good-enough Explanations: How They Matter to Reasoning,” _Journal of Experimental Psychology: Language, Memory, and Cognition_, 44: 1792–1813.
-* Douven, I. and Schupbach, J., 2015a. “The Role of Explanatory Considerations in Updating,” _Cognition_, 142: 299–311.
-* –––, 2015b. “Probabilistic Alternatives to Bayesianism: The Case of Explanationism,” _Frontiers in Psychology_, 6: 459. doi:10.3389/fpsyg.2015.00459
-* Douven, I. and Wenmackers, S., 2017. “Inference to the Best Explanation versus Bayes’s Rule in a Social Setting,” _British Journal for the Philosophy of Science_, 68: 535–570.
-* Dragulinescu, S., 2016. “Inference to the Best Explanation and Mechanisms in Medicine,” _Theoretical Medicine and Bioethics_, 37(3): 211–232.
-* Fann, K. T., 1970. _Peirce’s Theory of Abduction_, The Hague: Martinus Nijhoff.
-* Fine, A., 1984. “The Natural Ontological Attitude,” in J. Leplin (ed.), _Scientific Realism_, Berkeley CA: University of California Press, pp. 83–107.
-* Foley, R., 1992. “The Epistemology of Belief and the Epistemology of Degrees of Belief,” _American Philosophical Quarterly_, 29: 111–124.
-* Folina, J., 2016. “Realism, Skepticism, and the Brain in a Vat,” in S. Goldberg (ed.), _The Brain in a Vat_, Cambridge: Cambridge University Press, pp. 155–173.
-* Forster, M. and Sober, E., 1994. “How to Tell when Simpler, More Unified, or Less _Ad Hoc_, Theories will Provide More Accurate Predictions,” _British Journal for the Philosophy of Science_, 45: 1–36.
-* Frankfurt, H., 1958. “Peirce’s Notion of Abduction,” _Journal of Philosophy_, 55: 593–596.
-* Fricker, E., 1994. “Against Gullibility,” in B. K. Matilal and A. Chakrabarti (eds.), _Knowing from Words_, Dordrecht: Kluwer, pp. 125–161.
-* Goldman, A., 1988. _Empirical Knowledge_, Berkeley CA: University of California Press.
-* Hájek, A., 2003. “What Conditional Probability Could Not Be,” _Synthese_, 137: 273–323.
-* Harman, G., 1965. “The Inference to the Best Explanation,” _Philosophical Review_, 74: 88–95.
-* –––, 1973. _Thought_, Princeton NJ: Princeton University Press.
-* –––, 1997. “Pragmatism and Reasons for Belief,” in C. Kulp (ed.), _Realism/Antirealism and Epistemology_, Totowa NJ: Rowman and Littlefield, pp. 123–147.
-* Harré, R., 1986. _Varieties of Realism_, Oxford: Blackwell.
-* –––, 1988. “Realism and Ontology,” _Philosophia Naturalis_, 25: 386–398.
-* Hobbs, J. R., 2004. “Abduction in Natural Language Understanding,” in L. Horn and G. Ward (eds.), _The Handbook of Pragmatics_, Oxford: Blackwell, pp. 724–741.
-* Janssen, M., 2002. “Reconsidering a Scientific Revolution: The Case of Einstein _versus_, Lorentz,” _Physics in Perspective_, 4: 421–446.
-* Josephson, J. R. and Josephson, S. G. (eds.), 1994. _Abductive Inference_, Cambridge: Cambridge University Press.
-* Kitcher, P., 2001. “Real Realism: The Galilean Strategy,” _Philosophical Review_, 110: 151–197.
-* Koehler, D. J., 1991. “Explanation, Imagination, and Confidence in Judgment,” _Psychological Bulletin_, 110: 499–519.
-* Koslowski, B., Marasia, J., Chelenza, M., and Dublin, R., 2008. “Information Becomes Evidence when an Explanation Can Incorporate it into a Causal Framework,” _Cognitive Development_, 23: 472–487.
-* Kosso, P., 1992. _Reading the Book of Nature_, Cambridge: Cambridge University Press.
-* Krzyżanowska, K, Wenmackers, S., and Douven, I., 2014. “Rethinking Gibbard’s Riverboat Argument,” _Studia Logica_, 102: 771–792.
-* Kuipers, T., 1984. “Approaching the Truth with the Rule of Success,” _Philosophia_, _Naturalis_, 21: 244–253.
-* –––, 1992. “Naive and Refined Truth Approximation,” _Synthese_, 93: 299–341.
-* –––, 2000. _From Instrumentalism to Constructive Realism_, Dordrecht: Kluwer.
-* Kvanvig, J., 1994. “A Critique of van Fraassen’s Voluntaristic Epistemology,” _Synthese_, 98: 325–348.
-* Kyburg Jr., H., 1990. _Science and Reason_, Oxford: Oxford University Press.
-* Laudan, L., 1981. “A Confutation of Convergent Realism,” _Philosophy of Science_, 48: 19–49.
-* Lewis, D., 1980. “A Subjectivist’s Guide to Objective Chance,” in R. Jeffrey (ed.), _Studies in Inductive Logic and Probability_, Berkeley CA: University of California Press, pp. 263–293.
-* Li, M. and Vitanyi, P., 1997. _An Introduction to Kolmogorov Complexity and its Applications_, New York: Springer.
-* Lipton, P., 1991. _Inference to the Best Explanation_, London: Routledge.
-* –––, 1993. “Is the Best Good Enough?” _Proceedings of the Aristotelian Society_, 93: 89–104.
-* –––, 1998. “The Epistemology of Testimony,” _Studies in History and Philosophy of Science_, 29: 1–31.
-* –––, 2004. _Inference to the Best Explanation_, (2nd ed.), London: Routledge.
-* Lombrozo, T., 2007. “Simplicity and Probability in Causal Explanation,” _Cognitive Psychology_, 55: 232–257.
-* –––, 2012. “Explanation and Abductive Inference,” in K. Holyoak and R. Morrison (eds.), _Oxford Handbook of Thinking and Reasoning_, Oxford: Oxford University Press, pp. 260–276.
-* –––, 2016. “Explanatory Preferences Shape Learning and Inference,” _Trends in Cognitive Sciences_, 20: 748–759.
-* Lombrozo, T. and Gwynne, N. Z., 2014. “Explanation and Inference: Mechanistic and Functional Explanations Guide Property Generalization,” _Frontiers in Human Neuroscience_, 8. doi:10.3389/fnhum.2014.00700
-* Maher, P., 1992. “Diachronic Rationality,” _Philosophy of Science_, 59: 120–141.
-* McAuliffe, W., 2015. “How Did Abduction Get Confused with Inference to the Best Explanation?” _Transactions of the Charles S. Peirce Society_, 51: 300–319.
-* McCain, K. and Poston, T., 2014. “Why Explanatoriness is Evidentially Relevant,” _Thought_, 3: 145–153.
-* McGrew, T., 2003. “Confirmation, Heuristics, and Explanatory Reasoning,” _British Journal for the Philosophy of Science_, 54: 553–567.
-* McMullin, E., 1992. _The Inference that Makes Science_, Milwaukee WI: Marquette University Press.
-* –––, 1996. “Epistemic Virtue and Theory Appraisal,” in I. Douven and L. Horsten (eds.), _Realism in the Sciences_, Leuven: Leuven University Press, pp. 13–34.
-* Moore, G. E., 1962. “Proof of an External World,” in his _Philosophical Papers_, New York: Collier Books, pp. 126–149.
-* Moser, P., 1989. _Knowledge and Evidence_, Cambridge: Cambridge University Press.
-* Musgrave, A., 1988. “The Ultimate Argument for Scientific Realism,” in R. Nola (ed.), _Relativism and Realism in Science_, Dordrecht: Kluwer, pp. 229–252.
-* Niiniluoto, I., 1998. “Verisimilitude: The Third Period,” _British Journal for the Philosophy of Science_, 49: 1–29.
-* –––, 1999. “Defending Abduction,” _Philosophy of Science_, 66: S436–S451.
-* Okasha, S., 2000. “Van Fraassen’s Critique of Inference to the Best Explanation,” _Studies in History and Philosophy of Science_, 31: 691–710.
-* Olsson, E., 2005. _Against Coherence_, Oxford: Oxford University Press.
-* Pargetter, R., 1984. “The Scientific Inference to Other Minds,” _Australasian Journal of Philosophy_, 62: 158–163.
-* Peirce, C. S. \[**CP**]. _Collected Papers of Charles Sanders Peirce_, edited by C. Hartshorne, P. Weiss, and A. Burks, 1931–1958, Cambridge MA: Harvard University Press.
-* Poston, T., 2014. _Reason and Explanation_, Basingstoke: Palgrave Macmillan.
-* Psillos, S., 1999. _Scientific Realism: How Science Tracks Truth_, London: Routledge.
-* –––, 2000. “Abduction: Between Conceptual Richness and Computational Complexity,” in A. K. Kakas and P. Flach (eds.), _Abduction and Induction: Essays on their Relation and Integration_, Dordrecht: Kluwer, pp. 59–74.
-* –––, 2004. “Inference to the Best Explanation and Bayesianism,” in F. Stadler (ed.), _Induction and Deduction in the Sciences_, Dordrecht: Kluwer, pp. 83–91.
-* Putnam, H., 1981. _Reason, Truth and History_, Cambridge: Cambridge University Press.
-* Roche, W. and Sober, E., 2013. “Explanatoriness is Evidentially Irrelevant, or Inference to the Best Explanation Meets Bayesian Confirmation Theory,” _Analysis_, 73: 659–668
-* –––, 2014. “Explanatoriness and Evidence: A Reply to McCain and Poston,” _Thought_, 3: 193–199.
-* Russell, B., 1912. _The Problems of Philosophy_, Oxford: Oxford University Press.
-* Schupbach, J., 2014. “Is the Bad Lot Objection Just Misguided?” _Erkenntnis_, 79: 55–64.
-* Schupbach, J. and Sprenger, J., 2011. “The Logic of Explanatory Power,” _Philosophy of Science_, 78: 105–127.
-* Schurz, G., 2008. “Patterns of Abduction,” _Synthese_, 164: 201–234.
-* Shalkowski, S., 2010. “IBE, GMR, and Metaphysical Projects,” in B. Hale and A. Hoffmann (eds.), _Modality: Metaphysics, Logic, and Epistemology_, Oxford: Oxford University Press, pp. 169–187.
-* Skyrms, B., 1993. “A Mistake in Dynamic Coherence Arguments?” _Philosophy of Science_, 60: 320–328.
-* Sloman, S., 1994. “When Explanations Compete: The Role of Explanatory Coherence on Judgments of Likelihood,” _Cognition_, 52: 1–21.
-* Sober, E., 2015. _Ockham’s Razor: A User’s Manual_, Cambridge: Cambridge University Press.
-* Stanford, K., 2009. “Underdetermination of Scientific Theory,” in _Stanford Encyclopedia of Philosophy_ (Winter 2009 Edition), Edward N. Zalta (ed.), URL = <[Underdetermination of Scientific Theory (Stanford Encyclopedia of Philosophy/Winter 2009 Edition)](https://plato.stanford.edu/archives/win2009/entries/scientific-underdetermination/)>.
-* Teller, P., 1973. “Conditionalization and Observation,” _Synthese_, 26: 218–258.
-* Thagard, P., 1978. “The Best Explanation: Criteria for Theory Choice,” _Journal of Philosophy_, 75: 76–92.
-* van Fraassen, B., 1980. _The Scientific Image_, Oxford: Oxford University Press.
-* –––, 1983. “Glymour on Evidence and Explanation,” in J. Earman (ed.), _Testing Scientific Theories_, Minneapolis: University of Minnesota Press, pp. 165–176.
-* –––, 1985. “Empiricism in the Philosophy of Science,” in P. Churchland and C. Hooker (eds.), _Images of Science_, Chicago IL: University of Chicago Press, pp. 245–308.
-* –––, 1989. _Laws and Symmetry_, Oxford: Oxford University Press.
-* Vogel, J., 1990. “Cartesian Skepticism and Inference to the Best Explanation,” _Journal of Philosophy_, 87: 658–666.
-* –––, 2005. “The Refutation of Skepticism,” in M. Steup and E. Sosa (eds.), _Contemporary Debates in Epistemology_, Oxford: Blackwell Publishing, pp. 72–84.
-* Weintraub, R., 2013. “Induction and Inference to the Best Explanation,” _Philosophical Studies_, 166: 203–216.
-* Weisberg, J., 2009. “Locating IBE in the Bayesian Framework,” _Synthese_, 167: 125–143.
-* Williams, J. and Lombrozo, T., 2010. “The Role of Explanation in Discovery and Generalization: Evidence from Category Learning,” _Cognitive Science_, 34: 776–806.
-* Williamson, T., 2017. “Semantic Paradoxes and Abductive Methodology,” in B. Armour-Garb (ed.), _Reflections on the Liar_, Oxford: Oxford University Press, pp. 325–346.
+* Achinstein, P., 2001. *The Book of Evidence*, Oxford: Oxford University Press.
+* Adler, J., 1994. “Testimony, Trust, Knowing,” *Journal of Philosophy*, 91: 264–275.
+* Bach, K. and Harnish, R., 1979. *Linguistic Communication and Speech Acts*, Cambridge MA: MIT Press.
+* Bird, A., 1998. *Philosophy of Science*, London: UCL Press.
+* Bigelow, J., 2010. “Quine, Mereology, and Inference to the Best Explanation,” *Logique et Analyse*, 212: 465–482.
+* Bovens, L. and Hartmann, S., 2003. “Solving the Riddle of Coherence,” *Mind*, 112: 601–633.
+* Boyd, R., 1981. “Scientific Realism and Naturalistic Epistemology,” in P. Asquith and R. Giere (eds.), *PSA 1980*, (vol. II), East Lansing MI: Philosophy of Science Association, pp. 613–662.
+* –––, 1984. “The Current Status of Scientific Realism,” in J. Leplin (ed.), *Scientific Realism*, Berkeley CA: University of California Press, pp. 41–82.
+* –––, 1985. “Lex Orandi est Lex Credendi,” in P. Churchland and C. Hooker (eds.), *Images of Science*, Chicago IL: University of Chicago Press, pp. 3–34.
+* Brem, S. and Rips, L. J., 2000. “Explanation and Evidence in Informal Argument,” *Cognitive Science*, 24: 573–604.
+* Callebaut, W. (ed.), 1993. *Taking the Naturalistic Turn*, Chicago IL: University of Chicago Press.
+* Campos, D., 2011. “On the Distinction Between Peirce’s Abduction and Lipton’s Inference to the Best Explanation,” *Synthese*, 180: 419–442.
+* Climenhaga, N., forthcoming. “Inference to the Best Explanation Made Incoherent,” *Journal of Philosophy*, [preprint available online](http://philsci-archive.pitt.edu/12756/1/IBE%20Made%20Incoherent.pdf).
+* Dascal, M., 1979. “Conversational Relevance,” in A. Margalit (ed.), *Meaning and Use*, Dordrecht: Reidel, pp. 153–174.
+* Dellsén, F., 2017. “Reactionary Responses to the Bad Lot Objection,” *Studies in History and Philosophy of Science*, 61: 32–40.
+* –––, 2018. “The Heuristic Conception of Inference to the Best Explanation,” *Philosophical Studies*, 175: 1745–1766.
+* Douven, I., 1999. “Inference to the Best Explanation Made Coherent,” *Philosophy*, *of Science*, 66: S424–S435.
+* –––, 2002. “Testing Inference to the Best Explanation,” *Synthese*, 130: 355–377.
+* –––, 2008. “Underdetermination,” in S. Psillos and M. Curd (eds.), *The Routledge Companion to the Philosophy of Science*, London: Routledge, pp. 292–301.
+* –––, 2013. “Inference to the Best Explanation, Dutch Books, and Inaccuracy Minimisation,” *Philosophical Quarterly*, 63: 428–444.
+* –––, 2016a. *The Epistemology of Indicative Conditionals*, Cambridge: Cambridge University Press.
+* –––, 2016b. “Explanation, Updating, and Accuracy,” *Journal of Cognitive Psychology*, 28: 1004–1012.
+* –––, 2017. “What Is Inference to the Best Explanation? And Why Should We Care?” in T. Poston and K. McCain (eds.), *Best Explanations: New Essays on Inference to the Best Explanation*, Oxford: Oxford University Press, pp. 4–22.
+* –––, 2020. “The Ecological Rationality of Explanatory Reasoning,” *Studies in History and Philosophy of Science*, 79: 1–14.
+* –––, forthcoming. *The Art of Abduction*, Cambridge MA: MIT Press.
+* Douven, I. and Mirabile, P., 2018. “Best, Second-best, and Good-enough Explanations: How They Matter to Reasoning,” *Journal of Experimental Psychology: Language, Memory, and Cognition*, 44: 1792–1813.
+* Douven, I. and Schupbach, J., 2015a. “The Role of Explanatory Considerations in Updating,” *Cognition*, 142: 299–311.
+* –––, 2015b. “Probabilistic Alternatives to Bayesianism: The Case of Explanationism,” *Frontiers in Psychology*, 6: 459. doi:10.3389/fpsyg.2015.00459
+* Douven, I. and Wenmackers, S., 2017. “Inference to the Best Explanation versus Bayes’s Rule in a Social Setting,” *British Journal for the Philosophy of Science*, 68: 535–570.
+* Dragulinescu, S., 2016. “Inference to the Best Explanation and Mechanisms in Medicine,” *Theoretical Medicine and Bioethics*, 37(3): 211–232.
+* Fann, K. T., 1970. *Peirce’s Theory of Abduction*, The Hague: Martinus Nijhoff.
+* Fine, A., 1984. “The Natural Ontological Attitude,” in J. Leplin (ed.), *Scientific Realism*, Berkeley CA: University of California Press, pp. 83–107.
+* Foley, R., 1992. “The Epistemology of Belief and the Epistemology of Degrees of Belief,” *American Philosophical Quarterly*, 29: 111–124.
+* Folina, J., 2016. “Realism, Skepticism, and the Brain in a Vat,” in S. Goldberg (ed.), *The Brain in a Vat*, Cambridge: Cambridge University Press, pp. 155–173.
+* Forster, M. and Sober, E., 1994. “How to Tell when Simpler, More Unified, or Less *Ad Hoc*, Theories will Provide More Accurate Predictions,” *British Journal for the Philosophy of Science*, 45: 1–36.
+* Frankfurt, H., 1958. “Peirce’s Notion of Abduction,” *Journal of Philosophy*, 55: 593–596.
+* Fricker, E., 1994. “Against Gullibility,” in B. K. Matilal and A. Chakrabarti (eds.), *Knowing from Words*, Dordrecht: Kluwer, pp. 125–161.
+* Goldman, A., 1988. *Empirical Knowledge*, Berkeley CA: University of California Press.
+* Hájek, A., 2003. “What Conditional Probability Could Not Be,” *Synthese*, 137: 273–323.
+* Harman, G., 1965. “The Inference to the Best Explanation,” *Philosophical Review*, 74: 88–95.
+* –––, 1973. *Thought*, Princeton NJ: Princeton University Press.
+* –––, 1997. “Pragmatism and Reasons for Belief,” in C. Kulp (ed.), *Realism/Antirealism and Epistemology*, Totowa NJ: Rowman and Littlefield, pp. 123–147.
+* Harré, R., 1986. *Varieties of Realism*, Oxford: Blackwell.
+* –––, 1988. “Realism and Ontology,” *Philosophia Naturalis*, 25: 386–398.
+* Hobbs, J. R., 2004. “Abduction in Natural Language Understanding,” in L. Horn and G. Ward (eds.), *The Handbook of Pragmatics*, Oxford: Blackwell, pp. 724–741.
+* Janssen, M., 2002. “Reconsidering a Scientific Revolution: The Case of Einstein *versus*, Lorentz,” *Physics in Perspective*, 4: 421–446.
+* Josephson, J. R. and Josephson, S. G. (eds.), 1994. *Abductive Inference*, Cambridge: Cambridge University Press.
+* Kitcher, P., 2001. “Real Realism: The Galilean Strategy,” *Philosophical Review*, 110: 151–197.
+* Koehler, D. J., 1991. “Explanation, Imagination, and Confidence in Judgment,” *Psychological Bulletin*, 110: 499–519.
+* Koslowski, B., Marasia, J., Chelenza, M., and Dublin, R., 2008. “Information Becomes Evidence when an Explanation Can Incorporate it into a Causal Framework,” *Cognitive Development*, 23: 472–487.
+* Kosso, P., 1992. *Reading the Book of Nature*, Cambridge: Cambridge University Press.
+* Krzyżanowska, K, Wenmackers, S., and Douven, I., 2014. “Rethinking Gibbard’s Riverboat Argument,” *Studia Logica*, 102: 771–792.
+* Kuipers, T., 1984. “Approaching the Truth with the Rule of Success,” *Philosophia*, *Naturalis*, 21: 244–253.
+* –––, 1992. “Naive and Refined Truth Approximation,” *Synthese*, 93: 299–341.
+* –––, 2000. *From Instrumentalism to Constructive Realism*, Dordrecht: Kluwer.
+* Kvanvig, J., 1994. “A Critique of van Fraassen’s Voluntaristic Epistemology,” *Synthese*, 98: 325–348.
+* Kyburg Jr., H., 1990. *Science and Reason*, Oxford: Oxford University Press.
+* Laudan, L., 1981. “A Confutation of Convergent Realism,” *Philosophy of Science*, 48: 19–49.
+* Lewis, D., 1980. “A Subjectivist’s Guide to Objective Chance,” in R. Jeffrey (ed.), *Studies in Inductive Logic and Probability*, Berkeley CA: University of California Press, pp. 263–293.
+* Li, M. and Vitanyi, P., 1997. *An Introduction to Kolmogorov Complexity and its Applications*, New York: Springer.
+* Lipton, P., 1991. *Inference to the Best Explanation*, London: Routledge.
+* –––, 1993. “Is the Best Good Enough?” *Proceedings of the Aristotelian Society*, 93: 89–104.
+* –––, 1998. “The Epistemology of Testimony,” *Studies in History and Philosophy of Science*, 29: 1–31.
+* –––, 2004. *Inference to the Best Explanation*, (2nd ed.), London: Routledge.
+* Lombrozo, T., 2007. “Simplicity and Probability in Causal Explanation,” *Cognitive Psychology*, 55: 232–257.
+* –––, 2012. “Explanation and Abductive Inference,” in K. Holyoak and R. Morrison (eds.), *Oxford Handbook of Thinking and Reasoning*, Oxford: Oxford University Press, pp. 260–276.
+* –––, 2016. “Explanatory Preferences Shape Learning and Inference,” *Trends in Cognitive Sciences*, 20: 748–759.
+* Lombrozo, T. and Gwynne, N. Z., 2014. “Explanation and Inference: Mechanistic and Functional Explanations Guide Property Generalization,” *Frontiers in Human Neuroscience*, 8. doi:10.3389/fnhum.2014.00700
+* Maher, P., 1992. “Diachronic Rationality,” *Philosophy of Science*, 59: 120–141.
+* McAuliffe, W., 2015. “How Did Abduction Get Confused with Inference to the Best Explanation?” *Transactions of the Charles S. Peirce Society*, 51: 300–319.
+* McCain, K. and Poston, T., 2014. “Why Explanatoriness is Evidentially Relevant,” *Thought*, 3: 145–153.
+* McGrew, T., 2003. “Confirmation, Heuristics, and Explanatory Reasoning,” *British Journal for the Philosophy of Science*, 54: 553–567.
+* McMullin, E., 1992. *The Inference that Makes Science*, Milwaukee WI: Marquette University Press.
+* –––, 1996. “Epistemic Virtue and Theory Appraisal,” in I. Douven and L. Horsten (eds.), *Realism in the Sciences*, Leuven: Leuven University Press, pp. 13–34.
+* Moore, G. E., 1962. “Proof of an External World,” in his *Philosophical Papers*, New York: Collier Books, pp. 126–149.
+* Moser, P., 1989. *Knowledge and Evidence*, Cambridge: Cambridge University Press.
+* Musgrave, A., 1988. “The Ultimate Argument for Scientific Realism,” in R. Nola (ed.), *Relativism and Realism in Science*, Dordrecht: Kluwer, pp. 229–252.
+* Niiniluoto, I., 1998. “Verisimilitude: The Third Period,” *British Journal for the Philosophy of Science*, 49: 1–29.
+* –––, 1999. “Defending Abduction,” *Philosophy of Science*, 66: S436–S451.
+* Okasha, S., 2000. “Van Fraassen’s Critique of Inference to the Best Explanation,” *Studies in History and Philosophy of Science*, 31: 691–710.
+* Olsson, E., 2005. *Against Coherence*, Oxford: Oxford University Press.
+* Pargetter, R., 1984. “The Scientific Inference to Other Minds,” *Australasian Journal of Philosophy*, 62: 158–163.
+* Peirce, C. S. \[**CP**]. *Collected Papers of Charles Sanders Peirce*, edited by C. Hartshorne, P. Weiss, and A. Burks, 1931–1958, Cambridge MA: Harvard University Press.
+* Poston, T., 2014. *Reason and Explanation*, Basingstoke: Palgrave Macmillan.
+* Psillos, S., 1999. *Scientific Realism: How Science Tracks Truth*, London: Routledge.
+* –––, 2000. “Abduction: Between Conceptual Richness and Computational Complexity,” in A. K. Kakas and P. Flach (eds.), *Abduction and Induction: Essays on their Relation and Integration*, Dordrecht: Kluwer, pp. 59–74.
+* –––, 2004. “Inference to the Best Explanation and Bayesianism,” in F. Stadler (ed.), *Induction and Deduction in the Sciences*, Dordrecht: Kluwer, pp. 83–91.
+* Putnam, H., 1981. *Reason, Truth and History*, Cambridge: Cambridge University Press.
+* Roche, W. and Sober, E., 2013. “Explanatoriness is Evidentially Irrelevant, or Inference to the Best Explanation Meets Bayesian Confirmation Theory,” *Analysis*, 73: 659–668
+* –––, 2014. “Explanatoriness and Evidence: A Reply to McCain and Poston,” *Thought*, 3: 193–199.
+* Russell, B., 1912. *The Problems of Philosophy*, Oxford: Oxford University Press.
+* Schupbach, J., 2014. “Is the Bad Lot Objection Just Misguided?” *Erkenntnis*, 79: 55–64.
+* Schupbach, J. and Sprenger, J., 2011. “The Logic of Explanatory Power,” *Philosophy of Science*, 78: 105–127.
+* Schurz, G., 2008. “Patterns of Abduction,” *Synthese*, 164: 201–234.
+* Shalkowski, S., 2010. “IBE, GMR, and Metaphysical Projects,” in B. Hale and A. Hoffmann (eds.), *Modality: Metaphysics, Logic, and Epistemology*, Oxford: Oxford University Press, pp. 169–187.
+* Skyrms, B., 1993. “A Mistake in Dynamic Coherence Arguments?” *Philosophy of Science*, 60: 320–328.
+* Sloman, S., 1994. “When Explanations Compete: The Role of Explanatory Coherence on Judgments of Likelihood,” *Cognition*, 52: 1–21.
+* Sober, E., 2015. *Ockham’s Razor: A User’s Manual*, Cambridge: Cambridge University Press.
+* Stanford, K., 2009. “Underdetermination of Scientific Theory,” in *Stanford Encyclopedia of Philosophy* (Winter 2009 Edition), Edward N. Zalta (ed.), URL = <[Underdetermination of Scientific Theory (Stanford Encyclopedia of Philosophy/Winter 2009 Edition)](https://plato.stanford.edu/archives/win2009/entries/scientific-underdetermination/)>.
+* Teller, P., 1973. “Conditionalization and Observation,” *Synthese*, 26: 218–258.
+* Thagard, P., 1978. “The Best Explanation: Criteria for Theory Choice,” *Journal of Philosophy*, 75: 76–92.
+* van Fraassen, B., 1980. *The Scientific Image*, Oxford: Oxford University Press.
+* –––, 1983. “Glymour on Evidence and Explanation,” in J. Earman (ed.), *Testing Scientific Theories*, Minneapolis: University of Minnesota Press, pp. 165–176.
+* –––, 1985. “Empiricism in the Philosophy of Science,” in P. Churchland and C. Hooker (eds.), *Images of Science*, Chicago IL: University of Chicago Press, pp. 245–308.
+* –––, 1989. *Laws and Symmetry*, Oxford: Oxford University Press.
+* Vogel, J., 1990. “Cartesian Skepticism and Inference to the Best Explanation,” *Journal of Philosophy*, 87: 658–666.
+* –––, 2005. “The Refutation of Skepticism,” in M. Steup and E. Sosa (eds.), *Contemporary Debates in Epistemology*, Oxford: Blackwell Publishing, pp. 72–84.
+* Weintraub, R., 2013. “Induction and Inference to the Best Explanation,” *Philosophical Studies*, 166: 203–216.
+* Weisberg, J., 2009. “Locating IBE in the Bayesian Framework,” *Synthese*, 167: 125–143.
+* Williams, J. and Lombrozo, T., 2010. “The Role of Explanation in Discovery and Generalization: Evidence from Category Learning,” *Cognitive Science*, 34: 776–806.
+* Williamson, T., 2017. “Semantic Paradoxes and Abductive Methodology,” in B. Armour-Garb (ed.), *Reflections on the Liar*, Oxford: Oxford University Press, pp. 325–346.
 
 ## Academic Tools
 
@@ -309,4 +307,4 @@ Psillos（2000）提出了溯因可能如何补充贝叶斯证实理论的另一
 [epistemology: Bayesian](https://plato.stanford.edu/entries/epistemology-bayesian/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [Peirce, Charles Sanders](https://plato.stanford.edu/entries/peirce/) | [scientific explanation](https://plato.stanford.edu/entries/scientific-explanation/) | [scientific realism](https://plato.stanford.edu/entries/scientific-realism/) | [simplicity](https://plato.stanford.edu/entries/simplicity/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [underdetermination, of scientific theories](https://plato.stanford.edu/entries/scientific-underdetermination/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-Igor Douven <[_igor.douven@paris-sorbonne.fr_](mailto:igor%2edouven%40paris-sorbonne%2efr)>
+Igor Douven <[*igor.douven@paris-sorbonne.fr*](mailto:igor%2edouven%40paris-sorbonne%2efr)>

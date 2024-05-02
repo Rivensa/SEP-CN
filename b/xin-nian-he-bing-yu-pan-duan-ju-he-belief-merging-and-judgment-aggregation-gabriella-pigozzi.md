@@ -1,6 +1,6 @@
 # 信念合并与判断聚合 belief merging and judgment aggregation (Gabriella Pigozzi)
 
-_首次发布于 2015 年 7 月 8 日；实质性修订于 2021 年 3 月 1 日_
+*首次发布于 2015 年 7 月 8 日；实质性修订于 2021 年 3 月 1 日*
 
 群体经常需要做出决策，而决策可能会很复杂，涉及对几个相关问题的评估。例如，在大学中，招聘委员会通常根据候选人的教学和研究素质来决定是否录用。市议会在决定建造一座桥梁时，可能会要求其成员陈述他们是否赞成，并同时提供其立场的理由（如经济和环境影响，或者开支考虑）。最后，陪审团需要根据相关法典规定的条件对被告的责任做出裁决。正如 Kornhauser 和 Sager（1986）在提到真实的陪审团审判时指出的那样，对逻辑上相关命题的个人意见进行聚合可能会导致悖论性的结果，即所谓的“教义悖论”。受法学中的教义悖论启发，判断聚合问题引起了政治学家、哲学家、逻辑学家、经济学家和计算机科学家的兴趣。与社会选择理论的联系表明，类似于偏好聚合问题（Arrow 1951/1963；Sen 1970），不存在满足一些理想属性的判断聚合程序。
 
@@ -10,8 +10,6 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2021 年 3 月 1 日_
 
 本文的重点是明确判断聚合和信念合并文献之间的联系。判断聚合将在下一节中简要介绍。有关判断聚合的更全面介绍，请参阅（Grossi 和 Pigozzi 2014 年；Endriss 2016 年）。
 
-
-
 ***
 
 ## 1. 判断聚合
@@ -20,7 +18,7 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2021 年 3 月 1 日_
 
 在 Kornhauser 和 Sager 的法庭示例（1993 年）中，一个由三名法官组成的法庭必须就原告与被告之间的合同违约案达成裁决。根据合同法，如果合同禁止被告进行某项行为_X_（命题_p_），而被告确实进行了行为_X_（命题_q_），则被告应对合同违约（命题_r_）承担责任。假设三名法官的判断如[表 1](https://plato.stanford.edu/entries/belief-merging/#table1)所示。
 
-\| | Obligation (_p_) | Action (_q_) | Defendant liable (_r_) |
+\| | Obligation (*p*) | Action (*q*) | Defendant liable (*r*) |
 
 \| --- | --- | --- | --- |
 
@@ -34,11 +32,11 @@ _首次发布于 2015 年 7 月 8 日；实质性修订于 2021 年 3 月 1 日_
 
 表 1：信条悖论
 
-命题 _r_ 是“结论”，而 _p_ 和 _q_ 是“前提”。法律原则可以逻辑地表示为 (p∧q)↔r，即前提 _p_ 和 _q_ 对于结论 _r_ 来说既是必要的又是充分的。[表 1](https://plato.stanford.edu/entries/belief-merging/#table1) 显示，每个法官都尊重给定的法律原则，只有在她认为两个前提都为真时，才宣布结论为真。如果法官们使用多数规则对每个命题的判断进行集体合并，得到的判断集合是 {_p_, _q_, 不 _r_}，这违反了法律原则。这是信条悖论的一个例子：尽管个体在逻辑上是一致的，但群体对命题的判断与法律原则不一致。在上面的例子中，法官们不能宣布被告不承担责任，并同时表示她承担责任的两个条件都适用。因此，法庭面临一个困境。要么要求法官只对前提表达判断，法庭对 _r_ 的决定从前提的多数逻辑推导出来（“基于前提”或“逐个问题的程序”），要么根据 _r_ 的多数判断来决定裁决（“基于结论”或“逐个案例的程序”），忽略对前提的意见。[表 1](https://plato.stanford.edu/entries/belief-merging/#table1) 中的例子说明这两种程序可能得出相反的结果。在法庭的例子中，法官们必须对其立场表达意见的问题被区分为前提和结论。然而，值得注意的是，判断聚合理论并不要求这样的区分。即使没有前提和结论的区分，法庭决定宣布被告不承担责任（尽管多数人支持两个判断她承担责任的标准），也将与决策规则 (p∧q)↔r 不一致。
+命题 *r* 是“结论”，而 *p* 和 *q* 是“前提”。法律原则可以逻辑地表示为 (p∧q)↔r，即前提 *p* 和 *q* 对于结论 *r* 来说既是必要的又是充分的。[表 1](https://plato.stanford.edu/entries/belief-merging/#table1) 显示，每个法官都尊重给定的法律原则，只有在她认为两个前提都为真时，才宣布结论为真。如果法官们使用多数规则对每个命题的判断进行集体合并，得到的判断集合是 {*p*, *q*, 不 *r*}，这违反了法律原则。这是信条悖论的一个例子：尽管个体在逻辑上是一致的，但群体对命题的判断与法律原则不一致。在上面的例子中，法官们不能宣布被告不承担责任，并同时表示她承担责任的两个条件都适用。因此，法庭面临一个困境。要么要求法官只对前提表达判断，法庭对 *r* 的决定从前提的多数逻辑推导出来（“基于前提”或“逐个问题的程序”），要么根据 *r* 的多数判断来决定裁决（“基于结论”或“逐个案例的程序”），忽略对前提的意见。[表 1](https://plato.stanford.edu/entries/belief-merging/#table1) 中的例子说明这两种程序可能得出相反的结果。在法庭的例子中，法官们必须对其立场表达意见的问题被区分为前提和结论。然而，值得注意的是，判断聚合理论并不要求这样的区分。即使没有前提和结论的区分，法庭决定宣布被告不承担责任（尽管多数人支持两个判断她承担责任的标准），也将与决策规则 (p∧q)↔r 不一致。
 
-这不是第一次通过多数规则对集体结果进行定义而导致悖论的结果。早在 1785 年，孔多塞侯爵（Marquis de Condorcet）就发现了现在被称为_孔多塞悖论_的问题。给定一组个体偏好，如果我们逐对比较每个选择并应用多数投票，我们可能会得到一个不可传递的偏好（或循环），即选择_x_优先于_y_，_y_优先于_z_，_z_优先于_x_，这样就无法宣布一个选择为胜利者。孔多塞悖论和判断聚合悖论之间的相似性被科恩豪泽和萨格（1986 年）以及利斯特和佩蒂特（2004 年）迅速注意到。将个体偏好聚合成社会偏好排序的研究是社会选择理论的重点（List 2013）。诺贝尔奖得主肯尼斯·阿罗（Kenneth Arrow）通过证明孔多塞遇到的问题更为普遍，不仅限于多数规则，证明了具有里程碑意义的结果。阿罗的不可能性定理（Arrow 1951/1963；Morreau 2014）指出，对于三个或更多选择的有限个体偏好集合，不存在满足几个合理公理的聚合函数。有一些类似于阿罗定理的结果表明了判断聚合的“不可能性”。判断聚合的第一个不可能性定理（List and Pettit 2002）之后又有进一步的推广（Pauly and van Hees 2006；Dietrich 2006；Mongin 2008）。
+这不是第一次通过多数规则对集体结果进行定义而导致悖论的结果。早在 1785 年，孔多塞侯爵（Marquis de Condorcet）就发现了现在被称为_孔多塞悖论_的问题。给定一组个体偏好，如果我们逐对比较每个选择并应用多数投票，我们可能会得到一个不可传递的偏好（或循环），即选择_x_优先于_y_，*y_优先于_z*，*z_优先于_x*，这样就无法宣布一个选择为胜利者。孔多塞悖论和判断聚合悖论之间的相似性被科恩豪泽和萨格（1986 年）以及利斯特和佩蒂特（2004 年）迅速注意到。将个体偏好聚合成社会偏好排序的研究是社会选择理论的重点（List 2013）。诺贝尔奖得主肯尼斯·阿罗（Kenneth Arrow）通过证明孔多塞遇到的问题更为普遍，不仅限于多数规则，证明了具有里程碑意义的结果。阿罗的不可能性定理（Arrow 1951/1963；Morreau 2014）指出，对于三个或更多选择的有限个体偏好集合，不存在满足几个合理公理的聚合函数。有一些类似于阿罗定理的结果表明了判断聚合的“不可能性”。判断聚合的第一个不可能性定理（List and Pettit 2002）之后又有进一步的推广（Pauly and van Hees 2006；Dietrich 2006；Mongin 2008）。
 
-让我们将注意力限制在用命题逻辑（语言_L_）表达的判断聚合上（判断聚合问题可以推广到模态逻辑、条件逻辑以及谓词逻辑，参见 Dietrich 2007；关于非经典逻辑和判断聚合的更深入讨论，参见 Grossi 2009、Porello 2017 和 Xuefeng 2018）。个体表达判断的公式集称为_议程_（A⊆L）。议程不包含双重否定（¬¬φ等同于φ），对否定封闭（即，如果φ∈A，则¬φ∈A），通常假设不包含重言式或矛盾。例如，法庭案件的议程是 A={p,¬p,q,¬q,p∧q,¬(p∧q)}。Dietrich 和 List（2007a）证明了当议程足够丰富（例如，法庭决定的议程或{p,¬p,q,¬q,p→q,¬(p→q)}）时，满足以下_期望_的判断聚合规则只有独裁主义。聚合函数是独裁主义的，当对于_任何_输入，集体结果被视为一个（相同的）个体的判断，即独裁者。在独裁主义的聚合函数中，除了独裁者的个体输入外，所有个体输入都被忽略。_判断集_是一组一致且完备的公式集 J⊆A。如果对于议程的任何元素φ，要么φ∈A，要么¬φ∈A（即，议程的任何项目都必须被接受或拒绝），则判断集是完备的。给定一个由_n_个个体组成的群体，一个_配置_是一个_n_-元组的个体判断集⟨J1,…,Jn⟩。最后，_判断聚合规则 F_是一个函数，它将每个配置⟨J1,…,Jn⟩分配给一个集体判断集 F(J1,…,Jn)⊆A。对_F_施加的条件如下：
+让我们将注意力限制在用命题逻辑（语言_L_）表达的判断聚合上（判断聚合问题可以推广到模态逻辑、条件逻辑以及谓词逻辑，参见 Dietrich 2007；关于非经典逻辑和判断聚合的更深入讨论，参见 Grossi 2009、Porello 2017 和 Xuefeng 2018）。个体表达判断的公式集称为_议程_（A⊆L）。议程不包含双重否定（¬¬φ等同于φ），对否定封闭（即，如果φ∈A，则¬φ∈A），通常假设不包含重言式或矛盾。例如，法庭案件的议程是 A={p,¬p,q,¬q,p∧q,¬(p∧q)}。Dietrich 和 List（2007a）证明了当议程足够丰富（例如，法庭决定的议程或{p,¬p,q,¬q,p→q,¬(p→q)}）时，满足以下_期望_的判断聚合规则只有独裁主义。聚合函数是独裁主义的，当对于_任何_输入，集体结果被视为一个（相同的）个体的判断，即独裁者。在独裁主义的聚合函数中，除了独裁者的个体输入外，所有个体输入都被忽略。*判断集_是一组一致且完备的公式集 J⊆A。如果对于议程的任何元素φ，要么φ∈A，要么¬φ∈A（即，议程的任何项目都必须被接受或拒绝），则判断集是完备的。给定一个由_n_个个体组成的群体，一个_配置_是一个_n*-元组的个体判断集⟨J1,…,Jn⟩。最后，_判断聚合规则 F_是一个函数，它将每个配置⟨J1,…,Jn⟩分配给一个集体判断集 F(J1,…,Jn)⊆A。对_F_施加的条件如下：
 
 **通用域：** 接受一切由一致且完备（相对于议程）判断集构成的配置作为聚合函数的输入。在[表 1](https://plato.stanford.edu/entries/belief-merging/#table1)中的教条悖论的配置是合法的输入，因为法官对议程中的每个问题都表达了接受或拒绝的意见，并且他们的意见遵守了规则(p∧q)↔r。
 
@@ -147,7 +145,7 @@ mod(ΔIC(E))=min(mod(IC),≤d)
 
 第一个观点说明了距离是对称的。假设有三个信念基础：K1=K3={a,b,¬c,d} 和 K2={¬a,b,c,d}。如果我们用 ωi 表示 Ki 的解释，我们有 ω1=ω3=(1,1,0,1) 和 ω2=(0,1,1,1)。第一个观点要求 d(ω1,ω2)=d(ω2,ω1)。第二个观点说明了如果两个解释相同，距离为 0，所以 d(ω1,ω3)=0。\[[2](https://plato.stanford.edu/entries/belief-merging/notes.html#note-2)]
 
-需要两个步骤来找到最小化与信念配置的距离的 _IC_ 模型。在第一步中，我们计算满足 _IC_ 的每个解释（即每个候选合并基）与每个个体信念基之间的距离。这里的直觉是量化每个个体观点与每个可能的集体结果之间的距离（回想一下结果将从满足 _IC_ 的解释中选择）。在第二步中，我们需要聚合所有这些个体距离来定义集体距离，即信念配置与 _IC_ 的每个模型之间的距离。这相当于量化群体与每个可能结果之间的距离。最后，选择最小化这种距离的（可能不止一个）基作为结果。
+需要两个步骤来找到最小化与信念配置的距离的 *IC* 模型。在第一步中，我们计算满足 *IC* 的每个解释（即每个候选合并基）与每个个体信念基之间的距离。这里的直觉是量化每个个体观点与每个可能的集体结果之间的距离（回想一下结果将从满足 *IC* 的解释中选择）。在第二步中，我们需要聚合所有这些个体距离来定义集体距离，即信念配置与 *IC* 的每个模型之间的距离。这相当于量化群体与每个可能结果之间的距离。最后，选择最小化这种距离的（可能不止一个）基作为结果。
 
 对于第一步，我们需要定义一个解释ω和信念基础_K_之间的距离。这是ω和_K_的模型之间的最小距离。形式上：d(ω,K)=minω′∈mod(K)d(ω,ω′)。如果_K_有多个模型（例如，Ki={a∨b}有三个模型：{(0,1)(1,0),(1,1)}），那么ω′将是最接近ω的。
 
@@ -159,11 +157,11 @@ mod(ΔIC(E))=min(mod(IC),≤d)
 2. 当且仅当 x1=…=xn=0 时，D(x1,…,x,…,xn)=0
 3. D(x)=x
 
-合并运算符的结果显然取决于选择的距离函数 _d_ 和 _D_。在最初的提议中（Lin 和 Mendelzon 1999; Revesz 1993），采用了_汉明距离_（如下所定义）作为 _d_，并采用了_求和_或_最大值_作为 _D_（分别表示为 DΣ 和 DMax）\[[3](https://plato.stanford.edu/entries/belief-merging/notes.html#note-3)]。当 _D_ 是求和时，全局距离通过求和各个距离得到。相应的合并运算符是多数运算符，被称为_minisum_，因为它选择那些使求和最小的解释。使用 DMax 的合并运算符被称为_minimax_，输出使个体基础的最大距离最小化的判断集（Brams 等人，2007b）。直观地说，_minimax_旨在最小化与最不满意的个体的分歧。当使用 DΣ 或 DMax 时，可能会选择两种相反的结果（Brams 等人，2007b; Eckert 和 Klamler，2007）。
+合并运算符的结果显然取决于选择的距离函数 *d* 和 *D*。在最初的提议中（Lin 和 Mendelzon 1999; Revesz 1993），采用了_汉明距离_（如下所定义）作为 *d*，并采用了_求和_或_最大值_作为 *D*（分别表示为 DΣ 和 DMax）\[[3](https://plato.stanford.edu/entries/belief-merging/notes.html#note-3)]。当 *D* 是求和时，全局距离通过求和各个距离得到。相应的合并运算符是多数运算符，被称为_minisum_，因为它选择那些使求和最小的解释。使用 DMax 的合并运算符被称为_minimax_，输出使个体基础的最大距离最小化的判断集（Brams 等人，2007b）。直观地说，_minimax_旨在最小化与最不满意的个体的分歧。当使用 DΣ 或 DMax 时，可能会选择两种相反的结果（Brams 等人，2007b; Eckert 和 Klamler，2007）。
 
 汉明距离是信念修订中常用的距离。这个想法很简单。汉明距离计算两个解释在命题字母上的差异数量。例如，如果 ω=(1,0,0) 和 ω′=(0,1,0)，那么我们有 d(ω,ω′)=2，因为这两个解释在对第一个和第二个命题的赋值上有差异。_drastic distance_也是众所周知的，它将两个解释相同的距离定义为 0，否则定义为 1。但是，距离的选择不限于这些选项。可以使用其他满足上述公设的距离（Konieczny 和 Pino Pérez，1999, 2002）。个体距离之和的最小化是一个_IC_多数合并运算符的示例。在下一节中，我们将看到这个运算符应用于辩论困境。
 
-基于距离的方法可以澄清仲裁和多数运算符之间的区别。_Leximax_是仲裁运算符的一个例子。_Leximax_运算符可以将 _d_ 设为汉明距离，并且对于每个解释，该解释与 _n_ 个基础 _Ki_ 之间的距离形成一个列表。通过在距离序列之间采用字典顺序，固定一个代理人集合的顺序，定义了解释的预序。最后，Dleximax 选择最小值。直观上讲，与选择最小化_总体_分歧的多数运算符（例如通过最小化个体距离之和）不同，仲裁运算符关注此类分歧的_分布_，并选择对所有个体更加公平的选项，即它旨在平等分配个体对所选择结果的不满意（回想上面的生日礼物的例子）。这是根据汉明距离的定义得出的：汉明距离越大，两个解释之间的分歧越大（这里的分歧仅意味着解释对同一公式分配了不同的真值）。假设信念配置 _E_ 有三个基础。还假设当我们采用汉明距离之和时，_IC_ 的两个模型（ω 和 ω′）的距离为 DΣ(ω,E)=DΣ(ω′,E)=6，当我们采用距离的字典顺序时，Dleximax(ω,E)=(2,2,2) 和 Dleximax(ω′,E)=(5,1,0)。在这个例子中，多数运算符无法区分 ω 和 ω′（因为在两种情况下，和为 6），而仲裁运算符将更喜欢 ω 而不是 ω′，因为 ω 比 ω′ 更公平地分配个体分歧。
+基于距离的方法可以澄清仲裁和多数运算符之间的区别。_Leximax_是仲裁运算符的一个例子。*Leximax_运算符可以将 *d* 设为汉明距离，并且对于每个解释，该解释与 *n* 个基础 *Ki* 之间的距离形成一个列表。通过在距离序列之间采用字典顺序，固定一个代理人集合的顺序，定义了解释的预序。最后，Dleximax 选择最小值。直观上讲，与选择最小化_总体_分歧的多数运算符（例如通过最小化个体距离之和）不同，仲裁运算符关注此类分歧的_分布*，并选择对所有个体更加公平的选项，即它旨在平等分配个体对所选择结果的不满意（回想上面的生日礼物的例子）。这是根据汉明距离的定义得出的：汉明距离越大，两个解释之间的分歧越大（这里的分歧仅意味着解释对同一公式分配了不同的真值）。假设信念配置 *E* 有三个基础。还假设当我们采用汉明距离之和时，*IC* 的两个模型（ω 和 ω′）的距离为 DΣ(ω,E)=DΣ(ω′,E)=6，当我们采用距离的字典顺序时，Dleximax(ω,E)=(2,2,2) 和 Dleximax(ω′,E)=(5,1,0)。在这个例子中，多数运算符无法区分 ω 和 ω′（因为在两种情况下，和为 6），而仲裁运算符将更喜欢 ω 而不是 ω′，因为 ω 比 ω′ 更公平地分配个体分歧。
 
 如前所述，Liberatore 和 Schaerf 是最早提出仲裁运算符的人之一。然而，他们的方法仅限于两个基础，并且合并的结果是两个基础之一。这样的运算符在某些情况下会产生可疑的结果，比如(Konieczny 和 Pino Pérez 2002)中的情况。假设有两位金融专家给出关于四只股票_a，b，c 和 d_的建议。根据第一位专家的意见，这四只股票都将上涨（表示为φ1={(1,1,1,1)}），而第二位专家认为这四只股票都将下跌（φ2={(0,0,0,0)}）。根据 Liberatore 和 Schaerf 的仲裁运算符，结果将是{(1,1,1,1),(0,0,0,0)}，这意味着第一位或第二位专家完全正确。另一方面，如果我们应用 Konieczny 和 Pino Pérez 的仲裁运算符，我们将得到{(0,0,1,1),(0,1,0,1),(0,1,1,0),(1,0,0,1),(1,0,1,0),(1,1,0,0)}。这个结果可以解释为——如果我们假设所有信息源都是同样可靠的，我们没有理由偏好其中一个，因此一个合理的立场是得出结论两者可能同样正确。然而，Liberatore 和 Schaerf 的运算符可以在所有结果只能是个体提交的基础之一的情况下使用。例如，如果两位医生会面以决定患者的治疗方案，他们可能必须支持其中一个提案，因为混合治疗可能既不可行也不安全。
 
@@ -183,7 +181,7 @@ mod(ΔIC(E))=min(mod(IC),≤d)
 
 K1={p,q,r} mod(K1)={(1,1,1)};K2={p,¬q,¬r} mod(K2)={(1,0,0)};K3={¬p,q,¬r} mod(K3)={(0,1,0)}.
 
-[表 2](https://plato.stanford.edu/entries/belief-merging/#table2)显示了最小化汉明距离总和的多数运算符的结果。第一列是命题变量_p_，_q_和_r_的所有解释。不是_IC_的模型具有阴影背景。因此，例如，(1,0,1)不能被选为集体结果，因为它违反了法律原则。在_dH(⋅,K1)_ ，_dH(⋅,K2)_ 和_dH(⋅,K3)_ 列中的数字是每个_Ki_与相应解释之间的汉明距离。在最后一列中是汉明距离的总和。
+[表 2](https://plato.stanford.edu/entries/belief-merging/#table2)显示了最小化汉明距离总和的多数运算符的结果。第一列是命题变量_p_，*q_和_r_的所有解释。不是_IC_的模型具有阴影背景。因此，例如，(1,0,1)不能被选为集体结果，因为它违反了法律原则。在_dH(⋅,K1)* ，*dH(⋅,K2)* 和_dH(⋅,K3)_ 列中的数字是每个_Ki_与相应解释之间的汉明距离。在最后一列中是汉明距离的总和。
 
 \| | dH(⋅,K1) | dH(⋅,K2) | dH(⋅,K3) | Σ(dH(⋅,E)) |
 
@@ -221,7 +219,7 @@ K1={p,q,r} mod(K1)={(1,1,1)};K2={p,¬q,¬r} mod(K2)={(1,0,0)};K3={¬p,q,¬r} mod
 
 计算机科学家对聚合方法的兴趣可以从判断聚合现在成为计算社会选择的话题中得到证明，这是一门促进计算机科学和社会选择理论之间交流和互动的跨学科学科。聚合规则的计算问题是计算社会选择的兴趣之一。将复杂性理论应用于聚合规则的背后的直觉是基于实用考虑来评估聚合规则的可接受性，即应用该规则的算法可行性。因此，当一个聚合规则的结果“容易”计算时，即可以通过算法在时间上与输入的大小多项式增长（只有在某些病态情况下，我们可以想象希望一个规则在可预见的未来无法返回结果）。另一方面，如果一个聚合规则是可操纵的，那么当一个个体很难操纵它时，它是可接受的。因此，聚合规则的计算复杂性的研究可能会揭示，即使一个规则是可操纵的，一个个体实际上很难对其进行操作。距离基于程序的复杂性已经得到研究（Endriss 等人，2012；Endriss 和 de Haan，2015）。判断聚合中的汉明规则的高计算复杂性反映了偏好聚合中的 Kemeny 规则也是高计算复杂的，这是在 Bartholdi 等人（1989）和 Hudry（1989）首次展示的。已经提出了一种新规则来克服基于距离的程序的高计算复杂性。平均选民规则（Grandi，2012）选择由个体提交的判断集，使其距离之和最小。因此，结果必须是提交的判断集之一。这样可以减少计算复杂性，并同时选择最具代表性的个体。
 
-在（Miller 和 Osherson，2009）中给出了判断聚合的基于距离的方法的一般化。除了将我们应用于教义悖论的合并运算符进行了泛化（通过采用一般度量），他们还提出了另外三种基于距离的判断聚合方法。如果命题上的多数崩溃为不一致的集体判断集，一种方法（_Endpoint_）选择最接近（根据某个距离度量）一致的集体判断集作为群体结果。另外两种方法（_Full_和_Output_）通过最小改变配置文件的方式来输出一致的命题上多数集体判断集。不同之处在于_Output_允许修改后的配置文件中的个体判断集是不一致的。
+在（Miller 和 Osherson，2009）中给出了判断聚合的基于距离的方法的一般化。除了将我们应用于教义悖论的合并运算符进行了泛化（通过采用一般度量），他们还提出了另外三种基于距离的判断聚合方法。如果命题上的多数崩溃为不一致的集体判断集，一种方法（*Endpoint*）选择最接近（根据某个距离度量）一致的集体判断集作为群体结果。另外两种方法（*Full_和_Output*）通过最小改变配置文件的方式来输出一致的命题上多数集体判断集。不同之处在于_Output_允许修改后的配置文件中的个体判断集是不一致的。
 
 Duddy 和 Piggins（2012）质疑使用汉明距离来衡量判断集之间的差异。问题在于，当议程包含逻辑上相关的命题时，汉明距离可能会导致重复计数，因为它忽略了这种相互依赖关系。例如，假设两个个体接受命题_q_，但在_p∧q_上存在分歧（一个个体接受合取，而另一个个体拒绝）。只有当他们在_p_上存在分歧时，才会发生这种情况。两个判断集_K1={¬p,q,¬(p∧q)}_ 和_K2={p,q,(p∧q)}_ 之间的汉明距离为 2。正是对_p_的分歧导致了对_p∧q_的分歧，因此距离应该只是 1。为了解决这个问题，提出了一种替代距离，它需要进行最少数量的逻辑上一致的变化，以将一个判断集转换为另一个判断集。
 
@@ -235,105 +233,105 @@ Duddy 和 Piggins（2012）质疑使用汉明距离来衡量判断集之间的�
 
 ## Bibliography
 
-* Alchourrón, C.E., P. Gärdenfors, and D. Makinson, 1985, “On the Logic of Theory Change: Partial Meet Functions for Contraction and Revision”, _Journal of Symbolic Logic_, 50: 510–530.
-* Arrow, K., 1951/1963, _Social Choice and Individual Values_, New York: Wiley.
-* Baral, C., S. Kraus, and J. Minker, 1991, “Combining Multiple Knowledge Bases”, _IEEE Transactions on Knowledge and Data Engineering_, 3(2): 208–220.
-* Baral, C., S. Kraus, J. Minker, and V. Subrahmanian, 1992, “Combining Multiple Knowledge Bases Consisting of First Order Theories”, _Computational Intelligence_, 8(1): 45–71.
-* Bartholdi, J., C. Tovey, and M. Trick, 1989, “The Computational Difficulty of Manipulating an Election”, _Social Choice and Welfare_, 6: 227–241.
-* Baumeister, D., J. Rothe, and A.K. Selker, 2017, “Strategic Behavior in Judgment Aggregation”, in U. Endriss (ed.), _Trends in Computational Social Choice_, AI Access, pp. 145–168.
-* Benferhat, S., D. Dubois, J. Lang, H. Prade, A. Saffiotti, and P. Smets, 1998, “A General Approach for Inconsistency Handling and Merging Information in Prioritized Knowledge Bases”, in _Proceedings of the Sixth International Conference on Principles of Knowledge Representation and Reasoning_ (KR’98), pp. 466–477.
-* Black, D., 1948, “On the Rationale of Group Decision Making”, _The Journal of Political Economy_, 56: 23–34.
-* Bloch, I., A. Hunter, A. Ayoun, S. Benferhat, P. Besnard, L. Cholvy, R. Cooke, D. Dubois and H. Fargier, 2001, “Fusion: general concepts and characteristics”, _International Journal of Intelligent Systems_, 16: 1107–1134.
-* Borgida, A. and T. Imielinski, 1984, “Decision Making in Committees: A Framework for Dealing with Inconsistency and Non-Monotonicity”, in _Proceedings Workshop on Nonmonotonic Reasoning_, pp. 21–32.
-* Brams, S.J., D.M. Kilgour, and M.R. Sanver, 2007a, “A Minimax Procedure for Negotiating Multilateral Treaties”, in R. Avenhaus and I. W. Zartman (eds.), _Diplomacy Games: Formal Models and International Negotiations_, Berlin: Springer, pp 265–282.
-* –––, 2007b, “A Minimax Procedure for Electing Committees”, _Public Choice_, 132: 401–420.
-* Cariani, F., M. Pauly, and J. Snyder, 2008, “Decision Framing in Judgment Aggregation”, _Synthese_, 163(1): 1–24.
-* Cevolani, G., 2014, “Truth Approximation, Belief Merging and Peer Disagreement”, _Synthese_, 191(11): 2383–2401.
-* Chapman, B., 2002, “Rational Aggregation”, _Politics, Philosophy, Economics_, 1(3): 337–354.
-* Chawathe, S., H. Garcia Molina, J. Hammer, K. Ireland, Y. Papakonstantinou, J. Ullman, and J. Widom, 1994, “The TSIMMIS Project: Integration of Heterogeneous Information Sources”, in _Proceedings of IPSJ Conference_, pp. 7–18.
-* Cholvy, L., 1998, “Reasoning about Merged Information”, in D.M. Gabbay, and Ph. Smets (eds.), _Handbook of Defeasible Reasoning and Uncertainty Management Systems_, Vol. 3, Dordrecht: Kluwer Academic Publishers, pp. 233–263.
-* Condorcet, N. de, 1785, _Essai sur l’Application de l’Analyse à la Probabilité des Décisions Rendues à la Pluralité des Voix_, Paris.
-* Delgrande, J.P., D. Dubois, and J. Lang, 2006, “Iterated Revision as Prioritized Merging”, in _Proceedings of the 10th International Conference on Knowledge Representation and Reasoning_ (KR’06), pp. 210–220.
-* Dietrich, F., 2006, “Judgment Aggregation: (Im)Possibility Theorems”, _Journal of Economic Theory_, 126: 286–298.
-* –––, 2007, “A Generalised Model of Judgment Aggregation”, _Social Choice and Welfare_, 28(4): 529–565.
-* –––, 2016, “Judgment Aggregation and Agenda Manipulation”, _Games and Economic Behavior_, 95: 113–136.
-* Dietrich, F. and C. List, 2007a, “Arrow’s Theorem in Judgment Aggregation”, _Social Choice and Welfare_, 29: 19–33.
-* –––, 2007b, “Strategy-proof Judgment Aggregation”, _Economics and Philosophy_, 23: 269–300.
-* –––, 2008a, “Judgment Aggregation Without Full Rationality”, _Social Choice and Welfare_, 31: 15–39.
-* –––, 2008b, “Judgment Aggregation Under Constraints”, in T. Boylan and R. Gekker, eds., _Economics, Rational Choice and Normative Philosophy_, Routledge, pp. 111–123.
-* –––, 2010, “The Aggregation of Propositional Attitudes: Towards a General Theory”, in _Oxford Studies in Epistemology_, vol. 3, Oxford: Oxford University Press, pp. 215–234.
-* Dokow, E. and R. Holzman, 2010, “Aggregation of Binary Evaluations with Abstentions”, _Journal of Economic Theory_, 145(2): 544–561.
-* Duddy, C. and A. Piggins, 2012, “A Measure of Distance Between Judgment Sets”, _Social Choice and Welfare_, 39: 855–867.
+* Alchourrón, C.E., P. Gärdenfors, and D. Makinson, 1985, “On the Logic of Theory Change: Partial Meet Functions for Contraction and Revision”, *Journal of Symbolic Logic*, 50: 510–530.
+* Arrow, K., 1951/1963, *Social Choice and Individual Values*, New York: Wiley.
+* Baral, C., S. Kraus, and J. Minker, 1991, “Combining Multiple Knowledge Bases”, *IEEE Transactions on Knowledge and Data Engineering*, 3(2): 208–220.
+* Baral, C., S. Kraus, J. Minker, and V. Subrahmanian, 1992, “Combining Multiple Knowledge Bases Consisting of First Order Theories”, *Computational Intelligence*, 8(1): 45–71.
+* Bartholdi, J., C. Tovey, and M. Trick, 1989, “The Computational Difficulty of Manipulating an Election”, *Social Choice and Welfare*, 6: 227–241.
+* Baumeister, D., J. Rothe, and A.K. Selker, 2017, “Strategic Behavior in Judgment Aggregation”, in U. Endriss (ed.), *Trends in Computational Social Choice*, AI Access, pp. 145–168.
+* Benferhat, S., D. Dubois, J. Lang, H. Prade, A. Saffiotti, and P. Smets, 1998, “A General Approach for Inconsistency Handling and Merging Information in Prioritized Knowledge Bases”, in *Proceedings of the Sixth International Conference on Principles of Knowledge Representation and Reasoning* (KR’98), pp. 466–477.
+* Black, D., 1948, “On the Rationale of Group Decision Making”, *The Journal of Political Economy*, 56: 23–34.
+* Bloch, I., A. Hunter, A. Ayoun, S. Benferhat, P. Besnard, L. Cholvy, R. Cooke, D. Dubois and H. Fargier, 2001, “Fusion: general concepts and characteristics”, *International Journal of Intelligent Systems*, 16: 1107–1134.
+* Borgida, A. and T. Imielinski, 1984, “Decision Making in Committees: A Framework for Dealing with Inconsistency and Non-Monotonicity”, in *Proceedings Workshop on Nonmonotonic Reasoning*, pp. 21–32.
+* Brams, S.J., D.M. Kilgour, and M.R. Sanver, 2007a, “A Minimax Procedure for Negotiating Multilateral Treaties”, in R. Avenhaus and I. W. Zartman (eds.), *Diplomacy Games: Formal Models and International Negotiations*, Berlin: Springer, pp 265–282.
+* –––, 2007b, “A Minimax Procedure for Electing Committees”, *Public Choice*, 132: 401–420.
+* Cariani, F., M. Pauly, and J. Snyder, 2008, “Decision Framing in Judgment Aggregation”, *Synthese*, 163(1): 1–24.
+* Cevolani, G., 2014, “Truth Approximation, Belief Merging and Peer Disagreement”, *Synthese*, 191(11): 2383–2401.
+* Chapman, B., 2002, “Rational Aggregation”, *Politics, Philosophy, Economics*, 1(3): 337–354.
+* Chawathe, S., H. Garcia Molina, J. Hammer, K. Ireland, Y. Papakonstantinou, J. Ullman, and J. Widom, 1994, “The TSIMMIS Project: Integration of Heterogeneous Information Sources”, in *Proceedings of IPSJ Conference*, pp. 7–18.
+* Cholvy, L., 1998, “Reasoning about Merged Information”, in D.M. Gabbay, and Ph. Smets (eds.), *Handbook of Defeasible Reasoning and Uncertainty Management Systems*, Vol. 3, Dordrecht: Kluwer Academic Publishers, pp. 233–263.
+* Condorcet, N. de, 1785, *Essai sur l’Application de l’Analyse à la Probabilité des Décisions Rendues à la Pluralité des Voix*, Paris.
+* Delgrande, J.P., D. Dubois, and J. Lang, 2006, “Iterated Revision as Prioritized Merging”, in *Proceedings of the 10th International Conference on Knowledge Representation and Reasoning* (KR’06), pp. 210–220.
+* Dietrich, F., 2006, “Judgment Aggregation: (Im)Possibility Theorems”, *Journal of Economic Theory*, 126: 286–298.
+* –––, 2007, “A Generalised Model of Judgment Aggregation”, *Social Choice and Welfare*, 28(4): 529–565.
+* –––, 2016, “Judgment Aggregation and Agenda Manipulation”, *Games and Economic Behavior*, 95: 113–136.
+* Dietrich, F. and C. List, 2007a, “Arrow’s Theorem in Judgment Aggregation”, *Social Choice and Welfare*, 29: 19–33.
+* –––, 2007b, “Strategy-proof Judgment Aggregation”, *Economics and Philosophy*, 23: 269–300.
+* –––, 2008a, “Judgment Aggregation Without Full Rationality”, *Social Choice and Welfare*, 31: 15–39.
+* –––, 2008b, “Judgment Aggregation Under Constraints”, in T. Boylan and R. Gekker, eds., *Economics, Rational Choice and Normative Philosophy*, Routledge, pp. 111–123.
+* –––, 2010, “The Aggregation of Propositional Attitudes: Towards a General Theory”, in *Oxford Studies in Epistemology*, vol. 3, Oxford: Oxford University Press, pp. 215–234.
+* Dokow, E. and R. Holzman, 2010, “Aggregation of Binary Evaluations with Abstentions”, *Journal of Economic Theory*, 145(2): 544–561.
+* Duddy, C. and A. Piggins, 2012, “A Measure of Distance Between Judgment Sets”, *Social Choice and Welfare*, 39: 855–867.
 * Eckert, D. and C. Klamler, 2007, “How puzzling is judgment aggregation? Antipodality in distance-based aggregation rules”, Working paper, University of Graz.
-* Elmagarmid, A., M. Rusinliewicz, and A. Sheth (eds.), 1999, _Management of Heterogeneous and Autonomous Database Systems_, San Francisco, CA, USA: Morgan Kaufmann.
-* Elster, J., 2013, “Excessive Ambitions (II)”, _Capitalism and Society_, 8(1): Article 1 \[[Elster 2013 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2207111)]
-* Endriss, U., 2016, “Judgment Aggregation”, in F. Brandt, V. Conitzer, U. Endriss, J. Lang, A. Procaccia (eds.), _Handbook of Computational Social Choice_, Cambridge: Cambridge University Press, pp. 399–426.
-* Endriss, U. and R. de Haan, 2015, “Complexity of the Winner Determination Problem in Judgment Aggregation: Kemeny, Slater, Tideman, Young”, in _Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems_, IFAMAS, pp. 117–125.
-* Endriss, U., U. Grandi, and D. Porello, 2012, “Complexity of Judgment Aggregation”, _Journal of Artificial Intelligence Research_, 45: 481–514.
-* Everaere, P., S. Konieczny, and P. Marquis, 2007, “The Strategy-Proofness Landscape of Merging”, _Journal of Artificial Intelligence Research (JAIR)_, 28: 49–105.
-* –––, 2015, “Belief Merging versus Judgment Aggregation”, in _Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems_ (AAMAS 15), pp. 999–1007.
-* –––, 2017, “An Introduction to Belief Merging and its Links to Judgment Aggregation”, in U. Endriss (ed.), _Trends in Computational Social Choice_, AI Access Books, pp. 123–143.
-* Fermé, E. and S.O. Hansson, 2018, _Belief Change. Introduction and Overview_, Springer.
-* Gärdenfors, P., 1988, _Knowledge in Flux: Modeling the Dynamics of Epistemic States_, Cambridge, MA: MIT Press.
-* –––, 2006, “A Representation Theorem for Voting with Logical Consequences”, _Economics and Philosophy_, 22: 18–190.
-* Gauwin, O., S. Konieczny, and P. Marquis, 2005, “Conciliation and Consensus in Iterated Belief Merging”, in _Proceedings of the 8th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty_, Berlin: Springer, pp. 514–526.
-* Ginsberg, M., 1986, “Counterfactuals”, _Artificial Intelligence_, 30(1): 35–79.
-* Goldman, A., 1999, _Knowledge in a Social World_, Oxford: Oxford University Press.
-* –––, 2004, “Group Knowledge versus Group Rationality: Two Approaches to Social Epistemology”, _Episteme, A Journal of Social Epistemology_, 1(1): 11–22.
-* –––, 2010, “Social Epistemology”, _The Stanford Encyclopedia of Philosophy_ (Summer 2010 Edition), Edward N. Zalta (ed.), URL = <[Social Epistemology (Stanford Encyclopedia of Philosophy/Summer 2010 Edition)](https://plato.stanford.edu/archives/sum2010/entries/epistemology-social/)>.
-* Grégoire, E., 2004, “Extension of a Distance-based Fusion Framework”, in _Proceedings of the 8th International Conference on Sensor Fusion: Architectures, Algorithms and Applications_, pp. 282–286.
-* Grégoire, E. and S. Konieczny, 2006, “Logic-based Approaches to Information Fusion”, _Information Fusion_, 7: 4–18.
-* Grandi, U., 2012, _Binary Aggregation with Integrity Constraints_, Ph.D. thesis, ILLC, University of Amsterdam \[[Grandi 2012 available online](https://www.illc.uva.nl/Research/Publications/Dissertations/DS-2012-08.text.pdf)].
-* Grossi, D., 2009, “Unifying Preference and Judgment Aggregation”, in _Proceedings of the 8th International Conference on Autonomous Agents and Multiagent Systems_, pp. 217–224.
-* Grossi, D. and G. Pigozzi, 2014, _Judgment Aggregation: A Primer_, San Rafael, CA: Morgan & Claypool.
-* Hansson, S.O., 2011, “Logic of Belief Revision”, _The Stanford Encyclopedia of Philosophy_ (Fall 2011 Edition), Edward N. Zalta (ed.), URL = <[Logic of Belief Revision (Stanford Encyclopedia of Philosophy/Fall 2011 Edition)](https://plato.stanford.edu/archives/fall2011/entries/logic-belief-revision/)>.
-* Hartmann, S., G. Pigozzi, and J. Sprenger, 2010, “Reliable Methods of Judgment Aggregation”, _Journal of Logic and Computation_, 20(2): 603–617.
-* Hartmann, S. and J. Sprenger, 2012, “Judgment Aggregation and the Problem of Tracking the Truth”, _Synthese_, 187(1): 209–221.
-* Hudry, O., 1989, _Recherches d’Ordres Médians: Complexité, Algorithmique et Problèmes Combinatoires_, Ph.D. thesis, Telecom Paris Tech.
-* Katsuno, H. and A.O. Mendelzon, 1991, “Propositional Knowledge Base Revision and Minimal Change”, _Artificial Intelligence_, 52: 263–294.
-* Kemeny, J., 1959, “Mathematics without numbers”, _Daedalus_, 88: 577–591.
-* Kim, W. (ed.), 1995, _Modern Database Systems: The Object Model, Interoperability and Beyond_, New York: Addison Wesley.
-* Konieczny, S., 2000, “On the Difference between Merging Knowledge Bases and Combining them”, in A.G. Cohn, F. Giunchiglia, and B. Selman, (eds.), _KR2000: Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann, pp. 135–144.
-* Konieczny, S. and R. Pino Pérez, 1998, “On the Logic of Merging”, in _Proceedings of the 6th International Conference on Principles of Knowledge Representation and Reasoning_, San Francisco: Morgan Kaufmann, pp. 488–498.
-* –––, 1999, “Merging with Integrity Constraints”, in _Proceedings of the 5th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty_ (ECSQARU ’99), LNAI 1638, pp. 233–244.
-* –––, 2002, “Merging Information under Constraints: A Logical Framework”, _Journal of Logic and Computation_, 12: 773–808.
-* Kornhauser, L.A., 1992, “Modeling Collegial Courts. II. Legal Doctrine”, _Journal of Law, Economics, and Organization_, 8: 441–470.
-* Kornhauser, L.A. and L.G. Sager, 1986, “Unpacking the Court”, _Yale Law Journal_, 96: 82–117.
-* –––, 1993, “The One and the Many: Adjudication in Collegial Courts”, _California Law Review_, 81: 1–51.
-* –––, 2004, “The Many as One: Integrity and Group Choice in Paradoxical Cases”, _Philosophy & Public Affairs_, 32(3): 249–276.
-* Kowalski, R., 1978, “Logic for data description”, in H.G.J. Minker (ed.), _Logic and data bases_, New York: Plenum, pp. 77–102.
-* Lang, J., M. Slavkovik, and S. Vesic, 2016, “Agenda Separability in Judgment Aggregation”, in _Proceedings of the Thirtieth Conference on Artificial Intelligence_, Palo Alto: Association for the Advancement of Artificial Intelligence (AAAI), pp. 1016–1022.
-* Lang, J., G. Pigozzi, M. Slavkovik, L. van der Torre, and S. Vesic, 2017, “A Partial Taxonomy of Judgment Aggregation Rules and their Properties”, _Social Choice and Welfare_, 48(2): 327–356.
-* Liberatore, P. and M. Schaerf, 1995, “Arbitration: a Commutative Operator for Belief Revision”, in _Proceedings of the Second World Conference on the Fundamentals of Artificial Intelligence_, pp. 217–228.
-* –––, 1998, “Arbitration (or How to Merge Knowledge Bases)”, _IEEE Transactions on Knowledge and Data Engineering_, 10(1): 76–90.
-* Lin, J., 1995, _Frameworks for Dealing with Conflicting Information and Applications_, Ph.D. thesis, University of Toronto.
-* –––, 1996, “Integration of Weighted Knowledge Bases”, _Artificial Intelligence_, 83: 363–378.
-* Lin, J. and A. Mendelzon, 1996, “Merging databases under constraints”, _International Journal of Cooperative Information Systems_, 7: 55–76.
-* –––, 1999, “Knowledge Base Merging by Majority”, in _Dynamic Worlds: From the Frame Problem to Knowledge Management_, R. Pareschi and B. Fronhöfer (eds), Norwell, MA: Kluwer, pp. 195–218.
-* List, C., 2002, “A Possibility Theorem on Aggregation over Multiple Interconnected Propositions”, _Mathematical Social Sciences_, 45(1): 1–13.
-* –––, 2013, “Social Choice Theory”, _The Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Social Choice Theory (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/social-choice/)>.
-* List, C. and P. Pettit, 2002, “Aggregating sets of judgments: an impossibility result”, _Economics and Philosophy_, 18: 89–110.
-* –––, 2004, “Aggregating Sets of Judgments: Two Impossibility Results Compared”, _Synthese_, 140: 207–235.
-* List, C. and C. Puppe, 2009, “Judgment Aggregation: A Survey”, in P. Anand, C. Puppe, and P. Pattanaik (eds.), _The Handbook of Rational and Social Choice_, Oxford: Oxford University Press, pp. 457–482.
-* Meyer, T., A. Ghose, and S. Chopra, 2001, “Social Choice, Merging and Elections”, in _Proceedings of the 6th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty_, Benferhat and Besnard (eds.), Vol. 2143 of _Lecture Notes in Artificial Intelligence_, Berlin: Springer, pp. 466–477.
-* Miller, M.K. and D. Osherson, 2009, “Methods for Distance-based Judgment Aggregation”, _Social Choice and Welfare_, 32(4): 575–601.
-* Mongin, P., 2008, “Factoring Out the Impossibility of Logical Aggregation”, _Journal of Economic Theory_, 141: 100–113.
-* Morreau, M., 2014, “Arrow’s Theorem”, _The Stanford Encyclopedia of Philosophy_ (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/arrows-theorem/](https://plato.stanford.edu/archives/win2014/entries/arrows-theorem/).
-* Pauly, M. and M. van Hees, 2006, “Logical Constraints on Judgment Aggregation”, _Journal of Philosophical Logic_, 35: 569–585.
-* Pettit, P., 2001, “Deliberative Democracy and the Discursive Dilemma”, _Philosophical Issues_, 11: 268–299.
-* Pigozzi, G., 2006, “Belief merging and the discursive dilemma: an argument-based account to paradoxes of judgment aggregation”, _Synthese_, 152: 285–298.
-* Poisson, S.D., 1837, _Recherches sur la probabilité des jugements en matière criminelle et en matière civile: précédées des règles générales du calcul des probabilités_, Paris.
-* Porello, D., 2017, “Judgment Aggregation in Non-Classical Logics”, _Journal of Applied Non-Classical Logics_, 27(1–2): 106–139.
-* Reiter, R., 1988, “On Integrity Constraints”, in M.Y. Vardi (ed.), _Proceedings of the Second Conference on the Theoretical Aspects of Reasoning about Knowledge_, San Francisco: Morgan Kaufmann, pp. 97–111.
-* Revesz, P., 1993, “On the Semantics of Theory Change: Arbitration between Old and New Information”, in C. Beeri (ed.), _Proceedings of the Twelfth ACM Symposium on Principles of Database Systems_, Washington D.C., pp. 71–82.
-* –––, 1997, “On the Semantics of Arbitration”, _International Journal of Algebra and Computation_, 7(2): 133–160.
-* Roth, A.S., 2011, “Shared Agency”, _The Stanford Encyclopedia of Philosophy_ (Spring 2011 Edition), E.N. Zalta (ed.), URL = <[Shared Agency (Stanford Encyclopedia of Philosophy/Spring 2011 Edition)](https://plato.stanford.edu/archives/spr2011/entries/shared-agency)>.
-* Sen, A.K., 1970, _Collective Choice and Social Welfare_, San Francisco: Holden-Day.
-* Spector, H., 2009, “The Right to a Constitutional Jury”, _Legisprudence_, 3(1): 111–123.
-* Subrahmanian, V.S., 1994, “Amalgamating Knowledge Bases”, _ACM Transactions on Database Systems_, 19(2): 291–331.
-* Vacca, R., 1921, “Opinioni Individuali e Deliberazioni Collettive”, _Rivista Internazionale di Filosofia del Diritto_, 52: 52–59.
-* Willamson, J., 2009, “Aggregating Judgments by Merging Evidence”, _Journal of Logic and Computation_, 19(3): 461–473.
-* Xuefeng, W., 2018, “Judgment Aggregation in Nonmonotonic Logic”, _Synthese_, 195(8): 3651–3683.
+* Elmagarmid, A., M. Rusinliewicz, and A. Sheth (eds.), 1999, *Management of Heterogeneous and Autonomous Database Systems*, San Francisco, CA, USA: Morgan Kaufmann.
+* Elster, J., 2013, “Excessive Ambitions (II)”, *Capitalism and Society*, 8(1): Article 1 \[[Elster 2013 available online](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2207111)]
+* Endriss, U., 2016, “Judgment Aggregation”, in F. Brandt, V. Conitzer, U. Endriss, J. Lang, A. Procaccia (eds.), *Handbook of Computational Social Choice*, Cambridge: Cambridge University Press, pp. 399–426.
+* Endriss, U. and R. de Haan, 2015, “Complexity of the Winner Determination Problem in Judgment Aggregation: Kemeny, Slater, Tideman, Young”, in *Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems*, IFAMAS, pp. 117–125.
+* Endriss, U., U. Grandi, and D. Porello, 2012, “Complexity of Judgment Aggregation”, *Journal of Artificial Intelligence Research*, 45: 481–514.
+* Everaere, P., S. Konieczny, and P. Marquis, 2007, “The Strategy-Proofness Landscape of Merging”, *Journal of Artificial Intelligence Research (JAIR)*, 28: 49–105.
+* –––, 2015, “Belief Merging versus Judgment Aggregation”, in *Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems* (AAMAS 15), pp. 999–1007.
+* –––, 2017, “An Introduction to Belief Merging and its Links to Judgment Aggregation”, in U. Endriss (ed.), *Trends in Computational Social Choice*, AI Access Books, pp. 123–143.
+* Fermé, E. and S.O. Hansson, 2018, *Belief Change. Introduction and Overview*, Springer.
+* Gärdenfors, P., 1988, *Knowledge in Flux: Modeling the Dynamics of Epistemic States*, Cambridge, MA: MIT Press.
+* –––, 2006, “A Representation Theorem for Voting with Logical Consequences”, *Economics and Philosophy*, 22: 18–190.
+* Gauwin, O., S. Konieczny, and P. Marquis, 2005, “Conciliation and Consensus in Iterated Belief Merging”, in *Proceedings of the 8th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty*, Berlin: Springer, pp. 514–526.
+* Ginsberg, M., 1986, “Counterfactuals”, *Artificial Intelligence*, 30(1): 35–79.
+* Goldman, A., 1999, *Knowledge in a Social World*, Oxford: Oxford University Press.
+* –––, 2004, “Group Knowledge versus Group Rationality: Two Approaches to Social Epistemology”, *Episteme, A Journal of Social Epistemology*, 1(1): 11–22.
+* –––, 2010, “Social Epistemology”, *The Stanford Encyclopedia of Philosophy* (Summer 2010 Edition), Edward N. Zalta (ed.), URL = <[Social Epistemology (Stanford Encyclopedia of Philosophy/Summer 2010 Edition)](https://plato.stanford.edu/archives/sum2010/entries/epistemology-social/)>.
+* Grégoire, E., 2004, “Extension of a Distance-based Fusion Framework”, in *Proceedings of the 8th International Conference on Sensor Fusion: Architectures, Algorithms and Applications*, pp. 282–286.
+* Grégoire, E. and S. Konieczny, 2006, “Logic-based Approaches to Information Fusion”, *Information Fusion*, 7: 4–18.
+* Grandi, U., 2012, *Binary Aggregation with Integrity Constraints*, Ph.D. thesis, ILLC, University of Amsterdam \[[Grandi 2012 available online](https://www.illc.uva.nl/Research/Publications/Dissertations/DS-2012-08.text.pdf)].
+* Grossi, D., 2009, “Unifying Preference and Judgment Aggregation”, in *Proceedings of the 8th International Conference on Autonomous Agents and Multiagent Systems*, pp. 217–224.
+* Grossi, D. and G. Pigozzi, 2014, *Judgment Aggregation: A Primer*, San Rafael, CA: Morgan & Claypool.
+* Hansson, S.O., 2011, “Logic of Belief Revision”, *The Stanford Encyclopedia of Philosophy* (Fall 2011 Edition), Edward N. Zalta (ed.), URL = <[Logic of Belief Revision (Stanford Encyclopedia of Philosophy/Fall 2011 Edition)](https://plato.stanford.edu/archives/fall2011/entries/logic-belief-revision/)>.
+* Hartmann, S., G. Pigozzi, and J. Sprenger, 2010, “Reliable Methods of Judgment Aggregation”, *Journal of Logic and Computation*, 20(2): 603–617.
+* Hartmann, S. and J. Sprenger, 2012, “Judgment Aggregation and the Problem of Tracking the Truth”, *Synthese*, 187(1): 209–221.
+* Hudry, O., 1989, *Recherches d’Ordres Médians: Complexité, Algorithmique et Problèmes Combinatoires*, Ph.D. thesis, Telecom Paris Tech.
+* Katsuno, H. and A.O. Mendelzon, 1991, “Propositional Knowledge Base Revision and Minimal Change”, *Artificial Intelligence*, 52: 263–294.
+* Kemeny, J., 1959, “Mathematics without numbers”, *Daedalus*, 88: 577–591.
+* Kim, W. (ed.), 1995, *Modern Database Systems: The Object Model, Interoperability and Beyond*, New York: Addison Wesley.
+* Konieczny, S., 2000, “On the Difference between Merging Knowledge Bases and Combining them”, in A.G. Cohn, F. Giunchiglia, and B. Selman, (eds.), *KR2000: Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann, pp. 135–144.
+* Konieczny, S. and R. Pino Pérez, 1998, “On the Logic of Merging”, in *Proceedings of the 6th International Conference on Principles of Knowledge Representation and Reasoning*, San Francisco: Morgan Kaufmann, pp. 488–498.
+* –––, 1999, “Merging with Integrity Constraints”, in *Proceedings of the 5th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty* (ECSQARU ’99), LNAI 1638, pp. 233–244.
+* –––, 2002, “Merging Information under Constraints: A Logical Framework”, *Journal of Logic and Computation*, 12: 773–808.
+* Kornhauser, L.A., 1992, “Modeling Collegial Courts. II. Legal Doctrine”, *Journal of Law, Economics, and Organization*, 8: 441–470.
+* Kornhauser, L.A. and L.G. Sager, 1986, “Unpacking the Court”, *Yale Law Journal*, 96: 82–117.
+* –––, 1993, “The One and the Many: Adjudication in Collegial Courts”, *California Law Review*, 81: 1–51.
+* –––, 2004, “The Many as One: Integrity and Group Choice in Paradoxical Cases”, *Philosophy & Public Affairs*, 32(3): 249–276.
+* Kowalski, R., 1978, “Logic for data description”, in H.G.J. Minker (ed.), *Logic and data bases*, New York: Plenum, pp. 77–102.
+* Lang, J., M. Slavkovik, and S. Vesic, 2016, “Agenda Separability in Judgment Aggregation”, in *Proceedings of the Thirtieth Conference on Artificial Intelligence*, Palo Alto: Association for the Advancement of Artificial Intelligence (AAAI), pp. 1016–1022.
+* Lang, J., G. Pigozzi, M. Slavkovik, L. van der Torre, and S. Vesic, 2017, “A Partial Taxonomy of Judgment Aggregation Rules and their Properties”, *Social Choice and Welfare*, 48(2): 327–356.
+* Liberatore, P. and M. Schaerf, 1995, “Arbitration: a Commutative Operator for Belief Revision”, in *Proceedings of the Second World Conference on the Fundamentals of Artificial Intelligence*, pp. 217–228.
+* –––, 1998, “Arbitration (or How to Merge Knowledge Bases)”, *IEEE Transactions on Knowledge and Data Engineering*, 10(1): 76–90.
+* Lin, J., 1995, *Frameworks for Dealing with Conflicting Information and Applications*, Ph.D. thesis, University of Toronto.
+* –––, 1996, “Integration of Weighted Knowledge Bases”, *Artificial Intelligence*, 83: 363–378.
+* Lin, J. and A. Mendelzon, 1996, “Merging databases under constraints”, *International Journal of Cooperative Information Systems*, 7: 55–76.
+* –––, 1999, “Knowledge Base Merging by Majority”, in *Dynamic Worlds: From the Frame Problem to Knowledge Management*, R. Pareschi and B. Fronhöfer (eds), Norwell, MA: Kluwer, pp. 195–218.
+* List, C., 2002, “A Possibility Theorem on Aggregation over Multiple Interconnected Propositions”, *Mathematical Social Sciences*, 45(1): 1–13.
+* –––, 2013, “Social Choice Theory”, *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Social Choice Theory (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/social-choice/)>.
+* List, C. and P. Pettit, 2002, “Aggregating sets of judgments: an impossibility result”, *Economics and Philosophy*, 18: 89–110.
+* –––, 2004, “Aggregating Sets of Judgments: Two Impossibility Results Compared”, *Synthese*, 140: 207–235.
+* List, C. and C. Puppe, 2009, “Judgment Aggregation: A Survey”, in P. Anand, C. Puppe, and P. Pattanaik (eds.), *The Handbook of Rational and Social Choice*, Oxford: Oxford University Press, pp. 457–482.
+* Meyer, T., A. Ghose, and S. Chopra, 2001, “Social Choice, Merging and Elections”, in *Proceedings of the 6th European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty*, Benferhat and Besnard (eds.), Vol. 2143 of *Lecture Notes in Artificial Intelligence*, Berlin: Springer, pp. 466–477.
+* Miller, M.K. and D. Osherson, 2009, “Methods for Distance-based Judgment Aggregation”, *Social Choice and Welfare*, 32(4): 575–601.
+* Mongin, P., 2008, “Factoring Out the Impossibility of Logical Aggregation”, *Journal of Economic Theory*, 141: 100–113.
+* Morreau, M., 2014, “Arrow’s Theorem”, *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/arrows-theorem/](https://plato.stanford.edu/archives/win2014/entries/arrows-theorem/).
+* Pauly, M. and M. van Hees, 2006, “Logical Constraints on Judgment Aggregation”, *Journal of Philosophical Logic*, 35: 569–585.
+* Pettit, P., 2001, “Deliberative Democracy and the Discursive Dilemma”, *Philosophical Issues*, 11: 268–299.
+* Pigozzi, G., 2006, “Belief merging and the discursive dilemma: an argument-based account to paradoxes of judgment aggregation”, *Synthese*, 152: 285–298.
+* Poisson, S.D., 1837, *Recherches sur la probabilité des jugements en matière criminelle et en matière civile: précédées des règles générales du calcul des probabilités*, Paris.
+* Porello, D., 2017, “Judgment Aggregation in Non-Classical Logics”, *Journal of Applied Non-Classical Logics*, 27(1–2): 106–139.
+* Reiter, R., 1988, “On Integrity Constraints”, in M.Y. Vardi (ed.), *Proceedings of the Second Conference on the Theoretical Aspects of Reasoning about Knowledge*, San Francisco: Morgan Kaufmann, pp. 97–111.
+* Revesz, P., 1993, “On the Semantics of Theory Change: Arbitration between Old and New Information”, in C. Beeri (ed.), *Proceedings of the Twelfth ACM Symposium on Principles of Database Systems*, Washington D.C., pp. 71–82.
+* –––, 1997, “On the Semantics of Arbitration”, *International Journal of Algebra and Computation*, 7(2): 133–160.
+* Roth, A.S., 2011, “Shared Agency”, *The Stanford Encyclopedia of Philosophy* (Spring 2011 Edition), E.N. Zalta (ed.), URL = <[Shared Agency (Stanford Encyclopedia of Philosophy/Spring 2011 Edition)](https://plato.stanford.edu/archives/spr2011/entries/shared-agency)>.
+* Sen, A.K., 1970, *Collective Choice and Social Welfare*, San Francisco: Holden-Day.
+* Spector, H., 2009, “The Right to a Constitutional Jury”, *Legisprudence*, 3(1): 111–123.
+* Subrahmanian, V.S., 1994, “Amalgamating Knowledge Bases”, *ACM Transactions on Database Systems*, 19(2): 291–331.
+* Vacca, R., 1921, “Opinioni Individuali e Deliberazioni Collettive”, *Rivista Internazionale di Filosofia del Diritto*, 52: 52–59.
+* Willamson, J., 2009, “Aggregating Judgments by Merging Evidence”, *Journal of Logic and Computation*, 19(3): 461–473.
+* Xuefeng, W., 2018, “Judgment Aggregation in Nonmonotonic Logic”, *Synthese*, 195(8): 3651–3683.
 
 ## Academic Tools
 
@@ -356,4 +354,4 @@ Duddy 和 Piggins（2012）质疑使用汉明距离来衡量判断集之间的�
 I am indebted to Eric Pacuit and to an anonymous reviewer of the updated entry, who provided many valuable comments and suggestions that greatly improved the content and readability of this entry, and to Erman Acar who pointed out some typos in the previous version.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Gabriella Pigozzi](http://www.pigozzi.org/) <[_gabriella.pigozzi@lamsade.dauphine.fr_](mailto:gabriella%2epigozzi%40lamsade%2edauphine%2efr)>
+[Gabriella Pigozzi](http://www.pigozzi.org/) <[*gabriella.pigozzi@lamsade.dauphine.fr*](mailto:gabriella%2epigozzi%40lamsade%2edauphine%2efr)>

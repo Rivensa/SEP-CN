@@ -1,10 +1,8 @@
 # 威廉·海特斯伯里 Heytesbury, William (Miroslav Hanke and Elzbieta Jung)
 
-_首次发表于2018年1月19日星期五；实质性修订于2022年5月13日星期五。_
+*首次发表于2018年1月19日星期五；实质性修订于2022年5月13日星期五。*
 
 威廉·海特斯伯里（约 1313 年至 1372/3 年），是牛津大学默顿学院和“牛津计算者”学派的成员，很可能是理查德·基尔文顿的学生，后者是约翰·邓布尔顿的年轻同代人。海特斯伯里发展了托马斯·布拉德沃丁和理查德·基尔文顿的著作，同时也受到沃尔特·伯利、威廉·奥卡姆和罗杰·斯温谢德（或斯温斯黑德）的影响。他撰写了一本流行的教科书《解决诡辩法则》和其他几本诡辩集。他将逻辑、数学和物理联系在一起。他提出了中间程度定理（也称为平均速度定理），为匀加速运动提供了适当的规则，后来被伽利略发展。他的作品预示了 19 世纪对连续体的数学分析。他影响了英国和意大利的逻辑（在那里印刷了几个晚 14 世纪和早 15 世纪的版本），他的影响一直持续到 16 世纪，当时他参与的辩论逐渐减少。
-
- 
 
 ***
 
@@ -26,8 +24,8 @@ _首次发表于2018年1月19日星期五；实质性修订于2022年5月13日�
 
 **未确定真实性的作品：**
 
-* _Probationes conclusionum_
-* _Casus obligationis_ \[CO]
+* *Probationes conclusionum*
+* *Casus obligationis* \[CO]
 * 有关多重命题或多重命题意义
 *
 * 自然术语\*
@@ -309,28 +307,28 @@ _首次发表于2018年1月19日星期五；实质性修订于2022年5月13日�
 
 ### List of Abbreviations
 
-* \[CO]_Casus obligationis_
-* \[DML]_De motu locali_
-* \[IHT]_Iuxta hunc textum_ (_Consequentie subtiles Hentisberi_)
-* \[PC]_Probationes conclusionum_
-* \[RSS]_Regulae solvendi sophismata_ (=_Logica_ )
-* \[SCD]_De sensu composito et diviso_
-* \[Soph]_Sophismata_
-* \[SophAs]_Sophismata asinina_
+* \[CO]*Casus obligationis*
+* \[DML]*De motu locali*
+* \[IHT]*Iuxta hunc textum* (*Consequentie subtiles Hentisberi*)
+* \[PC]*Probationes conclusionum*
+* \[RSS]*Regulae solvendi sophismata* (=*Logica* )
+* \[SCD]*De sensu composito et diviso*
+* \[Soph]*Sophismata*
+* \[SophAs]*Sophismata asinina*
 
 ### General Bibliographical Sources
 
-* Sharpe, Richard, 2001, _A Handlist of the Latin Writers of Great Britain and Ireland before 1540. With Additions and Corrections_, Turnhout: Brepols.
-* Spade, Paul Vincent, 1989, “The Manuscripts of William Heytesbury’s ‘Regulae Solvendi Sophismata’: Conclusions, Notes and Descriptions”, _Medioevo_, 15: 271–314.
-* Weijers, Olga, 1998, _Le travail intellectuel à la Faculté des arts de Paris: textes et maîtres (ca. 1200–1500). Répertoire des noms commençant par G_, Turnhout: Brepols, pp. 212–217.
-* Weisheipl, James A., 1969, “Repertorium Mertonense”, _Mediaeval Studies_, 31: 174–224. doi:10.1484/J.MS.2.306064
+* Sharpe, Richard, 2001, *A Handlist of the Latin Writers of Great Britain and Ireland before 1540. With Additions and Corrections*, Turnhout: Brepols.
+* Spade, Paul Vincent, 1989, “The Manuscripts of William Heytesbury’s ‘Regulae Solvendi Sophismata’: Conclusions, Notes and Descriptions”, *Medioevo*, 15: 271–314.
+* Weijers, Olga, 1998, *Le travail intellectuel à la Faculté des arts de Paris: textes et maîtres (ca. 1200–1500). Répertoire des noms commençant par G*, Turnhout: Brepols, pp. 212–217.
+* Weisheipl, James A., 1969, “Repertorium Mertonense”, *Mediaeval Studies*, 31: 174–224. doi:10.1484/J.MS.2.306064
 
 ### Manuscripts of Heytesbury’s Texts
 
-* _**De propositionibus multiplicibus**_**:**
+* ***De propositionibus multiplicibus*****:**
   * Cambridge: Gonville and Caius College, ms. 434/434, fols. 19r–21.
-  * Venezia: _Biblioteca Marciana_, lat. VI. 160 (2816), fols. 252r–253v.
-* _**Logica**_ or _**Regulae solvendi sophismata**_** \[RSS]**:
+  * Venezia: *Biblioteca Marciana*, lat. VI. 160 (2816), fols. 252r–253v.
+* ***Logica*** or ***Regulae solvendi sophismata*****\[RSS]**:
   * Bergamo: Biblioteca Civita Angelo Mai 481 (IV 7), fols. 1ra–87rb.
   * Bruges: Openbare Bibliotheek 497, fols. 46–59va.
   * Bruges: Openbare Bibliotheek 500, fols. 33–71va \[c. 2–6].
@@ -365,142 +363,142 @@ _首次发表于2018年1月19日星期五；实质性修订于2022年5月13日�
   * Venezia: Biblioteca Nazionale San Marco, lat. VIII. 38(3383), fols. 66va–72rb \[c. 6].
   * Verona: Biblioteca Civica 2881, fols. 6va–45va.
   * Warszawa: Biblioteka Narodowa III. 8058, fols. 7ra–134vb \[c. 1–5].
-* _**Sophismata**_** \[Soph]:**
+* ***Sophismata*****\[Soph]:**
   * Paris: Bibliothèque nationale de France 16134, fols. 81ra–146ra.
   * Città del Vaticano: Biblioteca Apostolica Vaticana Vat. lat. 2138, fols. 1ra–86va.
-* _**Probationes conclusionum**_**:**
+* ***Probationes conclusionum*****:**
 *
   * Praha: Národní knihovna X.H.11, fols. 45ra–67ra.
   * Città del Vaticano: Biblioteca Apostolica Vaticana Vat. lat. 2189, fols. 13vb–38vb.
-  * Venezia: _Biblioteca Marciana_ Lat. Z. 277 (=1728)_, fols. 34r_–_46v_
+  * Venezia: *Biblioteca Marciana* Lat. Z. 277 (=1728)*, fols. 34r*–*46v*
 
 ### Early Prints of Heytesbury’s and Pseudo-Heytesbury’s Texts
 
-* William Heytesbury, 1491, _Regule solvendi sophismata_, Venezia: Johannes and Gregorius de Forlivio.
-* –––, 1491, _Sophismata_, Venezia: Johannes and Gregorius de Forlivio.
-* –––, 1491, _Tractatus de sensu composito et diviso_, Venezia: Johannes and Gregorius de Forlivio.
-* –––, 1494, _Probationes conclusionum_, Venezia: Bonetus Locatellus.
-* –––, 1494, _Regule solvendi sophismata_, Venezia: Bonetus Locatellus.
-* –––, 1494, _Sophismata_, Venezia: Bonetus Locatellus.
-* –––, 1494, _Tractatus de sensu composito et diviso_, Venezia: Bonetus Locatellus.
-* –––, 1500, _Tractatus de sensu composito et diviso_, Venezia: Jacobus Pentius de Leuco.
+* William Heytesbury, 1491, *Regule solvendi sophismata*, Venezia: Johannes and Gregorius de Forlivio.
+* –––, 1491, *Sophismata*, Venezia: Johannes and Gregorius de Forlivio.
+* –––, 1491, *Tractatus de sensu composito et diviso*, Venezia: Johannes and Gregorius de Forlivio.
+* –––, 1494, *Probationes conclusionum*, Venezia: Bonetus Locatellus.
+* –––, 1494, *Regule solvendi sophismata*, Venezia: Bonetus Locatellus.
+* –––, 1494, *Sophismata*, Venezia: Bonetus Locatellus.
+* –––, 1494, *Tractatus de sensu composito et diviso*, Venezia: Bonetus Locatellus.
+* –––, 1500, *Tractatus de sensu composito et diviso*, Venezia: Jacobus Pentius de Leuco.
 
 ### Modern Editions and Translations of Heytesbury’s Texts
 
-* William Heytesbury, 1961, _Regulae solvendi sophismata_ \[Part VI. Local motion], in Marshall Clagett, _The Science of Mechanics in the Middle Ages_ (Madison, WI: Wisconsin University Press), pp. 235–242 and 270–283 \[partial edition with an English translation based on the 1494 printed edition and mss Bruges, Stadsbibliotheek 497; Bruges, Stadsbibliotheek 500; Città del Vaticano: Biblioteca Apostolica Vaticana, Vat. lat. 2136].
-* –––, 1979, _William of Heytesbury on “Insoluble” Sentences_, Paul V. Spade (ed. and transl.), Toronto: Pontifical Institute of Medieval Studies.
-* –––, 1987, “De insolubilibus Guilelmi Hentisbery”, in Lorenzo Pozzi (ed. and transl.), _Il Mentitore e il Medioevo: il dibattito sui paradossi dell’autoriferimento: scelta di testi, commento, traduzione_, Parma: Edizioni Zara, pp. 212–251 \[based on the 1494 printed edition and mss Città del Vaticano: Biblioteca Apostolica Vaticana, Vat. lat. 2136 and 2138].
-* –––, 1988a, “The Compounded and Divided Senses”, in Norman Kretzmann and Eleonore Stump (ed. and transl.), _The Cambridge Translations of Medieval Philosophical Texts, Vol. 1: Logic and Philosophy of Language_, Cambridge: Cambridge University Press, pp. 413–434 \[based on the 1494 printed edition and several manuscripts].
-* –––, 1988b, “The Verbs ‘Know’ and ‘Doubt’”, in Norman Kretzmann and Eleonore Stump (ed. and transl.), _The Cambridge Translations of Medieval Philosophical Texts, Vol. 1: Logic and Philosophy of Language_, Cambridge: Cambridge University Press, pp. 435–479 \[based on the 1494 printed edition and several manuscripts].
-* –––, 1994, _Sophismata asinina: une introduction aux disputes médiévales_, Fabienne Pironet (ed.), Paris: Libraire Philosophique J. Vrin.
-* –––, _Sophismata_, edited by Fabienne Pironet \[transcription of the 1494 edition]. [_Sophismata_ (Part I) available online](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W\Heytesbury\Sophismata\Part1.pdf) and [_Sophismata_ (Part II) available online](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W\Heytesbury\Sophismata\Part2.pdf).
-* –––, 2003, _Les traites “Juxta hunc textum” de Guillaume Heytesbury et Robert Alyngton. Edition critique précédée d’une introduction historique et paléographique_, Universite de Geneve, Projet Sophismata. [available online](http://www.unige.ch/lettres/philo/sophismata/publications.htm)
-* –––, 2008, _De insolubilibus_, in Fabienne Pironet, “William Heytesbury and the treatment of Insolubilia in 14th-century England”, in Shahid Rahman, Tero Tulenheimo, and Emmanuel Genot (eds.), _Unity, Truth and the Liar_: _The Modern Relevance of Medieval Solutions to the Liar Paradox_, Berlin: Springer-Verlag, pp. 283–289 \[partial transcription of the 1494 edition].
-* –––, 2020, _Regulae solvendi sophismata: De motu locali_, in Elżbieta Jung, Robert Podkoński (eds.), _Towards the Modern Theory of Motion. Oxford Calculators and the new interpretation of Aristotle_, (Research on Science and Natural Philosophy, 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 267–296 \[a critical edition using Erfurt, MS Amplon. F. 135 as the basic manuscript; the apparatus records nine mss, with 24 complete mss taken into consideration].
-* –––, 2021, _Casus obligationis_, in Miroslav Hanke, “The Casus Obligationis Attributed to William Heytesbury”, _Cahiers de l’Institut du Moyen-Âge Grec et Latin_ 90: 226–264. [available online](https://cimagl.saxo.ku.dk/download/no.-90/90hanke226-264.pdf)
+* William Heytesbury, 1961, *Regulae solvendi sophismata* \[Part VI. Local motion], in Marshall Clagett, *The Science of Mechanics in the Middle Ages* (Madison, WI: Wisconsin University Press), pp. 235–242 and 270–283 \[partial edition with an English translation based on the 1494 printed edition and mss Bruges, Stadsbibliotheek 497; Bruges, Stadsbibliotheek 500; Città del Vaticano: Biblioteca Apostolica Vaticana, Vat. lat. 2136].
+* –––, 1979, *William of Heytesbury on “Insoluble” Sentences*, Paul V. Spade (ed. and transl.), Toronto: Pontifical Institute of Medieval Studies.
+* –––, 1987, “De insolubilibus Guilelmi Hentisbery”, in Lorenzo Pozzi (ed. and transl.), *Il Mentitore e il Medioevo: il dibattito sui paradossi dell’autoriferimento: scelta di testi, commento, traduzione*, Parma: Edizioni Zara, pp. 212–251 \[based on the 1494 printed edition and mss Città del Vaticano: Biblioteca Apostolica Vaticana, Vat. lat. 2136 and 2138].
+* –––, 1988a, “The Compounded and Divided Senses”, in Norman Kretzmann and Eleonore Stump (ed. and transl.), *The Cambridge Translations of Medieval Philosophical Texts, Vol. 1: Logic and Philosophy of Language*, Cambridge: Cambridge University Press, pp. 413–434 \[based on the 1494 printed edition and several manuscripts].
+* –––, 1988b, “The Verbs ‘Know’ and ‘Doubt’”, in Norman Kretzmann and Eleonore Stump (ed. and transl.), *The Cambridge Translations of Medieval Philosophical Texts, Vol. 1: Logic and Philosophy of Language*, Cambridge: Cambridge University Press, pp. 435–479 \[based on the 1494 printed edition and several manuscripts].
+* –––, 1994, *Sophismata asinina: une introduction aux disputes médiévales*, Fabienne Pironet (ed.), Paris: Libraire Philosophique J. Vrin.
+* –––, *Sophismata*, edited by Fabienne Pironet \[transcription of the 1494 edition]. [*Sophismata* (Part I) available online](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W\Heytesbury\Sophismata\Part1.pdf) and [*Sophismata* (Part II) available online](http://ddata.over-blog.com/xxxyyy/4/07/38/29/Textes-Philomed/Heytesbury/W\Heytesbury\Sophismata\Part2.pdf).
+* –––, 2003, *Les traites “Juxta hunc textum” de Guillaume Heytesbury et Robert Alyngton. Edition critique précédée d’une introduction historique et paléographique*, Universite de Geneve, Projet Sophismata. [available online](http://www.unige.ch/lettres/philo/sophismata/publications.htm)
+* –––, 2008, *De insolubilibus*, in Fabienne Pironet, “William Heytesbury and the treatment of Insolubilia in 14th-century England”, in Shahid Rahman, Tero Tulenheimo, and Emmanuel Genot (eds.), *Unity, Truth and the Liar*: *The Modern Relevance of Medieval Solutions to the Liar Paradox*, Berlin: Springer-Verlag, pp. 283–289 \[partial transcription of the 1494 edition].
+* –––, 2020, *Regulae solvendi sophismata: De motu locali*, in Elżbieta Jung, Robert Podkoński (eds.), *Towards the Modern Theory of Motion. Oxford Calculators and the new interpretation of Aristotle*, (Research on Science and Natural Philosophy, 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 267–296 \[a critical edition using Erfurt, MS Amplon. F. 135 as the basic manuscript; the apparatus records nine mss, with 24 complete mss taken into consideration].
+* –––, 2021, *Casus obligationis*, in Miroslav Hanke, “The Casus Obligationis Attributed to William Heytesbury”, *Cahiers de l’Institut du Moyen-Âge Grec et Latin* 90: 226–264. [available online](https://cimagl.saxo.ku.dk/download/no.-90/90hanke226-264.pdf)
 
 ### Other Scholastic Sources
 
-* Anonymous, 1984, _Tractatus de Maximo et Minimo_, John Longeway (ed.) in _William Heytesbury On Maxima and Minima. Chapter 5 of_ “Rules for Solving Sophismata”, _with an anonymous fourteenth-century discussion_, Dordrecht: D. Reidel Publishing Company, 101–131.
-* Anonymous, 2021, _Tractatus de sex inconvenientibus_, Sabine Rommevaux-Tani (ed.) in Le _De sex inconvenientibus, un traite anonyme de philosophies naturelle du XIVe siècle_, Paris: Vrin, 1–253.
-* Bradwardine, Thomas (1290?–1349), 1955 \[B-TP], _Tractatus proportionum seu de proportionibus velocitatum in motibus_, H. Lamar Crosby, Jr. (ed. and trans.) in _Thomas of Bradwardine His Tractatus de Proportionibus. Its Significance for the Developement of Mathematical Physics_, Madison, WI: University of Wisconsin Press.
-* –––, 2010 \[B-I], _Insolubilia_, Stephen Read (ed. and trans.), Leuven: Peeters.
-* Burley, Walter (c. 1275–1344/45), 1963 \[Bu-DO], _De obligationibus_, in Romuald Green, _An Introduction to the Logical Treatise “De obligationibus” with critical texts of William of Sherwood (?) and Walter Burley, Vol. II_, doctoral dissertation, Louvain, pp. 34–96.
-* –––, 1980 \[Bu-DC], “Walter Burley’s _De consequentiis_: An Edition”, Niels Jørgen Green-Pedersen (ed.), _Franciscan Studies_, 40: 102–166. doi:10.1353/frc.1980.0008
-* Cajetan of Thiene, 1494, _In regulas Gulielmi Hesburi recollectae. In Tractatus Gulielmi Hentisberi de sensu composito et diviso. Regulae eiusdem cum sophismatibus. Declaratio Gaetani supra easdem. Expositio litteralis supra tractatum de tribus. Questio Messini de motu locali cum expletione Gaetani. Scriptum supra eodem Angeli de Fosambruno. Bernardi Torni annotata supra eodem. Simon de Lendenaria supra sex sophismata. Tractatus Hentisberi de veritate et falsitate propositionis. Conclusiones eiusdem_, Venezia: Bonetus Locatellus, fols. 7rb–12rb.
-* De Benedictis, Giovanni Battista, 1688, _Philosophia peripatetica_, (vol. I), Napoli: Jacobus Raillard.
-* De Medici, Manfredus, 1542, _Annotationes eximii artium et medicinae doctoris Divi magistri Manfredi de Medicis supra logicam parvam Pauli Veneti ubi multa adducuntur ex Tisbero, Strodo et Petri Mantuani valde utilia, quae omnia fuerunt diligenter recognita_, in _Subtilissimae expositiones quaestionesque super Summulis magistri Pauli Veneti una cum argutissimis additionibus Jacobi Ritii Aretini et Manfredi de Medicis_, Venezia: Antonius Junte Florentini, fols. 104ra–106vb.
-* Kilvington, Richard (c. 1305–1361), 1990, _The Sophismata of Richard Kilvington_, critical edition of the Latin text Barbara Ensign Kretzmann, Norman Kretzmann, New York: Oxford University Press.
-* –––, 2020, q. _Utrum in omni motu potentia motoris excedit potentiam rei motae_, in Elżbieta Jung, Robert Podkoński (eds.), _Towards the Modern Theory of Motion. Oxford Calculators and the new interpretation of Aristotle_, (Research on Science and Natural Philosophy, 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, pp. 213–266.
-* Mair, John, 1505, _In Petri Hyspani summulas Commentaria_, Lyon: Stephan Gueynard.
-* Paul of Pergula (–1455), 1961 \[PP-LT], _Logica and Tractatus de Sensu Composito et Diviso_, Mary Anthony Brown (ed.), St. Bonaventure, NY: The Franciscan Institute.
-* Paul of Venice (c.1369–1429), 1990 \[PV-LM], _Logica magna: Part II, Fascicule 4: Capitula de conditionali et de rationali,_ George E. Hughes (ed. and trans.), Oxford: Oxford University Press.
-* –––, 2002 \[PV-LP], _Logica Parva: First Critical Edition from the Manuscripts with Introduction and Commentary_, Alan R. Perreiah (ed.), Leiden: Brill.
-* William of Sherwood (c.1200–c.1270), 1963 \[WS], _De obligationibus_, in Romuald Green, _An Introduction to the Logical Treatise “De obligationibus” with critical texts of William of Sherwood (?) and Walter Burley, Vol. II_, doctoral dissertation, Louvain, pp. 1–33.
-* Thomas of Udine O.P., \[?] (15th century) _Commentary on Regule solvendi sophismata_, ms. Città del Vaticano: Biblioteca Apostolica Vaticana, Vat. lat. 3058, fols. 122ra–128va.
+* Anonymous, 1984, *Tractatus de Maximo et Minimo*, John Longeway (ed.) in *William Heytesbury On Maxima and Minima. Chapter 5 of* “Rules for Solving Sophismata”, *with an anonymous fourteenth-century discussion*, Dordrecht: D. Reidel Publishing Company, 101–131.
+* Anonymous, 2021, *Tractatus de sex inconvenientibus*, Sabine Rommevaux-Tani (ed.) in Le *De sex inconvenientibus, un traite anonyme de philosophies naturelle du XIVe siècle*, Paris: Vrin, 1–253.
+* Bradwardine, Thomas (1290?–1349), 1955 \[B-TP], *Tractatus proportionum seu de proportionibus velocitatum in motibus*, H. Lamar Crosby, Jr. (ed. and trans.) in *Thomas of Bradwardine His Tractatus de Proportionibus. Its Significance for the Developement of Mathematical Physics*, Madison, WI: University of Wisconsin Press.
+* –––, 2010 \[B-I], *Insolubilia*, Stephen Read (ed. and trans.), Leuven: Peeters.
+* Burley, Walter (c. 1275–1344/45), 1963 \[Bu-DO], *De obligationibus*, in Romuald Green, *An Introduction to the Logical Treatise “De obligationibus” with critical texts of William of Sherwood (?) and Walter Burley, Vol. II*, doctoral dissertation, Louvain, pp. 34–96.
+* –––, 1980 \[Bu-DC], “Walter Burley’s *De consequentiis*: An Edition”, Niels Jørgen Green-Pedersen (ed.), *Franciscan Studies*, 40: 102–166. doi:10.1353/frc.1980.0008
+* Cajetan of Thiene, 1494, *In regulas Gulielmi Hesburi recollectae. In Tractatus Gulielmi Hentisberi de sensu composito et diviso. Regulae eiusdem cum sophismatibus. Declaratio Gaetani supra easdem. Expositio litteralis supra tractatum de tribus. Questio Messini de motu locali cum expletione Gaetani. Scriptum supra eodem Angeli de Fosambruno. Bernardi Torni annotata supra eodem. Simon de Lendenaria supra sex sophismata. Tractatus Hentisberi de veritate et falsitate propositionis. Conclusiones eiusdem*, Venezia: Bonetus Locatellus, fols. 7rb–12rb.
+* De Benedictis, Giovanni Battista, 1688, *Philosophia peripatetica*, (vol. I), Napoli: Jacobus Raillard.
+* De Medici, Manfredus, 1542, *Annotationes eximii artium et medicinae doctoris Divi magistri Manfredi de Medicis supra logicam parvam Pauli Veneti ubi multa adducuntur ex Tisbero, Strodo et Petri Mantuani valde utilia, quae omnia fuerunt diligenter recognita*, in *Subtilissimae expositiones quaestionesque super Summulis magistri Pauli Veneti una cum argutissimis additionibus Jacobi Ritii Aretini et Manfredi de Medicis*, Venezia: Antonius Junte Florentini, fols. 104ra–106vb.
+* Kilvington, Richard (c. 1305–1361), 1990, *The Sophismata of Richard Kilvington*, critical edition of the Latin text Barbara Ensign Kretzmann, Norman Kretzmann, New York: Oxford University Press.
+* –––, 2020, q. *Utrum in omni motu potentia motoris excedit potentiam rei motae*, in Elżbieta Jung, Robert Podkoński (eds.), *Towards the Modern Theory of Motion. Oxford Calculators and the new interpretation of Aristotle*, (Research on Science and Natural Philosophy, 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, pp. 213–266.
+* Mair, John, 1505, *In Petri Hyspani summulas Commentaria*, Lyon: Stephan Gueynard.
+* Paul of Pergula (–1455), 1961 \[PP-LT], *Logica and Tractatus de Sensu Composito et Diviso*, Mary Anthony Brown (ed.), St. Bonaventure, NY: The Franciscan Institute.
+* Paul of Venice (c.1369–1429), 1990 \[PV-LM], *Logica magna: Part II, Fascicule 4: Capitula de conditionali et de rationali,* George E. Hughes (ed. and trans.), Oxford: Oxford University Press.
+* –––, 2002 \[PV-LP], *Logica Parva: First Critical Edition from the Manuscripts with Introduction and Commentary*, Alan R. Perreiah (ed.), Leiden: Brill.
+* William of Sherwood (c.1200–c.1270), 1963 \[WS], *De obligationibus*, in Romuald Green, *An Introduction to the Logical Treatise “De obligationibus” with critical texts of William of Sherwood (?) and Walter Burley, Vol. II*, doctoral dissertation, Louvain, pp. 1–33.
+* Thomas of Udine O.P., \[?] (15th century) *Commentary on Regule solvendi sophismata*, ms. Città del Vaticano: Biblioteca Apostolica Vaticana, Vat. lat. 3058, fols. 122ra–128va.
 
 ### Secondary Sources
 
-* Ashworth, E.J. and Paul Vincent Spade, 1992, “Logic in Late Medieval Oxford”, in J.I. Catto and Ralph Evans (eds.), _The History of the University of Oxford. Volume II, Late Medieval Oxford_, Oxford: Clarendon Press, pp. 35–64. doi:10.1093/acprof:oso/9780199510122.003.0002
+* Ashworth, E.J. and Paul Vincent Spade, 1992, “Logic in Late Medieval Oxford”, in J.I. Catto and Ralph Evans (eds.), *The History of the University of Oxford. Volume II, Late Medieval Oxford*, Oxford: Clarendon Press, pp. 35–64. doi:10.1093/acprof:oso/9780199510122.003.0002
 * Biard, Joël, 1985, “La signification d’objets imaginaires dans quelques texts anglais du XIVe siècle (Guillaume Heytesbury, Henry Hopton)”, in Lewry 1985: 265–283.
-* –––, 1989, “Les sophismes du savoir: Albert de Saxe entre Jean Buridan et Guillaume Heytesbury”, _Vivarium_, 27(1): 36–50. doi:10.1163/156853489X00029
-* Boh, Ivan, 1984, “Epistemic and alethic iteration in later medieval logic”, _Philosophia Naturalis_, 21: 492–506.
-* –––, 1985, “Belief, justification and knowledge. Some late-medieval epistemic concerns”, _Journal of the Rocky Mountain Medieval and Renaissance Association_, 6: 87–103. \[[Boh 1985 available online (pdf)](https://humanities.byu.edu/rmmra/pdfs/6.pdf)]
-* –––, 1986, “Elements of Epistemic Logic in the Later Middle Ages”, in Christian Wenin (ed.), _L’homme et son univers au moyen âge: actes du septième congrès international de philosophie médiévale (30 août–4 septembre 1982) vol. 2_, Louvain-la-Neuve: Éditions de l’Institut supérieur de philosophie, pp. 530–543.
-* –––, 1993, _Epistemic Logic in the Later Middle Ages_, London: Routledge.
-* –––, 2000, “Four phases of epistemic logic”, _Theoria_, 6(2): 129–144. doi: 10.1111/j.1755-2567.2000.tb01159.x
-* Bottin, Francesco, 1976, _Le Antinomie Semantiche Nella Logica Medievale_, Padova: Editrice Antenore.
+* –––, 1989, “Les sophismes du savoir: Albert de Saxe entre Jean Buridan et Guillaume Heytesbury”, *Vivarium*, 27(1): 36–50. doi:10.1163/156853489X00029
+* Boh, Ivan, 1984, “Epistemic and alethic iteration in later medieval logic”, *Philosophia Naturalis*, 21: 492–506.
+* –––, 1985, “Belief, justification and knowledge. Some late-medieval epistemic concerns”, *Journal of the Rocky Mountain Medieval and Renaissance Association*, 6: 87–103. \[[Boh 1985 available online (pdf)](https://humanities.byu.edu/rmmra/pdfs/6.pdf)]
+* –––, 1986, “Elements of Epistemic Logic in the Later Middle Ages”, in Christian Wenin (ed.), *L’homme et son univers au moyen âge: actes du septième congrès international de philosophie médiévale (30 août–4 septembre 1982) vol. 2*, Louvain-la-Neuve: Éditions de l’Institut supérieur de philosophie, pp. 530–543.
+* –––, 1993, *Epistemic Logic in the Later Middle Ages*, London: Routledge.
+* –––, 2000, “Four phases of epistemic logic”, *Theoria*, 6(2): 129–144. doi: 10.1111/j.1755-2567.2000.tb01159.x
+* Bottin, Francesco, 1976, *Le Antinomie Semantiche Nella Logica Medievale*, Padova: Editrice Antenore.
 * –––, 1985, “The Mertonians’ Metalinguistic Sciences and the Insolubilia”, in Lewry 1985: 235–248.
 * Courtenay, William J., 2008\*, Ockham and Ockhamism. Studies in the Dissemination and Impact of His Thought\*, Leiden: Brill. doi:10.1163/ej.9789004168305.i-420
-* Damerow, Peter, Gideon Freudenthal, Peter McLaughlin, and Jürgen Renn, 1992, _Exploring the Limits of Preclassical Mechanics. A Study of Conceptual Development in Early Modern Science: Free Fall and Compounded Motion in the Work of Descartes, Galileo, and Beeckman_, New York: Springer-Verlag. doi:10.1007/978-1-4757-3994-7
-* Duhem, Pierre, 1985, _Medieval Cosmology: Theories of Infinity, Place, Time, Void, and the Plurality of Worlds_, transl. Roger Ariew, Chicago: The University of Chicago Press. \[the partial English translation of _Le Système du monde_]
-* de Rijk, Lambert Maria, 1962–1967, _Logica Modernorum_, Assen: Van Gorcum, vol. I 1962, vol. II parts 1–2 1967.
-* –––, 1966, “Some notes on the Mediaeval tract De insolubilibus, with the edition of a tract dating from the end of the twelfth century”, _Vivarium_, 4: 83–115. doi:10.1163/156853466X00051
-* –––, 1974, “Some Thirteenth Century Tracts on the Game of Obligation”, _Vivarium_, 12(2): 94–123. doi:10.1163/156853474X00106
-* –––, 1975, “_Logica Cantabrigiensis_. A Fifteenth Century Cambridge Manual of Logic”, _Revue Internationale de Philosophie_, 29(113\[3]): 297–315.
-* –––, 1977, “_Logica oxoniensis_. An attempt to Reconstruct a Fifteenth Century Oxford Manual of Logic”, _Medioevo_, 3: 121–164.
-* –––, 1982, _Some 14th Century Tracts on the Probationes Terminorum_, Nijmegen: Ingenium Publishers.
-* Dutilh Novaes, Catarina, 2007, “Theory of Supposition vs. Theory of Fallacies in Ockham”, _Vivarium_, 45(2): 343–359. doi:10.1163/156853407X217812
-* –––, 2008, “A Comparative Taxonomy of Medieval and Modern Approaches to Liar Sentences”, _History and Philosophy of Logic_, 29(3): 227–261. doi:10.1080/01445340701614464
-* –––, 2016, “Medieval Theories of Consequence”, _The Stanford Encyclopedia of Philosophy_ (Fall 2016 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/fall2016/entries/consequence-medieval/](https://plato.stanford.edu/archives/fall2016/entries/consequence-medieval/).
-* Franklin, James, 2012, “Science by Conceptual Analysis: the Genius of the Late Scholastics”, _Studia Neoaristotelica_, 9(1): 3–24. \[[Franklin 2012 available online](http://web.maths.unsw.edu.au/\~jim/latescholastics.pdf)] doi:10.5840/studneoar2012911
-* Hanke, Miroslav, 2015, _Lhářské paradoxy u autorů italské scholastiky_, Praha: OIKOYMENH.
-* –––, 2018a, “Scholastická logika „vědění“ I.: Axiomy introspekce a iterované modality v logice 14. století”, _Studia Neoaristotelica_, 15: 127–205. \[[Hanke 2018a available online](https://www.pdcnet.org/studneoar/content/studneoar\2018\0015\0005\0127\0205)] doi:10.5840/studneoar20181558.
-* –––, 2018b, “Scholastická logika „vědění“ II.: Axiomy introspekce a iterované modality mezi 15. a 16. stoletím”, _Studia Neoaristotelica_, 15: 207–262. \[[Hanke 2018b available online](https://www.pdcnet.org/studneoar/content/studneoar\2018\0015\0006\0207\0262)] doi:10.5840/studneoar20181569.
+* Damerow, Peter, Gideon Freudenthal, Peter McLaughlin, and Jürgen Renn, 1992, *Exploring the Limits of Preclassical Mechanics. A Study of Conceptual Development in Early Modern Science: Free Fall and Compounded Motion in the Work of Descartes, Galileo, and Beeckman*, New York: Springer-Verlag. doi:10.1007/978-1-4757-3994-7
+* Duhem, Pierre, 1985, *Medieval Cosmology: Theories of Infinity, Place, Time, Void, and the Plurality of Worlds*, transl. Roger Ariew, Chicago: The University of Chicago Press. \[the partial English translation of *Le Système du monde*]
+* de Rijk, Lambert Maria, 1962–1967, *Logica Modernorum*, Assen: Van Gorcum, vol. I 1962, vol. II parts 1–2 1967.
+* –––, 1966, “Some notes on the Mediaeval tract De insolubilibus, with the edition of a tract dating from the end of the twelfth century”, *Vivarium*, 4: 83–115. doi:10.1163/156853466X00051
+* –––, 1974, “Some Thirteenth Century Tracts on the Game of Obligation”, *Vivarium*, 12(2): 94–123. doi:10.1163/156853474X00106
+* –––, 1975, “*Logica Cantabrigiensis*. A Fifteenth Century Cambridge Manual of Logic”, *Revue Internationale de Philosophie*, 29(113\[3]): 297–315.
+* –––, 1977, “*Logica oxoniensis*. An attempt to Reconstruct a Fifteenth Century Oxford Manual of Logic”, *Medioevo*, 3: 121–164.
+* –––, 1982, *Some 14th Century Tracts on the Probationes Terminorum*, Nijmegen: Ingenium Publishers.
+* Dutilh Novaes, Catarina, 2007, “Theory of Supposition vs. Theory of Fallacies in Ockham”, *Vivarium*, 45(2): 343–359. doi:10.1163/156853407X217812
+* –––, 2008, “A Comparative Taxonomy of Medieval and Modern Approaches to Liar Sentences”, *History and Philosophy of Logic*, 29(3): 227–261. doi:10.1080/01445340701614464
+* –––, 2016, “Medieval Theories of Consequence”, *The Stanford Encyclopedia of Philosophy* (Fall 2016 Edition), Edward N. Zalta (ed.), [https://plato.stanford.edu/archives/fall2016/entries/consequence-medieval/](https://plato.stanford.edu/archives/fall2016/entries/consequence-medieval/).
+* Franklin, James, 2012, “Science by Conceptual Analysis: the Genius of the Late Scholastics”, *Studia Neoaristotelica*, 9(1): 3–24. \[[Franklin 2012 available online](http://web.maths.unsw.edu.au/\~jim/latescholastics.pdf)] doi:10.5840/studneoar2012911
+* Hanke, Miroslav, 2015, *Lhářské paradoxy u autorů italské scholastiky*, Praha: OIKOYMENH.
+* –––, 2018a, “Scholastická logika „vědění“ I.: Axiomy introspekce a iterované modality v logice 14. století”, *Studia Neoaristotelica*, 15: 127–205. \[[Hanke 2018a available online](https://www.pdcnet.org/studneoar/content/studneoar\2018\0015\0005\0127\0205)] doi:10.5840/studneoar20181558.
+* –––, 2018b, “Scholastická logika „vědění“ II.: Axiomy introspekce a iterované modality mezi 15. a 16. stoletím”, *Studia Neoaristotelica*, 15: 207–262. \[[Hanke 2018b available online](https://www.pdcnet.org/studneoar/content/studneoar\2018\0015\0006\0207\0262)] doi:10.5840/studneoar20181569.
 * Johnston, Spencer, 2013, “‘This Is Socrates’: a Mertonian Sophism about Signification”, working Paper WP6/2013/02, Series WP6. Higher School of Economics, National Research University, Moscow. \[[Johnston 2013 available online](https://www.hse.ru/data/2013/09/19/1278642948/WP6\2013\02\19sent.pdf)]
-* Jung–Palczewska, Elżbieta, 2000, “Works by Richard Kilvington”, _Archives d’Histoire Doctrinale et Littéraire du moyen âge_ 67: 181–223.
-* –––, 2004, “Why was medieval Mechanics Doomed? The Failure to Substitute Mathematical Physics for Aristotelianism”, in Jan A. Aertsen and Martin Pickavé (eds.), _“Herbst des Mittelalters”? Fragen zur Bewertung des 14. und 15. Jahrhunderts, (Miscellanea Mediaevalia Bd. 31)_, Berlin: Walter de Gruyter, pp. 495–512.
+* Jung–Palczewska, Elżbieta, 2000, “Works by Richard Kilvington”, *Archives d’Histoire Doctrinale et Littéraire du moyen âge* 67: 181–223.
+* –––, 2004, “Why was medieval Mechanics Doomed? The Failure to Substitute Mathematical Physics for Aristotelianism”, in Jan A. Aertsen and Martin Pickavé (eds.), *“Herbst des Mittelalters”? Fragen zur Bewertung des 14. und 15. Jahrhunderts, (Miscellanea Mediaevalia Bd. 31)*, Berlin: Walter de Gruyter, pp. 495–512.
 * –––, 2016, “Richard Kilvington”, The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/kilvington/](https://plato.stanford.edu/archives/win2016/entries/kilvington/)
-* Jung, Elżbieta, Podkoński, Robert, 2020, _Towards the Modern Theory of Motion. Oxford Calculators and the New Interpretation of Aristotle_, (Research on Science and Natural Philosophy, 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego.
-* Kaye, Joël, 1998, _Economy and Nature in the Fourteenth Century: Money, Market Exchange, and the Emergence of Scientific Thought_ (Cambridge Studies in Medieval Life and Thought: Fourth Series, 35), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511496523
-* King, Peter, 1991, “Mediaeval Thought-Experiments: The Metamethodology of Mediaeval Science”, in Tamara Horowitz and Gerald Massey (eds.), _Thought Experiments in Science and Philosophy_, Lanham: Rowman & Littlefield, pp. 43–64.
-* Lewry, P. Osmund (ed.), 1985, _The Rise of British Logic: Acts of the Sixth European Symposium on Medieval Logic and Semantics, Balliol College, Oxford, 19–24 June 1983_, (Papers in Mediaeval Studies, 7), Toronto: Pontifical Institute of Mediaeval Studies.
-* Longeway, John, 1984, _William Heytesbury On Maxima and Minima. Chapter 5 of “Rules for Solving Sophismata”, with an anonymous fourteenth-century discussion_, Dordrecht: D. Reidel Publishing Company.
-* –––, 2011, “William Heytesbury”, in Henrik Lagerlund (ed.), _Encyclopedia of Medieval Philosophy_: _Philosophy between 500 and 1500_, Dordrecht: Springer, pp. 1397–1399.
-* Martens, David B., 2010, “William Heytesbury and the Conditions for Knowledge”, _Theoria_, 76(4): 355–374. doi:10.1111/j.1755-2567.2010.01082.x
-* Maierù, Alfonso, 1966, “Il ‘Tractatus de sensu composito et diviso’ di Guglielmo Heytesbury”, _Rivista di Storia Della Filosofia_, 21(3): 243–263.
-* –––, 1993, “The Sophism ‘Omnis propositio est vera vel falsa’ by Henry Hopton (Pseudo-Heytesbury’s ‘De veritate et falsitate propositionis’)”, in Stephen Read (ed.), _Sophisms in Medieval Logic and Grammar. Acts of the Ninth European Symposium for Medieval Logic and Semantics, held at St Andrews, June 1990_, Dordrech: Kluwer, pp. 103–115.
-* –––, 2004, “Mental Language and Italian Scholasticism in the Fourteenth and Fifteenth Centuries”, in Russell L. Friedman and Sten Ebbesen (eds.), _John Buridan and Beyond: Topics in the Language Sciences, 1300–1700_, Copenhagen: Det Kongelige Danske Videnskabernes Selskab, pp. 33–67.
-* Murdoch, John E., 1991, “Pierre Duhem and the History of Late Medieval Science and Philosophy in the Latin West”, in _Gli Studi Di Filosofia Medievale Fra Otto E Novecento contributo a un bilancio storiografico. Atti del convegno internazionale, Roma, 21–23 settembre 1989_, eds. Ruedi Imbach and Alfonso Maierù, Roma: Edizioni di Strria e Letteratura, 253–302.
-* Pasnau, Robert, 1995, “William Heytesbury on Knowledge: Epistemology without Necessary and Sufficient Conditions”, _History of Philosophy Quarterly_, 12(4): 347–366.
-* Pironet, Fabienne, 1993, “‘The Sophismata asinina’ of William Heytesbury”, in Stephen Read (ed.), _Sophisms in Medieval Logic and Grammar. Acts of the Ninth European Symposium for Medieval Logic and Semantics, held at St Andrews, June 1990_, Dordrech: Kluwer, pp. 128–143.
-* –––, 2001, “Insolubles and Obligations”, in Mikko Yrjönsuuri (ed.), _Medieval Formal Logic. Obligations, Insolubles and Consequences_, Dordrecht: Kluwer, pp. 95–114.
-* –––, 2008, “William Heytesbury and the treatment of Insolubilia in 14th-century England”, in Shahid Rahman, Tero Tulenheimo, Emmanuel Genot (eds.), _Unity, Truth and the Liar: The Modern Relevance of Medieval Solutions to the Liar Paradox_, Berlin: Springer-Verlag, pp. 251–327.
-* Pozzi, Lorenzo (ed. and transl.), 1987, _Il Mentitore e il Medioevo: il dibattito sui paradossi dell’autoriferimento: scelta di testi, commento, traduzione_, Parma: Edizioni Zara.
+* Jung, Elżbieta, Podkoński, Robert, 2020, *Towards the Modern Theory of Motion. Oxford Calculators and the New Interpretation of Aristotle*, (Research on Science and Natural Philosophy, 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego.
+* Kaye, Joël, 1998, *Economy and Nature in the Fourteenth Century: Money, Market Exchange, and the Emergence of Scientific Thought* (Cambridge Studies in Medieval Life and Thought: Fourth Series, 35), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511496523
+* King, Peter, 1991, “Mediaeval Thought-Experiments: The Metamethodology of Mediaeval Science”, in Tamara Horowitz and Gerald Massey (eds.), *Thought Experiments in Science and Philosophy*, Lanham: Rowman & Littlefield, pp. 43–64.
+* Lewry, P. Osmund (ed.), 1985, *The Rise of British Logic: Acts of the Sixth European Symposium on Medieval Logic and Semantics, Balliol College, Oxford, 19–24 June 1983*, (Papers in Mediaeval Studies, 7), Toronto: Pontifical Institute of Mediaeval Studies.
+* Longeway, John, 1984, *William Heytesbury On Maxima and Minima. Chapter 5 of “Rules for Solving Sophismata”, with an anonymous fourteenth-century discussion*, Dordrecht: D. Reidel Publishing Company.
+* –––, 2011, “William Heytesbury”, in Henrik Lagerlund (ed.), *Encyclopedia of Medieval Philosophy*: *Philosophy between 500 and 1500*, Dordrecht: Springer, pp. 1397–1399.
+* Martens, David B., 2010, “William Heytesbury and the Conditions for Knowledge”, *Theoria*, 76(4): 355–374. doi:10.1111/j.1755-2567.2010.01082.x
+* Maierù, Alfonso, 1966, “Il ‘Tractatus de sensu composito et diviso’ di Guglielmo Heytesbury”, *Rivista di Storia Della Filosofia*, 21(3): 243–263.
+* –––, 1993, “The Sophism ‘Omnis propositio est vera vel falsa’ by Henry Hopton (Pseudo-Heytesbury’s ‘De veritate et falsitate propositionis’)”, in Stephen Read (ed.), *Sophisms in Medieval Logic and Grammar. Acts of the Ninth European Symposium for Medieval Logic and Semantics, held at St Andrews, June 1990*, Dordrech: Kluwer, pp. 103–115.
+* –––, 2004, “Mental Language and Italian Scholasticism in the Fourteenth and Fifteenth Centuries”, in Russell L. Friedman and Sten Ebbesen (eds.), *John Buridan and Beyond: Topics in the Language Sciences, 1300–1700*, Copenhagen: Det Kongelige Danske Videnskabernes Selskab, pp. 33–67.
+* Murdoch, John E., 1991, “Pierre Duhem and the History of Late Medieval Science and Philosophy in the Latin West”, in *Gli Studi Di Filosofia Medievale Fra Otto E Novecento contributo a un bilancio storiografico. Atti del convegno internazionale, Roma, 21–23 settembre 1989*, eds. Ruedi Imbach and Alfonso Maierù, Roma: Edizioni di Strria e Letteratura, 253–302.
+* Pasnau, Robert, 1995, “William Heytesbury on Knowledge: Epistemology without Necessary and Sufficient Conditions”, *History of Philosophy Quarterly*, 12(4): 347–366.
+* Pironet, Fabienne, 1993, “‘The Sophismata asinina’ of William Heytesbury”, in Stephen Read (ed.), *Sophisms in Medieval Logic and Grammar. Acts of the Ninth European Symposium for Medieval Logic and Semantics, held at St Andrews, June 1990*, Dordrech: Kluwer, pp. 128–143.
+* –––, 2001, “Insolubles and Obligations”, in Mikko Yrjönsuuri (ed.), *Medieval Formal Logic. Obligations, Insolubles and Consequences*, Dordrecht: Kluwer, pp. 95–114.
+* –––, 2008, “William Heytesbury and the treatment of Insolubilia in 14th-century England”, in Shahid Rahman, Tero Tulenheimo, Emmanuel Genot (eds.), *Unity, Truth and the Liar: The Modern Relevance of Medieval Solutions to the Liar Paradox*, Berlin: Springer-Verlag, pp. 251–327.
+* Pozzi, Lorenzo (ed. and transl.), 1987, *Il Mentitore e il Medioevo: il dibattito sui paradossi dell’autoriferimento: scelta di testi, commento, traduzione*, Parma: Edizioni Zara.
 * Read, Stephen, 2013, “Obligations, Sophisms and Insolubles”, Working Paper WP6/2013/01 (Higher School of Economics, National Research University, Moscow). \[[Read 2013 available online](https://www.hse.ru/data/2013/04/26/1296133419/WP6\2013\01\26apr.pdf)]
-* –––, 2015, “Medieval Theories: Properties of Terms”, _The Stanford Encyclopedia of Philosophy_ (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/medieval-terms/](https://plato.stanford.edu/archives/spr2015/entries/medieval-terms/).
-* Rommevaux-Tani, Sabine, 2017, _La détermination de la rapidité d’augmentation dans le ‘De sex inconvenientibus’: comparaison avec les développements sur le même sujet de William Heytesbury_, in “Miroir de l’amitié: mélanges offerts à Joël Biard”, Christophe Grellard (ed.), Paris: Vrin, pp. 153-162.
-* –––, 2022, _Le_ De sex inconvenientibus, _un traite anonyme de philosophies naturelle du XIVe siècle_, Paris: Vrin, pp. I–CXVII.
-* Roure, Marie Louise, 1970, “La problématique des propositions insolubles au XIIIe siècle et au début du XIVe, suivie de l’édition des traités de W. Shyreswood, W. Burleigh et Th. Bradwardine”, _Archives d’histoire doctrinale et littéraire du moyen âge_, 37: 205–326.
-* Sinkler, Georgette, 1989, “William Heytesbury’s Word-Order Theory of Propositional Sense”, _Journal of the History of Philosophy_, 27(3): 365–377. doi:10.1353/hph.1989.0049
-* Spade, Paul Vincent, 1975, _The Mediaeval Liar: A Catalogue of the Insolubilia-Literature_, Toronto: Pontifical Institute of Mediaeval Studies.
-* –––, 1976, “William Heytesbury’s Position on ‘Insolubles’: One Possible Source”, _Vivarium_, 14(2): 114–120. doi:10.1163/156853476X00078
-* –––, 1982, “Obligations: Developments in the Fourteenth-Century”, in Norman Kretzmann, Anthony Kenny, Jan Pinborg, Eleonore Stump (eds.), _Cambridge History of Later Medieval Philosophy_, Cambridge: Cambridge University Press, pp. 335–341. doi:10.1017/CHOL9780521226059.019
-* Spade, Paul Vincent and Stephen Read, 2013, “Insolubles”, _The Stanford Encyclopedia of Philosophy_ (Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[Insolubles (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/insolubles/)>.
-* Spade, Paul Vincent and Mikko Yrjönsuuri, 2014, “Medieval Theories of _Obligationes_”, _The Stanford Encyclopedia of Philosophy_ (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/obligationes/](https://plato.stanford.edu/archives/win2014/entries/obligationes/).
-* Strobino, Riccardo, 2012, “Truth and Paradox in Late XIVth Century Logic: Peter of Mantua’s Treatise on Insoluble Propositions”, _Documenti e studi sulla tradizione filosofica medievale_, 23: 475–519.
-* Stump, Eleonore, 1989, _Dialectic and Its Place in the Development of Medieval Logic_, London: Cornell University Press.
-* Sylla, Edith Dudley, 1971, “Medieval quantifications of qualities: the ‘Merton School’”, _Archive for the History of the Exact Sciences_ 8(1–2): 9–39. doi:10.1007/BF00327218
-* –––, 1973, “Medieval concepts of the latitude of forms: The ‘Oxford Calculators’”, _Archives d’histoire doctrinale et littéraire du moyen âge_ 40: 223–283.
-* –––, 1981, “William Heytesbury on the sophism ‘Infinita sunt finita’”, in Jan Peter Beckmann, Ludger Honnefelder, Gabriel Jüssen, Barbara Münxelhaus, Gangolf Schrimpf, Georg Wieland, and Wolfgang Kluxen (eds.), _Sprache und Erkenntnis im Mittelalter. Akten des VI. Internationalen Kongresses für mittelalterliche Philosophie der Société Internationale pour l’Etude de la Philosophie Médiévale, 29. August–3. September 1977 in Bonn, Bd. 2_, Berlin: Walter de Gruyter, pp. 628–636.
-* –––, 1982, “The Oxford Calculators”, in Norman Kretzmann, Anthony Kenny, Jan Pinborg, Eleonore Stump (eds.), _Cambridge History of Later Medieval Philosophy_, Cambridge: Cambridge University Press, 540–563. doi:10.1017/CHOL9780521226059.030
-* –––, 1997, “Transmission of the new physics of the fourteenth century from England to the continent”, in Stefano Caroti, Pierre Souffrin (eds), _La nouvelle physique du XIVe siècle_, Biblioteca de Nuncius Studi e Testi, 24, Florence: Olschki. 65–109.
-* –––, 2010, “The Oxford Calculators’ Middle Degree Theorem in Context”, _Early Science and Medicine_, 15: 338–370. doi:10.1163/157338210X516251.
-* Tabarroni, A., 1984, “A Note on a Short Treatise Attributed to Ockham: the ‘Super Terminos Naturales’”, _Franciscan Studies_, 44: 329–349.
-* Thorndike, L. and P. Kibre, 1963, _A Catalogue of Incipits of Medieval Scientific Writings in Latin_, Cambridge, MA: The Medieval Academy of America.
-* Verboon, A.R., 2010. _Lines of Thought: Diagrammatic Representation and the Scientific Texts of the Arts Faculty, 1200–1500_, doctoral dissertation, Faculty of the Humanities, Leiden University.
-* Verboon A.R. and E.P. Bos 2012, “Master Albert: Termini naturales”, in _Portraits de Maîtres offerts à Olga Weijers_, eds. C. Angotti, M. Calma, M. Teeuwen, Turnhout: Brepols, 335–360.
-* Wallace, W.A., 1981, _Prelude to Galileo: Essays on Medieval and Sixteenth-Century Sources of Galileo’s Thought_, Dordrecht: Springer.
-* Weisheipl, James A., 1956, _Fourteenth Century Physics of the Merton ‘School’ with Special Reference to Dumbleton and Heytesbury_, doctoral dissertation (University of Oxford, 1956).
-* –––, 1964, “Curriculum of the faculty of arts at Oxford in the early fourteenth century”, _Mediaeval Studies_, 26: 143–185. doi: 10.1484/J.MS.2.305981.
-* –––, 1966, “Developments in the Arts Curriculum at Oxford in the Early Fourteenth Century”, _Mediaeval Studies_, 28: 151–175. doi: 10.1484/J.MS.2.306013.
-* –––, 1968, “Ockham and Some Mertonians”, _Mediaeval Studies_, 30: 163–213. doi:10.1484/J.MS.2.306048.
-* Wilson, Curtis, 1956 (first ed.), 1960 (second ed.) \[[Wilson 1960 available online](http://web.maths.unsw.edu.au/\~jim/latescholastics.pdf)], _William Heytesbury: Medieval logic and the rise of mathematical physics_, Madison, WI: The University of Wisconsin Press.
-* –––, 1972, “Heytesbury, William”, _Dictionary of Scientific Biography_, New York: Scribner, 6: 376–380
-* Yrjönsuuri, Mikko, 1990, “Obligationes, Sophismata and Oxford Calculators”, in Simo Knuuttila, Reijo Työrinoja, Sten Ebbesen (eds.), _Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.) Vol. II._, Helsinki: Luther Agricola Society, pp. 645–654.
-* –––, 1993, “The role of casus in some fourteenth century treatises on sophismata and obligations”, in Klaus Jacobi (ed.), _Argumentationstheorie: scholastische Forschungen zu den logischen und semantischen Regeln korrekten Folgerns_, Leiden: Brill, pp. 301–321.
-* –––, 2000, “The Trinity and Positio Impossibilis: Some Remarks on Inconsistence”, in Ghita Holmström-Hintikka (ed.), _Medieval Philosophy and Modern Times_, Boston: Kluwer, pp. 59–68.
-* –––, 2008, “Treatments of the Paradoxes of Self-Reference”, in Dov M. Gabbay and John Woods (eds.), _Handbook of the History of Logic_, vol. 2: _Medieval and Renaissance Logic,_ Amsterdam: Elsevier, pp. 579–608.
+* –––, 2015, “Medieval Theories: Properties of Terms”, *The Stanford Encyclopedia of Philosophy* (Spring 2015 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2015/entries/medieval-terms/](https://plato.stanford.edu/archives/spr2015/entries/medieval-terms/).
+* Rommevaux-Tani, Sabine, 2017, *La détermination de la rapidité d’augmentation dans le ‘De sex inconvenientibus’: comparaison avec les développements sur le même sujet de William Heytesbury*, in “Miroir de l’amitié: mélanges offerts à Joël Biard”, Christophe Grellard (ed.), Paris: Vrin, pp. 153-162.
+* –––, 2022, *Le* De sex inconvenientibus, *un traite anonyme de philosophies naturelle du XIVe siècle*, Paris: Vrin, pp. I–CXVII.
+* Roure, Marie Louise, 1970, “La problématique des propositions insolubles au XIIIe siècle et au début du XIVe, suivie de l’édition des traités de W. Shyreswood, W. Burleigh et Th. Bradwardine”, *Archives d’histoire doctrinale et littéraire du moyen âge*, 37: 205–326.
+* Sinkler, Georgette, 1989, “William Heytesbury’s Word-Order Theory of Propositional Sense”, *Journal of the History of Philosophy*, 27(3): 365–377. doi:10.1353/hph.1989.0049
+* Spade, Paul Vincent, 1975, *The Mediaeval Liar: A Catalogue of the Insolubilia-Literature*, Toronto: Pontifical Institute of Mediaeval Studies.
+* –––, 1976, “William Heytesbury’s Position on ‘Insolubles’: One Possible Source”, *Vivarium*, 14(2): 114–120. doi:10.1163/156853476X00078
+* –––, 1982, “Obligations: Developments in the Fourteenth-Century”, in Norman Kretzmann, Anthony Kenny, Jan Pinborg, Eleonore Stump (eds.), *Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, pp. 335–341. doi:10.1017/CHOL9780521226059.019
+* Spade, Paul Vincent and Stephen Read, 2013, “Insolubles”, *The Stanford Encyclopedia of Philosophy* (Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[Insolubles (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/insolubles/)>.
+* Spade, Paul Vincent and Mikko Yrjönsuuri, 2014, “Medieval Theories of *Obligationes*”, *The Stanford Encyclopedia of Philosophy* (Winter 2014 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2014/entries/obligationes/](https://plato.stanford.edu/archives/win2014/entries/obligationes/).
+* Strobino, Riccardo, 2012, “Truth and Paradox in Late XIVth Century Logic: Peter of Mantua’s Treatise on Insoluble Propositions”, *Documenti e studi sulla tradizione filosofica medievale*, 23: 475–519.
+* Stump, Eleonore, 1989, *Dialectic and Its Place in the Development of Medieval Logic*, London: Cornell University Press.
+* Sylla, Edith Dudley, 1971, “Medieval quantifications of qualities: the ‘Merton School’”, *Archive for the History of the Exact Sciences* 8(1–2): 9–39. doi:10.1007/BF00327218
+* –––, 1973, “Medieval concepts of the latitude of forms: The ‘Oxford Calculators’”, *Archives d’histoire doctrinale et littéraire du moyen âge* 40: 223–283.
+* –––, 1981, “William Heytesbury on the sophism ‘Infinita sunt finita’”, in Jan Peter Beckmann, Ludger Honnefelder, Gabriel Jüssen, Barbara Münxelhaus, Gangolf Schrimpf, Georg Wieland, and Wolfgang Kluxen (eds.), *Sprache und Erkenntnis im Mittelalter. Akten des VI. Internationalen Kongresses für mittelalterliche Philosophie der Société Internationale pour l’Etude de la Philosophie Médiévale, 29. August–3. September 1977 in Bonn, Bd. 2*, Berlin: Walter de Gruyter, pp. 628–636.
+* –––, 1982, “The Oxford Calculators”, in Norman Kretzmann, Anthony Kenny, Jan Pinborg, Eleonore Stump (eds.), *Cambridge History of Later Medieval Philosophy*, Cambridge: Cambridge University Press, 540–563. doi:10.1017/CHOL9780521226059.030
+* –––, 1997, “Transmission of the new physics of the fourteenth century from England to the continent”, in Stefano Caroti, Pierre Souffrin (eds), *La nouvelle physique du XIVe siècle*, Biblioteca de Nuncius Studi e Testi, 24, Florence: Olschki. 65–109.
+* –––, 2010, “The Oxford Calculators’ Middle Degree Theorem in Context”, *Early Science and Medicine*, 15: 338–370. doi:10.1163/157338210X516251.
+* Tabarroni, A., 1984, “A Note on a Short Treatise Attributed to Ockham: the ‘Super Terminos Naturales’”, *Franciscan Studies*, 44: 329–349.
+* Thorndike, L. and P. Kibre, 1963, *A Catalogue of Incipits of Medieval Scientific Writings in Latin*, Cambridge, MA: The Medieval Academy of America.
+* Verboon, A.R., 2010. *Lines of Thought: Diagrammatic Representation and the Scientific Texts of the Arts Faculty, 1200–1500*, doctoral dissertation, Faculty of the Humanities, Leiden University.
+* Verboon A.R. and E.P. Bos 2012, “Master Albert: Termini naturales”, in *Portraits de Maîtres offerts à Olga Weijers*, eds. C. Angotti, M. Calma, M. Teeuwen, Turnhout: Brepols, 335–360.
+* Wallace, W.A., 1981, *Prelude to Galileo: Essays on Medieval and Sixteenth-Century Sources of Galileo’s Thought*, Dordrecht: Springer.
+* Weisheipl, James A., 1956, *Fourteenth Century Physics of the Merton ‘School’ with Special Reference to Dumbleton and Heytesbury*, doctoral dissertation (University of Oxford, 1956).
+* –––, 1964, “Curriculum of the faculty of arts at Oxford in the early fourteenth century”, *Mediaeval Studies*, 26: 143–185. doi: 10.1484/J.MS.2.305981.
+* –––, 1966, “Developments in the Arts Curriculum at Oxford in the Early Fourteenth Century”, *Mediaeval Studies*, 28: 151–175. doi: 10.1484/J.MS.2.306013.
+* –––, 1968, “Ockham and Some Mertonians”, *Mediaeval Studies*, 30: 163–213. doi:10.1484/J.MS.2.306048.
+* Wilson, Curtis, 1956 (first ed.), 1960 (second ed.) \[[Wilson 1960 available online](http://web.maths.unsw.edu.au/\~jim/latescholastics.pdf)], *William Heytesbury: Medieval logic and the rise of mathematical physics*, Madison, WI: The University of Wisconsin Press.
+* –––, 1972, “Heytesbury, William”, *Dictionary of Scientific Biography*, New York: Scribner, 6: 376–380
+* Yrjönsuuri, Mikko, 1990, “Obligationes, Sophismata and Oxford Calculators”, in Simo Knuuttila, Reijo Työrinoja, Sten Ebbesen (eds.), *Knowledge and the Sciences in Medieval Philosophy. Proceedings of the Eighth International Congress of Medieval Philosophy (S.I.E.P.M.) Vol. II.*, Helsinki: Luther Agricola Society, pp. 645–654.
+* –––, 1993, “The role of casus in some fourteenth century treatises on sophismata and obligations”, in Klaus Jacobi (ed.), *Argumentationstheorie: scholastische Forschungen zu den logischen und semantischen Regeln korrekten Folgerns*, Leiden: Brill, pp. 301–321.
+* –––, 2000, “The Trinity and Positio Impossibilis: Some Remarks on Inconsistence”, in Ghita Holmström-Hintikka (ed.), *Medieval Philosophy and Modern Times*, Boston: Kluwer, pp. 59–68.
+* –––, 2008, “Treatments of the Paradoxes of Self-Reference”, in Dov M. Gabbay and John Woods (eds.), *Handbook of the History of Logic*, vol. 2: *Medieval and Renaissance Logic,* Amsterdam: Elsevier, pp. 579–608.
 
 ## Academic Tools
 
@@ -512,12 +510,12 @@ _首次发表于2018年1月19日星期五；实质性修订于2022年5月13日�
 
 ## Other Internet Resources
 
-* Longeway, John, “William Heytesbury,” _Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/heytesbury/](https://plato.stanford.edu/archives/win2017/entries/heytesbury/). \[This was the previous entry on Heytesbury in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=heytesbury).]
+* Longeway, John, “William Heytesbury,” *Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/heytesbury/](https://plato.stanford.edu/archives/win2017/entries/heytesbury/). \[This was the previous entry on Heytesbury in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=heytesbury).]
 
 ## Related Entries
 
-Bradwardine, Thomas | [Burley \[Burleigh\], Walter](https://plato.stanford.edu/entries/burley/) | [consequence, medieval theories of](https://plato.stanford.edu/entries/consequence-medieval/) | [insolubles \[= _insolubilia_\]](https://plato.stanford.edu/entries/insolubles/) | [Kilvington, Richard](https://plato.stanford.edu/entries/kilvington/) | [logic: epistemic](https://plato.stanford.edu/entries/logic-epistemic/) | [logical consequence](https://plato.stanford.edu/entries/logical-consequence/) | [_obligationes_, medieval theories of](https://plato.stanford.edu/entries/obligationes/) | [_sophismata_ \[= sophisms\]](https://plato.stanford.edu/entries/sophismata/) | [terms, properties of: medieval theories of](https://plato.stanford.edu/entries/medieval-terms/)
+Bradwardine, Thomas | [Burley \[Burleigh\], Walter](https://plato.stanford.edu/entries/burley/) | [consequence, medieval theories of](https://plato.stanford.edu/entries/consequence-medieval/) | [insolubles \[= *insolubilia*\]](https://plato.stanford.edu/entries/insolubles/) | [Kilvington, Richard](https://plato.stanford.edu/entries/kilvington/) | [logic: epistemic](https://plato.stanford.edu/entries/logic-epistemic/) | [logical consequence](https://plato.stanford.edu/entries/logical-consequence/) | [*obligationes*, medieval theories of](https://plato.stanford.edu/entries/obligationes/) | [*sophismata* \[= sophisms\]](https://plato.stanford.edu/entries/sophismata/) | [terms, properties of: medieval theories of](https://plato.stanford.edu/entries/medieval-terms/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Miroslav Hanke <[_hanke@flu.cas.cz_](mailto:hanke%40flu%2ecas%2ecz)>\
-[Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[_elzbieta.jung@uni.lodz.pl_](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>
+Miroslav Hanke <[*hanke@flu.cas.cz*](mailto:hanke%40flu%2ecas%2ecz)>\
+[Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[*elzbieta.jung@uni.lodz.pl*](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>

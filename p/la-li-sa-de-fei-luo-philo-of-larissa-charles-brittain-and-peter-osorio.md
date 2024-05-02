@@ -1,9 +1,8 @@
 # 拉里萨的斐洛 Philo of Larissa (Charles Brittain and Peter Osorio)
 
-_首次发表于2006年10月5日；实质性修订于2021年3月25日。_
+*首次发表于2006年10月5日；实质性修订于2021年3月25日。*
 
 斐洛（公元前 159/8 年-公元前 84/3 年）是柏拉图学院在怀疑主义阶段的最后一位已知负责人。在他的领导下，学院放弃了阿尔凯西拉奥斯和卡尔内阿德斯的激进怀疑主义（他们声称没有理性保证的信念）而采取了一种缓和的怀疑主义形式，允许暂时的信念，但不要求确定性。但是斐洛本人似乎在他备受争议的“罗马书”中更进一步，他拒绝了学院缓和怀疑主义所依赖的斯多葛派知识定义。证据表明，他提出了一种更弱的、易犯错误的理论，允许普通知识，但不支持学院哲学对手的理论教条主义。通过挑战希腊化时期被接受的认识论框架，斐洛无意中帮助为后来基于对柏拉图学说的解释而建立的教条传统的柏拉图主义复兴铺平了道路。然而，他最广为人知的是作为西塞罗的老师，通过西塞罗的作品，学院怀疑主义在拉丁语阅读世界中得以传播。
- 
 
 ***
 
@@ -126,7 +125,7 @@ _首次发表于2006年10月5日；实质性修订于2021年3月25日。_
 
 我们对斐洛在伦理学方面的工作的了解几乎完全来自于一本介绍性书籍或讲座的详细摘要，这个摘要在一本选集中没有任何背景信息（斯托巴伊斯选集2.7）。这个摘要令人困惑，因为它呈现了一个斐洛伦伊学伦理学的形象，似乎对于一个学院派的人来说太教条，太普通，即使在罗马时代也是如此。这部作品提出了一种以哲学和医学之间的类比来教授伦理学的方法。这导致了伦理教学的三个阶段：劝导阶段（展示对哲学指导的需求），治疗阶段（调整学生的评价概念）和保护阶段（概述通过加强这些调整概念来促进或维持幸福的生活方式和政治安排）。这是一个有趣的例子，展示了后期希腊哲学家如何对待实践伦理学的教学（参见安娜斯1993年：95-96）。但它并不具有创新性。医学和哲学之间的类比在柏拉图和希腊化时期的伦理学中是一个标准的类比。对实践规则的关注以及技术划分和细分的应用是源自斯多葛传统。而它的理论主张，例如智慧或知识对于美德是必要的，美德促进幸福的目标，不将其视为主流传统中较弱或较强的“知识主义”和“幸福主义”美德伦理学的例外。在这些方面，这个摘要表明斐洛的伦理学在很大程度上没有受到他的学院派前辈以及尤其是卡尔尼阿德斯（在阿尔格拉1997年的研究中进行了审查）对希腊化伦理学的广泛而深入的批评的影响。
 
-但是，我们有理由认为，这篇摘要可能是在斐洛的著作问世五百年之后写成的，它没有直接告诉我们斐洛伦理学用来促成和确保拥有幸福的方法，从而误导了我们对斐洛伦理学的了解。也许我们很自然会认为他的方法是标准的教条主义方法。然而，摘录者忽略了更广泛背景中的两个方面，这表明斐洛的伦理学实际上是建立在任何一方的学术论证方法之上的。首先，我们知道，怀疑论者已经把他们的正反论证方法看作是伦理学的_教学方法，让学生评价哪种观点更有说服力，即更有理性根据（见_[_第 4 节_](https://plato.stanford.edu/entries/philo-larissa/#PhilEduc)_）。这一点在《西塞罗论演说家》_ 1.83-93 中菲洛的同事查尔马达斯的案例中最为明显。Photius _Library_ 212 170a 和 Sextus _PH_ 1.226 中 Aenesidemus 对减轻怀疑论的批评也证实了这一点。其次，我们知道斐洛已经开发出一种方法，将学术方法纳入修辞学的技术体系，使之大众化（见西塞罗《论演说家》_3.110-118 和《图斯库里亚争论》_2.9）。但是，由于这一体系的功能是为学生提供就道德问题进行辩论的法学技巧，而且以任何形式教授修辞学对于一位学院派哲学家来说都是一个重大的突破，因此这一发展肯定与斐洛的伦理观有某种联系（见 Reinhardt 2000 和 Brittain 2001）。
+但是，我们有理由认为，这篇摘要可能是在斐洛的著作问世五百年之后写成的，它没有直接告诉我们斐洛伦理学用来促成和确保拥有幸福的方法，从而误导了我们对斐洛伦理学的了解。也许我们很自然会认为他的方法是标准的教条主义方法。然而，摘录者忽略了更广泛背景中的两个方面，这表明斐洛的伦理学实际上是建立在任何一方的学术论证方法之上的。首先，我们知道，怀疑论者已经把他们的正反论证方法看作是伦理学的_教学方法，让学生评价哪种观点更有说服力，即更有理性根据（见_[*第 4 节*](https://plato.stanford.edu/entries/philo-larissa/#PhilEduc)*）。这一点在《西塞罗论演说家》* 1.83-93 中菲洛的同事查尔马达斯的案例中最为明显。Photius *Library* 212 170a 和 Sextus *PH* 1.226 中 Aenesidemus 对减轻怀疑论的批评也证实了这一点。其次，我们知道斐洛已经开发出一种方法，将学术方法纳入修辞学的技术体系，使之大众化（见西塞罗《论演说家》_3.110-118 和《图斯库里亚争论》_2.9）。但是，由于这一体系的功能是为学生提供就道德问题进行辩论的法学技巧，而且以任何形式教授修辞学对于一位学院派哲学家来说都是一个重大的突破，因此这一发展肯定与斐洛的伦理观有某种联系（见 Reinhardt 2000 和 Brittain 2001）。
 
 当在这个更广泛的背景下阅读总结时，有三个看似不重要的点显得突出。首先，治疗阶段，处理学生对价值的基本概念，被描述为努力用“健康状态”的观念取代“错误获得的信念”，而不仅仅是将错误的信念替换为正确的信念（斯多巴伊斯选集2.7页40.18-20）。其次，保护阶段，关注促进或确保幸福的生活方式，被构建为一组问题的调查，这些问题与斐洛修辞中的双方争论所涉及的问题完全对应（同上，页41.7-14）。第三，这种普遍调查明确区别于提供关于行为如何的直接规范性建议，后者被视为忙碌人们的临时解决方案（同上，页41.16-25）。这些观点可以用不同的方式解释。但考虑到更广泛的背景，它们表明总结已经掩盖了关于斐洛伦理学的核心观点：它的教学方法不是教条主义的，而是学院派的双方争论方法。
 
@@ -142,179 +141,179 @@ _首次发表于2006年10月5日；实质性修订于2021年3月25日。_
 
 #### Collections of Philo’s fragments
 
-*   Brittain, Charles, 2001, _Philo of Larissa: The Last of the Academic Sceptics_, Oxford: Oxford University Press, pp. 345–370.
+* Brittain, Charles, 2001, *Philo of Larissa: The Last of the Academic Sceptics*, Oxford: Oxford University Press, pp. 345–370.
 
     \[The evidence on Philo in Greek and Latin, with English translations.]
-* Inwood, Brad and Lloyd P. Gerson (eds.), 1997, _Hellenistic Philosophy: Introductory Readings_, second edition, Indianapolis: Hackett.
-*   Long, A. A. and D. N. Sedley (eds.), 1987, _The Hellenistic Philosophers, Volume 1: Translations of the Principal Sources with Philosophical Commentary_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511808050
+* Inwood, Brad and Lloyd P. Gerson (eds.), 1997, *Hellenistic Philosophy: Introductory Readings*, second edition, Indianapolis: Hackett.
+* Long, A. A. and D. N. Sedley (eds.), 1987, *The Hellenistic Philosophers, Volume 1: Translations of the Principal Sources with Philosophical Commentary*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511808050
 
     \[Both Inwood & Gerson and Long & Sedley have useful Academic texts, but are limited on Philo himself.]
-*   Mette, Hans Joachim, 1986–7, “Philon von Larisa und Antiochus von Askalon”, _Lustrum_, 28–9: 9–63.
+* Mette, Hans Joachim, 1986–7, “Philon von Larisa und Antiochus von Askalon”, *Lustrum*, 28–9: 9–63.
 
     \[The evidence on Philo in Greek and Latin, with German translations.]
 
 #### Primary sources
 
-*   Anonymous, _Prolégomènes à la Philosophie de Platon_, Leendert Gerrit Westerink (ed.), Jean Trouillard & Alain Philippe Segonds (trans.), Paris: Collection des Universités de France, 1990.
+* Anonymous, *Prolégomènes à la Philosophie de Platon*, Leendert Gerrit Westerink (ed.), Jean Trouillard & Alain Philippe Segonds (trans.), Paris: Collection des Universités de France, 1990.
 
-    \[Greek text with French translation of the _Introduction to Plato_.]
-* Augustine, _Aurelius Augustinus: Contra Academicos, De beata vita, De ordine_, Therese Fuhrer and Simone Adam (eds), Berlin: De Gruyter, 2017. doi:10.1515/9783110445244
-* –––, _Contra Academicos Libri Tres_ (Corpus Christianorum SL 29), W. M. Green (ed.), Turnholt: Brepols, 1970.
-* –––, _Augustine Against the Academicians and The Teacher_, Peter King (trans.), Indianapolis: Hackett, 1995.
-* Cicero, \[_Ac_] _On Academic Scepticism_, Charles Brittain (trans.), Indianapolis: Hackett, 2006.
-*   –––, _Tusculan Disputations_ (Loeb Classical Library 141/Cicero XVIII), John Edward King (trans.), Cambridge, MA: Harvard University Press, 1927.
-
-    \[Loeb edition with English translation.]
-*   –––, _On the Nature of the Gods, Academics_ (Loeb Classical Library 268/Cicero XIX), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
+    \[Greek text with French translation of the *Introduction to Plato*.]
+* Augustine, *Aurelius Augustinus: Contra Academicos, De beata vita, De ordine*, Therese Fuhrer and Simone Adam (eds), Berlin: De Gruyter, 2017. doi:10.1515/9783110445244
+* –––, *Contra Academicos Libri Tres* (Corpus Christianorum SL 29), W. M. Green (ed.), Turnholt: Brepols, 1970.
+* –––, *Augustine Against the Academicians and The Teacher*, Peter King (trans.), Indianapolis: Hackett, 1995.
+* Cicero, \[*Ac*] *On Academic Scepticism*, Charles Brittain (trans.), Indianapolis: Hackett, 2006.
+* –––, *Tusculan Disputations* (Loeb Classical Library 141/Cicero XVIII), John Edward King (trans.), Cambridge, MA: Harvard University Press, 1927.
 
     \[Loeb edition with English translation.]
-*   –––, _On Ends_ (_De finibus bonorum et malorum_), (Loeb Classical Library 40/Cicero XVII), H. Rackham (trans.) Cambridge, MA: Harvard University Press, 1914.
+* –––, *On the Nature of the Gods, Academics* (Loeb Classical Library 268/Cicero XIX), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
 
     \[Loeb edition with English translation.]
-*   –––, _De Oratore_ \[= _On the Orator_] Book III, in _On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory_ (Loeb Classical Library 349/Cicero IV), H. Rackham (trans), Cambridge MA: Harvard University Press, 1942.
+* –––, *On Ends* (*De finibus bonorum et malorum*), (Loeb Classical Library 40/Cicero XVII), H. Rackham (trans.) Cambridge, MA: Harvard University Press, 1914.
 
     \[Loeb edition with English translation.]
-*   –––, _On Moral Ends_, Raphael Woolf (trans.), Julia Annas (ed.), Cambridge: Cambridge University Press, 2002. doi:10.1017/CBO9780511803659
-
-    \[A translation of _De finibus_.]
-*   Galen, _Favorino di Arelate_, A. Barigazzi (ed.), Florence: le Monnier, 1966.
-
-    \[Greek text with Italian translation of Galen’s _On the Best Method of Teaching_.]
-*   Gellius, _Attic Nights, Volume III: Books 14–20_ (Loeb Classical Library 212), J. C. Rolfe (trans.), Cambridge, MA: Harvard University Press, 1927.
+* –––, *De Oratore* \[= *On the Orator*] Book III, in *On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory* (Loeb Classical Library 349/Cicero IV), H. Rackham (trans), Cambridge MA: Harvard University Press, 1942.
 
     \[Loeb edition with English translation.]
-*   Numenius, _Eusebii Pamphili Evangelicae Praeparationis Libri XV_, 4 vols., E. H. Gifford, Oxford: Oxford University Press, 1903.
+* –––, *On Moral Ends*, Raphael Woolf (trans.), Julia Annas (ed.), Cambridge: Cambridge University Press, 2002. doi:10.1017/CBO9780511803659
+
+    \[A translation of *De finibus*.]
+* Galen, *Favorino di Arelate*, A. Barigazzi (ed.), Florence: le Monnier, 1966.
+
+    \[Greek text with Italian translation of Galen’s *On the Best Method of Teaching*.]
+* Gellius, *Attic Nights, Volume III: Books 14–20* (Loeb Classical Library 212), J. C. Rolfe (trans.), Cambridge, MA: Harvard University Press, 1927.
+
+    \[Loeb edition with English translation.]
+* Numenius, *Eusebii Pamphili Evangelicae Praeparationis Libri XV*, 4 vols., E. H. Gifford, Oxford: Oxford University Press, 1903.
 
     \[Greek text with English translation of Eusebius; book 14.4–9 contains Numenius’ fragments.]
-*   ––– _Numenius_, E. Des Places (ed.), Paris: Belles Lettres, 1973.
+* ––– *Numenius*, E. Des Places (ed.), Paris: Belles Lettres, 1973.
 
     \[Greek text with French translation.]
-*   Philodemus, _Storia dei filosofi \[.] Platone e l’Academia_, Tiziano Dorandi (ed.), Naples: Bibliopolis, 1991.
+* Philodemus, *Storia dei filosofi \[.] Platone e l’Academia*, Tiziano Dorandi (ed.), Naples: Bibliopolis, 1991.
 
-    \[Greek text with Italian translation of Philodemus’ _Catalogue of Academic Philosophers_.]
-*   Photius, _Photius: Bibliothèque_, R. Henry (ed.), Paris: Belles Lettres, 1959–67.
+    \[Greek text with Italian translation of Philodemus’ *Catalogue of Academic Philosophers*.]
+* Photius, *Photius: Bibliothèque*, R. Henry (ed.), Paris: Belles Lettres, 1959–67.
 
     \[Greek text with French translation.]
-*   –––, _Photius: The Bibliotheca_, N. G. Wilson (trans.), London: Bristol Classical Press, 1994.
+* –––, *Photius: The Bibliotheca*, N. G. Wilson (trans.), London: Bristol Classical Press, 1994.
 
     \[A selection in English.]
-*   Plutarch, _Plutarch Moralia XIII Part 2: Stoic Essays_ (Loeb Classical Library 470), Harold Cherniss (trans.), Cambridge MA: Harvard University Press, 1976.
+* Plutarch, *Plutarch Moralia XIII Part 2: Stoic Essays* (Loeb Classical Library 470), Harold Cherniss (trans.), Cambridge MA: Harvard University Press, 1976.
 
-    \[Loeb edition with English translation of Plutarch’s _Stoic Contradictions_ and _Common Conceptions_]
-* Sextus Empiricus, \[_PH_] _Sextus Empiricus: Outlines of Scepticism_ \[_Pyrrhōneioi hypotypōseis_] (Cambridge Texts in the History of Philosophy), Julia Annas and Jonathan Barnes (trans.), New York: Cambridge University Press, 1994, second edition 2000.
-* –––, \[_M_] _Sextus Empiricus: Against the Logicians_, Richard Bett (trans.), Cambridge: Cambridge University Press, 2005. doi:10.1017/CBO9780511815232
-*   –––, _Outlines of Pyrrhonism_ (Loeb Classical Library 273/Sextus Empiricus I), R. G. Bury (trans.), Cambridge, MA: Harvard University Press, 1933.
+    \[Loeb edition with English translation of Plutarch’s *Stoic Contradictions* and *Common Conceptions*]
+* Sextus Empiricus, \[*PH*] *Sextus Empiricus: Outlines of Scepticism* \[*Pyrrhōneioi hypotypōseis*] (Cambridge Texts in the History of Philosophy), Julia Annas and Jonathan Barnes (trans.), New York: Cambridge University Press, 1994, second edition 2000.
+* –––, \[*M*] *Sextus Empiricus: Against the Logicians*, Richard Bett (trans.), Cambridge: Cambridge University Press, 2005. doi:10.1017/CBO9780511815232
+* –––, *Outlines of Pyrrhonism* (Loeb Classical Library 273/Sextus Empiricus I), R. G. Bury (trans.), Cambridge, MA: Harvard University Press, 1933.
 
-    \[Loeb edition of _PH_.]
-*   –––, _Against the Logicians_ \[_Adversus Mathematicos_ 7–8] (Loeb Classical Library 291/Sextus Empiricus II), R. G. Bury (trans.), Cambridge MA: Harvard University Press, 1935.
+    \[Loeb edition of *PH*.]
+* –––, *Against the Logicians* \[*Adversus Mathematicos* 7–8] (Loeb Classical Library 291/Sextus Empiricus II), R. G. Bury (trans.), Cambridge MA: Harvard University Press, 1935.
 
-    \[Loeb edition of _M_.]
-*   Stobaeus, _Joannis Stobaei Anthologium_, Wachsmuth, Curt and Otto Hense (ed.), Berlin: Weidmannsche, 1884–1909.
+    \[Loeb edition of *M*.]
+* Stobaeus, *Joannis Stobaei Anthologium*, Wachsmuth, Curt and Otto Hense (ed.), Berlin: Weidmannsche, 1884–1909.
 
     \[The excerpt about Philo’s ethics is translated in Brittain 2001 and Schofield 2002.]
 
 ### Edited volumes and monographs
 
-* Algra, Keimpe, Jonathan Barnes, Jaap Mansfeld, and Malcolm Schofield (eds.), 1999, _The Cambridge History of Hellenistic Philosophy_, Cambridge: Cambridge University Press. doi:10.1017/CHOL9780521250283
-* Brittain, Charles, 2001a, _Philo of Larissa: The Last of the Academic Sceptics_, Oxford: Oxford University Press.
-* Dorandi, Tiziano, 1991a, _Storia dei filosofi \[.] Platone e l’Academia_, Naples: Bibliopolis.
-* Griffin, Miriam and Jonathan Barnes (eds), 1989, _Philosophia Togata: Essays on Philosophy and Roman Society_, Oxford: Clarendon Press.
-* Inwood, Brad and Jaap Mansfeld (eds.), 1997, _Assent and Argument: Studies in Cicero’s Academic Books. Proceedings of the 7th Symposium Hellenisticum_ (Utrecht, August 21–25, 1995), Leiden: Brill. doi:10.1163/9789004321014
-* Machuca, Diego E. and Baron Reed (eds.), 2018, _Skepticism: From Antiquity to the Present_, London: Bloomsbury.
-* Popkin, Richard H. (ed.), 1996, _Scepticism in the History of Philosophy_, Dordrecht: Kluwer. doi:10.1007/978-94-017-2942-0
+* Algra, Keimpe, Jonathan Barnes, Jaap Mansfeld, and Malcolm Schofield (eds.), 1999, *The Cambridge History of Hellenistic Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CHOL9780521250283
+* Brittain, Charles, 2001a, *Philo of Larissa: The Last of the Academic Sceptics*, Oxford: Oxford University Press.
+* Dorandi, Tiziano, 1991a, *Storia dei filosofi \[.] Platone e l’Academia*, Naples: Bibliopolis.
+* Griffin, Miriam and Jonathan Barnes (eds), 1989, *Philosophia Togata: Essays on Philosophy and Roman Society*, Oxford: Clarendon Press.
+* Inwood, Brad and Jaap Mansfeld (eds.), 1997, *Assent and Argument: Studies in Cicero’s Academic Books. Proceedings of the 7th Symposium Hellenisticum* (Utrecht, August 21–25, 1995), Leiden: Brill. doi:10.1163/9789004321014
+* Machuca, Diego E. and Baron Reed (eds.), 2018, *Skepticism: From Antiquity to the Present*, London: Bloomsbury.
+* Popkin, Richard H. (ed.), 1996, *Scepticism in the History of Philosophy*, Dordrecht: Kluwer. doi:10.1007/978-94-017-2942-0
 
 ### Philo’s life and philosophical activity
 
 * Barnes, Jonathan, 1989, “Antiochus of Ascalon”, in Griffin and Barnes 1989: 51–96.
 * Brittain, Charles, 2001b, “Philo’s Life”, in Brittain 2001a: 38–72.
-* Cappello, Orazio, 2019, _The School of Doubt: Skepticism, History and Politics in Cicero’s “Academica”_, Leiden: Brill.
+* Cappello, Orazio, 2019, *The School of Doubt: Skepticism, History and Politics in Cicero’s “Academica”*, Leiden: Brill.
 * Dorandi, Tiziano, 1991b, “Introduzione”, in Dorandi 1991a: 23–99.
-* Fleischer, Kilian, 2017a, “New Evidence on the Death of Philo of Larissa (PHerc. 1021, Cols. 33.42–34.7)”, _The Cambridge Classical Journal_, 63: 69–81. doi:10.1017/S175027051700001X
-* –––, 2017b, “Starb Philo von Larisa im Alter von 63 Jahren?”, _Archiv für Papyrusforschung und verwandte Gebiete_, 63: 335–66.
-* –––, 2017c, “The Pupils of Philo of Larissa and Philodemus’ Stay in Sicily (_PHerc_. 1021, col. XXXIV 6–19)”, _Cronache ercolanesi_, 47: 73–85.
-* Fleischer, Kilian, 2018, “Philon of Larissa”, in _The Encyclopedia of Ancient History_, Roger S Bagnall, Kai Brodersen, Craige B Champion, Andrew Erskine, and Sabine R Huebner (eds.), Hoboken: John Wiley & Sons, 2 pages. doi:10.1002/9781444338386.wbeah30445
-* Görler, Woldemar, 1994, “Älterer Pyrrhonismus—Jüngere Akademie, Antiochos aus Askalon”, in _Die Philosophie der Antike 4: Die Hellenistische Philosophie_, Helmut Flashar (ed.), Basel: Schwabe & Co., pp. 915–937.
-* Glucker, John, 1978, _Antiochus and the Late Academy_, Göttingen: Vandenhoeck & Ruprecht, pp. 13–31, 64–90.
-* Goulet, Richard, 2012, “Philon de Larissa”, in _Dictionnaire des philosophes antiques_, vol. v.1, Richard Goulet (ed.), Paris: Centre National de la Recherche Scientifique, pp. 404–24.
-* Mette, Hans Joachim, 1985, “Weitere Akademiker heute: von Lakydes bis zu Kleitomachos”, _Lustrum_, 27: 39–148.
-* –––, 1986–7, “Philon von Larisa und Antiochus von Askalon”, _Lustrum_, 28–9: 9–63.
-* Puglia, Enzo, 2000, “Le biografie di Filone e di Antioco nella _Storia dell’Academia_ di Filodemo”, _Zeitschrift für Papyrologie und Epigraphik_, 130: 17–28.
-* Striker, Gisela, 2012, “Philon (3), of Larissa, last undisputed head of the Academy, 159/158–84/83 BCE”, in _The Oxford Classical Dictionary_, fourth edition, Simon Hornblower and Antony Spawforth (gen. eds), Oxford: Oxford University Press, pp. 1133–34. doi:10.1093/acrefore/9780199381135.013.5005
+* Fleischer, Kilian, 2017a, “New Evidence on the Death of Philo of Larissa (PHerc. 1021, Cols. 33.42–34.7)”, *The Cambridge Classical Journal*, 63: 69–81. doi:10.1017/S175027051700001X
+* –––, 2017b, “Starb Philo von Larisa im Alter von 63 Jahren?”, *Archiv für Papyrusforschung und verwandte Gebiete*, 63: 335–66.
+* –––, 2017c, “The Pupils of Philo of Larissa and Philodemus’ Stay in Sicily (*PHerc*. 1021, col. XXXIV 6–19)”, *Cronache ercolanesi*, 47: 73–85.
+* Fleischer, Kilian, 2018, “Philon of Larissa”, in *The Encyclopedia of Ancient History*, Roger S Bagnall, Kai Brodersen, Craige B Champion, Andrew Erskine, and Sabine R Huebner (eds.), Hoboken: John Wiley & Sons, 2 pages. doi:10.1002/9781444338386.wbeah30445
+* Görler, Woldemar, 1994, “Älterer Pyrrhonismus—Jüngere Akademie, Antiochos aus Askalon”, in *Die Philosophie der Antike 4: Die Hellenistische Philosophie*, Helmut Flashar (ed.), Basel: Schwabe & Co., pp. 915–937.
+* Glucker, John, 1978, *Antiochus and the Late Academy*, Göttingen: Vandenhoeck & Ruprecht, pp. 13–31, 64–90.
+* Goulet, Richard, 2012, “Philon de Larissa”, in *Dictionnaire des philosophes antiques*, vol. v.1, Richard Goulet (ed.), Paris: Centre National de la Recherche Scientifique, pp. 404–24.
+* Mette, Hans Joachim, 1985, “Weitere Akademiker heute: von Lakydes bis zu Kleitomachos”, *Lustrum*, 27: 39–148.
+* –––, 1986–7, “Philon von Larisa und Antiochus von Askalon”, *Lustrum*, 28–9: 9–63.
+* Puglia, Enzo, 2000, “Le biografie di Filone e di Antioco nella *Storia dell’Academia* di Filodemo”, *Zeitschrift für Papyrologie und Epigraphik*, 130: 17–28.
+* Striker, Gisela, 2012, “Philon (3), of Larissa, last undisputed head of the Academy, 159/158–84/83 BCE”, in *The Oxford Classical Dictionary*, fourth edition, Simon Hornblower and Antony Spawforth (gen. eds), Oxford: Oxford University Press, pp. 1133–34. doi:10.1093/acrefore/9780199381135.013.5005
 
 ### Philo’s epistemological positions
 
-* Allen, James, 1994, “Academic Probabilism and Stoic Epistemology”, _The Classical Quarterly_, 44(1): 85–113. doi:10.1017/S0009838800017249
+* Allen, James, 1994, “Academic Probabilism and Stoic Epistemology”, *The Classical Quarterly*, 44(1): 85–113. doi:10.1017/S0009838800017249
 * –––, 1997, “Carneadean Argument in Cicero’s Academic Books”, in Inwood and Mansfeld 1997: 217–256. doi:10.1163/9789004321014\_009
-* –––, 2004 \[2020], “Carneades”, _The Stanford Encyclopedia of Philosophy_ (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/carneades/](https://plato.stanford.edu/archives/fall2020/entries/carneades/).
+* –––, 2004 \[2020], “Carneades”, *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2020/entries/carneades/](https://plato.stanford.edu/archives/fall2020/entries/carneades/).
 * Barnes, Jonathan, 1989, “Antiochus of Ascalon”, in Griffin and Barnes 1989: 51–96.
-* Bett, Richard, 1989, “Carneades’ Pithanon: A Reappraisal of its Role and Status”, _Oxford Studies in Ancient Philosophy_, 7: 59–94.
-* –––, 1990, “Carneades’ Distinction Between Assent and Approval”, _Monist_, 73(1): 3–20. doi:10.5840/monist199073114
+* Bett, Richard, 1989, “Carneades’ Pithanon: A Reappraisal of its Role and Status”, *Oxford Studies in Ancient Philosophy*, 7: 59–94.
+* –––, 1990, “Carneades’ Distinction Between Assent and Approval”, *Monist*, 73(1): 3–20. doi:10.5840/monist199073114
 * Brittain, Charles, 2001c, “Epistemology: Philonian/Metrodorian Scepticism”, in Brittain 2001a: 73–168.
-* –––, 2005 \[2008], “Arcesilaus”, _The Stanford Encyclopedia of Philosophy_ (Fall 2008 Edition), Edward N. Zalta (ed.) URL = <[Arcesilaus (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/arcesilaus/)>.
-* –––, 2006, “Introduction”, in _Ac_: viii–liii.
-* Burnyeat, Myles F., 1997, “Antipater and Self-Refutation: Elusive Arguments in Cicero’s _Academica_”, in Inwood and Mansfeld 1997: 277–310. doi:10.1163/9789004321014\_011
-* Burnyeat, Myles F. and Michael Frede (eds.), 1998, _The Original Sceptics: A Controversy_, Indianapolis: Hackett.
-* Couissin, Pierre, 1929, “Le Stoicisme de la Nouvelle Académie”, _Revue d’histoire de la philosophie_, 3: 241–276. Translated as “The Stoicism of the New Academy”, J. Barnes and M. Burnyeat (trans.), in Myles Burnyeat (ed.), 1983, _The Skeptical Tradition_, Berkeley: University of California Press, pp. 31–63].
-* Frede, Michael, 1979, “Des Skeptikers Meinungen”, _Neue Hefte für Philosophie, Aktualität der Antike_, 15/16: 102–129. Translated as “The Skeptic’s Beliefs”, in his 1987, _Essays in Ancient Philosophy_, Minneapolis: University of Minnesota Press, pp. 179–200; reprinted as “The Sceptic’s Beliefs” in Burnyeat and Frede 1997: 1–24.
-* –––, 1987, “The Skeptic’s Two Kinds of Assent”, in Michael Frede, _Essays in Ancient Philosophy_, Minneapolis: University of Minnesota Press, pp. 201–22; reprinted in Burnyeat and Frede 1997: 127–151.
+* –––, 2005 \[2008], “Arcesilaus”, *The Stanford Encyclopedia of Philosophy* (Fall 2008 Edition), Edward N. Zalta (ed.) URL = <[Arcesilaus (Stanford Encyclopedia of Philosophy/Fall 2008 Edition)](https://plato.stanford.edu/archives/fall2008/entries/arcesilaus/)>.
+* –––, 2006, “Introduction”, in *Ac*: viii–liii.
+* Burnyeat, Myles F., 1997, “Antipater and Self-Refutation: Elusive Arguments in Cicero’s *Academica*”, in Inwood and Mansfeld 1997: 277–310. doi:10.1163/9789004321014\_011
+* Burnyeat, Myles F. and Michael Frede (eds.), 1998, *The Original Sceptics: A Controversy*, Indianapolis: Hackett.
+* Couissin, Pierre, 1929, “Le Stoicisme de la Nouvelle Académie”, *Revue d’histoire de la philosophie*, 3: 241–276. Translated as “The Stoicism of the New Academy”, J. Barnes and M. Burnyeat (trans.), in Myles Burnyeat (ed.), 1983, *The Skeptical Tradition*, Berkeley: University of California Press, pp. 31–63].
+* Frede, Michael, 1979, “Des Skeptikers Meinungen”, *Neue Hefte für Philosophie, Aktualität der Antike*, 15/16: 102–129. Translated as “The Skeptic’s Beliefs”, in his 1987, *Essays in Ancient Philosophy*, Minneapolis: University of Minnesota Press, pp. 179–200; reprinted as “The Sceptic’s Beliefs” in Burnyeat and Frede 1997: 1–24.
+* –––, 1987, “The Skeptic’s Two Kinds of Assent”, in Michael Frede, *Essays in Ancient Philosophy*, Minneapolis: University of Minnesota Press, pp. 201–22; reprinted in Burnyeat and Frede 1997: 127–151.
 * Glidden, David, 1996, “Philo of Larissa and Platonism”, in Popkin 1996: 219–234. doi:10.1007/978-94-017-2942-0\_16
-*   Glucker, John, 2004, “The Philonian/Metrodorians: Problems of Method in Ancient Philosophy”, _Elenchos_, 25: 99–153.
+* Glucker, John, 2004, “The Philonian/Metrodorians: Problems of Method in Ancient Philosophy”, *Elenchos*, 25: 99–153.
 
-    \[A review of Brittain’s _Philo of Larissa_.]
-* Lévy, Carlos, 1992, _Cicero Academicus: Recherches sur les Académiques et sur la Philosophie Cicéronienne_, Rome: École Française de Rome.
-* –––, 2010, “The Sceptical Academy: Decline and Afterlife”, in _The Cambridge Companion to Ancient Scepticism_, Richard Bett (ed.), Cambridge: Cambridge University Press, pp. 81–104. doi:10.1017/CCOL9780521874762.005
-* Machuca, Diego, 2011, “Ancient Skepticism: The Skeptical Academy”, _Philosophy Compass_, 6(4): 259–266. doi:10.1111/j.1747-9991.2011.00390.x
-* Reinhardt, Tobias, 2018, “_Pithana_ and _probabilia_”, in Thomas Bénatouïl and Katerina Ierodiakonou (eds.), _Dialectic after Plato and Aristotle_, Cambridge: Cambridge University Press, pp. 218–253.
+    \[A review of Brittain’s *Philo of Larissa*.]
+* Lévy, Carlos, 1992, *Cicero Academicus: Recherches sur les Académiques et sur la Philosophie Cicéronienne*, Rome: École Française de Rome.
+* –––, 2010, “The Sceptical Academy: Decline and Afterlife”, in *The Cambridge Companion to Ancient Scepticism*, Richard Bett (ed.), Cambridge: Cambridge University Press, pp. 81–104. doi:10.1017/CCOL9780521874762.005
+* Machuca, Diego, 2011, “Ancient Skepticism: The Skeptical Academy”, *Philosophy Compass*, 6(4): 259–266. doi:10.1111/j.1747-9991.2011.00390.x
+* Reinhardt, Tobias, 2018, “*Pithana* and *probabilia*”, in Thomas Bénatouïl and Katerina Ierodiakonou (eds.), *Dialectic after Plato and Aristotle*, Cambridge: Cambridge University Press, pp. 218–253.
 * Schofield, Malcolm, 1999, “Academic Epistemology”, in Algra et al. 1999: 323–352. doi:10.1017/CHOL9780521250283.011
-* Sedley, David, 1981, “The End of the Academy”, _Phronesis_, 26(1): 67–75. doi:10.1163/156852881X00141
-* Striker, Gisela, 1980 \[1996], “Sceptical Strategies”, in _Doubt and Dogmatism_, Malcolm Schofield, Mylese Burnyeat, and Jonathan Barnes (eds.), Oxford: Clarendon Press, pp. 54–83. Reprinted in Gisela Striker, 1996, _Essays on Hellenistic Epistemology and Ethics_, Cambridge: Cambridge University Press, pp. 92–115.
+* Sedley, David, 1981, “The End of the Academy”, *Phronesis*, 26(1): 67–75. doi:10.1163/156852881X00141
+* Striker, Gisela, 1980 \[1996], “Sceptical Strategies”, in *Doubt and Dogmatism*, Malcolm Schofield, Mylese Burnyeat, and Jonathan Barnes (eds.), Oxford: Clarendon Press, pp. 54–83. Reprinted in Gisela Striker, 1996, *Essays on Hellenistic Epistemology and Ethics*, Cambridge: Cambridge University Press, pp. 92–115.
 * –––, 1997, “Academics Fighting Academics”, in Inwood and Mansfeld 1997: 257–276. doi:10.1163/9789004321014\_010
-* Tarrant, Harold, 1981, “Agreement and the Self-Evident in Philo of Larissa”, _Dionysus_, 5: 66–97.
-* –––, 1985, _Scepticism or Platonism. The Philosophy of the Fourth Academy_, Cambridge: Cambridge University Press, pp. 1–66.
+* Tarrant, Harold, 1981, “Agreement and the Self-Evident in Philo of Larissa”, *Dionysus*, 5: 66–97.
+* –––, 1985, *Scepticism or Platonism. The Philosophy of the Fourth Academy*, Cambridge: Cambridge University Press, pp. 1–66.
 * –––, 2018, “Philo of Larissa”, in Machuca and Reed 2018: 81–92.
-* Thorsrud, Harald, 2009, _Ancient Scepticism_, Stocksfield: Acumen, pp. 84–87.
-* Vezzoli, Simone, 2011, “L’ esistenza di un criterio di verità nella filosofia di Filone di Larissa”, _Acme: Annali della Facoltà di Lettere e Filosofia dell’Università degli Studi di Milano_, 64: 247–263.
+* Thorsrud, Harald, 2009, *Ancient Scepticism*, Stocksfield: Acumen, pp. 84–87.
+* Vezzoli, Simone, 2011, “L’ esistenza di un criterio di verità nella filosofia di Filone di Larissa”, *Acme: Annali della Facoltà di Lettere e Filosofia dell’Università degli Studi di Milano*, 64: 247–263.
 
 ### Philo’s relation to other philosophers
 
-* Annas, Julia, 1990, “Stoic Epistemology”, in _Epistemology_, Stephen Everson (ed.), Cambridge: Cambridge University Press, pp. 184–203
+* Annas, Julia, 1990, “Stoic Epistemology”, in *Epistemology*, Stephen Everson (ed.), Cambridge: Cambridge University Press, pp. 184–203
 * Barnes, Jonathan, 1989, “Antiochus of Ascalon”, in Griffin and Barnes 1989: 51–96.
-* Bonazzi, Mauro, 2003, _Academici e Platonici. Il dibattito antico sullo scetticismo di Platone_, Milan: LED.
+* Bonazzi, Mauro, 2003, *Academici e Platonici. Il dibattito antico sullo scetticismo di Platone*, Milan: LED.
 * Brittain, Charles, 2001d, “The Unity of the Academy: Philo’s Roman Books”, in Brittain 2001a: 169–254.
-* –––, 2007, “Middle Platonists on Academic scepticism”, in Richard Sorabji and R. W. Sharples (eds.), _Greek and Roman Philosophy, 100 BC–200 AD_ (BICS Supplement 94), London: Institute of Classical Studies, vol. 2, pp. 297–315.
-* –––, 2016, “Cicero’s Sceptical Methods: The Example of the _De Finibus_”, in _Cicero’s “De Finibus”: Philosophical Approaches_, Julia Annas and Gábor Betegh (eds.), Cambridge: Cambridge University Press, pp. 12–40. doi:10.1017/CBO9781139871396.002
-* Decleva Caizzi, Fernanda, 1992, “Aenesidemus and the Academy”, _The Classical Quarterly_, 42(1): 176–189. doi:10.1017/S0009838800042671
+* –––, 2007, “Middle Platonists on Academic scepticism”, in Richard Sorabji and R. W. Sharples (eds.), *Greek and Roman Philosophy, 100 BC–200 AD* (BICS Supplement 94), London: Institute of Classical Studies, vol. 2, pp. 297–315.
+* –––, 2016, “Cicero’s Sceptical Methods: The Example of the *De Finibus*”, in *Cicero’s “De Finibus”: Philosophical Approaches*, Julia Annas and Gábor Betegh (eds.), Cambridge: Cambridge University Press, pp. 12–40. doi:10.1017/CBO9781139871396.002
+* Decleva Caizzi, Fernanda, 1992, “Aenesidemus and the Academy”, *The Classical Quarterly*, 42(1): 176–189. doi:10.1017/S0009838800042671
 * Frede, Dorothea, 1996, “How Sceptical Were the Academic Sceptics?”, in Popkin 1996: 1–25. doi:10.1007/978-94-017-2942-0\_1
 * Frede, Michael, 1999, “Stoic Epistemology”, in Algra et al. 1999: 295–322. doi:10.1017/CHOL9780521250283.010
-* Hankinson, R. J., 1995, _The Sceptics_ (Arguments of the Philosophers), London: Routledge.
-* Ioppolo, Anna Maria, 1993, “The Academic Position of Favorinus of Arelate”, _Phronesis_, 38(2): 183–213. doi:10.1163/156852893321052389
-* Lévy, Carlos, 2005, “Les Petits Académiciens: Lacyde, Charmadas, Métrodore de Stratonice”, in Mauro Bonazzi and Vincenza Celluprica (eds.), _L’eredita platonica_, Naples: Bibliopolis, pp. 55–77.
-* Mansfeld, J., 1995, “Aenesidemus and the Academics”, in Lewis Ayres (ed.), _The Passionate Intellect: Essays on the Transformation of Classical Traditions presented to Professor I.G. Kidd_, London: Routledge, pp. 235–248.
-* Opsomer, Jan, 1998, _In search of the truth: Academic tendencies in Middle Platonism_, Brussels: Paleis der Academiën.
-* Sedley, David, 1996, “Three Platonist Interpretations of the_Theaetetus_”, in Christopher Gill and Mary Margaret McCabe (eds.), _Form and Argument in Late Plato_, Oxford: Clarendon Press, pp. 79–103.
-* Tarrant, Harold, 1985, _Scepticism or Platonism. The Philosophy of the Fourth Academy_, Cambridge: Cambridge University Press.
+* Hankinson, R. J., 1995, *The Sceptics* (Arguments of the Philosophers), London: Routledge.
+* Ioppolo, Anna Maria, 1993, “The Academic Position of Favorinus of Arelate”, *Phronesis*, 38(2): 183–213. doi:10.1163/156852893321052389
+* Lévy, Carlos, 2005, “Les Petits Académiciens: Lacyde, Charmadas, Métrodore de Stratonice”, in Mauro Bonazzi and Vincenza Celluprica (eds.), *L’eredita platonica*, Naples: Bibliopolis, pp. 55–77.
+* Mansfeld, J., 1995, “Aenesidemus and the Academics”, in Lewis Ayres (ed.), *The Passionate Intellect: Essays on the Transformation of Classical Traditions presented to Professor I.G. Kidd*, London: Routledge, pp. 235–248.
+* Opsomer, Jan, 1998, *In search of the truth: Academic tendencies in Middle Platonism*, Brussels: Paleis der Academiën.
+* Sedley, David, 1996, “Three Platonist Interpretations of the_Theaetetus_”, in Christopher Gill and Mary Margaret McCabe (eds.), *Form and Argument in Late Plato*, Oxford: Clarendon Press, pp. 79–103.
+* Tarrant, Harold, 1985, *Scepticism or Platonism. The Philosophy of the Fourth Academy*, Cambridge: Cambridge University Press.
 * Wynne, J. P. F., 2018, “Cicero”, in Machuca and Reed 2018: 93–101.
-* –––, 2021, “Cicero’s _Tusculan Disputations_: A Sceptical Reading”, _Oxford Studies in Ancient Philosophy_ 58: 205–238.
+* –––, 2021, “Cicero’s *Tusculan Disputations*: A Sceptical Reading”, *Oxford Studies in Ancient Philosophy* 58: 205–238.
 
 ### Philo’s ethics
 
-* Alesse, F., 2013, “L’etica prescrittiva nel tardo ellenismo e il caso di Filone di Larissa”, _Méthexis_ 26: 187–204.
-* Algra, Keimpe A., 1997, “Chrysippus, Carneades, Cicero: The Ethical Divisiones in Cicero’s _Lucullus_”, in Inwood and Mansfeld 1997: 107–139. doi:10.1163/9789004321014\_006
-*   Annas, Julia, 1993, _The Morality of Happiness_, Oxford: Oxford University Press, pp. 95–6. doi:10.1093/0195096525.001.0001
+* Alesse, F., 2013, “L’etica prescrittiva nel tardo ellenismo e il caso di Filone di Larissa”, *Méthexis* 26: 187–204.
+* Algra, Keimpe A., 1997, “Chrysippus, Carneades, Cicero: The Ethical Divisiones in Cicero’s *Lucullus*”, in Inwood and Mansfeld 1997: 107–139. doi:10.1163/9789004321014\_006
+* Annas, Julia, 1993, *The Morality of Happiness*, Oxford: Oxford University Press, pp. 95–6. doi:10.1093/0195096525.001.0001
 
     \[A discussion of Stobaeus’ excerpt about Philo’s ethics from ch. 2.4, “The Structure of Moral Reasoning: Rules and Insight”.]
 * Brittain, Charles, 2001e, “Ethics”, in Brittain 2001a: 255–95.
 * Griffin, Miriam, 1989, “Philosophy, Politics, and Politicians at Rome”, in Griffin and Barnes 1989: 1–37.
-* Koch, Bernhard, 2006, _Philosophie als Medizin für die Seele: Untersuchungen zu Ciceros “Tusculanae Disputationes”_, Stuttgart: Franz Steiner, pp. 29–60.
-* Schofield, Malcolm, 2002, “Academic Therapy: Philo of Larissa and Cicero’s Project in the _Tusculans_”, in Gillian Clark and Tessa Rajak (eds.), _Philosophy and Power in the Graeco-Roman World: Essays in Honour of Miriam Griffin_, Oxford: Oxford University Press, pp. 91–109.
+* Koch, Bernhard, 2006, *Philosophie als Medizin für die Seele: Untersuchungen zu Ciceros “Tusculanae Disputationes”*, Stuttgart: Franz Steiner, pp. 29–60.
+* Schofield, Malcolm, 2002, “Academic Therapy: Philo of Larissa and Cicero’s Project in the *Tusculans*”, in Gillian Clark and Tessa Rajak (eds.), *Philosophy and Power in the Graeco-Roman World: Essays in Honour of Miriam Griffin*, Oxford: Oxford University Press, pp. 91–109.
 
 ### Philo’s rhetoric
 
 * Brittain, Charles, 2001f, “Rhetoric”, in Brittain 2001a: 296–342.
-* Lévy, Carlos, 2010, “La rhétorique et son contexte: quelques remarques sur l’enseignement rhétorique de Philon de Larissa”, in Luc Brisson and Pierre Chiron (eds), _Rhetorica philosophans: Melanges offerts a Michel Patillon_, Paris: Vrin, pp. 95–106.
-* Reinhardt, Tobias, 2000, “Rhetoric in the Fourth Academy”, _The Classical Quarterly_, 50(2): 531–547. doi:10.1093/cq/50.2.531
-* –––, 2003, _Cicero’s “Topica”_, Oxford: Oxford University Press, especially pp. 3–17.
-* Wisse Jakob, 2002, “The Intellectual Background of Cicero’s Rhetorical Works”, in James M. May (ed.), _Brill’s Companion to Cicero: Oratory and Rhetoric_, Leiden: Brill, pp. 331–74. doi:10.1163/9789047400936\_012
+* Lévy, Carlos, 2010, “La rhétorique et son contexte: quelques remarques sur l’enseignement rhétorique de Philon de Larissa”, in Luc Brisson and Pierre Chiron (eds), *Rhetorica philosophans: Melanges offerts a Michel Patillon*, Paris: Vrin, pp. 95–106.
+* Reinhardt, Tobias, 2000, “Rhetoric in the Fourth Academy”, *The Classical Quarterly*, 50(2): 531–547. doi:10.1093/cq/50.2.531
+* –––, 2003, *Cicero’s “Topica”*, Oxford: Oxford University Press, especially pp. 3–17.
+* Wisse Jakob, 2002, “The Intellectual Background of Cicero’s Rhetorical Works”, in James M. May (ed.), *Brill’s Companion to Cicero: Oratory and Rhetoric*, Leiden: Brill, pp. 331–74. doi:10.1163/9789047400936\_012
 
 ## Academic Tools
 
@@ -333,5 +332,5 @@ _首次发表于2006年10月5日；实质性修订于2021年3月25日。_
 [Antiochus of Ascalon](https://plato.stanford.edu/entries/antiochus-ascalon/) | [Arcesilaus](https://plato.stanford.edu/entries/arcesilaus/) | [Carneades](https://plato.stanford.edu/entries/carneades/) | [Cicero](https://plato.stanford.edu/entries/cicero/) | [skepticism](https://plato.stanford.edu/entries/skepticism/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Charles Brittain](https://classics.cornell.edu/charles-brittain) <[_cfb9@cornell.edu_](mailto:cfb9%40cornell%2eedu)>\
-[Peter Osorio](http://classics.utoronto.ca/people/postdoctoral-fellows/peter-osorio/) <[_peter.osorio@utoronto.ca_](mailto:peter%2eosorio%40utoronto%2eca)>
+[Charles Brittain](https://classics.cornell.edu/charles-brittain) <[*cfb9@cornell.edu*](mailto:cfb9%40cornell%2eedu)>\
+[Peter Osorio](http://classics.utoronto.ca/people/postdoctoral-fellows/peter-osorio/) <[*peter.osorio@utoronto.ca*](mailto:peter%2eosorio%40utoronto%2eca)>

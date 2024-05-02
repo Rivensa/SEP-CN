@@ -1,6 +1,6 @@
 # 涌现属性 emergent properties (Timothy O’Connor)
 
-_首次发表于 2020 年 8 月 10 日星期一_
+*首次发表于 2020 年 8 月 10 日星期一*
 
 世界似乎包含各种不同类型的对象和系统——行星、龙卷风、树木、蚂蚁群和人类个体等，具有独特的特征和行为。这种随意的印象得到了特殊科学的成功的加深，这些科学具有独特的分类法和规律，描述了天文、气象、化学、植物学、生物学和心理学等过程。但是有一个转折，因为特殊科学的成功部分反映了一个有效的共识，即它们处理的组合实体的特征并不“独立于”其组成部分的特征和配置，而在某种程度上取决于它们。
 
@@ -123,7 +123,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 6. 涌现属性。涌现效应通常在因果上被不同的独立充分的同时性原因过度决定（在每种情况下类似于否则不寻常且可能仅仅是可能的情况，例如两块石头被独立投掷并同时击中目标）。
 
-金的论点的现在呈现遵循了 Wilson 2015 年的观点，但做了一些修改（另见 Sturgeon 1998 年的讨论）。涌现效应可能是同级的、向下的，或两者兼而有之（效力是中性的）。首先假设，涌现 E 导致涌现 E _（同级），而 E 在上依赖于 P，E_在上依赖于 P _（依赖）。P_具有纯粹的低层物理原因（物理因果封闭）—很可能是 P。如果 P 导致 P _，并且 P_必然导致 E _，那么很可能 P 导致 E_，通过导致 P _。因此，P 和 E 都导致 E_，鉴于 P 和 E 都是真实且不同的（现实性、独立性），E\*在因果上被过度决定。
+金的论点的现在呈现遵循了 Wilson 2015 年的观点，但做了一些修改（另见 Sturgeon 1998 年的讨论）。涌现效应可能是同级的、向下的，或两者兼而有之（效力是中性的）。首先假设，涌现 E 导致涌现 E _（同级），而 E 在上依赖于 P，E_在上依赖于 P _（依赖）。P_具有纯粹的低层物理原因（物理因果封闭）—很可能是 P。如果 P 导致 P _，并且 P_必然导致 E *，那么很可能 P 导致 E*，通过导致 P *。因此，P 和 E 都导致 E*，鉴于 P 和 E 都是真实且不同的（现实性、独立性），E\*在因果上被过度决定。
 
 其次，假设 E 反而导致了一些更低层次的基本特征 P _。P_也有一个纯粹的低层次原因（物理因果封闭）—同样，很可能是 P。因此，P 和 E 都导致了 P _，鉴于 P 和 E 都是真实且不同的（现实性，独特性），P_在因果上被过度决定。
 
@@ -213,7 +213,7 @@ Here A and B are families of properties (the supervening and supervenience base 
 
 最后，对强涌现的最终证据挑战的可能回应最好在第 5 节中考虑，其中介绍了一系列候选的涌现现象。
 
-#### 4.2.3 Novel _component_ powers in configured wholes
+#### 4.2.3 Novel *component* powers in configured wholes
 
 尽管刚才对于崩溃挑战的回答，最近在理论上对于强涌现的思考趋势是接受崩溃，主张涌现更好地理解为当组件嵌入配置好的整体时所具有的新颖力量的引入。本节介绍了这种观点的四种发展方式。
 
@@ -285,7 +285,7 @@ Santos 认为，现代细胞学和发育生物学表明了这种事物观，但�
 
 这就意味着，值得注意的是，尽管这些特征在标准的意识体验中存在，但在不寻常的临床案例中可能缺失或减弱，特别是在“分裂大脑”患者中。(见 Bayne 2008 和 Schechter 2018，对于关于分裂大脑患者报告的临床描述的哲学探讨。) 这表明了一种唯物主义策略，即利用这些不寻常的现象作为一种工具，逐渐削弱拒绝最终唯物主义意识解释可能性的表面现象学基础。(有关意识统一的条目，请参见第 4 节，对统一意识障碍的调查和对其可能影响的讨论。) 另一种可能的、也许是互补的唯物主义策略是主张，意识的某些看似方面只是可以解释为有限心智构建中不可避免的组织权衡的幻觉(见 Pereboom 2011 和 Chalmers 2018)。
 
-#### 心理状态的定性和故意性特征。
+#### 心理状态的定性和故意性特征
 
 甚至比起意识的本质和统一性，某些看似固有的特征——所谓的“感觉质”——在许多人看来需要一种反物理主义的本体论解释。在一个人的视觉领域中出现的一块红色区域，或者在听觉领域中的一声小号音似乎无法用视觉和听觉皮层内的神经过程来描述。相反，这种体验质量似乎在性质上是独特的，引发了与物理理论所假定的物理结构或功能种类不匹配的情况，并且具有一定程度的简单性，与相关的物理过程的巨大物理复杂性不协调。（关于这些意识体验明显特征的两个广泛讨论的论点至少涉及一种形式的物理-心理二元论，请参阅 Jackson 1982 和关于感觉质和知识论争的条目；以及 Chalmers 1996 和关于僵尸的条目。）
 
@@ -331,162 +331,162 @@ Santos 认为，现代细胞学和发育生物学表明了这种事物观，但�
 
 ## Bibliography
 
-* Alexander, Samuel, 1920, _Space, Time, and Deity: The Gifford Lectures at Glasgow 1916–1918_, 2 volumes, London: Macmillan.
-* Antony, Louise M. and Joseph Levine, 2008, “Reduction with Autonomy”, _Philosophical Perspectives_, 11: 83–105. doi:10.1111/0029-4624.31.s11.4
-* Baars, Bernard, 1997, _In the Theatre of Consciousness_, Oxford: Oxford University Press.
-* Barnes, Elizabeth, 2012, “Emergence and Fundamentality”, _Mind_, 121(484): 873–901. doi:10.1093/mind/fzt001
-* Batterman, Robert W., 2000, “Multiple Realizability and Universality”, _The British Journal for the Philosophy of Science_, 51(1): 115–145. doi:10.1093/bjps/51.1.115
-* –––, 2001, _The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence_, Oxford: Oxford University Press. doi:10.1093/0195146476.001.0001
-* Bayne, Tim, 2008, “The Unity of Consciousness and the Split-Brain Syndrome”:, _Journal of Philosophy_, 105(6): 277–300. doi:10.5840/jphil2008105638
-* –––, 2017, “Free Will and the Phenomenology of Agency”, in _The Routledge Companion to Free Will_, Kevin Timpe, Meghan Griffith, and; Neil Levy (eds.), Abingdon Oxon UK: Routledge, 633–644.
-* Baysan, Umut and Jessica Wilson, 2017, “Must Strong Emergence Collapse?”, _Philosophica_, 91: 49–104. \[[Baysan and Wilson 2017 available online (pdf)](http://individual.utoronto.ca/jmwilson/Baysan-Wilson-Must-Strong-Emergence-Collapse.pdf)]
-* Beckermann, Ansgar, Hans Flohr, and Jaegwon Kim (eds), 1992, _Emergence or Reduction? Essays on the Prospects of Nonreductive Physicalism_, Berlin: De Gruyter.
-* Bedau, Mark A., 1997, “Weak Emergence”, _Philosophical Perspectives_, 11: 375–399. doi:10.1111/0029-4624.31.s11.17
+* Alexander, Samuel, 1920, *Space, Time, and Deity: The Gifford Lectures at Glasgow 1916–1918*, 2 volumes, London: Macmillan.
+* Antony, Louise M. and Joseph Levine, 2008, “Reduction with Autonomy”, *Philosophical Perspectives*, 11: 83–105. doi:10.1111/0029-4624.31.s11.4
+* Baars, Bernard, 1997, *In the Theatre of Consciousness*, Oxford: Oxford University Press.
+* Barnes, Elizabeth, 2012, “Emergence and Fundamentality”, *Mind*, 121(484): 873–901. doi:10.1093/mind/fzt001
+* Batterman, Robert W., 2000, “Multiple Realizability and Universality”, *The British Journal for the Philosophy of Science*, 51(1): 115–145. doi:10.1093/bjps/51.1.115
+* –––, 2001, *The Devil in the Details: Asymptotic Reasoning in Explanation, Reduction, and Emergence*, Oxford: Oxford University Press. doi:10.1093/0195146476.001.0001
+* Bayne, Tim, 2008, “The Unity of Consciousness and the Split-Brain Syndrome”:, *Journal of Philosophy*, 105(6): 277–300. doi:10.5840/jphil2008105638
+* –––, 2017, “Free Will and the Phenomenology of Agency”, in *The Routledge Companion to Free Will*, Kevin Timpe, Meghan Griffith, and; Neil Levy (eds.), Abingdon Oxon UK: Routledge, 633–644.
+* Baysan, Umut and Jessica Wilson, 2017, “Must Strong Emergence Collapse?”, *Philosophica*, 91: 49–104. \[[Baysan and Wilson 2017 available online (pdf)](http://individual.utoronto.ca/jmwilson/Baysan-Wilson-Must-Strong-Emergence-Collapse.pdf)]
+* Beckermann, Ansgar, Hans Flohr, and Jaegwon Kim (eds), 1992, *Emergence or Reduction? Essays on the Prospects of Nonreductive Physicalism*, Berlin: De Gruyter.
+* Bedau, Mark A., 1997, “Weak Emergence”, *Philosophical Perspectives*, 11: 375–399. doi:10.1111/0029-4624.31.s11.17
 * –––, 2010, “Weak Emergence and Context-Sensitive Reduction”, in Corradini and O’Connor 2010: 46–63.
-* Bedau, Mark and Paul Humphreys, 2008, _Emergence: Contemporary Readings in Philosophy and Science_, Cambridge, MA: MIT Press.
-* Bennett, Karen, 2017, _Making Things Up_, Oxford: Oxford University Press. doi:10.1093/oso/9780199682683.001.0001
-* Boogerd, Fred C., Frank J. Bruggeman, Jan-Hendrik S. Hofmeyr, and Hans V. Westerhoff, 2007, _Systems Biology: Philosophical Foundations_, Amsterdam: Elsevier.
-* Boogerd, F. C., F. J. Bruggeman, R. C. Richardson, A. Stephan, and H. V. Westerhoff, 2005, “Emergence and Its Place in Nature: A Case Study of Biochemical Networks”, _Synthese_, 145(1): 131–164. doi:10.1007/s11229-004-4421-9
-* Broad, C.D., 1925, _The Mind and Its Place in Nature_, London: Routledge & Kegan Paul.
-* Camazine, Scott, Jean-Louis Deneubourg, Nigel R. Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau, 2001, _Self-Organization in Biological Systems_, (Princeton Studies in Complexity), Princeton, NJ: Princeton University Press.
-* Carruthers, Peter, 2000, _Phenomenal Consciousness: A Naturalistic Theory_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487491
-* Cartwright, Nancy, 1983, _How the Laws of Physics Lie_, Oxford: Clarendon Press. doi:10.1093/0198247044.001.0001
-* –––, 1994, “Fundamentalism vs. the Patchwork of Laws”, _Proceedings of the Aristotelian Society_, N.S., 94: 279–292. doi:10.1093/aristotelian/94.1.279
-* –––, 1999, _The Dappled World: A Study of the Boundaries of Science_, New York: Cambridge University Press. doi:10.1017/CBO9781139167093
-* Caruso, Gregg, 2012, _Free Will and Consciousness_, Lanham, MD: Lexington Books.
-* Caston, Victor, 1997, “Epiphenomenalisms, Ancient and Modern”, _The Philosophical Review_, 106(3): 309–363. doi:10.2307/2998397
-* Cat, Jordi, 1998, “The Physicists’ Debates on Unification in Physics at the End of the 20th Century”, _Historical Studies in the Physical and Biological Sciences_, 28(2): 253–299. doi:10.2307/27757796
-* Chalmers, David J., 1996, _The Conscious Mind: In Search of a Theory of Conscious Experience_, New York: Oxford University Press.
-* –––, 2006, “Strong and Weak Emergence”, in _The Re-Emergence of Emergence: The Emergentist Hypothesis from Science to Religion_, Philip Clayton and Paul Davies (eds.), Oxford: Oxford University Press, 244–254.
-* –––, 2018, “The Meta-Problem of Consciousness”, _Journal of Consciousness Studies_, 25(9–10): 6–61.
-* –––, forthcoming, “Finding Space in a Nonspatial World”, in _Philosophy Beyond Spacetime_, B. Le Bihan, N. Huggett, and C. Wüthrich (eds.), Oxford: Oxford University Press.
-* Clapp, Lenny, 2001, “Disjunctive Properties: Multiple Realizations”, _The Journal of Philosophy_, 98(3): 111–136. doi:10.2307/2678378
-* Corradini, Antonella and Timothy O’Connor (eds.), 2010, _Emergence in Science and Philosophy_, New York: Routledge. doi:10.4324/9780203849408
-* Craver, Carl F., 2007, _Explaining the Brain_, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199299317.001.0001
-* Dehaene, Stanislas, Jean-Pierre Changeux, Lionel Naccache, Jérôme Sackur, and Claire Sergent, 2006, “Conscious, Preconscious, and Subliminal Processing: A Testable Taxonomy”, _Trends in Cognitive Sciences_, 10(5): 204–211. doi:10.1016/j.tics.2006.03.007
-* Dirac, Paul Adrien Maurice, 1929, “Quantum Mechanics of Many-Electron Systems”, _Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character_, 123(792): 714–733. doi:10.1098/rspa.1929.0094
-* Dupré, John, 1993, _The Disorder of Things: Metaphysical Foundations of the Disunity of Science_, Cambridge, MA: Harvard University Press.
-* Ehring, Douglas, 1996, “Mental Causation, Determinables and Property Instances”, _Noûs_, 30(4): 461–480. doi:10.2307/2216114
-* Ellis, George, 2016, _How Can Physics Underlie the Mind? Top-Down Causation in the Human Context_, (The Frontiers Collection), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-662-49809-5
-* Ellis, George F. R., Denis Noble, and Timothy O’Connor, 2012, “Top-down Causation: An Integrating Theme within and across the Sciences?”, _Interface Focus_, 2(1): 1–3. doi:10.1098/rsfs.2011.0110
-* Fodor, Jerry A., 1974, “Special Sciences (or: The Disunity of Science as a Working Hypothesis)”, _Synthese_, 28(2): 97–115. doi:10.1007/BF00485230
-* Francescotti, Robert Michael, 2001, “Property Dualism without Substance Dualism?”, _Philosophical Papers_, 30(2): 93–116. doi:10.1080/05568640109485079
-* –––, 2007, “Emergence”, _Erkenntnis_, 67(1): 47–63. doi:10.1007/s10670-007-9047-0
-* Freeman, Walter, Jackson, 1999, “Consciousness, Intentionality and Causality”, In R. Nunez and W. J. Freeman (eds.), _Reclaiming Cognition: The Primacy of Action, Intention and Emotion_, Bowling Green, OH: Imprint Academic, 143–172.
-* –––, 2000, _How Brains Make Up Their Minds_, New York: Columbia University Press.
-* Ganeri, Jonardon, 2011, “Emergentisms, Ancient and Modern”, _Mind_, 120(479): 671–703. doi:10.1093/mind/fzr038
-* Gillett, Carl, 2002, “The Varieties of Emergence: Their Purposes, Obligations, and Importance”, _Grazer Philosophische Studien_, 65: 95–121. doi:10.1163/18756735-90000795
-* –––, 2016, _Reduction and Emergence in Science and Philosophy_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139871716
-* Guay, Alexandre and Olivier Sartenaer, 2016, “A New Look at Emergence. Or When _After_ Is Different”, _European Journal for Philosophy of Science_, 6(2): 297–322. doi:10.1007/s13194-016-0140-6
-* Hasker, William, 2016, “Do My Quarks Enjoy Beethoven?”, in Thomas Crisp, Steve L. Porter, and Gregg A. Ten Elshof (eds), _Neuroscience and the Soul: The Human Person in Philosophy, Science, and Theology_, Grand Rapids: Eerdmans, 13–40.
-* Haug, Matthew C., 2010, “Realization, Determination, and Mechanisms”, _Philosophical Studies_, 150(3): 313–330. doi:10.1007/s11098-009-9409-3
-* Heil, John, 2003, “Levels of Reality”, _Ratio_, 16(3): 205–221. doi:10.1111/1467-9329.00218
-* Hempel, Carl G. and Paul Oppenheim, 1948, “Studies in the Logic of Explanation”, _Philosophy of Science_, 15(2): 135–175. doi:10.1086/286983
-* Hendry, Robin Findlay, 1998, “Models and Approximations in Quantum Chemistry”, in Niall Shanks (ed.), _Idealization IX: Idealization in Contemporary Physics_, Amsterdam: Rodopi, 123–142.
-* –––, 2010, “Ontological Reduction and Molecular Structure”, _Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics_, 41(2): 183–191. doi:10.1016/j.shpsb.2010.03.005
-* –––, 2017, “Prospects for Strong Emergence in Chemistry”, In Michele Paolini Paoletti and Francesco Orilia (eds.), _Philosophical and Scientific Perspectives on Downward Causation_, London: Routledge, 146–163.
-* –––, 2019, “Emergence in Chemistry: Substance and Structure”, in S. Gibb, R. Hendry, and T. Lancaster (eds.), _The Routledge Handbook of Emergence_, Abingdon: Routledge, 339–351.
-* Hettema, Hinne, 2015, “Reduction for a Dappled World: Connecting Chemical and Physical Theories”, in _Philosophy of Chemistry_, Eric Scerri and Lee McIntyre (eds.), (Boston Studies in the Philosophy and History of Science 306), Dordrecht: Springer Netherlands, 5–22. doi:10.1007/978-94-017-9364-3\_2
-* Horgan, Terence and John Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality”, in _Philosophy of Mind: Classical and Contemporary Readings_, David Chalmers (ed.), Oxford: Oxford University Press, 520–533.
-* Howell, Robert J., 2009, “Emergentism and Supervenience Physicalism”, _Australasian Journal of Philosophy_, 87(1): 83–98. doi:10.1080/00048400802215398
-* Humphreys, Paul, 1997, “How Properties Emerge”, _Philosophy of Science_, 64(1): 1–17. doi:10.1086/392533
-* –––, 2016, _Emergence: A Philosophical Account_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190620325.001.0001
-* Jackson, Frank, 1982, “Epiphenomenal Qualia”, _The Philosophical Quarterly_, 32(127): 127–136. doi:10.2307/2960077
-* Kauffman, Stuard, 1993, _The Origins of Order: Self-Organization and Selection in Evolution_, New York: Oxford University Press.
-* –––, 1995, _At Home in the Universe: The Search for the Laws of Self-Organization and Complexity_, New York: Oxford University Press.
-* Kim, Jaegwon, 1984, “Concepts of Supervenience”, _Philosophy and Phenomenological Research_, 45(2): 153–176. doi:10.2307/2107423
-* –––, 1993, “The Non-Reductivist’s Troubles with Mental Causation”, in _Mental Causation_, John Heil and Alfred Mele (eds.), Oxford: Oxford University Press, 189–210.
-* –––, 1998, _Mind in a Physical World_, Cambridge, MA: MIT Press.
-* –––, 1999, “Making Sense of Emergence”, _Philosophical Studies_, 95: 3–36.
-* –––, 2005, _Physicalism, or Something Near Enough_, Princeton, NJ: Princeton University Press.
-* Laughlin, Robert, 2005, _A Different Universe: Reinventing Physics from the Bottom Down_, New York: Basic Books.
-* LePore, Ernest Le and Barry Loewer, 1987, “Mind Matters”:, _Journal of Philosophy_, 84(11): 630–642. doi:10.5840/jphil198784119
-* –––, 1989, “More on Making Mind Matter”:, _Philosophical Topics_, 17(1): 175–191. doi:10.5840/philtopics198917117
-* Lewes, George Henry, 1875, _Problems of Life and Mind_ (Volume 2), London: Kegan Paul, Trench, Turbner, and Co.
-* Libet, Benjamin W., 1999, “Do We Have Free Will?”, _Journal of Consciousness Studies_, 6(8–9): 47–57.
-* Lowe, E. J., 2008, _Personal Agency: The Metaphysics of Mind and Action_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199217144.001.0001
-* –––, 2013, “Substance Causation, Powers, and Human Agency”, in _Mental Causation and Ontology_, S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), Oxford: Oxford University Press, 153–172. doi:10.1093/acprof:oso/9780199603770.003.0007
-* Macdonald, Cynthia and Graham Macdonald, 1986, “Mental Causes and Explanation of Action”, _The Philosophical Quarterly_, 36(143): 145–158. doi:10.2307/2219765
-* –––, 1995, “How to be Psychologically Relevant”, in C. Macdonald and G. Macdonald (eds.), _Philosophy of Psychology: Debates on Psychological Explanation_, Volume 1, Oxford: Blackwell, 60–77.
-* ––– (eds.), 2010, _Emergence in Mind_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199583621.001.0001
-* Machamer, Peter, Lindley Darden, and Carl F. Craver, 2000, “Thinking about Mechanisms”, _Philosophy of Science_, 67(1): 1–25. doi:10.1086/392759
+* Bedau, Mark and Paul Humphreys, 2008, *Emergence: Contemporary Readings in Philosophy and Science*, Cambridge, MA: MIT Press.
+* Bennett, Karen, 2017, *Making Things Up*, Oxford: Oxford University Press. doi:10.1093/oso/9780199682683.001.0001
+* Boogerd, Fred C., Frank J. Bruggeman, Jan-Hendrik S. Hofmeyr, and Hans V. Westerhoff, 2007, *Systems Biology: Philosophical Foundations*, Amsterdam: Elsevier.
+* Boogerd, F. C., F. J. Bruggeman, R. C. Richardson, A. Stephan, and H. V. Westerhoff, 2005, “Emergence and Its Place in Nature: A Case Study of Biochemical Networks”, *Synthese*, 145(1): 131–164. doi:10.1007/s11229-004-4421-9
+* Broad, C.D., 1925, *The Mind and Its Place in Nature*, London: Routledge & Kegan Paul.
+* Camazine, Scott, Jean-Louis Deneubourg, Nigel R. Franks, James Sneyd, Guy Theraulaz, and Eric Bonabeau, 2001, *Self-Organization in Biological Systems*, (Princeton Studies in Complexity), Princeton, NJ: Princeton University Press.
+* Carruthers, Peter, 2000, *Phenomenal Consciousness: A Naturalistic Theory*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487491
+* Cartwright, Nancy, 1983, *How the Laws of Physics Lie*, Oxford: Clarendon Press. doi:10.1093/0198247044.001.0001
+* –––, 1994, “Fundamentalism vs. the Patchwork of Laws”, *Proceedings of the Aristotelian Society*, N.S., 94: 279–292. doi:10.1093/aristotelian/94.1.279
+* –––, 1999, *The Dappled World: A Study of the Boundaries of Science*, New York: Cambridge University Press. doi:10.1017/CBO9781139167093
+* Caruso, Gregg, 2012, *Free Will and Consciousness*, Lanham, MD: Lexington Books.
+* Caston, Victor, 1997, “Epiphenomenalisms, Ancient and Modern”, *The Philosophical Review*, 106(3): 309–363. doi:10.2307/2998397
+* Cat, Jordi, 1998, “The Physicists’ Debates on Unification in Physics at the End of the 20th Century”, *Historical Studies in the Physical and Biological Sciences*, 28(2): 253–299. doi:10.2307/27757796
+* Chalmers, David J., 1996, *The Conscious Mind: In Search of a Theory of Conscious Experience*, New York: Oxford University Press.
+* –––, 2006, “Strong and Weak Emergence”, in *The Re-Emergence of Emergence: The Emergentist Hypothesis from Science to Religion*, Philip Clayton and Paul Davies (eds.), Oxford: Oxford University Press, 244–254.
+* –––, 2018, “The Meta-Problem of Consciousness”, *Journal of Consciousness Studies*, 25(9–10): 6–61.
+* –––, forthcoming, “Finding Space in a Nonspatial World”, in *Philosophy Beyond Spacetime*, B. Le Bihan, N. Huggett, and C. Wüthrich (eds.), Oxford: Oxford University Press.
+* Clapp, Lenny, 2001, “Disjunctive Properties: Multiple Realizations”, *The Journal of Philosophy*, 98(3): 111–136. doi:10.2307/2678378
+* Corradini, Antonella and Timothy O’Connor (eds.), 2010, *Emergence in Science and Philosophy*, New York: Routledge. doi:10.4324/9780203849408
+* Craver, Carl F., 2007, *Explaining the Brain*, Oxford: Clarendon Press. doi:10.1093/acprof:oso/9780199299317.001.0001
+* Dehaene, Stanislas, Jean-Pierre Changeux, Lionel Naccache, Jérôme Sackur, and Claire Sergent, 2006, “Conscious, Preconscious, and Subliminal Processing: A Testable Taxonomy”, *Trends in Cognitive Sciences*, 10(5): 204–211. doi:10.1016/j.tics.2006.03.007
+* Dirac, Paul Adrien Maurice, 1929, “Quantum Mechanics of Many-Electron Systems”, *Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character*, 123(792): 714–733. doi:10.1098/rspa.1929.0094
+* Dupré, John, 1993, *The Disorder of Things: Metaphysical Foundations of the Disunity of Science*, Cambridge, MA: Harvard University Press.
+* Ehring, Douglas, 1996, “Mental Causation, Determinables and Property Instances”, *Noûs*, 30(4): 461–480. doi:10.2307/2216114
+* Ellis, George, 2016, *How Can Physics Underlie the Mind? Top-Down Causation in the Human Context*, (The Frontiers Collection), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-662-49809-5
+* Ellis, George F. R., Denis Noble, and Timothy O’Connor, 2012, “Top-down Causation: An Integrating Theme within and across the Sciences?”, *Interface Focus*, 2(1): 1–3. doi:10.1098/rsfs.2011.0110
+* Fodor, Jerry A., 1974, “Special Sciences (or: The Disunity of Science as a Working Hypothesis)”, *Synthese*, 28(2): 97–115. doi:10.1007/BF00485230
+* Francescotti, Robert Michael, 2001, “Property Dualism without Substance Dualism?”, *Philosophical Papers*, 30(2): 93–116. doi:10.1080/05568640109485079
+* –––, 2007, “Emergence”, *Erkenntnis*, 67(1): 47–63. doi:10.1007/s10670-007-9047-0
+* Freeman, Walter, Jackson, 1999, “Consciousness, Intentionality and Causality”, In R. Nunez and W. J. Freeman (eds.), *Reclaiming Cognition: The Primacy of Action, Intention and Emotion*, Bowling Green, OH: Imprint Academic, 143–172.
+* –––, 2000, *How Brains Make Up Their Minds*, New York: Columbia University Press.
+* Ganeri, Jonardon, 2011, “Emergentisms, Ancient and Modern”, *Mind*, 120(479): 671–703. doi:10.1093/mind/fzr038
+* Gillett, Carl, 2002, “The Varieties of Emergence: Their Purposes, Obligations, and Importance”, *Grazer Philosophische Studien*, 65: 95–121. doi:10.1163/18756735-90000795
+* –––, 2016, *Reduction and Emergence in Science and Philosophy*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139871716
+* Guay, Alexandre and Olivier Sartenaer, 2016, “A New Look at Emergence. Or When *After* Is Different”, *European Journal for Philosophy of Science*, 6(2): 297–322. doi:10.1007/s13194-016-0140-6
+* Hasker, William, 2016, “Do My Quarks Enjoy Beethoven?”, in Thomas Crisp, Steve L. Porter, and Gregg A. Ten Elshof (eds), *Neuroscience and the Soul: The Human Person in Philosophy, Science, and Theology*, Grand Rapids: Eerdmans, 13–40.
+* Haug, Matthew C., 2010, “Realization, Determination, and Mechanisms”, *Philosophical Studies*, 150(3): 313–330. doi:10.1007/s11098-009-9409-3
+* Heil, John, 2003, “Levels of Reality”, *Ratio*, 16(3): 205–221. doi:10.1111/1467-9329.00218
+* Hempel, Carl G. and Paul Oppenheim, 1948, “Studies in the Logic of Explanation”, *Philosophy of Science*, 15(2): 135–175. doi:10.1086/286983
+* Hendry, Robin Findlay, 1998, “Models and Approximations in Quantum Chemistry”, in Niall Shanks (ed.), *Idealization IX: Idealization in Contemporary Physics*, Amsterdam: Rodopi, 123–142.
+* –––, 2010, “Ontological Reduction and Molecular Structure”, *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 41(2): 183–191. doi:10.1016/j.shpsb.2010.03.005
+* –––, 2017, “Prospects for Strong Emergence in Chemistry”, In Michele Paolini Paoletti and Francesco Orilia (eds.), *Philosophical and Scientific Perspectives on Downward Causation*, London: Routledge, 146–163.
+* –––, 2019, “Emergence in Chemistry: Substance and Structure”, in S. Gibb, R. Hendry, and T. Lancaster (eds.), *The Routledge Handbook of Emergence*, Abingdon: Routledge, 339–351.
+* Hettema, Hinne, 2015, “Reduction for a Dappled World: Connecting Chemical and Physical Theories”, in *Philosophy of Chemistry*, Eric Scerri and Lee McIntyre (eds.), (Boston Studies in the Philosophy and History of Science 306), Dordrecht: Springer Netherlands, 5–22. doi:10.1007/978-94-017-9364-3\_2
+* Horgan, Terence and John Tienson, 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality”, in *Philosophy of Mind: Classical and Contemporary Readings*, David Chalmers (ed.), Oxford: Oxford University Press, 520–533.
+* Howell, Robert J., 2009, “Emergentism and Supervenience Physicalism”, *Australasian Journal of Philosophy*, 87(1): 83–98. doi:10.1080/00048400802215398
+* Humphreys, Paul, 1997, “How Properties Emerge”, *Philosophy of Science*, 64(1): 1–17. doi:10.1086/392533
+* –––, 2016, *Emergence: A Philosophical Account*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780190620325.001.0001
+* Jackson, Frank, 1982, “Epiphenomenal Qualia”, *The Philosophical Quarterly*, 32(127): 127–136. doi:10.2307/2960077
+* Kauffman, Stuard, 1993, *The Origins of Order: Self-Organization and Selection in Evolution*, New York: Oxford University Press.
+* –––, 1995, *At Home in the Universe: The Search for the Laws of Self-Organization and Complexity*, New York: Oxford University Press.
+* Kim, Jaegwon, 1984, “Concepts of Supervenience”, *Philosophy and Phenomenological Research*, 45(2): 153–176. doi:10.2307/2107423
+* –––, 1993, “The Non-Reductivist’s Troubles with Mental Causation”, in *Mental Causation*, John Heil and Alfred Mele (eds.), Oxford: Oxford University Press, 189–210.
+* –––, 1998, *Mind in a Physical World*, Cambridge, MA: MIT Press.
+* –––, 1999, “Making Sense of Emergence”, *Philosophical Studies*, 95: 3–36.
+* –––, 2005, *Physicalism, or Something Near Enough*, Princeton, NJ: Princeton University Press.
+* Laughlin, Robert, 2005, *A Different Universe: Reinventing Physics from the Bottom Down*, New York: Basic Books.
+* LePore, Ernest Le and Barry Loewer, 1987, “Mind Matters”:, *Journal of Philosophy*, 84(11): 630–642. doi:10.5840/jphil198784119
+* –––, 1989, “More on Making Mind Matter”:, *Philosophical Topics*, 17(1): 175–191. doi:10.5840/philtopics198917117
+* Lewes, George Henry, 1875, *Problems of Life and Mind* (Volume 2), London: Kegan Paul, Trench, Turbner, and Co.
+* Libet, Benjamin W., 1999, “Do We Have Free Will?”, *Journal of Consciousness Studies*, 6(8–9): 47–57.
+* Lowe, E. J., 2008, *Personal Agency: The Metaphysics of Mind and Action*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199217144.001.0001
+* –––, 2013, “Substance Causation, Powers, and Human Agency”, in *Mental Causation and Ontology*, S. C. Gibb, E. J. Lowe, and R. D. Ingthorsson (eds.), Oxford: Oxford University Press, 153–172. doi:10.1093/acprof:oso/9780199603770.003.0007
+* Macdonald, Cynthia and Graham Macdonald, 1986, “Mental Causes and Explanation of Action”, *The Philosophical Quarterly*, 36(143): 145–158. doi:10.2307/2219765
+* –––, 1995, “How to be Psychologically Relevant”, in C. Macdonald and G. Macdonald (eds.), *Philosophy of Psychology: Debates on Psychological Explanation*, Volume 1, Oxford: Blackwell, 60–77.
+* ––– (eds.), 2010, *Emergence in Mind*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199583621.001.0001
+* Machamer, Peter, Lindley Darden, and Carl F. Craver, 2000, “Thinking about Mechanisms”, *Philosophy of Science*, 67(1): 1–25. doi:10.1086/392759
 * McGivern, Patrick and Alexander Rueger, 2010, “Emergence in Physics”, in Corradini and O’Connor 2010: 213–232.
 * McLaughlin, Brian, 1992, “The Rise and Fall of British Emergentism”, in Beckermann, Flohr, and Kim 1992: 49–93.
-* Mele, Alfred, 2009, _Effective Intentions_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195384260.001.0001
-* Melnyk, Andrew, 2006, “Realization and the Formulation of Physicalism”, _Philosophical Studies_, 131(1): 127–155. doi:10.1007/s11098-005-5986-y
-* Mendelovici, Angela, 2018, _The Phenomenal Basis of Intentionality_, New York: Oxford University Press. doi:10.1093/oso/9780190863807.001.0001
-* Mill, John Stuart, 1843, _System of Logic_, London: Longmans, Green, Reader, and Dyer. \[8th ed., 1872.]
-* Mitchell, Sandra D., 2012, “Emergence: Logical, Functional and Dynamical”, _Synthese_, 185(2): 171–186. doi:10.1007/s11229-010-9719-1
-* Murphy, Nancey, George F. R. Ellis, and Timothy O’Connor (eds.), 2009, _Downward Causation and the Neurobiology of Free Will_, (Understanding Complex Systems), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-03205-9
-* Nagel, Thomas, 1979, “Panpsychism”, in his _Mortal Questions_, Cambridge: Cambridge University Press, 181–195.
-* Ney, Alyssa, 2010, “Convergence on the Problem of Mental Causation: Shoemaker’s Strategy for (Nonreductive?) Physicalists”, _Philosophical Issues_, 20: 438–445. doi:10.1111/j.1533-6077.2010.00193.x
-* Nida-Rümelin, Martine, 2007, “Dualist Emergentism”, in _Contemporary Debates in Philosophy of Mind_, Brian McLaughlin and Jonathan Cohen (eds.), Oxford: Blackwell, 269–286.
-* Noble, Denis, 2006, _The Music of Life: Biology Beyond the Genome_, Oxford: Oxford University Press.
+* Mele, Alfred, 2009, *Effective Intentions*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195384260.001.0001
+* Melnyk, Andrew, 2006, “Realization and the Formulation of Physicalism”, *Philosophical Studies*, 131(1): 127–155. doi:10.1007/s11098-005-5986-y
+* Mendelovici, Angela, 2018, *The Phenomenal Basis of Intentionality*, New York: Oxford University Press. doi:10.1093/oso/9780190863807.001.0001
+* Mill, John Stuart, 1843, *System of Logic*, London: Longmans, Green, Reader, and Dyer. \[8th ed., 1872.]
+* Mitchell, Sandra D., 2012, “Emergence: Logical, Functional and Dynamical”, *Synthese*, 185(2): 171–186. doi:10.1007/s11229-010-9719-1
+* Murphy, Nancey, George F. R. Ellis, and Timothy O’Connor (eds.), 2009, *Downward Causation and the Neurobiology of Free Will*, (Understanding Complex Systems), Berlin, Heidelberg: Springer Berlin Heidelberg. doi:10.1007/978-3-642-03205-9
+* Nagel, Thomas, 1979, “Panpsychism”, in his *Mortal Questions*, Cambridge: Cambridge University Press, 181–195.
+* Ney, Alyssa, 2010, “Convergence on the Problem of Mental Causation: Shoemaker’s Strategy for (Nonreductive?) Physicalists”, *Philosophical Issues*, 20: 438–445. doi:10.1111/j.1533-6077.2010.00193.x
+* Nida-Rümelin, Martine, 2007, “Dualist Emergentism”, in *Contemporary Debates in Philosophy of Mind*, Brian McLaughlin and Jonathan Cohen (eds.), Oxford: Blackwell, 269–286.
+* Noble, Denis, 2006, *The Music of Life: Biology Beyond the Genome*, Oxford: Oxford University Press.
 * Noordhof, Paul, 2010, “Emergent Causation and Property Causation”, in Macdonald and Macdonald 2010: 69–98.
-* O’Connor, Timothy, 1994, “Emergent Properties”, _American Philosophical Quarterly_, 31(2): 91–104.
-* –––, 2000, _Persons and Causes: The Metaphysics of Free Will_, Oxford: Oxford University Press.
-* –––, 2008, “Agent-Causal Power”, in _Dispositions and Causes_, Toby Handfield (ed.), Oxford: Clarendon Press, 189–214.
-* –––, 2016, “Materially-Composed Persons and the Unity of Consciousness”, in Thomas Crisp, Steve L. Porter, and Gregg A. Ten Elshof (eds.), _Neuroscience and the Soul: The Human Person in Philosophy, Science, and Theology_, Grand Rapids: Eerdmans, 41–47.
-* –––, 2018, “For Emergent Individualism”, in Jonathan J. Loose, Angus J. L. Menuge, and J. P. Moreland (eds.), _The Blackwell Companion to Substance Dualism_, Oxford: Wiley Blackwell, 369–376.
+* O’Connor, Timothy, 1994, “Emergent Properties”, *American Philosophical Quarterly*, 31(2): 91–104.
+* –––, 2000, *Persons and Causes: The Metaphysics of Free Will*, Oxford: Oxford University Press.
+* –––, 2008, “Agent-Causal Power”, in *Dispositions and Causes*, Toby Handfield (ed.), Oxford: Clarendon Press, 189–214.
+* –––, 2016, “Materially-Composed Persons and the Unity of Consciousness”, in Thomas Crisp, Steve L. Porter, and Gregg A. Ten Elshof (eds.), *Neuroscience and the Soul: The Human Person in Philosophy, Science, and Theology*, Grand Rapids: Eerdmans, 41–47.
+* –––, 2018, “For Emergent Individualism”, in Jonathan J. Loose, Angus J. L. Menuge, and J. P. Moreland (eds.), *The Blackwell Companion to Substance Dualism*, Oxford: Wiley Blackwell, 369–376.
 * O’Connor, Timothy and John Ross Churchill, 2010a, “Is Nonreductive Physicalism Viable Within a Causal Powers Metaphysic?”, in Macdonald and Macdonald 2010: 43–60.
-* –––, 2010b, “Nonreductive Physicalism or Emergent Dualism? The Argument from Mental Causation”, in _The Waning of Materialism: New Essays_, Robert C. Koons and George Bealer a (eds.), Oxford: Oxford University Press, 261–279. doi:10.1093/acprof:oso/9780199556182.003.0013
-* O’Connor, Timothy and Jonathan D. Jacobs, 2003, “Emergent Individuals”, _The Philosophical Quarterly_, 53(213): 540–555. doi:10.1111/1467-9213.00330
+* –––, 2010b, “Nonreductive Physicalism or Emergent Dualism? The Argument from Mental Causation”, in *The Waning of Materialism: New Essays*, Robert C. Koons and George Bealer a (eds.), Oxford: Oxford University Press, 261–279. doi:10.1093/acprof:oso/9780199556182.003.0013
+* O’Connor, Timothy and Jonathan D. Jacobs, 2003, “Emergent Individuals”, *The Philosophical Quarterly*, 53(213): 540–555. doi:10.1111/1467-9213.00330
 * O’Connor, Timothy and Georg Theiner, 2010, “Emergence and the Metaphysics of Group Cognition”, in Corradini and O’Connor 2010: 78–117.
-* O’Connor, Timothy and Hong Yu Wong, 2005, “The Metaphysics of Emergence”, _Noûs_, 39(4): 658–678. doi:10.1111/j.0029-4624.2005.00543.x
-* Paolini Paoletti, Michele, 2018, “Formulating Emergence: Formulating Emergence”, _Ratio_, 31: 1–18. doi:10.1111/rati.12160
-* Pasnau, Robert, 2001, _Thomas Aquinas on Human Nature: A Philosophical Study of “Summa Theologiae” , 1a 75–89_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511613180
-* –––, 2011, _Metaphysical Themes 1274–1671_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199567911.001.0001
-* Pearson, Olley, 2018, “Emergence, Dependence, and Fundamentality”, _Erkenntnis_, 83(3): 391–402. doi:10.1007/s10670-017-9895-1
-* Pereboom, Derk, 2011, _Consciousness and the Prospects of Physicalism_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199764037.001.0001
-* Primas, Hans, 1981, _Chemistry, Quantum Mechanics and Reductionism: Perspectives in Theoretical Chemistry_, New York: Springer-Verlag.
-* Putnam, Hilary, 1967, “The Nature of Mental States”, in W.H. Capitan and D.D. Merrill (eds.), _Art, Mind, and Religion_, Pittsburgh: Pittsburgh University Press.
-* Robb, David, 1997, “The Properties of Mental Causation”, _The Philosophical Quarterly_, 47(187): 178–194. doi:10.1111/1467-9213.00054
-* Rosenthal, David M., 2005, _Consciousness and Mind_, Oxford: Oxford University Press.
-* Rueger, Alexander, 2000, “Physical Emergence, Diachronic And Synchronic”, _Synthese_, 124(3): 297–322. doi:10.1023/A:1005249907425
-* Santos, Gil C., 2015a, “Upward and Downward Causation from a Relational-Horizontal Ontological Perspective”, _Axiomathes_, 25: 23–40. doi:10.1007/s10516-014-9251-x
-* –––, 2015b, “Ontological Emergence: How Is That Possible? Towards a New Relational Ontology”, _Foundations of Science_, 20(4): 429–446. doi:10.1007/s10699-015-9419-x
-* Sartenaer, Olivier, 2018, “Flat Emergence: Flat Emergence”, _Pacific Philosophical Quarterly_, 99: 225–250. doi:10.1111/papq.12233
-* Scerri, Eric R., 2012, “Top-down Causation Regarding the Chemistry–Physics Interface: A Sceptical View”, _Interface Focus_, 2(1): 20–25. doi:10.1098/rsfs.2011.0061
-* Schechter, Elizabeth, 2018, _Self-Consciousness and “Split” Brains: The Minds’ I_, Oxford: Oxford University Press. doi:10.1093/oso/9780198809654.001.0001
-* Schneider, Susan, 2012, “Why Property Dualists Must Reject Substance Physicalism”, _Philosophical Studies_, 157: 61–76. doi:10.1007/s11098-010-9618-9
-* Schurger, Aaron, Jacobo D. Sitt, and Stanislas Dehaene, 2012, “An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement”, _Proceedings of the National Academy of Sciences_, 109(42): E2904–E2913. doi:10.1073/pnas.1210467109
-* Schaffer, Jonathan, 2016, “Ground Rules: Lessons from Wilson”, in _Scientific Composition and Metaphysical Ground_, Kenneth Aizawa and Carl Gillett (eds.), (New Directions in the Philosophy of Science), London: Palgrave Macmillan UK, 143–169. doi:10.1057/978-1-137-56216-6\_6
-* Shoemaker, Sydney, 1984, “Some Varieties of Functionalism”, in his _Identity, Cause, and Mind: Philosophical Essays_, Cambridge: Cambridge University Press.
-* –––, 2000 \[2001], “Realization and Mental Causation”, in _Proceedings of the 20th World Congress in Philosophy_, 23–33. Reprinted in revised form in _Physicalism and Its Discontents_, Carl Gillett and Barry Loewer (eds.), Cambridge: Cambridge University Press, 74–98. doi:10.1017/CBO9780511570797.005
-* –––, 2002, “Kim on Emergence”, _Philosophical Studies_, 108(1/2): 53–63. doi:10.1023/A:1015708030227
-* –––, 2007, _Physical Realization_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199214396.001.0001
-* Silberstein, Michael and John McGeever, 1999, “The Search for Ontological Emergence”, _The Philosophical Quarterly_, 49(195): 201–214. doi:10.1111/1467-9213.00136
-* Stapp, Henry P., 2017, _Quantum Theory and Free Will: How Mental Intentions Translate into Bodily Actions_, Cham: Springer International Publishing. doi:10.1007/978-3-319-58301-3
-* Strawson, Galen, 2006, “Realistic Materialism: Why Physicalism Entails Panpsychism”, _Journal of Consciousness Studies_, 13(10–11): 3–31.
-* Stump, Eleonore, 2003, _Aquinas_, New York: Routledge.
-* Sturgeon, Scott, 1998, “Physicalism and Overdetermination”, _Mind_, 107(426): 411–432. doi:10.1093/mind/107.426.411
-* Swinburne, Richard, 2012, _Mind, Brain, and Free Will_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199662562.001.0001
-* Taylor, Elanor, 2015, “An Explication of Emergence”, _Philosophical Studies_, 172(3): 653–669. doi:10.1007/s11098-014-0324-x
+* O’Connor, Timothy and Hong Yu Wong, 2005, “The Metaphysics of Emergence”, *Noûs*, 39(4): 658–678. doi:10.1111/j.0029-4624.2005.00543.x
+* Paolini Paoletti, Michele, 2018, “Formulating Emergence: Formulating Emergence”, *Ratio*, 31: 1–18. doi:10.1111/rati.12160
+* Pasnau, Robert, 2001, *Thomas Aquinas on Human Nature: A Philosophical Study of “Summa Theologiae” , 1a 75–89*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511613180
+* –––, 2011, *Metaphysical Themes 1274–1671*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199567911.001.0001
+* Pearson, Olley, 2018, “Emergence, Dependence, and Fundamentality”, *Erkenntnis*, 83(3): 391–402. doi:10.1007/s10670-017-9895-1
+* Pereboom, Derk, 2011, *Consciousness and the Prospects of Physicalism*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199764037.001.0001
+* Primas, Hans, 1981, *Chemistry, Quantum Mechanics and Reductionism: Perspectives in Theoretical Chemistry*, New York: Springer-Verlag.
+* Putnam, Hilary, 1967, “The Nature of Mental States”, in W.H. Capitan and D.D. Merrill (eds.), *Art, Mind, and Religion*, Pittsburgh: Pittsburgh University Press.
+* Robb, David, 1997, “The Properties of Mental Causation”, *The Philosophical Quarterly*, 47(187): 178–194. doi:10.1111/1467-9213.00054
+* Rosenthal, David M., 2005, *Consciousness and Mind*, Oxford: Oxford University Press.
+* Rueger, Alexander, 2000, “Physical Emergence, Diachronic And Synchronic”, *Synthese*, 124(3): 297–322. doi:10.1023/A:1005249907425
+* Santos, Gil C., 2015a, “Upward and Downward Causation from a Relational-Horizontal Ontological Perspective”, *Axiomathes*, 25: 23–40. doi:10.1007/s10516-014-9251-x
+* –––, 2015b, “Ontological Emergence: How Is That Possible? Towards a New Relational Ontology”, *Foundations of Science*, 20(4): 429–446. doi:10.1007/s10699-015-9419-x
+* Sartenaer, Olivier, 2018, “Flat Emergence: Flat Emergence”, *Pacific Philosophical Quarterly*, 99: 225–250. doi:10.1111/papq.12233
+* Scerri, Eric R., 2012, “Top-down Causation Regarding the Chemistry–Physics Interface: A Sceptical View”, *Interface Focus*, 2(1): 20–25. doi:10.1098/rsfs.2011.0061
+* Schechter, Elizabeth, 2018, *Self-Consciousness and “Split” Brains: The Minds’ I*, Oxford: Oxford University Press. doi:10.1093/oso/9780198809654.001.0001
+* Schneider, Susan, 2012, “Why Property Dualists Must Reject Substance Physicalism”, *Philosophical Studies*, 157: 61–76. doi:10.1007/s11098-010-9618-9
+* Schurger, Aaron, Jacobo D. Sitt, and Stanislas Dehaene, 2012, “An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement”, *Proceedings of the National Academy of Sciences*, 109(42): E2904–E2913. doi:10.1073/pnas.1210467109
+* Schaffer, Jonathan, 2016, “Ground Rules: Lessons from Wilson”, in *Scientific Composition and Metaphysical Ground*, Kenneth Aizawa and Carl Gillett (eds.), (New Directions in the Philosophy of Science), London: Palgrave Macmillan UK, 143–169. doi:10.1057/978-1-137-56216-6\_6
+* Shoemaker, Sydney, 1984, “Some Varieties of Functionalism”, in his *Identity, Cause, and Mind: Philosophical Essays*, Cambridge: Cambridge University Press.
+* –––, 2000 \[2001], “Realization and Mental Causation”, in *Proceedings of the 20th World Congress in Philosophy*, 23–33. Reprinted in revised form in *Physicalism and Its Discontents*, Carl Gillett and Barry Loewer (eds.), Cambridge: Cambridge University Press, 74–98. doi:10.1017/CBO9780511570797.005
+* –––, 2002, “Kim on Emergence”, *Philosophical Studies*, 108(1/2): 53–63. doi:10.1023/A:1015708030227
+* –––, 2007, *Physical Realization*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199214396.001.0001
+* Silberstein, Michael and John McGeever, 1999, “The Search for Ontological Emergence”, *The Philosophical Quarterly*, 49(195): 201–214. doi:10.1111/1467-9213.00136
+* Stapp, Henry P., 2017, *Quantum Theory and Free Will: How Mental Intentions Translate into Bodily Actions*, Cham: Springer International Publishing. doi:10.1007/978-3-319-58301-3
+* Strawson, Galen, 2006, “Realistic Materialism: Why Physicalism Entails Panpsychism”, *Journal of Consciousness Studies*, 13(10–11): 3–31.
+* Stump, Eleonore, 2003, *Aquinas*, New York: Routledge.
+* Sturgeon, Scott, 1998, “Physicalism and Overdetermination”, *Mind*, 107(426): 411–432. doi:10.1093/mind/107.426.411
+* Swinburne, Richard, 2012, *Mind, Brain, and Free Will*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199662562.001.0001
+* Taylor, Elanor, 2015, “An Explication of Emergence”, *Philosophical Studies*, 172(3): 653–669. doi:10.1007/s11098-014-0324-x
 * Teller, Paul, 1992, “A Contemporary Look at Emergence”, in Beckermann, Flohr, and Kim 1992: 139–153.
-* Thompson, Evan, 2007, _Mind in Life: Biology, Phenomenology, and the Sciences of Mind_, Cambridge, MA: Harvard University Press.
-* Thompson, Evan and Francisco J. Varela, 2001, “Radical Embodiment: Neural Dynamics and Consciousness”, _Trends in Cognitive Sciences_, 5(10): 418–425. doi:10.1016/S1364-6613(00)01750-2
-* Tononi, Giulio and Christof Koch, 2015, “Consciousness: Here, There and Everywhere?”, _Philosophical Transactions of the Royal Society B: Biological Sciences_, 370(1668): 20140167. doi:10.1098/rstb.2014.0167
-* Van Cleve, James, 1990, “Mind—Dust or Magic? Panpsychism Versus Emergence”, _Philosophical Perspectives_, 4: 215–226. doi:10.2307/2214193
-* Van Gulick, Robert, 2001, “Reduction, Emergence and Other Recent Options on the Mind/Body Problem: A Philosophic Overview”, _Journal of Consciousness Studies_, 8(9–10): 1–34.
-* Wilson, Jessica M., 1999, “How Superduper Does a Physicalist Supervenience Need to Be?”, _The Philosophical Quarterly_, 49(194): 33–52. doi:10.1111/1467-9213.00127
-* –––, 2002, “Causal Powers, Forces, and Superdupervenience”, _Grazer Philosophische Studien_, 63: 53–78. doi:10.1163/18756735-90000756
-* –––, 2010, “Non-Reductive Physicalism and Degrees of Freedom”, _The British Journal for the Philosophy of Science_, 61(2): 279–311. doi:10.1093/bjps/axp040
-* –––, 2012, “Fundamental Determinables”, _Philosopher’s Imprint_, 12(4): 17 pages. \[[Wilson 2012 available online](http://hdl.handle.net/2027/spo.3521354.0012.004)]
-* –––, 2014, “No Work for a Theory of Grounding”, _Inquiry_, 57(5–6): 535–579. doi:10.1080/0020174X.2014.907542
-* –––, 2015, “Metaphysical Emergence: Weak and Strong”, in Tomasz Bigaj and Christian Wüthrich (eds.), _Metaphysical Emergence in Contemporary Physics_, Amsterdam: Rodopi, 251–306.
-* –––, forthcoming, _Metaphysical Emergence_, Oxford: Oxford University Press.
-* Wimsatt, William C., 1994, “The Ontology of Complex Systems: Levels of Organization, Perspectives, and Causal Thickets”, _Canadian Journal of Philosophy Supplementary Volume_, 20: 207–274. doi:10.1080/00455091.1994.10717400
-* Wong, Hong Yu, 2006, “Emergents from Fusion”, _Philosophy of Science_, 73(3): 345–367. doi:10.1086/515413
+* Thompson, Evan, 2007, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*, Cambridge, MA: Harvard University Press.
+* Thompson, Evan and Francisco J. Varela, 2001, “Radical Embodiment: Neural Dynamics and Consciousness”, *Trends in Cognitive Sciences*, 5(10): 418–425. doi:10.1016/S1364-6613(00)01750-2
+* Tononi, Giulio and Christof Koch, 2015, “Consciousness: Here, There and Everywhere?”, *Philosophical Transactions of the Royal Society B: Biological Sciences*, 370(1668): 20140167. doi:10.1098/rstb.2014.0167
+* Van Cleve, James, 1990, “Mind—Dust or Magic? Panpsychism Versus Emergence”, *Philosophical Perspectives*, 4: 215–226. doi:10.2307/2214193
+* Van Gulick, Robert, 2001, “Reduction, Emergence and Other Recent Options on the Mind/Body Problem: A Philosophic Overview”, *Journal of Consciousness Studies*, 8(9–10): 1–34.
+* Wilson, Jessica M., 1999, “How Superduper Does a Physicalist Supervenience Need to Be?”, *The Philosophical Quarterly*, 49(194): 33–52. doi:10.1111/1467-9213.00127
+* –––, 2002, “Causal Powers, Forces, and Superdupervenience”, *Grazer Philosophische Studien*, 63: 53–78. doi:10.1163/18756735-90000756
+* –––, 2010, “Non-Reductive Physicalism and Degrees of Freedom”, *The British Journal for the Philosophy of Science*, 61(2): 279–311. doi:10.1093/bjps/axp040
+* –––, 2012, “Fundamental Determinables”, *Philosopher’s Imprint*, 12(4): 17 pages. \[[Wilson 2012 available online](http://hdl.handle.net/2027/spo.3521354.0012.004)]
+* –––, 2014, “No Work for a Theory of Grounding”, *Inquiry*, 57(5–6): 535–579. doi:10.1080/0020174X.2014.907542
+* –––, 2015, “Metaphysical Emergence: Weak and Strong”, in Tomasz Bigaj and Christian Wüthrich (eds.), *Metaphysical Emergence in Contemporary Physics*, Amsterdam: Rodopi, 251–306.
+* –––, forthcoming, *Metaphysical Emergence*, Oxford: Oxford University Press.
+* Wimsatt, William C., 1994, “The Ontology of Complex Systems: Levels of Organization, Perspectives, and Causal Thickets”, *Canadian Journal of Philosophy Supplementary Volume*, 20: 207–274. doi:10.1080/00455091.1994.10717400
+* Wong, Hong Yu, 2006, “Emergents from Fusion”, *Philosophy of Science*, 73(3): 345–367. doi:10.1086/515413
 * –––, 2010, “The Secret Lives of Emergents”, in Corradini and O’Connor 2010: 7–24.
-* Woodward, Philip, 2019, “Phenomenal Intentionality: Reductionism vs. Primitivism”, _Canadian Journal of Philosophy_, 49(5): 606–627. doi:10.1080/00455091.2018.1463801
-* –––, forthcoming, “Consciousness”, in J. Campbell (ed.), _The Wiley-Blackwell Companion to Free Will_, Oxford: Wiley-Blackwell.
-* Woolley, R. G., 1978, “Must a Molecule Have a Shape?”, _Journal of the American Chemical Society_, 100(4): 1073–1078. doi:10.1021/ja00472a009
-* –––, 1998, “Is There a Quantum Definition of a Molecule?”, _Journal of Mathematical Chemistry_, 23(1/2): 3–12. doi:10.1023/A:1019144518901
-* Wüthrich, Christian, 2019, “The Emergence of Space and Time”, in _The Routledge Handbook of Emergence_, Sophie Gibb, Robin Findlay Hendry, and Tom Lancaster (eds.), Abingdon: Routledge, 315–326.
-* Yablo, Stephen, 1992, “Mental Causation”, _The Philosophical Review_, 101(2): 245–280. doi:10.2307/2185535
-* Yates, David, 2017, “Demystifying Emergence”, _Ergo, an Open Access Journal of Philosophy_, 3: 809–841. doi:10.3998/ergo.12405314.0003.031
-* –––, forthcoming, “Neural Synchrony and the Causal Efficacy of Consciousness”, _Topoi_, first online: 21 September 2018. doi:10.1007/s11245-018-9596-7
-* Zimmerman, Dean, 2010, “From Property Dualism to Substance Dualism”, _Aristotelian Society Supplementary Volume_, 84(1): 119–150. doi:10.1111/j.1467-8349.2010.00189.x
+* Woodward, Philip, 2019, “Phenomenal Intentionality: Reductionism vs. Primitivism”, *Canadian Journal of Philosophy*, 49(5): 606–627. doi:10.1080/00455091.2018.1463801
+* –––, forthcoming, “Consciousness”, in J. Campbell (ed.), *The Wiley-Blackwell Companion to Free Will*, Oxford: Wiley-Blackwell.
+* Woolley, R. G., 1978, “Must a Molecule Have a Shape?”, *Journal of the American Chemical Society*, 100(4): 1073–1078. doi:10.1021/ja00472a009
+* –––, 1998, “Is There a Quantum Definition of a Molecule?”, *Journal of Mathematical Chemistry*, 23(1/2): 3–12. doi:10.1023/A:1019144518901
+* Wüthrich, Christian, 2019, “The Emergence of Space and Time”, in *The Routledge Handbook of Emergence*, Sophie Gibb, Robin Findlay Hendry, and Tom Lancaster (eds.), Abingdon: Routledge, 315–326.
+* Yablo, Stephen, 1992, “Mental Causation”, *The Philosophical Review*, 101(2): 245–280. doi:10.2307/2185535
+* Yates, David, 2017, “Demystifying Emergence”, *Ergo, an Open Access Journal of Philosophy*, 3: 809–841. doi:10.3998/ergo.12405314.0003.031
+* –––, forthcoming, “Neural Synchrony and the Causal Efficacy of Consciousness”, *Topoi*, first online: 21 September 2018. doi:10.1007/s11245-018-9596-7
+* Zimmerman, Dean, 2010, “From Property Dualism to Substance Dualism”, *Aristotelian Society Supplementary Volume*, 84(1): 119–150. doi:10.1111/j.1467-8349.2010.00189.x
 
 ## Academic Tools
 
@@ -498,7 +498,7 @@ Santos 认为，现代细胞学和发育生物学表明了这种事物观，但�
 
 ## Other Internet Resources
 
-* O’Connor, Timothy and Hong Yu Wong, “Emergent Properties”, _Stanford Encyclopedia of Philosophy_ (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/properties-emergent/](https://plato.stanford.edu/archives/sum2020/entries/properties-emergent/). \[This was the previous entry on this topic in the _Stanford Encyclopedia of Philosophy_ — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=properties-emergent).]
+* O’Connor, Timothy and Hong Yu Wong, “Emergent Properties”, *Stanford Encyclopedia of Philosophy* (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/properties-emergent/](https://plato.stanford.edu/archives/sum2020/entries/properties-emergent/). \[This was the previous entry on this topic in the *Stanford Encyclopedia of Philosophy* — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=properties-emergent).]
 
 ## Related Entries
 
@@ -511,4 +511,4 @@ The author acknowledges the substantial contributions to the composition of this
 This publication was made possible through the support of a joint grant from the John Templeton Foundation and the Fetzer Institute. The opinions expressed in this publication are those of the author(s) and do not necessarily reflect the views of the John Templeton Foundation or the Fetzer Institute.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Timothy O’Connor <[_toconnor@indiana.edu_](mailto:toconnor%40indiana%2eedu)>
+Timothy O’Connor <[*toconnor@indiana.edu*](mailto:toconnor%40indiana%2eedu)>

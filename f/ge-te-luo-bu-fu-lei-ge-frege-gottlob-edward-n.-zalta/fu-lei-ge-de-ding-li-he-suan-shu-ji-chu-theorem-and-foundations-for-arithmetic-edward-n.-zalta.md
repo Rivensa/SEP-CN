@@ -1,6 +1,6 @@
 # 弗雷格的定理和算术基础 theorem and foundations for arithmetic (Edward N. Zalta)
 
-_首次发表于 1998 年 6 月 10 日星期三；实质修订于 2023 年 8 月 5 日星期六_
+*首次发表于 1998 年 6 月 10 日星期三；实质修订于 2023 年 8 月 5 日星期六*
 
 在他的一生中，戈特洛布·弗雷格在试图定义数学的基本概念并从逻辑法则中推导数学定律方面，形成了两个逻辑系统。在他的 1879 年的著作《概念符号：一种仿效算术的纯思维公式语言》中，他发展了一个二阶谓词演算，并用它来定义有趣的数学概念，并陈述和证明数学上有趣的命题。然而，在他的 1893/1903 年的两卷著作《算术基本法则》中，弗雷格添加了一个他认为是逻辑命题（基本法则 V）的公理，并试图从所得系统中推导出数论的基本公理和定理。不幸的是，基本法则 V 不仅不是一个逻辑命题，而且所得系统被证明是不一致的，因为它受到罗素悖论的影响。
 
@@ -9,8 +9,6 @@ _首次发表于 1998 年 6 月 10 日星期三；实质修订于 2023 年 8 月
 本条目的主要目标是以最具逻辑明晰性的方式呈现弗雷格的定理，而不使用弗雷格自己的符号表示法。当然，弗雷格自己的符号表示法本身非常迷人和有趣，研究弗雷格的原始作品时，人们必须掌握这种表示法。（请参阅有关弗雷格逻辑的条目，以精确系统地研究弗雷格形式系统中的符号表示法。）但是，人们无需理解弗雷格的符号表示法就能理解弗雷格的定理，因此在很大程度上，我们将搁置弗雷格自己的符号表示法以及与之相关的许多解释问题。我们努力通过采用清晰和成熟的现代逻辑符号表示法来呈现弗雷格的定理，以表达证明中涉及的思想和主张。了解弗雷格所取得的成就后，读者将更好地理解弗雷格自己的符号表示法和推导，无论是阅读弗雷格的原始作品（无论是德文还是翻译版本）。此外，我们下面的努力应该使读者能够理解许多关于弗雷格作品的学术著作和文章，例如 Wright 1983、Boolos 1990 和 Heck 1993、2011 和 2012。
 
 为了实现这些目标，我们只假定读者熟悉一阶谓词演算。我们展示如何将这种语言和逻辑扩展到二阶谓词演算，并展示如何在这种演算中表示弗雷格定理中涉及的思想和主张。这些思想和主张都出现在弗雷格的 1893/1903 年的作品中，我们将其称为 Gg I/II。但我们有时也引用他 1879 年的书和 1884 年的书（《算术基础》），分别将这些作品称为 Begr 和 Gl。
-
-
 
 ***
 
@@ -367,11 +365,11 @@ b∈b≡b∉b
 
 最近，人们对修复弗雷格外延理论的方法产生了很大兴趣。传统观点认为，人们必须要么限制基本定律 V，要么限制概念理解原则。最近，Boolos（1986/87，1993）提出了修订基本定律 V 而不放弃第二阶逻辑及其概念理解原则的更有趣的建议之一。另一方面，有许多关于限制概念理解原则的建议。其中最严厉的是放弃第二阶逻辑（和概念理解原则）的所有权。Schroeder-Heister（1987）推测弗雷格系统的一阶部分（即通过将基本定律 V 添加到一阶谓词演算得到的系统）是一致的，这一点由 T. Parsons（1987）和 Burgess（1998）证明了。\[4] Heck（1996），Wehmeier（1999），Ferreira＆Wehmeier（2002）和 Ferreira（2005）考虑了较不激烈的举措。他们研究了通过基本定律 V 扩展的第二阶逻辑系统，但在某种程度上限制了概念理解原则。另请参阅 Anderson＆Zalta（2004）和 Antonelli＆May（2005），了解修复弗雷格系统的不同方法。请参阅 Fine（2002）以了解弗雷格方法的局限，并参阅 Burgess（2005）以获得良好的概述。
 
-We will not discuss the above research further in the present entry, for none of these alternatives have achieved a clear consensus. Instead, we focus on the theoretical accomplishment revealed by Frege’s work in **Gg**. As noted in the Introduction, Frege validly proved a rather deep fact about the natural numbers notwithstanding the inconsistency of Basic Law V. He derived the Dedekind/Peano axioms for number theory in second-order logic from Hume’s Principle (which was briefly mentioned above and which will be discussed in the next section). But this fact went unnoticed for many years. Though Geach (1955) claimed such a derivation was possible, C. Parsons (1965) was the first to note that Hume’s Principle was powerful enough for the derivation of the Dedekind/Peano axioms. Though Wright (1983) actually carried out most of the derivation, Heck (1993) showed that although Frege did use Basic Law V to derive Hume’s principle, his (Frege’s) subsequent derivations of the Dedekind/Peano axioms of number theory from Hume’s Principle never made an _essential_ appeal to Basic Law V. Since Hume’s Principle can be consistently added to second-order logic, we may conclude that Frege himself validly derived the basic laws of number theory. It will be the task of the next few sections to explain Frege’s accomplishments in this regard. We will do this in two stages. In §3 we study Frege’s attempt to derive Hume’s Principle from Basic Law V by analyzing cardinal numbers as extensions. Then, we put this aside in §4 and §5 to examine how Frege was able to derive the Dedekind/Peano axioms of number theory from Hume’s Principle alone.
+We will not discuss the above research further in the present entry, for none of these alternatives have achieved a clear consensus. Instead, we focus on the theoretical accomplishment revealed by Frege’s work in **Gg**. As noted in the Introduction, Frege validly proved a rather deep fact about the natural numbers notwithstanding the inconsistency of Basic Law V. He derived the Dedekind/Peano axioms for number theory in second-order logic from Hume’s Principle (which was briefly mentioned above and which will be discussed in the next section). But this fact went unnoticed for many years. Though Geach (1955) claimed such a derivation was possible, C. Parsons (1965) was the first to note that Hume’s Principle was powerful enough for the derivation of the Dedekind/Peano axioms. Though Wright (1983) actually carried out most of the derivation, Heck (1993) showed that although Frege did use Basic Law V to derive Hume’s principle, his (Frege’s) subsequent derivations of the Dedekind/Peano axioms of number theory from Hume’s Principle never made an *essential* appeal to Basic Law V. Since Hume’s Principle can be consistently added to second-order logic, we may conclude that Frege himself validly derived the basic laws of number theory. It will be the task of the next few sections to explain Frege’s accomplishments in this regard. We will do this in two stages. In §3 we study Frege’s attempt to derive Hume’s Principle from Basic Law V by analyzing cardinal numbers as extensions. Then, we put this aside in §4 and §5 to examine how Frege was able to derive the Dedekind/Peano axioms of number theory from Hume’s Principle alone.
 
 ## 3. Frege’s Analysis of Cardinal Numbers
 
-Cardinal numbers are the numbers that can be used to answer the question ‘How many … are there?’, and Frege discovered that such numbers bear an interesting relationship to the natural numbers. Frege’s insights concerning this relationship trace back to his work in **Gl**, in which the notion of an extension played very little role. The seminal idea of **Gl** §46 was the observation that a statement of number (e.g., “There are eight planets”) is an assertion about a concept. To explain this idea, Frege noted that one and the same external phenomenon can be counted in different ways; for example, a certain external phenomenon could be counted as 1 army, 5 divisions, 25 regiments, 200 companies, 600 platoons, or 24,000 people. Each way of counting the external phenomenon corresponds to a manner of its conception. The question “How many are there?” is only properly formulated as the question “How many Fs are there?” where a concept F is supplied. On Frege’s view, the statements of number which answer such questions (e.g., “There are n Fs”) tell us something about the concept involved. For example, the statement “There are eight planets in the solar system” tells us that the ordinary concept _planet in the solar system_ falls under the _second-level_ numerical concept _being exemplified by eight objects_.
+Cardinal numbers are the numbers that can be used to answer the question ‘How many … are there?’, and Frege discovered that such numbers bear an interesting relationship to the natural numbers. Frege’s insights concerning this relationship trace back to his work in **Gl**, in which the notion of an extension played very little role. The seminal idea of **Gl** §46 was the observation that a statement of number (e.g., “There are eight planets”) is an assertion about a concept. To explain this idea, Frege noted that one and the same external phenomenon can be counted in different ways; for example, a certain external phenomenon could be counted as 1 army, 5 divisions, 25 regiments, 200 companies, 600 platoons, or 24,000 people. Each way of counting the external phenomenon corresponds to a manner of its conception. The question “How many are there?” is only properly formulated as the question “How many Fs are there?” where a concept F is supplied. On Frege’s view, the statements of number which answer such questions (e.g., “There are n Fs”) tell us something about the concept involved. For example, the statement “There are eight planets in the solar system” tells us that the ordinary concept *planet in the solar system* falls under the *second-level* numerical concept *being exemplified by eight objects*.
 
 在格里高利数学中，弗雷格随后从这一认识出发，其中将数字的陈述分析为对第一级概念的第二级数值概念的断言，以发展出关于基数和自然数的“自持”对象的描述。他引入了一个概念上的“基数运算符”，即“属于概念 F 的数”，它指代对属于 F 的对象进行编号的基数。在接下来的内容中，我们简单地称之为“Fs 的数量”，并使用简单的符号“#F”。请注意，运算符#的行为类似于ϵ运算符——当它前缀到像行星（P）这样的概念名称时，那么#P（“行星的数量”）表示一个对象；当它前缀到像 F 这样的变量时，那么#F 涵盖了对象的域（对于 F 可以作为值的每个概念，#F 相对于该概念表示一个对象）。弗雷格在格里高利数学中提供了这个运算符的隐式（即上下文）和显式定义。这两个定义都需要预先定义两个概念 F 和 G 何时是一一对应或“等势”的。等势性的概念在弗雷格定理的发展中起着重要和基础性的作用。在发展等势性的定义之后，我们讨论弗雷格对 Fs 的数量的隐式和显式定义。然而，仅需要前者来证明弗雷格的定理。
 
@@ -608,7 +606,7 @@ Nx = 定义为 Precedes+(0,x)
 
 似乎弗雷格从未在 Gl 中明确指出这个事实，也没有将这个事实标记为 Gg I 中的一个编号定理。
 
-### 5.2 零不是任何自然数的后继。
+### 5.2 零不是任何自然数的后继
 
 这也是前述的一个简单推论，即 0 不会跟在任何自然数之后。可以用以下形式正式表示：
 
@@ -618,7 +616,7 @@ Nx = 定义为 Precedes+(0,x)
 
 参见 Gl，§78，项目（6）；以及 Gg I，§109，定理 126。
 
-### 5.3 没有两个自然数有相同的后继。
+### 5.3 没有两个自然数有相同的后继
 
 证明没有两个自然数有相同的后继者是相对困难的（参见 Gl，§78，项目（5）；Gg I，§95，定理 89）。我们可以将这个定理表述如下，其中 m、n 和 o 是限定变量，范围是自然数：
 
@@ -935,89 +933,89 @@ Z 的子集（分离）公理： ∀x\[集合(x)→∃y\[集合(y)&∀z(z∈y≡
 
 #### Cited Works by Frege
 
-* 1879, _Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle a. S.: Louis Nebert; translation by S. Bauer Mengelberg as _Concept Notation: A formula language of pure thought, modelled upon that of arithmetic_, in J. van Heijenoort, _From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press
-* 1884, _Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl_, Breslau: w. Koebner; translated by J. L. Austin as _The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number_, Oxford: Blackwell, second revised edition, 1953.
-* 1892, “Über Begriff und Gegenstand”, in _Vierteljahresschrift für wissenschaftliche Philosophie_, 16: 192–205; translated as ‘Concept and Object,’ by P. Geach in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
-* 1893/1903, _Grundgesetze der Arithmetik_, Band I/II, Jena: Verlag Herman Pohle; translation by P. Ebert and M. Rossberg (with C. Wright) as _Basic Laws of Arithmetic_: _Derived using concept-script_, Oxford: Oxford University Press, 2013; partial translation of Volume I by M. Furth as _The Basic Laws of Arithmetic_, Berkeley: U. California Press, 1964.
-* 1953, _The Foundations of Arithmetic_, J. L. Austin (trans.), Oxford: Basil Blackwell, 2nd revised edition.
-* 1967, _The Basic Laws of Arithmetic_, M. Furth (trans.), Berkeley: University of California.
-* 1980, _Philosophical and Mathematical Correspondence_, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds. of the German edition), abridged from the German edition by Brian McGuinness, translated by Hans Kaal, Chicago: University of Chicago Press.
+* 1879, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; translation by S. Bauer Mengelberg as *Concept Notation: A formula language of pure thought, modelled upon that of arithmetic*, in J. van Heijenoort, *From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press
+* 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: w. Koebner; translated by J. L. Austin as *The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number*, Oxford: Blackwell, second revised edition, 1953.
+* 1892, “Über Begriff und Gegenstand”, in *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205; translated as ‘Concept and Object,’ by P. Geach in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
+* 1893/1903, *Grundgesetze der Arithmetik*, Band I/II, Jena: Verlag Herman Pohle; translation by P. Ebert and M. Rossberg (with C. Wright) as *Basic Laws of Arithmetic*: *Derived using concept-script*, Oxford: Oxford University Press, 2013; partial translation of Volume I by M. Furth as *The Basic Laws of Arithmetic*, Berkeley: U. California Press, 1964.
+* 1953, *The Foundations of Arithmetic*, J. L. Austin (trans.), Oxford: Basil Blackwell, 2nd revised edition.
+* 1967, *The Basic Laws of Arithmetic*, M. Furth (trans.), Berkeley: University of California.
+* 1980, *Philosophical and Mathematical Correspondence*, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds. of the German edition), abridged from the German edition by Brian McGuinness, translated by Hans Kaal, Chicago: University of Chicago Press.
 
 #### Cited Primary Works by Others
 
-* Dedekind, R., 1888, _Was sind und was sollen die Zahlen_, Braunschweig: Vieweg und Sohn; 2nd edition, 1893; 7th edition, 1939; translated as “The Nature and Meaning of Numbers”, in W.W. Beman (ed. and trans.), _Essays on the Theory of Numbers_, Chicago: Open Court, 1901; reprinted, New York: Dover, 1963; also translated as “What Are Numbers and What Should They Be?”, H. Pogorzelski, W. Ryan & W. Snyder (eds. and trans.), Orono, ME: Research Institute for Mathematics, 1995.
-* Hilbert, D., 1899, “Grundlagen der Geometrie”, in _Festschrift zur Feier der Enthüllung des Gauss-Weber Denkmals in Göttingen_, Leipzig: Teubner; translated as _Foundations of Geometry_, Leo Unger (trans.), La Salle: Open Court, 1971 (ninth printing, 1997).
-* Pasch, M., 1882, _Vorlesungen über neuere Geometrie_, Leipzig: Teubner.
-* Peano, G., 1889a, _Arithmetices Principia: Nova Methodo Exposita_, Turin: Fratelli Bocca; translated as “The Principles of Arithmetic, Presented by a New Method”, in Jean van Heijenoort (ed.), _From Frege to Gödel: A Source Book in Mathematical Logic, 1879--1931_, Cambridge, MA: Harvard University Press, 1967, 83–97.
-* Peano, G., 1889b, _I principii di geometria logicamente esposti_, Turin: Fratelli Bocca.
-* Pieri, M., 1898, “I principii della geometria di posizione composti in sistema logico deduttivo”, _Memorie della Reale Accademia delle Scienze di Torino_ (Series 2), 48: 1–62.
-* Whitehead, A.N., and B. Russell, 1910--1913, _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press; 2nd edition, Cambridge: Cambridge University Press, 1925--1927.
+* Dedekind, R., 1888, *Was sind und was sollen die Zahlen*, Braunschweig: Vieweg und Sohn; 2nd edition, 1893; 7th edition, 1939; translated as “The Nature and Meaning of Numbers”, in W.W. Beman (ed. and trans.), *Essays on the Theory of Numbers*, Chicago: Open Court, 1901; reprinted, New York: Dover, 1963; also translated as “What Are Numbers and What Should They Be?”, H. Pogorzelski, W. Ryan & W. Snyder (eds. and trans.), Orono, ME: Research Institute for Mathematics, 1995.
+* Hilbert, D., 1899, “Grundlagen der Geometrie”, in *Festschrift zur Feier der Enthüllung des Gauss-Weber Denkmals in Göttingen*, Leipzig: Teubner; translated as *Foundations of Geometry*, Leo Unger (trans.), La Salle: Open Court, 1971 (ninth printing, 1997).
+* Pasch, M., 1882, *Vorlesungen über neuere Geometrie*, Leipzig: Teubner.
+* Peano, G., 1889a, *Arithmetices Principia: Nova Methodo Exposita*, Turin: Fratelli Bocca; translated as “The Principles of Arithmetic, Presented by a New Method”, in Jean van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879--1931*, Cambridge, MA: Harvard University Press, 1967, 83–97.
+* Peano, G., 1889b, *I principii di geometria logicamente esposti*, Turin: Fratelli Bocca.
+* Pieri, M., 1898, “I principii della geometria di posizione composti in sistema logico deduttivo”, *Memorie della Reale Accademia delle Scienze di Torino* (Series 2), 48: 1–62.
+* Whitehead, A.N., and B. Russell, 1910--1913, *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edition, Cambridge: Cambridge University Press, 1925--1927.
 
 ### Secondary Literature
 
-* Anderson, D., and Zalta, E., 2004, “Frege, Boolos, and Logical Objects”, _J. Philosophical Logic_, 33 (1): 1–26.
-* Antonelli, A., and May, R., 2005, “Frege’s Other Program”, _Notre Dame Journal of Formal Logic_, 46 (1): 1–17. \[[Available online in PDF](http://projecteuclid.org/Dienst/Repository/1.0/Disseminate/euclid.ndjfl/1107220671/body/pdf).]
-* Beaney, M., 1997, _The Frege Reader_, Oxford: Blackwell.
-* Bell, J. L., 1995, “Type-Reducing Correspondences and Well-Orderings: Frege’s and Zermelo’s Construction Re-examined”, _Journal of Symbolic Logic_, 60: 209–221.
-* –––, 1999, “Frege’s Theorem in a Constructive Setting”, _Journal of Symbolic Logic_, 64 (2): 486–488.
-* –––, 1994, “Fregean Extensions of First-Order Theories”, _Mathematical Logic Quarterly_, 40: 27–30; reprinted in Demopoulos 1995, 432–437.
-* Boolos, G., 1985, “Reading the _Begriffsschrift_”, _Mind_, 94: 331–344; reprinted in Boolos (1998): 155–170. \[Page references are to the reprint.]
-* –––, 1986/87, “Saving Frege From Contradiction”, in _Proceedings of the Aristotelian Society_, 87(1): 137–151; reprinted in Boolos (1998): 171–182. \[Page references are to the original.]
-* –––, 1987, “The Consistency of Frege’s _Foundations of Arithmetic_”, in _On Being and Saying_, J. J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 3–20; reprinted in Boolos (1998): 183–201. \[Page references are to the original.]
-* –––, 1990, “The Standard of Equality of Numbers”, in _Meaning and Method: Essays in Honor of Hilary Putnam_, G. Boolos (ed.), Cambridge: Cambridge University Press, pp. 261–277; reprinted in Boolos (1998): 202–219. \[Page references are to the original.]
-* –––, 1993, “Whence the Contradiction?”, in _Aristotelian Society Supplementary Volume_, 67: 213–233; reprinted in Boolos (1998): 220–236.
-* –––, 1994, “The Advantages of Honest Toil Over Theft”, in _Mathematics and Mind_, Alexander George (ed.), Oxford: Oxford University Press, 27–44; reprinted in Boolos (1998): 255–274.
+* Anderson, D., and Zalta, E., 2004, “Frege, Boolos, and Logical Objects”, *J. Philosophical Logic*, 33 (1): 1–26.
+* Antonelli, A., and May, R., 2005, “Frege’s Other Program”, *Notre Dame Journal of Formal Logic*, 46 (1): 1–17. \[[Available online in PDF](http://projecteuclid.org/Dienst/Repository/1.0/Disseminate/euclid.ndjfl/1107220671/body/pdf).]
+* Beaney, M., 1997, *The Frege Reader*, Oxford: Blackwell.
+* Bell, J. L., 1995, “Type-Reducing Correspondences and Well-Orderings: Frege’s and Zermelo’s Construction Re-examined”, *Journal of Symbolic Logic*, 60: 209–221.
+* –––, 1999, “Frege’s Theorem in a Constructive Setting”, *Journal of Symbolic Logic*, 64 (2): 486–488.
+* –––, 1994, “Fregean Extensions of First-Order Theories”, *Mathematical Logic Quarterly*, 40: 27–30; reprinted in Demopoulos 1995, 432–437.
+* Boolos, G., 1985, “Reading the *Begriffsschrift*”, *Mind*, 94: 331–344; reprinted in Boolos (1998): 155–170. \[Page references are to the reprint.]
+* –––, 1986/87, “Saving Frege From Contradiction”, in *Proceedings of the Aristotelian Society*, 87(1): 137–151; reprinted in Boolos (1998): 171–182. \[Page references are to the original.]
+* –––, 1987, “The Consistency of Frege’s *Foundations of Arithmetic*”, in *On Being and Saying*, J. J. Thomson (ed.), Cambridge, MA: MIT Press, pp. 3–20; reprinted in Boolos (1998): 183–201. \[Page references are to the original.]
+* –––, 1990, “The Standard of Equality of Numbers”, in *Meaning and Method: Essays in Honor of Hilary Putnam*, G. Boolos (ed.), Cambridge: Cambridge University Press, pp. 261–277; reprinted in Boolos (1998): 202–219. \[Page references are to the original.]
+* –––, 1993, “Whence the Contradiction?”, in *Aristotelian Society Supplementary Volume*, 67: 213–233; reprinted in Boolos (1998): 220–236.
+* –––, 1994, “The Advantages of Honest Toil Over Theft”, in *Mathematics and Mind*, Alexander George (ed.), Oxford: Oxford University Press, 27–44; reprinted in Boolos (1998): 255–274.
 * –––, 1997, “Is Hume’s Principle Analytic?”, in Heck (ed.) 1997, 245–262; reprinted in Boolos (1998): 301–314. \[Page references are to the reprint.]
-* –––, 1998, _Logic, Logic, and Logic_, J. Burgess and R. Jeffrey (eds.), Cambridge, MA: Harvard University Press.
-* Burgess, J., 1984, “Review of Wright (1983)”, _The Philosophical Review_, 93: 638–40.
-* –––, 1998, “On a Consistent Subsystem of Frege’s _Grundgesetze_”, _Notre Dame Journal of Formal Logic_, 39: 274–278.
-* –––, 2005, _Fixing Frege_, Princeton: Princeton University Press.
-* Demopoulos, W., 1998, “The Philosophical Basis of Our Knowledge of Number”, _Noûs_, 32: 481–503.
-* Demopoulos, W., (ed.), 1995, _Frege’s Philosophy of Mathematics_, Cambridge: Harvard University Press.
-* Demopoulos, W., and Clark, P., 2005, “The Logicism of Frege, Dedekind and Russell”, in _Oxford Handbook of Philosophy of Mathematics and Logic_, S. Shapiro (ed.), Oxford: Oxford University Press, 129–165.
-* Dummett, M., 1991, _Frege: Philosophy of Mathematics_, Cambridge: Harvard University Press.
+* –––, 1998, *Logic, Logic, and Logic*, J. Burgess and R. Jeffrey (eds.), Cambridge, MA: Harvard University Press.
+* Burgess, J., 1984, “Review of Wright (1983)”, *The Philosophical Review*, 93: 638–40.
+* –––, 1998, “On a Consistent Subsystem of Frege’s *Grundgesetze*”, *Notre Dame Journal of Formal Logic*, 39: 274–278.
+* –––, 2005, *Fixing Frege*, Princeton: Princeton University Press.
+* Demopoulos, W., 1998, “The Philosophical Basis of Our Knowledge of Number”, *Noûs*, 32: 481–503.
+* Demopoulos, W., (ed.), 1995, *Frege’s Philosophy of Mathematics*, Cambridge: Harvard University Press.
+* Demopoulos, W., and Clark, P., 2005, “The Logicism of Frege, Dedekind and Russell”, in *Oxford Handbook of Philosophy of Mathematics and Logic*, S. Shapiro (ed.), Oxford: Oxford University Press, 129–165.
+* Dummett, M., 1991, *Frege: Philosophy of Mathematics*, Cambridge: Harvard University Press.
 * –––, 1997, “Neo-Fregeans: In Bad Company?”, in Schirn (1997).
-* Ferreira, F., 2005, “Amending Frege’s _Grundgesetze der Arithmetik_”, _Synthese_, 147: 3–19.
-* Ferreira, F., and K. Wehmeier, 2002, “On the Consistency of the Δ11-CA Fragment of Frege’s _Grundgesetze_”, _Journal of Philosophical Logic_, 31: 303–311.
-* Field, H., 1984, “Critical Notice of Crispin Wright: _Frege’s Conception of Numbers as Objects_”, _Canadian Journal of Philosophy_, 14: 637–632; reprinted under the title “Platonism for Cheap? Crispin Wright on Frege’s Context Principle” in H. Field, _Realism, Mathematics, and Modality_, Oxford: Blackwell, 1989, pp. 147–170.
-* Fine, K., 2002, _The Limits of Abstraction_, Oxford: Clarendon Press.
-* Furth, M., 1967, “Editor’s Introduction”, in G. Frege, _The Basic Laws of Arithmetic_, M. Furth (translator and editor), Berkeley: University of California Press, pp. v–lvii.
-* Geach, P., 1976, “Critical Notice”, _Mind_, 85 (339): 436–449.
-* –––, 1955, “Class and Concept”, _Philosophical Review_, 64: 561–570.
-* Goldfarb, W., 2001, “First-Order Frege Theory is Undecidable”, _Journal of Philosophical Logic_, 30: 613–616.
-* Hale, B., 1994, “Dummett’s Critique of Wright’s Attempt to Resuscitate Frege”, _Philosophia Mathematica_, (Series III), 2: 122–147.
-* Hazen, A., 1985, “Review of Crispin Wright’s _Frege’s Conception of Numbers as Objects_”, _Australasian Journal of Philosophy_, 63 (2): 251–254.
-* Heck, Jr., R., 2012, _Reading Frege’s_ Grundgesetze, Oxford: Clarendon Press.
-* –––, 2011, _Frege’s Theorem_, Oxford: Clarendon Press.
-* –––, 1999, “Grundgesetze der Arithmetik I, §10”, _Philosophia Mathematica_, 7: 258–292.
+* Ferreira, F., 2005, “Amending Frege’s *Grundgesetze der Arithmetik*”, *Synthese*, 147: 3–19.
+* Ferreira, F., and K. Wehmeier, 2002, “On the Consistency of the Δ11-CA Fragment of Frege’s *Grundgesetze*”, *Journal of Philosophical Logic*, 31: 303–311.
+* Field, H., 1984, “Critical Notice of Crispin Wright: *Frege’s Conception of Numbers as Objects*”, *Canadian Journal of Philosophy*, 14: 637–632; reprinted under the title “Platonism for Cheap? Crispin Wright on Frege’s Context Principle” in H. Field, *Realism, Mathematics, and Modality*, Oxford: Blackwell, 1989, pp. 147–170.
+* Fine, K., 2002, *The Limits of Abstraction*, Oxford: Clarendon Press.
+* Furth, M., 1967, “Editor’s Introduction”, in G. Frege, *The Basic Laws of Arithmetic*, M. Furth (translator and editor), Berkeley: University of California Press, pp. v–lvii.
+* Geach, P., 1976, “Critical Notice”, *Mind*, 85 (339): 436–449.
+* –––, 1955, “Class and Concept”, *Philosophical Review*, 64: 561–570.
+* Goldfarb, W., 2001, “First-Order Frege Theory is Undecidable”, *Journal of Philosophical Logic*, 30: 613–616.
+* Hale, B., 1994, “Dummett’s Critique of Wright’s Attempt to Resuscitate Frege”, *Philosophia Mathematica*, (Series III), 2: 122–147.
+* Hazen, A., 1985, “Review of Crispin Wright’s *Frege’s Conception of Numbers as Objects*”, *Australasian Journal of Philosophy*, 63 (2): 251–254.
+* Heck, Jr., R., 2012, *Reading Frege’s* Grundgesetze, Oxford: Clarendon Press.
+* –––, 2011, *Frege’s Theorem*, Oxford: Clarendon Press.
+* –––, 1999, “Grundgesetze der Arithmetik I, §10”, *Philosophia Mathematica*, 7: 258–292.
 * –––, 1997, “The Julius Caesar Objection”, in Heck (ed.) 1997, 273–308.
-* –––, 1996, “The Consistency of Predicative Fragments of Frege’s _Grundgesetze der Arithmetik_”, _History and Philosophy of Logic_, 17: 209–220.
-* –––, 1993, “The Development of Arithmetic in Frege’s _Grundgesetze der Arithmetik_”, _Journal of Symbolic Logic_, 58 (2): 579–600; reprinted in Demopoulos (1995).
-* Heck, R. (ed.), 1997, _Language, Thought, and Logic: Essays in Honour of Michael Dummett_, Oxford: Oxford University Press, 1997.
-* Hodes, H., 1984, “Logicism and the Ontological Commitments of Arithmetic,” _Journal of Philosophy_, 81 (3): 123–149.
-* Linnebo, Ø., 2004, “Predicative Fragments of Frege Arithmetic”, _The Bulletin of Symbolic Logic_, 10 (2): 153–174.
-* MacBride, F., 2003, “Speaking with Shadows: A Study of Neo-Logicism”, _British Journal for the Philosophy of Science_, 54: 103–163.
-* MacFarlane, J., 2002, “Frege, Kant, and the Logic in Logicism”, _The Philosophical Review_,111:25–65.
-* May, R., and K. Wehmeier, 2019, “The Proof of Hume’ Principle”, P. Ebert and M. Rossberg (eds.), _Essays on Frege’s_ Basic Laws of Arithmetic, Oxford: Oxford University Press, pp. 182–206.
-* Parsons, C., 1965, “Frege’s Theory of Number”, _Philosophy in America_, M. Black (ed.), Ithaca: Cornell University Press, pp. 180–203; reprinted with Postscript in Demopoulos (1995), pp. 182–210.
-* Parsons, T., 1987, “The Consistency of the First-Order Portion of Frege’s Logical System”, _Notre Dame Journal of Formal Logic_, 28: 161–68.
-* Pelletier, F.J., 2001, “Did Frege Believe Frege’s Principle”, _Journal of Logic, Language, and Information_, 10 (1): 87–114.
-* Quine, W.V.O., 1995, “On Frege’s Way Out”, in _Selected Logical Papers_ (enlarged edition), Cambridge, MA: Harvard University Press.
-* Reck, E., and Awodey, S. (trans./eds.), 2004, _Frege’s Lectures on Logic: Carnap’s Student Notes, 1910–1914_, Chicago and La Salle, IL: Open Court.
-* Resnik, M., 1980, _Frege and the Philosophy of Mathematics_, Ithaca: Cornell University Press.
-* Rosen, G., 1993, “The Refutation of Nominalism(?)”, _Philosophical Topics_, 21 (2): 149–186
-* Ruffino, M., 2003, “Why Frege Would Not Be A Neo-Fregean”, _Mind_, 112 (445): 51–78.
-* Schirn, M., (ed.), 1997, _Philosophy of Mathematics Today_, Oxford: Oxford University Press.
-* Schroeder-Heister, P., 1987, “A model-theoretic reconstruction of Frege’s Permutation Argument”, _Notre Dame Journal of Formal Logic_, 28 (1): 69–79.
-* Sullivan, P. and Potter, M., 1997, “Hale on Caesar”, _Philosophia Mathematica_ (Series III), 5: 135–152.
-* Tabata, H., 2000, “Frege’s Theorem and His Logicism”, _History and Philosophy of Logic_, 21 (4): 265–295.
-* Tennant, N., 2004, “A General Theory of Abstraction Operators”, _The Philosophical Quarterly_, 54(214): 105–133.
-* van Heijenoort, J., 1967, ed., _From Frege to Gödel: A Sourcebook in Mathematical Logic_, Cambridge: Harvard University Press.
-* Wehmeier, K., 1999, “Consistent Fragments of _Grundgesetze_ and the Existence of Non-Logical Objects”, _Synthese_, 121: 309–328.
-* Wright, C., 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
+* –––, 1996, “The Consistency of Predicative Fragments of Frege’s *Grundgesetze der Arithmetik*”, *History and Philosophy of Logic*, 17: 209–220.
+* –––, 1993, “The Development of Arithmetic in Frege’s *Grundgesetze der Arithmetik*”, *Journal of Symbolic Logic*, 58 (2): 579–600; reprinted in Demopoulos (1995).
+* Heck, R. (ed.), 1997, *Language, Thought, and Logic: Essays in Honour of Michael Dummett*, Oxford: Oxford University Press, 1997.
+* Hodes, H., 1984, “Logicism and the Ontological Commitments of Arithmetic,” *Journal of Philosophy*, 81 (3): 123–149.
+* Linnebo, Ø., 2004, “Predicative Fragments of Frege Arithmetic”, *The Bulletin of Symbolic Logic*, 10 (2): 153–174.
+* MacBride, F., 2003, “Speaking with Shadows: A Study of Neo-Logicism”, *British Journal for the Philosophy of Science*, 54: 103–163.
+* MacFarlane, J., 2002, “Frege, Kant, and the Logic in Logicism”, *The Philosophical Review*,111:25–65.
+* May, R., and K. Wehmeier, 2019, “The Proof of Hume’ Principle”, P. Ebert and M. Rossberg (eds.), *Essays on Frege’s* Basic Laws of Arithmetic, Oxford: Oxford University Press, pp. 182–206.
+* Parsons, C., 1965, “Frege’s Theory of Number”, *Philosophy in America*, M. Black (ed.), Ithaca: Cornell University Press, pp. 180–203; reprinted with Postscript in Demopoulos (1995), pp. 182–210.
+* Parsons, T., 1987, “The Consistency of the First-Order Portion of Frege’s Logical System”, *Notre Dame Journal of Formal Logic*, 28: 161–68.
+* Pelletier, F.J., 2001, “Did Frege Believe Frege’s Principle”, *Journal of Logic, Language, and Information*, 10 (1): 87–114.
+* Quine, W.V.O., 1995, “On Frege’s Way Out”, in *Selected Logical Papers* (enlarged edition), Cambridge, MA: Harvard University Press.
+* Reck, E., and Awodey, S. (trans./eds.), 2004, *Frege’s Lectures on Logic: Carnap’s Student Notes, 1910–1914*, Chicago and La Salle, IL: Open Court.
+* Resnik, M., 1980, *Frege and the Philosophy of Mathematics*, Ithaca: Cornell University Press.
+* Rosen, G., 1993, “The Refutation of Nominalism(?)”, *Philosophical Topics*, 21 (2): 149–186
+* Ruffino, M., 2003, “Why Frege Would Not Be A Neo-Fregean”, *Mind*, 112 (445): 51–78.
+* Schirn, M., (ed.), 1997, *Philosophy of Mathematics Today*, Oxford: Oxford University Press.
+* Schroeder-Heister, P., 1987, “A model-theoretic reconstruction of Frege’s Permutation Argument”, *Notre Dame Journal of Formal Logic*, 28 (1): 69–79.
+* Sullivan, P. and Potter, M., 1997, “Hale on Caesar”, *Philosophia Mathematica* (Series III), 5: 135–152.
+* Tabata, H., 2000, “Frege’s Theorem and His Logicism”, *History and Philosophy of Logic*, 21 (4): 265–295.
+* Tennant, N., 2004, “A General Theory of Abstraction Operators”, *The Philosophical Quarterly*, 54(214): 105–133.
+* van Heijenoort, J., 1967, ed., *From Frege to Gödel: A Sourcebook in Mathematical Logic*, Cambridge: Harvard University Press.
+* Wehmeier, K., 1999, “Consistent Fragments of *Grundgesetze* and the Existence of Non-Logical Objects”, *Synthese*, 121: 309–328.
+* Wright, C., 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
 * –––, 1997a, “Response to Dummett”, in Schirn (1997).
 * –––, 1997b, “On the Philosophical Significance of Frege’s Theorem”, in Heck (ed.) 1997, 201–244.
-* Zalta, E., 1999, “Natural Numbers and Natural Cardinals as Abstract Objects: A Partial Reconstruction of Frege’s _Grundgesetze_ in Object Theory”, _Journal of Philosophical Logic_, 28 (6): 619–660.
+* Zalta, E., 1999, “Natural Numbers and Natural Cardinals as Abstract Objects: A Partial Reconstruction of Frege’s *Grundgesetze* in Object Theory”, *Journal of Philosophical Logic*, 28 (6): 619–660.
 
 ## Academic Tools
 
@@ -1034,11 +1032,11 @@ Z 的子集（分离）公理： ∀x\[集合(x)→∃y\[集合(y)&∀z(z∈y≡
 
 ## Related Entries
 
-[Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: logic](https://plato.stanford.edu/entries/frege-logic/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/)
+[Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: logic](https://plato.stanford.edu/entries/frege-logic/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/)
 
 ### Acknowledgments
 
 I was motivated to write the present entry after reading an early draft of an essay by William Demopoulos. (The draft was eventually published as Demopoulos and Clark 2005.) Demopoulos kindly allowed me to quote certain passages from that early draft in the footnotes to the present entry. I am also indebted to Roberto Torretti, who carefully read this piece and identified numerous infelicities; to Franz Fritsche, who noticed a quantifier transposition error in Fact 2 about the strong ancestral; to Seyed N. Mousavian, who noticed some typographical errors in some formulas; to Xu Mingming, who noticed that Fact 8 about the Weak Ancestral (Section 4, subsection “The Weak Ancestral of R”) was missing an important condition (namely, that R must be 1–1); to Evgeni Latinov, who noted that the discussion in Section 2.7 (of how the Russell paradox is engendered in Frege’s system) also requires that the material equivalence of F and G be a sufficient for the identity of F and G; and to Paul Pietroski, who noticed an infelicity in the first statement of the principle of induction in Section 4. I am indebted to Kai Wehmeier, who (a) reminded me that, strictly speaking, the result of replacing Basic Law V by Hume’s Principle in Frege’s system does not result in a subsystem of the original until we replace the primitive notion “the course of values of the function f” with the primitive notion “the number of Fs”, and (b) refereed the July 2013 update to this entry and developed numerous, insightful suggestions for improvement. Finally, I am indebted to Jerzy Hanusek for pointing out that Existence of Extensions principle can be derived more simply in Frege’s system directly from the classical logic of identity, and to Rowena Conway for noticing some unnoticed corruption caused by our new MathJax rendering of the formulas.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[_zalta@stanford.edu_](mailto:zalta%40stanford%2eedu)>
+[Edward N. Zalta](http://mally.stanford.edu/zalta.html) <[*zalta@stanford.edu*](mailto:zalta%40stanford%2eedu)>

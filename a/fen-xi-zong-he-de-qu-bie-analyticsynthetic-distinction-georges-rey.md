@@ -1,9 +1,8 @@
 # 分析/综合的区别 analytic/synthetic distinction (Georges Rey)
 
-_首次发布于 2003 年 8 月 14 日；实质性修订于 2022 年 3 月 30 日_
+*首次发布于 2003 年 8 月 14 日；实质性修订于 2022 年 3 月 30 日*
 
 “分析性”句子，例如“儿科医生是医生”，在历史上被认为是仅凭借其词义本身就是真实的，和/或者仅凭借了解这些词义就可以知道其真实性的句子。它们与更常见的“综合性”句子形成对比，例如“儿科医生是富有的”，（知识的）真实性还取决于（对儿科医生的）世俗财富的了解。从弗雷格开始，许多哲学家希望通过对关键词的“概念分析”来显示逻辑和数学以及其他明显的_a priori_领域（例如哲学的大部分内容和科学的基础）的真理可以被证明是分析性的。然而，对于哲学上重要的术语和概念的分析，例如“物质对象”，“原因”，“自由”或“知识”，结果比哲学家预期的要困难得多，一些哲学家，特别是奎因和他的追随者，开始怀疑这种区别的现实性。这反过来又使他和其他人怀疑了一般意义上的含义和翻译的事实确定性，以及最终怀疑了心理状态的现实性和确定性。对这种怀疑产生了许多有趣的反应，包括哲学和语言学（后者将在_补充部分《分析性和乔姆斯基语言学》_ 中进行讨论）；但是，虽然心理状态的现实性可能得以保留，但尚未显示出对分析的呼吁将能够以哲学家所希望的方式来确立“分析”和_a priori_的基础。（请注意，所有脚注都是实质性的，但对于初次阅读来说并非必要，可以通过点击方括号上标来访问单独的文件。术语的提及与使用将通过引号或斜体来指示，具体取决于在上下文中哪种方式更容易阅读。）
-
 
 ***
 
@@ -15,37 +14,37 @@ I.
 
 (1)
 
-_所有专门从事儿童医学的医生都很富有。_
+*所有专门从事儿童医学的医生都很富有。*
 
 (2)
 
-_所有儿科医生都很富有。_
+*所有儿科医生都很富有。*
 
 (3)
 
-_每个跑步的人都会损害自己的身体。_
+*每个跑步的人都会损害自己的身体。*
 
 (4)
 
-_如果霍姆斯杀了赛克斯，那么华生一定已经死了。_
+*如果霍姆斯杀了赛克斯，那么华生一定已经死了。*
 
 II.
 
 (5)
 
-_所有专门从事儿童医学的医生都是医生。_
+*所有专门从事儿童医学的医生都是医生。*
 
 (6)
 
-_所有儿科医生都是医生。_
+*所有儿科医生都是医生。*
 
 (7)
 
-_每个奔跑的人都在移动。_
+*每个奔跑的人都在移动。*
 
 (8)
 
-_如果霍姆斯杀了赛克斯，那么赛克斯必须已经死了。_
+*如果霍姆斯杀了赛克斯，那么赛克斯必须已经死了。*
 
 大多数精通英语的人，只要了解所有组成单词的含义，就会发现这两组之间明显的区别：尽管他们可能会对第一组中的真实性或虚假性产生疑问，但他们很快就会发现自己无法对第二组中的内容产生怀疑。与前者不同，这些后者似乎是自动可证明的，正如许多人可能会自然而然地说的那样，“只要知道单词的含义就可以了”。确实，对其中任何一个的否认，例如，
 
@@ -53,13 +52,13 @@ III.
 
 (9)
 
-\#_并非所有的儿科医生都是医生 - 有些根本不是！_
+\#*并非所有的儿科医生都是医生 - 有些根本不是！*
 
 (10)
 
-\#_并非每个奔跑的人都在移动 - 有些完全静止不动！_
+\#*并非每个奔跑的人都在移动 - 有些完全静止不动！*
 
-在某种重要的方式上，类比与类推推理（“#”表示语义异常）似乎是#​#_无法理解_#​#的，非常类似于术语的矛盾之处。哲学家通常将第一组句子称为“综合性的”，将第二组句子称为（至少表面上）“分析性的”。（第三组的成员有时被称为“分析性错误”，尽管这个术语很少使用，“分析性”通常仅限于被认为是真实的句子。）我们可以将（5）-（10）这样的句子称为哲学家和语言学家经常引用的“分析数据”，以此来引用这种区别（但不影响这些数据是否可以以其他方式解释）。一些哲学家可能希望将所谓的“范畴错误”（参见）包括在第三组中，例如#​_数字三喜欢塔巴斯科酱_或#_星期六在床上_（参见 Ryle，1949 \[2009]），但这些在最近的讨论中并不那么突出，被视为不是语义异常，而是简单地错误和愚蠢（Quine，1960 \[2013，第 210 页]）。
+在某种重要的方式上，类比与类推推理（“#”表示语义异常）似乎是#​#*无法理解*#​#的，非常类似于术语的矛盾之处。哲学家通常将第一组句子称为“综合性的”，将第二组句子称为（至少表面上）“分析性的”。（第三组的成员有时被称为“分析性错误”，尽管这个术语很少使用，“分析性”通常仅限于被认为是真实的句子。）我们可以将（5）-（10）这样的句子称为哲学家和语言学家经常引用的“分析数据”，以此来引用这种区别（但不影响这些数据是否可以以其他方式解释）。一些哲学家可能希望将所谓的“范畴错误”（参见）包括在第三组中，例如#​_数字三喜欢塔巴斯科酱_或#*星期六在床上*（参见 Ryle，1949 \[2009]），但这些在最近的讨论中并不那么突出，被视为不是语义异常，而是简单地错误和愚蠢（Quine，1960 \[2013，第 210 页]）。
 
 许多哲学家希望逻辑、数学和许多哲学问题的表面必要性和先验性可以通过它们的分析性来解释，我们对这些问题的意义的理解解释了为什么它们似乎在“所有可能的世界”中都是真实的，并且可以独立于经验而知道如此。这种观点使他们中的许多人认为哲学在很大程度上包括对相关主张、词语和概念的“分析”，即提供了适用于词语或概念的个别必要条件和共同充分条件的条件，就像例如_是女性_和_是父母_对于_是母亲_来说，每个条件都是必要的，而共同充分条件则足够。这样的概念似乎邀请并支持（尽管我们将看到它并不蕴含）许多传统上独立于任何经验研究的哲学家们所从事的“坐在椅子上反思”的特殊方法论。
 
@@ -89,15 +88,15 @@ IV.
 
 (11)
 
-_任何一个是 Bob 的祖先的祖先的人都是 Bob 的祖先。_
+*任何一个是 Bob 的祖先的祖先的人都是 Bob 的祖先。*
 
 (12)
 
-_如果 Bob 和 Sue 结婚了，那么 Sue 也和 Bob 结婚。_
+*如果 Bob 和 Sue 结婚了，那么 Sue 也和 Bob 结婚。*
 
 (13)
 
-_如果某物是红色的，那么它是有颜色的。_
+*如果某物是红色的，那么它是有颜色的。*
 
 _祖先_的传递性或_已婚_的对称性并不明显地“包含在”相应的思想中，就像_延伸_的概念在_身体_的概念中或_单身汉_的概念中明显地“包含在”中一样。（13）似乎特别棘手：除了_有颜色的_之外，还能包括什么在分析中？概念_红色_涉及颜色-还有什么？很难看到还能“添加”什么-除了_红色_本身！
 
@@ -107,25 +106,25 @@ _祖先_的传递性或_已婚_的对称性并不明显地“包含在”相应�
 
 (14)
 
-_所有_​_**医生**_​_都_​_**专门从事儿科**_​_的_​_**医生**_​ _。_
+*所有_​***医生***​_都_​***专门从事儿科***​_的_​***医生**_​ *。*
 
 被视为（严格的）逻辑真理：无论我们在（14）中为非逻辑术语“医生”、“专攻”和“孩子”放入什么语法表达式，该句子都将保持真实。例如，将“猫”替换为“医生”，将“追逐”替换为“专攻”，将“老鼠”替换为“孩子”，我们得到：
 
 (15)
 
-_所有追逐老鼠的猫都是猫。_
+*所有追逐老鼠的猫都是猫。*
 
 （在本讨论中，“替换”一词指的是在句子中对一个假定是一对一的表达式进行统一替换。）但是，对于集合 II 中的其他内容呢？在以下句子中，将“医生”替换为“猫”，将“儿科医生”替换为“老鼠”：
 
 (16)
 
-_所有儿科医生都是医生_。
+*所有儿科医生都是医生*。
 
 我们得到：
 
 (17)
 
-_所有的老鼠都是猫_。
+*所有的老鼠都是猫*。
 
 这显然是错误的，因为许多这样的替换会使 II 的其他例子（14）和（15）成为明显的逻辑真理；它们的真实性仅取决于它们的逻辑部分的语义值。但是，“所有儿科医生都是医生”和其他例子（6）-（8）和（11）-（13）不是“形式上”的逻辑真理，仅通过句子的逻辑“形式”（或其逻辑部分的模式）来确定；它们的否定也不是“形式上”的矛盾（即，形式上的矛盾，其中“p”代表任何句子：“p 并且不是“p”是真的”）。我们如何捕捉它们呢？
 
@@ -133,7 +132,7 @@ _所有的老鼠都是猫_。
 
 (14)
 
-_所有专门从事儿童医学的医生都是医生_。
+*所有专门从事儿童医学的医生都是医生*。
 
 当然，这些关于“定义，意义”和“同义词”的概念本身需要进一步澄清，但在当时人们认为这些概念是足够明显的，直到 W.V.O. Quine（1953 \[1980a]）在很晚之后提出了严肃的问题（见下文§3.3ff）。暂且不谈这些问题，弗雷格提出了引人入胜的有趣建议，例如，他提供了“祖先”关系的著名定义，作为他对“数”的定义的基础（参见《弗雷格的定理与算术基础》），并激发了在怀特海德和罗素（1910-13）的巨著《数学原理》中追求的“逻辑主义”（或将算术归纳为逻辑）的计划，以及（早期的）路德维希·维特根斯坦（1922）的《逻辑哲学论》。
 
@@ -189,7 +188,7 @@ Frege 主要关注形式化算术，因此他以一种简洁的符号来考虑�
 
 这就是“分析悖论”，可以看作是弗雷格（Frege）自己的一个潜在问题，从他（1884）关注定义的观点转向他更具争议性的（1892a）“意义”学说，其中两个意义是不同的，当且仅当某人可以思考包含其中一个但不包含另一个的思想，就像“晨星”和“夜星”的情况一样。如果分析或定义保留了意义，那么与“晨星”和“夜星”的情况不同，每当一个人思考被定义的术语时，他就应该同时思考定义的内容。也许一个人不能在不思考比尔是鲍勃的兄弟的情况下思考比尔是鲍勃的男性兄弟。但是，弗雷格对算术概念的定义很少如此简单（参见“戈特洛布·弗雷格”，§2.5）。在这种情况下，似乎完全有可能思考被定义的术语，例如“number”，而不必思考弗雷格提供的复杂定义（参见 Bealer 1982，Michael Dummett 1991 和 John Horty 1993, 2007，对这个问题以及弗雷格对严格定义的进一步条件（例如“fecundity”）进行了广泛讨论）。
 
-这些问题到目前为止可以被视为相对技术性的问题，因此在该计划中可能会采取进一步的技术措施。例如，可以在意义理论中进一步区分表达式的“内容”和用于表达的具体“语言工具”，如 Fodor（1990a）和 Horty（1993, 2007）所述；或许还可以区分表达式的真值条件“内容”和其在语言系统中的特殊角色或“特征”，这类似于 David Kaplan（1989）引入的处理指示性和演示性表达式（如_I_，_now_和_that_）的区别（参见“Demonstratives”和“Narrow Mental Content”，以及 Stephen White，1982）。也许可以将分析视为提供了一个特定的“工具”，具有特定的“特征”，可以解释为什么可以思考某个概念而不需要思考其分析（参见 Gillian Russell 2008 和 Paul Pietroski 2002, 2005 和 2018 提出的相关建议）。
+这些问题到目前为止可以被视为相对技术性的问题，因此在该计划中可能会采取进一步的技术措施。例如，可以在意义理论中进一步区分表达式的“内容”和用于表达的具体“语言工具”，如 Fodor（1990a）和 Horty（1993, 2007）所述；或许还可以区分表达式的真值条件“内容”和其在语言系统中的特殊角色或“特征”，这类似于 David Kaplan（1989）引入的处理指示性和演示性表达式（如_I_，*now_和_that*）的区别（参见“Demonstratives”和“Narrow Mental Content”，以及 Stephen White，1982）。也许可以将分析视为提供了一个特定的“工具”，具有特定的“特征”，可以解释为什么可以思考某个概念而不需要思考其分析（参见 Gillian Russell 2008 和 Paul Pietroski 2002, 2005 和 2018 提出的相关建议）。
 
 然而，对于该计划的问题，许多哲学家认为不仅仅是技术上的问题。迄今为止，对该计划以及分析性的最有力和有影响力的批评是由奎恩提出的，他最初是该计划的坚定支持者（参见他的 1934 年），因此他随后的反对意见具有特殊的重要性。建议读者特别参考他的（1956 \[1976]，以下简称“CLT”），以获得关于这些问题的丰富而深入的讨论。接下来的两节将对其中的一些讨论进行概述。
 
@@ -329,7 +328,7 @@ Bealer（1987，1999）提出了类似的建议。事实上，Bonjour 和 Bealer
 
 的确，一些哲学家提供了一些经验证据，对分析性数据的可靠性产生了怀疑。"实验哲学"运动指出了关于思维实验的标准种类，哲学对分析性主张的辩护通常依赖于主体"直觉"的可塑性的证据。因此，Weinberg、Nichols 和 Stich（2001）发现亚洲和西方学生在关于某人是否算作在一个标准的"葛蒂尔"（1963）的意外合理真实信念的例子中具有知识的文化差异；而 Knobe（2003）发现非哲学家对于一个行为是否是有意的判断取决于行为的（特别是负面的）道德品质，而不是大多数哲学家所假设的行为是否仅仅是由代理人有意为之。当然，对这些实验结果可以提出问题（受试者对评估直觉的项目有多好理解？实验是否充分控制了民意调查程序中普遍存在的"实用"效应？目标术语在不同语境中是否仅仅是多义的——见_补充_，§3——允许在不同的上下文中有不同的用法？）然而，这些结果确实表明了意义和分析真理的确定可以被看作是一个比哲学家传统上所认为的更为困难的经验问题（有关进一步讨论，请参见 Bishop 和 Trout，2005 年，以及 Alexander 和 Weinberg，2007 年）。
 
-根据上面的§3.3C 的策略，外在主义的意义理论（或“内容”）试图通过考虑意义问题不一定依赖于_认识论_或者_任何_ _内在_思想或信念之间的联系来应对奎因的挑战的一部分。这与许多哲学家传统上所认为的方式不同，而是涉及到词语使用和它们所指的世界现象之间的主要因果和社会关系。这个建议逐渐在普特南（1962 \[1975]，1965 \[1975]和 1975），克里普基（1972 \[1980]）和伯奇（1979, 1986）的工作中出现，但它在戴维特（1981, 2015），德雷茨基（1988）和福多尔（1990b）等人的工作中形成了积极的理论，他们试图将意义建立在心灵/大脑状态和外部现象之间的各种实际或共变因果关系上（参见_指示语义学_；以及米利坎（Millikan，1984）的“目的性意义论”研究，帕皮诺（Papineau，1987）和尼安德（Neander，1995, 2017）的自然选择机制研究；参见_心理内容的目的论理论_）。
+根据上面的§3.3C 的策略，外在主义的意义理论（或“内容”）试图通过考虑意义问题不一定依赖于_认识论_或者_任何_ *内在_思想或信念之间的联系来应对奎因的挑战的一部分。这与许多哲学家传统上所认为的方式不同，而是涉及到词语使用和它们所指的世界现象之间的主要因果和社会关系。这个建议逐渐在普特南（1962 \[1975]，1965 \[1975]和 1975），克里普基（1972 \[1980]）和伯奇（1979, 1986）的工作中出现，但它在戴维特（1981, 2015），德雷茨基（1988）和福多尔（1990b）等人的工作中形成了积极的理论，他们试图将意义建立在心灵/大脑状态和外部现象之间的各种实际或共变因果关系上（参见_指示语义学*；以及米利坎（Millikan，1984）的“目的性意义论”研究，帕皮诺（Papineau，1987）和尼安德（Neander，1995, 2017）的自然选择机制研究；参见_心理内容的目的论理论_）。
 
 例如，考虑福多尔的提议。稍微简化一下，福多尔（1990b）声称
 
@@ -401,240 +400,240 @@ Fodor 的理论和相关提议并非没有问题（参见 Loewer, 1996, Rey, 200
 
 很难理解为什么会满足。对于那些担心人工品是否能够思考的人来说，真正关心的问题是这些人工品是否能够实际上共享思考事物的真正的、理论上有趣的、解释性质（参见 Jackson 1998，第 34-35 页）。我们可能没有经验上的、科学上的理由来认为真正的、生物的“有生命性”（注意，不仅仅是可能纯粹的句法、语言特征\[+有生命]！；参见_补充_§2）实际上是其中之一。因此，我们可能会得出结论，尽管自然语言有这些所谓的限制，无生命的计算机仍然可以“思考”。实际上，也许，思考的事物必须是活着的这一主张是一个既是分析性的又是错误的例子，就像相信猫是动物一样，如果事实证明这些东西实际上是来自火星的机器人；因此，我们应该追求多义性和“开放纹理”的选择，这也是乔姆斯基所支持的，并且继续允许人工品能够思考。
 
-当然，演讲者可以选择不这样做，也就是说，不打开这个纹理。但是，如果解释点仍然正确，其他演讲者当然可以简单地定义一个新词“think _”，它不受生命活动的限制，并适用于实际上包括人类和适当编程的工件在内的解释类型。问题将仅仅降为一个词语争辩：计算机不“think”；它们改为“think_”。事实上，整个分析讨论的一个奇特特点是，它似乎可以转变为最终可能只是词语争辩。也许我们在§§1.2-3.3 中勾勒出的哲学“语言学转向”走进了死胡同，更有成果的方式是尽可能地探索我们的思维或世界中可能存在的概念和/或解释联系，这些联系在很大程度上独立于语言。
+当然，演讲者可以选择不这样做，也就是说，不打开这个纹理。但是，如果解释点仍然正确，其他演讲者当然可以简单地定义一个新词“think *”，它不受生命活动的限制，并适用于实际上包括人类和适当编程的工件在内的解释类型。问题将仅仅降为一个词语争辩：计算机不“think”；它们改为“think*”。事实上，整个分析讨论的一个奇特特点是，它似乎可以转变为最终可能只是词语争辩。也许我们在§§1.2-3.3 中勾勒出的哲学“语言学转向”走进了死胡同，更有成果的方式是尽可能地探索我们的思维或世界中可能存在的概念和/或解释联系，这些联系在很大程度上独立于语言。
 
 无论如何，虽然语言的语义条件可能为确保关于依赖于心灵的领域（例如伦理学和美学）的_a priori_知识提供基础，但在独立于心灵的领域（例如逻辑和数学，或生命或思维等世界现象的性质）的情况下，前景似乎更加棘手。在这里可能有分析性的主张，但至少在这些情况下，用普特南（Putnam）（1965 \[1975]，第 36 页）不朽的话来说，“对哲学毫无意义……不烤哲学面包，不洗哲学窗户。”\[[18](https://plato.stanford.edu/entries/analytic-synthetic/notes.html#note-18)]我们只能满足于对独立于心灵的领域本身进行理论化，而不能仅凭我们的词语的意义来证明我们对它们的主张。回顾过去一个世纪在分析领域所做努力的困难，不清楚为什么有人真的想要坚持相反的观点。
 
 ## Bibliography
 
-* Alexander, J. and Weinberg, J., 2007, “Analytic Epistemology and Experimental Philosophy,” _Philosophical Compass_, 2(1): 56–80.
-* Allott, N. and Shaer, B., 2013, “Some Linguistic Properties of Legal Notices,” _Canadian Journal of Linguistics, 58_(1), 43–62.
-* Allott, N. and Textor, M., 2017, “Lexical Modulation without Concepts,” _Dialectica_, 71(3): 399–424. doi:10.1111/1746-8361.12190
-* Alston, W., 1955, “Pragmatism and the Verifiability Theory of Meaning,” _Philosophical Studies_, 6(5): 65–71
-* Ayer, A.J., 1934 \[1952], _Language, Truth and Logic_, New York: Dover.
-* Bealer, G., 1982, _Quality and Concept_, Oxford: Oxford University Press.
-* –––, 1987, “The Philosophical Limits of Scientific Essentialism,” in J. Tomberlin, _Philosophical Perspectives_ (Volume I: Metaphysics), Atascadero, CA: Ridgeview Press, pp. 289–365.
-* –––, 1998, “Analyticity,”_Routledge Encyclopedia of Philosophy_, New York: Routledge. DOI: 10.4324/9780415249126-U002-1
-* –––, 1999, “A Theory of the _A Priori_,” _Philosophical Perspectives_, 13: 29–55.
-* Benacerraf, P., 1965, “What Numbers Could Not Be,” _Philosophical Review_, 74: 47–73.
-* Bishop, M. and Trout, J., 2005, _Epistemology and the Psychology of Human Judgment_, Oxford: Oxford University Press.
-* Boghossian, P., 1996, “Analyticity Reconsidered,” _Nous_ 30(3): 360–91.
-* –––, 1997, “Analyticity,” in B. Hale and C. Wright (eds.), _A Companion to the Philosophy of Language_, Oxford: Blackwell, pp. 331–68.
-* Bolzano, B., 1837 \[1972], _Wissenschaftslehre_, Sulzbach: J.E. von Seidel; partially translated in R. George (ed.), _Theory of Science_, Berkeley: University of California Press, 1972.
-* Bonjour, L., 1998, _In Defense of Pure Reason_, Cambridge: Cambridge University Press.
-* Boolos, G., 1971, “The Iterative Conception of Set,” _Journal of Philosophy_, 68: 215–32.
-* –––, 1997, “Is Hume’s Principle Analytic?”, in R. Heck (ed.), _Language, Thought and Logic_, Oxford: Oxford University Press, pp. 245–61.
-* Braddon-Mitchell, D. and Nola, R. (eds.), 2008, _Conceptual Analysis and Philosophical Naturalism_, Cambridge, MA: MIT Press.
-* Brentano, F., 1874 \[1995], _Psychology from an Empirical Standpoint_, A. C. Rancurello, D. B. Terrell, and L. McAlister (trans.), London: Routledge, 1973; 2nd edition, with an introduction by Peter Simons, 1995.
-* Brinton, L., 2000, _The Structure of Modern English_, Philadelphia: John Benjamins.
-* Bruner, J., 1957, “On Perceptual Readiness,” _Psychological Review_, 64: 123–52.
-* Burge, T., 1979, “Individualism and the Mental,” _Midwest Studies in Philosophy_, IV: 73–121.
-* –––, 1986, “Individualism and Psychology,” _Philosophical Review_, XCV(1): 3–46.
-* Carnap, R., 1928 \[1967], _The Logical Structure of the World and Pseudoproblems in Philosophy_, R. George (trans.), Berkeley: University of California Press.
-* –––, 1956a, “Meaning postulates,” Appendix B of his _Meaning and Necessity_, 2nd. ed,, Chicago: University of Chicago Press, pp. 222–29
-* –––, 1956b, “ Meaning and Synonymy in Natural Languages,” Appendix D of his _Meaning and Necessity_, 2nd ed., Chicago: University of Chicago Press, pp. 233–47.
-* Carston, R., 2002, _Thoughts and Utterances: the Pragmatics of Speech Communication_, Oxford: Blackwell.
-* –––, 2012, “Word Meaning and Concept Expresses,” _The Linguistic Review_, 29(4): 607–23.
-* –––, 2016, “ Conventions and the Role of Pragmatics,” _Mind & Language_, 31(5): 612–24.
-* –––, 2021, “Polysemy, Pragmatics and Sense Conventions,” _Mind & Language_, 36(1): 108–33.
-* Chalmers, D., 2011, “Revisability and Conceptual Change, in ‘Two Dogmas of Empiricism’,” _Journal of Philosophy_, 108: 387–415.
-* –––, 2012, _Constructing the World_, New York: Oxford University Press
-* Chisholm, R., 1957, _Perceiving: A Philosophical Study_, Ithaca: Cornell University Press.
-* Chomsky, N., 1955, “Logical Syntax and Semantics: their Linguistic Relevance,” _Language_, 31: 36–45.
-* –––,1955 \[1975], _The Logical Structure of Linguistic Theory_, University of Chicago, New York: Plenum Press; the ms. was prepared and circulated in mimeograph in 1955–56, but was not published until 1975, both by Plenum press and by the University of Chicago – only the latter contains an invaluable index.
-* –––, 1957, _Syntactic Structures_, The Hague: Mouton; reprinted, 1968.
-* –––, 1959 \[1964], “Review of Skinner’s Verbal Behavior,” in Fodor, J. and Katz, J. (eds.), _The Structure of Language: Readings in the Philosophy of Language_, Englewood Cliffs: Prentice Hall, pp. 48–63.
-* –––, 1965, _Aspects of the Theory of Syntax_, Cambridge: MIT Press.
-* –––, 1968 \[2006], _Language and Mind_, 3rd edition, Cambridge: Cambridge University Press.
-* –––, 1977, _Essays on Form and Interpretation_, New York: North-Holland.
-* –––, 1980a, _Rules and Representations_, Oxford: Blackwell.
-* –––, 1980b, “Précis of Rules and Representations with Commentaries and Replies,” _Behavioral and Brain Sciences_, 3: 1–61.
-* –––, 1986, _Knowledge of Language: Its Nature, Origin and Use_, Westport, CT: Praeger.
-* –––, 2000, _New Horizons in the Study of Language_, Cambridge: Cambridge University Press.
-* Coffa, J., 1991, _The Semantic Tradition from Kant to Carnap: to the Vienna Station_, Cambridge: Cambridge University Press.
-* Corbett, G., 1991, _Gender_, Cambridge: Cambridge University Press.
-* Creath, R. 1991 (ed.), _Dear Carnap, Dear Van: the Quine-Carnap Correspondence and Related Work_, Berkeley: University of California Press.
-* Davidson, D., 1980, _Truth and Meaning_, Oxford: Oxford University Press.
-* Dennett, D., 1987, _The Intentional Stance_, Cambridge, MA: MIT Press/Bradford Books.
-* –––, 1991, _Consciousness Explained_, Boston, MA: Little Brown & Co.
-* Devitt, M., 1981, _Designation_, New York: Columbia University Press.
+* Alexander, J. and Weinberg, J., 2007, “Analytic Epistemology and Experimental Philosophy,” *Philosophical Compass*, 2(1): 56–80.
+* Allott, N. and Shaer, B., 2013, “Some Linguistic Properties of Legal Notices,” *Canadian Journal of Linguistics, 58*(1), 43–62.
+* Allott, N. and Textor, M., 2017, “Lexical Modulation without Concepts,” *Dialectica*, 71(3): 399–424. doi:10.1111/1746-8361.12190
+* Alston, W., 1955, “Pragmatism and the Verifiability Theory of Meaning,” *Philosophical Studies*, 6(5): 65–71
+* Ayer, A.J., 1934 \[1952], *Language, Truth and Logic*, New York: Dover.
+* Bealer, G., 1982, *Quality and Concept*, Oxford: Oxford University Press.
+* –––, 1987, “The Philosophical Limits of Scientific Essentialism,” in J. Tomberlin, *Philosophical Perspectives* (Volume I: Metaphysics), Atascadero, CA: Ridgeview Press, pp. 289–365.
+* –––, 1998, “Analyticity,”*Routledge Encyclopedia of Philosophy*, New York: Routledge. DOI: 10.4324/9780415249126-U002-1
+* –––, 1999, “A Theory of the *A Priori*,” *Philosophical Perspectives*, 13: 29–55.
+* Benacerraf, P., 1965, “What Numbers Could Not Be,” *Philosophical Review*, 74: 47–73.
+* Bishop, M. and Trout, J., 2005, *Epistemology and the Psychology of Human Judgment*, Oxford: Oxford University Press.
+* Boghossian, P., 1996, “Analyticity Reconsidered,” *Nous* 30(3): 360–91.
+* –––, 1997, “Analyticity,” in B. Hale and C. Wright (eds.), *A Companion to the Philosophy of Language*, Oxford: Blackwell, pp. 331–68.
+* Bolzano, B., 1837 \[1972], *Wissenschaftslehre*, Sulzbach: J.E. von Seidel; partially translated in R. George (ed.), *Theory of Science*, Berkeley: University of California Press, 1972.
+* Bonjour, L., 1998, *In Defense of Pure Reason*, Cambridge: Cambridge University Press.
+* Boolos, G., 1971, “The Iterative Conception of Set,” *Journal of Philosophy*, 68: 215–32.
+* –––, 1997, “Is Hume’s Principle Analytic?”, in R. Heck (ed.), *Language, Thought and Logic*, Oxford: Oxford University Press, pp. 245–61.
+* Braddon-Mitchell, D. and Nola, R. (eds.), 2008, *Conceptual Analysis and Philosophical Naturalism*, Cambridge, MA: MIT Press.
+* Brentano, F., 1874 \[1995], *Psychology from an Empirical Standpoint*, A. C. Rancurello, D. B. Terrell, and L. McAlister (trans.), London: Routledge, 1973; 2nd edition, with an introduction by Peter Simons, 1995.
+* Brinton, L., 2000, *The Structure of Modern English*, Philadelphia: John Benjamins.
+* Bruner, J., 1957, “On Perceptual Readiness,” *Psychological Review*, 64: 123–52.
+* Burge, T., 1979, “Individualism and the Mental,” *Midwest Studies in Philosophy*, IV: 73–121.
+* –––, 1986, “Individualism and Psychology,” *Philosophical Review*, XCV(1): 3–46.
+* Carnap, R., 1928 \[1967], *The Logical Structure of the World and Pseudoproblems in Philosophy*, R. George (trans.), Berkeley: University of California Press.
+* –––, 1956a, “Meaning postulates,” Appendix B of his *Meaning and Necessity*, 2nd. ed,, Chicago: University of Chicago Press, pp. 222–29
+* –––, 1956b, “ Meaning and Synonymy in Natural Languages,” Appendix D of his *Meaning and Necessity*, 2nd ed., Chicago: University of Chicago Press, pp. 233–47.
+* Carston, R., 2002, *Thoughts and Utterances: the Pragmatics of Speech Communication*, Oxford: Blackwell.
+* –––, 2012, “Word Meaning and Concept Expresses,” *The Linguistic Review*, 29(4): 607–23.
+* –––, 2016, “ Conventions and the Role of Pragmatics,” *Mind & Language*, 31(5): 612–24.
+* –––, 2021, “Polysemy, Pragmatics and Sense Conventions,” *Mind & Language*, 36(1): 108–33.
+* Chalmers, D., 2011, “Revisability and Conceptual Change, in ‘Two Dogmas of Empiricism’,” *Journal of Philosophy*, 108: 387–415.
+* –––, 2012, *Constructing the World*, New York: Oxford University Press
+* Chisholm, R., 1957, *Perceiving: A Philosophical Study*, Ithaca: Cornell University Press.
+* Chomsky, N., 1955, “Logical Syntax and Semantics: their Linguistic Relevance,” *Language*, 31: 36–45.
+* –––,1955 \[1975], *The Logical Structure of Linguistic Theory*, University of Chicago, New York: Plenum Press; the ms. was prepared and circulated in mimeograph in 1955–56, but was not published until 1975, both by Plenum press and by the University of Chicago – only the latter contains an invaluable index.
+* –––, 1957, *Syntactic Structures*, The Hague: Mouton; reprinted, 1968.
+* –––, 1959 \[1964], “Review of Skinner’s Verbal Behavior,” in Fodor, J. and Katz, J. (eds.), *The Structure of Language: Readings in the Philosophy of Language*, Englewood Cliffs: Prentice Hall, pp. 48–63.
+* –––, 1965, *Aspects of the Theory of Syntax*, Cambridge: MIT Press.
+* –––, 1968 \[2006], *Language and Mind*, 3rd edition, Cambridge: Cambridge University Press.
+* –––, 1977, *Essays on Form and Interpretation*, New York: North-Holland.
+* –––, 1980a, *Rules and Representations*, Oxford: Blackwell.
+* –––, 1980b, “Précis of Rules and Representations with Commentaries and Replies,” *Behavioral and Brain Sciences*, 3: 1–61.
+* –––, 1986, *Knowledge of Language: Its Nature, Origin and Use*, Westport, CT: Praeger.
+* –––, 2000, *New Horizons in the Study of Language*, Cambridge: Cambridge University Press.
+* Coffa, J., 1991, *The Semantic Tradition from Kant to Carnap: to the Vienna Station*, Cambridge: Cambridge University Press.
+* Corbett, G., 1991, *Gender*, Cambridge: Cambridge University Press.
+* Creath, R. 1991 (ed.), *Dear Carnap, Dear Van: the Quine-Carnap Correspondence and Related Work*, Berkeley: University of California Press.
+* Davidson, D., 1980, *Truth and Meaning*, Oxford: Oxford University Press.
+* Dennett, D., 1987, *The Intentional Stance*, Cambridge, MA: MIT Press/Bradford Books.
+* –––, 1991, *Consciousness Explained*, Boston, MA: Little Brown & Co.
+* Devitt, M., 1981, *Designation*, New York: Columbia University Press.
 * –––, 1993a, “A Critique of the Case for Semantic Holism,” in Fodor and LePore (1993): 17–60.
-* –––, 1993b, “Localism and Analyticity,” _Philosophy and Phenomenological Research_, 53: 641–46
-* –––, 1996, _Coming to Our Senses_, Cambridge: Cambridge University Press.
-* –––, 2002, “Meaning and Use,” _Philosophy and Phenomenological Research_, LXV(1): 106–21.
-* –––, 2005, “There is No _A Priori_,” in _Contemporary Debates in Epistemology_, Sosa, E. and Steup, M (eds.), Cambridge, MA: Blackwell, pp. 105–15.
-* –––, 2011, “No Place for the _A Priori_,” in M. Shaffer and M. Veber (eds.), _What Place for the A Priori?_, Chicago and La Salle: Open Court, pp. 9–32.
-* –––, 2015, “Should Proper Names Still Seem So Problematic?”, in _On Reference_, Andrea Bianchi, ed. Oxford: Oxford University Press, pp. 108–43.
-* –––, 2021, _Overlooking Conventions_, New York: Springer
-* Dretske, F., 1988, _Explaining Behavior: Reasons in a World of Causes_, Cambridge, MA: MIT Press.
-* Duhem, P., 1914 \[1954], _The Aim and Structure of Physical Theory_, P. Wiener (trans.), Princeton: Princeton University Press.
-* Dummett, M., 1991, _Frege and Other Philosophers_, Oxford: Oxford University Press.
-* Ebbs, G., 2019, “Analyticity: the Carnap–Quine Debate and its Aftermath,” in K. Becker and I. Thomson (eds.), _Cambridge History of Philosophy: 1945–2015_, Cambridge: Cambridge University Press, pp. 32–49.
-* Fodor, Jerry, 1970, “Three Reasons for Not Deriving ‘Kill’ from ‘Cause to Die’,” _Linguistic Inquiry_, 1: 429–38.
-* –––, 1981, “The Present Status of the Innateness Controversy,” in his _RePresentations_, Cambridge, MA: MIT Press/Bradford Books, pp. 257–31.
-* –––, 1983, _Modularity of Mind_, Cambridge, MA: MIT Press.
-* –––, 1984, “Observation Reconsidered,” _Philosophy of Science_, 51: 23–43.
-* –––, 1987, _Psychosemantics_, Cambridge, MA: MIT Press.
+* –––, 1993b, “Localism and Analyticity,” *Philosophy and Phenomenological Research*, 53: 641–46
+* –––, 1996, *Coming to Our Senses*, Cambridge: Cambridge University Press.
+* –––, 2002, “Meaning and Use,” *Philosophy and Phenomenological Research*, LXV(1): 106–21.
+* –––, 2005, “There is No *A Priori*,” in *Contemporary Debates in Epistemology*, Sosa, E. and Steup, M (eds.), Cambridge, MA: Blackwell, pp. 105–15.
+* –––, 2011, “No Place for the *A Priori*,” in M. Shaffer and M. Veber (eds.), *What Place for the A Priori?*, Chicago and La Salle: Open Court, pp. 9–32.
+* –––, 2015, “Should Proper Names Still Seem So Problematic?”, in *On Reference*, Andrea Bianchi, ed. Oxford: Oxford University Press, pp. 108–43.
+* –––, 2021, *Overlooking Conventions*, New York: Springer
+* Dretske, F., 1988, *Explaining Behavior: Reasons in a World of Causes*, Cambridge, MA: MIT Press.
+* Duhem, P., 1914 \[1954], *The Aim and Structure of Physical Theory*, P. Wiener (trans.), Princeton: Princeton University Press.
+* Dummett, M., 1991, *Frege and Other Philosophers*, Oxford: Oxford University Press.
+* Ebbs, G., 2019, “Analyticity: the Carnap–Quine Debate and its Aftermath,” in K. Becker and I. Thomson (eds.), *Cambridge History of Philosophy: 1945–2015*, Cambridge: Cambridge University Press, pp. 32–49.
+* Fodor, Jerry, 1970, “Three Reasons for Not Deriving ‘Kill’ from ‘Cause to Die’,” *Linguistic Inquiry*, 1: 429–38.
+* –––, 1981, “The Present Status of the Innateness Controversy,” in his *RePresentations*, Cambridge, MA: MIT Press/Bradford Books, pp. 257–31.
+* –––, 1983, *Modularity of Mind*, Cambridge, MA: MIT Press.
+* –––, 1984, “Observation Reconsidered,” *Philosophy of Science*, 51: 23–43.
+* –––, 1987, *Psychosemantics*, Cambridge, MA: MIT Press.
 * –––, 1990a, “Substitution Arguments and The Individuation of Beliefs”, in Fodor (1990b): 161–76.
-* –––, 1990b, _A Theory of Content and Other Essays_, Cambridge, MA: MIT Press.
-* –––, 1998, _Concepts: Where Cognitive Science Went Wrong_, Cambridge, MA: MIT Press .
-* –––, 2000, _The Mind Doesn’t Work That Way_, Cambridge, MA: MIT Press.
-* –––, 2001, “Language, Thought and Compositionality,” _Mind and Language_, 16(1): 1–15.
-* Fodor, J.D., Fodor, J.A., and Garrett, M., 1975, “The Psychological Unreality of Semantic Representations,” _Linguistic Inquiry_, 6: 515–31.
-* Fodor, J.A. and Katz, J., 1963, “The Structure of a Semantic Theory,” _Language_, 39(2): 170–210.
-* Fodor, J. and LePore, E. (eds.), 1993, _Holism: a Consumer Update_, special issue of _Grazer Philosophische Studien_ (Volume 46), Amsterdam: Rodopi.
-* Fodor, J.A., and Lepore, E., 1998 \[2002], “The Emptiness of the Lexicon: Reflections on James Pustejovsky’s _The Generative Lexicon_,” _Linguistic Inquiry_, 29(2): 269–88; re-printed in J. Fodor and E. Lepore, _The Compositionality Papers_, Oxford: Oxford University Press, 2002, pp. 89–119.
-* Frege, G., 1884 \[1980], _The Foundations of Arithmetic_, 2nd revised edition, London: Blackwell.
-* –––, 1892a \[1966], “On Sense and Reference,” in P. Geach and M. Black (eds.), _Translations from the Works of Gottlob Frege_, Oxford: Blackwell, pp. 56–78.
-* –––, 1892b \[1966], “On Concept and Object,” in P. Geach and M. Black (eds.), _Translations from the Works of Gottlob Frege_, Oxford: Blackwell, pp. 42–55.
-* –––, 1914 \[1979], “Logic in Mathematics” (“Logik in der Mathematik”), in his _Posthumous Writings_, Hermes, et al. (eds.), Chicago: Chicago University Press, pp. 201–50.
-* –––, 1918 \[1984] “Thoughts” translated by by P. Geach and R. Stoothoff, in B. McGuinness (ed.), _Collected Papers on Mathematics, Logic, and Philosophy_, Oxford: Blackwell, pp. 351–72.
-* Friedman, M., 1999, _Reconsidering Logical Positivism_, Cambridge: Cambridge University Press.
-* Gettier, E., 1963, “Is Justified True Belief Knowledge?” _Analysis_, 23: 121–12
-* Gibbard, A., 2008, “Horwich on Meaning,” _Mind_, 117(465): 141–166.
-* Glanzberg, M., 2014, “Explanation and Partiality in Semantic Theory,” in _Metasemantics: New Essays on the Foundations of Meaning_, A. Burgess and B. Sherman (eds.), Oxford: Oxford University Press, pp. 259–92.
-* –––, 2018, “About Convention and Grammar,” in _Beyond Semantics and Pragmatics_, G. Preyer (ed.), Oxford: Oxford University Press, pp. 230–60.
-* –––, 2021, “Chomsky and Semantics,” in N. Allott, T. Lohndal, and G. Rey (eds.), _A Companion to Chomsky_, London: Wiley-Blackwell, pp. 416–32.
-* Gleitman, H, Gross, J, and Reisberg, D., 2011, _Psychology_, 8th edition, New York: Norton.
-* Glock, H., 2003, _Quine and Davidson on Language, Thought and Reality_, Cambridge: Cambridge University Press.
-* Goldman, A., 1999, “_A Priori_ Warrant and Naturalistic Epistemology,” in J. Tomberlin (ed.), _Philosophical Perspectives_ (Volume 13), Oxford: Blackwell, pp. 1–28.
-* Goodman, N., 1951 \[1977], _The Structure of Appearance_, 3rd edition, Cambridge, MA: Harvard University Press.
-* Grice, H.P., 1975, “Logic and Conversation”, in _The Logic of Grammar_, D. Davidson and G. Harman (eds.), Encino, CA: Dickenson, 64–75.
-* –––, 1989, _Studies in the Way of Words_, Cambridge, MA: Harvard University Press
-* Grice, P. and Strawson, P., 1956, “In Defense of a Dogma,” _Philosophical Review_, LXV(2): 141–58.
-* Hacker, P., 1990, _Wittgenstein: Meaning and Mind_, Oxford: Blackwell.
-* Haegeman, L., 1994, _Introduction of Government and Binding Theory_, 2nd edition, Oxford: Blackwell
-* Hale, B. and Wright, C., 2000, “Implicit Definition and the _A Priori_”, in P. Boghossian and C. Peacocke (eds.), _New Essays on the A Priori_, Oxford: Clarendon Press, pp. 286–319.
-* –––, 2015, “Bolzano’s Definition of Analytic Propositions”, in _Grazer Philosophische Studien_, 91(1): 323–64.
+* –––, 1990b, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press.
+* –––, 1998, *Concepts: Where Cognitive Science Went Wrong*, Cambridge, MA: MIT Press .
+* –––, 2000, *The Mind Doesn’t Work That Way*, Cambridge, MA: MIT Press.
+* –––, 2001, “Language, Thought and Compositionality,” *Mind and Language*, 16(1): 1–15.
+* Fodor, J.D., Fodor, J.A., and Garrett, M., 1975, “The Psychological Unreality of Semantic Representations,” *Linguistic Inquiry*, 6: 515–31.
+* Fodor, J.A. and Katz, J., 1963, “The Structure of a Semantic Theory,” *Language*, 39(2): 170–210.
+* Fodor, J. and LePore, E. (eds.), 1993, *Holism: a Consumer Update*, special issue of *Grazer Philosophische Studien* (Volume 46), Amsterdam: Rodopi.
+* Fodor, J.A., and Lepore, E., 1998 \[2002], “The Emptiness of the Lexicon: Reflections on James Pustejovsky’s *The Generative Lexicon*,” *Linguistic Inquiry*, 29(2): 269–88; re-printed in J. Fodor and E. Lepore, *The Compositionality Papers*, Oxford: Oxford University Press, 2002, pp. 89–119.
+* Frege, G., 1884 \[1980], *The Foundations of Arithmetic*, 2nd revised edition, London: Blackwell.
+* –––, 1892a \[1966], “On Sense and Reference,” in P. Geach and M. Black (eds.), *Translations from the Works of Gottlob Frege*, Oxford: Blackwell, pp. 56–78.
+* –––, 1892b \[1966], “On Concept and Object,” in P. Geach and M. Black (eds.), *Translations from the Works of Gottlob Frege*, Oxford: Blackwell, pp. 42–55.
+* –––, 1914 \[1979], “Logic in Mathematics” (“Logik in der Mathematik”), in his *Posthumous Writings*, Hermes, et al. (eds.), Chicago: Chicago University Press, pp. 201–50.
+* –––, 1918 \[1984] “Thoughts” translated by by P. Geach and R. Stoothoff, in B. McGuinness (ed.), *Collected Papers on Mathematics, Logic, and Philosophy*, Oxford: Blackwell, pp. 351–72.
+* Friedman, M., 1999, *Reconsidering Logical Positivism*, Cambridge: Cambridge University Press.
+* Gettier, E., 1963, “Is Justified True Belief Knowledge?” *Analysis*, 23: 121–12
+* Gibbard, A., 2008, “Horwich on Meaning,” *Mind*, 117(465): 141–166.
+* Glanzberg, M., 2014, “Explanation and Partiality in Semantic Theory,” in *Metasemantics: New Essays on the Foundations of Meaning*, A. Burgess and B. Sherman (eds.), Oxford: Oxford University Press, pp. 259–92.
+* –––, 2018, “About Convention and Grammar,” in *Beyond Semantics and Pragmatics*, G. Preyer (ed.), Oxford: Oxford University Press, pp. 230–60.
+* –––, 2021, “Chomsky and Semantics,” in N. Allott, T. Lohndal, and G. Rey (eds.), *A Companion to Chomsky*, London: Wiley-Blackwell, pp. 416–32.
+* Gleitman, H, Gross, J, and Reisberg, D., 2011, *Psychology*, 8th edition, New York: Norton.
+* Glock, H., 2003, *Quine and Davidson on Language, Thought and Reality*, Cambridge: Cambridge University Press.
+* Goldman, A., 1999, “*A Priori* Warrant and Naturalistic Epistemology,” in J. Tomberlin (ed.), *Philosophical Perspectives* (Volume 13), Oxford: Blackwell, pp. 1–28.
+* Goodman, N., 1951 \[1977], *The Structure of Appearance*, 3rd edition, Cambridge, MA: Harvard University Press.
+* Grice, H.P., 1975, “Logic and Conversation”, in *The Logic of Grammar*, D. Davidson and G. Harman (eds.), Encino, CA: Dickenson, 64–75.
+* –––, 1989, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press
+* Grice, P. and Strawson, P., 1956, “In Defense of a Dogma,” *Philosophical Review*, LXV(2): 141–58.
+* Hacker, P., 1990, *Wittgenstein: Meaning and Mind*, Oxford: Blackwell.
+* Haegeman, L., 1994, *Introduction of Government and Binding Theory*, 2nd edition, Oxford: Blackwell
+* Hale, B. and Wright, C., 2000, “Implicit Definition and the *A Priori*”, in P. Boghossian and C. Peacocke (eds.), *New Essays on the A Priori*, Oxford: Clarendon Press, pp. 286–319.
+* –––, 2015, “Bolzano’s Definition of Analytic Propositions”, in *Grazer Philosophische Studien*, 91(1): 323–64.
 * Halpern et al., 2001, v. Attorney General of Canada et al. (Court file 684/00), and Metropolitan Community Church of Toronto V. Attorney General of Canada et al. (Court file 30/2001), in the Ontario Superior Court of Justice (Divisional Court), November 2001.
-* Hanson, N., 1958, _Patterns of Discovery: an Inquiry into the Conceptual Foundations of Science_, Cambridge: Cambridge University Press.
-* Hardin, C. L., 2008, “Color Qualities and the Physical World,” in E. Wright (ed.), _The Case for Qualia_, Cambridge, MA: MIT Press, pp. 143–54
-* Harman, G., 1967 \[1999], “The Death of Meaning,” in his _Reasoning, Meaning and Mind_, Oxford: University Press, pp. 119–37.
-* –––, 1980, “Two Quibbles about Analyticity and Psychological Reality,” _Behavioral and Brain Sciences_, 3: 21–2.
-* –––, 1994 \[1999], “Doubts about Conceptual Analysis,” in his _Reasoning, Meaning and Mind_, Oxford: Oxford University Press, pp. 138–43.
-* –––, 1996 \[1999], “Analyticity Regained?” in his _Reasoning, Meaning and Mind_, Oxford: Oxford University Press, pp. 144–52.
-* Haug, M. (ed.), 2014, _Philosophical Methodology: The Armchair or The Laboratory_, London: Routledge.
-* Hauser, M., Chomsky, N., and Fitch, W., 2002, “The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?” _Science_, 298: 1569–79.
-* Heim, I. and Kratzer, A., 1998, _Semantics in Generative Grammar_, Oxford: Blackwell.
-* Horty, J., 2007, _Frege on Definitions: a Case Study of Semantic Content_, Oxford: Oxford University Press.
-* Horwich, P., 1998, _Meaning_, Oxford: Oxford University Press.
-* –––, 2000, “Stipulation, Meaning and Apriority,” in Boghossian, P. and Peacocke, C. (eds.), _New Essays on the A Priori_, Oxford: Oxford University Press, pp. 150–69.
-* –––, 2005, _Reflections on Meaning_, Oxford: Oxford University Press.
-* Isac, D. and Reiss, C., 2008, _I-language: an Introduction to Linguistics as Cognitive Science_, Oxford, New York: Oxford University Press
-* Israel, D., 1991, “Katz and Postal on Realism,” _Linguistics and Philosophy_, 14: 567–74
-* Israel, M., 2011, _The Grammar of Polarity: Pragmatics, Sensitivity and the Logic of Scales_, Cambridge: Cambridge University Press.
-* Jackendoff, R., 1992, _Languages of the Mind: Essays on Mental Representation_, Cambridge, MA: MIT Press.
-* Jackson, F., 1998, _From Metaphysics to Ethics: a Defence of Conceptual Analysis_, Oxford: Oxford University Press.
-* Juhl, C. and Loomis, E., 2010, _Analyticity_, London, New York: Routledge.
-* Kahneman, D., 2011, _Thinking, Fast and Slow_, New York: Farrar, Straus and Giroux.
-* Kant, I., 1787 \[1998], _The Critique of Pure Reason_, 2nd (“B”) edition; translated by P. Guyer and A.W. Wood, Cambridge: Cambridge University Press.
-* Kaplan, D., 1989, “Demonstratives,” in J. Almog, J. Perry, and H. Wettstein (eds.), _Themes from Kaplan_, Oxford: Oxford University Press, pp. 481–563.
-* Katz, J., 1972, _Semantic Theory_, New York: Harper and Row.
-* –––, 1988, _Cogitations_, Oxford: Oxford University Press.
-* –––, 1990, _The Metaphysics of Meaning_, Oxford: Oxford University Press.
-* –––, 1998, _Realistic Rationalism_ (“Representation and Mind” series), Cambridge, MA: MIT Press
-* Katz, J. and Postal, P., 1964, _An Integrated Theory of Linguistic Description_, Cambridge, MA: MIT Press
-* –––, 1991, ‘Realism vs. Conceptualism in Linguistics’, _Linguistics and Philosophy_, 14: 515–554.
-* Keil, F., 2014, _Developmental Psychology: The Growth of Mind and Behavior_, New York: W.H. Norton
-* Kitcher, P., 1980, “_A Priori_ knowledge,” _The Philosophical Review_, 86: 3–23.
-* Knobe, J., 2003, “Intentional Action and Side Effects in Ordinary Language,” _Analysis_, 63: 190–3.
-* Kripke, S., 1972 \[1980], _Naming and Necessity_, Cambridge, MA: Harvard University Press.
-* Kuhn, T., 1962, _The Structure of Scientific Revolutions_, Chicago: University of Chicago Press.
-* Langford, C., 1942, “The Notion of Analysis in Moore’s Philosophy” in _The Philosophy of G.E. Moore_, P.A. Schilpp (ed.), LaSalle IL: Open Court, pp. 321–42.
-* Leben, D., 2015, “Neoclassical Concepts,” _Mind and Language_, 30(1): 44–69.
-* Lewis, D., 1969, _Convention: a Philosophical Study_, Cambridge, MA: Harvard University Press.
-* –––, 1972, “How to Define Theoretical Terms,” _Journal of Philosophy_, 67: 427–446.
-* Locke, J., 1690 \[1975], _An Essay Concerning Human Understanding_, Peter Nidditch (ed.), Oxford: Clarendon Press.
-* Loewer, B., 1996, “A Guide to Naturalizing Semantics,” in Wright, C. and Hale, B., _A Companion to Philosophy of Language_, Oxford: Blackwell, pp. 108–26.
-* MacFarlane, J., 2002, “Frege, Kant, and the Logic of Logicism”, _Philosophical Review_, 111(1): 25–65.
-* Marchant, J., 2005, “Fragments and Ellipsis,” _Linguistics and Philosophy_, 27: 661–738.
-* McCourt, M., 2021, _Semantics and Pragmatics in a Modular Mind_, Ph.D. Thesis, University of Maryland, College Park.
-* Millikan, R., 1984, _Language, Thought and Other Biological Categories_, Cambridge, MA: MIT Press.
-* Montague, R., 1974, _Formal Philosophy: Selected Papers of Richard Montague_, Richmond H. Thomason (ed.), New Haven: Yale University. Press
-* Moore, G.E., 1942 \[1968], “A Reply to My Critics,” in _The Philosophy of G.E. Moore_, P.A. Schilpp (ed.), LaSalle, IL: Open Court.
-* Moravcsik, J., 1975, _Understanding Language: a Study of Theories of Language in Linguistics and in Philosophy_, The Hague: Mouton.
-* –––, 1990, _Thought and Language_, London: Routledge.
-* Nasar, S., 1998, _A Beautiful Mind_, New York: Touchstone, pp. 739–63.
-* Neander, K., 1995, “Misrepresenting and Malfunctioning,” _Philosophical Studies_, 79: 109–41.
-* –––, 2017, _A Mark of the Mental: In Defense of Informational Teleosemantics_, Cambridge, MA: MIT Press
-* Newmeyer, F. 1996, _Generative Linguistics_, London: Routledge.
-* Papineau, D., 1987, _Reality and Representation_, Oxford: Blackwell.
-* Partee, B. and Hendriks, H., 1997, “Montague Grammar,” in Johan van Benthem and Alice ter Meulen (eds.), _Handbook of Logic and Language_, Amsterdam: Elsevier, pp. 5–91.
-* Peacocke, C., 1992, _A Study of Concepts_, Cambridge, MA: MIT Press.
-* –––, 2004, _The Realm of Reason_, Oxford: Oxford University Press
-* Pietroski, P., 2002, “Small Verbs, Complex Events: Analyticity without Synonymy,” in L. Antony and N. Hornstein (eds.), _Chomsky and His Critics_, Oxford: Blackwell, pp. 179–214.
-* –––, 2005, _Events and Semantic Architecture_, Oxford: Oxford University Press.
-* –––, 2018, _Conjoining Meanings: Semantics without Truth Values_, Oxford: Oxford University Press.
-* Pinker, S. 1994, _The Language Instinct_, New York: Harper.
-* Popper, K. 1935 \[1959, 2002], _The Logic of Scientific Discovery_, translation by the author of _Logik der Forschung_ (Vienna: Julius Springer, 1935), London: Hutchinson, 1959; republished, London & New York: Routledge Classics, 2002.
-* Post, E., 1936, “Finite Combinatory Processes – Formulation 1,” _Journal of Symbolic Logic_, 1(3): 103–105. doi:10.2307/2269031
-* Priest, G., 1987 \[2006], _In Contradiction: A Study of the Transconsistent_, 2nd edition, Oxford: Oxford University Press.
-* Progovac, L., 2006, “The Syntax of Nonsententials: Small Clauses and Phrases at the Root,” in _The Syntax of Nonsententials: Multidisciplinary Perspectives_, Ljiljana Progovac, Kate Paesani, Eugenia Casielles and Ellen Barton (eds.), Amsterdam: John Benjamins, pp. 33–71
-* Pustejovsky, J., 1995, _The Generative Lexicon_, Cambridge, MA: MIT Press.
-* –––, 1998, “Generativity and Explanation in Semantics: A Reply to Fodor and Lepore,” _Linguistic Inquiry_, 29(2): 289–311.
-* –––, 2002, “The Generative Lexicon,” _Language_, 17(4): 409–41.
-* Putnam, H., 1962 \[1975], “It Ain’t Necessarily So,” _Journal of Philosophy_, LIX: 658–671; reprinted in H. Putnam, _Philosophical Papers_ (Volume 1), Cambridge: Cambridge University Press, pp. 237–49.
-* –––, 1965 \[1975], “The Analytic and the Synthetic,” reprinted in H. Putnam, _Philosophical Papers_ (Volume 2), Cambridge: Cambridge University Press, pp. 358–97.
-* –––, 1968 \[1975], “Is Logic Empirical?” _Boston Studies in the Philosophy of Science_ (Volume 5), Robert S. Cohen and Marx W. Wartofsky (eds.), Dordrecht: D. Reidel, pp. 216–41; reprinted as “The Logic of Quantum Mechanics,” in H. Putnam. _Philosophical Papers_ (Volume 1), Cambridge: Cambridge University Press, 1975, pp. 174–97.
-* –––, 1970 \[1975], “Is Semantics Possible?”, _Metaphilosophy_, 1: 189–201; reprinted in H. Putnam, _Philosophical Papers_ (Volume 2), Cambridge: Cambridge University Press, 1975, pp.139–52.
-* –––, 1975, “The Meaning of ”Meaning“”, in H. Putnam, _Philosophical Papers_ (Volume 2), Cambridge: Cambridge University Press, pp.215–71.
-* Quilty-Dunn, J., 2021, “Polysemy and Thought: Toward a Generative Theory of Concepts,” _Mind & Language_, 36(1): 158–85.
-* Quine, W.V.O., 1934 \[1990], “Lectures on Carnap”, in R. Creath (ed.), _Dear Carnap, Dear Van_, Berkeley: University of California Press, pp. 45–103.
-* –––, 1936 \[1976], “Truth by Convention,” in his _Ways of Paradox and Other Essays_, 2nd edition, Cambridge, MA: Harvard University Press, pp. 77–106.
+* Hanson, N., 1958, *Patterns of Discovery: an Inquiry into the Conceptual Foundations of Science*, Cambridge: Cambridge University Press.
+* Hardin, C. L., 2008, “Color Qualities and the Physical World,” in E. Wright (ed.), *The Case for Qualia*, Cambridge, MA: MIT Press, pp. 143–54
+* Harman, G., 1967 \[1999], “The Death of Meaning,” in his *Reasoning, Meaning and Mind*, Oxford: University Press, pp. 119–37.
+* –––, 1980, “Two Quibbles about Analyticity and Psychological Reality,” *Behavioral and Brain Sciences*, 3: 21–2.
+* –––, 1994 \[1999], “Doubts about Conceptual Analysis,” in his *Reasoning, Meaning and Mind*, Oxford: Oxford University Press, pp. 138–43.
+* –––, 1996 \[1999], “Analyticity Regained?” in his *Reasoning, Meaning and Mind*, Oxford: Oxford University Press, pp. 144–52.
+* Haug, M. (ed.), 2014, *Philosophical Methodology: The Armchair or The Laboratory*, London: Routledge.
+* Hauser, M., Chomsky, N., and Fitch, W., 2002, “The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?” *Science*, 298: 1569–79.
+* Heim, I. and Kratzer, A., 1998, *Semantics in Generative Grammar*, Oxford: Blackwell.
+* Horty, J., 2007, *Frege on Definitions: a Case Study of Semantic Content*, Oxford: Oxford University Press.
+* Horwich, P., 1998, *Meaning*, Oxford: Oxford University Press.
+* –––, 2000, “Stipulation, Meaning and Apriority,” in Boghossian, P. and Peacocke, C. (eds.), *New Essays on the A Priori*, Oxford: Oxford University Press, pp. 150–69.
+* –––, 2005, *Reflections on Meaning*, Oxford: Oxford University Press.
+* Isac, D. and Reiss, C., 2008, *I-language: an Introduction to Linguistics as Cognitive Science*, Oxford, New York: Oxford University Press
+* Israel, D., 1991, “Katz and Postal on Realism,” *Linguistics and Philosophy*, 14: 567–74
+* Israel, M., 2011, *The Grammar of Polarity: Pragmatics, Sensitivity and the Logic of Scales*, Cambridge: Cambridge University Press.
+* Jackendoff, R., 1992, *Languages of the Mind: Essays on Mental Representation*, Cambridge, MA: MIT Press.
+* Jackson, F., 1998, *From Metaphysics to Ethics: a Defence of Conceptual Analysis*, Oxford: Oxford University Press.
+* Juhl, C. and Loomis, E., 2010, *Analyticity*, London, New York: Routledge.
+* Kahneman, D., 2011, *Thinking, Fast and Slow*, New York: Farrar, Straus and Giroux.
+* Kant, I., 1787 \[1998], *The Critique of Pure Reason*, 2nd (“B”) edition; translated by P. Guyer and A.W. Wood, Cambridge: Cambridge University Press.
+* Kaplan, D., 1989, “Demonstratives,” in J. Almog, J. Perry, and H. Wettstein (eds.), *Themes from Kaplan*, Oxford: Oxford University Press, pp. 481–563.
+* Katz, J., 1972, *Semantic Theory*, New York: Harper and Row.
+* –––, 1988, *Cogitations*, Oxford: Oxford University Press.
+* –––, 1990, *The Metaphysics of Meaning*, Oxford: Oxford University Press.
+* –––, 1998, *Realistic Rationalism* (“Representation and Mind” series), Cambridge, MA: MIT Press
+* Katz, J. and Postal, P., 1964, *An Integrated Theory of Linguistic Description*, Cambridge, MA: MIT Press
+* –––, 1991, ‘Realism vs. Conceptualism in Linguistics’, *Linguistics and Philosophy*, 14: 515–554.
+* Keil, F., 2014, *Developmental Psychology: The Growth of Mind and Behavior*, New York: W.H. Norton
+* Kitcher, P., 1980, “*A Priori* knowledge,” *The Philosophical Review*, 86: 3–23.
+* Knobe, J., 2003, “Intentional Action and Side Effects in Ordinary Language,” *Analysis*, 63: 190–3.
+* Kripke, S., 1972 \[1980], *Naming and Necessity*, Cambridge, MA: Harvard University Press.
+* Kuhn, T., 1962, *The Structure of Scientific Revolutions*, Chicago: University of Chicago Press.
+* Langford, C., 1942, “The Notion of Analysis in Moore’s Philosophy” in *The Philosophy of G.E. Moore*, P.A. Schilpp (ed.), LaSalle IL: Open Court, pp. 321–42.
+* Leben, D., 2015, “Neoclassical Concepts,” *Mind and Language*, 30(1): 44–69.
+* Lewis, D., 1969, *Convention: a Philosophical Study*, Cambridge, MA: Harvard University Press.
+* –––, 1972, “How to Define Theoretical Terms,” *Journal of Philosophy*, 67: 427–446.
+* Locke, J., 1690 \[1975], *An Essay Concerning Human Understanding*, Peter Nidditch (ed.), Oxford: Clarendon Press.
+* Loewer, B., 1996, “A Guide to Naturalizing Semantics,” in Wright, C. and Hale, B., *A Companion to Philosophy of Language*, Oxford: Blackwell, pp. 108–26.
+* MacFarlane, J., 2002, “Frege, Kant, and the Logic of Logicism”, *Philosophical Review*, 111(1): 25–65.
+* Marchant, J., 2005, “Fragments and Ellipsis,” *Linguistics and Philosophy*, 27: 661–738.
+* McCourt, M., 2021, *Semantics and Pragmatics in a Modular Mind*, Ph.D. Thesis, University of Maryland, College Park.
+* Millikan, R., 1984, *Language, Thought and Other Biological Categories*, Cambridge, MA: MIT Press.
+* Montague, R., 1974, *Formal Philosophy: Selected Papers of Richard Montague*, Richmond H. Thomason (ed.), New Haven: Yale University. Press
+* Moore, G.E., 1942 \[1968], “A Reply to My Critics,” in *The Philosophy of G.E. Moore*, P.A. Schilpp (ed.), LaSalle, IL: Open Court.
+* Moravcsik, J., 1975, *Understanding Language: a Study of Theories of Language in Linguistics and in Philosophy*, The Hague: Mouton.
+* –––, 1990, *Thought and Language*, London: Routledge.
+* Nasar, S., 1998, *A Beautiful Mind*, New York: Touchstone, pp. 739–63.
+* Neander, K., 1995, “Misrepresenting and Malfunctioning,” *Philosophical Studies*, 79: 109–41.
+* –––, 2017, *A Mark of the Mental: In Defense of Informational Teleosemantics*, Cambridge, MA: MIT Press
+* Newmeyer, F. 1996, *Generative Linguistics*, London: Routledge.
+* Papineau, D., 1987, *Reality and Representation*, Oxford: Blackwell.
+* Partee, B. and Hendriks, H., 1997, “Montague Grammar,” in Johan van Benthem and Alice ter Meulen (eds.), *Handbook of Logic and Language*, Amsterdam: Elsevier, pp. 5–91.
+* Peacocke, C., 1992, *A Study of Concepts*, Cambridge, MA: MIT Press.
+* –––, 2004, *The Realm of Reason*, Oxford: Oxford University Press
+* Pietroski, P., 2002, “Small Verbs, Complex Events: Analyticity without Synonymy,” in L. Antony and N. Hornstein (eds.), *Chomsky and His Critics*, Oxford: Blackwell, pp. 179–214.
+* –––, 2005, *Events and Semantic Architecture*, Oxford: Oxford University Press.
+* –––, 2018, *Conjoining Meanings: Semantics without Truth Values*, Oxford: Oxford University Press.
+* Pinker, S. 1994, *The Language Instinct*, New York: Harper.
+* Popper, K. 1935 \[1959, 2002], *The Logic of Scientific Discovery*, translation by the author of *Logik der Forschung* (Vienna: Julius Springer, 1935), London: Hutchinson, 1959; republished, London & New York: Routledge Classics, 2002.
+* Post, E., 1936, “Finite Combinatory Processes – Formulation 1,” *Journal of Symbolic Logic*, 1(3): 103–105. doi:10.2307/2269031
+* Priest, G., 1987 \[2006], *In Contradiction: A Study of the Transconsistent*, 2nd edition, Oxford: Oxford University Press.
+* Progovac, L., 2006, “The Syntax of Nonsententials: Small Clauses and Phrases at the Root,” in *The Syntax of Nonsententials: Multidisciplinary Perspectives*, Ljiljana Progovac, Kate Paesani, Eugenia Casielles and Ellen Barton (eds.), Amsterdam: John Benjamins, pp. 33–71
+* Pustejovsky, J., 1995, *The Generative Lexicon*, Cambridge, MA: MIT Press.
+* –––, 1998, “Generativity and Explanation in Semantics: A Reply to Fodor and Lepore,” *Linguistic Inquiry*, 29(2): 289–311.
+* –––, 2002, “The Generative Lexicon,” *Language*, 17(4): 409–41.
+* Putnam, H., 1962 \[1975], “It Ain’t Necessarily So,” *Journal of Philosophy*, LIX: 658–671; reprinted in H. Putnam, *Philosophical Papers* (Volume 1), Cambridge: Cambridge University Press, pp. 237–49.
+* –––, 1965 \[1975], “The Analytic and the Synthetic,” reprinted in H. Putnam, *Philosophical Papers* (Volume 2), Cambridge: Cambridge University Press, pp. 358–97.
+* –––, 1968 \[1975], “Is Logic Empirical?” *Boston Studies in the Philosophy of Science* (Volume 5), Robert S. Cohen and Marx W. Wartofsky (eds.), Dordrecht: D. Reidel, pp. 216–41; reprinted as “The Logic of Quantum Mechanics,” in H. Putnam. *Philosophical Papers* (Volume 1), Cambridge: Cambridge University Press, 1975, pp. 174–97.
+* –––, 1970 \[1975], “Is Semantics Possible?”, *Metaphilosophy*, 1: 189–201; reprinted in H. Putnam, *Philosophical Papers* (Volume 2), Cambridge: Cambridge University Press, 1975, pp.139–52.
+* –––, 1975, “The Meaning of ”Meaning“”, in H. Putnam, *Philosophical Papers* (Volume 2), Cambridge: Cambridge University Press, pp.215–71.
+* Quilty-Dunn, J., 2021, “Polysemy and Thought: Toward a Generative Theory of Concepts,” *Mind & Language*, 36(1): 158–85.
+* Quine, W.V.O., 1934 \[1990], “Lectures on Carnap”, in R. Creath (ed.), *Dear Carnap, Dear Van*, Berkeley: University of California Press, pp. 45–103.
+* –––, 1936 \[1976], “Truth by Convention,” in his *Ways of Paradox and Other Essays*, 2nd edition, Cambridge, MA: Harvard University Press, pp. 77–106.
 * –––, 1953 \[1980a], “Two Dogmas of Empiricism,” in Quine (1953c): 20–46.
 * –––, 1953 \[1980b], “The Problem of Meaning in Linguistics,” in Quine (1980c): 47–64.
-* –––, 1953 \[1980c], _From a Logical Point of View_, 2nd edition, Cambridge, MA: Harvard University Press.
-* –––, 1956 \[1976], “Carnap and Logical Truth,” in his _Ways of Paradox and Other Essays_, 2nd edition, Cambridge, MA: Harvard University Press. (Abbreviated, “CLT”), pp. 100–126.
-* –––, 1960, _Word and Object_, Cambridge, MA: MIT Press
-* –––, 1969, “Epistemology Naturalized,” in his _Ontological Relativity and Other Essays_, New York: Columbia University Press, pp. 69–90.
-* –––, 1974, _The Roots of Reference: The Paul Carus Lectures_, LaSalle, IL: Open Court
-* –––, 1975 \[1981], “Five Milestones of Empiricism,” in his _Theories and Things_, Cambridge, MA: Harvard University Press, pp. 67–72
-* –––, 1986 \[1998] “Reply to Roger F. Gibson,”, in P. Schilpp (ed.), _The Philosophy of W.V. Quine_, LaSalle: Open Court, pp. 155–7.
-* Radford, A., 2004, _English Syntax: an Introduction_, Cambridge: Cambridge University Press.
-* Rey, G., 1985, “Concepts and Conceptions,” _Cognition_, 19: 297–303
-* –––, 1994, “Dennett’s Unrealistic Psychology,” _Philosophical Topics_, 22(1–2): 259–89.
-* –––, 1998, “A Naturalistic _A Priori_,” _Philosophical Studies_, 92: 25–43.
-* –––, 2007, “Resisting Normativism in Psychology,” _Blackwell Debates in Philosophy of Mind_, J. Cohen and B. McLaughlin (ed.), Oxford: Blackwell, pp. 69–84
-* –––, 2009, “Concepts, Defaults, and Internal Asymmetric Dependencies: Distillations of Fodor and Horwich” in _The A Priori and Its Role in Philosophy_, N. Kompa, C. Nimtz, and C. Suhm (eds.), Paderborn: Mentis, pp. 185–204.
-* –––, 2016, “Analytic, _A Priori_, False—And Maybe Non-Conceptual,” _European Journal of Analytic Philosophy_, 10(2): 85–110.
-* –––. 2020a, _Representation of Language: Philosophical Issues in a Chomskyan Linguistics_, Oxford: Oxford University Press
-* –––. 2020b, “Explanation First!: the Priority of Scientific over ‘Commonsense’ Metaphysics,” in Bianchi, A. _Language and Reality from a Naturalistic Perspective_, Cham: Springer Nature Switzerland, pp. 299–328
-* Ringe, D. and Eska, J., 2013, _Historical Linguistics: Toward a Twenty-First Century Reintegration_, Cambridge: Cambridge University Press.
-* Rosch, E., 1973, “Natural categories”, _Cognitive Psychology_, 4(3): 328–50.
-* Ross, J., 1967 \[1986], _Constraints on Variables in Syntax_, Ph.D. Thesis, Massachusetts Institute of Technology; published as _Infinite Syntax!_, Norwood, NJ: ABLEX \[[Ross 1986 available online](http://hdl.handle.net/1721.1/15166)].
-* Russell, B., 1905, “On Denoting”, _Mind_, 14: 479–93.
-* –––, 1912, _The Problems of Philosophy_, New York: Henry Holt.
-* Russell, G., 2008, _Truth in Virtue of Meaning: a Defense of the Analytic/Synthetic Distinction_, Oxford: Oxford University Press.
-* –––, 2010, “Analyticity in Externalist Languages,” in _New Waves in Philosophy of Language_, Sarah Sawyer (ed.), New York: Palgrave MacMillan.
-* Ryle, G., 1949 \[2009], _The Concept of Mind_, London: Routledge
-* Searle, J., 1992, _The Rediscovery of the Mind_, Cambridge, MA: MIT Press
-* Sellars, W., 1956, “Empiricism and the Philosophy of Mind,” in M. Scriven, P. Feyerabend, and G. Maxwell (eds.), _Minnesota Studies in the Philosophy of Science_ (Volume I), Minneapolis: University of Minnesota Press, pp. 253–329.
-* Stalnaker, R., 1978 \[1999], “Assertion”, _Syntax and Semantics_, 9: 315–332; reprinted in his _Context and Content: Essays on Intentionality in Speech and Thought_, Oxford: Oxford University Press, pp. 78–95.
-* Shapiro, S., and Roberts, C., 2019, “Open Texture and Analyticity,” in Dejan Makovec & Stewart Shapiro (eds.), _Friedrich Waismann: The Open Texture of Analytic Philosophy_, Cham: Palgrave Macmillan, 189–210.
-* Smith, E. and Medin, D., 1981, _Concepts and Categories_, Cambridge, MA: Harvard University Press
-* Smith, N. and Allott, N., 2016, _Chomsky – Ideas and Ideals_, 3rd edition, Cambridge: Cambridge University Press.
-* Sperber, D. and Wilson, D., 1986 \[1995], _Relevance: Communication and Cognition_, Oxford: Blackwell.
-* Stich, S., 1983, _From Folk Psychology to Cognitive Science_, Cambridge, MA: MIT Press.
-* Stojnić, U., 2021, _Context and Coherence: The Logic and Grammar of Prominence_, Oxford: Oxford University Press
-* Strawson, P., 1950, “On Referring”, _Mind_, 59: 320–44.
-* Strawson, G., 1994, _Mental Reality_, Cambridge, MA: MIT Press
-* Tarski, A., 1936 \[1983], “On the Concept of Logical Consequence”, translated by J.H. Woodger in A. Tarski, _Logic, Semantics, Metamathematics_, second edition, J. Corcoran (ed.), Indianapolis, IN: Hackett, pp. 409–20.
-* Travis, C., 1985 \[2008], “On What is Strictly Speaking True,” in C. Travis, _Occasion-Sensitivity: Selected Essays_, Oxford: Oxford University Press, pp. 19–64.
-* Trompenaars, T., Kaluge, T., Sarabi, R, and de Swart, P., 2021, “Cognitive Animacy and its Relation to Linguistic Animacy: Evidence from Japanese and Persian,” _Language Sciences_ 86 101399 \[[Trompenaars, et al. 2021 available online](https://www.sciencedirect.com/science/article/pii/S0388000121000462)].
-* Vicente, A, and Falkum, I., 2017, “Polysemy,” _Oxford Research Encyclopedia of Linguistics_, Oxford: Oxford University Press. doi:10.1093/acrefore/9780199384655.013.325
-* Waismann, F., 1945, “Symposium: Verifiability” (Part II), D.M. MacKinnon, F. Waismann, and W.C. Kneale (eds.), _Proceedings of the Aristotelian Society_ (Supplementary Volume), 19: 101–64. doi:10.1093/aristoteliansupp/19.1.101
-* Warren, J., 2017, “Revisiting Quine on Truth by Convention,” _Journal of Philosophical Logic_, 46(2): 119–39.
-* Weinberg, J., Nichols, S. and Stich, S., 2001, “Normativity and Epistemic Intuitions,” _Philosophical Topics_, 29: 429–60.
-* White, S., 1982, “Partial Character and the Language of Thought,” _Pacific Philosophical Quarterly_, 63: 347–65.
-* Whitehead, A, and Russell, B. (1910–13, \[2018]), _Principia Mathematica_, London: Forgotten Books,
-* Williamson, T., 2007, _The Philosophy of Philosophy_, Oxford: Blackwell
-* Wittgenstein, L., 1922, _Tractatus Logico-Philosophicus_, C.K. Ogden (trans.), London: Routledge & Kegan Paul.
-* –––, 1953 \[1967], _Philosophical Investigations_, 3rd edition, Oxford: Blackwell.
-* Wolenski, J. 2004s, “History of Epistemology,” in I. Niiniluoto, N. Sintonen, and J. Wolenski (eds.), _Handbook of Epistemology_, Berlin: Springer, pp. 3–54.
-* Wright, C., 1983, _Frege’s Conception of Numbers as Objects_, Aberdeen: Aberdeen University Press.
-* –––, 1999, “Is Hume’s Principle Analytic?,” _Notre Dame Journal of Formal Logic_, 40(1): 6–30.
-* Zalta, E., 2013, “Frege’s Theorem and Foundations for Arithmetic,” _Stanford Encyclopedia of Philosophy_ (Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[Frege's Theorem and Foundations for Arithmetic (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/frege-theorem/)>.
-* Ziff, P., 1959, “The Feelings of Robots,” _Analysis_, 19: 64–8.
+* –––, 1953 \[1980c], *From a Logical Point of View*, 2nd edition, Cambridge, MA: Harvard University Press.
+* –––, 1956 \[1976], “Carnap and Logical Truth,” in his *Ways of Paradox and Other Essays*, 2nd edition, Cambridge, MA: Harvard University Press. (Abbreviated, “CLT”), pp. 100–126.
+* –––, 1960, *Word and Object*, Cambridge, MA: MIT Press
+* –––, 1969, “Epistemology Naturalized,” in his *Ontological Relativity and Other Essays*, New York: Columbia University Press, pp. 69–90.
+* –––, 1974, *The Roots of Reference: The Paul Carus Lectures*, LaSalle, IL: Open Court
+* –––, 1975 \[1981], “Five Milestones of Empiricism,” in his *Theories and Things*, Cambridge, MA: Harvard University Press, pp. 67–72
+* –––, 1986 \[1998] “Reply to Roger F. Gibson,”, in P. Schilpp (ed.), *The Philosophy of W.V. Quine*, LaSalle: Open Court, pp. 155–7.
+* Radford, A., 2004, *English Syntax: an Introduction*, Cambridge: Cambridge University Press.
+* Rey, G., 1985, “Concepts and Conceptions,” *Cognition*, 19: 297–303
+* –––, 1994, “Dennett’s Unrealistic Psychology,” *Philosophical Topics*, 22(1–2): 259–89.
+* –––, 1998, “A Naturalistic *A Priori*,” *Philosophical Studies*, 92: 25–43.
+* –––, 2007, “Resisting Normativism in Psychology,” *Blackwell Debates in Philosophy of Mind*, J. Cohen and B. McLaughlin (ed.), Oxford: Blackwell, pp. 69–84
+* –––, 2009, “Concepts, Defaults, and Internal Asymmetric Dependencies: Distillations of Fodor and Horwich” in *The A Priori and Its Role in Philosophy*, N. Kompa, C. Nimtz, and C. Suhm (eds.), Paderborn: Mentis, pp. 185–204.
+* –––, 2016, “Analytic, *A Priori*, False—And Maybe Non-Conceptual,” *European Journal of Analytic Philosophy*, 10(2): 85–110.
+* –––. 2020a, *Representation of Language: Philosophical Issues in a Chomskyan Linguistics*, Oxford: Oxford University Press
+* –––. 2020b, “Explanation First!: the Priority of Scientific over ‘Commonsense’ Metaphysics,” in Bianchi, A. *Language and Reality from a Naturalistic Perspective*, Cham: Springer Nature Switzerland, pp. 299–328
+* Ringe, D. and Eska, J., 2013, *Historical Linguistics: Toward a Twenty-First Century Reintegration*, Cambridge: Cambridge University Press.
+* Rosch, E., 1973, “Natural categories”, *Cognitive Psychology*, 4(3): 328–50.
+* Ross, J., 1967 \[1986], *Constraints on Variables in Syntax*, Ph.D. Thesis, Massachusetts Institute of Technology; published as *Infinite Syntax!*, Norwood, NJ: ABLEX \[[Ross 1986 available online](http://hdl.handle.net/1721.1/15166)].
+* Russell, B., 1905, “On Denoting”, *Mind*, 14: 479–93.
+* –––, 1912, *The Problems of Philosophy*, New York: Henry Holt.
+* Russell, G., 2008, *Truth in Virtue of Meaning: a Defense of the Analytic/Synthetic Distinction*, Oxford: Oxford University Press.
+* –––, 2010, “Analyticity in Externalist Languages,” in *New Waves in Philosophy of Language*, Sarah Sawyer (ed.), New York: Palgrave MacMillan.
+* Ryle, G., 1949 \[2009], *The Concept of Mind*, London: Routledge
+* Searle, J., 1992, *The Rediscovery of the Mind*, Cambridge, MA: MIT Press
+* Sellars, W., 1956, “Empiricism and the Philosophy of Mind,” in M. Scriven, P. Feyerabend, and G. Maxwell (eds.), *Minnesota Studies in the Philosophy of Science* (Volume I), Minneapolis: University of Minnesota Press, pp. 253–329.
+* Stalnaker, R., 1978 \[1999], “Assertion”, *Syntax and Semantics*, 9: 315–332; reprinted in his *Context and Content: Essays on Intentionality in Speech and Thought*, Oxford: Oxford University Press, pp. 78–95.
+* Shapiro, S., and Roberts, C., 2019, “Open Texture and Analyticity,” in Dejan Makovec & Stewart Shapiro (eds.), *Friedrich Waismann: The Open Texture of Analytic Philosophy*, Cham: Palgrave Macmillan, 189–210.
+* Smith, E. and Medin, D., 1981, *Concepts and Categories*, Cambridge, MA: Harvard University Press
+* Smith, N. and Allott, N., 2016, *Chomsky – Ideas and Ideals*, 3rd edition, Cambridge: Cambridge University Press.
+* Sperber, D. and Wilson, D., 1986 \[1995], *Relevance: Communication and Cognition*, Oxford: Blackwell.
+* Stich, S., 1983, *From Folk Psychology to Cognitive Science*, Cambridge, MA: MIT Press.
+* Stojnić, U., 2021, *Context and Coherence: The Logic and Grammar of Prominence*, Oxford: Oxford University Press
+* Strawson, P., 1950, “On Referring”, *Mind*, 59: 320–44.
+* Strawson, G., 1994, *Mental Reality*, Cambridge, MA: MIT Press
+* Tarski, A., 1936 \[1983], “On the Concept of Logical Consequence”, translated by J.H. Woodger in A. Tarski, *Logic, Semantics, Metamathematics*, second edition, J. Corcoran (ed.), Indianapolis, IN: Hackett, pp. 409–20.
+* Travis, C., 1985 \[2008], “On What is Strictly Speaking True,” in C. Travis, *Occasion-Sensitivity: Selected Essays*, Oxford: Oxford University Press, pp. 19–64.
+* Trompenaars, T., Kaluge, T., Sarabi, R, and de Swart, P., 2021, “Cognitive Animacy and its Relation to Linguistic Animacy: Evidence from Japanese and Persian,” *Language Sciences* 86 101399 \[[Trompenaars, et al. 2021 available online](https://www.sciencedirect.com/science/article/pii/S0388000121000462)].
+* Vicente, A, and Falkum, I., 2017, “Polysemy,” *Oxford Research Encyclopedia of Linguistics*, Oxford: Oxford University Press. doi:10.1093/acrefore/9780199384655.013.325
+* Waismann, F., 1945, “Symposium: Verifiability” (Part II), D.M. MacKinnon, F. Waismann, and W.C. Kneale (eds.), *Proceedings of the Aristotelian Society* (Supplementary Volume), 19: 101–64. doi:10.1093/aristoteliansupp/19.1.101
+* Warren, J., 2017, “Revisiting Quine on Truth by Convention,” *Journal of Philosophical Logic*, 46(2): 119–39.
+* Weinberg, J., Nichols, S. and Stich, S., 2001, “Normativity and Epistemic Intuitions,” *Philosophical Topics*, 29: 429–60.
+* White, S., 1982, “Partial Character and the Language of Thought,” *Pacific Philosophical Quarterly*, 63: 347–65.
+* Whitehead, A, and Russell, B. (1910–13, \[2018]), *Principia Mathematica*, London: Forgotten Books,
+* Williamson, T., 2007, *The Philosophy of Philosophy*, Oxford: Blackwell
+* Wittgenstein, L., 1922, *Tractatus Logico-Philosophicus*, C.K. Ogden (trans.), London: Routledge & Kegan Paul.
+* –––, 1953 \[1967], *Philosophical Investigations*, 3rd edition, Oxford: Blackwell.
+* Wolenski, J. 2004s, “History of Epistemology,” in I. Niiniluoto, N. Sintonen, and J. Wolenski (eds.), *Handbook of Epistemology*, Berlin: Springer, pp. 3–54.
+* Wright, C., 1983, *Frege’s Conception of Numbers as Objects*, Aberdeen: Aberdeen University Press.
+* –––, 1999, “Is Hume’s Principle Analytic?,” *Notre Dame Journal of Formal Logic*, 40(1): 6–30.
+* Zalta, E., 2013, “Frege’s Theorem and Foundations for Arithmetic,” *Stanford Encyclopedia of Philosophy* (Fall 2013 Edition), Edward N. Zalta (ed.), URL = <[Frege's Theorem and Foundations for Arithmetic (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/frege-theorem/)>.
+* Ziff, P., 1959, “The Feelings of Robots,” *Analysis*, 19: 64–8.
 
 ## Academic Tools
 
@@ -650,11 +649,11 @@ Fodor 的理论和相关提议并非没有问题（参见 Loewer, 1996, Rey, 200
 
 ## Related Entries
 
-[analysis](https://plato.stanford.edu/entries/analysis/) | [_a priori_ justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [definitions](https://plato.stanford.edu/entries/definitions/) | [epistemology](https://plato.stanford.edu/entries/epistemology/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [logical constants](https://plato.stanford.edu/entries/logical-constants/) | [logical truth](https://plato.stanford.edu/entries/logical-truth/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [operationalism](https://plato.stanford.edu/entries/operationalism/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
+[analysis](https://plato.stanford.edu/entries/analysis/) | [*a priori* justification and knowledge](https://plato.stanford.edu/entries/apriori/) | [behaviorism](https://plato.stanford.edu/entries/behaviorism/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [definitions](https://plato.stanford.edu/entries/definitions/) | [epistemology](https://plato.stanford.edu/entries/epistemology/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [logical constants](https://plato.stanford.edu/entries/logical-constants/) | [logical truth](https://plato.stanford.edu/entries/logical-truth/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [naturalism](https://plato.stanford.edu/entries/naturalism/) | [operationalism](https://plato.stanford.edu/entries/operationalism/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/)
 
 ### Acknowledgements
 
 I’m grateful to many readers for calling attention to errors in previous editions of this entry, and to Nicholas Allott, John Collins, Alexander Williams and anonymous referees for generous comments on drafts of the present one.
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Georges Rey <[_georey2@gmail.com_](mailto:georey2%40gmail%2ecom)>
+Georges Rey <[*georey2@gmail.com*](mailto:georey2%40gmail%2ecom)>

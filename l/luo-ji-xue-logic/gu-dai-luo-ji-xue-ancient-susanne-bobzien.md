@@ -1,14 +1,12 @@
 # 古代逻辑学 ancient (Susanne Bobzien)
 
-_首次发表于2006年12月13日，实质性修订于2020年4月15日。_
+*首次发表于2006年12月13日，实质性修订于2020年4月15日。*
 
 逻辑学作为一门学科，始于对逻辑方法和论证模式的更或多或少不加思考的使用，以及对这些方法、模式及其要素（包括句子的句法和语义）的反思和探究。在希腊和罗马古代，对逻辑的某些要素的讨论和对推理方法的关注可以追溯到公元前5世纪末。苏格拉底学派，以及后来的柏拉图（公元前4世纪早期）对句子分析、真理和谬误表现出兴趣，而米利都的尤布里底斯（公元前4世纪中期）被记录为同时发明了“说谎者悖论”和“连续悖论”。但是，逻辑作为一个完全系统的学科始于亚里士多德，他系统化了他前辈的逻辑探究。他的主要成就是他关于肯定和否定存在性和普遍性陈述之间逻辑关系的理论，以及基于这个理论的演绎推理系统，可以被解释为一个演绎推理系统。亚里士多德的逻辑被称为术语逻辑，因为它关注术语之间的逻辑关系，比如“人类”、“动物”、“白色”。它与集合论和谓词逻辑都有一些共同要素。亚里士多德在他的学派——亚里士多德学派的继任者，尤其是提奥弗拉斯托和尤德莫斯，扩大了演绎推理的范围，并改进了亚里士多德逻辑的一些方面。
 
 在希腊化时期，逻辑学家Diodorus Cronus和他的学生Philo（见词条“辩证学派”）似乎独立于亚里士多德的成就，他们发展出了一种以命题而不是术语为基本要素的逻辑学。他们影响了古代逻辑学的第二位重要理论家，斯多葛派的Chrysippus（公元前3世纪中期），他的主要成就是发展了一种命题逻辑，并以演绎系统为基础。他被古代许多人视为最伟大的逻辑学家，在当代形式和哲学逻辑中，他在许多核心问题上都具有创新性。Chrysippus的哲学逻辑与Gottlob Frege的逻辑特别相似。Chrysippus的斯多葛派继任者对他的逻辑进行了系统化，并进行了一些补充。
 
 从公元前 100 年至公元 250 年的逻辑学发展大部分仍然是未知的，但毫无疑问逻辑学是经常被研究和研究的主题之一。某个时候，亚里士多德学派和斯多葛学派开始注意到彼此的逻辑系统，并且我们可以看到两种术语和理论的一些混合。亚里士多德的三段论被称为“范畴三段论”，斯多葛学派对亚里士多德三段论的改编被称为“假设三段论”。在公元 2 世纪，加伦试图综合这两个传统；他还声称引入了第三种三段论，即“关系三段论”，显然是为了帮助形式化数学推理。一些中期柏拉图主义者（公元前 1 世纪至公元 2 世纪）试图声称柏拉图式逻辑，但失败了，取而代之的是新柏拉图主义者（公元 3 至 6 世纪）采用了一种学院化的亚里士多德逻辑作为自己的逻辑。在希腊评论家对亚里士多德逻辑著作的巨大（尽管很少有创造性）的卷册中，我们发现了斯多葛学派和后来的亚里士多德学派逻辑以及柏拉图主义、古代数学和修辞学的元素。对于阿普列乌斯（公元 2 世纪）和博伊修斯（公元 6 世纪）的拉丁逻辑著作也是如此，它们为亚里士多德逻辑的进入中世纪时代铺平了道路。
-
- 
 
 ***
 
@@ -62,11 +60,11 @@ _首次发表于2006年12月13日，实质性修订于2020年4月15日。_
 
 演绎中的另一个创新是亚里士多德使用字母代替术语。这些字母最初可能只是术语的缩写（例如，《后分析》A 13）；但在演绎中，它们似乎主要具有以下功能：作为示意性术语字母或假定但未声明的具有普遍量词的术语变量。当亚里士多德使用字母时，他倾向于以下列方式表达四种类型的范畴句（括号中为常见的后期缩写）：
 
-| A 适用于（字面上，属于）每个 B | (_A_a_B_) |
+| A 适用于（字面上，属于）每个 B | (*A_a_B*) |
 | ----------------- | --------- |
-| A 对 B 不成立         | (_A_e_B_) |
-| A 对某些 B 成立        | (_A_i_B_) |
-| A 对某些 B 不成立       | (_A_o_B_) |
+| A 对 B 不成立         | (*A_e_B*) |
+| A 对某些 B 成立        | (*A_i_B*) |
+| A 对某些 B 不成立       | (*A_o_B*) |
 
 他还使用“被断言”来代替“成立”。
 
@@ -74,8 +72,8 @@ _首次发表于2006年12月13日，实质性修订于2020年4月15日。_
 
 | **I**          | **II**         | **III**        |
 | -------------- | -------------- | -------------- |
-| _A_holds of_B_ | _B_holds of_A_ | _A_holds of_B_ |
-| _B_holds of_C_ | _B_holds of_C_ | _C_holds of_B_ |
+| *A_holds of_B* | *B_holds of_A* | *A_holds of_B* |
+| *B_holds of_C* | *B_holds of_C* | *C_holds of_B* |
 
 A 也被称为主要术语，C 为次要术语。每个图式还可以根据前提是否都是普遍的进行进一步分类。亚里士多德系统地遍历了五十八种可能的前提组合，并表明其中十四种具有必然的结论，即是三段论。他的步骤是这样的：他假设第一图式的三段论是完备的，不需要证明，因为它们是显而易见的。相比之下，第二和第三图式的三段论是不完备的，需要证明。他通过将它们化简为第一图式的三段论来证明它们，从而“完成”它们。为此，他使用了三种方法：
 
@@ -115,8 +113,8 @@ A 也被称为主要术语，C 为次要术语。每个图式还可以根据前�
 
 这里Φ(X)和Ψ(X)代表分类句子，其中变量 X 代替了其中一个术语。例如：
 
-1. _A_ \[holds] of all of that of all of which _B_ \[holds].
-2. _A_ \[holds] of none of that which \[holds] of all _B_.
+1. *A* \[holds] of all of that of all of which *B* \[holds].
+2. *A* \[holds] of none of that which \[holds] of all *B*.
 
 Theophrastus 认为这样的前提包含三个术语，其中两个是确定的（A，B），一个是不确定的（“那个”，或者是绑定变量 X）。我们可以表示（1）和（2）为
 
@@ -306,178 +304,178 @@ Diodorus 对可能性的定义排除了未来的偶然事件，并暗示了仅�
 
 ### Greek and Latin Texts
 
-* Alcinous, _Enseignement des doctrines de Platon_, J. Whittaker (ed.), Paris: Bude, 1990.
-* Alexander of Aphrodisias, _On Aristotle’s Prior Analytics_ _1_. _Commentaria in Aristotelem Graeca_, Vol. 2.1, M. Wallies (ed.), Berlin: Reimer, 1883.
-* Alexander of Aphrodisias, _On Aristotle’s Topics_. _Commentaria in Aristotelem Graeca_, Vol. 2.2., M Wallies (ed.), Berlin: Reimer, 1891.
-* Apuleius, _Peri Hermeneias_ in Apuleius, _De Philosophia libri_, C. Moreschini, (ed.), Stuttgart / Leipzig: Teubner, 1991. (Apulei opera quae supersunt vol.3.)
-* Aristotle, _Analytica Priora et Posteriora_, L. Minio-Paluello (ed.), Oxford: Oxford University Press, 1964.
-* Aristotle, _Categoriae et Liber de interpretatione_, L. Minio-Paluello (ed.), Oxford: Oxford University Press, 1949.
-* Aristotle, _Metaphysica_, W. Jaeger (ed.), Oxford: Oxford University Press, 1957.
-* Aristotle, _Topica et Sophistici Elenchi_, W.D. Ross (ed.), Oxford: Oxford University Press, 1958.
-* Boethius, _De hypotheticis syllogismis_, L. Obertello (ed.), with Italian translation, Brescia: Paideia, 1969. (Istituto di Filosofia dell’Università di Parma, Logicalia 1.)
-* Boethius, _De topicis differentiis_, D.Z. Nikitas (ed.), in Boethius, _De topicis differentiis kai hoi buzantines metafraseis tou Manouel Holobolou kai Prochorou Kudone_, Athens/Paris/Brussels: Academy of Athens/Vrin/Ousia, 1969.
-* Boethius, _In librum Aristotelis De interpretatione—secunda editio_, C. Meiser (ed.), Leipzig, 1880.
-* Cicero, M. Tullius, _Academica posteriora—Academica priora (Academicorum reliquiae cum Lucullo)_, O. Plasberg (ed.), Leipzig: Teubner, 1922; reprinted Stuttgart 1966. (Stoics, Epicureans)
-* Cicero, M. Tullius, _De divinatione—De fato—Timaeus_, W. Ax (ed.), Leipzig: Teubner, 1938; reprinted Stuttgart, 1965. (Stoics, Epicureans)
-* Diels, H. (ed.), _Commentaria in Aristotelem Graeca_, Berlin: Reimer, 1882–1909.
-* Diodorus Cronus, in _Die Megariker. Kommentierte Sammlung der Testimonien_, K. Döring (ed.), Amsterdam: Gruener, 1972, 28–45 and 124–139. (Diodorus and Philo)
-* Diogenes Laertius, _Lives of the Philosophers_, 2 vols., M. Marcovich (ed.), Stuttgart & Leipzig: Teubner, 1999.
-* Dissoi Logoi, _Contrasting Arguments—An Edition of the Dissoi Logoi_, T. M. Robinson (ed.), London, 1979.
-* Epicurus: Arrighetti, G., (ed.), _Epicuro Opere_, 2nd edition, Turin: Einaudi, 1973. (Collection of Epicurean fragments.)
-* Epicurus: Usener, H., (ed.), _Epicurea_, Leipzig: Teubner, 1887. (Collection of Epicurean fragments.)
-* Galen, _Institutio Logica_, K. Kalbfleisch (ed.), Leipzig, 1896.
-* Giannantoni, G., (ed.), _Socratis et Socraticorum Reliquiae_ (4 volumes), _Elenchos_ 18, Naples, 1983–1990.
-* Plato, _Euthydemus_, in _Platonis Opera_, vol. III, J. Burnet (ed.) Oxford: Oxford University Press, 1903.
-* Plato, _Republic_, in _Platonis Opera_, vol. IV, J. Burnet (ed.) Oxford: Oxford University Press, 1902.
-* Plato, _Sophistes_, in _Platonis Opera_, vol. I, J. Burnet (ed.), Oxford: Oxford University Press, 1900.
-* Porphyry, Isagoge _Commentaria in Aristotelem Graeca_, Vol 4.1, A. Busse (ed.), Berlin, 1887.
-* Sextus Empiricus, _Works_, 3 vols, H. Mutschmann and J. Mau (eds), Leipzig: Teubner, 1914–61.
-* Stoics, in _Die Fragmente zur Dialektik der Stoiker_, K. Hülser (ed.), 4 volumes, Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1987–8.
-* Theophrastus, _Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence_, P.M. Huby (ed.), Leiden: Brill, 1992, 114–275.
-* Zeno, in _Die Fragmente der Vorsokratiker_, H. Diels and W. Kranz (eds.), Berlin: Weidmann, 1951.
+* Alcinous, *Enseignement des doctrines de Platon*, J. Whittaker (ed.), Paris: Bude, 1990.
+* Alexander of Aphrodisias, *On Aristotle’s Prior Analytics* *1*. *Commentaria in Aristotelem Graeca*, Vol. 2.1, M. Wallies (ed.), Berlin: Reimer, 1883.
+* Alexander of Aphrodisias, *On Aristotle’s Topics*. *Commentaria in Aristotelem Graeca*, Vol. 2.2., M Wallies (ed.), Berlin: Reimer, 1891.
+* Apuleius, *Peri Hermeneias* in Apuleius, *De Philosophia libri*, C. Moreschini, (ed.), Stuttgart / Leipzig: Teubner, 1991. (Apulei opera quae supersunt vol.3.)
+* Aristotle, *Analytica Priora et Posteriora*, L. Minio-Paluello (ed.), Oxford: Oxford University Press, 1964.
+* Aristotle, *Categoriae et Liber de interpretatione*, L. Minio-Paluello (ed.), Oxford: Oxford University Press, 1949.
+* Aristotle, *Metaphysica*, W. Jaeger (ed.), Oxford: Oxford University Press, 1957.
+* Aristotle, *Topica et Sophistici Elenchi*, W.D. Ross (ed.), Oxford: Oxford University Press, 1958.
+* Boethius, *De hypotheticis syllogismis*, L. Obertello (ed.), with Italian translation, Brescia: Paideia, 1969. (Istituto di Filosofia dell’Università di Parma, Logicalia 1.)
+* Boethius, *De topicis differentiis*, D.Z. Nikitas (ed.), in Boethius, *De topicis differentiis kai hoi buzantines metafraseis tou Manouel Holobolou kai Prochorou Kudone*, Athens/Paris/Brussels: Academy of Athens/Vrin/Ousia, 1969.
+* Boethius, *In librum Aristotelis De interpretatione—secunda editio*, C. Meiser (ed.), Leipzig, 1880.
+* Cicero, M. Tullius, *Academica posteriora—Academica priora (Academicorum reliquiae cum Lucullo)*, O. Plasberg (ed.), Leipzig: Teubner, 1922; reprinted Stuttgart 1966. (Stoics, Epicureans)
+* Cicero, M. Tullius, *De divinatione—De fato—Timaeus*, W. Ax (ed.), Leipzig: Teubner, 1938; reprinted Stuttgart, 1965. (Stoics, Epicureans)
+* Diels, H. (ed.), *Commentaria in Aristotelem Graeca*, Berlin: Reimer, 1882–1909.
+* Diodorus Cronus, in *Die Megariker. Kommentierte Sammlung der Testimonien*, K. Döring (ed.), Amsterdam: Gruener, 1972, 28–45 and 124–139. (Diodorus and Philo)
+* Diogenes Laertius, *Lives of the Philosophers*, 2 vols., M. Marcovich (ed.), Stuttgart & Leipzig: Teubner, 1999.
+* Dissoi Logoi, *Contrasting Arguments—An Edition of the Dissoi Logoi*, T. M. Robinson (ed.), London, 1979.
+* Epicurus: Arrighetti, G., (ed.), *Epicuro Opere*, 2nd edition, Turin: Einaudi, 1973. (Collection of Epicurean fragments.)
+* Epicurus: Usener, H., (ed.), *Epicurea*, Leipzig: Teubner, 1887. (Collection of Epicurean fragments.)
+* Galen, *Institutio Logica*, K. Kalbfleisch (ed.), Leipzig, 1896.
+* Giannantoni, G., (ed.), *Socratis et Socraticorum Reliquiae* (4 volumes), *Elenchos* 18, Naples, 1983–1990.
+* Plato, *Euthydemus*, in *Platonis Opera*, vol. III, J. Burnet (ed.) Oxford: Oxford University Press, 1903.
+* Plato, *Republic*, in *Platonis Opera*, vol. IV, J. Burnet (ed.) Oxford: Oxford University Press, 1902.
+* Plato, *Sophistes*, in *Platonis Opera*, vol. I, J. Burnet (ed.), Oxford: Oxford University Press, 1900.
+* Porphyry, Isagoge *Commentaria in Aristotelem Graeca*, Vol 4.1, A. Busse (ed.), Berlin, 1887.
+* Sextus Empiricus, *Works*, 3 vols, H. Mutschmann and J. Mau (eds), Leipzig: Teubner, 1914–61.
+* Stoics, in *Die Fragmente zur Dialektik der Stoiker*, K. Hülser (ed.), 4 volumes, Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1987–8.
+* Theophrastus, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence*, P.M. Huby (ed.), Leiden: Brill, 1992, 114–275.
+* Zeno, in *Die Fragmente der Vorsokratiker*, H. Diels and W. Kranz (eds.), Berlin: Weidmann, 1951.
 
 ### Translations of Greek and Latin Texts
 
-* Ackrill, J. L., (trans. & comm.), 1961, _Aristotle’s Categories and De Interpretatione_, Oxford: Clarendon Press.
-* Annas, J. and J. Barnes, (trans.), 2000, _Sextus Empiricus._ _Outlines of Scepticism_, 2nd edition, New York: Cambridge University Press.
-* Barnes, J., (trans. & comm.), 1975, _Aristotle, Posterior Analytics_, Oxford: Clarendon Press. 2nd Ed. 1996.
-* –––, (trans. and comm.), 1987, _Early Greek Philosophy_, London: Penguin Books. (Zeno)
-* –––, (trans.), 2003, _Porphyry’s Introduction_, Oxford: Oxford University Press. (Porphyry: _Isagoge_).
-* Barnes, J., and S. Bobzien, K. Ierodiakonou, (trans.), 1991, _Alexander of Aphrodisias on Aristotle’s Prior Analytics 1.1–7_, London: Duckworth.
-* Blank, D., (trans.), 1998, _Ammonius On Aristotle’s On Interpretation 9_ (with N. Kretzmann, trans.), _Boethius On Aristotle’s On Interpretation 9 1.1–7_, London: Duckworth.
-* Brittain, C. (trans.), 2006, Cicero: _On Academic Scepticism_ (= Academica) Indianapolis: Hackett. (Stoics, Epicureans)
-* Bury R. G., (trans.), 1933–1949, _Sextus Empiricus_, 4 vols., Loeb Classical Library. Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd., Loeb Classical Library, vols 1 and 2.
-* De Lacy, Ph. H. and E. A. De Lacy, (trans.), 1978, _Philodemus_. _On Methods of Inference_, 2nd Ed., Naples: Bibliopolis. (Epicureans)
-* Dillon, J. M., 1993, _Alcinous. The Handbook of Platonism_, Oxford: Oxford University Press.
-* Dorion, L.-A., (trans & comm.), 1995, _Aristote: Les refutations sophistiques_, Paris: J. Vrin.
-* Hicks, R.D., (trans.), 1925, _Diogenes Laertius_, _Lives of Eminent Philosophers_, 2 volumes, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd., Loeb Classical Library. (Protagoras Alcidamas, Antisthenes, Eubulides, Stoics)
-* Huby, P.M., (trans.), 1992, in W. W. Fortenbaugh (ed.), _Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence_, texts & tr., Leiden: Brill, 114–275.
-* Hülser, K. (trans.), 1987–8, _Die Fragmente zur Dialektik der Stoiker_, 4 volumes, Stuttgart-Bad Cannstatt: Frommann-Holzboog. (Stoics; Chrysippus)
-* Kieffer, J. S. (trans), 1964, _Galen’s Institutio logica_, Baltimore: Johns Hopkins University Press.
-* Lee, D. (trans. & comm.), 1955, 1974, _Plato._ _The Republic_, New York: Penguin Books.
-* Londey, D. and C. Johanson, (trans.), 1988, _The Logic of Apuleius_, Leiden: Brill.
-* McCabe, M.M., (trans. & comm.), 2005, _Plato_, _Euthydemus_, Cambridge: Cambridge University Press.
-* Mueller I., with J. Gould, (trans.), 1999, _Alexander of Aphrodisias on Aristotle’s Prior Analytics_ _I.8–13._ and _I,14–22_, 2 volumes, London: Duckworth.
-* Oldfather, W. A., (trans.), 1925–8, _Epictetus_, _The Discourses, The Manual and Fragments_, 2 vols, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd., Loeb Classical Library. (Stoics)
-* Ophuisen, J. M. van, (trans.), 2001, _Alexander of Aphrodisias on Aristotle’s Topics 1_, London: Duckworth.
-* Pickard-Cambridge, W. A. (trans.), 1984, Aristotle, _Topics and_ _Sophistical Refutations_, in _The Complete Works of Aristotle_, The Revised Oxford Translation, vol. 1, J. Barnes (ed.), Princeton: Princeton University Press.
-* Ross, W. D. (trans.), Aristotle, _Metaphysics_, in _The Complete Works of Aristotle_, The Revised Oxford Translation, vol. 2, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
-* Sharples, R. W., 1991, _Cicero: On Fate & Boethius: The Consolations of Philosophy_ IV.5–7, V, Warminster: Oxbow Books. (Stoics, Epicureans)
-* Smith, A., (trans.), 2014, _Boethius on Aristotle’s On Interpretation 1–3 1.1–7_, London: Bloomsbury.
-* –––, (trans.), 2014, _Boethius on Aristotle’s On Interpretation 4–6 1.1–7_, London: Bloomsbury.
-* Smith, R., (trans. & comm.), 1989, _Aristotle’s Prior Analytics_, Indianapolis: Hackett.
-* –––, (trans. & comm.), 1997, _Aristotle, Topics I, VIII, and Selections_, Oxford: Clarendon Press.
-* Striker, G., (trans. & comm.), 2009, _Aristotle, Prior Analytics: Book I_, Oxford: Oxford University Press.
-* Stump, E., (trans.), 1978, _Boethius’s ‘De topicis differentiis’_, Ithaca/London: Cornell University Press.
-* Waterfield, R., (trans.), 2000, _The First Philosophers: The Presocratics and The Sophists_, Oxford: Oxford University Press (_Dissoi Logoi_ and Sophists).
-* Weidemann, H., (trans. & comm.), 1994, _Aristoteles, De Interpretatione_, Berlin: Akademie Verlag.
-* White N. P., (trans.), 1993, _Plato: Sophist_, Indianapolis: Hackett.
-* Whittaker, J. (trans.), 1990, _Alcinous._ _Enseignement des doctrines de Platon_, Paris: Bude.
+* Ackrill, J. L., (trans. & comm.), 1961, *Aristotle’s Categories and De Interpretatione*, Oxford: Clarendon Press.
+* Annas, J. and J. Barnes, (trans.), 2000, *Sextus Empiricus.* *Outlines of Scepticism*, 2nd edition, New York: Cambridge University Press.
+* Barnes, J., (trans. & comm.), 1975, *Aristotle, Posterior Analytics*, Oxford: Clarendon Press. 2nd Ed. 1996.
+* –––, (trans. and comm.), 1987, *Early Greek Philosophy*, London: Penguin Books. (Zeno)
+* –––, (trans.), 2003, *Porphyry’s Introduction*, Oxford: Oxford University Press. (Porphyry: *Isagoge*).
+* Barnes, J., and S. Bobzien, K. Ierodiakonou, (trans.), 1991, *Alexander of Aphrodisias on Aristotle’s Prior Analytics 1.1–7*, London: Duckworth.
+* Blank, D., (trans.), 1998, *Ammonius On Aristotle’s On Interpretation 9* (with N. Kretzmann, trans.), *Boethius On Aristotle’s On Interpretation 9 1.1–7*, London: Duckworth.
+* Brittain, C. (trans.), 2006, Cicero: *On Academic Scepticism* (= Academica) Indianapolis: Hackett. (Stoics, Epicureans)
+* Bury R. G., (trans.), 1933–1949, *Sextus Empiricus*, 4 vols., Loeb Classical Library. Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd., Loeb Classical Library, vols 1 and 2.
+* De Lacy, Ph. H. and E. A. De Lacy, (trans.), 1978, *Philodemus*. *On Methods of Inference*, 2nd Ed., Naples: Bibliopolis. (Epicureans)
+* Dillon, J. M., 1993, *Alcinous. The Handbook of Platonism*, Oxford: Oxford University Press.
+* Dorion, L.-A., (trans & comm.), 1995, *Aristote: Les refutations sophistiques*, Paris: J. Vrin.
+* Hicks, R.D., (trans.), 1925, *Diogenes Laertius*, *Lives of Eminent Philosophers*, 2 volumes, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd., Loeb Classical Library. (Protagoras Alcidamas, Antisthenes, Eubulides, Stoics)
+* Huby, P.M., (trans.), 1992, in W. W. Fortenbaugh (ed.), *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence*, texts & tr., Leiden: Brill, 114–275.
+* Hülser, K. (trans.), 1987–8, *Die Fragmente zur Dialektik der Stoiker*, 4 volumes, Stuttgart-Bad Cannstatt: Frommann-Holzboog. (Stoics; Chrysippus)
+* Kieffer, J. S. (trans), 1964, *Galen’s Institutio logica*, Baltimore: Johns Hopkins University Press.
+* Lee, D. (trans. & comm.), 1955, 1974, *Plato.* *The Republic*, New York: Penguin Books.
+* Londey, D. and C. Johanson, (trans.), 1988, *The Logic of Apuleius*, Leiden: Brill.
+* McCabe, M.M., (trans. & comm.), 2005, *Plato*, *Euthydemus*, Cambridge: Cambridge University Press.
+* Mueller I., with J. Gould, (trans.), 1999, *Alexander of Aphrodisias on Aristotle’s Prior Analytics* *I.8–13.* and *I,14–22*, 2 volumes, London: Duckworth.
+* Oldfather, W. A., (trans.), 1925–8, *Epictetus*, *The Discourses, The Manual and Fragments*, 2 vols, Cambridge, Massachusetts: Harvard University Press; London: William Heinemann Ltd., Loeb Classical Library. (Stoics)
+* Ophuisen, J. M. van, (trans.), 2001, *Alexander of Aphrodisias on Aristotle’s Topics 1*, London: Duckworth.
+* Pickard-Cambridge, W. A. (trans.), 1984, Aristotle, *Topics and* *Sophistical Refutations*, in *The Complete Works of Aristotle*, The Revised Oxford Translation, vol. 1, J. Barnes (ed.), Princeton: Princeton University Press.
+* Ross, W. D. (trans.), Aristotle, *Metaphysics*, in *The Complete Works of Aristotle*, The Revised Oxford Translation, vol. 2, J. Barnes (ed.), Princeton: Princeton University Press, 1984.
+* Sharples, R. W., 1991, *Cicero: On Fate & Boethius: The Consolations of Philosophy* IV.5–7, V, Warminster: Oxbow Books. (Stoics, Epicureans)
+* Smith, A., (trans.), 2014, *Boethius on Aristotle’s On Interpretation 1–3 1.1–7*, London: Bloomsbury.
+* –––, (trans.), 2014, *Boethius on Aristotle’s On Interpretation 4–6 1.1–7*, London: Bloomsbury.
+* Smith, R., (trans. & comm.), 1989, *Aristotle’s Prior Analytics*, Indianapolis: Hackett.
+* –––, (trans. & comm.), 1997, *Aristotle, Topics I, VIII, and Selections*, Oxford: Clarendon Press.
+* Striker, G., (trans. & comm.), 2009, *Aristotle, Prior Analytics: Book I*, Oxford: Oxford University Press.
+* Stump, E., (trans.), 1978, *Boethius’s ‘De topicis differentiis’*, Ithaca/London: Cornell University Press.
+* Waterfield, R., (trans.), 2000, *The First Philosophers: The Presocratics and The Sophists*, Oxford: Oxford University Press (*Dissoi Logoi* and Sophists).
+* Weidemann, H., (trans. & comm.), 1994, *Aristoteles, De Interpretatione*, Berlin: Akademie Verlag.
+* White N. P., (trans.), 1993, *Plato: Sophist*, Indianapolis: Hackett.
+* Whittaker, J. (trans.), 1990, *Alcinous.* *Enseignement des doctrines de Platon*, Paris: Bude.
 
 ### Secondary Literature
 
 #### General
 
-* Anderson, A. R. and N. D. Belnap Jr., 1975, _Entailment: The Logic of Relevance and Necessity_, vol. I, Princeton: Princeton University Press.
-* Barnes, J., 2007, _Truth, etc._, Oxford: Oxford University Press.
-* Barnes, J., et al., 1999, “Logic”, in Keimpe Algra, et al. (eds.), _The Cambridge History of Hellenistic Philosophy_, Cambridge: Cambridge University Press, 77–176.
-* Kneale, M. and W. Kneale, 1962, _The Development of Logic_, Oxford: Clarendon Press.
+* Anderson, A. R. and N. D. Belnap Jr., 1975, *Entailment: The Logic of Relevance and Necessity*, vol. I, Princeton: Princeton University Press.
+* Barnes, J., 2007, *Truth, etc.*, Oxford: Oxford University Press.
+* Barnes, J., et al., 1999, “Logic”, in Keimpe Algra, et al. (eds.), *The Cambridge History of Hellenistic Philosophy*, Cambridge: Cambridge University Press, 77–176.
+* Kneale, M. and W. Kneale, 1962, *The Development of Logic*, Oxford: Clarendon Press.
 
 #### The Beginnings
 
-* Bailey, D.T.J., 2008, “Excavating Dissoi Logoi 4”, _Oxford Studies in Ancient Philosophy_, 35: 249–264.
-* Frede, M., 1992, “Plato’s _Sophist_ on false statements”, in _The Cambridge companion to Plato_, R. Kraut (ed.), Cambridge: Cambridge University Press, 397–424.
-* Kapp, E., 1942, _Greek Foundations of Traditional Logic_, New York: Columbia University Press.
-* Mueller, I., 1974, “Greek Mathematics and Greek Logic”, in J. Corcoran (ed.), _Ancient Logic and its Modern Interpretation_, Dordrecht: Kluwer Academic Publishers, 35–70.
-* Netz R., 1999, _The Shaping of Deduction in Greek Mathematics: a study in cognitive history_, Cambridge: Cambridge University Press.
-* Robinson, R., 1953, _Plato’s Earlier Dialectic_, 2nd edition, Ithaca, N.Y.: Cornell University Press.
-* Salmon, W. C., 2001, _Zeno’s Paradoxes_, 2nd edition, Indianapolis: Hackett Publishing Co. Inc.
+* Bailey, D.T.J., 2008, “Excavating Dissoi Logoi 4”, *Oxford Studies in Ancient Philosophy*, 35: 249–264.
+* Frede, M., 1992, “Plato’s *Sophist* on false statements”, in *The Cambridge companion to Plato*, R. Kraut (ed.), Cambridge: Cambridge University Press, 397–424.
+* Kapp, E., 1942, *Greek Foundations of Traditional Logic*, New York: Columbia University Press.
+* Mueller, I., 1974, “Greek Mathematics and Greek Logic”, in J. Corcoran (ed.), *Ancient Logic and its Modern Interpretation*, Dordrecht: Kluwer Academic Publishers, 35–70.
+* Netz R., 1999, *The Shaping of Deduction in Greek Mathematics: a study in cognitive history*, Cambridge: Cambridge University Press.
+* Robinson, R., 1953, *Plato’s Earlier Dialectic*, 2nd edition, Ithaca, N.Y.: Cornell University Press.
+* Salmon, W. C., 2001, *Zeno’s Paradoxes*, 2nd edition, Indianapolis: Hackett Publishing Co. Inc.
 
 #### Aristotle
 
-* Barnes, J. , 1981, “Proof and the Syllogism”, in E. Berti (ed.), _Aristotle on Science: the ‘Posterior Analytics’_, Padua: Antenore, 17–59.
-* Corcoran, J., 1974, “Aristotle’s Natural Deduction System”, in Corcoran, J. (ed.) _Ancient Logic and its Modern Interpretation_, Dordrecht: Kluwer Academic Publishers, 85–131.
-* Evans, J.D.G., 1975, “The Codification of False Refutations in Aristotle’s De Sophistici Elenchis”, _Proceedings of the Cambridge Philological Society_, 201: 45–52.
-* Frede, D., 1985, “The sea-battle reconsidered. A defence of the traditional interpretation”, _Oxford Studies in Ancient Philosophy_, 3: 31–87.
-* Frede, M., 1987, “The Title, Unity, and Authenticity of the Aristotelian _Categories_”, in M. Frede, _Essays in Ancient Philosophy_, Minneapolis: University of Minnesota Press, 11–28.
-* Kretzmann, N., 1974, “Aristotle on Spoken Sounds Significant by Convention”, in J. Corcoran (ed.), _Ancient Logic and its Modern Interpretation_, Dordrecht: Kluwer Academic Publishers, 3–21.
-* Lear, J., 1980, _Aristotle and Logical Theory_, Cambridge: Cambridge University Press.
-* Łukasiewicz, J., 1957, _Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic_, 2nd edition, Oxford: Clarendon Press.
-* Malink, M., 2013, _Aristotle’s Modal Syllogistic_, Cambridge, MA: Harvard University Press.
-* Owen, G. E. L., (ed.) 1968, _Aristotle on Dialectic: The Topics_ (Proceedings of the Third Symposium Aristotelicum), Cambridge: Cambridge University Press.
-* Owen, G.E.L., 1965, “Inherence”, _Phronesis_, 10: 97–105.
-* Patterson, R., 1995, _Aristotle’s Modal Logic: Essence and Entailment in the Organon_, Cambridge: Cambridge University Press.
-* Patzig, Günther, 1969, _Aristotle’s Theory of the Syllogism_, J. Barnes (trans.), Dordrecht: D. Reidel.
-* Primavesi, O., 1996, _Die aristotelische Topik_, Munich: C. H. Beck.
-* Smiley, T., 1974, “What Is a Syllogism?”, _Journal of Philosophical Logic_, 1: 136–154.
-* Smith, R., 1983, “What is Aristotelian Ecthesis?”, _History and Philosophy of Logic_, 24: 224–32.
-* –––, 1994, “Logic”, in _The Cambridge Companion to Aristotle_, J. Barnes (ed.), Cambridge: Cambridge University Press, 27–65.
-* –––, “Aristotle’s Logic”, _The Stanford Encyclopedia of Philosophy_ (Fall 2004 Edition), Edward N. Zalta (ed.), URL = <[Aristotle's Logic (Stanford Encyclopedia of Philosophy/Fall 2004 Edition)](https://plato.stanford.edu/archives/fall2004/entries/aristotle-logic/)>.
-* Steinkrüger, P., 2015, “Aristotle’s assertoric syllogistic and modern relevance logic”, _Synthese_, 192: 1413–1444.
-* Striker, G., 1979, “Aristoteles über Syllogismen ‘Aufgrund einer Hypothese’”, _Hermes_, 107: 33–50.
-* –––, 1994, “Modal vs. Assertoric Syllogismsc”, _Ancient Philosophy_, 14: 39–51.
-* Whitaker, C. W. A., 1996, _Aristotle’s De Interpretatione: Contradiction and Dialectic_, Oxford: Clarendon Press.
+* Barnes, J. , 1981, “Proof and the Syllogism”, in E. Berti (ed.), *Aristotle on Science: the ‘Posterior Analytics’*, Padua: Antenore, 17–59.
+* Corcoran, J., 1974, “Aristotle’s Natural Deduction System”, in Corcoran, J. (ed.) *Ancient Logic and its Modern Interpretation*, Dordrecht: Kluwer Academic Publishers, 85–131.
+* Evans, J.D.G., 1975, “The Codification of False Refutations in Aristotle’s De Sophistici Elenchis”, *Proceedings of the Cambridge Philological Society*, 201: 45–52.
+* Frede, D., 1985, “The sea-battle reconsidered. A defence of the traditional interpretation”, *Oxford Studies in Ancient Philosophy*, 3: 31–87.
+* Frede, M., 1987, “The Title, Unity, and Authenticity of the Aristotelian *Categories*”, in M. Frede, *Essays in Ancient Philosophy*, Minneapolis: University of Minnesota Press, 11–28.
+* Kretzmann, N., 1974, “Aristotle on Spoken Sounds Significant by Convention”, in J. Corcoran (ed.), *Ancient Logic and its Modern Interpretation*, Dordrecht: Kluwer Academic Publishers, 3–21.
+* Lear, J., 1980, *Aristotle and Logical Theory*, Cambridge: Cambridge University Press.
+* Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, 2nd edition, Oxford: Clarendon Press.
+* Malink, M., 2013, *Aristotle’s Modal Syllogistic*, Cambridge, MA: Harvard University Press.
+* Owen, G. E. L., (ed.) 1968, *Aristotle on Dialectic: The Topics* (Proceedings of the Third Symposium Aristotelicum), Cambridge: Cambridge University Press.
+* Owen, G.E.L., 1965, “Inherence”, *Phronesis*, 10: 97–105.
+* Patterson, R., 1995, *Aristotle’s Modal Logic: Essence and Entailment in the Organon*, Cambridge: Cambridge University Press.
+* Patzig, Günther, 1969, *Aristotle’s Theory of the Syllogism*, J. Barnes (trans.), Dordrecht: D. Reidel.
+* Primavesi, O., 1996, *Die aristotelische Topik*, Munich: C. H. Beck.
+* Smiley, T., 1974, “What Is a Syllogism?”, *Journal of Philosophical Logic*, 1: 136–154.
+* Smith, R., 1983, “What is Aristotelian Ecthesis?”, *History and Philosophy of Logic*, 24: 224–32.
+* –––, 1994, “Logic”, in *The Cambridge Companion to Aristotle*, J. Barnes (ed.), Cambridge: Cambridge University Press, 27–65.
+* –––, “Aristotle’s Logic”, *The Stanford Encyclopedia of Philosophy* (Fall 2004 Edition), Edward N. Zalta (ed.), URL = <[Aristotle's Logic (Stanford Encyclopedia of Philosophy/Fall 2004 Edition)](https://plato.stanford.edu/archives/fall2004/entries/aristotle-logic/)>.
+* Steinkrüger, P., 2015, “Aristotle’s assertoric syllogistic and modern relevance logic”, *Synthese*, 192: 1413–1444.
+* Striker, G., 1979, “Aristoteles über Syllogismen ‘Aufgrund einer Hypothese’”, *Hermes*, 107: 33–50.
+* –––, 1994, “Modal vs. Assertoric Syllogismsc”, *Ancient Philosophy*, 14: 39–51.
+* Whitaker, C. W. A., 1996, *Aristotle’s De Interpretatione: Contradiction and Dialectic*, Oxford: Clarendon Press.
 
 #### Theophrastus and Eudemus
 
-* Barnes, J., 1985, “Theophrastus and Hypothetical Syllogistic”, in J. Wiesner (ed.), _Aristoteles: Werk und Wirkung_ I, Berlin, 557–76.
-* Bobzien, S., 2000, “Wholly hypothetical syllogisms”, _Phronesis_, 45: 87–137.
-* –––, 2012, “How to give someone Horns – Paradoxes of Presupposition in Antiquity”, _Logical Analysis and History of Philosophy_, 15: 159–184.
-* Bochenski, I.M., 1947, _La Logique de Théophraste_, Fribourg: Librairie de l’Université; reprinted 1987.
-* Lejewski, Czesław, 1976, “On prosleptic premisses”, _Notre Dame Journal of Formal Logic_, 17: 1–18.
-* –––, 1961, “On prosleptic syllogisms”, _Notre Dame Journal of Formal Logic_, 2: 158–176.
+* Barnes, J., 1985, “Theophrastus and Hypothetical Syllogistic”, in J. Wiesner (ed.), *Aristoteles: Werk und Wirkung* I, Berlin, 557–76.
+* Bobzien, S., 2000, “Wholly hypothetical syllogisms”, *Phronesis*, 45: 87–137.
+* –––, 2012, “How to give someone Horns – Paradoxes of Presupposition in Antiquity”, *Logical Analysis and History of Philosophy*, 15: 159–184.
+* Bochenski, I.M., 1947, *La Logique de Théophraste*, Fribourg: Librairie de l’Université; reprinted 1987.
+* Lejewski, Czesław, 1976, “On prosleptic premisses”, *Notre Dame Journal of Formal Logic*, 17: 1–18.
+* –––, 1961, “On prosleptic syllogisms”, *Notre Dame Journal of Formal Logic*, 2: 158–176.
 
 #### Diodorus Cronus and Philo the Logician
 
-* Bobzien, S., 1993, “Chrysippus’ modal logic and its relation to Philo and Diodorus”, in _Dialektiker und Stoiker_, K. Döring and Th. Ebert (eds.), Stuttgart: Franz Steiner.
-* Denyer, N.C., 1981, “Time and Modality in Diodorus Cronus”, _Theoria_, 47: 31–53.
-* Prior, A.N., 1955, “Diodorean Modalities”, _The Philosophical Quarterly_, 5: 205–213.
-* –––, 1967, _Past, Present, and Future_, Oxford: Clarendon Press, chapters II.1–2 and III.1.
-* Sedley, D., 1977, “Diodorus Cronus and Hellenistic Philosophy”, _Proceedings of the Cambridge Philological Society_, 203 (NS 23): 74–120.
+* Bobzien, S., 1993, “Chrysippus’ modal logic and its relation to Philo and Diodorus”, in *Dialektiker und Stoiker*, K. Döring and Th. Ebert (eds.), Stuttgart: Franz Steiner.
+* Denyer, N.C., 1981, “Time and Modality in Diodorus Cronus”, *Theoria*, 47: 31–53.
+* Prior, A.N., 1955, “Diodorean Modalities”, *The Philosophical Quarterly*, 5: 205–213.
+* –––, 1967, *Past, Present, and Future*, Oxford: Clarendon Press, chapters II.1–2 and III.1.
+* Sedley, D., 1977, “Diodorus Cronus and Hellenistic Philosophy”, *Proceedings of the Cambridge Philological Society*, 203 (NS 23): 74–120.
 
 #### The Stoics
 
-* Atherton, C., 1993, _The Stoics on Ambiguity_, Cambridge: Cambridge University Press.
-* Bobzien, S., 1996, “Stoic Syllogistic”, _Oxford Studies in Ancient Philosophy_, 14: 133–92.
-* –––, 1997, “Stoic Hypotheses and Hypothetical Argument”, _Phronesis_, 42: 299–312.
-* –––, 1999, “Stoic Logic”, in K. Algra, J. Barnes, J. Mansfeld, & M. Schofield (eds.), _The Cambridge History of Hellenistic Philosophy_, Cambridge: Cambridge University Press, 92–157.
-* –––, 2002, “Chrysippus and the Epistemic Theory of Vagueness” _Proceedings of the Aristotelian Society_, 102: 217–238.
-* –––, 2011, “The Combinatorics of Stoic Conjunction”, _Oxford Studies in Ancient Philosophy_, 40: 157–188.
-* Bronowski, A., 2019, _The Stoics on_ Lekta, Oxford: Oxford University Press.
-* Brunschwig, J., 1994, “Remarks on the Stoic theory of the proper noun”, in his _Papers in Hellenistic Philosophy_ Cambridge: Cambridge University Press, 39–56.
-* –––, 1994, “Remarks on the classification of simple propositions in Hellenistic logics” , in his _Papers in Hellenistic Philosophy_, Cambridge: Cambridge University Press, 57–71.
-* Cavini, W., 1993, “Chrysippus on Speaking Truly and the Liar”, in _Dialektiker und Stoiker_, K. Döring and Th. Ebert (eds), Stuttgart: Franz Steiner.
-* Crivelli, P., 1994, “Indefinite propositions and anaphora in Stoic logic” _Phronesis_, 39: 187–206.
-* Ebert, Th., 1993, “Dialecticians and Stoics on Classifying Propositions” in K. Döring and Th. Ebert (eds.), _Dialektiker und Stoiker. Zur Logik der Stoiker und ihrer Vorläufer_, Stuttgart: Steiner, 111–127.
-* Frede, M., 1974, _Die stoische Logik_, Göttingen: Vandenhoek & Ruprecht.
-* –––, 1975, “Stoic vs. Aristotelian Syllogistic”, _Archiv für Geschichte der Philosophie_, 56(1): 1–32.
-* –––, 1994 “The Stoic notion of a _lekton_”, in _Companion to ancient thought 3: Language_, Stephen Everson (ed.), Cambridge: Cambridge University Press, 109–128.
-* Gaskin, R., 1997, “The Stoics on Cases, Predicates and the Unity of the Proposition,” in _Aristotle and After_, R. Sorabji (ed.), London: Institute of Classical Studies, 91–108.
-* Lloyd, A. C., 1978, “Definite propositions and the concept of reference”, in J. Brunschwig (ed.), _Les Stoïciens et leur logique_, Paris: Vrin, 285–295.
-* Long, A. A., 1971, “Language and Thought in Stoicism”, in A. A. Long (ed.), _Problems in Stoicism_, London: Duckworth, 75–113.
-* Mates, B., 1961, _Stoic Logic_, Berkeley-Los Angeles: University of California Press.
-* McCall, S., 1966, “Connexive Implication”, _The Journal of Symbolic Logic_, 31: 415–433.
-* Schenkeveld, D.M., 1984, “Stoic and Peripatetic Kinds of Speech Act and the Distinction of Grammatical Moods” _Mnemosyne_, 37: 291–351.
+* Atherton, C., 1993, *The Stoics on Ambiguity*, Cambridge: Cambridge University Press.
+* Bobzien, S., 1996, “Stoic Syllogistic”, *Oxford Studies in Ancient Philosophy*, 14: 133–92.
+* –––, 1997, “Stoic Hypotheses and Hypothetical Argument”, *Phronesis*, 42: 299–312.
+* –––, 1999, “Stoic Logic”, in K. Algra, J. Barnes, J. Mansfeld, & M. Schofield (eds.), *The Cambridge History of Hellenistic Philosophy*, Cambridge: Cambridge University Press, 92–157.
+* –––, 2002, “Chrysippus and the Epistemic Theory of Vagueness” *Proceedings of the Aristotelian Society*, 102: 217–238.
+* –––, 2011, “The Combinatorics of Stoic Conjunction”, *Oxford Studies in Ancient Philosophy*, 40: 157–188.
+* Bronowski, A., 2019, *The Stoics on* Lekta, Oxford: Oxford University Press.
+* Brunschwig, J., 1994, “Remarks on the Stoic theory of the proper noun”, in his *Papers in Hellenistic Philosophy* Cambridge: Cambridge University Press, 39–56.
+* –––, 1994, “Remarks on the classification of simple propositions in Hellenistic logics” , in his *Papers in Hellenistic Philosophy*, Cambridge: Cambridge University Press, 57–71.
+* Cavini, W., 1993, “Chrysippus on Speaking Truly and the Liar”, in *Dialektiker und Stoiker*, K. Döring and Th. Ebert (eds), Stuttgart: Franz Steiner.
+* Crivelli, P., 1994, “Indefinite propositions and anaphora in Stoic logic” *Phronesis*, 39: 187–206.
+* Ebert, Th., 1993, “Dialecticians and Stoics on Classifying Propositions” in K. Döring and Th. Ebert (eds.), *Dialektiker und Stoiker. Zur Logik der Stoiker und ihrer Vorläufer*, Stuttgart: Steiner, 111–127.
+* Frede, M., 1974, *Die stoische Logik*, Göttingen: Vandenhoek & Ruprecht.
+* –––, 1975, “Stoic vs. Aristotelian Syllogistic”, *Archiv für Geschichte der Philosophie*, 56(1): 1–32.
+* –––, 1994 “The Stoic notion of a *lekton*”, in *Companion to ancient thought 3: Language*, Stephen Everson (ed.), Cambridge: Cambridge University Press, 109–128.
+* Gaskin, R., 1997, “The Stoics on Cases, Predicates and the Unity of the Proposition,” in *Aristotle and After*, R. Sorabji (ed.), London: Institute of Classical Studies, 91–108.
+* Lloyd, A. C., 1978, “Definite propositions and the concept of reference”, in J. Brunschwig (ed.), *Les Stoïciens et leur logique*, Paris: Vrin, 285–295.
+* Long, A. A., 1971, “Language and Thought in Stoicism”, in A. A. Long (ed.), *Problems in Stoicism*, London: Duckworth, 75–113.
+* Mates, B., 1961, *Stoic Logic*, Berkeley-Los Angeles: University of California Press.
+* McCall, S., 1966, “Connexive Implication”, *The Journal of Symbolic Logic*, 31: 415–433.
+* Schenkeveld, D.M., 1984, “Stoic and Peripatetic Kinds of Speech Act and the Distinction of Grammatical Moods” *Mnemosyne*, 37: 291–351.
 
 #### Epicurus
 
-* Atherton, C., 2005, “Lucretius on what language is not”, in D. Frede and Brad Inwood (eds.), _Language and Learning_, Cambridge: Cambridge University Press.
-* Barnes, J., 1988, “Epicurean Signs”, _Oxford Studies in Ancient Philosophy_ (Supplementary Volume), 135–44.
-* Manetti, G., 2002, “Philodemus’ ‘De signis’: An important ancient semiotic debate”, _Semiotica_, 138: 279–297.
+* Atherton, C., 2005, “Lucretius on what language is not”, in D. Frede and Brad Inwood (eds.), *Language and Learning*, Cambridge: Cambridge University Press.
+* Barnes, J., 1988, “Epicurean Signs”, *Oxford Studies in Ancient Philosophy* (Supplementary Volume), 135–44.
+* Manetti, G., 2002, “Philodemus’ ‘De signis’: An important ancient semiotic debate”, *Semiotica*, 138: 279–297.
 
 #### Later Antiquity
 
-* Barnes, J., 1993, “A Third Sort of Syllogism: Galen and the Logic of Relations” in _Modern Thinkers and Ancient Thinkers_, R. W. Sharples (ed.), Boulder, CO: Westview Press.
-* –––, 1997, _Logic and the Imperial Stoa_, Leiden: Brill.
-* Bobzien, S., 2002, “The development of _modus ponens_ in antiquity: From Aristotle to the 2nd century AD”, _Phronesis_, 47(4): 359–394.
-* –––, 2002, “Propositional logic in Ammonius” in H. Linneweber-Lammerskitten / G. Mohr (eds.), _Interpretation und Argument_, Würzburg: Königshausen & Neumann, 103–119.
-* –––, 2004, “Hypothetical Syllogistic in Galen—Propositional logic off the rails?” _Rhizai: Journal for Ancient Philosophy and Science_, 2: 57–102.
-* Ebbesen, S., 1990, “Porphyry’s legacy to logic”, in R. Sorabji, _Aristotle Transformed—The Ancient Commentators and their Influence_, London: Duckworth, 141–171.
-* –––, 1990, “Boethius as an Aristotelian Commentator” in R. Sorabji _Aristotle Transformed—The Ancient Commentators and their Influence_, London: Duckworth, 373–91.
-* Lee, T. S., 1984, _Die griechische Tradition der aristotelischen Syllogistik in der Spätantike_ (_Hypomnemata_ 79), Göttingen: Vandenhoeck & Ruprecht.
-* Martin, C. J., 1991, “The Logic of Negation in Boethius”, _Phronesis_, 36: 277–304.
-* Sullivan, W. M., 1967, _Apuleian Logic. The Nature, Sources and Influences of Apuleius’ Peri Hermeneias_, Amsterdam: North-Holland Publishing Co.
-* Stump, E., 1989, “Dialectic and Boethius’s _De topicis differentiis_”, in E. Stump, _Dialectic and Its Place in the Development of Medieval Logic_, Ithaca, NY: Cornell University Press, 31–56.
+* Barnes, J., 1993, “A Third Sort of Syllogism: Galen and the Logic of Relations” in *Modern Thinkers and Ancient Thinkers*, R. W. Sharples (ed.), Boulder, CO: Westview Press.
+* –––, 1997, *Logic and the Imperial Stoa*, Leiden: Brill.
+* Bobzien, S., 2002, “The development of *modus ponens* in antiquity: From Aristotle to the 2nd century AD”, *Phronesis*, 47(4): 359–394.
+* –––, 2002, “Propositional logic in Ammonius” in H. Linneweber-Lammerskitten / G. Mohr (eds.), *Interpretation und Argument*, Würzburg: Königshausen & Neumann, 103–119.
+* –––, 2004, “Hypothetical Syllogistic in Galen—Propositional logic off the rails?” *Rhizai: Journal for Ancient Philosophy and Science*, 2: 57–102.
+* Ebbesen, S., 1990, “Porphyry’s legacy to logic”, in R. Sorabji, *Aristotle Transformed—The Ancient Commentators and their Influence*, London: Duckworth, 141–171.
+* –––, 1990, “Boethius as an Aristotelian Commentator” in R. Sorabji *Aristotle Transformed—The Ancient Commentators and their Influence*, London: Duckworth, 373–91.
+* Lee, T. S., 1984, *Die griechische Tradition der aristotelischen Syllogistik in der Spätantike* (*Hypomnemata* 79), Göttingen: Vandenhoeck & Ruprecht.
+* Martin, C. J., 1991, “The Logic of Negation in Boethius”, *Phronesis*, 36: 277–304.
+* Sullivan, W. M., 1967, *Apuleian Logic. The Nature, Sources and Influences of Apuleius’ Peri Hermeneias*, Amsterdam: North-Holland Publishing Co.
+* Stump, E., 1989, “Dialectic and Boethius’s *De topicis differentiis*”, in E. Stump, *Dialectic and Its Place in the Development of Medieval Logic*, Ithaca, NY: Cornell University Press, 31–56.
 
 ## Academic Tools
 
@@ -496,4 +494,4 @@ Diodorus 对可能性的定义排除了未来的偶然事件，并暗示了仅�
 [Alexander of Aphrodisias](https://plato.stanford.edu/entries/alexander-aphrodisias/) | [Ammonius](https://plato.stanford.edu/entries/ammonius/) | [Aristotle, commentators on](https://plato.stanford.edu/entries/aristotle-commentators/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | [Boethius, Anicius Manlius Severinus](https://plato.stanford.edu/entries/boethius/) | Chrysippus | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [connectives: sentence connectives in formal logic](https://plato.stanford.edu/entries/connectives-logic/) | [Dialectical School](https://plato.stanford.edu/entries/dialectical-school/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [future contingents](https://plato.stanford.edu/entries/future-contingents/) | [Galen](https://plato.stanford.edu/entries/galen/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [liar paradox](https://plato.stanford.edu/entries/liar-paradox/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: inductive](https://plato.stanford.edu/entries/logic-inductive/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [logic: relevance](https://plato.stanford.edu/entries/logic-relevance/) | [logic: temporal](https://plato.stanford.edu/entries/logic-temporal/) | [Plato](https://plato.stanford.edu/entries/plato/) | [propositions](https://plato.stanford.edu/entries/propositions/) | [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/) | [square of opposition](https://plato.stanford.edu/entries/square/) | [Stoicism](https://plato.stanford.edu/entries/stoicism/) | [truth: correspondence theory of](https://plato.stanford.edu/entries/truth-correspondence/) | [truth: deflationism about](https://plato.stanford.edu/entries/truth-deflationary/) | [Zeno of Elea: Zeno’s paradoxes](https://plato.stanford.edu/entries/paradox-zeno/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Susanne Bobzien](https://www.asc.ox.ac.uk/person/2155) <[_susanne.bobzien@gmail.com_](mailto:susanne%2ebobzien%40gmail%2ecom)>
+[Susanne Bobzien](https://www.asc.ox.ac.uk/person/2155) <[*susanne.bobzien@gmail.com*](mailto:susanne%2ebobzien%40gmail%2ecom)>

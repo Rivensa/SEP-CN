@@ -1,9 +1,8 @@
 # 因果反事实理论 counterfactual theories of (Peter Menzies and Helen Beebee)
 
-_首次发表于 2001 年 1 月 10 日星期三；实质性修订于 2019 年 10 月 29 日星期二_
+*首次发表于 2001 年 1 月 10 日星期三；实质性修订于 2019 年 10 月 29 日星期二*
 
 因果反事实理论的基本思想是，因果性断言的含义可以用“如果_A_没有发生，_C_就不会发生”这种形式的反事实条件句来解释。大多数反事实分析都集中在“事件_c_导致事件\*e”的形式的断言上，描述‘特定的’或‘标记的’或‘实际的’因果关系。自上世纪 70 年代可能世界语义学的发展以来，这类分析变得流行起来。最著名的因果反事实分析是大卫·刘易斯（1973b）的理论。然而，四十多年来的激烈讨论使人们对用反事实来简单分析特定因果关系的充分性产生了怀疑。近年来，基本思想已经出现了各种不同的改进；“结构方程”或“因果建模”框架目前是阐明因果关系和反事实关系的最流行方式。
-
 
 ***
 
@@ -11,7 +10,7 @@ _首次发表于 2001 年 1 月 10 日星期三；实质性修订于 2019 年 10
 
 因果关系的反事实分析背后的指导思想是这样的想法 - 正如大卫·路易斯所说 - “我们认为原因是使事情有所不同的东西，它所产生的影响必须是与没有它时的情况有所不同。如果它不存在，它的影响 - 至少其中的一些，通常是全部 - 也将不存在”（1973b，161）。
 
-因果反事实的第一个明确定义出人意料地是由休谟给出的，当他写道：“我们可以将原因定义为_一个对象后跟着另一个对象，且所有类似于第一个对象的对象后面都跟着类似于第二个对象的对象_。换句话说，_如果第一个对象不存在，第二个对象也就不存在_”（1748 年，第七节）。很难理解休谟如何会混淆第一个常规定义和第二个非常不同的反事实定义（尽管参见巴克尔 2004 年：212-13 进行简要讨论）。
+因果反事实的第一个明确定义出人意料地是由休谟给出的，当他写道：“我们可以将原因定义为_一个对象后跟着另一个对象，且所有类似于第一个对象的对象后面都跟着类似于第二个对象的对象_。换句话说，*如果第一个对象不存在，第二个对象也就不存在*”（1748 年，第七节）。很难理解休谟如何会混淆第一个常规定义和第二个非常不同的反事实定义（尽管参见巴克尔 2004 年：212-13 进行简要讨论）。
 
 无论如何，休谟从未探讨过因果反事实的替代方法。在这一点上，他和许多经验主义哲学家一样。经验主义者心目中解释因果关系的主要障碍是反事实本身的晦涩，主要是因为它们涉及未实现的可能性。直到 20 世纪 70 年代初可能世界语义学的发展使反事实变得更加清晰，因果反事实方法的真正潜力才变得清晰起来。
 
@@ -40,11 +39,11 @@ _首次发表于 2001 年 1 月 10 日星期三；实质性修订于 2019 年 10
 
 当_c_和_e_是两个不同的可能事件时，_e_在_c_的因果依赖性定义为，只有当_c_发生时_e_才会发生；如果_c_不发生，_e_也不会发生。
 
-这个条件陈述了事件 _e_ 是否发生取决于事件 _c_ 是否发生。其中 _c_ 和 _e_ 是实际发生的事件，这个真实条件可以被简化一些。因为在这种情况下，根据比较相似关系的第二个形式条件，反事实“如果 _c_ 发生，_e_ 就会发生”是自动成立的：这个形式条件意味着具有真实前提和真实结论的反事实本身是真实的。因此，因果依赖的真实条件变为：
+这个条件陈述了事件 *e* 是否发生取决于事件 *c* 是否发生。其中 *c* 和 *e* 是实际发生的事件，这个真实条件可以被简化一些。因为在这种情况下，根据比较相似关系的第二个形式条件，反事实“如果 *c* 发生，*e* 就会发生”是自动成立的：这个形式条件意味着具有真实前提和真实结论的反事实本身是真实的。因此，因果依赖的真实条件变为：
 
 (3)
 
-其中 _c_ 和 _e_ 是两个不同的 _实际_ 事件，如果 _c_ 不发生，_e_ 就不会发生，那么 _e_ 在 _c_ 上 _因果依赖_。
+其中 *c* 和 *e* 是两个不同的 *实际* 事件，如果 *c* 不发生，*e* 就不会发生，那么 *e* 在 *c* 上 *因果依赖*。
 
 关于因果依赖的定义有三个重要事项需要注意。首先，它将因果依赖的主要相关方定义为_事件_。Lewis 自己关于事件的理论（1986b 年）将事件解释为可能的时空区域类。然而，对事件的不同概念与基本定义是兼容的（Kim 1973a；关于对事件的另一种广义 Lewisian 观点，请参见 McDonnell 2016 和 Kaiserman 2017）。事实上，甚至似乎可以用事实而不是事件来表述它（Mellor 1995, 2004）。
 
@@ -52,7 +51,7 @@ _首次发表于 2001 年 1 月 10 日星期三；实质性修订于 2019 年 10
 
 被他对因果反事实的需要所说服，Lewis 后来修改了他的观点，认为因果依赖是事件或其缺席之间的反事实依赖的问题（Lewis 2000: §X; 2004b）。我们将在接下来的讨论中大部分忽略这种复杂性；关于因果反事实，请参阅 Schaffer 2000b，Beebee 2004b，McGrath 2005，Livengood 和 Machery 2007，Dowe 2009。
 
-第三，分析中使用的反事实应根据 Lewis 所称的标准解释来理解。有几种可能的解释反事实的方式；一些解释会导致事件之间出现虚假的非因果依赖。例如，假设事件_c_和_e_是共同原因_d_的结果。人们很容易推断_c_和_e_之间必定存在因果依赖，通过进行以下一段反事实推理：如果_c_没有发生，那么_d_也不会发生；如果_d_没有发生，_e_也不会发生。但是 Lewis 表示，他称之为_回溯_反事实的前者不应用于评估因果依赖。应使用的正确反事实是_非回溯反事实_，通常将过去固定在反事实的前提被认为发生的时间（或者就在这个时间之前）。因此，如果_c_没有发生，_d_ - 实际上在_c_之前发生 - 仍然会发生；因此在标准解释中，回溯反事实是错误的，推断_e_在因果上依赖于_c_的说法被否定。
+第三，分析中使用的反事实应根据 Lewis 所称的标准解释来理解。有几种可能的解释反事实的方式；一些解释会导致事件之间出现虚假的非因果依赖。例如，假设事件_c_和_e_是共同原因_d_的结果。人们很容易推断_c_和_e_之间必定存在因果依赖，通过进行以下一段反事实推理：如果_c_没有发生，那么_d_也不会发生；如果_d_没有发生，*e_也不会发生。但是 Lewis 表示，他称之为_回溯_反事实的前者不应用于评估因果依赖。应使用的正确反事实是_非回溯反事实*，通常将过去固定在反事实的前提被认为发生的时间（或者就在这个时间之前）。因此，如果_c_没有发生，*d* - 实际上在_c_之前发生 - 仍然会发生；因此在标准解释中，回溯反事实是错误的，推断_e_在因果上依赖于_c_的说法被否定。
 
 ### 1.2 因果依赖的时间不对称
 
@@ -72,7 +71,7 @@ Gretta 案例中的结果概括到了因果被其效应过度决定的程度，�
 
 正如 Lewis（1973b）所指出的，实际事件之间的因果依赖足以构成因果关系，但并非必要条件：可以在没有因果依赖的情况下发生因果关系。一个标准的“先占”案例将说明这一点。假设两名枪手密谋暗杀一个令人憎恨的独裁者，他们约定其中一人在公开场合射杀独裁者。刺客_A_和_B_并排行动，找到一个良好的瞄准点，当独裁者出现时，两人都瞄准（事件_a_和_b_分别）。_A_扣动扳机并开枪命中目标，但当_B_看到_A_扣动扳机时停止开枪。在这里，刺客_A_的行动（比如瞄准）是导致独裁者死亡的原因，而刺客_B_的行动（比如瞄准）仅仅是被先占的潜在原因。（Lewis 将这种_先占_情况与_对称过度决定_情况加以区分，在后者中，两个过程都导致了结果，没有一个过程先于另一个。Lewis 认为这些情况不适合作为因果理论的测试案例，因为它们无法引发明确的判断。）这个先占案例引发的问题是，从因果依赖的角度来看，这两个行动是相等的：如果既没有_A_也没有_B_采取行动，那么独裁者就不会死；如果其中任何一个人单独采取行动，独裁者也会死。
 
-为了克服这个问题，刘易斯通过将因果依赖扩展到一个传递关系，通过考虑其祖先来解决这个问题。他将_因果链_定义为一系列实际事件_c_、_d_、_e_，其中_d_在_c_上有因果关系，_e_在_d_上有因果关系，依此类推。然后，根据以下条件最终定义了因果关系：
+为了克服这个问题，刘易斯通过将因果依赖扩展到一个传递关系，通过考虑其祖先来解决这个问题。他将_因果链_定义为一系列实际事件_c_、*d*、*e*，其中_d_在_c_上有因果关系，_e_在_d_上有因果关系，依此类推。然后，根据以下条件最终定义了因果关系：
 
 (4)
 
@@ -88,13 +87,13 @@ Gretta 案例中的结果概括到了因果被其效应过度决定的程度，�
 
 在原则上，因果反事实分析很适合处理偶然因果关系，因为反事实依赖并不要求在情况下原因是充分的，只需要在情况下原因对结果是必要的。然而，放弃确定性假设所带来的问题是，普遍的不确定性削弱了这样一个观点的合理性，即 - 除了优先权和过度决定之外 - 效果通常在反事实上依赖于它们的原因。例如，在上面的盖革计数器案例中，假设炸弹爆炸的机会可以通过一个刻度盘来改变。（低设置意味着盖革计数器需要记录很多次点击才能在接下来的十分钟内引爆炸弹，从而使爆炸的可能性非常小；高设置意味着它需要记录很少的点击，从而使爆炸的可能性非常大。）刻度盘设置在低位；我通过调高它来增加炸弹爆炸的机会。我的行为是爆炸的原因，但事实并非如此，如果我没有这样做，炸弹就不会爆炸；它只是非常不可能爆炸。
 
-为了适应偶然因果关系，Lewis（1986c）根据偶然反事实定义了更一般的因果依赖概念。这些反事实的形式是“如果_A_是情况，_Pr_（_C_）将是_x_”，其中反事实是一个普通的将会反事实，根据上述语义进行解释，_Pr_运算符是一个概率运算符，其范围仅限于反事实的结果。Lewis 将涉及的概率解释为时间索引的单例机会。 （有关单例机会理论，请参阅他的（1980）。）
+为了适应偶然因果关系，Lewis（1986c）根据偶然反事实定义了更一般的因果依赖概念。这些反事实的形式是“如果_A_是情况，*Pr*（*C*）将是_x_”，其中反事实是一个普通的将会反事实，根据上述语义进行解释，_Pr_运算符是一个概率运算符，其范围仅限于反事实的结果。Lewis 将涉及的概率解释为时间索引的单例机会。 （有关单例机会理论，请参阅他的（1980）。）
 
 更一般的因果依赖概念如下：
 
 (5)
 
-其中 _c_ 和 _e_ 是不同的实际事件，如果且仅如果，如果 _c_ 没有发生，_e_ 发生的机会远远小于其实际机会，则 _e_ 在 _c_ 的因果依赖。
+其中 *c* 和 *e* 是不同的实际事件，如果且仅如果，如果 *c* 没有发生，*e* 发生的机会远远小于其实际机会，则 *e* 在 *c* 的因果依赖。
 
 这个定义涵盖了确定性因果关系的情况，其中效应与原因的机会为 1，没有原因的情况下效应的机会为 0。但它也允许不可简化的概率因果关系的情况，其中这些机会可以取非极端值，就像上面的盖革计数器与刻度的例子一样。这类似于概率类型因果关系理论中使用的概率相关性的核心概念，不同之处在于它使用机会反事实，而不是条件概率。(请参阅 Lewis 1986c 中关于反事实方法优于概率方法的讨论。另请参阅条目[probabilistic causation](https://plato.stanford.edu/entries/causation-probabilistic/)。)
 
@@ -128,7 +127,7 @@ Elga 的论点通过前文描述的 Gretta 打破鸡蛋的例子展开，基本�
 
 各种回应已经对这些反例进行了回应。L.A. Paul（2004）对第二个例子提出了一个回应，其中包括将因果关系的相关方面构想为事件_方面_：她认为第一个因果链接的效果（火焰呈紫色）与第二个因果链接的原因（火焰接触易燃材料）之间存在不匹配。因此，虽然紫色火焰并没有引起点燃，但事实上并没有传递性的失败。Maslen（2004）通过诉诸于对因果关系的对比主义解决了这个问题（见下文第 4 节）：第一个因果陈述的效果端的对比情况与第二个因果陈述的原因端的对比情况不相匹配。因此，第一个因果陈述应被解释为琼斯将钾盐放入火中而不是不这样做导致火焰_变成紫色而不是黄色_；但第二个因果陈述应被解释为_紫色火焰发生而不是不发生_导致易燃材料点燃而不是不点燃。当出现这种不匹配时，我们就没有真正的传递性反例。
 
-第一个例子无法用同样的方式处理。一些传递性的捍卫者回应说，我们对这些例子中因果关系的不传递性的直觉是误导的。例如，Lewis（2004a）指出，对传递性的反例通常涉及一种结构，其中一个_c_-类型事件通常会阻止一个_e_-类型事件，但在特定情况下，_c_-事件实际上会导致另一个事件来抵消威胁并引起_e_-事件。他说，如果我们混淆了通常有助于什么的问题与这种特定情况中导致了什么的问题，我们可能会认为否定_c_导致_e_是合理的。但如果我们将焦点集中在特定情况上，我们必须坚持认为_c_实际上确实导致了_e_。
+第一个例子无法用同样的方式处理。一些传递性的捍卫者回应说，我们对这些例子中因果关系的不传递性的直觉是误导的。例如，Lewis（2004a）指出，对传递性的反例通常涉及一种结构，其中一个_c_-类型事件通常会阻止一个_e_-类型事件，但在特定情况下，*c*-事件实际上会导致另一个事件来抵消威胁并引起_e_-事件。他说，如果我们混淆了通常有助于什么的问题与这种特定情况中导致了什么的问题，我们可能会认为否定_c_导致_e_是合理的。但如果我们将焦点集中在特定情况上，我们必须坚持认为_c_实际上确实导致了_e_。
 
 关于因果传递性的争论并不容易解决，部分原因是因果反事实理论如何处理挤占案例问题与其紧密相关。正如我们所见，因果反事实理论依赖于因果传递性来处理挤占案例。如果这类案例可以以其他方式处理，那将减轻理论的一些压力，使其能够承认因果传递性的所谓反例，而不会屈服于挤占所带来的困难。(有关此观点的更多信息，请参阅 Hitchcock 2001。有关因果传递性周围问题的广泛讨论，请参阅 Paul 和 Hall 2013：第 5 章。)
 
@@ -144,7 +143,7 @@ Elga 的论点通过前文描述的 Gretta 打破鸡蛋的例子展开，基本�
 
 要确定的是，如果苏茜没有扔石头，那么会发生的瓶子破碎事件将与苏茜扔石头后实际发生的瓶子破碎事件不同。首先，它会发生得更晚。这一观察表明，解决晚期抢先问题的一个解决方案可能是坚持认为涉及的事件应被解释为脆弱事件。因此，如果苏茜没有扔石头，那么实际的瓶子破碎事件，作为一个具有必要发生时间和方式的脆弱事件，将不会发生，这将是真实的而不是虚假的。路易斯本人并不支持这种回应，理由是将事件解释为脆弱事件的统一政策将违反我们通常的做法，并且会产生许多虚假的因果依赖关系。例如，假设一种毒药在饱腹时杀死受害者的速度更慢更痛苦。那么受害者在喝毒药之前吃晚饭就会被视为他死亡的原因，因为死亡的时间和方式取决于吃晚饭。(有关这种回应的局限性讨论，请参阅 Lewis 1986c, 2000。)
 
-路易斯在他 1986 年的著作中谨慎支持的晚期抢先问题的解决方案涉及准依赖的概念。考虑一个类似于比利和苏茜向瓶子扔石头的情况。苏茜扔石头(_c_)并粉碎了瓶子(_e_)，方式与原始情况完全相同。但在这种情况下，比利和他的石头完全不存在。在原始情况下，_e_是由_c_引起的，但并不依赖于_c_的反事实，而在这第二种情况下，_e_是由_c_引起的，并且依赖于_c_的反事实。但从_c_到_e_的过程的内在特性在这两种情况下是完全相同的。因此，路易斯说，在原始情况下(比利也扔石头)，_e_准依赖于_c_。因此，“我们可以重新定义因果链为两个或两个以上事件的序列，每一步都具有依赖性或准依赖性。并且一如既往，一个事件是另一个事件的原因，当且仅当有一个因果链从一个事件到另一个事件”(1986c, 206)。(Menzies 1996 和 1999 中也探讨了一个相关的想法。)请注意，尽管这个提议的因果链定义，准依赖解决方案并不要求像路易斯早期对早期抢先问题的解决方案那样具有传递性：在备用潜在原因安全地消失后，在所有抢先情况(早期和晚期)，效应应直接准依赖于其原因。
+路易斯在他 1986 年的著作中谨慎支持的晚期抢先问题的解决方案涉及准依赖的概念。考虑一个类似于比利和苏茜向瓶子扔石头的情况。苏茜扔石头(*c*)并粉碎了瓶子(*e*)，方式与原始情况完全相同。但在这种情况下，比利和他的石头完全不存在。在原始情况下，_e_是由_c_引起的，但并不依赖于_c_的反事实，而在这第二种情况下，_e_是由_c_引起的，并且依赖于_c_的反事实。但从_c_到_e_的过程的内在特性在这两种情况下是完全相同的。因此，路易斯说，在原始情况下(比利也扔石头)，*e_准依赖于_c*。因此，“我们可以重新定义因果链为两个或两个以上事件的序列，每一步都具有依赖性或准依赖性。并且一如既往，一个事件是另一个事件的原因，当且仅当有一个因果链从一个事件到另一个事件”(1986c, 206)。(Menzies 1996 和 1999 中也探讨了一个相关的想法。)请注意，尽管这个提议的因果链定义，准依赖解决方案并不要求像路易斯早期对早期抢先问题的解决方案那样具有传递性：在备用潜在原因安全地消失后，在所有抢先情况(早期和晚期)，效应应直接准依赖于其原因。
 
 Lewis 对自己试图解决晚期优先问题的尝试感到不满，以及他的理论无法处理“压倒性优先”（Schaffer 2000a），这导致了他在 2000 年发展出他的理论。与偶然因果有关的另一个问题是关于优先权的问题，这是 2000 年理论没有解决的，将在下文[§5.4](https://plato.stanford.edu/entries/causation-counterfactual/#SEFChaCau)中讨论。
 
@@ -152,19 +151,19 @@ Lewis 对自己试图解决晚期优先问题的尝试感到不满，以及他�
 
 在试图解决他 1973 年理论面临的各种问题时，刘易斯发展了因果反事实理论的新版本，他首次在 1999 年 3 月的哈佛大学怀特海德讲座上提出了这一理论。（讲座的缩短版本出现在他的 2000 年作品中。完整的讲座作为他的 2004a 出版。）
 
-因果反事实在新理论中扮演着核心角色，就像在旧理论中一样。但它所使用的因果反事实并不仅仅陈述一个事件发生与另一个事件发生的依赖关系。这些因果反事实陈述了一个事件发生的_是否_、_何时_和_如何_依赖于另一个事件发生的_是否_、_何时_和_如何_。在制定这些因果反事实的关键思想是事件的_改变_。这是一个在稍微不同的时间或稍微不同的方式发生的已实现或未实现事件。根据定义，改变是一个非常脆弱的事件，如果不是一个不同的事件，就不能在不同的时间或以不同的方式发生。刘易斯希望术语在事件的改变是否是同一事件的版本或数值上不同的事件这个问题上保持中立。
+因果反事实在新理论中扮演着核心角色，就像在旧理论中一样。但它所使用的因果反事实并不仅仅陈述一个事件发生与另一个事件发生的依赖关系。这些因果反事实陈述了一个事件发生的_是否_、*何时_和_如何_依赖于另一个事件发生的_是否*、*何时_和_如何*。在制定这些因果反事实的关键思想是事件的_改变_。这是一个在稍微不同的时间或稍微不同的方式发生的已实现或未实现事件。根据定义，改变是一个非常脆弱的事件，如果不是一个不同的事件，就不能在不同的时间或以不同的方式发生。刘易斯希望术语在事件的改变是否是同一事件的版本或数值上不同的事件这个问题上保持中立。
 
 新理论的核心概念是影响：
 
 (6)
 
-其中 _c_ 和 _e_ 是不同的事件，当且仅当存在一个实质范围 _c_1，_c_2，… 不同且不太远的 _c_ 的改变（包括 _c_ 的实际改变），以及存在一系列 _e_1，_e_2，… 的改变，其中至少有一些不同，如果 _c_1 发生了，_e_1 就会发生，如果 _c_2 发生了，_e_2 就会发生，依此类推。
+其中 *c* 和 *e* 是不同的事件，当且仅当存在一个实质范围 _c_1，_c_2，… 不同且不太远的 *c* 的改变（包括 *c* 的实际改变），以及存在一系列 _e_1，_e_2，… 的改变，其中至少有一些不同，如果 _c_1 发生了，_e_1 就会发生，如果 _c_2 发生了，_e_2 就会发生，依此类推。
 
 在一个事件影响另一个事件的情况下，是否、何时以及如何的反事实依赖模式取决于是否、何时以及如何。与此前一样，因果关系被定义为一种祖先关系：
 
 (7)
 
-_c_ _导致_ _e_ 当且仅当从 _c_ 到 _e_ 存在一系列逐步影响的链条。
+*c* *导致* *e* 当且仅当从 *c* 到 *e* 存在一系列逐步影响的链条。
 
 Lewis 在支持这一新理论的观点之一是，它处理晚期和早期的先占情况。(该理论仅限于确定性因果关系，因此不涉及下文描述的概率性先占示例。) 例如，重新考虑涉及比利和苏茜向瓶子投掷石头的晚期先占示例。该理论应该解释为什么苏茜的投掷，而不是比利的投掷，导致了瓶子的破碎。如果我们进行一种变动，使苏茜的投掷略有不同(石头更轻，或者她投掷得更早)，同时保持比利的投掷不变，我们会发现破碎也会有所不同。但是，如果我们对比利的投掷进行类似的改动，同时保持苏茜的投掷不变，我们会发现破碎保持不变。
 
@@ -178,17 +177,17 @@ Lewis 在支持这一新理论的观点之一是，它处理晚期和早期的�
 
 近年来受到越来越多关注的一个问题是，因果关系是一种‘不变’关系，还是，相反，一个给定的因果主张的真实性根据所讨论的语境而变化。 （请注意，‘不变’通常用来描述一种在许多不同情况下保持稳定的因果关系；这不是这里使用的‘不变’的含义。）有大量证据表明，人们的因果判断受到语境因素的影响（Hilton & Slugoski 1986; Cheng & Novick 1991; Knobe & Fraser 2008; Hitchcock & Knobe 2009; Clarke et al. 2015; Kominsky et al. 2015; Icard et al. 2017）；然而，原则上一个人可能坚持不变主义的立场，并坚称随着语境变化的不是真相，而仅仅是可断言性。
 
-考虑一个标准的问题案例：园丁和女王在我度假期间都未能给我的花浇水，他们随后的死亡(_e_)在反事实上同样取决于他们的疏忽。但许多人的判断是，只有园丁的疏忽，而不是女王的，是导致他们死亡的真正原因（Beebee 2004b，McGrath 2005，Livengood＆Machery 2007）。我们可以通过声称女王的疏忽不是_e_的原因来适应那种判断，并得出结论，除了反事实依赖之外，我们需要一些关于因果关系的额外约束，例如，原因必须是“异常”的或不正常的：园丁的行为是异常的（他应该或者可能通常会给我的花浇水），但女王的行为完全正常（她从不给我的花浇水，也没有人会指望她这样做）。或者我们可以通过诸如显著性这样的实用因素来适应这种判断：园丁和女王的疏忽都同样是_e_的原因，但在大多数交谈环境中，女王的疏忽根本不相关。例如，如果我想找出是谁应该为花的死亡负责，那么女王的疏忽对我的调查根本不相关，因为显然她不应该受到责备。
+考虑一个标准的问题案例：园丁和女王在我度假期间都未能给我的花浇水，他们随后的死亡(*e*)在反事实上同样取决于他们的疏忽。但许多人的判断是，只有园丁的疏忽，而不是女王的，是导致他们死亡的真正原因（Beebee 2004b，McGrath 2005，Livengood＆Machery 2007）。我们可以通过声称女王的疏忽不是_e_的原因来适应那种判断，并得出结论，除了反事实依赖之外，我们需要一些关于因果关系的额外约束，例如，原因必须是“异常”的或不正常的：园丁的行为是异常的（他应该或者可能通常会给我的花浇水），但女王的行为完全正常（她从不给我的花浇水，也没有人会指望她这样做）。或者我们可以通过诸如显著性这样的实用因素来适应这种判断：园丁和女王的疏忽都同样是_e_的原因，但在大多数交谈环境中，女王的疏忽根本不相关。例如，如果我想找出是谁应该为花的死亡负责，那么女王的疏忽对我的调查根本不相关，因为显然她不应该受到责备。
 
 刘易斯本人采取了后一种不变论者的方法（Lewis 2004b）。任何特定事件的原因是多种多样的，在任何给定的解释背景下，大多数原因都不显著；这就是为什么我们认为提及它们是错误的（Lewis 1986d）。刘易斯的方法是通过诉诸于一个广义 Gricean 关于会话含义的故事来解释激发语境主义的一些现象。不变论的一个优点是，它使我们能够将因果关系看作是一个完全客观的、与心智无关的关系，或者正如 Menzies（2009: 342）所说，是一种“自然”的关系。
 
 这种方式是否能处理所有所谓的依赖背景的案例尚不清楚。苏茜从商店偷了椰子蛋糕导致了她随后的疾病：偷了蛋糕后，她吃了它 - 但（她很快发现）她对椰子过敏。或者是这样吗？似乎取决于我们将她偷椰子蛋糕与什么进行对比。如果她空手离开商店 - 或者偷了一个巴斯圆面包 - 她就不会生病。但如果她付钱买蛋糕而不是偷，她仍然会生病。有时，我们通过例如强调来标记预期的对比：苏茜偷了_椰子蛋糕_导致了她的疾病，但她偷了_椰子蛋糕_却没有。
 
-根据刘易斯（Lewis）原始的事件理论（1986b），似乎是量身定制来处理这类案例的。根据该理论，事件是世界的一组时空区域。我们可以区分，例如，本质上是苏茜偷蛋糕的事件（_e1_）和本质上是她获得（以某种方式）椰子蛋糕的事件（_e2_）：这两个事件包含了两组不同的（但有重叠的）世界时空区域，它们共享它们的实际世界成员，即蛋糕店里实际发生的事情。因此 - 至少表面上看 - 我们可以说_e2_是她生病的原因，但_e1_不是（因为如果她没有偷蛋糕，她会买椰子蛋糕）。
+根据刘易斯（Lewis）原始的事件理论（1986b），似乎是量身定制来处理这类案例的。根据该理论，事件是世界的一组时空区域。我们可以区分，例如，本质上是苏茜偷蛋糕的事件（*e1*）和本质上是她获得（以某种方式）椰子蛋糕的事件（*e2*）：这两个事件包含了两组不同的（但有重叠的）世界时空区域，它们共享它们的实际世界成员，即蛋糕店里实际发生的事情。因此 - 至少表面上看 - 我们可以说_e2_是她生病的原因，但_e1_不是（因为如果她没有偷蛋糕，她会买椰子蛋糕）。
 
-这是不清楚的，然而，诉诸事件的基本特征是否成功地解决了这个问题。毕竟，如果苏茜没有偷蛋糕，她本来会买的是巴斯圆面包，而不是她实际偷的椰子蛋糕呢？（她真的想要蛋糕，但没有足够的钱买椰子蛋糕。）而且，在任何情况下，刘易斯自己的官方观点是，在假设一个假定的原因_c_不存在时，我们“想象_c_完全干净地从历史中被切除，不留下任何碎片或近似物”（2004a: 90）。因此，我们似乎无法恢复苏茜偷蛋糕不是导致她随后生病的说法的真相。此外，刘易斯在 2000 年提出的因果关系作为影响的理论放弃了上述回应所诉诸的事件本质的区别：我们对椰子蛋糕的偷窃（_c_）进行了各种改变，包括购买椰子蛋糕和偷巴斯圆面包等，其中一些会导致效果_e_的改变（苏茜的疾病），而另一些则不会。_c_对_e_的影响程度要么足够要么不足以使_c_成为_e_的原因；无论哪种方式，“苏茜偷了椰子蛋糕导致她生病”都会独立于上下文而成立或不成立，这是错误的结果，根据语境主义者的观点。 （然而，不变论者可能会坚持认为这里没有真正的问题。“因为她偷了椰子蛋糕”可能不是对医生提出的“苏茜为什么生病？”这个问题的恰当回答，因为医生对她如何获得蛋糕不感兴趣；但在讨论苏茜因偷窃习惯而受到惩罚的情境下，这可能是一个合适的回应。）
+这是不清楚的，然而，诉诸事件的基本特征是否成功地解决了这个问题。毕竟，如果苏茜没有偷蛋糕，她本来会买的是巴斯圆面包，而不是她实际偷的椰子蛋糕呢？（她真的想要蛋糕，但没有足够的钱买椰子蛋糕。）而且，在任何情况下，刘易斯自己的官方观点是，在假设一个假定的原因_c_不存在时，我们“想象_c_完全干净地从历史中被切除，不留下任何碎片或近似物”（2004a: 90）。因此，我们似乎无法恢复苏茜偷蛋糕不是导致她随后生病的说法的真相。此外，刘易斯在 2000 年提出的因果关系作为影响的理论放弃了上述回应所诉诸的事件本质的区别：我们对椰子蛋糕的偷窃（*c*）进行了各种改变，包括购买椰子蛋糕和偷巴斯圆面包等，其中一些会导致效果_e_的改变（苏茜的疾病），而另一些则不会。_c_对_e_的影响程度要么足够要么不足以使_c_成为_e_的原因；无论哪种方式，“苏茜偷了椰子蛋糕导致她生病”都会独立于上下文而成立或不成立，这是错误的结果，根据语境主义者的观点。 （然而，不变论者可能会坚持认为这里没有真正的问题。“因为她偷了椰子蛋糕”可能不是对医生提出的“苏茜为什么生病？”这个问题的恰当回答，因为医生对她如何获得蛋糕不感兴趣；但在讨论苏茜因偷窃习惯而受到惩罚的情境下，这可能是一个合适的回应。）
 
-Cei Maslen (2004), Jonathan Schaffer (2005) 和 Robert Northcott (2008) 都支持因果关系的“对比”解释。Schaffer 将因果关系看作是一个四元关系 - _c_ 而不是 _c_ 导致 _e_ 而不是 _e_ - 并声称，语境（或其他设备，如对特定单词的强调）通常会确定我们日常两元因果谈话中暗含的对比（_c_ 和 _e_），从而在我们（两元）因果主张的真实性或虚假性中发挥作用。请注意，关于因果关系的对比主义是一种独立于解释是（总是或有时）对比性的观点（参见 Lewis 1986d，§VI；Lipton 1991；Hitchcock 1999）。在对比主义解释观中，解释（总是或有时）采取“为什么是 _P_ 而不是 _Q_？”的形式，其中对比（_Q_）可能会被明确陈述或由问“为什么是 _P_？”的语境暗示。这种观点与因果关系的不变主义观点完全兼容，因为对比的作用可能仅仅是选择在回答问题时适当引用哪个 _P_ 的原因。还要注意，关于解释的对比主义似乎并未解决手头的（所谓的）问题。在 Suzy 偷蛋糕的情况下，问题在于原因（因此是解释对象）的对比，而不是效果（被解释对象）的对比；目前尚不清楚我们如何改变语境中显著的对比，以便不同的对比对“Suzy 偷了椰子蛋糕”是否是适当的解释提供不同的裁决。
+Cei Maslen (2004), Jonathan Schaffer (2005) 和 Robert Northcott (2008) 都支持因果关系的“对比”解释。Schaffer 将因果关系看作是一个四元关系 - *c* 而不是 *c* 导致 *e* 而不是 *e* - 并声称，语境（或其他设备，如对特定单词的强调）通常会确定我们日常两元因果谈话中暗含的对比（*c* 和 *e*），从而在我们（两元）因果主张的真实性或虚假性中发挥作用。请注意，关于因果关系的对比主义是一种独立于解释是（总是或有时）对比性的观点（参见 Lewis 1986d，§VI；Lipton 1991；Hitchcock 1999）。在对比主义解释观中，解释（总是或有时）采取“为什么是 *P* 而不是 *Q*？”的形式，其中对比（*Q*）可能会被明确陈述或由问“为什么是 *P*？”的语境暗示。这种观点与因果关系的不变主义观点完全兼容，因为对比的作用可能仅仅是选择在回答问题时适当引用哪个 *P* 的原因。还要注意，关于解释的对比主义似乎并未解决手头的（所谓的）问题。在 Suzy 偷蛋糕的情况下，问题在于原因（因此是解释对象）的对比，而不是效果（被解释对象）的对比；目前尚不清楚我们如何改变语境中显著的对比，以便不同的对比对“Suzy 偷了椰子蛋糕”是否是适当的解释提供不同的裁决。
 
 尽管因果关系的对比主义解释通常被认为是因果关系语境主义的一种版本，但对比主义在某种意义上仍然是不变主义的，因为关于哪些四元因果关系成立存在一个与语境无关的事实：Suzy 偷了蛋糕而不是空手而归导致她生病而不是健康，这是绝对真实的，而她偷蛋糕而不是买蛋糕导致她生病而不是健康是虚假的。因此，对比主义解释可能被视为不变主义和语境主义之间的一种中庸之道。（请参阅 Steglich-Petersen 2012 和 Montminy & Russo 2016，了解关于语境主义/对比主义的批判性讨论。）
 
@@ -200,37 +199,37 @@ Cei Maslen (2004), Jonathan Schaffer (2005) 和 Robert Northcott (2008) 都支�
 
 ### 5.1 SEF: 基本图景
 
-结构方程框架描述了一个系统的因果结构，这是一个被确定为有序对 <_V_, _E_> 的系统因果模型，其中 _V_ 是一组变量，_E_ 是一组陈述变量之间确定关系的结构方程集合。(我们将把注意力限制在这里的确定性系统上；有关偶然因果的简要讨论，请参见§5.4。) _V_ 中的变量描述了所讨论系统的不同可能状态。虽然它们可以取任意数量的值，在这里要考虑的简单示例中，这些变量是二元变量，如果发生某事件则取值为 1，如果事件不发生则取值为 0。例如，让我们制定一个因果模型来描述与比利和苏茜的投掷石头有关的迟到抢先示例中的系统。我们可以使用以下一组变量来描述该系统：
+结构方程框架描述了一个系统的因果结构，这是一个被确定为有序对 <*V*, *E*> 的系统因果模型，其中 *V* 是一组变量，*E* 是一组陈述变量之间确定关系的结构方程集合。(我们将把注意力限制在这里的确定性系统上；有关偶然因果的简要讨论，请参见§5.4。) *V* 中的变量描述了所讨论系统的不同可能状态。虽然它们可以取任意数量的值，在这里要考虑的简单示例中，这些变量是二元变量，如果发生某事件则取值为 1，如果事件不发生则取值为 0。例如，让我们制定一个因果模型来描述与比利和苏茜的投掷石头有关的迟到抢先示例中的系统。我们可以使用以下一组变量来描述该系统：
 
-* _BT_ = 1 如果比利扔石头，否则为 0；
-* _ST_ = 1 如果苏茜扔石头，否则为 0；
-* _BH_ = 1 如果比利的石头打中瓶子，否则为 0；
-* _SH_ = 1 如果苏茜的石头击中瓶子，否则为 0；
-* _BS_ = 1 如果瓶子破裂，否则为 0。
+* *BT* = 1 如果比利扔石头，否则为 0；
+* *ST* = 1 如果苏茜扔石头，否则为 0；
+* *BH* = 1 如果比利的石头打中瓶子，否则为 0；
+* *SH* = 1 如果苏茜的石头击中瓶子，否则为 0；
+* *BS* = 1 如果瓶子破裂，否则为 0。
 
 这里的变量是二元的。但是不同的模型可能会使用多值变量来表示比利和苏茜投掷石头的不同方式，他们的石头击中瓶子，或者瓶子破碎的方式。
 
-模型中的结构方程指定了哪些变量将保持固定在它们的实际值，以及其他变量的值如何相互依赖。每个变量都有一个结构方程。变量的结构方程的形式取决于它是哪种类型的变量。一个外生变量（其值由模型之外的因素决定）的结构方程采用了 _Z_ = _z_ 的形式，简单地说明了变量的实际值。一个内生变量（其值由模型内部因素决定）的结构方程说明了变量的值如何由其他变量的值决定。它的形式是：
+模型中的结构方程指定了哪些变量将保持固定在它们的实际值，以及其他变量的值如何相互依赖。每个变量都有一个结构方程。变量的结构方程的形式取决于它是哪种类型的变量。一个外生变量（其值由模型之外的因素决定）的结构方程采用了 *Z* = *z* 的形式，简单地说明了变量的实际值。一个内生变量（其值由模型内部因素决定）的结构方程说明了变量的值如何由其他变量的值决定。它的形式是：
 
-_Y_ = _f_(_X_1,…, _X\*\*n_)
+*Y* = *f*(_X_1,…, *X\*\*n*)
 
 这个结构方程是什么意思呢？实际上有不同的解释。Pearl（2000）将结构方程视为他框架的概念原语，描述它们代表着研究对象系统的“基本机制”。然而，为了阐述的目的，更方便的是遵循 Woodward（2003）和 Hitchcock（2001）的解释，他们认为结构方程表达了以下形式的某些基本因果反事实：
 
-如果_X_1 = _x_1，_X_2 = _x_2，…，_X\*\*n_ = _x\*\*n_，那么_Y_ = _f_(_x_1，…，_x\*\*n_)。
+如果_X_1 = _x_1，_X_2 = *x_2，…，*X\*\*n* = *x\*\*n*，那么_Y* = *f*(_x_1，…，*x\*\*n*)。
 
 正如这种反事实所暗示的那样，结构方程应该从右向左阅读：反事实的前提陈述了变量_X_1 到_X\*\*n_的可能值，而结论陈述了内生变量_Y_的相应值。对于变量_X_1 到_X\*\*n_的每种可能值组合，都有这种类型的反事实。重要的是要注意，这种类型的结构方程严格来说不是一个恒等式，因为其中内置了一个右向左的不对称性。这种不对称性对应于非回溯反事实的不对称性。例如，假设实际情况是苏茜和比利都没有扔石头，所以瓶子没有破碎，那么“如果苏茜或比利中的任何一个扔了石头，瓶子就会破碎”这个非回溯反事实是真实的。但是反事实“如果瓶子破碎了，那么苏茜或比利中的任何一个都会扔石头”是错误的。
 
 作为一个例证，考虑用来模拟比利和苏茜的迟发生例子的结构方程集合。鉴于上述列出的变量集合_V_，结构方程集合_E_的成员可以如下所述：
 
-* _ST_ = 1;
-* _BT_ = 1;
-* _SH_ = _ST_;
-* _BH_ = _BT_ & _\~SH_;
-* _BS_ = _SH_ v _BH_.
+* *ST* = 1;
+* *BT* = 1;
+* *SH* = *ST*;
+* *BH* = *BT* & *\~SH*;
+* *BS* = *SH* v *BH*.
 
-在这些方程中，逻辑符号被用来表示二进制变量上的数学函数： _\~X_ = 1 − _X_；_X_ v _Y_ = max{_X_, _Y_}；_X_ & _Y_ = min{_X_, _Y_}。前两个方程简单地陈述了外生变量 _ST_ 和 _BT_ 的实际值。第三个方程对应两个反事实，分别针对 _ST_ 的每个可能值。它表明如果苏茜扔了一块石头（事实上她确实扔了），她的石头会击中瓶子；如果她没有扔石头，瓶子就不会被击中。第四个方程对应四个反事实，针对 _BT_ 和 _\~SH_ 的每种可能值组合。它表明如果比利扔了一块石头且苏茜的石头没有击中瓶子，比利的石头会击中瓶子，但如果这些条件中的一个或多个没有被满足，石头就不会击中瓶子。第五个方程也对应四个反事实，针对 _SH_ 和 _BH_ 的每种可能值组合。它表明如果苏茜的石头或比利的石头中的一块（或可能两块）击中了瓶子，瓶子就会破裂；但如果两块石头都没有击中瓶子，瓶子就不会破裂。
+在这些方程中，逻辑符号被用来表示二进制变量上的数学函数： *\~X* = 1 − *X*；*X* v *Y* = max{*X*, *Y*}；*X* & *Y* = min{*X*, *Y*}。前两个方程简单地陈述了外生变量 *ST* 和 *BT* 的实际值。第三个方程对应两个反事实，分别针对 *ST* 的每个可能值。它表明如果苏茜扔了一块石头（事实上她确实扔了），她的石头会击中瓶子；如果她没有扔石头，瓶子就不会被击中。第四个方程对应四个反事实，针对 *BT* 和 *\~SH* 的每种可能值组合。它表明如果比利扔了一块石头且苏茜的石头没有击中瓶子，比利的石头会击中瓶子，但如果这些条件中的一个或多个没有被满足，石头就不会击中瓶子。第五个方程也对应四个反事实，针对 *SH* 和 *BH* 的每种可能值组合。它表明如果苏茜的石头或比利的石头中的一块（或可能两块）击中了瓶子，瓶子就会破裂；但如果两块石头都没有击中瓶子，瓶子就不会破裂。
 
-上述结构方程可以用_有向图_来表示。集合 _V_ 中的变量被表示为图中的节点。从一个节点 _X_ 指向另一个节点 _Y_ 的箭头表示变量 _X_ 出现在 _Y_ 的结构方程的右侧。在这种情况下，_X_ 被称为 _Y_ 的_父节点_。外生变量由没有箭头指向它们的节点表示。在图中从 _X_ 到 _Y_ 的_有向路径_是连接 _X_ 和 _Y_ 的箭头序列。上述比利和苏茜示例模型的有向图如下图 1 所示：
+上述结构方程可以用_有向图_来表示。集合 *V* 中的变量被表示为图中的节点。从一个节点 *X* 指向另一个节点 *Y* 的箭头表示变量 *X* 出现在 *Y* 的结构方程的右侧。在这种情况下，*X* 被称为 *Y* 的_父节点_。外生变量由没有箭头指向它们的节点表示。在图中从 *X* 到 *Y* 的_有向路径_是连接 *X* 和 *Y* 的箭头序列。上述比利和苏茜示例模型的有向图如下图 1 所示：
 
 ![图 1](https://plato.stanford.edu/entries/causation-counterfactual/figure1.jpg)
 
@@ -244,37 +243,37 @@ _Y_ = _f_(_X_1,…, _X\*\*n_)
 
 (8)
 
-在模型中，如果一个变量_Y_在一个变量_X_上_因果反事实依赖_，那么只有当实际上_X_ = _x_且_Y_ = _y_时，存在值_x_′ ≠ _x_和_y_′ ≠ _y_，替换_X_的方程为_X_ = _x_′会导致_Y_ = _y_′。
+在模型中，如果一个变量_Y_在一个变量_X_上_因果反事实依赖_，那么只有当实际上_X_ = *x_且_Y* = *y_时，存在值_x*′ ≠ *x_和_y*′ ≠ *y*，替换_X_的方程为_X_ = *x*′会导致_Y_ = *y*′。
 
-当然，到目前为止，我们只是拥有了一个我们称之为‘因果模型’的东西，⟨_V, E_⟩；我们还没有得知如何从中提取因果信息。正如现在显而易见的那样，基本的步骤大致如下：‘_c_ 导致 _e_’（或‘_c_ 是 _e_ 的实际原因’）的真实性，其中 _c_ 和 _e_ 是特定的、具体的事件，将取决于两个变量 _X_ 和 _Y_ 之间的反事实关系，由模型编码，其中 _c_ 的发生由形式为 _X = x1_ 的结构方程表示，_e_ 的发生由形式为 _Y = y1_ 的结构方程表示。然而，我们立即可以看到，我们不能简单地将因果关系与上述（8）中定义的反事实依赖等同起来。这将使我们得到“苏茜的投掷导致她的石头击中瓶子”的真实性（_ST_ = 1 和 _SH_ = 1，而且，由于 _SH = ST_ 是 _E_ 的成员，我们知道如果我们将 _ST_ = 1 替换为 _ST_ = 0，我们会得到 _SH_ = 0）。但这不会使我们得到“苏茜的投掷导致瓶子破裂”的真实性，因为如果我们将 _ST_ = 1 替换为 _ST_ = 0 并通过方程计算，我们最终仍然得到 _BS_ = 1。
+当然，到目前为止，我们只是拥有了一个我们称之为‘因果模型’的东西，⟨*V, E*⟩；我们还没有得知如何从中提取因果信息。正如现在显而易见的那样，基本的步骤大致如下：‘*c* 导致 *e*’（或‘*c* 是 *e* 的实际原因’）的真实性，其中 *c* 和 *e* 是特定的、具体的事件，将取决于两个变量 *X* 和 *Y* 之间的反事实关系，由模型编码，其中 *c* 的发生由形式为 *X = x1* 的结构方程表示，*e* 的发生由形式为 *Y = y1* 的结构方程表示。然而，我们立即可以看到，我们不能简单地将因果关系与上述（8）中定义的反事实依赖等同起来。这将使我们得到“苏茜的投掷导致她的石头击中瓶子”的真实性（*ST* = 1 和 *SH* = 1，而且，由于 *SH = ST* 是 *E* 的成员，我们知道如果我们将 *ST* = 1 替换为 *ST* = 0，我们会得到 *SH* = 0）。但这不会使我们得到“苏茜的投掷导致瓶子破裂”的真实性，因为如果我们将 *ST* = 1 替换为 *ST* = 0 并通过方程计算，我们最终仍然得到 *BS* = 1。
 
 然后，我们如何使用结构方程框架来定义“实际因果关系”呢？我们将通过考虑 SEF 如何处理晚发生的先决事件案例，例如 Suzy 和 Billy 的案例来实现这一点。Halpern 和 Pearl（2001 年，2005 年），Hitchcock（2001 年）和 Woodward（2003 年）都大致给出了晚发生的相同处理方式。他们处理的关键在于采用一定的程序来测试因果关系的存在。该程序是寻找连接假定原因和结果的内在过程；通过“冻结”它们实际状态下的非内在环境来抑制它们的非内在环境的影响；然后对假定原因进行反事实测试。因此，例如，要测试 Suzy 扔石头是否导致瓶子破裂，我们应该检查从_ST_经过_SH_到_BS_的过程；将与该过程外在的变量_BH_保持在其实际值（即 0）上；然后摇动变量_ST_以查看它是否改变_BS_的值。最后一步涉及评估反事实“如果 Suzy 没有扔石头，Billy 的石头也没有击中瓶子，瓶子就不会破裂”。很容易看出，这个反事实是真实的。相比之下，当我们执行类似的程序来测试 Billy 扔石头是否导致瓶子破裂时，我们需要考虑反事实“如果 Billy 没有扔他的石头，Suzy 的石头击中了瓶子，瓶子就不会破裂”。这个反事实是错误的。正是这两个反事实的真值差异解释了 Suzy 的扔石头导致瓶子破裂，而不是 Billy 的。 （Yablo 2002 和 2004 年提出了类似的理论，尽管不是在结构方程框架中。）
 
-Hitchcock（2001）提出了这种推理的一个有用的规范化。他将在集合_V_中两个变量_X_和_Z_之间的_一条路径_定义为一个有序变量序列<_X_，_Y_1，...，_Y\*\*n_，_Z_>，使得序列中的每个变量都在_V_中，并且是其后继者的父变量。如果一个变量_Y_（与_X_和_Z_不同）在_X_和_Z_之间，则_Y_是_中间_的，当且仅当它属于_X_和_Z_之间的某条路径。然后，他引入了一个新概念：活跃因果路径：
+Hitchcock（2001）提出了这种推理的一个有用的规范化。他将在集合_V_中两个变量_X_和_Z_之间的_一条路径_定义为一个有序变量序列<*X*，*Y_1，...，*Y\*\*n*，*Z*>，使得序列中的每个变量都在_V_中，并且是其后继者的父变量。如果一个变量_Y*（与_X_和_Z_不同）在_X_和_Z_之间，则_Y_是_中间_的，当且仅当它属于_X_和_Z_之间的某条路径。然后，他引入了一个新概念：活跃因果路径：
 
 (9)
 
-路线 <_X_, _Y_1,…, _Y\*\*n_, _Z_> 在因果模型 <_V_, _E_> 中是_活跃的_，当且仅当_Z_ 在从_E_构建的新方程系统_E’_ 中反事实地依赖_X_时：对于_V_中的所有_Y_，如果_Y_在_X_和_Z_之间但不属于路线<_X_, _Y_1,…, _Y\*\*n_, _Z_>，则用一个新方程替换_Y_的方程，将_Y_设置为在_E_中的实际值。（如果没有不属于此路线的中间变量，则_E’_ 就是_E_。）（Hitchcock 2001: 286）。
+路线 <*X*, *Y_1,…, *Y\*\*n*, *Z*> 在因果模型 <*V*, *E*> 中是_活跃的*，当且仅当_Z_ 在从_E_构建的新方程系统_E’_ 中反事实地依赖_X_时：对于_V_中的所有_Y_，如果_Y_在_X_和_Z_之间但不属于路线<*X*, *Y_1,…, *Y\*\*n*, *Z*>，则用一个新方程替换_Y_的方程，将_Y_设置为在_E_中的实际值。（如果没有不属于此路线的中间变量，则_E’* 就是_E_。）（Hitchcock 2001: 286）。
 
-这个定义概括了在 Suzy 和 Billy 的例子中勾勒出的非正式概念。<_ST, SH, BS_> 是一个活跃的因果路径，因为当我们将_BH_固定在其实际值（Billy 的石头没有击中瓶子）时，_BS_ 在_ST_上反事实地依赖。相比之下，路线<_BT, BH, BS_> 不是活跃的，因为当我们将_SH_固定在其实际值（Suzy 的石头确实击中了瓶子）时，_BS_ 不会反事实地依赖_BT_。
+这个定义概括了在 Suzy 和 Billy 的例子中勾勒出的非正式概念。<*ST, SH, BS*> 是一个活跃的因果路径，因为当我们将_BH_固定在其实际值（Billy 的石头没有击中瓶子）时，*BS* 在_ST_上反事实地依赖。相比之下，路线<*BT, BH, BS*> 不是活跃的，因为当我们将_SH_固定在其实际值（Suzy 的石头确实击中了瓶子）时，*BS* 不会反事实地依赖_BT_。
 
 关于主动因果路径的概念，希区考克用以下术语定义了实际或标记因果关系：
 
 (10)
 
-如果_c_和_e_是不同的实际事件，_X_和_Z_是二元变量，它们的值代表这些事件的发生和不发生，则在适当的因果模型<_V_, _E_>中，只有当从_X_到_Z_存在主动因果路径时，_c_才是_e_的_一个原因_。
+如果_c_和_e_是不同的实际事件，_X_和_Z_是二元变量，它们的值代表这些事件的发生和不发生，则在适当的因果模型<*V*, *E*>中，只有当从_X_到_Z_存在主动因果路径时，*c_才是_e_的_一个原因*。
 
 (我们将在下文[§5.3](https://plato.stanford.edu/entries/causation-counterfactual/#ModsandRe)中回到“适当因果模型”的概念。)
 
-如所述，(10) 不能处理对称过度决定的情况 - 就像苏茜和比利都独立投掷他们的石头一样，每次投掷足以打破瓶子，两块石头都击中了瓶子 - 因此，没有一次投掷能够排除另一次投掷，因为根据(9)中定义的概念，没有一次投掷在主动路径上。为了处理这种情况，希区考克通过用“弱活跃路径”(2001: 290)取代(10)中的“活跃路径”来削弱(10)。这里的基本思想是，只有当在将不在从_X_到_Z_的路径上的变量的一些可能值（不一定是实际值）冻结时，_Z_在\* X_的反事实依赖于_X_时，_ X_和_Z\*之间存在一个弱活跃路径。直观地说，为了恢复苏茜的投掷和破碎之间的反事实依赖性，我们固定 BT = 0：在模型中比利不投掷的情况下，苏茜没有投掷，瓶子就不会破碎。比利的投掷也是如此。
+如所述，(10) 不能处理对称过度决定的情况 - 就像苏茜和比利都独立投掷他们的石头一样，每次投掷足以打破瓶子，两块石头都击中了瓶子 - 因此，没有一次投掷能够排除另一次投掷，因为根据(9)中定义的概念，没有一次投掷在主动路径上。为了处理这种情况，希区考克通过用“弱活跃路径”(2001: 290)取代(10)中的“活跃路径”来削弱(10)。这里的基本思想是，只有当在将不在从_X_到_Z_的路径上的变量的一些可能值（不一定是实际值）冻结时，*Z_在\* X_的反事实依赖于_X_时，* X_和_Z\*之间存在一个弱活跃路径。直观地说，为了恢复苏茜的投掷和破碎之间的反事实依赖性，我们固定 BT = 0：在模型中比利不投掷的情况下，苏茜没有投掷，瓶子就不会破碎。比利的投掷也是如此。
 
-这里采用的基本策略来处理先占和对称过度冗余的问题与 Lewis 对晚期先占问题的准依赖解决方案有明显的相似之处。Lewis 诉诸于准依赖，因为瓶子的破碎(_e_)在反事实上并不依赖于 Suzy 的投掷(_c_)，这要归功于如果她没有投掷会发生什么（即，Billy 的石头会破碎瓶子）。然而，_e_在某种程度上依赖于_c_，因为在一个具有相同法则的可能世界中，从_c_到_e_的过程的内在特征相同，但是 Billy 没有投掷，这里存在所需的反事实依赖关系。在实际值（在晚期先占案例中）下“冻结”不是_c_-_e_过程内在的变量（例如将_BH_冻结为 0）大致起到相同的作用。核心区别在于 Lewis 的解决方案涉及诉诸于一个完全普通的反事实的真实性（“如果 Suzy 没有投掷，…”），在这个可能世界中，一些实际事件（例如 Billy 的击中）不会发生，而结构方程解决方案涉及诉诸于具有特殊类型前提的反事实的真实性（“如果 Suzy 没有投掷且 Billy 的石头仍未击中，…”）。Hitchcock 将这些称为“明确非预测”（ENF）反事实。 （对于对称过度冗余，我们将_BT_冻结为 0 - 这次是一个非实际值 - 以恢复 Suzy 的投掷和破碎之间的反事实依赖关系。）
+这里采用的基本策略来处理先占和对称过度冗余的问题与 Lewis 对晚期先占问题的准依赖解决方案有明显的相似之处。Lewis 诉诸于准依赖，因为瓶子的破碎(*e*)在反事实上并不依赖于 Suzy 的投掷(*c*)，这要归功于如果她没有投掷会发生什么（即，Billy 的石头会破碎瓶子）。然而，*e_在某种程度上依赖于_c*，因为在一个具有相同法则的可能世界中，从_c_到_e_的过程的内在特征相同，但是 Billy 没有投掷，这里存在所需的反事实依赖关系。在实际值（在晚期先占案例中）下“冻结”不是_c_-_e_过程内在的变量（例如将_BH_冻结为 0）大致起到相同的作用。核心区别在于 Lewis 的解决方案涉及诉诸于一个完全普通的反事实的真实性（“如果 Suzy 没有投掷，…”），在这个可能世界中，一些实际事件（例如 Billy 的击中）不会发生，而结构方程解决方案涉及诉诸于具有特殊类型前提的反事实的真实性（“如果 Suzy 没有投掷且 Billy 的石头仍未击中，…”）。Hitchcock 将这些称为“明确非预测”（ENF）反事实。 （对于对称过度冗余，我们将_BT_冻结为 0 - 这次是一个非实际值 - 以恢复 Suzy 的投掷和破碎之间的反事实依赖关系。）
 
 ### 5.2 SEF 和反事实
 
 那些追求 SEF 方法来分析“实际”因果关系的人，即实际特定事件之间的因果关系，对支撑 SEF 的反事实语义几乎没有什么发言。一些作者（例如 Hitchcock 2001）明确地 - 而许多作者则隐含地 - 假定广义上遵循 Lewis 的反事实方法，因此结构方程是关于反事实依赖关系的事实关系的表达 - 如上所述 - 其真值条件大致符合 Lewis 的。
 
-另一方面，一个人可能朝着另一个方向前进，使用 SEF 方法来通过将结构方程（例如 _SH = ST_）视为_因果_依赖关系的表达，从而提供反事实的真值条件，这反过来提供了这些真值条件（Galles＆Pearl 1998，Woodward 和 Hitchcock 2003，Schulz 2011，Briggs 2012）。相关地，一个人可能避开 Lewis 的、基于奇迹的干预概念，而是明确地用因果术语来定义干预（例如参见 Woodward 和 Hitchcock 2003：12-13）。
+另一方面，一个人可能朝着另一个方向前进，使用 SEF 方法来通过将结构方程（例如 *SH = ST*）视为_因果_依赖关系的表达，从而提供反事实的真值条件，这反过来提供了这些真值条件（Galles＆Pearl 1998，Woodward 和 Hitchcock 2003，Schulz 2011，Briggs 2012）。相关地，一个人可能避开 Lewis 的、基于奇迹的干预概念，而是明确地用因果术语来定义干预（例如参见 Woodward 和 Hitchcock 2003：12-13）。
 
 在如何进行的两种不同方式之间的选择与更广泛的辩论联系在一起，即因果关系是否应该从反事实的角度进行分析，反之亦然。当然，Lewis 采取了前一种方法。这样做的一个吸引之处（至少对他而言）是，它符合广义上的休谟议程：由于因果关系是一个模态概念，它威胁到休谟随附论的论题（Lewis 1986a，ix），除非它可以以某种方式被解释为世界之间的相似关系，其中这些相似关系又不依赖于世界的因果（或其他违反休谟随附的）特征。Lewis 对反事实的分析以及他对法则的分析就解决了这个问题。相比之下，其他作者认为这个问题根本无法解决：我们无法分析反事实而不依赖于因果关系（Edgington 2011）。
 
@@ -306,7 +305,7 @@ SEF 解释同样极度假定决定论：与 Lewis 原始的 1973 年解释一样
 
 一种对因果反事实问题的广泛回应是区分“默认”（或“正常”）和“异常”事件，并将这种区别纳入从模型中提取因果信息的方式中。例如，门兹斯的方法利用了上面提到的与希区柯克对称过度决定问题的解决方案有关的机制，其中涉及将“偏离路径”变量固定在非实际值。门兹斯的建议是，我们将这些变量固定在它们的“最正常”值，这样实际上我们评估相关的反事实是从这样一个世界的角度，即这些正常值被实现，而不是从实际世界的角度（门兹斯 2004 年，2007 年，2009 年）。
 
-直觉上，基本思想是（在过度决定的情况下），_BT_和_ST_的“最正常”值都是 0（扔石头打瓶子不正常！），因此从_ST_=0 的世界的角度看，_BS_在反事实上依赖于_ST_（_BT_也是如此）。因此，比利和苏茜的投掷都被视为导致瓶子破碎的原因。毒害某人的咖啡也不正常。因此，我们将凶手未能毒害咖啡固定（因此在这种情况下，“最正常”的世界就是实际世界，就毒害而言），这样就得出了正确的结果，即受害者的生存并不反事实地依赖于保镖施予解药。（参见希区柯克 2007 年提出的依赖于默认/异常区别的不同解决方案。）
+直觉上，基本思想是（在过度决定的情况下），*BT_和_ST_的“最正常”值都是 0（扔石头打瓶子不正常！），因此从_ST*=0 的世界的角度看，*BS_在反事实上依赖于_ST*（_BT_也是如此）。因此，比利和苏茜的投掷都被视为导致瓶子破碎的原因。毒害某人的咖啡也不正常。因此，我们将凶手未能毒害咖啡固定（因此在这种情况下，“最正常”的世界就是实际世界，就毒害而言），这样就得出了正确的结果，即受害者的生存并不反事实地依赖于保镖施予解药。（参见希区柯克 2007 年提出的依赖于默认/异常区别的不同解决方案。）
 
 很难看到，然而，如何可能有一个明确而合理定义的“正常性”概念，能够明确判定变量的“正常”或“默认”值是什么，从而能够提供客观“正确”的模型集，所有这些模型对于同一情况给出相同的判断（Blanchard and Schaffer 2017: §§2 and 3）。Blanchard and Schaffer 认为，“默认相对性”并没有解决它本应解决的一些问题；然而更重要的是，他们认为所谓的同构因果模型案例实际上并不是真正的案例：它们之所以出现是因为相关模型中的一个（或两个）违反了“适当性”的独立动机标准（见[§5.3](https://plato.stanford.edu/entries/causation-counterfactual/#ModsandRe)）。例如，这样一个标准是，变量不应被分配“我们不愿认真对待的”值（Hitchcock 2001: 287）。但园丁和女王的案例违反了这一标准：女王浇水给我的花的可能性，确切地说，是我们不认真对待的。他们还指出，在其他情况下，同构性是由于使用“贫乏”的模型导致的：这些模型未能包含足够的变量来充分表示被建模情况的“基本因果结构”（Blanchard and Schaffer 2017: §3）。
 
@@ -318,108 +317,108 @@ Blanchard and Schaffer 自己的观点是，就我们的因果判断而言，如
 
 ## Bibliography
 
-* Albert, D. Z., 2000. _Time and Chance_, Boston, MA: MIT Press.
+* Albert, D. Z., 2000. *Time and Chance*, Boston, MA: MIT Press.
 * Barker, S., 2004. “Analysing Chancy Causation without Appeal to Chance-raising”, in Dowe and Noordhof 2004, 120-37.
 * Beebee, H., 2004a. “Chance-changing Causal Processes”, in Dowe and Noordhof 2004, 39–57.
 * –––, 2004b. “Causing and Nothingness”, in Collins, Hall and Paul 2004, 291–308.
-* Beebee, H., Hitchcock, C. and Menzies, P. (eds.), 2009. _The Oxford Handbook of Causation_, Oxford: Oxford University Press.
-* Beebee, H., Hitchcock, C. and Price, H. (eds.), 2017. _Making a Difference: Essays on the Philosophy of Causation_, Oxford: Oxford University Press.
-* Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, _Philosophical Perspectives_, 1: 367–86.
+* Beebee, H., Hitchcock, C. and Menzies, P. (eds.), 2009. *The Oxford Handbook of Causation*, Oxford: Oxford University Press.
+* Beebee, H., Hitchcock, C. and Price, H. (eds.), 2017. *Making a Difference: Essays on the Philosophy of Causation*, Oxford: Oxford University Press.
+* Bennett, J., 1987. “Event Causation: the Counterfactual Analysis”, *Philosophical Perspectives*, 1: 367–86.
 * Blanchard, T. and Schaffer, J., 2017. “Cause without Default”, in Beebee, Hitchcock and Price 2017, 175–214.
-* Briggs, R., 2012. “Interventionist Counterfactuals”, _Philosophical Studies_, 160: 139–66.
-* Buckle, S., 2004. _Hume’s Enlightenment Tract: The Unity and Purpose of An Enquiry Concerning Human Understanding_, Oxford: Oxford University Press.
+* Briggs, R., 2012. “Interventionist Counterfactuals”, *Philosophical Studies*, 160: 139–66.
+* Buckle, S., 2004. *Hume’s Enlightenment Tract: The Unity and Purpose of An Enquiry Concerning Human Understanding*, Oxford: Oxford University Press.
 * Cartwright, N., 2017. “Can Structural Equations Explain How Mechanisms Explain?”, in Beebee, Hitchcock and Price 2017, 132–52.
-* Chalupka, K., Eberhardt, F. and Perona, P., 2017. “Causal Feature Learning: An Overview”, _Behaviormetrica_, 44: 137–64.
-* Cheng, P. and Novick, L., 1991. “Causes versus Enabling Conditions”, _Cognition_, 40: 83–120.
-* Clarke, R., Shepherd, J., Stigall, J., Repko Waller, R. and Zarpentine, C., 2015. “Causation, Norms, and Omissions: A Study of Causal Judgements”, _Philosophical Psychology_, 28: 279–93.
-* Collins, J., 2000. “Preemptive Preemption”, _Journal of Philosophy_, 97: 223–34.
-* Collins, J., Hall, N., and Paul, L. (eds.), 2004. _Causation and Counterfactuals_, Cambridge, Mass: MIT Press.
-* Dowe, P., 2000. _Physical Causation_, Cambridge: Cambridge University Press.
+* Chalupka, K., Eberhardt, F. and Perona, P., 2017. “Causal Feature Learning: An Overview”, *Behaviormetrica*, 44: 137–64.
+* Cheng, P. and Novick, L., 1991. “Causes versus Enabling Conditions”, *Cognition*, 40: 83–120.
+* Clarke, R., Shepherd, J., Stigall, J., Repko Waller, R. and Zarpentine, C., 2015. “Causation, Norms, and Omissions: A Study of Causal Judgements”, *Philosophical Psychology*, 28: 279–93.
+* Collins, J., 2000. “Preemptive Preemption”, *Journal of Philosophy*, 97: 223–34.
+* Collins, J., Hall, N., and Paul, L. (eds.), 2004. *Causation and Counterfactuals*, Cambridge, Mass: MIT Press.
+* Dowe, P., 2000. *Physical Causation*, Cambridge: Cambridge University Press.
 * –––, 2004. “Chance-lowering Causes”, in Dowe and Noordhof 2004, 28–38.
-* –––, 2009. “Absences, Possible Causation, and the Problem of Non-Locality”, _The Monist_, 92: 23–40.
-* Dowe, P and Noordhof, P. (eds.), 2004. _Cause and Chance: Causation in an Indeterministic World_, London: Routledge.
-* Edgington, D., 2011. “Causation First: Why Causation is Prior to Counterfactuals”, in C. Hoerl, T. McCormack and S.R. Beck (eds.), _Understanding Causation: Issues in Philosophy and Psychology_ (Oxford: Oxford University Press), 230–41.
-* Elga, A., 2000. “Statistical Mechanics and the Asymmetry of Counterfactual Dependence”, _Philosophy of Science_, 68 (Supplement): 313–24.
-* Ehring, D., 1987. “Causal Relata”, _Synthese_, 73: 319–28.
-* Fenton-Glynn, L., 2017. “A Proposed Probabilistic Extension of the Halpern and Pearl Definition of ‘Actual Cause’”, _The British Journal for the Philosophy of Science_, 68: 1061–124.
-* Frisch, M., 2005. _Inconsistency, Asymmetry and Non-Locality: Philosophical Issues in Classical Electrodynamics_, New York: Oxford University Press.
+* –––, 2009. “Absences, Possible Causation, and the Problem of Non-Locality”, *The Monist*, 92: 23–40.
+* Dowe, P and Noordhof, P. (eds.), 2004. *Cause and Chance: Causation in an Indeterministic World*, London: Routledge.
+* Edgington, D., 2011. “Causation First: Why Causation is Prior to Counterfactuals”, in C. Hoerl, T. McCormack and S.R. Beck (eds.), *Understanding Causation: Issues in Philosophy and Psychology* (Oxford: Oxford University Press), 230–41.
+* Elga, A., 2000. “Statistical Mechanics and the Asymmetry of Counterfactual Dependence”, *Philosophy of Science*, 68 (Supplement): 313–24.
+* Ehring, D., 1987. “Causal Relata”, *Synthese*, 73: 319–28.
+* Fenton-Glynn, L., 2017. “A Proposed Probabilistic Extension of the Halpern and Pearl Definition of ‘Actual Cause’”, *The British Journal for the Philosophy of Science*, 68: 1061–124.
+* Frisch, M., 2005. *Inconsistency, Asymmetry and Non-Locality: Philosophical Issues in Classical Electrodynamics*, New York: Oxford University Press.
 * –––, 2007. “Causation, Counterfactuals and Entropy”, in Price and Corry 2007.
-* Galles, D. and Pearl, J., 1998. “An Axiomatic Characterization of Causal Counterfactuals”, _Foundations of Science_, 3: 151–82.
-* Glynn, L., 2011. “A Probabilistic Analysis of Causation”, _The British Journal for the Philosophy of Science_, 62: 343–92.
+* Galles, D. and Pearl, J., 1998. “An Axiomatic Characterization of Causal Counterfactuals”, *Foundations of Science*, 3: 151–82.
+* Glynn, L., 2011. “A Probabilistic Analysis of Causation”, *The British Journal for the Philosophy of Science*, 62: 343–92.
 * Hall, N., 2004. “Two Concepts of Causation”, in Collins, Hall, and Paul 2004, 225–76.
-* Halpern, J. and Pearl, J., 2001. “Causes and Explanations: A Structural-model Approach – Part I: Causes”, _Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence_, San Francisco: Morgan Kaufman, 194–202.
-* –––, 2005. “Causes and Explanations: A Structural-model Approach – Part I: Causes” (expanded version), _British Journal for the Philosophy of Science_, 56: 843–87.
-* Halpern, J. and Hitchcock, C., 2010. “Actual Causation and the Art of Modeling”, in R. Dechter, H. Geffner and J. Halpern (eds.), _Heuristics, Probability, and Causality: A Tribute to Judea Pearl_ (London: College Publications), 383–406.
-* Hausman, D., 1998. _Causal Asymmetries_, Cambridge: Cambridge University Press.
-* Hiddleston, E., 2005. “Causal Powers”, _The British Journal for the Philosophy of Science_, 56: 27–59.
-* Hilton, D. and Slugoski, B., 1986. “Knowledge-Based Causal Attribution: The Abnormal Conditions Focus Model”, _Psychological Review_, 93: 75–88.
-* Hitchcock, C., 1999. “Contrastive Explanation and the Demons of Determinism”, _British Journal for the Philosophy of Science_, 50: 585–612.
-* –––, 2001. “The Intransitivity of Causation Revealed in Equations and Graphs”, _Journal of Philosophy_, 98: 273–99.
+* Halpern, J. and Pearl, J., 2001. “Causes and Explanations: A Structural-model Approach – Part I: Causes”, *Proceedings of the Seventeenth Conference on Uncertainty in Artificial Intelligence*, San Francisco: Morgan Kaufman, 194–202.
+* –––, 2005. “Causes and Explanations: A Structural-model Approach – Part I: Causes” (expanded version), *British Journal for the Philosophy of Science*, 56: 843–87.
+* Halpern, J. and Hitchcock, C., 2010. “Actual Causation and the Art of Modeling”, in R. Dechter, H. Geffner and J. Halpern (eds.), *Heuristics, Probability, and Causality: A Tribute to Judea Pearl* (London: College Publications), 383–406.
+* Hausman, D., 1998. *Causal Asymmetries*, Cambridge: Cambridge University Press.
+* Hiddleston, E., 2005. “Causal Powers”, *The British Journal for the Philosophy of Science*, 56: 27–59.
+* Hilton, D. and Slugoski, B., 1986. “Knowledge-Based Causal Attribution: The Abnormal Conditions Focus Model”, *Psychological Review*, 93: 75–88.
+* Hitchcock, C., 1999. “Contrastive Explanation and the Demons of Determinism”, *British Journal for the Philosophy of Science*, 50: 585–612.
+* –––, 2001. “The Intransitivity of Causation Revealed in Equations and Graphs”, *Journal of Philosophy*, 98: 273–99.
 * –––, 2004. “Do All and Only Causes Raise the Probabilities of Effects?”, in Collins, Hall and Paul 2004, 403–18.
-* –––, 2007. “Prevention, Preemption, and the Principle of Sufficient Reason”, _Philosophical Review_, 116: 495–532.
+* –––, 2007. “Prevention, Preemption, and the Principle of Sufficient Reason”, *Philosophical Review*, 116: 495–532.
 * –––, 2017. “Actual Causation: What’s the Use?”, in Beebee, Hitchcock and Price 2017, 116–31.
-* Hitchcock, C. and Knobe, J., 2009. “Cause and Norm”, _Journal of Philosophy_, 106: 587–612.
-* Horwich, P., 1987. _Asymmetries in Time_, Cambridge, Mass: MIT Press.
-* Hume, D., 1748. _An Enquiry concerning Human Understanding_.
-* Icard, T., Kominsky, J. and Knobe, J., 2017. “Normality and Actual Causal Strength”, _Cognition_, 161: 80–93.
-* Kaiserman, A., 2017. “Causes and Counterparts”, _Australasian Journal of Philosophy_, 95: 17–28.
-* Kim, J., 1973a. “Causation, Nomic Subsumption, and the Concept of Event”, _The Journal of Philosophy_, 70: 217–36.
-* –––, 1973b. “Causes and Counterfactuals”, _The Journal of Philosophy_, 70: 570–72.
-* Knobe, J. and Fraser, B., 2008. “Causal Judgment and Moral Judgment: Two Experiments”, in W. Sinnott-Armstrong (ed.), _Moral Psychology, Volume 2: The Cognitive Science of Morality: Intuition and Diversity_ (Cambridge MA: MIT Press, 2008), 441–8.
-* Kominsky, J., Phillips, J., Gerstenberg, T., Lagnado, D. and Knobe, J., 2015. “Causal Superseding”, _Cognition_, 137: 196–209.
-* Kutach, D., 2002. “The Entropy Theory of Counterfactuals”, _Philosophy of Science_, 69: 82–104.
-* –––, 2013. _Causation and its Basis in Fundamental Physics_, Oxford: Oxford University Press.
-* Kvart, I., 2001. “Counterexamples to Lewis’ ‘Causation as Influence’”, _Australasian Journal of Philosophy_, 79: 411–23.
+* Hitchcock, C. and Knobe, J., 2009. “Cause and Norm”, *Journal of Philosophy*, 106: 587–612.
+* Horwich, P., 1987. *Asymmetries in Time*, Cambridge, Mass: MIT Press.
+* Hume, D., 1748. *An Enquiry concerning Human Understanding*.
+* Icard, T., Kominsky, J. and Knobe, J., 2017. “Normality and Actual Causal Strength”, *Cognition*, 161: 80–93.
+* Kaiserman, A., 2017. “Causes and Counterparts”, *Australasian Journal of Philosophy*, 95: 17–28.
+* Kim, J., 1973a. “Causation, Nomic Subsumption, and the Concept of Event”, *The Journal of Philosophy*, 70: 217–36.
+* –––, 1973b. “Causes and Counterfactuals”, *The Journal of Philosophy*, 70: 570–72.
+* Knobe, J. and Fraser, B., 2008. “Causal Judgment and Moral Judgment: Two Experiments”, in W. Sinnott-Armstrong (ed.), *Moral Psychology, Volume 2: The Cognitive Science of Morality: Intuition and Diversity* (Cambridge MA: MIT Press, 2008), 441–8.
+* Kominsky, J., Phillips, J., Gerstenberg, T., Lagnado, D. and Knobe, J., 2015. “Causal Superseding”, *Cognition*, 137: 196–209.
+* Kutach, D., 2002. “The Entropy Theory of Counterfactuals”, *Philosophy of Science*, 69: 82–104.
+* –––, 2013. *Causation and its Basis in Fundamental Physics*, Oxford: Oxford University Press.
+* Kvart, I., 2001. “Counterexamples to Lewis’ ‘Causation as Influence’”, *Australasian Journal of Philosophy*, 79: 411–23.
 * –––, 2004. “Causation: Probabilistic and Counterfactual Analyses”, in Collins, Hall, and Paul 2004, 359–86.
-* Lewis, D., 1973a. _Counterfactuals_, Oxford: Blackwell.
-* –––, 1973b. “Causation”, _Journal of Philosophy_, 70: 556–67. Reprinted in his 1986a. Page references to reprinted version.
-* –––, 1979. “Counterfactual Dependence and Time’s Arrow”, _Noûs_, 13: 455–76. Reprinted in his 1986a.
-* –––, 1980. “A Subjectivist’s Guide to Objective Chance”, in R. Jeffrey, ed., _Studies in Inductive Logic and Probability: Volume II_, Reprinted in his 1986a.
-* –––, 1986a. _Philosophical Papers: Volume II_. Oxford: Oxford University Press.
+* Lewis, D., 1973a. *Counterfactuals*, Oxford: Blackwell.
+* –––, 1973b. “Causation”, *Journal of Philosophy*, 70: 556–67. Reprinted in his 1986a. Page references to reprinted version.
+* –––, 1979. “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13: 455–76. Reprinted in his 1986a.
+* –––, 1980. “A Subjectivist’s Guide to Objective Chance”, in R. Jeffrey, ed., *Studies in Inductive Logic and Probability: Volume II*, Reprinted in his 1986a.
+* –––, 1986a. *Philosophical Papers: Volume II*. Oxford: Oxford University Press.
 * –––, 1986b. “Events”, in his 1986a.
 * –––, 1986c. “Postscripts to ‘Causation’”, in his 1986a.
 * –––, 1986d. “Causal Explanation”, in his 1986a.
-* –––, 1986e. _The Plurality of Worlds_, Oxford: Blackwell.
-* –––, 2000. “Causation as Influence”, _Journal of Philosophy_, 97: 182–97.
+* –––, 1986e. *The Plurality of Worlds*, Oxford: Blackwell.
+* –––, 2000. “Causation as Influence”, *Journal of Philosophy*, 97: 182–97.
 * –––, 2004a. “Causation as Influence” (expanded version), in Collins, Hall, and Paul 2004, 75–106.
 * –––, 2004b. “Void and Object”, in Collins, Hall, and Paul 2004, 277–90.
-* Lipton, P. “Contrastive Explanation and Causal Triangulation”, _Philosophy of Science_, 58: 687–97.
-* Livengood, J. and Machery, E., 2007. “The Folk Probably Don’t Think What You Think They Think: Experiments on Causation by Absence”, _Midwest Studies in Philosophy_, XXXI: 107–28.
+* Lipton, P. “Contrastive Explanation and Causal Triangulation”, *Philosophy of Science*, 58: 687–97.
+* Livengood, J. and Machery, E., 2007. “The Folk Probably Don’t Think What You Think They Think: Experiments on Causation by Absence”, *Midwest Studies in Philosophy*, XXXI: 107–28.
 * Loewer, B., 2007. “Counterfactuals and the Second Law”, in Price and Corry 2007, 293–326.
 * Maslen, C., 2004. “Causes, Contrasts, and the Nontransitivity of Causation”, in Collins, Hall, and Paul 2004, 341–58.
-* McDonnell, N., 2016. “Events and their Counterparts”, _Philosophical Studies_, 173: 1291–308.
-* –––, 2018. “Making a Contribution and Making a Difference”, _American Philosophical Quarterly_, 55: 303–12.
-* McGrath, S., 2005. “Causation by Omission”, _Philosophical Studies_, 123: 125–48
-* Mellor, D. H., 1995. _The Facts of Causation_, London: Routledge.
+* McDonnell, N., 2016. “Events and their Counterparts”, *Philosophical Studies*, 173: 1291–308.
+* –––, 2018. “Making a Contribution and Making a Difference”, *American Philosophical Quarterly*, 55: 303–12.
+* McGrath, S., 2005. “Causation by Omission”, *Philosophical Studies*, 123: 125–48
+* Mellor, D. H., 1995. *The Facts of Causation*, London: Routledge.
 * –––, 2004. “For Facts as Causes and Effects”, in Collins, Hall, and Paul 2004, 309–24.
-* Menzies, P., 1996. “Probabilistic Causation and the Pre-emption Problem”, _Mind_, 105: 85-117.
-* –––, 1999. “Intrinsic versus Extrinsic Conceptions of Causation”, in H. Sankey (ed.), _Causation and Laws of Nature_, Kluwer Academic Publishers, 313–29.
+* Menzies, P., 1996. “Probabilistic Causation and the Pre-emption Problem”, *Mind*, 105: 85-117.
+* –––, 1999. “Intrinsic versus Extrinsic Conceptions of Causation”, in H. Sankey (ed.), *Causation and Laws of Nature*, Kluwer Academic Publishers, 313–29.
 * –––, 2004. “Difference-Making in Context”, in Collins, Hall, and Paul 2004, 139–80.
 * –––, 2007. “Causation in Context”, in Price and Corry 2007, 191–223.
 * –––, 2009. “Platitudes and Counterexamples”, in Beebee, Hitchcock and Menzies 2009, 341–67.
 * –––, 2017. “The Problem of Counterfactual Isomorphs”, in Beebee, Hitchcock and Price 2017, 153–74.
-* Montminy, M. and Russo, A. (2016). “A Defense of Causal Invariantism”, _Analytic Philosophy_, 57: 49–75
-* Northcott, R., 2008. “Causation and Contrast Classes”, _Philosophical Studies_, 139: 111–23.
-* Noordhof, P., 1999. “Probabilistic Causation, Preemption, and Counterfactuals”, _Mind_, 108: 95–125.
+* Montminy, M. and Russo, A. (2016). “A Defense of Causal Invariantism”, *Analytic Philosophy*, 57: 49–75
+* Northcott, R., 2008. “Causation and Contrast Classes”, *Philosophical Studies*, 139: 111–23.
+* Noordhof, P., 1999. “Probabilistic Causation, Preemption, and Counterfactuals”, *Mind*, 108: 95–125.
 * –––, 2004. “Prospects for a Counterfactual Theory”, in Dowe and Noordhof 2004, 188–201.
 * Paul, L. A., 2004. “Aspect Causation”, in Collins, Hall, and Paul 2004, 205–24.
-* Paul, L. A. and Hall, N., 2013. _Causation: A User’s Guide_, Oxford: Oxford University Press.
-* Pearl, J., 2000. _Causality_, Cambridge: Cambridge University Press.
-* Price, H., 1996. _Time’s Arrow and Archimedes’ Point_, Oxford: Oxford University Press.
-* Price, H and Corry, R. (eds.), 2007. _Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited_, Oxford: Oxford University Press.
+* Paul, L. A. and Hall, N., 2013. *Causation: A User’s Guide*, Oxford: Oxford University Press.
+* Pearl, J., 2000. *Causality*, Cambridge: Cambridge University Press.
+* Price, H., 1996. *Time’s Arrow and Archimedes’ Point*, Oxford: Oxford University Press.
+* Price, H and Corry, R. (eds.), 2007. *Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited*, Oxford: Oxford University Press.
 * Price, H. and Weslake, B., 2009. “The Time-Asymmetry of Causation”, in Beebee, Hitchcock, and Menzies 2009, 414–43.
-* Ramachandran, M., 1997. “A Counterfactual Analysis of Causation”, _Mind_, 106: 263–77.
+* Ramachandran, M., 1997. “A Counterfactual Analysis of Causation”, *Mind*, 106: 263–77.
 * –––, 2004. “A Counterfactual Analysis of Indeterministic Causation”, in Collins, Hall, and Paul 2004, 387–402.
-* Schaffer, J., 2000a. “Trumping Preemption”, _Journal of Philosophy_, 9: 165–81.
-* –––, 2000b. “Causation by Disconnection”, _Philosophy of Science_, 67: 285–300.
-* –––, 2005. “Contrastive Causation”, _Philosophical Review_, 114: 297–328.
-* Schulz, K., 2011. “‘If you’d wiggled A, then B would’ve changed’: Causality and Counterfactual Conditionals”, _Synthese_, 179: 239–51.
-* Spirtes, P., Glymour, C, and Scheines, R., 2001. _Causation, Prediction, and Search_, 2nd edn. New York: Springer.
-* Steglich-Petersen, J., 2012. “Against the Contrastive Account of Singular Causation”, _British Journal for the Philosophy of Science_, 63: 115–43.
-* Woodward, J., 2003. _Making Things Happen: A Theory of Causal Explanation_, Oxford: Oxford University Press.
-* –––, 2016. “The Problem of Variable Choice”, _Synthese_, 193: 1047–72.
-* Woodward, J. and Hitchcock, C., 2003. “Explanatory Generalizations. Part I: A Counterfactual Account”, _Noûs_, 37: 1–24.
-* Yablo, S., 2002. “De Facto Dependence”, _Journal of Philosophy_, 99: 130–48.
+* Schaffer, J., 2000a. “Trumping Preemption”, *Journal of Philosophy*, 9: 165–81.
+* –––, 2000b. “Causation by Disconnection”, *Philosophy of Science*, 67: 285–300.
+* –––, 2005. “Contrastive Causation”, *Philosophical Review*, 114: 297–328.
+* Schulz, K., 2011. “‘If you’d wiggled A, then B would’ve changed’: Causality and Counterfactual Conditionals”, *Synthese*, 179: 239–51.
+* Spirtes, P., Glymour, C, and Scheines, R., 2001. *Causation, Prediction, and Search*, 2nd edn. New York: Springer.
+* Steglich-Petersen, J., 2012. “Against the Contrastive Account of Singular Causation”, *British Journal for the Philosophy of Science*, 63: 115–43.
+* Woodward, J., 2003. *Making Things Happen: A Theory of Causal Explanation*, Oxford: Oxford University Press.
+* –––, 2016. “The Problem of Variable Choice”, *Synthese*, 193: 1047–72.
+* Woodward, J. and Hitchcock, C., 2003. “Explanatory Generalizations. Part I: A Counterfactual Account”, *Noûs*, 37: 1–24.
+* Yablo, S., 2002. “De Facto Dependence”, *Journal of Philosophy*, 99: 130–48.
 * –––, 2004. “Advertisement for a Sketch of an Outline of a Prototheory of Causation”, in Collins, Hall, and Paul 2004, 119–38.
 
 ## Academic Tools
@@ -440,4 +439,4 @@ Blanchard and Schaffer 自己的观点是，就我们的因果判断而言，如
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
 Peter Menzies\
-[Helen Beebee](https://ahc.leeds.ac.uk/philosophy/staff/3939/professor-helen-beebee) <[_H.Beebee@leeds.ac.uk_](mailto:H%2eBeebee%40leeds%2eac%2euk)>
+[Helen Beebee](https://ahc.leeds.ac.uk/philosophy/staff/3939/professor-helen-beebee) <[*H.Beebee@leeds.ac.uk*](mailto:H%2eBeebee%40leeds%2eac%2euk)>

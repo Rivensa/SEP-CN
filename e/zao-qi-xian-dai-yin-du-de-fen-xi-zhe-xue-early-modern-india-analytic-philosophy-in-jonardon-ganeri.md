@@ -1,6 +1,6 @@
 # 早期现代印度的分析哲学 Early Modern India, analytic philosophy in (Jonardon Ganeri)
 
-_首次发表于 2009 年 3 月 10 日星期二；实质性修订于 2023 年 11 月 5 日星期日_
+*首次发表于 2009 年 3 月 10 日星期二；实质性修订于 2023 年 11 月 5 日星期日*
 
 早期印度的两个哲学传统，早期 Nyāya（以高达摩·阿克沙帕达的 Nyāya-sūtra 为基础，约公元 100 年，主要涉及逻辑学、认识论和辩论理论）和 Vaiśeṣika（以卡纳达的 Vaiśeṣika-sūtra 为基础，约公元前 100 年，主要涉及本体论），在某个时候直到 11 或 12 世纪，它们并行发展，最终合并形成一个新学派，称为“Navya-Nyāya”，即新 Nyāya 或“新理性”学派（Ganeri 2011）。尽管其名称为 Navya-Nyāya，但它融合并发展了古典 Vaiśeṣika 形而上学以及古典 Nyāya 认识论。Navya-Nyāya 的作者们还通过运用精确的技术语言发展出许多传统哲学问题可以得到澄清和解决。Navya-Nyāya 的技术证明是如此多才多艺，以至于它们不仅被哲学家使用，还被用于诗学、语言学、法律理论和其他中世纪印度思想领域。这个学派的基础文本是 Gaṅgeśa 的杰出而创新的《真理反思之宝》（Tattvacintāmaṇi）。该学派持续发展了大约四个世纪，达到了其巅峰，作品有 Raghunātha、Jagadīśa 和 Gadādhara（Ganeri 2014）。该学派对其技术词汇的精湛运用使其变得越来越难以理解，因此，在 17 和 18 世纪，写了几本手册或概要来用简化的语言解释该学派的基本原则。我将根据其中最成功的一本概要，Annambhaṭṭa 的《理性手册》（Tarkasaṃgraha；以下简称 TS），以及其自注释 Dīpikā（以下简称 TSD），描述 Navya-Nyāya 的哲学原则。这本文本被昵称为 Bāla-gādādharī，一种对 Gadādhara 的“初学者指南”。《理性手册》不仅呈现了 Vaiśeṣika 的范畴理论（物理理论、形而上学和心理哲学的混合），以及新 Nyāya 系统的认识论、方法论和逻辑技术，还插入了有关各种哲学问题的迷人讨论，使文本成为后来印度分析哲学的一部有趣且富有启发性的介绍（G. Bhattacharya 1983 翻译；有关该文本的讨论，还请参阅 Athalye 1930，Atreya 1948，C. Bhattacharya 1966，Foucher 1949，Shastri 1961）。
 
@@ -155,7 +155,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 2. 空间是诸如“这个在那个东边”等陈述的“基础”（TS 16）
 3. 空间是独特的、无处不在的、永恒的 (TS16)。
 4. 空间是每一个效果的工具原因（TSD16）。
-5. ‘Nearness’ (_aparatva_) and ‘farness’ (_paratva_) are spatial qualities of objects.
+5. ‘Nearness’ (*aparatva*) and ‘farness’ (*paratva*) are spatial qualities of objects.
 
 空间被构想为一种物质，由此可以得出关于距离和方向的陈述，例如“ A 在 B 的东边”（或“ A 靠近 B”，“ A 比 C 更靠近 B”，等等）是客观真实或虚假的。因此，空间是一个解释性的假设：人们认为我们必须假定存在一种新的（空间）物质来解释物体之间的空间关系。问题在于理解这一说法。Bhaduri（1947：216-7）这样做如下（我对他的描述进行了改述）：
 
@@ -248,7 +248,7 @@ Athalye (1930: 75)提出了一种纯粹的先验理由，寻求列表背后的�
 
 根据认识论的观点，认知类别中最重要的区分是真实的认知和其他认知之间的区别。然而，尼耶亚学派对认知种类的标准分类，由《理性手册》重复，从另一个区分开始，即记忆认知（smṛti）和其余认知（anubhava；非回忆性认知）。完整的分类如下：
 
-认知 | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | 非回忆 经验 | | | | | 记忆 真（smṛti） (_pramā_) 感知 推理 基于比较的 基于证词的 | | 不真实 (_apramā_) 错误 (viparyaya; 4 种类型) 怀疑（saṃśaya） 逻辑学 | | | “真” (yathārtha) | | “不真实” (_ayathārtha_) | | | | | | | | | | | |
+认知 | | --- | --- | --- | --- | --- | --- | --- | --- | --- | | | | | | | | | | | | 非回忆 经验 | | | | | 记忆 真（smṛti） (*pramā*) 感知 推理 基于比较的 基于证词的 | | 不真实 (*apramā*) 错误 (viparyaya; 4 种类型) 怀疑（saṃśaya） 逻辑学 | | | “真” (yathārtha) | | “不真实” (*ayathārtha*) | | | | | | | | | | | |
 
 尼耶哲学认识论实际上是关于真实的非回忆认知的理论，并根据它们产生的不同认知手段（pramāṇa-s）将其分为四种类型。（关于偶然真实的认知，例如幸运猜测的结果怎么样？将它们纳入上述框架中存在讨论充分的问题）。很明显，无论我们的认知方法有多么可靠，偶尔会出现错误认知的可能性总是存在（例如感知错觉，由报告错误导致的信念等）。《理性手册》的例子（TS 72）是关于在看到牡蛎壳时做出错误的伪感知判断“这是一块银子”。我将在第 7、8 和 9 节分别讨论感知、推理和证词的认识论。在这里，我将更详细地讨论三种认知类型，尽管在尼耶框架内非常重要，但是作为其认识论的附属。它们是：记忆，‘怀疑’和 tarka。（梦境在这个框架中如何定位？TS 70 指出它们属于‘虚假’认知的范畴。然而，这很奇怪，因为它们不是四种认知手段中任何一种失灵的产物。它们也不是记忆或怀疑的状态。根据普拉萨斯塔帕达的说法，梦境是‘心灵’在未连接外部感官时自由运动的结果，受到 adṛṣṭa，‘看不见’力量的影响。）
 
@@ -430,7 +430,7 @@ i.
 
 ii.
 
-∃_x_ (_Hx_ & _Sx_).
+∃*x* (*Hx* & *Sx*).
 
 根据上述要求，将文本翻译成简体中文：Gaṅgeśa 的技巧隐含地基于定理“A → B ≡ ¬ (A & ¬ B)”。因此，子句（i）几乎等同于 V1。这也表明我们尚未有一个能够处理部分可定位属性的定义，对此我们需要类似 V2 的东西。因此，Gaṅgeśa 的最终定义是：
 
@@ -440,11 +440,11 @@ V3
 
 抽象的概念在哲学中扮演着重要的角色，它们帮助我们理解世界和我们自己。在《Being and Time》中，海德格尔探讨了存在的本质，强调了存在与实体之间的区别。这种存在的概念超越了简单的物质实体，涉及到我们作为人类存在的方式。海德格尔认为，人类存在是一种“把握存在”的存在，这意味着我们通过我们的存在方式来理解世界。这种存在方式涉及到时间、空间和我们与他人的关系。海德格尔的哲学挑战了传统的本体论观念，强调了存在的暂时性和复杂性。
 
-∃_x_ (_Hx_ & _P_′_x_ & ¬_Px_) → (_P_ ≠ _S_), and
+∃*x* (*Hx* & *P*′*x* & ¬*Px*) → (*P* ≠ *S*), and
 
 ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受争议的话题。在《印度哲学史》一书中，作者对这种关系进行了深入的探讨。根据作者的观点，宗教和哲学在印度文化中有着密不可分的联系，相互影响并共同塑造了印度人的思维方式。这种联系不仅体现在宗教文本中，还体现在哲学思想和学术讨论中。通过研究印度哲学史，我们可以更好地理解宗教和哲学在印度社会中的重要性，以及它们如何共同推动了印度文化的发展。
 
-∃_x_ (_Hx_ & _Sx_).
+∃*x* (*Hx* & *Sx*).
 
 这种普遍性的定义能够处理既是普遍正面属性又是部分定位属性的推断属性。
 
@@ -624,7 +624,7 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 
 在诸如 t2 的时刻会发生什么？这些时刻是 A 存在或存在（位于）的时刻。此外，请注意，在 t2 时刻，存在\<A 的后缺席（因为 A 出现时 A 的先前缺席被破坏），我们用“（\<A）>”来表示。还存在 A 的先前缺席>（因为 A 的后缺席尚不存在），即“<（A）>”。《理性手册（TSD 89E）》记录了旧纳亚派的主张，即这些双重缺席必须与原始实体相同，否则将导致无限回归。因此：
 
-(<_A_)> = <(_A_>) = _A_.
+(<*A*)> = <(*A*>) = *A*.
 
 后来的 Naiyāyikas 显然对这种自然身份进行了争论（这对应于古典逻辑中的双重否定法则），理由是双重否定结构包含否定概念，因此在逻辑上更为复杂。
 
@@ -664,67 +664,67 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 
 ### Navya-Nyāya Texts in English Translation
 
-* _The Manual of Reason_ (Annambhaṭṭa). _Tarkasaṃgrahadīpikā on Tarkasaṃgraha_, edited and translated by G. Bhattacharya. Calcutta: Progressive Publishers (1983).
-* _Tattvacintāmaṇi_ (Gaṅgeśa). _Epistemology Of Perception: Gaṅgeśa’s_ Tattvacintāmaṇi\*, Jewel Of Reflection On The Truth (About Epistemology): The Perception Chapter (_Pratyakṣa-khaṇḍa_), Transliterated Text, Translation, And Philosophical Commentary.\* By Stephen H. Phillips and N.S. Ramanuja Tatacharya. Treasury of the Indic Sciences. New York: American Institute of Buddhist Studies, 2004.
-* _Padārthatattvanirūpaṇa_ (Raghunātha). _The Padārthatattvanirūpaṇam of Raghunātha śiromaṇi_, trans. Karl Potter. Cambridge, Mass.: Harvard-Yenching Institute (1957).
-* _Nyāyasiddāntamañjarī_ (Janakīnātha Cūḍāmaṇi). _Perception and Inference in the Nyāyasiddāntamañjarī_, text, translation and notes, by Tuvia Gelblum. University of London PhD Thesis (1960–61).
-* _Bhāṣāpariccheda_ (Viśvanātha). _Bhāṣāparicceda with Siddhānta-muktāvalī_, trans. Swami Madhavananda. Calcutta: Advaita Ashrama (1996).
-* _Tarka-kaumudī_ (Laugākṣi Bhāskara). _The Moonlight of Logic: Studies in Laugākṣi Bhāskara’s Tarka-kaumudī_, trans. Plamen Gradinarov. Delhi: Ajanta Books (1991).
-* _Śaktivāda_ (Gadādhara). _Gadādhara’s śaktivāda: Theory of the Expressive Power of Words_, trans. V. P. Bhatta. Delhi: Eastern Book Linkers (1994).
+* *The Manual of Reason* (Annambhaṭṭa). *Tarkasaṃgrahadīpikā on Tarkasaṃgraha*, edited and translated by G. Bhattacharya. Calcutta: Progressive Publishers (1983).
+* *Tattvacintāmaṇi* (Gaṅgeśa). *Epistemology Of Perception: Gaṅgeśa’s* Tattvacintāmaṇi\*, Jewel Of Reflection On The Truth (About Epistemology): The Perception Chapter (*Pratyakṣa-khaṇḍa*), Transliterated Text, Translation, And Philosophical Commentary.\* By Stephen H. Phillips and N.S. Ramanuja Tatacharya. Treasury of the Indic Sciences. New York: American Institute of Buddhist Studies, 2004.
+* *Padārthatattvanirūpaṇa* (Raghunātha). *The Padārthatattvanirūpaṇam of Raghunātha śiromaṇi*, trans. Karl Potter. Cambridge, Mass.: Harvard-Yenching Institute (1957).
+* *Nyāyasiddāntamañjarī* (Janakīnātha Cūḍāmaṇi). *Perception and Inference in the Nyāyasiddāntamañjarī*, text, translation and notes, by Tuvia Gelblum. University of London PhD Thesis (1960–61).
+* *Bhāṣāpariccheda* (Viśvanātha). *Bhāṣāparicceda with Siddhānta-muktāvalī*, trans. Swami Madhavananda. Calcutta: Advaita Ashrama (1996).
+* *Tarka-kaumudī* (Laugākṣi Bhāskara). *The Moonlight of Logic: Studies in Laugākṣi Bhāskara’s Tarka-kaumudī*, trans. Plamen Gradinarov. Delhi: Ajanta Books (1991).
+* *Śaktivāda* (Gadādhara). *Gadādhara’s śaktivāda: Theory of the Expressive Power of Words*, trans. V. P. Bhatta. Delhi: Eastern Book Linkers (1994).
 
 ### General Works
 
-* Anrò, Alberto, 2022, “Nyāya Formalized: Exercises of Application”, _Philosophy East and West_, 72 (1): 1–34.
-* Athalye, Y. V., 1930, _Tarka-saṃgraha of Annambhaṭṭa, with the authors own Dīpikā and Govardhana’s Nyāya-bodhini_, edited with critical and explanatory notes, 2nd Edition: Bombay Sanskrit Series, No. LV.
-* Atreya, B. L., 1948, _The Elements of Indian Logic, with the text and translation of Tarkasaṃgraha_, 3rd Edition: Bombay: Nalanda Publications.
-* Bagchi, S., 1953, _Inductive Reasoning: A Study of tarka and its Role in Indian Logic_, Calcutta: Calcutta Oriental Press Ltd.
-* Bhaduri, S., 1947, _Studies in Nyāya-Vaiśeṣika Metaphysics_, Poona: Bhandarkar Oriental Research Institute.
-* Baslev, A. N., 1983, _A Study of Time in Indian Philosophy_, Wiesbaden: O. Harrassowitz.
-* Bhattacharya, C., 1966, _The Elements of Indian Logic and Epistemology_, Calcutta, Modern Book Agency.
-* Bhattacharyya, S., 1987, “Some Aspects of the Navya-Nyāya Theory of Pervasion”, in his _Doubt, Belief and Knowledge_.
-* –––, 2004, _Development of Nyāya Philosophy and its Social Context_, PHISPC Volume III Part 3, New Delhi: Centre for Studies in Civilizations.
-* Bhattacharyya, S. and K. H. Potter, 1994, “Navya-Nyāya from Gaṅgeśa to Raghunātha”, _Encyclopedia of Indian Philosophies_ (Vol. VI), Delhi: Motilal Banarsidass Publishers.
-* Burton, Jim, 2020, “Diagrams for Navya-Nyāya”, _Journal of Indian Philosophy_, 48 (2): 229–254.
-* Dash, Subash Chandra, 2013, _A Navya-Nyāya discussion on the meaning of the negative particle nañ: a study of the Nañvādakārikā of Udayana_, Toshihiro Wada (ed.), Nagoya: Nagoya University Association of Indian and Buddhist Studies.
-* David, Hugo & Duquette, Jonathan, 2021, “Epistemology, Logic and Metaphysics in Pre-Modern India: New Avenues for the Study of Navya-Nyāya”, _Journal of Indian Philosophy_, 49 (2): 145–151.
-* Doctor, Payal, 2015, “Quotations, References, and the Re-use of Texts in the Early Nyāya Tradition”, _Journal of Indian Philosophy_, 43 (2–3): 109–135.
-* Dravid, R. R., 1972, _The Problem of Universals in Indian Philosophy_, Delhi: Motilal Banarsidass Publishers.
-* Faddegon, B., 1918, _The Vaiceṣika System, described with the help of the oldest texts_, Amsterdam: J. Muller.
-* Foucher, A., 1949, _Le Compendium des Topiques D’ Annambhaṭṭa_, Paris: A. Maisonneuve.
-* Ganeri, J., 2012, _The Self: Naturalism, Consciousness and the First-Person Stance_, Oxford: Oxford University Press.
-* –––, 2011, _The Lost Age of Reason: Philosophy in Early Modern India 1450–1700_, Oxford: Oxford University Press.
-* Ghosh, Raghunath, 2023, “The Concept of Anumāna in Navya-nyāya”, _Studia Humana_, 12 (1-2): 4–11.
-* Goekoop, G., 1977, _The Logic of Invariable Concomitance in the Tattvacintāmaṇi_, Dordrecht: Reidel; originally published 1967.
-* Guhe, Eberhard, 2022, “Maheśa Chandra’s Exposition of the Navya-Nyāya Concept of ‘Cognition’ (jñāna) from the Perspective of Inquisitive Logic”, _Journal of Indian Philosophy_, 50 (5): 835–864.
-* Mullatti, L.C., 1977, _The Navya-Nyāya Theory of Inference_, Dharwad: Karnatak University.
-* Halbfass, W., 1992, _On Being and What There Is: Classical Vaiśeṣika and the history of Indian Ontology_, Albany: State University of New York Press.
-* Ingalls, D., 1951, _Materials for the Study of Navya-nyāya Logic_, Cambridge, Mass.: Harvard University Press.
-* Mandal, K. K., 1968, _A Comparative Study of the Concepts of Space and Time in Indian Thought_, Varanasi: Chowkhamba Sanskrit Series Office.
-* Matilal, B. K., 1968, _The Navya-nyāya Doctrine of Negation: The semantics and Ontology of Negative Statements in Navya-nyāya Philosophy_, Cambridge, Mass.: Harvard University Press.
-* –––, 1977, _Nyāya-Vaiśeṣika_, Wiesbaden: Harrassowitz.
-* –––, 1985, _Logic, Language and Reality_, Delhi: Motilal Banarsidass.
-* –––, 1986, _Perception: An Essay on Classical Indian Theories of Knowledge_, Oxford: Clarendon.
-* –––, 1991, _The Word and the World: India’s Contribution to the Study of Language_, Delhi: Oxford University Press.
-* Mishra, U., 1987, _The Conception of Matter according to Nyāya-Vaiśeṣika_, 2nd edition, Delhi: Gian Publishing House.
-* Mohanty, J. N., 1966, “Nyāya Theory of Doubt”, in his _Essays on Indian Philosophy_ (1993). New Delhi ; Oxford: Oxford University Press, 44–61.
-* –––, 1992, _Reason and Tradition in Indian Thought_, Oxford: Clarendon.
-* Phillips, S., 1995, _Classical Indian Metaphysics: Refutations of Realism and the Emergence of New Logic_, London: Open Court.
-* –––, 2011, _Epistemology in Classical India: The Knowledge Sources of the Nyaya School_, London: Routledge.
-* Potter, K. H., 1977, “The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa”, _Encyclopedia of Indian Philosophies_ (Vol. II), Delhi: Motilal Banarsidass Publishers.
-* Raja, K., 1966, _Indian Theories of Meaning_, Madras: Adyar Library and Research Centre.
-* Schayer, S., 1938, _Contributions to the Problem of Time in Indian Philosophy_, Kraków: Nakładem Polskiej Akademii Umiejętności.
-* Seal, B., 1915, _The Positive Sciences of the Ancient Hindus_, London: Longmans, Green.
-* Sen, P. K. (ed.), 2006, _Philosophical Concepts Relevant to Sciences in Indian Tradition_, PHISPC Volume III Part 4, New Delhi: Centre for Studies in Civilizations.
-* Sen, S. N., 1966, “The Impetus Theory of the Vaiśeṣika”, _Indian Jou_[_11.md_](https://github.com/taophilosophy/SEP-CN/files/14913327/11.md) _rnal for the History of Science_, 1, 34–45.
-* Shastri, S. K., 1961, _A Primer of Indian Logic according to Annambhaṭṭa’s Tarkasaṃgraha_, Madras: Kuppuswami Sastri Research Institute.
-* Siderits, M., 1991, _Indian Philosophy of Language_, Dordrecht: Kluwer Academic Publishers.
-* Staal, F., 1988, “Means of Formalisation in Indian and Western Logic”, in his _Universal: Studies in Indian Logic and Linguistics_ (1988). Chicago: University of Chicago Press, 81–87.
-* Subbarayappa, B. V., 1968, “An Estimate of the Vaiśeṣika Sūtra in the History of Science”, _Indian Journal for the History of Science_, 2: 24–34.
-* Tachikawa, M., 1981, _The Structure of the World in Udayana’s Realism_, Dordrecht: D. Reidel.
-* Thakur, A., 2003, _Origin and Development of the Vaiśeṣika System_, PHISPC Volume II Part 4, New Delhi: Centre for Studies in Civilizations.
-* Vattanky, J., 1984, _Gaṅgeśa’s Philosophy of God_, Madras: Adyar Library and Research Centre.
-* Wada, T., 2007, _The Analytical Method of Navya-Nyāya_, Groningen: Egbert Forsten.
-* Wada, Toshihiro, 2020, _Navya-Nyāya philosophy of language_. New Delhi: DK Printworld.
+* Anrò, Alberto, 2022, “Nyāya Formalized: Exercises of Application”, *Philosophy East and West*, 72 (1): 1–34.
+* Athalye, Y. V., 1930, *Tarka-saṃgraha of Annambhaṭṭa, with the authors own Dīpikā and Govardhana’s Nyāya-bodhini*, edited with critical and explanatory notes, 2nd Edition: Bombay Sanskrit Series, No. LV.
+* Atreya, B. L., 1948, *The Elements of Indian Logic, with the text and translation of Tarkasaṃgraha*, 3rd Edition: Bombay: Nalanda Publications.
+* Bagchi, S., 1953, *Inductive Reasoning: A Study of tarka and its Role in Indian Logic*, Calcutta: Calcutta Oriental Press Ltd.
+* Bhaduri, S., 1947, *Studies in Nyāya-Vaiśeṣika Metaphysics*, Poona: Bhandarkar Oriental Research Institute.
+* Baslev, A. N., 1983, *A Study of Time in Indian Philosophy*, Wiesbaden: O. Harrassowitz.
+* Bhattacharya, C., 1966, *The Elements of Indian Logic and Epistemology*, Calcutta, Modern Book Agency.
+* Bhattacharyya, S., 1987, “Some Aspects of the Navya-Nyāya Theory of Pervasion”, in his *Doubt, Belief and Knowledge*.
+* –––, 2004, *Development of Nyāya Philosophy and its Social Context*, PHISPC Volume III Part 3, New Delhi: Centre for Studies in Civilizations.
+* Bhattacharyya, S. and K. H. Potter, 1994, “Navya-Nyāya from Gaṅgeśa to Raghunātha”, *Encyclopedia of Indian Philosophies* (Vol. VI), Delhi: Motilal Banarsidass Publishers.
+* Burton, Jim, 2020, “Diagrams for Navya-Nyāya”, *Journal of Indian Philosophy*, 48 (2): 229–254.
+* Dash, Subash Chandra, 2013, *A Navya-Nyāya discussion on the meaning of the negative particle nañ: a study of the Nañvādakārikā of Udayana*, Toshihiro Wada (ed.), Nagoya: Nagoya University Association of Indian and Buddhist Studies.
+* David, Hugo & Duquette, Jonathan, 2021, “Epistemology, Logic and Metaphysics in Pre-Modern India: New Avenues for the Study of Navya-Nyāya”, *Journal of Indian Philosophy*, 49 (2): 145–151.
+* Doctor, Payal, 2015, “Quotations, References, and the Re-use of Texts in the Early Nyāya Tradition”, *Journal of Indian Philosophy*, 43 (2–3): 109–135.
+* Dravid, R. R., 1972, *The Problem of Universals in Indian Philosophy*, Delhi: Motilal Banarsidass Publishers.
+* Faddegon, B., 1918, *The Vaiceṣika System, described with the help of the oldest texts*, Amsterdam: J. Muller.
+* Foucher, A., 1949, *Le Compendium des Topiques D’ Annambhaṭṭa*, Paris: A. Maisonneuve.
+* Ganeri, J., 2012, *The Self: Naturalism, Consciousness and the First-Person Stance*, Oxford: Oxford University Press.
+* –––, 2011, *The Lost Age of Reason: Philosophy in Early Modern India 1450–1700*, Oxford: Oxford University Press.
+* Ghosh, Raghunath, 2023, “The Concept of Anumāna in Navya-nyāya”, *Studia Humana*, 12 (1-2): 4–11.
+* Goekoop, G., 1977, *The Logic of Invariable Concomitance in the Tattvacintāmaṇi*, Dordrecht: Reidel; originally published 1967.
+* Guhe, Eberhard, 2022, “Maheśa Chandra’s Exposition of the Navya-Nyāya Concept of ‘Cognition’ (jñāna) from the Perspective of Inquisitive Logic”, *Journal of Indian Philosophy*, 50 (5): 835–864.
+* Mullatti, L.C., 1977, *The Navya-Nyāya Theory of Inference*, Dharwad: Karnatak University.
+* Halbfass, W., 1992, *On Being and What There Is: Classical Vaiśeṣika and the history of Indian Ontology*, Albany: State University of New York Press.
+* Ingalls, D., 1951, *Materials for the Study of Navya-nyāya Logic*, Cambridge, Mass.: Harvard University Press.
+* Mandal, K. K., 1968, *A Comparative Study of the Concepts of Space and Time in Indian Thought*, Varanasi: Chowkhamba Sanskrit Series Office.
+* Matilal, B. K., 1968, *The Navya-nyāya Doctrine of Negation: The semantics and Ontology of Negative Statements in Navya-nyāya Philosophy*, Cambridge, Mass.: Harvard University Press.
+* –––, 1977, *Nyāya-Vaiśeṣika*, Wiesbaden: Harrassowitz.
+* –––, 1985, *Logic, Language and Reality*, Delhi: Motilal Banarsidass.
+* –––, 1986, *Perception: An Essay on Classical Indian Theories of Knowledge*, Oxford: Clarendon.
+* –––, 1991, *The Word and the World: India’s Contribution to the Study of Language*, Delhi: Oxford University Press.
+* Mishra, U., 1987, *The Conception of Matter according to Nyāya-Vaiśeṣika*, 2nd edition, Delhi: Gian Publishing House.
+* Mohanty, J. N., 1966, “Nyāya Theory of Doubt”, in his *Essays on Indian Philosophy* (1993). New Delhi ; Oxford: Oxford University Press, 44–61.
+* –––, 1992, *Reason and Tradition in Indian Thought*, Oxford: Clarendon.
+* Phillips, S., 1995, *Classical Indian Metaphysics: Refutations of Realism and the Emergence of New Logic*, London: Open Court.
+* –––, 2011, *Epistemology in Classical India: The Knowledge Sources of the Nyaya School*, London: Routledge.
+* Potter, K. H., 1977, “The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa”, *Encyclopedia of Indian Philosophies* (Vol. II), Delhi: Motilal Banarsidass Publishers.
+* Raja, K., 1966, *Indian Theories of Meaning*, Madras: Adyar Library and Research Centre.
+* Schayer, S., 1938, *Contributions to the Problem of Time in Indian Philosophy*, Kraków: Nakładem Polskiej Akademii Umiejętności.
+* Seal, B., 1915, *The Positive Sciences of the Ancient Hindus*, London: Longmans, Green.
+* Sen, P. K. (ed.), 2006, *Philosophical Concepts Relevant to Sciences in Indian Tradition*, PHISPC Volume III Part 4, New Delhi: Centre for Studies in Civilizations.
+* Sen, S. N., 1966, “The Impetus Theory of the Vaiśeṣika”, *Indian Jou*[*11.md*](https://github.com/taophilosophy/SEP-CN/files/14913327/11.md) *rnal for the History of Science*, 1, 34–45.
+* Shastri, S. K., 1961, *A Primer of Indian Logic according to Annambhaṭṭa’s Tarkasaṃgraha*, Madras: Kuppuswami Sastri Research Institute.
+* Siderits, M., 1991, *Indian Philosophy of Language*, Dordrecht: Kluwer Academic Publishers.
+* Staal, F., 1988, “Means of Formalisation in Indian and Western Logic”, in his *Universal: Studies in Indian Logic and Linguistics* (1988). Chicago: University of Chicago Press, 81–87.
+* Subbarayappa, B. V., 1968, “An Estimate of the Vaiśeṣika Sūtra in the History of Science”, *Indian Journal for the History of Science*, 2: 24–34.
+* Tachikawa, M., 1981, *The Structure of the World in Udayana’s Realism*, Dordrecht: D. Reidel.
+* Thakur, A., 2003, *Origin and Development of the Vaiśeṣika System*, PHISPC Volume II Part 4, New Delhi: Centre for Studies in Civilizations.
+* Vattanky, J., 1984, *Gaṅgeśa’s Philosophy of God*, Madras: Adyar Library and Research Centre.
+* Wada, T., 2007, *The Analytical Method of Navya-Nyāya*, Groningen: Egbert Forsten.
+* Wada, Toshihiro, 2020, *Navya-Nyāya philosophy of language*. New Delhi: DK Printworld.
 
 ## Academic Tools
 
@@ -743,4 +743,4 @@ ii.在早期现代印度，宗教和哲学之间的关系一直是一个备受�
 [atomism: 17th to 20th century](https://plato.stanford.edu/entries/atomism-modern/) | [causation: the metaphysics of](https://plato.stanford.edu/entries/causation-metaphysics/) | [cognition: embodied](https://plato.stanford.edu/entries/embodied-cognition/) | [Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Indian Philosophy (Classical): perceptual experience and concepts](https://plato.stanford.edu/entries/perception-india/) | Indian Philosophy (Classical): self-knowledge | [memory](https://plato.stanford.edu/entries/memory/) | [Nāgārjuna](https://plato.stanford.edu/entries/nagarjuna/) | [properties](https://plato.stanford.edu/entries/properties/) | [soul, ancient theories of](https://plato.stanford.edu/entries/ancient-soul/) | [time](https://plato.stanford.edu/entries/time/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Jonardon Ganeri](https://philosophy.utoronto.ca/directory/jonardon-ganeri/) <[_jonardon.ganeri@utoronto.ca_](mailto:jonardon%2eganeri%40utoronto%2eca)>
+[Jonardon Ganeri](https://philosophy.utoronto.ca/directory/jonardon-ganeri/) <[*jonardon.ganeri@utoronto.ca*](mailto:jonardon%2eganeri%40utoronto%2eca)>

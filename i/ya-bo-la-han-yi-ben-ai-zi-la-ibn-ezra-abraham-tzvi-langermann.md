@@ -1,6 +1,6 @@
 # 亚伯拉罕·伊本·埃兹拉 Ibn Ezra, Abraham (Tzvi Langermann)
 
-_首次发表于2006年12月19日，实质性修订于2018年10月22日。_
+*首次发表于2006年12月19日，实质性修订于2018年10月22日。*
 
 所有犹太哲学史都包括了亚伯拉罕·伊本·埃兹拉的记载，并且从他对该领域的影响来看，他确实值得得到他所获得的认可。然而，他是如何获得这种认可的，却是一个困难的历史问题。伊本·埃兹拉在哲学的任何分支上几乎没有做出任何贡献；他几乎没有撰写过严格的哲学著作，事实上，我们没有理由认为他接受过任何严格的哲学训练。然而，他确实在犹太思想上留下了自己的痕迹，他的言论被后来的人记录并受到尊重。
 
@@ -9,7 +9,7 @@ _首次发表于2006年12月19日，实质性修订于2018年10月22日。_
 总的来说，伊本·埃兹拉与萨阿迪亚（可能对他影响最大的犹太思想家）一样，采用了伽拉姆和哲学教义的混合体。没有证据表明他接受过哲学训练或研究过当时可获得的大量文献，他所承认的来源几乎都是简短的迦尼派著作，展示了中世纪犹太人与神学问题的初步探索。
 
 尽管如此，伊本·埃兹拉成为了一位智者，他的言论虽然简短而晦涩，但具有权威性和影响力。在某种程度上，他在哲学方面的作用，或者更好地说，在传播某些哲学教义方面的作用，并不与他在数学、天文学和占星术方面的作用有太大的区别。他在这些领域的大量著作并没有什么深度或独创性，但毫无疑问，它们在整个欧洲的知识传播中起到了关键作用，尤其是在犹太社区中，尽管不仅限于此。虽然不能提供一个完整且完全令人满意的答案，但我们认为有几个因素促成了他的成功：勤奋努力、广泛旅行、圣经注释这一非常受欢迎的传播方式、赋予占星术重要地位的理性思维，以及将个体置于集体之上的救赎论。
- 
+
 ***
 
 ## 1. 生平与作品
@@ -184,44 +184,44 @@ Tushiyya 是另一个术语。在一个地方，伊本·埃兹拉将探究之人
 
 ### Primary Sources
 
-* Cohen, J., with Simon, U. (eds.), 2002, _R. Abraham Ibn Ezra. Yesod Mora ve-Sod Torah_, Ramat-Gan: Bar- Ilan University Press.
-* Levin, I., 1985, _Abraham Ibn Ezra Reader: Annotated texts with Introductions and Commentaries_, New York and Tel Aviv: Israel Matz.
-* Sela, S., 2007, _Abraham Ibn Ezra: The Book of Reasons. A Parallel Hebrew-English Crirical Edition of the Two Versions of the Text_, Leiden: Brill
-* –––, 2010, _The Book of the world. A parallel hebrew-english critical edition of the two versions of the text._, Leiden: Brill
-* –––, 2011, _Abraham Ibn Ezra on Elections, Interrogations, and Medical Astrology: A Parallel Hebrew-English Critical Edition of the Book of Elections (3 Versions), the Book of Interrogations (3 Versions), and the Book of the Luminaries._, Leiden: Brill
-* –––, 2013, _Abraham Ibn Ezra on Nativities and Continuous Horoscopy: A Parallel Hebrew-English Critical Edition of the Book of Nativities and the Book of Revolution._, Leiden: Brill
-* Weinberger, L., 2010, _Twilight of a Golden Age: Selected Poems of Abraham Ibn Ezra_, Tuscaloosa: University of Alabama Press.
+* Cohen, J., with Simon, U. (eds.), 2002, *R. Abraham Ibn Ezra. Yesod Mora ve-Sod Torah*, Ramat-Gan: Bar- Ilan University Press.
+* Levin, I., 1985, *Abraham Ibn Ezra Reader: Annotated texts with Introductions and Commentaries*, New York and Tel Aviv: Israel Matz.
+* Sela, S., 2007, *Abraham Ibn Ezra: The Book of Reasons. A Parallel Hebrew-English Crirical Edition of the Two Versions of the Text*, Leiden: Brill
+* –––, 2010, *The Book of the world. A parallel hebrew-english critical edition of the two versions of the text.*, Leiden: Brill
+* –––, 2011, *Abraham Ibn Ezra on Elections, Interrogations, and Medical Astrology: A Parallel Hebrew-English Critical Edition of the Book of Elections (3 Versions), the Book of Interrogations (3 Versions), and the Book of the Luminaries.*, Leiden: Brill
+* –––, 2013, *Abraham Ibn Ezra on Nativities and Continuous Horoscopy: A Parallel Hebrew-English Critical Edition of the Book of Nativities and the Book of Revolution.*, Leiden: Brill
+* Weinberger, L., 2010, *Twilight of a Golden Age: Selected Poems of Abraham Ibn Ezra*, Tuscaloosa: University of Alabama Press.
 
 ### Secondary Sources
 
-* Burnett, C., 1997, _The Introduction of Arabic Learning into England_, London: The British Library.
-* Cohen, J., 1996, _The Philosophy of R. Abraham Ibn Ezra_, Rishon le-Zion: Shai \[Hebrew].
-* Fenton, P., 2001, “Abraham Ibn Ezra, a-t-il composé un commentaire sur le Livre de la Création?” _Revue des études juives_, 111: 33–59.
-* Freudenthal, G., 2013, “Abraham Ibn Ezra and Judah Ibn Tibbon as Cultural Intermediaries,” in _Exchange and Transmission across Cultural Boundaries: Philosophy, Mysticism, and Science in the Mediterranean World_, H. Ben-Shammai, S. Shaked, and S. Stroumsa (eds.), Jerusalem: Israel Academy.
-* Goldstein, B.R., 1996, “Astronomy and Astrology in the Works of Abraham ibn Ezra,” _Arabic Sciences and philosophy_, 6: 9–21.
-* Greive, H., 1973, _Studien zum jüdischen Neuplatnismus._ _Die Religionsphilosophie des Abraham Ibn Ezra_. Berlin-New York: De Gruyter.
-* Guttmann, J., 1973, _Philosophies of Judaism_, New York: Schoken.
-* Harris, J.M., 1993, “Ibn Ezra in Modern Jewish Perspective,” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press.
-* Hughes, A., 1999, “Two approaches to the love of God in medieval Jewish thought: The concept of _devequt_ in the works of Ibn Ezra and Judah Halevi,” _Studies in Religion/Sciences Religieuses_, 28: 139–151.
-* –––, 2002, “The Three Worlds of ibn Ezra’s _Hay ben Meqitz_,” _The Journal of Jewish Thought and Philosophy_, 11: 1–24.
-* –––, 2004, _The Texture of the Divine_, Indianapolis: Indiana University Press.
-* –––, 2009, “The Soul In Jewish Neoplatonism: A Case Study Of Abraham Ibn Ezra And Judah Halevi,” in _The Afterlife of the Platonic Soul_, M. Elkaisy-Friemuth & John M. Dillon (eds.), Leiden: Brill.
-* Husik, I., 1969, _A History of Mediaeval Jewish Philosophy_, New York: Atheneum.
-* Kreisel, H.T., 1994, “On the term ‘_kol_’ in Abraham Ibn Ezra: a reappraisal,” _Revue des études juives_, 153: 29–66.
-* Labaton, S., 2015, _Abraham ibn Ezra’s Interpretation of the Tabernacle: A Case Study in the Relationship between Peshaṭ and Sod_, Ph.D. Dissertation, New York University.
-* Lancaster, I., 2002, _Deconstructing the Bible: Abraham Ibn Ezra’s Introduction to the Torah_, London: Routledge.
-* Langermann, Y.T., 1993, “Some Astrological Themes in the Thought of Abraham ibn Ezra,” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
-* –––, 1997, “Science and the Kuzari,” _Science in Context_, 10: 495–522
-* Lawee E, 2017, “A Genre Is Born: The Genesis, Dynamics, and Role of Hebrew Exegetical Supercommentaries,” _Revue des études juives_, 176: 295–332.
-* Levin, I., 1992, “‘Cling to the Ladder of Wisdom’ (The Influence of Neoplatonic Psychology on the Poetry of Abraham Ibn Ezra),” in _Te‘udah_ (_Studies in the Work of Abraham Ibn Ezra_: Volume 8), I. Levin (ed.), Tel Aviv: Tel Aviv University Press, 1992 \[Hebrew].
-* Sela, S., 2001, “Abraham ibn Ezra’s Scientific Corpus—Basic Constituents and General Characterization,” _Arabic Sciences and philosophy_ 11:91–149.
-* –––, 2004, “Queries on Astrology sent from Southern France  to Maimonides: Critical edition of the Hebrew Text, Translation, and Commentary,” _Aleph_ 4:89–190.
-* Sela, S., and Freudenthal, G., 2006, “Abraham Ibn Ezra’s Scholarly Writings: A Chronological Listing,” _Aleph_, 6: 13–55.
-* Simon, U., 1993, “Interpreting the Interpreter: Supercommentaries on Ibn Ezra’s Commentaries,” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
-* Sirat, C., 1985, _A History of Jewish Philosophy in the Middle Ages_, Cambridge: Cambridge University Press.
-* Tanenbaum, A., 1990, “Beholding the Splendor of the Creator: Conceptions of the Soul in the Poetry of Abraham Ibn Ezra,” in _Abraham Ibn Ezra y su tiempo_, F.D. Esteban (ed.), Madrid: Asociación Espanola de Orientalistas.
-* Twersky, I., 1993, “Did R. Abraham Ibn Ezra Influence Maimonides?” in _Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath_, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press \[Hebrew].
-* Wolfson, E.R., 1990, “God, the Demiurge and the Intellect: on the usage of the word ‘_kol_’ in Abraham Ibn Ezra,” _Revue des études juives_, 149: 77–111.
+* Burnett, C., 1997, *The Introduction of Arabic Learning into England*, London: The British Library.
+* Cohen, J., 1996, *The Philosophy of R. Abraham Ibn Ezra*, Rishon le-Zion: Shai \[Hebrew].
+* Fenton, P., 2001, “Abraham Ibn Ezra, a-t-il composé un commentaire sur le Livre de la Création?” *Revue des études juives*, 111: 33–59.
+* Freudenthal, G., 2013, “Abraham Ibn Ezra and Judah Ibn Tibbon as Cultural Intermediaries,” in *Exchange and Transmission across Cultural Boundaries: Philosophy, Mysticism, and Science in the Mediterranean World*, H. Ben-Shammai, S. Shaked, and S. Stroumsa (eds.), Jerusalem: Israel Academy.
+* Goldstein, B.R., 1996, “Astronomy and Astrology in the Works of Abraham ibn Ezra,” *Arabic Sciences and philosophy*, 6: 9–21.
+* Greive, H., 1973, *Studien zum jüdischen Neuplatnismus.* *Die Religionsphilosophie des Abraham Ibn Ezra*. Berlin-New York: De Gruyter.
+* Guttmann, J., 1973, *Philosophies of Judaism*, New York: Schoken.
+* Harris, J.M., 1993, “Ibn Ezra in Modern Jewish Perspective,” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press.
+* Hughes, A., 1999, “Two approaches to the love of God in medieval Jewish thought: The concept of *devequt* in the works of Ibn Ezra and Judah Halevi,” *Studies in Religion/Sciences Religieuses*, 28: 139–151.
+* –––, 2002, “The Three Worlds of ibn Ezra’s *Hay ben Meqitz*,” *The Journal of Jewish Thought and Philosophy*, 11: 1–24.
+* –––, 2004, *The Texture of the Divine*, Indianapolis: Indiana University Press.
+* –––, 2009, “The Soul In Jewish Neoplatonism: A Case Study Of Abraham Ibn Ezra And Judah Halevi,” in *The Afterlife of the Platonic Soul*, M. Elkaisy-Friemuth & John M. Dillon (eds.), Leiden: Brill.
+* Husik, I., 1969, *A History of Mediaeval Jewish Philosophy*, New York: Atheneum.
+* Kreisel, H.T., 1994, “On the term ‘*kol*’ in Abraham Ibn Ezra: a reappraisal,” *Revue des études juives*, 153: 29–66.
+* Labaton, S., 2015, *Abraham ibn Ezra’s Interpretation of the Tabernacle: A Case Study in the Relationship between Peshaṭ and Sod*, Ph.D. Dissertation, New York University.
+* Lancaster, I., 2002, *Deconstructing the Bible: Abraham Ibn Ezra’s Introduction to the Torah*, London: Routledge.
+* Langermann, Y.T., 1993, “Some Astrological Themes in the Thought of Abraham ibn Ezra,” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
+* –––, 1997, “Science and the Kuzari,” *Science in Context*, 10: 495–522
+* Lawee E, 2017, “A Genre Is Born: The Genesis, Dynamics, and Role of Hebrew Exegetical Supercommentaries,” *Revue des études juives*, 176: 295–332.
+* Levin, I., 1992, “‘Cling to the Ladder of Wisdom’ (The Influence of Neoplatonic Psychology on the Poetry of Abraham Ibn Ezra),” in *Te‘udah* (*Studies in the Work of Abraham Ibn Ezra*: Volume 8), I. Levin (ed.), Tel Aviv: Tel Aviv University Press, 1992 \[Hebrew].
+* Sela, S., 2001, “Abraham ibn Ezra’s Scientific Corpus—Basic Constituents and General Characterization,” *Arabic Sciences and philosophy* 11:91–149.
+* –––, 2004, “Queries on Astrology sent from Southern France  to Maimonides: Critical edition of the Hebrew Text, Translation, and Commentary,” *Aleph* 4:89–190.
+* Sela, S., and Freudenthal, G., 2006, “Abraham Ibn Ezra’s Scholarly Writings: A Chronological Listing,” *Aleph*, 6: 13–55.
+* Simon, U., 1993, “Interpreting the Interpreter: Supercommentaries on Ibn Ezra’s Commentaries,” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, U.S.A: Harvard University Press.
+* Sirat, C., 1985, *A History of Jewish Philosophy in the Middle Ages*, Cambridge: Cambridge University Press.
+* Tanenbaum, A., 1990, “Beholding the Splendor of the Creator: Conceptions of the Soul in the Poetry of Abraham Ibn Ezra,” in *Abraham Ibn Ezra y su tiempo*, F.D. Esteban (ed.), Madrid: Asociación Espanola de Orientalistas.
+* Twersky, I., 1993, “Did R. Abraham Ibn Ezra Influence Maimonides?” in *Rabbi Abraham ibn Ezra: Studies in the Writings of a Twelfth-Century Jewish Polymath*, I. Twersky and J.M. Harris (eds.), Cambridge, MA: Harvard University Press \[Hebrew].
+* Wolfson, E.R., 1990, “God, the Demiurge and the Intellect: on the usage of the word ‘*kol*’ in Abraham Ibn Ezra,” *Revue des études juives*, 149: 77–111.
 
 ## Academic Tools
 

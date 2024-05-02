@@ -1,2 +1,1 @@
 # \*残疾 disability
-

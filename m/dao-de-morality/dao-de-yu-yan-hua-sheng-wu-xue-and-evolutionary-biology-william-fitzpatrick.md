@@ -1,6 +1,6 @@
 # 道德与演化生物学 and evolutionary biology (William FitzPatrick)
 
-_首次发表于2008年12月19日，实质修订于2020年12月23日。_
+*首次发表于2008年12月19日，实质修订于2020年12月23日。*
 
 《经济学人》（2008 年 2 月 21 日，“道德思维”）中的一篇文章，带有挑衅性的副标题“生物学侵入了哲学家们认为是他们的领域”，以以下思考开始：
 
@@ -9,7 +9,7 @@ _首次发表于2008年12月19日，实质修订于2020年12月23日。_
 文章以“也许\[生物学家们]最终能够做到哲学家们从未能做到的，以一种理论上令人满意的方式解释道德行为。”这句话结束。这些段落概括了流行和科学媒体中的一个不断增长的主题，与四十年前社会生物学出现时所提出的主张相呼应，当时 E.O.威尔逊提出“道德伦理学的时间已经到了，暂时将其从哲学家手中移除，并使其生物化”（威尔逊，1975 年，562 页）。就道德哲学家而言，他们会迅速指出，他们的主要任务不是“解释道德行为”以因果解释我们对道德判断能力的起源或各种相关情感和行为倾向。如果一个道德哲学家问“道德从何而来”，她更可能关心道德原则的合理性或义务的来源和性质。然而，科学解释问题和哲学问题之间存在重要的潜在联系，为有益的跨学科研究开辟了道路。
 
 第一部分提供了问题的概述和它们之间的联系的草图，突出了我们在整个过程中需要的重要区别。然后，第 2、3 和 4 节继续批判性地探讨道德和演化生物学交叉点上的三个主要研究领域：描述性演化伦理学、规范性演化伦理学和演化元伦理学。
- 
+
 ***
 
 ## 1. 概述：基本问题、疑问和区别
@@ -292,7 +292,7 @@ Buchanan和Powell将这种悲观的观点称为“演化保守主义”，并指
 
 其他项目涉及使用演化生物学来试图削弱传统的道德现实主义——即道德判断在字面上被理解时可以是真实的（准确地代表道德事实），它们的真实性不依赖于我们的评价态度，并且我们可以知道至少一些这些真理。这样的论证被认为支持道德怀疑主义（根据这种观点，我们无法拥有道德知识）或道德反实在论（例如，将道德真理解释为我们的评价态度的函数，或表达主义观点，即道德判断的功能是表达态度、接受规范等，而不是代表道德事实，或错误理论观点，即所有道德判断都是错误的）。
 
-### 4.1 一般演化揭示论论证。
+### 4.1 一般演化揭示论论证
 
 如第 2 节所讨论的，关于我们被道德判断引导的能力起源的演化解释并不需要对我们的早期人类祖先理解道德真理的诉诸，甚至不需要这样的真理的存在。这些故事只需要关于自然选择压力如何促进这种能力和倾向的主张，因为这些特征对生物适应度产生了积极影响（Kitcher 2006a，176 和 2011；Joyce 2006，131，184；Street 2006，127 f.；Griffiths 和 Wilkins 2015）。这个事实是否会动摇我们对道德真理的存在或道德知识的可能性的信心（至少如果道德真理被理解为客观的，即独立于我们的评价态度）？
 
@@ -302,7 +302,7 @@ Buchanan和Powell将这种悲观的观点称为“演化保守主义”，并指
 
 然而，假设演化的影响不仅没有设计我们的能力来追踪道德真理，而且还以积极的方式塑造了它们，这种方式普遍地影响了我们的道德思想和感受，通过进化的情感倾向或“特定领域模块”，这些模块为我们提供了继承的道德本能，塑造了我们的信念。揭穿者声称这是事实，并认为它具有深刻的元伦理学意义。尽管有各种各样的这类论证的表述，针对的目标有些不同（有些攻击道德知识本身，有些只是试图通过显示它将使我们陷入道德怀疑主义来削弱道德现实主义），但基于 Sharon Street 的工作的核心论证可以大致如下所述：
 
-#### 演化揭穿论证：
+#### 演化揭穿论证
 
 我们的评价判断系统完全被演化影响所渗透，这是因为自然选择在塑造我们潜在心理倾向方面起到了作用（Street 2006, 114）。但是，自然选择仅仅根据哪些变异对我们的早期人类祖先的生物适应度做出了最大贡献来塑造这些倾向，而不是以预期能够追踪独立道德真理的方式来塑造。换句话说，自然选择奖励了那些形成道德信念倾向，这些信念导致狩猎采集者产生行为，使其能够比同伴更有效地繁殖后代和传播基因，而不管这些信念是否准确地代表了独立道德真理的领域。（对于宗教信仰和神学真理也是如此：唯一重要的是对基因传播的相关影响，例如通过增加合作和遵守规则，基于对一个注视的神的信仰，假设宗教信仰形成倾向受到基因控制并受到选择压力的影响。神学真理与否并不重要。）但是，由于实在主义者并不认为道德真理仅仅是帮助更新世狩猎采集者最大化繁殖产出的功能，如果我们演化塑造的道德信念碰巧与道德真理相一致并准确地代表它们，那将是纯粹的巧合。我们没有理由相信发生了这样的纯粹巧合。因此，我们无法有任何合理的信心，认为我们的道德信念准确地代表了实在主义者所假设的独立道德真理。换句话说，如果道德信念的真实性在于准确地代表独立的道德事实，正如实在主义者所主张的那样，那么这些演化考虑将使我们对道德信念的合理化受到挫败。 （认识论内在主义者可能会否认上述事实本身会使我们的道德信念变得不合理，即使在现实主义模型下。但是，即使他们应该同意，一旦我们意识到这些事实，我们的道德信念将因此变得不合理，至少在真实主义模型下是如此。）因此，现实主义使我们陷入怀疑。如果这种怀疑是不可信的，那么我们必须拒绝现实主义，而选择一种反现实主义观点（如道德主观主义），即使在演化影响和我们对其的意识下，仍然允许有合理的道德信念（Street 2006, 2008）。
 
@@ -372,139 +372,139 @@ Street（2008）在回应这个问题的提出的解决方法时，部分地指�
 
 ## Bibliography
 
-* Alexander, R., 1987, _The Biology of Moral Systems_, New York: Aldine de Gruyter.
-* Appiah, K.A., 2008, _Experiments in Ethics_, Cambridge, MA: Harvard University Press.
-* Axelrod, R., 1984, _The Evolution of Cooperation_, New York: Basic Books.
-* –––, 2006, “Biology to Ethics: An Evolutionist’s View of Human Nature,” in Boniolo, G. and De Anna, G., _Evolutionary Ethics and Contemporary Biology_, pp. 141–58.
-* Bedke, M., 2009, “Intuitive Non-Naturalism Meets Cosmic Coincidence,” _Pacific Philosophical Quarterly_, 90: 188–209.
-* Berker, S., 2009, “The Normative Insignificance of Neuroscience,” _Philosophy and Public Affairs_, 37: 293–329.
-* –––, 2014, “Does Evolutionary Psychology Show that Normativity is Mind-Dependent?” in J. D’Arms and D. Jacobson (eds.), _Moral Psychology and Human Agency: Essays on the New Science of Ethics_, Oxford: Oxford University Press.
-* Boniolo, G. and De Anna, G., 2006, _Evolutionary Ethics and Contemporary Biology_, Cambridge: Cambridge University Press.
-* Brosnan, R. and de Waal, F., 2014, “Evolution of Responses to (Un)fairness,” _Science_, 346(6207): 1251776.
-* Buchanan, A. and Powell, R., 2015, “The Limits of Evolutionary Explanations of Morality and Their Implications for Moral Progress,” _Ethics_, 126(1): 37–67.
-* –––, 2018, _The Evolution of Moral Progress: A Biocultural Theory_, Oxford: Oxford University Press.
-* –––, 2019, “Precis of _The Evolution of Moral Progress: A Biocultural Theory_,” _Analyse & Kritik_, 41(2): 183–193.
-* Buchanan, A., 2020, _Our Moral Fate: Evolution and the Escape from Tribalism_, Cambridge: MIT Press.
-* Buller, D., 2005, _Evolutionary Psychology and the Persistent Quest for Human Nature_, Cambridge, MA: MIT Press.
-* Buss, D.M., 2005, _The Handbook of Evolutionary Psychology_, Hoboken: Wiley.
-* Casebeer, W., 2003, _Natural Ethical Facts: Evolution, Connectionism, and Moral Cognition_, Cambridge, MA: MIT Press.
-* Clarke-Doane, J., 2012, “Morality and Mathematics: The Evolutionary Challenge,” _Ethics_, 122: 313–40.
-* –––, 2014, “Moral Epistemology: The Mathematics Analogy,” _Noûs_, 48(2): 238–255.
-* Copp, D., 2008, “Darwinian Skepticism about Moral Realism,” _Philosophical Issues_ 18: 186–206.
-* Cosmides, L. and Tooby, J., 2008, “Can a General Deontic Logic Capture the Facts of Human Moral Reasoning?” in W. Sinnott-Armstrong (ed.), _Moral Psychology_, Vol. 1.
-* Dancy, J., 2014, “Intuition and Emotion,” _Ethics_, 124(4): 787–812.
-* Darwin, C., 1859, _The Origin of Species_, London: John Murray.
-* –––, 1871, _The Descent of Man_, _and Selection in Relation to Sex_, London: John Murray.
-* Dawkins, R., 1982, _The Extended Phenotype_, New York: Oxford University Press.
-* –––, 1989, _The Selfish Gene_, 2nd edition, expanded, Oxford: Oxford University Press.
-* –––, 2006, _The God Delusion_, New York: Houghton Mifflin.
-* de Lazari-Radek, K. and Singer, P., 2014, _The Point of View of the Universe_, Oxford: Oxford University Press.
-* de Waal, F., 1996, _Good Natured: The Origins of Right and Wrong in Humans and Other Animals_, Cambridge, MA: Harvard University Press.
-* –––, 2006, _Primates and Philosophers_, Princeton: Princeton University Press.
-* Diamond, J., 1992, _The Third Chimpanzee: The Evolution and Future of the Human Animal_, New York: Harper Collins.
+* Alexander, R., 1987, *The Biology of Moral Systems*, New York: Aldine de Gruyter.
+* Appiah, K.A., 2008, *Experiments in Ethics*, Cambridge, MA: Harvard University Press.
+* Axelrod, R., 1984, *The Evolution of Cooperation*, New York: Basic Books.
+* –––, 2006, “Biology to Ethics: An Evolutionist’s View of Human Nature,” in Boniolo, G. and De Anna, G., *Evolutionary Ethics and Contemporary Biology*, pp. 141–58.
+* Bedke, M., 2009, “Intuitive Non-Naturalism Meets Cosmic Coincidence,” *Pacific Philosophical Quarterly*, 90: 188–209.
+* Berker, S., 2009, “The Normative Insignificance of Neuroscience,” *Philosophy and Public Affairs*, 37: 293–329.
+* –––, 2014, “Does Evolutionary Psychology Show that Normativity is Mind-Dependent?” in J. D’Arms and D. Jacobson (eds.), *Moral Psychology and Human Agency: Essays on the New Science of Ethics*, Oxford: Oxford University Press.
+* Boniolo, G. and De Anna, G., 2006, *Evolutionary Ethics and Contemporary Biology*, Cambridge: Cambridge University Press.
+* Brosnan, R. and de Waal, F., 2014, “Evolution of Responses to (Un)fairness,” *Science*, 346(6207): 1251776.
+* Buchanan, A. and Powell, R., 2015, “The Limits of Evolutionary Explanations of Morality and Their Implications for Moral Progress,” *Ethics*, 126(1): 37–67.
+* –––, 2018, *The Evolution of Moral Progress: A Biocultural Theory*, Oxford: Oxford University Press.
+* –––, 2019, “Precis of *The Evolution of Moral Progress: A Biocultural Theory*,” *Analyse & Kritik*, 41(2): 183–193.
+* Buchanan, A., 2020, *Our Moral Fate: Evolution and the Escape from Tribalism*, Cambridge: MIT Press.
+* Buller, D., 2005, *Evolutionary Psychology and the Persistent Quest for Human Nature*, Cambridge, MA: MIT Press.
+* Buss, D.M., 2005, *The Handbook of Evolutionary Psychology*, Hoboken: Wiley.
+* Casebeer, W., 2003, *Natural Ethical Facts: Evolution, Connectionism, and Moral Cognition*, Cambridge, MA: MIT Press.
+* Clarke-Doane, J., 2012, “Morality and Mathematics: The Evolutionary Challenge,” *Ethics*, 122: 313–40.
+* –––, 2014, “Moral Epistemology: The Mathematics Analogy,” *Noûs*, 48(2): 238–255.
+* Copp, D., 2008, “Darwinian Skepticism about Moral Realism,” *Philosophical Issues* 18: 186–206.
+* Cosmides, L. and Tooby, J., 2008, “Can a General Deontic Logic Capture the Facts of Human Moral Reasoning?” in W. Sinnott-Armstrong (ed.), *Moral Psychology*, Vol. 1.
+* Dancy, J., 2014, “Intuition and Emotion,” *Ethics*, 124(4): 787–812.
+* Darwin, C., 1859, *The Origin of Species*, London: John Murray.
+* –––, 1871, *The Descent of Man*, *and Selection in Relation to Sex*, London: John Murray.
+* Dawkins, R., 1982, *The Extended Phenotype*, New York: Oxford University Press.
+* –––, 1989, *The Selfish Gene*, 2nd edition, expanded, Oxford: Oxford University Press.
+* –––, 2006, *The God Delusion*, New York: Houghton Mifflin.
+* de Lazari-Radek, K. and Singer, P., 2014, *The Point of View of the Universe*, Oxford: Oxford University Press.
+* de Waal, F., 1996, *Good Natured: The Origins of Right and Wrong in Humans and Other Animals*, Cambridge, MA: Harvard University Press.
+* –––, 2006, *Primates and Philosophers*, Princeton: Princeton University Press.
+* Diamond, J., 1992, *The Third Chimpanzee: The Evolution and Future of the Human Animal*, New York: Harper Collins.
 * Downes, S., 2009, “The Basic Components of the Human Mind Were Not Solidified During the Pleistocene Epoch,” in F. Ayala and R. Arp eds., Contemporary Debates in Philosophy of Biology, Wiley-Blackwell, 243-252.
-* Engelmann, J., Clift, J., Herrmann, E.,and Tomasello, M., 2017, “Social Disappointment Explains Chimpanzees’ Behavior in the Inequity Aversion Task,” _Proc. R. Soc. B_ 284: 20171502. http://dx.doi.org/10.1098/rspb.2017.1502.
-* Enoch, D., 2011, _Taking Morality Seriously: A Defense of Robust Realism_, Oxford: Oxford University Press.
-* FitzPatrick, W.J., 2000, _Teleology and the Norms of Nature_, New York: Garland.
-* –––, 2007, Review of Boniolo, G. and De Anna, G., eds., _Evolutionary Ethics and Contemporary Biology_, in _Notre Dame Philosophical Reviews_: 2007.04.02. \[[Available online](http://ndpr.nd.edu/review.cfm?id=9205)].
-* –––, 2012, Review of Philip Kitcher, _The Ethical Project_, _Ethics_, 123(1): 167–74.
-* –––, 2014a, “Debunking Evolutionary Debunking of Ethical Realism,” _Philosophical Studies_, doi:10.1007/s11098-014-0295-y
-* –––, 2014b, “Why There is No Darwinian Dilemma for Ethical Realism,” in M. Bergmann and P. Kain (eds.), _Challenges to Moral and Religious Belief: Disagreement and Evolution_, Oxford: Oxford University Press.
-* –––, 2016, “Scientific Naturalism and the Explanation of Moral Beliefs: Challenging Evolutionary Debunking,” in K. Clark ed., _The Blackwell Companion to Naturalism_, Wiley Blackwell.
-* –––, 2017a, “Human Altruism, Evolution and Moral Philosophy,” _Royal Society Open Science 4: 170441_, doi:10.1098/rsos.170441
-* –––, 2017b, “Why Darwinism Does Not Debunk Objective Morality,” in M. Ruse and R.J. Richards (eds.), _The Cambridge Handbook of Evolutionary Ethics_, Cambridge: Cambridge University Press.
-* –––, 2018, “Cognitive Science and Moral Philosophy: Challenging Scientistic Overreach,” in J. de Ritter, R. Peels, and R. van Woudenberg (eds.), _Scientism: Prospects and Problems_, Oxford: Oxford University Press.
-* Fodor, J., 1998, “The Trouble with Psychological Darwinism,” _London Review of Books_, 20(2): 11–13.
-* –––, 2000, _The Mind Doesn’t Work That Way: The Scope and Limits of Computational Psychology_, Cambridge, MA: MIT Press.
-* Foot, P., 2001, _Natural Goodness_, Oxford: Oxford University Press.
-* Fraser, B.J., 2014, “Evolutionary Debunking Arguments and the Reliability of Moral Cognition,” _Philosophical Studies_, 168: 457–473.
-* Gibbard, A., 1990, _Wise Choices, Apt Feelings_, Cambridge, MA: Harvard University Press.
-* Glover, J., 2000, _Humanity: A Moral History of the 20th Century_, New Haven: Yale University Press.
-* Gould, S.J., 1997a, “Darwinian Fundamentalism,” _New York Review of Books_, 44(10): 34–7.
-* –––, 1997b, “Evolutionary Psychology: An Exchange,” _New_ _York Review of Books_, 44(15): 55–8.
-* Gould, S.J. and Lewontin, R.C., 1979, “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme,” _Proceedings of the Royal Society: Biological Sciences_, 205: 581–98.
-* Greene, J.D., 2003, “From Neural ‘Is’ to Moral ‘Ought’: What are the Moral Implications of Neuroscientific Moral Psychology?”, _Nature Neuroscience Reviews_, 4: 847–50.
-* –––, 2008, “The Secret Joke of Kant’s Soul,” in W. Sinnott-Armstrong (ed.), _Moral Psychology_, Volume 3, pp. 35–80.
-* Griffiths, P. and J. Wilkins, 2015, “When Do Evolutionary Explanations of Belief Debunk Belief?” in P. Sloan (ed.), _Darwin in the 21st Century: Nature, Humanity and God_, Notre Dame, IN: Notre Dame University Press.
-* Haidt, J., 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment,” _Psychological Review_, 108(4): 814–34.
-* –––, 2003, “The Emotional Dog Learns New Tricks: A Reply to Pizarro and Bloom (2003),” _Psychological Review_, 110(1): 197–98.
-* Hamilton, W.D., 1964, “The Genetical Evolution of Social Behavior,” I and II, _Journal of Theoretical Biology_, 7: 1–52.
-* Holldobler, B and Wilson, E.O., 2008, _The Superorganism: The Beauty, Elegance, and Strangeness of Insect Societies_, New York: Norton and Company.
-* Huemer, M., 2016, “A Liberal Realist Answer to Debunking Skeptics: The Empirical Case for Realism,” _Philosophical Studies_, 173: 1983–2010.
-* Joyce, R., 2006, _The Evolution of Morality_, Cambridge, MA: MIT Press.
-* –––, 2013, “Irrealism and the Genealogy of Morals,” _Ratio_, 26(4): 351–72.
-* –––, Forthcoming, “Evolution, Truth-Tracking, and Moral Skepticism,” in B. Reichardt (ed.), _Problems of Goodness_, Bonn: Bernstein Verlag.
-* Kahane, G., 2011, “Evolutionary Debunking Arguments,” _Nous_, 45(1): 103–125.
-* –––, 2014, “Ethics and Impartiality,” _Ethics_, 124 (January): 327–341.
-* Kamm, F., 1998, “Moral Intuitions, Cognitive Psychology, and the Harming-versus-Not-Aiding Distinction,” _Ethics_, 108 (April): 463–488.
-* –––, 2007, _Intricate Ethics: Rights, Responsibilities, and Permissible Harm_, Oxford: Oxford University Press.
-* Katz, L.D. (ed.), 2000, _Evolutionary Origins of Morality: Cross Disciplinary Perspectives_, Exeter: Imprint Academic.
-* Kitcher, P., 1985, _Vaulting Ambition_, Cambridge, MA: MIT Press.
-* –––, 1993, “The Evolution of Human Altruism,” _Journal of Philosophy_, 90(10): 497–516.
-* –––, 1994, “Four Ways of ‘Biologizing’ Ethics,” in E. Sober (ed.), _Conceptual Issues in Evolutionary Ethics_, pp. 439–50.
-* –––, 2006a, “Biology and Ethics,” in Copp, D. ed., _The Oxford Handbook of Ethical Theory_, Oxford: Oxford University Press, pp. 163–85.
-* –––, 2006b, “Between Fragile Altruism and Morality: Evolution and the Emergence of Normative Guidance,” in G. Boniolo and G. De Anna (eds.), _Evolutionary Ethics and Contemporary Biology_, pp. 159–77.
-* –––, 2006c, “Ethics and Evolution: How to Get Here from There,” in F. de Waal, _Primates and Philosophers_, pp. 120–39.
-* –––, 2011, _The Ethical Project_, Cambridge, MA: Harvard University Press.
-* Knobe, J. and Leiter, B., 2007, “The Case for Nietzschean Moral Psychology,” in _Nietzsche and Morality_, B. Leiter & N. Sinhababu (eds.), Oxford: Oxford University Press.
-* Korsgaard, C., 2006, “Morality and the Distinctiveness of Human Action,” in de Waal, _Primates and Philosophers_, pp. 98–119.
-* Leiter, B., 2007, “Nietzsche’s Theory of the Will,” _Philosopher’s Imprint_, 7(7): 1–15.
-* Levy, A. and Levy, Y., 2020, “Evolutionary Debunking Arguments Meet Evolutionary Science,” _Philosophy and Phenomenological Research_, 100(3): 491–509.
-* Locke, D., 2014, “Darwinian Normative Skepticism,” in M. Bergmann and P. Kain (eds.), _Challenges to Moral and Religious Belief: Disagreement and Evolution_, Oxford: Oxford University Press.
-* Lott, M., 2012, “Have Elephant Seals Refuted Aristotle? Nature, Function and Moral Goodness,” _Journal of Moral Philosophy_, 9: 1–23.
-* Machery, E. and R. Mallon, 2010, “Evolution of Morality,” in J. Doris (ed.), _The Moral Psychology Handbook_, Oxford: Oxford University Press.
-* Maynard Smith, J., 1982, _Evolution and the Theory of Games_, Cambridge: Cambridge University Press.
-* McDowell, J., 1995, “Two Sorts of Naturalism,” in R. Hursthouse, G. Lawrence, and W. Quinn (eds.), _Virtues and Reasons_, Oxford: Oxford University Press, pp. 149–80.
-* Mele, A., 2008, “Free Will: Action Theory Meets Neuroscience,” in Lumer, C., ed., _Intentionality, Deliberation and Autonomy: The Action-Theoretic Basis of Practical Philosophy_, Burlington: Ashgate.
-* Mikhail, J., 2011, _Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment_, Cambridge: Cambridge University Press.
-* Moosavi, P., 2019, “From Biological Functions to Natural Goodness,” _Philosopher’s Imprint_, 19(51).
-* Nagel, T., 1979, “Ethics Without Biology”, in _Mortal Questions_, Cambridge: Cambridge University Press, pp. 142–46.
-* –––, 1997, _The Last Word_, Oxford: Oxford University Press.
-* Nichols, Shaun, 2004, _Sentimental Rules: On the Natural Foundations of Moral Judgment_, Oxford: Oxford University Press.
-* Pinker, S., 1997a, “Evolutionary Psychology: An Exchange,” _New York Review of Books_ 44(15): 55–8.
-* –––, 1997b, _How the Mind Works_, New York: Norton.
-* –––, 2008, “The Moral Instinct,” _The New York Times Magazine_, January 13: 32–58.
-* Pizarro, D. and Bloom, P., 2003, “The Intelligence of the Moral Intuitions: Comments on Haidt (2001),” _Psychological Review_, 110(1): 193–96.
-* Prinz, J., 2008, “Is Morality Innate?”, in Sinnott-Armstrong, W., _Moral Psychology_, 1: 367-406.
-* Rachels, J., 1990, _Created From Animals: The Moral Implications of Darwinism_, Oxford: Oxford University Press.
-* Railton, P., 2014, “The Affective Dog and its Rational Tale: Intuition and Attunement,” _Ethics_, 124(4): 813–859.
-* Rini, R., 2016, “Debunking Debunking: A Regress Challenge for Psychological Threats to Moral Judgment,” _Philosophical Studies_, 173(3): 675–697.
-* Rosati, C., 1995, “Naturalism, Normativity, and the Open Question Argument,” _Noûs_, 29(1): 46–70.
-* Rosenberg, A., 2006, “Will Genomics Do More for Metaphysics than Locke?”, in G. Boniolo and G. De Anna (eds.), _Evolutionary Ethics and Contemporary Biology_, pp. 178–98.
-* Rottschaefer, W., 1998, _The Biology and Psychology of Moral Agency_, Cambridge: Cambridge University Press.
-* Ruse, M., 1988, “Evolutionary Ethics: Healthy Prospect or Last Infirmity?”, _Canadian Journal of Philosophy_ (Supplement), 14: 27–73.
-* –––, 2006, “Is Darwinian Metaethics Possible (And If It Is, Is It Well Taken)?”, in G. Boniolo and G. De Anna (eds.), _Evolutionary Ethics and Contemporary Biology_, pp. 13–26.
-* Schafer, K., 2010, “Evolution and Normative Skepticism,” _Australasian Journal of Philosophy_, 88: 471–88.
-* Shafer-Landau, R., 2012, “Evolutionary Debunking, Moral Realism and Moral Knowledge,” _Journal of Ethics and Social Philosophy_, 7(1): 1–37.
-* Singer, P., 2005, “Ethics and Intuitions,” _Journal of Ethics_, 9: 331–52.
-* Sinnott-Armstrong, W., 2005, “Moral Intuitionism Meets Empirical Psychology,” in T. Horgan and M. Timmons (eds.), _Metaethics After Moore_, Oxford: Oxford University Press, pp. 339–66.
-* ––– (ed.), 2008, _Moral Psychology_, Vol. 1: _The Evolution of Morality: Adaptations and Innateness_, Cambridge, MA: MIT Press.
-* ––– (ed.), 2008a, _Moral Psychology_, Vol. 2: _The Cognitive Science of Morality: Intuition and Diversity_, Cambridge, MA: MIT Press.
-* ––– (ed.), 2008b, _Moral Psychology_, Vol. 3: _The Neuroscience of Morality: Emotion, Brain Disorders, and Development_, Cambridge, MA: MIT Press.
-* Skarsaune, K.O., 2011, “Darwin and Moral Realism: Survival of the Iffiest,” _Philosophical Studies_, 152: 229–243.
-* Sober, E. (ed.), 1994, _Conceptual Issues in Evolutionary Ethics_, 2nd ed., Cambridge, MA: MIT Press.
-* Sober, E. and Wilson, D.S., 1998, _Unto Others: The Evolution and Psychology of Unselfish Behavior_, Cambridge, MA: Harvard University Press.
-* Sommers, T., and Rosenberg, A., 2003, “Darwin’s Nihilistic Idea: Evolution and the Meaninglessness of Life,” _Biology and Philosophy_, 18: 653–68.
-* Spencer, H., 1879, _The Data of Ethics_, New York: Thomas Y. Crowell & Company.
-* Street, S., 2006, “A Darwinian Dilemma for Realist Theories of Value,” _Philosophical Studies_, 127: 109–66.
-* –––, 2008, “Reply to Copp: Naturalism, Normativity, and the Varieties of Realism Worth Worrying About,” _Philosophical Issues_, 18: 207–28.
+* Engelmann, J., Clift, J., Herrmann, E.,and Tomasello, M., 2017, “Social Disappointment Explains Chimpanzees’ Behavior in the Inequity Aversion Task,” *Proc. R. Soc. B* 284: 20171502. http://dx.doi.org/10.1098/rspb.2017.1502.
+* Enoch, D., 2011, *Taking Morality Seriously: A Defense of Robust Realism*, Oxford: Oxford University Press.
+* FitzPatrick, W.J., 2000, *Teleology and the Norms of Nature*, New York: Garland.
+* –––, 2007, Review of Boniolo, G. and De Anna, G., eds., *Evolutionary Ethics and Contemporary Biology*, in *Notre Dame Philosophical Reviews*: 2007.04.02. \[[Available online](http://ndpr.nd.edu/review.cfm?id=9205)].
+* –––, 2012, Review of Philip Kitcher, *The Ethical Project*, *Ethics*, 123(1): 167–74.
+* –––, 2014a, “Debunking Evolutionary Debunking of Ethical Realism,” *Philosophical Studies*, doi:10.1007/s11098-014-0295-y
+* –––, 2014b, “Why There is No Darwinian Dilemma for Ethical Realism,” in M. Bergmann and P. Kain (eds.), *Challenges to Moral and Religious Belief: Disagreement and Evolution*, Oxford: Oxford University Press.
+* –––, 2016, “Scientific Naturalism and the Explanation of Moral Beliefs: Challenging Evolutionary Debunking,” in K. Clark ed., *The Blackwell Companion to Naturalism*, Wiley Blackwell.
+* –––, 2017a, “Human Altruism, Evolution and Moral Philosophy,” *Royal Society Open Science 4: 170441*, doi:10.1098/rsos.170441
+* –––, 2017b, “Why Darwinism Does Not Debunk Objective Morality,” in M. Ruse and R.J. Richards (eds.), *The Cambridge Handbook of Evolutionary Ethics*, Cambridge: Cambridge University Press.
+* –––, 2018, “Cognitive Science and Moral Philosophy: Challenging Scientistic Overreach,” in J. de Ritter, R. Peels, and R. van Woudenberg (eds.), *Scientism: Prospects and Problems*, Oxford: Oxford University Press.
+* Fodor, J., 1998, “The Trouble with Psychological Darwinism,” *London Review of Books*, 20(2): 11–13.
+* –––, 2000, *The Mind Doesn’t Work That Way: The Scope and Limits of Computational Psychology*, Cambridge, MA: MIT Press.
+* Foot, P., 2001, *Natural Goodness*, Oxford: Oxford University Press.
+* Fraser, B.J., 2014, “Evolutionary Debunking Arguments and the Reliability of Moral Cognition,” *Philosophical Studies*, 168: 457–473.
+* Gibbard, A., 1990, *Wise Choices, Apt Feelings*, Cambridge, MA: Harvard University Press.
+* Glover, J., 2000, *Humanity: A Moral History of the 20th Century*, New Haven: Yale University Press.
+* Gould, S.J., 1997a, “Darwinian Fundamentalism,” *New York Review of Books*, 44(10): 34–7.
+* –––, 1997b, “Evolutionary Psychology: An Exchange,” *New* *York Review of Books*, 44(15): 55–8.
+* Gould, S.J. and Lewontin, R.C., 1979, “The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme,” *Proceedings of the Royal Society: Biological Sciences*, 205: 581–98.
+* Greene, J.D., 2003, “From Neural ‘Is’ to Moral ‘Ought’: What are the Moral Implications of Neuroscientific Moral Psychology?”, *Nature Neuroscience Reviews*, 4: 847–50.
+* –––, 2008, “The Secret Joke of Kant’s Soul,” in W. Sinnott-Armstrong (ed.), *Moral Psychology*, Volume 3, pp. 35–80.
+* Griffiths, P. and J. Wilkins, 2015, “When Do Evolutionary Explanations of Belief Debunk Belief?” in P. Sloan (ed.), *Darwin in the 21st Century: Nature, Humanity and God*, Notre Dame, IN: Notre Dame University Press.
+* Haidt, J., 2001, “The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment,” *Psychological Review*, 108(4): 814–34.
+* –––, 2003, “The Emotional Dog Learns New Tricks: A Reply to Pizarro and Bloom (2003),” *Psychological Review*, 110(1): 197–98.
+* Hamilton, W.D., 1964, “The Genetical Evolution of Social Behavior,” I and II, *Journal of Theoretical Biology*, 7: 1–52.
+* Holldobler, B and Wilson, E.O., 2008, *The Superorganism: The Beauty, Elegance, and Strangeness of Insect Societies*, New York: Norton and Company.
+* Huemer, M., 2016, “A Liberal Realist Answer to Debunking Skeptics: The Empirical Case for Realism,” *Philosophical Studies*, 173: 1983–2010.
+* Joyce, R., 2006, *The Evolution of Morality*, Cambridge, MA: MIT Press.
+* –––, 2013, “Irrealism and the Genealogy of Morals,” *Ratio*, 26(4): 351–72.
+* –––, Forthcoming, “Evolution, Truth-Tracking, and Moral Skepticism,” in B. Reichardt (ed.), *Problems of Goodness*, Bonn: Bernstein Verlag.
+* Kahane, G., 2011, “Evolutionary Debunking Arguments,” *Nous*, 45(1): 103–125.
+* –––, 2014, “Ethics and Impartiality,” *Ethics*, 124 (January): 327–341.
+* Kamm, F., 1998, “Moral Intuitions, Cognitive Psychology, and the Harming-versus-Not-Aiding Distinction,” *Ethics*, 108 (April): 463–488.
+* –––, 2007, *Intricate Ethics: Rights, Responsibilities, and Permissible Harm*, Oxford: Oxford University Press.
+* Katz, L.D. (ed.), 2000, *Evolutionary Origins of Morality: Cross Disciplinary Perspectives*, Exeter: Imprint Academic.
+* Kitcher, P., 1985, *Vaulting Ambition*, Cambridge, MA: MIT Press.
+* –––, 1993, “The Evolution of Human Altruism,” *Journal of Philosophy*, 90(10): 497–516.
+* –––, 1994, “Four Ways of ‘Biologizing’ Ethics,” in E. Sober (ed.), *Conceptual Issues in Evolutionary Ethics*, pp. 439–50.
+* –––, 2006a, “Biology and Ethics,” in Copp, D. ed., *The Oxford Handbook of Ethical Theory*, Oxford: Oxford University Press, pp. 163–85.
+* –––, 2006b, “Between Fragile Altruism and Morality: Evolution and the Emergence of Normative Guidance,” in G. Boniolo and G. De Anna (eds.), *Evolutionary Ethics and Contemporary Biology*, pp. 159–77.
+* –––, 2006c, “Ethics and Evolution: How to Get Here from There,” in F. de Waal, *Primates and Philosophers*, pp. 120–39.
+* –––, 2011, *The Ethical Project*, Cambridge, MA: Harvard University Press.
+* Knobe, J. and Leiter, B., 2007, “The Case for Nietzschean Moral Psychology,” in *Nietzsche and Morality*, B. Leiter & N. Sinhababu (eds.), Oxford: Oxford University Press.
+* Korsgaard, C., 2006, “Morality and the Distinctiveness of Human Action,” in de Waal, *Primates and Philosophers*, pp. 98–119.
+* Leiter, B., 2007, “Nietzsche’s Theory of the Will,” *Philosopher’s Imprint*, 7(7): 1–15.
+* Levy, A. and Levy, Y., 2020, “Evolutionary Debunking Arguments Meet Evolutionary Science,” *Philosophy and Phenomenological Research*, 100(3): 491–509.
+* Locke, D., 2014, “Darwinian Normative Skepticism,” in M. Bergmann and P. Kain (eds.), *Challenges to Moral and Religious Belief: Disagreement and Evolution*, Oxford: Oxford University Press.
+* Lott, M., 2012, “Have Elephant Seals Refuted Aristotle? Nature, Function and Moral Goodness,” *Journal of Moral Philosophy*, 9: 1–23.
+* Machery, E. and R. Mallon, 2010, “Evolution of Morality,” in J. Doris (ed.), *The Moral Psychology Handbook*, Oxford: Oxford University Press.
+* Maynard Smith, J., 1982, *Evolution and the Theory of Games*, Cambridge: Cambridge University Press.
+* McDowell, J., 1995, “Two Sorts of Naturalism,” in R. Hursthouse, G. Lawrence, and W. Quinn (eds.), *Virtues and Reasons*, Oxford: Oxford University Press, pp. 149–80.
+* Mele, A., 2008, “Free Will: Action Theory Meets Neuroscience,” in Lumer, C., ed., *Intentionality, Deliberation and Autonomy: The Action-Theoretic Basis of Practical Philosophy*, Burlington: Ashgate.
+* Mikhail, J., 2011, *Elements of Moral Cognition: Rawls’ Linguistic Analogy and the Cognitive Science of Moral and Legal Judgment*, Cambridge: Cambridge University Press.
+* Moosavi, P., 2019, “From Biological Functions to Natural Goodness,” *Philosopher’s Imprint*, 19(51).
+* Nagel, T., 1979, “Ethics Without Biology”, in *Mortal Questions*, Cambridge: Cambridge University Press, pp. 142–46.
+* –––, 1997, *The Last Word*, Oxford: Oxford University Press.
+* Nichols, Shaun, 2004, *Sentimental Rules: On the Natural Foundations of Moral Judgment*, Oxford: Oxford University Press.
+* Pinker, S., 1997a, “Evolutionary Psychology: An Exchange,” *New York Review of Books* 44(15): 55–8.
+* –––, 1997b, *How the Mind Works*, New York: Norton.
+* –––, 2008, “The Moral Instinct,” *The New York Times Magazine*, January 13: 32–58.
+* Pizarro, D. and Bloom, P., 2003, “The Intelligence of the Moral Intuitions: Comments on Haidt (2001),” *Psychological Review*, 110(1): 193–96.
+* Prinz, J., 2008, “Is Morality Innate?”, in Sinnott-Armstrong, W., *Moral Psychology*, 1: 367-406.
+* Rachels, J., 1990, *Created From Animals: The Moral Implications of Darwinism*, Oxford: Oxford University Press.
+* Railton, P., 2014, “The Affective Dog and its Rational Tale: Intuition and Attunement,” *Ethics*, 124(4): 813–859.
+* Rini, R., 2016, “Debunking Debunking: A Regress Challenge for Psychological Threats to Moral Judgment,” *Philosophical Studies*, 173(3): 675–697.
+* Rosati, C., 1995, “Naturalism, Normativity, and the Open Question Argument,” *Noûs*, 29(1): 46–70.
+* Rosenberg, A., 2006, “Will Genomics Do More for Metaphysics than Locke?”, in G. Boniolo and G. De Anna (eds.), *Evolutionary Ethics and Contemporary Biology*, pp. 178–98.
+* Rottschaefer, W., 1998, *The Biology and Psychology of Moral Agency*, Cambridge: Cambridge University Press.
+* Ruse, M., 1988, “Evolutionary Ethics: Healthy Prospect or Last Infirmity?”, *Canadian Journal of Philosophy* (Supplement), 14: 27–73.
+* –––, 2006, “Is Darwinian Metaethics Possible (And If It Is, Is It Well Taken)?”, in G. Boniolo and G. De Anna (eds.), *Evolutionary Ethics and Contemporary Biology*, pp. 13–26.
+* Schafer, K., 2010, “Evolution and Normative Skepticism,” *Australasian Journal of Philosophy*, 88: 471–88.
+* Shafer-Landau, R., 2012, “Evolutionary Debunking, Moral Realism and Moral Knowledge,” *Journal of Ethics and Social Philosophy*, 7(1): 1–37.
+* Singer, P., 2005, “Ethics and Intuitions,” *Journal of Ethics*, 9: 331–52.
+* Sinnott-Armstrong, W., 2005, “Moral Intuitionism Meets Empirical Psychology,” in T. Horgan and M. Timmons (eds.), *Metaethics After Moore*, Oxford: Oxford University Press, pp. 339–66.
+* ––– (ed.), 2008, *Moral Psychology*, Vol. 1: *The Evolution of Morality: Adaptations and Innateness*, Cambridge, MA: MIT Press.
+* ––– (ed.), 2008a, *Moral Psychology*, Vol. 2: *The Cognitive Science of Morality: Intuition and Diversity*, Cambridge, MA: MIT Press.
+* ––– (ed.), 2008b, *Moral Psychology*, Vol. 3: *The Neuroscience of Morality: Emotion, Brain Disorders, and Development*, Cambridge, MA: MIT Press.
+* Skarsaune, K.O., 2011, “Darwin and Moral Realism: Survival of the Iffiest,” *Philosophical Studies*, 152: 229–243.
+* Sober, E. (ed.), 1994, *Conceptual Issues in Evolutionary Ethics*, 2nd ed., Cambridge, MA: MIT Press.
+* Sober, E. and Wilson, D.S., 1998, *Unto Others: The Evolution and Psychology of Unselfish Behavior*, Cambridge, MA: Harvard University Press.
+* Sommers, T., and Rosenberg, A., 2003, “Darwin’s Nihilistic Idea: Evolution and the Meaninglessness of Life,” *Biology and Philosophy*, 18: 653–68.
+* Spencer, H., 1879, *The Data of Ethics*, New York: Thomas Y. Crowell & Company.
+* Street, S., 2006, “A Darwinian Dilemma for Realist Theories of Value,” *Philosophical Studies*, 127: 109–66.
+* –––, 2008, “Reply to Copp: Naturalism, Normativity, and the Varieties of Realism Worth Worrying About,” *Philosophical Issues*, 18: 207–28.
 * Starratt, V. and Shackelford, T., 2009, “The Basic Components of the Human Mind Were Solidified During the Pleistocene Epoch,” in F. Ayala and R. Arp eds., Contemporary Debates in Philosophy of Biology, Wiley-Blackwell, 231-242.
-* Sterelny, K. and Fraser, B, 2016, “Evolution and Moral Realism,” _Brit. J. Phil. Sci_ 68 (2017), 981–1006.
-* Thompson, M., 1998, “The Representation of Life,” in Hursthouse, R., Lawrence, G., and Quinn, W., eds., _Virtues and Reasons_, Oxford: Oxford University Press, pp. 247–96.
-* –––, 2008, _Life and Action_, Cambridge, MA: Harvard University Press.
-* Thomson, J., 1985, “The Trolley Problem,” _The Yale Law Journal_, 94: 1395–1415.
-* Tooby, J. and Cosmides, L, 2005, “Conceptual Foundations of Evolutionary Psychology,” in D. Buss (ed.), _The Handbook of Evolutionary Psychology_, pp. 5–67.
-* Trivers, R., 1971, “The Evolution of Reciprocal Altruism,” _Quarterly Review of Biology_, 46: 35–57.
-* Vavova, K., 2015, “Evolutionary Debunking of Moral Realism,” _Philosophy Compass_, 10(2): 104–116.
-* Wheatley, T. and Haidt, J., 2005, “Hypnotically Induced Disgust Makes Moral Judgments More Severe,” _Psychological Science_, 16: 780–84.
-* Wielenberg, E., 2010, “On the Evolutionary Debunking of Morality,” _Ethics_, 120: 441–64.
-* Wilson, E.O., 1975, _Sociobiology: The New Synthesis_, Cambridge, MA: Harvard University Press.
-* –––, 1978, _On Human Nature_, Cambridge, MA: Harvard University Press.
-* –––, 1998, “The Biological Basis of Morality,” _The Atlantic Monthly_ (April): 53–70.
-* Wilson, E.O. and Ruse, M., 1986, “Moral Philosophy as Applied Science,” _Philosophy_, 61: 173–92.
-* Wilson, J.Q., 1993, _The Moral Sense_, New York: The Free Press.
-* Wrangham, R., 1987, “The Evolution of Social Structure,” in B. Smuts, et al. (eds.), _Primate Societies_, Chicago: Chicago University Press, pp. 282–96.
-* Wright, R., 1994, _The Moral Animal: The New Science of Evolutionary Psychology_, New York: Pantheon.
+* Sterelny, K. and Fraser, B, 2016, “Evolution and Moral Realism,” *Brit. J. Phil. Sci* 68 (2017), 981–1006.
+* Thompson, M., 1998, “The Representation of Life,” in Hursthouse, R., Lawrence, G., and Quinn, W., eds., *Virtues and Reasons*, Oxford: Oxford University Press, pp. 247–96.
+* –––, 2008, *Life and Action*, Cambridge, MA: Harvard University Press.
+* Thomson, J., 1985, “The Trolley Problem,” *The Yale Law Journal*, 94: 1395–1415.
+* Tooby, J. and Cosmides, L, 2005, “Conceptual Foundations of Evolutionary Psychology,” in D. Buss (ed.), *The Handbook of Evolutionary Psychology*, pp. 5–67.
+* Trivers, R., 1971, “The Evolution of Reciprocal Altruism,” *Quarterly Review of Biology*, 46: 35–57.
+* Vavova, K., 2015, “Evolutionary Debunking of Moral Realism,” *Philosophy Compass*, 10(2): 104–116.
+* Wheatley, T. and Haidt, J., 2005, “Hypnotically Induced Disgust Makes Moral Judgments More Severe,” *Psychological Science*, 16: 780–84.
+* Wielenberg, E., 2010, “On the Evolutionary Debunking of Morality,” *Ethics*, 120: 441–64.
+* Wilson, E.O., 1975, *Sociobiology: The New Synthesis*, Cambridge, MA: Harvard University Press.
+* –––, 1978, *On Human Nature*, Cambridge, MA: Harvard University Press.
+* –––, 1998, “The Biological Basis of Morality,” *The Atlantic Monthly* (April): 53–70.
+* Wilson, E.O. and Ruse, M., 1986, “Moral Philosophy as Applied Science,” *Philosophy*, 61: 173–92.
+* Wilson, J.Q., 1993, *The Moral Sense*, New York: The Free Press.
+* Wrangham, R., 1987, “The Evolution of Social Structure,” in B. Smuts, et al. (eds.), *Primate Societies*, Chicago: Chicago University Press, pp. 282–96.
+* Wright, R., 1994, *The Moral Animal: The New Science of Evolutionary Psychology*, New York: Pantheon.
 
 ## Academic Tools
 
@@ -525,4 +525,4 @@ Street（2008）在回应这个问题的提出的解决方法时，部分地指�
 [altruism: biological](https://plato.stanford.edu/entries/altruism-biological/) | [evolution: cultural](https://plato.stanford.edu/entries/evolution-cultural/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [psychology: evolutionary](https://plato.stanford.edu/entries/evolutionary-psychology/) | [religion: and science](https://plato.stanford.edu/entries/religion-science/) | [sociobiology](https://plato.stanford.edu/entries/sociobiology/) | [Spencer, Herbert](https://plato.stanford.edu/entries/spencer/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[William FitzPatrick](http://www.rochester.edu/college/phl/fitzpatrick/) <[_william.fitzpatrick@rochester.edu_](mailto:william%2efitzpatrick%40rochester%2eedu)>
+[William FitzPatrick](http://www.rochester.edu/college/phl/fitzpatrick/) <[*william.fitzpatrick@rochester.edu*](mailto:william%2efitzpatrick%40rochester%2eedu)>

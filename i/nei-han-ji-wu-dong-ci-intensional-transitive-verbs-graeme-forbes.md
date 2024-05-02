@@ -1,11 +1,11 @@
 # 内涵及物动词 intensional transitive verbs (Graeme Forbes)
 
-_首次发表于2004年11月3日星期三；实质性修订于2020年5月7日星期四。_
+*首次发表于2004年11月3日星期三；实质性修订于2020年5月7日星期四。*
 
 一个动词是及物动词，当且仅当它通常与直接宾语一起出现，并且在这种情况下被称为及物动词。因此，在“我吃了肉，留下了蔬菜”中，“吃了”是及物动词，但在“我吃了然后离开了”中不是（也许这两个例子中的“离开”不是同一个动词，但它们似乎是同一个“吃了”）。一个动词是内涵动词，如果它与其补语形成的动词短语（VP）在以下三种方式中至少有一种是异常的：（i）用与其补语中的指称相同的另一个表达式替换它可以改变VP所在句子的真值 - 例如，你可能欣赏马克·吐温但不欣赏塞缪尔·克莱门斯，没有意识到你讨厌的邻居山姆是那位著名作家（在这种情况下，将与其补语中的“马克·吐温”替换为“塞缪尔·克莱门斯”将把一个真句子“你欣赏马克·吐温”变成一个假句子“你欣赏塞缪尔·克莱门斯”）；（ii）如果VP包含一个量词或某种类型的量词，那么VP可以具有特殊的“不特定”解读（奎恩的例子（1956:185）很有名：他观察到，如果我们将“我想要一艘帆船”改写为“存在一艘（特定的）帆船，我想要它”，如果我只是想要“摆脱没有帆船的困境”，一艘帆船但不是特定的一艘，这样的改写会给出错误的理解；更多例子，请参见第1节）；（iii）即使嵌套句子没有否定，名字和存在量词在补语中的正常存在承诺也会被暂停（同样，请参见第1节）。
 
 内涵现象令人困惑且值得研究，因为（a）似乎唯一能解释语言使用者能够产生和理解他们以前从未遇到过的母语句子的能力的方式是假设语言中存在组合结构，并且使用者具有利用这种结构的解释能力。但是（b）关于这种结构的最简单的想法无法涵盖内涵性。因此，我们想知道允许内涵性的最小复杂性是什么。对内涵动词的研究主要集中在用于进行陈述态度报告的动词上。这些动词的补语是从句而不是直接宾语。然而，正如我们将在下面看到的，内涵及物动词（以下简称 ITVs）不仅仅是重复了陈述态度动词引发的问题，而且引入了自己的特殊困难。
- 
+
 ***
 
 ## 1. 一些内涵及物动词群体及其行为
@@ -384,66 +384,66 @@ Jack 想要一件羊毛衫
 
 ## Bibliography
 
-* Almog, J., 1998, “The Subject Verb Object Class I”, _Philosophical Perspectives_, 12: 39–76.
-* Asher, N., 1987, “A Typology for Attitude Verbs”, _Linguistics and Philosophy_, 10: 125–1976.
-* Carnap, R., 1947, _Meaning and Necessity_, Chicago: University of Chicago Press.
-* Cohen, A., 1999, _Think Generic!_, Stanford: CSLI Publications.
-* Crimmins, M., 1992, _Talk About Belief_, Cambridge, MA: The MIT Press.
-* Davidson, D., 1969, “On Saying That”, in _Words and Objections: Essays on the Work of W. V. Quine_, D. Davidson and J. Hintikka (ed.), Dordrecht: Reidel: 158–174.
-* Davidson, D., 1967, “The Logical Form of Action Sentences”, in _The Logic of Decision and Action_, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press. Reprinted in _Essays on Actions and Events_ by Donald Davidson. Oxford: Oxford University Press 1980, pp. 105–121.
-* den Dikken, M., R. Larson and P. Ludlow, 1996, “Intensional ‘Transitive’ Verbs and Concealed Complement Clauses”, _Rivista di Linguistica_, 8: 331–348; also (slightly abridged) in _Readings in the Philosophy of Language_ P. Ludlow (ed.), Cambridge, MA: The MIT Press 1997, 1041–1053.
-* –––, 2018, “Intensional Transitive Verbs and Abstract Clausal Complementation”. In _Non-Propositional Intentionality_, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 46–94.
-* Dowty, D., R. Wall, and S. Peters, 1981, _Introduction to Montague Semantics_, Dordrecht: Kluwer Academic Publishers.
-* Forbes, G., 2000, “Objectual Attitudes”, _Linguistics and Philosophy_, 23(2): 141–183.
-* –––, 2006, _Attitude Problems_, Oxford and New York: Oxford University Press.
-* –––, 2018, “Content and Theme in Attitude Ascriptions”, in _Non-Propositional Intentionality_, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 114–133.
-* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures”, in _Presupposition and Implicature in Compositional Semantics_, U. Sauerland and P. Stateva (ed.), New York: Palgrave Macmillan, 537–586.
-* Gluer, K. and P. Pagin, 2012, “General Terms and Relational Modality”, _Noûs_, 46(1): 159–199.
-* Graff Fara, Delia, 2013, “Specifying Desires”, _Noûs_, 47(2): 250–272.
-* Grzankowski, A., 2018, “A Theory of Non-Propositional Attitudes”, in _Non-Propositional Intentionality_, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 134–151.
-* Harley, H., 2004, “Wanting, Having and Getting: A Note on Fodor and Lepore 1998”, _Linguistic Inquiry_, 35(2): 255–267.
-* Heim, I. and A. Kratzer, 1998, _Semantics in Generative Grammar_, Oxford and New York: Basil Blackwell.
-* van Inwagen, Peter, 1977, “Creatures of Fiction”, _American Philosophical Quarterly_, 14: 299–308.
-* Jennings, R. E., 1994, _The Genealogy of Disjunction_, Oxford and New York: Oxford University Press.
-* Kamp, H., 1973, “Free Choice Permission”, _Proceedings of the Aristotelian Society_, 74: 57–94.
-* Kaplan, D., 1986, “Opacity”, in _The Philosophy of W. V. Quine_, L. E. Hahn and P. A. Schilpp (ed.), LaSalle: Open Court, 229–289.
-* Keenan, E., 2003, “The Definiteness Effect: Semantic or Pragmatic?” _Natural Language Semantics_, 11: 187–216.
-* King, J., 2002, “Designating Propositions”, _The Philosophical Review_, 111(3): 341–371.
-* Kripke, S., 1972, “Naming and Necessity”, in _Semantics of Natural Language_, D. Davidson and G. Harman (ed.), Dordrecht: Reidel Publishing Company, 252–355. Reprinted as _Naming and Necessity_ by Saul Kripke, Oxford: Basil Blackwell, 1980.
-* Larson, R., 2001, “The Grammar of Intensionality”, in _Logical Form and Natural Language_, G. Preyer and G. Peter (ed.), Oxford and New York: Oxford University Press, 228–262.
-* Leslie, S-J., 2008, “Generics: Cognition and Acquisition”, _The Philosophical Review_, 117(1): 1–47.
-* Lewis, D., 1972, “General Semantics”, in _Semantics of Natural Language_, D. Davidson and G. Harman (ed.), Dordrecht: Reidel: 169–218.
-* Loewer, B., 1976, “Counterfactuals with Disjunctive Antecedents”, _The Journal of Philosophy_, 73: 531–537.
-* Makinson, D., 1984, “Stenius’ Approach to Disjunctive Permission”, _Theoria_, 50: 138–147.
-* Moltmann, F., 1997, “Intensional Verbs and Quantifiers”, _Natural Language Semantics_, 5(1): 1–52.
-* –––, 2008, “Intensional Verbs and Their Intentional Objects”, _Natural Language Semantics_, 16(3): 239–270.
-* Montague, M., 2007, “Against Propositionalism”, _Noûs_, 41: 503–518.
-* Montague, R., 1973, “The Proper Treatment of Quantification in Ordinary English”, in _Approaches to Natural Language_, J. Hintikka, J. Moravcsik and P. Suppes(ed.), Dordrecht: Reidel Publishing Company. Also in Montague 1974: 242–270.
-* –––, 1974, _Formal Philosophy: Selected Papers of Richard Montague_, edited by Richmond Thomason, New Haven and London: Yale University Press.
-* Muskens, R., 2005, “Sense and the Computation of Reference”, _Linguistics and Philosophy_, 29(4): 473–504.
-* Nebel, J., 2019, “Hopes, Fears and Other Grammatical Scarecrows”, _The Philosophical Review_, 128(1): 63–105.
-* Parsons, T., 1980, _Nonexistent Objects_, New Haven: Yale University Press.
-* –––, 1990, _Events in the Semantics of English_, Cambridge, MA: The MIT Press.
-* –––, 1997, “Meaning Sensitivity and Grammatical Structure”, in _Structures and Norms in Science_, M. L. Dalla Chiara, K. Doets, D. Mundici and J. v. Benthem (ed.), Dordrecht: Kluwer Academic Publishers: 369–383.
-* Partee, B., 1974, “Opacity and Scope”, in _Semantics and Philosophy_, M. Munitz and P. Unger (ed.), New York: NYU Press, 81–101.
-* Proust, M., 1998, _À La Recherche du Temps Perdu: Combray_, adaptation and drawings by Stéphane Heuet, colors by Véronique Doray, Luçon: Delcourt.
-* Pietroski, P., 2000, “On Explaining That”, _The Journal of Philosophy_, 97(12): 655–662.
-* –––, 2005, _Events and Semantic Architecture_, Oxford and New York: Oxford University Press.
-* Prior, A. N., 1963, “Oratio Obliqua”, _Proceedings of the Aristotelian Society, Supplementary Volume_, 37: 115–146.
-* Quine, W. V., 1956, “Quantifiers and Propositional Attitudes”, _The Philosophical Review_, 53: 177–187.
-* Richard, M., 2001, “Seeking a Centaur, Adoring Adonis: Intensional Transitives and Empty Terms”, in _Figurative Language_ (Midwest Studies in Philosophy Volume 25), P. French and H. Wettstein (ed.), Oxford and New York: Basil Blackwell, 103–127.
-* Sainsbury, M., 2018, _Thinking About Things_, Oxford and New York: Oxford University Press.
-* Salmon, N., 1986, _Frege’s Puzzle_, Cambridge, Mass.: The MIT Press.
-* –––, 2002, “Mythical Objects”, in J. Campbell, M. O’Rourke and D. Shier (ed.), _Meaning and Truth_, New York: Seven Bridges Press, 105–123.
-* Schwarz, F., 2006, “On _needing_ Propositions and _looking for_ Properties”, _Proceedings of Semantics and Linguistic Theory XVI_, M. Gibson, J. Howell (ed.), CLC Publications, Ithaca, New York, 259–276.
-* Simons, M., 2005, “Dividing Things Up: The Semantics of ‘Or’ and the Modal/‘Or’ Interaction”, _Natural Language Semantics_, 13: 271–316.
-* Thomason, R., 1980, “A Model Theory for Propositional Attitudes”, _Linguistics and Philosophy_, 4: 47–70.
-* Thomasson, A., 1998, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
-* Zalta, E., 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: The MIT Press.
-* Zimmerman, T. E., 1993, “On the Proper Treatment of Opacity in Certain Verbs”, _Natural Language Semantics_, 1: 149–179.
-* –––, 2000, “Free Choice Disjunction and Epistemic Possibility”, _Natural Language Semantics_, 8(4): 255–290.
-* –––, 2001, “Unspecificity and Intensionality”, in _Audiatur Vox Sapentiae_, C. Féry and W. Sternefeld (ed.), Berlin: Akademie Verlag.
-* –––, 2006, “Monotonicity in Opaque Verbs”, _Linguistics and Philosophy_, 29: 715–761.
+* Almog, J., 1998, “The Subject Verb Object Class I”, *Philosophical Perspectives*, 12: 39–76.
+* Asher, N., 1987, “A Typology for Attitude Verbs”, *Linguistics and Philosophy*, 10: 125–1976.
+* Carnap, R., 1947, *Meaning and Necessity*, Chicago: University of Chicago Press.
+* Cohen, A., 1999, *Think Generic!*, Stanford: CSLI Publications.
+* Crimmins, M., 1992, *Talk About Belief*, Cambridge, MA: The MIT Press.
+* Davidson, D., 1969, “On Saying That”, in *Words and Objections: Essays on the Work of W. V. Quine*, D. Davidson and J. Hintikka (ed.), Dordrecht: Reidel: 158–174.
+* Davidson, D., 1967, “The Logical Form of Action Sentences”, in *The Logic of Decision and Action*, N. Rescher (ed.), Pittsburgh: University of Pittsburgh Press. Reprinted in *Essays on Actions and Events* by Donald Davidson. Oxford: Oxford University Press 1980, pp. 105–121.
+* den Dikken, M., R. Larson and P. Ludlow, 1996, “Intensional ‘Transitive’ Verbs and Concealed Complement Clauses”, *Rivista di Linguistica*, 8: 331–348; also (slightly abridged) in *Readings in the Philosophy of Language* P. Ludlow (ed.), Cambridge, MA: The MIT Press 1997, 1041–1053.
+* –––, 2018, “Intensional Transitive Verbs and Abstract Clausal Complementation”. In *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 46–94.
+* Dowty, D., R. Wall, and S. Peters, 1981, *Introduction to Montague Semantics*, Dordrecht: Kluwer Academic Publishers.
+* Forbes, G., 2000, “Objectual Attitudes”, *Linguistics and Philosophy*, 23(2): 141–183.
+* –––, 2006, *Attitude Problems*, Oxford and New York: Oxford University Press.
+* –––, 2018, “Content and Theme in Attitude Ascriptions”, in *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 114–133.
+* Fox, D., 2007, “Free Choice and the Theory of Scalar Implicatures”, in *Presupposition and Implicature in Compositional Semantics*, U. Sauerland and P. Stateva (ed.), New York: Palgrave Macmillan, 537–586.
+* Gluer, K. and P. Pagin, 2012, “General Terms and Relational Modality”, *Noûs*, 46(1): 159–199.
+* Graff Fara, Delia, 2013, “Specifying Desires”, *Noûs*, 47(2): 250–272.
+* Grzankowski, A., 2018, “A Theory of Non-Propositional Attitudes”, in *Non-Propositional Intentionality*, A. Grzankowski and M. Montague (ed.), Oxford and New York: Oxford University Press, 134–151.
+* Harley, H., 2004, “Wanting, Having and Getting: A Note on Fodor and Lepore 1998”, *Linguistic Inquiry*, 35(2): 255–267.
+* Heim, I. and A. Kratzer, 1998, *Semantics in Generative Grammar*, Oxford and New York: Basil Blackwell.
+* van Inwagen, Peter, 1977, “Creatures of Fiction”, *American Philosophical Quarterly*, 14: 299–308.
+* Jennings, R. E., 1994, *The Genealogy of Disjunction*, Oxford and New York: Oxford University Press.
+* Kamp, H., 1973, “Free Choice Permission”, *Proceedings of the Aristotelian Society*, 74: 57–94.
+* Kaplan, D., 1986, “Opacity”, in *The Philosophy of W. V. Quine*, L. E. Hahn and P. A. Schilpp (ed.), LaSalle: Open Court, 229–289.
+* Keenan, E., 2003, “The Definiteness Effect: Semantic or Pragmatic?” *Natural Language Semantics*, 11: 187–216.
+* King, J., 2002, “Designating Propositions”, *The Philosophical Review*, 111(3): 341–371.
+* Kripke, S., 1972, “Naming and Necessity”, in *Semantics of Natural Language*, D. Davidson and G. Harman (ed.), Dordrecht: Reidel Publishing Company, 252–355. Reprinted as *Naming and Necessity* by Saul Kripke, Oxford: Basil Blackwell, 1980.
+* Larson, R., 2001, “The Grammar of Intensionality”, in *Logical Form and Natural Language*, G. Preyer and G. Peter (ed.), Oxford and New York: Oxford University Press, 228–262.
+* Leslie, S-J., 2008, “Generics: Cognition and Acquisition”, *The Philosophical Review*, 117(1): 1–47.
+* Lewis, D., 1972, “General Semantics”, in *Semantics of Natural Language*, D. Davidson and G. Harman (ed.), Dordrecht: Reidel: 169–218.
+* Loewer, B., 1976, “Counterfactuals with Disjunctive Antecedents”, *The Journal of Philosophy*, 73: 531–537.
+* Makinson, D., 1984, “Stenius’ Approach to Disjunctive Permission”, *Theoria*, 50: 138–147.
+* Moltmann, F., 1997, “Intensional Verbs and Quantifiers”, *Natural Language Semantics*, 5(1): 1–52.
+* –––, 2008, “Intensional Verbs and Their Intentional Objects”, *Natural Language Semantics*, 16(3): 239–270.
+* Montague, M., 2007, “Against Propositionalism”, *Noûs*, 41: 503–518.
+* Montague, R., 1973, “The Proper Treatment of Quantification in Ordinary English”, in *Approaches to Natural Language*, J. Hintikka, J. Moravcsik and P. Suppes(ed.), Dordrecht: Reidel Publishing Company. Also in Montague 1974: 242–270.
+* –––, 1974, *Formal Philosophy: Selected Papers of Richard Montague*, edited by Richmond Thomason, New Haven and London: Yale University Press.
+* Muskens, R., 2005, “Sense and the Computation of Reference”, *Linguistics and Philosophy*, 29(4): 473–504.
+* Nebel, J., 2019, “Hopes, Fears and Other Grammatical Scarecrows”, *The Philosophical Review*, 128(1): 63–105.
+* Parsons, T., 1980, *Nonexistent Objects*, New Haven: Yale University Press.
+* –––, 1990, *Events in the Semantics of English*, Cambridge, MA: The MIT Press.
+* –––, 1997, “Meaning Sensitivity and Grammatical Structure”, in *Structures and Norms in Science*, M. L. Dalla Chiara, K. Doets, D. Mundici and J. v. Benthem (ed.), Dordrecht: Kluwer Academic Publishers: 369–383.
+* Partee, B., 1974, “Opacity and Scope”, in *Semantics and Philosophy*, M. Munitz and P. Unger (ed.), New York: NYU Press, 81–101.
+* Proust, M., 1998, *À La Recherche du Temps Perdu: Combray*, adaptation and drawings by Stéphane Heuet, colors by Véronique Doray, Luçon: Delcourt.
+* Pietroski, P., 2000, “On Explaining That”, *The Journal of Philosophy*, 97(12): 655–662.
+* –––, 2005, *Events and Semantic Architecture*, Oxford and New York: Oxford University Press.
+* Prior, A. N., 1963, “Oratio Obliqua”, *Proceedings of the Aristotelian Society, Supplementary Volume*, 37: 115–146.
+* Quine, W. V., 1956, “Quantifiers and Propositional Attitudes”, *The Philosophical Review*, 53: 177–187.
+* Richard, M., 2001, “Seeking a Centaur, Adoring Adonis: Intensional Transitives and Empty Terms”, in *Figurative Language* (Midwest Studies in Philosophy Volume 25), P. French and H. Wettstein (ed.), Oxford and New York: Basil Blackwell, 103–127.
+* Sainsbury, M., 2018, *Thinking About Things*, Oxford and New York: Oxford University Press.
+* Salmon, N., 1986, *Frege’s Puzzle*, Cambridge, Mass.: The MIT Press.
+* –––, 2002, “Mythical Objects”, in J. Campbell, M. O’Rourke and D. Shier (ed.), *Meaning and Truth*, New York: Seven Bridges Press, 105–123.
+* Schwarz, F., 2006, “On *needing* Propositions and *looking for* Properties”, *Proceedings of Semantics and Linguistic Theory XVI*, M. Gibson, J. Howell (ed.), CLC Publications, Ithaca, New York, 259–276.
+* Simons, M., 2005, “Dividing Things Up: The Semantics of ‘Or’ and the Modal/‘Or’ Interaction”, *Natural Language Semantics*, 13: 271–316.
+* Thomason, R., 1980, “A Model Theory for Propositional Attitudes”, *Linguistics and Philosophy*, 4: 47–70.
+* Thomasson, A., 1998, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* Zalta, E., 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: The MIT Press.
+* Zimmerman, T. E., 1993, “On the Proper Treatment of Opacity in Certain Verbs”, *Natural Language Semantics*, 1: 149–179.
+* –––, 2000, “Free Choice Disjunction and Epistemic Possibility”, *Natural Language Semantics*, 8(4): 255–290.
+* –––, 2001, “Unspecificity and Intensionality”, in *Audiatur Vox Sapentiae*, C. Féry and W. Sternefeld (ed.), Berlin: Akademie Verlag.
+* –––, 2006, “Monotonicity in Opaque Verbs”, *Linguistics and Philosophy*, 29: 715–761.
 
 ## Academic Tools
 
@@ -462,4 +462,4 @@ Jack 想要一件羊毛衫
 [compositionality](https://plato.stanford.edu/entries/compositionality/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [generic generalizations](https://plato.stanford.edu/entries/generics/) | [logic: intensional](https://plato.stanford.edu/entries/logic-intensional/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [semantics: Montague](https://plato.stanford.edu/entries/montague-semantics/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Graeme Forbes](http://www.colorado.edu/philosophy/people/graeme-forbes) <[_graeme.forbes@colorado.edu_](mailto:graeme%2eforbes%40colorado%2eedu)>
+[Graeme Forbes](http://www.colorado.edu/philosophy/people/graeme-forbes) <[*graeme.forbes@colorado.edu*](mailto:graeme%2eforbes%40colorado%2eedu)>

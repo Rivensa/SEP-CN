@@ -1,9 +1,8 @@
 # 动物主义 animalism (Stephan Blatti)
 
-_首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日_
+*首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日*
 
 在“个人身份”这个标题下需要提出的问题包括：“我们是什么？”（基本性质问题）和“在什么条件下我们能够持续存在？”（持续性问题）。在对这些问题的主导性新洛克式方法进行反驳时，被称为动物主义的观点回答说，我们每个人都是一种_人类（Homo sapiens）_ 的有机体，我们持续存在的条件是动物的条件。除了描述动物主义及其竞争对手的内容和历史背景外，本文还探讨了关于我们的本质和持续性的这种有争议的观点的一些论证和反对意见。
-
 
 ***
 
@@ -68,7 +67,7 @@ _首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日
 
 （2a）
 
-假设有一个人类动物 _x_，存在于某个时间点 t1，还有另一个东西 _y_，存在于稍后的时间点 t2，当且仅当 _y_ 继续 _x_ 之前经历过的生命过程时，_y_ 与 _x_ 是相同的。
+假设有一个人类动物 *x*，存在于某个时间点 t1，还有另一个东西 *y*，存在于稍后的时间点 t2，当且仅当 *y* 继续 *x* 之前经历过的生命过程时，*y* 与 *x* 是相同的。
 
 一旦（2a）与动物主义对基本本质问题（1）的回答结合起来，我们就得到了一个可以称之为“有机动物主义”的观点。这一观点的著名支持者包括奥尔森和范因瓦根（1990 年）。当然，根据有机主义观点，死亡将构成我们存在的终结。无论我们死后还剩下什么，我们每个人在死亡时都将停止存在。实际上，严格来说，在这种观点上，不存在死去的动物（或者也许——如果“死去”是一个像“假的”这样的非属性形容词——那么“死去的动物”就不是动物）。
 
@@ -84,7 +83,7 @@ _首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日
 
 （2b）
 
-假设有一个人类动物 _x_，存在于某个时间点 t1，还有另一物体 _y_，存在于稍后的时间点 t2，当且仅当 _y_ 保留了 _x_ 先前展示的足够程度的生命适应结构的组成部分时，_y_ 与 _x_ 是相同的。
+假设有一个人类动物 *x*，存在于某个时间点 t1，还有另一物体 *y*，存在于稍后的时间点 t2，当且仅当 *y* 保留了 *x* 先前展示的足够程度的生命适应结构的组成部分时，*y* 与 *x* 是相同的。
 
 此后，“躯体动物主义”将指代（1）和（2b）的结合。除了艾尔斯和麦基，著名的躯体主义者还包括卡特（1989 年，1999 年）和费尔德曼（1992 年）。
 
@@ -106,9 +105,9 @@ _首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日
 
 洛克对人类/个人区分的动力源于 17 世纪和 18 世纪神学家和哲学家之间关于复活的形而上学辩论。他们的挑战是解释圣经预言，即死者将在审判日复活。但到底是什么被复活了呢？与活体有关的物理粒子处于不断变化的状态。与一个有机体相关联的粒子从一个时刻到另一个时刻可能完全改变（也许会多次改变），并且在有机体的生命过程中可能完全更替。此外，由于分解和/或被其他有机体消耗，有机体死亡时相关联的粒子将被广泛分散。仅凭这些事实，每个个体的复活涉及重建该个体以前的“身体”是不太可能，甚至是不可能的。人类/个人区分为洛克提供了解决这个问题的资源，因为在他看来，一个人之所以是人，不是因为它所依托的物质或非物质实质——这是洛克始终持保留意见的问题，尽管他倾向于认为潜在的实质是非物质的（II.xxvii.25）——而是因为它所具备的心理能力，即自我意识和理性。一个人的持续性“只要”这些能力的行使“延伸”（II.xxvii.9）：“因为相同的意识被保留下来，无论是在相同的物质还是不同的物质中，个人的身份都被保留下来”（II.xxvii.13）。因此，洛克可以断言，即使一个人来到一个完全不同于其先前相关联的身体中，仍然可以复活为同一个人（II.xxvii.15）。
 
-在解决这个问题的背景下，洛克引入了著名的思想实验，涉及王子和鞋匠，不是作为需要解释的谜题，而是作为一个表面上合理的案例，证明了人类/个人的区别（从而证明了他对复活问题的解决方案）。如果“王子的灵魂，带着王子过去生活的意识，一旦离开自己的灵魂，进入并告知一个鞋匠的身体”，洛克告诫他的读者，“_每个人都看到_，他将是与王子相同的人，只对王子的行为负责：但谁会说他是同一个人？”（II.xxvii.15，强调添加）。这个思想实验通常被认为支持个人身份的心理标准。这样的标准的具体形式一直是争议的焦点，无论是在洛克的时代还是之后。洛克本人有时被认为（可能是错误的）主张记忆标准，即一个人，_x_，在某个时间 t1 存在，而另一个人，_y_，在稍后的时间 t2 存在，如果_y_记得_x_经历过的经历，那么_y_与_x_是相同的。无论洛克是否持有这个观点，总的来说，个人身份的心理标准认为某种心理关系（即涉及记忆、特征和倾向、信仰、欲望、理性等的关系）对于我们每个人在时间上的持续是必要和/或充分的。
+在解决这个问题的背景下，洛克引入了著名的思想实验，涉及王子和鞋匠，不是作为需要解释的谜题，而是作为一个表面上合理的案例，证明了人类/个人的区别（从而证明了他对复活问题的解决方案）。如果“王子的灵魂，带着王子过去生活的意识，一旦离开自己的灵魂，进入并告知一个鞋匠的身体”，洛克告诫他的读者，“*每个人都看到*，他将是与王子相同的人，只对王子的行为负责：但谁会说他是同一个人？”（II.xxvii.15，强调添加）。这个思想实验通常被认为支持个人身份的心理标准。这样的标准的具体形式一直是争议的焦点，无论是在洛克的时代还是之后。洛克本人有时被认为（可能是错误的）主张记忆标准，即一个人，*x*，在某个时间 t1 存在，而另一个人，*y*，在稍后的时间 t2 存在，如果_y_记得_x_经历过的经历，那么_y_与_x_是相同的。无论洛克是否持有这个观点，总的来说，个人身份的心理标准认为某种心理关系（即涉及记忆、特征和倾向、信仰、欲望、理性等的关系）对于我们每个人在时间上的持续是必要和/或充分的。
 
-人类/个人区别的另一个重要维度也在这个例子中得到了体现，即个人作为道德责任的场所。根据洛克的观点，正是由于他们的自我意识和理性能力，人不仅在时间上持续存在，而且对于在其他时间所犯的行为也具有谨慎关注和道德和法律责任。根据洛克的观点，一个人只应该为她记得自己犯下的那些行为受到惩罚（II.xxvii.20）。这不仅适用于审判日执行的神圣法律，当“_所有人的心灵的秘密都将被揭示_”，并且对我们一生中进行的善恶行为进行奖励和惩罚（II.xxvii.26）时，也适用于日常法律和道德事务。因此，“人”作为“一个法庭术语，适用于行为及其价值”（同上），在“_个人身份_是所有奖励和惩罚的权利和正义的基础”（II.xxvii.18）。
+人类/个人区别的另一个重要维度也在这个例子中得到了体现，即个人作为道德责任的场所。根据洛克的观点，正是由于他们的自我意识和理性能力，人不仅在时间上持续存在，而且对于在其他时间所犯的行为也具有谨慎关注和道德和法律责任。根据洛克的观点，一个人只应该为她记得自己犯下的那些行为受到惩罚（II.xxvii.20）。这不仅适用于审判日执行的神圣法律，当“*所有人的心灵的秘密都将被揭示*”，并且对我们一生中进行的善恶行为进行奖励和惩罚（II.xxvii.26）时，也适用于日常法律和道德事务。因此，“人”作为“一个法庭术语，适用于行为及其价值”（同上），在“_个人身份_是所有奖励和惩罚的权利和正义的基础”（II.xxvii.18）。
 
 在讨论人格的规范方面，洛克提出并回答了一个明显的异议，这种回答预示了当代辩论的某些观点。他说：“假设”，
 
@@ -131,7 +130,7 @@ _首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日
 
 例如，动物主义者经常将他们对持续性问题的回答与洛克对人类动物身份标准的认同联系起来（例如，Olson 2007: 28）。当然，由于有机动物主义者肯定并且身体动物主义者否认生命存在是我们持续性的必要条件，洛克不能同时成为两个阵营的盟友。对于洛克来说，D. Mackie（1999b: 235–39）将其归类为有机主义者。然而，来自《论人类理解》的足够多的段落表明情况并非如此（其中一些段落 Mackie 本人也承认，例如在 II.xxvii.4–5 中），更谨慎的结论可能是洛克在这个问题上要么不一致，要么只是犹豫不决。动物主义者对洛克关于人格的解释也持有同情态度，尽管对于“人”这个概念的类型有不同的理解，这种替代理解使得动物主义者能够支持上述的要素(d)。
 
-动物主义者所反对的是洛克的观点，即“人”是一种分类概念（例如，Snowdon 2014: ch. 3）。相反，大多数动物主义者坚持，根据 Olson（1997: ch. 2）的观点，“人”只是一个_阶段_的分类概念（或_状态_概念，参见 Hacker 2007）。（他所称的“阶段性分类概念”这个概念是由 Wiggins \[1967, 2001]提出的。）与决定其实例持续条件的分类概念不同，阶段性分类概念是一个概念，其实例只在其存在的某个阶段临时属于其中（例如_青少年_）。例如，通过达到特定年龄，原本不是青少年的东西可以成为青少年而不会停止存在。同样，原本是青少年的东西可以停止成为青少年而不会停止存在。动物主义者说，_人_也是如此。他们声称，人性是一种在获得洛克所确定的心理能力（自我意识和理性）时开始并在失去这些能力时结束的阶段。这样，成为一个人是关于某物能够_做什么_，而不是某物_是什么_的问题。根据 Olson 的术语，_人_是一种“功能性种类”，类似于_运动器官_（1997: 31–37）。运动器官是任何能够自行移动的东西，无论是花园里的蛞蝓还是弹道导弹。同样，Olson（遵循洛克）认为，一个人是任何能够以某种方式思考的东西-任何“是理性的，…通常有意识并意识到自己在时间和空间中追踪路径的东西，…\[并且]对其行为负有道德责任”（1997: 32）。根据这种观点，除了人类动物之外，许多其他事物也可以成为人：天使、神、机器、动物、非物质灵魂、外星人等。在人类动物的情况下，我们通常在受孕或出生时并不成为人，而是在两岁左右。虽然一个人类动物在不再成为人的同时可能会消失（例如，如果她踩到了一颗活动的地雷），但一个人类动物在不再成为人之后仍然可以继续存在很长时间（例如，如果他陷入了持续植物状态）。
+动物主义者所反对的是洛克的观点，即“人”是一种分类概念（例如，Snowdon 2014: ch. 3）。相反，大多数动物主义者坚持，根据 Olson（1997: ch. 2）的观点，“人”只是一个_阶段_的分类概念（或_状态_概念，参见 Hacker 2007）。（他所称的“阶段性分类概念”这个概念是由 Wiggins \[1967, 2001]提出的。）与决定其实例持续条件的分类概念不同，阶段性分类概念是一个概念，其实例只在其存在的某个阶段临时属于其中（例如_青少年_）。例如，通过达到特定年龄，原本不是青少年的东西可以成为青少年而不会停止存在。同样，原本是青少年的东西可以停止成为青少年而不会停止存在。动物主义者说，*人_也是如此。他们声称，人性是一种在获得洛克所确定的心理能力（自我意识和理性）时开始并在失去这些能力时结束的阶段。这样，成为一个人是关于某物能够_做什么*，而不是某物_是什么_的问题。根据 Olson 的术语，*人_是一种“功能性种类”，类似于_运动器官*（1997: 31–37）。运动器官是任何能够自行移动的东西，无论是花园里的蛞蝓还是弹道导弹。同样，Olson（遵循洛克）认为，一个人是任何能够以某种方式思考的东西-任何“是理性的，…通常有意识并意识到自己在时间和空间中追踪路径的东西，…\[并且]对其行为负有道德责任”（1997: 32）。根据这种观点，除了人类动物之外，许多其他事物也可以成为人：天使、神、机器、动物、非物质灵魂、外星人等。在人类动物的情况下，我们通常在受孕或出生时并不成为人，而是在两岁左右。虽然一个人类动物在不再成为人的同时可能会消失（例如，如果她踩到了一颗活动的地雷），但一个人类动物在不再成为人之后仍然可以继续存在很长时间（例如，如果他陷入了持续植物状态）。
 
 动物主义的主要竞争对手常常被认为是“新洛克主义”。这种辩论方式至少可以追溯到 Noonan（1998 年，2001 年）和 D. Mackie（1999a）之间的一次重要交流。此外，第一本专门研究动物主义的专著对“心理学方法”进行了持续攻击，而这种方法的“最著名的倡导者当然是洛克”（Olson 1997: 20）。在当代讨论中，“动物主义与新洛克主义”的对立仍然很常见（例如，S. Campbell 2001; Hershenov 2012; Johnston 2010; Robinson 2016; S. Shoemaker 2008）。
 
@@ -143,11 +142,11 @@ _首次发布于 2014 年 4 月 7 日；实质性修订于 2019 年 7 月 15 日
 
 也许对宪政主义方法的最广泛阐述是由贝克（Baker）（2000 年，2002 年，2007 年）提出的。在她的观点中，区分我们与构成我们的人类动物的特性是一种她称之为“第一人称视角”的自我意识形式（2000 年：第 3 章）。从这个视角出发，“人们将自己视为一个面对世界的个体，作为与其他一切不同的主体”；这使我们“能够将自己的身体和心理状态视为自己的”（2000 年：60，4）。在她看来，人具有他们的第一人称视角，他们“只要他们的第一人称视角得到体现，就会持续存在”（2016 年：51；参见 2000 年：132-41）。
 
-这一观点的核心是贝克最近标注的“关键区别”（2007 年：43；2016 年：53）。宪政主义者认为构成对象（例如大理石块）和被构成对象（例如雕像）可以共享一些属性。例如，雕像与构成它的大理石块共享其物理和美学属性；同样，贝克将声称，人与构成它的人类动物共享其物理和心理属性。但是这些对象不能以相同的方式共享它们的所有属性，否则构成和被构成之间就没有区别。因此，贝克在对象实例化属性的两种方式之间划分了一个详尽且互斥的区别：派生或非派生。粗略地说，如果一个对象（_x_）构成另一个对象（_y_），并且两个对象都实例化某个属性（_F_），那么对象只有在与另一个对象共处时才派生地实例化该属性，而对象只有在不依赖与另一个对象共处时才非派生地实例化该属性。我们可以更明确地表达这一区别如下。如果一个对象（_x_）构成另一个对象（_y_），并且两个对象都实例化某个属性（_F_），那么
+这一观点的核心是贝克最近标注的“关键区别”（2007 年：43；2016 年：53）。宪政主义者认为构成对象（例如大理石块）和被构成对象（例如雕像）可以共享一些属性。例如，雕像与构成它的大理石块共享其物理和美学属性；同样，贝克将声称，人与构成它的人类动物共享其物理和心理属性。但是这些对象不能以相同的方式共享它们的所有属性，否则构成和被构成之间就没有区别。因此，贝克在对象实例化属性的两种方式之间划分了一个详尽且互斥的区别：派生或非派生。粗略地说，如果一个对象（*x*）构成另一个对象（*y*），并且两个对象都实例化某个属性（*F*），那么对象只有在与另一个对象共处时才派生地实例化该属性，而对象只有在不依赖与另一个对象共处时才非派生地实例化该属性。我们可以更明确地表达这一区别如下。如果一个对象（*x*）构成另一个对象（*y*），并且两个对象都实例化某个属性（*F*），那么
 
-1. _x_（构成对象）在事件中非派生地实例化了_F_，即使它不构成_y_（被构成对象）也会实例化_F_；
-2. _y_在事件中非派生地实例化了_F_，如果_x_不构成_y_，则_x_将无法实例化_F_；并且
-3. _y_ 在事件中衍生地实例化了 _F_，即使 _x_ 不构成 _y_，它也会实例化 _F_。
+1. *x*（构成对象）在事件中非派生地实例化了_F_，即使它不构成_y_（被构成对象）也会实例化_F_；
+2. *y_在事件中非派生地实例化了_F*，如果_x_不构成_y_，则_x_将无法实例化_F_；并且
+3. *y* 在事件中衍生地实例化了 *F*，即使 *x* 不构成 *y*，它也会实例化 *F*。
 
 例如，考虑一个巨型怪物的大理石雕像。在这种情况下，(i) 大理石块非衍生地实例化了三米高的属性（因为即使它不构成雕像，它也会有三米高）；(ii) 雕像非衍生地实例化了丑陋的属性（因为与之共存的大理石块如果不构成雕像，就不会丑陋）；(iii) 雕像衍生地实例化了三米高的属性（因为即使大理石块不构成雕像，它也会有三米高）。（Baker 在她的 2000 年: 46–58 和 2007 年: 166–69 中对 Baker 的关键区别进行了更精确的阐述。许多批评家认为这种区别产生了更多的争议而不是启示；参见，例如，Hershenov 2009；Olson 2007: ch. 3；Zimmerman 2002；以及对 Baker 2000 的《心灵哲学指南》在线研讨会的贡献。)
 
@@ -271,147 +270,147 @@ Shoemaker 的功能主义心灵理论在心灵哲学中受到了相当多的关�
 
 ## Bibliography
 
-* Árnadóttir, Steinvör Thöll, 2010, “Functionalism and Thinking Animals”, _Philosophical Studies_, 147(3): 347–354. doi:10.1007/s11098-008-9287-0
-* Atherton, Margaret, 1983, “Locke’s Theory of Personal Identity”, _Midwest Studies in Philosophy_, 8: 273–293. doi:10.1111/j.1475-4975.1983.tb00470.x
-* Ayers, Michael, 1991, _Locke_, 2 vols., London: Routledge.
-* Baker, Lynne Rudder, 1997, “Why Constitution Is Not Identity”, _The Journal of Philosophy_, 94(12): 599. doi:10.2307/2564596
-* –––, 1999, “What Am I?”, _Philosophy and Phenomenological Research_, 59(1): 151–159. doi:10.2307/2653462
-* –––, 2000, _Persons and Bodies: A Constitution View_, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173124
-* –––, 2002, “The Ontological Status of Persons”, _Philosophy and Phenomenological Research_, 65(2): 370–388. doi:10.1111/j.1933-1592.2002.tb00207.x
-* –––, 2007, _The Metaphysics of Everyday Life: An Essay in Practical Realism_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487545
+* Árnadóttir, Steinvör Thöll, 2010, “Functionalism and Thinking Animals”, *Philosophical Studies*, 147(3): 347–354. doi:10.1007/s11098-008-9287-0
+* Atherton, Margaret, 1983, “Locke’s Theory of Personal Identity”, *Midwest Studies in Philosophy*, 8: 273–293. doi:10.1111/j.1475-4975.1983.tb00470.x
+* Ayers, Michael, 1991, *Locke*, 2 vols., London: Routledge.
+* Baker, Lynne Rudder, 1997, “Why Constitution Is Not Identity”, *The Journal of Philosophy*, 94(12): 599. doi:10.2307/2564596
+* –––, 1999, “What Am I?”, *Philosophy and Phenomenological Research*, 59(1): 151–159. doi:10.2307/2653462
+* –––, 2000, *Persons and Bodies: A Constitution View*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139173124
+* –––, 2002, “The Ontological Status of Persons”, *Philosophy and Phenomenological Research*, 65(2): 370–388. doi:10.1111/j.1933-1592.2002.tb00207.x
+* –––, 2007, *The Metaphysics of Everyday Life: An Essay in Practical Realism*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487545
 * –––, 2016, “Animalism vs. Constitutionalism”, in Blatti and Snowdon (eds) 2016: 50–63. doi:10.1093/acprof:oso/9780199608751.003.0003
-* Bailey, Andrew M., 2016, “You Are an Animal”, _Res Philosophica_, 93(1): 205–218. doi:10.11612/resphil.2016.93.1.9
-* –––, 2017, “Our Animal Interests”, _Philosophical Studies_, 174(9): 2315–2328. doi:10.1007/s11098-016-0800-6
-* Belshaw, Christopher, 2011, “Animals, Identity and Persistence”, _Australasian Journal of Philosophy_, 89(3): 401–419. doi:10.1080/00048402.2010.497190
-* Blatti, Stephan, 2007, “Animalism, Dicephalus, and Borderline Cases”, _Philosophical Psychology_, 20(5): 595–608. doi:10.1080/09515080701540867
-* –––, 2012, “A New Argument for Animalism”, _Analysis_, 72(4): 685–690. doi:10.1093/analys/ans102
+* Bailey, Andrew M., 2016, “You Are an Animal”, *Res Philosophica*, 93(1): 205–218. doi:10.11612/resphil.2016.93.1.9
+* –––, 2017, “Our Animal Interests”, *Philosophical Studies*, 174(9): 2315–2328. doi:10.1007/s11098-016-0800-6
+* Belshaw, Christopher, 2011, “Animals, Identity and Persistence”, *Australasian Journal of Philosophy*, 89(3): 401–419. doi:10.1080/00048402.2010.497190
+* Blatti, Stephan, 2007, “Animalism, Dicephalus, and Borderline Cases”, *Philosophical Psychology*, 20(5): 595–608. doi:10.1080/09515080701540867
+* –––, 2012, “A New Argument for Animalism”, *Analysis*, 72(4): 685–690. doi:10.1093/analys/ans102
 * –––, 2016, “Headhunters”, in Blatti and Snowdon (eds.) 2016: 162–179. doi:10.1093/acprof:oso/9780199608751.003.0008
-* Blatti, Stephan and Paul F. Snowdon (eds.), 2016, _Animalism: New Essays on Persons, Animals, and Identity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608751.001.0001
-* Bolton, Martha Brand, 1994, “Locke on Identity: The Scheme of Simple and Compounded Things”, in _Individuation and Identity in Early Modern Philosophy: Descartes to Kant_, Kenneth F. Barber and Jorge J. E. Gracia (eds.), Albany, NY: State University of New York Press, 103–131.
-* Campbell, Scott, 2001, “Neo-Lockeanism and Circularity”, _Philosophia_, 28(1–4): 477–489. doi:10.1007/BF02379796
-* –––, 2006, “The Conception of a Person as a Series of Mental Events”, _Philosophy and Phenomenological Research_, 73(2): 339–358. doi:10.1111/j.1933-1592.2006.tb00621.x
+* Blatti, Stephan and Paul F. Snowdon (eds.), 2016, *Animalism: New Essays on Persons, Animals, and Identity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199608751.001.0001
+* Bolton, Martha Brand, 1994, “Locke on Identity: The Scheme of Simple and Compounded Things”, in *Individuation and Identity in Early Modern Philosophy: Descartes to Kant*, Kenneth F. Barber and Jorge J. E. Gracia (eds.), Albany, NY: State University of New York Press, 103–131.
+* Campbell, Scott, 2001, “Neo-Lockeanism and Circularity”, *Philosophia*, 28(1–4): 477–489. doi:10.1007/BF02379796
+* –––, 2006, “The Conception of a Person as a Series of Mental Events”, *Philosophy and Phenomenological Research*, 73(2): 339–358. doi:10.1111/j.1933-1592.2006.tb00621.x
 * Campbell, Tim and Jeff McMahan, 2016, “Animalism and the Varieties of Conjoined Twinning”, in Blatti and Snowdon (eds.) 2016: 229–252. doi:10.1093/acprof:oso/9780199608751.003.0011
-* Carruthers, Peter, 1986, _Introducing Persons: Theories and Arguments in the Philosophy of Mind_, London: Routledge.
-* Carter, William R, 1984, “Death and Bodily Transfiguration”, _Mind_, 93(371): 412–418. doi:10.1093/mind/XCIII.371.412
-* –––, 1988, “Our Bodies, Our Selves”, _Australasian Journal of Philosophy_, 66(3): 308–319. doi:10.1080/00048408812343391
-* –––, 1989, “How to Change Your Mind”, _Canadian Journal of Philosophy_, 19(1): 1–14. doi:10.1080/00455091.1989.10716464
-* –––, 1990, “Why Personal Identity Is Animal Identity”, _Logos (University of Santa Clara)_, 11: 71–81.
-* –––, 1999, “Will I Be a Dead Person?”, _Philosophy and Phenomenological Research_, 59(1): 167–171. doi:10.2307/2653464
-* Chappell, Vere, 1989, “Locke and Relative Identity”, _History of Philosophy Quarterly_, 6(1): 69–83.
-* Chisholm, Roderick M., 1976, _Person and Object: A Metaphysical Study_, La Salle, IL: Open Court.
-* –––, 1978 \[1989], “Is There a Mind-Body Problem?”, _Philosophic Exchange_, 9(1): 25–34. Reprinted 1989, in _On Metaphysics_, Minneapolis, MN: University of Minnesota Press, 119–128. \[[Chisholm 1978 available online](http://hdl.handle.net/20.500.12648/3333)]
-* Daly, Chris and David Liggins, 2013, “Animalism and Deferentialism: Animalism and Deferentialism”, _Dialectica_, 67(4): 605–609. doi:10.1111/1746-8361.12047
-* DeGrazia, David, 2005, _Human Identity and Bioethics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511614484
-* Descartes, René, 1984, _The Philosophical Writings of Descartes_, John Cottingham, Robert Stoothoff, and Dugald Murdoch (trans./eds.). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511818998
-* Feldman, Fred, 1992, _Confrontations with the Reaper: A Philosophical Study of the Nature and Value of Death_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195089288.001.0001
-* Foster, John, 1991, _The Immaterial Self: A Defence of the Cartesian Dualist Conception of the Mind_, London: Routledge.
-* Gendler, Tamar Szabó, 2002, “Personal Identity and Thought-Experiments”, _The Philosophical Quarterly_, 52(206): 34–54. doi:10.1111/1467-9213.00251
-* Gillett, Carl, 2013, “What You Are and the Evolution of Organs, Souls and Superorganisms: A Reply to Blatti”, _Analysis_, 73(2): 271–279. doi:10.1093/analys/ant005
-* Hacker, P. M. S., 2007, _Human Nature: The Categorial Framework_, Oxford: Blackwell Publishing. doi:10.1002/9780470692165
-* Hershenov, David B., 2005a, “Do Dead Bodies Pose a Problem for Biological Approaches to Personal Identity?”, _Mind_, 114(453): 31–59. doi:10.1093/mind/fzi031
-* –––, 2005b, “Persons as Proper Parts of Organisms”, _Theoria_, 71(1): 29–37. doi:10.1111/j.1755-2567.2005.tb01003.x
-* –––, 2006, “Shoemaker’s Problem of Too Many Thinkers”, _Proceedings of the American Catholic Philosophical Association_, 80: 225–236. doi:10.5840/acpaproc20068017
-* –––, 2008, “A Hylomorphic Account of Thought Experiments Concerning Personal Identity”:, _American Catholic Philosophical Quarterly_, 82(3): 481–502. doi:10.5840/acpq200882332
-* –––, 2009, “Problems with a Constitution Account of Persons”, _Dialogue_, 48(2): 291–312. doi:10.1017/S001221730909026X
-* –––, 2012, “Personal Identity”, in _Continuum Companion to Metaphysics_, Neil A. Manson and Robert W. Barnard (eds.), London: Continuum Publishing, pp. 198–222.
+* Carruthers, Peter, 1986, *Introducing Persons: Theories and Arguments in the Philosophy of Mind*, London: Routledge.
+* Carter, William R, 1984, “Death and Bodily Transfiguration”, *Mind*, 93(371): 412–418. doi:10.1093/mind/XCIII.371.412
+* –––, 1988, “Our Bodies, Our Selves”, *Australasian Journal of Philosophy*, 66(3): 308–319. doi:10.1080/00048408812343391
+* –––, 1989, “How to Change Your Mind”, *Canadian Journal of Philosophy*, 19(1): 1–14. doi:10.1080/00455091.1989.10716464
+* –––, 1990, “Why Personal Identity Is Animal Identity”, *Logos (University of Santa Clara)*, 11: 71–81.
+* –––, 1999, “Will I Be a Dead Person?”, *Philosophy and Phenomenological Research*, 59(1): 167–171. doi:10.2307/2653464
+* Chappell, Vere, 1989, “Locke and Relative Identity”, *History of Philosophy Quarterly*, 6(1): 69–83.
+* Chisholm, Roderick M., 1976, *Person and Object: A Metaphysical Study*, La Salle, IL: Open Court.
+* –––, 1978 \[1989], “Is There a Mind-Body Problem?”, *Philosophic Exchange*, 9(1): 25–34. Reprinted 1989, in *On Metaphysics*, Minneapolis, MN: University of Minnesota Press, 119–128. \[[Chisholm 1978 available online](http://hdl.handle.net/20.500.12648/3333)]
+* Daly, Chris and David Liggins, 2013, “Animalism and Deferentialism: Animalism and Deferentialism”, *Dialectica*, 67(4): 605–609. doi:10.1111/1746-8361.12047
+* DeGrazia, David, 2005, *Human Identity and Bioethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511614484
+* Descartes, René, 1984, *The Philosophical Writings of Descartes*, John Cottingham, Robert Stoothoff, and Dugald Murdoch (trans./eds.). Cambridge: Cambridge University Press. doi:10.1017/CBO9780511818998
+* Feldman, Fred, 1992, *Confrontations with the Reaper: A Philosophical Study of the Nature and Value of Death*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195089288.001.0001
+* Foster, John, 1991, *The Immaterial Self: A Defence of the Cartesian Dualist Conception of the Mind*, London: Routledge.
+* Gendler, Tamar Szabó, 2002, “Personal Identity and Thought-Experiments”, *The Philosophical Quarterly*, 52(206): 34–54. doi:10.1111/1467-9213.00251
+* Gillett, Carl, 2013, “What You Are and the Evolution of Organs, Souls and Superorganisms: A Reply to Blatti”, *Analysis*, 73(2): 271–279. doi:10.1093/analys/ant005
+* Hacker, P. M. S., 2007, *Human Nature: The Categorial Framework*, Oxford: Blackwell Publishing. doi:10.1002/9780470692165
+* Hershenov, David B., 2005a, “Do Dead Bodies Pose a Problem for Biological Approaches to Personal Identity?”, *Mind*, 114(453): 31–59. doi:10.1093/mind/fzi031
+* –––, 2005b, “Persons as Proper Parts of Organisms”, *Theoria*, 71(1): 29–37. doi:10.1111/j.1755-2567.2005.tb01003.x
+* –––, 2006, “Shoemaker’s Problem of Too Many Thinkers”, *Proceedings of the American Catholic Philosophical Association*, 80: 225–236. doi:10.5840/acpaproc20068017
+* –––, 2008, “A Hylomorphic Account of Thought Experiments Concerning Personal Identity”:, *American Catholic Philosophical Quarterly*, 82(3): 481–502. doi:10.5840/acpq200882332
+* –––, 2009, “Problems with a Constitution Account of Persons”, *Dialogue*, 48(2): 291–312. doi:10.1017/S001221730909026X
+* –––, 2012, “Personal Identity”, in *Continuum Companion to Metaphysics*, Neil A. Manson and Robert W. Barnard (eds.), London: Continuum Publishing, pp. 198–222.
 * –––, 2016, “Four-Dimensional Animalism”, in Blatti and Snowdon (eds.) 2016: 208–226. doi:10.1093/acprof:oso/9780199608751.003.0010
-* Hume, David, 1738, _A Treatise of Human Nature_, L. A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1978.
-* Hudson, Hud, 2001, _A Materialist Metaphysics of the Human Person_, Ithaca, NY: Cornell University Press.
-* –––, 2007, “I Am Not an Animal!” in _Persons: Human and Divine_, Peter van Inwagen and Dean Zimmerman (eds.), Oxford: Oxford University Press, pp. 216–234.
-* Johansson, Jens, 2007, “What Is Animalism?”, _Ratio_, 20(2): 194–205. doi:10.1111/j.1467-9329.2007.00357.x
+* Hume, David, 1738, *A Treatise of Human Nature*, L. A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1978.
+* Hudson, Hud, 2001, *A Materialist Metaphysics of the Human Person*, Ithaca, NY: Cornell University Press.
+* –––, 2007, “I Am Not an Animal!” in *Persons: Human and Divine*, Peter van Inwagen and Dean Zimmerman (eds.), Oxford: Oxford University Press, pp. 216–234.
+* Johansson, Jens, 2007, “What Is Animalism?”, *Ratio*, 20(2): 194–205. doi:10.1111/j.1467-9329.2007.00357.x
 * –––, 2016, “Animal Ethics”, in Blatti and Snowdon (eds.) 2016: 283–302. doi:10.1093/acprof:oso/9780199608751.003.0014
-* Johnston, Mark, 1987, “Human Beings”, _The Journal of Philosophy_, 84(2): 59–83. doi:10.2307/2026626
-* –––, 1992, “Constitution Is Not Identity”, _Mind_, 101(401): 89–106. doi:10.1093/mind/101.401.89
-* –––, 2007, “‘Human Beings’ Revisited: My Body is Not an Animal”, in _Oxford Studies in Metaphysics_, volume 3, Dean W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 33–74.
-* –––, 2010, _Surviving Death_, Princeton, NJ: Princeton University Press.
+* Johnston, Mark, 1987, “Human Beings”, *The Journal of Philosophy*, 84(2): 59–83. doi:10.2307/2026626
+* –––, 1992, “Constitution Is Not Identity”, *Mind*, 101(401): 89–106. doi:10.1093/mind/101.401.89
+* –––, 2007, “‘Human Beings’ Revisited: My Body is Not an Animal”, in *Oxford Studies in Metaphysics*, volume 3, Dean W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 33–74.
+* –––, 2010, *Surviving Death*, Princeton, NJ: Princeton University Press.
 * –––, 2016, “Remnant Persons”, in Blatti and Snowdon (eds.) 2016: 89–127. doi:10.1093/acprof:oso/9780199608751.003.0005
-* Lewis, D. K., 1976 \[1983], “Survival and Identity”, in _The Identities of Persons_, A. O. Rorty (ed.), Berkeley: University of California Press, pp. 17–40; reprinted in _Philosophical Papers_, Volume 1, Oxford: Oxford University Press, 1983, pp. 55–77.
-* Liao, S. Matthew, 2006, “The Organism View Defended”:, _Monist_, 89(3): 334–350. doi:10.5840/monist200689315
-* Locke, John, 1689 \[1975], _An Essay Concerning Human Understanding_, Peter H. Nidditch (ed.), Oxford: Clarendon Press.
-* Lowe, E. J., 1996, _Subjects of Experience_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511598005
-* –––, 2001, “Identity, Constitution, and the Simplicity of the Self”, in _Soul, Body, and Survival: Essays on the Metaphysics of Human Persons_, Kevin Corcoran (ed.), Ithaca, NY: Cornell University Press, pp. 139–158.
-* Luper, Steven, 2014, “Persimals”, _Southern Journal of Philosophy_, 52 (Spindel Supplement): 140–162. doi:10.1111/sjp.12062
-* Mackie, David, 1999a, “Animalism versus Lockeanism: No Contest”, _The Philosophical Quarterly_, 49(196): 369–376. doi:10.1111/1467-9213.00148
-* –––, 1999b, “Personal Identity and Dead People”, _Philosophical Studies_, 95(3): 219–242. doi:10.1023/A:1004239225105
-* Mackie, J. L., 1976, _Problems from Locke_, Oxford: Clarendon Press. doi:10.1093/0198750366.001.0001
+* Lewis, D. K., 1976 \[1983], “Survival and Identity”, in *The Identities of Persons*, A. O. Rorty (ed.), Berkeley: University of California Press, pp. 17–40; reprinted in *Philosophical Papers*, Volume 1, Oxford: Oxford University Press, 1983, pp. 55–77.
+* Liao, S. Matthew, 2006, “The Organism View Defended”:, *Monist*, 89(3): 334–350. doi:10.5840/monist200689315
+* Locke, John, 1689 \[1975], *An Essay Concerning Human Understanding*, Peter H. Nidditch (ed.), Oxford: Clarendon Press.
+* Lowe, E. J., 1996, *Subjects of Experience*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511598005
+* –––, 2001, “Identity, Constitution, and the Simplicity of the Self”, in *Soul, Body, and Survival: Essays on the Metaphysics of Human Persons*, Kevin Corcoran (ed.), Ithaca, NY: Cornell University Press, pp. 139–158.
+* Luper, Steven, 2014, “Persimals”, *Southern Journal of Philosophy*, 52 (Spindel Supplement): 140–162. doi:10.1111/sjp.12062
+* Mackie, David, 1999a, “Animalism versus Lockeanism: No Contest”, *The Philosophical Quarterly*, 49(196): 369–376. doi:10.1111/1467-9213.00148
+* –––, 1999b, “Personal Identity and Dead People”, *Philosophical Studies*, 95(3): 219–242. doi:10.1023/A:1004239225105
+* Mackie, J. L., 1976, *Problems from Locke*, Oxford: Clarendon Press. doi:10.1093/0198750366.001.0001
 * Madden, Rory, 2016a, “Thinking Parts”, in Blatti and Snowdon (eds.) 2016: 180–207. doi:10.1093/acprof:oso/9780199608751.003.0009
-* –––, 2016b, “Human Persistence”, _Philosophers’ Imprint_, 16(17): 1–18. \[[Madden 2016b available online](http://hdl.handle.net/2027/spo.3521354.0016.017)]
-* Martin, Raymond and John Barresi (eds), 2003, _Personal Identity_, Oxford: Blackwell.
-* –––, 2006, _The Rise and Fall of Soul and Self: An Intellectual History of Personal Identity_, New York: Columbia University Press.
-* McDowell, John, 1997, “Reductionism and the First Person”, in _Reading Parfit_, Jonathan Dancy (ed.), Oxford: Blackwell, pp. 230–250.
-* McMahan, Jeff, 2002, _The Ethics of Killing: Problems at the Margins of Life_, Oxford: Oxford University Press. doi:10.1093/0195079981.001.0001
-* Merricks, Trenton, 2001, _Objects and Persons_, Oxford: Oxford University Press. doi:10.1093/0199245363.001.0001
-* Miller, Kenneth, 1996, “Together Forever”, _Life_, April: 44–56. \[[Miller 1996 available online](http://www.kennethmiller.net/wp-content/uploads/2011/03/Together-Forever.pdf)]
-* Nichols, Shaun and Michael Bruno, 2010, “Intuitions about Personal Identity: An Empirical Study”, _Philosophical Psychology_, 23(3): 293–312. doi:10.1080/09515089.2010.490939
-* Noonan, Harold W., 1998, “Animalism Versus Lockeanism: A Current Controversy”, _The Philosophical Quarterly_, 48(192): 302–318. doi:10.1111/1467-9213.00102
-* –––, 2001, “Animalism versus Lockeanism: Reply to Mackie”, _The Philosophical Quarterly_, 51(202): 83–90. doi:10.1111/j.0031-8094.2001.00216.x
-* –––, 2012, “Personal Pronoun Revisionism—Asking the Right Question”, _Analysis_, 72(2): 316–318. doi:10.1093/analys/ans037
-* –––, 1989 \[2019], _Personal Identity_, London: Routledge, 3rd edition.
-* Olson, Eric T., 1997, _The Human Animal: Personal Identity Without Psychology_, New York: Oxford University Press. doi:10.1093/0195134230.001.0001
-* –––, 2002a, “Thinking Animals and the Reference of ‘I’”, _Philosophical Topics_, 30(1): 189–207. doi:10.5840/philtopics20023016
-* –––, 2002b, “What Does Functionalism Tell Us about Personal Identity?”, _Noûs_, 36(4): 682–698. doi:10.1111/1468-0068.00407
+* –––, 2016b, “Human Persistence”, *Philosophers’ Imprint*, 16(17): 1–18. \[[Madden 2016b available online](http://hdl.handle.net/2027/spo.3521354.0016.017)]
+* Martin, Raymond and John Barresi (eds), 2003, *Personal Identity*, Oxford: Blackwell.
+* –––, 2006, *The Rise and Fall of Soul and Self: An Intellectual History of Personal Identity*, New York: Columbia University Press.
+* McDowell, John, 1997, “Reductionism and the First Person”, in *Reading Parfit*, Jonathan Dancy (ed.), Oxford: Blackwell, pp. 230–250.
+* McMahan, Jeff, 2002, *The Ethics of Killing: Problems at the Margins of Life*, Oxford: Oxford University Press. doi:10.1093/0195079981.001.0001
+* Merricks, Trenton, 2001, *Objects and Persons*, Oxford: Oxford University Press. doi:10.1093/0199245363.001.0001
+* Miller, Kenneth, 1996, “Together Forever”, *Life*, April: 44–56. \[[Miller 1996 available online](http://www.kennethmiller.net/wp-content/uploads/2011/03/Together-Forever.pdf)]
+* Nichols, Shaun and Michael Bruno, 2010, “Intuitions about Personal Identity: An Empirical Study”, *Philosophical Psychology*, 23(3): 293–312. doi:10.1080/09515089.2010.490939
+* Noonan, Harold W., 1998, “Animalism Versus Lockeanism: A Current Controversy”, *The Philosophical Quarterly*, 48(192): 302–318. doi:10.1111/1467-9213.00102
+* –––, 2001, “Animalism versus Lockeanism: Reply to Mackie”, *The Philosophical Quarterly*, 51(202): 83–90. doi:10.1111/j.0031-8094.2001.00216.x
+* –––, 2012, “Personal Pronoun Revisionism—Asking the Right Question”, *Analysis*, 72(2): 316–318. doi:10.1093/analys/ans037
+* –––, 1989 \[2019], *Personal Identity*, London: Routledge, 3rd edition.
+* Olson, Eric T., 1997, *The Human Animal: Personal Identity Without Psychology*, New York: Oxford University Press. doi:10.1093/0195134230.001.0001
+* –––, 2002a, “Thinking Animals and the Reference of ‘I’”, *Philosophical Topics*, 30(1): 189–207. doi:10.5840/philtopics20023016
+* –––, 2002b, “What Does Functionalism Tell Us about Personal Identity?”, *Noûs*, 36(4): 682–698. doi:10.1111/1468-0068.00407
 * –––, 2003, “An Argument for Animalism”, in Martin and Barresi (eds.) 2003: 318–334.
-* –––, 2004, “Animalism and the Corpse Problem”, _Australasian Journal of Philosophy_, 82(2): 265–274. doi:10.1080/713659837
-* –––, 2007, _What Are We? A Study in Personal Ontology_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195176421.001.0001
-* –––, 2008, “Replies”, _Abstracta_, 1 (special issue): 32–42. (See [Other Internet Resources](https://plato.stanford.edu/entries/animalism/#Oth).)
-* –––, 2014, “The Metaphysical Implications of Conjoined Twinning”, _Southern Journal of Philosophy_, 52 (Spindel Supplement): 24–40. doi:10.1111/sjp.12073
-* –––, 2015, “On Parfit’s View that We Are Not Human Beings”, _Royal Institute of Philosophy Supplement_, 76: 39–56. doi:10.1017/S1358246115000107
-* Parfit, Derek, 1971, “Personal Identity”, _Philosophical Review_, 80(1): 3–27.
-* –––, 1984, _Reasons and Persons_, Oxford: Oxford University Press. doi:10.1093/019824908X.001.0001
-* –––, 1995 \[2003], “The Unimportance of Identity”, in _Identity_, Henry Harris (ed.), Oxford: Oxford University Press, pp. 13–45; reprinted in Martin and Barresi (eds.) 2003: 292–317.
-* –––, 2007, “Persons, Bodies, and Human Beings”, in _Contemporary Debates in Metaphysics_, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), Oxford: Blackwell, pp. 177–208.
-* –––, 2012, “We Are Not Human Beings”, _Philosophy_, 87(1): 5–28. in Blatti and Snowdon (eds.) 2016: 31–49. doi:10.1017/S0031819111000520 doi:10.1093/acprof:oso/9780199608751.003.0002
-* Persson, Ingmar, 1999, “Our Identity and the Separability of Persons and Organisms”, _Dialogue_, 38(3): 519–534. doi:10.1017/S0012217300046874
-* Puccetti, Roland, 1973, “Brain Bisection and Personal Identity”, _The British Journal for the Philosophy of Science_, 24(4): 339–355. doi:10.1093/bjps/24.4.339
+* –––, 2004, “Animalism and the Corpse Problem”, *Australasian Journal of Philosophy*, 82(2): 265–274. doi:10.1080/713659837
+* –––, 2007, *What Are We? A Study in Personal Ontology*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195176421.001.0001
+* –––, 2008, “Replies”, *Abstracta*, 1 (special issue): 32–42. (See [Other Internet Resources](https://plato.stanford.edu/entries/animalism/#Oth).)
+* –––, 2014, “The Metaphysical Implications of Conjoined Twinning”, *Southern Journal of Philosophy*, 52 (Spindel Supplement): 24–40. doi:10.1111/sjp.12073
+* –––, 2015, “On Parfit’s View that We Are Not Human Beings”, *Royal Institute of Philosophy Supplement*, 76: 39–56. doi:10.1017/S1358246115000107
+* Parfit, Derek, 1971, “Personal Identity”, *Philosophical Review*, 80(1): 3–27.
+* –––, 1984, *Reasons and Persons*, Oxford: Oxford University Press. doi:10.1093/019824908X.001.0001
+* –––, 1995 \[2003], “The Unimportance of Identity”, in *Identity*, Henry Harris (ed.), Oxford: Oxford University Press, pp. 13–45; reprinted in Martin and Barresi (eds.) 2003: 292–317.
+* –––, 2007, “Persons, Bodies, and Human Beings”, in *Contemporary Debates in Metaphysics*, Theodore Sider, John Hawthorne, and Dean W. Zimmerman (eds.), Oxford: Blackwell, pp. 177–208.
+* –––, 2012, “We Are Not Human Beings”, *Philosophy*, 87(1): 5–28. in Blatti and Snowdon (eds.) 2016: 31–49. doi:10.1017/S0031819111000520 doi:10.1093/acprof:oso/9780199608751.003.0002
+* Persson, Ingmar, 1999, “Our Identity and the Separability of Persons and Organisms”, *Dialogue*, 38(3): 519–534. doi:10.1017/S0012217300046874
+* Puccetti, Roland, 1973, “Brain Bisection and Personal Identity”, *The British Journal for the Philosophy of Science*, 24(4): 339–355. doi:10.1093/bjps/24.4.339
 * Reid, Mark D., 2016, “A Case in Which Two Persons Exist in One Animal”, in Blatti and Snowdon (eds.) 2016: 253–265. doi:10.1093/acprof:oso/9780199608751.003.0012
-* Robinson, Denis, 2007, “Human Beings, Human Animals, and Mentalistic Survival”, in _Oxford Studies in Metaphysics_, vol. 3, Dean W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 3–32.
+* Robinson, Denis, 2007, “Human Beings, Human Animals, and Mentalistic Survival”, in *Oxford Studies in Metaphysics*, vol. 3, Dean W. Zimmerman (ed.), Oxford: Oxford University Press, pp. 3–32.
 * –––, 2016, “Constitution and the Debate between Animalism and Psychological Views”, in Blatti and Snowdon (eds.) 2016: 64–88. doi:10.1093/acprof:oso/9780199608751.003.0004
-* Rovane, Carol, 1998, _The Bounds of Agency: An Essay in Revisionary Metaphysics_, Princeton, NJ: Princeton University Press.
-* Sauchelli, Andrea, 2017a, _Personal Identity and Applied Ethics: A Historical and Philosophical Introduction_, London: Routledge. doi:10.4324/9781315644288
-* –––, 2017b, “The Animal, the Corpse, and the Remnant-Person”, _Philosophical Studies_, 174(1): 205–218. doi:10.1007/s11098-016-0677-4
-* –––, forthcoming, “Animalism, Abortion, and a Future Like Ours”, _The Journal of Ethics_, first online: 29 June 2019. doi:10.1007/s10892-019-09298-y
-* Shoemaker, David, 2009, _Personal Identity and Ethics_, London: Broadview Press.
-* –––, 2013, “Personal Identity and Ethics”, _The Stanford Encyclopedia of Philosophy_ (Fall 2013 Edition), E. Zalta (ed.), URL = <[Personal Identity and Ethics (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/identity-ethics/)>.
+* Rovane, Carol, 1998, *The Bounds of Agency: An Essay in Revisionary Metaphysics*, Princeton, NJ: Princeton University Press.
+* Sauchelli, Andrea, 2017a, *Personal Identity and Applied Ethics: A Historical and Philosophical Introduction*, London: Routledge. doi:10.4324/9781315644288
+* –––, 2017b, “The Animal, the Corpse, and the Remnant-Person”, *Philosophical Studies*, 174(1): 205–218. doi:10.1007/s11098-016-0677-4
+* –––, forthcoming, “Animalism, Abortion, and a Future Like Ours”, *The Journal of Ethics*, first online: 29 June 2019. doi:10.1007/s10892-019-09298-y
+* Shoemaker, David, 2009, *Personal Identity and Ethics*, London: Broadview Press.
+* –––, 2013, “Personal Identity and Ethics”, *The Stanford Encyclopedia of Philosophy* (Fall 2013 Edition), E. Zalta (ed.), URL = <[Personal Identity and Ethics (Stanford Encyclopedia of Philosophy/Fall 2013 Edition)](https://plato.stanford.edu/archives/fall2013/entries/identity-ethics/)>.
 * –––, 2016, “The Stony Metaphysical Heart of Animalism”, in Blatti and Snowdon (eds.) 2016: 303–328. doi:10.1093/acprof:oso/9780199608751.003.0015
-* Shoemaker, Sydney, 1963, _Self-Knowledge and Self-Identity_, Ithaca, NY: Cornell University Press.
+* Shoemaker, Sydney, 1963, *Self-Knowledge and Self-Identity*, Ithaca, NY: Cornell University Press.
 * –––, 1984, “Personal Identity: A Materialist Account”, in Shoemaker and Swinburne 1984: 67–132.
-* –––, 1997, “Self and Substance”, in _Philosophical Perspectives, 11: Mind, Causation, and World_, Oxford: Blackwell, pp. 283–304.
-* –––, 1999, “Self, Body, and Coincidence”, _Aristotelian Society Supplementary Volume_, 73: 287–306. doi:10.1111/1467-8349.00059
+* –––, 1997, “Self and Substance”, in *Philosophical Perspectives, 11: Mind, Causation, and World*, Oxford: Blackwell, pp. 283–304.
+* –––, 1999, “Self, Body, and Coincidence”, *Aristotelian Society Supplementary Volume*, 73: 287–306. doi:10.1111/1467-8349.00059
 * –––, 2004, “Functionalism and Personal Identity—A Reply”, Noûs, 38(3): 525–533. doi:10.1111/j.0029-4624.2004.00481.x
-* –––, 2008, “Persons, Animals, and Identity”, _Synthese_, 162(3): 313–324. doi:10.1007/s11229-007-9253-y
-* –––, 2011, “On What We Are”, in _The Oxford Handbook to the Self_, Shaun Gallagher (ed.), Oxford: Oxford University Press, pp. 352–371. doi:10.1093/oxfordhb/9780199548019.003.0016
+* –––, 2008, “Persons, Animals, and Identity”, *Synthese*, 162(3): 313–324. doi:10.1007/s11229-007-9253-y
+* –––, 2011, “On What We Are”, in *The Oxford Handbook to the Self*, Shaun Gallagher (ed.), Oxford: Oxford University Press, pp. 352–371. doi:10.1093/oxfordhb/9780199548019.003.0016
 * –––, 2016, “Thinking Animals Without Animalism”, in Blatti and Snowdon (eds.) 2016: 128–142. doi:10.1093/acprof:oso/9780199608751.003.0006
-* Shoemaker, Sydney and Richard Swinburne, 1984, _Personal Identity_, (Great Debates in Philosophy), Oxford: Blackwell.
-* Snowdon, Paul F., 1990, “Persons, Animals, and Ourselves”, in _The Person and the Human Mind: Issues in Ancient and Modern Philosophy_, Christopher Gill (ed.), Oxford: Clarendon Press, pp. 83–107.
-* –––, 1991, “Personal Identity and Brain Transplants”, _Royal Institute of Philosophy Supplement_, David Cockburn (ed.), (proceedings of the conference on Human Beings, July 1990, Lampteter, Wales), 29: 109–126. doi:10.1017/S1358246100007499
-* –––, 1995, “Persons, Animals, and Bodies”, in _The Body and the Self_, José Luis Bermúdez, Anthony Marcel, and Naomi Eilan (eds.), Cambridge, MA: MIT Press, pp. 71–86.
-* –––, 1996, “Persons and Personal Identity”, in _Essays for David Wiggins: Identity, Truth and Value_, Sabrina Lovibond and Stephen G. Williams (eds.), Oxford: Basil Blackwell, pp. 33–48.
-* –––, 2003, “Objections to Animalism”, in _On Human Persons_, Klaus Petrus (ed.), Frankfurt: Ontos Verlag, pp. 47–66.
-* –––, 2014, _Persons, Animals, Ourselves_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719618.001.0001
+* Shoemaker, Sydney and Richard Swinburne, 1984, *Personal Identity*, (Great Debates in Philosophy), Oxford: Blackwell.
+* Snowdon, Paul F., 1990, “Persons, Animals, and Ourselves”, in *The Person and the Human Mind: Issues in Ancient and Modern Philosophy*, Christopher Gill (ed.), Oxford: Clarendon Press, pp. 83–107.
+* –––, 1991, “Personal Identity and Brain Transplants”, *Royal Institute of Philosophy Supplement*, David Cockburn (ed.), (proceedings of the conference on Human Beings, July 1990, Lampteter, Wales), 29: 109–126. doi:10.1017/S1358246100007499
+* –––, 1995, “Persons, Animals, and Bodies”, in *The Body and the Self*, José Luis Bermúdez, Anthony Marcel, and Naomi Eilan (eds.), Cambridge, MA: MIT Press, pp. 71–86.
+* –––, 1996, “Persons and Personal Identity”, in *Essays for David Wiggins: Identity, Truth and Value*, Sabrina Lovibond and Stephen G. Williams (eds.), Oxford: Basil Blackwell, pp. 33–48.
+* –––, 2003, “Objections to Animalism”, in *On Human Persons*, Klaus Petrus (ed.), Frankfurt: Ontos Verlag, pp. 47–66.
+* –––, 2014, *Persons, Animals, Ourselves*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198719618.001.0001
 * Swinburne, Richard, 1984, “Personal Identity: the Dualist Theory”, in Shoemaker and Swinburne 1984: 1–66.
-* Thiel, Udo, 1997, “‘Epistemologism’ and Early Modern Debates about Individuation and Identity”, _British Journal for the History of Philosophy_, 5(2): 353–372. doi:10.1080/09608789708570971
-* –––, 1998, “Personal Identity”, in _The Cambridge History of Seventeenth-Century Philosophy_, volume 1, Daniel Garber and Michael Ayers (eds.), Cambridge: Cambridge University Press, 868–912. doi:10.1017/CHOL9780521307635.028
-* –––, 2011, _The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume_, Oxford University Press. doi:10.1093/acprof:oso/9780199542499.001.0001
-* Thomson, Judith Jarvix, 1987, “Ruminations on an Account of Personal Identity”, in _On Being and Saying: Essays for Richard Cartwright_, Judith Jarvis Thomson (ed.), Cambridge, MA: MIT Press, pp. 215–240.
-* –––, 1997, “People and their Bodies”, in _Reading Parfit_, Jonathan Dancy (ed.), Oxford: Blackwell, pp. 202–229.
-* Toner, Patrick, 2011, “Hylemorphic Animalism”, _Philosophical Studies_, 155(1): 65–81. doi:10.1007/s11098-010-9522-3
-* Unger, Peter, 1979a, “Why There Are No People”, _Midwest Studies in Philosophy_, 4: 177–222. doi:10.1111/j.1475-4975.1979.tb00377.x
-* –––, 1979b, “I Do Not Exist”, in _Perception and Identity: Essays Presented to A. J. Ayer with His Replies to Them_, G. F. Macdonald (ed.), London: Macmillan, 235–251. doi:10.1007/978-1-349-04862-5\*10
-* –––, 1990, _Identity, Consciousness, and Value_, Oxford: Oxford University Press.
-* van Inwagen, Peter, 1990, _Material Beings_, Ithaca, NY: Cornell University Press.
-* –––, 1997, “Materialism and the Psychological-Continuity Account of Personal Identity”, in _Philosophical Perspectives, 11, Mind, Causation, and World_, Oxford: Blackwell, 305–319.
-* Wiggins, David, 1967, _Identity and Spatio-Temporal Continuity_, Oxford: Basil Blackwell.
-* –––, 1980, _Sameness and Substance_, Oxford: Basil Blackwell.
-* –––, 1987, “The Person as Object of Science, as Subject of Experience, and as Locus of Value”, in _Persons and Personality_, A. Peacocke and G. Gillett (eds.), Oxford: Blackwell, 56–74.
-* –––, 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511612756
-* Wilkes, Kathleen V., 1988, _Real People: Personal Identity without Thought Experiments_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198240808.001.0001
-* Williams, Bernard A. O., 1957, “Personal Identity and Individuation”, _Proceedings of the Aristotelian Society_, 57: 229–252. reprinted in _Problems of the Self_, Cambridge: Cambridge University Press, 1973, pp. 1–18. doi:10.1093/aristotelian/57.1.229
-* Winkler, Kenneth, 1991, “Locke on Personal Identity”, _Journal of the History of Philosophy_, 29(2): 201–226. doi:10.1353/hph.1991.0041
-* Wittgenstein, Ludwig, 1953, _Philosophical Investigations_, G. E. M. Anscombe (trans.), Oxford: Blackwell.
-* Wollheim, Richard, 1984, _The Thread of Life_, Cambridge: Cambridge University Press.
-* Yang, Eric, 2015, “Unrestricted Animalism and the Too Many Candidates Problem”, _Philosophical Studies_, 172(3): 635–652. doi:10.1007/s11098-014-0323-y
-* Zimmerman, Dean W., 2002, “The Constitution of Persons by Bodies: A Critique of Lynne Rudder Baker’s Theory of Material Constitution”, _Philosophical Topics_, 30(1): 295–338. doi:10.5840/philtopics200230111
-* –––, 2008, “Problems for Animalism”, _Abstracta_, 1 (special issue): 23–31. (See [Other Internet Resources](https://plato.stanford.edu/entries/animalism/#Oth).)
+* Thiel, Udo, 1997, “‘Epistemologism’ and Early Modern Debates about Individuation and Identity”, *British Journal for the History of Philosophy*, 5(2): 353–372. doi:10.1080/09608789708570971
+* –––, 1998, “Personal Identity”, in *The Cambridge History of Seventeenth-Century Philosophy*, volume 1, Daniel Garber and Michael Ayers (eds.), Cambridge: Cambridge University Press, 868–912. doi:10.1017/CHOL9780521307635.028
+* –––, 2011, *The Early Modern Subject: Self-Consciousness and Personal Identity from Descartes to Hume*, Oxford University Press. doi:10.1093/acprof:oso/9780199542499.001.0001
+* Thomson, Judith Jarvix, 1987, “Ruminations on an Account of Personal Identity”, in *On Being and Saying: Essays for Richard Cartwright*, Judith Jarvis Thomson (ed.), Cambridge, MA: MIT Press, pp. 215–240.
+* –––, 1997, “People and their Bodies”, in *Reading Parfit*, Jonathan Dancy (ed.), Oxford: Blackwell, pp. 202–229.
+* Toner, Patrick, 2011, “Hylemorphic Animalism”, *Philosophical Studies*, 155(1): 65–81. doi:10.1007/s11098-010-9522-3
+* Unger, Peter, 1979a, “Why There Are No People”, *Midwest Studies in Philosophy*, 4: 177–222. doi:10.1111/j.1475-4975.1979.tb00377.x
+* –––, 1979b, “I Do Not Exist”, in *Perception and Identity: Essays Presented to A. J. Ayer with His Replies to Them*, G. F. Macdonald (ed.), London: Macmillan, 235–251. doi:10.1007/978-1-349-04862-5\*10
+* –––, 1990, *Identity, Consciousness, and Value*, Oxford: Oxford University Press.
+* van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
+* –––, 1997, “Materialism and the Psychological-Continuity Account of Personal Identity”, in *Philosophical Perspectives, 11, Mind, Causation, and World*, Oxford: Blackwell, 305–319.
+* Wiggins, David, 1967, *Identity and Spatio-Temporal Continuity*, Oxford: Basil Blackwell.
+* –––, 1980, *Sameness and Substance*, Oxford: Basil Blackwell.
+* –––, 1987, “The Person as Object of Science, as Subject of Experience, and as Locus of Value”, in *Persons and Personality*, A. Peacocke and G. Gillett (eds.), Oxford: Blackwell, 56–74.
+* –––, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511612756
+* Wilkes, Kathleen V., 1988, *Real People: Personal Identity without Thought Experiments*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198240808.001.0001
+* Williams, Bernard A. O., 1957, “Personal Identity and Individuation”, *Proceedings of the Aristotelian Society*, 57: 229–252. reprinted in *Problems of the Self*, Cambridge: Cambridge University Press, 1973, pp. 1–18. doi:10.1093/aristotelian/57.1.229
+* Winkler, Kenneth, 1991, “Locke on Personal Identity”, *Journal of the History of Philosophy*, 29(2): 201–226. doi:10.1353/hph.1991.0041
+* Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, G. E. M. Anscombe (trans.), Oxford: Blackwell.
+* Wollheim, Richard, 1984, *The Thread of Life*, Cambridge: Cambridge University Press.
+* Yang, Eric, 2015, “Unrestricted Animalism and the Too Many Candidates Problem”, *Philosophical Studies*, 172(3): 635–652. doi:10.1007/s11098-014-0323-y
+* Zimmerman, Dean W., 2002, “The Constitution of Persons by Bodies: A Critique of Lynne Rudder Baker’s Theory of Material Constitution”, *Philosophical Topics*, 30(1): 295–338. doi:10.5840/philtopics200230111
+* –––, 2008, “Problems for Animalism”, *Abstracta*, 1 (special issue): 23–31. (See [Other Internet Resources](https://plato.stanford.edu/entries/animalism/#Oth).)
 
 ## Academic Tools
 
@@ -434,4 +433,4 @@ Shoemaker 的功能主义心灵理论在心灵哲学中受到了相当多的关�
 The author is grateful to Remy Debes, Eric Olson, Gideon Rosen, and Paul Snowdon for helpful feedback on various drafts of this entry.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Stephan Blatti](http://www.stephanblatti.org/) <[_blatti@umd.edu_](mailto:blatti%40umd%2eedu)>
+[Stephan Blatti](http://www.stephanblatti.org/) <[*blatti@umd.edu*](mailto:blatti%40umd%2eedu)>

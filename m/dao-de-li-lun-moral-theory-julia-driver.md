@@ -1,10 +1,9 @@
 # 道德理论 moral theory (Julia Driver)
 
-_首次发表于2022年6月27日星期一_
+*首次发表于2022年6月27日星期一*
 
 关于道德理论的确切构成有很多争议。其中一些争议集中在将道德与其他实践规范性领域（如伦理和美学）区分开来的问题上。另一些争议集中在道德理论的目标和功能上。在本条目中，这两个问题都将得到解释。然而，本条目是关于道德理论作为理论的，而不是关于具体理论的调查，尽管会使用具体理论作为例子。
 
- 
 ***
 
 ## 1. 道德
@@ -200,78 +199,78 @@ Malory 做对了吗？做了道德正确的事情吗？Malory 违背了一个承
 
 ## Bibliography
 
-* Alicke, Mark, David Rose and Dori Bloom, 2011, “Causation, Norm Violation, and Culpable Control,” _Journal of Philosophy_, 108(12): 670–696.
-* Annas, Julia, 2011, _Intelligent Virtue_, New York: Oxford University Press.
-* Arpaly, Nomy, 2002, _Unprincipled Virtue_, New York: Oxford University Press.
-* Baier, Annette, 1985, _Postures of the Mind_, Minneapolis, MN: University of Minnesota Press.
-* Baron, Marcia, 1991, “Impartiality and Friendship,” _Ethics_, 101(4): 836–857.
-* –––, 1995, _Kantian Ethics Almost Without Apology_, Ithaca, NY: Cornell University Press.
-* Clarke, Stanley G, 1987, “Anti-Theory in Ethics,” _American Philosophical Quarterly_, 24(3): 237–244.
-* D’Arms, Justin and Daniel Jacobson, 2000 , “The Moralistic Fallacy: On the ‘Appropriateness’ of Emotions,” _Philosophy and Phenomenological Research_, 61(1): 65–90.
-* Darwall, Stephen, 2006, _The Second-Person Standpoint_, Cambridge, MA: Harvard University Press.
-* Dreier, Jamie, 1993, “Structures of Normative Theories,” _The Monist_, 76(1): 22–40.
-* Driver, Julia, 2012, “What the Objective Standard is Good For,” in Mark Timmons (ed.), _Oxford Studies in Normative Ethics_, New York: Oxford University Press, 28–44.
-* Dworkin, Ronald, 1977, _Taking Rights Seriously_, Cambridge, MA: Harvard University Press.
-* Foot, Philippa, 1967, “Abortion and the Doctrine of Double Effect,” _Oxford Review_, 5: 5–15.
-* Graham, Peter, 2010, “In Defense of Objectivism About Moral Obligation,” _Ethics_, 121(1): 88–115.
-* Hare, R. M., 1965, _Freedom and Reason_, New York: Oxford University Press.
-* Herman, Barbara, 1985, “The Practice of Moral Judgment,” _Journal of Philosophy_, 82(8): 414–436.
-* Hill, jr., Thomas E., 1987, “The Importance of Autonomy,” in Eva Kittay and Diana Meyers (ed.) _Women and Moral Theory_, Totowa, NJ: Rowman & Allanheld, 129–138.
-* Hooker, Brad, 2000, _Ideal Code, Real World_, New York: Oxford University Press.
-* Hurka, Thomas, 2001, _Virtue, Vice, and Value_, New York: Oxford University Press.
-* Hursthouse, Rosalind, 1999, _On Virtue Ethics_, New York: Oxford University Press.
-* Jackson, Frank, 1991, “Decision-theoretic Consequentialism and the Nearest and Dearest Objection,” _Ethics_, 101(3): 461–482.
-* Jeske, Diane, 2008, _Rationality and Moral Theory: How Intimacy Generates Reasons_, New York: Routledge.
-* Joyce, Richard, 2001, _The Myth of Morality_, New York: Cambridge University Press.
-* Keas, Michael, 2018, “Systematizing the Theoretical Virtues,” _Synthese_, 195: 2761–2793.
-* Kagan, Shelley, 1989, _The Limits of Morality_, New York: Oxford University Press.
-* Kamm, Frances, 2007, _Intricate Ethics: Rights, Responsibilities, and Permissible Harm_, New York: Oxford University Press.
-* Kant, Immanuel, 1785 \[2012], _Groundwork of the Metaphysics of Morals_, tr. by Mary Gregor and Jens Timmerman, New York: Cambridge University Press, 2012.
-* Knobe, Joshua, 2003, “Intentional Action in Folk Psychology: An Experimental Investigation,” _Philosophical Psychology_, 16(2): 309–325.
-* Kripke, Saul, 1982, _Wittgenstein on Rules and Private Languages_, Cambridge, MA: Harvard University Press.
-* Louden, Robert, 1990, “Virtue Ethics and Anti-Theory,” _Philosophia_, 20(1–2): 93–114.
-* Markovits, Julia, 2014, _Moral Reason_, New York: Oxford University Press.
-* Mason, Elinor, 2003, “Consequentialism and the ‘Ought Implies Can’ Principle,” _American Philosophical Quarterly_, 40(4): 319–331.
-* –––, 2019, _Ways to Be Blameworthy: Rightness, Wrongness, and Responsibility_, New York: Oxford University Press.
-* McDowell, John, 1979, “Virtue and Reason,” _The Monist_, 62(3): 331–350.
-* Moody-Adams, Michelle, 2002, _Fieldwork in Familiar Places: Morality, Culture, and Philosophy_, Cambridge, MA: Harvard University Press.
-* Moore, G. E., 1903 \[1993], _Principia Ethica_, ed. Thomas Baldwin, New York: Cambridge University Press, 1993.
-* Nagel, Thomas, 1979, “The Fragmentation of Value,” in _Mortal Questions_, New York: Cambridge University Press, 128–141.
-* Nietzsche, Friedrich, 1887 \[1998], _On the Genealogy of Morality_, Maudemarie Clark and Alan J. Swensen (trans.), Indianapolis, IN: Hackett Publishing.
-* Norcross, Alastair, 2020, _Morality By Degrees_, New York: Oxford University Press.
-* Olson, Jonas, 2004, “Buck-Passing and the Wrong Kind of Reasons,” _Philosophical Quarterly_, 54(215): 295–300.
-* Parfit, Derek, 1984, _Reasons and Persons_, Oxford: Clarendon Press.
-* Pettit, Phillip, 1997, “The Consequentialist Perspective,” in _The Three Methods of Ethics_, by Marcia Baron, Phillip Pettit, and Michael Slote, Oxford: Blackwell, 92–174.
-* Pettit, Phillip, and Michael Smith, 2000, “Global Consequentialism,” in Brad Hooker, et al. (eds.), _Morality, Rules, and Consequences_, Edinburgh: University of Edinburgh Press, 121–133.
-* Phillips, David, 2019, _Rossian Ethics_, New York: Oxford University Press.
-* Piper, Adrian, 1987, “Moral Theory and Moral Alienation,” _Journal of Philosophy_, 82(2): 102–118.
-* Portmore, Douglas, 2011, _Commonsense Consequentialism_, New York: Oxford University Press.
-* Rabinowicz, Wlodek and Toni Ronnow-Rasmussen, 2004, “The Strike of the Demon: on Fitting Pro-Attitudes and Value,” _Ethics_, 114(3): 391–423.
-* Railton, Peter, 1984, “Alienation, Consequentialism, and the Demands of Morality,” _Philosophy and Public Affairs_, 13(2): 134–171.
-* Rawls, John, 1971, _A Theory of Justice_, Cambridge, MA: Belknap Press.
-* Scanlon, T. M., 1998, _What We Owe to Each Other_, Cambridge, MA: Belknap Press.
-* –––, 2008, _Moral Dimensions_, Cambridge, MA: Harvard University Press.
-* Scheffler, Samuel, 1982, _The Rejection of Consequentialism_, New York: Oxford University Press.
-* Schneewind, J. B., 1963, “First Principles and Common-sense Morality in Sidgwick’s Ethics,” _Archiv fur Geschichte der Philosophie_, 45(2): 137–156.
-* –––, 1990, “The Misfortunes of Virtue,” _Ethics_, 101(1): 42–63.
-* Schofield, Paul, 2021, _Duty to Self: Moral, Political, and Legal Self-Relation_, New York: Oxford University Press.
-* Sen, Amartya, 2000, “Consequential Evaluation and Practical Reason,” _The Journal of Philosophy_, 47(9): 477–502.
-* Sidgwick, Henry, 1874 \[1907], _The Methods of Ethics_, London: Macmillan. \[The seventh edition was published in 1907.]
-* Singer, Marcus, 1986, “Ethics and Common Sense,” _Revue Internationale de Philosophie_, 40(158): 221–258.
-* Slote, Michael, 1985, _Common-Sense Morality and Consequentialism_, New York: Routledge & Kegan Paul.
-* –––, 2007, _The Ethics of Care and Empathy_, New York: Routledge.
-* Smith, Holly, 2018, _Making Morality Work_, New York: Oxford University Press.
-* Smith, Michael, 2009, “Two Kinds of Consequentialism,” _Philosophical Issues_, 19(1): 257–272.
-* Stark, Cynthia, 1997, “Decision Procedures, Standards of Rightness and Impartiality,” _Noûs_, 31(4): 478–495.
-* Stocker, Michael, 1976, “The Schizophrenia of Modern Ethical Theories,” _Journal of Philosophy_, 73(14): 453–466.
-* Strawson, Peter, 1961, “Social Morality and Individual Ideal,” _Philosophy_, 36(136): 1–17.
-* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value,” _Philosophical Studies_, 127(1): 109–166.
-* Thomson, Judith Jarvis, 1976, “Killing, Letting Die, and the Trolley Problem,” _The Monist_, 59(2): 204–217.
-* Wiland, Eric J, “The Incoherence Objection in Moral Theory,” _Acta Analytica_, 25(3): 279–284.
-* Williams, Bernard, 1985, _Ethics and the Limits of Philosophy_, New York: Oxford University Press.
-* Wolf, Susan, 1982, “Moral Saints,” _Journal of Philosophy_, 79(8): 419–439.
-* –––, 2014, “Loving Attention: Lessons in Love from _The Philadelphia Story_,” in Susan Wolf and Christopher Grau (eds.), _Understanding Love: Philosophy, Film, and Fiction_, Oxford: Oxford University Press, pp. 369–386.
-* Zagzebski, Linda Trinkhaus, 2017, _Exemplarist Moral Theory_, New York: Oxford University Press.
+* Alicke, Mark, David Rose and Dori Bloom, 2011, “Causation, Norm Violation, and Culpable Control,” *Journal of Philosophy*, 108(12): 670–696.
+* Annas, Julia, 2011, *Intelligent Virtue*, New York: Oxford University Press.
+* Arpaly, Nomy, 2002, *Unprincipled Virtue*, New York: Oxford University Press.
+* Baier, Annette, 1985, *Postures of the Mind*, Minneapolis, MN: University of Minnesota Press.
+* Baron, Marcia, 1991, “Impartiality and Friendship,” *Ethics*, 101(4): 836–857.
+* –––, 1995, *Kantian Ethics Almost Without Apology*, Ithaca, NY: Cornell University Press.
+* Clarke, Stanley G, 1987, “Anti-Theory in Ethics,” *American Philosophical Quarterly*, 24(3): 237–244.
+* D’Arms, Justin and Daniel Jacobson, 2000 , “The Moralistic Fallacy: On the ‘Appropriateness’ of Emotions,” *Philosophy and Phenomenological Research*, 61(1): 65–90.
+* Darwall, Stephen, 2006, *The Second-Person Standpoint*, Cambridge, MA: Harvard University Press.
+* Dreier, Jamie, 1993, “Structures of Normative Theories,” *The Monist*, 76(1): 22–40.
+* Driver, Julia, 2012, “What the Objective Standard is Good For,” in Mark Timmons (ed.), *Oxford Studies in Normative Ethics*, New York: Oxford University Press, 28–44.
+* Dworkin, Ronald, 1977, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
+* Foot, Philippa, 1967, “Abortion and the Doctrine of Double Effect,” *Oxford Review*, 5: 5–15.
+* Graham, Peter, 2010, “In Defense of Objectivism About Moral Obligation,” *Ethics*, 121(1): 88–115.
+* Hare, R. M., 1965, *Freedom and Reason*, New York: Oxford University Press.
+* Herman, Barbara, 1985, “The Practice of Moral Judgment,” *Journal of Philosophy*, 82(8): 414–436.
+* Hill, jr., Thomas E., 1987, “The Importance of Autonomy,” in Eva Kittay and Diana Meyers (ed.) *Women and Moral Theory*, Totowa, NJ: Rowman & Allanheld, 129–138.
+* Hooker, Brad, 2000, *Ideal Code, Real World*, New York: Oxford University Press.
+* Hurka, Thomas, 2001, *Virtue, Vice, and Value*, New York: Oxford University Press.
+* Hursthouse, Rosalind, 1999, *On Virtue Ethics*, New York: Oxford University Press.
+* Jackson, Frank, 1991, “Decision-theoretic Consequentialism and the Nearest and Dearest Objection,” *Ethics*, 101(3): 461–482.
+* Jeske, Diane, 2008, *Rationality and Moral Theory: How Intimacy Generates Reasons*, New York: Routledge.
+* Joyce, Richard, 2001, *The Myth of Morality*, New York: Cambridge University Press.
+* Keas, Michael, 2018, “Systematizing the Theoretical Virtues,” *Synthese*, 195: 2761–2793.
+* Kagan, Shelley, 1989, *The Limits of Morality*, New York: Oxford University Press.
+* Kamm, Frances, 2007, *Intricate Ethics: Rights, Responsibilities, and Permissible Harm*, New York: Oxford University Press.
+* Kant, Immanuel, 1785 \[2012], *Groundwork of the Metaphysics of Morals*, tr. by Mary Gregor and Jens Timmerman, New York: Cambridge University Press, 2012.
+* Knobe, Joshua, 2003, “Intentional Action in Folk Psychology: An Experimental Investigation,” *Philosophical Psychology*, 16(2): 309–325.
+* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Languages*, Cambridge, MA: Harvard University Press.
+* Louden, Robert, 1990, “Virtue Ethics and Anti-Theory,” *Philosophia*, 20(1–2): 93–114.
+* Markovits, Julia, 2014, *Moral Reason*, New York: Oxford University Press.
+* Mason, Elinor, 2003, “Consequentialism and the ‘Ought Implies Can’ Principle,” *American Philosophical Quarterly*, 40(4): 319–331.
+* –––, 2019, *Ways to Be Blameworthy: Rightness, Wrongness, and Responsibility*, New York: Oxford University Press.
+* McDowell, John, 1979, “Virtue and Reason,” *The Monist*, 62(3): 331–350.
+* Moody-Adams, Michelle, 2002, *Fieldwork in Familiar Places: Morality, Culture, and Philosophy*, Cambridge, MA: Harvard University Press.
+* Moore, G. E., 1903 \[1993], *Principia Ethica*, ed. Thomas Baldwin, New York: Cambridge University Press, 1993.
+* Nagel, Thomas, 1979, “The Fragmentation of Value,” in *Mortal Questions*, New York: Cambridge University Press, 128–141.
+* Nietzsche, Friedrich, 1887 \[1998], *On the Genealogy of Morality*, Maudemarie Clark and Alan J. Swensen (trans.), Indianapolis, IN: Hackett Publishing.
+* Norcross, Alastair, 2020, *Morality By Degrees*, New York: Oxford University Press.
+* Olson, Jonas, 2004, “Buck-Passing and the Wrong Kind of Reasons,” *Philosophical Quarterly*, 54(215): 295–300.
+* Parfit, Derek, 1984, *Reasons and Persons*, Oxford: Clarendon Press.
+* Pettit, Phillip, 1997, “The Consequentialist Perspective,” in *The Three Methods of Ethics*, by Marcia Baron, Phillip Pettit, and Michael Slote, Oxford: Blackwell, 92–174.
+* Pettit, Phillip, and Michael Smith, 2000, “Global Consequentialism,” in Brad Hooker, et al. (eds.), *Morality, Rules, and Consequences*, Edinburgh: University of Edinburgh Press, 121–133.
+* Phillips, David, 2019, *Rossian Ethics*, New York: Oxford University Press.
+* Piper, Adrian, 1987, “Moral Theory and Moral Alienation,” *Journal of Philosophy*, 82(2): 102–118.
+* Portmore, Douglas, 2011, *Commonsense Consequentialism*, New York: Oxford University Press.
+* Rabinowicz, Wlodek and Toni Ronnow-Rasmussen, 2004, “The Strike of the Demon: on Fitting Pro-Attitudes and Value,” *Ethics*, 114(3): 391–423.
+* Railton, Peter, 1984, “Alienation, Consequentialism, and the Demands of Morality,” *Philosophy and Public Affairs*, 13(2): 134–171.
+* Rawls, John, 1971, *A Theory of Justice*, Cambridge, MA: Belknap Press.
+* Scanlon, T. M., 1998, *What We Owe to Each Other*, Cambridge, MA: Belknap Press.
+* –––, 2008, *Moral Dimensions*, Cambridge, MA: Harvard University Press.
+* Scheffler, Samuel, 1982, *The Rejection of Consequentialism*, New York: Oxford University Press.
+* Schneewind, J. B., 1963, “First Principles and Common-sense Morality in Sidgwick’s Ethics,” *Archiv fur Geschichte der Philosophie*, 45(2): 137–156.
+* –––, 1990, “The Misfortunes of Virtue,” *Ethics*, 101(1): 42–63.
+* Schofield, Paul, 2021, *Duty to Self: Moral, Political, and Legal Self-Relation*, New York: Oxford University Press.
+* Sen, Amartya, 2000, “Consequential Evaluation and Practical Reason,” *The Journal of Philosophy*, 47(9): 477–502.
+* Sidgwick, Henry, 1874 \[1907], *The Methods of Ethics*, London: Macmillan. \[The seventh edition was published in 1907.]
+* Singer, Marcus, 1986, “Ethics and Common Sense,” *Revue Internationale de Philosophie*, 40(158): 221–258.
+* Slote, Michael, 1985, *Common-Sense Morality and Consequentialism*, New York: Routledge & Kegan Paul.
+* –––, 2007, *The Ethics of Care and Empathy*, New York: Routledge.
+* Smith, Holly, 2018, *Making Morality Work*, New York: Oxford University Press.
+* Smith, Michael, 2009, “Two Kinds of Consequentialism,” *Philosophical Issues*, 19(1): 257–272.
+* Stark, Cynthia, 1997, “Decision Procedures, Standards of Rightness and Impartiality,” *Noûs*, 31(4): 478–495.
+* Stocker, Michael, 1976, “The Schizophrenia of Modern Ethical Theories,” *Journal of Philosophy*, 73(14): 453–466.
+* Strawson, Peter, 1961, “Social Morality and Individual Ideal,” *Philosophy*, 36(136): 1–17.
+* Street, Sharon, 2006, “A Darwinian Dilemma for Realist Theories of Value,” *Philosophical Studies*, 127(1): 109–166.
+* Thomson, Judith Jarvis, 1976, “Killing, Letting Die, and the Trolley Problem,” *The Monist*, 59(2): 204–217.
+* Wiland, Eric J, “The Incoherence Objection in Moral Theory,” *Acta Analytica*, 25(3): 279–284.
+* Williams, Bernard, 1985, *Ethics and the Limits of Philosophy*, New York: Oxford University Press.
+* Wolf, Susan, 1982, “Moral Saints,” *Journal of Philosophy*, 79(8): 419–439.
+* –––, 2014, “Loving Attention: Lessons in Love from *The Philadelphia Story*,” in Susan Wolf and Christopher Grau (eds.), *Understanding Love: Philosophy, Film, and Fiction*, Oxford: Oxford University Press, pp. 369–386.
+* Zagzebski, Linda Trinkhaus, 2017, *Exemplarist Moral Theory*, New York: Oxford University Press.
 
 ## Academic Tools
 
@@ -290,4 +289,4 @@ Malory 做对了吗？做了道德正确的事情吗？Malory 违背了一个承
 [consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: deontological](https://plato.stanford.edu/entries/ethics-deontological/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [morality, definition of](https://plato.stanford.edu/entries/morality-definition/) | [value theory](https://plato.stanford.edu/entries/value-theory/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-Julia Driver <[_julia.driver@austin.utexas.edu_](mailto:julia%2edriver%40austin%2eutexas%2eedu)>
+Julia Driver <[*julia.driver@austin.utexas.edu*](mailto:julia%2edriver%40austin%2eutexas%2eedu)>

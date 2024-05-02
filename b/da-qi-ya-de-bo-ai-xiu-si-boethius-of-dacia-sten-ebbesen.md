@@ -56,12 +56,14 @@
 16.  
 
      * 关于《第四篇气象学》的问题。由 Gianfranco Fioravanti 在 CPhD VIII, 1979 年出版。
+
 17. †《矿物学书》注释。可能是对阿维森纳的《治疗》中附加在亚里士多德的《气象学》阿拉伯-拉丁翻译中的《矿物学》的问题形式的评论。
 18. *§《灵魂书》问题。只保留了对第一卷和第二卷的问题的摘要版本。在唯一的手稿中是匿名的，一些学者对归属于波爱修斯的怀疑表示了疑虑；特别是请参阅 Calma 2011。由 Robert Wielockx 在 CPhD XIV, 2009 中编辑。
 19. §《感觉和感知书》、《睡眠和觉醒书》、《寿命的长短书》、《生死书》的问题。
 20.  
 
      * De somniis（“关于梦境”）。毫无疑问是基于关于 De somno et vigilia（项目 19）的失落问题。由 Niels Jørgen Green-Pedersen 在 CPhD VI.2, 1976 中编辑。翻译成丹麦语（Green-Pedersen 2001），英语（Wippel 1987），意大利语（Sannelli 1997）。
+
 21. † *Quaestiones super librum De animalibus*.
 22. § *Quaestiones super librum De plantis et vegetabilibus*.
 23. *§ 达西亚的波爱修斯（“On the Eternity of the World”）（“De aetern.”）。由 Niels Jørgen Green-Pedersen 在 CPhD VI.2, 1976 版。翻译成丹麦语（Green-Pedersen 2001），英语（Wippel 1987），德语（Nicki 2000），意大利语（Bianchi 2003），葡萄牙语（Santiago de Carvalho 1996）。

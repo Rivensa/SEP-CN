@@ -1,11 +1,10 @@
 # 宇宙论证明 cosmological argument (Bruce Reichenbach)
 
-_首次发布于2004年7月13日星期二；实质性修订于2022年6月30日星期四。_
+*首次发布于2004年7月13日星期二；实质性修订于2022年6月30日星期四。*
 
 宇宙论证不是一个特定的论证，而是一种论证类型。它使用一般的论证模式（逻各斯），从宇宙的特定所谓事实推断出一个独特的存在，通常被认为是上帝或被称为上帝。这些初始事实包括宇宙中特定的存在或事件在因果上依赖或是偶然的，宇宙（作为偶然事物的总体）是偶然的，因为它本可以是其他样子或根本不存在，大连续偶然事实可能有一个解释，或者宇宙是如何产生的。哲学家和神学家从这些事实中演绎、归纳或通过最佳解释的推理方式论证，得出第一原因、维持原因、不动之动、必然存在或个人存在（上帝）存在的结论，这些原因导致和/或维持着宇宙。宇宙论证是古典自然神学的一部分，其目标是为上帝存在的主张提供证据，尽管当代对它的处理通常发生在自然神学的考虑之外，但已经产生了自己的小产业。
 
 一方面，这个论点源于人类对为什么存在某种东西而不是不存在或存在其他东西的好奇心。它引发了对存在的偶然性的某种完整、完全、最终或最佳解释的关注。另一方面，它提出了关于偶然性和必然性、因果关系和解释、部分/整体关系（整体论）、可能世界、无限、集合、时间的本质，以及宇宙的本质和起源等根本重要的哲学问题。接下来，我们将首先简要概述这个论点的历史，注意两种基本类型的演绎宇宙论论证，然后仔细分析每种类型的例证：首先，三个基于偶然性的论证，一个基于相对强版本的充分理由原则，另外两个分别基于该原则的非常强版本和弱版本；其次，一个基于宇宙有一个开始以及无限时间因果回归的不可能性的论证。最后，我们将考虑宇宙论论证的归纳版本以及什么是必然存在的实体。
-
 
 ***
 
@@ -540,141 +539,141 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 
 ## Bibliography
 
-* al–Baghdadi, Abu Mansur, \[c.1000] 1981, _‘Usul al–din_, 3rd edition Beirut: Dar al-kutub al–‘ilmiyya.
-* Almeida, Michael, 2018, _Cosmological Arguments_, Cambridge: Cambridge University Press.
-* Almeida, Michael and Neil D. Judisch, 2002, “A New Cosmological Argument Undone”, _International Journal for Philosophy of Religion_, 51: 55–64.
-* Aquinas, Thomas, _Summa Contra Gentiles_, Bk. 1. Notre Dame: University of Notre Dame Press, 1975. \[[_Summa Contra Gentiles_ available online](http://dhspriory.org/thomas/ContraGentiles1.htm)]
-* –––, \[ST] _Summa Theologica_, I, q. 2. \[[_Summa Theologica_ available online](http://www.newadvent.org/summa/1002.htm#article3)]
-* Attfield, Robin, 1975, “The God of Religion and the God of Philosophy”, _Religious Studies_, 9(1): 1–9. doi:10.1017/S0034412500006259
-* Beck, W. David, 2002, “The Cosmological Argument: A Current Bibliographical Appraisal”, _Philosophia Christi_, 2(2): 283–304. \[[Beck 2002 available online](http://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1165\&context=sor\fac\pubs)]
-* Bonaventure, c. 1250, _Commentary on the Sentences: Philosophy of God. Works of St. Bonaventure_ XVI, R.E. Houser and Timothy B. Noone (eds), St. Bonaventure, NY: Franciscan Institute Press, 2014.
-* Bricmont, Jean, 2016, _Making Sense of Quantum Mechanics_, Cham: Springer Nature.
-* Brown, Patterson, 1966, “Infinite Causal Regression”, _Philosophical Review_, 75(4): 510–25. doi:10.2307/2183226
-* Burgess, John P., 1999, “Which Modal Logic Is the Right One?”, _Notre Dame Journal of Formal Logic_, 40(1): 81–93.
-* Cohen, Yishai, 2015, “Endless Future: A Persistent Thorn in the The Kalām Argument”, _Philosophical Papers_, 44(2): 154–187. doi.org/10.1080/05568641.2015.1056961.
-* Copan, Paul, 2017, 2019, _The Kalām Cosmological Argument_ (2 vols), New York: Bloomsbury.
-* Copan, Paul and William Lane Craig, 2004, _Creation out of Nothing_, Grand Rapids: Baker.
-* Craig, William Lane, 1979, _The Kalām Cosmological Argument_, London: Macmillan.
-* –––, 1980, _The Cosmological Argument from Plato to Leibniz_, London: Macmillan.
-* –––, 1992, “The Origin and Creation of the Universe: A Reply to Adolf Grünbaum”, _British Journal for the Philosophy of Science_, 43(2): 233–40. doi:10.1093/bjps/43.2.233.
-* –––, 1997, “In Defense of the _Kalām_ Cosmological Argument”, _Faith and Philosophy_, 14(2): 236–47. doi:10.5840/faithphil19971422 \[[Craig 1997 available online](http://www.reasonablefaith.org/in-defense-of-the-kalam-cosmological-argument)]
-* –––, 2002, “Must the Beginning of the Universe Have a Personal Cause?: A Rejoinder”, _Faith and Philosophy_, 19(1): 94–105. doi:10.5840/faithphil20021917
-* –––, 2010, “Taking Tense Time Seriously in Differentiating Past and Future: A Response to Wes Morriston”, _Faith and Philosophy_, 27(4): 451–56. doi:10.5840/faithphil201027445
-* –––, 2018, “The Kalām Cosmological Argument”, in Jerry Walls and Trent Dougherty (eds.), _Two Dozen (or so) Arguments for God_, New York: Oxford University Press.
-* Craig, William Lane and James P. Moreland, (eds.), 2009, _The Blackwell Companion to Natural Theology_, London: Blackwell,
-* Craig, William Lane and James D. Sinclair, 2009, “The _Kalām_ Cosmological Argument”, in Craig and Moreland 2009: 101–201. \[This contains an exhaustive bibliography on the _Kalām_ cosmological argument.] \[[Craig and Sinclair 2009 preprint available online](http://commonsenseatheism.com/wp-content/uploads/2009/05/craig-and-sinclair-the-kalam-cosmological-argument.pdf)]
-* Craig, William Lane and Quentin Smith, 1993, _Theism, Atheism, and Big Bang Cosmology_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198263838.001.0001
-* Davey, Kevin and Rob Clifton, 2001, “Insufficient Reason in the ‘New Cosmological Argument’”, _Religious Studies_, 37(4): 485–490. doi:10.1017/S0034412501005819
-* Davidson, Herbert A., 1969, “John Philoponus as a Source of Medieval Islamic and Jewish Proofs of Creation”, _Journal of the American Oriental Society_, 89(2) (April–June): 357–91. doi:10.2307/596519
-* Davies, Paul, 1984, _Superforce_, New York: Simon and Schuster.
-* –––, 1992, _The Mind of God_, New York: Simon and Schuster.
-* Davis, Stephen, 1997, _God, Reason & Theistic Proofs_, Grand Rapids: Eerdmans.
-* Dvali, George, 2004, “Out of the Darkness”, _Scientific American_, 290(2) (Feb.): 68–75.
-* Eells, Ellery, 1988, “Quentin Smith on Infinity and the Past”, _Philosophy of Science_, 55(3): 453–455. doi:10.1086/289451 \[[Eells 1988 preprint available online](http://commonsenseatheism.com/wp-content/uploads/2009/05/eells-quentin-smith-on-infinity-and-the-past.pdf)]
-* Fakry, Majid, 1957, “The Classical Islamic Arguments for the Existence of God”, _The Muslim World_, 47(2): 133–45. doi:10.1111/j.1478-1913.1957.tb02956.x \[[Fakry 1957 available online](http://www.muslimphilosophy.com/ip/pg1.htm)]
-* Flew, Anthony and Alasdair C. MacIntyre (eds.), 1955, _New Essays in Philosophical Theology_, London: SCM.
-* Gale, Richard M. (ed.), 1991, _On the Nature and Existence of God_, Cambridge: Cambridge University Press. 10.1017/CBO9781316499054
-* Gale, Richard M. and Alexander R. Pruss, 1999, “A New Cosmological Argument”, _Religious Studies_, 35(4): 461–476. Reprinted in Gale and Pruss 2003: 365–80. \[[Gale and Pruss 1999 available online](http://alexanderpruss.com/papers/NewCosmo.html)]
-* –––, 2002, “A Response to Oppy, and to Davey and Clifton”, _Religious Studies_, 38(1): 89–99. doi:10.1017/S0034412501005923
-* ––– (eds.), 2003, _The Existence of God_, Burlington, VT: Ashgate.
-* Gellman, Jerome, 2000, “Prospects for a sound stage 3 of cosmological arguments”, _Religious Studies_, 36(2): 195–2001. Reprinted in Gale and Pruss 2003: 381–87.
-* Glanz, James, 1998, “Cosmic Motion Revealed”, _Science_, 282(5397): 2156–2157. doi:10.1126/science.282.5397.2156a
-* Goldschmidt, Tyron (ed.), 2013, _The Puzzle of Existence: Why Is There Something Rather than Nothing?_ New York: Routledge.
-* Grünbaum, Adolf, 1991, “Creation as a Pseudo-Explanation in Current Physical Cosmology”, _Erkenntnis_, 35(1–3): 233–54. doi:10.1007/BF00388287 \[[Grünbaum 1991 available online](http://infidels.org/library/modern/adolf\grunbaum/explanation.html)]
-* –––, 1994, “Some Comments on William Craig’s ‘Creation and Big Bang Cosmology’”, _Philosophia Naturalis_, 31(2): 225–236. \[[Grünbaum 1994 available online](http://www.infidels.org/library/modern/adolf\grunbaum/comments.html)]
-* Harvey, Ramon, 2021, _Transcendent God, Rational World_, Edinburgh: University of Edinburgh.
-* Hawking, Stephen W., 1987, “Quantum Cosmology”, in Stephen W. Hawking and Werner Israel (eds.), _Three Hundred Years of Gravitation_, Cambridge: Cambridge University Press, pp. 631–51.
-* –––, 1988, _A Brief History of Time_, New York: Bantam.
+* al–Baghdadi, Abu Mansur, \[c.1000] 1981, *‘Usul al–din*, 3rd edition Beirut: Dar al-kutub al–‘ilmiyya.
+* Almeida, Michael, 2018, *Cosmological Arguments*, Cambridge: Cambridge University Press.
+* Almeida, Michael and Neil D. Judisch, 2002, “A New Cosmological Argument Undone”, *International Journal for Philosophy of Religion*, 51: 55–64.
+* Aquinas, Thomas, *Summa Contra Gentiles*, Bk. 1. Notre Dame: University of Notre Dame Press, 1975. \[[*Summa Contra Gentiles* available online](http://dhspriory.org/thomas/ContraGentiles1.htm)]
+* –––, \[ST] *Summa Theologica*, I, q. 2. \[[*Summa Theologica* available online](http://www.newadvent.org/summa/1002.htm#article3)]
+* Attfield, Robin, 1975, “The God of Religion and the God of Philosophy”, *Religious Studies*, 9(1): 1–9. doi:10.1017/S0034412500006259
+* Beck, W. David, 2002, “The Cosmological Argument: A Current Bibliographical Appraisal”, *Philosophia Christi*, 2(2): 283–304. \[[Beck 2002 available online](http://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1165\&context=sor\fac\pubs)]
+* Bonaventure, c. 1250, *Commentary on the Sentences: Philosophy of God. Works of St. Bonaventure* XVI, R.E. Houser and Timothy B. Noone (eds), St. Bonaventure, NY: Franciscan Institute Press, 2014.
+* Bricmont, Jean, 2016, *Making Sense of Quantum Mechanics*, Cham: Springer Nature.
+* Brown, Patterson, 1966, “Infinite Causal Regression”, *Philosophical Review*, 75(4): 510–25. doi:10.2307/2183226
+* Burgess, John P., 1999, “Which Modal Logic Is the Right One?”, *Notre Dame Journal of Formal Logic*, 40(1): 81–93.
+* Cohen, Yishai, 2015, “Endless Future: A Persistent Thorn in the The Kalām Argument”, *Philosophical Papers*, 44(2): 154–187. doi.org/10.1080/05568641.2015.1056961.
+* Copan, Paul, 2017, 2019, *The Kalām Cosmological Argument* (2 vols), New York: Bloomsbury.
+* Copan, Paul and William Lane Craig, 2004, *Creation out of Nothing*, Grand Rapids: Baker.
+* Craig, William Lane, 1979, *The Kalām Cosmological Argument*, London: Macmillan.
+* –––, 1980, *The Cosmological Argument from Plato to Leibniz*, London: Macmillan.
+* –––, 1992, “The Origin and Creation of the Universe: A Reply to Adolf Grünbaum”, *British Journal for the Philosophy of Science*, 43(2): 233–40. doi:10.1093/bjps/43.2.233.
+* –––, 1997, “In Defense of the *Kalām* Cosmological Argument”, *Faith and Philosophy*, 14(2): 236–47. doi:10.5840/faithphil19971422 \[[Craig 1997 available online](http://www.reasonablefaith.org/in-defense-of-the-kalam-cosmological-argument)]
+* –––, 2002, “Must the Beginning of the Universe Have a Personal Cause?: A Rejoinder”, *Faith and Philosophy*, 19(1): 94–105. doi:10.5840/faithphil20021917
+* –––, 2010, “Taking Tense Time Seriously in Differentiating Past and Future: A Response to Wes Morriston”, *Faith and Philosophy*, 27(4): 451–56. doi:10.5840/faithphil201027445
+* –––, 2018, “The Kalām Cosmological Argument”, in Jerry Walls and Trent Dougherty (eds.), *Two Dozen (or so) Arguments for God*, New York: Oxford University Press.
+* Craig, William Lane and James P. Moreland, (eds.), 2009, *The Blackwell Companion to Natural Theology*, London: Blackwell,
+* Craig, William Lane and James D. Sinclair, 2009, “The *Kalām* Cosmological Argument”, in Craig and Moreland 2009: 101–201. \[This contains an exhaustive bibliography on the *Kalām* cosmological argument.] \[[Craig and Sinclair 2009 preprint available online](http://commonsenseatheism.com/wp-content/uploads/2009/05/craig-and-sinclair-the-kalam-cosmological-argument.pdf)]
+* Craig, William Lane and Quentin Smith, 1993, *Theism, Atheism, and Big Bang Cosmology*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780198263838.001.0001
+* Davey, Kevin and Rob Clifton, 2001, “Insufficient Reason in the ‘New Cosmological Argument’”, *Religious Studies*, 37(4): 485–490. doi:10.1017/S0034412501005819
+* Davidson, Herbert A., 1969, “John Philoponus as a Source of Medieval Islamic and Jewish Proofs of Creation”, *Journal of the American Oriental Society*, 89(2) (April–June): 357–91. doi:10.2307/596519
+* Davies, Paul, 1984, *Superforce*, New York: Simon and Schuster.
+* –––, 1992, *The Mind of God*, New York: Simon and Schuster.
+* Davis, Stephen, 1997, *God, Reason & Theistic Proofs*, Grand Rapids: Eerdmans.
+* Dvali, George, 2004, “Out of the Darkness”, *Scientific American*, 290(2) (Feb.): 68–75.
+* Eells, Ellery, 1988, “Quentin Smith on Infinity and the Past”, *Philosophy of Science*, 55(3): 453–455. doi:10.1086/289451 \[[Eells 1988 preprint available online](http://commonsenseatheism.com/wp-content/uploads/2009/05/eells-quentin-smith-on-infinity-and-the-past.pdf)]
+* Fakry, Majid, 1957, “The Classical Islamic Arguments for the Existence of God”, *The Muslim World*, 47(2): 133–45. doi:10.1111/j.1478-1913.1957.tb02956.x \[[Fakry 1957 available online](http://www.muslimphilosophy.com/ip/pg1.htm)]
+* Flew, Anthony and Alasdair C. MacIntyre (eds.), 1955, *New Essays in Philosophical Theology*, London: SCM.
+* Gale, Richard M. (ed.), 1991, *On the Nature and Existence of God*, Cambridge: Cambridge University Press. 10.1017/CBO9781316499054
+* Gale, Richard M. and Alexander R. Pruss, 1999, “A New Cosmological Argument”, *Religious Studies*, 35(4): 461–476. Reprinted in Gale and Pruss 2003: 365–80. \[[Gale and Pruss 1999 available online](http://alexanderpruss.com/papers/NewCosmo.html)]
+* –––, 2002, “A Response to Oppy, and to Davey and Clifton”, *Religious Studies*, 38(1): 89–99. doi:10.1017/S0034412501005923
+* ––– (eds.), 2003, *The Existence of God*, Burlington, VT: Ashgate.
+* Gellman, Jerome, 2000, “Prospects for a sound stage 3 of cosmological arguments”, *Religious Studies*, 36(2): 195–2001. Reprinted in Gale and Pruss 2003: 381–87.
+* Glanz, James, 1998, “Cosmic Motion Revealed”, *Science*, 282(5397): 2156–2157. doi:10.1126/science.282.5397.2156a
+* Goldschmidt, Tyron (ed.), 2013, *The Puzzle of Existence: Why Is There Something Rather than Nothing?* New York: Routledge.
+* Grünbaum, Adolf, 1991, “Creation as a Pseudo-Explanation in Current Physical Cosmology”, *Erkenntnis*, 35(1–3): 233–54. doi:10.1007/BF00388287 \[[Grünbaum 1991 available online](http://infidels.org/library/modern/adolf\grunbaum/explanation.html)]
+* –––, 1994, “Some Comments on William Craig’s ‘Creation and Big Bang Cosmology’”, *Philosophia Naturalis*, 31(2): 225–236. \[[Grünbaum 1994 available online](http://www.infidels.org/library/modern/adolf\grunbaum/comments.html)]
+* Harvey, Ramon, 2021, *Transcendent God, Rational World*, Edinburgh: University of Edinburgh.
+* Hawking, Stephen W., 1987, “Quantum Cosmology”, in Stephen W. Hawking and Werner Israel (eds.), *Three Hundred Years of Gravitation*, Cambridge: Cambridge University Press, pp. 631–51.
+* –––, 1988, *A Brief History of Time*, New York: Bantam.
 * Heil, John, 2013, “Contingency”, in Goldschmidt 2013: 167–81.
-* Hick, John, 1960, “God as Necessary Being”, _Journal of Philosophy_, 57(22/23): 725–33.
-* Hume, David, 1779, _Dialogues Concerning Natural Religion_, London. Reprinted Indianapolis: Hackett, 1980. \[[Hume 1779 available online](http://www.earlymoderntexts.com/assets/pdfs/hume1779.pdf)]
-* –––, 1748, _An Enquiry Concerning Human Understanding_, London. Reprinted Indianapolis: Hackett, 1993. \[[Hume 1748 available online](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm)]
-* Kant, Immanuel, 1781/1787, _Critique of Pure Reason_, Cambridge: Cambridge University Press, 1998. \[[Kant _Critique_ available online](http://www.gutenberg.org/files/4280/4280-h/4280-h.htm)]
-* Kenny, Anthony, 1969, _The Five Ways_, New York: Schocken Books.
-* Koons, Robert C., 1997, “A New Look at the Cosmological Argument”, _American Philosophical Quarterly_, 34(2): 193–211.
-* –––, 2008, “Epistemological Foundations for the Cosmological Argument”, in Jonathan L. Kvanvig, (ed.), _Oxford Studies in the Philosophy of Religion_, Oxford: Oxford University Press, pp. 105–133.
-* –––, 2014, “A New Kalam Argument: Revenge of the Grim Reaper”, _Noûs_, 48(2): 256–67. doi:10.1111/j.1468-0068.2012.00858.x
-* Leftow, Brian, 2012, _God and Necessity_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263356.001.0001
-* Leibniz, Gottfried, 1714, _The Monadology_, Pittsburgh, PA: University of Pittsburgh Press, 1991. \[ [Leibniz 1714 available online](http://www.earlymoderntexts.com/assets/pdfs/leibniz1714b.pdf)]
-* Leslie, John, 1979, _Value and Existence_, Totowa, NJ: Rowman and Littlefield.
-* Loke, Andrew, 2014a, “A Modified Philosophical Argument for the Beginning of the Universe”, _Think_, 13(36): 71–83. doi:10.1017/S147717561300033X
-* –––, 2014b, “No Heartbreak at Hilbert’s Hotel: a Reply to Landon Hedrick”, _Religious Studies_, 50(1): 47–50. doi: 10.1017/S0034412513000346
-* –––, 2017, _God and Ultimate Origins: A Novel Cosmological Argument_, New York: Palgrave Macmillan.
-* Mackie, John L., 1982, _The Miracle of Theism: Arguments for and against the Existence of God_, Oxford: Clarendon Press.
-* Martin, Michael, 1990, _Atheism: A Philosophical Justification_, Philadelphia: Temple University Press.
-* –––, 1991, _The Case Against Christianity_, Philadelphia: Temple University Press.
-* –––, 1986, “Swinburne’s Inductive Cosmological Argument”, _Heythrop Journal_, 27(2): 151–162. doi:10.1111/j.1468-2265.1986.tb00085.x
-* Mermin, N. David, 1985, “Is the moon there when nobody looks? Reality and the quantum theory”, _Physics Today_, 38(4): 38–47. doi:10.1063/1.880968
-* Miethe, Terry L., 1978, “The Cosmological Argument: A Research Bibliography”, _New Scholasticism_, 52(2): 285–305. doi:10.5840/newscholas197852210
-* Morriston, Wes, 2000, “Must the Beginning of the Universe Have a Personal Cause? A Critical Examination of the _Kalam_ Cosmological Argument”, _Faith and Philosophy_, 17(2): 149–69. doi:10.5840/faithphil200017215
-* –––, 2002a, “Causes and Beginnings in the _Kalam_ Argument: Reply to Craig”,_Faith and Philosophy_, 19(2): 233–44. doi:10.5840/faithphil200219218
-* –––, 2002b, “Craig on the Actual Infinite”, _Religious Studies_, 38: 147–166.
-* –––, 2003, “Must Metaphysical Time Have a Beginning?”, _Faith and Philosophy_, 20(3): 288–306. doi:10.5840/faithphil200320338
-* –––, 2010, “Beginningless Past, Endless Future, and the Actual Infinite”, _Faith and Philosophy_, 27(4): 439–50. doi:10.5840/faithphil201027444
-* Musser, George, 2004, “Four Keys to Cosmology”, _Scientific American_ 290(2) (February): 42–43.
-* Nowacki, Mark R., 2007, _The “Kalām” Cosmological Argument for God_, New York: Barnes and Noble.
-* O’Connor, Timothy, 2004, “‘And This All Men Call God’”, _Faith and Philosophy_, 21(4): 417–35. doi:10.5840/faithphil200421436 \[[O’Connor 2004 available online](http://www.indiana.edu/\~scotus/files/All\Men\Call\God.pdf)]
-* –––, 2008, _Theism and Ultimate Explanation: the Necessary Shape of Contingency_, London: Wiley-Blackwell.
-* –––, 2013, “Could There Be a Complete Explanation of _Everything_?” in Goldschmidt 2013: 22–45.
-* Oderberg, David S., 2002, “Traversal of the Infinite: the ‘Big Bang,’ and the _Kalam_ Cosmological Argument”, _Philosophia Christi_, 4(2): 305–344. \[[Oderberg 2002 available online](https://docs.google.com/file/d/0B7SKlRTfkUieTjQtNjNZaWpmMVU/edit)]
-* –––, 2013, “The Cosmological Argument”, in Chad Meister and Paul Copan (eds.), _The Routledge Companion to Philosophy of Religion_, London: Routledge, pp. 401–10.
-* Oppy, Graham, 1999, “Koons’ Cosmological Argument”, _Faith and Philosophy_, 16(3): 379–389. doi:10.5840/faithphil199916335
-* –––, 2000, “On ‘A New Cosmological Argument’”, _Religious Studies_, 36(3): 345–353.
-* –––, 2002, “Arguing _about_ the _Kalam_ Cosmological Argument”, _Philo_, 5(1): 34–61. doi:10.5840/philo2002513 \[This article contains helpful references tracing the history of the debate between Craig and his critics like Oppy, Grünbaum, Mackie, and Smith.]
-* –––, 2003, “From the Tristram Shandy Paradox to the Christmas Shandy Paradox: A Reply to Oderberg”, _Ars Disputandi_, 3: 1–24. \[[Oppy 2003 available online](http://philpapers.org/archive/OPPFTT.pdf)]
-* –––, 2006, _Arguing about Gods_. Cambridge: Cambridge University Press.
-* –––, 2009, “Cosmological Arguments”, _Noûs_, 43(1): 31–48. doi:10.1111/j.1468-0068.2008.01694.x
+* Hick, John, 1960, “God as Necessary Being”, *Journal of Philosophy*, 57(22/23): 725–33.
+* Hume, David, 1779, *Dialogues Concerning Natural Religion*, London. Reprinted Indianapolis: Hackett, 1980. \[[Hume 1779 available online](http://www.earlymoderntexts.com/assets/pdfs/hume1779.pdf)]
+* –––, 1748, *An Enquiry Concerning Human Understanding*, London. Reprinted Indianapolis: Hackett, 1993. \[[Hume 1748 available online](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm)]
+* Kant, Immanuel, 1781/1787, *Critique of Pure Reason*, Cambridge: Cambridge University Press, 1998. \[[Kant *Critique* available online](http://www.gutenberg.org/files/4280/4280-h/4280-h.htm)]
+* Kenny, Anthony, 1969, *The Five Ways*, New York: Schocken Books.
+* Koons, Robert C., 1997, “A New Look at the Cosmological Argument”, *American Philosophical Quarterly*, 34(2): 193–211.
+* –––, 2008, “Epistemological Foundations for the Cosmological Argument”, in Jonathan L. Kvanvig, (ed.), *Oxford Studies in the Philosophy of Religion*, Oxford: Oxford University Press, pp. 105–133.
+* –––, 2014, “A New Kalam Argument: Revenge of the Grim Reaper”, *Noûs*, 48(2): 256–67. doi:10.1111/j.1468-0068.2012.00858.x
+* Leftow, Brian, 2012, *God and Necessity*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199263356.001.0001
+* Leibniz, Gottfried, 1714, *The Monadology*, Pittsburgh, PA: University of Pittsburgh Press, 1991. \[ [Leibniz 1714 available online](http://www.earlymoderntexts.com/assets/pdfs/leibniz1714b.pdf)]
+* Leslie, John, 1979, *Value and Existence*, Totowa, NJ: Rowman and Littlefield.
+* Loke, Andrew, 2014a, “A Modified Philosophical Argument for the Beginning of the Universe”, *Think*, 13(36): 71–83. doi:10.1017/S147717561300033X
+* –––, 2014b, “No Heartbreak at Hilbert’s Hotel: a Reply to Landon Hedrick”, *Religious Studies*, 50(1): 47–50. doi: 10.1017/S0034412513000346
+* –––, 2017, *God and Ultimate Origins: A Novel Cosmological Argument*, New York: Palgrave Macmillan.
+* Mackie, John L., 1982, *The Miracle of Theism: Arguments for and against the Existence of God*, Oxford: Clarendon Press.
+* Martin, Michael, 1990, *Atheism: A Philosophical Justification*, Philadelphia: Temple University Press.
+* –––, 1991, *The Case Against Christianity*, Philadelphia: Temple University Press.
+* –––, 1986, “Swinburne’s Inductive Cosmological Argument”, *Heythrop Journal*, 27(2): 151–162. doi:10.1111/j.1468-2265.1986.tb00085.x
+* Mermin, N. David, 1985, “Is the moon there when nobody looks? Reality and the quantum theory”, *Physics Today*, 38(4): 38–47. doi:10.1063/1.880968
+* Miethe, Terry L., 1978, “The Cosmological Argument: A Research Bibliography”, *New Scholasticism*, 52(2): 285–305. doi:10.5840/newscholas197852210
+* Morriston, Wes, 2000, “Must the Beginning of the Universe Have a Personal Cause? A Critical Examination of the *Kalam* Cosmological Argument”, *Faith and Philosophy*, 17(2): 149–69. doi:10.5840/faithphil200017215
+* –––, 2002a, “Causes and Beginnings in the *Kalam* Argument: Reply to Craig”,*Faith and Philosophy*, 19(2): 233–44. doi:10.5840/faithphil200219218
+* –––, 2002b, “Craig on the Actual Infinite”, *Religious Studies*, 38: 147–166.
+* –––, 2003, “Must Metaphysical Time Have a Beginning?”, *Faith and Philosophy*, 20(3): 288–306. doi:10.5840/faithphil200320338
+* –––, 2010, “Beginningless Past, Endless Future, and the Actual Infinite”, *Faith and Philosophy*, 27(4): 439–50. doi:10.5840/faithphil201027444
+* Musser, George, 2004, “Four Keys to Cosmology”, *Scientific American* 290(2) (February): 42–43.
+* Nowacki, Mark R., 2007, *The “Kalām” Cosmological Argument for God*, New York: Barnes and Noble.
+* O’Connor, Timothy, 2004, “‘And This All Men Call God’”, *Faith and Philosophy*, 21(4): 417–35. doi:10.5840/faithphil200421436 \[[O’Connor 2004 available online](http://www.indiana.edu/\~scotus/files/All\Men\Call\God.pdf)]
+* –––, 2008, *Theism and Ultimate Explanation: the Necessary Shape of Contingency*, London: Wiley-Blackwell.
+* –––, 2013, “Could There Be a Complete Explanation of *Everything*?” in Goldschmidt 2013: 22–45.
+* Oderberg, David S., 2002, “Traversal of the Infinite: the ‘Big Bang,’ and the *Kalam* Cosmological Argument”, *Philosophia Christi*, 4(2): 305–344. \[[Oderberg 2002 available online](https://docs.google.com/file/d/0B7SKlRTfkUieTjQtNjNZaWpmMVU/edit)]
+* –––, 2013, “The Cosmological Argument”, in Chad Meister and Paul Copan (eds.), *The Routledge Companion to Philosophy of Religion*, London: Routledge, pp. 401–10.
+* Oppy, Graham, 1999, “Koons’ Cosmological Argument”, *Faith and Philosophy*, 16(3): 379–389. doi:10.5840/faithphil199916335
+* –––, 2000, “On ‘A New Cosmological Argument’”, *Religious Studies*, 36(3): 345–353.
+* –––, 2002, “Arguing *about* the *Kalam* Cosmological Argument”, *Philo*, 5(1): 34–61. doi:10.5840/philo2002513 \[This article contains helpful references tracing the history of the debate between Craig and his critics like Oppy, Grünbaum, Mackie, and Smith.]
+* –––, 2003, “From the Tristram Shandy Paradox to the Christmas Shandy Paradox: A Reply to Oderberg”, *Ars Disputandi*, 3: 1–24. \[[Oppy 2003 available online](http://philpapers.org/archive/OPPFTT.pdf)]
+* –––, 2006, *Arguing about Gods*. Cambridge: Cambridge University Press.
+* –––, 2009, “Cosmological Arguments”, *Noûs*, 43(1): 31–48. doi:10.1111/j.1468-0068.2008.01694.x
 * –––, 2013, “Ultimate Naturalistic Causal Explanation”, in Goldschmidt 2013: 46–63.
-* –––, 2015, “Uncaused Beginnings Revisited”, _Faith and Philosophy_, 32(2): 205–10.
-* Ostrowick, John, 2012, “Is Theism a Simple, and Hence, Probable, Explanation for the Universe?”, _South African Journal of Philosophy_, 31(2): 354–68. doi:10.1080/02580136.2012.10751781
-* Plantinga, Alvin, 1967, _God and Other Minds_, Ithaca: Cornell University Press.
-* Potter, Karl H. (ed.), 1977, _Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeşika up to Gangeśa_, Princeton: Princeton University Press.
-* Proops, Ian, 2014, “Kant on the Cosmological Argument”, _Philosophers’ Imprint,_ 14(12): 1–21.
+* –––, 2015, “Uncaused Beginnings Revisited”, *Faith and Philosophy*, 32(2): 205–10.
+* Ostrowick, John, 2012, “Is Theism a Simple, and Hence, Probable, Explanation for the Universe?”, *South African Journal of Philosophy*, 31(2): 354–68. doi:10.1080/02580136.2012.10751781
+* Plantinga, Alvin, 1967, *God and Other Minds*, Ithaca: Cornell University Press.
+* Potter, Karl H. (ed.), 1977, *Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeşika up to Gangeśa*, Princeton: Princeton University Press.
+* Proops, Ian, 2014, “Kant on the Cosmological Argument”, *Philosophers’ Imprint,* 14(12): 1–21.
 * Pruss, Alexander R., 1999, “The Hume-Edwards Principle and the Cosmological Argument”, in Gale and Pruss 2003: 347–63.
-* –––, 2006, _The Principle of Sufficient Reason: A Reassessment_, Cambridge: Cambridge University Press.
+* –––, 2006, *The Principle of Sufficient Reason: A Reassessment*, Cambridge: Cambridge University Press.
 * –––, 2009, “The Leibnizian Cosmological Argument”, in Craig and Moreland 2009: 24–100. \[[Pruss 2009 available online](http://alexanderpruss.com/papers/LCA.html)]
-* –––, 2018, _Infinity, Causation, and Paradox_, Oxford: Oxford University Press.
-* Puryear, Stephen, 2014, “Finitism and the beginning of the Universe”, _Australasian Journal of Philosophy_, 92: 619–29.
-* Quinn, Philip, 2005, “Cosmological Contingency and Theistic Explanation”, _Faith and Philosophy_, 22(5): 581–600. doi:10.5840/faithphil200522520
-* Rasmussen, Joshua, 2009, “From a Necessary Being to God”, _International Journal for Philosophy of Religion_, 66(1): 1–13. doi:10.1007/s11153-008-9191-8
-* –––, 2010, “A New Argument for a Necessary Being”, _Australasian Journal of Philosophy_, 89(2): 351–56. doi:10.1080/00048402.2010.523706
-* Reichenbach, Bruce R., 1972, _The Cosmological Argument: A Reassessment_, Springfield: Charles Thomas.
-* –––, 2004, “Explanation and the Cosmological Argument”, in Michael L. Peterson and Raymond J. VanArragon (eds.), _Contemporary Debates in Philosophy of Religion_, London: Blackwell, pp. 97–114.
-* Rowe, William L., 1962, “The Fallacy of Composition”, _Mind_, 71(281): 87–92. doi:10.1093/mind/LXXI.281.87
-* –––, 1968, “The Cosmological Argument and the Principle of Sufficient Reason”, _Man and World_, 1(2): 278–92. doi:10.1007/BF01258405
-* –––, 1975, _The Cosmological Argument_, Princeton: Princeton University Press.
-* –––, 1997, “Circular Explanations, Cosmological Arguments, and Sufficient Reasons”, _Midwest Studies in Philosophy_, 21(1): 188–99. doi:10.1111/j.1475-4975.1997.tb00523.x
-* Rundle, Bede, 2004, _Why There Is Something Rather than Nothing?_, Oxford: Clarendon Press.
-* Russell, Bertrand, 1937, _The Principles of Mathematics_, second edition (first edition 1903), London: George Allen & Unwin.
-* Russell, Bertrand and Frederick Copleston, 1948, “Debate on the Existence of God”, Reprinted in John Hick (ed.), 1964, _The Existence of God_, New York: Macmillan, pp. 167–90.
-* Scotus, John Duns, \[c. 1300] 1964, _Ordinatio_, in _Philosophical Writings: A Selection_, Allan Wolter (trans.), Indianapolis: Bobbs-Merrill, 1964.
-* Silk, Joseph, 2001, _The Big Bang_, San Francisco: W.H. Freeman.
-* Siniscalchi, Glenn B., 2018, “Contemporary Trends in Atheistic Criticism of Thomistic Natural Theology”, _Heythrop Journal_, 59: 689–706.
-* Sincell, Marc, 2001, “Farthest Supernova Yet Bolsters Dark Energy”, _Science_, 292(5514): 27–28. doi:10.1126/science.292.5514.27a
-* Small, Robin, 1986, “Tristram Shandy’s Last Page”, _British Journal for the Philosophy of Science_, 37(2): 213–16. doi:10.1093/bjps/37.2.213
-* Smart, J.J.C., 1955, “The Existence of God,” in Antony Flew and Alasdair MacIntyre, _New Essays in Philosophical Theology_ New York: Macmillan, pp. 28–46.
-* Smart, J.J.C. and J.J. Haldane, 1996, _Atheism and Theism_, Oxford: Wiley-Blackwell.
-* Sobel, Jordan H., 2004, _Logic and Theism: Arguments For and Against Beliefs in God_, Cambridge: Cambridge University Press, chaps. 5 & 6.
-* Steinhardt, Paul J., 2011, “The Inflation Debate”, _Scientific American_, 304(4): 36–45.
-* Steinhardt, Paul J. and Neil Turok, 2001, “A Cyclic Model of the Universe”, _Science_, 296: 1436–1439.
-* –––, 2002, “Cosmic Evolution in a Cyclic Universe”, _Physical Review D_, 65(12): 1–53. doi:10.1103/PhyRevD.65.126003
-* Swinburne, Richard, 1977, _The Coherence of Theism_, Oxford: Clarendon Press.
-* –––, 1979, _The Existence of God_, Oxford: Clarendon Press.
-* –––, 1983, “Mackie, Induction, and God”, _Religious Studies_, 19(3): 385–91. doi:10.1017/S0034412500015316
-* –––, 1993. _The Coherence of Theism_, revised edition, Oxford: Clarendon Press.
-* –––, 1996, _Is There a God?_ Oxford: Oxford University Press.
-* –––, 2001, _Epistemic Justification_, Oxford: Oxford University Press.
-* –––, 2004, _The Existence of God_, revised edition, Oxford: Oxford University Press.
-* –––, 2007, _Revelation: From Metaphor to Analogy_, 2nd edition, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199212460.001.0001
-* –––, 2010, “God as the Simplest Explanation of the Universe”, _European Journal for Philosophy of Religion_, 2(1): 1–24.
-* –––, 2012, “What Kind of Necessary Being Could God Be?”, _European Journal for Philosophy of Religion_, 4(2), 1–18.
-* –––, 2016, _The Coherence of Theism_, 2nd edition, Oxford: Clarendon Press. doi:10.1093/0198240708.001.0001
-* Taylor, Richard, 1992, _Metaphysics_, Englewood Cliffs: Prentice-Hall.
-* Tolman, Richard C., 1934, _Relativity, Thermodynamics, and Cosmology_, New York: Dover.
-* Udayana, \[c. 900] 1996, _Nyāyakusumāñjali_, Indian Council of Philosophical Research, New Delhi: Distributed by Munshiram Manoharlal Publishers.
-* van Inwagen, Peter, 1983, _An Essay on Free Will_, New York: Oxford University Press.
-* Waters, Ben, 2013, “Methuselah’s Diary and the Finitude of the Past”, _Philosophia Christi_, 15(2): 463–69.
-* White, John D., 1979, “God’s Necessity”, _International Journal for Philosophy of Religion_, 10(1): 177–87. doi:10.1007/BF00143165
+* –––, 2018, *Infinity, Causation, and Paradox*, Oxford: Oxford University Press.
+* Puryear, Stephen, 2014, “Finitism and the beginning of the Universe”, *Australasian Journal of Philosophy*, 92: 619–29.
+* Quinn, Philip, 2005, “Cosmological Contingency and Theistic Explanation”, *Faith and Philosophy*, 22(5): 581–600. doi:10.5840/faithphil200522520
+* Rasmussen, Joshua, 2009, “From a Necessary Being to God”, *International Journal for Philosophy of Religion*, 66(1): 1–13. doi:10.1007/s11153-008-9191-8
+* –––, 2010, “A New Argument for a Necessary Being”, *Australasian Journal of Philosophy*, 89(2): 351–56. doi:10.1080/00048402.2010.523706
+* Reichenbach, Bruce R., 1972, *The Cosmological Argument: A Reassessment*, Springfield: Charles Thomas.
+* –––, 2004, “Explanation and the Cosmological Argument”, in Michael L. Peterson and Raymond J. VanArragon (eds.), *Contemporary Debates in Philosophy of Religion*, London: Blackwell, pp. 97–114.
+* Rowe, William L., 1962, “The Fallacy of Composition”, *Mind*, 71(281): 87–92. doi:10.1093/mind/LXXI.281.87
+* –––, 1968, “The Cosmological Argument and the Principle of Sufficient Reason”, *Man and World*, 1(2): 278–92. doi:10.1007/BF01258405
+* –––, 1975, *The Cosmological Argument*, Princeton: Princeton University Press.
+* –––, 1997, “Circular Explanations, Cosmological Arguments, and Sufficient Reasons”, *Midwest Studies in Philosophy*, 21(1): 188–99. doi:10.1111/j.1475-4975.1997.tb00523.x
+* Rundle, Bede, 2004, *Why There Is Something Rather than Nothing?*, Oxford: Clarendon Press.
+* Russell, Bertrand, 1937, *The Principles of Mathematics*, second edition (first edition 1903), London: George Allen & Unwin.
+* Russell, Bertrand and Frederick Copleston, 1948, “Debate on the Existence of God”, Reprinted in John Hick (ed.), 1964, *The Existence of God*, New York: Macmillan, pp. 167–90.
+* Scotus, John Duns, \[c. 1300] 1964, *Ordinatio*, in *Philosophical Writings: A Selection*, Allan Wolter (trans.), Indianapolis: Bobbs-Merrill, 1964.
+* Silk, Joseph, 2001, *The Big Bang*, San Francisco: W.H. Freeman.
+* Siniscalchi, Glenn B., 2018, “Contemporary Trends in Atheistic Criticism of Thomistic Natural Theology”, *Heythrop Journal*, 59: 689–706.
+* Sincell, Marc, 2001, “Farthest Supernova Yet Bolsters Dark Energy”, *Science*, 292(5514): 27–28. doi:10.1126/science.292.5514.27a
+* Small, Robin, 1986, “Tristram Shandy’s Last Page”, *British Journal for the Philosophy of Science*, 37(2): 213–16. doi:10.1093/bjps/37.2.213
+* Smart, J.J.C., 1955, “The Existence of God,” in Antony Flew and Alasdair MacIntyre, *New Essays in Philosophical Theology* New York: Macmillan, pp. 28–46.
+* Smart, J.J.C. and J.J. Haldane, 1996, *Atheism and Theism*, Oxford: Wiley-Blackwell.
+* Sobel, Jordan H., 2004, *Logic and Theism: Arguments For and Against Beliefs in God*, Cambridge: Cambridge University Press, chaps. 5 & 6.
+* Steinhardt, Paul J., 2011, “The Inflation Debate”, *Scientific American*, 304(4): 36–45.
+* Steinhardt, Paul J. and Neil Turok, 2001, “A Cyclic Model of the Universe”, *Science*, 296: 1436–1439.
+* –––, 2002, “Cosmic Evolution in a Cyclic Universe”, *Physical Review D*, 65(12): 1–53. doi:10.1103/PhyRevD.65.126003
+* Swinburne, Richard, 1977, *The Coherence of Theism*, Oxford: Clarendon Press.
+* –––, 1979, *The Existence of God*, Oxford: Clarendon Press.
+* –––, 1983, “Mackie, Induction, and God”, *Religious Studies*, 19(3): 385–91. doi:10.1017/S0034412500015316
+* –––, 1993. *The Coherence of Theism*, revised edition, Oxford: Clarendon Press.
+* –––, 1996, *Is There a God?* Oxford: Oxford University Press.
+* –––, 2001, *Epistemic Justification*, Oxford: Oxford University Press.
+* –––, 2004, *The Existence of God*, revised edition, Oxford: Oxford University Press.
+* –––, 2007, *Revelation: From Metaphor to Analogy*, 2nd edition, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199212460.001.0001
+* –––, 2010, “God as the Simplest Explanation of the Universe”, *European Journal for Philosophy of Religion*, 2(1): 1–24.
+* –––, 2012, “What Kind of Necessary Being Could God Be?”, *European Journal for Philosophy of Religion*, 4(2), 1–18.
+* –––, 2016, *The Coherence of Theism*, 2nd edition, Oxford: Clarendon Press. doi:10.1093/0198240708.001.0001
+* Taylor, Richard, 1992, *Metaphysics*, Englewood Cliffs: Prentice-Hall.
+* Tolman, Richard C., 1934, *Relativity, Thermodynamics, and Cosmology*, New York: Dover.
+* Udayana, \[c. 900] 1996, *Nyāyakusumāñjali*, Indian Council of Philosophical Research, New Delhi: Distributed by Munshiram Manoharlal Publishers.
+* van Inwagen, Peter, 1983, *An Essay on Free Will*, New York: Oxford University Press.
+* Waters, Ben, 2013, “Methuselah’s Diary and the Finitude of the Past”, *Philosophia Christi*, 15(2): 463–69.
+* White, John D., 1979, “God’s Necessity”, *International Journal for Philosophy of Religion*, 10(1): 177–87. doi:10.1007/BF00143165
 
 ## Academic Tools
 
@@ -687,13 +686,13 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 ## Other Internet Resources
 
 * Craig, William Lane, papers and videos on the cosmological argument:
-  * [Defense of the _kalām_ argument](http://www.reasonablefaith.org/in-defense-of-the-kalam-cosmological-argument).
+  * [Defense of the *kalām* argument](http://www.reasonablefaith.org/in-defense-of-the-kalam-cosmological-argument).
   * [Reply to Oppy](http://www.reasonablefaith.org/graham-oppy-on-the-kalam-cosmological-argument).
   * [Existence of God: Writings](https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/). In www.ReasonableFaith.org
   * [Existence of God: Media](https://www.reasonablefaith.org/videos). In www.ReasonableFaith.org
 * Oppy, Graham, [Cosmology and the Cosmological Argument](http://www.infidels.org/library/modern/graham\oppy/).
 * Muehlhauser, Luke, [Bibliography on the theistic arguments and the cosmological argument](http://commonsenseatheism.com/?p=5657#1.1).
-* Rutten, Emanuel, 2012, [_A Critical Assessment of Contemporary Cosmological Arguments: Toward a Renewed Case for Theism_](http://www.gjerutten.nl/TowardsARenewedCaseForTheism\ERutten.pdf), Amsterdam.
+* Rutten, Emanuel, 2012, [*A Critical Assessment of Contemporary Cosmological Arguments: Toward a Renewed Case for Theism*](http://www.gjerutten.nl/TowardsARenewedCaseForTheism\ERutten.pdf), Amsterdam.
 * Smith, Quentin, et al, [Critiques of the cosmological argument](http://www.infidels.org/library/modern/nontheism/atheism/cosmological.html).
 
 ## Related Entries
@@ -701,4 +700,4 @@ Swinburne的论点的关键方面在于他在归纳宇宙学论证中几乎完�
 [Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [Bonaventure](https://plato.stanford.edu/entries/bonaventure/) | [Clarke, Samuel](https://plato.stanford.edu/entries/clarke/) | [cosmology: and theology](https://plato.stanford.edu/entries/cosmology-theology/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [fine-tuning](https://plato.stanford.edu/entries/fine-tuning/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Hume, David: on religion](https://plato.stanford.edu/entries/hume-religion/) | [infinite regress arguments](https://plato.stanford.edu/entries/infinite-regress/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Leibniz, Gottfried Wilhelm](https://plato.stanford.edu/entries/leibniz/) | [ontological arguments](https://plato.stanford.edu/entries/ontological-arguments/) | [principle of sufficient reason](https://plato.stanford.edu/entries/sufficient-reason/) | [religion: and science](https://plato.stanford.edu/entries/religion-science/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [theology, natural and natural religion](https://plato.stanford.edu/entries/natural-theology/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Bruce Reichenbach](http://www.augsburg.edu/faculty/reichen/) <[_reichen@augsburg.edu_](mailto:reichen%40augsburg%2eedu)>
+[Bruce Reichenbach](http://www.augsburg.edu/faculty/reichen/) <[*reichen@augsburg.edu*](mailto:reichen%40augsburg%2eedu)>

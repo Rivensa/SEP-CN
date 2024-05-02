@@ -1,12 +1,11 @@
 # 纳尔逊·古德曼 Goodman, Nelson (Daniel Cohnitz and Marcus Rossberg)
 
-_首次发表于2014年11月21日星期五；实质性修订于2024年2月8日星期四。_
+*首次发表于2014年11月21日星期五；实质性修订于2024年2月8日星期四。*
 
 纳尔逊·古德曼（1906-1998）是二十世纪美国最具影响力的哲学家之一。古德曼的哲学兴趣涵盖了形式逻辑、科学哲学以及艺术哲学。在所有这些不同领域中，古德曼都作出了重要且极具原创性的贡献。也许他最著名的贡献是“蓝-绿悖论”，这指出了为了通过归纳学习，我们需要区分可投射和不可投射的谓词之间的问题。其他重要贡献包括他描述的后来被称为“反思均衡”的技术，他对反事实的研究，他的“非现实主义”，他与亨利·S·莱昂纳德共同发展的整体论，逻辑句法的名义主义解释（与 W.V.奎因合作），他对美学认知转向的贡献，以及他的符号的一般理论。
 
 在本文中，我们关注古德曼的生平、哲学观念、科学哲学、逻辑、语言和数学，以及形而上学。有关古德曼符号理论和艺术哲学，请参阅古德曼美学的单独条目。
 
- 
 ***
 
 ## 1. 生平
@@ -375,39 +374,39 @@ Putnam 还指出，古德曼的世界构建概念与他的第一思路之间存�
 
 SQ
 
-_A Study of Qualities_, Ph.D. dissertation thesis, Harvard University, 1941. First published New York: Garland, 1990 (Harvard Dissertations in Philosophy Series).
+*A Study of Qualities*, Ph.D. dissertation thesis, Harvard University, 1941. First published New York: Garland, 1990 (Harvard Dissertations in Philosophy Series).
 
 SA
 
-_The Structure of Appearance_, Cambridge, MA: Harvard University Press, 1951; 2nd ed. Indianapolis: Bobbs-Merrill, 1966; 3rd ed. Boston: Reidel, 1977 (page numbers in our text refer to this last edition).
+*The Structure of Appearance*, Cambridge, MA: Harvard University Press, 1951; 2nd ed. Indianapolis: Bobbs-Merrill, 1966; 3rd ed. Boston: Reidel, 1977 (page numbers in our text refer to this last edition).
 
 FFF
 
-_Fact, Fiction, and Forecast_, University of London: Athlone Press, 1954; Cambridge, MA: Harvard University Press, 1955; 2nd ed. Indianapolis: Bobbs-Merrill, 1965; 3rd ed. Indianapolis: Bobbs-Merrill, 1973; 4th ed. Cambridge, MA: Harvard University Press, 1983.
+*Fact, Fiction, and Forecast*, University of London: Athlone Press, 1954; Cambridge, MA: Harvard University Press, 1955; 2nd ed. Indianapolis: Bobbs-Merrill, 1965; 3rd ed. Indianapolis: Bobbs-Merrill, 1973; 4th ed. Cambridge, MA: Harvard University Press, 1983.
 
 LA
 
-_Languages of Art: An Approach to a Theory of Symbols_, Indianapolis: Bobbs-Merrill, 1968; 2nd ed. Indianapolis: Hackett, 1976.
+*Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: Bobbs-Merrill, 1968; 2nd ed. Indianapolis: Hackett, 1976.
 
 PP
 
-_Problems and Projects_, Indianapolis: Bobbs-Merrill, 1972.
+*Problems and Projects*, Indianapolis: Bobbs-Merrill, 1972.
 
 BA
 
-_Basic Abilities Required for Understanding and Creation in the Arts_, Final Report (with David Perkins, Howard Gardner, and the assistance of Jeanne Bamberger et al.) Cambridge, MA: Harvard University: project no. 9-0283, grant no. OEG-0-9-310283-3721 (010). Reprinted (in part and with changes) in MM, ch. V.2.
+*Basic Abilities Required for Understanding and Creation in the Arts*, Final Report (with David Perkins, Howard Gardner, and the assistance of Jeanne Bamberger et al.) Cambridge, MA: Harvard University: project no. 9-0283, grant no. OEG-0-9-310283-3721 (010). Reprinted (in part and with changes) in MM, ch. V.2.
 
 WW
 
-_Ways of Worldmaking_, Indianapolis: Hackett, 1978; paperback edition Indianapolis: Hackett, 1985.
+*Ways of Worldmaking*, Indianapolis: Hackett, 1978; paperback edition Indianapolis: Hackett, 1985.
 
 MM
 
-_Of Mind and Other Matters_, Cambridge, MA: Harvard University Press, 1984.
+*Of Mind and Other Matters*, Cambridge, MA: Harvard University Press, 1984.
 
 RP
 
-(with Catherine Z. Elgin) _Reconceptions in Philosophy and other Arts and Sciences_, Indianapolis: Hackett; London: Routledge, 1988; paperback edition, London: Routledge, Indianapolis: Hackett, 1990.
+(with Catherine Z. Elgin) *Reconceptions in Philosophy and other Arts and Sciences*, Indianapolis: Hackett; London: Routledge, 1988; paperback edition, London: Routledge, Indianapolis: Hackett, 1990.
 
 For attempts at compilations of Goodman’s complete corpus see Berka 1991, the bibliography in Cohnitz and Rossberg 2006, or follow the link in [Other Internet Resources](https://plato.stanford.edu/entries/goodman/#Oth) below to the list of writings by Goodman compiled by John Lee (University of Edinburgh).
 
@@ -415,27 +414,27 @@ For attempts at compilations of Goodman’s complete corpus see Berka 1991, the 
 
 1940
 
-(with Henry S. Leonard) “The Calculus of Individuals and Its Uses”, _Journal of Symbolic Logic_, 5:45–55.
+(with Henry S. Leonard) “The Calculus of Individuals and Its Uses”, *Journal of Symbolic Logic*, 5:45–55.
 
 1947
 
-(with W.V. Quine) “Steps Toward a Constructive Nominalism”, _Journal of Symbolic Logic_, 12:105–22. Reprinted in PP, 173–98.
+(with W.V. Quine) “Steps Toward a Constructive Nominalism”, *Journal of Symbolic Logic*, 12:105–22. Reprinted in PP, 173–98.
 
 1949
 
-“On Likeness of Meaning”, _Analysis_, 10:1–7. Reprinted in PP, 221–30.
+“On Likeness of Meaning”, *Analysis*, 10:1–7. Reprinted in PP, 221–30.
 
 1953
 
-“On Some Differences About Meaning”, _Analysis_, 13:90–96. Reprinted in PP, 231–8.
+“On Some Differences About Meaning”, *Analysis*, 13:90–96. Reprinted in PP, 231–8.
 
 1956
 
-“A World of Individuals”, in _The Problem of Universals: a symposium_, I.M. Bochenski, Alonzo Church, and Nelson Goodman. Notre Dame, IN: University of Notre Dame Press, pp. 13–31. Reprinted in PP, 155–71.
+“A World of Individuals”, in *The Problem of Universals: a symposium*, I.M. Bochenski, Alonzo Church, and Nelson Goodman. Notre Dame, IN: University of Notre Dame Press, pp. 13–31. Reprinted in PP, 155–71.
 
 1958
 
-“On Relations that Generate”, _Philosophical Studies_, 9:65–66. Reprinted in PP, 171–72.
+“On Relations that Generate”, *Philosophical Studies*, 9:65–66. Reprinted in PP, 171–72.
 
 1980
 
@@ -447,86 +446,86 @@ For attempts at compilations of Goodman’s complete corpus see Berka 1991, the 
 
 ### B. Secondary sources
 
-* Berka, Sigrid, 1991, “An International Bibliography of Works by and Selected Works about Nelson Goodman”, _Journal of Aesthetic Education_, 25 (special issue: _More Ways of Worldmaking_): 99–112.
-* Boghossian, Paul A., 2006, _Fear of Knowledge: Against Relativism and Constructivism_, Oxford: Clarendon Press.
-* Boolos, George, 1984, “To Be is to Be the Value of a Variable (or to Be Some Values of Some Variables)”, _Journal of Philosophy_, 81: 430–50.
-* –––, 1985, “Nominalist Platonism”, _Philosophical Review_, 94: 327–44.
-* Brun, Georg, 2020, “Conceptual re-engineering: From explication to reflective equilibrium”, _Synthese_, 197: 925–54.
-* Carnap, Rudolf, 1928, _Der Logische Aufbau der Welt_, Berlin: Weltkreis. English translation by Rolf A. George, 1967, in _The Logical Structure of the World. Pseudoproblems in Philosophy_, Berkeley and Los Angeles: University of California Press.
-* –––, 1932, “Die physikalische Sprache als Universalsprache der Wissenschaft” _Erkenntnis_, 2: 432–465. English translation by Max Black, 1934, in _The Unity of Science_, London: Kegan Paul, pp. 67–76.
-* –––, \[1934] 1937, _The Logical Syntax of Language_, London: Routledge & Kegan Paul.
-* –––, 1935, _Philosophy and Logical Syntax_, London: Kegan Paul.
-* –––, 1947, “On the Application of Inductive Logic”, _Philosophy and Phenomenological Research_, 8: 133–48.
-* Carter, Curtis L., 2000, “A Tribute to Nelson Goodman”, _Journal of Aesthetics and Art Criticism_, 58: 251–53.
-* –––, 2009, “Nelson Goodman’s _Hockey Seen_: A Philosopher’s Approach to Performance”, in Jale N. Erzen (ed.), _Congress Book 2: Selected Papers: XVIIth International Congress of Aesthetics_, Ankara: Sanart.
+* Berka, Sigrid, 1991, “An International Bibliography of Works by and Selected Works about Nelson Goodman”, *Journal of Aesthetic Education*, 25 (special issue: *More Ways of Worldmaking*): 99–112.
+* Boghossian, Paul A., 2006, *Fear of Knowledge: Against Relativism and Constructivism*, Oxford: Clarendon Press.
+* Boolos, George, 1984, “To Be is to Be the Value of a Variable (or to Be Some Values of Some Variables)”, *Journal of Philosophy*, 81: 430–50.
+* –––, 1985, “Nominalist Platonism”, *Philosophical Review*, 94: 327–44.
+* Brun, Georg, 2020, “Conceptual re-engineering: From explication to reflective equilibrium”, *Synthese*, 197: 925–54.
+* Carnap, Rudolf, 1928, *Der Logische Aufbau der Welt*, Berlin: Weltkreis. English translation by Rolf A. George, 1967, in *The Logical Structure of the World. Pseudoproblems in Philosophy*, Berkeley and Los Angeles: University of California Press.
+* –––, 1932, “Die physikalische Sprache als Universalsprache der Wissenschaft” *Erkenntnis*, 2: 432–465. English translation by Max Black, 1934, in *The Unity of Science*, London: Kegan Paul, pp. 67–76.
+* –––, \[1934] 1937, *The Logical Syntax of Language*, London: Routledge & Kegan Paul.
+* –––, 1935, *Philosophy and Logical Syntax*, London: Kegan Paul.
+* –––, 1947, “On the Application of Inductive Logic”, *Philosophy and Phenomenological Research*, 8: 133–48.
+* Carter, Curtis L., 2000, “A Tribute to Nelson Goodman”, *Journal of Aesthetics and Art Criticism*, 58: 251–53.
+* –––, 2009, “Nelson Goodman’s *Hockey Seen*: A Philosopher’s Approach to Performance”, in Jale N. Erzen (ed.), *Congress Book 2: Selected Papers: XVIIth International Congress of Aesthetics*, Ankara: Sanart.
 * Cohnitz, Daniel, 2009, “The Unity of Goodman’s Thought”, in Ernst et al. 2009: 33–50.
-* Cohnitz, Daniel, and Marcus Rossberg, 2006, _Nelson Goodman_, Chesham: Acumen and Montreal: McGill-Queen’s University Press; reprinted, London: Routledge, 2014.
-* Cotnoir, Aaron J., and Achille Varzi, 2019, _Mereology_, Oxford: Oxford University Press.
-* Creath, Richard (ed.), 1990, _Dear Carnap, Dear Van: The Quine–Carnap Correspondence and Related Work_, Berkeley, CA: University of California Press.
-* de Donato Rodríguez, Xavier, 2009, “Construction and Worldmaking: the Significance of Nelson Goodman’s Pluralism”, _Theoria: An International Journal for Theory, History and Foundations of Science_, 24: 213–25.
-* Declos, Alexandre, 2019, “Goodman’s Many Worlds”, _Journal for the History of Analytical Philosophy_, 7(6): 1–25.
-* Dudau, R., 2002, _The Realism/Anti-Realism Debate in the Philosophy of Science_, Berlin: Logos.
-* Elgin, Catherine Z., 1983, _With Reference to Reference_, Indianapolis: Hackett.
-* –––, 1997a, _Between the Absolute and the Arbitrary_, Ithaca: Cornell University Press.
-* ––– (ed.), 1997b, _The Philosophy of Nelson Goodman Vol. 1: Nominalism, Constructivism, and Relativism_, New York: Garland.
-* ––– (ed.), 1997c, _The Philosophy of Nelson Goodman Vol. 2: Nelson Goodman’s New Riddle of Induction_, New York: Garland.
-* ––– (ed.), 1997d, _The Philosophy of Nelson Goodman Vol. 3: Nelson Goodman’s Philosophy of Art_, New York: Garland.
-* ––– (ed.), 1997e, _The Philosophy of Nelson Goodman Vol. 4: Nelson Goodman’s Theory of Symbols and Its Applications_, New York: Garland.
-* –––, 2000a, “Worldmaker: Nelson Goodman (1906–1998)”, _Journal for General Philosophy of Science_, 31: 1–18.
-* –––, 2000b, “In Memoriam: Nelson Goodman”, _Erkenntnis_, 52(2): 149–50.
-* –––, 2001, “The Legacy of Nelson Goodman”, _Philosophy and Phenomenological Research_, 62: 679–90.
-* Elgin, Catherine Z., Israel Scheffler, and Robert Schwarz, 1999, “Nelson Goodman 1906–1998”, _Proceedings and Addresses of the American Philosophical Association_, 72(5): 206–8.
-* Ernst, Gerhard, Jakob Steinbrenner, and Oliver R. Scholz (eds.), 2009, _From Logic to Art: Themes from Nelson Goodman_, Frankfurt: Ontos.
-* Field, Hartry, 1980, _Science Without Numbers_, Princeton: Princeton University Press.
-* Frege, Gottlob, 1879, _Begriffsschrift: Eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle a.S.: Nebert. English transl. by Stefan Bauer-Mengelberg in Jean van Heijenoort (ed.), 1967, _From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press, pp. 5–82.
-* Grice, H. Paul, and Peter F. Strawson, 1956, “In Defense of a Dogma”, _Philosophical Review_, 65: 141–58.
-* Hacking, Ian, 1993, “On Kripke’s and Goodman’s Uses of ‘Grue’”, _Philosophy_, 68: 269–95.
-* Henkin, Leon, 1962, “Nominalistic Analysis of Mathematical Language”, in Ernest Nagel, Patrick Suppes, and Alfred Tarski (eds.), _Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress_, Stanford: Stanford University Press, pp. 187–93.
-* Hellman, Geoffrey, 1977, Introduction to Nelson Goodman’s _The Structure of Appearance_, 3rd edition, Boston: Reidel. (See SA, XIX–XLVII.)
-* –––, 2001, “On Nominalism”, _Philosophy and Phenomenological Research_, 62: 691–705.
-* Hume, David, \[1739–40] 2000, _A Treatise of Human Nature_, D. F. Norton & M. J. Norton (eds.), Oxford: Oxford University Press.
-* Kowalenko, Robert, 2022, “The Putnam-Goodman-Kripke Paradox”, _Acta Analytica_, 37: 575–94.
-* Kripke, Saul A., 1982, _Wittgenstein on Rules and Private Language_, Cambridge, MA: Harvard University Press.
-* Leonard, Henry S., 1930, _Singular Terms_, Ph.D. dissertation thesis, Harvard University.
-* –––, 1967, “Comments on _The Calculus of Individuals and its Uses_”, edited by Henry S. Leonard, Jr., forthcoming in Hans Burkhardt, Guido Imaguire and Johanna Seibt (eds.), _Handbook of Mereology_, Munich: Philosophia Verlag.
-* Leśniewski, Stanisław, 1916, _Podstawy ogólnej teoryi mnogosci_, I, Moscow: Poplawski. English translation by D. I. Barnett as “Foundations of the General Theory of Sets. I”, in Leśniewski 1992, 129–73.
+* Cohnitz, Daniel, and Marcus Rossberg, 2006, *Nelson Goodman*, Chesham: Acumen and Montreal: McGill-Queen’s University Press; reprinted, London: Routledge, 2014.
+* Cotnoir, Aaron J., and Achille Varzi, 2019, *Mereology*, Oxford: Oxford University Press.
+* Creath, Richard (ed.), 1990, *Dear Carnap, Dear Van: The Quine–Carnap Correspondence and Related Work*, Berkeley, CA: University of California Press.
+* de Donato Rodríguez, Xavier, 2009, “Construction and Worldmaking: the Significance of Nelson Goodman’s Pluralism”, *Theoria: An International Journal for Theory, History and Foundations of Science*, 24: 213–25.
+* Declos, Alexandre, 2019, “Goodman’s Many Worlds”, *Journal for the History of Analytical Philosophy*, 7(6): 1–25.
+* Dudau, R., 2002, *The Realism/Anti-Realism Debate in the Philosophy of Science*, Berlin: Logos.
+* Elgin, Catherine Z., 1983, *With Reference to Reference*, Indianapolis: Hackett.
+* –––, 1997a, *Between the Absolute and the Arbitrary*, Ithaca: Cornell University Press.
+* ––– (ed.), 1997b, *The Philosophy of Nelson Goodman Vol. 1: Nominalism, Constructivism, and Relativism*, New York: Garland.
+* ––– (ed.), 1997c, *The Philosophy of Nelson Goodman Vol. 2: Nelson Goodman’s New Riddle of Induction*, New York: Garland.
+* ––– (ed.), 1997d, *The Philosophy of Nelson Goodman Vol. 3: Nelson Goodman’s Philosophy of Art*, New York: Garland.
+* ––– (ed.), 1997e, *The Philosophy of Nelson Goodman Vol. 4: Nelson Goodman’s Theory of Symbols and Its Applications*, New York: Garland.
+* –––, 2000a, “Worldmaker: Nelson Goodman (1906–1998)”, *Journal for General Philosophy of Science*, 31: 1–18.
+* –––, 2000b, “In Memoriam: Nelson Goodman”, *Erkenntnis*, 52(2): 149–50.
+* –––, 2001, “The Legacy of Nelson Goodman”, *Philosophy and Phenomenological Research*, 62: 679–90.
+* Elgin, Catherine Z., Israel Scheffler, and Robert Schwarz, 1999, “Nelson Goodman 1906–1998”, *Proceedings and Addresses of the American Philosophical Association*, 72(5): 206–8.
+* Ernst, Gerhard, Jakob Steinbrenner, and Oliver R. Scholz (eds.), 2009, *From Logic to Art: Themes from Nelson Goodman*, Frankfurt: Ontos.
+* Field, Hartry, 1980, *Science Without Numbers*, Princeton: Princeton University Press.
+* Frege, Gottlob, 1879, *Begriffsschrift: Eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a.S.: Nebert. English transl. by Stefan Bauer-Mengelberg in Jean van Heijenoort (ed.), 1967, *From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, pp. 5–82.
+* Grice, H. Paul, and Peter F. Strawson, 1956, “In Defense of a Dogma”, *Philosophical Review*, 65: 141–58.
+* Hacking, Ian, 1993, “On Kripke’s and Goodman’s Uses of ‘Grue’”, *Philosophy*, 68: 269–95.
+* Henkin, Leon, 1962, “Nominalistic Analysis of Mathematical Language”, in Ernest Nagel, Patrick Suppes, and Alfred Tarski (eds.), *Logic, Methodology and Philosophy of Science: Proceedings of the 1960 International Congress*, Stanford: Stanford University Press, pp. 187–93.
+* Hellman, Geoffrey, 1977, Introduction to Nelson Goodman’s *The Structure of Appearance*, 3rd edition, Boston: Reidel. (See SA, XIX–XLVII.)
+* –––, 2001, “On Nominalism”, *Philosophy and Phenomenological Research*, 62: 691–705.
+* Hume, David, \[1739–40] 2000, *A Treatise of Human Nature*, D. F. Norton & M. J. Norton (eds.), Oxford: Oxford University Press.
+* Kowalenko, Robert, 2022, “The Putnam-Goodman-Kripke Paradox”, *Acta Analytica*, 37: 575–94.
+* Kripke, Saul A., 1982, *Wittgenstein on Rules and Private Language*, Cambridge, MA: Harvard University Press.
+* Leonard, Henry S., 1930, *Singular Terms*, Ph.D. dissertation thesis, Harvard University.
+* –––, 1967, “Comments on *The Calculus of Individuals and its Uses*”, edited by Henry S. Leonard, Jr., forthcoming in Hans Burkhardt, Guido Imaguire and Johanna Seibt (eds.), *Handbook of Mereology*, Munich: Philosophia Verlag.
+* Leśniewski, Stanisław, 1916, *Podstawy ogólnej teoryi mnogosci*, I, Moscow: Poplawski. English translation by D. I. Barnett as “Foundations of the General Theory of Sets. I”, in Leśniewski 1992, 129–73.
 * –––, 1927–31, “O podstawach matematyki”, in: Przegląd Filozoficzny 30 (1927): 164–206; 31 (1928): 261–91; 32 (1929): 60–101; 33 (1930): 77–105; 34 (1931): 142–70. English translation as “On the Foundations of Mathematics” in Leśniewski 1992, 174–382.
-* –––, 1992, _Collected Works_, ed. by S.J. Surma, J. Srzednicki, D.I. Barnett, and F.V. Rickey, Dordrecht: Kluwer.
-* Lewis, C. I., 1941, “Logical Positivism and Pragmatism”, not published in _Revue Internationale de Philosophie_, due to German invasion of Belgium. Reprinted in Lewis 1970, 92–112.
-* –––, \[1952] 1997, “The Given Element in Empirical Knowledge”, _The Philosophical Review_, 61: 168–75. See Elgin 1997b, 112–19.
-* –––, 1970, _Collected Papers of Clarence Irving Lewis_, J. D. Goheen & J. L. Mothershead, Jr (eds), Stanford, CA: Stanford University Press.
-* Lewis, David K., 1991, _Parts of Classes_, Oxford: Basil Blackwell.
-* Mancosu, Paolo, 2005, “Harvard 1940–1941: Tarski, Carnap and Quine on a Finitistic Language of Mathematics for Science”, _History and Philosophy of Logic_, 26: 327–57.
-* McCormick, Peter J. (ed.), 1996, _Starmaking: Realism, Anti-Realism, and Irrealism_, Cambridge, MA: MIT Press.
-* Mitchell, W.J.T., 1999, “Vim and Rigor”, _Artforum_, May: 17–19.
+* –––, 1992, *Collected Works*, ed. by S.J. Surma, J. Srzednicki, D.I. Barnett, and F.V. Rickey, Dordrecht: Kluwer.
+* Lewis, C. I., 1941, “Logical Positivism and Pragmatism”, not published in *Revue Internationale de Philosophie*, due to German invasion of Belgium. Reprinted in Lewis 1970, 92–112.
+* –––, \[1952] 1997, “The Given Element in Empirical Knowledge”, *The Philosophical Review*, 61: 168–75. See Elgin 1997b, 112–19.
+* –––, 1970, *Collected Papers of Clarence Irving Lewis*, J. D. Goheen & J. L. Mothershead, Jr (eds), Stanford, CA: Stanford University Press.
+* Lewis, David K., 1991, *Parts of Classes*, Oxford: Basil Blackwell.
+* Mancosu, Paolo, 2005, “Harvard 1940–1941: Tarski, Carnap and Quine on a Finitistic Language of Mathematics for Science”, *History and Philosophy of Logic*, 26: 327–57.
+* McCormick, Peter J. (ed.), 1996, *Starmaking: Realism, Anti-Realism, and Irrealism*, Cambridge, MA: MIT Press.
+* Mitchell, W.J.T., 1999, “Vim and Rigor”, *Artforum*, May: 17–19.
 * Putnam, Hilary, 1992a, “Irrealism and Deconstruction”, in Putnam 1992b, 108–133; reprinted in McCormick 1996, 179–200.
-* –––, 1992b, _Renewing Philosophy_, Cambridge, MA: Harvard University Press.
-* Quine, W.V., 1951a, “Two Dogmas of Empiricism”, _Philosophical Review_, 60: 20–43; reprinted in his _From a Logical Point of View_, Cambridge, MA: Harvard University Press, rev. ed. 1980, pp. 20–46.
-* –––, 1951b, “_The Structure of Appearance_ by Nelson Goodman: Review”, _Journal of Philosophy_, 48(18): 556–63.
-* –––, 1981, _Theories and Things_, Cambridge, MA: Harvard University Press.
-* –––, 1985, _The Time of My Life: An Autobiography_, Cambridge, MA: MIT Press.
-* Rawls, John, 1971. _A Theory of Justice_, Cambridge, MA: Harvard University Press.
-* Ridder, Lothar, 2002, _Mereologie: Ein Beitrag zur Ontologie und Erkenntnistheorie_, Frankfurt: Klostermann.
+* –––, 1992b, *Renewing Philosophy*, Cambridge, MA: Harvard University Press.
+* Quine, W.V., 1951a, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43; reprinted in his *From a Logical Point of View*, Cambridge, MA: Harvard University Press, rev. ed. 1980, pp. 20–46.
+* –––, 1951b, “*The Structure of Appearance* by Nelson Goodman: Review”, *Journal of Philosophy*, 48(18): 556–63.
+* –––, 1981, *Theories and Things*, Cambridge, MA: Harvard University Press.
+* –––, 1985, *The Time of My Life: An Autobiography*, Cambridge, MA: MIT Press.
+* Rawls, John, 1971. *A Theory of Justice*, Cambridge, MA: Harvard University Press.
+* Ridder, Lothar, 2002, *Mereologie: Ein Beitrag zur Ontologie und Erkenntnistheorie*, Frankfurt: Klostermann.
 * Rossberg, Marcus, 2009, “Leonard, Goodman, and the Development of the Calculus of Individuals”, in Ernst et al. 2009: 51–69.
-* Rossberg, Marcus, and Daniel Cohnitz, 2009, “Logical Consequence for Nominalists”, _Theoria_, 65: 147–68.
-* Scheffler, Israel, 1979, “The Wonderful Worlds of Goodman \[abstract]”, _Journal of Philosophy_, 67: 618.
-* –––, 1980, “The Wonderful Worlds of Goodman”, _Synthese_, 45: 201–09.
-* –––, 2001, “My Quarrels with Nelson Goodman”, _Philosophy and Phenomenological Research_, 62: 665–77.
+* Rossberg, Marcus, and Daniel Cohnitz, 2009, “Logical Consequence for Nominalists”, *Theoria*, 65: 147–68.
+* Scheffler, Israel, 1979, “The Wonderful Worlds of Goodman \[abstract]”, *Journal of Philosophy*, 67: 618.
+* –––, 1980, “The Wonderful Worlds of Goodman”, *Synthese*, 45: 201–09.
+* –––, 2001, “My Quarrels with Nelson Goodman”, *Philosophy and Phenomenological Research*, 62: 665–77.
 * Scholz, Oliver, 2005, “In Memoriam: Nelson Goodman”, in Steinbrenner et al. 2005, 9–32.
-* Schwartz, Robert, 1999, “In Memoriam Nelson Goodman (August 7, 1906–November 25, 1998)”, _Erkenntnis_, 50: 7–10.
-* –––, 2000, “Starting from Scratch: Making Worlds”, _Erkenntnis_, 52: 151–59.
-* Simons, Peter M., 1987, _Parts: A Study in Ontology_, Oxford: Clarendon Press.
-* Stalker, Douglas (ed.), 1994, _Grue! The New Riddle of Induction_, Chicago: Open Court.
-* Steinbrenner, Jakob, Oliver R. Scholz, and Gerhard Ernst (eds.), 2005, _Symbole, Systeme, Welten_, Heidelberg: Synchron.
-* Tarski, Alfred, 1929, “Les fondements de la géométrie des corps”, _Annales de la Société Polonaise de Mathématique_ (Supplementary Volume), 7: 29–33. English translation of a revised version by J. H. Woodger as “Foundations of the Geometry of Solids”, in Tarski 1983: 24–29.
-* –––, 1935, “Zur Grundlegung der Booleschen Algebra. I”, _Fundamenta Mathematicae_, 24: 177–98. English translation by J. H. Woodger as “On the Foundations of the Boolean Algebra”, in Tarski 1983: 320–41.
-* –––, 1983, _Logics, Semantics, Metamathematics: Papers from 1923 to 1938_, ed. by J. H. Woodger and John Corcoran, Indianapolis: Hackett.
-* van Inwagen, Peter, 1990, _Material Beings_, Ithaca, NY: Cornell University Press.
-* White, Morten, 1948. “On the Church–Frege Solution of the Paradox of Analysis”, _Philosophy and Phenomenological Research_, 9: 305–8.
-* –––, 1950, “The Analytic and the Synthetic: An Untenable Dualism”, in S. Hook (ed.), _John Dewey: Philosopher of Science and Freedom_, New York: Dial Press, 316–30.
-* –––, 1999, _A Philosopher’s Story_, University Park, Penn.: Pennsylvania State University Press.
-* Whitehead, Alfred North, and Bertrand Russell, 1910–13, _Principia Mathematica_, 3 vols., Cambridge: Cambridge University Press.
-* Wright, Crispin, 1984, “Kripke’s Account of the Argument Against Private Language”, _Journal of Philosophy_, 81: 759–78.
+* Schwartz, Robert, 1999, “In Memoriam Nelson Goodman (August 7, 1906–November 25, 1998)”, *Erkenntnis*, 50: 7–10.
+* –––, 2000, “Starting from Scratch: Making Worlds”, *Erkenntnis*, 52: 151–59.
+* Simons, Peter M., 1987, *Parts: A Study in Ontology*, Oxford: Clarendon Press.
+* Stalker, Douglas (ed.), 1994, *Grue! The New Riddle of Induction*, Chicago: Open Court.
+* Steinbrenner, Jakob, Oliver R. Scholz, and Gerhard Ernst (eds.), 2005, *Symbole, Systeme, Welten*, Heidelberg: Synchron.
+* Tarski, Alfred, 1929, “Les fondements de la géométrie des corps”, *Annales de la Société Polonaise de Mathématique* (Supplementary Volume), 7: 29–33. English translation of a revised version by J. H. Woodger as “Foundations of the Geometry of Solids”, in Tarski 1983: 24–29.
+* –––, 1935, “Zur Grundlegung der Booleschen Algebra. I”, *Fundamenta Mathematicae*, 24: 177–98. English translation by J. H. Woodger as “On the Foundations of the Boolean Algebra”, in Tarski 1983: 320–41.
+* –––, 1983, *Logics, Semantics, Metamathematics: Papers from 1923 to 1938*, ed. by J. H. Woodger and John Corcoran, Indianapolis: Hackett.
+* van Inwagen, Peter, 1990, *Material Beings*, Ithaca, NY: Cornell University Press.
+* White, Morten, 1948. “On the Church–Frege Solution of the Paradox of Analysis”, *Philosophy and Phenomenological Research*, 9: 305–8.
+* –––, 1950, “The Analytic and the Synthetic: An Untenable Dualism”, in S. Hook (ed.), *John Dewey: Philosopher of Science and Freedom*, New York: Dial Press, 316–30.
+* –––, 1999, *A Philosopher’s Story*, University Park, Penn.: Pennsylvania State University Press.
+* Whitehead, Alfred North, and Bertrand Russell, 1910–13, *Principia Mathematica*, 3 vols., Cambridge: Cambridge University Press.
+* Wright, Crispin, 1984, “Kripke’s Account of the Argument Against Private Language”, *Journal of Philosophy*, 81: 759–78.
 
 ## Academic Tools
 
@@ -548,5 +547,5 @@ For attempts at compilations of Goodman’s complete corpus see Berka 1991, the 
 [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [Goodman, Nelson: aesthetics](https://plato.stanford.edu/entries/goodman-aesthetics/) | [induction: problem of](https://plato.stanford.edu/entries/induction-problem/) | [Leśniewski, Stanisław](https://plato.stanford.edu/entries/lesniewski/) | [Lewis, Clarence Irving](https://plato.stanford.edu/entries/lewis-ci/) | [logic: conditionals](https://plato.stanford.edu/entries/logic-conditionals/) | [mathematics, philosophy of: nominalism](https://plato.stanford.edu/entries/nominalism-mathematics/) | [mathematics, philosophy of: Platonism](https://plato.stanford.edu/entries/platonism-mathematics/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [Quine, Willard Van Orman](https://plato.stanford.edu/entries/quine/) | [reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/) | [relativism](https://plato.stanford.edu/entries/relativism/) | [Russell, Bertrand](https://plato.stanford.edu/entries/russell/) | [Vienna Circle](https://plato.stanford.edu/entries/vienna-circle/) | [Whitehead, Alfred North](https://plato.stanford.edu/entries/whitehead/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Daniel Cohnitz](https://www.uu.nl/staff/DCohnitz) <[_d.cohnitz@uu.nl_](mailto:d%2ecohnitz%40uu%2enl)>\
-[Marcus Rossberg](http://rossberg.philosophy.uconn.edu/) <[_marcus.rossberg@uconn.edu_](mailto:marcus%2erossberg%40uconn%2eedu)>
+[Daniel Cohnitz](https://www.uu.nl/staff/DCohnitz) <[*d.cohnitz@uu.nl*](mailto:d%2ecohnitz%40uu%2enl)>\
+[Marcus Rossberg](http://rossberg.philosophy.uconn.edu/) <[*marcus.rossberg@uconn.edu*](mailto:marcus%2erossberg%40uconn%2eedu)>

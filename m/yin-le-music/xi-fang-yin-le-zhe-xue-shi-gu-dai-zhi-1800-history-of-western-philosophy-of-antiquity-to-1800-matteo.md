@@ -12,7 +12,6 @@
 
 有关西方音乐哲学史的专著介绍，请参阅：Fubini 1991；Lippman 1992；Bowman 1998；Martinelli 2012 [2019]；Young 即将出版。经典著作的摘录收录在：Strunk 1950；Le Huray 和 Day 1981；Barker 1990；Lippman 1990；Katz 和 Dahlhaus 1993；Fubini 1994。
 
- 
 ---
 
 ## 1. 古代

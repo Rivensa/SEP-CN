@@ -1,12 +1,10 @@
 # 韩国儒学 Confucianism (Kevin N. Cawley)
 
-_首次发布于2021年11月24日星期三_
+*首次发布于2021年11月24日星期三*
 
 韩国人一直是亚洲知识史上的关键角色，并且在跨文化适应方面一直是伟大的传播者。中国的“三教”（佛教、儒学和道教）在公元 5 世纪已经传入韩国，并与当地的制度和文化相融合。韩国儒学家利用儒学思想，特别是那些倡导等级制度和道德领导的思想，来加强强大的国家官僚机构，为社会提供严格结构化和有组织的生活方式。在这种背景下，哲学思想与行动紧密联系，并对个人、家庭和国家（甚至世界）产生具体影响。儒学家并不特别关注个人的精神生活，而是寻求一条有组织的道路来创造伦理和社会引导的话语。不可避免地，不同的群体之间发生了冲突，并在思想上引发了一系列哲学辩论，这些辩论塑造了韩国儒学，尤其是在朝鲜王朝（1392-1910）成熟阶段，它的重新调整形式——新儒学，取代了佛教成为竞争对手的知识和哲学体系。
 
 下面的部分将追溯韩国儒学的主要思想和主题，并深入研究几场哲学辩论和关键哲学思想，同时强调韩国儒学的一个显著特点——圣人思想，这在 21 世纪对我们的生活具有潜在意义。
-
- 
 
 ***
 
@@ -28,11 +26,11 @@ _首次发布于2021年11月24日星期三_
 * 《大学》（Daxue），
 * Zhongyong (中庸) \[中庸], and
 * Mengzi (孟子) \[孟子].
-* (The _Daxue_ and _Zhongyong_ were originally separate chapters in the _Liji_—Record of Rites. See also [Other Internet Resources](https://plato.stanford.edu/entries/korean-confucianism/#Oth) for more information.)
+* (The *Daxue* and *Zhongyong* were originally separate chapters in the *Liji*—Record of Rites. See also [Other Internet Resources](https://plato.stanford.edu/entries/korean-confucianism/#Oth) for more information.)
 
 朱熹对佛教的严厉批评综合了后来儒学的形而上学发展，即所谓的新儒学，他的思想塑造了韩国新儒学的发展轨迹。此外，他对《四书》的注释（以及在某些情况下的重新组织和重新措辞）被认为是“正统”的，而其他解释则被视为异端。与此同时，韩国儒家明显地对待接受到的思想有不同的辩论方式，这使得韩国对儒学的贡献具有了更大的意义。
 
-人们通过一套特定的关系来校准自己的社会义务，在过去和现在都对韩国人来说至关重要。儒家的“五伦”（五倫，C. _wulun_, K. _oryun_）理念，其中每种关系都与特定的美德相关联，在《孟子》中得到了强调：
+人们通过一套特定的关系来校准自己的社会义务，在过去和现在都对韩国人来说至关重要。儒家的“五伦”（五倫，C. *wulun*, K. *oryun*）理念，其中每种关系都与特定的美德相关联，在《孟子》中得到了强调：
 
 > 父子之间应该有感情；君臣之间应该有正义；夫妻之间应该注意各自的职责；老幼之间应该保持适当的秩序；朋友之间应该保持忠诚。（3A:4; 翻译 SB-Chan: 69–70） 在韩国儒学传统中，社会地位和年龄对于维持社会等级有重要影响，而通过对这些关系的解释，女性特别处于不利地位，总是被期望服从于男性：父亲、丈夫和儿子（参见 Cawley 2018）。遵守这些明确界定的关系与一个“和谐”的社会相联系，通过履行自己的特定角色来实现和谐。然而，在这些关系中的“上级”应该是一个在道德和社会责任上负责任的个人，尤其是国王，他还有义务对他统治的人口负责，这是“圣学”（聖學，C. shengxue，K. sŏnghak）文献中反复出现的主题，塑造和定义了韩国新儒学。另一种关系，在韩国比在中国更加强调，就是孝道（孝，C. xiao，K. hyo）的概念。孝仍然是韩国儒学的一个核心特征，强调对父母和长辈的尊重。家庭中最年长的男性是最受尊敬的人，这也凸显了儒学在朝鲜半岛上促成的性别偏见，这在当今韩国是一个有争议的问题，得益于#MeToo 运动的推动。
 
@@ -58,7 +56,7 @@ _首次发布于2021年11月24日星期三_
 
 这种影响也延伸到了朝鲜，深深地扎根在那里。朱氏与陆祖谦（1137–1181）合著的关于新儒学思想的总集《近思录》成为了这一伟大哲学综合体的手册，并且对朝鲜这些思想的发展至关重要。朱熹侧重于自我修养，这是成为儒家圣人所必需的要素，也成为了朝鲜对这些思想解读的核心（Chan 1987: 122–124; Tillman 1992: 114–118）。
 
-然而，朱氏对程朱理学的理念的改编主导了它在朝鲜的接受（在这里，《理》用斜体表示，以区别于西方对这个关键新儒学术语的解释）。《理》被认为是世界上所有现实原则的原始理想的管理源，世间的一切都有其自己的个别原则，这是更大的非物质和普遍组织《理》的一部分。程颐甚至坚持认为《理》是一的，但其表现（或子原则）却是多样的，同时强调《理》在人类中，尤其是在人的心灵中达到了顶峰，人的心灵被赋予了其“善良”的人性（SB-Chan: 544）。在朝鲜，新儒学通常被称为《理学》（K. _ihak_），或《性理学》（K. _sŏngnihak_），突显了对形而上学的兴趣，这些形而上学被韩国学者们探索到了一个全新的微观层面（Keum 1980 \[2000]; Kang 2003 \[2006]）。
+然而，朱氏对程朱理学的理念的改编主导了它在朝鲜的接受（在这里，《理》用斜体表示，以区别于西方对这个关键新儒学术语的解释）。《理》被认为是世界上所有现实原则的原始理想的管理源，世间的一切都有其自己的个别原则，这是更大的非物质和普遍组织《理》的一部分。程颐甚至坚持认为《理》是一的，但其表现（或子原则）却是多样的，同时强调《理》在人类中，尤其是在人的心灵中达到了顶峰，人的心灵被赋予了其“善良”的人性（SB-Chan: 544）。在朝鲜，新儒学通常被称为《理学》（K. *ihak*），或《性理学》（K. *sŏngnihak*），突显了对形而上学的兴趣，这些形而上学被韩国学者们探索到了一个全新的微观层面（Keum 1980 \[2000]; Kang 2003 \[2006]）。
 
 虽然朱熹把《理》置于首位，但与此同时他也认识到《理》与物质力量的交织：
 
@@ -74,7 +72,7 @@ _首次发布于2021年11月24日星期三_
 
 这使他能够坚持人性善良的观念，因为《理》是善良的，而不好的是由于物质力量（参见Choi M.-H. 1980: 37–38; 稍作修改的翻译）。此外，他是朝鲜第一位讨论《理》和物质力量与人的心灵联系的新儒学者，将其与“四始”和“七情”联系起来：所谓的“四始”在《孟子》中被提到（2A:6; 见SB-Chan: 65）：恻隐之心，羞恶之心，辞让之心，是非之心，这些情感（当它们得到发展时）导致了儒家的基本德行（仁、义、礼、智）。仁被视为儒家最伟大的德行，常被翻译为仁慈或善良。所谓的“七情”在《礼记》的第九章中被提及：喜、怒、哀、惧、爱、恶、欲。权君将始于良好的四种情感与《理》联系起来，将可能不良的七情与物质力量联系起来，开启了一个直至今日仍在持续的元心理学连锁反应。这些思想在他的《天人心性合一之图》和《天人心性合一之图》中得到了巩固，而在权君看来，“天”指的是《理》在万物中的作用，包括人类心灵，因此，人的心灵与宇宙的道德《理》相联系，由圣人体现（见Halla Kim 2017: 1–23）。
 
-韩国儒家对儒学的这种反应（或者说反对）思婪禅的智慧发展，使得它与在韩国形成的禅宗学派有了共同的智慧。韩国禅学的思想在高丽时代僧人智训（1158–1210）的教导中达到了成熟，特别是他的《修心诀》。智训的方法认识到心灵是其佛性（本质）的本质，需要不断的修行和培养，以完善其功能，这汇集了韩国佛教传统中重要的本质功能（_che-yong_）特征，深深影响了朝鲜的新儒学思想。禅定坐法也塑造了新儒学对“静坐”的概念，“静坐存心”：安静地坐着，保持心灵（Palais 1996: 181）。
+韩国儒家对儒学的这种反应（或者说反对）思婪禅的智慧发展，使得它与在韩国形成的禅宗学派有了共同的智慧。韩国禅学的思想在高丽时代僧人智训（1158–1210）的教导中达到了成熟，特别是他的《修心诀》。智训的方法认识到心灵是其佛性（本质）的本质，需要不断的修行和培养，以完善其功能，这汇集了韩国佛教传统中重要的本质功能（*che-yong*）特征，深深影响了朝鲜的新儒学思想。禅定坐法也塑造了新儒学对“静坐”的概念，“静坐存心”：安静地坐着，保持心灵（Palais 1996: 181）。
 
 ### 2.2 新儒家思想与社会变革
 
@@ -104,7 +102,7 @@ _首次发布于2021年11月24日星期三_
 
 这些是后来的学者可能称之为“实用学习”或者是Sirhak的思想，通常被描述为在16世纪末的丰臣秀吉入侵之后出现的一种趋势，然而在这里，我们从朝鲜王朝初期的郑氏这里得到了非常实用的指导，或者更确切地说，是一种应用于与日常生活直接相关的问题的实用形式的“圣人”学习的开端。
 
-鄭道傳的较短的反佛教著作《论心、气、理》（《心气理辩》：45–53）已经突显了主导韩国新儒学的这一知识交汇点。它介绍了在当时韩国非常重要的主要形而上学问题，即心（心，文学作品中也称为心灵），物质力量（气），当然还有理，他将其描述为“心的内在德性，以及通过它产生物质力量”，并明确指出“只有理之后才有气”（《心气理辩》：50）。他讨论了他认为在佛教和道教的教义中的思想被错误解释和应用的问题，并通过《孟子》、《论语》、朱熹的著作以及《礼记》中的引文来证明他的反驳。钟的论证达到了一种对儒家主义的激进拥护，他赞美了这些形而上学思想的实践和直接社会含义，将其与佛教和道教对空虚和虚无的强调进行了对比，他认为这些对于世俗世界的事物毫无意义（《心气理辩》：53）。钟的观点的哲学含义与现世事务有关，而不是其他传统的推测性精神倾向，他认为这取决于神灵，这些神灵可以奖励或惩罚。钟坚称需要自己探究自己的人性和心灵，而不是依赖呼唤灵魂来做这件事的教义，主张儒家的做法是通过适当的儒家教育保持心灵中的优良之物，并滋养物质力量以控制身体欲望（《心气理辩》：51）。这种双焦点方法将被后来的新儒家哲学家大大阐明，他们主张一种通过理赋予我们的心灵“自然”地完全发展人性（K. _in_）的方法。
+鄭道傳的较短的反佛教著作《论心、气、理》（《心气理辩》：45–53）已经突显了主导韩国新儒学的这一知识交汇点。它介绍了在当时韩国非常重要的主要形而上学问题，即心（心，文学作品中也称为心灵），物质力量（气），当然还有理，他将其描述为“心的内在德性，以及通过它产生物质力量”，并明确指出“只有理之后才有气”（《心气理辩》：50）。他讨论了他认为在佛教和道教的教义中的思想被错误解释和应用的问题，并通过《孟子》、《论语》、朱熹的著作以及《礼记》中的引文来证明他的反驳。钟的论证达到了一种对儒家主义的激进拥护，他赞美了这些形而上学思想的实践和直接社会含义，将其与佛教和道教对空虚和虚无的强调进行了对比，他认为这些对于世俗世界的事物毫无意义（《心气理辩》：53）。钟的观点的哲学含义与现世事务有关，而不是其他传统的推测性精神倾向，他认为这取决于神灵，这些神灵可以奖励或惩罚。钟坚称需要自己探究自己的人性和心灵，而不是依赖呼唤灵魂来做这件事的教义，主张儒家的做法是通过适当的儒家教育保持心灵中的优良之物，并滋养物质力量以控制身体欲望（《心气理辩》：51）。这种双焦点方法将被后来的新儒家哲学家大大阐明，他们主张一种通过理赋予我们的心灵“自然”地完全发展人性（K. *in*）的方法。
 
 钟的《普示杂编》已由穆勒（2015年）翻译为《对佛教的批评各论》。这本书列举了19个批评，钟将它们逐一系统地加以论述，包括重要的佛教教义，如轮回和因果报应。儒家的目标，牢固地专注于此生，不关心关于来世的空谈。一开始，钟（《普示杂编》：59–61）批评了佛教对心灵（心）和人性（性）的解释，并批评高丽僧侣智训“模糊的假设”，缺乏“确凿的事实”，指责佛教徒“玩文字游戏”，同时又缺乏明确的教义。钟解释说，儒家认为心是由“出生时从天上带来的物质力量”组成的，而心灵本身是通过人性在出生时通过理赋予的（《普示杂编》：59）。他强调了儒家“实际”方面的“功能”，而佛教徒认为这完全是虚幻的，并引用了程颐的格言，
 
@@ -132,7 +130,7 @@ _首次发布于2021年11月24日星期三_
 
 事实上，日本的新儒家学者，如山崎闇斋（1618–1682），认为退溪是“韩国最伟大的儒家”，甚至暗示他与朱熹本人不相上下（Pak 1983: 69）。
 
-退溪的《十图》代表了当时韩国这一新儒家思潮的最好综合，它是整个朝鲜王朝中被复制最多的文本之一，甚至盖过了栗谷的文本。退溪的文本由中国和韩国的新儒家学者的图表集合组成，包括三幅退溪自己创作的图表，这些图表阐明了朱熹的主要教义，以及退溪对它们的综合和分析，特别是通过他对心灵（K. _sim_）的关注，尽管是通过一种注重_Kyŏng_（敬）的方法论方法来引导的。_Kyŏng_通常被翻译为严肃，但退溪重新定位了这个术语的用法，强调心灵对自己思想和行为的掌控，这导致Michael Kalton（1985: 212–214）将其翻译为“正念”，而金亨灿（2018: 27–32）则使用“敬畏的正念”一词。在这种非常儒家重新对佛教概念的再探索中，正念反映了退溪对圣人境界的看法：日常实践不断注意心灵，控制其冲动，使良好的思想能够导致良好的行为。
+退溪的《十图》代表了当时韩国这一新儒家思潮的最好综合，它是整个朝鲜王朝中被复制最多的文本之一，甚至盖过了栗谷的文本。退溪的文本由中国和韩国的新儒家学者的图表集合组成，包括三幅退溪自己创作的图表，这些图表阐明了朱熹的主要教义，以及退溪对它们的综合和分析，特别是通过他对心灵（K. *sim*）的关注，尽管是通过一种注重_Kyŏng_（敬）的方法论方法来引导的。_Kyŏng_通常被翻译为严肃，但退溪重新定位了这个术语的用法，强调心灵对自己思想和行为的掌控，这导致Michael Kalton（1985: 212–214）将其翻译为“正念”，而金亨灿（2018: 27–32）则使用“敬畏的正念”一词。在这种非常儒家重新对佛教概念的再探索中，正念反映了退溪对圣人境界的看法：日常实践不断注意心灵，控制其冲动，使良好的思想能够导致良好的行为。
 
 第一和第二个图表反映了新儒学本体论宇宙观的基础：
 
@@ -140,7 +138,7 @@ _首次发布于2021年11月24日星期三_
 2. 张载的《西铭图》（K. Sŏmyŏngdo）
 3. (see [Kalton’s translations online](https://faculty.washington.edu/mkalton/10dia%20contents%20web.htm)).
 
-它们为我们提供了一个清晰的轮廓，展示了一个道德相互关联的新儒家视野的宇宙。第一个图表将至高无上（_太极_）确定为_理_，它产生阴阳，然后通过五行具象化，第二个图表进一步具体化了在物质世界中更大起源性_理_的组织方面，展示了其内在的按层次划分的秩序。_理_反映在万物中，因此被用来验证人类社会关系以及统治者和臣民、长辈和晚辈等之间的区别。接下来的三个图表都涉及儒家道德人文教育的基本基础：《初学图》、《大学图》和《白鹿洞书院章程图》，后者是朱熹自己的学习隐居中心的规定。这种教育体现了儒家的道德，是理解心灵和人性更复杂问题的基础。_初学图_是退溪自己根据朱熹同名著作中的原始图表而创作的，这本书在韩国被广泛研究。与此同时，《大学图》是由权君创作的，出现在他上面提到的图表集中，强调了道德教育在韩国新儒家传统中的重要性。 这是退溪的收藏中的第六张图，我们可以找到他对“四七”问题的观点，这个问题最早由权坤提出，但实际上是在回答以下问题：如果人性完全善良，为什么人们会做“不好的事情”，以及为什么会有负面情绪？这是儒学新儒家面临的难题，就像欧洲的斯科拉学派试图解释为什么会有邪恶，如果他们的上帝是善良的一样。迈克尔·卡尔顿（1985 年：119）将下面概述的后续辩论描述为“李朝最重要的知识争议”，最终与原理和物质力量在人性和心灵方面的不同作用、相互作用和重要性有关。退溪的第六张图实际上分为三个部分，与“心统性情图”有关，它们描述了心灵的不同但相互关联的方面：
+它们为我们提供了一个清晰的轮廓，展示了一个道德相互关联的新儒家视野的宇宙。第一个图表将至高无上（*太极*）确定为_理_，它产生阴阳，然后通过五行具象化，第二个图表进一步具体化了在物质世界中更大起源性_理_的组织方面，展示了其内在的按层次划分的秩序。_理_反映在万物中，因此被用来验证人类社会关系以及统治者和臣民、长辈和晚辈等之间的区别。接下来的三个图表都涉及儒家道德人文教育的基本基础：《初学图》、《大学图》和《白鹿洞书院章程图》，后者是朱熹自己的学习隐居中心的规定。这种教育体现了儒家的道德，是理解心灵和人性更复杂问题的基础。_初学图_是退溪自己根据朱熹同名著作中的原始图表而创作的，这本书在韩国被广泛研究。与此同时，《大学图》是由权君创作的，出现在他上面提到的图表集中，强调了道德教育在韩国新儒家传统中的重要性。 这是退溪的收藏中的第六张图，我们可以找到他对“四七”问题的观点，这个问题最早由权坤提出，但实际上是在回答以下问题：如果人性完全善良，为什么人们会做“不好的事情”，以及为什么会有负面情绪？这是儒学新儒家面临的难题，就像欧洲的斯科拉学派试图解释为什么会有邪恶，如果他们的上帝是善良的一样。迈克尔·卡尔顿（1985 年：119）将下面概述的后续辩论描述为“李朝最重要的知识争议”，最终与原理和物质力量在人性和心灵方面的不同作用、相互作用和重要性有关。退溪的第六张图实际上分为三个部分，与“心统性情图”有关，它们描述了心灵的不同但相互关联的方面：
 
 1. “未发状态”（未發，韩国儒学：未發），与四个开端和纯粹的原理相关，
 2. 与物质力量相互作用时，与“已发状态”（已發，韩国儒学：已發）相关的七种情感。
@@ -223,7 +221,7 @@ Richard Kim（2017: 90）指出，这些问题成为辩论的“基本问题”�
 
 在《中庸讲义补》中，太山（九格遗余堂全书：卷 1：390）质疑了“太极图”（这为退隐的本体宇宙论提供了基础）与原始儒学思想之间的联系，指出“它是在孔子之后一千多年才写的”，因此根本不在“原始”的儒学中。在另一篇文章《孟子要义》中，太山指出，这个代表至高无上的圆圈在\[五]经典中根本没有出现。（《孟子要义》：383）
 
-> the circle in this diagram which represents the Supreme Ultimate does not appear anywhere in the \[Five] Classics. (_Maengja yoŭi_: 383)
+> the circle in this diagram which represents the Supreme Ultimate does not appear anywhere in the \[Five] Classics. (*Maengja yoŭi*: 383)
 
 Tasan, 类似于利玛窦，将他的思想从这些被广泛接受的新儒家形而上学规范中重新定位，以全知的 Sangje 为基础，为他的道德框架提供了一种替代基础。正是 Sangje 重新稳定了 Tasan 重新概念化的本体神学宇宙观，将其与理、至高无上、阴阳以及五行解开。正是 Sangje 使 Tasan 的哲学朝向神论导向。在约 1812 年写成的《春秋考徵》中，他问道：“Sangje 是谁？”，并回答道
 
@@ -266,85 +264,85 @@ See the supplementary document [(Figures and their Works)](https://plato.stanfor
 ### Primary Literature
 
 * Book of Rites, Li Yun 禮運, \[[Book of Rites available online](https://ctext.org/liji/li-yun)].
-* Chan, Wing-Tsit (trans.), \[SB-Chan], 1963, _A Sourcebook in Chinese Philosophy_, Wing-Tsit Chan (trans./ed.), Princeton, NJ: Princeton University Press.
-* –––, 1967, _Reflections on Things at Hand: The Neo-Confucian Anthology compiled by Chu Hsi and Lü Tsu-Ch’ien_, New York: Columbia University Press.
-* Chŏng Tojŏn (Sambong), _Sambong-jib_ (三峯集) \[Collected Works of Sambong], Seoul: Kuksa p’yŏnch’an wiwŏnhoe, 1961.
-* –––, _Pulssi Chappyŏn_ (佛氏雜辨) \[_Array of Critiques of Mr. Buddha_]. Translated to Muller 2015: 54–81.
-* –––, _Simgiri p’yŏn_ (心氣理篇) \[On Mind, Material Force and Principle]. Translated to English in Muller 2015: 45–53.
-* \[SB-BB] De Bary, Wm Theodore and Irene Bloom (eds), 1999, _Sources of Chinese Tradition_, volume 1, New York: Columbia University Press.
-* Hamhǒ Kihwa, _Hyǒnjǒng-non_ (顯正論) \[_The Exposition of the Correct_]. Translated to Muller 2015: 82–110.
-* \[SB-Lee]––– (ed.), 1993, _Sourcebook of Korean Civilization, Volume 1: From Early Times to the Sixteenth Century_, New York: Columbia University Press.
-* Robinson, David M. (trans.), 2016, _Seeking Order in a Tumultuous Age: The Writings of Chŏng Tojŏn, a Korean Neo-Confucian_, Honolulu, HI: University of Hawai’i Press.
-* Rousseau, Jean Jacques, 1762, _Du contrat social; ou Principes du droit politique_ (The Social Contract), Amsterdam: Mark Michel Rey.
-* T’oegye (Yi Hwang), _Ten Diagrams on Sage Learning_, translated with original text as _To Become a Sage_, Michael C. Kalton (trans./ed.), New York: Columbia University Press. \[[_To Become a Sage_ available online](https://faculty.washington.edu/mkalton/)]
-* Tasan (Chŏng Yagyong; Yŏyudang), _Ch’unch’u kojing_ (春秋考徵) \[Evidential Analysis of the _Spring and Summer Annals_].
-* –––, _Mongmin simsǒ_ (牧民心書) \[Admonitions on Governing the People]. \[[_Mongmin simsǒ_ available online](https://db.itkc.or.kr/dir/item?itemId=GO#/dir/node?dataId=ITKC\MP\0597A\1210)]
-* –––, _Kugyŏk yŏyudang chŏnsŏ_ (國譯 與猶堂全書) \[Korean Translation of Collected Writings of Yŏyudang], translated by Chŏnju taehakyo honamhakyŏnguso (ed.), with original Chinese text, vol. 1, Seoul: Chŏnju taehakyo honamhakyŏnguso, 1986.
-* –––, _Maengja yoŭi_ (孟子要義) \[The Essentials of The Mencius], Seoul: Hyundae sirhaksa, 1994.
-* Yi Ik (Sŏngho), _Sŏngho sasŏl_ (星湖僿說) \[Sŏngho’s Selected Writings], vol. iii, translated by Chŏng Haeryŏm, Hyŏndae sirhaksa: Seoul, 1998.
-* Yi Sugwang (Chibong), _Chibong yusŏl_ (芝峯類說) \[Classified Writings of Chibong], Seoul: Hyŏndae sirhaksa, 2000.
+* Chan, Wing-Tsit (trans.), \[SB-Chan], 1963, *A Sourcebook in Chinese Philosophy*, Wing-Tsit Chan (trans./ed.), Princeton, NJ: Princeton University Press.
+* –––, 1967, *Reflections on Things at Hand: The Neo-Confucian Anthology compiled by Chu Hsi and Lü Tsu-Ch’ien*, New York: Columbia University Press.
+* Chŏng Tojŏn (Sambong), *Sambong-jib* (三峯集) \[Collected Works of Sambong], Seoul: Kuksa p’yŏnch’an wiwŏnhoe, 1961.
+* –––, *Pulssi Chappyŏn* (佛氏雜辨) \[*Array of Critiques of Mr. Buddha*]. Translated to Muller 2015: 54–81.
+* –––, *Simgiri p’yŏn* (心氣理篇) \[On Mind, Material Force and Principle]. Translated to English in Muller 2015: 45–53.
+* \[SB-BB] De Bary, Wm Theodore and Irene Bloom (eds), 1999, *Sources of Chinese Tradition*, volume 1, New York: Columbia University Press.
+* Hamhǒ Kihwa, *Hyǒnjǒng-non* (顯正論) \[*The Exposition of the Correct*]. Translated to Muller 2015: 82–110.
+* \[SB-Lee]––– (ed.), 1993, *Sourcebook of Korean Civilization, Volume 1: From Early Times to the Sixteenth Century*, New York: Columbia University Press.
+* Robinson, David M. (trans.), 2016, *Seeking Order in a Tumultuous Age: The Writings of Chŏng Tojŏn, a Korean Neo-Confucian*, Honolulu, HI: University of Hawai’i Press.
+* Rousseau, Jean Jacques, 1762, *Du contrat social; ou Principes du droit politique* (The Social Contract), Amsterdam: Mark Michel Rey.
+* T’oegye (Yi Hwang), *Ten Diagrams on Sage Learning*, translated with original text as *To Become a Sage*, Michael C. Kalton (trans./ed.), New York: Columbia University Press. \[[*To Become a Sage* available online](https://faculty.washington.edu/mkalton/)]
+* Tasan (Chŏng Yagyong; Yŏyudang), *Ch’unch’u kojing* (春秋考徵) \[Evidential Analysis of the *Spring and Summer Annals*].
+* –––, *Mongmin simsǒ* (牧民心書) \[Admonitions on Governing the People]. \[[*Mongmin simsǒ* available online](https://db.itkc.or.kr/dir/item?itemId=GO#/dir/node?dataId=ITKC\MP\0597A\1210)]
+* –––, *Kugyŏk yŏyudang chŏnsŏ* (國譯 與猶堂全書) \[Korean Translation of Collected Writings of Yŏyudang], translated by Chŏnju taehakyo honamhakyŏnguso (ed.), with original Chinese text, vol. 1, Seoul: Chŏnju taehakyo honamhakyŏnguso, 1986.
+* –––, *Maengja yoŭi* (孟子要義) \[The Essentials of The Mencius], Seoul: Hyundae sirhaksa, 1994.
+* Yi Ik (Sŏngho), *Sŏngho sasŏl* (星湖僿說) \[Sŏngho’s Selected Writings], vol. iii, translated by Chŏng Haeryŏm, Hyŏndae sirhaksa: Seoul, 1998.
+* Yi Sugwang (Chibong), *Chibong yusŏl* (芝峯類說) \[Classified Writings of Chibong], Seoul: Hyŏndae sirhaksa, 2000.
 
 ### Secondary Literature
 
-* Ames, Roger T. and Henry Rosemont Jr (trans.), 1998, _The Analects of Confucius: A Philosophical Translation_, New York: Ballantine Books.
-* Back, Youngsun and Philip J. Ivanhoe (eds.), 2017, _Traditional Korean Philosophy: Problems and Debates_, (East Asian Comparative Ethics, Politics and Philosophy of Law), New York: Rowman & Littlefield.
-* Cawley, Kevin N., 2014a, “Dis-Assembling Traditions: Deconstructing Tasan _via_ Matteo Ricci”, _Journal of the Royal Asiatic Society of Great Britain & Ireland_, 24(2): 297–313. doi:10.1017/S1356186313000783
-* –––, 2014b, “‘Traces of the Same within the Other’: Deconstructing Tasan’s Christo-Confucianology”, _Tasanhak: The Journal of Tasan Studies_, 24(2): 71–106.
-* –––, 2015, “Dangerous Women in the Early Catholic Church in Korea”, in _Religious Transformation in Modern Asia_, David W. Kim (ed.), Leiden: Brill, 76–97.
-* –––, 2018, “Reinforced Hetero-Normativity: Gender Constructs in Chosŏn (朝鮮) Korea”, _Irish Journal of Asian Studies_, 4: 39–52.
-* –––, 2019, _Religious and Philosophical Traditions of Korea_, New York: Routledge.
-* Chan, Wing-Tsit (trans.), 1987, _Chu Hsi and his Thought_, Hong Kong: The Chinese University Press.
-* Choi, Byonghyon (trans.), 2010, _Admonitions on Governing the People – Chŏng Yagyong_, Berkeley, CA: University of California.
-* Choi Min-Hong, 1980, _A Modern History of Korean Philosophy_, Seoul: Seong Moon-sa.
-* Choi Young-jin 2011, “The Horak Debate in Eighteenth-Century Joseon”, _Korea Journal_, 51(1): 5–13.
+* Ames, Roger T. and Henry Rosemont Jr (trans.), 1998, *The Analects of Confucius: A Philosophical Translation*, New York: Ballantine Books.
+* Back, Youngsun and Philip J. Ivanhoe (eds.), 2017, *Traditional Korean Philosophy: Problems and Debates*, (East Asian Comparative Ethics, Politics and Philosophy of Law), New York: Rowman & Littlefield.
+* Cawley, Kevin N., 2014a, “Dis-Assembling Traditions: Deconstructing Tasan *via* Matteo Ricci”, *Journal of the Royal Asiatic Society of Great Britain & Ireland*, 24(2): 297–313. doi:10.1017/S1356186313000783
+* –––, 2014b, “‘Traces of the Same within the Other’: Deconstructing Tasan’s Christo-Confucianology”, *Tasanhak: The Journal of Tasan Studies*, 24(2): 71–106.
+* –––, 2015, “Dangerous Women in the Early Catholic Church in Korea”, in *Religious Transformation in Modern Asia*, David W. Kim (ed.), Leiden: Brill, 76–97.
+* –––, 2018, “Reinforced Hetero-Normativity: Gender Constructs in Chosŏn (朝鮮) Korea”, *Irish Journal of Asian Studies*, 4: 39–52.
+* –––, 2019, *Religious and Philosophical Traditions of Korea*, New York: Routledge.
+* Chan, Wing-Tsit (trans.), 1987, *Chu Hsi and his Thought*, Hong Kong: The Chinese University Press.
+* Choi, Byonghyon (trans.), 2010, *Admonitions on Governing the People – Chŏng Yagyong*, Berkeley, CA: University of California.
+* Choi Min-Hong, 1980, *A Modern History of Korean Philosophy*, Seoul: Seong Moon-sa.
+* Choi Young-jin 2011, “The Horak Debate in Eighteenth-Century Joseon”, *Korea Journal*, 51(1): 5–13.
 * Chung, Chai-sik, 1985, “Chǒng Tojǒn: Architect of Yi Dynasty Government and Ideology”, in de Bary and Haboush 1985a: 59–88.
-* Chung, Edward Y.J., 1995, _The Korean Neo-Confucianism of Yi T’oegye and Yi Yulgok: A Reappraisal of the “Four-Seven Thesis” and Its Practical Implications for Self-Cultivation_, Albany, NY: University of New York Press.
-* Creel, Herrlee, 1971, _Chinese Thought from Confucius to Mao Tse-tung_, Chicago: University of Chicago Press.
-* De Bary, Wm Theodore and JaHyun Kim Haboush (eds), 1985a, _The Rise of Neo-Confucianism in Korea_, New York: Columbia University Press.
-* –––, 1985b, “Introduction”, in Wm. Theodore de Bary and JaHyun Kim Haboush (eds.), _The Rise of Neo-Confucianism in Korea,_ New York: Columbia University Press, 1–53.
-* Deuchler, Martina, 1992, _The Confucian Transformation of Korea_, Cambridge, MA: Harvard University Press.
-* –––, 2004, “NeoConfucianism in the Early Joseon Dynasty: Some Reflections on the Role of _Ye_”, in KNC 2004: 43–54.
-* Fairbank, John King and Merle Goldman, 1999, _China: A New History_, second enlarged edition, Cambridge, MA: Harvard University Press.
-* Fung Yu-lan, 1937 \[1983], _A History of Chinese Philosophy_, vol 1, Derk Bodde (trans.), Peiping: Henri Vetch. Reprinted Princeton, NJ: Princeton University Press, 1983.
-* Han, Hyoung-jo, 2016, “_Lixue_ (理學 _Ihak_), the Lost Art: Confucianism as a form of the cultivation of mind”, _Educational Philosophy and Theory_ 48(1): 75–84. doi:10.1080/00131857.2015.1087300
-* Ha Sŏngnae (ed.), 2000, _Ch’ŏnju kasa charyojip, Che 1 p’an_ (천주 가사 자료집, 제 1판) \[Collection of Catholic Hymns, vol. 1], Seoul: Kat’ollik taehakkyo ch’ulpanbu.
+* Chung, Edward Y.J., 1995, *The Korean Neo-Confucianism of Yi T’oegye and Yi Yulgok: A Reappraisal of the “Four-Seven Thesis” and Its Practical Implications for Self-Cultivation*, Albany, NY: University of New York Press.
+* Creel, Herrlee, 1971, *Chinese Thought from Confucius to Mao Tse-tung*, Chicago: University of Chicago Press.
+* De Bary, Wm Theodore and JaHyun Kim Haboush (eds), 1985a, *The Rise of Neo-Confucianism in Korea*, New York: Columbia University Press.
+* –––, 1985b, “Introduction”, in Wm. Theodore de Bary and JaHyun Kim Haboush (eds.), *The Rise of Neo-Confucianism in Korea,* New York: Columbia University Press, 1–53.
+* Deuchler, Martina, 1992, *The Confucian Transformation of Korea*, Cambridge, MA: Harvard University Press.
+* –––, 2004, “NeoConfucianism in the Early Joseon Dynasty: Some Reflections on the Role of *Ye*”, in KNC 2004: 43–54.
+* Fairbank, John King and Merle Goldman, 1999, *China: A New History*, second enlarged edition, Cambridge, MA: Harvard University Press.
+* Fung Yu-lan, 1937 \[1983], *A History of Chinese Philosophy*, vol 1, Derk Bodde (trans.), Peiping: Henri Vetch. Reprinted Princeton, NJ: Princeton University Press, 1983.
+* Han, Hyoung-jo, 2016, “*Lixue* (理學 *Ihak*), the Lost Art: Confucianism as a form of the cultivation of mind”, *Educational Philosophy and Theory* 48(1): 75–84. doi:10.1080/00131857.2015.1087300
+* Ha Sŏngnae (ed.), 2000, *Ch’ŏnju kasa charyojip, Che 1 p’an* (천주 가사 자료집, 제 1판) \[Collection of Catholic Hymns, vol. 1], Seoul: Kat’ollik taehakkyo ch’ulpanbu.
 * Kalton, Michael C. (trans.), 1985, “The Writings of Kwǒn Kǔn: The Context and Shape of Early Yi Dynasty Neo-Confucianism”, in de Bary and Haboush 1985a: 89–124.
-* –––, 1994, _The Four-Seven Debate, An Annotated Translation of the Most Famous Controversy in Korean Neo-Confucian Thought,_ Albany, NY: The State University of New York Press.
-* Kang Jae-eun, 2003 \[2006], _The Land of Scholars: Two Thousand Years of Korean Confucianism_, Korea: Hangilsa Publishing. Translated by Suzanne Lee, Paramus, NJ: Homa & Sekey Books.
-* Keum, Jang-tae, 1980 \[2000], _Yugyo wa Hanʼguk sasang_, Seoul: Sŏnggyunʼgwan Taehakkyo Chʻulpʻanbu. Translated as _Confucianism and Korean Thoughts_, Lee Yong-ju and Kim Yun-song (trans), Seoul: Jimoondang Publishing Company.
-* Kim, Halla, 2017, “From Structure to Action: The Concepts of Substance (_che_ 體) and ‘Function’ (_yong_ 用) in Gwon Geun’s Philosophy”, in Back and Ivanhoe 2017: 1–23.
-* Kim, Hyoungchan, 2018, _Korean Confucianism: The Philosophy and Politics of Toegye and Yulgok_, New York: Rowman and Littlefield.
+* –––, 1994, *The Four-Seven Debate, An Annotated Translation of the Most Famous Controversy in Korean Neo-Confucian Thought,* Albany, NY: The State University of New York Press.
+* Kang Jae-eun, 2003 \[2006], *The Land of Scholars: Two Thousand Years of Korean Confucianism*, Korea: Hangilsa Publishing. Translated by Suzanne Lee, Paramus, NJ: Homa & Sekey Books.
+* Keum, Jang-tae, 1980 \[2000], *Yugyo wa Hanʼguk sasang*, Seoul: Sŏnggyunʼgwan Taehakkyo Chʻulpʻanbu. Translated as *Confucianism and Korean Thoughts*, Lee Yong-ju and Kim Yun-song (trans), Seoul: Jimoondang Publishing Company.
+* Kim, Halla, 2017, “From Structure to Action: The Concepts of Substance (*che* 體) and ‘Function’ (*yong* 用) in Gwon Geun’s Philosophy”, in Back and Ivanhoe 2017: 1–23.
+* Kim, Hyoungchan, 2018, *Korean Confucianism: The Philosophy and Politics of Toegye and Yulgok*, New York: Rowman and Littlefield.
 * Kim, Richard, 2017, “Human Nature and Animal Nature: The Horak Debate and its Philosophical Significance”, in Back and Ivanhoe 2017: 85–109.
-* Kim Shin-ja (ed.), 1987, _Pyŏkwipyŏn_ (闢衛編) \[Writings Against Heterodoxy], Seoul: Myŏngmundang.
-* Kim, Shin-Ja, 2006 \[2010], _Philosophische Denken von Tasan Chŏng_, Frankfurt am Main: Peter Lang. Translated as _The Philosophical Thought of Tasan Chŏng_, Tobias J. Körtner (trans.), Frankfurt: Peter Lang.
+* Kim Shin-ja (ed.), 1987, *Pyŏkwipyŏn* (闢衛編) \[Writings Against Heterodoxy], Seoul: Myŏngmundang.
+* Kim, Shin-Ja, 2006 \[2010], *Philosophische Denken von Tasan Chŏng*, Frankfurt am Main: Peter Lang. Translated as *The Philosophical Thought of Tasan Chŏng*, Tobias J. Körtner (trans.), Frankfurt: Peter Lang.
 * Kim, Sungmoon, 2017, “The Way to Become a Female Sage”, in Back and Ivanhoe 2017: 177–196.
-* Kim Youngmin, 2007, “Female Confucians in Chosŏn”, in _Religions of Korea in Practice_, Robert E. Buswell Jr. (ed.), Princeton: Princeton University Press, pp. 223–230.
+* Kim Youngmin, 2007, “Female Confucians in Chosŏn”, in *Religions of Korea in Practice*, Robert E. Buswell Jr. (ed.), Princeton: Princeton University Press, pp. 223–230.
 * Kim, Yung Sik, 2017, “Another Look at Yi Hwang’s Views about Li and Qi”, in Back and Ivanhoe 2017: 25–47.
-* \[KNC] Korean National Commission for UNESCO (eds.), 2004, _Korean Philosophy: Its Tradition and Modern Transformation_, Seoul: Hollym.
-* Lee, Cheon-Sung, 2011, “_Philosophical Implications of the Discussion of Mibal in the Horak Debate of the Late Joseon Period_”, _Korea Journal_, 51(1): 97–117.
-* Lee, Peter H. (trans.), 1969, _Lives of Eminent Korean Monks: The Haedong Kosŭng Chŏn_, Cambridge, MA: Harvard University Press.
-* Lee, Peter H. and Wm Theodore De Bary, (eds.), 1997, _Sources of the Korean Tradition: From the Sixteenth to the Twentieth Century_, New York: Columbia University Press.
-* Lee Sang Wha, 2005, “Patriarchy and Confucianism”, _Women’s Experiences and Feminist Practices in South Korea,_ Chang Pilwha and Kim Eun-Shil (eds), Seoul: Ehwa Woman’s University Press, pp. 67–117.
-* Min, Anselm (ed.), 2016, _Korean Religions in Relation: Buddhism, Confucianism and Christianity_, Albany, NY: SUNY Press.
-* Muller, A. Charles, 1999, “The Buddhist-Confucian Conflict in Early Chosŏn and Kihwa’s Syncretic Response: The _Hyŏn chŏng nŏn_”, _The Review of Korean Studies_, 2: 183–200.
-* –––, 2015, _Korea’s Great Buddhist-Confucian Debate: The Treatises of Chŏng Tojŏn (Sambong) and Hamhŏ Tŭkt’ong (Kihwa)_, Honolulu: University of Hawai‘i Press.
-* Naoaki, Hiraishi, 2003, “The Essence of Li (Rites) and Its Modern Significance”, _Sungkyun Journal of East Asian Studies_, 13(2): 179–189.
-* Nietzsche, Friedrick, 1887 \[1997], _Zur Genealogie der Moral: Eine Streitschrift_, Germany. Translated as _On the Genealogy of Morals_, translated and edited by Douglas Smith, Oxford: Oxford University Press, 1997.
-* Oh, Kang-nam, 1993, “Sagehood and Metanoia: The Confucian-Christian Encounter in Korea”, _Journal of the American Academy of Religion_, 61(2): 303–320. doi:10.1093/jaarel/LXI.2.303
-* Pak Chŏng-hong, 1983, “Historical Review of Korean Confucianism”, in _Main Currents of Korean Thought_, Korean National Commission for UNESCO (eds.), Seoul: Sisa-oyong sa Publishers, pp. 60–81.
-* Palais, James B., 1996, _Confucian Statecraft and Korean Institutions: Yu Hyŏngwŏn and the Late Chosŏn Dynasty_, Seattle, WA: University of Washington Press.
+* \[KNC] Korean National Commission for UNESCO (eds.), 2004, *Korean Philosophy: Its Tradition and Modern Transformation*, Seoul: Hollym.
+* Lee, Cheon-Sung, 2011, “*Philosophical Implications of the Discussion of Mibal in the Horak Debate of the Late Joseon Period*”, *Korea Journal*, 51(1): 97–117.
+* Lee, Peter H. (trans.), 1969, *Lives of Eminent Korean Monks: The Haedong Kosŭng Chŏn*, Cambridge, MA: Harvard University Press.
+* Lee, Peter H. and Wm Theodore De Bary, (eds.), 1997, *Sources of the Korean Tradition: From the Sixteenth to the Twentieth Century*, New York: Columbia University Press.
+* Lee Sang Wha, 2005, “Patriarchy and Confucianism”, *Women’s Experiences and Feminist Practices in South Korea,* Chang Pilwha and Kim Eun-Shil (eds), Seoul: Ehwa Woman’s University Press, pp. 67–117.
+* Min, Anselm (ed.), 2016, *Korean Religions in Relation: Buddhism, Confucianism and Christianity*, Albany, NY: SUNY Press.
+* Muller, A. Charles, 1999, “The Buddhist-Confucian Conflict in Early Chosŏn and Kihwa’s Syncretic Response: The *Hyŏn chŏng nŏn*”, *The Review of Korean Studies*, 2: 183–200.
+* –––, 2015, *Korea’s Great Buddhist-Confucian Debate: The Treatises of Chŏng Tojŏn (Sambong) and Hamhŏ Tŭkt’ong (Kihwa)*, Honolulu: University of Hawai‘i Press.
+* Naoaki, Hiraishi, 2003, “The Essence of Li (Rites) and Its Modern Significance”, *Sungkyun Journal of East Asian Studies*, 13(2): 179–189.
+* Nietzsche, Friedrick, 1887 \[1997], *Zur Genealogie der Moral: Eine Streitschrift*, Germany. Translated as *On the Genealogy of Morals*, translated and edited by Douglas Smith, Oxford: Oxford University Press, 1997.
+* Oh, Kang-nam, 1993, “Sagehood and Metanoia: The Confucian-Christian Encounter in Korea”, *Journal of the American Academy of Religion*, 61(2): 303–320. doi:10.1093/jaarel/LXI.2.303
+* Pak Chŏng-hong, 1983, “Historical Review of Korean Confucianism”, in *Main Currents of Korean Thought*, Korean National Commission for UNESCO (eds.), Seoul: Sisa-oyong sa Publishers, pp. 60–81.
+* Palais, James B., 1996, *Confucian Statecraft and Korean Institutions: Yu Hyŏngwŏn and the Late Chosŏn Dynasty*, Seattle, WA: University of Washington Press.
 * Park, Chong-hong, 2004, “The Empiricism of Choe Han-gi”, in KNC 2004: 373–396.
 * Ricci, Matteo S.J. (1985), The True Meaning of the Lord of Heaven (T’ien-chu Shi-i), Chinese-English edition, Edward J. Malatesa, (ed.), St.Louis: The Institute of Jesuit Resources.
-* Ro, Young-chan, 1989, _The Korean Neo-Confucianism of Yi Yulkok_, Albany, NY: State University of New York.
+* Ro, Young-chan, 1989, *The Korean Neo-Confucianism of Yi Yulkok*, Albany, NY: State University of New York.
 * –––, 2017, “Yi Yulgok and his Contributions to Korean Confucianism: A Non-dualistic Approach”, in Back and Ivanhoe 2017: 69–83.
-* Seoh, Munsang, 1977, “The Ultimate Concerns of Yi Korean Confucianism: An Analysis of the _I-Ki_ Debates”, _Occasional Papers on Korea_, 5: 20–66.
-* Seok, Bongrae, 2019, “Moral Metaphysics and Moral Psychology of Korean Neo-Confucianism: Explanation of the Moral Mind and Emotion in the Four-Seven Debate”, _Irish Journal of Asian Studies_, 5: 11–28.
-* Setton, Mark, 1989, “Tasan’s Practical Learning”, _Philosophy East and West_, 39(4): 377–392. doi:10.2307/1399315
-* –––, 1997, _Chŏng Yagyong: Korea’s Challenge to Orthodox Neo-Confucianism_, Albany, NY: SUNY Press.
-* Sohn, Pokee, 2000, _Social History of the Early Chosŏn Dynasty: The Functional Aspects of Governmental Structure_, Seoul: Jisik-samup Publications Co.
-* Thiébault, Philippe, 2006, _La Pensée Coréene_, Gémenos: Éditions Autres Temps.
-* Tillman, Hoyt Cleveland, 1992, _Confucian Discourse and Chu Hsi’s Ascendancy_, Honolulu, HI: University Hawai‘i Press:.
-* Yun Sasoon (尹 絲淳 著), 1980 \[1990], _Tʻoegye chʻŏrhak ŭi yŏngu_ (退溪 哲學 의 硏究), Sŏul : Koryŏ Taehakkyo Chʻulpʻanbu. Translated as _Critical Issues in Neo-Confucian Thought: The Philosophy of Yi T’oegye_, Michael C. Kalton (trans.), Seoul: Korea University Press, 1990.
+* Seoh, Munsang, 1977, “The Ultimate Concerns of Yi Korean Confucianism: An Analysis of the *I-Ki* Debates”, *Occasional Papers on Korea*, 5: 20–66.
+* Seok, Bongrae, 2019, “Moral Metaphysics and Moral Psychology of Korean Neo-Confucianism: Explanation of the Moral Mind and Emotion in the Four-Seven Debate”, *Irish Journal of Asian Studies*, 5: 11–28.
+* Setton, Mark, 1989, “Tasan’s Practical Learning”, *Philosophy East and West*, 39(4): 377–392. doi:10.2307/1399315
+* –––, 1997, *Chŏng Yagyong: Korea’s Challenge to Orthodox Neo-Confucianism*, Albany, NY: SUNY Press.
+* Sohn, Pokee, 2000, *Social History of the Early Chosŏn Dynasty: The Functional Aspects of Governmental Structure*, Seoul: Jisik-samup Publications Co.
+* Thiébault, Philippe, 2006, *La Pensée Coréene*, Gémenos: Éditions Autres Temps.
+* Tillman, Hoyt Cleveland, 1992, *Confucian Discourse and Chu Hsi’s Ascendancy*, Honolulu, HI: University Hawai‘i Press:.
+* Yun Sasoon (尹 絲淳 著), 1980 \[1990], *Tʻoegye chʻŏrhak ŭi yŏngu* (退溪 哲學 의 硏究), Sŏul : Koryŏ Taehakkyo Chʻulpʻanbu. Translated as *Critical Issues in Neo-Confucian Thought: The Philosophy of Yi T’oegye*, Michael C. Kalton (trans.), Seoul: Korea University Press, 1990.
 
 ## Academic Tools
 
@@ -358,14 +356,14 @@ See the supplementary document [(Figures and their Works)](https://plato.stanfor
 
 * [Chinese Text Project](https://ctext.org/pre-qin-and-han), searchable Confucian texts online (original with English translation).
 * From [ChinaKnowledge.de](http://www.chinaknowledge.de/) information on
-  * [_Lunyu_](http://www.chinaknowledge.de/Literature/Classics/lunyu.html) (論語) \[The Analects]
-  * [_Daxue_](http://www.chinaknowledge.de/Literature/Classics/daxue.html) (大學) \[The Great Learning]
-  * [_Zhongyong_](http://www.chinaknowledge.de/Literature/Classics/zhongyong.html) (中庸) \[The Doctrine of the Mean]
-  * [_Mengzi_](http://www.chinaknowledge.de/Literature/Classics/mengzi.html) (孟子) \[The Mencius]
+  * [*Lunyu*](http://www.chinaknowledge.de/Literature/Classics/lunyu.html) (論語) \[The Analects]
+  * [*Daxue*](http://www.chinaknowledge.de/Literature/Classics/daxue.html) (大學) \[The Great Learning]
+  * [*Zhongyong*](http://www.chinaknowledge.de/Literature/Classics/zhongyong.html) (中庸) \[The Doctrine of the Mean]
+  * [*Mengzi*](http://www.chinaknowledge.de/Literature/Classics/mengzi.html) (孟子) \[The Mencius]
 
 ## Related Entries
 
 [Chinese Philosophy: Song-Ming Confucianism](https://plato.stanford.edu/entries/song-ming-confucianism/) | [Confucius](https://plato.stanford.edu/entries/confucius/) | [Mencius](https://plato.stanford.edu/entries/mencius/) | [Xunzi](https://plato.stanford.edu/entries/xunzi/) | [Zhu Xi](https://plato.stanford.edu/entries/zhu-xi/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Kevin N. Cawley](http://research.ucc.ie/profiles/A026/kcawley) <[_k.cawley@ucc.ie_](mailto:k%2ecawley%40ucc%2eie)>
+[Kevin N. Cawley](http://research.ucc.ie/profiles/A026/kcawley) <[*k.cawley@ucc.ie*](mailto:k%2ecawley%40ucc%2eie)>

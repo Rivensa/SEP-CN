@@ -14,13 +14,11 @@ The Taophilosophy has always worked to be a welcoming and respectful community, 
   
 * when we disagree, try to understand why.
   
-
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to communicate and participate in the community.
 
 This code of conduct applies to all spaces managed by the Taophilosophy project. This includes online chat, mailing lists, bug trackers, Taophilosophy events such as the developer meetings and socials, and any other forums created by the project that the community uses for communication. It applies to all of your communication and conduct in these spaces, including emails, chats, things you say, slides, videos, posters, signs, or even t-shirts you display in these spaces. In addition, violations of this code outside these spaces may, in rare cases, affect a person’s ability to participate within them, when the conduct amounts to an egregious violation of this code.
 
 If you believe someone is violating the code of conduct, we ask that you report it issues.
-
 
 * **Be friendly and patient.**
   
@@ -33,28 +31,25 @@ If you believe someone is violating the code of conduct, we ask that you report 
 * **Be careful in the words that you choose and be kind to others.** Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable. This includes, but is not limited to:
   
   * Violent threats or language directed against another person.
-    
+
   * Discriminatory jokes and language.
-    
+
   * Posting sexually explicit or violent material.
-    
+
   * Posting (or threatening to post) other people’s personally identifying information ("doxing").
-    
+
   * Personal insults, especially those using racist or sexist terms.
-    
+
   * Unwelcome sexual attention.
-    
+
   * Advocating for, or encouraging, any of the above behavior.
-    
 
 * **In general, if someone asks you to stop, then stop.** Persisting in such behavior after being asked to stop is considered harassment.
   
 * **When we disagree, try to understand why.** Disagreements, both social and technical, happen all the time and Taophilosophy is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Taophilosophy comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
   
-
 ## Questions?
 
 If you have questions, please feel free to contact the Taophilosophy Code of Conduct Committee by issues.
 
 (This text is based on the LLVM Project’s [draft CoC](https://llvm.org/docs/CodeOfConduct.html), which in turn is based on the [Django Project](https://www.djangoproject.com/conduct/) Code of Conduct, which is in turn based on wording from the Speak Up! project.)
-

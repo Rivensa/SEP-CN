@@ -1,10 +1,8 @@
 # 理查德·基尔文顿 Kilvington, Richard (Elzbieta Jung)
 
-_首次发表于2001年8月7日；实质性修订于2022年9月6日_
+*首次发表于2001年8月7日；实质性修订于2022年9月6日*
 
 理查德·基尔文顿（约 1302 年-1361 年），牛津大学文学硕士和神学博士，曾是理查德·德·伯里的家属，后来成为伦敦总教区的副主教，最终成为伦敦圣保罗大教堂的主教。与托马斯·布拉德沃丁一起，他代表了牛津计算学派的第一代学者。尽管他在逻辑学、自然哲学和神学方面带来了新的思想和方法，并影响了他的同时代人和追随者，但直到最近他才受到较少的研究。
-
- 
 
 ***
 
@@ -129,30 +127,30 @@ _首次发表于2001年8月7日；实质性修订于2022年9月6日_
 
 List of Abbreviations
 
-* \[DM]_Utrum in omni motu potentia motoris excedit potentiam rei motae_
-* \[DV] _Utrum quilibet actus voluntatis per se malus sit per se aliquid_
+* \[DM]*Utrum in omni motu potentia motoris excedit potentiam rei motae*
+* \[DV] *Utrum quilibet actus voluntatis per se malus sit per se aliquid*
 
 #### Manuscripts of Kilvington’s Texts
 
-_**Quaestiones super libros De generatione et corruptione**_:
+***Quaestiones super libros De generatione et corruptione***:
 
-1\. _Utrum generatio sit transmutatio distincta ab alteratione._
+1\. *Utrum generatio sit transmutatio distincta ab alteratione.*
 
-2\. _Utrum continuum sit divisibile in infinitum_.
+2\. *Utrum continuum sit divisibile in infinitum*.
 
-3\. _Utrum augmentatio sit motus ad quantitatem_.
+3\. *Utrum augmentatio sit motus ad quantitatem*.
 
-4\. _Utrum omnia elementa sint adinvicem transmutabilia_.
+4\. *Utrum omnia elementa sint adinvicem transmutabilia*.
 
-5\. _Utrum omnis actio sit ratione contrarietatis_.
+5\. *Utrum omnis actio sit ratione contrarietatis*.
 
-6\. _Utrum mixtio sit miscibilium alteratorum unio_.
+6\. *Utrum mixtio sit miscibilium alteratorum unio*.
 
-7\. _Utrum numerus elementorum sit aequalis numero qualitatum primarum_.
+7\. *Utrum numerus elementorum sit aequalis numero qualitatum primarum*.
 
-8\. _Utrum omnia contraria sint activa et passiva adinvicem_.
+8\. *Utrum omnia contraria sint activa et passiva adinvicem*.
 
-9\. _Utrum ex omnibus duobus elementis possit tertium generari_.
+9\. *Utrum ex omnibus duobus elementis possit tertium generari*.
 
 * Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 20vb–50vb (questions 1–9).
 * Cambridge: Peterhouse Library, Ms. 195, fols. 60ra–81rb (questions 1–4).
@@ -162,30 +160,30 @@ _**Quaestiones super libros De generatione et corruptione**_:
 * Sevilla: Biblioteca Capitular y Colombina, Ms. 7–7–13, fols. 9ra–27ra (questions 1–9).
 * Firenze: Biblioteca Nationale Centrale, Cod. Conv. Soppr. B. VI. 1681, fols. 37ra–77vb (questions 1–8, question 7 is interrupted).
 
-_**Quaestiones super libros Physicorum**_:
+***Quaestiones super libros Physicorum***:
 
-_Expositio super primum librum Physicorum_.
+*Expositio super primum librum Physicorum*.
 
-1\. _Utrum omne scitum sciatur per causam_.
+1\. *Utrum omne scitum sciatur per causam*.
 
-2\. _Utrum omne quod generetur ex contrariis generetur_.
+2\. *Utrum omne quod generetur ex contrariis generetur*.
 
-3\. _Utrum in omni generatione tria principia requirantur_.
+3\. *Utrum in omni generatione tria principia requirantur*.
 
-4\. _Utrum omnis natura sit principium motus et quietis_.
+4\. *Utrum omnis natura sit principium motus et quietis*.
 
-5\. _Utrum potentia motoris excedit potentiam rei motae_. \[_De Motu_ = DM]
+5\. *Utrum potentia motoris excedit potentiam rei motae*. \[*De Motu* = DM]
 
-6\. _Utrum qualitas suscipit magis et minus_.
+6\. *Utrum qualitas suscipit magis et minus*.
 
-7\. _Utrum aliquod motus simplex possit moveri aeque velociter in vacuo et in pleno_.
+7\. *Utrum aliquod motus simplex possit moveri aeque velociter in vacuo et in pleno*.
 
-8\. _Utrum omne transmutatum in transmutationis initio sit in eo ad quod primitus transmutatur_.
+8\. *Utrum omne transmutatum in transmutationis initio sit in eo ad quod primitus transmutatur*.
 
 * Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 41va–50vb (question 3).
 * Cambridge: Peterhouse Library, Ms. 195, fols. 70rb–72ra (question 6).
 * Città del Vaticano: Biblioteca Apostolica Vaticana, Ms. Vat. lat. 2148, fols. 71ra–76vb (question 6, part of question 5).
-* Città del Vaticano: Biblioteca Apostolica Vaticana, Ms. Vat. lat. 4353, fols. 124v–143v (_expositio_, question 1, part of question 2).
+* Città del Vaticano: Biblioteca Apostolica Vaticana, Ms. Vat. lat. 4353, fols. 124v–143v (*expositio*, question 1, part of question 2).
 * Città del Vaticano: Biblioteca Apostolica Vaticana, Ms. Vat. lat. 4429, fols. 64r–70v (part of question 6).
 * Erfurt: Universitätsbibliothek, Dep. Erf., CA O. 74, fols. 70ra–86va (question 3).
 * Oxford: Bodleian Library, Ms. Canon. Misc. 226, fols. 61v–65r (question 6).
@@ -195,27 +193,27 @@ _Expositio super primum librum Physicorum_.
 * Sevilla: Biblioteca Capitular y Colombina, Ms. 7–7–13, fols. 27ra–50vb (questions 2–4).
 * Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 \[2810], fols. 81ra–112rb (questions 5–8).
 
-_**Quaestiones super libros Ethicorum Questiones super libros Ethicorum**_\*\*:\*\*
+***Quaestiones super libros Ethicorum Questiones super libros Ethicorum***\*\*:\*\*
 
-1\. _Utrum omnis virtus moralis ex operibus generetur_.
+1\. *Utrum omnis virtus moralis ex operibus generetur*.
 
-2\. _Utrum virtutes morales ex defectu aut superabundantia corrumpatur_.
+2\. *Utrum virtutes morales ex defectu aut superabundantia corrumpatur*.
 
-3\. _Utrum quilibet virtuosus in operibus sibi propriis delectetur_.
+3\. *Utrum quilibet virtuosus in operibus sibi propriis delectetur*.
 
-4\. _Utrum voluntas suos actus producat libere_.
+4\. *Utrum voluntas suos actus producat libere*.
 
-5\. _Utrum fortitudo sit medietas circa audaciam et timores_.
+5\. *Utrum fortitudo sit medietas circa audaciam et timores*.
 
-6\. _Utrum male operantes sint a legislatoribus puniendi_.
+6\. *Utrum male operantes sint a legislatoribus puniendi*.
 
-7\. _Utrum liberalitas sit circa pecunias medietas_.
+7\. *Utrum liberalitas sit circa pecunias medietas*.
 
-8\. _Utrum magnanimus dignificeret se honoribus sibi dignis_.
+8\. *Utrum magnanimus dignificeret se honoribus sibi dignis*.
 
-9\. _Utrum iustitia sit virtus moralis perfecta_.
+9\. *Utrum iustitia sit virtus moralis perfecta*.
 
-10\. _Utrum prudentia sit habitus cum recta ratione activus circa hominis bona et mala_.
+10\. *Utrum prudentia sit habitus cum recta ratione activus circa hominis bona et mala*.
 
 * Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 51ra–79va (questions 1–10).
 * Città del Vaticano: Biblioteca Apostolica Vaticana, Cod. Urb. Lat, fols. 256ra–287vb (questions 1–10).
@@ -231,23 +229,23 @@ _**Quaestiones super libros Ethicorum Questiones super libros Ethicorum**_\*\*:\
 * Wien: Ősterreischische Nationalbibliothek, Cod. Lat. 5431, fols. 292ra–337r (10 complete questions).
 * Wrocław: Bibl. Uniw. IV.F.198, fols. 118ra-132rb (1–4 questions, question 5 is interrupted).
 
-_**Questiones super libros Sententiarum Questiones super libros Sententiarum**_:
+***Questiones super libros Sententiarum Questiones super libros Sententiarum***:
 
-1\. _Utrum Deus sit super omnia diligendus_.
+1\. *Utrum Deus sit super omnia diligendus*.
 
-2\. _Utrum per opera meritoria augeatur habitus caritatis quo Deus est super omnia diligendus_.
+2\. *Utrum per opera meritoria augeatur habitus caritatis quo Deus est super omnia diligendus*.
 
-3\. _Utrum omnis creatura sit suae naturae certis limitibus circumscripta_.
+3\. *Utrum omnis creatura sit suae naturae certis limitibus circumscripta*.
 
-4\. _Utrum quilibet actus voluntatis per se malus sit per se aliquid_. \[_De Voluntate_ = DV]
+4\. *Utrum quilibet actus voluntatis per se malus sit per se aliquid*. \[*De Voluntate* = DV]
 
-5\. _Utrum peccans mortaliter per instans solum mereatur puniri per infinita instantia interpolata_.
+5\. *Utrum peccans mortaliter per instans solum mereatur puniri per infinita instantia interpolata*.
 
-6\. _Utrum aliquis nisi forte in poena peccati possit esse perplexus in his quae pertinent ad salutem_.
+6\. *Utrum aliquis nisi forte in poena peccati possit esse perplexus in his quae pertinent ad salutem*.
 
-7\. _Utrum omnis actus factus extra gratiam sit peccatum_.
+7\. *Utrum omnis actus factus extra gratiam sit peccatum*.
 
-8\. _Utrum aliquis possit simul peccare venialiter et mereri vitam aeternam_.
+8\. *Utrum aliquis possit simul peccare venialiter et mereri vitam aeternam*.
 
 * Bologna: Biblioteca Comunale dell’Archiginnasio, Ms. 985, fols. 1ra–52va (questions 1–8).
 * Brugge: Stedelijke Openbare Bibliotheek, Ms. 188, fols. 3ra–54vb (questions 1–4, and parts of questions 5, 7, 8).
@@ -264,61 +262,61 @@ _**Questiones super libros Sententiarum Questiones super libros Sententiarum**_:
 
 #### Critical Edition and Translation
 
-* Richardus Kilvington, _Sophismata_, in Norman Kretzmann, Barbara Ensign Kretzmann, critical edition of the Latin text, New York: Oxford University Press, 1990, 1–151.
-* Richard Kilvington, _The Sophismata_, in Norman Kretzmann, Barbara Ensign Kretzmann, _The Sophismata of Richard Kilvington: Introduction, Translation, and Commentary_, New York: Cambridge University Press, 1990.
-* Ricardus Kilvington, _Utrum continuum sit divisibile in infinitum_, in Robert Podkoński (ed.), _Mediaevalia Philosophica Polonorum_, 36(2) (2007), 120–75.&#x20;
-* Ryszard Kilvington, _Kwestie o ruchu_, in Elżbieta Jung, _Arystoteles na nowo odczytany_. _Ryszarda Kilvingtona “Kwestie o ruchu”_ \[_Rereading of Aristotle. Richard Kilvington’s “Quaestions on motion”_, Introduction, Translation into Polish], Łódź: University of Łódź Press, 2014, 107–316.
-* Ricardus Kilvington, _Quaestiones super libros Ethicorum_ (Studien und Texte zur Geistesgeschichte des Mittelalters 121). Leiden-Boston: Brill, 2016, 63–336 \[a critical edition using Lübeck: Bibliothek der Hansestadt, Cod. Philos. 4 as the basic manuscript; the apparatus records eleven mss, Kraków and Wrocław mss are not examined].
-* Ricardus Kilvington, _Utrum potentia motoris excedit potentiam rei motae_, Elżbieta Jung (ed.), in Elżbieta Jung and Robert Podkoński, _Towards the Modern Theory of Motion: Oxford Calculators and the New Interpretation of Aristotle_ (Research on Science & Natural Philosophy 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 2020, 213–266 \[an edition is based on ms Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 \[2810].&#x20;
-* Ricardus Kilvington, _Utrum potentia motoris excedit potentiam rei motae_, Elżbieta Jung (ed.), in Elżbieta Jung and Robert Podkoński, _Towards the Modern Theory of Motion: Oxford Calculators and the New Interpretation of Aristotle_ (Research on Science & Natural Philosophy 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 2020, 213–266 \[an edition is based on ms Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 \[2810].&#x20;
-* Ricardus Kilvington, _Utrum omnis creatura sit suae naturae certis limitibus crcumscripta_, in Monika Michałowska, _Richard Kilvington on the Capacity of Created Beings, Infinity, and Being Simultaneously in Rome and Paris:_ _Critical Edition of Question 3_ _from Quaestiones super libros Sententiarum_, (Studien und Texte zur Geistesgeschichte des Mittelalters 130), Leiden–Boston: Brill, 2021, 77–181, \[a critical edition using Bologna: Biblioteca Comunale dell’Archiginnasio, Ms. 985 as the basic manuscript; the apparatus records eight mss].
-* Ricardus Kilvington, _Utrum quilibet actus volutatis per se malus sit per se aliquid_, Jung, Elżbieta, Michałowska, Monika (eds), in Elżbieta Jung, Monika Michałowska, _Richard Kilvington Talks to Thomas Bradwardine about Future Contingents, Free Will, and Predestination: A Critical Edition of Question 4 from “Quaestiones super libros Sententiarum_”, (Studien und Texte zur Geistesgeschichte des Mittelalters 134), Leiden–Boston: Brill, 2022 \[a critical edition using Bologna: Biblioteca Comunale dell’Archiginnasio, Ms. 985 as the basic manuscript; the apparatus records five mss].
+* Richardus Kilvington, *Sophismata*, in Norman Kretzmann, Barbara Ensign Kretzmann, critical edition of the Latin text, New York: Oxford University Press, 1990, 1–151.
+* Richard Kilvington, *The Sophismata*, in Norman Kretzmann, Barbara Ensign Kretzmann, *The Sophismata of Richard Kilvington: Introduction, Translation, and Commentary*, New York: Cambridge University Press, 1990.
+* Ricardus Kilvington, *Utrum continuum sit divisibile in infinitum*, in Robert Podkoński (ed.), *Mediaevalia Philosophica Polonorum*, 36(2) (2007), 120–75.&#x20;
+* Ryszard Kilvington, *Kwestie o ruchu*, in Elżbieta Jung, *Arystoteles na nowo odczytany*. *Ryszarda Kilvingtona “Kwestie o ruchu”* \[*Rereading of Aristotle. Richard Kilvington’s “Quaestions on motion”*, Introduction, Translation into Polish], Łódź: University of Łódź Press, 2014, 107–316.
+* Ricardus Kilvington, *Quaestiones super libros Ethicorum* (Studien und Texte zur Geistesgeschichte des Mittelalters 121). Leiden-Boston: Brill, 2016, 63–336 \[a critical edition using Lübeck: Bibliothek der Hansestadt, Cod. Philos. 4 as the basic manuscript; the apparatus records eleven mss, Kraków and Wrocław mss are not examined].
+* Ricardus Kilvington, *Utrum potentia motoris excedit potentiam rei motae*, Elżbieta Jung (ed.), in Elżbieta Jung and Robert Podkoński, *Towards the Modern Theory of Motion: Oxford Calculators and the New Interpretation of Aristotle* (Research on Science & Natural Philosophy 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 2020, 213–266 \[an edition is based on ms Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 \[2810].&#x20;
+* Ricardus Kilvington, *Utrum potentia motoris excedit potentiam rei motae*, Elżbieta Jung (ed.), in Elżbieta Jung and Robert Podkoński, *Towards the Modern Theory of Motion: Oxford Calculators and the New Interpretation of Aristotle* (Research on Science & Natural Philosophy 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego, 2020, 213–266 \[an edition is based on ms Venezia: Biblioteca Nazionale Marciana, Ms. lat. VI. 72 \[2810].&#x20;
+* Ricardus Kilvington, *Utrum omnis creatura sit suae naturae certis limitibus crcumscripta*, in Monika Michałowska, *Richard Kilvington on the Capacity of Created Beings, Infinity, and Being Simultaneously in Rome and Paris:* *Critical Edition of Question 3* *from Quaestiones super libros Sententiarum*, (Studien und Texte zur Geistesgeschichte des Mittelalters 130), Leiden–Boston: Brill, 2021, 77–181, \[a critical edition using Bologna: Biblioteca Comunale dell’Archiginnasio, Ms. 985 as the basic manuscript; the apparatus records eight mss].
+* Ricardus Kilvington, *Utrum quilibet actus volutatis per se malus sit per se aliquid*, Jung, Elżbieta, Michałowska, Monika (eds), in Elżbieta Jung, Monika Michałowska, *Richard Kilvington Talks to Thomas Bradwardine about Future Contingents, Free Will, and Predestination: A Critical Edition of Question 4 from “Quaestiones super libros Sententiarum*”, (Studien und Texte zur Geistesgeschichte des Mittelalters 134), Leiden–Boston: Brill, 2022 \[a critical edition using Bologna: Biblioteca Comunale dell’Archiginnasio, Ms. 985 as the basic manuscript; the apparatus records five mss].
 
 ### Secondary Literature
 
-* Bottin, Francesco, 1973a, ‘Analisi linguistica e fisica Aristotelica nei “Sophysmata” di Ricardi Kilmyngton’, in C. Giacon (ed.), _Filosofia e Politica, et altri sagii_, Padua: 125–45.
-* –––, 1973b, ‘L’_Opinio de Insolubilibus_ di Richard Kilmyngon,’ _Rivista critica di Storia della Filosofia_, 28: 409–22.
-* –––, 1974, ‘Un testo fondamentale nell’ambito della “nuova fisica” di Oxford: I Sophismata di Richard Kilmington’, _Miscellanea Medievalia_, 9: 201–205.
-* Courtenay, William J., 1990, _Capacity and Volition. A History of the Distinction of Absolute and Ordained Power_, Bergamo, Italy: Pierluigi Lubrina.
-* Dumont, Stephen D., 1995, ‘The Origin of Scotus’s Theory of Synchronic Contingency’, _The Modern Schoolman_, 72: 149–67.
-* Fedriga, Ricardo, and Monika Michałowska, forthcoming, _Safeguarding Free Will: William Ockham, Walter Chatton, and Richard Kilvington on the Will_, Kraków: Ksiegarnia Akademicka, forthcoming.
-* Jung, Elżbieta, 2016, ‘Mathematics and the _Secundum Imaginationem_ Procedure in Richard Kilvington’, _Przegład Tomistyczny_, XXII: 109–20.
-* –––, 2022a, ‘The New Interpretation of Aristotle. Richard Kilvington, Thomas Bradwardine and the New Rule of Motion,’ in: _Quantifying Aristotle. The Impact, Spread and Decline of the_ Calculatores _Tradition_, D. Di Liscia, E. D. Sylla (eds) in collaboration with P.J.J.M. Bakker\*,\* (Medieval and Early Modern Philosophy of Science 34), Leiden–Boston: Brill, 37–78.
-* –––, 2022b, ‘Controversy on Infinity between Richard FitzRalph and Richard Kilvington,’ in _A Companion to Richard FitzRalph. Fourteenth-Century Scholar, Bishop, and Polemicist_, M. W. Dunne, S. Nolan (eds.), Leiden–Boston: Brill, (forthcoming).
-* Jung-Palczewska, Elżbieta, 1997, ‘Motion in a Vacuum and in a Plenum in Richard Kilvington’s Question: _Utrum aliquod corpus simplex posset moveri aeque velociter in vacuo et in pleno_ from the “Commentary on the Physics”’, _Miscellanea Medievalia_, 25: 179–93.
-* –––, 2000a, ‘The Concept of Time in Richard Kilvington’, in L. Cova and G. Alliney (eds.), _Tempus, Aevum, Eternity. La Conzettualizzazione del tempo nel Pensiero Tardomiedievale_, Firenze: Leo S. Olschki, 141–67.
-* –––, 2000b, ‘Works by Richard Kilvington’, _Archives d’Histoire Doctrinale et Littéraire du Moyen Age_, 67: 181–223.
-* –––, 2002a, _Między filozofią przyrody i nowożytnym przyrodoznawstwem._ _Ryszard Kilvington i fizyka matematyczna w średniowieczu_ (_Between Philosophy of Nature and Science. Richard Kilvington and Mathematical Physics in the Middle Ages_), Łódź: University of Łódź.
-* –––, 2002b, ‘Richard Kilvington on Local Motion’, in P. Bakker (ed.), _Chemins de la pensée médiévale._ _Etudes offertes a Zénon Kaluza_, Turnhout: Brepols, 113–33.
-* Jung, Elżbieta, and Monika Michałowska, 2008, ‘Jak być sprawiedliwym? Ryszarda Kilvingtona komentarz do Etyki Arystotelesa \[What Does It Mean To Be Just? Richard Kilivngton’s Commentary on Aristotle’s _Ethics_]’, _Roczniki Filozoficzne_, 56(2): 117–29.&#x20;
-* –––, 2022, _Richard Kilvington Talks to Thomas Bradwardine about Future Contingents, Free Will, and Predestination: A Critical Edition of Question 4 from “Quaestiones super libros Sententiarum_”, (Studien und Texte zur Geistesgeschichte des Mittelalters 134), Leiden–Boston: Brill.
-* Jung, Elżbieta, and Robert Podkoński, 2008, ‘Richard Kilvington on Proportions’, in J. Biard, S. Rommevaux (eds.), _Mathématiques et théorie du mouvement XIVe-XVIe siècle_, Villeneuve d’Ascq: Presses Universitaires du Septentrion, 80–101.
-* –––, 2009a, ‘Richard Kilvington on continuity’, in C. Grellard and A. Robert (eds.), _Atomism in Late Medieval Philosophy and Theology_, Leiden-Boston: Brill, 65–84.
-* –––, 2009b, ‘The Transmission of English Ideas in the Fourteenth Century—the Case of Richard Kilvington’, _Mediaevalia Philosophica Polonorum_, 37(3): 59–69.
-* –––, _Towards the Modern Theory of Motion: Oxford Calculators and the New Interpretation of Aristotle_, 2020, (Research on Science & Natural Philosophy 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego.
-* Katz, Bernard, D., 1996, ‘On a _Sophisma_ of Richard Kilvington and a Problem of Analysis’, _Medieval Philosophy and Theology_, 5: 31–38.
-* Knuuttila, Simo and Anja Inkeri Lehtinen, 1979, ‘_Plato in infinitum remisse incipit esse albus_: New texts on the Late Medieval Discussion on the Concept of Infinity in Sophismata Literature’, in E. Saarinen, R. Hilpinen, I. Niiniluoto, and M. B. P. Hintikka (eds.), _Essays in Honor of Jaakko Hintikka_, Dordrecht: D. Reidel, 309–329.
-* Kretzmann, Norman, 1977, ‘Socrates is Whiter than Plato Begins to be White’, _Noûs_, 11: 3–15.
-* –––, 1982, ‘Richard Kilvington and the Logic of Instantaneous Speed’, in A. Maierù and A. Paravicini-Bagliani (eds.), _Studi sul secolo in memoria di Annelise Maier_ (Edizioni di Storia e Letteratura 151), Rome.
-* –––, 1988, ‘“_Tu scis hoc esse omne quod est hoc_”: Richard Kilvington and the Logic of Knowledge’, in N. Kretzman (ed.), _Meaning and Inference in Medieval Philosophy_, Dordrecht: Kluwer, 225–45.
-* Michałowska, Monika, 2009, ‘Kilvington’s Concept of Prudence in the _Questions on Ethics_’, _Mediaevalia Philosophica Polonorum_, 37(3): 85–94.
-* –––, 2010, ‘Czy mądry jest roztropny? Roztropność i wiedza moralna wobec działań woli w komentarzu do _Etyki nikomachejskiej_ Ryszarda Kilvingtona \[Is Prudence Always Wise? The Role of Prudence and Moral Knowledge in Acts of Will in Richard Kilvington’s Commentary on the _Nicomachean Ethics_]’, _Przegląd Tomistyczny_, 16: 1–17
-* –––, 2011a, ‘Kilvington’s Use of Physical and Logical Arguments in Ethical Dilemmas’, _Documenti e Studi sulla Tradizione Filosofie Medievale_, XXII: 464–492.
-* –––, 2011b, Richard Kilvington’s _Quaestiones super libros Ethicorum_, _Builletin de Philosohie Médiévale_, 53: 233–282.
-* –––, 2016, _Woluntarystyczny dynamizm, czyli koncepcja woli w “Kwestiach do Etyki” Ryszarda Kilvingtona_ \[Dynamic Voluntarism: The Concept of the Will in Richard Kilvington’s _Questions on the Ethics_], Kraków: Księgarnia Akademicka.
-* –––, 2018, _Richard Kilvington on the Capacity of Created Beings, Infinity, and Being Simultaneously in Rome and Paris:_ _Critical Edition of Question 3_ _from Quaestiones super libros Sententiarum_, (Studien und Texte zur Geistesgeschichte des Mittelalters 130), Leiden–Boston: Brill.
-* –––, 2019, ‘The Concept of Habit in Richard Kilvington’s Ethics,’ in _The Ontology, Phsychology and Axiology of Habits (Habitus) in Medieval Philosohy_, N. Faucher, M. Roques (eds), (Historical-Analytical Studies on Nature, Mind and Action 7), Springer, 347–364.
-* Michałowska, Monika, and Elżbieta Jung, 2010, ‘Scotistic and Ockhamist Contributions to Kilvington’s Ethical and Theological Views,’ in _1308: Eine Topographie historischer Gleichzeitigkeit_, A. Speer, D. Wirmer (eds.), Berlin: De Gruyter, 104–122.
-* D’Ors, Angel, 1991, ‘_Tu scis regem sedere_’ (Kilvington S47 \[48]), _Anuario Filosofico_, 24: 49–74.
-* Podkoński, Robert, 2003, ‘Thomas Bradwardine’s critique of _Falsigraphus’s_ concept of actual infinity’, _Studia Antyczne i Mediewistyczne_, 1: 141–54.
-* –––, 2009, ‘_A Charm of Puzzles_. The Fate of Richard Kilvington’s Philosophical Ideas’, _Organon_, 41: 139–150.
-* –––, 2016, _Ryszard Kilvington – nieskończoność i geometria_ \[Richard Kilvington _–_ Infinity and Geometry], Łódź: University of Łódź Press.
-* Read, Stephen, 2015, ‘Richard Kilvington and the Theory of Obligations’, _Vivarium_, 53(2/4): 391–404.
-* Schabel, Chris, 2000, _Theology at Paris 1316–1345. Peter Auriol and the Problem of Divine Foreknowledge and Future Contingents_, Aldershot: Ashgate.
-* Stump, Eleonore, 1982, ‘Obligations: From the Beginning to the Early Fourteenth Century’, in N. Kretzmann, J. Pinborg, and A. Kenny (eds.), _The Cambridge History of Later Medieval Philosophy_, New York: Cambridge University Press, 315–34.
-* Randi, Eugenio, 1987, ‘A Scotist Way of Distinguishing Between God’s Absolute and Ordained Powers’, in A. Hudson and M. Wilks (eds.), _From Ockham to Wyclif_, Oxford, 43–50.
-* Veldhuis, Henri, 2000, ‘Ordained and Absolute Power in Scotus’ _Ordinatio_ I 44’, _Vivarium_, 38(2): 222–230.
-* Wolter, Allan, B., 1990, ‘Scotus’ Paris Lectures on God’s Knowledge of Future Events,’ in A. B. Wolter and M. M. Adams (eds.), _The Philosophical Theology of John Duns Scotus_, Ithaca, NY: Cornell University Press.
+* Bottin, Francesco, 1973a, ‘Analisi linguistica e fisica Aristotelica nei “Sophysmata” di Ricardi Kilmyngton’, in C. Giacon (ed.), *Filosofia e Politica, et altri sagii*, Padua: 125–45.
+* –––, 1973b, ‘L’*Opinio de Insolubilibus* di Richard Kilmyngon,’ *Rivista critica di Storia della Filosofia*, 28: 409–22.
+* –––, 1974, ‘Un testo fondamentale nell’ambito della “nuova fisica” di Oxford: I Sophismata di Richard Kilmington’, *Miscellanea Medievalia*, 9: 201–205.
+* Courtenay, William J., 1990, *Capacity and Volition. A History of the Distinction of Absolute and Ordained Power*, Bergamo, Italy: Pierluigi Lubrina.
+* Dumont, Stephen D., 1995, ‘The Origin of Scotus’s Theory of Synchronic Contingency’, *The Modern Schoolman*, 72: 149–67.
+* Fedriga, Ricardo, and Monika Michałowska, forthcoming, *Safeguarding Free Will: William Ockham, Walter Chatton, and Richard Kilvington on the Will*, Kraków: Ksiegarnia Akademicka, forthcoming.
+* Jung, Elżbieta, 2016, ‘Mathematics and the *Secundum Imaginationem* Procedure in Richard Kilvington’, *Przegład Tomistyczny*, XXII: 109–20.
+* –––, 2022a, ‘The New Interpretation of Aristotle. Richard Kilvington, Thomas Bradwardine and the New Rule of Motion,’ in: *Quantifying Aristotle. The Impact, Spread and Decline of the* Calculatores *Tradition*, D. Di Liscia, E. D. Sylla (eds) in collaboration with P.J.J.M. Bakker\*,\* (Medieval and Early Modern Philosophy of Science 34), Leiden–Boston: Brill, 37–78.
+* –––, 2022b, ‘Controversy on Infinity between Richard FitzRalph and Richard Kilvington,’ in *A Companion to Richard FitzRalph. Fourteenth-Century Scholar, Bishop, and Polemicist*, M. W. Dunne, S. Nolan (eds.), Leiden–Boston: Brill, (forthcoming).
+* Jung-Palczewska, Elżbieta, 1997, ‘Motion in a Vacuum and in a Plenum in Richard Kilvington’s Question: *Utrum aliquod corpus simplex posset moveri aeque velociter in vacuo et in pleno* from the “Commentary on the Physics”’, *Miscellanea Medievalia*, 25: 179–93.
+* –––, 2000a, ‘The Concept of Time in Richard Kilvington’, in L. Cova and G. Alliney (eds.), *Tempus, Aevum, Eternity. La Conzettualizzazione del tempo nel Pensiero Tardomiedievale*, Firenze: Leo S. Olschki, 141–67.
+* –––, 2000b, ‘Works by Richard Kilvington’, *Archives d’Histoire Doctrinale et Littéraire du Moyen Age*, 67: 181–223.
+* –––, 2002a, *Między filozofią przyrody i nowożytnym przyrodoznawstwem.* *Ryszard Kilvington i fizyka matematyczna w średniowieczu* (*Between Philosophy of Nature and Science. Richard Kilvington and Mathematical Physics in the Middle Ages*), Łódź: University of Łódź.
+* –––, 2002b, ‘Richard Kilvington on Local Motion’, in P. Bakker (ed.), *Chemins de la pensée médiévale.* *Etudes offertes a Zénon Kaluza*, Turnhout: Brepols, 113–33.
+* Jung, Elżbieta, and Monika Michałowska, 2008, ‘Jak być sprawiedliwym? Ryszarda Kilvingtona komentarz do Etyki Arystotelesa \[What Does It Mean To Be Just? Richard Kilivngton’s Commentary on Aristotle’s *Ethics*]’, *Roczniki Filozoficzne*, 56(2): 117–29.&#x20;
+* –––, 2022, *Richard Kilvington Talks to Thomas Bradwardine about Future Contingents, Free Will, and Predestination: A Critical Edition of Question 4 from “Quaestiones super libros Sententiarum*”, (Studien und Texte zur Geistesgeschichte des Mittelalters 134), Leiden–Boston: Brill.
+* Jung, Elżbieta, and Robert Podkoński, 2008, ‘Richard Kilvington on Proportions’, in J. Biard, S. Rommevaux (eds.), *Mathématiques et théorie du mouvement XIVe-XVIe siècle*, Villeneuve d’Ascq: Presses Universitaires du Septentrion, 80–101.
+* –––, 2009a, ‘Richard Kilvington on continuity’, in C. Grellard and A. Robert (eds.), *Atomism in Late Medieval Philosophy and Theology*, Leiden-Boston: Brill, 65–84.
+* –––, 2009b, ‘The Transmission of English Ideas in the Fourteenth Century—the Case of Richard Kilvington’, *Mediaevalia Philosophica Polonorum*, 37(3): 59–69.
+* –––, *Towards the Modern Theory of Motion: Oxford Calculators and the New Interpretation of Aristotle*, 2020, (Research on Science & Natural Philosophy 4), Łódź: Wydawnictwo Uniwersytetu Łódzkiego.
+* Katz, Bernard, D., 1996, ‘On a *Sophisma* of Richard Kilvington and a Problem of Analysis’, *Medieval Philosophy and Theology*, 5: 31–38.
+* Knuuttila, Simo and Anja Inkeri Lehtinen, 1979, ‘*Plato in infinitum remisse incipit esse albus*: New texts on the Late Medieval Discussion on the Concept of Infinity in Sophismata Literature’, in E. Saarinen, R. Hilpinen, I. Niiniluoto, and M. B. P. Hintikka (eds.), *Essays in Honor of Jaakko Hintikka*, Dordrecht: D. Reidel, 309–329.
+* Kretzmann, Norman, 1977, ‘Socrates is Whiter than Plato Begins to be White’, *Noûs*, 11: 3–15.
+* –––, 1982, ‘Richard Kilvington and the Logic of Instantaneous Speed’, in A. Maierù and A. Paravicini-Bagliani (eds.), *Studi sul secolo in memoria di Annelise Maier* (Edizioni di Storia e Letteratura 151), Rome.
+* –––, 1988, ‘“*Tu scis hoc esse omne quod est hoc*”: Richard Kilvington and the Logic of Knowledge’, in N. Kretzman (ed.), *Meaning and Inference in Medieval Philosophy*, Dordrecht: Kluwer, 225–45.
+* Michałowska, Monika, 2009, ‘Kilvington’s Concept of Prudence in the *Questions on Ethics*’, *Mediaevalia Philosophica Polonorum*, 37(3): 85–94.
+* –––, 2010, ‘Czy mądry jest roztropny? Roztropność i wiedza moralna wobec działań woli w komentarzu do *Etyki nikomachejskiej* Ryszarda Kilvingtona \[Is Prudence Always Wise? The Role of Prudence and Moral Knowledge in Acts of Will in Richard Kilvington’s Commentary on the *Nicomachean Ethics*]’, *Przegląd Tomistyczny*, 16: 1–17
+* –––, 2011a, ‘Kilvington’s Use of Physical and Logical Arguments in Ethical Dilemmas’, *Documenti e Studi sulla Tradizione Filosofie Medievale*, XXII: 464–492.
+* –––, 2011b, Richard Kilvington’s *Quaestiones super libros Ethicorum*, *Builletin de Philosohie Médiévale*, 53: 233–282.
+* –––, 2016, *Woluntarystyczny dynamizm, czyli koncepcja woli w “Kwestiach do Etyki” Ryszarda Kilvingtona* \[Dynamic Voluntarism: The Concept of the Will in Richard Kilvington’s *Questions on the Ethics*], Kraków: Księgarnia Akademicka.
+* –––, 2018, *Richard Kilvington on the Capacity of Created Beings, Infinity, and Being Simultaneously in Rome and Paris:* *Critical Edition of Question 3* *from Quaestiones super libros Sententiarum*, (Studien und Texte zur Geistesgeschichte des Mittelalters 130), Leiden–Boston: Brill.
+* –––, 2019, ‘The Concept of Habit in Richard Kilvington’s Ethics,’ in *The Ontology, Phsychology and Axiology of Habits (Habitus) in Medieval Philosohy*, N. Faucher, M. Roques (eds), (Historical-Analytical Studies on Nature, Mind and Action 7), Springer, 347–364.
+* Michałowska, Monika, and Elżbieta Jung, 2010, ‘Scotistic and Ockhamist Contributions to Kilvington’s Ethical and Theological Views,’ in *1308: Eine Topographie historischer Gleichzeitigkeit*, A. Speer, D. Wirmer (eds.), Berlin: De Gruyter, 104–122.
+* D’Ors, Angel, 1991, ‘*Tu scis regem sedere*’ (Kilvington S47 \[48]), *Anuario Filosofico*, 24: 49–74.
+* Podkoński, Robert, 2003, ‘Thomas Bradwardine’s critique of *Falsigraphus’s* concept of actual infinity’, *Studia Antyczne i Mediewistyczne*, 1: 141–54.
+* –––, 2009, ‘*A Charm of Puzzles*. The Fate of Richard Kilvington’s Philosophical Ideas’, *Organon*, 41: 139–150.
+* –––, 2016, *Ryszard Kilvington – nieskończoność i geometria* \[Richard Kilvington *–* Infinity and Geometry], Łódź: University of Łódź Press.
+* Read, Stephen, 2015, ‘Richard Kilvington and the Theory of Obligations’, *Vivarium*, 53(2/4): 391–404.
+* Schabel, Chris, 2000, *Theology at Paris 1316–1345. Peter Auriol and the Problem of Divine Foreknowledge and Future Contingents*, Aldershot: Ashgate.
+* Stump, Eleonore, 1982, ‘Obligations: From the Beginning to the Early Fourteenth Century’, in N. Kretzmann, J. Pinborg, and A. Kenny (eds.), *The Cambridge History of Later Medieval Philosophy*, New York: Cambridge University Press, 315–34.
+* Randi, Eugenio, 1987, ‘A Scotist Way of Distinguishing Between God’s Absolute and Ordained Powers’, in A. Hudson and M. Wilks (eds.), *From Ockham to Wyclif*, Oxford, 43–50.
+* Veldhuis, Henri, 2000, ‘Ordained and Absolute Power in Scotus’ *Ordinatio* I 44’, *Vivarium*, 38(2): 222–230.
+* Wolter, Allan, B., 1990, ‘Scotus’ Paris Lectures on God’s Knowledge of Future Events,’ in A. B. Wolter and M. M. Adams (eds.), *The Philosophical Theology of John Duns Scotus*, Ithaca, NY: Cornell University Press.
 
 ## Academic Tools
 
@@ -337,4 +335,4 @@ _**Questiones super libros Sententiarum Questiones super libros Sententiarum**_:
 [Albert of Saxony](https://plato.stanford.edu/entries/albert-saxony/) | Bradwardine, Thomas | [Buridan, John \[Jean\]](https://plato.stanford.edu/entries/buridan/) | [Burley \[Burleigh\], Walter](https://plato.stanford.edu/entries/burley/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [Heytesbury, William](https://plato.stanford.edu/entries/heytesbury/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/)
 
 [Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
-[Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[_elzbieta.jung@uni.lodz.pl_](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>
+[Elzbieta Jung](http://filozof.uni.lodz.pl/staff/prof-dr-hab-elzbieta-jung/) <[*elzbieta.jung@uni.lodz.pl*](mailto:elzbieta%2ejung%40uni%2elodz%2epl)>

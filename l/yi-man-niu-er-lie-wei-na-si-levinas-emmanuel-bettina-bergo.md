@@ -1,12 +1,10 @@
 # 伊曼纽尔·列维纳斯 Levinas, Emmanuel (Bettina Bergo)
 
-_首次发表于2006年7月23日，实质性修订于2019年8月7日。_
+*首次发表于2006年7月23日，实质性修订于2019年8月7日。*
 
 伊曼纽尔·列维纳斯（1905-1995）的知识项目是发展第一哲学。传统上，第一哲学指的是形而上学或神学，只有在海德格尔将其重新构想为基本本体论之后，列维纳斯认为伦理学应该被这样构想。但是，列维纳斯并没有制定一种伦理学理论，而是以与上述两种方法相对立的方式发展了他的哲学。它采取了描述和解释遇到他人事件的形式。\[1]根据列维纳斯的观点，这种遭遇在一个预认知的水平上展开，得益于他所称之为我们具体“感性”的东西。\[2]这就是为什么互为主体责任的现象学将成为“第一”哲学的原因；即，以解释性地重建一种经验水平，既先于反思活动又先于实际利益。
 
 一些评论家称列维纳斯的工作为伦理学的伦理学，其他人称之为元伦理学，而还有人敦促他的思想可以容纳许多伦理学理论，从直觉主义到理性主义（见下文）。无论如何，他的工作与三位哲学家进行了持续的批判性对话：胡塞尔、海德格尔和黑格尔。鉴于这些目标，以及像莫里斯·梅洛-庞蒂这样的哲学对话者，列维纳斯的哲学从一个扩大的生活体验概念和对胡塞尔悬置概念化技术的强大扩展开始，以揭示经验的本来面目。他还受到海德格尔对存在于世界中的解释学的影响。
-
- 
 
 ***
 
@@ -69,7 +67,7 @@ _首次发表于2006年7月23日，实质性修订于2019年8月7日。_
 
 因此，列维纳斯接受了海德格尔的论证，即人类将自己体验为被抛入世界中（他-BT：§38），对自己的出生和死亡没有认知的掌控。海德格尔的人类存在，或者说是存在-在那里（Da-sein），在其时间中投射自己向各种可能性。它通过在社会追求中分散注意力来逃避其令人不安的被抛入状态，而这是列维纳斯不会采纳的立场。另一方面，超越的投射要素，海德格尔在《现象学的基本问题》（he-BPP）中仅仅描述为“跨越到……本身”，这对列维纳斯来说非常有趣。但他会问：我们正在“跨越”什么，从什么地方“跨越”出来？然后列维纳斯观察到：
 
-> \[M]odern sensibility wrestles with problems that indicate … the abandonment of this concern with transcendence. As if it had the certainty that the idea of the _limit_ could not apply to the _existence_ of what is … and as if modern sensibility perceived in _being_ a defect still more profound. (OE: §1, emph. added)
+> \[M]odern sensibility wrestles with problems that indicate … the abandonment of this concern with transcendence. As if it had the certainty that the idea of the *limit* could not apply to the *existence* of what is … and as if modern sensibility perceived in *being* a defect still more profound. (OE: §1, emph. added)
 
 他在这里的论点涉及到我们“现代”感性（和哲学）的一种自负；即，我们假设我们可以深思熟虑地构建一个更好的存在观念，其中存在在某种意义上是自给自足的。伊曼纽尔·列维纳斯称之为“人类状况的不足”（OE：§1），仅仅表示我们存在的限制，其超越性，当被理解为逃避时，承诺我们可能以某种方式超越它，就像通过无限的经验一样。当超越性从神学或形而上学框架中移除（即，被海德格尔“跨越”世俗化）时，我们就能够理解它在其历史背景依赖性中，作为有限存在思考纯粹自给自足的幻觉。以这种方式重新构思，超越性的整个问题就会发生变化，揭示了摆脱我们过于有限存在的斗争。这就是为什么列维纳斯问道：“逃避的需要难道不是有限存在的专属事项吗？...无限存在是否需要离开自己”（OE：§2）？简而言之，我们对死亡的第一反应难道不是想要离开我们的存在，即使是暂时的吗？这个问题与海德格尔对不真实性的概念并没有太大的不同。但与海德格尔不同的是，真正的真实性不在于为我们最个人的可能性——死亡——确保自由。列维纳斯认为，我们只能通过他人的死亡来接近死亡作为可能性，并且我们通过他们的有限性来理解存在的有限性。另一方面，当世俗化时，无限的概念指的是人类意识中的某种绝对性（OE：§1），它激发了我们反复努力逃离自己进入各种狂喜。这显然是一种与海德格尔不同的存在观念。当然，后来列维纳斯将无限归因于另一种经验，即他人面孔的无限质量。然而，在1935年的论文中，对互为主体性的讨论很少。 与他人的相遇首次在他的 1940 年代作品（TO 和 EE）中作为一个主题出现。然而，这里有两个重要的观点：（1）列维纳斯认为海德格尔对存在的理解是特定于一个历史的，即德国思想和解释学的历史；（2）作为一个具体的心灵，与自己的事实性或存在境况的限制进行斗争，正是在那里我们的存在的问题最初出现。
 
@@ -91,9 +89,9 @@ _首次发表于2006年7月23日，实质性修订于2019年8月7日。_
 
 ### 2.2 Middle Writings: Existence and Existents (1947) and Time and the Other (1947) or Inflections of Transcendence and Variations on Being
 
-The 1940s writings extend Levinas’ innovations in ontology, always with recourse to interpretations of embodiment and against Heidegger’s philosophy of existence which, for Levinas, entails engagement with being as “participation” without alterity.\[[9](https://plato.stanford.edu/entries/levinas/notes.html#note-9)] These writings inflect his notion of transcendence, away from the imagined transcendence of evasion and pleasure, toward _eros_ and the promise of the birth of a child.\[[10](https://plato.stanford.edu/entries/levinas/notes.html#note-10)] This requires he explore alterity, understood as the feminine other (EE: 86).
+The 1940s writings extend Levinas’ innovations in ontology, always with recourse to interpretations of embodiment and against Heidegger’s philosophy of existence which, for Levinas, entails engagement with being as “participation” without alterity.\[[9](https://plato.stanford.edu/entries/levinas/notes.html#note-9)] These writings inflect his notion of transcendence, away from the imagined transcendence of evasion and pleasure, toward *eros* and the promise of the birth of a child.\[[10](https://plato.stanford.edu/entries/levinas/notes.html#note-10)] This requires he explore alterity, understood as the feminine other (EE: 86).
 
-In _Existence and Existents_ (1947) and _Time and the Other_ (1947), being now has a dual aspect, of light and of dark indeterminacy. It is as though being were divided between the being of a created world and the darkness out of which light was brought.\[[11](https://plato.stanford.edu/entries/levinas/notes.html#note-11)] This shifts phenomenological focus onto being as light and visibility, in which we constitute objects, and being as the dark turmoil that we experience in insomnia. Levinas’ attempt to expand the sense of the embodied _Da-sein_, and reconsider the distinction between being and _Da-sein_ (existence and the perceptual open that we are) has also changed. Following Husserl’s transcendental phenomenology, in which a multi-layered “I” directs intentional focus like a center from which our attention radiates, Levinas’ embodied ego is neither preceded nor outstripped by its world. The corporeal self \[_soi_], henceforth called the “hypostasis”, is its own ground; i.e., we awaken out of ourselves, into light; we proceed with our projects (EE: 61–86; TO: 51–55). We fall asleep, curled about ourselves, thereby exiting our conscious existence. Embodied consciousness thus begins and ends with itself. As such, it is both dependent on and independent from its environment, and Levinas will urge that the subject, upon awakening, uses and masters being.
+In *Existence and Existents* (1947) and *Time and the Other* (1947), being now has a dual aspect, of light and of dark indeterminacy. It is as though being were divided between the being of a created world and the darkness out of which light was brought.\[[11](https://plato.stanford.edu/entries/levinas/notes.html#note-11)] This shifts phenomenological focus onto being as light and visibility, in which we constitute objects, and being as the dark turmoil that we experience in insomnia. Levinas’ attempt to expand the sense of the embodied *Da-sein*, and reconsider the distinction between being and *Da-sein* (existence and the perceptual open that we are) has also changed. Following Husserl’s transcendental phenomenology, in which a multi-layered “I” directs intentional focus like a center from which our attention radiates, Levinas’ embodied ego is neither preceded nor outstripped by its world. The corporeal self \[*soi*], henceforth called the “hypostasis”, is its own ground; i.e., we awaken out of ourselves, into light; we proceed with our projects (EE: 61–86; TO: 51–55). We fall asleep, curled about ourselves, thereby exiting our conscious existence. Embodied consciousness thus begins and ends with itself. As such, it is both dependent on and independent from its environment, and Levinas will urge that the subject, upon awakening, uses and masters being.
 
 在中期的论文中，已经在 1935 年勾勒出的快乐和欲望的部分超越得到了更充分的发展和变化。超越的意义集中在欲望和“多产性”所承诺的新时间性上，或者说是儿子的诞生（EE：100；TO：91-92）。儿子以一种奇特的方式体现了他者性。他在某种意义上是他父亲，但又不是他父亲。然而，他的诞生开启了对未来的关注。不再被构想为开放可能性之一，正如海德格尔所主张的那样，儿子所开启的时间回应了我们对理解和表达的两个基本限制：死亡和他者。列维纳斯不否认海德格尔关于死亡作为“不可能的可能性”的直觉，但他重申了他早期的论证，即我们只在他者的死亡中见证死亡。但即使如此，它仍然逃脱了日常的理解。因此，列维纳斯将死亡界定为一种与面对我的他者一样根本的他者性。
 
@@ -233,7 +231,7 @@ Basterra 认为，康德的伦理学为我们提供了一个重要的洞察力�
 
 > and I still interrupt the ultimate discourse in which all the discourses are stated, in saying it to one that listens … That is true of the discussion I am elaborating at this very moment. (OBBE: 170)\[[31](https://plato.stanford.edu/entries/levinas/notes.html#note-31)]
 
-Aware of the seemingly artificial quality of calling his authorial witness “immediate”, Levinas’ claim is nevertheless more than a literary artifice. Basterra compares it to Kant’s idea of autonomy, which shows itself only when we follow a law that “exceeds and addresses the subject”, motivating our ethical act (Basterra 2015: 126). Earlier in her study, she had argued that the intellectual affect of _Achtung_ was capable of focusing our attention and opening us to a respect comparable to Levinas’ Saying, which he also calls “sincerity”. For pure reason, autonomy “is therefore an illusion”, but it is one only insofar as that which is not intrinsically part of _my_ interests can still motivate me to act. Thus pure reason erroneously supposes that my ethical gesture came _from_ me (Basterra 2015: 129). Levinas provides us a crucial hermeneutics of the intersubjective origin of this Kantian “illusion”. He sets our misinterpretation of heteronomy as autonomy in Kant’s practical reason into a hermeneutic register, referring to the sincerity and substitution underlying the words we offer: “It is in the risky uncovering of oneself, in sincerity, the breaking up of inwardness … exposure to traumas, vulnerability” that I bear witness to, and for another (OBBE: 48). Again, it does not come from us. Levinas finds illustrations of such witnessing in many places, from the justice imperative of the prophets to the concern of Latin American clerics over the events unfolding in Chile in 1973 (OGCM 81–82).
+Aware of the seemingly artificial quality of calling his authorial witness “immediate”, Levinas’ claim is nevertheless more than a literary artifice. Basterra compares it to Kant’s idea of autonomy, which shows itself only when we follow a law that “exceeds and addresses the subject”, motivating our ethical act (Basterra 2015: 126). Earlier in her study, she had argued that the intellectual affect of *Achtung* was capable of focusing our attention and opening us to a respect comparable to Levinas’ Saying, which he also calls “sincerity”. For pure reason, autonomy “is therefore an illusion”, but it is one only insofar as that which is not intrinsically part of *my* interests can still motivate me to act. Thus pure reason erroneously supposes that my ethical gesture came *from* me (Basterra 2015: 129). Levinas provides us a crucial hermeneutics of the intersubjective origin of this Kantian “illusion”. He sets our misinterpretation of heteronomy as autonomy in Kant’s practical reason into a hermeneutic register, referring to the sincerity and substitution underlying the words we offer: “It is in the risky uncovering of oneself, in sincerity, the breaking up of inwardness … exposure to traumas, vulnerability” that I bear witness to, and for another (OBBE: 48). Again, it does not come from us. Levinas finds illustrations of such witnessing in many places, from the justice imperative of the prophets to the concern of Latin American clerics over the events unfolding in Chile in 1973 (OGCM 81–82).
 
 #### 2.4.2 New Existential Moods and Fleshly Memories
 
@@ -261,7 +259,7 @@ Aware of the seemingly artificial quality of calling his authorial witness “im
 
 > 利萨得出结论，列维纳斯暗示了一种在“超越\[知识]之前，奠定它，定向它，并在某种程度上为之辩护”的意义（利萨 2002：227）。对他来说，列维纳斯转向解释学在很大程度上源于他放弃了他的“外在性”现象学，正如《整体性与无限》的副标题所示：一篇关于外在性的论文。正如我们所见，鉴于寻求意义的搜索潜在地理解了意向客体构成（和其他意向性模式），这对应于海德格尔在对存在者的基本理解的光照下重新思考解释学，列维纳斯似乎既欠债于海德格尔的存在主义解释学\[36]，也欠债于一种更古老的、多声部的阅读实践：解释性地阐述犹太法律（哈拉哈）并叙述和解析叙事（阿加达）。因为这种解释学与基督教神学的不同之处在于对信仰的哲学证明给予的重要性较小，所以我们值得简要地转向它。
 
-Lissa concludes that Levinas intimates a meaning that, in “preceding \[knowledge], founds it, orients it, and to some degree justifies it” (Lissa 2002: 227). For him, Levinas’ turn to hermeneutics largely dates from his abandonment of his phenomenology of “exteriority”, as the subtitle of _Totality and Infinity_ indicates: _An Essay on Exteriority_. As we have seen, insofar as the search for meaning underlying intentional object-constitution (and other modes of intentionality) presupposes a meaning only incipiently grasped—which corresponds to Heidegger’s rethinking of hermeneutics in light of _Da-sein_’s basic understanding—Levinas appears to owe a debt both to Heidegger’s existential hermeneutics\[[36](https://plato.stanford.edu/entries/levinas/notes.html#note-36)] as well as to a much older, polyphonic practice of reading: Talmudic thought as interpretively elaborating Jewish law (_Halakhah_) and recounting and parsing narratives (_Aggadah_). Because this hermeneutics differs from that of Christian theology by giving significantly less weight to philosophical justifications of _faith_, it is worth our turning briefly to it.
+Lissa concludes that Levinas intimates a meaning that, in “preceding \[knowledge], founds it, orients it, and to some degree justifies it” (Lissa 2002: 227). For him, Levinas’ turn to hermeneutics largely dates from his abandonment of his phenomenology of “exteriority”, as the subtitle of *Totality and Infinity* indicates: *An Essay on Exteriority*. As we have seen, insofar as the search for meaning underlying intentional object-constitution (and other modes of intentionality) presupposes a meaning only incipiently grasped—which corresponds to Heidegger’s rethinking of hermeneutics in light of *Da-sein*’s basic understanding—Levinas appears to owe a debt both to Heidegger’s existential hermeneutics\[[36](https://plato.stanford.edu/entries/levinas/notes.html#note-36)] as well as to a much older, polyphonic practice of reading: Talmudic thought as interpretively elaborating Jewish law (*Halakhah*) and recounting and parsing narratives (*Aggadah*). Because this hermeneutics differs from that of Christian theology by giving significantly less weight to philosophical justifications of *faith*, it is worth our turning briefly to it.
 
 列维纳斯在法语犹太知识分子研讨会的背景下提出了二十三个塔木德解读。然而，在 1957 年的研讨会首次会议上，他只是参与了辩论。萨洛蒙·马尔卡提醒我们他的一条深奥的解释学观察：
 
@@ -275,15 +273,15 @@ Lissa concludes that Levinas intimates a meaning that, in “preceding \[knowled
 
 > a post-Nietzschean philosopher, in that, like Heidegger, he denies that human meaning is intelligible independent of a life-context. Temporal hermeneutics thus replaces the transcendental search for essence. (Gordon 2003: 185)
 
-The same could be said of Levinas. Since he conceives temporality in human terms (as opposed to eternity or _stasis_), meaning itself can only be approached in light of time. Readers familiar with Rosenzweig’s “new thinking” may know that he situated one of the principal hermeneutic differences between Judaism and Christianity in the way their theologies ‘temporalized’: Christianity being oriented around the life and death of the incarnate God, an event whose occurrence lies in the past; Judaism, on the other hand, being future-oriented, awaiting the messiah (who does not come).
+The same could be said of Levinas. Since he conceives temporality in human terms (as opposed to eternity or *stasis*), meaning itself can only be approached in light of time. Readers familiar with Rosenzweig’s “new thinking” may know that he situated one of the principal hermeneutic differences between Judaism and Christianity in the way their theologies ‘temporalized’: Christianity being oriented around the life and death of the incarnate God, an event whose occurrence lies in the past; Judaism, on the other hand, being future-oriented, awaiting the messiah (who does not come).
 
-Levinas took up the question of meaning and temporality in a way somewhat different from both Rosenzweig and Heidegger. In 1961, as we have seen, his phenomenology of hospitality proceeded on the present-time of love of life and the encounter called the face-to-face. However, the place where he explicitly uses the term “phenomenology” therein concerns precisely a secularized messianic future. This is the chapter entitled “Phenomenology of Eros”, which deploys “a phenomenological model for the ultimate term of our desire”, as Fagenblat puts it (2010: 93). The argument would be this: before _eros_ is sublimated in civil society, _eros_ and (sometimes) the family bring to light our concern with others in their particularity and difference, independently of their biological or social roles. We can take the family as a “model” here, in the Frankfurt School’s sense of
+Levinas took up the question of meaning and temporality in a way somewhat different from both Rosenzweig and Heidegger. In 1961, as we have seen, his phenomenology of hospitality proceeded on the present-time of love of life and the encounter called the face-to-face. However, the place where he explicitly uses the term “phenomenology” therein concerns precisely a secularized messianic future. This is the chapter entitled “Phenomenology of Eros”, which deploys “a phenomenological model for the ultimate term of our desire”, as Fagenblat puts it (2010: 93). The argument would be this: before *eros* is sublimated in civil society, *eros* and (sometimes) the family bring to light our concern with others in their particularity and difference, independently of their biological or social roles. We can take the family as a “model” here, in the Frankfurt School’s sense of
 
 > an intellectual construction … \[whose elements] are borrowed from empirical experiences that have already shown their worth such that the elements used appear henceforth obvious. (Broch 2008: 43)
 
 爱的现象学在家庭内部甚至可能超越家庭开启了一个“选举”的未来。尽管列维纳斯的表述显然存在异性恋主义，但他通过将父权的形象定义为在其特殊性中选择每个儿子的可能性，引入了对独特性和独一无二性的持久关注，即使后者可能为他的兄弟们服务（并与他们发生冲突）。与一个模型一致，家庭既是形象又是现实。通过世代相继，它为列维纳斯对弥赛亚未来时间的解释性世俗化提供了依据。有趣的是，爱以与“存在”（il y a）的原始体验非常相似的方式“现象学地”展开。也就是说，它在一个被依赖于光和光所能带来的普遍证据的现象学所忽视的黑暗中展开（TI: 256）。因此，现象学关于客体构成的描述存在一个被忽视的底层，它在意向性与客体相遇之前和之时伴随着存在，并需要解释学的介入。
 
-Like Fagenblat, scholars from David Banon to Marc-Alain Ouaknin have explored the hermeneutic dimension of Levinas’ thought, even beyond his Talmudic readings that delve into the many-voiced debates between the rabbis of the Mishna and the Gemara (the oldest and subsequent transcriptions of Jewish oral traditions; Banon 1987). Indeed, as Ouaknin points out, in the case of Talmudic and Biblical hermeneutics, Levinas always considered the eminence of a book—what defines it as “the Book”—to be less its themes than its _structure_. Levinas focuses “on the structure of the Book of books inasmuch as it allows for exegesis \[hermeneutics], and on its unique status of containing more than it contains”.\[[42](https://plato.stanford.edu/entries/levinas/notes.html#note-42)] Hermeneutics is thus _engendered_ by excesses of potential meaning over senses already printed on the page, or even discerned by the reception traditions of the work. It would thus be the specific architecture of the book that conditions its reception. Moreover, the parallelisms that we have seen—between the Saying and the Said _and_ between temporal diachrony and synchrony—are also found at the literary level in Biblical and Talmudic texts, with their openness to ongoing interpretation. Levinas even equates “revelation” with the call of the text to _each_ reader or listener, who thereby becomes responsible for its interpretation. “The Revelation as calling to the unique within me is the significance particular to the signifying of the Revelation” of the text, which is understood as dialogical to its core. Here we see the structural analogy between the call of the other and my response that begins as Saying, as opening to words addressed. Levinas adds,
+Like Fagenblat, scholars from David Banon to Marc-Alain Ouaknin have explored the hermeneutic dimension of Levinas’ thought, even beyond his Talmudic readings that delve into the many-voiced debates between the rabbis of the Mishna and the Gemara (the oldest and subsequent transcriptions of Jewish oral traditions; Banon 1987). Indeed, as Ouaknin points out, in the case of Talmudic and Biblical hermeneutics, Levinas always considered the eminence of a book—what defines it as “the Book”—to be less its themes than its *structure*. Levinas focuses “on the structure of the Book of books inasmuch as it allows for exegesis \[hermeneutics], and on its unique status of containing more than it contains”.\[[42](https://plato.stanford.edu/entries/levinas/notes.html#note-42)] Hermeneutics is thus *engendered* by excesses of potential meaning over senses already printed on the page, or even discerned by the reception traditions of the work. It would thus be the specific architecture of the book that conditions its reception. Moreover, the parallelisms that we have seen—between the Saying and the Said *and* between temporal diachrony and synchrony—are also found at the literary level in Biblical and Talmudic texts, with their openness to ongoing interpretation. Levinas even equates “revelation” with the call of the text to *each* reader or listener, who thereby becomes responsible for its interpretation. “The Revelation as calling to the unique within me is the significance particular to the signifying of the Revelation” of the text, which is understood as dialogical to its core. Here we see the structural analogy between the call of the other and my response that begins as Saying, as opening to words addressed. Levinas adds,
 
 > the totality of the true is constituted from the contribution of multiple people, the uniqueness of each act of listening carrying the secret of the text; the voice of the Revelation, as inflected … by each person’s ear, would be necessary to the ‘Whole’ of the truth. (BTV: 133–134)
 
@@ -305,9 +303,9 @@ Like Fagenblat, scholars from David Banon to Marc-Alain Ouaknin have explored th
 
 #### 2.4.5 第三方、他者性和政治
 
-Jacques Derrida once called _Totality and Infinity_ a “treatise on hospitality” (1997 \[1999: 21]). As we have seen, Levinas’ 1961 work approached being as war or a conflict of wills that persist in their existence like the philosophical tradition’s concept of _conatus essendi_ (the will to persist in being). Neutral existence or the _there-is_ (_il y a_) denoted indeterminate nocturnal being, which gives way to the diurnal being called “the elemental” (sunlight, winds, rain). As noted, being in Levinas thus entails both dynamic forces and a conception of natural processes and causality. However, hospitality, also called “metaphysical desire” (TI: 33), cannot be grounded on such forces, much less on a conception of the will as based on drives of self-preservation or self-expansion. And, because hospitality is elicited by the other—and is non-reciprocal—it does not presuppose an original social exchange, much less moral sentiments or innate emotive capacities for empathy or compassion. If it did, there would be no question of escaping a so-called natural order of existence. That is why Levinas—aware that the concept of nature has a debated history—characterizes both our response to the other and, in 1974, proximity, as “pre-natural signification” (OBBE: 68). He explains,
+Jacques Derrida once called *Totality and Infinity* a “treatise on hospitality” (1997 \[1999: 21]). As we have seen, Levinas’ 1961 work approached being as war or a conflict of wills that persist in their existence like the philosophical tradition’s concept of *conatus essendi* (the will to persist in being). Neutral existence or the *there-is* (*il y a*) denoted indeterminate nocturnal being, which gives way to the diurnal being called “the elemental” (sunlight, winds, rain). As noted, being in Levinas thus entails both dynamic forces and a conception of natural processes and causality. However, hospitality, also called “metaphysical desire” (TI: 33), cannot be grounded on such forces, much less on a conception of the will as based on drives of self-preservation or self-expansion. And, because hospitality is elicited by the other—and is non-reciprocal—it does not presuppose an original social exchange, much less moral sentiments or innate emotive capacities for empathy or compassion. If it did, there would be no question of escaping a so-called natural order of existence. That is why Levinas—aware that the concept of nature has a debated history—characterizes both our response to the other and, in 1974, proximity, as “pre-natural signification” (OBBE: 68). He explains,
 
-> \[i]n renouncing intentionality as a guiding thread toward the _eidos_ \[formal structure] of the psyche … our analysis will follow sensibility in its pre-natural signification to the maternal, where, in proximity \[to what is not itself], signification signifies _before_ it gets bent into _perseverance in being_ in the midst of a Nature. (OBBE: 68, emph. added)
+> \[i]n renouncing intentionality as a guiding thread toward the *eidos* \[formal structure] of the psyche … our analysis will follow sensibility in its pre-natural signification to the maternal, where, in proximity \[to what is not itself], signification signifies *before* it gets bent into *perseverance in being* in the midst of a Nature. (OBBE: 68, emph. added)
 
 为了澄清这一点，伊曼纽尔·列维纳斯必须进一步发展概念。在 1961 年，他将我们对他者的渴望称为“宗教”（“在相同和他者之间建立的联系……不是总体化的”），并称之为“超越”。“超越，就像渴望和不适应一样，必然是一种超越”（分别是 TI: 41, 35）。到了 1974 年，列维纳斯将回应他者的价值和尊严称为“他者性”。他将他者性定义为
 
@@ -319,9 +317,9 @@ Jacques Derrida once called _Totality and Infinity_ a “treatise on hospitality
 
 > 第三方在说话中引入了一个矛盾，其意义在此之前一直朝着独特的他者方向发展。它本身是责任的界限和问题的诞生：我与正义有什么关系？这是一个意识的问题。（OBBE：157）
 
-With the return to a philosophy of consciousness and representation, the indispensable figure of the trace that Levinas has introduced becomes attenuated. As we have seen, to confront eventual skepticism about the trace, he _enacts_ his witness in a literary here and now. His figural performance points not toward another world or to a being different from that discussed by Heidegger, so much as to the intensities and vulnerability of pre-conscious affectivity. Levinas’ writing thus appears to come down to a poetics of the inexpressible. Nevertheless, since he also demands that we reflect on intersubjectivity from a standpoint outside the face-to-face encounter, his work gives us a double task: conceptualization _and_ the as-if of an enacted here-and-now. Still, justice does not only come down to the question “what do I have to do with justice?” It entails an additional explanatory move that Levinas _cannot_ make. This move would have to account for what the other means to the third party, and why third parties insist that “I” also receive just treatment. These are questions requiring a systematic perspective, outside the now-moment in which “I” emerge and enact my witness, affectively invested by alterity (OBBE: 158).
+With the return to a philosophy of consciousness and representation, the indispensable figure of the trace that Levinas has introduced becomes attenuated. As we have seen, to confront eventual skepticism about the trace, he *enacts* his witness in a literary here and now. His figural performance points not toward another world or to a being different from that discussed by Heidegger, so much as to the intensities and vulnerability of pre-conscious affectivity. Levinas’ writing thus appears to come down to a poetics of the inexpressible. Nevertheless, since he also demands that we reflect on intersubjectivity from a standpoint outside the face-to-face encounter, his work gives us a double task: conceptualization *and* the as-if of an enacted here-and-now. Still, justice does not only come down to the question “what do I have to do with justice?” It entails an additional explanatory move that Levinas *cannot* make. This move would have to account for what the other means to the third party, and why third parties insist that “I” also receive just treatment. These are questions requiring a systematic perspective, outside the now-moment in which “I” emerge and enact my witness, affectively invested by alterity (OBBE: 158).
 
-The equalizing situation from which comparison, justice, and normativity can be _deduced_ is beyond Levinas’ immediate concern. Such a situation is that of objective consciousness. This is, for example, the approach adopted by Hegel in the _Phenomenology of Spirit_, which he calls the “for-us” or the externalist standpoint (Hegel 1807 \[1977: §25]). Levinas thus simply marks this standpoint, which is for him a conundrum, saying,
+The equalizing situation from which comparison, justice, and normativity can be *deduced* is beyond Levinas’ immediate concern. Such a situation is that of objective consciousness. This is, for example, the approach adopted by Hegel in the *Phenomenology of Spirit*, which he calls the “for-us” or the externalist standpoint (Hegel 1807 \[1977: §25]). Levinas thus simply marks this standpoint, which is for him a conundrum, saying,
 
 > \[t]与第三方的关系是对面容的不对称性的不断修正。在这种修正中，有权衡、思考、客体化……其中，我的与“他者性”（超越性）的无政府关系被背叛……我的与“他者性”的无政府关系被背叛，但也有了新的与之相关的关系：只有借助上帝，作为与他人不可比较的主体，我才能被他人以“我自己”的方式接近。（OBBE: 158，强调添加）
 
@@ -345,23 +343,23 @@ The equalizing situation from which comparison, justice, and normativity can be 
 
 > 我认为列维纳斯不会偏袒任何特定的道德体系，比如某种形式的康德式道德或后果主义，只要它是一个体系。（2007: 456，强调添加）
 
-This may be true of any form of political regime as well, because for Levinas politics attempts to forge systems—as he says, to totalize (TI: 15, 21, 292–305). We have seen above Rose’s neo-Hegelian objection that Levinas’ ethics lacks mediations sufficient to have real implications for politics [(§2.3.4)](https://plato.stanford.edu/entries/levinas/#BeinMediFamiStatWillEthiPoli). Recently, Salanskis has nevertheless proposed a surprising “mediation”, found in Judaism itself, arguing that the latter provides an “idealist horizon liable to interest _all of humanity_”, because it ties this horizon narratively “to a practical and intellectual testing ‘laboratory’, that of the life of a people” (Salanskis 2016: 129, note 68). This claim suggests that there is a proto-political project in Biblical and Talmudic Judaism, though Salanskis leaves unexplored the further implications of his “laboratory”. As to the political implications of the Talmud’s pluralism of rabbinic voices, which is part of Salanskis’ laboratory, Levinas does at times emphasize the importance of Jewish thought entering into “universal history”, even while promoting responsibility for others and the ethics of messianic awaiting (DF: 96). For example, in his Talmudic reading entitled “Messianic Texts” (1962), he justifies the creation of a Jewish State on the basis of the possibility of protecting both messianic patience and a Talmudic education to responsibility, despite the violence implied by Israel becoming _one_ State among others, within universal and secular history (also see Morgan 2016: 256–265, responding to Kavka 2015).
+This may be true of any form of political regime as well, because for Levinas politics attempts to forge systems—as he says, to totalize (TI: 15, 21, 292–305). We have seen above Rose’s neo-Hegelian objection that Levinas’ ethics lacks mediations sufficient to have real implications for politics [(§2.3.4)](https://plato.stanford.edu/entries/levinas/#BeinMediFamiStatWillEthiPoli). Recently, Salanskis has nevertheless proposed a surprising “mediation”, found in Judaism itself, arguing that the latter provides an “idealist horizon liable to interest *all of humanity*”, because it ties this horizon narratively “to a practical and intellectual testing ‘laboratory’, that of the life of a people” (Salanskis 2016: 129, note 68). This claim suggests that there is a proto-political project in Biblical and Talmudic Judaism, though Salanskis leaves unexplored the further implications of his “laboratory”. As to the political implications of the Talmud’s pluralism of rabbinic voices, which is part of Salanskis’ laboratory, Levinas does at times emphasize the importance of Jewish thought entering into “universal history”, even while promoting responsibility for others and the ethics of messianic awaiting (DF: 96). For example, in his Talmudic reading entitled “Messianic Texts” (1962), he justifies the creation of a Jewish State on the basis of the possibility of protecting both messianic patience and a Talmudic education to responsibility, despite the violence implied by Israel becoming *one* State among others, within universal and secular history (also see Morgan 2016: 256–265, responding to Kavka 2015).
 
-Let us focus for a moment more directly on this question of justice in Jewish thought. Insofar as we can speak of _one_ Jewish philosophical tradition, notably a modern one, the question of justice forms the core of its approach to the _prophetic_ message. In that respect it would certainly have a political dimension; or, at the least, a social-existential one. It may be that to answer the question of the politics (in the minimal sense of State policies) liable to emerge from Levinas’ ethics requires that we pay close attention to his _philosophical anthropology_, i.e., to his conception of the human condition or what it means to be a human being. Recently, Sarah Hammerschlag has returned to Levinas’ captivity notebooks in which he jotted his wartime insights into Judaism as he lived it then:
+Let us focus for a moment more directly on this question of justice in Jewish thought. Insofar as we can speak of *one* Jewish philosophical tradition, notably a modern one, the question of justice forms the core of its approach to the *prophetic* message. In that respect it would certainly have a political dimension; or, at the least, a social-existential one. It may be that to answer the question of the politics (in the minimal sense of State policies) liable to emerge from Levinas’ ethics requires that we pay close attention to his *philosophical anthropology*, i.e., to his conception of the human condition or what it means to be a human being. Recently, Sarah Hammerschlag has returned to Levinas’ captivity notebooks in which he jotted his wartime insights into Judaism as he lived it then:
 
 > J. \[might be compared to] a splinter in the flesh. One might live without it, but if one didn’t have \[this source of suffering], my life \[would be deprived] of its acuity … or fallen back into infancy. (LO1: 172, my trans.)
 
-This conception of a Jewish “anthropology” corresponds not to particular Jews, but to our human condition when we understand it as a condition largely _received_, passively and without our explicit choice. As Hammerschlag and Fagenblat have urged, this human _pathos_, consistent with a pluralistic ontology, might well be approached as an existential category (Hammerschlag 2012: 389–419).\[[45](https://plato.stanford.edu/entries/levinas/notes.html#note-45)] This too is why Levinas characterized Judaism as “an understanding of being”, rather than as a religion. Yet this category may surprise us if we overlook the fact that a definitive part of our existence does comes from without, i.e., through the internalization of the life of our community, its founding texts, but also through social and political characterizations of us (antisemitism, racism, sexism).
+This conception of a Jewish “anthropology” corresponds not to particular Jews, but to our human condition when we understand it as a condition largely *received*, passively and without our explicit choice. As Hammerschlag and Fagenblat have urged, this human *pathos*, consistent with a pluralistic ontology, might well be approached as an existential category (Hammerschlag 2012: 389–419).\[[45](https://plato.stanford.edu/entries/levinas/notes.html#note-45)] This too is why Levinas characterized Judaism as “an understanding of being”, rather than as a religion. Yet this category may surprise us if we overlook the fact that a definitive part of our existence does comes from without, i.e., through the internalization of the life of our community, its founding texts, but also through social and political characterizations of us (antisemitism, racism, sexism).
 
 以无意识的被动性为出发点，当然，被称为犹太教的存在主义范畴引发了对其他被动归因及其对人类存在意义的问题的思考。如果在1974年之前，政治和第三方在列维纳斯看来基本上是“人性”的同义词，那么我们必须得出结论，政治对他来说已经不仅仅是他在《整体性与无限》序言中描述的冲突和纷争（TI: 21-25）。政治必须认真对待多元人道主义，以及包括种族主义在内的被动归因的情况。这意味着在行动中，人们有时可以选择政治是否真的是全民相互对抗的战争，还是可以要求对他者的公正的场所。无论如何，一些评论家提出了担忧，认为列维纳斯的“人性”基本上看起来像胡塞尔的理性主义人性理想（胡塞尔1954 \[1970: 275]，引自麦克盖蒂根2006: 16）。这将是欧洲的人性，而在其下面，是从“雅典”和“耶路撒冷”的交织声音中流出的人性。确实，圣经中的先知要求他们迷途的社群实行公正（和悔改）。但政治正义需要一个公共空间，一个公共言论的市集，在其中，agorein（公开演讲）产生了思想的范畴（kat'agorein意味着公开指责）。
 
-This dual preoccupation with justice as rectitude, and justice as civic virtue, seems to suggest that together Athens and Jerusalem give us a comprehensive approach to politics, as both practice and ideal. Drabinski and Fred Moten have questioned this universality (Drabinski 2011: 165–196), and with it the category of “being-Jewish”, in favor of an emphasis on the passivity intrinsic to a _multiplicity_ of human situations, including race, ethnicity, and gender. Moreover, as Moten cautions, passivity can be readily observed in our relations to _things_ rather than persons. He thus adds that the Bible and the Greeks, although often presented as “the whole world”, thereby become a teleological reflection that expresses an unacknowledged European _malaise_, wherein the non-European receives the status of a mere object (Moten 2018: 9, 11). Attributing this to the transcendence toward-the-world of phenomenological intentionality, which shares some of the blind spots of the colonial enterprise, Moten discusses the object-like passivity of being on the receiving end of multiple racisms, including Levinas’ own “unintended racism”. If we take his concern seriously, then passivity as a category of being-human strains against being attributed to Jews alone. In turn, this raises the philosophical-anthropological question of situational passivities, the very idea of humanity, and those “beings” that inhabit worlds unacknowledged by the European tradition (Moten 2018: 17). While this is a critique of Levinas, Moten also invites us to expand the latter’s anthropological category of being-Jewish, and to ask ourselves what kind of politics might flow out of such an expansion.\[[47](https://plato.stanford.edu/entries/levinas/notes.html#note-47)]
+This dual preoccupation with justice as rectitude, and justice as civic virtue, seems to suggest that together Athens and Jerusalem give us a comprehensive approach to politics, as both practice and ideal. Drabinski and Fred Moten have questioned this universality (Drabinski 2011: 165–196), and with it the category of “being-Jewish”, in favor of an emphasis on the passivity intrinsic to a *multiplicity* of human situations, including race, ethnicity, and gender. Moreover, as Moten cautions, passivity can be readily observed in our relations to *things* rather than persons. He thus adds that the Bible and the Greeks, although often presented as “the whole world”, thereby become a teleological reflection that expresses an unacknowledged European *malaise*, wherein the non-European receives the status of a mere object (Moten 2018: 9, 11). Attributing this to the transcendence toward-the-world of phenomenological intentionality, which shares some of the blind spots of the colonial enterprise, Moten discusses the object-like passivity of being on the receiving end of multiple racisms, including Levinas’ own “unintended racism”. If we take his concern seriously, then passivity as a category of being-human strains against being attributed to Jews alone. In turn, this raises the philosophical-anthropological question of situational passivities, the very idea of humanity, and those “beings” that inhabit worlds unacknowledged by the European tradition (Moten 2018: 17). While this is a critique of Levinas, Moten also invites us to expand the latter’s anthropological category of being-Jewish, and to ask ourselves what kind of politics might flow out of such an expansion.\[[47](https://plato.stanford.edu/entries/levinas/notes.html#note-47)]
 
 ### 2.5 Essays and Interviews after Otherwise than Being: The Tension between Ethics and Justice
 
-Subsequent to _Otherwise than Being_,Levinas’ works return to and refine his major themes. These works include _Transcendence and Intelligibility_ (1984), _In the Time of the Nations_ (1988), _Entre Nous_ (1991), and _Alterity and Transcendence_ (1995), all of which are collections of essays from various periods between 1951 and 1989. However, the first of these collections to appear, entitled _Of God Who Comes to Mind_ (1982), contains the important essay “God and Philosophy” (1975; OGCM: 55–78), which is a critical confrontation with the God of Descartes and Malebranche, and a subtle debate with Heidegger. This essay is followed by the transcript of a two-hour discussion with professors from the University of Leyden (OGCM: 79–99), in which social problems infrequently addressed by Levinas are raised.\[[48](https://plato.stanford.edu/entries/levinas/notes.html#note-48)] Despite the wide temporal gamut run by these publications, we find few new developments, other than a clearer resolve to address the ambiguity intrinsic to the signifier “God” (OGCM: §§10–13, 17–19), and the verbal dynamics of being (corresponding to Heidegger’s _Wesen_), henceforth characterized by Levinas’ neologism “ess_a_nce” (OGCM: 43–51).
+Subsequent to *Otherwise than Being*,Levinas’ works return to and refine his major themes. These works include *Transcendence and Intelligibility* (1984), *In the Time of the Nations* (1988), *Entre Nous* (1991), and *Alterity and Transcendence* (1995), all of which are collections of essays from various periods between 1951 and 1989. However, the first of these collections to appear, entitled *Of God Who Comes to Mind* (1982), contains the important essay “God and Philosophy” (1975; OGCM: 55–78), which is a critical confrontation with the God of Descartes and Malebranche, and a subtle debate with Heidegger. This essay is followed by the transcript of a two-hour discussion with professors from the University of Leyden (OGCM: 79–99), in which social problems infrequently addressed by Levinas are raised.\[[48](https://plato.stanford.edu/entries/levinas/notes.html#note-48)] Despite the wide temporal gamut run by these publications, we find few new developments, other than a clearer resolve to address the ambiguity intrinsic to the signifier “God” (OGCM: §§10–13, 17–19), and the verbal dynamics of being (corresponding to Heidegger’s *Wesen*), henceforth characterized by Levinas’ neologism “ess_a_nce” (OGCM: 43–51).
 
-However, Franck has detected a profound divergence in these new developments. In a highly sophisticated reading of the essays and interviews written or given after _Otherwise than Being_, he notes that the tension between the two aforementioned conceptions of justice (that of 1961 and that of 1974) has come to look like an epistemological inconsistency. This inconsistency is due to Levinas’ later choice to hold justice and (empirical) social life at a significant distance from each other. Indeed, by progressively aligning justice with transcendence, Levinas runs into an important difficulty after 1974. That is, either justice belongs to responsibility from the outset (1961), whereupon the “third party” refers simply to the tendency of intentional consciousness to reconnect any sensuous gaps in itself, or responsibility and transcendence firstly _require_ justice in order to be pondered and communicated. In other words, for Franck, either justice and responsibility are co-originary, in which case responsibility cannot leave a trace in justice and being, or responsibility itself _presupposes_ justice, a constituted world, and linguistic concepts. In the first case, that of aligning responsibility and justice, the third party would simply denote everyday consciousness (TI). In the second case, justice would in fact gravitate toward illeity, the “He-ness” of the absent God (OBBE and after). Once again, in the first case and in terms of lived time, the third party is indeed largely simultaneous with the other, given our social life and context. As Franck explains, we clearly live in society and _any_ phenomenological description must operate within reflection, which is also the domain called the third party. But in the second case, if we hold the third party close to illeity, then the question why _I_ receive justice “for myself” from others can _only_ be answered quasi-theologically, as “thanks to God”. Yet this second option shifts our attention from justice within social life toward the enigma posed by the fact that I _do_ receive justice from others thanks to some near-miraculous concern of theirs for me. But then, should justice for all refer to our social and legal contexts or rather to an absolute called illeity? Mobilizing extensive arguments, Franck shows that this difficulty comes into a crude light in the late works. And indeed, if the later Levinas chooses to hold these two conceptions together, then justice is both social and in some sense divine, like a godly justice or a theopolitics (Franck 2008: 239). If it is the latter, then Levinas’ hermeneutics of an ethical “otherwise than being” just amounts to an abstraction rooted essentially in theology.
+However, Franck has detected a profound divergence in these new developments. In a highly sophisticated reading of the essays and interviews written or given after *Otherwise than Being*, he notes that the tension between the two aforementioned conceptions of justice (that of 1961 and that of 1974) has come to look like an epistemological inconsistency. This inconsistency is due to Levinas’ later choice to hold justice and (empirical) social life at a significant distance from each other. Indeed, by progressively aligning justice with transcendence, Levinas runs into an important difficulty after 1974. That is, either justice belongs to responsibility from the outset (1961), whereupon the “third party” refers simply to the tendency of intentional consciousness to reconnect any sensuous gaps in itself, or responsibility and transcendence firstly *require* justice in order to be pondered and communicated. In other words, for Franck, either justice and responsibility are co-originary, in which case responsibility cannot leave a trace in justice and being, or responsibility itself *presupposes* justice, a constituted world, and linguistic concepts. In the first case, that of aligning responsibility and justice, the third party would simply denote everyday consciousness (TI). In the second case, justice would in fact gravitate toward illeity, the “He-ness” of the absent God (OBBE and after). Once again, in the first case and in terms of lived time, the third party is indeed largely simultaneous with the other, given our social life and context. As Franck explains, we clearly live in society and *any* phenomenological description must operate within reflection, which is also the domain called the third party. But in the second case, if we hold the third party close to illeity, then the question why *I* receive justice “for myself” from others can *only* be answered quasi-theologically, as “thanks to God”. Yet this second option shifts our attention from justice within social life toward the enigma posed by the fact that I *do* receive justice from others thanks to some near-miraculous concern of theirs for me. But then, should justice for all refer to our social and legal contexts or rather to an absolute called illeity? Mobilizing extensive arguments, Franck shows that this difficulty comes into a crude light in the late works. And indeed, if the later Levinas chooses to hold these two conceptions together, then justice is both social and in some sense divine, like a godly justice or a theopolitics (Franck 2008: 239). If it is the latter, then Levinas’ hermeneutics of an ethical “otherwise than being” just amounts to an abstraction rooted essentially in theology.
 
 仿佛是预见到弗朗克的强有力的结构性批评，列维纳斯在 1982 年的一次名为“哲学、正义和爱”的访谈中对其他人和第三方的社会同时性提出了令人惊讶的主张（EN：103-122）。他在那里辩称，
 
@@ -393,442 +391,442 @@ However, Franck has detected a profound divergence in these new developments. In
 
 | abbrev   | reference                                                                                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AT       | [Levinas 1995 \[1999\] _Alterity and Transcendence_](https://plato.stanford.edu/entries/levinas/#bib\AT)                                                            |
-| BTV      | [Levinas 1982 \[1994\] _Beyond the Verse_](https://plato.stanford.edu/entries/levinas/#bib\BTV)                                                                     |
-| DEH      | [Levinas 1949 \[1998\] _Discovering Existence with Husserl_](https://plato.stanford.edu/entries/levinas/#bib\DEH)                                                   |
-| DF       | [Levinas 1963 \[1991\] _Difficult Freedom_](https://plato.stanford.edu/entries/levinas/#bib\DF)                                                                     |
-| EDE      | [Levinas 1949 _En découvrant l’existence…_](https://plato.stanford.edu/entries/levinas/#bib\EDE)                                                                    |
-| EE       | [Levinas 1947 \[1978\] _Existence and Existents_](https://plato.stanford.edu/entries/levinas/#bib\EE)                                                               |
-| EI       | [Levinas 1982 \[1985\] _Ethics and Infinity_](https://plato.stanford.edu/entries/levinas/#bib\EI)                                                                   |
-| EN       | [Levinas 1993 \[2000\] _Entre Nous_](https://plato.stanford.edu/entries/levinas/#bib\EN)                                                                            |
-| ITN      | [Levinas 1988 \[1994\] _In the Time of the Nations_](https://plato.stanford.edu/entries/levinas/#bib\ITN)                                                           |
+| AT       | [Levinas 1995 \[1999\] *Alterity and Transcendence*](https://plato.stanford.edu/entries/levinas/#bib\AT)                                                            |
+| BTV      | [Levinas 1982 \[1994\] *Beyond the Verse*](https://plato.stanford.edu/entries/levinas/#bib\BTV)                                                                     |
+| DEH      | [Levinas 1949 \[1998\] *Discovering Existence with Husserl*](https://plato.stanford.edu/entries/levinas/#bib\DEH)                                                   |
+| DF       | [Levinas 1963 \[1991\] *Difficult Freedom*](https://plato.stanford.edu/entries/levinas/#bib\DF)                                                                     |
+| EDE      | [Levinas 1949 *En découvrant l’existence…*](https://plato.stanford.edu/entries/levinas/#bib\EDE)                                                                    |
+| EE       | [Levinas 1947 \[1978\] *Existence and Existents*](https://plato.stanford.edu/entries/levinas/#bib\EE)                                                               |
+| EI       | [Levinas 1982 \[1985\] *Ethics and Infinity*](https://plato.stanford.edu/entries/levinas/#bib\EI)                                                                   |
+| EN       | [Levinas 1993 \[2000\] *Entre Nous*](https://plato.stanford.edu/entries/levinas/#bib\EN)                                                                            |
+| ITN      | [Levinas 1988 \[1994\] *In the Time of the Nations*](https://plato.stanford.edu/entries/levinas/#bib\ITN)                                                           |
 | Ideas I  | [Husserl 1913 \[1982\]](https://plato.stanford.edu/entries/levinas/#bib\hu-Ideas\I)                                                                                |
 | Ideas II | [Husserl 1952 \[1989\]](https://plato.stanford.edu/entries/levinas/#bib\hu-Ideas\II)                                                                               |
-| LO1      | [Levinas 2009a _Œuvres 1_](https://plato.stanford.edu/entries/levinas/#bib\LO1)                                                                                     |
-| LO2      | [Levinas 2009b _Œuvres 2_](https://plato.stanford.edu/entries/levinas/#bib\LO2)                                                                                     |
-| NTR      | [Levinas 1977 \[1990\] _Nine Talmudic Readings_](https://plato.stanford.edu/entries/levinas/#bib\NTR)                                                               |
-| OBBE     | [Levinas 1974 \[1978\] _Otherwise than Being or Beyond Essence_](https://plato.stanford.edu/entries/levinas/#bib\OBBE)                                              |
-| OE       | [Levinas 1935 \[2003\] _On Escape_](https://plato.stanford.edu/entries/levinas/#bib\OE)                                                                             |
-| OGCM     | [Levinas 1982 \[1998\] _Of God Who Comes To Mind_](https://plato.stanford.edu/entries/levinas/#bib\OGCM)                                                            |
+| LO1      | [Levinas 2009a *Œuvres 1*](https://plato.stanford.edu/entries/levinas/#bib\LO1)                                                                                     |
+| LO2      | [Levinas 2009b *Œuvres 2*](https://plato.stanford.edu/entries/levinas/#bib\LO2)                                                                                     |
+| NTR      | [Levinas 1977 \[1990\] *Nine Talmudic Readings*](https://plato.stanford.edu/entries/levinas/#bib\NTR)                                                               |
+| OBBE     | [Levinas 1974 \[1978\] *Otherwise than Being or Beyond Essence*](https://plato.stanford.edu/entries/levinas/#bib\OBBE)                                              |
+| OE       | [Levinas 1935 \[2003\] *On Escape*](https://plato.stanford.edu/entries/levinas/#bib\OE)                                                                             |
+| OGCM     | [Levinas 1982 \[1998\] *Of God Who Comes To Mind*](https://plato.stanford.edu/entries/levinas/#bib\OGCM)                                                            |
 | RPH      | [Levinas 1934 \[1990\] “Reflections on the Philosophy of Hitlerism”](https://plato.stanford.edu/entries/levinas/#bib\RPH)                                           |
-| TI       | [Levinas 1961 \[1969\] _Totality and Infinity_](https://plato.stanford.edu/entries/levinas/#bib\TI)                                                                 |
-| TO       | [Levinas 1947 \[1987\] _Time and the Other_](https://plato.stanford.edu/entries/levinas/#bib\TO)                                                                    |
-| TOI      | [Levinas 1930 \[1995\] _The Theory of Intuition in Husserl’s Phenomenology_](https://plato.stanford.edu/entries/levinas/#bib\TOI)                                   |
-| TeI      | [Levinas 1984 \[1996\] _Transcendance et intelligibilité_](https://plato.stanford.edu/entries/levinas/#bib\TeI)                                                     |
-| he-BPP   | [Heidegger 1975 \[1982\] _The Basic Problems of Phenomenology_](https://plato.stanford.edu/entries/levinas/#bib\he-BPP)                                             |
-| he-BT    | [Heidegger 1927 \[1962\] _Being and Time_](https://plato.stanford.edu/entries/levinas/#bib\he-BT)                                                                   |
-| he-EHP   | [Heidegger 1996 \[2000\] _Elucidations of Hölderlin’s Poetry_](https://plato.stanford.edu/entries/levinas/#bib\he-EHP)                                              |
-| he-FCM   | [Heidegger 1983 \[1995\] _The Fundamental Concepts of Metaphysics_](https://plato.stanford.edu/entries/levinas/#bib\he-FCM)                                         |
-| he-O     | [Heidegger 1988 \[1999\] _Ontology_](https://plato.stanford.edu/entries/levinas/#bib\he-O)                                                                          |
-| he-PIA   | [Heidegger 1985 \[2001\] _Phenomenological Interpretations of Aristotle_](https://plato.stanford.edu/entries/levinas/#bib\he-PIA)                                   |
-| hu-CM    | [Husserl 1931 \[1973\] _Cartesian Meditations_](https://plato.stanford.edu/entries/levinas/#bib\hu-CM)                                                              |
-| hu-GDP   | [Husserl 2014 _Grenzprobleme des Phänomenologie_](https://plato.stanford.edu/entries/levinas/#bib\hu-GDP)                                                           |
-| Hua 10   | [Husserl 1966 \[1991\] _On the Phenomenology of the Consciousness of Internal Time_](https://plato.stanford.edu/entries/levinas/#bib\Hua10)                         |
-| Hua 14   | [Husserl 1973b _Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Zweiter Teil: 1921–1928_](https://plato.stanford.edu/entries/levinas/#bib\Hua14) |
-| mp-PP    | [Merleau-Ponty 1945 \[2012\] _Phenomenology of Perception_](https://plato.stanford.edu/entries/levinas/#bib\mp-PP)                                                  |
-| col-BPW  | [Levinas 1996 _Emmanuel Levinas: Basic Philosophical Writings_](https://plato.stanford.edu/entries/levinas/#bib\col-BPW)                                            |
+| TI       | [Levinas 1961 \[1969\] *Totality and Infinity*](https://plato.stanford.edu/entries/levinas/#bib\TI)                                                                 |
+| TO       | [Levinas 1947 \[1987\] *Time and the Other*](https://plato.stanford.edu/entries/levinas/#bib\TO)                                                                    |
+| TOI      | [Levinas 1930 \[1995\] *The Theory of Intuition in Husserl’s Phenomenology*](https://plato.stanford.edu/entries/levinas/#bib\TOI)                                   |
+| TeI      | [Levinas 1984 \[1996\] *Transcendance et intelligibilité*](https://plato.stanford.edu/entries/levinas/#bib\TeI)                                                     |
+| he-BPP   | [Heidegger 1975 \[1982\] *The Basic Problems of Phenomenology*](https://plato.stanford.edu/entries/levinas/#bib\he-BPP)                                             |
+| he-BT    | [Heidegger 1927 \[1962\] *Being and Time*](https://plato.stanford.edu/entries/levinas/#bib\he-BT)                                                                   |
+| he-EHP   | [Heidegger 1996 \[2000\] *Elucidations of Hölderlin’s Poetry*](https://plato.stanford.edu/entries/levinas/#bib\he-EHP)                                              |
+| he-FCM   | [Heidegger 1983 \[1995\] *The Fundamental Concepts of Metaphysics*](https://plato.stanford.edu/entries/levinas/#bib\he-FCM)                                         |
+| he-O     | [Heidegger 1988 \[1999\] *Ontology*](https://plato.stanford.edu/entries/levinas/#bib\he-O)                                                                          |
+| he-PIA   | [Heidegger 1985 \[2001\] *Phenomenological Interpretations of Aristotle*](https://plato.stanford.edu/entries/levinas/#bib\he-PIA)                                   |
+| hu-CM    | [Husserl 1931 \[1973\] *Cartesian Meditations*](https://plato.stanford.edu/entries/levinas/#bib\hu-CM)                                                              |
+| hu-GDP   | [Husserl 2014 *Grenzprobleme des Phänomenologie*](https://plato.stanford.edu/entries/levinas/#bib\hu-GDP)                                                           |
+| Hua 10   | [Husserl 1966 \[1991\] *On the Phenomenology of the Consciousness of Internal Time*](https://plato.stanford.edu/entries/levinas/#bib\Hua10)                         |
+| Hua 14   | [Husserl 1973b *Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Zweiter Teil: 1921–1928*](https://plato.stanford.edu/entries/levinas/#bib\Hua14) |
+| mp-PP    | [Merleau-Ponty 1945 \[2012\] *Phenomenology of Perception*](https://plato.stanford.edu/entries/levinas/#bib\mp-PP)                                                  |
+| col-BPW  | [Levinas 1996 *Emmanuel Levinas: Basic Philosophical Writings*](https://plato.stanford.edu/entries/levinas/#bib\col-BPW)                                            |
 
 ### Cited Works by Levinas
 
 * 1930, “La Théorie de l’intuition dans la Phénoménologie de Husserl”, Doctoral dissertation, published, 1963, Paris: J. Vrin.
-  * \[TOI] _The Theory of Intuition in Husserl’s Phenomenology_, André Orianne (trans.), Evanston, IL: Northwestern University Press, 1975; second edition, 1995.
-* 1934, “Quelques réflexions sur la philosophie de l’hitlérisme”, _Esprit_, November, 199–208. Reprinted 1997, Miguel Abensour (ed.), Paris: Revages. \[[Levinas 1934 available online](https://gallica.bnf.fr/ark:/12148/bpt6k30022w/f33.item)]
-  * \[RPH] “Reflections on the Philosophy of Hitlerism”, Seán Hand (trans.), _Critical Inquiry_, 1990, 17(1): 63–71. doi:10.1086/448574
-* 1935, _De l’évasion_, Notes by Jacques Rolland, Montpellier: Fata Morgana, 1982.
-  * \[OE] _On Escape / De l’évasion_, Bettina Bergo (trans.), Stanford, CA: Stanford University Press, 2003.
-* 1947, _De l’existence à l’existant_, second edition, Paris: Vrin, 1986.
-  * \[EE] _Existence and Existents_, Alphonso Lingis (trans.), The Hague: Martinus Nijhoff, 1978.
-* 1947, “Le temps et l’autre”, in _Le choix, le monde, l’existence_, Jean Wahl (ed.), Grenoble: Arthaud. Reprinted Montpellier: Fata Morgana, 1979.
-  * \[TO] _Time and the Other_, Richard A. Cohen (trans.), Pittsburgh: Duquesne University Press, 1987.
-* \[EDE] 1949, _En découvrant l’existence avec Husserl et Heidegger_, Reprinted with new essays. Paris: Vrin, 1982.
-  * \[DEH] _Discovering Existence with Husserl_, Richard A. Cohen and Michael B. Smith (trans.), Evanston: Northwestern University Press, 1998.
-* 1961, _Totalité et Infini: Essais sur l’Extériorité_, Phænomenologica 8. The Hague: Martinus Nijhoff.
-  * \[TI] _Totality and Infinity: An Essay on Exteriority_, Alphonso Lingis (trans.), Pittsburgh: Duquesne University Press, 1969.
-* 1963, _Difficile liberté: Essais sur le judaïsme_, Third Edition revised. Paris: Éditions Albin Michel, 1976.
-  * \[DF] _Difficult Freedom: Essays on Judaism_, Seán Hand (trans.), London: Athlone, 1991.
-* 1968, _Quatre lectures talmudiques_, Paris: Les Éditions de Minuit.
-* 1977, _Du sacré au saint: cinq nouvelles lectures talmudiques._ Paris: Les Éditions de Minuit.
-  * \[NTR] _Nine Talmudic Readings_, Annette Aronowicz (trans.), Bloomington: Indiana University Press, 1990. This translation regroups readings between 1968 and 1977.
-* 1974, _Autrement qu’être ou au-delà de l’essence_, The Hague: Martinus Nijhoff.
-  * \[OBBE] _Otherwise than Being or Beyond Essence_, Alphonso Lingis (trans.), (Dordrecht: Kluwer Academic Publishers, 1978).
-* 1982, _L’au-delà du verset: lectures et discours talmudiques_, Paris: Éditions de Minuit.
-  * \[BTV] _Beyond the Verse: Talmudic Readings and Lectures_, Gary D. Mole (trans.), Bloomington: Indiana University Press, 1994.
-* 1982, _De Dieu qui vient à l’idée_, Second edition corrected and enlarged. Paris: Vrin, 1986.
-  * \[OGCM] _Of God Who Comes To Mind_, Bettina Bergo (trans.), Stanford: Stanford University Press, 1998.
-* 1982, _Éthique et infini: Dialogues avec Philippe Nemo_, Paris: France Culture Radio broadcast, 1982. Paris: Livre de Poche, 1982.
-  * \[EI] _Ethics and Infinity: Conversations with Philippe Nemo_, Richard A. Cohen (trans.), Pittsburgh: Duquesne University Press, 1985.
-* \[TeI] 1984, _Transcendance et intelligibilité_, Geneva: Éditions Labor et Fides.
+  * \[TOI] *The Theory of Intuition in Husserl’s Phenomenology*, André Orianne (trans.), Evanston, IL: Northwestern University Press, 1975; second edition, 1995.
+* 1934, “Quelques réflexions sur la philosophie de l’hitlérisme”, *Esprit*, November, 199–208. Reprinted 1997, Miguel Abensour (ed.), Paris: Revages. \[[Levinas 1934 available online](https://gallica.bnf.fr/ark:/12148/bpt6k30022w/f33.item)]
+  * \[RPH] “Reflections on the Philosophy of Hitlerism”, Seán Hand (trans.), *Critical Inquiry*, 1990, 17(1): 63–71. doi:10.1086/448574
+* 1935, *De l’évasion*, Notes by Jacques Rolland, Montpellier: Fata Morgana, 1982.
+  * \[OE] *On Escape / De l’évasion*, Bettina Bergo (trans.), Stanford, CA: Stanford University Press, 2003.
+* 1947, *De l’existence à l’existant*, second edition, Paris: Vrin, 1986.
+  * \[EE] *Existence and Existents*, Alphonso Lingis (trans.), The Hague: Martinus Nijhoff, 1978.
+* 1947, “Le temps et l’autre”, in *Le choix, le monde, l’existence*, Jean Wahl (ed.), Grenoble: Arthaud. Reprinted Montpellier: Fata Morgana, 1979.
+  * \[TO] *Time and the Other*, Richard A. Cohen (trans.), Pittsburgh: Duquesne University Press, 1987.
+* \[EDE] 1949, *En découvrant l’existence avec Husserl et Heidegger*, Reprinted with new essays. Paris: Vrin, 1982.
+  * \[DEH] *Discovering Existence with Husserl*, Richard A. Cohen and Michael B. Smith (trans.), Evanston: Northwestern University Press, 1998.
+* 1961, *Totalité et Infini: Essais sur l’Extériorité*, Phænomenologica 8. The Hague: Martinus Nijhoff.
+  * \[TI] *Totality and Infinity: An Essay on Exteriority*, Alphonso Lingis (trans.), Pittsburgh: Duquesne University Press, 1969.
+* 1963, *Difficile liberté: Essais sur le judaïsme*, Third Edition revised. Paris: Éditions Albin Michel, 1976.
+  * \[DF] *Difficult Freedom: Essays on Judaism*, Seán Hand (trans.), London: Athlone, 1991.
+* 1968, *Quatre lectures talmudiques*, Paris: Les Éditions de Minuit.
+* 1977, *Du sacré au saint: cinq nouvelles lectures talmudiques.* Paris: Les Éditions de Minuit.
+  * \[NTR] *Nine Talmudic Readings*, Annette Aronowicz (trans.), Bloomington: Indiana University Press, 1990. This translation regroups readings between 1968 and 1977.
+* 1974, *Autrement qu’être ou au-delà de l’essence*, The Hague: Martinus Nijhoff.
+  * \[OBBE] *Otherwise than Being or Beyond Essence*, Alphonso Lingis (trans.), (Dordrecht: Kluwer Academic Publishers, 1978).
+* 1982, *L’au-delà du verset: lectures et discours talmudiques*, Paris: Éditions de Minuit.
+  * \[BTV] *Beyond the Verse: Talmudic Readings and Lectures*, Gary D. Mole (trans.), Bloomington: Indiana University Press, 1994.
+* 1982, *De Dieu qui vient à l’idée*, Second edition corrected and enlarged. Paris: Vrin, 1986.
+  * \[OGCM] *Of God Who Comes To Mind*, Bettina Bergo (trans.), Stanford: Stanford University Press, 1998.
+* 1982, *Éthique et infini: Dialogues avec Philippe Nemo*, Paris: France Culture Radio broadcast, 1982. Paris: Livre de Poche, 1982.
+  * \[EI] *Ethics and Infinity: Conversations with Philippe Nemo*, Richard A. Cohen (trans.), Pittsburgh: Duquesne University Press, 1985.
+* \[TeI] 1984, *Transcendance et intelligibilité*, Geneva: Éditions Labor et Fides.
   * “Transcendence and Intelligibility”, in col-BPW: 149–160.
-* 1988, _À l’heure des nations_, Paris: Les Éditions de Minuit.
-  * \[ITN] _In the Time of the Nations_, Michael B. Smith (trans.), Bloomington: Indiana University Press, 1994.
-* 1993, _Entre Nous: Essais sur le penser-à-l’autre_, Paris: Éditions Bernard Grasset, Collection Figures.
-  * \[EN] _Entre Nous: On Thinking-of-the-Other_, Barbara Harshav and Michael B. Smith (trans.), New York: Columbia University Press, 2000.
-* 1995, _Altérité et transcendance_, Montpellier: Fata Morgana.
-  * \[AT] _Alterity and Transcendence_, Michael B. Smith (trans.), New York: Columbia University Press, 1999.
-* \[LO1] 2009a, _Œuvres 1: Carnets de Captivité et Autres Écrits_, Rodolphe Calin and Catherine Chalier (eds.), Paris: Bernard Grasset.
-* \[LO2] 2009b, _Œuvres 2: Parole et Silence et Autres Conférences Inédites Au Collège Philosophique_, Rodolphe Calin (ed.), Paris: Bernard Grasset.
+* 1988, *À l’heure des nations*, Paris: Les Éditions de Minuit.
+  * \[ITN] *In the Time of the Nations*, Michael B. Smith (trans.), Bloomington: Indiana University Press, 1994.
+* 1993, *Entre Nous: Essais sur le penser-à-l’autre*, Paris: Éditions Bernard Grasset, Collection Figures.
+  * \[EN] *Entre Nous: On Thinking-of-the-Other*, Barbara Harshav and Michael B. Smith (trans.), New York: Columbia University Press, 2000.
+* 1995, *Altérité et transcendance*, Montpellier: Fata Morgana.
+  * \[AT] *Alterity and Transcendence*, Michael B. Smith (trans.), New York: Columbia University Press, 1999.
+* \[LO1] 2009a, *Œuvres 1: Carnets de Captivité et Autres Écrits*, Rodolphe Calin and Catherine Chalier (eds.), Paris: Bernard Grasset.
+* \[LO2] 2009b, *Œuvres 2: Parole et Silence et Autres Conférences Inédites Au Collège Philosophique*, Rodolphe Calin (ed.), Paris: Bernard Grasset.
 
 ### Other Works by Levinas
 
 #### Other Philosophical Works by Levinas
 
-* 1976, _Sur Maurice Blanchot_, Montpellier: Fata Morgana. Translated in _Proper Names_, Michael B. Smith (trans.), Stanford, CA: Stanford University Press, 1997.
-* 2013, _Levinas Œuvres III: Éros, littérature et philosophie_, Jean-Luc Nancy et Danielle Cohen-Levinas (eds.), Paris: Grasset.
+* 1976, *Sur Maurice Blanchot*, Montpellier: Fata Morgana. Translated in *Proper Names*, Michael B. Smith (trans.), Stanford, CA: Stanford University Press, 1997.
+* 2013, *Levinas Œuvres III: Éros, littérature et philosophie*, Jean-Luc Nancy et Danielle Cohen-Levinas (eds.), Paris: Grasset.
 
 #### Collections of Philosophical Essays and Lectures
 
-* 1972, _Humanisme de l’autre homme_, Montpellier: Fata Morgana.
-  * 2003, _Humanism of the Other_, Nidra Poller (trans.), introduction by Richard A. Cohen, Urbana, IL: Illinois University Press.
-* 1976, “Jean Wahl sans avoir ni être” in Xavier Tilliette and Paul Ricœur (eds and co-authors), _Jean Wahl et Gabriel Marcel_, Paris: Beauchesne.
-* 1976, _Noms propres: Agnon, Buber, Celan, Delhomme, Derrida, Jabès, Kierkegaard, Lacroix, Laporte, Picard, Proust, Van Breda, Wahl_. Montpellier: Fata Morgana.
-  * 1997, _Proper Names_, Michael B. Smith (trans.), Stanford, CA: Stanford University Press.
-* 1987, _Hors sujet_, Montpellier: Fata Morgana.
-  * 1993, _Outside the Subject_, Michael B. Smith (trans.), Stanford, CA: Stanford University Press.
-* 1990, _De l’oblitération: Entretien avec Françoise Armengaud_, Paris: Éditions de la Différence. Republished in 1998.
-  * 2019, _On Obliteration: An Interview with Françoise Armengaud Concerning the Work of Sacha Sosno_, Richard A. Cohen (trans.), Zurich: Diaphanes.
-* 1991, _La mort et le temps_, Jacques Rolland (ed.), Paris: Éditions de l’Herne. Lectures presented 1975–76.
-* 1993, _Dieu, la mort et le temps_, Jacques Rolland (ed. and notes), Paris: Éditions Bernard Grasset.
-  * 2000, _God, Death, and Time_, Bettina Bergo (trans.), preface by Jacques Rolland, Stanford, CA: Stanford University Press.
-* 1994, _Les imprévus de l’histoire_, preface by Pierre Hayat, Montpellier: Fata Morgana.
-  * 2003, _Unforeseen History_, Nidra Poller (trans.), introduction by Richard A. Cohen, foreword by Don Ihde, Urbana, IL: Illinois University Press.
-* 1994, _Liberté et commandement_, preface by Pierre Hayat, Montpellier: Fata Morgana.
-* 1998, _Éthique comme philosophie première_, Jacques Rolland (ed.), Paris: Rivages.
+* 1972, *Humanisme de l’autre homme*, Montpellier: Fata Morgana.
+  * 2003, *Humanism of the Other*, Nidra Poller (trans.), introduction by Richard A. Cohen, Urbana, IL: Illinois University Press.
+* 1976, “Jean Wahl sans avoir ni être” in Xavier Tilliette and Paul Ricœur (eds and co-authors), *Jean Wahl et Gabriel Marcel*, Paris: Beauchesne.
+* 1976, *Noms propres: Agnon, Buber, Celan, Delhomme, Derrida, Jabès, Kierkegaard, Lacroix, Laporte, Picard, Proust, Van Breda, Wahl*. Montpellier: Fata Morgana.
+  * 1997, *Proper Names*, Michael B. Smith (trans.), Stanford, CA: Stanford University Press.
+* 1987, *Hors sujet*, Montpellier: Fata Morgana.
+  * 1993, *Outside the Subject*, Michael B. Smith (trans.), Stanford, CA: Stanford University Press.
+* 1990, *De l’oblitération: Entretien avec Françoise Armengaud*, Paris: Éditions de la Différence. Republished in 1998.
+  * 2019, *On Obliteration: An Interview with Françoise Armengaud Concerning the Work of Sacha Sosno*, Richard A. Cohen (trans.), Zurich: Diaphanes.
+* 1991, *La mort et le temps*, Jacques Rolland (ed.), Paris: Éditions de l’Herne. Lectures presented 1975–76.
+* 1993, *Dieu, la mort et le temps*, Jacques Rolland (ed. and notes), Paris: Éditions Bernard Grasset.
+  * 2000, *God, Death, and Time*, Bettina Bergo (trans.), preface by Jacques Rolland, Stanford, CA: Stanford University Press.
+* 1994, *Les imprévus de l’histoire*, preface by Pierre Hayat, Montpellier: Fata Morgana.
+  * 2003, *Unforeseen History*, Nidra Poller (trans.), introduction by Richard A. Cohen, foreword by Don Ihde, Urbana, IL: Illinois University Press.
+* 1994, *Liberté et commandement*, preface by Pierre Hayat, Montpellier: Fata Morgana.
+* 1998, *Éthique comme philosophie première*, Jacques Rolland (ed.), Paris: Rivages.
 
 #### Other Talmudic Writings and Studies on Judaism by Levinas
 
-* 1995, _Nouvelles lectures talmudiques_, Paris: Les Éditions de Minuit.
-  * 1999, _New Talmudic Readings_, Richard A. Cohen (trans.), Pittsburgh, PA: Duquesne Press.
+* 1995, *Nouvelles lectures talmudiques*, Paris: Les Éditions de Minuit.
+  * 1999, *New Talmudic Readings*, Richard A. Cohen (trans.), Pittsburgh, PA: Duquesne Press.
 
 #### Other Collections of Works by Levinas in English
 
-* 1989, _The Levinas Reader: Emmanuel Levinas_, Seán Hand (ed.), Oxford: Blackwell Publishers.
-* 1987, _Collected Philosophical Papers of Emmanuel Levinas_, Alphonso Lingis (trans.), (Phænomenologica 100), The Hague: Martinus Nijhoff.
-* \[col-BPW] 1996, _Emmanuel Levinas: Basic Philosophical Writings_, Adriaan Peperzak, Simon Critchley, and Robert Bernasconi (eds.), Bloomington, IN: Indiana University Press.
-* 2001, _Is it Righteous to Be? Interviews with Emmanuel Levinas_, Jill Robbins (ed.), Stanford, CA: Stanford University Press.
+* 1989, *The Levinas Reader: Emmanuel Levinas*, Seán Hand (ed.), Oxford: Blackwell Publishers.
+* 1987, *Collected Philosophical Papers of Emmanuel Levinas*, Alphonso Lingis (trans.), (Phænomenologica 100), The Hague: Martinus Nijhoff.
+* \[col-BPW] 1996, *Emmanuel Levinas: Basic Philosophical Writings*, Adriaan Peperzak, Simon Critchley, and Robert Bernasconi (eds.), Bloomington, IN: Indiana University Press.
+* 2001, *Is it Righteous to Be? Interviews with Emmanuel Levinas*, Jill Robbins (ed.), Stanford, CA: Stanford University Press.
 
 ### Secondary Literature
 
 #### Bibliographies and Concordance
 
-* Burggraeve, Roger, 1990, _Emmanuel Levinas: Une bibliographie primaire et secondaire_, Leuven: Éditions Peeters. (A comprehensive bibliography of works on Levinas from 1929 to 1989 in several languages.)
-* Ciocan, Cristian and Georges Hansel (eds.), 2005, _Levinas Concordance_, Berlin/Heidelberg: Springer-Verlag. doi:10.1007/1-4020-4125-X
-* Nordquist, Joan, 1997, _Emmanuel Levinas: A Bibliography_, Santa Cruz, CA: Reference and Research Services.
+* Burggraeve, Roger, 1990, *Emmanuel Levinas: Une bibliographie primaire et secondaire*, Leuven: Éditions Peeters. (A comprehensive bibliography of works on Levinas from 1929 to 1989 in several languages.)
+* Ciocan, Cristian and Georges Hansel (eds.), 2005, *Levinas Concordance*, Berlin/Heidelberg: Springer-Verlag. doi:10.1007/1-4020-4125-X
+* Nordquist, Joan, 1997, *Emmanuel Levinas: A Bibliography*, Santa Cruz, CA: Reference and Research Services.
 
 #### Articles and Books
 
-* Aeschlimann, Jean-Christophe, 1989, _Répondre d’autrui. Emmanuel Lévinas_, Boudry- Neuchâtel: Les Éditions de la Baconnière.
-* Ajzenstat, Oona, 2001, _Driven back to the Text: the Premodern Sources of Levinas’s Postmodernism_, Pittsburgh, PA: Duquesne University Press.
-* Alford, C. Fred, 2002, _Levinas, the Frankfurt School and Psychoanalysis_, Middletown, CT: Wesleyan University Press.
-* Allen, Sarah, 2009, _The Philosophical Sense of Transcendence: Levinas and Plato on Loving beyond Being_, Pittsburgh, PA: Duquesne University Press.
-* Aristotle, _Nicomachean Ethics_, second revised edition, Terence Irwin (trans.), Indianapolis, IN: Hackett Publishing, 2000.
-* Arnett, Ronald C., 2017, _Levinas’s Rhetorical Demand: The Unending Obligation of Communication Ethics_, Carbondale, IL: Southern Illinois University Press.
-* Atterton, Peter, Matthew Calarco, and Maurice Friedman (eds), 2004, _Levinas and Buber: Dialogue and Difference_, Pittsburgh, PA: Duquesne University Press.
-* Atterton, Peter and Matthew Calarco (eds), 2010, _Radicalizing Levinas_, Albany, NY: State University of New York Press.
-* Awerkamp, Don, 1977, _Emmanuel Levinas: Ethics and Politics_, New York: Revisionist Press.
-* Bailhache, Gérard, 1994, _Le sujet chez Emmanuel Levinas: fragilité et subjectivité_, Paris: Presses de France.
-* Banon, David, 1987, _La lecture infinie: Les voies de l’interprétation midrachique (préface d’Emmanuel Levinas)_, Paris: Le Seuil.
-* –––, 2008, _Entrelacs: La lettre et le sens dans l’exégèse juive_, Paris: Éditions du Cerf.
-* Batnitzky, Leora, 2006, _Leo Strauss and Emmanuel Levinas: Philosophy and the Politics of Revelation_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511499050
-* Basterra, Gabriela, 2015, _The Subject of Freedom: Kant, Levinas_, New York: Fordham University Press. doi:10.5422/fordham/9780823265145.001.0001
-* Bauman, Zygmunt, 1993, _Postmodern Ethics_, Oxford: Blackwell Publishers.
-* Benso, Silvia, 2000, _The Face of Things: A Different Side of Ethics_, Albany, NY: State University of New York Press.
-* Bensussan, Gérard, 2008, _Éthique et expérience: Levinas politique_, Strasbourg: La Phocide.
-* Bergo, Bettina, 1999, _Levinas between Ethics and Politics. For the Beauty that Adorns the Earth_, Pittsburgh, PA: Duquesne University Press.
-* Bergson, Henri, 1910, _Essai sur les données immédiates de la conscience_, Paris: Quadrige—Presses universitaires de France, 2011.
-* –––, 2013, _Time and Free Will: An Essay on the Immediate Data of Consciousness_, Oxfordshire: Routledge.
-* –––, 1968, _Durée et simultanéité: À propos de la théorie d’Einstein_, Paris: Quadrige—Presses universitaires de France, 2019.
-* –––, 1999, _Duration and Simultaneity: Bergson and the Einsteinian Universe_, Manchester, UK: Clinamen Press.
-* Bernasconi, Robert, 1982, “Levinas Face to Face—with Hegel”, _Journal of the British Society for Phenomenology_, 13(3): 267–276. doi:10.1080/00071773.1982.11007593
-* –––, 1986, “Hegel and Levinas: The Possibility of Reconciliation and Forgiveness”, in _Intersoggettività Socialità Religione_, Marco M. Olivetti and Antonio Rosmini (eds), (_Archivio di Filosofia_, 54), Padua: CEDAM, 325–346.
-* –––, 1987, “Deconstruction and the Possibility of Ethics”, in _Deconstruction and Philosophy_, John Sallis (ed.), Chicago: University of Chicago Press: 122–139.
-* –––, 1988, “The Silent Anarchic World of the Evil Genius”, in _The Collegium Phænomenologicum: The First Ten Years_, John C. Sallis, Giuseppina Chiara Moneta, and Jacques Taminiaux (eds.), (Phaenomenologica 105), Dordrecht: Kluwer.
+* Aeschlimann, Jean-Christophe, 1989, *Répondre d’autrui. Emmanuel Lévinas*, Boudry- Neuchâtel: Les Éditions de la Baconnière.
+* Ajzenstat, Oona, 2001, *Driven back to the Text: the Premodern Sources of Levinas’s Postmodernism*, Pittsburgh, PA: Duquesne University Press.
+* Alford, C. Fred, 2002, *Levinas, the Frankfurt School and Psychoanalysis*, Middletown, CT: Wesleyan University Press.
+* Allen, Sarah, 2009, *The Philosophical Sense of Transcendence: Levinas and Plato on Loving beyond Being*, Pittsburgh, PA: Duquesne University Press.
+* Aristotle, *Nicomachean Ethics*, second revised edition, Terence Irwin (trans.), Indianapolis, IN: Hackett Publishing, 2000.
+* Arnett, Ronald C., 2017, *Levinas’s Rhetorical Demand: The Unending Obligation of Communication Ethics*, Carbondale, IL: Southern Illinois University Press.
+* Atterton, Peter, Matthew Calarco, and Maurice Friedman (eds), 2004, *Levinas and Buber: Dialogue and Difference*, Pittsburgh, PA: Duquesne University Press.
+* Atterton, Peter and Matthew Calarco (eds), 2010, *Radicalizing Levinas*, Albany, NY: State University of New York Press.
+* Awerkamp, Don, 1977, *Emmanuel Levinas: Ethics and Politics*, New York: Revisionist Press.
+* Bailhache, Gérard, 1994, *Le sujet chez Emmanuel Levinas: fragilité et subjectivité*, Paris: Presses de France.
+* Banon, David, 1987, *La lecture infinie: Les voies de l’interprétation midrachique (préface d’Emmanuel Levinas)*, Paris: Le Seuil.
+* –––, 2008, *Entrelacs: La lettre et le sens dans l’exégèse juive*, Paris: Éditions du Cerf.
+* Batnitzky, Leora, 2006, *Leo Strauss and Emmanuel Levinas: Philosophy and the Politics of Revelation*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511499050
+* Basterra, Gabriela, 2015, *The Subject of Freedom: Kant, Levinas*, New York: Fordham University Press. doi:10.5422/fordham/9780823265145.001.0001
+* Bauman, Zygmunt, 1993, *Postmodern Ethics*, Oxford: Blackwell Publishers.
+* Benso, Silvia, 2000, *The Face of Things: A Different Side of Ethics*, Albany, NY: State University of New York Press.
+* Bensussan, Gérard, 2008, *Éthique et expérience: Levinas politique*, Strasbourg: La Phocide.
+* Bergo, Bettina, 1999, *Levinas between Ethics and Politics. For the Beauty that Adorns the Earth*, Pittsburgh, PA: Duquesne University Press.
+* Bergson, Henri, 1910, *Essai sur les données immédiates de la conscience*, Paris: Quadrige—Presses universitaires de France, 2011.
+* –––, 2013, *Time and Free Will: An Essay on the Immediate Data of Consciousness*, Oxfordshire: Routledge.
+* –––, 1968, *Durée et simultanéité: À propos de la théorie d’Einstein*, Paris: Quadrige—Presses universitaires de France, 2019.
+* –––, 1999, *Duration and Simultaneity: Bergson and the Einsteinian Universe*, Manchester, UK: Clinamen Press.
+* Bernasconi, Robert, 1982, “Levinas Face to Face—with Hegel”, *Journal of the British Society for Phenomenology*, 13(3): 267–276. doi:10.1080/00071773.1982.11007593
+* –––, 1986, “Hegel and Levinas: The Possibility of Reconciliation and Forgiveness”, in *Intersoggettività Socialità Religione*, Marco M. Olivetti and Antonio Rosmini (eds), (*Archivio di Filosofia*, 54), Padua: CEDAM, 325–346.
+* –––, 1987, “Deconstruction and the Possibility of Ethics”, in *Deconstruction and Philosophy*, John Sallis (ed.), Chicago: University of Chicago Press: 122–139.
+* –––, 1988, “The Silent Anarchic World of the Evil Genius”, in *The Collegium Phænomenologicum: The First Ten Years*, John C. Sallis, Giuseppina Chiara Moneta, and Jacques Taminiaux (eds.), (Phaenomenologica 105), Dordrecht: Kluwer.
 * –––, 2002, “What Is the Question to Which ‘substitution’ Is the Answer?”, in Critchley and Bernasconi 2002: 234–251. doi:10.1017/CCOL0521662060.011
-* –––, 1988, “Levinas: Philosophy and Beyond”, in _Philosophy and Non-Philosophy Since Merleau-Ponty_, Hugh J. Silverman (ed.), (Continental Philosophy, 1), New York: Routledge: 232-258.
-* Bernasconi, Robert and David Wood (eds), 1988, _The Provocation of Levinas: Rethinking the Other_, London: Routledge & Kegan Paul.
-* Bernasconi, Robert and Simon Critchley (eds), 1991, _Re-Reading Levinas_, (Studies in Continental Thought), Bloomington, IN: Indiana University Press.
+* –––, 1988, “Levinas: Philosophy and Beyond”, in *Philosophy and Non-Philosophy Since Merleau-Ponty*, Hugh J. Silverman (ed.), (Continental Philosophy, 1), New York: Routledge: 232-258.
+* Bernasconi, Robert and David Wood (eds), 1988, *The Provocation of Levinas: Rethinking the Other*, London: Routledge & Kegan Paul.
+* Bernasconi, Robert and Simon Critchley (eds), 1991, *Re-Reading Levinas*, (Studies in Continental Thought), Bloomington, IN: Indiana University Press.
 * Bernet, Rudolf, 2002, “Levinas’s Critique of Husserl”, in Critchley and Bernasconi 2002: 82–99. doi:10.1017/CCOL0521662060.004
-* Bloechl, Jeffrey, 2000a, _Liturgy of the Neighbor: Emmanuel Levinas and the Religion of Responsibility_, Pittsburgh, PA: Duquesne University Press.
-* ––– (ed.), 2000b, _The Face of the Other and the Trace of God. Essays on the Philosophy of Emmanuel Levinas_, New York: Fordham University Press.
-* Botwinick, Aryeh, 2014, _Emmanuel Levinas and the Limits to Ethics: A Critique and a Re-Appropriation_, New York: Routledge.
-* Brezis, David, 2012, _Levinas et le tournant sacrificiel_, Paris: Hermann, 2012.
-* Broch, Hermann, 2008, _Théorie de la folie des masses_, Pierre Rusch and Didier Renault (trans.), Paris: Éditions de l’Éclat.
-* Burggraeve, Roger, 1985, _From Self-Development to Solidarity: An Ethical Reading of Human Desire in its Socio-Political Relevance According to Emmanuel Levinas_, Leuven: Centre for Metaphysics and Philosophy of God.
-* –––, 1990 \[2002], _Lévinas over vrede en mensenrechten: met vier essays van Emmanuel Levinas vertaald door Gertrude Schellens_, Leuven: Acco. Translated as _The Wisdom of Love in the Service of Love: Emmanuel Levinas on Justice, Peace and Human Rights_, Jeffrey Bloechl (trans.), Milwaukee, WI: Marquette University Press.
-* ––– (ed.), 2008, _The Awakening to the Other: A Provocative Dialogue with Emmanuel Levinas_, Leuven: Peeters.
-* Butler, Judith, 2005, _Giving an Account of Oneself_, New York: Fordham University Press. doi:10.5422/fso/9780823225033.001.0001
-* _Cahiers d’études lévinassiennes_, 2002–2018. Arcueil: Institut d’études lévinassiennes.
-* Calin, Rudolphe and François-David Sebbah, 2002, _Le vocabulaire de Levinas_, Paris: Ellipses.
-* Caputo, John D., 1993, _Against Ethics: Contributions to a Poetics of Obligation with Constant Reference to Deconstruction_, Bloomington, IN: Indiana University Press.
-* Caygill, Howard, 2002, _Levinas and the Political_, New York: Routledge.
-* Cederberg, Carl, 2010, _Resaying the Human: Levinas beyond Humanism and Antihumanism_, Sodertörn (Sweden): Södertörn University.
-* Chalier, Catherine, 1982, _Judaïsme et Altérité_, Lagrasse: Verdier.
-* –––, 1987, _La persévérance du mal_, Paris: Le Cerf.
-* –––, 1993, _Lévinas: L’utopie de l’humain_, Paris: Éditions Albin Michel.
-* –––, 1998 \[2002], _Pour une morale au-delà du savoir. Kant et Levinas_, Paris: Albin Michel. Translated as _What Ought I to Do? Morality in Kant and Levinas_, Jane Marie Todd (trans.), Ithaca, NY: Cornell University Press, 2002.
-* –––, 2002, _La trace de l’infini: Emmanuel Levinas et la source hébraïque_, Paris: Le Cerf.
-* Chalier, Catherine and Miguel Abensour (eds), 1991, _Cahier de L’Herne: Emmanuel Lévinas_, Paris: Éditions de l’Herne.
-* Champagne, Roland A., 1998, _The Ethics of Reading According to Emmanuel Lévinas_, Amsterdam: Rodopi.
-* Chanter, Tina (ed.), 2001a, _Feminist Interpretations of Emmanuel Levinas_, University Park, PA: Pennsylvania State University Press.
-* –––, 2001b, _Time, Death and the Feminine: Levinas with Heidegger_, Stanford, CA: Stanford University Press.
-* Ciaramelli, Fabio, 1989, _Transcendance et éthique: essai sur Lévinas_, Brussels: Éditions Ousia.
-* Coe, Cynthia D., 2018, _Levinas and the Trauma of Responsibility: The Ethical Significance of Time_, Bloomington, IN: Indiana University Press.
-* Cohen, Hermann, 1915, _Der Begriff der Religion im System der Philosophie_, Giessen: Alfred Töpelmann.
-* Cohen, Richard A. (ed.), 1985, _Face to Face with Levinas_, Albany, NY: State University of New York Press.
-* –––, 1994, _Elevations: The Height of the Good in Rosenzweig and Levinas_, Chicago: University of Chicago Press.
-* –––, 2001, _Ethics, Exegesis and Philosophy: Interpretation after Levinas_, New York: Cambridge University Press. doi:10.1017/CBO9780511488238
-* ––– (ed.), 2009, “Levinas-Rosenzweig”, _Cahiers d’études lévinassiennes_, Vol. 8, Arcueil: Institut d’études lévinassiennes.
-* –––, 2017, _Out of Control: Confrontations between Spinoza and Levinas_, Albany, NY: State University of New York Press.
-* Cohen-Levinas, Danielle (ed.), 1998, _Emmanuel Levinas_ (Rue Descartes 19), Paris: Collège International de Philosophie, Presses Universitaires de France.
-* ––– (ed.), 2006, _Emmanuel Levinas: pour une philosophie de l’hétéronomie_, Paris: Bayard.
-* ––– (ed.), 2010, _Emmanuel Levinas et le souci de l’art_, Paris: Manucius.
-* ––– (ed.), 2011, _Lire Totalité et Infini, Études et interprétations_, Paris: Hermann.
-* ––– (ed.), 2015, _Une percée de l’humain, suivi d’un texte par Emmanuel Levinas “Être juif”_, Paris: Payot/Rivages poche.
-* Cohen-Lévinas, Danielle and Marc Crépon (eds.), 2014, _Lévinas, Derrida: Lire Ensemble_, (Collection “Rue de La Sorbonne”), Paris: Hermann.
-* Cohen-Levinas, Danielle and Alexander Schnell (eds.), 2015, _Relire “Totalité et infini” d’Emmanuel Levinas_, (Problemes & controverses), Paris: Librairie Philosophique Vrin.
-* ––– (eds), 2016, Relire _Autrement qu’être ou au-delà de l’essence_, Paris: Vrin.
-* Cohen-Levinas, Danielle and Shmuel Trigano (eds), 2002, _Emmanuel Levinas: philosophie et judaïsme_, Paris: In Press Éditions.
-* ––– (eds), 2007, _Emmanuel Levinas et les théologies_, Paris: Éditions In Press.
-* Craig, Megan, 2010, _Levinas and James: Toward a Pragmatic Phenomenology_, Bloomington, IN: Indiana University Press.
-* Critchley, Simon, 1992, _The Ethics of Deconstruction: Derrida and Levinas_, Oxford: Blackwell Publishers. Third Edition 2014, Edinburgh University Library.
-* –––, 1999a, _Ethics Politics Subjectivity: Essays on Derrida, Levinas and Contemporary French Thought_, London: Verso.
-* –––, 1999b, “The Original Traumatism: Levinas and Psychoanalysis”, in his _Ethics Politics Subjectivity: Essays on Derrida, Levinas and Contemporary French Thought_, London: Verso, 183–216.
-* –––, 2007, _Infinitely Demanding: Ethics of Commitment, Politics of Resistance_, London: Verso.
-* –––, 2015, _The Problem with Levinas_, Alexis Dianda (ed.), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198738763.001.0001
-* Critchley, Simon and Robert Bernasconi (eds.), 2002, _The Cambridge Companion to Levinas_, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521662060
-* Crowell, Steven, 2015, “Why Is Ethics First Philosophy? Levinas in Phenomenological Context: Why Is Ethics First Philosophy?”, _European Journal of Philosophy_, 23(3): 564–588. doi:10.1111/j.1468-0378.2012.00550.x
-* Davis, Colin, 1997, _Levinas: An Introduction_, Notre Dame, IN: University of Notre Dame Press.
-* De Bauw, Christine, 1997, _L’envers du sujet: Lire autrement Emmanuel Levinas_, Paris: Vrin, Éditions Ousia.
-* De Boer, Theodore, 1997, _The Rationality of Transcendence: Studies in the Philosophy of Emmanuel Levinas_, Amsterdam: J. C. Gieben.
-* De Vries, Hent, 1998, “Levinas”, in _A Companion to Continental Philosophy_, Simon Critchley and William R. Schroeder (eds), Oxford: Blackwell: 245–255.
-* –––, 2005, _Minimal Theology: Critiques of Secular Reason in Adorno and Levinas_, Geoffrey Hale (trans.), Baltimore, MD: Johns Hopkins University Press.
-* Derrida, Jacques, 1964 \[1978], “Violence et métaphysique: essai sur la pensée d’Emmanuel Levinas”, _Revue de Métaphysique et de Morale_, two parts, 69(3): 322–354 and 69(4): 425–473. Collected in _L’écriture et la différence_, Paris: Éditions du Seuil, 1967. Translated as “Violence and Metaphysics: An Essay on the Thought of Emmanuel Levinas”, in _Writing and Difference_, Alan Bass (trans.), New York: Routledge Press, 1978.
+* Bloechl, Jeffrey, 2000a, *Liturgy of the Neighbor: Emmanuel Levinas and the Religion of Responsibility*, Pittsburgh, PA: Duquesne University Press.
+* ––– (ed.), 2000b, *The Face of the Other and the Trace of God. Essays on the Philosophy of Emmanuel Levinas*, New York: Fordham University Press.
+* Botwinick, Aryeh, 2014, *Emmanuel Levinas and the Limits to Ethics: A Critique and a Re-Appropriation*, New York: Routledge.
+* Brezis, David, 2012, *Levinas et le tournant sacrificiel*, Paris: Hermann, 2012.
+* Broch, Hermann, 2008, *Théorie de la folie des masses*, Pierre Rusch and Didier Renault (trans.), Paris: Éditions de l’Éclat.
+* Burggraeve, Roger, 1985, *From Self-Development to Solidarity: An Ethical Reading of Human Desire in its Socio-Political Relevance According to Emmanuel Levinas*, Leuven: Centre for Metaphysics and Philosophy of God.
+* –––, 1990 \[2002], *Lévinas over vrede en mensenrechten: met vier essays van Emmanuel Levinas vertaald door Gertrude Schellens*, Leuven: Acco. Translated as *The Wisdom of Love in the Service of Love: Emmanuel Levinas on Justice, Peace and Human Rights*, Jeffrey Bloechl (trans.), Milwaukee, WI: Marquette University Press.
+* ––– (ed.), 2008, *The Awakening to the Other: A Provocative Dialogue with Emmanuel Levinas*, Leuven: Peeters.
+* Butler, Judith, 2005, *Giving an Account of Oneself*, New York: Fordham University Press. doi:10.5422/fso/9780823225033.001.0001
+* *Cahiers d’études lévinassiennes*, 2002–2018. Arcueil: Institut d’études lévinassiennes.
+* Calin, Rudolphe and François-David Sebbah, 2002, *Le vocabulaire de Levinas*, Paris: Ellipses.
+* Caputo, John D., 1993, *Against Ethics: Contributions to a Poetics of Obligation with Constant Reference to Deconstruction*, Bloomington, IN: Indiana University Press.
+* Caygill, Howard, 2002, *Levinas and the Political*, New York: Routledge.
+* Cederberg, Carl, 2010, *Resaying the Human: Levinas beyond Humanism and Antihumanism*, Sodertörn (Sweden): Södertörn University.
+* Chalier, Catherine, 1982, *Judaïsme et Altérité*, Lagrasse: Verdier.
+* –––, 1987, *La persévérance du mal*, Paris: Le Cerf.
+* –––, 1993, *Lévinas: L’utopie de l’humain*, Paris: Éditions Albin Michel.
+* –––, 1998 \[2002], *Pour une morale au-delà du savoir. Kant et Levinas*, Paris: Albin Michel. Translated as *What Ought I to Do? Morality in Kant and Levinas*, Jane Marie Todd (trans.), Ithaca, NY: Cornell University Press, 2002.
+* –––, 2002, *La trace de l’infini: Emmanuel Levinas et la source hébraïque*, Paris: Le Cerf.
+* Chalier, Catherine and Miguel Abensour (eds), 1991, *Cahier de L’Herne: Emmanuel Lévinas*, Paris: Éditions de l’Herne.
+* Champagne, Roland A., 1998, *The Ethics of Reading According to Emmanuel Lévinas*, Amsterdam: Rodopi.
+* Chanter, Tina (ed.), 2001a, *Feminist Interpretations of Emmanuel Levinas*, University Park, PA: Pennsylvania State University Press.
+* –––, 2001b, *Time, Death and the Feminine: Levinas with Heidegger*, Stanford, CA: Stanford University Press.
+* Ciaramelli, Fabio, 1989, *Transcendance et éthique: essai sur Lévinas*, Brussels: Éditions Ousia.
+* Coe, Cynthia D., 2018, *Levinas and the Trauma of Responsibility: The Ethical Significance of Time*, Bloomington, IN: Indiana University Press.
+* Cohen, Hermann, 1915, *Der Begriff der Religion im System der Philosophie*, Giessen: Alfred Töpelmann.
+* Cohen, Richard A. (ed.), 1985, *Face to Face with Levinas*, Albany, NY: State University of New York Press.
+* –––, 1994, *Elevations: The Height of the Good in Rosenzweig and Levinas*, Chicago: University of Chicago Press.
+* –––, 2001, *Ethics, Exegesis and Philosophy: Interpretation after Levinas*, New York: Cambridge University Press. doi:10.1017/CBO9780511488238
+* ––– (ed.), 2009, “Levinas-Rosenzweig”, *Cahiers d’études lévinassiennes*, Vol. 8, Arcueil: Institut d’études lévinassiennes.
+* –––, 2017, *Out of Control: Confrontations between Spinoza and Levinas*, Albany, NY: State University of New York Press.
+* Cohen-Levinas, Danielle (ed.), 1998, *Emmanuel Levinas* (Rue Descartes 19), Paris: Collège International de Philosophie, Presses Universitaires de France.
+* ––– (ed.), 2006, *Emmanuel Levinas: pour une philosophie de l’hétéronomie*, Paris: Bayard.
+* ––– (ed.), 2010, *Emmanuel Levinas et le souci de l’art*, Paris: Manucius.
+* ––– (ed.), 2011, *Lire Totalité et Infini, Études et interprétations*, Paris: Hermann.
+* ––– (ed.), 2015, *Une percée de l’humain, suivi d’un texte par Emmanuel Levinas “Être juif”*, Paris: Payot/Rivages poche.
+* Cohen-Lévinas, Danielle and Marc Crépon (eds.), 2014, *Lévinas, Derrida: Lire Ensemble*, (Collection “Rue de La Sorbonne”), Paris: Hermann.
+* Cohen-Levinas, Danielle and Alexander Schnell (eds.), 2015, *Relire “Totalité et infini” d’Emmanuel Levinas*, (Problemes & controverses), Paris: Librairie Philosophique Vrin.
+* ––– (eds), 2016, Relire *Autrement qu’être ou au-delà de l’essence*, Paris: Vrin.
+* Cohen-Levinas, Danielle and Shmuel Trigano (eds), 2002, *Emmanuel Levinas: philosophie et judaïsme*, Paris: In Press Éditions.
+* ––– (eds), 2007, *Emmanuel Levinas et les théologies*, Paris: Éditions In Press.
+* Craig, Megan, 2010, *Levinas and James: Toward a Pragmatic Phenomenology*, Bloomington, IN: Indiana University Press.
+* Critchley, Simon, 1992, *The Ethics of Deconstruction: Derrida and Levinas*, Oxford: Blackwell Publishers. Third Edition 2014, Edinburgh University Library.
+* –––, 1999a, *Ethics Politics Subjectivity: Essays on Derrida, Levinas and Contemporary French Thought*, London: Verso.
+* –––, 1999b, “The Original Traumatism: Levinas and Psychoanalysis”, in his *Ethics Politics Subjectivity: Essays on Derrida, Levinas and Contemporary French Thought*, London: Verso, 183–216.
+* –––, 2007, *Infinitely Demanding: Ethics of Commitment, Politics of Resistance*, London: Verso.
+* –––, 2015, *The Problem with Levinas*, Alexis Dianda (ed.), Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198738763.001.0001
+* Critchley, Simon and Robert Bernasconi (eds.), 2002, *The Cambridge Companion to Levinas*, Cambridge: Cambridge University Press. doi:10.1017/CCOL0521662060
+* Crowell, Steven, 2015, “Why Is Ethics First Philosophy? Levinas in Phenomenological Context: Why Is Ethics First Philosophy?”, *European Journal of Philosophy*, 23(3): 564–588. doi:10.1111/j.1468-0378.2012.00550.x
+* Davis, Colin, 1997, *Levinas: An Introduction*, Notre Dame, IN: University of Notre Dame Press.
+* De Bauw, Christine, 1997, *L’envers du sujet: Lire autrement Emmanuel Levinas*, Paris: Vrin, Éditions Ousia.
+* De Boer, Theodore, 1997, *The Rationality of Transcendence: Studies in the Philosophy of Emmanuel Levinas*, Amsterdam: J. C. Gieben.
+* De Vries, Hent, 1998, “Levinas”, in *A Companion to Continental Philosophy*, Simon Critchley and William R. Schroeder (eds), Oxford: Blackwell: 245–255.
+* –––, 2005, *Minimal Theology: Critiques of Secular Reason in Adorno and Levinas*, Geoffrey Hale (trans.), Baltimore, MD: Johns Hopkins University Press.
+* Derrida, Jacques, 1964 \[1978], “Violence et métaphysique: essai sur la pensée d’Emmanuel Levinas”, *Revue de Métaphysique et de Morale*, two parts, 69(3): 322–354 and 69(4): 425–473. Collected in *L’écriture et la différence*, Paris: Éditions du Seuil, 1967. Translated as “Violence and Metaphysics: An Essay on the Thought of Emmanuel Levinas”, in *Writing and Difference*, Alan Bass (trans.), New York: Routledge Press, 1978.
 * –––, 1980 \[1991], “En ce moment même dans cet ouvrage me voici”, in Laruelle (ed.) 1980: 21–60. Translated as “At This Very Moment in this Work Here I Am”, Ruben Berezdivin (trans.), in Bernasconi and Critchley 1991: 11–49.
-* –––, 1997 \[1999], _Adieu à Emmanuel Levinas_, Paris: Editions Galilée. Translated as _Adieu to Emmanuel Levinas_, Pascale-Anne Brault and Michael Naas (trans.), Stanford, CA: Stanford University Press, 1999.
-* Descartes, René, 1641 \[1911], “Meditation V”, translated in _The Philosophical Works of Descartes_, Elizabeth S. Haldane and G.R.T. Ross (trans), Cambridge: Cambridge University Press, 1911: 22–32.
-* Desmond, William, 1994, “Philosophies of Religion: Marcel, Jaspers, Levinas” in _Twentieth-Century Continental Philosophy_, (_The Routledge History of Philosophy_, 8), Richard Kearney (ed.), London: Routledge, 131–174.
-* Dimitrova, Maria (ed.), 2011, _In Levinas’ Trace_, Newcastle upon Tyne: Cambridge Scholars Publishing.
-* Diprose, Rosalyn, 2002, _Corporeal Generosity: On Giving with Nietzsche, Merleau-Ponty and Levinas_, Albany, NY: State University of New York Press.
-* Doyon, Maxime and Timo Breyer (eds), 2015, _Normativity in Perception_, Hampshire: Palgrave Macmillan. doi:10.1057/9781137377920
-* Drabinski, John E., 2001, _Sensibility and Singularity: The Problem of Phenomenology in Levinas_, Albany, NY: State University of New York Press.
-* –––, 2011, _Levinas and the Postcolonial: Race, Nation, Other_, Edinburgh: Edinburgh University Press.
-* Drabinski, John and Eric Nelson (eds), 2014, _Between Levinas and Heidegger_, Albany, NY: State University of New York Press.
-* Dudiak, Jeffrey, 2001, _The Intrigue of Ethics: A Reading of the Idea of Discourse in the Thought of Emmanuel Levinas_, New York: Fordham University Press. doi:10.5422/fso/9780823220922.001.0001
-* Dupuis, Michel (ed.), 1994, _Levinas en contrastes_, Brussels: De Boeck.
-* Duncan, Diane Moira, 2001, _The Pre-text of Ethics: On Derrida and Levinas_, New York: Peter Lang.
-* Eaglestone, Robert, 2000, _Ethical Criticism: Reading after Levinas_, Edinburgh: Edinburgh University Press, 1997.
-* Edelglass, William and James Hatley (eds), 2012, _Facing Nature: Levinas and Environmental Thought_, Pittsburgh, PA: Duquesne University Press.
-* Eskenazi, Tamara Cohn, Gary A. Phillips, and David Jobling (eds), 2003, _Levinas and Biblical Studies_, Atlanta, GA: Society of Biblical Literature.
-* Eskin, Michael, 2000, _Ethics and Dialogue: In the Works of Levinas, Bakhtin, Mandel’shtam, and Celan_, New York: Oxford University Press.
-* Fagenblat, Michael, 2015, “‘The Passion of Israel’: The True Israel According to Levinas, or Judaism ‘as a Category of Being’”, _Sophia_, 54(3): 297–320. doi:10.1007/s11841-015-0463-3
-* –––, 2010, _A Covenant of Creatures: Levinas’s Philosophy of Judaism_, Stanford: Stanford University Press.
-* Faulconer, James, 2004, “Emmanuel Lévinas (1906–1995)”, in _Twentieth Century European Cultural Theorists_, Paul Hansom (ed.), (_Dictionary of Literary Biography_, 296), Detroit, MI: Gale, 285–295.
-* Feron, Étienne, 1990, “Avant-Propos”, _Études Phénoménologiques_, 6(12): 3–9. doi:10.5840/etudphen19906121
-* –––, 1992, _De l’idée de transcendance à la question du langage. L’itinéraire philosophique d’Emmanuel Levinas_, Grenoble: Éditions Jérôme Millon.
-* Finkielkraut, Alain, 1984, _La sagesse de l’amour_, Paris: Gallimard.
-* Forthomme, Bernard, 1979, _Une philosophie de la transcendance: La métaphysique d’Emmanuel Lévinas_, Paris: Vrin.
-* Forthomme, Bernard and Jad Hatem, 1996, _Affectivité et altérité selon Levinas et Henry_, Paris: Cariscript.
-* Franck, Didier, 1981 \[2014], _Chair et Corps: Sur la phénoménologie de Husserl_, Paris: Les Editions de Minuit. Translated as _Flesh and Body: On the Phenomenology of Husserl_, Joseph Rivera and Scott Davidson (trans.), London: Bloomsbury, 2014.
-* –––, 2008, _L’un pour l’autre: Levinas et la signification_, Paris: Presses Universitaires de France.
-* Frogneux, Nathalie and Françoise Mies (eds), 1998, _Emmanuel Levinas et l’histoire_, Paris: Le Cerf.
-* Fryer, David Ross, 2004, _The Intervention of the Other: Ethical Subjectivity in Levinas and Lacan_, New York: Other Press.
-* Gantt, Edwin E. and N. Richard Williams (eds), 2002, _Psychology for the Other: Levinas, Ethics and the Practice of Psychology_, Pittsburgh, PA: Duquesne University Press.
-* Gaston, Sean, 2005, _Derrida and Disinterest_, New York: Continuum.
-* Gauthier, David J., 2016, _Martin Heidegger, Emmanuel Levinas, and the Politics of Dwelling_, Lanham, MD: Lexington Books (reprint).
-* Gibbs, Robert, 1994, _Correlations in Rosenzweig and Levinas_, Princeton, NJ: Princeton University Press.
-* –––, 2000, _Why Ethics? Signs of Responsibilities_, Princeton, NJ: Princeton University Press.
-* Gold, Moshe and Sandor Goodhart (eds), 2018, _Of Levinas and Shakespeare: “To See Another Thus”_, West Lafayette, IN: Purdue University Press.
-* Gordon, Peter Eli, 2003, _Rosenzweig and Heidegger: Between Judaism and German Philosophy_, Berkeley, CA: University of California Press.
-* Greisch, Jean and Jacques Rolland (eds), 1993, _Emmanuel Lévinas: L’éthique comme philosophie première. Actes du Colloque de Cerisy-la-Salle, 23 août–2 septembre 1986_, Paris: Éditions du Cerf.
-* Guenther, Lisa, 2006, _The Gift of the Other: Levinas and the Politics of Reproduction_, Albany, NY: State University of New York Press.
-* Guibal, Francis and Stanislas Breton, 1986, _Altérités: Jacques Derrida et Pierre-Jean Labarrière: avec des études de Francis Guibal et Stanislas Breton_, Paris: Éditions Osiris.
-* Gutting, Gary, 2001, “Fin-de-Siècle Again: ‘Le Temps Retrouvé’?”, in _French Philosophy in the Twentieth Century_, Gary Gutting (ed.), Cambridge: Cambridge University Press, 353–379. doi:10.1017/CBO9780511806902
+* –––, 1997 \[1999], *Adieu à Emmanuel Levinas*, Paris: Editions Galilée. Translated as *Adieu to Emmanuel Levinas*, Pascale-Anne Brault and Michael Naas (trans.), Stanford, CA: Stanford University Press, 1999.
+* Descartes, René, 1641 \[1911], “Meditation V”, translated in *The Philosophical Works of Descartes*, Elizabeth S. Haldane and G.R.T. Ross (trans), Cambridge: Cambridge University Press, 1911: 22–32.
+* Desmond, William, 1994, “Philosophies of Religion: Marcel, Jaspers, Levinas” in *Twentieth-Century Continental Philosophy*, (*The Routledge History of Philosophy*, 8), Richard Kearney (ed.), London: Routledge, 131–174.
+* Dimitrova, Maria (ed.), 2011, *In Levinas’ Trace*, Newcastle upon Tyne: Cambridge Scholars Publishing.
+* Diprose, Rosalyn, 2002, *Corporeal Generosity: On Giving with Nietzsche, Merleau-Ponty and Levinas*, Albany, NY: State University of New York Press.
+* Doyon, Maxime and Timo Breyer (eds), 2015, *Normativity in Perception*, Hampshire: Palgrave Macmillan. doi:10.1057/9781137377920
+* Drabinski, John E., 2001, *Sensibility and Singularity: The Problem of Phenomenology in Levinas*, Albany, NY: State University of New York Press.
+* –––, 2011, *Levinas and the Postcolonial: Race, Nation, Other*, Edinburgh: Edinburgh University Press.
+* Drabinski, John and Eric Nelson (eds), 2014, *Between Levinas and Heidegger*, Albany, NY: State University of New York Press.
+* Dudiak, Jeffrey, 2001, *The Intrigue of Ethics: A Reading of the Idea of Discourse in the Thought of Emmanuel Levinas*, New York: Fordham University Press. doi:10.5422/fso/9780823220922.001.0001
+* Dupuis, Michel (ed.), 1994, *Levinas en contrastes*, Brussels: De Boeck.
+* Duncan, Diane Moira, 2001, *The Pre-text of Ethics: On Derrida and Levinas*, New York: Peter Lang.
+* Eaglestone, Robert, 2000, *Ethical Criticism: Reading after Levinas*, Edinburgh: Edinburgh University Press, 1997.
+* Edelglass, William and James Hatley (eds), 2012, *Facing Nature: Levinas and Environmental Thought*, Pittsburgh, PA: Duquesne University Press.
+* Eskenazi, Tamara Cohn, Gary A. Phillips, and David Jobling (eds), 2003, *Levinas and Biblical Studies*, Atlanta, GA: Society of Biblical Literature.
+* Eskin, Michael, 2000, *Ethics and Dialogue: In the Works of Levinas, Bakhtin, Mandel’shtam, and Celan*, New York: Oxford University Press.
+* Fagenblat, Michael, 2015, “‘The Passion of Israel’: The True Israel According to Levinas, or Judaism ‘as a Category of Being’”, *Sophia*, 54(3): 297–320. doi:10.1007/s11841-015-0463-3
+* –––, 2010, *A Covenant of Creatures: Levinas’s Philosophy of Judaism*, Stanford: Stanford University Press.
+* Faulconer, James, 2004, “Emmanuel Lévinas (1906–1995)”, in *Twentieth Century European Cultural Theorists*, Paul Hansom (ed.), (*Dictionary of Literary Biography*, 296), Detroit, MI: Gale, 285–295.
+* Feron, Étienne, 1990, “Avant-Propos”, *Études Phénoménologiques*, 6(12): 3–9. doi:10.5840/etudphen19906121
+* –––, 1992, *De l’idée de transcendance à la question du langage. L’itinéraire philosophique d’Emmanuel Levinas*, Grenoble: Éditions Jérôme Millon.
+* Finkielkraut, Alain, 1984, *La sagesse de l’amour*, Paris: Gallimard.
+* Forthomme, Bernard, 1979, *Une philosophie de la transcendance: La métaphysique d’Emmanuel Lévinas*, Paris: Vrin.
+* Forthomme, Bernard and Jad Hatem, 1996, *Affectivité et altérité selon Levinas et Henry*, Paris: Cariscript.
+* Franck, Didier, 1981 \[2014], *Chair et Corps: Sur la phénoménologie de Husserl*, Paris: Les Editions de Minuit. Translated as *Flesh and Body: On the Phenomenology of Husserl*, Joseph Rivera and Scott Davidson (trans.), London: Bloomsbury, 2014.
+* –––, 2008, *L’un pour l’autre: Levinas et la signification*, Paris: Presses Universitaires de France.
+* Frogneux, Nathalie and Françoise Mies (eds), 1998, *Emmanuel Levinas et l’histoire*, Paris: Le Cerf.
+* Fryer, David Ross, 2004, *The Intervention of the Other: Ethical Subjectivity in Levinas and Lacan*, New York: Other Press.
+* Gantt, Edwin E. and N. Richard Williams (eds), 2002, *Psychology for the Other: Levinas, Ethics and the Practice of Psychology*, Pittsburgh, PA: Duquesne University Press.
+* Gaston, Sean, 2005, *Derrida and Disinterest*, New York: Continuum.
+* Gauthier, David J., 2016, *Martin Heidegger, Emmanuel Levinas, and the Politics of Dwelling*, Lanham, MD: Lexington Books (reprint).
+* Gibbs, Robert, 1994, *Correlations in Rosenzweig and Levinas*, Princeton, NJ: Princeton University Press.
+* –––, 2000, *Why Ethics? Signs of Responsibilities*, Princeton, NJ: Princeton University Press.
+* Gold, Moshe and Sandor Goodhart (eds), 2018, *Of Levinas and Shakespeare: “To See Another Thus”*, West Lafayette, IN: Purdue University Press.
+* Gordon, Peter Eli, 2003, *Rosenzweig and Heidegger: Between Judaism and German Philosophy*, Berkeley, CA: University of California Press.
+* Greisch, Jean and Jacques Rolland (eds), 1993, *Emmanuel Lévinas: L’éthique comme philosophie première. Actes du Colloque de Cerisy-la-Salle, 23 août–2 septembre 1986*, Paris: Éditions du Cerf.
+* Guenther, Lisa, 2006, *The Gift of the Other: Levinas and the Politics of Reproduction*, Albany, NY: State University of New York Press.
+* Guibal, Francis and Stanislas Breton, 1986, *Altérités: Jacques Derrida et Pierre-Jean Labarrière: avec des études de Francis Guibal et Stanislas Breton*, Paris: Éditions Osiris.
+* Gutting, Gary, 2001, “Fin-de-Siècle Again: ‘Le Temps Retrouvé’?”, in *French Philosophy in the Twentieth Century*, Gary Gutting (ed.), Cambridge: Cambridge University Press, 353–379. doi:10.1017/CBO9780511806902
 * Haar, Michel, 1991, “L’obsession de l’autre: l’éthique comme traumatisme” in Chalier and Abensour 1991: 525–538.
-* Habib, Stéphane, 2005, _Levinas et Rosenzweig: Philosophies de la Révélation_, Paris: Presses Universitaires de France.
-* Halpérin, Jean and Nelly Hansson (eds), 1998, _Difficile Justice: Dans la trace d’Emmanuel Lévinas. Colloque des intellectuels juifs_, (Collection Présence du Judaïsme), Paris: Albin Michel.
-* Hammerschlag, Sarah, 2016, _Broken Tablets: Levinas, Derrida and the Literary Afterlife of Religion_, New York: Columbia University Press.
-* –––, 2010, _The Figural Jew: Politics and Identity in Post-War French Thought_, Chicago: University of Chicago Press.
-* –––, 2012, “‘A Splinter in the Flesh’: Levinas and the Resignification of Jewish Suffering, 1928–1947”, _International Journal of Philosophical Studies_, 20(3): 389–419. doi:10.1080/09672559.2012.699273
-* Hand, Seán (ed), 1996, _Facing the Other: The Ethics of Emmanuel Lévinas_, Surrey: Curzon.
-* –––, 2009, _Emmanuel Levinas_, London: Routledge.
-* Handelman, Susan A., 1991, _Fragments of Redemption: Jewish Thought and Literary Theory in Benjamin, Scholem, and Levinas_, Bloomington, IN: Indiana University Press.
-* Harasym, Sarah (ed), 1998, _Levinas and Lacan: The Missed Encounter_, Albany, NY: State University of New York Press.
-* Hayat, Pierre, 1995, _Emmanuel Levinas, éthique et société_, Paris: Kimé.
-* –––, 1997, _Individualisme éthique et philosophie chez Levinas_, Paris: Kimé.
-* Hegel, G.W.F, 1807 \[1977], _Phänomenologie des Geistes_, amberg/Würzburg: Verlag Joseph Anton Goebhardt. Translated as _Phenomenology of Spirit_, A. V. Miller (trans.), Oxford: Oxford University Press.
-* \[he-BT] Heidegger, Martin, 1927 \[1962], _Sein und Zeit_, in _Jahrbuch für Philosophie und phänomenologische Forschung_, 8: 1–438. Translated as _Being and Time_, John Maquarrie and Edward Robinson (trans.), New York: Harper and Row Publishers, 1962 (trans. of the 7th ed. of _Sein und Zeit_, Tübingen: Niemeyer, 1946).
-* –––, 1929 \[1997], _Kant und das Problem der Metaphysik_, fifth edition, Frankfurt am Main: Vittorio Klostermann, 1991, Translated as _Kant and the Problem of Metaphysics_, Richard Taft (trans.), based on the German fifth edition, Bloomington, IN: Indiana University Press, 1997.
-* \[he-BPP] –––, 1975 \[1982], _Die Grundprobleme der Phänomenologie_, Friedrich-Wilhelm von Herrmann, _Gesamtausgabe_, vol. 24, Frankfurt am Main: Vittorio Klostermann, 1975; originally a lecture course given at the University of Marburg, Summer 1927. Translated as _The Basic Problems of Phenomenology_, Albert Hofstadter (trans.), Bloomington, IN: Indiana University Press, 1982.
-* \[he-FCM] –––, 1983 \[1995], _Die Grundbegriffe der Metaphysik. Welt-Endlichkeit-Einsamkeit_, Frankfurt am Main: Vittorio Klostermann; originally a lecture course in 1929/30. Translated as _The Fundamental Concepts of Metaphysics: World, Finitude, Solitude_, William McNeill and Nicholas Walker (trans.), Bloomington, IN: Indiana University Press.
-* \[he-PIA] –––, 1985 \[2001], _Phänomenologische Interpretationen zu Aristoteles: Einführung in die phänomenologische Forschung_, Frankfurt am Main: Vittorio Klostermann; originally lectures at the University of Freiburg, Winter 1921/22. Translated as _Phenomenological Interpretations of Aristotle: Initiation into Phenomenological Research_, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press.
-* \[he-O] –––, 1988 \[1999], _Ontologie (Hermeneutik der Faktizität)_, Käte Bröcker-Oltmanns (ed.), _Gesamtausgabe_, vol. 63, Frankfurt am Main: Vittorio Klostermann; originally a seminar of the Summer 1923. _Ontology: The Hermeneutics of Facticity_, John Van Buren (trans.), Bloomington, IN: Indiana University Press.
-* \[he-EHP] –––, 1996 \[2000], _Erläuterungen zu Hölderlins Dichtung_, Frankfurt am Main: Klostermann; contains six essays written between the 1930s and the early 1970s. Translated as _Elucidations of Hölderlin’s Poetry_, Keith Hoeller (trans.), Amherst, NY: Humanity Books, 2000.
-* Hendley, Steven, 2000, _From Communicative Action to the Face of the Other: Levinas and Habermas on Language, Obligation and Community_, Lanham, MD: Lexington Books.
-* Horowitz, Asher and Gad Horowitz (eds), 2006, _Difficult Justice: Commentaires on Levinas and Politics_, Toronto: University of Toronto Press.
-* \[Ideas I] Husserl, Edmund, 1913 \[1982], _Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie_, Halle: Max Niemeyer. Reprinted in 1950, Walter Biemel (ed.), (Husserliana 3), The Hague: Martinus Nijhoff. Translated as _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book: General Introduction to a Pure Phenomenology_, Fred Kersten (trans.), (Edmund Husserl: Collected Works 2), Dordrecht: Kluwer Academic Publishers, 1982.
-* \[hu-CM] –––, 1931 \[1973], _Méditations cartésiennes: Introduction à la phénoménologie_, Gabrielle Peiffer and Emmanuel Levinas (trans.), Paris: J. Vrin; the German original was first published in 1950. Translated to English as _Cartesian Meditations: An Introduction to Phenomenology_, Dorion Cairns (trans.), The Hague: Martinus Nijhoff, 1973.
-* \[Ideas II] –––, 1952 \[1989], _Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Zweites Buch: Phänomenologische Untersuchungen zur Konstitution_, Marly Biemel (ed.), (Husserliana 4), The Hague: Martinus Nijhoff. Translated as _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—Second Book: Studies in the Phenomenology of Constitution_, Richard Rojcewicz and André Schuwer (trans.), (Edmund Husserl: Collected Works 3), Dordrecht: Kluwer Academic Publishers, 1989.
-* –––, 1954 \[1970], “Der Wiener Vortrag” in _Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie_, Walter Biemel (ed.), The Hague: Martinus Nijhoff, 1954 (pp. 314–348); original was an unpublished manuscript, 1935. Translated as “The Vienna Lecture”, in _The Crisis of European Sciences and Transcendental Phenomenology_, David Carr (trans.), Evanston, IL: Northwestern University Press (pp. 269–299).
-* \[Hua 10] –––, 1966 \[1991], _Zur Phänomenologie des inneren Zeitbewusstseins (1893–1917)_, Rudolf Boehm (ed.), (Husserliana 10), The Hague: Martinus Nijhoff. Translated as _On the Phenomenology of the Consciousness of Internal Time (1893–1917)_, John Barnett Brough (trans.), Dordrecht: Kluwer, 1991.
-* –––, 1973a, _Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Erster Teil 1905–1920_, (Husserliana 13). Iso von Kern (ed.), The Hague: Martinus Nijhoff.
-* \[Hua 14] –––, 1973b, _Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Zweiter Teil: 1921–1928_, (Husserliana 14). Iso von Kern (ed.), The Hague: Martinus Nijhoff.
-* –––, 1973c, _Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Dritter Teil: 1929–1935_, (Husserliana 15), Iso von Kern (ed.), The Hague: Martinus Nijhoff.
-* –––, 2001, _Analyses concerning Passive and Active Synthesis: Lectures on Transcendental Logic_, Anthony J. Steinbock (trans.), Dordrecht: Kluwer; from the lectures between 1920 and 1926.
-* \[hu-GDP] –––, 2014, _Grenzprobleme des Phänomenologie: Analysen des Unbewusstseins und der Instinkte; Metaphysik; Späte Ethik (Texte aus dem Nachlass, 1908–1937)_, Rochus Sowa and Thomas Vongehr (eds), (Husserliana 42), Dordrecht: Springer. doi:10.1007/978-94-007-6801-7
-* Hutchens, Benjamin C., 1998, _La responsabilité chez Sartre et Levinas_, Paris: L’Harmattan.
-* –––, 2004, _Levinas: A Guide for the Perplexed_, New York: Continuum.
-* Hyde, Michael J., 2001, _The Call of Conscience: Heidegger and Levinas. Rhetoric and the Euthanasia Debate_, Columbia, SC: University of South Carolina Press.
-* Janicaud, Dominique (ed), 1999, _La métaphysique d’Emmanuel Levinas_, special issue of _Noesis_ (Nice), 3. \[[Janicaud 1999 available online](https://journals.openedition.org/noesis/39)]
-* Jospe, Raphael (ed), 1997, _Paradigms in Jewish Philosophy_, London: Associated University Presses.
-* Kalmanson, Leah, Frank Garrett, and Sarah Mattice (eds), 2013, _Levinas and Asian Thought_, Pittsburgh, PA: Duquesne University Press.
-* Kant, Emmanuel, 1788 \[2002], _Kritik der praktischen Vernunft_, translated as _Critique of Practical Reason_, Werner Pluhar (trans.), Indianapolis, IN: Hackett, Akademie Ausgabe, Vol. 5.
-* Katz, Claire E., 2003, _Levinas, Judaism and the Feminine: The Silent Footsteps of Rebecca_, Bloomington, IN: Indiana University Press.
-* –––, 2012, _Levinas and the Crisis of Humanism_, Bloomington, IN: Indiana University Press.
-* Katz, Claire E. and Lara Trout (eds), 2005, _Emmanuel Levinas: Critical Assessments of Leading Philosophers_, London and New York: Routledge.
-* Kavka, Martin, 2004, _Jewish Messianism and the History of Philosophy_, New York: Cambridge University Press. doi:10.1017/CBO9780511499098
-* –––, 2010, “Screening the Canon: Levinas and Medieval Jewish Philosophy”, in _New Directions in Jewish Philosophy_, Aaron W. Hughes and Elliott R. Wolfson (eds), Bloomington, IN: Indiana University Press, 19–51.
-* –––, 2015, “Reading Messianically with Gershom Scholem”, in _Rethinking the Messianic Idea in Judaism_, Michael Morgan and Steven Weitzman (eds), Bloomington, IN: Indiana University Press.
-* Kayser, Paulette, 2000, _Emmanuel Levinas: la trace du féminin_, Paris: Presses Universitaires de France.
-* Kearney, Richard, 1984, _Dialogues with Contemporary Continental Philosophers: The Phenomenological Heritage (Paul Ricœur, Emmanuel Levinas, Herbert Marcuse, Stanislas Breton, Jacques Derrida)_, New York: Manchester University Press.
-* –––, 1989, _Dialogues with Contemporary Continental Thinkers: The Phenomenological Heritage. Paul Ricœur, Emmanuel Levinas, Herbert Marcuse, Stanislas Breton, Jacques Derrida_, Manchester, UK: Manchester University Press.
-* Keenan, Dennis King, 1994, _Death and Responsibility: The “Work” of Levinas_, Albany, NY: State University of New York Press.
-* Kenaan, Hagi, 2012, _Visages: Une autre éthique du regard après Levinas_, Colette Salem (trans.), Paris: Editions de l’Éclat. Translated from the Hebrew edition, Tel Aviv: Hakibbutz Hameuchad Publishing House, 2008.
-* Kosky, Jeffrey L., 2001, _Levinas and the Philosophy of Religion_, Bloomington, IN: Indiana University Press.
-* Krewani, Wolfgang N., 1992, _Emmanuel Levinas. Denker des Anderen_, Freiburg: Karl Alber Verlag.
-* Kunz, George, 1998, _The Paradox of Power and Weakness: Levinas and an Alternative Paradigm for Psychology_, Albany, NY: State University of New York Press.
-* Large, William, 2015, _Levinas’s Totality and Infinity: A Reader’s Guide_, New York: Bloomsbury.
-* Laruelle, François (ed.), 1980, _Textes pour Emmanuel Lévinas_, Paris: Éditions Jean-Michel Place.
-* –––, 1986, _Les philosophies de la différence: Introduction critique_, Paris: Presses Universitaires de France.
-* Lazaroff, Alan, 2002, _Nietzsche, Buber, Levinas: Judaism as Relational Religion_, New York: Hunter College of the City University of New York / Temple Israel.
-* Lescourret, Marie-Anne, 1994, _Emmanuel Levinas_, Paris: Éditions Flammarion.
-* 2005–present, _Levinas Studies: An Annual Review_, Pittsburgh, PA: Duquesne University Press (17 volumes to date).
-* Libertson, Joseph, 1982, _Proximity: Levinas, Blanchot, Bataille and Communication_, (Phænomenologica 87), The Hague: Martinus Nijhoff Publishers.
-* Lin, Yael (ed.), 2014, _Levinas Faces Biblical Figures_, Lanham, MD: Lexington Books.
-* Liska, Vivian, 2017, _German-Jewish Thought and Its Afterlife: A Tenuous Legacy_, Bloomington, IN: Indiana University Press.
+* Habib, Stéphane, 2005, *Levinas et Rosenzweig: Philosophies de la Révélation*, Paris: Presses Universitaires de France.
+* Halpérin, Jean and Nelly Hansson (eds), 1998, *Difficile Justice: Dans la trace d’Emmanuel Lévinas. Colloque des intellectuels juifs*, (Collection Présence du Judaïsme), Paris: Albin Michel.
+* Hammerschlag, Sarah, 2016, *Broken Tablets: Levinas, Derrida and the Literary Afterlife of Religion*, New York: Columbia University Press.
+* –––, 2010, *The Figural Jew: Politics and Identity in Post-War French Thought*, Chicago: University of Chicago Press.
+* –––, 2012, “‘A Splinter in the Flesh’: Levinas and the Resignification of Jewish Suffering, 1928–1947”, *International Journal of Philosophical Studies*, 20(3): 389–419. doi:10.1080/09672559.2012.699273
+* Hand, Seán (ed), 1996, *Facing the Other: The Ethics of Emmanuel Lévinas*, Surrey: Curzon.
+* –––, 2009, *Emmanuel Levinas*, London: Routledge.
+* Handelman, Susan A., 1991, *Fragments of Redemption: Jewish Thought and Literary Theory in Benjamin, Scholem, and Levinas*, Bloomington, IN: Indiana University Press.
+* Harasym, Sarah (ed), 1998, *Levinas and Lacan: The Missed Encounter*, Albany, NY: State University of New York Press.
+* Hayat, Pierre, 1995, *Emmanuel Levinas, éthique et société*, Paris: Kimé.
+* –––, 1997, *Individualisme éthique et philosophie chez Levinas*, Paris: Kimé.
+* Hegel, G.W.F, 1807 \[1977], *Phänomenologie des Geistes*, amberg/Würzburg: Verlag Joseph Anton Goebhardt. Translated as *Phenomenology of Spirit*, A. V. Miller (trans.), Oxford: Oxford University Press.
+* \[he-BT] Heidegger, Martin, 1927 \[1962], *Sein und Zeit*, in *Jahrbuch für Philosophie und phänomenologische Forschung*, 8: 1–438. Translated as *Being and Time*, John Maquarrie and Edward Robinson (trans.), New York: Harper and Row Publishers, 1962 (trans. of the 7th ed. of *Sein und Zeit*, Tübingen: Niemeyer, 1946).
+* –––, 1929 \[1997], *Kant und das Problem der Metaphysik*, fifth edition, Frankfurt am Main: Vittorio Klostermann, 1991, Translated as *Kant and the Problem of Metaphysics*, Richard Taft (trans.), based on the German fifth edition, Bloomington, IN: Indiana University Press, 1997.
+* \[he-BPP] –––, 1975 \[1982], *Die Grundprobleme der Phänomenologie*, Friedrich-Wilhelm von Herrmann, *Gesamtausgabe*, vol. 24, Frankfurt am Main: Vittorio Klostermann, 1975; originally a lecture course given at the University of Marburg, Summer 1927. Translated as *The Basic Problems of Phenomenology*, Albert Hofstadter (trans.), Bloomington, IN: Indiana University Press, 1982.
+* \[he-FCM] –––, 1983 \[1995], *Die Grundbegriffe der Metaphysik. Welt-Endlichkeit-Einsamkeit*, Frankfurt am Main: Vittorio Klostermann; originally a lecture course in 1929/30. Translated as *The Fundamental Concepts of Metaphysics: World, Finitude, Solitude*, William McNeill and Nicholas Walker (trans.), Bloomington, IN: Indiana University Press.
+* \[he-PIA] –––, 1985 \[2001], *Phänomenologische Interpretationen zu Aristoteles: Einführung in die phänomenologische Forschung*, Frankfurt am Main: Vittorio Klostermann; originally lectures at the University of Freiburg, Winter 1921/22. Translated as *Phenomenological Interpretations of Aristotle: Initiation into Phenomenological Research*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press.
+* \[he-O] –––, 1988 \[1999], *Ontologie (Hermeneutik der Faktizität)*, Käte Bröcker-Oltmanns (ed.), *Gesamtausgabe*, vol. 63, Frankfurt am Main: Vittorio Klostermann; originally a seminar of the Summer 1923. *Ontology: The Hermeneutics of Facticity*, John Van Buren (trans.), Bloomington, IN: Indiana University Press.
+* \[he-EHP] –––, 1996 \[2000], *Erläuterungen zu Hölderlins Dichtung*, Frankfurt am Main: Klostermann; contains six essays written between the 1930s and the early 1970s. Translated as *Elucidations of Hölderlin’s Poetry*, Keith Hoeller (trans.), Amherst, NY: Humanity Books, 2000.
+* Hendley, Steven, 2000, *From Communicative Action to the Face of the Other: Levinas and Habermas on Language, Obligation and Community*, Lanham, MD: Lexington Books.
+* Horowitz, Asher and Gad Horowitz (eds), 2006, *Difficult Justice: Commentaires on Levinas and Politics*, Toronto: University of Toronto Press.
+* \[Ideas I] Husserl, Edmund, 1913 \[1982], *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Erstes Buch: Allgemeine Einführung in die reine Phänomenologie*, Halle: Max Niemeyer. Reprinted in 1950, Walter Biemel (ed.), (Husserliana 3), The Hague: Martinus Nijhoff. Translated as *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book: General Introduction to a Pure Phenomenology*, Fred Kersten (trans.), (Edmund Husserl: Collected Works 2), Dordrecht: Kluwer Academic Publishers, 1982.
+* \[hu-CM] –––, 1931 \[1973], *Méditations cartésiennes: Introduction à la phénoménologie*, Gabrielle Peiffer and Emmanuel Levinas (trans.), Paris: J. Vrin; the German original was first published in 1950. Translated to English as *Cartesian Meditations: An Introduction to Phenomenology*, Dorion Cairns (trans.), The Hague: Martinus Nijhoff, 1973.
+* \[Ideas II] –––, 1952 \[1989], *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie. Zweites Buch: Phänomenologische Untersuchungen zur Konstitution*, Marly Biemel (ed.), (Husserliana 4), The Hague: Martinus Nijhoff. Translated as *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—Second Book: Studies in the Phenomenology of Constitution*, Richard Rojcewicz and André Schuwer (trans.), (Edmund Husserl: Collected Works 3), Dordrecht: Kluwer Academic Publishers, 1989.
+* –––, 1954 \[1970], “Der Wiener Vortrag” in *Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie*, Walter Biemel (ed.), The Hague: Martinus Nijhoff, 1954 (pp. 314–348); original was an unpublished manuscript, 1935. Translated as “The Vienna Lecture”, in *The Crisis of European Sciences and Transcendental Phenomenology*, David Carr (trans.), Evanston, IL: Northwestern University Press (pp. 269–299).
+* \[Hua 10] –––, 1966 \[1991], *Zur Phänomenologie des inneren Zeitbewusstseins (1893–1917)*, Rudolf Boehm (ed.), (Husserliana 10), The Hague: Martinus Nijhoff. Translated as *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*, John Barnett Brough (trans.), Dordrecht: Kluwer, 1991.
+* –––, 1973a, *Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Erster Teil 1905–1920*, (Husserliana 13). Iso von Kern (ed.), The Hague: Martinus Nijhoff.
+* \[Hua 14] –––, 1973b, *Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Zweiter Teil: 1921–1928*, (Husserliana 14). Iso von Kern (ed.), The Hague: Martinus Nijhoff.
+* –––, 1973c, *Zur Phänomenologie der Intersubjektivität. Texte aus dem Nachlass. Dritter Teil: 1929–1935*, (Husserliana 15), Iso von Kern (ed.), The Hague: Martinus Nijhoff.
+* –––, 2001, *Analyses concerning Passive and Active Synthesis: Lectures on Transcendental Logic*, Anthony J. Steinbock (trans.), Dordrecht: Kluwer; from the lectures between 1920 and 1926.
+* \[hu-GDP] –––, 2014, *Grenzprobleme des Phänomenologie: Analysen des Unbewusstseins und der Instinkte; Metaphysik; Späte Ethik (Texte aus dem Nachlass, 1908–1937)*, Rochus Sowa and Thomas Vongehr (eds), (Husserliana 42), Dordrecht: Springer. doi:10.1007/978-94-007-6801-7
+* Hutchens, Benjamin C., 1998, *La responsabilité chez Sartre et Levinas*, Paris: L’Harmattan.
+* –––, 2004, *Levinas: A Guide for the Perplexed*, New York: Continuum.
+* Hyde, Michael J., 2001, *The Call of Conscience: Heidegger and Levinas. Rhetoric and the Euthanasia Debate*, Columbia, SC: University of South Carolina Press.
+* Janicaud, Dominique (ed), 1999, *La métaphysique d’Emmanuel Levinas*, special issue of *Noesis* (Nice), 3. \[[Janicaud 1999 available online](https://journals.openedition.org/noesis/39)]
+* Jospe, Raphael (ed), 1997, *Paradigms in Jewish Philosophy*, London: Associated University Presses.
+* Kalmanson, Leah, Frank Garrett, and Sarah Mattice (eds), 2013, *Levinas and Asian Thought*, Pittsburgh, PA: Duquesne University Press.
+* Kant, Emmanuel, 1788 \[2002], *Kritik der praktischen Vernunft*, translated as *Critique of Practical Reason*, Werner Pluhar (trans.), Indianapolis, IN: Hackett, Akademie Ausgabe, Vol. 5.
+* Katz, Claire E., 2003, *Levinas, Judaism and the Feminine: The Silent Footsteps of Rebecca*, Bloomington, IN: Indiana University Press.
+* –––, 2012, *Levinas and the Crisis of Humanism*, Bloomington, IN: Indiana University Press.
+* Katz, Claire E. and Lara Trout (eds), 2005, *Emmanuel Levinas: Critical Assessments of Leading Philosophers*, London and New York: Routledge.
+* Kavka, Martin, 2004, *Jewish Messianism and the History of Philosophy*, New York: Cambridge University Press. doi:10.1017/CBO9780511499098
+* –––, 2010, “Screening the Canon: Levinas and Medieval Jewish Philosophy”, in *New Directions in Jewish Philosophy*, Aaron W. Hughes and Elliott R. Wolfson (eds), Bloomington, IN: Indiana University Press, 19–51.
+* –––, 2015, “Reading Messianically with Gershom Scholem”, in *Rethinking the Messianic Idea in Judaism*, Michael Morgan and Steven Weitzman (eds), Bloomington, IN: Indiana University Press.
+* Kayser, Paulette, 2000, *Emmanuel Levinas: la trace du féminin*, Paris: Presses Universitaires de France.
+* Kearney, Richard, 1984, *Dialogues with Contemporary Continental Philosophers: The Phenomenological Heritage (Paul Ricœur, Emmanuel Levinas, Herbert Marcuse, Stanislas Breton, Jacques Derrida)*, New York: Manchester University Press.
+* –––, 1989, *Dialogues with Contemporary Continental Thinkers: The Phenomenological Heritage. Paul Ricœur, Emmanuel Levinas, Herbert Marcuse, Stanislas Breton, Jacques Derrida*, Manchester, UK: Manchester University Press.
+* Keenan, Dennis King, 1994, *Death and Responsibility: The “Work” of Levinas*, Albany, NY: State University of New York Press.
+* Kenaan, Hagi, 2012, *Visages: Une autre éthique du regard après Levinas*, Colette Salem (trans.), Paris: Editions de l’Éclat. Translated from the Hebrew edition, Tel Aviv: Hakibbutz Hameuchad Publishing House, 2008.
+* Kosky, Jeffrey L., 2001, *Levinas and the Philosophy of Religion*, Bloomington, IN: Indiana University Press.
+* Krewani, Wolfgang N., 1992, *Emmanuel Levinas. Denker des Anderen*, Freiburg: Karl Alber Verlag.
+* Kunz, George, 1998, *The Paradox of Power and Weakness: Levinas and an Alternative Paradigm for Psychology*, Albany, NY: State University of New York Press.
+* Large, William, 2015, *Levinas’s Totality and Infinity: A Reader’s Guide*, New York: Bloomsbury.
+* Laruelle, François (ed.), 1980, *Textes pour Emmanuel Lévinas*, Paris: Éditions Jean-Michel Place.
+* –––, 1986, *Les philosophies de la différence: Introduction critique*, Paris: Presses Universitaires de France.
+* Lazaroff, Alan, 2002, *Nietzsche, Buber, Levinas: Judaism as Relational Religion*, New York: Hunter College of the City University of New York / Temple Israel.
+* Lescourret, Marie-Anne, 1994, *Emmanuel Levinas*, Paris: Éditions Flammarion.
+* 2005–present, *Levinas Studies: An Annual Review*, Pittsburgh, PA: Duquesne University Press (17 volumes to date).
+* Libertson, Joseph, 1982, *Proximity: Levinas, Blanchot, Bataille and Communication*, (Phænomenologica 87), The Hague: Martinus Nijhoff Publishers.
+* Lin, Yael (ed.), 2014, *Levinas Faces Biblical Figures*, Lanham, MD: Lexington Books.
+* Liska, Vivian, 2017, *German-Jewish Thought and Its Afterlife: A Tenuous Legacy*, Bloomington, IN: Indiana University Press.
 * Lissa, Giuseppe, 2002, “Phénoménologie et/ou herméneutique chez Emmanuel Levinas”, in Cohen-Levinas and Trigano 2002: 195–234.
-* Llewelyn, John, 1991, _The Middle Voice of Ecological Conscience. A Chiasmic Reading of Responsibility in the Neighborhood of Levinas, Heidegger and Others_, New York: Saint Martin’s Press.
-* –––, 1995, _Emmanuel Levinas: The Genealogy of Ethics_, New York: Routledge.
-* –––, 2000, _The Hypocritical Imagination: Between Kant and Levinas_, New York: Routledge.
-* –––, 2002a, _Appositions of Jacques Derrida and Emmanuel Levinas_, Bloomington, IN: Indiana University Press.
+* Llewelyn, John, 1991, *The Middle Voice of Ecological Conscience. A Chiasmic Reading of Responsibility in the Neighborhood of Levinas, Heidegger and Others*, New York: Saint Martin’s Press.
+* –––, 1995, *Emmanuel Levinas: The Genealogy of Ethics*, New York: Routledge.
+* –––, 2000, *The Hypocritical Imagination: Between Kant and Levinas*, New York: Routledge.
+* –––, 2002a, *Appositions of Jacques Derrida and Emmanuel Levinas*, Bloomington, IN: Indiana University Press.
 * –––, 2002b, “Levinas and Language”, in Critchley and Bernasconi 2002: 119–138. doi:10.1017/CCOL0521662060.006
-* Malka, Salomon, 2002, _Emmanuel Levinas: la vie et la trace_, Paris: J-C Lattès.
-* Manning, Robert John Sheffler, 1993, _Interpreting Otherwise than Heidegger: Emmanuel Levinas’s Ethics as First Philosophy_, Pittsburgh, PA: Duquesne University Press.
-* Marcus, Paul, 2008, _Psychoanalysis_, Milwaukee, WI: Marquette University Press.
-* Marion, Jean-Luc, 1986, _Prolégomènes à la charité_, Paris: Éditions la Différence. Translated as _Prolegomena to Charity_, Stephen E. Lewis (trans.), New York: Fordham University, 2002.
-* –––, 1989, _Réduction et donation: recherches sur Husserl, Heidegger et la phénoménologie_, Paris: Presses Universitaires de France.
-* ––– (ed.), 2000, _Positivité et transcendance, suivi de Lévinas et la phénoménologie_, Paris: Presses Universitaires de France.
-* May, Todd, 1997, _Reconsidering Difference: Nancy, Derrida, Levinas and Deleuze_, University Park, PA: Pennsylvania State University Press.
-* Matthews, Eric, 1996, “After Structuralism: Derrida, Levinas, and Lyotard”, in his _Twentieth-Century French Philosophy_, Oxford: Oxford University Press, 157–186.
-* McDowell, John, 1998, _Mind, Value, and Reality_, Cambridge, MA: Harvard University Press.
-* McGettigan, Andrew, 2006, “The Philosopher’s Fear of Alterity: Levinas, Europe and Humanities ‘without Sacred History’”, _Radical Philosophy_, 140(Nov/Dec): 15–25, \[[McGettigan 2006 available online](https://www.radicalphilosophyarchive.com/article/the-philosophere28099s-fear-of-alterity/)]
-* Mensch, James, 2015, _Levinas’s Existential Analytic: A Commentary on Totality and Infinity_, Evanston, IL: Northwestern University Press.
-* \[mp-PP] Merleau-Ponty, Maurice, 1945 \[2012], _Phénoménologie de la perception_, Paris: Éditions Gallimard. Translated as _Phenomenology of Perception_, Donald Landes (trans.), London: Routledge, 2012.
-* –––, 1964 \[1968], _Le Visible et l’invisible_, Claude Lefort (ed.), Paris: Editions Gallimard. Translated as _The Visible and the Invisible_, Alfonso Lingis (trans.), Evanston, IL: Northwestern University Press, 1968.
-* Messina, Aïcha Liviana, 2018, _L’anarchie de la paix: Levinas et la philosophie politique_, Paris: CNRS Éditions.
-* Moati, Raoul, 2012 \[2017], _Evénements nocturnes: Essai sur Totalité et Infini_, (Le bel aujourd’hui), Paris: Hermann. Translated as _Levinas and the Night of Being: A Guide to Totality and Infinity_, Daniel Wyche (trans.), New York: Fordham University Press. doi:10.5422/fordham/9780823273195.001.0001
-* Mole, Gary D., 1997, _Lévinas, Blanchot, Jabès: Figures of Estrangement_, Gainesville, FL: University Press of Florida.
-* Mongin, Olivier (ed.), 1997, _Lectures d’Emmanuel Levinas_, special issue of _Esprit_, 234 (Juillet 1997).
-* Morgan, Michael L., 2007, _Discovering Levinas_, New York: Cambridge University Press. doi:10.1017/CBO9780511805240
-* –––, 2011, _The Cambridge Introduction to Emmanuel Levinas_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511921551
-* –––, 2016, _Levinas’s Ethical Politics_, Bloomington, IN: Indiana University Press.
-* Morrison, Glenn, 2013, _A Theology of Alterity: Levinas, von Balthasar, and Trinitarian Praxis_, Pittsburgh, PA: Duquesne University Press.
-* Moten, Fred, 2018, _The Universal Machine: Consent not to be a Single Being_, Durham, NC: Duke University Press.
-* Murray, Jeffrey W., 2003, _Face to Face in Dialogue: Emmanuel Levinas and (the) Communication (of) Ethics_, Lanham, MD: University Press of America.
-* Nancy, Jean-Luc, 1982, _Le partage des voix_, Paris: Galilée.
-* –––, 1983 \[2004], “Le Katègorein de l’excès”, in his _L’impératif catégorique_, Paris: Flammarion, 81–19. Translated as “The _Kategorein_ of Excess” in _A Finite Thinking_, Simon Sparks (ed.), James Gilbert-Walsh (trans.), Stanford, CA: Stanford University Press, 142.
-* Ndayizigiye, Thaddée, 1997, _Réexamen éthique des droits de l’homme sous l’éclairage de la pensée d’Emmanuel Levinas_, New York: Peter Lang.
-* Neendoor, Thomas, 1998, _Communion: An Ecclesiological Analysis of the Concept of Communion of the Thomas Christians in the Light of the Idea of Self in Emmanuel Levinas_, Kerala: Pontifical Oriental Institute of Religious Studies.
-* New, Melvyn, Richard A. Cohen, and Robert Bernasconi (eds), 2001, _In Proximity: Emmanuel Levinas and the Eighteenth Century_, Lubbock, TX: Texas Tech University Press.
-* Newton, Adam Zachary, 2001, _The Fence and the Neighbor: Emmanuel Levinas, Yeshayahu Liebowitz, and Israel among the Nations_, Albany, NY: State University of New York Press.
-* Nordmann, Sophie, 2017, _Levinas et la philosophie judéo-allemande_, Paris: Vrin.
-* O’Neill, Onora, 1996, _Towards Justice and Virtue: A Constructive Account of Practical Reasoning_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621239
-* Ouaknin, Marc-Alain, 1993 \[1995], _Le livre brûlé: philosophie du Talmud_, Paris: Lieu Commun. Translated as _The Burnt Book: Reading the Talmud_, Llewelyn Brown (trans.), Princeton: Princeton University Press, 1995.
-* Oppenheim, Michael D., 1997, _Speaking/Writing of God: Jewish Philosophical Reflections on the Life with Others_, Albany, NY: State University of New York Press.
-* Peperzak, Adriaan T., 1993, _To the Other: An Introduction to the Philosophy of Emmanuel Levinas_, West Lafayette, IN: Purdue University Press.
-* ––– (ed.), 1995, _Ethics as First Philosophy: The Significance of Emmanuel Levinas for Philosophy, Literature and Religion_, New York: Routledge.
-* –––, 1997, _Beyond: The Philosophy of Emmanuel Levinas_, Evanston, IL: Northwestern University Press.
-* Perez, Félix, 2016, _Apprendre à philosopher avec Levinas_, Paris: Ellipses.
-* Perpich, Diane, 2008, _The Ethics of Emmanuel Levinas_, Stanford, CA: Stanford University Press.
-* Petrosino, Silvano and Jacques Rolland, 1984, _La vérité nomade: Introduction à Emmanuel Lévinas_, Paris: Éditions La Découverte.
-* Pines, Shlomo, 1974, “Translator’s Introduction”, in _Moses Maimonides: The Guide of the Perplexed_, Vol. I, Chicago: University of Chicago Press, 1974: lvii–cxxii.
-* Plant, Bob, 2005, _Wittgenstein and Levinas: Ethical and Religious Thought_, New York: Routledge.
-* Plourde, Simonne, 1996, _Emmanuel Levinas. Altérité et responsabilité: guide de lecture_, Paris: Le Cerf.
-* Poirié, François, 1992, _Emmanuel Lévinas_, Besançon: Éditions La Manufacture.
-* Ponzio, Augusto, 1996, _Subjectivité et altérité: Sur Emmanuel Levinas, suivi de deux dialogues avec Emmanuel Levinas_, Paris: L’Harmattan.
-* Pradines, Maurice, 1928, _Philosophie de la sensation_, Vol. I “Le problème de la sensation”, Paris: Les Belles Lettres.
-* –––, 1932, _Philosophie de la sensation_, Vol. II “La sensibilité élémentaire”, Paris: Les Belles Lettres.
-* Puntel, Lorenz, 2012, _Being and God: A Systematic Approach in Confrontation with Martin Heidegger, Emmanuel Levinas, and Jean-Luc Marion_, Evanston, IL: Northwestern University Press.
-* Purcell, Michael, 1998, _Mystery and Method: The Other in Rahner and Levinas_, Milwaukee, WI: Marquette University Press.
-* Putnam, Hilary, 2008, _Jewish Philosophy as a Guide to Life: Rosenzweig, Buber, Levinas, Wittgenstein_, Bloomington, IN: Indiana University Press.
-* Rabinovich, Silvana, 2003, _La trace dans la palimpsest: Lectures de Levinas_, Paris: L’Harmattan.
-* Rae, Gavin, 2016, _The Problem of Political Foundations in Carl Schmitt and Emmanuel Levinas_, London: Palgrave Macmillan. doi:10.1057/978-1-137-59168-5
-* Ricœur, Paul, 1990 \[1992], _Soi-même comme un autre_, Paris: Éditions du Seuil. Translated as _Oneself as Another_, Kathleen Blamey (trans.), Chicago: University of Chicago Press, 1992.
-* –––, 1997, _Autrement. Lecture d’Autrement qu’être ou au-delà de l’Essence d’Emmanuel Levinas_, Paris: Presses Universitaires de France.
-* Robbins, Jill, 1991, _Prodigal Son/Elder Brother: Interpretation and Alterity in Augustine, Petrarch, Kafka and Levinas_, Chicago: University of Chicago Press.
-* –––, 1999, _Altered Reading: Levinas and Literature_, Chicago: University of Chicago Press.
-* Rolland, Jacques (ed.), 1984, _Emmanuel Lévinas_, (_Cahiers de la nuit surveillée_, 3), Lagrasse: Éditions Verdier.
-* –––, 2000, _Parcours de l’Autrement: Lecture d’Emmanuel Levinas_, Paris: Presses Universitaires de France.
-* Rose, Gillian, 1992, _The Broken Middle: Out of Our Ancient Past_, Oxford: Blackwell Publishers.
-* –––, 1993, _Judaism and Modernity: Philosophical Essays_, Oxford: Blackwell Publishers.
-* Rosenzweig, Franz, 1921 \[2005], _Stern der Erlösung_, Frankfurt am Main: Kauffmann. Translated as _Star of Redemption_, Barbara E. Galli (trans.), Madison, WI: University of Wisconsin Press, 2005.
-* Rychter, Ewa, 2004, _(Un)saying of the Other: Allegory and Irony in Emmanuel Levinas’s Ethical Language_, New York: Peter Lang.
-* Saint Cheron, Michaël de, 2010, _Entretiens avec Emmanuel Lévinas_, Livre de Poche. Translated as _Conversations with Emmanuel Levinas: 1983–1994_, Gary D. Mole (trans.), Pittsburgh, PA: Duquesne University Press, 2010.
-* Salanskis, Jean-Michel, 2006, _Levinas vivant_, Paris: Les belles lettres.
-* –––, 2016, _Le fait juif_, Paris: Les belles lettres.
-* Saracino, Michele, 2003, _On Being Human: A Conversation with Lonergan and Levinas_, Milwaukee, WI: Marquette University Press.
-* Sartre, Jean-Paul, 1943 \[1992], _L’Être et le néant : Essai d’ontologie phénoménologique_, Paris: Éditions Gallimard. Translated as _Being and Nothingness: A Phenomenological Essay on Ontology_, Hazel Barnes (trans.), New York: Washington Square Press.
-* Schroeder, Brian, 1996, _Altared Ground: Levinas, History and Violence_, New York: Routledge.
-* Sealy, Kris, 2013, _Moments of Disruption: Levinas, Sartre, and the Question of Transcendence_, Albany, NY: State University of New York Press.
-* Sebbah, François-David, 2000, _Lévinas: Ambiguïtés de l’altérité_, Paris: Les Belles Lettres.
-* –––, 2001 \[2012], _Épreuve de la limite: Derrida, Henry, Levinas et la phénoménologie_, Presses Universitaires de France. Translated as _Testing the Limit: Derrida, Henry, Levinas and the Phenomenological Tradition_, Stephen Barker (trans.), Stanford, CA: Stanford University Press, 2012.
-* –––, 2009, _Lévinas et le contemporain: Les préoccupations de l’heure_, Besançon: Éditions Les Solitaires Intempestifs.
-* Seong, ShinHyung, 2018, _Otherness and Ethics: An Ethical Discourse of Levinas and Confucius_, Eugene, OR: Wipf and Stock.
-* Severson, Eric, 2013, _Levinas’s Philosophy of Time: Gift, Responsibility, Diachrony, Hope_, Pittsburgh, PA: Duquesne University Press.
-* Shankman, Steven and Massimo Lollini (eds), 2002, _Who, Exactly, is the Other? Western and Transcultural Perspectives. A Collection of Essays_, Eugene, OR: University of Oregon Books.
-* Shapiro, Lawrence, 2011, _Embodied Cognition_, New York: Routledge.
-* Shepherd, Andrew, 2014, _The Gift of the Other: Levinas, Derrida, and a Theology of Hospitality_, Eugene, OR: Wipf and Stock.
-* Simmons, J. Aaron and David Wood (eds), 2008, _Kierkegaard and Levinas: Ethics, Politics, and Religion_, Bloomington, IN: Indiana University Press.
-* Simmons, William Paul, 2003, _An-Archy and Justice: An Introduction to Emmanuel Levinas’s Political Thought_, Lanham, MD: Lexington Books.
-* Smith, Michael B., 2005, _Toward the Outside: Concepts and Themes in Emmanuel Levinas_, Pittsburgh, PA: Duquesne University Press.
-* Smith, Steven G., 1983, _The Argument to the Other: Reason beyond Reason in the Thought of Karl Barth and Emmanuel Levinas_, Chico, CA: Scholars Press.
-* Sparrow, Tom, 2013, _Levinas Unhinged_, Hants, UK: Zero Books.
-* Srajek, Martin C., 1998, _In the Margins of Deconstruction: Jewish Conceptions of Ethics in Emmanuel Levinas and Jacques Derrida_, Dordrecht: Kluwer Academic Publishers. doi:10.1007/978-94-011-5198-6
-* Stanford, Stella, 2000, _The Metaphysics of Love: Gender and Transcendence in Levinas_, New Brunswick, NJ: Athlone Press.
-* Stauffer, Jill, 2015, _Ethical Loneliness: The Injustice of Not Being Heard_, New York: Columbia University Press.
-* Stone, Ira F., 2009, _Reading Levinas / Reading Talmud: An Introduction_, Philadelphia: Jewish Publication Society.
-* Stone, Matthew, 2018, _Levinas, Ethics and Law_, Edinburgh: Edinburgh University Press.
-* Strasser, Stephan, 1978, _Jenseits von Sein und Zeit. Eine Einführung in Emmanuel Levinas Philosophie_, The Hague: Martinus Nijhoff Publishers.
-* –––, 1993, “Emmanuel Levinas: Ethik als erste Philosophie”, in Bernhard Waldenfels, _Phänomenologie in Frankreich_, Frankfurt am Main: Suhrkamp Verlag.
-* Theunissen, Michael, 1969 \[1984], _Der Andere: Studien zur Sozialontologie der Gegenwart_, Berlin: de Gruyter. Translated as _The Other: Studies in the Social Ontology of Husserl, Heidegger, Sartre and Buber_, Christopher Macann (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1984.
-* Tahmasebi-Birgani, Victoria, 2019, _Emmanuel Levinas and the Politics of Non-Violence_, Toronto: University of Toronto Press.
-* Thomas, Elisabeth Louise, 2004, _Emmanuel Levinas: Ethics, Justice and the Human beyond Being_, London: Routledge.
-* Todd, Sharon, 2003, _Learning from the Other: Levinas, Psychoanalysis and Ethical Possibilities in Education_, Albany, NY: State University of New York Press.
-* Topolski, Anya, 2015, _Arendt, Levinas and a Politics of Relationality_, Lanham, MD: Rowman & Littlefield International.
-* Toumayan, Alain P., 2004, _Encountering the Other: The Artwork and the Problem of Difference in Blanchot and Levinas_, Pittsburgh, PA: Duquesne University Press.
-* Trigano, Shmuel (ed.), 1997, _L’école de pensée juive de Paris_, (Pardès 23), Paris: Éditions In Press.
+* Malka, Salomon, 2002, *Emmanuel Levinas: la vie et la trace*, Paris: J-C Lattès.
+* Manning, Robert John Sheffler, 1993, *Interpreting Otherwise than Heidegger: Emmanuel Levinas’s Ethics as First Philosophy*, Pittsburgh, PA: Duquesne University Press.
+* Marcus, Paul, 2008, *Psychoanalysis*, Milwaukee, WI: Marquette University Press.
+* Marion, Jean-Luc, 1986, *Prolégomènes à la charité*, Paris: Éditions la Différence. Translated as *Prolegomena to Charity*, Stephen E. Lewis (trans.), New York: Fordham University, 2002.
+* –––, 1989, *Réduction et donation: recherches sur Husserl, Heidegger et la phénoménologie*, Paris: Presses Universitaires de France.
+* ––– (ed.), 2000, *Positivité et transcendance, suivi de Lévinas et la phénoménologie*, Paris: Presses Universitaires de France.
+* May, Todd, 1997, *Reconsidering Difference: Nancy, Derrida, Levinas and Deleuze*, University Park, PA: Pennsylvania State University Press.
+* Matthews, Eric, 1996, “After Structuralism: Derrida, Levinas, and Lyotard”, in his *Twentieth-Century French Philosophy*, Oxford: Oxford University Press, 157–186.
+* McDowell, John, 1998, *Mind, Value, and Reality*, Cambridge, MA: Harvard University Press.
+* McGettigan, Andrew, 2006, “The Philosopher’s Fear of Alterity: Levinas, Europe and Humanities ‘without Sacred History’”, *Radical Philosophy*, 140(Nov/Dec): 15–25, \[[McGettigan 2006 available online](https://www.radicalphilosophyarchive.com/article/the-philosophere28099s-fear-of-alterity/)]
+* Mensch, James, 2015, *Levinas’s Existential Analytic: A Commentary on Totality and Infinity*, Evanston, IL: Northwestern University Press.
+* \[mp-PP] Merleau-Ponty, Maurice, 1945 \[2012], *Phénoménologie de la perception*, Paris: Éditions Gallimard. Translated as *Phenomenology of Perception*, Donald Landes (trans.), London: Routledge, 2012.
+* –––, 1964 \[1968], *Le Visible et l’invisible*, Claude Lefort (ed.), Paris: Editions Gallimard. Translated as *The Visible and the Invisible*, Alfonso Lingis (trans.), Evanston, IL: Northwestern University Press, 1968.
+* Messina, Aïcha Liviana, 2018, *L’anarchie de la paix: Levinas et la philosophie politique*, Paris: CNRS Éditions.
+* Moati, Raoul, 2012 \[2017], *Evénements nocturnes: Essai sur Totalité et Infini*, (Le bel aujourd’hui), Paris: Hermann. Translated as *Levinas and the Night of Being: A Guide to Totality and Infinity*, Daniel Wyche (trans.), New York: Fordham University Press. doi:10.5422/fordham/9780823273195.001.0001
+* Mole, Gary D., 1997, *Lévinas, Blanchot, Jabès: Figures of Estrangement*, Gainesville, FL: University Press of Florida.
+* Mongin, Olivier (ed.), 1997, *Lectures d’Emmanuel Levinas*, special issue of *Esprit*, 234 (Juillet 1997).
+* Morgan, Michael L., 2007, *Discovering Levinas*, New York: Cambridge University Press. doi:10.1017/CBO9780511805240
+* –––, 2011, *The Cambridge Introduction to Emmanuel Levinas*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511921551
+* –––, 2016, *Levinas’s Ethical Politics*, Bloomington, IN: Indiana University Press.
+* Morrison, Glenn, 2013, *A Theology of Alterity: Levinas, von Balthasar, and Trinitarian Praxis*, Pittsburgh, PA: Duquesne University Press.
+* Moten, Fred, 2018, *The Universal Machine: Consent not to be a Single Being*, Durham, NC: Duke University Press.
+* Murray, Jeffrey W., 2003, *Face to Face in Dialogue: Emmanuel Levinas and (the) Communication (of) Ethics*, Lanham, MD: University Press of America.
+* Nancy, Jean-Luc, 1982, *Le partage des voix*, Paris: Galilée.
+* –––, 1983 \[2004], “Le Katègorein de l’excès”, in his *L’impératif catégorique*, Paris: Flammarion, 81–19. Translated as “The *Kategorein* of Excess” in *A Finite Thinking*, Simon Sparks (ed.), James Gilbert-Walsh (trans.), Stanford, CA: Stanford University Press, 142.
+* Ndayizigiye, Thaddée, 1997, *Réexamen éthique des droits de l’homme sous l’éclairage de la pensée d’Emmanuel Levinas*, New York: Peter Lang.
+* Neendoor, Thomas, 1998, *Communion: An Ecclesiological Analysis of the Concept of Communion of the Thomas Christians in the Light of the Idea of Self in Emmanuel Levinas*, Kerala: Pontifical Oriental Institute of Religious Studies.
+* New, Melvyn, Richard A. Cohen, and Robert Bernasconi (eds), 2001, *In Proximity: Emmanuel Levinas and the Eighteenth Century*, Lubbock, TX: Texas Tech University Press.
+* Newton, Adam Zachary, 2001, *The Fence and the Neighbor: Emmanuel Levinas, Yeshayahu Liebowitz, and Israel among the Nations*, Albany, NY: State University of New York Press.
+* Nordmann, Sophie, 2017, *Levinas et la philosophie judéo-allemande*, Paris: Vrin.
+* O’Neill, Onora, 1996, *Towards Justice and Virtue: A Constructive Account of Practical Reasoning*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621239
+* Ouaknin, Marc-Alain, 1993 \[1995], *Le livre brûlé: philosophie du Talmud*, Paris: Lieu Commun. Translated as *The Burnt Book: Reading the Talmud*, Llewelyn Brown (trans.), Princeton: Princeton University Press, 1995.
+* Oppenheim, Michael D., 1997, *Speaking/Writing of God: Jewish Philosophical Reflections on the Life with Others*, Albany, NY: State University of New York Press.
+* Peperzak, Adriaan T., 1993, *To the Other: An Introduction to the Philosophy of Emmanuel Levinas*, West Lafayette, IN: Purdue University Press.
+* ––– (ed.), 1995, *Ethics as First Philosophy: The Significance of Emmanuel Levinas for Philosophy, Literature and Religion*, New York: Routledge.
+* –––, 1997, *Beyond: The Philosophy of Emmanuel Levinas*, Evanston, IL: Northwestern University Press.
+* Perez, Félix, 2016, *Apprendre à philosopher avec Levinas*, Paris: Ellipses.
+* Perpich, Diane, 2008, *The Ethics of Emmanuel Levinas*, Stanford, CA: Stanford University Press.
+* Petrosino, Silvano and Jacques Rolland, 1984, *La vérité nomade: Introduction à Emmanuel Lévinas*, Paris: Éditions La Découverte.
+* Pines, Shlomo, 1974, “Translator’s Introduction”, in *Moses Maimonides: The Guide of the Perplexed*, Vol. I, Chicago: University of Chicago Press, 1974: lvii–cxxii.
+* Plant, Bob, 2005, *Wittgenstein and Levinas: Ethical and Religious Thought*, New York: Routledge.
+* Plourde, Simonne, 1996, *Emmanuel Levinas. Altérité et responsabilité: guide de lecture*, Paris: Le Cerf.
+* Poirié, François, 1992, *Emmanuel Lévinas*, Besançon: Éditions La Manufacture.
+* Ponzio, Augusto, 1996, *Subjectivité et altérité: Sur Emmanuel Levinas, suivi de deux dialogues avec Emmanuel Levinas*, Paris: L’Harmattan.
+* Pradines, Maurice, 1928, *Philosophie de la sensation*, Vol. I “Le problème de la sensation”, Paris: Les Belles Lettres.
+* –––, 1932, *Philosophie de la sensation*, Vol. II “La sensibilité élémentaire”, Paris: Les Belles Lettres.
+* Puntel, Lorenz, 2012, *Being and God: A Systematic Approach in Confrontation with Martin Heidegger, Emmanuel Levinas, and Jean-Luc Marion*, Evanston, IL: Northwestern University Press.
+* Purcell, Michael, 1998, *Mystery and Method: The Other in Rahner and Levinas*, Milwaukee, WI: Marquette University Press.
+* Putnam, Hilary, 2008, *Jewish Philosophy as a Guide to Life: Rosenzweig, Buber, Levinas, Wittgenstein*, Bloomington, IN: Indiana University Press.
+* Rabinovich, Silvana, 2003, *La trace dans la palimpsest: Lectures de Levinas*, Paris: L’Harmattan.
+* Rae, Gavin, 2016, *The Problem of Political Foundations in Carl Schmitt and Emmanuel Levinas*, London: Palgrave Macmillan. doi:10.1057/978-1-137-59168-5
+* Ricœur, Paul, 1990 \[1992], *Soi-même comme un autre*, Paris: Éditions du Seuil. Translated as *Oneself as Another*, Kathleen Blamey (trans.), Chicago: University of Chicago Press, 1992.
+* –––, 1997, *Autrement. Lecture d’Autrement qu’être ou au-delà de l’Essence d’Emmanuel Levinas*, Paris: Presses Universitaires de France.
+* Robbins, Jill, 1991, *Prodigal Son/Elder Brother: Interpretation and Alterity in Augustine, Petrarch, Kafka and Levinas*, Chicago: University of Chicago Press.
+* –––, 1999, *Altered Reading: Levinas and Literature*, Chicago: University of Chicago Press.
+* Rolland, Jacques (ed.), 1984, *Emmanuel Lévinas*, (*Cahiers de la nuit surveillée*, 3), Lagrasse: Éditions Verdier.
+* –––, 2000, *Parcours de l’Autrement: Lecture d’Emmanuel Levinas*, Paris: Presses Universitaires de France.
+* Rose, Gillian, 1992, *The Broken Middle: Out of Our Ancient Past*, Oxford: Blackwell Publishers.
+* –––, 1993, *Judaism and Modernity: Philosophical Essays*, Oxford: Blackwell Publishers.
+* Rosenzweig, Franz, 1921 \[2005], *Stern der Erlösung*, Frankfurt am Main: Kauffmann. Translated as *Star of Redemption*, Barbara E. Galli (trans.), Madison, WI: University of Wisconsin Press, 2005.
+* Rychter, Ewa, 2004, *(Un)saying of the Other: Allegory and Irony in Emmanuel Levinas’s Ethical Language*, New York: Peter Lang.
+* Saint Cheron, Michaël de, 2010, *Entretiens avec Emmanuel Lévinas*, Livre de Poche. Translated as *Conversations with Emmanuel Levinas: 1983–1994*, Gary D. Mole (trans.), Pittsburgh, PA: Duquesne University Press, 2010.
+* Salanskis, Jean-Michel, 2006, *Levinas vivant*, Paris: Les belles lettres.
+* –––, 2016, *Le fait juif*, Paris: Les belles lettres.
+* Saracino, Michele, 2003, *On Being Human: A Conversation with Lonergan and Levinas*, Milwaukee, WI: Marquette University Press.
+* Sartre, Jean-Paul, 1943 \[1992], *L’Être et le néant : Essai d’ontologie phénoménologique*, Paris: Éditions Gallimard. Translated as *Being and Nothingness: A Phenomenological Essay on Ontology*, Hazel Barnes (trans.), New York: Washington Square Press.
+* Schroeder, Brian, 1996, *Altared Ground: Levinas, History and Violence*, New York: Routledge.
+* Sealy, Kris, 2013, *Moments of Disruption: Levinas, Sartre, and the Question of Transcendence*, Albany, NY: State University of New York Press.
+* Sebbah, François-David, 2000, *Lévinas: Ambiguïtés de l’altérité*, Paris: Les Belles Lettres.
+* –––, 2001 \[2012], *Épreuve de la limite: Derrida, Henry, Levinas et la phénoménologie*, Presses Universitaires de France. Translated as *Testing the Limit: Derrida, Henry, Levinas and the Phenomenological Tradition*, Stephen Barker (trans.), Stanford, CA: Stanford University Press, 2012.
+* –––, 2009, *Lévinas et le contemporain: Les préoccupations de l’heure*, Besançon: Éditions Les Solitaires Intempestifs.
+* Seong, ShinHyung, 2018, *Otherness and Ethics: An Ethical Discourse of Levinas and Confucius*, Eugene, OR: Wipf and Stock.
+* Severson, Eric, 2013, *Levinas’s Philosophy of Time: Gift, Responsibility, Diachrony, Hope*, Pittsburgh, PA: Duquesne University Press.
+* Shankman, Steven and Massimo Lollini (eds), 2002, *Who, Exactly, is the Other? Western and Transcultural Perspectives. A Collection of Essays*, Eugene, OR: University of Oregon Books.
+* Shapiro, Lawrence, 2011, *Embodied Cognition*, New York: Routledge.
+* Shepherd, Andrew, 2014, *The Gift of the Other: Levinas, Derrida, and a Theology of Hospitality*, Eugene, OR: Wipf and Stock.
+* Simmons, J. Aaron and David Wood (eds), 2008, *Kierkegaard and Levinas: Ethics, Politics, and Religion*, Bloomington, IN: Indiana University Press.
+* Simmons, William Paul, 2003, *An-Archy and Justice: An Introduction to Emmanuel Levinas’s Political Thought*, Lanham, MD: Lexington Books.
+* Smith, Michael B., 2005, *Toward the Outside: Concepts and Themes in Emmanuel Levinas*, Pittsburgh, PA: Duquesne University Press.
+* Smith, Steven G., 1983, *The Argument to the Other: Reason beyond Reason in the Thought of Karl Barth and Emmanuel Levinas*, Chico, CA: Scholars Press.
+* Sparrow, Tom, 2013, *Levinas Unhinged*, Hants, UK: Zero Books.
+* Srajek, Martin C., 1998, *In the Margins of Deconstruction: Jewish Conceptions of Ethics in Emmanuel Levinas and Jacques Derrida*, Dordrecht: Kluwer Academic Publishers. doi:10.1007/978-94-011-5198-6
+* Stanford, Stella, 2000, *The Metaphysics of Love: Gender and Transcendence in Levinas*, New Brunswick, NJ: Athlone Press.
+* Stauffer, Jill, 2015, *Ethical Loneliness: The Injustice of Not Being Heard*, New York: Columbia University Press.
+* Stone, Ira F., 2009, *Reading Levinas / Reading Talmud: An Introduction*, Philadelphia: Jewish Publication Society.
+* Stone, Matthew, 2018, *Levinas, Ethics and Law*, Edinburgh: Edinburgh University Press.
+* Strasser, Stephan, 1978, *Jenseits von Sein und Zeit. Eine Einführung in Emmanuel Levinas Philosophie*, The Hague: Martinus Nijhoff Publishers.
+* –––, 1993, “Emmanuel Levinas: Ethik als erste Philosophie”, in Bernhard Waldenfels, *Phänomenologie in Frankreich*, Frankfurt am Main: Suhrkamp Verlag.
+* Theunissen, Michael, 1969 \[1984], *Der Andere: Studien zur Sozialontologie der Gegenwart*, Berlin: de Gruyter. Translated as *The Other: Studies in the Social Ontology of Husserl, Heidegger, Sartre and Buber*, Christopher Macann (trans.), (Studies in Contemporary German Social Thought), Cambridge, MA: MIT Press, 1984.
+* Tahmasebi-Birgani, Victoria, 2019, *Emmanuel Levinas and the Politics of Non-Violence*, Toronto: University of Toronto Press.
+* Thomas, Elisabeth Louise, 2004, *Emmanuel Levinas: Ethics, Justice and the Human beyond Being*, London: Routledge.
+* Todd, Sharon, 2003, *Learning from the Other: Levinas, Psychoanalysis and Ethical Possibilities in Education*, Albany, NY: State University of New York Press.
+* Topolski, Anya, 2015, *Arendt, Levinas and a Politics of Relationality*, Lanham, MD: Rowman & Littlefield International.
+* Toumayan, Alain P., 2004, *Encountering the Other: The Artwork and the Problem of Difference in Blanchot and Levinas*, Pittsburgh, PA: Duquesne University Press.
+* Trigano, Shmuel (ed.), 1997, *L’école de pensée juive de Paris*, (Pardès 23), Paris: Éditions In Press.
 * –––, 2002, “Levinas et le projet de la philosophie juive”, in Cohen-Levinas and Trigano 2002: 145–178.
-* Vasseleu, Cathryn, 1998, _Textures of Light: Vision and Touch in Irigaray, Levinas and Merleau-Ponty_, New York: Routledge.
-* Velling, Terry A., 2014, _For You Alone: Levinas and the Answerable Life_, Eugene, OR: Cascade Books.
+* Vasseleu, Cathryn, 1998, *Textures of Light: Vision and Touch in Irigaray, Levinas and Merleau-Ponty*, New York: Routledge.
+* Velling, Terry A., 2014, *For You Alone: Levinas and the Answerable Life*, Eugene, OR: Cascade Books.
 * Veulemans, Sophie, 2008, “On Time : Levinas’ Appropriation of Bergson”, in Burggraeve 2008: 279–302.
-* Wall, Thomas Carl, 1999, _Radical Passivity: Lévinas, Blanchot, and Agamben_, Albany, NY: State University of New York Press.
-* Wehrs, Donald, 2013, _Levinas and Twentieth-Century Literature: Ethics and the Reconstitution of Subjectivity_, Newark: University of Delaware Press.
+* Wall, Thomas Carl, 1999, *Radical Passivity: Lévinas, Blanchot, and Agamben*, Albany, NY: State University of New York Press.
+* Wehrs, Donald, 2013, *Levinas and Twentieth-Century Literature: Ethics and the Reconstitution of Subjectivity*, Newark: University of Delaware Press.
 * Westphal, Merold, 2008, _Levinas and Kierkegaard in Dialogu_e. Bloomington, IN: Indiana University Press.
-* Wiggins, David, 1987 \[1998], _Needs, Values, Truth: Essays in the Philosophy of Value_, Oxford: Oxford University Press. Third edition, 1998.o
-* Winkler, Raphael, 2018, _Philosophy of Finitude: Heidegger, Levinas, and Nietzsche_, New York: Bloomsbury.
-* Wolff, Ernst, 2007, _De l’éthique à la justice: Langage et politique dans la philosophie de Lévinas_, Dordrecht: Springer. doi:10.1007/978-1-4020-6122-6
-* Wolfson, Elliot R., 2014, _Giving Beyond the Gift: Apophasis and Overcoming Theomania_, New York: Fordham University Press. doi:10.5422/fordham/9780823255702.001.0001
-* Wolosky, Shira, 2017, “Two Types of Negative Theology; Or, What Does Negative Theology Negate” in _Negative Theology as Jewish Modernity_, Michael Fagenblat (ed.), Bloomington, IN: Indiana University Press, 161–179.
-* Wood, David and Robert Bernasconi (eds), 1982, _Time and Metaphysics_, Coventry, UK: Parousia Press.
-* ––– (eds), 1985, _Derrida and Différance_, Coventry, UK: Parousia Press.
-* Wyschogrod, Edith, 1974 \[2000], _Emmanuel Levinas: The Problem of Ethical Metaphysics_, The Hague: Martinus Nijhoff Publishers. Second edition, New York: Fordham University Press, 2000.
-* Zielinski, Agata, 2002, _Lecture de Merleau-Ponty et Levinas: le corps, le monde, l’autre_, Paris: Presses Universitaires de France.
-* Zimmermann, Nigel, 2103, _Levinas and Theology_, New York: Bloomsbury.
+* Wiggins, David, 1987 \[1998], *Needs, Values, Truth: Essays in the Philosophy of Value*, Oxford: Oxford University Press. Third edition, 1998.o
+* Winkler, Raphael, 2018, *Philosophy of Finitude: Heidegger, Levinas, and Nietzsche*, New York: Bloomsbury.
+* Wolff, Ernst, 2007, *De l’éthique à la justice: Langage et politique dans la philosophie de Lévinas*, Dordrecht: Springer. doi:10.1007/978-1-4020-6122-6
+* Wolfson, Elliot R., 2014, *Giving Beyond the Gift: Apophasis and Overcoming Theomania*, New York: Fordham University Press. doi:10.5422/fordham/9780823255702.001.0001
+* Wolosky, Shira, 2017, “Two Types of Negative Theology; Or, What Does Negative Theology Negate” in *Negative Theology as Jewish Modernity*, Michael Fagenblat (ed.), Bloomington, IN: Indiana University Press, 161–179.
+* Wood, David and Robert Bernasconi (eds), 1982, *Time and Metaphysics*, Coventry, UK: Parousia Press.
+* ––– (eds), 1985, *Derrida and Différance*, Coventry, UK: Parousia Press.
+* Wyschogrod, Edith, 1974 \[2000], *Emmanuel Levinas: The Problem of Ethical Metaphysics*, The Hague: Martinus Nijhoff Publishers. Second edition, New York: Fordham University Press, 2000.
+* Zielinski, Agata, 2002, *Lecture de Merleau-Ponty et Levinas: le corps, le monde, l’autre*, Paris: Presses Universitaires de France.
+* Zimmermann, Nigel, 2103, *Levinas and Theology*, New York: Bloomsbury.
 
 ### Video and Sound Documents
 
-* _Absent God: Emmanuel Levinas and the Humanism of the Other_, Yoram Ron (director), Israel: Noprocess films and Arnavaz Productions, 2015. (68 minutes, Hebrew & French with English and Hebrew subtitles)
-* _Emmanuel Levinas: Journée d’études_, Alain Finkielkraut, Benny Lévy, Catherine Chalier _et al_., Paris: Bibliothèque nationale de France, 2003 (four CDs).
-* _Interview Levinas_, Deodaat Visser (director), Netherlands: IKON/Levinas Studiekring, 1986 (Dutch and French). \[[_Interview Levinas_ available online](https://www.youtube.com/watch?v=tQPjVT3WU5I\&list=PLAw2xuAwJQBxWfztZwMebvQ8vEasPp4E0\&index=4)]
-* _Levinas_, David Hansel and Isy Morgensztern, Paris: Éditions Montparnasse, 2013 (2 DVDs) (In French).
+* *Absent God: Emmanuel Levinas and the Humanism of the Other*, Yoram Ron (director), Israel: Noprocess films and Arnavaz Productions, 2015. (68 minutes, Hebrew & French with English and Hebrew subtitles)
+* *Emmanuel Levinas: Journée d’études*, Alain Finkielkraut, Benny Lévy, Catherine Chalier *et al*., Paris: Bibliothèque nationale de France, 2003 (four CDs).
+* *Interview Levinas*, Deodaat Visser (director), Netherlands: IKON/Levinas Studiekring, 1986 (Dutch and French). \[[*Interview Levinas* available online](https://www.youtube.com/watch?v=tQPjVT3WU5I\&list=PLAw2xuAwJQBxWfztZwMebvQ8vEasPp4E0\&index=4)]
+* *Levinas*, David Hansel and Isy Morgensztern, Paris: Éditions Montparnasse, 2013 (2 DVDs) (In French).
 
 ## Academic Tools
 
@@ -842,7 +840,7 @@ However, Franck has detected a profound divergence in these new developments. In
 
 ### Works on Levinas
 
-* Morris, Anita, 2013, _The Role of Religion in the Philosophy of Emmanuel Levinas_, Amazon Digital Services (Kindle).
+* Morris, Anita, 2013, *The Role of Religion in the Philosophy of Emmanuel Levinas*, Amazon Digital Services (Kindle).
 
 ### Centers and Sites
 
@@ -860,4 +858,4 @@ However, Franck has detected a profound divergence in these new developments. In
 [Buber, Martin](https://plato.stanford.edu/entries/buber/) | [Cohen, Hermann](https://plato.stanford.edu/entries/cohen/) | [Derrida, Jacques](https://plato.stanford.edu/entries/derrida/) | [existentialism](https://plato.stanford.edu/entries/existentialism/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [phenomenology](https://plato.stanford.edu/entries/phenomenology/) | [religion: philosophy of](https://plato.stanford.edu/entries/philosophy-religion/) | [Rosenzweig, Franz](https://plato.stanford.edu/entries/rosenzweig/) | [self-consciousness: phenomenological approaches to](https://plato.stanford.edu/entries/self-consciousness-phenomenological/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Bettina Bergo](http://www.philo.umontreal.ca/personnel/professeur/bergo-bettina/) <[_bettina.bergo@umontreal.ca_](mailto:bettina%2ebergo%40umontreal%2eca)>
+[Bettina Bergo](http://www.philo.umontreal.ca/personnel/professeur/bergo-bettina/) <[*bettina.bergo@umontreal.ca*](mailto:bettina%2ebergo%40umontreal%2eca)>

@@ -1,6 +1,6 @@
 # 公民教育 civic education (Jack Crittenden and Peter Levine)
 
-_首次发表于 2007 年 12 月 27 日星期四；实质性修订于 2018 年 8 月 31 日星期五_
+*首次发表于 2007 年 12 月 27 日星期四；实质性修订于 2018 年 8 月 31 日星期五*
 
 在最广泛的定义中，“公民教育”意味着影响人们作为社区成员或潜在成员的信仰、承诺、能力和行动的所有过程。公民教育不一定是有意识或蓄意的；机构和社区会在无意识中传递价值观和规范。这未必有益：有时人们在接受公民教育时会变得无力，或者灌输有害的价值观和目标。它绝对不仅限于学校教育、儿童和青少年教育。家庭、政府、宗教和大众传媒只是参与公民教育的一些机构，被理解为终身过程。\[[1](https://plato.stanford.edu/entries/civic-education/notes.html#note-1)] 一个著名的例子是托克维尔经常引用的观察，即地方政治参与是一种公民教育形式：“镇会对自由的意义如同小学对科学的意义；它使人民能够接触到自由，教导人们如何使用和享受它。”
 
@@ -15,14 +15,13 @@ _首次发表于 2007 年 12 月 27 日星期四；实质性修订于 2018 年 8
 * 谁拥有公民的全部权利和义务？这个问题在涉及儿童、移民和已被定罪的个人时尤为有争议。
 * 我们应该将自己视为公民的社区是哪些？国家并非唯一的选择；有些人将自己视为地方地理社区、组织、运动、宽泛定义的群体，甚至是整个世界的公民。
 
-_每种社区的公民都有哪些责任？每个社区的所有成员是否都有相同的责任，或者应该存在重大差异，例如长者和孩子之间，或者领导和其他成员之间？_
+*每种社区的公民都有哪些责任？每个社区的所有成员是否都有相同的责任，或者应该存在重大差异，例如长者和孩子之间，或者领导和其他成员之间？*
 
 * 一个良好政权和良好公民之间的关系是什么？亚里士多德认为有几种可接受的政权类型，每种类型都需要不同类型的公民。这使得良好公民的问题相对于政权类型而言。但其他理论家则主张特定的政权和公民能力的组合。例如，古典自由主义者支持那些对公民提出相对较低要求的政权，既因为他们怀疑人们是否能够达到更高的要求，又因为他们希望保障个人自由免受国家侵犯。公民共和主义者认为某种类型的公民身份——高度积极和审议性——构成了美好生活的一部分，因此推荐共和政权，因为它能促进良好的公民身份。
 * 谁可以决定什么构成良好的**公民**？例如，如果我们考虑在美国公立学校就读的学生，关于他们应该学习什么价值观、习惯和能力的决定应该属于他们的父母、老师、孩子们自己、当地社区、地方或州政府，还是国家？当考虑到五岁孩子和成年大学生时，我们可能会得出不同的结论。正如谢尔顿·沃林警告说：“...\[ ]，那些行使权力的人赋予集体的身份将反映出权力的需求，而不是一个复杂集体的政治可能性”（1989 年，13 页）。对于一些政权——例如法西斯主义或共产主义，这根本不被视为危险，而是作为他们的公民教育形式的目的。在民主国家，问题更为复杂，因为公共机构可能必须教导人们成为良好的民主**公民**，但他们可以决定以增强国家权力并减少自由的方式来这样做。
 * 公民教育的伦理适当手段是什么？例如，惩罚未能记住爱国言论的学生可能是有效的，或者为社区服务付费学生可能是有效的，但这些方法的伦理性将是有争议的。教育者可能会让学生参与当前事件的公开讨论，因为承诺将他们视为自主代理人，而不考虑后果。与其他主题一样，手段和目的之间的适当关系存在争议。
 
 这些问题很少作为综合公民教育理论的一部分共同讨论；相反，它们在有关政治或教育的著作中偶尔提及。其中一些问题从未被专业哲学家深入探讨过，但在公民身份的公开辩论中经常出现。
-
 
 ***
 
@@ -36,9 +35,9 @@ _每种社区的公民都有哪些责任？每个社区的所有成员是否都�
 
 成为这样的资产需要内化并实践社区最高的伦理理想。因此，_paideia_包括艺术、哲学和修辞学、历史、科学和数学的教育；体育和战争训练；城市宗教、社会、政治和专业习俗的文化培养或学习以及参与培训；通过美德培养个人道德品质。最重要的是，个人应该对城市有强烈的责任感。古希腊文化在古典时代的方方面面——从艺术到政治和体育——都致力于发展个人在公共服务中的能力。
 
-**Paideia** 与另一个希腊概念密不可分：_arete_ 或卓越，尤其是声誉的卓越，同时也包括善良和生活各个方面的卓越。_Paideia_ 和 _arete_ 一起构成了自我发展的一个过程，这无非就是公民发展。因此，一个人只能通过参与城邦活动在政治中发展自己；随着个体培养出美德的特征，城邦本身也会变得更加有德行和卓越。
+**Paideia** 与另一个希腊概念密不可分：*arete* 或卓越，尤其是声誉的卓越，同时也包括善良和生活各个方面的卓越。*Paideia* 和 *arete* 一起构成了自我发展的一个过程，这无非就是公民发展。因此，一个人只能通过参与城邦活动在政治中发展自己；随着个体培养出美德的特征，城邦本身也会变得更加有德行和卓越。
 
-所有人，无论其职业或任务如何，都是老师，而教育的目的——即政治生活本身——是发展一个更伟大（更高尚、更强大、更有美德）的公共社区。因此，政治不仅仅是管理或规范社区事务；它也是一所用于规范公民生活（内在和外在）的“学校”。因此，雅典民主政治的实践不仅是产生城市良好政策的手段，而且也是她公民的智育、道德和公民教育的“课程”。“……\[总的来说，问问国家通过教育公民所获得的训练会带来什么好处，答案将是非常直接的。他们接受的良好教育将使他们成为好人……”（柏拉图，《_法律_》，641b7–10）。事实上，在《_法律_》后来的部分中，雅典人指出教育应该旨在培养对成为“完美公民”有渴望的欲望，他们知道，早在亚里士多德之前，“如何统治和被统治”（643e4–6）。
+所有人，无论其职业或任务如何，都是老师，而教育的目的——即政治生活本身——是发展一个更伟大（更高尚、更强大、更有美德）的公共社区。因此，政治不仅仅是管理或规范社区事务；它也是一所用于规范公民生活（内在和外在）的“学校”。因此，雅典民主政治的实践不仅是产生城市良好政策的手段，而且也是她公民的智育、道德和公民教育的“课程”。“……\[总的来说，问问国家通过教育公民所获得的训练会带来什么好处，答案将是非常直接的。他们接受的良好教育将使他们成为好人……”（柏拉图，《*法律*》，641b7–10）。事实上，在《*法律*》后来的部分中，雅典人指出教育应该旨在培养对成为“完美公民”有渴望的欲望，他们知道，早在亚里士多德之前，“如何统治和被统治”（643e4–6）。
 
 ### 1.2 古典自由主义
 
@@ -64,7 +63,7 @@ _每种社区的公民都有哪些责任？每个社区的所有成员是否都�
 
 ### 1.3 卢梭：走向进步教育
 
-尽管古代雅典实行了民主制度，但她最著名的哲学家——苏格拉底、柏拉图和亚里士多德——并不是民主的坚定捍卫者。他们对民主持模棱两可的态度，甚至可以说是敌对的。最早公开支持民主的人，一个“民主的梦想家”，毫无疑问是卢梭。然而，卢梭对于人们能否既是好人又是好公民表示怀疑。对于卢梭来说，一个好人是一个自然人，具有自由、独立、平等、幸福、同情和自爱（_amour de soi_）的特质，这些特质在社会之前就存在于自然状态中。因此，社会对这样的人几乎只会起到腐化作用。
+尽管古代雅典实行了民主制度，但她最著名的哲学家——苏格拉底、柏拉图和亚里士多德——并不是民主的坚定捍卫者。他们对民主持模棱两可的态度，甚至可以说是敌对的。最早公开支持民主的人，一个“民主的梦想家”，毫无疑问是卢梭。然而，卢梭对于人们能否既是好人又是好公民表示怀疑。对于卢梭来说，一个好人是一个自然人，具有自由、独立、平等、幸福、同情和自爱（*amour de soi*）的特质，这些特质在社会之前就存在于自然状态中。因此，社会对这样的人几乎只会起到腐化作用。
 
 然而，卢梭承认生活在社会中是不可避免的，因此公民教育或学习在社会中良好运作也是不可避免的。卢梭的理想是让人们在行为上保持道德，同时尽可能保留自然状态。只有这样，一个人才能保持自由；只有当一个人遵循他为自己制定的规则时，也就是说，只有当一个人是自我统治时，他才能保持自由：“...\[每个]个体...除了自己，不服从任何人，仍然像以前一样自由”（1988 年，60 页）。
 
@@ -74,11 +73,11 @@ _每种社区的公民都有哪些责任？每个社区的所有成员是否都�
 
 一个人怎么能成为卢梭眼中的好人——也就是说，对他来说是一个天生善良的人（1979 年，93 页），展现出他的_amour de soi_，以及他对他人的自然同情心，同时又具备一个好公民应有的正确心态，能够超越个人利益并规定一般意志？当社会的影响只会带来腐化时，这又该如何做到呢？
 
-卢梭本人似乎对于人类是否能够克服社会腐化持矛盾态度。社会建立在私有财产之上；私有财产带来不平等，因为有些人拥有的比其他人更多；这种不平等引发了与他人的社会比较（_amour propre_），进而可能产生嫉妒、骄傲和贪婪。只有当人们能够行使他们的道德和政治自由，并且遵循普遍意志，他们才能摆脱社会腐化的影响。追求普遍意志，即为了众人的利益，是一个道德或善良的人的行为。在议会中实践这一意志，则是一个优秀公民的行为。
+卢梭本人似乎对于人类是否能够克服社会腐化持矛盾态度。社会建立在私有财产之上；私有财产带来不平等，因为有些人拥有的比其他人更多；这种不平等引发了与他人的社会比较（*amour propre*），进而可能产生嫉妒、骄傲和贪婪。只有当人们能够行使他们的道德和政治自由，并且遵循普遍意志，他们才能摆脱社会腐化的影响。追求普遍意志，即为了众人的利益，是一个道德或善良的人的行为。在议会中实践这一意志，则是一个优秀公民的行为。
 
 然而，卢梭评论说，如果“被迫与自然或社会制度作斗争，一个人必须在制造一个人或一个_公民_之间做出选择，因为不能同时制造两者”（同上，39 页）。这里似乎没有什么，如果有的话，就是模棱两可。一个人不能同时成为一个人和一个_公民_。然而，在《爱弥儿》的下一页上，卢梭提出了这样一个问题，即一个始终忠于自己、忠于自己的本性，并且在选择上始终果断的人“是一个人还是一个_公民_，或者他如何同时做到两者”（同上，40 页）。
 
-也许这个矛盾可以得到解决，如果我们强调一个人不能同时被_**制造**_成为一个人和一个公民，但他可以同时_**成为**_一个人和一个公民。卢梭在谈到他的教育方案时暗示了这种区别，他说它避免了“两个相反的目标...相反的道路...这些不同的冲动...\[和]这些必然相对立的对象”（同上，40，41），当你为一个人“独特地提升他自己”时。那么，他对他人来说会是什么样子？他将成为一个人和一个公民，因为“我们为自己设定的双重目标”，那些矛盾的目标，“可以通过消除人的矛盾而合而为一”（同前）。毫无疑问，这将是一个罕见的人，但提升一个人过上自然生活是可以做到的。
+也许这个矛盾可以得到解决，如果我们强调一个人不能同时被_**制造***成为一个人和一个公民，但他可以同时***成为**_一个人和一个公民。卢梭在谈到他的教育方案时暗示了这种区别，他说它避免了“两个相反的目标...相反的道路...这些不同的冲动...\[和]这些必然相对立的对象”（同上，40，41），当你为一个人“独特地提升他自己”时。那么，他对他人来说会是什么样子？他将成为一个人和一个公民，因为“我们为自己设定的双重目标”，那些矛盾的目标，“可以通过消除人的矛盾而合而为一”（同前）。毫无疑问，这将是一个罕见的人，但提升一个人过上自然生活是可以做到的。
 
 一个人可能会发现完全成熟、自然的艾米尔是一个可憎的人。虽然在履行职责和表现得文明方面是“好”的，但他似乎缺乏想象力，对人或生活本身没有深刻的好奇心——对艺术、许多书籍或亲密社交关系没有兴趣。他的独立是对依赖的恐惧，因此建立在永远无法相互依赖的能力上吗？他真的是独立的，还是只是表现出独立的外表，而导师“仍然控制着他的人”（同上，332）？
 
@@ -210,7 +209,7 @@ Harry C. Boyte（1996 年，2004 年）主张_工作_对于公民身份的核心
 
 然而，倡导者明确的是，品格是我们的本质。这个术语来自雕刻世界，源自希腊术语_kharakter_，是用于做出独特标记的工具。因此，品格是将一个人或多人标记为独特的东西。
 
-品格不仅仅是一个属性或特质。它表示特定特质的总和，“精神和道德品质的总和”（_O.E.D._ ，第 163 页）。在定义中加入“道德品质”可能微不足道，因为品格带有“良好”特质的内涵。因此，品格特质与美德相关联，如果不是同义的话。因此，一个好人，在自由民主的背景下，一个好公民将具备这些美德。
+品格不仅仅是一个属性或特质。它表示特定特质的总和，“精神和道德品质的总和”（*O.E.D.* ，第 163 页）。在定义中加入“道德品质”可能微不足道，因为品格带有“良好”特质的内涵。因此，品格特质与美德相关联，如果不是同义的话。因此，一个好人，在自由民主的背景下，一个好公民将具备这些美德。
 
 对于托马斯·利科纳（Thomas Lickona）而言，美德是“对情境做出道德良好反应的可靠内在倾向”（第 51 页）；“良好品德”，他继续说，“包括了知道什么是善、渴望善、以及实践善”（同前）。谁来决定什么是善？一般来说，灌输的特质或美德或倾向被用于“遵循行为规则”。这些规则强化了社会习俗和社会秩序（彼得斯，第 40 页）。因此，在这个观点中，社会习俗决定了“善”意味着什么。
 
@@ -344,7 +343,7 @@ Dewey 将学校视为“胚胎社区”(1915, 174), “一个孩子在其中暂�
 
 “最后，”弗雷雷评论道，“真正的对话不能存在，除非对话者进行批判性思考...将现实视为过程、转变，而不是静态活动的思考”（同上，92）。
 
-真正的对话对于弗雷雷来说是公民教育必须关注的内容。如果公民教育不包括对话，那么压迫者的未来只能是对现状的延续，希望渺茫。“真正的教育不是由‘A’ _为_ ‘B’ 进行，也不是由‘A’ _关于_ ‘B’ 进行，而是由‘A’ _与_ ‘B’ 进行…”（同上，93 页；原文重点）。对于这样的教育，学生的经验至关重要，无论他们的年龄或处境如何。天真构想的人道主义，作为许多传统教育的一部分，试图“创造一个‘好人’的理想模型”，但却忽略了“真实人们的具体、存在性、当前的处境”（同上）。因此，传统的公民教育，忽视弗雷雷实践重要性的非体验式公民教育，无法使人成为好人或好公民。
+真正的对话对于弗雷雷来说是公民教育必须关注的内容。如果公民教育不包括对话，那么压迫者的未来只能是对现状的延续，希望渺茫。“真正的教育不是由‘A’ *为* ‘B’ 进行，也不是由‘A’ *关于* ‘B’ 进行，而是由‘A’ *与* ‘B’ 进行…”（同上，93 页；原文重点）。对于这样的教育，学生的经验至关重要，无论他们的年龄或处境如何。天真构想的人道主义，作为许多传统教育的一部分，试图“创造一个‘好人’的理想模型”，但却忽略了“真实人们的具体、存在性、当前的处境”（同上）。因此，传统的公民教育，忽视弗雷雷实践重要性的非体验式公民教育，无法使人成为好人或好公民。
 
 巴西政府已将弗雷雷的文化圈视为一种公民教育形式，并资助它们用于帮助青少年和成年人消除文盲问题（Souto-Manning，2007）。
 
@@ -376,98 +375,98 @@ Martha Nussbaum, 举一个例子，认为是这样。Nussbaum 认为，我们的
 
 ### Works Cited
 
-* Aristotle. _The Politics_, Stephen Everson (ed.), New York: Cambridge University Press, 1988.
-* Battistoni, Richard M., 1985. _Public Schooling and the Education of Democratic Citizens_, Jackson: University Press of Mississippi.
-* –––, 1993. _The Book of Virtues: A Treasury of Moral Stories_, New York: Simon & Schuster.
-* Boyte, Harry C., 2004. _Everyday Politics_, Philadelphia: University of Pennsylvania Press.
-* –––, and Nancy N. Kari, 1996. _Building America: The Democratic Promise of Public Work_, Philadelphia: Temple University Press.
-* Bruner, Jerome, 1961. _The Process of Education_, New York: Vintage Books/Random House.
-* –––, 1917. “The Process of Education Revisited,” _Phi Delta Kappan_, 52 (1): 18–21.
-* Callan, Eamonn, 1999. “A Note on Patriotism and Utopianism,” _Studies in Philosophy and Education_, 18: 197–201.
-* Conover, P.J. and Searing, D. D., 2000. “A Political Socialization Perspective,” in L.M. McDonnell, P. M. Timpane, and R. Benjamin (eds.), _Rediscovering the Democratic Purposes of Education_, Lawrence, KS: University Press of Kansas, 91–124.
-* Delli Carpini, M. X. and Keeter, S., 1996. _Citizen Competence and Democratic Institutions_, University Park, PA: The Pennsylvania University Press.
-* Damon, William, 2001. “To Not Fade Away: Restoring Civic Identity Among the Young,” in Diane Ravitch and Joseph P. Viteritti (eds.), _Making Good Citizens._ New Haven: Yale University Press, 122–141.
-* –––, 1996. _Greater Expectations_, New York: Free Press.
-* Dewey, John, 2004 \[1916]. _Democracy and Education_, Mineola, NY: Dover Publications.
-* –––, 1991/\[1910]. _How We Think_, New York: Prometheus Books.
-* –––, 1976/\[1938]. _Experience and Education_, New York: Collier/Macmillan.
+* Aristotle. *The Politics*, Stephen Everson (ed.), New York: Cambridge University Press, 1988.
+* Battistoni, Richard M., 1985. *Public Schooling and the Education of Democratic Citizens*, Jackson: University Press of Mississippi.
+* –––, 1993. *The Book of Virtues: A Treasury of Moral Stories*, New York: Simon & Schuster.
+* Boyte, Harry C., 2004. *Everyday Politics*, Philadelphia: University of Pennsylvania Press.
+* –––, and Nancy N. Kari, 1996. *Building America: The Democratic Promise of Public Work*, Philadelphia: Temple University Press.
+* Bruner, Jerome, 1961. *The Process of Education*, New York: Vintage Books/Random House.
+* –––, 1917. “The Process of Education Revisited,” *Phi Delta Kappan*, 52 (1): 18–21.
+* Callan, Eamonn, 1999. “A Note on Patriotism and Utopianism,” *Studies in Philosophy and Education*, 18: 197–201.
+* Conover, P.J. and Searing, D. D., 2000. “A Political Socialization Perspective,” in L.M. McDonnell, P. M. Timpane, and R. Benjamin (eds.), *Rediscovering the Democratic Purposes of Education*, Lawrence, KS: University Press of Kansas, 91–124.
+* Delli Carpini, M. X. and Keeter, S., 1996. *Citizen Competence and Democratic Institutions*, University Park, PA: The Pennsylvania University Press.
+* Damon, William, 2001. “To Not Fade Away: Restoring Civic Identity Among the Young,” in Diane Ravitch and Joseph P. Viteritti (eds.), *Making Good Citizens.* New Haven: Yale University Press, 122–141.
+* –––, 1996. *Greater Expectations*, New York: Free Press.
+* Dewey, John, 2004 \[1916]. *Democracy and Education*, Mineola, NY: Dover Publications.
+* –––, 1991/\[1910]. *How We Think*, New York: Prometheus Books.
+* –––, 1976/\[1938]. *Experience and Education*, New York: Collier/Macmillan.
 * Dewey, John and Dewey, Evelyn, 1915\*. Schools of Tomorrow\*, New York: E. P. Dutton.
-* Dzur, Albert W., 2008. _Democratic Professionalism: Citizen Participation and the Reconstruction of Professional Ethics, Identity, and Practice_, University Park: Pennsylvania State University Press.
-* Freire, Paulo, 2006/\[1970]. _Pedagogy of the Oppressed_, New York: Continuum.
-* Galston, William, 2001. “Political Knowledge, Political Engagement, and Civic Education,” _Annual Review of Political Science_, 4: 217–234.
-* –––, 1989. “Civic Education in the Liberal State,” in Nancy Rosenblum (ed.), _Liberalism and the Moral Life_, Cambridge, MA: Harvard University Press, 89–102.
-* Godsay, Surbhi, Whitney Henderson, Peter Levine, and Josh Littenberg-Tobias, 2012. _State Civic Education Requirements_, Medford, MA: CIRCLE (Center for Information and Research on Civic Learning and Engagement).
-* Gutmann, A., 1987, _Democratic Education_, Princeton, N.J.: Princeton University Press.
-* –––, and Dennis Thompson, 1996. _Democracy and Disagreement_, Cambridge, MA: Harvard University Press.
-* Hess, Diana, 2009. _Controversy in the Classroom: The Democratic Power of Discusssion_, New York: Routledge
-* Hess, Diana & McAvoy, Paula, 2014. _The Political Classroom: Evidence and Ethics in Democratic Education_, New York: Routledge.
-* Kant, Immanuel, 1970. _Kant’s Political Writings_, Reiss, Hans (ed.). Cambridge: Cambridge University Press.
-* KawashimaGinsberg, Kei and Peter Levine, 2014. “Diversity in Classrooms: The Relationship between Deliberative and Associative Opportunities in School and Later Electoral Engagement,” _Analyses of Social Issues and Public Policy_, 14(1): 394–414.
-* Levinson, Meira, 2012. _No Citizen Left Behind_, Cambridge, MA: Harvard University Press.
-* Lickona, Thomas, 1991. _Educating for Character_, New York: Bantam.
-* Locke, John, 1693, _Some Thoughts Concerning Education_, London: A. and J. Churchill.
-* Locke, John, 1703, “Some Thoughts Concerning Reading and Education for a Gentleman,” in John Locke, _Political Essays_, Mark Goldie (ed.), Cambridge: Cambridge University Press 1997, 348–358. “Instructions for the conduct of a young Gentleman, as to religion and government,” in J. Locke, _Some Thoughts Concerning Education, with Introduction and Notes by the Rev. R. H. Quick_, M.A. Cambridge: Cambridge University Press 1889, p. 192.\* Macedo, Stephen, 2000. _Diversity and Distrust: Civic Education in a Multicultural Society_, Cambridge, MA: Harvard University Press.
-* Madison, James, 1788. “Remarks to the Virginia ratifying convention on June 20, 1788,” _The Papers of James Madison_, edited by William T. Hutchinson, et al., Charlottesville: University Press of Virginia, 1977, Vol. 11, p. 163.
-* –––, and Alexander Hamilton, and John Jay, 1788. _The Federalist Papers_, I. Kramnick (ed.), New York: Penguin Books, 1987.
-* Mill, John Stuart, 1924. _Autobiography_, New York: Columbia University Press.
-* –––, 1972. _Utilitarianism, On Liberty and Considerations on Representative Government_, London: Everyman’s Library/Dent.
-* _Mozert v. Hawkins County Board of Education_, 1987. 827 F. 2nd 1062 (6th Circuit).
-* National Council for the Social Studies, 2013. _College, Career, and Civic Life (‘C3’) Framework for Social Studies State Standards_, [available online](https://www.socialstudies.org/c3).
-* Nie, Norman, _et al_., 1996. _Education and Democratic Citizenship in America_, Chicago: University of Chicago Press.
-* Niemi, Richard G. and Junn, Jane, 1998. _Civic Education: What Makes Students Learn_, New Haven: Yale University Press.
-* Nord, Warren A., 2001. “Moral Disagreement, Moral Education, and Common Ground,” in D. Ravitch and J.P. Viteritti (eds.), _Making Good Citizens: Education and Civil Society_, New Haven: Yale University Press, 142–167.
-* Nussbaum, Martha C., 1996. “Cosmopolitanism and Patriotism,” in J. Cohen (ed.), _For Love of Country_, Boston: Beacon Press, 3–17.
-* Oldfield, Adrian, 1990. _Citizenship and Community_, New York: Routledge.
-* Peters, R. S., 1966. _Ethics and Education_, London: Allen & Unwin.
-* Plato, “The Laws,” _The Complete Works of Plato_, T.J. Saunders (trans.), John Cooper (ed.), Indianapolis, IN: Hackett Publishing Co., 1997.
-* Putnam, Robert D., 1994. _Making Democracy Work: Civic Traditions in Modern Italy_, Princeton: Princeton University Press.
-* Putnam, Robert D., 1995. “Bowling Alone,” _Journal of Democracy_, 6: 65–78.
-* –––, 2000, _Bowling Alone: The Collapse and Revival of American Community_, New York: Simon & Shuster
-* Ravitch, Diane, 2001. “Education and Democracy,” in _Making Good Citizens_, Diane Ravitch and Joseph P. Viteritti (Eds\*).\* New Haven: Yale University Press, 15–29.
-* Ravitch, Diane and Joseph P. Viteritti (eds.), 2001. _Making Good Citizens: Education and Civil Society_, New Haven: Yale University Press.
-* Rebell, Michael A., 2018. _Flunking Democracy: Schools, Courts, and Civic Participation_, Chicago: University of Chicago Press.
-* Rousseau, Jean-Jacques, 1988. _The Social Contract_, Maurice Cranston (trans.), New York: Viking Penguin.
-* –––, 1979. _Emile or On Education_, Allan Bloom (trans.), New York: Basic Books.
-* Sherrod, Lonnie R., Constance Flanagan, and James Youniss, 2002. “Dimensions of Citizenship and Opportunities for Youth Development: The What, Why, When, Where, and Who of Citizenship Development,” _Applied Developmental Science_, 6(4): 267.
-* Souto-Manning, Mariana, 2006. “Education for Democracy,” in E. Doyle Stevick and Bradley A. U. Levinson (eds.), _Reimagining Civic Education_, Lanham: Rowman & Littlefield, 121–146.
+* Dzur, Albert W., 2008. *Democratic Professionalism: Citizen Participation and the Reconstruction of Professional Ethics, Identity, and Practice*, University Park: Pennsylvania State University Press.
+* Freire, Paulo, 2006/\[1970]. *Pedagogy of the Oppressed*, New York: Continuum.
+* Galston, William, 2001. “Political Knowledge, Political Engagement, and Civic Education,” *Annual Review of Political Science*, 4: 217–234.
+* –––, 1989. “Civic Education in the Liberal State,” in Nancy Rosenblum (ed.), *Liberalism and the Moral Life*, Cambridge, MA: Harvard University Press, 89–102.
+* Godsay, Surbhi, Whitney Henderson, Peter Levine, and Josh Littenberg-Tobias, 2012. *State Civic Education Requirements*, Medford, MA: CIRCLE (Center for Information and Research on Civic Learning and Engagement).
+* Gutmann, A., 1987, *Democratic Education*, Princeton, N.J.: Princeton University Press.
+* –––, and Dennis Thompson, 1996. *Democracy and Disagreement*, Cambridge, MA: Harvard University Press.
+* Hess, Diana, 2009. *Controversy in the Classroom: The Democratic Power of Discusssion*, New York: Routledge
+* Hess, Diana & McAvoy, Paula, 2014. *The Political Classroom: Evidence and Ethics in Democratic Education*, New York: Routledge.
+* Kant, Immanuel, 1970. *Kant’s Political Writings*, Reiss, Hans (ed.). Cambridge: Cambridge University Press.
+* KawashimaGinsberg, Kei and Peter Levine, 2014. “Diversity in Classrooms: The Relationship between Deliberative and Associative Opportunities in School and Later Electoral Engagement,” *Analyses of Social Issues and Public Policy*, 14(1): 394–414.
+* Levinson, Meira, 2012. *No Citizen Left Behind*, Cambridge, MA: Harvard University Press.
+* Lickona, Thomas, 1991. *Educating for Character*, New York: Bantam.
+* Locke, John, 1693, *Some Thoughts Concerning Education*, London: A. and J. Churchill.
+* Locke, John, 1703, “Some Thoughts Concerning Reading and Education for a Gentleman,” in John Locke, *Political Essays*, Mark Goldie (ed.), Cambridge: Cambridge University Press 1997, 348–358. “Instructions for the conduct of a young Gentleman, as to religion and government,” in J. Locke, *Some Thoughts Concerning Education, with Introduction and Notes by the Rev. R. H. Quick*, M.A. Cambridge: Cambridge University Press 1889, p. 192.\* Macedo, Stephen, 2000. *Diversity and Distrust: Civic Education in a Multicultural Society*, Cambridge, MA: Harvard University Press.
+* Madison, James, 1788. “Remarks to the Virginia ratifying convention on June 20, 1788,” *The Papers of James Madison*, edited by William T. Hutchinson, et al., Charlottesville: University Press of Virginia, 1977, Vol. 11, p. 163.
+* –––, and Alexander Hamilton, and John Jay, 1788. *The Federalist Papers*, I. Kramnick (ed.), New York: Penguin Books, 1987.
+* Mill, John Stuart, 1924. *Autobiography*, New York: Columbia University Press.
+* –––, 1972. *Utilitarianism, On Liberty and Considerations on Representative Government*, London: Everyman’s Library/Dent.
+* *Mozert v. Hawkins County Board of Education*, 1987. 827 F. 2nd 1062 (6th Circuit).
+* National Council for the Social Studies, 2013. *College, Career, and Civic Life (‘C3’) Framework for Social Studies State Standards*, [available online](https://www.socialstudies.org/c3).
+* Nie, Norman, *et al*., 1996. *Education and Democratic Citizenship in America*, Chicago: University of Chicago Press.
+* Niemi, Richard G. and Junn, Jane, 1998. *Civic Education: What Makes Students Learn*, New Haven: Yale University Press.
+* Nord, Warren A., 2001. “Moral Disagreement, Moral Education, and Common Ground,” in D. Ravitch and J.P. Viteritti (eds.), *Making Good Citizens: Education and Civil Society*, New Haven: Yale University Press, 142–167.
+* Nussbaum, Martha C., 1996. “Cosmopolitanism and Patriotism,” in J. Cohen (ed.), *For Love of Country*, Boston: Beacon Press, 3–17.
+* Oldfield, Adrian, 1990. *Citizenship and Community*, New York: Routledge.
+* Peters, R. S., 1966. *Ethics and Education*, London: Allen & Unwin.
+* Plato, “The Laws,” *The Complete Works of Plato*, T.J. Saunders (trans.), John Cooper (ed.), Indianapolis, IN: Hackett Publishing Co., 1997.
+* Putnam, Robert D., 1994. *Making Democracy Work: Civic Traditions in Modern Italy*, Princeton: Princeton University Press.
+* Putnam, Robert D., 1995. “Bowling Alone,” *Journal of Democracy*, 6: 65–78.
+* –––, 2000, *Bowling Alone: The Collapse and Revival of American Community*, New York: Simon & Shuster
+* Ravitch, Diane, 2001. “Education and Democracy,” in *Making Good Citizens*, Diane Ravitch and Joseph P. Viteritti (Eds\*).\* New Haven: Yale University Press, 15–29.
+* Ravitch, Diane and Joseph P. Viteritti (eds.), 2001. *Making Good Citizens: Education and Civil Society*, New Haven: Yale University Press.
+* Rebell, Michael A., 2018. *Flunking Democracy: Schools, Courts, and Civic Participation*, Chicago: University of Chicago Press.
+* Rousseau, Jean-Jacques, 1988. *The Social Contract*, Maurice Cranston (trans.), New York: Viking Penguin.
+* –––, 1979. *Emile or On Education*, Allan Bloom (trans.), New York: Basic Books.
+* Sherrod, Lonnie R., Constance Flanagan, and James Youniss, 2002. “Dimensions of Citizenship and Opportunities for Youth Development: The What, Why, When, Where, and Who of Citizenship Development,” *Applied Developmental Science*, 6(4): 267.
+* Souto-Manning, Mariana, 2006. “Education for Democracy,” in E. Doyle Stevick and Bradley A. U. Levinson (eds.), *Reimagining Civic Education*, Lanham: Rowman & Littlefield, 121–146.
 * Thomas, Reuben and Daniel McFarland, 2010. “Joining Young, Voting Young: The Effects of Youth Voluntary Associations on Early Adult Voting,” Medford, MA: Center for Information and Research on Civic Lerarning and Engagement.
-* Williams, Melissa S., 2005. “Citizenship and Functions of Multicultural Education,” in K. McDonough and W. Feinberg (eds.), _Citizenship and Education in Liberal-Democratic States: Teaching for Cosmopolitan Values and Collective Identities_, New York: Oxford University Press, 208–47.
-* Wolin, Sheldon, 1989. _The Presence of the Past: Essays on the State and the Constitution_, Baltimore: Johns Hopkins University Press.
+* Williams, Melissa S., 2005. “Citizenship and Functions of Multicultural Education,” in K. McDonough and W. Feinberg (eds.), *Citizenship and Education in Liberal-Democratic States: Teaching for Cosmopolitan Values and Collective Identities*, New York: Oxford University Press, 208–47.
+* Wolin, Sheldon, 1989. *The Presence of the Past: Essays on the State and the Constitution*, Baltimore: Johns Hopkins University Press.
 
 ### Works to Consult
 
-* Avery, P.G., 1994. “The Future of Political Participation in Civic Education,” in _The Future of the Social Studies_, Social Science Education Consortium, 47–52.
-* Barber, Benjamin, 1992. _An Aristocracy of Everyone: the Politics of Education and the Future of America_, New York: Ballantine Books.
-* Battistich, V., and D. Solomon and M. Watson, & Schaps, E., 1997. “Caring School Communities,” _Educational Psychologist_, 32: 137–151.
-* Battistoni, R. M., 2002. _Civic Engagement Across the Curriculum_, Providence, RI: Campus Compact.
-* Bennett, William, _The Book of Virtues_, New York: Simon & Schuster, 1993.
-* Benninga, Jacques, 1991. _Moral, Character, and Civic Education in the Elementary School_, New York: Teacher College Press.
-* Butts, R. Freeman, 1989. _The Civic Mission in Educational Reform_, Stanford, CA: Hoover Institution Press.
-* Callan, Eamonn, 1997. _Creating Citizens: Political Education and Liberal Democracy_, Oxford: Clarendon Press.
-* Camino, L., & S. Zeldin, 2002. “From Periphery to Center: Pathways for Youth Civic Engagement in the Day-to-Day Life of Communities,” _Applied Developmental Science_, 6 (4): 213–220.
-* Coby, Barbara, 2003. _Building Partnerships for Service Learning_, San Francisco: Jossey-Bass.
-* Coleman, James S. (1988) “Social Capital in the Creation of Human Capital,” _American Journal of Sociology_, 94 (Supplement): S95–120.
-* Dudley, R.L., and A.R. Gitelson, 2002. “Political Literacy, Civic Education, and Civic Engagement: A Return to Political Socialization?” _Applied Developmental Science_, 6 (4): 175–182.
-* Eyre, Linda and Richard, 1993. _Teaching Your Children Values_, New York: Simon & Schuster.
-* Galston, W.A., 2001. “Political Knowledge, Political Engagement, and Civic Education,” _Annual Review of Political Science_, 4: 217–234.
-* Issacs, David, 1984. _Character Building: A Guide for Parents and Teachers_, Dublin: Four Courts Press.
-* Jaeger, Werner, 1945. _Paideia: The Ideals of Greek Culture_, 3 volumes, Gilbert Highet (trans.), New York: Oxford University Press.
-* Kilpatrick, William, 1992. _Why Johnny Can’t Tell Right from Wrong_, New York: Simon & Schuster.
-* Lickona, Thomas, 1983. _Raising Good Children_, New York: Bantam Books.
-* Lisman, C. D., 1998. _Toward a Civil Society: Civic Literacy and Service Learning_, Westport, CT: Bergin & Garvey.
-* McDonnell, L.M., and P.M. Timpane, and R. Benjamin (eds.), 2000. _Rediscovering the Democratic Purposes of Education_, Lawrence, KS: University Press of Kansas.
-* Nucci, Larry, 1989. _Moral Development and Character Education: A Dialogue_, Berkeley: McCuthan.
+* Avery, P.G., 1994. “The Future of Political Participation in Civic Education,” in *The Future of the Social Studies*, Social Science Education Consortium, 47–52.
+* Barber, Benjamin, 1992. *An Aristocracy of Everyone: the Politics of Education and the Future of America*, New York: Ballantine Books.
+* Battistich, V., and D. Solomon and M. Watson, & Schaps, E., 1997. “Caring School Communities,” *Educational Psychologist*, 32: 137–151.
+* Battistoni, R. M., 2002. *Civic Engagement Across the Curriculum*, Providence, RI: Campus Compact.
+* Bennett, William, *The Book of Virtues*, New York: Simon & Schuster, 1993.
+* Benninga, Jacques, 1991. *Moral, Character, and Civic Education in the Elementary School*, New York: Teacher College Press.
+* Butts, R. Freeman, 1989. *The Civic Mission in Educational Reform*, Stanford, CA: Hoover Institution Press.
+* Callan, Eamonn, 1997. *Creating Citizens: Political Education and Liberal Democracy*, Oxford: Clarendon Press.
+* Camino, L., & S. Zeldin, 2002. “From Periphery to Center: Pathways for Youth Civic Engagement in the Day-to-Day Life of Communities,” *Applied Developmental Science*, 6 (4): 213–220.
+* Coby, Barbara, 2003. *Building Partnerships for Service Learning*, San Francisco: Jossey-Bass.
+* Coleman, James S. (1988) “Social Capital in the Creation of Human Capital,” *American Journal of Sociology*, 94 (Supplement): S95–120.
+* Dudley, R.L., and A.R. Gitelson, 2002. “Political Literacy, Civic Education, and Civic Engagement: A Return to Political Socialization?” *Applied Developmental Science*, 6 (4): 175–182.
+* Eyre, Linda and Richard, 1993. *Teaching Your Children Values*, New York: Simon & Schuster.
+* Galston, W.A., 2001. “Political Knowledge, Political Engagement, and Civic Education,” *Annual Review of Political Science*, 4: 217–234.
+* Issacs, David, 1984. *Character Building: A Guide for Parents and Teachers*, Dublin: Four Courts Press.
+* Jaeger, Werner, 1945. *Paideia: The Ideals of Greek Culture*, 3 volumes, Gilbert Highet (trans.), New York: Oxford University Press.
+* Kilpatrick, William, 1992. *Why Johnny Can’t Tell Right from Wrong*, New York: Simon & Schuster.
+* Lickona, Thomas, 1983. *Raising Good Children*, New York: Bantam Books.
+* Lisman, C. D., 1998. *Toward a Civil Society: Civic Literacy and Service Learning*, Westport, CT: Bergin & Garvey.
+* McDonnell, L.M., and P.M. Timpane, and R. Benjamin (eds.), 2000. *Rediscovering the Democratic Purposes of Education*, Lawrence, KS: University Press of Kansas.
+* Nucci, Larry, 1989. *Moral Development and Character Education: A Dialogue*, Berkeley: McCuthan.
 * Ostrom, Elinor. 1998. “The Need for Civic Education: A Collective Action Perspective,” Workshop in Political Theory and Policy Analysis, Indiana University, Bloomington, IN Workshop Working Paper W98–26.
-* Putnam, Robert D., 1995. “Bowling Alone,” _Journal of Democracy_, 6: 65–78.
-* Rahn, W.M., & J.E. Transue, 1998. “Social Trust and Value Change: The Decline of Social Capital in American Youth, 1976–1995,” _Political Psychology_, 19: 545–565.
-* Rebell, Michael A., 2018. _Flunking Democracy: Schools, Courts, and Civic Participation_, Chicago: University of Chicago Press, 2018.
-* Sampson, Robert J., 2012. _Great American City: Chicago and the Enduring Neighborhood Effect_, Chicago: University of Chicago Press
-* Torney-Purta, J., 2002. “The School’s Role in Developing Civic Engagement: A Study of Adolescents in Twenty-eight Countries,” _Applied Developmental Science_, 6 (4): 203–212.
-* Walker, T., 2002. “Service and Political Participation: What Research Tells Us,” _Applied Developmental Science_, 6 (4): 183–188.
-* White, Patricia, 1996. _Civic Virtues and Public Schooling: Educating Citizens for a Democratic Society_, New York: Teachers College Press.
-* Wynne, Edward and Kevin Ryan, 1993. _Reclaiming Our Schools: A Handbook on Teaching Character, Academics and Discipline_, New York: Macmillan.
-* Youniss, J., and M. Yates, 1999. “Youth Service and Moral-Civic Identity: A Case for Everyday Morality,” _Educational Psychology Review_, 11 (4): 363 – 378.
-* Zukin, Cliff, and Scott Keeter, Molly Andolina, Krista Jenkins, and Michael X. Delli Carpini, 2006. _A New Engagement? Political Participation, Civic Life, and the Changing American Citizen_, New York: Oxford University Press.
+* Putnam, Robert D., 1995. “Bowling Alone,” *Journal of Democracy*, 6: 65–78.
+* Rahn, W.M., & J.E. Transue, 1998. “Social Trust and Value Change: The Decline of Social Capital in American Youth, 1976–1995,” *Political Psychology*, 19: 545–565.
+* Rebell, Michael A., 2018. *Flunking Democracy: Schools, Courts, and Civic Participation*, Chicago: University of Chicago Press, 2018.
+* Sampson, Robert J., 2012. *Great American City: Chicago and the Enduring Neighborhood Effect*, Chicago: University of Chicago Press
+* Torney-Purta, J., 2002. “The School’s Role in Developing Civic Engagement: A Study of Adolescents in Twenty-eight Countries,” *Applied Developmental Science*, 6 (4): 203–212.
+* Walker, T., 2002. “Service and Political Participation: What Research Tells Us,” *Applied Developmental Science*, 6 (4): 183–188.
+* White, Patricia, 1996. *Civic Virtues and Public Schooling: Educating Citizens for a Democratic Society*, New York: Teachers College Press.
+* Wynne, Edward and Kevin Ryan, 1993. *Reclaiming Our Schools: A Handbook on Teaching Character, Academics and Discipline*, New York: Macmillan.
+* Youniss, J., and M. Yates, 1999. “Youth Service and Moral-Civic Identity: A Case for Everyday Morality,” *Educational Psychology Review*, 11 (4): 363 – 378.
+* Zukin, Cliff, and Scott Keeter, Molly Andolina, Krista Jenkins, and Michael X. Delli Carpini, 2006. *A New Engagement? Political Participation, Civic Life, and the Changing American Citizen*, New York: Oxford University Press.
 
 ## Academic Tools
 
@@ -492,4 +491,4 @@ Martha Nussbaum, 举一个例子，认为是这样。Nussbaum 认为，我们的
 
 [Copyright © 2018](https://plato.stanford.edu/info.html#c) by\
 Jack Crittenden\
-Peter Levine <[_Peter.Levine@tufts.edu_](mailto:Peter%2eLevine%40tufts%2eedu)>
+Peter Levine <[*Peter.Levine@tufts.edu*](mailto:Peter%2eLevine%40tufts%2eedu)>

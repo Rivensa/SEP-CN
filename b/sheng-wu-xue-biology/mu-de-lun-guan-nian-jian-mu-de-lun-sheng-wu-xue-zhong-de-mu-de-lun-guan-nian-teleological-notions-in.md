@@ -1,2 +1,1 @@
 # \*目的论观念——见生物学中的目的论观念 teleological notions in — see teleology: teleological notions in biology
-

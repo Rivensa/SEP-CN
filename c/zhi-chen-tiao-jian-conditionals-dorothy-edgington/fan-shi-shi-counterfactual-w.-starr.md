@@ -2,7 +2,7 @@
 
 ## 反事实 counterfactual (W. Starr)
 
-_首次发表于 2019 年 1 月 18 日星期五_
+*首次发表于 2019 年 1 月 18 日星期五*
 
 情态话语涉及事物可能存在的不同方式，例如可能是真实的，不是真实的但本可以是真实的，应该做的事情。本文关注反事实情态，即关注那些不是但本可以或本应该发生的事情。如果马丁·路德·金在 1958 年被刺死了会怎样（Byrne 2005: 1）？如果美洲从未被殖民会怎样？如果我把那个盒子放到这里，把这个放到那里会怎样？这些思维和言语方式已经成为哲学、语言学、心理学、人工智能、历史等许多相关领域广泛研究的对象。这些不同的调查都围绕着反事实情态在这些领域的基础问题中心展开。
 
@@ -19,8 +19,6 @@ _首次发表于 2019 年 1 月 18 日星期五_
 第 2 节主要关注两种相关分析，这些分析主要是为了研究直陈条件句的逻辑：严格条件分析和相似性分析。这些分析最初并不关心特定直陈条件句的真值条件是什么。然而，试图将它们扩展到该领域的努力却引起了激烈的批评。第 3 节概述了更近期的分析，提供了更明确的模型来判断直陈条件句何时为真。这些分析包括前提语义（§3.1）、条件概率分析（§3.2）和结构方程/因果模型（§3.3）。它们与心理学、人工智能和科学哲学领域的直陈条件句研究更为密切相关。
 
 本条目的第 2 和第 3 部分使用了一些集合论和逻辑语义学的基本工具。但这些部分除了提供正式定义外，还提供直观的描述，因此熟悉这些工具并非先决条件。对这些工具更感兴趣的读者会发现基本集合论以及 Gamut (1991)和 Sider (2010)很有用。
-
-
 
 ***
 
@@ -58,7 +56,7 @@ _首次发表于 2019 年 1 月 18 日星期五_
 
 (5)
 
-## 鲍勃从未跳舞。如果鲍勃跳舞，莱兰就跳舞。
+## 鲍勃从未跳舞。如果鲍勃跳舞，莱兰就跳舞
 
 (6)
 
@@ -74,8 +72,8 @@ _首次发表于 2019 年 1 月 18 日星期五_
 
 |               | **Examples**                                                                                                                                    | **Antecedents**   | **Consequents**     | **Deny Ante­ce­dent?** |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------- | ---------------------- |
-| __ 直陈条件__ | [(3)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-kennedy),[(5)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-bob)   | V-ed, … V-ed, …   | V-ed, … 过去分词，..     | 不恰当                    |
-| __ 虚拟语气__ | [(4)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-kennedy),[(6)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-bob) | 曾经 V 过，要 V，V 过，.. | 会有 V，会 V，会已经 V 过，.. | 可以是幸福的                 |
+| __直陈条件__ | [(3)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-kennedy),[(5)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-bob)   | V-ed, … V-ed, …   | V-ed, … 过去分词，..     | 不恰当                    |
+| __虚拟语气__ | [(4)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-kennedy),[(6)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-bob) | 曾经 V 过，要 V，V 过，.. | 会有 V，会 V，会已经 V 过，.. | 可以是幸福的                 |
 
 图 1：直陈条件和虚拟条件的简易指南
 
@@ -593,7 +591,7 @@ a.
 
 I'm sorry, but it seems like there was an error in your request. It appears that the text you provided for translation is only "b." Could you please provide more context or additional text for translation? Thank you.
 
-## 如果我逃避了我的责任，就不会发生任何伤害。
+## 如果我逃避了我的责任，就不会发生任何伤害
 
 I>¬H
 
@@ -609,13 +607,13 @@ Fintel (2001) 和 Gillies (2007) 指出，相似性分析使得类似 (31) 的�
 
 相似性分析有许多不同的类型和表述，包括在第 2.1 节非正式描述的球体系统方法。该表述最容易与严格分析进行比较。但有一种不同的表述更直观，更有助于比较不同的相似性分析。这种表述涉及一个（集合）选择函数 f，它接受一个世界 w，一个命题 p，并返回与 w 最相似的 p-世界的集合：f(w,p)。然后当最 f-相似的 ϕ-世界到 w 是 ψ-世界时，即当 f(w,\[\[ϕ]]fv) 中的每个世界都在 \[\[ψ]]fv 中时，ϕ>ψ 被认为是真的。这种方法的基础可以总结如下。
 
-*   \*\* 相似性分析\*\*
+* \*\* 相似性分析\*\*
 
-    * ϕ>ψ 在 w 处为真，当且仅当所有与 w 最相似的ϕ世界都是ψ世界
-      * 根据选择函数 f 最相似
-      * f 接受一个命题 p 和一个世界 w，并返回与 w 最相似的 p-世界
-    * \[\[ϕ>ψ]]fv={w∣f(w,\[\[ϕ]]fv)⊆\[\[ψ]]fv}
-    * 制定“极限假设”：ϕ-世界不会无限地变得越来越类似于 w
+  * ϕ>ψ 在 w 处为真，当且仅当所有与 w 最相似的ϕ世界都是ψ世界
+    * 根据选择函数 f 最相似
+    * f 接受一个命题 p 和一个世界 w，并返回与 w 最相似的 p-世界
+  * \[\[ϕ>ψ]]fv={w∣f(w,\[\[ϕ]]fv)⊆\[\[ψ]]fv}
+  * 制定“极限假设”：ϕ-世界不会无限地变得越来越类似于 w
 
     (Stalnaker 1968; D. Lewis 1973b; Nute 1975a; Pollock 1976)
 
@@ -676,7 +674,7 @@ Fintel (2001) 和 Gillies (2007) 指出，相似性分析使得类似 (31) 的�
 
 这里需要做一些评论。强中心化对于假言三段论来说是充分但不是必要的，弱中心化也可以：如果 w∈p，则 w∈f(w,p)。LT 和 LAS 可以从 SSE 推导出来，让相似性理论者能够解释为什么有些传递性和前提加强的实例在直觉上是令人信服的。
 
-#### 2.4 比较逻辑。
+#### 2.4 比较逻辑
 
 关于第二波严格分析（§2.2.1）或相似性分析哪种提供更好的反事实逻辑的问题是一个非常开放且微妙的问题。正如 2.2.1 节和 2.3 节详细介绍的那样，这两种分析都有捕捉前提的非单调解释的方式。这两种分析也有捕捉听起来不错的单调推理实例的方式。也许这个问题注定陷入僵局。\[31] 但在宣布这种情况之前，重要的是调查两种可能更具决定性的模式：析取前提的简化，以及一个尚未讨论的模式称为进出口。
 
@@ -734,7 +732,7 @@ Starr (2014: 1049) 和 Warmbrōd (1981a: 284) 观察到 (29a) 似乎是另一种
 
 西班牙既没有为盟军战斗，也没有为轴心国战斗。 她确实可以为盟军而战。
 
-## 但是，如果她曾为轴心国或盟军而战，她会为轴心国而战。
+## 但是，如果她曾为轴心国或盟军而战，她会为轴心国而战
 
 Starr (2014: 1049) 认为，这使得相似性理论者将此视为 SDA 的反例是不一致的。根据可能性主张的相似性分析，可以得出结论，在没有一个世界是西班牙为盟军而战的情况下，与实际世界最相似的世界：f(w@,\[\[盟军]])=∅。但如果是这种情况，那么（29b）在相似性分析中是空洞真的，因此相似性理论者无法一致地声称这是一个前提为真而结论为假的情况。然而，现在宣称严格理论者获胜还为时过早。Nute (1980a)、Alonso-Ovalle (2009) 和 Starr (2014: 1049) 分别发展了相似性分析，其中析取被赋予非布尔解释，以验证 SDA 而不验证其他前提单调模式。但即使如此，SDA 辩论并未结束。
 
@@ -1192,226 +1190,226 @@ b.
 
 ### Bibliography
 
-* Adams, Ernest W., 1965, “The Logic of Conditionals”, _Inquiry_, 8: 166–197. doi:10.1080/00201746508601430
-* –––, 1970, “Subjunctive and Indicative Conditionals”, _Foundations of Language_, 6(1): 89–94.
-* –––, 1975, _The Logic of Conditionals_, Dordrecht: D. Reidel.
-* –––, 1976, “Prior Probabilities and Counterfactual Conditionals”, in _Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science_, William L. Harper and Clifford Alan Hooker (eds.) (The University of Western Ontario Series in Philosophy of Science), Springer Netherlands, 6a:1–21. doi:10.1007/978-94-010-1853-1\_1
-* Alonso-Ovalle, Luis, 2009, “Counterfactuals, Correlatives, and Disjunction”, _Linguistics and Philosophy_, 32(2): 207–244. doi:10.1177/0146167214563673
-* Alquist, Jessica L., Sarah E. Ainsworth, Roy F. Baumeister, Michael Daly, and Tyler F. Stillman, 2015, “The Making of Might-Have-Beens: Effects of Free Will Belief on Counterfactual Thinking”, _Personality and Social Psychology Bulletin_, 41(2): 268–283. doi:10.1177/0146167214563673
-* Anderson, Alan Ross, 1951, “A Note on Subjunctive and Counterfactual Conditionals”, _Analysis_, 12(2): 35–38. doi:10.2307/3327037
-* Arregui, Ana, 2007, “When Aspect Matters: The Case of Would-Conditionals”, _Natural Language Semantics_, 15(3): 221–264. doi:10.1007/s11050-007-9019-6
-* –––, 2009, “On Similarity in Counterfactuals”, _Linguistics and Philosophy_, 32(3): 245–278. doi:10.1007/s10988-009-9060-7
-* Barker, Stephen J., 1998, “Predetermination and Tense Probabilism”, _Analysis_, 58(4): 290–296. doi:10.1093/analys/58.4.290
-* Bennett, Jonathan, 1974, “Counterfactuals and Possible Worlds”, _Canadian Journal of Philosophy_, 4(2): 381–402. doi:10.1080/00455091.1974.10716947
-* –––, 2003, _A Philosophical Guide to Conditionals_, Oxford: Oxford University Press.
-* Bennett, Karen, 2017, _Making Things Up_, New York: Oxford University Press.
-* Bittner, Maria, 2011, “Time and Modality without Tenses or Modals”, in _Tense Across Languages_, Renate Musan and Monika Rathers (eds.), Tübingen: Niemeyer, 147–188. \[[Bittner 2011 available online](http://semanticsarchive.net/Archive/zliYmQxY/bittner11\tam.pdf)]
-* Bobzien, Susanne, 2011, “Dialectical School”, in _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.), Fall 2011, URL = <[Dialectical School (Stanford Encyclopedia of Philosophy/Fall 2011 Edition)](http://plato.stanford.edu/archives/fall2011/entries/dialectical-school/)>
-* Bowie, G. Lee, 1979, “The Similarity Approach to Counterfactuals: Some Problems”, _Noûs_, 13(4): 477–498. doi:10.2307/2215340
-* Brée, D.S., 1982, “Counterfactuals and Causality”, _Journal of Semantics_, 1(2): 147–185. doi:10.1093/jos/1.2.147
-* Briggs, R.A., 2012, “Interventionist Counterfactuals”, _Philosophical Studies_, 160(1): 139–166. doi:10.1007/s11098-012-9908-5
-* Byrne, Ruth M. J., 2005, _The Rational Imagination: How People Create Alternatives to Reality_, Cambridge, MA: MIT Press.
-* –––, 2016, “Counterfactual Thought”, _Annual Review of Psychology_, 67(1): 135–157. doi:10.1146/annurev-psych-122414-033249
-* Carnap, Rudolf, 1948, _Introduction to Semantics_, Cambridge, MA: Harvard University Press.
-* –––, 1956, _Meaning and Necessity_, second edition, Chicago: Chicago University Press.
-* Champollion, Lucas, Ivano Ciardelli, and Linmin Zhang, 2016, “Breaking de Morgan’s Law in Counterfactual Antecedents”, in _Proceedings from Semantics and Linguistic Theory (SALT) 26_, Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf (eds.), Ithaca, NY: CLC Publications, 304–324. doi:10.3765/salt.v26i0.3800
-* Chater, Nick, Mike Oaksford, Ulrike Hahn, and Evan Heit, 2010, “Bayesian Models of Cognition”, _Wiley Interdisciplinary Reviews: Cognitive Science_, 1(6): 811–823. doi:10.1002/wcs.79
-* Chisholm, Roderick M., 1955, “Law Statements and Counterfactual Inference”, _Analysis_, 15(5): 97–105. doi:10.1093/analys/15.5.97
-* Ciardelli, Ivano, Linmin Zhang, and Lucas Champollion, forthcoming, “Two Switches in the Theory of Counterfactuals”, _Linguistics and Philosophy_, first online: 15 June 2018. doi:10.1007/s10988-018-9232-4
-* Cohen, Jonathan and Aaron Meskin, 2006, “An Objective Counterfactual Theory of Information”, _Australasian Journal of Philosophy_, 84(3): 333–352. doi:10.1080/00048400600895821
-* Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, _Journal of Philosophical Logic_, 31(2): 99–137. doi:10.1023/A:1015273407895
-* Costello, Tom and John McCarthy, 1999, “Useful Counterfactuals”, _Linköping Electronic Articles in Computer and Information Science_, 4(12): 1–24.
-* Cresswell, Max J. and G.E. Hughes, 1996, _A New Introduction to Modal Logic_, London: Routledge.
-* Daniels, Charles B. and James B. Freeman, 1980, “An Analysis of the Subjunctive Conditional”, _Notre Dame Journal of Formal Logic_, 21(4): 639–655. doi:10.1305/ndjfl/1093883247
-* Declerck, Renaat and Susan Reed, 2001, _Conditionals: A Comprehensive Emprical Analysis_, (Topics in English Linguistics, 37), New York: De Gruyter Mouton.
-* Dretske, Fred I., 1981, _Knowledge and the Flow of Information_, Cambridge, MA: The MIT Press.
-* –––, 1988, _Explaining Behavior: Reasons in a World of Causes_, Cambridge, MA: MIT Press.
-* –––, 2002, “A Recipe for Thought”, in _Philosophy of Mind: Contemporary and Classical Readings_, David J. Chalmers (ed.), New York: Oxford University Press, 491–499.
-* –––, 2011, “Information-Theoretic Semantics”, in _The Oxford Handbook of Philosophy of Mind_, Brian McLaughlin, Angsar Beckermann, and Sven Walter (eds.), New York: Oxford University Press, 381–393.
-* Dudman, Victor Howard, 1984a, “Conditional Interpretations of ‘If’ Sentences”, _Australian Journal of Linguistics_, 4(2): 143–204. doi:10.1080/07268608408599325
-* –––, 1984b, “Parsing ‘If’-Sentences”, _Analysis_, 44(4): 145–153. doi:10.1093/analys/44.4.145
-* –––, 1988, “Indicative and Subjunctive”, _Analysis_, 48(3): 113–122. doi:10.1093/analys/48.3.113a
-* Edgington, Dorothy, 2003, “What If? Questions About Conditionals”, _Mind & Language_, 18(4): 380–401. doi:10.1111/1468-0017.00233
-* –––, 2004, “Counterfactuals and the Benefit of Hindsight”, in _Cause and Chance: Causation in an Indeterministic World_, Phil Dowe & Paul Noordhof (ed.), New York: Routledge, 12–27.
-* Fine, Kit, 1975, “Review of Lewis’ Counterfactuals”, _Mind_, 84: 451–458. doi:10.1093/mind/LXXXIV.1.451
-* –––, 2012a, “Counterfactuals Without Possible Worlds”, _Journal of Philosophy_, 109(3): 221–246. doi:10.5840/jphil201210938
-* –––, 2012b, “A Difficulty for the Possible Worlds Analysis of Counterfactuals”, _Synthese_, 189(1): 29–57. doi:10.1007/s11229-012-0094-y
-* Fintel, Kai von, 1999, “The Presupposition of Subjunctive Conditionals”, in _The Interpretive Tract_, Uli Sauerland and Orin Percus (eds.), Cambridge, MA: MITWPL, MIT Working Papers in Linguistics 25: 29–44. \[[Fintel 1999 available online](http://web.mit.edu/fintel/fintel-1998-subjunctive.pdf)]
-* –––, 2001, “Counterfactuals in a Dynamic Context”, in _Ken Hale, A Life in Language_, Michael Kenstowicz (ed.), Cambridge, MA: The MIT Press, 123–152. \[[Fintel 2001 available online](https://web.mit.edu/fintel/fintel-2001-counterfactuals.pdf)]
-* –––, 2012, “Subjunctive Conditionals”, in _The Routledge Companion to Philosophy of Language_, Gillian Russell and Delia Graff Fara (eds.), New York: Routledge, 466–477. \[[Fintel 2012 available online](http://web.mit.edu/fintel/fintel-2012-subjunctives.pdf)]
+* Adams, Ernest W., 1965, “The Logic of Conditionals”, *Inquiry*, 8: 166–197. doi:10.1080/00201746508601430
+* –––, 1970, “Subjunctive and Indicative Conditionals”, *Foundations of Language*, 6(1): 89–94.
+* –––, 1975, *The Logic of Conditionals*, Dordrecht: D. Reidel.
+* –––, 1976, “Prior Probabilities and Counterfactual Conditionals”, in *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*, William L. Harper and Clifford Alan Hooker (eds.) (The University of Western Ontario Series in Philosophy of Science), Springer Netherlands, 6a:1–21. doi:10.1007/978-94-010-1853-1\_1
+* Alonso-Ovalle, Luis, 2009, “Counterfactuals, Correlatives, and Disjunction”, *Linguistics and Philosophy*, 32(2): 207–244. doi:10.1177/0146167214563673
+* Alquist, Jessica L., Sarah E. Ainsworth, Roy F. Baumeister, Michael Daly, and Tyler F. Stillman, 2015, “The Making of Might-Have-Beens: Effects of Free Will Belief on Counterfactual Thinking”, *Personality and Social Psychology Bulletin*, 41(2): 268–283. doi:10.1177/0146167214563673
+* Anderson, Alan Ross, 1951, “A Note on Subjunctive and Counterfactual Conditionals”, *Analysis*, 12(2): 35–38. doi:10.2307/3327037
+* Arregui, Ana, 2007, “When Aspect Matters: The Case of Would-Conditionals”, *Natural Language Semantics*, 15(3): 221–264. doi:10.1007/s11050-007-9019-6
+* –––, 2009, “On Similarity in Counterfactuals”, *Linguistics and Philosophy*, 32(3): 245–278. doi:10.1007/s10988-009-9060-7
+* Barker, Stephen J., 1998, “Predetermination and Tense Probabilism”, *Analysis*, 58(4): 290–296. doi:10.1093/analys/58.4.290
+* Bennett, Jonathan, 1974, “Counterfactuals and Possible Worlds”, *Canadian Journal of Philosophy*, 4(2): 381–402. doi:10.1080/00455091.1974.10716947
+* –––, 2003, *A Philosophical Guide to Conditionals*, Oxford: Oxford University Press.
+* Bennett, Karen, 2017, *Making Things Up*, New York: Oxford University Press.
+* Bittner, Maria, 2011, “Time and Modality without Tenses or Modals”, in *Tense Across Languages*, Renate Musan and Monika Rathers (eds.), Tübingen: Niemeyer, 147–188. \[[Bittner 2011 available online](http://semanticsarchive.net/Archive/zliYmQxY/bittner11\tam.pdf)]
+* Bobzien, Susanne, 2011, “Dialectical School”, in *The Stanford Encyclopedia of Philosophy*, Edward N. Zalta (ed.), Fall 2011, URL = <[Dialectical School (Stanford Encyclopedia of Philosophy/Fall 2011 Edition)](http://plato.stanford.edu/archives/fall2011/entries/dialectical-school/)>
+* Bowie, G. Lee, 1979, “The Similarity Approach to Counterfactuals: Some Problems”, *Noûs*, 13(4): 477–498. doi:10.2307/2215340
+* Brée, D.S., 1982, “Counterfactuals and Causality”, *Journal of Semantics*, 1(2): 147–185. doi:10.1093/jos/1.2.147
+* Briggs, R.A., 2012, “Interventionist Counterfactuals”, *Philosophical Studies*, 160(1): 139–166. doi:10.1007/s11098-012-9908-5
+* Byrne, Ruth M. J., 2005, *The Rational Imagination: How People Create Alternatives to Reality*, Cambridge, MA: MIT Press.
+* –––, 2016, “Counterfactual Thought”, *Annual Review of Psychology*, 67(1): 135–157. doi:10.1146/annurev-psych-122414-033249
+* Carnap, Rudolf, 1948, *Introduction to Semantics*, Cambridge, MA: Harvard University Press.
+* –––, 1956, *Meaning and Necessity*, second edition, Chicago: Chicago University Press.
+* Champollion, Lucas, Ivano Ciardelli, and Linmin Zhang, 2016, “Breaking de Morgan’s Law in Counterfactual Antecedents”, in *Proceedings from Semantics and Linguistic Theory (SALT) 26*, Mary Moroney, Carol-Rose Little, Jacob Collard, and Dan Burgdorf (eds.), Ithaca, NY: CLC Publications, 304–324. doi:10.3765/salt.v26i0.3800
+* Chater, Nick, Mike Oaksford, Ulrike Hahn, and Evan Heit, 2010, “Bayesian Models of Cognition”, *Wiley Interdisciplinary Reviews: Cognitive Science*, 1(6): 811–823. doi:10.1002/wcs.79
+* Chisholm, Roderick M., 1955, “Law Statements and Counterfactual Inference”, *Analysis*, 15(5): 97–105. doi:10.1093/analys/15.5.97
+* Ciardelli, Ivano, Linmin Zhang, and Lucas Champollion, forthcoming, “Two Switches in the Theory of Counterfactuals”, *Linguistics and Philosophy*, first online: 15 June 2018. doi:10.1007/s10988-018-9232-4
+* Cohen, Jonathan and Aaron Meskin, 2006, “An Objective Counterfactual Theory of Information”, *Australasian Journal of Philosophy*, 84(3): 333–352. doi:10.1080/00048400600895821
+* Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, *Journal of Philosophical Logic*, 31(2): 99–137. doi:10.1023/A:1015273407895
+* Costello, Tom and John McCarthy, 1999, “Useful Counterfactuals”, *Linköping Electronic Articles in Computer and Information Science*, 4(12): 1–24.
+* Cresswell, Max J. and G.E. Hughes, 1996, *A New Introduction to Modal Logic*, London: Routledge.
+* Daniels, Charles B. and James B. Freeman, 1980, “An Analysis of the Subjunctive Conditional”, *Notre Dame Journal of Formal Logic*, 21(4): 639–655. doi:10.1305/ndjfl/1093883247
+* Declerck, Renaat and Susan Reed, 2001, *Conditionals: A Comprehensive Emprical Analysis*, (Topics in English Linguistics, 37), New York: De Gruyter Mouton.
+* Dretske, Fred I., 1981, *Knowledge and the Flow of Information*, Cambridge, MA: The MIT Press.
+* –––, 1988, *Explaining Behavior: Reasons in a World of Causes*, Cambridge, MA: MIT Press.
+* –––, 2002, “A Recipe for Thought”, in *Philosophy of Mind: Contemporary and Classical Readings*, David J. Chalmers (ed.), New York: Oxford University Press, 491–499.
+* –––, 2011, “Information-Theoretic Semantics”, in *The Oxford Handbook of Philosophy of Mind*, Brian McLaughlin, Angsar Beckermann, and Sven Walter (eds.), New York: Oxford University Press, 381–393.
+* Dudman, Victor Howard, 1984a, “Conditional Interpretations of ‘If’ Sentences”, *Australian Journal of Linguistics*, 4(2): 143–204. doi:10.1080/07268608408599325
+* –––, 1984b, “Parsing ‘If’-Sentences”, *Analysis*, 44(4): 145–153. doi:10.1093/analys/44.4.145
+* –––, 1988, “Indicative and Subjunctive”, *Analysis*, 48(3): 113–122. doi:10.1093/analys/48.3.113a
+* Edgington, Dorothy, 2003, “What If? Questions About Conditionals”, *Mind & Language*, 18(4): 380–401. doi:10.1111/1468-0017.00233
+* –––, 2004, “Counterfactuals and the Benefit of Hindsight”, in *Cause and Chance: Causation in an Indeterministic World*, Phil Dowe & Paul Noordhof (ed.), New York: Routledge, 12–27.
+* Fine, Kit, 1975, “Review of Lewis’ Counterfactuals”, *Mind*, 84: 451–458. doi:10.1093/mind/LXXXIV.1.451
+* –––, 2012a, “Counterfactuals Without Possible Worlds”, *Journal of Philosophy*, 109(3): 221–246. doi:10.5840/jphil201210938
+* –––, 2012b, “A Difficulty for the Possible Worlds Analysis of Counterfactuals”, *Synthese*, 189(1): 29–57. doi:10.1007/s11229-012-0094-y
+* Fintel, Kai von, 1999, “The Presupposition of Subjunctive Conditionals”, in *The Interpretive Tract*, Uli Sauerland and Orin Percus (eds.), Cambridge, MA: MITWPL, MIT Working Papers in Linguistics 25: 29–44. \[[Fintel 1999 available online](http://web.mit.edu/fintel/fintel-1998-subjunctive.pdf)]
+* –––, 2001, “Counterfactuals in a Dynamic Context”, in *Ken Hale, A Life in Language*, Michael Kenstowicz (ed.), Cambridge, MA: The MIT Press, 123–152. \[[Fintel 2001 available online](https://web.mit.edu/fintel/fintel-2001-counterfactuals.pdf)]
+* –––, 2012, “Subjunctive Conditionals”, in *The Routledge Companion to Philosophy of Language*, Gillian Russell and Delia Graff Fara (eds.), New York: Routledge, 466–477. \[[Fintel 2012 available online](http://web.mit.edu/fintel/fintel-2012-subjunctives.pdf)]
 * Fintel, Kai von and Sabine Iatridou, 2002, “If and When _If\-Clauses Can Restrict Quantifiers”, Paper for the Workshop in Philosophy and Linguistics, University of Michigan, November 8–10, 2002. \[[Fintel & Iatridou 2002 available online](http://web.mit.edu/fintel/fintel-iatridou-2002-ifwhen.pdf)]
-* Fisher, Tyrus, 2017a, “Causal Counterfactuals Are Not Interventionist Counterfactuals”, _Synthese_, 194(12): 4935–4957. doi:10.1007/s11229-016-1183-0
-* –––, 2017b, “Counterlegal Dependence and Causation’s Arrows: Causal Models for Backtrackers and Counterlegals”, _Synthese_, 194(12): 4983–5003. doi:10.1007/s11229-016-1189-7
-* Fodor, Jerry A., 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_, Cambridge, MA: The MIT Press.
-* –––, (ed.), 1990, _A Theory of Content and Other Essays_, Cambridge, MA: The MIT Press.
+* Fisher, Tyrus, 2017a, “Causal Counterfactuals Are Not Interventionist Counterfactuals”, *Synthese*, 194(12): 4935–4957. doi:10.1007/s11229-016-1183-0
+* –––, 2017b, “Counterlegal Dependence and Causation’s Arrows: Causal Models for Backtrackers and Counterlegals”, *Synthese*, 194(12): 4983–5003. doi:10.1007/s11229-016-1189-7
+* Fodor, Jerry A., 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*, Cambridge, MA: The MIT Press.
+* –––, (ed.), 1990, *A Theory of Content and Other Essays*, Cambridge, MA: The MIT Press.
 * Fraassen, Bas C. Van, 1966, “Singular Terms, Truth-Value Gaps and Free Logic”, Journal of Philosophy, 3: 481–495. doi:10.2307/2024549
-* Frege, Gottlob, 1893, _Grundgesetze Der Arithmetik_, Begriffsschriftlich Abgeleitet, Vol. 1, 1st ed, Jena: H. Pohle.
-* Galinsky, Adam D., Katie A. Liljenquist, Laura J. Kray, and Neil J. Roes, 2005, “Finding Meaning from Mutability: Making Sense and Deriving Significance through Counterfactual Thinking”, in _The Psychology of Counterfactual Thinking_, David R. Mandel, Denis J. Hilton, and Patrizia Catellani (eds), New York: Routledge, 110–127.
-* Gamut, L.T.F., 1991, _Logic, Language and Meaning: Intensional Logic and Logical Grammar_, Vol. 2, Chicago: The University of Chicago Press.
-* Gärdenfors, Peter, 1978, “Conditionals and Changes of Belief”, in _The Logic and Epistemology of Scientific Belief_, Ilkka Niiniluoto and Raimo Tuomela (eds.), Amsterdam: North-Holland.
-* –––, 1982, “Imaging and Conditionalization”, _Journal of Philosophy_, 79(12): 747–760. doi:10.2307/2026039
+* Frege, Gottlob, 1893, *Grundgesetze Der Arithmetik*, Begriffsschriftlich Abgeleitet, Vol. 1, 1st ed, Jena: H. Pohle.
+* Galinsky, Adam D., Katie A. Liljenquist, Laura J. Kray, and Neil J. Roes, 2005, “Finding Meaning from Mutability: Making Sense and Deriving Significance through Counterfactual Thinking”, in *The Psychology of Counterfactual Thinking*, David R. Mandel, Denis J. Hilton, and Patrizia Catellani (eds), New York: Routledge, 110–127.
+* Gamut, L.T.F., 1991, *Logic, Language and Meaning: Intensional Logic and Logical Grammar*, Vol. 2, Chicago: The University of Chicago Press.
+* Gärdenfors, Peter, 1978, “Conditionals and Changes of Belief”, in *The Logic and Epistemology of Scientific Belief*, Ilkka Niiniluoto and Raimo Tuomela (eds.), Amsterdam: North-Holland.
+* –––, 1982, “Imaging and Conditionalization”, *Journal of Philosophy*, 79(12): 747–760. doi:10.2307/2026039
 * Gibbard, Allan F., 1980, “Two Recent Theories of Conditionals”, in Harper, Stalnaker, and Pearce 1980: 211–247. doi:10.1007/978-94-009-9117-0\_10
-* Gibbard, Allan F. and William L. Harper, 1978, “Counterfactuals and Two Kinds of Expected Utility”, in _Foundations and Applications of Decision Theory_, Clifford Hooker, James J. Leach, and Edward McClennen (eds.), Dordrecht: D. Reidel, 125–162. doi:10.1007/978-94-009-9789-9\_5
-* Gillies, Anthony, 2007, “Counterfactual Scorekeeping”, _Linguistics and Philosophy_, 30(3): 329–360. doi:10.1007/s10988-007-9018-6
-* –––, 2012, “Indicative Conditionals”, in _The Routledge Companion to Philosophy of Language_, Gillian Russell and Delia Graff Fara (eds.), New York: Routledge, 449–465.
-* Ginsburg, Matthew L., 1985, “Counterfactuals”, in _Proceedings of the Ninth International Joint Conference on Artificial Intelligence_, Aravind Joshi (ed.), Los Altos, CA: Morgan Kaufmann, 80–86. \[[Ginsburg 1985 available online](https://www.ijcai.org/Proceedings/85-1/Papers/015.pdf)]
-* Glymour, Clark, 2001, _The Mind’s Arrows: Bayes Nets and Graphical Causal Models in Psychology_, Cambridge, MA: MIT Press.
-* Goodman, Nelson, 1947, “The Problem of Counterfactual Conditionals”, _The Journal of Philosophy_, 44(5): 113–118. doi:10.2307/2019988
-* –––, 1954, _Fact, Fiction and Forecast_, Cambridge, MA: Harvard University Press.
+* Gibbard, Allan F. and William L. Harper, 1978, “Counterfactuals and Two Kinds of Expected Utility”, in *Foundations and Applications of Decision Theory*, Clifford Hooker, James J. Leach, and Edward McClennen (eds.), Dordrecht: D. Reidel, 125–162. doi:10.1007/978-94-009-9789-9\_5
+* Gillies, Anthony, 2007, “Counterfactual Scorekeeping”, *Linguistics and Philosophy*, 30(3): 329–360. doi:10.1007/s10988-007-9018-6
+* –––, 2012, “Indicative Conditionals”, in *The Routledge Companion to Philosophy of Language*, Gillian Russell and Delia Graff Fara (eds.), New York: Routledge, 449–465.
+* Ginsburg, Matthew L., 1985, “Counterfactuals”, in *Proceedings of the Ninth International Joint Conference on Artificial Intelligence*, Aravind Joshi (ed.), Los Altos, CA: Morgan Kaufmann, 80–86. \[[Ginsburg 1985 available online](https://www.ijcai.org/Proceedings/85-1/Papers/015.pdf)]
+* Glymour, Clark, 2001, *The Mind’s Arrows: Bayes Nets and Graphical Causal Models in Psychology*, Cambridge, MA: MIT Press.
+* Goodman, Nelson, 1947, “The Problem of Counterfactual Conditionals”, *The Journal of Philosophy*, 44(5): 113–118. doi:10.2307/2019988
+* –––, 1954, *Fact, Fiction and Forecast*, Cambridge, MA: Harvard University Press.
 * Gopnik, Alison, Clark Glymour, David M. Sobel, Laura E. Schulz, Tamar Kushnir, and David Danks, 2004, “A Theory of Causal Learning in Children: Causal Maps and Bayes Nets”, Psychological Review, 111(1): 3–32. doi:10.1037/0033-295X.111.1.3
 * Gopnik, Alison and Joshua B. Tenenbaum, 2007, “Bayesian Networks, Bayesian Learning and Cognitive Development”, Developmental Science, 10(3): 281–287. doi:10.1111/j.1467-7687.2007.00584.x
-* Hájek, Alan, 2014, “Probabilities of Counterfactuals and Counterfactual Probabilities”, _Journal of Applied Logic_, 12(3): 235–251. doi:10.1016/j.jal.2013.11.001
-* Halpern, Joseph and Judea Pearl, 2005a, “Causes and Explanations: A Structural-Model Approach. Part I: Causes”, _British Journal for Philosophy of Science_, 56(4): 843–887. doi:10.1093/bjps/axi147
-* –––, 2005b, “Causes and Explanations: A Structural-Model Approach. Part II: Explanations”, _British Journal for Philosophy of Science_, 56(4): 889–911. doi:10.1093/bjps/axi148
-* Hansson, Sven Ove, 1989, “New Operators for Theory Change”, _Theoria_, 55(2): 114–132. doi:10.1111/j.1755-2567.1989.tb00725.x
-* Harper, William L., 1975, “Rational Belief Change, Popper Functions and the Counterfactuals”, _Synthese_, 30(1–2): 221–262. doi:10.1007/BF00485309
-* Harper, William L., Robert Stalnaker, and Glenn Pearce (eds.), 1980, _Ifs: Conditionals, Belief, Decision, Chance and Time_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-9117-0
-* Hawthorne, John, 2005, “Chance and Counterfactuals”, _Philosophy and Phenomenological Research_, 70(2): 396–405. doi:10.1111/j.1933-1592.2005.tb00534.x
-* Heintzelman, Samantha J., Justin Christopher, Jason Trent, and Laura A. King, 2013, “Counterfactual Thinking about One’s Birth Enhances Well-Being Judgments”, _The Journal of Positive Psychology_, 8(1): 44–49. doi:10.1080/17439760.2012.754925
-* Herzberger, Hans, 1979, “Counterfactuals and Consistency”, _The Journal of Philosophy_, 76(2): 83–88. doi:10.2307/2025977
-* Hiddleston, Eric, 2005, “A Causal Theory of Counterfactuals”, _Noûs_, 39(4): 632–657. doi:10.1111/j.0029-4624.2005.00542.x
-* Hitchcock, Christopher, 2001, “The Intransitivity of Causation Revealed by Equations and Graphs”, _The Journal of Philosophy_, 98(6): 273–299. doi:10.2307/2678432
-* –––, 2007, “Prevention, Preemption, and the Principle of Sufficient Reason”, _Philosophical Review_, 116(4): 495–532. doi:10.1215/00318108-2007-012
-* Horwich, Paul, 1987, _Asymmetries in Time_, Cambridge, MA: MIT Press.
-* Iatridou, Sabine, 2000, “The Grammatical Ingredients of Counterfactuality”, _Linguistic Inquiry_, 31(2): 231–270. doi:10.1162/002438900554352
-* Ichikawa, Jonathan, 2011, “Quantifiers, Knowledge, and Counterfactuals”, _Philosophy and Phenomenological Research_, 82(2): 287–313. doi:10.1111/j.1933-1592.2010.00427.x
-* Ippolito, Michela, 2006, “Semantic Composition and Presupposition Projection in Subjunctive Conditionals”, _Linguistics and Philosophy_, 29(6): 631–672. doi:10.1007/s10988-006-9006-2
-* –––, 2008, “Subjunctive Conditionals”, in _Proceedings of Sinn Und Bedeutung 12_, Atle Grønn (ed.), Oslo: Department of Literature, Area Studies and European Languages, University of Oslo, 256–270.
-* –––, 2013, _Subjunctive Conditionals: A Linguistic Analysis_, (Linguistic Inquiry Monograph Series 65), Cambridge, MA: MIT Press.
-* –––, 2016, “How Similar Is Similar Enough?”, _Semantics and Pragmatics_, 9(6): 1–60. doi:10.3765/sp.9.6
-* Isard, S.D., 1974, “What Would You Have Done If…”, _Theoretical Linguistics_, 1(1–3): 233–255. doi:10.1515/thli.1974.1.1-3.233
-* Jackson, Frank, 1987, _Conditionals_, Oxford: Basil Blackwell.
-* Kahneman, Daniel, Paul Slovic, and Amos Tversky (eds.), 1982, _Judgement under Uncertainty: Heuristics and Biases_, Cambridge: Cambridge University Press.
-* Kant, Immanuel, 1781, _Critique of Pure Reason_, Paul Guyer and Allen Wood (trans.), Cambridge: Cambridge University Press, 1998.
-* Kaufmann, Stefan, 2005, “Conditional Predictions”, _Linguistics and Philosophy_, 28(2): 181–231. doi:10.1007/s10988-005-3731-9
-* –––, 2008, “Conditionals Right and Left: Probabilities for the Whole Family”, _Journal of Philosophical Logic_, 38(1): 1–53. doi:10.1007/s10992-008-9088-0
-* –––, 2013, “Causal Premise Semantics”, _Cognitive Science_, 37(6): 1136–1170. doi:10.1111/cogs.12063
-* –––, 2017, “The Limit Assumption”, _Semantics and Pragmatics_, 10(18). doi:10.3765/sp.10.18
-* Khoo, Justin, 2015, “On Indicative and Subjunctive Conditionals”, _Philosophers’ Imprint_, 15(32): 1–40. \[[Khoo 2015 available online](http://hdl.handle.net/2027/spo.3521354.0015.032)]
-* Kment, Boris, 2006, “Counterfactuals and Explanation”, _Mind_, 115(458): 261–310. doi:10.1093/mind/fzl261
-* –––, 2014, _Modality and Explanatory Reasoning_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199604685.001.0001
-* Koslicki, Kathrin, 2016, “Where Grounding and Causation Part Ways: Comments on Schaffer”, _Philosophical Studies_, 173(1): 101–112. doi:10.1007/s11098-014-0436-3
-* Kratzer, Angelika, 1981a, “The Notional Category of Modality”, in _Words, Worlds and Contexts_, Hans-Jürgen Eikmeyer and Hannes Rieser (eds.), Berlin: Walter de Gruyter, 38–74.
-* –––, 1981b, “Partition and Revision: The Semantics of Counterfactuals”, _Journal of Philosophical Logic_, 10(2): 201–216. doi:10.1007/BF00248849
-* –––, 1986, “Conditionals”, in _Proceedings from the 22nd Regional Meeting of the Chicago Linguistic Society_, Chicago: University of Chicago, 1–15. \[[Kratzer 1986 available online](http://semanticsarchive.net/Archive/ThkMjYxN/Conditionals.pdf)]
-* –––, 1989, “An Investigation of the Lumps of Thought”, _Linguistics and Philosophy_, 12(5): 607–653. doi:10.1007/BF00627775
-* –––, 1990, “How Specific Is a Fact?”, in _Proceedings of the 1990 Conference on Theories of Partial In- Formation_, Center for Cognitive Science, University of Texas at Austin.
-* –––, 1991, “Modality”, in _Semantics: An International Handbook of Contemporary Research_, A. von Stechow and D. Wunderlich (eds.), Berlin: De Gruyter Mouton, 639–650.
-* –––, 2002, “Facts: Particulars or Information Units?”, _Linguistics and Philosophy_, 25(5–6): 655–670. doi:10.1023/A:1020807615085
-* –––, 2012, _Modals and Conditionals: New and Revised Perspectives_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199234684.001.0001
-* Kray, Laura J., Linda G. George, Katie A. Liljenquist, Adam D. Galinsky, Philip E. Tetlock, and Neal J. Roese, 2010, “From What Might Have Been to What Must Have Been: Counterfactual Thinking Creates Meaning”, _Journal of Personality and Social Psychology_, 98(1): 106–118. doi:10.1037/a0017905
-* Kripke, Saul A., 1963, “Semantical Analysis of Modal Logic I: Normal Modal Propositional Calculi”, _Zeitschrift Für Mathematische Logik Und Grundlagen Der Mathematik_, 9(5–6): 67–96. doi:10.1002/malq.19630090502
-* Kvart, Igal, 1986, _A Theory of Counterfactuals_, Indianapolis, IN: Hackett.
-* –––, 1992, “Counterfactuals”, _Erkenntnis_, 36(2): 139–179. doi:10.1007/BF00217472
-* Lange, Marc, 1999, “Laws, Counterfactuals, Stability, and Degrees of Lawhood”, _Philosophy of Science_, 66(2): 243–267. doi:10.1086/392686
-* –––, 2000, _Natural Laws in Scientific Practice_, New York: Oxford University Press.
-* –––, 2009, _Laws and Lawmakers: Science, Metaphysics, and the Laws of Nature_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195328134.001.0001
-* Leitgeb, Hannes, 2012a, “A Probabilistic Semantics for Counterfactuals: Part A”, _The Review of Symbolic Logic_, 5(1): 26–84. doi:10.1017/S1755020311000153
-* –––, 2012b, “A Probabilistic Semantics for Counterfactuals: Part B”, _The Review of Symbolic Logic_, 5(1): 85–121. doi:10.1017/S1755020311000165
-* Levi, Isaac, 1988, “The Iteration of Conditionals and the Ramsey Test”, _Synthese_, 76(1): 49–81. doi:10.1007/BF00869641
-* Lewis, C. I., 1912, “Implication and the Algebra of Logic”, _Mind_, New Series, 21(84): 522–531. doi:10.1093/mind/XXI.84.522
-* –––, 1914, “The Calculus of Strict Implication”, _Mind_, New Series, 23(90): 240–247. doi:10.1093/mind/XXIII.1.240
-* Lewis, David K., 1973a, “Causation”, _Journal of Philosophy_, 70(17): 556–567. doi:10.2307/2025310
-* –––, 1973b, _Counterfactuals_, Cambridge, MA: Harvard University Press.
-* –––, 1973c, “Counterfactuals and Comparative Possibility”, _Journal of Philosophical Logic_, 2(4): 418–446. doi:10.2307/2215339
-* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, _Noûs_, 13(4): 455–476. doi:10.2307/2215339
-* –––, 1981, “Ordering Semantics and Premise Semantics for Counterfactuals”, _Journal of Philosophical Logic_, 10(2): 217–234. doi:10.1007/BF00248850
-* Lewis, Karen S., 2016, “Elusive Counterfactuals”, _Noûs_, 50(2): 286–313. doi:10.1111/nous.12085
-* –––, 2017, “Counterfactuals and Knowledge”, in _The Routledge Handbook of Epistemic Contextualism_, Jonathan Jenkins Ichikawa (ed.), New York: Routledge, 411–424.
-* –––, 2018, “Counterfactual Discourse in Context”, _Noûs_, 52(3): 481–507. doi:10.1111/nous.12194
-* Loewer, Barry, 1976, “Counterfactuals with Disjunctive Antecedents”, _The Journal of Philosophy_, 73(16): 531–537. doi:10.2307/2025717
-* –––, 1983, “Information and Belief”, _Behavioral and Brain Sciences_, 6(1): 75–76. doi:10.1017/S0140525X00014783
-* –––, 2007, “Counterfactuals and the Second Law”, in _Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited_, Huw Price and Richard Corry (eds.), New York: Oxford University Press, 293–326.
-* Lowe, E. J., 1983, “A Simplification of the Logic of Conditionals”, _Notre Dame Journal of Formal Logic_, 24(3): 357–366. doi:10.1305/ndjfl/1093870380
-* –––, 1990, “Conditionals, Context, and Transitivity”, _Analysis_, 50(2): 80–87. doi:10.1093/analys/50.2.80
+* Hájek, Alan, 2014, “Probabilities of Counterfactuals and Counterfactual Probabilities”, *Journal of Applied Logic*, 12(3): 235–251. doi:10.1016/j.jal.2013.11.001
+* Halpern, Joseph and Judea Pearl, 2005a, “Causes and Explanations: A Structural-Model Approach. Part I: Causes”, *British Journal for Philosophy of Science*, 56(4): 843–887. doi:10.1093/bjps/axi147
+* –––, 2005b, “Causes and Explanations: A Structural-Model Approach. Part II: Explanations”, *British Journal for Philosophy of Science*, 56(4): 889–911. doi:10.1093/bjps/axi148
+* Hansson, Sven Ove, 1989, “New Operators for Theory Change”, *Theoria*, 55(2): 114–132. doi:10.1111/j.1755-2567.1989.tb00725.x
+* Harper, William L., 1975, “Rational Belief Change, Popper Functions and the Counterfactuals”, *Synthese*, 30(1–2): 221–262. doi:10.1007/BF00485309
+* Harper, William L., Robert Stalnaker, and Glenn Pearce (eds.), 1980, *Ifs: Conditionals, Belief, Decision, Chance and Time*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-9117-0
+* Hawthorne, John, 2005, “Chance and Counterfactuals”, *Philosophy and Phenomenological Research*, 70(2): 396–405. doi:10.1111/j.1933-1592.2005.tb00534.x
+* Heintzelman, Samantha J., Justin Christopher, Jason Trent, and Laura A. King, 2013, “Counterfactual Thinking about One’s Birth Enhances Well-Being Judgments”, *The Journal of Positive Psychology*, 8(1): 44–49. doi:10.1080/17439760.2012.754925
+* Herzberger, Hans, 1979, “Counterfactuals and Consistency”, *The Journal of Philosophy*, 76(2): 83–88. doi:10.2307/2025977
+* Hiddleston, Eric, 2005, “A Causal Theory of Counterfactuals”, *Noûs*, 39(4): 632–657. doi:10.1111/j.0029-4624.2005.00542.x
+* Hitchcock, Christopher, 2001, “The Intransitivity of Causation Revealed by Equations and Graphs”, *The Journal of Philosophy*, 98(6): 273–299. doi:10.2307/2678432
+* –––, 2007, “Prevention, Preemption, and the Principle of Sufficient Reason”, *Philosophical Review*, 116(4): 495–532. doi:10.1215/00318108-2007-012
+* Horwich, Paul, 1987, *Asymmetries in Time*, Cambridge, MA: MIT Press.
+* Iatridou, Sabine, 2000, “The Grammatical Ingredients of Counterfactuality”, *Linguistic Inquiry*, 31(2): 231–270. doi:10.1162/002438900554352
+* Ichikawa, Jonathan, 2011, “Quantifiers, Knowledge, and Counterfactuals”, *Philosophy and Phenomenological Research*, 82(2): 287–313. doi:10.1111/j.1933-1592.2010.00427.x
+* Ippolito, Michela, 2006, “Semantic Composition and Presupposition Projection in Subjunctive Conditionals”, *Linguistics and Philosophy*, 29(6): 631–672. doi:10.1007/s10988-006-9006-2
+* –––, 2008, “Subjunctive Conditionals”, in *Proceedings of Sinn Und Bedeutung 12*, Atle Grønn (ed.), Oslo: Department of Literature, Area Studies and European Languages, University of Oslo, 256–270.
+* –––, 2013, *Subjunctive Conditionals: A Linguistic Analysis*, (Linguistic Inquiry Monograph Series 65), Cambridge, MA: MIT Press.
+* –––, 2016, “How Similar Is Similar Enough?”, *Semantics and Pragmatics*, 9(6): 1–60. doi:10.3765/sp.9.6
+* Isard, S.D., 1974, “What Would You Have Done If…”, *Theoretical Linguistics*, 1(1–3): 233–255. doi:10.1515/thli.1974.1.1-3.233
+* Jackson, Frank, 1987, *Conditionals*, Oxford: Basil Blackwell.
+* Kahneman, Daniel, Paul Slovic, and Amos Tversky (eds.), 1982, *Judgement under Uncertainty: Heuristics and Biases*, Cambridge: Cambridge University Press.
+* Kant, Immanuel, 1781, *Critique of Pure Reason*, Paul Guyer and Allen Wood (trans.), Cambridge: Cambridge University Press, 1998.
+* Kaufmann, Stefan, 2005, “Conditional Predictions”, *Linguistics and Philosophy*, 28(2): 181–231. doi:10.1007/s10988-005-3731-9
+* –––, 2008, “Conditionals Right and Left: Probabilities for the Whole Family”, *Journal of Philosophical Logic*, 38(1): 1–53. doi:10.1007/s10992-008-9088-0
+* –––, 2013, “Causal Premise Semantics”, *Cognitive Science*, 37(6): 1136–1170. doi:10.1111/cogs.12063
+* –––, 2017, “The Limit Assumption”, *Semantics and Pragmatics*, 10(18). doi:10.3765/sp.10.18
+* Khoo, Justin, 2015, “On Indicative and Subjunctive Conditionals”, *Philosophers’ Imprint*, 15(32): 1–40. \[[Khoo 2015 available online](http://hdl.handle.net/2027/spo.3521354.0015.032)]
+* Kment, Boris, 2006, “Counterfactuals and Explanation”, *Mind*, 115(458): 261–310. doi:10.1093/mind/fzl261
+* –––, 2014, *Modality and Explanatory Reasoning*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199604685.001.0001
+* Koslicki, Kathrin, 2016, “Where Grounding and Causation Part Ways: Comments on Schaffer”, *Philosophical Studies*, 173(1): 101–112. doi:10.1007/s11098-014-0436-3
+* Kratzer, Angelika, 1981a, “The Notional Category of Modality”, in *Words, Worlds and Contexts*, Hans-Jürgen Eikmeyer and Hannes Rieser (eds.), Berlin: Walter de Gruyter, 38–74.
+* –––, 1981b, “Partition and Revision: The Semantics of Counterfactuals”, *Journal of Philosophical Logic*, 10(2): 201–216. doi:10.1007/BF00248849
+* –––, 1986, “Conditionals”, in *Proceedings from the 22nd Regional Meeting of the Chicago Linguistic Society*, Chicago: University of Chicago, 1–15. \[[Kratzer 1986 available online](http://semanticsarchive.net/Archive/ThkMjYxN/Conditionals.pdf)]
+* –––, 1989, “An Investigation of the Lumps of Thought”, *Linguistics and Philosophy*, 12(5): 607–653. doi:10.1007/BF00627775
+* –––, 1990, “How Specific Is a Fact?”, in *Proceedings of the 1990 Conference on Theories of Partial In- Formation*, Center for Cognitive Science, University of Texas at Austin.
+* –––, 1991, “Modality”, in *Semantics: An International Handbook of Contemporary Research*, A. von Stechow and D. Wunderlich (eds.), Berlin: De Gruyter Mouton, 639–650.
+* –––, 2002, “Facts: Particulars or Information Units?”, *Linguistics and Philosophy*, 25(5–6): 655–670. doi:10.1023/A:1020807615085
+* –––, 2012, *Modals and Conditionals: New and Revised Perspectives*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199234684.001.0001
+* Kray, Laura J., Linda G. George, Katie A. Liljenquist, Adam D. Galinsky, Philip E. Tetlock, and Neal J. Roese, 2010, “From What Might Have Been to What Must Have Been: Counterfactual Thinking Creates Meaning”, *Journal of Personality and Social Psychology*, 98(1): 106–118. doi:10.1037/a0017905
+* Kripke, Saul A., 1963, “Semantical Analysis of Modal Logic I: Normal Modal Propositional Calculi”, *Zeitschrift Für Mathematische Logik Und Grundlagen Der Mathematik*, 9(5–6): 67–96. doi:10.1002/malq.19630090502
+* Kvart, Igal, 1986, *A Theory of Counterfactuals*, Indianapolis, IN: Hackett.
+* –––, 1992, “Counterfactuals”, *Erkenntnis*, 36(2): 139–179. doi:10.1007/BF00217472
+* Lange, Marc, 1999, “Laws, Counterfactuals, Stability, and Degrees of Lawhood”, *Philosophy of Science*, 66(2): 243–267. doi:10.1086/392686
+* –––, 2000, *Natural Laws in Scientific Practice*, New York: Oxford University Press.
+* –––, 2009, *Laws and Lawmakers: Science, Metaphysics, and the Laws of Nature*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780195328134.001.0001
+* Leitgeb, Hannes, 2012a, “A Probabilistic Semantics for Counterfactuals: Part A”, *The Review of Symbolic Logic*, 5(1): 26–84. doi:10.1017/S1755020311000153
+* –––, 2012b, “A Probabilistic Semantics for Counterfactuals: Part B”, *The Review of Symbolic Logic*, 5(1): 85–121. doi:10.1017/S1755020311000165
+* Levi, Isaac, 1988, “The Iteration of Conditionals and the Ramsey Test”, *Synthese*, 76(1): 49–81. doi:10.1007/BF00869641
+* Lewis, C. I., 1912, “Implication and the Algebra of Logic”, *Mind*, New Series, 21(84): 522–531. doi:10.1093/mind/XXI.84.522
+* –––, 1914, “The Calculus of Strict Implication”, *Mind*, New Series, 23(90): 240–247. doi:10.1093/mind/XXIII.1.240
+* Lewis, David K., 1973a, “Causation”, *Journal of Philosophy*, 70(17): 556–567. doi:10.2307/2025310
+* –––, 1973b, *Counterfactuals*, Cambridge, MA: Harvard University Press.
+* –––, 1973c, “Counterfactuals and Comparative Possibility”, *Journal of Philosophical Logic*, 2(4): 418–446. doi:10.2307/2215339
+* –––, 1979, “Counterfactual Dependence and Time’s Arrow”, *Noûs*, 13(4): 455–476. doi:10.2307/2215339
+* –––, 1981, “Ordering Semantics and Premise Semantics for Counterfactuals”, *Journal of Philosophical Logic*, 10(2): 217–234. doi:10.1007/BF00248850
+* Lewis, Karen S., 2016, “Elusive Counterfactuals”, *Noûs*, 50(2): 286–313. doi:10.1111/nous.12085
+* –––, 2017, “Counterfactuals and Knowledge”, in *The Routledge Handbook of Epistemic Contextualism*, Jonathan Jenkins Ichikawa (ed.), New York: Routledge, 411–424.
+* –––, 2018, “Counterfactual Discourse in Context”, *Noûs*, 52(3): 481–507. doi:10.1111/nous.12194
+* Loewer, Barry, 1976, “Counterfactuals with Disjunctive Antecedents”, *The Journal of Philosophy*, 73(16): 531–537. doi:10.2307/2025717
+* –––, 1983, “Information and Belief”, *Behavioral and Brain Sciences*, 6(1): 75–76. doi:10.1017/S0140525X00014783
+* –––, 2007, “Counterfactuals and the Second Law”, in *Causation, Physics, and the Constitution of Reality: Russell’s Republic Revisited*, Huw Price and Richard Corry (eds.), New York: Oxford University Press, 293–326.
+* Lowe, E. J., 1983, “A Simplification of the Logic of Conditionals”, *Notre Dame Journal of Formal Logic*, 24(3): 357–366. doi:10.1305/ndjfl/1093870380
+* –––, 1990, “Conditionals, Context, and Transitivity”, *Analysis*, 50(2): 80–87. doi:10.1093/analys/50.2.80
 * Lucas, Christopher G. and Charles Kemp, 2015, “An Improved Probabilistic Account of Counterfactual Reasoning”, Psychological Review, 122(4): 700–734. doi:10.1037/a0039655
-* Lycan, William G., 2001, _Real Conditionals_, Oxford: Oxford University Press.
-* Lyons, John, 1977, _Semantics_, Vol. 2, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511620614
-* Mackie, John L., 1974, _The Cement of the Universe: A Study in Causation_, Oxford: Oxford University Press.
-* Marr, David, 1982, _Vision: A Computational Investigation into the Human Representation and Processing of Visual Information_, San Francisco: W.H. Freeman.
-* Maudlin, Tim, 2007, _Metaphysics Within Physics_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199218219.001.0001
-* McKay, Thomas J. and Peter van Inwagen, 1977, “Counterfactuals with Disjunctive Antecedents”, _Philosophical Studies_, 31(5): 353–356. doi:10.1007/BF01873862
-* Morreau, Michael, 2009, “The Hypothetical Syllogism”, _Journal of Philosophical Logic_, 38(4): 447–464. doi:10.1007/s10992-008-9098-y
-* –––, 2010, “It Simply Does Not Add Up: Trouble with Overall Similarity”, _The Journal of Philosophy_, 107(9): 469–490. doi:10.5840/jphil2010107931
-* Moss, Sarah, 2012, “On the Pragmatics of Counterfactuals”, _Noûs_, 46(3): 561–586. doi:10.1111/j.1468-0068.2010.00798.x
-* Nelson, Everett J., 1933, “On Three Logical Principles in Intension”, _The Monist_, 43(2): 268–284. doi:10.5840/monist19334327
-* Nozick, Robert, 1969, “Newcomb’s Problem and Two Principles of Choice”, in _Essays in Honor of Carl G. Hempel_, Nicholas Rescher (ed.), Dordrecht: D. Reidel, 111–5.
-* Nute, Donald, 1975a, “Counterfactuals”, _Notre Dame Journal of Formal Logic_, 16(4): 476–482. doi:10.1305/ndjfl/1093891882
-* –––, 1975b, “Counterfactuals and the Similarity of Words”, _The Journal of Philosophy_, 72(21): 773–778. doi:10.2307/2025340
-* –––, 1980a, “Conversational Scorekeeping and Conditionals”, _Journal of Philosophical Logic_, 9(2): 153–166. doi:10.1007/BF00247746
-* –––, (ed.), 1980b, _Topics in Conditional Logic_, Dordrecht: Reidel. doi:10.1007/978-94-009-8966-5
-* Palmer, Frank Robert, 1986, _Mood and Modality_, Cambridge: Cambridge University Press.
-* Parisien, Christopher and Paul Thagard, 2008, “Robosemantics: How Stanley the Volkswagen Represents the World”, _Minds and Machines_, 18(2): 169–178. doi:10.1007/s11023-008-9098-2
-* Pearl, Judea, 1995, “Causation, Action, and Counterfactuals”, in _Computational Learning and Probabilistic Reasoning_, A. Gammerman (ed.), New York: John Wiley and Sons, 235–255.
-* –––, 2000, _Causality: Models, Reasoning, and Inference_, Cambridge: Cambridge University Press.
-* –––, 2002, “Reasoning with Cause and Effect”, _AI Magazine_, 23(1): 95–112. \[[Pearl 2002 available online](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1612)]
-* –––, 2009, _Causality: Models, Reasoning, and Inference_, second edition, Cambridge: Cambridge University Press.
-* –––, 2013, “Structural Counterfactuals: A Brief Introduction”, _Cognitive Science_, 37(6): 977–985. doi:10.1111/cogs.12065
-* Peirce, Charles S., 1896, “The Regenerated Logic”, _The Monist_, 7(1): 19–40. doi:10.5840/monist18967121
-* Pendlebury, Michael, 1989, “The Projection Strategy and the Truth: Conditions of Conditional Statements”, _Mind_, 98(390): 179–205. doi:10.1093/mind/XCVIII.390.179
-* Pereboom, Derk, 2014, _Free Will, Agency, and Meaning in Life_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199685516.001.0001
-* Pollock, John L., 1976, _Subjunctive Reasoning_, Dordrecht: D. Reidel Publishing Co., doi:10.1007/978-94-010-1500-4
-* –––, 1981, “A Refined Theory of Counterfactuals”, _Journal of Philosophical Logic_, 10(2): 239–266. doi:10.1007/BF00248852
-* Quine, Willard Van Orman, 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* –––, 1982, _Methods of Logic_, fourth edition, Cambridge, MA: Harvard University Press.
-* Rips, Lance J., 2010, “Two Causal Theories of Counterfactual Conditionals”, _Cognitive Science_, 34(2): 175–221. doi:10.1111/j.1551-6709.2009.01080.x
-* Rips, Lance J. and Brian J. Edwards, 2013, “Inference and Explanation in Counterfactual Reasoning”, _Cognitive Science_, 37(6): 1107–1135. doi:10.1111/cogs.12024
-* Ryle, Gilbert, 1949, _The Concept of Mind_, London: Hutchinson.
-* Sanford, David H., 1989, _If P Then Q: Conditionals and the Foundations of Reasoning_, London: Routledge.
-* Santorio, Paolo, 2014, “Filtering Semantics for Counterfactuals: Bridging Causal Models and Premise Semantics”, in the _Proceedings of Semantics and Linguistic Theory (SALT) 24_, 494–513.
-* Schaffer, Jonathan, 2016, “Grounding in the Image of Causation”, _Philosophical Studies_, 173(1): 49–100. doi:10.1007/s11098-014-0438-1
+* Lycan, William G., 2001, *Real Conditionals*, Oxford: Oxford University Press.
+* Lyons, John, 1977, *Semantics*, Vol. 2, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511620614
+* Mackie, John L., 1974, *The Cement of the Universe: A Study in Causation*, Oxford: Oxford University Press.
+* Marr, David, 1982, *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information*, San Francisco: W.H. Freeman.
+* Maudlin, Tim, 2007, *Metaphysics Within Physics*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199218219.001.0001
+* McKay, Thomas J. and Peter van Inwagen, 1977, “Counterfactuals with Disjunctive Antecedents”, *Philosophical Studies*, 31(5): 353–356. doi:10.1007/BF01873862
+* Morreau, Michael, 2009, “The Hypothetical Syllogism”, *Journal of Philosophical Logic*, 38(4): 447–464. doi:10.1007/s10992-008-9098-y
+* –––, 2010, “It Simply Does Not Add Up: Trouble with Overall Similarity”, *The Journal of Philosophy*, 107(9): 469–490. doi:10.5840/jphil2010107931
+* Moss, Sarah, 2012, “On the Pragmatics of Counterfactuals”, *Noûs*, 46(3): 561–586. doi:10.1111/j.1468-0068.2010.00798.x
+* Nelson, Everett J., 1933, “On Three Logical Principles in Intension”, *The Monist*, 43(2): 268–284. doi:10.5840/monist19334327
+* Nozick, Robert, 1969, “Newcomb’s Problem and Two Principles of Choice”, in *Essays in Honor of Carl G. Hempel*, Nicholas Rescher (ed.), Dordrecht: D. Reidel, 111–5.
+* Nute, Donald, 1975a, “Counterfactuals”, *Notre Dame Journal of Formal Logic*, 16(4): 476–482. doi:10.1305/ndjfl/1093891882
+* –––, 1975b, “Counterfactuals and the Similarity of Words”, *The Journal of Philosophy*, 72(21): 773–778. doi:10.2307/2025340
+* –––, 1980a, “Conversational Scorekeeping and Conditionals”, *Journal of Philosophical Logic*, 9(2): 153–166. doi:10.1007/BF00247746
+* –––, (ed.), 1980b, *Topics in Conditional Logic*, Dordrecht: Reidel. doi:10.1007/978-94-009-8966-5
+* Palmer, Frank Robert, 1986, *Mood and Modality*, Cambridge: Cambridge University Press.
+* Parisien, Christopher and Paul Thagard, 2008, “Robosemantics: How Stanley the Volkswagen Represents the World”, *Minds and Machines*, 18(2): 169–178. doi:10.1007/s11023-008-9098-2
+* Pearl, Judea, 1995, “Causation, Action, and Counterfactuals”, in *Computational Learning and Probabilistic Reasoning*, A. Gammerman (ed.), New York: John Wiley and Sons, 235–255.
+* –––, 2000, *Causality: Models, Reasoning, and Inference*, Cambridge: Cambridge University Press.
+* –––, 2002, “Reasoning with Cause and Effect”, *AI Magazine*, 23(1): 95–112. \[[Pearl 2002 available online](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1612)]
+* –––, 2009, *Causality: Models, Reasoning, and Inference*, second edition, Cambridge: Cambridge University Press.
+* –––, 2013, “Structural Counterfactuals: A Brief Introduction”, *Cognitive Science*, 37(6): 977–985. doi:10.1111/cogs.12065
+* Peirce, Charles S., 1896, “The Regenerated Logic”, *The Monist*, 7(1): 19–40. doi:10.5840/monist18967121
+* Pendlebury, Michael, 1989, “The Projection Strategy and the Truth: Conditions of Conditional Statements”, *Mind*, 98(390): 179–205. doi:10.1093/mind/XCVIII.390.179
+* Pereboom, Derk, 2014, *Free Will, Agency, and Meaning in Life*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199685516.001.0001
+* Pollock, John L., 1976, *Subjunctive Reasoning*, Dordrecht: D. Reidel Publishing Co., doi:10.1007/978-94-010-1500-4
+* –––, 1981, “A Refined Theory of Counterfactuals”, *Journal of Philosophical Logic*, 10(2): 239–266. doi:10.1007/BF00248852
+* Quine, Willard Van Orman, 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* –––, 1982, *Methods of Logic*, fourth edition, Cambridge, MA: Harvard University Press.
+* Rips, Lance J., 2010, “Two Causal Theories of Counterfactual Conditionals”, *Cognitive Science*, 34(2): 175–221. doi:10.1111/j.1551-6709.2009.01080.x
+* Rips, Lance J. and Brian J. Edwards, 2013, “Inference and Explanation in Counterfactual Reasoning”, *Cognitive Science*, 37(6): 1107–1135. doi:10.1111/cogs.12024
+* Ryle, Gilbert, 1949, *The Concept of Mind*, London: Hutchinson.
+* Sanford, David H., 1989, *If P Then Q: Conditionals and the Foundations of Reasoning*, London: Routledge.
+* Santorio, Paolo, 2014, “Filtering Semantics for Counterfactuals: Bridging Causal Models and Premise Semantics”, in the *Proceedings of Semantics and Linguistic Theory (SALT) 24*, 494–513.
+* Schaffer, Jonathan, 2016, “Grounding in the Image of Causation”, *Philosophical Studies*, 173(1): 49–100. doi:10.1007/s11098-014-0438-1
 * Schulz, Katrin, 2007, “Minimal Models in Semantics and Pragmatics: Free Choice, Exhaustivity, and Conditionals”, PhD Thesis, Amsterdam: University of Amsterdam: Institute for Logic, Language and Computation. \[[Schultz 2007 available online](http://www.illc.uva.nl/Publications/Dissertations/DS-2007-04.text.pdf)]
-* –––, 2011, “If You’d Wiggled A, Then B Would’ve Changed”, _Synthese_, 179(2): 239–251. doi:10.1007/s11229-010-9780-9
-* –––, 2014, “Fake Tense in Conditional Sentences: A Modal Approach”, _Natural Language Semantics_, 22(2): 117–144. doi:10.1007/s11050-013-9102-0
-* Seto, Elizabeth, Joshua A. Hicks, William E. Davis, and Rachel Smallman, 2015, “Free Will, Counterfactual Reflection, and the Meaningfulness of Life Events”, _Social Psychological and Personality Science_, 6(3): 243–250. doi:10.1177/1948550614559603
-* Sider, Theodore, 2010, _Logic for Philosophy_, New York: Oxford University Press.
+* –––, 2011, “If You’d Wiggled A, Then B Would’ve Changed”, *Synthese*, 179(2): 239–251. doi:10.1007/s11229-010-9780-9
+* –––, 2014, “Fake Tense in Conditional Sentences: A Modal Approach”, *Natural Language Semantics*, 22(2): 117–144. doi:10.1007/s11050-013-9102-0
+* Seto, Elizabeth, Joshua A. Hicks, William E. Davis, and Rachel Smallman, 2015, “Free Will, Counterfactual Reflection, and the Meaningfulness of Life Events”, *Social Psychological and Personality Science*, 6(3): 243–250. doi:10.1177/1948550614559603
+* Sider, Theodore, 2010, *Logic for Philosophy*, New York: Oxford University Press.
 * Skyrms, Brian, 1980, “The Prior Propensity Account of Subjunctive Conditionals”, in Harper, Stalnaker, and Pearce 1980: 259–265. doi:10.1007/978-94-009-9117-0\_13
-* Sloman, Steven, 2005, _Causal Models: How People Think About the World and Its Alternatives_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195183115.001.0001
-* Sloman, Steven A. and David A. Lagnado, 2005, “Do We ‘Do’?”, _Cognitive Science_, 29(1): 5–39. doi:10.1207/s15516709cog2901\_2
-* Slote, Michael, 1978, “Time in Counterfactuals”, _Philosophical Review_, 87(1): 3–27. doi:10.2307/2184345
-* Smilansky, Saul, 2000, _Free Will and Illusion_, New York: Oxford University Press.
-* Snider, Todd and Adam Bjorndahl, 2015, “Informative Counterfactuals”, _Semantics and Linguistic Theory_, 25: 1–17. doi:10.3765/salt.v25i0.3077
-* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993, _Causation, Prediction, and Search_, Berlin: Springer-Verlag.
-* –––, 2000, _Causation, Prediction, and Search_, second edition, Cambridge, MA: The MIT Press.
-* Sprigge, Timothy L.S., 1970, _Facts, Worlds and Beliefs_, London: Routledge & K. Paul.
-* –––, 2006, “My Philosophy and Some Defence of It”, in _Consciousness, Reality and Value: Essays in Honour of T. L. S. Sprigge_, Pierfrancesco Basile and Leemon B. McHenry (eds.), Heusenstamm: Ontos Verlag, 299–321.
-* Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in _Studies in Logical Theory_, Nicholas Rescher (ed.), Oxford: Basil Blackwell, 98–112.
+* Sloman, Steven, 2005, *Causal Models: How People Think About the World and Its Alternatives*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780195183115.001.0001
+* Sloman, Steven A. and David A. Lagnado, 2005, “Do We ‘Do’?”, *Cognitive Science*, 29(1): 5–39. doi:10.1207/s15516709cog2901\_2
+* Slote, Michael, 1978, “Time in Counterfactuals”, *Philosophical Review*, 87(1): 3–27. doi:10.2307/2184345
+* Smilansky, Saul, 2000, *Free Will and Illusion*, New York: Oxford University Press.
+* Snider, Todd and Adam Bjorndahl, 2015, “Informative Counterfactuals”, *Semantics and Linguistic Theory*, 25: 1–17. doi:10.3765/salt.v25i0.3077
+* Spirtes, Peter, Clark Glymour, and Richard Scheines, 1993, *Causation, Prediction, and Search*, Berlin: Springer-Verlag.
+* –––, 2000, *Causation, Prediction, and Search*, second edition, Cambridge, MA: The MIT Press.
+* Sprigge, Timothy L.S., 1970, *Facts, Worlds and Beliefs*, London: Routledge & K. Paul.
+* –––, 2006, “My Philosophy and Some Defence of It”, in *Consciousness, Reality and Value: Essays in Honour of T. L. S. Sprigge*, Pierfrancesco Basile and Leemon B. McHenry (eds.), Heusenstamm: Ontos Verlag, 299–321.
+* Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in *Studies in Logical Theory*, Nicholas Rescher (ed.), Oxford: Basil Blackwell, 98–112.
 * –––, 1972 \[1980], “Letter to David Lewis”. Reprinted in Harper, Stalnaker, and Pearce 1980: 151–152. doi:10.1007/978-94-009-9117-0\_7
-* –––, 1975, “Indicative Conditionals”, _Philosophia_, 5(3): 269–286. doi:10.1007/BF02379021
-* –––, 1978, “Assertion”, in _Syntax and Semantics 9: Pragmatics_, Peter Cole (ed.), New York: Academic Press, 315–332.
+* –––, 1975, “Indicative Conditionals”, *Philosophia*, 5(3): 269–286. doi:10.1007/BF02379021
+* –––, 1978, “Assertion”, in *Syntax and Semantics 9: Pragmatics*, Peter Cole (ed.), New York: Academic Press, 315–332.
 * –––, 1980, “A Defense of Conditional Excluded Middle”, in Harper, Stalnaker, and Pearce 1980: 87–104. doi:10.1007/978-94-009-9117-0\_4
-* –––, 1984, _Inquiry_, Cambridge, MA: MIT Press.
-* –––, 1999, _Context and Content: Essays on Intentionality in Speech and Thought_, Oxford: Oxford University Press.
-* Stalnaker, Robert C. and Richmond H. Thomason, 1970, “A Semantic Analysis of Conditional Logic”, _Theoria_, 36(1): 23–42. doi:10.1111/j.1755-2567.1970.tb00408.x
-* Starr, William B., 2012, _The Structure of Possible Worlds_, UCLA Workshop. \[[Starr 2012 available online](http://williamstarr.net/research/the\structure\of\possible\worlds.pdf)]
-* –––, 2014, “A Uniform Theory of Conditionals”, _Journal of Philosophical Logic_, 43(6): 1019–1064. doi:10.1007/s10992-013-9300-8
+* –––, 1984, *Inquiry*, Cambridge, MA: MIT Press.
+* –––, 1999, *Context and Content: Essays on Intentionality in Speech and Thought*, Oxford: Oxford University Press.
+* Stalnaker, Robert C. and Richmond H. Thomason, 1970, “A Semantic Analysis of Conditional Logic”, *Theoria*, 36(1): 23–42. doi:10.1111/j.1755-2567.1970.tb00408.x
+* Starr, William B., 2012, *The Structure of Possible Worlds*, UCLA Workshop. \[[Starr 2012 available online](http://williamstarr.net/research/the\structure\of\possible\worlds.pdf)]
+* –––, 2014, “A Uniform Theory of Conditionals”, *Journal of Philosophical Logic*, 43(6): 1019–1064. doi:10.1007/s10992-013-9300-8
 * Stone, Matthew, 1997, “The Anaphoric Parallel between Modality and Tense”. Philadelphia, PA: University of Pennsylvania Institute for Research in Cognitive Science, Technical Report No. MS-CIS-97-06. \[[Stone 1997 available online](https://www.cs.rutgers.edu/\~mdstone/pubs/ircs97-06.pdf)]
-* Swanson, Eric, 2012, “Conditional Excluded Middle without the Limit Assumption”, _Philosophy and Phenomenological Research_, 85(2): 301–321. doi:10.1111/j.1933-1592.2011.00507.x
-* Tadeschi, Philip, 1981, “Some Evidence for a Branching-Futures Semantic Model”, in _Tense and Aspect_, (Syntax and Semantics, 14), Philip Tedeschi and Annie Zaenen (eds.), New York: Academic Press, 239–269.
-* Tarski, Alfred, 1936, “Der Wahrheitsbegriff in Den Formalizierten Sprachen”, _Studia Philosophica_, 1: 261–405.
-* Thrun, Sebastian, Mike Montemerlo, Hendrik Dahlkamp, David Stavens, Andrei Aron, James Diebel, Philip Fong, et al., 2006, “Stanley: The Robot That Won the DARPA Grand Challenge”, _Journal of Field Robotics_, 23(9): 661–692. doi:10.1002/rob.20147
-* Tichý, Pavel, 1976, “A Counterexample to the Stalnaker-Lewis Analysis of Counterfactuals”, _Philosophical Studies_, 29(4): 271–273. doi:10.1007/BF00411887
-* Todd, William, 1964, “Counterfactual Conditionals and the Presuppositions of Induction”, _Philosophy of Science_, 31(2): 101–110. doi:10.1086/287987
-* Veltman, Frank, 1976, “Prejudices, Presuppositions and the Theory of Counterfactuals”, in _Amsterdam Papers in Formal Grammar_, J. Groenendijck and M. Stokhof (eds.) (Proceedings of the 1st Amsterdam Colloquium), University of Amsterdam, 248–281.
+* Swanson, Eric, 2012, “Conditional Excluded Middle without the Limit Assumption”, *Philosophy and Phenomenological Research*, 85(2): 301–321. doi:10.1111/j.1933-1592.2011.00507.x
+* Tadeschi, Philip, 1981, “Some Evidence for a Branching-Futures Semantic Model”, in *Tense and Aspect*, (Syntax and Semantics, 14), Philip Tedeschi and Annie Zaenen (eds.), New York: Academic Press, 239–269.
+* Tarski, Alfred, 1936, “Der Wahrheitsbegriff in Den Formalizierten Sprachen”, *Studia Philosophica*, 1: 261–405.
+* Thrun, Sebastian, Mike Montemerlo, Hendrik Dahlkamp, David Stavens, Andrei Aron, James Diebel, Philip Fong, et al., 2006, “Stanley: The Robot That Won the DARPA Grand Challenge”, *Journal of Field Robotics*, 23(9): 661–692. doi:10.1002/rob.20147
+* Tichý, Pavel, 1976, “A Counterexample to the Stalnaker-Lewis Analysis of Counterfactuals”, *Philosophical Studies*, 29(4): 271–273. doi:10.1007/BF00411887
+* Todd, William, 1964, “Counterfactual Conditionals and the Presuppositions of Induction”, *Philosophy of Science*, 31(2): 101–110. doi:10.1086/287987
+* Veltman, Frank, 1976, “Prejudices, Presuppositions and the Theory of Counterfactuals”, in *Amsterdam Papers in Formal Grammar*, J. Groenendijck and M. Stokhof (eds.) (Proceedings of the 1st Amsterdam Colloquium), University of Amsterdam, 248–281.
 * –––, 1985, “Logics for Conditionals”, Ph.D. Dissertation, Amsterdam: University of Amsterdam.
-* –––, 1986, “Data Semantics and the Pragmatics of Indicative Conditionals”, in _On Conditionals_, Elizabeth C. Traugott, Alice ter Meulen, Judy S. Reilly, and Charles A. Ferguson (eds.), Cambridge: Cambridge University Press.
-* –––, 2005, “Making Counterfactual Assumptions”, _Journal of Semantics_, 22(2): 159–180. doi:10.1093/jos/ffh022
-* Walters, Lee, 2014, “Against Hypothetical Syllogism”, _Journal of Philosophical Logic_, 43(5): 979–997. doi:10.1007/s10992-013-9305-3
-* Walters, Lee and J. Robert G. Williams, 2013, “An Argument for Conjunction Conditionalization”, _The Review of Symbolic Logic_, 6(04): 573–588. doi:10.1017/S1755020313000191
-* Warmbrōd, Ken, 1981a, “Counterfactuals and Substitution of Equivalent Antecedents”, _Journal of Philosophical Logic_, 10(2): 267–289. doi:10.1007/BF00248853
-* –––, 1981b, “An Indexical Theory of Conditionals”, _Dialogue, Canadian Philosophical Review_, 20(4): 644–664. doi:10.1017/S0012217300021399
-* Wasserman, Ryan, 2006, “The Future Similarity Objection Revisited”, _Synthese_, 150(1): 57–67. doi:10.1007/s11229-004-6256-9
-* Weatherson, Brian, 2001, “Indicative and Subjunctive Conditionals”, _The Philosophical Quarterly_, 51(203): 200–216. doi:10.1111/j.0031-8094.2001.00224.x
-* Willer, Malte, 2015, “Simplifying Counterfactuals”, in _20th Amsterdam Colloquium_, Thomas Brochhagen, Floris Roelofsen, and Nadine Theiler (eds.), Amsterdam: ILLC, 428–437. \[[Willer 2015 available online](http://semanticsarchive.net/Archive/mVkOTk2N/AC2015-proceedings.pdf)]
-* –––, 2017, “Lessons from Sobel Sequences”, _Semantics and Pragmatics_, 10(4). doi:10.3765/sp.10.4
-* –––, 2018, “Simplifying with Free Choice”, _Topoi_, 37(3): 379–392. doi:10.1007/s11245-016-9437-5
-* Williams, J. Robert G., 2010, “Defending Conditional Excluded Middle”, _Noûs_, 44(4): 650–668. doi:10.1111/j.1468-0068.2010.00766.x
-* Williamson, Timothy, 2005, “Armchair Philosophy, Metaphysical Modality and Counterfactual Thinking”, _Proceedings of the Aristotelian Society_, 105(1): 1–23. doi:10.1111/j.0066-7373.2004.00100.x
-* –––, 2007, _The Philosophy of Philosophy_, Malden, MA: Blackwell.
-* Wilson, Alastair, 2018, “Metaphysical Causation”, _Noûs_, 52(4): 723–751. doi:10.1111/nous.12190
-* Woodward, Jim, 2002, “What Is a Mechanism? A Counterfactual Account”, _Philosophy of Science_, 69(S3): S366–S377. doi:10.1086/341859
-* –––, 2003, _Making Things Happen: A Theory of Causal Explanation_, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
-* Zeman, Jay, 1997, “Peirce and Philo”, in _Studies in the Logic of Charles Sanders Peirce_, Nathan Houser, Don Roberts, and James Van Evra (eds.), Indianapolis: Indiana University Press, 402–417.
+* –––, 1986, “Data Semantics and the Pragmatics of Indicative Conditionals”, in *On Conditionals*, Elizabeth C. Traugott, Alice ter Meulen, Judy S. Reilly, and Charles A. Ferguson (eds.), Cambridge: Cambridge University Press.
+* –––, 2005, “Making Counterfactual Assumptions”, *Journal of Semantics*, 22(2): 159–180. doi:10.1093/jos/ffh022
+* Walters, Lee, 2014, “Against Hypothetical Syllogism”, *Journal of Philosophical Logic*, 43(5): 979–997. doi:10.1007/s10992-013-9305-3
+* Walters, Lee and J. Robert G. Williams, 2013, “An Argument for Conjunction Conditionalization”, *The Review of Symbolic Logic*, 6(04): 573–588. doi:10.1017/S1755020313000191
+* Warmbrōd, Ken, 1981a, “Counterfactuals and Substitution of Equivalent Antecedents”, *Journal of Philosophical Logic*, 10(2): 267–289. doi:10.1007/BF00248853
+* –––, 1981b, “An Indexical Theory of Conditionals”, *Dialogue, Canadian Philosophical Review*, 20(4): 644–664. doi:10.1017/S0012217300021399
+* Wasserman, Ryan, 2006, “The Future Similarity Objection Revisited”, *Synthese*, 150(1): 57–67. doi:10.1007/s11229-004-6256-9
+* Weatherson, Brian, 2001, “Indicative and Subjunctive Conditionals”, *The Philosophical Quarterly*, 51(203): 200–216. doi:10.1111/j.0031-8094.2001.00224.x
+* Willer, Malte, 2015, “Simplifying Counterfactuals”, in *20th Amsterdam Colloquium*, Thomas Brochhagen, Floris Roelofsen, and Nadine Theiler (eds.), Amsterdam: ILLC, 428–437. \[[Willer 2015 available online](http://semanticsarchive.net/Archive/mVkOTk2N/AC2015-proceedings.pdf)]
+* –––, 2017, “Lessons from Sobel Sequences”, *Semantics and Pragmatics*, 10(4). doi:10.3765/sp.10.4
+* –––, 2018, “Simplifying with Free Choice”, *Topoi*, 37(3): 379–392. doi:10.1007/s11245-016-9437-5
+* Williams, J. Robert G., 2010, “Defending Conditional Excluded Middle”, *Noûs*, 44(4): 650–668. doi:10.1111/j.1468-0068.2010.00766.x
+* Williamson, Timothy, 2005, “Armchair Philosophy, Metaphysical Modality and Counterfactual Thinking”, *Proceedings of the Aristotelian Society*, 105(1): 1–23. doi:10.1111/j.0066-7373.2004.00100.x
+* –––, 2007, *The Philosophy of Philosophy*, Malden, MA: Blackwell.
+* Wilson, Alastair, 2018, “Metaphysical Causation”, *Noûs*, 52(4): 723–751. doi:10.1111/nous.12190
+* Woodward, Jim, 2002, “What Is a Mechanism? A Counterfactual Account”, *Philosophy of Science*, 69(S3): S366–S377. doi:10.1086/341859
+* –––, 2003, *Making Things Happen: A Theory of Causal Explanation*, Oxford: Oxford University Press. doi:10.1093/0195155270.001.0001
+* Zeman, Jay, 1997, “Peirce and Philo”, in *Studies in the Logic of Charles Sanders Peirce*, Nathan Houser, Don Roberts, and James Van Evra (eds.), Indianapolis: Indiana University Press, 402–417.
 
 ### Academic Tools
 
@@ -1432,4 +1430,4 @@ b.
 [causation: counterfactual theories of](https://plato.stanford.edu/entries/causation-counterfactual/) | [conditionals](https://plato.stanford.edu/entries/conditionals/) | [impossible worlds](https://plato.stanford.edu/entries/impossible-worlds/) | [laws of nature](https://plato.stanford.edu/entries/laws-of-nature/) | [logic: conditionals](https://plato.stanford.edu/entries/logic-conditionals/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [modality: epistemology of](https://plato.stanford.edu/entries/modality-epistemology/) | [modality: varieties of](https://plato.stanford.edu/entries/modality-varieties/) | [possibilism-actualism debate](https://plato.stanford.edu/entries/possibilism-actualism/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[W. Starr](http://wstarr.org/) <[_w.starr@cornell.edu_](mailto:w%2estarr%40cornell%2eedu)>
+[W. Starr](http://wstarr.org/) <[*w.starr@cornell.edu*](mailto:w%2estarr%40cornell%2eedu)>

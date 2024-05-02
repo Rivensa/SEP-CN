@@ -1,6 +1,6 @@
 # 物理实验 experiment in (Allan Franklin and Slobodan Perovic)
 
-_首次发表于1998年10月5日星期一；实质性修订于2023年6月2日星期五。_
+*首次发表于1998年10月5日星期一；实质性修订于2023年6月2日星期五。*
 
 物理学和自然科学总体上是一个合理的企业，它基于有效的实验证据、批评和理性讨论。它为我们提供了关于物质世界的知识，而实验则提供了支撑这些知识的证据。实验在科学中扮演着许多角色。其中一个重要的角色是测试理论并为科学知识提供基础。\[1]它还可以呼吁提出一个新的理论，要么通过显示一个被接受的理论是错误的，要么通过展示一个需要解释的新现象。实验可以提供关于理论结构或数学形式的线索，它可以为我们理论中涉及的实体的存在提供证据。最后，它也可能有自己的生命，独立于理论。科学家可能会研究一个现象，只是因为它看起来有趣。这样的实验可能为未来的理论提供解释的证据。\[下面将介绍这些不同角色的例子。]正如我们将在下面看到的，一个实验可能同时扮演几个这样的角色。
 
@@ -8,7 +8,6 @@ _首次发表于1998年10月5日星期一；实质性修订于2023年6月2日星
 
 在接下来的内容中，读者将找到一个关于实验的认识论，一套提供对实验结果合理信念的策略。科学知识可以合理地基于这些实验结果。
 
- 
 ***
 
 ## 1. 简介：实验的认识论
@@ -478,208 +477,208 @@ Meselson-Stahl 实验是生物学中的关键实验。它决定了 DNA 复制的
 
 ### Principal Works
 
-* Ackermann, R., 1985. _Data, Instruments and Theory_, Princeton, N.J.: Princeton University Press.
-* –––, 1991. “Allan Franklin, Right or Wrong”, _PSA 1990_ (Volume 2), A. Fine, M. Forbes and L. Wessels (ed.). East Lansing, MI: Philosophy of Science Association, 451–457.
-* Adelberger, E.G., 1989. “High-Sensitivity Hillside Results from the Eot-Wash Experiment”, _Tests of Fundamental Laws in Physics: Ninth Moriond Workshop_, O. Fackler and J. Tran Thanh Van (ed.). Les Arcs, France: Editions Frontieres, 485–499.
-* Anderson, M.H., J.R. Ensher, M.R. Matthews, _et al_., 1995. “Observation of Bose-Einstein Condensation in a Dilute Atomic Vapor”. _Science_, 269: 198–201.
-* Bell, J.S. and J. Perring, 1964. “2pi Decay of the K2o Meson”, _Physical Review Letters_, 13: 348–349.
-* Bennett, W.R., 1989. “Modulated-Source Eotvos Experiment at Little Goose Lock”, _Physical Review Letters_, 62: 365–368.
-* Bizzeti, P.G., A.M. Bizzeti-Sona, T. Fazzini, et al., 1989a. “Search for a Composition Dependent Fifth Force: Results of the Vallambrosa Experiment”, _Tran Thanh Van, J._, O. Fackler (ed.). Gif Sur Yvette: Editions Frontieres.
-* –––, 1989b. “Search for a Composition-dependent Fifth Force”, _Physical Review Letters_, 62: 2901–2904.
-* Bogen, J. and Woodward J., 1988. “Saving the Phenomena”, _The Philosophical Review_, 97: 303–352.
-* Bose, S., 1924. “Plancks Gesetz und Lichtquantenhypothese”. _Zeitschrift für Physik_, 26: 178–181.
-* Burnett, K., 1995. “An Intimate Gathering of Bosons”. _Science_, 269: 182–183.
-* Cartwright, N., 1983. _How the Laws of Physics Lie_, Oxford: Oxford University Press.
-* Chang, H., 2004. _Inventing temperature: Measurement and scientific progress_. Oxford: Oxford University Press.
-* Chang, H., 2007. "Scientific Progress: Beyond Foundationalism and Coherentism", _Royal Institute of Philosophy Supplements_, 61: 1–20.
-* –––, 2011. “The philosophical grammar of scientific practice”, _International Studies in the Philosophy of Science_, 25: 205–221.
-* Chase, C., 1929. “A Test for Polarization in a beam of Electrons by Scattering”, _Physical Review_, 34: 1069–1074.
-* –––, 1930. “The Scattering of Fast Electrons by Metals. II. Polarization by Double Scattering at Right Angles”, _Physical Review_, 36: 1060–1065.
-* Christenson, J.H., J.W. Cronin, V.L. Fitch, et al., 1964. “Evidence for the 2pi Decay of the  Meson”, _Physical Review Letters_, 13: 138–140.
-* Collins, H., 1985. _Changing Order: Replication and Induction in Scientific Practice_, London: Sage Publications.
-* –––, 1994. “A Strong Confirmation of the Experimenters’ Regress”, _Studies in History and Philosophy of Modern Physics_, 25(3): 493–503.
-* Collins, H. and Pinch, T., 1993. _The Golem: What Everyone Should Know About Science_, Cambridge: Cambridge University Press.
-* Conan Doyle, A., 1967. “The Sign of Four”, _The Annotated Sherlock Holmes_, W. S. Barrington-Gould (ed.). New York: Clarkson N. Potter.
-* Cowsik, R., N. Krishnan, S.N. Tandor, et al., 1988. “Limit on the Strength of Intermediate-Range Forces Coupling to Isospin”. _Physical Review Letters_, 61: 2179–2181.
-* –––, 1990. “Strength of Intermediate-Range Forces Coupling to Isospin”, _Physical Review Letters_, 64: 336–339.
-* Daston, L., 2011. “The empire of observation”, in _Histories of scientific observation_, L. Daston and E. Lunbeck (eds.), Chicago: The University of Chicago Press, 81–113.
-* Daston, L., and Galison, P., 2007. _Objectivity_, New York: Zone Books.
-* Daston, L., and Lunbeck, E., 2011. Introduction, _Histories of scientific observation_, L. Daston and E. Lunbeck (eds.). Chicago: The University of Chicago Press, 1–9.
-* Dawid, R., 2015. “Higgs Discovery and the Look-elsewhere Effect.” _Philosophy of Science_, 82(1): 76–96.
-* de Groot, S.R. and H.A. Tolhoek, 1950. “On the Theory of Beta-Radioactivity I: The Use of Linear Combinations of Invariants in the Interaction Hamiltonian”, _Physica_, 16: 456–480.
+* Ackermann, R., 1985. *Data, Instruments and Theory*, Princeton, N.J.: Princeton University Press.
+* –––, 1991. “Allan Franklin, Right or Wrong”, *PSA 1990* (Volume 2), A. Fine, M. Forbes and L. Wessels (ed.). East Lansing, MI: Philosophy of Science Association, 451–457.
+* Adelberger, E.G., 1989. “High-Sensitivity Hillside Results from the Eot-Wash Experiment”, *Tests of Fundamental Laws in Physics: Ninth Moriond Workshop*, O. Fackler and J. Tran Thanh Van (ed.). Les Arcs, France: Editions Frontieres, 485–499.
+* Anderson, M.H., J.R. Ensher, M.R. Matthews, *et al*., 1995. “Observation of Bose-Einstein Condensation in a Dilute Atomic Vapor”. *Science*, 269: 198–201.
+* Bell, J.S. and J. Perring, 1964. “2pi Decay of the K2o Meson”, *Physical Review Letters*, 13: 348–349.
+* Bennett, W.R., 1989. “Modulated-Source Eotvos Experiment at Little Goose Lock”, *Physical Review Letters*, 62: 365–368.
+* Bizzeti, P.G., A.M. Bizzeti-Sona, T. Fazzini, et al., 1989a. “Search for a Composition Dependent Fifth Force: Results of the Vallambrosa Experiment”, *Tran Thanh Van, J.*, O. Fackler (ed.). Gif Sur Yvette: Editions Frontieres.
+* –––, 1989b. “Search for a Composition-dependent Fifth Force”, *Physical Review Letters*, 62: 2901–2904.
+* Bogen, J. and Woodward J., 1988. “Saving the Phenomena”, *The Philosophical Review*, 97: 303–352.
+* Bose, S., 1924. “Plancks Gesetz und Lichtquantenhypothese”. *Zeitschrift für Physik*, 26: 178–181.
+* Burnett, K., 1995. “An Intimate Gathering of Bosons”. *Science*, 269: 182–183.
+* Cartwright, N., 1983. *How the Laws of Physics Lie*, Oxford: Oxford University Press.
+* Chang, H., 2004. *Inventing temperature: Measurement and scientific progress*. Oxford: Oxford University Press.
+* Chang, H., 2007. "Scientific Progress: Beyond Foundationalism and Coherentism", *Royal Institute of Philosophy Supplements*, 61: 1–20.
+* –––, 2011. “The philosophical grammar of scientific practice”, *International Studies in the Philosophy of Science*, 25: 205–221.
+* Chase, C., 1929. “A Test for Polarization in a beam of Electrons by Scattering”, *Physical Review*, 34: 1069–1074.
+* –––, 1930. “The Scattering of Fast Electrons by Metals. II. Polarization by Double Scattering at Right Angles”, *Physical Review*, 36: 1060–1065.
+* Christenson, J.H., J.W. Cronin, V.L. Fitch, et al., 1964. “Evidence for the 2pi Decay of the  Meson”, *Physical Review Letters*, 13: 138–140.
+* Collins, H., 1985. *Changing Order: Replication and Induction in Scientific Practice*, London: Sage Publications.
+* –––, 1994. “A Strong Confirmation of the Experimenters’ Regress”, *Studies in History and Philosophy of Modern Physics*, 25(3): 493–503.
+* Collins, H. and Pinch, T., 1993. *The Golem: What Everyone Should Know About Science*, Cambridge: Cambridge University Press.
+* Conan Doyle, A., 1967. “The Sign of Four”, *The Annotated Sherlock Holmes*, W. S. Barrington-Gould (ed.). New York: Clarkson N. Potter.
+* Cowsik, R., N. Krishnan, S.N. Tandor, et al., 1988. “Limit on the Strength of Intermediate-Range Forces Coupling to Isospin”. *Physical Review Letters*, 61: 2179–2181.
+* –––, 1990. “Strength of Intermediate-Range Forces Coupling to Isospin”, *Physical Review Letters*, 64: 336–339.
+* Daston, L., 2011. “The empire of observation”, in *Histories of scientific observation*, L. Daston and E. Lunbeck (eds.), Chicago: The University of Chicago Press, 81–113.
+* Daston, L., and Galison, P., 2007. *Objectivity*, New York: Zone Books.
+* Daston, L., and Lunbeck, E., 2011. Introduction, *Histories of scientific observation*, L. Daston and E. Lunbeck (eds.). Chicago: The University of Chicago Press, 1–9.
+* Dawid, R., 2015. “Higgs Discovery and the Look-elsewhere Effect.” *Philosophy of Science*, 82(1): 76–96.
+* de Groot, S.R. and H.A. Tolhoek, 1950. “On the Theory of Beta-Radioactivity I: The Use of Linear Combinations of Invariants in the Interaction Hamiltonian”, *Physica*, 16: 456–480.
 * Delbruck, M. and G. S. Stent, 1957. On the Mechanism of DNA Replication. The Chemical Basis of Heredity. W. D. McElroy and B. Glass. Baltimore: Johns Hopkins Press: 699–736.
-* Dymond, E.G., 1931. “Polarisation of a Beam of Electrons by Scattering”, _Nature_, 128: 149.
-* –––, 1932. “On the Polarisation of Electrons by Scattering”, _Proceedings of the Royal Society_ (London), A136: 638–651.
-* –––, 1934. “On the Polarization of Electrons by Scattering. II.”, _Proceedings of the Royal Society_ (London), A145: 657–668.
-* Einstein, A., 1924. “Quantentheorie des einatomigen idealen Gases”, _Sitzungsberischte der Preussische Akademie der Wissenschaften_, Berlin, 261–267.
-* –––, 1925. “Quantentheorie des einatomigen idealen gases”, _Sitzungsberichte der Preussische Akadmie der Wissenschaften_, Berlin, 3–14.
-* Everett, A.E., 1965. “Evidence on the Existence of Shadow Pions in K+ Decay”, _Physical Review Letters_, 14: 615–616.
-* Fermi, E., 1934. “Attempt at a Theory of Beta-Rays”, _Il Nuovo Cimento_, 11: 1–21.
-* Feynman, R.P. and M. Gell-Mann, 1958. “Theory of the Fermi Interaction”, _Physical Review_, 109: 193–198.
-* Feynman, R.P., R.B. Leighton and M. Sands, 1963. _The Feynman Lectures on Physics_, Reading, MA: Addison-Wesley Publishing Company.
-* Fierz, M., 1937. “Zur Fermischen Theorie des -Zerfalls”. _Zeitschrift für Physik_, 104: 553–565.
-* Fischbach, E., S. Aronson, C. Talmadge, et al., 1986. “Reanalysis of the Eötvös Experiment”, _Physical Review Letters_, 56: 3–6.
-* Fitch, V.L., 1981. “The Discovery of Charge-Conjugation Parity Asymmetry”, _Science_, 212: 989–993.
-* Fitch, V.L., M.V. Isaila and M.A. Palmer, 1988. “Limits on the Existence of a Material-dependent Intermediate-Range Force”. _Physical Review Letters_, 60: 1801–1804.
-* Ford, E. B., 1937. “Problems of Heredity in the Lepidoptera.” _Biological Reviews_, 12: 461–503.
-* –––, 1940. “Genetic Research on the Lepidoptera.” _Annals of Eugenics_, 10: 227–252.
-* Ford, K.W., 1968. _Basic Physics_, Lexington: Xerox.
-* Franklin, A., 1986. _The Neglect of Experiment_, Cambridge: Cambridge University Press.
-* –––, 1990. _Experiment, Right or Wrong_, Cambridge: Cambridge University Press.
-* –––, 1993a. _The Rise and Fall of the Fifth Force: Discovery, Pursuit, and Justification in Modern Physics_, New York: American Institute of Physics.
-* –––, 1993b. “Discovery, Pursuit, and Justification.” _Perspectives on Science_, 1: 252–284.
-* –––, 1994. “How to Avoid the Experimenters’ Regress”, _Studies in the History and Philosophy of Science_ 25: 97–121.
-* –––, 1995. “Laws and Experiment”, _Laws of Nature_, F. Weinert (ed.). Berlin, De Gruyter:191–207.
-* –––, 1997a. “Calibration”, _Perspectives on Science_, 5: 31–80.
-* –––, 1997b. “Recycling Expertise and Instrumental Loyalty”, _Philosophy of Science_ (Supplement), 64(4): S42–S52.
-* –––, 2002. _Selectivity and Discord: Two Problems of Experiment_, Pittsburgh: University of Pittsburgh Press.
-* –––, 2013. _Shifting Standards: Experiments in Particle Physics in the Twentieth Century_, Pittsburgh: University of Pittsburgh Press.
-* Franklin, A. and C. Howson, 1984. “Why Do Scientists Prefer to Vary Their Experiments?”, _Studies in History and Philosophy of Science_, 15: 51–62.
-* Franklin, A., et al., 1989. “Can a theory-laden observation test the theory?”, _British Journal for the Philosophy of Science_, 40(2): 229–231.
-* Friedman, J.L. and V.L. Telegdi, 1957. “Nuclear Emulsion Evidence for Parity Nonconservation in the Decay Chain ”, _Physical Review_, 105(5): 1681–1682.
-* Galison, P., 1987. _How Experiments End_, Chicago: University of Chicago Press.
-* –––, 1997. _Image and Logic_, Chicago: University of Chicago Press.
-* Gamow, G. and E. Teller, 1936. “Selection Rules for the -Disintegration”, _Physical Review_, 49: 895–899.
-* Garwin, R.L., L.M. Lederman and M. Weinrich, 1957. “Observation of the Failure of Conservation of Parity and Charge Conjugation in Meson Decays: The Magnetic Moment of the Free Muon”, _Physical Review_ 105: 1415–1417.
-* Gerlach, W. and O. Stern, 1922a. “Der experimentelle Nachweis der Richtungsquantelung”, _Zeitschrift fur Physik_, 9: 349–352.
-* –––, 1924. “Uber die Richtungsquantelung im Magnetfeld”, _Annalen der Physik_, 74: 673–699.
-* Glashow, S., 1992. “The Death of Science?” _The End of Science? Attack and Defense_, R.J. Elvee. Lanham, MD.: University Press of America
-* Gooding, D., 1992. “Putting Agency Back Into Experiment”, in _Science as Practice and Culture_, A. Pickering (ed.). Chicago, University of Chicago Press, 65–112.
-* Hacking, I., 1981. “Do We See Through a Microscope”, _Pacific Philosophical Quarterly_, 63: 305–322.
-* –––, 1983. _Representing and Intervening_, Cambridge: Cambridge University Press.
-* –––, 1989. “Extragalactic reality: The case of gravitational lensing”, _Philosophy of Science_, 56: 555–581.
-* –––, 1992. “The Self-Vindication of the Laboratory Sciences”, _Science as Practice and Culture_, A. Pickering (ed.). Chicago, University of Chicago Press:29–64.
-* –––, 1999. _The Social Construction of What?_ Cambridge, MA: Harvard University Press.
-* Halpern, O. and J. Schwinger, 1935. “On the Polarization of Electrons by Double Scattering”, _Physical Review_, 48: 109–110.
-* Hamilton, D.R., 1947. “Electron-Neutrino Angular Correlation in Beta-Decay”, _Physical Review_, 71: 456–457.
-* Hellmann, H., 1935. “Bemerkung zur Polarisierung von Elektronenwellen durch Streuung”, _Zeitschrift fur Physik_, 96: 247–250.
-* Hermannsfeldt, W.B., R.L. Burman, P. Stahelin, et al., 1958. “Determination of the Gamow-Teller Beta-Decay Interaction from the Decay of Helium-6”, _Physical Review Letters_, 1: 61–63.
-* Holmes, F. L., 2001. _Meselson, Stahl, and the Replication of DNA, A History of “The Most Beautiful Experiment in Biology”_, New Haven: Yale University Press.
+* Dymond, E.G., 1931. “Polarisation of a Beam of Electrons by Scattering”, *Nature*, 128: 149.
+* –––, 1932. “On the Polarisation of Electrons by Scattering”, *Proceedings of the Royal Society* (London), A136: 638–651.
+* –––, 1934. “On the Polarization of Electrons by Scattering. II.”, *Proceedings of the Royal Society* (London), A145: 657–668.
+* Einstein, A., 1924. “Quantentheorie des einatomigen idealen Gases”, *Sitzungsberischte der Preussische Akademie der Wissenschaften*, Berlin, 261–267.
+* –––, 1925. “Quantentheorie des einatomigen idealen gases”, *Sitzungsberichte der Preussische Akadmie der Wissenschaften*, Berlin, 3–14.
+* Everett, A.E., 1965. “Evidence on the Existence of Shadow Pions in K+ Decay”, *Physical Review Letters*, 14: 615–616.
+* Fermi, E., 1934. “Attempt at a Theory of Beta-Rays”, *Il Nuovo Cimento*, 11: 1–21.
+* Feynman, R.P. and M. Gell-Mann, 1958. “Theory of the Fermi Interaction”, *Physical Review*, 109: 193–198.
+* Feynman, R.P., R.B. Leighton and M. Sands, 1963. *The Feynman Lectures on Physics*, Reading, MA: Addison-Wesley Publishing Company.
+* Fierz, M., 1937. “Zur Fermischen Theorie des -Zerfalls”. *Zeitschrift für Physik*, 104: 553–565.
+* Fischbach, E., S. Aronson, C. Talmadge, et al., 1986. “Reanalysis of the Eötvös Experiment”, *Physical Review Letters*, 56: 3–6.
+* Fitch, V.L., 1981. “The Discovery of Charge-Conjugation Parity Asymmetry”, *Science*, 212: 989–993.
+* Fitch, V.L., M.V. Isaila and M.A. Palmer, 1988. “Limits on the Existence of a Material-dependent Intermediate-Range Force”. *Physical Review Letters*, 60: 1801–1804.
+* Ford, E. B., 1937. “Problems of Heredity in the Lepidoptera.” *Biological Reviews*, 12: 461–503.
+* –––, 1940. “Genetic Research on the Lepidoptera.” *Annals of Eugenics*, 10: 227–252.
+* Ford, K.W., 1968. *Basic Physics*, Lexington: Xerox.
+* Franklin, A., 1986. *The Neglect of Experiment*, Cambridge: Cambridge University Press.
+* –––, 1990. *Experiment, Right or Wrong*, Cambridge: Cambridge University Press.
+* –––, 1993a. *The Rise and Fall of the Fifth Force: Discovery, Pursuit, and Justification in Modern Physics*, New York: American Institute of Physics.
+* –––, 1993b. “Discovery, Pursuit, and Justification.” *Perspectives on Science*, 1: 252–284.
+* –––, 1994. “How to Avoid the Experimenters’ Regress”, *Studies in the History and Philosophy of Science* 25: 97–121.
+* –––, 1995. “Laws and Experiment”, *Laws of Nature*, F. Weinert (ed.). Berlin, De Gruyter:191–207.
+* –––, 1997a. “Calibration”, *Perspectives on Science*, 5: 31–80.
+* –––, 1997b. “Recycling Expertise and Instrumental Loyalty”, *Philosophy of Science* (Supplement), 64(4): S42–S52.
+* –––, 2002. *Selectivity and Discord: Two Problems of Experiment*, Pittsburgh: University of Pittsburgh Press.
+* –––, 2013. *Shifting Standards: Experiments in Particle Physics in the Twentieth Century*, Pittsburgh: University of Pittsburgh Press.
+* Franklin, A. and C. Howson, 1984. “Why Do Scientists Prefer to Vary Their Experiments?”, *Studies in History and Philosophy of Science*, 15: 51–62.
+* Franklin, A., et al., 1989. “Can a theory-laden observation test the theory?”, *British Journal for the Philosophy of Science*, 40(2): 229–231.
+* Friedman, J.L. and V.L. Telegdi, 1957. “Nuclear Emulsion Evidence for Parity Nonconservation in the Decay Chain ”, *Physical Review*, 105(5): 1681–1682.
+* Galison, P., 1987. *How Experiments End*, Chicago: University of Chicago Press.
+* –––, 1997. *Image and Logic*, Chicago: University of Chicago Press.
+* Gamow, G. and E. Teller, 1936. “Selection Rules for the -Disintegration”, *Physical Review*, 49: 895–899.
+* Garwin, R.L., L.M. Lederman and M. Weinrich, 1957. “Observation of the Failure of Conservation of Parity and Charge Conjugation in Meson Decays: The Magnetic Moment of the Free Muon”, *Physical Review* 105: 1415–1417.
+* Gerlach, W. and O. Stern, 1922a. “Der experimentelle Nachweis der Richtungsquantelung”, *Zeitschrift fur Physik*, 9: 349–352.
+* –––, 1924. “Uber die Richtungsquantelung im Magnetfeld”, *Annalen der Physik*, 74: 673–699.
+* Glashow, S., 1992. “The Death of Science?” *The End of Science? Attack and Defense*, R.J. Elvee. Lanham, MD.: University Press of America
+* Gooding, D., 1992. “Putting Agency Back Into Experiment”, in *Science as Practice and Culture*, A. Pickering (ed.). Chicago, University of Chicago Press, 65–112.
+* Hacking, I., 1981. “Do We See Through a Microscope”, *Pacific Philosophical Quarterly*, 63: 305–322.
+* –––, 1983. *Representing and Intervening*, Cambridge: Cambridge University Press.
+* –––, 1989. “Extragalactic reality: The case of gravitational lensing”, *Philosophy of Science*, 56: 555–581.
+* –––, 1992. “The Self-Vindication of the Laboratory Sciences”, *Science as Practice and Culture*, A. Pickering (ed.). Chicago, University of Chicago Press:29–64.
+* –––, 1999. *The Social Construction of What?* Cambridge, MA: Harvard University Press.
+* Halpern, O. and J. Schwinger, 1935. “On the Polarization of Electrons by Double Scattering”, *Physical Review*, 48: 109–110.
+* Hamilton, D.R., 1947. “Electron-Neutrino Angular Correlation in Beta-Decay”, *Physical Review*, 71: 456–457.
+* Hellmann, H., 1935. “Bemerkung zur Polarisierung von Elektronenwellen durch Streuung”, *Zeitschrift fur Physik*, 96: 247–250.
+* Hermannsfeldt, W.B., R.L. Burman, P. Stahelin, et al., 1958. “Determination of the Gamow-Teller Beta-Decay Interaction from the Decay of Helium-6”, *Physical Review Letters*, 1: 61–63.
+* Holmes, F. L., 2001. *Meselson, Stahl, and the Replication of DNA, A History of “The Most Beautiful Experiment in Biology”*, New Haven: Yale University Press.
 * Karaca, K., 2011. “Progress Report 2 – Project: The Epistemology of the LHC.” Franklin A. Wuppertal, DE.
-* –––, 2013. “The strong and weak senses of theory-ladenness of experimentation: Theory-driven versus exploratory experiments in the history of high-energy particle physics”. _Science in Context_, 26(1): 93–136.
-* Kettlewell, H. B. D., 1955. “Selection Experiments on Industrial Melanism in the Lepidoptera.” _Heredity_, 9: 323–342.
-* –––, 1956. “Further Selection Experiments on Industrial Melanism in the Lepidoptera.” _Heredity_ **10**: 287–301.
-* –––, 1958. “A Survey of the Frequencies of _Biston betularia_ (L.) (Lep.) and its Melanic Forms in Great Britain.” _Heredity_, 12: 51–72.
-* Kofoed-Hansen, O., 1955. “Neutrino Recoil Experiments”, _Beta- and Gamma-Ray Spectroscopy_, K. Siegbahn (ed.). New York, Interscience:357–372.
-* Konopinski, E. and G. Uhlenbeck, 1935. “On the Fermi Theory of Radioactivity”, _Physical Review_, 48: 7–12.
-* Konopinski, E.J. and L.M. Langer, 1953. “The Experimental Clarification of the Theory of –Decay”, _Annual Reviews of Nuclear Science_, 2: 261–304.
-* Konopinski, E.J. and G.E. Uhlenbeck, 1941. “On the Theory of Beta-Radioactivity”, _Physical Review_, 60: 308–320.
-* Langer, L.M., J.W. Motz and H.C. Price, 1950. “Low Energy Beta-Ray Spectra: Pm147 S35”, _Physical Review_, 77: 798–805.
-* Langer, L.M. and H.C. Price, 1949. “Shape of the Beta-Spectrum of the Forbidden Transition of Yttrium 91”, _Physical Review_, 75: 1109.
-* Langstroth, G.O., 1932. “Electron Polarisation”, _Proceedings of the Royal Society_ (London), A136: 558–568.
-* LaRue, G.S., J.D. Phillips, and W.M. Fairbank, DATE. “Observation of Fractional Charge of (1/3)_e_ on Matter”, _Physical Review Letters_, 46: 967–970.
-* Latour, B. and S. Woolgar, 1979. _Laboratory Life: The Social Construction of Scientific Facts_, Beverly Hills: Sage.
-* –––, 1986. _Laboratory Life: The Construction of Scientific Facts_, Princeton: Princeton University Press.
-* Lee, T.D. and C.N. Yang, 1956. “Question of Parity Nonconservation in Weak Interactions”, _Physical Review_, 104: 254–258.
-* Lehninger, A. L., 1975. _Biochemistry_, New York: Worth Publishers.
-* Lynch, M., 1991. “Allan Franklin’s Transcendental Physics.” _PSA 1990, Volume 2_, A. Fine, M. Forbes, and L. Wessels. East Lansing, MI: Philosophy of Science Association, 2: 471–485.
-* MacKenzie, D., 1989. “From Kwajelein to Armageddon? Testing and the Social Construction of Missile Accuracy”, _The Uses of Experiment_, D. Gooding, T. Pinch and S. Shaffer (ed.). Cambridge, Cambridge University Press, 409–435.
-* Malik, S., 2017. “ Observation Versus Experiment: An Adequate Framework for Analysing Scientific Experimentation? ”. _Journal for General Philosophy of Science_, 48: 71–95.
-* Mayer, M.G., S.A. Moszkowski and L.W. Nordheim, 1951. “Nuclear Shell Structure and Beta Decay. I. Odd A Nuclei”, _Reviews of Modern Physics_, 23: 315–321.
+* –––, 2013. “The strong and weak senses of theory-ladenness of experimentation: Theory-driven versus exploratory experiments in the history of high-energy particle physics”. *Science in Context*, 26(1): 93–136.
+* Kettlewell, H. B. D., 1955. “Selection Experiments on Industrial Melanism in the Lepidoptera.” *Heredity*, 9: 323–342.
+* –––, 1956. “Further Selection Experiments on Industrial Melanism in the Lepidoptera.” *Heredity* **10**: 287–301.
+* –––, 1958. “A Survey of the Frequencies of *Biston betularia* (L.) (Lep.) and its Melanic Forms in Great Britain.” *Heredity*, 12: 51–72.
+* Kofoed-Hansen, O., 1955. “Neutrino Recoil Experiments”, *Beta- and Gamma-Ray Spectroscopy*, K. Siegbahn (ed.). New York, Interscience:357–372.
+* Konopinski, E. and G. Uhlenbeck, 1935. “On the Fermi Theory of Radioactivity”, *Physical Review*, 48: 7–12.
+* Konopinski, E.J. and L.M. Langer, 1953. “The Experimental Clarification of the Theory of –Decay”, *Annual Reviews of Nuclear Science*, 2: 261–304.
+* Konopinski, E.J. and G.E. Uhlenbeck, 1941. “On the Theory of Beta-Radioactivity”, *Physical Review*, 60: 308–320.
+* Langer, L.M., J.W. Motz and H.C. Price, 1950. “Low Energy Beta-Ray Spectra: Pm147 S35”, *Physical Review*, 77: 798–805.
+* Langer, L.M. and H.C. Price, 1949. “Shape of the Beta-Spectrum of the Forbidden Transition of Yttrium 91”, *Physical Review*, 75: 1109.
+* Langstroth, G.O., 1932. “Electron Polarisation”, *Proceedings of the Royal Society* (London), A136: 558–568.
+* LaRue, G.S., J.D. Phillips, and W.M. Fairbank, DATE. “Observation of Fractional Charge of (1/3)*e* on Matter”, *Physical Review Letters*, 46: 967–970.
+* Latour, B. and S. Woolgar, 1979. *Laboratory Life: The Social Construction of Scientific Facts*, Beverly Hills: Sage.
+* –––, 1986. *Laboratory Life: The Construction of Scientific Facts*, Princeton: Princeton University Press.
+* Lee, T.D. and C.N. Yang, 1956. “Question of Parity Nonconservation in Weak Interactions”, *Physical Review*, 104: 254–258.
+* Lehninger, A. L., 1975. *Biochemistry*, New York: Worth Publishers.
+* Lynch, M., 1991. “Allan Franklin’s Transcendental Physics.” *PSA 1990, Volume 2*, A. Fine, M. Forbes, and L. Wessels. East Lansing, MI: Philosophy of Science Association, 2: 471–485.
+* MacKenzie, D., 1989. “From Kwajelein to Armageddon? Testing and the Social Construction of Missile Accuracy”, *The Uses of Experiment*, D. Gooding, T. Pinch and S. Shaffer (ed.). Cambridge, Cambridge University Press, 409–435.
+* Malik, S., 2017. “ Observation Versus Experiment: An Adequate Framework for Analysing Scientific Experimentation? ”. *Journal for General Philosophy of Science*, 48: 71–95.
+* Mayer, M.G., S.A. Moszkowski and L.W. Nordheim, 1951. “Nuclear Shell Structure and Beta Decay. I. Odd A Nuclei”, *Reviews of Modern Physics*, 23: 315–321.
 * McKinney, W., 1992. Plausibility and Experiment: Investigations in the Context of Pursuit. History and Philosophy of Science. Bloomington, IN, Indiana.
-* Mehra, J. and H. Rechenberg, 1982. _The Historical Development of Quantum Theory_, New York: Springer-Verlag.
-* Meselson, M. and F. W. Stahl, 1958. “The Replication of DNA in Escherichia Coli.” _Proceedings of the National Academy of Sciences_ (U.S.A.), 44: 671–682.
-* Millikan, R.A., 1911. “The Isolation of an Ion, A Precision Measurement of Its Charge, and the Correction of Stokes’s Law”. _Physical Review_, 32: 349–397.
-* Morrison, M., 1990. “Theory, Intervention, and Realism”. _Synthese_, 82: 1–22.
-* Mott, N.F., 1929. “Scattering of Fast Electrons by Atomic Nuclei”, _Proceedings of the Royal Society_ (London), A124: 425–442.
-* –––, 1931. “Polarization of a Beam of Electrons by Scattering”, _Nature_, 128(3228): 454.
-* Nelson, A., 1994. “How Could Scientific Facts be Socially Constructed?”, _Studies in History and Philosophy of Science_, 25(4): 535–547.
-* –––, 1932. “Tha Polarisation of Electrons by Double Scattering”, _Proceedings of the Royal Society_ (London), A135: 429–458.
-* Nelson, P.G., D.M. Graham and R.D. Newman, 1990. “Search for an Intermediate-Range Composition-dependent Force Coupling to N-Z”. _Physical Review D_, 42: 963–976.
-* Nelson, A., 1994. “How Could Scientific Facts be Socially Constructed?”, _Studies in History and Philosophy of Science_, 25(4): 535–547.
-* Newman, R., D. Graham and P. Nelson, 1989. “A ”Fifth Force“ Search for Differential Acceleration of Lead and Copper toward Lead”, in _Tests of Fundamental Laws in Physics: Ninth Moriond Workshop_, O. Fackler and J. Tran Thanh Van (ed.), Les Arcs: Editions Frontieres, 459–472.
-* Nishijima, K. and M.J. Saffouri, 1965. “CP Invariance and the Shadow Universe”, _Physical Review Letters_, 14: 205–207.
-* Pais, A., 1982. _Subtle is the Lord…_, Oxford: Oxford University Press.
-* Panofsky, W., 1994. _Particles and Policy_ (Masters of Modern Physics), New York: American Institute of Physics.
-* Parker, W., 2008. “Franklin, Holmes, and the Epistmology of Computer Simulation.” _International Studies in the Philosophy of Science_, 22: 165–183.
-* Pauli, W., 1933. “Die Allgemeinen Prinzipien der Wellenmechanik”, _Handbuch der Physik_, 24: 83–272.
-* Perovic, S., 2006. “Schrödinger’s interpretation of quantum mechanics and the relevance of Bohr’s experimental critique”, _Studies in History and Philosophy of Science Part B_ (Studies in History and Philosophy of Modern Physics), 37 (2): 275–297.
-* –––, 2011. “Missing experimental challenges to the Standard Model of particle physics”, _Studies in History and Philosophy of Science Part B_ (Studies in History and Philosophy of Modern Physics), 42 (1): 32–42.
-* –––, 2013. “Emergence of complementarity and the Baconian roots of Niels Bohr’s method”, _Studies in History and Philosophy of Science Part B_ (Studies in History and Philosophy of Modern Physics), 44 (3): 162–173.
-* –––, 2017. “Experimenter’s regress argument, empiricism, and the calibration of the large hadron collider”, _Synthese_, 194: 313–332.
-* Petschek, A.G. and R.E. Marshak, 1952. “The -Decay of Radium E and the Pseusoscalar Interaction”, _Physical Review_, 85(4): 698–699.
-* Pickering, A., 1981. “The Hunting of the Quark”, _Isis_, 72: 216–236.
-* –––, 1984a. _Constructing Quarks_, Chicago: University of Chicago Press.
-* –––, 1984b. “Against Putting the Phenomena First: The Discovery of the Weak Neutral Current”, _Studies in the History and Philosophy of Science_, 15: 85–117.
-* –––, 1987. “Against Correspondence: A Constructivist View of Experiment and the Real”, _PSA 1986_, A. Fine and P. Machamer (ed.). Pittsburgh, Philosophy of Science Association. 2: 196–206.
-* –––, 1989. “Living in the Material World: On Realism and Experimental Practice”, in _The Uses of Experiment_, D. Gooding, T. Pinch and S. Schaffer (eds.), Cambridge, Cambridge University Press, 275–297.
-* –––, 1991. “Reason Enough? More on Parity Violation Experiments and Electroweak Gauge Theory”, in _PSA 1990_ (Volume 2), A. Fine, M. Forbes, and L. Wessels (eds.), East Lansing, MI: Philosophy of Science Association, 2: 459–469.
-* –––, 1995. _The Mangle of Practice_, Chicago: University of Chicago Press.
-* Prentki, J., 1965. _CP Violation_, in _Proceedings: Oxford International Conference on Elementary Particles_ (Oxford, UK, Sept 19–25, 1965), R.G. Moorhouse, A.E. Taylor, and T.R. Walsh (eds.), 47–58.
-* Pursey, D.L., 1951. “The Interaction in the Theory of Beta Decay”, _Philosophical Magazine_, 42: 1193–1208.
-* Raab, F.J., 1987. “Search for an Intermediate-Range Interaction: Results of the Eot-Wash I Experiment”, _New and Exotic Phenomena: Seventh Moriond Workshop_, O. Fackler and J. Tran Thanh Van (eds.), Les Arcs: Editions Frontieres: 567–577.
-* Randall, H.M., R.G. Fowler, N. Fuson, et al., 1949. _Infrared Determination of Organic Structures_, New York: Van Nostrand.
-* Richter, H., 1937. “Zweimalige Streuung schneller Elektronen”. _Annalen der Physik_, 28: 533–554.
-* Ridley, B.W., 1954. Nuclear Recoil in Beta Decay. _Physics_, Ph. D. Dissertation, Cambridge University.
-* Rose, M.E. and H.A. Bethe, 1939. “On the Absence of Polarization in Electron Scattering”, _Physical Review_, 55: 277–289.
-* Rudge, D. W., 1998. “A Bayesian Analysis of Strategies in Evolutionary Biology.” _Perspectives on Science_, 6: 341–360.
-* –––, 2001. “Kettlewell from an Error Statistician’s Point of View”, _Perspectives on Science_, 9: 59–77.
-* Rupp, E., 1929. “Versuche zur Frage nach einer Polarisation der Elektronenwelle”, _Zeitschrift fur Physik_, 53: 548–552.
-* –––, 1930a. “Ueber eine unsymmetrische Winkelverteilung zweifach reflektierter Elektronen”, _Zeitschrift fur Physik_, 61: 158–169.
-* –––, 1930b. “Ueber eine unsymmetrische Winkelverteilung zweifach reflektierter Elektronen”, _Naturwissenschaften_, 18: 207.
-* –––, 1931. “Direkte Photographie der Ionisierung in Isolierstoffen”, _Naturwissenschaften_, 19: 109.
-* –––, 1932a. “Versuche zum Nachweis einer Polarisation der Elektronen”, _Physickalsche Zeitschrift_, 33: 158–164.
-* –––, 1932b. “Neure Versuche zur Polarisation der Elektronen”, _Physikalische Zeitschrift_, 33: 937–940.
-* –––, 1932c. “Ueber die Polarisation der Elektronen bei zweimaliger 90o–Streuung”, _Zeitschrift fur Physik_, 79: 642–654.
-* –––, 1934. “Polarisation der Elektronen an freien Atomen”, _Zeitschrift fur Physik_, 88: 242–246.
-* Rustad, B.M. and S.L. Ruby, 1953. “Correlation between Electron and Recoil Nucleus in He6 Decay”, _Physical Review_, 89: 880–881.
-* –––, 1955. “Gamow-Teller Interaction in the Decay of He6”, _Physical Review_, 97: 991–1002.
-* Sargent, B.W., 1932. “Energy Distribution Curves of the Disintegration Electrons”, _Proceedings of the Cambridge Philosophical Society_, 24: 538–553.
-* –––, 1933. “The Maximum Energy of the -Rays from Uranium X and other Bodies”, _Proceedings of the Royal Society_ (London), A139: 659–673.
-* Sauter, F., 1933. “Ueber den Mottschen Polarisationseffekt bei der Streuun von Elektronen an Atomen”, _Annalen der Physik_, 18: 61–80.
-* Shapin, S. and Simon S., 1989. _Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life_, Princeton: Princeton University Press.
-* Schindler, S., 2011. “Bogen and Woodward’s data-phenomena distinction, forms of theory-ladenness, and the reliability of data ”, _Synthese_, 182(1): 39–55.
-* Sellars, W., 1962. _Science, Perception, and Reality_, New York: Humanities Press.
-* Sherr, R. and J. Gerhart, 1952. “Gamma Radiation of C10”. _Physical Review_, 86: 619.
-* Sherr, R., H.R. Muether and M.G. White, 1949. “Radioactivity of C10 and O14”, _Physical Review_, 75: 282–292.
-* Smith, A.M., 1951. “Forbidden Beta-Ray Spectra”, _Physical Review_, 82: 955–956.
-* Staley, K., 1999 “Golden Events and Statistics: What’s Wrong with Galison’s Image/Logic Distinction.” _Perspectives on Science_, 7: 196–230.
-* Stern, O., 1921. “Ein Weg zur experimentellen Prufung Richtungsquantelung im Magnet feld”, _Zeitschrift fur Physik_, 7: 249–253.
-* Stubbs, C.W., E.G. Adelberger, B.R. Heckel, et al., 1989. “Limits on Composition-dependent Interactions using a Laboratory Source: Is There a ”Fifth Force?“”, _Physical Review Letters_, 62: 609–612.
-* Stubbs, C.W., E.G. Adelberger, F.J. Raab, et al., 1987. “Search for an Intermediate-Range Interaction”, _Physical Review Letters_, 58: 1070–1073.
-* Sudarshan, E.C.G. and R.E. Marshak, 1958. “Chirality Invariance and the Universal Fermi Interaction”, _Physical Review_, 109: 1860–1862.
-* Tal, E., 2016. “Making time: A study in the epistemology of measurement”, _The British Journal for the Philosophy of Science_, 61(1): 297–335.
-* –––, 2017a. “A model-based epistemology of measurement”, in Nicola Mößner and Alfred Nordmann (eds.), _Reasoning in measurement_, Routledge: 245–265.
-* –––, 2017b. “Calibration: Modelling the measurement process”, _Studies in History and Philosophy of Science Part A_, 65: 33–45.
-* Thieberger, P., 1987a. “Search for a Substance-Dependent Force with a New Differential Accelerometer”, _Physical Review Letters_, 58: 1066–1069.
-* Thomson, G.P., 1933. “Polarisation of Electrons”, _Nature_, 132: 1006.
-* –––, 1934. “Experiment on the Polarization of Electrons”, _Philosophical Magazine_, 17: 1058–1071.
-* Thomson, J.J., 1897. “Cathode Rays”, _Philosophical Magazine_, 44: 293–316.
-* Uhlenbeck, G.E. and S. Goudsmit, 1925. “Ersetzung der Hypothese von unmechanischen Zwang durch eine Forderung bezuglich des inneren Verhaltens jedes einzelnen Elektrons”, _Naturwissenschaften_, 13: 953–954.
-* –––, 1926. “Spinning Electrons and the Structure of Spectra”, _Nature_, 117: 264–265.
-* van Fraassen, B., 1980. _The Scientific Image_, Oxford: Clarendon Press.
-* Watson, J. D., 1965. _Molecular Biology of the Gene_, New York: W.A. Benjamin, Inc.
-* Watson, J. D. and F. H. C. Crick, 1953a. “A Structure for Deoxyribose Nucleic Acid”, _Nature_, 171: 737.
-* –––, 1953b. “Genetical Implications of the Structure of Deoxyribonucleic Acid”, _Nature_, 171: 964–967.
-* Weinert, F., 1995. “Wrong Theory—Right Experiment: The Significance of the Stern-Gerlach Experiments”, _Studies in History and Philosophy of Modern Physics_, 26B(1): 75–86.
-* Winter, J., 1936. “Sur la polarisation des ondes de Dirac”, _Academie des Science, Paris, Comptes rendus hebdomadaires des seances_, 202: 1265–1266.
-* Winsberg, E., 2010. _Science in the Age of Computer Simulation_, Chicago: University of Chicago Press.
-* Wu, C.S., 1955. “The Interaction in Beta-Decay”, in _Beta- and Gamma-Ray Spectroscopy_, K. Siegbahn (ed.), New York, Interscience: 314–356.
-* Wu, C.S., E. Ambler, R.W. Hayward, et al., 1957. “Experimental Test of Parity Nonconservation in Beta Decay”, _Physical Review_, 105: 1413–1415.
+* Mehra, J. and H. Rechenberg, 1982. *The Historical Development of Quantum Theory*, New York: Springer-Verlag.
+* Meselson, M. and F. W. Stahl, 1958. “The Replication of DNA in Escherichia Coli.” *Proceedings of the National Academy of Sciences* (U.S.A.), 44: 671–682.
+* Millikan, R.A., 1911. “The Isolation of an Ion, A Precision Measurement of Its Charge, and the Correction of Stokes’s Law”. *Physical Review*, 32: 349–397.
+* Morrison, M., 1990. “Theory, Intervention, and Realism”. *Synthese*, 82: 1–22.
+* Mott, N.F., 1929. “Scattering of Fast Electrons by Atomic Nuclei”, *Proceedings of the Royal Society* (London), A124: 425–442.
+* –––, 1931. “Polarization of a Beam of Electrons by Scattering”, *Nature*, 128(3228): 454.
+* Nelson, A., 1994. “How Could Scientific Facts be Socially Constructed?”, *Studies in History and Philosophy of Science*, 25(4): 535–547.
+* –––, 1932. “Tha Polarisation of Electrons by Double Scattering”, *Proceedings of the Royal Society* (London), A135: 429–458.
+* Nelson, P.G., D.M. Graham and R.D. Newman, 1990. “Search for an Intermediate-Range Composition-dependent Force Coupling to N-Z”. *Physical Review D*, 42: 963–976.
+* Nelson, A., 1994. “How Could Scientific Facts be Socially Constructed?”, *Studies in History and Philosophy of Science*, 25(4): 535–547.
+* Newman, R., D. Graham and P. Nelson, 1989. “A ”Fifth Force“ Search for Differential Acceleration of Lead and Copper toward Lead”, in *Tests of Fundamental Laws in Physics: Ninth Moriond Workshop*, O. Fackler and J. Tran Thanh Van (ed.), Les Arcs: Editions Frontieres, 459–472.
+* Nishijima, K. and M.J. Saffouri, 1965. “CP Invariance and the Shadow Universe”, *Physical Review Letters*, 14: 205–207.
+* Pais, A., 1982. *Subtle is the Lord…*, Oxford: Oxford University Press.
+* Panofsky, W., 1994. *Particles and Policy* (Masters of Modern Physics), New York: American Institute of Physics.
+* Parker, W., 2008. “Franklin, Holmes, and the Epistmology of Computer Simulation.” *International Studies in the Philosophy of Science*, 22: 165–183.
+* Pauli, W., 1933. “Die Allgemeinen Prinzipien der Wellenmechanik”, *Handbuch der Physik*, 24: 83–272.
+* Perovic, S., 2006. “Schrödinger’s interpretation of quantum mechanics and the relevance of Bohr’s experimental critique”, *Studies in History and Philosophy of Science Part B* (Studies in History and Philosophy of Modern Physics), 37 (2): 275–297.
+* –––, 2011. “Missing experimental challenges to the Standard Model of particle physics”, *Studies in History and Philosophy of Science Part B* (Studies in History and Philosophy of Modern Physics), 42 (1): 32–42.
+* –––, 2013. “Emergence of complementarity and the Baconian roots of Niels Bohr’s method”, *Studies in History and Philosophy of Science Part B* (Studies in History and Philosophy of Modern Physics), 44 (3): 162–173.
+* –––, 2017. “Experimenter’s regress argument, empiricism, and the calibration of the large hadron collider”, *Synthese*, 194: 313–332.
+* Petschek, A.G. and R.E. Marshak, 1952. “The -Decay of Radium E and the Pseusoscalar Interaction”, *Physical Review*, 85(4): 698–699.
+* Pickering, A., 1981. “The Hunting of the Quark”, *Isis*, 72: 216–236.
+* –––, 1984a. *Constructing Quarks*, Chicago: University of Chicago Press.
+* –––, 1984b. “Against Putting the Phenomena First: The Discovery of the Weak Neutral Current”, *Studies in the History and Philosophy of Science*, 15: 85–117.
+* –––, 1987. “Against Correspondence: A Constructivist View of Experiment and the Real”, *PSA 1986*, A. Fine and P. Machamer (ed.). Pittsburgh, Philosophy of Science Association. 2: 196–206.
+* –––, 1989. “Living in the Material World: On Realism and Experimental Practice”, in *The Uses of Experiment*, D. Gooding, T. Pinch and S. Schaffer (eds.), Cambridge, Cambridge University Press, 275–297.
+* –––, 1991. “Reason Enough? More on Parity Violation Experiments and Electroweak Gauge Theory”, in *PSA 1990* (Volume 2), A. Fine, M. Forbes, and L. Wessels (eds.), East Lansing, MI: Philosophy of Science Association, 2: 459–469.
+* –––, 1995. *The Mangle of Practice*, Chicago: University of Chicago Press.
+* Prentki, J., 1965. *CP Violation*, in *Proceedings: Oxford International Conference on Elementary Particles* (Oxford, UK, Sept 19–25, 1965), R.G. Moorhouse, A.E. Taylor, and T.R. Walsh (eds.), 47–58.
+* Pursey, D.L., 1951. “The Interaction in the Theory of Beta Decay”, *Philosophical Magazine*, 42: 1193–1208.
+* Raab, F.J., 1987. “Search for an Intermediate-Range Interaction: Results of the Eot-Wash I Experiment”, *New and Exotic Phenomena: Seventh Moriond Workshop*, O. Fackler and J. Tran Thanh Van (eds.), Les Arcs: Editions Frontieres: 567–577.
+* Randall, H.M., R.G. Fowler, N. Fuson, et al., 1949. *Infrared Determination of Organic Structures*, New York: Van Nostrand.
+* Richter, H., 1937. “Zweimalige Streuung schneller Elektronen”. *Annalen der Physik*, 28: 533–554.
+* Ridley, B.W., 1954. Nuclear Recoil in Beta Decay. *Physics*, Ph. D. Dissertation, Cambridge University.
+* Rose, M.E. and H.A. Bethe, 1939. “On the Absence of Polarization in Electron Scattering”, *Physical Review*, 55: 277–289.
+* Rudge, D. W., 1998. “A Bayesian Analysis of Strategies in Evolutionary Biology.” *Perspectives on Science*, 6: 341–360.
+* –––, 2001. “Kettlewell from an Error Statistician’s Point of View”, *Perspectives on Science*, 9: 59–77.
+* Rupp, E., 1929. “Versuche zur Frage nach einer Polarisation der Elektronenwelle”, *Zeitschrift fur Physik*, 53: 548–552.
+* –––, 1930a. “Ueber eine unsymmetrische Winkelverteilung zweifach reflektierter Elektronen”, *Zeitschrift fur Physik*, 61: 158–169.
+* –––, 1930b. “Ueber eine unsymmetrische Winkelverteilung zweifach reflektierter Elektronen”, *Naturwissenschaften*, 18: 207.
+* –––, 1931. “Direkte Photographie der Ionisierung in Isolierstoffen”, *Naturwissenschaften*, 19: 109.
+* –––, 1932a. “Versuche zum Nachweis einer Polarisation der Elektronen”, *Physickalsche Zeitschrift*, 33: 158–164.
+* –––, 1932b. “Neure Versuche zur Polarisation der Elektronen”, *Physikalische Zeitschrift*, 33: 937–940.
+* –––, 1932c. “Ueber die Polarisation der Elektronen bei zweimaliger 90o–Streuung”, *Zeitschrift fur Physik*, 79: 642–654.
+* –––, 1934. “Polarisation der Elektronen an freien Atomen”, *Zeitschrift fur Physik*, 88: 242–246.
+* Rustad, B.M. and S.L. Ruby, 1953. “Correlation between Electron and Recoil Nucleus in He6 Decay”, *Physical Review*, 89: 880–881.
+* –––, 1955. “Gamow-Teller Interaction in the Decay of He6”, *Physical Review*, 97: 991–1002.
+* Sargent, B.W., 1932. “Energy Distribution Curves of the Disintegration Electrons”, *Proceedings of the Cambridge Philosophical Society*, 24: 538–553.
+* –––, 1933. “The Maximum Energy of the -Rays from Uranium X and other Bodies”, *Proceedings of the Royal Society* (London), A139: 659–673.
+* Sauter, F., 1933. “Ueber den Mottschen Polarisationseffekt bei der Streuun von Elektronen an Atomen”, *Annalen der Physik*, 18: 61–80.
+* Shapin, S. and Simon S., 1989. *Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life*, Princeton: Princeton University Press.
+* Schindler, S., 2011. “Bogen and Woodward’s data-phenomena distinction, forms of theory-ladenness, and the reliability of data ”, *Synthese*, 182(1): 39–55.
+* Sellars, W., 1962. *Science, Perception, and Reality*, New York: Humanities Press.
+* Sherr, R. and J. Gerhart, 1952. “Gamma Radiation of C10”. *Physical Review*, 86: 619.
+* Sherr, R., H.R. Muether and M.G. White, 1949. “Radioactivity of C10 and O14”, *Physical Review*, 75: 282–292.
+* Smith, A.M., 1951. “Forbidden Beta-Ray Spectra”, *Physical Review*, 82: 955–956.
+* Staley, K., 1999 “Golden Events and Statistics: What’s Wrong with Galison’s Image/Logic Distinction.” *Perspectives on Science*, 7: 196–230.
+* Stern, O., 1921. “Ein Weg zur experimentellen Prufung Richtungsquantelung im Magnet feld”, *Zeitschrift fur Physik*, 7: 249–253.
+* Stubbs, C.W., E.G. Adelberger, B.R. Heckel, et al., 1989. “Limits on Composition-dependent Interactions using a Laboratory Source: Is There a ”Fifth Force?“”, *Physical Review Letters*, 62: 609–612.
+* Stubbs, C.W., E.G. Adelberger, F.J. Raab, et al., 1987. “Search for an Intermediate-Range Interaction”, *Physical Review Letters*, 58: 1070–1073.
+* Sudarshan, E.C.G. and R.E. Marshak, 1958. “Chirality Invariance and the Universal Fermi Interaction”, *Physical Review*, 109: 1860–1862.
+* Tal, E., 2016. “Making time: A study in the epistemology of measurement”, *The British Journal for the Philosophy of Science*, 61(1): 297–335.
+* –––, 2017a. “A model-based epistemology of measurement”, in Nicola Mößner and Alfred Nordmann (eds.), *Reasoning in measurement*, Routledge: 245–265.
+* –––, 2017b. “Calibration: Modelling the measurement process”, *Studies in History and Philosophy of Science Part A*, 65: 33–45.
+* Thieberger, P., 1987a. “Search for a Substance-Dependent Force with a New Differential Accelerometer”, *Physical Review Letters*, 58: 1066–1069.
+* Thomson, G.P., 1933. “Polarisation of Electrons”, *Nature*, 132: 1006.
+* –––, 1934. “Experiment on the Polarization of Electrons”, *Philosophical Magazine*, 17: 1058–1071.
+* Thomson, J.J., 1897. “Cathode Rays”, *Philosophical Magazine*, 44: 293–316.
+* Uhlenbeck, G.E. and S. Goudsmit, 1925. “Ersetzung der Hypothese von unmechanischen Zwang durch eine Forderung bezuglich des inneren Verhaltens jedes einzelnen Elektrons”, *Naturwissenschaften*, 13: 953–954.
+* –––, 1926. “Spinning Electrons and the Structure of Spectra”, *Nature*, 117: 264–265.
+* van Fraassen, B., 1980. *The Scientific Image*, Oxford: Clarendon Press.
+* Watson, J. D., 1965. *Molecular Biology of the Gene*, New York: W.A. Benjamin, Inc.
+* Watson, J. D. and F. H. C. Crick, 1953a. “A Structure for Deoxyribose Nucleic Acid”, *Nature*, 171: 737.
+* –––, 1953b. “Genetical Implications of the Structure of Deoxyribonucleic Acid”, *Nature*, 171: 964–967.
+* Weinert, F., 1995. “Wrong Theory—Right Experiment: The Significance of the Stern-Gerlach Experiments”, *Studies in History and Philosophy of Modern Physics*, 26B(1): 75–86.
+* Winter, J., 1936. “Sur la polarisation des ondes de Dirac”, *Academie des Science, Paris, Comptes rendus hebdomadaires des seances*, 202: 1265–1266.
+* Winsberg, E., 2010. *Science in the Age of Computer Simulation*, Chicago: University of Chicago Press.
+* Wu, C.S., 1955. “The Interaction in Beta-Decay”, in *Beta- and Gamma-Ray Spectroscopy*, K. Siegbahn (ed.), New York, Interscience: 314–356.
+* Wu, C.S., E. Ambler, R.W. Hayward, et al., 1957. “Experimental Test of Parity Nonconservation in Beta Decay”, *Physical Review*, 105: 1413–1415.
 * Wu, C.S. and A. Schwarzschild, 1958. A Critical Examination of the He6 Recoil Experiment of Rustad and Ruby. New York, Columbia University.
 
 ### Other Suggested Reading
 
-* Ackermann, R., 1988. “Experiments as the Motor of Scientific Progress”, _Social Epistemology_, 2: 327–335.
-* Batens, D. and J.P. Van Bendegem (eds.), 1988. _Theory and Experiment_, Dordrecht: D. Reidel Publishing Company.
-* Burian, R. M., 1992. “How the Choice of Experimental Organism Matters: Biological Practices and Discipline Boundaries”, _Synthese_, 92: 151–166.
-* –––, 1993. “How the Choice of Experimental Organism Matters: Epistemological Reflections on an Aspect of Biological Practice”, _Journal of the History of Biology_, 26: 351–367.
-* –––, 1993b. “Technique, Task Definition, and the Transition from Genetics to Molecular Genetics: Aspects of the Work on Protein Synthesis in the Laboratories of J. Monod and P. Zamecnik”, _Journal of the History of Biology_, 26: 387–407.
-* –––, 1995. “Comments on Rheinberger”, in _Concepts, Theories, and Rationality in the Biological Sciences_, G. Wolters, J. G. Lennox and P. McLaughlin (eds.), Pittsburgh: University of Pittsburgh Press: 123–136.
-* Franklin, A., 2018. _Is It the Same Result? Replication in Physics_. San Rafael, CA: Morgan and Claypool.
-* Franklin, A. and R. Laymon, 2019. _Measuring Nothing, Repeatedly_, San Rafael, CA: Morgan and Claypool.
-* –––, 2021. _Once Can Be Enough: Decisive Experiments. No Replication Required_, Heidelberg: Springer.
-* Gooding, D., 1990. _Experiment and the Making of Meaning_, Dordrecht: Kluwer Academic Publishers.
-* Gooding, D., T. Pinch and S. Schaffer (eds.), 1989. _The Uses of Experiment_, Cambridge: Cambridge University Press.
-* Koertge, N. (ed.), 1998. _A House Built on Sand: Exposing Postmodernist Myths About Science_, Oxford: Oxford University Press.
-* Nelson, A., 1994. “How Could Scientific Facts be Socially Constructed?”, _Studies in History and Philosophy of Science_, 25(4): 535–547.
-* Pickering, A. (ed.), 1992. _Science as Practice and Culture_, Chicago: University of Chicago Press.
-* –––, 1995. _The Mangle of Practice_, Chicago: University of Chicago Press.
-* Pinch, T., 1986. _Confronting Nature_, Dordrecht: Reidel.
-* Rasmussen, N., 1993. “Facts, Artifacts, and Mesosomes: Practicing Epistemology with the Electron Microscope”, _Studies in History and Philosophy of Science_, 24: 227–265.
-* Rheinberger, H.-J., 1997. _Toward a History of Epistemic Things_, Stanford: Stanford University Press.
-* Shapere, D., 1982. “The Concept of Observation in Science and Philosophy”, _Philosophy of Science_, 49: 482–525.
-* Weber, M., 2005. _Philosophy of Experimental Biology_, Cambridge: Cambridge University Press.
+* Ackermann, R., 1988. “Experiments as the Motor of Scientific Progress”, *Social Epistemology*, 2: 327–335.
+* Batens, D. and J.P. Van Bendegem (eds.), 1988. *Theory and Experiment*, Dordrecht: D. Reidel Publishing Company.
+* Burian, R. M., 1992. “How the Choice of Experimental Organism Matters: Biological Practices and Discipline Boundaries”, *Synthese*, 92: 151–166.
+* –––, 1993. “How the Choice of Experimental Organism Matters: Epistemological Reflections on an Aspect of Biological Practice”, *Journal of the History of Biology*, 26: 351–367.
+* –––, 1993b. “Technique, Task Definition, and the Transition from Genetics to Molecular Genetics: Aspects of the Work on Protein Synthesis in the Laboratories of J. Monod and P. Zamecnik”, *Journal of the History of Biology*, 26: 387–407.
+* –––, 1995. “Comments on Rheinberger”, in *Concepts, Theories, and Rationality in the Biological Sciences*, G. Wolters, J. G. Lennox and P. McLaughlin (eds.), Pittsburgh: University of Pittsburgh Press: 123–136.
+* Franklin, A., 2018. *Is It the Same Result? Replication in Physics*. San Rafael, CA: Morgan and Claypool.
+* Franklin, A. and R. Laymon, 2019. *Measuring Nothing, Repeatedly*, San Rafael, CA: Morgan and Claypool.
+* –––, 2021. *Once Can Be Enough: Decisive Experiments. No Replication Required*, Heidelberg: Springer.
+* Gooding, D., 1990. *Experiment and the Making of Meaning*, Dordrecht: Kluwer Academic Publishers.
+* Gooding, D., T. Pinch and S. Schaffer (eds.), 1989. *The Uses of Experiment*, Cambridge: Cambridge University Press.
+* Koertge, N. (ed.), 1998. *A House Built on Sand: Exposing Postmodernist Myths About Science*, Oxford: Oxford University Press.
+* Nelson, A., 1994. “How Could Scientific Facts be Socially Constructed?”, *Studies in History and Philosophy of Science*, 25(4): 535–547.
+* Pickering, A. (ed.), 1992. *Science as Practice and Culture*, Chicago: University of Chicago Press.
+* –––, 1995. *The Mangle of Practice*, Chicago: University of Chicago Press.
+* Pinch, T., 1986. *Confronting Nature*, Dordrecht: Reidel.
+* Rasmussen, N., 1993. “Facts, Artifacts, and Mesosomes: Practicing Epistemology with the Electron Microscope”, *Studies in History and Philosophy of Science*, 24: 227–265.
+* Rheinberger, H.-J., 1997. *Toward a History of Epistemic Things*, Stanford: Stanford University Press.
+* Shapere, D., 1982. “The Concept of Observation in Science and Philosophy”, *Philosophy of Science*, 49: 482–525.
+* Weber, M., 2005. *Philosophy of Experimental Biology*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -702,5 +701,5 @@ Meselson-Stahl 实验是生物学中的关键实验。它决定了 DNA 复制的
 We are grateful to Professor Carl Craver for both his comments on the manuscript and for his suggestions for further reading.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Allan Franklin](http://spot.colorado.edu/\~franklia/) <[_allan.franklin@colorado.edu_](mailto:allan%2efranklin%40colorado%2eedu)>\
-[Slobodan Perovic](http://slobodanperovic.weebly.com/) <[_sperovic@f.bg.ac.rs_](mailto:sperovic%40f%2ebg%2eac%2ers)>
+[Allan Franklin](http://spot.colorado.edu/\~franklia/) <[*allan.franklin@colorado.edu*](mailto:allan%2efranklin%40colorado%2eedu)>\
+[Slobodan Perovic](http://slobodanperovic.weebly.com/) <[*sperovic@f.bg.ac.rs*](mailto:sperovic%40f%2ebg%2eac%2ers)>

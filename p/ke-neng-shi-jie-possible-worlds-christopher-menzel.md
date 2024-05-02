@@ -1,6 +1,6 @@
 # 可能世界 possible worlds (Christopher Menzel)
 
-_首次发表于2013年10月18日星期五；实质性修订于2016年2月8日星期一。_
+*首次发表于2013年10月18日星期五；实质性修订于2016年2月8日星期一。*
 
 安妮正在她的办公桌前工作。虽然她只直接意识到她的即时情况 - 她坐在电脑前，背景音乐播放着，丈夫在隔壁房间里打电话的声音等等 - 但她非常确定这种情况只是一系列越来越包容但不那么直接的情况的一部分：她的整个房子的情况，她所在的社区的情况，她所在的城市的情况，所在的州，北美大陆，地球，太阳系，银河系等等。无论如何，表面上看，相信这个系列有一个极限是相当合理的，也就是说，有一个最大包容所有其他情况的情况：事物作为一个整体，或者更简洁地说，实际世界。
 
@@ -8,7 +8,6 @@ _首次发表于2013年10月18日星期五；实质性修订于2016年2月8日�
 
 可能世界的概念引人入胜且具有吸引力。然而，直到 20 世纪 60 年代，可能世界才在哲学家中获得真正的关注，当时它们被用来提供模态逻辑中一些重要发展的概念基础。只有在那时，它们的本质问题才成为最高哲学重要性的问题。因此，本文的第一部分将概述可能世界在模态逻辑发展中的作用。第二部分探讨了三种关于可能世界本质的著名哲学方法。\[1]虽然第二部分的许多细微哲学观点都假设了第一部分的技术背景，但第二部分所描绘的一般哲学景观可以独立于第一部分进行欣赏。
 
- 
 ***
 
 ## 1. 可能世界和模态逻辑
@@ -59,7 +58,7 @@ _首次发表于2013年10月18日星期五；实质性修订于2016年2月8日�
 
 根据这些条款，其他标准布尔运算符和存在量词在其通常定义下直接遵循。特别是，当
 
-|   |   | ∃νφ =_def_¬∀ν¬φ |
+|   |   | ∃νφ =*def*¬∀ν¬φ |
 | - | - | --------------- |
 
 可以得出：
@@ -178,10 +177,10 @@ De Re / De Dicto 区分。对于意义的可能世界分析的应用中，特别
 
 可能归约主义和对应物。刘易斯与他的导师奎因在可能性上有着截然不同的观点。奎因（1960 年，§41）站在一个长久以来的哲学家的队列中，至少可以追溯到大卫·休谟，他们对可能性是现实的客观特征持怀疑态度，因此质疑一般情况下可能性的断言是否可以客观地真实或虚假，甚至是否连贯。相比之下，刘易斯完全接受可能性的客观性和我们的可能性话语的连贯性。然而，他否认可能性是世界的根本不可约特征。刘易斯是一个可能性归约主义者。对于刘易斯来说，可能性概念并不是原始的。相反，可能性句子的真值条件可以用世界及其部分来给出；而世界本身，刘易斯声称，完全可以用非模态的术语来定义。刘易斯关于可能性理论的最早呈现（刘易斯 1968 年）——反映了奎因的规范化方法——提供了一种将模态谓词逻辑语言中的句子翻译成普通一阶逻辑句子的方案，在这个方案中，模态运算符被明确的量词替代。刘易斯 1986 年的成熟理论更加注重语义学：它避免了任何关于翻译的讨论，而是提供了一种（有些非正式的）关于具体可能世界真值条件的解释。尽管如此，用世界、存在于世界中（当然是 AE1 的意义上），以及对应关系来明确表达这些真值条件的逻辑形式仍然是有用的，这将在稍后讨论：
 
-| _Wx_:  |   | _x_is a_world_ |
+| *Wx*:  |   | *x_is a_world* |
 | ------ | - | -------------- |
-| _Ixy_: |   | x 存在于世界 y 中    |
-| _Cxy_: |   | x 是 y 的对应物     |
+| *Ixy*: |   | x 存在于世界 y 中    |
+| *Cxy*: |   | x 是 y 的对应物     |
 
 对于像（17）这样只涉及 de dicto 模态的句子，Lewis 的真值条件在形式上与基本可能世界语义的模态子句生成的真值条件相似；具体而言，对于（17）：
 
@@ -296,7 +295,7 @@ De Re / De Dicto 区分。对于意义的可能世界分析的应用中，特别
 
 然而，可能性主义的幽灵并不容易被驱散。因为非实际世界并不是唯一的，甚至不是最令人信服的纯粹可能性的例子，这些例子似乎是基于基本可能世界语义而出现的。例如，认为进化可能会走上完全不同的道路（或者，如果你愿意，上帝可能会做出完全不同的创造选择），并且可能会存在一些个体 - 称之为异类 - 它们在生物学上与所有实际存在的个体非常不同；实际上，没有任何实际存在的事物可能是异类。根据基本可能世界语义，句子“可能存在异类”或更正式地说，
 
-|   |   | ◇∃_xEx_ |
+|   |   | ◇∃*xEx* |
 | - | - | ------- |
 
 当且仅当存在一个使得“∃xEx”为真的世界时，它才为真，也就是说：
@@ -444,170 +443,170 @@ AE3 不需要修改，因为它在上面定义时已经足够普遍。然而，�
 
 ## Bibliography
 
-* Adams, R., 1974. ‘Theories of Actuality’, _Noûs_, 8: 211–31; reprinted in Loux (1979): 190–209
-* –––, 1981. ‘Actualism and Thisness’, _Synthese_, 49: 3–41
-* Armstrong, D. M., 1978a, _Universals and Scientific Realism, Volume I: Nominalism and Realism_, Cambridge: Cambridge University Press.
-* –––, 1978b, _Universals and Scientific Realism, Volume II: A Theory of Universals_, Cambridge: Cambridge University Press.
-* –––, 1986a, ‘The Nature of Possibility’, _The Canadian Journal of Philosophy_, 16(4): 575–594.
-* –––, 1986b. ‘In Defense of Structural Universals’, _Australasian Journal of Philosophy_, 64(1): 85–88.
-* –––, 1989. _A Combinatorial Theory of Possibility_, New York: Cambridge University Press.
-* –––, 1993. ‘A World of States of Affairs’, in J. Tomberlin (ed.), _Philosophical Perspectives_, 7: 429–440.
-* –––, 1997. _A World of States of Affairs_, New York: Cambridge University Press.
-* –––, 2004a. ‘Theorie Combinatoire Revue et Corrigée’, in J-M. Monnoyer (Ed.) _La Structure du Mond: Objets, Propriétés, États et Choses_, Paris: Vrin, 185–198.
+* Adams, R., 1974. ‘Theories of Actuality’, *Noûs*, 8: 211–31; reprinted in Loux (1979): 190–209
+* –––, 1981. ‘Actualism and Thisness’, *Synthese*, 49: 3–41
+* Armstrong, D. M., 1978a, *Universals and Scientific Realism, Volume I: Nominalism and Realism*, Cambridge: Cambridge University Press.
+* –––, 1978b, *Universals and Scientific Realism, Volume II: A Theory of Universals*, Cambridge: Cambridge University Press.
+* –––, 1986a, ‘The Nature of Possibility’, *The Canadian Journal of Philosophy*, 16(4): 575–594.
+* –––, 1986b. ‘In Defense of Structural Universals’, *Australasian Journal of Philosophy*, 64(1): 85–88.
+* –––, 1989. *A Combinatorial Theory of Possibility*, New York: Cambridge University Press.
+* –––, 1993. ‘A World of States of Affairs’, in J. Tomberlin (ed.), *Philosophical Perspectives*, 7: 429–440.
+* –––, 1997. *A World of States of Affairs*, New York: Cambridge University Press.
+* –––, 2004a. ‘Theorie Combinatoire Revue et Corrigée’, in J-M. Monnoyer (Ed.) *La Structure du Mond: Objets, Propriétés, États et Choses*, Paris: Vrin, 185–198.
 * –––, 2004b. ‘Combinatorialism Revisited’, translation (with minor corrections) of Armstrong 2004a, URL =  [Combinatorialism revisited - Nottingham ePrints](http://eprints.nottingham.ac.uk/716/), ISBN: 2-7116-1627-4.
-* –––, 2004c. _Truth and Truthmakers_, Cambridge: Cambridge University Press.
+* –––, 2004c. *Truth and Truthmakers*, Cambridge: Cambridge University Press.
 * –––, 2009. ‘Reply to Keller,’, in Monnoyer 2007, 157–162.
-* Barcan, R., 1946. ‘A Functional Calculus of First Order Based on Strict Implication’, _Journal of Symbolic Logic_, 11: 1–16.
-* Bayart, A., 1958, ‘La correction de la logique modale du premier et second ordre S5’, _Logique et Analyse_, 1: 28–44. Translated in Cresswell forthcoming.
-* –––, 1959, ‘Quasi-adéquation de la logique modale de second ordre S5 et adéquation de la logique modale de premier ordre S5’, _Logique et Analyse_, 2: 99–121.
-* Beall, J., 2000. ‘A Neglected Response to the Grim result’, _Analysis_, 60(1): 38–41.
-* Bigelow, J. and R. Pargetter, 1987. ‘Beyond the Blank Stare’, _Theoria_, 53: 97–114.
-* Bradley, R., 1989. ‘Possibility and Combinatorialism: Wittgenstein Versus Armstrong’, _Canadian Journal of Philosophy_, 19(1): 15–41.
-* Bricker, P., 1980. ‘Prudence’, _Journal of Philosophy_, 77(7): 381–401.
-* –––, 1987. ‘Reducing Possible Worlds to Language’, _Philosophical Studies_, 52(3): 331–355.
-* –––, 1996. ‘Isolation and Unification: The Realist Analysis of Possible Worlds’, _Philosophical Studies_, 84(2/3): 225–238.
-* –––, 2001. ‘Island Universes and the Analysis of Modality’, in G. Preyer, F. Siebelt (eds.), _Reality and Humean Supervenience: Essays on the Philosophy of David Lewis_, Rowman and Littlefield.
-* –––, 2006. ‘The Relation Between General and Particular: Supervenience vs. Entailment’, in D. Zimmerman (ed.), _Oxford Papers in Metaphysics_, vol. 3, Oxford: Oxford University Press, 251–287.
-* –––, 2008. ‘Concrete Possible Worlds’, in T. Sider, J. Hawthorne, and D. Zimmerman (eds.), _Contemporary Debates in Metaphysics_ Blackwell Publishing, 111–134.
-* Bringsjord, S., 1985. ‘Are There Set Theoretic Possible Worlds?’, _Analysis_, 45(1): 64.
-* Bueno, O., C. Menzel, and E. Zalta, 2014. ‘Worlds and Propositions Set Free’, _Erkenntnis_, 79: 797–820.
-* Carnap, R., 1947. _Meaning and Necessity_. Chicago: The University of Chicago Press.
-* Chihara, C., 1998. _The Worlds of Possibility_, Oxford: Clarendon Press
-* Copeland, B. J., 2002. ‘The Genesis of Possible Worlds Semantics’, _Journal of Philosophical Logic_, 31: 99–137.
-* –––, 2006. ‘Meredith, Prior, and the History of Possible Worlds Semantics’, _Synthese_, 150(3): 373–397.
-* Cresswell, M. J., 1972. ‘The World is Everything that is the Case’, _Journal of Philosophy_, 50: 1–13. Reprinted in Loux (1979), 129–145.
-* –––, 1973. _Logics and Languages_, London, Methuen.
-* –––, 1985a. _Structured Meanings: The Semantics of Propositional Attitudes_, Bradford Books/MIT Press.
-* –––, 1985b. _Adverbial Modification_. Dordrecht, Reidel.
-* –––, 1988. _Semantical Essays: PossibleWorlds and Their Rivals_. Dordrecht, Kluwer Academic Publishers.
-* –––, 1990. _Entities and Indices_. Dordrecht, Kluwer.
-* –––, 1994. _Language in the World_. Cambridge: Cambridge University Press.
-* –––, 1996. _Semantic Indexicality_. Dordrecht: Kluwer.
-* –––, 2004. ‘Adequacy Conditions for Counterpart Theory’, _Australasian Journal of Philosophy_, 82(1): 28–41.
-* –––, 2015. ‘Arnould Bayart's Modal Completeness Theorems — Translated with an Introduction and Commentary’, _Logique et Analyse_, 229: 89–142.
-* Darby G., and D. Watson, 2010. ‘Lewis's Principle of Recombination: Reply to Efird and Stoneham’, _Dialectica_, 64(3): 435–445.
-* Davies, M., 1981. _Meaning, Quantification, Necessity: Themes in Philosophical Logic_, London: Routledge and Kegan Paul.
-* DeRosset, L., 2009a. ‘Possible Worlds I: Modal Realism’, _Philosophy Compass_, 4(6): 998–1008.
-* –––, 2009b. ‘Possible Worlds II: Non-reductive Theories of Possible Worlds’, _Philosophy Compass_, 4(6): 1009–1021.
-* Divers, J., 2002. _Possible Worlds_, London: Routledge.
-* Divers, J. and J. Melia, 2002. ‘The Analytic Limit of Genuine Modal Realism’, _Mind_, 111(441): 15–36.
+* Barcan, R., 1946. ‘A Functional Calculus of First Order Based on Strict Implication’, *Journal of Symbolic Logic*, 11: 1–16.
+* Bayart, A., 1958, ‘La correction de la logique modale du premier et second ordre S5’, *Logique et Analyse*, 1: 28–44. Translated in Cresswell forthcoming.
+* –––, 1959, ‘Quasi-adéquation de la logique modale de second ordre S5 et adéquation de la logique modale de premier ordre S5’, *Logique et Analyse*, 2: 99–121.
+* Beall, J., 2000. ‘A Neglected Response to the Grim result’, *Analysis*, 60(1): 38–41.
+* Bigelow, J. and R. Pargetter, 1987. ‘Beyond the Blank Stare’, *Theoria*, 53: 97–114.
+* Bradley, R., 1989. ‘Possibility and Combinatorialism: Wittgenstein Versus Armstrong’, *Canadian Journal of Philosophy*, 19(1): 15–41.
+* Bricker, P., 1980. ‘Prudence’, *Journal of Philosophy*, 77(7): 381–401.
+* –––, 1987. ‘Reducing Possible Worlds to Language’, *Philosophical Studies*, 52(3): 331–355.
+* –––, 1996. ‘Isolation and Unification: The Realist Analysis of Possible Worlds’, *Philosophical Studies*, 84(2/3): 225–238.
+* –––, 2001. ‘Island Universes and the Analysis of Modality’, in G. Preyer, F. Siebelt (eds.), *Reality and Humean Supervenience: Essays on the Philosophy of David Lewis*, Rowman and Littlefield.
+* –––, 2006. ‘The Relation Between General and Particular: Supervenience vs. Entailment’, in D. Zimmerman (ed.), *Oxford Papers in Metaphysics*, vol. 3, Oxford: Oxford University Press, 251–287.
+* –––, 2008. ‘Concrete Possible Worlds’, in T. Sider, J. Hawthorne, and D. Zimmerman (eds.), *Contemporary Debates in Metaphysics* Blackwell Publishing, 111–134.
+* Bringsjord, S., 1985. ‘Are There Set Theoretic Possible Worlds?’, *Analysis*, 45(1): 64.
+* Bueno, O., C. Menzel, and E. Zalta, 2014. ‘Worlds and Propositions Set Free’, *Erkenntnis*, 79: 797–820.
+* Carnap, R., 1947. *Meaning and Necessity*. Chicago: The University of Chicago Press.
+* Chihara, C., 1998. *The Worlds of Possibility*, Oxford: Clarendon Press
+* Copeland, B. J., 2002. ‘The Genesis of Possible Worlds Semantics’, *Journal of Philosophical Logic*, 31: 99–137.
+* –––, 2006. ‘Meredith, Prior, and the History of Possible Worlds Semantics’, *Synthese*, 150(3): 373–397.
+* Cresswell, M. J., 1972. ‘The World is Everything that is the Case’, *Journal of Philosophy*, 50: 1–13. Reprinted in Loux (1979), 129–145.
+* –––, 1973. *Logics and Languages*, London, Methuen.
+* –––, 1985a. *Structured Meanings: The Semantics of Propositional Attitudes*, Bradford Books/MIT Press.
+* –––, 1985b. *Adverbial Modification*. Dordrecht, Reidel.
+* –––, 1988. *Semantical Essays: PossibleWorlds and Their Rivals*. Dordrecht, Kluwer Academic Publishers.
+* –––, 1990. *Entities and Indices*. Dordrecht, Kluwer.
+* –––, 1994. *Language in the World*. Cambridge: Cambridge University Press.
+* –––, 1996. *Semantic Indexicality*. Dordrecht: Kluwer.
+* –––, 2004. ‘Adequacy Conditions for Counterpart Theory’, *Australasian Journal of Philosophy*, 82(1): 28–41.
+* –––, 2015. ‘Arnould Bayart's Modal Completeness Theorems — Translated with an Introduction and Commentary’, *Logique et Analyse*, 229: 89–142.
+* Darby G., and D. Watson, 2010. ‘Lewis's Principle of Recombination: Reply to Efird and Stoneham’, *Dialectica*, 64(3): 435–445.
+* Davies, M., 1981. *Meaning, Quantification, Necessity: Themes in Philosophical Logic*, London: Routledge and Kegan Paul.
+* DeRosset, L., 2009a. ‘Possible Worlds I: Modal Realism’, *Philosophy Compass*, 4(6): 998–1008.
+* –––, 2009b. ‘Possible Worlds II: Non-reductive Theories of Possible Worlds’, *Philosophy Compass*, 4(6): 1009–1021.
+* Divers, J., 2002. *Possible Worlds*, London: Routledge.
+* Divers, J. and J. Melia, 2002. ‘The Analytic Limit of Genuine Modal Realism’, *Mind*, 111(441): 15–36.
 * Driggers, R. K., 2011. ‘M-Combinatorialism and the Semantics of SQML’, M.A. Thesis, Texas A\&M University. URL = http://hdl.handle.net/1969.1/ETD-TAMU-2011-05-9484
-* Eddon, M., 2007. ‘Armstrong on Quantities and Resemblance’, _Philosophical Studies_, 136(3): 385–404.
-* Efird, D. and T. Stoneham, 2008. ‘What is the Principle of Recombination?’, _Dialectica_, 62(4): 483–494.
-* Egan, A., 2004. ‘Second-order predication and the Metaphysics of Properties’, _Australasian Journal of Philosophy_, 82(1): 48–66.
-* Etchemendy, J., 1990. _The Concept of Logical Consequence_, Cambridge, MA: Harvard University Press. (Reissued by Stanford: CSLI Publications, 1999.)
-* Feldman, F., 1971. ‘Counterparts’, _Journal of Philosophy_, 68: 406–9.
-* Fara, D. G., 2009. ‘Dear Haecceitism’, _Erkenntnis_, 70: 285–297.
-* Fara, M. and T. Williamson, 2005. ‘Counterparts and Actuality’, _Mind_, 114(453): 1–30.
+* Eddon, M., 2007. ‘Armstrong on Quantities and Resemblance’, *Philosophical Studies*, 136(3): 385–404.
+* Efird, D. and T. Stoneham, 2008. ‘What is the Principle of Recombination?’, *Dialectica*, 62(4): 483–494.
+* Egan, A., 2004. ‘Second-order predication and the Metaphysics of Properties’, *Australasian Journal of Philosophy*, 82(1): 48–66.
+* Etchemendy, J., 1990. *The Concept of Logical Consequence*, Cambridge, MA: Harvard University Press. (Reissued by Stanford: CSLI Publications, 1999.)
+* Feldman, F., 1971. ‘Counterparts’, *Journal of Philosophy*, 68: 406–9.
+* Fara, D. G., 2009. ‘Dear Haecceitism’, *Erkenntnis*, 70: 285–297.
+* Fara, M. and T. Williamson, 2005. ‘Counterparts and Actuality’, *Mind*, 114(453): 1–30.
 * Fine, K., 1977. ‘Postscript’, in Prior 1977, 116–161.
-* –––, 1978. ‘Model Theory for Modal Logics: Part I — The _De Re_/_De Dicto_ Distinction’, _Journal of Philosophical Logic_, 7: 125–56.
-* Forbes, G., 1985. _The Metaphysics of Modality_, Oxford: Clarendon Press.
-* –––, 1982. ‘Canonical Counterpart Theory’, _Analysis_, 42(1): 33–37.
-* Fitch, G. W., 1996, ‘In Defense of Aristotelian Actualism’, _Philosophical Perspectives_, 10: 53–71.
-* Forrest, P. and D. M. Armstrong, 1984. ‘An Argument against David Lewis's Theory of Possible Worlds’, _Australasian Journal of Philosophy_, 62: 164–168.
-* Garson, J., 2006. _Modal Logic for Philosophers_. New York: Cambridge University Press.
-* Goldblatt, R., 2003. “Mathematical Modal Logic: A View of its Evolution”, in D. M. Gabbay and J. Woods (eds.), _Handbook of the History of Logic, Vol. 7: Logic and the Modalities in the Twentieth Century_. Amsterdam: Elsevier, pp. 1–98.
-* Grim, P., 1986. ‘On Sets and Worlds: A Reply to Menzel’, _Analysis_, 46(4): 186–191.
-* Hazen, A., 1979. ‘Counterpart Theoretic Semantic for Modal logic’, _Journal of Philosophy_, 76: 319–338.
-* Hunter, G. and W. Seager, 1981. ‘The Discreet Charm of Counterpart Theory’, _Analysis_, 41(2): 73–76.
-* Heil, J., 2007. ‘The Legacy of Linguisticism’, _Australasian Journal of Philosophy_, 84(2): 233–244.
-* Hintikka, J., 1957. ‘Modality as referential multiplicity’, _Ajatus_, 20: 49–64.
-* –––, 1961. ‘Modality and Quantification’, _Theoria_, 27: 119–28.
-* Hughes, G. and Cresswell, M., 1968. _An Introduction to Modal Logic_, London: Methuen.
-* Jager, T., 1982. ‘An Actualist Semantics for Quantified Modal Logic’, _Notre Dame Journal of Formal Logic_, 23(3) (July): 335–49.
-* Kanger, S., 1957. _Provability in Logic_, Stockholm: Almqvist and Wiksell.
-* Kaplan, D., 1975. ‘How to Russell a Frege-Church’, _Journal of Philosophy_, 72: 716–29; reprinted in Loux (1979), pp. 210–24.
+* –––, 1978. ‘Model Theory for Modal Logics: Part I — The *De Re*/*De Dicto* Distinction’, *Journal of Philosophical Logic*, 7: 125–56.
+* Forbes, G., 1985. *The Metaphysics of Modality*, Oxford: Clarendon Press.
+* –––, 1982. ‘Canonical Counterpart Theory’, *Analysis*, 42(1): 33–37.
+* Fitch, G. W., 1996, ‘In Defense of Aristotelian Actualism’, *Philosophical Perspectives*, 10: 53–71.
+* Forrest, P. and D. M. Armstrong, 1984. ‘An Argument against David Lewis's Theory of Possible Worlds’, *Australasian Journal of Philosophy*, 62: 164–168.
+* Garson, J., 2006. *Modal Logic for Philosophers*. New York: Cambridge University Press.
+* Goldblatt, R., 2003. “Mathematical Modal Logic: A View of its Evolution”, in D. M. Gabbay and J. Woods (eds.), *Handbook of the History of Logic, Vol. 7: Logic and the Modalities in the Twentieth Century*. Amsterdam: Elsevier, pp. 1–98.
+* Grim, P., 1986. ‘On Sets and Worlds: A Reply to Menzel’, *Analysis*, 46(4): 186–191.
+* Hazen, A., 1979. ‘Counterpart Theoretic Semantic for Modal logic’, *Journal of Philosophy*, 76: 319–338.
+* Hunter, G. and W. Seager, 1981. ‘The Discreet Charm of Counterpart Theory’, *Analysis*, 41(2): 73–76.
+* Heil, J., 2007. ‘The Legacy of Linguisticism’, *Australasian Journal of Philosophy*, 84(2): 233–244.
+* Hintikka, J., 1957. ‘Modality as referential multiplicity’, *Ajatus*, 20: 49–64.
+* –––, 1961. ‘Modality and Quantification’, *Theoria*, 27: 119–28.
+* Hughes, G. and Cresswell, M., 1968. *An Introduction to Modal Logic*, London: Methuen.
+* Jager, T., 1982. ‘An Actualist Semantics for Quantified Modal Logic’, *Notre Dame Journal of Formal Logic*, 23(3) (July): 335–49.
+* Kanger, S., 1957. *Provability in Logic*, Stockholm: Almqvist and Wiksell.
+* Kaplan, D., 1975. ‘How to Russell a Frege-Church’, *Journal of Philosophy*, 72: 716–29; reprinted in Loux (1979), pp. 210–24.
 * Kaplan, D., 1979. ‘Transworld Heir Lines’, in Loux (1979), pp. 88–109.
-* –––, 1995. ‘A Problem in Possible World Semantics’, in W. Sinnott-Armstrong, D. Raffman, and N. Asher (eds.), _Modality, Morality and Belief: Essays in Honor of Ruth Barcan Marcus_, Cambridge: Cambridge University Press, 41–52.
+* –––, 1995. ‘A Problem in Possible World Semantics’, in W. Sinnott-Armstrong, D. Raffman, and N. Asher (eds.), *Modality, Morality and Belief: Essays in Honor of Ruth Barcan Marcus*, Cambridge: Cambridge University Press, 41–52.
 * Keller, P., 2007. ‘A World of Truthmakers’, in Monnoyer 2007, 105–156.
-* –––, 2009. ‘Review of D. M. Armstrong, Truth and Truthmakers’, _Mind_, 118(472): 1101–1105.
-* Kemeny, J. G., 1956a. ‘A New Approach to Semantics — Part I’, _The Journal of Symbolic Logic_, 21(1): 1–27.
-* –––, 1956b. ‘A New Approach to Semantics — Part II’, _The Journal of Symbolic Logic_, 21(2): 149–161.
-* Kim, J., 1986. ‘Possible Worlds and Armstrong's Combinatorialism’, _Canadian Journal of Philosophy_, 16(4): 595–612.
-* Kripke, S., 1959. ‘A Completeness Theorem in Modal Logic’, _Journal of Symbolic Logic_, 24(1): 1–14.
-* –––, 1963a. ‘Semantical Analysis of Modal Logic I: Normal Modal Propositional Calculi’, _Zeitschrift für Mathematische Logik und Grundlagen der Mathematik_, 9: 67–96.
-* –––, 1963b. ‘Semantical Considerations on Modal Logic’, _Acta Philosophica Fennica_, 16: 83–94.
+* –––, 2009. ‘Review of D. M. Armstrong, Truth and Truthmakers’, *Mind*, 118(472): 1101–1105.
+* Kemeny, J. G., 1956a. ‘A New Approach to Semantics — Part I’, *The Journal of Symbolic Logic*, 21(1): 1–27.
+* –––, 1956b. ‘A New Approach to Semantics — Part II’, *The Journal of Symbolic Logic*, 21(2): 149–161.
+* Kim, J., 1986. ‘Possible Worlds and Armstrong's Combinatorialism’, *Canadian Journal of Philosophy*, 16(4): 595–612.
+* Kripke, S., 1959. ‘A Completeness Theorem in Modal Logic’, *Journal of Symbolic Logic*, 24(1): 1–14.
+* –––, 1963a. ‘Semantical Analysis of Modal Logic I: Normal Modal Propositional Calculi’, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 9: 67–96.
+* –––, 1963b. ‘Semantical Considerations on Modal Logic’, *Acta Philosophica Fennica*, 16: 83–94.
 * –––, 1972. ‘Naming and Necessity’, Cambridge, Massachusetts: Harvard, 1980.
-* Lewis, D., 1968. ‘Counterpart Theory and Quantified Modal Logic’, _Journal of Philosophy_, 65: 113–126.
-* –––, 1970. ‘General Semantics’, _Synthese_, 22: 18–67.
-* –––, 1973. _Counterfactuals_, Cambridge, Massachussetts: Harvard University Press.
-* –––, 1986. _On The Plurality of Worlds_, Oxford: Blackwell.
-* –––, 1986a. ‘Against Structural Universals’, _Australasian Journal of Philosophy_, 64(1): 25–46.
-* –––, 1991. _Parts of Classes_, Oxford: Basil Blackwell Ltd.
-* –––, 1992, ‘Critical Notice: Armstrong, D. M., _A Combinatorial Theory of Possibility_’, _Australasian Journal of Philosophy_, 70(2): 211–224.
-* Lewis, C. I. and C. H. Langford, 1932. _Symbolic Logic_, New York: The Appleton-Century Company; reprinted in paperback by New York: Dover Publications, 1951.
-* Linsky, B. and E. Zalta, 1994. ‘In Defense of the Simplest Quantified Modal Logic’, in J. Tomberlin (ed.), _Philosophical Perspectives_, 8: 431–458.
-* –––, 1996. ‘In Defense of the Contingently Concrete’, _Philosophical Studies_, 84: 283–294.
-* Loux, M. (ed.), 1979. _The Possible and the Actual_, Ithaca: Cornell.
-* Lycan, W., 1988. ‘On the Plurality of Worlds by David Lewis’, _The Journal of Philosophy_, 85(1): 42–47.
-* –––, 1991. ‘Two — No, Three — Concepts of Possible Worlds’, _Proceedings of the Aristotelian Society, New Series_, 91: 215–227.
-* –––, 1993. ‘Armstrong's New Combinatorial Theory of Modality’, in J. Bacon, K. Campbell, and L. Reinhardt (eds.), _Ontology, Causality, and Mind: Essays in Honour of D. M. Armstrong_, Cambridge: Cambridge University Press, 3–22.
-* Maddy, P., 1980. ‘Perception and Mathematical Intuition’, _The Philosophical Review_, 89(2): 163–196.
-* Mates, B., 1968. ‘Leibniz on Possible Worlds’, in B. van Rootselaar and J. F. Staal (eds.), _Logic, Methodology and Philosophy of Science_, vol. 3, Amsterdam: North-Holland Publishing Company, 507–29; reprinted in H. Frankfurt (ed.), _Leibniz_, Notre Dame: University of Notre Dame Press (1972), 335–364.
-* Marcus, R., 1986. ‘Possibilia and Possible Worlds’, _Grazer Philosophische Studien_, 25/26 (1985/1986): 107–33.
-* McDaniel, K., 2006. ‘Modal Realisms”, _Philosophical Perspectives_, 20: 303–331.
-* McNamara, P., 1993. ‘Does the Actual World Actually Exist?’, _Philosophical Studies_, 69: 59–81.
-* Menzel, C., 1986. ‘On Set Theoretic Possible Worlds’, _Analysis_, 46(2): 68–72.
-* –––, 1989. ‘On an Unsound Proof of the Existence of Possible Worlds’, _Notre Dame Journal of Formal Logic_, 30(4): 598–603.
-* –––, 1990. ‘Actualism, Ontological Commitment, and Possible Worlds Semantics’, _Synthese_, 85: 355–89.
-* –––, 1991. ‘The True Modal Logic’, _Journal of Philosophical Logic_, 20: 331–374.
-* –––, 2012. ‘Sets and Worlds Again’, _Analysis_, 72(2): 304–309.
-* Menzel, C., and E. Zalta, 2014, ‘The Fundamental Theorem of World Theory’, _Journal of Philosophical Logic_, 43(2): 333–363.
-* Meredith, C. and A. Prior, 1956. ‘Interpretations of Different Modal Logics in the “Property Calculus”’, in Copeland, B. (ed.) 1996, _Logic and Reality: Essays on the Legacy of Arthur Prior_, Oxford: Clarendon Press.
-* Merricks, T., 2003. ‘The End of Counterpart Theory ’, _The Journal of Philosophy_, 100(10): 521–549.
-* Merrill, G., 1978. ‘Formalization, Possible Worlds and the Foundations of Modal Logic’, _Erkenntnis_, 12: 305–327.
-* Monnoyer, J. (ed.), 2007. _Metaphysics and Truthmakers_, Frankfurt am Main: Ontos Verlag.
-* Montague, R., 1974. _Formal Philosophy_, New Haven, CT: Yale University Press
-* Moreland, J. P., 2011. ‘Exemplification and Constituent Realism: A Clarification and Modest Defense’, _Axiomathes_, online. doi:10.1007/s10516-011-9148-x
-* Nolan, D., 1996. ‘Recombination Unbound’, _Philosophical Studies_, 84(2/3): 239–262.
-* Nortmann, U., 2002. ‘The Logic of Necessity in Aristotle: An Outline of Approaches to the Modal Syllogistic, Together with a General Account of _de dicto_- and _de re_-Necessity’, _History and Philosophy of Logic_, 23: 253–265.
-* Novakofski, J. M. S. Brewer, N. Mateus-Pinilla, J. Killefer, and R. H. McCusker, 2005. ‘Prion Biology Relevant to Bovine Spongiform Encephalopathy’, _Journal of Animal Science_, 83(6): 1455–1476. doi:10.2527/2005.8361455x
-* Pickavance, T., 2014. ‘Bare Particulars and Exemplification’, _American Philosophical Quarterly_, 51(2): 95–108.
-* Plantinga, A., 1974. _The Nature of Necessity_, Oxford: Oxford University Press.
-* –––, 1976. ‘Actualism and Possible Worlds’, _Theoria_, 42: 139–60; reprinted in Loux (1979): 253–73.
-* –––, 1985. ‘Replies’, in _Alvin Plantinga_, J. Tomberlin and P. van Inwagen (eds.), Dordrecht: D. Reidel: 313–96.
-* –––, 1987. ‘Two Concepts of Modality: Realism and Modal Reductionism’, in J. Tomberlin (ed.), _Philosophical Perspectives_, 1: 189–231.
-* Pollock, J., 1985. ‘Plantinga on Possible Worlds’, in _Alvin Plantinga_, J. Tomberlin and P. van Inwagen (eds.), Dordrecht: D. Reidel, pp. 121–44.
-* Prior, A. N., 1952. ‘Modality _de dicto_ and modality _de re_, _Theoria_, 18(3): 174–180.
-* –––, 1977. _Worlds, Times, and Selves_, Amherst: University of Massachusetts Press.
-* –––, 1956. ‘Modality and Quantification in S5’, _Journal of Symbolic Logic_, 21: 60–2.
-* Pruss, A., 2001. ‘The Cardinality Objection to David Lewis's Modal Realism’, _Philosophical Studies_, 104: 169–178.
-* Quine, W. V. O., 1948. ‘On What There Is’, in _From a Logical Point of View_, New York: Harper, 1953, 1–19.
-* –––, 1953. ‘Three Grades of Modal Involvement’, _Proceedings of the XIth International Congress of Philosophy_, 14: 65–81.
-* –––, 1956. ‘Quantifiers and Propositional Attitudes’, _The Journal of Philosophy_, 53: 177–187.
-* –––, 1960. _Word and Object_, Cambridge, MA: MIT Press.
-* –––, 1968. ‘Propositional Objects’, _Critica: Revista Hispanoamericana de Filosofia_, 2(5): 3–29. Reprinted in W. V. Quine, 1977, _Ontological Relativity_, Columbia University Press: 139–160.
-* Rosen, G., 1993. ‘A Problem for Fictionalism about Possible Worlds’, _Analysis_, 53(2): 71–81.
-* Roy, T., 1995. ‘In Defense of Linguistic Ersatzism’, _Philosophical Studies_, 80(3): 217–242.
-* Russell, B., 1918/1919. ‘The Philosophy of Logical Atomism’, _The Monist_, 28: 495–527; 29: 32–63, 190–222, 345–380. Reprinted in Russell 1956, 177–281 and published in book form as Russell 1985.
-* –––, 1956. _Logic and Knowledge_, London: Allen and Unwin.
-* –––, 1985. _The Philosophy of Logical Atomism_, with an introduction by D. Pears, London: Routledge.
-* Salmon, N., 1988. ‘Review of _On the Plurality of Worlds_, _Philosophical Review_, 97(2): 237–244.
-* Shalkowski, S., 1994. ‘The Ontological Ground of the Alethic Modality’, _The Philosophical Review_, 103(4): 669–688.
-* Schneider, S., 2001. ‘Alien Individuals, Alien Universals, and Armstrong's Combinatorial Theory of Possibility’, _The Southern Journal of Philosophy_, 39: 575–593.
-* Sider, T., 2002. ‘The Ersatz Pluriverse’, _Journal of Philosophy_, 99(6): 279–315.
-* –––, 2005. ‘Another Look at Armstrong's Combinatorialism’, _Noûs_, 39(4): 679–695.
-* Skyrms, B., 1981. ‘Tractarian Nominalism’, _Philosophical Studies_, 40(2): 199–206.
-* Stalnaker, R., 1968. ‘A Theory of Conditionals’ in _Studies in Logical Theory_, _American Philosophical Quarterly_ Monograph Series, 2. Oxford: Blackwell, pp. 98–112.
-* –––, 1976. ‘Possible Worlds’, _Noûs_, 10(1): 65–75.
-* –––, 1987. _Inquiry_, Boston: Bradford Books, MIT Press.
-* –––, 2012. _Mere Possibilities: Metaphysical Foundations of Modal Semantics_, Princeton: Princeton University Press.
-* Tarski, A., 1933. ‘The concept of truth in the languages of the deductive sciences’ (Polish), _Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych_, 34, Warsaw; expanded English translation in Tarski (1983), 152–278.
-* –––, 1944. ‘The semantic conception of truth’, _Philosophy and Phenomenological Research_, 4: 13–47.
-* –––, 1983. _Logic, Semantics, Metamathematics, papers from 1923 to 1938_, edited by John Corcoran. Indianapolis: Hackett Publishing Company.
-* Tomberlin, J., and van Inwagen, P. (eds.), 1985. _Profiles: Alvin Plantinga_, Dordrecht: D. Reidel, pp. 121–44.
-* van Inwagen, P., 1986. ‘Two Concepts of Possible Worlds’, in _Midwest Studies in Philosophy, XI_, P. French, T. Uehling, and H. Wettstein (eds.), Minneapolis: University of Minnesota Press, 185–213.
-* –––, 2008. ‘McGinn on Existence’, _The Philosophical Quarterly_, 58(20): 36–58.
-* Washington, C., 1998. ‘Use/Mention Distinction and Quotation’, in _Routledge Encyclopedia of Philosophy_, vol. 9, W. Craig (ed.), London and New York: Routledge.
-* Williamson, T., 1998. ‘Bare Possibilia’, _Erkenntnis_, 48: 257–273.
-* –––, 2000. ‘The Necessary Framework of Objects’, _Topoi_, 19: 201–208.
-* –––, 2013. _Modal Logic as Metaphysics_. Oxford: Oxford University Press.
-* Wittgenstein, L., 1921. ‘Logisch-Philosophische Abhandlung’, with a forward by Bertrand Russell, _Annalen der Naturphilosophie_, 14, published by Wilhelm Ostwald, Leipzig: Verlag Unesma: 185–262. Also available online in HTML, PDF, and ePub formats in a side-by-side presentation with the translations Wittgenstein (1922) and Wittgenstein (1974) at [Tractatus Logico-Philosophicus | Side-by-side-by-side-edition | Ludwig Wittgenstein](http://people.umass.edu/klement/tlp/).
-* –––, 1922. _Tractatus Logico-Philosophicus_, trans. of Wittgenstein (1921) by C. K. Ogden, Routledge & Kegan Paul.
-* –––, 1974. _Tractatus Logico-Philosophicus_, revised edition, trans. of Wittgenstein (1921) by D. F. Pears and B. F. McGuinness, New York and London: Routledge & Kegan Paul.
-* Yagisawa, T., 2010. _Worlds and Individuals, Possible and Otherwise_, Oxford: Oxford University Press.
-* Zalta, E., 1983. _Abstract Objects: An Introduction to Axiomatic Metaphysics_, Dordrecht: D. Reidel.
-* –––, 1993. ‘Twenty-Five Basic Theorems in Situation and World Theory’, _Journal of Philosophical Logic_, 22(4): 385–428.
+* Lewis, D., 1968. ‘Counterpart Theory and Quantified Modal Logic’, *Journal of Philosophy*, 65: 113–126.
+* –––, 1970. ‘General Semantics’, *Synthese*, 22: 18–67.
+* –––, 1973. *Counterfactuals*, Cambridge, Massachussetts: Harvard University Press.
+* –––, 1986. *On The Plurality of Worlds*, Oxford: Blackwell.
+* –––, 1986a. ‘Against Structural Universals’, *Australasian Journal of Philosophy*, 64(1): 25–46.
+* –––, 1991. *Parts of Classes*, Oxford: Basil Blackwell Ltd.
+* –––, 1992, ‘Critical Notice: Armstrong, D. M., *A Combinatorial Theory of Possibility*’, *Australasian Journal of Philosophy*, 70(2): 211–224.
+* Lewis, C. I. and C. H. Langford, 1932. *Symbolic Logic*, New York: The Appleton-Century Company; reprinted in paperback by New York: Dover Publications, 1951.
+* Linsky, B. and E. Zalta, 1994. ‘In Defense of the Simplest Quantified Modal Logic’, in J. Tomberlin (ed.), *Philosophical Perspectives*, 8: 431–458.
+* –––, 1996. ‘In Defense of the Contingently Concrete’, *Philosophical Studies*, 84: 283–294.
+* Loux, M. (ed.), 1979. *The Possible and the Actual*, Ithaca: Cornell.
+* Lycan, W., 1988. ‘On the Plurality of Worlds by David Lewis’, *The Journal of Philosophy*, 85(1): 42–47.
+* –––, 1991. ‘Two — No, Three — Concepts of Possible Worlds’, *Proceedings of the Aristotelian Society, New Series*, 91: 215–227.
+* –––, 1993. ‘Armstrong's New Combinatorial Theory of Modality’, in J. Bacon, K. Campbell, and L. Reinhardt (eds.), *Ontology, Causality, and Mind: Essays in Honour of D. M. Armstrong*, Cambridge: Cambridge University Press, 3–22.
+* Maddy, P., 1980. ‘Perception and Mathematical Intuition’, *The Philosophical Review*, 89(2): 163–196.
+* Mates, B., 1968. ‘Leibniz on Possible Worlds’, in B. van Rootselaar and J. F. Staal (eds.), *Logic, Methodology and Philosophy of Science*, vol. 3, Amsterdam: North-Holland Publishing Company, 507–29; reprinted in H. Frankfurt (ed.), *Leibniz*, Notre Dame: University of Notre Dame Press (1972), 335–364.
+* Marcus, R., 1986. ‘Possibilia and Possible Worlds’, *Grazer Philosophische Studien*, 25/26 (1985/1986): 107–33.
+* McDaniel, K., 2006. ‘Modal Realisms”, *Philosophical Perspectives*, 20: 303–331.
+* McNamara, P., 1993. ‘Does the Actual World Actually Exist?’, *Philosophical Studies*, 69: 59–81.
+* Menzel, C., 1986. ‘On Set Theoretic Possible Worlds’, *Analysis*, 46(2): 68–72.
+* –––, 1989. ‘On an Unsound Proof of the Existence of Possible Worlds’, *Notre Dame Journal of Formal Logic*, 30(4): 598–603.
+* –––, 1990. ‘Actualism, Ontological Commitment, and Possible Worlds Semantics’, *Synthese*, 85: 355–89.
+* –––, 1991. ‘The True Modal Logic’, *Journal of Philosophical Logic*, 20: 331–374.
+* –––, 2012. ‘Sets and Worlds Again’, *Analysis*, 72(2): 304–309.
+* Menzel, C., and E. Zalta, 2014, ‘The Fundamental Theorem of World Theory’, *Journal of Philosophical Logic*, 43(2): 333–363.
+* Meredith, C. and A. Prior, 1956. ‘Interpretations of Different Modal Logics in the “Property Calculus”’, in Copeland, B. (ed.) 1996, *Logic and Reality: Essays on the Legacy of Arthur Prior*, Oxford: Clarendon Press.
+* Merricks, T., 2003. ‘The End of Counterpart Theory ’, *The Journal of Philosophy*, 100(10): 521–549.
+* Merrill, G., 1978. ‘Formalization, Possible Worlds and the Foundations of Modal Logic’, *Erkenntnis*, 12: 305–327.
+* Monnoyer, J. (ed.), 2007. *Metaphysics and Truthmakers*, Frankfurt am Main: Ontos Verlag.
+* Montague, R., 1974. *Formal Philosophy*, New Haven, CT: Yale University Press
+* Moreland, J. P., 2011. ‘Exemplification and Constituent Realism: A Clarification and Modest Defense’, *Axiomathes*, online. doi:10.1007/s10516-011-9148-x
+* Nolan, D., 1996. ‘Recombination Unbound’, *Philosophical Studies*, 84(2/3): 239–262.
+* Nortmann, U., 2002. ‘The Logic of Necessity in Aristotle: An Outline of Approaches to the Modal Syllogistic, Together with a General Account of *de dicto*- and *de re*-Necessity’, *History and Philosophy of Logic*, 23: 253–265.
+* Novakofski, J. M. S. Brewer, N. Mateus-Pinilla, J. Killefer, and R. H. McCusker, 2005. ‘Prion Biology Relevant to Bovine Spongiform Encephalopathy’, *Journal of Animal Science*, 83(6): 1455–1476. doi:10.2527/2005.8361455x
+* Pickavance, T., 2014. ‘Bare Particulars and Exemplification’, *American Philosophical Quarterly*, 51(2): 95–108.
+* Plantinga, A., 1974. *The Nature of Necessity*, Oxford: Oxford University Press.
+* –––, 1976. ‘Actualism and Possible Worlds’, *Theoria*, 42: 139–60; reprinted in Loux (1979): 253–73.
+* –––, 1985. ‘Replies’, in *Alvin Plantinga*, J. Tomberlin and P. van Inwagen (eds.), Dordrecht: D. Reidel: 313–96.
+* –––, 1987. ‘Two Concepts of Modality: Realism and Modal Reductionism’, in J. Tomberlin (ed.), *Philosophical Perspectives*, 1: 189–231.
+* Pollock, J., 1985. ‘Plantinga on Possible Worlds’, in *Alvin Plantinga*, J. Tomberlin and P. van Inwagen (eds.), Dordrecht: D. Reidel, pp. 121–44.
+* Prior, A. N., 1952. ‘Modality *de dicto* and modality *de re*, *Theoria*, 18(3): 174–180.
+* –––, 1977. *Worlds, Times, and Selves*, Amherst: University of Massachusetts Press.
+* –––, 1956. ‘Modality and Quantification in S5’, *Journal of Symbolic Logic*, 21: 60–2.
+* Pruss, A., 2001. ‘The Cardinality Objection to David Lewis's Modal Realism’, *Philosophical Studies*, 104: 169–178.
+* Quine, W. V. O., 1948. ‘On What There Is’, in *From a Logical Point of View*, New York: Harper, 1953, 1–19.
+* –––, 1953. ‘Three Grades of Modal Involvement’, *Proceedings of the XIth International Congress of Philosophy*, 14: 65–81.
+* –––, 1956. ‘Quantifiers and Propositional Attitudes’, *The Journal of Philosophy*, 53: 177–187.
+* –––, 1960. *Word and Object*, Cambridge, MA: MIT Press.
+* –––, 1968. ‘Propositional Objects’, *Critica: Revista Hispanoamericana de Filosofia*, 2(5): 3–29. Reprinted in W. V. Quine, 1977, *Ontological Relativity*, Columbia University Press: 139–160.
+* Rosen, G., 1993. ‘A Problem for Fictionalism about Possible Worlds’, *Analysis*, 53(2): 71–81.
+* Roy, T., 1995. ‘In Defense of Linguistic Ersatzism’, *Philosophical Studies*, 80(3): 217–242.
+* Russell, B., 1918/1919. ‘The Philosophy of Logical Atomism’, *The Monist*, 28: 495–527; 29: 32–63, 190–222, 345–380. Reprinted in Russell 1956, 177–281 and published in book form as Russell 1985.
+* –––, 1956. *Logic and Knowledge*, London: Allen and Unwin.
+* –––, 1985. *The Philosophy of Logical Atomism*, with an introduction by D. Pears, London: Routledge.
+* Salmon, N., 1988. ‘Review of *On the Plurality of Worlds*, *Philosophical Review*, 97(2): 237–244.
+* Shalkowski, S., 1994. ‘The Ontological Ground of the Alethic Modality’, *The Philosophical Review*, 103(4): 669–688.
+* Schneider, S., 2001. ‘Alien Individuals, Alien Universals, and Armstrong's Combinatorial Theory of Possibility’, *The Southern Journal of Philosophy*, 39: 575–593.
+* Sider, T., 2002. ‘The Ersatz Pluriverse’, *Journal of Philosophy*, 99(6): 279–315.
+* –––, 2005. ‘Another Look at Armstrong's Combinatorialism’, *Noûs*, 39(4): 679–695.
+* Skyrms, B., 1981. ‘Tractarian Nominalism’, *Philosophical Studies*, 40(2): 199–206.
+* Stalnaker, R., 1968. ‘A Theory of Conditionals’ in *Studies in Logical Theory*, *American Philosophical Quarterly* Monograph Series, 2. Oxford: Blackwell, pp. 98–112.
+* –––, 1976. ‘Possible Worlds’, *Noûs*, 10(1): 65–75.
+* –––, 1987. *Inquiry*, Boston: Bradford Books, MIT Press.
+* –––, 2012. *Mere Possibilities: Metaphysical Foundations of Modal Semantics*, Princeton: Princeton University Press.
+* Tarski, A., 1933. ‘The concept of truth in the languages of the deductive sciences’ (Polish), *Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych*, 34, Warsaw; expanded English translation in Tarski (1983), 152–278.
+* –––, 1944. ‘The semantic conception of truth’, *Philosophy and Phenomenological Research*, 4: 13–47.
+* –––, 1983. *Logic, Semantics, Metamathematics, papers from 1923 to 1938*, edited by John Corcoran. Indianapolis: Hackett Publishing Company.
+* Tomberlin, J., and van Inwagen, P. (eds.), 1985. *Profiles: Alvin Plantinga*, Dordrecht: D. Reidel, pp. 121–44.
+* van Inwagen, P., 1986. ‘Two Concepts of Possible Worlds’, in *Midwest Studies in Philosophy, XI*, P. French, T. Uehling, and H. Wettstein (eds.), Minneapolis: University of Minnesota Press, 185–213.
+* –––, 2008. ‘McGinn on Existence’, *The Philosophical Quarterly*, 58(20): 36–58.
+* Washington, C., 1998. ‘Use/Mention Distinction and Quotation’, in *Routledge Encyclopedia of Philosophy*, vol. 9, W. Craig (ed.), London and New York: Routledge.
+* Williamson, T., 1998. ‘Bare Possibilia’, *Erkenntnis*, 48: 257–273.
+* –––, 2000. ‘The Necessary Framework of Objects’, *Topoi*, 19: 201–208.
+* –––, 2013. *Modal Logic as Metaphysics*. Oxford: Oxford University Press.
+* Wittgenstein, L., 1921. ‘Logisch-Philosophische Abhandlung’, with a forward by Bertrand Russell, *Annalen der Naturphilosophie*, 14, published by Wilhelm Ostwald, Leipzig: Verlag Unesma: 185–262. Also available online in HTML, PDF, and ePub formats in a side-by-side presentation with the translations Wittgenstein (1922) and Wittgenstein (1974) at [Tractatus Logico-Philosophicus | Side-by-side-by-side-edition | Ludwig Wittgenstein](http://people.umass.edu/klement/tlp/).
+* –––, 1922. *Tractatus Logico-Philosophicus*, trans. of Wittgenstein (1921) by C. K. Ogden, Routledge & Kegan Paul.
+* –––, 1974. *Tractatus Logico-Philosophicus*, revised edition, trans. of Wittgenstein (1921) by D. F. Pears and B. F. McGuinness, New York and London: Routledge & Kegan Paul.
+* Yagisawa, T., 2010. *Worlds and Individuals, Possible and Otherwise*, Oxford: Oxford University Press.
+* Zalta, E., 1983. *Abstract Objects: An Introduction to Axiomatic Metaphysics*, Dordrecht: D. Reidel.
+* –––, 1993. ‘Twenty-Five Basic Theorems in Situation and World Theory’, *Journal of Philosophical Logic*, 22(4): 385–428.
 
 ## Academic Tools
 
@@ -622,7 +621,7 @@ AE3 不需要修改，因为它在上面定义时已经足够普遍。然而，�
 * Browse papers by related topics at Phil Papers:
   * [actualism and possibilism](https://philpapers.org/browse/actualism)
   * [counterpart theory](https://philpapers.org/browse/counterpart-theory)
-  * [essentialism and _de re_ modality](https://philpapers.org/browse/essentialism-and-de-re-modality-misc)
+  * [essentialism and *de re* modality](https://philpapers.org/browse/essentialism-and-de-re-modality-misc)
   * [essentialism and quantified modal logic](https://philpapers.org/browse/essentialism-and-quantified-modal-logic)
   * [modal ersatzism](https://philpapers.org/browse/modal-ersatzism) (roughly what is referred to as abstractionism in this entry)
   * [modal fictionalism](https://philpapers.org/browse/modal-fictionalism)
@@ -642,4 +641,4 @@ AE3 不需要修改，因为它在上面定义时已经足够普遍。然而，�
 The author wishes to express his deep gratitude to Phillip Bricker and Max Cresswell for extensive comments on several drafts of this entry and for numerous illuminating discussions of its content and related topics. The entry is vastly better for their generous input. Errors and other infelicities that remain are of course the sole responsibility of the author. A great deal of this entry was written with the support of the Alexander von Humboldt Foundation while the author was a Visiting Fellow at the Munich Center for Mathematical Philosophy in 2011–12. Thanks are due to the Center's director, Professor Hannes Leitgeb, for making the author's stay at this remarkable venue possible. Finally, the author would like to express his thanks to the SEP Editors for their extraordinary patience in dealing with the very tardy author of a badly-needed entry.
 
 [Copyright © 2016](https://plato.stanford.edu/info.html#c) by\
-[Christopher Menzel](http://cmenzel.org/) <[_cmenzel@tamu.edu_](mailto:cmenzel%40tamu%2eedu)>
+[Christopher Menzel](http://cmenzel.org/) <[*cmenzel@tamu.edu*](mailto:cmenzel%40tamu%2eedu)>

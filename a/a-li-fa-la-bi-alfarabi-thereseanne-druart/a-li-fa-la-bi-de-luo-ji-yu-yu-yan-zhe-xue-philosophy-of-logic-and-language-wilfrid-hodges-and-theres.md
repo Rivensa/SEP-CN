@@ -6,7 +6,6 @@
 
 法拉比研究语言在人类生活和社会中的各种作用。他强调语言用于传达信息、提出问题和解决分歧，以及描述区别和分类。他认为语言在某种意义上复制意义，并且需要避免语言与意义之间的不匹配。他将亚里士多德的逻辑呈现为一套方法，用于行使说服力、调节辩论、发现真理和获得确定性。他还探讨了逻辑在诗歌中的应用。在这一过程中，他对诸如形而上学问题的来源、事件的时间结构以及诗歌与音乐之间的关系等问题做出了许多深刻的观察。
 
-
 ---
 
 ## 1. 阿里·法拉比的著作及其背景
@@ -151,7 +150,7 @@
 
 我们简要回顾一下为什么阿里·法拉比在逻辑课程中包括范畴主题的问题。亚历山大传统的评论通常以对将要讨论的材料目的的陈述开始。阿里·法拉比的梗概《范畴论》没有这样的陈述，但更长的《范畴论评论》的残片确实回答了这个问题。它们告诉我们（第 196 页），亚里士多德的《范畴论》旨在列举简单的普遍初级概念，但亚里士多德发现仅列举十个至高种类就足够了。有些人（第 202 页）认为《范畴论》并非专门用于逻辑；但“在我们提到的条件下，《范畴论》的内容事实上成为逻辑的一个特定部分”。但实际上，在残片中至少没有提到这样的条件。需要展示的是，在课程的第一本书中研究的范畴的特征（aḥwāl）将在后面的书中起到一定作用。但这个问题根本没有得到解决。阿里·法拉比在《修辞学》87.16–89.4 中提到了这一点，他说前提的术语可以属于十个至高种类中的任何一个，以任何组合形式。这只是证实了至高种类与逻辑推理无关的怀疑。
 
-## 
+##
 
 在这一部分，我们快速浏览阿里·法拉比的逻辑形式系统。我们假设读者对亚里士多德的三段论有一定了解，就像在史密斯（2022）中所述。阿里·法拉比讨论了四种逻辑系统：6.1 范畴三段论，6.2 假设三段论，6.3 情态三段论，6.4 演绎三段论。
 
@@ -346,155 +345,155 @@ Mallet (1994: 329–335) 指出了阿里·法拉比在《分析》95.5–8 中�
 
 ### Works of Al-Fārābī
 
-* \[_Analysis_] _Kitāb al-taḥlīl_ (_Analysis_), in \[_Logic_] 2: 95–129.
-* \[_Aristotle_] “The philosophy of Aristotle, the parts of his philosophy, the ranks of order of its parts, the position from which he started and the one he reached.” Translated by Mohsin Mahdi from an Arabic manuscript in Istanbul. Mahdi’s translation is Part III of his book Mahdi 2001 (below).
-* \[_Attainment_] _Kitāb taḥṣīl al-saʻāda_, Jaʻfar Āl Yāsīn (ed.), Beirut: Dār al-Andalus, 1981; translated as “The Attainment of Happiness” in Mahdi 2001: 13–50.
-* \[_Canons_] “Fārābī’s Canons of Poetry”, A. J. Arberry (ed./trans.), 1938, _Rivista degli Studi Orientali_, 17(2): 266–278. (Arabic and translation.)
-* \[_Catalogue_] _Iḥṣā al-‘ulūm_ (_Catalogue of the sciences_), ‘Uthmān Amīn (ed.), Paris: Dar Bibliyun, 2005. Latin translations (1) by Gundisalvi in Jakob Schneider, _De Scientiis: secundum versionem Dominici Gundisalvi_, Herder, Freiburg 2006 (includes German translation); (2) by Gerard of Cremona in Alain Galonnier, _Le De Scientiis Alfarabii de Gérard de Crémone: Contribution aux problèmes de l’acculturation au XIIe siècle (édition et traduction du texte)_, Turnhout: Brepols, 2017 (includes English translation).
-* \[_Categories_] _Kitāb al-qāṭāghūrīyās ayy al-maqūlāt_, in \[_Logic_] 1: 89–131; translated in D. M. Dunlop, 1958/1959, in “Al-Fārābī’s paraphrase of the _Categories_ of Aristotle”, _Islamic Quarterly_, 4: 168–197 and 5(1): 21–54.
-* \[_Certainty_] _Sharā’iṭ al-yaqīn_ (_Conditions of certainty_), in _Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn_ (_Book of demonstration and book of conditions of certainty_), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 97–104.
-* \[_Commentary on Categories_] “Al-Fārābī’s _Long Commentary_ on Aristotle’s _Categoriae_ in Hebrew and Arabic: A critical edition and English translation of the newly found extant fragments”, Mauro Zonta (ed./trans.), _Studies in Arabic and Islamic Culture II_, Binyamin Abrahamov (ed.), Ramat-Gan: Bar-Ilan University Press, 2006, pp. 185–253.
-* \[_Commentary on De Interpretatione_] _Sharḥ ‘ibāra_, W. Kutsch and S. Marrow (eds.), Beirut: Dar el-Machreq, 1986; translated in Zimmermann 1981: 1–219. We cite the page and line numbers in the Kutsch and Marrow edition; Zimmermann’s translation gives these too.
-* \[_Commentary on Prior Analytics_] _Kitāb sharḥ al-qiyās_, surviving part in _Almanṭiqīyāt lil-Fārābī_ (_The logical works of al-Fārābī_), M. T. Daneshpazhuh (ed.), Qum: Maktabat Ayat Allah, 1988, vol. 2, pp. 263–553.
-* \[_Debate_] _Kitāb al-jadal_ (_Debate_), in \[_Logic_] 3: 13–107. A fuller text is translated in David M. DiPasquale, _Alfarabi’s Book of Dialectic (Kitab al-Jadal): On the Starting Point of Islamic Philosophy_, Cambridge: CUP, 2019. (DiPasquale’s references to the Arabic text are to an edition not generally available.)
-* \[_Demonstration_] _Kitāb al-burhān_ (_Demonstration_), in _Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn_ (_Book of demonstration and book of conditions of certainty_), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 19–96.
-* \[_Eisagoge_] _Kitāb al-īsāḡūjī_, in \[_Logic_] 1: 75–87; translated in D. M. Dunlop, 1956, “AlFārābī’s _Eisagoge_”, _Islamic Quarterly_, 3(2): 117–138.
-* \[_Expressions_] _Kitāb al-alfāẓ al-musta‘mala fī al-manṭiq_ (_Expressions used in logic_), Muhsin Mahdi (ed.), Beirut: Dar el-Machreq, 1968.
-* \[_Harmony_] Al-Fārābī(?), _L’armonia delle opinioni dei due sapienti: il divino Platone e Aristotele_ (_Al-jam‘ bayna ra’yay al-ḥakīmayn aflaṭūn al-ilāhī wa-arisṭūṭālīs_), Cecilia Martini Bonadeo (ed.), Pisa: Plus, 2009; English translation in Charles E. Butterworth, _Alfārābī, The Political Writings, ‘Selected Aphorisms’ and other texts_, Ithaca, NY: Cornell University Press, 2001, pp. 117–167.
-* \[_Indication_] _Risālat al-tanbīh ‘alā sabīl al-sa‘āda_ (_Indication of the way to happiness_), S. Khālīfāt (ed.), Amman: Jami‘at al-urdunīya, 1987; translated in Jon McGinnis and David C. Reisman, _Classical Arabic Philosophy: An Anthology of Sources_, Indianapolis: Hackett, 2007, pp. 104–120.
-* \[_Interpretation_] _Kitāb pārī armīniyās ayy al-‘ibāra_, in \[_Logic_] 1: 133–163; translated in Zimmermann 1981: 220–247.
-* \[_Introductory_] _Al-tawṭi’a aw al-risāla ṣuddira bihā al-manṭiq_ (_Preparation, or essay introducing logic_), in \[_Logic_] 1: 55–62; translated in D. M. Dunlop, 1957, “Al-Fārābī’s Introductory _Risālah_ on logic”, _Islamic Quarterly_, 3: 224–235.
-* \[_Letters_] _Kitāb al-ḥurūf_ (_Book of letters_), Muhsin Mahdi (ed.), Beirut: Dar al-Machreq, 1990. Paragraphs (108) to (157) are translated in Khalidi 2005, pp. 1–26. A new edition with full translation by Charles E. Butterworth is near publication. We cite this work in the style (_m_) _n_._p_, where _m_ is the paragraph number, _n_ the page number and _p_ the line number, all as in Mahdi’s edition; Khalidi gives the paragraph numbers.
-* \[_Logic_] _Al-manṭiq ‘inda al-Fārābī_ (_The Logic of al-Fārābī_), Rafiq al-‘Ajam (ed.), Beirut: Dar al-Machreq, vol. 1 1985, vols. 2 and 3 1986.
-* \[_Music_] _Kitāb al-Mūsīqā al-kabīr_ (_Great Book of Music_), Ghattas ‘Abd-al-Malik Khashaba (ed.), Cairo: Dār al-Kātib al-‘arabī li-al-ṭibā‘a wa-al-nashr, 1967; French translation in Rudolphe D’Erlanger, 1930, _La Musique Arabe_, vols 1, 2 (of six), Paris: Librairie Orientaliste Paul Geuthner.
-* \[_Poetry_] “Kitāb al-shi‘r”, M. Mahdi (ed.), _Shi‘r_, 1959: 90–95; English translation in Geert Jan van Gelder and Marlé Hammond, 2008, _Takhyīl: The Imaginary in Classical Arabic Poetics_, Warminster: Gibb Memorial Trust: 15–18; French translation in Benmakhlouf et al. 2007: 112–118.
-* \[_Proportion_] _Qawl al-Fārābī fī al-tanāsub wa-al-ta’līf_ (_About proportion and composition_), in M. T. Daneshpazhuh (ed.), _Al-manṭiqīyāt lil-Fārābī_ (_The logical works of alFārābī_), Qum: Maktabat Ayat Allah, Qum, 1988, vol. 1, pp. 504.1–506.6; French translation in Benmakhlouf et al. 2007: 107–111.
-* \[_Rhetoric_] _Kitāb al-Ḫaṭāba_, in J. Langhade and M. Grignaschi (eds.), _Al-Fārābī, deux ouvrages inédits sur la rhétorique_, Beirut: Dar el-Machreq, 1971, pp. 30–121.
-* \[_Sections_] _Al-fuṣūl al-khamsa_ (_The five sections_), in \[_Logic_] 1: 63–73; translated in D. M. Dunlop, 1955, “Al-Fārābī’s Introductory Sections on Logic”, _Islamic Quarterly_, 2: 264–282.
-* \[_Short Syllogism_] _Kitāb al-qiyās al-ṣaḡīr_ (Also known as _Logic of the Theologians_) in _Al-manṭiq ‘inda al-Fārābī_ (_The Logic of al-Fārābī_), R. al-‘Ajam (ed.), Beirut: Dar al-Mashreq, 1986, vol 2, pp. 65–93; translated in Nicholas Rescher, “Al-Fārābī’s short commentary on Aristotle’s _Prior Analytics_”, Pittsburgh, PA: University of Pittsburgh Press, 1963.
-* \[_Sophistry_] _Kitāb al-amkinati al-muḡliṭa_ (_Situations of sophistry_), in \[_Logic_] 2: 131–164.
-* \[_Syllogism_] _Kitāb al-qiyās_ (_Syllogism_), in \[_Logic_] 2: 11–64; translated in Saloua Chatti and Wilfrid Hodges, 2020, _Al-Fārābī, Syllogism_, (Ancient Commentators on Aristotle), London: Bloomsbury Academic.
+* \[*Analysis*] *Kitāb al-taḥlīl* (*Analysis*), in \[*Logic*] 2: 95–129.
+* \[*Aristotle*] “The philosophy of Aristotle, the parts of his philosophy, the ranks of order of its parts, the position from which he started and the one he reached.” Translated by Mohsin Mahdi from an Arabic manuscript in Istanbul. Mahdi’s translation is Part III of his book Mahdi 2001 (below).
+* \[*Attainment*] *Kitāb taḥṣīl al-saʻāda*, Jaʻfar Āl Yāsīn (ed.), Beirut: Dār al-Andalus, 1981; translated as “The Attainment of Happiness” in Mahdi 2001: 13–50.
+* \[*Canons*] “Fārābī’s Canons of Poetry”, A. J. Arberry (ed./trans.), 1938, *Rivista degli Studi Orientali*, 17(2): 266–278. (Arabic and translation.)
+* \[*Catalogue*] *Iḥṣā al-‘ulūm* (*Catalogue of the sciences*), ‘Uthmān Amīn (ed.), Paris: Dar Bibliyun, 2005. Latin translations (1) by Gundisalvi in Jakob Schneider, *De Scientiis: secundum versionem Dominici Gundisalvi*, Herder, Freiburg 2006 (includes German translation); (2) by Gerard of Cremona in Alain Galonnier, *Le De Scientiis Alfarabii de Gérard de Crémone: Contribution aux problèmes de l’acculturation au XIIe siècle (édition et traduction du texte)*, Turnhout: Brepols, 2017 (includes English translation).
+* \[*Categories*] *Kitāb al-qāṭāghūrīyās ayy al-maqūlāt*, in \[*Logic*] 1: 89–131; translated in D. M. Dunlop, 1958/1959, in “Al-Fārābī’s paraphrase of the *Categories* of Aristotle”, *Islamic Quarterly*, 4: 168–197 and 5(1): 21–54.
+* \[*Certainty*] *Sharā’iṭ al-yaqīn* (*Conditions of certainty*), in *Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn* (*Book of demonstration and book of conditions of certainty*), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 97–104.
+* \[*Commentary on Categories*] “Al-Fārābī’s *Long Commentary* on Aristotle’s *Categoriae* in Hebrew and Arabic: A critical edition and English translation of the newly found extant fragments”, Mauro Zonta (ed./trans.), *Studies in Arabic and Islamic Culture II*, Binyamin Abrahamov (ed.), Ramat-Gan: Bar-Ilan University Press, 2006, pp. 185–253.
+* \[*Commentary on De Interpretatione*] *Sharḥ ‘ibāra*, W. Kutsch and S. Marrow (eds.), Beirut: Dar el-Machreq, 1986; translated in Zimmermann 1981: 1–219. We cite the page and line numbers in the Kutsch and Marrow edition; Zimmermann’s translation gives these too.
+* \[*Commentary on Prior Analytics*] *Kitāb sharḥ al-qiyās*, surviving part in *Almanṭiqīyāt lil-Fārābī* (*The logical works of al-Fārābī*), M. T. Daneshpazhuh (ed.), Qum: Maktabat Ayat Allah, 1988, vol. 2, pp. 263–553.
+* \[*Debate*] *Kitāb al-jadal* (*Debate*), in \[*Logic*] 3: 13–107. A fuller text is translated in David M. DiPasquale, *Alfarabi’s Book of Dialectic (Kitab al-Jadal): On the Starting Point of Islamic Philosophy*, Cambridge: CUP, 2019. (DiPasquale’s references to the Arabic text are to an edition not generally available.)
+* \[*Demonstration*] *Kitāb al-burhān* (*Demonstration*), in *Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn* (*Book of demonstration and book of conditions of certainty*), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 19–96.
+* \[*Eisagoge*] *Kitāb al-īsāḡūjī*, in \[*Logic*] 1: 75–87; translated in D. M. Dunlop, 1956, “AlFārābī’s *Eisagoge*”, *Islamic Quarterly*, 3(2): 117–138.
+* \[*Expressions*] *Kitāb al-alfāẓ al-musta‘mala fī al-manṭiq* (*Expressions used in logic*), Muhsin Mahdi (ed.), Beirut: Dar el-Machreq, 1968.
+* \[*Harmony*] Al-Fārābī(?), *L’armonia delle opinioni dei due sapienti: il divino Platone e Aristotele* (*Al-jam‘ bayna ra’yay al-ḥakīmayn aflaṭūn al-ilāhī wa-arisṭūṭālīs*), Cecilia Martini Bonadeo (ed.), Pisa: Plus, 2009; English translation in Charles E. Butterworth, *Alfārābī, The Political Writings, ‘Selected Aphorisms’ and other texts*, Ithaca, NY: Cornell University Press, 2001, pp. 117–167.
+* \[*Indication*] *Risālat al-tanbīh ‘alā sabīl al-sa‘āda* (*Indication of the way to happiness*), S. Khālīfāt (ed.), Amman: Jami‘at al-urdunīya, 1987; translated in Jon McGinnis and David C. Reisman, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis: Hackett, 2007, pp. 104–120.
+* \[*Interpretation*] *Kitāb pārī armīniyās ayy al-‘ibāra*, in \[*Logic*] 1: 133–163; translated in Zimmermann 1981: 220–247.
+* \[*Introductory*] *Al-tawṭi’a aw al-risāla ṣuddira bihā al-manṭiq* (*Preparation, or essay introducing logic*), in \[*Logic*] 1: 55–62; translated in D. M. Dunlop, 1957, “Al-Fārābī’s Introductory *Risālah* on logic”, *Islamic Quarterly*, 3: 224–235.
+* \[*Letters*] *Kitāb al-ḥurūf* (*Book of letters*), Muhsin Mahdi (ed.), Beirut: Dar al-Machreq, 1990. Paragraphs (108) to (157) are translated in Khalidi 2005, pp. 1–26. A new edition with full translation by Charles E. Butterworth is near publication. We cite this work in the style (*m*) *n*.*p*, where *m* is the paragraph number, *n* the page number and *p* the line number, all as in Mahdi’s edition; Khalidi gives the paragraph numbers.
+* \[*Logic*] *Al-manṭiq ‘inda al-Fārābī* (*The Logic of al-Fārābī*), Rafiq al-‘Ajam (ed.), Beirut: Dar al-Machreq, vol. 1 1985, vols. 2 and 3 1986.
+* \[*Music*] *Kitāb al-Mūsīqā al-kabīr* (*Great Book of Music*), Ghattas ‘Abd-al-Malik Khashaba (ed.), Cairo: Dār al-Kātib al-‘arabī li-al-ṭibā‘a wa-al-nashr, 1967; French translation in Rudolphe D’Erlanger, 1930, *La Musique Arabe*, vols 1, 2 (of six), Paris: Librairie Orientaliste Paul Geuthner.
+* \[*Poetry*] “Kitāb al-shi‘r”, M. Mahdi (ed.), *Shi‘r*, 1959: 90–95; English translation in Geert Jan van Gelder and Marlé Hammond, 2008, *Takhyīl: The Imaginary in Classical Arabic Poetics*, Warminster: Gibb Memorial Trust: 15–18; French translation in Benmakhlouf et al. 2007: 112–118.
+* \[*Proportion*] *Qawl al-Fārābī fī al-tanāsub wa-al-ta’līf* (*About proportion and composition*), in M. T. Daneshpazhuh (ed.), *Al-manṭiqīyāt lil-Fārābī* (*The logical works of alFārābī*), Qum: Maktabat Ayat Allah, Qum, 1988, vol. 1, pp. 504.1–506.6; French translation in Benmakhlouf et al. 2007: 107–111.
+* \[*Rhetoric*] *Kitāb al-Ḫaṭāba*, in J. Langhade and M. Grignaschi (eds.), *Al-Fārābī, deux ouvrages inédits sur la rhétorique*, Beirut: Dar el-Machreq, 1971, pp. 30–121.
+* \[*Sections*] *Al-fuṣūl al-khamsa* (*The five sections*), in \[*Logic*] 1: 63–73; translated in D. M. Dunlop, 1955, “Al-Fārābī’s Introductory Sections on Logic”, *Islamic Quarterly*, 2: 264–282.
+* \[*Short Syllogism*] *Kitāb al-qiyās al-ṣaḡīr* (Also known as *Logic of the Theologians*) in *Al-manṭiq ‘inda al-Fārābī* (*The Logic of al-Fārābī*), R. al-‘Ajam (ed.), Beirut: Dar al-Mashreq, 1986, vol 2, pp. 65–93; translated in Nicholas Rescher, “Al-Fārābī’s short commentary on Aristotle’s *Prior Analytics*”, Pittsburgh, PA: University of Pittsburgh Press, 1963.
+* \[*Sophistry*] *Kitāb al-amkinati al-muḡliṭa* (*Situations of sophistry*), in \[*Logic*] 2: 131–164.
+* \[*Syllogism*] *Kitāb al-qiyās* (*Syllogism*), in \[*Logic*] 2: 11–64; translated in Saloua Chatti and Wilfrid Hodges, 2020, *Al-Fārābī, Syllogism*, (Ancient Commentators on Aristotle), London: Bloomsbury Academic.
 
 ### Works of Other Authors
 
-* Abed, Shukri B., 1991, _Aristotelian Logic and the Arabic Language in Alfārābī_, Albany: State University of New York Press.
-* Adamson, Peter, 2006, “The Arabic Sea Battle: Al-Fārābī on the Problem of Future Contingents”, _Archiv Für Geschichte Der Philosophie_, 88(2): 163–188. doi:10.1515/AGPH.2006.007
-* Alon, Ilai and Shukri Abed, 2007, _Al-Fārābī’s Philosophical Lexicon_, two volumes, Cambridge: E. J. W. Gibb Memorial Trust.
-* Aouad, Maroun, 1992, “Les Fondements de la _Rhétorique_ d’Aristote Reconsidérés Par Fārābi, Ou Le Concept de Point de Vue Immédiat et Commun”, _Arabic Sciences and Philosophy_, 2(1): 133–180. doi:10.1017/S0957423900001582
-* Aouad, Maroun and Gregor Schoeler, 2002, “The Poetic Syllogism According to Al-Farabi: An Incorrect Syllogism of the Second Figure”, _Arabic Sciences and Philosophy_, 12(2): 185–196. doi:10.1017/S0957423902002096
-* Benmakhlouf, Ali, Stéphane Diebler, and Pauline Koetscher (eds.), 2007, _Al-Fārābī, Philosopher à Bagdad au Xe siècle_, Paris: Seuil.
-* Black, Deborah L., 1989, “The ‘Imaginative Syllogism’ in Arabic Philosophy: A Medieval Contribution to the Philosophical Study of Metaphor”, _Mediaeval Studies_, 51: 242–267. doi:10.1484/J.MS.2.306851
-* –––, 1990, _Logic and Aristotle’s Rhetoric and Poetics in Medieval Arabic Philosophy_, (Islamic philosophy and theology, 7), Leiden: Brill.
-* –––, 2006, “Knowledge (_‘Ilm_) and Certitude (_yaqin_) in al-Farabi’s Epistemology”, _Arabic Sciences and Philosophy_, 16(1): 11–45. doi:10.1017/S0957423906000221
-* Boethius \[c. 477–524 CE], 1969, _De Hypotheticis Syllogismis_, Luca Obertello (ed.), Brescia: Paideia.
-* Chase, Michael, 2007, “Did Porphyry Write a Commentary on Aristotle’s _Posterior Analytics_? Albertus Magnus, al-Fārābī, and Porphyry on _per se_ predication”, in _Classical Arabic Philosophy: Sources and Reception_, Peter Adamson (ed.), London: Warburg Institute, pp. 21–38.
-* Chatti, Saloua, 2017, “The semantics and pragmatics of the conditional in al-Fārābī’s and Avicenna’s theories”, _Studia Humana_, 6(1): 5–17.
-* –––, 2019, _Arabic Logic from Al-Fārābī to Averroes: A Study of the Early Arabic Categorical, Modal, and Hypothetical Syllogistics_, Cham, Switzerland: Birkhäuser.
-* Cross, Charles and Floris Roelofsen, 2018, “Questions”, _The Stanford Encyclopedia of Philosophy_ (Spring 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2018/entries/questions/](https://plato.stanford.edu/archives/spr2018/entries/questions/).
-* D’Ancona, Cristina, 2022, “Greek Sources in Arabic and Islamic Philosophy”, _The Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/arabic-islamic-greek/](https://plato.stanford.edu/archives/spr2022/entries/arabic-islamic-greek/).
-* D’Arcy, Guillaume de Vaulx, 2010, “La _Naqla_, Étude du Concept de Transfert dans L’œuvre d’al-Fārābī”, _Arabic Sciences and Philosophy_, 20(1): 125–176. doi:10.1017/S0957423909990129
-* Diebler, Stéphane, 2005, “Catégories, conversation et philosophie chez al-Fārābī”, in _Les Catégories et leur Histoire_, Ole Bruun and Lorenzo Corti (eds.), Paris: Vrin, pp. 275–305.
-* Druart, Thérèse-Anne, 2007, “Al-Fārābī, the categories, metaphysics, and the Book of Letters”, _Medioevo, Rivista di storia della filosofia medievale_, 32: 15–37.
-* –––, 2011, “Al-Fārābī: an Arabic account of the Origin of Language and of Philosophical Vocabulary”, _Proceedings of the American Catholic Philosophical Association_, 84: 1–17. doi:10.5840/acpaproc2010841
-* –––, 2015/6, “Why music matters for language and interpretation: al-Fārābī”, _Mélanges de l’Université Saint-Joseph_, 66: 167–179.
-* –––, 2021, “Al-Fārābī”, _The Stanford Encyclopedia of Philosophy_ (Winter 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2021/entries/al-farabi/](https://plato.stanford.edu/archives/win2021/entries/al-farabi/)
-* –––, 2022, “Al-Fārābī: The happy marriage between logic and music”, _Ishraq_, 10: 72–88.
-* Elamrani-Jamal, Abdelali, 1983, _Logique Aristotélicienne et Grammaire Arabe_, (Études musulmanes, 26 ), Paris: Vrin.
-* Elias \[attr., 6th century CE], 1890, _In Categorias Prooemium_, in Adolph Busse (ed.), _Eliae in Porphyrii Isagogen et Aristotelis Categorias Commentaria_, (Commentaria in Aristotelem Graeca 18.1), Berlin: Reimer, pp. 107–134. \[[_In Categorias Prooemium_ available online](https://archive.org/details/inporphyriiisago00elia/page/106)] See also entry on [Elias](https://plato.stanford.edu/entries/elias/).
-* Eskenasy, Pauline E., 1988, “Al-Fārābī’s Classification of the Parts of Speech”, _Jerusalem Studies in Arabic and Islam_, 11: 55–82.
-* Fakhry, Majid, 2002, _Al-Fārābī: Founder of Islamic Neoplatonism, His Life, Works and Influence_, London: Oneworld.
-* Fallahi, Asadollah, 2019, “Fārābī and Avicenna on contraposition”, _History and Philosophy of Logic_, 40(1): 22–41.
-* Farmer, Henry George, 1957, “The Music of Islam”, in Egon Wellesz (ed.), _Ancient and Oriental Music_, London: Oxford University Press, pp. 421–477.
-* Fortenbaugh, William W., Pamela M. Huby, Robert W. Sharples and Dimitri Gutas (eds.), 1992, _Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence_, Leiden: Brill.
-* Galen \[c. 129–c. 216 CE], 1896, _Institutio Logica_, Carolus Kalbfleisch (ed.), Leipzig: Teubner.
-* Galston, Miriam S., 1981, “Al-Fārābī on Aristotle’s Theory of Demonstration”, in Parviz Morewedge (ed.), _Islamic Philosophy and Mysticism_, Delmar, NY: Caravan Books, pp. 23–34.
-* –––, 1988, “Al-Fārābī et la logique Aristotélicienne dans la philosophie islamique”, in M. A. Sinaceur (ed.), _Aristote Aujourd’hui_, Paris: Érès, Unesco, pp. 192–217.
-* García Cuadrado, José Angel, 2003, “La distinción nombre-verbo en los comentarios al _Perihermeneias_ de Al-Fārābī y Averroes”, _Revista Española de Filosofía Medieval_, 10: 157–169.
-* Germann, Nadja, 2015, “Logic as the Path to Happiness: Al-Fārābī and the Divisions of the Sciences”, _Quaestio_, 15(January): 15–30. doi:10.1484/J.QUAESTIO.5.108587
-* –––, 2015/6, “Imitation—ambiguity—discourse: some remarks on al-Fārābī’s philosophy of language”, _Mélanges de l’Université Saint-Joseph_, 66: 135–166.
-* –––, 2022, “The power of words: al-Fārābī’s philosophy of language”, _Ishraq_, 10: 193–211.
-* Giolfo, Manuela E. B. and Wilfrid Hodges, 2018, “Syntax, Semantics, and Pragmatics in al-Sīrãfī and Ibn Sīnã”, in Georgine Ayoub and Kees Versteegh (eds.), _Foundations of Arabic Linguistics III_, Leiden: Brill. doi:10.1163/9789004365216\*007
-* Gottschalk, Hans B., 1990, “The Earliest Aristotelian Commentators”, in Richard Sorabji (ed.), _Aristotle Transformed: The Ancient Commentators and their Influence_, London: Duckworth, pp. 55–81.
-* Grinaschi, Mario, 1972, “Les traductions latines des ouvrages de la logique arabe et l’abrégé d’Al-Fārābī”, _Archives d’Histoire doctrinale et littéraire du Moyen Age_, 47: 41–107.
-* Günther, Sebastian, 2010, “The principles of instruction are the grounds of our knowledge; Al-Fārābī’s philosophical and al-Ghazālī’s spiritual approaches to learning”, in Osama Abi-Mershed (ed.), _Trajectories of Education in the Arab World: Legacies and Challenges_, London: Routledge, pp. 15–35.
-* Gutas, Dimitri, 1983, “Paul the Persian on the classification of the parts of Aristotle’s philosophy: a milestone between Alexandria and Baġdâd”, _Der Islam: Zeitschrift für Geschichte und Kultur des Islamischen Orients_, 60(2): 231–267. Reprinted in Dimitri Gutas, _Greek Philosophers in the Arabic Tradition_, Aldershot: Ashgate 2000. doi:10.1515/islm.1983.60.2.231
-* Gyekye, Kwame, 1972, “The Term _Istithnā’_ in Arabic Logic”, _Journal of the American Oriental Society_, 92(1): 88–92. doi:10.2307/599652
-* –––, 1989, “Al-Fārābī on the Logic of the Arguments of the Muslim Philosophical Theologians”, _Journal of the History of Philosophy_, 27(1): 135–143. doi:10.1353/hph.1989.0001
-* Haddad, Fuad S., 1969, “Alfārābī’s Views on Logic and Its Relation to Grammar”, _Islamic Quarterly_, 13: 192–207.
-* –––, 1989, _Alfarabi’s Theory of Communication_, Beirut, Lebanon: American University of Beirut.
-* Hasnawi, Ahmad, 1985, “Fārābī et la pratique de l’exégèse philosophique (remarques sur son Commentaire au De Interpretatione d’Aristote)”, _Revue de Synthèse (Paris)_, 106 (117): 27–59.
-* –––, 1992, “Fārābī al-”, in _Encyclopédie Philosophique Universelle_, vol. 3, Les oeuvres philosophiques: dictionnaire dir. par Jean-François Nattei sous la direction de André Jacob, Paris: Presses Universitaires de France.
-* –––, 2009, “Topique et syllogistique: la tradition arabe (Al-Fārābī et Averroès)”, in _Les lieux de l’argumentation: Histoire du syllogisme topique d’Aristote à Leibniz_ (Studia Aristarum, 22), Joël Biard and Fosca Mariani Zini (eds.), Turnhout: Brepols Publishers, pp. 191–226. doi:10.1484/M.SA-EB.4.00075
-* –––, 2012, “L’objet du _De Interpretatione_ d’Aristote Selon Al-Fārābī”, in _Ad Notitiam Ignoti: L’ “Organon” Dans La “Translatio Studiorum” à l’époque d’Albert Le Grand_ (Studia Artistarum, 37), Julie Brumberg-Chaumont (ed.), Turnhout: Brepols Publishers, 259–283. doi:10.1484/M.SA-EB.5.101361
-* Hasnawi, Ahmad and Wilfrid Hodges, 2016, “Arabic Logic up to Avicenna”, in _The Cambridge Companion to Medieval Logic_, Catarina Dutilh Novaes and Stephen Read (eds.), Cambridge: Cambridge University Press, 45–66. doi:10.1017/CBO9781107449862.003
-* Hitchcock, David, 2017, _On Reasoning and Argument: Essays in Informal Logic and on Critical Thinking_ (Argumentation Library, 30), Cham: Springer International Publishing. doi:10.1007/978-3-319-53562-3
-* Hodges, Wilfrid, 2012, “Formalizing the Relationship Between Meaning and Syntax”, in Markus Werning, Wolfram Hinzen, and Edouard Machery (eds.), _The Oxford Handbook of Compositionality_, Oxford: Oxford University Press, pp. 245–261.
-* –––, 2018, “Proofs as Cognitive or Computational: Ibn Sı̄nā’s Innovations”, _Philosophy & Technology_, 31(1): 131–153. doi:10.1007/s13347-016-0242-2
-* –––, 2019, “Remarks on al-Fārābī’s missing modal logic and its effect on Ibn Sı̄nā”, _Eshare: An Iranian Journal of Philosophy_, 1(3): 39–73.
-* –––, 2020, “Medieval Arabic notions of algorithm: some further raw evidence”, in _Fields of Logic and Computation III, Essays Dedicated to Yuri Gurevich on the Occasion of his 80th Birthday_, ed. Andreas Blass, Patrick Cegielski, Nachum Dershowitz, Manfred Droste and Bernd Finkbeiner, Lecture Notes in Computer Science 12180: Springer, pp. 133–146.
-* Hodges, Wilfrid and Manuela E. B. Giolfo, 2022, “Al-Fārābī against the grammarians??”, in Manuel Sartori and Francesco Binaghi (eds)., _The Foundations of Arab Linguistics V: Kitab Sibawayhi, The Critical Theory_, Leiden: Brill, pp. 157–178.
-* Ibn Abī Uṣaybi‘a, Aḥmad ibn al-Qāsim \[d. 1270 CE], 1965, _Uyūn al-anbāʼ fī ṭabaqāt al-aṭibbāʼ_, Nizār Riḍā (ed.), Beirut: Dar Maktabat al-Hayah.
-* Ibn al-Muqaffa‘ \[8th century CE], 1978, _Al-manṭiq_ (_Logic_), M. T. Dāneshpazhūh (ed.), Tehran: Iranian Institute of Philosophy.
-* Ibn Miskawayh, Aḥmad bin Muḥammad \[932–1030 CE], 1987, _Tartīb al-sa‘ādah_ (_Ranking of Happiness_), Hungarian translation by Miklós Maróth as _A boldogságról: a boldogság könyve_, Budapest: Európa Könyvkiadó.
-* Ibn Rushd \[= Averroes, 1126–1198 CE], 1983, _Maqālāt fī al-manṭiq wa-al-‘ilm al-ṭabī‘ī_ (_Essays on Logic and Natural Science_), Jamāl al-Dīn al-‘Alawī (ed.), Casablanca.
-* Ibn Sīnā \[= Avicenna, ca. 980–1037 CE], 1951, _Al-madkhal_ (_Introduction_), M. El-Khodeiri, G. C. Anawati and F. El-Ahwani (eds.), Cairo: Nashr Wizāra al-Ma‘ārif al-‘Umũmiyya.
-* –––, 1964, _Al-qiyās_ (_Syllogism_), S. Zayed (ed.), Cairo.
-* –––, 2013, _Al-ta‘līqāt_ (_Annotations_), Seyyed Hossein Mousavian (ed.), Tehran: Iranian Institute of Philosophy.
-* Karimullah, Kamran, 2014, “Alfarabi on Conditionals”, _Arabic Sciences and Philosophy_, 24(2): 211–267. doi:10.1017/S0957423914000022
-* –––, 2017, “Influence of Late-Antique (ca. 200–800 A.D.) Prolegomena to Aristotle’s _Categories_ on Arabic Doctrines of the Subject Matter of Logic: Alfārābī (d. ca. 950 A.D.), Baghdad Peripatetics, Avicenna (d. 1037 A.D.)”, _Archiv Für Geschichte Der Philosophie_, 99(3): 237–299. doi:10.1515/agph-2017-0013
-* Kemal, Salim, 2003, _The Philosophical Poetics of Alfarabi, Avicenna and Averroës: The Aristotelian Reception_, Abingdon: Routledge.
-* Khalidi, Muhammad Ali (ed.), 2005, _Medieval Islamic Philosophical Writings_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811050
-* Kleven, Terence J., 2013, “Alfārābī’s Commentary on Porphyry’s Isagoge (_Kitāb īsāgūjī_)”, _Schede Medievali_, 51: 41–52.
-* –––, 2013/4, “Al-Fārābī’s introduction to the five rational arts with reference to _The Five Aphorisms_ (_al-Fusūl al-Khamsa)_ and Ibn Bājja’s _Comments_ (_Ta‘ālīq_)”, _Mélanges de l’Université Saint-Joseph_, 65: 165–194.
-* –––, 2023, “Al-Farabi on what is known prior to the syllogistic arts in his Introductory _Letter_, the _Five Aphorisms_, and the _Book of Dialectic_”, in Katja Krause et al. (eds.), _Contextualising Premodern Philosophy: Explorations of the Greek, Hebrew, Arabic, and Latin traditions_, New York/London: Routledge, pp. 276–292.
-* Knuuttila, Simo, 2020, “Medieval Theories of Future Contingents”, _The Stanford Encyclopedia of Philosophy_ (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/medieval-futcont/](https://plato.stanford.edu/archives/sum2020/entries/medieval-futcont/)
-* Kolman, Oren, 2004, “Transfer principles for generalized interval systems”, _Perspectives of New Music_, 42(1): 150–190.
-* Lameer, Joep, 1994, _Al-Fārābī and Aristotelian Syllogistics_, Leiden: Brill.
-* –––, 1997, “From Alexandria to Baghdad: reflections on the genesis of a problematical tradition”, in _The Ancient Tradition in Christian and Islamic Hellenism. Studies on the transmission of Greek philosophy and sciences dedicated to HJ Drossaart Lulofs on his ninetieth birthday_, Leiden: CNWS Publications 50, pp. 181–191.
-* –––, 2006, _Conception and Belief in Sadr al-Din Shirazi (ca. 1571–1635)_, Tehran: Iranian Institute of Philosophy.
-* Langhade, Jacques, 1994, _Du Coran à la philosophie: La langue arabe et la formation du vocabulaire philosophique de Fārābī_, Damascus: Institut Français de Damas.
-* Lee, Tae-Soo, 1984, _Die Griechische Tradition der Aristotelischen Syllogistik in der Spätantike_, Göttingen: Vandenhoeck and Ruprecht.
-* López-Farjeat, Luis Xavier, 2020, “Al-Farabi’s Psychology and Epistemology”, _The Stanford Encyclopedia of Philosophy_ (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/al-farabi-psych/](https://plato.stanford.edu/archives/sum2020/entries/al-farabi-psych/)
-* MacFarlane, John, 2017, “Logical Constants”, _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/logical-constants/](https://plato.stanford.edu/archives/win2017/entries/logical-constants/)
-* Mahdi, Muhsin, 2001, _Alfarabi, Philosophy of Plato and Aristotle_, Ithaca, NY: Cornell University Press.
-* Mallet, Dominique, 1994, “Le _kitāb al-taḥlīl_ d’Alfarabi”, _Arabic Sciences and Philosophy_, 4(2): 317–335. doi:10.1017/S0957423900001260
-* –––, 1996, “_Kalām_ et dialectique dans le commentaire des _Topiques_ d’Alfārābī”, _Bulletin d’études orientales_, 48: 165–182.
-* Menn, Stephen, 2008, “Al-Fārābī’s _Kitāb Al-Ḥurūf_ and His Analysis of the Senses of Being”, _Arabic Sciences and Philosophy_, 18(1): 59–97. doi:10.1017/s0957423908000477
-* Netton, Ian Richard, 1992, _Al-Fārābī and his School_, Richmond: Curzon Press.
-* Paul the Persian \[6th century CE], 1875, _Logica_, in Jan Pieter Nicolaas Land (ed.), _Anecdota Syriaca_ Vol. 4, Brill, Lugdunum Batavorum (Katwijk), pp. 1–30.
-* Philoponus, John \[6th century CE], 1905, _In Aristotelis Analytica Priora Commentaria_, Maximilianus Wallies (ed.), Berlin: Reimer.
-* Porphyry \[c. 234–c. 305 CE], 1887, _Porphyrii Isagoge et In Aristotelis Categorias Commentarium_, Adolfus Busse (ed.), Berlin: Reimer.
-* Pourjavady, Reza and Sabine Schmidtke, 2015, “An Eastern Renaissance? Greek Philosophy under the Safavids (16th–18th Centuries AD)”, _Intellectual History of the Islamicate World_, 3(1–2): 248–290. doi:10.1163/2212943X-00301010
-* Rashed, Marwan, 2009, “On the Authorship of the Treatise on the Harmonization of the Opinions of the Two Sages Attributed to Al-Fārābī”, _Arabic Sciences and Philosophy_, 19(1): 43–82. doi:10.1017/S0957423909000587
-* –––, 2020, “Abū Hāšim al-Ğubbā’ī, algèbre et inférence”, _Arabic Sciences and Philosophy_, 30(2): 191–228.
-* Rauf, Muhammad, Mushtaq Ahmad, and Zafar Iqbal, 2013, “Al-Fārābī’s Philosophy of Education”, _Educational Research International_, 1(2): 85–94. \[[Rauf, Ahmad, and Iqbal 2013 available online](http://www.erint.savap.org.pk/PDF/Vol.1\(2\)/ERInt.2013\(1.2%E2%80%9309\).pdf)]
-* Rescher, Nicholas, 1966, _Galen and the Syllogism_, Pittsburgh, PA: University of Pittsburgh Press.
-* –––, 1968, _Studies in Arabic Philosophy_, Pittsburgh PA: University of Pittsburgh Press.
-* Schacht, Joseph and Max Meyerhof, 1937, “Maimonides against Galen, on Philosophy and Cosmogony”, _Bulletin of the Faculty of Arts of the University of Egypt_ (_Majallat Kulliyat alĀdāb bi-al-Jāmi‘a al-Miṣriyya_), 5: 53–88.
-* Schoeler, Gregor, 1983, “Der poetische Syllogismus: Ein Beitrag zum Verständnis der ‘logischen’ Poetik der Araber”, _Zeitschrift der Deutschen Morgenländischen Gesellschaft_, 133(1): 43–92.
-* Smith, Robin, 2022, “Aristotle’s Logic”, _The Stanford Encyclopedia of Philosophy_ (Winter 2022 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/win20228/entries/aristotle-logic/](https://plato.stanford.edu/archives/win2022/entries/aristotle-logic/)>
-* Stetkevych, Suzanne Pinckney, 2002, _The Poetics of Islamic Legitimacy: Myth, Gender, and Ceremony in the Classical Arabic Ode_, Bloomington, IN: Indiana University Press.
-* Street, Tony, 2001, “‘The Eminent Later Scholar’ in Avicenna’s Book of the Syllogism”, _Arabic Sciences and Philosophy_, 11(2): 205–218. doi:10.1017/S0957423901001096
-* Street, Tony and Nadja Germann, 2021, “Arabic and Islamic Philosophy of Language and Logic”, _The Stanford Encyclopedia of Philosophy_ (Spring 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2021/entries/arabic-islamic-language/](https://plato.stanford.edu/archives/spr2021/entries/arabic-islamic-language/)
-* Strobino, Riccardo, 2019, “Varieties of demonstration in Alfarabi”, _History and Philosophy of Logic_, 40(1): 42–62.
-* –––, 2021, _Avicenna’s Theory of Science: Logic, Metaphysics, Epistemology_, Oakland, California: University of California Press.
-* Szabó, Zoltán Gendler, 2022, “Compositionality”,_The Stanford Encyclopedia of Philosophy_ (Fall 2022 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2022/entries/compositionality/](https://plato.stanford.edu/archives/fall2022/entries/compositionality/)
-* Thom, Paul, 2008, “Al-Fārābī on Indefinite and Privative Names”, _Arabic Sciences and Philosophy_, 18(2): 193–209. doi:10.1017/S0957423908000544
-* Türker, Sadık, 2007, “The Arabico-Islamic Background of Al-Fārābī’s Logic”, _History and Philosophy of Logic_, 28(3): 183–255. doi:10.1080/01445340701223423
-* Vallat, Philippe, 2004, _Fārābī et l’École d’Alexandrie: Des prémisses de la connaissance à la philosophie politique_, Paris: Vrin.
-* Versteegh, Kees, 1997, _Landmarks in Linguistic Thought III: The Arabic Linguistic Tradition_, London: Routledge.
-* –––, 2000, “Grammar and Logic in the Arabic Grammatical Tradition”, in Sylvain Auroux, Konrad Koerner, Hans-Josef Niederehe, and Kees Versteegh (eds.), _Handbuch für die Geschichte der Sprach-und Kommunikationswissenschaft I_, Berlin and New York: Mouton de Gruyter, pp. 300–306.
-* Walton, Douglas N., 1989, _Informal Logic: a Handbook for Critical Argument_, New York: Cambridge University Press.
-* Walzer, Richard, 1962, _Greek into Arabic: Essays on Islamic Philosophy_, London: Cassirer.
-* Watt, John W., 2008, “Al-Fārābī and the History of the Syriac Organon”, in _Malphono w-Rabo d-Malphone: Studies in Honor of Sebastian P. Brock_, George A. Kiraz (ed.), Piscataway, NJ: Gorgias Press, pp. 703–731.
-* Wildberg, Christian, 2021, “Neoplatonism”, _The Stanford Encyclopedia of Philosophy_ (Winter 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2021/entries/neoplatonism/](https://plato.stanford.edu/archives/win2021/entries/neoplatonism/)
-* Woerther, Frédérique, 2022, “Définitions et usages de la rhétorique d’après les Didascalia in Rethoricam Aristotilis ex Glosa Alpharabii”, _Ishraq_, 10: 327–346.
-* Wolfson, Harry Austryn, 1973, “The Terms _taṣawwur_ and _taṣdīq_ in Arabic philosophy and their Greek, Latin and Hebrew Equivalents”, in Isidore Twersky and George H. Williams (eds.), _Studies in the History and Philosophy of Religion_, Cambridge, MA: Harvard University Press, vol. 1, pp. 478–492.
-* Young, Walter Edward, 2017, _The Dialectical Forge: Juridical Disputation and the Evolution of Islamic Law_ (Logic, Argumentation & Reasoning, 9), Cham: Springer International Publishing. doi:10.1007/978-3-319-25522-4
-* Zimmermann, F. W., 1972, “Some Observations on Al-Fārābī and Logical Tradition”, in _Islamic Philosophy and the Classical Tradition, Essays presented by his friends and pupils to Richard Walzer on his seventieth birthday_, S. M. Stern, Albert Hourani, and Vivian Brown (eds.), Oxford: Cassirer, pp. 517–546.
-* –––, 1981, _Al-Fārābī’s Commentary and Short Treatise on Aristotle’s De Interpretatione_, Oxford: British Academy and Oxford University Press.
-* Zonta, Mauro, 1998, “Al-Fārābī’s Commentaries on Aristotelian Logic: New Discoveries”, in _Philosophy and Arts in the Islamic World: Proceedings of the Eighteenth Congress of the Union Européenne des Arabisants et Islamisants_ (Orientalia Lovaniensia Analecta, 87), U. Vermeulen and D. De Smet (eds.), Leuven: Peeters, pp. 219–232.
-* –––, 2011, “About Todros Todrosi’s Medieval Hebrew Translation of al-Fārābī’s Lost Long Commentary/Gloss Commentary on Aristotle’s _Topics_, Book VIII”, _History and Philosophy of Logic_, 32(1): 37–45. doi:10.1080/01445340.2010.506093
+* Abed, Shukri B., 1991, *Aristotelian Logic and the Arabic Language in Alfārābī*, Albany: State University of New York Press.
+* Adamson, Peter, 2006, “The Arabic Sea Battle: Al-Fārābī on the Problem of Future Contingents”, *Archiv Für Geschichte Der Philosophie*, 88(2): 163–188. doi:10.1515/AGPH.2006.007
+* Alon, Ilai and Shukri Abed, 2007, *Al-Fārābī’s Philosophical Lexicon*, two volumes, Cambridge: E. J. W. Gibb Memorial Trust.
+* Aouad, Maroun, 1992, “Les Fondements de la *Rhétorique* d’Aristote Reconsidérés Par Fārābi, Ou Le Concept de Point de Vue Immédiat et Commun”, *Arabic Sciences and Philosophy*, 2(1): 133–180. doi:10.1017/S0957423900001582
+* Aouad, Maroun and Gregor Schoeler, 2002, “The Poetic Syllogism According to Al-Farabi: An Incorrect Syllogism of the Second Figure”, *Arabic Sciences and Philosophy*, 12(2): 185–196. doi:10.1017/S0957423902002096
+* Benmakhlouf, Ali, Stéphane Diebler, and Pauline Koetscher (eds.), 2007, *Al-Fārābī, Philosopher à Bagdad au Xe siècle*, Paris: Seuil.
+* Black, Deborah L., 1989, “The ‘Imaginative Syllogism’ in Arabic Philosophy: A Medieval Contribution to the Philosophical Study of Metaphor”, *Mediaeval Studies*, 51: 242–267. doi:10.1484/J.MS.2.306851
+* –––, 1990, *Logic and Aristotle’s Rhetoric and Poetics in Medieval Arabic Philosophy*, (Islamic philosophy and theology, 7), Leiden: Brill.
+* –––, 2006, “Knowledge (*‘Ilm*) and Certitude (*yaqin*) in al-Farabi’s Epistemology”, *Arabic Sciences and Philosophy*, 16(1): 11–45. doi:10.1017/S0957423906000221
+* Boethius \[c. 477–524 CE], 1969, *De Hypotheticis Syllogismis*, Luca Obertello (ed.), Brescia: Paideia.
+* Chase, Michael, 2007, “Did Porphyry Write a Commentary on Aristotle’s *Posterior Analytics*? Albertus Magnus, al-Fārābī, and Porphyry on *per se* predication”, in *Classical Arabic Philosophy: Sources and Reception*, Peter Adamson (ed.), London: Warburg Institute, pp. 21–38.
+* Chatti, Saloua, 2017, “The semantics and pragmatics of the conditional in al-Fārābī’s and Avicenna’s theories”, *Studia Humana*, 6(1): 5–17.
+* –––, 2019, *Arabic Logic from Al-Fārābī to Averroes: A Study of the Early Arabic Categorical, Modal, and Hypothetical Syllogistics*, Cham, Switzerland: Birkhäuser.
+* Cross, Charles and Floris Roelofsen, 2018, “Questions”, *The Stanford Encyclopedia of Philosophy* (Spring 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2018/entries/questions/](https://plato.stanford.edu/archives/spr2018/entries/questions/).
+* D’Ancona, Cristina, 2022, “Greek Sources in Arabic and Islamic Philosophy”, *The Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/arabic-islamic-greek/](https://plato.stanford.edu/archives/spr2022/entries/arabic-islamic-greek/).
+* D’Arcy, Guillaume de Vaulx, 2010, “La *Naqla*, Étude du Concept de Transfert dans L’œuvre d’al-Fārābī”, *Arabic Sciences and Philosophy*, 20(1): 125–176. doi:10.1017/S0957423909990129
+* Diebler, Stéphane, 2005, “Catégories, conversation et philosophie chez al-Fārābī”, in *Les Catégories et leur Histoire*, Ole Bruun and Lorenzo Corti (eds.), Paris: Vrin, pp. 275–305.
+* Druart, Thérèse-Anne, 2007, “Al-Fārābī, the categories, metaphysics, and the Book of Letters”, *Medioevo, Rivista di storia della filosofia medievale*, 32: 15–37.
+* –––, 2011, “Al-Fārābī: an Arabic account of the Origin of Language and of Philosophical Vocabulary”, *Proceedings of the American Catholic Philosophical Association*, 84: 1–17. doi:10.5840/acpaproc2010841
+* –––, 2015/6, “Why music matters for language and interpretation: al-Fārābī”, *Mélanges de l’Université Saint-Joseph*, 66: 167–179.
+* –––, 2021, “Al-Fārābī”, *The Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2021/entries/al-farabi/](https://plato.stanford.edu/archives/win2021/entries/al-farabi/)
+* –––, 2022, “Al-Fārābī: The happy marriage between logic and music”, *Ishraq*, 10: 72–88.
+* Elamrani-Jamal, Abdelali, 1983, *Logique Aristotélicienne et Grammaire Arabe*, (Études musulmanes, 26 ), Paris: Vrin.
+* Elias \[attr., 6th century CE], 1890, *In Categorias Prooemium*, in Adolph Busse (ed.), *Eliae in Porphyrii Isagogen et Aristotelis Categorias Commentaria*, (Commentaria in Aristotelem Graeca 18.1), Berlin: Reimer, pp. 107–134. \[[*In Categorias Prooemium* available online](https://archive.org/details/inporphyriiisago00elia/page/106)] See also entry on [Elias](https://plato.stanford.edu/entries/elias/).
+* Eskenasy, Pauline E., 1988, “Al-Fārābī’s Classification of the Parts of Speech”, *Jerusalem Studies in Arabic and Islam*, 11: 55–82.
+* Fakhry, Majid, 2002, *Al-Fārābī: Founder of Islamic Neoplatonism, His Life, Works and Influence*, London: Oneworld.
+* Fallahi, Asadollah, 2019, “Fārābī and Avicenna on contraposition”, *History and Philosophy of Logic*, 40(1): 22–41.
+* Farmer, Henry George, 1957, “The Music of Islam”, in Egon Wellesz (ed.), *Ancient and Oriental Music*, London: Oxford University Press, pp. 421–477.
+* Fortenbaugh, William W., Pamela M. Huby, Robert W. Sharples and Dimitri Gutas (eds.), 1992, *Theophrastus of Eresus: Sources for his Life, Writings, Thought and Influence*, Leiden: Brill.
+* Galen \[c. 129–c. 216 CE], 1896, *Institutio Logica*, Carolus Kalbfleisch (ed.), Leipzig: Teubner.
+* Galston, Miriam S., 1981, “Al-Fārābī on Aristotle’s Theory of Demonstration”, in Parviz Morewedge (ed.), *Islamic Philosophy and Mysticism*, Delmar, NY: Caravan Books, pp. 23–34.
+* –––, 1988, “Al-Fārābī et la logique Aristotélicienne dans la philosophie islamique”, in M. A. Sinaceur (ed.), *Aristote Aujourd’hui*, Paris: Érès, Unesco, pp. 192–217.
+* García Cuadrado, José Angel, 2003, “La distinción nombre-verbo en los comentarios al *Perihermeneias* de Al-Fārābī y Averroes”, *Revista Española de Filosofía Medieval*, 10: 157–169.
+* Germann, Nadja, 2015, “Logic as the Path to Happiness: Al-Fārābī and the Divisions of the Sciences”, *Quaestio*, 15(January): 15–30. doi:10.1484/J.QUAESTIO.5.108587
+* –––, 2015/6, “Imitation—ambiguity—discourse: some remarks on al-Fārābī’s philosophy of language”, *Mélanges de l’Université Saint-Joseph*, 66: 135–166.
+* –––, 2022, “The power of words: al-Fārābī’s philosophy of language”, *Ishraq*, 10: 193–211.
+* Giolfo, Manuela E. B. and Wilfrid Hodges, 2018, “Syntax, Semantics, and Pragmatics in al-Sīrãfī and Ibn Sīnã”, in Georgine Ayoub and Kees Versteegh (eds.), *Foundations of Arabic Linguistics III*, Leiden: Brill. doi:10.1163/9789004365216\*007
+* Gottschalk, Hans B., 1990, “The Earliest Aristotelian Commentators”, in Richard Sorabji (ed.), *Aristotle Transformed: The Ancient Commentators and their Influence*, London: Duckworth, pp. 55–81.
+* Grinaschi, Mario, 1972, “Les traductions latines des ouvrages de la logique arabe et l’abrégé d’Al-Fārābī”, *Archives d’Histoire doctrinale et littéraire du Moyen Age*, 47: 41–107.
+* Günther, Sebastian, 2010, “The principles of instruction are the grounds of our knowledge; Al-Fārābī’s philosophical and al-Ghazālī’s spiritual approaches to learning”, in Osama Abi-Mershed (ed.), *Trajectories of Education in the Arab World: Legacies and Challenges*, London: Routledge, pp. 15–35.
+* Gutas, Dimitri, 1983, “Paul the Persian on the classification of the parts of Aristotle’s philosophy: a milestone between Alexandria and Baġdâd”, *Der Islam: Zeitschrift für Geschichte und Kultur des Islamischen Orients*, 60(2): 231–267. Reprinted in Dimitri Gutas, *Greek Philosophers in the Arabic Tradition*, Aldershot: Ashgate 2000. doi:10.1515/islm.1983.60.2.231
+* Gyekye, Kwame, 1972, “The Term *Istithnā’* in Arabic Logic”, *Journal of the American Oriental Society*, 92(1): 88–92. doi:10.2307/599652
+* –––, 1989, “Al-Fārābī on the Logic of the Arguments of the Muslim Philosophical Theologians”, *Journal of the History of Philosophy*, 27(1): 135–143. doi:10.1353/hph.1989.0001
+* Haddad, Fuad S., 1969, “Alfārābī’s Views on Logic and Its Relation to Grammar”, *Islamic Quarterly*, 13: 192–207.
+* –––, 1989, *Alfarabi’s Theory of Communication*, Beirut, Lebanon: American University of Beirut.
+* Hasnawi, Ahmad, 1985, “Fārābī et la pratique de l’exégèse philosophique (remarques sur son Commentaire au De Interpretatione d’Aristote)”, *Revue de Synthèse (Paris)*, 106 (117): 27–59.
+* –––, 1992, “Fārābī al-”, in *Encyclopédie Philosophique Universelle*, vol. 3, Les oeuvres philosophiques: dictionnaire dir. par Jean-François Nattei sous la direction de André Jacob, Paris: Presses Universitaires de France.
+* –––, 2009, “Topique et syllogistique: la tradition arabe (Al-Fārābī et Averroès)”, in *Les lieux de l’argumentation: Histoire du syllogisme topique d’Aristote à Leibniz* (Studia Aristarum, 22), Joël Biard and Fosca Mariani Zini (eds.), Turnhout: Brepols Publishers, pp. 191–226. doi:10.1484/M.SA-EB.4.00075
+* –––, 2012, “L’objet du *De Interpretatione* d’Aristote Selon Al-Fārābī”, in *Ad Notitiam Ignoti: L’ “Organon” Dans La “Translatio Studiorum” à l’époque d’Albert Le Grand* (Studia Artistarum, 37), Julie Brumberg-Chaumont (ed.), Turnhout: Brepols Publishers, 259–283. doi:10.1484/M.SA-EB.5.101361
+* Hasnawi, Ahmad and Wilfrid Hodges, 2016, “Arabic Logic up to Avicenna”, in *The Cambridge Companion to Medieval Logic*, Catarina Dutilh Novaes and Stephen Read (eds.), Cambridge: Cambridge University Press, 45–66. doi:10.1017/CBO9781107449862.003
+* Hitchcock, David, 2017, *On Reasoning and Argument: Essays in Informal Logic and on Critical Thinking* (Argumentation Library, 30), Cham: Springer International Publishing. doi:10.1007/978-3-319-53562-3
+* Hodges, Wilfrid, 2012, “Formalizing the Relationship Between Meaning and Syntax”, in Markus Werning, Wolfram Hinzen, and Edouard Machery (eds.), *The Oxford Handbook of Compositionality*, Oxford: Oxford University Press, pp. 245–261.
+* –––, 2018, “Proofs as Cognitive or Computational: Ibn Sı̄nā’s Innovations”, *Philosophy & Technology*, 31(1): 131–153. doi:10.1007/s13347-016-0242-2
+* –––, 2019, “Remarks on al-Fārābī’s missing modal logic and its effect on Ibn Sı̄nā”, *Eshare: An Iranian Journal of Philosophy*, 1(3): 39–73.
+* –––, 2020, “Medieval Arabic notions of algorithm: some further raw evidence”, in *Fields of Logic and Computation III, Essays Dedicated to Yuri Gurevich on the Occasion of his 80th Birthday*, ed. Andreas Blass, Patrick Cegielski, Nachum Dershowitz, Manfred Droste and Bernd Finkbeiner, Lecture Notes in Computer Science 12180: Springer, pp. 133–146.
+* Hodges, Wilfrid and Manuela E. B. Giolfo, 2022, “Al-Fārābī against the grammarians??”, in Manuel Sartori and Francesco Binaghi (eds)., *The Foundations of Arab Linguistics V: Kitab Sibawayhi, The Critical Theory*, Leiden: Brill, pp. 157–178.
+* Ibn Abī Uṣaybi‘a, Aḥmad ibn al-Qāsim \[d. 1270 CE], 1965, *Uyūn al-anbāʼ fī ṭabaqāt al-aṭibbāʼ*, Nizār Riḍā (ed.), Beirut: Dar Maktabat al-Hayah.
+* Ibn al-Muqaffa‘ \[8th century CE], 1978, *Al-manṭiq* (*Logic*), M. T. Dāneshpazhūh (ed.), Tehran: Iranian Institute of Philosophy.
+* Ibn Miskawayh, Aḥmad bin Muḥammad \[932–1030 CE], 1987, *Tartīb al-sa‘ādah* (*Ranking of Happiness*), Hungarian translation by Miklós Maróth as *A boldogságról: a boldogság könyve*, Budapest: Európa Könyvkiadó.
+* Ibn Rushd \[= Averroes, 1126–1198 CE], 1983, *Maqālāt fī al-manṭiq wa-al-‘ilm al-ṭabī‘ī* (*Essays on Logic and Natural Science*), Jamāl al-Dīn al-‘Alawī (ed.), Casablanca.
+* Ibn Sīnā \[= Avicenna, ca. 980–1037 CE], 1951, *Al-madkhal* (*Introduction*), M. El-Khodeiri, G. C. Anawati and F. El-Ahwani (eds.), Cairo: Nashr Wizāra al-Ma‘ārif al-‘Umũmiyya.
+* –––, 1964, *Al-qiyās* (*Syllogism*), S. Zayed (ed.), Cairo.
+* –––, 2013, *Al-ta‘līqāt* (*Annotations*), Seyyed Hossein Mousavian (ed.), Tehran: Iranian Institute of Philosophy.
+* Karimullah, Kamran, 2014, “Alfarabi on Conditionals”, *Arabic Sciences and Philosophy*, 24(2): 211–267. doi:10.1017/S0957423914000022
+* –––, 2017, “Influence of Late-Antique (ca. 200–800 A.D.) Prolegomena to Aristotle’s *Categories* on Arabic Doctrines of the Subject Matter of Logic: Alfārābī (d. ca. 950 A.D.), Baghdad Peripatetics, Avicenna (d. 1037 A.D.)”, *Archiv Für Geschichte Der Philosophie*, 99(3): 237–299. doi:10.1515/agph-2017-0013
+* Kemal, Salim, 2003, *The Philosophical Poetics of Alfarabi, Avicenna and Averroës: The Aristotelian Reception*, Abingdon: Routledge.
+* Khalidi, Muhammad Ali (ed.), 2005, *Medieval Islamic Philosophical Writings*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511811050
+* Kleven, Terence J., 2013, “Alfārābī’s Commentary on Porphyry’s Isagoge (*Kitāb īsāgūjī*)”, *Schede Medievali*, 51: 41–52.
+* –––, 2013/4, “Al-Fārābī’s introduction to the five rational arts with reference to *The Five Aphorisms* (*al-Fusūl al-Khamsa)* and Ibn Bājja’s *Comments* (*Ta‘ālīq*)”, *Mélanges de l’Université Saint-Joseph*, 65: 165–194.
+* –––, 2023, “Al-Farabi on what is known prior to the syllogistic arts in his Introductory *Letter*, the *Five Aphorisms*, and the *Book of Dialectic*”, in Katja Krause et al. (eds.), *Contextualising Premodern Philosophy: Explorations of the Greek, Hebrew, Arabic, and Latin traditions*, New York/London: Routledge, pp. 276–292.
+* Knuuttila, Simo, 2020, “Medieval Theories of Future Contingents”, *The Stanford Encyclopedia of Philosophy* (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/medieval-futcont/](https://plato.stanford.edu/archives/sum2020/entries/medieval-futcont/)
+* Kolman, Oren, 2004, “Transfer principles for generalized interval systems”, *Perspectives of New Music*, 42(1): 150–190.
+* Lameer, Joep, 1994, *Al-Fārābī and Aristotelian Syllogistics*, Leiden: Brill.
+* –––, 1997, “From Alexandria to Baghdad: reflections on the genesis of a problematical tradition”, in *The Ancient Tradition in Christian and Islamic Hellenism. Studies on the transmission of Greek philosophy and sciences dedicated to HJ Drossaart Lulofs on his ninetieth birthday*, Leiden: CNWS Publications 50, pp. 181–191.
+* –––, 2006, *Conception and Belief in Sadr al-Din Shirazi (ca. 1571–1635)*, Tehran: Iranian Institute of Philosophy.
+* Langhade, Jacques, 1994, *Du Coran à la philosophie: La langue arabe et la formation du vocabulaire philosophique de Fārābī*, Damascus: Institut Français de Damas.
+* Lee, Tae-Soo, 1984, *Die Griechische Tradition der Aristotelischen Syllogistik in der Spätantike*, Göttingen: Vandenhoeck and Ruprecht.
+* López-Farjeat, Luis Xavier, 2020, “Al-Farabi’s Psychology and Epistemology”, *The Stanford Encyclopedia of Philosophy* (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/al-farabi-psych/](https://plato.stanford.edu/archives/sum2020/entries/al-farabi-psych/)
+* MacFarlane, John, 2017, “Logical Constants”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/logical-constants/](https://plato.stanford.edu/archives/win2017/entries/logical-constants/)
+* Mahdi, Muhsin, 2001, *Alfarabi, Philosophy of Plato and Aristotle*, Ithaca, NY: Cornell University Press.
+* Mallet, Dominique, 1994, “Le *kitāb al-taḥlīl* d’Alfarabi”, *Arabic Sciences and Philosophy*, 4(2): 317–335. doi:10.1017/S0957423900001260
+* –––, 1996, “*Kalām* et dialectique dans le commentaire des *Topiques* d’Alfārābī”, *Bulletin d’études orientales*, 48: 165–182.
+* Menn, Stephen, 2008, “Al-Fārābī’s *Kitāb Al-Ḥurūf* and His Analysis of the Senses of Being”, *Arabic Sciences and Philosophy*, 18(1): 59–97. doi:10.1017/s0957423908000477
+* Netton, Ian Richard, 1992, *Al-Fārābī and his School*, Richmond: Curzon Press.
+* Paul the Persian \[6th century CE], 1875, *Logica*, in Jan Pieter Nicolaas Land (ed.), *Anecdota Syriaca* Vol. 4, Brill, Lugdunum Batavorum (Katwijk), pp. 1–30.
+* Philoponus, John \[6th century CE], 1905, *In Aristotelis Analytica Priora Commentaria*, Maximilianus Wallies (ed.), Berlin: Reimer.
+* Porphyry \[c. 234–c. 305 CE], 1887, *Porphyrii Isagoge et In Aristotelis Categorias Commentarium*, Adolfus Busse (ed.), Berlin: Reimer.
+* Pourjavady, Reza and Sabine Schmidtke, 2015, “An Eastern Renaissance? Greek Philosophy under the Safavids (16th–18th Centuries AD)”, *Intellectual History of the Islamicate World*, 3(1–2): 248–290. doi:10.1163/2212943X-00301010
+* Rashed, Marwan, 2009, “On the Authorship of the Treatise on the Harmonization of the Opinions of the Two Sages Attributed to Al-Fārābī”, *Arabic Sciences and Philosophy*, 19(1): 43–82. doi:10.1017/S0957423909000587
+* –––, 2020, “Abū Hāšim al-Ğubbā’ī, algèbre et inférence”, *Arabic Sciences and Philosophy*, 30(2): 191–228.
+* Rauf, Muhammad, Mushtaq Ahmad, and Zafar Iqbal, 2013, “Al-Fārābī’s Philosophy of Education”, *Educational Research International*, 1(2): 85–94. \[[Rauf, Ahmad, and Iqbal 2013 available online](http://www.erint.savap.org.pk/PDF/Vol.1\(2\)/ERInt.2013\(1.2%E2%80%9309\).pdf)]
+* Rescher, Nicholas, 1966, *Galen and the Syllogism*, Pittsburgh, PA: University of Pittsburgh Press.
+* –––, 1968, *Studies in Arabic Philosophy*, Pittsburgh PA: University of Pittsburgh Press.
+* Schacht, Joseph and Max Meyerhof, 1937, “Maimonides against Galen, on Philosophy and Cosmogony”, *Bulletin of the Faculty of Arts of the University of Egypt* (*Majallat Kulliyat alĀdāb bi-al-Jāmi‘a al-Miṣriyya*), 5: 53–88.
+* Schoeler, Gregor, 1983, “Der poetische Syllogismus: Ein Beitrag zum Verständnis der ‘logischen’ Poetik der Araber”, *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, 133(1): 43–92.
+* Smith, Robin, 2022, “Aristotle’s Logic”, *The Stanford Encyclopedia of Philosophy* (Winter 2022 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = <[https://plato.stanford.edu/archives/win20228/entries/aristotle-logic/](https://plato.stanford.edu/archives/win2022/entries/aristotle-logic/)>
+* Stetkevych, Suzanne Pinckney, 2002, *The Poetics of Islamic Legitimacy: Myth, Gender, and Ceremony in the Classical Arabic Ode*, Bloomington, IN: Indiana University Press.
+* Street, Tony, 2001, “‘The Eminent Later Scholar’ in Avicenna’s Book of the Syllogism”, *Arabic Sciences and Philosophy*, 11(2): 205–218. doi:10.1017/S0957423901001096
+* Street, Tony and Nadja Germann, 2021, “Arabic and Islamic Philosophy of Language and Logic”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2021/entries/arabic-islamic-language/](https://plato.stanford.edu/archives/spr2021/entries/arabic-islamic-language/)
+* Strobino, Riccardo, 2019, “Varieties of demonstration in Alfarabi”, *History and Philosophy of Logic*, 40(1): 42–62.
+* –––, 2021, *Avicenna’s Theory of Science: Logic, Metaphysics, Epistemology*, Oakland, California: University of California Press.
+* Szabó, Zoltán Gendler, 2022, “Compositionality”,*The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition), Edward N. Zalta and Uri Nodelman (eds.), URL = [https://plato.stanford.edu/archives/fall2022/entries/compositionality/](https://plato.stanford.edu/archives/fall2022/entries/compositionality/)
+* Thom, Paul, 2008, “Al-Fārābī on Indefinite and Privative Names”, *Arabic Sciences and Philosophy*, 18(2): 193–209. doi:10.1017/S0957423908000544
+* Türker, Sadık, 2007, “The Arabico-Islamic Background of Al-Fārābī’s Logic”, *History and Philosophy of Logic*, 28(3): 183–255. doi:10.1080/01445340701223423
+* Vallat, Philippe, 2004, *Fārābī et l’École d’Alexandrie: Des prémisses de la connaissance à la philosophie politique*, Paris: Vrin.
+* Versteegh, Kees, 1997, *Landmarks in Linguistic Thought III: The Arabic Linguistic Tradition*, London: Routledge.
+* –––, 2000, “Grammar and Logic in the Arabic Grammatical Tradition”, in Sylvain Auroux, Konrad Koerner, Hans-Josef Niederehe, and Kees Versteegh (eds.), *Handbuch für die Geschichte der Sprach-und Kommunikationswissenschaft I*, Berlin and New York: Mouton de Gruyter, pp. 300–306.
+* Walton, Douglas N., 1989, *Informal Logic: a Handbook for Critical Argument*, New York: Cambridge University Press.
+* Walzer, Richard, 1962, *Greek into Arabic: Essays on Islamic Philosophy*, London: Cassirer.
+* Watt, John W., 2008, “Al-Fārābī and the History of the Syriac Organon”, in *Malphono w-Rabo d-Malphone: Studies in Honor of Sebastian P. Brock*, George A. Kiraz (ed.), Piscataway, NJ: Gorgias Press, pp. 703–731.
+* Wildberg, Christian, 2021, “Neoplatonism”, *The Stanford Encyclopedia of Philosophy* (Winter 2021 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2021/entries/neoplatonism/](https://plato.stanford.edu/archives/win2021/entries/neoplatonism/)
+* Woerther, Frédérique, 2022, “Définitions et usages de la rhétorique d’après les Didascalia in Rethoricam Aristotilis ex Glosa Alpharabii”, *Ishraq*, 10: 327–346.
+* Wolfson, Harry Austryn, 1973, “The Terms *taṣawwur* and *taṣdīq* in Arabic philosophy and their Greek, Latin and Hebrew Equivalents”, in Isidore Twersky and George H. Williams (eds.), *Studies in the History and Philosophy of Religion*, Cambridge, MA: Harvard University Press, vol. 1, pp. 478–492.
+* Young, Walter Edward, 2017, *The Dialectical Forge: Juridical Disputation and the Evolution of Islamic Law* (Logic, Argumentation & Reasoning, 9), Cham: Springer International Publishing. doi:10.1007/978-3-319-25522-4
+* Zimmermann, F. W., 1972, “Some Observations on Al-Fārābī and Logical Tradition”, in *Islamic Philosophy and the Classical Tradition, Essays presented by his friends and pupils to Richard Walzer on his seventieth birthday*, S. M. Stern, Albert Hourani, and Vivian Brown (eds.), Oxford: Cassirer, pp. 517–546.
+* –––, 1981, *Al-Fārābī’s Commentary and Short Treatise on Aristotle’s De Interpretatione*, Oxford: British Academy and Oxford University Press.
+* Zonta, Mauro, 1998, “Al-Fārābī’s Commentaries on Aristotelian Logic: New Discoveries”, in *Philosophy and Arts in the Islamic World: Proceedings of the Eighteenth Congress of the Union Européenne des Arabisants et Islamisants* (Orientalia Lovaniensia Analecta, 87), U. Vermeulen and D. De Smet (eds.), Leuven: Peeters, pp. 219–232.
+* –––, 2011, “About Todros Todrosi’s Medieval Hebrew Translation of al-Fārābī’s Lost Long Commentary/Gloss Commentary on Aristotle’s *Topics*, Book VIII”, *History and Philosophy of Logic*, 32(1): 37–45. doi:10.1080/01445340.2010.506093
 
 ## Academic Tools
 
@@ -507,8 +506,8 @@ Mallet (1994: 329–335) 指出了阿里·法拉比在《分析》95.5–8 中�
 ## Other Internet Resources
 
 * [Al-Fārābī at Islamic Philosophy Online, last update 2 September 2007.](http://www.muslimphilosophy.com/farabi)
-* [“Fārābī ii. Logic” by Deborah L. Black, in _Encyclopaedia Iranica_, last update January 24 2012.](http://www.iranicaonline.org/articles/farabi-ii)
-* [Mahadurot: Modular Hebrew Digitally Rendered Texts, editor-in-chief Yehuda Halper: retrieved 27 April 2023.](http://www.mahadurot.com/) The Hebrew texts online are critical editions of medieval texts. They include a translation of \[_Debate_], and a translation of \[_Sophistry_] is promised.
+* [“Fārābī ii. Logic” by Deborah L. Black, in *Encyclopaedia Iranica*, last update January 24 2012.](http://www.iranicaonline.org/articles/farabi-ii)
+* [Mahadurot: Modular Hebrew Digitally Rendered Texts, editor-in-chief Yehuda Halper: retrieved 27 April 2023.](http://www.mahadurot.com/) The Hebrew texts online are critical editions of medieval texts. They include a translation of \[*Debate*], and a translation of \[*Sophistry*] is promised.
 
 ## Related Entries
 
@@ -519,5 +518,5 @@ Mallet (1994: 329–335) 指出了阿里·法拉比在《分析》95.5–8 中�
 The first author takes responsibility for the text of this entry but couldn’t possibly have written it without the unfailing encouragement, advice and wisdom of the second author.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Wilfrid Hodges](http://wilfridhodges.co.uk/) <[_wilfrid.hodges@btinternet.com_](mailto:wilfrid%2ehodges%40btinternet%2ecom)>\
+[Wilfrid Hodges](http://wilfridhodges.co.uk/) <[*wilfrid.hodges@btinternet.com*](mailto:wilfrid%2ehodges%40btinternet%2ecom)>\
 \[Therese-Anne Druart]\(http://philosophy.cua.edu

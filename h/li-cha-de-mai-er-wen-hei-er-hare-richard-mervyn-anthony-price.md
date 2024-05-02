@@ -1,14 +1,12 @@
 # 理查德·麦尔文·黑尔 Hare, Richard Mervyn (Anthony Price)
 
-_首次发表于2014年6月4日星期三；实质性修订于2019年5月10日星期五_
+*首次发表于2014年6月4日星期三；实质性修订于2019年5月10日星期五*
 
 理查德·麦尔文·黑尔 在去世时留下了一篇长文，题为“哲学自传”，在他去世后出版。它的开头令人印象深刻：
 
 > 不久前，我做了一个奇怪的梦，或者说是半醒的幻觉。我发现自己站在雾中的山顶，对自己感到非常满意，不仅仅是因为爬上了山，而且还因为实现了我一生的抱负，即找到一种理性回答道德问题的方法。但就在我为这一成就而自鸣得意时，雾开始消散，我看到自己被山顶上所有其他哲学家的坟墓所包围，无论他们是伟大的还是渺小的，他们都有着同样的抱负，并认为他们已经实现了它。回想起我的梦，我开始明白，自那时起，勤奋的哲学蠕虫一直在啃食他们的体系，并显示这一成就是一个幻觉。（2002: 269）
 
 然而，他的想象力也可以不那么谦虚：一群道德哲学家被困在充满烟雾的地下室里；他们互相交谈，拒绝采纳他独自发现的通往户外的出路。他的抱负是以逻辑一致的方式将亚里士多德、康德和密尔的元素结合起来，解决伦理学的基本问题（尽管还有未完成的工作），他通常相信自己已经做到了。在他的职业生涯中的大部分时间里，他的“规范主义”在课程中占据重要地位，至少在英国是如此。他的失望在于未能说服他人（偶尔的“我们规范主义者”总是指向不确定），并且没有留下门徒；他曾告诉约翰·卢卡斯，这使他的一生成为失败。然而，他留下了一代又一代感激的学生，他们感激的不是一种教条，而是一种纪律；后人虽然不太可能认可他理论的逻辑有效性，但会因其统一表面上的对立，自由与理性、传统与理性主义、折衷主义与严谨性而钦佩他。
-
- 
 
 ***
 
@@ -152,7 +150,7 @@ _首次发表于2014年6月4日星期三；实质性修订于2019年5月10日星
 
 这个论点引起了几乎和关注一样多的怀疑。似乎不太可能，指定普遍性地应该使一个说话者承担一个实质性的伦理立场，更不用说如此独特的立场了。然而，理查德·麦尔文·黑尔的立场逻辑在他的第三本书《道德思维：其层次、方法和要点》（1981年）中变得明晰。在那里，他阐述如下。在思考是否应该同意陈述“某人应该φ”时，说话者必须反思自己是否可以规定每个人都应该以相同的方式行动，无论他自己的情况如何。“我”并不暗示任何本质（例如，人类）：我们每个人可能是任何事物，因此，在为所有情况（实际或可能的）制定规范时，必须代表每个人关心。此外，“我”的含义还有一个规定性方面：将一个角色视为可能是自己的角色，并为该可能情况制定规范，就是要权衡那个角色的占有者的偏好，就好像它们实际上是自己的偏好一样。因此，说话者只有在某个普遍原则可以推导出他将接受的情况下，才能理性地同意特定的“应该”陈述，如果他对所有受其遵守影响的偏好给予公正和积极的重视。因此，道德反思产生了一种普遍化的谨慎。在这个框架内，道德理想仅仅是普遍偏好；让自己的理想取代他人更强烈或更普遍的欲望或理想是一种自我主义，因此被排除在外。然而，人类的决定仍然是自由的，无论多么理性和知情，因为任何人都可以通过拒绝道德化来避开道德的约束；因此，仍然是真实的，没有“是”蕴含着“应该”。
 
-This is an extraordinary, and extraordinarily bold, intellectual construction, which invites debate at many points. Zeno Vendler (1988: 181) urged that we keep apart the semantic thesis (which may be true or nearly true) that “I” is a pure indexical, from any metaphysical claim (which may baffle us) that it denotes a pure subject which can take on _any_ state or role. In his reply, Hare clearly shies away from adopting a metaphysical position stranger than Vendler’s own (which rejects Cartesian egos but does admit a transcendental ego). Yet he still supposes it to be true that “I might be Napoleon”, and that “the world in which I was Napoleon would be a different world than this, though not in its universal properties” (1988a: 285). He even supposes that I can consider situations in which I am a stove, a mountain, or a tree—although, since I cannot care what happens to me if I become such a thing, the consideration is idle (1988a: 283). Hare seems here to have entered rather unexpected territory. It would have suited his usual common sense to permit me to imagine not _that I am_ Napoleon, but _being_ Napoleon, i.e., what it was like to be Napoleon; and that can suffice to incline one to ambivalence about the outcome of Waterloo. But he requires there to be a possible situation in which I am, at any rate, relevantly _just like_ Napoleon if he is to maintain that prescribing, say, “All men like Napoleon should receive their come-uppance” applies even _to oneself_, and so may be imprudent.
+This is an extraordinary, and extraordinarily bold, intellectual construction, which invites debate at many points. Zeno Vendler (1988: 181) urged that we keep apart the semantic thesis (which may be true or nearly true) that “I” is a pure indexical, from any metaphysical claim (which may baffle us) that it denotes a pure subject which can take on *any* state or role. In his reply, Hare clearly shies away from adopting a metaphysical position stranger than Vendler’s own (which rejects Cartesian egos but does admit a transcendental ego). Yet he still supposes it to be true that “I might be Napoleon”, and that “the world in which I was Napoleon would be a different world than this, though not in its universal properties” (1988a: 285). He even supposes that I can consider situations in which I am a stove, a mountain, or a tree—although, since I cannot care what happens to me if I become such a thing, the consideration is idle (1988a: 283). Hare seems here to have entered rather unexpected territory. It would have suited his usual common sense to permit me to imagine not *that I am* Napoleon, but *being* Napoleon, i.e., what it was like to be Napoleon; and that can suffice to incline one to ambivalence about the outcome of Waterloo. But he requires there to be a possible situation in which I am, at any rate, relevantly *just like* Napoleon if he is to maintain that prescribing, say, “All men like Napoleon should receive their come-uppance” applies even *to oneself*, and so may be imprudent.
 
 从陈述句中推导出一种命令的危险仍然存在。毫无疑问，拿破仑非常希望赢得这场战斗。对这一事实的认识是否意味着我要在反事实的假设下，即我是拿破仑，规定拿破仑必须获胜？在这里，理查德·麦尔文·黑尔进一步利用了他的论点，即“我”的含义在一定程度上是规范性的：假设“如果我是拿破仑”已经意味着“与他的规定产生共鸣”，即规定，其他条件相等的情况下，在假设范围内得到满足（1981 年：96-9）。
 
@@ -194,7 +192,7 @@ This is an extraordinary, and extraordinarily bold, intellectual construction, w
 
 However, it must remain a problem that, precisely to the extent that intuitive thinking can draw upon conceptions of its own, a clear-eyed intuitive thinking that does not occlude the judgments of critical thinking must be as problematic for Hare as a clear-eyed acrasia that unites conscious and voluntary infringement of a prescription with continued acceptance of it. Force still attaches to an objection by Williams (1988: 190):
 
-> The theory ignores the fact that the responses are not merely a black-box mechanism to generate what is probably the best outcome under confusing conditions. Rather, they constitute a way of seeing the situation; and you cannot combine seeing the situation in that way, _from_ the point of view of those dispositions, with seeing it in the archangel’s way, in which all that is important is maximum preference satisfaction, and the dispositions themselves are merely a means to that.
+> The theory ignores the fact that the responses are not merely a black-box mechanism to generate what is probably the best outcome under confusing conditions. Rather, they constitute a way of seeing the situation; and you cannot combine seeing the situation in that way, *from* the point of view of those dispositions, with seeing it in the archangel’s way, in which all that is important is maximum preference satisfaction, and the dispositions themselves are merely a means to that.
 
 ## 8. Traces of Positivism in Religion and Metaethics
 
@@ -257,99 +255,99 @@ Within meta-ethics, however, Hare was inclined to suppose that such variations f
 * unpublished (early 1940s), “An Essay in Monism”, Balliol College Archive. (I quote from the typescript, within which chs 1–12 are numbered in type pp. 1–120, after which a new pagination starts in pencil.)
 * unpublished (1949–50), “Moral Objectivity”, Balliol College Archive.
 * unpublished (1950), “Practical Reason”, Balliol College Archive.
-* 1949, “Imperative Sentences”, _Mind_, 58: 21–39; reprinted in Hare 1971a: 1–21.
-* 1950/1, “Theology and Falsification”, _University_, 1 (Winter); reprinted in 1992a: 37–9 (page-reference in text to reprint).
-* 1952, _The Language of Morals_, Oxford: Clarendon Press.
-* 1954/5, “Universalizability”, _Proceedings of the Aristotelian Society_, 55: 295–312; reprinted in Hare 1972b: 13–28.
-* 1955, “Ethics and Politics”, _The Listener_, 54 (13 October): 593–4; 55 (20 October): 651–2; the first installment was reprinted as “Can I Be Blamed for Obeying Orders?”, Hare 1972a: 1–8.
-* 1957, “Geach: Good and Evil”, _Analysis_, 18: 103–12.
-* 1959, “Nothing Matters”, published in French in _La Philosophie Analytique_, Paris: Les Éditions de Minuit; reprinted in English in 1972a: 32–47.
-* 1963, _Freedom and Reason_, Oxford: Clarendon Press.
-* 1964, “A Question about Plato’s Theory of Ideas”, in M. Bunge (ed.), _The Critical Approach, Essays in Honor of Karl Popper_, Glencoe IL: Free Press of Glencoe; reprinted in 1971b: 54–79 (page-reference in text to reprint).
-* 1967, “Some Alleged Differences between Indicatives and Imperatives”, _Mind_, 76: 309–26; reprinted in Hare 1971a: 25–43 (page-reference in text to reprint).
-* 1968, “Wanting, Some Pitfalls”, in R. Binkley (ed.), _Agent, Action and Reason_ (Proceedings of the University of Western Ontario Colloquium); reprinted in Hare 1971a: 44–58.
-* 1969, “Practical Inferences”, in V. Kruse (ed.), _Festskrift til Alf Ross_, Copenhagen: Juristvorbundets Vorlag; reprinted in Hare 1971a: 59–73 (page-reference in text to reprint).
-* 1970, “Meaning and Speech Acts”, _Philosophical Review_, 79: 3–24; reprinted in Hare 1971a: 74–93.
-* 1971a, _Practical Inferences_, London: Macmillan.
-* 1971b, _Essays on Philosophical Method_, London: Macmillan.
-* 1972a, _Applications of Moral Philosophy_, London: Macmillan.
-* 1972b, _Essays on the Moral Concepts_, London: Macmillan.
+* 1949, “Imperative Sentences”, *Mind*, 58: 21–39; reprinted in Hare 1971a: 1–21.
+* 1950/1, “Theology and Falsification”, *University*, 1 (Winter); reprinted in 1992a: 37–9 (page-reference in text to reprint).
+* 1952, *The Language of Morals*, Oxford: Clarendon Press.
+* 1954/5, “Universalizability”, *Proceedings of the Aristotelian Society*, 55: 295–312; reprinted in Hare 1972b: 13–28.
+* 1955, “Ethics and Politics”, *The Listener*, 54 (13 October): 593–4; 55 (20 October): 651–2; the first installment was reprinted as “Can I Be Blamed for Obeying Orders?”, Hare 1972a: 1–8.
+* 1957, “Geach: Good and Evil”, *Analysis*, 18: 103–12.
+* 1959, “Nothing Matters”, published in French in *La Philosophie Analytique*, Paris: Les Éditions de Minuit; reprinted in English in 1972a: 32–47.
+* 1963, *Freedom and Reason*, Oxford: Clarendon Press.
+* 1964, “A Question about Plato’s Theory of Ideas”, in M. Bunge (ed.), *The Critical Approach, Essays in Honor of Karl Popper*, Glencoe IL: Free Press of Glencoe; reprinted in 1971b: 54–79 (page-reference in text to reprint).
+* 1967, “Some Alleged Differences between Indicatives and Imperatives”, *Mind*, 76: 309–26; reprinted in Hare 1971a: 25–43 (page-reference in text to reprint).
+* 1968, “Wanting, Some Pitfalls”, in R. Binkley (ed.), *Agent, Action and Reason* (Proceedings of the University of Western Ontario Colloquium); reprinted in Hare 1971a: 44–58.
+* 1969, “Practical Inferences”, in V. Kruse (ed.), *Festskrift til Alf Ross*, Copenhagen: Juristvorbundets Vorlag; reprinted in Hare 1971a: 59–73 (page-reference in text to reprint).
+* 1970, “Meaning and Speech Acts”, *Philosophical Review*, 79: 3–24; reprinted in Hare 1971a: 74–93.
+* 1971a, *Practical Inferences*, London: Macmillan.
+* 1971b, *Essays on Philosophical Method*, London: Macmillan.
+* 1972a, *Applications of Moral Philosophy*, London: Macmillan.
+* 1972b, *Essays on the Moral Concepts*, London: Macmillan.
 * 1972c, “Wrongness and Harm”, in 1972b: 92–109.
-* 1973, “The Simple Believer”, in G. Outka & J.P. Reeder (eds), _Religion and Morality_, New York: Anchor Press; reprinted in 1992a: 1–36 (page-reference in text to reprint).
-* 1975, “Abortion and the Golden Rule”, _Philosophy and Public Affairs_, 4: 201–22; reprinted in 1993a: 147–67.
-* 1976, “Ethical Theory and Utilitarianism”, in H.D. Lewis (ed.), _Contemporary British Philosophy 4th Series,_ London: Allen & Unwin; reprinted in 1989a: 212–30.
-* 1978, “Relevance”, in A.I. Goldman & J. Kim (eds), _Values and Morals_, Dordrecht: Reidel; reprinted (with second thoughts) in Hare 1989a: 191–211.
-* 1981, _Moral Thinking: Its Levels, Method and Point_, Oxford: Clarendon Press.
-* 1982, _Plato_, Oxford: Oxford University Press.
-* 1985, “Ontology in Ethics”, in T. Honderich (ed.), _Morality and Objectivity: A Tribute to J.L. Mackie_, London: Routledge; reprinted in 1989a: 82–98.
+* 1973, “The Simple Believer”, in G. Outka & J.P. Reeder (eds), *Religion and Morality*, New York: Anchor Press; reprinted in 1992a: 1–36 (page-reference in text to reprint).
+* 1975, “Abortion and the Golden Rule”, *Philosophy and Public Affairs*, 4: 201–22; reprinted in 1993a: 147–67.
+* 1976, “Ethical Theory and Utilitarianism”, in H.D. Lewis (ed.), *Contemporary British Philosophy 4th Series,* London: Allen & Unwin; reprinted in 1989a: 212–30.
+* 1978, “Relevance”, in A.I. Goldman & J. Kim (eds), *Values and Morals*, Dordrecht: Reidel; reprinted (with second thoughts) in Hare 1989a: 191–211.
+* 1981, *Moral Thinking: Its Levels, Method and Point*, Oxford: Clarendon Press.
+* 1982, *Plato*, Oxford: Oxford University Press.
+* 1985, “Ontology in Ethics”, in T. Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge; reprinted in 1989a: 82–98.
 * 1988a, “Comments”, in Seanor & Fotion (eds) 1988: 199–293.
-* 1988b, “When does Potentiality Count?”, _Bioethics_, 2: 214–26; reprinted in Hare 1993a: 84–97.
-* 1988c, “A Kantian Approach to Abortion”, in M. Bayles & K. Henley (eds), _Right Conduct_, New York: Random House; reprinted in Hare 1993a: 168–84.
-* 1989a, _Essays in Ethical Theory_, Oxford: Clarendon Press.
-* 1989b, _Essays on Political Morality_, Oxford: Clarendon Press.
-* 1989c, “Some Sub-Atomic Particles of Logic”, _Mind_, 98: 23–37; reprinted in Hare 1999: 28–42.
-* 1992a, _Essays on Religion and Education_, Oxford: Clarendon Press.
-* 1992b, “Weakness of the Will”, in L. Becker (ed.), _Encyclopedia of Ethics_, New York: Garland; reprinted in Hare 1999: 109–14.
-* 1993a, _Essays on Bioethics_, Oxford: Clarendon Press.
-* 1993b, “Could Kant have been a Utilitarian?”, _Utilitas_, 5: 1–16; revised in 1997a: 147–65.
-* 1997a, _Sorting Out Ethics_, Oxford: Clarendon Press.
-* 1997b, “Preferences of Possible People”, in C. Fehige & U. Wessels (eds), _Preferences_, Berlin: De Gruyter; reprinted in Hare 1999: 126–31.
-* 1998, “Prescriptivism”, in E. Craig (ed.) _The Routledge Encyclopedia of Philosophy_,London: Routledge; reprinted in Hare 1999: 19–27 (page-reference in text to reprint).
-* 1999, _Objective Prescriptions and Other Essays_, Oxford: Clarendon Press.
-* 2002, “A Philosophical Autobiography”, _Utilitas_, 14: 269–305.
+* 1988b, “When does Potentiality Count?”, *Bioethics*, 2: 214–26; reprinted in Hare 1993a: 84–97.
+* 1988c, “A Kantian Approach to Abortion”, in M. Bayles & K. Henley (eds), *Right Conduct*, New York: Random House; reprinted in Hare 1993a: 168–84.
+* 1989a, *Essays in Ethical Theory*, Oxford: Clarendon Press.
+* 1989b, *Essays on Political Morality*, Oxford: Clarendon Press.
+* 1989c, “Some Sub-Atomic Particles of Logic”, *Mind*, 98: 23–37; reprinted in Hare 1999: 28–42.
+* 1992a, *Essays on Religion and Education*, Oxford: Clarendon Press.
+* 1992b, “Weakness of the Will”, in L. Becker (ed.), *Encyclopedia of Ethics*, New York: Garland; reprinted in Hare 1999: 109–14.
+* 1993a, *Essays on Bioethics*, Oxford: Clarendon Press.
+* 1993b, “Could Kant have been a Utilitarian?”, *Utilitas*, 5: 1–16; revised in 1997a: 147–65.
+* 1997a, *Sorting Out Ethics*, Oxford: Clarendon Press.
+* 1997b, “Preferences of Possible People”, in C. Fehige & U. Wessels (eds), *Preferences*, Berlin: De Gruyter; reprinted in Hare 1999: 126–31.
+* 1998, “Prescriptivism”, in E. Craig (ed.) *The Routledge Encyclopedia of Philosophy*,London: Routledge; reprinted in Hare 1999: 19–27 (page-reference in text to reprint).
+* 1999, *Objective Prescriptions and Other Essays*, Oxford: Clarendon Press.
+* 2002, “A Philosophical Autobiography”, *Utilitas*, 14: 269–305.
 
 ### Secondary and Other Literature
 
-* Adu-Amankwah, P.A., 1997, _The Moral Philosophy of R.M. Hare: A Vindication of Utilitarianism?_, New York: Peter Lang.
-* Alwood, A., 2010, “Imperative Clauses and the Frege–Geach Problem”, _Analysis_, 70: 105–17.
-* Biesenbach, H., 1982, _Zur Logik der moralischen Argumentation: Die Theorie Richard M. Hares und die Entwicklung der analytischen Ethik_, Düsseldorf: Patmos Verlag.
-* Brandt, R.B., 1979, _A Theory of the Good and the Right_, Oxford: Oxford University Press.
-* Eggers, D., 2016, “Nothing New in Ecumenia? Hare, Hybrid Expressivism and de Dicto Beliefs”, _Ethical Theory and Moral Practice_, 19: 831–47.
-* Eriksson J., 2009, “Homage to Hare: Ecumenism and the Frege-Geach Problem”, _Ethics_, 120: 8–35.
-* –––, 2015, “Hybrid Expressivism”, in M. Ridge & G. Fletcher eds, _Having it Both Ways: Hybrid Theories and Modern Metaethics_, Oxford: Oxford University Press, 149–70.
-* Fehige, C. & U. Wessels (eds), 1998, _Preferences_, Berlin: De Gruyter.
-* Foot, P., 1978, _Virtues and Vices and Other Essays in Moral Philosophy_, Oxford: Basil Blackwell; reprinted in 2002, Oxford: Clarendon Press.
-* –––, 2001, _Natural Goodness_, Oxford: Clarendon Press.
-* Forschler, S., 2013, “Kantian and Consequentialist Ethics: The Gap Can Be Bridged”, _Metaphilosophy_, 44: 88–104.
-* Geach, P.T., 1956, “Good and Evil”, _Analysis_, 17: 33–42.
-* –––, 1965, “Assertion”, _Philosophical Review_, 74: 449–65; reprinted in his _Logic Matters_, Oxford: Basil Blackwell, 1972: 254–69.
-* Hallich, O., 2000, _Richard Hares Moralphilosophie_, Freiburg/München: Alber Verlag.
-* Hare, J.E., 2002, “A Memorial Address”, _Utilitas_, 14: 306–8.
-* –––, 2007, _God and Morality_, Oxford: Blackwell.
-* Hudson, W.D., 1983, _Modern Moral Philosophy_, 2nd edn, London: Macmillan.
-* Hunt, L., 1999, “Flourishing Egoism”, _Social Philosophy and Policy_, 16: 72–95.
-* Ibberson, J., 1986, _The Language of Decision: An Essay in Prescriptivist Ethical Theory_, London: Macmillan.
-* Irwin, T., 2009, _The Development of Ethics: A Historical and Critical Study_ (Volume III: From Kant to Rawls), Oxford: Oxford University Press.
-* Kalokairinou, E.M., 2011, _From Meta-Ethics to Ethics: An Overview of R.M. Hare’s Moral Philosophy_, Frankfurt am Main: Peter Lang.
-* Kenny, A., 1966, “Practical Inference”, _Analysis_, 26: 65–75.
-* –––, 1975, _Will, Freedom and Power_, Oxford: Basil Blackwell.
-* Lucas, J.R., 2002, Obituary of R.M. Hare, _Balliol Annual Record_: 30–2.
-* Lucien, P., 1976, _Empirisme, logique et langage religieux: Trois approches anglo-saxonnes contemporaines: R.B. Braithwaite, R.M. Hare, I.T. Ramsey_, Montreal: Bellarmin.
-* MacKay, A.F., 1969, “Inferential Validity and Imperative Inference Rules”, _Analysis_, 29: 145–56.
-* Mackie, J.L., 1977, _Ethics, Inventing Right and Wrong_, Harmondsworth: Penguin.
-* –––, 1985, _Persons and Values: Selected Papers Volume II_, Oxford: Oxford University Press.
-* Mehta, V., 1962, _Fly and the Fly-Bottle: Encounters with British Intellectuals_, London: Weidenfeld & Nicolson.
-* Murdoch, I., 1956, “Vision and Choice in Morality”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 30: 32–58.
-* Price, A.W., 2004a, “Richard Mervyn Hare, 1919–2002”, _Proceedings of the British Academy_, 124: 117–37.
-* –––, 2004b, “On the so-called Logic of Practical Inference”, in A. O’Hear (ed.), _Modern Moral Philosophy_, _Philosophy_, Supplement 54: 119–40.
-* –––, 2005, “Hare, Richard Mervyn”, in _Oxford Dictionary of National Biography._
-* –––, 2008, _Contextuality in Practical Reason_, Oxford: Clarendon Press.
-* Ridge, M., 2006, “Ecumenical Expressivism: Finessing Frege”, _Ethics_, 116: 302–36.
-* Rønnow-Rasmussen, T., 1993, _Logic, Facts and Representation: An Examination of R.M. Hare’s Philosophy_, Lund: Lund University Press.
-* Ryle, G., 1950, “If, So, and Because”, in M. Black (ed.), _Philosophical Analysis_, Cornell: Cornell University Press; reprinted in _Collected Papers_ (Volume 2), London: Hutchinson, 1971, 234–49.
-* Seanor, D. & Fotion, N. (eds), 1988, _Hare and Critics: Essays on Moral Thinking_, Oxford: Clarendon Press; contributions by D. Seanor & N. Fotion, W.D. Hudson, R.B. Brandt, W.K. Frankena, A. Gibbard, J. Griffin, J.C. Harsanyi, T. Nagel, D.A.J. Richards, T.M. Scanlon, P. Singer, J.O. Urmson, Z. Vendler, B. Williams.
-* Shibasaki, F., 1994, _Formalismus und Fanatismus: Eine Untersuchung zur Moralphilosophie R.M. Hares_, Sydney: Kovac.
-* Singer, P., 2002, “R.M. Hare’s Achievements in Moral Philosophy”, _Utilitas_, 14: 309–17.
-* Smart, J.J.C. & Williams, B., 1983, _Utilitarianism, For and Against_, Cambridge: Cambridge University Press.
-* Smith, M., 2001, “Some Not-Much Discussed Problems for Non-Cognitivism in Ethics”, _Ratio_, 4: 93–115.
-* Timmermann, J., 2005, “Why Kant Could Not Have Been a Utilitarian”, _Utilitas_, 17: 243–64.
-* Varner, G.E., 2012, _Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism_, Oxford: Oxford University Press.
+* Adu-Amankwah, P.A., 1997, *The Moral Philosophy of R.M. Hare: A Vindication of Utilitarianism?*, New York: Peter Lang.
+* Alwood, A., 2010, “Imperative Clauses and the Frege–Geach Problem”, *Analysis*, 70: 105–17.
+* Biesenbach, H., 1982, *Zur Logik der moralischen Argumentation: Die Theorie Richard M. Hares und die Entwicklung der analytischen Ethik*, Düsseldorf: Patmos Verlag.
+* Brandt, R.B., 1979, *A Theory of the Good and the Right*, Oxford: Oxford University Press.
+* Eggers, D., 2016, “Nothing New in Ecumenia? Hare, Hybrid Expressivism and de Dicto Beliefs”, *Ethical Theory and Moral Practice*, 19: 831–47.
+* Eriksson J., 2009, “Homage to Hare: Ecumenism and the Frege-Geach Problem”, *Ethics*, 120: 8–35.
+* –––, 2015, “Hybrid Expressivism”, in M. Ridge & G. Fletcher eds, *Having it Both Ways: Hybrid Theories and Modern Metaethics*, Oxford: Oxford University Press, 149–70.
+* Fehige, C. & U. Wessels (eds), 1998, *Preferences*, Berlin: De Gruyter.
+* Foot, P., 1978, *Virtues and Vices and Other Essays in Moral Philosophy*, Oxford: Basil Blackwell; reprinted in 2002, Oxford: Clarendon Press.
+* –––, 2001, *Natural Goodness*, Oxford: Clarendon Press.
+* Forschler, S., 2013, “Kantian and Consequentialist Ethics: The Gap Can Be Bridged”, *Metaphilosophy*, 44: 88–104.
+* Geach, P.T., 1956, “Good and Evil”, *Analysis*, 17: 33–42.
+* –––, 1965, “Assertion”, *Philosophical Review*, 74: 449–65; reprinted in his *Logic Matters*, Oxford: Basil Blackwell, 1972: 254–69.
+* Hallich, O., 2000, *Richard Hares Moralphilosophie*, Freiburg/München: Alber Verlag.
+* Hare, J.E., 2002, “A Memorial Address”, *Utilitas*, 14: 306–8.
+* –––, 2007, *God and Morality*, Oxford: Blackwell.
+* Hudson, W.D., 1983, *Modern Moral Philosophy*, 2nd edn, London: Macmillan.
+* Hunt, L., 1999, “Flourishing Egoism”, *Social Philosophy and Policy*, 16: 72–95.
+* Ibberson, J., 1986, *The Language of Decision: An Essay in Prescriptivist Ethical Theory*, London: Macmillan.
+* Irwin, T., 2009, *The Development of Ethics: A Historical and Critical Study* (Volume III: From Kant to Rawls), Oxford: Oxford University Press.
+* Kalokairinou, E.M., 2011, *From Meta-Ethics to Ethics: An Overview of R.M. Hare’s Moral Philosophy*, Frankfurt am Main: Peter Lang.
+* Kenny, A., 1966, “Practical Inference”, *Analysis*, 26: 65–75.
+* –––, 1975, *Will, Freedom and Power*, Oxford: Basil Blackwell.
+* Lucas, J.R., 2002, Obituary of R.M. Hare, *Balliol Annual Record*: 30–2.
+* Lucien, P., 1976, *Empirisme, logique et langage religieux: Trois approches anglo-saxonnes contemporaines: R.B. Braithwaite, R.M. Hare, I.T. Ramsey*, Montreal: Bellarmin.
+* MacKay, A.F., 1969, “Inferential Validity and Imperative Inference Rules”, *Analysis*, 29: 145–56.
+* Mackie, J.L., 1977, *Ethics, Inventing Right and Wrong*, Harmondsworth: Penguin.
+* –––, 1985, *Persons and Values: Selected Papers Volume II*, Oxford: Oxford University Press.
+* Mehta, V., 1962, *Fly and the Fly-Bottle: Encounters with British Intellectuals*, London: Weidenfeld & Nicolson.
+* Murdoch, I., 1956, “Vision and Choice in Morality”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 30: 32–58.
+* Price, A.W., 2004a, “Richard Mervyn Hare, 1919–2002”, *Proceedings of the British Academy*, 124: 117–37.
+* –––, 2004b, “On the so-called Logic of Practical Inference”, in A. O’Hear (ed.), *Modern Moral Philosophy*, *Philosophy*, Supplement 54: 119–40.
+* –––, 2005, “Hare, Richard Mervyn”, in *Oxford Dictionary of National Biography.*
+* –––, 2008, *Contextuality in Practical Reason*, Oxford: Clarendon Press.
+* Ridge, M., 2006, “Ecumenical Expressivism: Finessing Frege”, *Ethics*, 116: 302–36.
+* Rønnow-Rasmussen, T., 1993, *Logic, Facts and Representation: An Examination of R.M. Hare’s Philosophy*, Lund: Lund University Press.
+* Ryle, G., 1950, “If, So, and Because”, in M. Black (ed.), *Philosophical Analysis*, Cornell: Cornell University Press; reprinted in *Collected Papers* (Volume 2), London: Hutchinson, 1971, 234–49.
+* Seanor, D. & Fotion, N. (eds), 1988, *Hare and Critics: Essays on Moral Thinking*, Oxford: Clarendon Press; contributions by D. Seanor & N. Fotion, W.D. Hudson, R.B. Brandt, W.K. Frankena, A. Gibbard, J. Griffin, J.C. Harsanyi, T. Nagel, D.A.J. Richards, T.M. Scanlon, P. Singer, J.O. Urmson, Z. Vendler, B. Williams.
+* Shibasaki, F., 1994, *Formalismus und Fanatismus: Eine Untersuchung zur Moralphilosophie R.M. Hares*, Sydney: Kovac.
+* Singer, P., 2002, “R.M. Hare’s Achievements in Moral Philosophy”, *Utilitas*, 14: 309–17.
+* Smart, J.J.C. & Williams, B., 1983, *Utilitarianism, For and Against*, Cambridge: Cambridge University Press.
+* Smith, M., 2001, “Some Not-Much Discussed Problems for Non-Cognitivism in Ethics”, *Ratio*, 4: 93–115.
+* Timmermann, J., 2005, “Why Kant Could Not Have Been a Utilitarian”, *Utilitas*, 17: 243–64.
+* Varner, G.E., 2012, *Personhood, Ethics, and Animal Cognition: Situating Animals in Hare’s Two Level Utilitarianism*, Oxford: Oxford University Press.
 * Vendler, Z., 1988, “Changing Places?”, in Seanor & Fotion (eds): 171–83.
-* Warnock, G.J., 1967, _Contemporary Moral Philosophy_, London: Macmillan.
-* Wiggins, D., 2009, _Ethics: Twelve Lectures on the Philosophy of Morality_, Cambridge MA: Harvard University Press.
-* Williams, B., 1962/3, “Imperative Inference”, _Analysis_, suppl. 23: 30–6.
+* Warnock, G.J., 1967, *Contemporary Moral Philosophy*, London: Macmillan.
+* Wiggins, D., 2009, *Ethics: Twelve Lectures on the Philosophy of Morality*, Cambridge MA: Harvard University Press.
+* Williams, B., 1962/3, “Imperative Inference”, *Analysis*, suppl. 23: 30–6.
 * –––, 1988, “The Structure of Hare’s Theory”, in Seanor & Fotion (eds): 185–96.
-* Wym, K.D., 2005, _Crucible of Reason: Intentional Action, Practical Rationality, and Weakness of Will_, Lanham MD: Rowman & Littlefield.
+* Wym, K.D., 2005, *Crucible of Reason: Intentional Action, Practical Rationality, and Weakness of Will*, Lanham MD: Rowman & Littlefield.
 
 ## Academic Tools
 
@@ -372,4 +370,4 @@ Within meta-ethics, however, Hare was inclined to suppose that such variations f
 With the kind permission of the British Academy, this present piece abbreviates the biographical, and extends the philosophical, parts of Price 2004a. I am grateful to John Hare for permission to use and copy unpublished material from the Balliol College Archive.
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Anthony Price](http://www.bbk.ac.uk/philosophy/our-staff/academics/price) <[_a.price@bbk.ac.uk_](mailto:a%2eprice%40bbk%2eac%2euk)>
+[Anthony Price](http://www.bbk.ac.uk/philosophy/our-staff/academics/price) <[*a.price@bbk.ac.uk*](mailto:a%2eprice%40bbk%2eac%2euk)>

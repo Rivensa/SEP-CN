@@ -1,6 +1,6 @@
 # 存在 existence (Michael Nelson)
 
-_首次发表于 2012 年 10 月 10 日星期三；实质性修订于 2020 年 5 月 5 日星期二_
+*首次发表于 2012 年 10 月 10 日星期三；实质性修订于 2020 年 5 月 5 日星期二*
 
 存在在形而上学、语言哲学和哲学逻辑中引发了深刻而重要的问题。许多问题可以围绕以下两个问题展开：存在是否是个体的属性？假设存在是个体的属性，是否存在缺乏存在的个体？
 
@@ -15,7 +15,6 @@ _首次发表于 2012 年 10 月 10 日星期三；实质性修订于 2020 年 5
 存在不是个体的属性这一观点在 20 世纪初成为共识。虽然亚里士多德、休谟和康德关于这一命题的相关理由说服了一些人，但这种一致背后的主要力量是思想，最有力地发展在\[Russell 1905b]中，即否认存在是一阶属性是避免存在不存在的后果的唯一途径，从而存在和存在之间存在区别，这是我们上面提到的第二个框架问题。奥地利哲学家阿列克修斯·迈农持有存在不是个体的真正属性，但不是普遍的观点。虽然有许多激励迈农主义的方法，主要动机之一是负面单数存在的难题——似乎真实断言个体的不存在的句子，比如“让·巴普蒂斯特·博图尔不存在”。看起来，为了是真实的，主语位置必须指定某个确实断言不存在的实体，这样就有了事物——这些单数术语的指定——不存在。相比之下，弗雷格和罗素认为，这些句子表明这些表达根本不是真正的单数术语，负面存在句都有一个一般形式，即断言某个属性的非实例化。
 
 以下部分讨论了弗雷格（Frege）和罗素（Russell）对真负存在性的观点。第二部分讨论了迈农学派（Meinongianism），比较了迈农学派提供的真负存在性观点与第一部分讨论的罗素观点。文章最后讨论了一种反迈农学派的观点，根据该观点，存在是个体的普遍属性，并讨论了在量化时态和情态逻辑背景下存在相关问题。
-
 
 ***
 
@@ -103,120 +102,120 @@ Linsky 和 Zalta 的观点意味着具体性是一种偶然属性，即实际上
 
 ## Bibliography
 
-* Adams, R., 1981, “Actualism and Thisness,” _Synthese_, 49: 3–41.
-* Aquinas, T., _On Being and Essence_, Armand Maurer (trans.), Toronto: Pontifical Institute Medieval Studies, 1968.
-* Bach, K., 1981, “What’s in a Name,” _Australasian Journal of Philosophy_, 59: 371–386.
-* –––, 2002, “Giorgione was So-Called Because of His Name,” _Philosophical Perspectives_, 16: 73–103.
-* Barz, W., 2016, “Two-Dimensional Modal Meinongianism,” _Ratio_, 29: 249–267.
-* Berto, F., 2012, _Existence as a Real Property_, Dordrecht: Springer.
-* Berto, F. and Priest, G., 2014, “Modal Meinongianism and Characterization: Reply to Kroon,” _Grazer Philosophische Studien_, 90: 183–200.
-* Black, M., 1952, “The Identity of Indiscernibles,” _Mind_, 61: 153–164.
-* Braun, D., 1993, “Empty Names,” _Noûs_, 27: 449–469.
-* –––, 2005, “Empty Names, Fictional Names, Mythical Names,” _Noûs_, 39: 596–631.
-* Castañeda, H-N., 1974, “Thinking and the Structure of the World,” _Philosophia_, 4: 3–40.
-* –––, 1975, “Individuation and Non-Identity: A New Look,” _American Philosophical Quarterly_, 12: 131–140.
-* –––, 1978, “Philosophical Method and the Theory of Predication and Identity,” _Noûs_, 12: 189–210.
-* –––, 1980, “Some Reflexions on Existence,” _Philosophical Exchange_, 3: 21–40.
-* –––, 1986, “Objects, Existence, and Reference: A Prolegomenon to Guise Theory,” in R. Haller (ed.), _Non-Existence and Predication_, Amsterdam: Rodopi, 3–60.
-* –––, 1989. _Thinking, Language, and Experience_, Minneapolis: University of Minnesota Press.
-* –––, 1990, “Fiction, Perception, and Forms of Predication,” in K. Jacobi and H. Pape (eds.), _Thinking and the Structure of the World_, Berlin: de Gruyter, 268–84.
-* Crane, T., 2012, “What is the Problem of Non-Existence?”, _Philosophia_, 40: 417–434.
+* Adams, R., 1981, “Actualism and Thisness,” *Synthese*, 49: 3–41.
+* Aquinas, T., *On Being and Essence*, Armand Maurer (trans.), Toronto: Pontifical Institute Medieval Studies, 1968.
+* Bach, K., 1981, “What’s in a Name,” *Australasian Journal of Philosophy*, 59: 371–386.
+* –––, 2002, “Giorgione was So-Called Because of His Name,” *Philosophical Perspectives*, 16: 73–103.
+* Barz, W., 2016, “Two-Dimensional Modal Meinongianism,” *Ratio*, 29: 249–267.
+* Berto, F., 2012, *Existence as a Real Property*, Dordrecht: Springer.
+* Berto, F. and Priest, G., 2014, “Modal Meinongianism and Characterization: Reply to Kroon,” *Grazer Philosophische Studien*, 90: 183–200.
+* Black, M., 1952, “The Identity of Indiscernibles,” *Mind*, 61: 153–164.
+* Braun, D., 1993, “Empty Names,” *Noûs*, 27: 449–469.
+* –––, 2005, “Empty Names, Fictional Names, Mythical Names,” *Noûs*, 39: 596–631.
+* Castañeda, H-N., 1974, “Thinking and the Structure of the World,” *Philosophia*, 4: 3–40.
+* –––, 1975, “Individuation and Non-Identity: A New Look,” *American Philosophical Quarterly*, 12: 131–140.
+* –––, 1978, “Philosophical Method and the Theory of Predication and Identity,” *Noûs*, 12: 189–210.
+* –––, 1980, “Some Reflexions on Existence,” *Philosophical Exchange*, 3: 21–40.
+* –––, 1986, “Objects, Existence, and Reference: A Prolegomenon to Guise Theory,” in R. Haller (ed.), *Non-Existence and Predication*, Amsterdam: Rodopi, 3–60.
+* –––, 1989. *Thinking, Language, and Experience*, Minneapolis: University of Minnesota Press.
+* –––, 1990, “Fiction, Perception, and Forms of Predication,” in K. Jacobi and H. Pape (eds.), *Thinking and the Structure of the World*, Berlin: de Gruyter, 268–84.
+* Crane, T., 2012, “What is the Problem of Non-Existence?”, *Philosophia*, 40: 417–434.
 * Dancy, R., 1986, “Aristotle and Existence,” in Knuuttilla & Hintikka 1986, pp. 49–80.
-* Findlay, J., 1963, _Meinong’s Theory of Objects and Values_, Oxford: Oxford University Press.
-* Fine, K., 1982, “The Problem of Non-Existents. I. Internalism,” _Topoi_, 1: 97–140.
-* –––, 1984, “Critical Review of Parsons’ _Nonexistent Objects_,” _Philosophical Studies_, 45: 94–142.
-* –––, 1985, “Plantinga on the Reduction of Possibilist Discourse,” in J. Tomberlin and P. van Inwagen (eds.), _Alvin Plantinga_, Dordrecht: Reidel, 145–186.
-* Fitch, G.W., 1996, “In Defense of Aristotelian Actualism,” _Philosophical Perspectives_, 10: 53–71.
-* Frege, G., 1884, _Die Grundlagen der Arithmetik_. English translation: J.L. Austin, _The Foundations of Arithmetic_, Oxford: Blackwell, second revised edition, 1974.
-* –––, 1892, “Über Sinn und Bedeutung,” _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50; translated by M. Black in P.T. Geach & M. Black (eds.), _Translations from the Philosophical Writings of Gottlob Frege_, Oxford: Blackwell, 1980, 56–78.
-* Geach, P. T., 1954–1955, “Form and Existence,” _Proceedings of the Aristotelian Society_, 55: 251–272; reprinted in his _God and the Soul_, London: Routledge & Kegan Paul, 1969, pp. 42–64
-* –––, 1968, “What Actually Exists,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 42: 7–16.
-* Goodman, J., 2016, “Williamson on Necessitism,” _Canadian Journal of Philosophy_, 465: 613–639.
-* Griffin, N., 1985–86, “Russell’s Critique of Meinong’s Theory of Objects,” in Rudolf Haller (ed.), _Non-Existence and Predication_, Amsterdam: Rodopi (= _Grazer Philosophische Studien_, Volumes 25/26), 375–401.
+* Findlay, J., 1963, *Meinong’s Theory of Objects and Values*, Oxford: Oxford University Press.
+* Fine, K., 1982, “The Problem of Non-Existents. I. Internalism,” *Topoi*, 1: 97–140.
+* –––, 1984, “Critical Review of Parsons’ *Nonexistent Objects*,” *Philosophical Studies*, 45: 94–142.
+* –––, 1985, “Plantinga on the Reduction of Possibilist Discourse,” in J. Tomberlin and P. van Inwagen (eds.), *Alvin Plantinga*, Dordrecht: Reidel, 145–186.
+* Fitch, G.W., 1996, “In Defense of Aristotelian Actualism,” *Philosophical Perspectives*, 10: 53–71.
+* Frege, G., 1884, *Die Grundlagen der Arithmetik*. English translation: J.L. Austin, *The Foundations of Arithmetic*, Oxford: Blackwell, second revised edition, 1974.
+* –––, 1892, “Über Sinn und Bedeutung,” *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50; translated by M. Black in P.T. Geach & M. Black (eds.), *Translations from the Philosophical Writings of Gottlob Frege*, Oxford: Blackwell, 1980, 56–78.
+* Geach, P. T., 1954–1955, “Form and Existence,” *Proceedings of the Aristotelian Society*, 55: 251–272; reprinted in his *God and the Soul*, London: Routledge & Kegan Paul, 1969, pp. 42–64
+* –––, 1968, “What Actually Exists,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 42: 7–16.
+* Goodman, J., 2016, “Williamson on Necessitism,” *Canadian Journal of Philosophy*, 465: 613–639.
+* Griffin, N., 1985–86, “Russell’s Critique of Meinong’s Theory of Objects,” in Rudolf Haller (ed.), *Non-Existence and Predication*, Amsterdam: Rodopi (= *Grazer Philosophische Studien*, Volumes 25/26), 375–401.
 * Haaparanta, L., 1986, “On Frege’s Concept of Being,” in Knuuttila & Hintikka 1986, pp. 269–290.
-* Hintikka, J., 1984, “Are There Nonexistent Objects? Why Not? But Where Are They?” _Synthese_, 60: 451–458.
+* Hintikka, J., 1984, “Are There Nonexistent Objects? Why Not? But Where Are They?” *Synthese*, 60: 451–458.
 * –––, 1986, “The Varieties of Being in Aristotle,” in Knuuttila & Hintikka 1986, pp. 81–114.
 * –––, 1986, “Kant, Existence, Predication and the Ontological Argument,” in Knuuttila & Hintikka 1986, pp. 249–268.
-* Hofweber, T., 2000, “Quantification and Non-Existent Objects,” in T. Hofweber & A. Everett (eds.), _Empty Names, Fiction, and the Puzzles of Non-Existence_, Stanford, CA: CSLI Publications.
-* Hume, D., 1951, _A Treatise of Human Nature_, L.A. Selby-Bigge (ed.), Oxford: Oxford University Press.
-* Jacquette, D., 1989, “Mally’s Heresy and the Logic of Meinong’s Object Theory,” _History and Philosophy of Logic_, 10: 1–14.
-* –––, 1996, _Meinongian Logic: the Semantics of Existence and Nonexistence_, Berlin and New York: de Gruyter.
-* Kant, I., 1929, _Critique of Pure Reason_, N. Kemp-Smith (ed.), London: Macmillan.
-* Kneale, W., 1936, “Is Existence a Predicate?”, _Aristotelian Society Supplementary_, 15: 154–175.
-* Knuuttila, S. & Hintikka, J., 1986, _The Logic of Being_, Dordrecht: Reidel.
-* Kripke, S., 1972/1980, _Naming and Necessity_, Oxford: Blackwell.
-* –––, 1973 \[2013], _Reference and Existence: The John Locke Lectures_, Oxford: Oxford University Press.
-* Kroon, F., 1987, “Causal Descriptivism,” _Australasian Journal of Philosophy_, 65: 1–17.
-* Lambert, K., 1983, _Meinong and the Principle of Independence. Its Place in Meinong’s Theory of Objects and Its Significance in Contemporary Philosophical Logic_, Cambridge: Cambridge University Press.
-* Landini, G., 1990, “How to Russell Another Meinongian: A Russellian Theory of Fictional Objects Versus Zalta’s Theory of Abstract Objects,” _Grazer Philosophische Studien_, 37: 93–122.
-* Lewis, D., 1984, “Putnam’s Paradox,” _Australasian Journal of Philosophy_, 62: 221–236.
-* –––, 1990, “Noneism or Allism?”, _Mind_, 99: 24–31.
-* Linsky, B., and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic,” _Philosophical Perspectives 8: Logic and Language_, J. Tomberlin (ed.), Atascadero: Ridgeview, 431–458.
-* –––, 1996, “In Defense of the Contingently Non-Concrete,” _Philosophical Studies_, 84: 283–294.
-* Mackie, J., 1976, “The Riddle of Existence,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 50: 247–266.
-* Mally, E., 1912, _Gegenstandtheoretische Grundlagen der Logik und Logistik_, Leipzig: Barth.
-* Marcus, R.B., 1946, “A Functional Calculus of First Order Based on Strict Implication,” _The Journal of Symbolic Logic_ 11: 1–16.
-* McDaniel, K., 2017, _The Fragmentation of Being_, Oxford: Oxford University Press.
-* McGinn, C. 2000, _Logical Properties: Identity, Existence, Predication, Necessary Truth_, Oxford: Clarendon Press.
-* Meinong, A., 1904, “On Object Theory,” in _Realism and the Background of Phenomenology_, R. Chisholm (ed.), Glencoe: The Free Press, 1960; translation of “Über Gegenstandstheorie,” in _Untersuchungen zur Gegenstandstheorie und Psychologie_, A. Meinong (ed.), Leipzig: Barth, 1904.
-* Miller, B., 1975, “In Defence of the Predicate ‘Exists’,” _Mind_, 84: 338–354.
-* –––, 1986, “‘Exists’ and Existence,” _Review Of Metaphysics_, 40: 237–270.
-* Moltmann, F., 2013, “The Semantics of Existence,” _Linguistics and Philosophy_, 36: 31–63.
-* Moore, G.E., 1936, “Is Existence a Predicate?”, _Aristotelian Society Supplementary_, 15: 175–188.
-* Owen, G. E. L., 1965, “Aristotle on the Snares of Ontology,” in R. Bambrough (ed.), _New Essays on Plato and Aristotle_, London: Routledge and Kegan Paul, pp. 69–96.
-* Parsons, T., 1975, “A Meinongian Analysis of Fictional Objects,” _Grazer Philosophische Studien_, 1: 73–86.
-* –––, 1978, “Nuclear and Extranuclear Properties, Meinong, and Leibniz,” _Noûs_ 12: 137–151.
-* –––, 1980, _Nonexistent Objects_, New Haven: Yale University Press.
-* –––, 1982, “Are There Nonexistent Objects?” _American Philosophical Quarterly_, 19: 365–371.
-* Pears, D., 1967, “Is Existence a Predicate?” in P. Strawson, (ed.), _Philosophical Logic_, Oxford: Oxford University Press, pp. 97–102.
-* Plantinga, A., 1983, “On Existentialism,” _Philosophical Studies_, 44: 1–20.
-* Priest, G., 2005, _Towards Non-Being: the Logic and Metaphysics of Intentionality_, Oxford: Clarendon Press.
-* Prior, A., 1957, _Time and Modality_, Oxford: Clarendon.
-* –––, 1967, _Past, Present, and Future_, Oxford: Clarendon.
-* –––, 1968, _Papers on Time and Tense_, Oxford: Clarendon.
-* Prior, A., and Fine, K., 1977, _Worlds, Times and Selves_, Amherst: University of Masssachusetts Press.
-* Quine, W.V.O., 1948, “On What There Is,” _Review of Metaphysics_, 2: 21–38. Reprinted in his _From a Logical Point of View_, Cambridge, MA: Harvard University Press, 1953.
-* Rapaport, W.J., 1976, _Intentionality and the Structure of Existence_, Ph.D. Dissertation, Philosophy Department, Indiana University/Bloomington.
-* –––, 1978, “Meinongian Theories and a Russellian Paradox,” _Noûs_, 12: 153–180.
-* –––, 1981, “How to Make the World Fit Our Language: An Essay in Meinongian Semantics,” _Grazer Philosophische Studien_, 14: 1–21.
-* Routley, R., 1966, “Some Things Do Not Exist,” _Notre Dame Journal of Formal Logic_, 7: 251–276.
-* –––, 1979, “The Semantical Structure of Fictional Discourse,” _Poetics_, 8: 3–30.
-* –––, 1980, _Exploring Meinong’s Jungle and Beyond_, Canberra: Research School of the Social Sciences.
-* Russell, B., 1903, _Principles of Mathematics_, Cambridge: Cambridge University Press.
-* –––, 1904, “Meinong’s Theory of Complexes and Assumptions (I),” _Mind_, 13(50): 204–219.
-* –––, 1905a, “On Denoting,” _Mind_, 14: 479–493.
-* –––, 1905b, “Review of: A. Meinong, _Untersuchungen zur Gegenstandstheorie und Psychologie_,” _Mind_, 14: 530–538.
-* –––, 1907, “Review of: A. Meinong, ‘Über die Stellung der Gegenstandstheorie im System der Wissenschaften’,” _Mind_, 16: 436–439.
-* Salmon, N., 1981,  _Reference and Essence_, Princeton, NJ: Princeton University Press.
-* –––, 1987, “Existence,” in _Philosophical Perspectives 1_, J. Tomberlin (ed.), Atascadero: Ridgeview Press.
-* –––, 1998, “Nonexistence,” _Noûs_, 32: 277–319.
-* Smith, J., 1985, “The Russell-Meinong Debate,” _Philosophy and Phenomenological Research_, 45: 305–350.
-* Soames, S., 1998, “The Modal Argument: Wide Scope and Rigidified Descriptions,” _Noûs_ 32: 1–22.
-* Thomasson, A., 1999, _Fiction and Metaphysics_, Cambridge: Cambridge University Press.
-* –––, 2003, “Speaking of Fictional Characters,” _Dialectica_ 57: 207–226.
-* –––, 2009. “Fictional Entities,” in J. Kim and E. Sosa (eds.), _A Companion to Metaphysics_, Oxford: Blackwell, 10–17.
-* van Inwagen, P., 1977, “Creatures of Fiction,” _American Philosophical Quarterly_, 14: 299–308.
-* –––, 1983, “Fiction and Metaphysics,” _Philosophy and Literature_, 7: 67–77.
-* –––, 2000, “Quantification and Fictional Discourse,” in A. Everett & T. Hofweber (eds.), _Empty Names, Fiction, and the Puzzles of Non-Existence_, Stanford: CSLI Press, 235–247.
-* –––, 2003, “Existence, Ontological Commitment, and Fictional Entities,” in M. Loux and D. Zimmerman (eds.), _The Oxford Handbook of Metaphysics_, Oxford: Oxford University Press.
-* –––, 2008, “McGinn on Existence,” _Philosophical Quarterly_, 58: 36–58.
-* Vilkko, R. and Hintikka, J., 2006, “Existence and Predication from Aristotle to Frege,” _Philosophy and Phenomenological Research_, 73: 359–377.
-* Voltolini, A., 1995, “Are (Possible) Guises Internally Characterizable?”, _Acta Analytica_, 13: 65–90.
-* –––, 2006, _How Ficta Follow Fiction: A syncretistic account of fictional entities_, Dordrecht: Springer.
-* Wiggins, D., 1995, “The Kant-Frege-Russell view of existence”. In _Modality, Morality, and Belief: Essays in Honor of Ruth Barcan Marcus_, W. Sinnott-Armstrong (ed.), New York: Cambridge University Press, 93–113.
-* Williams, C. J. F., 1981, _What is Existence?_, Oxford: Oxford University Press.
-* –––, 1992, _Being, Identity, and Truth_, Oxford: Oxford University Press.
-* Williams, S. G., 1995, “Existence,” in Jaegwon, K. & Sosa, E. (eds.), _A Companion to Metaphysics_, Oxford: Blackwell, 145–150.
-* Williamson, T., 1998, “Bare Possibilia,” _Erkenntnis_, 48: 257–273.
-* –––, 1999a \[2000], “Existence and Contingency,” _Proceedings of the Aristotelian Society_ (Supplementary Volume), 73: 181–203; reprinted with corrections in the _Proceedings of the Aristotelian Society_, 100(1): 117–139.
-* –––, 1999b, “Truthmakers and the Converse Barcan Formula,” _Dialectica_, 53: 253–270.
-* –––, 2000, “The Necessary Framework of Objects,” _Topoi_, 19: 201–208.
-* –––, 2002, “Necessary Existents,” in A. O’Hear (ed.), _Logic, Thought, and Language_, Cambridge: Cambridge University Press, 233–251.
-* –––, 2013, _Modal Logic as Metaphysics_, Oxford: Oxford University Press.
-* Zalta, E., 1983, _Abstract Objects: An Introduction to Axiomatic Metaphysics_, Dordrecht: D. Reidel.
-* –––, 1985, “Lambert, Mally, and the Principle of Independence,” _Grazer Philosophische Studien_, 25/26, 447–459.
-* –––, 1988, _Intensional Logic and the Metaphysics of Intentionality_, Cambridge, MA: MIT Press.
-* –––, 1992, “On Mally’s Alleged Heresy: A Reply,” _History of Philosophical Logic_, 13 (1): 59–68.
+* Hofweber, T., 2000, “Quantification and Non-Existent Objects,” in T. Hofweber & A. Everett (eds.), *Empty Names, Fiction, and the Puzzles of Non-Existence*, Stanford, CA: CSLI Publications.
+* Hume, D., 1951, *A Treatise of Human Nature*, L.A. Selby-Bigge (ed.), Oxford: Oxford University Press.
+* Jacquette, D., 1989, “Mally’s Heresy and the Logic of Meinong’s Object Theory,” *History and Philosophy of Logic*, 10: 1–14.
+* –––, 1996, *Meinongian Logic: the Semantics of Existence and Nonexistence*, Berlin and New York: de Gruyter.
+* Kant, I., 1929, *Critique of Pure Reason*, N. Kemp-Smith (ed.), London: Macmillan.
+* Kneale, W., 1936, “Is Existence a Predicate?”, *Aristotelian Society Supplementary*, 15: 154–175.
+* Knuuttila, S. & Hintikka, J., 1986, *The Logic of Being*, Dordrecht: Reidel.
+* Kripke, S., 1972/1980, *Naming and Necessity*, Oxford: Blackwell.
+* –––, 1973 \[2013], *Reference and Existence: The John Locke Lectures*, Oxford: Oxford University Press.
+* Kroon, F., 1987, “Causal Descriptivism,” *Australasian Journal of Philosophy*, 65: 1–17.
+* Lambert, K., 1983, *Meinong and the Principle of Independence. Its Place in Meinong’s Theory of Objects and Its Significance in Contemporary Philosophical Logic*, Cambridge: Cambridge University Press.
+* Landini, G., 1990, “How to Russell Another Meinongian: A Russellian Theory of Fictional Objects Versus Zalta’s Theory of Abstract Objects,” *Grazer Philosophische Studien*, 37: 93–122.
+* Lewis, D., 1984, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62: 221–236.
+* –––, 1990, “Noneism or Allism?”, *Mind*, 99: 24–31.
+* Linsky, B., and Zalta, E., 1994, “In Defense of the Simplest Quantified Modal Logic,” *Philosophical Perspectives 8: Logic and Language*, J. Tomberlin (ed.), Atascadero: Ridgeview, 431–458.
+* –––, 1996, “In Defense of the Contingently Non-Concrete,” *Philosophical Studies*, 84: 283–294.
+* Mackie, J., 1976, “The Riddle of Existence,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 50: 247–266.
+* Mally, E., 1912, *Gegenstandtheoretische Grundlagen der Logik und Logistik*, Leipzig: Barth.
+* Marcus, R.B., 1946, “A Functional Calculus of First Order Based on Strict Implication,” *The Journal of Symbolic Logic* 11: 1–16.
+* McDaniel, K., 2017, *The Fragmentation of Being*, Oxford: Oxford University Press.
+* McGinn, C. 2000, *Logical Properties: Identity, Existence, Predication, Necessary Truth*, Oxford: Clarendon Press.
+* Meinong, A., 1904, “On Object Theory,” in *Realism and the Background of Phenomenology*, R. Chisholm (ed.), Glencoe: The Free Press, 1960; translation of “Über Gegenstandstheorie,” in *Untersuchungen zur Gegenstandstheorie und Psychologie*, A. Meinong (ed.), Leipzig: Barth, 1904.
+* Miller, B., 1975, “In Defence of the Predicate ‘Exists’,” *Mind*, 84: 338–354.
+* –––, 1986, “‘Exists’ and Existence,” *Review Of Metaphysics*, 40: 237–270.
+* Moltmann, F., 2013, “The Semantics of Existence,” *Linguistics and Philosophy*, 36: 31–63.
+* Moore, G.E., 1936, “Is Existence a Predicate?”, *Aristotelian Society Supplementary*, 15: 175–188.
+* Owen, G. E. L., 1965, “Aristotle on the Snares of Ontology,” in R. Bambrough (ed.), *New Essays on Plato and Aristotle*, London: Routledge and Kegan Paul, pp. 69–96.
+* Parsons, T., 1975, “A Meinongian Analysis of Fictional Objects,” *Grazer Philosophische Studien*, 1: 73–86.
+* –––, 1978, “Nuclear and Extranuclear Properties, Meinong, and Leibniz,” *Noûs* 12: 137–151.
+* –––, 1980, *Nonexistent Objects*, New Haven: Yale University Press.
+* –––, 1982, “Are There Nonexistent Objects?” *American Philosophical Quarterly*, 19: 365–371.
+* Pears, D., 1967, “Is Existence a Predicate?” in P. Strawson, (ed.), *Philosophical Logic*, Oxford: Oxford University Press, pp. 97–102.
+* Plantinga, A., 1983, “On Existentialism,” *Philosophical Studies*, 44: 1–20.
+* Priest, G., 2005, *Towards Non-Being: the Logic and Metaphysics of Intentionality*, Oxford: Clarendon Press.
+* Prior, A., 1957, *Time and Modality*, Oxford: Clarendon.
+* –––, 1967, *Past, Present, and Future*, Oxford: Clarendon.
+* –––, 1968, *Papers on Time and Tense*, Oxford: Clarendon.
+* Prior, A., and Fine, K., 1977, *Worlds, Times and Selves*, Amherst: University of Masssachusetts Press.
+* Quine, W.V.O., 1948, “On What There Is,” *Review of Metaphysics*, 2: 21–38. Reprinted in his *From a Logical Point of View*, Cambridge, MA: Harvard University Press, 1953.
+* Rapaport, W.J., 1976, *Intentionality and the Structure of Existence*, Ph.D. Dissertation, Philosophy Department, Indiana University/Bloomington.
+* –––, 1978, “Meinongian Theories and a Russellian Paradox,” *Noûs*, 12: 153–180.
+* –––, 1981, “How to Make the World Fit Our Language: An Essay in Meinongian Semantics,” *Grazer Philosophische Studien*, 14: 1–21.
+* Routley, R., 1966, “Some Things Do Not Exist,” *Notre Dame Journal of Formal Logic*, 7: 251–276.
+* –––, 1979, “The Semantical Structure of Fictional Discourse,” *Poetics*, 8: 3–30.
+* –––, 1980, *Exploring Meinong’s Jungle and Beyond*, Canberra: Research School of the Social Sciences.
+* Russell, B., 1903, *Principles of Mathematics*, Cambridge: Cambridge University Press.
+* –––, 1904, “Meinong’s Theory of Complexes and Assumptions (I),” *Mind*, 13(50): 204–219.
+* –––, 1905a, “On Denoting,” *Mind*, 14: 479–493.
+* –––, 1905b, “Review of: A. Meinong, *Untersuchungen zur Gegenstandstheorie und Psychologie*,” *Mind*, 14: 530–538.
+* –––, 1907, “Review of: A. Meinong, ‘Über die Stellung der Gegenstandstheorie im System der Wissenschaften’,” *Mind*, 16: 436–439.
+* Salmon, N., 1981,  *Reference and Essence*, Princeton, NJ: Princeton University Press.
+* –––, 1987, “Existence,” in *Philosophical Perspectives 1*, J. Tomberlin (ed.), Atascadero: Ridgeview Press.
+* –––, 1998, “Nonexistence,” *Noûs*, 32: 277–319.
+* Smith, J., 1985, “The Russell-Meinong Debate,” *Philosophy and Phenomenological Research*, 45: 305–350.
+* Soames, S., 1998, “The Modal Argument: Wide Scope and Rigidified Descriptions,” *Noûs* 32: 1–22.
+* Thomasson, A., 1999, *Fiction and Metaphysics*, Cambridge: Cambridge University Press.
+* –––, 2003, “Speaking of Fictional Characters,” *Dialectica* 57: 207–226.
+* –––, 2009. “Fictional Entities,” in J. Kim and E. Sosa (eds.), *A Companion to Metaphysics*, Oxford: Blackwell, 10–17.
+* van Inwagen, P., 1977, “Creatures of Fiction,” *American Philosophical Quarterly*, 14: 299–308.
+* –––, 1983, “Fiction and Metaphysics,” *Philosophy and Literature*, 7: 67–77.
+* –––, 2000, “Quantification and Fictional Discourse,” in A. Everett & T. Hofweber (eds.), *Empty Names, Fiction, and the Puzzles of Non-Existence*, Stanford: CSLI Press, 235–247.
+* –––, 2003, “Existence, Ontological Commitment, and Fictional Entities,” in M. Loux and D. Zimmerman (eds.), *The Oxford Handbook of Metaphysics*, Oxford: Oxford University Press.
+* –––, 2008, “McGinn on Existence,” *Philosophical Quarterly*, 58: 36–58.
+* Vilkko, R. and Hintikka, J., 2006, “Existence and Predication from Aristotle to Frege,” *Philosophy and Phenomenological Research*, 73: 359–377.
+* Voltolini, A., 1995, “Are (Possible) Guises Internally Characterizable?”, *Acta Analytica*, 13: 65–90.
+* –––, 2006, *How Ficta Follow Fiction: A syncretistic account of fictional entities*, Dordrecht: Springer.
+* Wiggins, D., 1995, “The Kant-Frege-Russell view of existence”. In *Modality, Morality, and Belief: Essays in Honor of Ruth Barcan Marcus*, W. Sinnott-Armstrong (ed.), New York: Cambridge University Press, 93–113.
+* Williams, C. J. F., 1981, *What is Existence?*, Oxford: Oxford University Press.
+* –––, 1992, *Being, Identity, and Truth*, Oxford: Oxford University Press.
+* Williams, S. G., 1995, “Existence,” in Jaegwon, K. & Sosa, E. (eds.), *A Companion to Metaphysics*, Oxford: Blackwell, 145–150.
+* Williamson, T., 1998, “Bare Possibilia,” *Erkenntnis*, 48: 257–273.
+* –––, 1999a \[2000], “Existence and Contingency,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 73: 181–203; reprinted with corrections in the *Proceedings of the Aristotelian Society*, 100(1): 117–139.
+* –––, 1999b, “Truthmakers and the Converse Barcan Formula,” *Dialectica*, 53: 253–270.
+* –––, 2000, “The Necessary Framework of Objects,” *Topoi*, 19: 201–208.
+* –––, 2002, “Necessary Existents,” in A. O’Hear (ed.), *Logic, Thought, and Language*, Cambridge: Cambridge University Press, 233–251.
+* –––, 2013, *Modal Logic as Metaphysics*, Oxford: Oxford University Press.
+* Zalta, E., 1983, *Abstract Objects: An Introduction to Axiomatic Metaphysics*, Dordrecht: D. Reidel.
+* –––, 1985, “Lambert, Mally, and the Principle of Independence,” *Grazer Philosophische Studien*, 25/26, 447–459.
+* –––, 1988, *Intensional Logic and the Metaphysics of Intentionality*, Cambridge, MA: MIT Press.
+* –––, 1992, “On Mally’s Alleged Heresy: A Reply,” *History of Philosophical Logic*, 13 (1): 59–68.
 
 ## Academic Tools
 
@@ -228,9 +227,9 @@ Linsky 和 Zalta 的观点意味着具体性是一种偶然属性，即实际上
 
 ## Other Internet Resources
 
-* Miller, Barry, “Existence,” _The Stanford Encyclopedia of Philosophy_ (Fall 2009 Edition), Edward N. Zalta (ed.), URL = <[Existence (Stanford Encyclopedia of Philosophy/Fall 2009 Edition)](https://plato.stanford.edu/archives/fall2009/entries/existence/)>. \[This was the previous entry on existence in the Stanford Encyclopedia of Philosophy — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=existence).]
-* [The Concept of Existence](http://www.ontology.co/existence.htm), in _Ontology. A Resource Guide for Philosophers_, by Raul Corazzon.
-* [Alexius Meinong’s Theory of Objects](http://www.formalontology.it/meinonga.htm), in _Ontology. A Resource Guide for Philosophers_, by Raul Corazzon.
+* Miller, Barry, “Existence,” *The Stanford Encyclopedia of Philosophy* (Fall 2009 Edition), Edward N. Zalta (ed.), URL = <[Existence (Stanford Encyclopedia of Philosophy/Fall 2009 Edition)](https://plato.stanford.edu/archives/fall2009/entries/existence/)>. \[This was the previous entry on existence in the Stanford Encyclopedia of Philosophy — see the [version history](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=existence).]
+* [The Concept of Existence](http://www.ontology.co/existence.htm), in *Ontology. A Resource Guide for Philosophers*, by Raul Corazzon.
+* [Alexius Meinong’s Theory of Objects](http://www.formalontology.it/meinonga.htm), in *Ontology. A Resource Guide for Philosophers*, by Raul Corazzon.
 * [The Theory of Abstract Objects](http://mally.stanford.edu/theory.html), by Edward N. Zalta, Metaphysics Research Lab, Stanford University.
 
 ## Related Entries
@@ -242,4 +241,4 @@ Linsky 和 Zalta 的观点意味着具体性是一种偶然属性，即实际上
 The author would like to thank Phillip Bricker and Edward Zalta for comments on earlier drafts of this entry.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Michael Nelson <[_mnelson@ucr.edu_](mailto:mnelson%40ucr%2eedu)>
+Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>

@@ -1,9 +1,8 @@
 # 乔治·布尔 Boole, George (Stanley Burris)
 
-_首次发表于 2010 年 4 月 21 日星期三；实质性修订于 2021 年 12 月 29 日星期三_
+*首次发表于 2010 年 4 月 21 日星期三；实质性修订于 2021 年 12 月 29 日星期三*
 
 乔治·布尔（1815–1864）是一位英国数学家，也是逻辑代数传统的创始人。他曾在英格兰担任教师，并从 1849 年直到去世前一直担任爱尔兰科克女王大学的数学教授。他通过将当时新兴的符号代数领域的方法应用于逻辑学，彻底改变了逻辑学。传统（亚里士多德式）逻辑依赖于对各种简单形式的有效三段论进行分类，而布尔的方法提供了用代数语言表示的通用算法，适用于任意复杂性的无限种类的论证。这些成果体现在他的两部重要著作《逻辑的数学分析》（1847 年）和《思维的法则》（1854 年）中。
-
 
 ***
 
@@ -15,7 +14,7 @@ _首次发表于 2010 年 4 月 21 日星期三；实质性修订于 2021 年 12
 
 普遍认为布尔主要是一位逻辑学家——事实上，在他写下一字关于逻辑之前，他早已成为一位公认的数学家，同时经营着自己的私立学校来照顾父母和兄弟姐妹。布尔能够阅读法语、德语和意大利语，使他有了很好的起点，可以在 16 岁时阅读拉克罗瓦的《微积分》（这是他林肯友人迪克森牧师的礼物）。七年后的 1838 年，他将写下他的第一篇数学论文（尽管不是第一篇发表的），题为“关于变分法中的某些定理”，重点是改进他在拉格朗日的《解析力学》中读到的结果。
 
-在 1839 年初，乔治·布尔前往剑桥与年轻的数学家邓肯·F·格雷戈里（1813–1844）会面，他是《剑桥数学杂志》（_CMJ_）的编辑——格雷戈里于 1837 年共同创办了这本杂志，并一直担任编辑，直到他在 1843 年健康状况恶化（他于 1844 年初去世，享年 30 岁）。尽管格雷戈里在 1839 年仅比获得学位晚两年，但他成为了布尔的重要导师。在格雷戈里的支持下，包括指导布尔如何撰写数学论文，布尔于 1841 年进入了数学出版的公共领域。
+在 1839 年初，乔治·布尔前往剑桥与年轻的数学家邓肯·F·格雷戈里（1813–1844）会面，他是《剑桥数学杂志》（*CMJ*）的编辑——格雷戈里于 1837 年共同创办了这本杂志，并一直担任编辑，直到他在 1843 年健康状况恶化（他于 1844 年初去世，享年 30 岁）。尽管格雷戈里在 1839 年仅比获得学位晚两年，但他成为了布尔的重要导师。在格雷戈里的支持下，包括指导布尔如何撰写数学论文，布尔于 1841 年进入了数学出版的公共领域。
 
 布尔的数学著作跨越了从 1841 年到 1864 年这 24 年的时间，他在 1864 年因肺炎去世。将这 24 年分为三个阶段，第一个 6 年（1841–1846），第二个 8 年（1847–1854），最后 10 年（1855–1864），我们发现他在逻辑方面的发表作品完全集中在中间的 8 年。
 
@@ -35,7 +34,7 @@ D=d/dx,D2=d2/dx2,etc.
 
 在 1841 年，乔治·布尔（George Boole）还发表了他关于不变量的第一篇论文，这篇论文对艾森斯坦（Eisenstein）、凯莱（Cayley）和西尔维斯特（Sylvester）的学术发展产生了深远影响。亚瑟·凯莱（Arthur Cayley，1821–1895），后来成为剑桥大学 Sadlerian 教授，也是历史上最多产的数学家之一，于 1844 年写了他给布尔的第一封信，赞扬他在不变量方面的出色工作。他们成为了亲密的朋友，凯莱经常前往林肯拜访并与布尔共度时间，直到布尔搬到爱尔兰的科克。1842 年，布尔开始与奥古斯都斯·德·摩根（Augustus De Morgan，1806–1871）通信，开启了另一段终生友谊。
 
-1843 年，教师布尔完成了一篇关于微分方程的长篇论文，结合了指数替换和参数变化与符号分离方法。这篇论文对于《剑桥数学杂志》（_CMJ_）来说太长了—格雷戈里（Gregory）和后来的德·摩根鼓励他将其提交给皇家学会。第一位审稿人拒绝了布尔的论文，但第二位推荐它获得了 1841 年至 1844 年间最佳数学论文金奖，这一推荐得到了接受。1844 年，皇家学会发表了布尔的论文，并授予他金奖—这是学会首次授予数学家金奖。次年，布尔在 1845 年 6 月剑桥举行的英国科学促进协会年会上发表了一篇论文。这使他结识了新的联系人和朋友，尤其是威廉·汤姆森（William Thomson，1824–1907），后来的开尔文勋爵。
+1843 年，教师布尔完成了一篇关于微分方程的长篇论文，结合了指数替换和参数变化与符号分离方法。这篇论文对于《剑桥数学杂志》（*CMJ*）来说太长了—格雷戈里（Gregory）和后来的德·摩根鼓励他将其提交给皇家学会。第一位审稿人拒绝了布尔的论文，但第二位推荐它获得了 1841 年至 1844 年间最佳数学论文金奖，这一推荐得到了接受。1844 年，皇家学会发表了布尔的论文，并授予他金奖—这是学会首次授予数学家金奖。次年，布尔在 1845 年 6 月剑桥举行的英国科学促进协会年会上发表了一篇论文。这使他结识了新的联系人和朋友，尤其是威廉·汤姆森（William Thomson，1824–1907），后来的开尔文勋爵。
 
 开始发表论文后不久，布尔渴望找到一种与高等学府有关联的方式。他考虑去剑桥大学获得学位，但被告知满足各种要求可能会严重干扰他的研究计划，更不用说融资问题了。最终，在 1849 年，他获得了爱尔兰科克一所新大学的教授职位。在他担任科克大学教授的这些年里（1849–1864），他偶尔会询问是否有机会回到英格兰工作。
 
@@ -64,7 +63,7 @@ D=d/dx,D2=d2/dx2,etc.
 * 1834 年 — 开办自己的学校
 * 1835 年 — 发表关于牛顿成就的公开演讲
 * 1838 — 写第一篇数学论文
-* 1839 — 访问剑桥见乔治·格雷戈里，_剑桥数学杂志_（_CMJ_）编辑
+* 1839 — 访问剑桥见乔治·格雷戈里，*剑桥数学杂志*（*CMJ*）编辑
 * 1841 — 首次发表四篇数学作品（均在_CMJ_上）
 * 1842 — 与奥古斯都·德·摩根开始通信 — 他们成为终身朋友
 * 1844 — 与凯利开始通信（由凯利发起） — 他们成为终身朋友
@@ -97,8 +96,8 @@ D=d/dx,D2=d2/dx2,etc.
 
 孔雀认为，为了使符号代数成为一个有用的学科，其规律必须与算术代数的规律密切相关。在这方面，他引入了他的_等价形式永恒原理_，这一原理将算术代数中的结果与符号代数中的结果联系起来。这一原理有两个部分：
 
-1. _算术代数中的一般结果属于符号代数的规律。_
-2. _每当符号代数的结果在算术代数的背景中有意义时，该结果将在算术中给出正确的结果。_
+1. *算术代数中的一般结果属于符号代数的规律。*
+2. *每当符号代数的结果在算术代数的背景中有意义时，该结果将在算术中给出正确的结果。*
 
 一种引人入胜的代数运用是由弗朗索瓦-约瑟夫·塞尔瓦(1776-1847)于 1814 年引入的，当时他通过将微分算子与主体分离来处理微分方程，就像上面给出的例子所描述的那样。这种代数应用引起了格雷戈里的兴趣，他在《剑桥数学杂志》上发表了许多关于“符号分离”的方法的论文，即将运算符和对象分开的方法。他还写了关于代数基础的文章，正是格雷戈里的基础几乎是布尔在写《论文》之前几乎完全采纳的。格雷戈里放弃了皮科克的等价形式永恒原则，转而支持三个简单的法则，其中布尔认为其中一个仅仅是一种符号约定。不幸的是，这些法则远远不足以证明代数中甚至涉及减法等最基本结果的一些结论。
 
@@ -118,15 +117,15 @@ D=d/dx,D2=d2/dx2,etc.
 
 > 他告诉我，从童年起，他就坚信逻辑可以归纳为一门数学科学，并且他经常因试图证明这一点而使自己病倒，但直到 1847 年才有了真正的方法闪现在他脑海中。
 
-乔治·布尔 最终成名于逻辑的道路是以一种奇特的方式发生的。1847 年初，德·摩根和苏格兰哲学家威廉·汉密尔顿爵士（1788–1856）之间发生了一场微不足道但非常公开的争执，激励他重新进行逻辑研究，不要与同时代的爱尔兰数学家威廉·罗温·汉密尔顿爵士（1805–1865）混淆。这场争执围绕谁应该得到量化谓词（例如，_所有 A 都是所有 B，_ _所有 A 都是一些 B，_ 等）的创意归属展开。玛丽安写道，当 1847 年真正的方法突然出现在他脑海时，“他简直像是被过度的光芒所眩晕的人”。几个月内，布尔写下了他的 82 页专著《逻辑的数学分析》，首先提出了一种代数方法来处理亚里士多德逻辑，然后简要地讨论了一般理论。（有人说这篇专著和德·摩根的书《形式逻辑》于 1847 年 11 月的同一天出版。）
+乔治·布尔 最终成名于逻辑的道路是以一种奇特的方式发生的。1847 年初，德·摩根和苏格兰哲学家威廉·汉密尔顿爵士（1788–1856）之间发生了一场微不足道但非常公开的争执，激励他重新进行逻辑研究，不要与同时代的爱尔兰数学家威廉·罗温·汉密尔顿爵士（1805–1865）混淆。这场争执围绕谁应该得到量化谓词（例如，*所有 A 都是所有 B，* *所有 A 都是一些 B，* 等）的创意归属展开。玛丽安写道，当 1847 年真正的方法突然出现在他脑海时，“他简直像是被过度的光芒所眩晕的人”。几个月内，布尔写下了他的 82 页专著《逻辑的数学分析》，首先提出了一种代数方法来处理亚里士多德逻辑，然后简要地讨论了一般理论。（有人说这篇专著和德·摩根的书《形式逻辑》于 1847 年 11 月的同一天出版。）
 
 我们并不知道那个突然出现在布尔脑海中的真正方法是什么。一个可能性是发现了扩展定理和组成要素的属性。
 
 ### 3.1 布尔的亚里士多德逻辑版本
 
-在第 15-59 页，_MAL_中的 82 页中的一半多一点，布尔着重于对亚里士多德逻辑的轻微概括，即通过允许主语和/或谓语采用非-X 形式来扩充其四种范畴命题。在关于转换的章节中，例如通过限制进行的转换——_所有 X 是 Y，因此一些 Y 是 X_——布尔发现亚里士多德的分类存在缺陷，因为它没有将相反命题（如非-X）与命名的类 X、Y、Z 等放在同等地位。例如，他将_没有 X 是 Y_转换为_所有 Y 都不是 X_，将_所有 X 是 Y_转换为_所有不是 Y 都不是 X_。
+在第 15-59 页，*MAL_中的 82 页中的一半多一点，布尔着重于对亚里士多德逻辑的轻微概括，即通过允许主语和/或谓语采用非-X 形式来扩充其四种范畴命题。在关于转换的章节中，例如通过限制进行的转换——*所有 X 是 Y，因此一些 Y 是 X*——布尔发现亚里士多德的分类存在缺陷，因为它没有将相反命题（如非-X）与命名的类 X、Y、Z 等放在同等地位。例如，他将_没有 X 是 Y_转换为_所有 Y 都不是 X*，将_所有 X 是 Y_转换为_所有不是 Y 都不是 X_。
 
-对于他对亚里士多德逻辑的扩展版本，他在（_MAL_，第 30 页）中陈述了一组三条转换规则，他声称这些规则可以构建所有有效的两行范畴论证。这些转换规则在_LT_中并未出现。有点奇怪的是，在分析范畴三段论时，只有在结论部分他才允许他的广义范畴命题出现。在假言三段论的众多可能性中，他讨论的是标准的，增加了一个新的例子。
+对于他对亚里士多德逻辑的扩展版本，他在（*MAL*，第 30 页）中陈述了一组三条转换规则，他声称这些规则可以构建所有有效的两行范畴论证。这些转换规则在_LT_中并未出现。有点奇怪的是，在分析范畴三段论时，只有在结论部分他才允许他的广义范畴命题出现。在假言三段论的众多可能性中，他讨论的是标准的，增加了一个新的例子。
 
 ### 3.2 类符号和选举符号
 
@@ -142,15 +141,15 @@ _MAL_的_Introduction_章节以布尔回顾符号方法开始：
 
 布尔引入的第一个运算是乘法 xy。乘法的标准并置符号 xy 也对运算符（例如微分运算符）有一个标准含义，即首先将 y 应用于一个对象，然后将 x 应用于结果。正如西奥多·海尔佩林（1916–2014）（1981 年，第 176 页；1986 年，第 67,68 页）所指出的，这一建立的符号约定使布尔得出了他对选择符号乘法 xy 的解释，即这两个运算符的_组合_。因此，当遇到没有主语的表达式 xy 时，实际上在处理类 x(y(1))，“结果是那个既是 X 又是 Y 的类”。我们称这个类为 X 和 Y 的交集。在_LT_中，布尔取消了（不必要的）选择符号的使用，简单地让 x、y 表示类，其中 xy 是它们的交集。
 
-第一条定律在 _MAL_ (第 16 页) 中是 _分配律_
+第一条定律在 *MAL* (第 16 页) 中是 *分配律*
 
 x(u+v)=xu+xv,
 
-布尔说，u+v 对应于将一个类分成两部分，显然意味着 U 和 V 是不相交的类。这是 _MAL_ 中首次提到加法。
+布尔说，u+v 对应于将一个类分成两部分，显然意味着 U 和 V 是不相交的类。这是 *MAL* 中首次提到加法。
 
-他添加了（_MAL_，第 17 页）_交换律_ xy=yx 和 _指数法则_ xn=x — 在_LT_中，后者将被_对偶律_ x2=x 取代（1870 年由哈佛数学家本杰明·皮尔斯（1809-1880）称为_幂等律_，在另一个背景下）。
+他添加了（*MAL*，第 17 页）*交换律* xy=yx 和 *指数法则* xn=x — 在_LT_中，后者将被_对偶律_ x2=x 取代（1870 年由哈佛数学家本杰明·皮尔斯（1809-1880）称为_幂等律_，在另一个背景下）。
 
-在陈述以上分配和交换律之后，布尔相信他有权充分运用当时的普通代数，称（_MAL_，第 18 页）：
+在陈述以上分配和交换律之后，布尔相信他有权充分运用当时的普通代数，称（*MAL*，第 18 页）：
 
 > 所有常见代数的过程都适用于当前系统。
 
@@ -158,7 +157,7 @@ x(u+v)=xu+xv,
 
 ### 3.4 普通代数
 
-对于现代读者来说，很可能更难理解布尔代数是基于普通代数，即数字代数，而不是布尔的同时代人可能会更容易理解这一点——现代读者已经接触过现代布尔代数（也许是布尔环）。在 19 世纪中叶，对大多数数学家来说，_代数_ 这个词仅仅意味着数字代数。
+对于现代读者来说，很可能更难理解布尔代数是基于普通代数，即数字代数，而不是布尔的同时代人可能会更容易理解这一点——现代读者已经接触过现代布尔代数（也许是布尔环）。在 19 世纪中叶，对大多数数学家来说，*代数* 这个词仅仅意味着数字代数。
 
 乔治·布尔的逻辑代数的三大定律对_MAL_后续内容来说明显不足。读者大多数情况下可以假设布尔在进行普通多项式代数运算，只是增加了一个假设，即可将任意选举符号 x 的幂 xn 替换为 x。可以安全地假设在普通代数中成立的任何多项式方程_p = q_在布尔代数中也成立，以及任何等式论证
 
@@ -182,7 +181,7 @@ p1=q1,…,pk=qk∴p=q
 
 \| 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-请注意，上表中的所有多项式 p(_x,y_)，除了加法和减法外，在变量取值为 {0,1} 时取值为 {0,1}。这些多项式在计算机科学和电气工程中被称为_切换函数_，作为 {0,1} 上的函数，它们是幂等的，即 _p2= p_。切换函数恰好是布尔代数中的幂等多项式。
+请注意，上表中的所有多项式 p(*x,y*)，除了加法和减法外，在变量取值为 {0,1} 时取值为 {0,1}。这些多项式在计算机科学和电气工程中被称为_切换函数_，作为 {0,1} 上的函数，它们是幂等的，即 *p2= p*。切换函数恰好是布尔代数中的幂等多项式。
 
 ### 3.5 指数法则的影响
 
@@ -190,11 +189,11 @@ p1=q1,…,pk=qk∴p=q
 
 anxn+⋯+a1x+a0=anx+⋯+a1x+a0=(an+⋯+a1)x+a0。
 
-同样，任何多项式 _p(x,y)_ 都可以表示为 _axy+bx+cy+d_。等等。
+同样，任何多项式 *p(x,y)* 都可以表示为 *axy+bx+cy+d*。等等。
 
-然而，乔治·布尔 对于 _ax+b_ 可以被写成 _x_ 和 _1−x_ 的线性组合这一事实更感兴趣，即
+然而，乔治·布尔 对于 *ax+b* 可以被写成 *x* 和 *1−x* 的线性组合这一事实更感兴趣，即
 
-_ax+b=(a+b)x+b(1−x)_ 。
+*ax+b=(a+b)x+b(1−x)* 。
 
 这给出了他在一个变量中的_扩展定理_：
 
@@ -210,7 +209,7 @@ x+y=2xy+x(1−y)+(1−x)yx−y=x(1−y)−(1−x)y.
 
 表达式 xy,…,(1−x)(1−y)，被称为 p(x,y)的_组成部分_——最好称它们为变量 x,y 的组成部分——而系数 p(1,1),…,p(0,0)是 p(x,y)的_模数_。
 
-对于任意数量变量的多项式，类似的结果成立(_MAL_, pp. 62–64)，对于给定变量列表的组成部分有三个重要事实：
+对于任意数量变量的多项式，类似的结果成立(*MAL*, pp. 62–64)，对于给定变量列表的组成部分有三个重要事实：
 
 1. 每个组成部分都是幂等的，
 2. 两个不同成分的乘积为 0，
@@ -218,7 +217,7 @@ x+y=2xy+x(1−y)+(1−x)yx−y=x(1−y)−(1−x)y.
 
 ### 3.6 范畴命题的等式表达
 
-在章节_表达与解释_中，乔治·布尔说：“非 X 类将由符号 1-x 确定”。这是_MAL_中_减法_的首次出现。布尔对亚里士多德范畴命题的最初等式表达式（_MAL_，第 21,22 页）将被称为他的_初级_表达式。然后在接下来的几页中，他添加了补充表达式；其中主要的将被称为_次级_表达式。
+在章节_表达与解释_中，乔治·布尔说：“非 X 类将由符号 1-x 确定”。这是_MAL_中_减法_的首次出现。布尔对亚里士多德范畴命题的最初等式表达式（*MAL*，第 21,22 页）将被称为他的_初级_表达式。然后在接下来的几页中，他添加了补充表达式；其中主要的将被称为_次级_表达式。
 
 \| 命题 | 初级表达式 | 次级表达式 |
 
@@ -232,13 +231,13 @@ x+y=2xy+x(1−y)+(1−x)yx−y=x(1−y)−(1−x)y.
 
 \| 一些 X 不是 Y | v=x(1−y) | vx=v(1−y) |
 
-给出的第一个主要表达式是 _所有 X 都是 Y_，然后他将其转换为 x(1−y)=0。这是 _MAL_ 中第一次出现 0。它并没有被引入作为空类的符号—实际上空类在 _MAL_ 中并不出现。显然，“=0” 在 _MAL_ 中扮演了谓词的角色，方程 E=0 断言了由 E 表示的类根本不存在。（在 _LT_ 中，我们所称的空类被引入并用 0 表示。）
+给出的第一个主要表达式是 *所有 X 都是 Y*，然后他将其转换为 x(1−y)=0。这是 *MAL* 中第一次出现 0。它并没有被引入作为空类的符号—实际上空类在 *MAL* 中并不出现。显然，“=0” 在 *MAL* 中扮演了谓词的角色，方程 E=0 断言了由 E 表示的类根本不存在。（在 *LT* 中，我们所称的空类被引入并用 0 表示。）
 
-推理是对 _排除_ 的一种练习，即从前提中排除中间项以得出结论。排除是方程论中的一个标准主题，布尔借用了关于两个方程的简单排除结果，用于他的逻辑代数—如果一个三段论的前提涉及类 X、Y 和 Z，并且想要排除中间项 Y，那么布尔将两个前提的方程式写成以下形式
+推理是对 *排除* 的一种练习，即从前提中排除中间项以得出结论。排除是方程论中的一个标准主题，布尔借用了关于两个方程的简单排除结果，用于他的逻辑代数—如果一个三段论的前提涉及类 X、Y 和 Z，并且想要排除中间项 Y，那么布尔将两个前提的方程式写成以下形式
 
 ay+b=0cy+d=0
 
-where y does not appear in the coefficients _a,b,c,d_. The result of eliminating y in ordinary algebra gives the equation
+where y does not appear in the coefficients *a,b,c,d*. The result of eliminating y in ordinary algebra gives the equation
 
 ad−bc=0,
 
@@ -248,7 +247,7 @@ ad−bc=0,
 
 将弱消除应用于主等式表达式并不足以推导出所有有效的三段论。例如，在前提具有主要表达式 ay=0 和 cy=0 的情况下，这种消除会得到 0=0，即使存在一个非平凡的结论。布尔引入了替代等式表达式（见_MAL_，第 32 页）的范畴命题，以便能够推导出所有有效的三段论。
 
-在范畴三段论章节的末尾，有一个长长的脚注（_MAL_，第 42-45 页），声称（_MAL_，第 42, 43 页）仅次要表达式就足以分析\[他对亚里士多德范畴逻辑的概括]。这个脚注失去了很多力量，因为它所呈现的结果在很大程度上取决于弱消除定理是最佳的，而事实并非如此。关于次要表达式，在《MAL》的附言中，他说：
+在范畴三段论章节的末尾，有一个长长的脚注（*MAL*，第 42-45 页），声称（*MAL*，第 42, 43 页）仅次要表达式就足以分析\[他对亚里士多德范畴逻辑的概括]。这个脚注失去了很多力量，因为它所呈现的结果在很大程度上取决于弱消除定理是最佳的，而事实并非如此。关于次要表达式，在《MAL》的附言中，他说：
 
 > 在那里给出的用于三段论中命题表达的方程系统总是比以前使用的那个更可取—首先，在一般性上—其次，在解释的便利性上。
 
@@ -260,11 +259,11 @@ ad−bc=0,
 
 > 假设性命题被定义为_由一个联结词（或连词）连接的两个或多个范畴命题_，不同种类的假设性命题根据它们各自的连词命名，即条件性（如果）、析取性（要么，要么），等等。
 
-乔治·布尔分析了在亚里士多德逻辑中标准的七种_假设三段论_，从建设性和破坏性条件到复杂的破坏性困境。让大写字母 X，Y，...代表范畴命题，传统上涉及假设三段论的_假设命题_形式之一是_X 为真_，_X 为假_，_如果 X 为真，则 Y 为真_，_X 为真或 Y 为真或..._ ，以及_X 为真且 Y 为真且..._ 在假设三段论章节的结尾，他指出很容易创造新的命题，可以通过使用混合的假设命题（如_如果 X 为真，则 Y 为真，或 Z 为真_）来丰富这一系列。
+乔治·布尔分析了在亚里士多德逻辑中标准的七种_假设三段论_，从建设性和破坏性条件到复杂的破坏性困境。让大写字母 X，Y，...代表范畴命题，传统上涉及假设三段论的_假设命题_形式之一是_X 为真_，*X 为假*，*如果 X 为真，则 Y 为真*，*X 为真或 Y 为真或...* ，以及_X 为真且 Y 为真且..._ 在假设三段论章节的结尾，他指出很容易创造新的命题，可以通过使用混合的假设命题（如_如果 X 为真，则 Y 为真，或 Z 为真_）来丰富这一系列。
 
 在这一章中最重要的是布尔声称他的范畴命题逻辑代数同样适用于研究假设三段论。这是基于采用将假设命题标准化为关于类的命题的标准化，通过让_假设宇宙_，也用 1 表示，“包括所有可想象的情况和情况的结合”。显然，他对_情况_的概念是将真值分配给命题变量。对于 X 为范畴命题，布尔让 x 表示选择性运算符，选择 X 为真的情况。
 
-布尔说_范畴命题的宇宙_有两种情况，_真_和_假_。为了找到假设命题的等式表达式，布尔求助于真值表的一个近亲（_MAL_，第 50 页）。对于每种情况，即对 X 和 Y 的真值分配，他关联了一个选择性表达式如下：
+布尔说_范畴命题的宇宙_有两种情况，*真_和_假*。为了找到假设命题的等式表达式，布尔求助于真值表的一个近亲（*MAL*，第 50 页）。对于每种情况，即对 X 和 Y 的真值分配，他关联了一个选择性表达式如下：
 
 \| 情况 | 选定表达式 |
 
@@ -311,13 +310,13 @@ ad−bc=0,
 
 ### 3.8 乔治·布尔代数在_MAL_中的一般定理
 
-从《选举函数的性质》一章开始，布尔为处理选举函数和方程式开发了一般定理——扩展（或发展）定理（在第 3.5 节中描述）和成分的性质在这一章中讨论。他在证明扩展定理的单变量情况时使用了选举函数的幂级数展开（_MAL_，第 60 页），也许打算将其应用于有理选举函数。
+从《选举函数的性质》一章开始，布尔为处理选举函数和方程式开发了一般定理——扩展（或发展）定理（在第 3.5 节中描述）和成分的性质在这一章中讨论。他在证明扩展定理的单变量情况时使用了选举函数的幂级数展开（*MAL*，第 60 页），也许打算将其应用于有理选举函数。
 
 运算多项式函数的除法是在_MAL_中引入的，但在他的逻辑代数中从未成功发展出来——没有关于如何处理除法的等式法则。在_LT_中被放弃，除了在解多项式方程时经常用作记忆辅助工具。从展开定理和成分的性质中，他表明两个选举函数的和/差/积的模数是这两个函数对应模数的和/差/积。
 
-展开定理被用来证明一个重要结果（_MAL_，第 61 页），即如果 Boole 的代数中对应的_模数_相同，则 p(x)和 q(x)等价，即 p(1)=q(1)和 p(0)=q(0)。这个结果推广到多个变量的函数。在_LT_中不会这样陈述，但会被吸收到更一般的（虽然陈述有些晦涩）结果中，这个结果将被称为 0 和 1 的规则。
+展开定理被用来证明一个重要结果（*MAL*，第 61 页），即如果 Boole 的代数中对应的_模数_相同，则 p(x)和 q(x)等价，即 p(1)=q(1)和 p(0)=q(0)。这个结果推广到多个变量的函数。在_LT_中不会这样陈述，但会被吸收到更一般的（虽然陈述有些晦涩）结果中，这个结果将被称为 0 和 1 的规则。
 
-使用展开定理，Boole 表明（_MAL_，第 64 页）每个选举方程 p=0 都等价于成分方程 r=0 的集合，其中在 p 的展开中 r 的模数（系数）不为零，因此_每个选举方程都是可解释的_。此外，这导致（_MAL_，第 65 页）p=0 等价于方程 q=0，其中 q 是 p 的展开中模数非零的成分的和。
+使用展开定理，Boole 表明（*MAL*，第 64 页）每个选举方程 p=0 都等价于成分方程 r=0 的集合，其中在 p 的展开中 r 的模数（系数）不为零，因此_每个选举方程都是可解释的_。此外，这导致（*MAL*，第 65 页）p=0 等价于方程 q=0，其中 q 是 p 的展开中模数非零的成分的和。
 
 作为例子，考虑方程 x+y=0 和 x−y=0。以下表格给出了展开式的构成部分和模量：
 
@@ -351,21 +350,21 @@ x(1−y)+(1−x)y=0.
 
 _解决定理_描述了如何解决一个选举方程中的一个符号，而其他符号则以其他符号表示，通常引入独立变量的约束方程。在他的逻辑代数中，他总是可以解决一个选举方程中的任何一个选举符号。例如，方程式 q(x)y=p(x) 通过使用形式除法 y=p(x)/q(x) 解决，然后使用形式展开得到 y=ax+b(1−x) 其中 a=p(1)/q(1) 和 b=p(0)/q(0)，然后解码分数系数。这个定理将在第 6.2 节的第 7 步中更详细地讨论。
 
-布尔的最后一个例子（_MAL_，第 78 页）是解三个未知数的三个方程之一，以其他两个未知数表示。这个例子使用了一种处理分析中的附加条件的众所周知的技术，称为拉格朗日乘数法—这种方法（将例子中的三个方程简化为五个未知数中的一个方程）在 _LT_ （第 117 页）中再次出现，但只使用了一次。它被平方和简化（_LT_，第 121 页）所取代，不引入新变量。使用 _LT_ 中的简化和消除定理，人们发现布尔的三个方程示例的约束方程（3）（_MAL_，第 80 页）太过薄弱—每个乘积应为 0，并且还有额外的约束方程。
+布尔的最后一个例子（*MAL*，第 78 页）是解三个未知数的三个方程之一，以其他两个未知数表示。这个例子使用了一种处理分析中的附加条件的众所周知的技术，称为拉格朗日乘数法—这种方法（将例子中的三个方程简化为五个未知数中的一个方程）在 *LT* （第 117 页）中再次出现，但只使用了一次。它被平方和简化（*LT*，第 121 页）所取代，不引入新变量。使用 *LT* 中的简化和消除定理，人们发现布尔的三个方程示例的约束方程（3）（*MAL*，第 80 页）太过薄弱—每个乘积应为 0，并且还有额外的约束方程。
 
-_MAL_ 比 _LT_ 更清楚地展示了布尔的逻辑代数是如何基于普通代数加上幂等律的。他从普通代数借来的消除定理结果比他的代数提供的要弱，而将方程简化为单一方程的方法比 _LT_ 中使用的主要方法更笨拙，但是展开定理和解决定理是相同的。人们看到 _MAL_ 不仅包含了 _LT_ 的基本轮廓，还有一些部分得到了充分发展。幂级数在 _LT_ 中并没有完全被放弃—它们出现了，但只是在一个脚注中（_LT_，第 72 页）。
+*MAL* 比 *LT* 更清楚地展示了布尔的逻辑代数是如何基于普通代数加上幂等律的。他从普通代数借来的消除定理结果比他的代数提供的要弱，而将方程简化为单一方程的方法比 *LT* 中使用的主要方法更笨拙，但是展开定理和解决定理是相同的。人们看到 *MAL* 不仅包含了 *LT* 的基本轮廓，还有一些部分得到了充分发展。幂级数在 *LT* 中并没有完全被放弃—它们出现了，但只是在一个脚注中（*LT*，第 72 页）。
 
 ## 4. 思维定律（1854）
 
-乔治·布尔的第二本逻辑书《_思维定律研究_》，发表于 1854 年，逻辑部分致力于澄清和纠正《MAL》中的内容，并提供更实质性的应用，其中主要的一个是他在概率论方面的重要工作。在第一章的结尾，布尔提到了利用概率论的理论可能性，结合他的逻辑代数，通过大量（人类）计算机分析大量社会数据，揭示统治社会的基本法则的可能性。
+乔治·布尔的第二本逻辑书《*思维定律研究*》，发表于 1854 年，逻辑部分致力于澄清和纠正《MAL》中的内容，并提供更实质性的应用，其中主要的一个是他在概率论方面的重要工作。在第一章的结尾，布尔提到了利用概率论的理论可能性，结合他的逻辑代数，通过大量（人类）计算机分析大量社会数据，揭示统治社会的基本法则的可能性。
 
 布尔使用拉丁字母表末尾的小写拉丁字母，如 x、y、z，来表示类。_全集_是一个类，用 1 表示；还有一个描述为“无”的类，用 0 表示，我们称之为空类。_乘法_的运算被定义为我们称之为交集，这导致了他的第一个定律，xy=yx，然后是幂等律 x2=x。_加法_是在类不相交时引入的聚合。他陈述了加法的交换律，x+y=y+x，以及分配律 z(x+y)=zx+zy。接着是 x−y=−y+x 和 z(x−y)=zx−zy。对于加法和乘法的结合律却明显缺失。
 
 idempotent law x^2=x 与 Boole 的常规代数定律不同——它仅适用于单个类符号，而不适用于可以从这些符号构建的复合术语。例如，在 Boole 的系统中，我们没有 (x+y)^2=x+y，否则通过普通代数与幂等类符号，这将意味着 2xy=0，然后 xy=0，这将迫使 x 和 y 代表不相交的类。但并非每对类都是不相交的。
 
-正是这种等式论证，即 (x+y)^2=x+y 暗示 xy=0，导致 Boole 将加法 x+y 视为部分运算，仅在 xy=0 时定义，也就是说，当 x 和 y 是不相交的类时。他写下这个论证的唯一地方是在他未发表的笔记中——参见^ ^_Boole: Selected Manuscripts …_^​^, 1997，由 Ivor Grattan-Guiness 和 Gérard Bornet 编辑，第 91,92 页。类似的等式论证，即 (x−y)^2=x−y 暗示 y=xy，导致 x−y 仅在 y=xy 时定义，也就是说，当 y=x∩y 时，这与 y⊆x 相同。
+正是这种等式论证，即 (x+y)^2=x+y 暗示 xy=0，导致 Boole 将加法 x+y 视为部分运算，仅在 xy=0 时定义，也就是说，当 x 和 y 是不相交的类时。他写下这个论证的唯一地方是在他未发表的笔记中——参见^ ^*Boole: Selected Manuscripts …*^​^, 1997，由 Ivor Grattan-Guiness 和 Gérard Bornet 编辑，第 91,92 页。类似的等式论证，即 (x−y)^2=x−y 暗示 y=xy，导致 x−y 仅在 y=xy 时定义，也就是说，当 y=x∩y 时，这与 y⊆x 相同。
 
-直到 _LT_ 的第 66 页，Boole 才清楚地告知读者，加法（在第 33 页引入）是类的部分运算：
+直到 *LT* 的第 66 页，Boole 才清楚地告知读者，加法（在第 33 页引入）是类的部分运算：
 
 表达式 x+y 确实看起来无法解释，除非假定由 x 表示的事物和由 y 表示的事物是完全分开的；它们没有共同的个体。
 
@@ -393,17 +392,17 @@ x∪y:=x+(1−x)yx△y:=x(1−y)+(1−x)yx∩y:=xyx′:=1−x。
 
 乔治·布尔在第六章第 13 节转向了逻辑函数的可解释性主题。他在_MAL_中已经声明_每个方程都是可解释的_（通过展示一个方程等同于一组组成方程）。然而，代数术语不一定是可解释的，例如，1+1 不可解释。有些术语是部分可解释的，等价术语可能具有不同的可解释域。在第六章第 13 节中，他得出结论，多项式 p 等价于一个（完全）可解释函数的条件是满足 p²=p，这种情况下它等价于一组不同组成部分的和，即属于 p 的非消失模数的那些部分。多项式是幂等的当且仅当它的所有模数都是幂等的，也就是说，它们在{0,1}中，这种情况下多项式的展开是一组不同组成部分的和（或者是 0）。
 
-布尔的第十一章_次要命题_与_MAL_中的处理平行，只是他从使用_X 为真时的情况_改为使用_X 为真的时候_。在第十三章中，布尔选择了克拉克和斯宾诺莎的论点，关于永恒存在的本质，放在他的逻辑代数放大镜下进行研究，从评论开始（_LT_，第 185 页）：
+布尔的第十一章_次要命题_与_MAL_中的处理平行，只是他从使用_X 为真时的情况_改为使用_X 为真的时候_。在第十三章中，布尔选择了克拉克和斯宾诺莎的论点，关于永恒存在的本质，放在他的逻辑代数放大镜下进行研究，从评论开始（*LT*，第 185 页）：
 
 > 2. 这一探讨的主要实际困难将在于确定前提而不是将方法应用于一旦确定的前提上。
 
-一项结论是（_LT_，第 216 页）：
+一项结论是（*LT*，第 216 页）：
 
 > 19. 我认为，从克拉克和斯宾诺莎的论点的阅读中，不可能不深刻地认识到，完全从先验的角度建立无限存在的存在，他的属性以及他与宇宙的关系的所有努力的徒劳。
 
 在逻辑的最后一章，第十五章中，乔治·布尔提出了他对亚里士多德逻辑的转换和三段论的分析。他现在认为这种古老的逻辑是一个脆弱、支离破碎的逻辑系统的尝试。这一被忽视的章节非常有趣，因为这是他分析特定命题的_唯一_一章，他在其中必须使用额外的字母如_v_来编码_一些_。这也是他在其中不完全陈述了处理_一些_的规则的章节。
 
-Boole 在《LT》的第 XV 章中指出，当关于 X 和 Y 的前提被表达为涉及 x、y 和 v 的方程时，符号 v 表达了_一些_，但仅限于它出现在前提中的上下文。例如，_所有 X 都是 Y_有表达式 x=vy，暗示 vx=vy。这可以被解释为_一些 X 是 Y_。vx=vy 的一个结果是 v(1−x)=v(1−y)。然而，不允许将其解读为_一些非 X 是非 Y_，因为 v 未与 1−x 或 1−y 一起出现在前提中。
+Boole 在《LT》的第 XV 章中指出，当关于 X 和 Y 的前提被表达为涉及 x、y 和 v 的方程时，符号 v 表达了_一些_，但仅限于它出现在前提中的上下文。例如，*所有 X 都是 Y_有表达式 x=vy，暗示 vx=vy。这可以被解释为_一些 X 是 Y*。vx=vy 的一个结果是 v(1−x)=v(1−y)。然而，不允许将其解读为_一些非 X 是非 Y_，因为 v 未与 1−x 或 1−y 一起出现在前提中。
 
 在第 XV 章中，Boole 向读者简要总结了传统的亚里士多德范畴逻辑，并使用他的逻辑代数通过特设技巧分析了一些简单的例子。然后，他开始证明一个全面的结果，通过将他的一般方法应用于以下方程组：
 
@@ -417,7 +416,7 @@ vx=v′ywz=w′y.
 
 vx=ywz=w′y.
 
-Thus the conclusion equation is vx=wz, which has the interpretation _Some x is z_.
+Thus the conclusion equation is vx=wz, which has the interpretation *Some x is z*.
 
 Then he noted that the remaining categorical syllogisms are such that their premises can be put in the form:
 
@@ -429,15 +428,15 @@ vx=v′ywz=w′(1−y).
 
 x=v′(1−y)wz=w′y.
 
-因此，结论方程式是 v(1−x)=wz，其解释是 _Some not-x is z_。
+因此，结论方程式是 v(1−x)=wz，其解释是 *Some not-x is z*。
 
-其次，_在不同的中间条件的情况下，两者都是普遍的，改变一个极端的数量和质量，并将其等同于另一个极端_。例如，前提 _All not-y is x_ 和 _All y is z_ 给出了一对方程式
+其次，*在不同的中间条件的情况下，两者都是普遍的，改变一个极端的数量和质量，并将其等同于另一个极端*。例如，前提 *All not-y is x* 和 *All y is z* 给出了一对方程式
 
 vx=(1−y)wz=y.
 
-Thus one conclusion equation is 1−x=wz, which has the interpretation _All not-x is z_. The other is vx=1−z, which has the interpretation _All not-z is x_. Each of these two propositions is just the conversion by negation of the other.
+Thus one conclusion equation is 1−x=wz, which has the interpretation *All not-x is z*. The other is vx=1−z, which has the interpretation *All not-z is x*. Each of these two propositions is just the conversion by negation of the other.
 
-乔治·布尔 noted (_LT_ p. 237) that:
+乔治·布尔 noted (*LT* p. 237) that:
 
 调查过程推导出它们的过程可能看起来过于复杂；可以肯定的是，它们本可以更容易地获得，而且完全不需要任何符号工具的帮助。
 
@@ -518,11 +517,11 @@ Burris 和 Sankappanavar（2013）利用了乔治·布尔的模型，一个部�
 
 这些例子已经增加了评论，解释了在乔治·布尔的推导的每一步中使用了他的方法的哪个方面。
 
-### 6.1 乔治·布尔 在 _LT_ 中使用的三种论证分析方法
+### 6.1 乔治·布尔 在 *LT* 中使用的三种论证分析方法
 
-布尔在 _LT_ 中使用了三种方法来分析论证：
+布尔在 *LT* 中使用了三种方法来分析论证：
 
-1. 第一种是纯粹的特设代数操作，这些操作是与在 _MAL_ 中的亚里士多德论证（Aristotelian arguments）一起使用的（与排除定理（Elimination Theorem）的弱版本）。
+1. 第一种是纯粹的特设代数操作，这些操作是与在 *MAL* 中的亚里士多德论证（Aristotelian arguments）一起使用的（与排除定理（Elimination Theorem）的弱版本）。
 
 其次，在《LT》的第 II 章第 15 节中，人们会发现这篇文章中所称的 0 和 1 规则的方法。
 
@@ -532,9 +531,9 @@ Burris 和 Sankappanavar（2013）利用了乔治·布尔的模型，一个部�
 
 在应用临时方法时，他使用普通代数以及幂等律 x2=x 来操纵方程。没有预先建立的程序可供遵循——这种方法的成功取决于通过经验发展起来的直觉技能。
 
-第二种方法是“0 和 1 法则”，非常强大，但它取决于提供一组前提方程和一个结论方程。这是一种类似真值表的方法（但布尔在应用该方法时从未绘制过表），用于确定论证是否正确。他仅使用此方法来建立证明他的“一般方法”合理的定理，即使它是验证简单论证（如三段论）的绝佳工具。布尔主要关注从给定前提中找到最一般的结论，除了他的一般定理外，他对简单验证逻辑论证没有兴趣。0 和 1 法则在《_LT_》中有点神秘——它没有名称，并在第五章第 6 节重新制定为一种在进行推导并遇到无法解释术语时使用的程序。
+第二种方法是“0 和 1 法则”，非常强大，但它取决于提供一组前提方程和一个结论方程。这是一种类似真值表的方法（但布尔在应用该方法时从未绘制过表），用于确定论证是否正确。他仅使用此方法来建立证明他的“一般方法”合理的定理，即使它是验证简单论证（如三段论）的绝佳工具。布尔主要关注从给定前提中找到最一般的结论，除了他的一般定理外，他对简单验证逻辑论证没有兴趣。0 和 1 法则在《*LT*》中有点神秘——它没有名称，并在第五章第 6 节重新制定为一种在进行推导并遇到无法解释术语时使用的程序。
 
-分析论证的第三种方法是布尔在逻辑学中的重点，他的“一般方法”（在此之后立即讨论）。这是他在《_LT_》中除了最简单的例子外都使用的方法；对于最简单的例子，他转而使用临时代数技术的第一种方法，因为对于熟练掌握代数操作的人来说，使用它们通常比通过“一般方法”更有效。
+分析论证的第三种方法是布尔在逻辑学中的重点，他的“一般方法”（在此之后立即讨论）。这是他在《*LT*》中除了最简单的例子外都使用的方法；对于最简单的例子，他转而使用临时代数技术的第一种方法，因为对于熟练掌握代数操作的人来说，使用它们通常比通过“一般方法”更有效。
 
 最终版本（来自_LT_）他的分析论证的一般方法，简要地陈述如下：
 
@@ -548,7 +547,7 @@ Burris 和 Sankappanavar（2013）利用了乔治·布尔的模型，一个部�
 
 ### 6.2. 乔治·布尔的初等命题的一般方法
 
-布尔认识到初等命题的三种“重要类型”（_LT_，第 64 页）：
+布尔认识到初等命题的三种“重要类型”（*LT*，第 64 页）：
 
 * 所有 X 都是 Y
 * 所有 X 都是所有 Y
@@ -558,7 +557,7 @@ Burris 和 Sankappanavar（2013）利用了乔治·布尔的模型，一个部�
 
 **步骤 1**：命题术语如下所示由代数术语表示；可以用更复杂的术语替换 x, y。 布尔没有给出递归定义，只是一些简单的例子：
 
-\| 术语 | _MAL_ | _LT_ |
+\| 术语 | *MAL* | *LT* |
 
 \| --- | --- | --- | --- | --- |
 
@@ -578,7 +577,7 @@ xy+x(1−y)+y(1−x) | p.56 |
 **第 2 步**：将命题项表示为代数项后，然后使用以下内容将命题表示为方程式；再次可以用更复杂的术语替换 x、y，但不能替换 v：
 
 \| 主要\
-命题 | _MAL_（1847） | _LT_（1854） |
+命题 | *MAL*（1847） | *LT*（1854） |
 
 \| --- | --- | --- | --- | --- |
 
@@ -616,7 +615,7 @@ r1:=p1−q1,r2:=p2−q2,…,rn:=pn−qn.
 
 在第 X 章的第 3 节中提供了一种保持幂等性质的形成 ri 的替代方法，以防 pi 和 qi 具有此属性。
 
-**第 4 步**：（简化）\[_LT_（第 121 页）]
+**第 4 步**：（简化）\[*LT*（第 121 页）]
 
 简化方程组
 
@@ -630,7 +629,7 @@ r:=r21+⋯+r2n=0.
 
 步骤 1 到 4 是乔治·布尔的一般方法中必不可少的。执行完这些步骤后，根据目标，有各种不同的继续选项。
 
-**第 5 步**：（排除）\[_LT_ (p. 101)]
+**第 5 步**：（排除）\[*LT* (p. 101)]
 
 假设有人希望从 r=0 推导出涉及 r 中某些但不是全部类符号的最一般等式结论。那么就需要排除某些符号。假设 r 涉及类符号
 
@@ -663,7 +662,7 @@ where
 
 s(y):=r(0,0,y)⋅r(0,1,y)⋅r(1,0,y)⋅r(1,1,y).
 
-**第 6 步**：（发展，或扩展）\[_MAL_ （第 60 页），_LT_ （第 72、73 页）]。
+**第 6 步**：（发展，或扩展）\[*MAL* （第 60 页），*LT* （第 72、73 页）]。
 
 给定一个术语，比如 r(x1,…,xj,y1,…,yk)，可以根据类符号的子集来扩展这个术语。相对于 x1,…,xj 进行扩展得到
 
@@ -683,7 +682,7 @@ C(a1,x1)⋯C(aj,xj)=0
 
 是一个_组成方程_。
 
-**步骤 7**：（除法：解出一个类符号）\[_MAL_ (第 73 页), _LT_ (第 86-92 页) ]
+**步骤 7**：（除法：解出一个类符号）\[*MAL* (第 73 页), *LT* (第 86-92 页) ]
 
 给定一个方程 r=0，假设想要解出这个方程中的一个类符号，比如说 x，用其他类符号来表示，假设它们是 y1,…,yk。解为：
 
@@ -735,7 +734,7 @@ N(a1,…,ak)/D(a1,…,ak).
 
 他有以下规则来解码系数对其组成部分的影响：(1) 对于系数 m/m，其中 m≠0，保留组成部分在解决方案中；(2) 对于 0/m，其中 m≠0，删除组成部分；(3) 系数 0/0 被转换为任意参数；以及 (4) 任何其他系数表示组成部分将被移除并设置为 0。这种形式除法和形式展开的使用最好被视为一种巧妙的记忆设备。
 
-**第 8 步**：(解释) \[_MAL_ pp. 64–65, _LT_ (Chap. VI, esp. pp. 82–83)]
+**第 8 步**：(解释) \[*MAL* pp. 64–65, *LT* (Chap. VI, esp. pp. 82–83)]
 
 任何多项式方程 p(y1,…,yk)=0 都等价于组成方程的集合
 
@@ -745,7 +744,7 @@ C(a1,y1)⋯C(ak,yk)=0
 
 y1(1−y2)(1−y3)=0
 
-表达了命题 _所有 y1 都是 y2 或 y3_，或者等价地说，_所有 y1 不是 y2 就是 y3_。将组成方程解释为命题是常规做法。
+表达了命题 *所有 y1 都是 y2 或 y3*，或者等价地说，*所有 y1 不是 y2 就是 y3*。将组成方程解释为命题是常规做法。
 
 ### 6.3. 乔治·布尔 的二次命题通用方法
 
@@ -757,7 +756,7 @@ y1(1−y2)(1−y3)=0
 
 乔治·布尔主要在_MAL_中使用亚里士多德命题，采用传统的分类和假设划分。在_LT_中，这种划分被类似但更一般的一级与二级分类所取代，其中主语和谓语被允许变成复杂的名称，并且论证中命题的数量变得不受限制。通过这一点，一级命题的逻辑与二级命题的逻辑之间的平行关系变得清晰，但有一个显著的区别，即似乎乔治·布尔考虑的二级命题总是转化为普遍的一级命题。
 
-| 二级命题           | _MAL_ (1847) | _LT_ (1854) |                 |       |
+| 二级命题           | *MAL* (1847) | *LT* (1854) |                 |       |
 | -------------- | ------------ | ----------- | --------------- | ----- |
 | X 是真的          | x=1          | p.51        | x=1             | p.172 |
 | X 是假的          | x=0          | p.51        | x=0             | p.172 |
@@ -770,62 +769,62 @@ y1(1−y2)(1−y3)=0
 
 ### Primary Literature
 
-* Boole, G., 1841, “On the Integration of Linear Differential Equations with Constant Coefficients,” _The Cambridge Mathematical Journal_, 2: 114–119.
-* –––, 1841, “Researches on the Theory of Analytical Transformations, with a special application to the Reduction of the General Equation of the Second Order,” _The Cambridge Mathematical Journal_, 2: 64–73.
-* –––, 1841, “On Certain Theorems in the Calculus of Variations,” _The Cambridge Mathematical Journal_, 2: 97–102.
-* –––, 1847, _The Mathematical Analysis of Logic, Being an Essay Towards a Calculus of Deductive Reasoning_, Cambridge: Macmillan, Barclay, & Macmillan, and London: George Bell; reprinted, Oxford: Blackwell, 1951.
-* –––, 1848, “The Calculus of Logic,” _The Cambridge and Dublin Mathematical Journal_, 3: 183–198.
-* –––, 1854, _An Investigation of The Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities_, London: Walton and Maberly, Cambridge: Macmillan and Co.; reprinted, New York: Dover, 1958.
-* –––, 1859, _A Treatise on Differential Equations_, Cambridge: Cambridge University Press, and London: Macmillan.
-* –––, 1860, _A Treatise on the Calculus of Finite Differences_, Cambridge: Cambridge University Press, and London: Macmillan.
-* –––, 1997, _Selected Manuscripts on Logic and its Philosophy_ (Science Networks Historical Studies: Volume 20), edited by Ivor Grattan-Guinness and Gérard Bornet. Basel, Boston, and Berlin: Birkhäuser Verlag.
-* De Morgan, A., 1839, “On the Foundation of Algebra,” _Transactions of the Cambridge Philosophical Society_, VII, 174–187.
-* –––, 1841, “On the Foundation of Algebra, No. II,” _Transactions of the Cambridge Philosophical Society_ VII, 287–300.
-* –––, 1847, _Formal Logic: or, the Calculus of Inference, Necessary and Probable_, Originally published in London by Taylor and Walton. Reprinted in London by The Open Court Company, 1926.
-* –––, _On the Syllogism, and Other Logical Writings_, P. Heath (ed.), New Haven: Yale University Press, 1966. (A posthumous collection of De Morgan’s papers on logic.)
-* Gregory, D.F., 1839, “Demonstrations in the Differential Calculus and the Calculus of Finite Differences,” _The Cambridge Mathematical Journal_, I: 212–222.
-* –––, 1839, “I.–On the Elementary Principles of the Application of Algebraical Symbols to Geometry,” _The Cambridge Mathematical Journal_, II (No. VII): 1–9.
-* –––, 1840, “On the Real Nature of Symbolical Algebra.” _Transactions of the Royal Society of Edinburgh_, 14: 208–216. Also in \[Gregory 1865, pp. 1–13].
-* –––, 1865, _The Mathematical Writings of Duncan Farquharson Gregory_, M.A., W. Walton (ed.), Cambridge: Deighton, Bell.
-* Jevons, W.S., 1864, _Pure Logic, or the Logic of Quality apart from Quantity: with Remarks on Boole’s System and on the Relation of Logic and Mathematics_, London: Edward Stanford. Reprinted 1971 in _Pure Logic and Other Minor Works_, R. Adamson and H.A. Jevons (eds.), New York: Lennox Hill Pub. & Dist. Co.
-* Lacroix, S.F, 1797/1798, _Traité du Calcul Différentiel et du Calcul Integral_, Paris: Chez Courcier.
-* Lagrange, J.L., 1788, _Méchanique Analytique_, Paris: Desaint.
-* –––, 1797, _Théorie des Fonctions Analytique_, Paris: Imprimerie de la Republique.
-* Peacock, G., 1830, _Treatise on Algebra_, 2nd ed., 2 vols., Cambridge: J.\&J.J. Deighton, 1842/1845.
-* –––, 1833, “Report on the Recent Progress and Present State of certain Branches of Analysis”, in _Report of the Third Meeting of the British Association for the Advancement of Science_ (held at Cambridge in 1833), London: John Murray, pp. 185–352.
-* Schröder, E., 1890–1910, _Algebra der Logik_ (Volumes I–III), Leipzig: B.G. Teubner; reprinted Chelsea 1966.
-* Whately, R., 1826, _Elements of Logic_, London: J. Mawman.
+* Boole, G., 1841, “On the Integration of Linear Differential Equations with Constant Coefficients,” *The Cambridge Mathematical Journal*, 2: 114–119.
+* –––, 1841, “Researches on the Theory of Analytical Transformations, with a special application to the Reduction of the General Equation of the Second Order,” *The Cambridge Mathematical Journal*, 2: 64–73.
+* –––, 1841, “On Certain Theorems in the Calculus of Variations,” *The Cambridge Mathematical Journal*, 2: 97–102.
+* –––, 1847, *The Mathematical Analysis of Logic, Being an Essay Towards a Calculus of Deductive Reasoning*, Cambridge: Macmillan, Barclay, & Macmillan, and London: George Bell; reprinted, Oxford: Blackwell, 1951.
+* –––, 1848, “The Calculus of Logic,” *The Cambridge and Dublin Mathematical Journal*, 3: 183–198.
+* –––, 1854, *An Investigation of The Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities*, London: Walton and Maberly, Cambridge: Macmillan and Co.; reprinted, New York: Dover, 1958.
+* –––, 1859, *A Treatise on Differential Equations*, Cambridge: Cambridge University Press, and London: Macmillan.
+* –––, 1860, *A Treatise on the Calculus of Finite Differences*, Cambridge: Cambridge University Press, and London: Macmillan.
+* –––, 1997, *Selected Manuscripts on Logic and its Philosophy* (Science Networks Historical Studies: Volume 20), edited by Ivor Grattan-Guinness and Gérard Bornet. Basel, Boston, and Berlin: Birkhäuser Verlag.
+* De Morgan, A., 1839, “On the Foundation of Algebra,” *Transactions of the Cambridge Philosophical Society*, VII, 174–187.
+* –––, 1841, “On the Foundation of Algebra, No. II,” *Transactions of the Cambridge Philosophical Society* VII, 287–300.
+* –––, 1847, *Formal Logic: or, the Calculus of Inference, Necessary and Probable*, Originally published in London by Taylor and Walton. Reprinted in London by The Open Court Company, 1926.
+* –––, *On the Syllogism, and Other Logical Writings*, P. Heath (ed.), New Haven: Yale University Press, 1966. (A posthumous collection of De Morgan’s papers on logic.)
+* Gregory, D.F., 1839, “Demonstrations in the Differential Calculus and the Calculus of Finite Differences,” *The Cambridge Mathematical Journal*, I: 212–222.
+* –––, 1839, “I.–On the Elementary Principles of the Application of Algebraical Symbols to Geometry,” *The Cambridge Mathematical Journal*, II (No. VII): 1–9.
+* –––, 1840, “On the Real Nature of Symbolical Algebra.” *Transactions of the Royal Society of Edinburgh*, 14: 208–216. Also in \[Gregory 1865, pp. 1–13].
+* –––, 1865, *The Mathematical Writings of Duncan Farquharson Gregory*, M.A., W. Walton (ed.), Cambridge: Deighton, Bell.
+* Jevons, W.S., 1864, *Pure Logic, or the Logic of Quality apart from Quantity: with Remarks on Boole’s System and on the Relation of Logic and Mathematics*, London: Edward Stanford. Reprinted 1971 in *Pure Logic and Other Minor Works*, R. Adamson and H.A. Jevons (eds.), New York: Lennox Hill Pub. & Dist. Co.
+* Lacroix, S.F, 1797/1798, *Traité du Calcul Différentiel et du Calcul Integral*, Paris: Chez Courcier.
+* Lagrange, J.L., 1788, *Méchanique Analytique*, Paris: Desaint.
+* –––, 1797, *Théorie des Fonctions Analytique*, Paris: Imprimerie de la Republique.
+* Peacock, G., 1830, *Treatise on Algebra*, 2nd ed., 2 vols., Cambridge: J.\&J.J. Deighton, 1842/1845.
+* –––, 1833, “Report on the Recent Progress and Present State of certain Branches of Analysis”, in *Report of the Third Meeting of the British Association for the Advancement of Science* (held at Cambridge in 1833), London: John Murray, pp. 185–352.
+* Schröder, E., 1890–1910, *Algebra der Logik* (Volumes I–III), Leipzig: B.G. Teubner; reprinted Chelsea 1966.
+* Whately, R., 1826, *Elements of Logic*, London: J. Mawman.
 
 ### Secondary Literature
 
 #### Cited Works
 
-* Aiken, H.A., 1951, _Synthesis of Electronic Computing and Control Circuits_, Cambridge, MA: Harvard University Press.
-* Brown, F.W, 2009, “ George Boole’s Deductive System”, _Notre Dame Journal of Logic_, 50: 303–330.
-* Burris, S. and Sankappanavar, H.P., 2013, “The Horn Theory of Boole’s Partial Algebras”, _The Bulletin of Symbolic Logic_, 19: 97–105.
-* Burris, S.N., 2015, “George Boole and Boolean Algebra”, _European Mathematical Society Newsletter_, 98: 27–31.
-* Dummett, M., 1959, “Review of _Studies in Logic and Probability_, by George Boole”, Watts & Co., London, 1952, edited by R. Rhees, _The Journal of Symbolic Logic_, 24: 203–209.
-* Ewald, W. (ed.), 1996, _From Kant to Hilbert. A Source Book in the History of Mathematics_, 2 volumes, Oxford: Oxford University Press.
-* Grattan-Guiness, I., 2001, _The Search for Mathematical Roots_, Princeton, NJ: Princeton University Press.
-* Hailperin, T., 1976, _Boole’s Logic and Probability_, (Series: Studies in Logic and the Foundations of Mathematics, 85), Amsterdam, New York, Oxford: Elsevier North-Holland. 2nd edition, Revised and enlarged, 1986.
-* –––, 1981, “Boole’s algebra isn’t Boolean algebra”, _Mathematics Magazine_, 54: 172–184.
-* Jourdain, P.E.B., 1914, “The Development of the Theories of Mathematical Logic and the Principles of Mathematics. William Stanley Jevons”, _Quarterly Journal of Pure and Applied Mathematics_, 44: 113–128.
-* MacHale, D., 1985, _George Boole, His Life and Work_, Dublin: Boole Press; 2nd edition, 2014, Cork University Press.
-* MacHale, D. and Cohen, Y., 2018, _New Light on George Boole_, Cork University Press.
-* Schröder, E., 1890–1910, _Algebra der Logik_ (Volumes I–III), Leipzig: B.G. Teubner; reprinted Chelsea 1966.
-* Whitney, H., 1933, “Characteristic Functions and the Algebra of Logic”, _Annals of Mathematics_ (Second Series), 34: 405–414.
+* Aiken, H.A., 1951, *Synthesis of Electronic Computing and Control Circuits*, Cambridge, MA: Harvard University Press.
+* Brown, F.W, 2009, “ George Boole’s Deductive System”, *Notre Dame Journal of Logic*, 50: 303–330.
+* Burris, S. and Sankappanavar, H.P., 2013, “The Horn Theory of Boole’s Partial Algebras”, *The Bulletin of Symbolic Logic*, 19: 97–105.
+* Burris, S.N., 2015, “George Boole and Boolean Algebra”, *European Mathematical Society Newsletter*, 98: 27–31.
+* Dummett, M., 1959, “Review of *Studies in Logic and Probability*, by George Boole”, Watts & Co., London, 1952, edited by R. Rhees, *The Journal of Symbolic Logic*, 24: 203–209.
+* Ewald, W. (ed.), 1996, *From Kant to Hilbert. A Source Book in the History of Mathematics*, 2 volumes, Oxford: Oxford University Press.
+* Grattan-Guiness, I., 2001, *The Search for Mathematical Roots*, Princeton, NJ: Princeton University Press.
+* Hailperin, T., 1976, *Boole’s Logic and Probability*, (Series: Studies in Logic and the Foundations of Mathematics, 85), Amsterdam, New York, Oxford: Elsevier North-Holland. 2nd edition, Revised and enlarged, 1986.
+* –––, 1981, “Boole’s algebra isn’t Boolean algebra”, *Mathematics Magazine*, 54: 172–184.
+* Jourdain, P.E.B., 1914, “The Development of the Theories of Mathematical Logic and the Principles of Mathematics. William Stanley Jevons”, *Quarterly Journal of Pure and Applied Mathematics*, 44: 113–128.
+* MacHale, D., 1985, *George Boole, His Life and Work*, Dublin: Boole Press; 2nd edition, 2014, Cork University Press.
+* MacHale, D. and Cohen, Y., 2018, *New Light on George Boole*, Cork University Press.
+* Schröder, E., 1890–1910, *Algebra der Logik* (Volumes I–III), Leipzig: B.G. Teubner; reprinted Chelsea 1966.
+* Whitney, H., 1933, “Characteristic Functions and the Algebra of Logic”, *Annals of Mathematics* (Second Series), 34: 405–414.
 
 #### Other Important Literature
 
-* Couturat, L., 1905, _L’algèbre de la Logique_, 2d edition, Librairie Scientifique et Technique Albert Blanchard, Paris; English translation by Lydia G. Robinson: Open Court Publishing Co., Chicago & London, 1914; reprinted by Mineola: Dover Publications, 2006.
-* Frege, G., 1880, “Boole’s Logical Calculus and the Concept-Script”, in _Gottlob Frege: Posthumous Writings_, Basil Blackwell, Oxford, 1979. English translation of _Nachgelassene Schriften_, vol. 1, edited by H. Hermes, F. Kambartel, and F. Kaulbach, Felix Meiner, Hamburg, 1969.
-* Kneale, W., and M. Kneale, 1962, _The Development of Logic_, Oxford: The Clarendon Press.
-* Lewis, C. I., 1918, _A Survey of Symbolic Logic_, University of California Press, Berkeley; reprinted New York: Dover Publications, 1960. (See Chap. II, “The Classic, or Boole-Schröder Algebra of Logic.”)
-* Peirce, C. S., 1880, “On the Algebra of Logic”, _American Journal of Mathematics_, 3: 15–57.
-* Smith, G. C., 1983, “Boole’s Annotations on _The Mathematical Analysis of Logic_”, _History and Philosophy of Logic_, 4: 27–39.
-* Styazhkin, N. I., 1969, _Concise History of Mathematical Logic from Leibniz to Peano_, Cambridge, MA: The MIT Press.
-* van Evra, J. W., 1977, “A Reassessment of George Boole’s Theory of Logic”, _Notre Dame Journal of Formal Logic_, 18: 363–77.
-* Venn, J., 1894, _Symbolic Logic_, 2nd edition (revised), London: Macmillan; reprinted Bronx: Chelsea Publishing Co., 1971.
+* Couturat, L., 1905, *L’algèbre de la Logique*, 2d edition, Librairie Scientifique et Technique Albert Blanchard, Paris; English translation by Lydia G. Robinson: Open Court Publishing Co., Chicago & London, 1914; reprinted by Mineola: Dover Publications, 2006.
+* Frege, G., 1880, “Boole’s Logical Calculus and the Concept-Script”, in *Gottlob Frege: Posthumous Writings*, Basil Blackwell, Oxford, 1979. English translation of *Nachgelassene Schriften*, vol. 1, edited by H. Hermes, F. Kambartel, and F. Kaulbach, Felix Meiner, Hamburg, 1969.
+* Kneale, W., and M. Kneale, 1962, *The Development of Logic*, Oxford: The Clarendon Press.
+* Lewis, C. I., 1918, *A Survey of Symbolic Logic*, University of California Press, Berkeley; reprinted New York: Dover Publications, 1960. (See Chap. II, “The Classic, or Boole-Schröder Algebra of Logic.”)
+* Peirce, C. S., 1880, “On the Algebra of Logic”, *American Journal of Mathematics*, 3: 15–57.
+* Smith, G. C., 1983, “Boole’s Annotations on *The Mathematical Analysis of Logic*”, *History and Philosophy of Logic*, 4: 27–39.
+* Styazhkin, N. I., 1969, *Concise History of Mathematical Logic from Leibniz to Peano*, Cambridge, MA: The MIT Press.
+* van Evra, J. W., 1977, “A Reassessment of George Boole’s Theory of Logic”, *Notre Dame Journal of Formal Logic*, 18: 363–77.
+* Venn, J., 1894, *Symbolic Logic*, 2nd edition (revised), London: Macmillan; reprinted Bronx: Chelsea Publishing Co., 1971.
 
 ## Academic Tools
 
@@ -838,9 +837,9 @@ y1(1−y2)(1−y3)=0
 ## Other Internet Resources
 
 * Versions of Boole's work annotated by Stanley Burris:
-  * [_Algebra of Logic_](https://math.uwaterloo.ca/\~snburris/htdocs/MAL_Nov_20_2022.pdf) (1847)
+  * [*Algebra of Logic*](https://math.uwaterloo.ca/\~snburris/htdocs/MAL_Nov_20_2022.pdf) (1847)
   * “[The Calculus of Logic](https://math.uwaterloo.ca/\~snburris/htdocs/CL.pdf)” (1848)
-  * [_An Investigation of The Laws of Thought_](https://math.uwaterloo.ca/\~snburris/htdocs/LT_15_CHAPS.pdf) (1854), first 15 chapters.
+  * [*An Investigation of The Laws of Thought*](https://math.uwaterloo.ca/\~snburris/htdocs/LT_15_CHAPS.pdf) (1854), first 15 chapters.
 * Other entries at the The MacTutor History of Mathematics Archive:
 * [Algebraic Logic Group](http://www.renyi.hu/staff/alglog.html), Alfred Reyni Institute of Mathematics, Hungarian Academy of Sciences
 * [George Boole 200](http://georgeboole200.ucc.ie/), maintained at University College Cork.

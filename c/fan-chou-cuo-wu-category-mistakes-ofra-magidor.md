@@ -1,6 +1,6 @@
 # 范畴错误 category mistakes (Ofra Magidor)
 
-_首次发布于 2019 年 7 月 5 日星期五_
+*首次发布于 2019 年 7 月 5 日星期五*
 
 范畴错误是诸如“数字二是蓝色的”、“相对论正在吃早餐”或“绿色的想法在愤怒地睡觉”之类的句子。这些句子引人注目的地方在于它们非常奇怪或不恰当，而且以一种独特的方式不恰当。例如，它们似乎以一种与仅仅是琐碎错误的句子（如“2+2=5”）或明显不符合语法的字符串（如“这个跑”）不同的方式不恰当。
 
@@ -9,7 +9,6 @@ _首次发布于 2019 年 7 月 5 日星期五_
 此外，如何解释范畴错误的不准确性问题对许多其他哲学问题都有影响。例如，在形而上学中，人们经常争论说雕像必须与它所制成的黏土块不同，因为“雕像是罗马式的”是正确的，而“黏土块是罗马式的”则不是 - 实际上，后者的归属可以说构成了一个范畴错误。因此，对这一论点的评估取决于一个人对范畴错误的解释（见下文第 4 节）。
 
 在简要讨论如何描述范畴错误（§1）和辩论历史（§2）之后，本文的大部分内容集中在如何解释范畴错误的不准确性问题上（§3）。我们最后总结了对语言哲学和形而上学中其他问题的讨论对范畴错误的影响（§4）。
-
 
 ***
 
@@ -37,7 +36,7 @@ _首次发布于 2019 年 7 月 5 日星期五_
 
 20 世纪 60 年代出现了对范畴错误作为一种独立有趣的语言现象的直接兴趣。1966 年，德兰格（Drange）发表了一整本专门讨论这个主题的专著（Drange 1966），《澳大利亚哲学杂志》上的一场热烈讨论集中在一个问题上，即范畴错误是否具有真值，兰伯特和哈克（Lambert and Haack）支持这一观点（标记为“无类型”或“伪真”），即范畴错误具有真值，而布雷迪（Brady）、戈达德（Goddard）和劳特利（Routley）则认为它们没有\[[6](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-6)]。20 世纪 60 年代末至 80 年代初的时期见证了一系列试图用形式逻辑工具解释范畴错误的论文，最终出版了第二本专门讨论范畴错误的专著：拉平（Lappin）（1981）\[[7](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-7)]。然而，到了 20 世纪 80 年代中期，范畴错误这个话题似乎已经过时：在 20 多年的时间里，它在哲学文献中基本上被忽视，至少作为一个独立的问题。
 
-Almost entirely divorced from the philosophical debate, category mistakes were also extensively discussed in the linguistics literature (though almost never under that label—terms used in the linguistic literature for various aspects of the phenomenon include ‘selectional violations’, ‘selectional restrictions’, ‘semantic anomaly’ ‘sortal presuppositions’). Here the driving figure of the debate was Noam Chomsky. In his 1957 monograph _Syntactic Structures_, Chomsky maintained that the now-famous category mistake ‘Colorless green ideas sleep furiously’ is grammatical but meaningless, using this claim to support his contention that syntax is an autonomous field from semantics. The claim was further developed in Fodor & Katz’s influential paper ‘The structure of semantic theory’ (Fodor & Katz 1963), where they claimed that the ability to recognize which sentences are ‘semantically anomalous’ (their term for category mistakes) was a crucial component of linguistic competence. Moreover, they developed a semantic framework which predicted that category mistakes are (grammatical but) meaningless. However, in his 1965 book _Aspects of the Theory of Syntax_ Chomsky revised his view of category mistakes, now arguing that they are _un_grammatical, and offering a syntactic theory which rendered them syntactically ill-formed (cf. §3.1). The theory followed many of the technical details of Fodor and Katz’s theory, but this time treating features they took to be semantic as syntactic.
+Almost entirely divorced from the philosophical debate, category mistakes were also extensively discussed in the linguistics literature (though almost never under that label—terms used in the linguistic literature for various aspects of the phenomenon include ‘selectional violations’, ‘selectional restrictions’, ‘semantic anomaly’ ‘sortal presuppositions’). Here the driving figure of the debate was Noam Chomsky. In his 1957 monograph *Syntactic Structures*, Chomsky maintained that the now-famous category mistake ‘Colorless green ideas sleep furiously’ is grammatical but meaningless, using this claim to support his contention that syntax is an autonomous field from semantics. The claim was further developed in Fodor & Katz’s influential paper ‘The structure of semantic theory’ (Fodor & Katz 1963), where they claimed that the ability to recognize which sentences are ‘semantically anomalous’ (their term for category mistakes) was a crucial component of linguistic competence. Moreover, they developed a semantic framework which predicted that category mistakes are (grammatical but) meaningless. However, in his 1965 book *Aspects of the Theory of Syntax* Chomsky revised his view of category mistakes, now arguing that they are _un_grammatical, and offering a syntactic theory which rendered them syntactically ill-formed (cf. §3.1). The theory followed many of the technical details of Fodor and Katz’s theory, but this time treating features they took to be semantic as syntactic.
 
 In the late 1960s category mistakes played a central role in the chasm between the followers of Chomsky (whose view was labelled ‘Interpretative Semantics’), and proponents of a new movement in linguistics labelled ‘Generative Semantics’, whose key proponents were Lakoff, McCawley, Ross, and Postal. Interpretative semanticists claimed that sentences were assigned a syntactic structure by an autonomous syntactic module, a structure which could then be provided as input for semantic interpretation. By contrast, generative semanticists eschewed the sharp distinction between syntax and semantics, maintaining that the structure of a sentence was determined by a combination of so-called syntactic, semantic, and pragmatic considerations. In particular, they labelled infelicitous sentences such as category mistakes as simply ‘ill-formed’, resisting the attempt to pin down the precise source of the ill-formedness.\[[8](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-8)]
 
@@ -49,7 +48,7 @@ In the late 1960s category mistakes played a central role in the chasm between t
 
 ### 3.1 句法方法
 
-一种解释范畴错误的不准确性的方法是坚持认为它们在句法上是不合法的。这种方法最有力的辩护出现在 Chomsky 1965 年的专著《_语法理论的方面_》中。Chomsky 的解释大致如下。除了一般语法范畴的分配，如“名词”和“动词”，词汇项目还会获得 Chomsky 所称的“选择特征”。例如，即使“男孩”和“真诚”都是名词，前者获得选择特征“+有生命”，“-抽象”，而后者获得特征“-有生命”，“+抽象”。动词和形容词也带有选择特征，代表它们接受的论元种类。例如，动词“admire”期望其主语论元为“+有生命”，因此预测“男孩钦佩真诚”是合乎语法的，而范畴错误“真诚钦佩男孩”则不是。
+一种解释范畴错误的不准确性的方法是坚持认为它们在句法上是不合法的。这种方法最有力的辩护出现在 Chomsky 1965 年的专著《*语法理论的方面*》中。Chomsky 的解释大致如下。除了一般语法范畴的分配，如“名词”和“动词”，词汇项目还会获得 Chomsky 所称的“选择特征”。例如，即使“男孩”和“真诚”都是名词，前者获得选择特征“+有生命”，“-抽象”，而后者获得特征“-有生命”，“+抽象”。动词和形容词也带有选择特征，代表它们接受的论元种类。例如，动词“admire”期望其主语论元为“+有生命”，因此预测“男孩钦佩真诚”是合乎语法的，而范畴错误“真诚钦佩男孩”则不是。
 
 Chomsky 支持句法方法的关键论点是选择特征的使用作为句法的一部分是有独立动机的（Chomsky 1965，§4.1）。因此考虑以下字符串：
 
@@ -127,7 +126,7 @@ Chomsky 支持句法方法的关键论点是选择特征的使用作为句法的
 
 解释范畴错误的不准确性的第二种方法是认为它们在句法上是格式良好的，但在语义上有缺陷。这种一般方法包括几种不同的观点。为了理解这一点，注意到有各种语义值被分配给单个句子令牌。首先，一个句子被分配一个一般的_意义_。不深入理论，我们可以将句子的意义看作是将其包含的每个单词的定义结合起来的结果，也是句子与其它语言的翻译所共享的内容。因此，英语句子‘I am tall’的意义是它与法语句子‘Je suis grande’所共享的属性。其次，当一个句子在特定语境中被说出时，它表达特定的_内容_。例如，在苏菲说出句子‘I am tall’的语境中，它表达了苏菲高的命题，在吉姆说出这个句子的语境中，它表达了吉姆高的命题。第三，句子的特定令牌接收一个_真值_，例如，当苏菲说‘I am tall’时，她（令牌）的句子如果她确实高，则为真，否则为假。
 
-与这三种语义值相对应的是三种不同的范畴错误语义解释：根据第一种（“无意义观”），范畴错误在句法上是良好形成的，但是无意义；根据第二种（“无内容观”），它们是有意义的，但缺乏内容；根据第三种（“无真值观”），它们是有意义并且有内容的，但缺乏真值（或者至少缺乏两个标准真值之一，_真_ 和 _假_）。
+与这三种语义值相对应的是三种不同的范畴错误语义解释：根据第一种（“无意义观”），范畴错误在句法上是良好形成的，但是无意义；根据第二种（“无内容观”），它们是有意义的，但缺乏内容；根据第三种（“无真值观”），它们是有意义并且有内容的，但缺乏真值（或者至少缺乏两个标准真值之一，*真* 和 *假*）。
 
 #### 3.2.1 无意义观
 
@@ -261,7 +260,7 @@ Bob 连根拔起院子里的一切并将其烧掉。
 
 要么数字二是绿色的，要么数字二不是绿色的。
 
-虽然这在认为“数字二是绿色的”是无意义或至少是无内容的观点上是可以预料的，但对于无真值观来说，这可能是一个不太令人愉快的结果。避免这种后果的另一种观点是使用超值逻辑来解释范畴错误。这种观点在 Thomason（1972）中详细阐述，但大致上是这样进行的：估值是将真/假值分配给每个原子句子的一种方式，其中无问题的实例通常按照惯例接收真值，而范畴错误则被分配一个任意的真值。复杂句子按照标准递归方式相对于每个估值接收一个真值，最后一个句子被认为是_真_，如果它相对于每个估值都是真的；_假_，如果它相对于每个估值都是假的；如果它相对于一些估值是真的而对其他估值是假的，则被认为是_无真值_。这确保了（23）被认为是真的，因为它相对于每个估值都是真的（可以证明对于所有其他经典重言式也是如此）。此外，它还认为存在量化如（20）是真的，因此正确地预测它们是合适的。然而，与 SK 方法一样，超值论对范畴错误的处理使得（21）和（22）都具有真值，因此（错误地？）预测它们是合适的。
+虽然这在认为“数字二是绿色的”是无意义或至少是无内容的观点上是可以预料的，但对于无真值观来说，这可能是一个不太令人愉快的结果。避免这种后果的另一种观点是使用超值逻辑来解释范畴错误。这种观点在 Thomason（1972）中详细阐述，但大致上是这样进行的：估值是将真/假值分配给每个原子句子的一种方式，其中无问题的实例通常按照惯例接收真值，而范畴错误则被分配一个任意的真值。复杂句子按照标准递归方式相对于每个估值接收一个真值，最后一个句子被认为是_真_，如果它相对于每个估值都是真的；*假*，如果它相对于每个估值都是假的；如果它相对于一些估值是真的而对其他估值是假的，则被认为是_无真值_。这确保了（23）被认为是真的，因为它相对于每个估值都是真的（可以证明对于所有其他经典重言式也是如此）。此外，它还认为存在量化如（20）是真的，因此正确地预测它们是合适的。然而，与 SK 方法一样，超值论对范畴错误的处理使得（21）和（22）都具有真值，因此（错误地？）预测它们是合适的。
 
 在§3.4 中，我们将看到真值空性观的另一个版本，它提供了一种不同的方式来处理复杂句子中范畴错误的嵌入。
 
@@ -395,9 +394,9 @@ The Categories as 范畴 . You are translating a philosophical text.
 
 ### 4.1 语言哲学的影响
 
-Debates about category mistakes have substantial implications for some foundational questions in philosophy of language and linguistics. Consider the question of how to formulate the principle of compositionality. It is widely accepted that meaning is in some sense compositional, but there are many non-equivalent ways to elaborate what precisely this amounts to. One hypothesis which originates in the work of Richard Montague but has been substantially developed by Pauline Jacobson (and others), is the idea of _direct compositionality_\[[31](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-31)]: “the hypothesis that the syntax and the semantics work ‘in tandem’. The syntax builds expressions and the semantics works to assign meanings to the representations as they are built in the syntax” (Jacobson 2012, 109). As Jacobson argues, the hypothesis of direct compositionality is attractive for a number of reasons: it is theoretically parsimonious, unifying the compositional theories of syntax and semantics, and it explains why semantic composition seem to proceed in a _local_ fashion: the meaning of each sub-sentential expression is computed using only the meanings of its syntactic constituents rather than using material in other parts of the sentence. But as Jacobson remarks, “Direct Compositionality entails that there are no syntactic expressions of any sort, which do not have a meaning” (Jacobson 2012, 110). Note that this entails that the direct compositionality hypothesis is inconsistent with the meaninglessness view of category mistakes and thus the question of how to account for the infelicity of category mistakes interacts with the question of which formulation of the principle of compositionality ought to be adopted.
+Debates about category mistakes have substantial implications for some foundational questions in philosophy of language and linguistics. Consider the question of how to formulate the principle of compositionality. It is widely accepted that meaning is in some sense compositional, but there are many non-equivalent ways to elaborate what precisely this amounts to. One hypothesis which originates in the work of Richard Montague but has been substantially developed by Pauline Jacobson (and others), is the idea of *direct compositionality*\[[31](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-31)]: “the hypothesis that the syntax and the semantics work ‘in tandem’. The syntax builds expressions and the semantics works to assign meanings to the representations as they are built in the syntax” (Jacobson 2012, 109). As Jacobson argues, the hypothesis of direct compositionality is attractive for a number of reasons: it is theoretically parsimonious, unifying the compositional theories of syntax and semantics, and it explains why semantic composition seem to proceed in a *local* fashion: the meaning of each sub-sentential expression is computed using only the meanings of its syntactic constituents rather than using material in other parts of the sentence. But as Jacobson remarks, “Direct Compositionality entails that there are no syntactic expressions of any sort, which do not have a meaning” (Jacobson 2012, 110). Note that this entails that the direct compositionality hypothesis is inconsistent with the meaninglessness view of category mistakes and thus the question of how to account for the infelicity of category mistakes interacts with the question of which formulation of the principle of compositionality ought to be adopted.
 
-Other accounts of category mistakes have implications for different foundational issues. For example, we have seen that the truthvaluelessness view is committed to the existence of truth-valueless propositions, which in turn conflicts with the Tarskian truth-schema. For another example, consider the presuppositional account of category mistakes (on any of its versions). If the presuppositional account is correct, then the set of presupposition triggers is much wider than has previously been assumed: presupposition triggers are not restricted to a small number of special words like ‘know’ or ‘the’, but rather encompass at least most adverbs and adjectives in natural language. This in turn has a variety of implications for the _triggering problem_: the question of why particular lexical items trigger their respective presuppositions, and the issue of whether this question can be answered based on general pragmatic principles, or rather by maintaining that presupposition triggers are simply a conventionally encoded aspect of language.\[[32](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-32)]
+Other accounts of category mistakes have implications for different foundational issues. For example, we have seen that the truthvaluelessness view is committed to the existence of truth-valueless propositions, which in turn conflicts with the Tarskian truth-schema. For another example, consider the presuppositional account of category mistakes (on any of its versions). If the presuppositional account is correct, then the set of presupposition triggers is much wider than has previously been assumed: presupposition triggers are not restricted to a small number of special words like ‘know’ or ‘the’, but rather encompass at least most adverbs and adjectives in natural language. This in turn has a variety of implications for the *triggering problem*: the question of why particular lexical items trigger their respective presuppositions, and the issue of whether this question can be answered based on general pragmatic principles, or rather by maintaining that presupposition triggers are simply a conventionally encoded aspect of language.\[[32](https://plato.stanford.edu/entries/category-mistakes/notes.html#note-32)]
 
 一个人对范畴错误的描述也对语言哲学中更具体的问题产生影响。我们已经看到（§3.2.1），将范畴错误视为无意义的观点与各种隐喻语义解释似乎是不相容的。这意味着一个人应该要么拒绝无意义观点，要么提出一个与该观点相容的隐喻理论。范畴错误辩论重要的另一个领域是虚构话语的语义学。考虑这样一个句子：“一位著名侦探住在贝克街 221 号”。这个句子似乎是真实的（与“这位著名侦探被称为‘瓦特森’”相对，后者似乎是错误的）。然而，这个句子在最直接的字面理解上并不是真实的。关于如何生成这类句子的真实理解的一种流行观点（参见，例如，Lewis 1978），是假设虚构句子在一个（未发声的）运算符的范围内，因此这个句子被理解为表达了这样一个主张：“根据福尔摩斯的故事，一位著名侦探住在贝克街 221 号”，这个主张是直接真实的。然而，请记住，虚构作品通常包含范畴错误的句子；例如，“从前有一棵树，她爱上了一个小男孩”（Silverstein 1964）。但是，如果虚构句子 s 要么是无意义的，要么甚至是没有内容的，那么可以说，即使将其嵌入到命题运算符“根据故事”，我们得到的将是一个没有内容的归属（参见 Friend 2007, 143）。总之，虚构话语的运算符观与范畴错误的无意义观和无内容观似乎是不相容的。
 
@@ -461,83 +460,83 @@ Other accounts of category mistakes have implications for different foundational
 
 ## Bibliography
 
-* Abrusán, M., 2011a, “Triggering verbal presuppositions”, _Proceedings of SALT_, 20: 684–701.
-* –––, 2011b,, “Predicting the presuppositions of soft triggers”, _Linguistics and Philosophy_, 34: 491–535.
-* –––, 2016, “Coercion and pragmatic presuppositions”, _Inquiry_, 59: 529–541.
-* Almotahari, M., 2014, “The identity of a material thing and its matter”, _Philosophical Quarterly_, 64: 387–406.
-* Asher, N., 2011, _Lexical Meaning in Context_, Cambridge: Cambridge University Press.
-* Barker, C., and Jacobson, P., eds., 2007, _Direct Compositionality_, Oxford: Oxford University Press.
-* Beall, J.C., and van Fraassen, B.C., 2003, _Possibilities and paradox_, Oxford: Oxford University Press.
-* Beaver, D.I., 1997, “Presupposition”, in Johan van Benthem and Alice ter Meulen (eds.), _Handbook of Logic and Language_, Amsterdam: Elsevier: 939–1008.
-* Bergmann, M., 1977, “Logic and sortal incorrectness”, _Review of Metaphysics_, 31: 61–79.
-* Brady, R., and Routley, R., 1973, “Don’t care are made to care”, _Australasian Journal of Philosophy_, 51: 211–25.
-* Camp, E., 2004, “The generality constraint and categorical restrictions”, _Philosophical Quarterly_, 54: 210–31.
-* –––, 2016, “_Category Mistakes_, by Ofra Magidor”, _Mind_, 125: 611–615.
-* Chomsky, N., 1957, _Syntactic Structures_, The Hague: Mouton.
-* –––, 1965, _Aspects of the Theory of Syntax_, Cambridge, MA: MIT press.
-* Cooper, R., 1983, _Quantification and Syntactic Theory_, Dordrecht: Reidel.
-* Davidson, D., 2001, “On saying that”, in Davidson, D., _Inquiries into Truth and Interpretation_, Oxford: Clarendon Press: 93–108.
-* Drange, T., 1966, _Type Crossings_, The Hague: Mouton.
-* Elbourne, P., 2016, “Multi sentential category mistakes”, _Inquiry_, 59: 542–558.
-* Ewing, A.C., 1937, “Meaningfulness”, _Mind_, 46: 347–64.
-* Fine, K., 2003, “The non-identity of a material thing and its matter”, _Mind_, 112: 195–234.
-* Field, H., 2003, “No fact of the matter”, _Australasian Journal of Philosophy_, 81: 457–80.
-* Fodor, J., and Katz, J., 1963, “The structure of a semantic theory”, _Language_, 39: 170–210.
-* Friend, Stacie, 2007, “Fictional Characters”, _Philosophy Compass_, 2(2): 141–156.
-* Goddard, L., 1966, “Predicates, relations, and categories”, _Australasian Journal of Philosophy_, 44: 139–71.
-* –––, 1968, “Towards a logic of significance”, _Notre Dame Journal of Formal Logic_, 9: 219–41.
-* Gotham, M., 2017, “Composing criteria of individuation in copredication”, _Journal of Semantics_, 34(2): 333–371.
-* Haack, R.J., 1971, “No need for nonsense”, _Australasian Journal of Philosophy_, 49: 71–7.
-* –––, 1975, “Still No need for nonsense”, _Australasian Journal of Philosophy_, 53:161–4.
-* Harris, R.A., 1993, _The Linguistics Wars_, Oxford: Oxford University Press.
-* Heim, I., and Kratzer, A., 1998, _Semantics in Generative Grammar_, Oxford: Blackwell.
-* Jacobson, P., 2012, “Direct compositionality”, in Wolfram Hinzen, Edouard Machery, and Markus Werning (eds.), _The Oxford Handbook of Compositionality_, Oxford: Oxford University Press: 109–128.
-* Katz, J.J., 1964, “Semi-sentences”, in Jerry Fodor and Jerrold Katz (eds.), _The Structure of Linguistic Theory_, New Jersey: Prentice Hall: 400–416.
-* –––, 1970, “Interpretative semantics vs. Generative semantics”, _Foundations of Language_, 6: 220–59.
-* Kinoshita, E., Mineshima, K., and Bekki, D., 2017, “An analysis of selectional restrictions with dependent type semantics”, in S. Kuranashi et. al (eds.), _New Frontiers in Artificial Intelligence_: _JSAI-isAI 2016_, Springer: 19-32.
-* Lambert, K., 1968, “On the no type theory of significance”, _Australasian Journal of Philosophy_, 46: 79–86.
-* Lappin, S., 1981, _Sorts, Ontology, and Metaphor_, Berlin & New York: de Gruyter.
-* Lewis, D., 1978, “Truth in fiction”, _American Philosophical Quarterly_, 15: 37–46.
-* Libert, A.R., 2016, “Adpositions and Presuppositions”, _SpringerPlus_, 5: 858.
-* Liebesman, D., and Magidor, O., 2017, “Copredication and property inheritance”, _Philosophical Issues_, 27: 131–166.
-* Ludlow, P., 2011, _The Philosophy of Generative Linguistics_, New York: Oxford University Press.
-* Magidor, O., 2009, “Category mistakes are meaningful”, _Linguistics and Philosophy_, 32: 553–581.
-* –––, 2011, “Arguments by Leibniz’s Law in metaphysics”, _Philosophy Compass_, 6: 180–195.
-* –––, 2013, _Category Mistakes_, Oxford: Oxford University Press.
-* –––, 2016, “Response to Abrusán, Shaw, and Elbourne”, _Inquiry_, 59: 559–586.
-* –––, 2017, “Category mistakes and figurative language”, _Philosophical Studies_, 174: 65–78.
-* Martin, J., 1975, “A many valued semantics for category mistakes”, _Synthese_, 31: 63–83.
-* McCawley, J., 1971, “Interpretative semantics meets Frankenstein”, _Foundations of Language_, 7: 285–96.
-* Nolan, D., 2015, “Personification and impossible fiction”, _The British Journal of Aesthetics_, 55: 57–69.
-* Pap, A., 1960, “Types and meaninglessness”, _Mind_, 69: 41–54.
-* Prandi, M., 2016, “Selectional restrictions as ultimate presuppositions of natural ontology”, _Topoi_, 35: 73–81.
-* Prior, A.N., 1954, “Entities”, _Australasian Journal of Philosophy_, 32: 159–68.
-* Quine, W.V.O., 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* Ricœur, P., 1978, _The Rule of Metaphor: the Creation of Meaning in Language_, London: Routledge.
-* Routley, R., 1966, “On significance theory”, _Australasian Journal of Philosophy_, 44: 172–209.
-* –––, 1969, “The need for nonsense”, _Australasian Journal of Philosophy_, 47: 367–384.
-* Ryle, G., 1938, “Categories”, _Proceedings of the Aristotelian Society_, 38: 189–206.
-* –––, 1949, _The Concept of Mind_, London: Hutchinson University Library.
-* Sauerland, U. & von Stechow , A., 2001, “The syntax-semantics interface”, in Neil Smelser & Paul Baltes (eds.), _International Encyclopaedia of the Social & Behavioural Sciences_, Oxford: Pergamon: 15412–15418.
-* Shaw, J., 2015, “Anomaly and quantification”, _Noûs_, 49: 147–176.
-* –––, 2016, “Magidor on anomaly and truth-value gaps”, _Inquiry_, 59: 513–528.
-* Silverstein, S., 1964, _The Giving Tree_, Harper & Collins.
-* Smart, J.J., 1953, “A note on categories”, _British Journal for the Philosophy of Science_, 4: 227–8.
-* Sommers, F., 1963, “Types and ontology”, _Philosophical Review_, 72: 327–63.
-* Stern, J., 2000, _Metaphor in context_, Cambridge, MA: MIT Press.
-* –––, 2006, “Metaphor, Literal, Literalism”, _Mind & Language_, 21: 243–279.
-* Stalnaker, R., 1973, “Presuppositions”, _Journal of Philosophical Logic_, 2: 447–457.
-* Stevenson, A. (ed.), 2010, _Oxford Dictionary of English_, third edition, Oxford: Oxford University Press.
-* Strawson, P., 1952, _Introduction to Logical Theory_, London: Methuen.
-* –––, 1970, “Categories”, in Oscar Wood and George Pitcher (eds.), _Ryle: A Collection of Critical Essays_, New York: Doubleday: 181–212.
-* Thomason, R., 1972, “A semantic theory of sortal incorrectness”, _Journal of Philosophical Logic_, 1: 209–258.
-* Thomasson, A., 2002, “Phenomenology and the development of analytic philosophy”, _The Souther Journal of Philosophy_, 40: 189–206.
-* Turbayne, C., 1962, _The Myth of Metaphor_, New Haven: Yale University Press.
-* von Fintel, K., 2008, “What is presupposition accommodation, again”, _Philosophical Perspectives_, 22: 137–170.
-* Westerhoff, J., 2002, “Defining ontological category”, _Proceedings of the Aristotelean Society_, 102: 337–343.
-* Williamson, T., 1994, _Vagueness_, London: Routledge.
-* –––, 2000, _Knowledge and its Limits_, Oxford: Oxford University Press.
-* Ziff, P., 1964, “On understanding ‘understanding utterances’”, in Jerry Fodor and Jerrold Katz (eds.), _The Structure of Linguistic Theory_, New Jersey: Prentice Hall: 390–399.
+* Abrusán, M., 2011a, “Triggering verbal presuppositions”, *Proceedings of SALT*, 20: 684–701.
+* –––, 2011b,, “Predicting the presuppositions of soft triggers”, *Linguistics and Philosophy*, 34: 491–535.
+* –––, 2016, “Coercion and pragmatic presuppositions”, *Inquiry*, 59: 529–541.
+* Almotahari, M., 2014, “The identity of a material thing and its matter”, *Philosophical Quarterly*, 64: 387–406.
+* Asher, N., 2011, *Lexical Meaning in Context*, Cambridge: Cambridge University Press.
+* Barker, C., and Jacobson, P., eds., 2007, *Direct Compositionality*, Oxford: Oxford University Press.
+* Beall, J.C., and van Fraassen, B.C., 2003, *Possibilities and paradox*, Oxford: Oxford University Press.
+* Beaver, D.I., 1997, “Presupposition”, in Johan van Benthem and Alice ter Meulen (eds.), *Handbook of Logic and Language*, Amsterdam: Elsevier: 939–1008.
+* Bergmann, M., 1977, “Logic and sortal incorrectness”, *Review of Metaphysics*, 31: 61–79.
+* Brady, R., and Routley, R., 1973, “Don’t care are made to care”, *Australasian Journal of Philosophy*, 51: 211–25.
+* Camp, E., 2004, “The generality constraint and categorical restrictions”, *Philosophical Quarterly*, 54: 210–31.
+* –––, 2016, “*Category Mistakes*, by Ofra Magidor”, *Mind*, 125: 611–615.
+* Chomsky, N., 1957, *Syntactic Structures*, The Hague: Mouton.
+* –––, 1965, *Aspects of the Theory of Syntax*, Cambridge, MA: MIT press.
+* Cooper, R., 1983, *Quantification and Syntactic Theory*, Dordrecht: Reidel.
+* Davidson, D., 2001, “On saying that”, in Davidson, D., *Inquiries into Truth and Interpretation*, Oxford: Clarendon Press: 93–108.
+* Drange, T., 1966, *Type Crossings*, The Hague: Mouton.
+* Elbourne, P., 2016, “Multi sentential category mistakes”, *Inquiry*, 59: 542–558.
+* Ewing, A.C., 1937, “Meaningfulness”, *Mind*, 46: 347–64.
+* Fine, K., 2003, “The non-identity of a material thing and its matter”, *Mind*, 112: 195–234.
+* Field, H., 2003, “No fact of the matter”, *Australasian Journal of Philosophy*, 81: 457–80.
+* Fodor, J., and Katz, J., 1963, “The structure of a semantic theory”, *Language*, 39: 170–210.
+* Friend, Stacie, 2007, “Fictional Characters”, *Philosophy Compass*, 2(2): 141–156.
+* Goddard, L., 1966, “Predicates, relations, and categories”, *Australasian Journal of Philosophy*, 44: 139–71.
+* –––, 1968, “Towards a logic of significance”, *Notre Dame Journal of Formal Logic*, 9: 219–41.
+* Gotham, M., 2017, “Composing criteria of individuation in copredication”, *Journal of Semantics*, 34(2): 333–371.
+* Haack, R.J., 1971, “No need for nonsense”, *Australasian Journal of Philosophy*, 49: 71–7.
+* –––, 1975, “Still No need for nonsense”, *Australasian Journal of Philosophy*, 53:161–4.
+* Harris, R.A., 1993, *The Linguistics Wars*, Oxford: Oxford University Press.
+* Heim, I., and Kratzer, A., 1998, *Semantics in Generative Grammar*, Oxford: Blackwell.
+* Jacobson, P., 2012, “Direct compositionality”, in Wolfram Hinzen, Edouard Machery, and Markus Werning (eds.), *The Oxford Handbook of Compositionality*, Oxford: Oxford University Press: 109–128.
+* Katz, J.J., 1964, “Semi-sentences”, in Jerry Fodor and Jerrold Katz (eds.), *The Structure of Linguistic Theory*, New Jersey: Prentice Hall: 400–416.
+* –––, 1970, “Interpretative semantics vs. Generative semantics”, *Foundations of Language*, 6: 220–59.
+* Kinoshita, E., Mineshima, K., and Bekki, D., 2017, “An analysis of selectional restrictions with dependent type semantics”, in S. Kuranashi et. al (eds.), *New Frontiers in Artificial Intelligence*: *JSAI-isAI 2016*, Springer: 19-32.
+* Lambert, K., 1968, “On the no type theory of significance”, *Australasian Journal of Philosophy*, 46: 79–86.
+* Lappin, S., 1981, *Sorts, Ontology, and Metaphor*, Berlin & New York: de Gruyter.
+* Lewis, D., 1978, “Truth in fiction”, *American Philosophical Quarterly*, 15: 37–46.
+* Libert, A.R., 2016, “Adpositions and Presuppositions”, *SpringerPlus*, 5: 858.
+* Liebesman, D., and Magidor, O., 2017, “Copredication and property inheritance”, *Philosophical Issues*, 27: 131–166.
+* Ludlow, P., 2011, *The Philosophy of Generative Linguistics*, New York: Oxford University Press.
+* Magidor, O., 2009, “Category mistakes are meaningful”, *Linguistics and Philosophy*, 32: 553–581.
+* –––, 2011, “Arguments by Leibniz’s Law in metaphysics”, *Philosophy Compass*, 6: 180–195.
+* –––, 2013, *Category Mistakes*, Oxford: Oxford University Press.
+* –––, 2016, “Response to Abrusán, Shaw, and Elbourne”, *Inquiry*, 59: 559–586.
+* –––, 2017, “Category mistakes and figurative language”, *Philosophical Studies*, 174: 65–78.
+* Martin, J., 1975, “A many valued semantics for category mistakes”, *Synthese*, 31: 63–83.
+* McCawley, J., 1971, “Interpretative semantics meets Frankenstein”, *Foundations of Language*, 7: 285–96.
+* Nolan, D., 2015, “Personification and impossible fiction”, *The British Journal of Aesthetics*, 55: 57–69.
+* Pap, A., 1960, “Types and meaninglessness”, *Mind*, 69: 41–54.
+* Prandi, M., 2016, “Selectional restrictions as ultimate presuppositions of natural ontology”, *Topoi*, 35: 73–81.
+* Prior, A.N., 1954, “Entities”, *Australasian Journal of Philosophy*, 32: 159–68.
+* Quine, W.V.O., 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* Ricœur, P., 1978, *The Rule of Metaphor: the Creation of Meaning in Language*, London: Routledge.
+* Routley, R., 1966, “On significance theory”, *Australasian Journal of Philosophy*, 44: 172–209.
+* –––, 1969, “The need for nonsense”, *Australasian Journal of Philosophy*, 47: 367–384.
+* Ryle, G., 1938, “Categories”, *Proceedings of the Aristotelian Society*, 38: 189–206.
+* –––, 1949, *The Concept of Mind*, London: Hutchinson University Library.
+* Sauerland, U. & von Stechow , A., 2001, “The syntax-semantics interface”, in Neil Smelser & Paul Baltes (eds.), *International Encyclopaedia of the Social & Behavioural Sciences*, Oxford: Pergamon: 15412–15418.
+* Shaw, J., 2015, “Anomaly and quantification”, *Noûs*, 49: 147–176.
+* –––, 2016, “Magidor on anomaly and truth-value gaps”, *Inquiry*, 59: 513–528.
+* Silverstein, S., 1964, *The Giving Tree*, Harper & Collins.
+* Smart, J.J., 1953, “A note on categories”, *British Journal for the Philosophy of Science*, 4: 227–8.
+* Sommers, F., 1963, “Types and ontology”, *Philosophical Review*, 72: 327–63.
+* Stern, J., 2000, *Metaphor in context*, Cambridge, MA: MIT Press.
+* –––, 2006, “Metaphor, Literal, Literalism”, *Mind & Language*, 21: 243–279.
+* Stalnaker, R., 1973, “Presuppositions”, *Journal of Philosophical Logic*, 2: 447–457.
+* Stevenson, A. (ed.), 2010, *Oxford Dictionary of English*, third edition, Oxford: Oxford University Press.
+* Strawson, P., 1952, *Introduction to Logical Theory*, London: Methuen.
+* –––, 1970, “Categories”, in Oscar Wood and George Pitcher (eds.), *Ryle: A Collection of Critical Essays*, New York: Doubleday: 181–212.
+* Thomason, R., 1972, “A semantic theory of sortal incorrectness”, *Journal of Philosophical Logic*, 1: 209–258.
+* Thomasson, A., 2002, “Phenomenology and the development of analytic philosophy”, *The Souther Journal of Philosophy*, 40: 189–206.
+* Turbayne, C., 1962, *The Myth of Metaphor*, New Haven: Yale University Press.
+* von Fintel, K., 2008, “What is presupposition accommodation, again”, *Philosophical Perspectives*, 22: 137–170.
+* Westerhoff, J., 2002, “Defining ontological category”, *Proceedings of the Aristotelean Society*, 102: 337–343.
+* Williamson, T., 1994, *Vagueness*, London: Routledge.
+* –––, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press.
+* Ziff, P., 1964, “On understanding ‘understanding utterances’”, in Jerry Fodor and Jerrold Katz (eds.), *The Structure of Linguistic Theory*, New Jersey: Prentice Hall: 390–399.
 
 ## Academic Tools
 
@@ -556,4 +555,4 @@ Other accounts of category mistakes have implications for different foundational
 [categories](https://plato.stanford.edu/entries/categories/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [meaning, theories of](https://plato.stanford.edu/entries/meaning/) | [pragmatics](https://plato.stanford.edu/entries/pragmatics/) | [presupposition](https://plato.stanford.edu/entries/presupposition/) | [Ryle, Gilbert](https://plato.stanford.edu/entries/ryle/)
 
 [Copyright © 2019](https://plato.stanford.edu/info.html#c) by\
-[Ofra Magidor](https://www.magidor.com/) <[_ofra.arch@gmail.com_](mailto:ofra%2earch%40gmail%2ecom)>
+[Ofra Magidor](https://www.magidor.com/) <[*ofra.arch@gmail.com*](mailto:ofra%2earch%40gmail%2ecom)>

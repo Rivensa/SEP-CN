@@ -1,9 +1,8 @@
 # 阿那克萨哥拉 Anaxagoras (Patricia Curd)
 
-_首次发表于 2007 年 8 月 22 日；实质性修订于 2019 年 11 月 11 日_
+*首次发表于 2007 年 8 月 22 日；实质性修订于 2019 年 11 月 11 日*
 
 阿那克萨哥拉（克拉佐梅尼的一座重要的希腊城市，位于伊奥尼亚亚洲小）是公元前 5 世纪的希腊哲学家（约生于公元前 500-480 年），他是前苏格拉底哲学家中第一个居住在雅典的人。他提出了一个关于“一切中的一切”的物理理论，并声称“诺斯”（智慧或心灵）是宇宙的动因。他是第一个正确解释日食的人，因其科学理论而闻名和臭名昭著，包括太阳是一团炽热的金属、月亮是土质的以及星星是火石的说法。阿那克萨哥拉认为宇宙的原始状态是所有成分（他的系统的基本实体）的混合物。这些成分被彻底混合在一起，以至于没有任何单独的成分是明显的，但混合物并不完全均匀或均质。尽管每个成分都是无处不在的，但某些成分的浓度比其他成分高，并且这些比例在不同地方也可能有所不同（即使在宇宙的原始状态中并非如此）。混合物的范围是无限的，并且在某个时间点上，它被“诺斯”的作用推动而开始运动。混合物开始围绕其中的某个小点旋转，随着旋转运动的进行并在整个质量中扩散，混合物中的成分按照相对密度的大小被移动和分离，并与彼此重新混合，最终产生我们所感知到的由明显分离的物质质量和物质对象组成的宇宙，具有不同的属性。
-
 
 ***
 
@@ -13,7 +12,7 @@ _首次发表于 2007 年 8 月 22 日；实质性修订于 2019 年 11 月 11 �
 
 与所有的前苏格拉底学派一样，阿那克萨哥拉的作品只在后来的哲学家和评论家的引用中幸存下来；我们还有许多古代来源关于他的观点的证言。前苏格拉底学派文本的标准收集（包括片段和证言）是 H. Diels 和 W. Kranz 的《前苏格拉底学派的片段》，其中阿那克萨哥拉被赋予编号 59。希腊文本和翻译也可以在 Gemelli-Marciano, 2007–2010；Graham, 2010；以及 Laks 和 Most, 2016a 和 2016b 中找到。（关于前苏格拉底学派的来源和与之相关的问题的讨论，请参阅《前苏格拉底哲学》的文章。）对于阿那克萨哥拉观点的任何讨论都必须是一个超越我们在逐字引用中所拥有的少量细节的重建，尽管受到片段和证言的证据的启发。在阅读以下内容时，请记住学者们的意见不一，其他解释也是可能的。
 
-根据亚里士多德的新柏拉图主义评论家西姆普利修斯（Simplicius）的说法，他是我们对片段的主要来源，阿那克萨哥拉在他的书中首先描述了宇宙的一种完全（但不完全一致）混合的原始状态；然后，这种混合物通过思维/智慧（_nous_）的作用而被推动起来。这些成分是永恒的，并且始终保持着彼此的混合，然而旋转运动会导致某个区域中成分的比例发生变化。原始混合物的扩张旋转最终产生了我们现在所感知到的世界的持续发展。他的理论基础、对这一发展的描述以及对_nous_的讨论构成了我们所拥有的阿那克萨哥拉书中的大部分内容。证言表明，这本书还包括了关于天文、气象和地质现象的详细描述，以及关于知觉和知识的更详细讨论，这些内容现在已经不在我们的片段收集中，只能通过后来的报道和批评了解到。
+根据亚里士多德的新柏拉图主义评论家西姆普利修斯（Simplicius）的说法，他是我们对片段的主要来源，阿那克萨哥拉在他的书中首先描述了宇宙的一种完全（但不完全一致）混合的原始状态；然后，这种混合物通过思维/智慧（*nous*）的作用而被推动起来。这些成分是永恒的，并且始终保持着彼此的混合，然而旋转运动会导致某个区域中成分的比例发生变化。原始混合物的扩张旋转最终产生了我们现在所感知到的世界的持续发展。他的理论基础、对这一发展的描述以及对_nous_的讨论构成了我们所拥有的阿那克萨哥拉书中的大部分内容。证言表明，这本书还包括了关于天文、气象和地质现象的详细描述，以及关于知觉和知识的更详细讨论，这些内容现在已经不在我们的片段收集中，只能通过后来的报道和批评了解到。
 
 ## 2. 形而上学原理
 
@@ -53,7 +52,7 @@ _首次发表于 2007 年 8 月 22 日；实质性修订于 2019 年 11 月 11 �
 
 B1 的主张，“所有事物在最初的旋转之前都在一起”，并不能保证“一切皆在一切”原则的真实性。如果在一切与一切的原始混合物中发生分离，这是由于“诺斯”所赋予的运动所致，那么在足够长的时间内，成分可能会相互分离（就像在斯特里费战胜时的恩佩多克勒斯，四个根完全分离）。阿那克萨哥拉需要阻止这种情况，以便他能够坚持“无变化”原则。在某个通过分离而包含了仅有骨头的区域中，将会出现纯粹的骨头（作为一个新实体），取代并摧毁先前存在的混合物。他通过声称没有最小（也没有最大）来阻止这种可能性。如果成分的密度没有下限，那么通过“诺斯”引起的旋转运动的力量将无法完全从混合物的任何区域中移除任何成分。以下是阿那克萨哥拉的主张：
 
-小的中没有最小的，只有更小的（因为存在的东西不能不存在）——而大的中总是有更大的。而且\[大的]在范围（_plêthos_）上与小的相等，但相对于自身，每个事物既大又小。（B3）
+小的中没有最小的，只有更小的（因为存在的东西不能不存在）——而大的中总是有更大的。而且\[大的]在范围（*plêthos*）上与小的相等，但相对于自身，每个事物既大又小。（B3）
 
 由于大和小的份额数量相等，因此所有事物都将包含在一切中；不可能有任何事物是分离的，而是所有事物都有一部分属于一切。由于不存在最小的可能性，也不可能有任何事物是分离的，或者自己产生，但就像在开始时一样，现在所有事物都在一起。（B6 \[部分]）
 
@@ -67,7 +66,7 @@ B6 的这段文字清楚地表明，“没有最小”的原则与“一切在�
 
 ### 3.1 混合与旋转
 
-宇宙的原始状态是一种无限的（_apeiron_）所有成分的混合物。成分的混合物，全都存在永恒。在过去的某个时刻，它是静止的（59 B1，A45），并且几乎无差别地存在于各处。根据 B1，Simplicius 在片段中提到，这是阿那克萨哥拉书的开头附近：
+宇宙的原始状态是一种无限的（*apeiron*）所有成分的混合物。成分的混合物，全都存在永恒。在过去的某个时刻，它是静止的（59 B1，A45），并且几乎无差别地存在于各处。根据 B1，Simplicius 在片段中提到，这是阿那克萨哥拉书的开头附近：
 
 > 所有事物都在一起，无限的数量和微小的程度，因为微小的东西也是无限的。因为所有事物都在一起，没有因为微小而显而易见的东西；因为空气和以太覆盖了所有事物，它们都是无限的，因为它们在数量和大小方面都是最伟大的。
 
@@ -87,7 +86,7 @@ B6 的这段文字清楚地表明，“没有最小”的原则与“一切在�
 
 因此，最好将阿那克萨哥拉解释为声称所有自然生物和天体的物质成分都存在于原始混合物中，但这些对象本身并不是成分之一，而是自然构造物，由我们称之为营养和生长的混合和分离过程产生，或者由天体的旋转以及星星、云彩、彗星、行星等成分的聚集和分解产生。
 
-对于原始混合的任何解释，阿那克萨哥拉提到了种子是一个问题。种子的词（_spermata_）在片段中出现了两次，在成分列表中（在 B4a 和 B4b 中），但阿那克萨哥拉没有解释或明确说明它的含义。有几种选择：种子被认为是成分中最小的可能部分（但正如上面所讨论的，阿那克萨哥拉的系统中没有最小的部分），或者被认为是极小的像人的成分，一些解释认为这些成分是阿那克萨哥拉生命的起源，然后通过其他成分的添加扩展（Lewis 2000）。Furley 1976 和 2002 提倡最简单的解释，即阿那克萨哥拉只是指生物种子（但不是像人一样的小人），这似乎是最好的解释（另见 Barnes 1982，Curd 2007，Sedley 2007，Marmodoro 2015，2017，147-153; Marmodoro 还将种子视为生物的，包含着预先存在的结构）。种子然后将成为生物的起源点，并且可能是思维（控制所有有灵魂的事物，即任何有生命的事物）进入生物体的途径。如果将种子与适当的成分在适当的环境中混合，生物将会生长。
+对于原始混合的任何解释，阿那克萨哥拉提到了种子是一个问题。种子的词（*spermata*）在片段中出现了两次，在成分列表中（在 B4a 和 B4b 中），但阿那克萨哥拉没有解释或明确说明它的含义。有几种选择：种子被认为是成分中最小的可能部分（但正如上面所讨论的，阿那克萨哥拉的系统中没有最小的部分），或者被认为是极小的像人的成分，一些解释认为这些成分是阿那克萨哥拉生命的起源，然后通过其他成分的添加扩展（Lewis 2000）。Furley 1976 和 2002 提倡最简单的解释，即阿那克萨哥拉只是指生物种子（但不是像人一样的小人），这似乎是最好的解释（另见 Barnes 1982，Curd 2007，Sedley 2007，Marmodoro 2015，2017，147-153; Marmodoro 还将种子视为生物的，包含着预先存在的结构）。种子然后将成为生物的起源点，并且可能是思维（控制所有有灵魂的事物，即任何有生命的事物）进入生物体的途径。如果将种子与适当的成分在适当的环境中混合，生物将会生长。
 
 ### 3.3 Mind/Intellect
 
@@ -99,9 +98,9 @@ B6 的这段文字清楚地表明，“没有最小”的原则与“一切在�
 
 心智/智力在阿那克萨哥拉的体系中扮演了多种角色。首先，它开启了成分的旋转；然后控制着这个旋转，以及在整个宇宙中发生的局部旋转：
 
-> _Nous_ 控制了整个宇宙的旋转，使其在最初开始旋转。首先，它从一个小区域开始旋转，但它现在正在更多地旋转，而且它将继续旋转... 无论将要出现什么样的事物，无论是什么样的事物现在不存在，以及现在存在的所有事物和将来存在的各种事物，所有这些都由 _nous_ 予以安排。 _Nous_ 还安排了这个旋转，其中现在分离出来的事物旋转，包括星星、太阳、月亮、空气和以太。这个旋转使它们分离出来。（59 B12，部分）
+> *Nous* 控制了整个宇宙的旋转，使其在最初开始旋转。首先，它从一个小区域开始旋转，但它现在正在更多地旋转，而且它将继续旋转... 无论将要出现什么样的事物，无论是什么样的事物现在不存在，以及现在存在的所有事物和将来存在的各种事物，所有这些都由 *nous* 予以安排。 *Nous* 还安排了这个旋转，其中现在分离出来的事物旋转，包括星星、太阳、月亮、空气和以太。这个旋转使它们分离出来。（59 B12，部分）
 
-_阿那克萨哥拉_，可以说，不仅是第一原因，也是宇宙秩序的保持者，因为它维持着统治所有自然过程的旋转。阿那克萨哥拉没有解释这些过程是如何运作的，或者_nous_如何影响这些成分。但在亚里士多德的一段评论中（《形而上学》I.3.984b15），我们可以看到他推理的一点线索：
+*阿那克萨哥拉*，可以说，不仅是第一原因，也是宇宙秩序的保持者，因为它维持着统治所有自然过程的旋转。阿那克萨哥拉没有解释这些过程是如何运作的，或者_nous_如何影响这些成分。但在亚里士多德的一段评论中（《形而上学》I.3.984b15），我们可以看到他推理的一点线索：
 
 > 当有人说，_nous_存在于自然界，就像存在于动物身上一样，作为宇宙和所有秩序的原因时，他显得像是在前面的胡言乱语者中的一个清醒的人。（我们知道阿那克萨哥拉明确持有这些观点，但克拉佐梅尼的赫尔莫蒂莫斯先于他被认可。）
 
@@ -127,11 +126,11 @@ B12 片段以对混合和分离的进一步讨论结束，并阿那克萨哥拉�
 
 ### 4.1 宇宙学
 
-混合物的旋转始于一个小区域，然后通过整个物质（B12）扩散开来。由于混合物的范围是无限的（或者说是无限的，_apeiron_），旋转和扩张将会持续下去，将越来越多的成分带入旋涡中（该过程的摘要见 Gregory 2007）。旋转的力量和速度（根据 B9）在边缘处更快，即扩张的旋转与尚未移动的成分质量相遇的地方：我们所感知到的旋转（可能是天体的运动）比未被观察到的旋转要慢得多。这种力量足以拉开和重新排列成分：
+混合物的旋转始于一个小区域，然后通过整个物质（B12）扩散开来。由于混合物的范围是无限的（或者说是无限的，*apeiron*），旋转和扩张将会持续下去，将越来越多的成分带入旋涡中（该过程的摘要见 Gregory 2007）。旋转的力量和速度（根据 B9）在边缘处更快，即扩张的旋转与尚未移动的成分质量相遇的地方：我们所感知到的旋转（可能是天体的运动）比未被观察到的旋转要慢得多。这种力量足以拉开和重新排列成分：
 
 > 当_nous_开始移动\[事物]时，有一部分从正在移动的众多事物中分离出来，无论_nous_移动了什么，所有这些都被分离了出来；随着事物的移动和分离，旋转使它们更加分离。（B13）
 
-有两种解离。首先，当旋转进入尚未移动的成分质量时，该质量开始分解，成分开始在其浓度中移动。这导致原始成分的排列被打破并开始重新排列。由于混合物是一个充满物，任何分离同时也是成分重新排列。然后，这些新的重新排列本身也会进一步分解和重新排列。阿那克萨哥拉在片段中使用不同的术语来表示过程中的不同阶段（尽管他在使用这些术语时并不完全一致）。通常，他使用被分离出来的概念（动词_apokrinesthai_的形式）来表示质量最初的分离。重新排列被称为混合（_summisgesthai_）或压缩（_sumpêgnusthai_）。他还在 B4a 和 B4b 中使用“结合”（_proskrinesthai_）来对比分离过程（_apokrinesthai_）。当他在 B17 中声称消逝实际上是解离时，他使用了词语_diakrinesthai_。这是比 B1 最早的分离更晚的阶段。主要术语是动词_krinein_的复合形式，表示区分。这个词也可以表示“判断”或“确定”，通过使用这些复合术语，阿那克萨哥拉提醒读者所有的变化最终都可以追溯到首次使质量运动的_nous_（意识）的作用。
+有两种解离。首先，当旋转进入尚未移动的成分质量时，该质量开始分解，成分开始在其浓度中移动。这导致原始成分的排列被打破并开始重新排列。由于混合物是一个充满物，任何分离同时也是成分重新排列。然后，这些新的重新排列本身也会进一步分解和重新排列。阿那克萨哥拉在片段中使用不同的术语来表示过程中的不同阶段（尽管他在使用这些术语时并不完全一致）。通常，他使用被分离出来的概念（动词_apokrinesthai_的形式）来表示质量最初的分离。重新排列被称为混合（*summisgesthai*）或压缩（*sumpêgnusthai*）。他还在 B4a 和 B4b 中使用“结合”（*proskrinesthai*）来对比分离过程（*apokrinesthai*）。当他在 B17 中声称消逝实际上是解离时，他使用了词语_diakrinesthai_。这是比 B1 最早的分离更晚的阶段。主要术语是动词_krinein_的复合形式，表示区分。这个词也可以表示“判断”或“确定”，通过使用这些复合术语，阿那克萨哥拉提醒读者所有的变化最终都可以追溯到首次使质量运动的_nous_（意识）的作用。
 
 随着时间的推移，旋转将较轻的成分抛向漩涡的边缘，并将较重的成分推向中心（B15），从而使像地球这样更黑暗和更重的成分集中在中心，并将空气和以太（火）从中心抛开。这给出了传统的希腊地球图像（地球本身是所有成分的混合物，以地球和重金属矿石为主，被水覆盖（在许多地方），空气和天空的火焰区域。
 
@@ -157,7 +156,7 @@ B12 片段以对混合和分离的进一步讨论结束，并阿那克萨哥拉�
 
 只有少数碎片和证言讨论了阿那克萨哥拉在感知和生物知识方面的观点。亚里士多德和提奥弗拉斯托斯对他的感知理论进行了一些阐述，令人惊讶的是，他们说阿那克萨哥拉认为所有感觉都伴随着不适或疼痛（A92）。提奥弗拉斯托斯将此与阿那克萨哥拉认为相似的事物是通过不相似的事物来感知的信念联系起来；在提奥弗拉斯托斯看来，感知是通过触摸进行的，而不相似的事物在被触摸时会产生一些刺激。提奥弗拉斯托斯举出大声的噪音和非常明亮的光作为引起感知者疼痛的因素，并暗示在所有感觉情况下机制是相同的。对于大多数感知者来说，一些刺激可能在意识水平以下，这就是为什么人类在感知时通常不会感到疼痛的原因（有关阿那克萨哥拉关于感知的良好讨论，请参见 Warren 2007）。
 
-知觉和知识之间的关系是什么？阿那克萨哥拉并不声称仅凭知觉就足以获得知识；他似乎也不接受怀疑论。塞克斯都斯·恩皮里科斯（Sextus Empiricus）总是寻找支持和反对任何教条立场的论据，他为我们提供了大部分关于阿那克萨哥拉观点的证据。塞克斯都斯说，对于怀疑论者的方法论，“我们将思考的内容与表象相对立，就像阿那克萨哥拉将雪是白色的表象与雪是冰冻水、水是黑色、因此雪是黑色的主张相对立一样”（A97；但请参见同一证言中的西塞罗的段落）。在这里，阿那克萨哥拉承认雪在我们看来是白色的，但他声称现实必须是雪是黑色的。感官的证据必须通过我们通过思考所知道的来进行修正。在 B21 中，阿那克萨哥拉承认感官的弱点（“由于感官的脆弱，我们无法确定真相”），但在 B21a 中，他接受感知可以成为理解的一步：“表象是看不见的东西的一种视觉。”这是根据他自己的理论得出的结论，因为我们通过思想控制我们的身体的证据，营养和生长的事实，以及天体的局部运转都是宇宙智慧（cosmic _nous_）、无变化原则和宇宙大革命的运作的证据。与其他前苏格拉底哲学家一样，阿那克萨哥拉没有详细说明知识是如何通过思考的完善从感知中产生的：阿那克萨哥拉的观点可以与德谟克利特的观点进行比较，其中感知和思考的关系类似，同样没有解释清楚。
+知觉和知识之间的关系是什么？阿那克萨哥拉并不声称仅凭知觉就足以获得知识；他似乎也不接受怀疑论。塞克斯都斯·恩皮里科斯（Sextus Empiricus）总是寻找支持和反对任何教条立场的论据，他为我们提供了大部分关于阿那克萨哥拉观点的证据。塞克斯都斯说，对于怀疑论者的方法论，“我们将思考的内容与表象相对立，就像阿那克萨哥拉将雪是白色的表象与雪是冰冻水、水是黑色、因此雪是黑色的主张相对立一样”（A97；但请参见同一证言中的西塞罗的段落）。在这里，阿那克萨哥拉承认雪在我们看来是白色的，但他声称现实必须是雪是黑色的。感官的证据必须通过我们通过思考所知道的来进行修正。在 B21 中，阿那克萨哥拉承认感官的弱点（“由于感官的脆弱，我们无法确定真相”），但在 B21a 中，他接受感知可以成为理解的一步：“表象是看不见的东西的一种视觉。”这是根据他自己的理论得出的结论，因为我们通过思想控制我们的身体的证据，营养和生长的事实，以及天体的局部运转都是宇宙智慧（cosmic *nous*）、无变化原则和宇宙大革命的运作的证据。与其他前苏格拉底哲学家一样，阿那克萨哥拉没有详细说明知识是如何通过思考的完善从感知中产生的：阿那克萨哥拉的观点可以与德谟克利特的观点进行比较，其中感知和思考的关系类似，同样没有解释清楚。
 
 ## 6. 阿那克萨哥拉的影响
 
@@ -169,108 +168,108 @@ B12 片段以对混合和分离的进一步讨论结束，并阿那克萨哥拉�
 
 阿那克萨哥拉的观点出现在苏格拉底对先前自然主义解释理论的调查中（《费多篇》96a6 以下）。更不幸的是，梅勒图斯似乎将阿那克萨哥拉关于月亮和星星的土质性质的说法归咎于苏格拉底在他的审判中（参见柏拉图的《辩护篇》26e7 以下，59 A35）。尽管阿那克萨哥拉被指控亵渎神灵的指控可能既是政治上的，也是对公共宗教的威胁的标志（攻击阿那克萨哥拉是对伯里克利斯的间接攻击），但他被视为足够重要和有影响力，以至于有些人将他视为城邦的敌人。
 
-从哲学上讲，阿那克萨哥拉的理论也是广为人知和有影响力的。一些学者认为《德尔维尼纸草》（在希腊北部发现）的作者熟悉阿那克萨哥拉的理论（Betegh 2004; Kouremenos et al. 2006），并且一旦他引入了思维作为原因，其他思想家也跟随他。阿波洛尼亚的狄奥根尼斯声称空气（作为思维和神）指导一切。伊利亚的泽诺（或许）和梅利苏斯（肯定）批评了他的理论。阿那克萨哥拉的观点是“每个事物最明显地是它所包含最多的那些事物”（主导原则），这在柏拉图的主张中有所呼应，即感性事物从其中参与的形式中获得其特征和名称（_费多篇_ 102a10 ff.）。柏拉图甚至采用了阿那克萨哥拉的分享或参与的语言（参见 Furley 2002），而像阿那克萨哥拉的思维一样，柏拉图的形式“本身就是本身”，具有自我解释性（参见 Herrmann, 2007）。尽管对阿那克萨哥拉关于思维的解释存在不足，亚里士多德对他认识到思维在引导宇宙中发挥作用表示钦佩，并将阿那克萨哥拉对日食的解释视为科学解释的典范。
+从哲学上讲，阿那克萨哥拉的理论也是广为人知和有影响力的。一些学者认为《德尔维尼纸草》（在希腊北部发现）的作者熟悉阿那克萨哥拉的理论（Betegh 2004; Kouremenos et al. 2006），并且一旦他引入了思维作为原因，其他思想家也跟随他。阿波洛尼亚的狄奥根尼斯声称空气（作为思维和神）指导一切。伊利亚的泽诺（或许）和梅利苏斯（肯定）批评了他的理论。阿那克萨哥拉的观点是“每个事物最明显地是它所包含最多的那些事物”（主导原则），这在柏拉图的主张中有所呼应，即感性事物从其中参与的形式中获得其特征和名称（*费多篇* 102a10 ff.）。柏拉图甚至采用了阿那克萨哥拉的分享或参与的语言（参见 Furley 2002），而像阿那克萨哥拉的思维一样，柏拉图的形式“本身就是本身”，具有自我解释性（参见 Herrmann, 2007）。尽管对阿那克萨哥拉关于思维的解释存在不足，亚里士多德对他认识到思维在引导宇宙中发挥作用表示钦佩，并将阿那克萨哥拉对日食的解释视为科学解释的典范。
 
 ## Bibliography
 
 ### Editions and Texts
 
-* Diels, H. and W. Kranz, eds., 1974, _Die Fragmente der Vorsokratiker_. Three Vols. Reprint of Sixth Edition, Berlin: Weidmann.
-* Curd, P., 2007, _Anaxagoras of Clazomenae: Fragments. Text and Translation with Notes and Essays_, Toronto: University of Toronto Press.
-* Gemelli Marciano, L.M., 2007–2010, _Die Vorsokratiker_ 3 volumes. Düsseldorf and Mannheim: Artemis and Winkler.
-* Graham, D. W., 2010, _The Texts of the Early Greek Philosophers: The Complete Fragments and Selected Testimonies of the Major Presocratics_, Cambridge: Cambridge University Press.
-* Jöhrens, O., 1939, _Die Fragmente des Anaxagoras_, Bochum-Langendreer: Heinrich Pöppinghaus.
-* Laks, A. and Most, G. 2016a, _Les débuts de la philosophie. Des premiers penseurs Grecs à Socrate_, Paris: Fayard.
-* –––, 2016b, _Early Greek Philosophy_ 9 volumes. Cambridge MA, London: Loeb Classical Library, Harvard University Press.
-* Lanza, D., 1966, _Anassagora: Testimonianze e Frammenti_, Florence: La Nuova Italia.
-* Schaubach, E., 1827, _Anaxagorae Clazomenii Fragmenta quae supersunt omnia_, Leipzig, 1827.
-* Sider, D., 2005, _The Fragments of Anaxagoras: Edited with an Introduction and Commentary_. Second Edition, Sankt Augustin: Academia Verlag.
+* Diels, H. and W. Kranz, eds., 1974, *Die Fragmente der Vorsokratiker*. Three Vols. Reprint of Sixth Edition, Berlin: Weidmann.
+* Curd, P., 2007, *Anaxagoras of Clazomenae: Fragments. Text and Translation with Notes and Essays*, Toronto: University of Toronto Press.
+* Gemelli Marciano, L.M., 2007–2010, *Die Vorsokratiker* 3 volumes. Düsseldorf and Mannheim: Artemis and Winkler.
+* Graham, D. W., 2010, *The Texts of the Early Greek Philosophers: The Complete Fragments and Selected Testimonies of the Major Presocratics*, Cambridge: Cambridge University Press.
+* Jöhrens, O., 1939, *Die Fragmente des Anaxagoras*, Bochum-Langendreer: Heinrich Pöppinghaus.
+* Laks, A. and Most, G. 2016a, *Les débuts de la philosophie. Des premiers penseurs Grecs à Socrate*, Paris: Fayard.
+* –––, 2016b, *Early Greek Philosophy* 9 volumes. Cambridge MA, London: Loeb Classical Library, Harvard University Press.
+* Lanza, D., 1966, *Anassagora: Testimonianze e Frammenti*, Florence: La Nuova Italia.
+* Schaubach, E., 1827, *Anaxagorae Clazomenii Fragmenta quae supersunt omnia*, Leipzig, 1827.
+* Sider, D., 2005, *The Fragments of Anaxagoras: Edited with an Introduction and Commentary*. Second Edition, Sankt Augustin: Academia Verlag.
 
 ### Secondary Literature
 
-* Althoff, J., 2012, “Presocratic Discourse in Poetry and Prose: The case of Empedocles and Anaxagoras,“ _Studies in the History and Philosophy of Science Part A,_ 43: 293–299.
-* Barnes, J., 1982, _The Presocratic Philosophers_, London: Routledge.
-* Betegh, G., 2004, _The Derveni Papyrus: Cosmology, Theology, and Interpretation_, Cambridge: Cambridge University Press.
-* Burnet, J., 1930, _Early Greek Philosophy_ (4th ed.), London: Adam and Charles Black.
-* Cornford, F. M., 1930, “Anaxagoras’ Theory of Matter,” _Classical Quarterly_, 24: 14–30; 83–95.
-* –––, 1934, “Innumerable Worlds in Presocratic Philosophy,” _Classical Quarterly_, 28: 1–16.
-* Curd, P., 2004, _The Legacy of Parmenides: Eleatic Monism and Later Presocratic Thought_, Princeton: Princeton University Press, 1998; rev. edn. Las Vegas: Parmenides Press.
+* Althoff, J., 2012, “Presocratic Discourse in Poetry and Prose: The case of Empedocles and Anaxagoras,“ *Studies in the History and Philosophy of Science Part A,* 43: 293–299.
+* Barnes, J., 1982, *The Presocratic Philosophers*, London: Routledge.
+* Betegh, G., 2004, *The Derveni Papyrus: Cosmology, Theology, and Interpretation*, Cambridge: Cambridge University Press.
+* Burnet, J., 1930, *Early Greek Philosophy* (4th ed.), London: Adam and Charles Black.
+* Cornford, F. M., 1930, “Anaxagoras’ Theory of Matter,” *Classical Quarterly*, 24: 14–30; 83–95.
+* –––, 1934, “Innumerable Worlds in Presocratic Philosophy,” *Classical Quarterly*, 28: 1–16.
+* Curd, P., 2004, *The Legacy of Parmenides: Eleatic Monism and Later Presocratic Thought*, Princeton: Princeton University Press, 1998; rev. edn. Las Vegas: Parmenides Press.
 * –––, 2008, “Anaxagoras and the Theory of Everything,” in Curd and Graham, 2008, 230–249.
-* –––, 2009, “Thought and Body in Heraclitus and Anaxagoras,” in G. Guertler and W. Wians, _Proceedings of the Boston Area Collquium in Ancient Philosophy_, Leiden: Brill: 1–20; 39–41.
-* Curd, P. and D. H. Graham (eds.), 2008, _The Oxford Handbook of Presocratic Philosophy_, New York: Oxford University Press.
-* Denyer, N.C., 1983, “Plato’s Theory of Stuffs,” _Philosophy_, 58: 315–27.
-* Fränkel, H., 1969, _Wege und Formen_ _frühgriechischen Denkens_, Munich: C. H. Beck, 3rd Edition.
-* Frede, M., 1985, “Substance in Aristotle’s Metaphysics,” in A. Gotthelf, ed. _Aristotle on Nature and Living Things_, Pittsburgh, PA: Mathesis: 17–26.
-* Furley, D. J., 1976, “Anaxagoras in Response to Parmenides,” in _New Essays in Plato and the Pre-Socratics_, R. A. Shiner, J. King-Farlow, eds., _Canadian Journal of Philosophy Supplementary Volume 2_: 61–85.
-* –––, 2002, “Anaxagoras, Plato, and the Naming of Parts,” in _Presocratic Philosophy: Essays in Honour of A. P. D. Mourelatos_, ed. V. Caston and D. Graham, Aldershot: Ashgate Publishing Ltd.: 119–126.
-* Furth, M., 1991, “A ‘Philosophical Hero?’ Anaxagoras and the Eleatics,” _Oxford Studies in Ancient Philosophy_, 9: 95–129.
-* Galzerano, M., 2019, “Aristotle against Anaxagoras?” _Philologus_, 163(1): 150–155.
-* Graham, D. W., 1994, “The Postulates of Anaxagoras,” _Apeiron_, 27: 77–121.
+* –––, 2009, “Thought and Body in Heraclitus and Anaxagoras,” in G. Guertler and W. Wians, *Proceedings of the Boston Area Collquium in Ancient Philosophy*, Leiden: Brill: 1–20; 39–41.
+* Curd, P. and D. H. Graham (eds.), 2008, *The Oxford Handbook of Presocratic Philosophy*, New York: Oxford University Press.
+* Denyer, N.C., 1983, “Plato’s Theory of Stuffs,” *Philosophy*, 58: 315–27.
+* Fränkel, H., 1969, *Wege und Formen* *frühgriechischen Denkens*, Munich: C. H. Beck, 3rd Edition.
+* Frede, M., 1985, “Substance in Aristotle’s Metaphysics,” in A. Gotthelf, ed. *Aristotle on Nature and Living Things*, Pittsburgh, PA: Mathesis: 17–26.
+* Furley, D. J., 1976, “Anaxagoras in Response to Parmenides,” in *New Essays in Plato and the Pre-Socratics*, R. A. Shiner, J. King-Farlow, eds., *Canadian Journal of Philosophy Supplementary Volume 2*: 61–85.
+* –––, 2002, “Anaxagoras, Plato, and the Naming of Parts,” in *Presocratic Philosophy: Essays in Honour of A. P. D. Mourelatos*, ed. V. Caston and D. Graham, Aldershot: Ashgate Publishing Ltd.: 119–126.
+* Furth, M., 1991, “A ‘Philosophical Hero?’ Anaxagoras and the Eleatics,” *Oxford Studies in Ancient Philosophy*, 9: 95–129.
+* Galzerano, M., 2019, “Aristotle against Anaxagoras?” *Philologus*, 163(1): 150–155.
+* Graham, D. W., 1994, “The Postulates of Anaxagoras,” *Apeiron*, 27: 77–121.
 * –––, 1999, “Empedocles and Anaxagoras: Responses to Parmenides,” in Long, 1999: 159–180.
 * –––, 2002, “La lumière de la lune dans la pensée grecque archaïque,” in Laks and Louget (eds.): 351–380.
-* –––, 2004, “Was Anaxagoras a Reductionist?” _Ancient Philosophy_, 24: 1–18.
-* –––, 2006, _Explaining the Cosmos: The Ionian Tradition of Scientific Philosophy_, Princeton: Princeton University Press.
-* –––, 2009, Review of Sedley 2007, _Ancient Philosophy_, 29: 423–27.
-* –––, 2013a, “Anaxagoras and the Comet,” _Ancient Philosophy_ 33 (1): 1–18.
-* –––, 2013b, “Anaxagoras: Science and Speculation in the Golden Age,” in _Early Greek Philosophy: The Presocratics and the Emergence of Reason_, ed. J. McCoy, Washington DC: The Catholic University Press of America: 139–156.
-* –––, 2013c, _Science Before Socrates: Parmenides, Anaxagoras, and the New Astronomy_, Oxford and New York: Oxford University Press.
-* Graham, D. W. and E. Hintz, 2007, “Anaxagoras and the Solar Eclipse of 478 BC,” _Apeiron_, 40: 319–44.
-* Gregory, A., 2007, _Ancient Greek Cosmogony_, London: Duckworth.
-* –––, 2013, _The Presocratics and the Supernatural: Magic, Science, and Philosophy in Early Greece_, London: Bloomsbury.
-* Guthrie, W.K.C., 1965, _A History of Greek Philosophy_, Vol. II, Cambridge: Cambridge University Press.
-* Herrmann, H.-G., 2007, _Words and Ideas_, Swansea: The Classical Press of Wales.
-* Inwood, B., 1986, “Anaxagoras and Infinite Divisibility,” _Illinois Classical Studies_, 11: 17–33.
-* Kouremenos, Theokritos, George M. Parássoglou, Kyriakos Tsantsanoglou, 2006, _The Derveni Papyrus. Edited with Introduction and Commentary_. Studi e testi per il “Corpus dei papiri filosofici greci e latini”, vol. 13, Florence: Casa Editrice Leo S. Olschki.
-* Laks, A., 1993, “Mind’s Crisis: On Anaxagoras’ NOUS,” _The Southern Journal of Philosophy_, 31 (Supplementary Volume): 19–38.
+* –––, 2004, “Was Anaxagoras a Reductionist?” *Ancient Philosophy*, 24: 1–18.
+* –––, 2006, *Explaining the Cosmos: The Ionian Tradition of Scientific Philosophy*, Princeton: Princeton University Press.
+* –––, 2009, Review of Sedley 2007, *Ancient Philosophy*, 29: 423–27.
+* –––, 2013a, “Anaxagoras and the Comet,” *Ancient Philosophy* 33 (1): 1–18.
+* –––, 2013b, “Anaxagoras: Science and Speculation in the Golden Age,” in *Early Greek Philosophy: The Presocratics and the Emergence of Reason*, ed. J. McCoy, Washington DC: The Catholic University Press of America: 139–156.
+* –––, 2013c, *Science Before Socrates: Parmenides, Anaxagoras, and the New Astronomy*, Oxford and New York: Oxford University Press.
+* Graham, D. W. and E. Hintz, 2007, “Anaxagoras and the Solar Eclipse of 478 BC,” *Apeiron*, 40: 319–44.
+* Gregory, A., 2007, *Ancient Greek Cosmogony*, London: Duckworth.
+* –––, 2013, *The Presocratics and the Supernatural: Magic, Science, and Philosophy in Early Greece*, London: Bloomsbury.
+* Guthrie, W.K.C., 1965, *A History of Greek Philosophy*, Vol. II, Cambridge: Cambridge University Press.
+* Herrmann, H.-G., 2007, *Words and Ideas*, Swansea: The Classical Press of Wales.
+* Inwood, B., 1986, “Anaxagoras and Infinite Divisibility,” *Illinois Classical Studies*, 11: 17–33.
+* Kouremenos, Theokritos, George M. Parássoglou, Kyriakos Tsantsanoglou, 2006, *The Derveni Papyrus. Edited with Introduction and Commentary*. Studi e testi per il “Corpus dei papiri filosofici greci e latini”, vol. 13, Florence: Casa Editrice Leo S. Olschki.
+* Laks, A., 1993, “Mind’s Crisis: On Anaxagoras’ NOUS,” *The Southern Journal of Philosophy*, 31 (Supplementary Volume): 19–38.
 * –––, 1999, “Soul, Sensation, and Thought,” in Long, 1999: 250–70.
-* –––, 2002, “Les fonctions de l’intellect. À propos, derechef, du Nous d’Anaxagore,” _Methodos_, 2: 7–31.
-* Laks, A. and C. Louguet, (eds.), 2002, _Qu’est-ce que la Philosophie présocratique?_, Lille: Presses Universitaires du Septentrion.
-* Lesher, J., 1992, _Xenophanes of Colophon: Fragments_, Toronto: University of Toronto Press.
-* –––, 1995, “Mind’s Knowledge and Powers of Control in Anaxagoras DK B12,” _Phronesis_, 40: 125–142.
-* Lewis, E., 2000, “Anaxagoras and the Seeds of a Physical Theory,” _Apeiron_, 33: 1–23.
-* Long, A. A. (ed.), 1999, _The Cambridge Companion to Early Greek Philosophy_, Cambridge: Cambridge University Press.
+* –––, 2002, “Les fonctions de l’intellect. À propos, derechef, du Nous d’Anaxagore,” *Methodos*, 2: 7–31.
+* Laks, A. and C. Louguet, (eds.), 2002, *Qu’est-ce que la Philosophie présocratique?*, Lille: Presses Universitaires du Septentrion.
+* Lesher, J., 1992, *Xenophanes of Colophon: Fragments*, Toronto: University of Toronto Press.
+* –––, 1995, “Mind’s Knowledge and Powers of Control in Anaxagoras DK B12,” *Phronesis*, 40: 125–142.
+* Lewis, E., 2000, “Anaxagoras and the Seeds of a Physical Theory,” *Apeiron*, 33: 1–23.
+* Long, A. A. (ed.), 1999, *The Cambridge Companion to Early Greek Philosophy*, Cambridge: Cambridge University Press.
 * Louguet, C. 2002, “Note sur le fragment B4a d’Anaxagore: Pourquoi les autres mondes doivent-ils être semblables au notre?” in Laks and Louguet (eds.), 2002: 497–530
-* –––, 2013a, “Anaxagore: Analogie, Proportion, Identité,”, _Philosophie Antique_ 13: 117–145.
-* –––, 2013b, “L’Anaxagore de Diego Lanza: Quelques Réflexions,”, in P. Rousseau and S. Cottone (eds.), _Diego Lanza, Lecteur des ouvres de l’Antiquité: Poésie, Philosophie, Histoire de Philologie_, Lille: Presses Universitaires du Septentrion: 51–84.
-* Macé, A., 2011, “Une Science Athénienne de la Nature. La Promesse et les Testament d’Anaxagore”, _Méthexis_, 24: 21–43.
-* Mann, W.-R., 2000, _The Discovery of Things: Aristotle’s_ Categories _and their Context_, Princeton: Princeton University Press.
-* Mansfeld, J., 1979, “The Chronology of Anaxagoras’ Athenian Period and the Date of his Trial” Part I: “The Length and Dating of the Athenian Period,” _Mnemosyne_, 32: 39–69.
-* –––, 1980, “Anaxagoras’ Other World,” _Phronesis_, 25: 1–4.
-* –––, 2011, “Aristotle on Anaxagoras in Relation to Empedocles,” _Philologus_, 155: 361–66.
-* Marmodoro, A., 2015, “Anaxagoras’s Qualitative Gunk,” _British Journal for the History of Philosophy_, 23: 402–422.
-* –––, 2017, _Everything in Everything: Anaxagoras’s Metaphysics_, New York: Oxford University Press.
-* Matthews, G., 2002, “On the Idea of There Being Something of Everything in Everything,” _Analysis_, 62: 1–4.
-* –––, 2005, “Anaxagoras Re-Defended,“ _Ancient Philosophy_, 25: 245–46.
-* Mourelatos, A. P. D., 2008a, _The Route of Parmenides_, New Haven: Yale, 1970; revised and expanded edition, Las Vegas: Parmenides Publishing.
+* –––, 2013a, “Anaxagore: Analogie, Proportion, Identité,”, *Philosophie Antique* 13: 117–145.
+* –––, 2013b, “L’Anaxagore de Diego Lanza: Quelques Réflexions,”, in P. Rousseau and S. Cottone (eds.), *Diego Lanza, Lecteur des ouvres de l’Antiquité: Poésie, Philosophie, Histoire de Philologie*, Lille: Presses Universitaires du Septentrion: 51–84.
+* Macé, A., 2011, “Une Science Athénienne de la Nature. La Promesse et les Testament d’Anaxagore”, *Méthexis*, 24: 21–43.
+* Mann, W.-R., 2000, *The Discovery of Things: Aristotle’s* Categories *and their Context*, Princeton: Princeton University Press.
+* Mansfeld, J., 1979, “The Chronology of Anaxagoras’ Athenian Period and the Date of his Trial” Part I: “The Length and Dating of the Athenian Period,” *Mnemosyne*, 32: 39–69.
+* –––, 1980, “Anaxagoras’ Other World,” *Phronesis*, 25: 1–4.
+* –––, 2011, “Aristotle on Anaxagoras in Relation to Empedocles,” *Philologus*, 155: 361–66.
+* Marmodoro, A., 2015, “Anaxagoras’s Qualitative Gunk,” *British Journal for the History of Philosophy*, 23: 402–422.
+* –––, 2017, *Everything in Everything: Anaxagoras’s Metaphysics*, New York: Oxford University Press.
+* Matthews, G., 2002, “On the Idea of There Being Something of Everything in Everything,” *Analysis*, 62: 1–4.
+* –––, 2005, “Anaxagoras Re-Defended,“ *Ancient Philosophy*, 25: 245–46.
+* Mourelatos, A. P. D., 2008a, *The Route of Parmenides*, New Haven: Yale, 1970; revised and expanded edition, Las Vegas: Parmenides Publishing.
 * –––, 2008b, “The Cloud-Astrophysics of Xenophanes and Ionian Material Monism,” in Curd and Graham, 2008: 134–168.
-* O’Brien, D., 1968, “The Relation of Anaxagoras and Empedocles,” _Journal of Hellenic Studies_, 88: 93–113.
-* Palmer, J. A., 2009, _Parmenides and Presocratic Philosophy_, Oxford and New York: Oxford University Press.
-* Renehan, R., 1980, “On the Greek Origins of the Concepts of Incorporeality and Immateriality”, _Greek, Roman, and Byzantine Studies_, 21: 105–138.
-* Schofield, M., 1975, “Doxographica Anaxagorea,” _Hermes_, 103: 1–24.
-* –––, 1980. _An Essay on Anaxagoras_, Cambridge: Cambridge University Press.
-* –––, 1996, “Anaxagoras’ Other World Revisited,” in K. Algra, P. Van der Horst, and D. T. Runia, eds. _Polyhistor: Studies in the History and Historiography of Ancient Philosophy_, Leiden: Brill: 3–20.
-* Sedley, D., 2007, _Creationism and its Critics_, Berkeley: University of California Press.
-* Silverman, A., 2002, _The Dialectic of Essence: A Study of Plato’s Metaphysics_, Princeton: Princeton University Press.
-* Sisko, J., 2003, “Anaxagoras’ Parmenidean Cosmology: Worlds within Worlds within the One,” _Apeiron_, 26: 87–114.
-* –––, 2005, “Anaxagoras and Recursive Refinement,” _Ancient Philosophy_, 25: 239–245.
-* –––, 2009, “On the Question of Homoeomreity in Anaxagorean Physics,” _Apeiron_, 42: 89–103.
-* –––, 2010a, “Anaxagoras Betwixt Parmenides and Plato,” _Philosophy Compass_, 5/6: 432–442.
-* –––, 2010b, “Anaxagoras on Matter, Motion, and Multiple Worlds,” _Philosophy Compass_, 5/6: 443–454.
-* –––, 2013, “Anaxagoras and Empedocles in the Shadow of Elea,” _The Routledge Companion to Ancient Philosophy_, eds. J. Warren and F. Sheffield, London: Routledge: 49–64.
-* Spanu, H., 1987–88, “Inhalt und Form der Theorie von Anaxagoras,” _Archaiognosia_, 5: 11–19.
-* Stokes, M. C., 1965, “On Anaxagoras,” _Archiv für Geschichte der Philosophie_, 47: “Part I: Anaxagoras’ Theory of Matter,” 1–19; “Part II: The Order of Cosmogony,” 217–250.
-* Strang, C., 1963, “The Physical Theory of Anaxagoras,” _Archiv für Geschichte der Philosophie_, 45: 101–118.
-* Taub, L., 2003, _Ancient Meteorology_, London and New York: Routledge.
-* Tannery, P., 1886, “La Théorie de la Matière d’Anaxagore,” _Revue Philosophique_, 22: 255–274.
-* Therme, A.-L. and Macé, A., 2013 “Anaxagore et Homère? Trier les Moutons, Trier les Hommes, Trier l’Univers,” in M.-L. Desclos and F. Fronterotta (eds.), _La Sagesse Présocratique. Communication de savoirs en Gréce Archaïque: des Lieux et des Hommes_, Paris: Armand Colin, 235–261.
-* Torrijos-Castrillejo, D., 2018, “La Noción de Homeomería en Anaxágoras,” _Proceedings of the XXIII World Congress in Philosophy_ 2.1: 55–69.
-* Tzamalikos, P., 2016, _Anaxagoras, Origen, and Neoplatonism: The Legacy of Anaxagoras to Classical and Late Antiquity_, Berlin/Boston, de Gruyter.
-* Vlastos, G., 1950, “The Physical Theory of Anaxagoras,” _Philosophical Review_, 59: 31–57; reprinted in G. Vlastos (D. Graham, ed.), _Studies in Greek Philosophy, Vol. I: The Presocratics_, Princeton: Princeton University Press, 1995: 303–327.
-* –––, 1975, “One World or Many in Anaxagoras?” in _Studies in Presocratic Philosophy, Vol. II_, R.E. Allen and D. Furley (eds.), London: Routledge and Kegan Paul: 354–60.
-* Warren, J., 2007, “Anaxagoras on Perception, Pleasure, and Pain,” _Oxford Studies in Ancient Philosophy_ 33: 19–54.
+* O’Brien, D., 1968, “The Relation of Anaxagoras and Empedocles,” *Journal of Hellenic Studies*, 88: 93–113.
+* Palmer, J. A., 2009, *Parmenides and Presocratic Philosophy*, Oxford and New York: Oxford University Press.
+* Renehan, R., 1980, “On the Greek Origins of the Concepts of Incorporeality and Immateriality”, *Greek, Roman, and Byzantine Studies*, 21: 105–138.
+* Schofield, M., 1975, “Doxographica Anaxagorea,” *Hermes*, 103: 1–24.
+* –––, 1980. *An Essay on Anaxagoras*, Cambridge: Cambridge University Press.
+* –––, 1996, “Anaxagoras’ Other World Revisited,” in K. Algra, P. Van der Horst, and D. T. Runia, eds. *Polyhistor: Studies in the History and Historiography of Ancient Philosophy*, Leiden: Brill: 3–20.
+* Sedley, D., 2007, *Creationism and its Critics*, Berkeley: University of California Press.
+* Silverman, A., 2002, *The Dialectic of Essence: A Study of Plato’s Metaphysics*, Princeton: Princeton University Press.
+* Sisko, J., 2003, “Anaxagoras’ Parmenidean Cosmology: Worlds within Worlds within the One,” *Apeiron*, 26: 87–114.
+* –––, 2005, “Anaxagoras and Recursive Refinement,” *Ancient Philosophy*, 25: 239–245.
+* –––, 2009, “On the Question of Homoeomreity in Anaxagorean Physics,” *Apeiron*, 42: 89–103.
+* –––, 2010a, “Anaxagoras Betwixt Parmenides and Plato,” *Philosophy Compass*, 5/6: 432–442.
+* –––, 2010b, “Anaxagoras on Matter, Motion, and Multiple Worlds,” *Philosophy Compass*, 5/6: 443–454.
+* –––, 2013, “Anaxagoras and Empedocles in the Shadow of Elea,” *The Routledge Companion to Ancient Philosophy*, eds. J. Warren and F. Sheffield, London: Routledge: 49–64.
+* Spanu, H., 1987–88, “Inhalt und Form der Theorie von Anaxagoras,” *Archaiognosia*, 5: 11–19.
+* Stokes, M. C., 1965, “On Anaxagoras,” *Archiv für Geschichte der Philosophie*, 47: “Part I: Anaxagoras’ Theory of Matter,” 1–19; “Part II: The Order of Cosmogony,” 217–250.
+* Strang, C., 1963, “The Physical Theory of Anaxagoras,” *Archiv für Geschichte der Philosophie*, 45: 101–118.
+* Taub, L., 2003, *Ancient Meteorology*, London and New York: Routledge.
+* Tannery, P., 1886, “La Théorie de la Matière d’Anaxagore,” *Revue Philosophique*, 22: 255–274.
+* Therme, A.-L. and Macé, A., 2013 “Anaxagore et Homère? Trier les Moutons, Trier les Hommes, Trier l’Univers,” in M.-L. Desclos and F. Fronterotta (eds.), *La Sagesse Présocratique. Communication de savoirs en Gréce Archaïque: des Lieux et des Hommes*, Paris: Armand Colin, 235–261.
+* Torrijos-Castrillejo, D., 2018, “La Noción de Homeomería en Anaxágoras,” *Proceedings of the XXIII World Congress in Philosophy* 2.1: 55–69.
+* Tzamalikos, P., 2016, *Anaxagoras, Origen, and Neoplatonism: The Legacy of Anaxagoras to Classical and Late Antiquity*, Berlin/Boston, de Gruyter.
+* Vlastos, G., 1950, “The Physical Theory of Anaxagoras,” *Philosophical Review*, 59: 31–57; reprinted in G. Vlastos (D. Graham, ed.), *Studies in Greek Philosophy, Vol. I: The Presocratics*, Princeton: Princeton University Press, 1995: 303–327.
+* –––, 1975, “One World or Many in Anaxagoras?” in *Studies in Presocratic Philosophy, Vol. II*, R.E. Allen and D. Furley (eds.), London: Routledge and Kegan Paul: 354–60.
+* Warren, J., 2007, “Anaxagoras on Perception, Pleasure, and Pain,” *Oxford Studies in Ancient Philosophy* 33: 19–54.
 * White, S., 2008, “Milesian Measures,” in Curd and Graham, 2008: 89–133.
-* Woodbury, L, 1981, “Anaxagoras and Athens,” _Phoenix_, 35: 295–315.
-* Zeller, E. 1923, _Die Philosophie der Griechen in ihrer Geschichtlichen Entwicklung_, W. Nestle (ed.), Seventh Edition, Leipzig.
+* Woodbury, L, 1981, “Anaxagoras and Athens,” *Phoenix*, 35: 295–315.
+* Zeller, E. 1923, *Die Philosophie der Griechen in ihrer Geschichtlichen Entwicklung*, W. Nestle (ed.), Seventh Edition, Leipzig.
 
 ## Academic Tools
 
@@ -283,7 +282,7 @@ B12 片段以对混合和分离的进一步讨论结束，并阿那克萨哥拉�
 ## Other Internet Resources
 
 * [Anaxagoras](http://www.historyofphilosophy.net/anaxagoras/), a short podcast by Peter Adamson (Philosophy, Kings College London).
-* “[Anaxagoras](http://www.iep.utm.edu/a/anaxagor.htm)”, by Michael Patzia, in the _Internet Encyclopedia of Philosophy_.
+* “[Anaxagoras](http://www.iep.utm.edu/a/anaxagor.htm)”, by Michael Patzia, in the *Internet Encyclopedia of Philosophy*.
 * [Anaxagoras](http://www.oxfordbibliographies.com/view/document/obo-9780195389661/obo-9780195389661-0141.xml) (abridged), Oxford Bibliographies Online.
 * [The Perseus Digital Library](http://www.perseus.tufts.edu/)
 

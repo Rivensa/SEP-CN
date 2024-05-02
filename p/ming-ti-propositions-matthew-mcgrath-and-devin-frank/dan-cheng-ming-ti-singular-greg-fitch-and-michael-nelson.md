@@ -1,6 +1,6 @@
 # 单称命题 singular (Greg Fitch and Michael Nelson)
 
-_首次发表于1997年7月19日，实质修订于2013年9月27日。_
+*首次发表于1997年7月19日，实质修订于2013年9月27日。*
 
 单称命题（也称为“罗素命题”）是指由于直接包含该个体作为成分而关于特定个体的命题。这种描述假设了命题的结构化观点-参见命题：结构化。单称命题的假设例子有命题\[蒙布朗峰高度超过 4000 米]，\[苏格拉底是聪明的]和\[她（指着苏珊）住在纽约]。单称命题与一般命题相对，一般命题不涉及任何特定个体，而特定化命题涉及特定个体但不包含该个体作为成分。第一类的例子有命题\[大多数美国人支持减税]和\[一些音乐很棒]；第二类的例子有命题\[双光镜的发明者是秃头]和\[最高的间谍是个男人]。单称命题直接涉及个体，而特定化命题间接涉及个体，因为该对象满足命题的一个成分条件-在我们的例子中，条件是“x 独特地发明了双光镜”和“x 是最高的间谍”。
 
@@ -286,161 +286,161 @@ _首次发表于1997年7月19日，实质修订于2013年9月27日。_
 
 ### Philosophy of Language and Mind: Sections 1–4
 
-* Armstrong, Joshua and Stanley, Jason, 2011, “Singular Thoughts and Singular Propositions”, _Philosophical Studies_, 154: 205–222.
-* Bach, Kent, 1992, “Intentions and Demonstrations”, _Analysis_, 52: 140–6.
-* Bach, Kent, 1994, _Thought and Reference_, Oxford: Oxford University Press.
-* Bell, David, 1990, “How ‘Russellian’ was Frege?”, _Mind_, 99: 267–77.
-* Bertolet, Rod, 1993, “Demonstratives and Intentions: Ten Years Later”, _Communication and Cognition_, 26: 3–16.
-* Black, Max, 1952, “The Identity of Indiscernibles”, _Mind_, 61: 153–64.
-* Boer, Steven and Lycan, William, 1986, _Knowing Who_, Cambridge, MA: MIT Press.
-* Braun, David, 1993 “Empty Names”, _Noûs_, 25: 449–469.
-* Cartwright, Richard, 1997, “Singular Propositions”, _Canadian Journal of Philosophy_ (Supplementary Volume), 23: 67–84.
-* Chisholm, Roderick, 1976, _Person and Object_, London: Allen & Unwin.
-* Crane, Tim, 2011, “The Singularity of Singular Thought”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 85: 21–43.
-* Crimmins, Mark and Perry, John, 1989, “The Prince and the Phone Booth: Reporting Puzzling Beliefs”, _Journal of Philosophy_, 86: 685–711.
-* Dummett, Michael, 1991, _The Logical Basis of Metaphysics_, Cambridge, MA: Harvard University Press.
-* Evans, Gareth, 1981/1985, “Understanding Demonstratives”, in his _Collected Papers_, Oxford: Oxford University Press, 291–321.
-* Evans, Gareth, 1982, _The Varieties of Reference_, Oxford: Clarendon Press.
-* Fitch, G. W., 1988, “The Nature of Singular Propositions”, in D. Austin (ed.), _Philosophical Analysis_, Dordrecht: Kluwer, 281–297.
-* Fitch, G. W., 1990, “Thinking of Something”, _Noûs_, 24: 675–696.
-* Frege, Gottlob, 1879/1967, _Begriffsschrift : A Formula Language Modeled on That of Arithmetic, For Pure Thought_, in J. van Heijenoort (ed.), _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, Cambridge, MA: Harvard University Press, 1–82.
-* Frege, Gottlob, 1892/1948, “Sense and Reference”, _Philosophical Review_, 57: 209–30.
-* Frege, Gottlob, 1897/1979, “Logic”, in H. Hermes, F. Kambartel, and F. Kaulbach (eds.), _Posthumous Writings_, Oxford: Basil Blackwell, 126–51.
-* Frege, Gottlob, 1914/1979, “Logic in Mathematics”, in H. Hermes, F. Kambartel, and F. Kaulbach (eds.), _Posthumous Writings_, Oxford: Basil Blackwell, 203–50.
-* Frege, Gottlob, 1918/1956, “The Thought: A Logical Inquiry”, _Mind_, 65: 289–311.
-* Hawthorne, John and Manley, David, 2012, _The Reference Book_, Oxford: Clarendon Press.
-* Jeshion, Robin, 2002, “Acquaintanceless _De Re_ Belief”, in J. Campbell, M. O'Rourke, and D. Shier (eds.), _Meaning and Truth: investigations in Philosophical Semantics_, New York: Seven Bridges Press, 53–78.
-* Jeshion, Robin, 2010, _New Essays on Singular Thought_, Oxford: Clarendon Press.
-* Kaplan, David, 1975a, “How to Russell a Frege-Church”, _Journal of Philosophy_, 72: 716–729.
-* Kaplan, David, 1975b, “Dthat”, _Syntax and Semantics_, 9: 383–99.
-* Kaplan, David, 1977/1989, “Demonstratives”, in J. Almog, J. Perry, and H. Wettstein (eds.), _Themes from Kaplan_, New York: Oxford University Press, 481–504.
-* King, Jeffrey, 1996, “Structured Propositions and Sentence Structure”, _Journal of Philosophical Logic_, 25: 495–521.
-* Kripke, Saul, 1970/1980, _Naming and Necessity_, Cambridge, Mass.: Harvard University Press.
-* Lawlor, Krista, 2001, _New Thoughts About Old Things_, New York: Garland.
-* Martin, Michael, 2002, “Particular Thoughts and Singular Thought”, in A. O'Hear (ed.), _Logic, Thought, and Language_, Cambridge: Cambridge University Press, 173–214.
-* McDowell, John, 1984, “_De Re_ Senses”, _Philosophical Quarterly_, 34: 283–94.
-* McDowell, John, 2005, “Evans's Frege”, in J. Bermudez (ed.), _Thought, Reference, and Experience: Themes from the Philosophy of Gareth Evans_, Oxford: Oxford University Press, 42–65.
-* Perry, John, 1977, “Frege on Demonstratives”, _Philosophical Review_, 86: 474–97.
-* Perry, John, 1979, “The Problem of the Essential Indexical”, _Noûs_, 13: 3–21.
-* Perry, John, 1980a, “A Problem about Continued Belief”, _Pacific Philosophical Quarterly_, 4: 317–32.
-* Perry, John, 1980b, “Belief and Acceptance”, _Midwest Studies in Philosophy_, 5: 533–42.
-* Perry, John, 1997, “Rip Van Winkle and Other Characters”, _European Review of Philosophy_, 2: 13–40.
-* Perry, John, 2001, _Reference and Reflexivity_, Stanford, CA: CSLI Publications.
-* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
-* Plantinga, Alvin, 1978, “The Boethian Compromise”, _American Philosophical Quarterly_, 15: 429–38.
-* Quine, W.V.O., 1956, “Quantifiers and Propositional Attitudes”, _Journal of Philosophy_, 53: 177–187.
-* Recanati, François, 1993, _Direct Reference_, Oxford: Blackwell.
-* Reimer, Marga, 1991a, “Three Views on Demonstrative Reference”, _Synthese_, 99: 373–402.
-* Reimer, Marga, 1991b, “Do Demonstrations Have Semantic Significance?”, _Analysis_, 51: 177–83.
-* Reimer, Marga, 1992, “Demonstrating with Descriptions”, _Philosophy and Phenomenological Research_, 52: 877–93.
-* Richard, Mark, 1990, _Propositional Attitudes: An Essay on Thoughts and How We Ascribe Them_, Cambridge, MA: Cambridge University Press.
-* Russell, Bertrand, 1903, _The Principles of Mathematics_, Cambridge: Cambridge University Press.
-* Russell, Bertrand, 1905, “On Denoting”, _Mind_, 14: 479–93.
-* Russell, Bertrand, 1910, “Knowledge by Acquaintance and Knowledge by Description”, _Proceedings of the Aristotelian Society_, 11: 108–28.
-* Russell, Bertrand, 1912, _The Problems of Philosophy_, Oxford: Oxford University Press.
-* Russell, Bertrand, 1914, “On the Nature of Acquaintance”, _Monist_, 24: 435–453.
-* Russell, Bertrand, 1927, _The Analysis of Matter_, New York: Harcourt, Brace & Company.
-* Salmon, Nathan, 1986, _Frege's Puzzle_, Cambridge, MA: MIT Press).
-* Salmon, Nathan, 1998, “Nonexistence”, _Noûs_, 32: 277–319.
-* Searle, John, 1983, _Intentionality: An Essay in the Philosophy of Mind_, Cambridge: Cambridge University Press.
-* Sosa, Ernest, 1970, “Propositional Attitudes De Dicto and De Re”, _Journal of Philosophy_, 67: 883–896.
-* Stanley, Jason, 1997a, “Rigidity and Content”, in R. Heck (ed.), _Language, Thought, and Logic: Essays in honour of Michael Dummett_, Oxford: Oxford University Press, 131–56.
-* Stanley, Jason, 1997b, “Names and Rigid Designation”, in B. Hale and C. Wright (eds.), _Companion to the Philosophy of Language_, Oxford: Blackwell Publishing, 555–86.
-* Stanley, Jason, 2002, “Modality and What is Said”, _Philosophical Perspectives_, 16: 321–44.
-* Sullivan, Arthur, 1998, “Singular Propositions and Singular Thoughts”, _Norte Dame Journal of Formal Logic_, 39: 114–127.
-* Strawson, P. F., 1959, _Individuals: An Essay in Descriptive Metaphysics_, London: Methuen.
-* Zalta, Edward N., 1989, “Singular Propositions, Abstract Constituents, and Propositional Attitudes”, in J. Almog, J. Perry, and H. Wettstein (eds), _Themes from Kaplan_, New York: Oxford University Press, 455–78.
+* Armstrong, Joshua and Stanley, Jason, 2011, “Singular Thoughts and Singular Propositions”, *Philosophical Studies*, 154: 205–222.
+* Bach, Kent, 1992, “Intentions and Demonstrations”, *Analysis*, 52: 140–6.
+* Bach, Kent, 1994, *Thought and Reference*, Oxford: Oxford University Press.
+* Bell, David, 1990, “How ‘Russellian’ was Frege?”, *Mind*, 99: 267–77.
+* Bertolet, Rod, 1993, “Demonstratives and Intentions: Ten Years Later”, *Communication and Cognition*, 26: 3–16.
+* Black, Max, 1952, “The Identity of Indiscernibles”, *Mind*, 61: 153–64.
+* Boer, Steven and Lycan, William, 1986, *Knowing Who*, Cambridge, MA: MIT Press.
+* Braun, David, 1993 “Empty Names”, *Noûs*, 25: 449–469.
+* Cartwright, Richard, 1997, “Singular Propositions”, *Canadian Journal of Philosophy* (Supplementary Volume), 23: 67–84.
+* Chisholm, Roderick, 1976, *Person and Object*, London: Allen & Unwin.
+* Crane, Tim, 2011, “The Singularity of Singular Thought”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 85: 21–43.
+* Crimmins, Mark and Perry, John, 1989, “The Prince and the Phone Booth: Reporting Puzzling Beliefs”, *Journal of Philosophy*, 86: 685–711.
+* Dummett, Michael, 1991, *The Logical Basis of Metaphysics*, Cambridge, MA: Harvard University Press.
+* Evans, Gareth, 1981/1985, “Understanding Demonstratives”, in his *Collected Papers*, Oxford: Oxford University Press, 291–321.
+* Evans, Gareth, 1982, *The Varieties of Reference*, Oxford: Clarendon Press.
+* Fitch, G. W., 1988, “The Nature of Singular Propositions”, in D. Austin (ed.), *Philosophical Analysis*, Dordrecht: Kluwer, 281–297.
+* Fitch, G. W., 1990, “Thinking of Something”, *Noûs*, 24: 675–696.
+* Frege, Gottlob, 1879/1967, *Begriffsschrift : A Formula Language Modeled on That of Arithmetic, For Pure Thought*, in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1–82.
+* Frege, Gottlob, 1892/1948, “Sense and Reference”, *Philosophical Review*, 57: 209–30.
+* Frege, Gottlob, 1897/1979, “Logic”, in H. Hermes, F. Kambartel, and F. Kaulbach (eds.), *Posthumous Writings*, Oxford: Basil Blackwell, 126–51.
+* Frege, Gottlob, 1914/1979, “Logic in Mathematics”, in H. Hermes, F. Kambartel, and F. Kaulbach (eds.), *Posthumous Writings*, Oxford: Basil Blackwell, 203–50.
+* Frege, Gottlob, 1918/1956, “The Thought: A Logical Inquiry”, *Mind*, 65: 289–311.
+* Hawthorne, John and Manley, David, 2012, *The Reference Book*, Oxford: Clarendon Press.
+* Jeshion, Robin, 2002, “Acquaintanceless *De Re* Belief”, in J. Campbell, M. O'Rourke, and D. Shier (eds.), *Meaning and Truth: investigations in Philosophical Semantics*, New York: Seven Bridges Press, 53–78.
+* Jeshion, Robin, 2010, *New Essays on Singular Thought*, Oxford: Clarendon Press.
+* Kaplan, David, 1975a, “How to Russell a Frege-Church”, *Journal of Philosophy*, 72: 716–729.
+* Kaplan, David, 1975b, “Dthat”, *Syntax and Semantics*, 9: 383–99.
+* Kaplan, David, 1977/1989, “Demonstratives”, in J. Almog, J. Perry, and H. Wettstein (eds.), *Themes from Kaplan*, New York: Oxford University Press, 481–504.
+* King, Jeffrey, 1996, “Structured Propositions and Sentence Structure”, *Journal of Philosophical Logic*, 25: 495–521.
+* Kripke, Saul, 1970/1980, *Naming and Necessity*, Cambridge, Mass.: Harvard University Press.
+* Lawlor, Krista, 2001, *New Thoughts About Old Things*, New York: Garland.
+* Martin, Michael, 2002, “Particular Thoughts and Singular Thought”, in A. O'Hear (ed.), *Logic, Thought, and Language*, Cambridge: Cambridge University Press, 173–214.
+* McDowell, John, 1984, “*De Re* Senses”, *Philosophical Quarterly*, 34: 283–94.
+* McDowell, John, 2005, “Evans's Frege”, in J. Bermudez (ed.), *Thought, Reference, and Experience: Themes from the Philosophy of Gareth Evans*, Oxford: Oxford University Press, 42–65.
+* Perry, John, 1977, “Frege on Demonstratives”, *Philosophical Review*, 86: 474–97.
+* Perry, John, 1979, “The Problem of the Essential Indexical”, *Noûs*, 13: 3–21.
+* Perry, John, 1980a, “A Problem about Continued Belief”, *Pacific Philosophical Quarterly*, 4: 317–32.
+* Perry, John, 1980b, “Belief and Acceptance”, *Midwest Studies in Philosophy*, 5: 533–42.
+* Perry, John, 1997, “Rip Van Winkle and Other Characters”, *European Review of Philosophy*, 2: 13–40.
+* Perry, John, 2001, *Reference and Reflexivity*, Stanford, CA: CSLI Publications.
+* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
+* Plantinga, Alvin, 1978, “The Boethian Compromise”, *American Philosophical Quarterly*, 15: 429–38.
+* Quine, W.V.O., 1956, “Quantifiers and Propositional Attitudes”, *Journal of Philosophy*, 53: 177–187.
+* Recanati, François, 1993, *Direct Reference*, Oxford: Blackwell.
+* Reimer, Marga, 1991a, “Three Views on Demonstrative Reference”, *Synthese*, 99: 373–402.
+* Reimer, Marga, 1991b, “Do Demonstrations Have Semantic Significance?”, *Analysis*, 51: 177–83.
+* Reimer, Marga, 1992, “Demonstrating with Descriptions”, *Philosophy and Phenomenological Research*, 52: 877–93.
+* Richard, Mark, 1990, *Propositional Attitudes: An Essay on Thoughts and How We Ascribe Them*, Cambridge, MA: Cambridge University Press.
+* Russell, Bertrand, 1903, *The Principles of Mathematics*, Cambridge: Cambridge University Press.
+* Russell, Bertrand, 1905, “On Denoting”, *Mind*, 14: 479–93.
+* Russell, Bertrand, 1910, “Knowledge by Acquaintance and Knowledge by Description”, *Proceedings of the Aristotelian Society*, 11: 108–28.
+* Russell, Bertrand, 1912, *The Problems of Philosophy*, Oxford: Oxford University Press.
+* Russell, Bertrand, 1914, “On the Nature of Acquaintance”, *Monist*, 24: 435–453.
+* Russell, Bertrand, 1927, *The Analysis of Matter*, New York: Harcourt, Brace & Company.
+* Salmon, Nathan, 1986, *Frege's Puzzle*, Cambridge, MA: MIT Press).
+* Salmon, Nathan, 1998, “Nonexistence”, *Noûs*, 32: 277–319.
+* Searle, John, 1983, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press.
+* Sosa, Ernest, 1970, “Propositional Attitudes De Dicto and De Re”, *Journal of Philosophy*, 67: 883–896.
+* Stanley, Jason, 1997a, “Rigidity and Content”, in R. Heck (ed.), *Language, Thought, and Logic: Essays in honour of Michael Dummett*, Oxford: Oxford University Press, 131–56.
+* Stanley, Jason, 1997b, “Names and Rigid Designation”, in B. Hale and C. Wright (eds.), *Companion to the Philosophy of Language*, Oxford: Blackwell Publishing, 555–86.
+* Stanley, Jason, 2002, “Modality and What is Said”, *Philosophical Perspectives*, 16: 321–44.
+* Sullivan, Arthur, 1998, “Singular Propositions and Singular Thoughts”, *Norte Dame Journal of Formal Logic*, 39: 114–127.
+* Strawson, P. F., 1959, *Individuals: An Essay in Descriptive Metaphysics*, London: Methuen.
+* Zalta, Edward N., 1989, “Singular Propositions, Abstract Constituents, and Propositional Attitudes”, in J. Almog, J. Perry, and H. Wettstein (eds), *Themes from Kaplan*, New York: Oxford University Press, 455–78.
 
 ### Modality and Time: Sections 5–6
 
-* Adams, Robert, 1974, “Theories of Actuality”, _Noûs_, 5: 211–231.
-* Adams, Robert, 1979, “Primitive Thisness and Primitive Identity”, _Journal of Philosophy_, 76: 5–26.
-* Adams, Robert, 1981, “Actualism and Thisness”, _Synthese_, 49: 3–41.
-* Adams, Robert, 1986, “Time and Thisness”, _Midwest Studies in Philosophy_, 11: 315–329.
-* Armstrong, D. M., 1980, “Identity Through Time”, in P. van Inwagen (ed.) _Time and Cause_, Dordrecht: D. Reidel, 67–78.
-* Chisholm, Roderick, 1976, _Person and Object_, London: Allen and Unwin.
-* Crisp, Thomas, 2002, _In Defense of Presentism_, Ph.D. Dissertation, University of Notre Dame.
-* Crisp, Thomas, 2005, “Presentism and Cross-Temporal Relations”, _American Philosophical Quarterly_, 42: 5–17.
-* Crisp, Thomas, 2007a, “Presentism”, in M. Loux and D. Zimmerman (eds.), _The Oxford Handbook of Metaphysics_, New York: Oxford University Press, 211–45.
-* Crisp, Thomas, 2007b, “Presentism and Grounding”, _Noûs_, 41: 47–82.
-* Crisp, Thomas and Smith, Donald, 2005, “‘Wholly Present’ Defined”, _Philosophy and Phenomenological Research_, 71: 318–44.
-* Davidson, Matthew, 2000, “Direct Reference and Singular Propositions”, _American Philosophical Quarterly_, 37: 285–300.
-* Deutsch, Harry, 1990, “Contingency and Modal Logic”, _Philosophical Studies_, 60: 89–102.
-* Deutsch, Harry, 1994, “Logic for Contingent Beings”, _Journal of Philosophical Research_, 19: 273–329.
-* Fine, Kit, 1977, “Postscript: Prior on the Construction of Possible Worlds and Instants”, in A. N. Prior and K. Fine, _Worlds, Times, and Selves_, Amherst: University of Massachusetts Press, 116–61.
-* Fine, Kit, 1985, “Plantinga on the Reduction of Possibilist Discourse”, in J. Tomberlin and P. van Inwagen (eds.), _Alvin Plantinga_, Dordrecht: Reidel, 145–186.
-* Fine, Kit, 2005, _Modality and Time: Philosophical Papers_, Oxford: Oxford University Press.
-* Fitch, G.W., 1996, “In Defense of Aristotelian Actualism”, _Philosophical Perspectives_, 10: 53–71.
-* Forbes, Graeme, 1987, “Is there a Problem about Persistence? II”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 61: 137–55.
-* Geach Peter, 1966, “Some Problems about Time”, _Proceedings of the British Academy_, 51: 321–336.
-* Geach, Peter, 1967, “Identity”, _Review of Metaphysics_, 21: 3–12
-* Haslanger, Sally, 1985, _Change, Persistence, and Possibility_, Ph.D. Dissertation, University of California at Berkeley.
-* Haslanger, Sally, 1989a, “Persistence, Change and Explanation”, _Philosophical Studies_, 56: 1–28.
-* Haslanger, Sally, 1989b, “Endurance and Temporary Intrinsics”, _Analysis_, 49: 119–125.
-* Haslanger, Sally, 2003, “Persistence Through Time”, in Michael Loux and Dean Zimmerman (eds.) _The Oxford Handbook to Metaphysics_, Oxford: Oxford University Press.
-* Hawley, Katherine, 2001, _How Things Persist_, Oxford: Oxford University Press.
-* Hazen, A. P., 1995, “On Quantifying Out”, _The Journal of Philosophical Logic_, 24: 291–319
-* Heller, Mark, 1990, _The Ontology of Physical Objects_, Cambridge: Cambridge University Press.
-* Hinchliff, Mark, 1988, _A Defense of Presentism_, Ph.D. Dissertation, Princeton University.
-* Hinchliff, Mark, 1996, “The Puzzle of Change”, _Philosophical Perspectives_, 10: 119–36.
-* Hoffman, Aviv, 2003, “A Puzzle About Truth and Singular Propositions”, _Mind_, 112: 635–651.
-* Johnston, Mark, 1983, _Particulars and Persistence_, Ph.D. Dissertation, Princeton University.
-* Johnston, Mark, 1987, “Is there a Problem about Persistence? I”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 61: 107–35.
-* Jubien, Michael, 1993, _Ontology, Modality and the Fallacy of Reference_, Cambridge: Cambridge University Press.
-* King, Jeffrey, 2003, “Tense, Modality, and Semantic Value”, _Philosophical Perspectives_, 15: 195–245.
-* Kripke, Saul, 1963, “Semantical Considerations on Modal Logic”, _Acta Philosophica Fennica_, 60: 83–94.
-* Lewis, David, 1971, “Counterparts of Persons and their Bodies”, _Journal of Philosophy_, 68: 203–211.
-* Lewis, David, 1976, “Survival and Identity”, in A. Rorty (ed.), _The Identities of Persons_, Berkeley, CA: University of California Press, 117–40.
-* Lewis, David, 1986, _On the Plurality of Worlds_, Oxford: Basil Blackwell.
-* Lewis, David, 1988, “Re-arrangement of Particles: Reply to Lowe”, _Analysis_, 48: 65–72.
-* Linsky, Bernard and Zalta, Edward, 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives_, 8: 431–58.
-* Lowe, E.J., 1987, “Lewis on Perdurance versus Endurance”, _Analysis_, 47: 152–4.
-* Lowe, E. J., 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis”, _Analysis_, 48: 72–77.
-* Lowe, E. J., 1998, “Tense and Persistence”, in P. Le Poidevin (ed.) _Questions of Time and Tense_, Oxford: Oxford University Press, 43–59.
-* Marcus, Ruth Barcan, 1963, “Modalities and Intensional Languages”, _Synthese_, 13: 303–322.
-* Marcus, Ruth Barcan, 1985/1986, “Possibilia and Possible Worlds”, _Grazer Philosophische Studien_, 25–26: 107–133.
-* Markosian, Ned, 2003, “A Defense of Presentism”, in D. Zimmerman (ed.), _Oxford Studies in Metaphysics_ (Volume 1), Oxford: Oxford University Press, 47–82.
-* Mellor, D.H., 1981, _Real Time_, Cambridge: Cambridge University Press.
-* Mellor, D.H, 1998, _Real Time II_, London: Routledge.
-* Menzel, Christopher, 1991, “The True Modal Logic”, _Journal of Philosophical Logic_, 20: 331–74.
-* Menzel, Christopher, 1993 “Singular Propositions and Modal Logic”, _Phiosophical Topics_, 21: 113–48.
-* Merricks, Trenton, 2012, “Singular Propositions”, in K. Clark and M. Rea (eds.), _Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga_, Oxford: Oxford University Press, 61–81.
-* Plantinga, Alvin, 1978, “The Boethian Compromise”, _American Philosophical Quarterly_, 15: 429–38.
-* Plantinga, Alvin, 1983, “On Existentialism”, _Philosophical Studies_, 44: 1–20.
-* Prior, A. N., 1959, “Thank Goodness That's Over”, _Philosophy_, 32: 12–17.
-* Prior, A. N., 1962, “Changes in Events and Changes in Things”, in _Papers on Time and Tense_, Oxford: Oxford University Press, 1968.
-* Prior, A. N., 1965, “Time, Existence, and Identity”, _Proceedings of the Aristotelian Society_, 66: 183–92.
-* Prior, A. N.,1967, _Past, Present, and Future_, Oxford: Oxford University Press.
-* Prior, A. N., 1970, “The Notion of the Present”, _Stadium Generale_, 23: 245–248.
-* Prior, A. N. and Fine, Kit, 1977, _Worlds, Times, and Selves_, Amherst: University of Massachusetts Press.
-* Quine, W.V.O., 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* Quine, W.V.O., 1950, “Identity, Ostension and Hypostasis”, in his _From a Logical Point of View_, Cambridge MA: Harvard University Press, 65–79.
-* Robinson, Denis, 1982, “Re-identifying Matter”, _Philosophical Review_, 81: 317–42.
-* Salmon, Nathan, 1989, “Tense and Singular Propositions”, in J. Almog, J. Perry, and H. Wettstein (eds.), _Themes from Kaplan_, New York: Oxford University Press, 331–392.
-* Sider, Theodore, 1996, “All the World's a Stage”, _Australasian Journal of Philosophy_, 74: 433–453.
-* Sider, Theodore, 1997, “Four-Dimensionalism”, _Philosophical Review_, 106: 197–231..
-* Sider, Theodore, 2000, “The Stage View and Temporary Intrinsics”, _Analysis_, 60: 84–8.
-* Sider, Theodore, 2001, _Four-Dimensionalism_, Oxford: Oxford University Press.
-* Smart, J. J. C., 1955, “Spatialising Time”, _Mind_, 64: 239–41.
-* Smart, J. J. C., 1972, “Space-Time and Individuals”, in R. Rudner and I. Scheffler (eds.), _Logic and Art: Essays in Honor of Nelson Goodman_, New York: Macmillan, 3–20.
-* Speaks, Jeff, 2012, “On Possibly Nonexistent Propositions”, _Philosophy and Phenomenological Research_, 85: 528–562.
-* Stalnaker, Robert, 1994 “The Interaction of Modality with Quantification and Identity”, in W. Sinnott-Armstrong, D. Raffman, and N. Asher (eds.), _Modalities, Morality and Belief: Essays in Honor of Ruth Barcan Marcus_, Cambridge: Cambridge University Press, 12–28.
-* Stalnaker, Robert, 2012, _Mere Possibilities_, Princeton, NJ: Princeton University Press.
-* Taylor, Richard, 1955, “Spatial and Temporal Analogues and the Concept of Identity”, _Journal of Philosophy_, 52: 599–612.
-* Thomson, Judith Jarvis, 1983, “Parthood and Identity Across Time”, _Journal of Philosophy_, 80: 201–20.
-* van Inwagen, Peter, 1990, “Four-Dimensional Objects”, _Noûs_, 24: 245–55.
-* van Inwagen, Peter, 2000, “Temporal Parts and Identity Across Time”, _Monist_, 83: 437–59.
-* Wiggins, David, 1968, “On Being in the Same Place at the Same Time”, _Philosophical Review_, 77: 90–5.
-* Wiggins, David, 1980, _Sameness and Substance_, Oxford: Basil Blackwell.
-* Wiggins, David, 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
-* Williams, Donald, 1951, “The Myth of Passage”, _Journal of Philosophy_, 48: 457–72.
-* Williamson, Timothy, 2000, “Existence and Contingency”, _Proceedings of the Aristotelian Society_, 100: 117–139.
-* Williamson, Timothy, 2001, “Necessary Existents”, in A. O'Hear (ed.), _Logic, Thought, and Language_, Cambridge: Cambridge University Press, 233–51.
-* Williamson, Timothy, 2006, “Stalnaker on the Interaction of Modality with Quantification and Identity”, in J. Thompson and A. Bryne (eds.), _Content and Modality: Themes from the Philosophy of Robert Stalnaker_, New York, NY: Oxford University Press, 123–147.
-* Williamson, Timothy, 2013, _Modal Logic as Metaphysics_, Oxford: Oxford University Press.
-* Zimmerman, Dean, 1996, “Persistence and Presentism”, _Philosophical Papers_, 25: 115–126.
-* Zimmerman, Dean, 1998a, “Temporary Intrinsics and Presentism”, in P. van Inwagen and D. Zimmerman (eds.), _Metaphysics, the Big Questions_, Oxford: Blackwell, 206–219.
-* Zimmerman, Dean, 1998b, “Temporal Parts and Supervenient Causation: The Incompatibility of Two Humean Doctrines”, _Australasian Journal of Philosophy_, 76: 265–88.
+* Adams, Robert, 1974, “Theories of Actuality”, *Noûs*, 5: 211–231.
+* Adams, Robert, 1979, “Primitive Thisness and Primitive Identity”, *Journal of Philosophy*, 76: 5–26.
+* Adams, Robert, 1981, “Actualism and Thisness”, *Synthese*, 49: 3–41.
+* Adams, Robert, 1986, “Time and Thisness”, *Midwest Studies in Philosophy*, 11: 315–329.
+* Armstrong, D. M., 1980, “Identity Through Time”, in P. van Inwagen (ed.) *Time and Cause*, Dordrecht: D. Reidel, 67–78.
+* Chisholm, Roderick, 1976, *Person and Object*, London: Allen and Unwin.
+* Crisp, Thomas, 2002, *In Defense of Presentism*, Ph.D. Dissertation, University of Notre Dame.
+* Crisp, Thomas, 2005, “Presentism and Cross-Temporal Relations”, *American Philosophical Quarterly*, 42: 5–17.
+* Crisp, Thomas, 2007a, “Presentism”, in M. Loux and D. Zimmerman (eds.), *The Oxford Handbook of Metaphysics*, New York: Oxford University Press, 211–45.
+* Crisp, Thomas, 2007b, “Presentism and Grounding”, *Noûs*, 41: 47–82.
+* Crisp, Thomas and Smith, Donald, 2005, “‘Wholly Present’ Defined”, *Philosophy and Phenomenological Research*, 71: 318–44.
+* Davidson, Matthew, 2000, “Direct Reference and Singular Propositions”, *American Philosophical Quarterly*, 37: 285–300.
+* Deutsch, Harry, 1990, “Contingency and Modal Logic”, *Philosophical Studies*, 60: 89–102.
+* Deutsch, Harry, 1994, “Logic for Contingent Beings”, *Journal of Philosophical Research*, 19: 273–329.
+* Fine, Kit, 1977, “Postscript: Prior on the Construction of Possible Worlds and Instants”, in A. N. Prior and K. Fine, *Worlds, Times, and Selves*, Amherst: University of Massachusetts Press, 116–61.
+* Fine, Kit, 1985, “Plantinga on the Reduction of Possibilist Discourse”, in J. Tomberlin and P. van Inwagen (eds.), *Alvin Plantinga*, Dordrecht: Reidel, 145–186.
+* Fine, Kit, 2005, *Modality and Time: Philosophical Papers*, Oxford: Oxford University Press.
+* Fitch, G.W., 1996, “In Defense of Aristotelian Actualism”, *Philosophical Perspectives*, 10: 53–71.
+* Forbes, Graeme, 1987, “Is there a Problem about Persistence? II”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 61: 137–55.
+* Geach Peter, 1966, “Some Problems about Time”, *Proceedings of the British Academy*, 51: 321–336.
+* Geach, Peter, 1967, “Identity”, *Review of Metaphysics*, 21: 3–12
+* Haslanger, Sally, 1985, *Change, Persistence, and Possibility*, Ph.D. Dissertation, University of California at Berkeley.
+* Haslanger, Sally, 1989a, “Persistence, Change and Explanation”, *Philosophical Studies*, 56: 1–28.
+* Haslanger, Sally, 1989b, “Endurance and Temporary Intrinsics”, *Analysis*, 49: 119–125.
+* Haslanger, Sally, 2003, “Persistence Through Time”, in Michael Loux and Dean Zimmerman (eds.) *The Oxford Handbook to Metaphysics*, Oxford: Oxford University Press.
+* Hawley, Katherine, 2001, *How Things Persist*, Oxford: Oxford University Press.
+* Hazen, A. P., 1995, “On Quantifying Out”, *The Journal of Philosophical Logic*, 24: 291–319
+* Heller, Mark, 1990, *The Ontology of Physical Objects*, Cambridge: Cambridge University Press.
+* Hinchliff, Mark, 1988, *A Defense of Presentism*, Ph.D. Dissertation, Princeton University.
+* Hinchliff, Mark, 1996, “The Puzzle of Change”, *Philosophical Perspectives*, 10: 119–36.
+* Hoffman, Aviv, 2003, “A Puzzle About Truth and Singular Propositions”, *Mind*, 112: 635–651.
+* Johnston, Mark, 1983, *Particulars and Persistence*, Ph.D. Dissertation, Princeton University.
+* Johnston, Mark, 1987, “Is there a Problem about Persistence? I”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 61: 107–35.
+* Jubien, Michael, 1993, *Ontology, Modality and the Fallacy of Reference*, Cambridge: Cambridge University Press.
+* King, Jeffrey, 2003, “Tense, Modality, and Semantic Value”, *Philosophical Perspectives*, 15: 195–245.
+* Kripke, Saul, 1963, “Semantical Considerations on Modal Logic”, *Acta Philosophica Fennica*, 60: 83–94.
+* Lewis, David, 1971, “Counterparts of Persons and their Bodies”, *Journal of Philosophy*, 68: 203–211.
+* Lewis, David, 1976, “Survival and Identity”, in A. Rorty (ed.), *The Identities of Persons*, Berkeley, CA: University of California Press, 117–40.
+* Lewis, David, 1986, *On the Plurality of Worlds*, Oxford: Basil Blackwell.
+* Lewis, David, 1988, “Re-arrangement of Particles: Reply to Lowe”, *Analysis*, 48: 65–72.
+* Linsky, Bernard and Zalta, Edward, 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives*, 8: 431–58.
+* Lowe, E.J., 1987, “Lewis on Perdurance versus Endurance”, *Analysis*, 47: 152–4.
+* Lowe, E. J., 1988, “The Problems of Intrinsic Change: Rejoinder to Lewis”, *Analysis*, 48: 72–77.
+* Lowe, E. J., 1998, “Tense and Persistence”, in P. Le Poidevin (ed.) *Questions of Time and Tense*, Oxford: Oxford University Press, 43–59.
+* Marcus, Ruth Barcan, 1963, “Modalities and Intensional Languages”, *Synthese*, 13: 303–322.
+* Marcus, Ruth Barcan, 1985/1986, “Possibilia and Possible Worlds”, *Grazer Philosophische Studien*, 25–26: 107–133.
+* Markosian, Ned, 2003, “A Defense of Presentism”, in D. Zimmerman (ed.), *Oxford Studies in Metaphysics* (Volume 1), Oxford: Oxford University Press, 47–82.
+* Mellor, D.H., 1981, *Real Time*, Cambridge: Cambridge University Press.
+* Mellor, D.H, 1998, *Real Time II*, London: Routledge.
+* Menzel, Christopher, 1991, “The True Modal Logic”, *Journal of Philosophical Logic*, 20: 331–74.
+* Menzel, Christopher, 1993 “Singular Propositions and Modal Logic”, *Phiosophical Topics*, 21: 113–48.
+* Merricks, Trenton, 2012, “Singular Propositions”, in K. Clark and M. Rea (eds.), *Reason, Metaphysics, and Mind: New Essays on the Philosophy of Alvin Plantinga*, Oxford: Oxford University Press, 61–81.
+* Plantinga, Alvin, 1978, “The Boethian Compromise”, *American Philosophical Quarterly*, 15: 429–38.
+* Plantinga, Alvin, 1983, “On Existentialism”, *Philosophical Studies*, 44: 1–20.
+* Prior, A. N., 1959, “Thank Goodness That's Over”, *Philosophy*, 32: 12–17.
+* Prior, A. N., 1962, “Changes in Events and Changes in Things”, in *Papers on Time and Tense*, Oxford: Oxford University Press, 1968.
+* Prior, A. N., 1965, “Time, Existence, and Identity”, *Proceedings of the Aristotelian Society*, 66: 183–92.
+* Prior, A. N.,1967, *Past, Present, and Future*, Oxford: Oxford University Press.
+* Prior, A. N., 1970, “The Notion of the Present”, *Stadium Generale*, 23: 245–248.
+* Prior, A. N. and Fine, Kit, 1977, *Worlds, Times, and Selves*, Amherst: University of Massachusetts Press.
+* Quine, W.V.O., 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* Quine, W.V.O., 1950, “Identity, Ostension and Hypostasis”, in his *From a Logical Point of View*, Cambridge MA: Harvard University Press, 65–79.
+* Robinson, Denis, 1982, “Re-identifying Matter”, *Philosophical Review*, 81: 317–42.
+* Salmon, Nathan, 1989, “Tense and Singular Propositions”, in J. Almog, J. Perry, and H. Wettstein (eds.), *Themes from Kaplan*, New York: Oxford University Press, 331–392.
+* Sider, Theodore, 1996, “All the World's a Stage”, *Australasian Journal of Philosophy*, 74: 433–453.
+* Sider, Theodore, 1997, “Four-Dimensionalism”, *Philosophical Review*, 106: 197–231..
+* Sider, Theodore, 2000, “The Stage View and Temporary Intrinsics”, *Analysis*, 60: 84–8.
+* Sider, Theodore, 2001, *Four-Dimensionalism*, Oxford: Oxford University Press.
+* Smart, J. J. C., 1955, “Spatialising Time”, *Mind*, 64: 239–41.
+* Smart, J. J. C., 1972, “Space-Time and Individuals”, in R. Rudner and I. Scheffler (eds.), *Logic and Art: Essays in Honor of Nelson Goodman*, New York: Macmillan, 3–20.
+* Speaks, Jeff, 2012, “On Possibly Nonexistent Propositions”, *Philosophy and Phenomenological Research*, 85: 528–562.
+* Stalnaker, Robert, 1994 “The Interaction of Modality with Quantification and Identity”, in W. Sinnott-Armstrong, D. Raffman, and N. Asher (eds.), *Modalities, Morality and Belief: Essays in Honor of Ruth Barcan Marcus*, Cambridge: Cambridge University Press, 12–28.
+* Stalnaker, Robert, 2012, *Mere Possibilities*, Princeton, NJ: Princeton University Press.
+* Taylor, Richard, 1955, “Spatial and Temporal Analogues and the Concept of Identity”, *Journal of Philosophy*, 52: 599–612.
+* Thomson, Judith Jarvis, 1983, “Parthood and Identity Across Time”, *Journal of Philosophy*, 80: 201–20.
+* van Inwagen, Peter, 1990, “Four-Dimensional Objects”, *Noûs*, 24: 245–55.
+* van Inwagen, Peter, 2000, “Temporal Parts and Identity Across Time”, *Monist*, 83: 437–59.
+* Wiggins, David, 1968, “On Being in the Same Place at the Same Time”, *Philosophical Review*, 77: 90–5.
+* Wiggins, David, 1980, *Sameness and Substance*, Oxford: Basil Blackwell.
+* Wiggins, David, 2001, *Sameness and Substance Renewed*, Cambridge: Cambridge University Press.
+* Williams, Donald, 1951, “The Myth of Passage”, *Journal of Philosophy*, 48: 457–72.
+* Williamson, Timothy, 2000, “Existence and Contingency”, *Proceedings of the Aristotelian Society*, 100: 117–139.
+* Williamson, Timothy, 2001, “Necessary Existents”, in A. O'Hear (ed.), *Logic, Thought, and Language*, Cambridge: Cambridge University Press, 233–51.
+* Williamson, Timothy, 2006, “Stalnaker on the Interaction of Modality with Quantification and Identity”, in J. Thompson and A. Bryne (eds.), *Content and Modality: Themes from the Philosophy of Robert Stalnaker*, New York, NY: Oxford University Press, 123–147.
+* Williamson, Timothy, 2013, *Modal Logic as Metaphysics*, Oxford: Oxford University Press.
+* Zimmerman, Dean, 1996, “Persistence and Presentism”, *Philosophical Papers*, 25: 115–126.
+* Zimmerman, Dean, 1998a, “Temporary Intrinsics and Presentism”, in P. van Inwagen and D. Zimmerman (eds.), *Metaphysics, the Big Questions*, Oxford: Blackwell, 206–219.
+* Zimmerman, Dean, 1998b, “Temporal Parts and Supervenient Causation: The Incompatibility of Two Humean Doctrines”, *Australasian Journal of Philosophy*, 76: 265–88.
 
 ## Academic Tools
 
@@ -464,4 +464,4 @@ Sadly, Gregory Fitch passed away January 27, 2007. Prior to his death, he made a
 
 [Copyright © 2013](https://plato.stanford.edu/info.html#c) by\
 Greg Fitch\
-Michael Nelson <[_mnelson@ucr.edu_](mailto:mnelson%40ucr%2eedu)>
+Michael Nelson <[*mnelson@ucr.edu*](mailto:mnelson%40ucr%2eedu)>

@@ -1,6 +1,6 @@
 # 大卫·刘易斯 Lewis, David (Brian Weatherson)
 
-_首次发表于2009年7月23日，实质性修订于2021年11月18日。_
+*首次发表于2009年7月23日，实质性修订于2021年11月18日。*
 
 大卫·刘易斯（1941-2001）是 20 世纪最重要的哲学家之一。他在语言哲学、数学哲学、科学哲学、决策理论、认识论、元伦理学和美学方面做出了重要贡献。在这些领域中，他是必读的；在许多领域中，他是近几十年来最重要的人物之一。而这个列表还没有包括他的两个最重要的贡献。
 
@@ -8,7 +8,6 @@ _首次发表于2009年7月23日，实质性修订于2021年11月18日。_
 
 但他最重要的贡献在于形而上学。他的形而上学中的一个分支是他受休谟启发的关于法则的还原主义。他发展了一个他称之为“休谟随附性”的立场，这个理论认为除了局部自然属性的时空分布之外，现实中没有其他东西。他通过详细展示如何将法则、机会、反事实依赖、因果关系、倾向性和颜色定位在这个休谟拼图中来实现这一点。他形而上学的另一个分支是他的模态实在论。刘易斯认为，关于模态性的最佳理论假设了具体的可能世界。一个命题只有在这些世界中的一个上为真，它才是可能的。刘易斯在他最重要的著作《世界的多样性》中为这个观点辩护。此外，刘易斯还发展了一种关于个体模态属性如何思考的新方法，即对应物理论，并展示了这个理论如何解决了几个长期存在的关于模态属性的难题。
 
- 
 ***
 
 ## 1. 大卫·刘易斯的生活和影响
@@ -498,198 +497,198 @@ _首次发表于2009年7月23日，实质性修订于2021年11月18日。_
 
 ### Primary Literature
 
-* 1966a, “An Argument for the Identity Theory,” _Journal of Philosophy_, 63: 17–25.
-* 1966b, “Percepts and Color Mosaics in Visual Experience,” _Philosophical Review_, 75: 357–368.
-* 1966 (with Jane S. Richardson), “Scriven on Human Unpredictability,” _Philosophical Studies_, 17: 69–74.
-* 1968, “Counterpart Theory and Quantified Modal Logic,” _Journal of Philosophy_, 65: 113–126.
-* 1968 (with Wilfrid Hodges), “Finitude and Infinitude in the Atomic Calculus of Individuals,” _Noûs_, 2: 405–410.
-* 1969a, _Convention: A Philosophical Study_, Cambridge, MA: Harvard University Press.
-* 1969b, “Lucas against Mechanism,” _Philosophy_, 44: 231–233.
-* 1969c, “Policing the Aufbau,” _Philosophical Studies_, 20: 13–17.
-* 1969d, Review of Capitan and Merrill (eds.), _Art, Mind, and Religion_, _Journal of Philosophy_, 66: 22–27.
-* 1970a, “Anselm and Actuality,” _Noûs_, 4: 175–188.
-* 1970b, “General Semantics,” _Synthese_, 22: 18–67.
-* 1970c, “How to Define Theoretical Terms,” _Journal of Philosophy_, 67: 427–446.
-* 1970d, “Nominalistic Set Theory,” _Noûs_, 4: 225–240.
-* 1970 (with Stephanie R. Lewis), “Holes,” _Australasian Journal of Philosophy_, 48: 206–212.
-* 1971a, “Analog and Digital,” _Noûs_, 5: 321–327.
-* 1971b, “Completeness and Decidability of Three Logics of Counterfactual Conditionals,” _Theoria_, 37: 74–85.
-* 1971c, “Counterparts of Persons and Their Bodies,” _Journal of Philosophy_, 68: 203–211.
-* 1971d, “Immodest Inductive Methods,” _Philosophy of Science_, 38: 54–63.
-* 1972a, “Psychophysical and Theoretical Identifications,” _Australasian Journal of Philosophy_, 50: 249–258.
-* 1972b, “Utilitarianism and Truthfulness,” _Australasian Journal of Philosophy_, 50: 17–19.
-* 1973a, _Counterfactuals_, Oxford: Blackwell Publishers and Cambridge, MA: Harvard University Press, 1973, Reprinted with revisions, 1986.
-* 1973b, “Causation,” _Journal of Philosophy_, 70: 556–567.
-* 1973c, “Counterfactuals and Comparative Possibility,” _Journal of Philosophical Logic_, 2: 418–446.
-* 1973d, “Lingue e lingua,” _Versus_, 4: 2–21.
-* 1974a, “Tensions,” in Milton K. Munitz and Peter K. Unger (eds.), _Semantics and Philosophy_, New York: New York University Press, pp. 49–61.
-* 1974b, “Intensional Logics Without Iterative Axioms,” _Journal of Philosophical Logic_, 3: 457–466.
-* 1974c, “Radical Interpretation,” _Synthese_, 23: 331–344.
-* 1974d, “Semantic Analyses for Dyadic Deontic Logic,” in Sören Stenlund (ed.), _Logical Theory and Semantic Analysis: Essays Dedicated to Stig Kanger on His Fiftieth Birthday_, Dordrecht: Reidel, pp. 1–14.
-* 1974e, “Spielman and Lewis on Inductive Immodesty,” _Philosophy of Science_, 41: 84–85.
-* 1975a, “Adverbs of Quantification,” in Edward L. Keenan (ed.), _Formal Semantics of Natural Language_, Cambridge: Cambridge University Press, pp. 3–15.
-* 1975b, “Languages and Language,” in Keith Gunderson (ed.), _Minnesota Studies in the Philosophy of Science_, Volume VII, Minneapolis: University of Minnesota Press, pp. 3–35.
-* 1975 (with Stephanie R. Lewis), Review of Olson and Paul, _Contemporary Philosophy in Scandinavia_, _Theoria_, 41: 39–60.
-* 1976a, “Convention: Reply to Jamieson,” _Canadian Journal of Philosophy_, 6: 113–120.
-* 1976b, “Probabilities of Conditionals and Conditional Probabilities,” _Philosophical Review_, 85: 297–315.
-* 1976c, “Survival and Identity,” in Amélie O. Rorty (ed.), _The Identities of Persons_, Berkeley: University of California Press, pp. 17–40.
-* 1976d, “The Paradoxes of Time Travel,” _American Philosophical Quarterly_, 13: 145–152.
-* 1977a, “Possible-World Semantics for Counterfactual Logics: A Rejoinder,” _Journal of Philosophical Logic_, 6: 359–363.
-* 1978a, “Reply to McMichael,” _Analysis_, 38: 85–86.
-* 1978b, “Truth in Fiction,” _American Philosophical Quarterly_, 15: 37–46.
-* 1979a, “A Problem about Permission,” in E. Saarinen _et al_. (eds.), _Essays in Honour of Jaakko Hintikka_, Dordrecht: Reidel, pp. 163–175.
-* 1979b, “Attitudes _De Dicto_ and _De Se_,” _Philosophical Review_, 88: 513–543.
-* 1979c, “Counterfactual Dependence and Time’s Arrow,” _Noûs_, 13: 455–476.
-* 1979d, “Lucas Against Mechanism II,” _Canadian Journal of Philosophy_, 9: 373–376.
-* 1979e, “Prisoners’ Dilemma is a Newcomb Problem,” _Philosophy and Public Affairs_, 8: 235–240.
-* 1979f, “Scorekeeping in a Language Game,” _Journal of Philosophical Logic_, 8: 339–359.
-* 1980a, “A Subjectivist’s Guide to Objective Chance,” in Richard C. Jeffrey (ed.), _Studies in Inductive Logic and Probability_, Volume II, Berkeley: University of California Press, pp. 263–293.
-* 1980b, “Index, Context, and Content,” in Stig Kanger and Sven Öhman (eds.), _Philosophy and Grammar_, Dordrecht: Reidel, pp. 79–100.
-* 1980c, “Mad Pain and Martian Pain,” in Ned Block (ed.), _Readings in Philosophy of Psychology_, Volume I, Cambridge, MA: Harvard University Press, pp. 216–32.
-* 1980d, “Veridical Hallucination and Prosthetic Vision,” _Australasian Journal of Philosophy_, 58: 239–249.
-* 1981a, “Are We Free to Break the Laws?,” _Theoria_, 47: 113–121.
-* 1981b, “Causal Decision Theory,” _Australasian Journal of Philosophy_, 59: 5–30.
-* 1981c, “Ordering Semantics and Premise Semantics for Counterfactuals,” _Journal of Philosophical Logic_, 10: 217–234.
-* 1981d, “What Puzzling Pierre Does Not Believe,” _Australasian Journal of Philosophy_, 59: 283–289.
-* 1981e, “Why Ain’cha Rich?,” _Noûs_, 15: 377–380.
-* 1982a, “‘Whether’ Report,” in Tom Pauli (ed.), _320311: Philosophical Essays Dedicated to Lennart Åqvist on his Fiftieth Birthday_, Uppsala: University of Uppsala Press, pp. 194–206.
-* 1982b, “Censored Vision,” Written under the name “Bruce LeCatt,”, _Australasian Journal of Philosophy_, 60: 158–162.
-* 1982c, “Logic for Equivocators,” _Noûs_, 16: 431–441.
-* 1983a, _Philosophical Papers_, Volume I, Oxford: Oxford University Press.
-* 1983b, “Extrinsic Properties,” _Philosophical Studies_, 44: 197–200.
-* 1983c, “Individuation by Acquaintance and by Stipulation,” _Philosophical Review_, 92: 3–32.
-* 1983d, “Levi Against U-Maximization,” _Journal of Philosophy_, 80: 531-534.
-* 1983e, “New Work For a Theory of Universals,” _Australasian Journal of Philosophy_, 61: 343–377.
-* 1984a, “Devil’s Bargains and the Real World,” in Douglas MacLean (ed.), _The Security Gamble: Deterrence in the Nuclear Age_, Totowa, NJ: Rowman and Allenheld, pp. 141–154.
-* 1984b, “Putnam’s Paradox,” _Australasian Journal of Philosophy_, 62: 221–236.
-* 1986a, _On the Plurality of Worlds_, Oxford: Blackwell Publishers.
-* 1986b, _Philosophical Papers_, Volume II, Oxford: Oxford University Press.
-* 1986c, “A Comment on Armstrong and Forrest,” _Australasian Journal of Philosophy_, 64: 92–93.
-* 1986d, “Against Structural Universals,” _Australasian Journal of Philosophy_, 64: 25–46.
-* 1986e, “Buy Like a MADman, Use Like a NUT” _QQ_ 6: 5–8.
+* 1966a, “An Argument for the Identity Theory,” *Journal of Philosophy*, 63: 17–25.
+* 1966b, “Percepts and Color Mosaics in Visual Experience,” *Philosophical Review*, 75: 357–368.
+* 1966 (with Jane S. Richardson), “Scriven on Human Unpredictability,” *Philosophical Studies*, 17: 69–74.
+* 1968, “Counterpart Theory and Quantified Modal Logic,” *Journal of Philosophy*, 65: 113–126.
+* 1968 (with Wilfrid Hodges), “Finitude and Infinitude in the Atomic Calculus of Individuals,” *Noûs*, 2: 405–410.
+* 1969a, *Convention: A Philosophical Study*, Cambridge, MA: Harvard University Press.
+* 1969b, “Lucas against Mechanism,” *Philosophy*, 44: 231–233.
+* 1969c, “Policing the Aufbau,” *Philosophical Studies*, 20: 13–17.
+* 1969d, Review of Capitan and Merrill (eds.), *Art, Mind, and Religion*, *Journal of Philosophy*, 66: 22–27.
+* 1970a, “Anselm and Actuality,” *Noûs*, 4: 175–188.
+* 1970b, “General Semantics,” *Synthese*, 22: 18–67.
+* 1970c, “How to Define Theoretical Terms,” *Journal of Philosophy*, 67: 427–446.
+* 1970d, “Nominalistic Set Theory,” *Noûs*, 4: 225–240.
+* 1970 (with Stephanie R. Lewis), “Holes,” *Australasian Journal of Philosophy*, 48: 206–212.
+* 1971a, “Analog and Digital,” *Noûs*, 5: 321–327.
+* 1971b, “Completeness and Decidability of Three Logics of Counterfactual Conditionals,” *Theoria*, 37: 74–85.
+* 1971c, “Counterparts of Persons and Their Bodies,” *Journal of Philosophy*, 68: 203–211.
+* 1971d, “Immodest Inductive Methods,” *Philosophy of Science*, 38: 54–63.
+* 1972a, “Psychophysical and Theoretical Identifications,” *Australasian Journal of Philosophy*, 50: 249–258.
+* 1972b, “Utilitarianism and Truthfulness,” *Australasian Journal of Philosophy*, 50: 17–19.
+* 1973a, *Counterfactuals*, Oxford: Blackwell Publishers and Cambridge, MA: Harvard University Press, 1973, Reprinted with revisions, 1986.
+* 1973b, “Causation,” *Journal of Philosophy*, 70: 556–567.
+* 1973c, “Counterfactuals and Comparative Possibility,” *Journal of Philosophical Logic*, 2: 418–446.
+* 1973d, “Lingue e lingua,” *Versus*, 4: 2–21.
+* 1974a, “Tensions,” in Milton K. Munitz and Peter K. Unger (eds.), *Semantics and Philosophy*, New York: New York University Press, pp. 49–61.
+* 1974b, “Intensional Logics Without Iterative Axioms,” *Journal of Philosophical Logic*, 3: 457–466.
+* 1974c, “Radical Interpretation,” *Synthese*, 23: 331–344.
+* 1974d, “Semantic Analyses for Dyadic Deontic Logic,” in Sören Stenlund (ed.), *Logical Theory and Semantic Analysis: Essays Dedicated to Stig Kanger on His Fiftieth Birthday*, Dordrecht: Reidel, pp. 1–14.
+* 1974e, “Spielman and Lewis on Inductive Immodesty,” *Philosophy of Science*, 41: 84–85.
+* 1975a, “Adverbs of Quantification,” in Edward L. Keenan (ed.), *Formal Semantics of Natural Language*, Cambridge: Cambridge University Press, pp. 3–15.
+* 1975b, “Languages and Language,” in Keith Gunderson (ed.), *Minnesota Studies in the Philosophy of Science*, Volume VII, Minneapolis: University of Minnesota Press, pp. 3–35.
+* 1975 (with Stephanie R. Lewis), Review of Olson and Paul, *Contemporary Philosophy in Scandinavia*, *Theoria*, 41: 39–60.
+* 1976a, “Convention: Reply to Jamieson,” *Canadian Journal of Philosophy*, 6: 113–120.
+* 1976b, “Probabilities of Conditionals and Conditional Probabilities,” *Philosophical Review*, 85: 297–315.
+* 1976c, “Survival and Identity,” in Amélie O. Rorty (ed.), *The Identities of Persons*, Berkeley: University of California Press, pp. 17–40.
+* 1976d, “The Paradoxes of Time Travel,” *American Philosophical Quarterly*, 13: 145–152.
+* 1977a, “Possible-World Semantics for Counterfactual Logics: A Rejoinder,” *Journal of Philosophical Logic*, 6: 359–363.
+* 1978a, “Reply to McMichael,” *Analysis*, 38: 85–86.
+* 1978b, “Truth in Fiction,” *American Philosophical Quarterly*, 15: 37–46.
+* 1979a, “A Problem about Permission,” in E. Saarinen *et al*. (eds.), *Essays in Honour of Jaakko Hintikka*, Dordrecht: Reidel, pp. 163–175.
+* 1979b, “Attitudes *De Dicto* and *De Se*,” *Philosophical Review*, 88: 513–543.
+* 1979c, “Counterfactual Dependence and Time’s Arrow,” *Noûs*, 13: 455–476.
+* 1979d, “Lucas Against Mechanism II,” *Canadian Journal of Philosophy*, 9: 373–376.
+* 1979e, “Prisoners’ Dilemma is a Newcomb Problem,” *Philosophy and Public Affairs*, 8: 235–240.
+* 1979f, “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8: 339–359.
+* 1980a, “A Subjectivist’s Guide to Objective Chance,” in Richard C. Jeffrey (ed.), *Studies in Inductive Logic and Probability*, Volume II, Berkeley: University of California Press, pp. 263–293.
+* 1980b, “Index, Context, and Content,” in Stig Kanger and Sven Öhman (eds.), *Philosophy and Grammar*, Dordrecht: Reidel, pp. 79–100.
+* 1980c, “Mad Pain and Martian Pain,” in Ned Block (ed.), *Readings in Philosophy of Psychology*, Volume I, Cambridge, MA: Harvard University Press, pp. 216–32.
+* 1980d, “Veridical Hallucination and Prosthetic Vision,” *Australasian Journal of Philosophy*, 58: 239–249.
+* 1981a, “Are We Free to Break the Laws?,” *Theoria*, 47: 113–121.
+* 1981b, “Causal Decision Theory,” *Australasian Journal of Philosophy*, 59: 5–30.
+* 1981c, “Ordering Semantics and Premise Semantics for Counterfactuals,” *Journal of Philosophical Logic*, 10: 217–234.
+* 1981d, “What Puzzling Pierre Does Not Believe,” *Australasian Journal of Philosophy*, 59: 283–289.
+* 1981e, “Why Ain’cha Rich?,” *Noûs*, 15: 377–380.
+* 1982a, “‘Whether’ Report,” in Tom Pauli (ed.), *320311: Philosophical Essays Dedicated to Lennart Åqvist on his Fiftieth Birthday*, Uppsala: University of Uppsala Press, pp. 194–206.
+* 1982b, “Censored Vision,” Written under the name “Bruce LeCatt,”, *Australasian Journal of Philosophy*, 60: 158–162.
+* 1982c, “Logic for Equivocators,” *Noûs*, 16: 431–441.
+* 1983a, *Philosophical Papers*, Volume I, Oxford: Oxford University Press.
+* 1983b, “Extrinsic Properties,” *Philosophical Studies*, 44: 197–200.
+* 1983c, “Individuation by Acquaintance and by Stipulation,” *Philosophical Review*, 92: 3–32.
+* 1983d, “Levi Against U-Maximization,” *Journal of Philosophy*, 80: 531-534.
+* 1983e, “New Work For a Theory of Universals,” *Australasian Journal of Philosophy*, 61: 343–377.
+* 1984a, “Devil’s Bargains and the Real World,” in Douglas MacLean (ed.), *The Security Gamble: Deterrence in the Nuclear Age*, Totowa, NJ: Rowman and Allenheld, pp. 141–154.
+* 1984b, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62: 221–236.
+* 1986a, *On the Plurality of Worlds*, Oxford: Blackwell Publishers.
+* 1986b, *Philosophical Papers*, Volume II, Oxford: Oxford University Press.
+* 1986c, “A Comment on Armstrong and Forrest,” *Australasian Journal of Philosophy*, 64: 92–93.
+* 1986d, “Against Structural Universals,” *Australasian Journal of Philosophy*, 64: 25–46.
+* 1986e, “Buy Like a MADman, Use Like a NUT” *QQ* 6: 5–8.
 * 1986f, “Causal Explanation” in Lewis 1986b, pp. 214–240.
 * 1986g, “Events” in Lewis 1986b, pp. 241–269.
-* 1986h, “Probabilities of Conditionals and Conditional Probabilities II,” _Philosophical Review_, 95: 581–589.
-* 1987, “The Punishment that Leaves Something to Chance,” _Proceedings of the Russellian Society_, University of Sydney, 12: 81–97.
-* 1988a, “Ayer’s First Empiricist Criterion of Meaning: Why Does it Fail?,” _Analysis_, 48: 1–3.
-* 1988b, “Desire as Belief,” _Mind_, 97: 323–332.
-* 1988c, “Rearrangement of Particles: Reply to Lowe,” _Analysis_, 48: 65–72.
-* 1988d, “Relevant Implication,” _Theoria_, 54: 162–174.
-* 1988e, “Statements Partly About Observation,” _Philosophical Papers_, 17: 1–31.
-* 1988f, “The Trap’s Dilemma,” _Australasian Journal of Philosophy_, 66: 220–223.
-* 1988g, “Vague identity: Evans misunderstood,” _Analysis_, 48: 128–130.
-* 1988h, “What Experience Teaches,” _Proceedings of the Russellian Society_, University of Sydney, 13: 29–57.
-* 1989a, “Academic Appointments: Why Ignore the Advantage of Being Right?,” in _Ormond Papers_, Ormond College, University of Melbourne. Reprinted in Lewis 2000a, pp. 187–200.
-* 1989b, “Dispositional Theories of Value,” _Proceedings of the Aristotelian Society_, Supplementary Volume 63: 113–137.
-* 1989c, “Finite Counterforce,” in Henry Shue (ed.), _Nuclear Deterrence and Moral Restraint_, Cambridge: Cambridge University Press, pp. 51–114.
-* 1989d, “Mill and Milquetoast,” _Australasian Journal of Philosophy_, 67: 152–171.
-* 1989e, Review of John Bigelow, _The Reality of Numbers_, _Australasian Journal of Philosophy_, 67: 487–489.
-* 1990, “Noneism or Allism?,” _Mind_, 99: 23–31.
-* 1991, _Parts of Classes_, Oxford: Blackwell Publishers.
-* 1992a, “Meaning Without Use: Reply to Hawthorne,” _Australasian Journal of Philosophy_, 70: 106–110.
-* 1992b, Critical Notice of Armstrong, _A Combinatorial Theory of Possibility_, _Australasian Journal of Philosophy_, 70: 211–224.
-* 1993a, “Counterpart Theory, Quantified Modal Logic, and Extra Argument Places,” _Analysis_, 53: 69–71.
-* 1993b, “Evil for Freedom’s Sake?,” _Philosophical Papers_, 22: 149–172.
-* 1993c, “Many, But Almost One,” in Keith Campbell, John Bacon, and Lloyd Reinhardt (eds.), _Ontology, Causality and Mind: Essays on the Philosophy of D. M. Armstrong_, Cambridge: Cambridge University Press, pp. 23–38.
-* 1993d, “Mathematics is Megethology,” _Philosophia Mathematica_, 3: 3–23.
-* 1994a, “Humean Supervenience Debugged,” _Mind_, 103: 473–490.
-* 1994b, “Reduction of Mind,” in Samuel Guttenplan (ed.), _A Companion to Philosophy of Mind_, Oxford: Blackwell Publishers, pp. 412–431.
-* 1995a, “Ern Malley’s Namesake,” _Quadrant_, 39: 14–15.
-* 1995b, “Should a Materialist Believe in Qualia?,” _Australasian Journal of Philosophy_, 73: 140–144.
-* 1996a, “Desire as Belief II,” _Mind_, 105: 303–313.
-* 1996b, “Elusive Knowledge,” _Australasian Journal of Philosophy_, 74: 549–567.
-* 1996c, “Maudlin and Modal Mystery,” _Australasian Journal of Philosophy_, 74: 683–684.
-* 1996d, “Illusory Innocence?” review of Peter Unger, _Living High and Letting Die_, _Eureka Street_, 6, No. 10 December 1996: 35–36.
-* 1996 (with Stephanie R. Lewis), Review of R. Casati and A. Varzi, _Holes_, _Philosophical Review_, 105: 77–79.
-* 1997a, “Do We Believe in Penal Substitution?,” _Philosophical Papers_, 26: 203–209.
-* 1997b, “Finkish Dispositions,” _Philosophical Quarterly_, 47: 143–58.
-* 1998a, _Papers in Philosophical Logic_, Cambridge: Cambridge University Press.
-* 1997c, “Naming the Colours,” _Australasian Journal of Philosophy_, 75: 325–342.
-* 1998b, “A World of Truthmakers?” review of D. M. Armstrong, _A World of States of Affairs_, published under an incorrect title in _Times Literary Supplement_, 4950, 13 February 1998: 30.
-* 1998 (with Rae Langton), “Defining ‘Intrinsic’,” _Philosophy and Phenomenological Research_, 58: 333–345.
-* 1999a, _Papers in Metaphysics and Epistemology_, Cambridge: Cambridge University Press.
+* 1986h, “Probabilities of Conditionals and Conditional Probabilities II,” *Philosophical Review*, 95: 581–589.
+* 1987, “The Punishment that Leaves Something to Chance,” *Proceedings of the Russellian Society*, University of Sydney, 12: 81–97.
+* 1988a, “Ayer’s First Empiricist Criterion of Meaning: Why Does it Fail?,” *Analysis*, 48: 1–3.
+* 1988b, “Desire as Belief,” *Mind*, 97: 323–332.
+* 1988c, “Rearrangement of Particles: Reply to Lowe,” *Analysis*, 48: 65–72.
+* 1988d, “Relevant Implication,” *Theoria*, 54: 162–174.
+* 1988e, “Statements Partly About Observation,” *Philosophical Papers*, 17: 1–31.
+* 1988f, “The Trap’s Dilemma,” *Australasian Journal of Philosophy*, 66: 220–223.
+* 1988g, “Vague identity: Evans misunderstood,” *Analysis*, 48: 128–130.
+* 1988h, “What Experience Teaches,” *Proceedings of the Russellian Society*, University of Sydney, 13: 29–57.
+* 1989a, “Academic Appointments: Why Ignore the Advantage of Being Right?,” in *Ormond Papers*, Ormond College, University of Melbourne. Reprinted in Lewis 2000a, pp. 187–200.
+* 1989b, “Dispositional Theories of Value,” *Proceedings of the Aristotelian Society*, Supplementary Volume 63: 113–137.
+* 1989c, “Finite Counterforce,” in Henry Shue (ed.), *Nuclear Deterrence and Moral Restraint*, Cambridge: Cambridge University Press, pp. 51–114.
+* 1989d, “Mill and Milquetoast,” *Australasian Journal of Philosophy*, 67: 152–171.
+* 1989e, Review of John Bigelow, *The Reality of Numbers*, *Australasian Journal of Philosophy*, 67: 487–489.
+* 1990, “Noneism or Allism?,” *Mind*, 99: 23–31.
+* 1991, *Parts of Classes*, Oxford: Blackwell Publishers.
+* 1992a, “Meaning Without Use: Reply to Hawthorne,” *Australasian Journal of Philosophy*, 70: 106–110.
+* 1992b, Critical Notice of Armstrong, *A Combinatorial Theory of Possibility*, *Australasian Journal of Philosophy*, 70: 211–224.
+* 1993a, “Counterpart Theory, Quantified Modal Logic, and Extra Argument Places,” *Analysis*, 53: 69–71.
+* 1993b, “Evil for Freedom’s Sake?,” *Philosophical Papers*, 22: 149–172.
+* 1993c, “Many, But Almost One,” in Keith Campbell, John Bacon, and Lloyd Reinhardt (eds.), *Ontology, Causality and Mind: Essays on the Philosophy of D. M. Armstrong*, Cambridge: Cambridge University Press, pp. 23–38.
+* 1993d, “Mathematics is Megethology,” *Philosophia Mathematica*, 3: 3–23.
+* 1994a, “Humean Supervenience Debugged,” *Mind*, 103: 473–490.
+* 1994b, “Reduction of Mind,” in Samuel Guttenplan (ed.), *A Companion to Philosophy of Mind*, Oxford: Blackwell Publishers, pp. 412–431.
+* 1995a, “Ern Malley’s Namesake,” *Quadrant*, 39: 14–15.
+* 1995b, “Should a Materialist Believe in Qualia?,” *Australasian Journal of Philosophy*, 73: 140–144.
+* 1996a, “Desire as Belief II,” *Mind*, 105: 303–313.
+* 1996b, “Elusive Knowledge,” *Australasian Journal of Philosophy*, 74: 549–567.
+* 1996c, “Maudlin and Modal Mystery,” *Australasian Journal of Philosophy*, 74: 683–684.
+* 1996d, “Illusory Innocence?” review of Peter Unger, *Living High and Letting Die*, *Eureka Street*, 6, No. 10 December 1996: 35–36.
+* 1996 (with Stephanie R. Lewis), Review of R. Casati and A. Varzi, *Holes*, *Philosophical Review*, 105: 77–79.
+* 1997a, “Do We Believe in Penal Substitution?,” *Philosophical Papers*, 26: 203–209.
+* 1997b, “Finkish Dispositions,” *Philosophical Quarterly*, 47: 143–58.
+* 1998a, *Papers in Philosophical Logic*, Cambridge: Cambridge University Press.
+* 1997c, “Naming the Colours,” *Australasian Journal of Philosophy*, 75: 325–342.
+* 1998b, “A World of Truthmakers?” review of D. M. Armstrong, *A World of States of Affairs*, published under an incorrect title in *Times Literary Supplement*, 4950, 13 February 1998: 30.
+* 1998 (with Rae Langton), “Defining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 58: 333–345.
+* 1999a, *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press.
 * 1999b, “Why Conditionalize?,” Written in 1972 as a course handout, but not published until 1999 in Lewis 1999a.
-* 1999c, “Zimmerman and the Spinning Sphere,” _Australasian Journal of Philosophy_, 77: 209–212.
-* 2000a, _Papers in Ethics and Social Philosophy_, Cambridge: Cambridge University Press.
-* 2000b, “Causation as Influence” abridged version, _Journal of Philosophy_, 97: 182–197.
-* 2001a, “Forget About the ‘Correspondence Theory of Truth’,” _Analysis_, 61: 275–280.
-* 2001b, “Redefining ‘Intrinsic’,” _Philosophy and Phenomenological Research_, 63: 381–398.
-* 2001c, “Sleeping Beauty: Reply to Elga,” _Analysis_, 61: 171–176.
-* 2001d, “Truthmaking and Difference-Making,” _Noûs_, 35: 602-615.
-* 2001 (with Rae Langton), “Marshall and Parsons on ‘Intrinsic’” Rae Langton, co-author, _Philosophy and Phenomenological Research_, 63: 353–355.
-* 2002a, “Tensing the Copula,” _Mind_, 111: 1–14.
-* 2002b, “Tharp’s Third Theorem,” _Analysis_, 62: 95–97.
-* 2003a, “Rights to Rights,” _Theoria_, 69: 160–165.
-* 2003b, “Things qua Truthmakers,” in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), _Real Metaphysics: Essays in Honour of D. H. Mellor_, London: Routledge, pp. 25–38.
-* 2003 (with Gideon Rosen), “Postscript to ‘Things qua Truthmakers’: Negative Existentials,”, in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), _Real Metaphysics: Essays in Honour of D. H. Mellor_, London: Routledge, pp. 39–42.
-* 2004a, “Causation as Influence” unabridged version, in John Collins, Ned Hall, and L.A. Paul (eds.), _Causation and Counterfactuals_, Cambridge, MA: MIT Press, pp. 75–106.
-* 2004b, “How Many Lives has Schrödinger’s Cat?,” _Australasian Journal of Philosophy_, 82: 3–22.
-* 2004c, “Tensed Quantifiers,” in Dean Zimmerman (ed.), _Oxford Studies in Metaphysics, Volume 1_, Oxford: Oxford University Press, pp. 3–14.
-* 2004d, “Void and Object,” in John Collins, Ned Hall, and L.A. Paul (eds.), _Causation and Counterfactuals_, Cambridge, MA: MIT Press, pp. 277–290.
-* 2004e, “Letters to Priest and Beall,” in Graham Priest, J. C. Beall and Bradley Armour-Garb (eds.), _The Law of Non-Contradiction_, Oxford: Oxford University Press, pp. 176–177.
-* 2005, “Quasi-Realism is Fictionalism” in Mark Calderon (ed.), _Fictionalism in Metaphysics_, Oxford: Clarendon Press, pp. 314–321.
-* 2007, “Divine Evil” in Louise Anthony (ed.), _Philosophers Without Gods_, Oxford: Oxford University Press, pp. 231–242.
-* 2009, “Ramseyan Humility” in David Braddon-Mitchell and Robert Nola (eds.), _Conceptual Analysis and Philosophical Naturalism_, Cambridge, MA: MIT Press, pp. 203–222.
-* 2015a, “Counterparts of States of Affairs” in Barry Loewer and Jonathan Schaffer (eds.), _A Companion to David Lewis_, New York: Wiley Blackwell, pp. 15-17.
-* 2015b, “Reply to Dana Scott, “Is There Life on Other Possible Worlds”” in Barry Loewer and Jonathan Schaffer (eds.), _A Companion to David Lewis_, New York: Wiley Blackwell, pp. 18-21.
-* 2020a, _Philosophical Letters of David K. Lewis, volume 1: Causation, Modality, Ontology_, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
-* 2020b, _Philosophical Letters of David K. Lewis, volume 2: Mind, Language, Epistemology_, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
+* 1999c, “Zimmerman and the Spinning Sphere,” *Australasian Journal of Philosophy*, 77: 209–212.
+* 2000a, *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
+* 2000b, “Causation as Influence” abridged version, *Journal of Philosophy*, 97: 182–197.
+* 2001a, “Forget About the ‘Correspondence Theory of Truth’,” *Analysis*, 61: 275–280.
+* 2001b, “Redefining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 63: 381–398.
+* 2001c, “Sleeping Beauty: Reply to Elga,” *Analysis*, 61: 171–176.
+* 2001d, “Truthmaking and Difference-Making,” *Noûs*, 35: 602-615.
+* 2001 (with Rae Langton), “Marshall and Parsons on ‘Intrinsic’” Rae Langton, co-author, *Philosophy and Phenomenological Research*, 63: 353–355.
+* 2002a, “Tensing the Copula,” *Mind*, 111: 1–14.
+* 2002b, “Tharp’s Third Theorem,” *Analysis*, 62: 95–97.
+* 2003a, “Rights to Rights,” *Theoria*, 69: 160–165.
+* 2003b, “Things qua Truthmakers,” in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), *Real Metaphysics: Essays in Honour of D. H. Mellor*, London: Routledge, pp. 25–38.
+* 2003 (with Gideon Rosen), “Postscript to ‘Things qua Truthmakers’: Negative Existentials,”, in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), *Real Metaphysics: Essays in Honour of D. H. Mellor*, London: Routledge, pp. 39–42.
+* 2004a, “Causation as Influence” unabridged version, in John Collins, Ned Hall, and L.A. Paul (eds.), *Causation and Counterfactuals*, Cambridge, MA: MIT Press, pp. 75–106.
+* 2004b, “How Many Lives has Schrödinger’s Cat?,” *Australasian Journal of Philosophy*, 82: 3–22.
+* 2004c, “Tensed Quantifiers,” in Dean Zimmerman (ed.), *Oxford Studies in Metaphysics, Volume 1*, Oxford: Oxford University Press, pp. 3–14.
+* 2004d, “Void and Object,” in John Collins, Ned Hall, and L.A. Paul (eds.), *Causation and Counterfactuals*, Cambridge, MA: MIT Press, pp. 277–290.
+* 2004e, “Letters to Priest and Beall,” in Graham Priest, J. C. Beall and Bradley Armour-Garb (eds.), *The Law of Non-Contradiction*, Oxford: Oxford University Press, pp. 176–177.
+* 2005, “Quasi-Realism is Fictionalism” in Mark Calderon (ed.), *Fictionalism in Metaphysics*, Oxford: Clarendon Press, pp. 314–321.
+* 2007, “Divine Evil” in Louise Anthony (ed.), *Philosophers Without Gods*, Oxford: Oxford University Press, pp. 231–242.
+* 2009, “Ramseyan Humility” in David Braddon-Mitchell and Robert Nola (eds.), *Conceptual Analysis and Philosophical Naturalism*, Cambridge, MA: MIT Press, pp. 203–222.
+* 2015a, “Counterparts of States of Affairs” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, New York: Wiley Blackwell, pp. 15-17.
+* 2015b, “Reply to Dana Scott, “Is There Life on Other Possible Worlds”” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, New York: Wiley Blackwell, pp. 18-21.
+* 2020a, *Philosophical Letters of David K. Lewis, volume 1: Causation, Modality, Ontology*, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
+* 2020b, *Philosophical Letters of David K. Lewis, volume 2: Mind, Language, Epistemology*, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
 
 ### Cited Secondary Literature
 
-* Adams, Robert, 1974, “Theories of Actuality” _Noûs_, 8: 211–231.
-* Armstrong, D. M., 1978, _Universals and Scientific Realism_, Cambridge: Cambridge University Press.
-* Bennett, Jonathan, 1984, “Counterfactuals and Temporal Direction” _Philosophical Review_, 93: 57–91.
-* Bennett, Jonathan, 2003, _A Philosophical Guide to Conditionals_, Oxford: Oxford University Press.
-* Braddon-Mitchell, David and Robert Nola, 1997, “Ramsification and Glymour’s Counterexample” _Analysis_, 57: 167–169.
-* Cohen, Stewart, 1986, “Knowledge and Context”, _The Journal of Philosophy_, 83: 574–583.
-* Davies, Martin, 1981, _Meaning, Quantification, Necessity: Themes in Philosophical Logic_, London: Routledge.
-* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem,” _Analysis_ 60: 143–147.
-* DeRose, Keith, 1995, “Solving the Skeptical Problem”, _The Philosophical Review_, 104(1), 1–52.
-* –––, 2004, “Defeating Dr. Evil with Self-Locating Belief,” _Philosophy and Phenomenological Research_, 69: 383–396.
-* Egan, Andy, 2007, “Epistemic modals, relativism and assertion,” _Philosophical Studies_, 133: 1–22.
-* Fine, Kit, 1975, “Critical Notice of _Counterfactuals_,” _Mind_, 84: 451–458.
-* Forrest, Peter, 1982, “Occam’s Razor and Possible Worlds” _Monist_, 65: 456–464.
-* ––– and D. M. Armstrong, 1984, “An Argument Against David Lewis’ Theory of Possible Worlds,” _Australasian Journal of Philosophy_, 62: 164–8.
-* Frankfurt, Harry, 1971, “Freedom of the Will and the Concept of a Person,” _Journal of Philosophy_, 68: 5–20.
-* Goodman, Nelson, 1955, _Fact, Fiction and Forecast_, Cambridge, MA: Harvard University Press.
-* Hall, Ned, 1994, “Correcting the Guide to Objective Chance”, _Mind_ 103: 505–518.
-* Hawthorne, John, 1990, “A Note on Languages and Language,” _Australasian Journal of Philosophy_, 68: 116–118.
-* Hájek, Alan, 2008, “David Lewis,” in _The New Dictionary of Scientific Biography_, ed. Noretta Koertke, New York: Scribners.
-* Jackson, Frank, 1998, _From Metaphysics to Ethics_, Oxford: Oxford University Press.
-* Janssen-Lauret, Frederique and Fraser MacBride, 2020, “Lewis’s Global Descriptivism and Reference Magnetism,” _Australasian Journal of Philosophy_, 98: 192–198.
-* Keller, Simon, 2015, “David Lewis’s Social and Political Philosophy”, in Barry Loewer and Jonathan Schaffer (eds.), _A Companion to David Lewis_, New York: Wiley Blackwell, pp. 549-561.
-* Kim, Jaegwon, 1973, “Causes and Counterfactuals,” _Journal of Philosophy_, 70: 570–572.
-* Kripke, Saul, 1982, _Wittgenstein on Rules and Private Language_, Oxford: Blackwell.
-* Lewis, Stephanie, 2015, “Intellectual Biography of David Lewis (1941-2001): Early Influences”, in Barry Loewer and Jonathan Schaffer (eds.), _A Companion to David Lewis_, New York: Wiley Blackwell, pp. 1-14.
-* Melia, Joseph, 1992, “A Note on Lewis’s Ontology”, _Analysis_, 52: 191–192.
-* Melia, Joseph and Juha Saatsi, 2006, “ Ramseyfication and Theoretical Content”, _British Journal for the Philosophy of Science_, 57: 561–585.
-* Nolan, Daniel, 2005, _David Lewis_, Chesham: Acumen Publishing.
-* –––, 2007, “Selfless Desires”, _Philosophy and Phenomenological Research_, 73: 665–679.
-* Paul, L. A., 2000, “Aspect Causation,” _Journal of Philosophy_, 97: 235–256.
-* Plantinga, Alvin, 1974, _The Nature of Necessity_, Oxford: Oxford University Press.
-* Putnam, Hillary, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press.
-* Quine, Willard van Orman, 1960, _Word and Object_, Cambridge, MA: MIT Press.
-* Schaffer, Jonathan, “Trumping Preemption,” _Journal of Philosophy_, 97: 165–181.
-* Schelling, Thomas, 1960, _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
-* Schwarz, Wolfgang, 2009, _David Lewis: Metaphysik und Analyse_, Paderborn: Mentis-Verlag.
-* –––, 2014, “Against Magnetism,” _Australasian Journal of Philosophy_, 92: 17–36.
-* Skyrms, Brian, 1987, “Dynamic Coherence and Probability Kinematics,” _Philosophy of Science_, 54: 1–20.
-* Sider, Theodore, 2001, “Criteria of Personal Identity and the Limits of Conceptual Analysis,” _Philosophical Perspectives_, 15: 279–315.
-* –––, 2002, “The Ersatz Pluriverse,” _Journal of Philosophy_, 99: 279–315.
-* Smart, J. J. C., 1959 “Sensations and Brain Processes,” _Philosophical Review_, 68: 141–156.
-* Sorensen, Roy, 2009, “Epistemic Paradoxes,” _The Stanford Encyclopedia of Philosophy_ (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <[Epistemic Paradoxes (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/epistemic-paradoxes/)>.
-* Stalnaker, Robert, 1968, “A Theory of Conditionals, ” in Nicholas Rescher (ed.), _Studies in Logical Theory_ (American Philosophical Quarterly Monograph Series: Volume 2), Oxford: Blackwell, pp. 98–112.
-* –––, 1976, “Possible Worlds” _Noûs_, 10: 65–75.
-* –––, 1984, _Inquiry_, Cambridge, MA: Bradford Books.
-* –––, 2008, _Our Knowledge of the Internal World_, Oxford: Oxford University Press.
-* Teller, Paul, 1976, “Conditionalization, observation, and change of preference” in: W. L. Harper and C. A. Hooker (eds.), _Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science_, vol. 1. Dordrecht: Reidel, pp. 205–253.
-* Thau, Michael, 1994, “Undermining and Admissibility”, _Mind_, 103: 491–504.
-* Weatherson, Brian, 2003, “What Good are Counterexamples?” _Philosophical Studies_, 115: 1–31.
-* –––, 2013, “The Role of Naturalness in Lewis’s Theory of Meaning” _Journal for the History of Analytical Philosophy_, 1(10) \[[available online](https://jhaponline.org/jhap/article/view/14/13)].
-* Williams, J. Robert G., 2007, “Eligibility and Inscrutability,” _Philosophical Review_, 116: 361–399.
-* Wilson, Alastair, forthcoming, “Plenitude and Recombination,” in Helen Beebee and Anthony Fisher (eds.), _David Lewis: A Historical Perspective_, Oxford: Oxford University Press.
-* Wittgenstein, Ludwig, 1953, _Philosophical Investigations_, Oxford: Blackwell.
+* Adams, Robert, 1974, “Theories of Actuality” *Noûs*, 8: 211–231.
+* Armstrong, D. M., 1978, *Universals and Scientific Realism*, Cambridge: Cambridge University Press.
+* Bennett, Jonathan, 1984, “Counterfactuals and Temporal Direction” *Philosophical Review*, 93: 57–91.
+* Bennett, Jonathan, 2003, *A Philosophical Guide to Conditionals*, Oxford: Oxford University Press.
+* Braddon-Mitchell, David and Robert Nola, 1997, “Ramsification and Glymour’s Counterexample” *Analysis*, 57: 167–169.
+* Cohen, Stewart, 1986, “Knowledge and Context”, *The Journal of Philosophy*, 83: 574–583.
+* Davies, Martin, 1981, *Meaning, Quantification, Necessity: Themes in Philosophical Logic*, London: Routledge.
+* Elga, Adam, 2000, “Self-Locating Belief and the Sleeping Beauty Problem,” *Analysis* 60: 143–147.
+* DeRose, Keith, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1), 1–52.
+* –––, 2004, “Defeating Dr. Evil with Self-Locating Belief,” *Philosophy and Phenomenological Research*, 69: 383–396.
+* Egan, Andy, 2007, “Epistemic modals, relativism and assertion,” *Philosophical Studies*, 133: 1–22.
+* Fine, Kit, 1975, “Critical Notice of *Counterfactuals*,” *Mind*, 84: 451–458.
+* Forrest, Peter, 1982, “Occam’s Razor and Possible Worlds” *Monist*, 65: 456–464.
+* ––– and D. M. Armstrong, 1984, “An Argument Against David Lewis’ Theory of Possible Worlds,” *Australasian Journal of Philosophy*, 62: 164–8.
+* Frankfurt, Harry, 1971, “Freedom of the Will and the Concept of a Person,” *Journal of Philosophy*, 68: 5–20.
+* Goodman, Nelson, 1955, *Fact, Fiction and Forecast*, Cambridge, MA: Harvard University Press.
+* Hall, Ned, 1994, “Correcting the Guide to Objective Chance”, *Mind* 103: 505–518.
+* Hawthorne, John, 1990, “A Note on Languages and Language,” *Australasian Journal of Philosophy*, 68: 116–118.
+* Hájek, Alan, 2008, “David Lewis,” in *The New Dictionary of Scientific Biography*, ed. Noretta Koertke, New York: Scribners.
+* Jackson, Frank, 1998, *From Metaphysics to Ethics*, Oxford: Oxford University Press.
+* Janssen-Lauret, Frederique and Fraser MacBride, 2020, “Lewis’s Global Descriptivism and Reference Magnetism,” *Australasian Journal of Philosophy*, 98: 192–198.
+* Keller, Simon, 2015, “David Lewis’s Social and Political Philosophy”, in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, New York: Wiley Blackwell, pp. 549-561.
+* Kim, Jaegwon, 1973, “Causes and Counterfactuals,” *Journal of Philosophy*, 70: 570–572.
+* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language*, Oxford: Blackwell.
+* Lewis, Stephanie, 2015, “Intellectual Biography of David Lewis (1941-2001): Early Influences”, in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, New York: Wiley Blackwell, pp. 1-14.
+* Melia, Joseph, 1992, “A Note on Lewis’s Ontology”, *Analysis*, 52: 191–192.
+* Melia, Joseph and Juha Saatsi, 2006, “ Ramseyfication and Theoretical Content”, *British Journal for the Philosophy of Science*, 57: 561–585.
+* Nolan, Daniel, 2005, *David Lewis*, Chesham: Acumen Publishing.
+* –––, 2007, “Selfless Desires”, *Philosophy and Phenomenological Research*, 73: 665–679.
+* Paul, L. A., 2000, “Aspect Causation,” *Journal of Philosophy*, 97: 235–256.
+* Plantinga, Alvin, 1974, *The Nature of Necessity*, Oxford: Oxford University Press.
+* Putnam, Hillary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press.
+* Quine, Willard van Orman, 1960, *Word and Object*, Cambridge, MA: MIT Press.
+* Schaffer, Jonathan, “Trumping Preemption,” *Journal of Philosophy*, 97: 165–181.
+* Schelling, Thomas, 1960, *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
+* Schwarz, Wolfgang, 2009, *David Lewis: Metaphysik und Analyse*, Paderborn: Mentis-Verlag.
+* –––, 2014, “Against Magnetism,” *Australasian Journal of Philosophy*, 92: 17–36.
+* Skyrms, Brian, 1987, “Dynamic Coherence and Probability Kinematics,” *Philosophy of Science*, 54: 1–20.
+* Sider, Theodore, 2001, “Criteria of Personal Identity and the Limits of Conceptual Analysis,” *Philosophical Perspectives*, 15: 279–315.
+* –––, 2002, “The Ersatz Pluriverse,” *Journal of Philosophy*, 99: 279–315.
+* Smart, J. J. C., 1959 “Sensations and Brain Processes,” *Philosophical Review*, 68: 141–156.
+* Sorensen, Roy, 2009, “Epistemic Paradoxes,” *The Stanford Encyclopedia of Philosophy* (Spring 2009 Edition), Edward N. Zalta (ed.), URL = <[Epistemic Paradoxes (Stanford Encyclopedia of Philosophy/Spring 2009 Edition)](https://plato.stanford.edu/archives/spr2009/entries/epistemic-paradoxes/)>.
+* Stalnaker, Robert, 1968, “A Theory of Conditionals, ” in Nicholas Rescher (ed.), *Studies in Logical Theory* (American Philosophical Quarterly Monograph Series: Volume 2), Oxford: Blackwell, pp. 98–112.
+* –––, 1976, “Possible Worlds” *Noûs*, 10: 65–75.
+* –––, 1984, *Inquiry*, Cambridge, MA: Bradford Books.
+* –––, 2008, *Our Knowledge of the Internal World*, Oxford: Oxford University Press.
+* Teller, Paul, 1976, “Conditionalization, observation, and change of preference” in: W. L. Harper and C. A. Hooker (eds.), *Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science*, vol. 1. Dordrecht: Reidel, pp. 205–253.
+* Thau, Michael, 1994, “Undermining and Admissibility”, *Mind*, 103: 491–504.
+* Weatherson, Brian, 2003, “What Good are Counterexamples?” *Philosophical Studies*, 115: 1–31.
+* –––, 2013, “The Role of Naturalness in Lewis’s Theory of Meaning” *Journal for the History of Analytical Philosophy*, 1(10) \[[available online](https://jhaponline.org/jhap/article/view/14/13)].
+* Williams, J. Robert G., 2007, “Eligibility and Inscrutability,” *Philosophical Review*, 116: 361–399.
+* Wilson, Alastair, forthcoming, “Plenitude and Recombination,” in Helen Beebee and Anthony Fisher (eds.), *David Lewis: A Historical Perspective*, Oxford: Oxford University Press.
+* Wittgenstein, Ludwig, 1953, *Philosophical Investigations*, Oxford: Blackwell.
 
 ## Academic Tools
 
@@ -710,7 +709,7 @@ _首次发表于2009年7月23日，实质性修订于2021年11月18日。_
 
 ### Acknowledgments
 
-I’ve learned a lot over the years from talking about Lewis’s philosophy with Wolfgang Schwarz. I trust his book (2009) is excellent on all these topics, but unfortunately it’s only out in German so far, which I don’t read. But a lot of important points are collected on his [blog](http://www.umsu.de/wo/), which is listed under other internet resources. This entry draws heavily on Daniel Nolan’s excellent book _David Lewis_ (2005). Without that book, section 7.5 of this entry wouldn’t exist, section 6.3 would be unintelligible, and every section would be worse. Much of the biographical information in the introduction is taken from Hájek (2008), supplemented by the information in the short biography that written by Stephanie Lewis (2015). Many people helpfully spotted typos and infelicities of expression in earlier versions of this entry. Thanks especially to Zachary Miller for many suggested improvements and revisions. The bibliography is based in large part on a bibliography provided to me by Stephanie Lewis.
+I’ve learned a lot over the years from talking about Lewis’s philosophy with Wolfgang Schwarz. I trust his book (2009) is excellent on all these topics, but unfortunately it’s only out in German so far, which I don’t read. But a lot of important points are collected on his [blog](http://www.umsu.de/wo/), which is listed under other internet resources. This entry draws heavily on Daniel Nolan’s excellent book *David Lewis* (2005). Without that book, section 7.5 of this entry wouldn’t exist, section 6.3 would be unintelligible, and every section would be worse. Much of the biographical information in the introduction is taken from Hájek (2008), supplemented by the information in the short biography that written by Stephanie Lewis (2015). Many people helpfully spotted typos and infelicities of expression in earlier versions of this entry. Thanks especially to Zachary Miller for many suggested improvements and revisions. The bibliography is based in large part on a bibliography provided to me by Stephanie Lewis.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Brian Weatherson](http://brian.weatherson.org/) <[_brian@weatherson.org_](mailto:brian%40weatherson%2eorg)>
+[Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>

@@ -1,6 +1,6 @@
 # 逻辑形式 logical form (Paul Pietroski)
 
-_首次发表于1999年10月19日；实质修订于2021年9月1日。_
+*首次发表于1999年10月19日；实质修订于2021年9月1日。*
 
 一些推理是无可挑剔的。例如（1-3）说明了不能从真前提推导出假结论的推理。
 
@@ -37,8 +37,6 @@ _首次发表于1999年10月19日；实质修订于2021年9月1日。_
 许多哲学家对语法掩盖了思维的基本结构的可能性特别感兴趣，也许以一种邀请关于普通语言与认知以及我们所谈论的世界之间关系的错误观点的方式。例如，像“荷马说话了”、“没有人说话”和“仙女说话了”这样的句子之间的相似性最初表明相应的思维表现出一种共同的主谓形式。但即使“荷马”指的是一个可以成为一个思维的主题的实体，该思维在问题实体说话时为真，‘没有人’则不是；而且正如我们将看到的，‘The’是复杂的。哲学家和语言学家还提出了关于逻辑与语法的一般问题。思维和句子是否展示不同类型的结构？句子是否展示不明显的语法结构？如果一个思维的逻辑结构可以偏离用于表达该思维的句子的语法结构，那么我们应该如何解释关于（1）-（6）这样的推理的逻辑形式的建议？这样的建议是关于我们应该如何思考/说话的规范性主张，还是关于心理/语言现实的某些方面的经验假设？
 
 对这些问题的提出的答案通常与关于为什么各种推理似乎令人信服的主张交织在一起。因此，了解哪些推理确实是安全的，以及这些推理之所以特殊的原因，将是很好的。最常见的建议是某些推理是由于它们的逻辑形式而安全的。尽管不出所料，形式的概念随着逻辑和语言的概念的发展而演变。
-
- 
 
 ***
 
@@ -374,7 +372,7 @@ Montague（1970, 1974）表明这些不匹配并不排除自然语言句子与�
 
 (17S)
 
-{Mary \[wondered \[who_i_ {John \[saw ( … )_i_ ]}]]}
+{Mary \[wondered \[who_i_ {John \[saw ( … )*i* ]}]]}
 
 这个想法是，(17D)中的嵌套从句与“John saw Bill”具有相同的形式，但在(17S)中，“who”已经从其原始的论证位置被替换。类似的评论适用于问题“John 看到了谁”和其他问题词，如“为什么”，“什么”，“何时”和“如何”。
 
@@ -450,7 +448,7 @@ Wasi {\[唱歌的男孩] \[ ( \_ )i 快乐]}
 
 (25S)
 
-_Was_i\* {\[the \[boy \[who \[ ( \_ )_i_ happy]]]] sang}
+_Was_i\* {\[the \[boy \[who \[ ( \_ )*i* happy]]]] sang}
 
 在（25）中，星号表示直观的偏离；在（25S）中，它表示这种偏离的假设来源，即助动词不能从嵌入的关系从句中移位。（25S）的不合法性令人震惊，因为人们可以合理地问这个男孩是否快乐地唱歌。人们也可以问（26）是否为真。但（27）不是对应于（26）的是/否问题。
 
@@ -644,109 +642,109 @@ _Was_i\* {\[the \[boy \[who \[ ( \_ )_i_ happy]]]] sang}
 
 ### Cited Works
 
-* Barwise, J. & Cooper, R., 1981, “Generalized Quantifiers and Natural Language”, _Linguistics and Philosophy_, 4: 159–219.
-* Beaney, M., ed., 1997, _The Frege Reader_, Oxford: Blackwell.
-* Berwick, B. et al., 2011, “Poverty of the Stimulus Revisited”, _Cognitive Science_, 35: 1207–42.
-* Boolos, G., 1998, _Logic, Logic, and Logic_, Cambridge, MA: Harvard University Press.
-* Carnap, R., 1950, “Empiricism, Semantics, and Ontology”, reprinted in R. Carnap, _Meaning and Necessity_; second edition, Chicago: University of Chicago Press, 1956.
-* Cartwright, R., 1962, “Propositions”, in R. J. Butler, _Analytical Philosophy_, 1st series, Oxford: Basil Blackwell 1962; reprinted with addenda in Richard Cartwright, _Philosophical Essays_, Cambridge, MA: MIT Press 1987.
-* Chomsky, N., 1957, _Syntactic Structures_, The Hague: Mouton.
-* –––, 1964, _Current Issues in Linguistic Theory_, The Hague: Mouton.
-* –––, 1965, _Aspects of the Theory of Syntax_, Cambridge, MA: MIT Press.
-* –––, 1981, _Lectures on Government and Binding_, Dordrecht: Foris.
-* –––, 1986, _Knowledge of Language_, New York: Praeger.
-* –––, 1995, _The Minimalist Program_, Cambridge, MA: MIT Press.
-* Davidson, D., 1967a, “Truth and Meaning”, _Synthese_, 17: 304–23.
-* –––, 1967b, “The Logical Form of Action Sentences”, in N. Rescher (ed.), _The Logic of Decision and Action_, Pittsburgh: University of Pittsburgh Press.
-* –––, 1968, “On Saying That”, _Synthese_, 19: 130–46.
-* –––, 1980, _Essays on Actions and Events_, Oxford: Oxford University Press.
-* –––, 1984, _Inquiries into Truth and Interpretation_, Oxford: Oxford University Press.
-* Donnellan, K., 1966, “Reference and Definite Descriptions”, _Philosophical Review_, 75: 281–304.
-* Fodor, J., 1978, “Propositional Attitudes”, _The Monist_, 61: 501–23.
-* Frege, G., 1879, _Begriffsschrift_, reprinted in Beaney 1997.
-* –––, 1884, _Die Grundlagen der Arithmetik_, Breslau: Wilhelm Koebner. English translation, _The Foundations of Arithmetic_, J. L. Austin (trans). Oxford: Basil Blackwell, 1974.
+* Barwise, J. & Cooper, R., 1981, “Generalized Quantifiers and Natural Language”, *Linguistics and Philosophy*, 4: 159–219.
+* Beaney, M., ed., 1997, *The Frege Reader*, Oxford: Blackwell.
+* Berwick, B. et al., 2011, “Poverty of the Stimulus Revisited”, *Cognitive Science*, 35: 1207–42.
+* Boolos, G., 1998, *Logic, Logic, and Logic*, Cambridge, MA: Harvard University Press.
+* Carnap, R., 1950, “Empiricism, Semantics, and Ontology”, reprinted in R. Carnap, *Meaning and Necessity*; second edition, Chicago: University of Chicago Press, 1956.
+* Cartwright, R., 1962, “Propositions”, in R. J. Butler, *Analytical Philosophy*, 1st series, Oxford: Basil Blackwell 1962; reprinted with addenda in Richard Cartwright, *Philosophical Essays*, Cambridge, MA: MIT Press 1987.
+* Chomsky, N., 1957, *Syntactic Structures*, The Hague: Mouton.
+* –––, 1964, *Current Issues in Linguistic Theory*, The Hague: Mouton.
+* –––, 1965, *Aspects of the Theory of Syntax*, Cambridge, MA: MIT Press.
+* –––, 1981, *Lectures on Government and Binding*, Dordrecht: Foris.
+* –––, 1986, *Knowledge of Language*, New York: Praeger.
+* –––, 1995, *The Minimalist Program*, Cambridge, MA: MIT Press.
+* Davidson, D., 1967a, “Truth and Meaning”, *Synthese*, 17: 304–23.
+* –––, 1967b, “The Logical Form of Action Sentences”, in N. Rescher (ed.), *The Logic of Decision and Action*, Pittsburgh: University of Pittsburgh Press.
+* –––, 1968, “On Saying That”, *Synthese*, 19: 130–46.
+* –––, 1980, *Essays on Actions and Events*, Oxford: Oxford University Press.
+* –––, 1984, *Inquiries into Truth and Interpretation*, Oxford: Oxford University Press.
+* Donnellan, K., 1966, “Reference and Definite Descriptions”, *Philosophical Review*, 75: 281–304.
+* Fodor, J., 1978, “Propositional Attitudes”, *The Monist*, 61: 501–23.
+* Frege, G., 1879, *Begriffsschrift*, reprinted in Beaney 1997.
+* –––, 1884, *Die Grundlagen der Arithmetik*, Breslau: Wilhelm Koebner. English translation, *The Foundations of Arithmetic*, J. L. Austin (trans). Oxford: Basil Blackwell, 1974.
 * –––, 1891, “Function and Concept”, reprinted in Beaney 1997.
 * –––, 1892, “On Sinn and Bedeutung”, reprinted in Beaney 1997.
-* Gillon, B., 2007, “Pāṇini’s Aṣṭādhyāyī and Linguistic Theory”, _Journal of Indian Philosophy_, 35: 445–468.
-* Harman, G., 1972, “Logical Form”, _Foundations of Language_, 9: 38–65.
-* –––, 1973, _Thought_, Princeton: Princeton University Press.
-* Higginbotham, J., 1986, “Linguistic Theory and Davidson’s Program in Semantics”, in E. Lepore (ed.), _Truth and Interpretation_, pp. 29–48, Oxford: Blackwell.
-* Higginbotham, J. & May, R., 1981, “Questions, Quantifiers, and Crossing”, _Linguistic Review_, 1: 47–79.
-* Hornstein, N., 1995, _Logical Form: From GB to Minimalism_, Oxford: Blackwell.
-* Huang, J., 1995, “Logical Form”, in G. Webelhuth (ed.), _Government and Binding Theory and the Minimalist Program: Principles and Parameters in Syntactic Theory_, pp. 127–175, Oxford: Blackwell.
-* Iacona, A., 2018, _Logical Form: Between Logic and Natural Language_, Berlin: Springer.
-* Jacobson, P., 1999, “Variable Free Semantics”, _Linguistics and Philosophy_, 22: 117–84.
+* Gillon, B., 2007, “Pāṇini’s Aṣṭādhyāyī and Linguistic Theory”, *Journal of Indian Philosophy*, 35: 445–468.
+* Harman, G., 1972, “Logical Form”, *Foundations of Language*, 9: 38–65.
+* –––, 1973, *Thought*, Princeton: Princeton University Press.
+* Higginbotham, J., 1986, “Linguistic Theory and Davidson’s Program in Semantics”, in E. Lepore (ed.), *Truth and Interpretation*, pp. 29–48, Oxford: Blackwell.
+* Higginbotham, J. & May, R., 1981, “Questions, Quantifiers, and Crossing”, *Linguistic Review*, 1: 47–79.
+* Hornstein, N., 1995, *Logical Form: From GB to Minimalism*, Oxford: Blackwell.
+* Huang, J., 1995, “Logical Form”, in G. Webelhuth (ed.), *Government and Binding Theory and the Minimalist Program: Principles and Parameters in Syntactic Theory*, pp. 127–175, Oxford: Blackwell.
+* Iacona, A., 2018, *Logical Form: Between Logic and Natural Language*, Berlin: Springer.
+* Jacobson, P., 1999, “Variable Free Semantics”, *Linguistics and Philosophy*, 22: 117–84.
 * King, J., 2002, “Two Sorts of Claims about Logical Form ” in Preyer and Peter 2002.
-* –––, _The Nature and Structure of Content_, Oxford: Oxford University Press.
-* Keenan, E., 1996, “The Semantics of Determiners”, in S. Lappin (ed.), _The Handbook of Contemporary Semantic Theory_, Oxford: Blackwell, pp. 41–63.
-* Kratzer, A., 1986, “Severing the External Argument from its Verb”, in J. Rooryck and L. Zaring (eds.), _Phrase Structure and the Lexicon_, Dordrecht: Kluwer, pp. 109–137.
-* Larson, R. and Ludlow, P., 1993, “Interpreted Logical Forms”, _Synthese_, 95: 305–55.
+* –––, *The Nature and Structure of Content*, Oxford: Oxford University Press.
+* Keenan, E., 1996, “The Semantics of Determiners”, in S. Lappin (ed.), *The Handbook of Contemporary Semantic Theory*, Oxford: Blackwell, pp. 41–63.
+* Kratzer, A., 1986, “Severing the External Argument from its Verb”, in J. Rooryck and L. Zaring (eds.), *Phrase Structure and the Lexicon*, Dordrecht: Kluwer, pp. 109–137.
+* Larson, R. and Ludlow, P., 1993, “Interpreted Logical Forms”, *Synthese*, 95: 305–55.
 * Lepore, E. and Ludwig, K., 2002, “What is Logical Form?”, in Preyer and Peter 2002, pp. 54–90.
 * Ludlow, P., 2002, “LF and Natural Logic”, in Preyer and Peter 2002, pp. 132–168.
-* May, R., 1985, _Logical Form: Its Structure and Derivation_, Cambridge, MA: MIT Press.
-* Montague, R., 1970, “English as a Formal Language”, in R. Thomason (ed.), _Formal Philosophy_, New Haven, CT: Yale University Press, 1974, pp. 7–27.
-* Parsons, T., 2014, _Articulating Medieval Logic_, Oxford: Oxford University Press.
-* Pietroski, P., 2018, _Conjoining Meanings_, Oxford: Oxford University Press.
-* Preyer, G. and Peter, G. (eds.), 2002, _Logical Form and Language_, Oxford: Oxford University Press.
-* Quine, W.V.O., 1950, _Methods of Logic_, New York: Henry Holt.
-* –––, 1951, “Two Dogmas of Empiricism”, _Philosophical Review_, 60: 20–43.
-* –––, 1953, “On What There Is”, in _From a Logical Point of View_, Cambridge, MA: Harvard University Press, pp. 1–19.
-* –––, 1960, _Word and Object_, Cambridge MA: MIT Press.
-* –––, 1970, _Philosophy of Logic_, Englewood Cliffs, NJ: Prentice Hall.
-* Ramsey, F., 1927, “Facts and Propositions”, _Proceedings of the Aristotelian Society_ (Supplementary Volume), 7: 153–170.
-* Sànchez, V., 1991, _Studies on Natural Logic and Categorial Grammar_, Ph.D. Thesis, University of Amsterdam.
-* —1994, “Montonicity in Medieval Logic”, _Language and Cognition_, 4: 161–74.
-* Schein, B., 1993, _Events and Plurals_, Cambridge, MA: MIT Press.
-* –––, 2017, _And: Conjunction Reduction Redux_, Cambridge, MA: MIT Press.
-* Segal, G., 1989, “A Preference for Sense and Reference”, _The Journal of Philosophy_, 86: 73–89.
-* Soames, S., 1987, “Direct Reference, Propositional Attitudes, and Semantic Content”, _Philosophical Topics_, 15: 47–87.
-* –––, 1995, “Beyond Singular Propositions”, _Canadian Journal of Philosophy_, 25: 515–50.
-* –––, 2002, _Beyond Rigidity_, Oxford: Oxford University Press.
-* Sommers, F., 1984, _The Logic of Natural Language_, Oxford: Oxford University Press.
-* Stanley, J., 2000, “Context and Logical Form”, _Linguistics and Philosophy_, 23: 391–434.
-* Strawson, P., 1950, “On Referring”, _Mind_, 59: 320–44.
+* May, R., 1985, *Logical Form: Its Structure and Derivation*, Cambridge, MA: MIT Press.
+* Montague, R., 1970, “English as a Formal Language”, in R. Thomason (ed.), *Formal Philosophy*, New Haven, CT: Yale University Press, 1974, pp. 7–27.
+* Parsons, T., 2014, *Articulating Medieval Logic*, Oxford: Oxford University Press.
+* Pietroski, P., 2018, *Conjoining Meanings*, Oxford: Oxford University Press.
+* Preyer, G. and Peter, G. (eds.), 2002, *Logical Form and Language*, Oxford: Oxford University Press.
+* Quine, W.V.O., 1950, *Methods of Logic*, New York: Henry Holt.
+* –––, 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43.
+* –––, 1953, “On What There Is”, in *From a Logical Point of View*, Cambridge, MA: Harvard University Press, pp. 1–19.
+* –––, 1960, *Word and Object*, Cambridge MA: MIT Press.
+* –––, 1970, *Philosophy of Logic*, Englewood Cliffs, NJ: Prentice Hall.
+* Ramsey, F., 1927, “Facts and Propositions”, *Proceedings of the Aristotelian Society* (Supplementary Volume), 7: 153–170.
+* Sànchez, V., 1991, *Studies on Natural Logic and Categorial Grammar*, Ph.D. Thesis, University of Amsterdam.
+* —1994, “Montonicity in Medieval Logic”, *Language and Cognition*, 4: 161–74.
+* Schein, B., 1993, *Events and Plurals*, Cambridge, MA: MIT Press.
+* –––, 2017, *And: Conjunction Reduction Redux*, Cambridge, MA: MIT Press.
+* Segal, G., 1989, “A Preference for Sense and Reference”, *The Journal of Philosophy*, 86: 73–89.
+* Soames, S., 1987, “Direct Reference, Propositional Attitudes, and Semantic Content”, *Philosophical Topics*, 15: 47–87.
+* –––, 1995, “Beyond Singular Propositions”, *Canadian Journal of Philosophy*, 25: 515–50.
+* –––, 2002, *Beyond Rigidity*, Oxford: Oxford University Press.
+* Sommers, F., 1984, *The Logic of Natural Language*, Oxford: Oxford University Press.
+* Stanley, J., 2000, “Context and Logical Form”, *Linguistics and Philosophy*, 23: 391–434.
+* Strawson, P., 1950, “On Referring”, *Mind*, 59: 320–44.
 * Tarski, A., 1933, “The Concept of Truth in Formalized Languages”, reprinted in Tarski 1983.
-* –––, 1944, “The Semantic Conception of Truth”, _Philosophy and Phenomenological Research_, 4: 341–75.
-* –––, 1983, _Logic, Semantics, Metamathematics_, J. Corcoran (ed.), J.H. Woodger (trans.), 2nd edition, Indianapolis: Hackett.
-* van Benthem, J., 1986, _Essays in Logical Semantics_, Dordrecht: D. Reidel.
-* Wiggins, D., 1980, “‘Most’ and ‘all’: some comments on a familiar programme, and on th clogical form of quantified sentences”, in M. Platts (ed.) _Reference, truth and reality: Essays on the philosophy of language_, London: Routledge & Kegan Paul, pp. 318–346.
-* Wittgenstein, L., 1921, _Tractatus Logico-Philosophicus_, D. Pears and B. McGuinness (trans.), London: Routledge & Kegan Paul.
-* –––, 1953. _Philosophical Investigations_, New York: Macmillan.
+* –––, 1944, “The Semantic Conception of Truth”, *Philosophy and Phenomenological Research*, 4: 341–75.
+* –––, 1983, *Logic, Semantics, Metamathematics*, J. Corcoran (ed.), J.H. Woodger (trans.), 2nd edition, Indianapolis: Hackett.
+* van Benthem, J., 1986, *Essays in Logical Semantics*, Dordrecht: D. Reidel.
+* Wiggins, D., 1980, “‘Most’ and ‘all’: some comments on a familiar programme, and on th clogical form of quantified sentences”, in M. Platts (ed.) *Reference, truth and reality: Essays on the philosophy of language*, London: Routledge & Kegan Paul, pp. 318–346.
+* Wittgenstein, L., 1921, *Tractatus Logico-Philosophicus*, D. Pears and B. McGuinness (trans.), London: Routledge & Kegan Paul.
+* –––, 1953. *Philosophical Investigations*, New York: Macmillan.
 
 ### Some Other Useful Works
 
 A few helpful overviews of the history and basic subject matter of logic:
 
-* Kneale, W. & Kneale, M., 1962, _The Development of Logic_, Oxford: Oxford University Press; reprinted 1984.
-* Sainsbury, M., 1991, _Logical Forms_, Oxford: Blackwell.
-* Broadie, A., 1987, _Introduction to Medieval Logic_, Oxford: Oxford University Press.
-* For these purposes, Russell’s most important books are: _Introduction to Mathematical Philosophy_, London: George Allen and Unwin, 1919; _Our Knowledge of the External World_, New York: Norton, 1929; and _The Philosophy of Logical Atomism_, La Salle, Ill: Open Court, 1985. Stephen Neale’s book _Descriptions_ (Cambridge, MA: MIT Press, 1990) is a recent development of Russell’s theory.
+* Kneale, W. & Kneale, M., 1962, *The Development of Logic*, Oxford: Oxford University Press; reprinted 1984.
+* Sainsbury, M., 1991, *Logical Forms*, Oxford: Blackwell.
+* Broadie, A., 1987, *Introduction to Medieval Logic*, Oxford: Oxford University Press.
+* For these purposes, Russell’s most important books are: *Introduction to Mathematical Philosophy*, London: George Allen and Unwin, 1919; *Our Knowledge of the External World*, New York: Norton, 1929; and *The Philosophy of Logical Atomism*, La Salle, Ill: Open Court, 1985. Stephen Neale’s book *Descriptions* (Cambridge, MA: MIT Press, 1990) is a recent development of Russell’s theory.
 
 For introductions to Transformational Grammar and Chomsky’s conception of natural language:
 
-* Radford, A., 1988, _Transformational Grammar_, Cambridge: Cambridge University Press.
-* Haegeman, L., 1994, _Introduction to Government & Binding Theory_, Oxford: Blackwell.
-* Lasnik, H. (with M. Depiante and A. Stepanov), 2000, _Syntactic Structures Revisited_, Cambridge, MA: MIT Press.
+* Radford, A., 1988, *Transformational Grammar*, Cambridge: Cambridge University Press.
+* Haegeman, L., 1994, *Introduction to Government & Binding Theory*, Oxford: Blackwell.
+* Lasnik, H. (with M. Depiante and A. Stepanov), 2000, *Syntactic Structures Revisited*, Cambridge, MA: MIT Press.
 
 For discussions of work in linguistics bearing directly on issues of logical form:
 
-* Higginbotham, J., 1985, “On Semantics”, _Linguistic Inquiry_, 16: 547–93.
-* Hornstein, N., 1995, _Logical Form: From GB to Minimalism_, Oxford: Blackwell.
-* Larson, R. and Segal, G., 1995, _Knowledge of Meaning_, Cambridge, MA: MIT Press.
-* May, R., 1985, _Logical Form: Its Structure and Derivation_, Cambridge, MA: MIT Press.
-* Neale, S., 1993, _Grammatical Form, Logical Form, and Incomplete Symbols_, in A. Irvine & G. Wedeking (eds.), _Russell and Analytic Philosophy_, Toronto: University of Toronto, pp. 97–139.
+* Higginbotham, J., 1985, “On Semantics”, *Linguistic Inquiry*, 16: 547–93.
+* Hornstein, N., 1995, *Logical Form: From GB to Minimalism*, Oxford: Blackwell.
+* Larson, R. and Segal, G., 1995, *Knowledge of Meaning*, Cambridge, MA: MIT Press.
+* May, R., 1985, *Logical Form: Its Structure and Derivation*, Cambridge, MA: MIT Press.
+* Neale, S., 1993, *Grammatical Form, Logical Form, and Incomplete Symbols*, in A. Irvine & G. Wedeking (eds.), *Russell and Analytic Philosophy*, Toronto: University of Toronto, pp. 97–139.
 
 For discussions of the Davidsonian program (briefly described in [section nine](https://plato.stanford.edu/entries/logical-form/#sem)) and appeal to events:
 
-* Davidson, D., 1984, _Essays on Truth and Interpretation_, Oxford: OUP.
-* –––, 1985, “Adverbs of Action”, in B. Vermazen and M. Hintikka (eds.), _Essays on Davidson: Actions and Events_, Oxford: Clarendon Press, pp. 230–241.
-* Evans, G. & McDowell, J. (eds.), 1976, _Truth and Meaning_, Oxford: Oxford University Press.
-* Higginbotham, J., Pianesi, F. and Varzi, A. (eds.), 2000, _Speaking of Events_, Oxford: Oxford University Press.
-* Ludwig, K. (ed.), 2003, _Contemporary Philosophers in Focus: Donald Davidson_, Cambridge: Cambridge University Pres
-* Lycan, W., 1984, _Logical Form in Natural Language_, Cambridge, MA: MIT Press.
-* Parsons, T., 1990, _Events in the Semantics of English_ Cambridge, MA: MIT Press.
-* Pietroski, P., 2005, _Events and Semantic Architecture_, Oxford: Oxford University Press.
-* Taylor, B., 1985, _Modes of Occurrence_, Oxford: Blackwell.
+* Davidson, D., 1984, *Essays on Truth and Interpretation*, Oxford: OUP.
+* –––, 1985, “Adverbs of Action”, in B. Vermazen and M. Hintikka (eds.), *Essays on Davidson: Actions and Events*, Oxford: Clarendon Press, pp. 230–241.
+* Evans, G. & McDowell, J. (eds.), 1976, *Truth and Meaning*, Oxford: Oxford University Press.
+* Higginbotham, J., Pianesi, F. and Varzi, A. (eds.), 2000, *Speaking of Events*, Oxford: Oxford University Press.
+* Ludwig, K. (ed.), 2003, *Contemporary Philosophers in Focus: Donald Davidson*, Cambridge: Cambridge University Pres
+* Lycan, W., 1984, *Logical Form in Natural Language*, Cambridge, MA: MIT Press.
+* Parsons, T., 1990, *Events in the Semantics of English* Cambridge, MA: MIT Press.
+* Pietroski, P., 2005, *Events and Semantic Architecture*, Oxford: Oxford University Press.
+* Taylor, B., 1985, *Modes of Occurrence*, Oxford: Blackwell.
 
 ## Academic Tools
 
@@ -769,4 +767,4 @@ For discussions of the Davidsonian program (briefly described in [section nine](
 The author would like to thank: Christopher Menzel for spotting an error in an earlier characterization of the generalized quantifier ‘every’, prompting revision of the surrounding discussion; Karen Carter, Max Heiber, Claus Schlaberg, and David Korfmacher for catching various typos in previous versions; and for comments on the intial versions, Susan Dwyer, James Lesher, the editors and referees.
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Paul Pietroski](https://philosophy.rutgers.edu/people/regular-faculty/regular-faculty-profile/182-regular-faculty-full-time/917-pietroski-paul) <[_paul.pietroski@rutgers.edu_](mailto:paul%2epietroski%40rutgers%2eedu)>
+[Paul Pietroski](https://philosophy.rutgers.edu/people/regular-faculty/regular-faculty-profile/182-regular-faculty-full-time/917-pietroski-paul) <[*paul.pietroski@rutgers.edu*](mailto:paul%2epietroski%40rutgers%2eedu)>

@@ -1,12 +1,10 @@
 # 瓦尔特·本雅明 Benjamin, Walter (Peter Osborne and Matthew Charles)
 
-_首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 日_
+*首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 日*
 
 瓦尔特·本雅明作为一位哲学家和批判理论家的重要性可以通过他的思想影响的多样性和他思想的持续生产力来衡量。本雅明主要被视为一位文学评论家和散文家，但他作品的哲学基础越来越受到认可。他的作品对提奥多尔·W·阿多诺关于哲学的现实性或适应性的概念产生了决定性的影响（阿多诺 1931 年）。在 1930 年代，本雅明努力发展以政治为导向的唯物主义美学理论，这对法兰克福学派批判理论和马克思主义诗人和剧作家贝尔托尔特·布莱希特都产生了重要的刺激作用。
 
 本雅明的著作的延迟出版决定并维持了他的作品在英语世界的接受。 （两卷本的选集于 1955 年以德文出版，直到 1972-1989 年才出版了完整版，自 2008 年以来一直在制作 21 卷的批判版；英文选集首次出版于 1968 年和 1978 年，而四卷本的《选集》则在 1996 年至 2003 年间出版。）最初在文学理论和美学的背景下接受，直到 20 世纪的最后几十年，本雅明思想的哲学深度和文化广度才开始得到充分的赞赏。尽管有大量的二次文献产生，但他的作品仍然是持续生产力的源泉。对他作品的思想背景的理解有助于早期德国浪漫主义哲学的复兴。他的语言哲学在翻译理论中起到了重要的作用。他关于“技术再生产时代的艺术作品”的论文仍然是电影理论的重要理论文本。《单行道》和他未完成的对 19 世纪巴黎的研究所产生的作品（《拱廊计划》）为文化理论和现代哲学概念提供了理论刺激。本雅明对历史的弥赛亚理解一直是各种哲学思想家的持久的理论魅力和困惑的源泉，包括雅克·德里达、乔治·阿甘本以及在批判背景下的于尔根·哈贝马斯。《暴力批判》和《历史概念论》是德里达关于弥赛亚性讨论的重要来源，这对于后结构主义对本雅明著作的接受产生了影响，与保罗·德·曼关于寓言的讨论一起。本雅明思想的某些方面也与政治神学的复兴有关，尽管这种接受是否符合本雅明自己政治思想的倾向还有疑问。最近，对本雅明教育哲学的兴趣受到了他 2011 年《早期著作》的翻译和他 2014 年为儿童广播的讲稿（《本雅明广播》）的推动。
-
-
 
 ***
 
@@ -54,7 +52,7 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 歌德对审美判断的构想和他对伟大作品“不可批评性”的原则为本雅明提供了一种思考早期德国浪漫主义艺术理念必要修改的方式。他对歌德相应的艺术理想的隐含形而上学结构的阐释揭示了他对绝对的结构的对比特征：作为纯内容的领域，作为破坏性折射的媒介，以及不连续的原型的多样性（Charles 2020, 53–67）。因为有限的、特定的作品永远无法被浪漫化为个体绝对的统一，它们始终是内在不完整的，但又无法实现更高的完成：一种“残缺”，在整体中被分割，像尸体一样死气沉沉。在这种情况下，批评的真正任务不是完成活着的作品，而是毁灭性地完成垂死的作品。
 
-本雅明关于《选亲》（1924-1925）的论文提供了一个典型的批评范例，同时通过更明确地将其置于历史背景中来进一步发展这一概念。在这里，批评被赋予揭示本雅明所称的“艺术作品的真实内容”的任务，这与作品历史初期的“物质内容”密切相关（SW 1, 297）。与仅仅评论不同——评论只考虑作品物质内容的这些现在历史上不合时宜的特征——批评的目的是摧毁这个外层，以便把握作品内在的真实内容。评论的基本语言学错误仅仅是将作品置于其作者生平“生活经历\[_Erlebnis_]”的背景中（如弗里德里希·贡多尔夫 1916 年的《歌德》传记所示），而不是通过历史接受的更广泛媒介传递给当代评论家。本雅明的浪漫主义内在批评理论坚持认为，作品必须包含自己的内在标准，批评家必须从作品本身而不是作者的生活出发（SW 1, 321）。因此，从后来的评论家所关注的歌德作品的奇怪和引人注目的特征开始，本雅明考察了这些特征是如何从短篇小说的独特形式借用的技巧中衍生出来的。这种类似短篇小说的结构赋予了《选亲》奇怪而寓言般的特质，使其与典型小说的自然主义有所区别。正是这个神话层作为作品的真实物质内容，表达了歌德作品中对自然的泛神论和“恶魔般”的态度。
+本雅明关于《选亲》（1924-1925）的论文提供了一个典型的批评范例，同时通过更明确地将其置于历史背景中来进一步发展这一概念。在这里，批评被赋予揭示本雅明所称的“艺术作品的真实内容”的任务，这与作品历史初期的“物质内容”密切相关（SW 1, 297）。与仅仅评论不同——评论只考虑作品物质内容的这些现在历史上不合时宜的特征——批评的目的是摧毁这个外层，以便把握作品内在的真实内容。评论的基本语言学错误仅仅是将作品置于其作者生平“生活经历\[*Erlebnis*]”的背景中（如弗里德里希·贡多尔夫 1916 年的《歌德》传记所示），而不是通过历史接受的更广泛媒介传递给当代评论家。本雅明的浪漫主义内在批评理论坚持认为，作品必须包含自己的内在标准，批评家必须从作品本身而不是作者的生活出发（SW 1, 321）。因此，从后来的评论家所关注的歌德作品的奇怪和引人注目的特征开始，本雅明考察了这些特征是如何从短篇小说的独特形式借用的技巧中衍生出来的。这种类似短篇小说的结构赋予了《选亲》奇怪而寓言般的特质，使其与典型小说的自然主义有所区别。正是这个神话层作为作品的真实物质内容，表达了歌德作品中对自然的泛神论和“恶魔般”的态度。
 
 真实的内容，相反地，不应该在作品技巧的显著特征中寻找，而是应该在其独特形式的统一中寻找。批评的任务是使这个真实的内容成为经验的对象。它关注的不是艺术家的生活或意图，而是作品本身具有的生命的外观或表象，这是由于其模拟表现能力而具备的：它的语言表达能力，被描述为接近和接壤生命（SW 1, 350）。然而，艺术的本质以及它与自然的表象之间的区别在于“无表情的”：艺术作品内部的批判性暴力“阻止了这种表象，使运动停滞，打断了和谐”（SW 1, 340）。本雅明认为，“只有无表情的东西才能完成作品”作为一件艺术品，并且它通过粉碎作品的统一表象、与之相关的虚假完整外观来实现这一点。与浪漫主义反思的加强不同，当这种表象本身成为更高层次表象的对象时，一种折射性的不和谐就会出现。本雅明借用霍尔德林的断句概念来描述这一时刻，称之为“反节奏的断裂”（SW 1, 341）。真正的批评通过专注于表现这种断裂来加深折射性的暴力，对作品进行一种破坏性或丧葬性的自我毁灭行为。
 
@@ -72,11 +70,11 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 本雅明对 17 世纪主权暴力的思考可以与他早期的《暴力批判》（1921 年）中对革命性暴力的讨论进行对比，该文是对乔治·索雷尔的《暴力反思》（1908 年）的回应。这些文本在政治神学的背景下引发了许多回应，尤其是来自卡尔·施密特、雅克·德里达和乔治奥·阿甘本。施密特在《哈姆雷特或赫卡柏》（1956 年）中直接回应了本雅明的文章。德里达在他的《法律之力：权威的神秘基础》（1989 年）中对《暴力批判》的部分进行了质询，探讨了这种革命性的神圣暴力的唤起，这种批判性参与在德里达对《马克思的幽灵》（1994 年）和《马克思与儿子们》（1999 年）中的弥赛亚主义讨论中继续存在，并与施密特的关系相关联在《友谊的政治》（1994 年）中。本雅明、施密特和德里达之间的这些复杂关系已成为许多研究的主题，包括阿甘本的《例外状态》（2004 年）（布雷德坎普 1999，247-266；利斯卡 2009），尽管更仔细的研究强调了本雅明立场与德里达和施密特立场之间的明显分歧（汤巴 2009，131-132；阿弗拉尔 2005，79-106；韦伯 2008，176-194）。在这方面，对本雅明产生更有影响力和持久吸引力的不是施密特的政治神学，而是路德维希·克拉格斯的反动生命主义（富尔德 1981；麦科尔 1993，178-180，236-246；沃林 1994，xxxi-xxxviii；沃尔法特 2002，65-109；勒伯维奇 2013，1-10，79-110；查尔斯 2018，52-62）。
 
-在他的论文的第二部分中，本雅明运用寓言的概念揭示了这些作品内在的末世论结构。然而，第一部分利用了这种结构的扭曲张力，以区分德国巴洛克哀悼剧的特定和历史上显著的技巧。这一部分的结论是，与悲剧的苦难相比，悲伤或哀悼（_Trauer_）是其形而上学结构固有的主导情绪。随着“历史在创造的状态中的彻底世俗化...历史变成了自然历史”（OGT，81），其伴随的认知是对事物的忧郁思考，从中获得了对它们的短暂和空虚的神秘满足（OGT，141）。本雅明声称：“所有忧郁者的智慧都倾听深处”，“它是从沉浸在有生命的事物的生活中获得的，没有任何启示的声音能够触及它。与土星有关的一切都指向地球的深处...”（OGT，157）。
+在他的论文的第二部分中，本雅明运用寓言的概念揭示了这些作品内在的末世论结构。然而，第一部分利用了这种结构的扭曲张力，以区分德国巴洛克哀悼剧的特定和历史上显著的技巧。这一部分的结论是，与悲剧的苦难相比，悲伤或哀悼（*Trauer*）是其形而上学结构固有的主导情绪。随着“历史在创造的状态中的彻底世俗化...历史变成了自然历史”（OGT，81），其伴随的认知是对事物的忧郁思考，从中获得了对它们的短暂和空虚的神秘满足（OGT，141）。本雅明声称：“所有忧郁者的智慧都倾听深处”，“它是从沉浸在有生命的事物的生活中获得的，没有任何启示的声音能够触及它。与土星有关的一切都指向地球的深处...”（OGT，157）。
 
 要理解这些作品的形式如何由它们的真实内容决定，需要重建巴洛克时期寓言的概念，这种概念构成了它的忧郁思考的情绪。本雅明的观点是，对于寓言的真正理解，尤其是它在 17 世纪达到最高形式时的理解，一方面被后来的浪漫主义对象美学化所掩盖，另一方面则是因为倾向于将寓言与这种贬值的美学概念对比而将其贬低。因此，只有通过首先恢复真正的神学符号概念，我们才能进一步区分出真正的寓言概念。这可以通过重新肯定在象征中发现的物质与超越之间的深刻而矛盾的神学统一来实现。因此，神学符号概念与寓言之间的基本区别将被视为不是它们不同的对象（理念与抽象概念），而是它们表示、表达或代表这一对象的方式不同。本雅明将得出结论，这种差异是具体的、时间性的。
 
-本雅明借鉴了神话学家格奥尔格·弗里德里希·克罗伊策和约翰·约瑟夫·冯·格雷斯的未发展的见解，指出“体验符号的时间度量\[_Symbolerfahrung_]是神秘瞬间\[_Nu_]”（OGT，173）。相比之下，我们必须将寓言的时间性理解为一种动态、流动的东西。这种真正的寓言概念在 17 世纪巴洛克时期应对了早期讨论的中世纪宗教性和文艺复兴世俗化之间的对立。在寓言中，末世论的时间结构的空间化对应于巴洛克中宗教结构的自然化：“在符号中，随着堕落的升华，自然的转化面貌在救赎的光中短暂地显现，而在寓言中，观察者眼前展现的是历史的石化原始景观的‘希波克拉底面容’\[_facies hippocratica_]。历史中的一切不合时宜、悲伤和失败都被刻在一个面孔上——不，是刻在一个死亡之头\[_Totenkopfe_]上”（OGT，174）。
+本雅明借鉴了神话学家格奥尔格·弗里德里希·克罗伊策和约翰·约瑟夫·冯·格雷斯的未发展的见解，指出“体验符号的时间度量\[*Symbolerfahrung*]是神秘瞬间\[*Nu*]”（OGT，173）。相比之下，我们必须将寓言的时间性理解为一种动态、流动的东西。这种真正的寓言概念在 17 世纪巴洛克时期应对了早期讨论的中世纪宗教性和文艺复兴世俗化之间的对立。在寓言中，末世论的时间结构的空间化对应于巴洛克中宗教结构的自然化：“在符号中，随着堕落的升华，自然的转化面貌在救赎的光中短暂地显现，而在寓言中，观察者眼前展现的是历史的石化原始景观的‘希波克拉底面容’\[*facies hippocratica*]。历史中的一切不合时宜、悲伤和失败都被刻在一个面孔上——不，是刻在一个死亡之头\[*Totenkopfe*]上”（OGT，174）。
 
 从寓言的角度来看，象征内部的瞬间转变成为一种自然历史，其速度极慢，以至于每个符号都似乎被冻结，并且与其他关系相对松散，任意性。书写文字的具体实体性正是这种寓言强调事物的典型例证。寓言不是后来的评论家误解的某种表达的“常规”代表，而是对传统的“表达”（Ausdruck der Konvention）的表达（OGT，185）。寓言表达的对象包括历史的这种常规性，这种看似无关紧要和漠不关心的外观。也就是说，常规本身成为被指示或表达的对象。本雅明在寓言中重新发现的是类似于无表情概念的东西，就像在关于歌德的论文中引入的一个符号的躯干。本雅明认为，17 世纪巴洛克时期寓言观点的主导在悲剧中表现得最为戏剧化，因此必须通过寓言来理解悲剧的观念。
 
@@ -88,23 +86,23 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 瓦尔特·本雅明的理论阐述通过对哲学传统中现有元素的惊人意象重构来进行。他在序言中提供了一些思考这些思想的可能性，这些思想不仅来自哲学领域，还来自美学、神学和科学领域。第一个是柏拉图的理念，这里与科学上纯粹理性客观知识的升华（如在《理想国》中的辩证法描述中出现的）的关联分离开来，而与《饮宴篇》中对美丽外貌的讨论联系在一起（OGT，6）。第二个是亚当的名字，这是他早期语言理论中发展起来的。在这个背景下，他评论说，早期德国浪漫主义者在试图更新理念理论时感到沮丧，因为对他们来说，真理具有反思意识的特征，而不是亚当的原始询问中那种无意识的语言特征，其中事物被归入基本名称之下（OGT，15）。命名是意义的原始历史\[Urgeschicte]，表明了一种类似事物的无兴趣，与胡塞尔的现象学的有目的、统一的意向性形成对比（OGT，14）。第三个是歌德的理想，在这里与浮士德的“母亲们”相关联，并暗示了他早期对歌德的讨论（OGT，11）。最后，也是最著名的是，本雅明将通过重构实际现象所代表的理念的虚拟客观性比作占星图，同时将个体星星的群集聚合在一起并显露出来（OGT，11）。据说真理在“呈现的理念的圆舞中实现”（OGT，4）。这个星座的概念直接被阿多诺在他的就职演讲《哲学的现实性》中采用，他在其中谈到“哲学对概念材料的操纵……的分组和试验安排，星座和构造”（阿多诺 1931 年，131）。从此时起，它开始影响本雅明在他的重要著作中的哲学实践，从《单行道》（1928 年）到对历史建构的方法论要求以及与上世纪 30 年代“拱廊计划”相关的辩证意象理论，再到他在著名的晚期论文《论历史概念》（1940 年）中提出的历史概念。
 
-瓦尔特·本雅明关注艺术的时间转化视角的重新融入要求一种类似的激进化。贝内代托·克罗齐所称的“遗传和具体分类”（OGT，24）即历史（为了将其与那种抽象化变化和发展的概括性思维区分开来）现在必须与本雅明的观念理论相调和。作为本雅明工作基础的弥赛亚式历史哲学问题化了现有的历史和历史起源概念的表述。与他对观念的讨论一致，历史起源的概念不应被简化为经验事实的因果关系和实际性，也不应被视为纯粹的逻辑和永恒的本质。正如本雅明所争辩的那样，它不仅仅是“已经发生的东西的生成”，也不能在“事实的裸露、明显存在”中被认出（OGT，24）。因为允许观念被呈现的“历史”序列必须包括不仅是某一时期实际现象的序列，还包括它们在后来时期的理解中的发展。例如，对德国悲剧的本质的研究不能仅限于同时发生的事件和实际剧本，仿佛这些都是一劳永逸的“事实”，而必须还要研究这个历史时期对它自身的理解的变化以及对这些剧本的不同接受，包括其自我理解的先决条件。但它也不是一个“纯粹的逻辑”范畴，仿佛观念是与历史脱离和无关的某种本质，可以通过从所有这些特定历史发展中抽象出来来理解（OGT，25）。因此，“起源”\[_Ursprung_]与仅仅遗传的“生成”\[_Enstehung_]和“纯粹历史”的演化发展有所区别，它还包括“作品和形式的生命”的本质内部历史（OGT，24-6）。“起源科学”是一种哲学史，一种关于本质的历史，其思考方式采用辩证的视角来把握“原始现象”的形式：作为一种经历变化和消失的过程，因此只是部分和不完整的。本雅明再次借用一个形象：“起源就像在变化的洪流中的漩涡，有力地将新出现的材料吸引到它的节奏中”（OGT，24）。批评试图将现象的前后历史\[_Vor- und Nachgeschichte_]虚拟地重新组合成一个历史的星座，在其中观念得到呈现并现象得到救赎。这是它在与历史绝对的关系中的弥赛亚功能。
+瓦尔特·本雅明关注艺术的时间转化视角的重新融入要求一种类似的激进化。贝内代托·克罗齐所称的“遗传和具体分类”（OGT，24）即历史（为了将其与那种抽象化变化和发展的概括性思维区分开来）现在必须与本雅明的观念理论相调和。作为本雅明工作基础的弥赛亚式历史哲学问题化了现有的历史和历史起源概念的表述。与他对观念的讨论一致，历史起源的概念不应被简化为经验事实的因果关系和实际性，也不应被视为纯粹的逻辑和永恒的本质。正如本雅明所争辩的那样，它不仅仅是“已经发生的东西的生成”，也不能在“事实的裸露、明显存在”中被认出（OGT，24）。因为允许观念被呈现的“历史”序列必须包括不仅是某一时期实际现象的序列，还包括它们在后来时期的理解中的发展。例如，对德国悲剧的本质的研究不能仅限于同时发生的事件和实际剧本，仿佛这些都是一劳永逸的“事实”，而必须还要研究这个历史时期对它自身的理解的变化以及对这些剧本的不同接受，包括其自我理解的先决条件。但它也不是一个“纯粹的逻辑”范畴，仿佛观念是与历史脱离和无关的某种本质，可以通过从所有这些特定历史发展中抽象出来来理解（OGT，25）。因此，“起源”\[*Ursprung*]与仅仅遗传的“生成”\[*Enstehung*]和“纯粹历史”的演化发展有所区别，它还包括“作品和形式的生命”的本质内部历史（OGT，24-6）。“起源科学”是一种哲学史，一种关于本质的历史，其思考方式采用辩证的视角来把握“原始现象”的形式：作为一种经历变化和消失的过程，因此只是部分和不完整的。本雅明再次借用一个形象：“起源就像在变化的洪流中的漩涡，有力地将新出现的材料吸引到它的节奏中”（OGT，24）。批评试图将现象的前后历史\[*Vor- und Nachgeschichte*]虚拟地重新组合成一个历史的星座，在其中观念得到呈现并现象得到救赎。这是它在与历史绝对的关系中的弥赛亚功能。
 
 序言还试图从现代批评理论的角度拯救在悲剧中所认可的寓言体验。寓言思考的目标是毁灭事物，以便在其救赎的时刻，从旧事物的元素中构建一个新的整体。这种构建的特点使其与幻想的创造发明区别开来，因为它操纵和重新安排现有的材料。留下这种构建的印记或印象是其目标之一。这种对破坏和建设的双重强调导致许多学者认为本雅明的作品中预见到了德里达的解构主义（Fischer 1996，第 1 节：现代性/后现代性；Weber 2008，122-128），尽管应注意到他对这种批评概念的特定历史性的考虑以及他对艺术作品内在真理内容的坚持仍然是坚决的现代主义，不能轻易融入任何“后现代主义”立场（参见 Weigel 1996，xiv）。浪漫主义和巴洛克之间的潜在亲缘关系在于它们共同关注纠正艺术中的古典主义和古典主义的准神话视角（OGT，230；185）。序言反思了巴洛克的“现代性”，当它指出“与德国文学的当前状态存在着明显的类比，这一点已经多次引起对巴洛克的沉浸”（OGT，36）。尽管本雅明引用了现代文学中表现主义与巴洛克的夸张之间的相似之处，但他对寓言体验及其对美学理论的价值的重建是根据巴洛克过去与本雅明当代的历史联系来体验的：现代性既揭示又在巴洛克中显现。
 
 悲剧研究的书结束了本雅明的德国“创作周期”（C，322）。在 20 世纪 20 年代初，本雅明沉浸在一项计划中的大规模政治思想研究中，其中只有一些片段和《暴力批判》（Steiner 2001，61）留存下来。正如乌韦·斯泰纳所指出的，虽然本雅明的政治思想可以被归入表现主义尼采接受的环境中，但在他对政治的定义中，幸福的实现占据了核心地位，这与扎拉图斯特拉的悲剧英雄主义形成了直接对立（Steiner 2001，49-50，61-62）。这既是与伊尔文·沃尔法特所称的他早期的“青年政治”（Wohlfarth 1992，164）的连续性，也是与之断裂的地方，该政治在很大程度上依赖于尼采的《不合时宜的沉思》所影响的历史和文化哲学。本雅明曾表示，他与青年运动的决裂并不意味着放弃早期的思想，而是将其融入到一种“更坚硬、更纯净、更隐形的激进主义”中（C，74）。这在一定程度上解释了 T·J·克拉克所描述的《拱廊计划》中所谓的“神秘”性质，即阿多诺所称的“人类学唯物主义”，克拉克评论说，在那里，“好像这样的政治正在积极地在其他地方得到讨论和发展”（Clark 2003，45-46）。
 
-一个新的循环始于《单行道》（_Einbahnstraße_）（1923-1926 年写作，1928 年出版），它的形式和内容实践了那种经验的思辨概念，通过寓言般地深入事物的深处，这种概念在上述作品中得到了理论上的阐述。城市为《单行道》提供了感性的、形象化的材料，而传单、广告和广告牌等文体则提供了重新排列成星座的构建原则。这种形式方法类似于摄影和电影这样的技术媒介，以及俄国构成主义和法国超现实主义的前卫实践。这意味着阿多诺所描述的“反哲学的哲学”（阿多诺 1955 年，235）或霍华德·凯吉尔所称的“超越哲学的哲学化”（凯吉尔 1989 年，119）。
+一个新的循环始于《单行道》（*Einbahnstraße*）（1923-1926 年写作，1928 年出版），它的形式和内容实践了那种经验的思辨概念，通过寓言般地深入事物的深处，这种概念在上述作品中得到了理论上的阐述。城市为《单行道》提供了感性的、形象化的材料，而传单、广告和广告牌等文体则提供了重新排列成星座的构建原则。这种形式方法类似于摄影和电影这样的技术媒介，以及俄国构成主义和法国超现实主义的前卫实践。这意味着阿多诺所描述的“反哲学的哲学”（阿多诺 1955 年，235）或霍华德·凯吉尔所称的“超越哲学的哲学化”（凯吉尔 1989 年，119）。
 
 《单行道》中将当代资本主义呈现为都市现代性，也标志着本雅明的写作转折点，他从回顾性地称之为“一种天真地陷入自然的古老哲学形式”（BA，88）转向了“对过去的政治观点”的发展（SW 2，210）。他早期著作中概述的经验理论被用于革命目的。在 1929 年的文章《超现实主义：欧洲知识分子的最后快照》中，超现实主义经验提供了一个“俗世的启蒙”的例子，与宗教中的神圣和道德化相反，它受到政治和“唯物主义的、人类学的启发”（SW 2，209）。通过构建新的政治星座，最贫困和过时的事物中潜在的能量被转化为令人陶醉的革命经验（SW 2，210）。19 世纪巴黎的这种俗世启蒙的可能性，作为现代性的起源呈现出来，占据了本雅明生命中剩下的十年，他为宏大而未完成的“拱廊计划”进行的研究为他所有剩下的工作提供了材料。
 
 ## 5. 拱廊计划
 
-城市是本雅明“哥特式”马克思主义的温床（科恩 1993）；巴黎是它的试验场。从 1927 年秋天到 1940 年去世，本雅明的所有著作都以某种方式与他未完成的伟大研究“巴黎——十九世纪的首都”相关，也被称为《拱廊计划》（_Das Passagen-Werk_），以其创始图像命名，该图像取自本雅明从 1926 年法国超现实主义作家路易斯·阿拉贡的小说《巴黎的农民》中。本雅明曾写道：“晚上在床上读两三页，我的心脏就开始跳得很厉害，我不得不放下书。”（BA，88）拱廊只是 19 世纪巴黎心理社会空间的五六个原型形象之一，围绕这些形象组织了这个项目，每个形象都与一个特定的、主题代表性的个体配对。但它为其他形象提供了模型，它的超现实主义起源和边缘乌托邦冲动，既不完全内部也不完全外部，将愿望形象和梦象——在入睡和醒来的边缘——置于最初被构想为一种“辩证童话”的作品的核心。（与“拱廊”配对的人物是乌托邦社会主义者查尔斯·傅立叶。）本雅明在 1930 年代的所有重要论文都源于他的《拱廊计划》工作，并通过详细阐述其要素来推迟了它的完成。
+城市是本雅明“哥特式”马克思主义的温床（科恩 1993）；巴黎是它的试验场。从 1927 年秋天到 1940 年去世，本雅明的所有著作都以某种方式与他未完成的伟大研究“巴黎——十九世纪的首都”相关，也被称为《拱廊计划》（*Das Passagen-Werk*），以其创始图像命名，该图像取自本雅明从 1926 年法国超现实主义作家路易斯·阿拉贡的小说《巴黎的农民》中。本雅明曾写道：“晚上在床上读两三页，我的心脏就开始跳得很厉害，我不得不放下书。”（BA，88）拱廊只是 19 世纪巴黎心理社会空间的五六个原型形象之一，围绕这些形象组织了这个项目，每个形象都与一个特定的、主题代表性的个体配对。但它为其他形象提供了模型，它的超现实主义起源和边缘乌托邦冲动，既不完全内部也不完全外部，将愿望形象和梦象——在入睡和醒来的边缘——置于最初被构想为一种“辩证童话”的作品的核心。（与“拱廊”配对的人物是乌托邦社会主义者查尔斯·傅立叶。）本雅明在 1930 年代的所有重要论文都源于他的《拱廊计划》工作，并通过详细阐述其要素来推迟了它的完成。
 
 这种推迟也在一定程度上是作品本身的一种成熟过程——一种成熟——与作品本身相内在。《拱廊计划》是一个庞大而雄心勃勃的项目，不仅在于其档案来源的广泛和广度（本雅明在巴黎的国家图书馆寻找），而且——事实上，主要是——在于其哲学和历史意图，以及所提出的方法论和表现挑战。它庞大而细致地调查的历史对象是作为进入哲学理解的大都市资本主义经验的切入点——不是某种过去的经验，也不是过去阶段的资本主义发展的经验，而是本雅明自己时代的资本主义大都市的经验——通过构建其元素“当时”和“现在”之间的特定关系系列。它所涉及的研究、概念组织和呈现实践被自觉地构想为一种具有政治意图的新型哲学取向的唯物史学工作模型。它最终的、零碎的和“破败”的状态不仅成为完成失败的标志，而且成为一种构成性不完整的范例，这种不完整特征是现代条件下所有系统取向的知识的基本历史和哲学真理。在这方面，它在未能实现的同时，也证实了本雅明早期对浪漫主义碎片的分析的基本历史和哲学真理——以一种前所未有的方式扩展了这一文体。
 
-在其不断变化的节奏中（增补、修订、重构和检索），本雅明的《拱廊计划》提供了一个非凡的案例研究，展示了通过配置和重新配置档案材料进行概念建构的劳动。构成《拱廊》的庞大的“笔记和材料”直到 1982 年才出版，最终于 1999 年才以英文形式出现（GS V; AP）。只有在它们出版后，才有可能对本雅明在这一时期的整体思路有一个清晰的认识，从而使与以前的接受周期相关的许多争论变得多余或至少被替代。这些笔记和材料被组织成二十六个按字母顺序指定的“卷积”（字面上的“捆绑”）或文件夹，通过各种“对象”（拱廊、地下墓穴、路障、铁制建筑、镜子、照明方式...）、“主题”（时尚、无聊、知识理论、进步理论、绘画、阴谋...）、“人物”（收藏家、闲逛者、自动机...）、“作者”（波德莱尔、傅立叶、荣格、马克思、圣西门...）及其组合进行主题定义。整个项目共有两个“摘要”或总结，分别于 1935 年和 1939 年（第二个是法文）。然而，它的范围和理论抱负——不仅仅是对“19 世纪原始历史”的哲学建构（BA, 90）——以及本雅明流亡生活的环境（不断需要通过写作赚钱以及项目的出版商的不确定性）使其无法实现。唯一一段较长的已完成文本片段来自于专门讨论波德莱尔的部分（1939 年摘要中的五个部分之一，从最初的 1935 年版本的六个部分中删减）：其三个计划部分中的第二个部分，“波德莱尔时期的巴黎”——尽管这部分在本雅明的有生之年从未出版过。然而，这一部分的核心章节“闲逛者”经过修订和扩展（部分是作为与阿多诺的信件交流的回应），成为了文章《波德莱尔的一些主题》，于 1940 年 1 月在研究所的期刊《社会研究杂志》（_Zeitschrift für Sozialforschung_）上发表。对应于最后一部分的一个强大的压缩草稿材料存在于《中央公园》（SW 4, 161–199）中，该部分讨论商品作为诗意对象。随着项目的发展和对其实现的障碍的回应，波德莱尔逐渐成为本雅明思考的核心。在霍克海默的鼓励下，本雅明计划将关于波德莱尔的材料单独出版为一本书，书名为《查尔斯·波德莱尔：高资本主义时代的抒情诗人》。这个过程的发展，即 19 世纪原始历史逐渐演变为一本关于波德莱尔和“高资本主义”的书，可以用下面的图表表示。
+在其不断变化的节奏中（增补、修订、重构和检索），本雅明的《拱廊计划》提供了一个非凡的案例研究，展示了通过配置和重新配置档案材料进行概念建构的劳动。构成《拱廊》的庞大的“笔记和材料”直到 1982 年才出版，最终于 1999 年才以英文形式出现（GS V; AP）。只有在它们出版后，才有可能对本雅明在这一时期的整体思路有一个清晰的认识，从而使与以前的接受周期相关的许多争论变得多余或至少被替代。这些笔记和材料被组织成二十六个按字母顺序指定的“卷积”（字面上的“捆绑”）或文件夹，通过各种“对象”（拱廊、地下墓穴、路障、铁制建筑、镜子、照明方式...）、“主题”（时尚、无聊、知识理论、进步理论、绘画、阴谋...）、“人物”（收藏家、闲逛者、自动机...）、“作者”（波德莱尔、傅立叶、荣格、马克思、圣西门...）及其组合进行主题定义。整个项目共有两个“摘要”或总结，分别于 1935 年和 1939 年（第二个是法文）。然而，它的范围和理论抱负——不仅仅是对“19 世纪原始历史”的哲学建构（BA, 90）——以及本雅明流亡生活的环境（不断需要通过写作赚钱以及项目的出版商的不确定性）使其无法实现。唯一一段较长的已完成文本片段来自于专门讨论波德莱尔的部分（1939 年摘要中的五个部分之一，从最初的 1935 年版本的六个部分中删减）：其三个计划部分中的第二个部分，“波德莱尔时期的巴黎”——尽管这部分在本雅明的有生之年从未出版过。然而，这一部分的核心章节“闲逛者”经过修订和扩展（部分是作为与阿多诺的信件交流的回应），成为了文章《波德莱尔的一些主题》，于 1940 年 1 月在研究所的期刊《社会研究杂志》（*Zeitschrift für Sozialforschung*）上发表。对应于最后一部分的一个强大的压缩草稿材料存在于《中央公园》（SW 4, 161–199）中，该部分讨论商品作为诗意对象。随着项目的发展和对其实现的障碍的回应，波德莱尔逐渐成为本雅明思考的核心。在霍克海默的鼓励下，本雅明计划将关于波德莱尔的材料单独出版为一本书，书名为《查尔斯·波德莱尔：高资本主义时代的抒情诗人》。这个过程的发展，即 19 世纪原始历史逐渐演变为一本关于波德莱尔和“高资本主义”的书，可以用下面的图表表示。
 
 巴黎——19 世纪的首都（1939 年摘要） A.傅立叶，或者拱廊（+）\[达盖尔，或者全景——仅在 1935 年版本中] B.格朗维尔，或者世界博览会 C.路易·菲利普，或者内部 D.波德莱尔，或者巴黎的街道\
 ↳《查尔斯·波德莱尔：高资本主义时代的抒情诗人》 1.波德莱尔作为寓言家 2.第二帝国时期的巴黎\\
@@ -127,7 +125,7 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 \| \*\* | 以草稿形式为“中央公园”（1938 年） |
 
-然而，将这个项目简化为其自身的、受限的_实际_轨迹，尽管它非常丰富，但对其所体现的历史和哲学框架造成了过多的破坏，而这个框架赋予了包德拉尔的材料更广泛的意义。总体的历史框架是资本主义现代性作为“经验危机”。（在 19 世纪和 20 世纪初的欧洲背景下，对于本雅明来说，资本主义和现代性这两个术语是密不可分的。）本雅明思想的创始问题是将康德的经验概念扩展到无限，因此在这里为其提供了一个具体的历史背景，其中无限/绝对性的概念与历史概念本身相关联。问题在于通过辩证法来赎回经验\[_Erfahrung_]的概念，找到一种适当的方式来体验经验危机本身。从经典的“现代”角度来看，现在被定义为危机和过渡的时期，哲学经验（真理）与通过过去在现在中瞥见一个将历史终结的乌托邦政治未来相关联。更直接地说，这场危机通过两种可能的解决方案赋予了政治意义：一种是破坏性的，另一种是建设性/解放性的——分别是法西斯主义和共产主义。在这方面，尽管作为一个“马克思主义者”他在理论上具有异端，与阿多诺有哲学上的亲和力，但本雅明一直在寻求并与与共产主义未来相关的新形式的集体性保持团结。这就是他与布莱希特的友谊的基础所在。然而，与布莱希特不同的是，他将它们构想在一种推测性的文化历史的术语中（Caygill 2004）。
+然而，将这个项目简化为其自身的、受限的_实际_轨迹，尽管它非常丰富，但对其所体现的历史和哲学框架造成了过多的破坏，而这个框架赋予了包德拉尔的材料更广泛的意义。总体的历史框架是资本主义现代性作为“经验危机”。（在 19 世纪和 20 世纪初的欧洲背景下，对于本雅明来说，资本主义和现代性这两个术语是密不可分的。）本雅明思想的创始问题是将康德的经验概念扩展到无限，因此在这里为其提供了一个具体的历史背景，其中无限/绝对性的概念与历史概念本身相关联。问题在于通过辩证法来赎回经验\[*Erfahrung*]的概念，找到一种适当的方式来体验经验危机本身。从经典的“现代”角度来看，现在被定义为危机和过渡的时期，哲学经验（真理）与通过过去在现在中瞥见一个将历史终结的乌托邦政治未来相关联。更直接地说，这场危机通过两种可能的解决方案赋予了政治意义：一种是破坏性的，另一种是建设性/解放性的——分别是法西斯主义和共产主义。在这方面，尽管作为一个“马克思主义者”他在理论上具有异端，与阿多诺有哲学上的亲和力，但本雅明一直在寻求并与与共产主义未来相关的新形式的集体性保持团结。这就是他与布莱希特的友谊的基础所在。然而，与布莱希特不同的是，他将它们构想在一种推测性的文化历史的术语中（Caygill 2004）。
 
 在这个框架内，可以看出三个不同的工作方向（在接下来的三个部分中讨论）：（1）通过“艺术危机”（SW 2, 212）来调查经验危机，通过相关术语“技术/技巧”（Technik）、“光环”、“可再生性”和“集体性”；（2）从社会形式中提炼新经验的形式结构以及其历史和政治矛盾，并考察其与寓言和商品形式的关系；（3）构建新的历史学和新的哲学历史概念。第一个可以通过一系列相关的论文追溯到，其中最重要的是《超现实主义：欧洲知识分子的最后快照》（1929 年）、《摄影的小历史》（1931 年）、《艺术在技术再生时代的地位》（1935-1939 年）和《讲故事的人》（1936 年）。第二个集中在对波德莱尔以及尼采和布朗基的相关文本的阅读中。（对这三位思想家的聚焦是对资本主义与现代性关系的聚焦，以其最纯粹、虚无主义的形式）。第三个则是通过马克思、尼采和超现实主义的反思结合而产生的。它在《拱廊计划》的“N 卷（关于知识理论、进步理论）”中采取了方法论形式，并在本雅明最常引用但仍然存在激烈解释争议的文本（Caygill 2004；Löwy 2005；Tiedemman 1989；Wohlfarth 1978）中达到了其意外的决定性呈现：被称为“历史概念论”的碎片。
 
@@ -143,7 +141,7 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 这些段落分别来自《单行道》和《超现实主义》一文的结尾部分，传达了本雅明在 1930 年代初期的政治思想的狂喜特质，其中技术出现在政治的刀锋上，既可能成为“厄运的偶像”，也可能成为“幸福的钥匙”（SW 2, 321）。艺术——一种大众艺术——在这个场景中出现，作为教育机制，使集体的身体能够开始适应自己的技术潜力。
 
-> 第一代技术真正追求的是征服自然，而第二代技术则更倾向于自然与人类之间的相互作用。艺术今天的主要社会功能是排练这种相互作用。这尤其适用于电影。_电影的功能是训练人类对一个日益扩大的巨大装置所需的感知和反应_。处理这个装置也教会他们，只有当人类整个构造适应了第二代技术所释放的新生产力时，技术才会将他们从对装置力量的奴役中解放出来。（SW 3, 107–8）
+> 第一代技术真正追求的是征服自然，而第二代技术则更倾向于自然与人类之间的相互作用。艺术今天的主要社会功能是排练这种相互作用。这尤其适用于电影。*电影的功能是训练人类对一个日益扩大的巨大装置所需的感知和反应*。处理这个装置也教会他们，只有当人类整个构造适应了第二代技术所释放的新生产力时，技术才会将他们从对装置力量的奴役中解放出来。（SW 3, 107–8）
 
 在本雅明对《技术复制时代的艺术作品》（1936 年）第二版的这一段落的注释中，他提到了“法伦斯特里”（phalansteries），即傅立叶社会主义乌托邦中的“自给自足的农业集体”。在《拱廊计划》的傅立叶卷中，这些被与本雅明政治思想的两个主要要素进行了比较：“革命的理念作为集体技术器官的激活……以及‘自然目的论的破裂’的理念”（AP，\[W7, 4]，631）。对于本雅明来说，艺术以电影的形式——“展开<结果>了今天机器中预先形成的所有感知形式、节奏和韵律”——因此具有成为革命排练的可能性。“\[当代艺术的]所有问题，只有在电影的背景下才能得到最终的阐述”（AP，\[K3, 3]，394）。在这方面，正是布莱希特史诗剧场的共产主义教育和建设性手段的结合，使其成为他眼中适应电影时代的剧场（UB，1–25；Wizisla 2009）。
 
@@ -157,11 +155,11 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 ## 7. 波德莱尔与现代
 
-本雅明对“现代”（_die Moderne_）的思考是他对文化形式历史研究最重要的理论贡献。在他的著作早期的英文译本中，这个词经常被误译为“现代主义”，而现在仍然经常被译为“现代性”（尽管本雅明在提到这个词时倾向于保留波德莱尔的造词“_la modernité_”）。_die Moderne_既指一种形式上的时间结构，也指其历史实例的多样性——过去和现在。波德莱尔是本雅明通过他思考“现代”的主要作家；与人们预期的不同，他并没有参考《现代生活的画家》（1859/60）中关于_modernité_的经典叙述，而是参考了本雅明在《1845 年沙龙》中首次提出的“现代的理论”：“真正的新事物的来临（_die Heraufkunft des wahrhaft_ Neunen）”（SW 4, 45–6，修正翻译；GS 1.2, 580）。
+本雅明对“现代”（*die Moderne*）的思考是他对文化形式历史研究最重要的理论贡献。在他的著作早期的英文译本中，这个词经常被误译为“现代主义”，而现在仍然经常被译为“现代性”（尽管本雅明在提到这个词时倾向于保留波德莱尔的造词“*la modernité*”）。_die Moderne_既指一种形式上的时间结构，也指其历史实例的多样性——过去和现在。波德莱尔是本雅明通过他思考“现代”的主要作家；与人们预期的不同，他并没有参考《现代生活的画家》（1859/60）中关于_modernité_的经典叙述，而是参考了本雅明在《1845 年沙龙》中首次提出的“现代的理论”：“真正的新事物的来临（*die Heraufkunft des wahrhaft* Neunen）”（SW 4, 45–6，修正翻译；GS 1.2, 580）。
 
 在波德莱尔的《画家》一文中，_现代性_著名地指代着“短暂、逃离、偶然”。它与瞬息即逝的特性联系在一起，作为现代性的时间性在资本主义大都市中的普遍社会实现。然而，与此类瞬息即逝相反，本雅明首先（在政治和哲学上）对“新”的兴趣，对其“降临”或历史性的成为，以及对其作为新颖或新奇的品质（新的新颖性）感兴趣，这在概念上与“现代”与“古代”的传统对立有所不同，而波德莱尔则以此对立而闻名。因此，本雅明对德国社会学家马克斯·韦伯所称的“常规化”（尽管本雅明没有使用这个词汇）也感兴趣：常规化伴随着新颖作为一种经验模式的普遍化，尤其是在时尚和无聊中，并涉及其中的重复的形式结构。正是在这里，瞬息即逝进入画面——作为新颖的普遍化的结果。波德莱尔有意识地以“英勇的努力”拥抱现代性，试图像现代生活的画家一样“提取其史诗的方面”并“从短暂中提炼永恒”；而本雅明则试图理解它，以找到一种摆脱他所称之为“地狱”的方式。他在波德莱尔对现代性的描述中注意到了瞬息即逝与永恒的关系，但首先，他对“永恒”的概念进行了去经典化的重新构思，从哲学上重新塑造它，其次，他严格地将这种关系本身表现为辩证法：在现代中，正是瞬息即逝本身被永恒化。
 
-因此，本雅明并不是简单地接管和更新波德莱尔对现代性的描绘，而是以“症状性”（按照路易·阿尔都塞的意义）或更准确地说，寓言地阅读它，以揭示其中的经验——商品形式对历史时间的转化。根据本雅明的说法，波德莱尔能够通过构建他的作品的矛盾历史时间性来把握这种经验：既坚决现代，又在其诗歌形式（抒情诗）中已经过时。本雅明同样重视卡夫卡寓言的不连贯历史时间性：它们作为“讲故事结束后”的寓言的地位。但是，而卡夫卡对本雅明来说是“一个失败的形象”（BS，226）——将现代性的经验\[_Erlebnis_]翻译成传统语言（犹太教）的尝试的必然失败——波德莱尔的诗歌能够通过体验与他选择的抒情手段之间的紧张关系，不仅仅是消极地（像卡夫卡一样），而是通过现代性如何转化这些手段的方式来传达现代性的强烈体验。特别是，抒情诗使波德莱尔能够记录现代性对主体性解体的完全影响，以及由此产生的“需要英勇的构成来生活现代\[_die Moderne_]”（SW 4, 44，修正翻译；GS 1.2, 577）。本雅明对波德莱尔阅读中的都市“主题”的提取——波希米亚人、闲逛者、妓女、赌徒、拾荒者——是这种经验结构的表现形式。它们在波德莱尔中占据主要地位，但对本雅明来说在方法上是次要的，正如他向阿多诺解释的那样：“我只需要将它们插入适当的位置”（BA，90）。波德莱尔找到了一种方法——他所称的“对应关系”——将抒情形式的不合时宜反映地纳入他的作品中。本雅明采用了这种方法，以其分离的“仪式元素”（SW 4, 333），来阅读波德莱尔本人。在《波德莱尔的一些主题》一文中，时间结构的“冲击”体验以机器、电影、人群和赌博的形式相互关联：
+因此，本雅明并不是简单地接管和更新波德莱尔对现代性的描绘，而是以“症状性”（按照路易·阿尔都塞的意义）或更准确地说，寓言地阅读它，以揭示其中的经验——商品形式对历史时间的转化。根据本雅明的说法，波德莱尔能够通过构建他的作品的矛盾历史时间性来把握这种经验：既坚决现代，又在其诗歌形式（抒情诗）中已经过时。本雅明同样重视卡夫卡寓言的不连贯历史时间性：它们作为“讲故事结束后”的寓言的地位。但是，而卡夫卡对本雅明来说是“一个失败的形象”（BS，226）——将现代性的经验\[*Erlebnis*]翻译成传统语言（犹太教）的尝试的必然失败——波德莱尔的诗歌能够通过体验与他选择的抒情手段之间的紧张关系，不仅仅是消极地（像卡夫卡一样），而是通过现代性如何转化这些手段的方式来传达现代性的强烈体验。特别是，抒情诗使波德莱尔能够记录现代性对主体性解体的完全影响，以及由此产生的“需要英勇的构成来生活现代\[*die Moderne*]”（SW 4, 44，修正翻译；GS 1.2, 577）。本雅明对波德莱尔阅读中的都市“主题”的提取——波希米亚人、闲逛者、妓女、赌徒、拾荒者——是这种经验结构的表现形式。它们在波德莱尔中占据主要地位，但对本雅明来说在方法上是次要的，正如他向阿多诺解释的那样：“我只需要将它们插入适当的位置”（BA，90）。波德莱尔找到了一种方法——他所称的“对应关系”——将抒情形式的不合时宜反映地纳入他的作品中。本雅明采用了这种方法，以其分离的“仪式元素”（SW 4, 333），来阅读波德莱尔本人。在《波德莱尔的一些主题》一文中，时间结构的“冲击”体验以机器、电影、人群和赌博的形式相互关联：
 
 决定生产节奏的是流水线上的同一事物，它也是电影接受节奏的基础。... 行人在人群中的震撼体验与工人在机器旁的孤立“经历”相对应。... 机器运动中的震动就像游戏中所谓的突然袭击....（SW 4, 328-30）
 
@@ -197,7 +195,7 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 > 野蛮主义潜伏在文化的概念中——作为一种被认为独立于产生这些价值观的生产过程，而与这些价值观的存续过程无关的价值观基金的概念。以这种方式，它们成为后者的至高无上，尽管它可能是野蛮的。（AP，\[N5a，7] 467-8）
 
-对于本雅明来说，文化作为遗产的价值观是“拜物教的”：“文化呈现出被物化的状态。”只有对“接受的重要性的关键理解……才能使我们纠正在艺术作品中发生的物化过程”（SW 3，267；269）。然而，对于本雅明来说，接受或者他所称的作品的“后生命”\[_Nachleben_]不仅仅是发生在作品外部的事情；它与作品本身的“前生命”\[_Vorleben_]或者生产条件一样，是作品本身的构成要素——而这些构成要素在文化作为价值观的概念中被渲染为看不见的，并且它们自身“卷入了一个不断变化的过程”，就像作品本身一样。唯物主义的文化史将使作品的体验恢复到这两组不断变化的条件（前后）以及它们之间的冲突的意识中，这是一种“对于每个现在都是起源的”参与，因为“\[现在]将事件极化为前史和后史”（SW 3，261-2；AP，\[N7a，8]，471）。正是在对接受的本体论重新思考中，本雅明对再现技术的兴趣才具有哲学意义。通过这些前生命和后生命的概念，本雅明为文化研究奠定了一个新的问题域。
+对于本雅明来说，文化作为遗产的价值观是“拜物教的”：“文化呈现出被物化的状态。”只有对“接受的重要性的关键理解……才能使我们纠正在艺术作品中发生的物化过程”（SW 3，267；269）。然而，对于本雅明来说，接受或者他所称的作品的“后生命”\[*Nachleben*]不仅仅是发生在作品外部的事情；它与作品本身的“前生命”\[*Vorleben*]或者生产条件一样，是作品本身的构成要素——而这些构成要素在文化作为价值观的概念中被渲染为看不见的，并且它们自身“卷入了一个不断变化的过程”，就像作品本身一样。唯物主义的文化史将使作品的体验恢复到这两组不断变化的条件（前后）以及它们之间的冲突的意识中，这是一种“对于每个现在都是起源的”参与，因为“\[现在]将事件极化为前史和后史”（SW 3，261-2；AP，\[N7a，8]，471）。正是在对接受的本体论重新思考中，本雅明对再现技术的兴趣才具有哲学意义。通过这些前生命和后生命的概念，本雅明为文化研究奠定了一个新的问题域。
 
 本雅明对“文化”感兴趣，并不是作为一个独立的价值领域（“美学、科学、伦理……甚至宗教成就的独立价值”），而是与社会学家乔治·西美尔一样，他在这方面引用了《货币哲学》，将其视为“人性发展的要素”（西美尔，引自 AP，\[N14, 3]，480）。在这方面，文化研究位于唯物主义历史哲学的领域之内。历史哲学坚持将历史视为一个整体的概念。正是在这里，本雅明对历史的弥赛亚结构不可避免地与我们对峙；尽管不一定是“神学的”，因为问题在于一个概念结构从一个哲学背景转移到另一个背景（本雅明最喜欢的超现实主义的“去语境化”和“陌生化”方法），而不是其在原始神学背景中的意义。在寻求一个非黑格尔的、非发展主义的整体历史概念的过程中，在《历史概念论》中，本雅明将现在时刻以弥赛亚的方式，交替地作为弥赛亚时刻的“模型”和“弥赛亚时刻的碎片”来描绘。在对 1939-1940 年欧洲危机作为世界历史危机的诊断背景下，这篇文章中的“现在的危急状态”因此获得了神学政治的色彩。“为被压迫的过去而进行的革命性机会”被比作“发生的弥赛亚式停滞的迹象”（SW 4, 396-7）。本雅明意识到这种修辞会导致误解。但是，感知到的政治紧迫性和孤立迫使他将自己的历史概念扩展到他的哲学研究状态之外，试验性地进入一个明显的决定性陈述。本雅明仿佛希望仅凭语言的力量就能克服他仍然基本上是解释学的哲学中行动的困境（奥斯本，1995）。然而，从形式上讲，《历史概念论》应该被视为一系列碎片，以早期浪漫主义的意义阅读。作为这样一个碎片，它始终坚决否定，并且在描绘历史整体时具有重要的局限性，被承认为无法呈现。在这方面，本雅明的最后一篇文章让人想起他最早的重要著作，即 1919 年的论文《德国浪漫主义中的艺术批评概念》：作为一种姿态，以完成一个修改和“现代化”的早期浪漫主义项目所需的历史哲学。
 
@@ -205,135 +203,135 @@ _首次发表于 2011 年 1 月 18 日；实质性修订于 2020 年 10 月 14 �
 
 ### Primary Literature
 
-The current standard German edition of Benjamin’s work remains Suhrkamp’s seven volume _Gesammelte Schriften_, edited by Tiedemann and Schweppenhauser, although a new _Kritish Gesamtausgabe_ is currently being edited, also by Suhrkamp and projected at twenty-one volumes over the next decade. The standard English edition is Harvard University Press’ recent four volume _Selected Writings_, _Early Writings_, and _The Arcades Project_.
+The current standard German edition of Benjamin’s work remains Suhrkamp’s seven volume *Gesammelte Schriften*, edited by Tiedemann and Schweppenhauser, although a new *Kritish Gesamtausgabe* is currently being edited, also by Suhrkamp and projected at twenty-one volumes over the next decade. The standard English edition is Harvard University Press’ recent four volume *Selected Writings*, *Early Writings*, and *The Arcades Project*.
 
-| A   | _Walter Benjamin’s Archive: Images, Texts, Signs_, trans. Esther Leslie, London: Verso, 2007.                                                      |
+| A   | *Walter Benjamin’s Archive: Images, Texts, Signs*, trans. Esther Leslie, London: Verso, 2007.                                                      |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AP  | _The Arcades Project_, trans. Howard Eiland & Kevin McLaughlin, Cambridge, MA. & London: Belknap Press, 1999.                                      |
-| BA  | Walter Benjamin and Theodor W. Adorno, _The Complete Correspondences 1928–1940_, ed. Henri Lonitz, Cambridge: Polity Press, 1999.                  |
-| BC  | _Berlin Childhood Around 1900_, trans. Howard Eiland, Cambridge, MA. & London: Belknap Press, 2006                                                 |
-| BG  | Walter Benjamin and Gretel Adorno, _Correspondence 1930–1940_, trans. Wieland Hoban, Cambridge: Polity, 2008.                                      |
-| BS  | _The Correspondence of Walter Benjamin and Gershom Scholem_, ed. Gershom Scholem, Cambridge, MA.,: Harvard University Press, 1989.                 |
-| C   | _The Correspondence of Walter Benjamin: 1910–1940_, eds. Gershom Scholem & Theodor W. Adorno, Chicago & London: University of Chicago Press, 1994. |
-| EW  | _Early Writings: 1910–1917_, trans. Howard Eiland & Others, Cambridge, MA: Harvard University Press, 2011.                                         |
-| GB  | _Gesammelte Briefe_, 6 vols., ed. Christoph Gödde and Henri Lonitz, Frankfurt: Suhrkamp Verlag, 1995–2000.                                         |
-| GS  | _Gesammelte Schriften_, 7 vols., eds. Rolf Tiedemann & Hermann Schweppenhauser, Frankfurt am Main: Suhrkamp Verlag, Bd. I-VII, 1972-1989.          |
-| KG  | _Werke und Nachlaß. Kritische Gesamtausgabe_, Bd. 1–21, eds. Momme Brodersen et. al., Frankfurt am Main: Suhrkamp Verlag, 2008–.                   |
-| MD  | _Walter Benjamin: Moscow Diary_, ed. Gary Smith, Cambridge, MA. & London: Harvard University Press, 1986.                                          |
-| OGT | _Origin of the German Trauerspiel_, trans. Howard Eiland, Cambridge, MA. & London: Harvard University Press, 2019.                                 |
-| OWS | _One-Way Street and Other Writings_, trans. J. A. Underwood, Harmondsworth: Penguin, 2009.                                                         |
-| RB  | _Radio Benjamin_, ed. Lecia Rosenthal, London: Verso, 2014.                                                                                        |
-| SW  | _Selected Writings_, 4 vols., ed. Howard Eiland & Michael W. Jennings, Cambridge, MA., & London: Harvard University Press, 1991–1999.              |
-| UB  | _Understanding Brecht_, trans. Anna Bostock, London: Verso, 2003.                                                                                  |
+| AP  | *The Arcades Project*, trans. Howard Eiland & Kevin McLaughlin, Cambridge, MA. & London: Belknap Press, 1999.                                      |
+| BA  | Walter Benjamin and Theodor W. Adorno, *The Complete Correspondences 1928–1940*, ed. Henri Lonitz, Cambridge: Polity Press, 1999.                  |
+| BC  | *Berlin Childhood Around 1900*, trans. Howard Eiland, Cambridge, MA. & London: Belknap Press, 2006                                                 |
+| BG  | Walter Benjamin and Gretel Adorno, *Correspondence 1930–1940*, trans. Wieland Hoban, Cambridge: Polity, 2008.                                      |
+| BS  | *The Correspondence of Walter Benjamin and Gershom Scholem*, ed. Gershom Scholem, Cambridge, MA.,: Harvard University Press, 1989.                 |
+| C   | *The Correspondence of Walter Benjamin: 1910–1940*, eds. Gershom Scholem & Theodor W. Adorno, Chicago & London: University of Chicago Press, 1994. |
+| EW  | *Early Writings: 1910–1917*, trans. Howard Eiland & Others, Cambridge, MA: Harvard University Press, 2011.                                         |
+| GB  | *Gesammelte Briefe*, 6 vols., ed. Christoph Gödde and Henri Lonitz, Frankfurt: Suhrkamp Verlag, 1995–2000.                                         |
+| GS  | *Gesammelte Schriften*, 7 vols., eds. Rolf Tiedemann & Hermann Schweppenhauser, Frankfurt am Main: Suhrkamp Verlag, Bd. I-VII, 1972-1989.          |
+| KG  | *Werke und Nachlaß. Kritische Gesamtausgabe*, Bd. 1–21, eds. Momme Brodersen et. al., Frankfurt am Main: Suhrkamp Verlag, 2008–.                   |
+| MD  | *Walter Benjamin: Moscow Diary*, ed. Gary Smith, Cambridge, MA. & London: Harvard University Press, 1986.                                          |
+| OGT | *Origin of the German Trauerspiel*, trans. Howard Eiland, Cambridge, MA. & London: Harvard University Press, 2019.                                 |
+| OWS | *One-Way Street and Other Writings*, trans. J. A. Underwood, Harmondsworth: Penguin, 2009.                                                         |
+| RB  | *Radio Benjamin*, ed. Lecia Rosenthal, London: Verso, 2014.                                                                                        |
+| SW  | *Selected Writings*, 4 vols., ed. Howard Eiland & Michael W. Jennings, Cambridge, MA., & London: Harvard University Press, 1991–1999.              |
+| UB  | *Understanding Brecht*, trans. Anna Bostock, London: Verso, 2003.                                                                                  |
 
 ### Biographies in English
 
-* Eiland, H. and Jennings, M. W., _Walter Benjamin: A Critical Life_, Cambridge, MA. & London: Harvard University Press, 2014.
-* Leslie, E., 2007, _Walter Benjamin: Critical Lives_, London: Reaktion Books.
-* Brodersen, M., 1996, _Walter Benjamin: A Biography_, London & New York: Verso.
-* Scholem, G., 1981, _Walter Benjamin: The Story of a Friendship_, New York: Review Books.
-* Witte, B., 1991, _Walter Benjamin: An Intellectual Biography_, Detroit: Wayne University Press.
-* Wizisla, E., 2009, _Walter Benjamin and Bertolt Brecht: the Story of a Friendship_, London: Libris.
+* Eiland, H. and Jennings, M. W., *Walter Benjamin: A Critical Life*, Cambridge, MA. & London: Harvard University Press, 2014.
+* Leslie, E., 2007, *Walter Benjamin: Critical Lives*, London: Reaktion Books.
+* Brodersen, M., 1996, *Walter Benjamin: A Biography*, London & New York: Verso.
+* Scholem, G., 1981, *Walter Benjamin: The Story of a Friendship*, New York: Review Books.
+* Witte, B., 1991, *Walter Benjamin: An Intellectual Biography*, Detroit: Wayne University Press.
+* Wizisla, E., 2009, *Walter Benjamin and Bertolt Brecht: the Story of a Friendship*, London: Libris.
 
 ### Selected English Anthologies
 
-* Benjamin, A. (ed.), 1989, _The Problems of Modernity: Adorno and Benjamin_, London: Routledge.
-* ––– (ed.), 2005a, _Walter Benjamin and Art_, London & New York: Continuum.
-* ––– (ed.), 2005b, _Walter Benjamin and History_, London & New York: Continuum.
-* Benjamin, A. and Hanssen, B. (eds.), 2002, _Walter Benjamin and Romanticism_, London & New York: Continuum.
-* Benjamin, A. and Osborne, P. (eds.), 1994/2000, _Walter Benjamin’s Philosophy: Destruction and Experience_, London & New York: Routledge/Manchester: Clinamen Press.
-* Ferris, D. S. (ed.), 2004, _The Cambridge Companion to Walter Benjamin_, Cambridge: Cambridge University Press.
-* Fischer, G. (ed.), 1996, _With The Sharpened Axe of Reason: Approaches to Walter Benjamin_, Oxford: Berg.
-* Goebel, R. J. (ed.), 2009, _A Companion to the Works of Walter Benjamin_, Rochester & Woodbridge: Camden House.
-* Hanssen, B. (ed.), 2006, _Walter Benjamin and the Arcades Project_, London & New York: Continuum.
-* Hartoonian, G., (ed.), 2010, _Walter Benjamin and Architecture_, London & New York: Routledge.
-* Osborne, P. (ed.), 2005, _Walter Benjamin: Critical Evaluations in Cultural Theory_, Volume I: Philosophy, Volume II: Modernity, Volume III: Appropriations, London & New York: Routledge.
-* Smith, G. (ed.), 1988, _On Walter Benjamin: Critical Essays and Recollections_, Cambridge, MA. & London: MIT.
-* ––– (ed.), 1989, _Walter Benjamin: Philosophy, Aesthetics, History_, Chicago & London: University of Chicago Press.
+* Benjamin, A. (ed.), 1989, *The Problems of Modernity: Adorno and Benjamin*, London: Routledge.
+* ––– (ed.), 2005a, *Walter Benjamin and Art*, London & New York: Continuum.
+* ––– (ed.), 2005b, *Walter Benjamin and History*, London & New York: Continuum.
+* Benjamin, A. and Hanssen, B. (eds.), 2002, *Walter Benjamin and Romanticism*, London & New York: Continuum.
+* Benjamin, A. and Osborne, P. (eds.), 1994/2000, *Walter Benjamin’s Philosophy: Destruction and Experience*, London & New York: Routledge/Manchester: Clinamen Press.
+* Ferris, D. S. (ed.), 2004, *The Cambridge Companion to Walter Benjamin*, Cambridge: Cambridge University Press.
+* Fischer, G. (ed.), 1996, *With The Sharpened Axe of Reason: Approaches to Walter Benjamin*, Oxford: Berg.
+* Goebel, R. J. (ed.), 2009, *A Companion to the Works of Walter Benjamin*, Rochester & Woodbridge: Camden House.
+* Hanssen, B. (ed.), 2006, *Walter Benjamin and the Arcades Project*, London & New York: Continuum.
+* Hartoonian, G., (ed.), 2010, *Walter Benjamin and Architecture*, London & New York: Routledge.
+* Osborne, P. (ed.), 2005, *Walter Benjamin: Critical Evaluations in Cultural Theory*, Volume I: Philosophy, Volume II: Modernity, Volume III: Appropriations, London & New York: Routledge.
+* Smith, G. (ed.), 1988, *On Walter Benjamin: Critical Essays and Recollections*, Cambridge, MA. & London: MIT.
+* ––– (ed.), 1989, *Walter Benjamin: Philosophy, Aesthetics, History*, Chicago & London: University of Chicago Press.
 
 ### Selected Secondary Literature
 
-* Adorno, T. W., 1955, ‘A Portrait of Walter Benjamin’, in _Prisms_, Cambridge, MA.: MIT., 1983, pp. 227–242.
-* –––, 1931, ‘The Actuality of Philosophy’, in _Telos_ 31 (Spring 1977): 120–133.
-* Agamben, G., 2005, _State of Exception_, trans. K. Attell, Chicago & London: University of Chicago Press.
-* Ariella, A., 2007, ‘The Tradition of the Oppressed’, _Qui Parle_, 16 (2): 73–96.
-* Asman, C. L., 1992, ‘Theatre and Agon/Agon and Theatre: Walter Benjamin and Florens Christian Rang’, _MLN_, 107(3): 606–624.
-* Avelar, I., 2004, _The Letter of Violence: Essays on Narrative, Ethics, and Politics_, New York & Basingstoke, England: Palgrave Macmillan.
+* Adorno, T. W., 1955, ‘A Portrait of Walter Benjamin’, in *Prisms*, Cambridge, MA.: MIT., 1983, pp. 227–242.
+* –––, 1931, ‘The Actuality of Philosophy’, in *Telos* 31 (Spring 1977): 120–133.
+* Agamben, G., 2005, *State of Exception*, trans. K. Attell, Chicago & London: University of Chicago Press.
+* Ariella, A., 2007, ‘The Tradition of the Oppressed’, *Qui Parle*, 16 (2): 73–96.
+* Asman, C. L., 1992, ‘Theatre and Agon/Agon and Theatre: Walter Benjamin and Florens Christian Rang’, *MLN*, 107(3): 606–624.
+* Avelar, I., 2004, *The Letter of Violence: Essays on Narrative, Ethics, and Politics*, New York & Basingstoke, England: Palgrave Macmillan.
 * Benjamin, A., 1989, ‘Tradition and Experience: Walter Benjamin’s Some Motifs in Baudelaire’, in Benjamin, A. (ed.), 1989, pp. 122–140.
-* –––, 2013, _Working with Walter Benjamin: Recovering a Political Philosophy_, Edinburgh: Edinburgh University Press.
-* Bernsaïd, D., 1990, _Walter Benjamin sentinelle messianique: À la gauche du possible_, Paris: Plon.
+* –––, 2013, *Working with Walter Benjamin: Recovering a Political Philosophy*, Edinburgh: Edinburgh University Press.
+* Bernsaïd, D., 1990, *Walter Benjamin sentinelle messianique: À la gauche du possible*, Paris: Plon.
 * Bolle, W., 2009, ‘Paris on the Amazon? Postcolonial Interrogations of Benjamin’s European Modernism’, in Goebel 2009, pp. 216–245.
-* Brederkamp, H., 1999, ‘From Walter Benjamin to Carl Schmitt, via Thomas Hobbes’, _Critical Inquiry_, 25(2): 247–266.
-* Buck-Morss, S., 1977, _The Origins of Negative Dialectics: Theodor W. Adorno, Walter Benjamin and the Frankfurt Institute_, Hassocks: Harvester Press.
-* –––, 1989, _The Dialectics of Seeing_, Cambridge, MA. & London: MIT Press.
-* –––, 1992, ‘Aesthetics and Anaesthetics: Walter Benjamin’s Artwork Essay Reconsidered’, _October_, 62: 3–41, reprinted in Osborne 2005, I: 291–331.
-* Bullock, M. P., 1987, _Romanticism and Marxism: The Philosophical Development of Literary Theory and Literary History in Walter Benjamin & Friedrich Schlegel_, New York, Bern & Frankfurt am Main: Peter Lang.
+* Brederkamp, H., 1999, ‘From Walter Benjamin to Carl Schmitt, via Thomas Hobbes’, *Critical Inquiry*, 25(2): 247–266.
+* Buck-Morss, S., 1977, *The Origins of Negative Dialectics: Theodor W. Adorno, Walter Benjamin and the Frankfurt Institute*, Hassocks: Harvester Press.
+* –––, 1989, *The Dialectics of Seeing*, Cambridge, MA. & London: MIT Press.
+* –––, 1992, ‘Aesthetics and Anaesthetics: Walter Benjamin’s Artwork Essay Reconsidered’, *October*, 62: 3–41, reprinted in Osborne 2005, I: 291–331.
+* Bullock, M. P., 1987, *Romanticism and Marxism: The Philosophical Development of Literary Theory and Literary History in Walter Benjamin & Friedrich Schlegel*, New York, Bern & Frankfurt am Main: Peter Lang.
 * Caygill, H., 1994, ‘Benjamin, Heidegger and the Destruction of Tradition’, in Benjamin and Osborne 1994/2000, pp. 1–31.
-* –––, 1998, _Walter Benjamin: The Colour of Experience_, London: Routledge.
+* –––, 1998, *Walter Benjamin: The Colour of Experience*, London: Routledge.
 * –––, 2004, ‘Walter Benjamin’s Concept of Cultural History,’ in Ferris 2004, pp. 73–96.
 * –––, 2005, ‘Non-Messianic Political Theology in Benjamin’s “On the Concept of History”’, in Benjamin, A. 2005b, pp. 215–226.
-* Charles, M., 2018, ‘Secret Signals from Another World: Walter Benjamin’s Theory of Innervation’, _New German Critique_, 45(3): 39–72.
-* –––, M. 2020, _Modernism Between Benjamin and Goethe_, London: Bloomsbury.
+* Charles, M., 2018, ‘Secret Signals from Another World: Walter Benjamin’s Theory of Innervation’, *New German Critique*, 45(3): 39–72.
+* –––, M. 2020, *Modernism Between Benjamin and Goethe*, London: Bloomsbury.
 * Chisholm, D., 2009, ‘Benjamin’s Gender, Sex, and Eros’, in Goebel 2009, pp. 246–272.
-* –––, 2005, _Queer constellations: subcultural space in the wake of the city_, Minneapolis: University of Minnesota Press.
-* Chow, R., 1989, ‘Walter Benjamin’s Love Affair with Death’, _New German Critique_, 48: 63–86.
-* Clark, T. J, 2003, ‘Should Benjamin Have Read Marx’, _Boundary 2_ 30(1): 31–49; reprinted in Osborne 2005, III: 81–96.
-* Cohen, M., 1993, _Profane Illumination: Walter Benjamin and the Paris of Surrealist Revolution_, Berkeley & Los Angeles: University of California Press.
-* Cowan, B., 1981, ‘Walter Benjamin’s Theory of Allegory’, _New German Critique_, 22: 109–122.
-* Derrida, J., 1989–90, ‘Force of Law: The “Mystical Foundations of Authority”’, trans. Mary Quaintance, _Cardozo Law Review_, 11: 973–1045, reprinted in Osborne 2005, 1: 398–432.
-* –––, 1994, _Spectres of Marx: the state of the debt, the work of mourning, and the New International_, trans. P. Kamuf, London: Routledge.
-* –––, 1997, _The Politics of Friendship_, trans. G. Collins, London & New York: Verso.
-* –––, 1999, ‘Marx and Sons’, in _Ghostly demarcations: a symposium on Jacques Derrida’s Spectres of Marx_, ed. M. Sprinker, London & New York: Verso, pp. 213–269.
+* –––, 2005, *Queer constellations: subcultural space in the wake of the city*, Minneapolis: University of Minnesota Press.
+* Chow, R., 1989, ‘Walter Benjamin’s Love Affair with Death’, *New German Critique*, 48: 63–86.
+* Clark, T. J, 2003, ‘Should Benjamin Have Read Marx’, *Boundary 2* 30(1): 31–49; reprinted in Osborne 2005, III: 81–96.
+* Cohen, M., 1993, *Profane Illumination: Walter Benjamin and the Paris of Surrealist Revolution*, Berkeley & Los Angeles: University of California Press.
+* Cowan, B., 1981, ‘Walter Benjamin’s Theory of Allegory’, *New German Critique*, 22: 109–122.
+* Derrida, J., 1989–90, ‘Force of Law: The “Mystical Foundations of Authority”’, trans. Mary Quaintance, *Cardozo Law Review*, 11: 973–1045, reprinted in Osborne 2005, 1: 398–432.
+* –––, 1994, *Spectres of Marx: the state of the debt, the work of mourning, and the New International*, trans. P. Kamuf, London: Routledge.
+* –––, 1997, *The Politics of Friendship*, trans. G. Collins, London & New York: Verso.
+* –––, 1999, ‘Marx and Sons’, in *Ghostly demarcations: a symposium on Jacques Derrida’s Spectres of Marx*, ed. M. Sprinker, London & New York: Verso, pp. 213–269.
 * Didi-Huberman, G., 2005, ‘The Supposition of the Aura: The Now, the Then and Modernity’, in Benjamin, A., 2005b, pp. 2–18.
-* Eagleton, T., 1981, _Walter Benjamin, Or, Towards a Revolutionary Criticism_, London: NLB.
+* Eagleton, T., 1981, *Walter Benjamin, Or, Towards a Revolutionary Criticism*, London: NLB.
 * Eiland, H., 2011, ‘Translator’s Introduction’, in EW, pp. 1–13.
-* Ferber, I., 2013, _Philosophy and Melancholy: Benjamin’s Early Reflections on Theater and Language_, Stanford: Stanford University Press.
-* Friedlander, E., 2012, _Walter Benjamin: A Philosophical Portrait_, Cambridge, MA: Harvard University Press.
+* Ferber, I., 2013, *Philosophy and Melancholy: Benjamin’s Early Reflections on Theater and Language*, Stanford: Stanford University Press.
+* Friedlander, E., 2012, *Walter Benjamin: A Philosophical Portrait*, Cambridge, MA: Harvard University Press.
 * Frisby, D., 1996, ‘Walter Benjamin’s Prehistory of Modernity as Anticipation of Postmodernity? Some Methodological Reflections’, in Fischer 1996, pp. 15–32.
-* Fuld, W., 1981, ‘Walter Benjamins Beziehung zu Ludwig Klages’, _Akzente_ 28(3): 274–287.
-* Gilloch, G., 2000, _Walter Benjamin: Critical Constellations_, Cambridge: Polity.
-* Goebel, R. J., 2001, _Benjamin heute. Großstadtdiskurs, Postkolonialität und Flanerie zwischen den Kulturen_, Munich: Iudicium.
-* Habermas, J., 1983, ‘Walter Benjamin: Consciousness-raising or rescuing critique’, in _Philosophical-Political Profiles_, trans. Frederick G. Lawrence, Cambridge, MA. & London: MIT Press, pp. 129–163, reprinted in Osborne 2005, I: 107–136.
-* Hamacher, W., 2002, ‘Guilt History: Benjamin’s Sketch “Capitalism as Religion”’, _Diacritics_, 32(3/4): 81–106.
-* Hansen, M., 1987, ‘Benjamin, Cinema and Experience: “The Blue Flower in the Land of Technology”’, _New German Critique_, 40: 179–224; reprinted in Osborne 2005, II: 253–290.
-* –––, 2011, _Cinema and Experience: Siegfried Kracauer, Walter Benjamin, and Theodor W. Adorno_, Los Angeles & London: University of California Press.
-* Hanssen, B., 1995, ‘Philosophy at Its Origin: Walter Benjamin’s Prologue to the _Ursprung des deutschen Trauerspiels_’, _MLN_, 110(4): 809–833.
-* –––, 1998, _Walter Benjamin’s Other History: Of Stones, Animals, Human Beings, and Angels_, Berkeley, Los Angeles & London: University of California Press.
+* Fuld, W., 1981, ‘Walter Benjamins Beziehung zu Ludwig Klages’, *Akzente* 28(3): 274–287.
+* Gilloch, G., 2000, *Walter Benjamin: Critical Constellations*, Cambridge: Polity.
+* Goebel, R. J., 2001, *Benjamin heute. Großstadtdiskurs, Postkolonialität und Flanerie zwischen den Kulturen*, Munich: Iudicium.
+* Habermas, J., 1983, ‘Walter Benjamin: Consciousness-raising or rescuing critique’, in *Philosophical-Political Profiles*, trans. Frederick G. Lawrence, Cambridge, MA. & London: MIT Press, pp. 129–163, reprinted in Osborne 2005, I: 107–136.
+* Hamacher, W., 2002, ‘Guilt History: Benjamin’s Sketch “Capitalism as Religion”’, *Diacritics*, 32(3/4): 81–106.
+* Hansen, M., 1987, ‘Benjamin, Cinema and Experience: “The Blue Flower in the Land of Technology”’, *New German Critique*, 40: 179–224; reprinted in Osborne 2005, II: 253–290.
+* –––, 2011, *Cinema and Experience: Siegfried Kracauer, Walter Benjamin, and Theodor W. Adorno*, Los Angeles & London: University of California Press.
+* Hanssen, B., 1995, ‘Philosophy at Its Origin: Walter Benjamin’s Prologue to the *Ursprung des deutschen Trauerspiels*’, *MLN*, 110(4): 809–833.
+* –––, 1998, *Walter Benjamin’s Other History: Of Stones, Animals, Human Beings, and Angels*, Berkeley, Los Angeles & London: University of California Press.
 * Hodge, J., 2005, ‘The Timing of Elective Affinity: Walter Benjamin’s Strong Aesthetics’, in Benjamin, A., 2005a, pp. 14–31.
-* Holz, H. H., 1992, _Philosophie der zersplittern Welt: Reflexionen über Walter Benjamin_, Bonn: Pahl-Rugenstein.
-* Kang, J., 2014, _Walter Benjamin and the Media: the Spectacle of Modernity_, Cambridge: Polity.
-* Khatib, S. R., 2013, _“Teleologie ohne Endzweck. Walter Benjamins Ent-stellung des Messianischen”_ , Marburg: Tectum.
-* Kittsteiner, H. D., 1986, ‘Walter Benjamin’s Historicism’, _New German Critique_ 39: 179–215.
-* Lacoue-Labarthe, P., 1992, ‘Introduction to Walter Benjamin’s The Concept of Art Criticism in German Romanticism’, _Studies in Romanticism_, 31(4): 421–432, reprinted in Hanssen and Benjamin, A. 2002, pp. 9–18.
+* Holz, H. H., 1992, *Philosophie der zersplittern Welt: Reflexionen über Walter Benjamin*, Bonn: Pahl-Rugenstein.
+* Kang, J., 2014, *Walter Benjamin and the Media: the Spectacle of Modernity*, Cambridge: Polity.
+* Khatib, S. R., 2013, *“Teleologie ohne Endzweck. Walter Benjamins Ent-stellung des Messianischen”* , Marburg: Tectum.
+* Kittsteiner, H. D., 1986, ‘Walter Benjamin’s Historicism’, *New German Critique* 39: 179–215.
+* Lacoue-Labarthe, P., 1992, ‘Introduction to Walter Benjamin’s The Concept of Art Criticism in German Romanticism’, *Studies in Romanticism*, 31(4): 421–432, reprinted in Hanssen and Benjamin, A. 2002, pp. 9–18.
 * Lambrianou, N., 2005, ‘Neo-Kantianism and Messianism: Origin and Interruption in Hermann Cohen and Walter Benjamin’, in Osborne 2005, I: 82–104.
-* Lebovic, N., 2013, _The Philosophy of Life and Death: Ludwig Klages and the Rise of Nazi Biopolitics_, New York & Basingstoke: Palgrave Macmillan.
-* Leslie, E., 2000, _Walter Benjamin: Overpowering Conformism_, London: Pluto.
+* Lebovic, N., 2013, *The Philosophy of Life and Death: Ludwig Klages and the Rise of Nazi Biopolitics*, New York & Basingstoke: Palgrave Macmillan.
+* Leslie, E., 2000, *Walter Benjamin: Overpowering Conformism*, London: Pluto.
 * –––, 2008, ‘Revolutionary Potential and Walter Benjamin: A Postwar Reception History’, in \*Critical Companion to Contemporary Marxism \*, eds. Jacques Bidet and Stavis Kouvelakis, Leiden: Brill, pp. 549–566.
-* Lewis, T. E., 2020, _Walter Benjamin’s Antifascist Education: From Riddles to Radio_, Albany: SUNY.
-* Lindner, B. (ed.), 2006, _Benjamin-Handbuch. Leben, Werk, Wirkung_, Stuttgart: Metzler.
+* Lewis, T. E., 2020, *Walter Benjamin’s Antifascist Education: From Riddles to Radio*, Albany: SUNY.
+* Lindner, B. (ed.), 2006, *Benjamin-Handbuch. Leben, Werk, Wirkung*, Stuttgart: Metzler.
 * Liska, V., 2009, ‘The Legacy of Benjamin’s Messianism: Giorgio Agamben and Other Contenders’, in Goebel 2009, pp. 195–215.
-* Löwy, M., 2005, _Fire Alarm: Reading Walter Benjamin’s_ ‘On the Concept of History’, trans. Chris Turner, London & New York: Verso.
-* McCole, J. J., 1993, _Walter Benjamin and the Antinomies of Tradition_, Ithaca, NY: Cornell University Press.
-* McFarland, J., 2013, _Constellation: Friedrich Nietzsche and Walter Benjamin in the Now-Time of History_, New York: Fordham University Press.
+* Löwy, M., 2005, *Fire Alarm: Reading Walter Benjamin’s* ‘On the Concept of History’, trans. Chris Turner, London & New York: Verso.
+* McCole, J. J., 1993, *Walter Benjamin and the Antinomies of Tradition*, Ithaca, NY: Cornell University Press.
+* McFarland, J., 2013, *Constellation: Friedrich Nietzsche and Walter Benjamin in the Now-Time of History*, New York: Fordham University Press.
 * Menninghaus, W., 2002, ‘Walter Benjamin’s Exposition of the Romantic Theory of Reflection’, trans. Robert J. Kiss, in Hanssen and Benjamin, A. 2002, pp. 19–50, reprinted in Osborne 2005, I: 25–62.
-* Newman, J. O., 2011, _Benjamin’s Library: Modernity, Nation, and the Baroque_, Ithaca, NY: Cornell University Press.
-* Osborne, P., 1995, _The Politics of Time: Modernity and Avant-Garde_, London & New York: Verso.
-* –––, 2011, ‘Philosophy after Theory: Transdisciplinarity and the New’, in _Theory After ‘Theory’_ , eds. Jane Elliott and Derek Attridge, Abingdon: Routledge, pp. 19–33.
-* Raz-Krakotzkin, A., 2013, ‘On the Right Side of the Barricades: Walter Benjamin, Gershom Scholem and Zionism’, _Comparative Literature_, 65(3): 363–381.
-* Rrenban, M., 2005, _Wild, Unforgettable Philosophy: In Early Works of Walter Benjamin_, Lanham & Oxford: Lexington Books.
+* Newman, J. O., 2011, *Benjamin’s Library: Modernity, Nation, and the Baroque*, Ithaca, NY: Cornell University Press.
+* Osborne, P., 1995, *The Politics of Time: Modernity and Avant-Garde*, London & New York: Verso.
+* –––, 2011, ‘Philosophy after Theory: Transdisciplinarity and the New’, in *Theory After ‘Theory’* , eds. Jane Elliott and Derek Attridge, Abingdon: Routledge, pp. 19–33.
+* Raz-Krakotzkin, A., 2013, ‘On the Right Side of the Barricades: Walter Benjamin, Gershom Scholem and Zionism’, *Comparative Literature*, 65(3): 363–381.
+* Rrenban, M., 2005, *Wild, Unforgettable Philosophy: In Early Works of Walter Benjamin*, Lanham & Oxford: Lexington Books.
 * Roff, S. L., 2004, ‘Benjamin and Psychoanalysis’, in Ferris 2004, pp. 115–133.
-* Schmitt, C., 1956, _Hamlet or Hecuba: the intrusion of time into the play_, trans. D. Pan & J. Rust, New York: Telos Press, 2009.
-* Steiner, U., 2001, ‘The True Politician: Walter Benjamin’s Concept of the Political’, trans. C. Sample, _New German Critique_, 83: 43–88.
+* Schmitt, C., 1956, *Hamlet or Hecuba: the intrusion of time into the play*, trans. D. Pan & J. Rust, New York: Telos Press, 2009.
+* Steiner, U., 2001, ‘The True Politician: Walter Benjamin’s Concept of the Political’, trans. C. Sample, *New German Critique*, 83: 43–88.
 * Tiedemann, R., 1983–4, ‘Historical Materialism or Political Messianism? An Interpretation of the Theses “On the Concept of History”’, in Smith 1989, pp. 175–209, reprinted in Osborne 2005, I: 137–168.
-* Tomba, M., 2009, ‘Another Kind of _Gewalt_: Beyond Law. Re-Reading Walter Benjamin’, _Historical Materialism_, 17(1): 126–144.
-* –––, 2006, _La vera politica. Kant e Benjamin: la possibilità della giustizia_, Macerata: Quodlibet.
-* Weber, S., 2008, _Benjamin’s abilities_, Cambridge, MA., & London: Harvard University Press.
-* Weigel, S., 1996, _Body- and Image-Space: Re-Reading Walter Benjamin_, London & New York: Routledge.
-* Wohlfarth, I., 1978, ‘On the Messianic Structure of Benjamin’s Last Reflections’, _Glyph_ 3: 148–212, reprinted in Osborne 2005, I: 169–231.
-* –––, 1992, ‘The Politics of Youth: Walter Benjamin’s Reading of The Idiot’, _Diacritics_ 22 (3/4): 160–172.
-* –––, 2002, ‘Walter Benjamin and the Idea of Technological Eros: A Tentative Reading of _Zum Planetarium_’, _Benjamin Studies/Studien_ 1: 65–109.
-* –––, 2008–9, ‘Walter Benjamin and the Red Army Faction’, Parts, 1–3, _Radical Philosophy_ 142–144, Nov/Dec 2008, Jan/Feb 2009, March/April 2009, 7–19, 13–26, 9–24.
-* Wolin, R., 1994, _An Aesthetics of Redemption,_ Berkeley & Los Angeles: University of California Press.
+* Tomba, M., 2009, ‘Another Kind of *Gewalt*: Beyond Law. Re-Reading Walter Benjamin’, *Historical Materialism*, 17(1): 126–144.
+* –––, 2006, *La vera politica. Kant e Benjamin: la possibilità della giustizia*, Macerata: Quodlibet.
+* Weber, S., 2008, *Benjamin’s abilities*, Cambridge, MA., & London: Harvard University Press.
+* Weigel, S., 1996, *Body- and Image-Space: Re-Reading Walter Benjamin*, London & New York: Routledge.
+* Wohlfarth, I., 1978, ‘On the Messianic Structure of Benjamin’s Last Reflections’, *Glyph* 3: 148–212, reprinted in Osborne 2005, I: 169–231.
+* –––, 1992, ‘The Politics of Youth: Walter Benjamin’s Reading of The Idiot’, *Diacritics* 22 (3/4): 160–172.
+* –––, 2002, ‘Walter Benjamin and the Idea of Technological Eros: A Tentative Reading of *Zum Planetarium*’, *Benjamin Studies/Studien* 1: 65–109.
+* –––, 2008–9, ‘Walter Benjamin and the Red Army Faction’, Parts, 1–3, *Radical Philosophy* 142–144, Nov/Dec 2008, Jan/Feb 2009, March/April 2009, 7–19, 13–26, 9–24.
+* Wolin, R., 1994, *An Aesthetics of Redemption,* Berkeley & Los Angeles: University of California Press.
 
 ## Academic Tools
 
@@ -355,4 +353,4 @@ The current standard German edition of Benjamin’s work remains Suhrkamp’s se
 
 [Adorno, Theodor W.](https://plato.stanford.edu/entries/adorno/) | [Althusser, Louis](https://plato.stanford.edu/entries/althusser/) | [Cohen, Hermann](https://plato.stanford.edu/entries/cohen/) | [critical theory](https://plato.stanford.edu/entries/critical-theory/) | [Croce, Benedetto: aesthetics](https://plato.stanford.edu/entries/croce-aesthetics/) | [Derrida, Jacques](https://plato.stanford.edu/entries/derrida/) | [Fichte, Johann Gottlieb](https://plato.stanford.edu/entries/johann-fichte/) | [Habermas, Jürgen](https://plato.stanford.edu/entries/habermas/) | [Hamann, Johann Georg](https://plato.stanford.edu/entries/hamann/) | [Hegel, Georg Wilhelm Friedrich](https://plato.stanford.edu/entries/hegel/) | [Heidegger, Martin](https://plato.stanford.edu/entries/heidegger/) | [history, philosophy of](https://plato.stanford.edu/entries/history/) | [Horkheimer, Max](https://plato.stanford.edu/entries/horkheimer/) | [Husserl, Edmund](https://plato.stanford.edu/entries/husserl/) | [Kant, Immanuel](https://plato.stanford.edu/entries/kant/) | [Lukács, Georg \[György\]](https://plato.stanford.edu/entries/lukacs/) | [Marx, Karl](https://plato.stanford.edu/entries/marx/) | [metaphysics](https://plato.stanford.edu/entries/metaphysics/) | [Nietzsche, Friedrich](https://plato.stanford.edu/entries/nietzsche/) | [nominalism: in metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/) | [Novalis \[Georg Friedrich Philipp von Hardenberg\]](https://plato.stanford.edu/entries/novalis/) | [realism](https://plato.stanford.edu/entries/realism/) | [Rickert, Heinrich](https://plato.stanford.edu/entries/heinrich-rickert/) | [Schlegel, August Wilhelm von](https://plato.stanford.edu/entries/schlegel-aw/) | [Schlegel, Friedrich](https://plato.stanford.edu/entries/schlegel/) | [Schmitt, Carl](https://plato.stanford.edu/entries/schmitt/) | [Scholem, Gershom](https://plato.stanford.edu/entries/scholem/)
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by Peter Osborne <[_p.osborne@kingston.ac.uk_](mailto:p%2eosborne%40kingston%2eac%2euk)> [Matthew Charles](http://westminster.ac.uk/about-us/our-people/directory/charles-matthew/) <[_m.charles1@westminster.ac.uk_](mailto:m%2echarles1%40westminster%2eac%2euk)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by Peter Osborne <[*p.osborne@kingston.ac.uk*](mailto:p%2eosborne%40kingston%2eac%2euk)> [Matthew Charles](http://westminster.ac.uk/about-us/our-people/directory/charles-matthew/) <[*m.charles1@westminster.ac.uk*](mailto:m%2echarles1%40westminster%2eac%2euk)>

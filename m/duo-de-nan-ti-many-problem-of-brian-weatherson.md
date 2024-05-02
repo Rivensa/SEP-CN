@@ -1,10 +1,9 @@
 # 多的难题 many, problem of (Brian Weatherson)
 
-_首次发表于2003年1月9日；实质性修订于2023年8月31日。_
+*首次发表于2003年1月9日；实质性修订于2023年8月31日。*
 
 正如任何飞出云层的人所知，云的边界在近距离看起来比在地面上看起来要模糊得多。即使在那里似乎清楚地存在一个有着明确边界的云，实际上有成千上万个水滴既不确定地属于云的一部分，也不确定地在云的外部。考虑任何由云的核心和这些水滴的任意选择组成的物体。它看起来像一朵云，并且在条件允许的情况下会下雨，就像一朵云一样，并且在天空的那一部分，它与任何其他物体一样有资格成为一朵云。但我们不能说每个这样的物体都是一朵云，否则在看起来只有一朵云的地方将会有数百万朵云。而且对于任何在你越近看它的边界越不清晰的东西都是成立的，包括我们通常思考的几乎所有类型的物体，包括人类。尽管这似乎只是一个技术上的难题，甚至是一个微不足道的问题，但已经出现了许多互相矛盾的解决方案。甚至还没有确定解决方案应该来自形而上学、语言哲学还是逻辑学。在这里，我们对各种选择进行概述，并提供与“多的难题”相关的许多主题的链接。
 
- 
 ***
 
 ## 1. 引言
@@ -257,46 +256,46 @@ Hudson 将“x 恰好占据 s”定义如下：
 
 The numbers after each entry refer to the sections to which that book or article is relevant.
 
-* Armstrong, D. M., 1978, _Universals and Scientific Realism_. 2 vols. Cambridge: Cambridge University Press. \[6]
-* Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed,” _Noûs_, 44: 601–627. \[8]
-* Dummett, Michael, 1975, “Wang’s Paradox,” _Synthese_, 30: 301–324. \[8]
-* Eklund, Matti, 2002, “Inconsistent Languages,” _Philosophy and Phenomenological Research_, 64: 251–275. \[2, 7]
-* Fine, Kit, 1975, “Vagueness, Truth and Logic,” _Synthese_, 30: 265–300. \[7]
-* Fodor, Jerry, 1987, _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_. Cambridge, MA: MIT Press. \[7]
-* Geach, P. T., 1980, _Reference and Generality_. 3rd edn., Ithaca: Cornell University Press. \[1, 5]
-* Horgan, Terrence, 1993, “On What There Isn’t,” _Philosophy and Phenomenological Research_, 53: 693–700. \[4]
-* Hudson, Hud, 2001, _A Materialist Metaphysics of the Human Person_, Ithaca: Cornell University Press \[1, 2, 3, 4, 5, 6, 7, 8, 9]
-* Johnston, Mark, 1992, “Constitution is Not Identity,” _Mind_, 101: 89–105. \[6, 8]
-* Jones, Nicholas J., 2010, _Too Many Cats: The Problem of the Many and the Metaphysics of Vagueness_, Ph.D. Dissertation, Birkbeck College, University of London.\[7]
-* Jones, Nicholas J., 2015, “Multiple Constitution“, in _Oxford Studies in Metaphysics 9_, Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 217–261. \[8]
-* Keefe, Rosanna, 2000, _Theories of Vagueness_. Cambridge: Cambridge University Press. \[7]
-* Kripke, Saul, 1982, _Wittgenstein on Rules and Private Language_. Cambridge, MA: Harvard University Press. \[7]
-* Lewis, David, 1983, “New Work for a Theory of Universals,” _Australasian Journal of Philosophy_, 61: 343–77. \[7]
-* Lewis, David, 1984, “Putnam’s Paradox,” _Australasian Journal of Philosophy_, 62: 221–36. \[7]
-* Lewis, David, 1993, “Many, but Almost One,” in _Ontology, Causality and Mind: Essays in Honour of D M Armstrong_, John Bacon (ed.), New York: Cambridge University Press. \[3, 6, 7, 8]
-* Liebesman, David, 2020, “Double-counting and the problem of the many,” _Philosophical Studies_, first online 13 February 2020; doi:10.1007/s11098-020-01428-9 \[6]
-* López de Sa, Dan, 2014, “Lewis vs Lewis on the Problem of the Many,” _Synthese_, 191: 1105–1117. \[6]
-* Lowe, E. J., 1982, “The Paradox of the 1,001 Cats,” _Analysis_, 42: 27–30. \[8]
-* Lowe, E. J., 1995, “The Problem of the Many and the Vagueness of Constitution,” _Analysis_, 55: 179–82. \[8]
-* Marksonian, Ned, 1998, “Brutal Composition,” _Philosophical Studies_, 92: 211–49. \[4]
-* McGee, Vann and Brian McLaughlin, 2000, “The Lessons of the Many,” _Philosophical Topics_, 28: 129–51. \[7]
-* McKinnon, Neil, 2002, “Supervaluations and the Problem of the Many,” _Philosophical Quarterly_, 52: 320–39. \[7]
-* Openshaw, James, 2021, “Thinking about many,” _Synthese_, 199: 2863–2882. \[3]
-* Putnam, Hilary, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press. \[7]
-* Quine, W. V. O., 1960, _Word and Object_, Cambridge, MA: Harvard University Press. \[6, 7]
-* Rettler, Bradley, 2018, “Mereological Nihilism and Puzzles About Material Objects,” _Pacific Philosophical Quarterly_, 99: 842–868. \[2]
-* Russell, Bertrand, 1923, “Vagueness,” _Australasian Journal of Philosophy and Psychology_, 1: 84–92. \[8]
-* Sandgren, Alexander, forthcoming, “Thought and Talk in a Generous World,” _Ergo_. \[3]
-* Sattig, Thomas, 2013, “Vague Objects and the Problem of the Many,” _Metaphysica_, 14: 211–223. \[7]
-* Schiffer, Stephen, 1998, “Two Issues of Vagueness,” _The Monist_, 81: 193–214. \[7]
-* Sorensen, Roy, 2001, _Vagueness and Contradiction_, Oxford: Oxford University Press. \[2, 7]
-* Sorensen, Roy, 2013, “Vagueness,” _The Stanford Encyclopedia of Philosophy_ (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Vagueness (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/vagueness/)>.
-* Sutton, C.S., 2015, “Almost One, Overlap and Function,” _Analysis_, 75: 45–52. \[6]
-* Unger, Peter, 1980, “The Problem of the Many,” _Midwest Studies in Philosophy_, 5: 411–67. \[1, 2, 7]
-* van Inwagen, Peter, 1990, _Material Beings_, Ithaca: Cornell University Press. \[4, 8]
-* Williams, J. Robert G., 2006, “An Argument for the Many,” _Proceedings of the Aristotelian Society_, 106: 411–419. \[7]
-* Weatherson, Brian, 2003a, “Epistemicism, Parasites and Vague Names” _Australasian Journal of Philosophy_, 81(2): 276–279. \[7]
-* Weatherson, Brian, 2003b, “Many Many Problems,” _Philosophical Quarterly_, 53(213): 481–501. \[7]
+* Armstrong, D. M., 1978, *Universals and Scientific Realism*. 2 vols. Cambridge: Cambridge University Press. \[6]
+* Barnes, Elizabeth, 2010, “Ontic Vagueness: A Guide for the Perplexed,” *Noûs*, 44: 601–627. \[8]
+* Dummett, Michael, 1975, “Wang’s Paradox,” *Synthese*, 30: 301–324. \[8]
+* Eklund, Matti, 2002, “Inconsistent Languages,” *Philosophy and Phenomenological Research*, 64: 251–275. \[2, 7]
+* Fine, Kit, 1975, “Vagueness, Truth and Logic,” *Synthese*, 30: 265–300. \[7]
+* Fodor, Jerry, 1987, *Psychosemantics: The Problem of Meaning in the Philosophy of Mind*. Cambridge, MA: MIT Press. \[7]
+* Geach, P. T., 1980, *Reference and Generality*. 3rd edn., Ithaca: Cornell University Press. \[1, 5]
+* Horgan, Terrence, 1993, “On What There Isn’t,” *Philosophy and Phenomenological Research*, 53: 693–700. \[4]
+* Hudson, Hud, 2001, *A Materialist Metaphysics of the Human Person*, Ithaca: Cornell University Press \[1, 2, 3, 4, 5, 6, 7, 8, 9]
+* Johnston, Mark, 1992, “Constitution is Not Identity,” *Mind*, 101: 89–105. \[6, 8]
+* Jones, Nicholas J., 2010, *Too Many Cats: The Problem of the Many and the Metaphysics of Vagueness*, Ph.D. Dissertation, Birkbeck College, University of London.\[7]
+* Jones, Nicholas J., 2015, “Multiple Constitution“, in *Oxford Studies in Metaphysics 9*, Karen Bennett and Dean W. Zimmerman (eds.), Oxford: Oxford University Press, 217–261. \[8]
+* Keefe, Rosanna, 2000, *Theories of Vagueness*. Cambridge: Cambridge University Press. \[7]
+* Kripke, Saul, 1982, *Wittgenstein on Rules and Private Language*. Cambridge, MA: Harvard University Press. \[7]
+* Lewis, David, 1983, “New Work for a Theory of Universals,” *Australasian Journal of Philosophy*, 61: 343–77. \[7]
+* Lewis, David, 1984, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62: 221–36. \[7]
+* Lewis, David, 1993, “Many, but Almost One,” in *Ontology, Causality and Mind: Essays in Honour of D M Armstrong*, John Bacon (ed.), New York: Cambridge University Press. \[3, 6, 7, 8]
+* Liebesman, David, 2020, “Double-counting and the problem of the many,” *Philosophical Studies*, first online 13 February 2020; doi:10.1007/s11098-020-01428-9 \[6]
+* López de Sa, Dan, 2014, “Lewis vs Lewis on the Problem of the Many,” *Synthese*, 191: 1105–1117. \[6]
+* Lowe, E. J., 1982, “The Paradox of the 1,001 Cats,” *Analysis*, 42: 27–30. \[8]
+* Lowe, E. J., 1995, “The Problem of the Many and the Vagueness of Constitution,” *Analysis*, 55: 179–82. \[8]
+* Marksonian, Ned, 1998, “Brutal Composition,” *Philosophical Studies*, 92: 211–49. \[4]
+* McGee, Vann and Brian McLaughlin, 2000, “The Lessons of the Many,” *Philosophical Topics*, 28: 129–51. \[7]
+* McKinnon, Neil, 2002, “Supervaluations and the Problem of the Many,” *Philosophical Quarterly*, 52: 320–39. \[7]
+* Openshaw, James, 2021, “Thinking about many,” *Synthese*, 199: 2863–2882. \[3]
+* Putnam, Hilary, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press. \[7]
+* Quine, W. V. O., 1960, *Word and Object*, Cambridge, MA: Harvard University Press. \[6, 7]
+* Rettler, Bradley, 2018, “Mereological Nihilism and Puzzles About Material Objects,” *Pacific Philosophical Quarterly*, 99: 842–868. \[2]
+* Russell, Bertrand, 1923, “Vagueness,” *Australasian Journal of Philosophy and Psychology*, 1: 84–92. \[8]
+* Sandgren, Alexander, forthcoming, “Thought and Talk in a Generous World,” *Ergo*. \[3]
+* Sattig, Thomas, 2013, “Vague Objects and the Problem of the Many,” *Metaphysica*, 14: 211–223. \[7]
+* Schiffer, Stephen, 1998, “Two Issues of Vagueness,” *The Monist*, 81: 193–214. \[7]
+* Sorensen, Roy, 2001, *Vagueness and Contradiction*, Oxford: Oxford University Press. \[2, 7]
+* Sorensen, Roy, 2013, “Vagueness,” *The Stanford Encyclopedia of Philosophy* (Winter 2013 Edition), Edward N. Zalta (ed.), URL = <[Vagueness (Stanford Encyclopedia of Philosophy/Winter 2013 Edition)](https://plato.stanford.edu/archives/win2013/entries/vagueness/)>.
+* Sutton, C.S., 2015, “Almost One, Overlap and Function,” *Analysis*, 75: 45–52. \[6]
+* Unger, Peter, 1980, “The Problem of the Many,” *Midwest Studies in Philosophy*, 5: 411–67. \[1, 2, 7]
+* van Inwagen, Peter, 1990, *Material Beings*, Ithaca: Cornell University Press. \[4, 8]
+* Williams, J. Robert G., 2006, “An Argument for the Many,” *Proceedings of the Aristotelian Society*, 106: 411–419. \[7]
+* Weatherson, Brian, 2003a, “Epistemicism, Parasites and Vague Names” *Australasian Journal of Philosophy*, 81(2): 276–279. \[7]
+* Weatherson, Brian, 2003b, “Many Many Problems,” *Philosophical Quarterly*, 53(213): 481–501. \[7]
 
 ## Academic Tools
 
@@ -315,4 +314,4 @@ The numbers after each entry refer to the sections to which that book or article
 [dialetheism](https://plato.stanford.edu/entries/dialetheism/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [indexicals](https://plato.stanford.edu/entries/indexicals/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [logic: fuzzy](https://plato.stanford.edu/entries/logic-fuzzy/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [propositional attitude reports](https://plato.stanford.edu/entries/prop-attitude-reports/) | [propositions: singular](https://plato.stanford.edu/entries/propositions-singular/) | [Sorites paradox](https://plato.stanford.edu/entries/sorites-paradox/) | [vagueness](https://plato.stanford.edu/entries/vagueness/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Brian Weatherson](http://brian.weatherson.org/) <[_brian@weatherson.org_](mailto:brian%40weatherson%2eorg)>
+[Brian Weatherson](http://brian.weatherson.org/) <[*brian@weatherson.org*](mailto:brian%40weatherson%2eorg)>

@@ -1,6 +1,6 @@
 # 可能性主义与实在主义辩论 possibilism-actualism debate (Christopher Menzel)
 
-_首次发表于2022年11月28日星期一；实质修订于2024年3月27日星期三。_
+*首次发表于2022年11月28日星期一；实质修订于2024年3月27日星期三。*
 
 实在主义是一种在可能性形而上学中广泛持有的观点，它是对可能性主义论题的回应。为了理解可能性主义的动机，首先考虑到大多数人都会同意事物可能与实际情况不同。例如，没有人曾经独自攀登优胜美地国家公园埃尔卡皮坦的黎明墙路线，考虑到这项壮举所需的超人的体能和心理力量，以及它所带来的巨大风险，任何人都极不可能做到。但是，有人成功地自由攀登了黎明墙，所以自由独攀并非超出人类能力的范畴。\[1] 因此，以下陈述（在此处以略显生硬但明确的逻辑形式表达）是真实的：
 
@@ -36,7 +36,6 @@ _首次发表于2022年11月28日星期一；实质修订于2024年3月27日星�
 似乎是错误的。与（1）不同，似乎我们无法像（3）那样提供（2）的真实条件，以满意的直接方式。\[3]
 
 可能性主义者声称我们可以：我们只需扩大对现实的理解，对最广义上存在的事物，超越实际，超越实际存在的事物，使其也包括仅仅可能的事物。特别是，可能性主义者说，存在着仅仅可能的人，不是实际上的人，但本可以是。因此，对于可能性主义者来说，只要我们承认现实还包括可能性，即实际上并不存在但本可以存在的事物，那么（4）仍然是真实的；这些事物实际上并不存在于我们身边的具体世界中，但本可以存在。实在主义（至少）是否认了可能性主义；成为实在主义者意味着否认存在任何可能性。换句话说，对于实在主义者来说，除了实际存在之外，不存在现实或存在的领域；存在就是存在，存在就是实际存在。在本文中，我们将调查可能性主义者和实在主义者之间辩论的起源和性质。
- 
 
 ***
 
@@ -252,7 +251,7 @@ A!τ=dfC!τ∨□¬C!τ，对于任何术语τ
 
 “SQML”是“最简单的量化模态逻辑”的缩写，之所以这样称呼它，是因为它是最流行且语义最简单的命题模态逻辑 S5 和经典的一阶逻辑（带有恒等性）-简称 FOL 的直接融合。\[37]相应地，SQML 的演绎系统是相应的演绎系统 S5 和 FOL 的融合。\[38] S5 建立在经典命题逻辑-简称 PL-的基础上，其演绎系统 PL 将以下模式的每个实例作为其公理，并采用 Modus Ponens 作为推理规则：
 
-* _命题公理模式_ **P1**: φ→(ψ→φ) **P2**: (φ→(ψ→θ))→((φ→ψ)→(φ→θ)) **P3**: (φ→ψ)→((φ→¬ψ)→¬φ)
+* *命题公理模式* **P1**: φ→(ψ→φ) **P2**: (φ→(ψ→θ))→((φ→ψ)→(φ→θ)) **P3**: (φ→ψ)→((φ→¬ψ)→¬φ)
 *
 * 推理规则\* **MP**: ψ从φ和φ→ψ推导出来
 
@@ -297,7 +296,7 @@ K 是我们将在此处调查的所有模态逻辑的基本原则：如果一个
 
 通过添加 FOL 的量化和恒等公理以及 S5 的推理规则，我们得到了完整的 SQML 演绎系统：
 
-* _量化公理模式_ **Q1**: ∀ν(φ→ψ)→(∀νφ→∀νψ) **Q2**: ∀νφ→φντ，其中τ是一个可以替代φ中的ν的术语，而φντ是将φ中的每个自由出现的ν替换为τ的结果\[ 41] Q3： φ→∀νφ，如果φ中没有自由出现的ν。
+* *量化公理模式* **Q1**: ∀ν(φ→ψ)→(∀νφ→∀νψ) **Q2**: ∀νφ→φντ，其中τ是一个可以替代φ中的ν的术语，而φντ是将φ中的每个自由出现的ν替换为τ的结果\[ 41] Q3： φ→∀νφ，如果φ中没有自由出现的ν。
 *
 * 身份公理模式\* **Id1**: ν=ν **Id2**: ν=ν′→(φ→φ′), 其中ν′可以替代φ中的ν，φ′是将φ中的一些或所有自由出现的ν替换为ν′的结果
 *
@@ -443,15 +442,15 @@ BF\*：
 | 1.  | ∀x□¬Bx→□¬Bx      | **Q2**                                                                                                                                                        |
 | --- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2.  | □(∀x□¬Bx→□¬Bx)   | 1,**Nec**                                                                                                                                                     |
-| 3.  | ◊∀x□¬Bx→◊□¬Bx    | 2,_K_\[[54](https://plato.stanford.edu/entries/possibilism-actualism/notes.html#note-54)]                                                                     |
+| 3.  | ◊∀x□¬Bx→◊□¬Bx    | 2,*K*\[[54](https://plato.stanford.edu/entries/possibilism-actualism/notes.html#note-54)]                                                                     |
 | 4.  | ◊□¬Bx→¬Bx        | \*\*[B](https://plato.stanford.edu/entries/possibilism-actualism/#ModalEquivs)\*\*​[◊](https://plato.stanford.edu/entries/possibilism-actualism/#ModalEquivs) |
-| 5.  | ◊∀x□¬Bx→¬Bx      | 3, 4,_PL_                                                                                                                                                     |
+| 5.  | ◊∀x□¬Bx→¬Bx      | 3, 4,*PL*                                                                                                                                                     |
 | 6.  | ∀x(◊∀x□¬Bx→¬Bx)  | 5,**Gen**                                                                                                                                                     |
 | 7.  | ◊∀x□¬Bx→∀x¬Bx    | 6，Q1，Q3 和 PL\[ 55]                                                                                                                                            |
 | 8.  | □(◊∀x□¬Bx→∀x¬Bx) | 7,**Nec**                                                                                                                                                     |
 | 9.  | □◊∀x□¬Bx→□∀x¬Bx  | 8,**K**and**MP**                                                                                                                                              |
 | 10. | ∀x□¬Bx→□◊∀x□¬Bx  | **B**                                                                                                                                                         |
-| 11. | ∀x□¬Bx→□∀x¬Bx    | 9, 10,_PL_                                                                                                                                                    |
+| 11. | ∀x□¬Bx→□∀x¬Bx    | 9, 10,*PL*                                                                                                                                                    |
 | 12. | ◊∃xBx→∃x◊Bx      | 11, ∃**Def**, ◊**Def**, and_PL_                                                                                                                               |
 
 然而，在KQML中，这个证明甚至无法开始！因为普遍实例化模式Q2在KQML中是无效的。以第1行的特定实例来看，假设在给定的Kripke解释K中，对于所有x，□¬Bx在（即在K的“实际世界”中）是真的。然后，根据Kripke语义中关于世界上真值定义的量化子句，K的“实际世界”w∗中存在的一切都不在W中任何世界u的B的扩展中，即对于所有a∈dom(w∗)和所有u∈W，a∉BKu。然而，请记住，分配给x的值xK可以是K的个体集合D中的任何东西；特别是，xK可能不存在于w∗中，因此可能在K的其他世界的B的扩展中，这种情况下，□¬Bx在K中将为假。\[56]
@@ -518,7 +517,7 @@ CBF□：
 
 | 1. | ∀y¬x=y→¬x=x | **Q2**            |
 | -- | ----------- | ----------------- |
-| 2. | x=x→∃yx=y   | 1, ∃**Def**,_PL_  |
+| 2. | x=x→∃yx=y   | 1, ∃**Def**,*PL*  |
 | 3. | x=x         | **Id1**           |
 | 4. | ∃yx=y       | 2, 3,**MP**       |
 | 5. | □∃yx=y      | 4,**Nec**         |
@@ -528,7 +527,7 @@ CBF□：
 
 | 1. | ∀x(∀y¬x=y→¬x=x) | **KQ2**          |
 | -- | --------------- | ---------------- |
-| 2. | ∀x(x=x→∃yx=y)   | 1, ∃**Def**,_PL_ |
+| 2. | ∀x(x=x→∃yx=y)   | 1, ∃**Def**,*PL* |
 | 3. | ∀xx=x→∀x∃yx=y   | 2,**Q1**,**MP**  |
 | 4. | ∀xx=x           | **Id1**,**Gen**  |
 | 5. | ∀x∃yx=y         | 3, 4,**MP**      |
@@ -556,10 +555,10 @@ CBF□：
 
 克里普基在这里的解决方案 - 再次借鉴奎因（Quine）（1951 年） - 抛弃了 Gen 和 Nec，并巧妙地将两个规则的期望效果直接纳入他的演绎系统的逻辑公理的规范中 - 当然，我们将其称为 KQML。为了清楚地表达解决方案，假设一个公式是封闭的，如果它不包含任何自由变量的出现，并将一个公式φ的闭包定义为通过在φ之前添加（可能为空的）一串全称量词和必然运算符的任意顺序而得到的任何封闭公式。然后，给定一个没有任何个体常量的语言 L□，KQML 的任何实例的任何闭包都是一个公理：
 
-* _命题公理模式_ Taut: φ，其中φ是一个命题重言式\[62]
+* *命题公理模式* Taut: φ，其中φ是一个命题重言式\[62]
 *
 * 模态公理模式\* K，T 和 5
-* _量化公理模式_ Q1, KQ2, 和 Q3
+* *量化公理模式* Q1, KQ2, 和 Q3
 *
 * 身份模式\* [**Id1**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas), [**Id2**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas)
 
@@ -660,7 +659,7 @@ Plantinga 的 haecceitist 语义学显然不是这种类型的。特别要注意
 
 □φ=dfSφ∧■φ
 
-_必要稳定性的公理模式_
+*必要稳定性的公理模式*
 
 Prior 关于 n-稳定性的第一个公理是，如果一个陈述φ可以完全具备某个属性，那么它就不可能缺乏这个属性；换句话说，如果φ所表达的命题可以必然存在，那么它就必然存在：
 
@@ -700,8 +699,8 @@ Sτ1…τn→Sφ，其中τ1,…,τn 是在φ中自由的所有术语
 
 鉴于 S 的公理，我们可以布置 Prior 的系统 Q 的其余部分。对于其非模态基础，Q 将每个命题重言式（不仅仅是它的闭包，如 KQML 中所示）视为公理，并遵循 SQML 采用标准的经典量化和恒等性公理。然而，系统本身的非模态片段并不完全是经典的。由于我们将在下面讨论的原因，它包括了一种修改版的演绎法则，使得一些经典的一阶有效性无法被证明。
 
-* _命题公理模式_ [**Taut**](https://plato.stanford.edu/entries/possibilism-actualism/#KQML)
-* _量词公理模式_ Q1，Q2 和 Q3
+* *命题公理模式* [**Taut**](https://plato.stanford.edu/entries/possibilism-actualism/#KQML)
+* *量词公理模式* Q1，Q2 和 Q3
 *
 * 身份公理模式\* Id1，Id2
 *
@@ -929,13 +928,13 @@ E!φ→(□φ↔¬◊¬φ)
 
 MSA 的影响在亚当斯逻辑的模态命题基础中回响。回想一下，真实性/真实性区别似乎恢复了像普赖尔那样的单一逻辑真理的必要性，如果一个逻辑学家是一个逻辑学家，Lp→Lp。然而，加入 MSA 后，很快就会导致必然主义，因为可以在没有任何**E!** A 实例的情况下推理出普赖尔的存在，E!p：
 
-| 1. | Lp→Lp        | _PL_         |
+| 1. | Lp→Lp        | *PL*         |
 | -- | ------------ | ------------ |
 | 2. | □(Lp→Lp)     | 1,**Nec**\*  |
 | 3. | □(Lp→Lp)→E!p | **MSA**      |
 | 4. | E!p          | 2,3,**MP**   |
 | 5. | □E!p         | 4,**Nec**\*  |
-| 6. | □∀x□E!x      | 5，Gen _，Nec_ |
+| 6. | □∀x□E!x      | 5，Gen *，Nec* |
 
 显然，正如亚当斯（1981: 30）所指出的，对必要性（超出 Nec _）的“适当限制”是必要的。亚当斯本人没有具体说明，但很明显它必须是什么。像 Lp→Lp 这样的单一逻辑真理确实在所有世界上都是真实的，因此是必要的，但只是有条件的；因为根据 MSA，在没有普赖尔的世界上，□(Lp→Lp)是假的。更一般地说，正如必要性和不可能性假言只在存在的命题的世界上成立一样，命题在一个世界上的必要性只对存在的命题成立。因此，Nec_需要类似于□◊A 的限定：
 
@@ -945,7 +944,7 @@ E!ψ→□ψ遵循自ψ，只要ψ在没有任何实例**E!** A 的情况下是�
 
 Lp→Lp 现在仍然可以被证明为必要的：
 
-| 1. | Lp→Lp        | _PL_           |
+| 1. | Lp→Lp        | *PL*           |
 | -- | ------------ | -------------- |
 | 2. | E!p→□(Lp→Lp) | 1,**Nec**​_A_  |
 | 3. | E!p          | \*\*E!\*\*​_A_ |
@@ -985,11 +984,11 @@ Lp→Lp 现在仍然可以被证明为必要的：
 
 总结一下，亚当斯在世界中的真理和在世界上的真理之间的区别激发了一些直观的语义原则，当形式化时，产生了一个“透视主义者”模态逻辑 A：
 
-* [_命题公理模式_](https://plato.stanford.edu/entries/possibilism-actualism/#PropSchemas) P1，P2，P2
+* [*命题公理模式*](https://plato.stanford.edu/entries/possibilism-actualism/#PropSchemas) P1，P2，P2
 *
 * 模态公理模式\* [**K**](https://plato.stanford.edu/entries/possibilism-actualism/#ModalSchemas), [**T**](https://plato.stanford.edu/entries/possibilism-actualism/#ModalSchemas), **5**​_A_, □◊A
-* _严肃实在主义公理模式_ [**GSA**](https://plato.stanford.edu/entries/possibilism-actualism/#GSA), [**MSA**](https://plato.stanford.edu/entries/possibilism-actualism/#MSA)
-* _量化公理模式_ [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
+* *严肃实在主义公理模式* [**GSA**](https://plato.stanford.edu/entries/possibilism-actualism/#GSA), [**MSA**](https://plato.stanford.edu/entries/possibilism-actualism/#MSA)
+* *量化公理模式* [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
 *
 * 存在性公理模式\* [**E!**](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)​\*[A](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)\*
 *
@@ -1009,210 +1008,210 @@ Lp→Lp 现在仍然可以被证明为必要的：
 
 在实际世界中保持这种固定观点的逻辑含义非常重大。首先，它削弱了对 MSA 的动机，以及对原则□◊、4、B、5 和必要性规则 Nec_有效性的论证。因此，所有这些都可以在不需要□◊A、4A、BA、5A 和 NecA 的存在限制的情况下接受。用未经限制的原则和规则 Nec_替代它们，结果就是可以称之为完全观点主义模态逻辑 A\*的严格实在主义者，它恢复了 Prior 的 Q 中丢失的一切，并且没有 Kripke 的 KQML 的表达限制。
 
-* [_Propositional Axiom Schemas_](https://plato.stanford.edu/entries/possibilism-actualism/#PropSchemas)\
+* [*Propositional Axiom Schemas*](https://plato.stanford.edu/entries/possibilism-actualism/#PropSchemas)\
   **P1**, **P2**, **P2**
-* _Modal Axiom Schemas_\
+* *Modal Axiom Schemas*\
   [**K**](https://plato.stanford.edu/entries/possibilism-actualism/#ModalSchemas), [**T**](https://plato.stanford.edu/entries/possibilism-actualism/#ModalSchemas), **5**, □◊
-* _Serious Actualist Axiom Schema_\
+* *Serious Actualist Axiom Schema*\
   [**GSA**](https://plato.stanford.edu/entries/possibilism-actualism/#GSA)
-* _Quantificational Axiom Schemas_\
+* *Quantificational Axiom Schemas*\
   [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
-* _Existence Axiom Schema_\
-  [__E!___A_](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)
-* _Identity Axiom Schemas_\
+* *Existence Axiom Schema*\
+  [__E!__*A*](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)
+* *Identity Axiom Schemas*\
   [**∀Id1**](https://plato.stanford.edu/entries/possibilism-actualism/#GenId1), [**Id2**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas)
-* _Rules of Inference_\
+* *Rules of Inference*\
   **MP**, **Gen**, [**Nec**_](https://plato.stanford.edu/entries/possibilism-actualism/#Necz)
 
-_A_\* (under the name “_A_”) is proved sound and complete in Menzel 1991.
+*A*\* (under the name “*A*”) is proved sound and complete in Menzel 1991.
 
 ## Bibliography
 
-* Adams, Marilyn McCord, 1977, “Ockham’s Nominalism and Unreal Entities”, _The Philosophical Review_, 86(2): 144–176. doi:10.2307/2184004
-* –––, 1987, _William Ockham_, (Publications in Medieval Studies / Medieval Institute, University of Notre Dame 26), Notre Dame, IN: University of Notre Dame Press.
-* Adams, Robert Merrihew, 1974 \[1979], “Theories of Actuality”, _Noûs_, 8(3): 211–231. Reprinted in Loux 1979: 190–209. doi:10.2307/2214751
-* –––, 1981, “Actualism and Thisness”, _Synthese_, 49(1): 3–41. doi:10.1007/BF01063914
-* –––, 1994, _Leibniz: Determinist, Theist, Idealist_, New York: Oxford University Press.
-* Avicenna, 1926, _Avicennae Metaphysices Compendium_, Nematallah Carame (ed.), Rome: Pont. Institutum Orientalium Studiorum.
-* Baldwin, Thomas, 2017, “Russell on Modality”, in _The Actual and the Possible: Modality and Metaphysics in Modern Philosophy_, Mark Sinclair (ed.), Oxford: Oxford University Press, 136–169.
-* Barcan, Ruth C., 1946, “A Functional Calculus of First Order Based on Strict Implication”, _Journal of Symbolic Logic_, 11(1): 1–16. doi:10.2307/2269159
-* Bayart, Arnould, 1958, “La Correction de la logique modale du premier et du second ordre S5”, _Logique et Analyse_, 1: 28–45. Translated in Cresswell 2015: 95–110.
-* –––,1959, “Quasi-adéquation de la logique modale de second ordre S5 et adéquation de la logique modale de premier ordre S5”, _Logique et Analyse_, 2: 99–121. Translated in Cresswell 2015: 115–132.
-* Bennett, Karen, 2005, “Two Axes of Actualism”, _The Philosophical Review_, 114(3): 297–326. doi:10.1215/00318108-114-3-297
-* –––, 2006, “Proxy ‘Actualism’ \*”, _Philosophical Studies_, 129(2): 263–294. doi:10.1007/s11098-004-1641-2
-* Bergmann, Michael, 1996, “A New Argument from Actualism to Serious Actualism”, _Noûs_, 30(3): 356–359. doi:10.2307/2216274
-* –––, 1999, “(Serious) Actualism and (Serious) Presentism”, _Noûs_, 33(1): 118–132. doi:10.1111/0029-4624.00145
-* Berto, Francesco, 2013, _Existence as a Real Property: The Ontology of Meinongianism_, (Synthese Library 356), Dordrecht: Springer Verlag. doi:10.1007/978-94-007-4207-9
-* Boethius, \[ILI], _In Librum de Interpretatione Editio Secunda_ (Second Commentary on Aristotle’s “On Interpretation”), published in _Patrologia Latina_, volume 64, Jacques-Paul Migne (ed.), 1847.
-* Bolzano, Bernard, 1837 \[2014], _Wissenschaftslehre_, 4 volumes, Sulzbach: J. E. v. Seidel. Translated as _Theory of Science_, 4 volumes, Paul Rusnock and Rolf George (trans.), Oxford: Oxford University Press, 2014.
-* Bricker, Phillip, 2001, “Island Universes and the Analysis of Modality”, in _Reality and Humean Supervenience: Essays on the Philosophy of David Lewis_, Gerhard Preyer and Frank Siebelt (eds.), Lanham, MD: Rowman & Littlefield, 27–85.
-* –––, 2006, “Absolute Actuality and the Plurality of Worlds”, _Philosophical Perspectives_, 20: 41–76. doi:10.1111/j.1520-8583.2006.00102.x
-* Bringsjord, Selmer, 1985, “Are There Set Theoretic Possible Worlds?”, _Analysis_, 45(1): 64–64. doi:10.1093/analys/45.1.64
-* Brown, Deborah J., 2008, “Descartes on True and False Ideas”, in _A Companion to Descartes_, Janet Broughton and John Carriero (eds.), Malden, MA/Oxford: Blackwell, 196–215. doi:10.1002/9780470696439.ch12
-* Cameron, Ross P., 2012, “Why Lewis’s Analysis of Modality Succeeds in Its Reductive Ambitions.”, _Philosophers_’ _Imprint_, 12: article 8. \[[Cameron 2012 available online](https://urldefense.com/v3/\\http:/hdl.handle.net/2027/spo.3521354.0012.008\\;!!KwNVnqRv!CEPK2vypiyUW4UnZOy\wZ0RrmMuMsruYA8c8-fujFa9glZ8JwplXbgXmXMac6bq8azhjtxRa4CL7kgDFH8TE6AdN$)]
-* –––, 2016, “On Characterizing the Presentism/Eternalism and Actualism/Possibilism Debates”, _Analytic Philosophy_, 57(2): 110–140. doi:10.1111/phib.12083
-* Caplan, Ben, 2007, “A New Defence of the Modal Existence Requirement”, _Synthese_, 154(2): 335–343. doi:10.1007/s11229-005-3491-7
-* Carnap, Rudolf, 1946, “Modalities and Quantification”, _Journal of Symbolic Logic_, 11(2): 33–64. doi:10.2307/2268610
-* –––, 1947, _Meaning and Necessity: A Study in Semantics and Modal Logic_, Chicago, IL: University of Chicago Press.
-* Castañeda, Hector-Neri, 1975, “Individuation and Non-Identity: A New Look,” _American Philosophical Quarterly_, 12(2): 131–140.
-* Caston, Victor, 1999, “Something and Nothing: The Stoics on Concepts and Universals”, in _Oxford Studies in Ancient Philosophy, Volume XVII_, David Sedley (ed.), Oxford: Oxford University Press, 145–213.
-* Chihara, Charles S., 1998, _The Worlds of Possibility: Modal Realism and the Semantics of Modal Logic_, Oxford: Clarendon Press.
-* –––, 1971, “States of Affairs Again”, _Noûs_, 5(2): 179–189. doi:10.2307/2214730
-* –––, 1973, “Beyond Being and Nonbeing”, _Philosophical Studies_, 24(4): 245–257. doi:10.1007/BF00356489
-* –––, 1981, _The First Person: an Essay on Reference and Intentionality_, Minneapolis, MN: University of Minnesota Press.
-* Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, _Journal of Philosophical Logic_, 31(2): 99–137. doi:10.1023/A:1015273407895
-* –––, 2006, “Meredith, Prior, and the History of Possible Worlds Semantics”, _Synthese_, 150(3): 373–397. doi:10.1007/s11229-005-5514-9
-* Correia, Fabrice, 1999, “Adequacy Results for Some Priorean Modal Propositional Logics”, _Notre Dame Journal of Formal Logic_, 40(2): 236–249. doi:10.1305/ndjfl/1038949539
-* Coxon, A. H., 2009, _The Fragments of Parmenides: A Critical Text with Introduction and Translation, the Ancient “Testimonia” and a Commentary_, Revised and Expanded Edition, Las Vegas, NV: Parmenides Publishing.
-* Cresswell, M. J., 2015, “Arnould Bayart’s Modal Completeness Theorems: Translated with an Introduction and Commentary”, _Logique et Analyse_, 229: 89–142. doi:10.2143/LEA.229.0.3089909
-* Cottrell, Jonathan David, 2018, “Hume on Mental Representation and Intentionality”, _Philosophy Compass_, 13(7): e12505. doi:10.1111/phc3.12505
-* Cunning, David, 2018, “Descartes’ Modal Metaphysics”, _The Stanford Encyclopedia of Philosophy_ (Spring 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2018/entries/descartes-modal](https://plato.stanford.edu/archives/spr2018/entries/descartes-modal).
-* Curtis, Benjamin L. and Harold W. Noonan, 2021, “Critical Note on Williamson: A Defence of the Actualism-possibilism Debate”, _The Philosophical Forum_, 52(1): 91–96. doi:10.1111/phil.12283
-* de Harven, Vanessa, 2015, “How Nothing Can Be Something: The Stoic Theory of Void”, _Ancient Philosophy_, 35(2): 405–429. doi:10.5840/ancientphil201535229
-* De Rijk, L. M., 2005, “The ‘Epistemological Turn’ around 1270”, in _Giraldus Odonis O.F.M., Opera Philosophica, Volume Two: De Intentionibus_, L. M. De Rijk (ed.), Leiden: Brill, 80–112.
-* –––, 2009b, “Possible Worlds II: Non-Reductive Theories of Possible Worlds”, _Philosophy Compass_, 4(6): 1009–1021. doi:10.1111/j.1747-9991.2009.00250.x
-* Deutsch, Harry, 1990, “Contingency and Modal Logic”, _Philosophical Studies_, 60(1–2): 89–102. doi:10.1007/BF00370979
-* –––, 1994, “Logic for Contingent Beings”:, _Journal of Philosophical Research_, 19: 273–329. doi:10.5840/jpr\_1994\_6
-* Doyle, John P., 1967, “Suarez on the Reality of the Possibles”, _The Modern Schoolman_, 45(1): 29–48. doi:10.5840/schoolman19674512
-* Einheuser, Iris, 2012, “Inner and Outer Truth”, _Philosophers_’ _Imprint_, 12(10): 1–22.
+* Adams, Marilyn McCord, 1977, “Ockham’s Nominalism and Unreal Entities”, *The Philosophical Review*, 86(2): 144–176. doi:10.2307/2184004
+* –––, 1987, *William Ockham*, (Publications in Medieval Studies / Medieval Institute, University of Notre Dame 26), Notre Dame, IN: University of Notre Dame Press.
+* Adams, Robert Merrihew, 1974 \[1979], “Theories of Actuality”, *Noûs*, 8(3): 211–231. Reprinted in Loux 1979: 190–209. doi:10.2307/2214751
+* –––, 1981, “Actualism and Thisness”, *Synthese*, 49(1): 3–41. doi:10.1007/BF01063914
+* –––, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press.
+* Avicenna, 1926, *Avicennae Metaphysices Compendium*, Nematallah Carame (ed.), Rome: Pont. Institutum Orientalium Studiorum.
+* Baldwin, Thomas, 2017, “Russell on Modality”, in *The Actual and the Possible: Modality and Metaphysics in Modern Philosophy*, Mark Sinclair (ed.), Oxford: Oxford University Press, 136–169.
+* Barcan, Ruth C., 1946, “A Functional Calculus of First Order Based on Strict Implication”, *Journal of Symbolic Logic*, 11(1): 1–16. doi:10.2307/2269159
+* Bayart, Arnould, 1958, “La Correction de la logique modale du premier et du second ordre S5”, *Logique et Analyse*, 1: 28–45. Translated in Cresswell 2015: 95–110.
+* –––,1959, “Quasi-adéquation de la logique modale de second ordre S5 et adéquation de la logique modale de premier ordre S5”, *Logique et Analyse*, 2: 99–121. Translated in Cresswell 2015: 115–132.
+* Bennett, Karen, 2005, “Two Axes of Actualism”, *The Philosophical Review*, 114(3): 297–326. doi:10.1215/00318108-114-3-297
+* –––, 2006, “Proxy ‘Actualism’ \*”, *Philosophical Studies*, 129(2): 263–294. doi:10.1007/s11098-004-1641-2
+* Bergmann, Michael, 1996, “A New Argument from Actualism to Serious Actualism”, *Noûs*, 30(3): 356–359. doi:10.2307/2216274
+* –––, 1999, “(Serious) Actualism and (Serious) Presentism”, *Noûs*, 33(1): 118–132. doi:10.1111/0029-4624.00145
+* Berto, Francesco, 2013, *Existence as a Real Property: The Ontology of Meinongianism*, (Synthese Library 356), Dordrecht: Springer Verlag. doi:10.1007/978-94-007-4207-9
+* Boethius, \[ILI], *In Librum de Interpretatione Editio Secunda* (Second Commentary on Aristotle’s “On Interpretation”), published in *Patrologia Latina*, volume 64, Jacques-Paul Migne (ed.), 1847.
+* Bolzano, Bernard, 1837 \[2014], *Wissenschaftslehre*, 4 volumes, Sulzbach: J. E. v. Seidel. Translated as *Theory of Science*, 4 volumes, Paul Rusnock and Rolf George (trans.), Oxford: Oxford University Press, 2014.
+* Bricker, Phillip, 2001, “Island Universes and the Analysis of Modality”, in *Reality and Humean Supervenience: Essays on the Philosophy of David Lewis*, Gerhard Preyer and Frank Siebelt (eds.), Lanham, MD: Rowman & Littlefield, 27–85.
+* –––, 2006, “Absolute Actuality and the Plurality of Worlds”, *Philosophical Perspectives*, 20: 41–76. doi:10.1111/j.1520-8583.2006.00102.x
+* Bringsjord, Selmer, 1985, “Are There Set Theoretic Possible Worlds?”, *Analysis*, 45(1): 64–64. doi:10.1093/analys/45.1.64
+* Brown, Deborah J., 2008, “Descartes on True and False Ideas”, in *A Companion to Descartes*, Janet Broughton and John Carriero (eds.), Malden, MA/Oxford: Blackwell, 196–215. doi:10.1002/9780470696439.ch12
+* Cameron, Ross P., 2012, “Why Lewis’s Analysis of Modality Succeeds in Its Reductive Ambitions.”, *Philosophers*’ *Imprint*, 12: article 8. \[[Cameron 2012 available online](https://urldefense.com/v3/\\http:/hdl.handle.net/2027/spo.3521354.0012.008\\;!!KwNVnqRv!CEPK2vypiyUW4UnZOy\wZ0RrmMuMsruYA8c8-fujFa9glZ8JwplXbgXmXMac6bq8azhjtxRa4CL7kgDFH8TE6AdN$)]
+* –––, 2016, “On Characterizing the Presentism/Eternalism and Actualism/Possibilism Debates”, *Analytic Philosophy*, 57(2): 110–140. doi:10.1111/phib.12083
+* Caplan, Ben, 2007, “A New Defence of the Modal Existence Requirement”, *Synthese*, 154(2): 335–343. doi:10.1007/s11229-005-3491-7
+* Carnap, Rudolf, 1946, “Modalities and Quantification”, *Journal of Symbolic Logic*, 11(2): 33–64. doi:10.2307/2268610
+* –––, 1947, *Meaning and Necessity: A Study in Semantics and Modal Logic*, Chicago, IL: University of Chicago Press.
+* Castañeda, Hector-Neri, 1975, “Individuation and Non-Identity: A New Look,” *American Philosophical Quarterly*, 12(2): 131–140.
+* Caston, Victor, 1999, “Something and Nothing: The Stoics on Concepts and Universals”, in *Oxford Studies in Ancient Philosophy, Volume XVII*, David Sedley (ed.), Oxford: Oxford University Press, 145–213.
+* Chihara, Charles S., 1998, *The Worlds of Possibility: Modal Realism and the Semantics of Modal Logic*, Oxford: Clarendon Press.
+* –––, 1971, “States of Affairs Again”, *Noûs*, 5(2): 179–189. doi:10.2307/2214730
+* –––, 1973, “Beyond Being and Nonbeing”, *Philosophical Studies*, 24(4): 245–257. doi:10.1007/BF00356489
+* –––, 1981, *The First Person: an Essay on Reference and Intentionality*, Minneapolis, MN: University of Minnesota Press.
+* Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, *Journal of Philosophical Logic*, 31(2): 99–137. doi:10.1023/A:1015273407895
+* –––, 2006, “Meredith, Prior, and the History of Possible Worlds Semantics”, *Synthese*, 150(3): 373–397. doi:10.1007/s11229-005-5514-9
+* Correia, Fabrice, 1999, “Adequacy Results for Some Priorean Modal Propositional Logics”, *Notre Dame Journal of Formal Logic*, 40(2): 236–249. doi:10.1305/ndjfl/1038949539
+* Coxon, A. H., 2009, *The Fragments of Parmenides: A Critical Text with Introduction and Translation, the Ancient “Testimonia” and a Commentary*, Revised and Expanded Edition, Las Vegas, NV: Parmenides Publishing.
+* Cresswell, M. J., 2015, “Arnould Bayart’s Modal Completeness Theorems: Translated with an Introduction and Commentary”, *Logique et Analyse*, 229: 89–142. doi:10.2143/LEA.229.0.3089909
+* Cottrell, Jonathan David, 2018, “Hume on Mental Representation and Intentionality”, *Philosophy Compass*, 13(7): e12505. doi:10.1111/phc3.12505
+* Cunning, David, 2018, “Descartes’ Modal Metaphysics”, *The Stanford Encyclopedia of Philosophy* (Spring 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2018/entries/descartes-modal](https://plato.stanford.edu/archives/spr2018/entries/descartes-modal).
+* Curtis, Benjamin L. and Harold W. Noonan, 2021, “Critical Note on Williamson: A Defence of the Actualism-possibilism Debate”, *The Philosophical Forum*, 52(1): 91–96. doi:10.1111/phil.12283
+* de Harven, Vanessa, 2015, “How Nothing Can Be Something: The Stoic Theory of Void”, *Ancient Philosophy*, 35(2): 405–429. doi:10.5840/ancientphil201535229
+* De Rijk, L. M., 2005, “The ‘Epistemological Turn’ around 1270”, in *Giraldus Odonis O.F.M., Opera Philosophica, Volume Two: De Intentionibus*, L. M. De Rijk (ed.), Leiden: Brill, 80–112.
+* –––, 2009b, “Possible Worlds II: Non-Reductive Theories of Possible Worlds”, *Philosophy Compass*, 4(6): 1009–1021. doi:10.1111/j.1747-9991.2009.00250.x
+* Deutsch, Harry, 1990, “Contingency and Modal Logic”, *Philosophical Studies*, 60(1–2): 89–102. doi:10.1007/BF00370979
+* –––, 1994, “Logic for Contingent Beings”:, *Journal of Philosophical Research*, 19: 273–329. doi:10.5840/jpr\_1994\_6
+* Doyle, John P., 1967, “Suarez on the Reality of the Possibles”, *The Modern Schoolman*, 45(1): 29–48. doi:10.5840/schoolman19674512
+* Einheuser, Iris, 2012, “Inner and Outer Truth”, *Philosophers*’ *Imprint*, 12(10): 1–22.
 * Fine, Kit, 1977, “Prior on the Construction of Possible Worlds and Instants”, postscript to Prior and Fine 1977: 116–161. Reprinted in Fine 2005: ch. 4.
-* –––, 1978, “Model Theory for Modal Logic Part I: The _De Re/De Dicto_ Distinction”, _Journal of Philosophical Logic_, 7(1): 125–156. doi:10.1007/BF00245925
+* –––, 1978, “Model Theory for Modal Logic Part I: The *De Re/De Dicto* Distinction”, *Journal of Philosophical Logic*, 7(1): 125–156. doi:10.1007/BF00245925
 * –––, 1985, “Plantinga on the Reduction of Possibilist Discourse”, in Tomberlin and van Inwagen 1985: 145–186. doi:10.1007/978-94-009-5223-2\_4
-* –––, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, _Philosophical Perspectives_, 8: 1–16. doi:10.2307/2214160
+* –––, 1994, “Essence and Modality: The Second Philosophical Perspectives Lecture”, *Philosophical Perspectives*, 8: 1–16. doi:10.2307/2214160
 * –––, 1995a, “Senses of Essence,” in Sinnott-Armstrong, Raffman, and Asher 1995: 53–73.
-* –––, 1995b, “The Logic of Essence”, _Journal of Philosophical Logic_, 24(3): 241–273. doi:10.1007/BF01344203
-* –––, 2005, _Modality and Tense: Philosophical Papers_, Oxford: Clarendon Press. doi:10.1093/0199278709.001.0001
-* Fitch, G. W., 1996, “In Defense of Aristotelian Actualism”, _Philosophical Perspectives_, 10: 53–71. doi:10.2307/2216236
-* Fitting, Melvin and Richard L. Mendelsohn, 1998, _First-Order Modal Logic_, (Synthese Library, 277), Dordrecht/Boston, MA: Kluwer Academic.
-* Forbes, Graeme, 1985, _The Metaphysics of Modality_, (Clarendon Library of Logic and Philosophy), Oxford: Clarendon Press.
-* Garson, James W., 1984, “Quantification in Modal Logic”, in _Handbook of Philosophical Logic, Volume II: Extensions of Classical Logic_, D. Gabbay and F. Guenthner (eds.), Dordrecht: D. Reidel, 249–307. doi:10.1007/978-94-009-6259-0\_5
-* Giles of Rome, _Theoremata de Esse et Essentia_, likely written sometime between 1277 and 1285. Translated as _Theorems on Existence and Essence_, Michael V. Murray (trans.), (Mediaeval Philosophical Texts in Translation 7), Milwaukee, WI: Marquette University Press, 1952.
-* Grim, Patrick, 1984, “There Is No Set of All Truths”, _Analysis_, 44(4): 206–208. doi:10.1093/analys/44.4.206
-* –––, 1986, “On Sets and Worlds: A Reply to Menzel”, _Analysis_, 46(4): 186–191. doi:10.1093/analys/46.4.186
-* Hanson, William H., 2018, “Actualism, Serious Actualism, and Quantified Modal Logic”, _Notre Dame Journal of Formal Logic_, 59(2): 233–284. doi:10.1215/00294527-2017-0022
-* Hazen, Allen, 1976, “Expressive Completeness in Modal Language”, _Journal of Philosophical Logic_, 5(1): 25–46. doi:10.1007/BF00263656
-* –––, 1979, “Counterpart-Theoretic Semantics for Modal Logic”, _The Journal of Philosophy_, 76(6): 319–338. doi:10.2307/2025472
-* Hintikka, Jaakko, 1957, “Modality as referential multiplicity”, _Ajatus_, 20: 49–64.
-* –––, 1961, “Modality and Quantification”, _Theoria_, 27(3): 119–128. doi:10.1111/j.1755-2567.1961.tb00020.x
-* Hodes, Harold, 1984, “On Modal Logics Which Enrich First-Order S5”, _Journal of Philosophical Logic_, 13(4): 423–454. doi:10.1007/BF00247714
-* Hodges, Wilfrid, 1986, “Truth in a Structure”, _Proceedings of the Aristotelian Society_, 86(1): 135–152. doi:10.1093/aristotelian/86.1.135
-* Hoffmann, Aviv, 2003, “A Puzzle about Truth and Singular Propositions”, _Mind_, 112(448): 635–651. doi:10.1093/mind/112.448.635
-* Hudson, Hud, 1997, “On a New Argument from Actualism to Serious Actualism”, _Noûs_, 31(4): 520–524. doi:10.1111/0029-4624.00059
-* Hughes, G. E. and M. J. Cresswell, 1996, _A New Introduction to Modal Logic_, London/New York: Routledge.
-* Jacinto, Bruno, 2019, “Serious Actualism and Higher-Order Predication”, _Journal of Philosophical Logic_, 48(3): 471–499. doi:10.1007/s10992-018-9472-3
-* Jacquette, Dale, 2001, “Außersein of the Pure Object”, in _The School of Alexius Meinong_, Liliana Albertazzi, Dale Jacquette, and Roberto Poli (eds.), (Western Philosophy Series), Aldershot, UK/Burlington, VT: Ashgate, chap. 19.
-* Jager, Thomas, 1982, “An Actualistic Semantics for Quantified Modal Logic.”, _Notre Dame Journal of Formal Logic_, 23(3): 335–349. doi:10.1305/ndjfl/1093870093
-* Kaplan, David, 1975 \[1979], “How to Russell a Frege-Church”, _The Journal of Philosophy_, 72(19): 716–729. Reprinted in Loux 1979: 210–224. doi:10.2307/2024635
+* –––, 1995b, “The Logic of Essence”, *Journal of Philosophical Logic*, 24(3): 241–273. doi:10.1007/BF01344203
+* –––, 2005, *Modality and Tense: Philosophical Papers*, Oxford: Clarendon Press. doi:10.1093/0199278709.001.0001
+* Fitch, G. W., 1996, “In Defense of Aristotelian Actualism”, *Philosophical Perspectives*, 10: 53–71. doi:10.2307/2216236
+* Fitting, Melvin and Richard L. Mendelsohn, 1998, *First-Order Modal Logic*, (Synthese Library, 277), Dordrecht/Boston, MA: Kluwer Academic.
+* Forbes, Graeme, 1985, *The Metaphysics of Modality*, (Clarendon Library of Logic and Philosophy), Oxford: Clarendon Press.
+* Garson, James W., 1984, “Quantification in Modal Logic”, in *Handbook of Philosophical Logic, Volume II: Extensions of Classical Logic*, D. Gabbay and F. Guenthner (eds.), Dordrecht: D. Reidel, 249–307. doi:10.1007/978-94-009-6259-0\_5
+* Giles of Rome, *Theoremata de Esse et Essentia*, likely written sometime between 1277 and 1285. Translated as *Theorems on Existence and Essence*, Michael V. Murray (trans.), (Mediaeval Philosophical Texts in Translation 7), Milwaukee, WI: Marquette University Press, 1952.
+* Grim, Patrick, 1984, “There Is No Set of All Truths”, *Analysis*, 44(4): 206–208. doi:10.1093/analys/44.4.206
+* –––, 1986, “On Sets and Worlds: A Reply to Menzel”, *Analysis*, 46(4): 186–191. doi:10.1093/analys/46.4.186
+* Hanson, William H., 2018, “Actualism, Serious Actualism, and Quantified Modal Logic”, *Notre Dame Journal of Formal Logic*, 59(2): 233–284. doi:10.1215/00294527-2017-0022
+* Hazen, Allen, 1976, “Expressive Completeness in Modal Language”, *Journal of Philosophical Logic*, 5(1): 25–46. doi:10.1007/BF00263656
+* –––, 1979, “Counterpart-Theoretic Semantics for Modal Logic”, *The Journal of Philosophy*, 76(6): 319–338. doi:10.2307/2025472
+* Hintikka, Jaakko, 1957, “Modality as referential multiplicity”, *Ajatus*, 20: 49–64.
+* –––, 1961, “Modality and Quantification”, *Theoria*, 27(3): 119–128. doi:10.1111/j.1755-2567.1961.tb00020.x
+* Hodes, Harold, 1984, “On Modal Logics Which Enrich First-Order S5”, *Journal of Philosophical Logic*, 13(4): 423–454. doi:10.1007/BF00247714
+* Hodges, Wilfrid, 1986, “Truth in a Structure”, *Proceedings of the Aristotelian Society*, 86(1): 135–152. doi:10.1093/aristotelian/86.1.135
+* Hoffmann, Aviv, 2003, “A Puzzle about Truth and Singular Propositions”, *Mind*, 112(448): 635–651. doi:10.1093/mind/112.448.635
+* Hudson, Hud, 1997, “On a New Argument from Actualism to Serious Actualism”, *Noûs*, 31(4): 520–524. doi:10.1111/0029-4624.00059
+* Hughes, G. E. and M. J. Cresswell, 1996, *A New Introduction to Modal Logic*, London/New York: Routledge.
+* Jacinto, Bruno, 2019, “Serious Actualism and Higher-Order Predication”, *Journal of Philosophical Logic*, 48(3): 471–499. doi:10.1007/s10992-018-9472-3
+* Jacquette, Dale, 2001, “Außersein of the Pure Object”, in *The School of Alexius Meinong*, Liliana Albertazzi, Dale Jacquette, and Roberto Poli (eds.), (Western Philosophy Series), Aldershot, UK/Burlington, VT: Ashgate, chap. 19.
+* Jager, Thomas, 1982, “An Actualistic Semantics for Quantified Modal Logic.”, *Notre Dame Journal of Formal Logic*, 23(3): 335–349. doi:10.1305/ndjfl/1093870093
+* Kaplan, David, 1975 \[1979], “How to Russell a Frege-Church”, *The Journal of Philosophy*, 72(19): 716–729. Reprinted in Loux 1979: 210–224. doi:10.2307/2024635
 * –––, 1979, “Transworld Heir Lines”, in Loux 1979: 88–109.
 * –––, 1995, “A Problem in Possible World Semantics”, in Sinnott-Armstrong, Raffman, and Asher 1995: 41–52.
-* Kemeny, John G., 1956a, “A New Approach to Semantics – Part I”, _Journal of Symbolic Logic_, 21(1): 1–27. doi:10.2307/2268481
-* –––, 1956b, “A New Approach to Semantics – Part II”, _Journal of Symbolic Logic_, 21(2): 149–161. doi:10.2307/2268754
-* Kimpton-Nye, Samuel, 2021, “Can Hardcore Actualism Validate S5?”, _Philosophy and Phenomenological Research_, 102(2): 342–358. doi:10.1111/phpr.12656
-* Kneale, William and A. N. Prior, 1968, “Intentionality and Intensionality”, _Aristotelian Society Supplementary Volume_, 42: 73–106. Prior’s contribution to this paper is reprinted as Ch. 20 of Prior 1976. doi:10.1093/aristoteliansupp/42.1.73
-* Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, _Journal of Symbolic Logic_, 24(1): 1–14. doi:10.2307/2964568
-* –––, 1963a, “Semantical Analysis of Modal Logic I: Normal Modal Propositional Calculi”, _Zeitschrift für Mathematische Logik und Grundlagen der Mathematik_, 9(5–6): 67–96. doi:10.1002/malq.19630090502
-* –––, 1963b, “Semantical Considerations on Modal Logic”, _Acta Philosophica Fennica_, 16: 83–94.
-* –––, 1972 \[1980], “Naming and Necessity: Lectures Given to the Princeton University Philosophy Colloquium”, in _Semantics of Natural Language_, Donald Davidson and Gilbert Harman (eds.), Dordrecht: D. Reidel, 253–355. Reprinted as _Naming and Necessity_, Cambridge, MA: Harvard University Press, 1980. doi:10.1007/978-94-010-2557-7\_9
-* Lewis, C. I., 1943, “The Modes of Meaning”, _Philosophy and Phenomenological Research_, 4(2): 236–250. doi:10.2307/2103080
-* Lewis, David, 1986, _On the Plurality of Worlds_, Oxford, UK/New York: B. Blackwell.
-* –––, 1990, “Noneism or Allism?”, _Mind_, 99(393): 24–31. doi:10.1093/mind/XCIX.393.24
-* Linnebo, Øystein, 2004 \[2022], “Plural Quantification”, in _Stanford Encyclopedia of Philosophy_ (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/plural-quant/](https://plato.stanford.edu/archives/spr2022/entries/plural-quant/).
-* Linsky, Bernard and Edward N. Zalta, 1991, “Is Lewis a Meinongian?”, _Australasian Journal of Philosophy_, 69(4): 438–453. doi:10.1080/00048409112344871
-* –––, 1994, “In Defense of the Simplest Quantified Modal Logic”, _Philosophical Perspectives_, 8: 431–458. doi:10.2307/2214181
-* –––, 1996, “In Defense of the Contingently Nonconcrete”, _Philosophical Studies_, 84(2–3): 283–294. doi:10.1007/BF00354491
-* Long, A. A. and D. N. Sedley, 1987, _The Hellenistic Philosophers, Volume 1 of Translations of the Principal Sources with Philosophical Commentary_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511808050
-* Loux, Michael J. (ed.), 1979, _The Possible and the Actual: Readings in the Metaphysics of Modality_, Ithaca, NY: Cornell University Press.
-* Masterman, Christopher James, forthcoming, “Serious Actualism and Nonexistence”, _Australasian Journal of Philosophy_.
-* McDaniel, Kris, 2009, “Ways of Being”, in _Metametaphysics: New Essays on the Foundations of Ontology_, David Chalmers, Ryan Wasserman, and David Manley (eds.), Oxford: Oxford University Press, 290–319.
-* –––, 2017, _The Fragmentation of Being_, Oxford: Oxford University Press. doi:10.1093/oso/9780198719656.001.0001
-* McMichael, Alan, 1983, “A New Actualist Modal Semantics”, _Journal of Philosophical Logic_, 12(1): 73–99. doi:10.1007/BF02329201
-* Meinong, Alexius, 1899, “Über Gegenstände höherer Ordnung und deren Verhältniß zur inneren Wahrnehmung”, _Zeitschrift für Psychologie und Physiologie der Sinnesorgane_, 21: 182–272.
-* –––, 1904a, _Untersuchungen zur Gegenstandstheorie und Psychologie_, Leipzig: J. A. Barth.
-* –––, 1904b \[1960], “Über Gegenstandstheorie,” in Meinong 1904a: 1–50. Reprinted in Meinong 1913: 481–530. Translated as “The Theory of Objects”, in R. M. Chisholm (ed.), _Realism and the Background of Phenomenology_, Glencoe, IL: Free Press. Reprint: Atascadero, CA: Ridgeview, 1981: 76–117.
-* –––, 1907, _Über die Stellung der Gegenstandstheorie im System der Wissenschaften_, Leipzig: R. Voigtländer Verlag.
-* –––, 1913, _Gesammelte Abhandlungen_, II. Band: _Abhandlungen zur Erkenntnistheorie und Gegenstandstheorie_, hrsg. und mit Zusätzen versehen von seinen Schülern, Leipzig: J. A. Barth.
-* Menzel, Christopher, 1986, “On Set Theoretic Possible Worlds”, _Analysis_, 46(1): 68–72. doi:10.1093/analys/46.1.68
-* –––, 1990, “Actualism, Ontological Commitment, and Possible World Semantics”, _Synthese_, 85(3): 355–389. doi:10.1007/BF00484834
-* –––, 1991, “The True Modal Logic”, _Journal of Philosophical Logic_, 20(4): 331–374. doi:10.1007/BF00249434
-* –––, 1993, “Singular Propositions and Modal Logic”:, _Philosophical Topics_, 21(2): 113–148. doi:10.5840/philtopics199321220
-* –––, 2012, “Sets and Worlds Again”, _Analysis_, 72(2): 304–309. doi:10.1093/analys/ans044
-* –––, 2014, “Wide Sets, ZFCU, and the Iterative Conception”:, _Journal of Philosophy_, 111(2): 57–83. doi:10.5840/jphil201411124
-* –––, 2020, “In Defense of the Possibilism–Actualism Distinction”, _Philosophical Studies_, 177(7): 1971–1997. doi:10.1007/s11098-019-01294-0
-* Mitchell-Yellin, Benjamin and Michael Nelson, 2016, “S5 for Aristotelian Actualists”, _Philosophical Studies_, 173(6): 1537–1569. doi:10.1007/s11098-015-0567-1
-* Moore, Jared Sparks, 1927, _Rifts in the Universe: A Study of the Historic Dichotomies and Modalities of Being_, New Haven, CT: Yale University Press.
-* Nolan, Daniel, 1996, “Recombination Unbound”, _Philosophical Studies_, 84(2–3): 239–262. doi:10.1007/BF00354489
-* Nortmann, Ulrich, 2002, “The Logic of Necessity in Aristotle—an Outline of Approaches to the Modal Syllogistic, Together with a General Account of _de dicto-_ and \*de re-\*Necessity”, _History and Philosophy of Logic_, 23(4): 253–265. doi:10.1080/0144534021000050506
-* Palmer, John Anderson, 2009, _Parmenides and Presocratic Philosophy_, Oxford; New York: Oxford University Press. doi:10.1093/acprof:oso/9780199567904.001.0001
-* Parfit, Derek, 2011, _On What Matters, Volume 2_, (The Berkeley Tanner Lectures), Oxford/New York: Oxford University Press.
-* Parsons, Terence, 1980, _Nonexistent Objects_, New Haven, CT: Yale University Press.
-* Peacocke, Christopher, 1978, “Necessity and Truth Theories”, _Journal of Philosophical Logic_, 7(1): 473–500. doi:10.1007/BF00245940
-* Perszyk, Kenneth J., 1993, _Nonexistent Objects: Meinong and Contemporary Philosophy_, (Nijhoff International Philosophy Series, 49), Dordrecht/Boston: Kluwer Academic. doi:10.1007/978-94-015-8214-8
-* Plantinga, Alvin, 1974, _The Nature of Necessity_, (Clarendon Library of Logic and Philosophy), Oxford: Clarendon Press. doi:10.1093/0198244142.001.0001
-* –––, 1976 \[1979], “Actualism and Possible Worlds”, _Theoria_, 42(1–3): 139–160. Reprinted in Loux 1979: 253–273. doi:10.1111/j.1755-2567.1976.tb00681.x
-* –––, 1979, “De Essentia”, _Grazer Philosophische Studien_, 7(1): 101–121. Reprinted in Plantinga 2003: 139–157. doi:10.1163/18756735-00701005
-* –––, 1983, “On Existentialism”, _Philosophical Studies_, 44(1): 1–20. doi:10.1007/BF00353411
+* Kemeny, John G., 1956a, “A New Approach to Semantics – Part I”, *Journal of Symbolic Logic*, 21(1): 1–27. doi:10.2307/2268481
+* –––, 1956b, “A New Approach to Semantics – Part II”, *Journal of Symbolic Logic*, 21(2): 149–161. doi:10.2307/2268754
+* Kimpton-Nye, Samuel, 2021, “Can Hardcore Actualism Validate S5?”, *Philosophy and Phenomenological Research*, 102(2): 342–358. doi:10.1111/phpr.12656
+* Kneale, William and A. N. Prior, 1968, “Intentionality and Intensionality”, *Aristotelian Society Supplementary Volume*, 42: 73–106. Prior’s contribution to this paper is reprinted as Ch. 20 of Prior 1976. doi:10.1093/aristoteliansupp/42.1.73
+* Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, *Journal of Symbolic Logic*, 24(1): 1–14. doi:10.2307/2964568
+* –––, 1963a, “Semantical Analysis of Modal Logic I: Normal Modal Propositional Calculi”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik*, 9(5–6): 67–96. doi:10.1002/malq.19630090502
+* –––, 1963b, “Semantical Considerations on Modal Logic”, *Acta Philosophica Fennica*, 16: 83–94.
+* –––, 1972 \[1980], “Naming and Necessity: Lectures Given to the Princeton University Philosophy Colloquium”, in *Semantics of Natural Language*, Donald Davidson and Gilbert Harman (eds.), Dordrecht: D. Reidel, 253–355. Reprinted as *Naming and Necessity*, Cambridge, MA: Harvard University Press, 1980. doi:10.1007/978-94-010-2557-7\_9
+* Lewis, C. I., 1943, “The Modes of Meaning”, *Philosophy and Phenomenological Research*, 4(2): 236–250. doi:10.2307/2103080
+* Lewis, David, 1986, *On the Plurality of Worlds*, Oxford, UK/New York: B. Blackwell.
+* –––, 1990, “Noneism or Allism?”, *Mind*, 99(393): 24–31. doi:10.1093/mind/XCIX.393.24
+* Linnebo, Øystein, 2004 \[2022], “Plural Quantification”, in *Stanford Encyclopedia of Philosophy* (Spring 2022 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/spr2022/entries/plural-quant/](https://plato.stanford.edu/archives/spr2022/entries/plural-quant/).
+* Linsky, Bernard and Edward N. Zalta, 1991, “Is Lewis a Meinongian?”, *Australasian Journal of Philosophy*, 69(4): 438–453. doi:10.1080/00048409112344871
+* –––, 1994, “In Defense of the Simplest Quantified Modal Logic”, *Philosophical Perspectives*, 8: 431–458. doi:10.2307/2214181
+* –––, 1996, “In Defense of the Contingently Nonconcrete”, *Philosophical Studies*, 84(2–3): 283–294. doi:10.1007/BF00354491
+* Long, A. A. and D. N. Sedley, 1987, *The Hellenistic Philosophers, Volume 1 of Translations of the Principal Sources with Philosophical Commentary*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511808050
+* Loux, Michael J. (ed.), 1979, *The Possible and the Actual: Readings in the Metaphysics of Modality*, Ithaca, NY: Cornell University Press.
+* Masterman, Christopher James, forthcoming, “Serious Actualism and Nonexistence”, *Australasian Journal of Philosophy*.
+* McDaniel, Kris, 2009, “Ways of Being”, in *Metametaphysics: New Essays on the Foundations of Ontology*, David Chalmers, Ryan Wasserman, and David Manley (eds.), Oxford: Oxford University Press, 290–319.
+* –––, 2017, *The Fragmentation of Being*, Oxford: Oxford University Press. doi:10.1093/oso/9780198719656.001.0001
+* McMichael, Alan, 1983, “A New Actualist Modal Semantics”, *Journal of Philosophical Logic*, 12(1): 73–99. doi:10.1007/BF02329201
+* Meinong, Alexius, 1899, “Über Gegenstände höherer Ordnung und deren Verhältniß zur inneren Wahrnehmung”, *Zeitschrift für Psychologie und Physiologie der Sinnesorgane*, 21: 182–272.
+* –––, 1904a, *Untersuchungen zur Gegenstandstheorie und Psychologie*, Leipzig: J. A. Barth.
+* –––, 1904b \[1960], “Über Gegenstandstheorie,” in Meinong 1904a: 1–50. Reprinted in Meinong 1913: 481–530. Translated as “The Theory of Objects”, in R. M. Chisholm (ed.), *Realism and the Background of Phenomenology*, Glencoe, IL: Free Press. Reprint: Atascadero, CA: Ridgeview, 1981: 76–117.
+* –––, 1907, *Über die Stellung der Gegenstandstheorie im System der Wissenschaften*, Leipzig: R. Voigtländer Verlag.
+* –––, 1913, *Gesammelte Abhandlungen*, II. Band: *Abhandlungen zur Erkenntnistheorie und Gegenstandstheorie*, hrsg. und mit Zusätzen versehen von seinen Schülern, Leipzig: J. A. Barth.
+* Menzel, Christopher, 1986, “On Set Theoretic Possible Worlds”, *Analysis*, 46(1): 68–72. doi:10.1093/analys/46.1.68
+* –––, 1990, “Actualism, Ontological Commitment, and Possible World Semantics”, *Synthese*, 85(3): 355–389. doi:10.1007/BF00484834
+* –––, 1991, “The True Modal Logic”, *Journal of Philosophical Logic*, 20(4): 331–374. doi:10.1007/BF00249434
+* –––, 1993, “Singular Propositions and Modal Logic”:, *Philosophical Topics*, 21(2): 113–148. doi:10.5840/philtopics199321220
+* –––, 2012, “Sets and Worlds Again”, *Analysis*, 72(2): 304–309. doi:10.1093/analys/ans044
+* –––, 2014, “Wide Sets, ZFCU, and the Iterative Conception”:, *Journal of Philosophy*, 111(2): 57–83. doi:10.5840/jphil201411124
+* –––, 2020, “In Defense of the Possibilism–Actualism Distinction”, *Philosophical Studies*, 177(7): 1971–1997. doi:10.1007/s11098-019-01294-0
+* Mitchell-Yellin, Benjamin and Michael Nelson, 2016, “S5 for Aristotelian Actualists”, *Philosophical Studies*, 173(6): 1537–1569. doi:10.1007/s11098-015-0567-1
+* Moore, Jared Sparks, 1927, *Rifts in the Universe: A Study of the Historic Dichotomies and Modalities of Being*, New Haven, CT: Yale University Press.
+* Nolan, Daniel, 1996, “Recombination Unbound”, *Philosophical Studies*, 84(2–3): 239–262. doi:10.1007/BF00354489
+* Nortmann, Ulrich, 2002, “The Logic of Necessity in Aristotle—an Outline of Approaches to the Modal Syllogistic, Together with a General Account of *de dicto-* and \*de re-\*Necessity”, *History and Philosophy of Logic*, 23(4): 253–265. doi:10.1080/0144534021000050506
+* Palmer, John Anderson, 2009, *Parmenides and Presocratic Philosophy*, Oxford; New York: Oxford University Press. doi:10.1093/acprof:oso/9780199567904.001.0001
+* Parfit, Derek, 2011, *On What Matters, Volume 2*, (The Berkeley Tanner Lectures), Oxford/New York: Oxford University Press.
+* Parsons, Terence, 1980, *Nonexistent Objects*, New Haven, CT: Yale University Press.
+* Peacocke, Christopher, 1978, “Necessity and Truth Theories”, *Journal of Philosophical Logic*, 7(1): 473–500. doi:10.1007/BF00245940
+* Perszyk, Kenneth J., 1993, *Nonexistent Objects: Meinong and Contemporary Philosophy*, (Nijhoff International Philosophy Series, 49), Dordrecht/Boston: Kluwer Academic. doi:10.1007/978-94-015-8214-8
+* Plantinga, Alvin, 1974, *The Nature of Necessity*, (Clarendon Library of Logic and Philosophy), Oxford: Clarendon Press. doi:10.1093/0198244142.001.0001
+* –––, 1976 \[1979], “Actualism and Possible Worlds”, *Theoria*, 42(1–3): 139–160. Reprinted in Loux 1979: 253–273. doi:10.1111/j.1755-2567.1976.tb00681.x
+* –––, 1979, “De Essentia”, *Grazer Philosophische Studien*, 7(1): 101–121. Reprinted in Plantinga 2003: 139–157. doi:10.1163/18756735-00701005
+* –––, 1983, “On Existentialism”, *Philosophical Studies*, 44(1): 1–20. doi:10.1007/BF00353411
 * –––, 1985, “Replies to My Colleagues”, in Tomberlin and van Inwagen 1985: 313–396. doi:10.1007/978-94-009-5223-2\_11
-* –––, 1987, “Two Concepts of Modality: Modal Realism and Modal Reductionism”, _Philosophical Perspectives_, 1: 189–231. doi:10.2307/2214146
-* –––, 2003, _Essays in the Metaphysics of Modality_, Matthew Davidson (ed.), Oxford/New York: Oxford University Press. doi:10.1093/0195103769.001.0001
+* –––, 1987, “Two Concepts of Modality: Modal Realism and Modal Reductionism”, *Philosophical Perspectives*, 1: 189–231. doi:10.2307/2214146
+* –––, 2003, *Essays in the Metaphysics of Modality*, Matthew Davidson (ed.), Oxford/New York: Oxford University Press. doi:10.1093/0195103769.001.0001
 * Pollock, John L., 1985, “Plantinga on Possible Worlds”, in Tomberlin and van Inwagen 1985: 121–144. doi:10.1007/978-94-009-5223-2\_3
-* Priest, Graham, 2005, _Towards Non-Being: The Logic and Metaphysics of Intentionality_, Oxford: Clarendon Press. doi:10.1093/0199262543.001.0001
-* Prior, A. N., 1956, “Modality and Quantification in S5”, _Journal of Symbolic Logic_, 21(1): 60–62. doi:10.2307/2268488
-* –––, 1957, _Time and Modality_, Oxford: Clarendon Press.
-* –––, 1959, “Notes on a Group of New Modal Systems”, _Logique et Analyse_, 2(6–7): 122–127.
-* –––, 1961, “On a Family of Paradoxes”, _Notre Dame Journal of Formal Logic_, 2(1): 16–32. doi:10.1305/ndjfl/1093956750
-* –––, 1964, “Axiomatisations of the Modal Calculus Q”, _Notre Dame Journal of Formal Logic_, 5(3): 215–217. doi:10.1305/ndjfl/1093957881
-* –––, 1967, _Past, Present, and Future_, Oxford: Clarendon.
-* –––, 1968a, _Papers on Time and Tense_, Oxford: Clarendon.
+* Priest, Graham, 2005, *Towards Non-Being: The Logic and Metaphysics of Intentionality*, Oxford: Clarendon Press. doi:10.1093/0199262543.001.0001
+* Prior, A. N., 1956, “Modality and Quantification in S5”, *Journal of Symbolic Logic*, 21(1): 60–62. doi:10.2307/2268488
+* –––, 1957, *Time and Modality*, Oxford: Clarendon Press.
+* –––, 1959, “Notes on a Group of New Modal Systems”, *Logique et Analyse*, 2(6–7): 122–127.
+* –––, 1961, “On a Family of Paradoxes”, *Notre Dame Journal of Formal Logic*, 2(1): 16–32. doi:10.1305/ndjfl/1093956750
+* –––, 1964, “Axiomatisations of the Modal Calculus Q”, *Notre Dame Journal of Formal Logic*, 5(3): 215–217. doi:10.1305/ndjfl/1093957881
+* –––, 1967, *Past, Present, and Future*, Oxford: Clarendon.
+* –––, 1968a, *Papers on Time and Tense*, Oxford: Clarendon.
 * –––, 1968b, “Tense Logic for Non-Permanent Existents”, in Prior 1968a, Ch. XIII, and Prior 2003, ch. XIX.
-* –––, 1968c, “Modal Logic and the Logic of Applicability”, _Theoria_, 34(3): 183–202. Reprinted in Prior and Fine 1977: Ch. 6. doi:10.1111/j.1755-2567.1968.tb00350.x
-* Prior, A. N. and Kit Fine, 1977, _Worlds, Times and Selves_, Amherst, MA: University of Massachusetts Press.
-* Quine, Willard V. O., 1948, “On What There Is”, _The Review of Metaphysics_, 2(5): 21–38. Reprinted in Quine 1953: 1-19.
-* –––, 1951, _Mathematical Logic_, second edition, Cambridge, MA: Harvard University Press.
-* –––, 1953, _From a Logical Point of View_, New York: Harper.
-* Rapaport, William J., 1978, “Meinongian Theories and a Russellian Paradox”, _Noûs_, 12(2): 153–180. doi:10.2307/2214690
-* Ray, Greg, 1996, “Ontology-Free Modal Semantics”, _Journal of Philosophical Logic_, 25(4): 333–361. doi:10.1007/BF00249664
-* –––, 2013, _The Construction of Logical Space_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199662623.001.0001
-* Rimell, Nicholas, forthcoming, “Why Contingentist Actualists Should Endorse the Barcan Formula”, _Acta Analytica_, first online: 10 March 2022. doi:10.1007/s12136-022-00508-1
+* –––, 1968c, “Modal Logic and the Logic of Applicability”, *Theoria*, 34(3): 183–202. Reprinted in Prior and Fine 1977: Ch. 6. doi:10.1111/j.1755-2567.1968.tb00350.x
+* Prior, A. N. and Kit Fine, 1977, *Worlds, Times and Selves*, Amherst, MA: University of Massachusetts Press.
+* Quine, Willard V. O., 1948, “On What There Is”, *The Review of Metaphysics*, 2(5): 21–38. Reprinted in Quine 1953: 1-19.
+* –––, 1951, *Mathematical Logic*, second edition, Cambridge, MA: Harvard University Press.
+* –––, 1953, *From a Logical Point of View*, New York: Harper.
+* Rapaport, William J., 1978, “Meinongian Theories and a Russellian Paradox”, *Noûs*, 12(2): 153–180. doi:10.2307/2214690
+* Ray, Greg, 1996, “Ontology-Free Modal Semantics”, *Journal of Philosophical Logic*, 25(4): 333–361. doi:10.1007/BF00249664
+* –––, 2013, *The Construction of Logical Space*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199662623.001.0001
+* Rimell, Nicholas, forthcoming, “Why Contingentist Actualists Should Endorse the Barcan Formula”, *Acta Analytica*, first online: 10 March 2022. doi:10.1007/s12136-022-00508-1
 * Rusnock, Paul and Rolf George, 2014, “Introduction to Volume One”, in Bolzano \[1837] 2014: xxx–lii.
-* Russell, Bertrand, 1903, _The Principles of Mathematics_, Cambridge, UK: University Press.
-* –––, 1904a, “Meinong’s Theory of Complexes and Assumptions (I.)”, _Mind_, 13(1): 204–219. doi:10.1093/mind/XIII.1.204
-* –––, 1904b, “Non-Euclidean Geometry”, _The Athenaeum_, 4018(29 Oct): 592–593. Reprinted in _The Collected Papers of Bertrand Russell, Volume 4: Foundations of Logic, 1903–05_, Alasdair Urquhart and Albert C. Lewis (eds), 1994: 482–485.
-* Salmon, Nathan, 1987, “Existence”, _Philosophical Perspectives_, 1: 49–108. doi:10.2307/2214143
-* Schnieder, Benjamin, 2007, “Mere Possibilities: A Bolzanian Approach to Non-Actual Objects”, _Journal of the History of Philosophy_, 45(4): 525–550. doi:10.1353/hph.2007.0097
-* Shapiro, Stewart, 2000 \[2017], “Classical Logic” (Winter 2017 edition), in _Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/logic-classical/](https://plato.stanford.edu/archives/win2017/entries/logic-classical/).
-* Sider, Theodore, 2009, “Williamson’s Many Necessary Existents”, _Analysis_, 69(2): 250–258. doi:10.1093/analys/anp010
-* Simchen, Ori, 2006, “Actualist Essentialism and General Possibilities”, _Journal of Philosophy_, 103(1): 5–26. doi:10.5840/jphil2006103140
-* Simons, Peter, 2013, “And Now for Something Completely Different: Meinong’s Approach to Modality”, _HUMANA.MENTE Journal of Philosophical Studies_, 6(25): 119–134.
-* Sinnott-Armstrong, Walter, Diana Raffman, and Nicholas Asher (eds.), 1995, _Modality, Morality, and Belief: Essays in Honor of Ruth Barcan Marcus_, Cambridge/New York: Cambridge University Press.
-* Stalnaker, Robert C., 2003, _Ways a World Might Be: Metaphysical and Anti-Metaphysical Essays_, Oxford: Clarendon Press. doi:10.1093/0199251487.001.0001
-* Stalnaker, Robert C. and Richmond H. Thomason, 1968, “Abstraction in First-Order Modal Logic”, _Theoria_, 34(3): 203–207. doi:10.1111/j.1755-2567.1968.tb00351.x
-* Stang, Nicholas F., 2016, _Kant’s Modal Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712626.001.0001
-* Stephanou, Yannis, 2001, “Indexed Actuality”, _Journal of Philosophical Logic_, 30(4): 355–393. doi:10.1023/A:1017915417449
-* –––, 2007, “Serious Actualism”, _The Philosophical Review_, 116(2): 219–250. doi:10.1215/00318108-2006-036
-* Tarski, Alfred, 1936, “Der Wahrheitsbegriff in den formalisierten Sprachen”, _Studia Philosophica, Commentarii Societatis philosophicae Polonorum_, 1: 261–405. Translated as “The Concept of Truth in Formalized Languages”, in Tarski 1956: 152–278.
-* –––, 1944, “The Semantic Conception of Truth: And the Foundations of Semantics”, _Philosophy and Phenomenological Research_, 4(3): 341–376. doi:10.2307/2102968
-* –––, 1956, _Logic, Semantics, Metamathematics; Papers from 1923 to 1938_, J. H. Woodger (trans.), Oxford: Clarendon Press.
+* Russell, Bertrand, 1903, *The Principles of Mathematics*, Cambridge, UK: University Press.
+* –––, 1904a, “Meinong’s Theory of Complexes and Assumptions (I.)”, *Mind*, 13(1): 204–219. doi:10.1093/mind/XIII.1.204
+* –––, 1904b, “Non-Euclidean Geometry”, *The Athenaeum*, 4018(29 Oct): 592–593. Reprinted in *The Collected Papers of Bertrand Russell, Volume 4: Foundations of Logic, 1903–05*, Alasdair Urquhart and Albert C. Lewis (eds), 1994: 482–485.
+* Salmon, Nathan, 1987, “Existence”, *Philosophical Perspectives*, 1: 49–108. doi:10.2307/2214143
+* Schnieder, Benjamin, 2007, “Mere Possibilities: A Bolzanian Approach to Non-Actual Objects”, *Journal of the History of Philosophy*, 45(4): 525–550. doi:10.1353/hph.2007.0097
+* Shapiro, Stewart, 2000 \[2017], “Classical Logic” (Winter 2017 edition), in *Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/logic-classical/](https://plato.stanford.edu/archives/win2017/entries/logic-classical/).
+* Sider, Theodore, 2009, “Williamson’s Many Necessary Existents”, *Analysis*, 69(2): 250–258. doi:10.1093/analys/anp010
+* Simchen, Ori, 2006, “Actualist Essentialism and General Possibilities”, *Journal of Philosophy*, 103(1): 5–26. doi:10.5840/jphil2006103140
+* Simons, Peter, 2013, “And Now for Something Completely Different: Meinong’s Approach to Modality”, *HUMANA.MENTE Journal of Philosophical Studies*, 6(25): 119–134.
+* Sinnott-Armstrong, Walter, Diana Raffman, and Nicholas Asher (eds.), 1995, *Modality, Morality, and Belief: Essays in Honor of Ruth Barcan Marcus*, Cambridge/New York: Cambridge University Press.
+* Stalnaker, Robert C., 2003, *Ways a World Might Be: Metaphysical and Anti-Metaphysical Essays*, Oxford: Clarendon Press. doi:10.1093/0199251487.001.0001
+* Stalnaker, Robert C. and Richmond H. Thomason, 1968, “Abstraction in First-Order Modal Logic”, *Theoria*, 34(3): 203–207. doi:10.1111/j.1755-2567.1968.tb00351.x
+* Stang, Nicholas F., 2016, *Kant’s Modal Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198712626.001.0001
+* Stephanou, Yannis, 2001, “Indexed Actuality”, *Journal of Philosophical Logic*, 30(4): 355–393. doi:10.1023/A:1017915417449
+* –––, 2007, “Serious Actualism”, *The Philosophical Review*, 116(2): 219–250. doi:10.1215/00318108-2006-036
+* Tarski, Alfred, 1936, “Der Wahrheitsbegriff in den formalisierten Sprachen”, *Studia Philosophica, Commentarii Societatis philosophicae Polonorum*, 1: 261–405. Translated as “The Concept of Truth in Formalized Languages”, in Tarski 1956: 152–278.
+* –––, 1944, “The Semantic Conception of Truth: And the Foundations of Semantics”, *Philosophy and Phenomenological Research*, 4(3): 341–376. doi:10.2307/2102968
+* –––, 1956, *Logic, Semantics, Metamathematics; Papers from 1923 to 1938*, J. H. Woodger (trans.), Oxford: Clarendon Press.
 * Thalheimer, Alvin, 1918 \[1920], “The Meaning of the Terms: ‘existence’ and ‘Reality’”, PhD thesis, Baltimore, MD: John Hopkins University. Printed Princeton, NJ: Princeton University Press, 1920.
-* Thomason, Richmond H. and Robert C. Stalnaker, 1968, “Modality and Reference”, _Noûs_, 2(4): 359–372. doi:10.2307/2214461
-* Tomberlin, James E., 1996, “Actualism or Possibilism?”, _Philosophical Studies_, 84(2–3): 263–281. doi:10.1007/BF00354490
-* Tomberlin, James E. and Frank McGuinness, 1994, “Troubles with Actualism”, _Philosophical Perspectives_, 8: 459–466. doi:10.2307/2214182
-* Tomberlin, James E. and Peter Van Inwagen (eds.), 1985, _Alvin Plantinga_, (Profiles 5), Dordrecht: D. Reidel. doi:10.1007/978-94-009-5223-2
-* Turner, Jason, 2005, “Strong And Weak Possibility”, _Philosophical Studies_, 125(2): 191–217. doi:10.1007/s11098-004-7812-3
-* –––, 2010, “Ontological Pluralism”:, _Journal of Philosophy_, 107(1): 5–34. doi:10.5840/jphil201010716
-* van Inwagen, Peter, 2008, “McGinn on Existence”, _The Philosophical Quarterly_, 58(230): 36–58. doi:10.1111/j.1467-9213.2008.534.x
-* –––, 2009, “Being, Existence, and Ontological Commitment”, in _Metametaphysics: New Essays on the Foundations of Ontology_, David John Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Clarendon Press, 472–506.
-* –––, 2014, “Modes of Being and Quantification”, _Disputatio_, 6(38): 1–24. doi:10.2478/disp-2014-0001
-* Warmke, Craig, 2021, “Ostrich Actualism”, in _Non-Being: New Essays on the Metaphysics of Nonexistence_, by Craig Warmke, Oxford/New York: Oxford University Press, 205–225. doi:10.1093/oso/9780198846222.003.0012
-* Williams, Donald C., 1953, “On the Elements of Being: I”, _The Review of Metaphysics_, 7(1): 3–18.
-* –––, 1959, “Mind as a Matter of Fact”, _The Review of Metaphysics_, 13(2): 203–225.
-* Williamson, Timothy, 1998, “Bare Possibilia”, _Erkenntnis_, 48(2/3): 257–273. doi:10.1023/A:1005331819843
-* –––, 2013, _Modal Logic as Metaphysics_, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
-* Wippel, John F., 1982, “Essence and Existence”, in _The Cambridge History of Later Medieval Philosophy_, Norman Kretzmann, Anthony Kenny, Jan Pinborg, and Eleonore Stump (eds.), Cambridge: Cambridge University Press, 383–410. doi:10.1017/CHOL9780521226059.022
-* Wisnovsky, Robert, 2003, _Avicenna’s Metaphysics in Context_, Ithaca, NY: Cornell University Press.
-* Wolter, Allan B., 2003, “Scotus on the Origin of Possibility”, in his _Scotus and Ockham: Selected Essays_, St. Bonaventure, NY: Franciscan Institute Publications, 129–141 (ch. 7).
-* Woodward, Richard, 2011, “The Things That Aren’t Actually There”, _Philosophical Studies_, 152(2): 155–166. doi:10.1007/s11098-009-9443-1
-* Yagisawa, Takashi, 2005, “A New Argument against the Existence Requirement”, _Analysis_, 65(1): 39–42. doi:10.1093/analys/65.1.39
-* Zalta, Edward N., 1993, “Twenty-Five Basic Theorems in Situation and World Theory”, _Journal of Philosophical Logic_, 22(4): 385–428. doi:10.1007/BF01052533
+* Thomason, Richmond H. and Robert C. Stalnaker, 1968, “Modality and Reference”, *Noûs*, 2(4): 359–372. doi:10.2307/2214461
+* Tomberlin, James E., 1996, “Actualism or Possibilism?”, *Philosophical Studies*, 84(2–3): 263–281. doi:10.1007/BF00354490
+* Tomberlin, James E. and Frank McGuinness, 1994, “Troubles with Actualism”, *Philosophical Perspectives*, 8: 459–466. doi:10.2307/2214182
+* Tomberlin, James E. and Peter Van Inwagen (eds.), 1985, *Alvin Plantinga*, (Profiles 5), Dordrecht: D. Reidel. doi:10.1007/978-94-009-5223-2
+* Turner, Jason, 2005, “Strong And Weak Possibility”, *Philosophical Studies*, 125(2): 191–217. doi:10.1007/s11098-004-7812-3
+* –––, 2010, “Ontological Pluralism”:, *Journal of Philosophy*, 107(1): 5–34. doi:10.5840/jphil201010716
+* van Inwagen, Peter, 2008, “McGinn on Existence”, *The Philosophical Quarterly*, 58(230): 36–58. doi:10.1111/j.1467-9213.2008.534.x
+* –––, 2009, “Being, Existence, and Ontological Commitment”, in *Metametaphysics: New Essays on the Foundations of Ontology*, David John Chalmers, David Manley, and Ryan Wasserman (eds.), Oxford: Clarendon Press, 472–506.
+* –––, 2014, “Modes of Being and Quantification”, *Disputatio*, 6(38): 1–24. doi:10.2478/disp-2014-0001
+* Warmke, Craig, 2021, “Ostrich Actualism”, in *Non-Being: New Essays on the Metaphysics of Nonexistence*, by Craig Warmke, Oxford/New York: Oxford University Press, 205–225. doi:10.1093/oso/9780198846222.003.0012
+* Williams, Donald C., 1953, “On the Elements of Being: I”, *The Review of Metaphysics*, 7(1): 3–18.
+* –––, 1959, “Mind as a Matter of Fact”, *The Review of Metaphysics*, 13(2): 203–225.
+* Williamson, Timothy, 1998, “Bare Possibilia”, *Erkenntnis*, 48(2/3): 257–273. doi:10.1023/A:1005331819843
+* –––, 2013, *Modal Logic as Metaphysics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199552078.001.0001
+* Wippel, John F., 1982, “Essence and Existence”, in *The Cambridge History of Later Medieval Philosophy*, Norman Kretzmann, Anthony Kenny, Jan Pinborg, and Eleonore Stump (eds.), Cambridge: Cambridge University Press, 383–410. doi:10.1017/CHOL9780521226059.022
+* Wisnovsky, Robert, 2003, *Avicenna’s Metaphysics in Context*, Ithaca, NY: Cornell University Press.
+* Wolter, Allan B., 2003, “Scotus on the Origin of Possibility”, in his *Scotus and Ockham: Selected Essays*, St. Bonaventure, NY: Franciscan Institute Publications, 129–141 (ch. 7).
+* Woodward, Richard, 2011, “The Things That Aren’t Actually There”, *Philosophical Studies*, 152(2): 155–166. doi:10.1007/s11098-009-9443-1
+* Yagisawa, Takashi, 2005, “A New Argument against the Existence Requirement”, *Analysis*, 65(1): 39–42. doi:10.1093/analys/65.1.39
+* Zalta, Edward N., 1993, “Twenty-Five Basic Theorems in Situation and World Theory”, *Journal of Philosophical Logic*, 22(4): 385–428. doi:10.1007/BF01052533
 
 ## Academic Tools
 
@@ -1231,4 +1230,4 @@ _A_\* (under the name “_A_”) is proved sound and complete in Menzel 1991.
 [Bolzano, Bernard](https://plato.stanford.edu/entries/bolzano/) | [compositionality](https://plato.stanford.edu/entries/compositionality/) | [Duns Scotus, John](https://plato.stanford.edu/entries/duns-scotus/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [Giles of Rome](https://plato.stanford.edu/entries/giles/) | [Henry of Ghent](https://plato.stanford.edu/entries/henry-ghent/) | [identity](https://plato.stanford.edu/entries/identity/) | [intentionality](https://plato.stanford.edu/entries/intentionality/) | [Lewis, David](https://plato.stanford.edu/entries/david-lewis/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: free](https://plato.stanford.edu/entries/logic-free/) | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [material constitution](https://plato.stanford.edu/entries/material-constitution/) | [Meinong, Alexius](https://plato.stanford.edu/entries/meinong/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [modality: medieval theories of](https://plato.stanford.edu/entries/modality-medieval/) | [nonexistent objects](https://plato.stanford.edu/entries/nonexistent-objects/) | [Ockham \[Occam\], William](https://plato.stanford.edu/entries/ockham/) | [Parmenides](https://plato.stanford.edu/entries/parmenides/) | [plural quantification](https://plato.stanford.edu/entries/plural-quant/) | [possible objects](https://plato.stanford.edu/entries/possible-objects/) | [possible worlds](https://plato.stanford.edu/entries/possible-worlds/) | [Prior, Arthur](https://plato.stanford.edu/entries/prior/) | [Spinoza, Baruch](https://plato.stanford.edu/entries/spinoza/) | [Spinoza, Baruch: modal metaphysics](https://plato.stanford.edu/entries/spinoza-modal/) | [states of affairs](https://plato.stanford.edu/entries/states-of-affairs/) | [Suárez, Francisco](https://plato.stanford.edu/entries/suarez/) | [Tarski, Alfred](https://plato.stanford.edu/entries/tarski/) | [truthmakers](https://plato.stanford.edu/entries/truthmakers/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-[Christopher Menzel](http://cmenzel.org/) <[_cmenzel@tamu.edu_](mailto:cmenzel%40tamu%2eedu)>
+[Christopher Menzel](http://cmenzel.org/) <[*cmenzel@tamu.edu*](mailto:cmenzel%40tamu%2eedu)>

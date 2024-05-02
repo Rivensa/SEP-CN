@@ -1,10 +1,9 @@
 # 埃德蒙德·胡塞尔 Husserl, Edmund (Christian Beyer)
 
-_首次发表于2003年2月28日星期五；实质性修订于2022年10月17日星期一_
+*首次发表于2003年2月28日星期五；实质性修订于2022年10月17日星期一*
 
 埃德蒙德·胡塞尔是现象学的主要创始人，因此是 20 世纪最有影响力的哲学家之一。他对几乎所有哲学领域都做出了重要贡献，并预见了其邻近学科（如语言学、社会学和认知心理学）的核心思想。
 
- 
 ***
 
 ## 1. 生平与工作
@@ -15,7 +14,7 @@ _首次发表于2003年2月28日星期五；实质性修订于2022年10月17日�
 
 在 1900/01 年，他的第一部现象学作品以两卷的形式出版，题为《逻辑研究》。第一卷对心理主义进行了有力的攻击，而（更大的）第二卷则包括了六个“描述心理学”和“认识论”调查，涉及（I）表达和意义，（II）普遍性，（III）部分和整体的形式本体论（整体论），（IV）意义的“句法”和整体结构，（V）意向性的性质和结构以及（VI）真理、直觉和认知的相互关系。胡塞尔现在坚持了一个他从赫尔曼·洛策和尤其是伯纳德·博尔扎诺的思想中得出的柏拉图主义版本，他将关于意义和心理内容的柏拉图主义嵌入到一种关于意向意识的理论中（参见拜尔 1996 年）。
 
-In the first decade of the 20th century, Husserl considerably refined and modified his method into what he called “transcendental phenomenology”. This method has us focus on the essential structures that allow the objects naively taken for granted in the “natural attitude” (which is characteristic of both our everyday life and ordinary science) to “constitute themselves” in consciousness. (Among those who influenced him in this regard are Descartes, Hume and Kant.) As Husserl explains in detail in his second major work, _Ideas_ (1913), the resulting perspective on the realm of intentional consciousness is supposed to enable the phenomenologist to develop a radically unprejudiced justification of his (or her) basic views on the world and himself and explore their rational interconnections.
+In the first decade of the 20th century, Husserl considerably refined and modified his method into what he called “transcendental phenomenology”. This method has us focus on the essential structures that allow the objects naively taken for granted in the “natural attitude” (which is characteristic of both our everyday life and ordinary science) to “constitute themselves” in consciousness. (Among those who influenced him in this regard are Descartes, Hume and Kant.) As Husserl explains in detail in his second major work, *Ideas* (1913), the resulting perspective on the realm of intentional consciousness is supposed to enable the phenomenologist to develop a radically unprejudiced justification of his (or her) basic views on the world and himself and explore their rational interconnections.
 
 胡塞尔在哥廷根发展了这些思想，得益于他的《逻辑研究》以及威廉·迪尔泰的支持。迪尔泰欣赏胡塞尔的工作，并向普鲁士文化部推荐了他，于是胡塞尔在1901年获得了副教授职位（后来转为“个人教授职位”）。从1910/11年和1913年起，他分别担任《逻各斯》（Logos）的创始（合作）编辑和《现象学与现象研究年鉴》（Yearbook for Phenomenology and Phenomenological Research）的编辑（首期刊登了他的纲领性文章《哲学作为一门严谨科学》，其中批判了自然主义），胡塞尔一直在哥廷根工作到1916年。正是在这里，他进行了他最重要的哲学发现（参见Mohanty 1995），如超验现象学方法、时间意识的现象学结构、概念系统中互为主体性概念的基本作用、我们个别经验思维的视野结构等等。在后来的著作中，特别是《内在时间意识的现象学》（1928）、《形式与超验逻辑》（1929）、《笛卡尔冥思》（1931）、《欧洲科学危机与超验现象学》（1954）和《经验与判断》（1939）中，这些结果得到了进一步的发展，并被置于新的背景中，例如将科学的基本概念与其在“生活世界”（科学前的领域）中的概念根源联系起来的开创性项目（《危机》）。
 
@@ -95,7 +94,7 @@ In the first decade of the 20th century, Husserl considerably refined and modifi
 
 应该注意的是，根据胡塞尔的观点，感知经验的完整noema包含一个额外的要素，与意向内容有所区别，即其“主题”或“断定”特征，即其质量。此外，感知对象（如果有的话）呈现（或将呈现）自身的方式包括相应感知经验的感性物质或“hýle”。hýle的典型例子包括感觉印象（即感觉经验），与基于它们的感知经验相对应。因此，以贾斯特罗/维特根斯坦的鸭兔头为例，感知到鸭头可能以与感知到兔头相同的感觉印象或hýle为基础（参见Føllesdal 1988年，第108页）。 （对于胡塞尔来说，所有剩余的直观行为都涉及类似于hýle的东西（在某种需要进一步解释的意义上），他将其标记为它们的“直观表象内容”。在幻想行为的情况下，他将直观表象内容称为“幻象”）。胡塞尔认为感觉印象是非意向性（因此非概念性）的。只有感知经验的意向内容“形成”其基础的hýle，从而产生对对象的感知（有关批判性讨论，请参见Hopp 2011年，特别是第7.3节）。胡塞尔将这种有意识地“形成”感性物质的过程比作对语言表达的解释，但这种比较不应误导我们得出他支持感觉数据理论的结论（请参见上文第2节，标题：心像理论）。相反，他对感知的观点最好被描述为直接（即非再现主义）实在论的复杂版本。
 
-Finally, we should note that on Husserl’s view there is a further important dimension to perceptual experience, in that it displays a phenomenological deep- or micro-structure constituted by _time-consciousness_ (_Husserliana_, vol. X, XXXIII; also see Miller 1984). This merely seemingly unconscious structure is essentially indexical in character and consists, at a given time, of both _retentions_, i.e., acts of immediate memory of what has been perceived “just a moment ago”, _original impressions_, i.e., acts of awareness of what is perceived “right now”, and _protentions_, i.e., immediate anticipations of what will be perceived “in a moment”. It is by such momentary structures of retentions, original impressions and protentions that moments of time are continuously constituted (and reconstituted) as past, present and future, respectively, so that it looks to the experiencing subject as if time were permanently flowing off.
+Finally, we should note that on Husserl’s view there is a further important dimension to perceptual experience, in that it displays a phenomenological deep- or micro-structure constituted by *time-consciousness* (*Husserliana*, vol. X, XXXIII; also see Miller 1984). This merely seemingly unconscious structure is essentially indexical in character and consists, at a given time, of both *retentions*, i.e., acts of immediate memory of what has been perceived “just a moment ago”, *original impressions*, i.e., acts of awareness of what is perceived “right now”, and *protentions*, i.e., immediate anticipations of what will be perceived “in a moment”. It is by such momentary structures of retentions, original impressions and protentions that moments of time are continuously constituted (and reconstituted) as past, present and future, respectively, so that it looks to the experiencing subject as if time were permanently flowing off.
 
 这种意向意识的深层结构在胡塞尔所称的“现象学还原”（Husserliana，卷 XIII，第 432 页及以下）中显露出来，该还原使用了“epoché”方法，以便根据意识的本质视野结构，对客观现实的超越进行有条理的理解。当总体现实被括起来时，最全面的 epoché形式被采用。然而，在这一点上仍然有一些东西不能被括起来：由当前保留和原始印象构成的“现在”经验的时间流动。意识的这些重复的时间特征在视野结构中是无法被有意义地怀疑的。它们为“内部感知”和相应的反思判断提供了一种 hýle 的形式，但这是一种非常特殊的 hýle：它是“感知”项目的一个适当部分，并且在感知过程中不会在概念上“形成”（反映了与时空对象不同，生活经验“不会预示自己”的事实；参见 Husserliana，卷 III/1，第 88 页）。因此，在这种情况下，经验和对象之间没有认识上的问题隔阂，这为现象学还原提供了一个适当的起点，现在可以通过使用整体论证策略进一步进行。毕竟，意向意识现在已经被显示为在其现象学最深层次上具有一致的结构。
 
@@ -165,161 +164,161 @@ Hyletic数据可以说是经验，以“非意向性”、“前反思的生活�
 
 ### Primary Literature
 
-The collected works of Husserl were published over the course of several years, starting in 1950, in _Husserliana: Edmund Husserl—Gesammelte Werke_, The Hague/Dordrecht: Nijhoff/Kluwer. The following works by Husserl have been translated into English, and they are listed in the chronological order of the publication dates of the German originals (if these were originally published).
+The collected works of Husserl were published over the course of several years, starting in 1950, in *Husserliana: Edmund Husserl—Gesammelte Werke*, The Hague/Dordrecht: Nijhoff/Kluwer. The following works by Husserl have been translated into English, and they are listed in the chronological order of the publication dates of the German originals (if these were originally published).
 
-* 1900/1 \[2nd, revised edition 1913], _Logical Investigations_, trans. J. N. Findlay, London: Routledge 1973.
-* 1910, “Philosophy as Rigorous Science,” trans. in Q. Lauer (ed.), _Phenomenology and the Crisis of Philosophy_, New York: Harper 1965.
-* 1913, _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book: General Introduction to a Pure Phenomenology_, trans. F. Kersten. The Hague: Nijhoff 1982 (**= **_**Ideas**_).
-* 1929, _Formal and Transcendental Logic_, trans. D. Cairns. The Hague: Nijhoff 1969.
-* 1931, _Cartesian Meditations_, trans. D. Cairns, Dordrecht: Kluwer 1988.
-* 1939, _Experience and Judgement_, trans. J. S. Churchill and K. Ameriks, London: Routledge 1973.
-* 1954, _The Crisis of European Sciences and Transcendental Phenomenology_, trans. D. Carr. Evanston: Northwestern University Press (**= **_**Crisis**_) 1970.
-* 1980, _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—Third Book: Phenomenology and the Foundations of the Sciences_, trans. T. E. Klein and W. E. Pohl, Dordrecht: Kluwer.
-* 1989, _Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—Second Book: Studies in the Phenomenology of Constitution_, trans. R. Rojcewicz and A. Schuwer, Dordrecht: Kluwer.
-* 1990, _On the Phenomenology of the Consciousness of Internal Time (1893–1917)_, trans. J. B. Brough, Dordrecht: Kluwer.
-* 1994, _Early Writings in the Philosophy of Logic and Mathematics_, trans. D. Willard, Dordrecht: Kluwer.
-* 1997, _Psychological and Transcendental Phenomenology and the Confrontation with Heidegger (1927–1931)_, trans. T. Sheehan and R. Palmer, Dordrecht: Kluwer.
-* 1999, _The Essential Husserl_, ed. D. Welton, Bloomington: Indiana University Press.
+* 1900/1 \[2nd, revised edition 1913], *Logical Investigations*, trans. J. N. Findlay, London: Routledge 1973.
+* 1910, “Philosophy as Rigorous Science,” trans. in Q. Lauer (ed.), *Phenomenology and the Crisis of Philosophy*, New York: Harper 1965.
+* 1913, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book: General Introduction to a Pure Phenomenology*, trans. F. Kersten. The Hague: Nijhoff 1982 (**= **_**Ideas**_).
+* 1929, *Formal and Transcendental Logic*, trans. D. Cairns. The Hague: Nijhoff 1969.
+* 1931, *Cartesian Meditations*, trans. D. Cairns, Dordrecht: Kluwer 1988.
+* 1939, *Experience and Judgement*, trans. J. S. Churchill and K. Ameriks, London: Routledge 1973.
+* 1954, *The Crisis of European Sciences and Transcendental Phenomenology*, trans. D. Carr. Evanston: Northwestern University Press (**= **_**Crisis**_) 1970.
+* 1980, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—Third Book: Phenomenology and the Foundations of the Sciences*, trans. T. E. Klein and W. E. Pohl, Dordrecht: Kluwer.
+* 1989, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—Second Book: Studies in the Phenomenology of Constitution*, trans. R. Rojcewicz and A. Schuwer, Dordrecht: Kluwer.
+* 1990, *On the Phenomenology of the Consciousness of Internal Time (1893–1917)*, trans. J. B. Brough, Dordrecht: Kluwer.
+* 1994, *Early Writings in the Philosophy of Logic and Mathematics*, trans. D. Willard, Dordrecht: Kluwer.
+* 1997, *Psychological and Transcendental Phenomenology and the Confrontation with Heidegger (1927–1931)*, trans. T. Sheehan and R. Palmer, Dordrecht: Kluwer.
+* 1999, *The Essential Husserl*, ed. D. Welton, Bloomington: Indiana University Press.
 
 ### Secondary Literature
 
 * Behnke, Elizabeth A., 1996, “Edmund Husserl’s Contribution to Phenomenology of the Body in Ideas II,” in Nenon and Embree (eds.), 135–160.
-* Bell, David, 1990, _Husserl_, London: Routledge.
-* Bernet, Rudolf, Iso Kern and Eduard Marbach, 1993, _An Introduction to Husserlian Phenomenology_, Evanston: Northwestern University Press.
-* Beyer, Christian, 1996, _Von Bolzano zu Husserl_, Dordrecht: Kluwer.
-* –––, 2000, _Intentionalität und Referenz_, Paderborn: mentis.
-* –––, 2001, “A Neo-Husserlian Theory of Speaker’s Reference,” _Erkenntnis_, 54: 277–297.
+* Bell, David, 1990, *Husserl*, London: Routledge.
+* Bernet, Rudolf, Iso Kern and Eduard Marbach, 1993, *An Introduction to Husserlian Phenomenology*, Evanston: Northwestern University Press.
+* Beyer, Christian, 1996, *Von Bolzano zu Husserl*, Dordrecht: Kluwer.
+* –––, 2000, *Intentionalität und Referenz*, Paderborn: mentis.
+* –––, 2001, “A Neo-Husserlian Theory of Speaker’s Reference,” *Erkenntnis*, 54: 277–297.
 * –––, 2011, “Husserls Konzeption des Bewusstseins,” in Cramer and Beyer (eds.), 43–54.
-* –––, 2018, “How to Analyse (Intentional) Consciousness in Terms of Meta-Belief and Temporal Awareness,” _Frontiers in Psychology_, 9: Art. 1628 (September 7).
-* –––, 2020, “Toward a Husserlian (Meta)Metaphysics,” in _Metametaphysics and the Sciences_, F. Kjosavik and C. Serck-Hanssen (eds.), New York/Oxford: Routledge.
-* Biceaga, Victor, 2010, _The Concept of Passivity in Husserl’s Phenomenology_, Dordrecht: Springer.
-* Boehm, Rudolf, 1968, _Vom Gesichtspunkt der Phänomenologie_, The Hague: Nijhoff.
-* Breyer, Thiemo, 2011, _Attentionalität und Intentionalität_, München: Wilhelm Fink Verlag.
-* Brudzińska, Jagna, 2020, _Bi-Valenz der Erfahrung_, Dordrecht: Springer.
-* Caminada, Emanuele, 2019, _Vom Gemeingeist zum Habitus: Husserls Ideen II_, Heidelberg: Springer.
-* Carr, David, 1987, _Interpreting Husserl_, Dordrecht: Nijhoff.
+* –––, 2018, “How to Analyse (Intentional) Consciousness in Terms of Meta-Belief and Temporal Awareness,” *Frontiers in Psychology*, 9: Art. 1628 (September 7).
+* –––, 2020, “Toward a Husserlian (Meta)Metaphysics,” in *Metametaphysics and the Sciences*, F. Kjosavik and C. Serck-Hanssen (eds.), New York/Oxford: Routledge.
+* Biceaga, Victor, 2010, *The Concept of Passivity in Husserl’s Phenomenology*, Dordrecht: Springer.
+* Boehm, Rudolf, 1968, *Vom Gesichtspunkt der Phänomenologie*, The Hague: Nijhoff.
+* Breyer, Thiemo, 2011, *Attentionalität und Intentionalität*, München: Wilhelm Fink Verlag.
+* Brudzińska, Jagna, 2020, *Bi-Valenz der Erfahrung*, Dordrecht: Springer.
+* Caminada, Emanuele, 2019, *Vom Gemeingeist zum Habitus: Husserls Ideen II*, Heidelberg: Springer.
+* Carr, David, 1987, *Interpreting Husserl*, Dordrecht: Nijhoff.
 * –––, 2019, “Intersubjectivity and Embodiment,” in Kjosavik, Beyer, and Fricke (eds.) 2019, 249–262.
-* Centrone, Stefania, 2010, _Logic and Philosophy of Mathematics in the Early Husserl_, Dordrecht: Springer.
-* Claesges, Ulrich, 1964, _Edmund Husserls Theorie der Raumkonstitution_, The Hague: Nijhoff.
-* Cramer, Konrad and Christian Beyer (eds.), 2011, _Edmund Husserl 1859–2009_, Berlin/New York: De Gruyter.
+* Centrone, Stefania, 2010, *Logic and Philosophy of Mathematics in the Early Husserl*, Dordrecht: Springer.
+* Claesges, Ulrich, 1964, *Edmund Husserls Theorie der Raumkonstitution*, The Hague: Nijhoff.
+* Cramer, Konrad and Christian Beyer (eds.), 2011, *Edmund Husserl 1859–2009*, Berlin/New York: De Gruyter.
 * Crespo, Mariano, 2019, “From Empathy to Sympathy: On the Importance of Love in the Experience of the Other,” in Kjosavik, Beyer, and Fricke (eds.) 2019, 235–248.
 * –––, 2021, “The Ethics of Husserl and his Contemporaries (Lipps, Pfänder, and Geiger),” in Jacobs (ed.) 2021, 367–376.
-* De Boer, Theodore, 1978, _The Development of Husserl’s Thought_, The Hague: Nijhoff.
-* De Santis, Daniele, 2021, _Husserl and the A Priori: Phenomenology and Rationality_. Dordrecht: Springer.
-* Dodd, James, 1997, _Idealism and Corporeity_, Dordrecht: Kluwer.
-* Donohoe, Janet, 2006, _Husserl on Ethics and Intersubjectivity_, Toronto: University of Toronto Press.
-* Dreyfus, Hubert (ed.), 1982, _Husserl, Intentionality, and Cognitive Science_, Cambridge, MA: MIT Press.
-* Drummond, John and Lester Embree (eds.), 1992, _The Phenomenology of the Noema_, Dordrecht: Kluwer.
-* –––, 2002, _Phenomenological Approaches to Moral Philosophy_, Dordrecht: Kluwer.
-* Drummond, John, 1990, _Husserlian Intentionality and Non-Foundational Realism_, Dordrecht: Kluwer.
+* De Boer, Theodore, 1978, *The Development of Husserl’s Thought*, The Hague: Nijhoff.
+* De Santis, Daniele, 2021, *Husserl and the A Priori: Phenomenology and Rationality*. Dordrecht: Springer.
+* Dodd, James, 1997, *Idealism and Corporeity*, Dordrecht: Kluwer.
+* Donohoe, Janet, 2006, *Husserl on Ethics and Intersubjectivity*, Toronto: University of Toronto Press.
+* Dreyfus, Hubert (ed.), 1982, *Husserl, Intentionality, and Cognitive Science*, Cambridge, MA: MIT Press.
+* Drummond, John and Lester Embree (eds.), 1992, *The Phenomenology of the Noema*, Dordrecht: Kluwer.
+* –––, 2002, *Phenomenological Approaches to Moral Philosophy*, Dordrecht: Kluwer.
+* Drummond, John, 1990, *Husserlian Intentionality and Non-Foundational Realism*, Dordrecht: Kluwer.
 * –––, 1992, “An Abstract Consideration: Deontologizing the Noema,” in Drummond and Embree (eds.), 189–209.
 * –––, 2018, “Husserl’s Middle Period and the Development of his Ethics,” in Zahavi (ed.) 2018, 135–154.
-* –––, 2022, _Historical Dictionary of Husserl‘s Philosophy_, 2nd edition, London: Rowman & Littlefield.
-* Føllesdal, Dagfinn, 1958, _Husserl und Frege_, Oslo: Aschehoug; trans. in Haaparanta (ed.) 1994.
+* –––, 2022, *Historical Dictionary of Husserl‘s Philosophy*, 2nd edition, London: Rowman & Littlefield.
+* Føllesdal, Dagfinn, 1958, *Husserl und Frege*, Oslo: Aschehoug; trans. in Haaparanta (ed.) 1994.
 * –––, 1969, “Husserl’s Notion of Noema,” reprinted in Dreyfus (ed.) 1982.
 * –––, 1988, “Husserl on Evidence and Justification,” in Sokolowski (ed.) 1988.
-* –––, 1990, “Noema and Meaning in Husserl,” _Phenomenology and Philosophical Research_, 50: 263–271.
-* –––, 1990a, “The _Lebenswelt_ in Husserl,” in: Haaparanta et al. 1990.
-* –––, 1998, “Husserl, Edmund (1859–1938),” in _Routledge Encyclopedia of Philosophy_ (Volume 4), London: Routledge.
-* Frank, Manfred and Niels Weidtmann (eds.), 2010, _Husserl und die Philosophie des Geistes_, Frankfurt/Main: Suhrkamp.
-* Gallagher, Shaun, 2011, “Embodiment and Phenomenal Qualities: An Enactive Interpretation,” _Philosophical Topics_, 39/1: 1–14.
-* Gander, Hans-Helmuth (ed.), 2010, _Husserl-Lexikon_, Darmstadt: Wissenschaftliche Buchgesellschaft.
-* Gurwitsch, Aron, 1966, _Studies in Phenomenology and Psychology_. Evanston: Northwestern University Press.
+* –––, 1990, “Noema and Meaning in Husserl,” *Phenomenology and Philosophical Research*, 50: 263–271.
+* –––, 1990a, “The *Lebenswelt* in Husserl,” in: Haaparanta et al. 1990.
+* –––, 1998, “Husserl, Edmund (1859–1938),” in *Routledge Encyclopedia of Philosophy* (Volume 4), London: Routledge.
+* Frank, Manfred and Niels Weidtmann (eds.), 2010, *Husserl und die Philosophie des Geistes*, Frankfurt/Main: Suhrkamp.
+* Gallagher, Shaun, 2011, “Embodiment and Phenomenal Qualities: An Enactive Interpretation,” *Philosophical Topics*, 39/1: 1–14.
+* Gander, Hans-Helmuth (ed.), 2010, *Husserl-Lexikon*, Darmstadt: Wissenschaftliche Buchgesellschaft.
+* Gurwitsch, Aron, 1966, *Studies in Phenomenology and Psychology*. Evanston: Northwestern University Press.
 * –––, 1982, “Husserl’s Theory of the Intentionality of Consciousness”, in: Dreyfus (ed.) 1982.
-* Haaparanta, Leila, with Martin Kusch and Ilkka Niiniluoto (eds.), 1990, _Language, Knowledge and Intentionality_, Helsinki (_Acta Philosophica Fennica_ 49).
-* Haaparanta, Leila (ed.), 1994, _Mind, Meaning and Mathematics_, Dordrecht: Kluwer.
+* Haaparanta, Leila, with Martin Kusch and Ilkka Niiniluoto (eds.), 1990, *Language, Knowledge and Intentionality*, Helsinki (*Acta Philosophica Fennica* 49).
+* Haaparanta, Leila (ed.), 1994, *Mind, Meaning and Mathematics*, Dordrecht: Kluwer.
 * Heinämaa, Sara, 2011, “The Body,” in Luft and Overgaard (eds.) 2011, 222–232.
-* –––, 2020, “Values of Love: Two Forms of Infinity Characteristic of Human Persons,” _Phenomenology and the Cognitive Sciences_, 19/3: 237–257.
-* Held, Klaus, 1966, _Lebendige Gegenwart_, The Hague: Nijhoff.
-* –––, 1990, “Edmund Husserl,” in _Philosophen des 20. Jahrhunderts_, ed. M. Fleischer, Darmstadt: Wissenschaftliche Buchgemeinschaft.
+* –––, 2020, “Values of Love: Two Forms of Infinity Characteristic of Human Persons,” *Phenomenology and the Cognitive Sciences*, 19/3: 237–257.
+* Held, Klaus, 1966, *Lebendige Gegenwart*, The Hague: Nijhoff.
+* –––, 1990, “Edmund Husserl,” in *Philosophen des 20. Jahrhunderts*, ed. M. Fleischer, Darmstadt: Wissenschaftliche Buchgemeinschaft.
 * –––, 2010, “Gott in Edmund Husserls Phänomenologie,” in Ierna, Jacobs, and Mattens (eds.), 723–738.
-* Holenstein, Elmar, 1972, _Phänomenologie der Assoziation_, The Hague: Nijhoff.
-* Hopp, Walter, 2011, _Perception and Knowledge_, Cambridge: Cambridge University Press.
-* –––, 2020, _Phenomenology: A Contemporary Introduction_, New York: Routledge.
-* Ierna, Carlo, with Hanne Jacobs and Filip Mattens (eds.), 2010, _Philosophy, Phenomenology, Sciences_, Dordrecht: Springer.
-* Ijselling, Samuel (ed.), 1990, _Husserl-Ausgabe und Husserl-Forschung_, Dordrecht: Kluwer.
-* Ingarden, Roman, 1975, _On the Motives which led Husserl to Transcendental Idealism_, trans. A. Hannibalson. The Hague: Nijhoff.
+* Holenstein, Elmar, 1972, *Phänomenologie der Assoziation*, The Hague: Nijhoff.
+* Hopp, Walter, 2011, *Perception and Knowledge*, Cambridge: Cambridge University Press.
+* –––, 2020, *Phenomenology: A Contemporary Introduction*, New York: Routledge.
+* Ierna, Carlo, with Hanne Jacobs and Filip Mattens (eds.), 2010, *Philosophy, Phenomenology, Sciences*, Dordrecht: Springer.
+* Ijselling, Samuel (ed.), 1990, *Husserl-Ausgabe und Husserl-Forschung*, Dordrecht: Kluwer.
+* Ingarden, Roman, 1975, *On the Motives which led Husserl to Transcendental Idealism*, trans. A. Hannibalson. The Hague: Nijhoff.
 * Jacobs, Hanne, 2010, “Towards a Phenomenological Account of Personal Identity,” in Ierna, Jacobs, and Mattens (eds.), 333–361.
-* ––– (ed.), 2021, _The Husserlian Mind_. London: Routledge.
-* Jardine, James, 2022, _Empathy, Embodiment, and the Person_, Dordrecht: Springer.
-* Kaplan, David, 1989, “Demonstratives,” in _Themes from Kaplan_, ed. J. Almog and J. Perry and H. Wettstein, New York: Oxford University Press.
-* Kern, Iso, 1964, _Husserl und Kant_, The Hague: Nijhoff.
+* ––– (ed.), 2021, *The Husserlian Mind*. London: Routledge.
+* Jardine, James, 2022, *Empathy, Embodiment, and the Person*, Dordrecht: Springer.
+* Kaplan, David, 1989, “Demonstratives,” in *Themes from Kaplan*, ed. J. Almog and J. Perry and H. Wettstein, New York: Oxford University Press.
+* Kern, Iso, 1964, *Husserl und Kant*, The Hague: Nijhoff.
 * –––, 2019, “Husserl’s Phenomenology of Intersubjectivity,” in Kjosavik, Beyer, and Fricke (eds.) 2019, 11–89.
-* Kjosavik, Frode, Christian Beyer and Christel Fricke (eds.), 2019, _Husserl’s Phenomenology of Intersubjectivity_, New York, Oxford: Routledge.
-* Küng, Guido, 1972, “The World as Noema and as Referent,” _Journal of the British Society for Phenomenology_, 3: 15–26.
-* Künne, Wolfgang, 1986, “Edmund Husserl: Intentionalität,” in _Grundprobleme der großen Philosophen: Philosophie der Neuzeit IV_, J. Speck (ed.), Göttingen: Vandenhoeck & Ruprecht.
-* Landgrebe, Ludwig, 1982a, “Das Problem des Anfangs der Philosophie in der Phänomenologie Husserls,” in: Ludwig Landgrebe, _Faktizität und Individuation_, Hamburg: Meiner, 21–37.
-* –––, 1982b, “Das Problem der passiven Konstitution,” in: Ludwig Landgrebe, _Faktizität und Individuation_, Hamburg: Meiner, 71–87.
-* Lee, Nam-In, 1993, _Edmund Husserls Phänomenologie der Instinkte_, Dordrecht: Kluwer.
-* Luft, Sebastian and Søren Overgaard (eds.), 2011, _The Routledge Companion to Phenomenology_, London/New York: Routledge.
-* Luft, Sebastian (ed.), 2011, _Husserls Ethik_, _Journal Phänomenologie_ 36, Special issue.
-* Luft, Sebastian and Maren Wehrle (eds.), 2018, _Husserl Handbuch_, Stuttgart: Metzler.
-* Marbach, Eduard, 1974, _Das Problem des Ich in der Phänomenologie Husserls_, The Hague: Nijhoff.
-* –––, 1993, _Mental Representation and Consciousness_, Dordrecht: Kluwer.
-* Melle, Ulrich, 1991, “The Development of Husserl’s Ethics,” _Études phénoménologiques_, 13–14: 115–135.
+* Kjosavik, Frode, Christian Beyer and Christel Fricke (eds.), 2019, *Husserl’s Phenomenology of Intersubjectivity*, New York, Oxford: Routledge.
+* Küng, Guido, 1972, “The World as Noema and as Referent,” *Journal of the British Society for Phenomenology*, 3: 15–26.
+* Künne, Wolfgang, 1986, “Edmund Husserl: Intentionalität,” in *Grundprobleme der großen Philosophen: Philosophie der Neuzeit IV*, J. Speck (ed.), Göttingen: Vandenhoeck & Ruprecht.
+* Landgrebe, Ludwig, 1982a, “Das Problem des Anfangs der Philosophie in der Phänomenologie Husserls,” in: Ludwig Landgrebe, *Faktizität und Individuation*, Hamburg: Meiner, 21–37.
+* –––, 1982b, “Das Problem der passiven Konstitution,” in: Ludwig Landgrebe, *Faktizität und Individuation*, Hamburg: Meiner, 71–87.
+* Lee, Nam-In, 1993, *Edmund Husserls Phänomenologie der Instinkte*, Dordrecht: Kluwer.
+* Luft, Sebastian and Søren Overgaard (eds.), 2011, *The Routledge Companion to Phenomenology*, London/New York: Routledge.
+* Luft, Sebastian (ed.), 2011, *Husserls Ethik*, *Journal Phänomenologie* 36, Special issue.
+* Luft, Sebastian and Maren Wehrle (eds.), 2018, *Husserl Handbuch*, Stuttgart: Metzler.
+* Marbach, Eduard, 1974, *Das Problem des Ich in der Phänomenologie Husserls*, The Hague: Nijhoff.
+* –––, 1993, *Mental Representation and Consciousness*, Dordrecht: Kluwer.
+* Melle, Ulrich, 1991, “The Development of Husserl’s Ethics,” *Études phénoménologiques*, 13–14: 115–135.
 * –––, 2002, “Edmund Husserl: From Reason to Love,” in Drummond and Embree (eds.), 2002, 229–248.
-* Mayer, Verena, with Christopher Erhard and Marisa Scherini (eds.), 2011, _Die Aktualität Husserls_, Freiburg: Alber.
-* Mensch, James, 1997, “Instincts: A _Husserlian_ Account,” _Husserl Studies_ 14/3, 219–237.
-* Miller, Izchak, 1984, _Husserl, Perception and Temporal Awareness_, Cambridge, MA: MIT Press.
-* Mohanty, J. N., 1982, _Husserl and Frege_, Bloomington: Indiana University Press.
+* Mayer, Verena, with Christopher Erhard and Marisa Scherini (eds.), 2011, *Die Aktualität Husserls*, Freiburg: Alber.
+* Mensch, James, 1997, “Instincts: A *Husserlian* Account,” *Husserl Studies* 14/3, 219–237.
+* Miller, Izchak, 1984, *Husserl, Perception and Temporal Awareness*, Cambridge, MA: MIT Press.
+* Mohanty, J. N., 1982, *Husserl and Frege*, Bloomington: Indiana University Press.
 * –––, 1995, “The Development of Husserl’s Thought,” in Smith and Smith (eds.), 1995.
-* –––, 2008, _The Philosophy of Edmund Husserl: A Historical Development_, New Haven: Yale University Press.
-* –––, 2011, _Edmund Husserl’s Freiburg Years: 1916–1938_, New Haven: Yale University Press.
-* Mohanty, J. N. and William McKenna (eds.), 1989, _Husserl’s Phenomenology: A Textbook_, Lanham: The Center for Advanced Research in Phenomenology and University Press of America.
-* Moran, Dermot and Joseph Cohen, 2012, _The Husserl Dictionary_, London/New York: Continuum Press.
-* Moran, Dermot and Rasmus T. Janssen (eds.), 2013, _The Phenomenology of Embodied Subjectivity_, Dordrecht, Springer.
-* Moran, Dermot, 2005, _Edmund Husserl_, Cambridge and Malden, MA: Polity Press.
-* Moran, Dermot, 2011, “Edmund Husserl’s Phenomenolology of Habituality and Habitus,” _Journal of the British Society for Phenomenology_, 42/1: 53–77.
-* Mulligan, Kevin and Barry Smith, 1986, “Husserl’s _Logical Investigations_,” _Grazer Philosophische Studien_, 28: 199–207.
+* –––, 2008, *The Philosophy of Edmund Husserl: A Historical Development*, New Haven: Yale University Press.
+* –––, 2011, *Edmund Husserl’s Freiburg Years: 1916–1938*, New Haven: Yale University Press.
+* Mohanty, J. N. and William McKenna (eds.), 1989, *Husserl’s Phenomenology: A Textbook*, Lanham: The Center for Advanced Research in Phenomenology and University Press of America.
+* Moran, Dermot and Joseph Cohen, 2012, *The Husserl Dictionary*, London/New York: Continuum Press.
+* Moran, Dermot and Rasmus T. Janssen (eds.), 2013, *The Phenomenology of Embodied Subjectivity*, Dordrecht, Springer.
+* Moran, Dermot, 2005, *Edmund Husserl*, Cambridge and Malden, MA: Polity Press.
+* Moran, Dermot, 2011, “Edmund Husserl’s Phenomenolology of Habituality and Habitus,” *Journal of the British Society for Phenomenology*, 42/1: 53–77.
+* Mulligan, Kevin and Barry Smith, 1986, “Husserl’s *Logical Investigations*,” *Grazer Philosophische Studien*, 28: 199–207.
 * Mulligan, Kevin, 1995, “Perception,” in Smith and Smith (eds.) 1995.
-* Murphy, Richard, 1980, _Hume and Husserl_, The Hague: Nijhoff.
-* Nenon, Thomas and Lester Embree (eds.), 1996, _Issues in Husserl’s “Ideas II”_, Dordrecht: Kluwer.
-* Overgaard, Søren, 2004, _Husserl and Heidegger on Being in the World_, Dordrecht: Springer.
-* Perry, John, 1980, “A Problem About Continued Belief,” reprinted in _The Problem of the Essential Indexical_, New York: Oxford University Press 1993.
-* Petitot, Jean, with Francisco Varela, Bernard Pachoud, and Jean-Michel Roy (eds.), 1999, _Naturalizing Phenomenology_, Stanford: Stanford University Press.
-* Peucker, Henning, 2008, “From Logic to the Person: An Introduction to Husserl’s Ethics,” _Review of Metaphysics_, 62: 307–325.
-* Rang, Bernard, 1973, _Kausalität und Motivation_, The Hague: Nijhoff.
-* Rinofner-Kreidl, Sonja, 2000, _Edmund Husserl: Zeitlichkeit und Intentionalität_, Freiburg/Br.: Alber.
-* Rollinger, Robin, 1999, _Husserl’s Position in the School of Brentano_, Dordrecht: Kluwer.
-* Römer, Inga 2011: “Von der wertmaximierenden Leistungsmaschine zur vernünftigen liebenden Person: Subjektivität in Husserls Ethik,” _Phänomenologie_, 36: 21–35.
-* Römpp, Georg, 1991, _Husserls Phänomenologie der Intersubjektivität_, Dordrecht: Kluwer.
-* Schuhmann, Karl, 1977, _Husserl-Chronik_, The Hague: Nijhoff.
-* –––, 1988, _Husserls Staatsphilosophie_, Freiburg/Br.: Alber.
-* Schütz, Alfred, 1966, “The Problem of Transcendental Intersubjectivity in Husserl,” in _Collected Papers III_, The Hague: Nijhoff.
-* Schwabe-Hansen, Elling, 1991, _Das Verhältnis von transzendentaler und konkreter Subjektivität in der Phänomenologie Edmund Husserls_, Oslo, Munich: Solum/Fink.
-* Smith, A. D., 2003, _Husserl and the Cartesian Meditations_, London: Routledge.
-* Smith, Barry and David Woodruff Smith (eds.), 1995, _The Cambridge Companion to Husserl_, Cambridge: Cambridge University Press.
-* Smith, Barry (ed.), 1992, _Parts and Moments_, Munich: Philosophia Verlag.
-* Smith, David Woodruff and Ronald McIntyre, 1982, _Husserl and Intentionality_, Dordrecht: Reidel.
-* Smith, David Woodruff, 1989, _The Circle of Acquaintance_, Dordrecht: Kluwer.
-* –––, 2013, _Husserl_, 2nd revised edition, London: Routledge; 1st edition, 2007.
-* Sokolowski, Robert, 1970, _The Formation of Husserl’s Concept of Constitution_, The Hague: Nijhoff.
-* –––, 1971, “The Structure and Content of Husserl’s _Logical Investigations_,” _Inquiry_, 14: 318–347.
-* –––, 1974, _Husserlian Meditations: How Words Present Things_, Evanston: Northwestern University Press.
-* –––, 1987, “Husserl and Frege,” _The Journal of Philosophy_, 84: 521–528.
-* Sokolowski, Robert (ed.), 1988, _Edmund Husserl and the Phenomenological Tradition_, Washington: Catholic University of America Press.
-* Soldati, Gianfranco, 1994, _Bedeutung und psychischer Gehalt_, Paderborn: Schöningh.
-* Spiegelberg, Herbert, 1982, _The Phenomenological Movement_, 3rd revised and enlarged edition, The Hague: Nijhoff.
-* Staiti, Andrea (ed.), 2015, _Commentary on Husserl’s “Ideas I”_, Berlin/Boston: de Gruyter.
-* Stein, Edith, 1917, _On the Problem of Empathy_, trans. W. Stein. The Hague: Nijhoff 1970.
-* Stepanians, Markus, 1998, _Frege und Husserl über Urteilen und Denken_, Paderborn: mentis.
-* Ströker, Elisabeth, 1993, _Husserl’s Transcendental Phenomenology_, Stanford: Stanford University Press.
-* Ströker, Elisabeth (ed.), 1979, _Lebenswelt und Wissenschaft in der Philosophie Edmund Husserls_, Frankfurt/M.: Klostermann.
-* Süßbauer, Alfons, 1995, _Intentionalität, Sachverhalt, Noema_, Freiburg/Br.: Alber.
-* Taipale, Joona, 2014, _Phenomenology and Embodiment_, Evanston: Northwestern University Press.
-* Tugendhat, Ernst, 1967, _Der Wahrheitsbegriff bei Husserl und Heidegger_, Berlin: de Gruyter.
-* Volonte, Paolo, 1997, _Husserls Phänomenologie der Imagination_, Freiburg/Br.: Alber.
-* Waldenfels, Bernard, 1971, _Das Zwischenreich des Dialogs_, The Hague: Nijhoff.
-* Wehrle, Maren, 2013, _Horizonte der Aufmerksamkeit_, München: Wilhelm Fink Verlag.
-* Welton, Don, 1983, _The Origins of Meaning_, The Hague: Nijhoff.
-* Willard, Dallas, 1984, _Logic and the Objectivity of Knowledge_, Athens/Ohio: University of Ohio Press.
-* Wu, Jiahao, 2021, _Das Grammatikalitätsphänomen in Husserls Phänomenologie_, Georg-August-Universität Göttingen. doi:10.53846/goediss-8616
-* Yamaguchi, Ichiro, 1982, _Passive Synthesis und Intersubjektivität bei Edmund Husserl_, The Hague: Nijhoff.
-* Zahavi, Dan, 2003, _Husserl’s Phenomenology_, Stanford: Stanford University Press.
-* –––, 2014, “Edmund Husserl,” in _Oxford Bibliographies in Philosophy_, Oxford: Oxford University Press.
+* Murphy, Richard, 1980, *Hume and Husserl*, The Hague: Nijhoff.
+* Nenon, Thomas and Lester Embree (eds.), 1996, *Issues in Husserl’s “Ideas II”*, Dordrecht: Kluwer.
+* Overgaard, Søren, 2004, *Husserl and Heidegger on Being in the World*, Dordrecht: Springer.
+* Perry, John, 1980, “A Problem About Continued Belief,” reprinted in *The Problem of the Essential Indexical*, New York: Oxford University Press 1993.
+* Petitot, Jean, with Francisco Varela, Bernard Pachoud, and Jean-Michel Roy (eds.), 1999, *Naturalizing Phenomenology*, Stanford: Stanford University Press.
+* Peucker, Henning, 2008, “From Logic to the Person: An Introduction to Husserl’s Ethics,” *Review of Metaphysics*, 62: 307–325.
+* Rang, Bernard, 1973, *Kausalität und Motivation*, The Hague: Nijhoff.
+* Rinofner-Kreidl, Sonja, 2000, *Edmund Husserl: Zeitlichkeit und Intentionalität*, Freiburg/Br.: Alber.
+* Rollinger, Robin, 1999, *Husserl’s Position in the School of Brentano*, Dordrecht: Kluwer.
+* Römer, Inga 2011: “Von der wertmaximierenden Leistungsmaschine zur vernünftigen liebenden Person: Subjektivität in Husserls Ethik,” *Phänomenologie*, 36: 21–35.
+* Römpp, Georg, 1991, *Husserls Phänomenologie der Intersubjektivität*, Dordrecht: Kluwer.
+* Schuhmann, Karl, 1977, *Husserl-Chronik*, The Hague: Nijhoff.
+* –––, 1988, *Husserls Staatsphilosophie*, Freiburg/Br.: Alber.
+* Schütz, Alfred, 1966, “The Problem of Transcendental Intersubjectivity in Husserl,” in *Collected Papers III*, The Hague: Nijhoff.
+* Schwabe-Hansen, Elling, 1991, *Das Verhältnis von transzendentaler und konkreter Subjektivität in der Phänomenologie Edmund Husserls*, Oslo, Munich: Solum/Fink.
+* Smith, A. D., 2003, *Husserl and the Cartesian Meditations*, London: Routledge.
+* Smith, Barry and David Woodruff Smith (eds.), 1995, *The Cambridge Companion to Husserl*, Cambridge: Cambridge University Press.
+* Smith, Barry (ed.), 1992, *Parts and Moments*, Munich: Philosophia Verlag.
+* Smith, David Woodruff and Ronald McIntyre, 1982, *Husserl and Intentionality*, Dordrecht: Reidel.
+* Smith, David Woodruff, 1989, *The Circle of Acquaintance*, Dordrecht: Kluwer.
+* –––, 2013, *Husserl*, 2nd revised edition, London: Routledge; 1st edition, 2007.
+* Sokolowski, Robert, 1970, *The Formation of Husserl’s Concept of Constitution*, The Hague: Nijhoff.
+* –––, 1971, “The Structure and Content of Husserl’s *Logical Investigations*,” *Inquiry*, 14: 318–347.
+* –––, 1974, *Husserlian Meditations: How Words Present Things*, Evanston: Northwestern University Press.
+* –––, 1987, “Husserl and Frege,” *The Journal of Philosophy*, 84: 521–528.
+* Sokolowski, Robert (ed.), 1988, *Edmund Husserl and the Phenomenological Tradition*, Washington: Catholic University of America Press.
+* Soldati, Gianfranco, 1994, *Bedeutung und psychischer Gehalt*, Paderborn: Schöningh.
+* Spiegelberg, Herbert, 1982, *The Phenomenological Movement*, 3rd revised and enlarged edition, The Hague: Nijhoff.
+* Staiti, Andrea (ed.), 2015, *Commentary on Husserl’s “Ideas I”*, Berlin/Boston: de Gruyter.
+* Stein, Edith, 1917, *On the Problem of Empathy*, trans. W. Stein. The Hague: Nijhoff 1970.
+* Stepanians, Markus, 1998, *Frege und Husserl über Urteilen und Denken*, Paderborn: mentis.
+* Ströker, Elisabeth, 1993, *Husserl’s Transcendental Phenomenology*, Stanford: Stanford University Press.
+* Ströker, Elisabeth (ed.), 1979, *Lebenswelt und Wissenschaft in der Philosophie Edmund Husserls*, Frankfurt/M.: Klostermann.
+* Süßbauer, Alfons, 1995, *Intentionalität, Sachverhalt, Noema*, Freiburg/Br.: Alber.
+* Taipale, Joona, 2014, *Phenomenology and Embodiment*, Evanston: Northwestern University Press.
+* Tugendhat, Ernst, 1967, *Der Wahrheitsbegriff bei Husserl und Heidegger*, Berlin: de Gruyter.
+* Volonte, Paolo, 1997, *Husserls Phänomenologie der Imagination*, Freiburg/Br.: Alber.
+* Waldenfels, Bernard, 1971, *Das Zwischenreich des Dialogs*, The Hague: Nijhoff.
+* Wehrle, Maren, 2013, *Horizonte der Aufmerksamkeit*, München: Wilhelm Fink Verlag.
+* Welton, Don, 1983, *The Origins of Meaning*, The Hague: Nijhoff.
+* Willard, Dallas, 1984, *Logic and the Objectivity of Knowledge*, Athens/Ohio: University of Ohio Press.
+* Wu, Jiahao, 2021, *Das Grammatikalitätsphänomen in Husserls Phänomenologie*, Georg-August-Universität Göttingen. doi:10.53846/goediss-8616
+* Yamaguchi, Ichiro, 1982, *Passive Synthesis und Intersubjektivität bei Edmund Husserl*, The Hague: Nijhoff.
+* Zahavi, Dan, 2003, *Husserl’s Phenomenology*, Stanford: Stanford University Press.
+* –––, 2014, “Edmund Husserl,” in *Oxford Bibliographies in Philosophy*, Oxford: Oxford University Press.
 * –––, 2015, “Phenomenology of Reflection,” in Staiti (ed.) 2015, 177–194.
-* –––, 2017, _Husserl’s Legacy_, Oxford: Oxford University Press.
-* –––, (ed.) 2018, _The Oxford Handbook of the History of Phenomenology_, Oxford: Oxford University Press.
+* –––, 2017, *Husserl’s Legacy*, Oxford: Oxford University Press.
+* –––, (ed.) 2018, *The Oxford Handbook of the History of Phenomenology*, Oxford: Oxford University Press.
 * –––, 2018, “Intersubjectivity, Sociality, Community: The Contributions of the Early Phenomenologists,” in Zahavi (ed.), 2018, 734–752.
 
 ## Academic Tools

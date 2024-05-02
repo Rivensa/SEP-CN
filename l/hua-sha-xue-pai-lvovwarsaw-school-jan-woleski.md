@@ -1,10 +1,9 @@
 # 华沙学派 Lvov-Warsaw School (Jan Woleński)
 
-_首次发表于2003年5月29日；实质修订于2023年11月30日。_
+*首次发表于2003年5月29日；实质修订于2023年11月30日。*
 
 华沙学派（LWS）是波兰哲学史上最重要的运动。它由卡齐米日·特瓦多夫斯基于 19 世纪末在利沃夫（即当时属于奥匈帝国的乌克兰城市利沃夫）建立。华沙学派在 1918 年至 1939 年间繁荣发展。卡齐米日·艾杜基耶维奇、塔德乌什·科塔尔宾斯基、斯坦尼斯瓦夫·莱什涅夫斯基、扬·鲁卡谢维奇和阿尔弗雷德·塔尔斯基是其最著名的成员。在许多方面，它是类似于维也纳学派的分析学派。另一方面，华沙学派对传统哲学的态度比逻辑经验主义更为积极。尽管逻辑成为华沙学派活动中最重要的领域，但其成员在哲学的各个领域都积极活跃。第二次世界大战和 1945 年后波兰的政治变革导致华沙学派作为一个有组织的哲学企业的结束。人们可以认为它后来由其代表个体继续发展。
 
- 
 ***
 
 ## 1. 华沙学派的起源和发展
@@ -73,7 +72,7 @@ _首次发表于2003年5月29日；实质修订于2023年11月30日。_
 
 Leśniewski 打算制定一个完整的逻辑系统，作为整个科学，特别是数学的基础。该系统由三个部分组成：(a)原型论（广义命题演算）；(b)本体论（术语逻辑）；(c)整体论（部分与整体的理论）。原型论是一个演算，其中量词绑定命题变量，变量引用可在常规函数上构建的任意函数：即命题变量的函数，函数的函数等。一般来说，如果我们仅从句子的范畴开始，原型论量词将绑定所有进一步可定义的范畴的变量。原型论的最短公理（用类似于罗素的符号表示）是以下公式：
 
-> \[_pq_] :: _p_ ↔ . _q_ ↔ :.\[_f_]:. _f_ (_pf_ (_p_ \[_u_]. _u_)). ↔ : \[_r_]: _f_ (_qr_). ↔ . _q_ ↔ _p_
+> \[*pq*] :: *p* ↔ . *q* ↔ :.\[*f*]:. *f* (*pf* (*p* \[*u*]. *u*)). ↔ : \[*r*]: *f* (*qr*). ↔ . *q* ↔ *p*
 
 （Sobociński）。原型论是一种绝对的命题演算，因为它的定理是双值原理。事实上，原型论启发了Łukasiewicz 的带有可变函数的系统，另一个绝对的命题逻辑。
 
@@ -81,13 +80,13 @@ Leśniewski 打算制定一个完整的逻辑系统，作为整个科学，特�
 
 （O）
 
-\[Aa]::（A ε a）↔ :.\[ΣB].（B ε a）:. \[BC]：（B ε A）。 （C ε A）。→ (_B_ ε _C_):. \[_B_]: (_B_ ε _A_) →. _B_ ε _a_.
+\[Aa]::（A ε a）↔ :.\[ΣB].（B ε a）:. \[BC]：（B ε A）。 （C ε A）。→ (*B* ε *C*):. \[*B*]: (*B* ε *A*) →. *B* ε *a*.
 
 其简化形式（由 Sobociński 发现）为：
 
 (O′)
 
-\[_Aa_] _A_ ε_a_: ↔.\[Σ_B_]. (_A_ ε_B_). (_B_ ε_a_).
+\[*Aa*] *A* ε_a_: ↔.\[Σ_B_]. (*A* ε_B_). (*B* ε_a_).
 
 (O)和(O′)的右侧是合取。尽管(O)在形式上很复杂，但它的直观内容很简单。它建立了句子“A 是 a”等价于以下条件的事实：(a) A 不是一个空术语；(b) 只有一个 A；(c) 任何是 A 的东西也是 a。因此，“A 是 a”是一个单数句子，当且仅当(a)-(c)成立时为真。特别地，如果 A 是一个普通术语或空术语，这样的句子是假的。另一方面，(O)（或 O′）对于所有术语都是有效的，甚至是普通的或空的术语。因此，LO 在所有领域中都是有效的，包括空领域，并且可以被视为自由逻辑的第一个系统。在 LO 中，我们可以定义两个重要的概念，即存在和成为对象的概念。这是通过以下方式完成的（我使用非符号形式）：(1) 对于任何 A，A 存在=存在某个 x，x 是 A；(2) 对于任何 A，A 是一个对象=存在某个 x，A 是 x。LO 执行通常由谓词逻辑提供的功能。常量ε的含义足够一般，可以定义身份和类的包含。由于这些概念可以在基本本体论中定义，所以它比一阶逻辑更强大。
 
@@ -181,103 +180,103 @@ The bibliography is divided into two sections. The first contains writings of th
 
 #### A. Anthologies
 
-* McCall, S. (ed.), 1967, _Polish Logic 1920–1939_, Oxford: Clarendon Press.
-* Pearce, D. and Woleński, J. (eds.), 1988, _Logischer Rationalismus. Philosophische Schriften der Lemberg-Warschauer Schule_, Frankfurt am Main: Athenäum.
+* McCall, S. (ed.), 1967, *Polish Logic 1920–1939*, Oxford: Clarendon Press.
+* Pearce, D. and Woleński, J. (eds.), 1988, *Logischer Rationalismus. Philosophische Schriften der Lemberg-Warschauer Schule*, Frankfurt am Main: Athenäum.
 
 #### B. Books by, or Containing the Work of, Particular LWS Philosophers
 
-* Ajdukiewicz, K., 1958, _Abriss der Logik_, Berlin: Aufbau-Verlag.
-* Ajdukiewicz, K., 1973, _Problems and Theories of Philosophy_, Cambridge: Cambridge University Press.
-* Ajdukiewicz, K., 1974, _Pragmatic Logic_, Dordrecht: Reidel.
-* Ajdukiewicz, K., 1978. _The Scientific World-Perspective and Other essays, 1931–1963_, Dordrecht: Reidel.
-* Bocheński, I. M., 1961, _A History of Formal Logic_, Notre Dame: The University of Notre Dame Press.
-* Czeżowski, T., 2000, _Knowledge, Science and Values_. _A Program for Scientific Philosophy_, Amsterdam: Rodopi.
-* Kotarbiński, T., 1965, _Leons sur l’histoire de la logique_, Warszawa: Państwowe Wydawnictwo Naukowe.
-* Kotarbiński, T., 1966, _Gnosiology. The Scientific Approach to the Theory of Knowledge_, Wrocław: Ossolineum.
-* Leśniewski, S., 1988, _Lecture Notes in Logic_, Dordrecht: Kluwer.
-* Leśniewski, S., 1992, _Collected Works_, Dodrecht: Kluwer.
-* Łukasiewicz, J., 1957, _Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic_, Oxford: Clarendon Press, 2nd edition.
-* Łukasiewicz, J., 1963, _Elements of Mathematical Logic_, Warszawa: Państwowe Wydawnictwo Naukowe.
-* Łukasiewicz, J., 1970, _Selected Works_, Amsterdam: North-Holland.
-* Łukasiewicz, J., 1993, _Über den Satz des Widerspruchs bei Aristoteles_, Hildesheim: Olms.
-* Mehlberg, H., 1956, _The Reach of Science_, Toronto: University of Toronto Press.
-* Mehlberg, H., 1980, _Time, Causality, and the Quantum Theory_, Dordrecht: Reidel.
-* Meinong, A. and Twardowski, K., 2016, _Der Briefwechsel_, Vernanzio Raspa (ed.), Berlin: de Gruyter.
-* Mostowski, A., 1979, _Foundational Studies_, 2 vols., Amsterdam: North-Holland.
-* Tarski, A., 1941, _Introduction to Logic and to the Methodology of Deductive Sciences_, Oxford: Oxford University Press, Oxford.
-* Tarski, A., 1956 \[1984], _Logic, Semantics, Metamathematics_, Oxford: Clarendon Press; 2nd edition, Indianapolis: Hackett, 1984.
-* Tarski, A., 1986 \[2019], _Collected Papers_, 4 vols., Basel: Birkhäuser; 2nd edition, 2019.
-* Twardowski, K., 1999, _On Actions, Products and Other Topics in Philosophy_, Amsterdam: Rodopi.
-* Twardowski, K., 2014, _On Prejudices, Judgments and Other Topics in Philosophy_, Leiden: Brill/Rodopi.
-* Twardowski, K., 2017, _Gesammelte deutsche Werke_, Berlin: Springer.
-* Wajsberg, M., 1977, _Logical Works_, Wrocław: Ossolineum.
-* Zawirski, Z., 1994, _Selected Writings on Time, Logic & Methodology of Science_, Dordrecht: Kluwer.
+* Ajdukiewicz, K., 1958, *Abriss der Logik*, Berlin: Aufbau-Verlag.
+* Ajdukiewicz, K., 1973, *Problems and Theories of Philosophy*, Cambridge: Cambridge University Press.
+* Ajdukiewicz, K., 1974, *Pragmatic Logic*, Dordrecht: Reidel.
+* Ajdukiewicz, K., 1978. *The Scientific World-Perspective and Other essays, 1931–1963*, Dordrecht: Reidel.
+* Bocheński, I. M., 1961, *A History of Formal Logic*, Notre Dame: The University of Notre Dame Press.
+* Czeżowski, T., 2000, *Knowledge, Science and Values*. *A Program for Scientific Philosophy*, Amsterdam: Rodopi.
+* Kotarbiński, T., 1965, *Leons sur l’histoire de la logique*, Warszawa: Państwowe Wydawnictwo Naukowe.
+* Kotarbiński, T., 1966, *Gnosiology. The Scientific Approach to the Theory of Knowledge*, Wrocław: Ossolineum.
+* Leśniewski, S., 1988, *Lecture Notes in Logic*, Dordrecht: Kluwer.
+* Leśniewski, S., 1992, *Collected Works*, Dodrecht: Kluwer.
+* Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, Oxford: Clarendon Press, 2nd edition.
+* Łukasiewicz, J., 1963, *Elements of Mathematical Logic*, Warszawa: Państwowe Wydawnictwo Naukowe.
+* Łukasiewicz, J., 1970, *Selected Works*, Amsterdam: North-Holland.
+* Łukasiewicz, J., 1993, *Über den Satz des Widerspruchs bei Aristoteles*, Hildesheim: Olms.
+* Mehlberg, H., 1956, *The Reach of Science*, Toronto: University of Toronto Press.
+* Mehlberg, H., 1980, *Time, Causality, and the Quantum Theory*, Dordrecht: Reidel.
+* Meinong, A. and Twardowski, K., 2016, *Der Briefwechsel*, Vernanzio Raspa (ed.), Berlin: de Gruyter.
+* Mostowski, A., 1979, *Foundational Studies*, 2 vols., Amsterdam: North-Holland.
+* Tarski, A., 1941, *Introduction to Logic and to the Methodology of Deductive Sciences*, Oxford: Oxford University Press, Oxford.
+* Tarski, A., 1956 \[1984], *Logic, Semantics, Metamathematics*, Oxford: Clarendon Press; 2nd edition, Indianapolis: Hackett, 1984.
+* Tarski, A., 1986 \[2019], *Collected Papers*, 4 vols., Basel: Birkhäuser; 2nd edition, 2019.
+* Twardowski, K., 1999, *On Actions, Products and Other Topics in Philosophy*, Amsterdam: Rodopi.
+* Twardowski, K., 2014, *On Prejudices, Judgments and Other Topics in Philosophy*, Leiden: Brill/Rodopi.
+* Twardowski, K., 2017, *Gesammelte deutsche Werke*, Berlin: Springer.
+* Wajsberg, M., 1977, *Logical Works*, Wrocław: Ossolineum.
+* Zawirski, Z., 1994, *Selected Writings on Time, Logic & Methodology of Science*, Dordrecht: Kluwer.
 
 ### Works on the LWS and its Particular Members
 
 #### A. About the LWS
 
-* Brożek, A., Chybińska, A., and Jadacki, J. J. (eds.), 2015, _Tradition of the Lvov-Warsaw School: Ideas and Continuation_, Leiden: Brill/Rodopi.
-* Brożek, A., Stadler, F., and Woleński, J. (eds.), 2017, _The Significance of the Lvov-Warsaw School in the European Culture_, Berlin: Springer.
-* Brożek, A., and Jadacki, J. J. (eds.), 2022, _Intuition and Analysis. Roman Ingarden and the School of Kazimierz Twardowski_, Kraków: Kraków: Copernicus Center Press.
-* Chrudzimski, A. and Łukasiewicz, D.(eds.), 2006, _Actions, Products, and Things. Brentano and Polish Philosophy_, Berlin: de Gruyter.
-* Coniglione, F. Poli, R. and Woleński, J. (eds.), 1993, _Polish Scientific Philosophy. The Lvov-Warsaw School_, Amsterdam: Rodopi.
-* Drabarek, A., Woleński and J., Radzki, M. (eds.), 2019, _Interdisciplinary Investigations into the Lvov-Warsaw School_, Cham: Palgrave Macmillan.
-* Garrido, Á. and Wybraniec-Skardowska, U. (eds.), 2018, _The Lvov-Warsaw School. Past and Present_, Cham: Birkhäuser.
-* Jadacki, J. J., 2009, _Polish Analytical Philosophy_, Semper: Warszawa.
+* Brożek, A., Chybińska, A., and Jadacki, J. J. (eds.), 2015, *Tradition of the Lvov-Warsaw School: Ideas and Continuation*, Leiden: Brill/Rodopi.
+* Brożek, A., Stadler, F., and Woleński, J. (eds.), 2017, *The Significance of the Lvov-Warsaw School in the European Culture*, Berlin: Springer.
+* Brożek, A., and Jadacki, J. J. (eds.), 2022, *Intuition and Analysis. Roman Ingarden and the School of Kazimierz Twardowski*, Kraków: Kraków: Copernicus Center Press.
+* Chrudzimski, A. and Łukasiewicz, D.(eds.), 2006, *Actions, Products, and Things. Brentano and Polish Philosophy*, Berlin: de Gruyter.
+* Coniglione, F. Poli, R. and Woleński, J. (eds.), 1993, *Polish Scientific Philosophy. The Lvov-Warsaw School*, Amsterdam: Rodopi.
+* Drabarek, A., Woleński and J., Radzki, M. (eds.), 2019, *Interdisciplinary Investigations into the Lvov-Warsaw School*, Cham: Palgrave Macmillan.
+* Garrido, Á. and Wybraniec-Skardowska, U. (eds.), 2018, *The Lvov-Warsaw School. Past and Present*, Cham: Birkhäuser.
+* Jadacki, J. J., 2009, *Polish Analytical Philosophy*, Semper: Warszawa.
 * Jadacki, J. J., Paśniczek, J. (eds.), 2006, The Lvov-Warsaw School — the New Generation, Rodopi: Amsterdam.
-* Jordan, Z., 1945, _The Development of Mathematical Logic and of Logical Positivism in Poland between Two Wars_, Oxford: Clarendon Press.
-* Kijania-Placek, K. and Woleński, J. (eds.), 1996, _The Lvov-Warsaw School and Contemporary Philosophy_, Part II, _Axiomathes_, 7(3): 293–415.
-* Kijania-Placek, K. and Woleński, J. (eds.), 1998, _The Lvov-Warsaw School and Contemporary Philosophy_, Dordrecht: Kluwer.
-* Krajewski, W. (ed.), 2001, _Polish Philosophers of Science and Nature in the 20th Century_, Rodopi: Amsterdam.
-* Lapointe, S., Woleński, J., Mathieu, M., Miśkiewicz, W., 2009, _The Golden Age of Polish Philosophy. Kazimierz Twardowski’s Philosophical Legacy_, Dordrecht: Springer.
-* Murawski, R., 2014, _The Philosophy of Mathematics and Logic in the 1920s and 1930s in Poland_, Basel: Birkhäuser.
-* Skolimowski, H., 1967, _Polish Analytical Philosophy_, London: Routledge and Kegan Paul.
-* Szaniawski, K. (ed.), 1989, _The Vienna Circle and the Lvov-Warsaw School_, Dordrecht: Kluwer.
-* Woleński, J., 1989, _Logic and Philosophy in the Lvov-Warsaw School_, Dordrecht: Kluwer.
+* Jordan, Z., 1945, *The Development of Mathematical Logic and of Logical Positivism in Poland between Two Wars*, Oxford: Clarendon Press.
+* Kijania-Placek, K. and Woleński, J. (eds.), 1996, *The Lvov-Warsaw School and Contemporary Philosophy*, Part II, *Axiomathes*, 7(3): 293–415.
+* Kijania-Placek, K. and Woleński, J. (eds.), 1998, *The Lvov-Warsaw School and Contemporary Philosophy*, Dordrecht: Kluwer.
+* Krajewski, W. (ed.), 2001, *Polish Philosophers of Science and Nature in the 20th Century*, Rodopi: Amsterdam.
+* Lapointe, S., Woleński, J., Mathieu, M., Miśkiewicz, W., 2009, *The Golden Age of Polish Philosophy. Kazimierz Twardowski’s Philosophical Legacy*, Dordrecht: Springer.
+* Murawski, R., 2014, *The Philosophy of Mathematics and Logic in the 1920s and 1930s in Poland*, Basel: Birkhäuser.
+* Skolimowski, H., 1967, *Polish Analytical Philosophy*, London: Routledge and Kegan Paul.
+* Szaniawski, K. (ed.), 1989, *The Vienna Circle and the Lvov-Warsaw School*, Dordrecht: Kluwer.
+* Woleński, J., 1989, *Logic and Philosophy in the Lvov-Warsaw School*, Dordrecht: Kluwer.
 
 #### B. Works on Particular Members
 
 **Ajdukiewicz**
 
-* Grabarczyk, P., 2019, _Directival Theory of Meaning. From Syntax and Pragmatics to Narrow Linguistic Content_, Berlin: Springer.
-* Sinisi, V. and Woleński, J. (eds.), 1995, _The Heritage of Kazimierz Ajdukiewicz_, Amsterdam: Rodopi.
+* Grabarczyk, P., 2019, *Directival Theory of Meaning. From Syntax and Pragmatics to Narrow Linguistic Content*, Berlin: Springer.
+* Sinisi, V. and Woleński, J. (eds.), 1995, *The Heritage of Kazimierz Ajdukiewicz*, Amsterdam: Rodopi.
 
 **Kotarbiński**
 
-* Gasparski, W., 1993, _A Philosophy of Practicality: A Treatise on the Philosophy of Tadeusz Kotarbiński_, Helsinki: Societas Philosophica Fennica.
-* Makowski, P., 2017, _Tadeusz Kotarbiński’s Action Theory: Reinterpretive Studies_, Cham: Palgrave Macmillan.
-* Woleński, J. (ed.), 1990, _Kotarbiński: Logic, Semantics and Ontology_, Dordrecht: Kluwer.
+* Gasparski, W., 1993, *A Philosophy of Practicality: A Treatise on the Philosophy of Tadeusz Kotarbiński*, Helsinki: Societas Philosophica Fennica.
+* Makowski, P., 2017, *Tadeusz Kotarbiński’s Action Theory: Reinterpretive Studies*, Cham: Palgrave Macmillan.
+* Woleński, J. (ed.), 1990, *Kotarbiński: Logic, Semantics and Ontology*, Dordrecht: Kluwer.
 
 **Leśniewski**
 
-* Luschei, E., 1963, _The Logical Systems of Leśniewski_, Amsterdam: North-Holland.
-* Miéville, D., 1984, _Un développement des systmes logiques de Stanisław Leśniewski_. _Prototétique — Ontologie — Méreologie_, Bern: Peter Lang.
-* Miéville, D., 2001, _Introduction à l’œvre de S. Leśniewski_, F. I: _La protothétique_, Neuchâtel: Université de Neuchâtel.
-* Srzednicki, J. (ed.), 1984, _Leśniewski’s Systems. Ontology and Mereology_, The Hague: Nijhoff.
-* Srzednicki, J. (ed.), 1998, _Leśniewski’s Systems. Prothotetic_, Dordrecht: Kluwer.
-* Urbaniak, M., 2014, _Leśniewski’s Systems of Logic and Foundations of Mathematics_, Dordrecht: Kluwer.
-* Vernant, D. and Miéville, D. (eds.), 1995, _Stanisław Leśniewski aujourd’hui_, Groupe de Recherches sur la philosophie et le langage/Centre de Recherches Sémiologiques, Grenoble/Neuchâtel.
+* Luschei, E., 1963, *The Logical Systems of Leśniewski*, Amsterdam: North-Holland.
+* Miéville, D., 1984, *Un développement des systmes logiques de Stanisław Leśniewski*. *Prototétique — Ontologie — Méreologie*, Bern: Peter Lang.
+* Miéville, D., 2001, *Introduction à l’œvre de S. Leśniewski*, F. I: *La protothétique*, Neuchâtel: Université de Neuchâtel.
+* Srzednicki, J. (ed.), 1984, *Leśniewski’s Systems. Ontology and Mereology*, The Hague: Nijhoff.
+* Srzednicki, J. (ed.), 1998, *Leśniewski’s Systems. Prothotetic*, Dordrecht: Kluwer.
+* Urbaniak, M., 2014, *Leśniewski’s Systems of Logic and Foundations of Mathematics*, Dordrecht: Kluwer.
+* Vernant, D. and Miéville, D. (eds.), 1995, *Stanisław Leśniewski aujourd’hui*, Groupe de Recherches sur la philosophie et le langage/Centre de Recherches Sémiologiques, Grenoble/Neuchâtel.
 
 **Łukasiewicz**
 
-* Jadacki, J. J., and Świderski, E. M., (eds.), 2017, _The Concept of Causality in the Lvov-Warsaw School. The Legacy of Jan Łukasiewicz_, Leiden: Brill.
+* Jadacki, J. J., and Świderski, E. M., (eds.), 2017, *The Concept of Causality in the Lvov-Warsaw School. The Legacy of Jan Łukasiewicz*, Leiden: Brill.
 
 **Mostowski**
 
-* Ehrenfeucht, A., Marek, V. W., Srebrny, M. (eds.), 2008, _Andrzej Mostowski and Foundational Studies_, Amsterdam: IOS Press.
+* Ehrenfeucht, A., Marek, V. W., Srebrny, M. (eds.), 2008, *Andrzej Mostowski and Foundational Studies*, Amsterdam: IOS Press.
 
 **Tarski**
 
-* Feferman, A., and Feferman, S., 2004, _Alfred Tarski. Life and Logic_, Cambridge: Cambridge University Press.
-* Gruber, M., 2016, _Alfred Tarski and the ‘Concept of Truth in Formalized Languages’_. _A Running Commentary with Consideration of the Polish Original and the German Translation_, Berlin: Springer.
-* McFarland, A., McFarland, J., and Smith, J. T. (eds.), 2014, _Alfred Tarski. Early Work in Poland – Geometry and Teaching_, Birkhäuser.
-* Moreno, L. F., 1992, _Wahrheit und Korrepondenz bei Tarski_. _Eine Untersuchung der Wahrheitstheorie Tarskis als Korrespondenztheorie der Wahrheit_, Würzburg: Königshausen\&Neumann.
-* Patterson, D. (ed.), 2008, _New Essays on Tarski and Philosophy._, Cambridge: Cambridge University Press.
-* Patterson, D., 2012, _Alfred Tarski: Philosophy of Logic and Language_, London: Palgrave.
-* Stegmüller, W., 1957, _Das Wahrheitsproblem und die Idee der Semantik_. _Eine Einführung in die Theorien von A. Tarski und R. Carnap_, Wien: Springer.
-* Woleński, J. and Köhler, E. (eds.), 1999, _Alfred Tarski and the Vienna Circle_, Dordrecht: Kluwer.
-* Woleński, J., 2019, _Semantics and Truth_, Berlin: Springer.
+* Feferman, A., and Feferman, S., 2004, *Alfred Tarski. Life and Logic*, Cambridge: Cambridge University Press.
+* Gruber, M., 2016, *Alfred Tarski and the ‘Concept of Truth in Formalized Languages’*. *A Running Commentary with Consideration of the Polish Original and the German Translation*, Berlin: Springer.
+* McFarland, A., McFarland, J., and Smith, J. T. (eds.), 2014, *Alfred Tarski. Early Work in Poland – Geometry and Teaching*, Birkhäuser.
+* Moreno, L. F., 1992, *Wahrheit und Korrepondenz bei Tarski*. *Eine Untersuchung der Wahrheitstheorie Tarskis als Korrespondenztheorie der Wahrheit*, Würzburg: Königshausen\&Neumann.
+* Patterson, D. (ed.), 2008, *New Essays on Tarski and Philosophy.*, Cambridge: Cambridge University Press.
+* Patterson, D., 2012, *Alfred Tarski: Philosophy of Logic and Language*, London: Palgrave.
+* Stegmüller, W., 1957, *Das Wahrheitsproblem und die Idee der Semantik*. *Eine Einführung in die Theorien von A. Tarski und R. Carnap*, Wien: Springer.
+* Woleński, J. and Köhler, E. (eds.), 1999, *Alfred Tarski and the Vienna Circle*, Dordrecht: Kluwer.
+* Woleński, J., 2019, *Semantics and Truth*, Berlin: Springer.
 
 ## Academic Tools
 
@@ -301,4 +300,4 @@ The bibliography is divided into two sections. The first contains writings of th
 The author and editors would like to thank Branden Fitelson for supplying a correction to this entry after publication.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Jan Woleński <[_jan.wolenski@uj.edu.pl_](mailto:jan%2ewolenski%40uj%2eedu%2epl)>
+Jan Woleński <[*jan.wolenski@uj.edu.pl*](mailto:jan%2ewolenski%40uj%2eedu%2epl)>

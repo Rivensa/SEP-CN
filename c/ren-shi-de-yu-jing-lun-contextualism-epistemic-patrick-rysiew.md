@@ -1,15 +1,14 @@
 # 认识的语境论 contextualism, epistemic (Patrick Rysiew)
 
-_首次发布于2007年9月7日星期五；实质性修订于2020年12月15日星期二。_
+*首次发布于2007年9月7日星期五；实质性修订于2020年12月15日星期二。*
 
 认识论语境主义（EC）是一个最近备受争议的立场。EC大致上认为，知识归属所表达的内容——即S“知道”p的主张——部分取决于归属者的语境中的某些因素，因此这一观点通常被称为“归属者语境主义”。由于这样的话语是依赖于语境的，因此归属是否真实也是如此。典型的EC观点将关键的语境特征确定为归属者对p真实性的实际利害关系，或者归属者对知识存在怀疑的突出性。典型的EC观点认为，随着利害增加或怀疑更加严重，语境标准变得更加严格。如果要表达真实，就需要S处于更好的位置，以满足归属者的主张“S知道p”。相比之下，关于知识的不变论者认为，归属者语境中的这些因素不会影响真实“知识”归属必须满足的标准。
 
 除了标志着对传统认识论假设的重要背离外，外部主义被认为为某些关于知识的难题提供了一种新颖的解决方案，尤其是怀疑论者，同时也最符合我们日常的“知识”归因实践。接下来描述了外部主义的主要形式，以及对外部主义的主要论据和主要反对意见。在此过程中，外部主义与某些其他观点相比较，既有亲缘关系，也有竞争关系。
 
-
 ***
 
-## 一些最近的历史，作为背景说明。
+## 一些最近的历史，作为背景说明
 
 EC是一个相对较新的发展。然而，在20世纪下半叶，出现了几种有时重叠的思潮，以某种方式将背景因素置于某些认识论问题的核心地位，从而为EC铺平了道路。
 
@@ -57,7 +56,7 @@ EC是一个相对较新的发展。然而，在20世纪下半叶，出现了几�
 
 考虑一种怀疑论证形式，引起了主要的语境主义者的关注（例如，科恩1986年，1988年，2014年；德罗斯1995年；内塔2003a和b；参见汪格尔1975年）。 （我们可以称之为“SA”，代表“怀疑论证”。）让“h”代表某种怀疑假设，例如，我只是一个被刺激以获得我所经历的那些经历的脑浆液中的大脑。让“p”代表一个我似乎知道的平凡的外部世界信念，例如，我有手。以下是论证：
 
-| P1. | I don’t know that not-_h_. |
+| P1. | I don’t know that not-*h*. |
 | --- | -------------------------- |
 | P2。 | 如果我不知道非h，那么我就不知道p。         |
 | C。  | 所以，我不知道那一页。                |
@@ -312,7 +311,7 @@ Sosa的最后这一说法将我们带回到一个早期的观点。当认识论�
 
 毫不奇怪，即使在对EC持反对态度的人中，上述每个提议，无论是否主要是心理学上的，都是有争议的。（例如，Nagel在2010年批评了对可用性启发式的引用。）而支持EC的人士对它们的可行性提出了特定的疑虑。例如，根据Cohen（1999年，80-82页；2001年，94页）的观点，仅仅引用存在冲突论点并不能解释需要解释的事物。DeRose（1999年，2002年，2009年）和Cohen（1999年）认为，通过语用学来解释相关数据的前景暗淡（Brown 2006和Rysiew 2001、2005、2007、2017对此提出了回应）。
 
-## 对于EC的进一步论证，以及一些非语境主义者的回应。
+## 对于EC的进一步论证，以及一些非语境主义者的回应
 
 ### 5.1 可能性论和让步性知识归属
 
@@ -385,195 +384,195 @@ Several objections to this argument have been made. First, it is worth consideri
 
 \[Pagination of in-text citations follows that of the reprint, where given.]
 
-* Adler, J., 2006, “Withdrawal and Contextualism”, _Analysis_, 66(4): 280–285.
-* –––, 2012, “Contextualism and Fallibility: Pragmatic Encroachment, Possibility, and Strength of Epistemic Position”, _Synthese_, 188: 247–272.
-* –––, 2017, “Epistemological Problems of Testimony”, _The Stanford Encyclopedia of Philosophy_ (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/](https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/)
-* Alston, W. P., 2000, _Illocutionary Acts and Sentence_ Meaning, Ithaca and London: Cornell University Press.
-* Annis, D. B., 1978, “A Contextualist Theory of Epistemic Justification”, _American Philosophical Quarterly_, 15(3): 213–219.
-* Austin, J. L., 1946, “Other Minds”, _Proceedings of the Aristotelian Society_, Supplementary Volume XX. Reprinted in Austin’s _Philosophical Papers_, 3rd edition, 1979. New York, NY: Oxford University Press, pp. 76–116.
+* Adler, J., 2006, “Withdrawal and Contextualism”, *Analysis*, 66(4): 280–285.
+* –––, 2012, “Contextualism and Fallibility: Pragmatic Encroachment, Possibility, and Strength of Epistemic Position”, *Synthese*, 188: 247–272.
+* –––, 2017, “Epistemological Problems of Testimony”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/](https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/)
+* Alston, W. P., 2000, *Illocutionary Acts and Sentence* Meaning, Ithaca and London: Cornell University Press.
+* Annis, D. B., 1978, “A Contextualist Theory of Epistemic Justification”, *American Philosophical Quarterly*, 15(3): 213–219.
+* Austin, J. L., 1946, “Other Minds”, *Proceedings of the Aristotelian Society*, Supplementary Volume XX. Reprinted in Austin’s *Philosophical Papers*, 3rd edition, 1979. New York, NY: Oxford University Press, pp. 76–116.
 * Bach, K., 2005, “The Emperor’s New ‘Knows’”, in Preyer and Peter, eds., pp. 51–89.
-* –––, 2008, “Applying Pragmatics to Epistemology”, _Philosophical Issues_, 18: 68–88.
+* –––, 2008, “Applying Pragmatics to Epistemology”, *Philosophical Issues*, 18: 68–88.
 * Beebe, J. R., 2012, “Social Functions of Knowledge Attributions”, in Brown & Gerken (eds.), pp. 220–242.
-* Black, T., 2005, “Classic Invariantism, Relevance, and Warranted Assertability Manœuvers”, _The Philosophical Quarterly_, 55(219): 328–336
-* Blackson, T., 2004, “An Invalid Argument for Contextualism”, _Philosophy and Phenomenological Research_, 68(2): 344–5.
-* Blaauw, M., 2003, “WAMing Away at Contextualism”, _Nordic Journal of Philosophy_, 4(1): 88–97.
-* Blome-Tillman, M., 2009, “Knowledge and Presuppositions”, _Mind_, 118(470): 241–294.
-* –––, 2014, _Knowledge & Presuppositions_, Oxford: Oxford University Press.
-* Brady, M., and D. Pritchard, 2005, “Epistemological Contextualism: Problems and Prospects”, _The Philosophical Quarterly_, 55(219): 161–171.
-* Brandom, R. 1994, _Making it Explicit_, Cambridge MA: Harvard University Press.
-* Brown, J., 2006, “Contextualism and Warranted Assertibility Manoeuvres”, _Philosophical Studies_, 130: 407–435.
-* –––, and M. Gerken (eds.), 2012, _Knowledge Ascriptions_, Oxford: Oxford University Press.
-* Campbell, J. C., M. O’Rourke and H. Silverstein (eds.), 2010, _Knowledge and Skepticism_ (Topics in Contemporary Philosophy: Volume 5), Cambridge, MA: The MIT Press.
-* Cappelen, H. and E. Lepore, 2003, “Context Shifting Arguments”, _Philosophical Perspectives 17: Language and Philosophical Linguistics_: 25–50.
-* –––, 2005a, _Insensitive Semantics_, Oxford: Basil Blackwell.
+* Black, T., 2005, “Classic Invariantism, Relevance, and Warranted Assertability Manœuvers”, *The Philosophical Quarterly*, 55(219): 328–336
+* Blackson, T., 2004, “An Invalid Argument for Contextualism”, *Philosophy and Phenomenological Research*, 68(2): 344–5.
+* Blaauw, M., 2003, “WAMing Away at Contextualism”, *Nordic Journal of Philosophy*, 4(1): 88–97.
+* Blome-Tillman, M., 2009, “Knowledge and Presuppositions”, *Mind*, 118(470): 241–294.
+* –––, 2014, *Knowledge & Presuppositions*, Oxford: Oxford University Press.
+* Brady, M., and D. Pritchard, 2005, “Epistemological Contextualism: Problems and Prospects”, *The Philosophical Quarterly*, 55(219): 161–171.
+* Brandom, R. 1994, *Making it Explicit*, Cambridge MA: Harvard University Press.
+* Brown, J., 2006, “Contextualism and Warranted Assertibility Manoeuvres”, *Philosophical Studies*, 130: 407–435.
+* –––, and M. Gerken (eds.), 2012, *Knowledge Ascriptions*, Oxford: Oxford University Press.
+* Campbell, J. C., M. O’Rourke and H. Silverstein (eds.), 2010, *Knowledge and Skepticism* (Topics in Contemporary Philosophy: Volume 5), Cambridge, MA: The MIT Press.
+* Cappelen, H. and E. Lepore, 2003, “Context Shifting Arguments”, *Philosophical Perspectives 17: Language and Philosophical Linguistics*: 25–50.
+* –––, 2005a, *Insensitive Semantics*, Oxford: Basil Blackwell.
 * –––, 2005b, “A Tall Tale: In Defense of Semantic Minimalism and Speech Act Pluralism”, in Preyer & Peter (eds.), pp. 197–219.
-* Castañeda, H., 1980, “The Theory of Questions, Epistemic Powers, and the Indexical Theory of Knowledge”, _Midwest Studies in Philosophy_, 5: 193–237.
-* Cohen, S., 1986, “Knowledge and Context”, _The Journal of Philosophy_, 83: 574–583.
-* –––, 1987, “Knowledge, Context, and Social Standards”, _Synthese_, 73: 3–26.
-* –––, 1988, “How to be a Fallibilist”, _Philosophical Perspectives, Volume 2_: 91–123.
-* –––, 1998, “Contextualist Solutions to Epistemological Problems: Skepticism, Gettier, and the Lottery”, _Australasian Journal of Philosophy_, 76(2): 289–306.
-* –––, 1999, “Contextualism, Skepticism, and The Structure of Reasons”, _Philosophical Perspectives, 13: Epistemology_: 57–89.
-* –––, 2001, “Contextualism Defended: Comments on Richard Feldman’s ‘Skeptical Problems, Contextualist Solutions’”, _Philosophical Studies_, 103: 87–98.
-* –––, 2004, “Contextualism and Unhappy-Face Solutions: Reply to Schiffer”, _Philosophical Studies_, 119: 185–97.
-* –––, 2005, “Knowledge, Speaker, Subject”, _The Philosophical Quarterly_, 55(219): 199–212
+* Castañeda, H., 1980, “The Theory of Questions, Epistemic Powers, and the Indexical Theory of Knowledge”, *Midwest Studies in Philosophy*, 5: 193–237.
+* Cohen, S., 1986, “Knowledge and Context”, *The Journal of Philosophy*, 83: 574–583.
+* –––, 1987, “Knowledge, Context, and Social Standards”, *Synthese*, 73: 3–26.
+* –––, 1988, “How to be a Fallibilist”, *Philosophical Perspectives, Volume 2*: 91–123.
+* –––, 1998, “Contextualist Solutions to Epistemological Problems: Skepticism, Gettier, and the Lottery”, *Australasian Journal of Philosophy*, 76(2): 289–306.
+* –––, 1999, “Contextualism, Skepticism, and The Structure of Reasons”, *Philosophical Perspectives, 13: Epistemology*: 57–89.
+* –––, 2001, “Contextualism Defended: Comments on Richard Feldman’s ‘Skeptical Problems, Contextualist Solutions’”, *Philosophical Studies*, 103: 87–98.
+* –––, 2004, “Contextualism and Unhappy-Face Solutions: Reply to Schiffer”, *Philosophical Studies*, 119: 185–97.
+* –––, 2005, “Knowledge, Speaker, Subject”, *The Philosophical Quarterly*, 55(219): 199–212
 * –––, 2014, “Contextualism Defended” and “Contextualism Defended Some More”, in Steup, Sosa, and Turri (eds.): 69–75, 79–81.
-* Colgrove, N., and T. Dougherty, 2016, “Hawthorne’s Might-y Failure: A Reply to ‘Knowledge and Epistemic Necessity’”, _Philosophical Studies_, 173(5): 1165–1177.
-* Comesaña, J. and P. Klein, 2019,“Skepticism”, _The Stanford Encyclopedia of Philosophy_ (Winter 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2019/entries/skepticism/](https://plato.stanford.edu/archives/win2019/entries/skepticism/)
+* Colgrove, N., and T. Dougherty, 2016, “Hawthorne’s Might-y Failure: A Reply to ‘Knowledge and Epistemic Necessity’”, *Philosophical Studies*, 173(5): 1165–1177.
+* Comesaña, J. and P. Klein, 2019,“Skepticism”, *The Stanford Encyclopedia of Philosophy* (Winter 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2019/entries/skepticism/](https://plato.stanford.edu/archives/win2019/entries/skepticism/)
 * Conee, E., 2014, “Contextualism Contested” and “Contextualism Contested Some More”, in Steup, Sosa, and Turri (eds.): 60–69, 75–79.
-* Craig, E., 1990, _Knowledge and the State of Nature_, Oxford: Clarendon Press.
-* DeRose, K., 1991, “Epistemic Possibilities”, _The Philosophical Review_, 100(4): 581–605.
-* –––, 1992, “Contextualism and Knowledge Attributions”, _Philosophy and Phenomenological Research_, 52(4): 913–929.
-* –––, 1995, “Solving the Skeptical Problem”, _The Philosophical Review_, 104(1): 1–52.
-* –––, 1999, “Contextualism: An Explanation and Defense,” in _The Blackwell Guide to Epistemology_, J. Greco and E. Sosa (eds.), Malden, MA: Blackwell, pp. 185–203.
-* –––, 2000, “Now You Know It, Now You Don’t”, _Proceedings of the Twentieth World Congress of Philosophy_ (Philosophy Documentation Center) Vol. V, Epistemology: 91–106.
-* –––, 2002, “Assertion, Knowledge and Context”, _The Philosophical Review_, 111(2): 167–203.
-* –––, 2004a, “Single Scoreboard Semantics”, _Philosophical Studies_, 119(1–2): 1–21.
+* Craig, E., 1990, *Knowledge and the State of Nature*, Oxford: Clarendon Press.
+* DeRose, K., 1991, “Epistemic Possibilities”, *The Philosophical Review*, 100(4): 581–605.
+* –––, 1992, “Contextualism and Knowledge Attributions”, *Philosophy and Phenomenological Research*, 52(4): 913–929.
+* –––, 1995, “Solving the Skeptical Problem”, *The Philosophical Review*, 104(1): 1–52.
+* –––, 1999, “Contextualism: An Explanation and Defense,” in *The Blackwell Guide to Epistemology*, J. Greco and E. Sosa (eds.), Malden, MA: Blackwell, pp. 185–203.
+* –––, 2000, “Now You Know It, Now You Don’t”, *Proceedings of the Twentieth World Congress of Philosophy* (Philosophy Documentation Center) Vol. V, Epistemology: 91–106.
+* –––, 2002, “Assertion, Knowledge and Context”, *The Philosophical Review*, 111(2): 167–203.
+* –––, 2004a, “Single Scoreboard Semantics”, *Philosophical Studies*, 119(1–2): 1–21.
 * –––, 2004b, “Sosa, Safety, Sensitivity, and Skeptical Hypotheses,” in Greco (ed.): 22–41.
-* –––, 2005, “The Ordinary Language Basis for Contextualism and the New Invariantism”, _The Philosophical Quarterly_, 55(219): 172–198.
-* –––, 2006, “‘Bamboozled by Our Own Words’: Semantic Blindness and Some Arguments Against Contextualism”, _Philosophy and Phenomenological Research_, 73(2): 316–338.
-* –––, 2009, _The Case for Contextualism: Knowledge, Skepticism, and Context: Vol. 1_, Oxford: Clarendon Press.
-* –––, 2011, “Contextualism, Contrastivism, and X-Phi Surveys”, _Philosophical Studies_, 156: 81–110.
-* –––, 2017, _The Appearance of Ignorance: Knowledge, Skepticism, and Context: Vol. 2_, Oxford: Clarendon Press.
-* Dinges, A., 2016, “Epistemic Invariantism and Contextualist Intuitions”, _Episteme_, 13(2): 219–232.
-* Dodd, D., 2010, “Confusion about Concessive Knowledge Attributions”, _Synthese_, 172(3): 381–396.
-* Dougherty, T., and P. Rysiew, 2009, “Fallibilism, Epistemic Possibility, and Concessive Knowledge Attributions”, _Philosophy and Phenomenological Research_, 78(1): 123–132.
-* –––, 2011, “Clarity about Concessive Knowledge Attributions: Reply to Dodd”, _Synthese_, 181(3): 123–132.
-* Douven, I., 2006, “Assertion, Knowledge, and Rational Credibility”, _Philosophical Review_, 115(219): 449–485.
-* Dretske, F., 1970, “Epistemic Operators”, _The Journal of Philosophy_, 67(24): 1007–1023. Reprinted in Dretske, 2000, pp. 30–47.
-* –––, 1981a, _Knowledge and the Flow of Information_, Cambridge, MA: The MIT Press. Reprinted in 1999, Stanford: CSLI Publications.
-* –––, 1981b, “The Pragmatic Dimension of Knowledge”, _Philosophical Studies_, 40: 363–378. Reprinted in Dretske, 2000, pp. 48–63.
-* –––, 1991, “Knowledge: Sanford and Cohen”, in _Dretske and His Critics_, B. P. McLaughlin (ed.), Cambridge, MA: Blackwell, pp. 185–196.
-* –––, 2000, _Perception, Knowledge and Belief: Selected Essays_, New York, NY: Cambridge University Press.
+* –––, 2005, “The Ordinary Language Basis for Contextualism and the New Invariantism”, *The Philosophical Quarterly*, 55(219): 172–198.
+* –––, 2006, “‘Bamboozled by Our Own Words’: Semantic Blindness and Some Arguments Against Contextualism”, *Philosophy and Phenomenological Research*, 73(2): 316–338.
+* –––, 2009, *The Case for Contextualism: Knowledge, Skepticism, and Context: Vol. 1*, Oxford: Clarendon Press.
+* –––, 2011, “Contextualism, Contrastivism, and X-Phi Surveys”, *Philosophical Studies*, 156: 81–110.
+* –––, 2017, *The Appearance of Ignorance: Knowledge, Skepticism, and Context: Vol. 2*, Oxford: Clarendon Press.
+* Dinges, A., 2016, “Epistemic Invariantism and Contextualist Intuitions”, *Episteme*, 13(2): 219–232.
+* Dodd, D., 2010, “Confusion about Concessive Knowledge Attributions”, *Synthese*, 172(3): 381–396.
+* Dougherty, T., and P. Rysiew, 2009, “Fallibilism, Epistemic Possibility, and Concessive Knowledge Attributions”, *Philosophy and Phenomenological Research*, 78(1): 123–132.
+* –––, 2011, “Clarity about Concessive Knowledge Attributions: Reply to Dodd”, *Synthese*, 181(3): 123–132.
+* Douven, I., 2006, “Assertion, Knowledge, and Rational Credibility”, *Philosophical Review*, 115(219): 449–485.
+* Dretske, F., 1970, “Epistemic Operators”, *The Journal of Philosophy*, 67(24): 1007–1023. Reprinted in Dretske, 2000, pp. 30–47.
+* –––, 1981a, *Knowledge and the Flow of Information*, Cambridge, MA: The MIT Press. Reprinted in 1999, Stanford: CSLI Publications.
+* –––, 1981b, “The Pragmatic Dimension of Knowledge”, *Philosophical Studies*, 40: 363–378. Reprinted in Dretske, 2000, pp. 48–63.
+* –––, 1991, “Knowledge: Sanford and Cohen”, in *Dretske and His Critics*, B. P. McLaughlin (ed.), Cambridge, MA: Blackwell, pp. 185–196.
+* –––, 2000, *Perception, Knowledge and Belief: Selected Essays*, New York, NY: Cambridge University Press.
 * Egan, A., J. Hawthorne, and B. Weatherson, 2005, “Epistemic Modals in Context”, in Preyer and Peter (eds.): 131–168.
-* Fantl, J., and M. McGrath, 2002, “Evidence, Pragmatics, and Justification”, _The Philosophical Review_, 111: 67–94.
-* –––, 2007, “On Pragmatic Encroachment in Epistemology”, _Philosophy and Phenomenological Research_, 75(3): 558–589.
-* –––, 2009, _Knowledge in an Uncertain World_, New York and Oxford: Oxford University Press.
-* Feldman, R., 1981, “Fallibilism and Knowing that One Knows”, _The Philosophical Review,_ 90(2): 266–282.
-* –––, 1997, “Review Essay (Carruthers and Craig)”, _Philosophy and Phenomenological Research_, 57(1): 205–221.
-* –––, 1999, “Contextualism and Skepticism”, _Philosophical Perspectives 1: Epistemology_: 91–114.
-* –––, 2001, “Skeptical Problems, Contextualist Solutions”, _Philosophical Studies_, 103: 61–85. (A revised version of Feldman 1999.)
-* –––, 2004, “Comments on DeRose’s ‘Single Scoreboard Semantics’”, _Philosophical Studies_, 119(1–2): 23–33.
-* Gerken, M., 2013, “Epistemic Focal Bias”, _Australasian Journal of Philosophy_, 91(1): 41–61.
-* –––, 2015, “The Roles of Knowledge Ascriptions in Epistemic Assessment”, _European Journal of Philosophy_, 23(1): 141–161.
-* –––, 2017, _On Folk Epistemology: How We Think and Talk about Knowledge_, Oxford: Oxford Clarendon Press.
-* Goldman, A., 1976, “Discrimination and Perceptual Knowledge”, _The Journal of Philosophy_, 73: 771–791. Reprinted in Goldman 1992, pp. 85–103.
-* –––, 1989, “Psychology and Philosophical Analysis”, _Proceedings of the Aristotelian Society_, 89: 195–209. Reprinted in Goldman 1992, pp. 143–153.
-* –––, 1992, _Liaisons: Philosophy Meets the Cognitive and Social Sciences_, Cambridge, MA: The MIT Press.
-* –––, and C. O’Connor, 2019, “Social Epistemology”, _The Stanford Encyclopedia of Philosophy_ (Fall 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/epistemology-social/](https://plato.stanford.edu/archives/fall2019/entries/epistemology-social/)
-* Greco, J., 2003, “Knowledge as Credit for True Belief”, in _Intellectual Virtue: Perspectives from Ethics and Epistemology_, M. DePaul and L. Zagzebski (eds.), Oxford: Oxford University Press, pp. 111–134.
-* ––– (ed.), 2004, _Ernest Sosa and His Critics_, Cambridge, MA: Blackwell.
-* –––, 2008,“What’s Wrong with Contextualism?”, _The Philosophical Quarterly_, 58(232): 416–436.
-* –––, 2010, _Achieving Knowledge_, Cambridge and New York: Cambridge University Press.
-* Grice, H. P., 1989, _Studies in the Way of Words_, Cambridge, MA: Harvard University Press.
-* Hambourger, R., 1987, “Justified Assertion and the Relativity of Knowledge”, _Philosophical Studies_, 51: 241–269.
-* Hannon, R., 2013, “The Practical Origins of Epistemic Contextualism”, _Erkenntnis_, 78(4): 899–919.
-* –––, 2015, “Stabilizing Knowledge”, _Pacific Philosophical Quarterly_, 96: 116–139.
-* Harman, G., 1968, “Knowledge, Inference, and Explanation”, _American Philosophical Quarterly_, 5:164–173.
-* –––, 1980, “Reasoning and Explanatory Coherence”, _American Philosophical Quarterly_, 17: 151–158.
-* Hawthorne, J., 2004, _Knowledge and Lotteries_, New York and Oxford: Oxford University Press.
-* –––, 2012, “Knowledge and Epistemic Necessity”, _Philosophical Studies_, 158: 493–501.
-* Hazlett, A., 2007, “Grice’s Razor”, _Metaphilosophy_, 38(5): 669–690.
-* Heller, M., 1995, “The Simple Solution to the Problem of Generality”, _Noûs_, 29(4): 501–515.
-* –––, 1999a, “Relevant Alternatives and Closure”, _Australasian Journal of Philosophy_, 77(2): 196–208.
-* –––, 1999b, “The Proper Role for Contextualism in an Anti-Luck Epistemology”, _Philosophical Perspectives_, 13 (Epistemology): 115–129.
-* Henderson, D., 2009, “Motivated Contextualism”, _Philosophical Studies_, 142(1): 119–131.
-* –––, 2011, “Gate-Keeping Contextualism”, _Episteme_, 8(1): 83–98.
-* –––, and T. Horgan 2015, “What’s the Point?”, in _Epistemic Evaluation: Purposeful Epistemology_, D.K. Henderson and J. Greco (eds.), Oxford: Oxford University Press, pp. 87–114.
-* Hofweber, T., 1999, “Contextualism and the Meaning-Intention Problem”, in _Cognition, Agency and Rationality_, K. Korta, E. Sosa, and X. Arrazola (eds.), Dortrecht, Boston, and London: Kluwer, pp. 93–104.
-* Hookway, C., 1996, “Questions of Context”, _Proceedings of the Aristotelian Society_, 96(Part 1): 1–16.
-* Ichikawa, J. J., 2017a, _Contextualising Knowledge: Epistemology and Semantics_, Oxford: Oxford University Press.
-* ––– (ed.), 2017b, _The Routledge Handbook of Contextualism_, New York: Routledge.
-* –––, and M. Steup, 2018, “The Analysis of Knowledge”, _The Stanford Encyclopedia of Philosophy_ (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/knowledge-analysis/](https://plato.stanford.edu/archives/sum2018/entries/knowledge-analysis/)
-* Johnsen, B. C., 2001, “Contextualist Swords, Skeptical Plowshares”, _Philosophy and Phenomenological Research_, 62(2): 385–406.
-* Kappel, K., 2010, “On Saying that Someone Knows: Themes from Craig”, in _Social Epistemology_, A. Haddock, A. Millar, and D. Pritchard (eds.), Oxford: Oxford University Press, pp. 69–88.
-* Karjalainen, A. and A. Morton, 2003, “Contrastive Knowledge”, _Philosophical Explorations_, 6(2): 74–89.
-* Kelp, C., 2011, “What is the Point of ‘Knowledge’ Anyway?”, _Episteme_, 8(1): 53–66.
-* Klein, P., 2000, “Contextualism and the Real Nature of Academic Skepticism”, _Philosophical Issues_, 10: 108–16.
-* Kompa, N., 2002, “The Context Sensitivity of Knowledge Ascriptions”, _Grazer Philosophische Studien_, 64: 11–18.
-* Kornblith, H., 2000, “The Contextualist Evasion of Epistemology”, _Philosophical Issues_, 10: 24–32.
-* Lackey, J., 2007, “Norms of Assertion”, _Noûs_, 41(4): 594–628.
+* Fantl, J., and M. McGrath, 2002, “Evidence, Pragmatics, and Justification”, *The Philosophical Review*, 111: 67–94.
+* –––, 2007, “On Pragmatic Encroachment in Epistemology”, *Philosophy and Phenomenological Research*, 75(3): 558–589.
+* –––, 2009, *Knowledge in an Uncertain World*, New York and Oxford: Oxford University Press.
+* Feldman, R., 1981, “Fallibilism and Knowing that One Knows”, *The Philosophical Review,* 90(2): 266–282.
+* –––, 1997, “Review Essay (Carruthers and Craig)”, *Philosophy and Phenomenological Research*, 57(1): 205–221.
+* –––, 1999, “Contextualism and Skepticism”, *Philosophical Perspectives 1: Epistemology*: 91–114.
+* –––, 2001, “Skeptical Problems, Contextualist Solutions”, *Philosophical Studies*, 103: 61–85. (A revised version of Feldman 1999.)
+* –––, 2004, “Comments on DeRose’s ‘Single Scoreboard Semantics’”, *Philosophical Studies*, 119(1–2): 23–33.
+* Gerken, M., 2013, “Epistemic Focal Bias”, *Australasian Journal of Philosophy*, 91(1): 41–61.
+* –––, 2015, “The Roles of Knowledge Ascriptions in Epistemic Assessment”, *European Journal of Philosophy*, 23(1): 141–161.
+* –––, 2017, *On Folk Epistemology: How We Think and Talk about Knowledge*, Oxford: Oxford Clarendon Press.
+* Goldman, A., 1976, “Discrimination and Perceptual Knowledge”, *The Journal of Philosophy*, 73: 771–791. Reprinted in Goldman 1992, pp. 85–103.
+* –––, 1989, “Psychology and Philosophical Analysis”, *Proceedings of the Aristotelian Society*, 89: 195–209. Reprinted in Goldman 1992, pp. 143–153.
+* –––, 1992, *Liaisons: Philosophy Meets the Cognitive and Social Sciences*, Cambridge, MA: The MIT Press.
+* –––, and C. O’Connor, 2019, “Social Epistemology”, *The Stanford Encyclopedia of Philosophy* (Fall 2019 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/fall2019/entries/epistemology-social/](https://plato.stanford.edu/archives/fall2019/entries/epistemology-social/)
+* Greco, J., 2003, “Knowledge as Credit for True Belief”, in *Intellectual Virtue: Perspectives from Ethics and Epistemology*, M. DePaul and L. Zagzebski (eds.), Oxford: Oxford University Press, pp. 111–134.
+* ––– (ed.), 2004, *Ernest Sosa and His Critics*, Cambridge, MA: Blackwell.
+* –––, 2008,“What’s Wrong with Contextualism?”, *The Philosophical Quarterly*, 58(232): 416–436.
+* –––, 2010, *Achieving Knowledge*, Cambridge and New York: Cambridge University Press.
+* Grice, H. P., 1989, *Studies in the Way of Words*, Cambridge, MA: Harvard University Press.
+* Hambourger, R., 1987, “Justified Assertion and the Relativity of Knowledge”, *Philosophical Studies*, 51: 241–269.
+* Hannon, R., 2013, “The Practical Origins of Epistemic Contextualism”, *Erkenntnis*, 78(4): 899–919.
+* –––, 2015, “Stabilizing Knowledge”, *Pacific Philosophical Quarterly*, 96: 116–139.
+* Harman, G., 1968, “Knowledge, Inference, and Explanation”, *American Philosophical Quarterly*, 5:164–173.
+* –––, 1980, “Reasoning and Explanatory Coherence”, *American Philosophical Quarterly*, 17: 151–158.
+* Hawthorne, J., 2004, *Knowledge and Lotteries*, New York and Oxford: Oxford University Press.
+* –––, 2012, “Knowledge and Epistemic Necessity”, *Philosophical Studies*, 158: 493–501.
+* Hazlett, A., 2007, “Grice’s Razor”, *Metaphilosophy*, 38(5): 669–690.
+* Heller, M., 1995, “The Simple Solution to the Problem of Generality”, *Noûs*, 29(4): 501–515.
+* –––, 1999a, “Relevant Alternatives and Closure”, *Australasian Journal of Philosophy*, 77(2): 196–208.
+* –––, 1999b, “The Proper Role for Contextualism in an Anti-Luck Epistemology”, *Philosophical Perspectives*, 13 (Epistemology): 115–129.
+* Henderson, D., 2009, “Motivated Contextualism”, *Philosophical Studies*, 142(1): 119–131.
+* –––, 2011, “Gate-Keeping Contextualism”, *Episteme*, 8(1): 83–98.
+* –––, and T. Horgan 2015, “What’s the Point?”, in *Epistemic Evaluation: Purposeful Epistemology*, D.K. Henderson and J. Greco (eds.), Oxford: Oxford University Press, pp. 87–114.
+* Hofweber, T., 1999, “Contextualism and the Meaning-Intention Problem”, in *Cognition, Agency and Rationality*, K. Korta, E. Sosa, and X. Arrazola (eds.), Dortrecht, Boston, and London: Kluwer, pp. 93–104.
+* Hookway, C., 1996, “Questions of Context”, *Proceedings of the Aristotelian Society*, 96(Part 1): 1–16.
+* Ichikawa, J. J., 2017a, *Contextualising Knowledge: Epistemology and Semantics*, Oxford: Oxford University Press.
+* ––– (ed.), 2017b, *The Routledge Handbook of Contextualism*, New York: Routledge.
+* –––, and M. Steup, 2018, “The Analysis of Knowledge”, *The Stanford Encyclopedia of Philosophy* (Summer 2018 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2018/entries/knowledge-analysis/](https://plato.stanford.edu/archives/sum2018/entries/knowledge-analysis/)
+* Johnsen, B. C., 2001, “Contextualist Swords, Skeptical Plowshares”, *Philosophy and Phenomenological Research*, 62(2): 385–406.
+* Kappel, K., 2010, “On Saying that Someone Knows: Themes from Craig”, in *Social Epistemology*, A. Haddock, A. Millar, and D. Pritchard (eds.), Oxford: Oxford University Press, pp. 69–88.
+* Karjalainen, A. and A. Morton, 2003, “Contrastive Knowledge”, *Philosophical Explorations*, 6(2): 74–89.
+* Kelp, C., 2011, “What is the Point of ‘Knowledge’ Anyway?”, *Episteme*, 8(1): 53–66.
+* Klein, P., 2000, “Contextualism and the Real Nature of Academic Skepticism”, *Philosophical Issues*, 10: 108–16.
+* Kompa, N., 2002, “The Context Sensitivity of Knowledge Ascriptions”, *Grazer Philosophische Studien*, 64: 11–18.
+* Kornblith, H., 2000, “The Contextualist Evasion of Epistemology”, *Philosophical Issues*, 10: 24–32.
+* Lackey, J., 2007, “Norms of Assertion”, *Noûs*, 41(4): 594–628.
 * –––, 2012, “Group Knowledge Attributions”, in Brown & Gerken (eds.): 243–269.
-* Lawlor, K., 2013, _Assurance: An Austinian View of Knowledge and Knowledge Claims_, Oxford: Oxford University Press.
-* Leite, A., 2007, “How to Link Assertion and Knowledge Without Going Contextualist: A Reply to DeRose’s ‘Assertion, Knowledge, and Context’”, _Philosophical Studies_, 134: 111–129.
-* Lewis, D., 1979, “Scorekeeping in a Language Game”, _Journal of Philosophical Logic_, 8: 339–359.
-* –––, 1996, “Elusive Knowledge”, _Australasian Journal of Philosophy_, 74(4): 549–567.
-* Littlejohn, C., 2011, “Concessive Knowledge Attributions and Fallibilism”, _Philosophy and Phenomenological Research_, 83(3): 603–619.
+* Lawlor, K., 2013, *Assurance: An Austinian View of Knowledge and Knowledge Claims*, Oxford: Oxford University Press.
+* Leite, A., 2007, “How to Link Assertion and Knowledge Without Going Contextualist: A Reply to DeRose’s ‘Assertion, Knowledge, and Context’”, *Philosophical Studies*, 134: 111–129.
+* Lewis, D., 1979, “Scorekeeping in a Language Game”, *Journal of Philosophical Logic*, 8: 339–359.
+* –––, 1996, “Elusive Knowledge”, *Australasian Journal of Philosophy*, 74(4): 549–567.
+* Littlejohn, C., 2011, “Concessive Knowledge Attributions and Fallibilism”, *Philosophy and Phenomenological Research*, 83(3): 603–619.
 * Ludlow, P., 2005, “Contextualism and the New Linguistic Turn in Epistemology”, in Preyer and Peter (eds.): pp. 11–50.
-* Luper, S., 2020, “Epistemic Closure”, _The Stanford Encyclopedia of Philosophy_ (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/closure-epistemic/](https://plato.stanford.edu/archives/sum2020/entries/closure-epistemic/)
-* MacFarlane, J., 2005, “The Assessment Sensitivity of Knowledge Attributions”, in T. S. Gendler and J. Hawthorne (eds.), _Oxford Studies in Epistemology 1_, Oxford: Oxford University Press, pp.197–233.
-* –––, 2014, _Assessment Sensitivity: Relative Truth and its Applications_, Oxford: Oxford University Press.
-* Malcolm, N., 1952, “Knowledge and Belief”, _Mind_, 61(242): 178–189.
-* McKenna, R., 2013, “‘Knowledge’ Ascriptions, Social Roles and Semantics”, _Episteme_, 10(4): 335–350.
-* –––, 2014, “Normative Scorekeeping”, _Synthese_, 191: 607–625.
-* McKinnon, R., 2015, _The Norms of Assertion: Truth, Lies, and Warrant_, Palgrave MacMillan.
-* Montminy, M., 2007, “Epistemic Contextualism and the Semantics-Pragmatics Distinction”, _Synthese_, 155: 99–125.
-* –––, 2009, “Contextualism, Invariantism, and Semantic Blindness”, _Australasian Journal of Philosophy_, 87(4): 639–657.
-* Moore, G. E., 1993, _Commonplace Book 1919–1953_, Bristol: Thoemmes Press.
-* Nagel, J., 2008, “Knowledge Ascriptions and the Psychological Consequences of Changing Stakes”, _Australasian Journal of Philosophy_, 86(2): 279–294.
-* –––, 2010a, “Knowledge Ascriptions and the Psychological Consequences of Thinking About Error”, _Philosophical Quarterly_, 60(239): 286–306.
-* –––, 2010b, “Epistemic Anxiety”, _Philosophical Perspectives 24: Epistemology_: 407–435.
-* Neta, R., 2002, “S knows that P,” _Noûs_, 36(4): 663–681.
-* –––, 2003a, “Skepticism, Contextualism, and Semantic Self-Knowledge”, _Philosophy and Phenomenological Research_, 67(2): 397–11.
-* –––, 2003b, “Contextualism and the Problem of the External World”, _Philosophy and Phenomenological Research_, 66(1): 1–31.
-* Nozick, R., 1981, _Philosophical Explanations_, Harvard, MA: Harvard University Press.
-* Pagin, P., 2016, “Assertion”, _The Stanford Encyclopedia of Philosophy_ (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/assertion/](https://plato.stanford.edu/archives/win2016/entries/assertion/)
-* Partee, B., 2004, “Comments on Jason Stanley’s ‘On the Linguistic Basis for Contextualism’”, _Philosophical Studies_, 119(1–2): 147–159.
-* Pollock, J. L., 1986, _Contemporary Theories of Knowledge_, Savage, MD: Rowman & Littlefield.
-* Prades, J., 2000, “Skepticism, Contextualism and Closure”, _Philosophical Issues_, 10: 121–131
-* Preyer, G., and G. Peter (eds.), 2005, _Contextualism in Philosophy: Knowledge, Meaning, and Truth_, Oxford: Clarendon Press.
-* Pritchard, D., 2000, “Closure and Context”, _Australasian Journal of Philosophy_, 78(2): 275–280.
-* –––, 2002, “Two Forms of Epistemological Contextualism”, _Grazer Philosophische Studien_, 64: 19–55.
-* –––, 2010, “Contextualism, Skepticism, and Warranted Assertibility Manoeuvres,” in Campbell _et al._ (eds.0 : 85–103.
-* Pryor, J., 2001, “Highlights of Recent Epistemology”, _British Journal for the Philosophy of Science_, 52: 95–124.
-* Pynn, G., 2015, “Pragmatic Contextualism”, _Metaphilosophy_, 46(1): 26–51
-* Recanati, F., 1986, “On Defining Communicative Intentions”, _Mind & Language_, 1(3): 213–42.
-* –––, 1989, “The Pragmatics of What is Said”, _Mind & Language_, 4(4): 295–329.
-* –––, 1994, “Contextualism and Anti-Contextualism in the Philosophy of Language”, in _Foundations of Speech Act Theory: Philosophical and Linguistic Perspectives_, S. L. Tsohatzidis (ed.), London and New York: Routledge, pp. 156–166.
+* Luper, S., 2020, “Epistemic Closure”, *The Stanford Encyclopedia of Philosophy* (Summer 2020 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/sum2020/entries/closure-epistemic/](https://plato.stanford.edu/archives/sum2020/entries/closure-epistemic/)
+* MacFarlane, J., 2005, “The Assessment Sensitivity of Knowledge Attributions”, in T. S. Gendler and J. Hawthorne (eds.), *Oxford Studies in Epistemology 1*, Oxford: Oxford University Press, pp.197–233.
+* –––, 2014, *Assessment Sensitivity: Relative Truth and its Applications*, Oxford: Oxford University Press.
+* Malcolm, N., 1952, “Knowledge and Belief”, *Mind*, 61(242): 178–189.
+* McKenna, R., 2013, “‘Knowledge’ Ascriptions, Social Roles and Semantics”, *Episteme*, 10(4): 335–350.
+* –––, 2014, “Normative Scorekeeping”, *Synthese*, 191: 607–625.
+* McKinnon, R., 2015, *The Norms of Assertion: Truth, Lies, and Warrant*, Palgrave MacMillan.
+* Montminy, M., 2007, “Epistemic Contextualism and the Semantics-Pragmatics Distinction”, *Synthese*, 155: 99–125.
+* –––, 2009, “Contextualism, Invariantism, and Semantic Blindness”, *Australasian Journal of Philosophy*, 87(4): 639–657.
+* Moore, G. E., 1993, *Commonplace Book 1919–1953*, Bristol: Thoemmes Press.
+* Nagel, J., 2008, “Knowledge Ascriptions and the Psychological Consequences of Changing Stakes”, *Australasian Journal of Philosophy*, 86(2): 279–294.
+* –––, 2010a, “Knowledge Ascriptions and the Psychological Consequences of Thinking About Error”, *Philosophical Quarterly*, 60(239): 286–306.
+* –––, 2010b, “Epistemic Anxiety”, *Philosophical Perspectives 24: Epistemology*: 407–435.
+* Neta, R., 2002, “S knows that P,” *Noûs*, 36(4): 663–681.
+* –––, 2003a, “Skepticism, Contextualism, and Semantic Self-Knowledge”, *Philosophy and Phenomenological Research*, 67(2): 397–11.
+* –––, 2003b, “Contextualism and the Problem of the External World”, *Philosophy and Phenomenological Research*, 66(1): 1–31.
+* Nozick, R., 1981, *Philosophical Explanations*, Harvard, MA: Harvard University Press.
+* Pagin, P., 2016, “Assertion”, *The Stanford Encyclopedia of Philosophy* (Winter 2016 Edition), Edward N. Zalta (ed.), URL = [https://plato.stanford.edu/archives/win2016/entries/assertion/](https://plato.stanford.edu/archives/win2016/entries/assertion/)
+* Partee, B., 2004, “Comments on Jason Stanley’s ‘On the Linguistic Basis for Contextualism’”, *Philosophical Studies*, 119(1–2): 147–159.
+* Pollock, J. L., 1986, *Contemporary Theories of Knowledge*, Savage, MD: Rowman & Littlefield.
+* Prades, J., 2000, “Skepticism, Contextualism and Closure”, *Philosophical Issues*, 10: 121–131
+* Preyer, G., and G. Peter (eds.), 2005, *Contextualism in Philosophy: Knowledge, Meaning, and Truth*, Oxford: Clarendon Press.
+* Pritchard, D., 2000, “Closure and Context”, *Australasian Journal of Philosophy*, 78(2): 275–280.
+* –––, 2002, “Two Forms of Epistemological Contextualism”, *Grazer Philosophische Studien*, 64: 19–55.
+* –––, 2010, “Contextualism, Skepticism, and Warranted Assertibility Manoeuvres,” in Campbell *et al.* (eds.0 : 85–103.
+* Pryor, J., 2001, “Highlights of Recent Epistemology”, *British Journal for the Philosophy of Science*, 52: 95–124.
+* Pynn, G., 2015, “Pragmatic Contextualism”, *Metaphilosophy*, 46(1): 26–51
+* Recanati, F., 1986, “On Defining Communicative Intentions”, *Mind & Language*, 1(3): 213–42.
+* –––, 1989, “The Pragmatics of What is Said”, *Mind & Language*, 4(4): 295–329.
+* –––, 1994, “Contextualism and Anti-Contextualism in the Philosophy of Language”, in *Foundations of Speech Act Theory: Philosophical and Linguistic Perspectives*, S. L. Tsohatzidis (ed.), London and New York: Routledge, pp. 156–166.
 * –––, 2005, “Literalism and Contextualism: Some Varieties,” in Preyer & Peter (eds.): 171–196.
-* Rieber, S., 1998, “Skepticism and Contrastive Explanation”, _Noûs_, 32(2): 189–204.
-* Rorty, R., 1979, _Philosophy and the Mirror of Nature_, Princeton: Princeton University Press.
-* Rysiew, P., 2001, “The Context-Sensitivity of Knowledge Attributions”, _Noûs_, 35(4): 477–514.
-* –––, 2005, “Contesting Contextualism”, _Grazer Philosophische Studien_, 69: 51–70
-* –––, 2007, “Speaking of Knowing”, _Noûs_, 41(4): 627–662.
-* –––, 2011, “Surveys, Intuitions, Knowledge Attributions”, _Philosophical Studies_, 156: 111–120.
-* –––, 2012a, “Elusive ‘Knowledge’”, _Analytic Philosophy_, 53(1): 130–138.
+* Rieber, S., 1998, “Skepticism and Contrastive Explanation”, *Noûs*, 32(2): 189–204.
+* Rorty, R., 1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
+* Rysiew, P., 2001, “The Context-Sensitivity of Knowledge Attributions”, *Noûs*, 35(4): 477–514.
+* –––, 2005, “Contesting Contextualism”, *Grazer Philosophische Studien*, 69: 51–70
+* –––, 2007, “Speaking of Knowing”, *Noûs*, 41(4): 627–662.
+* –––, 2011, “Surveys, Intuitions, Knowledge Attributions”, *Philosophical Studies*, 156: 111–120.
+* –––, 2012a, “Elusive ‘Knowledge’”, *Analytic Philosophy*, 53(1): 130–138.
 * –––, 2012b, “Epistemic Scorekeeping”, in Brown & Gerken (eds.): 270–293.
 * –––, 2017, “‘Knowledge’ and Pragmatics”, in Ichikawa (ed.): 205–217.
-* Schaffer, J., 2004, “From Contextualism to Contrastivism”, _Philosophical Studies_, 119(1–2): 73–103.
+* Schaffer, J., 2004, “From Contextualism to Contrastivism”, *Philosophical Studies*, 119(1–2): 73–103.
 * –––, 2005, “What Shifts? Thresholds, Standards, or Alternatives?”, in Preyer and Peter (eds.): 115–130.
-* Schiffer, S., 1996, “Contextualist Solutions to Skepticism”, _Proceedings of the Aristotelian Society_, 96: 317–333.
-* –––, 2004, “Skepticism and the Vagaries of Justified Belief,” _Philosophical Studies_, 103: 161–84.
-* Schmitt, F., 1992, “Review of Edward Craig, _Knowledge and the State of Nature_”, _Mind_, 101(403): 555–559.
-* Searle, J. R., 1980, “The Background of Meaning”, in _Speech Act Theory and Pragmatics_, J. Searle, F. Kiefer, and M. Bierwisch (eds.), Reidel, pp. 221–232.
-* Sosa, E., 1964, “The Analysis of ‘_S_ knows that _p_’”, _Analysis_, 25:1–8.
-* –––, 1986, “On Knowledge and Context”, _The Journal of Philosophy_, 83: 584–585.
-* –––, 1988, “Knowledge in Context, Skepticism in Doubt”, _Philosophical Perspectives, Volume 2_: 139–155.
-* –––, 2000, “Skepticism and Contextualism”, _Philosophical Issues_, 10: 1–18.
+* Schiffer, S., 1996, “Contextualist Solutions to Skepticism”, *Proceedings of the Aristotelian Society*, 96: 317–333.
+* –––, 2004, “Skepticism and the Vagaries of Justified Belief,” *Philosophical Studies*, 103: 161–84.
+* Schmitt, F., 1992, “Review of Edward Craig, *Knowledge and the State of Nature*”, *Mind*, 101(403): 555–559.
+* Searle, J. R., 1980, “The Background of Meaning”, in *Speech Act Theory and Pragmatics*, J. Searle, F. Kiefer, and M. Bierwisch (eds.), Reidel, pp. 221–232.
+* Sosa, E., 1964, “The Analysis of ‘*S* knows that *p*’”, *Analysis*, 25:1–8.
+* –––, 1986, “On Knowledge and Context”, *The Journal of Philosophy*, 83: 584–585.
+* –––, 1988, “Knowledge in Context, Skepticism in Doubt”, *Philosophical Perspectives, Volume 2*: 139–155.
+* –––, 2000, “Skepticism and Contextualism”, *Philosophical Issues*, 10: 1–18.
 * –––, 2004, “Replies”, in Greco (ed.): 275–325.
-* Stainton, R., 2010, “Contextualism in Epistemology and the Context-Sensitivity of ‘Knows’”, in Campbell _et al_. (eds.): 137–163.
-* Stalnaker, R., 1974, “Pragmatic Presuppositions”, in _Semantics and Philosophy_, M. Munitz and P. Unger (eds.), New York: New York University Press, pp. 197–214.
-* –––, 2002, “Common Ground”, _Linguistics and Philosophy_, 25: 701–721.
-* Stanley, J., 2004, “On the Linguistic Basis for Contextualism”, _Philosophical Studies_, 119(1–2): 119–146.
-* –––, 2005a, “Fallibilism and Concessive Knowledge Attributions”, _Analysis_, 65(2): 126–31.
-* –––, 2005b, _Knowledge and Practical Interests_, New York and Oxford: Oxford University Press.
-* Steup, M., E. Sosa, and J. Turri (eds.), 2014, _Contemporary Debates in Epistemology_, 2nd edition, Malden, MA: Blackwell.
-* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, _Philosophical Studies_, 29: 249–261.
-* Travis, C., 2005, “A Sense of Occasion”, _The Philosophical Quarterly_, 55(219): 286–314.
-* Turri, J., 2010, “Epistemic Invariantism and Speech Act Contextualism”, _The Philosophical Review_, 119(1): 77–95.
-* Unger, P., 1975, _Ignorance: A Case for Skepticism_, New York: Oxford University Press.
-* –––, 1984, _Philosophical Relativity_, Minneapolis: University of Minnesota Press.
-* Vogel, J., 1990, “Are there Counterexamples to the Closure Principle”, in M. Ross and G. Ross (eds.), _Doubting: Contemporary Perspectives on Skepticism_, Dordrecht: Kluwer, pp. 13–29.
-* Weiner, M., 2005, “Must We Know What We Say?”, _The Philosophical Review_, 114(2): 227–251.
-* Williams, M., 1991, _Unnatural Doubts: Epistemological Realism and the Basis of Skepticism_, Cambridge, MA: Blackwell.
-* –––, 2001, _Problems of Knowledge_, Oxford and New York: Oxford University Press.
+* Stainton, R., 2010, “Contextualism in Epistemology and the Context-Sensitivity of ‘Knows’”, in Campbell *et al*. (eds.): 137–163.
+* Stalnaker, R., 1974, “Pragmatic Presuppositions”, in *Semantics and Philosophy*, M. Munitz and P. Unger (eds.), New York: New York University Press, pp. 197–214.
+* –––, 2002, “Common Ground”, *Linguistics and Philosophy*, 25: 701–721.
+* Stanley, J., 2004, “On the Linguistic Basis for Contextualism”, *Philosophical Studies*, 119(1–2): 119–146.
+* –––, 2005a, “Fallibilism and Concessive Knowledge Attributions”, *Analysis*, 65(2): 126–31.
+* –––, 2005b, *Knowledge and Practical Interests*, New York and Oxford: Oxford University Press.
+* Steup, M., E. Sosa, and J. Turri (eds.), 2014, *Contemporary Debates in Epistemology*, 2nd edition, Malden, MA: Blackwell.
+* Stine, Gail C., 1976, “Skepticism, Relevant Alternatives, and Deductive Closure”, *Philosophical Studies*, 29: 249–261.
+* Travis, C., 2005, “A Sense of Occasion”, *The Philosophical Quarterly*, 55(219): 286–314.
+* Turri, J., 2010, “Epistemic Invariantism and Speech Act Contextualism”, *The Philosophical Review*, 119(1): 77–95.
+* Unger, P., 1975, *Ignorance: A Case for Skepticism*, New York: Oxford University Press.
+* –––, 1984, *Philosophical Relativity*, Minneapolis: University of Minnesota Press.
+* Vogel, J., 1990, “Are there Counterexamples to the Closure Principle”, in M. Ross and G. Ross (eds.), *Doubting: Contemporary Perspectives on Skepticism*, Dordrecht: Kluwer, pp. 13–29.
+* Weiner, M., 2005, “Must We Know What We Say?”, *The Philosophical Review*, 114(2): 227–251.
+* Williams, M., 1991, *Unnatural Doubts: Epistemological Realism and the Basis of Skepticism*, Cambridge, MA: Blackwell.
+* –––, 2001, *Problems of Knowledge*, Oxford and New York: Oxford University Press.
 * Williamson, T., 2005a, “Knowledge, Context, and the Agent’s Point of View”, in Preyer & Peter (eds.): 91–114.
-* –––, 2005b, “Contextualism, Subject-Sensitive Invariantism and Knowledge of Knowledge”, _The Philosophical Quarterly_, 55(219): 213–35.
-* –––, 2000, _Knowledge and its Limits_, Oxford: Oxford University Press.
-* Wittgenstein, L. (1953) _Philosophical Investigations_, Blackwell.
-* –––, 1969, _On Certainty_, Blackwell.
-* Wright, C., 2005, “Contextualism and Skepticism: Even-Handedness, Factivity, and Surreptitiously Raising Standards,” _The Philosophical Quarterly_, 55(219): 236–62.
-* Worsnip, A., 2015, “Possibly False Knowledge”, _Journal of Philosophy_, 112(5): 225–246.
-* Yourgrau, P., 1983, “Knowledge and Relevant Alternatives”, _Synthese_, 55: 175–190.
+* –––, 2005b, “Contextualism, Subject-Sensitive Invariantism and Knowledge of Knowledge”, *The Philosophical Quarterly*, 55(219): 213–35.
+* –––, 2000, *Knowledge and its Limits*, Oxford: Oxford University Press.
+* Wittgenstein, L. (1953) *Philosophical Investigations*, Blackwell.
+* –––, 1969, *On Certainty*, Blackwell.
+* Wright, C., 2005, “Contextualism and Skepticism: Even-Handedness, Factivity, and Surreptitiously Raising Standards,” *The Philosophical Quarterly*, 55(219): 236–62.
+* Worsnip, A., 2015, “Possibly False Knowledge”, *Journal of Philosophy*, 112(5): 225–246.
+* Yourgrau, P., 1983, “Knowledge and Relevant Alternatives”, *Synthese*, 55: 175–190.
 
 ## Academic Tools
 
@@ -585,7 +584,7 @@ Several objections to this argument have been made. First, it is worth consideri
 
 ## Other Internet Resources
 
-* [Contextualism in Epistemology](http://www.iep.utm.edu/c/contextu.htm), by Tim Black, _The Internet Encyclopedia of Philosophy_
+* [Contextualism in Epistemology](http://www.iep.utm.edu/c/contextu.htm), by Tim Black, *The Internet Encyclopedia of Philosophy*
 * [Contextualism in Epistemology—A Bibliography](http://pantheon.yale.edu/\~kd47/Context-Bib.htm), by Keith DeRose
 
 ## Related Entries
@@ -593,4 +592,4 @@ Several objections to this argument have been made. First, it is worth consideri
 [epistemic paradoxes](https://plato.stanford.edu/entries/epistemic-paradoxes/) | [epistemology](https://plato.stanford.edu/entries/epistemology/) | [knowledge: analysis of](https://plato.stanford.edu/entries/knowledge-analysis/) | [skepticism](https://plato.stanford.edu/entries/skepticism/) | [testimony: epistemological problems of](https://plato.stanford.edu/entries/testimony-episprob/)
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Patrick Rysiew](http://web.uvic.ca/\~rysiew/) <[_rysiew@uvic.ca_](mailto:rysiew%40uvic%2eca)>
+[Patrick Rysiew](http://web.uvic.ca/\~rysiew/) <[*rysiew@uvic.ca*](mailto:rysiew%40uvic%2eca)>

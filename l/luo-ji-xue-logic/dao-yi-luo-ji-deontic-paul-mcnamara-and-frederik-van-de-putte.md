@@ -1,6 +1,6 @@
 # 道义逻辑 deontic (Paul McNamara and Frederik Van De Putte)
 
-_首次发表于2006年2月7日；实质性修订于2021年3月11日。_
+*首次发表于2006年2月7日；实质性修订于2021年3月11日。*
 
 道义逻辑\[1]是逻辑学的一个分支，它最关注以下概念对于从什么推出什么（或者更一般地说，对于什么支持什么）的贡献：
 
@@ -30,7 +30,6 @@ _首次发表于2006年2月7日；实质性修订于2021年3月11日。_
 作为逻辑学的一个分支，道义逻辑出于一些与模态逻辑（必然性和可能性的逻辑）相同的理论兴趣。此外，虽然我们需要谨慎地将道义逻辑与实用性联系起来，但上述许多概念通常被用于试图调节和协调我们的生活。因此，道义逻辑经常直接涉及具有相当实际意义的主题，如道德、法律、社会和商业组织（它们的规范以及规范性构成）以及安全系统。在这种程度上，研究具有如此实际意义的概念的逻辑为道义逻辑本身增加了实际意义。然而，在本文中，我们将重点关注道义逻辑本身，而不是其应用和实际相关性。
 
 在本条目的第 1 节中，我们注意到我们上面的初始列表中的前六个概念之间的某些简单形式关系，遵循比较（和对比）基本道义概念（例如，义务、许可）与模态概念（例如，必然性和可能性）的许多世纪的传统。在第 2 节中，我们转向一个基准的符号道义逻辑系统，这个系统很快成为一个参考点。在第 3 节中，我们研究了一个密切相关的方法，通过将道义概念“简化”为纯粹的模态概念和所谓的“道义常数”来重新构建它们。从某种意义上说，第 2 节和第 3 节讨论的方法可以说是站在模态逻辑的阴影下。在第 4 节中，我们转向道义逻辑中出现的试图应对条件化道义主张的发展，而在这里，道义逻辑更加充分地展现出自己的特点。在第 5 节和第 6 节中，我们转向在第 1-4 节中引入的基准系统中的各种被认为是不足的地方。第 5 节主要关注于论证和指定基准系统中有限表达资源的扩展。最后，第 6 节不是扩展基准方法，而是提出了它们所声称代表的思想建模中的根本缺陷，从而试图解构一些系统的原则和/或构建新的系统来代替它们。
- 
 
 ***
 
@@ -786,238 +785,238 @@ M,w⊨OBp 当且仅当 |p|∈N(w)
 
 ## Bibliography
 
-* al-Hibri, Azizah, 1978, _Deontic Logic: A Comprehensive Appraisal and a New Proposal_, Washington, DC: University Press of America.
-* Alchourrón, Carlos E., 1993, “Philosophical Foundations of Deontic Logic and the Logic of Defeasible Conditionals”, _Deontic Logic in Computer Science: Normative System Specification_, J.-J. Meyer and R. J. Weiringer, Chichester: Jone Wiley & Sons, Ltd.: 43–84.
-* –––, 1996, “Detachment and Defeasibility in Deontic Logic”, _Studia Logica_, 57(1): 5–18. doi:10.1007/BF00370667
-* Alchourrón, Carlos E. and Eugenio Bulygin, 1971, _Normative Systems_, Wien/New York: Springer-Verlag.
+* al-Hibri, Azizah, 1978, *Deontic Logic: A Comprehensive Appraisal and a New Proposal*, Washington, DC: University Press of America.
+* Alchourrón, Carlos E., 1993, “Philosophical Foundations of Deontic Logic and the Logic of Defeasible Conditionals”, *Deontic Logic in Computer Science: Normative System Specification*, J.-J. Meyer and R. J. Weiringer, Chichester: Jone Wiley & Sons, Ltd.: 43–84.
+* –––, 1996, “Detachment and Defeasibility in Deontic Logic”, *Studia Logica*, 57(1): 5–18. doi:10.1007/BF00370667
+* Alchourrón, Carlos E. and Eugenio Bulygin, 1971, *Normative Systems*, Wien/New York: Springer-Verlag.
 * –––, 1981, “The Expressive Conception of Norms”, in Hilpinen 1981: 95–124. doi:10.1007/978-94-009-8484-4\_4
 * Alchourrón, Carlos E. and David Makinson, 1981, “Hierarchies of Regulations and Their Logic”, in Hilpinen 1981: 125–148. doi:10.1007/978-94-009-8484-4\_5
 * Allen, Layman E., 1996, “From the Fundamental Legal Conceptions of Hohfeld to Legal Relations: Refining the Enrichment of Solely Deontic Legal Relations”, in Brown and Carmo 1996: 1–26. doi: 10.1007/978-1-4471-1488-8\_1
-* Anderson, Alan Ross, 1956, “The Formal Analysis of Normative Systems”, Technical Report, Office of Naval Research (Contract No. SAR/Nonr-609(16), Principal Investigator: Omar Khayyam Moore). Reprinted in _The Logic of Decision and Action_, Nicholas Rescher, Pittsburgh: University of Pittsburgh Press, 1966: 147–213.
-* –––, 1958, “A Reduction of Deontic Logic to Alethic Modal Logic”, _Mind_, 67(265): 100–103. doi:10.1093/mind/LXVII.265.100
-* –––, 1967, “Some Nasty Problems in the Formal Logic of Ethics”, _Noûs_, 1(4): 345–360. doi:10.2307/2214623
-* Anglberger, Albert and Johannes Korbmacher, 2020, “Truthmakers and Normative Conflicts”, _Studia Logica_, 108(1): 49–83. doi:10.1007/s11225-019-09862-5
-* Åqvist, Lennart, 1967, “Good Samaritans, Contrary-to-Duty Imperatives, and Epistemic Obligations”, _Noûs_, 1(4): 361–379. doi:10.2307/2214624
-* –––, 1987, _Introduction to Deontic Logic and the Theory of Normative Systems_, Napoli: Biblopolis.
+* Anderson, Alan Ross, 1956, “The Formal Analysis of Normative Systems”, Technical Report, Office of Naval Research (Contract No. SAR/Nonr-609(16), Principal Investigator: Omar Khayyam Moore). Reprinted in *The Logic of Decision and Action*, Nicholas Rescher, Pittsburgh: University of Pittsburgh Press, 1966: 147–213.
+* –––, 1958, “A Reduction of Deontic Logic to Alethic Modal Logic”, *Mind*, 67(265): 100–103. doi:10.1093/mind/LXVII.265.100
+* –––, 1967, “Some Nasty Problems in the Formal Logic of Ethics”, *Noûs*, 1(4): 345–360. doi:10.2307/2214623
+* Anglberger, Albert and Johannes Korbmacher, 2020, “Truthmakers and Normative Conflicts”, *Studia Logica*, 108(1): 49–83. doi:10.1007/s11225-019-09862-5
+* Åqvist, Lennart, 1967, “Good Samaritans, Contrary-to-Duty Imperatives, and Epistemic Obligations”, *Noûs*, 1(4): 361–379. doi:10.2307/2214624
+* –––, 1987, *Introduction to Deontic Logic and the Theory of Normative Systems*, Napoli: Biblopolis.
 * –––, 2002, “Deontic Logic”, in Gabbay and Guenthner 2002: 147–264. doi:10.1007/978-94-010-0387-2\_3
 * Åqvist, Lennart and Jaap Hoepelman, 1981, “Some Theorems about a ‘Tree’ System of Deontic Tense Logic”, in Hilpinen 1981: 187–221. doi:10.1007/978-94-009-8484-4\_9
-* Asher, Nicholas and Daniel Bonevac, 1996, “Prima Facie Obligation”, _Studia Logica_, 57(1): 19–45. doi:10.1007/BF00370668
+* Asher, Nicholas and Daniel Bonevac, 1996, “Prima Facie Obligation”, *Studia Logica*, 57(1): 19–45. doi:10.1007/BF00370668
 * –––, 1997, “Common Sense Obligation”, in Nute 1997: 159–203. doi:10.1007/978-94-015-8851-5\_8
-* Bailhache, Patrice, 1998, “How to Mix Alethic, Deontic, Temporal, Individual Modalities”, _Logica Trianguli_, 2: 3–16.
+* Bailhache, Patrice, 1998, “How to Mix Alethic, Deontic, Temporal, Individual Modalities”, *Logica Trianguli*, 2: 3–16.
 * Bartha, Paul, 1999, “Moral Preference, Contrary-to-Duty Obligation and Defeasible Oughts”, in McNamara, and Prakken 1999: 93–108.
-* –––, 2002, “Review of _Agency and Deontic Logic_, by John F. Horty”, _Notre Dame Philosophical Reviews_, February. \[[Bartha 2002 available online](https://ndpr.nd.edu/news/agency-and-deontic-logic/)]
-* Belnap, Nuel, 1991, “Backwards and Forwards in the Modal Logic of Agency”, _Philosophy and Phenomenological Research_, 51(4): 777–807.
-* Belnap, Nuel, Michael Perloff, and Ming Xu, 2001, _Facing the Future: Agents and Choices in Our Indeterminist World_, New York: Oxford University Press.
-* Belnap, Nuel and Michael Perloff, 1988, “Seeing to It That: A Canonical Form for Agentives”, _Theoria_, 54(3): 175–199. doi:10.1111/j.1755-2567.1988.tb00717.x
-* Benthem, Johan van, Davide Grossi, and Fenrong Liu, 2014, “Priority Structures in Deontic Logic: Priority Structures in Deontic Logic”, _Theoria_, 80(2): 116–152. doi:10.1111/theo.12028
-* Béziau, Jean-Yves, 2012, “The New Rising of the Square of Opposition”, in _Around and Beyond the Square of Opposition_, Jean-Yves Béziau and Dale Jacquette (eds.), Basel: Springer Basel, 3–19. doi:10.1007/978-3-0348-0379-3\_1
-* Béziau, Jean-Yves and Gilman Payette (eds), 2012, _The Square of Opposition: a General Framework for Cognition_, Bern: Peter Lang.
-* Bonevac, Daniel, 1998, “Against Conditional Obligation”, _Noûs_, 32(1): 37–53. doi:10.1111/0029-4624.00086
-* Brewka, Gerhard, 1989, “Nonmonotonic Logics – A Brief Overview”, _AI Communications_, 2(2): 88–97. doi:10.3233/AIC-1989-2204
-* Broersen, Jan, 2004, “Action Negation and Alternative Reductions for Dynamic Deontic Logics”, _Journal of Applied Logic_, 2(1): 153–168. doi:10.1016/j.jal.2004.01.007
-* –––, 2008, “A Logical Analysis of the Interaction between ‘Obligation-to-Do’ and ‘Knowingly Doing’”, in _Deontic Logic in Computer Science_, Ron van der Meyden and Leendert van der Torre (eds.), (Lecture Notes in Computer Science 5076), Berlin, Heidelberg: Springer Berlin Heidelberg, 140–154. doi:10.1007/978-3-540-70525-3\_12
-* Broersen, Jan and Leendert van der Torre, 2003, “Review: _Agency and Deontic Logic_, by John Horty”, _Artificial Intelligence and Law_, 11(1): 45–61. doi:10.1023/B:ARTI.0000013352.63798.08
+* –––, 2002, “Review of *Agency and Deontic Logic*, by John F. Horty”, *Notre Dame Philosophical Reviews*, February. \[[Bartha 2002 available online](https://ndpr.nd.edu/news/agency-and-deontic-logic/)]
+* Belnap, Nuel, 1991, “Backwards and Forwards in the Modal Logic of Agency”, *Philosophy and Phenomenological Research*, 51(4): 777–807.
+* Belnap, Nuel, Michael Perloff, and Ming Xu, 2001, *Facing the Future: Agents and Choices in Our Indeterminist World*, New York: Oxford University Press.
+* Belnap, Nuel and Michael Perloff, 1988, “Seeing to It That: A Canonical Form for Agentives”, *Theoria*, 54(3): 175–199. doi:10.1111/j.1755-2567.1988.tb00717.x
+* Benthem, Johan van, Davide Grossi, and Fenrong Liu, 2014, “Priority Structures in Deontic Logic: Priority Structures in Deontic Logic”, *Theoria*, 80(2): 116–152. doi:10.1111/theo.12028
+* Béziau, Jean-Yves, 2012, “The New Rising of the Square of Opposition”, in *Around and Beyond the Square of Opposition*, Jean-Yves Béziau and Dale Jacquette (eds.), Basel: Springer Basel, 3–19. doi:10.1007/978-3-0348-0379-3\_1
+* Béziau, Jean-Yves and Gilman Payette (eds), 2012, *The Square of Opposition: a General Framework for Cognition*, Bern: Peter Lang.
+* Bonevac, Daniel, 1998, “Against Conditional Obligation”, *Noûs*, 32(1): 37–53. doi:10.1111/0029-4624.00086
+* Brewka, Gerhard, 1989, “Nonmonotonic Logics – A Brief Overview”, *AI Communications*, 2(2): 88–97. doi:10.3233/AIC-1989-2204
+* Broersen, Jan, 2004, “Action Negation and Alternative Reductions for Dynamic Deontic Logics”, *Journal of Applied Logic*, 2(1): 153–168. doi:10.1016/j.jal.2004.01.007
+* –––, 2008, “A Logical Analysis of the Interaction between ‘Obligation-to-Do’ and ‘Knowingly Doing’”, in *Deontic Logic in Computer Science*, Ron van der Meyden and Leendert van der Torre (eds.), (Lecture Notes in Computer Science 5076), Berlin, Heidelberg: Springer Berlin Heidelberg, 140–154. doi:10.1007/978-3-540-70525-3\_12
+* Broersen, Jan and Leendert van der Torre, 2003, “Review: *Agency and Deontic Logic*, by John Horty”, *Artificial Intelligence and Law*, 11(1): 45–61. doi:10.1023/B:ARTI.0000013352.63798.08
 * Brown, Mark A., 1996a, “Doing As We Ought: Towards A Logic of Simply Dischargeable Obligations”, in Brown and Carmo 1996: 47–65. doi:10.1007/978-1-4471-1488-8\_3
-* –––, 1996b, “A Logic of Comparative Obligation”, _Studia Logica_, 57(1): 117–137. doi:10.1007/BF00370672
-* Brown, Mark A. and José Carmo (eds.), 1996, _Deontic Logic, Agency and Normative Systems_, (Workshops in Computing), London: Springer London. doi:10.1007/978-1-4471-1488-8
-* Canavotto, Ilaria and Alessandro Giordani, 2019, “Enriching Deontic Logic”, _Journal of Logic and Computation_, 29(2): 241–263. doi:10.1093/logcom/exy007
-* Cariani, Fabrizio, 2013, “‘Ought’ and Resolution Semantics \*: ‘Ought’ and Resolution Semantics”, _Noûs_, 47(3): 534–558. doi:10.1111/j.1468-0068.2011.00839.x
+* –––, 1996b, “A Logic of Comparative Obligation”, *Studia Logica*, 57(1): 117–137. doi:10.1007/BF00370672
+* Brown, Mark A. and José Carmo (eds.), 1996, *Deontic Logic, Agency and Normative Systems*, (Workshops in Computing), London: Springer London. doi:10.1007/978-1-4471-1488-8
+* Canavotto, Ilaria and Alessandro Giordani, 2019, “Enriching Deontic Logic”, *Journal of Logic and Computation*, 29(2): 241–263. doi:10.1093/logcom/exy007
+* Cariani, Fabrizio, 2013, “‘Ought’ and Resolution Semantics \*: ‘Ought’ and Resolution Semantics”, *Noûs*, 47(3): 534–558. doi:10.1111/j.1468-0068.2011.00839.x
 * Cariani, Fabrizio, forthcoming, “Deontic Logic and Natural Language”, in Gabbay et al. forthcoming.
 * Carmo, José and Andrew J. I. Jones, 2002, “Deontic Logic and Contrary-to-Duties”, in Gabbay and Guenthner 2002: 265–343. doi:10.1007/978-94-010-0387-2\_4
-* Carney, Frederick S., 1983, “Some Aspects of Islamic Ethics”, _The Journal of Religion_, 63(2): 159–174. doi:10.1086/487011
+* Carney, Frederick S., 1983, “Some Aspects of Islamic Ethics”, *The Journal of Religion*, 63(2): 159–174. doi:10.1086/487011
 * Castañeda, Hector-Neri, 1981, “The Paradoxes of Deontic Logic: The Simplest Solution to All of Them in One Fell Swoop”, in Hilpinen 1981: 37–85. doi:10.1007/978-94-009-8484-4\_2
-* Chellas, Brian Farrell, 1969, _The Logical Form of Imperatives_, PhD thesis, Stanford University.
+* Chellas, Brian Farrell, 1969, *The Logical Form of Imperatives*, PhD thesis, Stanford University.
 * –––, 1974, “Conditional Obligation”, in Stenlund 1974: 23–33.
-* –––, 1980, _Modal Logic: An Introduction_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621192
-* Chisholm, Roderick M., 1963a, “Contrary-To-Duty Imperatives and Deontic Logic”, _Analysis_, 24(2): 33–36. doi:10.1093/analys/24.2.33
-* –––, 1963b, “Supererogation and Offence: A Conceptual Scheme for Ethics”, _Ratio_, old series, 5: 1–14.
-* –––, 1964, “The Ethics of Requirement”, _American Philosophical Quarterly_, 1(2): 147–153.
-* –––, 1974, “Practical Reason and the Logic of Requirement”, in _Practical Reason_, Stephan Korner (ed.), New Haven, CT: Yale University Press: 1–17.
-* Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, _Journal of Philosophical Logic_, 31(2): 99–137. doi:10.1023/A:1015273407895
-* Craven, Robert and Marek Sergot, 2008, “Agent Strands in the Action Language nC+”, _Journal of Applied Logic_, 6(2): 172–191. doi:10.1016/j.jal.2007.06.007
-* Da Costa, Newton C. A. and Walter A. Carnielli, 1986, “On Paraconsistent Deontic Logic”, _Philosophia_, 16(3–4): 293–305. doi:10.1007/BF02379748
-* Danielsson, Sven, 1968, _Preference and Obligation: Studies in the Logic of Ethics_, Uppsala: Filosofiska föreningen.
-* –––, 2002, “Review: _Agency and Deontic Logic_, by John Horty”, _Philosophical Quarterly_, 52(208): 408–410.
-* DeCew, Judith Wagner, 1981, “Conditional Obligation and Counterfactuals”, _Journal of Philosophical Logic_, 10(1): 55–72. doi:10.1007/BF00253912
-* Dong, Huimin and Olivier Roy, 2017, “Dynamic Logic of Power and Immunity”, in _Logic, Rationality, and Interaction_, Alexandru Baltag, Jeremy Seligman, and Tomoyuki Yamada (eds.), (Lecture Notes in Computer Science 10455), Berlin, Heidelberg: Springer Berlin Heidelberg, 123–136. doi:10.1007/978-3-662-55665-8\_9
-* Elgesem, Dag, 1993, _Action Theory and Modal Logic_, PhD Thesis, University of Oslo.
-* –––, 1997, “The Modal Logic of Agency”, _Nordic Journal of Philosophical Logic_, 2(2): 1–46.
-* Faroldi, Federico L. G., 2019, _Hyperintensionality and Normativity_, Cham: Springer International Publishing. doi:10.1007/978-3-030-03487-0
-* Feldman, Fred, 1986, _Doing the Best We Can: An Essay in Informal Deontic Logic_, Dordrecht/Boston: D. Reidel Publishing Company.
-* Fine, Kit, 2017, “Truthmaker Semantics”, in _A Companion to the Philosophy of Language_, Bob Hale, Crispin Wright, and Alexander Miller (eds.), Chichester, UK: John Wiley & Sons, Ltd, 556–577. doi:10.1002/9781118972090.ch22
-* –––, 2018a, “Compliance and Command I—Categorical Imperatives”, _The Review of Symbolic Logic_, 11(4): 609–633. doi:10.1017/S175502031700020X
-* –––, 2018b, “Compliance and Command II, Imperatives and Deontics”, _The Review of Symbolic Logic_, 11(4): 634–664. doi:10.1017/S1755020318000059
+* –––, 1980, *Modal Logic: An Introduction*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511621192
+* Chisholm, Roderick M., 1963a, “Contrary-To-Duty Imperatives and Deontic Logic”, *Analysis*, 24(2): 33–36. doi:10.1093/analys/24.2.33
+* –––, 1963b, “Supererogation and Offence: A Conceptual Scheme for Ethics”, *Ratio*, old series, 5: 1–14.
+* –––, 1964, “The Ethics of Requirement”, *American Philosophical Quarterly*, 1(2): 147–153.
+* –––, 1974, “Practical Reason and the Logic of Requirement”, in *Practical Reason*, Stephan Korner (ed.), New Haven, CT: Yale University Press: 1–17.
+* Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, *Journal of Philosophical Logic*, 31(2): 99–137. doi:10.1023/A:1015273407895
+* Craven, Robert and Marek Sergot, 2008, “Agent Strands in the Action Language nC+”, *Journal of Applied Logic*, 6(2): 172–191. doi:10.1016/j.jal.2007.06.007
+* Da Costa, Newton C. A. and Walter A. Carnielli, 1986, “On Paraconsistent Deontic Logic”, *Philosophia*, 16(3–4): 293–305. doi:10.1007/BF02379748
+* Danielsson, Sven, 1968, *Preference and Obligation: Studies in the Logic of Ethics*, Uppsala: Filosofiska föreningen.
+* –––, 2002, “Review: *Agency and Deontic Logic*, by John Horty”, *Philosophical Quarterly*, 52(208): 408–410.
+* DeCew, Judith Wagner, 1981, “Conditional Obligation and Counterfactuals”, *Journal of Philosophical Logic*, 10(1): 55–72. doi:10.1007/BF00253912
+* Dong, Huimin and Olivier Roy, 2017, “Dynamic Logic of Power and Immunity”, in *Logic, Rationality, and Interaction*, Alexandru Baltag, Jeremy Seligman, and Tomoyuki Yamada (eds.), (Lecture Notes in Computer Science 10455), Berlin, Heidelberg: Springer Berlin Heidelberg, 123–136. doi:10.1007/978-3-662-55665-8\_9
+* Elgesem, Dag, 1993, *Action Theory and Modal Logic*, PhD Thesis, University of Oslo.
+* –––, 1997, “The Modal Logic of Agency”, *Nordic Journal of Philosophical Logic*, 2(2): 1–46.
+* Faroldi, Federico L. G., 2019, *Hyperintensionality and Normativity*, Cham: Springer International Publishing. doi:10.1007/978-3-030-03487-0
+* Feldman, Fred, 1986, *Doing the Best We Can: An Essay in Informal Deontic Logic*, Dordrecht/Boston: D. Reidel Publishing Company.
+* Fine, Kit, 2017, “Truthmaker Semantics”, in *A Companion to the Philosophy of Language*, Bob Hale, Crispin Wright, and Alexander Miller (eds.), Chichester, UK: John Wiley & Sons, Ltd, 556–577. doi:10.1002/9781118972090.ch22
+* –––, 2018a, “Compliance and Command I—Categorical Imperatives”, *The Review of Symbolic Logic*, 11(4): 609–633. doi:10.1017/S175502031700020X
+* –––, 2018b, “Compliance and Command II, Imperatives and Deontics”, *The Review of Symbolic Logic*, 11(4): 634–664. doi:10.1017/S1755020318000059
 * Føllesdal, Dagfinn and Risto Hilpinen, 1971, “Deontic Logic: An Introduction”, in Hilpinen 1971: 1–35. doi:10.1007/978-94-010-3146-2\_1
-* Forrester, James William, 1984, “Gentle Murder, or the Adverbial Samaritan”, _The Journal of Philosophy_, 81(4): 193–197. doi:10.2307/2026120
-* Gabbay, Dov M. and Franz Guenthner (eds.), 2002, _Handbook of Philosophical Logic_, second edition, Vol. 8, Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0387-2
-* Gabbay, Dov, John Horty, Xavier Parent, Ron van der Meyden, and Leendert van der Torre, 2013, _Handbook of Deontic Logic and Normative Systems_, Volume 1, London: College Publications.
-* –––, forthcoming, _Handbook of Deontic Logic and Normative Systems_, Volume 2, London: College Publications.
-* Geach, Peter T., 1982, “Whatever Happened to Deontic Logic?”, _Philosophia_, 11(1–2): 1–12. doi:10.1007/BF02378802
-* Goble, Lou, 1990a, “A Logic of Good, Should, and Would: Part I”, _Journal of Philosophical Logic_, 19(2): 169–199. doi:10.1007/BF00263540
-* –––, 1990b, “A Logic of Good, Should, and Would: Part II”, _Journal of Philosophical Logic_, 19(3): 253–276. doi:10.1007/BF00556636
-* –––, 2003, “Preference Semantics for Deontic Logic Part I—Simple Models”, _Logique et Analyse_, 46(183–184): 383–418.
-* –––, 2004, “Preference Semantics for Deontic Logic Part II—Multiplex Models”, _Logique et Analyse_, 47(187–188): 335–363.
-* –––, 2005, “A Logic for Deontic Dilemmas”, _Journal of Applied Logic_, 3(3–4): 461–483. doi:10.1016/j.jal.2005.04.004
+* Forrester, James William, 1984, “Gentle Murder, or the Adverbial Samaritan”, *The Journal of Philosophy*, 81(4): 193–197. doi:10.2307/2026120
+* Gabbay, Dov M. and Franz Guenthner (eds.), 2002, *Handbook of Philosophical Logic*, second edition, Vol. 8, Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0387-2
+* Gabbay, Dov, John Horty, Xavier Parent, Ron van der Meyden, and Leendert van der Torre, 2013, *Handbook of Deontic Logic and Normative Systems*, Volume 1, London: College Publications.
+* –––, forthcoming, *Handbook of Deontic Logic and Normative Systems*, Volume 2, London: College Publications.
+* Geach, Peter T., 1982, “Whatever Happened to Deontic Logic?”, *Philosophia*, 11(1–2): 1–12. doi:10.1007/BF02378802
+* Goble, Lou, 1990a, “A Logic of Good, Should, and Would: Part I”, *Journal of Philosophical Logic*, 19(2): 169–199. doi:10.1007/BF00263540
+* –––, 1990b, “A Logic of Good, Should, and Would: Part II”, *Journal of Philosophical Logic*, 19(3): 253–276. doi:10.1007/BF00556636
+* –––, 2003, “Preference Semantics for Deontic Logic Part I—Simple Models”, *Logique et Analyse*, 46(183–184): 383–418.
+* –––, 2004, “Preference Semantics for Deontic Logic Part II—Multiplex Models”, *Logique et Analyse*, 47(187–188): 335–363.
+* –––, 2005, “A Logic for Deontic Dilemmas”, *Journal of Applied Logic*, 3(3–4): 461–483. doi:10.1016/j.jal.2005.04.004
 * –––, 2013, “Prima Facie Norms, Normative Conflicts, and Dilemmas”, in Gabbay et al. 2013: 241–351.
-* Goldblatt, Robert, 2006, “Mathematical Modal Logic: A View of Its Evolution”, in _Logic and the Modalities in the Twentieth Century_, Dov M. Gabbay and John Woods (eds.), (Handbook of the History of Logic 7), Amsterdam: Elsevier, 1–98. doi:10.1016/S1874-5857(06)80027-0
-* Governatori, Guido, Joris Hulstijn, Régis Riveret, and Antonino Rotolo, 2007, “Characterising Deadlines in Temporal Modal Defeasible Logic”, in _AI 2007: Advances in Artificial Intelligence_, Mehmet A. Orgun and John Thornton (eds.), (Lecture Notes in Computer Science 4830), Berlin, Heidelberg: Springer Berlin Heidelberg, 486–496. doi:10.1007/978-3-540-76928-6\_50
-* Gowans, Christopher W. (ed.), 1987, _Moral Dilemmas_, Oxford: Oxford University Press.
-* Greenspan, P. S., 1975, “Conditional Oughts and Hypothetical Imperatives”:, _Journal of Philosophy_, 72(10): 259–276. doi:10.2307/2024734
-* Hansen, Jörg, 2004, “Problems and Results for Logics about Imperatives”, _Journal of Applied Logic_, 2(1): 39–61. doi:10.1016/j.jal.2004.01.003
-* –––, 2008, _Imperatives and Deontic Logic: On the Semantic Foundations of Deontic Logic_, PhD Dissertation, University of Leipzig. \[[Hansen 2008 available online](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.203\&rep=rep1\&type=pdf)]
+* Goldblatt, Robert, 2006, “Mathematical Modal Logic: A View of Its Evolution”, in *Logic and the Modalities in the Twentieth Century*, Dov M. Gabbay and John Woods (eds.), (Handbook of the History of Logic 7), Amsterdam: Elsevier, 1–98. doi:10.1016/S1874-5857(06)80027-0
+* Governatori, Guido, Joris Hulstijn, Régis Riveret, and Antonino Rotolo, 2007, “Characterising Deadlines in Temporal Modal Defeasible Logic”, in *AI 2007: Advances in Artificial Intelligence*, Mehmet A. Orgun and John Thornton (eds.), (Lecture Notes in Computer Science 4830), Berlin, Heidelberg: Springer Berlin Heidelberg, 486–496. doi:10.1007/978-3-540-76928-6\_50
+* Gowans, Christopher W. (ed.), 1987, *Moral Dilemmas*, Oxford: Oxford University Press.
+* Greenspan, P. S., 1975, “Conditional Oughts and Hypothetical Imperatives”:, *Journal of Philosophy*, 72(10): 259–276. doi:10.2307/2024734
+* Hansen, Jörg, 2004, “Problems and Results for Logics about Imperatives”, *Journal of Applied Logic*, 2(1): 39–61. doi:10.1016/j.jal.2004.01.003
+* –––, 2008, *Imperatives and Deontic Logic: On the Semantic Foundations of Deontic Logic*, PhD Dissertation, University of Leipzig. \[[Hansen 2008 available online](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.203\&rep=rep1\&type=pdf)]
 * –––, 2013, “Imperatives Logic and Its Problems”, in Gabbay et al. 2013: 137–191.
-* Hansson, Bengt, 1969 \[1971], “An Analysis of Some Deontic Logics”, _Noûs_, 3(4): 373–398. doi:10.2307/2214372 Reprinted in Hilpinen 1971: 121–147. doi:10.1007/978-94-010-3146-2\_5
-* Hansson, Sven Ove, 1990, “Preference-Based Deontic Logic (PDL)”, _Journal of Philosophical Logic_, 19(1): 75–93. doi:10.1007/BF00211186
-* –––, 2001, _The Structure of Values and Norms_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498466
-* Hedenius, Ingemar, 1941 \[1963], _Om Ratt och Moral_ (_On Law and Morals_), Stockholm: Wahlström & Widstrand.
-* Herrestad, Henning and Christen Krogh, 1993, “The Right Direction”, presented at _Towards a Global Expert System of Law_, Firenze, 1–12.
-* –––, 1995, “Obligations Directed from Bearers to Counterparts”, in _Proceedings of the Fifth International Conference on Artificial Intelligence and Law – ICAIL ’95_, College Park, MD: ACM Press, 210–218. doi:10.1145/222092.222243
-* Hilpinen, Risto (ed.), 1971, _Deontic Logic: Introductory and Systematic Readings_, (Synthese Library 33), Dordrecht: D. Reidel. doi:10.1007/978-94-010-3146-2
-* ––– (ed.), 1981, _New Studies in Deontic Logic: Norms, Actions, and the Foundations of Ethics_, Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-8484-4
-* –––, 1997a, “On Action and Agency”, in _Logic, Action and Cognition: Essays in Philosophical Logic_, Eva Ejerhed and Sten Lindström (eds.), (Trends in Logic 2), Dordrecht: Springer Netherlands, 3–27. doi:10.1007/978-94-011-5524-3\_1
-* –––, 1997b, “On States, Actions, Omissions and Norms”, in _Contemporary Action Theory Volume 1: Individual Action_, Ghita Holmström-Hintikka and Raimo Tuomela (eds.), Dordrecht: Springer Netherlands, 83–107. doi:10.1007/978-94-017-0439-7\_5
-* –––, 2001a, “Deontic Logic”, in _The Blackwell Guide to Philosophical Logic_, Lou Goble (ed.), Oxford, UK: Blackwell Publishing Ltd, 159–182. doi:10.1002/9781405164801.ch8
+* Hansson, Bengt, 1969 \[1971], “An Analysis of Some Deontic Logics”, *Noûs*, 3(4): 373–398. doi:10.2307/2214372 Reprinted in Hilpinen 1971: 121–147. doi:10.1007/978-94-010-3146-2\_5
+* Hansson, Sven Ove, 1990, “Preference-Based Deontic Logic (PDL)”, *Journal of Philosophical Logic*, 19(1): 75–93. doi:10.1007/BF00211186
+* –––, 2001, *The Structure of Values and Norms*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511498466
+* Hedenius, Ingemar, 1941 \[1963], *Om Ratt och Moral* (*On Law and Morals*), Stockholm: Wahlström & Widstrand.
+* Herrestad, Henning and Christen Krogh, 1993, “The Right Direction”, presented at *Towards a Global Expert System of Law*, Firenze, 1–12.
+* –––, 1995, “Obligations Directed from Bearers to Counterparts”, in *Proceedings of the Fifth International Conference on Artificial Intelligence and Law – ICAIL ’95*, College Park, MD: ACM Press, 210–218. doi:10.1145/222092.222243
+* Hilpinen, Risto (ed.), 1971, *Deontic Logic: Introductory and Systematic Readings*, (Synthese Library 33), Dordrecht: D. Reidel. doi:10.1007/978-94-010-3146-2
+* ––– (ed.), 1981, *New Studies in Deontic Logic: Norms, Actions, and the Foundations of Ethics*, Dordrecht: Springer Netherlands. doi:10.1007/978-94-009-8484-4
+* –––, 1997a, “On Action and Agency”, in *Logic, Action and Cognition: Essays in Philosophical Logic*, Eva Ejerhed and Sten Lindström (eds.), (Trends in Logic 2), Dordrecht: Springer Netherlands, 3–27. doi:10.1007/978-94-011-5524-3\_1
+* –––, 1997b, “On States, Actions, Omissions and Norms”, in *Contemporary Action Theory Volume 1: Individual Action*, Ghita Holmström-Hintikka and Raimo Tuomela (eds.), Dordrecht: Springer Netherlands, 83–107. doi:10.1007/978-94-017-0439-7\_5
+* –––, 2001a, “Deontic Logic”, in *The Blackwell Guide to Philosophical Logic*, Lou Goble (ed.), Oxford, UK: Blackwell Publishing Ltd, 159–182. doi:10.1002/9781405164801.ch8
 * –––, 2001b, “Stig Kanger on Deontic Logic”, in Holmström-Hintikka, Lindström, and Sliwinski 2001: 131–149. doi:10.1007/978-94-010-0630-9\_8
 * Hilpinen, Risto and Paul McNamara, 2013, “Deontic Logic: A Historical Survey and Introduction”, in Gabbay et al. 2013: 1–134.
-* Hintikka, Jaakko, 1957, _Quantifiers in Deontic Logic_, (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum, 23(4)), København: Munksgaard.
+* Hintikka, Jaakko, 1957, *Quantifiers in Deontic Logic*, (Societas Scientiarum Fennica, Commentationes Humanarum Litterarum, 23(4)), København: Munksgaard.
 * –––, 1971, “Some Main Problems of Deontic Logic”, in Hilpinen 1971: 59–104.
-* Hohfeld, Wesley Newcomb, 1919, _Fundamental Legal Conceptions as Applied in Judicial Reasoning_, Walter Wheeler Cook (ed.), New Haven, CT: Yale University Press.
-* Holmström-Hintikka, Ghita, Sten Lindström, and Rysiek Sliwinski (eds.), 2001, _Collected Papers of Stig Kanger with Essays on His Life and Work_, Vol. 2, Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0630-9
-* Horty, John F., 1994, “Moral Dilemmas and Nonmonotonic Logic”, _Journal of Philosophical Logic_, 23(1): 35–65. doi:10.1007/BF01417957
-* –––, 1996, “Agency and Obligation”, _Synthese_, 108(2): 269–307. doi:10.1007/BF00413499
-* –––, 2001, _Agency and Deontic Logic_, Oxford/New York: Oxford University Press. doi:10.1093/0195134613.001.0001
-* –––, 2003, “Reasoning with Moral Conflicts”, _Noûs_, 37(4): 557–605. doi:10.1046/j.1468-0068.2003.00452.x
-* –––, 2012, _Reasons as Defaults_, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199744077.001.0001
-* –––, 2019, “Epistemic Oughts in Stit Semantics”, _Ergo, an Open Access Journal of Philosophy_, 6: art. 4. doi:10.3998/ergo.12405314.0006.004
-* Hourani, George F., 1985, _Reason and Tradition in Islamic Ethics_, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570780
-* Hruschka, Joachim, 1990, “The Hexagonal System of Deontic Concepts according to Achenwall and Kant”, in _Estudios de historia de la lógica_, Ignacio Angellili and A. d’Ors (eds), Pamplona: Eunate: 277–291.
-* Jackson, Frank, 1985, “On the Semantics and Logic of Obligation”, _Mind_, 94(374): 177–195. doi:10.1093/mind/XCIV.374.177
-* Johns, Chris, 2014, “Leibniz and the Square: A Deontic Logic for the _Vir Bonus_”, _History and Philosophy of Logic_, 35(4): 369–376. doi:10.1080/01445340.2014.916895
-* Jones, Andrew J. I., 1990, “Deontic Logic and Legal Knowledge Representation”, _Ratio Juris_, 3(2): 237–244. doi:10.1111/j.1467-9337.1990.tb00060.x
-* Jones, Andrew J. I. and Ingmar Pörn, 1985, “Ideality, Sub-Ideality and Deontic Logic”, _Synthese_, 65(2): 275–290. doi:10.1007/BF00869304
-* –––, 1986, “‘Ought’ and ‘Must’”, _Synthese_, 66(1): 89–93. doi:10.1007/BF00413581
-* Jones, Andrew J. I. and Marek Sergot, 1993, “On the Characterization of Law and Computer Systems: The Normative Systems Perspective”, in _Deontic Logic in Computer Science: Normative System Specification_, John-Jules Ch. Meyer and Roel J. Wieringa (eds), Chichester: John Wiley and Sons Ltd., 275–307.
-* –––, 1996, “A Formal Characterisation of Institutionalised Power”, _Logic Journal of IGPL_, 4(3): 427–443. doi:10.1093/jigpal/4.3.427
-* Ju, Fengkui and Jan van Eijck, 2019, “A Temporal Dynamic Deontic Logic”, _Journal of Logic and Computation_, 29(2): 265–284. doi:10.1093/logcom/exy008
-* Kamp, Hans, 1974, “Free Choice Permission”, _Proceedings of the Aristotelian Society_, 74(1): 57–74. doi:10.1093/aristotelian/74.1.57
-* –––, 1979, “Semantics Versus Pragmatics”, in _Formal Semantics and Pragmatics for Natural Languages_, F. Guenthner and S. J. Schmidt (eds.), Dordrecht: D. Reidel, 255–287. doi:10.1007/978-94-009-9775-2\_9
+* Hohfeld, Wesley Newcomb, 1919, *Fundamental Legal Conceptions as Applied in Judicial Reasoning*, Walter Wheeler Cook (ed.), New Haven, CT: Yale University Press.
+* Holmström-Hintikka, Ghita, Sten Lindström, and Rysiek Sliwinski (eds.), 2001, *Collected Papers of Stig Kanger with Essays on His Life and Work*, Vol. 2, Dordrecht: Springer Netherlands. doi:10.1007/978-94-010-0630-9
+* Horty, John F., 1994, “Moral Dilemmas and Nonmonotonic Logic”, *Journal of Philosophical Logic*, 23(1): 35–65. doi:10.1007/BF01417957
+* –––, 1996, “Agency and Obligation”, *Synthese*, 108(2): 269–307. doi:10.1007/BF00413499
+* –––, 2001, *Agency and Deontic Logic*, Oxford/New York: Oxford University Press. doi:10.1093/0195134613.001.0001
+* –––, 2003, “Reasoning with Moral Conflicts”, *Noûs*, 37(4): 557–605. doi:10.1046/j.1468-0068.2003.00452.x
+* –––, 2012, *Reasons as Defaults*, New York: Oxford University Press. doi:10.1093/acprof:oso/9780199744077.001.0001
+* –––, 2019, “Epistemic Oughts in Stit Semantics”, *Ergo, an Open Access Journal of Philosophy*, 6: art. 4. doi:10.3998/ergo.12405314.0006.004
+* Hourani, George F., 1985, *Reason and Tradition in Islamic Ethics*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511570780
+* Hruschka, Joachim, 1990, “The Hexagonal System of Deontic Concepts according to Achenwall and Kant”, in *Estudios de historia de la lógica*, Ignacio Angellili and A. d’Ors (eds), Pamplona: Eunate: 277–291.
+* Jackson, Frank, 1985, “On the Semantics and Logic of Obligation”, *Mind*, 94(374): 177–195. doi:10.1093/mind/XCIV.374.177
+* Johns, Chris, 2014, “Leibniz and the Square: A Deontic Logic for the *Vir Bonus*”, *History and Philosophy of Logic*, 35(4): 369–376. doi:10.1080/01445340.2014.916895
+* Jones, Andrew J. I., 1990, “Deontic Logic and Legal Knowledge Representation”, *Ratio Juris*, 3(2): 237–244. doi:10.1111/j.1467-9337.1990.tb00060.x
+* Jones, Andrew J. I. and Ingmar Pörn, 1985, “Ideality, Sub-Ideality and Deontic Logic”, *Synthese*, 65(2): 275–290. doi:10.1007/BF00869304
+* –––, 1986, “‘Ought’ and ‘Must’”, *Synthese*, 66(1): 89–93. doi:10.1007/BF00413581
+* Jones, Andrew J. I. and Marek Sergot, 1993, “On the Characterization of Law and Computer Systems: The Normative Systems Perspective”, in *Deontic Logic in Computer Science: Normative System Specification*, John-Jules Ch. Meyer and Roel J. Wieringa (eds), Chichester: John Wiley and Sons Ltd., 275–307.
+* –––, 1996, “A Formal Characterisation of Institutionalised Power”, *Logic Journal of IGPL*, 4(3): 427–443. doi:10.1093/jigpal/4.3.427
+* Ju, Fengkui and Jan van Eijck, 2019, “A Temporal Dynamic Deontic Logic”, *Journal of Logic and Computation*, 29(2): 265–284. doi:10.1093/logcom/exy008
+* Kamp, Hans, 1974, “Free Choice Permission”, *Proceedings of the Aristotelian Society*, 74(1): 57–74. doi:10.1093/aristotelian/74.1.57
+* –––, 1979, “Semantics Versus Pragmatics”, in *Formal Semantics and Pragmatics for Natural Languages*, F. Guenthner and S. J. Schmidt (eds.), Dordrecht: D. Reidel, 255–287. doi:10.1007/978-94-009-9775-2\_9
 * Kanger, Stig, 1957 \[1971], “New Foundations for Ethical Theory”, privately distributed pamphlet, Stockholm. Revised and printed in Hilpinen 1971: 36–58.
-* –––, 1972, “Law and Logic”, _Theoria_, 38(3): 105–132. doi:10.1111/j.1755-2567.1972.tb00928.x
-* Kanger, Stig and Helle Kanger, 1966 \[1972], “Rights and Parliamentarism”, _Theoria_, 32(2): 85–115. Reprinted with changes in _Contemporary Philosophy in Scandinavia_, Raymond E. Olson and Anthony M. Paul (eds), Baltimore and London: The Johns Hopkins Press, 1972: 213–236. doi:10.1111/j.1755-2567.1966.tb00594.x
-* Kempson, Ruth M., 1977, _Semantic Theory_, Cambridge: Cambridge University Press.
-* Kilcullen, John and John Scott (eds), 2001, _A Translation of William of Ockham’s “Work of Ninety Days”_ (Texts and Studies in Religion, 87), Lewiston, NY: Edwin Mellen Press.
-* Klein, Dominik and Alessandra Marra, 2020, “From Oughts to Goals: A Logic for Enkrasia”, _Studia Logica_, 108(1): 85–128. doi:10.1007/s11225-019-09854-5
-* Knuuttila, Simo, 2008, “Medieval Modal Theories and Modal Logic”, in _Mediaeval and Renaissance Logic_, Dov M. Gabbay and John Woods (eds.), (Handbook of the History of Logic 2), Amsterdam: Elsevier, 505–578. doi:10.1016/S1874-5857(08)80030-1
-* Kolodny, Niko and John MacFarlane, 2010, “Ifs and Oughts”:, _Journal of Philosophy_, 107(3): 115–143. doi:10.5840/jphil2010107310
-* Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, _The Journal of Symbolic Logic_, 24(1): 1–14. doi:10.2307/2964568
-* –––, 1963, “Semantical Analysis of Modal Logic I Normal Modal Propositional Calculi”, _Zeitschrift für Mathematische Logik und Grundlagen der Mathematik/Mathematical Logic Quarterly_, 9(5–6): 67–96. doi:10.1002/malq.19630090502
+* –––, 1972, “Law and Logic”, *Theoria*, 38(3): 105–132. doi:10.1111/j.1755-2567.1972.tb00928.x
+* Kanger, Stig and Helle Kanger, 1966 \[1972], “Rights and Parliamentarism”, *Theoria*, 32(2): 85–115. Reprinted with changes in *Contemporary Philosophy in Scandinavia*, Raymond E. Olson and Anthony M. Paul (eds), Baltimore and London: The Johns Hopkins Press, 1972: 213–236. doi:10.1111/j.1755-2567.1966.tb00594.x
+* Kempson, Ruth M., 1977, *Semantic Theory*, Cambridge: Cambridge University Press.
+* Kilcullen, John and John Scott (eds), 2001, *A Translation of William of Ockham’s “Work of Ninety Days”* (Texts and Studies in Religion, 87), Lewiston, NY: Edwin Mellen Press.
+* Klein, Dominik and Alessandra Marra, 2020, “From Oughts to Goals: A Logic for Enkrasia”, *Studia Logica*, 108(1): 85–128. doi:10.1007/s11225-019-09854-5
+* Knuuttila, Simo, 2008, “Medieval Modal Theories and Modal Logic”, in *Mediaeval and Renaissance Logic*, Dov M. Gabbay and John Woods (eds.), (Handbook of the History of Logic 2), Amsterdam: Elsevier, 505–578. doi:10.1016/S1874-5857(08)80030-1
+* Kolodny, Niko and John MacFarlane, 2010, “Ifs and Oughts”:, *Journal of Philosophy*, 107(3): 115–143. doi:10.5840/jphil2010107310
+* Kripke, Saul A., 1959, “A Completeness Theorem in Modal Logic”, *The Journal of Symbolic Logic*, 24(1): 1–14. doi:10.2307/2964568
+* –––, 1963, “Semantical Analysis of Modal Logic I Normal Modal Propositional Calculi”, *Zeitschrift für Mathematische Logik und Grundlagen der Mathematik/Mathematical Logic Quarterly*, 9(5–6): 67–96. doi:10.1002/malq.19630090502
 * Krogh, Christen and Henning Herrestad, 1996, “Getting Personal Some Notes on the Relationship Between Personal and Impersonal Obligation”, in Brown and Carmo 1996: 134–153. doi:10.1007/978-1-4471-1488-8\_8
-* Kulicki, Piotr and Robert Trypuz, 2017, “Connecting Actions and States in Deontic Logic”, _Studia Logica_, 105(5): 915–942. doi:10.1007/s11225-017-9716-1
-* Lemmon, E. J., 1962a, “Moral Dilemmas”, _Philosophical Review_, 71(2): 139–158.
-* –––, 1962b, “On Sentences Verifiable by Their Use”, _Analysis_, 22(4): 86–89. doi:10.1093/analys/22.4.86
-* Lemmon, E. J. and Dana Scott, 1977, _The ‘Lemmon Notes’: An Introduction to Modal Logic_, Oxford: Basil Blackwell.
-* Lenzen, Wolfgang, 2004, “Leibniz’s Logic”, in _The Rise of Modern Logic: From Leibniz to Frege_, Dov M. Gabbay and John Woods (eds.), (Handbook of the History of Logic 3), Amsterdam: Elsevier, 1–83. doi:10.1016/S1874-5857(04)80014-1
-* Lewis, David K., 1973, _Counterfactuals_, Oxford: Blackwell.
+* Kulicki, Piotr and Robert Trypuz, 2017, “Connecting Actions and States in Deontic Logic”, *Studia Logica*, 105(5): 915–942. doi:10.1007/s11225-017-9716-1
+* Lemmon, E. J., 1962a, “Moral Dilemmas”, *Philosophical Review*, 71(2): 139–158.
+* –––, 1962b, “On Sentences Verifiable by Their Use”, *Analysis*, 22(4): 86–89. doi:10.1093/analys/22.4.86
+* Lemmon, E. J. and Dana Scott, 1977, *The ‘Lemmon Notes’: An Introduction to Modal Logic*, Oxford: Basil Blackwell.
+* Lenzen, Wolfgang, 2004, “Leibniz’s Logic”, in *The Rise of Modern Logic: From Leibniz to Frege*, Dov M. Gabbay and John Woods (eds.), (Handbook of the History of Logic 3), Amsterdam: Elsevier, 1–83. doi:10.1016/S1874-5857(04)80014-1
+* Lewis, David K., 1973, *Counterfactuals*, Oxford: Blackwell.
 * –––, 1974, “Semantic Analyses for Dyadic Deontic Logic”, in Stenlund 1974: 1–14.
-* Lindahl, Lars, 1977, _Position and Change: A Study in Law and Logic_, Dordrecht: D. Reidel. doi:10.1007/978-94-010-1202-7
+* Lindahl, Lars, 1977, *Position and Change: A Study in Law and Logic*, Dordrecht: D. Reidel. doi:10.1007/978-94-010-1202-7
 * –––, 2001, “Stig Kanger’s Theory Of Rights”, in Holmström-Hintikka, Lindström, and Sliwinski 2001: 151–171. doi:10.1007/978-94-010-0630-9\_9
-* Loewer, Barry and Marvin Belzer, 1983, “Dyadic Deontic Detachment”, _Synthese_, 54(2): 295–318. doi:10.1007/BF00869396
-* Makinson, David, 1986, “On the Formal Representation of Rights Relations: Remarks on the Work of Stig Kanger and Lars Lindahl”, _Journal of Philosophical Logic_, 15(4): 403–425. doi:10.1007/BF00243391
-* –––, 1993, “Five Faces of Minimality”, _Studia Logica_, 52(3): 339–379. doi:10.1007/BF01057652
+* Loewer, Barry and Marvin Belzer, 1983, “Dyadic Deontic Detachment”, *Synthese*, 54(2): 295–318. doi:10.1007/BF00869396
+* Makinson, David, 1986, “On the Formal Representation of Rights Relations: Remarks on the Work of Stig Kanger and Lars Lindahl”, *Journal of Philosophical Logic*, 15(4): 403–425. doi:10.1007/BF00243391
+* –––, 1993, “Five Faces of Minimality”, *Studia Logica*, 52(3): 339–379. doi:10.1007/BF01057652
 * –––, 1999, “On the Fundamental Problem of Deontic Logic”, in McNamara and Prakken 1999: 29–53.
-* Makinson, David and Leendert van der Torre, 2000, “Input/Output Logics”, _Journal of Philosophical Logic_, 29(4): 383–408. doi:10.1023/A:1004748624537
-* –––, 2001, “Constraints for Input/Output Logics”, _Journal of Philosophical Logic_, 30(2): 155–185. doi:10.1023/A:1017599526096
-* –––, 2003, “Permission from an Input/Output Perspective”, _Journal of Philosophical Logic_, 32(4): 391–416. doi:10.1023/A:1024806529939
-* Mally, Ernst, 1926, _Grundgesetze des Sollens. Elemente der Logik des Willens_, Graz: Leuschner & Leubensky.
-* Marcus, Ruth Barcan, 1966, “Iterated Deontic Modalities”, _Mind_, 75(300): 580–582. doi:10.1093/mind/LXXV.300.580
-* –––, 1980 \[1987], “Moral Dilemmas and Consistency”, _The Journal of Philosophy_, 77(3): 121–136. doi:10.2307/2025665 Reprinted in Gowans 1987: 1188–1204.
-* –––, 1996, “More about Moral Dilemmas”, in _Moral Dilemmas and Moral Theory_, H. E. Mason (ed.), New York: Oxford University Press: 23–35.
-* Mares, Edwin D. and Paul McNamara, 1997, “Supererogation in Deontic Logic: Metatheory for DWE and Some Close Neighbours”, _Studia Logica_, 59(3): 397–415. doi:10.1023/A:1005040513277
-* McNamara, Paul F., 1990, _The Deontic Quadecagon_, PhD Dissertation, University of Massachusetts Amherst.
-* –––, 1996a, “Doing Well Enough: Toward a Logic for Common-sense Morality”, _Studia Logica_, 57(1): 167–192. doi:10.1007/BF00370674
-* –––, 1996b, “Making Room for Going beyond the Call”, _Mind_, 105(419): 415–450. doi:10.1093/mind/105.419.415
+* Makinson, David and Leendert van der Torre, 2000, “Input/Output Logics”, *Journal of Philosophical Logic*, 29(4): 383–408. doi:10.1023/A:1004748624537
+* –––, 2001, “Constraints for Input/Output Logics”, *Journal of Philosophical Logic*, 30(2): 155–185. doi:10.1023/A:1017599526096
+* –––, 2003, “Permission from an Input/Output Perspective”, *Journal of Philosophical Logic*, 32(4): 391–416. doi:10.1023/A:1024806529939
+* Mally, Ernst, 1926, *Grundgesetze des Sollens. Elemente der Logik des Willens*, Graz: Leuschner & Leubensky.
+* Marcus, Ruth Barcan, 1966, “Iterated Deontic Modalities”, *Mind*, 75(300): 580–582. doi:10.1093/mind/LXXV.300.580
+* –––, 1980 \[1987], “Moral Dilemmas and Consistency”, *The Journal of Philosophy*, 77(3): 121–136. doi:10.2307/2025665 Reprinted in Gowans 1987: 1188–1204.
+* –––, 1996, “More about Moral Dilemmas”, in *Moral Dilemmas and Moral Theory*, H. E. Mason (ed.), New York: Oxford University Press: 23–35.
+* Mares, Edwin D. and Paul McNamara, 1997, “Supererogation in Deontic Logic: Metatheory for DWE and Some Close Neighbours”, *Studia Logica*, 59(3): 397–415. doi:10.1023/A:1005040513277
+* McNamara, Paul F., 1990, *The Deontic Quadecagon*, PhD Dissertation, University of Massachusetts Amherst.
+* –––, 1996a, “Doing Well Enough: Toward a Logic for Common-sense Morality”, *Studia Logica*, 57(1): 167–192. doi:10.1007/BF00370674
+* –––, 1996b, “Making Room for Going beyond the Call”, *Mind*, 105(419): 415–450. doi:10.1093/mind/105.419.415
 * –––, 1996c, “Must I Do What I Ought? (Or Will the Least I Can Do Do?)”, in Brown and Carmo 1996: 154–173. doi:10.1007/978-1-4471-1488-8\_9
-* –––, 2004a, “Agential Obligation as Non-Agential Personal Obligation plus Agency”, _Journal of Applied Logic_, 2(1): 117–152. doi:10.1016/j.jal.2004.01.006
-* –––, 2004b, “Review of _Agency and Deontic Logic_, by John Horty”, _Mind_, 113(449): 179–185. doi:10.1093/mind/113.449.179
-* –––, 2011a, “Praise, Blame, Obligation, and DWE: Toward a Framework for Classical Supererogation and Kin”, _Journal of Applied Logic_, 9(2): 153–170. doi:10.1016/j.jal.2009.09.007
-* –––, 2011b, “Supererogation, Inside and Out: Toward an Adequate Scheme for Common Sense Morality”, in _Oxford Studies in Normative Ethics, Volume I_, Mark Timmons (ed.), Oxford: Oxford University Press: 202–235.
-* –––, 2019, “Toward a Systematization of Logics for Monadic and Dyadic Agency & Ability, Revisited ”, _Filosofiska Notiser_, 6(1): 157–188.
+* –––, 2004a, “Agential Obligation as Non-Agential Personal Obligation plus Agency”, *Journal of Applied Logic*, 2(1): 117–152. doi:10.1016/j.jal.2004.01.006
+* –––, 2004b, “Review of *Agency and Deontic Logic*, by John Horty”, *Mind*, 113(449): 179–185. doi:10.1093/mind/113.449.179
+* –––, 2011a, “Praise, Blame, Obligation, and DWE: Toward a Framework for Classical Supererogation and Kin”, *Journal of Applied Logic*, 9(2): 153–170. doi:10.1016/j.jal.2009.09.007
+* –––, 2011b, “Supererogation, Inside and Out: Toward an Adequate Scheme for Common Sense Morality”, in *Oxford Studies in Normative Ethics, Volume I*, Mark Timmons (ed.), Oxford: Oxford University Press: 202–235.
+* –––, 2019, “Toward a Systematization of Logics for Monadic and Dyadic Agency & Ability, Revisited ”, *Filosofiska Notiser*, 6(1): 157–188.
 * –––, forthcoming, “Logics for Supererogation and Allied Concepts”, in Gabbay et al. forthcoming.
-* McNamara, Paul and Henry Prakken (eds.), 1999, _Norms, Logics, and Information Systems: New Studies in Deontic Logic and Computer Science_, (Frontiers in Artificial Intelligence and Applications 49), Amsterdam: IOS Press.
-* Meinong, Alexius, 1894 \[1968], _Psychologisch ethische Untersuchungen zur Werttheorie_, Festschrift der Universität Graz, Graz: Leuschner & Lubensky. Reprinted in _Alexius Meinong Gesamtausgabe, Vol. III, Abhandlungen zur Werttheorie_, R. Haller and R. Kindinger, Graz: Akademische Druck- u. Velagsanstalt, 1968: 3–94.
-* –––, 1917 \[1972], _Über emotionale Präsentation_, Wien: A. Hölder. Translated as _On Emotional Presentation_, Marie-Luise Schubert Kalsi (trans.), Evanston, IL: Northwestern University Press, 1972.
-* Meyer, John-Jules Ch., 1988, “A Different Approach to Deontic Logic: Deontic Logic Viewed as a Variant of Dynamic Logic.”, _Notre Dame Journal of Formal Logic_, 29(1): 109–136. doi:10.1305/ndjfl/1093637776
-* Moretti, Alessio, 2004, “Geometry for Modalities? Yes: Through n-Opposition Theory”, in _Aspects of Universal Logic_ (Travaux de logique 17), J.-Y. Béziau, A. Costa-Leite, and A. Facchini (eds), Neuchâtel: Université de Neuchâtel, 102–145.
-* Morreau, Michael, 1996, “_Prima Facie_ and Seeming Duties”, _Studia Logica_, 57(1): 47–71. doi:10.1007/BF00370669
-* Mott, Peter L., 1973, “On Chisholm’s Paradox”, _Journal of Philosophical Logic_, 2(2): 197–211. doi:10.1007/BF00263358
-* Murakami, Yuko, 2005, “Utilitarian Deontic Logic”, in _Proceedings of the Fifth International Conference on Advances in Modal Logic (AiML 2004)_, Renate Schmidt, Ian Pratt-Hartmann, Mark Reynolds, and Heinrich Wansing (eds), London: King’s College Publications, 288–302.
-* Nowell-Smith, P. H. and E. J. Lemmon, 1960, “Escapism: The Logical Basis of Ethics”, _Mind_, 69(275): 289–300. doi:10.1093/mind/LXIX.275.289
-* Nute, Donald (ed.), 1997, _Defeasible Deontic Logic_, (Synthese Library 263), Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-8851-5
-* Pacuit, Eric, 2017, _Neighborhood Semantics for Modal Logic_ Berlin: Spinger. doi:10.1007/978-3-319-67149-9
-* Pacuit, Eric, Rohit Parikh, and Eva Cogan, 2006, “The Logic of Knowledge Based Obligation”, _Synthese_, 149(2): 311–341. doi:10.1007/s11229-005-3877-6
-* Parent, Xavier, 2014, “Maximality vs. Optimality in Dyadic Deontic Logic: Completeness Results for Systems in Hansson’s Tradition”, _Journal of Philosophical Logic_, 43(6): 1101–1128. doi:10.1007/s10992-013-9308-0
+* McNamara, Paul and Henry Prakken (eds.), 1999, *Norms, Logics, and Information Systems: New Studies in Deontic Logic and Computer Science*, (Frontiers in Artificial Intelligence and Applications 49), Amsterdam: IOS Press.
+* Meinong, Alexius, 1894 \[1968], *Psychologisch ethische Untersuchungen zur Werttheorie*, Festschrift der Universität Graz, Graz: Leuschner & Lubensky. Reprinted in *Alexius Meinong Gesamtausgabe, Vol. III, Abhandlungen zur Werttheorie*, R. Haller and R. Kindinger, Graz: Akademische Druck- u. Velagsanstalt, 1968: 3–94.
+* –––, 1917 \[1972], *Über emotionale Präsentation*, Wien: A. Hölder. Translated as *On Emotional Presentation*, Marie-Luise Schubert Kalsi (trans.), Evanston, IL: Northwestern University Press, 1972.
+* Meyer, John-Jules Ch., 1988, “A Different Approach to Deontic Logic: Deontic Logic Viewed as a Variant of Dynamic Logic.”, *Notre Dame Journal of Formal Logic*, 29(1): 109–136. doi:10.1305/ndjfl/1093637776
+* Moretti, Alessio, 2004, “Geometry for Modalities? Yes: Through n-Opposition Theory”, in *Aspects of Universal Logic* (Travaux de logique 17), J.-Y. Béziau, A. Costa-Leite, and A. Facchini (eds), Neuchâtel: Université de Neuchâtel, 102–145.
+* Morreau, Michael, 1996, “*Prima Facie* and Seeming Duties”, *Studia Logica*, 57(1): 47–71. doi:10.1007/BF00370669
+* Mott, Peter L., 1973, “On Chisholm’s Paradox”, *Journal of Philosophical Logic*, 2(2): 197–211. doi:10.1007/BF00263358
+* Murakami, Yuko, 2005, “Utilitarian Deontic Logic”, in *Proceedings of the Fifth International Conference on Advances in Modal Logic (AiML 2004)*, Renate Schmidt, Ian Pratt-Hartmann, Mark Reynolds, and Heinrich Wansing (eds), London: King’s College Publications, 288–302.
+* Nowell-Smith, P. H. and E. J. Lemmon, 1960, “Escapism: The Logical Basis of Ethics”, *Mind*, 69(275): 289–300. doi:10.1093/mind/LXIX.275.289
+* Nute, Donald (ed.), 1997, *Defeasible Deontic Logic*, (Synthese Library 263), Dordrecht: Springer Netherlands. doi:10.1007/978-94-015-8851-5
+* Pacuit, Eric, 2017, *Neighborhood Semantics for Modal Logic* Berlin: Spinger. doi:10.1007/978-3-319-67149-9
+* Pacuit, Eric, Rohit Parikh, and Eva Cogan, 2006, “The Logic of Knowledge Based Obligation”, *Synthese*, 149(2): 311–341. doi:10.1007/s11229-005-3877-6
+* Parent, Xavier, 2014, “Maximality vs. Optimality in Dyadic Deontic Logic: Completeness Results for Systems in Hansson’s Tradition”, *Journal of Philosophical Logic*, 43(6): 1101–1128. doi:10.1007/s10992-013-9308-0
 * –––, forthcoming, “Preference-based semantics for Hansson-type dyadic deontic logics”, in Gabbay et al. forthcoming.
 * Parent, Xavier and Leon van der Torre, 2013, “Input/output logic”, in Gabbay et al. 2013: 499–544.
-* –––, 2018, _Introduction to Deontic Logic and Normative Systems_, London: College Publications.
-* Pörn, Ingmar, 1970, _The Logic of Power_, Oxford: Blackwell.
-* –––, 1977, _Action Theory and Social Science: Some Formal Models_, Dordrecht: D. Reidel. doi:10.1007/978-94-010-1268-3
-* –––, 1989, “On the Nature of a Social Order”, in _Logic, Methodology and Philosophy of Science, VIII_, J. E. Fenstad, T. Frolov and R. Hilpinen, New York: Elsevier Science: 553–567. doi:10.1016/S0049-237X(08)70065-X
-* Prakken, Henry, 1996, “Two Approaches to the Formalisation of Defeasible Deontic Reasoning”, _Studia Logica_, 57(1): 73–90. doi:10.1007/BF00370670
-* Prakken, Henry and Marek Sergot, 1996, “Contrary-to-Duty Obligations”, _Studia Logica_, 57(1): 91–115. doi:10.1007/BF00370671
-* Prior, A. N., 1954, “The Paradoxes of Derived Obligation”, _Mind_, 63(249): 64–65. doi:10.1093/mind/LXIII.249.64
-* –––, 1955 \[1962], _Formal Logic_, Oxford: Clarendon Press. Second edition, 1962
-* –––, 1958, “Escapism: The Logical Basis of Ethics”, in _Essays in Moral Philosophy_, A. I. Melden (ed.), Seattle, WA: University of Washington Press: 135–146.
-* Rahman, Shahid, Farid Zidani, and Walter E. Young, forthcoming, “Ibn Ḥazm on Heteronomous Imperatives. A Landmark in the History of the Logical Analysis of Legal Norms.”, in _Festschrift for Risto Hilpinen_, M. Brown, A. Jones, and P. McNamara: Springer.
-* Rahman, Shahid, Johan Georg Granström, and Ali Farjami, 2019, “Legal Reasoning and Some Logic after All. The Lessons of the Elders”, _Natural Arguments. A Tribute to John Woods_, Dov Gabbay, Lorenzo Magnani; Woosuk Park, and Ahti-Veikko Pietarinen (eds), London: College Publications: 743–780.
-* Reinhart, A. Kevin, 1983, “Islamic Law as Islamic Ethics”, _The Journal of Religious Ethics_, 11(2): 186–203.
-* Ross, Alf, 1941, “Imperatives and Logic” (in “Discussions”), _Theoria_, 7(1): 53–71. doi:10.1111/j.1755-2567.1941.tb00034.x
-* Ross, W. David, 1939, _Foundations of Ethics: The Gifford Lectures Delivered in the University of Aberdeen, 1935_, Oxford: Clarendon Press.
-* Saint Croix, Catharine and Richmond H. Thomason, 2014, “Chisholm’s Paradox and Conditional Oughts”, in _Deontic Logic and Normative Systems. DEON 2014_, Fabrizio Cariani, Davide Grossi, Joke Meheus, and Xavier Parent (eds.), (Lecture Notes in Computer Science 8554), Cham: Springer International Publishing, 192–207. doi:10.1007/978-3-319-08615-6\_15
+* –––, 2018, *Introduction to Deontic Logic and Normative Systems*, London: College Publications.
+* Pörn, Ingmar, 1970, *The Logic of Power*, Oxford: Blackwell.
+* –––, 1977, *Action Theory and Social Science: Some Formal Models*, Dordrecht: D. Reidel. doi:10.1007/978-94-010-1268-3
+* –––, 1989, “On the Nature of a Social Order”, in *Logic, Methodology and Philosophy of Science, VIII*, J. E. Fenstad, T. Frolov and R. Hilpinen, New York: Elsevier Science: 553–567. doi:10.1016/S0049-237X(08)70065-X
+* Prakken, Henry, 1996, “Two Approaches to the Formalisation of Defeasible Deontic Reasoning”, *Studia Logica*, 57(1): 73–90. doi:10.1007/BF00370670
+* Prakken, Henry and Marek Sergot, 1996, “Contrary-to-Duty Obligations”, *Studia Logica*, 57(1): 91–115. doi:10.1007/BF00370671
+* Prior, A. N., 1954, “The Paradoxes of Derived Obligation”, *Mind*, 63(249): 64–65. doi:10.1093/mind/LXIII.249.64
+* –––, 1955 \[1962], *Formal Logic*, Oxford: Clarendon Press. Second edition, 1962
+* –––, 1958, “Escapism: The Logical Basis of Ethics”, in *Essays in Moral Philosophy*, A. I. Melden (ed.), Seattle, WA: University of Washington Press: 135–146.
+* Rahman, Shahid, Farid Zidani, and Walter E. Young, forthcoming, “Ibn Ḥazm on Heteronomous Imperatives. A Landmark in the History of the Logical Analysis of Legal Norms.”, in *Festschrift for Risto Hilpinen*, M. Brown, A. Jones, and P. McNamara: Springer.
+* Rahman, Shahid, Johan Georg Granström, and Ali Farjami, 2019, “Legal Reasoning and Some Logic after All. The Lessons of the Elders”, *Natural Arguments. A Tribute to John Woods*, Dov Gabbay, Lorenzo Magnani; Woosuk Park, and Ahti-Veikko Pietarinen (eds), London: College Publications: 743–780.
+* Reinhart, A. Kevin, 1983, “Islamic Law as Islamic Ethics”, *The Journal of Religious Ethics*, 11(2): 186–203.
+* Ross, Alf, 1941, “Imperatives and Logic” (in “Discussions”), *Theoria*, 7(1): 53–71. doi:10.1111/j.1755-2567.1941.tb00034.x
+* Ross, W. David, 1939, *Foundations of Ethics: The Gifford Lectures Delivered in the University of Aberdeen, 1935*, Oxford: Clarendon Press.
+* Saint Croix, Catharine and Richmond H. Thomason, 2014, “Chisholm’s Paradox and Conditional Oughts”, in *Deontic Logic and Normative Systems. DEON 2014*, Fabrizio Cariani, Davide Grossi, Joke Meheus, and Xavier Parent (eds.), (Lecture Notes in Computer Science 8554), Cham: Springer International Publishing, 192–207. doi:10.1007/978-3-319-08615-6\_15
 * Santos, Filipe and José Carmo, 1996, “Indirect Action, Influence and Responsibility”, in Brown and Carmo 1996: 194–215. doi:10.1007/978-1-4471-1488-8\_11
 * Schotch, Peter K. and Raymond E. Jennings, 1981, “Non-Kripkean Deontic Logic”, in Hilpinen 1981: 149–162. doi:10.1007/978-94-009-8484-4\_6
-* Segerberg, Krister, 1971, _An Essay in Classical Modal Logic_, \[PhD thesis, Philosophy, Stanford University], Filosofiska Studier Vol 13, Uppsala: Filosofiska föreningen och Filosofiska institutionen vid Uppsala universitet.
-* –––, 1982, “A Deontic Logic of Action”, _Studia Logica_, 41(2–3): 269–282. doi:10.1007/BF00370348
-* –––, 1989, “Bringing It About”, _Journal of Philosophical Logic_, 18(4): 327–347. doi:10.1007/BF00262940
-* –––, 1992, “Getting Started: Beginnings in the Logic of Action”, _Studia Logica_, 51(3–4): 347–378. doi:10.1007/BF01028968
-* Sergot, Marek, 1999, “Normative Positions”, in _Norms, Logics and Information Systems: New Studies in Deontic Logic and Computer Science_, P. McNamara and H. Prakken (eds), Amsterdam: IOS Press: 289–308.
+* Segerberg, Krister, 1971, *An Essay in Classical Modal Logic*, \[PhD thesis, Philosophy, Stanford University], Filosofiska Studier Vol 13, Uppsala: Filosofiska föreningen och Filosofiska institutionen vid Uppsala universitet.
+* –––, 1982, “A Deontic Logic of Action”, *Studia Logica*, 41(2–3): 269–282. doi:10.1007/BF00370348
+* –––, 1989, “Bringing It About”, *Journal of Philosophical Logic*, 18(4): 327–347. doi:10.1007/BF00262940
+* –––, 1992, “Getting Started: Beginnings in the Logic of Action”, *Studia Logica*, 51(3–4): 347–378. doi:10.1007/BF01028968
+* Sergot, Marek, 1999, “Normative Positions”, in *Norms, Logics and Information Systems: New Studies in Deontic Logic and Computer Science*, P. McNamara and H. Prakken (eds), Amsterdam: IOS Press: 289–308.
 * –––, 2013, “Normative Positions”, in Gabbay et al. 2013: 353–406.
-* Sinnott-Armstrong, Walter, 1988, _Moral Dilemmas_, Oxford: Basil Blackwell.
-* Smiley, Timothy, 1963, “The Logical Basis of Ethics”, _Acta Philosophica Fennica_, 16: 237–246.
-* Smith, Tina, 1993, “Violation of Norms”, in _Proceedings of the Fourth International Conference on Artificial Intelligence and Law—ICAIL ’93_, Amsterdam: ACM Press, 60–65. doi:10.1145/158976.158983
-* –––, 1994, _Legal Expert Systems: Discussion of Theoretical Assumptions_, PhD thesis, University of Utrecht.
-* Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in _Studies in Logical Theory_ (American Philosophical Quarterly Monographs 2), N. Rescher, Oxford: Blackwell: 98–112.
-* Straßer, Christian, Mathieu Beirlaen, and Frederik Van De Putte, 2016, “Adaptive Logic Characterizations of Input/Output Logic”, _Studia Logica_, 104(5): 869–916. doi:10.1007/s11225-016-9656-1
-* Stenlund, Soeren (ed.), 1974, _Logical Theory and Semantic Analysis: Essays Dedicated to Stig Kanger on His Fiftieth Birthday_ (Synthese Library 63), Dordrecht: Reidel.
-* Tamminga, Allard, 2013, “Deontic Logic for Strategic Games”, _Erkenntnis_, 78(1): 183–200. doi:10.1007/s10670-011-9349-0
-* Tamminga, Allard and Hein Duijf, 2017, “Collective Obligations, Group Plans and Individual Actions”, _Economics and Philosophy_, 33(2): 187–214. doi:10.1017/S0266267116000213
-* Tamminga, Allard and Frank Hindriks, 2020, “The Irreducibility of Collective Obligations”, _Philosophical Studies_, 177(4): 1085–1109. doi:10.1007/s11098-018-01236-2
+* Sinnott-Armstrong, Walter, 1988, *Moral Dilemmas*, Oxford: Basil Blackwell.
+* Smiley, Timothy, 1963, “The Logical Basis of Ethics”, *Acta Philosophica Fennica*, 16: 237–246.
+* Smith, Tina, 1993, “Violation of Norms”, in *Proceedings of the Fourth International Conference on Artificial Intelligence and Law—ICAIL ’93*, Amsterdam: ACM Press, 60–65. doi:10.1145/158976.158983
+* –––, 1994, *Legal Expert Systems: Discussion of Theoretical Assumptions*, PhD thesis, University of Utrecht.
+* Stalnaker, Robert C., 1968, “A Theory of Conditionals”, in *Studies in Logical Theory* (American Philosophical Quarterly Monographs 2), N. Rescher, Oxford: Blackwell: 98–112.
+* Straßer, Christian, Mathieu Beirlaen, and Frederik Van De Putte, 2016, “Adaptive Logic Characterizations of Input/Output Logic”, *Studia Logica*, 104(5): 869–916. doi:10.1007/s11225-016-9656-1
+* Stenlund, Soeren (ed.), 1974, *Logical Theory and Semantic Analysis: Essays Dedicated to Stig Kanger on His Fiftieth Birthday* (Synthese Library 63), Dordrecht: Reidel.
+* Tamminga, Allard, 2013, “Deontic Logic for Strategic Games”, *Erkenntnis*, 78(1): 183–200. doi:10.1007/s10670-011-9349-0
+* Tamminga, Allard and Hein Duijf, 2017, “Collective Obligations, Group Plans and Individual Actions”, *Economics and Philosophy*, 33(2): 187–214. doi:10.1017/S0266267116000213
+* Tamminga, Allard and Frank Hindriks, 2020, “The Irreducibility of Collective Obligations”, *Philosophical Studies*, 177(4): 1085–1109. doi:10.1007/s11098-018-01236-2
 * Thomason, Richmond H., 1981a, “Deontic Logic and the Role of Freedom in Moral Deliberation”, in Hilpinen 1981: 177–186. doi:10.1007/978-94-009-8484-4\_8
 * –––, 1981b, “Deontic Logic as Founded on Tense Logic”, in Hilpinen 1981: 165–176. doi:10.1007/978-94-009-8484-4\_7
-* Tierney, Brian, 2007, “Obligation and Permission: On a ‘deontic Hexagon’ in Marsilius of Padua”, _History of Political Thought_, 28(3): 419–432.
-* Tomberlin, James E., 1981, “Contrary-to-Duty Imperatives and Conditional Obligation”, _Noûs_, 15(3): 357–375. doi:10.2307/2215438
-* Urmson, J. O., 1958, “Saints and Heroes”, in _Essays in Moral Philosophy_, A. I. Melden (ed.), Seattle, WA: University of Washington Press: 198–216.
-* Van De Putte, Frederik, 2017, “‘That Will Do’: Logics of Deontic Necessity and Sufficiency”, _Erkenntnis_, 82(3): 473–511. doi:10.1007/s10670-016-9829-3
-* –––, 2019, “Coarse Deontic Logic”, _Journal of Logic and Computation_, 29(2): 285–317. doi:10.1093/logcom/exy010
+* Tierney, Brian, 2007, “Obligation and Permission: On a ‘deontic Hexagon’ in Marsilius of Padua”, *History of Political Thought*, 28(3): 419–432.
+* Tomberlin, James E., 1981, “Contrary-to-Duty Imperatives and Conditional Obligation”, *Noûs*, 15(3): 357–375. doi:10.2307/2215438
+* Urmson, J. O., 1958, “Saints and Heroes”, in *Essays in Moral Philosophy*, A. I. Melden (ed.), Seattle, WA: University of Washington Press: 198–216.
+* Van De Putte, Frederik, 2017, “‘That Will Do’: Logics of Deontic Necessity and Sufficiency”, *Erkenntnis*, 82(3): 473–511. doi:10.1007/s10670-016-9829-3
+* –––, 2019, “Coarse Deontic Logic”, *Journal of Logic and Computation*, 29(2): 285–317. doi:10.1093/logcom/exy010
 * Van De Putte, Frederick, Mathieu Beirlaen, and Joke Meheus, forthcoming, “Adaptive Deontic Logics”, in Gabbay et al. forthcoming.
-* Van De Putte, Frederik, Stef Frijters, and Joke Meheus, 2018, “How to Take Heroin (If at All). Holistic Detachment in Deontic Logic”, in _Deontic Logic and Normative Systems: 14th International Conference, DEON 2018, Utrecht, The Netherlands, 3–6 July 2018_, Jan Broersen, Cleo Condoravdi, Shyam Nair, and Gabriella Pigozzi (eds.), pp. 317–335, London: College Publications.
-* van der Meyden, Ron, 1996, “The Dynamic Logic of Permission”, _Journal of Logic and Computation_, 6(3): 465–479. doi:10.1093/logcom/6.3.465
-* van der Torre, Leendert and Yan-Hua Tan, 2000, “Two-Phase Deontic Logic”, _Logique et Analyse_, 43(171–172): 411–456.
-* Van Eck, J. A., 1982, “A System of Temporally Relative Modal and Deontic Predicate Logic and Its Philosophical Applications”, _Logique et Analyse_, 25(99): 249–290 and 25(100): 339–381.
-* van Fraassen, Bas C., 1972, “The Logic of Conditional Obligation”, _Journal of Philosophical Logic_, 1(3–4): 417–438. doi:10.1007/BF00255570
-* –––, 1973, “Values and the Heart’s Command”, _The Journal of Philosophy_, 70(1): 5–19. doi:10.2307/2024762
-* von Wright, Georg Henrik, 1951a, “Deontic Logic”, _Mind_, 60(237): 1–15. doi:10.1093/mind/LX.237.1
-* –––, 1951b, _An Essay in Modal Logic_, Amsterdam: North-Holland.
-* –––, 1956, “A Note on Deontic Logic and Derived Obligation”, _Mind_, 65(1): 507–509. doi:10.1093/mind/65.1.507
-* –––, 1963, _Norm and Action: A Logical Enquiry_, New York: Humanities Press.
-* –––, 1964, “A New System of Deontic Logic”, _Danish Yearbook of Philosophy_, 1: 173–182.
-* –––, 1965, “A Correction to a New System of Deontic Logic”, _Danish Yearbook of Philosophy_, 2: 103–107.
-* –––, 1968, _An Essay in Deontic Logic and the General Theory of Action_ (Acta Philosophica Fennica, 21), Amsterdam: North Holland Publishing Co.
+* Van De Putte, Frederik, Stef Frijters, and Joke Meheus, 2018, “How to Take Heroin (If at All). Holistic Detachment in Deontic Logic”, in *Deontic Logic and Normative Systems: 14th International Conference, DEON 2018, Utrecht, The Netherlands, 3–6 July 2018*, Jan Broersen, Cleo Condoravdi, Shyam Nair, and Gabriella Pigozzi (eds.), pp. 317–335, London: College Publications.
+* van der Meyden, Ron, 1996, “The Dynamic Logic of Permission”, *Journal of Logic and Computation*, 6(3): 465–479. doi:10.1093/logcom/6.3.465
+* van der Torre, Leendert and Yan-Hua Tan, 2000, “Two-Phase Deontic Logic”, *Logique et Analyse*, 43(171–172): 411–456.
+* Van Eck, J. A., 1982, “A System of Temporally Relative Modal and Deontic Predicate Logic and Its Philosophical Applications”, *Logique et Analyse*, 25(99): 249–290 and 25(100): 339–381.
+* van Fraassen, Bas C., 1972, “The Logic of Conditional Obligation”, *Journal of Philosophical Logic*, 1(3–4): 417–438. doi:10.1007/BF00255570
+* –––, 1973, “Values and the Heart’s Command”, *The Journal of Philosophy*, 70(1): 5–19. doi:10.2307/2024762
+* von Wright, Georg Henrik, 1951a, “Deontic Logic”, *Mind*, 60(237): 1–15. doi:10.1093/mind/LX.237.1
+* –––, 1951b, *An Essay in Modal Logic*, Amsterdam: North-Holland.
+* –––, 1956, “A Note on Deontic Logic and Derived Obligation”, *Mind*, 65(1): 507–509. doi:10.1093/mind/65.1.507
+* –––, 1963, *Norm and Action: A Logical Enquiry*, New York: Humanities Press.
+* –––, 1964, “A New System of Deontic Logic”, *Danish Yearbook of Philosophy*, 1: 173–182.
+* –––, 1965, “A Correction to a New System of Deontic Logic”, *Danish Yearbook of Philosophy*, 2: 103–107.
+* –––, 1968, *An Essay in Deontic Logic and the General Theory of Action* (Acta Philosophica Fennica, 21), Amsterdam: North Holland Publishing Co.
 * –––, 1971, “A New System of Deontic Logic”, in Hilpinen 1971: 103–120.
-* Vranas, Peter B. M., 2008, “New Foundations for Imperative Logic I: Logical Connectives, Consistency, and Quantifiers\*”, _Noûs_, 42(4): 529–572. doi:10.1111/j.1468-0068.2008.00684.x
-* –––, 2010, “In Defense of Imperative Inference”, _Journal of Philosophical Logic_, 39(1): 59–71. doi:10.1007/s10992-009-9108-8
-* Wertheimer, Roger, 1972, _The Significance of Sense: Meaning, Modality, and Morality_, Ithaca, NY: Cornell university Press.
-* Williams, B. A. O., 1965, “Ethical Consistency”, _Aristotelian Society Supplementary Volume_, 39(1): 103–124. Reprinted in Gowans 1987: 1115–1137. doi:10.1093/aristoteliansupp/39.1.103
-* Woleński, J., 1990, “Deontic Logic and Possible Worlds Semantics: A Historical Sketch”, _Studia Logica_, 49(2): 273–282. doi:10.1007/BF00935603
+* Vranas, Peter B. M., 2008, “New Foundations for Imperative Logic I: Logical Connectives, Consistency, and Quantifiers\*”, *Noûs*, 42(4): 529–572. doi:10.1111/j.1468-0068.2008.00684.x
+* –––, 2010, “In Defense of Imperative Inference”, *Journal of Philosophical Logic*, 39(1): 59–71. doi:10.1007/s10992-009-9108-8
+* Wertheimer, Roger, 1972, *The Significance of Sense: Meaning, Modality, and Morality*, Ithaca, NY: Cornell university Press.
+* Williams, B. A. O., 1965, “Ethical Consistency”, *Aristotelian Society Supplementary Volume*, 39(1): 103–124. Reprinted in Gowans 1987: 1115–1137. doi:10.1093/aristoteliansupp/39.1.103
+* Woleński, J., 1990, “Deontic Logic and Possible Worlds Semantics: A Historical Sketch”, *Studia Logica*, 49(2): 273–282. doi:10.1007/BF00935603
 
 ## Academic Tools
 
@@ -1041,5 +1040,5 @@ M,w⊨OBp 当且仅当 |p|∈N(w)
 Various people have helped with this and prior renditions. We thank Ruth Barcan Marcus, Willem DeVries, Risto Hilpinen, Lars Lindahl, David Makinson, Simo Knuuttila, Andrew Jones, Lou Goble, Mark Sergot, Jeff Horty, Mark Brown, Leon van de Torre, Xavier Parent, Ilaria Canavotto, Federico Faroldi, Georg Spielthenner; Reto Givel, Wojciech Żełaniec.]
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Paul McNamara](https://findscholars.unh.edu/display/paulm) <[_paulmunh@gmail.com_](mailto:paulmunh%40gmail%2ecom)>\
-[Frederik Van De Putte](https://www.researchgate.net/profile/Frederik\Van\De\Putte) <[_frederik.vandeputte@ugent.be_](mailto:frederik%2evandeputte%40ugent%2ebe)>
+[Paul McNamara](https://findscholars.unh.edu/display/paulm) <[*paulmunh@gmail.com*](mailto:paulmunh%40gmail%2ecom)>\
+[Frederik Van De Putte](https://www.researchgate.net/profile/Frederik\Van\De\Putte) <[*frederik.vandeputte@ugent.be*](mailto:frederik%2evandeputte%40ugent%2ebe)>

@@ -1,6 +1,6 @@
 # 证明论的发展 development of (Jan von Plato)
 
-_首次发表于2008年4月16日星期三；实质性修订于2014年10月13日星期一_
+*首次发表于2008年4月16日星期三；实质性修订于2014年10月13日星期一*
 
 证明论的发展可以自然地分为：古代逻辑和数学中证明概念的前史；弗雷格发现数学证明（而不仅仅是数学命题）可以（而且应该）用逻辑系统表示；希尔伯特的古老公理证明论；希尔伯特的目标未能实现，因为哥德尔的不完全性定理；根岑创造了当代证明论的两种主要逻辑系统，即自然推理和序列演算（参见自动推理条目）；自然推理和序列演算的应用和扩展，直到自然推理的计算解释及其与计算机科学的联系。
 
@@ -58,37 +58,37 @@ Russell 采用了 Frege 的逻辑，但使用了 Peano 的符号和证明规则�
 
 在追求他的一致性计划时，根岑将纯逻辑推理的分析作为他的首要任务，后来扩展到算术和分析。在他的论文（1934-1935 年）中，根岑表示他的任务是分析数学证明在实践中的出现方式。首先观察到的是，实际证明并不是基于用逻辑语言表达的公理，如希尔伯特的公理证明论。相反，最典型的特征是定理在某些假设下进行断言。这些假设被分析成部分，结论也被分析成部分，直到这两个分析相遇并合成一个证明。后一种分析通过根岑所称的引入规则进行：它们给出了推导给定形式的命题的充分条件。例如，要推导出一个合取 A & B，只需分别推导出合取的两个分量 A 和 B。推理形式上给出如下规则：
 
-| _A_ _B_ | \&I |
+| *A* *B* | \&I |
 | ------- | --- |
-| _A_&_B_ |     |
+| *A*&*B* |     |
 
 相反，假设通过消除规则进行分析，这些规则基本上给出了假设的直接推论。例如，作为假设使用的合取可以分解为其组成部分，如以下规则所示：
 
 |         |      |
 | ------- | ---- |
-| _A_&_B_ | \&E1 |
-| _A_     |      |
+| *A*&*B* | \&E1 |
+| *A*     |      |
 
 |         |      |
 | ------- | ---- |
-| _A_&_B_ | \&E2 |
-| _B_     |      |
+| *A*&*B* | \&E2 |
+| *B*     |      |
 
 1932 年，Gentzen 开发并研究了自然推理系统，并在同年 9 月达到了今天的标准自然推理（ND）的演算。在此期间，他注意到，如果一个引入，比如从 A 和 B 分别推导出 A＆B 的推导，后面跟着相应的消除，比如推导出 A，那么公式 A＆B 构成了一个局部最大值，一个“小山丘”，可以被消除。他还称这样的小山丘为“绕道”，现在称为绕道转换，可以消除这种不必要的引入-消除步骤对。 “规范化”步骤的结果是一个“正常形式”的推导。
 
 蕴涵可能比合取更典型：要推导出 A⊃B，首先暂时假设 A，然后试图推导出 B。如果成功，当得出 A⊃B 的结论时，临时假设将被关闭或“解除”，就像在示意性推导中一样。
 
-| \[_A_]  |    |
+| \[*A*]  |    |
 | ------- | -- |
 | ⋮       |    |
-| _B_     | ⊃I |
-| _A_⊃_B_ |    |
+| *B*     | ⊃I |
+| *A*⊃*B* |    |
 
 另一方面，如果找到了 A 的推导，就可以消除 A⊃B，因为可以得出 B。
 
-| _A_⊃_B_ _A_ | ⊃E |
+| *A*⊃*B* *A* | ⊃E |
 | ----------- | -- |
-| _B_         |    |
+| *B*         |    |
 
 如果 ⊃I 规则后跟 ⊃E 规则，那么通过一种绕道转换消除了一个非正常性：通过将消除规则的次要前提 A 的推导和引入中的假设 A 推导 B（以及其后的内容）的推导结合在一起，构造了 B 的推导，该推导不包含绕道公式 A ⊃ B。在根岑的论文中，所有假设最终都通过蕴涵引入封闭，但现在人们也考虑将一组公式作为开放假设的推导。
 
@@ -104,33 +104,33 @@ Gentzen 写道，他无法证明经典 ND 系统的归一化定理。因此，�
 
 | Γ → Δ，A Γ → Δ，B   | R& |
 | ----------------- | -- |
-| Γ **→** Δ,_A_&_B_ |    |
+| Γ **→** Δ,*A*&*B* |    |
 
-| _A_, Γ **→** Δ     | L&1 |
+| *A*, Γ **→** Δ     | L&1 |
 | ------------------ | --- |
-| _A_&_B_, Γ **→** Δ |     |
+| *A*&*B*, Γ **→** Δ |     |
 
-| _B_, Γ **→** Δ     | L&2 |
+| *B*, Γ **→** Δ     | L&2 |
 | ------------------ | --- |
-| _A_&_B_, Γ **→** Δ |     |
+| *A*&*B*, Γ **→** Δ |     |
 
 \*\* 蕴涵\*\*
 
-| _A_, Γ **→** Δ,_B_ | R⊃ |
+| *A*, Γ **→** Δ,*B* | R⊃ |
 | ------------------ | -- |
-| Γ **→** Δ,_A_⊃_B_  |    |
+| Γ **→** Δ,*A*⊃*B*  |    |
 
-| Γ **→** Θ,_A_ _B_, Δ **→** Λ | L⊃ |
+| Γ **→** Θ,*A* *B*, Δ **→** Λ | L⊃ |
 | ---------------------------- | -- |
-| _A_⊃_B_, Γ, Δ **→** Θ, Λ     |    |
+| *A*⊃*B*, Γ, Δ **→** Θ, Λ     |    |
 
 这不是解释 ND 和 SC 细节的地方（但请参阅关于自动推理的条目）。Gentzen 制定了后者，表示为 LK，以便它给出直觉主义演算，表示为 LJ，作为一个特例，其中结论是最多一个案例的列表。然后，他证明了经典演算的归一化定理的类似物，演算和证明经过精心制定，以便直觉主义演算的结果是经典演算的一个特例。在 LJ 和 LK 中，L 代表“logistic”，这是 Gentzen 用来指代 Frege、Russell 和 Hilbert 和 Bernays 的逻辑公理演算的术语。在这样的演算中，推导中的每一行本身都是正确的，即逻辑真理，因此得名。字母 K 和 J 来自德语单词 klassisch 和 intuitionistisch。（后者因此应该是大写的"I"，但是旧的德语使用大写的"J"来表示大写的"I"。）
 
 Gentzen 将归一化的类似物称为 Hauptsatz，“主要定理”，这个名字缺乏想象力。今天的标准术语是“削减定理”。SC 的所有逻辑规则在非常直接的意义上都具有子公式性质：前提中的每个公式都是结论中的公式或子公式。用于组合推导的规则，类似于上面解释的 ND 中的绕道转换的规则，称为“削减”。在其中，一个公式 A 作为第一个前提中的一个案例出现，并作为第二个前提中的一个假设出现。在结论中，这个公式消失了，两个前提的假设被收集在一起：
 
-| Γ **→** _A_ _A_, Δ **→** _C_ | Cut |
+| Γ **→** *A* *A*, Δ **→** *C* | Cut |
 | ---------------------------- | --- |
-| Γ, Δ **→** _C_               |     |
+| Γ, Δ **→** *C*               |     |
 
 因此，割除是唯一一个在推导中使一个公式“消失”的规则。Gentzen 证明了割除规则的实例可以通过将它们向上排列直到达到推导开始的点来消除。在 ND 中，起始点是假设，在 SC 中，起始点是形式为 A → A 的“初始序列”，其中假设公式 A 同时也是结论。具有这样一个序列作为前提的割除规则的另一个前提等于结论，因此可以删除。
 
@@ -178,13 +178,13 @@ Gentzen 的博士论文标志着结构证明论的诞生，与希尔伯特的旧
 
 |                    |    |
 | ------------------ | -- |
-| _A_,_B_, Γ **→** Δ | L& |
-| _A_&_B_, Γ **→** Δ |    |
+| *A*,*B*, Γ **→** Δ | L& |
+| *A*&*B*, Γ **→** Δ |    |
 
 |                    |    |
 | ------------------ | -- |
 | Γ → Δ，A B，Γ → Δ    | L⊃ |
-| _A_⊃_B_, Γ **→** Δ |    |
+| *A*⊃*B*, Γ **→** Δ |    |
 
 对于合取只有一个左规则（对偶地，析取只有一个右规则）。左蕴含规则具有所谓的“共享上下文”：结论中的假设和情况，除了带有联结词的公式外，在两个前提中完全重复。Ketonen 的想法是定义一个证明搜索系统：从给定的待导出序列开始，选择其中的一个公式，并写出可以推导出给定序列的前提。通过可逆性，可导性的问题被替换为一个或两个关于更简单序列可导性的等价问题。新的规则需要确保在这种“从根开始”的分解中前提是唯一定义的。
 
@@ -200,11 +200,11 @@ Ketonen 的工作中有多少是源于 Gentzen 的建议，目前尚不清楚，
 
 | Γ **→** Δ      | Wk |
 | -------------- | -- |
-| _A_, Γ **→** Δ |    |
+| *A*, Γ **→** Δ |    |
 
-| _A_,_A_, Γ **→** Δ | Ctr |
+| *A*,*A*, Γ **→** Δ | Ctr |
 | ------------------ | --- |
-| _A_, Γ **→** Δ     |     |
+| *A*, Γ **→** Δ     |     |
 
 类似的规则允许在序列的右侧后继部分进行弱化和收缩。通过让初始序列具有 A，Γ → Δ，A 的形式而不是 Gentzen 的 A → A，可以将弱化规则变为可消除规则。通过适当的规则制定，也可以将收缩规则变为可消除规则。这意味着在从根开始的证明搜索中，不需要应用会在前提中产生公式重复的规则。如果没有这个结果，证明搜索的非终止将不会发生。
 
@@ -230,65 +230,65 @@ Ketonen 考虑的公理是来自 Skolem 在上面第一节中讨论的 1920 年�
 
 ### Texts on Proof Theory
 
-* Buss, Sam (ed.), 1998, _Handbook of Proof Theory_, Amsterdam: Elsevier.
-* Negri, S. and J. von Plato, 2001, _Structural Proof Theory_, Cambridge: Cambridge University Press.
-* von Plato, J., 2013, _Elements of Logical Reasoning_, Cambridge: Cambridge University Press.
-* Takeuti, G., 1987, _Proof Theory_, Amsterdam: North-Holland, 2nd edition.
-* Troelstra, A. and H. Schwichtenberg, 2000, _Basic Proof Theory_, Cambridge: Cambridge University Press, 2nd edition.
+* Buss, Sam (ed.), 1998, *Handbook of Proof Theory*, Amsterdam: Elsevier.
+* Negri, S. and J. von Plato, 2001, *Structural Proof Theory*, Cambridge: Cambridge University Press.
+* von Plato, J., 2013, *Elements of Logical Reasoning*, Cambridge: Cambridge University Press.
+* Takeuti, G., 1987, *Proof Theory*, Amsterdam: North-Holland, 2nd edition.
+* Troelstra, A. and H. Schwichtenberg, 2000, *Basic Proof Theory*, Cambridge: Cambridge University Press, 2nd edition.
 
 ### Original Works and Their Reprints
 
-* Ackermann, W. 1940, “Zur Widerspruchsfreiheit der Zahlentheorie,” _Mathematische Annalen_, 117: 162–194.
-* Beth, E., 1955, _Semantic entailment and formal derivability_ (Mededelingen der Koninklijke Nederlandse Akademie van Wetenschappen. Afd. Letterkunde. Nieuwe reeks, deel 18, no. 13), Amsterdam: North-Holland.
-* Church, A., 1936, “A Note on the _Entscheidungsproblem_,” _Journal of Symbolic Logic_, 1: 40–41.
-* Curry, H., and Feys, R., 1958. _Combinatory Logic_. (Studies in Logic and the Foundations of Mathematics, Vol. I), 1st edition, Amsterdam: North-Holland.
-* Curry, H., 1963, _Foundations of Mathematical Logic_, New York: McGraw-Hill; reprinted New York: Dover, 1977.
-* Dragalin, A., 1988, _Mathematical Intuitionism: Introduction to Proof Theory_, Providence, RI: American Mathematical Society.
-* Gentzen, G., 1934–1935, _Untersuchungen über das logische Schliessen_ (_Investigations into Logical Inference_), Ph.D. thesis, Universität Göttingen. Published in Gentzen 1969: 68–131.
-* Gentzen, G., 1938, “Neue Fassung des Widerspruchsfreiheitsbeweises für die reine Zahlentheorie”, _Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften_, _Neue Folge_ 4, S. Hrizel, 19–44. Translated in Gentzen 1969: 252–286.
-* Gentzen, G., 1943, “Beweisbarkeit und Unbeweisbarkeit von Anfangsfällen der transfiniten Induktion in der reinen Zahlentheorie”, _Mathematische Annalen_, 119: 252–286. Translated in Gentzen 1969: 287–308.
-* Gentzen, G., 1969, _The Collected Papers of Gerhard Gentzen_, ed. M. Szabo, Amsterdam: North-Holland.
-* Gentzen, G., 2008, “The normalization of derivations,” _The Bulletin of Symbolic Logic_, 14(1): 245–257.
-* Gödel, K., 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, _Monatshefte für Mathematik und Physik_, 37: 349–360.
-* Gödel, K., 1958, “Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes”, _Dialectica_, 12: 280–287.
-* Gödel. K., 1986–2003, _Collected Papers_ (Volumes I–V), S. Feferman et al. (eds.), Oxford: Oxford University Press.
-* van Heijenoort, J., 1967, _From Frege to Gödel_, Cambridge, MA: Harvard University Press.
-* Hilbert, D., 1899, _Grundlagen der Geometrie_, Leipzig: B.G. Teubner.
-* Hilbert, D., 1926, “_Über das Unendliche_” (“On the infinite”), _Mathematische Annalen_, 95: 161–190. \[Lecture given Münster, 4 June 1925.]
-* Hilbert, D., and Ackermann, W., 1928, _Grundzüge der theoretischen Logik_, Berlin: Springer.
-* Hilbert, D., 1931, “Die Grundlegung der elementaren Zahlenlehre,” _Mathematische Annalen_, 104: 484–494.
-* Howard, W., 1980 \[1969], “The formulae-as-types notion of construction,” in J. Seldin and J. Hindley (eds.), _To H. B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism_, London, New York: Academic Press, pp. 480–490.
-* Jaskowski, S., 1934, “On the rules of supposition in formal logic,” in S. McCall (ed.), _Polish Logic 1920–1939_, Oxford: Clarendon Press, 1967, pp. 232–258.
-* Ketonen, O., 1944, _Untersuchungen zum Prädikatenkalkül_, Annales Academiae scientiarum fennicae (Ser. A.I. 23), Helsinki.
-* Kleene, S., 1952, _Introduction to Metamathematics_, Amsterdam: North-Holland.
-* Kreisel, G., 1951, “On the interpretation of non-finitist proofs: Part I,” _The Journal of Symbolic Logic_, 16(4): 241–267.
-* Löwenheim, L., 1915, “Über Möglichkeiten im Relativkalkül”, _Mathematische Annalen_, 76(4): 447–470.
-* Menzler-Trott, E., 2001, _Gentzens Problem_, Berlin: Birkhäuser Verlag.
-* Menzler-Trott, E., 2007, _Logic's Lost Genius: The Life and Work of Gerhard Gentzen_, Providence, RI: American Mathematical Society.
-* Prawitz, D., 1965, _Natural Deduction: A Proof-Theoretical Study_, Stockholm: Almqvist & Wiksell; reprint New York: Dover (with a new preface), 2006.
-* –––, 1971, “Ideas and results in proof theory,” in J. Fenstad (ed.), _Proceedings of the Second Scandinavian Logic Symposium_, Amsterdam: North-Holland, pp. 235–308.
-* Rathjen, M., 1995, “Recent advances in ordinal analysis; Π12-CA and related systems,” _The Bulletin of Symbolic Logic_, 1(4): 468–485.
-* Schütte, K., 1950, “Schlussweisen-Kalküle der Prädikatenlogik,” _Mathematische Annalen_, 122: 47–65.
-* –––, 1951, “Beweistheoretische Erfassung der unendlichen Induktion in der Zahlentheorie,” _Mathematische Annalen_, 122: 369–389.
-* Skolem, T., 1920, “Logisch-kombinatorische Untersuchungen über die Erfüllbarkeit oder Beweisbarkeit mathematischer Sätze, nebst einem Theoreme über dichte Mengen,” translated and reprinted in _Selected Works in Logic_, J.E. Fenstad (ed.), Oslo, Universitetsforlaget, 1970, pp. 103–136:
-* Whitehead, A.N. and B. Russell, 1910–1913, _Principia Mathematica_, Cambridge: Cambridge University Press.
+* Ackermann, W. 1940, “Zur Widerspruchsfreiheit der Zahlentheorie,” *Mathematische Annalen*, 117: 162–194.
+* Beth, E., 1955, *Semantic entailment and formal derivability* (Mededelingen der Koninklijke Nederlandse Akademie van Wetenschappen. Afd. Letterkunde. Nieuwe reeks, deel 18, no. 13), Amsterdam: North-Holland.
+* Church, A., 1936, “A Note on the *Entscheidungsproblem*,” *Journal of Symbolic Logic*, 1: 40–41.
+* Curry, H., and Feys, R., 1958. *Combinatory Logic*. (Studies in Logic and the Foundations of Mathematics, Vol. I), 1st edition, Amsterdam: North-Holland.
+* Curry, H., 1963, *Foundations of Mathematical Logic*, New York: McGraw-Hill; reprinted New York: Dover, 1977.
+* Dragalin, A., 1988, *Mathematical Intuitionism: Introduction to Proof Theory*, Providence, RI: American Mathematical Society.
+* Gentzen, G., 1934–1935, *Untersuchungen über das logische Schliessen* (*Investigations into Logical Inference*), Ph.D. thesis, Universität Göttingen. Published in Gentzen 1969: 68–131.
+* Gentzen, G., 1938, “Neue Fassung des Widerspruchsfreiheitsbeweises für die reine Zahlentheorie”, *Forschungen zur Logik und zur Grundlegung der exakten Wissenschaften*, *Neue Folge* 4, S. Hrizel, 19–44. Translated in Gentzen 1969: 252–286.
+* Gentzen, G., 1943, “Beweisbarkeit und Unbeweisbarkeit von Anfangsfällen der transfiniten Induktion in der reinen Zahlentheorie”, *Mathematische Annalen*, 119: 252–286. Translated in Gentzen 1969: 287–308.
+* Gentzen, G., 1969, *The Collected Papers of Gerhard Gentzen*, ed. M. Szabo, Amsterdam: North-Holland.
+* Gentzen, G., 2008, “The normalization of derivations,” *The Bulletin of Symbolic Logic*, 14(1): 245–257.
+* Gödel, K., 1930, “Die Vollständigkeit der Axiome des logischen Funktionenkalküls”, *Monatshefte für Mathematik und Physik*, 37: 349–360.
+* Gödel, K., 1958, “Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes”, *Dialectica*, 12: 280–287.
+* Gödel. K., 1986–2003, *Collected Papers* (Volumes I–V), S. Feferman et al. (eds.), Oxford: Oxford University Press.
+* van Heijenoort, J., 1967, *From Frege to Gödel*, Cambridge, MA: Harvard University Press.
+* Hilbert, D., 1899, *Grundlagen der Geometrie*, Leipzig: B.G. Teubner.
+* Hilbert, D., 1926, “*Über das Unendliche*” (“On the infinite”), *Mathematische Annalen*, 95: 161–190. \[Lecture given Münster, 4 June 1925.]
+* Hilbert, D., and Ackermann, W., 1928, *Grundzüge der theoretischen Logik*, Berlin: Springer.
+* Hilbert, D., 1931, “Die Grundlegung der elementaren Zahlenlehre,” *Mathematische Annalen*, 104: 484–494.
+* Howard, W., 1980 \[1969], “The formulae-as-types notion of construction,” in J. Seldin and J. Hindley (eds.), *To H. B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism*, London, New York: Academic Press, pp. 480–490.
+* Jaskowski, S., 1934, “On the rules of supposition in formal logic,” in S. McCall (ed.), *Polish Logic 1920–1939*, Oxford: Clarendon Press, 1967, pp. 232–258.
+* Ketonen, O., 1944, *Untersuchungen zum Prädikatenkalkül*, Annales Academiae scientiarum fennicae (Ser. A.I. 23), Helsinki.
+* Kleene, S., 1952, *Introduction to Metamathematics*, Amsterdam: North-Holland.
+* Kreisel, G., 1951, “On the interpretation of non-finitist proofs: Part I,” *The Journal of Symbolic Logic*, 16(4): 241–267.
+* Löwenheim, L., 1915, “Über Möglichkeiten im Relativkalkül”, *Mathematische Annalen*, 76(4): 447–470.
+* Menzler-Trott, E., 2001, *Gentzens Problem*, Berlin: Birkhäuser Verlag.
+* Menzler-Trott, E., 2007, *Logic's Lost Genius: The Life and Work of Gerhard Gentzen*, Providence, RI: American Mathematical Society.
+* Prawitz, D., 1965, *Natural Deduction: A Proof-Theoretical Study*, Stockholm: Almqvist & Wiksell; reprint New York: Dover (with a new preface), 2006.
+* –––, 1971, “Ideas and results in proof theory,” in J. Fenstad (ed.), *Proceedings of the Second Scandinavian Logic Symposium*, Amsterdam: North-Holland, pp. 235–308.
+* Rathjen, M., 1995, “Recent advances in ordinal analysis; Π12-CA and related systems,” *The Bulletin of Symbolic Logic*, 1(4): 468–485.
+* Schütte, K., 1950, “Schlussweisen-Kalküle der Prädikatenlogik,” *Mathematische Annalen*, 122: 47–65.
+* –––, 1951, “Beweistheoretische Erfassung der unendlichen Induktion in der Zahlentheorie,” *Mathematische Annalen*, 122: 369–389.
+* Skolem, T., 1920, “Logisch-kombinatorische Untersuchungen über die Erfüllbarkeit oder Beweisbarkeit mathematischer Sätze, nebst einem Theoreme über dichte Mengen,” translated and reprinted in *Selected Works in Logic*, J.E. Fenstad (ed.), Oslo, Universitetsforlaget, 1970, pp. 103–136:
+* Whitehead, A.N. and B. Russell, 1910–1913, *Principia Mathematica*, Cambridge: Cambridge University Press.
 
 ### Secondary literature
 
-* Bernays, P., 1945, “Review: Oiva Ketonen, _Untersuchungen zum Pradikatenkalkul_,” _The Journal of Symbolic Logic_, 10(4): 127–130.
-* –––, 1965, “Betrachtungen zum Sequenzen-kalkul,” in _Contributions to Logic and Methodology in Honor of J. M. Bochenski_, Amsterdam: North-Holland, pp. 1–44.
-* –––, 1979, “On the original Gentzen consistency proof for number theory,” in J. Myhill et al. (eds.), _Intuitionism and Proof Theory_, Amsterdam: North-Holland, pp. 409–417.
+* Bernays, P., 1945, “Review: Oiva Ketonen, *Untersuchungen zum Pradikatenkalkul*,” *The Journal of Symbolic Logic*, 10(4): 127–130.
+* –––, 1965, “Betrachtungen zum Sequenzen-kalkul,” in *Contributions to Logic and Methodology in Honor of J. M. Bochenski*, Amsterdam: North-Holland, pp. 1–44.
+* –––, 1979, “On the original Gentzen consistency proof for number theory,” in J. Myhill et al. (eds.), *Intuitionism and Proof Theory*, Amsterdam: North-Holland, pp. 409–417.
 * Feferman, S., 2000, “Highlights in proof theory,” in V. Hendricks et al. (eds.) 2000, 11–31.
-* Hempel, C., 2000, “An intellectual autobiography.” In _Science, Explanation, and Rationality_, ed. J. Fetzer, pp. 3-35.
-* Hendricks, V., et al. (eds.), 2000, _Proof Theory: History and Philosophical Significance_, Dordrecht: Kluwer.
-* Mancosu, P., 1999, “Between Berlin and Vienna: The immediate reception of Gödel's incompleteness theorems,” _History and Philosophy of Logic_, 20: 33–45.
-* von Plato, J., 2007, “In the shadows of the Löwenheim-Skolem theorem: early combinatorial analyses of mathematical proofs,” _The Bulletin of Symbolic Logic_, 13(2): 189–225.
+* Hempel, C., 2000, “An intellectual autobiography.” In *Science, Explanation, and Rationality*, ed. J. Fetzer, pp. 3-35.
+* Hendricks, V., et al. (eds.), 2000, *Proof Theory: History and Philosophical Significance*, Dordrecht: Kluwer.
+* Mancosu, P., 1999, “Between Berlin and Vienna: The immediate reception of Gödel's incompleteness theorems,” *History and Philosophy of Logic*, 20: 33–45.
+* von Plato, J., 2007, “In the shadows of the Löwenheim-Skolem theorem: early combinatorial analyses of mathematical proofs,” *The Bulletin of Symbolic Logic*, 13(2): 189–225.
 * –––, 2007, “From Hilbert's programme to Gentzen's programme,” in the Appendix, Menzler-Trott 2007.
-* –––, 2009, “Gentzen's logic,” in _Handbook of the History and Philosophy of Logic_ (Volume 5), Amsterdam: Elsevier.
-* –––, 2012, “Gentzen's proof systems: byproducts in a program of genius,” _The Bulletin of Symbolic Logic_, 18(3): 313–367.
+* –––, 2009, “Gentzen's logic,” in *Handbook of the History and Philosophy of Logic* (Volume 5), Amsterdam: Elsevier.
+* –––, 2012, “Gentzen's proof systems: byproducts in a program of genius,” *The Bulletin of Symbolic Logic*, 18(3): 313–367.
 * Smorynski, C., 2007, “Hilbert's programme,” in the Appendix, Menzler-Trott 2007.
-* Tait, W., 2005, “Gödel's reformulation of Gentzen's first consistency proof for arithmetic: the no-counterexample interpretation,” _The Bulletin of Symbolic Logic_, 11(2): 225–238.
-* Troelstra, A. and Schwichtenberg, H., 2000, _Basic Proof Theory_, Cambridge: Cambridge University Press, 2nd edition.
+* Tait, W., 2005, “Gödel's reformulation of Gentzen's first consistency proof for arithmetic: the no-counterexample interpretation,” *The Bulletin of Symbolic Logic*, 11(2): 225–238.
+* Troelstra, A. and Schwichtenberg, H., 2000, *Basic Proof Theory*, Cambridge: Cambridge University Press, 2nd edition.
 
 ## Academic Tools
 

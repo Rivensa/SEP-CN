@@ -195,7 +195,6 @@ RNB 观点为阅读普鲁塔克和塞克斯的简短反驳提供了一种更有�
   
   [The evidence on Arcesilaus in Greek and Latin, with Italian translations.]
   
-
 #### Primary Sources
 
 * Cicero, *On Academic Scepticism*, Charles Brittain (trans.), Indianapolis, IN: Hackett, 2006.
@@ -280,7 +279,6 @@ RNB 观点为阅读普鲁塔克和塞克斯的简短反驳提供了一种更有�
   
   [Loeb edition with English translation.]
   
-
 ### Arcesilaus’ life and philosophical activity
 
 * Beghini, Andrea, 2016, “Arcesilao e Numenio: Note a Fr. 25 Des Places (= Eus. Praep. Ev. XIV, 5, 12–13 Des Places),” *Studi Classici e Orientali* 62: 297–314.

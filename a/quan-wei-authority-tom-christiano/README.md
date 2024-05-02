@@ -1,13 +1,12 @@
 # 权威 authority (Tom Christiano)
 
-_首次发布于 2004 年 7 月 2 日；实质性修订于 2012 年 1 月 11 日_
+*首次发布于 2004 年 7 月 2 日；实质性修订于 2012 年 1 月 11 日*
 
 政治权威何时合法？这是政治哲学的基本问题之一。根据人们对政治权威的理解，这个问题可能与国家的强制何时合法相同？或者，我们何时有义务服从国家？或者，何时以及谁有通过国家来统治的权利？
 
 本文关注政治权威合法性的哲学问题。首先，本文将探讨与政治权威相关的一些主要概念问题。我们所说的政治权威是什么意思？本文区分了政治权力和道德合法政治权威的概念，以及权威在道德上合理的强制和权威作为对他人施加义务的能力，最后还区分了权威作为统治权的概念。进一步的区分涉及政治权威对被统治者施加的义务的性质。
 
 该条目的主要部分（第 4 节）涉及政治权威合法性的性质和优点。在什么条件下，政治权威是合法的？本条目讨论了五种不同的政治权威合法性观点。它讨论了工具主义理论，即权威在于使人们履行他们已经有责任履行的义务。它讨论了授权理论，即只有在主体同意的情况下，权威才是合法的。它讨论了约翰·罗尔斯提出的理论，即只有在符合主体所同意的原则的情况下，权威才是合法的。它讨论了罗纳德·德沃金的观点，即合法的政治权威类似于对友谊、家庭和其他组织的义务基础。最后，它讨论了民主权威的概念，即民主议会在制定法律的过程中将每个公民视为平等的合法政治权威。
-
 
 ***
 
@@ -301,7 +300,7 @@ Estlund 急于区分这个观点与假设的同意或者说如果你是一个更
 
 从两个非常不同的角度来评估民主决策。一方面，可以从决策结果的公正性或效率性来评估民主决策。可以问立法是否公正或符合共同利益。这是支持立法并反对其他人的公民的立场，他们试图组建一个志同道合的联盟来推进立法。另一方面，可以从决策的方式来评估民主决策。决策过程是否公平地对待所有成员或平等尊重他们？立法代表和竞选资金等机构是否公平？
 
-但为什么民主议会所体现的平等要超越其他公正考虑？民主权威观念要求每个人将问题提交给民主投票。因此，如果他们基于符合他们认为正确的公正原则 _J_ 来提倡某项政策，而多数人基于不兼容的原则 _L_ 选择了不同的政策，民主理论认为他们应该接受以 _L_ 为基础的政策，因为只有这样他们才能给予其他公民适当的平等尊重。
+但为什么民主议会所体现的平等要超越其他公正考虑？民主权威观念要求每个人将问题提交给民主投票。因此，如果他们基于符合他们认为正确的公正原则 *J* 来提倡某项政策，而多数人基于不兼容的原则 *L* 选择了不同的政策，民主理论认为他们应该接受以 *L* 为基础的政策，因为只有这样他们才能给予其他公民适当的平等尊重。
 
 但是有人可能会问，为什么平等尊重原则应该优先于原则_J_？它们都是正义原则，所以我们需要一些理由来支持普遍优先平等尊重原则。
 
@@ -327,37 +326,37 @@ Estlund 急于区分这个观点与假设的同意或者说如果你是一个更
 
 ## Bibliography
 
-* Applebaum, Arthur Isak, 2010, “Legitimacy without the Duty to Obey,” _Philosophy and Public Affairs_, 38: 215–239.
-* Austin, John, 1832, _The Province of Jurisprudence Determined_, H. L. A. Hart (ed.), London: Weidenfeld & Nickolson, 1955.
-* Beran, Harry, 1987, _The Consent Theory of Political Obligation_, London: Croon Helm.
-* Brilmayer, Lea, 1989, _Justifying International Acts_, Ithaca, NY: Cornell University Press.
-* Buchanan, Allen, 2004, _Justice, Legitimacy and Self-Determination_, Oxford: Oxford University Press.
-* Buchanan, Allen and Robert O. Keohane, 2006, “The Legitimacy of Global Governance Institutions,” _Ethics and International Affairs_, 20 (4): 405–437.
-* Christiano, Thomas, 2004, “The Authority of Democracy,” _Journal of Political Philosophy_, 12(3): 245–270.
-* Christiano, Thomas, 2011, “Democratic Legitimacy and International Institutions,” in _The Philosophy of International Law_, Samantha Besson and John Tasiolas (eds.), Oxford: Oxford University Press.
-* Christiano, Thomas, 1996, _The Rule of the Many_, Boulder, CO: Westview Press.
-* Dworkin, Ronald, 1986, _Law's Empire_, Cambridge, MA: Harvard University Press.
-* Estlund, David, 2007, _Democratic Authority_, Cambridge: Cambridge University Press.
-* Edmundson, William, 1998, _Three Anarchical Fallacies_, Cambridge: Cambridge University Press.
-* Green, Leslie, 1989, _The Authority of the State_, Oxford: Oxford University Press.
-* Hart, H.L.A., 1961, _The Concept of Law_, Oxford: Clarendon Press.
-* Hobbes, Thomas, 1668, _Leviathan_, Edwin Curley (ed.), Indianapolis: Hackett Publishers, 1992.
-* Hume, David, 1748, “Of the Original Contract,” in _Hume's Ethical Writings_, Alasdair MacIntyre (ed.), London: University of Notre Dame Press, 1965.
-* Hurd, Heidi, 2001, _Moral Combat_, Cambridge: Cambridge University Press.
-* Ladenson, Robert, 1980, “In Defense of a Hobbesian Conception of Law,” _Philosophy and Public Affairs_, 9: 134–159.
-* Locke, John, 1690, _Second Treatise on Civil Government_, C. B MacPherson (ed.), Indianapolis, IN: Hackett, 1990.
-* Morris, Christopher, 1998, _An Essay on the Modern State_, Cambridge: Cambridge University Press.
-* Plato, _Euthyphro, Apology and Crito_, F. J. Church (trans.), New York: Macmillan, 1948.
-* Rawls, John, 1996, _Political Liberalism_, New York: Columbia University Press.
-* Raz, Joseph, 1986, _The Morality of Freedom_, Oxford: Oxford University Press.
-* Raz, Joseph (ed.), 1990, _Authority_, New York: New York University Press.
-* Shapiro, Scott, 2002, “Authority,” in _The Oxford Handbook of Jurisprudence and Philosophy of Law_, Jules Coleman and Scott Shapiro (eds.), Oxford: Oxford University Press.
-* Simmons, A. John, 2001, _Justification and Legitimacy: Essays on Rights and Obligations_, Cambridge: Cambridge University Press.
-* Singer, Peter, 1974, _Democracy and Disobedience_, Oxford: Oxford University Press.
-* Waldron, Jeremy, 1999, _Law and Disagreement_, Oxford: Oxford University Press.
-* Weber, Max, 1918, “Politics as a Vocation,” in _From Max Weber: Essays in Sociology_, H. H. Gerth and C. Wright Mills (eds.), London: Routledge and Kegan Paul, 1970.
-* Wellman, Christopher, 2001, “Toward a Liberal Theory of Political Obligation,” _Ethics_, 111 (4): 735–759.
-* Wolff, Robert Paul, 1970, _In Defense of Anarchism_, New York: Harper & Row.
+* Applebaum, Arthur Isak, 2010, “Legitimacy without the Duty to Obey,” *Philosophy and Public Affairs*, 38: 215–239.
+* Austin, John, 1832, *The Province of Jurisprudence Determined*, H. L. A. Hart (ed.), London: Weidenfeld & Nickolson, 1955.
+* Beran, Harry, 1987, *The Consent Theory of Political Obligation*, London: Croon Helm.
+* Brilmayer, Lea, 1989, *Justifying International Acts*, Ithaca, NY: Cornell University Press.
+* Buchanan, Allen, 2004, *Justice, Legitimacy and Self-Determination*, Oxford: Oxford University Press.
+* Buchanan, Allen and Robert O. Keohane, 2006, “The Legitimacy of Global Governance Institutions,” *Ethics and International Affairs*, 20 (4): 405–437.
+* Christiano, Thomas, 2004, “The Authority of Democracy,” *Journal of Political Philosophy*, 12(3): 245–270.
+* Christiano, Thomas, 2011, “Democratic Legitimacy and International Institutions,” in *The Philosophy of International Law*, Samantha Besson and John Tasiolas (eds.), Oxford: Oxford University Press.
+* Christiano, Thomas, 1996, *The Rule of the Many*, Boulder, CO: Westview Press.
+* Dworkin, Ronald, 1986, *Law's Empire*, Cambridge, MA: Harvard University Press.
+* Estlund, David, 2007, *Democratic Authority*, Cambridge: Cambridge University Press.
+* Edmundson, William, 1998, *Three Anarchical Fallacies*, Cambridge: Cambridge University Press.
+* Green, Leslie, 1989, *The Authority of the State*, Oxford: Oxford University Press.
+* Hart, H.L.A., 1961, *The Concept of Law*, Oxford: Clarendon Press.
+* Hobbes, Thomas, 1668, *Leviathan*, Edwin Curley (ed.), Indianapolis: Hackett Publishers, 1992.
+* Hume, David, 1748, “Of the Original Contract,” in *Hume's Ethical Writings*, Alasdair MacIntyre (ed.), London: University of Notre Dame Press, 1965.
+* Hurd, Heidi, 2001, *Moral Combat*, Cambridge: Cambridge University Press.
+* Ladenson, Robert, 1980, “In Defense of a Hobbesian Conception of Law,” *Philosophy and Public Affairs*, 9: 134–159.
+* Locke, John, 1690, *Second Treatise on Civil Government*, C. B MacPherson (ed.), Indianapolis, IN: Hackett, 1990.
+* Morris, Christopher, 1998, *An Essay on the Modern State*, Cambridge: Cambridge University Press.
+* Plato, *Euthyphro, Apology and Crito*, F. J. Church (trans.), New York: Macmillan, 1948.
+* Rawls, John, 1996, *Political Liberalism*, New York: Columbia University Press.
+* Raz, Joseph, 1986, *The Morality of Freedom*, Oxford: Oxford University Press.
+* Raz, Joseph (ed.), 1990, *Authority*, New York: New York University Press.
+* Shapiro, Scott, 2002, “Authority,” in *The Oxford Handbook of Jurisprudence and Philosophy of Law*, Jules Coleman and Scott Shapiro (eds.), Oxford: Oxford University Press.
+* Simmons, A. John, 2001, *Justification and Legitimacy: Essays on Rights and Obligations*, Cambridge: Cambridge University Press.
+* Singer, Peter, 1974, *Democracy and Disobedience*, Oxford: Oxford University Press.
+* Waldron, Jeremy, 1999, *Law and Disagreement*, Oxford: Oxford University Press.
+* Weber, Max, 1918, “Politics as a Vocation,” in *From Max Weber: Essays in Sociology*, H. H. Gerth and C. Wright Mills (eds.), London: Routledge and Kegan Paul, 1970.
+* Wellman, Christopher, 2001, “Toward a Liberal Theory of Political Obligation,” *Ethics*, 111 (4): 735–759.
+* Wolff, Robert Paul, 1970, *In Defense of Anarchism*, New York: Harper & Row.
 
 ## Academic Tools
 
@@ -369,11 +368,11 @@ Estlund 急于区分这个观点与假设的同意或者说如果你是一个更
 
 ## Other Internet Resources
 
-* [The Popular Basis of Political Authority](http://press-pubs.uchicago.edu/founders/tocs/v1ch2.html), from _The Founders Constitution_, edited by Philip B. Kurland and Ralph Lerner, The University of Chicago.
+* [The Popular Basis of Political Authority](http://press-pubs.uchicago.edu/founders/tocs/v1ch2.html), from *The Founders Constitution*, edited by Philip B. Kurland and Ralph Lerner, The University of Chicago.
 
 ## Related Entries
 
-[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [citizenship](https://plato.stanford.edu/entries/citizenship/) | [communitarianism](https://plato.stanford.edu/entries/communitarianism/) | [constitutionalism](https://plato.stanford.edu/entries/constitutionalism/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [egalitarianism](https://plato.stanford.edu/entries/egalitarianism/) | [equality](https://plato.stanford.edu/entries/equality/) | [free rider problem](https://plato.stanford.edu/entries/free-rider/) | [Habermas, Jürgen](https://plato.stanford.edu/entries/habermas/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Kant, Immanuel: social and political philosophy](https://plato.stanford.edu/entries/kant-social-political/) | [legal obligation and authority](https://plato.stanford.edu/entries/legal-obligation/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [Locke, John: political philosophy](https://plato.stanford.edu/entries/locke-political/) | [Plato: ethics and politics in _The Republic_](https://plato.stanford.edu/entries/plato-ethics-politics/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/)
+[Aquinas, Thomas](https://plato.stanford.edu/entries/aquinas/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [Bentham, Jeremy](https://plato.stanford.edu/entries/bentham/) | [citizenship](https://plato.stanford.edu/entries/citizenship/) | [communitarianism](https://plato.stanford.edu/entries/communitarianism/) | [constitutionalism](https://plato.stanford.edu/entries/constitutionalism/) | [contractarianism](https://plato.stanford.edu/entries/contractarianism/) | [democracy](https://plato.stanford.edu/entries/democracy/) | [egalitarianism](https://plato.stanford.edu/entries/egalitarianism/) | [equality](https://plato.stanford.edu/entries/equality/) | [free rider problem](https://plato.stanford.edu/entries/free-rider/) | [Habermas, Jürgen](https://plato.stanford.edu/entries/habermas/) | [Hobbes, Thomas: moral and political philosophy](https://plato.stanford.edu/entries/hobbes-moral/) | [Hume, David](https://plato.stanford.edu/entries/hume/) | [Kant, Immanuel: social and political philosophy](https://plato.stanford.edu/entries/kant-social-political/) | [legal obligation and authority](https://plato.stanford.edu/entries/legal-obligation/) | [liberalism](https://plato.stanford.edu/entries/liberalism/) | [Locke, John: political philosophy](https://plato.stanford.edu/entries/locke-political/) | [Plato: ethics and politics in *The Republic*](https://plato.stanford.edu/entries/plato-ethics-politics/) | [political obligation](https://plato.stanford.edu/entries/political-obligation/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [sovereignty](https://plato.stanford.edu/entries/sovereignty/)
 
 [Copyright © 2012](https://plato.stanford.edu/info.html#c) by\
-[Tom Christiano](http://www.u.arizona.edu/\~thomasc/) <[_thomasc@u.arizona.edu_](mailto:thomasc%40u%2earizona%2eedu)>
+[Tom Christiano](http://www.u.arizona.edu/\~thomasc/) <[*thomasc@u.arizona.edu*](mailto:thomasc%40u%2earizona%2eedu)>

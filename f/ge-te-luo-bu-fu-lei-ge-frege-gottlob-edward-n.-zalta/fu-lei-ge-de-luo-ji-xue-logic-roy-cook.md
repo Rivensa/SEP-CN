@@ -1,6 +1,6 @@
 # 弗雷格的逻辑学 logic (Roy Cook)
 
-_首次发表于 2023 年 2 月 7 日_
+*首次发表于 2023 年 2 月 7 日*
 
 弗里德里希·路德维希·戈特洛布·弗雷格（出生于 1848 年，逝世于 1925 年）常被认为是在他的《概念符号》中发明了现代量化逻辑。虽然关于弗雷格的创新之处以及他的作品与同时代人如乔治·布尔、奥古斯都·德摩根、恩斯特·施罗德、查尔斯·桑德斯·皮尔斯和约翰·文恩的作品中存在哪些相似之处存在一些争议（参见普特南 1982 年或布洛斯 1994 年的论述，以抵制将现代逻辑归功于弗雷格的倾向，还有关于逻辑代数传统的条目），但毫无疑问，弗雷格的工作，尤其是在伯特兰·罗素和路德维希·维特根斯坦的推崇下，对哲学和数学逻辑的发展产生了巨大影响。
 
@@ -235,7 +235,7 @@ _首次发表于 2023 年 2 月 7 日_
 >
 > 弗雷格在这里非常明确：在概念书写的逻辑公式中出现的罗马（或斜体）字母只不过是相应的用罗马变量替换哥特变量，并且将与这些变量对应的凹度立即放在判断笔画之后的公式的缩写。因此，上述引文中出现的公式在概念书写的逻辑中只是以下公式的缩写：
 
-Frege is quite explicit here: The occurrence of Roman (or italic) letters in a formula of the logic of _Begriffsschrift_ is nothing more than an abbreviation of the corresponding formula with the Roman variables replaced by corresponding Gothic variables, and the concavities corresponding to those variables placed immediately after the judgement stroke. Thus, the formula appearing in the quotation above is, in the logic of _Begriffsschrift_, merely an abbreviation for:
+Frege is quite explicit here: The occurrence of Roman (or italic) letters in a formula of the logic of *Begriffsschrift* is nothing more than an abbreviation of the corresponding formula with the Roman variables replaced by corresponding Gothic variables, and the concavities corresponding to those variables placed immediately after the judgement stroke. Thus, the formula appearing in the quotation above is, in the logic of *Begriffsschrift*, merely an abbreviation for:
 
 ![judgement all gothic F all gothic G all gothic a conditional all gothic b term gothic F gothic a, gothic e term gothic G gothic a](https://plato.stanford.edu/entries/frege-logic/sec2-1-L.svg)
 
@@ -1137,7 +1137,7 @@ A1→(A2→(A3→(A4→(A5→(A6→(A7→B)))))I hope this helps! If you need fu
 
 #### 3.4.3 Generalized Contraposition
 
-The third rule of inference is _Generalized Contraposition_ (Frege calls this rule merely “contraposition”).
+The third rule of inference is *Generalized Contraposition* (Frege calls this rule merely “contraposition”).
 
 > 只要同时颠倒每个子组件的真值，就可以对子组件和超组件进行置换。（1893/1903: §15）
 
@@ -1225,63 +1225,63 @@ we can infer: (我们可以推断：)
 
 ### Frege’s Writings
 
-* 1879a, _Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens_, Halle a. S.: Louis Nebert; all quotes from this work are from the translation in T.W. Bynum (ed. and trans.), _Frege: Conceptual Notation and Related Articles_, Oxford: Clarendon, 1972.
-* 1879b, “Anwendungen der Begriffsschrift”, _Sitzungsberichte der Jenaische Zeitschrift für Medicin und Naturwissenschaft_, 13: 29–33.
+* 1879a, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; all quotes from this work are from the translation in T.W. Bynum (ed. and trans.), *Frege: Conceptual Notation and Related Articles*, Oxford: Clarendon, 1972.
+* 1879b, “Anwendungen der Begriffsschrift”, *Sitzungsberichte der Jenaische Zeitschrift für Medicin und Naturwissenschaft*, 13: 29–33.
 * 1880/1881, “Booles rechnende Logik und die Begriffsschrift”, unpublished manuscript. Translated as “Boole’s Logical Calculus and the Concept Script”, in LW79: 9–46.
 * 1881, “Booles logische Formelsprache und meine Begriffsschrift”, unpublished manuscript. Translated as “Boole’s Logical Formula Language and my Concept-script”, in LW79: 47–52.
-* 1882a, “Über die wissenschaftliche Berechtigung einer Begriffsschrift”, _Zeitschrift für Philosophie und philosophische Kritik_, 81: 48–56. Translated as “On the Scientific Justification of a Conceptual Notation” in By72: 83–89.
+* 1882a, “Über die wissenschaftliche Berechtigung einer Begriffsschrift”, *Zeitschrift für Philosophie und philosophische Kritik*, 81: 48–56. Translated as “On the Scientific Justification of a Conceptual Notation” in By72: 83–89.
 * 1882b, “Über den Zweck der Begriffsschrift”, Lecture at the 27 January 1882 meeting of the Jenaischen Gesellschaft für Medizin und Naturwissenschaft. Translated as “On the Aim of the ‘Conceptual Notation’” in By72: 90–100.
-* 1884, _Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl_, Breslau: W. Koebner. Translated as _The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number_, J. L. Austin (trans.), second revised edition, Oxford: Blackwell, 1953.
-* 1891, “Funktion und Begriff” (“Function and Concept”), _Vortrag, gehalten in der Sitzung vom 9. Januar 1891 der Jenaischen Gesellschaft für Medizin und Naturwissenschaft_, Jena: Hermann Pohle.
-* 1892a, “Über Sinn und Bedeutung” (“On Sense and Reference”), _Zeitschrift für Philosophie und philosophische Kritik_, 100: 25–50.
-* 1892b, “Über Begriff und Gegenstand”’ (“Concept and Object”), _Vierteljahresschrift für wissenschaftliche Philosophie_, 16: 192–205.
-* 1893/1903, _Grundgesetze der Arithmetik: begriffsschriftlich abgeleitet_, Jena: Verlag Hermann Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.
-* 1897, “Über die Begriffsschrift des Herrn Peano und meine eigene”, _Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig: Mathematisch-physische Klasse_, 48: 361–378. Translated as “On Mr. Peano’s Conceptual Notation and My Own” in BD84: 234–248.
+* 1884, *Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl*, Breslau: W. Koebner. Translated as *The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number*, J. L. Austin (trans.), second revised edition, Oxford: Blackwell, 1953.
+* 1891, “Funktion und Begriff” (“Function and Concept”), *Vortrag, gehalten in der Sitzung vom 9. Januar 1891 der Jenaischen Gesellschaft für Medizin und Naturwissenschaft*, Jena: Hermann Pohle.
+* 1892a, “Über Sinn und Bedeutung” (“On Sense and Reference”), *Zeitschrift für Philosophie und philosophische Kritik*, 100: 25–50.
+* 1892b, “Über Begriff und Gegenstand”’ (“Concept and Object”), *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205.
+* 1893/1903, *Grundgesetze der Arithmetik: begriffsschriftlich abgeleitet*, Jena: Verlag Hermann Pohle, volume 1 in 1893 and volume 2 in 1903. Translated in ER13.
+* 1897, “Über die Begriffsschrift des Herrn Peano und meine eigene”, *Berichte über die Verhandlungen der Königlich Sächsischen Gesellschaft der Wissenschaften zu Leipzig: Mathematisch-physische Klasse*, 48: 361–378. Translated as “On Mr. Peano’s Conceptual Notation and My Own” in BD84: 234–248.
 
 ### Translations
 
-* \[Be97] _The Frege Reader_, Michael Beaney (ed.), Oxford ; Malden, MA: Blackwell Publishers, 1997.
-* \[BD84] _Collected Papers on Mathematics, Logic, and Philosophy_, Brian McGuinness (ed.), Oxford/New York: B. Blackwell, 1984.
-* \[By72] _Conceptual Notation, and Related Articles_, Terrell Ward Bynum (ed./tran.), Oxford: Clarendon Press, 1972.
-* \[ER13] _Gottlob Frege: Basic Laws of Arithmetic: Derived Using Concept-Script. Volumes I & II_, Philip A. Ebert and Marcus Rossberg (eds/trans), Oxford: Oxford University Press, 2013.
-* \[LW79] _Posthumous Writings_, Hans Hermes, Friedrich Kambartel, and Friedrich Kaulbach (eds.). Peter Long and Roger White (trans.), Chicago: University of Chicago Press, 1979.
-* \[RA04] _Frege’s Lectures on Logic: Carnap’s Student Notes, 1910-1914_, Gottfried Gabriel (ed.). Erich H. Reck and Steve Awodey (trans/eds), Chicago, IL: Open Court, 2004.
-* Van Heijenoort, Jean (ed.), 1967a, _From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931_, (Source Books in the History of the Sciences), Cambridge, MA: Harvard University Press.
+* \[Be97] *The Frege Reader*, Michael Beaney (ed.), Oxford ; Malden, MA: Blackwell Publishers, 1997.
+* \[BD84] *Collected Papers on Mathematics, Logic, and Philosophy*, Brian McGuinness (ed.), Oxford/New York: B. Blackwell, 1984.
+* \[By72] *Conceptual Notation, and Related Articles*, Terrell Ward Bynum (ed./tran.), Oxford: Clarendon Press, 1972.
+* \[ER13] *Gottlob Frege: Basic Laws of Arithmetic: Derived Using Concept-Script. Volumes I & II*, Philip A. Ebert and Marcus Rossberg (eds/trans), Oxford: Oxford University Press, 2013.
+* \[LW79] *Posthumous Writings*, Hans Hermes, Friedrich Kambartel, and Friedrich Kaulbach (eds.). Peter Long and Roger White (trans.), Chicago: University of Chicago Press, 1979.
+* \[RA04] *Frege’s Lectures on Logic: Carnap’s Student Notes, 1910-1914*, Gottfried Gabriel (ed.). Erich H. Reck and Steve Awodey (trans/eds), Chicago, IL: Open Court, 2004.
+* Van Heijenoort, Jean (ed.), 1967a, *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, (Source Books in the History of the Sciences), Cambridge, MA: Harvard University Press.
 
 ### Secondary Literature
 
 * Beaney, Michael, 1997, “Introduction”, in Be97, 1–46.
-* ––– (ed.), 2013, _The Oxford Handbook of the History of Analytic Philosophy_, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.001.0001
-* Berg, Eric D. and Roy T. Cook, 2017, “The Propositional Logic of Frege’s _Grundgesetze_: Semantics and Expressiveness”, _Journal for the History of Analytical Philosophy_, 5: article 6. doi:10.15173/jhap.v5i6.2920
+* ––– (ed.), 2013, *The Oxford Handbook of the History of Analytic Philosophy*, Oxford: Oxford University Press. doi:10.1093/oxfordhb/9780199238842.001.0001
+* Berg, Eric D. and Roy T. Cook, 2017, “The Propositional Logic of Frege’s *Grundgesetze*: Semantics and Expressiveness”, *Journal for the History of Analytical Philosophy*, 5: article 6. doi:10.15173/jhap.v5i6.2920
 * Boolos, George, 1994, “1879?”, in Clark and Hale (eds) 1994: 31–48 (ch. 2).
-* Burge, Tyler, 1984, “Frege on Extensions of Concepts, from 1884 to 1903”, _The Philosophical Review_, 93(1): 3–34. doi:10.2307/2184411
-* Clark, Peter and Bob Hale (eds.), 1994, _Reading Putnam_, Cambridge, MA: Blackwell Publishers.
-* Cook, Roy T., 2013, “How to Read _Grundgesetze_”, appendix to ER13: A1–A42.
-* Currie, Gregory, 1984, “Frege’s Metaphysical Argument”, _The Philosophical Quarterly_, 34(136): 329–342. Reprinted Wright 1984: 144–157. doi:10.2307/2218764
-* Dedekind, Richard, 1888, _Was sind und was sollen die Zahlen?_, Braunschweig: Friedrich Vieweg.
-* Dummett, Michael A. E., 1981, _The Interpretation of Frege’s Philosophy_, London: Duckworth.
-* Ebert, Philip A. and Marcus Rossberg (eds.), 2019, _Essays on Frege’s: “Basic Laws of Arithmetic”_, Oxford: Oxford University Press.
-* Gabbay, Dov M. and John Woods (eds.), 2004, _Handbook of the History of Logic, Volume 3, the Rise of Modern Logic: From Leibniz to Frege_, Amsterdam/Boston: Elsevier.
+* Burge, Tyler, 1984, “Frege on Extensions of Concepts, from 1884 to 1903”, *The Philosophical Review*, 93(1): 3–34. doi:10.2307/2184411
+* Clark, Peter and Bob Hale (eds.), 1994, *Reading Putnam*, Cambridge, MA: Blackwell Publishers.
+* Cook, Roy T., 2013, “How to Read *Grundgesetze*”, appendix to ER13: A1–A42.
+* Currie, Gregory, 1984, “Frege’s Metaphysical Argument”, *The Philosophical Quarterly*, 34(136): 329–342. Reprinted Wright 1984: 144–157. doi:10.2307/2218764
+* Dedekind, Richard, 1888, *Was sind und was sollen die Zahlen?*, Braunschweig: Friedrich Vieweg.
+* Dummett, Michael A. E., 1981, *The Interpretation of Frege’s Philosophy*, London: Duckworth.
+* Ebert, Philip A. and Marcus Rossberg (eds.), 2019, *Essays on Frege’s: “Basic Laws of Arithmetic”*, Oxford: Oxford University Press.
+* Gabbay, Dov M. and John Woods (eds.), 2004, *Handbook of the History of Logic, Volume 3, the Rise of Modern Logic: From Leibniz to Frege*, Amsterdam/Boston: Elsevier.
 * Goldfarb, Warren, 2010, “Frege’s Conception of Logic”, in Potter and Ricketts 2010: 63–85. doi:10.1017/CCOL9780521624282.003
-* Heck, Richard Kimberly, 2012, _Reading Frege’s “Grundgesetze”_, Oxford: Clarendon Press. (originally published under Richard G. Heck)
-* –––, 2019, “Formal Arithmetic Before _Grundgesetze_”, in Ebert and Rossberg 2019: 497–537 (ch. 18).
+* Heck, Richard Kimberly, 2012, *Reading Frege’s “Grundgesetze”*, Oxford: Clarendon Press. (originally published under Richard G. Heck)
+* –––, 2019, “Formal Arithmetic Before *Grundgesetze*”, in Ebert and Rossberg 2019: 497–537 (ch. 18).
 * Heck, Richard Kimberly and Robert May, 2013, “The Function Is Unsaturated”, in Beaney 2013: 825–850. (originally published under Richard Kimberley Heck and Robert May) doi:10.1093/oxfordhb/9780199238842.013.0028
-* –––, 2020, “The Birth of Semantics”, _Journal for the History of Analytical Philosophy_, 8: article 6. doi:10.15173/jhap.v8i6.3970
-* Jones, Emily Elizabeth Constance, 1890, _Elements of Logic as a Science of Propositions_, Edinburgh: T. & T. Clark.
-* Jourdain, Philip, 1912, “The Development of Theories of Mathematic Logic and the Principles of Mathematics”, _The Quarterly Journal of Pure and Applied Mathematics_, 43: 219–314.
-* Kemp, Gary, 1995, “Truth in Frege’s ‘Law of Truth’”, _Synthese_, 105(1): 31–51. doi:10.1007/BF01064102
+* –––, 2020, “The Birth of Semantics”, *Journal for the History of Analytical Philosophy*, 8: article 6. doi:10.15173/jhap.v8i6.3970
+* Jones, Emily Elizabeth Constance, 1890, *Elements of Logic as a Science of Propositions*, Edinburgh: T. & T. Clark.
+* Jourdain, Philip, 1912, “The Development of Theories of Mathematic Logic and the Principles of Mathematics”, *The Quarterly Journal of Pure and Applied Mathematics*, 43: 219–314.
+* Kemp, Gary, 1995, “Truth in Frege’s ‘Law of Truth’”, *Synthese*, 105(1): 31–51. doi:10.1007/BF01064102
 * Kremer, Michael, 2010, “Sense and Reference: The Origins and Development of the Distinction”, in Potter and Ricketts 2010: 220–292. doi:10.1017/CCOL9780521624282.007
-* Landini, Gregory, 2012, _Frege’s Notations: What They Are and How They Mean_, (History of Analytic Philosophy), Houndmills, UK/New York: Palgrave Macmillan.
-* Łukasiewicz, Jan, 1934, “Z Historii Logiki Zdãn”, _Przeglad Filozoficzny_, 37: 369–377.
-* Mates, Benson, 1972, _Elementary Logic_, second edition, New York: Oxford University Press.
-* Mostowski, Andrzej, 1957, “On a Generalization of Quantifiers”, _Fundamenta Mathematics_, 44(1): 12–36.
+* Landini, Gregory, 2012, *Frege’s Notations: What They Are and How They Mean*, (History of Analytic Philosophy), Houndmills, UK/New York: Palgrave Macmillan.
+* Łukasiewicz, Jan, 1934, “Z Historii Logiki Zdãn”, *Przeglad Filozoficzny*, 37: 369–377.
+* Mates, Benson, 1972, *Elementary Logic*, second edition, New York: Oxford University Press.
+* Mostowski, Andrzej, 1957, “On a Generalization of Quantifiers”, *Fundamenta Mathematics*, 44(1): 12–36.
 * Pedriali, Walter B., 2019, “When Logic Gives Out: Frege on Basic Logical Laws”, in Ebert and Rossberg 2019: 57–89 (ch. 3).
-* Potter, Michael D. and Tom Ricketts (eds.), 2010, _The Cambridge Companion to Frege_, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CCOL9780521624282
-* Putnam, Hilary, 1982, “Peirce the Logician”, _Historia Mathematica_, 9(3): 290–301. doi:10.1016/0315-0860(82)90123-9
+* Potter, Michael D. and Tom Ricketts (eds.), 2010, *The Cambridge Companion to Frege*, Cambridge, UK/New York: Cambridge University Press. doi:10.1017/CCOL9780521624282
+* Putnam, Hilary, 1982, “Peirce the Logician”, *Historia Mathematica*, 9(3): 290–301. doi:10.1016/0315-0860(82)90123-9
 * Russell, Bertrand, 1902, “Letter to Frege”, printed in van Heijenoort (ed.) 1967a: 124–125.
-* Tarski, Alfred, 1933, “The Concept of Truth in the Languages of the Deductive Sciences” (Polish), _Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych_ 34, Warsaw. Reprinted in Zygmunt (ed.), 1995, _Alfred Tarski, Pisma Logiczno-Filozoficzne, 1 Prawda_, Warsaw: Wydawnictwo Naukowe PWN, 13–172. English translation in Tarski’s _Logic, Semantics, Metamathematics: Papers from 1923 to 1938_, 2nd edition, John Corcoran (ed.), Indianapolis: Hackett Publishing Company, 1983, 152–278.
-* van Heijenoort, Jean, 1967b, “Introduction to _Begriffsschrift_”, in van Heijenoort (ed.) 1967: 1–5.
-* Wright, Crispin (ed.), 1984, _Frege: Tradition and Influence_, Oxford/New York: B. Blackwell.
+* Tarski, Alfred, 1933, “The Concept of Truth in the Languages of the Deductive Sciences” (Polish), *Prace Towarzystwa Naukowego Warszawskiego, Wydzial III Nauk Matematyczno-Fizycznych* 34, Warsaw. Reprinted in Zygmunt (ed.), 1995, *Alfred Tarski, Pisma Logiczno-Filozoficzne, 1 Prawda*, Warsaw: Wydawnictwo Naukowe PWN, 13–172. English translation in Tarski’s *Logic, Semantics, Metamathematics: Papers from 1923 to 1938*, 2nd edition, John Corcoran (ed.), Indianapolis: Hackett Publishing Company, 1983, 152–278.
+* van Heijenoort, Jean, 1967b, “Introduction to *Begriffsschrift*”, in van Heijenoort (ed.) 1967: 1–5.
+* Wright, Crispin (ed.), 1984, *Frege: Tradition and Influence*, Oxford/New York: B. Blackwell.
 
 ## Academic Tools
 
@@ -1300,4 +1300,4 @@ we can infer: (我们可以推断：)
 [algebra of logic tradition](https://plato.stanford.edu/entries/algebra-logic-tradition/) | [Carnap, Rudolf](https://plato.stanford.edu/entries/carnap/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Frege, Gottlob: controversy with Hilbert](https://plato.stanford.edu/entries/frege-hilbert/) | [Frege, Gottlob: theorem and foundations for arithmetic](https://plato.stanford.edu/entries/frege-theorem/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logic: second-order and higher-order](https://plato.stanford.edu/entries/logic-higher-order/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [quantifiers and quantification](https://plato.stanford.edu/entries/quantification/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [truth values](https://plato.stanford.edu/entries/truth-values/)
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Roy Cook <[_cookx432@umn.edu_](mailto:cookx432%40umn%2eedu)>
+Roy Cook <[*cookx432@umn.edu*](mailto:cookx432%40umn%2eedu)>

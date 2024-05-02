@@ -1,10 +1,8 @@
 # 动态选择 choice, dynamic (Chrisoula Andreou)
 
-_首次发表于 2007 年 10 月 15 日星期一；实质性修订于 2020 年 10 月 20 日星期二_
+*首次发表于 2007 年 10 月 15 日星期一；实质性修订于 2020 年 10 月 20 日星期二*
 
 有时一系列选择即使每个选择看似都非常适合满足一个人的关切，但却并不总是能够很好地满足一个人的关切。在这种情况下，一个人会面临动态选择问题。换句话说，一个人会面临与其选择分散在时间上有关的问题。有越来越多的哲学文献涉及到心理学和经济学，探讨了有效动态选择面临的障碍。这些文献研究了可能导致动态选择问题的具有挑战性的选择情境和问题性偏好结构。它还提出了解决这些问题的方案。越来越多熟悉但潜在令人困惑的现象，比如自毁性的成瘾行为和危险的环境破坏，已经被动态选择理论所阐明。这表明动态选择理论的哲学和实践意义非常广泛。
-
-
 
 ***
 
@@ -84,17 +82,17 @@ Translate the text to Simplified Chinese Language, please do not explain my orig
 
 一个代理人的偏好结构不需要随时间变化才能引发动态选择问题。这样的问题也可能是由稳定但非传递的偏好引发的。
 
-一个人的偏好被视为传递的，如果它们满足以下条件：对于所有的 _x_、_y_ 和 _z_，如果一个人更喜欢 _x_ 而不是 _y_，_y_ 而不是 _z_，那么他也更喜欢 _x_ 而不是 _z_。如果一个人对一组选项的偏好不满足这个条件，那么这些偏好被视为不传递的。当一个人对一组选项的偏好是不传递的时候，那么他无法将这些选项从最喜欢到最不喜欢进行排名。即使一个人对选项的偏好是完全的，也就是说，所有的选项都相互排名。例如，假设一个人更喜欢工作 _A_ 而不是工作 _B_，工作 _B_ 而不是工作 _C_，但是工作 _C_ 而不是工作 _A_。在这种情况下，一个人对集合 {工作 _A_，工作 _B_，工作 _C_} 的完全偏好形成一个偏好循环，可以表示为：
+一个人的偏好被视为传递的，如果它们满足以下条件：对于所有的 *x*、*y* 和 *z*，如果一个人更喜欢 *x* 而不是 *y*，*y* 而不是 *z*，那么他也更喜欢 *x* 而不是 *z*。如果一个人对一组选项的偏好不满足这个条件，那么这些偏好被视为不传递的。当一个人对一组选项的偏好是不传递的时候，那么他无法将这些选项从最喜欢到最不喜欢进行排名。即使一个人对选项的偏好是完全的，也就是说，所有的选项都相互排名。例如，假设一个人更喜欢工作 *A* 而不是工作 *B*，工作 *B* 而不是工作 *C*，但是工作 *C* 而不是工作 *A*。在这种情况下，一个人对集合 {工作 *A*，工作 *B*，工作 *C*} 的完全偏好形成一个偏好循环，可以表示为：
 
 ![工作 A 工作 B 工作 C](https://plato.stanford.edu/entries/dynamic-choice/preference-loop1.jpg)
 
 图 3。
 
-其中 _x_ > _y_ 被理解为 _x_ 优先于 _y_。
+其中 *x* > *y* 被理解为 *x* 优先于 *y*。
 
 能够有非传递性偏好吗？实验和理论经济学的研究（参见，例如，Tversky 1969）表明非传递性偏好存在并且可能相当普遍。考虑以下情况可能有助于说明非传递性偏好是如何产生的（无论它们是否合理）。假设 Jay 可以接受三份工作中的一份：工作_A_非常刺激但薪水低；工作_B_有些刺激且薪水相当不错；工作_C_不刺激但薪水很高。在这种情况下，人们可以想象 Jay 有以下偏好：他更喜欢工作_A_而不是工作_B_，因为薪水低和薪水相当不错之间的差异不足以让 Jay 放弃一份非常刺激的工作。同样，他更喜欢工作_B_而不是工作_C_，因为薪水相当不错和薪水很高之间的差异不足以让 Jay 放弃一份刺激的工作。但他更喜欢工作_C_而不是工作_A_，因为薪水很高和薪水低之间的差异足以让 Jay 放弃甚至是一份非常刺激的工作。
 
-鉴于由唐纳德·戴维森（Donald Davidson）、J. 麦金西（J. McKinsey）和帕特里克·苏普斯（Patrick Suppes）（1955 年）发展的著名“金钱泵论证”，很明显，不传递的偏好可能会有问题。就像关于赌博的荷兰书论证一样，其中代理的理性受到质疑，因为代理容易被制造出一本针对她的书（即接受一系列使她必然亏损多于可获利的赌注），金钱泵论证关注的是那些容易做出导致确定损失的选择组合的代理。根据金钱泵论证，不传递的偏好是不理性的，因为它们可能促使代理接受一系列交易提议，使代理最终仍拥有与开始相同的选项，但拥有更少的钱。以下是一个相关类型的案例。假设亚历克斯有以下不传递的偏好：他更喜欢拥有_A_型计算机而不是拥有_B_型计算机，更喜欢拥有_B_型计算机而不是拥有_C_型计算机，更喜欢拥有_C_型计算机而不是拥有_A_型计算机。还假设亚历克斯拥有一台_C_型计算机和一百美元的零花钱。最后假设，根据他在不同计算机类型之间的偏好，亚历克斯更喜欢（i）拥有_B_型计算机和比拥有_C_型计算机少一美元的零花钱，而不是拥有_C_型计算机，（ii）拥有_A_型计算机和比拥有_B_型计算机少一美元的零花钱，而不是拥有_B_型计算机，以及（iii）拥有_C_型计算机和比拥有_A_型计算机少一美元的零花钱，而不是拥有_A_型计算机。然后，一系列意外的交易机会可能给亚历克斯带来麻烦。特别是，如果给亚历克斯提供将他目前的（_C_型）计算机和一美元交换成_B_型计算机的机会，亚历克斯的偏好将促使他进行交易。 给予进一步的机会，用他当前的（类型 _B_）计算机和一美元交换成类型 _A_ 的计算机，Alex 的偏好会促使他再次交易。而且，如果有机会用他当前的（类型 _A_）计算机和一美元交换成类型 _C_ 的计算机，Alex 的偏好会促使他进行第三次交易。但是这一系列的交易让 Alex 最终还是拥有了最开始的那种类型的计算机，只剩下了 97 美元。而且，考虑到意想不到的交易机会可能会不断出现，Alex 的处境可能会继续恶化。尽管他重视自己的零花钱，但他的偏好使他容易被用作“金钱泵”。此外，基本金钱泵论证的有趣变体表明，具有像刚才考虑的那种非传递偏好的代理人，即使他有远见并正确预期即将到来的交易机会，也容易被金钱泵。例如，参见 Rabinowicz 2000 和 Dougherty 2014。
+鉴于由唐纳德·戴维森（Donald Davidson）、J. 麦金西（J. McKinsey）和帕特里克·苏普斯（Patrick Suppes）（1955 年）发展的著名“金钱泵论证”，很明显，不传递的偏好可能会有问题。就像关于赌博的荷兰书论证一样，其中代理的理性受到质疑，因为代理容易被制造出一本针对她的书（即接受一系列使她必然亏损多于可获利的赌注），金钱泵论证关注的是那些容易做出导致确定损失的选择组合的代理。根据金钱泵论证，不传递的偏好是不理性的，因为它们可能促使代理接受一系列交易提议，使代理最终仍拥有与开始相同的选项，但拥有更少的钱。以下是一个相关类型的案例。假设亚历克斯有以下不传递的偏好：他更喜欢拥有_A_型计算机而不是拥有_B_型计算机，更喜欢拥有_B_型计算机而不是拥有_C_型计算机，更喜欢拥有_C_型计算机而不是拥有_A_型计算机。还假设亚历克斯拥有一台_C_型计算机和一百美元的零花钱。最后假设，根据他在不同计算机类型之间的偏好，亚历克斯更喜欢（i）拥有_B_型计算机和比拥有_C_型计算机少一美元的零花钱，而不是拥有_C_型计算机，（ii）拥有_A_型计算机和比拥有_B_型计算机少一美元的零花钱，而不是拥有_B_型计算机，以及（iii）拥有_C_型计算机和比拥有_A_型计算机少一美元的零花钱，而不是拥有_A_型计算机。然后，一系列意外的交易机会可能给亚历克斯带来麻烦。特别是，如果给亚历克斯提供将他目前的（_C_型）计算机和一美元交换成_B_型计算机的机会，亚历克斯的偏好将促使他进行交易。 给予进一步的机会，用他当前的（类型 *B*）计算机和一美元交换成类型 *A* 的计算机，Alex 的偏好会促使他再次交易。而且，如果有机会用他当前的（类型 *A*）计算机和一美元交换成类型 *C* 的计算机，Alex 的偏好会促使他进行第三次交易。但是这一系列的交易让 Alex 最终还是拥有了最开始的那种类型的计算机，只剩下了 97 美元。而且，考虑到意想不到的交易机会可能会不断出现，Alex 的处境可能会继续恶化。尽管他重视自己的零花钱，但他的偏好使他容易被用作“金钱泵”。此外，基本金钱泵论证的有趣变体表明，具有像刚才考虑的那种非传递偏好的代理人，即使他有远见并正确预期即将到来的交易机会，也容易被金钱泵。例如，参见 Rabinowicz 2000 和 Dougherty 2014。
 
 即使他不充当货币泵，一个具有非传递偏好的代理人也可能陷入极大的麻烦中。为了看到这一点，考虑沃伦·奎因（Warren Quinn）的“自虐之谜”（1993 年）：假设某人——出于即将明显的原因，奎因称之为自虐者——身上连接着一个特殊的电器设备。该设备有 1001 个设置：0、1、2、3、…、1000，并且工作方式如下：提高一个设置会微小增加施加在自虐者身上的电流量。电流的增量非常小，以至于自虐者无法区分相邻设置之间的差异。然而，他可以区分相距较远的设置之间的差异。实际上，有些设置会让自虐者感受到极度的痛苦。每周一次，自虐者可以比较所有不同的设置。然后，他必须回到原来的设置，并决定是否要提高一个设置。如果他这样做，他将获得 10000 美元，但他永远不能永久返回到较低的设置。像我们大多数人一样，自虐者想增加他的财富，但也关心感觉良好。由于自虐者在相邻设置之间感受不到任何舒适度的差异，但在每次前进时都会获得 10000 美元，他更倾向于对于任意两个连续设置_s_和_s_+1，停在_s_+1 而不是停在_s_。但是，由于他不想为了一大笔财富而生活在极度痛苦中，他也更倾向于停在低设置（如 0）而不是停在高设置（如 1000）。
 
@@ -194,63 +192,63 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 
 ## Bibliography
 
-* Ainslie, George, 1999. “The Dangers of Willpower,” in _Getting Hooked_, Jon Elster and Ole-Jørgen Skog (eds.), Cambridge: Cambridge University Press, pp. 65–92.
-* –––, 2001. _Breakdown of Will_, Cambridge: Cambridge University Press.
-* Andreou, Chrisoula, 2005. “Incommensurable Alternatives and Rational Choice,” _Ratio_, 18(3): 249–61.
-* –––, 2005. “Going from Bad (or Not So Bad) to Worse: On Harmful Addictions and Habits,” _American Philosophical Quarterly_, 42(4): 323–31.
-* –––, 2006. “Environmental Damage and the Puzzle of the Self-Torturer,” _Philosophy & Public Affairs_, 34(1): 95–108.
-* –––, 2007. “There Are Preferences and Then There Are Preferences” in _Economics and the Mind_, Barbara Montero and Mark D. White (eds.), New York: Routledge, pp. 115–126.
-* –––, 2007. “Understanding Procrastination,” _Journal for the Theory of Social Behaviour_, 37(2): 183–93.
-* –––, 2012. “Self-Defeating Self-Governance,” _Philosophical Issues_, 22: 20–34.
-* –––, 2015. “The Real Puzzle of the Self-Torturer: Uncovering a New Dimension of Instrumental Rationality,” _Canadian Journal of Philosophy_, 45: 562–75
-* Andreou, Chrisoula and Mark D. White (eds.), 2010. _The Thief of Time: Philosophical Essays on Procrastination_, Oxford: Oxford University Press.
-* Bratman, Michael, 1983. “Taking Plans Seriously,” _Social Theory and Practice_, 9: 271–87.
-* –––, 1987. _Intentions, Plans, and Practical Reason_, Cambridge, MA: Harvard University Press.
-* –––, 1999. “Toxin, Temptation, and the Stability of Intention,” in _Faces of Intention_, Cambridge: Cambridge University Press, pp. 58–90.
-* –––, 2006. “Temptation Revisited,” in _Structures of Agency_, Oxford: Oxford University Press, pp. 257–282.
-* –––, 2012. “Time, Rationality, and Self-Governance,” _Philosophical Issues_, 22: 73–88.
-* –––, 2014. “Temptation and the Agent’s Standpoint,” _Inquiry_, 57: 293–310.
-* –––, 2018. _Planning, Time, and Self-Governance_, New York: Oxford University Press.
-* Broome, John, 2000. “Incommensurable Values,” in _Well-Being and Morality: Essays in Honour of James Griffin_, Roger Crisp and Brad Hooker (eds.), Oxford: Oxford University Press, pp. 21–38.
-* –––, 2001. “Are Intentions Reasons? And How Should We Cope with Incommensurable Values?” in _Practical Rationality and Preference_, Christopher W. Morris and Arthur Ripstein (eds.), Cambridge: Cambridge University Press, pp. 98–120.
-* Chang, Ruth (ed.), 1997. _Incommensurability, Incomparability, and Practical Reason_, Cambridge, MA: Harvard University Press.
-* –––, 2002. “The Possibility of Parity,” _Ethics_, 112: 659–88
-* Davidson, Donald, McKinsey, J. and Suppes, Patrick, 1955. “Outlines of a Formal Theory of Value,” _Philosophy of Science_, 22: 140–60.
-* Dougherty, Tom, 2011, “On Whether to Prefer Pain to Pass,” _Ethics_, 121: 521–37.
-* –––, 2014, “A Deluxe Money Pump,” _Thought_, 3: 21–29.
-* Elster, Jon, 1984. _Ulysses and the Sirens_, Cambridge: Cambridge University Press.
-* –––, 2000. _Ulysses Unbound_, Cambridge: Cambridge University Press.
-* Elster, Jon and Ole-Jørgen Skog (eds.), 1999. _Getting Hooked_, Cambridge: Cambridge University Press.
-* Ferrero, Luca, 2009. “What Good is a Diachronic Will?,” _Philosophical Studies_, 144: 403–30.
-* Gauthier, David, 1986. _Morals by Agreement_, Oxford: Clarendon Press.
-* –––, 1994. “Assure and Threaten,” _Ethics_, 104(4): 690–716.
-* Greene, Preston and Meghan Sullivan, 2015. “Against Time Bias,” _Ethics_, 125: 947–70.
-* Holton, Richard, 1999. “Intention and Weakness of Will,” _Journal of Philosophy_, 96: 241–62.
-* Kavka, Gregory S., 1983. “The Toxin Puzzle,” _Analysis_, 43: 33–6.
-* Kirby, Kris N. and R. J. Herrnstein, 1995. “Preference Reversals Due to Myopic Discounting of Delayed Reward,” _Psychological Science_, 6: 83–89.
-* Loewenstein, George and Jon Elster (eds.), 1992. _Choice Over Time_, New York: Russell Sage Foundation.
-* Loewenstein, George, Daniel Read, and Roy Baumeister (eds.), 2003. _Time and Decision_, New York: Russell Sage Foundation.
-* MacIntosh, Duncan, 2010. “Intransitive Preferences, Vagueness, and the Structure of Procrastination” in _The Thief of Time: Philosophical Essays on Procrastination_, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 68–86.
-* Mele, Alfred, 2004. “Motivated Irrationality,” in _The Oxford Handbook of Rationality_, Oxford: Oxford University Press, pp. 240–256.
-* McClennen, Edward, 1990. _Rationality and Dynamic Choice_, Cambridge: Cambridge University Press.
-* –––, 1997. “Pragmatic Rationality and Rules,” _Philosophy and Public Affairs_, 26(3): 210–58.
-* Millar, Andrew and Douglas J. Navarick, 1984. “Self-Control and Choice in Humans: Effects of Video Game Playing as a Positive Reinforcer,” _Learning and Motivation_, _15_: 203–218.
-* Nozick, Robert, 1993. _The Nature of Rationality_, Princeton: Princeton University Press.
-* Parfit, Derek, 1984. _Reasons and Persons_, Oxford: Clarendon Press.
-* Portmore, Douglas W., 2019. _Opting for the Best: Oughts and Options_, New York: Oxford University Press.
-* Quinn, Warren, 1993. “The Puzzle of the Self-Torturer,” in _Morality and Action_, Cambridge: Cambridge University Press, pp. 198–209.
-* Rabinowicz, Wlodek, 2000. “Money Pump with Foresight,” in M. J. Almeida (ed.), _Imperceptible Harms and Benefits_ (Library of Ethics and Applied Philosophy: 8), Dordrecht, London: Kluwer Academic, pp. 123–154.
-* Ramsey, Frank P., 1926. “Truth and Probability,” in _The Foundations of Mathematics and other Logical Essays_, R. B. Braithwaite (ed.), London: Routledge & Kegan Paul, 1931, pp. 156–198.
-* Raz, Joseph, 1997. “Incommensurability and Agency,” in _Incommensurability, Incomparability, and Practical Reason_, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 110–128.
-* –––, 1986. _The Morality of Freedom_, Oxford: Clarendon Press.
-* Regan, Donald, 1997. “Value, Comparability, and Choice,” in _Incommensurability, Incomparability, and Practical Reason_, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 129–150.
-* Schelling, Thomas C., 1960. _The Strategy of Conflict_, Cambridge, MA: Harvard University Press.
-* Solnick, Jay V., Catherine H. Kannenberg, David A. Eckerman, and Marcus B. Waller. “An Experimental Analysis of Impulsivity and Impulse Control in Humans,” _Learning and Motivation_, 11: 61–77.
-* Stroud, Sarah, 2010. “Is Procrastination Weakness of Will?” in _The Thief of Time: Philosophical Essays on Procrastination_, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 51–67.
-* Tenenbaum, Sergio, forthcoming. _Rational Powers in Action_, New York: Oxford University Press.
-* Tenenbaum, Sergio and Diana Raffman, 2012. “Vague Projects and the Puzzle of the Self-Torturer,” _Ethics_, 123: 86–112.
-* Tversky, Amos, 1969. “Intransitivity of Preferences,” _Psychological Review_, 76: 31–48.
-* Velleman, David, 2000. “Deciding How to Decide,” in _The Possibility of Practical Reason_, Oxford: Clarendon Press, pp. 221–243.
+* Ainslie, George, 1999. “The Dangers of Willpower,” in *Getting Hooked*, Jon Elster and Ole-Jørgen Skog (eds.), Cambridge: Cambridge University Press, pp. 65–92.
+* –––, 2001. *Breakdown of Will*, Cambridge: Cambridge University Press.
+* Andreou, Chrisoula, 2005. “Incommensurable Alternatives and Rational Choice,” *Ratio*, 18(3): 249–61.
+* –––, 2005. “Going from Bad (or Not So Bad) to Worse: On Harmful Addictions and Habits,” *American Philosophical Quarterly*, 42(4): 323–31.
+* –––, 2006. “Environmental Damage and the Puzzle of the Self-Torturer,” *Philosophy & Public Affairs*, 34(1): 95–108.
+* –––, 2007. “There Are Preferences and Then There Are Preferences” in *Economics and the Mind*, Barbara Montero and Mark D. White (eds.), New York: Routledge, pp. 115–126.
+* –––, 2007. “Understanding Procrastination,” *Journal for the Theory of Social Behaviour*, 37(2): 183–93.
+* –––, 2012. “Self-Defeating Self-Governance,” *Philosophical Issues*, 22: 20–34.
+* –––, 2015. “The Real Puzzle of the Self-Torturer: Uncovering a New Dimension of Instrumental Rationality,” *Canadian Journal of Philosophy*, 45: 562–75
+* Andreou, Chrisoula and Mark D. White (eds.), 2010. *The Thief of Time: Philosophical Essays on Procrastination*, Oxford: Oxford University Press.
+* Bratman, Michael, 1983. “Taking Plans Seriously,” *Social Theory and Practice*, 9: 271–87.
+* –––, 1987. *Intentions, Plans, and Practical Reason*, Cambridge, MA: Harvard University Press.
+* –––, 1999. “Toxin, Temptation, and the Stability of Intention,” in *Faces of Intention*, Cambridge: Cambridge University Press, pp. 58–90.
+* –––, 2006. “Temptation Revisited,” in *Structures of Agency*, Oxford: Oxford University Press, pp. 257–282.
+* –––, 2012. “Time, Rationality, and Self-Governance,” *Philosophical Issues*, 22: 73–88.
+* –––, 2014. “Temptation and the Agent’s Standpoint,” *Inquiry*, 57: 293–310.
+* –––, 2018. *Planning, Time, and Self-Governance*, New York: Oxford University Press.
+* Broome, John, 2000. “Incommensurable Values,” in *Well-Being and Morality: Essays in Honour of James Griffin*, Roger Crisp and Brad Hooker (eds.), Oxford: Oxford University Press, pp. 21–38.
+* –––, 2001. “Are Intentions Reasons? And How Should We Cope with Incommensurable Values?” in *Practical Rationality and Preference*, Christopher W. Morris and Arthur Ripstein (eds.), Cambridge: Cambridge University Press, pp. 98–120.
+* Chang, Ruth (ed.), 1997. *Incommensurability, Incomparability, and Practical Reason*, Cambridge, MA: Harvard University Press.
+* –––, 2002. “The Possibility of Parity,” *Ethics*, 112: 659–88
+* Davidson, Donald, McKinsey, J. and Suppes, Patrick, 1955. “Outlines of a Formal Theory of Value,” *Philosophy of Science*, 22: 140–60.
+* Dougherty, Tom, 2011, “On Whether to Prefer Pain to Pass,” *Ethics*, 121: 521–37.
+* –––, 2014, “A Deluxe Money Pump,” *Thought*, 3: 21–29.
+* Elster, Jon, 1984. *Ulysses and the Sirens*, Cambridge: Cambridge University Press.
+* –––, 2000. *Ulysses Unbound*, Cambridge: Cambridge University Press.
+* Elster, Jon and Ole-Jørgen Skog (eds.), 1999. *Getting Hooked*, Cambridge: Cambridge University Press.
+* Ferrero, Luca, 2009. “What Good is a Diachronic Will?,” *Philosophical Studies*, 144: 403–30.
+* Gauthier, David, 1986. *Morals by Agreement*, Oxford: Clarendon Press.
+* –––, 1994. “Assure and Threaten,” *Ethics*, 104(4): 690–716.
+* Greene, Preston and Meghan Sullivan, 2015. “Against Time Bias,” *Ethics*, 125: 947–70.
+* Holton, Richard, 1999. “Intention and Weakness of Will,” *Journal of Philosophy*, 96: 241–62.
+* Kavka, Gregory S., 1983. “The Toxin Puzzle,” *Analysis*, 43: 33–6.
+* Kirby, Kris N. and R. J. Herrnstein, 1995. “Preference Reversals Due to Myopic Discounting of Delayed Reward,” *Psychological Science*, 6: 83–89.
+* Loewenstein, George and Jon Elster (eds.), 1992. *Choice Over Time*, New York: Russell Sage Foundation.
+* Loewenstein, George, Daniel Read, and Roy Baumeister (eds.), 2003. *Time and Decision*, New York: Russell Sage Foundation.
+* MacIntosh, Duncan, 2010. “Intransitive Preferences, Vagueness, and the Structure of Procrastination” in *The Thief of Time: Philosophical Essays on Procrastination*, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 68–86.
+* Mele, Alfred, 2004. “Motivated Irrationality,” in *The Oxford Handbook of Rationality*, Oxford: Oxford University Press, pp. 240–256.
+* McClennen, Edward, 1990. *Rationality and Dynamic Choice*, Cambridge: Cambridge University Press.
+* –––, 1997. “Pragmatic Rationality and Rules,” *Philosophy and Public Affairs*, 26(3): 210–58.
+* Millar, Andrew and Douglas J. Navarick, 1984. “Self-Control and Choice in Humans: Effects of Video Game Playing as a Positive Reinforcer,” *Learning and Motivation*, *15*: 203–218.
+* Nozick, Robert, 1993. *The Nature of Rationality*, Princeton: Princeton University Press.
+* Parfit, Derek, 1984. *Reasons and Persons*, Oxford: Clarendon Press.
+* Portmore, Douglas W., 2019. *Opting for the Best: Oughts and Options*, New York: Oxford University Press.
+* Quinn, Warren, 1993. “The Puzzle of the Self-Torturer,” in *Morality and Action*, Cambridge: Cambridge University Press, pp. 198–209.
+* Rabinowicz, Wlodek, 2000. “Money Pump with Foresight,” in M. J. Almeida (ed.), *Imperceptible Harms and Benefits* (Library of Ethics and Applied Philosophy: 8), Dordrecht, London: Kluwer Academic, pp. 123–154.
+* Ramsey, Frank P., 1926. “Truth and Probability,” in *The Foundations of Mathematics and other Logical Essays*, R. B. Braithwaite (ed.), London: Routledge & Kegan Paul, 1931, pp. 156–198.
+* Raz, Joseph, 1997. “Incommensurability and Agency,” in *Incommensurability, Incomparability, and Practical Reason*, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 110–128.
+* –––, 1986. *The Morality of Freedom*, Oxford: Clarendon Press.
+* Regan, Donald, 1997. “Value, Comparability, and Choice,” in *Incommensurability, Incomparability, and Practical Reason*, Ruth Chang (ed.), Cambridge, MA: Harvard University Press, pp. 129–150.
+* Schelling, Thomas C., 1960. *The Strategy of Conflict*, Cambridge, MA: Harvard University Press.
+* Solnick, Jay V., Catherine H. Kannenberg, David A. Eckerman, and Marcus B. Waller. “An Experimental Analysis of Impulsivity and Impulse Control in Humans,” *Learning and Motivation*, 11: 61–77.
+* Stroud, Sarah, 2010. “Is Procrastination Weakness of Will?” in *The Thief of Time: Philosophical Essays on Procrastination*, Chrisoula Andreou and Mark D. White (eds.), Oxford: Oxford University Press, pp. 51–67.
+* Tenenbaum, Sergio, forthcoming. *Rational Powers in Action*, New York: Oxford University Press.
+* Tenenbaum, Sergio and Diana Raffman, 2012. “Vague Projects and the Puzzle of the Self-Torturer,” *Ethics*, 123: 86–112.
+* Tversky, Amos, 1969. “Intransitivity of Preferences,” *Psychological Review*, 76: 31–48.
+* Velleman, David, 2000. “Deciding How to Decide,” in *The Possibility of Practical Reason*, Oxford: Clarendon Press, pp. 221–243.
 
 ## Academic Tools
 
@@ -274,4 +272,4 @@ Tenenbaum 和 Raffman 对模糊目标的追求的讨论与 Luca Ferrero 的建�
 I am grateful to the University of Utah Tanner Humanities Center for a mini-grant that supported my research for this entry.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-Chrisoula Andreou <[_andreou@philosophy.utah.edu_](mailto:andreou%40philosophy%2eutah%2eedu)>
+Chrisoula Andreou <[*andreou@philosophy.utah.edu*](mailto:andreou%40philosophy%2eutah%2eedu)>

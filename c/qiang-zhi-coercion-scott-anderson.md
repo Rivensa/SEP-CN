@@ -1,19 +1,18 @@
 # 强制 coercion (Scott Anderson)
 
-_首次发表于 2006 年 2 月 10 日星期五；实质性修订于 2023 年 1 月 23 日星期一_
+*首次发表于 2006 年 2 月 10 日星期五；实质性修订于 2023 年 1 月 23 日星期一*
 
-概念_强制_有两个不同的面孔，对应于其最普通情况中涉及的两个当事方。在一方面，它指出了代理人（强制者）可以使用的一种技术，以便让其他代理人做某事或不做某事。在另一方面，它指出了一种原因，解释为什么代理人（被强制者）有时会做或不做某事。人们普遍认为强制伴随着几个重要的含义，包括它削弱了被针对代理人的自由和责任，并且它是(_pro tanto_)错误和/或侵犯权利。尽管如此，很少有人认为它总是不合理的，因为似乎没有任何社会可以在没有一些授权使用强制的情况下运作。它有助于阻止那些好斗和桀骜不驯的人伤害他人，并且似乎也是抚养孩子中不可或缺的技术。有时认为一个国家的合法性和主权取决于其有效使用强制的能力，并在其领土内针对内部和外部竞争对手垄断其使用。
+概念_强制_有两个不同的面孔，对应于其最普通情况中涉及的两个当事方。在一方面，它指出了代理人（强制者）可以使用的一种技术，以便让其他代理人做某事或不做某事。在另一方面，它指出了一种原因，解释为什么代理人（被强制者）有时会做或不做某事。人们普遍认为强制伴随着几个重要的含义，包括它削弱了被针对代理人的自由和责任，并且它是(*pro tanto*)错误和/或侵犯权利。尽管如此，很少有人认为它总是不合理的，因为似乎没有任何社会可以在没有一些授权使用强制的情况下运作。它有助于阻止那些好斗和桀骜不驯的人伤害他人，并且似乎也是抚养孩子中不可或缺的技术。有时认为一个国家的合法性和主权取决于其有效使用强制的能力，并在其领土内针对内部和外部竞争对手垄断其使用。
 
 由于其有用性和有时具有破坏性的影响，强制是一个长期存在的政治和伦理问题。尽管如此，直到最近，人们对其性质几乎没有持续的学术关注；历史上，许多人似乎愿意将强制的概念视为原始的。然而，自 20 世纪 70 年代以来，强制的性质和功能已成为重要的哲学讨论对象。尽管自 1990 年以来研究的步伐有所放缓，但强制的性质及其影响仍然是一个有争议的问题。
 
 有时候，“强迫”这个术语在口头用语中被使用得非常广泛。例如，人们会听到“强迫”一词被用来描述社会压力（例如，需要符合同龄人的期望或取悦父母）；或者广告、个人成长背景或社会结构的限制性或操纵性影响（例如，参与资本主义经济的必要性）。有时候，它也被视为一个非常普遍的概念，涵盖几乎任何一种对个人权利的侵犯。这些用法在哲学讨论中并不完全陌生。然而，接下来的讨论将专注于一个更狭窄的意义，更符合历史上重要的哲学作家和当代理论家们对这个术语的使用。根据规定，这种用法将排除一些事物，比如仅仅是不赞成、情绪操纵或哄骗。 （“被排除”的内容存在争议，如下文所述。）这种对边界的最小设定仍然为对于如何最好地理解强迫的运作方式、其前提条件和影响而产生争议提供了相当大的空间。
 
-
 ***
 
 ## 1. 历史
 
-在历史上，强权角色使用强制手段一直是哲学家和法理论家非常关注的问题。然而，对理解“强制”概念的详细关注是一个相对较新的现象。这种不一致的关注的一个影响是，有时很难确定早期作家在讨论“强制”时的确切含义，以及决定“强制”是否捕捉到与其他经常使用的术语（如_暴力_、_强迫_、_惩罚_、_力量_或_干涉_）有所不同或相关的东西。对一些著名思想家的简要调查表明，强制通常被理解为利用某种权力形式来获得对他人（包括自我保护）的优势，惩罚不遵从要求的人，并将自己的意志强加于其他行动者的意志之上。这些功能所需的权力种类是国家和其他强制或暴力代理所拥有的。强制最清晰、最重要的用途之一被理解为国家通过直接使用武力或通过对违法者施加的惩罚来执行法律。认为国家使用强制是出于防止私人暴力或强制行为，以及惩罚未能遵守协议的行为。认为这些公共强制手段是合理的，因为它们使得那些没有感情或血缘联系的人能够进行私人合作和和平共处成为可能。
+在历史上，强权角色使用强制手段一直是哲学家和法理论家非常关注的问题。然而，对理解“强制”概念的详细关注是一个相对较新的现象。这种不一致的关注的一个影响是，有时很难确定早期作家在讨论“强制”时的确切含义，以及决定“强制”是否捕捉到与其他经常使用的术语（如_暴力_、*强迫*、*惩罚*、*力量_或_干涉*）有所不同或相关的东西。对一些著名思想家的简要调查表明，强制通常被理解为利用某种权力形式来获得对他人（包括自我保护）的优势，惩罚不遵从要求的人，并将自己的意志强加于其他行动者的意志之上。这些功能所需的权力种类是国家和其他强制或暴力代理所拥有的。强制最清晰、最重要的用途之一被理解为国家通过直接使用武力或通过对违法者施加的惩罚来执行法律。认为国家使用强制是出于防止私人暴力或强制行为，以及惩罚未能遵守协议的行为。认为这些公共强制手段是合理的，因为它们使得那些没有感情或血缘联系的人能够进行私人合作和和平共处成为可能。
 
 虽然一个人可以更早开始，但阿奎那提供了一个被视为传统、经典的强迫理解、其重要性和后果的图景。在《神学大全》中，关于强迫（有时也被描述为“胁迫”）的讨论在几个标题下反复出现。在讨论必然性和意志时，他指出当我们谈论必然性时，我们指的是“必须发生的事情”（阿奎那，《神学大全》，I.II Q6 A6）。事物可能具有多种必要性。他说，强迫是一种必要性，其中一个行动者的活动——强迫者——使另一个行动者的某事变得必要。 “强迫的必要性”是指“当某人被某个行动者强迫，以至于他无法做相反的事情时，某事必须发生”（同上）。这种必要性“完全违背意志”（同上），这意味着由于强迫而做的事情并非自愿。对于阿奎那来说，说某事是自愿的意味着它是由一个人的倾向所决定的；相比之下，强迫与暴力和非自愿的概念联系在一起。
 
@@ -85,7 +84,7 @@ Kelsen 继续将拘留涉嫌犯罪的人、为保护拘留、拘留精神病人�
 
 J. R. Lucas 对类似思想提出了稍有不同的看法，强调了一种技术的重要性，通过这种技术，一个代理人（例如国家）可以确保其决策得以实施。
 
-\[W]e are concerned with the _enforcement_ of decisions: we are considering the conditions under which decisions will be carried out regardless of the recalcitrance of the bloody minded. We therefore define _force_ in terms of bloody-mindedness, of what happens irrespective of how recalcitrant a man is, of what happens to him willy-nilly. Force, then, we say, is being used against a man, if in his private experience or in his environment either something is being done which he does not want to be done but which he is unable to prevent in spite of all his efforts, or he is being prevented, in spite of all his efforts, from doing something which he wants to do, and which he otherwise could have done by himself alone. A man is being _coerced_ when either force is being used against him or his behaviour is being determined by the threat of force (Lucas 1966, 57; emphasis in the original).
+\[W]e are concerned with the *enforcement* of decisions: we are considering the conditions under which decisions will be carried out regardless of the recalcitrance of the bloody minded. We therefore define *force* in terms of bloody-mindedness, of what happens irrespective of how recalcitrant a man is, of what happens to him willy-nilly. Force, then, we say, is being used against a man, if in his private experience or in his environment either something is being done which he does not want to be done but which he is unable to prevent in spite of all his efforts, or he is being prevented, in spite of all his efforts, from doing something which he wants to do, and which he otherwise could have done by himself alone. A man is being *coerced* when either force is being used against him or his behaviour is being determined by the threat of force (Lucas 1966, 57; emphasis in the original).
 
 %%
 
@@ -101,12 +100,12 @@ J. R. Lucas 对类似思想提出了稍有不同的看法，强调了一种技�
 
 诺齐克的文章是这些早期作品中影响最大的。除了最先发表外，他的文章建立了一个思考强迫的框架，提供了一个直观引人入胜的强迫运作方式的图景。诺齐克通过列出判断命题_P_强迫_Q_的真实性所需和充分条件的清单来分析强迫。略有简化，他认为_P_强迫_Q_当且仅当：
 
-1. _P_ 旨在阻止 _Q_ 选择执行动作 _A_;
-2. _P_ 向 _Q_ 传达了一个声明;
-3. _P_的说法表明，如果_Q_执行_A_，那么_P_将导致某种后果，使得_Q_对于执行_A_不如不执行_A_；
+1. *P* 旨在阻止 *Q* 选择执行动作 *A*;
+2. *P* 向 *Q* 传达了一个声明;
+3. *P_的说法表明，如果_Q_执行_A*，那么_P_将导致某种后果，使得_Q_对于执行_A_不如不执行_A_；
 4. _P_的主张对_Q_是可信的；
-5. _Q_ 不做 _A_;
-6. _Q_ 不做 _A_ 的部分原因是为了减少 _P_ 会导致的后果，如(3)中所宣布的（Nozick 1969, 441–445）。
+5. *Q* 不做 *A*;
+6. *Q* 不做 *A* 的部分原因是为了减少 *P* 会导致的后果，如(3)中所宣布的（Nozick 1969, 441–445）。
 
 许多理论家明确或隐含地采纳了这一框架，并且它几乎影响了关于这一主题的所有后续分析哲学讨论。后续部分将讨论诺齐克分析中受到最多关注和争论的方面。本节的其余部分概述了诺齐克分析与上文提到的更传统的对胁迫的理解之间一些较少被注意到的差异。具体来说，（1）它仅将胁迫与提议（例如，条件威胁\[[6](https://plato.stanford.edu/entries/coercion/notes.html#note-6)]）联系起来，并排除了直接使用武力或暴力\[[7](https://plato.stanford.edu/entries/coercion/notes.html#note-7)]；（2）它坚持认为只有在被胁迫者默认情况下胁迫才会发生；以及（3）它明确规定胁迫仅取决于被胁迫者选择是否采取特定行动_A_，并要求关于胁迫的判断必须涉及被胁迫者心理状态的事实，例如她对在考虑胁迫者提议的情况下_A_的后果的评估。这些差异的整体效果是将对胁迫的分析集中在被胁迫者如何受其影响上，而不是在胁迫者所做的事情上，以及他成功地做这些事情所需的条件。 （参见安德森 2008b。）
 
@@ -122,7 +121,7 @@ Nozick 的框架表明，强迫必然成功：如果被强迫者不按要求行�
 
 #### 2.1.3 强迫是否在概念上局限于特定的被强迫行为？
 
-最后，诺齐克将他的分析框架与被强迫者采取或不采取的某些特定行动_A_联系起来。即使几乎所有随后的评论者都认为将强迫与采取或放弃特定行动联系起来是很自然的，尽管这引发了一些问题，至少诺齐克本人似乎也意识到了这一点。在他的论文的第二部分中进行的简短的迂回中，诺齐克提出了以下类型的问题：如果_P_强迫_Q_做_A_，而_B_和_C_是做_A_的唯一方式，那么_P_是否强迫_Q_去做_B_（假设那是_Q_选择的手段）？同样，如果_P_强迫_Q_不做_A_，而_A_是做_B_的必要先决条件，那么_P_是否强迫_Q_不做_B_？_Q_是否已经在瞄准/希望/期望做_B_？更一般地说，如果由于_P_先前的强迫行为，行动_A_对于_Q_不再可能（也许_Q_根本没有考虑过），那么_P_是否强迫_Q_不去做_A_？诺齐克提出了这些问题，但没有多加重视它们的意义（参见诺齐克 1969 年，445-47 页）。然而，如果认真对待这些问题，它们将迫使理论家们对分析强迫的方式进行一些重大修订。它们表明，严格将强迫与采取或放弃的行动等同起来可能存在困难，因为可能无法确定这种描述包括哪些行动。
+最后，诺齐克将他的分析框架与被强迫者采取或不采取的某些特定行动_A_联系起来。即使几乎所有随后的评论者都认为将强迫与采取或放弃特定行动联系起来是很自然的，尽管这引发了一些问题，至少诺齐克本人似乎也意识到了这一点。在他的论文的第二部分中进行的简短的迂回中，诺齐克提出了以下类型的问题：如果_P_强迫_Q_做_A_，而_B_和_C_是做_A_的唯一方式，那么_P_是否强迫_Q_去做_B_（假设那是_Q_选择的手段）？同样，如果_P_强迫_Q_不做_A_，而_A_是做_B_的必要先决条件，那么_P_是否强迫_Q_不做_B_？*Q_是否已经在瞄准/希望/期望做_B*？更一般地说，如果由于_P_先前的强迫行为，行动_A_对于_Q_不再可能（也许_Q_根本没有考虑过），那么_P_是否强迫_Q_不去做_A_？诺齐克提出了这些问题，但没有多加重视它们的意义（参见诺齐克 1969 年，445-47 页）。然而，如果认真对待这些问题，它们将迫使理论家们对分析强迫的方式进行一些重大修订。它们表明，严格将强迫与采取或放弃的行动等同起来可能存在困难，因为可能无法确定这种描述包括哪些行动。
 
 更一般地说，诺齐克的分析强调被强迫者的行动选择发生变化，这是由于强迫者的提议影响了她行动的理由。虽然这当然是一个区分被迫行为和非被迫行为的合理方法，但它把焦点放在被强迫者如何感知自己的处境上；只有通过这种反思，它才考虑到强迫者如何能够创造这种感知。换句话说，它排除了强迫者使用的标准手段（强制、暴力，甚至经济剥夺），而是将对被强迫者行动成本和收益的各种改变视为可能的强迫迹象。虽然这种更全面的对强迫的处理方式可能成功地包括了传统理论所忽略的强迫方式，但它给理论区分强迫性提议和非强迫性提议带来了困难挑战。因此，毫不奇怪，这些问题已成为后来大多数关于这一主题的理论化的焦点。
 
@@ -132,7 +131,7 @@ Nozick 的框架表明，强迫必然成功：如果被强迫者不按要求行�
 
 大多数人会认识到胁迫与威胁的联系是常识问题：持械抢劫犯、黑手党、年幼儿童的父母以及国家都会发出有条件威胁，目的是减少某些行为的合法性，通过比较使其他行为更具吸引力。然而，请注意，提议也可能具有与胁迫威胁相同的一般意图：即使某些行为更具吸引力，其他行为则不那么吸引。考虑一个由_P_发出的有条件威胁的基本结构，将不良后果_C_与_Q_的某个行动_A_联系起来：
 
-_P_ 声称（_P_ 只有在_Q_ 做_A_时才会带来后果_C_）。
+*P* 声称（*P* 只有在_Q_ 做_A_时才会带来后果_C_）。
 
 这个命题与_P_普通的提议具有相同的结构，即_P_愿意做一些_Q_希望的事情，前提是_Q_同意为此付费，否则不会。相反，任何普通的提议都具有威胁的结构。这表明任何提议都可以被解读为威胁或提议，这取决于提议与某些可指定的外部因素之间的关系。（“你的钱还是你的生命”可能同样被一个小巷劫匪或制药公司提出；在一个情况下这是一种抢劫，在另一个情况下可能是一种救命的提议。）威胁会胁迫而提议不会，这个想法经常被认为与威胁提议使其接收者比原本更糟这一事实有关。如果是这样，我们需要指定如何挑选和评估这种比较中的相关事物，这比起初看起来要棘手得多。首先考虑提议的哪个方面对于这种比较是相关的问题；然后考虑应该使用哪个相关比较案例（通常称为“基线”）。
 
@@ -170,11 +169,11 @@ Nozick 提供了两个最著名的案例，其中规范性和非规范性基准�
 
 **奴隶案例：**
 
-> _P_ 是一个奴隶主，经常殴打他的奴隶 _Q_。 有一天，_P_ 建议如果且仅如果 _Q_ 现在做 _A_，他将免除 _Q_ 的定期殴打。
+> *P* 是一个奴隶主，经常殴打他的奴隶 *Q*。 有一天，*P* 建议如果且仅如果 *Q* 现在做 *A*，他将免除 *Q* 的定期殴打。
 
-_Q_ 更倾向于不被打败，因此我们寻求条件
+*Q* 更倾向于不被打败，因此我们寻求条件
 
-> (e) 如果_Q_不做_A_，_P_将会打败_Q_。
+> (e) 如果_Q_不做_A_，*P_将会打败_Q*。
 
 由于_P_经常击败_Q_，这个条件的生效使得_Q_并不比_Q_通常或预期的情况更糟（从统计学角度来看）。因此，根据这种对正常的理解方式，_P_的提议相当于一种提议，而不是一种威胁。然而，我们可以合理地认为，如果_Q_选择通过做_A_来避免被打，_Q_的选择是对被打的威胁做出的回应，因此是被强迫的。
 
@@ -184,7 +183,7 @@ _Q_ 更倾向于不被打败，因此我们寻求条件
 
 一些理论家注意到，提案接收者希望发生的事情可能与道德和预测基线都不同。例如，迈克尔·戈尔（Michael Gorr）认为，如果在基线分歧时偏好很重要，“不清楚为什么在两个基线一致的情况下它们就不那么重要。” 因此，他支持一种“在所有情况下都将主体的偏好作为控制因素”的观点（Gorr 1986, 398–399; 另请参见 Rhodes 2000）。然而，这一建议的困难在于很难制定关于偏好将如何影响事态发展的约束；人们可以希望他人做任何事情或不做任何事情。假设我们同意，在道德和预测意义上，懒惰的工人被解雇，拒绝支付水电费的客户被切断电源是正常的。当然，工人和客户可能更希望无偿获得报酬，以及免费使用电力。与这些基线相比，提议解雇或切断某人的电力似乎是为了给某个（非）行动附加不良后果而不遗余力。根据戈尔的标准，这两种威胁似乎都算是强制威胁，但似乎都是基于提议和接受的普通、非强制性商业的一部分。无论如何，很难看出一个完全基于偏好的基线解释如何能够避免在许多情况下看到强制，而我们的理论前观点会否认这一点。
 
-那些选择道德化基准方法的人似乎提供了一个更合理的方法。这些理论家中最著名的是艾伦·沃瑟默，他的著作《_强迫_》设定了当前在这一领域持续学术研究的标准和起点。由于只有威胁才会强迫，但并非所有威胁都会，他提供了一个双重测试，用于判断一个提议是否构成强迫威胁。如果提议者表示，如果他的要求被拒绝，他会让接受者比接受者应得的更糟，那么这个提议就构成了一种_威胁_。然而，仅仅因为某事威胁了某人并不足以支持它强迫任何人的主张；这种威胁可能是错误的，但也可能微不足道。因此，沃瑟默要求被强迫者所面临的选择是这样的，以至于她别无选择只能屈服。沃瑟默认为，这也需要一个具有特定背景的、道德化的判断。例如，一个受到威胁的殴打让一个人“别无选择”只能签署合同；但选择去犯谋杀可能就不能这样说。
+那些选择道德化基准方法的人似乎提供了一个更合理的方法。这些理论家中最著名的是艾伦·沃瑟默，他的著作《*强迫*》设定了当前在这一领域持续学术研究的标准和起点。由于只有威胁才会强迫，但并非所有威胁都会，他提供了一个双重测试，用于判断一个提议是否构成强迫威胁。如果提议者表示，如果他的要求被拒绝，他会让接受者比接受者应得的更糟，那么这个提议就构成了一种_威胁_。然而，仅仅因为某事威胁了某人并不足以支持它强迫任何人的主张；这种威胁可能是错误的，但也可能微不足道。因此，沃瑟默要求被强迫者所面临的选择是这样的，以至于她别无选择只能屈服。沃瑟默认为，这也需要一个具有特定背景的、道德化的判断。例如，一个受到威胁的殴打让一个人“别无选择”只能签署合同；但选择去犯谋杀可能就不能这样说。
 
 Wertheimer 的方法是通过调查美国的法律推理及其普通法传统来发展和捍卫，涉及合同、刑事责任、认罪协议、勒索以及对搜查和医疗程序的同意等问题。他的工作在许多人中产生了影响，这些人试图确定法律对各种强制现象应该如何表述，Wertheimer 本人在随后的工作中进一步应用了他的理论，包括一本关于性关系同意的书（Wertheimer 2004）。Wertheimer 的道德化描述和对强制的道德化理论更普遍地提出了一些困难，即对于“合理的强制”，比如执法，如何理解，因为它们倾向于将强制行为与不道德行为联系起来。这些困难中的一些在下文的第 3.4 节中进行了讨论。
 
@@ -332,7 +331,7 @@ Lamond 对法律强制性的主张源自多种考虑，但毫无疑问其中之�
 
 从法律与强制的关系转向更广泛的问题，即国家和政治如何与强制相关，政治理论处理强制作为国家政策工具的角色有多种方式，并就强制如何影响政治行动的范围和合法性提出论点。马克斯·韦伯以其对国家在领土范围内合法垄断物理强制力的定义而闻名：
 
-> 一个政治组织将被称为“统治组织”，在于其存在以及其命令的有效性能够通过行政人员的物理强制的应用和威胁在特定地理区域内持续得到保证。如果一个机构化的政治企业（_Anstaltsbetrieb_）能够宣称其行政人员在执行其命令时拥有合法物理力量的垄断，那么它将被称为一个国家（韦伯 2019 \[1921]，§17，135–136；另见韦伯 1946 \[1921]）。
+> 一个政治组织将被称为“统治组织”，在于其存在以及其命令的有效性能够通过行政人员的物理强制的应用和威胁在特定地理区域内持续得到保证。如果一个机构化的政治企业（*Anstaltsbetrieb*）能够宣称其行政人员在执行其命令时拥有合法物理力量的垄断，那么它将被称为一个国家（韦伯 2019 \[1921]，§17，135–136；另见韦伯 1946 \[1921]）。
 
 自由派，广义上理解，对国家的权力及其潜在的滥用以及党派对异议人士的支配和宗派干预印象深刻，因此确定其使用强制手段产生了一系列独特的政治关切。例如，G. E. M. Anscombe 认为，如果要区分国家和黑手党，那只是因为国家可能会在秩序良好时赢得对其臣民的权威，她理解为“被服从的权利”（Anscombe 1981, 132）。Judith Shklar 在她的“恐惧的自由主义”中，着重指出了现代自由主义国家的独特性和历史罕见性，这种国家的政府权力受到限制，不使用残忍和恐惧作为国家政策工具（Shklar 1989）。其他人，如 Charles Larmore 和 Gerald Gaus，认为强制是一种独特的问题性人际强加。因此，由于国家被理解为最主要的强制性代理，国家的正当化在很大程度上取决于是否有足够的理由来证明其使用强制手段以确保服从其决定的正当性（参见 Larmore 1996，第 6 章；Gaus 2003）。
 
@@ -386,142 +385,142 @@ Thomas Nagel 也以类似的推论进行推理，并将其扩展到为排斥移�
 
 ## Bibliography
 
-* Abizadeh, Arash (2008). “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders,” _Political Theory_, 36: 37–65.
-* ––– (2010). “Democratic Legitimacy and State Coercion: A Reply to David Miller,” _Political Theory_, 38: 121–130.
-* Alexander, Lawrence A. (1983). “Zimmerman on Coercive Wage Offers,” _Philosophy and Public Affairs_, 12: 160–164.
-* Anderson, Scott (2008a). “Of Theories of Coercion, Two Axes, and the Importance of the Coercer,” _The Journal of Moral Philosophy_, 5: 394–422.
-* ––– (2008b). “How Did There Come to be Two Kinds of Coercion?” Chapter 1 in _Coercion and the State_, David Reidy and Walter Riker (eds.), New York: Kluwer/Springer, 17–30.
-* ––– (2010). “The Enforcement Approach to Coercion,” _Journal of Ethics and Social Philosophy_, 5: 1–31.
-* ––– (2011). “On the Immorality of Threatening,” _Ratio_, 24: 229–242.
-* ––– (2016). “Conceptualizing Rape as Coerced Sex,” _Ethics_, 127: 50–87.
-* Anscombe, G. E. M. (1981). “On the Source of the Authority of the State,” in G. E. M. Anscombe, _Collected Papers_ (Volume 3: Ethics, Religion and Politics), Minneapolis: University of Minnesota Press.
-* Aquinas, Thomas (1920 \[1273]). _The Summa Theologica of St. Thomas Aquinas_, second and revised edition, translated by Fathers of the English Dominican Province. \[[Available online](http://www.newadvent.org/summa/)].
+* Abizadeh, Arash (2008). “Democratic Theory and Border Coercion: No Right to Unilaterally Control Your Own Borders,” *Political Theory*, 36: 37–65.
+* ––– (2010). “Democratic Legitimacy and State Coercion: A Reply to David Miller,” *Political Theory*, 38: 121–130.
+* Alexander, Lawrence A. (1983). “Zimmerman on Coercive Wage Offers,” *Philosophy and Public Affairs*, 12: 160–164.
+* Anderson, Scott (2008a). “Of Theories of Coercion, Two Axes, and the Importance of the Coercer,” *The Journal of Moral Philosophy*, 5: 394–422.
+* ––– (2008b). “How Did There Come to be Two Kinds of Coercion?” Chapter 1 in *Coercion and the State*, David Reidy and Walter Riker (eds.), New York: Kluwer/Springer, 17–30.
+* ––– (2010). “The Enforcement Approach to Coercion,” *Journal of Ethics and Social Philosophy*, 5: 1–31.
+* ––– (2011). “On the Immorality of Threatening,” *Ratio*, 24: 229–242.
+* ––– (2016). “Conceptualizing Rape as Coerced Sex,” *Ethics*, 127: 50–87.
+* Anscombe, G. E. M. (1981). “On the Source of the Authority of the State,” in G. E. M. Anscombe, *Collected Papers* (Volume 3: Ethics, Religion and Politics), Minneapolis: University of Minnesota Press.
+* Aquinas, Thomas (1920 \[1273]). *The Summa Theologica of St. Thomas Aquinas*, second and revised edition, translated by Fathers of the English Dominican Province. \[[Available online](http://www.newadvent.org/summa/)].
 * Bayles, Michael D. (1972). “A Concept of Coercion,” In Pennock and Chapman (1972), 16–29.
-* ––– (1974). “Coercive Offers and Public Benefits,” _The Personalist_, 55: 139–144.
-* Benditt, Theodore (1979). “Threats and Offers,” _The Personalist_, 58: 382–384.
-* Blake, Michael (2001). “Distributive Justice, State Coercion, and Autonomy,” _Philosophy and Public Affairs_, 30: 257–296.
-* Berman, Mitchell (1998). “The Evidentiary Theory of Blackmail: Taking Motives Seriously,” _The University of Chicago Law Review_, 65: 795–878.
-* ––– (2001). “Coercion without Baselines: Unconstitutional Conditions in Three Dimensions,” _Georgetown Law Journal_, 90: 1–112.
-* ––– (2002). “The Normative Functions of Coercion Claims,” _Legal Theory_, 8: 45–89.
-* Bird, Colin (2014). “Coercion and Public Justification,” _Politics, Philosophy & Economics_, 13: 189–214.
-* Brake, Elizabeth (2012). _Minimizing Marriage: What Political Liberalism Implies for Marriage Law_, New York: Oxford University Press.
-* Carr, Craig L. (1988). “Coercion and Freedom,” _American Philosophical Quarterly_, 25: 59–67.
-* Chan, Joseph (2000). “Legitimacy, Unanimity, and Perfectionism,” _Philosophy and Public Affairs_, 29: 5–42.
-* Christie, George (1999). “The Defense of Necessity Considered from the Legal and Moral Points of View,” _Duke Law Journal_, 48: 975–1042.
-* Cohen, G. A. (1997). “Where the Action Is: On the Site of Distributive Justice,” _Philosophy and Public Affairs_, 26: 3–30.
-* DeRose, Keith (1992). “Deterrent Threats: What Can Matter,” _Philosophical Studies_, 67: 241–260.
-* Dougherty, Tom (2021). “Sexual Misconduct on a Scale: Gravity, Coercion, and Consent,” _Ethics_, 131: 319–344.
-* Dworkin, Gerald (1985). “Nuclear Intentions,” _Ethics_, 95: 445–460.
-* Eberle, Christopher J. (2002). _Religious Conviction in Liberal Politics_, New York: Cambridge University Press.
-* Eckert, Amy (2008). “Obligations Beyond National Borders: International Institutions and Distributive Justice,” _Journal of Global Ethics_, 4: 67–78.
-* Edmundson, William (1995). “Is Law Coercive?” _Legal Theory_, 1: 81–111.
-* ––– (1998). _Three Anarchical Fallacies: An Essay on Political Authority_, New York: Cambridge University Press.
-* Feinberg, Joel (1986). _Harm to Self_, New York: Oxford University Press, especially chs. 23–24.
-* Ferzan, Kimberly Kessler (2018). “Consent and Coercion,” _Arizona State Law Journal_, 50: 951–1008.
-* Fowler, Mark (1982). “Coercion and Practical Reason,” _Social Theory and Practice_, 8: 329–355.
-* Frankfurt, Harry (1988 \[1973]). “Coercion and Moral Responsibility,” in _The Importance of What We Care About_, New York: Cambridge University Press. First published in _Essays on Freedom of Action_, Ted Honderich (ed.), London: Routledge & Kegan Paul, 65–86.
-* Galoob, Stephen (2016). “Coercion, Fraud, and What is Wrong with Blackmail,” _Legal Theory_, 22: 22–58.
-* Galoob, Stephen and Erin Sheley (2021). “Reconceiving Coercion-Based Criminal Defenses,” _The Journal of Criminal Law and Criminology_, 112: 265–328.
-* Garnett, Michael (2018). “Coercion: The Wrong and the Bad,” _Ethics_, 128: 545–573.
-* Gaus, Gerald (1996). _Justificatory Liberalism:_ _An Essay on Epistemology and Political Theory_, New York: Oxford University Press.
-* ––– (2003). “Liberal Neutrality: A Compelling and Radical Principle,” in _Perfectionism and Neutrality: Essays in Liberal Theory_, Steven Wall and George Klosko (eds.), Lanham, MD: Rowman & Littlefield Publishers.
-* Gaus, Gerald (2010). “Coercion, Ownership, and the Redistributive State: Justificatory Liberalism’s Classical Tilt,” _Social Philosophy and Policy_, 27: 233–275.
-* Gerver, Mollie (2021). “Consent and Third-Party Coercion,” _Ethics_, 131: 246–269.
-* Gorr, Michael (1986). “Toward a Theory of Coercion,” _Canadian Journal of Philosophy_, 16: 383–406.
-* Green, Stuart P. (2005). “Theft by Coercion: Extortion, Blackmail, and Hard Bargaining,” _Washburn Law Journal_, 44: 553–582.
-* Gunderson, Martin (1979). “Threats and Coercion,” _Canadian Journal of Philosophy_, 9: 247–259.
-* Hardin, Russell (1986). “Deterrence and Moral Theory.” _Canadian Journal of Philosophy_, Supplementary Volume 12: 161–193.
-* Haksar, Vinit (1976). “Coercive Proposals,” _Political Theory_, 4: 65–79.
-* Hassoun, Nicole (2012). _Globalization and Global Justice_, New York: Cambridge University Press.
-* ––– (2015). “Basic Capabilities, Coercion, and Liberal Legitimacy,” _Journal of Social Philosophy_, 46: 178–196.
+* ––– (1974). “Coercive Offers and Public Benefits,” *The Personalist*, 55: 139–144.
+* Benditt, Theodore (1979). “Threats and Offers,” *The Personalist*, 58: 382–384.
+* Blake, Michael (2001). “Distributive Justice, State Coercion, and Autonomy,” *Philosophy and Public Affairs*, 30: 257–296.
+* Berman, Mitchell (1998). “The Evidentiary Theory of Blackmail: Taking Motives Seriously,” *The University of Chicago Law Review*, 65: 795–878.
+* ––– (2001). “Coercion without Baselines: Unconstitutional Conditions in Three Dimensions,” *Georgetown Law Journal*, 90: 1–112.
+* ––– (2002). “The Normative Functions of Coercion Claims,” *Legal Theory*, 8: 45–89.
+* Bird, Colin (2014). “Coercion and Public Justification,” *Politics, Philosophy & Economics*, 13: 189–214.
+* Brake, Elizabeth (2012). *Minimizing Marriage: What Political Liberalism Implies for Marriage Law*, New York: Oxford University Press.
+* Carr, Craig L. (1988). “Coercion and Freedom,” *American Philosophical Quarterly*, 25: 59–67.
+* Chan, Joseph (2000). “Legitimacy, Unanimity, and Perfectionism,” *Philosophy and Public Affairs*, 29: 5–42.
+* Christie, George (1999). “The Defense of Necessity Considered from the Legal and Moral Points of View,” *Duke Law Journal*, 48: 975–1042.
+* Cohen, G. A. (1997). “Where the Action Is: On the Site of Distributive Justice,” *Philosophy and Public Affairs*, 26: 3–30.
+* DeRose, Keith (1992). “Deterrent Threats: What Can Matter,” *Philosophical Studies*, 67: 241–260.
+* Dougherty, Tom (2021). “Sexual Misconduct on a Scale: Gravity, Coercion, and Consent,” *Ethics*, 131: 319–344.
+* Dworkin, Gerald (1985). “Nuclear Intentions,” *Ethics*, 95: 445–460.
+* Eberle, Christopher J. (2002). *Religious Conviction in Liberal Politics*, New York: Cambridge University Press.
+* Eckert, Amy (2008). “Obligations Beyond National Borders: International Institutions and Distributive Justice,” *Journal of Global Ethics*, 4: 67–78.
+* Edmundson, William (1995). “Is Law Coercive?” *Legal Theory*, 1: 81–111.
+* ––– (1998). *Three Anarchical Fallacies: An Essay on Political Authority*, New York: Cambridge University Press.
+* Feinberg, Joel (1986). *Harm to Self*, New York: Oxford University Press, especially chs. 23–24.
+* Ferzan, Kimberly Kessler (2018). “Consent and Coercion,” *Arizona State Law Journal*, 50: 951–1008.
+* Fowler, Mark (1982). “Coercion and Practical Reason,” *Social Theory and Practice*, 8: 329–355.
+* Frankfurt, Harry (1988 \[1973]). “Coercion and Moral Responsibility,” in *The Importance of What We Care About*, New York: Cambridge University Press. First published in *Essays on Freedom of Action*, Ted Honderich (ed.), London: Routledge & Kegan Paul, 65–86.
+* Galoob, Stephen (2016). “Coercion, Fraud, and What is Wrong with Blackmail,” *Legal Theory*, 22: 22–58.
+* Galoob, Stephen and Erin Sheley (2021). “Reconceiving Coercion-Based Criminal Defenses,” *The Journal of Criminal Law and Criminology*, 112: 265–328.
+* Garnett, Michael (2018). “Coercion: The Wrong and the Bad,” *Ethics*, 128: 545–573.
+* Gaus, Gerald (1996). *Justificatory Liberalism:* *An Essay on Epistemology and Political Theory*, New York: Oxford University Press.
+* ––– (2003). “Liberal Neutrality: A Compelling and Radical Principle,” in *Perfectionism and Neutrality: Essays in Liberal Theory*, Steven Wall and George Klosko (eds.), Lanham, MD: Rowman & Littlefield Publishers.
+* Gaus, Gerald (2010). “Coercion, Ownership, and the Redistributive State: Justificatory Liberalism’s Classical Tilt,” *Social Philosophy and Policy*, 27: 233–275.
+* Gerver, Mollie (2021). “Consent and Third-Party Coercion,” *Ethics*, 131: 246–269.
+* Gorr, Michael (1986). “Toward a Theory of Coercion,” *Canadian Journal of Philosophy*, 16: 383–406.
+* Green, Stuart P. (2005). “Theft by Coercion: Extortion, Blackmail, and Hard Bargaining,” *Washburn Law Journal*, 44: 553–582.
+* Gunderson, Martin (1979). “Threats and Coercion,” *Canadian Journal of Philosophy*, 9: 247–259.
+* Hardin, Russell (1986). “Deterrence and Moral Theory.” *Canadian Journal of Philosophy*, Supplementary Volume 12: 161–193.
+* Haksar, Vinit (1976). “Coercive Proposals,” *Political Theory*, 4: 65–79.
+* Hassoun, Nicole (2012). *Globalization and Global Justice*, New York: Cambridge University Press.
+* ––– (2015). “Basic Capabilities, Coercion, and Liberal Legitimacy,” *Journal of Social Philosophy*, 46: 178–196.
 * Held, Virginia (1972). “Coercion and Coercive Offers,” In Pennock and Chapman (1972).
-* Hetherington, Andrew (1999). “The Real Distinction Between Threats and Offers,” _Social Theory and Practice_, 25: 211–242.
-* Himma, Kenneth Einar (2016). “The Authorisation of Coercive Enforcement Mechanisms as a Conceptually Necessary Feature of Law,” _Jurisprudence_, 7: 593–626.
-* Hobbes, Thomas (1651). _Leviathan_. \[[Available online](http://www.gutenberg.org/dirs/etext02/lvthn10.txt)].
-* Huemer, Michael (2010). “Is There a Right To Immigrate?” _Social Theory and Practice_, 36: 429–461.
-* Julius, A. J. (2013). “The Possibility of Exchange,” _Politics, Philosophy, and Economics_, 12: 361–374.
-* Kant, Immanuel (1996 \[1797]). _The Metaphysics of Morals_, Mary Gregor (trans.), New York: Cambridge University Press.
-* ––– (1997 \[1785]). _The Groundwork of the Metaphysics of Morals_, Mary Gregor (trans.), New York: Cambridge University Press.
-* Kavka, Gregory (1978). “Some Paradoxes of Deterrence,” _The Journal of Philosophy_, 75: 285–302.
-* Kelsen, Hans (1967 \[1934]). _The Pure Theory of Law_, Max Knight (trans.), Los Angeles: University of California Press.
-* Kolodny, Niko (2016). “Political Rule and its Discontents,” in _Oxford Studies in Political Philosophy_, vol. 2, David Sobel, Peter Valentine and Steven Wall (eds.), New York: Oxford University Press, 35–71.
-* ––– (2017). “What Makes Threats Wrong?” _Analytic Philosophy_, 58: 87–118.
-* ––– (2018). “Standing and the Sources of Liberalism,” _Politics, Philosophy, and Economics_, 17: 169–191.
-* Kroon, Frederick (1996). “Deterrence and the Fragility of Rationality,” _Ethics_, 106: 350–377.
-* Lamond, Grant (1996). “Coercion, Threats, and the Puzzle of Blackmail,” Chapter 10 in _Harm and Culpability_, A. P. Simester and A. T. H. Smith (eds.), Oxford: Clarendon Press, 215–238.
-* ––– (2000). “The Coerciveness of Law,” _Oxford Journal of Legal Studies_, 20: 39–62.
-* ––– (2001). “Coercion and the Nature of Law,” _Legal Theory_, 7: 35–57.
-* Larmore, Charles (1996). _The Morals of Modernity_, New York: Cambridge University Press.
-* Lee, Ambrose Y. K. (2014). “Legal Coercion, Respect & Reason-Responsive Agency,” _Ethical Theory and Moral Practice_, 17: 847–859.
-* Liberto, Hallie (2021). “Coercion, Consent, and the Mechanistic Question,” _Ethics_, 131: 210–245.
-* Lister, Andrew (2010). “Public Justification and the Limits of State Action,” _Politics, Philosophy & Economics_, 9: 151–175.
-* Locke, John (1823 \[1689]). _Two Treatises of Government_, in _The Works of John Locke_, _A New Edition, Corrected_, Vol. V, London: Printed for Thomas Tegg; W. Sharpe and Son; G. Offor; G. and J. Robinson; J. Evans and Co.: Also R. Griffin and Co. Glasgow; and J. Gumming, Dublin. \[[Available online](http://socserv2.socsci.mcmaster.ca/\~econ/ugcm/3ll3/locke/index.html)].
-* Lucas, J. R. (1966). _The Principles of Politics_, Oxford: Clarendon Press.
-* Lyons, Daniel (1975). “Welcome Threats and Coercive Offers,” _Philosophy_, 50: 425–436.
-* MacKay, Douglas Paul (2016). “Coercion and Distributive Justice: A Defense,” _Journal of Social Philosophy_, 47: 211–230.
-* Mason, Elinor (2012). “Coercion and Integrity,” in _Oxford Studies in Normative Ethics_, Vol. 2, Mark Timmons (ed.), New York: Oxford University Press, 180–205.
-* McCammon, Christopher (2015). “Domination: A Rethinking,” _Ethics_, 125: 1028–1052.
-* McCloskey, H. J. (1980). “Coercion: Its Nature and Significance,” _Southern Journal of Philosophy_, 18: 335–352.
-* McGregor, Joan (1988–89). “Bargaining Advantages and Coercion in the Market,” _Philosophy Research Archives_, 14: 23–50.
-* Meyers, Diana Tietjens (2014). “Rethinking Coercion for a World of Poverty and Transnational Migration,” in _Poverty, Agency, and Human Rights_, Diana Tietjens Meyers (ed.), New York: Oxford University Press, 68–91.
-* Mill, John Stuart (1909 \[1848]). _Principles of Political Economy with some of their Applications to Social Philosophy_, seventh edition, William J. Ashley (ed.), London: Longmans, Green and Co. \[[Available online](http://www.econlib.org/library/Mill/mlP.html)].
-* ––– (1909–14 \[1859]). _On Liberty_, Vol. XXV, Part 2 (The Harvard Classics), Charles W. Eliot (ed.), New York: P.F. Collier & Son. \[[Available online](http://www.bartleby.com/25/2/)].
-* Miller, David (2009). “Democracy’s Domain,” _Philosophy and Public Affairs_, 37: 201–228.
-* ––– (2010). “Why Immigration Controls Are Not Coercive: A Reply to Arash Abizadeh,” _Political Theory_, 38: 111–120.
-* Millum, Joseph (2014). “Consent Under Pressure: The Puzzle of Third Party Coercion,” _Ethical Theory and Moral Practice_, 17: 113–127.
-* Millum, Joseph and Michael Garnett (2019). “How Payment for Research Participation Can Be Coercive,” _American Journal of Bioethics_, 19: 19–29.
-* Morris, Christopher (2012). “State Coercion and Force,” _Social Philosophy and Policy_, 29: 28–49.
-* Murray, Michael J. and David F. Dudrick (1995). “Are Coerced Acts Free?” _American Philosophical Quarterly_, 32: 118–123.
-* Nagel, Thomas (1995). _Equality and Partiality_, New York: Oxford University Press.
-* ––– (2005). “The Problem of Global Justice,” _Philosophy and Public Affairs_, 33: 113–147.
-* Nozick, Robert (1969). “Coercion,” in _Philosophy, Science, and Method: Essays in Honor of Ernest Nagel_, Sidney Morgenbesser, Patrick Suppes, and Morton White (eds.), New York: St. Martin’s Press, 440–472.
-* ––– (1974). _Anarchy, State, Utopia_, New York: Basic Books.
-* Oberdiek, Hans (1976). “The Role of Sanctions and Coercion in Understanding Law and Legal Systems,” _American Journal of Jurisprudence_, 21: 71–94.
-* Okin, Susan Moller (1994). “Political Liberalism, Justice, and Gender,” _Ethics_, 105: 23–43.
-* ––– (2005). “‘Forty Acres and a Mule’ for Women: Rawls and Feminism,” _Politics, Philosophy, & Economics_, 4: 233–48.
-* Olsaretti, Serena (2004). _Liberty, Desert and the Market_, New York: Cambridge University Press.
-* O’Neill, Onora (1991). “Which are the Offers _You_, Can’t Refuse?” Chapter 7 in _Violence, Terrorism, and Justice_, R. G. Frey and Christopher Morris (eds.), Cambridge: Cambridge University Press, 170–195.
-* Pallikkathayil, Japa (2011). “The Possibility of Choice: Three Accounts of the Problem with Coercion,” _Philosophers’ Imprint_, 11: 1–20.
-* ––– (2016). “Neither Perfectionism nor Political Liberalism,” _Philosophy and Public Affairs_, 44: 171–196.
-* Pennock, J. Roland and John W. Chapman (eds.) (1972). _Nomos XIV: Coercion_, Chicago: Aldine-Atherton, Inc.
-* Pettit, Philip (1996). “Freedom as Antipower,” _Ethics_, 106: 576–604.
-* Pogge, Thomas (2002). _World Poverty and Human Rights_, Cambridge, UK: Polity Press.
-* Prinsen, E. J. D. and J. J. M. van Delden (2009). “Can We Justify Eliminating Coercive Measures in Psychiatry,” _Journal of Medical Ethics_, 35: 69–73.
-* Pugh, Jonathan (2020). _Autonomy, Rationality, and Contemporary Bioethics_, New York: Oxford University Press.
-* Rawls, John (1993). _Political Liberalism_, New York: Columbia University Press.
-* ––– (1999 \[1971]). _A Theory of Justice_, Cambridge, MA: The Belnap Press of Harvard University Press.
-* ––– (2001). _Justice as Fairness: A Restatement_, Erin Kelly (ed.), Cambridge, MA: Harvard University Press.
-* Raz, Joseph (1975). _Practical Reason and Norms_, London: Hutchinson.
-* ––– (1986). _The Morality of Freedom_, Oxford: Oxford University Press.
-* Rhodes, Michael (2002). _Coercion: A Nonevaluative Approach_, Amsterdam: Rodopi.
-* Ripstein, Arthur (2004). “Authority and Coercion,” _Philosophy and Public Affairs_, 32: 2–35.
-* ––– (2009). _Force and Freedom: Kant’s Legal and Political Philosophy_, Cambridge, MA: Harvard University Press.
-* Risse, Matthias (2006). “What to Say about the State,” _Social Theory and Practice_, 32: 671–698.
-* Rocha, James (2011). “The Sexual Harassment Coercive Offer,” _Journal of Applied Philosophy_, 28: 203–216.
-* Ryan, Cheyney C. (1980). “The Normative Concept of Coercion,” _Mind_, 89: 481–498.
-* Sachs, Benjamin (2011). “Why Coercion is Wrong When It’s Wrong,” _Australasian Journal of Philosophy_, 91: 63–82.
-* Schelling, Thomas (1956). “An Essay on Bargaining,” _American Economic Review_, 46: 281–306.
-* Shaw, James R. (2012). “The Morality of Blackmail,” _Philosophy and Public Affairs_, 40: 165–196.
-* Shklar, Judith (1989). “The Liberalism of Fear,” in _Liberalism and the Moral Life_, Nancy L. Rosenbaum (ed.), Cambridge, MA: Harvard University Press, 21–38.
-* Stevens, Robert (1988). “Coercive Offers,” _Australasian Journal of Philosophy_, 66: 83–95.
-* Swanton, Christine (1989). “Robert Stevens on Offers,” _Australasian Journal of Philosophy_, 67: 472–475.
-* Valentini, Laura (2011). “Coercion and (Global) Justice,” _American Political Science Review_, 105: 205–220.
-* Van De Veer, Don (1979). “Coercion, Seduction, and Rights,” _The Personalist_, 58: 374–381.
-* van der Rijt, Jan-Willem (2011). “Coercive Interference and Moral Judgment,” _Ethical Theory and Moral Practice_, 14: 549–567.
-* Waldron, Jeremy (2004). “Terrorism and the Uses of Terror,” _Journal of Ethics_, 5: 5–35.
-* Wasserstrom, Richard (1985). “War, Nuclear War, and Nuclear Deterrence: Some Conceptual and Moral Issues,” _Ethics_, 95: 424–444.
-* Weber, Max (1946 \[1921]). “Politics as a Vocation,” in _From Max Weber_, H. H. Gerth and C. Wright Mills (eds./trans.), New York: Oxford University Press.
-* ––– (2019 \[1921]). _Economy and Society_, Keith Tribe (trans.), Cambridge, MA: Harvard University Press.
-* Wertheimer, Alan (1987). _Coercion_, Princeton: Princeton University Press.
-* ––– (2004). _Consent to Sexual Relations_, Cambridge: Cambridge University Press.
-* Wertheimer, Alan and Franklin Miller (2008). “Payment for Research Participation: A Coercive Offer?” _Journal of Medical Ethics_, 34: 389–392.
-* White, Stephen (2017). “On the Moral Objection to Coercion,” _Philosophy and Public Affairs_, 45: 199–231.
-* Williams, Bernard (1973). “A Critique of Utilitarianism,” in J. J. C. Smart and Bernard Williams, _Utilitarianism: For and Against_, Cambridge: Cambridge University Press.
-* Woodbury-Smith, Kara (2020). “The Nature of Law and Potential Coercion,” _Ratio Juris_, 33: 223–240.
-* Yaffe, Gideon (2003). “Indoctrination, Coercion and Freedom of Will,” _Philosophy and Phenomenological Research_, 67: 335–356.
-* Yankah, Ekow (2008). “The Force of Law: The Role of Coercion in Legal Norms,” _University of Richmond Law Review_, 42: 1195–1256.
-* Zimmerman, David (1981). “Coercive Wage Offers,” _Philosophy and Public Affairs_, 10: 121–145.
-* ––– (2002). “Taking Liberties: The Perils of ‘Moralizing’ Freedom and Coercion in Social Theory and Practice,” _Social Theory and Practice_, 28: 577–609.
+* Hetherington, Andrew (1999). “The Real Distinction Between Threats and Offers,” *Social Theory and Practice*, 25: 211–242.
+* Himma, Kenneth Einar (2016). “The Authorisation of Coercive Enforcement Mechanisms as a Conceptually Necessary Feature of Law,” *Jurisprudence*, 7: 593–626.
+* Hobbes, Thomas (1651). *Leviathan*. \[[Available online](http://www.gutenberg.org/dirs/etext02/lvthn10.txt)].
+* Huemer, Michael (2010). “Is There a Right To Immigrate?” *Social Theory and Practice*, 36: 429–461.
+* Julius, A. J. (2013). “The Possibility of Exchange,” *Politics, Philosophy, and Economics*, 12: 361–374.
+* Kant, Immanuel (1996 \[1797]). *The Metaphysics of Morals*, Mary Gregor (trans.), New York: Cambridge University Press.
+* ––– (1997 \[1785]). *The Groundwork of the Metaphysics of Morals*, Mary Gregor (trans.), New York: Cambridge University Press.
+* Kavka, Gregory (1978). “Some Paradoxes of Deterrence,” *The Journal of Philosophy*, 75: 285–302.
+* Kelsen, Hans (1967 \[1934]). *The Pure Theory of Law*, Max Knight (trans.), Los Angeles: University of California Press.
+* Kolodny, Niko (2016). “Political Rule and its Discontents,” in *Oxford Studies in Political Philosophy*, vol. 2, David Sobel, Peter Valentine and Steven Wall (eds.), New York: Oxford University Press, 35–71.
+* ––– (2017). “What Makes Threats Wrong?” *Analytic Philosophy*, 58: 87–118.
+* ––– (2018). “Standing and the Sources of Liberalism,” *Politics, Philosophy, and Economics*, 17: 169–191.
+* Kroon, Frederick (1996). “Deterrence and the Fragility of Rationality,” *Ethics*, 106: 350–377.
+* Lamond, Grant (1996). “Coercion, Threats, and the Puzzle of Blackmail,” Chapter 10 in *Harm and Culpability*, A. P. Simester and A. T. H. Smith (eds.), Oxford: Clarendon Press, 215–238.
+* ––– (2000). “The Coerciveness of Law,” *Oxford Journal of Legal Studies*, 20: 39–62.
+* ––– (2001). “Coercion and the Nature of Law,” *Legal Theory*, 7: 35–57.
+* Larmore, Charles (1996). *The Morals of Modernity*, New York: Cambridge University Press.
+* Lee, Ambrose Y. K. (2014). “Legal Coercion, Respect & Reason-Responsive Agency,” *Ethical Theory and Moral Practice*, 17: 847–859.
+* Liberto, Hallie (2021). “Coercion, Consent, and the Mechanistic Question,” *Ethics*, 131: 210–245.
+* Lister, Andrew (2010). “Public Justification and the Limits of State Action,” *Politics, Philosophy & Economics*, 9: 151–175.
+* Locke, John (1823 \[1689]). *Two Treatises of Government*, in *The Works of John Locke*, *A New Edition, Corrected*, Vol. V, London: Printed for Thomas Tegg; W. Sharpe and Son; G. Offor; G. and J. Robinson; J. Evans and Co.: Also R. Griffin and Co. Glasgow; and J. Gumming, Dublin. \[[Available online](http://socserv2.socsci.mcmaster.ca/\~econ/ugcm/3ll3/locke/index.html)].
+* Lucas, J. R. (1966). *The Principles of Politics*, Oxford: Clarendon Press.
+* Lyons, Daniel (1975). “Welcome Threats and Coercive Offers,” *Philosophy*, 50: 425–436.
+* MacKay, Douglas Paul (2016). “Coercion and Distributive Justice: A Defense,” *Journal of Social Philosophy*, 47: 211–230.
+* Mason, Elinor (2012). “Coercion and Integrity,” in *Oxford Studies in Normative Ethics*, Vol. 2, Mark Timmons (ed.), New York: Oxford University Press, 180–205.
+* McCammon, Christopher (2015). “Domination: A Rethinking,” *Ethics*, 125: 1028–1052.
+* McCloskey, H. J. (1980). “Coercion: Its Nature and Significance,” *Southern Journal of Philosophy*, 18: 335–352.
+* McGregor, Joan (1988–89). “Bargaining Advantages and Coercion in the Market,” *Philosophy Research Archives*, 14: 23–50.
+* Meyers, Diana Tietjens (2014). “Rethinking Coercion for a World of Poverty and Transnational Migration,” in *Poverty, Agency, and Human Rights*, Diana Tietjens Meyers (ed.), New York: Oxford University Press, 68–91.
+* Mill, John Stuart (1909 \[1848]). *Principles of Political Economy with some of their Applications to Social Philosophy*, seventh edition, William J. Ashley (ed.), London: Longmans, Green and Co. \[[Available online](http://www.econlib.org/library/Mill/mlP.html)].
+* ––– (1909–14 \[1859]). *On Liberty*, Vol. XXV, Part 2 (The Harvard Classics), Charles W. Eliot (ed.), New York: P.F. Collier & Son. \[[Available online](http://www.bartleby.com/25/2/)].
+* Miller, David (2009). “Democracy’s Domain,” *Philosophy and Public Affairs*, 37: 201–228.
+* ––– (2010). “Why Immigration Controls Are Not Coercive: A Reply to Arash Abizadeh,” *Political Theory*, 38: 111–120.
+* Millum, Joseph (2014). “Consent Under Pressure: The Puzzle of Third Party Coercion,” *Ethical Theory and Moral Practice*, 17: 113–127.
+* Millum, Joseph and Michael Garnett (2019). “How Payment for Research Participation Can Be Coercive,” *American Journal of Bioethics*, 19: 19–29.
+* Morris, Christopher (2012). “State Coercion and Force,” *Social Philosophy and Policy*, 29: 28–49.
+* Murray, Michael J. and David F. Dudrick (1995). “Are Coerced Acts Free?” *American Philosophical Quarterly*, 32: 118–123.
+* Nagel, Thomas (1995). *Equality and Partiality*, New York: Oxford University Press.
+* ––– (2005). “The Problem of Global Justice,” *Philosophy and Public Affairs*, 33: 113–147.
+* Nozick, Robert (1969). “Coercion,” in *Philosophy, Science, and Method: Essays in Honor of Ernest Nagel*, Sidney Morgenbesser, Patrick Suppes, and Morton White (eds.), New York: St. Martin’s Press, 440–472.
+* ––– (1974). *Anarchy, State, Utopia*, New York: Basic Books.
+* Oberdiek, Hans (1976). “The Role of Sanctions and Coercion in Understanding Law and Legal Systems,” *American Journal of Jurisprudence*, 21: 71–94.
+* Okin, Susan Moller (1994). “Political Liberalism, Justice, and Gender,” *Ethics*, 105: 23–43.
+* ––– (2005). “‘Forty Acres and a Mule’ for Women: Rawls and Feminism,” *Politics, Philosophy, & Economics*, 4: 233–48.
+* Olsaretti, Serena (2004). *Liberty, Desert and the Market*, New York: Cambridge University Press.
+* O’Neill, Onora (1991). “Which are the Offers *You*, Can’t Refuse?” Chapter 7 in *Violence, Terrorism, and Justice*, R. G. Frey and Christopher Morris (eds.), Cambridge: Cambridge University Press, 170–195.
+* Pallikkathayil, Japa (2011). “The Possibility of Choice: Three Accounts of the Problem with Coercion,” *Philosophers’ Imprint*, 11: 1–20.
+* ––– (2016). “Neither Perfectionism nor Political Liberalism,” *Philosophy and Public Affairs*, 44: 171–196.
+* Pennock, J. Roland and John W. Chapman (eds.) (1972). *Nomos XIV: Coercion*, Chicago: Aldine-Atherton, Inc.
+* Pettit, Philip (1996). “Freedom as Antipower,” *Ethics*, 106: 576–604.
+* Pogge, Thomas (2002). *World Poverty and Human Rights*, Cambridge, UK: Polity Press.
+* Prinsen, E. J. D. and J. J. M. van Delden (2009). “Can We Justify Eliminating Coercive Measures in Psychiatry,” *Journal of Medical Ethics*, 35: 69–73.
+* Pugh, Jonathan (2020). *Autonomy, Rationality, and Contemporary Bioethics*, New York: Oxford University Press.
+* Rawls, John (1993). *Political Liberalism*, New York: Columbia University Press.
+* ––– (1999 \[1971]). *A Theory of Justice*, Cambridge, MA: The Belnap Press of Harvard University Press.
+* ––– (2001). *Justice as Fairness: A Restatement*, Erin Kelly (ed.), Cambridge, MA: Harvard University Press.
+* Raz, Joseph (1975). *Practical Reason and Norms*, London: Hutchinson.
+* ––– (1986). *The Morality of Freedom*, Oxford: Oxford University Press.
+* Rhodes, Michael (2002). *Coercion: A Nonevaluative Approach*, Amsterdam: Rodopi.
+* Ripstein, Arthur (2004). “Authority and Coercion,” *Philosophy and Public Affairs*, 32: 2–35.
+* ––– (2009). *Force and Freedom: Kant’s Legal and Political Philosophy*, Cambridge, MA: Harvard University Press.
+* Risse, Matthias (2006). “What to Say about the State,” *Social Theory and Practice*, 32: 671–698.
+* Rocha, James (2011). “The Sexual Harassment Coercive Offer,” *Journal of Applied Philosophy*, 28: 203–216.
+* Ryan, Cheyney C. (1980). “The Normative Concept of Coercion,” *Mind*, 89: 481–498.
+* Sachs, Benjamin (2011). “Why Coercion is Wrong When It’s Wrong,” *Australasian Journal of Philosophy*, 91: 63–82.
+* Schelling, Thomas (1956). “An Essay on Bargaining,” *American Economic Review*, 46: 281–306.
+* Shaw, James R. (2012). “The Morality of Blackmail,” *Philosophy and Public Affairs*, 40: 165–196.
+* Shklar, Judith (1989). “The Liberalism of Fear,” in *Liberalism and the Moral Life*, Nancy L. Rosenbaum (ed.), Cambridge, MA: Harvard University Press, 21–38.
+* Stevens, Robert (1988). “Coercive Offers,” *Australasian Journal of Philosophy*, 66: 83–95.
+* Swanton, Christine (1989). “Robert Stevens on Offers,” *Australasian Journal of Philosophy*, 67: 472–475.
+* Valentini, Laura (2011). “Coercion and (Global) Justice,” *American Political Science Review*, 105: 205–220.
+* Van De Veer, Don (1979). “Coercion, Seduction, and Rights,” *The Personalist*, 58: 374–381.
+* van der Rijt, Jan-Willem (2011). “Coercive Interference and Moral Judgment,” *Ethical Theory and Moral Practice*, 14: 549–567.
+* Waldron, Jeremy (2004). “Terrorism and the Uses of Terror,” *Journal of Ethics*, 5: 5–35.
+* Wasserstrom, Richard (1985). “War, Nuclear War, and Nuclear Deterrence: Some Conceptual and Moral Issues,” *Ethics*, 95: 424–444.
+* Weber, Max (1946 \[1921]). “Politics as a Vocation,” in *From Max Weber*, H. H. Gerth and C. Wright Mills (eds./trans.), New York: Oxford University Press.
+* ––– (2019 \[1921]). *Economy and Society*, Keith Tribe (trans.), Cambridge, MA: Harvard University Press.
+* Wertheimer, Alan (1987). *Coercion*, Princeton: Princeton University Press.
+* ––– (2004). *Consent to Sexual Relations*, Cambridge: Cambridge University Press.
+* Wertheimer, Alan and Franklin Miller (2008). “Payment for Research Participation: A Coercive Offer?” *Journal of Medical Ethics*, 34: 389–392.
+* White, Stephen (2017). “On the Moral Objection to Coercion,” *Philosophy and Public Affairs*, 45: 199–231.
+* Williams, Bernard (1973). “A Critique of Utilitarianism,” in J. J. C. Smart and Bernard Williams, *Utilitarianism: For and Against*, Cambridge: Cambridge University Press.
+* Woodbury-Smith, Kara (2020). “The Nature of Law and Potential Coercion,” *Ratio Juris*, 33: 223–240.
+* Yaffe, Gideon (2003). “Indoctrination, Coercion and Freedom of Will,” *Philosophy and Phenomenological Research*, 67: 335–356.
+* Yankah, Ekow (2008). “The Force of Law: The Role of Coercion in Legal Norms,” *University of Richmond Law Review*, 42: 1195–1256.
+* Zimmerman, David (1981). “Coercive Wage Offers,” *Philosophy and Public Affairs*, 10: 121–145.
+* ––– (2002). “Taking Liberties: The Perils of ‘Moralizing’ Freedom and Coercion in Social Theory and Practice,” *Social Theory and Practice*, 28: 577–609.
 
 ## Academic Tools
 
@@ -534,7 +533,7 @@ Thomas Nagel 也以类似的推论进行推理，并将其扩展到为排斥移�
 ## Other Internet Resources
 
 * [The Albert Einstein Institution](http://www.aeinstein.org/), a resource for strategies of non-violent resistance to oppressive powers, featuring the work of Gene Sharp
-* Dugan, Máire. [Coercive Power](http://www.beyondintractability.org/essay/threats/), _Beyond Intractability_, Guy Burgess and Heidi Brugess (eds.), Conflict Research Consortium, University of Colorado, Boulder. Posted September 2003
+* Dugan, Máire. [Coercive Power](http://www.beyondintractability.org/essay/threats/), *Beyond Intractability*, Guy Burgess and Heidi Brugess (eds.), Conflict Research Consortium, University of Colorado, Boulder. Posted September 2003
 * [Executive Summary of MacArthur Coercion Study](https://web.archive.org/web/20210225221141/https://macarthur.virginia.edu/coercion.html), MacArthur Research Study on Mental Health and the Law
 * [Biderman’s Chart of Coercion](https://safeguardingchildren.salford.gov.uk/media/1438/biderman.pdf), as it relates to domestic violence
 
@@ -547,4 +546,4 @@ Thomas Nagel 也以类似的推论进行推理，并将其扩展到为排斥移�
 I am indebted to Thomas Pogge for numerous helpful suggestions and clarifications to this entry. Jerry Tsui provided research assistance and the Social Sciences and Humanities Research Council (SSHRC) of Canada provided financial support that contributed to the 2022 update.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-[Scott Anderson](https://philosophy.ubc.ca/profile/scott-anderson/) <[_scott.anderson@ubc.ca_](mailto:scott%2eanderson%40ubc%2eca)>
+[Scott Anderson](https://philosophy.ubc.ca/profile/scott-anderson/) <[*scott.anderson@ubc.ca*](mailto:scott%2eanderson%40ubc%2eca)>
