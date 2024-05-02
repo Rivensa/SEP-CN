@@ -6,27 +6,6 @@
 
 此条目涵盖了拉姆齐除经济学学科外的所有贡献，经济学方面的贡献在单独的条目《拉姆齐与代际福利经济学》中有所涉及。请注意，所有以日期开头的引用仅指拉姆齐的作品；这些作品按日期在参考书目的子部分中列出。此外，拉姆齐的作品集以两个字母的缩写方式引用，其键值在参考书目的第一个子部分中给出。
 
-* [1. 生平与作品](https://plato.stanford.edu/entries/ramsey/#Life)
-* [2. 逻辑和数学的基础](https://plato.stanford.edu/entries/ramsey/#FounLogiMath)
-* [3. 本体论](https://plato.stanford.edu/entries/ramsey/#Onto)
-* [4. 信念和真理](https://plato.stanford.edu/entries/ramsey/#BeliTrut)
-
-  * [4.1 信念和断言](https://plato.stanford.edu/entries/ramsey/#BeliAsse)
-  * [4.2 真理](https://plato.stanford.edu/entries/ramsey/#Trut)
-* [5. 条件句](https://plato.stanford.edu/entries/ramsey/#Cond)
-* [6. 部分信念和主观概率](https://plato.stanford.edu/entries/ramsey/#PartBeliSubjProb)
-* [7. 法则和理论](https://plato.stanford.edu/entries/ramsey/#LawsTheo)
-
-  * [7.1 法则](https://plato.stanford.edu/entries/ramsey/#Laws)
-  * [7.2 理论](https://plato.stanford.edu/entries/ramsey/#Theo)
-* [8. 对数学的贡献](https://plato.stanford.edu/entries/ramsey/#ContMath)
-* [参考文献](https://plato.stanford.edu/entries/ramsey/#Bib)
-
-  * [A. 弗兰克·拉姆齐的作品](https://plato.stanford.edu/entries/ramsey/#WorkRams)
-  * [B. 二手资料](https://plato.stanford.edu/entries/ramsey/#BSecoSour)
-* [学术工具](https://plato.stanford.edu/entries/ramsey/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/ramsey/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/ramsey/#Rel)
 
 ---
 
