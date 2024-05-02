@@ -110,7 +110,7 @@ Robert C. Moore（Moore 1985）指出，我们有时根据我们不知道的事�
 
 波洛克的保证理论旨在为信念提供规范性规则，形式为：如果你有被保证的信念，这些信念是某种进一步信念的表面理由，并且你没有最终无法战胜的可辩驳者来反驳这些理由，那么这种进一步信念是被保证的，并且应该被相信。有关波洛克理论的更多细节，请参阅以下补充文件：
 
-> [ 约翰·波洛克的系统](https://plato.stanford.edu/entries/reasoning-defeasible/suppl1.html)
+> [约翰·波洛克的系统](https://plato.stanford.edu/entries/reasoning-defeasible/suppl1.html)
 
 Wolfgang Spohn（Spohn 2002）认为 Pollock 的系统在规范上存在缺陷，因为最终 Pollock 没有规范标准可以依靠，除了关于一个合理人如何对待这种或那种认知情境的特定直觉。Spohn 认为，在可辩驳推理研究的发展状态方面，Pollock 的理论对应于 C.I. Lewis 对模态逻辑的早期研究。Lewis 提出了许多可能的公理系统，但缺乏一个能够对任何给定列表的正确性或完整性进行独立检查的充分语义理论（这种理论后来由 Kripke 和 Kanger 提供）。类似地，Spohn 认为 Pollock 的系统需要一个统一的规范标准。同样的批评也可以公正地针对其他一些关于可辩驳推理的理论，包括语义继承网络和默认逻辑。
 
@@ -135,7 +135,7 @@ Cumulativity (Cut 加上 Cautious Monotony) 对应于引理或子结论的推理
 
 Alchourrón、Gärdenfors 和 Makinson（1982）发展了一种关于信念修正和收缩的形式理论，主要借鉴了 Willard van Orman Quine 关于信念网络的模型（Quine 和 Ullian 1970）。认知代理人被建模为相信一组按照它们的根深蒂固程度排序的命题。该模型为信念收缩（减去一个信念）和信念修正（添加一个与原始集合不一致的新信念）提供了一组规范性约束。当添加一个与原始信念集逻辑一致的信念时，代理人应该相信原始集合的逻辑闭包加上新的信念。当添加一个与原始集合不一致的信念时，代理人会退回到与新信念一致的最大子集中最根深蒂固的子集，并将新命题添加到该集合中，并在逻辑推论下进行闭合。有关 AGM 模型的公理，请参见以下补充文件：
 
-> [ AGM 公设](https://plato.stanford.edu/entries/reasoning-defeasible/suppl3.html)
+> [AGM 公设](https://plato.stanford.edu/entries/reasoning-defeasible/suppl3.html)
 
 AGM 信念修正理论可以作为可辩驳推理或非单调逻辑系统的基础，正如 Gärdenfors 和 Makinson 所认识到的（Makinson 和 Gärdenfors 1991）。如果 K 是一个认知状态，那么可以定义一个非单调的推理关系|∼如下：A|∼B 当且仅当 B∈K∗A。与 Pollock 的系统或语义继承网络不同，这种可辩驳的推理关系依赖于一个背景认知状态。因此，信念修正方法不仅产生了一个单一的非单调推理关系，而且产生了一系列的关系。每个背景状态 K 都产生了自己特有的推理关系。
 
@@ -294,7 +294,7 @@ Lehmann 和 Magidor（Lehmann 和 Magidor 1992）注意到一个有趣的巧合�
 
 Lehmann 和 Magidor（1992）提出了对 Adams 观点的变体。他们没有使用 delta-epsilon 构造，而是利用了非标准测度理论，即一种可以取无穷小值（无限小数）的概率函数理论。此外，Lehmann 和 Magidor 并不是通过量化所有概率函数来定义结果性关系，而是假设我们可以选择一个单一的概率函数（代表理想理性或客观概率）。根据他们的构造，结论 p 从 T 中推出，前提是 p 的概率在假设 T 的成员被赋予的概率无限接近于 1 的情况下无限接近于 1。Lehmann 和 Magidor 证明了得到的结果性关系不仅是优先的：它还是合理的。Lehmann 和 Magidor 定义的逻辑也完全对应于 Popper 函数的理论，Popper 函数是概率论的另一个扩展，旨在处理对具有无穷小概率的命题进行条件推理的情况（参见 Harper 1976; van Fraassen 1995; Hawthorne 1998）。有关 Popper 函数的简要讨论，请参阅以下补充文档：
 
-[ Popper 函数](https://plato.stanford.edu/entries/reasoning-defeasible/suppl4.html)
+[Popper 函数](https://plato.stanford.edu/entries/reasoning-defeasible/suppl4.html)
 
 Arló Costa 和 Parikh 使用 van Fraassen 的解释（van Fraassen，1995）原理（Popper 函数的一种变体）证明了有限和无限语言的表示结果（Arló Costa 和 Parikh，2005）。对于无限语言，他们假设了概率的可数可加性公理。
 

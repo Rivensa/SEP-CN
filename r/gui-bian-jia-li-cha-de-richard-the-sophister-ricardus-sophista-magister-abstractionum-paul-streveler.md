@@ -1,6 +1,5 @@
 # 诡辩家理查德 Richard the Sophister \[Ricardus Sophista, Magister abstractionum] (Paul Streveler)
 
-
 *首次发表于 1999 年 8 月 4 日星期三；实质性修订于 2016 年 11 月 26 日星期六*
 
 诡辩家理查德（Richardus Sophista）是一位英国哲学家/逻辑学家，很可能在 13 世纪第二季度期间在牛津学习。理查德的身份不确定，但他被认为是一本逻辑上令人困惑的句子集合的作者，有时被称为“诡辩”，名为《抽象》。这些诡辩的令人困惑之处，往往是由于某些逻辑或“同谓词”词汇（如“所有”，“每个”，“或”，“如果...那么”，“和”，“不”，“开始”，“停止”，“除了”，“必要”，“可能”等）中涉及的语义或句法的歧义引起的。
@@ -84,6 +83,7 @@
 这篇论文的范围超出了处理 Richard Rufus 对这个问题的复杂性以及 Roger Bacon 对“esse habituale”概念的批评的范围。这里的重要问题是 Richard Rufus 所倡导的教义是否与 Richard the Sophister 的 Abstractiones 中的任何内容完全相同。重要的是要找到不仅在术语上相似的地方，还有在教义上的相似之处。Richard Rufus 在上述区分中使用的术语是“esse in habitu”与“esse in actu”，前者他还标记为“esse simpliciter”，后者标记为“esse ut nunc”。[11] Bacon 似乎用“esse habituale”替代了“esse in habitu”的表达。Rufus 没有使用“esse habituale”这个表达。如上所述，Pinborg 在 Abstractiones 中注意到了“esse consequentiae sive habitudinis”和“esse quod est operatio entis”这两个表达。Bacon 也使用了“esse habitudinis”这个表达，但他似乎认识到了“esse habituale”和“esse habitudinis”之间的区别；他说后者“用于命题，并且在谈论命题时将被后来销毁。”[12] 这一说法可能表明 Bacon 对“esse habitudinis”和“esse habituale”存在相同的教义问题（即，它引入了某种虚构存在的对比），但我们不能确定这一点，因为他在 Compendium 中从未回到这个话题。Richardus Sophista 没有使用 Bacon 和 Rufus 分别使用的“esse habituale/esse actuale”和“esse in habitu/esse in actu”这些术语。[13] Pinborg 还注意到 William of Ockham 批评那些将“esse consequentiae sive habitudinis”和“esse quod est operatio entis”区分开来的人是对假设和范畴命题之间的简单区别无知，而根据 Ockham 的说法，这就是这个区别的全部。[14] Pinborg 认为奥卡姆的批评可能与培根提出的观点相同，即术语引发了某种虚构存在的讨论。尽管奥卡姆可能正确地希望用较少问题的语言取代旧术语，但重要的问题是理查德诡辩家对“esse habitudinis/esse quod est operatio entis”区分的使用是否涉及除了命题类型之外的其他内容，以及他对这种区分的使用是否受到罗杰·培根对理查德·鲁弗斯类似术语区分的批评的攻击。
 
 对这些问题的完整回答不仅需要详细考察在《抽象论》中使用这一区分来解决诡辩的情况，还需要考察理查德对“断言非存在”的术语以及他对否定和否定概念的解释/原理的立场[15]。这些任务显然超出了本文的范围。关于第一个问题，我们只能在这里记录一下，在《抽象论》中，理查德只有三处使用这一区分来解决诡辩问题，并且在这些地方都不清楚这是否是他首选的解决方案[16]。更重要的是，理查德在解决诡辩问题时使用这一区分似乎与谢尔伍德的使用方式相匹配（用术语“esse habituale/esse actuale”表示），即作为标记假设和范畴命题之间区别的一种方式[17]。Braakhuis 成功地论证了罗杰·培根对谢尔伍德使用这一区分的批评并不适用，尽管到目前为止，只有谢尔伍德的术语与培根使用的术语完全相同[18]。因此，如果培根所批判的教义不能归因于谢尔伍德，那么也不能归因于诡辩家理查德。因此，理查德·鲁弗斯和诡辩家理查德不能被认定为同一人，至少不能基于这些所谓的教义和术语上的相似之处。
+
 ## Bibliography
 
 * Braakhuis, H.A.G., 1981, “English Tracts on Syncategorematic Terms from Robert Bacon to Walter Burley” in *English Logic and Semantics*, Artistarium, Supplementa 1, Nijmegen.

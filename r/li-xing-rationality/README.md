@@ -1,2 +1,1 @@
 # \*理性 rationality
-

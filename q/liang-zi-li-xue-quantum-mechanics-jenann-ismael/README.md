@@ -6,8 +6,6 @@
 
 这就是理论的一种解释所能提供的：根据量子力学，从内在和从底层来看，世界是什么样子的一个适当的解释。给出一个解释的问题（不仅仅是一种令人舒适、亲切的解释，即不仅仅是一种根据这种解释，世界与常识中熟悉的世界并没有太大不同的解释，而是任何解释）在本百科全书的其他部分中进行了讨论。在这里，我们只关注理论的数学核心，即作为数学机器的理论，而无论其余部分是什么样的，这部分理论都是非常合理的。
 
- 
-
 ---
 
 ## 1. 术语
@@ -155,7 +153,7 @@ O|B⟩=[O11O12O21O22]×[b1b2]=[(O11b1+O12b2)(O21b1+O22b2)]=(O11b1+O12b2)|A1⟩+(
 
 (3.4)
 
-** 动力学。**
+**动力学。**
 
 a.
 
@@ -266,7 +264,6 @@ Here are some recent books that will be especially useful to beginners.
   
   At 384 pages, this book isn’t as pithy as the title would suggest. It provides very clear presentation of the principles of quantum mechanics for the physics student without any previous background. This is how one would learn quantum mechanics in a standard university course.
   
-
 ### Quantum Mechanics Textbooks
 
 There are a great many textbooks available for studying quantum mechanics. Here are a few especially important ones with some notes to guide choices among them. It is good to work with two or three texts when learning QM. No text is perfect and differences in approach can illuminate the subject from different angles.
@@ -319,7 +316,6 @@ There are a great many textbooks available for studying quantum mechanics. Here 
   
   This is a very good book as well. It covers theory and problem solving in an integrated way. It is easy to follow and full of problems and solutions that are related to the experimental basis of the theory.
   
-
 ### Useful General Texts in Mathematics and Physics
 
 Whether studying quantum mechanics on one’s own, or in a classroom setting, it is useful to have these books on hand as accompaniments. Even a seasoned teacher will find himself from time to time reaching for them:
@@ -345,7 +341,6 @@ The last three decades have been a golden age for studying foundations of quantu
   
   This is an excellent, if challenging introduction to quantum foundations. The book is unparalleled in clarity and uncompromising in its insistence on ontological intelligibility. It is more selective than Lewis and Barrett’s book (it covers Everettian Quantum Mechanics and Bohmian Mechanics and Spontaneous Collapse theories, but the Copenhagen approach is dismissed because it doesn’t have an explicit ontology). The author makes no bones about where his own sympathies lie, but it will reward the study of any beginning student or seasoned practitioner.
   
-
 Here are some general texts to introduce you to the philosophy of QM.
 
 * Albert, D., 1994, *Quantum Mechanics and Experience*, Cambridge, MA: Harvard University Press.
@@ -371,7 +366,6 @@ More specialized readings include:
   
   This is a lively development and well-written defense of the Everettian viewpoint that looks beyond standard non-relativistic theory and argues that the real lesson of quantum conundra and their reconciliation of quantum mechanics with General Relativity is the recognition that space-time is not fundamental.
   
-
 ## Academic Tools
 
 > | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=qm). |

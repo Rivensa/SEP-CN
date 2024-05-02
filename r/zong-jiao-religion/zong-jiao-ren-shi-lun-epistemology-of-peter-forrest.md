@@ -171,7 +171,6 @@ Jerome Gellman（1992 年，2017 年）引起了我们对无神论的关注。�
   
 * [Religious Epistemology](http://www.iep.utm.edu/r/relig-ep.htm), entry by Kelly James Clark in the *Internet Encyclopedia of Philosophy*.
   
-
 ## Related Entries
 
 [atheism and agnosticism](https://plato.stanford.edu/entries/atheism-agnosticism/) | [miracles](https://plato.stanford.edu/entries/miracles/) | [Pascal’s wager](https://plato.stanford.edu/entries/pascal-wager/) | [probability, interpretations of](https://plato.stanford.edu/entries/probability-interpret/) | [religion: and science](https://plato.stanford.edu/entries/religion-science/) | [religion: phenomenology of](https://plato.stanford.edu/entries/phenomenology-religion/) | [religion: philosophy of](https://plato.stanford.edu/entries/philosophy-religion/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)

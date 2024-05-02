@@ -1,6 +1,6 @@
 # 量子理论与数学严谨性 and mathematical rigor (Fred Kronz and Tracy Lupher)
 
-_首次发表于2004年7月27日；实质性修订于2024年3月1日_
+*首次发表于2004年7月27日；实质性修订于2024年3月1日*
 
 量子物理基础领域中的一个持续争论是数学严谨性的作用。冯·诺伊曼和狄拉克的对立观点提供了关于这场争论的有趣和有启发性的见解。冯·诺伊曼的贡献经常强调数学严谨性，而狄拉克的贡献则强调实用主义的关注点。下面的讨论从评估他们对量子力学基础的贡献开始。然后考虑他们在量子力学之外的数学物理方面的贡献，重点将放在这些贡献对量子理论的后续发展，特别是对量子场论及其基础的影响上。条目“量子场论”提供了各种发展量子场理论的方法的概述。本文的目的是提供对数学严谨方法进行量子场论的更详细讨论，而不是传统方法，如拉格朗日量子场论，通常被描绘为更具启发性的方法。然后讨论了关于拉格朗日量子场论还是公理量子场论应该作为解释分析基础的当前争论。
 
@@ -262,110 +262,110 @@ Egg、Lam 和 Oldofredi（2017）认为，Doreen Fraser 和 David Wallace 之间
 
 ## Bibliography
 
-* Alvarez, J., 2020, “A Mathematical Presentation of Laurent Schwartz’s Distributions,” _Surveys in Mathematics and its Applications_ 15:1–137.
-* Antoniou, I. and Prigogine, I., 1993, “Intrinsic Irreversibility and Integrability of Dynamics”, _Physica A_, 192: 443–464.
-* Baker, D., 2016, “Philosophy of Quantum Field Theory”, _Oxford Handbooks Online_, doi: 10.1093/oxfordhb/9780199935314.013.33.
-* Birkhoff, G., and von Neumann, J., 1936, “The Logic of Quantum Mechanics”, _Annals of Mathematics_, 37: 823–843.
-* Berezanskii, J. M., 1968, _Expansions in Eigenfunctions of Selfadjoint Operators_, Providence, RI: American Mathematical Society, _Translations of Mathematical Monographs_, 17. \[First published in Russian in 1965.]
-* Bogoliubov, N. N., Logunov, A. A., and Todorov, I. T., 1975, _Introduction to Axiomatic Quantum Field Theory_, Reading, Massachusetts: The Benjamin/Cummings Publishing Company, Inc. \[First published in Russian in 1969.]
-* Böhm, A., 1966, “Rigged Hilbert Space and Mathematical Description of Physical Systems”, _Physica A_, 236: 485–549.
-* Böhm, A. and Gadella, M., 1989, _Dirac Kets, Gamow Vectors and Gel’fand Triplets_, New York: Springer-Verlag.
-* Böhm, A., Maxson, S., Loewe, M. and Gadella, M., 1997, “Quantum Mechanical Irreversibility”, in _Lectures in Theoretical Physics_, 9A\*: Mathematical Methods of Theoretical Physics\*, New York: Wiley.
-* Bratteli, O. and Robinson, D.W., 1979–1981, _Operator Algebras and Quantum Statistical Mechanics, Volumes 1–2_, New York: Springer-Verlag.
-* Brunetti, R., Dütsch, M., Fredenhagen, K., 2009, “Perturbative Algebraic Quantum Field Theory and the Renormalization Groups”, _Advances in Theoretical and Mathematical Physics_, 13 (5): 1541–1599.
-* Butterfield, J., Bouatta, N., 2015, “Renormalization for philosophers”, In: Bigaj, T., Wüthrich, C. (eds.) _Metaphysics in Contemporary Physics_, 104: 437–485.
-* Castagnino, M. and Gadella, M., 2003, “The role of self-induced decoherence in the problem of the classical limit of quantum mechanics,” _Foundations of Physics_, 36(6): 920–952.
-* Colombeau, J., 1992, _Multiplication of Distributions_, Berlin: Springer-Verlag.
+* Alvarez, J., 2020, “A Mathematical Presentation of Laurent Schwartz’s Distributions,” *Surveys in Mathematics and its Applications* 15:1–137.
+* Antoniou, I. and Prigogine, I., 1993, “Intrinsic Irreversibility and Integrability of Dynamics”, *Physica A*, 192: 443–464.
+* Baker, D., 2016, “Philosophy of Quantum Field Theory”, *Oxford Handbooks Online*, doi: 10.1093/oxfordhb/9780199935314.013.33.
+* Birkhoff, G., and von Neumann, J., 1936, “The Logic of Quantum Mechanics”, *Annals of Mathematics*, 37: 823–843.
+* Berezanskii, J. M., 1968, *Expansions in Eigenfunctions of Selfadjoint Operators*, Providence, RI: American Mathematical Society, *Translations of Mathematical Monographs*, 17. \[First published in Russian in 1965.]
+* Bogoliubov, N. N., Logunov, A. A., and Todorov, I. T., 1975, *Introduction to Axiomatic Quantum Field Theory*, Reading, Massachusetts: The Benjamin/Cummings Publishing Company, Inc. \[First published in Russian in 1969.]
+* Böhm, A., 1966, “Rigged Hilbert Space and Mathematical Description of Physical Systems”, *Physica A*, 236: 485–549.
+* Böhm, A. and Gadella, M., 1989, *Dirac Kets, Gamow Vectors and Gel’fand Triplets*, New York: Springer-Verlag.
+* Böhm, A., Maxson, S., Loewe, M. and Gadella, M., 1997, “Quantum Mechanical Irreversibility”, in *Lectures in Theoretical Physics*, 9A\*: Mathematical Methods of Theoretical Physics\*, New York: Wiley.
+* Bratteli, O. and Robinson, D.W., 1979–1981, *Operator Algebras and Quantum Statistical Mechanics, Volumes 1–2*, New York: Springer-Verlag.
+* Brunetti, R., Dütsch, M., Fredenhagen, K., 2009, “Perturbative Algebraic Quantum Field Theory and the Renormalization Groups”, *Advances in Theoretical and Mathematical Physics*, 13 (5): 1541–1599.
+* Butterfield, J., Bouatta, N., 2015, “Renormalization for philosophers”, In: Bigaj, T., Wüthrich, C. (eds.) *Metaphysics in Contemporary Physics*, 104: 437–485.
+* Castagnino, M. and Gadella, M., 2003, “The role of self-induced decoherence in the problem of the classical limit of quantum mechanics,” *Foundations of Physics*, 36(6): 920–952.
+* Colombeau, J., 1992, *Multiplication of Distributions*, Berlin: Springer-Verlag.
 * –––, 2007, “Mathematical Problems on Generalized Functions and the Canonical Hamiltonian Formalism”, 15 pp. eprint arXiv:0708.3425.
 * Colombeau, J., and Gsponer, A., 2008, “The Heisenberg-Pauli Canonical Formalism of Quantum Field Theory in the Rigorous Setting of Nonlinear Generalized Functions (Part I)”, 107 pp. eprint arXiv:0807.0289v2.
 * Colombeau, J.F., Gsponer, A. and Perrot, B., 2008, “Nonlinear generalized functions and the Heisenberg-Pauli foundations of Quantum Field Theory”, 20 pp. eprint arXiv:0705.2396.
-* Connes, A., 1994, _Noncommutative Geometry_, San Diego: Academic Press.
-* DeWitt-Morette, C. Maheshwari, A. and Nelson, B., 1979, “Path Integration in Non-Relativisitic Quantum Mechanics”, in _Physics Reports_, 50C: 255–372.
-* Dirac, P. A. M., 1927, “The Quantum Theory of the Emission and Absorption of Radiation”, _Proceedings of the Royal Society of London, Series A_, 114: 243–265. \[It is reprinted in (Schwinger 1958).]
-* –––, 1930, _The Principles of Quantum Mechanics_, Oxford: Clarendon Press.
-* –––, 1933, “The Lagrangian in Quantum Mechanics”, _Physikalische Zeitschrift der Sowietunion_, 3: 64–72.
-* –––, 1939, “A New Notation for Quantum Mechanics”, _Proceedings of the Cambridge Philosophical Society_, 35: 416–418.
-* –––, 1943, “Quantum Electrodynamics”, _Communications of the Dublin Institute for Advanced Studies_, A1: 1–36.
-* Dixmier, J., 1981, _Von Neumann Algebras_, Amsterdam: North-Holland Publishing Company. \[First published in French in 1957: _Les Algèbres d’Opérateurs dans l’Espace Hilbertien_, Paris: Gauthier-Villars.]
-* Dyson, F., 1952, “Divergence of perturbation theory in quantum electrodynamics”, _Physical Review_, 85: 631–632.
-* Egg, M., Lam, V., Oldofredi, A., 2017, “Particles, cutoffs, and inequivalent representations”, _Foundations of Physics_, 47 (3): 453–466.
-* Fell, J. M. G., 1960, “The Dual Spaces of  C∗-Algebras”, _Transactions of the American Mathematical Society_, 94: 365–403.
-* Feynman, R. P., 1948, “Space-Time Approach to Non-Relativistic Quantum Mechanics”, _Reviews of Modern Physics_, 20: 367–387. \[It is reprinted in (Schwinger 1958).]
-* Fleming, G., 2002, “Comments on Paul Teller’s Book ”An Interpretive Introduction to Quantum Field Theory“”, in M. Kuhlmann, H. Lyre and A. Wayne (eds.), _Ontological Aspects of Quantum Field Theory_, River Edge, NJ: World Scientific: 135–144.
-* Franssens, G., 2013, “On the impossibility of the convolution of distributions”, _CUBO A Mathematical Journal_ 14(2): 71–77.
-* Fraser, D., 2009, “Quantum Field Theory: Undetermination, Inconsistency, and Idealization”, _Philosophy of Science_, 76: 536–567.
-* –––, 2011, “How to Take Particle Physics Seriously: A Further Defence of Axiomatic Quantum Field Theory”, _Studies in History and Philosophy of Modern Physics_, 42: 126–135.
-* Fraser, J., 2016, _What is Quantum Field Theory?_, Ph.D. Dissertation, University of Leeds.
+* Connes, A., 1994, *Noncommutative Geometry*, San Diego: Academic Press.
+* DeWitt-Morette, C. Maheshwari, A. and Nelson, B., 1979, “Path Integration in Non-Relativisitic Quantum Mechanics”, in *Physics Reports*, 50C: 255–372.
+* Dirac, P. A. M., 1927, “The Quantum Theory of the Emission and Absorption of Radiation”, *Proceedings of the Royal Society of London, Series A*, 114: 243–265. \[It is reprinted in (Schwinger 1958).]
+* –––, 1930, *The Principles of Quantum Mechanics*, Oxford: Clarendon Press.
+* –––, 1933, “The Lagrangian in Quantum Mechanics”, *Physikalische Zeitschrift der Sowietunion*, 3: 64–72.
+* –––, 1939, “A New Notation for Quantum Mechanics”, *Proceedings of the Cambridge Philosophical Society*, 35: 416–418.
+* –––, 1943, “Quantum Electrodynamics”, *Communications of the Dublin Institute for Advanced Studies*, A1: 1–36.
+* Dixmier, J., 1981, *Von Neumann Algebras*, Amsterdam: North-Holland Publishing Company. \[First published in French in 1957: *Les Algèbres d’Opérateurs dans l’Espace Hilbertien*, Paris: Gauthier-Villars.]
+* Dyson, F., 1952, “Divergence of perturbation theory in quantum electrodynamics”, *Physical Review*, 85: 631–632.
+* Egg, M., Lam, V., Oldofredi, A., 2017, “Particles, cutoffs, and inequivalent representations”, *Foundations of Physics*, 47 (3): 453–466.
+* Fell, J. M. G., 1960, “The Dual Spaces of  C∗-Algebras”, *Transactions of the American Mathematical Society*, 94: 365–403.
+* Feynman, R. P., 1948, “Space-Time Approach to Non-Relativistic Quantum Mechanics”, *Reviews of Modern Physics*, 20: 367–387. \[It is reprinted in (Schwinger 1958).]
+* Fleming, G., 2002, “Comments on Paul Teller’s Book ”An Interpretive Introduction to Quantum Field Theory“”, in M. Kuhlmann, H. Lyre and A. Wayne (eds.), *Ontological Aspects of Quantum Field Theory*, River Edge, NJ: World Scientific: 135–144.
+* Franssens, G., 2013, “On the impossibility of the convolution of distributions”, *CUBO A Mathematical Journal* 14(2): 71–77.
+* Fraser, D., 2009, “Quantum Field Theory: Undetermination, Inconsistency, and Idealization”, *Philosophy of Science*, 76: 536–567.
+* –––, 2011, “How to Take Particle Physics Seriously: A Further Defence of Axiomatic Quantum Field Theory”, *Studies in History and Philosophy of Modern Physics*, 42: 126–135.
+* Fraser, J., 2016, *What is Quantum Field Theory?*, Ph.D. Dissertation, University of Leeds.
 * Fuss, I. G. and Filinkov, A., 2014, “An Introduction to Generalised Functions in Periodic Quantum Theory, 21 pp., eprint arXiv:1406.3436.
-* Gelfand, I. and Neumark, M., 1943, “On the Imbedding of Normed Rings into the Ring of Operators in Hilbert Space”, _Recueil Mathématique \[Matematicheskii Sbornik] Nouvelle Série_, 12 \[54]: 197–213. \[Reprinted in _C∗-algebras: 1943–1993_, in the series _Contemporary Mathematics_, 167,  Providence, R.I. : American Mathematical Society, 1994.]
-* Gelfand, I. and Shilov, G. E., 1977, _Generalized Functions, Volume 2_, New York: Academic Press. \[First published in Russian in 1958.]
-* –––, 1977, _Generalized Functions, Volume 3_, New York: Academic Press. \[First published in Russian in 1958.]
-* Gelfand, I. and Vilenkin, N. Ya., 1964, _Generalized Functions, Volume 4_, New York: Academic Press. \[First published in Russian in 1961.]
-* Grosser, M., Kunzinger, M., Oberguggenberger, M., 2001, _Geometric Theory of Generalized Functions with Applications to General Relativity_, Kluwer Academic Publishers.
-* Grothendieck, A., 1955, “Produits Tensoriels Topologiques et Espaces Nucléaires”, _Memoirs of the American Mathematical Society_, 16: 1–140.
-* Haag, R. and Kastler, D. 1964, “An Algebraic Approach to Quantum Field Theory”, _Journal of Mathematical Physics_, 5: 848–861.
-* Haag, R. 1955, “On Quantum Field Theories”, _Danske Videnskabernes Selskab Matematisk-Fysiske Meddelelser_, 29 (12): 1–37.
-* –––, 1996, _Local Quantum Physics_, second revised edition, Berlin: Springer-Verlag.
-* Halvorson, H., 2007, “Algebraic Quantum Field Theory”, in J. Butterfield and J. Earman (eds.), _Philosophy of Physics_, Amsterdam: Elsevier: 731–922.
-* Hancox-Li, L., 2015a, _Moving Beyond “Theory T”: The Case of Quantum Field Theory_, Ph.D. Dissertation, University of Pittsburgh.
-* –––, 2015b, “Coarse-Graining as a Route to Microscopic Physics: The Renormalization Group in Quantum Field Theory”, _Philosophy of Science_, 82 (5): 1211–1223.
-* –––, 2017, “Solutions in Constructive Field Theory”, _Philosophy of Science_, 84 (2): 335–358.
-* Holevo, A. S., 2011, _Probabilistic and Statistical Aspects of Quantum Theory_, Pisa: Scuola Normale Superiore.
-* Holland, S. S. Jr., 1970, “The Current Interest in Orthomodular Lattices”, in _Trends in Lattice Theory_, J. C. Abbott (ed.), New York: Van Nostrand: 41–116. \[Reprinted in _The Logico-Algebraic Approach to Quantum Mechanics_, Vol. 1, C. A. Hooker (ed.), New York: Academic Press, 1972: 437–496]
-* Horuzhy, S. S., 1990, _Introduction to Algebraic Quantum Field Theory_, Dordrecht: Kluwer Academic Publishers.
-* König, H., 1953, “Neue Begründung der Theorie der "Distributionen" von L. Schwartz,” _Mathematische Nachrichten_ 9(3): 129–148.
-* –––, 1955, “Multiplikation von Distributionen. I,” _Mathematische Annalen_ 128: 420–452.
-* Kronz, F. M., 1998, “Nonseparability and Quantum Chaos” _, Philosophy of Science_, 65: 50–75.
-* –––, 1999, “Bohm’s Ontological Interpretation and Its Relation to Three Formulations of Quantum Mechanics”, _Synthese_, 117: 31–52.
-* –––, 2000, “A Model of a Chaotic Open Quantum System”, _Proceedings of the 1998 Biennial Meeting of the Philosophy of Science Association_: 446–453.
-* Kronz, F., and Lupher, T., 2005, “Unitarily Inequivalent Representations in Algebraic Quantum Theory”, _International Journal of Theoretical Physics_, 44 (8): 1239–1258.
-* Loomis, L., 1955, “The Lattice-Theoretic Background of the Dimension Theory of Operator Algebras”, _Memoirs of the American Mathematical Society_, 18: 1–36.
-* Lupher, T., 2018, “The Limits of Physical Equivalence in Algebraic Quantum Field Theory”, _British Journal for the Philosophy of Science_, 69 (2): 553–576.
-* Mandl, F., 1959, _Introduction to Quantum Field Theory_, New York: Wiley.
-* Nagel, B., 1989, “Introduction to Rigged Hilbert Spaces”, in E. Brändas and N. Elander (eds), _Resonances_ (Springer Lecture Notes in Physics: Volume 325), Berlin: Springer: 1–10.
-* Nagy, K. L., 1966, _State Vector Spaces with Indefinite Metric in Quantum Field Theory_, Groningen: P. Noordhoff Ltd.
-* Nedeljkov, M., Pilipović, S., Scarpalezos, D., 1998, _Linear Theory of Colombeau's Generalized Functions_, Addison Wesley, Longman.
-* Oberguggenberger, M., 1992, _Multiplication of Distributions and Applications to Partial Differential Equations_, Longman Higher Education.
-* Pavičić, M., 1992, “Bibliography on Quantum Logics and Related Structures”, _International Journal of Theoretical Physics_, 31: 373–461.
-* Pauli, W., 1943, “On Dirac’s New Method of Field Quantizations”, _Reviews of Modern Physics_, 15: 175–207.
-* Rédei, M., 1998, _Quantum Logic in Algebraic Approach_, Dordrecht: Kluwer Academic Publishers.
-* Rédei, M. and Stöltzner, M. (eds), 2001, _John von Neumann and the Foundations of Quantum Physics, Vol. 8_, Dordrecht: Kluwer Academic Publisers.
-* Rivers, R. J., 1987, _Path Integral Methods in Quantum Field Theory_, Cambridge: Cambridge University Press.
-* Roberts, J. E., 1966, “The Dirac Bra and Ket Formalism”, _Journal of Mathematical Physics_, 7: 1097–1104.
-* Ruetsche, L., 2011, _Interpreting Quantum Theories_, Oxford: Oxford University Press.
-* –––, 2003, “A Matter of Degree: Putting Unitary Inequivalence to Work”, _Philosophy of Science_, 70: 1329–1342.
-* Salmhofer, M., 2007, _Renormalization: An Introduction_, Berlin: Springer.
-* Scharf, G., 2014, _Finite Quantum Electrodynamics – The Causal Approach_ (3rd edition), Dover Publications.
-* Schrödinger, E., 1926, “On the Relation of the Heisenberg-Born-Jordan Quantum Mechanics and Mine”, _Annalen der Physik_, 79: 734–756.
-* –––, 1928, _Collected Papers on Wave Mechanics_, London: Blackie & Son.
-* Schwartz, L., 1945, “Généralisation de la Notion de Fonction, de Dérivation, de Transformation de Fourier et Applications Mathématiques et Physiques”, _Annales de l’Université de Grenoble_, 21: 57–74.
-* –––, 1951–1952, _Théorie des Distributions, Publications de l’Institut de Mathématique de l’Université de Strasbourg_, Volumes 9–10, Paris: Hermann.
+* Gelfand, I. and Neumark, M., 1943, “On the Imbedding of Normed Rings into the Ring of Operators in Hilbert Space”, *Recueil Mathématique \[Matematicheskii Sbornik] Nouvelle Série*, 12 \[54]: 197–213. \[Reprinted in *C∗-algebras: 1943–1993*, in the series *Contemporary Mathematics*, 167,  Providence, R.I. : American Mathematical Society, 1994.]
+* Gelfand, I. and Shilov, G. E., 1977, *Generalized Functions, Volume 2*, New York: Academic Press. \[First published in Russian in 1958.]
+* –––, 1977, *Generalized Functions, Volume 3*, New York: Academic Press. \[First published in Russian in 1958.]
+* Gelfand, I. and Vilenkin, N. Ya., 1964, *Generalized Functions, Volume 4*, New York: Academic Press. \[First published in Russian in 1961.]
+* Grosser, M., Kunzinger, M., Oberguggenberger, M., 2001, *Geometric Theory of Generalized Functions with Applications to General Relativity*, Kluwer Academic Publishers.
+* Grothendieck, A., 1955, “Produits Tensoriels Topologiques et Espaces Nucléaires”, *Memoirs of the American Mathematical Society*, 16: 1–140.
+* Haag, R. and Kastler, D. 1964, “An Algebraic Approach to Quantum Field Theory”, *Journal of Mathematical Physics*, 5: 848–861.
+* Haag, R. 1955, “On Quantum Field Theories”, *Danske Videnskabernes Selskab Matematisk-Fysiske Meddelelser*, 29 (12): 1–37.
+* –––, 1996, *Local Quantum Physics*, second revised edition, Berlin: Springer-Verlag.
+* Halvorson, H., 2007, “Algebraic Quantum Field Theory”, in J. Butterfield and J. Earman (eds.), *Philosophy of Physics*, Amsterdam: Elsevier: 731–922.
+* Hancox-Li, L., 2015a, *Moving Beyond “Theory T”: The Case of Quantum Field Theory*, Ph.D. Dissertation, University of Pittsburgh.
+* –––, 2015b, “Coarse-Graining as a Route to Microscopic Physics: The Renormalization Group in Quantum Field Theory”, *Philosophy of Science*, 82 (5): 1211–1223.
+* –––, 2017, “Solutions in Constructive Field Theory”, *Philosophy of Science*, 84 (2): 335–358.
+* Holevo, A. S., 2011, *Probabilistic and Statistical Aspects of Quantum Theory*, Pisa: Scuola Normale Superiore.
+* Holland, S. S. Jr., 1970, “The Current Interest in Orthomodular Lattices”, in *Trends in Lattice Theory*, J. C. Abbott (ed.), New York: Van Nostrand: 41–116. \[Reprinted in *The Logico-Algebraic Approach to Quantum Mechanics*, Vol. 1, C. A. Hooker (ed.), New York: Academic Press, 1972: 437–496]
+* Horuzhy, S. S., 1990, *Introduction to Algebraic Quantum Field Theory*, Dordrecht: Kluwer Academic Publishers.
+* König, H., 1953, “Neue Begründung der Theorie der "Distributionen" von L. Schwartz,” *Mathematische Nachrichten* 9(3): 129–148.
+* –––, 1955, “Multiplikation von Distributionen. I,” *Mathematische Annalen* 128: 420–452.
+* Kronz, F. M., 1998, “Nonseparability and Quantum Chaos” *, Philosophy of Science*, 65: 50–75.
+* –––, 1999, “Bohm’s Ontological Interpretation and Its Relation to Three Formulations of Quantum Mechanics”, *Synthese*, 117: 31–52.
+* –––, 2000, “A Model of a Chaotic Open Quantum System”, *Proceedings of the 1998 Biennial Meeting of the Philosophy of Science Association*: 446–453.
+* Kronz, F., and Lupher, T., 2005, “Unitarily Inequivalent Representations in Algebraic Quantum Theory”, *International Journal of Theoretical Physics*, 44 (8): 1239–1258.
+* Loomis, L., 1955, “The Lattice-Theoretic Background of the Dimension Theory of Operator Algebras”, *Memoirs of the American Mathematical Society*, 18: 1–36.
+* Lupher, T., 2018, “The Limits of Physical Equivalence in Algebraic Quantum Field Theory”, *British Journal for the Philosophy of Science*, 69 (2): 553–576.
+* Mandl, F., 1959, *Introduction to Quantum Field Theory*, New York: Wiley.
+* Nagel, B., 1989, “Introduction to Rigged Hilbert Spaces”, in E. Brändas and N. Elander (eds), *Resonances* (Springer Lecture Notes in Physics: Volume 325), Berlin: Springer: 1–10.
+* Nagy, K. L., 1966, *State Vector Spaces with Indefinite Metric in Quantum Field Theory*, Groningen: P. Noordhoff Ltd.
+* Nedeljkov, M., Pilipović, S., Scarpalezos, D., 1998, *Linear Theory of Colombeau's Generalized Functions*, Addison Wesley, Longman.
+* Oberguggenberger, M., 1992, *Multiplication of Distributions and Applications to Partial Differential Equations*, Longman Higher Education.
+* Pavičić, M., 1992, “Bibliography on Quantum Logics and Related Structures”, *International Journal of Theoretical Physics*, 31: 373–461.
+* Pauli, W., 1943, “On Dirac’s New Method of Field Quantizations”, *Reviews of Modern Physics*, 15: 175–207.
+* Rédei, M., 1998, *Quantum Logic in Algebraic Approach*, Dordrecht: Kluwer Academic Publishers.
+* Rédei, M. and Stöltzner, M. (eds), 2001, *John von Neumann and the Foundations of Quantum Physics, Vol. 8*, Dordrecht: Kluwer Academic Publisers.
+* Rivers, R. J., 1987, *Path Integral Methods in Quantum Field Theory*, Cambridge: Cambridge University Press.
+* Roberts, J. E., 1966, “The Dirac Bra and Ket Formalism”, *Journal of Mathematical Physics*, 7: 1097–1104.
+* Ruetsche, L., 2011, *Interpreting Quantum Theories*, Oxford: Oxford University Press.
+* –––, 2003, “A Matter of Degree: Putting Unitary Inequivalence to Work”, *Philosophy of Science*, 70: 1329–1342.
+* Salmhofer, M., 2007, *Renormalization: An Introduction*, Berlin: Springer.
+* Scharf, G., 2014, *Finite Quantum Electrodynamics – The Causal Approach* (3rd edition), Dover Publications.
+* Schrödinger, E., 1926, “On the Relation of the Heisenberg-Born-Jordan Quantum Mechanics and Mine”, *Annalen der Physik*, 79: 734–756.
+* –––, 1928, *Collected Papers on Wave Mechanics*, London: Blackie & Son.
+* Schwartz, L., 1945, “Généralisation de la Notion de Fonction, de Dérivation, de Transformation de Fourier et Applications Mathématiques et Physiques”, *Annales de l’Université de Grenoble*, 21: 57–74.
+* –––, 1951–1952, *Théorie des Distributions, Publications de l’Institut de Mathématique de l’Université de Strasbourg*, Volumes 9–10, Paris: Hermann.
 * –––, 1954, “Sur l’impossibilite de la multiplications des distributions”, Paris: Comptes Rendus de l'Académie des Sciences 239: 847–848
-* Schwinger, J. S., 1958, _Selected Papers on Quantum Electrodynamics_, New York: Dover.
-* Segal, I. E., 1947a, “Irreducible Representations of Operator Algebras”, _Bulletin of the American Mathematical Society_, 53: 73–88.
-* –––, 1947b, “Postulates for General Quantum Mechanics”, _Annals of Mathematics_, 4: 930–948.
-* –––, 1959, “Foundations of the Theory of Dynamical Systems of Infinitely Many Degrees of Freedom I”, _Danske Videnskabernes Selskab Matematisk-Fysiske Meddelelser_, 31 (12): 1–39.
-* Steinmann, O., 2000, _Perturbative Quantum Electrodynamics and Axiomatic Field Theory_, Berlin, Heidelberg: Springer.
-* Sewell, G.L., 1986, _Quantum Theory of Collective Phenomena_, Oxford: Oxford University Press.
-* Streater, R. F. and Wightman, A. S., 1964, _PCT, Spin and Statistics, and All That_, New York: W. A. Benjamin.
-* Sunder, V. S., 1987, _An Invitation to von Neumann Algebras_, New York: Springer-Verlag.
-* Swanson, N., 2014, _Modular Theory and Spacetime Structure in QFT_, Ph.D. Dissertation, Princeton University.
-* –––, 2017, “A philosopher’s guide to the foundations of quantum field theory”, _Philosophy Compass_, 12 (5): e12414.
-* Treves, F., 1967, _Topological Vector Spaces, Distributions and Kernels_, Academic Press.
-* von Mises, R., 1981, _Probability, Statistics and Truth_, second revised English edition, New York: Dover; first published in German, _Wahrscheinlichkeit, Statistik und Wahrheit_, Berlin: Springer, 1928.
+* Schwinger, J. S., 1958, *Selected Papers on Quantum Electrodynamics*, New York: Dover.
+* Segal, I. E., 1947a, “Irreducible Representations of Operator Algebras”, *Bulletin of the American Mathematical Society*, 53: 73–88.
+* –––, 1947b, “Postulates for General Quantum Mechanics”, *Annals of Mathematics*, 4: 930–948.
+* –––, 1959, “Foundations of the Theory of Dynamical Systems of Infinitely Many Degrees of Freedom I”, *Danske Videnskabernes Selskab Matematisk-Fysiske Meddelelser*, 31 (12): 1–39.
+* Steinmann, O., 2000, *Perturbative Quantum Electrodynamics and Axiomatic Field Theory*, Berlin, Heidelberg: Springer.
+* Sewell, G.L., 1986, *Quantum Theory of Collective Phenomena*, Oxford: Oxford University Press.
+* Streater, R. F. and Wightman, A. S., 1964, *PCT, Spin and Statistics, and All That*, New York: W. A. Benjamin.
+* Sunder, V. S., 1987, *An Invitation to von Neumann Algebras*, New York: Springer-Verlag.
+* Swanson, N., 2014, *Modular Theory and Spacetime Structure in QFT*, Ph.D. Dissertation, Princeton University.
+* –––, 2017, “A philosopher’s guide to the foundations of quantum field theory”, *Philosophy Compass*, 12 (5): e12414.
+* Treves, F., 1967, *Topological Vector Spaces, Distributions and Kernels*, Academic Press.
+* von Mises, R., 1981, *Probability, Statistics and Truth*, second revised English edition, New York: Dover; first published in German, *Wahrscheinlichkeit, Statistik und Wahrheit*, Berlin: Springer, 1928.
 * von Neumann, J., 1937, “Quantum Mechanics of Infinite Systems”, first published in (Rédei and Stöltzner 2001, 249–268). \[A mimeographed version of a lecture given at Pauli’s seminar held at the Institute for Advanced Study in 1937, John von Neumann Archive, Library of Congress, Washington, D.C.]
-* –––, 1938, “On Infinite Direct Products”, _Compositio Mathematica_, 6: 1–77. \[Reprinted in von Neumann 1961–1963, Vol. III).]
-* –––, 1955, _Mathematical Foundations of Quantum Mechanics_, Princeton, NJ: Princeton University Press. \[First published in German in 1932: _Mathematische Grundlagen der Quantenmechank_, Berlin: Springer.]
-* –––, 1961–1963, _Collected Works_, 6 volumes, A. H. Taub (ed.), New York: Pergamon Press.
-* –––, 1981, _Continuous geometries with a transition probability_, Halperin, I. (ed.), Providence: Memoirs of the American Mathematical Society.
-* –––, 2005, _John von Neumann: Selected Letters_, M. Rédei (ed.), Providence: American Mathematical Society.
-* Waerden, B. L. van der, (ed.), 1967, _Sources of Quantum Mechanics_, Amsterdam: North Holland Publishing Company.
-* Wallace, D., 2006, “In Defense of Naiveté: The Conceptual Status of Lagrangian Quantum Field Theory”, _Synthese_, 151: 33–80.
-* –––, 2011, “Taking Particle Physics Seriously: A Critique of the Algebraic Approach to Quantum Field Theory”, _Studies in History and Philosophy of Modern Physics_, 42: 116–125.
-* Weinberg, S., 1995, _The Quantum Theory of Fields_, New York: Cambridge University Press.
-* Wightman, A. S., 1956, “Quantum Field Theory in Terms of Vacuum Expectation Values”, _Physical Review_, 101: 860–866.
-* –––, 1976, “Hilbert’s Sixth Problem: Mathematical Treatment of the Axioms of Physics”, _Proceedings of Symposia in Pure Mathematics_, 28: 147–240.
-* Wightman, A.S. and Gårding, L., 1964, “Fields as Operator-Valued Distributions in Relativistic Quantum Theory”, _Arkiv för Fysik_, 28: 129–184.
+* –––, 1938, “On Infinite Direct Products”, *Compositio Mathematica*, 6: 1–77. \[Reprinted in von Neumann 1961–1963, Vol. III).]
+* –––, 1955, *Mathematical Foundations of Quantum Mechanics*, Princeton, NJ: Princeton University Press. \[First published in German in 1932: *Mathematische Grundlagen der Quantenmechank*, Berlin: Springer.]
+* –––, 1961–1963, *Collected Works*, 6 volumes, A. H. Taub (ed.), New York: Pergamon Press.
+* –––, 1981, *Continuous geometries with a transition probability*, Halperin, I. (ed.), Providence: Memoirs of the American Mathematical Society.
+* –––, 2005, *John von Neumann: Selected Letters*, M. Rédei (ed.), Providence: American Mathematical Society.
+* Waerden, B. L. van der, (ed.), 1967, *Sources of Quantum Mechanics*, Amsterdam: North Holland Publishing Company.
+* Wallace, D., 2006, “In Defense of Naiveté: The Conceptual Status of Lagrangian Quantum Field Theory”, *Synthese*, 151: 33–80.
+* –––, 2011, “Taking Particle Physics Seriously: A Critique of the Algebraic Approach to Quantum Field Theory”, *Studies in History and Philosophy of Modern Physics*, 42: 116–125.
+* Weinberg, S., 1995, *The Quantum Theory of Fields*, New York: Cambridge University Press.
+* Wightman, A. S., 1956, “Quantum Field Theory in Terms of Vacuum Expectation Values”, *Physical Review*, 101: 860–866.
+* –––, 1976, “Hilbert’s Sixth Problem: Mathematical Treatment of the Axioms of Physics”, *Proceedings of Symposia in Pure Mathematics*, 28: 147–240.
+* Wightman, A.S. and Gårding, L., 1964, “Fields as Operator-Valued Distributions in Relativistic Quantum Theory”, *Arkiv för Fysik*, 28: 129–184.
 
 ## Academic Tools
 
@@ -384,5 +384,5 @@ Egg、Lam 和 Oldofredi（2017）认为，Doreen Fraser 和 David Wallace 之间
 [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum mechanics: Bohmian mechanics](https://plato.stanford.edu/entries/qm-bohm/) | [quantum mechanics: the role of decoherence in](https://plato.stanford.edu/entries/qm-decoherence/) | [quantum theory: quantum field theory](https://plato.stanford.edu/entries/quantum-field-theory/) | [quantum theory: quantum logic and probability theory](https://plato.stanford.edu/entries/qt-quantlog/)
 
 [Copyright © 2024](https://plato.stanford.edu/info.html#c) by\
-Fred Kronz <[_fkronz@nsf.gov_](mailto:fkronz%40nsf%2egov)>\
-Tracy Lupher <[_lupherta@jmu.edu_](mailto:lupherta%40jmu%2eedu)>
+Fred Kronz <[*fkronz@nsf.gov*](mailto:fkronz%40nsf%2egov)>\
+Tracy Lupher <[*lupherta@jmu.edu*](mailto:lupherta%40jmu%2eedu)>

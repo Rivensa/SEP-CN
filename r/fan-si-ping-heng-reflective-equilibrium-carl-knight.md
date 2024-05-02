@@ -16,12 +16,12 @@
 
 本条目首先讨论了反思平衡的起点，考察了文献中对其的各种解释。然后探讨了将我们从仅仅拥有判断到达反思平衡的原则和理论。最后，考虑了该方法的一些主要反对意见。整个过程将重点放在道德和政治哲学的典型背景下的反思平衡上，特别是由罗尔斯和诺曼·丹尼尔斯发展起来的方法，但也参考了其他哲学分支中发展的该方法的版本（例如，古德曼 1965 年；刘易斯 1983 年；埃尔金 1996 年）。
 
-* [ 1. 判断](https://plato.stanford.edu/entries/reflective-equilibrium/#Judg)
+* [1. 判断](https://plato.stanford.edu/entries/reflective-equilibrium/#Judg)
 
   * [1.1 考虑的判断](https://plato.stanford.edu/entries/reflective-equilibrium/#ConsJudg)
   * [1.2 自信约束](https://plato.stanford.edu/entries/reflective-equilibrium/#ConfCons)
   * [1.3 认知约束](https://plato.stanford.edu/entries/reflective-equilibrium/#EpisCons)
-  * [ 1.4 初始判断](https://plato.stanford.edu/entries/reflective-equilibrium/#InitJudg)
+  * [1.4 初始判断](https://plato.stanford.edu/entries/reflective-equilibrium/#InitJudg)
 * [2. 原理和理论](https://plato.stanford.edu/entries/reflective-equilibrium/#PrinTheo)
 
   * [2.1 广义反思平衡](https://plato.stanford.edu/entries/reflective-equilibrium/#WideReflEqui)
@@ -29,17 +29,17 @@
   * [2.3 Kohärenzist oder Fundamentalist?](https://plato.stanford.edu/entries/reflective-equilibrium/#CoheFoun)
   * [2.4 Reflexives Gleichgewicht ohne Prinzipien?](https://plato.stanford.edu/entries/reflective-equilibrium/#ReflEquiWithPrin)
   * [2.5 Öffentliches reflexives Gleichgewicht](https://plato.stanford.edu/entries/reflective-equilibrium/#PublReflEqui)
-* [ 3. 反思](https://plato.stanford.edu/entries/reflective-equilibrium/#Obje)
+* [3. 反思](https://plato.stanford.edu/entries/reflective-equilibrium/#Obje)
 
-  * [ 3.1 可信度](https://plato.stanford.edu/entries/reflective-equilibrium/#Cred)
-  * [ 3.2 相对主义](https://plato.stanford.edu/entries/reflective-equilibrium/#Rela)
-  * [ 3.3 不确定性](https://plato.stanford.edu/entries/reflective-equilibrium/#Inde)
-  * [ 3.4 偏见](https://plato.stanford.edu/entries/reflective-equilibrium/#Bias)
+  * [3.1 可信度](https://plato.stanford.edu/entries/reflective-equilibrium/#Cred)
+  * [3.2 相对主义](https://plato.stanford.edu/entries/reflective-equilibrium/#Rela)
+  * [3.3 不确定性](https://plato.stanford.edu/entries/reflective-equilibrium/#Inde)
+  * [3.4 偏见](https://plato.stanford.edu/entries/reflective-equilibrium/#Bias)
   * [3.5 一个空方法？](https://plato.stanford.edu/entries/reflective-equilibrium/#EmptMeth)
-* [ 参考文献](https://plato.stanford.edu/entries/reflective-equilibrium/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/reflective-equilibrium/#Aca)
+* [参考文献](https://plato.stanford.edu/entries/reflective-equilibrium/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/reflective-equilibrium/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/reflective-equilibrium/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/reflective-equilibrium/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/reflective-equilibrium/#Rel)
 
 ---
 
@@ -244,7 +244,6 @@ Indeed, the objection seems directed more at narrow reflective equilibrium, wher
 可以补充的是，反思平衡的批评者是与反思平衡不兼容的方法的丰富来源。例如，布兰特的认知心理治疗，哈尔的普遍规范主义，安德森的实用主义，或德马格特的超验主义描述了在反思平衡之前或之外证明道德观点的方法（布兰特 1979 年；哈尔 1981 年；安德森 2015 年；德马格特 2017 年）。反思平衡排除了道德怀疑主义、虚无主义以及其他完全怀疑我们道德能力的学说，以及自然主义和其他试图仅基于事实、语言或形而上学主张来证明道德原则的还原主义努力。（弗里曼 2007 年：37；参见罗尔斯 1971 年：51）
 
 > 鉴于与反思平衡相悖的许多方法和理论，很难维持它没有内容或几乎没有内容的观点。如果看起来是这样，可能是因为它的假设在道德和政治哲学中被广泛接受，成为自己成功的受害者。
-
 
 ## Bibliography
 

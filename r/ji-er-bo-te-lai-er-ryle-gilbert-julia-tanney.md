@@ -326,8 +326,8 @@ As the analogy of philosophy with cartography suggests, Ryle investigates the wo
 
 对于对赖尔关于感知和想象的思考感兴趣的读者，可以参考以下补充文件：
 
-* [ 赖尔论感知](https://plato.stanford.edu/entries/ryle/perception.html)
-* [ 赖尔论想象](https://plato.stanford.edu/entries/ryle/imagination.html)
+* [赖尔论感知](https://plato.stanford.edu/entries/ryle/perception.html)
+* [赖尔论想象](https://plato.stanford.edu/entries/ryle/imagination.html)
 
 ## 13. 后记
 

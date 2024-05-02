@@ -2,7 +2,7 @@
 
 ## 引语 quotation (Herman Cappelen, Ernest Lepore, and Matthew McKeever)
 
-_首次发表于2005年7月16日；实质性修订于2023年4月19日。_
+*首次发表于2005年7月16日；实质性修订于2023年4月19日。*
 
 从弗雷格开始，引语的语义学（和语用学）在过去的一百多年里一直受到持续的关注。然而，它并没有像确定描述或命题态度动词的语义学那样经受过激烈的辩论和审查。许多哲学家可能都有戴维森的经历：“当我接触逻辑和语义学的奥秘时，引语通常被介绍为一种有些可疑的工具，并且伴随着一场严厉的布道，警告我们不要混淆表达式的使用和提及”（戴维森，1979 年，第 79 页）。然而，那些仅止于此的人会错过语言哲学中最困难和有趣的话题之一。
 
@@ -712,7 +712,7 @@ Quine 说引语 Ted。\[ 16]
 
 (38)
 
-## 奎恩说引语“具有某种异常特征”，尽管他没有使用“具有某种异常特征”这些词。
+## 奎恩说引语“具有某种异常特征”，尽管他没有使用“具有某种异常特征”这些词
 
 事情并不那么清楚。然而，某些其他数据与提及要求的这个所谓特征存在矛盾，尤其是一个人可以在不同于他们所说的语言中正确引用某人（Cappelen 和 Lepore 2007 年第 44 页）。因此，以下内容及其括号内的延续是可以接受的：
 
@@ -862,121 +862,121 @@ Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个�
 
 ### Bibliography
 
-* Abbott, Barbara, 2003. ‘Some Notes on Quotation’, _Belgian Journal of Linguistics_, 17(1): 13–26.
-* Bazzoni, André, 2016. ‘Pure quotation, metalanguage and metasemantics’, _Linguistics and Philosophy_, 39(2): 119–149.
-* Benbaji, Yitzhak, 2003. ‘Who needs semantics of quotation marks?’ _Belgian Journal of Linguistics_, 17: 27–49.
-* –––, 2004a. ‘A demonstrative analysis of “open quotation”‘. _Mind and Language_, 19: 534–547.
-* –––, 2004b. ‘Using others’ words’, _Journal of Philosophical Research_, 29: 93–112.
-* Bennett, Jonathan, 1988. ‘Quotation’, _Noûs_, 22: 399–418.
-* Boolos, George, 1995. ‘Quotational ambiguity’, in _On Quine_, P. Leonardi and M. Santambrogio (eds.), Cambridge: Cambridge University Press, pp. 283–296.
-* Botterell, Andrew and Stainton, Robert, 2005. ‘Quotation: Compositionality and Innocence without Demonstration’, _Critica: Revista Hispanoamericana de Filosofia_, 37(110): 3–33.
-* Burge, Tyler, 1986. ‘On Davidson’s ‘Saying that’’, in _Truth and Interpretation_, Basil E. Lepore (ed.), Oxford: Blackwell, pp. 190–208.
-* Cappelen, Herman, 1997. _Signs_, Doctoral Dissertation, Philosophy Department, University of California-Berkeley.
-* Cappelen, Herman and Ernest Lepore, 1997a. ‘On an alleged connection between semantic theory and indirect quotation’, _Mind and Language_, 12: 278–296.
-* –––, 1997b. ‘Varieties of quotation’, _Mind_, 106: 429–50.
-* –––, 1998. ‘Using, mentioning, and quoting: reply to Tsohatzidis’, _Mind_, 107: 665–666.
-* –––, 1999a. ‘Reply to Saka’, _Mind_, 108: 741–50.
+* Abbott, Barbara, 2003. ‘Some Notes on Quotation’, *Belgian Journal of Linguistics*, 17(1): 13–26.
+* Bazzoni, André, 2016. ‘Pure quotation, metalanguage and metasemantics’, *Linguistics and Philosophy*, 39(2): 119–149.
+* Benbaji, Yitzhak, 2003. ‘Who needs semantics of quotation marks?’ *Belgian Journal of Linguistics*, 17: 27–49.
+* –––, 2004a. ‘A demonstrative analysis of “open quotation”‘. *Mind and Language*, 19: 534–547.
+* –––, 2004b. ‘Using others’ words’, *Journal of Philosophical Research*, 29: 93–112.
+* Bennett, Jonathan, 1988. ‘Quotation’, *Noûs*, 22: 399–418.
+* Boolos, George, 1995. ‘Quotational ambiguity’, in *On Quine*, P. Leonardi and M. Santambrogio (eds.), Cambridge: Cambridge University Press, pp. 283–296.
+* Botterell, Andrew and Stainton, Robert, 2005. ‘Quotation: Compositionality and Innocence without Demonstration’, *Critica: Revista Hispanoamericana de Filosofia*, 37(110): 3–33.
+* Burge, Tyler, 1986. ‘On Davidson’s ‘Saying that’’, in *Truth and Interpretation*, Basil E. Lepore (ed.), Oxford: Blackwell, pp. 190–208.
+* Cappelen, Herman, 1997. *Signs*, Doctoral Dissertation, Philosophy Department, University of California-Berkeley.
+* Cappelen, Herman and Ernest Lepore, 1997a. ‘On an alleged connection between semantic theory and indirect quotation’, *Mind and Language*, 12: 278–296.
+* –––, 1997b. ‘Varieties of quotation’, *Mind*, 106: 429–50.
+* –––, 1998. ‘Using, mentioning, and quoting: reply to Tsohatzidis’, *Mind*, 107: 665–666.
+* –––, 1999a. ‘Reply to Saka’, *Mind*, 108: 741–50.
 * –––, 1999b. ‘Reply to Stainton’, in Kumiko and Robert, pp. 279–283.
 * –––, 1999c. ‘Reply to Pietroski’, in Kumiko and Robert, pp. 283–285.
 * –––, 1999d. ‘Semantics of quotation’, in Zeglen, pp. 90–99.
-* –––, 2003. ‘Varieties of quotation revisited’, _Belgian Journal of Linguistics_, 17: 51–75.
-* –––, 2004. _Insensitive Semantics_, Oxford: Basil Blackwell Publishers.
-* –––, 2007. _Language Turned On Itself_, Oxford: Oxford University Press.
-* Carnap, Rudolf, 1937. _Logical Syntax of Language_, London: Routledge and Kegan Paul.
-* –––, 1947. _Meaning and Necessity_, Chicago: University of Chicago Press.
-* Christensen, Niels, 1967. ‘The alleged distinction between use and mention’, _Philosophical Review_, 76: 358–67.
-* Clark, Herbert & Richard Gerrig, 1990. ‘Quotations as demonstrations’, _Language_, 66(4): 764–805.
-* Cumming, Sam, 2003. ‘Two accounts of indexicals in mixed quotation’, _Belgian Journal of Linguistics_, 17: 77–88.
-* De Brabanter, Philippe, 2010. ‘The semantics and pragmatics of hybrid quotations’, _Language and Linguistics Compass_, 4(2): 107–120.
-* –––, 2019. ‘The Interpretation of Indexicals in Hybrid Quotation: A Pragmatic Account’, _Anglophonia: French Journal Of English Linguistics_, 28. doi:10.4000/anglophonia.2646.
-* –––, 2022. ‘Accounting for non-constituents in hybrid quotations. Why unquotation is not the answer’, _Journal of Linguistics_, 59(1): 1–22. doi:10.1017/S0022226722000184
+* –––, 2003. ‘Varieties of quotation revisited’, *Belgian Journal of Linguistics*, 17: 51–75.
+* –––, 2004. *Insensitive Semantics*, Oxford: Basil Blackwell Publishers.
+* –––, 2007. *Language Turned On Itself*, Oxford: Oxford University Press.
+* Carnap, Rudolf, 1937. *Logical Syntax of Language*, London: Routledge and Kegan Paul.
+* –––, 1947. *Meaning and Necessity*, Chicago: University of Chicago Press.
+* Christensen, Niels, 1967. ‘The alleged distinction between use and mention’, *Philosophical Review*, 76: 358–67.
+* Clark, Herbert & Richard Gerrig, 1990. ‘Quotations as demonstrations’, *Language*, 66(4): 764–805.
+* Cumming, Sam, 2003. ‘Two accounts of indexicals in mixed quotation’, *Belgian Journal of Linguistics*, 17: 77–88.
+* De Brabanter, Philippe, 2010. ‘The semantics and pragmatics of hybrid quotations’, *Language and Linguistics Compass*, 4(2): 107–120.
+* –––, 2019. ‘The Interpretation of Indexicals in Hybrid Quotation: A Pragmatic Account’, *Anglophonia: French Journal Of English Linguistics*, 28. doi:10.4000/anglophonia.2646.
+* –––, 2022. ‘Accounting for non-constituents in hybrid quotations. Why unquotation is not the answer’, *Journal of Linguistics*, 59(1): 1–22. doi:10.1017/S0022226722000184
 * Elugardo, Reinaldo, 1999. ‘Mixed quotation’, in Murasugi & Stainton.
-* Davidson, Davidson, 1968. ‘On saying that’, in _Inquiries Into Truth and Interpretation_, Oxford: Oxford University Press, pp. 93–108.
-* –––, 1975. ‘Thought and talk’, in _Inquiries Into Truth and Interpretation_, Oxford: Oxford University Press, pp. 155–170.
-* –––, 1979. ‘Quotation’, in _Inquiries Into Truth and Interpretation_, Oxford: Oxford University Press, pp.79–92. Originally published in _Theory and Decision_, 11 (1979): 27–40.
+* Davidson, Davidson, 1968. ‘On saying that’, in *Inquiries Into Truth and Interpretation*, Oxford: Oxford University Press, pp. 93–108.
+* –––, 1975. ‘Thought and talk’, in *Inquiries Into Truth and Interpretation*, Oxford: Oxford University Press, pp. 155–170.
+* –––, 1979. ‘Quotation’, in *Inquiries Into Truth and Interpretation*, Oxford: Oxford University Press, pp.79–92. Originally published in *Theory and Decision*, 11 (1979): 27–40.
 * –––, 1999. ‘Reply to Cappelen and Lepore’, in Zeglen, pp. 100–102.
-* Frege, Gottlob, 1892. ‘On sense and reference’, in _Translations from the Philosophical Writings of Gottlob Frege_, P. Geach and M. Black (eds.), 3rd edition, Oxford: Basil Blackwell, 1980, pp. 56–78.
-* Garcia-Carpintero, Manuel, 1994. ‘Ostensive signs: against the identity theory of quotation’, _Journal of Philosophy_, 91: 253–64.
-* –––, 2004. ‘The deferred ostension theory of quotation’, _Noûs_, 38(4): 674–692.
-* –––, 2012. ‘Minimalism on quotation? Critical Review of Cappelen and Lepore’s Language Turned On Itself’, _Philosophical Studies_, 161(2): 207–225
+* Frege, Gottlob, 1892. ‘On sense and reference’, in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds.), 3rd edition, Oxford: Basil Blackwell, 1980, pp. 56–78.
+* Garcia-Carpintero, Manuel, 1994. ‘Ostensive signs: against the identity theory of quotation’, *Journal of Philosophy*, 91: 253–64.
+* –––, 2004. ‘The deferred ostension theory of quotation’, *Noûs*, 38(4): 674–692.
+* –––, 2012. ‘Minimalism on quotation? Critical Review of Cappelen and Lepore’s Language Turned On Itself’, *Philosophical Studies*, 161(2): 207–225
 * –––, 2017. ‘Reference and Reference-Fixing in Pure Quotation’, in Saka and Johnson (eds.) 2017, pp. 169–194
-* –––, 2018. ‘Pure Quotation Is Demonstrative Reference’, _Journal of Philosophy_, 115 (7): 361–381.
-* Geach, Peter, 1957. _Mental Acts_, London: Routledge Kegan Paul.
-* –––, 1970. ‘Quotation and quantification’, in _Logic Matters_, Oxford: Basil Blackwell.
-* Geurts, Bart and Emar Maier, 2003. ‘Quotation in context’, _Belgian Journal of Linguistics_, 17: 109–128.
-* Goddard, Leonard and Richard Routley, 1966. ‘Use, mention, and quotation’, _Australasian Journal of Philosophy_, 44: 1–49.
-* Goldstein, Laurence, 1984. ‘Quotation of types and types of quotation’, _Analysis_, 44: 1–6.
-* Gomez-Torrente, Mario, 2001. ‘Quotation revisited’, _Philosophical Studies_, 102: 123–53.
-* –––, 2005. ‘Remarks on Impure Quotation’, in Philippe De Brabanter (ed.), _Hybrid Quotations_ (_Belgian Journal of Linguistics_ 2003 Yearbook, Volume 17), Amsterdam: John Benjamins, pp. 129–151
-* –––, 2013. ‘How Quotations Refer’, _Journal of Philosophy_, 110(7): 353–390
+* –––, 2018. ‘Pure Quotation Is Demonstrative Reference’, *Journal of Philosophy*, 115 (7): 361–381.
+* Geach, Peter, 1957. *Mental Acts*, London: Routledge Kegan Paul.
+* –––, 1970. ‘Quotation and quantification’, in *Logic Matters*, Oxford: Basil Blackwell.
+* Geurts, Bart and Emar Maier, 2003. ‘Quotation in context’, *Belgian Journal of Linguistics*, 17: 109–128.
+* Goddard, Leonard and Richard Routley, 1966. ‘Use, mention, and quotation’, *Australasian Journal of Philosophy*, 44: 1–49.
+* Goldstein, Laurence, 1984. ‘Quotation of types and types of quotation’, *Analysis*, 44: 1–6.
+* Gomez-Torrente, Mario, 2001. ‘Quotation revisited’, *Philosophical Studies*, 102: 123–53.
+* –––, 2005. ‘Remarks on Impure Quotation’, in Philippe De Brabanter (ed.), *Hybrid Quotations* (*Belgian Journal of Linguistics* 2003 Yearbook, Volume 17), Amsterdam: John Benjamins, pp. 129–151
+* –––, 2013. ‘How Quotations Refer’, *Journal of Philosophy*, 110(7): 353–390
 * –––, 2017. ‘Semantics vs. Pragmatics in Impure Quotation’, in Saka and Johnson 2017, pp. 135–16
-* Johnson, Michael, 2018. ‘Pure Quotation and Natural Naming’, _Journal of Philosophy_, 115(10): 550–566.
-* Kaplan, David, 1973. ‘Bob, Ted, Carol and Alice’, in _Approaches to Natural language_, J. Hintikka, et al. (eds.), pp. 490–518.
-* –––, 1989. ‘Demonstratives’, in _Themes from Kaplan_, J. Almog, J. Perry, and H. Wettstein (eds.), Oxford: Oxford University Press, pp. 481–564.
-* Lepore, Ernest, 1999. ‘The scope and limits of quotation.’ in _The Philosophy of Donald Davidson_, L. E. Hahn (ed.), Open Court Publishers, pp. 691–714.
-* Lepore, Ernest, and Barry Loewer, 1989. ‘You can say that again’, _Midwest Studies in Philosophy_, 14: 338–356.
-* Ludwig, Kurt and Greg Ray, 1998. ‘Semantics for opaque contexts.’ _Philosophical Perspectives_, 12: 141–166.
+* Johnson, Michael, 2018. ‘Pure Quotation and Natural Naming’, *Journal of Philosophy*, 115(10): 550–566.
+* Kaplan, David, 1973. ‘Bob, Ted, Carol and Alice’, in *Approaches to Natural language*, J. Hintikka, et al. (eds.), pp. 490–518.
+* –––, 1989. ‘Demonstratives’, in *Themes from Kaplan*, J. Almog, J. Perry, and H. Wettstein (eds.), Oxford: Oxford University Press, pp. 481–564.
+* Lepore, Ernest, 1999. ‘The scope and limits of quotation.’ in *The Philosophy of Donald Davidson*, L. E. Hahn (ed.), Open Court Publishers, pp. 691–714.
+* Lepore, Ernest, and Barry Loewer, 1989. ‘You can say that again’, *Midwest Studies in Philosophy*, 14: 338–356.
+* Ludwig, Kurt and Greg Ray, 1998. ‘Semantics for opaque contexts.’ *Philosophical Perspectives*, 12: 141–166.
 * –––, 2017. ‘Unity in the Variety of Quotation’, in Saka and Johnson (eds.) 2017, pp.99–134
-* Maier, Emar, 2014a. ‘Mixed quotation: the grammar of apparently transparent opacity’, _Semantics and Pragmatics_, 7(7): 1–67.
-* –––, 2014b. ‘Pure Quotation’, _Philosophy Compass_, 9(9): 615–630
-* –––, 2015. ‘Quotation and unquotation in free indirect discourse’, _Mind and Language_, 30(3): 345–373.
-* –––, 2016. ‘A plea against monsters’, _Grazer Philosophische Studien_, 93: 363–395.
+* Maier, Emar, 2014a. ‘Mixed quotation: the grammar of apparently transparent opacity’, *Semantics and Pragmatics*, 7(7): 1–67.
+* –––, 2014b. ‘Pure Quotation’, *Philosophy Compass*, 9(9): 615–630
+* –––, 2015. ‘Quotation and unquotation in free indirect discourse’, *Mind and Language*, 30(3): 345–373.
+* –––, 2016. ‘A plea against monsters’, *Grazer Philosophische Studien*, 93: 363–395.
 * –––, 2017. ‘The Pragmatics Of Attraction. Explaining Unquotation in Direct and Free Indirect Discourse’, in Saka and Johnson (eds.) 2017: 259–302
-* –––, 2020. ‘Mixed Quotation’, in _The Companion to Semantics_, Daniel Gutzmann, Lisa Matthewson, Cécile Meier, Hotze Rullman, and Ede Zimmerman (eds.), Wiley Blackwell.
-* Mates, B., 1972. _Elementary Logic_, 2nd edition, Oxford: Oxford University Press.
-* McCullagh, Mark, 2006. ‘Understanding mixed quotation’, _Mind_, 116: 927–46.
+* –––, 2020. ‘Mixed Quotation’, in *The Companion to Semantics*, Daniel Gutzmann, Lisa Matthewson, Cécile Meier, Hotze Rullman, and Ede Zimmerman (eds.), Wiley Blackwell.
+* Mates, B., 1972. *Elementary Logic*, 2nd edition, Oxford: Oxford University Press.
+* McCullagh, Mark, 2006. ‘Understanding mixed quotation’, *Mind*, 116: 927–46.
 * –––, 2017. ‘Scare-quoting and incorporation’, in Saka and Johnson (eds.) 2017, pp.3–34.
-* Miller, James, 2019. ‘Natural Name Theory and Linguistic Kinds’, _Journal of Philosophy_, 116(9): 494–508
-* Munro, Pamela, 1982. ‘On the transitivity of say-verbs’ in P. Hopper & S. Thompson (eds.), _Studies in Transitivity. Syntax and Semantics_, New York, San Francisco, London: Academic Press, pp. 301–318.
-* Murasugi, Kumiko & Robert Stainton (eds.), 1999. _Philosophy and Linguistics_, Boulder CO: Westview.
-* Pagin, Peter & Westerståhl, Dag, 2010. ‘Pure quotation and general compositionality’, _Linguistics and Philosophy_, 33(5): 381–415.
-* Parsons, Terence, 1982. ‘What do quotation marks name? Frege’s theories of quotations and that-clauses’, _Philosophical Studies_, 42: 315–328.
-* Partee, Barbara, 1973. ‘The syntax and semantics of quotation’, in _A Festschrift for Morris Halle_, S.R. Anderson and P. Kiparsky (eds.), New York: Holt, Reinehart and Winston, pp. 410–418.
+* Miller, James, 2019. ‘Natural Name Theory and Linguistic Kinds’, *Journal of Philosophy*, 116(9): 494–508
+* Munro, Pamela, 1982. ‘On the transitivity of say-verbs’ in P. Hopper & S. Thompson (eds.), *Studies in Transitivity. Syntax and Semantics*, New York, San Francisco, London: Academic Press, pp. 301–318.
+* Murasugi, Kumiko & Robert Stainton (eds.), 1999. *Philosophy and Linguistics*, Boulder CO: Westview.
+* Pagin, Peter & Westerståhl, Dag, 2010. ‘Pure quotation and general compositionality’, *Linguistics and Philosophy*, 33(5): 381–415.
+* Parsons, Terence, 1982. ‘What do quotation marks name? Frege’s theories of quotations and that-clauses’, *Philosophical Studies*, 42: 315–328.
+* Partee, Barbara, 1973. ‘The syntax and semantics of quotation’, in *A Festschrift for Morris Halle*, S.R. Anderson and P. Kiparsky (eds.), New York: Holt, Reinehart and Winston, pp. 410–418.
 * Pietroski, Paul, 1999. ‘Compositional quotation’, in Murasugi & Stainton, pp. 245–58.
-* Potts, Christopher, 2007. ‘The Dimensions of Quotation’, in Chris Barker and Pauline Jacobsen (eds.), _Direct Compositionality_, Oxford: Oxford University Press, pp. 405–431
-* Predelli, Stefano, 2003. ‘Scare quotes and their relation to other semantic issues’, _Linguistics and Philosophy_, 26(1): 1–28.
-* –––, 2003. ‘“Subliminable” messages, scare quotes, and the use hypothesis’, _Belgian Journal of Linguistics_, 17: 153–166.
-* –––, 2008. ‘The demonstrative theory of quotation’, _Linguistics and Philosophy_, 31(5): 555–572.
-* Prior, Arthur, 1971. _Objects of Thought_, Oxford: Oxford University Press.
-* Quine, Willard Van Orman., 1940. _Mathematical Logic_, Boston, MA: Harvard University Press.
-* –––, 1955. ‘Quantifiers and propositional attitudes’, _Journal of Philosophy_, 53: 177–86.
-* –––, 1960. _Word and Object_, Cambridge, MA: MIT Press.
+* Potts, Christopher, 2007. ‘The Dimensions of Quotation’, in Chris Barker and Pauline Jacobsen (eds.), *Direct Compositionality*, Oxford: Oxford University Press, pp. 405–431
+* Predelli, Stefano, 2003. ‘Scare quotes and their relation to other semantic issues’, *Linguistics and Philosophy*, 26(1): 1–28.
+* –––, 2003. ‘“Subliminable” messages, scare quotes, and the use hypothesis’, *Belgian Journal of Linguistics*, 17: 153–166.
+* –––, 2008. ‘The demonstrative theory of quotation’, *Linguistics and Philosophy*, 31(5): 555–572.
+* Prior, Arthur, 1971. *Objects of Thought*, Oxford: Oxford University Press.
+* Quine, Willard Van Orman., 1940. *Mathematical Logic*, Boston, MA: Harvard University Press.
+* –––, 1955. ‘Quantifiers and propositional attitudes’, *Journal of Philosophy*, 53: 177–86.
+* –––, 1960. *Word and Object*, Cambridge, MA: MIT Press.
 * –––, 1961. ‘Reference and modality’, in Quine 1961a, pp. 139–159.
-* –––, 1961a. _From a Logical Point Of View_, Cambridge, MA: Harvard University Press.
-* Rabern, Brian, forthcoming. ‘Pure quotation in linguistic context’, _Journal of Philosophical Logic_, first online 07 September 2022. doi:10.1007/s10992-022-09675-3
-* Read, Stephen, 1997. ‘Quotation and Geach’s puzzle’, _Acta Analytica_, 19(S): 9–20.
-* Recanati, François, 2000. _Oratio Obliqua, Oratio Recta: An Essay on Metarepresentation_, Cambridge, MA: MIT Press.
-* –––, 2001. ‘Open quotation’, _Mind_, 110: 637–87.
-* –––, 2010. _Truth-conditional Pragmatics_, Oxford: Oxford University Press.
-* Reichenbach, Hans, 1947. _Elements of Symbolic Logic_, New York: Free Press.
-* Reimer, Marga, 1996. ‘Quotation marks: demonstratives or demonstrations?’ _Analysis_, 56: 131–42.
-* –––, 2003. ‘Too counter-intuitive to believe? Pragmatic accounts of mixed quotation’, _Belgian Journal of Linguistics_, 17: 167–186.
-* Richard, Mark, 1986. ‘Quotation, grammar, and opacity’, _Linguistics and Philosophy_, 9: 383–403.
-* Saka, Paul, 1998. ‘Quotation and the use-mention Distinction’, _Mind_, 107: 113–35.
-* –––, 1999. ‘Quotation: a reply to Cappelen & Lepore’, _Mind_, 108(432): 751–54.
-* –––, 2003. ‘Quotational constructions’, _Belgian Journal of Linguistics_, 17: 187–212.
-* –––, 2006. ‘The Demonstrative and Identity Theories of Quotation’, _The Journal of Philosophy_, 103(9): 452–471.
-* –––, 2011a. ‘The act of quotation’, in E. Brendal, J. Meibauer, M. Steinbach (eds.), _Understanding Quotation_, Berlin: Mouton De Gruyter, 303–22.
-* –––, 2011b. ‘Quotation And Conceptions Of Language’, _dialectica_, 65(2): 205–220.
-* –––, 2013. ‘Quotation’, _Philosophy Compass_ 8(10): 935–949
-* –––, 2017. ‘_Blah,Blah,Blah_: Quasi-quotation and Unquotation’, in Saka and Johnson (eds.) 2017, pp. 35–63
-* Saka, Paul and Michael Johnson (eds.), 2017. _The Semantics and Pragmatics of Quotation_, Dordrecht: Springer.
-* Salmon, Nathan, 1986. _Frege’s Puzzle_, Cambridge, MA: MIT Press.
-* Searle, John, 1969. _Speech Acts_, Cambridge: Cambridge University Press, §4.1.
-* Sellars, W., 1963. ‘Abstract entities’, _Review of Metaphysics_, 16(4): 627–671; reprinted in Sellars, _Philosophical Perspectives_, Springfield, IL, Charles Thomas, 1967, pp. 229–269.
-* Seymour, Michel, 1994. ‘Indirect discourse and quotation’, _Philosophical Studies_, 74: 1–38.
-* Smullyan, Raymond, 1957, ‘Languages in which self-reference is possible’, _Journal of Symbolic Logic_, 22: 55–67.
-* Sorensen, Roy, 2008. ‘Empty quotation’, _Analysis_, 68(297): 57–61.
-* Sperber, Dan and Deirdre Wilson, 1981. ‘Irony and the use-mention distinction’, in P. Cole (ed.), _Radical Pragmatics_, New York: Academic Press, pp. 295–318.
-* –––, 1986. _Relevance: Communication and Cognition_, Oxford: Blackwell, 2nd edition, 1995.
+* –––, 1961a. *From a Logical Point Of View*, Cambridge, MA: Harvard University Press.
+* Rabern, Brian, forthcoming. ‘Pure quotation in linguistic context’, *Journal of Philosophical Logic*, first online 07 September 2022. doi:10.1007/s10992-022-09675-3
+* Read, Stephen, 1997. ‘Quotation and Geach’s puzzle’, *Acta Analytica*, 19(S): 9–20.
+* Recanati, François, 2000. *Oratio Obliqua, Oratio Recta: An Essay on Metarepresentation*, Cambridge, MA: MIT Press.
+* –––, 2001. ‘Open quotation’, *Mind*, 110: 637–87.
+* –––, 2010. *Truth-conditional Pragmatics*, Oxford: Oxford University Press.
+* Reichenbach, Hans, 1947. *Elements of Symbolic Logic*, New York: Free Press.
+* Reimer, Marga, 1996. ‘Quotation marks: demonstratives or demonstrations?’ *Analysis*, 56: 131–42.
+* –––, 2003. ‘Too counter-intuitive to believe? Pragmatic accounts of mixed quotation’, *Belgian Journal of Linguistics*, 17: 167–186.
+* Richard, Mark, 1986. ‘Quotation, grammar, and opacity’, *Linguistics and Philosophy*, 9: 383–403.
+* Saka, Paul, 1998. ‘Quotation and the use-mention Distinction’, *Mind*, 107: 113–35.
+* –––, 1999. ‘Quotation: a reply to Cappelen & Lepore’, *Mind*, 108(432): 751–54.
+* –––, 2003. ‘Quotational constructions’, *Belgian Journal of Linguistics*, 17: 187–212.
+* –––, 2006. ‘The Demonstrative and Identity Theories of Quotation’, *The Journal of Philosophy*, 103(9): 452–471.
+* –––, 2011a. ‘The act of quotation’, in E. Brendal, J. Meibauer, M. Steinbach (eds.), *Understanding Quotation*, Berlin: Mouton De Gruyter, 303–22.
+* –––, 2011b. ‘Quotation And Conceptions Of Language’, *dialectica*, 65(2): 205–220.
+* –––, 2013. ‘Quotation’, *Philosophy Compass* 8(10): 935–949
+* –––, 2017. ‘*Blah,Blah,Blah*: Quasi-quotation and Unquotation’, in Saka and Johnson (eds.) 2017, pp. 35–63
+* Saka, Paul and Michael Johnson (eds.), 2017. *The Semantics and Pragmatics of Quotation*, Dordrecht: Springer.
+* Salmon, Nathan, 1986. *Frege’s Puzzle*, Cambridge, MA: MIT Press.
+* Searle, John, 1969. *Speech Acts*, Cambridge: Cambridge University Press, §4.1.
+* Sellars, W., 1963. ‘Abstract entities’, *Review of Metaphysics*, 16(4): 627–671; reprinted in Sellars, *Philosophical Perspectives*, Springfield, IL, Charles Thomas, 1967, pp. 229–269.
+* Seymour, Michel, 1994. ‘Indirect discourse and quotation’, *Philosophical Studies*, 74: 1–38.
+* Smullyan, Raymond, 1957, ‘Languages in which self-reference is possible’, *Journal of Symbolic Logic*, 22: 55–67.
+* Sorensen, Roy, 2008. ‘Empty quotation’, *Analysis*, 68(297): 57–61.
+* Sperber, Dan and Deirdre Wilson, 1981. ‘Irony and the use-mention distinction’, in P. Cole (ed.), *Radical Pragmatics*, New York: Academic Press, pp. 295–318.
+* –––, 1986. *Relevance: Communication and Cognition*, Oxford: Blackwell, 2nd edition, 1995.
 * Stainton, Robert, 1999, ‘Remarks on the syntax and semantics of mixed quotation’, in Murasugi & Stainton, 259–278.
-* Tarski, Alfred, 1933. ‘The concept of truth in formalized languages’, in A. Tarski, _Logic, Semantics, Metamathematics_, 2nd edition, Indianapolis: Hackett, 1983, pp. 152–278.
-* Tsohatzidis, Savas, 1998. ‘The hybrid theory of mixed quotation’, _Mind_, 107: 661–64.
-* Wallace, Jay, 1972. ‘On the frame of reference’, in _Semantics of Natural Language_, D. Davidson and G. Harman (eds.), Dordrecht: D. Reidel, pp. 219–252.
-* Washington, Corey, 1992. ‘The identity theory of quotation’, _Journal of Philosophy_, 89: 582–605.
-* Wertheimer, Roger, 1999. ‘Quotation apposition’, _Philosophical Quarterly_, 49(197): 514–19.
-* Wilson, Dan, 2000. ‘Metarepresentation in linguistic communication’, in D. Sperber (ed.), _Metarepresentations: A Multidisciplinary Perspective_, New York: Oxford University Press, pp. 411–448.
-* Zeglen, Urszula, 1999. _Donald Davidson: Truth, Meaning and Knowledge_, London: Routledge.
+* Tarski, Alfred, 1933. ‘The concept of truth in formalized languages’, in A. Tarski, *Logic, Semantics, Metamathematics*, 2nd edition, Indianapolis: Hackett, 1983, pp. 152–278.
+* Tsohatzidis, Savas, 1998. ‘The hybrid theory of mixed quotation’, *Mind*, 107: 661–64.
+* Wallace, Jay, 1972. ‘On the frame of reference’, in *Semantics of Natural Language*, D. Davidson and G. Harman (eds.), Dordrecht: D. Reidel, pp. 219–252.
+* Washington, Corey, 1992. ‘The identity theory of quotation’, *Journal of Philosophy*, 89: 582–605.
+* Wertheimer, Roger, 1999. ‘Quotation apposition’, *Philosophical Quarterly*, 49(197): 514–19.
+* Wilson, Dan, 2000. ‘Metarepresentation in linguistic communication’, in D. Sperber (ed.), *Metarepresentations: A Multidisciplinary Perspective*, New York: Oxford University Press, pp. 411–448.
+* Zeglen, Urszula, 1999. *Donald Davidson: Truth, Meaning and Knowledge*, London: Routledge.
 
 ### Academic Tools
 
@@ -999,6 +999,6 @@ Reichenbach（1947 年，第 284 页）写道：“普通引语操作从一个�
 The authors would like to thank Poppy Mankowitz and a reviewer for suggesting several helpful changes, Mike Cohen for pointing out a typo, and two anonymous readers (in 2018 and 2023) for pointing out an unclarity in our discussion of the Proper Name Theory. The editors would like to thank Milan Emil Mosse for noting and reporting a number of typographical errors that have subsequently been corrected.
 
 [Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
-Herman Cappelen <[_h.w.cappelen@ifikk.uio.no_](mailto:h%2ew%2ecappelen%40ifikk%2euio%2eno)>\
+Herman Cappelen <[*h.w.cappelen@ifikk.uio.no*](mailto:h%2ew%2ecappelen%40ifikk%2euio%2eno)>\
 [Ernest Lepore](http://ruccs.rutgers.edu/faculty/lepore.html)\
-Matthew McKeever <[_mipmckeever@gmail.com_](mailto:mipmckeever%40gmail%2ecom)>
+Matthew McKeever <[*mipmckeever@gmail.com*](mailto:mipmckeever%40gmail%2ecom)>

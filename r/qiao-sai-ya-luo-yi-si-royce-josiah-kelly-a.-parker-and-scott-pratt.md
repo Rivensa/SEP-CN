@@ -5,16 +5,12 @@
 ![Portrait of Josiah Royce 1914](https://plato.stanford.edu/entries/royce/Josiah_Royce_MS29_small_bw.jpg)
 
  乔赛亚·罗伊斯收藏品
- 
+
 29 号特藏馆女士，
 
 约翰霍普金斯大学的米尔顿·S·艾森豪威尔图书馆
 
 约翰霍普金斯大学的米尔顿·S·艾森豪威尔图书馆的特藏馆
-
-
-
-
 
 乔赛亚·罗伊斯（1855 年-1916 年）是绝对唯心主义的美国主要倡导者，这种形而上学观点（也由 G.W.F.黑格尔和 F.H.布拉德利维持）认为现实的所有方面，包括我们经历的那些不连贯或矛盾的方面，最终统一于一个包罗万象的意识的思想中。罗伊斯在伦理学、社区哲学、宗教哲学和逻辑学方面也做出了原创性的贡献。他的主要作品包括《哲学的宗教方面》（1885 年）、《世界与个体》（1899-1901 年）、《忠诚的哲学》（1908 年）和《基督教问题》（1913 年）。罗伊斯与威廉·詹姆斯之间友好但长期的争论，被称为“绝对之战”，深刻影响了两位哲学家的思想。在他后期的作品中，罗伊斯将他的形而上学重新构想为一种以符号学为基础的“绝对实用主义”。这种观点摒弃了先前唯心主义的绝对心灵，而是将现实描述为一种思想或符号的宇宙，这些思想或符号在无限的心灵社区中被解释的过程中发生。这些心灵和它们构成的社区本身也可以被理解为符号。罗伊斯的伦理学、社区哲学、宗教哲学和逻辑学反映了这种形而上学立场。
 
@@ -287,7 +283,7 @@ Royce’s papers can be found in:
 Royce’s unpublished writings are indexed and described in the following two works:
 
 > Frank Oppenheim, with the assistance of Dawn Aberg and John Kaag, 2011, *Comprehensive Index of the Josiah Royce Papers in the Harvard University Archives*, Indiana University-Purdue University Indianapolis. [Oppenheim Comprehensive Index](https://royce-edition.iupui.edu/oppenheim-index/)
-> 
+>
 > “Royce, Josiah, [1855–1916: Papers of Josiah Royce: An Inventory](http://nrs.harvard.edu/urn-3:HUL.ARCH:hua16003),” (HUG 1755), Cambridge, MA: Harvard University Library, 2009;
 
 #### Other Primary Literature

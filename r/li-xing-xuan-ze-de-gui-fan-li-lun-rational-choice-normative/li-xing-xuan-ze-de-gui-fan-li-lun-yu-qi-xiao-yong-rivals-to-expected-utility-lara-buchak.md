@@ -1,4 +1,5 @@
 # 理性选择的规范理论：预期效用 rivals to expected utility (Lara Buchak)
+
 *首次发表于 2022 年 5 月 16 日星期一*
 
 预期效用理论认为，决策者应该最大化预期效用，这是仪器理性的主流理论。然而，对于该理论描述所有理性偏好的主张，出现了四个主要挑战。这些挑战包括无限或无界价值的现象，不可比较的商品，不精确的概率和风险规避。这些挑战伴随着试图做得更好的替代理论的出现。
@@ -405,7 +406,6 @@ REU 的表示定理结合了两个现有定理的条件（Machina＆Schmeidler 1
 试图保留欧盟但改进结果空间的提案面临两个特定的担忧。其中之一是决策理论的限制最终变得琐碎(Dreier 1996)；另一个是它们使决策者对不可能的对象拥有偏好(Broome 1991)。
 
 对于拒绝确定性原则或独立公理的理论，会出现几个潜在的担忧，包括这些公理在直觉上是正确的担忧(Harsanyi 1977，Savage 1954，Samuelson 1952；参见 McClennen 1983，1990 中的讨论)；决策者会不一致地评估后果(Samuelson 1952，Broome 1991)；决策者会拒绝免费信息(Good 1967，Wakker 1988，Buchak 2013，Ahmed & Salow 2019，Campbell-Moore & Salow 2020)。最广泛讨论的担忧是这些理论会使决策者容易出现时间上的不一致(Raiffa 1968；Machina 1989；Hammond 1988；McClennen 1988，1990；Seidenfeld 1988a,b；Maher 1993；Rabinowicz 1995，1997；Buchak 2013，2015，2017；Briggs 2015；Joyce 2017；Thoma 2019)。
-
 
 ## Bibliography
 

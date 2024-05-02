@@ -186,7 +186,7 @@ Ackermann（1928a）对于稍微复杂一些的 Ackermann 函数（在补充中�
 
 哥德尔引入了递归的概念来描述以这种方式定义的函数。根据奥迪弗雷迪（1989 年：第 I.2 章）的现代化呈现，可以基于以下初始定义来指定这个类别：[12]
 
-** 定义 1.1**
+**定义 1.1**
 
 1. 数字类是包含 0 并且在后继函数下封闭的最小集合。我们用表示数字 n 的次数。
 2. 术语类是包含数字、变量并且在操作下封闭的最小集合，其中是术语，是原始的 n 元函数符号。
@@ -401,7 +401,7 @@ i.
 
 然后我们可以通过重复组合来定义常数 k 函数：
 
-##### b. 指数运算，超级指数运算，...
+##### b. 指数运算，超级指数运算
 
 我们已经看到，加法函数可以通过原始递归来定义，其中使用了后继函数的重复应用，而乘法函数可以通过原始递归来定义，其中使用了加法的重复应用。我们可以通过观察到指数函数可以通过原始递归来定义，其中使用了乘法的重复应用，如下所示：
 
@@ -637,7 +637,7 @@ i.
 
 由于很容易看出最小化操作如何用于定义部分函数，因此可以预期上述观察结果。更令人惊讶的是，存在数学上定义良好的总函数，但它们是不可计算的。在第 1.7 节关于决策问题的讨论基础上，这种函数的最著名的例子源自于所谓的停机问题（参见图灵机条目）对于图灵机模型。这最初由图灵（1937）如下所述：
 
-Since it is easy to see how the minimization operation can be used to define partial functions, the foregoing observations are expected. What is more surprising is that there are mathematically well-defined *total* functions which are not computable. Building on the discussion of the *Entscheidungsproblem* in [Section 1.7](https://plato.stanford.edu/entries/recursive-functions/#EntsUnde), the most famous example of such a function derives from the so-called *[Halting Problem](https://plato.stanford.edu/entries/turing-machine/#HaltProb)*​[ (see entry on Turing machines)](https://plato.stanford.edu/entries/turing-machine/#HaltProb) for the Turing Machine model. This was originally formulated by Turing (1937) as follows:
+Since it is easy to see how the minimization operation can be used to define partial functions, the foregoing observations are expected. What is more surprising is that there are mathematically well-defined *total* functions which are not computable. Building on the discussion of the *Entscheidungsproblem* in [Section 1.7](https://plato.stanford.edu/entries/recursive-functions/#EntsUnde), the most famous example of such a function derives from the so-called *[Halting Problem](https://plato.stanford.edu/entries/turing-machine/#HaltProb)*​[(see entry on Turing machines)](https://plato.stanford.edu/entries/turing-machine/#HaltProb) for the Turing Machine model. This was originally formulated by Turing (1937) as follows:
 
 给定图灵机的索引，机器在输入上是否停机？
 
@@ -730,7 +730,7 @@ Rice 定理（3.4）提供了一种方法来显示许多实际重要的决策问
 
 命题 3.2 的第四部分还为可计算可枚举集合提供了一种方便的统一表示法，即如果我们用.来表示。因此，该序列相对于我们之前对一元部分可计算函数的枚举提供了一种统一的枚举方式。这种表示法还有助于以下内容的制定：
 
-** 命题 3.3：**
+**命题 3.3：**
 
 1. 可计算可枚举集合在并集、交集和笛卡尔积下是有效封闭的，即存在可计算函数和，使得如果和，则
 
@@ -888,7 +888,7 @@ Rice 定理（3.4）提供了一种方法来显示许多实际重要的决策问
 
 与图灵度的类似研究（将在第 3.5.2 节中定义）一起，自从 Post（1944 年）引入多对一度以来，研究的重点一直是结构的调查。这个结构的一些性质如下：
 
-** 命题 3.6：**
+**命题 3.6：**
 
 1. m-度数在补集下不封闭 - 即存在集合使得和不属于 m-度数。
 2. 和是不同的 m-度数，它们都是（显然）可计算的。
@@ -957,7 +957,7 @@ Kleene（1943）描述了递归函数的类似思想如下：
 
 —这被称为图灵度，很容易看出它是一个偏序。以下是一些说明和一一度之间关系的观察：
 
-** 定理 3.7：**
+**定理 3.7：**
 
 1. 存在一个唯一的可计算图灵度，用（当与 m-度没有歧义时通常写作）。由所有可计算集合组成，是唯一的最小图灵度。
 2. 对于所有集合 , 和  以及 .
@@ -1055,7 +1055,7 @@ Friedberg-Muchnik 定理（3.8）的证明需要开发一种称为优先级方�
 
 将这些分类与可计算性理论概念相关联的第一步是由以下内容提供的：
 
-** 命题 3.8：**
+**命题 3.8：**
 
 1. 如果存在一个定义了的公式，则关系是可计算可枚举的。
 2. 如果且仅当存在一个定义的公式，关系才是可计算的。
@@ -1139,7 +1139,7 @@ Kleene 在一系列论文中引入了现在被称为分析层次的概念（1955
 
 其中只包含数量化符号，而取决于是偶数还是奇数。因此，可以将-公式及其定义的集合分为以下类别：
 
-** 定义 3.18：**
+**定义 3.18：**
 
 我们用和来表示不包含集合量词的-公式的类（即所谓的算术公式）。如果一个公式是形式的，那么它属于这个类，其中和是关系可定义的，如果它由一个-公式定义。类似地，如果一个-公式是形式的，那么它属于这个类，其中和是关系可定义的，如果它由一个-公式定义。如果一个关系既可以由一个-公式又可以由一个-公式定义，那么它是-可定义的。
 

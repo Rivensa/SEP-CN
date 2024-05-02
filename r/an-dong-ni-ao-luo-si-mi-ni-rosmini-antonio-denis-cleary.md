@@ -205,86 +205,85 @@ Other abbreviations:
 * Cleary, D., and Watson, T. (trans.), Durham: Rosmini House.
   
   * *Principles of Ethics*. 1988.
-    
+
   * *Conscience*. 1989.
-    
+
   * *Anthropology as an Aid to Moral Science*. 1991.
-    
+
   * *The Philosophy of Politics*. 1994.
-    
+
     vol. 1
-    
+
     *The Summary Cause for the Stability or Downfall of Human Societies*.
-    
+
     vol. 2
-    
+
     *Society and Its Purpose*.
-    
+
   * *The Philosophy of Right*.
-    
+
     vol. 1
-    
+
     *The Essence of Right*. 1993.
-    
+
     vol. 2
-    
+
     *Rights of the Individual*. 1993.
-    
+
     vol. 3
-    
+
     *Universal Social Right*. 1995.
-    
+
     vol. 4
-    
+
     *Rights in God’s Church*. 1995.
-    
+
     vol. 5
-    
+
     *Rights in the Family*. 1995.
-    
+
     vol. 6
-    
+
     *Rights in Civil Society*. 1996.
-    
+
   * *Psychology*. 1999.
-    
+
     vol. 1
-    
+
     *Essence of the Human Soul*.
-    
+
     vol. 2
-    
+
     *Development of the Human Soul*.
-    
+
     vol. 3
-    
+
     *Laws of Animality*.
-    
+
     vol. 4
-    
+
     *Opinions about the Human Soul*.
-    
+
   * *Theosophy*. 2007.
-    
+
     vol. 1
-    
+
     The Problem of Ontology Being-as-one
-    
+
     vol. 2
-    
+
     Trine Being
-    
+
     vol. 3
-    
+
     Trine Being Continued
-    
+
 * Grey, M. (trans.), 1887, *The ruling Principle of Method applied to Education*. Boston.
   
 * Murphy, R. (trans.), 2004, *Introduction to Philosophy*, Durham, UK: Rosmini House.
   
 * Signini, F. (trans.), 1912, *Theodicy*. 3 vols. London
   
-
 ### Secondary Works
 
 * Bergamaschi, Cirillo, 2001, *Grande dizionario antologico del pensiero di Antonio Rosmini*, (4 vols of explanations of words and phrases from Rosmini’s works in Rosmini’s own words), Rome: Città Nuova Editrice. [CD version available.]

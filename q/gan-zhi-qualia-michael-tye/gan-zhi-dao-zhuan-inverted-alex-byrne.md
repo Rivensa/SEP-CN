@@ -1,6 +1,6 @@
 # 感质倒转 inverted (Alex Byrne)
 
-_首次发表于2004年11月10日；实质性修订于2020年8月26日。_
+*首次发表于2004年11月10日；实质性修订于2020年8月26日。*
 
 感质倒转思想实验在当代心灵哲学中无处不在（主要是由于 Shoemaker 1982 和 Block 1990 的影响）。最流行的一种是洛克的“光谱倒转”的假设案例或其变种，其中草莓和熟番茄产生了实际上由草和黄瓜产生的视觉体验，而草和黄瓜产生了实际上由草莓和熟番茄产生的体验，依此类推。本文概述了丹尼特所称的“哲学中最具毒性的模因之一”的主要哲学应用（1991 年，389 页）。
 
@@ -158,7 +158,7 @@ Hilbert 和 Kalderon 认为“每个可能的质量空间都必须是不对称�
 
 注意，如果想要一个行为上无法检测到的情景，一个实际的光谱倒转案例将不符合要求。
 
-## 3. 在一个论证中的光谱倒转...
+## 3. 在一个论证中的光谱倒转
 
 倒转情景，特别是光谱倒转，在各种哲学论证中出现，现在我们有能力来进行检查。
 
@@ -614,177 +614,177 @@ C.
 
 ## Bibliography
 
-* Allen, K., 2010, “Locke and the Nature of Ideas”, _Archiv für Geschichte der Philosophie_, 92: 236–255.
-* Averill, E. W., 1992, “The Relational Nature of Color”, _Philosophical Review_, 101: 551–88.
-* Ayer, A. J., 1936, _Language, Truth and Logic_, London: Victor Gollancz; page reference is to the 1971 reprint, Harmondsworth, England: Pelican Books.
-* –––, (ed.), 1959, _Logical Positivism_, New York: The Free Press.
-* Block, N., 1980, “Troubles with Functionalism”, in _Readings in Philosophy of Psychology_, Vol. 1, N. Block (ed.), Cambridge, MA: Harvard University Press, pp. 268–305.
-* –––, 1990, “Inverted Earth”, _Philosophical Perspectives_, 4: 53–79.
-* –––, 1995, “On a Confusion about a Function of Consciousness”, _Behavioral and Brain Sciences_, 18: 227–47.
-* –––, 1996a, “Mental Paint and Mental Latex”, _Philosophical Issues_, 7: 19–49.
-* –––, 1996b, “Functionalism”, in _The Encyclopedia of Philosophy Supplement_, D. Borchert (ed.), New York: Macmillan, pp. 756–761. \[[Preprint available online in PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/functionalism.pdf).]
-* –––, 1999, “Sexism, Racism, Ageism and the Nature of Consciousness”, in _Philosophical Topics_, 26 (1&2). \[[Preprint available online](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/sexism.html).]
-* –––, 2002, “The Harder Problem of Consciousness”, _Journal of Philosophy_, 94: 1–35. \[[Preprint available online](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/2002.HarderProblem.pdf).]
-* –––, 2003, “Mental Paint”, in _Reflections and Replies: Essays on the Philosophy of Tyler Burge_, M. Hahn and B. Ramberg (eds.), Cambridge, MA: MIT Press, pp. 165–200. \[[Preprint available online in PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/mentalpaint.pdf).]
-* –––, 2007, “Wittgenstein and Qualia”, _Philosophical Perspectives_, 21: 73–115. \[[Preprint available online in PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Wittgenstein\_Qualia.pdf).]
-* Block, N. and Fodor, J., 1972, “What Psychological States Are Not”, _Philosophical Review_, 81: 159–81.
-* Block, N. and Stalnaker, R., 1999, “Conceptual Analysis, Dualism, and the Explanatory Gap”, _Philosophical Review_ 108: 1–46. \[[Preprint available online](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/ExplanatoryGap.html).]
-* Boghossian, P., and Velleman, J. D., 1991, “Physicalist Theories of Color”, _Philosophical Review_, 100: 67–106. Reprinted in Byrne and Hilbert 1997a.
-* Brenner, W. H., 2015, “From Inverted Spectra to Colorless Qualia: A Wittgensteinian Critique”, _Philosophical Investigations_, 38(4): 360–381; first published online 2014. doi:10.1111/phin.12048
-* Broackes, J., 2007, “Black and White and the Inverted Spectrum”, _Philosophical Quarterly_, 57: 161–75.
-* Burge, T., 1979, “Individualism and the Mental”, _Midwest Studies in Philosophy_, 4: 73–121.
-* Byrne, A., 2001, “Intentionalism Defended”, _Philosophical Review_, 110: 199–240.
-* –––, 2002, “Something About Mary”, _Grazer Philosophische Studien_, 63: 123–40.
-* Byrne, A., and Hilbert, D. R., 1997a, _Readings on Color, Volume 1: The Philosophy of Color_, Cambridge, MA: MIT Press.
+* Allen, K., 2010, “Locke and the Nature of Ideas”, *Archiv für Geschichte der Philosophie*, 92: 236–255.
+* Averill, E. W., 1992, “The Relational Nature of Color”, *Philosophical Review*, 101: 551–88.
+* Ayer, A. J., 1936, *Language, Truth and Logic*, London: Victor Gollancz; page reference is to the 1971 reprint, Harmondsworth, England: Pelican Books.
+* –––, (ed.), 1959, *Logical Positivism*, New York: The Free Press.
+* Block, N., 1980, “Troubles with Functionalism”, in *Readings in Philosophy of Psychology*, Vol. 1, N. Block (ed.), Cambridge, MA: Harvard University Press, pp. 268–305.
+* –––, 1990, “Inverted Earth”, *Philosophical Perspectives*, 4: 53–79.
+* –––, 1995, “On a Confusion about a Function of Consciousness”, *Behavioral and Brain Sciences*, 18: 227–47.
+* –––, 1996a, “Mental Paint and Mental Latex”, *Philosophical Issues*, 7: 19–49.
+* –––, 1996b, “Functionalism”, in *The Encyclopedia of Philosophy Supplement*, D. Borchert (ed.), New York: Macmillan, pp. 756–761. \[[Preprint available online in PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/functionalism.pdf).]
+* –––, 1999, “Sexism, Racism, Ageism and the Nature of Consciousness”, in *Philosophical Topics*, 26 (1&2). \[[Preprint available online](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/sexism.html).]
+* –––, 2002, “The Harder Problem of Consciousness”, *Journal of Philosophy*, 94: 1–35. \[[Preprint available online](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/2002.HarderProblem.pdf).]
+* –––, 2003, “Mental Paint”, in *Reflections and Replies: Essays on the Philosophy of Tyler Burge*, M. Hahn and B. Ramberg (eds.), Cambridge, MA: MIT Press, pp. 165–200. \[[Preprint available online in PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/mentalpaint.pdf).]
+* –––, 2007, “Wittgenstein and Qualia”, *Philosophical Perspectives*, 21: 73–115. \[[Preprint available online in PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Wittgenstein\_Qualia.pdf).]
+* Block, N. and Fodor, J., 1972, “What Psychological States Are Not”, *Philosophical Review*, 81: 159–81.
+* Block, N. and Stalnaker, R., 1999, “Conceptual Analysis, Dualism, and the Explanatory Gap”, *Philosophical Review* 108: 1–46. \[[Preprint available online](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/ExplanatoryGap.html).]
+* Boghossian, P., and Velleman, J. D., 1991, “Physicalist Theories of Color”, *Philosophical Review*, 100: 67–106. Reprinted in Byrne and Hilbert 1997a.
+* Brenner, W. H., 2015, “From Inverted Spectra to Colorless Qualia: A Wittgensteinian Critique”, *Philosophical Investigations*, 38(4): 360–381; first published online 2014. doi:10.1111/phin.12048
+* Broackes, J., 2007, “Black and White and the Inverted Spectrum”, *Philosophical Quarterly*, 57: 161–75.
+* Burge, T., 1979, “Individualism and the Mental”, *Midwest Studies in Philosophy*, 4: 73–121.
+* Byrne, A., 2001, “Intentionalism Defended”, *Philosophical Review*, 110: 199–240.
+* –––, 2002, “Something About Mary”, *Grazer Philosophische Studien*, 63: 123–40.
+* Byrne, A., and Hilbert, D. R., 1997a, *Readings on Color, Volume 1: The Philosophy of Color*, Cambridge, MA: MIT Press.
 * –––, 1997b, “Colors and Reflectances”, in Byrne and Hilbert 1997a, pp. 263–288. \[[Preprint available online](http://mit.edu/abyrne/www/colors\&reflectances.html).]
-* –––, 2003a, “Color Realism and Color Science”, _Behavioral and Brain Sciences_, 26: 3–21. \[[Preprint available online](http://mit.edu/abyrne/www/ColorRealism.html) ].
-* –––, 2003b, “Color Realism Redux”, _Behavioral and Brain Sciences_, 26: 52–63. \[[Preprint available online](http://mit.edu/abyrne/www/colorrealismredux.html).]
-* Campbell, N., 2000, “Physicalism, Qualia Inversion, and Affective States”, _Synthese_, 124: 239–55.
-* Canfield, J., 2001, “Ned Block, Wittgenstein, and the Inverted Spectrum”, _Philosophia_, 37: 691–712.
-* Carruthers, P., 2000, _Phenomenal Consciousness_, Cambridge: Cambridge University Press.
-* Casati, R., 1990, “What is Wrong in Inverting Spectra?” _Theoria_, 10: 183–6.
-* Chalmers, D., 1995, “Absent Qualia, Fading Qualia, Dancing Qualia”, in _Conscious Experience_, T. Metzinger (ed.), Ferdinand-Schoningh: Paderborn, pp. 309–328.
-* –––, 1996, _The Conscious Mind_, Oxford: Oxford University Press.
-* –––, 2002, _Philosophy of Mind_, Oxford: Oxford University Press.
-* –––, 2004, “The Representational Character of Experience”, in _The Future for Philosophy_, B. Leiter (ed.), Oxford: Oxford University Press, pp. 153–181. \[[Preprint available online](http://consc.net/papers/representation.pdf).]
-* Chalmers, D., and Jackson, F., 2001, “Conceptual Analysis and Reductive Explanation”, _Philosophical Review_, 110: 315–61. \[[Preprint available online](http://consc.net/papers/analysis.pdf).]
-* Churchland, P. M., and Churchland, P. S., 1981, “Functionalism, Qualia, and Intentionality”, _Philosophical Topics_, 12: 121–46.
-* Clark, A., 1985, “Spectrum Inversion and the Color Solid”, _Southern Journal of Philosophy_, 23(4): 431–43. doi:10.1111/j.2041-6962.1985.tb00413.x
-* –––, 1993, _Sensory Qualities_, Oxford: Oxford University Press.
-* –––, 2000, _A Theory of Sentience_, Oxford: Oxford University Press.
-* Cohen, J., 2001, “Color, Content, and Fred: On a Proposed Reductio of the Inverted Spectrum Hypothesis”, _Philosophical Studies_, 103: 121–44.
-* –––, 2004, “Color Properties and Color Ascriptions: A Relationalist Manifesto”, _Philosophical Review_, 113 (October): 451–506, \[[Preprint available online](http://aardvark.ucsd.edu/color/relational.pdf).]
-* Cole, D. J., 1990, “Functionalism and Inverted Spectra”, _Synthese_, 82: 207–22.
-* Crane, T., 2000, “The Origins of Qualia”, in _History of the Mind-Body Problem_, T. Crane and S. Patterson (eds.), London: Routledge, pp. 169–194.
-* Davidson, D., 1987, “Knowing One’s Own Mind”, _Proceedings and Addresses of the American Philosophical Association_, 60: 441–58. Reprinted in Davidson, 2001, _Subjective, Intersubjective, Objective_, Oxford: Oxford University Press.
-* Davies, M., 1997, “Externalism and Experience”, in _The Nature of Consciousness_, N. Block, O. Flanagan and G. Güzeldere (eds.), Cambridge, MA: MIT Press, pp. 309–327.
-* Dennett, D. C., 1988, “Quining Qualia”, in _Consciousness and Contemporary Science_, A. Marcel and E. Bisiach (eds.), Oxford: Oxford University Press, pp. 226–246; page reference is to the reprint in Chalmers 2002.
-* –––, 1991, _Consciousness Explained_, Boston: Little, Brown.
-* –––, 1993, “The Message is: There is no Medium”, _Philosophy and Phenomenological Research_, 53: 919–31.
-* –––, 1994, “Instead of Qualia”, in _Consciousness in Philosophy and Cognitive Neuroscience,_ A. Revonsuo and M. Kamppinen (eds.), Hillsdale, NJ: Lawrence Erlbaum, pp. 129–139.
-* Dretske, F., 1995, _Naturalizing the Mind_, Cambridge, MA: MIT Press.
-* Egan, A., 2006, “Appearance Properties?”, _Noûs_, 40(3): 495–521. \[[Preprint available online](http://sitemaker.umich.edu/egana/files/aps.pdf)]
-* Fodor, J., 1992, _A Theory of Content and Other Essays_, Cambridge, MA: MIT Press.
-* Ford, J., 2011, “Tye-dyed Teleology and the Inverted Spectrum”, _Philosophical Studies_, 156: 267–81.
-* Frege, G., 1884 \[1953], _The Foundations of Arithmetic_, Oxford: Blackwell.
-* Gert, B., 1965, “Imagination and Verifiability”, _Philosophical Studies_, 16: 44–47.
-* –––, 2017, _Primitive Colors_, Oxford: Oxford University Press.
-* Gibbons, J., 1965, “Qualia: They’re not what they seem”, _Philosophical Studies_, 126: 397–428.
-* Goodman, N., 1951, _The Structure of Appearance_, Cambridge, MA: Harvard University Press.
-* Hardin, C. L., 1987, “Qualia and Materialism: Closing the Explanatory Gap”, _Philosophy and Phenomenological Research_, 48: 281–98.
-* –––, 1991, “Reply to Levine’s ‘Cool Red’”, _Philosophical Psychology_, 4: 41–50.
-* –––, 1993, _Color for Philosophers_ (expanded edition), Indianapolis: Hackett.
-* –––, 1997, “Reinverting the Spectrum”, in _Readings on Color, Volume 1: The Philosophy of Color,_ A. Byrne and D. R. Hilbert (eds.), Cambridge, MA: MIT Press, pp. 289–312.
-* –––, 1999a, “Color Quality and Structure”, in _Toward a Science of Consciousness III: The Third Tucson Discussions and Debates_, S. Hameroff, A. Kaszniak, D. Chalmers, (eds.), Cambridge, MA: MIT Press, pp.65–74.
-* –––, 1999b, “Color Relations and the Power of Complexity”, _Behavioral and Brain Sciences_, 22: 963–4.
-* –––, 2003, “A Spectral Reflectance Doth Not a Color Make”, _Journal of Philosophy_, 100: 191–202.
-* Harman, G., 1982, “Conceptual Role Semantics”, _Notre Dame Journal of Formal Logic_, 23: 242–56.
-* –––, 1990, “The Intrinsic Quality of Experience”, _Philosophical Perspectives_, 4: 31–52.
-* Harrison, B., 1967, “On Describing Colors”, _Inquiry_, 10: 38–52.
-* –––, 1973, _Form and Content_, Oxford: Blackwell.
-* Harvey, J., 1979, “Systematic Transposition of Colours”, _Australasian Journal of Philosophy_, 57: 211–19.
-* Hellie, B., 2004, “Inexpressible Truths and the Allure of the Knowledge Argument”, in _There’s Something about Mary_, P. Ludlow, Y. Nagasawa, and D. Stoljar (eds.), Cambridge, MA: MIT Press, pp. 333–364.
-* Hempel, C., 1965, “Aspects of Scientific Explanation”, in _Aspects of Scientific Explanation and other Essays in the Philosophy of Science_, C. Hempel, New York: Free Press, pp. 331–496.
-* Hilbert, D. R., and Kalderon, M., 2000, “Color and the Inverted Spectrum”, in _Color Perception: Philosophical, Psychological, Artistic, and Computational Perspectives_, S. Davis (ed.), Oxford: Oxford University Press, pp. 187–214.
-* Hill, C., 1991, _Sensations: A Defense of Type Materialism_, Cambridge: Cambridge University Press.
-* Horgan, T., 1984, “Functionalism, Qualia, and the Inverted Spectrum”, _Philosophy and Phenomenological Research,_ 44: 453–70.
-* Horgan, T., and Tienson, J., 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality”, in _Philosophy of Mind_, D. Chalmers (ed.), Oxford: Oxford University Press, pp.520–533.
-* Hurley, S. L., 1998, _Consciousness in Action_, Cambridge, MA: Harvard University Press.
-* Hurvich, L. M., Jameson, D., and Cohen, J. D., 1968, “The Experimental Determination of Unique Green in the Spectrum”, _Perceptual Psychophysics_, 4: 65–8.
-* Jacovides, M., 1999, “Locke’s Resemblance Theses”, _Philosophical Review_, 108: 461–96.
-* Jackson, F., 1977, _Perception_, Cambridge: Cambridge University Press.
-* –––, 1982, “Epiphenomenal Qualia”, _Philosophical Quarterly_, 32: 127–36. Reprinted in Chalmers 2002.
-* –––, 1998, _From Metaphysics to Ethics: A Defense of Conceptual Analysis_, Oxford: Oxford University Press.
-* Johnsen, B. C., 1986, “The Inverted Spectrum”, _Australasian Journal of Philosophy_, 64: 471–6.
-* –––, 1993, “The Intelligibility of Spectrum Inversion”, _Canadian Journal of Philosophy_, 23: 631–6.
-* Kaiser, P. K., and Boynton, R. M., 1996, _Human Color Vision_, Washington, DC: Optical Society of America.
-* Kay, P., 1999, “Asymmetries in the Distribution of Composite and Derived Basic Color Categories”, _Behavioral and Brain Sciences_, 22: 957–8.
-* Kirk, R., 1982, “Goodbye to Transposed Qualia”, _Proceedings of the Aristotelian Society_, 82: 33–44.
-* –––, 1994, _Raw Feeling_, Oxford: Oxford University Press.
-* Kuehni, R. G., 2003, _Color Space and Its Divisions: Color Order from Antiquity to the Present_, Hoboken, NJ: Wiley.
-* Levine, J., 1983, “Materialism and Qualia: The Explanatory Gap”, _Pacific Philosophical Quarterly_, 64: 354–61; page reference is to the reprint in Chalmers 2002.
-* –––, 1988, “Absent and Inverted Qualia Revisited”, _Mind and Language_, 3: 271–87.
-* –––, 1991, “Cool Red”, _Philosophical Psychology_, 4: 27–40.
-* –––, 2001, _Purple Haze: The Puzzle of Consciousness_, Oxford: Oxford University Press.
-* Lewis, C. I., 1929, _Mind and the World Order_, New York: Scribner’s.
-* Lewis, D., 1980, “Mad Pain and Martian Pain”, in _Readings in Philosophy of Psychology_, Vol. 1, N. Block, (ed.), Cambridge, MA: Harvard University Press, pp. 216–222.
-* –––, 1986, _On the Plurality of Worlds_, Oxford: Blackwell.
-* Littlejohn, C., 2009, “On the Coherence of Inversion”, _Acta Analytica_, 24: 127–37.
-* Locke, J., 1689/1975, _Essay Concerning Human Understanding_, Oxford: Oxford University Press.
-* Lycan, W. G., 1973, “Inverted Spectrum”, _Ratio_, 15: 315–9.
-* –––, 1987, _Consciousness_, Cambridge, MA: MIT Press.
-* –––, 1996, _Consciousness and Experience_, Cambridge, MA: MIT Press.
-* MacLaury, R. E., 1999, “Asymmetry Among Hering Primaries Thwarts the Inverted Spectrum Argument”, _Behavioral and Brain Sciences_, 22: 960–961.
-* Macpherson, F., 2005, “Colour Inversion Problems for Representationalism”, _Philosophy and Phenomenological Research_, 70: 127–52.
-* Malebranche, N. 1674–5 \[1997], _The Search After Truth_, T. Lennon and P. Olscamp (eds. and trans.), Cambridge: Cambridge University Press.
-* Marcus, E., 2006, “Intentionalism and the Imaginability of the Inverted Spectrum”, _Philosophical Quarterly_, 56: 321–39.
-* Mausfeld, R., 2003, “‘Colour’ as Part of the Format of Different Perceptual Primitives: the Dual Coding of Colour”, in _Colour Perception: Mind and the Physical World_, R. Mausfeld and D. Heyer (eds.), Oxford: Oxford University Press, pp. 381–430.
-* McGinn, C., 1983, _The Subjective View_, Oxford: Oxford University Press.
-* –––, 1989, _Mental Content_, Oxford: Blackwell.
-* McLaughlin, B., 2003, “The Place of Color in Nature”, in _Colour Perception: Mind and the Physical World_, R. Mausfeld and D. Heyer (eds.), Oxford: Oxford University Press, pp. 475–502.
-* Meyer, U., 2000, “Do Pseudonormal Persons Have Inverted Qualia? Scientific Hypotheses and Philosophical Interpretations”, _Facta Philosophica_, 2: 309–25.
-* Mollon, J., Pokorny, J., and Knoblauch, K. (eds.), 2003, _Normal and Defective Colour Vision_, Oxford: Oxford University Press.
-* Moore, G. E., 1953, _Some Main Problems of Philosophy_, London: George Allen & Unwin.
-* Myin, E., 2001, “Color and the Duplication Assumption”, _Synthese_, 129: 61–77.
-* Nida-Rümelin, M., 1996, “Pseudonormal Vision: An Actual Case of Qualia Inversion?”, _Philosophical Studies_, 82: 145–57. Reprinted in Chalmers 2002.
-* –––, 1999, “Intrinsic Phenomenal Properties in Color Vision Science: A Reply to Peter Ross”, _Consciousness and Cognition_, 8: 571–574.
-* Noë, A., 2005, _Action in Perception_, Cambridge, MA: MIT Press.
-* Palmer, S., 1999a, “Color, Consciousness, and the Isomorphism Constraint”, _Behavioral and Brain Sciences_, 22: 923–43.
-* –––, 1999b, “On Qualia, Relations, and Structure in Color Experience”, _Behavioral and Brain Sciences_, 22: 976–85.
-* Papineau, D., 2002, _Thinking About Consciousness_, Oxford: Oxford University Press.
-* Peacocke, C., 1983, _Sense and Content_, Oxford: Oxford University Press.
-* –––, 1988, “The Limits of Intelligibility: A Post-Verificationist Proposal”, _Philosophical Review_, 97: 463–96.
-* –––, 2001. “Does Perception have a Nonconceptual Content?”, _Journal of Philosophy_, 98: 239–64.
-* Piantanida, T. P., 1974, “A Replacement Model of X-linked Recessive Colour Vision Defects”, _Annals of Human Genetics_, 37: 393–404.
-* Putnam, H., 1967, “Psychological Predicates”, in _Art, Mind and Religion_, W. Capitan and D. Merrill (eds.), Pittsburgh: University of Pittsburgh Press, pp. 37–48.. Reprinted as “The Nature of Mental States” in Putnam, 1975, _Mind, Language, and Reality_, Cambridge: Cambridge University Press.
-* –––, 1975, “The Meaning of ‘Meaning’”,_Minnesota Studies in the Philosophy of Science_, 7: 131–193; reprinted in Putnam, 1975, _Mind, Language, and Reality_, Cambridge: Cambridge University Press.
-* –––, 1981, _Reason, Truth and History_, Cambridge: Cambridge University Press.
-* Ren, H., 2016, “Inverted Earth Revisited”, _Erkenntnis_, 81: 1093–107.
-* Rey, G., 1992, “Sensational Sentences Switched”, _Philosophical Studies_, 68: 289–319.
-* –––, 1998, “A Narrow Representationalist Account of Qualitative Experience”, _Philosophical Perspectives_, 12: 435–58.
-* Robinson, H., 1994, _Perception_, London: Routledge.
-* Ross, P. W., 1999a, “Color Science and Spectrum Inversion: Further Thoughts”, _Consciousness and Cognition_, 8: 566–70.
-* –––, 1999b, “Color Science and Spectrum Inversion: A Reply to Nida-Rümelin”, _Consciousness and Cognition_, 8: 575–576.
-* –––, 2020, “Spectrum Inversion”, _Routledge Handbook of Philosophy of Colour_, D. Brown and F. Macpherson (eds.), London: Routledge.
-* Russell, B., 1927, _The Analysis of Matter_, London: Kegan Paul, Trench, Trubner & Co. Ltd.
-* Sacks, O., 1997, _The Island of the Colorblind_, New York: Knopf.
-* Schlick, M., 1932/3, “Positivism and Realism”, _Erkenntnis_, 3; page reference is to the reprint in Ayer 1959.
-* Schoettle, T., 2009, “How I Learned to Stop Worrying and Love the Inverted Spectrum”, _Pacific Philosophical Quarterly_, 90: 98–115.
-* Shoemaker, S., 1975a, “Functionalism and Qualia”, _Philosophical Studies_, 27: 291–315. Reprinted in Shoemaker 1984.
-* –––, 1975b, “Phenomenal Similarity”, _Critica_, 7: 3–37. Reprinted in Shoemaker 1984.
-* –––, 1981, “Absent Qualia Are Impossible”, _Philosophical Review_, 90: 581–99. Reprinted in Shoemaker 1984.
-* –––, 1982, “The Inverted Spectrum”, _Journal of Philosophy,_ 79: 357–81; page reference is to the reprint in Shoemaker 1984.
-* –––, 1984, _Identity, Cause, and Mind,_ Cambridge: Cambridge University Press.
-* –––, 1986, “Review of Colin McGinn’s _The Subjective View_”, _Journal of Philosophy_, 83: 407–13.
-* –––, 1991, “Qualia and Consciousness”, _Mind,_ 100: 507–24. Reprinted in Shoemaker 1996a.
-* –––, 1994a, “Phenomenal Character”, _Noûs_, 28: 21–38.
-* –––, 1994b, “Self-Knowledge and ‘Inner-Sense’”, _Philosophy and Phenomenological Research_, 54: 249–314; page reference is to the reprint in Shoemaker 1996a.
-* –––. 1996a, _The First-Person Perspective and Other Essays_, Cambridge: Cambridge University Press.
+* –––, 2003a, “Color Realism and Color Science”, *Behavioral and Brain Sciences*, 26: 3–21. \[[Preprint available online](http://mit.edu/abyrne/www/ColorRealism.html) ].
+* –––, 2003b, “Color Realism Redux”, *Behavioral and Brain Sciences*, 26: 52–63. \[[Preprint available online](http://mit.edu/abyrne/www/colorrealismredux.html).]
+* Campbell, N., 2000, “Physicalism, Qualia Inversion, and Affective States”, *Synthese*, 124: 239–55.
+* Canfield, J., 2001, “Ned Block, Wittgenstein, and the Inverted Spectrum”, *Philosophia*, 37: 691–712.
+* Carruthers, P., 2000, *Phenomenal Consciousness*, Cambridge: Cambridge University Press.
+* Casati, R., 1990, “What is Wrong in Inverting Spectra?” *Theoria*, 10: 183–6.
+* Chalmers, D., 1995, “Absent Qualia, Fading Qualia, Dancing Qualia”, in *Conscious Experience*, T. Metzinger (ed.), Ferdinand-Schoningh: Paderborn, pp. 309–328.
+* –––, 1996, *The Conscious Mind*, Oxford: Oxford University Press.
+* –––, 2002, *Philosophy of Mind*, Oxford: Oxford University Press.
+* –––, 2004, “The Representational Character of Experience”, in *The Future for Philosophy*, B. Leiter (ed.), Oxford: Oxford University Press, pp. 153–181. \[[Preprint available online](http://consc.net/papers/representation.pdf).]
+* Chalmers, D., and Jackson, F., 2001, “Conceptual Analysis and Reductive Explanation”, *Philosophical Review*, 110: 315–61. \[[Preprint available online](http://consc.net/papers/analysis.pdf).]
+* Churchland, P. M., and Churchland, P. S., 1981, “Functionalism, Qualia, and Intentionality”, *Philosophical Topics*, 12: 121–46.
+* Clark, A., 1985, “Spectrum Inversion and the Color Solid”, *Southern Journal of Philosophy*, 23(4): 431–43. doi:10.1111/j.2041-6962.1985.tb00413.x
+* –––, 1993, *Sensory Qualities*, Oxford: Oxford University Press.
+* –––, 2000, *A Theory of Sentience*, Oxford: Oxford University Press.
+* Cohen, J., 2001, “Color, Content, and Fred: On a Proposed Reductio of the Inverted Spectrum Hypothesis”, *Philosophical Studies*, 103: 121–44.
+* –––, 2004, “Color Properties and Color Ascriptions: A Relationalist Manifesto”, *Philosophical Review*, 113 (October): 451–506, \[[Preprint available online](http://aardvark.ucsd.edu/color/relational.pdf).]
+* Cole, D. J., 1990, “Functionalism and Inverted Spectra”, *Synthese*, 82: 207–22.
+* Crane, T., 2000, “The Origins of Qualia”, in *History of the Mind-Body Problem*, T. Crane and S. Patterson (eds.), London: Routledge, pp. 169–194.
+* Davidson, D., 1987, “Knowing One’s Own Mind”, *Proceedings and Addresses of the American Philosophical Association*, 60: 441–58. Reprinted in Davidson, 2001, *Subjective, Intersubjective, Objective*, Oxford: Oxford University Press.
+* Davies, M., 1997, “Externalism and Experience”, in *The Nature of Consciousness*, N. Block, O. Flanagan and G. Güzeldere (eds.), Cambridge, MA: MIT Press, pp. 309–327.
+* Dennett, D. C., 1988, “Quining Qualia”, in *Consciousness and Contemporary Science*, A. Marcel and E. Bisiach (eds.), Oxford: Oxford University Press, pp. 226–246; page reference is to the reprint in Chalmers 2002.
+* –––, 1991, *Consciousness Explained*, Boston: Little, Brown.
+* –––, 1993, “The Message is: There is no Medium”, *Philosophy and Phenomenological Research*, 53: 919–31.
+* –––, 1994, “Instead of Qualia”, in *Consciousness in Philosophy and Cognitive Neuroscience,* A. Revonsuo and M. Kamppinen (eds.), Hillsdale, NJ: Lawrence Erlbaum, pp. 129–139.
+* Dretske, F., 1995, *Naturalizing the Mind*, Cambridge, MA: MIT Press.
+* Egan, A., 2006, “Appearance Properties?”, *Noûs*, 40(3): 495–521. \[[Preprint available online](http://sitemaker.umich.edu/egana/files/aps.pdf)]
+* Fodor, J., 1992, *A Theory of Content and Other Essays*, Cambridge, MA: MIT Press.
+* Ford, J., 2011, “Tye-dyed Teleology and the Inverted Spectrum”, *Philosophical Studies*, 156: 267–81.
+* Frege, G., 1884 \[1953], *The Foundations of Arithmetic*, Oxford: Blackwell.
+* Gert, B., 1965, “Imagination and Verifiability”, *Philosophical Studies*, 16: 44–47.
+* –––, 2017, *Primitive Colors*, Oxford: Oxford University Press.
+* Gibbons, J., 1965, “Qualia: They’re not what they seem”, *Philosophical Studies*, 126: 397–428.
+* Goodman, N., 1951, *The Structure of Appearance*, Cambridge, MA: Harvard University Press.
+* Hardin, C. L., 1987, “Qualia and Materialism: Closing the Explanatory Gap”, *Philosophy and Phenomenological Research*, 48: 281–98.
+* –––, 1991, “Reply to Levine’s ‘Cool Red’”, *Philosophical Psychology*, 4: 41–50.
+* –––, 1993, *Color for Philosophers* (expanded edition), Indianapolis: Hackett.
+* –––, 1997, “Reinverting the Spectrum”, in *Readings on Color, Volume 1: The Philosophy of Color,* A. Byrne and D. R. Hilbert (eds.), Cambridge, MA: MIT Press, pp. 289–312.
+* –––, 1999a, “Color Quality and Structure”, in *Toward a Science of Consciousness III: The Third Tucson Discussions and Debates*, S. Hameroff, A. Kaszniak, D. Chalmers, (eds.), Cambridge, MA: MIT Press, pp.65–74.
+* –––, 1999b, “Color Relations and the Power of Complexity”, *Behavioral and Brain Sciences*, 22: 963–4.
+* –––, 2003, “A Spectral Reflectance Doth Not a Color Make”, *Journal of Philosophy*, 100: 191–202.
+* Harman, G., 1982, “Conceptual Role Semantics”, *Notre Dame Journal of Formal Logic*, 23: 242–56.
+* –––, 1990, “The Intrinsic Quality of Experience”, *Philosophical Perspectives*, 4: 31–52.
+* Harrison, B., 1967, “On Describing Colors”, *Inquiry*, 10: 38–52.
+* –––, 1973, *Form and Content*, Oxford: Blackwell.
+* Harvey, J., 1979, “Systematic Transposition of Colours”, *Australasian Journal of Philosophy*, 57: 211–19.
+* Hellie, B., 2004, “Inexpressible Truths and the Allure of the Knowledge Argument”, in *There’s Something about Mary*, P. Ludlow, Y. Nagasawa, and D. Stoljar (eds.), Cambridge, MA: MIT Press, pp. 333–364.
+* Hempel, C., 1965, “Aspects of Scientific Explanation”, in *Aspects of Scientific Explanation and other Essays in the Philosophy of Science*, C. Hempel, New York: Free Press, pp. 331–496.
+* Hilbert, D. R., and Kalderon, M., 2000, “Color and the Inverted Spectrum”, in *Color Perception: Philosophical, Psychological, Artistic, and Computational Perspectives*, S. Davis (ed.), Oxford: Oxford University Press, pp. 187–214.
+* Hill, C., 1991, *Sensations: A Defense of Type Materialism*, Cambridge: Cambridge University Press.
+* Horgan, T., 1984, “Functionalism, Qualia, and the Inverted Spectrum”, *Philosophy and Phenomenological Research,* 44: 453–70.
+* Horgan, T., and Tienson, J., 2002, “The Intentionality of Phenomenology and the Phenomenology of Intentionality”, in *Philosophy of Mind*, D. Chalmers (ed.), Oxford: Oxford University Press, pp.520–533.
+* Hurley, S. L., 1998, *Consciousness in Action*, Cambridge, MA: Harvard University Press.
+* Hurvich, L. M., Jameson, D., and Cohen, J. D., 1968, “The Experimental Determination of Unique Green in the Spectrum”, *Perceptual Psychophysics*, 4: 65–8.
+* Jacovides, M., 1999, “Locke’s Resemblance Theses”, *Philosophical Review*, 108: 461–96.
+* Jackson, F., 1977, *Perception*, Cambridge: Cambridge University Press.
+* –––, 1982, “Epiphenomenal Qualia”, *Philosophical Quarterly*, 32: 127–36. Reprinted in Chalmers 2002.
+* –––, 1998, *From Metaphysics to Ethics: A Defense of Conceptual Analysis*, Oxford: Oxford University Press.
+* Johnsen, B. C., 1986, “The Inverted Spectrum”, *Australasian Journal of Philosophy*, 64: 471–6.
+* –––, 1993, “The Intelligibility of Spectrum Inversion”, *Canadian Journal of Philosophy*, 23: 631–6.
+* Kaiser, P. K., and Boynton, R. M., 1996, *Human Color Vision*, Washington, DC: Optical Society of America.
+* Kay, P., 1999, “Asymmetries in the Distribution of Composite and Derived Basic Color Categories”, *Behavioral and Brain Sciences*, 22: 957–8.
+* Kirk, R., 1982, “Goodbye to Transposed Qualia”, *Proceedings of the Aristotelian Society*, 82: 33–44.
+* –––, 1994, *Raw Feeling*, Oxford: Oxford University Press.
+* Kuehni, R. G., 2003, *Color Space and Its Divisions: Color Order from Antiquity to the Present*, Hoboken, NJ: Wiley.
+* Levine, J., 1983, “Materialism and Qualia: The Explanatory Gap”, *Pacific Philosophical Quarterly*, 64: 354–61; page reference is to the reprint in Chalmers 2002.
+* –––, 1988, “Absent and Inverted Qualia Revisited”, *Mind and Language*, 3: 271–87.
+* –––, 1991, “Cool Red”, *Philosophical Psychology*, 4: 27–40.
+* –––, 2001, *Purple Haze: The Puzzle of Consciousness*, Oxford: Oxford University Press.
+* Lewis, C. I., 1929, *Mind and the World Order*, New York: Scribner’s.
+* Lewis, D., 1980, “Mad Pain and Martian Pain”, in *Readings in Philosophy of Psychology*, Vol. 1, N. Block, (ed.), Cambridge, MA: Harvard University Press, pp. 216–222.
+* –––, 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
+* Littlejohn, C., 2009, “On the Coherence of Inversion”, *Acta Analytica*, 24: 127–37.
+* Locke, J., 1689/1975, *Essay Concerning Human Understanding*, Oxford: Oxford University Press.
+* Lycan, W. G., 1973, “Inverted Spectrum”, *Ratio*, 15: 315–9.
+* –––, 1987, *Consciousness*, Cambridge, MA: MIT Press.
+* –––, 1996, *Consciousness and Experience*, Cambridge, MA: MIT Press.
+* MacLaury, R. E., 1999, “Asymmetry Among Hering Primaries Thwarts the Inverted Spectrum Argument”, *Behavioral and Brain Sciences*, 22: 960–961.
+* Macpherson, F., 2005, “Colour Inversion Problems for Representationalism”, *Philosophy and Phenomenological Research*, 70: 127–52.
+* Malebranche, N. 1674–5 \[1997], *The Search After Truth*, T. Lennon and P. Olscamp (eds. and trans.), Cambridge: Cambridge University Press.
+* Marcus, E., 2006, “Intentionalism and the Imaginability of the Inverted Spectrum”, *Philosophical Quarterly*, 56: 321–39.
+* Mausfeld, R., 2003, “‘Colour’ as Part of the Format of Different Perceptual Primitives: the Dual Coding of Colour”, in *Colour Perception: Mind and the Physical World*, R. Mausfeld and D. Heyer (eds.), Oxford: Oxford University Press, pp. 381–430.
+* McGinn, C., 1983, *The Subjective View*, Oxford: Oxford University Press.
+* –––, 1989, *Mental Content*, Oxford: Blackwell.
+* McLaughlin, B., 2003, “The Place of Color in Nature”, in *Colour Perception: Mind and the Physical World*, R. Mausfeld and D. Heyer (eds.), Oxford: Oxford University Press, pp. 475–502.
+* Meyer, U., 2000, “Do Pseudonormal Persons Have Inverted Qualia? Scientific Hypotheses and Philosophical Interpretations”, *Facta Philosophica*, 2: 309–25.
+* Mollon, J., Pokorny, J., and Knoblauch, K. (eds.), 2003, *Normal and Defective Colour Vision*, Oxford: Oxford University Press.
+* Moore, G. E., 1953, *Some Main Problems of Philosophy*, London: George Allen & Unwin.
+* Myin, E., 2001, “Color and the Duplication Assumption”, *Synthese*, 129: 61–77.
+* Nida-Rümelin, M., 1996, “Pseudonormal Vision: An Actual Case of Qualia Inversion?”, *Philosophical Studies*, 82: 145–57. Reprinted in Chalmers 2002.
+* –––, 1999, “Intrinsic Phenomenal Properties in Color Vision Science: A Reply to Peter Ross”, *Consciousness and Cognition*, 8: 571–574.
+* Noë, A., 2005, *Action in Perception*, Cambridge, MA: MIT Press.
+* Palmer, S., 1999a, “Color, Consciousness, and the Isomorphism Constraint”, *Behavioral and Brain Sciences*, 22: 923–43.
+* –––, 1999b, “On Qualia, Relations, and Structure in Color Experience”, *Behavioral and Brain Sciences*, 22: 976–85.
+* Papineau, D., 2002, *Thinking About Consciousness*, Oxford: Oxford University Press.
+* Peacocke, C., 1983, *Sense and Content*, Oxford: Oxford University Press.
+* –––, 1988, “The Limits of Intelligibility: A Post-Verificationist Proposal”, *Philosophical Review*, 97: 463–96.
+* –––, 2001. “Does Perception have a Nonconceptual Content?”, *Journal of Philosophy*, 98: 239–64.
+* Piantanida, T. P., 1974, “A Replacement Model of X-linked Recessive Colour Vision Defects”, *Annals of Human Genetics*, 37: 393–404.
+* Putnam, H., 1967, “Psychological Predicates”, in *Art, Mind and Religion*, W. Capitan and D. Merrill (eds.), Pittsburgh: University of Pittsburgh Press, pp. 37–48.. Reprinted as “The Nature of Mental States” in Putnam, 1975, *Mind, Language, and Reality*, Cambridge: Cambridge University Press.
+* –––, 1975, “The Meaning of ‘Meaning’”,*Minnesota Studies in the Philosophy of Science*, 7: 131–193; reprinted in Putnam, 1975, *Mind, Language, and Reality*, Cambridge: Cambridge University Press.
+* –––, 1981, *Reason, Truth and History*, Cambridge: Cambridge University Press.
+* Ren, H., 2016, “Inverted Earth Revisited”, *Erkenntnis*, 81: 1093–107.
+* Rey, G., 1992, “Sensational Sentences Switched”, *Philosophical Studies*, 68: 289–319.
+* –––, 1998, “A Narrow Representationalist Account of Qualitative Experience”, *Philosophical Perspectives*, 12: 435–58.
+* Robinson, H., 1994, *Perception*, London: Routledge.
+* Ross, P. W., 1999a, “Color Science and Spectrum Inversion: Further Thoughts”, *Consciousness and Cognition*, 8: 566–70.
+* –––, 1999b, “Color Science and Spectrum Inversion: A Reply to Nida-Rümelin”, *Consciousness and Cognition*, 8: 575–576.
+* –––, 2020, “Spectrum Inversion”, *Routledge Handbook of Philosophy of Colour*, D. Brown and F. Macpherson (eds.), London: Routledge.
+* Russell, B., 1927, *The Analysis of Matter*, London: Kegan Paul, Trench, Trubner & Co. Ltd.
+* Sacks, O., 1997, *The Island of the Colorblind*, New York: Knopf.
+* Schlick, M., 1932/3, “Positivism and Realism”, *Erkenntnis*, 3; page reference is to the reprint in Ayer 1959.
+* Schoettle, T., 2009, “How I Learned to Stop Worrying and Love the Inverted Spectrum”, *Pacific Philosophical Quarterly*, 90: 98–115.
+* Shoemaker, S., 1975a, “Functionalism and Qualia”, *Philosophical Studies*, 27: 291–315. Reprinted in Shoemaker 1984.
+* –––, 1975b, “Phenomenal Similarity”, *Critica*, 7: 3–37. Reprinted in Shoemaker 1984.
+* –––, 1981, “Absent Qualia Are Impossible”, *Philosophical Review*, 90: 581–99. Reprinted in Shoemaker 1984.
+* –––, 1982, “The Inverted Spectrum”, *Journal of Philosophy,* 79: 357–81; page reference is to the reprint in Shoemaker 1984.
+* –––, 1984, *Identity, Cause, and Mind,* Cambridge: Cambridge University Press.
+* –––, 1986, “Review of Colin McGinn’s *The Subjective View*”, *Journal of Philosophy*, 83: 407–13.
+* –––, 1991, “Qualia and Consciousness”, *Mind,* 100: 507–24. Reprinted in Shoemaker 1996a.
+* –––, 1994a, “Phenomenal Character”, *Noûs*, 28: 21–38.
+* –––, 1994b, “Self-Knowledge and ‘Inner-Sense’”, *Philosophy and Phenomenological Research*, 54: 249–314; page reference is to the reprint in Shoemaker 1996a.
+* –––. 1996a, *The First-Person Perspective and Other Essays*, Cambridge: Cambridge University Press.
 * –––, 1996b, “Intersubjective/Intrasubjective”, in Shoemaker 1996a, pp. 141–154.
 * –––, 2002, “Content, Character, and Color”, Whitehead lectures, Harvard University.
-* –––, 2006a, “On the Ways Things Appear”, in _Perceptual Experience_, T. Gendler and J. Hawthorne (eds.), Oxford: Oxford University Press, pp.461–480.
-* –––, 2006b, ‘The Frege-Schlick View’, in _Content and Modality_, J. Thomson and A. Byrne (eds.), Oxford: Oxford University Press, pp.18–33.
-* Speaks, J., 2011, “Spectrum Inversion Without a Difference in Representation is Impossible”, _Philosophical Studies_, 156: 339–61.
-* –––, 2015, _The Phenomenal and the Representational_, Oxford: Oxford University Press.
-* Stalnaker, R., 1987, _Inquiry_, Cambridge, MA: MIT Press.
-* –––, 1999, “Comparing Qualia Across Persons”, _Philosophical Topics_, 26: 385–405; page reference is to the reprint in Stalnaker, 2003, _Ways a World Might Be_, Oxford: Oxford University Press.
-* –––, 2006, “Shoemaker, ‘Frege-Schlick View’” (A Response to Shoemaker), in _Content and Modality_, J. Thomson and A. Byrne (eds.), Oxford: Oxford University Press, pp. 254–257.
-* Strawson, G., 1989, “Red and ‘Red’”, _Synthese_, 78: 193–232.
-* –––, 1994, _Mental Reality_, Cambridge, MA: MIT Press.
-* Sundström, P., 2002, “An Argument Against Spectrum Inversion”, in _Physicalism, Consciousness and Modality: Essays in the Philosophy of Mind_, S. Lindström and S. Sundström (eds.), Umeå: The Department of Philosophy and Linguistics, pp. 65–94.. \[[Preprint available online in PDF](http://philpapers.org/archive/SUNAAA).]
-* Taylor, D., 1966, “The Incommunicability of Content”, _Mind_, 75: 527–41.
-* Thau, M., 2002, _Consciousness and Cognition_, Oxford: Oxford University Press.
-* Thompson, B., 2008, “Representationalism and the Conceivability of Inverted Spectra”, _Synthese_, 160: 203–13.
-* Tye, M., 1994, “Qualia, Content, and the Inverted Spectrum”, _Noûs_, 28: 159–183.
-* –––, 1995, _Ten Problems of Consciousness_, Cambridge, MA: MIT Press.
-* –––, 2000, _Consciousness, Color, and Content_, Cambridge, MA: MIT Press.
-* –––, 2002, “Visual Qualia and Visual Content Revisited”, in _Philosophy of Mind_, D. Chalmers (ed.), Oxford: Oxford University Press, pp. 447–456.
-* –––, 2003, “Qualia”, _The Stanford Encyclopedia of Philosophy_ (Summer 2003 Edition), Edward N. Zalta (ed.), URL = <[Qualia (Stanford Encyclopedia of Philosophy/Summer 2003 Edition)](https://plato.stanford.edu/archives/sum2003/entries/qualia/)>.
-* Westphal, J., 1991, _Colour: A Philosophical Introduction_, Oxford: Blackwell.
-* White. S., 1994, “Color and Notional Content”, _Philosophical Topics_, 22: 471–503.
-* Wittgenstein, L., 1958, _Philosophical Investigations_, Oxford: Blackwell.
-* –––, 1968, “Notes for Lectures on ‘Private Experience’ and ‘Sense-data’”, _Philosophical Review_, 77: 275–320.
-* –––, 1977, _Remarks on Colour_, Berkeley: University of California Press.
+* –––, 2006a, “On the Ways Things Appear”, in *Perceptual Experience*, T. Gendler and J. Hawthorne (eds.), Oxford: Oxford University Press, pp.461–480.
+* –––, 2006b, ‘The Frege-Schlick View’, in *Content and Modality*, J. Thomson and A. Byrne (eds.), Oxford: Oxford University Press, pp.18–33.
+* Speaks, J., 2011, “Spectrum Inversion Without a Difference in Representation is Impossible”, *Philosophical Studies*, 156: 339–61.
+* –––, 2015, *The Phenomenal and the Representational*, Oxford: Oxford University Press.
+* Stalnaker, R., 1987, *Inquiry*, Cambridge, MA: MIT Press.
+* –––, 1999, “Comparing Qualia Across Persons”, *Philosophical Topics*, 26: 385–405; page reference is to the reprint in Stalnaker, 2003, *Ways a World Might Be*, Oxford: Oxford University Press.
+* –––, 2006, “Shoemaker, ‘Frege-Schlick View’” (A Response to Shoemaker), in *Content and Modality*, J. Thomson and A. Byrne (eds.), Oxford: Oxford University Press, pp. 254–257.
+* Strawson, G., 1989, “Red and ‘Red’”, *Synthese*, 78: 193–232.
+* –––, 1994, *Mental Reality*, Cambridge, MA: MIT Press.
+* Sundström, P., 2002, “An Argument Against Spectrum Inversion”, in *Physicalism, Consciousness and Modality: Essays in the Philosophy of Mind*, S. Lindström and S. Sundström (eds.), Umeå: The Department of Philosophy and Linguistics, pp. 65–94.. \[[Preprint available online in PDF](http://philpapers.org/archive/SUNAAA).]
+* Taylor, D., 1966, “The Incommunicability of Content”, *Mind*, 75: 527–41.
+* Thau, M., 2002, *Consciousness and Cognition*, Oxford: Oxford University Press.
+* Thompson, B., 2008, “Representationalism and the Conceivability of Inverted Spectra”, *Synthese*, 160: 203–13.
+* Tye, M., 1994, “Qualia, Content, and the Inverted Spectrum”, *Noûs*, 28: 159–183.
+* –––, 1995, *Ten Problems of Consciousness*, Cambridge, MA: MIT Press.
+* –––, 2000, *Consciousness, Color, and Content*, Cambridge, MA: MIT Press.
+* –––, 2002, “Visual Qualia and Visual Content Revisited”, in *Philosophy of Mind*, D. Chalmers (ed.), Oxford: Oxford University Press, pp. 447–456.
+* –––, 2003, “Qualia”, *The Stanford Encyclopedia of Philosophy* (Summer 2003 Edition), Edward N. Zalta (ed.), URL = <[Qualia (Stanford Encyclopedia of Philosophy/Summer 2003 Edition)](https://plato.stanford.edu/archives/sum2003/entries/qualia/)>.
+* Westphal, J., 1991, *Colour: A Philosophical Introduction*, Oxford: Blackwell.
+* White. S., 1994, “Color and Notional Content”, *Philosophical Topics*, 22: 471–503.
+* Wittgenstein, L., 1958, *Philosophical Investigations*, Oxford: Blackwell.
+* –––, 1968, “Notes for Lectures on ‘Private Experience’ and ‘Sense-data’”, *Philosophical Review*, 77: 275–320.
+* –––, 1977, *Remarks on Colour*, Berkeley: University of California Press.
 
 ## Academic Tools
 
@@ -817,4 +817,4 @@ C.
 For advice and assistance I am very grateful to Jonathan Cohen, Tyler Doggett, Andy Egan, Rachel Faith, Ned Hall, Elizabeth Harman, David Hilbert, Jim John, Fiona Macpherson, and Daniel Stoljar.
 
 [Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
-[Alex Byrne](http://web.mit.edu/philosophy/byrne.html) <[_abyrne@mit.edu_](mailto:abyrne%40mit%2eedu)>
+[Alex Byrne](http://web.mit.edu/philosophy/byrne.html) <[*abyrne@mit.edu*](mailto:abyrne%40mit%2eedu)>

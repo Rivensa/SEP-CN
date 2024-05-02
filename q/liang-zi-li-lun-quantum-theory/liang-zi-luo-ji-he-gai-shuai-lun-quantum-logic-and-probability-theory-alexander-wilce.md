@@ -1,6 +1,6 @@
 # 量子逻辑和概率论 quantum logic and probability theory (Alexander Wilce)
 
-_首次发表于2002年2月4日；实质性修订于2021年8月10日。_
+*首次发表于2002年2月4日；实质性修订于2021年8月10日。*
 
 从数学上讲，量子力学可以被看作是建立在非经典命题逻辑和非经典概率计算之上的。具体而言，在量子力学中，形如“物理量 A 的值在范围 B 内”的概率命题由希尔伯特空间 H 上的投影算符表示。这些算符构成了一个非布尔（特别是非分配）的正交补格。量子力学态与此格上的概率测度（适当定义）完全对应。
 
@@ -72,7 +72,7 @@ Gleason 定理的一个重要推论是 L(H)不允许只有值为 0 和 1 的概�
 
 * (\*)可观测量 A 的值位于范围 B 内。
 
-( _)的一种可能解读是操作性的：“对可观测量 A 的测量将得到（或将得到，或已经得到）集合 B 中的一个值”。在这种观点下，投影表示关于测量可能结果的陈述。这与某些现实主义者不太相符，他们避免使用“测量”一词，更倾向于将(_ )理解为属性归属：
+( *)的一种可能解读是操作性的：“对可观测量 A 的测量将得到（或将得到，或已经得到）集合 B 中的一个值”。在这种观点下，投影表示关于测量可能结果的陈述。这与某些现实主义者不太相符，他们避免使用“测量”一词，更倾向于将(* )理解为属性归属：
 
 > 系统具有一定的范畴属性，这对应于可观测量 A 在任何测量之外独立地具有集合 B 中的一个值。
 
@@ -251,7 +251,7 @@ S(Γ)={x∈X∣∃ω∈Γω(x)>0}
 
 ### 6.1 经典嵌入
 
-假设我们给定一个统计模型（A，Δ）。构建（A，Δ）的“经典解释”的一个非常直接的方法是尝试将 A 嵌入到一个 Borel 测试空间 B 中，希望能够解释δ中的统计状态为后者上的“隐藏”的经典状态，即无离散的状态。因此，我们希望找到一个集合 S 和一个映射 X→℘(S)，将 A 的每个结果 x 映射到一个集合 x∗⊆S，使得对于每个测试 E∈A，{x∗∣x∈E}形成 S 的一个划分。如果可以做到这一点，那么 A 的每个结果 x 只是记录了系统处于某个特定状态集合中的事实，即 x _。如果我们让Σ成为由形如{x∗∣x∈X}的集合生成的σ-代数，我们发现每个概率测度μ在Σ上的拉回是 A 上的一个状态μ_，即μ∗(x)=μ(x\*)。只要δ中的每个状态都是这种形式，我们可以声称已经给出了模型（A，Δ）的完全经典解释。
+假设我们给定一个统计模型（A，Δ）。构建（A，Δ）的“经典解释”的一个非常直接的方法是尝试将 A 嵌入到一个 Borel 测试空间 B 中，希望能够解释δ中的统计状态为后者上的“隐藏”的经典状态，即无离散的状态。因此，我们希望找到一个集合 S 和一个映射 X→℘(S)，将 A 的每个结果 x 映射到一个集合 x∗⊆S，使得对于每个测试 E∈A，{x∗∣x∈E}形成 S 的一个划分。如果可以做到这一点，那么 A 的每个结果 x 只是记录了系统处于某个特定状态集合中的事实，即 x *。如果我们让Σ成为由形如{x∗∣x∈X}的集合生成的σ-代数，我们发现每个概率测度μ在Σ上的拉回是 A 上的一个状态μ*，即μ∗(x)=μ(x\*)。只要δ中的每个状态都是这种形式，我们可以声称已经给出了模型（A，Δ）的完全经典解释。
 
 S 的最小候选集是 A 上的所有无色散态。设置 x∗={s∈S∣s(x)=1}，我们得到了上述的经典解释，我将其称为 A 的经典图像。任何其他经典解释都可以通过这个解释来分解。然而，请注意，只有当有足够多的无色散态来区分 A 的不同结果时，映射 x→x\*才是单射的。如果 A 根本没有无色散态，那么它的经典图像就是空的。Gleason 定理告诉我们，这对于量子力学模型是成立的。因此，这种特定类型的经典解释对于量子力学模型是不可用的。
 
@@ -365,76 +365,76 @@ J. van de Wetering（\[2019]）的一个显著最新结果表明，任何有限�
 ## Bibliography
 
 * Abramsky, Samson and Bob Coecke, 2009, “Categorical Quantum Mechanics”, in Engesser, Gabbay, and Lehmann 2009: 261–323. doi:10.1016/B978-0-444-52869-8.50010-4
-* Aerts, Diederik, 1981, _The One and the Many: Towards a Unification of the Quantum and Classical Description of One and Many Physical Entities_, Ph.D. Dissertation, Free University of Brussels.
-* Amemiya, Ichiro and Huzihiro Aaraki, 1966, “A Remark on Piron’s Paper”, _Publications of the Research Institute for Mathematical Sciences_ (Series A), 2(3): 423–427. doi:10.2977/prims/1195195769
-* Baez, John, 2006, “Quantum Quandaries: a Category-Theoretic Perspective”, in Steven French, Dean Rickles, and Juha Saatsi (eds), _Structural Foundations of Quantum Gravity_, Oxford: Oxford University Press, 240-265. doi:10.1093/acprof:oso/9780199269693.003.0008.
+* Aerts, Diederik, 1981, *The One and the Many: Towards a Unification of the Quantum and Classical Description of One and Many Physical Entities*, Ph.D. Dissertation, Free University of Brussels.
+* Amemiya, Ichiro and Huzihiro Aaraki, 1966, “A Remark on Piron’s Paper”, *Publications of the Research Institute for Mathematical Sciences* (Series A), 2(3): 423–427. doi:10.2977/prims/1195195769
+* Baez, John, 2006, “Quantum Quandaries: a Category-Theoretic Perspective”, in Steven French, Dean Rickles, and Juha Saatsi (eds), *Structural Foundations of Quantum Gravity*, Oxford: Oxford University Press, 240-265. doi:10.1093/acprof:oso/9780199269693.003.0008.
 * Bacciagaluppi, Guido, 2009, “Is Logic Empirical?” in Engesser, Gabbay, and Lehmann 2009: 49–78. doi:10.1016/B978-0-444-52869-8.50006-2
-* Baltag, A. and S. Smets, 2005, “Complete Axiomatizations for Quantum Actions”, _International Journal of Theoretical Physics_, 44(12): 2267–2282. doi:10.1007/s10773-005-8022-2
-* Beltrametti, Enrico G. and Gianni Cassinelli, 1981, _The Logic of Quantum Mechanics_ (Encyclopedia of Mathematics and its Applications, Volume 15), Reading, MA: Addison-Wesley.
-* Birkhoff, Garrett, 1967, _Lattice Theory_, Providence: American Mathematical Society.
-* Birkhoff, Garrett and John von Neumann, 1936, “The Logic of Quantum Mechanics”, _Annals of Mathematics_, 37(4): 823–843. doi:10.2307/1968621
-* Chiribella, Giulio, Giacomo Mauro D’Ariano, and Paolo Perinotti, 2011, “Informational Derivation of Quantum Theory”, _Physical Review A_, 84(1): 012311. doi:10.1103/PhysRevA.84.012311
-* Clifton, Rob and Adrian Kent, 2000, “Simulating Quantum Mechanics by Non-Contextual Hidden Variables”, _Proceedings of the Royal Society A_, 456: 2101–2114. doi:10.1098/rspa.2000.0604
-* Coecke, Bob, 2011, “A Universe of Processes and Some of Its Guises”, in Hans Halvorson (ed.), _Deep Beauty: Understanding the Quantum World Through Mathematical Innovation_, Cambridge: Cambridge University Press, pp. 129–186.
-* Cohen, David W. and George Svetlichny, 1987, “Minimal Supports in Quantum Logics”, _International Journal of Theoretical Physics_, 26(5): 435–450. doi:10.1007/BF00668776
-* Cooke, Roger M. and J. Hilgevoord, 1981, “A New Approach to Equivalence in Quantum Logic”, in Enrico G. Beltrammetti and Bas C. van Fraassen (eds.) _Current Issues in Quantum Logic_, New York: Plenum, pp. 101–113. doi:10.1007/978-1-4613-3228-2\_7
-* Dakic, Borivoje, and Caslav Brukner, 2011, “Quantum Theory and Beyond: Is Entanglement Special?”, in Hans Halvorson (ed.), _Deep Beauty: Understanding the Quantum World Through Mathematical Innovation_, Cambridge: Cambridge University Press, pp. 129–186. doi:10.1017/CBO9780511976971.011
-* Davey, B.A. and H.A. Priestley, 1990, _Introduction to Lattices and Order_, Cambridge: Cambridge University Press.
-* Engesser, Kurt, Dov M. Gabbay, and Daniel Lehmann (eds), 2009, _Handbook of Quantum Logic and Quantum Structures_, Amsterdam: North-Holland.
-* Fine, Arthur, 1973, “Probability and the Interpretation of Quantum Mechanics”, _British Journal for the Philosophy of Science_, 24(1): 1–37. doi:10.1093/bjps/24.1.1
-* Foulis, D. J., 2000, “MV and Heyting effect algebras”, _Foundations of Physics_, 30: 1687–1706.
-* Foulis, D. J., and M. K. Bennett, 1994, “Effect algebras and unsharp quantum logics”, _Foundations of Physics_, 24: 1331–1352. doi:10.1007/BF02283036
-* Foulis, D.J., R. Greechie, and G.T. Rüttimann, 1992, “Filters and Supports in Orthoalgebras”, _International Journal of Theoretical Physics_, 31(5): 789–807. doi:10.1007/BF00678545
-* Foulis, D.J., C. Piron, and C.H. Randall, 1983, “Realism, Operationalism and Quantum Mechanics”, _Foundations of Physics_, 13(8): 813–841. doi:10.1007/BF01906271
-* Foulis, D.J. and C.H. Randall, 1981a, “Empirical Logic and Tensor Products”, in Holger Neumann (ed), _Interpretations and Foundations of Quantum Mechanics: Proceedings of a Conference Hold \[sic] in Marburg, 28–30 May 1979_ (Grundlagen der exakten Naturwissenschaften, volume 5), Mannheim: Wissenchaftsverlag, pp. 9–20.
-* –––, 1981b, “What Are Quantum Logics and What Ought They to Be?”, in Enrico G. Beltrametti and Bas C. van Fraassen (eds), _Current Issues in Quantum Logic_, New York: Plenum, pp. 35–52. doi:10.1007/978-1-4613-3228-2\_3
-* –––, 1984, “Stochastic Entities” in P. Mittelstaedt and E. Stachow (eds.), _Recent Developments in Quantum Logic_, Mannheim: B.I. Wissenschaft.
-* Giuntini, Roberto, and Hans Greuling, 1989, “Toward a formal language for unsharp properties”, _Foundations of Physics_, 20: 931–395.
-* Gleason, Andrew M., 1957, “Measures on the Closed Subspaces of a Hilbert Space”, _Journal of Mathematics and Mechanics_, 6(6): 885–893.
-* Grätzer, George, 1998, _General Lattice Theory_, Basel: Birkhäuser Verlag (2nd edition).
-* Golfin, Andrew S., Jr., 1988, _Representations of Complete Lattices_, Ph. D. Dissertation, University of Massachusetts, Amherst.
-* Gudder, Stanley P., 1970, “On Hidden-Variable Theories”, _Journal of Mathematical Physics_, 11(2): 431–436. doi:10.1063/1.1665156
-* –––, 1989, _Quantum Probability Theory_, San Diego: Academic Press.
-* Gudder, Stan, and Richard Greechie, 2002, “Sequential products on effect algebras”, _Reports on Mathematical Physics_, 49(1): 87–111. doi:10.1016/S0034-4877(02)80007-6
-* Guz, Wawrzyniec, 1978, “Filter Theory and Covering Law”, _Annales de l’Institut Henri Poincaré. Section A, Physique Théorique_, 29(4): 357–378. \[[Guz 1978 available online](http://www.numdam.org/item?id=AIHPA\_1978\_\_29\_4\_357\_0)]
-* Harding, John, 1996, “Decompositions in Quantum Logic”, _Transactions of the American Mathematical Society_, 348(5): 1839–1862. doi:10.1090/S0002-9947-96-01548-6
-* –––, 1998, “Regularity in Quantum Logic”, _International Journal of Theoretical Physics_, 37(4): 1173–1212. doi:10.1023/A:1026665818335
-* –––, 2009, “A Link Between Quantum Logic and Categorical Quantum Mechanics”, _International Journal of Theoretical Physics_, 48(3): 769–802. doi:10.1007/s10773-008-9853-4
-* Holevo, Alexander S., 1982, _Probabilistic and Statistical Aspects of Quantum Theory_, Amsterdam: North Holland.
-* Holland, Samuel S. Jr., 1995, “Quantum mechanics in Hilbert space: A result of M.P. Soler”, _Bulletin of the American Mathematical Society_, 32(2): 205–232. doi:10.1090/S0273-0979-1995-00593-8
-* Ischi, Boris, 2000, “Endomorphisms of the Separated Product of Lattices”, _International Journal of Theoretical Physics_, 39(11): 2559–2581. doi:10.1023/A:1026405608135
-* Jauch, J.M. and C. Piron, 1969, “On the Structure of Quantal Propositional Systems”, _Helvetica Physica Acta_, 42(6): 842–848. doi:10.5169/seals-114098
-* Kalmbach, Gudrun, 1983, _Orthomodular Lattices_, London: Academic Press.
-* Kläy, Matthias P., 1988, “Einstein-Podolsky-Rosen Experiments: The Structure of the Sample Space I, IIç”, _Foundations of Physics Letters_, 1(3): 205–244. doi:10.1007/BF00690066
-* Kochen, Simon and E.P. Specker, 1965, “Logical structures arising in quantum theory”, _Symposium on the Theory of Models: Proceedings of the 1963 International Symposium \[on the Theory of Models, Held] at Berkeley, \[from June 25 to July 11 1963]_, J.W. Addison, Leon Henkin, and Alfred Tarski (eds), Amsterdam: North-Holland, pp. 177–189.
-* –––, 1967, “The Problem of Hidden Variables in Quantum Mechanics” _Journal of Mathematics and Mechanics_, 17: 59–87.
-* Kôpka, František, and Ferdinand Chovanec, 1994, “D-posets”, _Mathematica Slovaca_, 44: 21–34.
-* Ludwig, Günther, 1983, _Foundations of Quantum Mechanics I_, New York: Springer-Verlag.
-* Mackey, George W., 1957, “Quantum Mechanics and Hilbert Space”, _The American Mathematical Monthly_, 64(8): 45–57. doi:10.2307/2308516
-* –––, 1963, _The Mathematical Foundations of Quantum Mechanics: A Lecture-note Volume_, New York: W.A. Benjamin.
-* Maudlin, Tim, 2005, “The Tale of Quantum Logic”, in Yemima Ben-Menahem (ed.), _Hilary Putnam_, Cambridge: Cambridge University Press, pp. 156–187. doi:10.1017/CBO9780511614187.006
-* Massanes, Lluis, and Markus Mueller, 2011, “A Derivation of Quantum Theory from Physical Requirements”, _New Journal of Physics_, 13: 063001. doi:10.1088/1367-2630/13/6/063001
-* Meyer, David A., 1999, “Finite Precision Measurement Nullifies the Kochen-Specker Theorem”, _Physical Review Letters_, 83(19): 3751–54. doi:10.1103/PhysRevLett.83.3751
-* Piron, C., 1964, “Axiomatique Quantique”, _Helvetica Physica Acta_, 37(4–5): 439–468. doi:10.5169/seals-113494
-* –––, 1976, _Foundations of Quantum Physics_, Reading, MA: W.A. Benjamin.
-* Pitowsky, Itamar, 1989, _Quantum Probability—Quantum Logic_ (Lecture Notes in Physics, volume 321), Berlin: Springer-Verlag.
-* –––, 2006, “Quantum Mechanics as a Theory of Probability”, in William Demopoulos and Itamar Pitowsky (eds.) _Physical Theory and Its Interpretation: Essays in Honor of Jeffrey Bub_, Dordrecht: Springer, pp. 213–240. doi:10.1007/1-4020-4876-9\_10
-* Putnam, Hilary, 1968, “Is Logic Empirical?” in R. Cohen and M.P. Wartofski (eds.), _Boston Studies in the Philosophy of Science_ (Volume 5), Dordrecht: D. Reidel; reprinted as “The Logic of Quantum Mechanics” in Hilary Putnam, _Mathematics, Matter and Method_, Cambridge University Press, 1976, second edition 1979, pp. 174–197. doi:10.1017/CBO9780511625268.012
-* Rau, Jochen, 2009, “On Quantum vs Classical Probability”, _Annals of Physics_, 324(12): 2622–2637. doi:10.1016/j.aop.2009.09.013
-* Randall, C.H. and D.J. Foulis, 1983, “Properties and Operational Propositions in Quantum Mechanics”, _Foundations of Physics_, 13(8): 843–863. doi:10.1007/BF01906272
-* Randall, C.H. and D.J. Foulis, 1985, “Stochastic Entities”, in _Recent Developments in Quantum Logic_, P. Mittelstaedt and E. Stachow (eds.), Mannheim: Bibliographisches Institut, pp. 265–284.
-* Selinger, Peter, 2007, “Dagger Compact Closed Categories and Completely Positive Maps” (Extended Abstract), _Proceedings of the 3rd International Workshop on Quantum Programming Languages_ (QPL 2005), Chicago. _Electronic Notes in Theoretical Computer Science_, 170: 139–163. doi:10.1016/j.entcs.2006.12.018
-* van Fraassen, Bas C., 1992, _Quantum Mechanics: An Empiricist View_, Oxford: Oxford University Press.
-* Varadarajan, Veeravalli Sesshadri, 1985, _Geometry of Quantum Mechanics_, New York: Springer-Verlag. doi:10.1007/978-0-387-49386-2
-* von Neumann, John, 1932, _Mathematische Grundlagen der Quantenmechanik_, Berlin: Springer-Verlag; English translation: _Mathematical Foundations of Quantum Mechanics_, Princeton: Princeton University Press, 1955.
-* de Wetering, John, 2019, “Sequential Product Spaces are Jordan Algebras”, _Journal of Mathematical Physics_, 60(6): 062201. doi:10.1063/1.5093504
-* Wilce, Alexander, 1992, “Tensor Products in Generalized Measure Theory”, _International Journal of Theoretical Physics_, 31(11): 1915–1928. doi:10.1007/BF00671964
-* –––, 2000a, “Generalized Sasaki Projections”, _International Journal of Theoretical Physics_, 39: 969–974. doi:10.1023/A:1003607820078
-* –––, 2000b, “Test Spaces and Orthoalgebras”, in Bob Coecke, David Moore, and Alexander Wilce (eds), _Current Research in Operational Quantum Logic_, Dordrecht: Kluwer Academic Publishers, pp. 81–114. doi:10.1007/978-94-017-1201-9\_4
+* Baltag, A. and S. Smets, 2005, “Complete Axiomatizations for Quantum Actions”, *International Journal of Theoretical Physics*, 44(12): 2267–2282. doi:10.1007/s10773-005-8022-2
+* Beltrametti, Enrico G. and Gianni Cassinelli, 1981, *The Logic of Quantum Mechanics* (Encyclopedia of Mathematics and its Applications, Volume 15), Reading, MA: Addison-Wesley.
+* Birkhoff, Garrett, 1967, *Lattice Theory*, Providence: American Mathematical Society.
+* Birkhoff, Garrett and John von Neumann, 1936, “The Logic of Quantum Mechanics”, *Annals of Mathematics*, 37(4): 823–843. doi:10.2307/1968621
+* Chiribella, Giulio, Giacomo Mauro D’Ariano, and Paolo Perinotti, 2011, “Informational Derivation of Quantum Theory”, *Physical Review A*, 84(1): 012311. doi:10.1103/PhysRevA.84.012311
+* Clifton, Rob and Adrian Kent, 2000, “Simulating Quantum Mechanics by Non-Contextual Hidden Variables”, *Proceedings of the Royal Society A*, 456: 2101–2114. doi:10.1098/rspa.2000.0604
+* Coecke, Bob, 2011, “A Universe of Processes and Some of Its Guises”, in Hans Halvorson (ed.), *Deep Beauty: Understanding the Quantum World Through Mathematical Innovation*, Cambridge: Cambridge University Press, pp. 129–186.
+* Cohen, David W. and George Svetlichny, 1987, “Minimal Supports in Quantum Logics”, *International Journal of Theoretical Physics*, 26(5): 435–450. doi:10.1007/BF00668776
+* Cooke, Roger M. and J. Hilgevoord, 1981, “A New Approach to Equivalence in Quantum Logic”, in Enrico G. Beltrammetti and Bas C. van Fraassen (eds.) *Current Issues in Quantum Logic*, New York: Plenum, pp. 101–113. doi:10.1007/978-1-4613-3228-2\_7
+* Dakic, Borivoje, and Caslav Brukner, 2011, “Quantum Theory and Beyond: Is Entanglement Special?”, in Hans Halvorson (ed.), *Deep Beauty: Understanding the Quantum World Through Mathematical Innovation*, Cambridge: Cambridge University Press, pp. 129–186. doi:10.1017/CBO9780511976971.011
+* Davey, B.A. and H.A. Priestley, 1990, *Introduction to Lattices and Order*, Cambridge: Cambridge University Press.
+* Engesser, Kurt, Dov M. Gabbay, and Daniel Lehmann (eds), 2009, *Handbook of Quantum Logic and Quantum Structures*, Amsterdam: North-Holland.
+* Fine, Arthur, 1973, “Probability and the Interpretation of Quantum Mechanics”, *British Journal for the Philosophy of Science*, 24(1): 1–37. doi:10.1093/bjps/24.1.1
+* Foulis, D. J., 2000, “MV and Heyting effect algebras”, *Foundations of Physics*, 30: 1687–1706.
+* Foulis, D. J., and M. K. Bennett, 1994, “Effect algebras and unsharp quantum logics”, *Foundations of Physics*, 24: 1331–1352. doi:10.1007/BF02283036
+* Foulis, D.J., R. Greechie, and G.T. Rüttimann, 1992, “Filters and Supports in Orthoalgebras”, *International Journal of Theoretical Physics*, 31(5): 789–807. doi:10.1007/BF00678545
+* Foulis, D.J., C. Piron, and C.H. Randall, 1983, “Realism, Operationalism and Quantum Mechanics”, *Foundations of Physics*, 13(8): 813–841. doi:10.1007/BF01906271
+* Foulis, D.J. and C.H. Randall, 1981a, “Empirical Logic and Tensor Products”, in Holger Neumann (ed), *Interpretations and Foundations of Quantum Mechanics: Proceedings of a Conference Hold \[sic] in Marburg, 28–30 May 1979* (Grundlagen der exakten Naturwissenschaften, volume 5), Mannheim: Wissenchaftsverlag, pp. 9–20.
+* –––, 1981b, “What Are Quantum Logics and What Ought They to Be?”, in Enrico G. Beltrametti and Bas C. van Fraassen (eds), *Current Issues in Quantum Logic*, New York: Plenum, pp. 35–52. doi:10.1007/978-1-4613-3228-2\_3
+* –––, 1984, “Stochastic Entities” in P. Mittelstaedt and E. Stachow (eds.), *Recent Developments in Quantum Logic*, Mannheim: B.I. Wissenschaft.
+* Giuntini, Roberto, and Hans Greuling, 1989, “Toward a formal language for unsharp properties”, *Foundations of Physics*, 20: 931–395.
+* Gleason, Andrew M., 1957, “Measures on the Closed Subspaces of a Hilbert Space”, *Journal of Mathematics and Mechanics*, 6(6): 885–893.
+* Grätzer, George, 1998, *General Lattice Theory*, Basel: Birkhäuser Verlag (2nd edition).
+* Golfin, Andrew S., Jr., 1988, *Representations of Complete Lattices*, Ph. D. Dissertation, University of Massachusetts, Amherst.
+* Gudder, Stanley P., 1970, “On Hidden-Variable Theories”, *Journal of Mathematical Physics*, 11(2): 431–436. doi:10.1063/1.1665156
+* –––, 1989, *Quantum Probability Theory*, San Diego: Academic Press.
+* Gudder, Stan, and Richard Greechie, 2002, “Sequential products on effect algebras”, *Reports on Mathematical Physics*, 49(1): 87–111. doi:10.1016/S0034-4877(02)80007-6
+* Guz, Wawrzyniec, 1978, “Filter Theory and Covering Law”, *Annales de l’Institut Henri Poincaré. Section A, Physique Théorique*, 29(4): 357–378. \[[Guz 1978 available online](http://www.numdam.org/item?id=AIHPA\_1978\_\_29\_4\_357\_0)]
+* Harding, John, 1996, “Decompositions in Quantum Logic”, *Transactions of the American Mathematical Society*, 348(5): 1839–1862. doi:10.1090/S0002-9947-96-01548-6
+* –––, 1998, “Regularity in Quantum Logic”, *International Journal of Theoretical Physics*, 37(4): 1173–1212. doi:10.1023/A:1026665818335
+* –––, 2009, “A Link Between Quantum Logic and Categorical Quantum Mechanics”, *International Journal of Theoretical Physics*, 48(3): 769–802. doi:10.1007/s10773-008-9853-4
+* Holevo, Alexander S., 1982, *Probabilistic and Statistical Aspects of Quantum Theory*, Amsterdam: North Holland.
+* Holland, Samuel S. Jr., 1995, “Quantum mechanics in Hilbert space: A result of M.P. Soler”, *Bulletin of the American Mathematical Society*, 32(2): 205–232. doi:10.1090/S0273-0979-1995-00593-8
+* Ischi, Boris, 2000, “Endomorphisms of the Separated Product of Lattices”, *International Journal of Theoretical Physics*, 39(11): 2559–2581. doi:10.1023/A:1026405608135
+* Jauch, J.M. and C. Piron, 1969, “On the Structure of Quantal Propositional Systems”, *Helvetica Physica Acta*, 42(6): 842–848. doi:10.5169/seals-114098
+* Kalmbach, Gudrun, 1983, *Orthomodular Lattices*, London: Academic Press.
+* Kläy, Matthias P., 1988, “Einstein-Podolsky-Rosen Experiments: The Structure of the Sample Space I, IIç”, *Foundations of Physics Letters*, 1(3): 205–244. doi:10.1007/BF00690066
+* Kochen, Simon and E.P. Specker, 1965, “Logical structures arising in quantum theory”, *Symposium on the Theory of Models: Proceedings of the 1963 International Symposium \[on the Theory of Models, Held] at Berkeley, \[from June 25 to July 11 1963]*, J.W. Addison, Leon Henkin, and Alfred Tarski (eds), Amsterdam: North-Holland, pp. 177–189.
+* –––, 1967, “The Problem of Hidden Variables in Quantum Mechanics” *Journal of Mathematics and Mechanics*, 17: 59–87.
+* Kôpka, František, and Ferdinand Chovanec, 1994, “D-posets”, *Mathematica Slovaca*, 44: 21–34.
+* Ludwig, Günther, 1983, *Foundations of Quantum Mechanics I*, New York: Springer-Verlag.
+* Mackey, George W., 1957, “Quantum Mechanics and Hilbert Space”, *The American Mathematical Monthly*, 64(8): 45–57. doi:10.2307/2308516
+* –––, 1963, *The Mathematical Foundations of Quantum Mechanics: A Lecture-note Volume*, New York: W.A. Benjamin.
+* Maudlin, Tim, 2005, “The Tale of Quantum Logic”, in Yemima Ben-Menahem (ed.), *Hilary Putnam*, Cambridge: Cambridge University Press, pp. 156–187. doi:10.1017/CBO9780511614187.006
+* Massanes, Lluis, and Markus Mueller, 2011, “A Derivation of Quantum Theory from Physical Requirements”, *New Journal of Physics*, 13: 063001. doi:10.1088/1367-2630/13/6/063001
+* Meyer, David A., 1999, “Finite Precision Measurement Nullifies the Kochen-Specker Theorem”, *Physical Review Letters*, 83(19): 3751–54. doi:10.1103/PhysRevLett.83.3751
+* Piron, C., 1964, “Axiomatique Quantique”, *Helvetica Physica Acta*, 37(4–5): 439–468. doi:10.5169/seals-113494
+* –––, 1976, *Foundations of Quantum Physics*, Reading, MA: W.A. Benjamin.
+* Pitowsky, Itamar, 1989, *Quantum Probability—Quantum Logic* (Lecture Notes in Physics, volume 321), Berlin: Springer-Verlag.
+* –––, 2006, “Quantum Mechanics as a Theory of Probability”, in William Demopoulos and Itamar Pitowsky (eds.) *Physical Theory and Its Interpretation: Essays in Honor of Jeffrey Bub*, Dordrecht: Springer, pp. 213–240. doi:10.1007/1-4020-4876-9\_10
+* Putnam, Hilary, 1968, “Is Logic Empirical?” in R. Cohen and M.P. Wartofski (eds.), *Boston Studies in the Philosophy of Science* (Volume 5), Dordrecht: D. Reidel; reprinted as “The Logic of Quantum Mechanics” in Hilary Putnam, *Mathematics, Matter and Method*, Cambridge University Press, 1976, second edition 1979, pp. 174–197. doi:10.1017/CBO9780511625268.012
+* Rau, Jochen, 2009, “On Quantum vs Classical Probability”, *Annals of Physics*, 324(12): 2622–2637. doi:10.1016/j.aop.2009.09.013
+* Randall, C.H. and D.J. Foulis, 1983, “Properties and Operational Propositions in Quantum Mechanics”, *Foundations of Physics*, 13(8): 843–863. doi:10.1007/BF01906272
+* Randall, C.H. and D.J. Foulis, 1985, “Stochastic Entities”, in *Recent Developments in Quantum Logic*, P. Mittelstaedt and E. Stachow (eds.), Mannheim: Bibliographisches Institut, pp. 265–284.
+* Selinger, Peter, 2007, “Dagger Compact Closed Categories and Completely Positive Maps” (Extended Abstract), *Proceedings of the 3rd International Workshop on Quantum Programming Languages* (QPL 2005), Chicago. *Electronic Notes in Theoretical Computer Science*, 170: 139–163. doi:10.1016/j.entcs.2006.12.018
+* van Fraassen, Bas C., 1992, *Quantum Mechanics: An Empiricist View*, Oxford: Oxford University Press.
+* Varadarajan, Veeravalli Sesshadri, 1985, *Geometry of Quantum Mechanics*, New York: Springer-Verlag. doi:10.1007/978-0-387-49386-2
+* von Neumann, John, 1932, *Mathematische Grundlagen der Quantenmechanik*, Berlin: Springer-Verlag; English translation: *Mathematical Foundations of Quantum Mechanics*, Princeton: Princeton University Press, 1955.
+* de Wetering, John, 2019, “Sequential Product Spaces are Jordan Algebras”, *Journal of Mathematical Physics*, 60(6): 062201. doi:10.1063/1.5093504
+* Wilce, Alexander, 1992, “Tensor Products in Generalized Measure Theory”, *International Journal of Theoretical Physics*, 31(11): 1915–1928. doi:10.1007/BF00671964
+* –––, 2000a, “Generalized Sasaki Projections”, *International Journal of Theoretical Physics*, 39: 969–974. doi:10.1023/A:1003607820078
+* –––, 2000b, “Test Spaces and Orthoalgebras”, in Bob Coecke, David Moore, and Alexander Wilce (eds), *Current Research in Operational Quantum Logic*, Dordrecht: Kluwer Academic Publishers, pp. 81–114. doi:10.1007/978-94-017-1201-9\_4
 * –––, 2009, “Test spaces”, Engesser, Gabbay, and Lehmann 2009: 443–549. doi:10.1016/B978-0-444-52869-8.50014-1
-* –––, 2018, “A Royal Road to Quantum Theory (or Thereabouts)”, _Entropy_, 20(4): 227 doi:10.3390/e20040227
-* Wright, Ron, 1980, “The State of the Pentagon: A Nonclassical Example”, in A.R. Marlowe (ed.), _Mathematical Foundations of Quantum Physics_, New York: Academic Press, pp. 255–274. doi:10.1016/B978-0-12-473250-6.50015-7
-* Younce, Matthew B., 1987, _Random Variables on Non-Boolean Structures_, Ph.D. Dissertation, Department of Mathematics, University of Massachusetts/Amherst.
+* –––, 2018, “A Royal Road to Quantum Theory (or Thereabouts)”, *Entropy*, 20(4): 227 doi:10.3390/e20040227
+* Wright, Ron, 1980, “The State of the Pentagon: A Nonclassical Example”, in A.R. Marlowe (ed.), *Mathematical Foundations of Quantum Physics*, New York: Academic Press, pp. 255–274. doi:10.1016/B978-0-12-473250-6.50015-7
+* Younce, Matthew B., 1987, *Random Variables on Non-Boolean Structures*, Ph.D. Dissertation, Department of Mathematics, University of Massachusetts/Amherst.
 
 ## Academic Tools
 
@@ -455,4 +455,4 @@ J. van de Wetering（\[2019]）的一个显著最新结果表明，任何有限�
 [Bell’s Theorem](https://plato.stanford.edu/entries/bell-theorem/) | [quantum mechanics](https://plato.stanford.edu/entries/qm/) | [quantum mechanics: Kochen-Specker theorem](https://plato.stanford.edu/entries/kochen-specker/) | [quantum mechanics: modal interpretations of](https://plato.stanford.edu/entries/qm-modal/) | [quantum theory: and mathematical rigor](https://plato.stanford.edu/entries/qt-nvd/)
 
 [Copyright © 2021](https://plato.stanford.edu/info.html#c) by\
-[Alexander Wilce](http://www.susqu.edu/facstaff/w/wilce/) <[_wilce@susqu.edu_](mailto:wilce%40susqu%2eedu)>
+[Alexander Wilce](http://www.susqu.edu/facstaff/w/wilce/) <[*wilce@susqu.edu*](mailto:wilce%40susqu%2eedu)>

@@ -1,11 +1,10 @@
 # 托马斯·里德 Reid, Thomas (Ryan Nichols and Gideon Yaffe)
+
 *首次发表于 2000 年 8 月 28 日；实质性修订于 2014 年 9 月 23 日*
 
 ![picture of reid](https://plato.stanford.edu/entries/reid/reid.jpg)
 
 *肖像由苏格兰国家信托提供*
-
-
 
 托马斯·里德（1710-1796）是苏格兰哲学家，以其哲学方法、感知理论及其对认识论的广泛影响，以及作为自由意志的代理因果理论的开发者和捍卫者而闻名。在这些和其他领域，他对洛克、伯克利和尤其是休谟的哲学提出了敏锐而重要的批评。他还以对洛克的个人身份观和休谟的因果观的批评而闻名。里德还对伦理学、美学和心灵哲学等哲学主题做出了有影响力的贡献。托马斯·里德哲学工作的遗产在当代的感知理论、自由意志、宗教哲学以及广泛的认识论中得到体现。
 
@@ -544,7 +543,6 @@ Other works by Reid include:
   
 * These collections are composed of manuscript writings that are not in Thomas Reid's handwriting; they represent student transcriptions of his lectures at University of Glasgow.
   
-
 ### Secondary Works
 
 #### Books and Collections

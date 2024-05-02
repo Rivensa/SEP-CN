@@ -4,8 +4,6 @@
 
 今天，将宗教的概念作为社会实践的分类群体是很常见的，这个范畴概念的典型例子是所谓的“世界”宗教，包括犹太教、基督教、伊斯兰教、印度教、佛教、儒教和道教。[1]也许同样典型但有些棘手的是，一些生活形式没有被从业者或观察者命名，但是它们在某个地理区域或一群人中很常见，例如中国的宗教或古罗马的宗教，尤鲁巴人的宗教或切罗基人的宗教。简而言之，这个概念如今被用来表示包含多个成员的社会形态的一个类别，其中有许多实例。
 
-
-
 > 然而，宗教这个概念最初并不是指社会类别。它最早的引用并不是指社会种类，随着时间的推移，这个概念的范围在不同的方向上发展，以至于威胁到了它的一致性。正如保罗·格里菲斯所指出的，听到关于宗教概念的讨论很容易得出结论，几乎没有人知道他们在谈论什么，或者更准确地说，关于宗教是什么有很多不同的观点，使用这个术语进行重要讨论的交流困难使得巴别塔的沟通问题似乎微不足道且容易解决。这些困难在学术研究宗教的过程中也是显而易见的，它们在很大程度上解释了为什么这门学科对于其核心主题没有一致或广泛共享的理解。（2000 年：30）
 
 因此，本条目简要介绍了宗教语义范围如何随着时间的推移而扩大和转变的历史，并考虑了两个哲学问题，这些问题对于争议概念可能会出现，对于用于分类文化类型的其他抽象概念（如“文学”，“民主”或“文化”本身）也可能会出现。首先，现在被认为属于这一类别的各种不同实践引发了一个问题，即是否可以通过必要和充分的属性来理解这个社会分类，还是应该将其视为一个家族相似概念。在这里，问题是宗教概念是否可以说有本质。其次，认识到该概念的意义已经转变，它在特定的时间和地点出现，但在其他地方是未知的，并且它经常被用来贬低某些文化，这引发了一个问题，即该概念是否对应于世界上的任何实体，还是仅仅是一个应该被淘汰的修辞手段。因此，本条目考虑了对该概念的批判和怀疑性分析的兴起，包括那些认为该术语指的是无物的观点。
@@ -260,7 +258,7 @@
 * Kant, Immanuel, 1793 [1934], *Die Religion innerhalb der Grenzen der bloßen Vernunft*, Königsberg. Translated as *Religion within the Limits of Reason Alone*, Theodore M. Greene and Hoyt H. Hudson (trans.), La Salle, IL: The Open Court, 1934.
 * Laurence, Stephen and Eric Margolis, 1999, “Concepts and Cognitive Science”, in *Concepts: Core Readings*, Eric Margolis and Stephen Laurence (eds), Cambridge: MIT Press, 1–81.
 * Lehrich, Christopher I., 2021, *Jonathan Z. Smith on Religion*, London: Routledge.
-* Lincoln, Bruce, 2006, *Holy Terrors: Thinking about Religion after September 11*. Second edition. Chicago: The University of Chicago Press. 
+* Lincoln, Bruce, 2006, *Holy Terrors: Thinking about Religion after September 11*. Second edition. Chicago: The University of Chicago Press.
 * Ling, Trevor, 1980, *Karl Marx and Religion: In Europe and India*, London: Palgrave Macmillan.
 * Lofton, Kathryn, 2011, *Oprah: The Gospel of an Icon*, Berkeley, CA: University of California Press.
 * –––, 2012, “Religious History as Religious Studies”, *Religion*, 42(3): 383–394. doi:10.1080/0048721X.2012.681878

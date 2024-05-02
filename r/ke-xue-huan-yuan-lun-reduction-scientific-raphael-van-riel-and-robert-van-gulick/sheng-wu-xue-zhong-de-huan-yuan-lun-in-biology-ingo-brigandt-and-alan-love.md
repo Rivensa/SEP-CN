@@ -8,11 +8,11 @@
 
 第 1 节概述了还原论的概念及其与生物学领域和其他哲学问题的关系。由于关于还原论的辩论在哲学生物学领域的最近讨论之前已经进行了很长时间，第 2 节提供了一些历史背景。第 3 节根据各自的动机和局限性，对还原的主要哲学解释进行了回顾。第 4 节讨论了对还原的可行性或科学相关性的更一般的反对意见。由于过去二十年来，大多数哲学讨论主要集中在科学知识结构的其他模型（例如整合）而不是还原上，第 5 节和第 6 节集中讨论了这些最近的问题和趋势。
 
-* [ 1. 引言](https://plato.stanford.edu/entries/reduction-biology/#Intr)
+* [1. 引言](https://plato.stanford.edu/entries/reduction-biology/#Intr)
 * [2. 历史背景：哲学和科学](https://plato.stanford.edu/entries/reduction-biology/#HistBackPhilScie)
 * [3. 还原论模型（认识论）](https://plato.stanford.edu/entries/reduction-biology/#ModeEpisRedu)
 
-  * [ 3.1 理论还原](https://plato.stanford.edu/entries/reduction-biology/#TheoRedu)
+  * [3.1 理论还原](https://plato.stanford.edu/entries/reduction-biology/#TheoRedu)
   * [3.2 解释还原](https://plato.stanford.edu/entries/reduction-biology/#ExplRedu)
 * [4. 还原论的问题](https://plato.stanford.edu/entries/reduction-biology/#ProbRedu)
 
@@ -20,11 +20,11 @@
   * [4.2 高层特征的多重实现（多对一）](https://plato.stanford.edu/entries/reduction-biology/#MultRealHighLeveFeatManyOne)
   * [4.3 表示、时间性和内在性](https://plato.stanford.edu/entries/reduction-biology/#ReprTempIntr)
 * [5. 还原论的“替代方案”：超越二元对立](https://plato.stanford.edu/entries/reduction-biology/#AlteReduMoviBeyoDich)
-* [ 6. 未来前景](https://plato.stanford.edu/entries/reduction-biology/#FutuPros)
-* [ 参考文献](https://plato.stanford.edu/entries/reduction-biology/#Bib)
-* [ 学术工具](https://plato.stanford.edu/entries/reduction-biology/#Aca)
+* [6. 未来前景](https://plato.stanford.edu/entries/reduction-biology/#FutuPros)
+* [参考文献](https://plato.stanford.edu/entries/reduction-biology/#Bib)
+* [学术工具](https://plato.stanford.edu/entries/reduction-biology/#Aca)
 * [其他互联网资源](https://plato.stanford.edu/entries/reduction-biology/#Oth)
-* [ 相关条目](https://plato.stanford.edu/entries/reduction-biology/#Rel)
+* [相关条目](https://plato.stanford.edu/entries/reduction-biology/#Rel)
 
 ---
 
