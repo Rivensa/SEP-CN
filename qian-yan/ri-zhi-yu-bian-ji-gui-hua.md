@@ -45,3 +45,8 @@
   - 存在问题的条目 
     - Robert Alyngton 不知道是谁———Alyngton, Robert (Alessandro Conti)
     - French Franciscan Peter Auriol  不知道是谁——Auriol [Aureol, Aureoli], Peter (Russell L. Friedman)
+- 2024.05.02 B 部分条目的机器重译完成
+  - 存在问题的条目 
+    - 勒伊岑·艾赫贝特斯·扬·布劳威尔 Brouwer, Luitzen Egbertus Jan———全名翻译有问题
+	- 查理·邓巴·布劳德 Broad, Charlie Dunbar——全名翻译有问题
+
