@@ -16,30 +16,6 @@
 
 本条目首先讨论了反思平衡的起点，考察了文献中对其的各种解释。然后探讨了将我们从仅仅拥有判断到达反思平衡的原则和理论。最后，考虑了该方法的一些主要反对意见。整个过程将重点放在道德和政治哲学的典型背景下的反思平衡上，特别是由罗尔斯和诺曼·丹尼尔斯发展起来的方法，但也参考了其他哲学分支中发展的该方法的版本（例如，古德曼 1965 年；刘易斯 1983 年；埃尔金 1996 年）。
 
-* [1. 判断](https://plato.stanford.edu/entries/reflective-equilibrium/#Judg)
-
-  * [1.1 考虑的判断](https://plato.stanford.edu/entries/reflective-equilibrium/#ConsJudg)
-  * [1.2 自信约束](https://plato.stanford.edu/entries/reflective-equilibrium/#ConfCons)
-  * [1.3 认知约束](https://plato.stanford.edu/entries/reflective-equilibrium/#EpisCons)
-  * [1.4 初始判断](https://plato.stanford.edu/entries/reflective-equilibrium/#InitJudg)
-* [2. 原理和理论](https://plato.stanford.edu/entries/reflective-equilibrium/#PrinTheo)
-
-  * [2.1 广义反思平衡](https://plato.stanford.edu/entries/reflective-equilibrium/#WideReflEqui)
-  * [2.2 独立约束](https://plato.stanford.edu/entries/reflective-equilibrium/#IndeCons)
-  * [2.3 Kohärenzist oder Fundamentalist?](https://plato.stanford.edu/entries/reflective-equilibrium/#CoheFoun)
-  * [2.4 Reflexives Gleichgewicht ohne Prinzipien?](https://plato.stanford.edu/entries/reflective-equilibrium/#ReflEquiWithPrin)
-  * [2.5 Öffentliches reflexives Gleichgewicht](https://plato.stanford.edu/entries/reflective-equilibrium/#PublReflEqui)
-* [3. 反思](https://plato.stanford.edu/entries/reflective-equilibrium/#Obje)
-
-  * [3.1 可信度](https://plato.stanford.edu/entries/reflective-equilibrium/#Cred)
-  * [3.2 相对主义](https://plato.stanford.edu/entries/reflective-equilibrium/#Rela)
-  * [3.3 不确定性](https://plato.stanford.edu/entries/reflective-equilibrium/#Inde)
-  * [3.4 偏见](https://plato.stanford.edu/entries/reflective-equilibrium/#Bias)
-  * [3.5 一个空方法？](https://plato.stanford.edu/entries/reflective-equilibrium/#EmptMeth)
-* [参考文献](https://plato.stanford.edu/entries/reflective-equilibrium/#Bib)
-* [学术工具](https://plato.stanford.edu/entries/reflective-equilibrium/#Aca)
-* [其他互联网资源](https://plato.stanford.edu/entries/reflective-equilibrium/#Oth)
-* [相关条目](https://plato.stanford.edu/entries/reflective-equilibrium/#Rel)
 
 ---
 
