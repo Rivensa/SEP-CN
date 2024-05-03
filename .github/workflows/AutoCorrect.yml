@@ -22,14 +22,12 @@ jobs:
           run: yarn add autocorrect-node
         
         - name: Run autocorrect lint
-          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md
+          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
           
         - name: Run autocorrect fix
-          if: failure()
           run: yarn autocorrect --fix **/*.md
 
         - name: Markdown add spaces
-          if: failure()
           uses: peter-evans/create-pull-request@v6
           with:
              commit-message: "Markdown add spaces"
