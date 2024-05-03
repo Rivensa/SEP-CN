@@ -72,8 +72,8 @@
 
 |               | **Examples**                                                                                                                                    | **Antecedents**   | **Consequents**     | **Deny Ante­ce­dent?** |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------- | ---------------------- |
-| __直陈条件__ | [(3)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-kennedy),[(5)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-bob)   | V-ed, … V-ed, …   | V-ed, … 过去分词，..     | 不恰当                    |
-| __虚拟语气__ | [(4)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-kennedy),[(6)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-bob) | 曾经 V 过，要 V，V 过，.. | 会有 V，会 V，会已经 V 过，.. | 可以是幸福的                 |
+| **直陈条件** | [(3)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-kennedy),[(5)](https://plato.stanford.edu/entries/counterfactuals/#e-ind-bob)   | V-ed, … V-ed, …   | V-ed, … 过去分词，..     | 不恰当                    |
+| **虚拟语气** | [(4)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-kennedy),[(6)](https://plato.stanford.edu/entries/counterfactuals/#e-subj-bob) | 曾经 V 过，要 V，V 过，.. | 会有 V，会 V，会已经 V 过，.. | 可以是幸福的                 |
 
 图 1：直陈条件和虚拟条件的简易指南
 

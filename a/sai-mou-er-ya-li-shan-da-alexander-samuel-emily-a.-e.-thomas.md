@@ -232,7 +232,6 @@ Oakeley 和 Collingwood 都与亚历山大进行了通信，他们的通信中�
 
 近年来，人们才开始真正意识到亚历山大与历史哲学家 R.G.科林伍德之间的智力关系的广度；请参见奥尼尔（O'Neill）（2006 年），康奈利（Connelly）（2021 年）和小林（Kobayashi）（2021 年）。作为一个现实主义者，亚历山大的作品也被至少两位英国唯心主义者梅·辛克莱（May Sinclair）和希尔达·奥克利（Hilda Oakeley）所接受；请参见托马斯（Thomas）（2015 年；2019 年）。
 
-
 ## Bibliography
 
 ### Works by Alexander

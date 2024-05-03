@@ -248,7 +248,6 @@
 
 在对相关领域的简短研究中，遗漏和疏忽是不可避免的。因此，以 Outlaw 对类似研究的版本中的语言作为结束是合适的。可以说这个条目与 Outlaw 的说法相似：它“并不意味着详尽无遗”，而是“提供示例并征求额外的贡献，以使解释更全面和准确”（Outlaw 2017，§2，第 23 段）。
 
-
 ## Bibliography
 
 * Abdel-Shehid, G., and Kolia, Z., 2017, “In Light of the Master: Re-reading Césaire and Fanon,” *C.L.R. James Journal*, 23 (1–2): 175–192.

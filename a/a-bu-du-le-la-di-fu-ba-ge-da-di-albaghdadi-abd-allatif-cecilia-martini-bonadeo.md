@@ -1,6 +1,5 @@
 # 阿卜杜勒·拉蒂夫·巴格达迪 al-Baghdadi, ‘Abd al-Latif (Cecilia Martini Bonadeo)
 
-
 首次发表于 2015 年 9 月 9 日星期三；实质性修订于 2023 年 9 月 28 日星期四
 
 希腊-阿拉伯科学在公元 8 至 10 世纪间进入伊斯兰世界，这要归功于翻译家的大量活动和阿尔-坎迪对知识的追求，以及巴格达的亚里士多德学派的注释活动。从 10 世纪末到 11 世纪末，甚至到 12 世纪初，阿拉伯-伊斯兰哲学的主流变成了阿拉伯语和波斯语的原创哲学文学创作，这时的阿拉伯-伊斯兰哲学已经越来越远离希腊的阿拉伯翻译源。伊本·西那的作品充分证明了这一现象，这促使了 12 世纪的纯粹主义潮流，阿维罗伊斯在穆斯林西方通过回归亚里士多德的计划得到了很好的体现：类似但并非完全相同的现象也发生在穆斯林东方，由穆瓦法克·阿尔丁·穆罕默德·阿卜杜勒·拉蒂夫·伊本·尤素夫·巴格达迪引领。
@@ -166,7 +165,6 @@
 Alchemy and its false presumptions must be distinguished from scientific knowledge, such as mathematics, mineralogy, chemistry, zoology, and botany. Proof of this is that the Ancients never spoke of it: Pythagoras has not devoted a treatise to it, Plato and Aristotle never speak of it, and thus neither do the Greek commentators after them. There is not a single word on alchemy in all of Galen’s voluminous works, nor in that of John Philoponus. In the Islamic age al-Jahiz, Hunayn ibn Ishaq, his son Ishaq, his grandson Hunayn, Abu Bishr Matta, and Abu al-Faraj ibn al-Tayyib keep all silent on the subject. The father of this false science would seem to have been Jabir ibn Hayyan who has turned generations of students after him astray. Al-Farabi, the greatest Islamic philosopher, mentions elixirs (al-iksir) in a highly negative way only once. Even Avicenna, in his treatise on alchemy does not give this art a rational basis. Alchemy is guilty of having waylaid generations of scholars.
 
 阿卜杜勒·拉蒂夫的生活和作品证明了许多穆斯林学者和科学家在 12 世纪和 13 世纪之间参与伊斯兰学校的环境中发挥的关键作用，他们传承了希腊哲学和医学知识，这些知识在培养有学问的穆斯林中仍然被视为至关重要。
-
 
 ## Bibliography
 

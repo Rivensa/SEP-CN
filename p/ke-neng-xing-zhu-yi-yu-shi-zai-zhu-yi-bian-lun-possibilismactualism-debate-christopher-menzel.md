@@ -1017,7 +1017,7 @@ Lp→Lp 现在仍然可以被证明为必要的：
 * *Quantificational Axiom Schemas*\
   [**Q1**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas), [**FQ2**](https://plato.stanford.edu/entries/possibilism-actualism/#FQ2\A), [**Q3**](https://plato.stanford.edu/entries/possibilism-actualism/#QuantSchemas)
 * *Existence Axiom Schema*\
-  [__E!__*A*](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)
+  [**E!***A*](https://plato.stanford.edu/entries/possibilism-actualism/#Ex\A)
 * *Identity Axiom Schemas*\
   [**∀Id1**](https://plato.stanford.edu/entries/possibilism-actualism/#GenId1), [**Id2**](https://plato.stanford.edu/entries/possibilism-actualism/#IdSchemas)
 * *Rules of Inference*\

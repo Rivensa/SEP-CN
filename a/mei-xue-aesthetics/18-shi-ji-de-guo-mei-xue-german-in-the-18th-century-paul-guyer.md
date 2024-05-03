@@ -274,7 +274,6 @@ Several points about this passage need comment. First, while by “representatio
 
 > 然而，尽管人类的艺术可能比自然更加集中美，但这并不意味着艺术美在所有方面都优于自然美。孟德尔松通过说“最完美的理想美……在自然中除了整体之外几乎无处可寻，在艺术作品中也许永远无法完全实现”来结束刚才引用的段落。自然的整体美超越了任何艺术作品的美，因此我们对任何人类艺术家的技巧和天才的赞赏必须被我们对自然整体背后的艺术性的赞赏和愉悦所超越。
 
-
 门德尔松在《美术与科学的主要原则》一文中，以简洁而有力的方式总结了艺术的分类。他的分类基础是自然符号和任意符号之间的区别，这在杜博斯、莱布尼茨和沃尔夫等人中都有先例，而圣奥古斯丁更是超越了他们。如果“所指的主题的组合是基于所指定事物的属性”，则符号是自然的，就像烟是火的自然产物，或者“激情本质上与我们的肢体运动以及某些声音和姿势相联系”（《主要原则》；哲学著作，第 177 页）。而任意符号则是“本质上与所指定的主题没有共同之处，但却被任意地假定为其符号”，比如“所有语言的发音、字母、古代象形文字和一些寓言形象”（《主要原则》；哲学著作，第 177-178 页）。任意符号也可以称为约定俗成的符号。门德尔松的主要区别在于那些通过人为符号传达其内容的艺术，即诗歌和修辞学，以及那些使用自然符号的艺术，通过自然符号传达内容和表达情感，并且“不需要任何任意的前提才能理解”，即绘画、雕塑、音乐、舞蹈，甚至建筑（只要它传达任何意义和表达）。事实上，门德尔松根据这一基础区分了美术和美学科学，或者说是美术和文学之间的区别：美术使用自然符号，而美学科学或文学使用任意或约定俗成的符号（《主要原则》；哲学著作，第 178-179 页）。 在美文中，诗歌和修辞之间的区别在于“诗歌的主要和最终目的是通过一种感性完美的言辞来取悦，而修辞的目的是通过一种感性完美的言辞来说服。”门德尔松没有解释为什么诗歌和修辞使用人为而非自然的符号使它们被称为科学而不是艺术；也许他心中所想的是，由于任意符号的意义可以被编码，因此在诗歌和修辞的解释中比各种美术（除了它们的寓意或图像方面，正如门德尔松所暗示的那样，更像是任意而非自然的符号）有更多的精确性空间。此外，在修辞学的情况下，还有一个追溯到古代的长期传统，制定了如何实现说服的规则，也许这使得它在门德尔松看来更像是一门科学而不是一门艺术。
 
 不管怎样，门德尔松的区别的主要观点是，由于其符号是任意的，因此可以与任何可想象的内容相关联，“诗人可以表达我们的灵魂能够清晰概念的一切”，而使用自然符号的艺术则仅限于表达那些可以在其特定媒体中复制的思想和情感的自然符号；每种艺术“必须满足于它可以通过感官手段表达的自然符号的那一部分”，或者更准确地说，通过它特定的感官参与方式。例如，“音乐通过不发音的声音来表达”，虽然它可以表达和谐的一般概念和所有特定的“倾向和激情，这些倾向和激情通过声音来表达”，但它不可能指示物体的特定概念，例如“玫瑰的概念，杨树等等，就像绘画无法向我们展示音乐和弦一样”（“主要原则”；哲学著作，第 178-9 页）。一个世纪后，音乐评论家爱德华·汉斯利克提出了类似的观点。
@@ -805,12 +804,12 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 
 [See also works listed in the previous section. Where a work listed here covers several authors, it is usually listed under the first author it covers.]
 
-#### Wolff:
+#### Wolff
 
 * Birke, Joachim, 1966, *Christian Wolffs Metaphysik und die zeitgenössische Literatur- und Musiktheorie: Gottsched, Scheibe, Mizler*, Berlin: Walter de Gruyter & Co.
 * Krüger, Joachim, 1980, *Christian Wolff und die Ästhetik*, Berlin: Wissenschaftliche Schriftenreihe der Humboldt-Universität.
 
-#### Gottsched:
+#### Gottsched
 
 * Dahlstrom, Daniel O., 1986, “Die Aufklärung der Poesie.” *Zeitschrift für Ästhetik und allgemeine Kunstwissenschaft* 31: 139–68.
 * Möller, Uwe, 1983, *Rhetorische Überlieferung und Dichtungstheorie im frühen 18. Jahrhundert: Studien zu Gottsched, Breitinger und G.Fr. Meier*, Munich: Wilhelm Fink Verlag.
@@ -829,7 +828,7 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 * Solms, Friedhelm, 1990, *Disciplina aesthetica: Zur Frühgeschichte der ästhetischen Theorie bei Baumgarten und Herder*, Stuttgart: Klett-Cotta.
 * Witte, Egbert, 2000, *Logik ohne Dornen: Die Rezeption von A.G. Baumgartens Ästhetil im Spannungsfeld von logischem Begriff und ästhetischer Anschauung*, Hildesheim: Georg Olms Verlag.
 
-#### Mendelssohn:
+#### Mendelssohn
 
 * Altmann, Alexander, 1969, *Moses Mendelssohns Frühschriften zur Metaphysik*, Tübingen: J.C.B. Mohr (Paul Siebeck).
 * –––, 1973, *Moses Mendelssohn: A Biographical Study*, University, AL: University of Alabama Press.
@@ -842,7 +841,7 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 * Pollok, Anne, 2010, *Facetten des Menschen: Zur Anthropologie Moses Mendelssohns*, Hamburg: Felix Meiner Verlag.
 * Will, Frederick, Jr., 1955, “Cognition through Beauty: Moses Mendelssohn’s Early Aesthetics.” *Journal of Aesthetics and Art Criticism* 14: 97–105.
 
-#### Winckelmann:
+#### Winckelmann
 
 * Baur, Michael, 2018, “Winckelmann’s Greek Ideal and Kant’s Critical Philosophy,” in Daniel O. Dahlstrom (ed.), *Kant and Hist Contemporaries, Volume II: Aesthetics, History, Politics, and Religion*, Cambridge: Cambridge University Press, pp. 50–68.
 * Décultot, Élisabeth, 2000, *Johann Joachim Winckelmann: Enquête sur la genèse de l’histoire de l’art*, Paris: Presses Universitaires de France.
@@ -852,13 +851,13 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 * Morrison, Jeffrey, 1996, *Winckelmann and the Notion of Aesthetic Education*, Oxford: Clarendon Press.
 * Potts, Alex, 1994, *Flesh and the Ideal: Winckelmann and the Origins of Art History*, New Haven and London: Yale University Press.
 
-#### Lessing:
+#### Lessing
 
 * Richter, Simon, 1992, *Laocoon’s Body and the Aesthetics of Pain: Winckelmann, Lessing, Herder, Moritz, Goethe*, Detroit: Wayne State University Press.
 * Wellbery, David E., 1984, *Lessing’s Laocoon: Semiotics and Aesthetics in the Age of Reason*, Cambridge: Cambridge University Press.
 * Wessel, Leonard, 1983, “Lessing as an Aesthetic Thinker.” *Lessing Yearbook* 15: 177–211.
 
-#### Herder:
+#### Herder
 
 * Berlin, Isaiah, 1976, *Vico and Herder: Two Studies in the History of Ideas*, London: The Hogarth Press.
 * Forster, Michael N., 2018, *Herder’s Philosophy*, Oxford: Oxford University Press.
@@ -871,13 +870,13 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 * Zammito, John H., 2002, *Kant, Herder, and the Birth of Anthropology*, Chicago: University of Chicago Press.
 * Zuckert, Rachel, 2019, *Herder’s Naturalist Aesthetics*, Cambridge: Cambridge University Press.
 
-#### Sulzer:
+#### Sulzer
 
 * Baker, Nancy Kovaleff and Thomas Christensen (eds), 1995, *Aesthetics and the Art of Musical Composition in the German Enlightenment: Selected Writings of Johann Georg Sulzer and Heinrich Christoph Koch*, Cambridge: Cambridge University Press.
 * Dobai, Johannes. 1978, *Die bildenden Künste in J.G. Sulzers Ästhetik, seine Allgemeine Theorie der schönen Künste*, Winthertur: Stadtbibliothek.
 * Tumarkin, Anna, 1933, *Die Ästhetiker Johann Georg Sulzer*, Frauenfeld: Huber.
 
-#### Moritz:
+#### Moritz
 
 * Allkemper, Alo, 1990, *Ästhetische Lösungen: Studien zu Karl Philipp Moritz*, Munich: Wilhelm Fink Verlag.
 * Boulby, Mark, 1979, *Karl Philipp Moritz: At the Fringe of Genius*, Toronto: University of Toronto Press.
@@ -888,11 +887,11 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 * Schrimpf, Hans Joachim, 1980, *Karl Philipp Moritz*, Stuttgart: J.B. Metzler Verlag.
 * Woodmansee, Martha, 1994, *The Author, Art, and the Market: Rereading the History of Aesthetics*, New York: Columbia University Press.
 
-#### Herz:
+#### Herz
 
 * Davies, Martin, 1995, *Identity or History? Marcus Herz and the End of the Enlightenment*, Detroit: Wayne State University Press.
 
-#### Kant:
+#### Kant
 
 * Adair, Stephanie, 2018, *The Aesthetic Use of the Logical Functions in Kant’s Third Critique*, Berlin and Boston: Walter de Gruyer,
 * Allison, Henry E., 2001, *Kant’s Theory of Taste: A Reading of the ‘Critique of Judgment’*, Cambridge: Cambridge University Press.
@@ -982,7 +981,7 @@ Herder 的审美体验的一般理论是，它是一种源于对自然真实秩�
 * Zeldin, Mary-Barbara, 1980, *Freedom and the Critical Undertaking: Essays on Kant’s Later Critiques*, Ann Arbor: UMI Monographs.
 * Zuckert, Rachel, 2007, *Kant on Beauty and Biology: An Interpretation of the ‘Critique of Judgment’*, Cambridge: Cambridge University Press.
 
-#### Schiller:
+#### Schiller
 
 * Beiser, Frederick, 2005, *Schiller as Philosopher: A Re-Examination*, Oxford: Clarendon Press.
 * Chytry, Josef, 1989, *The Aesthetic State: A Quest in Modern German Thought*, Berkeley and Los Angeles: University of California Press.
