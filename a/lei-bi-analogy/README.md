@@ -1,1 +1,1 @@
-# 类比 analogy
+# \*类比 analogy
