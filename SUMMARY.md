@@ -117,7 +117,7 @@
 * [歧义 ambiguity (Adam Sennet)](a/qi-yi-ambiguity-adam-sennet.md)
 * [赫尔米亚的阿莫尼俄斯 Ammonius (David Blank)](a/he-er-mi-ya-deamo-niesi-ammonius-david-blank.md)
 * [\*阿摩尼阿斯·萨卡斯——见普罗提诺 Ammonius Saccas — see Plotinus](a/a-mo-niasi-sa-ka-si-jian-pu-luo-ti-nuo-ammonius-saccas-see-plotinus.md)
-* [类比 analogy](a/lei-bi-analogy/README.md)
+* [\*类比 analogy](a/lei-bi-analogy/README.md)
   * [中世纪的类比理论 medieval theories of (E. Jennifer Ashworth and Domenic D’Ettore)](a/lei-bi-analogy/zhong-shi-ji-de-lei-bi-li-lun-medieval-theories-of-e.-jennifer-ashworth-and-domenic-dettore.md)
 * [类比与类推推理 analogy and analogical reasoning (Paul Bartha)](a/lei-bi-yu-lei-tui-tui-li-analogy-and-analogical-reasoning-paul-bartha.md)
 * [分析 analysis (Michael Beaney)](a/fen-xi-analysis-michael-beaney.md)
