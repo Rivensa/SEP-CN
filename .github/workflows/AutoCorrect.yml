@@ -25,6 +25,7 @@ jobs:
           run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md
           
         - name: Run autocorrect
+          if: failure()
           run: yarn autocorrect --fix **/*.md
        
         - name: Markdown add spaces 
