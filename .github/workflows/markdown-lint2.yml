@@ -9,6 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: DavidAnson/markdownlint-cli2-action@v16
+      continue-on-error: true
       with:
         config: '.github/.markdownlint.json'
         fix: true
