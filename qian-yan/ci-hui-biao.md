@@ -37,3 +37,7 @@ The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚
  ```
  find $(pwd) -type f -name "*.md" | xargs -I {} npx mdp -i {}
 ```
+
+```
+The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Theories to 坍缩理论. The Collapse  to 坍缩. The Consistent Histories Approach to 一致性历史方法. The Consistent Histories to 一致性历史. The Copenhagen Interpretation to 哥本哈根诠释. The Everettian to 埃弗雷特. The KS Theorem to KS 定理. The Kochen-Specker to 科亨-施佩克尔. The Many-Worlds Interpretation to 多世界诠释. The Modal Interpretations to 模态解释. The Relational to 关系性. The Retrocausality to 逆因果关系. The Decoherence to 退相干. The Quantum-Bayesian to 量子贝叶斯模型. The Pragmatist to 实用主义. The Quantum Approaches to 量子研究方法. The Einstein-Podolsky-Rosen to 爱因斯坦-波多尔斯基-罗森. The Argument  to 悖论. The Identity to 同一性. The Individuality to 个体性. The Rigor to 严谨性. The Computing to 计算. The entanglement to 纠缠. The Quantum Field Theory to 量子场论. The QFT to 量子场论.  The Gravity to 引力.
+```
