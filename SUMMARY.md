@@ -125,7 +125,7 @@
 * [回指 anaphora (Jeffrey C. King and Karen S. Lewis)](a/hui-zhi-anaphora-jeffrey-c.-king-and-karen-s.-lewis.md)
 * [无政府主义 anarchism (Andrew Fiala)](a/wu-zheng-fu-zhu-yi-anarchism-andrew-fiala.md)
 * [阿那克萨哥拉 Anaxagoras (Patricia Curd)](a/a-na-ke-sa-ge-la-anaxagoras-patricia-curd.md)
-* [阿那克萨库——见皮浪 Anaxarchus — see Pyrrho](a/a-na-ke-sa-ku-jian-pi-lang-anaxarchus-see-pyrrho.md)
+* [\*阿那克萨库——见皮浪 Anaxarchus — see Pyrrho](a/a-na-ke-sa-ku-jian-pi-lang-anaxarchus-see-pyrrho.md)
 * [约翰·安德森 Anderson, John (Creagh McLean Cole)](a/yue-han-an-de-sen-anderson-john-creagh-mclean-cole.md)
 * [\*罗得岛的安德罗尼柯——见亚里士多德的评注者 Andronicus of Rhodes — see Aristotle, commentators on](a/luo-de-dao-de-an-de-luo-ni-ke-jian-ya-li-shi-duo-de-de-ping-zhu-zhe-andronicus-of-rhodes-see-aristot.md)
 * [\*动物 animal](a/dong-wu-animal/README.md)
