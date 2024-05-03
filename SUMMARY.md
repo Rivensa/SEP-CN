@@ -78,7 +78,7 @@
 * [\*非洲哲学 African Philosophy](a/fei-zhou-zhe-xue-african-philosophy/README.md)
   * [非洲伦理学 ethics (Kwame Gyekye)](a/fei-zhou-zhe-xue-african-philosophy/fei-zhou-lun-li-xue-ethics-kwame-gyekye.md)
   * [非洲智者哲学 sage philosophy (Dismas Masolo)](a/fei-zhou-zhe-xue-african-philosophy/fei-zhou-xian-ren-zhe-xue-sage-philosophy-dismas-masolo.md)
-* [死后生命 afterlife (William Hasker and Charles Taliaferro)](a/si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
+* [来世 afterlife (William Hasker and Charles Taliaferro)](a/si-hou-sheng-ming-afterlife-william-hasker-and-charles-taliaferro.md)
 * [能动性 agency (Markus Schlosser)](a/neng-dong-xing-agency-markus-schlosser/README.md)
   * [共享能动性 shared (Abraham Sesshu Roth)](a/neng-dong-xing-agency-markus-schlosser/gong-xiang-neng-dong-xing-shared-abraham-sesshu-roth.md)
 * [\*科学哲学中的基于主体的模型——见科学哲学中的基于主体的模型 agent-based modeling in philosophy of science — see modeling in the](a/ke-xue-zhe-xue-zhong-de-ji-yu-neng-dong-xing-de-jian-mo-jian-ke-xue-zhe-xue-zhong-de-ji-yu-neng-dong.md)
