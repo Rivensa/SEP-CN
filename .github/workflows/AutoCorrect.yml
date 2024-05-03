@@ -21,14 +21,14 @@ jobs:
         - name: Install nodejs dependencies
           run: yarn add autocorrect-node
         
-        - name: Run autocorrect
+        - name: Run autocorrect lint
           run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md
           
-        - name: Run autocorrect
+        - name: Run autocorrect fix
           if: failure()
           run: yarn autocorrect --fix **/*.md
 
-        - name: Run autocorrect
+        - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v6
           with:
              commit-message: "Markdown add spaces"
