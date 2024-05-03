@@ -1,6 +1,5 @@
 # 阿拉伯和伊斯兰语言哲学与逻辑学 philosophy of language and logic (Tony Street and Nadja Germann)
 
-
 *首次发表于 2008 年 7 月 23 日，实质修订于 2013 年 11 月 11 日*
 
 阿拉伯逻辑是一种哲学传统，从 8 世纪中叶延续至今。多年来，西方对阿拉伯逻辑的研究往往集中在其早期历史，特别是阿拉伯逻辑的希腊前身以及基础哲学家阿里·法拉比（公元 950 年去世）、阿维森纳（公元 1037 年去世）和阿威罗伊（公元 1198 年去世）的著作上。然而，最近在这些传统研究领域之外也有显著的探索，我在本条目中特别努力提及后十二世纪逻辑学家对争议点的哲学解决所做的贡献。[1]
@@ -580,7 +579,6 @@ Tûsî立即开始阐述对命题的同意的理由，例如，因为它们是�
   
   See [Hodges' home page](http://wilfridhodges.co.uk/) for translations of Avicenna and other papers on Arabic Logic.
   
-
 ## Related Entries
 
 [al-Farabi](https://plato.stanford.edu/entries/al-farabi/) | [al-Ghazali](https://plato.stanford.edu/entries/al-ghazali/) | [al-Kindi](https://plato.stanford.edu/entries/al-kindi/) | al-razi | arabic-islamic-kalam | [Arabic and Islamic Philosophy, disciplines in: natural philosophy and natural science](https://plato.stanford.edu/entries/arabic-islamic-natural/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on Judaic thought](https://plato.stanford.edu/entries/arabic-islamic-judaic/) | [Arabic and Islamic Philosophy, historical and methodological topics in: influence of Arabic and Islamic Philosophy on the Latin West](https://plato.stanford.edu/entries/arabic-islamic-influence/) | [Aristotle, General Topics: categories](https://plato.stanford.edu/entries/aristotle-categories/) | [Aristotle, General Topics: logic](https://plato.stanford.edu/entries/aristotle-logic/) | categories: ancient | [categories: medieval theories of](https://plato.stanford.edu/entries/medieval-categories/) | [demonstration: medieval theories of](https://plato.stanford.edu/entries/demonstration-medieval/) | [essential vs. accidental properties](https://plato.stanford.edu/entries/essential-accidental/) | [Hegel, Georg Wilhelm Friedrich: dialectics](https://plato.stanford.edu/entries/hegel-dialectics/) | ibn-matta | [Ibn Bâjja [Avempace]](https://plato.stanford.edu/entries/ibn-bajja/) | [Ibn Gabirol, Solomon [Avicebron]](https://plato.stanford.edu/entries/ibn-gabirol/) | Ibn Khaldun | [Ibn Rushd [Averroes]](https://plato.stanford.edu/entries/ibn-rushd/) | [Ibn Sina [Avicenna]](https://plato.stanford.edu/entries/ibn-sina/) | Ibn Taymiyya | [logic: modal](https://plato.stanford.edu/entries/logic-modal/) | [syllogism: medieval theories of](https://plato.stanford.edu/entries/medieval-syllogism/)

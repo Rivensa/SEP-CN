@@ -49,4 +49,3 @@
   - 存在问题的条目
     - Robert Alyngton 不知道是谁———Alyngton, Robert (Alessandro Conti)
     - French Franciscan Peter Auriol  不知道是谁——Auriol [Aureol, Aureoli], Peter (Russell L. Friedman)
-

@@ -310,7 +310,6 @@ What follows lists the principal works and those minor works that have special p
   
   Aquinas’s masterpiece, which he began in Rome and worked on until near the end his life. The Leonine volumes for this work, from the nineteenth century, are no longer considered adequate, and will eventually be reedited. The best (and now mostly complete) full English translation is that of Alfred Freddoso, available [online](https://www3.nd.edu/~afreddos/summa-translation/TOC.htm).
   
-
 #### A2. Disputed Questions
 
 * *On Truth* (1256–59)
@@ -333,7 +332,6 @@ What follows lists the principal works and those minor works that have special p
   
   By tradition, masters at Paris participated in disputations during Advent and Lent at which audience members might propose any topic at all. Aquinas’s large and varied collection of *Quodlibetal Questions* is split between his two terms as master, with quodlibets 7–11 dating from his first term and quodlibets 1–6 and 12 dating from his second term. There is now an English translation by Nevitt and Davies (OUP 2019).
   
-
 #### A3. Brief Works (*Opuscula*)
 
 * *On the Principles of Nature* (*De principiis naturae*) (early 1250s)
@@ -362,7 +360,6 @@ What follows lists the principal works and those minor works that have special p
   
 * *On the Motion of the Heart* (*De motu cordis*) (1273?)
   
-
 #### A4. Philosophical Commentaries
 
 Aquinas left many of his commentaries unfinished. Published versions sometimes incorporate material added by disciples, intended to complete the work.

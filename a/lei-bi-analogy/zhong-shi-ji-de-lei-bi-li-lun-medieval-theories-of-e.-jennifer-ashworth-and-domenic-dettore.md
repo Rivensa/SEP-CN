@@ -130,18 +130,18 @@
 * Lonfat, Joël, 2004, “Archéologie de la notion d’analogie d’Aristote à Saint Thomas d’Aquin,” *Archives* *d’histoire* *doctrinale et littéraire du Moyen Âge* 71: 35–107.
 * McInerny, Ralph, 1986, “The Analogy of Names is a Logical Doctrine,” in *Being and Predication: Thomistic Interpretations*, Washington, D.C.: The Catholic University of America Press, pp. 279–86.
 * –––, 1992, “Aquinas and Analogy: Where Cajetan Went Wrong,” *Philosophical Topics*, 20(2): 103–124, [*Medieval Philosophy*, Sandra Edwards (ed.)]
-* –––, 1996, *Aquinas and Analogy*, Washington, D.C.: The Catholic University of America Press. 
+* –––, 1996, *Aquinas and Analogy*, Washington, D.C.: The Catholic University of America Press.
 * Montagnes, Bernard, 1963, *La doctrine de l’analogie de l’être d’après Saint Thomas d’Aquin*, Philosophes médiévaux 6, Louvain: Publications Universitaires; Paris: Béatrice-Nauwelaerts.
 * –––, 2004, *The Doctrine of the Analogy of Being According to Thomas Aquinas*, trans. E. M. Macierowski, P. Vandevelde, and Andrew Tallon, Marquette Studies in Philosophy 25, Milwaukee: Marquette University Press.
 * Mora-Márquez, Ana María, 2017, “Aristotle’s Fallacy of Equivocation and its 13th Century Reception,” in *Formal Approaches and Natural Language in Medieval Logic*, Laurent Cesalli, Alain de Libera, Frédéric Goubier (eds.), Barcelona/ Rome: Fédération Internationale des Instituts d’Études Mediévales: 217–38.
 * Novák, Lukáš, 2021, “Suárez’s Notion of Analogy,” *American Catholic Philosophical Quarterly* 95: 195–233.
 * Park, Seung-Chan, 1999, *Die Rezeption der mittelalterlichen Sprachphilosophie in der Theologie des Thomas von Aquin. Mit besondere Berücksichtigung der Analogie.* Studien und Texte zur Geistesgeschichte des Mittalters 65, Leiden, Boston, Köln: Brill.
-* Pini, Giorgio, 2002, *Scoto e L’analogia: Logica e metafisica nei commenti aristotelici*, Pisa: Scuola Normale Superiore. 
+* Pini, Giorgio, 2002, *Scoto e L’analogia: Logica e metafisica nei commenti aristotelici*, Pisa: Scuola Normale Superiore.
 * –––, 2021, “Before univocity: Duns Scotus’s rejection of analogy,” in *Interpreting Duns Scotus: critical essays*, Giorgio Pini (ed.), Cambridge: Cambridge University Press (*forthcoming*).
 * Reynolds, Philip L., 2003, “Analogy of Names in Bonaventure,” *Mediaeval Studies*, 65: 117–62.
 * Rosier, Irène, 1995, “*Res significata* et *modus significandi*: Les implications d’une distinction médiévale,” in *Sprachtheorien in Spätantike und Mittelalter*, Sten Ebbesen (ed.), Tübingen: Gunter Narr Verlag, pp. 135–68.
 * Smith, Garrett R., 2019, “The analogy of being in the Scotist tradition,” *American Catholic Philosophical Quarterly* 93: 633–73.
-* –––, 2021, “Analogy after Duns Scotus: the role of the *analogia entis* in the Scotist metaphysics at Barcelona, 1320–1330,” in *Interpreting Duns Scotus: critical essays*, Giorgio Pini (ed.), Cambridge: Cambridge University Press (*forthcoming*). 
+* –––, 2021, “Analogy after Duns Scotus: the role of the *analogia entis* in the Scotist metaphysics at Barcelona, 1320–1330,” in *Interpreting Duns Scotus: critical essays*, Giorgio Pini (ed.), Cambridge: Cambridge University Press (*forthcoming*).
 * Valente, Luisa, 2008, *Logique et théologie. Les écoles parisiennes entre 1150 et 1220*, Paris: Vrin.
 * Wolfson, H. A., 1938, “The Amphibolous Terms in Aristotle, Arabic Philosophy and Maimonides,” *Harvard Theological Review*, 31: 151–73; reprinted in idem, *Studies in the History of Philosophy and Religion*, I. Twersky and G. H. Williams (eds.), Cambridge, MA and London: Harvard University Press, 1973. Volume 1, pp. 455–77.
 
@@ -156,7 +156,7 @@
 ## Other Internet Resources
 
 * [Paul Vincent Spade’s Mediaeval Logic and Philosophy pages](http://pvspade.com/Logic/)
-* [Post-Reformation Digital Library](https://www.prdl.org/). The PRDL (prdl.org) is an excellent resource for late medieval and early modern texts both in philosophy and in theology. 
+* [Post-Reformation Digital Library](https://www.prdl.org/). The PRDL (prdl.org) is an excellent resource for late medieval and early modern texts both in philosophy and in theology.
 
 ## Related Entries
 

@@ -10,12 +10,12 @@
 
 本条目还包括以下与文本链接的补充文件：
 
-* [ 相关观点](https://plato.stanford.edu/entries/anomalous-monism/related-views.html)
+* [相关观点](https://plato.stanford.edu/entries/anomalous-monism/related-views.html)
   * [1. 斯宾诺莎的并行论](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#SpiPar)
-  * [ 2. 功能主义](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#Fun)
-  * [ 3. 纯粹唯物主义](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#BarMat)
-  * [ 4. 其他立场](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#OthPos)
-* [ 相关问题](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html)
+  * [2. 功能主义](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#Fun)
+  * [3. 纯粹唯物主义](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#BarMat)
+  * [4. 其他立场](https://plato.stanford.edu/entries/anomalous-monism/related-views.html#OthPos)
+* [相关问题](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html)
   * [1. 变异一元论和方案-内容二元论](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#AnoMonSchConDua)
   * [2. 变异一元论和语义外在主义](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#MenAnoSemExt)
   * [3. 一元论和自由](https://plato.stanford.edu/entries/anomalous-monism/related-issues.html#AnomMoniFree)

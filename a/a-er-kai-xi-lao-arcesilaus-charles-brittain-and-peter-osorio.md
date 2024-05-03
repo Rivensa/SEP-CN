@@ -1,4 +1,5 @@
 # 阿尔凯西劳 Arcesilaus (Charles Brittain and Peter Osorio)
+
 *首次发表于 2005 年 1 月 14 日；实质性修订于 2021 年 7 月 2 日*
 
 阿尔凯西劳（公元前 315/4 年-公元前 241/40 年）是柏拉图学院的成员，后来成为领导人。他发起了柏拉图学派的怀疑主义阶段（“学院怀疑主义”），并对斯多葛派进行了有影响力的批评，特别是对他们的认识论。
@@ -172,7 +173,6 @@ NRB 观点可以否认阿尔凯西劳个人致力于捍卫普遍悬置生命的�
 
 很明显，对阿尔凯西劳的任何解释都必须考虑到他作为一位善于运用苏格拉底方法无情地对抗他的哲学同代人的大师辩论家的声誉，以及他臭名昭著的主张不可理解性和普遍悬置。鉴于证据的矛盾性和稀缺性，现代评论家对于“辩证法”或各种“教义”解释阿尔凯西劳的成功以及后者提出的不同种类的怀疑主义的一致性并不一致，这或许并不令人意外。但进一步的进展并没有被排除，因为我们可以提供更复杂的哲学阐释这些怀疑主义形式，并通过引用后来学院中多样但更可靠的传统来测试它们的历史可信度。
 
-
 ## Bibliography
 
 ### Sources
@@ -195,7 +195,6 @@ NRB 观点可以否认阿尔凯西劳个人致力于捍卫普遍悬置生命的�
   
   [The evidence on Arcesilaus in Greek and Latin, with Italian translations.]
   
-
 #### Primary Sources
 
 * Cicero, *On Academic Scepticism*, Charles Brittain (trans.), Indianapolis, IN: Hackett, 2006.
@@ -280,7 +279,6 @@ NRB 观点可以否认阿尔凯西劳个人致力于捍卫普遍悬置生命的�
   
   [Loeb edition with English translation.]
   
-
 ### Arcesilaus’ life and philosophical activity
 
 * Beghini, Andrea, 2016, “Arcesilao e Numenio: Note a Fr. 25 Des Places (= Eus. Praep. Ev. XIV, 5, 12–13 Des Places),” *Studi Classici e Orientali* 62: 297–314.

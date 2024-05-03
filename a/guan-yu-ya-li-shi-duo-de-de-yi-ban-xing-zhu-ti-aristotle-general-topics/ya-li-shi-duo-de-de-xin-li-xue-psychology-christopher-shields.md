@@ -100,7 +100,7 @@
 
 > [补充：围绕亚里士多德对感知概念的争议](https://plato.stanford.edu/entries/aristotle-psychology/suppl3.html)
 >
-> [ 补充：想象力](https://plato.stanford.edu/entries/aristotle-psychology/suppl4.html)
+> [补充：想象力](https://plato.stanford.edu/entries/aristotle-psychology/suppl4.html)
 
 ## 7. 心智
 

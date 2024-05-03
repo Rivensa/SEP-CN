@@ -1,6 +1,5 @@
 # 人造物 artifact (Beth Preston)
 
-
 *首次发表于 2018 年 7 月 18 日星期三；实质性修订于 2022 年 10 月 3 日星期一*
 
 当代世界无处不在的是人造物。即使是我们最平凡的、基于生物的活动，如吃饭、睡觉和性行为，也依赖于与人造物的互动。此外，我们每天遇到的许多植物和动物都可以被归类为生物人造物（Sperber 2007）。但与语言不同——语言也无处不在于人类生活的方方面面——人造物本身并不是任何明确定义的哲学研究领域的主题。这在今天和西方哲学的整个历史上都是如此（Dipert 1993）。
@@ -419,7 +418,6 @@ Vogel 在环境伦理学上的立场与早期关于指称的争议有着有趣�
   
 * Wilson, Robert A. and Andy Clark, 2009, “How to Situate Cognition: Letting Nature Take Its Course”, in Philip Robbins and Murat Aydede (eds.), *The Cambridge Handbook of Situated Cognition*, Cambridge: Cambridge University Press, pp. 55–77. doi:10.1017/CBO9780511816826.004
   
-
 ## Academic Tools
 
 > | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=artifact). |

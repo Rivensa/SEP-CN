@@ -9,7 +9,6 @@
 |Abner of Burgos|布尔戈斯的阿布内尔|||
 |Judah Abrabanel|犹大·莱昂·阿布拉瓦内尔|||
 
-
 ````
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利.
  The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯.
