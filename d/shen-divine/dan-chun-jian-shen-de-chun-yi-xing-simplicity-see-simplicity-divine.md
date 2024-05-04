@@ -1,1 +1,1 @@
-# \*单纯——见神的纯一性 simplicity — see simplicity: divine
+# \*单纯——见简单性：神圣单纯性 simplicity — see simplicity: divine
