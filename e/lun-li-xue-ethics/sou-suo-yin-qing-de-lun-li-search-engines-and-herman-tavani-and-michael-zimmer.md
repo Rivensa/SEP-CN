@@ -1,4 +1,4 @@
-# 搜索引擎的伦理 search engines and (Herman Tavani and Michael Zimmer)
+# 搜索引擎伦理 search engines and (Herman Tavani and Michael Zimmer)
 
 *首次发表于 2012 年 6 月 22 日星期五；实质性修订于 2021 年 1 月 12 日星期二*
 
