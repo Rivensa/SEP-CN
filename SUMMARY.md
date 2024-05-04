@@ -783,7 +783,7 @@
 * [\*认知基础关系——见认知基础关系 epistemic basing relation — see basing relation, epistemic](e/ren-zhi-ji-chu-guan-xi-jian-ren-zhi-ji-chu-guan-xi-epistemic-basing-relation-see-basing-relation-epi.md)
 * [认知闭合 epistemic closure (Steven Luper)](e/ren-zhi-bi-he-epistemic-closure-steven-luper.md)
 * [认知悖论 epistemic paradoxes (Roy Sorensen)](e/ren-zhi-bei-lun-epistemic-paradoxes-roy-sorensen.md)
-* [认知自我怀疑——见认知自我怀疑 epistemic self-doubt — see self-doubt, epistemic](e/ren-zhi-zi-wo-huai-yi-jian-ren-zhi-zi-wo-huai-yi-epistemic-selfdoubt-see-selfdoubt-epistemic.md)
+* [认识论上的自我怀疑——见认识论上的自我怀疑 epistemic self-doubt — see self-doubt, epistemic](e/ren-zhi-zi-wo-huai-yi-jian-ren-zhi-zi-wo-huai-yi-epistemic-selfdoubt-see-selfdoubt-epistemic.md)
 * [关于认知规范的认知效用论证 epistemic utility arguments for epistemic norms (Richard Pettigrew)](e/guan-yu-ren-zhi-gui-fan-de-ren-zhi-xiao-yong-lun-zheng-epistemic-utility-arguments-for-epistemic-nor.md)
 * [认识论 epistemology (Matthias Steup and Ram Neta)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/README.md)
   * [贝叶斯认识论 Bayesian (Hanti Lin)](e/ren-shi-lun-epistemology-matthias-steup-and-ram-neta/bei-ye-si-ren-shi-lun-bayesian-hanti-lin.md)
