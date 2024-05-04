@@ -1,1 +1,1 @@
-# \*动态语义学——见语义学：动态语义学 dynamic semantics — see semantics: dynamic
+# *动态语义——见语义：动态语义 dynamic semantics — see semantics: dynamic
