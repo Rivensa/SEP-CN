@@ -1,4 +1,4 @@
-# 语义学概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)
+# 语义概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)
 
 *首次发表于2005年10月5日星期三；实质性修订于2022年1月14日星期五*
 
