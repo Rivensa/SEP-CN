@@ -620,7 +620,7 @@
 * [\*理查德·戴德金 Dedekind, Richard](d/li-cha-de-dai-de-jin-dedekind-richard/README.md)
   * [理查德·戴德金对数学基础的贡献 contributions to the foundations of mathematics (Erich Reck)](d/li-cha-de-dai-de-jin-dedekind-richard/li-cha-de-dai-de-jin-dui-shu-xue-ji-chu-de-gong-xian-contributions-to-the-foundations-of-mathematics.md)
 * [数学哲学中的演绎主义 deductivism in the philosophy of mathematics (Alexander Paseau and Fabian Pregel)](d/shu-xue-zhe-xue-zhong-de-yan-yi-zhu-yi-deductivism-in-the-philosophy-of-mathematics-alexander-paseau.md)
-* [语义学和语用学中的默认 defaults in semantics and pragmatics (Katarzyna M. Jaszczolt)](d/yu-yi-xue-he-yu-yong-xue-zhong-de-mo-ren-defaults-in-semantics-and-pragmatics-katarzyna-m.-jaszczolt.md)
+* [语义和语用中的默认 defaults in semantics and pragmatics (Katarzyna M. Jaszczolt)](d/yu-yi-xue-he-yu-yong-xue-zhong-de-mo-ren-defaults-in-semantics-and-pragmatics-katarzyna-m.-jaszczolt.md)
 * [定义 definitions (Anil Gupta and Stephen Mackereth)](d/ding-yi-definitions-anil-gupta-and-stephen-mackereth.md)
 * [吉尔·德勒兹 Deleuze, Gilles (Daniel Smith, John Protevi, and Daniela Voss)](d/ji-er-de-le-zi-deleuze-gilles-daniel-smith-john-protevi-and-daniela-voss.md)
 * [艾利亚·德尔·梅第戈 Delmedigo, Elijah (Michael Engel)](d/ai-li-ya-de-er-mei-di-ge-delmedigo-elijah-michael-engel.md)
