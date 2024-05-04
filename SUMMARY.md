@@ -1598,7 +1598,7 @@
   * [数学解释 explanation (Paolo Mancosu, Francesca Poggiolesi, and Christopher Pincock)](m/shu-xue-xiang-guan-mathematical/shu-xue-jie-shi-explanation-paolo-mancosu-francesca-poggiolesi-and-christopher-pincock.md)
   * [\*风格——见风格：数学的风格 style — see style: in mathematics](m/shu-xue-xiang-guan-mathematical/feng-ge-jian-feng-ge-shu-xue-de-feng-ge-style-see-style-in-mathematics.md)
 * [\*数学 mathematics](m/shu-xue-mathematics/README.md)
-  * [构造性数学 constructive (Douglas Bridges, Erik Palmgren, and Hajime Ishihara)](m/shu-xue-mathematics/gou-zao-xing-shu-xue-constructive-douglas-bridges-erik-palmgren-and-hajime-ishihara.md)
+  * [构造数学 constructive (Douglas Bridges, Erik Palmgren, and Hajime Ishihara)](m/shu-xue-mathematics/gou-zao-xing-shu-xue-constructive-douglas-bridges-erik-palmgren-and-hajime-ishihara.md)
   * [不一致数学 inconsistent (Chris Mortensen)](m/shu-xue-mathematics/bu-yi-zhi-shu-xue-inconsistent-chris-mortensen.md)
   * [数学中的非演绎方法 non-deductive methods in (Alan Baker)](m/shu-xue-mathematics/shu-xue-zhong-de-fei-yan-yi-fang-fa-nondeductive-methods-in-alan-baker.md)
 * [\*数学基础 mathematics, foundations of](m/shu-xue-ji-chu-mathematics-foundations-of/README.md)
