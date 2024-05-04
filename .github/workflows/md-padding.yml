@@ -19,7 +19,7 @@ jobs:
             node-version: '20'
           
         - name: Install Node.js dependencies and PV
-          run: npm i -g md-padding || apt update && apt install pv
+          run: npm i -g md-padding || sudo apt update -y && sudo apt install pv -y
         
         - name: Run md-padding lint
           run: find "$(pwd)" -type f -name "*.md" | pv -l | xargs -P 32 -I {} npx mdp -i {}
