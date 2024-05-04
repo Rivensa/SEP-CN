@@ -1,10 +1,10 @@
 # 威廉·大卫·罗斯 Ross, William David (Anthony Skelton)
 
-*首次发表于 2010 年 8 月 12 日；实质性修订于 2022 年 3 月 2 日*
+_首次发表于 2010 年 8 月 12 日；实质性修订于 2022 年 3 月 2 日_
 
 威廉·大卫·罗斯（1877 年-1971 年）对古代哲学和道德哲学做出了贡献。本条目的重点是他在后者领域的工作。罗斯的《正确与善》是 20 世纪道德哲学中最重要的贡献之一。在这本书和其他作品中，罗斯发展了一种新颖（多元论）的义务论伦理学理论，与康德主义和功利主义相媲美。这一理论最具创新性的要素是“原则上的义务”的概念。尽管罗斯在道德哲学方面的工作在上个世纪中后期受到批评家的质疑，但对规范和元伦理直觉主义的最新研究引发了对他的伦理观的新兴兴趣和热情。
 
----
+***
 
 ## 1. 罗斯的生平
 
@@ -36,7 +36,7 @@
 
 康德在许多方面过于简化了道德生活。罗斯认为最明显的简化案例是康德坚持无例外的道德原则（RG 18-19；FE 313、134、173；KT 24、95）。康德主张撒谎总是错误的（康德 1785 年，1797 年）。他说，撒谎不能作为一个普遍法则，人们可以撒谎来避免一些困难或伤害（无论是对自己还是对他人）。一旦在这些情况下撒谎成为一种法则，那么通过撒谎是不可能获益的，因为每个人都会明白人们在这些情况下撒谎。罗斯不同意。他认为，根据常识，某些情境下撒谎是可以接受的（RG 28），例如，当撒谎的（净）利益明显超过成本时，比如为了阻止朋友被潜在的凶手杀害而撒谎询问朋友的行踪（KT 31-32；关于康德对询问凶手案例的讨论，请参见康德 1797 年）。罗斯认为，这种简化部分是因为康德认为“个别行为的正确与否可以从其是否符合能够普遍化的规则推断出来”（FE 189；也参见 KT 25）。康德的抽象伦理推理方式忽略了确定我们应该做什么的相关因素（KT 33-34；FE 189）。
 
-Kant oversimplifies the moral life in another way. He says only the motive to do what is morally required because it is morally required possesses *moral* worth (Kant 1785). Ross contends other motives have moral worth, including ‘direct devotion to another person or other persons’ (KT 3). Returning favours to loved ones because you love them and not because you think you ought has moral value. It is closer to common sense to think moral life is not a ‘contest between one element which alone has worth [i.e., the motive to do what is right because it is right] and a multitude of others which have none; the truth rather is that it is a struggle between a multiplicity of desires having various degrees of worth’ (FE 206; also KT 3, 18, 93).
+Kant oversimplifies the moral life in another way. He says only the motive to do what is morally required because it is morally required possesses _moral_ worth (Kant 1785). Ross contends other motives have moral worth, including ‘direct devotion to another person or other persons’ (KT 3). Returning favours to loved ones because you love them and not because you think you ought has moral value. It is closer to common sense to think moral life is not a ‘contest between one element which alone has worth \[i.e., the motive to do what is right because it is right] and a multitude of others which have none; the truth rather is that it is a struggle between a multiplicity of desires having various degrees of worth’ (FE 206; also KT 3, 18, 93).
 
 The ideal utilitarians Hastings Rashdall and G. E. Moore maintain an individual acts rightly in so far as their act produces at least as much surplus general good as any other act they could have performed in their situation (Moore 1903, 1912; Rashdall 1907, 1913; for detailed discussion of ideal utilitarianism, see Skelton 2011, 2013b). Ross holds ideal utilitarians guilty of distorting or oversimplifying moral life in a number of ways.
 
@@ -62,7 +62,7 @@ First, the view assumes, he says, there is a ‘general character which makes ri
 
 罗斯的主要创新在于将这些义务描述为原则上的义务，而不是绝对的或无例外的义务。原则上的义务的概念可能不容易理解。罗斯自己承认，“原则上的”是一个不幸的短语，用来指定他所指的内容，有两个原因（RG 20；FE 84-85）。
 
-首先，尽管他说存在五个基本的表面义务，但他所指的并不是真正的义务（RG 20; FE 84–85）。表面义务并不陈述我们在特定情况下的实际义务或真正的责任 - 我们最终应该做的事情 - （RG 20）。相反，每个义务都基于一个独立而明确的基础，并指定了一种在道德上支持或反对行为或我们应该做的事情的考虑因素[1]。正如大卫·菲利普斯所说，“表面义务的特征是具有某种程度的义务性或重要性，因为它属于一种单一的道德重要种类”（2019 年，23 页）。例如，不履行承诺的行为对其是否正确产生了反对意见，而产生最多剩余利益的行为对其是否在道德上正确产生了支持意见。在决定我们应该全面或简单地做什么时，必须权衡和平衡这类考虑因素。
+首先，尽管他说存在五个基本的表面义务，但他所指的并不是真正的义务（RG 20; FE 84–85）。表面义务并不陈述我们在特定情况下的实际义务或真正的责任 - 我们最终应该做的事情 - （RG 20）。相反，每个义务都基于一个独立而明确的基础，并指定了一种在道德上支持或反对行为或我们应该做的事情的考虑因素\[1]。正如大卫·菲利普斯所说，“表面义务的特征是具有某种程度的义务性或重要性，因为它属于一种单一的道德重要种类”（2019 年，23 页）。例如，不履行承诺的行为对其是否正确产生了反对意见，而产生最多剩余利益的行为对其是否在道德上正确产生了支持意见。在决定我们应该全面或简单地做什么时，必须权衡和平衡这类考虑因素。
 
 其次，使用这个短语表明这些义务只是表面上看起来是义务，进一步的思考可能会揭示它们是虚幻的。这不是罗斯的观点：他的义务所指向的考虑因素是存在于情境中的客观事实（RG 20; FE 85）。如果你在过去冒犯了某人，那么你赔偿他们的伤害是你情境中的一个客观事实。
 
@@ -100,7 +100,7 @@ First, the view assumes, he says, there is a ‘general character which makes ri
 
 罗斯希望展示他的观点包含了对常识道德的最佳表达，或者如上所述，即“我们”所认为的。我们可能会想知道这是否属实。相对而言，大多数享乐主义功利主义者都是常识道德的改革者（例如，本丹姆 1789 年；密尔 1863 年，1843 年；西奇威克 1907 年）。这些哲学家可能不会因为他们的观点与常识道德相冲突而受到动摇（在道德基础层面上）。因为他们的目标部分是对其进行修订，并使道德思考更加系统化。罗斯对享乐主义不屑一顾，因为他认为显而易见的快乐并不是唯一的内在价值（RG 17, 99; FE 65）。他经常辩称理想功利主义，就像享乐主义功利主义一样，可以被摒弃，因为它与常识道德相悖（RG 17-19, 38; FE 67ff.）。然而，理想功利主义是否像享乐主义或古典功利主义一样具有改革性，远非明确。更好的方式是将理想功利主义者与罗斯之间的争论看作是哪种观点最好地代表了常识道德思维。当然，理想功利主义的主要支持者自认为他们的目标是提供对常识道德的最佳表达（例如，拉什达尔 1907 年；皮卡德-剑桥 1932b, 152; 约翰逊 1953 年）。
 
-如罗斯所述，这两者之间的主要争议围绕着理想功利主义者是否能够理解遵守诺言的义务问题。罗斯的观点是：“[]许下诺言不仅仅是采用一种巧妙的手段来促进整体福祉；它是将自己置于与某个特定人之间的新关系中，这种关系创造了一种特定的新义务，不可归结为促进社会整体福祉的义务”（RG 38）。（为了澄清罗斯此处的目标是理想功利主义，我们必须像罗斯在其他地方一样将 well-being 替换为 good（RG 34-36）。理想功利主义者可以同意罗斯所述的观点。承诺可能不是促进福祉的手段，但不是促进善的手段，这正是理想功利主义者想要表达的观点。）
+如罗斯所述，这两者之间的主要争议围绕着理想功利主义者是否能够理解遵守诺言的义务问题。罗斯的观点是：“\[]许下诺言不仅仅是采用一种巧妙的手段来促进整体福祉；它是将自己置于与某个特定人之间的新关系中，这种关系创造了一种特定的新义务，不可归结为促进社会整体福祉的义务”（RG 38）。（为了澄清罗斯此处的目标是理想功利主义，我们必须像罗斯在其他地方一样将 well-being 替换为 good（RG 34-36）。理想功利主义者可以同意罗斯所述的观点。承诺可能不是促进福祉的手段，但不是促进善的手段，这正是理想功利主义者想要表达的观点。）
 
 罗斯使用以下例子来说明他最初的论点（RG 34-35）。假设通过履行对爱德华的承诺，你为他创造了 100 个（剩余）好处单位，但是通过违背诺言并做其他事情，你为詹姆斯创造了 101 个（剩余）好处单位。理想功利主义的观点认为履行诺言是错误的：我们必须让詹姆斯受益。但这不是常识道德的判断。罗斯说，只有两者之间的价值差异更大才能证明违背诺言是合理的（RG 35；FE 77, 90）。
 
@@ -138,7 +138,7 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 
 菲利普斯认为有充分的理由放弃非伤害原则。罗斯认为非伤害原则在某种程度上限制了我们为促进普遍利益而可以做的事情。例如，为了防止两个人被杀，不允许杀死一个人。菲利普斯认为这使罗斯容易受到义务论的悖论的影响，该悖论认为认为某人受到伤害提供了反对折磨等行为的考虑，但不提供有利于采取行动防止他人受到伤害的考虑，例如被他人折磨。问题是：当通过伤害一个人可以防止另外两个人受到伤害时，伤害一个人怎么会是错误的？
 
-菲利普斯并没有完全放弃非伤害原则。相反，他试图通过将伤害行为视为更高层次的邪恶来捕捉我们对伤害的独特恶劣感，这涉及到一种不适当的态度（愿意或希望）对待基本层次的邪恶（伤害）（菲利普斯 2019 年，89 页）。想要伤害他人是邪恶的，因为伤害他人是不好的。如果我们将伤害行为视为更高层次的邪恶，菲利普斯认为，我们可以解释为什么伤害比未能造福更糟糕，因为“[非造福]并不一定涉及任何类似的不适当态度”（菲利普斯 2019 年，89 页），尽管菲利普斯的建议无法解释为何为了防止两个人受伤而伤害一个人是错误的。
+菲利普斯并没有完全放弃非伤害原则。相反，他试图通过将伤害行为视为更高层次的邪恶来捕捉我们对伤害的独特恶劣感，这涉及到一种不适当的态度（愿意或希望）对待基本层次的邪恶（伤害）（菲利普斯 2019 年，89 页）。想要伤害他人是邪恶的，因为伤害他人是不好的。如果我们将伤害行为视为更高层次的邪恶，菲利普斯认为，我们可以解释为什么伤害比未能造福更糟糕，因为“\[非造福]并不一定涉及任何类似的不适当态度”（菲利普斯 2019 年，89 页），尽管菲利普斯的建议无法解释为何为了防止两个人受伤而伤害一个人是错误的。
 
 菲利普斯的修正可能不会得到罗斯的推荐。放弃不伤害他人的要求意味着放弃常识道德的一个显著部分，涉及到一个基于人们拥有“明确的权利，或至少是主张，不成为他人取乐的手段；并且这些主张应该得到尊重，除非通过其他行动为社区带来的净快乐或好处非常可观”（FE 75）的观念，罗斯可能不会认同菲利普斯的建议，这可能迫使我们重新考虑将信守承诺、赔偿和感激之义务解释为与行为者相关的强调因素是否符合罗斯的观点。
 
@@ -172,12 +172,12 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 
 在随附中，罗斯提出四个内在的好（随附 27, 102, 134–141）：
 
-1. 美德（或者，‘善良的性情和行动，即从某种动机[欲望]中采取行动或者有行动的性情，其中最显著的动机至少有履行职责的欲望、创造好事物的欲望以及给予他人快乐或减轻痛苦的欲望’（RG 134; 也是 160）；
+1. 美德（或者，‘善良的性情和行动，即从某种动机\[欲望]中采取行动或者有行动的性情，其中最显著的动机至少有履行职责的欲望、创造好事物的欲望以及给予他人快乐或减轻痛苦的欲望’（RG 134; 也是 160）；
 2. 知识（或者对事实的理解）和（在较小程度上）正确的观念（或者关于事物本质的正确信念）；
 3. 正义（或者根据功德或美德分配的幸福）；以及
-4. 快乐[2]。
+4. 快乐\[2]。
 
-美德、知识和快乐是心灵的状态，而正义是心灵状态之间的关系（罗斯 140）[3]。
+美德、知识和快乐是心灵的状态，而正义是心灵状态之间的关系（罗斯 140）\[3]。
 
 罗斯认为这些价值并不具有相同的重要性。他对它们进行了排名。美德排名最高。它比其他所有的好处都要“优越”（罗斯 153）。他说，它比知识（理解为“纯粹的智力状态”（罗斯 151））、快乐和（似乎是）正义都要“无限”好（罗斯 150，152-154）。正如前面提到的，有三种有德行的欲望。这些欲望也有排名。履行职责的欲望比促进善行（例如，美德和知识）的欲望更有价值，而促进他人快乐的欲望则更有价值（罗斯 164-166）。
 
@@ -194,20 +194,20 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 3. 正义; 和
 4. （他人的）快乐。
 
-在 RG 中，罗斯坚持认为所有非工具性价值以相同的方式具有价值：它们的善良是内在的（RG 115, 118, 132; 也在 OJ 119 中; 他在 KT 11-12 中重新回到这个立场）。在 FE 中，他采取了不同的立场。美德和智力活动的价值是“内在于它们的品质”（FE 278）。这些项目是“值得钦佩的对象”或“值得钦佩的对象”（FE 282-283）。相比之下，正义和快乐的价值并不是内在于它们；相反，它们的价值基于我们正确地对它们产生兴趣或正确地找到（某种）满足感的关系（FE 278）。他人的快乐和正义是“值得满足的对象”或值得满足或感兴趣的事物（FE 275, 278, 282, 283, 288-89）。这两个类别中事物的价值来源的差异似乎源于这样一个事实：“虽然不言而喻的是，一个事物值得钦佩的唯一理由是它本身是好的，但一个事物值得我们的兴趣或喜欢的唯一理由是它本身是好的并不是不言而喻的”（FE 279）。[5]
+在 RG 中，罗斯坚持认为所有非工具性价值以相同的方式具有价值：它们的善良是内在的（RG 115, 118, 132; 也在 OJ 119 中; 他在 KT 11-12 中重新回到这个立场）。在 FE 中，他采取了不同的立场。美德和智力活动的价值是“内在于它们的品质”（FE 278）。这些项目是“值得钦佩的对象”或“值得钦佩的对象”（FE 282-283）。相比之下，正义和快乐的价值并不是内在于它们；相反，它们的价值基于我们正确地对它们产生兴趣或正确地找到（某种）满足感的关系（FE 278）。他人的快乐和正义是“值得满足的对象”或值得满足或感兴趣的事物（FE 275, 278, 282, 283, 288-89）。这两个类别中事物的价值来源的差异似乎源于这样一个事实：“虽然不言而喻的是，一个事物值得钦佩的唯一理由是它本身是好的，但一个事物值得我们的兴趣或喜欢的唯一理由是它本身是好的并不是不言而喻的”（FE 279）。\[5]
 
 这种对非工具性价值类型的区分使罗斯能够解释他认为与快乐有关的两件事：
 
 1. 只有无辜的快乐是好的，也就是说，快乐不是不应得的，也不是在他人的不幸、欲望或残忍中获得的（RG 136–137, 151; FE 271–272）。
-2. 只有他人的无辜快乐是好的，这也是为什么我们认为我们有责任促进他人的快乐而不是我们自己的（即使是无辜的）快乐（FE 74–75, 272, 276, 279, 283, 322）[6]。
+2. 只有他人的无辜快乐是好的，这也是为什么我们认为我们有责任促进他人的快乐而不是我们自己的（即使是无辜的）快乐（FE 74–75, 272, 276, 279, 283, 322）\[6]。
 
 只有无辜的快乐才是有价值的，因为它是值得满足的对象。对于罗斯来说，满足感不应该来自于不应得的快乐、残忍或欲望的快乐。只有他人的快乐才是有价值的，因为只有这样才能让人满足。罗斯认为，一个人不应该对自己的快乐感到满足。
 
-在 4.1 节中，我们讨论了罗斯的观点，即我们没有义务去促进自己的快乐或防止自己的痛苦。这里我们可以看到一个原因：从自己的角度来看，自己的痛苦并不是坏的，自己的快乐也不是好的。它们不是（不满）满足的合适对象。因此，我们没有义务去防止自己的痛苦或促进自己的快乐。[7]
+在 4.1 节中，我们讨论了罗斯的观点，即我们没有义务去促进自己的快乐或防止自己的痛苦。这里我们可以看到一个原因：从自己的角度来看，自己的痛苦并不是坏的，自己的快乐也不是好的。它们不是（不满）满足的合适对象。因此，我们没有义务去防止自己的痛苦或促进自己的快乐。\[7]
 
 在《RG》中，罗斯思考了我们是否有义务去促进自己的快乐，指出“虽然我们明确承认有义务为他人创造快乐，但我们是否有义务为自己创造快乐则不那么清楚”（《RG》24；还有 25-26，151）。尽管他缺乏信心，但他在《RG》中肯定了在仁慈的义务下促进自己的幸福（《RG》25-26）。然而，正如我们所见，即使在《RG》中，我们也可以看到一些观点，即我们没有义务去促进自己的快乐/防止自己的痛苦，包括（如前所述）他如何解释非伤害的义务（例如，在《RG》21、22、28 处）以及他认为渴望给自己带来快乐或减轻自己痛苦并不是美德（《RG》134、168；参见罗斯 1928-29，268-69）。
 
-罗斯经常对正义的价值和地位不清楚。他经常说只有三种内在的好（FE 19, 180, 262, 278; KT 11–12; OJ 119, 120, 121）。在早期的著作中，他声称正义是一种责任而不是价值（OJ 123）。在 RG 中，他不清楚，有时声称正义是一种好（RG 27），有时声称它是一种原则性义务（RG 35）。然而，在 FE 中，他相对清楚地认为正义是好的，就像他认为他人的快乐是好的一样，因此可以合理地得出结论，他认为正义是一种非工具性的好（FE 288–289）。他还暗示过一次，遵守承诺的行为是好的，就像正义和快乐是好的一样（FE 289）。但他更常常否认遵守承诺是好的（FE 141, 142），暗示并非所有值得满足的对象都是有价值的。[8]
+罗斯经常对正义的价值和地位不清楚。他经常说只有三种内在的好（FE 19, 180, 262, 278; KT 11–12; OJ 119, 120, 121）。在早期的著作中，他声称正义是一种责任而不是价值（OJ 123）。在 RG 中，他不清楚，有时声称正义是一种好（RG 27），有时声称它是一种原则性义务（RG 35）。然而，在 FE 中，他相对清楚地认为正义是好的，就像他认为他人的快乐是好的一样，因此可以合理地得出结论，他认为正义是一种非工具性的好（FE 288–289）。他还暗示过一次，遵守承诺的行为是好的，就像正义和快乐是好的一样（FE 289）。但他更常常否认遵守承诺是好的（FE 141, 142），暗示并非所有值得满足的对象都是有价值的。\[8]
 
 有多种方式可以对罗斯的价值理论进行批评。就像对罗斯的义务清单的情况一样，我们可以问他的清单是否应该扩展或缩减。但在讨论这个问题之前，值得检查一下罗斯价值理论的一些独特和引人注目的特点。
 
@@ -243,9 +243,9 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 
 对于这个回答的一个担忧是，知识不仅仅是一种心态。它涉及到与其基础相关的关系。在《RG》中，罗斯坚持认为知识具有内在价值。他有时在《FE》中暗示了这一点。然而，他的考虑似乎是，有价值的不是知识，而是智力和审美活动（FE 19, 27, 73, 180, 262, 266, 267, 270, 278, 282–283, 284, 290, 296；也见《OJ》119, 120, 121；《KT》11–12）。而这些，我们可能认为，是心态。
 
-这个回答可能会给罗斯带来麻烦。如果他说知识本身并没有内在价值，但智力活动有，那么他就不能说当思维活动产生知识时更好了（FE 270; Shaver 2011, 134n34）。也许罗斯将不得不说导致知识的智力活动更好，不是因为知识本身好，而是因为它的工具属性，例如，知识可能使我们在促进正义、美德或快乐方面更有效。更进一步地，智力活动本身是内在好的这一说法解释了为什么某些知识实例比其他知识更重要。罗斯说，“这种[智力]活动的不同实例与其按照这些原则进行的程度成正比好”（FE 270; also RG 151–152），即逻辑发现的原则。因为，比如更哲学或更一般的知识需要更大更复杂的“逻辑发现的原则”（FE 270）的运用，所以它比了解电影明星的性生活更好。智力活动的价值解释了知识的价值。
+这个回答可能会给罗斯带来麻烦。如果他说知识本身并没有内在价值，但智力活动有，那么他就不能说当思维活动产生知识时更好了（FE 270; Shaver 2011, 134n34）。也许罗斯将不得不说导致知识的智力活动更好，不是因为知识本身好，而是因为它的工具属性，例如，知识可能使我们在促进正义、美德或快乐方面更有效。更进一步地，智力活动本身是内在好的这一说法解释了为什么某些知识实例比其他知识更重要。罗斯说，“这种\[智力]活动的不同实例与其按照这些原则进行的程度成正比好”（FE 270; also RG 151–152），即逻辑发现的原则。因为，比如更哲学或更一般的知识需要更大更复杂的“逻辑发现的原则”（FE 270）的运用，所以它比了解电影明星的性生活更好。智力活动的价值解释了知识的价值。
 
-但是公正是一种内在价值的事实呢？它不是一种意识状态；它是意识状态之间的关系（RG 140）。如果罗斯愿意接受公正作为一种善，为什么不接受（履行）诺言和其他一些事情也是善呢？罗斯可能坚持认为公正与履行诺言、赔偿和感激之间有所不同，因为它是由意识状态组成的，这就是为什么它而不是其他事物是善的原因。然而，也许更好的回答是停止将公正视为一种价值。他反复主张只有心灵状态才有价值（OJ 118；RG 122, 106–107, 140；FE 259, 270；KT 21），而公正不是一种心灵状态。他可以坚持只有心灵状态才有价值，并阻止理想功利主义的回应。罗斯可以将公正描述为一种义务要求而不是一种价值（FE 319），而且他不将其列为一种价值也不会有太大损失。此外，将公正（在他的意义和其他人的意义上）解释为一种义务可能更容易被接受，并更能捕捉到我们对公正的思考[9]。许多人认为公正限制了我们为促进普遍利益而可以做的事情，罗斯有时也同意（FE 71）。
+但是公正是一种内在价值的事实呢？它不是一种意识状态；它是意识状态之间的关系（RG 140）。如果罗斯愿意接受公正作为一种善，为什么不接受（履行）诺言和其他一些事情也是善呢？罗斯可能坚持认为公正与履行诺言、赔偿和感激之间有所不同，因为它是由意识状态组成的，这就是为什么它而不是其他事物是善的原因。然而，也许更好的回答是停止将公正视为一种价值。他反复主张只有心灵状态才有价值（OJ 118；RG 122, 106–107, 140；FE 259, 270；KT 21），而公正不是一种心灵状态。他可以坚持只有心灵状态才有价值，并阻止理想功利主义的回应。罗斯可以将公正描述为一种义务要求而不是一种价值（FE 319），而且他不将其列为一种价值也不会有太大损失。此外，将公正（在他的意义和其他人的意义上）解释为一种义务可能更容易被接受，并更能捕捉到我们对公正的思考\[9]。许多人认为公正限制了我们为促进普遍利益而可以做的事情，罗斯有时也同意（FE 71）。
 
 当然，批评者可以主张没有什么理由认为只有心灵状态具有价值。罗斯对这个观点没有进行多少辩护。实际上，一旦他面对这样一个观点，即成就似乎是我们所重视的事物之一，他可能被迫重新考虑只有意识状态具有价值的观点，其中包括“对世界应该如何以及实现这一目标”的目标（Hurka 2014, 209）。成就涉及与世界互动和影响，包括做一些像写书、抚养孩子成年和建立强健体魄之类的事情。
 
@@ -273,7 +273,7 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 
 罗斯在这里并不完全正确，因为我们必须对我们所能选择的竞争行为进行相当程度的比较，以确定它们在表面义务的正确性与错误性之间的平衡。这个想法是我们的表面义务原则为我们所能选择的每个行为的道德考虑或直接相关因素提供了依据。我们必须针对每个我们所能选择的行为判断表面义务的正确性超过错误性的程度，然后将行为与其他行为进行比较，以确定哪个行为在表面义务的正确性超过错误性的平衡方面具有最大的优势。在表面义务的正确性超过错误性的平衡最大的行为是你在考虑所有事情后应该做的，并且因此是你的实际义务。一个人的实际义务是那个对其负有更重责任的行为，或者是那个对其所能选择的行为中负重的义务（FE 85；RG 41-42）。
 
-不出所料，罗斯说：“在特定情况下，我们对我们特定职责的感知，是在我们对行为的全面思考之前和之后形成的，虽然这种感知是非常容易出错的，但它是我们对我们[实际]职责的唯一指南”（RG 42）。因此，我们从不知道在某种情况下我们实际应该做什么。相反，我们对在特定情况下我们应该做什么有一个“经过深思熟虑的意见”或“可能的意见”（RG 19, 30, 31, 33; FE 189, 190, 191; OJ 122, 123, 127）。最终，关于该做什么的决定，用亚里士多德的话来说，“取决于感知”（RG 42; OJ 127; Aristotle1109b23, 1126b4）。需要注意的是，所有的责任都有一个价值，无论是积极的还是消极的，即使一个责任被更重要的责任所超越，这个价值仍然存在。因此，如果一个人违背了承诺，他应该向他所承诺的人提供补偿（RG 28）。
+不出所料，罗斯说：“在特定情况下，我们对我们特定职责的感知，是在我们对行为的全面思考之前和之后形成的，虽然这种感知是非常容易出错的，但它是我们对我们\[实际]职责的唯一指南”（RG 42）。因此，我们从不知道在某种情况下我们实际应该做什么。相反，我们对在特定情况下我们应该做什么有一个“经过深思熟虑的意见”或“可能的意见”（RG 19, 30, 31, 33; FE 189, 190, 191; OJ 122, 123, 127）。最终，关于该做什么的决定，用亚里士多德的话来说，“取决于感知”（RG 42; OJ 127; Aristotle1109b23, 1126b4）。需要注意的是，所有的责任都有一个价值，无论是积极的还是消极的，即使一个责任被更重要的责任所超越，这个价值仍然存在。因此，如果一个人违背了承诺，他应该向他所承诺的人提供补偿（RG 28）。
 
 澄清一点。罗斯说，我们在特定情况下的实际职责或义务是我们所面临的行为中，在初步权利与初步错误之间具有最大平衡的行为。当然，有可能我们所面临的所有行为在平衡上都具有更多的初步错误而不是初步权利。在这种情况下，可以推测，罗斯会说我们的实际义务是在平衡上具有最少的初步错误而不是初步权利的行为。
 
@@ -317,7 +317,7 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 
 为了巩固这个观点，他在数学和逻辑知识与伦理知识之间进行类比（RG 29、30、32；KT 42、85；FE 320）。他是伦理学（以及其他领域）中合成先验真理的粉丝（FE 35–36；也是 320）。由于如果道德术语可归约为自然术语，可能可以通过（纯粹的）经验获得伦理知识，这为罗斯提供了一个动机，以显示不可能进行这种归约。简而言之，他希望保护一种道德方法论，重视对“我们”思考的东西的诉求，对“最好和最开明的人”的思想（FE 172），专家之间的共识（OJ 119–120；FE 191）和各种类型的思想实验。事实上，有人提出通过使用这些工具，可以证明尽管“正确”与自然属性并非同义，但它仍然指的是某种自然属性，例如，具有最大的公正、仁慈、忠诚等优势的东西，而不是不公正、不害和不忠诚等（Shaver 2007, 289）。（如果“公正”等概念无法完全自然化，这可能是有争议的。如果完全自然化不是一个选择，那么罗斯可能被迫支持一种不太可取的形而上学。）
 
-罗斯认为，道德的基本主张表达了 “不言而喻的必然事实”（FE 320；另见 262）。这些客观事实是一种特殊的事实吗？标准的说法是，罗斯认为道德事实是非自然事实或非自然属性（Stratton-Lake 2002a, xxi; Frankena 1963, 86-87; 1973, 103）。但并不清楚他是否真的持有这种观点。他对道德事实的性质谈得很少，只是把它们与数学和逻辑事实作了比较（也许是无益的）。他似乎没有从道德术语的自然主义定义的失败中推断出这些术语指的是不同的属性。他关注的几乎完全是 “正确 ”和（内在）“善 ”的定义。他关注的是 “我们心目中 ”的东西，而不是属性（FE 13, 42），但有问题的是，他经常把 “善 ”说成是一种 “品质”、“特征 ”或 “属性”（RG 82, 87, 88, 110, 122; FE 278, 279）。他写道：“善或价值与诸如黄的属性之间的区别在于，后者是其拥有者的*差异*......，而前者则是其*属性*（即随之而来的属性）”（RG 121；斜体为原文所加）。
+罗斯认为，道德的基本主张表达了 “不言而喻的必然事实”（FE 320；另见 262）。这些客观事实是一种特殊的事实吗？标准的说法是，罗斯认为道德事实是非自然事实或非自然属性（Stratton-Lake 2002a, xxi; Frankena 1963, 86-87; 1973, 103）。但并不清楚他是否真的持有这种观点。他对道德事实的性质谈得很少，只是把它们与数学和逻辑事实作了比较（也许是无益的）。他似乎没有从道德术语的自然主义定义的失败中推断出这些术语指的是不同的属性。他关注的几乎完全是 “正确 ”和（内在）“善 ”的定义。他关注的是 “我们心目中 ”的东西，而不是属性（FE 13, 42），但有问题的是，他经常把 “善 ”说成是一种 “品质”、“特征 ”或 “属性”（RG 82, 87, 88, 110, 122; FE 278, 279）。他写道：“善或价值与诸如黄的属性之间的区别在于，后者是其拥有者的_差异_......，而前者则是其_属性_（即随之而来的属性）”（RG 121；斜体为原文所加）。
 
 不清楚罗斯是否有意将这一观点作为他反对自然主义或其他分析的论据的推论。他没有为此提供明确的论证，这表明他很可能并不打算作出这一推论（参见 Stratton-Lake 2002a），而且他也没有在任何地方排除道德属性是自然属性的可能性。无论如何，他并不需要做出这样的推论来达到他反驳他所讨论的各种定义的目的。他所使用的论证足以维护（在他看来）合理的道德语义、道德分歧以及他的道德方法论。这应该会让这一观点的拥护者感到高兴，不过，如果不把道德真理理解为与道德事实的对应关系，那么罗斯仍有任务去理解道德真理的本质。
 
@@ -335,128 +335,128 @@ Pickard-Cambridge 订阅的理想功利主义版本似乎暗示 B 没有理由�
 
 ### Primary Sources
 
-| [OJ] | “The Basis of Objective Judgements in Ethics,” *International Journal of Ethics*, 37(2) (1927): 113–127. |
-| --- | --- |
-| [RG] | *The Right and the Good*, Oxford: Oxford University Press, 1930. |
-| [FE] | *Foundations of Ethics*, Oxford: Oxford University Press, 1939. |
-| [KT] | *Kant’s Ethical Theory: A Commentary on the* Grundlegung zur Metaphysik der Sitten, Oxford: Oxford University Press, 1954. |
-| [AT] | *Aristotle*, sixth edition, London: Routledge, 1995. |
+| \[OJ] | “The Basis of Objective Judgements in Ethics,” _International Journal of Ethics_, 37(2) (1927): 113–127.                   |
+| ----- | -------------------------------------------------------------------------------------------------------------------------- |
+| \[RG] | _The Right and the Good_, Oxford: Oxford University Press, 1930.                                                           |
+| \[FE] | _Foundations of Ethics_, Oxford: Oxford University Press, 1939.                                                            |
+| \[KT] | _Kant’s Ethical Theory: A Commentary on the_ Grundlegung zur Metaphysik der Sitten, Oxford: Oxford University Press, 1954. |
+| \[AT] | _Aristotle_, sixth edition, London: Routledge, 1995.                                                                       |
 
 #### Other Papers (in ethics) by Ross
 
-* Ross, W. D., 1928, “Is There a Moral End?,” *Proceedings of the Aristotelian Society: Supplementary Volumes*, 8: 91–98.
-* Ross, W. D., 1928–29, “The Nature of Morally Good Action,” *Proceedings of the Aristotelian Society*, 29: 251–274.
-* Ross, W. D., 1929, “The Ethics of Punishment,” *Journal of Philosophical Studies*, 4(14): 205–211.
-* Ross, W. D., 1931, “The Coherence Theory of Goodness,” *Proceedings of the Aristotelian Society: Supplementary Volumes*, 10: 61–70.
+* Ross, W. D., 1928, “Is There a Moral End?,” _Proceedings of the Aristotelian Society: Supplementary Volumes_, 8: 91–98.
+* Ross, W. D., 1928–29, “The Nature of Morally Good Action,” _Proceedings of the Aristotelian Society_, 29: 251–274.
+* Ross, W. D., 1929, “The Ethics of Punishment,” _Journal of Philosophical Studies_, 4(14): 205–211.
+* Ross, W. D., 1931, “The Coherence Theory of Goodness,” _Proceedings of the Aristotelian Society: Supplementary Volumes_, 10: 61–70.
 
 ### Secondary Sources
 
-* Aristotle, *Nicomachean Ethics*, in *The Basic Works of Aristotle*, R. McKeon (ed.), New York: Random House, 1941.
-* Audi, Robert, 1996, “Intuitionism, Pluralism, and the Foundations of Ethics,” in W. Sinnott-Armstrong and M. Timmons (eds.), *Moral Knowledge?: New Readings in Moral Epistemology*, Oxford: Oxford University Press, pp. 101–136.
-* –––, 2004, *The Good in the Right: A Theory of Intuition and Intrinsic Value*, Princeton: Princeton University Press.
-* Beauchamp, Tom L. and James F. Childress, 2008, *Principles of Biomedical Ethics*, sixth edition, Oxford: Oxford University Press.
-* Bentham, Jeremy, 1789, *An Introduction to the Principles of Morals and Legislation*, J. H. Burns and H. L. A. Hart (eds.), Oxford: Oxford University Press, 1996.
-* Bradley, Ben, 2009, *Well-being and Death*, Oxford: Oxford University Press.
-* Brennan, Susan, 1989, “Ross, Promises, and the Intrinsic Value of Acts,” *Lyceum*, 1(2): 43–56.
-* Broad, C. D., 1940, Review of *Foundations of Ethics* by W. D. Ross, *Mind*, 49(194): 228–239.
-* –––, “Self and Others,” in David Cheney (ed.), *Broad’s Critical Essays in Moral Philosophy*, New York: Routledge, pp. 262–282.
-* Butler, Joseph, 1736, *A Dissertation of the Nature of Virtue*, in David McNaughton (ed.), *Joseph Butler*: *Fifteen Sermons and Other Writings on Ethics*, Oxford: Oxford University Press, 2017.
-* Clark, G. N., 1971, “Sir David Ross: 1877–1971,” *Proceedings of the British Academy*, 57: 525–543.
-* Cowan, Robert, 2017, “Rossian Conceptual Intuitionism,” *Ethics*, 127(4): 821–851.
-* Crisp, Roger, 2002, “Sidgwick and the Boundaries of Intuitionism,” in Philip Stratton-Lake (ed.), *Ethical Intuitionism: Re-evaluations*, Oxford: Oxford University Press, pp. 56–75.
-* –––, 2006, *Reasons and the Good*, Oxford: Oxford University Press.
-* Dancy, Jonathan, 1991, “An Ethic of Prima Facie Duties,” in Peter Singer (ed.), *A Companion to Ethics*, Oxford: Blackwell, pp. 219–229.
-* –––, 2004, *Ethics Without Principles*, Oxford: Oxford University Press.
-* de Lazari-Radek, Katarzyna and Peter Singer, 2014, *The Point of View of the Universe: Sidgwick and Contemporary Ethics*, Oxford: Oxford University Press.
-* Ewing, A. C., 1957, “Recent Developments in British Ethical Thought,” in C. A. Mace (ed.), *British Moral Philosophy in the Mid-Century*, London: George Allen & Unwin, pp. 63–95.
-* –––, 1959, *Second Thoughts in Moral Philosophy*, London: Macmillan.
-* Feldman, Fred, 2004, *Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism*, Oxford: Oxford University Press.
-* Frankena, William, 1963, *Ethics*, Englewood Cliffs, New Jersey: Prentice-Hall Press.
-* –––, 1973, *Ethics*, second edition, Englewood Cliffs, New Jersey: Prentice-Hall Press.
-* Gaut, Berys, 2002, “Justifying Moral Pluralism,” in Philip Stratton-Lake (ed.), *Ethical Intuitionism: Re-evaluations*, Oxford: Oxford University Press, pp. 137–160.
-* Greene, Joshua, 2008, “The Secret Joke of Kant’s Soul,” in W. Sinnott-Armstrong (ed.), *Moral Psychology, Volume 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development*, Cambridge: MIT Press, pp. 35–79.
-* Griffin, James, 1996, *Value Judgement: Improving Our Ethical Beliefs*, Oxford: Oxford University Press.
-* Hare, R. M., 1971, “The Argument from Received Opinion,” in R. M. Hare (ed.), *Essays on Philosophical Method*, London: Macmillan, pp. 117–135.
-* Hewitt, Sharon, 2010, “What Do Our Intuitions About the Experience Machine Really Tell Us About Hedonism?,” *Philosophical Studies*, 151(3): 331–49.
-* Hooker, Brad, 2000, *Ideal Code, Real World: A Rule-consequentialist Theory of Morality*, Oxford: Clarendon Press.
-* Hurka, Thomas, 2004, “Normative Ethics: Back to the Future,” in Brian Leiter (ed.), *The Future for Philosophy*, New York: Oxford University Press, pp. 246–264.
-* –––, 2003, *Virtue, Vice, and Value*, Oxford: Oxford University Press.
-* –––, 2014, *British Ethical Theorists From Sidgwick to Ewing*, Oxford: Oxford University Press.
-* Irwin, Terence, 2009, *The Development of Ethics: A Historical and Critical Study* (Volume III: *From Kant to Rawls*, Ch. 87), Oxford: Oxford University Press.
-* Jack, H. H., 1971, “Utilitarianism and Ross’s Theory of *Prima Facie* Duties,” *Dialogue*, 10(3): 437–457.
-* Johnson, Oliver A., 1953, “Rightness, Moral Obligation, and Goodness,” *Journal of Philosophy*, 50(20): 597–608.
-* –––, 1959, *Rightness and Goodness*, The Hague: Martinus Nijhoff.
-* Joseph, H. W. B., 1931, *Some Problems in Ethics*, Oxford: Clarendon Press.
-* Kant, Immanuel, 1785, *Groundwork for the Metaphysics of Morals*, in Thomas Hill, Jr. and Arnulf Zweig (eds.), *Groundwork for the Metaphysics of Morals*, Oxford: Oxford University Press, 2002.
-* –––, 1797, “On a Supposed Right to Lie from Philanthropy” in Mary Gregor (ed.), *The Cambridge Edition of the Works of Immanuel Kant*: *Practical Philosophy*, Cambridge: Cambridge University Press, 1996.
-* Kaspar, David, 2016, “Ross’s Place in the History of Analytic Philosophy,” *British Journal for the History of Philosophy*, 24(4): 657–674.
-* MacAdam, Jim (ed.), 2002, *Moral Writings: H. A. Prichard*, Oxford: Oxford University Press.
-* McNaughton, David, 1988, *Moral Vision: An Introduction to Ethics*, Oxford: Blackwell.
-* –––, 1996, “An Unconnected Heap of Duties?,” *Philosophical Quarterly*, 46(185): 433–447.
-* Mendola, Joseph, 2006, *Goodness and Justice: A Consequentialist Moral Theory*, Cambridge: Cambridge University Press.
-* Mill, John Stuart, 1843, *A System of Logic Ratiocinative and Inductive*, in John Robson (ed.), *Collected Works of John Stuart Mill*, vols. VII & VIII, Toronto: University of Toronto Press, 1974.
-* –––, 1863, *Utilitarianism*, in Roger Crisp (ed.), *Mill’s Utilitarianism*, Oxford: Oxford University Press, 1998.
-* Moore, G. E., 1903, *Principia Ethica*, Cambridge: Cambridge University Press.
-* –––, 1912, *Ethics*, Cambridge: Cambridge University Press.
-* Moriarty, Jeffrey, 2006, “Ross on Desert and Punishment,” *Pacific Philosophical Quarterly*, 87(2): 231–244.
-* Olsen, Kristian, 2014, “Ross and the Particularism/Generalism Divide,” *Canadian Journal of Philosophy*, 44(1): 56–75.
-* –––, 2015, *Variations on Some Rossian Themes*, Doctoral dissertation, University of Massachusetts/Amherst, Amherst. [[Olsen 2015 available online](https://scholarworks.umass.edu/dissertations_2/426)]
-* Orsi, Francesco, 2012, “David Ross, Ideal Utilitarianism, and the Intrinsic Value of Acts,” *Journal for the History of Analytical Philosophy*, 1(2): 1–21. [[Orsi 2012 available online](https://jhaponline.org/jhap/article/view/3)]
-* Parfit, Derek, 2011, *On What Matters*, two volumes, Oxford: Oxford University Press.
-* Phillips, David, 2019, *Rossian Ethics: W. D. Ross and Contemporary Moral Theory*, Oxford: Oxford University Press.
-* Pickard-Cambridge, W. A., 1932a, “Two Problems About Duty (I),” *Mind*, 41(161): 72–96.
-* –––, 1932b, “Two Problems About Duty (II),” *Mind*, 41(162): 145–172.
-* –––, 1932c, “Two Problems About Duty (III),” *Mind*, 41(163): 311–340.
-* Price, H. H., 1931, Critical Notice of W. D. Ross, *The Right and the Good*, *Mind*, 40(159): 341–354.
-* Price, Richard, 1787, *A Review of the Principal Questions in Morals*, D. D. Raphael (ed.), *Richard Price’s A Review of the Principal Questions in Morals*, Oxford: Oxford University Press, 1948.
-* Prichard, H. A., 1912, “Does Moral Philosophy Rest on a Mistake?,” *Mind*, 21(81): 21–37.
+* Aristotle, _Nicomachean Ethics_, in _The Basic Works of Aristotle_, R. McKeon (ed.), New York: Random House, 1941.
+* Audi, Robert, 1996, “Intuitionism, Pluralism, and the Foundations of Ethics,” in W. Sinnott-Armstrong and M. Timmons (eds.), _Moral Knowledge?: New Readings in Moral Epistemology_, Oxford: Oxford University Press, pp. 101–136.
+* –––, 2004, _The Good in the Right: A Theory of Intuition and Intrinsic Value_, Princeton: Princeton University Press.
+* Beauchamp, Tom L. and James F. Childress, 2008, _Principles of Biomedical Ethics_, sixth edition, Oxford: Oxford University Press.
+* Bentham, Jeremy, 1789, _An Introduction to the Principles of Morals and Legislation_, J. H. Burns and H. L. A. Hart (eds.), Oxford: Oxford University Press, 1996.
+* Bradley, Ben, 2009, _Well-being and Death_, Oxford: Oxford University Press.
+* Brennan, Susan, 1989, “Ross, Promises, and the Intrinsic Value of Acts,” _Lyceum_, 1(2): 43–56.
+* Broad, C. D., 1940, Review of _Foundations of Ethics_ by W. D. Ross, _Mind_, 49(194): 228–239.
+* –––, “Self and Others,” in David Cheney (ed.), _Broad’s Critical Essays in Moral Philosophy_, New York: Routledge, pp. 262–282.
+* Butler, Joseph, 1736, _A Dissertation of the Nature of Virtue_, in David McNaughton (ed.), _Joseph Butler_: _Fifteen Sermons and Other Writings on Ethics_, Oxford: Oxford University Press, 2017.
+* Clark, G. N., 1971, “Sir David Ross: 1877–1971,” _Proceedings of the British Academy_, 57: 525–543.
+* Cowan, Robert, 2017, “Rossian Conceptual Intuitionism,” _Ethics_, 127(4): 821–851.
+* Crisp, Roger, 2002, “Sidgwick and the Boundaries of Intuitionism,” in Philip Stratton-Lake (ed.), _Ethical Intuitionism: Re-evaluations_, Oxford: Oxford University Press, pp. 56–75.
+* –––, 2006, _Reasons and the Good_, Oxford: Oxford University Press.
+* Dancy, Jonathan, 1991, “An Ethic of Prima Facie Duties,” in Peter Singer (ed.), _A Companion to Ethics_, Oxford: Blackwell, pp. 219–229.
+* –––, 2004, _Ethics Without Principles_, Oxford: Oxford University Press.
+* de Lazari-Radek, Katarzyna and Peter Singer, 2014, _The Point of View of the Universe: Sidgwick and Contemporary Ethics_, Oxford: Oxford University Press.
+* Ewing, A. C., 1957, “Recent Developments in British Ethical Thought,” in C. A. Mace (ed.), _British Moral Philosophy in the Mid-Century_, London: George Allen & Unwin, pp. 63–95.
+* –––, 1959, _Second Thoughts in Moral Philosophy_, London: Macmillan.
+* Feldman, Fred, 2004, _Pleasure and the Good Life: Concerning the Nature, Varieties, and Plausibility of Hedonism_, Oxford: Oxford University Press.
+* Frankena, William, 1963, _Ethics_, Englewood Cliffs, New Jersey: Prentice-Hall Press.
+* –––, 1973, _Ethics_, second edition, Englewood Cliffs, New Jersey: Prentice-Hall Press.
+* Gaut, Berys, 2002, “Justifying Moral Pluralism,” in Philip Stratton-Lake (ed.), _Ethical Intuitionism: Re-evaluations_, Oxford: Oxford University Press, pp. 137–160.
+* Greene, Joshua, 2008, “The Secret Joke of Kant’s Soul,” in W. Sinnott-Armstrong (ed.), _Moral Psychology, Volume 3: The Neuroscience of Morality: Emotion, Brain Disorders, and Development_, Cambridge: MIT Press, pp. 35–79.
+* Griffin, James, 1996, _Value Judgement: Improving Our Ethical Beliefs_, Oxford: Oxford University Press.
+* Hare, R. M., 1971, “The Argument from Received Opinion,” in R. M. Hare (ed.), _Essays on Philosophical Method_, London: Macmillan, pp. 117–135.
+* Hewitt, Sharon, 2010, “What Do Our Intuitions About the Experience Machine Really Tell Us About Hedonism?,” _Philosophical Studies_, 151(3): 331–49.
+* Hooker, Brad, 2000, _Ideal Code, Real World: A Rule-consequentialist Theory of Morality_, Oxford: Clarendon Press.
+* Hurka, Thomas, 2004, “Normative Ethics: Back to the Future,” in Brian Leiter (ed.), _The Future for Philosophy_, New York: Oxford University Press, pp. 246–264.
+* –––, 2003, _Virtue, Vice, and Value_, Oxford: Oxford University Press.
+* –––, 2014, _British Ethical Theorists From Sidgwick to Ewing_, Oxford: Oxford University Press.
+* Irwin, Terence, 2009, _The Development of Ethics: A Historical and Critical Study_ (Volume III: _From Kant to Rawls_, Ch. 87), Oxford: Oxford University Press.
+* Jack, H. H., 1971, “Utilitarianism and Ross’s Theory of _Prima Facie_ Duties,” _Dialogue_, 10(3): 437–457.
+* Johnson, Oliver A., 1953, “Rightness, Moral Obligation, and Goodness,” _Journal of Philosophy_, 50(20): 597–608.
+* –––, 1959, _Rightness and Goodness_, The Hague: Martinus Nijhoff.
+* Joseph, H. W. B., 1931, _Some Problems in Ethics_, Oxford: Clarendon Press.
+* Kant, Immanuel, 1785, _Groundwork for the Metaphysics of Morals_, in Thomas Hill, Jr. and Arnulf Zweig (eds.), _Groundwork for the Metaphysics of Morals_, Oxford: Oxford University Press, 2002.
+* –––, 1797, “On a Supposed Right to Lie from Philanthropy” in Mary Gregor (ed.), _The Cambridge Edition of the Works of Immanuel Kant_: _Practical Philosophy_, Cambridge: Cambridge University Press, 1996.
+* Kaspar, David, 2016, “Ross’s Place in the History of Analytic Philosophy,” _British Journal for the History of Philosophy_, 24(4): 657–674.
+* MacAdam, Jim (ed.), 2002, _Moral Writings: H. A. Prichard_, Oxford: Oxford University Press.
+* McNaughton, David, 1988, _Moral Vision: An Introduction to Ethics_, Oxford: Blackwell.
+* –––, 1996, “An Unconnected Heap of Duties?,” _Philosophical Quarterly_, 46(185): 433–447.
+* Mendola, Joseph, 2006, _Goodness and Justice: A Consequentialist Moral Theory_, Cambridge: Cambridge University Press.
+* Mill, John Stuart, 1843, _A System of Logic Ratiocinative and Inductive_, in John Robson (ed.), _Collected Works of John Stuart Mill_, vols. VII & VIII, Toronto: University of Toronto Press, 1974.
+* –––, 1863, _Utilitarianism_, in Roger Crisp (ed.), _Mill’s Utilitarianism_, Oxford: Oxford University Press, 1998.
+* Moore, G. E., 1903, _Principia Ethica_, Cambridge: Cambridge University Press.
+* –––, 1912, _Ethics_, Cambridge: Cambridge University Press.
+* Moriarty, Jeffrey, 2006, “Ross on Desert and Punishment,” _Pacific Philosophical Quarterly_, 87(2): 231–244.
+* Olsen, Kristian, 2014, “Ross and the Particularism/Generalism Divide,” _Canadian Journal of Philosophy_, 44(1): 56–75.
+* –––, 2015, _Variations on Some Rossian Themes_, Doctoral dissertation, University of Massachusetts/Amherst, Amherst. \[[Olsen 2015 available online](https://scholarworks.umass.edu/dissertations\_2/426)]
+* Orsi, Francesco, 2012, “David Ross, Ideal Utilitarianism, and the Intrinsic Value of Acts,” _Journal for the History of Analytical Philosophy_, 1(2): 1–21. \[[Orsi 2012 available online](https://jhaponline.org/jhap/article/view/3)]
+* Parfit, Derek, 2011, _On What Matters_, two volumes, Oxford: Oxford University Press.
+* Phillips, David, 2019, _Rossian Ethics: W. D. Ross and Contemporary Moral Theory_, Oxford: Oxford University Press.
+* Pickard-Cambridge, W. A., 1932a, “Two Problems About Duty (I),” _Mind_, 41(161): 72–96.
+* –––, 1932b, “Two Problems About Duty (II),” _Mind_, 41(162): 145–172.
+* –––, 1932c, “Two Problems About Duty (III),” _Mind_, 41(163): 311–340.
+* Price, H. H., 1931, Critical Notice of W. D. Ross, _The Right and the Good_, _Mind_, 40(159): 341–354.
+* Price, Richard, 1787, _A Review of the Principal Questions in Morals_, D. D. Raphael (ed.), _Richard Price’s A Review of the Principal Questions in Morals_, Oxford: Oxford University Press, 1948.
+* Prichard, H. A., 1912, “Does Moral Philosophy Rest on a Mistake?,” _Mind_, 21(81): 21–37.
 * –––, 1932, “Duty and the Ignorance of Fact,” Annual Philosophical Lecture, Henrietta Hertz Trust, London: Humphrey Milford; reprinted in MacAdam (ed.) 2002, pp. 84–110.
-* Raphael, D. D., 1981, *Moral Philosophy*, Oxford: Oxford University Press.
-* Rashdall, Hastings, 1907, *The Theory of Good and Evil*, two volumes, Oxford: Oxford University Press.
-* –––, 1913, *Ethics*, London: T. C. & E. C. Jack.
-* Rawls, John, 1971, *A Theory of Justice*, Cambridge: Harvard University Press.
-* Shaver, Robert, 2007, “Non-naturalism,” in Susana Nuccetelli and Gary Seay (eds.), *Themes from G. E. Moore: New Essays in Epistemology and Ethics*, New York: Oxford University Press, pp. 283–306.
-* –––, 2011, “The Birth of Deontology,” in Thomas Hurka (ed.), *Underivative Duty: British Moral Philosophers from Sidgwick to Ewing*, Oxford: Oxford University Press, pp. 126–145.
-* –––, 2014, “Ross on Self and Others,” *Utilitas*, 26(3): 303–320.
-* –––, 2020, Review of David Phillips, *Rossian Ethics: W. D. Ross and Contemporary Moral Theory*, *Utilitas*, 32(4): 106–109.
-* Sidgwick, Henry, 1907, *The Methods of Ethics*, seventh edition, London: Macmillan.
-* Singer, Peter, 2005, “Ethics and Intuitions,” *The Journal of Ethics*, 9(3–4): 331–352.
-* Skelton, Anthony, 2007, Critical Notice of Robert Audi, *The Good in the Right: A Theory of Intuition and Intrinsic Value*, *Canadian Journal of Philosophy*, 37(2): 305–326.
-* –––, 2011, “Ideal Utilitarianism: Rashdall and Moore,” in Thomas Hurka (ed.), *Underivative Duty: British Moral Philosophers from Sidgwick to Ewing*, Oxford: Oxford University Press, pp. 45–65.
-* –––, 2013a, “Ross, William David (1877–1971),” in James Crimmins (ed.), *Bloomsbury Encyclopedia of Utilitarianism*, New York: Bloomsbury Publishing.
-* –––, 2013b, “Ideal Utilitarianism,” in James Crimmins (ed.), *Bloomsbury Encyclopedia of Utilitarianism*, New York: Bloomsbury Publishing.
-* –––, 2019, “Late Utilitarian Moral Theory and Its Development: Sidgwick, Moore,” in John Shand (ed.), *A Companion to Nineteenth-Century Philosophy*, Oxford: Wiley-Blackwell, pp. 291–310.
-* Stratton-Lake, Philip, 2002a, “Introduction,” in W.D. Ross, *The Right and the Good*, Philip Stratton-Lake (ed.), Oxford: Oxford University Press, pp. ix–lviii.
-* –––, 2002b, “Pleasure and Reflection in Ross’s Intuitionism,” in Philip Stratton-Lake (ed.), *Ethical Intuitionism: Re-evaluations*, Oxford: Oxford University Press, pp. 113–136.
-* –––, 2011a, “Eliminativism about Derivative *Prima Facie* Duties,” in Thomas Hurka (ed.), *Underivative Duty: British Moral Philosophers from Sidgwick to Ewing*, Oxford: Oxford University Press, pp. 146–165.
-* –––, 2011b, “Recalcitrant Pluralism,” *Ratio*, 24(4): 364–383.
-* –––, 2015, “On W. D. Ross’s ‘The Basis of Objective Judgements in Ethics’,” *Ethics*, 125(2): 521–524.
-* –––, 2019, Review of David Phillips, *Rossian Ethics: W. D. Ross and Contemporary Moral Theory*, *Notre Dame Philosophical Reviews*, November 9. [[Stratton-Lake 2019 available online](https://ndpr.nd.edu/reviews/rossian-ethics-w-d-ross-and-contemporary-moral-theory/)]
-* Stroud, Sarah, 2017, “Lying as Infidelity: A Quasi-Rossian Account,” in Mark Timmons (ed.), *Oxford Studies in Normative Ethics* (Volume 7), Oxford: Oxford University Press, pp. 73–97.
-* Warnock, Mary, 1960, *Ethics Since 1900*, Oxford: Oxford University Press.
-* Wiggins, David, 2004, “Ross, Sir (William) David (1877–1971),” *Oxford Dictionary of National Biography*, Oxford: Oxford University Press.
-* Wiland, Eric, 2014, “Rossian Deontology and the Possibility of Moral Expertise,” in Mark Timmons (ed.), *Oxford Studies in Normative Ethics*, Volume 4, Oxford: Oxford University Press, pp. 159–178.
-* Zimmerman, Michael J., 2011, “Ross on Retributivism,” in Thomas Hurka (ed.), *Underivative Duty: British Moral Philosophers from Sidgwick to Ewing*, Oxford: Oxford University Press, pp. 166–182.
+* Raphael, D. D., 1981, _Moral Philosophy_, Oxford: Oxford University Press.
+* Rashdall, Hastings, 1907, _The Theory of Good and Evil_, two volumes, Oxford: Oxford University Press.
+* –––, 1913, _Ethics_, London: T. C. & E. C. Jack.
+* Rawls, John, 1971, _A Theory of Justice_, Cambridge: Harvard University Press.
+* Shaver, Robert, 2007, “Non-naturalism,” in Susana Nuccetelli and Gary Seay (eds.), _Themes from G. E. Moore: New Essays in Epistemology and Ethics_, New York: Oxford University Press, pp. 283–306.
+* –––, 2011, “The Birth of Deontology,” in Thomas Hurka (ed.), _Underivative Duty: British Moral Philosophers from Sidgwick to Ewing_, Oxford: Oxford University Press, pp. 126–145.
+* –––, 2014, “Ross on Self and Others,” _Utilitas_, 26(3): 303–320.
+* –––, 2020, Review of David Phillips, _Rossian Ethics: W. D. Ross and Contemporary Moral Theory_, _Utilitas_, 32(4): 106–109.
+* Sidgwick, Henry, 1907, _The Methods of Ethics_, seventh edition, London: Macmillan.
+* Singer, Peter, 2005, “Ethics and Intuitions,” _The Journal of Ethics_, 9(3–4): 331–352.
+* Skelton, Anthony, 2007, Critical Notice of Robert Audi, _The Good in the Right: A Theory of Intuition and Intrinsic Value_, _Canadian Journal of Philosophy_, 37(2): 305–326.
+* –––, 2011, “Ideal Utilitarianism: Rashdall and Moore,” in Thomas Hurka (ed.), _Underivative Duty: British Moral Philosophers from Sidgwick to Ewing_, Oxford: Oxford University Press, pp. 45–65.
+* –––, 2013a, “Ross, William David (1877–1971),” in James Crimmins (ed.), _Bloomsbury Encyclopedia of Utilitarianism_, New York: Bloomsbury Publishing.
+* –––, 2013b, “Ideal Utilitarianism,” in James Crimmins (ed.), _Bloomsbury Encyclopedia of Utilitarianism_, New York: Bloomsbury Publishing.
+* –––, 2019, “Late Utilitarian Moral Theory and Its Development: Sidgwick, Moore,” in John Shand (ed.), _A Companion to Nineteenth-Century Philosophy_, Oxford: Wiley-Blackwell, pp. 291–310.
+* Stratton-Lake, Philip, 2002a, “Introduction,” in W.D. Ross, _The Right and the Good_, Philip Stratton-Lake (ed.), Oxford: Oxford University Press, pp. ix–lviii.
+* –––, 2002b, “Pleasure and Reflection in Ross’s Intuitionism,” in Philip Stratton-Lake (ed.), _Ethical Intuitionism: Re-evaluations_, Oxford: Oxford University Press, pp. 113–136.
+* –––, 2011a, “Eliminativism about Derivative _Prima Facie_ Duties,” in Thomas Hurka (ed.), _Underivative Duty: British Moral Philosophers from Sidgwick to Ewing_, Oxford: Oxford University Press, pp. 146–165.
+* –––, 2011b, “Recalcitrant Pluralism,” _Ratio_, 24(4): 364–383.
+* –––, 2015, “On W. D. Ross’s ‘The Basis of Objective Judgements in Ethics’,” _Ethics_, 125(2): 521–524.
+* –––, 2019, Review of David Phillips, _Rossian Ethics: W. D. Ross and Contemporary Moral Theory_, _Notre Dame Philosophical Reviews_, November 9. \[[Stratton-Lake 2019 available online](https://ndpr.nd.edu/reviews/rossian-ethics-w-d-ross-and-contemporary-moral-theory/)]
+* Stroud, Sarah, 2017, “Lying as Infidelity: A Quasi-Rossian Account,” in Mark Timmons (ed.), _Oxford Studies in Normative Ethics_ (Volume 7), Oxford: Oxford University Press, pp. 73–97.
+* Warnock, Mary, 1960, _Ethics Since 1900_, Oxford: Oxford University Press.
+* Wiggins, David, 2004, “Ross, Sir (William) David (1877–1971),” _Oxford Dictionary of National Biography_, Oxford: Oxford University Press.
+* Wiland, Eric, 2014, “Rossian Deontology and the Possibility of Moral Expertise,” in Mark Timmons (ed.), _Oxford Studies in Normative Ethics_, Volume 4, Oxford: Oxford University Press, pp. 159–178.
+* Zimmerman, Michael J., 2011, “Ross on Retributivism,” in Thomas Hurka (ed.), _Underivative Duty: British Moral Philosophers from Sidgwick to Ewing_, Oxford: Oxford University Press, pp. 166–182.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=william-david-ross). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/william-david-ross/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=william-david-ross&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/william-david-ross/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=william-david-ross).                                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/william-david-ross/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=william-david-ross\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/william-david-ross/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: deontological](https://plato.stanford.edu/entries/ethics-deontological/) | [Moore, George Edward: moral philosophy](https://plato.stanford.edu/entries/moore-moral/) | [moral intuitionism](https://plato.stanford.edu/entries/intuitionism-ethics/) | [moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/) | pluralism | [Price, Richard](https://plato.stanford.edu/entries/richard-price/) | [Prichard, Harold Arthur](https://plato.stanford.edu/entries/prichard/)
+[consequentialism](https://plato.stanford.edu/entries/consequentialism/) | [ethics: deontological](https://plato.stanford.edu/entries/ethics-deontological/) | [Moore, George Edward: moral philosophy](https://plato.stanford.edu/entries/moore-moral/) | [moral intuitionism](https://plato.stanford.edu/entries/intuitionism-ethics/) | [moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/) | pluralism | [Price, Richard](https://plato.stanford.edu/entries/richard-price/) | [Prichard, Harold Arthur](https://plato.stanford.edu/entries/prichard/)
 
 ### Acknowledgments
 
 The author wishes to thank John Cooper, Thomas Hurka, David Phillips, and Robert Shaver for helpful written comments on previous drafts of this entry.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Anthony Skelton](http://publish.uwo.ca/~askelto4/) <[*askelto4@uwo.ca*](mailto:askelto4%40uwo%2eca)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Anthony Skelton](http://publish.uwo.ca/\~askelto4/) <[_askelto4@uwo.ca_](mailto:askelto4%40uwo%2eca)>

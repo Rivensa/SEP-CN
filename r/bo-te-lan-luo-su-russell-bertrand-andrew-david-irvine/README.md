@@ -1,10 +1,10 @@
 # 伯特兰·罗素 Russell, Bertrand (Andrew David Irvine)
 
-*首次发表于 1995 年 12 月 7 日；实质性修订于 2020 年 5 月 27 日*
+_首次发表于 1995 年 12 月 7 日；实质性修订于 2020 年 5 月 27 日_
 
 ![Photo of Bertrand Russell](https://plato.stanford.edu/entries/russell/russell.gif)
 
-*拉里·伯罗斯拍摄的照片*
+_拉里·伯罗斯拍摄的照片_
 
 伯特兰·亚瑟·威廉·罗素（1872-1970）是一位英国哲学家、逻辑学家、散文家和社会评论家，以他在数理逻辑和分析哲学领域的工作而闻名。他最有影响力的贡献包括他对逻辑主义的支持（即数学在某种重要意义上可归结为逻辑），他对戈特洛布·弗雷格的谓词演算的改进（仍然是大多数当代逻辑系统的基础），他对中性唯物主义的辩护（即世界只包含一种既非纯粹心理的物质，也非纯粹物理的物质），以及他关于确定描述、逻辑原子主义和逻辑类型的理论。
 
@@ -16,65 +16,65 @@
 
 有兴趣的读者可以听两段罗素演讲的音频剪辑。
 
----
+***
 
 ## 1. 罗素的年表
 
 罗素生平的主要事件简要年表如下：
 
-| (1872) | 伯特兰·罗素于英国蒙茅斯郡特雷勒克的雷文斯克罗夫特出生，出生日期为 5 月 18 日。                                                              |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| (1874) | 母亲和姐姐去世。                                                                                                                             |
-| (1876) | 父亲去世；罗素的祖父约翰·罗素勋爵（前首相）和祖母成功推翻罗素父亲的遗嘱，获得了罗素和他的兄弟的监护权，而不是让他们被养成自由思想者。       |
-| (1878) | 祖父去世；罗素的祖母，罗素夫人，在伦敦的彭布鲁克别墅监督罗素的成长。                                                                         |
-| (1883) | 从他的兄弟弗兰克那里接受了他的第一堂几何课。                                                                                                 |
-| (1890) | 进入剑桥大学三一学院；遇见怀特海德。                                                                                                         |
-| (1893) | 获得数学一等学士学位。                                                                                                                       |
-| (1894) | 完成道德科学三年制课程（第二部分）；被任命为英国驻巴黎荣誉大使；与阿利斯·皮尔索尔·史密斯结婚。                                             |
-| (1895) | 在柏林大学学习。                                                                                                                             |
-| (1896) | 在伦敦经济学院任命为讲师；在美国的约翰霍普金斯大学和布林莫尔学院讲课。                                                                       |
-| (1899) | 在剑桥大学三一学院任命为讲师。                                                                                                               |
-| (1900) | 在巴黎举行的第一届国际哲学大会上与佩亚诺相遇。                                                                                               |
-| (1901) | 在剑桥大学重新任命为讲师；发现罗素悖论。                                                                                                     |
-| (1902) | 与弗雷格通信。                                                                                                                               |
-| (1905) | 发展了他的描述理论。                                                                                                                         |
-| (1907) | 参选国会并落选。                                                                                                                             |
-| (1908) | 当选为皇家学会院士。                                                                                                                         |
-| (1910) | 因为无神论的原因未能获得自由党的国会提名；重新被任命为剑桥大学的讲师。                                                                       |
-| (1911) | 与维特根斯坦会面；当选为亚里士多德学会主席；与阿利斯分手。                                                                                   |
-| (1913) | 在巴黎高等社会学院讲课。                                                                                                                     |
-| (1914) | 访问哈佛大学并教授逻辑和知识理论课程；与 T.S.艾略特相识。                                                                                    |
-| (1915) | 在剑桥大学三一学院重新任命为讲师。                                                                                                           |
-| (1916) | 因反战著作被罚款 100 英镑并被开除出剑桥大学；被拒绝领取护照，因此无法在哈佛大学讲课。                                                        |
-| (1918) | 因反战著作被监禁五个月。                                                                                                                     |
-| (1920) | 访问俄罗斯。                                                                                                                                 |
-| (1921) | 与 Alys 离婚并与 Dora Black 结婚；访问中国和日本。                                                                                           |
-| (1922) | 参选议会并失败。                                                                                                                             |
-| (1923) | 参选议会并落选。                                                                                                                             |
-| (1924) | 在美国讲课。                                                                                                                                 |
-| (1927) | 在美国讲课；与多拉一起在英国开办实验学校。                                                                                                   |
-| (1929) | 在美国的讲座。                                                                                                                               |
-| (1931) | 在美国的讲座；在他兄弟去世后成为第三代罗素伯爵。                                                                                             |
-| (1935) | 与多拉离婚。                                                                                                                                 |
-| (1936) | 与帕特里夏（彼得）海伦·斯宾斯结婚。                                                                                                         |
-| (1938) | 被任命为芝加哥大学哲学访问教授。                                                                                                             |
-| (1939) | 被任命为加利福尼亚大学洛杉矶分校哲学教授。                                                                                                   |
+| (1872) | 伯特兰·罗素于英国蒙茅斯郡特雷勒克的雷文斯克罗夫特出生，出生日期为 5 月 18 日。                            |
+| ------ | ---------------------------------------------------------------------- |
+| (1874) | 母亲和姐姐去世。                                                               |
+| (1876) | 父亲去世；罗素的祖父约翰·罗素勋爵（前首相）和祖母成功推翻罗素父亲的遗嘱，获得了罗素和他的兄弟的监护权，而不是让他们被养成自由思想者。    |
+| (1878) | 祖父去世；罗素的祖母，罗素夫人，在伦敦的彭布鲁克别墅监督罗素的成长。                                     |
+| (1883) | 从他的兄弟弗兰克那里接受了他的第一堂几何课。                                                 |
+| (1890) | 进入剑桥大学三一学院；遇见怀特海德。                                                     |
+| (1893) | 获得数学一等学士学位。                                                            |
+| (1894) | 完成道德科学三年制课程（第二部分）；被任命为英国驻巴黎荣誉大使；与阿利斯·皮尔索尔·史密斯结婚。                       |
+| (1895) | 在柏林大学学习。                                                               |
+| (1896) | 在伦敦经济学院任命为讲师；在美国的约翰霍普金斯大学和布林莫尔学院讲课。                                    |
+| (1899) | 在剑桥大学三一学院任命为讲师。                                                        |
+| (1900) | 在巴黎举行的第一届国际哲学大会上与佩亚诺相遇。                                                |
+| (1901) | 在剑桥大学重新任命为讲师；发现罗素悖论。                                                   |
+| (1902) | 与弗雷格通信。                                                                |
+| (1905) | 发展了他的描述理论。                                                             |
+| (1907) | 参选国会并落选。                                                               |
+| (1908) | 当选为皇家学会院士。                                                             |
+| (1910) | 因为无神论的原因未能获得自由党的国会提名；重新被任命为剑桥大学的讲师。                                    |
+| (1911) | 与维特根斯坦会面；当选为亚里士多德学会主席；与阿利斯分手。                                          |
+| (1913) | 在巴黎高等社会学院讲课。                                                           |
+| (1914) | 访问哈佛大学并教授逻辑和知识理论课程；与 T.S.艾略特相识。                                        |
+| (1915) | 在剑桥大学三一学院重新任命为讲师。                                                      |
+| (1916) | 因反战著作被罚款 100 英镑并被开除出剑桥大学；被拒绝领取护照，因此无法在哈佛大学讲课。                          |
+| (1918) | 因反战著作被监禁五个月。                                                           |
+| (1920) | 访问俄罗斯。                                                                 |
+| (1921) | 与 Alys 离婚并与 Dora Black 结婚；访问中国和日本。                                     |
+| (1922) | 参选议会并失败。                                                               |
+| (1923) | 参选议会并落选。                                                               |
+| (1924) | 在美国讲课。                                                                 |
+| (1927) | 在美国讲课；与多拉一起在英国开办实验学校。                                                  |
+| (1929) | 在美国的讲座。                                                                |
+| (1931) | 在美国的讲座；在他兄弟去世后成为第三代罗素伯爵。                                               |
+| (1935) | 与多拉离婚。                                                                 |
+| (1936) | 与帕特里夏（彼得）海伦·斯宾斯结婚。                                                     |
+| (1938) | 被任命为芝加哥大学哲学访问教授。                                                       |
+| (1939) | 被任命为加利福尼亚大学洛杉矶分校哲学教授。                                                  |
 | (1940) | 在罗素抵达之前，由于公众抗议和法律判决，纽约市立学院的任命被撤销，罗素被认定为“道德上不合适”在学院任教；在哈佛大学发表了威廉·詹姆斯讲座。 |
-| (1941) | 在宾夕法尼亚州的巴恩斯基金会任命为讲师。                                                                                                     |
-| (1942) | 被巴恩斯基金会解雇，但通过对基金会的不当解雇提起诉讼并获胜。                                                                                 |
-| (1944) | 重新任命为三一学院的研究员。                                                                                                                 |
-| (1948) | 在前往挪威的途中遭遇飞机坠毁，他和其他乘客通过在海洋中游泳自救，直到获得帮助。                                                               |
-| (1949) | 被授予功勋勋章；当选为三一学院的终身研究员。                                                                                                 |
-| (1950) | 被授予诺贝尔文学奖；访问澳大利亚。                                                                                                           |
-| (1951) | 在美国讲课。                                                                                                                                 |
-| (1952) | 与帕特里夏（彼得）离婚并与伊迪丝·芬奇结婚。                                                                                                 |
-| (1955) | 发布罗素-爱因斯坦宣言。                                                                                                                      |
-| (1957) | 当选为第一届帕格沃什会议主席。                                                                                                               |
-| (1958) | 成为核裁军运动的创始主席。                                                                                                                   |
-| (1961) | 因反核抗议活动而被监禁一周。                                                                                                                 |
-| (1963) | 成立伯特兰·罗素和平基金会。                                                                                                                 |
-| (1967) | 发起国际战争罪行法庭。                                                                                                                       |
-| (1970) | 于威尔士彭赖恩德雷德雷斯去世，日期为 2 月 2 日。                                                                                             |
+| (1941) | 在宾夕法尼亚州的巴恩斯基金会任命为讲师。                                                   |
+| (1942) | 被巴恩斯基金会解雇，但通过对基金会的不当解雇提起诉讼并获胜。                                         |
+| (1944) | 重新任命为三一学院的研究员。                                                         |
+| (1948) | 在前往挪威的途中遭遇飞机坠毁，他和其他乘客通过在海洋中游泳自救，直到获得帮助。                                |
+| (1949) | 被授予功勋勋章；当选为三一学院的终身研究员。                                                 |
+| (1950) | 被授予诺贝尔文学奖；访问澳大利亚。                                                      |
+| (1951) | 在美国讲课。                                                                 |
+| (1952) | 与帕特里夏（彼得）离婚并与伊迪丝·芬奇结婚。                                                 |
+| (1955) | 发布罗素-爱因斯坦宣言。                                                           |
+| (1957) | 当选为第一届帕格沃什会议主席。                                                        |
+| (1958) | 成为核裁军运动的创始主席。                                                          |
+| (1961) | 因反核抗议活动而被监禁一周。                                                         |
+| (1963) | 成立伯特兰·罗素和平基金会。                                                         |
+| (1967) | 发起国际战争罪行法庭。                                                            |
+| (1970) | 于威尔士彭赖恩德雷德雷斯去世，日期为 2 月 2 日。                                            |
 
 对于罗素的生平总结已经有很多。其中比较著名的一种总结来自牛津哲学家 A.J.艾尔。正如艾尔所写：“普遍认为哲学家是将普遍知识与人类行为指导相结合的人，而在我们这个时代，伯特兰·罗素更接近这一理想”（1972a，127）。另一个有意义的评论来自哈佛哲学家 W.V.奎因：“我认为我们中的许多人都是被罗素的书吸引到我们的职业的。他为不同层次的读者写了一系列的书，从外行人到专家。我们被他的机智和对现实中核心特征的新发现的清晰感所迷住”（1966c，657）。
 
@@ -168,7 +168,7 @@
 
 这种关于哲学的广泛概念部分源于罗素的唯心主义起源（Hylton 1990a，Griffin 1991）。尽管如此，罗素告诉我们，他在哲学上的真正革命是由于他与唯心主义的决裂。罗素认为，唯心主义关于内在关系的教条导致了一系列关于数学所必需的非对称（和其他）关系的矛盾。正如他所报道的，
 
-> 1898 年末，摩尔和我同时反对康德和黑格尔。摩尔带头，我紧随其后。...[我们的反叛集中在]事实一般独立于经验的教义上。虽然我们意见一致，但我认为我们在新哲学中最感兴趣的方面有所不同。我认为摩尔最关心的是对唯心主义的拒绝，而我最感兴趣的是对唯一论的拒绝。(1959, 54)
+> 1898 年末，摩尔和我同时反对康德和黑格尔。摩尔带头，我紧随其后。...\[我们的反叛集中在]事实一般独立于经验的教义上。虽然我们意见一致，但我认为我们在新哲学中最感兴趣的方面有所不同。我认为摩尔最关心的是对唯心主义的拒绝，而我最感兴趣的是对唯一论的拒绝。(1959, 54)
 
 这两个观点通过所谓的内在关系学说紧密相连。与这一学说相反，罗素提出了他自己的新的外在关系学说：
 
@@ -212,11 +212,11 @@
 >
 > 1. Kx，
 > 2. 对于任何 y，如果 Ky，则 y=x，并且
-> 3. *Bx*.
+> 3. _Bx_.
 
 或者，用谓词演算的符号表示，我们写成
 
-> (1″) ∃x[(Kx & ∀y(Ky → y=x)) & Bx]。
+> (1″) ∃x\[(Kx & ∀y(Ky → y=x)) & Bx]。
 
 相比之下，通过允许 s 缩写为“Scott”这个名字，罗素给句子(2)赋予了非常不同的逻辑形式。
 
@@ -230,21 +230,21 @@
 
 罗素对与使用专有名词和确定描述相关的逻辑形式的区分再次说明了为什么会这样。为了看清楚这一点，我们再次让 s 缩写为“斯科特”。我们还让 w 缩写为“《威弗利》”，A 缩写为“是作者”。然后可以得出以下句子：
 
-> (3) *s=s*
+> (3) _s=s_
 
 与句子
 
-> (4) ∃x[(Axw & ∀y(Ayw → y=x)) & x=s]
+> (4) ∃x\[(Axw & ∀y(Ayw → y=x)) & x=s]
 
 相比，句子（3）是一个必然真理，而句子（4）则不是。
 
 第三个难题涉及真实的否定存在主张，例如主张“金山不存在”。在这里，罗素通过将确定描述视为具有与专有名不同的逻辑形式，能够解释说话者如何在不承认主语术语具有指称的同时，承认否定存在主张的真实性。也就是说，声称斯科特不存在是错误的，因为
 
-> (5) ~∃*x*(*x=s*)
+> (5) \~∃_x_(_x=s_)
 
 是自相矛盾的。（毕竟，至少必须存在一个与 s 相同的东西，因为 s 与自身相同是一个逻辑真理！）相反，声称金山不存在可能是真实的，因为假设 G 代表谓词“是金色的”，M 代表谓词“是山”，这并没有任何矛盾之处。
 
-> (6) ~∃*x*(*Gx* & *Mx*).
+> (6) \~∃_x_(_Gx_ & _Mx_).
 
 伯特兰·罗素与他的描述理论相关的最重要的著作不仅包括《论指称》（1905），还包括《数学原理》（1903），《数理逻辑原理》（1910）和《数学哲学导论》（1919）。 （另见 Kaplan 1970，Kroon 2009 和 Stevens 2011。）
 
@@ -354,7 +354,7 @@
 
 与罗素对教育重要性的观点不同，罗素的政治行动与他更理论性的工作之间的确切联系更具争议。部分原因是因为罗素本人多次坚称他在哲学工作和政治行动之间没有重要的联系。其他人则有不同的看法。艾伦·伍德给出了最好的总结之一：
 
-> 罗素有时坚持认为，他的哲学观点和政治观点之间没有联系，我认为这部分是出于变态。......但事实上，我认为罗素的哲学观点和其他观点之间存在着显而易见的联系。 除非认识到罗素处理政治问题的方法通常是经验性的和实用的，是基于当时的证据而不是*先验*原则和先入之见，否则就很难理解为什么他的观点似乎有如此大的差异。在一个一成不变的世界里，环境的变化不断改变着各方论点的平衡，在这种情况下，这样做是完全合理的，甚至是值得称赞的。(伍德，1957 年，第 73-4 页）
+> 罗素有时坚持认为，他的哲学观点和政治观点之间没有联系，我认为这部分是出于变态。......但事实上，我认为罗素的哲学观点和其他观点之间存在着显而易见的联系。 除非认识到罗素处理政治问题的方法通常是经验性的和实用的，是基于当时的证据而不是_先验_原则和先入之见，否则就很难理解为什么他的观点似乎有如此大的差异。在一个一成不变的世界里，环境的变化不断改变着各方论点的平衡，在这种情况下，这样做是完全合理的，甚至是值得称赞的。(伍德，1957 年，第 73-4 页）
 
 因此，除了罗素对当时政治的众多贡献之外，他还对我们理解我们周围的社会世界做出了重大贡献。罗素更多的理论贡献包括他对约翰-麦基（John Mackie）的伦理学错误理论的预测，即道德判断是认知性的（也就是说，它们要么是真的，要么是假的），但由于其内容，它们实际上总是错误的。(麦基的论文《道德的驳斥》发表于 1946 年；罗素的论文《有绝对的善吗？）
 
@@ -362,7 +362,7 @@
 
 这种不满似乎并未延伸到他在政治理论方面的工作。在那里，罗素主要关注权力的概念，或者他所称的“产生预期效果”（1938，35）。正如 V.J.麦吉尔所写，“权力的概念笼罩了罗素的所有政治和经济著作”（Schilpp 1944，581）。罗素本人用以下观察总结了他的观点：“社会动力学的规律——我将争辩——只能以各种形式的权力来表述”（1938，15）。因此，只有通过理解权力在其所有人类体现中的含义，我们才能理解我们周围的社会世界。
 
-罗素对他所处时代的所谓邪恶现象进行了详细的分类（正如波普尔简洁地总结罗素的一般观点，“我们聪明，也许太聪明了，但我们也是邪恶的；而这种聪明和邪恶的混合是我们困境的根源”[1956，365]）。即便如此，在罗素对左翼和右翼政治的批评之下，存在着一个共同的担忧：权力的不平等分配。正如麦吉尔总结的那样，“显然，他已经确信对权力的渴望是人类的主要危险，占有欲之所以邪恶，主要是因为它促进了人对人的权力”（Schilpp 1944，581）。这种分析和罗素对更公平的权力分配的渴望的问题在于，任何提出的解决方案似乎都会导致悖论：
+罗素对他所处时代的所谓邪恶现象进行了详细的分类（正如波普尔简洁地总结罗素的一般观点，“我们聪明，也许太聪明了，但我们也是邪恶的；而这种聪明和邪恶的混合是我们困境的根源”\[1956，365]）。即便如此，在罗素对左翼和右翼政治的批评之下，存在着一个共同的担忧：权力的不平等分配。正如麦吉尔总结的那样，“显然，他已经确信对权力的渴望是人类的主要危险，占有欲之所以邪恶，主要是因为它促进了人对人的权力”（Schilpp 1944，581）。这种分析和罗素对更公平的权力分配的渴望的问题在于，任何提出的解决方案似乎都会导致悖论：
 
 > 假设某些人加入了一个推翻权力或更平等地分配权力的运动！如果他们成功了，他们执行了权力的命令，根据罗素先生的定义，他们自己变得强大，就像任何暴君一样。即使他们将美好的生活传播给了数百万人，他们越成功，就越具有篡夺性和危险性。（Schilpp 1944, 586）
 
@@ -396,318 +396,318 @@
 
 * [Major Books and Articles by Russell](https://plato.stanford.edu/entries/russell/#ASORA)
 * [Major Anthologies of Russell’s Writings](https://plato.stanford.edu/entries/russell/#MAORW)
-* [*The Collected Papers of Bertrand Russell*](https://plato.stanford.edu/entries/russell/#TCPOBR)
+* [_The Collected Papers of Bertrand Russell_](https://plato.stanford.edu/entries/russell/#TCPOBR)
 
 #### Major Books and Articles by Russell
 
-* 1896, *German Social Democracy*, London: Longmans, Green.
-* 1897, *An Essay on the Foundations of Geometry*, Cambridge: At the University Press.
-* 1900, *A Critical Exposition of the Philosophy of Leibniz*, Cambridge: At the University Press.
-* 1901, “Recent Work on the Principles of Mathematics,” *International Monthly*, 4: 83–101; reprinted as “Mathematics and the Metaphysicians,” in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 74–96; also appearing in *Collected Papers*, Volume 3.
-* 1903, *The Principles of Mathematics*, Cambridge: At the University Press.
-* 1905, “On Denoting,” *Mind*, 14: 479–493; reprinted in Bertrand Russell, *Essays in Analysis*, London: Allen and Unwin, 1973, 103–119; and in Bertrand Russell, *Logic and Knowledge*, London: George Allen and Unwin, 1956, 41–56; also appearing in *Collected Papers*, Volume 4.
-* 1907, “The Regressive Method of Discovering the Premises of Mathematics,” in Bertrand Russell, *Essays in Analysis*, London: Allen and Unwin, 1973, 272–283; also appearing in *Collected Papers*, Volume 5.
-* 1908, “Mathematical Logic as Based on the Theory of Types,” *American Journal of Mathematics*, 30: 222–262; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 59–102; also appearing in *Collected Papers*, Volume 5.
-* 1910, 1912, 1913 (with Alfred North Whitehead), *Principia Mathematica*, 3 volumes, Cambridge: Cambridge University Press; 2nd edn, 1925 (Volumes 1), 1927 (Volumes 2, 3); abridged as *Principia Mathematica to *56*, Cambridge: Cambridge University Press, 1962.
-* 1911, “Knowledge by Acquaintance and Knowledge by Description,” *Proceedings of the Aristotelian Society*, 11: 108–128; reprinted in Bertrand Russell, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 209–232; also appearing in *Collected Papers*, Volume 6.
-* 1912a, *The Problems of Philosophy*, London: Williams and Norgate; New York: Henry Holt and Company.
-* 1912b, “On the Relations of Universals and Particulars,” *Proceedings of the Aristotelian Society*, 12: 1–24; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 105–124; also appearing in *Collected Papers*, Volume 6.
-* 1914a, *Our Knowledge of the External World*, Chicago and London: The Open Court Publishing Company.
-* 1914b, “On the Nature of Acquaintance,” *Monist*, 24: 1–16, 161–187, 435–453; reprinted in *Logic and Knowledge*, London: George Allen and Unwin, 1956, 127–174; also appearing in *Collected Papers*, Volume 7.
-* 1914c, “The Relation of Sense-Data to Physics,” *Scientia*, 16: 1–27; reprinted in *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co., 1918, 145–179; also appearing in *Collected Papers*, Volume 8.
-* 1916, *Principles of Social Reconstruction*, London: George Allen and Unwin; reprinted as *Why Men Fight*, New York: The Century Company, 1917.
-* 1917, *Political Ideals*, New York: The Century Company.
-* 1918, 1919, “The Philosophy of Logical Atomism,” *Monist*, 28: 495–527; 29: 32–63, 190–222, 345–380; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 177–281; also appearing in *Collected Papers*, Volume 8.
-* 1919a, *Introduction to Mathematical Philosophy*, London: George Allen and Unwin; New York: The Macmillan Company.
-* 1919b, “On Propositions: What They Are and How They Mean,” *Proceedings of the Aristotelian Society*, Supplementary Volume 2: 1–43; also appearing in *Collected Papers*, Volume 8.
-* 1920, *The Practice and Theory of Bolshevism*, London: George Allen and Unwin Ltd.
-* 1921, *The Analysis of Mind*, London: George Allen and Unwin; New York: The Macmillan Company.
-* 1922a, *Free Thought and Official Propaganda*, London: Watts & Co. and George Allen and Unwin Ltd.
-* 1922b, “Is There an Absolute Good?”, in *Collected Papers*, Volume 9.
-* 1922c, *The Problem of China*, London: George Allen and Unwin Ltd.
-* 1923a, *The ABC of Atoms*, London: Kegan Paul, Trench, Trubner & Co., Ltd.
-* 1923b, *A Free Man’s Worship*, Portland, Maine: Thomas Bird Mosher; reprinted as *What Can A Free Man Worship?* Girard, Kansas: Haldeman-Julius Publications, 1927.
-* 1924, “Logical Atomism,” in J.H. Muirhead (ed.), *Contemporary British Philosophers*, London: Allen and Unwin, 1924, 356–383; reprinted in Bertrand Russell, *Logic and Knowledge*, London: Allen and Unwin, 1956, 323–343; also appearing in *Collected Papers*, Volume 9.
-* 1925, *The ABC of Relativity*, London: Kegan Paul, Trench, Trubner & Co., Ltd.
-* 1926, *On Education, Especially in Early Childhood*, London: George Allen and Unwin; reprinted as *Education and the Good Life*, New York: Boni and Liveright, 1926; abridged as *Education of Character*, New York: Philosophical Library, 1961.
-* 1927a, *The Analysis of Matter*, London: Kegan Paul, Trench, Trubner; New York: Harcourt, Brace.
-* 1927b, *An Outline of Philosophy*, London: George Allen and Unwin; reprinted as *Philosophy*, New York: W.W. Norton, 1927.
-* 1927c, *Why I Am Not a Christian*, London: Watts; New York: The Truth Seeker Company.
-* 1929, *Marriage and Morals*, London: George Allen and Unwin; New York: Horace Liveright.
-* 1930, *The Conquest of Happiness*, London: George Allen and Unwin; New York: Horace Liveright.
-* 1931, *The Scientific Outlook*, London: George Allen and Unwin; New York: W.W. Norton.
-* 1938, *Power: A New Social Analysis*, London: George Allen and Unwin; New York: W.W. Norton.
-* 1939, “The Existence and Nature of God,” in John G. Slater (ed.), *A Fresh Look at Empiricism, 1927–42* (*The Collected Papers of Bertrand Russell*: Volume 10), London and New York: Routledge, 1996, 253–68.
-* 1940, *An Inquiry into Meaning and Truth*, London: George Allen and Unwin; New York: W.W. Norton.
-* 1945, *A History of Western Philosophy*, New York: Simon and Schuster; London: George Allen and Unwin, 1946; rev. edn, 1961.
-* 1948, *Human Knowledge: Its Scope and Limits*, London: George Allen and Unwin; New York: Simon and Schuster.
-* 1949a, *Authority and the Individual*, London: George Allen and Unwin; New York: Simon and Schuster.
-* 1949b, *The Philosophy of Logical Atomism*, Minneapolis, Minnesota: Department of Philosophy, University of Minnesota; reprinted as *Russell’s Logical Atomism*, D.F. Pears (ed.), Oxford: Fontana/Collins, 1972.
-* 1951 (with L.B. Schapiro, C.D. Darlington, Francis Watson, W.N. Ewer and Victor Feather), *Why Communism Must Fail*, London: The Batchworth Press.
-* 1952, “Is There a God?” in John G. Slater (ed.), *Last Philosophical Testament, 1943–68* (*The Collected Papers of Bertrand Russell*: Volume 11), London and New York: Routledge, 1997, 542–548.
-* 1954, *Human Society in Ethics and Politics*, London: George Allen and Unwin; New York: Simon and Schuster.
-* 1959, *My Philosophical Development*, London: George Allen and Unwin; New York: Simon and Schuster.
-* 1961, *Has Man a Future?*, London: Allen and Unwin.
-* 1963, *Unarmed Victory*, London: Allen and Unwin; New York: Simon and Schuster.
-* 1967, 1968, 1969, *The Autobiography of Bertrand Russell*, 3 volumes, London: George Allen and Unwin; Boston: Little Brown and Company (Volumes 1 and 2), New York: Simon and Schuster (Volume 3).
-* 1967a, *War Crimes in Vietnam*, London: Allen and Unwin; New York: Monthly Review Press.
+* 1896, _German Social Democracy_, London: Longmans, Green.
+* 1897, _An Essay on the Foundations of Geometry_, Cambridge: At the University Press.
+* 1900, _A Critical Exposition of the Philosophy of Leibniz_, Cambridge: At the University Press.
+* 1901, “Recent Work on the Principles of Mathematics,” _International Monthly_, 4: 83–101; reprinted as “Mathematics and the Metaphysicians,” in Bertrand Russell, _Mysticism and Logic and Other Essays_, New York, London: Longmans, Green & Co., 1918, 74–96; also appearing in _Collected Papers_, Volume 3.
+* 1903, _The Principles of Mathematics_, Cambridge: At the University Press.
+* 1905, “On Denoting,” _Mind_, 14: 479–493; reprinted in Bertrand Russell, _Essays in Analysis_, London: Allen and Unwin, 1973, 103–119; and in Bertrand Russell, _Logic and Knowledge_, London: George Allen and Unwin, 1956, 41–56; also appearing in _Collected Papers_, Volume 4.
+* 1907, “The Regressive Method of Discovering the Premises of Mathematics,” in Bertrand Russell, _Essays in Analysis_, London: Allen and Unwin, 1973, 272–283; also appearing in _Collected Papers_, Volume 5.
+* 1908, “Mathematical Logic as Based on the Theory of Types,” _American Journal of Mathematics_, 30: 222–262; reprinted in Bertrand Russell, _Logic and Knowledge_, London: Allen and Unwin, 1956, 59–102; also appearing in _Collected Papers_, Volume 5.
+* 1910, 1912, 1913 (with Alfred North Whitehead), _Principia Mathematica_, 3 volumes, Cambridge: Cambridge University Press; 2nd edn, 1925 (Volumes 1), 1927 (Volumes 2, 3); abridged as \*Principia Mathematica to _56_, Cambridge: Cambridge University Press, 1962.
+* 1911, “Knowledge by Acquaintance and Knowledge by Description,” _Proceedings of the Aristotelian Society_, 11: 108–128; reprinted in Bertrand Russell, _Mysticism and Logic and Other Essays_, New York, London: Longmans, Green & Co., 1918, 209–232; also appearing in _Collected Papers_, Volume 6.
+* 1912a, _The Problems of Philosophy_, London: Williams and Norgate; New York: Henry Holt and Company.
+* 1912b, “On the Relations of Universals and Particulars,” _Proceedings of the Aristotelian Society_, 12: 1–24; reprinted in Bertrand Russell, _Logic and Knowledge_, London: Allen and Unwin, 1956, 105–124; also appearing in _Collected Papers_, Volume 6.
+* 1914a, _Our Knowledge of the External World_, Chicago and London: The Open Court Publishing Company.
+* 1914b, “On the Nature of Acquaintance,” _Monist_, 24: 1–16, 161–187, 435–453; reprinted in _Logic and Knowledge_, London: George Allen and Unwin, 1956, 127–174; also appearing in _Collected Papers_, Volume 7.
+* 1914c, “The Relation of Sense-Data to Physics,” _Scientia_, 16: 1–27; reprinted in _Mysticism and Logic and Other Essays_, New York, London: Longmans, Green & Co., 1918, 145–179; also appearing in _Collected Papers_, Volume 8.
+* 1916, _Principles of Social Reconstruction_, London: George Allen and Unwin; reprinted as _Why Men Fight_, New York: The Century Company, 1917.
+* 1917, _Political Ideals_, New York: The Century Company.
+* 1918, 1919, “The Philosophy of Logical Atomism,” _Monist_, 28: 495–527; 29: 32–63, 190–222, 345–380; reprinted in Bertrand Russell, _Logic and Knowledge_, London: Allen and Unwin, 1956, 177–281; also appearing in _Collected Papers_, Volume 8.
+* 1919a, _Introduction to Mathematical Philosophy_, London: George Allen and Unwin; New York: The Macmillan Company.
+* 1919b, “On Propositions: What They Are and How They Mean,” _Proceedings of the Aristotelian Society_, Supplementary Volume 2: 1–43; also appearing in _Collected Papers_, Volume 8.
+* 1920, _The Practice and Theory of Bolshevism_, London: George Allen and Unwin Ltd.
+* 1921, _The Analysis of Mind_, London: George Allen and Unwin; New York: The Macmillan Company.
+* 1922a, _Free Thought and Official Propaganda_, London: Watts & Co. and George Allen and Unwin Ltd.
+* 1922b, “Is There an Absolute Good?”, in _Collected Papers_, Volume 9.
+* 1922c, _The Problem of China_, London: George Allen and Unwin Ltd.
+* 1923a, _The ABC of Atoms_, London: Kegan Paul, Trench, Trubner & Co., Ltd.
+* 1923b, _A Free Man’s Worship_, Portland, Maine: Thomas Bird Mosher; reprinted as _What Can A Free Man Worship?_ Girard, Kansas: Haldeman-Julius Publications, 1927.
+* 1924, “Logical Atomism,” in J.H. Muirhead (ed.), _Contemporary British Philosophers_, London: Allen and Unwin, 1924, 356–383; reprinted in Bertrand Russell, _Logic and Knowledge_, London: Allen and Unwin, 1956, 323–343; also appearing in _Collected Papers_, Volume 9.
+* 1925, _The ABC of Relativity_, London: Kegan Paul, Trench, Trubner & Co., Ltd.
+* 1926, _On Education, Especially in Early Childhood_, London: George Allen and Unwin; reprinted as _Education and the Good Life_, New York: Boni and Liveright, 1926; abridged as _Education of Character_, New York: Philosophical Library, 1961.
+* 1927a, _The Analysis of Matter_, London: Kegan Paul, Trench, Trubner; New York: Harcourt, Brace.
+* 1927b, _An Outline of Philosophy_, London: George Allen and Unwin; reprinted as _Philosophy_, New York: W.W. Norton, 1927.
+* 1927c, _Why I Am Not a Christian_, London: Watts; New York: The Truth Seeker Company.
+* 1929, _Marriage and Morals_, London: George Allen and Unwin; New York: Horace Liveright.
+* 1930, _The Conquest of Happiness_, London: George Allen and Unwin; New York: Horace Liveright.
+* 1931, _The Scientific Outlook_, London: George Allen and Unwin; New York: W.W. Norton.
+* 1938, _Power: A New Social Analysis_, London: George Allen and Unwin; New York: W.W. Norton.
+* 1939, “The Existence and Nature of God,” in John G. Slater (ed.), _A Fresh Look at Empiricism, 1927–42_ (_The Collected Papers of Bertrand Russell_: Volume 10), London and New York: Routledge, 1996, 253–68.
+* 1940, _An Inquiry into Meaning and Truth_, London: George Allen and Unwin; New York: W.W. Norton.
+* 1945, _A History of Western Philosophy_, New York: Simon and Schuster; London: George Allen and Unwin, 1946; rev. edn, 1961.
+* 1948, _Human Knowledge: Its Scope and Limits_, London: George Allen and Unwin; New York: Simon and Schuster.
+* 1949a, _Authority and the Individual_, London: George Allen and Unwin; New York: Simon and Schuster.
+* 1949b, _The Philosophy of Logical Atomism_, Minneapolis, Minnesota: Department of Philosophy, University of Minnesota; reprinted as _Russell’s Logical Atomism_, D.F. Pears (ed.), Oxford: Fontana/Collins, 1972.
+* 1951 (with L.B. Schapiro, C.D. Darlington, Francis Watson, W.N. Ewer and Victor Feather), _Why Communism Must Fail_, London: The Batchworth Press.
+* 1952, “Is There a God?” in John G. Slater (ed.), _Last Philosophical Testament, 1943–68_ (_The Collected Papers of Bertrand Russell_: Volume 11), London and New York: Routledge, 1997, 542–548.
+* 1954, _Human Society in Ethics and Politics_, London: George Allen and Unwin; New York: Simon and Schuster.
+* 1959, _My Philosophical Development_, London: George Allen and Unwin; New York: Simon and Schuster.
+* 1961, _Has Man a Future?_, London: Allen and Unwin.
+* 1963, _Unarmed Victory_, London: Allen and Unwin; New York: Simon and Schuster.
+* 1967, 1968, 1969, _The Autobiography of Bertrand Russell_, 3 volumes, London: George Allen and Unwin; Boston: Little Brown and Company (Volumes 1 and 2), New York: Simon and Schuster (Volume 3).
+* 1967a, _War Crimes in Vietnam_, London: Allen and Unwin; New York: Monthly Review Press.
 
 #### Major Anthologies of Russell’s Writings
 
-* A1910, *Philosophical Essays*, London: Longmans, Green.
-* A1918, *Mysticism and Logic and Other Essays*, New York, London: Longmans, Green & Co.; reprinted as *A Free Man’s Worship and Other Essays*, London: Unwin Paperbacks, 1976.
-* A1928, *Sceptical Essays*, London: George Allen and Unwin; New York: W.W. Norton.
-* A1935, *In Praise of Idleness and Other Essays*, London: George Allen and Unwin; New York: W.W. Norton.
-* A1941, *Let the People Think*, London: Watts & Co.
-* A1950, *Unpopular Essays*, London: George Allen and Unwin; New York: Simon and Schuster.
-* A1956a, *Logic and Knowledge: Essays, 1901–1950*, London: George Allen and Unwin; New York: The Macmillan Company.
-* A1956b, *Portraits From Memory and Other Essays*, London: George Allen and Unwin; New York: Simon and Schuster.
-* A1957, *Why I am Not a Christian and Other Essays on Religion and Related Subjects*, London: George Allen and Unwin; New York: Simon and Schuster.
-* A1961a, *The Basic Writings of Bertrand Russell, 1903–1959*, London: George Allen and Unwin; New York: Simon and Schuster.
-* A1961b, *Fact and Fiction*, London: Allen and Unwin; New York: Simon and Schuster, 1962.
-* A1968, *The Art of Philosophizing and Other Essays*, New York: Philosophical Library.
-* A1969, *Dear Bertrand Russell*, London: George Allen and Unwin; Boston: Houghton Mifflin.
-* A1973, *Essays in Analysis*, London: George Allen and Unwin.
-* A1992, *The Selected Letters of Bertrand Russell, Volume 1*, London: Allen Lane, and New York: Houghton Mifflin.
-* A1999a, *Russell on Ethics*, London: Routledge.
-* A1999b, *Russell on Religion*, London: Routledge.
-* A2001, *The Selected Letters of Bertrand Russell, Volume 2*, London: Routledge.
-* A2003, *Russell on Metaphysics*, London: Routledge.
-* A2013, *What I Believe*, London: Routledge.
+* A1910, _Philosophical Essays_, London: Longmans, Green.
+* A1918, _Mysticism and Logic and Other Essays_, New York, London: Longmans, Green & Co.; reprinted as _A Free Man’s Worship and Other Essays_, London: Unwin Paperbacks, 1976.
+* A1928, _Sceptical Essays_, London: George Allen and Unwin; New York: W.W. Norton.
+* A1935, _In Praise of Idleness and Other Essays_, London: George Allen and Unwin; New York: W.W. Norton.
+* A1941, _Let the People Think_, London: Watts & Co.
+* A1950, _Unpopular Essays_, London: George Allen and Unwin; New York: Simon and Schuster.
+* A1956a, _Logic and Knowledge: Essays, 1901–1950_, London: George Allen and Unwin; New York: The Macmillan Company.
+* A1956b, _Portraits From Memory and Other Essays_, London: George Allen and Unwin; New York: Simon and Schuster.
+* A1957, _Why I am Not a Christian and Other Essays on Religion and Related Subjects_, London: George Allen and Unwin; New York: Simon and Schuster.
+* A1961a, _The Basic Writings of Bertrand Russell, 1903–1959_, London: George Allen and Unwin; New York: Simon and Schuster.
+* A1961b, _Fact and Fiction_, London: Allen and Unwin; New York: Simon and Schuster, 1962.
+* A1968, _The Art of Philosophizing and Other Essays_, New York: Philosophical Library.
+* A1969, _Dear Bertrand Russell_, London: George Allen and Unwin; Boston: Houghton Mifflin.
+* A1973, _Essays in Analysis_, London: George Allen and Unwin.
+* A1992, _The Selected Letters of Bertrand Russell, Volume 1_, London: Allen Lane, and New York: Houghton Mifflin.
+* A1999a, _Russell on Ethics_, London: Routledge.
+* A1999b, _Russell on Religion_, London: Routledge.
+* A2001, _The Selected Letters of Bertrand Russell, Volume 2_, London: Routledge.
+* A2003, _Russell on Metaphysics_, London: Routledge.
+* A2013, _What I Believe_, London: Routledge.
 
-#### *The Collected Papers of Bertrand Russell*
+#### _The Collected Papers of Bertrand Russell_
 
-##### In Print
+**In Print**
 
-* CP, Vol. 1, *Cambridge Essays, 1888–99*, Kenneth Blackwell, Andrew Brink, Nicholas Griffin, Richard A. Rempel and John G. Slater (eds.), London, Boston, Sydney: George Allen and Unwin, 1983.
-* CP, Vol. 2, *Philosophical Papers, 1896–99*, Nicholas Griffin and Albert C. Lewis (eds.), London and New York: Routledge, 1990.
-* CP, Vol. 3, *Toward the* Principles of Mathematics, *1900–02*, Gregory H. Moore (ed.), London and New York: Routledge, 1993.
-* CP, Vol. 4, *Foundations of Logic, 1903–05*, Alasdair Urquhart (ed.), London and New York: Routledge, 1994.
-* CP, Vol. 5, *Toward* Principia Mathematica, *1905–08*, Gregory H. Moore (ed.), London and New York: Routledge, 2014.
-* CP, Vol. 6, *Logical and Philosophical Papers, 1909–13*, John G. Slater (ed.), London and New York: Routledge, 1992.
-* CP, Vol. 7, *Theory of Knowledge: The 1913 Manuscript*, Elizabeth Ramsden Eames (ed.), London, Boston, Sydney: George Allen and Unwin, 1984; paperbound, 1992.
-* CP, Vol. 8, *The Philosophy of Logical Atomism and Other Essays, 1914–19*, John G. Slater (ed.), London: George Allen and Unwin, 1986.
-* CP, Vol. 9, *Essays on Language, Mind and Matter, 1919–26*, John G. Slater (ed.), London: Unwin Hyman, 1988.
-* CP, Vol. 10, *A Fresh Look at Empiricism, 1927–42*, John G. Slater (ed.), London and New York: Routledge, 1996.
-* CP, Vol. 11, *Last Philosophical Testament, 1943–68*, John G. Slater (ed.), London and New York: Routledge, 1997.
-* CP, Vol. 12, *Contemplation and Action, 1902–14*, Richard A. Rempel, Andrew Brink and Margaret Moran (eds.), London, Boston, Sydney: George Allen and Unwin, 1985.
-* CP, Vol. 13, *Prophecy and Dissent, 1914–16*, Richard A. Rempel (ed.), London: Unwin Hyman, 1988.
-* CP, Vol. 14, *Pacifism and Revolution, 1916–18*, Richard A. Rempel, Louis Greenspan, Beryl Haslam, Albert C. Lewis and Mark Lippincott (eds.), London and New York: Routledge, 1995.
-* CP, Vol. 15, *Uncertain Paths to Freedom: Russia and China, 1919–22*, Richard A. Rempel and Beryl Haslam (eds.), London and New York: Routledge, 2000.
-* CP, Vol. 21, *How to Keep the Peace: The Pacifist Dilemma, 1935–38*, Andrew G. Bone and Michael D. Stevenson (eds.), London and New York: Routledge, 2008.
-* CP, Vol. 26, *Cold War Fears and Hopes, 1950–52*, Andrew G. Bone (ed.), London and New York: Routledge, 2020.
-* CP, Vol. 28, *Man’s Peril, 1954–55*, Andrew G. Bone (ed.), London and New York: Routledge, 2003.
-* CP, Vol. 29, *Détente or Destruction, 1955–57*, Andrew G. Bone (ed.), London and New York: Routledge, 2005.
+* CP, Vol. 1, _Cambridge Essays, 1888–99_, Kenneth Blackwell, Andrew Brink, Nicholas Griffin, Richard A. Rempel and John G. Slater (eds.), London, Boston, Sydney: George Allen and Unwin, 1983.
+* CP, Vol. 2, _Philosophical Papers, 1896–99_, Nicholas Griffin and Albert C. Lewis (eds.), London and New York: Routledge, 1990.
+* CP, Vol. 3, _Toward the_ Principles of Mathematics, _1900–02_, Gregory H. Moore (ed.), London and New York: Routledge, 1993.
+* CP, Vol. 4, _Foundations of Logic, 1903–05_, Alasdair Urquhart (ed.), London and New York: Routledge, 1994.
+* CP, Vol. 5, _Toward_ Principia Mathematica, _1905–08_, Gregory H. Moore (ed.), London and New York: Routledge, 2014.
+* CP, Vol. 6, _Logical and Philosophical Papers, 1909–13_, John G. Slater (ed.), London and New York: Routledge, 1992.
+* CP, Vol. 7, _Theory of Knowledge: The 1913 Manuscript_, Elizabeth Ramsden Eames (ed.), London, Boston, Sydney: George Allen and Unwin, 1984; paperbound, 1992.
+* CP, Vol. 8, _The Philosophy of Logical Atomism and Other Essays, 1914–19_, John G. Slater (ed.), London: George Allen and Unwin, 1986.
+* CP, Vol. 9, _Essays on Language, Mind and Matter, 1919–26_, John G. Slater (ed.), London: Unwin Hyman, 1988.
+* CP, Vol. 10, _A Fresh Look at Empiricism, 1927–42_, John G. Slater (ed.), London and New York: Routledge, 1996.
+* CP, Vol. 11, _Last Philosophical Testament, 1943–68_, John G. Slater (ed.), London and New York: Routledge, 1997.
+* CP, Vol. 12, _Contemplation and Action, 1902–14_, Richard A. Rempel, Andrew Brink and Margaret Moran (eds.), London, Boston, Sydney: George Allen and Unwin, 1985.
+* CP, Vol. 13, _Prophecy and Dissent, 1914–16_, Richard A. Rempel (ed.), London: Unwin Hyman, 1988.
+* CP, Vol. 14, _Pacifism and Revolution, 1916–18_, Richard A. Rempel, Louis Greenspan, Beryl Haslam, Albert C. Lewis and Mark Lippincott (eds.), London and New York: Routledge, 1995.
+* CP, Vol. 15, _Uncertain Paths to Freedom: Russia and China, 1919–22_, Richard A. Rempel and Beryl Haslam (eds.), London and New York: Routledge, 2000.
+* CP, Vol. 21, _How to Keep the Peace: The Pacifist Dilemma, 1935–38_, Andrew G. Bone and Michael D. Stevenson (eds.), London and New York: Routledge, 2008.
+* CP, Vol. 26, _Cold War Fears and Hopes, 1950–52_, Andrew G. Bone (ed.), London and New York: Routledge, 2020.
+* CP, Vol. 28, _Man’s Peril, 1954–55_, Andrew G. Bone (ed.), London and New York: Routledge, 2003.
+* CP, Vol. 29, _Détente or Destruction, 1955–57_, Andrew G. Bone (ed.), London and New York: Routledge, 2005.
 
-##### Planned
+**Planned**
 
-* Vol. 16, *Labour and Internationalism, 1922–25*.
-* Vol. 17, *Authority versus Enlightenment, 1925–27*.
-* Vol. 18, *Behaviourism and Education, 1927–31*.
-* Vol. 19, *Science and Civilization, 1931–33*.
-* Vol. 20, *Fascism and Other Depression Legacies, 1933–34*.
-* Vol. 22, *The CCNY Case, 1938–40*.
-* Vol. 23, *The Problems of Democracy, 1941–44*.
-* Vol. 24, *Civilization and the Bomb, 1944–47*.
-* Vol. 25, *Defense of the West, 1948–50*.
-* Vol. 27, *Culture and the Cold War, 1952–53*.
-* Vol. 30, *Campaign for Nuclear Disarmament, 1957–59*.
-* Vol. 31, *The Committee of 100, 1960–62*.
-* Vol. 32, *A New Plan for Peace and Other Essays, 1963–64*.
-* Vol. 33, *The Vietnam Campaign, 1965–66*.
-* Vol. 34, *International War Crimes Tribunal, 1967–70*.
-* Vol. 35, *Newly Discovered Papers*.
-* Vol. 36, *Indexes*.
+* Vol. 16, _Labour and Internationalism, 1922–25_.
+* Vol. 17, _Authority versus Enlightenment, 1925–27_.
+* Vol. 18, _Behaviourism and Education, 1927–31_.
+* Vol. 19, _Science and Civilization, 1931–33_.
+* Vol. 20, _Fascism and Other Depression Legacies, 1933–34_.
+* Vol. 22, _The CCNY Case, 1938–40_.
+* Vol. 23, _The Problems of Democracy, 1941–44_.
+* Vol. 24, _Civilization and the Bomb, 1944–47_.
+* Vol. 25, _Defense of the West, 1948–50_.
+* Vol. 27, _Culture and the Cold War, 1952–53_.
+* Vol. 30, _Campaign for Nuclear Disarmament, 1957–59_.
+* Vol. 31, _The Committee of 100, 1960–62_.
+* Vol. 32, _A New Plan for Peace and Other Essays, 1963–64_.
+* Vol. 33, _The Vietnam Campaign, 1965–66_.
+* Vol. 34, _International War Crimes Tribunal, 1967–70_.
+* Vol. 35, _Newly Discovered Papers_.
+* Vol. 36, _Indexes_.
 
 ### Secondary Literature
 
-* Andersson, Stefan, 1994, *In Quest of Certainty*, Stockholm: Almqvist & Wiksell.
-* Ayer, A.J., 1971, *Russell and Moore*, Cambridge: Harvard University Press.
-* –––, 1972a, “Bertrand Russell as a Philosopher,” *Proceedings of the British Academy*, 58: 127–151; reprinted in A.D. Irvine (ed.) (1999) *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, Volume 1, 65–85.
-* –––, 1972b, *Russell*, London: Fontana/Collins.
-* Banks, Erik C., 2014, *The Realistic Empiricism of Mach, James and Russell: Neutral Monism Reconceived*, Cambridge: Cambridge University Press.
-* Blackwell, Kenneth, 1983, “‘Perhaps You will Think Me Fussy …’: Three Myths in Editing Russell’s *Collected Papers*,” in H.J. Jackson (ed.), *Editing Polymaths*, Toronto: Committee for the Conference on Editorial Problems, 99–142.
-* –––, 1985, *The Spinozistic Ethics of Bertrand Russell*, London: George Allen and Unwin.
-* –––, and Harry Ruja, 1994, *A Bibliography of Bertrand Russell*, 3 volumes, London: Routledge.
-* Blitz, David, 2002, “Did Russell Advocate Preventive Atomic War Against the USSR?” *Russell*, 22: 5–45.
-* Bostock, David, 2012, *Russell’s Logical Atomism*, Oxford: Oxford University Press.
-* Broad, C.D., 1973, “Bertrand Russell, as Philosopher,” *Bulletin of the London Mathematical Society*, 5: 328–341; reprinted in A.D. Irvine (ed.) (1999) *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, vol 1, 1–15.
-* Burke, Tom, 1994, *Dewey’s New Logic: A Reply to Russell*, Chicago: University of Chicago Press.
-* Carnap, Rudolf, 1931, “The Logicist Foundations of Mathematics,” *Erkenntnis*, 2: 91–105; reprinted in Paul Benacerraf, and Hilary Putnam (eds.), *Philosophy of Mathematics*, 2nd edn, Cambridge: Cambridge University Press, 1983, 41–52; reprinted in E.D. Klemke (ed.), *Essays on Bertrand Russell*, Urbana: University of Illinois Press, 1970, 341–354; and reprinted in David F. Pears (ed.), *Bertrand Russell: A Collection of Critical Essays*, Garden City, New York: Anchor Books, 1972, 175–191.
-* Chalmers, David J., 1996, *The Conscious Mind: In Search of a Fundamental Theory*, Oxford: Oxford University Press.
-* Chomsky, Noam, 1971, *Problems of Knowledge and Freedom: The Russell Lectures*, New York: Vintage.
-* Church, Alonzo, 1974, “Russellian Simple Type Theory,” *Proceedings and Addresses of the American Philosophical Association*, 47: 21–33.
-* –––, 1976, “Comparison of Russell’s Resolution of the Semantical Antinomies with That of Tarski,” *Journal of Symbolic Logic*, 41: 747–760; reprinted in A.D. Irvine, *Bertrand Russell: Critical Assessments*, Volume 2, New York and London: Routledge, 1999, 96–112.
-* Clark, Ronald William, 1975, *The Life of Bertrand Russell*, London: Jonathan Cape and Weidenfeld & Nicolson.
-* –––, 1981, *Bertrand Russell and His World*, London: Thames and Hudson.
-* Collins, Jordan E., 2012, *A History of the Theory of Types: Developments after the Second Edition of* Principia Mathematica, Saarbrücken: Lambert Academic Publishing.
-* Copi, Irving, 1971, *The Theory of Logical Types*, London: Routledge and Kegan Paul.
-* Demopoulos, William, 2013, *Logicism and Its Philosophical Legacy*, London and New York: Cambridge University Press.
-* Dewey, John, and Horace M. Kallen (eds.), 1941, *The Bertrand Russell Case*, New York: Viking.
-* Doxiadis, Apostolos, and Christos Papadimitriou, 2009, *Logicomix: An Epic Search for Truth*, New York: St Martin’s Press.
-* Duffy, Bruce, 1987, *The World as I Found It*, New York: Ticknor & Fields.
-* Eames, Elizabeth R., 1967, “The Consistency of Russell’s Realism,” *Philosophy and Phenomenological Research*, 27: 502–511.
-* –––, 1969, *Bertrand Russell’s Theory of Knowledge*, London: George Allen and Unwin.
-* –––, 1989, *Bertrand Russell’s Dialogue with his Contemporaries*, Carbondale: Southern Illinois University Press.
-* Eliot, T.S., 1917, “Mr Apollinax”, *Prufrock and Other Observations*, London: Egoist Press.
-* Elkind, Landon D.C. and Gregory Landini (eds.), 2018, *The Philosophy of Logical Atomism: A Centenary Reappraisal*, London: Palgrave Macmillan.
-* Feinberg, Barry, and Ronald Kasrils (eds.), 1969, *Dear Bertrand Russell*, London: George Allen and Unwin.
-* –––, 1973, 1983, *Bertrand Russell’s America*, 2 volumes, London: George Allen and Unwin.
-* Gabbay, Dov M., and John Woods (eds.), 2009, *Handbook of the History of Logic: Volume 5 — Logic From Russell to Church*, Amsterdam: Elsevier/North Holland.
-* Galaugher, Jolen, 2013, *Russell’s Philosophy of Logical Analysis*, London: Palgrave Macmillan.
-* Gandon, Sébastien, 2012, *Russell’s Unknown Logicism*, New York: Palgrave Macmillan.
-* Gandy, R.O., 1973, “Bertrand Russell, as Mathematician,” *Bulletin of the London Mathematical Society*, 5: 342–348; reprinted in A.D. Irvine, *Bertrand Russell: Critical Assessments*, Volume 1, New York and London: Routledge, 1999, 16–23.
-* Gödel, Kurt, 1944, “Russell’s Mathematical Logic,” in Paul Arthur Schilpp (ed.), *The Philosophy of Bertrand Russell*, 3rd edn, New York: Tudor, 1951, 123–153; reprinted in Paul Benacerraf and Hilary Putnam (eds.), *Philosophy of Mathematics*, 2nd edn, Cambridge: Cambridge University Press, 1983, 447–469; reprinted in David F. Pears (ed.) (1972) *Bertrand Russell: A Collection of Critical Essays*, Garden City, New York: Anchor Books, 192–226; and reprinted in A.D. Irvine (ed.) *Bertrand Russell: Critical Assessments*, Volume 2, New York and London: Routledge, 1999, 113–134.
-* Grattan-Guinness, I., 1977, *Dear Russell, Dear Jourdain: A Commentary on Russell’s Logic, Based on His Correspondence with Philip Jourdain*, New York: Columbia University Press.
-* –––, 2000, *The Search for Mathematical Roots, 1870–1940*, Princeton, Oxford: Princeton University Press.
-* Griffin, Nicholas, 1991, *Russell’s Idealist Apprenticeship*, Oxford: Clarendon.
-* ––– (ed.), 2003, *The Cambridge Companion to Bertrand Russell*, Cambridge: Cambridge University Press.
-* ––– (ed.), 2014, *Bertrand Russell, A Pacifist at War: Letters and Writings 1914–1918*, Nottingham: Spokesman Books.
-* –––, and Dale Jacquette (eds.), 2009, *Russell vs Meinong: the Legacy of “On Denoting”*, New York: Routledge.
-* –––, and Bernard Linsky (eds.), 2013, *The Palgrave Centenary Companion to Principia Mathematica*, London: Palgrave Macmillan.
-* –––, and Bernard Linsky and Kenneth Blackwell (eds.), 2011, *Principia Mathematica at 100*, Hamilton, ON: Bertrand Russell Research Centre; also published as Special Issue Volume 31, Number 1 of *Russell*.
-* Hager, Paul J., 1994, *Continuity and Change in the Development of Russell’s Philosophy*, Dordrecht: Nijhoff.
-* Hardy, Godfrey H., 1942, *Bertrand Russell and Trinity*, Cambridge: Cambridge University Press, 1970.
-* Hintikka, Jaakko, 2009, “Logicism”, in A.D. Irvine (ed.), *Philosophy of Mathematics*, Amsterdam: Elsevier/North Holland, 271–290.
-* Hochberg, Herbert, 2001, *Russell, Moore, and Wittgenstein*, New York: Hansel-Hohenhausen.
-* Hook, Sidney, 1966, “Lord Russell and the War Crimes Trial”, *The New Leader*, 49 (24 October); reprinted in A.D. Irvine (ed.) (1999) *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, Volume 4, 181.
-* –––, 1976, “Bertrand Russell the Man”, *Commentary*, July 1976, 52–54.
-* Huxley, Aldous, 1921, *Chrome Yellow*, London: Chatto & Windus.
-* Hylton, Peter W., 1990a, *Russell, Idealism, and the Emergence of Analytic Philosophy*, Oxford: Clarendon.
-* –––, 1990b, “Logic in Russell’s Logicism,” in David Bell and Neil Cooper (eds.), *The Analytic Tradition: Philosophical Quarterly Monographs*, Volume 1, Cambridge: Blackwell, 137–172.
-* Ironside, Philip, 1996, *The Social and Political Thought of Bertrand Russell: The Development of an Aristocratic Liberalism*, London: Cambridge University Press.
-* Irvine, A.D., 1989, “Epistemic Logicism and Russell’s Regressive Method,” *Philosophical Studies*, 55: 303–327.
-* –––, 1996, “Bertrand Russell and Academic Freedom,” *Russell*, 16: 5–36.
-* ––– (ed.), 1999, *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge.
-* –––, 2004, “Russell on Method,” in Godehard Link (ed.), *One Hundred Years of Russell’s Paradox*, Berlin and New York: Walter de Gruyter, 481–500.
-* ––– (ed.), 2009, *Philosophy of Mathematics*, Amsterdam: Elsevier/North Holland.
-* –––, and G.A. Wedeking (eds.), 1993, *Russell and Analytic Philosophy*, Toronto: University of Toronto Press.
-* Jager, Ronald, 1972, *The Development of Bertrand Russell’s Philosophy*, London: George Allen and Unwin.
-* Kaplan, David, 1970, “What is Russell’s Theory of Descriptions?” in Wolfgang Yourgrau and Allen D. Breck, (eds.), *Physics, Logic, and History*, New York: Plenum, 277–288; reprinted in David F. Pears (ed.), *Bertrand Russell: A Collection of Critical Essays*, Garden City, New York: Anchor Books, 1972, 227–244.
-* Kayden, Eugene M., 1930, “A Tract on Sex and Marriage,” *Sewanee Review*, 38: 104–108; reprinted in A.D. Irvine (ed.) 1999, *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, Volume 4, 86–89.
-* Klement, Kevin C., 2001, “Russell’s Paradox in Appendix B of the Principles of Mathematics: Was Frege’s Response Adequate?” *History and Philosophy of Logic*, 22: 13–28.
-* –––, 2003, “Russell’s 1903–05 Anticipation of the Lambda Calculus,” *History and Philosophy of Logic*, 24: 15–37.
-* –––, 2010, “The Functions of Russell’s No Class Theory,” *Review of Symbolic Logic*, 3–4: 633–664.
-* –––, 2012, “Neo-logicism and Russell’s Logicism,” *Russell*, 32: 127–59.
-* Klemke, E.D. (ed.), 1970, *Essays on Bertrand Russell*, Urbana: University of Illinois Press.
-* Korhonen, Anssi, 2013, *Logic as Universal Science: Russell’s Early Logicism and Its Philosophical Context*, London: Palgrave Macmillan.
-* Kreisel, Georg, 1973, “Bertrand Arthur William Russell, Earl Russell: 1872–1970,” *Biographical Memoirs of Fellows of the Royal Society*, 19, 583–620; reprinted in A.D. Irvine (ed.) (1999) *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, Volume 1, 24–64.
-* Kroon, Fred W., 2006, “Russellian Descriptions and Meinongian Assumptions,” in A. Bottani and R. Davies (eds.), *Modes of Existence: Papers in Ontology and Philosophical Logic*, Heusenstamm: Ontos Verlag, 83–106.
-* –––, 2009, “Existence in the Theory of Definite Descriptions,” *Journal of Philosophy*, 106: 365–389.
-* Landini, Gregory, 1998, *Russell’s Hidden Substitutional Theory*, New York and Oxford: Oxford University Press.
-* –––, 2002, “Russell’s Theory of Definite Descriptions as a Paradigm for Philosophy,” in Dale Jacquette, *A Companion to Philosophical Logic*, Oxford: Blackwell, 2002, pp. 194–223.
-* –––, 2011, *Russell*, London and New York: Routledge.
-* Lapointe, Sandra (ed.), 2018, *Logic from Kant to Russell: Laying the Foundations for Analytic Philosophy*, London and New York: Routledge.
-* Lebens, Samuel, 2017, *Bertrand Russell and the Nature of Propositions: A History and Defence of the Multiple Relation Theory of Judgement*, London and New York: Routledge.
-* Leithauser, Gladys Garner, and Nadine Cowan Dyer, 1982, “Bertrand Russell and T.S. Eliot: Their Dialogue,” *Russell*, 2: 7–28.
-* Lewis, John, 1968, *Bertrand Russell: Philosopher and Humanist*, London: Lawrence and Wishart.
-* Link, Godehard (ed.), 2004, *One Hundred Years of Russell’s Paradox*, Berlin and New York: Walter de Gruyter.
-* Linsky, Bernard, 1990, “Was the Axiom of Reducibility a Principle of Logic?” *Russell*, 10: 125–140; reprinted in A.D. Irvine (ed.), *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, 1999, Volume 2, 150–264.
-* –––, 1999, *Russell’s Metaphysical Logic*, Stanford: CSLI Publications.
-* –––, 2002, “The Resolution of Russell’s Paradox in *Principia Mathematica*,” *Philosophical Perspectives*, 16: 395–417.
-* –––, 2011, *The Evolution of Principia Mathematica: Bertrand Russell’s Manuscripts and Notes for the Second Edition*, Cambridge: Cambridge University Press.
-* –––, 2013, “Ernst Schroeder and Zermelo’s Anticipation of Russell’s Paradox,” in Karine Fradet and François Lepage, *La crise des fondements:quelle crise?*, Montréal: Les Cahiers d’Ithaque, 7–23; trans. by Chen Lei as “Luosu Beilun de Yuyanzhe: Shiluode yu Cemeiluo,” *Shijie Zhexue*, 3 (2013): 136–144.
-* –––, and Guido Imaguire (eds.), 2005, *On Denoting 1905–2005*, Munich: Philosophia-Verlag.
-* Lycan, William, 1981, “Logical Atomism and Ontological Atoms,” *Synthese*, 46: 207–229.
-* Maclean, Gülberk Koç, 2014, *Bertrand Russell’s Bundle Theory of Particulars*, London and New York: Bloomsbury Academic.
-* Mares, Edwin, 2007, “The Fact Semantics for Ramified Type Theory and the Axiom of Reducibility” *Notre Dame Journal of Formal Logic*, 48 (2): 237–251.
-* Mayo-Wilson, Conor, 2011, “Russell on Logicism and Coherence,” in Nicholas Griffin, Bernard Linsky and Kenneth Blackwell (2011) *Principia Mathematica at 100*, in *Russell* (Special Issue), 31(1): 63–79.
-* Monk, Ray, 1996, *Bertrand Russell: The Spirit of Solitude*, London: Jonathan Cape.
-* –––, 2000, *Bertrand Russell: The Ghost of Madness*, London: Jonathan Cape.
-* –––, and Anthony Palmer (eds.), 1996, *Bertrand Russell and the Origins of Analytic Philosophy*, Bristol: Thoemmes Press.
-* Monro, D.H., 1960, “Russell’s Moral Theories,” *Philosophy*, 35: 30–50; reprinted in David F. Pears (ed.), *Bertrand Russell: A Collection of Critical Essays*, Garden City, New York: Anchor Books, 1972, 325–355; and reprinted in A.D. Irvine, *Bertrand Russell: Critical Assessments*, Volume 4, New York and London: Routledge, 1999, 65–85.
-* Moorehead, Caroline, 1992, *Bertrand Russell*, New York: Viking.
-* Nagel, Thomas, 2002, *Concealment and Exposure and Other Essays*, New York: Oxford University Press.
-* Nakhnikian, George (ed.), 1974, *Bertrand Russell’s Philosophy*, London: Duckworth.
-* Nasim, Omar W., 2012, “The Spaces of Knowledge: Bertrand Russell, Logical Construction, and the Classification of the Sciences,” *British Journal for the History of Philosophy*, 20: 1163–1182.
-* Nobel Media, 2020, “The Nobel Prize in Literature 1950,” [[Nobel Media 2020 available online](https://www.nobelprize.org/prizes/literature/1950/summary)].
-* Ongley, John, and Rosalind Carey, 2013, *Russell: A Guide for the Perplexed*, London and New York: Bloomsbury.
-* Park, Joe, 1963, *Bertrand Russell on Education*, Columbus: Ohio State University Press.
-* Patterson, Wayne, 1993, *Bertrand Russell’s Philosophy of Logical Atomism*, New York: Lang.
-* Pears, David F., 1967, *Bertrand Russell and the British Tradition in Philosophy*, London: Collins.
-* ––– (ed.), 1972, *Bertrand Russell: A Collection of Critical Essays*, New York: Doubleday.
-* Perkins, Ray, Jr, 1994, “Bertrand Russell and Preventive War,” *Russell*, 14: 135–53.
-* Pitt, Jack, 1975, “Russell on Religion,” *International Journal for Philosophy of Religion*, 6: 40–53; reprinted in A.D. Irvine (ed.) 1999, *Bertrand Russell: Critical Assessments*, 4 volumes, London: Routledge, Volume 4, 152–163.
-* Popper, Karl, 1956, “The History of Our Time: An Optimist’s View,” in *Conjectures and Refutations*, 4th edition, London and Henley: Routlege and Kegan Paul, 1972, 364–76.
-* Potter, Michael, 2009, *Wittgenstein’s Notes on Logic*, Oxford: Oxford University Press.
-* Potter, Michael K., 2006, *Bertrand Russell’s Ethics*, London and New York: Continuum Books.
-* Proops, Ian, 2006, “Russell’s Reasons for Logicism,” *Journal of the History of Philosophy*, 44: 267–292.
-* Putnam, Hilary, 1967, “The Thesis that Mathematics is Logic,” in Ralph Schoenman (ed.), *Bertrand Russell: Philosopher of the Century*, London: Allen and Unwin, 273–303; reprinted in Hilary Putnam, *Mathematics, Matter and Method*, Cambridge: Cambridge University Press, 1975, 12–42.
-* Quine, W.V., 1938, “On the Theory of Types,” *Journal of Symbolic Logic*, 3: 125–139.
-* –––, 1960, *Word and Object*, Cambridge: MIT Press.
-* –––, 1966a, *Selected Logic Papers*, New York: Random House.
-* –––, 1966b, *Ways of Paradox*, New York: Random House.
-* –––, 1966c, “Russell’s Ontological Development,” *Journal of Philosophy*, 63: 657–667; reprinted in E.D. Klemke, *Essays on Bertrand Russell*, Urbana, Chicago, London: University of Illinois Press, 3–14.
-* Ramsey, Frank P., 1931, *The Foundations of Mathematics*, London: Kegan Paul, Trench, Trubner.
-* –––, 1990, *Philosophical Papers*, Cambridge: Cambridge University Press.
-* Roberts, George W. (ed.), 1979, *Bertrand Russell Memorial Volume*, London: Allen and Unwin.
-* Rodríguez-Consuegra, Francisco A., 1991, *The Mathematical Philosophy of Bertrand Russell: Origins and Development*, Basel: Birkhauser; reprinted 1993.
-* Russell, Dora, 1975, 1981, 1985, *The Tamarisk Tree*, 3 volumes, New York: Putnam.
-* Ryan, Alan, 1988, *Bertrand Russell: A Political Life*, New York: Hill and Wang.
-* Savage, C. Wade, and C. Anthony Anderson (eds.), 1989, *Rereading Russell: Essays on Bertrand Russell’s Metaphysics and Epistemology*, Minneapolis: University of Minnesota Press.
-* Schilpp, Paul Arthur (ed.), 1944, *The Philosophy of Bertrand Russell*, Chicago: Northwestern University.
-* Schoenman, Ralph (ed.), 1967, *Bertrand Russell: Philosopher of the Century*, London: Allen and Unwin.
-* Schultz, Bart, 1992, “Bertrand Russell in Ethics and Politics,” *Ethics*, 102: 594–634.
-* Shapiro, Stewart (ed.), 2005, *The Oxford Handbook of Philosophy of Mathematics and Logic*, Oxford: Oxford University Press.
-* Slater, John G., 1994, *Bertrand Russell*, Bristol: Thoemmes.
-* Soames, Scott, 2014, *The Analytic Tradition in Philosophy* (Volume 1: The Founding Giants. Princeton), Princeton: Princeton University Press.
-* Stevens, Graham, 2005, *The Russellian Origins of Analytical Philosophy*, London and New York: Routledge.
-* –––, 2011, *The Theory of Descriptions*, New York: Palgrave Macmillan.
-* Stone, I.F., 1981, “Bertrand Russell as a Moral Force in World Politics,” *Russell*, 1: 7–25.
-* Stone, Peter, 2003, “Ray Monk and the Politics of Bertrand Russell,” *Russell*, 23: 82–91.
-* Strawson, Peter F., 1950, “On Referring,” *Mind*, 59: 320–344; reprinted in Anthony Flew (ed.), *Essays in Conceptual Analysis*, London: Macmillan, 1960, 21–52, and reprinted in E.D. Klemke (ed.), *Essays on Bertrand Russell*, Urbana: University of Illinois Press, 1970, 147–172.
-* –––, 1984, “First Steps in Superiority,” *Times Literary Supplement*, 3 February 1984, 104.
-* Sullivan, Arthur, 2013, *Reference and Structure in the Philosophy of Language: A Defense of the Russellian Orthodoxy*, London and New York: Routledge.
-* Swanson, Carolyn, 2011, *Reburial of Nonexistents: Reconsidering the Meinong-Russell Debate*, Amsterdam/New York: Rodopi.
-* –––, 2019, “Russell,” in G. Oppy (ed.), *A Companion to Atheism and Philosophy*, Oxford: Wiley, 83–96.
-* Tait, Katharine, 1975, *My Father Bertrand Russell*, New York: Harcourt Brace Jovanovich.
-* Thomas, John E., and Kenneth Blackwell (eds.), 1976, *Russell in Review*, Toronto: Samuel Stevens, Hakkert and Company.
-* Times of London, The, 1970, “Earl Russell, OM FRS”, *The Times*, 03 February (issue 57784), 12.
-* Urquhart, Alasdair, 1988, “Russell’s Zig-Zag Path to the Ramified Theory of Types,” *Russell*, 8: 82–91.
-* Vellacott, Jo, 1980, *Bertrand Russell and the Pacifists in the First World War*, Brighton, Sussex: Harvester Press.
-* Wahl, Russell, 2011, “The Axiom of Reducibility,” in Nicholas Griffin, Bernard Linsky and Kenneth Blackwell (2011) *Principia Mathematica at 100*, in *Russell* (Special Issue), 31(1): 45–62.
-* ––– (ed.), 2018, *The Bloomsbury Companion to Bertrand Russell*, New York and London: Bloomsbury Publishing.
-* Weidlich, Thom, 2000, *Appointment Denied: The Inquisition of Bertrand Russell*, Amherst, New York: Prometheus Books.
-* Weitz, Morris, 1944, “Analysis and the Unity of Russell’s Philosophy,” in Paul Arthur Schilpp (ed.), *The Philosophy of Bertrand Russell*, 3rd edn, New York: Tudor, 1951, 55–121.
-* Wittgenstein, Ludwig, 1921, *Logisch-philosophische Abhandlung*; trans. as *Tractatus Logico-Philosophicus*, London: Kegan Paul, Trench, Trubner, 1922.
-* –––, 1956, *Remarks on the Foundations of Mathematics*, Oxford: Blackwell.
-* Wilczek, Gerhard, 2010, *Important Scientists and Philosophers of Our Times*, Munich: Buch & Media.
-* Wood, Alan, 1957, *Bertrand Russell: The Passionate Sceptic*, London: Allen and Unwin.
+* Andersson, Stefan, 1994, _In Quest of Certainty_, Stockholm: Almqvist & Wiksell.
+* Ayer, A.J., 1971, _Russell and Moore_, Cambridge: Harvard University Press.
+* –––, 1972a, “Bertrand Russell as a Philosopher,” _Proceedings of the British Academy_, 58: 127–151; reprinted in A.D. Irvine (ed.) (1999) _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, Volume 1, 65–85.
+* –––, 1972b, _Russell_, London: Fontana/Collins.
+* Banks, Erik C., 2014, _The Realistic Empiricism of Mach, James and Russell: Neutral Monism Reconceived_, Cambridge: Cambridge University Press.
+* Blackwell, Kenneth, 1983, “‘Perhaps You will Think Me Fussy …’: Three Myths in Editing Russell’s _Collected Papers_,” in H.J. Jackson (ed.), _Editing Polymaths_, Toronto: Committee for the Conference on Editorial Problems, 99–142.
+* –––, 1985, _The Spinozistic Ethics of Bertrand Russell_, London: George Allen and Unwin.
+* –––, and Harry Ruja, 1994, _A Bibliography of Bertrand Russell_, 3 volumes, London: Routledge.
+* Blitz, David, 2002, “Did Russell Advocate Preventive Atomic War Against the USSR?” _Russell_, 22: 5–45.
+* Bostock, David, 2012, _Russell’s Logical Atomism_, Oxford: Oxford University Press.
+* Broad, C.D., 1973, “Bertrand Russell, as Philosopher,” _Bulletin of the London Mathematical Society_, 5: 328–341; reprinted in A.D. Irvine (ed.) (1999) _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, vol 1, 1–15.
+* Burke, Tom, 1994, _Dewey’s New Logic: A Reply to Russell_, Chicago: University of Chicago Press.
+* Carnap, Rudolf, 1931, “The Logicist Foundations of Mathematics,” _Erkenntnis_, 2: 91–105; reprinted in Paul Benacerraf, and Hilary Putnam (eds.), _Philosophy of Mathematics_, 2nd edn, Cambridge: Cambridge University Press, 1983, 41–52; reprinted in E.D. Klemke (ed.), _Essays on Bertrand Russell_, Urbana: University of Illinois Press, 1970, 341–354; and reprinted in David F. Pears (ed.), _Bertrand Russell: A Collection of Critical Essays_, Garden City, New York: Anchor Books, 1972, 175–191.
+* Chalmers, David J., 1996, _The Conscious Mind: In Search of a Fundamental Theory_, Oxford: Oxford University Press.
+* Chomsky, Noam, 1971, _Problems of Knowledge and Freedom: The Russell Lectures_, New York: Vintage.
+* Church, Alonzo, 1974, “Russellian Simple Type Theory,” _Proceedings and Addresses of the American Philosophical Association_, 47: 21–33.
+* –––, 1976, “Comparison of Russell’s Resolution of the Semantical Antinomies with That of Tarski,” _Journal of Symbolic Logic_, 41: 747–760; reprinted in A.D. Irvine, _Bertrand Russell: Critical Assessments_, Volume 2, New York and London: Routledge, 1999, 96–112.
+* Clark, Ronald William, 1975, _The Life of Bertrand Russell_, London: Jonathan Cape and Weidenfeld & Nicolson.
+* –––, 1981, _Bertrand Russell and His World_, London: Thames and Hudson.
+* Collins, Jordan E., 2012, _A History of the Theory of Types: Developments after the Second Edition of_ Principia Mathematica, Saarbrücken: Lambert Academic Publishing.
+* Copi, Irving, 1971, _The Theory of Logical Types_, London: Routledge and Kegan Paul.
+* Demopoulos, William, 2013, _Logicism and Its Philosophical Legacy_, London and New York: Cambridge University Press.
+* Dewey, John, and Horace M. Kallen (eds.), 1941, _The Bertrand Russell Case_, New York: Viking.
+* Doxiadis, Apostolos, and Christos Papadimitriou, 2009, _Logicomix: An Epic Search for Truth_, New York: St Martin’s Press.
+* Duffy, Bruce, 1987, _The World as I Found It_, New York: Ticknor & Fields.
+* Eames, Elizabeth R., 1967, “The Consistency of Russell’s Realism,” _Philosophy and Phenomenological Research_, 27: 502–511.
+* –––, 1969, _Bertrand Russell’s Theory of Knowledge_, London: George Allen and Unwin.
+* –––, 1989, _Bertrand Russell’s Dialogue with his Contemporaries_, Carbondale: Southern Illinois University Press.
+* Eliot, T.S., 1917, “Mr Apollinax”, _Prufrock and Other Observations_, London: Egoist Press.
+* Elkind, Landon D.C. and Gregory Landini (eds.), 2018, _The Philosophy of Logical Atomism: A Centenary Reappraisal_, London: Palgrave Macmillan.
+* Feinberg, Barry, and Ronald Kasrils (eds.), 1969, _Dear Bertrand Russell_, London: George Allen and Unwin.
+* –––, 1973, 1983, _Bertrand Russell’s America_, 2 volumes, London: George Allen and Unwin.
+* Gabbay, Dov M., and John Woods (eds.), 2009, _Handbook of the History of Logic: Volume 5 — Logic From Russell to Church_, Amsterdam: Elsevier/North Holland.
+* Galaugher, Jolen, 2013, _Russell’s Philosophy of Logical Analysis_, London: Palgrave Macmillan.
+* Gandon, Sébastien, 2012, _Russell’s Unknown Logicism_, New York: Palgrave Macmillan.
+* Gandy, R.O., 1973, “Bertrand Russell, as Mathematician,” _Bulletin of the London Mathematical Society_, 5: 342–348; reprinted in A.D. Irvine, _Bertrand Russell: Critical Assessments_, Volume 1, New York and London: Routledge, 1999, 16–23.
+* Gödel, Kurt, 1944, “Russell’s Mathematical Logic,” in Paul Arthur Schilpp (ed.), _The Philosophy of Bertrand Russell_, 3rd edn, New York: Tudor, 1951, 123–153; reprinted in Paul Benacerraf and Hilary Putnam (eds.), _Philosophy of Mathematics_, 2nd edn, Cambridge: Cambridge University Press, 1983, 447–469; reprinted in David F. Pears (ed.) (1972) _Bertrand Russell: A Collection of Critical Essays_, Garden City, New York: Anchor Books, 192–226; and reprinted in A.D. Irvine (ed.) _Bertrand Russell: Critical Assessments_, Volume 2, New York and London: Routledge, 1999, 113–134.
+* Grattan-Guinness, I., 1977, _Dear Russell, Dear Jourdain: A Commentary on Russell’s Logic, Based on His Correspondence with Philip Jourdain_, New York: Columbia University Press.
+* –––, 2000, _The Search for Mathematical Roots, 1870–1940_, Princeton, Oxford: Princeton University Press.
+* Griffin, Nicholas, 1991, _Russell’s Idealist Apprenticeship_, Oxford: Clarendon.
+* ––– (ed.), 2003, _The Cambridge Companion to Bertrand Russell_, Cambridge: Cambridge University Press.
+* ––– (ed.), 2014, _Bertrand Russell, A Pacifist at War: Letters and Writings 1914–1918_, Nottingham: Spokesman Books.
+* –––, and Dale Jacquette (eds.), 2009, _Russell vs Meinong: the Legacy of “On Denoting”_, New York: Routledge.
+* –––, and Bernard Linsky (eds.), 2013, _The Palgrave Centenary Companion to Principia Mathematica_, London: Palgrave Macmillan.
+* –––, and Bernard Linsky and Kenneth Blackwell (eds.), 2011, _Principia Mathematica at 100_, Hamilton, ON: Bertrand Russell Research Centre; also published as Special Issue Volume 31, Number 1 of _Russell_.
+* Hager, Paul J., 1994, _Continuity and Change in the Development of Russell’s Philosophy_, Dordrecht: Nijhoff.
+* Hardy, Godfrey H., 1942, _Bertrand Russell and Trinity_, Cambridge: Cambridge University Press, 1970.
+* Hintikka, Jaakko, 2009, “Logicism”, in A.D. Irvine (ed.), _Philosophy of Mathematics_, Amsterdam: Elsevier/North Holland, 271–290.
+* Hochberg, Herbert, 2001, _Russell, Moore, and Wittgenstein_, New York: Hansel-Hohenhausen.
+* Hook, Sidney, 1966, “Lord Russell and the War Crimes Trial”, _The New Leader_, 49 (24 October); reprinted in A.D. Irvine (ed.) (1999) _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, Volume 4, 181.
+* –––, 1976, “Bertrand Russell the Man”, _Commentary_, July 1976, 52–54.
+* Huxley, Aldous, 1921, _Chrome Yellow_, London: Chatto & Windus.
+* Hylton, Peter W., 1990a, _Russell, Idealism, and the Emergence of Analytic Philosophy_, Oxford: Clarendon.
+* –––, 1990b, “Logic in Russell’s Logicism,” in David Bell and Neil Cooper (eds.), _The Analytic Tradition: Philosophical Quarterly Monographs_, Volume 1, Cambridge: Blackwell, 137–172.
+* Ironside, Philip, 1996, _The Social and Political Thought of Bertrand Russell: The Development of an Aristocratic Liberalism_, London: Cambridge University Press.
+* Irvine, A.D., 1989, “Epistemic Logicism and Russell’s Regressive Method,” _Philosophical Studies_, 55: 303–327.
+* –––, 1996, “Bertrand Russell and Academic Freedom,” _Russell_, 16: 5–36.
+* ––– (ed.), 1999, _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge.
+* –––, 2004, “Russell on Method,” in Godehard Link (ed.), _One Hundred Years of Russell’s Paradox_, Berlin and New York: Walter de Gruyter, 481–500.
+* ––– (ed.), 2009, _Philosophy of Mathematics_, Amsterdam: Elsevier/North Holland.
+* –––, and G.A. Wedeking (eds.), 1993, _Russell and Analytic Philosophy_, Toronto: University of Toronto Press.
+* Jager, Ronald, 1972, _The Development of Bertrand Russell’s Philosophy_, London: George Allen and Unwin.
+* Kaplan, David, 1970, “What is Russell’s Theory of Descriptions?” in Wolfgang Yourgrau and Allen D. Breck, (eds.), _Physics, Logic, and History_, New York: Plenum, 277–288; reprinted in David F. Pears (ed.), _Bertrand Russell: A Collection of Critical Essays_, Garden City, New York: Anchor Books, 1972, 227–244.
+* Kayden, Eugene M., 1930, “A Tract on Sex and Marriage,” _Sewanee Review_, 38: 104–108; reprinted in A.D. Irvine (ed.) 1999, _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, Volume 4, 86–89.
+* Klement, Kevin C., 2001, “Russell’s Paradox in Appendix B of the Principles of Mathematics: Was Frege’s Response Adequate?” _History and Philosophy of Logic_, 22: 13–28.
+* –––, 2003, “Russell’s 1903–05 Anticipation of the Lambda Calculus,” _History and Philosophy of Logic_, 24: 15–37.
+* –––, 2010, “The Functions of Russell’s No Class Theory,” _Review of Symbolic Logic_, 3–4: 633–664.
+* –––, 2012, “Neo-logicism and Russell’s Logicism,” _Russell_, 32: 127–59.
+* Klemke, E.D. (ed.), 1970, _Essays on Bertrand Russell_, Urbana: University of Illinois Press.
+* Korhonen, Anssi, 2013, _Logic as Universal Science: Russell’s Early Logicism and Its Philosophical Context_, London: Palgrave Macmillan.
+* Kreisel, Georg, 1973, “Bertrand Arthur William Russell, Earl Russell: 1872–1970,” _Biographical Memoirs of Fellows of the Royal Society_, 19, 583–620; reprinted in A.D. Irvine (ed.) (1999) _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, Volume 1, 24–64.
+* Kroon, Fred W., 2006, “Russellian Descriptions and Meinongian Assumptions,” in A. Bottani and R. Davies (eds.), _Modes of Existence: Papers in Ontology and Philosophical Logic_, Heusenstamm: Ontos Verlag, 83–106.
+* –––, 2009, “Existence in the Theory of Definite Descriptions,” _Journal of Philosophy_, 106: 365–389.
+* Landini, Gregory, 1998, _Russell’s Hidden Substitutional Theory_, New York and Oxford: Oxford University Press.
+* –––, 2002, “Russell’s Theory of Definite Descriptions as a Paradigm for Philosophy,” in Dale Jacquette, _A Companion to Philosophical Logic_, Oxford: Blackwell, 2002, pp. 194–223.
+* –––, 2011, _Russell_, London and New York: Routledge.
+* Lapointe, Sandra (ed.), 2018, _Logic from Kant to Russell: Laying the Foundations for Analytic Philosophy_, London and New York: Routledge.
+* Lebens, Samuel, 2017, _Bertrand Russell and the Nature of Propositions: A History and Defence of the Multiple Relation Theory of Judgement_, London and New York: Routledge.
+* Leithauser, Gladys Garner, and Nadine Cowan Dyer, 1982, “Bertrand Russell and T.S. Eliot: Their Dialogue,” _Russell_, 2: 7–28.
+* Lewis, John, 1968, _Bertrand Russell: Philosopher and Humanist_, London: Lawrence and Wishart.
+* Link, Godehard (ed.), 2004, _One Hundred Years of Russell’s Paradox_, Berlin and New York: Walter de Gruyter.
+* Linsky, Bernard, 1990, “Was the Axiom of Reducibility a Principle of Logic?” _Russell_, 10: 125–140; reprinted in A.D. Irvine (ed.), _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, 1999, Volume 2, 150–264.
+* –––, 1999, _Russell’s Metaphysical Logic_, Stanford: CSLI Publications.
+* –––, 2002, “The Resolution of Russell’s Paradox in _Principia Mathematica_,” _Philosophical Perspectives_, 16: 395–417.
+* –––, 2011, _The Evolution of Principia Mathematica: Bertrand Russell’s Manuscripts and Notes for the Second Edition_, Cambridge: Cambridge University Press.
+* –––, 2013, “Ernst Schroeder and Zermelo’s Anticipation of Russell’s Paradox,” in Karine Fradet and François Lepage, _La crise des fondements:quelle crise?_, Montréal: Les Cahiers d’Ithaque, 7–23; trans. by Chen Lei as “Luosu Beilun de Yuyanzhe: Shiluode yu Cemeiluo,” _Shijie Zhexue_, 3 (2013): 136–144.
+* –––, and Guido Imaguire (eds.), 2005, _On Denoting 1905–2005_, Munich: Philosophia-Verlag.
+* Lycan, William, 1981, “Logical Atomism and Ontological Atoms,” _Synthese_, 46: 207–229.
+* Maclean, Gülberk Koç, 2014, _Bertrand Russell’s Bundle Theory of Particulars_, London and New York: Bloomsbury Academic.
+* Mares, Edwin, 2007, “The Fact Semantics for Ramified Type Theory and the Axiom of Reducibility” _Notre Dame Journal of Formal Logic_, 48 (2): 237–251.
+* Mayo-Wilson, Conor, 2011, “Russell on Logicism and Coherence,” in Nicholas Griffin, Bernard Linsky and Kenneth Blackwell (2011) _Principia Mathematica at 100_, in _Russell_ (Special Issue), 31(1): 63–79.
+* Monk, Ray, 1996, _Bertrand Russell: The Spirit of Solitude_, London: Jonathan Cape.
+* –––, 2000, _Bertrand Russell: The Ghost of Madness_, London: Jonathan Cape.
+* –––, and Anthony Palmer (eds.), 1996, _Bertrand Russell and the Origins of Analytic Philosophy_, Bristol: Thoemmes Press.
+* Monro, D.H., 1960, “Russell’s Moral Theories,” _Philosophy_, 35: 30–50; reprinted in David F. Pears (ed.), _Bertrand Russell: A Collection of Critical Essays_, Garden City, New York: Anchor Books, 1972, 325–355; and reprinted in A.D. Irvine, _Bertrand Russell: Critical Assessments_, Volume 4, New York and London: Routledge, 1999, 65–85.
+* Moorehead, Caroline, 1992, _Bertrand Russell_, New York: Viking.
+* Nagel, Thomas, 2002, _Concealment and Exposure and Other Essays_, New York: Oxford University Press.
+* Nakhnikian, George (ed.), 1974, _Bertrand Russell’s Philosophy_, London: Duckworth.
+* Nasim, Omar W., 2012, “The Spaces of Knowledge: Bertrand Russell, Logical Construction, and the Classification of the Sciences,” _British Journal for the History of Philosophy_, 20: 1163–1182.
+* Nobel Media, 2020, “The Nobel Prize in Literature 1950,” \[[Nobel Media 2020 available online](https://www.nobelprize.org/prizes/literature/1950/summary)].
+* Ongley, John, and Rosalind Carey, 2013, _Russell: A Guide for the Perplexed_, London and New York: Bloomsbury.
+* Park, Joe, 1963, _Bertrand Russell on Education_, Columbus: Ohio State University Press.
+* Patterson, Wayne, 1993, _Bertrand Russell’s Philosophy of Logical Atomism_, New York: Lang.
+* Pears, David F., 1967, _Bertrand Russell and the British Tradition in Philosophy_, London: Collins.
+* ––– (ed.), 1972, _Bertrand Russell: A Collection of Critical Essays_, New York: Doubleday.
+* Perkins, Ray, Jr, 1994, “Bertrand Russell and Preventive War,” _Russell_, 14: 135–53.
+* Pitt, Jack, 1975, “Russell on Religion,” _International Journal for Philosophy of Religion_, 6: 40–53; reprinted in A.D. Irvine (ed.) 1999, _Bertrand Russell: Critical Assessments_, 4 volumes, London: Routledge, Volume 4, 152–163.
+* Popper, Karl, 1956, “The History of Our Time: An Optimist’s View,” in _Conjectures and Refutations_, 4th edition, London and Henley: Routlege and Kegan Paul, 1972, 364–76.
+* Potter, Michael, 2009, _Wittgenstein’s Notes on Logic_, Oxford: Oxford University Press.
+* Potter, Michael K., 2006, _Bertrand Russell’s Ethics_, London and New York: Continuum Books.
+* Proops, Ian, 2006, “Russell’s Reasons for Logicism,” _Journal of the History of Philosophy_, 44: 267–292.
+* Putnam, Hilary, 1967, “The Thesis that Mathematics is Logic,” in Ralph Schoenman (ed.), _Bertrand Russell: Philosopher of the Century_, London: Allen and Unwin, 273–303; reprinted in Hilary Putnam, _Mathematics, Matter and Method_, Cambridge: Cambridge University Press, 1975, 12–42.
+* Quine, W.V., 1938, “On the Theory of Types,” _Journal of Symbolic Logic_, 3: 125–139.
+* –––, 1960, _Word and Object_, Cambridge: MIT Press.
+* –––, 1966a, _Selected Logic Papers_, New York: Random House.
+* –––, 1966b, _Ways of Paradox_, New York: Random House.
+* –––, 1966c, “Russell’s Ontological Development,” _Journal of Philosophy_, 63: 657–667; reprinted in E.D. Klemke, _Essays on Bertrand Russell_, Urbana, Chicago, London: University of Illinois Press, 3–14.
+* Ramsey, Frank P., 1931, _The Foundations of Mathematics_, London: Kegan Paul, Trench, Trubner.
+* –––, 1990, _Philosophical Papers_, Cambridge: Cambridge University Press.
+* Roberts, George W. (ed.), 1979, _Bertrand Russell Memorial Volume_, London: Allen and Unwin.
+* Rodríguez-Consuegra, Francisco A., 1991, _The Mathematical Philosophy of Bertrand Russell: Origins and Development_, Basel: Birkhauser; reprinted 1993.
+* Russell, Dora, 1975, 1981, 1985, _The Tamarisk Tree_, 3 volumes, New York: Putnam.
+* Ryan, Alan, 1988, _Bertrand Russell: A Political Life_, New York: Hill and Wang.
+* Savage, C. Wade, and C. Anthony Anderson (eds.), 1989, _Rereading Russell: Essays on Bertrand Russell’s Metaphysics and Epistemology_, Minneapolis: University of Minnesota Press.
+* Schilpp, Paul Arthur (ed.), 1944, _The Philosophy of Bertrand Russell_, Chicago: Northwestern University.
+* Schoenman, Ralph (ed.), 1967, _Bertrand Russell: Philosopher of the Century_, London: Allen and Unwin.
+* Schultz, Bart, 1992, “Bertrand Russell in Ethics and Politics,” _Ethics_, 102: 594–634.
+* Shapiro, Stewart (ed.), 2005, _The Oxford Handbook of Philosophy of Mathematics and Logic_, Oxford: Oxford University Press.
+* Slater, John G., 1994, _Bertrand Russell_, Bristol: Thoemmes.
+* Soames, Scott, 2014, _The Analytic Tradition in Philosophy_ (Volume 1: The Founding Giants. Princeton), Princeton: Princeton University Press.
+* Stevens, Graham, 2005, _The Russellian Origins of Analytical Philosophy_, London and New York: Routledge.
+* –––, 2011, _The Theory of Descriptions_, New York: Palgrave Macmillan.
+* Stone, I.F., 1981, “Bertrand Russell as a Moral Force in World Politics,” _Russell_, 1: 7–25.
+* Stone, Peter, 2003, “Ray Monk and the Politics of Bertrand Russell,” _Russell_, 23: 82–91.
+* Strawson, Peter F., 1950, “On Referring,” _Mind_, 59: 320–344; reprinted in Anthony Flew (ed.), _Essays in Conceptual Analysis_, London: Macmillan, 1960, 21–52, and reprinted in E.D. Klemke (ed.), _Essays on Bertrand Russell_, Urbana: University of Illinois Press, 1970, 147–172.
+* –––, 1984, “First Steps in Superiority,” _Times Literary Supplement_, 3 February 1984, 104.
+* Sullivan, Arthur, 2013, _Reference and Structure in the Philosophy of Language: A Defense of the Russellian Orthodoxy_, London and New York: Routledge.
+* Swanson, Carolyn, 2011, _Reburial of Nonexistents: Reconsidering the Meinong-Russell Debate_, Amsterdam/New York: Rodopi.
+* –––, 2019, “Russell,” in G. Oppy (ed.), _A Companion to Atheism and Philosophy_, Oxford: Wiley, 83–96.
+* Tait, Katharine, 1975, _My Father Bertrand Russell_, New York: Harcourt Brace Jovanovich.
+* Thomas, John E., and Kenneth Blackwell (eds.), 1976, _Russell in Review_, Toronto: Samuel Stevens, Hakkert and Company.
+* Times of London, The, 1970, “Earl Russell, OM FRS”, _The Times_, 03 February (issue 57784), 12.
+* Urquhart, Alasdair, 1988, “Russell’s Zig-Zag Path to the Ramified Theory of Types,” _Russell_, 8: 82–91.
+* Vellacott, Jo, 1980, _Bertrand Russell and the Pacifists in the First World War_, Brighton, Sussex: Harvester Press.
+* Wahl, Russell, 2011, “The Axiom of Reducibility,” in Nicholas Griffin, Bernard Linsky and Kenneth Blackwell (2011) _Principia Mathematica at 100_, in _Russell_ (Special Issue), 31(1): 45–62.
+* ––– (ed.), 2018, _The Bloomsbury Companion to Bertrand Russell_, New York and London: Bloomsbury Publishing.
+* Weidlich, Thom, 2000, _Appointment Denied: The Inquisition of Bertrand Russell_, Amherst, New York: Prometheus Books.
+* Weitz, Morris, 1944, “Analysis and the Unity of Russell’s Philosophy,” in Paul Arthur Schilpp (ed.), _The Philosophy of Bertrand Russell_, 3rd edn, New York: Tudor, 1951, 55–121.
+* Wittgenstein, Ludwig, 1921, _Logisch-philosophische Abhandlung_; trans. as _Tractatus Logico-Philosophicus_, London: Kegan Paul, Trench, Trubner, 1922.
+* –––, 1956, _Remarks on the Foundations of Mathematics_, Oxford: Blackwell.
+* Wilczek, Gerhard, 2010, _Important Scientists and Philosophers of Our Times_, Munich: Buch & Media.
+* Wood, Alan, 1957, _Bertrand Russell: The Passionate Sceptic_, London: Allen and Unwin.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=russell). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/russell/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=russell&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/russell/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=russell).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/russell/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=russell\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/russell/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-* [Bertrand Russell](http://www.bbc.co.uk/programmes/b01p8fsr) (BBC In Our Time, 2012)
-* [Bertrand Russell](http://genealogy.math.ndsu.nodak.edu/id.php?id=66811) (Mathematics Genealogy Project)
-* [Bertrand Russell](http://www.npg.org.uk/collections/search/person/mp03901/bertrand-arthur-william-russell-3rd-earl-russell?search=sas&sText=bertrand+russell) (National Portrait Gallery)
-* [Bertrand Russell](https://mathshistory.st-andrews.ac.uk/Biographies/Russell/) (University of St Andrew’s MacTutor History of Mathematics Archive)
+* [Bertrand Russell](http://www.bbc.co.uk/programmes/b01p8fsr) (BBC In Our Time, 2012)
+* [Bertrand Russell](http://genealogy.math.ndsu.nodak.edu/id.php?id=66811) (Mathematics Genealogy Project)
+* [Bertrand Russell](http://www.npg.org.uk/collections/search/person/mp03901/bertrand-arthur-william-russell-3rd-earl-russell?search=sas\&sText=bertrand+russell) (National Portrait Gallery)
+* [Bertrand Russell](https://mathshistory.st-andrews.ac.uk/Biographies/Russell/) (University of St Andrew’s MacTutor History of Mathematics Archive)
 * [Bertrand Russell Archives](http://www.mcmaster.ca/russdocs/russell.htm)
-* [Bertrand Russell Collected Letters](http://www.humanities.mcmaster.ca/~russell/brletters.htm)
-* [Bertrand Russell Collected Papers](http://www.humanities.mcmaster.ca/~russell/brprojct.htm)
-* [Bertrand Russell Gallery](http://www.humanities.mcmaster.ca/~bertrand/)
-* [Bertrand Russell Research Centre](http://www.humanities.mcmaster.ca/~russell/)
+* [Bertrand Russell Collected Letters](http://www.humanities.mcmaster.ca/\~russell/brletters.htm)
+* [Bertrand Russell Collected Papers](http://www.humanities.mcmaster.ca/\~russell/brprojct.htm)
+* [Bertrand Russell Gallery](http://www.humanities.mcmaster.ca/\~bertrand/)
+* [Bertrand Russell Research Centre](http://www.humanities.mcmaster.ca/\~russell/)
 * [Bertrand Russell Society](https://bertrandrussellsociety.org/)
-* [*Bertrand Russell Society Quarterly*](http://www.lehman.cuny.edu/faculty/rcarey/BRSQ/)
-* [Bertrand Russell’s *Introduction to Mathematical Philosophy*](http://people.umass.edu/klement/russell-imp.html)
+* [_Bertrand Russell Society Quarterly_](http://www.lehman.cuny.edu/faculty/rcarey/BRSQ/)
+* [Bertrand Russell’s _Introduction to Mathematical Philosophy_](http://people.umass.edu/klement/russell-imp.html)
 * [Bertrand Russell’s Nobel Prize in Literature (1950)](https://www.nobelprize.org/prizes/literature/1950/summary/)
-* [Copleston–Russell Debate on the Existence of God (1948)](http://thedailyhatch.org/2012/06/18/bertrand-russell-v-frederick-copleston-debate-transcript-and-audio-part-1/) (The Daily Hatch)
-* [*Russell: The Journal of Bertrand Russell Studies*](https://mulpress.mcmaster.ca/russelljournal/)
-* [Writings by Bertrand Russell](http://www.users.drew.edu/~jlenz/brtexts.html)
+* [Copleston–Russell Debate on the Existence of God (1948)](http://thedailyhatch.org/2012/06/18/bertrand-russell-v-frederick-copleston-debate-transcript-and-audio-part-1/) (The Daily Hatch)
+* [_Russell: The Journal of Bertrand Russell Studies_](https://mulpress.mcmaster.ca/russelljournal/)
+* [Writings by Bertrand Russell](http://www.users.drew.edu/\~jlenz/brtexts.html)
 
 ## Related Entries
 
-[descriptions](https://plato.stanford.edu/entries/descriptions/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [knowledge: by acquaintance vs. description](https://plato.stanford.edu/entries/knowledge-acquaindescrip/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logical atomism: Russell’s](https://plato.stanford.edu/entries/logical-atomism/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [neutral monism](https://plato.stanford.edu/entries/neutral-monism/) | [*Principia Mathematica*](https://plato.stanford.edu/entries/principia-mathematica/) | [*Principia Mathematica*: notation in](https://plato.stanford.edu/entries/pm-notation/) | [propositional function](https://plato.stanford.edu/entries/propositional-function/) | [Russell, Bertrand: moral philosophy](https://plato.stanford.edu/entries/russell-moral/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [type theory](https://plato.stanford.edu/entries/type-theory/) | [Whitehead, Alfred North](https://plato.stanford.edu/entries/whitehead/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
+[descriptions](https://plato.stanford.edu/entries/descriptions/) | [Frege, Gottlob](https://plato.stanford.edu/entries/frege/) | [Gödel, Kurt](https://plato.stanford.edu/entries/goedel/) | [knowledge: by acquaintance vs. description](https://plato.stanford.edu/entries/knowledge-acquaindescrip/) | [logic: classical](https://plato.stanford.edu/entries/logic-classical/) | [logical atomism: Russell’s](https://plato.stanford.edu/entries/logical-atomism/) | [logical constructions](https://plato.stanford.edu/entries/logical-construction/) | [logicism and neologicism](https://plato.stanford.edu/entries/logicism/) | [mathematics, philosophy of](https://plato.stanford.edu/entries/philosophy-mathematics/) | [Moore, George Edward](https://plato.stanford.edu/entries/moore/) | [neutral monism](https://plato.stanford.edu/entries/neutral-monism/) | [_Principia Mathematica_](https://plato.stanford.edu/entries/principia-mathematica/) | [_Principia Mathematica_: notation in](https://plato.stanford.edu/entries/pm-notation/) | [propositional function](https://plato.stanford.edu/entries/propositional-function/) | [Russell, Bertrand: moral philosophy](https://plato.stanford.edu/entries/russell-moral/) | [Russell’s paradox](https://plato.stanford.edu/entries/russell-paradox/) | [type theory](https://plato.stanford.edu/entries/type-theory/) | [Whitehead, Alfred North](https://plato.stanford.edu/entries/whitehead/) | [Wittgenstein, Ludwig](https://plato.stanford.edu/entries/wittgenstein/)
 
 ### Acknowledgments
 
 Thanks are due to Kenneth Blackwell, Francisco Rodríguez-Consuegra, Fred Kroon, Mark Mercer, Jim Robinson, Russell Wahl, John Woods and several anonymous referees for their helpful comments on earlier versions of this material.
 
-[Copyright © 2020](https://plato.stanford.edu/info.html#c) by  
-[Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html) <[*andrew.irvine@ubc.ca*](mailto:andrew%2eirvine%40ubc%2eca)>
+[Copyright © 2020](https://plato.stanford.edu/info.html#c) by\
+[Andrew David Irvine](http://phil.ok.ubc.ca/faculty/irvine.html) <[_andrew.irvine@ubc.ca_](mailto:andrew%2eirvine%40ubc%2eca)>

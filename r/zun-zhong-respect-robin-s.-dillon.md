@@ -1,6 +1,6 @@
 # 尊重 respect (Robin S. Dillon)
 
-*首次发表于 2003 年 9 月 10 日；实质性修订于 2022 年 7 月 2 日*
+_首次发表于 2003 年 9 月 10 日；实质性修订于 2022 年 7 月 2 日_
 
 尊重在日常生活中具有重要意义。作为孩子，我们被教导（希望如此）要尊重父母和老师、学校规则和交通法规、家庭和文化传统、他人的感受和权利、我们国家的旗帜和领导人、真理和人们不同的观点。我们开始珍视对这些事物的尊重；当我们长大后，我们可能对那些似乎没有学会尊重这些事物的人摇头（或愤怒）。我们对我们认为值得效仿的人怀有极大的尊重，对那些我们发现有缺点的人失去尊重；我们也可能相信，在某种程度上，所有人都值得尊重。我们可能会发现，如果在工作和人际关系中得不到尊重，生活将变得难以忍受；在某些社会环境中，如果我们违反了“侮辱我，你就会死”的街头法则，我们可能会了解到不尊重的代价。要求尊重这个或那个的呼声越来越成为公共生活的一部分：环保主义者敦促我们尊重自然，反对堕胎和死刑的人坚持尊重人的生命，种族和少数民族成员以及因性别、性取向、年龄、宗教信仰或经济地位而受到歧视的人要求在社会和道德上平等对待并尊重他们的文化差异。广泛认可的是，关于这些要求的公共辩论应该在相互尊重的条件下进行。我们可能会同时认识到，当我们尊重值得尊重的事物时，我们的生活会更好，并且我们应该独立于我们的生活如何发展的考虑而尊重某些事物。
 
@@ -10,7 +10,7 @@
 
 尽管在道德和政治生活和理论中广泛承认尊重和自尊的重要性，但在日常思维或哲学讨论中，对于如何理解这些概念、尊重的适当对象是什么、尊重各种对象涉及什么以及关于尊重和自尊的任何道德要求的范围是什么等问题，尚未达成一致意见。本条目将概述这些问题及相关问题。
 
----
+***
 
 ## 1. 尊重的概念
 
@@ -82,7 +82,7 @@ Darwall（1977）区分了两种尊重：认可尊重和评价尊重。认可尊
 
 为了人们本身的利益而行动，尊重他们，并不是追求或促进他们，而是将他们视为无条件有价值的存在。这也意味着我们对待人的方式受到一定的限制，因为作为一个目的本身也意味着有一个限制——就像道路的终点限制了我们的旅行一样，一个目的本身对我们设定的主观目标、追求目标的手段以及对待目的本身的方式都有绝对的限制。这样的存在绝不能被当作仅仅是手段来使用，就像他们只是我们为了实现自己目标而可以随意利用的工具一样。然而，请注意，将人作为我们目标的手段并不是错误的；事实上，如果我们不能利用其他人的才能、能力、服务和劳动，我们在生活中将无法继续前进。我们绝不能将人仅仅当作我们目标的手段来对待，将他们视为仅仅因为对我们有用而有价值的东西。相反，我们必须始终将他们“同时视为一个目的”。
 
-康德认为，作为自身目的的人具有尊严（《道德形而上学》（The Metaphysics of Morals）（1797），6：435）。但是尊严是什么？直到最近一个世纪左右，“尊严”（源自拉丁语 dignitas，意为“有价值”）指的是与贵族、权力职位和高级教堂职位相关联的高社会地位。尊严因此将社会重要人物与平民区分开来，后者没有尊严（Debes 2017）。康德认为每个人都有尊严，这标志着一种估值的革命（但请参见 Dean 2014 和 Hay 2012，他们认为只有道德良好的人才有尊严）。评论家们对于如何理解康德所说的尊严存在分歧（参见 Sensen 2017, 2011; Cureton 2013; Darwall 2008）。但最常见的解释是，尊严是一种独特的客观价值，是绝对的（不以任何人的需求、欲望或利益为条件，并且每个人都有充分的理由承认这种价值）；它是内在的（不是被赋予或获得的，也不会丧失或被剥夺）；它是无法比较的，是最高形式的价值（具有尊严的存在不能理性地被任何其他有价值的对象所替代或取代，可以说是无限有价值的，而不是价值  500 万）。
+康德认为，作为自身目的的人具有尊严（《道德形而上学》（The Metaphysics of Morals）（1797），6：435）。但是尊严是什么？直到最近一个世纪左右，“尊严”（源自拉丁语 dignitas，意为“有价值”）指的是与贵族、权力职位和高级教堂职位相关联的高社会地位。尊严因此将社会重要人物与平民区分开来，后者没有尊严（Debes 2017）。康德认为每个人都有尊严，这标志着一种估值的革命（但请参见 Dean 2014 和 Hay 2012，他们认为只有道德良好的人才有尊严）。评论家们对于如何理解康德所说的尊严存在分歧（参见 Sensen 2017, 2011; Cureton 2013; Darwall 2008）。但最常见的解释是，尊严是一种独特的客观价值，是绝对的（不以任何人的需求、欲望或利益为条件，并且每个人都有充分的理由承认这种价值）；它是内在的（不是被赋予或获得的，也不会丧失或被剥夺）；它是无法比较的，是最高形式的价值（具有尊严的存在不能理性地被任何其他有价值的对象所替代或取代，可以说是无限有价值的，而不是价值 500 万）。
 
 在为尊重人的尊严辩护时，康德明确拒绝了其他两种人类价值观的观念：贵族荣誉观念，即个人根据其社会地位、个人成就或道德品德而不同地获得荣誉（关于贵族荣誉的维度，请参见 Darwall 2013; Berger 1983），以及霍布斯明确表达的观点：
 
@@ -184,532 +184,532 @@ Rawls 的观点是，个体尊重自己的能力在很大程度上取决于他�
 
 ### Philosophical works chiefly on respect and related concepts
 
-* Addis, A., 1997, “On Human Diversity and the Limits of Toleration,” in *Ethnicity and Group Rights* (*Nomos* 39), I. Shapiro and W. Kymlicka (eds.), New York: New York University Press.
-* Anderson, E., 1999, “What is the Point of Equality?” *Ethics*, 109: 287–337.
-* –––, 1993, *Value in Ethics and Economics*, Cambridge, MA: Harvard University Press.
-* Andrews, J.N., 1976, “Social Education and Respect for Others,” *Journal of Moral Education*, 5: 139–143.
-* Armitage, F., 2006, “Respect and Types of Injustice,” *Res Publica*, 12: 9–34.
-* Arnold, D.G. and Bowie, N.E., 2005, “Sweatshops and Respect,” *Business Ethics Quarterly*, 13(2): 221–242.
-* Arrington, R. L., 1978, “On Respect,” *Journal of Value Inquiry*, 12: 1–12.
-* Atwell, J.E., 1982, “Kant’s Notion of Respect for Persons,” in *Respect for Persons* (Tulane Studies in Philosophy, Volume 31), O.H. Green (ed.), New Orleans: Tulane University Press.
-* Bagnoli, C., 2021, “Respect and the Dynamics of Finitude,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2007, “Respect and Membership in the Moral Community,” *Ethical Theory and Moral Practice*, 10: 113–128.
-* –––, 2003, “Respect and Loving Attention,” *Canadian Journal of Philosophy*, 33: 483–516.
-* Baldner, K., 1990, “Realism and Respect,” *Between the Species*, 6: 1–8.
-* Balint, P., 2006, “Respect Relations in Diverse Societies,” *Res Publica*, 12: 35–57.
-* Barilan, M.Y. and Weintraub, M., 2001, “Persuasion as Respect for Persons: An Alternative View of Autonomy and the Limits of Discourse,” *Journal of Medicine and Philosophy*, 26: 13–33.
-* Barnes, A., 1990, “Some Remarks on Respect and Human Rights,” *Philosophical Studies*, (Ireland): 263–273.
-* Baron, M.W., 1997, “Love and Respect in the *Doctrine of Virtue*,” *The Southern Journal of Philosophy*, 36 (Supplement): 29–44.
-* Beauchamp, T.L. and Childress, J.F., 1979/2001, *Principles of Biomedical Ethics*, New York: Oxford University Press.
-* Beauchamp, T.L. and Walters, L., 1999, *Contemporary Issues in Bioethics*, 5th edition, Belmont, CA: Wadsworth.
-* Bell, M., 2013, *Hard Feelings: The Moral Psychology of Contempt*, New York: Oxford University Press
-* Benditt, T., 2008, “Why Respect Matters,” *Journal of Value Inquiry*, 42: 487–496.
-* Benhabib, S., 1991, *Situating the Self*, New York: Routledge.
-* Benn, S.I., 1988, *A Theory of Freedom*, Cambridge: Cambridge University Press.
-* –––, 1971, “Privacy, Freedom, and Respect for Persons,” in *Privacy* (*Nomos* 13), J. R. Pennock and J. W. Chapman (eds.), New York: Atherton Press.
-* Berger, P., 1983, “On the Obsolescence of the Concept of Honor,” in *Revisions: Changing Perspectives in Moral Philosophy*, S. Hauerwas and A. MacIntyre (eds.), Notre Dame, IN: University of Notre Dame Press.
-* Besch, T.M., 2014, “On Discursive Respect,” *Social Theory and Practice*, 40: 207–231.
-* Birch, T.H., 1993, “Moral Considerability and Universal Consideration,” *Environmental Ethics*, 15: 313–332.
-* Bird, C., forthcoming, *Human Dignity and Political Criticism*, Cambridge University Press.
-* –––, 2010, “Mutual Respect and Civic Education,” *Educational Philosophy and Theory*, 42: 112–128.
-* –––, 2004, “Status, Identity, and Respect,” *Political Theory*, 32: 207–232.
-* Blum, A., 1988, “On Respect,” *Philosophical Inquiry*, 10: 58–63.
-* Boettcher, J., 2007, “Respect, Recognition, and Public Reason,” *Social Theory and Practice*, 33: 223–249.
-* Bognar, G., 2011, “Respect for Nature,” *Ethics, Policy, and Environment*, 14: 147–149.
-* Bognar, G. and S. Kerstein, 2010, “Saving Lives and Respecting Persons,” *Journal of Ethics and Social Philosophy*, 5 (2): 1–21 [[Bognar and Kerstein 2010 available online](https://mail.jesp.org/index.php/jesp/article/view/51)] doi: 10.26556/jesp.v5i2
-* Brannigan, M.C. and Boss, J.A., 2001, *Health Care Ethics in a Diverse Society*, Mountain View, CA: Mayfield.
-* Brannmark, J., 2017, “Respect for Persons in Bioethics: Towards a Human Rights–Based Account,” *Human Rights Review*, 18: 171–187.
-* Bratu, C., 2017, “The Source of Moral Motivation and Actions We Owe to Others: Kant’s Theory of Respect,” in *The Roots of Respect: A Historical–Philosophical Itinerary*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Broadie, A. and Pybus, E.M., 1975, “Kant’s Concept of ‘Respect’,” *Kant-Studien*, 66: 58–64.
-* Brody, B.A., 1982, “Towards a Theory of Respect for Persons,” in *Respect for Persons*, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* Bunch, A., 2014, “Throwing Oneself Away: Kant on the Forfeiture of Respect,” *Kantian Review*, 19: 71–91.
-* Buss, S., “Valuing Autonomy and Respecting Persons: Manipulation, Seduction, and the Basis of Moral Constraints,” *Ethics*, 115: 195–235.
-* –––, 1999a, “Appearing Respectful: The Moral Significance of Manners,” *Ethics*, 109: 795–826.
-* –––, 1999b, “Respect for Persons,” *Canadian Journal of Philosophy*, 29: 517–550.
-* Carter, I., 2013, “Are Toleration and Respect Compatible?” *Journal of Applied Philosophy*, 30: 195–208.
-* –––, 2011, “Respect and the Basis of Equality,” *Ethics*, 121: 538–571.
-* Cary, P., 1996, “Believing the Word: A Proposal about Knowing Other Persons,” *Faith and Philosophy*, 13: 78–90.
-* Chadwick, R., 2017, “Ways of Showing Respect for Life,” *Bioethics*, 31: 494.
-* Chan, S., 2006, “The Confucian Notion of Jing (Respect),” *Philosophy East and West*, 56: 229–252.
-* Code, L., 1987, “Persons and Others,” in *Power, Gender, Values*, J. Genova (ed), Edmonton, Alberta: Academic Printing and Publishing.
-* Cohen, S., 2008, “Fundamental Equality and the Phenomenology of Respect,” *Iyyun*, 57: 25–53.
-* Collins, P., 2017, “The Value of Respect: What Does it Mean for an Army?” *Journal of Military Ethics*, 16: 2–19.
-* Connelly, J., 2006, “Respecting Nature?” *Res Publica*, 12: 97–105.
-* Cooke, M., 1995, “Selfhood and Solidarity,” *Constellations*, 1: 337–357.
-* Cooper, D.E., 2000, “The Virtue of Practical Reason and Moral Respect Across Cultures,” *Contemporary Philosophy*, 22: 20–28.
-* Corral, M., 2015, “Respect, Protection and Restoration: Preservation as a Negative or Positive Duty,” *Ethics, Policy, and Environment*, 18: 268–270.
-* Cottingham, J., 1983, “Punishment and Respect for Persons,” in *Law, Morality, and Rights*, M.A. Stewart (ed.), Dordrecht: Reidel.
-* Cranor, C.F., 1983, “On Respecting Human Beings as Persons,” *Journal of Value Inquiry*, 17: 103–117.
-* –––, 1982, “Limitations on Respect-for-Persons Theories,” in *Respect for Persons* (Tulane Studies in Philosophy, Vol. 31), O.H. Green (ed.), New Orleans: Tulane University Press.
-* –––, 1980, “Kant’s Respect-for-Persons Principle,” *International Studies in Philosophy*, 12(2): 19–39.
-* –––, 1975, “Toward a Theory of Respect for Persons,” *American Philosophical Quarterly*, 12: 309–320.
-* Cummiskey, D., 2008, “Dignity, Contractualism, and Consequentialism,” *Utilitas*, 16: 629–644.
-* –––, 1990, “Kantian Consequentialism,” *Ethics*, 100: 586–615.
-* Cureton, A., 2021, “Treating Disabled Adults as Children: An Appreciation of Kant’s Conception of Respect,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2020, “The Limiting Role of Respect,” in *The Oxford Handbook of Philosophy and Disability*, A. Cureton and D. Wasserman (eds.), Oxford: Oxford University Press.
-* Darby, D., 1999, “Are Worlds without Natural Rights Morally Impoverished?” *Southern Journal of Philosophy*, 37: 397–417.
-* Darwall, S., 2021, “On a Kantian Form of Respect: Before a Humble Common Man...My Spirit Bows,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2015, “Respect as Honor and as Accountability,” in *Reasons, Value, and Respect: Kantian Themes from the Philosophy of Thomas E. Hill, Jr.*, M. Timmons and R. Johnson (eds.), Oxford: Oxford University Press. Reprinted in S. Darwall, 2103, *Honor, History, and Relationship: Essays in Second-Personal Ethics II*, Oxford: Oxford University Press.
-* –––2014, “Respect, Concern, and Membership,” in *Social Capital, Social Identities: From Ownership to Belonging*, H.B. Schmid, C. Henning, and D. Thomä (eds.), Berlin: De Gruyter.
-* –––, 2010, “Sentiment, Care, and Respect,” *Theory and Research in Education*, 8: 153–162.
-* –––, 2008, “Kantian Respect, Dignity, and the Duty of Respect,” in *Kant’s Virtue Ethics*, M. Betzler (ed.), Berlin: Walter de Gruyter. Reprinted in S. Darwall, 2103, *Honor, History, and Relationship: Essays in Second-Personal Ethics II*, Oxford: Oxford University Press.
-* –––, 2006, *The Second Person Standpoint: Morality, Respect, and Accountability*, Cambridge, MA: Harvard University Press.
-* –––, 2004, “Respect and the Second Person Standpoint,” Presidential Address, Central Division of the American Philosophical Association, in *Proceedings and Addresses of the American Philosophical Association*, 78 (2): 43–59.
-* –––, 2001, “Because I Want It,” *Social Philosophy and Policy*, 18: 129–153.
-* –––, 1977, “Two Kinds of Respect,” *Ethics*, 88: 36–49; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Davis, R.W., 2017, “Rational Persuasion, Paternalism, and Respect,” *Res Publica*, 23: 513–522.
-* Dean, R., 2021, “The Peculiar Idea of Respect for a Capacity,” in *Respect for Persons**: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2014, “Respect for the Unworthy,” *Pacific Philosophical Quarterly*, 95: 293–313.
-* Dean, R. and O. Sensen (eds.), 2021, *Respect: Philosophical Essays*, Oxford: Oxford University Press.
-* Debes, R., 2012, “Respect: A History,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* ––– (ed.), 2017, *Dignity: A History*, New York: Oxford University Press.
-* Deigh, J., 1982, “Respect and the Right to be Punished,” *Tulane Studies in Philosophy*, 31: 169–182.
-* Delue, S., 2006, “Martin Buber and Immanuel Kant on Mutual Respect and the Liberal State,” *Janus Head*, 9: 117–137.
-* DeMarco, J.P., 1974, “Respect for Persons: Some Prerequisites,” *Philosophy in Context*, 3: 33–37.
-* Deveaux, M., 1998, “Toleration and Respect,” *Public Affairs Quarterly*, 12: 407–427.
-* Diggs, B.J., 1981, “A Contractarian View of Respect for Persons,” *American Philosophical Quarterly*, 18: 273–283.
-* Dillon, R.S., 2020, “Respect for Persons,” in *Routledge Encyclopedia of Philosophy*, Taylor and Francis [[Dillon 2020 available online](https://www.rep.routledge.com/articles/thematic/respect-for-persons/v-2)] doi: 10.4324/9780415249126-LO84-2.
-* –––, 2010, “Respect for Persons, Identity, and Information Technology,” *Ethics and Information Technology*, 11: 17–28.
-* –––, 1992a, “Respect and Care: Toward Moral Integration,” *Canadian Journal of Philosophy*, 22: 105–132.
-* –––, 1991, “Care and Respect,” in *Explorations in Feminist Ethics: Theory and Practice*, E.B. Cole and S. Coultrap-McQuin (eds.), Bloomington: Indiana University Press.
-* Donagan, A., 1977, *The Theory of Morality*. Chicago: University of Chicago Press.
-* Downie, R.S., and Telfer, E., 1969, *Respect for Persons*, London: George Allen and Unwin.
-* Drummond, J., 2006, “Respect as a Moral Emotion: A Phenomenological Approach,” *Husserl Studies*, 22: 1–27.
-* Dworkin, R., 1985, “Liberalism,” in *A Matter of Principle*, Cambridge, MA: Harvard University Press.
-* –––, 1977, *Taking Rights Seriously*, Cambridge, MA: Harvard University Press.
-* Edel, A., 1974, “The Place of Respect for Persons in Moral Philosophy,” *Philosophy in Context*, 3: 23–32.
-* Fabi, R., 2016, “Respect for Persons, Not Respect for Citizens,” *American Journal of Bioethics*, 16: 69–70.
-* Fahmy, M.S., 2013, “Understanding Kant’s Duty of Respect as a Duty of Virtue,” *Journal of Moral Philosophy*, 10: 723–740.
-* Falls, M., 1987, “Retribution, Reciprocity, and Respect for Persons,” *Law and Philosophy*, 6: 25–51.
-* Farley, M.A., 1993, “A Feminist Version of Respect for Persons,” *Journal of Feminist Studies in Religion*, 9: 183–198.
-* Feinberg, J., 1975, “Some Conjectures on the Concept of Respect,” *Journal of Social Philosophy*, 4: 1–3.
-* –––, 1970, “The Nature and Value of Rights,” *Journal of Value Inquiry*, 4: 243–260.
-* Fiocco, M.O., 2012, “Is There a Right to Respect?” *Utilitas*, 24: 502–524.
-* Foreman, E., 2017, “Focusing Respect on Creatures,” *Journal of Value Inquiry*, 51: 593–609.
-* –––, 2015, “The Objects of Respect,” *Environmental Ethics*, 37: 57–73.
-* Formosa, P., 2017, *Kantian Ethics, Dignity, and Perfection*, Cambridge: Cambridge University Press.
-* Fotion, N. and Elfstrom, G., 1992, “Honor,” in *Encyclopedia of Ethics*, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
-* Frankena, W.K., 1986, “The Ethics of Respect for Persons,” *Philosophical Topics*, 14: 149–167.
-* Frankfurt, H.G., 1999, “Equality and Respect,” in Frankfurt, *Necessity, Volition, and Love*, Cambridge: Cambridge University Press.
-* Fried, C., 1978, *Right and Wrong*, Cambridge, MA: Harvard University Press.
-* Garry, A., 1978, “Pornography and Respect for Women,” *Social Theory and Practice*, 4: 395–421.
-* Garthoff, J., 2010, “Meriting Concern and Meriting Respect,” *Journal of Ethics and Social Philosophy*, 5(2): 1–29 [[Garthoff 2010 available online](https://mail.jesp.org/index.php/jesp/article/view/52)] doi: 10.26556/jesp.v5i2
-* Gaus, G.F., “Respect for Persons and Public Justification,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 1998, “Respect for Persons and Environmental Values,” in *Autonomy and Community: Readings in Contemporary Kantian Social Philosophy*, J. Kneller and S. Axinn (eds.), Albany: State University of New York Press.
-* Gauthier, D., 1963, *Practical Reasoning*, Oxford: Oxford University Press.
-* Gaylin, W., 1984, “In Defense of the Dignity of Being Human,” *The Hastings Center Report*, 14: 18–22.
-* Ghosh-Dastidar, K., 1987, “Respect for Persons and Self-Respect: Western and Indian,” *Journal of Indian Council of Philosophical Research*, 5: 83–93.
-* Gibbard, A., 1990, *Wise Choices, Apt Feelings: A Theory of Normative Judgment*, Cambridge, MA: Harvard University Press.
-* Giordano, S., 2005, “Respect for Equality and the Treatment of the Elderly,” *Cambridge Quarterly of Healthcare Ethics*, 14: 83–92.
-* Giorgini, G., 2017, “The Notion of Respect in Ancient Greek Poetry,” in *Roots of Respect: A Historical–Philosophical Itinerary*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Giorgini, G. and E. Irrera, 2017, “Recognition: A Philosophical Problem,” in *Roots of Respect: A Historical–Philosophical Itinerary*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Giorgini, G. and E. Irrera (eds.), 2017, *Roots of Respect: A Historical–Philosophical Itinerary*, Berlin: Walter de Gruyter.
-* Göbel, M. 2017, “Respect as the Foundation of Human Rights: To What Extent Can This View Be Attributed to Kant?” in *Roots of Respect: A Historical–Philosophical Itinerary*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Goodin, R., 1981, “The Political Theories of Choice and Dignity,” *American Philosophical Quarterly*, 8: 91–100.
-* Goodpaster, K., 1978, “On Being Morally Considerable,” *The Journal of Philosophy*, 75: 308–325.
-* Gosepath, S. 2015, “On the (Re)Construction and Basic Concepts of the Morality of Equal Respect,” in *Do All Persons Have Equal Moral Worth: On ‘Basic Equality’ and Equal Respect and Concern*, U. Steinhoff (ed.), Oxford: Oxford University Press.
-* Green, L., 2010, “Two Worries about Respect for Persons,” *Ethics*, 120: 212–128.
-* Green, O.H., ed., 1982, *Respect for Persons*, Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* Grenberg, J., 1999, “Anthropology from a Metaphysical Point of View,” *Journal of the History of Philosophy*, 37: 91–115.
-* Griffin, J., 1986, *Well-Being: Its Meaning, Measurement, and Importance*, Oxford: Clarendon Press.
-* Grill, K., 2015, “Respect for What?” *Social Theory and Practice*, 41: 692–715.
-* Groll, D., 2012, “Paternalism, Respect, and the Will,” *Ethics*, 122: 692–720.
-* Gruzalski, B., 1982, “Two Accounts of Our Obligations to Respect Persons,” in *Respect for Persons*, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* Hare, S., 1996, “The Paradox of Moral Humility,” *American Philosophical Quarterly*, 33: 235–241.
-* Harris, E.E., 1966, “Respect for Persons,” in *Ethics and Society: Original Essays on Contemporary Moral Problems*, R. DeGeorge (ed.), Garden City, NJ: Anchor.
-* Hay, C., 2012, “Respect–Worthiness and Dignity,” *Dialogue*, 51: 587–561.
-* Helm, B., 2017, *Communities of Respect: Grounding Responsibility, Authority, and Dignity*, Oxford: Oxford University Press.
-* Hepburn, R.W., 1998, “Nature Humanized: Nature Respected,” *Environmental Values*, 7: 267–279.
-* Herman, B., 1984, “Mutual Aid and Respect for Persons,” *Ethics*, 94: 577–602.
-* Hicks, D.C., 1971, “Respect for Persons and Respect for Living Things,” *Philosophy*, 46: 346–348.
-* Hill, T.E., Jr., 2021, “Beyond Respect and Beneficence: An Ideal of Appreciation,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2000a, “Basic Respect and Cultural Diversity,” in T.E. Hill, Jr., *Respect, Pluralism, and Justice: Kantian Perspectives*, Oxford: Oxford University Press.
-* –––, 2000b, “Must Respect Be Earned?” in T.E. Hill, Jr., *Respect, Pluralism, and Justice: Kantian Perspectives*, Oxford: Oxford University Press.
-* –––, 1998, “Respect for Persons,” *Routledge Encyclopedia of Philosophy*, E. Craig (ed.), London: Routledge.
-* –––, 1997, “Respect for Humanity,” in *The Tanner Lectures on Human Values* xviii, G. B. Peterson (ed.), Salt-Lake City: University of Utah Press; reprinted in Hill, 2000, *Respect, Pluralism, and Justice: Kantian Perspectives*, Oxford: Oxford University Press.
-* –––, 1993, “Donagan’s Kant,” *Ethics*, 104: 22–52; reprinted in Hill, *Respect, Pluralism, and Justice.*
-* –––, 1992, *Dignity and Practical Reason in Kant’s Moral Theory*, Ithaca: Cornell University Press.
-* Hinton, T., 2001, “Must Egalitarians Choose Between Fairness and Respect?” *Philosophy and Public Affairs*, 30: 72–87.
-* Hobbes, T., 1651/1958, *Leviathan*, Indianapolis: Bobbs-Merrill, The Library of Liberal Arts.
-* Holmgren, M., 1993, “Forgiveness and the Intrinsic Value of Persons,” *American Philosophical Quarterly*, 30: 341–352.
-* Honneth, A., 2007, *Disrespect*, Cambridge: Polity.
-* –––, 1995, *The Struggle for Recognition*, Cambridge: Polity.
-* –––, 1992, “Integrity and Disrespect: Principles of a Conception of Morality Based on the Theory of Recognition,” *Political Theory*, 20: 187–201.
-* Hudson, S.D., 1980, “The Nature of Respect,” *Social Theory and Practice*, 6: 69–90.
-* Hume, D., 1875, “On the Dignity of Human Nature,” in *Essays: Moral, Political and Literary*, vol 1, T.H. Green and T.H. Grose (eds.), London: Longmans, Green, and Co.
-* Irrera, E., 2017, “Human Interaction in the State of Nature: Hobbes on Respect for Persons and Self-Respect,” in *Roots of Respect**: A Historical–Philosophical Itinerary*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Jacobs, J., 1995, *Practical Realism and Moral Psychology*, Washington, D.C.: Georgetown University Press.
-* Johnson, E., 1982, “Ignoring Persons,” in *Respect for Persons*, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* Johnson, R., 1997, “Love in Vain,” *The Southern Journal of Philosophy*, 36 (Supplement): 45–50.
-* Kant, I., 1785, *Grundlegung zur Metaphysik der Sitten*, translated as “Groundwork of the Metaphysics of Morals,” in *Immanuel Kant Practical Philosophy*, Mary Gregor (trans. and ed.), New York: Cambridge University Press, 1996.
-* –––, 1788, *Kritik der praktischen Vernunft*, translated as “Critique of Practical Reason,” in *Immanuel Kant Practical Philosophy*, Mary Gregor (trans. and ed.), New York: Cambridge University Press, 1996.
-* –––, 1793, *Die Religion innerhalb der Grenzen der bloßen Vernunft*, translated as *Religion Within the Boundaries of Mere Reason*, A. Wood and G. di Giovanni (trans.), Cambridge: Cambridge University Press, 1998.
-* –––, 1797 *Die Metaphysik der Sitten*, translated as “The Metaphysics of Morals,” in *Immanuel Kant Practical Philosophy*, Mary Gregor (trans. and ed.), New York: Cambridge University Press, 1996.
-* –––, 1779, *Lectures on Ethics*, P. Heath and J.B. Schneewind (eds.), P. Heath (trans.), Cambridge: Cambridge University Press, 1997.
-* Katz, M.S., 1992, “Respect for Persons and Students: Charting Some Ethical Territory,” *Philosophy of Education Proceedings*, 19, Normal, IL: Illinois State University, Philosophy of Education Society.
-* Kent, E., 1976, “Respect for Persons and Social Protest,” in *Social Ends and Political Means*, T. Honderich (ed.), London: Routledge and Kegan Paul.
-* Kershnar, S., 2004, “Respect for Persons and the Harsh Punishment of Criminals,” *International Journal of Applied Philosophy*, 18: 103–121.
-* Kerstein, S. 2021, “A Lack of Respect in Bioethics,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2019, “Hastening Death and Respect for Dignity: Kantianism at the End of Life,” *Bioethics*, 33: 591–600.
-* –––, 2013, *How to Treat Persons*, Oxford: Oxford University Press.
-* Kleinig, J. 1991, *Valuing Life*, Princeton: Princeton University Press.
-* Klimchuk, D., 2004, “Three Accounts of Respect for Persons in Kant’s Ethics,” *Kantian Review*, 8: 38–61.
-* Kofman, S., 1997, “The Economy of Respect: Kant and Respect for Women,” N. Fisher (trans.), in *Feminist Interpretations of Immanuel Kant*, Robin May Schott (ed.), University Park, PA: Pennsylvania State University Press.
-* Kolnai, A., 1976, “Dignity,” *Philosophy*, 5: 251–271; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Korsgaard, C.M., “Valuing Our Humanity,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 1996, *Creating the Kingdom of Ends*, Cambridge: Cambridge University Press.
-* Kriegel, U. and M. Timmons, 2021, “The Phenomenology of Kantian Respect for Persons,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* Kymlicka, W., 1989, *Liberalism, Community and Culture*, New York: Oxford University Press.
-* Labukt, I., 2009, “Rawls on the Practicability of Utilitarianism,” *Politics, Philosophy, and Economics*, 8: 201–221.
-* LaCaze, M., 2005, “Love, That Indispensable Supplement: Irigaray and Kant on Love and Respect,” *Hypatia*, 20: 92–114.
-* Laitinen, A., 2017, “Hegel and Respect for Persons,” in *Roots of Respect: A Historical–Philosophical Itinerary*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* –––, 2002, “Interpersonal Recognition: A Response to Value or a Precondition of Personhood?” *Inquiry*, 45: 463–478.
-* Laitinen, A. and O. Sahlgren, 2021, “AI Systems and Respect for Human Autonomy,” *Frontiers of Artificial Intelligence*, 26. [[Laitinen and Sahlgren 2021 available online](https://www.frontiersin.org/articles/10.3389/frai.2021.705164/full)] doi: 10.3389/frai.2021.705164.
-* Landesman, C., 1982, “Against Respect for Persons,” in *Respect for Persons*, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* Larmore, C.E., 1987, *Patterns of Moral Complexity*, Cambridge: Cambridge University Press.
-* LeMoncheck, L., 1997, *Loose Women, Lecherous Men: A Feminist Philosophy of Sex*, New York: Oxford University Press.
-* Lippke, R.L., 1998, “Arguing Against Inhumane and Degrading Punishment,” *Criminal Justice Ethics*, 17: 29–41.
-* Liu, P., 2019, “Respect, *Jing*, and Persons,” *Comparative Philosophy*, 10: 45–60.
-* Loizides, A., 2017, “John Stuart Mill: Individuality, Dignity, and Respect for Persons,” in *Roots of Respect: A Historical–Philosophical Itinerary*,, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Lombardi, L., 1983, “Inherent Worth, Respect, and Rights,” *Environmental Ethics*, 5: 257–270.
-* Lovibond, S., 2010, “Impartial Respect and Natural Interest,” *Philosophical Topics*, 38: 143–158.
-* Lu, Y., 2017, “The Phenomenology of Respect with Special Attention to Kant, Scheler, and Confucianism,” *Asian Philosophy*, 27: 112–126.
-* Lueck, B., 2008, “Toward a Serresian Reconceptualization of Kantian Respect,” *Philosophy Today*, 52: 52–59.
-* Lysaught, M., 2004, “Respect: Or, How Respect for Persons Became Respect for Autonomy,” *Journal of Medicine and Philosophy*, 29: 665–680.
-* Maclagan, W.G., 1960, “Respect for Persons as a Moral Principle,” *Philosophy*, 35: 199–305.
-* Markie, P. J., 2004, “Respect for People and Animals,” *Journal of Value Inquiry*, 38: 33–47.
-* Mason, M. (ed.), 2018, *The Moral Psychology of Contempt*, Lanham, MD: Rowman and Littlefield.
-* Mason, M., 2017, “Contempt as the Absence of Appraisal, not Recognition, Respect,” *Behavioral and Brain Sciences*, 40, E243 [[Mason 2017 available online](https://pubmed.ncbi.nlm.nih.gov/29122050/)] doi: 10.1017/SO140525X16000820
-* –––, 2003, “Contempt as a Moral Attitude,” *Ethics*, 113: 234–272.
-* McBride, C., 203. *Recognition*, Cambridge: Cambridge University Press.
-* McBride, W.L., 2000, “Sexual Harassment, Seduction, and Mutual Respect: An Attempt at Sorting it Out,” in *Feminist Phenomenology*, L. Fisher (ed.), Dordrecht: Kluwer.
-* McCarty, R., 1994, “Motivation and Moral Choice in Kant’s Theory of Rational Agency,” *Kant-Studien 85*: 15–31.
-* –––, 1993, “Kantian Moral Motivation and the Feeling of Respect,” *Journal of the History of Philosophy*, 31: 421–435.
-* Meehan, J., 1994, “Autonomy, Recognition and Respect: Habermas, Benjamin, Honneth,” *Constellations*, 1: 270–285.
-* Melden, A.I., 1992, “Dignity, Worth, and Rights,” in *The Constitution of Rights: Human Dignity and American Values*, M. J. Meyer and W.A. Parent (eds.), Ithaca: Cornell University Press.
-* –––, 1977, *Rights and Persons*, Berkeley: University of California Press.
-* Merritt, M.M., 2017, “Practical Reason and Respect for Persons,” *Kantian Review*, 22: 53 –79.
-* Meyer, M.J. and L.J. Nelson, 2001, “Respecting What We Destroy: Reflections on Human Embryo Research,” *Hastings Center Report*, 31: 16–23.
-* Metz, T., 2001, “Respect for Persons and Perfectionist Politics,” *Philosophy and Public Affairs*, 30: 417–442.
-* Miceli, M. and C. Castelfranci, 2018, “Contempt and Disgust: Emotions of Disrespect,” *Journal for the Theory of Social Behavior*, 48: 205–229.
-* Miller, R.W., 1998, “Cosmopolitan Respect and Patriotic Concern,” *Philosophy and Public Affairs*, 27: 202–224.
-* Moellendorf, D., 2010, “Human Dignity, Respect, and Global Inequality,” *Journal of Global Ethics*, 6: 339–352.
-* Moland, L., 2002, “Fight, Flight, or Respect? First Encounters of the Other in Kant and Hegel,” *History of Philosophy Quarterly*, 19: 381–400.
-* Morrison, I., 2004, “Respect in Kant: How the Moral Feeling of Respect Acts as an Incentive to Moral Action,” *Southwest Philosophy Review*, 20(2): 1–26.
-* Munson, R., 2000, *Intervention and Reflection: Basic Issues in Medical Ethics*, 6th edition, Belmont, CA: Wadsworth.
-* Narveson, J., 2002a, *Respecting Persons in Theory and Practice: Essays on Moral and Political Philosophy*, Lanham, MD: Rowman and Littlefield.
-* –––, 2002b, “Race, Social Identity, Human Dignity: Respect for Individuals,” in *Social Philosophy Today: Race, Social Identity, and Human Dignity*, vol. 16, C. L. Hughes (ed.), Bowling Green: Philosophy Documentation Center.
-* Neumann, M., 2005, “Can’t We All Just Respect One Another a Little Less?” *Canadian Journal of Philosophy*, 34: 463–484.
-* –––, 2000, “Did Kant Respect Persons?” *Res Publica*, 6: 285–299.
-* Noggle, R., 1999, “Kantian Respect and Particular Persons,” *Canadian Journal of Philosophy*, 29: 449–477.
-* Norman, R., 1989, “Respect for Persons, Autonomy, and Equality,” *Revue International de Philosophie*, 43: 323–341.
-* Nussbaum, M., 2003, “Political Liberalism and Respect,” *SATS: Nordic Journal of Philosophy*, 4: 25–44.
-* –––, 1999, *Sex and Social Justice*, Oxford: Oxford University Press.
-* Nyberg, D., 1991, “The Basis of Respect is Empathy,” *Philosophy of Education*, 47: 197–201.
-* Padela, A.I., Malik, A.Y, Curlin, F., and DeVries, R., 2015, “Reconsidering Respect for Persons in a Globalizing World,” *Developing World Bioethics*, 15: 98–106.
-* Paetzold, H., 2008, “Respect and Toleration Reconsidered,” *Philosophy and Social Criticism*, 34: 941–954.
-* Palmer, C., 2004, “‘Respect for Nature’ in the Earth Charter: The Value of Species and the Value of Individuals,” *Ethics, Place, and Environment*, 7: 97–107.
-* Panichas, G.E., 2000, “Rights, Respect, and the Decent Society,” *Journal of Social Philosophy*, 31: 51–67.
-* Partridge, E., 1981, “Posthumous Interests and Posthumous Respect,” *Ethics*, 91: 243–264.
-* Pelser, A.C., 2015, “Respect for Human Dignity as an Emotion and Virtue,” *Res Philosophica*, 92: 743–763.
-* Pettit, P., 2021, “A Conversive Theory of Respect,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2015, *The Robust Demands of the Good: Ethics with Attachment, Virtue, and Respect*, Oxford University Press.
-* –––, 1989, “Consequentialism and Respect for Persons,” *Ethics*, 100: 116–126.
-* Preus, A., 1991, “Aristotle and Respect for Persons,” in *Essays in Ancient Greek Philosophy* IV, J. P. Anton (ed.), Albany: State University Of New York Press.
-* Rabbås, Ø., 2015, “Virtue, Respect, and Morality in Aristotle,” *Journal of Value Inquiry*, 49: 619–643.
-* Rawls, J., 2000, *Lectures on the History of Moral Philosophy*, Barbara Herman (ed.), Cambridge, Mass: Harvard University Press.
-* Raz, J., 2002, “On Frankfurt’s Explanation of Respect for People,” in *Contours of Agency: Essays on Themes from Harry Frankfurt*, S. Buss (ed), Cambridge, MA: Bradford Books/MIT Press.
-* –––, 2001, *Value, Respect, and Attachment*, Cambridge: Cambridge University Press.
-* Reath, A., 2006, “Kant’s Theory of Moral Sensibility: Respect for the Moral Law and the Influence of Inclination,” in Reath, *Agency and Autonomy in Kant’s Moral Theory*, New York: Oxford University Press.
-* Richardson, H.S., 1998, “Nussbaum: Love and Respect,” *Metaphilosophy*, 29: 254–262.
-* Roberts-Thomson, S., 2008, “An Explanation of the Injustice of Slavery,” *Res Publica*, 14: 69–82.
-* Rocha, J., 2015, “Kantian Respect for Minimally Rational Animals,” *Social Theory and Practice*, 41: 309–327.
-* Rolston III, H., 2004, “Caring for Nature: From Fact to Value, From Respect to Reverence,” *Zygon*, 39: 277–302.
-* Roth, A., 2010, “Second-Personal Respect, the Experiential Aspect of Respect, and Feminist Philosophy,” *Hypatia*, 25: 316–333.
-* Rowe, C. J., 2017, “Plato on Respect and What ‘Belongs’ to Oneself,” in *Roots of Respect: A Historical–Philosophical Itinerary*,, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Sangiovanni, A., 2017 *Humanity Without Dignity: Moral Equality, Respect, and Human Rights*, Cambridge, MA: Harvard University Press.
-* Scanlon, T., 1998, *What We Owe Each Other*, Cambridge, MA: Belknap Press of Harvard University Press.
-* Schmidt, L.K., 2000, “Respecting Others: The Hermeneutic Virtue,” *Continental Philosophy Review*, 33: 359–379.
-* Schmidtz, D., 2011, “Respect for Everything,” *Ethics, Policy, and Environment*, 14: 127–138.
-* –––, 2002, “Equal Respect and Equal Shares,” *Social Philosophy and Policy*, 19: 244–274.
-* –––, 1998, “Are All Species Equal?” *Journal of Applied Philosophy*, 15: 57–67.
-* Scholz, S.J., 2015, “Engaged Respect,” *Social Philosophy Today*, 31: 151–160.
-* Schwarz, L., 2021, “Species Egalitarianism and Respect for Nature: Of Mice and Carrots,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* Sensen, O., 2021, “How to Treat Someone with Respect,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2018, Respect for Human Beings with Intellectual Disabilities,“ in *Disability in Practice: Attitudes, Policies, and Relationships*, A. Cureton and T.E. Hill, Jr., (eds.), Oxford: Oxford University Press.
-* –––, 2014, ”Respect Towards Elderly Demented Patients,“ *Diametros*, 39: 109–124.
-* –––, 2013, ”Kant on Duties to Others from Respect,“ in *Kant’s Tugendlehre*, A. Trampota, O. Sensen, and J. Timmerman (eds.), Berlin: Walter de Gruyter.
-* –––, 2009, ”Kant’s Conception of Human Dignity,“ *Kant-Studien*, 100: 309–331.
-* Shafer, C.M. and Frye, M., 1977, ”Rape and Respect,“ in *Feminism and Philosophy*, M. Vetterling-Braggin, F.A. Elliston, and J. English (eds.), Totowa, N.J.: Rowman & Littlefield.
-* Sherman, N., 1998a, ”Concrete Kantian Respect,“ *Social Philosophy and Policy*, 15: 119–148.
-* –––, 1998b, ”Empathy, Respect, and Humanitarian Intervention,“ *Ethics and International Affairs*, 12: 103–119.
-* Shields, P.R., 1998, ”Some Reflections on Respecting Childhood,“ *Journal of Value Inquiry*, 32: 369–380.
-* Shockley, K., 2009, ”Practice Dependent Respect,“ *Journal of Value Inquiry*, 43: 41–54.
-* Shostak, S., 2013, ”Respect for Nature: A Theory of Environmental Ethics,“ *The European Legacy*, 18: 799–800.
-* Simpson, E., 1979, ”Objective Reasons and Respect for Persons,“ *Monist*, 62: 457–469.
-* Singleton, J., 2007, ”Kant’s Account of Respect: A Bridge Between Rationality and Anthropology,“ *Kantian Review*, 12: 40–60.
-* Skorupski, J., 2005, ”Blame, Respect, and Recognition: A Reply to Theo Van Willigenberg,“ *Utilitas*, 17(3): 333–347.
-* Smith, D.H., ed., 1984, *Respect and Care in Medical Ethics*, Lanham, MD: University Press of America.
-* Spelman, E.V., 1977, ”On Treating Persons as Persons,“ *Ethics*, 88: 150–161.
-* Spitler, G., 1982, ”Justifying Respect for Nature,“ *Environmental Ethics*, 4:255–260.
-* Stark, C., 2009, ”Respecting Human Dignity: Contract vs. Capabilities,“ *Metaphilosophy*, 40: 366–381.
-* Steinhoff, U., 2015, ”Against Equal Respect and Concern, Equal Rights, and Egalitarian Impartiality,“ in *Do All Persons Have Basic Worth? On ”Basic Equality“ and Equal Respect and Concern*, U. Steinhoff (ed.), Oxford: Oxford University of Press.
-* Stith, R., 2004, ”The Priority of Respect: How Our Common Humanity Can Ground Our Individual Dignity,“ *International Philosophical Quarterly*, 44(2): 165–184.
-* Stohr, K., 2012, *On Manners*, New York: Routledge.
-* Stratton-Lake, P., 2000, *Kant, Duty, and Moral Worth*, London: Routledge.
-* Strauss, M., 2003, ”The Role of Recognition in the Formation of Self-Understanding,“ in *Recognition, Responsibility, and Rights*, R. N. Fiore and H. L. Nelson (eds.), Lanham, MD: Rowman & Littlefield.
-* Taylor, C., 1992, ”The Politics of Recognition,“ in *Multiculturalism and ”The Politics of Recognition*,“ A. Gutmann (ed.), Princeton: Princeton University Press.
-* Taylor, P.W., 1986, *Respect for Nature*, Princeton: Princeton University Press.
-* –––, 1981, ”The Ethics of Respect for Nature,“ *Environmental Ethics*, 3: 197–218.
-* Thomas, L., 2001a, ”Morality, Consistency, and the Self: A Lesson in Rectification,“ *Journal of Social Philosophy*, 32: 374–381.
-* –––, 1992–93, ”Moral Deference,“ *The Philosophical Forum*, 24: 233–250.
-* Thompson, N., 2017, ”Respect in the Ethics of Aristotle,“ in N. Thompson, *What Is Honor?*, New Haven: Yale University Press.
-* Timmons, M. and R. Johnson (eds.), 2015, *Reason, Value, and Respect: Kantian Themes From the Philosophy of Thomas E. Hill, Jr.*, New York: Oxford University Press.
-* Tomasi, J., 1995, ”Kymlicka, Liberalism, and Respect for Cultural Minorities,“ *Ethics*, 105: 580–603.
-* Tse, P., 2014, ”Species Egalitarianism and Respect for Nature,“ in *Dimensions of Moral Agency*, D. Boersema (ed.), Newcastle upon Tyne, U.K.: Cambridge Scholars.
-* van Wietmarschen, H., 2021, ”Political Liberalism and Respect,“ *Journal of Political Philosophy*, 29:353–374.
-* Vanhoutte, W.M.A., 2011, ”Human and Non-Human Animals: Equal Rights or Duty,“ *Philosophia*, 40: 192–211.
-* Velleman, J.D., 1999, ”Love as a Moral Emotion,“ *Ethics*, 109: 338–374.
-* Ware, O., 2014, ”Forgiveness and Respect for Persons,“ *American Philosophical Quarterly*, 51: 247–260.
-* Wawrytko, S.A., 1982, ”Confucius and Kant: The Ethics of Respect,“ *Philosophy East and West*, 32: 237–257.
-* Weber, S., 2017, ”Aristotle on Respect for Persons,“ in *Roots of Respect: A Historical–Philosophical Itinerary*,, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
-* Westra, L., 1989, ”‘Respect,’ ‘Dignity,’ and ‘Integrity:’ An Environmental Proposal for Ethics,“ *Epistemologia*, 12: 91–123.
-* Wiggens, D., 2000, ”Nature, Respect for Nature, and the Human Scale of Values,“ Presidential Address, *Proceedings of the Aristotelian Society*, 100: 1–32.
-* Williams, B.A.O., 1962, ”The Idea of Equality,“ in *Politics, Philosophy, and Society*, vol. 2, P. Laslett and W. G. Runciman (eds.), Oxford: Blackwell.
-* Wilson, E., 2009, ”Is Kant’s Concept of Autonomy Absurd?“ *History of Philosophy Quarterly*, 26: 159–174.
-* Wolff, J., 1998, ”Fairness, Respect, and Egalitarian Ethics,“ *Philosophy and Public Affairs*, 27: 97–122.
-* Wong, D., 1984, ”Taoism and the Problem of Equal Respect,“ *Journal of Chinese Philosophy*, 11: 165–183.
-* Wood, A.W., 2010. ”Respect and Recognition,“ in J. Skorupski (ed.), *The Routledge Companion to Ethics*, London: Routledge.
-* ––, 2009, ”Duties to Oneself, Duties of Respect to Others, in *The Blackwell Companion to Kant’s Ethics*, T.E. Hill, Jr. (ed.), Oxford: Wiley-Blackwell.
-* ––, 1999, *Kant’s Ethical Thought*, Cambridge: Cambridge University Press.
-* –––, 1998, “Kantian Duties Regarding Nonrational Nature,” *Proceedings of the Aristotelian Society*, Supp. 72: 189–210.
-* Woodruff, P., 2003, “Reverence, Respect, and Dependence,” in *Virtues of Independence and Dependence on Virtues*, L. Beckman (ed.), New Brunswick: Transactional Press.
-* ––, 2001, *Reverence: Renewing a Forgotten Virtue*, New York: Oxford University Press.
-* Young, I.M., 1997, “Asymmetrical Reciprocity: On Moral Respect, Wonder, and Enlarged Thought,” *Constellations*, 3: 340–363.
-* Zinkin, M., 2017, “Kantian Constructivism, Respect, and Moral Depth,” in *Realism and Antirealism in Kant’s Moral Philosophy*, E.E. Schmidt and R. dos Santos (eds.), Berlin: De Gruyter.
-* –––, 2006, “Respect for the Law and the Use of Dynamic Terms in Kant’s Theory of Moral Motivation,” *Archiv fur Geschichte der Philosophie*, 88: 31–53.
+* Addis, A., 1997, “On Human Diversity and the Limits of Toleration,” in _Ethnicity and Group Rights_ (_Nomos_ 39), I. Shapiro and W. Kymlicka (eds.), New York: New York University Press.
+* Anderson, E., 1999, “What is the Point of Equality?” _Ethics_, 109: 287–337.
+* –––, 1993, _Value in Ethics and Economics_, Cambridge, MA: Harvard University Press.
+* Andrews, J.N., 1976, “Social Education and Respect for Others,” _Journal of Moral Education_, 5: 139–143.
+* Armitage, F., 2006, “Respect and Types of Injustice,” _Res Publica_, 12: 9–34.
+* Arnold, D.G. and Bowie, N.E., 2005, “Sweatshops and Respect,” _Business Ethics Quarterly_, 13(2): 221–242.
+* Arrington, R. L., 1978, “On Respect,” _Journal of Value Inquiry_, 12: 1–12.
+* Atwell, J.E., 1982, “Kant’s Notion of Respect for Persons,” in _Respect for Persons_ (Tulane Studies in Philosophy, Volume 31), O.H. Green (ed.), New Orleans: Tulane University Press.
+* Bagnoli, C., 2021, “Respect and the Dynamics of Finitude,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2007, “Respect and Membership in the Moral Community,” _Ethical Theory and Moral Practice_, 10: 113–128.
+* –––, 2003, “Respect and Loving Attention,” _Canadian Journal of Philosophy_, 33: 483–516.
+* Baldner, K., 1990, “Realism and Respect,” _Between the Species_, 6: 1–8.
+* Balint, P., 2006, “Respect Relations in Diverse Societies,” _Res Publica_, 12: 35–57.
+* Barilan, M.Y. and Weintraub, M., 2001, “Persuasion as Respect for Persons: An Alternative View of Autonomy and the Limits of Discourse,” _Journal of Medicine and Philosophy_, 26: 13–33.
+* Barnes, A., 1990, “Some Remarks on Respect and Human Rights,” _Philosophical Studies_, (Ireland): 263–273.
+* Baron, M.W., 1997, “Love and Respect in the _Doctrine of Virtue_,” _The Southern Journal of Philosophy_, 36 (Supplement): 29–44.
+* Beauchamp, T.L. and Childress, J.F., 1979/2001, _Principles of Biomedical Ethics_, New York: Oxford University Press.
+* Beauchamp, T.L. and Walters, L., 1999, _Contemporary Issues in Bioethics_, 5th edition, Belmont, CA: Wadsworth.
+* Bell, M., 2013, _Hard Feelings: The Moral Psychology of Contempt_, New York: Oxford University Press
+* Benditt, T., 2008, “Why Respect Matters,” _Journal of Value Inquiry_, 42: 487–496.
+* Benhabib, S., 1991, _Situating the Self_, New York: Routledge.
+* Benn, S.I., 1988, _A Theory of Freedom_, Cambridge: Cambridge University Press.
+* –––, 1971, “Privacy, Freedom, and Respect for Persons,” in _Privacy_ (_Nomos_ 13), J. R. Pennock and J. W. Chapman (eds.), New York: Atherton Press.
+* Berger, P., 1983, “On the Obsolescence of the Concept of Honor,” in _Revisions: Changing Perspectives in Moral Philosophy_, S. Hauerwas and A. MacIntyre (eds.), Notre Dame, IN: University of Notre Dame Press.
+* Besch, T.M., 2014, “On Discursive Respect,” _Social Theory and Practice_, 40: 207–231.
+* Birch, T.H., 1993, “Moral Considerability and Universal Consideration,” _Environmental Ethics_, 15: 313–332.
+* Bird, C., forthcoming, _Human Dignity and Political Criticism_, Cambridge University Press.
+* –––, 2010, “Mutual Respect and Civic Education,” _Educational Philosophy and Theory_, 42: 112–128.
+* –––, 2004, “Status, Identity, and Respect,” _Political Theory_, 32: 207–232.
+* Blum, A., 1988, “On Respect,” _Philosophical Inquiry_, 10: 58–63.
+* Boettcher, J., 2007, “Respect, Recognition, and Public Reason,” _Social Theory and Practice_, 33: 223–249.
+* Bognar, G., 2011, “Respect for Nature,” _Ethics, Policy, and Environment_, 14: 147–149.
+* Bognar, G. and S. Kerstein, 2010, “Saving Lives and Respecting Persons,” _Journal of Ethics and Social Philosophy_, 5 (2): 1–21 \[[Bognar and Kerstein 2010 available online](https://mail.jesp.org/index.php/jesp/article/view/51)] doi: 10.26556/jesp.v5i2
+* Brannigan, M.C. and Boss, J.A., 2001, _Health Care Ethics in a Diverse Society_, Mountain View, CA: Mayfield.
+* Brannmark, J., 2017, “Respect for Persons in Bioethics: Towards a Human Rights–Based Account,” _Human Rights Review_, 18: 171–187.
+* Bratu, C., 2017, “The Source of Moral Motivation and Actions We Owe to Others: Kant’s Theory of Respect,” in _The Roots of Respect: A Historical–Philosophical Itinerary_, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Broadie, A. and Pybus, E.M., 1975, “Kant’s Concept of ‘Respect’,” _Kant-Studien_, 66: 58–64.
+* Brody, B.A., 1982, “Towards a Theory of Respect for Persons,” in _Respect for Persons_, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* Bunch, A., 2014, “Throwing Oneself Away: Kant on the Forfeiture of Respect,” _Kantian Review_, 19: 71–91.
+* Buss, S., “Valuing Autonomy and Respecting Persons: Manipulation, Seduction, and the Basis of Moral Constraints,” _Ethics_, 115: 195–235.
+* –––, 1999a, “Appearing Respectful: The Moral Significance of Manners,” _Ethics_, 109: 795–826.
+* –––, 1999b, “Respect for Persons,” _Canadian Journal of Philosophy_, 29: 517–550.
+* Carter, I., 2013, “Are Toleration and Respect Compatible?” _Journal of Applied Philosophy_, 30: 195–208.
+* –––, 2011, “Respect and the Basis of Equality,” _Ethics_, 121: 538–571.
+* Cary, P., 1996, “Believing the Word: A Proposal about Knowing Other Persons,” _Faith and Philosophy_, 13: 78–90.
+* Chadwick, R., 2017, “Ways of Showing Respect for Life,” _Bioethics_, 31: 494.
+* Chan, S., 2006, “The Confucian Notion of Jing (Respect),” _Philosophy East and West_, 56: 229–252.
+* Code, L., 1987, “Persons and Others,” in _Power, Gender, Values_, J. Genova (ed), Edmonton, Alberta: Academic Printing and Publishing.
+* Cohen, S., 2008, “Fundamental Equality and the Phenomenology of Respect,” _Iyyun_, 57: 25–53.
+* Collins, P., 2017, “The Value of Respect: What Does it Mean for an Army?” _Journal of Military Ethics_, 16: 2–19.
+* Connelly, J., 2006, “Respecting Nature?” _Res Publica_, 12: 97–105.
+* Cooke, M., 1995, “Selfhood and Solidarity,” _Constellations_, 1: 337–357.
+* Cooper, D.E., 2000, “The Virtue of Practical Reason and Moral Respect Across Cultures,” _Contemporary Philosophy_, 22: 20–28.
+* Corral, M., 2015, “Respect, Protection and Restoration: Preservation as a Negative or Positive Duty,” _Ethics, Policy, and Environment_, 18: 268–270.
+* Cottingham, J., 1983, “Punishment and Respect for Persons,” in _Law, Morality, and Rights_, M.A. Stewart (ed.), Dordrecht: Reidel.
+* Cranor, C.F., 1983, “On Respecting Human Beings as Persons,” _Journal of Value Inquiry_, 17: 103–117.
+* –––, 1982, “Limitations on Respect-for-Persons Theories,” in _Respect for Persons_ (Tulane Studies in Philosophy, Vol. 31), O.H. Green (ed.), New Orleans: Tulane University Press.
+* –––, 1980, “Kant’s Respect-for-Persons Principle,” _International Studies in Philosophy_, 12(2): 19–39.
+* –––, 1975, “Toward a Theory of Respect for Persons,” _American Philosophical Quarterly_, 12: 309–320.
+* Cummiskey, D., 2008, “Dignity, Contractualism, and Consequentialism,” _Utilitas_, 16: 629–644.
+* –––, 1990, “Kantian Consequentialism,” _Ethics_, 100: 586–615.
+* Cureton, A., 2021, “Treating Disabled Adults as Children: An Appreciation of Kant’s Conception of Respect,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2020, “The Limiting Role of Respect,” in _The Oxford Handbook of Philosophy and Disability_, A. Cureton and D. Wasserman (eds.), Oxford: Oxford University Press.
+* Darby, D., 1999, “Are Worlds without Natural Rights Morally Impoverished?” _Southern Journal of Philosophy_, 37: 397–417.
+* Darwall, S., 2021, “On a Kantian Form of Respect: Before a Humble Common Man...My Spirit Bows,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2015, “Respect as Honor and as Accountability,” in _Reasons, Value, and Respect: Kantian Themes from the Philosophy of Thomas E. Hill, Jr._, M. Timmons and R. Johnson (eds.), Oxford: Oxford University Press. Reprinted in S. Darwall, 2103, _Honor, History, and Relationship: Essays in Second-Personal Ethics II_, Oxford: Oxford University Press.
+* –––2014, “Respect, Concern, and Membership,” in _Social Capital, Social Identities: From Ownership to Belonging_, H.B. Schmid, C. Henning, and D. Thomä (eds.), Berlin: De Gruyter.
+* –––, 2010, “Sentiment, Care, and Respect,” _Theory and Research in Education_, 8: 153–162.
+* –––, 2008, “Kantian Respect, Dignity, and the Duty of Respect,” in _Kant’s Virtue Ethics_, M. Betzler (ed.), Berlin: Walter de Gruyter. Reprinted in S. Darwall, 2103, _Honor, History, and Relationship: Essays in Second-Personal Ethics II_, Oxford: Oxford University Press.
+* –––, 2006, _The Second Person Standpoint: Morality, Respect, and Accountability_, Cambridge, MA: Harvard University Press.
+* –––, 2004, “Respect and the Second Person Standpoint,” Presidential Address, Central Division of the American Philosophical Association, in _Proceedings and Addresses of the American Philosophical Association_, 78 (2): 43–59.
+* –––, 2001, “Because I Want It,” _Social Philosophy and Policy_, 18: 129–153.
+* –––, 1977, “Two Kinds of Respect,” _Ethics_, 88: 36–49; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Davis, R.W., 2017, “Rational Persuasion, Paternalism, and Respect,” _Res Publica_, 23: 513–522.
+* Dean, R., 2021, “The Peculiar Idea of Respect for a Capacity,” in _Respect for Persons_\*: Philosophical Essays\*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2014, “Respect for the Unworthy,” _Pacific Philosophical Quarterly_, 95: 293–313.
+* Dean, R. and O. Sensen (eds.), 2021, _Respect: Philosophical Essays_, Oxford: Oxford University Press.
+* Debes, R., 2012, “Respect: A History,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* ––– (ed.), 2017, _Dignity: A History_, New York: Oxford University Press.
+* Deigh, J., 1982, “Respect and the Right to be Punished,” _Tulane Studies in Philosophy_, 31: 169–182.
+* Delue, S., 2006, “Martin Buber and Immanuel Kant on Mutual Respect and the Liberal State,” _Janus Head_, 9: 117–137.
+* DeMarco, J.P., 1974, “Respect for Persons: Some Prerequisites,” _Philosophy in Context_, 3: 33–37.
+* Deveaux, M., 1998, “Toleration and Respect,” _Public Affairs Quarterly_, 12: 407–427.
+* Diggs, B.J., 1981, “A Contractarian View of Respect for Persons,” _American Philosophical Quarterly_, 18: 273–283.
+* Dillon, R.S., 2020, “Respect for Persons,” in _Routledge Encyclopedia of Philosophy_, Taylor and Francis \[[Dillon 2020 available online](https://www.rep.routledge.com/articles/thematic/respect-for-persons/v-2)] doi: 10.4324/9780415249126-LO84-2.
+* –––, 2010, “Respect for Persons, Identity, and Information Technology,” _Ethics and Information Technology_, 11: 17–28.
+* –––, 1992a, “Respect and Care: Toward Moral Integration,” _Canadian Journal of Philosophy_, 22: 105–132.
+* –––, 1991, “Care and Respect,” in _Explorations in Feminist Ethics: Theory and Practice_, E.B. Cole and S. Coultrap-McQuin (eds.), Bloomington: Indiana University Press.
+* Donagan, A., 1977, _The Theory of Morality_. Chicago: University of Chicago Press.
+* Downie, R.S., and Telfer, E., 1969, _Respect for Persons_, London: George Allen and Unwin.
+* Drummond, J., 2006, “Respect as a Moral Emotion: A Phenomenological Approach,” _Husserl Studies_, 22: 1–27.
+* Dworkin, R., 1985, “Liberalism,” in _A Matter of Principle_, Cambridge, MA: Harvard University Press.
+* –––, 1977, _Taking Rights Seriously_, Cambridge, MA: Harvard University Press.
+* Edel, A., 1974, “The Place of Respect for Persons in Moral Philosophy,” _Philosophy in Context_, 3: 23–32.
+* Fabi, R., 2016, “Respect for Persons, Not Respect for Citizens,” _American Journal of Bioethics_, 16: 69–70.
+* Fahmy, M.S., 2013, “Understanding Kant’s Duty of Respect as a Duty of Virtue,” _Journal of Moral Philosophy_, 10: 723–740.
+* Falls, M., 1987, “Retribution, Reciprocity, and Respect for Persons,” _Law and Philosophy_, 6: 25–51.
+* Farley, M.A., 1993, “A Feminist Version of Respect for Persons,” _Journal of Feminist Studies in Religion_, 9: 183–198.
+* Feinberg, J., 1975, “Some Conjectures on the Concept of Respect,” _Journal of Social Philosophy_, 4: 1–3.
+* –––, 1970, “The Nature and Value of Rights,” _Journal of Value Inquiry_, 4: 243–260.
+* Fiocco, M.O., 2012, “Is There a Right to Respect?” _Utilitas_, 24: 502–524.
+* Foreman, E., 2017, “Focusing Respect on Creatures,” _Journal of Value Inquiry_, 51: 593–609.
+* –––, 2015, “The Objects of Respect,” _Environmental Ethics_, 37: 57–73.
+* Formosa, P., 2017, _Kantian Ethics, Dignity, and Perfection_, Cambridge: Cambridge University Press.
+* Fotion, N. and Elfstrom, G., 1992, “Honor,” in _Encyclopedia of Ethics_, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
+* Frankena, W.K., 1986, “The Ethics of Respect for Persons,” _Philosophical Topics_, 14: 149–167.
+* Frankfurt, H.G., 1999, “Equality and Respect,” in Frankfurt, _Necessity, Volition, and Love_, Cambridge: Cambridge University Press.
+* Fried, C., 1978, _Right and Wrong_, Cambridge, MA: Harvard University Press.
+* Garry, A., 1978, “Pornography and Respect for Women,” _Social Theory and Practice_, 4: 395–421.
+* Garthoff, J., 2010, “Meriting Concern and Meriting Respect,” _Journal of Ethics and Social Philosophy_, 5(2): 1–29 \[[Garthoff 2010 available online](https://mail.jesp.org/index.php/jesp/article/view/52)] doi: 10.26556/jesp.v5i2
+* Gaus, G.F., “Respect for Persons and Public Justification,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 1998, “Respect for Persons and Environmental Values,” in _Autonomy and Community: Readings in Contemporary Kantian Social Philosophy_, J. Kneller and S. Axinn (eds.), Albany: State University of New York Press.
+* Gauthier, D., 1963, _Practical Reasoning_, Oxford: Oxford University Press.
+* Gaylin, W., 1984, “In Defense of the Dignity of Being Human,” _The Hastings Center Report_, 14: 18–22.
+* Ghosh-Dastidar, K., 1987, “Respect for Persons and Self-Respect: Western and Indian,” _Journal of Indian Council of Philosophical Research_, 5: 83–93.
+* Gibbard, A., 1990, _Wise Choices, Apt Feelings: A Theory of Normative Judgment_, Cambridge, MA: Harvard University Press.
+* Giordano, S., 2005, “Respect for Equality and the Treatment of the Elderly,” _Cambridge Quarterly of Healthcare Ethics_, 14: 83–92.
+* Giorgini, G., 2017, “The Notion of Respect in Ancient Greek Poetry,” in _Roots of Respect: A Historical–Philosophical Itinerary_, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Giorgini, G. and E. Irrera, 2017, “Recognition: A Philosophical Problem,” in _Roots of Respect: A Historical–Philosophical Itinerary_, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Giorgini, G. and E. Irrera (eds.), 2017, _Roots of Respect: A Historical–Philosophical Itinerary_, Berlin: Walter de Gruyter.
+* Göbel, M. 2017, “Respect as the Foundation of Human Rights: To What Extent Can This View Be Attributed to Kant?” in _Roots of Respect: A Historical–Philosophical Itinerary_, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Goodin, R., 1981, “The Political Theories of Choice and Dignity,” _American Philosophical Quarterly_, 8: 91–100.
+* Goodpaster, K., 1978, “On Being Morally Considerable,” _The Journal of Philosophy_, 75: 308–325.
+* Gosepath, S. 2015, “On the (Re)Construction and Basic Concepts of the Morality of Equal Respect,” in _Do All Persons Have Equal Moral Worth: On ‘Basic Equality’ and Equal Respect and Concern_, U. Steinhoff (ed.), Oxford: Oxford University Press.
+* Green, L., 2010, “Two Worries about Respect for Persons,” _Ethics_, 120: 212–128.
+* Green, O.H., ed., 1982, _Respect for Persons_, Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* Grenberg, J., 1999, “Anthropology from a Metaphysical Point of View,” _Journal of the History of Philosophy_, 37: 91–115.
+* Griffin, J., 1986, _Well-Being: Its Meaning, Measurement, and Importance_, Oxford: Clarendon Press.
+* Grill, K., 2015, “Respect for What?” _Social Theory and Practice_, 41: 692–715.
+* Groll, D., 2012, “Paternalism, Respect, and the Will,” _Ethics_, 122: 692–720.
+* Gruzalski, B., 1982, “Two Accounts of Our Obligations to Respect Persons,” in _Respect for Persons_, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* Hare, S., 1996, “The Paradox of Moral Humility,” _American Philosophical Quarterly_, 33: 235–241.
+* Harris, E.E., 1966, “Respect for Persons,” in _Ethics and Society: Original Essays on Contemporary Moral Problems_, R. DeGeorge (ed.), Garden City, NJ: Anchor.
+* Hay, C., 2012, “Respect–Worthiness and Dignity,” _Dialogue_, 51: 587–561.
+* Helm, B., 2017, _Communities of Respect: Grounding Responsibility, Authority, and Dignity_, Oxford: Oxford University Press.
+* Hepburn, R.W., 1998, “Nature Humanized: Nature Respected,” _Environmental Values_, 7: 267–279.
+* Herman, B., 1984, “Mutual Aid and Respect for Persons,” _Ethics_, 94: 577–602.
+* Hicks, D.C., 1971, “Respect for Persons and Respect for Living Things,” _Philosophy_, 46: 346–348.
+* Hill, T.E., Jr., 2021, “Beyond Respect and Beneficence: An Ideal of Appreciation,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2000a, “Basic Respect and Cultural Diversity,” in T.E. Hill, Jr., _Respect, Pluralism, and Justice: Kantian Perspectives_, Oxford: Oxford University Press.
+* –––, 2000b, “Must Respect Be Earned?” in T.E. Hill, Jr., _Respect, Pluralism, and Justice: Kantian Perspectives_, Oxford: Oxford University Press.
+* –––, 1998, “Respect for Persons,” _Routledge Encyclopedia of Philosophy_, E. Craig (ed.), London: Routledge.
+* –––, 1997, “Respect for Humanity,” in _The Tanner Lectures on Human Values_ xviii, G. B. Peterson (ed.), Salt-Lake City: University of Utah Press; reprinted in Hill, 2000, _Respect, Pluralism, and Justice: Kantian Perspectives_, Oxford: Oxford University Press.
+* –––, 1993, “Donagan’s Kant,” _Ethics_, 104: 22–52; reprinted in Hill, _Respect, Pluralism, and Justice._
+* –––, 1992, _Dignity and Practical Reason in Kant’s Moral Theory_, Ithaca: Cornell University Press.
+* Hinton, T., 2001, “Must Egalitarians Choose Between Fairness and Respect?” _Philosophy and Public Affairs_, 30: 72–87.
+* Hobbes, T., 1651/1958, _Leviathan_, Indianapolis: Bobbs-Merrill, The Library of Liberal Arts.
+* Holmgren, M., 1993, “Forgiveness and the Intrinsic Value of Persons,” _American Philosophical Quarterly_, 30: 341–352.
+* Honneth, A., 2007, _Disrespect_, Cambridge: Polity.
+* –––, 1995, _The Struggle for Recognition_, Cambridge: Polity.
+* –––, 1992, “Integrity and Disrespect: Principles of a Conception of Morality Based on the Theory of Recognition,” _Political Theory_, 20: 187–201.
+* Hudson, S.D., 1980, “The Nature of Respect,” _Social Theory and Practice_, 6: 69–90.
+* Hume, D., 1875, “On the Dignity of Human Nature,” in _Essays: Moral, Political and Literary_, vol 1, T.H. Green and T.H. Grose (eds.), London: Longmans, Green, and Co.
+* Irrera, E., 2017, “Human Interaction in the State of Nature: Hobbes on Respect for Persons and Self-Respect,” in _Roots of Respect_\*: A Historical–Philosophical Itinerary\*, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Jacobs, J., 1995, _Practical Realism and Moral Psychology_, Washington, D.C.: Georgetown University Press.
+* Johnson, E., 1982, “Ignoring Persons,” in _Respect for Persons_, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* Johnson, R., 1997, “Love in Vain,” _The Southern Journal of Philosophy_, 36 (Supplement): 45–50.
+* Kant, I., 1785, _Grundlegung zur Metaphysik der Sitten_, translated as “Groundwork of the Metaphysics of Morals,” in _Immanuel Kant Practical Philosophy_, Mary Gregor (trans. and ed.), New York: Cambridge University Press, 1996.
+* –––, 1788, _Kritik der praktischen Vernunft_, translated as “Critique of Practical Reason,” in _Immanuel Kant Practical Philosophy_, Mary Gregor (trans. and ed.), New York: Cambridge University Press, 1996.
+* –––, 1793, _Die Religion innerhalb der Grenzen der bloßen Vernunft_, translated as _Religion Within the Boundaries of Mere Reason_, A. Wood and G. di Giovanni (trans.), Cambridge: Cambridge University Press, 1998.
+* –––, 1797 _Die Metaphysik der Sitten_, translated as “The Metaphysics of Morals,” in _Immanuel Kant Practical Philosophy_, Mary Gregor (trans. and ed.), New York: Cambridge University Press, 1996.
+* –––, 1779, _Lectures on Ethics_, P. Heath and J.B. Schneewind (eds.), P. Heath (trans.), Cambridge: Cambridge University Press, 1997.
+* Katz, M.S., 1992, “Respect for Persons and Students: Charting Some Ethical Territory,” _Philosophy of Education Proceedings_, 19, Normal, IL: Illinois State University, Philosophy of Education Society.
+* Kent, E., 1976, “Respect for Persons and Social Protest,” in _Social Ends and Political Means_, T. Honderich (ed.), London: Routledge and Kegan Paul.
+* Kershnar, S., 2004, “Respect for Persons and the Harsh Punishment of Criminals,” _International Journal of Applied Philosophy_, 18: 103–121.
+* Kerstein, S. 2021, “A Lack of Respect in Bioethics,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2019, “Hastening Death and Respect for Dignity: Kantianism at the End of Life,” _Bioethics_, 33: 591–600.
+* –––, 2013, _How to Treat Persons_, Oxford: Oxford University Press.
+* Kleinig, J. 1991, _Valuing Life_, Princeton: Princeton University Press.
+* Klimchuk, D., 2004, “Three Accounts of Respect for Persons in Kant’s Ethics,” _Kantian Review_, 8: 38–61.
+* Kofman, S., 1997, “The Economy of Respect: Kant and Respect for Women,” N. Fisher (trans.), in _Feminist Interpretations of Immanuel Kant_, Robin May Schott (ed.), University Park, PA: Pennsylvania State University Press.
+* Kolnai, A., 1976, “Dignity,” _Philosophy_, 5: 251–271; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Korsgaard, C.M., “Valuing Our Humanity,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 1996, _Creating the Kingdom of Ends_, Cambridge: Cambridge University Press.
+* Kriegel, U. and M. Timmons, 2021, “The Phenomenology of Kantian Respect for Persons,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* Kymlicka, W., 1989, _Liberalism, Community and Culture_, New York: Oxford University Press.
+* Labukt, I., 2009, “Rawls on the Practicability of Utilitarianism,” _Politics, Philosophy, and Economics_, 8: 201–221.
+* LaCaze, M., 2005, “Love, That Indispensable Supplement: Irigaray and Kant on Love and Respect,” _Hypatia_, 20: 92–114.
+* Laitinen, A., 2017, “Hegel and Respect for Persons,” in _Roots of Respect: A Historical–Philosophical Itinerary_, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* –––, 2002, “Interpersonal Recognition: A Response to Value or a Precondition of Personhood?” _Inquiry_, 45: 463–478.
+* Laitinen, A. and O. Sahlgren, 2021, “AI Systems and Respect for Human Autonomy,” _Frontiers of Artificial Intelligence_, 26. \[[Laitinen and Sahlgren 2021 available online](https://www.frontiersin.org/articles/10.3389/frai.2021.705164/full)] doi: 10.3389/frai.2021.705164.
+* Landesman, C., 1982, “Against Respect for Persons,” in _Respect for Persons_, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* Larmore, C.E., 1987, _Patterns of Moral Complexity_, Cambridge: Cambridge University Press.
+* LeMoncheck, L., 1997, _Loose Women, Lecherous Men: A Feminist Philosophy of Sex_, New York: Oxford University Press.
+* Lippke, R.L., 1998, “Arguing Against Inhumane and Degrading Punishment,” _Criminal Justice Ethics_, 17: 29–41.
+* Liu, P., 2019, “Respect, _Jing_, and Persons,” _Comparative Philosophy_, 10: 45–60.
+* Loizides, A., 2017, “John Stuart Mill: Individuality, Dignity, and Respect for Persons,” in _Roots of Respect: A Historical–Philosophical Itinerary_,, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Lombardi, L., 1983, “Inherent Worth, Respect, and Rights,” _Environmental Ethics_, 5: 257–270.
+* Lovibond, S., 2010, “Impartial Respect and Natural Interest,” _Philosophical Topics_, 38: 143–158.
+* Lu, Y., 2017, “The Phenomenology of Respect with Special Attention to Kant, Scheler, and Confucianism,” _Asian Philosophy_, 27: 112–126.
+* Lueck, B., 2008, “Toward a Serresian Reconceptualization of Kantian Respect,” _Philosophy Today_, 52: 52–59.
+* Lysaught, M., 2004, “Respect: Or, How Respect for Persons Became Respect for Autonomy,” _Journal of Medicine and Philosophy_, 29: 665–680.
+* Maclagan, W.G., 1960, “Respect for Persons as a Moral Principle,” _Philosophy_, 35: 199–305.
+* Markie, P. J., 2004, “Respect for People and Animals,” _Journal of Value Inquiry_, 38: 33–47.
+* Mason, M. (ed.), 2018, _The Moral Psychology of Contempt_, Lanham, MD: Rowman and Littlefield.
+* Mason, M., 2017, “Contempt as the Absence of Appraisal, not Recognition, Respect,” _Behavioral and Brain Sciences_, 40, E243 \[[Mason 2017 available online](https://pubmed.ncbi.nlm.nih.gov/29122050/)] doi: 10.1017/SO140525X16000820
+* –––, 2003, “Contempt as a Moral Attitude,” _Ethics_, 113: 234–272.
+* McBride, C., 203. _Recognition_, Cambridge: Cambridge University Press.
+* McBride, W.L., 2000, “Sexual Harassment, Seduction, and Mutual Respect: An Attempt at Sorting it Out,” in _Feminist Phenomenology_, L. Fisher (ed.), Dordrecht: Kluwer.
+* McCarty, R., 1994, “Motivation and Moral Choice in Kant’s Theory of Rational Agency,” _Kant-Studien 85_: 15–31.
+* –––, 1993, “Kantian Moral Motivation and the Feeling of Respect,” _Journal of the History of Philosophy_, 31: 421–435.
+* Meehan, J., 1994, “Autonomy, Recognition and Respect: Habermas, Benjamin, Honneth,” _Constellations_, 1: 270–285.
+* Melden, A.I., 1992, “Dignity, Worth, and Rights,” in _The Constitution of Rights: Human Dignity and American Values_, M. J. Meyer and W.A. Parent (eds.), Ithaca: Cornell University Press.
+* –––, 1977, _Rights and Persons_, Berkeley: University of California Press.
+* Merritt, M.M., 2017, “Practical Reason and Respect for Persons,” _Kantian Review_, 22: 53 –79.
+* Meyer, M.J. and L.J. Nelson, 2001, “Respecting What We Destroy: Reflections on Human Embryo Research,” _Hastings Center Report_, 31: 16–23.
+* Metz, T., 2001, “Respect for Persons and Perfectionist Politics,” _Philosophy and Public Affairs_, 30: 417–442.
+* Miceli, M. and C. Castelfranci, 2018, “Contempt and Disgust: Emotions of Disrespect,” _Journal for the Theory of Social Behavior_, 48: 205–229.
+* Miller, R.W., 1998, “Cosmopolitan Respect and Patriotic Concern,” _Philosophy and Public Affairs_, 27: 202–224.
+* Moellendorf, D., 2010, “Human Dignity, Respect, and Global Inequality,” _Journal of Global Ethics_, 6: 339–352.
+* Moland, L., 2002, “Fight, Flight, or Respect? First Encounters of the Other in Kant and Hegel,” _History of Philosophy Quarterly_, 19: 381–400.
+* Morrison, I., 2004, “Respect in Kant: How the Moral Feeling of Respect Acts as an Incentive to Moral Action,” _Southwest Philosophy Review_, 20(2): 1–26.
+* Munson, R., 2000, _Intervention and Reflection: Basic Issues in Medical Ethics_, 6th edition, Belmont, CA: Wadsworth.
+* Narveson, J., 2002a, _Respecting Persons in Theory and Practice: Essays on Moral and Political Philosophy_, Lanham, MD: Rowman and Littlefield.
+* –––, 2002b, “Race, Social Identity, Human Dignity: Respect for Individuals,” in _Social Philosophy Today: Race, Social Identity, and Human Dignity_, vol. 16, C. L. Hughes (ed.), Bowling Green: Philosophy Documentation Center.
+* Neumann, M., 2005, “Can’t We All Just Respect One Another a Little Less?” _Canadian Journal of Philosophy_, 34: 463–484.
+* –––, 2000, “Did Kant Respect Persons?” _Res Publica_, 6: 285–299.
+* Noggle, R., 1999, “Kantian Respect and Particular Persons,” _Canadian Journal of Philosophy_, 29: 449–477.
+* Norman, R., 1989, “Respect for Persons, Autonomy, and Equality,” _Revue International de Philosophie_, 43: 323–341.
+* Nussbaum, M., 2003, “Political Liberalism and Respect,” _SATS: Nordic Journal of Philosophy_, 4: 25–44.
+* –––, 1999, _Sex and Social Justice_, Oxford: Oxford University Press.
+* Nyberg, D., 1991, “The Basis of Respect is Empathy,” _Philosophy of Education_, 47: 197–201.
+* Padela, A.I., Malik, A.Y, Curlin, F., and DeVries, R., 2015, “Reconsidering Respect for Persons in a Globalizing World,” _Developing World Bioethics_, 15: 98–106.
+* Paetzold, H., 2008, “Respect and Toleration Reconsidered,” _Philosophy and Social Criticism_, 34: 941–954.
+* Palmer, C., 2004, “‘Respect for Nature’ in the Earth Charter: The Value of Species and the Value of Individuals,” _Ethics, Place, and Environment_, 7: 97–107.
+* Panichas, G.E., 2000, “Rights, Respect, and the Decent Society,” _Journal of Social Philosophy_, 31: 51–67.
+* Partridge, E., 1981, “Posthumous Interests and Posthumous Respect,” _Ethics_, 91: 243–264.
+* Pelser, A.C., 2015, “Respect for Human Dignity as an Emotion and Virtue,” _Res Philosophica_, 92: 743–763.
+* Pettit, P., 2021, “A Conversive Theory of Respect,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2015, _The Robust Demands of the Good: Ethics with Attachment, Virtue, and Respect_, Oxford University Press.
+* –––, 1989, “Consequentialism and Respect for Persons,” _Ethics_, 100: 116–126.
+* Preus, A., 1991, “Aristotle and Respect for Persons,” in _Essays in Ancient Greek Philosophy_ IV, J. P. Anton (ed.), Albany: State University Of New York Press.
+* Rabbås, Ø., 2015, “Virtue, Respect, and Morality in Aristotle,” _Journal of Value Inquiry_, 49: 619–643.
+* Rawls, J., 2000, _Lectures on the History of Moral Philosophy_, Barbara Herman (ed.), Cambridge, Mass: Harvard University Press.
+* Raz, J., 2002, “On Frankfurt’s Explanation of Respect for People,” in _Contours of Agency: Essays on Themes from Harry Frankfurt_, S. Buss (ed), Cambridge, MA: Bradford Books/MIT Press.
+* –––, 2001, _Value, Respect, and Attachment_, Cambridge: Cambridge University Press.
+* Reath, A., 2006, “Kant’s Theory of Moral Sensibility: Respect for the Moral Law and the Influence of Inclination,” in Reath, _Agency and Autonomy in Kant’s Moral Theory_, New York: Oxford University Press.
+* Richardson, H.S., 1998, “Nussbaum: Love and Respect,” _Metaphilosophy_, 29: 254–262.
+* Roberts-Thomson, S., 2008, “An Explanation of the Injustice of Slavery,” _Res Publica_, 14: 69–82.
+* Rocha, J., 2015, “Kantian Respect for Minimally Rational Animals,” _Social Theory and Practice_, 41: 309–327.
+* Rolston III, H., 2004, “Caring for Nature: From Fact to Value, From Respect to Reverence,” _Zygon_, 39: 277–302.
+* Roth, A., 2010, “Second-Personal Respect, the Experiential Aspect of Respect, and Feminist Philosophy,” _Hypatia_, 25: 316–333.
+* Rowe, C. J., 2017, “Plato on Respect and What ‘Belongs’ to Oneself,” in _Roots of Respect: A Historical–Philosophical Itinerary_,, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Sangiovanni, A., 2017 _Humanity Without Dignity: Moral Equality, Respect, and Human Rights_, Cambridge, MA: Harvard University Press.
+* Scanlon, T., 1998, _What We Owe Each Other_, Cambridge, MA: Belknap Press of Harvard University Press.
+* Schmidt, L.K., 2000, “Respecting Others: The Hermeneutic Virtue,” _Continental Philosophy Review_, 33: 359–379.
+* Schmidtz, D., 2011, “Respect for Everything,” _Ethics, Policy, and Environment_, 14: 127–138.
+* –––, 2002, “Equal Respect and Equal Shares,” _Social Philosophy and Policy_, 19: 244–274.
+* –––, 1998, “Are All Species Equal?” _Journal of Applied Philosophy_, 15: 57–67.
+* Scholz, S.J., 2015, “Engaged Respect,” _Social Philosophy Today_, 31: 151–160.
+* Schwarz, L., 2021, “Species Egalitarianism and Respect for Nature: Of Mice and Carrots,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* Sensen, O., 2021, “How to Treat Someone with Respect,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2018, Respect for Human Beings with Intellectual Disabilities,“ in _Disability in Practice: Attitudes, Policies, and Relationships_, A. Cureton and T.E. Hill, Jr., (eds.), Oxford: Oxford University Press.
+* –––, 2014, ”Respect Towards Elderly Demented Patients,“ _Diametros_, 39: 109–124.
+* –––, 2013, ”Kant on Duties to Others from Respect,“ in _Kant’s Tugendlehre_, A. Trampota, O. Sensen, and J. Timmerman (eds.), Berlin: Walter de Gruyter.
+* –––, 2009, ”Kant’s Conception of Human Dignity,“ _Kant-Studien_, 100: 309–331.
+* Shafer, C.M. and Frye, M., 1977, ”Rape and Respect,“ in _Feminism and Philosophy_, M. Vetterling-Braggin, F.A. Elliston, and J. English (eds.), Totowa, N.J.: Rowman & Littlefield.
+* Sherman, N., 1998a, ”Concrete Kantian Respect,“ _Social Philosophy and Policy_, 15: 119–148.
+* –––, 1998b, ”Empathy, Respect, and Humanitarian Intervention,“ _Ethics and International Affairs_, 12: 103–119.
+* Shields, P.R., 1998, ”Some Reflections on Respecting Childhood,“ _Journal of Value Inquiry_, 32: 369–380.
+* Shockley, K., 2009, ”Practice Dependent Respect,“ _Journal of Value Inquiry_, 43: 41–54.
+* Shostak, S., 2013, ”Respect for Nature: A Theory of Environmental Ethics,“ _The European Legacy_, 18: 799–800.
+* Simpson, E., 1979, ”Objective Reasons and Respect for Persons,“ _Monist_, 62: 457–469.
+* Singleton, J., 2007, ”Kant’s Account of Respect: A Bridge Between Rationality and Anthropology,“ _Kantian Review_, 12: 40–60.
+* Skorupski, J., 2005, ”Blame, Respect, and Recognition: A Reply to Theo Van Willigenberg,“ _Utilitas_, 17(3): 333–347.
+* Smith, D.H., ed., 1984, _Respect and Care in Medical Ethics_, Lanham, MD: University Press of America.
+* Spelman, E.V., 1977, ”On Treating Persons as Persons,“ _Ethics_, 88: 150–161.
+* Spitler, G., 1982, ”Justifying Respect for Nature,“ _Environmental Ethics_, 4:255–260.
+* Stark, C., 2009, ”Respecting Human Dignity: Contract vs. Capabilities,“ _Metaphilosophy_, 40: 366–381.
+* Steinhoff, U., 2015, ”Against Equal Respect and Concern, Equal Rights, and Egalitarian Impartiality,“ in _Do All Persons Have Basic Worth? On ”Basic Equality“ and Equal Respect and Concern_, U. Steinhoff (ed.), Oxford: Oxford University of Press.
+* Stith, R., 2004, ”The Priority of Respect: How Our Common Humanity Can Ground Our Individual Dignity,“ _International Philosophical Quarterly_, 44(2): 165–184.
+* Stohr, K., 2012, _On Manners_, New York: Routledge.
+* Stratton-Lake, P., 2000, _Kant, Duty, and Moral Worth_, London: Routledge.
+* Strauss, M., 2003, ”The Role of Recognition in the Formation of Self-Understanding,“ in _Recognition, Responsibility, and Rights_, R. N. Fiore and H. L. Nelson (eds.), Lanham, MD: Rowman & Littlefield.
+* Taylor, C., 1992, ”The Politics of Recognition,“ in _Multiculturalism and ”The Politics of Recognition_,“ A. Gutmann (ed.), Princeton: Princeton University Press.
+* Taylor, P.W., 1986, _Respect for Nature_, Princeton: Princeton University Press.
+* –––, 1981, ”The Ethics of Respect for Nature,“ _Environmental Ethics_, 3: 197–218.
+* Thomas, L., 2001a, ”Morality, Consistency, and the Self: A Lesson in Rectification,“ _Journal of Social Philosophy_, 32: 374–381.
+* –––, 1992–93, ”Moral Deference,“ _The Philosophical Forum_, 24: 233–250.
+* Thompson, N., 2017, ”Respect in the Ethics of Aristotle,“ in N. Thompson, _What Is Honor?_, New Haven: Yale University Press.
+* Timmons, M. and R. Johnson (eds.), 2015, _Reason, Value, and Respect: Kantian Themes From the Philosophy of Thomas E. Hill, Jr._, New York: Oxford University Press.
+* Tomasi, J., 1995, ”Kymlicka, Liberalism, and Respect for Cultural Minorities,“ _Ethics_, 105: 580–603.
+* Tse, P., 2014, ”Species Egalitarianism and Respect for Nature,“ in _Dimensions of Moral Agency_, D. Boersema (ed.), Newcastle upon Tyne, U.K.: Cambridge Scholars.
+* van Wietmarschen, H., 2021, ”Political Liberalism and Respect,“ _Journal of Political Philosophy_, 29:353–374.
+* Vanhoutte, W.M.A., 2011, ”Human and Non-Human Animals: Equal Rights or Duty,“ _Philosophia_, 40: 192–211.
+* Velleman, J.D., 1999, ”Love as a Moral Emotion,“ _Ethics_, 109: 338–374.
+* Ware, O., 2014, ”Forgiveness and Respect for Persons,“ _American Philosophical Quarterly_, 51: 247–260.
+* Wawrytko, S.A., 1982, ”Confucius and Kant: The Ethics of Respect,“ _Philosophy East and West_, 32: 237–257.
+* Weber, S., 2017, ”Aristotle on Respect for Persons,“ in _Roots of Respect: A Historical–Philosophical Itinerary_,, G. Giorgini and E. Irrera (eds.), Berlin: Walter de Gruyter.
+* Westra, L., 1989, ”‘Respect,’ ‘Dignity,’ and ‘Integrity:’ An Environmental Proposal for Ethics,“ _Epistemologia_, 12: 91–123.
+* Wiggens, D., 2000, ”Nature, Respect for Nature, and the Human Scale of Values,“ Presidential Address, _Proceedings of the Aristotelian Society_, 100: 1–32.
+* Williams, B.A.O., 1962, ”The Idea of Equality,“ in _Politics, Philosophy, and Society_, vol. 2, P. Laslett and W. G. Runciman (eds.), Oxford: Blackwell.
+* Wilson, E., 2009, ”Is Kant’s Concept of Autonomy Absurd?“ _History of Philosophy Quarterly_, 26: 159–174.
+* Wolff, J., 1998, ”Fairness, Respect, and Egalitarian Ethics,“ _Philosophy and Public Affairs_, 27: 97–122.
+* Wong, D., 1984, ”Taoism and the Problem of Equal Respect,“ _Journal of Chinese Philosophy_, 11: 165–183.
+* Wood, A.W., 2010. ”Respect and Recognition,“ in J. Skorupski (ed.), _The Routledge Companion to Ethics_, London: Routledge.
+* ––, 2009, ”Duties to Oneself, Duties of Respect to Others, in _The Blackwell Companion to Kant’s Ethics_, T.E. Hill, Jr. (ed.), Oxford: Wiley-Blackwell.
+* ––, 1999, _Kant’s Ethical Thought_, Cambridge: Cambridge University Press.
+* –––, 1998, “Kantian Duties Regarding Nonrational Nature,” _Proceedings of the Aristotelian Society_, Supp. 72: 189–210.
+* Woodruff, P., 2003, “Reverence, Respect, and Dependence,” in _Virtues of Independence and Dependence on Virtues_, L. Beckman (ed.), New Brunswick: Transactional Press.
+* ––, 2001, _Reverence: Renewing a Forgotten Virtue_, New York: Oxford University Press.
+* Young, I.M., 1997, “Asymmetrical Reciprocity: On Moral Respect, Wonder, and Enlarged Thought,” _Constellations_, 3: 340–363.
+* Zinkin, M., 2017, “Kantian Constructivism, Respect, and Moral Depth,” in _Realism and Antirealism in Kant’s Moral Philosophy_, E.E. Schmidt and R. dos Santos (eds.), Berlin: De Gruyter.
+* –––, 2006, “Respect for the Law and the Use of Dynamic Terms in Kant’s Theory of Moral Motivation,” _Archiv fur Geschichte der Philosophie_, 88: 31–53.
 
 ### Philosophical works chiefly on self-respect and related concepts
 
-* Adler, M.J., et al., 1952, “Honor,” in *The Great Ideas: A Syntopicon of Great Books of the Western World*, Chicago: Encyclopedia Britannica, Inc.
-* Allen, R.F., 2008, “Free Agency and Self-Esteem,” *Sorites*, 20: 74–79.
-* Andrew, B., 2011, “Self-Respect and Loving Others,” in *Sex, Love, and Friendship*, A. L. McEvoy (ed.), New York: Rodopi.
-* Aristotle, *Nicomachean Ethics*, W.D. Ross (trans.), in *Basic Works of Aristotle*, R. McKeon (ed.), New York: Random House, 1941.
-* Babbitt, S., 2000, *Artless Integrity: Moral Imagination, Agency, and Stories*, Lanham, MD: Rowman & Littlefield.
-* –––, 1993, “Feminism and Objective Interests: The Role of Transformation Experiences in Rational Deliberation,” in *Feminist Epistemologies*, L. Alcoff and E. Potter (eds.), New York: Routledge.
-* Balaief, L., 1975, “Self-Esteem and Human Equality,” *Philosophy and Phenomenological Research*, 36: 25–43.
-* Bagnoli, C., 2009, “The Mafioso Case: Autonomy and Self-Respect,” *Ethical Theory and Moral Practice*, 12: 477–493.
-* Bartky, S.L., 1990a, “Feminine Masochism and the Politics of Personal Transformation,” in Bartky, *Femininity and Domination: Studies in the Phenomenology of Oppression*, New York: Routledge.
-* –––, 1990b, “On Psychological Oppression,” Bartky, *Femininity and Domination: Studies in the Phenomenology of Oppression*, New York: Routledge
-* –––, 1990c, “Shame and Gender,” in Bartky, *Femininity and Domination: Studies in the Phenomenology of Oppression*, New York: Routledge.
-* Basevich, E., 2022, “Self-Respect and Self-Segregation: A Du Boisian Challenge to Kant and Rawls,” *Social Theory and Practice*, 3.
-* Baumeister, R.L, L. Smart, and J.M Boden, “Relation of Threatened Egotism to Violence and Aggression: The Dark Side of High Self-Esteem,” *Psychological Review*, 103: 5–33.
-* Becker, L.C., 1992, “Pride,” in *Encyclopedia of Ethics*, L. C. Becker and C. B. Becker (eds.), New York: Garland Publishing, Inc.
-* Bernick, M., 1978, “A Note on Promoting Self-Esteem,” *Political Theory*, 6: 109–118.
-* Bird, C., 2010, “Self-Respect and the Respect of Others,” *European Journal of Philosophy*, 18: 17–40.
-* Bloomfield, P., 2011, “Justice as a Self-Regarding Virtue,” *Philosophy and Phenomenological Research*, 82: 46–64.
-* ––, 2008, “The Harm of Immorality” *Ratio*, 21: 241–259.
-* Borgwald, K., 2012, “Women’s Anger, Epistemic Personhood, and Self-Respect,” *Philosophical Studies*, 161: 69–76.
-* Boxill, B.R., 1992, *Blacks and Social Justice*, Lanham, MD: Rowman & Littlefield.
-* –––, 1976, “Self-Respect and Protest,” *Philosophy and Public Affairs*, 6: 58–69; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Boxill, B., and J. Boxill, 2015, “Servility and Self-Respect: An African American and Feminist Critique,” in *Reasons, Value, and Respect: Kantian Themes From the Philosophy of Thomas E. Hill, Jr.*, M. Timmons and R. Johnson (eds.), Oxford: Oxford University Press.
-* Bratu, C., 2019–2020, “Self-Respect and the Disrespect of Others,” *Ergo*, 6 [[Bratu 2019–20 available online](https://quod.lib.umich.edu/cgi/t/text/idx/e/ergo/12405314.0006.013/--self-respect-and-the-disrespect-of-others?rgn=main;view=fulltext)] doi: 10.3998/ergo.12405314.0006.013.
-* Braybrooke, D., 1983, *Ethics in the World of Business*, Totowa, N.J.: Rowman & Allanheld.
-* Campbell, R., 1979, *Self-Love and Self-Respect: A Philosophical Study of Egoism*, Ottawa: Canadian Library of Philosophy.
-* Care, N., 2000, *Decent People*, Lanham, MD: Rowman & Littlefield.
-* Carter, J.A., and E.C. Gordon (eds.), *The Moral Psychology of Pride*, London: Rowman & Littlefield.
-* Champlin, T.S., 1995, “Hanfling on Self-Love,” *Philosophy*, 70: 107–110.
-* Chazan, P., 1998, “Self-Esteem, Self-Respect, and Love of Self: Ways of Valuing the Self,” *Philosophia*, 26: 41–63.
-* Christensen, D., 2007, “Epistemic Self-Respect,” *Proceedings of the Aristotelian Society*, 107: 319–337.
-* Collins, P.H., 1990, *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*, New York: Routledge.
-* Cunningham, A., 2013, *Modern Honor: A Philosophical Defense*, New York: Routledge.
-* Cureton, A., 2013, “From Self-Respect to Respect for Others,” *Pacific Philosophical Quarterly*, 94: 166–187.
-* Daniels, N., 1975, “Equal Liberty and Unequal Worth of Liberty,” in *Reading Rawls: Critical Studies of “A Theory of Justice*,” N. Daniels (ed.), New York: Basic Books, Inc.
-* Darwall, S.L., 1988, “Self-Deception, Autonomy, and Moral Constitution,” in *Perspectives on Self-Deception*, B.P. McLaughlin and A.O. Rorty (eds.), Berkeley: University of California Press.
-* DeGrazia, D., 1991, “Grounding a Right to Health Care in Self-Respect and Self-Esteem,” *Public Affairs Quarterly*, 5: 301–318.
-* Deigh, J., 1983, “Shame and Self-Esteem: A Critique,” *Ethics*, 93: 225–245; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Diller, A., 2001, “Pride and Self-Respect in Unjust Social Orders,” *Philosophy of Education 2001*: 308–310.
-* Dillon, R. S., forthcoming, “Old-Fashioned Vices in Contemporary Crises, or, It Matters How You Value Yourself,” in *Oxford Studies in Normative Ethics*, vol 12, M. Timmons (ed.), Oxford: Oxford University Press.
-* –––, 2021, “Self-Respect, Arrogance, and Power: A Feminist Analysis,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* –––, 2020, “Humility and Self-Respect: Kantian and Feminist Perspectives,” in *Routledge Handbook on the Philosophy of Humility*, M. Alfano, M.P. Lynch, and A. Tanesini (eds.), London and New York: Routledge.
-* –––, 2015, “Self-Respect and Humility in Kant and Hill,” in *Reason, Value, and Respect: Kantian Themes from the Philosophy of Thomas E. Hill, Jr.*, M. Timmons and R. Johnson (eds.), Oxford: Oxford University Press.
-* –––, 2013, “Self-Respect and Self-Esteem,” *International Encyclopedia of Ethics*, H. LaFollette (ed.), New York: Wiley–Blackwell.
-* –––, 2007, “Arrogance, Self-Respect, and Personhood,” *Journal of Consciousness Studies*, 14: 101–126.
-* –––, 2004, “‘What’s a Woman Worth? What’s Life Worth? Without Self-Respect?’: On the Value of Evaluative Self-Respect,” in *Moral Psychology: Feminist Ethics and Social Theory*, P. DesAutels and M. Walker (eds.), Lanham, MD: Rowman & Littlefield.
-* –––, 2003, “Kant on Arrogance and Self-Respect,” in *Setting the Moral Compass: Essays by Women Philosophers*, C. Calhoun (ed.), Oxford: Oxford University Press.
-* –––, 2001, “Self-Forgiveness and Self-Respect,” *Ethics*, 112: 53–83.
-* –––, 1997, “Self-Respect: Moral, Emotional, Political,” *Ethics*, 107: 226–249.
-* ––– (ed.), 1995, *Dignity, Character, and Self-Respect*, New York: Routledge.
-* –––, 1992b, “How to Lose Your Self-Respect,” *American Philosophical Quarterly*, 29: 125–139.
-* –––, 1992c, “Toward a Feminist Conception of Self-Respect,” *Hypatia*, 7: 52–69; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Doppelt, G., 2009, “The Place of Self-Respect in a Theory of Justice,” *Inquiry*, 52: 127–154.
-* –––, 1981, “Rawls’s System of Justice: A Critique from the Left,” *Noûs*, 15: 259–307.
-* Elster, J., 1985–86, “Self-Realization in Work and Politics: The Marxist Conception of the Good Life,” *Social Philosophy and Policy*, 3: 97–126.
-* Eyal, N., 2005, “Perhaps the Most Important Primary Good: Self-Respect and Rawls’ Principles of Justice,” *Politics, Philosophy, and Economics*, 4: 195–215.
-* Ezorsky, G., 1991, *Racism & Justice: The Case for Affirmative Action*, Ithaca: Cornell University Press.
-* Falk, W.D., 1986, “Morality, Form, and Content,” in *Ought, Reasons, and Morality: The Collected Papers of W. D. Falk*, Ithaca: Cornell University Press.
-* Feinberg, J., 1970, “The Nature and Value of Rights,” *Journal of Value Inquiry*, 4: 243–257.
-* Ferguson, A., 1987, “A Feminist Aspect Theory of the Self,” in *Science, Morality, and Feminist Theory*, M. Hanen and K. Nielsen (eds.), Calgary: University of Calgary Press.
-* Ferkany, M., 2009, “Recognition, Attachment, and the Social Bases of Self-worth,” *Southern Journal of Philosophy*, 47: 263–283.
-* –––, 2008, “The Educational Importance of Self-Esteem,” *Journal of Philosophy of Education*, 42: 119–132.
-* Flanagan, O., 1991, *Varieties of Moral Personality: Ethics and Psychological Realism*, Cambridge, MA: Harvard University Press.
-* Friedman, M., 1985, “Moral Integrity and the Deferential Wife,” *Philosophical Studies*, 47: 141–150.
-* Gewirth, A., 1992, “Human Dignity as the Basis of Rights,” in *The Constitution of Rights: Human Dignity and American Values*, M.J. Meyer and W.A. Parent (eds.), Ithaca: Cornell University Press.
-* –––, 1978, *Reason and Morality*, Chicago: University of Chicago Press.
-* Govier, T., 1993, “Self-Trust, Autonomy, and Self-Esteem” *Hypatia*, 8: 99–120.
-* Grace, H.A., 1953, “The Self and Self-Acceptance,” *Educational Theory*, 3: 220–235.
-* Grenberg, J., 2010, *Kant and the Ethics of Humility*, Cambridge: Cambridge University Press.
-* Gutman, A., 1980, *Liberal Equality*, Cambridge: Cambridge University Press.
-* Haber, J.G., 1991, *Forgiveness*, Savage, MD: Rowman & Littlefield.
-* Hadji Haldar, H., 2009, “The Qu’ranic Principle of Peace,” *Journal of Shi’a Islamic Studies*, 2: 159–180.
-* Hampton, J., 1997, “The Wisdom of the Egoist: The Moral and Political Implications of Valuing the Self,” *Social Philosophy and Policy*, 14: 21–51.
-* –––, 1993, “Selflessness and the Loss of Self,” *Social Philosophy and Policy*, 10: 135–165.
-* Hansberg, O.E., 2000, “The Role of Emotions in Moral Psychology: Shame and Indignation,” *Proceedings of the Twentieth World Congress of Philosophy, vol 9: Philosophy of Mind*, B. Elevitch (ed.), Bowling Green: Philosophy Documentation Center.
-* Harris, G.W., 2001, “Self-Esteem,” in *Encyclopedia of Ethics*, 2nd edition, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
-* Hay, C., 2013, *Kantianism, Liberalism, and Feminism: Resisting Oppression*, New York: Palgrave Macmillan.
-* –––, 2011, “The Obligation to Resist Oppression,” *Journal of Social Philosophy*, 42: 21–45.
-* Heins, V., 2008, “Realizing Honneth: Redistribution, Recognition, and Global Justice,” *Journal of Global Ethics*, 4: 141–153.
-* Held, V., 1973, “Reasonable Progress and Self-Respect,” *The Monist*, 57: 12–27.
-* Hill, T.E., Jr., 1992, “Self-Respect,” in *Encyclopedia of Ethics*, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
-* –––, 1991, *Autonomy and Self-Respect*, Cambridge: Cambridge University Press.
-* –––, 1986, “Darwall on Practical Reason.” *Ethic*s 96: 604–619.
-* –––, 1982, “Self-Respect Reconsidered,” in *Respect for Persons*, O. H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* –––, 1973, “Servility and Self-Respect,” *Monist*, 57: 12–27; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Hoffman, G., 2014, “The Self-Disrespect Objection to Bioenhancement Technologies: A Feminist Analysis of the Complex Relationship between Enhancement and Self-Respect,” *Southern Journal of Philosophy*, 45: 448–521.
-* Holberg, E.A., 2017, “Kant, Oppression, and the Possibility of Nonculpable Failures to Respect Oneself,” *Southern Journal of Philosophy*, 55: 285–305.
-* Holroyd, J., 2010, “Substantively Constrained Choice and Deference,” *Journal of Moral Philosophy*, 7: 180–199.
-* Holmgren, M., 1998, “Self-Forgiveness and Responsible Moral Agency,” *Journal of Value Inquiry*, 32: 75–91.
-* Honneth, A., 1995, *The Struggle for Recognition: The Moral Grammar of Social Conflicts*, Cambridge: Polity Press.
-* Horsburgh, H.J.N., 1954, “The Plurality of Moral Standards,” *Philosophy*, 24: 332–346.
-* Hudson, S.D., 1986, *Human Character and Morality: Reflections from the History of Ideas*, Boston: Routledge and Kegan Paul.
-* Hume, D., 1751, *Enquiries Concerning the Principle of Morals*, J.B. Schneewind (ed.), Indianapolis: Hackett Publishing Company, 1983.
-* –––, 1739, *A Treatise of Human Nature*, L.A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1971.
-* Ikuenobe, P., 2004, “Culture of Racism, Self-Respect, and Blameworthiness,” *Public Affairs Quarterly*, 18: 27–55.
-* Isenberg, A., 1949, “Natural Pride and Natural Shame,” *Philosophy and Phenomenological Research*, 10: 1–24.
-* Johnson, R., 2011, *Self-Improvement: An Essay in Kantian Ethics*, Oxford: Oxford University Press.
-* Kekes, J., 1988, “Shame and Moral Progress,” in *Ethical Theory: Character and Virtue*, Midwest Studies in Philosophy, vol. 13, P.A. French, T.E. Uehling, and H.K. Wettstein (eds.), Notre Dame: University of Notre Dame Press.
-* Kelleher, W., 2009, “Respect and Empathy in the Social Science Writings of Michael Polanyi,” *Tradition and Discovery*, 35: 8–32.
-* Keshen, R., 2017, *Reasonable Self-Esteem: A Life of Meaning*, Second Edition, Montreal & Kingston: McGill-Queens University Press.
-* Khader, S.J., 2021, “Self-Respect under Conditions of Oppression,” in *Respect: Philosophical Essays*, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
-* Kramer, M.H., 2017, “On Political Morality and the Conditions of Warranted Self-Respect,” *Journal of Ethics*, 21: 335–349.
-* –––, 2002, *Justifying Emotions: Pride and Jealousy*, New York: Routledge.
-* –––, 1998, “Self-Respect, *Megalopsychia*, and Moral Education,” *Journal of Moral Education*, 27: 5–17.
-* Kristjansson, K., 2007, “Measuring Self-Respect,” *Journal for the Theory of Social Behavior*, 37: 225–242.
-* Kupfer, J., 1997, “What’s Wrong with Prostitution?” in *Explorations in Value*, T. Magnal (ed.), Amsterdam: Rodopi.
-* –––, 1995, “Prostitutes, Musicians, and Self-Respect,” *Journal of Social Philosophy*, 26: 75–88.
-* LaCaze, M., 2008, “Seeing Oneself Through the Eyes of the Other: Asymmetrical Reciprocity and Self-Respect,” *Hypatia*, 23: 118–135.
-* Lane, R.E., 1982, “Government and Self-Esteem,” *Political Theory*, 10: 5–31.
-* Lomasky, L., 1987, *Persons, Rights, and the Moral Community*, Oxford: Oxford University Press.
-* Maclaren, E., 1974, “Dignity,” *Journal of Medical Ethics*, 3: 40–41.
-* Margalit, A., 1996, *The Decent Society*, Cambridge, MA: Harvard University Press.
-* Martin, M.W., 1996, *Love’s Virtues*, Lawrence, KS: University Press of Kansas.
-* –––, 1989, *Everyday Morality: An Introduction to Applied Ethics*, Belmont, Calif.: Wadsworth.
-* –––, 1986, *Self-Deception and Morality*, Lawrence, KS: University Press of Kansas.
-* Massey, S. J., 1983a, “Is Self-Respect a Moral or a Psychological Concept?” *Ethics*, 93: 246–261; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* –––, 1983b, “Kant on Self-Respect,” *Journal of the History of Philosophy*, 21: 57–73.
-* Mauri, M., 2011, “Self-Respect and Honesty,” *Filozofia*, 66: 74–82.
-* McGary, H., 1988, “Reparations, Self-Respect, and Public Policy,” in *Ethical Theory and Society*, D. Goldberg (ed.), New York: Holt, Rinehart, & Winston.
-* McKinnon, C., 2000, “Exclusion Rules and Self-Respect,” *Journal of Value Inquiry*, 34: 491–505.
-* –––, 1997, “Self-Respect and the Stepford Wives,” *Proceedings of the Aristotelian Society*, 97: 325–330.
-* Meyer, M.J., 1992, “Dignity,” in *Encyclopedia of Ethics*, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
-* –––, 1989, “Dignity, Rights, and Self-Control,” *Ethics*, 99: 520–534.
-* –––, 1987, “Kant’s Conception of Dignity and Modern Political Thought,” *History of European Ideas*, 8: 319–332.
-* Meyer, M.J., and W.A. Parent, eds., 1992, *The Constitution of Rights: Human Dignity and American Values*, Ithaca: Cornell University Press.
-* Meyers, D.T., 1989, *Self, Society, and Personal Choice*, New York: Columbia University Press; excerpts reprinted in *Dignity, Character, Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* –––, 1987a, “The Socialized Individual and Individual Autonomy,” in *Women and Moral Theory*, E.F. Kittay and D.T. Meyers (eds.), Totowa, NJ: Rowman and Littlefield.
-* –––, 1987b, “Work and Self-Respect,” in *Moral Rights in the Workplace*, G. Ezorsky (ed.), Albany: State University of New York Press.
-* –––, 1986, “The Politics of Self-Respect,” *Hypatia*, 1: 83–100.
-* Michelman, F., 1975, “Constitutional Welfare Rights and A Theory of Justice,” in *Reading Rawls: Critical Studies of*, A Theory of Justice, N. Daniels (ed.), New York: Basic Books, Inc.
-* Middleton, D., 2006, “Three Types of Self-Respect,” *Res Publica*, 12: 59–76.
-* Mohr, R.D., 1992, *Gay Ideas: Outings and Other Controversies*, Boston: Beacon Press.
-* –––, 1988, *Gays/Justice: A Study of Ethics, Society, and Law*, New York: Columbia University Press.
-* Molyneux, D., 2009, “Should Healthcare Professionals Respect Autonomy Just Because it Promotes Welfare?”, *Journal of Medical Ethics*, 35: 245–250.
-* Montefiore, A., 1980, “Self-Reality, Self-Respect, and Respect for Others,” in *Studies in Ethical Theory*, Midwest Studies in Philosophy, vol. 3, P.A. French, T.E. Uehling, and H.K. Wettstein (eds.), Minneapolis: University of Minnesota Press.
-* Moody-Adams, M.M., 1992–93, “Race, Class, and the Social Construction of Self-Respect,” *The Philosophical Forum*, 24: 251–266; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Morgan, K.P., 1986, “Romantic Love, Altruism, and Self-Respect: An Analysis of Simone de Beauvoir,” *Hypatia*, 1: 117–148.
-* Morris, B., 1946, “The Dignity of Man,” *Ethics*, 57: 57–64.
-* Murphy, J.G., 1982, “Forgiveness and Resentment,” *Midwest Studies in Philosophy*, 7: 503–516.
-* –––, 1972, “Moral Death: A Kantian Essay on Psychopathy,” *Ethics*, 82: 284–298.
-* Murphy, J.G. and Hampton, J., 1988, *Forgiveness and Mercy*, Cambridge: Cambridge University Press.
-* Nielsen, K., 1980, “Capitalism, Socialism, and Justice: Reflections on Rawls’s Theory of Justice,” *Social Praxis*, 7: 253–277.
-* Novitz, D., 1998, “Forgiveness and Self-Respect,” *Philosophy and Phenomenological Research*, 58: 299–315.
-* Nozick, R., 1981, *Philosophical Explanations*, Cambridge, MA: Harvard University Press.
-* –––, 1974, *Anarchy, State, and Utopia*, New York: Basis Books.
-* Owen, D., 2002, “Equality, Democracy, and Self-Respect: Reflections of Nietzsche’s Agonal Perfectionism,” *Journal of Nietzsche Studies*, 24: 113–131.
-* Parent, W.A., 1992, “Constitutional Values and Human Dignity,” in *The Constitution of Rights: Human Dignity and American Values*, M.J. Meyer and W.A. Parent (eds.), Ithaca: Cornell University Press.
-* Peters, R.S., 1974, *Psychology and Ethical Development*, London: George Allen and Unwin.
-* Phillips, M., 1987, “Reason, Dignity, and the Formal Conception of Practical Reason,” *American Philosophical Quarterly*, 24: 191–198.
-* Postow, B.C., 1978–79, “Economic Dependence and Self-Respect,” *The Philosophical Forum*, 10: 181–205.
-* Pritchard, M.S., 1991, *On Becoming Responsible*, Lawrence, KS: University Press of Kansas.
-* –––, 1982, “Self-Regard and the Supererogatory,” in *Respect for Persons*, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* –––, 1977, “Rawls’s Moral Psychology,” *Southwestern Journal of Philosophy*, 8: 59–72.
-* –––, 1972, “Human Dignity and Justice,” *Ethics*, 82: 299–313.
-* Proudfoot, W., 1978, “Rawls on Self-Respect and Social Union,” *Journal of Chinese Philosophy*, 5: 255–269.
-* Pullman, D., 1990, “Self-Respect, Morality, and Justice,” in *Terrorism, Justice, and Social Values*, C. Peden (ed.), Lewiston: Mellen Press.
-* Rawls, J., 2000, *Lectures on the History of Moral Philosophy*, Barbara Herman (ed.), Cambridge, Mass: Harvard University Press.
-* –––, 1982, “The Basic Liberties and Their Priority,” in *The Tanner Lectures on Human Values*, vol. 3, Salt Lake City: University of Utah Press.
-* –––, 1980, “Kantian Constructivism in Moral Theory,” *The Journal of Philosophy*, 77: 515–572.
-* –––, 1971, *A Theory of Justice*, Cambridge, MA: Harvard University Press; excerpt reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Raz, J., 1989, “Liberating Duties,” *Law and Philosophy*.
-* Sachs, D., 1982, “Self-Respect and Respect for Others: Are They Independent?” in *Respect for Persons*, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
-* –––, 1981, “How to Distinguish Self-Respect from Self-Esteem,” *Philosophy and Public Affairs*, 10: 346–360.
-* Scarre, G., 2001, “Upton on Evil Pleasures,” *Utilitas*, 13: 106–111.
-* –––, 1992, “Utilitarianism and Self-Respect,” *Utilitas*, 4: 27–42.
-* Schemmel, c., 2019, “Real Self-Respect and Its Social Bases,” *Canadian Journal of Philosophy, 49: 628–651.*
-* Seglow, J., 2016, “Hate Speech, Dignity, and Self-Respect,” *Ethical Theory and Moral Practice*, 19: 1103–1116.
-* Seidler, V. J., 1991, *The Moral Limits of Modernity: Love, Inequality, and Oppression*. New York: St. Martin’s Press.
-* –––, 1986, *Kant, Respect, and Injustice: The Limits of Liberal Moral Theory*, London: Routledge & Kegan Paul.
-* Shue, H., 1975, “Liberty and Self-Respect,” *Ethics*, 85: 195–203.
-* Solomon, R., 1977, *The Passions*, New York: Basic Books.
-* Speigelberg, H., 1971, “Human Dignity: A Challenge to Contemporary Philosophy,” *Philosophy Forum*, 9: 39–64.
-* Stark, C. A., 2021, “Gaslighting, Dignity, and Self-Respect,” in *Human Dignity and the Kingdom of Ends: Kantian Perspectives and Practical Applications*, A. Cureton and J-W. van der Rijt (eds.), New York: Routledge.
-* –––, 2020, “Self-Respect,” in *Routledge Encyclopedia of Philosophy*, Taylor and Francis [[Stark 2020 available online](https://www.rep.routledge.com/articles/thematic/self-respect/v-2)] doi: 10.4324/9780415249126-LO92-2 (print version 1998).
-* –––, 2012, “Rawlsian Self-Respect,” in *Oxford Studies in Normative Ethics*, vol 2, M. Timmons (ed.), Oxford University Press.
-* –––, 1998, “Self-Respect,” *in Routledge Encyclopedia of Philosophy*, E. Craig (ed.), London: Routledge.
-* –––, 1997, “The Rationality of Valuing Oneself: A Critique of Kant on Self-Respect,” *Journal of the History of Philosophy*, 35: 65–82.
-* Statman, D., 2002, “Humiliation, Dignity, and Self-Respect,” *Philosophical Psychology*, 13: 523–540.
-* Strike, K., 1980, “Education, Justice, and Self-Respect: A School for Rodney Dangerfield,” *Philosophy of Education*, 35: 41–49.
-* Szabados, B., 1989–90, “Embarrassment and Self-Esteem,” *Journal of Philosophical Research*, 15: 341–349.
-* Taylor, C., 1989, *Sources of the Self: The Making of the Modern Identity*, Cambridge, MA: Harvard University Press.
-* Taylor, G., 1985, *Pride, Shame, and Guilt: Emotions of Self-Assessment*, Oxford: Oxford University Press; excerpts reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Telfer, E., 1968, “Self-Respect,” *The Philosophical Quarterly*, 18: 114–121; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* Thomas, L., 2003, “Self-Respect, Fairness, and Living Morally,” in *A Companion to African American Philosophy*, T. Lott (ed.), Malden, MA: Blackwell.
-* –––, 2001b, “The Moral Self in the Face of Injustice,” in *Social and Political Philosophy: Contemporary Perspectives*, J.P. Sterba (ed.), London: Routledge.
-* –––, 2000, “Moral Psychology,” in *The Blackwell Guide to Ethical Theory*, H. LaFollette (ed.), Malden, MA: Blackwell Publishers.
-* –––, 1989, *Living Morally: A Psychology of Moral Character*, Philadelphia: Temple University Press.
-* –––, 1983a, “Self-Respect: Theory and Practice,” in *Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917*, L. Harris (ed.), Kendall/Hunt Publishing Company; reprinted in *Dignity, Character, and Self-Respect*, R.S. Dillon (ed.), New York: Routledge, 1995.
-* –––, 1983b, “Morality, the Self, and Our Natural Sentiments,” in *Emotion: Philosophical Studies*, K.D. Irani and G.E. Meyers (eds.), New York: Haven Publishing Corp.
-* –––, 1982, “Law, Morality, and Our Psychological Nature,” in *Social Justice*, M. Bradie and D. Braybrooke (eds.), Bowling Green, Ohio: Bowling Green Studies in Applied Philosophy, vol IV.
-* –––, 1980, “Sexism and Racism: Some Conceptual Differences,” *Ethics*, 90: 239–250.
-* –––, 1979, “Capitalism vs. Marx’s Communism,” *Studies in Soviet Thought*, 20: 57–79.
-* –––, 1978, “Morality and Our Self-Concept,” *Journal of Value Inquiry*, 12: 258–268.
-* –––, 1978–79, “Rawlsian Self-Respect and the Black Consciousness Movement,” *The Philosophical Forum*, 9: 303–314.
-* Van Leeuwen, B., 2007, “A Formal Recognition of Social Attachment: Expanding Axel Honneth’s Theory of Recognition,” *Inquiry*, 50: 180–205.
-* Vlastos, G., 1962, “Justice and Equality,” in *Social Justice*, R. Brandt (ed.), Englewood Cliffs, NJ: Prentice Hall.
-* Weber, E.T, 2016, “Self-Respect and a Sense of Positive Power: On Protection, Self-Affirmation, and Harm in the Charge of ‘Acting White’,” *Journal of Speculative Philosophy*, 30: 45–63.
-* Weil, S., 1972, *The Need for Roots*, London: Routledge & Kegan Paul.
-* –––, 1965, *Seventy Letters*, Oxford: Oxford University Press.
-* Whitfield, G., 2017, “Self-Respect and Public Reason,” *Critical Review of International Social and Political Philosophy*, 20: 677–696.
-* Wisnewski, J., 2009, “What We Owe the Dead,” *Journal of Applied Philosophy*, 26: 54–70.
-* Wong, D.B., 1984, *Moral Relativity*, Berkeley: University of California Press.
-* Worsfold, V.L., 1988, “Educating for Self-Respect,” *Philosophy of Education*, 44: 258–269.
-* Yanal, R.J., 1987, “Self-Esteem,” *Noûs*, 21: 363–379.
+* Adler, M.J., et al., 1952, “Honor,” in _The Great Ideas: A Syntopicon of Great Books of the Western World_, Chicago: Encyclopedia Britannica, Inc.
+* Allen, R.F., 2008, “Free Agency and Self-Esteem,” _Sorites_, 20: 74–79.
+* Andrew, B., 2011, “Self-Respect and Loving Others,” in _Sex, Love, and Friendship_, A. L. McEvoy (ed.), New York: Rodopi.
+* Aristotle, _Nicomachean Ethics_, W.D. Ross (trans.), in _Basic Works of Aristotle_, R. McKeon (ed.), New York: Random House, 1941.
+* Babbitt, S., 2000, _Artless Integrity: Moral Imagination, Agency, and Stories_, Lanham, MD: Rowman & Littlefield.
+* –––, 1993, “Feminism and Objective Interests: The Role of Transformation Experiences in Rational Deliberation,” in _Feminist Epistemologies_, L. Alcoff and E. Potter (eds.), New York: Routledge.
+* Balaief, L., 1975, “Self-Esteem and Human Equality,” _Philosophy and Phenomenological Research_, 36: 25–43.
+* Bagnoli, C., 2009, “The Mafioso Case: Autonomy and Self-Respect,” _Ethical Theory and Moral Practice_, 12: 477–493.
+* Bartky, S.L., 1990a, “Feminine Masochism and the Politics of Personal Transformation,” in Bartky, _Femininity and Domination: Studies in the Phenomenology of Oppression_, New York: Routledge.
+* –––, 1990b, “On Psychological Oppression,” Bartky, _Femininity and Domination: Studies in the Phenomenology of Oppression_, New York: Routledge
+* –––, 1990c, “Shame and Gender,” in Bartky, _Femininity and Domination: Studies in the Phenomenology of Oppression_, New York: Routledge.
+* Basevich, E., 2022, “Self-Respect and Self-Segregation: A Du Boisian Challenge to Kant and Rawls,” _Social Theory and Practice_, 3.
+* Baumeister, R.L, L. Smart, and J.M Boden, “Relation of Threatened Egotism to Violence and Aggression: The Dark Side of High Self-Esteem,” _Psychological Review_, 103: 5–33.
+* Becker, L.C., 1992, “Pride,” in _Encyclopedia of Ethics_, L. C. Becker and C. B. Becker (eds.), New York: Garland Publishing, Inc.
+* Bernick, M., 1978, “A Note on Promoting Self-Esteem,” _Political Theory_, 6: 109–118.
+* Bird, C., 2010, “Self-Respect and the Respect of Others,” _European Journal of Philosophy_, 18: 17–40.
+* Bloomfield, P., 2011, “Justice as a Self-Regarding Virtue,” _Philosophy and Phenomenological Research_, 82: 46–64.
+* ––, 2008, “The Harm of Immorality” _Ratio_, 21: 241–259.
+* Borgwald, K., 2012, “Women’s Anger, Epistemic Personhood, and Self-Respect,” _Philosophical Studies_, 161: 69–76.
+* Boxill, B.R., 1992, _Blacks and Social Justice_, Lanham, MD: Rowman & Littlefield.
+* –––, 1976, “Self-Respect and Protest,” _Philosophy and Public Affairs_, 6: 58–69; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Boxill, B., and J. Boxill, 2015, “Servility and Self-Respect: An African American and Feminist Critique,” in _Reasons, Value, and Respect: Kantian Themes From the Philosophy of Thomas E. Hill, Jr._, M. Timmons and R. Johnson (eds.), Oxford: Oxford University Press.
+* Bratu, C., 2019–2020, “Self-Respect and the Disrespect of Others,” _Ergo_, 6 \[[Bratu 2019–20 available online](https://quod.lib.umich.edu/cgi/t/text/idx/e/ergo/12405314.0006.013/--self-respect-and-the-disrespect-of-others?rgn=main;view=fulltext)] doi: 10.3998/ergo.12405314.0006.013.
+* Braybrooke, D., 1983, _Ethics in the World of Business_, Totowa, N.J.: Rowman & Allanheld.
+* Campbell, R., 1979, _Self-Love and Self-Respect: A Philosophical Study of Egoism_, Ottawa: Canadian Library of Philosophy.
+* Care, N., 2000, _Decent People_, Lanham, MD: Rowman & Littlefield.
+* Carter, J.A., and E.C. Gordon (eds.), _The Moral Psychology of Pride_, London: Rowman & Littlefield.
+* Champlin, T.S., 1995, “Hanfling on Self-Love,” _Philosophy_, 70: 107–110.
+* Chazan, P., 1998, “Self-Esteem, Self-Respect, and Love of Self: Ways of Valuing the Self,” _Philosophia_, 26: 41–63.
+* Christensen, D., 2007, “Epistemic Self-Respect,” _Proceedings of the Aristotelian Society_, 107: 319–337.
+* Collins, P.H., 1990, _Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment_, New York: Routledge.
+* Cunningham, A., 2013, _Modern Honor: A Philosophical Defense_, New York: Routledge.
+* Cureton, A., 2013, “From Self-Respect to Respect for Others,” _Pacific Philosophical Quarterly_, 94: 166–187.
+* Daniels, N., 1975, “Equal Liberty and Unequal Worth of Liberty,” in _Reading Rawls: Critical Studies of “A Theory of Justice_,” N. Daniels (ed.), New York: Basic Books, Inc.
+* Darwall, S.L., 1988, “Self-Deception, Autonomy, and Moral Constitution,” in _Perspectives on Self-Deception_, B.P. McLaughlin and A.O. Rorty (eds.), Berkeley: University of California Press.
+* DeGrazia, D., 1991, “Grounding a Right to Health Care in Self-Respect and Self-Esteem,” _Public Affairs Quarterly_, 5: 301–318.
+* Deigh, J., 1983, “Shame and Self-Esteem: A Critique,” _Ethics_, 93: 225–245; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Diller, A., 2001, “Pride and Self-Respect in Unjust Social Orders,” _Philosophy of Education 2001_: 308–310.
+* Dillon, R. S., forthcoming, “Old-Fashioned Vices in Contemporary Crises, or, It Matters How You Value Yourself,” in _Oxford Studies in Normative Ethics_, vol 12, M. Timmons (ed.), Oxford: Oxford University Press.
+* –––, 2021, “Self-Respect, Arrogance, and Power: A Feminist Analysis,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* –––, 2020, “Humility and Self-Respect: Kantian and Feminist Perspectives,” in _Routledge Handbook on the Philosophy of Humility_, M. Alfano, M.P. Lynch, and A. Tanesini (eds.), London and New York: Routledge.
+* –––, 2015, “Self-Respect and Humility in Kant and Hill,” in _Reason, Value, and Respect: Kantian Themes from the Philosophy of Thomas E. Hill, Jr._, M. Timmons and R. Johnson (eds.), Oxford: Oxford University Press.
+* –––, 2013, “Self-Respect and Self-Esteem,” _International Encyclopedia of Ethics_, H. LaFollette (ed.), New York: Wiley–Blackwell.
+* –––, 2007, “Arrogance, Self-Respect, and Personhood,” _Journal of Consciousness Studies_, 14: 101–126.
+* –––, 2004, “‘What’s a Woman Worth? What’s Life Worth? Without Self-Respect?’: On the Value of Evaluative Self-Respect,” in _Moral Psychology: Feminist Ethics and Social Theory_, P. DesAutels and M. Walker (eds.), Lanham, MD: Rowman & Littlefield.
+* –––, 2003, “Kant on Arrogance and Self-Respect,” in _Setting the Moral Compass: Essays by Women Philosophers_, C. Calhoun (ed.), Oxford: Oxford University Press.
+* –––, 2001, “Self-Forgiveness and Self-Respect,” _Ethics_, 112: 53–83.
+* –––, 1997, “Self-Respect: Moral, Emotional, Political,” _Ethics_, 107: 226–249.
+* ––– (ed.), 1995, _Dignity, Character, and Self-Respect_, New York: Routledge.
+* –––, 1992b, “How to Lose Your Self-Respect,” _American Philosophical Quarterly_, 29: 125–139.
+* –––, 1992c, “Toward a Feminist Conception of Self-Respect,” _Hypatia_, 7: 52–69; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Doppelt, G., 2009, “The Place of Self-Respect in a Theory of Justice,” _Inquiry_, 52: 127–154.
+* –––, 1981, “Rawls’s System of Justice: A Critique from the Left,” _Noûs_, 15: 259–307.
+* Elster, J., 1985–86, “Self-Realization in Work and Politics: The Marxist Conception of the Good Life,” _Social Philosophy and Policy_, 3: 97–126.
+* Eyal, N., 2005, “Perhaps the Most Important Primary Good: Self-Respect and Rawls’ Principles of Justice,” _Politics, Philosophy, and Economics_, 4: 195–215.
+* Ezorsky, G., 1991, _Racism & Justice: The Case for Affirmative Action_, Ithaca: Cornell University Press.
+* Falk, W.D., 1986, “Morality, Form, and Content,” in _Ought, Reasons, and Morality: The Collected Papers of W. D. Falk_, Ithaca: Cornell University Press.
+* Feinberg, J., 1970, “The Nature and Value of Rights,” _Journal of Value Inquiry_, 4: 243–257.
+* Ferguson, A., 1987, “A Feminist Aspect Theory of the Self,” in _Science, Morality, and Feminist Theory_, M. Hanen and K. Nielsen (eds.), Calgary: University of Calgary Press.
+* Ferkany, M., 2009, “Recognition, Attachment, and the Social Bases of Self-worth,” _Southern Journal of Philosophy_, 47: 263–283.
+* –––, 2008, “The Educational Importance of Self-Esteem,” _Journal of Philosophy of Education_, 42: 119–132.
+* Flanagan, O., 1991, _Varieties of Moral Personality: Ethics and Psychological Realism_, Cambridge, MA: Harvard University Press.
+* Friedman, M., 1985, “Moral Integrity and the Deferential Wife,” _Philosophical Studies_, 47: 141–150.
+* Gewirth, A., 1992, “Human Dignity as the Basis of Rights,” in _The Constitution of Rights: Human Dignity and American Values_, M.J. Meyer and W.A. Parent (eds.), Ithaca: Cornell University Press.
+* –––, 1978, _Reason and Morality_, Chicago: University of Chicago Press.
+* Govier, T., 1993, “Self-Trust, Autonomy, and Self-Esteem” _Hypatia_, 8: 99–120.
+* Grace, H.A., 1953, “The Self and Self-Acceptance,” _Educational Theory_, 3: 220–235.
+* Grenberg, J., 2010, _Kant and the Ethics of Humility_, Cambridge: Cambridge University Press.
+* Gutman, A., 1980, _Liberal Equality_, Cambridge: Cambridge University Press.
+* Haber, J.G., 1991, _Forgiveness_, Savage, MD: Rowman & Littlefield.
+* Hadji Haldar, H., 2009, “The Qu’ranic Principle of Peace,” _Journal of Shi’a Islamic Studies_, 2: 159–180.
+* Hampton, J., 1997, “The Wisdom of the Egoist: The Moral and Political Implications of Valuing the Self,” _Social Philosophy and Policy_, 14: 21–51.
+* –––, 1993, “Selflessness and the Loss of Self,” _Social Philosophy and Policy_, 10: 135–165.
+* Hansberg, O.E., 2000, “The Role of Emotions in Moral Psychology: Shame and Indignation,” _Proceedings of the Twentieth World Congress of Philosophy, vol 9: Philosophy of Mind_, B. Elevitch (ed.), Bowling Green: Philosophy Documentation Center.
+* Harris, G.W., 2001, “Self-Esteem,” in _Encyclopedia of Ethics_, 2nd edition, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
+* Hay, C., 2013, _Kantianism, Liberalism, and Feminism: Resisting Oppression_, New York: Palgrave Macmillan.
+* –––, 2011, “The Obligation to Resist Oppression,” _Journal of Social Philosophy_, 42: 21–45.
+* Heins, V., 2008, “Realizing Honneth: Redistribution, Recognition, and Global Justice,” _Journal of Global Ethics_, 4: 141–153.
+* Held, V., 1973, “Reasonable Progress and Self-Respect,” _The Monist_, 57: 12–27.
+* Hill, T.E., Jr., 1992, “Self-Respect,” in _Encyclopedia of Ethics_, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
+* –––, 1991, _Autonomy and Self-Respect_, Cambridge: Cambridge University Press.
+* –––, 1986, “Darwall on Practical Reason.” _Ethic_s 96: 604–619.
+* –––, 1982, “Self-Respect Reconsidered,” in _Respect for Persons_, O. H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* –––, 1973, “Servility and Self-Respect,” _Monist_, 57: 12–27; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Hoffman, G., 2014, “The Self-Disrespect Objection to Bioenhancement Technologies: A Feminist Analysis of the Complex Relationship between Enhancement and Self-Respect,” _Southern Journal of Philosophy_, 45: 448–521.
+* Holberg, E.A., 2017, “Kant, Oppression, and the Possibility of Nonculpable Failures to Respect Oneself,” _Southern Journal of Philosophy_, 55: 285–305.
+* Holroyd, J., 2010, “Substantively Constrained Choice and Deference,” _Journal of Moral Philosophy_, 7: 180–199.
+* Holmgren, M., 1998, “Self-Forgiveness and Responsible Moral Agency,” _Journal of Value Inquiry_, 32: 75–91.
+* Honneth, A., 1995, _The Struggle for Recognition: The Moral Grammar of Social Conflicts_, Cambridge: Polity Press.
+* Horsburgh, H.J.N., 1954, “The Plurality of Moral Standards,” _Philosophy_, 24: 332–346.
+* Hudson, S.D., 1986, _Human Character and Morality: Reflections from the History of Ideas_, Boston: Routledge and Kegan Paul.
+* Hume, D., 1751, _Enquiries Concerning the Principle of Morals_, J.B. Schneewind (ed.), Indianapolis: Hackett Publishing Company, 1983.
+* –––, 1739, _A Treatise of Human Nature_, L.A. Selby-Bigge (ed.), Oxford: Oxford University Press, 1971.
+* Ikuenobe, P., 2004, “Culture of Racism, Self-Respect, and Blameworthiness,” _Public Affairs Quarterly_, 18: 27–55.
+* Isenberg, A., 1949, “Natural Pride and Natural Shame,” _Philosophy and Phenomenological Research_, 10: 1–24.
+* Johnson, R., 2011, _Self-Improvement: An Essay in Kantian Ethics_, Oxford: Oxford University Press.
+* Kekes, J., 1988, “Shame and Moral Progress,” in _Ethical Theory: Character and Virtue_, Midwest Studies in Philosophy, vol. 13, P.A. French, T.E. Uehling, and H.K. Wettstein (eds.), Notre Dame: University of Notre Dame Press.
+* Kelleher, W., 2009, “Respect and Empathy in the Social Science Writings of Michael Polanyi,” _Tradition and Discovery_, 35: 8–32.
+* Keshen, R., 2017, _Reasonable Self-Esteem: A Life of Meaning_, Second Edition, Montreal & Kingston: McGill-Queens University Press.
+* Khader, S.J., 2021, “Self-Respect under Conditions of Oppression,” in _Respect: Philosophical Essays_, R. Dean and O. Sensen (eds.), Oxford: Oxford University Press.
+* Kramer, M.H., 2017, “On Political Morality and the Conditions of Warranted Self-Respect,” _Journal of Ethics_, 21: 335–349.
+* –––, 2002, _Justifying Emotions: Pride and Jealousy_, New York: Routledge.
+* –––, 1998, “Self-Respect, _Megalopsychia_, and Moral Education,” _Journal of Moral Education_, 27: 5–17.
+* Kristjansson, K., 2007, “Measuring Self-Respect,” _Journal for the Theory of Social Behavior_, 37: 225–242.
+* Kupfer, J., 1997, “What’s Wrong with Prostitution?” in _Explorations in Value_, T. Magnal (ed.), Amsterdam: Rodopi.
+* –––, 1995, “Prostitutes, Musicians, and Self-Respect,” _Journal of Social Philosophy_, 26: 75–88.
+* LaCaze, M., 2008, “Seeing Oneself Through the Eyes of the Other: Asymmetrical Reciprocity and Self-Respect,” _Hypatia_, 23: 118–135.
+* Lane, R.E., 1982, “Government and Self-Esteem,” _Political Theory_, 10: 5–31.
+* Lomasky, L., 1987, _Persons, Rights, and the Moral Community_, Oxford: Oxford University Press.
+* Maclaren, E., 1974, “Dignity,” _Journal of Medical Ethics_, 3: 40–41.
+* Margalit, A., 1996, _The Decent Society_, Cambridge, MA: Harvard University Press.
+* Martin, M.W., 1996, _Love’s Virtues_, Lawrence, KS: University Press of Kansas.
+* –––, 1989, _Everyday Morality: An Introduction to Applied Ethics_, Belmont, Calif.: Wadsworth.
+* –––, 1986, _Self-Deception and Morality_, Lawrence, KS: University Press of Kansas.
+* Massey, S. J., 1983a, “Is Self-Respect a Moral or a Psychological Concept?” _Ethics_, 93: 246–261; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* –––, 1983b, “Kant on Self-Respect,” _Journal of the History of Philosophy_, 21: 57–73.
+* Mauri, M., 2011, “Self-Respect and Honesty,” _Filozofia_, 66: 74–82.
+* McGary, H., 1988, “Reparations, Self-Respect, and Public Policy,” in _Ethical Theory and Society_, D. Goldberg (ed.), New York: Holt, Rinehart, & Winston.
+* McKinnon, C., 2000, “Exclusion Rules and Self-Respect,” _Journal of Value Inquiry_, 34: 491–505.
+* –––, 1997, “Self-Respect and the Stepford Wives,” _Proceedings of the Aristotelian Society_, 97: 325–330.
+* Meyer, M.J., 1992, “Dignity,” in _Encyclopedia of Ethics_, L.C. Becker and C.B. Becker (eds.), New York: Garland Publishing, Inc.
+* –––, 1989, “Dignity, Rights, and Self-Control,” _Ethics_, 99: 520–534.
+* –––, 1987, “Kant’s Conception of Dignity and Modern Political Thought,” _History of European Ideas_, 8: 319–332.
+* Meyer, M.J., and W.A. Parent, eds., 1992, _The Constitution of Rights: Human Dignity and American Values_, Ithaca: Cornell University Press.
+* Meyers, D.T., 1989, _Self, Society, and Personal Choice_, New York: Columbia University Press; excerpts reprinted in _Dignity, Character, Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* –––, 1987a, “The Socialized Individual and Individual Autonomy,” in _Women and Moral Theory_, E.F. Kittay and D.T. Meyers (eds.), Totowa, NJ: Rowman and Littlefield.
+* –––, 1987b, “Work and Self-Respect,” in _Moral Rights in the Workplace_, G. Ezorsky (ed.), Albany: State University of New York Press.
+* –––, 1986, “The Politics of Self-Respect,” _Hypatia_, 1: 83–100.
+* Michelman, F., 1975, “Constitutional Welfare Rights and A Theory of Justice,” in _Reading Rawls: Critical Studies of_, A Theory of Justice, N. Daniels (ed.), New York: Basic Books, Inc.
+* Middleton, D., 2006, “Three Types of Self-Respect,” _Res Publica_, 12: 59–76.
+* Mohr, R.D., 1992, _Gay Ideas: Outings and Other Controversies_, Boston: Beacon Press.
+* –––, 1988, _Gays/Justice: A Study of Ethics, Society, and Law_, New York: Columbia University Press.
+* Molyneux, D., 2009, “Should Healthcare Professionals Respect Autonomy Just Because it Promotes Welfare?”, _Journal of Medical Ethics_, 35: 245–250.
+* Montefiore, A., 1980, “Self-Reality, Self-Respect, and Respect for Others,” in _Studies in Ethical Theory_, Midwest Studies in Philosophy, vol. 3, P.A. French, T.E. Uehling, and H.K. Wettstein (eds.), Minneapolis: University of Minnesota Press.
+* Moody-Adams, M.M., 1992–93, “Race, Class, and the Social Construction of Self-Respect,” _The Philosophical Forum_, 24: 251–266; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Morgan, K.P., 1986, “Romantic Love, Altruism, and Self-Respect: An Analysis of Simone de Beauvoir,” _Hypatia_, 1: 117–148.
+* Morris, B., 1946, “The Dignity of Man,” _Ethics_, 57: 57–64.
+* Murphy, J.G., 1982, “Forgiveness and Resentment,” _Midwest Studies in Philosophy_, 7: 503–516.
+* –––, 1972, “Moral Death: A Kantian Essay on Psychopathy,” _Ethics_, 82: 284–298.
+* Murphy, J.G. and Hampton, J., 1988, _Forgiveness and Mercy_, Cambridge: Cambridge University Press.
+* Nielsen, K., 1980, “Capitalism, Socialism, and Justice: Reflections on Rawls’s Theory of Justice,” _Social Praxis_, 7: 253–277.
+* Novitz, D., 1998, “Forgiveness and Self-Respect,” _Philosophy and Phenomenological Research_, 58: 299–315.
+* Nozick, R., 1981, _Philosophical Explanations_, Cambridge, MA: Harvard University Press.
+* –––, 1974, _Anarchy, State, and Utopia_, New York: Basis Books.
+* Owen, D., 2002, “Equality, Democracy, and Self-Respect: Reflections of Nietzsche’s Agonal Perfectionism,” _Journal of Nietzsche Studies_, 24: 113–131.
+* Parent, W.A., 1992, “Constitutional Values and Human Dignity,” in _The Constitution of Rights: Human Dignity and American Values_, M.J. Meyer and W.A. Parent (eds.), Ithaca: Cornell University Press.
+* Peters, R.S., 1974, _Psychology and Ethical Development_, London: George Allen and Unwin.
+* Phillips, M., 1987, “Reason, Dignity, and the Formal Conception of Practical Reason,” _American Philosophical Quarterly_, 24: 191–198.
+* Postow, B.C., 1978–79, “Economic Dependence and Self-Respect,” _The Philosophical Forum_, 10: 181–205.
+* Pritchard, M.S., 1991, _On Becoming Responsible_, Lawrence, KS: University Press of Kansas.
+* –––, 1982, “Self-Regard and the Supererogatory,” in _Respect for Persons_, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* –––, 1977, “Rawls’s Moral Psychology,” _Southwestern Journal of Philosophy_, 8: 59–72.
+* –––, 1972, “Human Dignity and Justice,” _Ethics_, 82: 299–313.
+* Proudfoot, W., 1978, “Rawls on Self-Respect and Social Union,” _Journal of Chinese Philosophy_, 5: 255–269.
+* Pullman, D., 1990, “Self-Respect, Morality, and Justice,” in _Terrorism, Justice, and Social Values_, C. Peden (ed.), Lewiston: Mellen Press.
+* Rawls, J., 2000, _Lectures on the History of Moral Philosophy_, Barbara Herman (ed.), Cambridge, Mass: Harvard University Press.
+* –––, 1982, “The Basic Liberties and Their Priority,” in _The Tanner Lectures on Human Values_, vol. 3, Salt Lake City: University of Utah Press.
+* –––, 1980, “Kantian Constructivism in Moral Theory,” _The Journal of Philosophy_, 77: 515–572.
+* –––, 1971, _A Theory of Justice_, Cambridge, MA: Harvard University Press; excerpt reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Raz, J., 1989, “Liberating Duties,” _Law and Philosophy_.
+* Sachs, D., 1982, “Self-Respect and Respect for Others: Are They Independent?” in _Respect for Persons_, O.H. Green (ed.), Tulane Studies in Philosophy, Vol. 31, New Orleans: Tulane University Press.
+* –––, 1981, “How to Distinguish Self-Respect from Self-Esteem,” _Philosophy and Public Affairs_, 10: 346–360.
+* Scarre, G., 2001, “Upton on Evil Pleasures,” _Utilitas_, 13: 106–111.
+* –––, 1992, “Utilitarianism and Self-Respect,” _Utilitas_, 4: 27–42.
+* Schemmel, c., 2019, “Real Self-Respect and Its Social Bases,” _Canadian Journal of Philosophy, 49: 628–651._
+* Seglow, J., 2016, “Hate Speech, Dignity, and Self-Respect,” _Ethical Theory and Moral Practice_, 19: 1103–1116.
+* Seidler, V. J., 1991, _The Moral Limits of Modernity: Love, Inequality, and Oppression_. New York: St. Martin’s Press.
+* –––, 1986, _Kant, Respect, and Injustice: The Limits of Liberal Moral Theory_, London: Routledge & Kegan Paul.
+* Shue, H., 1975, “Liberty and Self-Respect,” _Ethics_, 85: 195–203.
+* Solomon, R., 1977, _The Passions_, New York: Basic Books.
+* Speigelberg, H., 1971, “Human Dignity: A Challenge to Contemporary Philosophy,” _Philosophy Forum_, 9: 39–64.
+* Stark, C. A., 2021, “Gaslighting, Dignity, and Self-Respect,” in _Human Dignity and the Kingdom of Ends: Kantian Perspectives and Practical Applications_, A. Cureton and J-W. van der Rijt (eds.), New York: Routledge.
+* –––, 2020, “Self-Respect,” in _Routledge Encyclopedia of Philosophy_, Taylor and Francis \[[Stark 2020 available online](https://www.rep.routledge.com/articles/thematic/self-respect/v-2)] doi: 10.4324/9780415249126-LO92-2 (print version 1998).
+* –––, 2012, “Rawlsian Self-Respect,” in _Oxford Studies in Normative Ethics_, vol 2, M. Timmons (ed.), Oxford University Press.
+* –––, 1998, “Self-Respect,” _in Routledge Encyclopedia of Philosophy_, E. Craig (ed.), London: Routledge.
+* –––, 1997, “The Rationality of Valuing Oneself: A Critique of Kant on Self-Respect,” _Journal of the History of Philosophy_, 35: 65–82.
+* Statman, D., 2002, “Humiliation, Dignity, and Self-Respect,” _Philosophical Psychology_, 13: 523–540.
+* Strike, K., 1980, “Education, Justice, and Self-Respect: A School for Rodney Dangerfield,” _Philosophy of Education_, 35: 41–49.
+* Szabados, B., 1989–90, “Embarrassment and Self-Esteem,” _Journal of Philosophical Research_, 15: 341–349.
+* Taylor, C., 1989, _Sources of the Self: The Making of the Modern Identity_, Cambridge, MA: Harvard University Press.
+* Taylor, G., 1985, _Pride, Shame, and Guilt: Emotions of Self-Assessment_, Oxford: Oxford University Press; excerpts reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Telfer, E., 1968, “Self-Respect,” _The Philosophical Quarterly_, 18: 114–121; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* Thomas, L., 2003, “Self-Respect, Fairness, and Living Morally,” in _A Companion to African American Philosophy_, T. Lott (ed.), Malden, MA: Blackwell.
+* –––, 2001b, “The Moral Self in the Face of Injustice,” in _Social and Political Philosophy: Contemporary Perspectives_, J.P. Sterba (ed.), London: Routledge.
+* –––, 2000, “Moral Psychology,” in _The Blackwell Guide to Ethical Theory_, H. LaFollette (ed.), Malden, MA: Blackwell Publishers.
+* –––, 1989, _Living Morally: A Psychology of Moral Character_, Philadelphia: Temple University Press.
+* –––, 1983a, “Self-Respect: Theory and Practice,” in _Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917_, L. Harris (ed.), Kendall/Hunt Publishing Company; reprinted in _Dignity, Character, and Self-Respect_, R.S. Dillon (ed.), New York: Routledge, 1995.
+* –––, 1983b, “Morality, the Self, and Our Natural Sentiments,” in _Emotion: Philosophical Studies_, K.D. Irani and G.E. Meyers (eds.), New York: Haven Publishing Corp.
+* –––, 1982, “Law, Morality, and Our Psychological Nature,” in _Social Justice_, M. Bradie and D. Braybrooke (eds.), Bowling Green, Ohio: Bowling Green Studies in Applied Philosophy, vol IV.
+* –––, 1980, “Sexism and Racism: Some Conceptual Differences,” _Ethics_, 90: 239–250.
+* –––, 1979, “Capitalism vs. Marx’s Communism,” _Studies in Soviet Thought_, 20: 57–79.
+* –––, 1978, “Morality and Our Self-Concept,” _Journal of Value Inquiry_, 12: 258–268.
+* –––, 1978–79, “Rawlsian Self-Respect and the Black Consciousness Movement,” _The Philosophical Forum_, 9: 303–314.
+* Van Leeuwen, B., 2007, “A Formal Recognition of Social Attachment: Expanding Axel Honneth’s Theory of Recognition,” _Inquiry_, 50: 180–205.
+* Vlastos, G., 1962, “Justice and Equality,” in _Social Justice_, R. Brandt (ed.), Englewood Cliffs, NJ: Prentice Hall.
+* Weber, E.T, 2016, “Self-Respect and a Sense of Positive Power: On Protection, Self-Affirmation, and Harm in the Charge of ‘Acting White’,” _Journal of Speculative Philosophy_, 30: 45–63.
+* Weil, S., 1972, _The Need for Roots_, London: Routledge & Kegan Paul.
+* –––, 1965, _Seventy Letters_, Oxford: Oxford University Press.
+* Whitfield, G., 2017, “Self-Respect and Public Reason,” _Critical Review of International Social and Political Philosophy_, 20: 677–696.
+* Wisnewski, J., 2009, “What We Owe the Dead,” _Journal of Applied Philosophy_, 26: 54–70.
+* Wong, D.B., 1984, _Moral Relativity_, Berkeley: University of California Press.
+* Worsfold, V.L., 1988, “Educating for Self-Respect,” _Philosophy of Education_, 44: 258–269.
+* Yanal, R.J., 1987, “Self-Esteem,” _Noûs_, 21: 363–379.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=respect). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/respect/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=respect&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/respect/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=respect).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/respect/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=respect\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/respect/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [egalitarianism](https://plato.stanford.edu/entries/egalitarianism/) | [ethics: environmental](https://plato.stanford.edu/entries/ethics-environmental/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [love](https://plato.stanford.edu/entries/love/) | [moral particularism](https://plato.stanford.edu/entries/moral-particularism/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [rights](https://plato.stanford.edu/entries/rights/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
+[autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [egalitarianism](https://plato.stanford.edu/entries/egalitarianism/) | [ethics: environmental](https://plato.stanford.edu/entries/ethics-environmental/) | [ethics: virtue](https://plato.stanford.edu/entries/ethics-virtue/) | [Kant, Immanuel: moral philosophy](https://plato.stanford.edu/entries/kant-moral/) | [love](https://plato.stanford.edu/entries/love/) | [moral particularism](https://plato.stanford.edu/entries/moral-particularism/) | [moral psychology: empirical approaches](https://plato.stanford.edu/entries/moral-psych-emp/) | [Rawls, John](https://plato.stanford.edu/entries/rawls/) | [rights](https://plato.stanford.edu/entries/rights/) | [value: intrinsic vs. extrinsic](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-Robin S. Dillon <[*rsd2@lehigh.edu*](mailto:rsd2%40lehigh%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+Robin S. Dillon <[_rsd2@lehigh.edu_](mailto:rsd2%40lehigh%2eedu)>

@@ -1,6 +1,6 @@
 # 集体责任 collective (Marion Smiley)
 
-*首次发表于 2005 年 8 月 8 日；实质性修订于 2022 年 12 月 19 日*
+_首次发表于 2005 年 8 月 8 日；实质性修订于 2022 年 12 月 19 日_
 
 集体责任的概念，就像个人责任和共同责任的概念一样，在大多数情况下指的是道德行为者对世界上的伤害所承担的因果责任，以及我们归因于他们对造成这种伤害的责备。因此，它与两个更纯粹的个人主义对应的概念一样，几乎总是道德责任的概念，而不是纯粹的因果责任。但是，与两个更纯粹的个人主义对应的概念不同的是，它不将因果责任或责备归因于个别个体，也不将道德责任的源头定位于个别道德行为者的自由意志。相反，它将因果责任和责备都与群体联系起来，并将道德责任的源头定位于这些被理解为集体的群体所采取的集体行动。
 
@@ -10,7 +10,7 @@
 
 上述提到的集体责任的回顾性概念是当哲学家们谈论集体责任时，他们所指的大多数情况。但在过去几年中，人们对被称为前瞻性集体责任或前瞻性集体道德责任的问题越来越感兴趣。与回顾性集体责任不同，前瞻性集体责任不关注特定集体行为是否在道德上应受谴责的意义上造成了伤害。它也不涉及一般的责备。相反，它关注的是代理人在补救伤害和防止其再次发生方面能够做些什么，如果有的话。因此，它有时被称为补救责任，并纳入了关于我们对应对责任范围的更大争议中。
 
----
+***
 
 ## 1. 集体责任：争议
 
@@ -42,7 +42,7 @@
 
 第一个假设，即所有行动都始于意图，对批评者来说非常有用，因为它使他们能够将群体意图写入集体行动本身的定义中，从而使群体意图成为集体责任的必要条件。J. Angelo Corlett 对集体行动的定义在这里是典型的。根据 Corlett，
 
-> [a] 集体（有意）行动是一个主体是集体有意识代理的行动。集体行为是一个由集体而非其意图所导致的行为或行为结果。集体行动是由集体本身的信念和欲望（愿望）引起的，无论这些信念和欲望是否可以用个人主义的术语来解释或解释（Corlett 2001，第 575 页）。
+> \[a] 集体（有意）行动是一个主体是集体有意识代理的行动。集体行为是一个由集体而非其意图所导致的行为或行为结果。集体行动是由集体本身的信念和欲望（愿望）引起的，无论这些信念和欲望是否可以用个人主义的术语来解释或解释（Corlett 2001，第 575 页）。
 
 第二个假设，即所有种类的道德责任都根源于道德行为者的恶意意图，对于批评集体责任的人也非常有用，因为它使他们能够规定集体责任不仅需要群体意图，还需要群体具有恶意意图或至少具有道德上的缺陷。批评者问道，群体如何能够理解为具有恶意意图？道德上有缺陷吗？具有道德性格，无论是有缺陷还是没有缺陷？换句话说，他们如何能够被理解为道德责任、罪恶或羞愧的适当承担者？
 
@@ -50,7 +50,7 @@
 
 集体责任的批评者对集体道德谴责的性质关注较少，而对集体行动的性质关注较多。但是他们有时会担心将道德谴责与群体联系起来是否合适，与群体成员区分开来。R·S·唐尼等人将道德责任的一个非常传统的概念放在他们的关注中心，并认为
 
-> [c]ollectives 没有道德缺陷，因为它们不做道德选择，因此不能适当地归因于道德责任。...要有道德责任，必须有涉及道德错误决策的过失，这只能发生在个人层面（唐尼 1969 年，第 67 页）。
+> \[c]ollectives 没有道德缺陷，因为它们不做道德选择，因此不能适当地归因于道德责任。...要有道德责任，必须有涉及道德错误决策的过失，这只能发生在个人层面（唐尼 1969 年，第 67 页）。
 
 在这个背景下，詹·纳维森（Jan Narveson）认为，道德责任的承担者必须是个体，因为只有个体才能具有道德代理能力。纳维森写道：“没有其他东西可以真正承担全部责任”（Narveson 2002，第 179 页）。这里的“真正”一词对于那些研究集体责任的人来说是重要的。因为它与纳维森和其他人共享的意义形成了对比，即我们最终可能能够将集体责任理解为隐喻性的，通过将个体道德代理能力（包括代理因果关系和道德责任）视为传统道德责任相关的群体代理能力的隐喻。
 
@@ -62,7 +62,7 @@ Deborah Tollefsen（Tollefsen，2003）聚焦于我们对集体表达各种反�
 
 在类似的思路中，彼得·弗伦奇专注于那些他认为只能适用于集体的谓词类别。根据弗伦奇的观点，
 
-> [t]here is a class of predicates that just cannot be true of individuals, that can only be true of collectives. Examples of such predicates abound … and include ‘disbanded’ (most uses of), ‘lost the football game’, ‘elected a president’, and ‘passed an amendment’. … Methodological individualism would be at a loss in this context. (French 1998, p. 37)
+> \[t]here is a class of predicates that just cannot be true of individuals, that can only be true of collectives. Examples of such predicates abound … and include ‘disbanded’ (most uses of), ‘lost the football game’, ‘elected a president’, and ‘passed an amendment’. … Methodological individualism would be at a loss in this context. (French 1998, p. 37)
 
 在这种情况下，有一类谓词只能适用于集体，而不能适用于个体。这类谓词的例子很多，包括“解散”（大多数情况下）、“输掉足球比赛”、“选举总统”和“通过修宪”。在这种情况下，方法论个体主义将束手无策。（French 1998，第 37 页）
 
@@ -100,7 +100,7 @@ Deborah Tollefsen（Tollefsen，2003）聚焦于我们对集体表达各种反�
 
 拉里-梅在为集体道德代理辩护时，提出了后一种最有趣的论点（梅，1987 年、2006 年和 2010 年）。梅驳斥了上述许多关于群体意图的论述，认为它们与康德的道德代理概念联系过于紧密。但他并没有摒弃作为集体责任必要条件的群体意图。他也不接受完全的集体主义方法论。相反，他在他所谓的相互依存理论中重新阐述了群体意图，并由此发展出一种关于集体责任的总体观点，这种观点不仅结合了个人主义和集体主义，而且将人际关系和社会结构置于我们关注的中心。这里的挑战是如何描述这种集体意图的实际面貌。
 
-梅在这方面再次借鉴了萨特的研究成果，提出了他所谓的 “前反思意图”，即 “一种尚未被群体中的每个成员反思的意图”（梅，1987 年，第 64 页）。梅在这里明确指出，这类群体意向产生于群体特定成员之间的关系，而不是来自任何一个群体成员。因此，虽然这些意图在任何意义上都不是完全凌驾于个人之上的超越个人或集体的意图，但它们可以 “被当作集体意图来对待”（梅，1987 年，第 64 页）。此外，梅明确指出，这些意图不是*个人*的意图，而是*基于群体*的意图。“由于群体中的每个成员在反思或预反思时都会产生相同的意图”，因此它 “不同于他们的个人意图”。事实上，“意图的同一性是集体的，因为它是由群体结构引起的，也就是说，它是以群体为基础的”（梅，1987 年，第 65 页）。对梅和其他人来说，问题在于 “意图的同一性 ”是否足以用来谈论值得指责的集体道德主体。
+梅在这方面再次借鉴了萨特的研究成果，提出了他所谓的 “前反思意图”，即 “一种尚未被群体中的每个成员反思的意图”（梅，1987 年，第 64 页）。梅在这里明确指出，这类群体意向产生于群体特定成员之间的关系，而不是来自任何一个群体成员。因此，虽然这些意图在任何意义上都不是完全凌驾于个人之上的超越个人或集体的意图，但它们可以 “被当作集体意图来对待”（梅，1987 年，第 64 页）。此外，梅明确指出，这些意图不是_个人_的意图，而是_基于群体_的意图。“由于群体中的每个成员在反思或预反思时都会产生相同的意图”，因此它 “不同于他们的个人意图”。事实上，“意图的同一性是集体的，因为它是由群体结构引起的，也就是说，它是以群体为基础的”（梅，1987 年，第 65 页）。对梅和其他人来说，问题在于 “意图的同一性 ”是否足以用来谈论值得指责的集体道德主体。
 
 尽管许多人捍卫集体道德责任的可能性，但没有探讨集体道德应受谴责的条件，List 和 Pettit（2011 年）在这个重要的研究中将对集体道德代理的探究扩展到伦理、政治和法律问责领域。List 和 Pettit 认为，群体可以通过具备“具有代表性的状态、动机状态以及处理它们并根据其行动的能力”来满足道德代理的要求。（List 和 Pettit 2011 年，第 21 页）同样，他们认为群体可能具有迄今未被注意到的义务、权利和权力关系，需要我们的道德关注。
 
@@ -162,7 +162,7 @@ Metz 在这里可能是对的。但是，一个集体防止伤害的能力只是
 
 在《我们能向集体代理人要求多少？》一文中，科林斯（2020）进一步探讨了集体责任的范围，并反驳了对其过度要求的主张。
 
-在尚未形成的集体的情况下，很难证明集体责任，因为集体的轮廓本质上是模糊的，没有明确的集体道德代理人可以确定。但是，尽管如此，已经有人努力证明这些情况下的集体责任。有趣的是，他们通常关注群体能力。用维奥莱塔·伊格内斯基（Igneski，2020）的话说：“[当有证据表明一群人有能力防止伤害或错误，并且个体成员意识到（或应该意识到）这一点时，作为一个群体，他们有责任防止伤害或错误”（第 447 页）。
+在尚未形成的集体的情况下，很难证明集体责任，因为集体的轮廓本质上是模糊的，没有明确的集体道德代理人可以确定。但是，尽管如此，已经有人努力证明这些情况下的集体责任。有趣的是，他们通常关注群体能力。用维奥莱塔·伊格内斯基（Igneski，2020）的话说：“\[当有证据表明一群人有能力防止伤害或错误，并且个体成员意识到（或应该意识到）这一点时，作为一个群体，他们有责任防止伤害或错误”（第 447 页）。
 
 正如我们将在第 7 节中看到的那样，事情可能并不那么简单。因为，即使一个集体有组织地行动的能力，我们在提出集体责任和随后提出集体责任的要求之前，还需要考虑其他因素。其中一个考虑因素是在需要做出选择的情况下，防止特定伤害案例是否在需要集体关注的众多伤害预防案例中排名靠前。另一个考虑因素是，在考虑到集体自身的福祉等其他要求的情况下，是否公平地期望集体追求这个特定项目（从而将其作为集体责任承担）。
 
@@ -204,7 +204,7 @@ Metz 在这里可能是对的。但是，一个集体防止伤害的能力只是
 
 彼得·弗伦奇在《个人与集体责任》（1998 年）中自己提出了这样的论点。但他警告说，集体责任的非分配性特征并不意味着对于造成伤害的集体负有责任的个体成员本身是无可指责的。事实上，他声称，许多这些群体成员将对他们的群体造成的各种伤害负有道德责任。
 
-> [我]应该注意到，从“集体 A 对事件 n 负有责任，A 由 x、y 和 z 组成”这一点，断定 x、y 和 z 对 n 不应负有任何责任，或者 x、y、r z 在 n 的情况下不应负有责任，这是傲慢的。我的观点是，对集体成员的这种判断并不必然地从集体责任的判断中得出（弗伦奇 1998 年，第 25 页）。
+> \[我]应该注意到，从“集体 A 对事件 n 负有责任，A 由 x、y 和 z 组成”这一点，断定 x、y 和 z 对 n 不应负有任何责任，或者 x、y、r z 在 n 的情况下不应负有责任，这是傲慢的。我的观点是，对集体成员的这种判断并不必然地从集体责任的判断中得出（弗伦奇 1998 年，第 25 页）。
 
 如果我们谈论的是在实践中归因集体责任的基础上保持集体责任的完整性，那么上述主张显然是有道理的。但我们可能想在这里放松一下，提出集体责任是我们将责任归因给群体成员个人的基础，因为群体本身造成了伤害。换句话说，我们可能想暗示个体群体成员可以将集体责任内化为个人，这样集体责任就会改变形式，变得更接近个人责任，尽管这种个人责任只存在于一个人的集体对伤害负有责任的情况下。在许多情况下，这是那些关心如何分配集体责任的哲学界人士所考虑的问题。他们如何尝试分配集体责任？
 
@@ -374,7 +374,7 @@ Reiff 并不像他之前的人那样声称，集体责任的实践使个人能�
 
 前瞻性集体责任的实用方法在这里所指的非常有价值（且合理）。但我们不能将其孤立地看待，而是要与其他方法结合起来。换句话说，我们不能简单地用纠正问题的能力来替代因果责任作为归因前瞻性责任的基础。相反，我们必须将其他价值观和原则纳入到我们对责任的归因中。它们可能是什么？目前，公平的价值经常在这个背景下被提及，尽管并没有得到彻底的探讨。公民身份和集体义务的价值观，以及社会契约原则也是如此。
 
-诚然，那些在归因前瞻性责任时提及公平价值的人并不总是指的同一件事。亚历山大·布朗[2009]将谁造成了伤害的判断纳入到他关于谁可以公平地负责纠正这种伤害的论证中，并将公平视为对因果行为的回应。布朗关注的是福利国家中贫困人群的行为失误。
+诚然，那些在归因前瞻性责任时提及公平价值的人并不总是指的同一件事。亚历山大·布朗\[2009]将谁造成了伤害的判断纳入到他关于谁可以公平地负责纠正这种伤害的论证中，并将公平视为对因果行为的回应。布朗关注的是福利国家中贫困人群的行为失误。
 
 > 如果一个人在成为瘾君子方面具有因果责任，那么他不能公平地期望我们帮助他戒毒...政府只能做到这么多。（布朗 2009 年，第 151 页）
 
@@ -390,7 +390,7 @@ Reiff 并不像他之前的人那样声称，集体责任的实践使个人能�
 
 > 转向对政治责任的前瞻性解释需要更加强调我们在维持重要社会机构方面所共同拥有的利益...因此，鉴于我们对维持合作体系和机构的利益至关重要，我们应对不平等负起政治责任，因为这些体系和机构产生了可允许和不可允许的不平等。（达比和布兰斯科姆，2014 年，第 133 页）
 
-特蕾西·艾萨克斯（Tracy Isaacs）对集体义务及其与集体责任的关系进行了全面阐述[艾萨克斯，2011 年和 2014 年]，她指出了上述许多规范，并强调了身份的核心性。但有趣的是，她在这样做时并没有避开因果责任。相反，她提供了一个复杂的观点，说明因果责任如何帮助我们公正地确定补救责任的标准。
+特蕾西·艾萨克斯（Tracy Isaacs）对集体义务及其与集体责任的关系进行了全面阐述\[艾萨克斯，2011 年和 2014 年]，她指出了上述许多规范，并强调了身份的核心性。但有趣的是，她在这样做时并没有避开因果责任。相反，她提供了一个复杂的观点，说明因果责任如何帮助我们公正地确定补救责任的标准。
 
 > 那些与有害情况有因果关系并从中受益的行动者确实承担着更重的减轻有害情况的义务。就集体义务而言，这些与伤害或错误行为的联系使得某些集体行动者比其他人更有义务...并且在确定具有集体义务的集体行动者的身份时起到了一定的作用。（艾萨克斯，2014 年，第 41 页）
 
@@ -416,172 +416,172 @@ Iris Young 在她关于为什么我们现在应该关注前瞻性而不是回顾
 
 ## Bibliography
 
-* Abdel-Nour, Farid, 2003, “National Responsibility,” *Political Theory*, 31: 694–95.
-* Appiah, Anthony, 1987, “Racism and Moral Pollution,” *Philosophical Forum*, 18: 185–202.
-* Arendt, Hannah, 1987, “Collective Responsibility,” in James Bernhauer (ed.), *Amor Mundi*, Dordrecht: M. Nijhoff.
-* Baddorf, Matthew, 2017, “Phenomenal Consciousness, Collective Mentality, and Collective Moral Responsibility,” *Philosophical Studies*, 174: 2769–2786.
-* Bar-on, Zvi, 1991, “Measuring Responsibility,” in Larry May and Stacey Hoffman (eds.), *Collective Responsibility: Five Decades of Debate in Theoretical and Applied Ethics*, Savage, MD: Rowman and Littlefield.
-* Bates, Stanley, 1971, “The Responsibility of ‘Random Collections’,” *Ethics*, 81: 343–349.
-* Bazargan-Forward and D. Tollefsen (eds.), 2020, *Routledge Handbook of Collective Responsibility*, New York: Routledge.
-* Benjamin, Martin, 1976, “Can Moral Responsibility be Collective and Non-Distributive?,” *Social Theory and Practice*, 4: 93–106.
-* Bjornsson, Gunnar and Kendy Hess, 2017, “Corporate Crocodile Tears? On the Reactive Attitudes of Corporate Agents,” *Philosophy and Phenomenological Research*, 94: 273–298.
-* Blomberg, Olle and Frank Hindriks, 2020, “Collective Responsibility and Acting Together,” in Saba Bazargan-Forward and D. Tollefsen (eds.), *Routledge Handbook of Collective Responsibility*, New York: Routledge.
-* Boodman, Eva, 2022, *White Ignorance and Complicit Responsibility*, Lanham, MD: Rowman and Littlefield.
-* Bratman, Michael, 1992, “Shared Cooperative Activity,” *Philosophical Review*, 101(1): 327–342.
-* –––, 1993, “Shared Intention,” *Ethics*, 104: 97–103.
-* –––, 1999, *Faces of Intention: Selected Essays on Intention and Agency*, New York: Cambridge University Press.
-* –––, 2006, “Dynamics of Sociality,” *Midwest Studies in Philosophy*, XXX: 1–15.
-* –––, 2013, *Shared Agency: A Planning Theory of Acting Together*, Oxford: Oxford University Press.
-* Brown, Alexander, 2009, *Personal Responsibility: Why It Matters*, London: Continuum Press.
-* Collins, Stephanie, 2019, *Group Duties*, Oxford: Oxford University Press.
-* –––, 2020, “How Much Can We Ask of Collective Agents?” *Canadian Journal of Philosophy*, 50: 815–831.
-* Cooper, David, 1968, “Collective Responsibility,” *Philosophy*, 43: 258–268.
-* –––, 1998, “Responsibility and the ‘System’,” in Peter French (ed.), *Individual and Collective Responsibility*, Rochester, VT: Schenkman.
-* Copp, David, 1979, “Collective Actions and Secondary Actions,” *American Philosophical Quarterly*, 16: 177–186.
-* –––, 1980, “Hobbes on Artificial Persons and Collective Actions,” *Philosophical Review*, 89(4): 579–606.
-* –––, 1984, “What Collectives Are: Agency, Individualism and Legal Theory,” *Dialogue*, 23: 253–268.
-* –––, 2006, “On the Agency of Certain Collective Entities: An Argument from ‘Normative Autonomy’,” *Midwest Studies in Philosophy*, XXX: 194–220.
-* –––, 2020, “Collective Obligations and the Point of Morality,” in Saba Barzargan-Forward and D. Tollefsen (eds.), *Routledge Handbook of Collective Responsibility*, NY: Routledge.
-* Corlett, J. Angelo, 2001, “Collective Moral Responsibility,” *Journal of Social Philosophy*, 32: 573–584.
-* –––, 2010, “U.S. Responsibility for War Crimes in Iraq,” *Res Publica*, 16: 227–244.
-* Crawford, Neta, 2007, “Individual and Collective Moral Responsibility for Systematic Military Atrocity,” *Journal of Political Philosophy*, 15/2: 187–212.
-* –––, 2013, *Accountability for Killing: Moral Responsibility for Collateral Damage in America’s Post 9/11 Wars*, Oxford: Oxford University Press.
-* –––, 2014, “War ‘In Our Name ’ and the Responsibility to Protest: Ordinary Citizens, Civil Society, and Prospective Moral Responsibility,” *Midwest Studies in Philosophy*, XXXVIII: 138–170.
-* Darby, Derrick and Nyla Branscombe, 2012, “Egalitarianism and Perceptions of Inequality,” *Philosophical Topics*, 40: 7–25.
-* –––, 2014, “Beyond the Sins of the Fathers: Responsibility for Inequality,” *Midwest Studies in Philosophy*, XXXVIII: 121–137.
-* Downie, R. S., 1969, “Collective Responsibility,” *Philosophy*, 44: 66–69.
-* Durkheim, Emile, 1895, *The Rules of Sociological Method*, W. D. Halls (trans.), New York: Free Press, 1982.
-* Ellin, Joseph, 1981–2, “The Justice of Collective Responsibility,” *University of Dayton Law Review*, 15: 17–28.
-* Feinberg, Joel, 1968, “Collective Responsibility,” *Journal of Philosophy*, 65: 674–688.
-* French, Peter, 1984, *Collective and Corporate Responsibility*, New York: Columbia University Press.
-* French, Peter (ed.), 1998, *Individual and Collective Responsibility*, Rochester, VT: Schenkman.
-* French, Peter and Howard Wettstein (eds.), 2014, *Midwest Studies in Philosophy* (Volume XXXVIII: Forward Looking Collective Responsibility), Minneapolis: University of Minnesota Press.
-* Friedman, Marilyn and Larry May, 1985, “Harming Women as a Group,” *Social Theory and Practice*, 11: 218–221.
-* Friedman, Marilyn, 2013, “How To Blame People Responsibly,” *Journal of Value Inquiry*, 47: 271–284.
+* Abdel-Nour, Farid, 2003, “National Responsibility,” _Political Theory_, 31: 694–95.
+* Appiah, Anthony, 1987, “Racism and Moral Pollution,” _Philosophical Forum_, 18: 185–202.
+* Arendt, Hannah, 1987, “Collective Responsibility,” in James Bernhauer (ed.), _Amor Mundi_, Dordrecht: M. Nijhoff.
+* Baddorf, Matthew, 2017, “Phenomenal Consciousness, Collective Mentality, and Collective Moral Responsibility,” _Philosophical Studies_, 174: 2769–2786.
+* Bar-on, Zvi, 1991, “Measuring Responsibility,” in Larry May and Stacey Hoffman (eds.), _Collective Responsibility: Five Decades of Debate in Theoretical and Applied Ethics_, Savage, MD: Rowman and Littlefield.
+* Bates, Stanley, 1971, “The Responsibility of ‘Random Collections’,” _Ethics_, 81: 343–349.
+* Bazargan-Forward and D. Tollefsen (eds.), 2020, _Routledge Handbook of Collective Responsibility_, New York: Routledge.
+* Benjamin, Martin, 1976, “Can Moral Responsibility be Collective and Non-Distributive?,” _Social Theory and Practice_, 4: 93–106.
+* Bjornsson, Gunnar and Kendy Hess, 2017, “Corporate Crocodile Tears? On the Reactive Attitudes of Corporate Agents,” _Philosophy and Phenomenological Research_, 94: 273–298.
+* Blomberg, Olle and Frank Hindriks, 2020, “Collective Responsibility and Acting Together,” in Saba Bazargan-Forward and D. Tollefsen (eds.), _Routledge Handbook of Collective Responsibility_, New York: Routledge.
+* Boodman, Eva, 2022, _White Ignorance and Complicit Responsibility_, Lanham, MD: Rowman and Littlefield.
+* Bratman, Michael, 1992, “Shared Cooperative Activity,” _Philosophical Review_, 101(1): 327–342.
+* –––, 1993, “Shared Intention,” _Ethics_, 104: 97–103.
+* –––, 1999, _Faces of Intention: Selected Essays on Intention and Agency_, New York: Cambridge University Press.
+* –––, 2006, “Dynamics of Sociality,” _Midwest Studies in Philosophy_, XXX: 1–15.
+* –––, 2013, _Shared Agency: A Planning Theory of Acting Together_, Oxford: Oxford University Press.
+* Brown, Alexander, 2009, _Personal Responsibility: Why It Matters_, London: Continuum Press.
+* Collins, Stephanie, 2019, _Group Duties_, Oxford: Oxford University Press.
+* –––, 2020, “How Much Can We Ask of Collective Agents?” _Canadian Journal of Philosophy_, 50: 815–831.
+* Cooper, David, 1968, “Collective Responsibility,” _Philosophy_, 43: 258–268.
+* –––, 1998, “Responsibility and the ‘System’,” in Peter French (ed.), _Individual and Collective Responsibility_, Rochester, VT: Schenkman.
+* Copp, David, 1979, “Collective Actions and Secondary Actions,” _American Philosophical Quarterly_, 16: 177–186.
+* –––, 1980, “Hobbes on Artificial Persons and Collective Actions,” _Philosophical Review_, 89(4): 579–606.
+* –––, 1984, “What Collectives Are: Agency, Individualism and Legal Theory,” _Dialogue_, 23: 253–268.
+* –––, 2006, “On the Agency of Certain Collective Entities: An Argument from ‘Normative Autonomy’,” _Midwest Studies in Philosophy_, XXX: 194–220.
+* –––, 2020, “Collective Obligations and the Point of Morality,” in Saba Barzargan-Forward and D. Tollefsen (eds.), _Routledge Handbook of Collective Responsibility_, NY: Routledge.
+* Corlett, J. Angelo, 2001, “Collective Moral Responsibility,” _Journal of Social Philosophy_, 32: 573–584.
+* –––, 2010, “U.S. Responsibility for War Crimes in Iraq,” _Res Publica_, 16: 227–244.
+* Crawford, Neta, 2007, “Individual and Collective Moral Responsibility for Systematic Military Atrocity,” _Journal of Political Philosophy_, 15/2: 187–212.
+* –––, 2013, _Accountability for Killing: Moral Responsibility for Collateral Damage in America’s Post 9/11 Wars_, Oxford: Oxford University Press.
+* –––, 2014, “War ‘In Our Name ’ and the Responsibility to Protest: Ordinary Citizens, Civil Society, and Prospective Moral Responsibility,” _Midwest Studies in Philosophy_, XXXVIII: 138–170.
+* Darby, Derrick and Nyla Branscombe, 2012, “Egalitarianism and Perceptions of Inequality,” _Philosophical Topics_, 40: 7–25.
+* –––, 2014, “Beyond the Sins of the Fathers: Responsibility for Inequality,” _Midwest Studies in Philosophy_, XXXVIII: 121–137.
+* Downie, R. S., 1969, “Collective Responsibility,” _Philosophy_, 44: 66–69.
+* Durkheim, Emile, 1895, _The Rules of Sociological Method_, W. D. Halls (trans.), New York: Free Press, 1982.
+* Ellin, Joseph, 1981–2, “The Justice of Collective Responsibility,” _University of Dayton Law Review_, 15: 17–28.
+* Feinberg, Joel, 1968, “Collective Responsibility,” _Journal of Philosophy_, 65: 674–688.
+* French, Peter, 1984, _Collective and Corporate Responsibility_, New York: Columbia University Press.
+* French, Peter (ed.), 1998, _Individual and Collective Responsibility_, Rochester, VT: Schenkman.
+* French, Peter and Howard Wettstein (eds.), 2014, _Midwest Studies in Philosophy_ (Volume XXXVIII: Forward Looking Collective Responsibility), Minneapolis: University of Minnesota Press.
+* Friedman, Marilyn and Larry May, 1985, “Harming Women as a Group,” _Social Theory and Practice_, 11: 218–221.
+* Friedman, Marilyn, 2013, “How To Blame People Responsibly,” _Journal of Value Inquiry_, 47: 271–284.
 * Garcia, Andrés, 2021, “The Unfairness Objection to the Practice of Collective Moral Responsibility,” Journal of Value Inquiry : 1–16.
-* Gardiner. Stephen, 2017, “Accepting Collective Responsibility for the Future,” *Journal of Practical Ethics*, 5: 22–52.
-* Gilbert, Margaret, 1997, “Group Wrongs and Guilt Feelings,” *Journal of Ethics*, 1: 65–84.
-* –––, 1989, *On Social Facts*, New York: Routledge.
-* –––, 2000, *Sociality and Responsibility*, Lanham, MD: Rowman and Littlefield.
-* –––, 2006, “Who’s to Blame? Collective Moral Responsibility and Its Implications for Group Members” *Midwest Studies in Philosophy*, XXX: 94–114.
-* –––, 2013, *Joint Commitment*, Oxford: Oxford University Press.
-* Gilbert Margaret and M. Priest, 2020, “Collective Moral Responsibility and What Follows for Group Members,” in Saba Bazargan-Forward and D. Tollefsen (eds.), *Routledge Handbook of Collective Responsibility*, New York: Routledge.
-* Goldman, Alvin, 1970, *A Theory of Human Action*, Princeton: Princeton University Press.
-* Gomperz, H., 1939, “Individual, Collective and Social Responsibility,” *Ethics*, 49: 329–342.
-* Goodin, Robert, 1998, *Social Welfare and Individual Responsibility*, Cambridge: Cambridge University Press.
-* Goodin, Robert and Christian Barry, 2021, “Responsibility for Structural Injustice: a Third Thought,” *Politics, Philosophy and Economics*, 20: 339–356.
-* Graham, Keith, 2000, “Collective Responsibility,” in *Moral Responsibility and Ontology*, Ton Vanden Beld (ed.), Dordrecht: Kluwer.
-* Hardin, Garret, 1968, “The Tragedy of the Commons” in *Science*, 162: 1243–48.
-* Held, Virginia, 1970, “Can a Random Collection of Individuals be Responsible?,” *Journal of Philosophy*, 67: 471–481.
-* Hess, Kendy, 2014, “The Free Will of Corporations (and Other Collectives),” *Philosophical Studies*, 168: 241–260.
-* Hindriks, Frank, 2019, “The Duty to Join Forces: When Individuals Lack Control,” *Monist*, 102: 204–220.
-* Hobbes, Thomas, 1651, *Leviathan*, New York: Penguin, 1968.
-* Hormio, Säde, 2018, “Culpable Ignorance in a Collective Setting,” *Acta Philosophica Fennica*, 94: 7–32.
-* Hurwitz, Agnes, 2009, *The Collective Responsibility of the State to Project Refugees*, Oxford: Oxford University Press.
-* Igneski, Violetta, 2020, “ Collective Duties of Beneficence,” in Saba Bazargan-Forward and D. Tollefsen (eds.), *Routledge Handbook of Collective Responsibility*, New York: Routledge.
-* Isaacs, Tracy, 2011, *Moral Responsibility in Collective Contexts*, Oxford: Oxford University Press.
-* –––, 2014, “Collective Responsibility and Collective Obligation,” *Midwest Studies in Philosophy*, XXXVIII: 40–57.
-* Isaacs, Tracy and Richard Vernon (eds.), 2011, *Accountability for Collective Wrong Doing*, Cambridge: Cambridge University Press.
-* Jansen, Ludger, 2014, “A Plural Subject Approach to Responsibilities of Groups and Institutions,” *Midwest Studies in Philosophy*, XXXVIII: 91–102.
-* Jaspers, Karl, 1961, *The Question of German Guilt*, E.B. Ashton (trans.), New York: Capricorn.
-* Kutz, Christopher, 2007, *Complicity: Ethics and Law for a Collective Age*, New York: Cambridge University Press.
-* Lawford-Smith, Holly, 2019, *Not in Their Name: Are Citizens Culpable for Their States’ Actions?*, Oxford: Oxford University Press.
-* Le Bon, Gustav, 1896, *The Crowd: A Study of the Popular Mind*, London: T. Fisher Unwin.
-* Levinson, Sanford, 1974, “Responsibility for Crimes of War,” in Marshall Cohen *et al*., *War and Moral Responsibility*, Princeton: Princeton University Press, pp. 104–133.
-* Lewis, H.D., 1948, “Collective Responsibility,” *Philosophy*, 24: 3–18.
-* Linley, David, 1978, “On the Actions of Teams,” *Inquiry*, 21: 213–218.
-* List, Christian and Philip Pettit, 2011, *Group Agency: The Possibility, Design, and Status of Corporate Agents*, Oxford: Oxford University Press.
-* Lucas, J. R., 1993, *Responsibility*, Oxford: Clarendon Press.
-* Lyons, David, 2004, “Corrective Justice, Equal Opportunity, and the Legacy of Slavery and Jim Crow,” *Boston University Law Review*, 84: 1375–1425.
-* May, Larry, 1992, *Sharing Responsibility*, Chicago: University of Chicago Press.
-* –––, 1987, *The Morality of Groups*, Notre Dame: University of Notre Dame Press.
-* –––, 2006, “State Aggression, Collective Liability, and Individual Mens Rea” *Midwest Studies in Philosophy*, XXX: 309–324.
-* –––, 2010, *Genocide: A Normative Account*, Cambridge: Cambridge University Press.
-* May, Larry and Stacey Hoffman (eds.), 1991, *Collective Responsibility: Five Decades of Debate in Theoretical and Applied Ethics*, Savage, MD: Rowman and Littlefield.
-* May, Larry and Robert Strikwerda, 1994, “Men in Groups: Collective Responsibility for Rape,” *Hypatia*, 9: 134–151.
-* McGary, Howard, 1986, “Morality and Collective Liability,” *Journal of Value Inquiry*, 20: 157–165.
-* McKenna, Michael, 2006, “Collective Responsibility and an Agent Meaning Theory” *Midwest Studies in Philosophy*, XXX: 16–34.
-* McKeon, Richard, 1957, “The Development and Significance of the Concept of Responsibility,” *Revue Internationale de Philosophie*, 2: 3–32.
-* McKeown, Maeve, 2021, “Backward-Looking Reparations and Structural Injustice,” *Contemporary Political Theory*, 20: 771–794.
-* Mellema, Gregory, 1997, *Collective Responsibility*, Amsterdam: Rodopi Press.
-* –––, 2006, “Collective Responsibility and Qualifying Actions” *Midwest Studies in Philosophy*, XXX: 168–175.
-* Metz, Joseph, 2021, “An Ability-Based Theory of Responsibility for Collective Omissions,” *Philosophical Studies*, 178: 2665–2685.
-* Miller, David, 2007, *National Responsibility and Global Justice*, Oxford: Oxford University Press.
-* –––, 2012, “Collective Responsibility and Global Poverty,” *Ethical Perspectives*, 19: 627–648.
-* Miller, Seumas and Pekka Makela, 2005, “The Collectivist Approach to Collective Moral Responsibility,” *Metaphilosophy*, 36: 634–651.
-* Moody-Adams, Michele, 1994, “Culture, Responsibility and Affected Ignorance,” *Ethics*, 104: 291–309.
-* Narveson, Jan, 2002, “Collective Responsibility,” *Journal of Ethics*, 6: 179–198.
-* Neuhauser, Christian, 2014, “Structural Injustice and the Distribution of Forward-Looking Responsibility,” *Midwest Studies in Philosophy*, XXXVIII: 232–252.
-* Osiel, Mark, 2009, *Making Sense of Mass Atrocity*, Cambridge: Cambridge University Press.
-* Pasternak, Avia, 2012, *Responsible Citizens, Irresponsible States: Should Citizens Pay for Their State’s Wrongdoings?*, Oxford: Oxford University Press.
-* Petersson, Björn, 2008, “Collective Responsibility and Omissions” *Philosophical Papers*, 37/2: 243–261.
-* Pettit, Philip, 2007, “Responsibility Incorporated,” *Ethics*, 117: 171–201.
-* Pfeiffer, Raymond S., 1988, “The Meaning and Justifications of Collective Moral Responsibility,” *Public Affairs Quarterly*, 2: 69–83.
-* Pinkert, Felix, 2014, “What We Together Can (Be Required To) Do,” *Midwest Studies in Philosophy*, XXXVIII: 187–202.
-* Radzik, Linda, 2001, “Collective Responsibility and Duties to Respond,” *Social Theory and Practice*, 27: 455–471.
-* Raikka, Juha, 1997, “On Dissociating Oneself from Collective Responsibility,” *Social Theory and Practice* 23: 1–9.
-* Rawls, John, 1971, *A Theory of Justice*, Cambridge: Harvard University Press.
-* Reiff, Mark, 2008, “Terrorism, Retribution, and Collective Responsibility” *Social Theory and Practice*, 28(3): 442–455.
-* Rousseau, Jean-Jacques, 1762, *The Social Contract*, trans. J. D. H. Cole, London: Everyman, 1993. [Cole translation [available online](https://en.wikisource.org/wiki/The_Social_Contract).]
-* Rovane, Carol, 2014, “Forward-Looking Collective Responsibility: A Metaphysical Reframing of the Issue,” *Midwest Studies in Philosophy*, XXXVIII: 12–25.
-* Sadler, Brook Jenkins, 2006, “Shared Intentions and Shared Responsibility” *Midwest Studies in Philosophy*, XXX: 115–144.
-* –––, 2007, “Collective Responsibility, Universalizability, and Social Practices” *Journal of Social Philosophy*, 38/3: 486–503.
-* Sartre, Jean-Paul, 1960, *Critique of Dialectical Reason*, trans. Alan Sheridan-Smith, New York: Verso, 1976.
-* Schmidtz, David, 1998, *Social Welfare and Individual Responsibility*, Cambridge: Cambridge University Press.
-* Schwenkenbecher, Anne, 2010, “How To Punish Collective Agents: Non-Compliance With Moral Duties By States,” *Ethics and International Affairs*, 24: 1–5.
-* –––, 2013, “Joint Duties and Global Moral Obligations,” *Ratio*, 26: 310–328.
-* –––, 2021, “Structural Injustice and Massively Shared Obligations,” *Journal of Applied Philosophy*, 38: 23–39.
-* Shockley, Kenneth, 2007, “Programming Collective Control” *Journal of Social Philosophy*, 36: 442–445.
-* –––, 2016, “Individual and Contributory Responsibility for Environmental Harm,” *Oxford Handbook of Environmental Ethics*, Oxford: Oxford University Press.
-* Simmel, Georg, 1971, *On Individuality and Social Forms*, trans. D. N. Levine, Chicago: University of Chicago Press.
-* Silver, David, 2006, “Collective Responsibility, Corporate Responsibility and Moral Taint” *Midwest Studies in Philosophy*, XXX: 269–278.
-* Silver, Kenneth, 2022, “Group Action Without Group Minds,” *Philosophy and Phenomenological Research*, 104: 321–342.
-* Smiley, Marion, 1992, *Moral Responsibility and the Boundaries of Community*, Chicago: University of Chicago Press.
-* –––, 2010, “From Moral Agency to Collective Wrongs; Re-thinking Collective Moral Responsibility” in *Journal of Law and Policy* (special issue on collective responsibility), Volume 19.
-* –––, 2014, “Future-Looking Collective Responsibility: A Preliminary Analysis,” *Midwest Studies in Philosophy*, XXXVIII: 1–12.
-* –––, 2016, “Volitional Excuses, Self-Narration, and Blame,” *Phenomenology and the Cognitive Sciences*, 15: 85–101.
-* Sosa, David, 2009, “What is It Like to Be a Group?” *Social Philosophy and Policy*, 26 (1): 212–226.
-* Striblin, Carrie, 2013, “Collective Responsibility and the Narrative Self,” *Social Theory and Practice* 39: 147–165.
-* Sverdlik, Stephen, 1987, “Collective Responsibility,” *Philosophical Studies*, 51: 61–76.
-* Tannsjo, Torbjorn, 1989, “The Morality of Collective Actions,” *Philosophical Quarterly*, 39: 221–228.
-* –––, 2007, “The Myth of Innocence: On Collective Responsibility and Collective Punishment,” *Philosophical Papers*, 36: 295–314.
-* Janna Thompson, 2002, *Taking Responsibility for the Past: Reparations and Historical Injustice*, Cambridge: Cambridge University Press.
-* –––, 2006, “Collective Responsibility for Historic Injustice” *Midwest Studies in Philosophy*, XXX: 154–167.
-* Tollefsen, Deborah, 2003, “Participant Reactive Attitudes and Collective Responsibility,” *Philosophical Explorations*, 6: 218–234.
-* –––, 2006, “The Rationality of Collective Guilt” *Midwest Studies in Philosophy*, XXX: 222–239.
-* Tuomela, Raimo, 1989, “Actions By Collectives,” *Philosophical Perspectives*, 3: 471–496
-* –––, 1991, “We Will Do It Again: An Analysis of Group Intentions,” *Philosophy and Phenomenological Research*, 60: 249–277.
-* –––, 2005, “We-Intentions Revisited,” *Philosophical Studies*, 125: 327–269
-* –––, 2006, “Joint Intention, We-Mode and I-Mode,” *Midwest Studies in Philosophy*, XXX: 35–58.
-* –––, 2013, *Social Ontology*, New York: Oxford University Press.
-* Van den Beld, Ton, 2002, “Can Collective Responsibility For Perpetrated Evil Persist Over Generations?,” *Ethical Theory and Moral Practice*, 5(2): 181–2000.
-* Velleman, J.D., 1997, “How to Share an Intention,” *Philosophy and Phenomenological Research*, 57: 29–50.
-* Wasserstrom, Richard, 1971, “The Relevance of Nuremberg,” *Philosophy and Public Affairs*, 1: 22–46.
-* Watkins, J.W.N., 1957, “Methodological Individualism and Social Tendencies,” *British Journal for the Philosophy of Science*, 8: 104–117.
-* Weber, Max, 1914, *Economy and Society*, Vol. 1, Berkeley: University of California Press, 1978.
-* Wringe, Bill, 2014, “From Global Collective Obligations to Institutional Obligations,” *Midwest Studies in Philosophy*, XXXVIII: 171–186.
-* Young, Iris, 2011, *Responsibility for Justice* Oxford: Oxford University Press.
-* Zoller, David, 2015, “Moral Responsibility and Distant Collective Harms,” *Ethical Theory and Moral Practice*, 18: 995–110.
+* Gardiner. Stephen, 2017, “Accepting Collective Responsibility for the Future,” _Journal of Practical Ethics_, 5: 22–52.
+* Gilbert, Margaret, 1997, “Group Wrongs and Guilt Feelings,” _Journal of Ethics_, 1: 65–84.
+* –––, 1989, _On Social Facts_, New York: Routledge.
+* –––, 2000, _Sociality and Responsibility_, Lanham, MD: Rowman and Littlefield.
+* –––, 2006, “Who’s to Blame? Collective Moral Responsibility and Its Implications for Group Members” _Midwest Studies in Philosophy_, XXX: 94–114.
+* –––, 2013, _Joint Commitment_, Oxford: Oxford University Press.
+* Gilbert Margaret and M. Priest, 2020, “Collective Moral Responsibility and What Follows for Group Members,” in Saba Bazargan-Forward and D. Tollefsen (eds.), _Routledge Handbook of Collective Responsibility_, New York: Routledge.
+* Goldman, Alvin, 1970, _A Theory of Human Action_, Princeton: Princeton University Press.
+* Gomperz, H., 1939, “Individual, Collective and Social Responsibility,” _Ethics_, 49: 329–342.
+* Goodin, Robert, 1998, _Social Welfare and Individual Responsibility_, Cambridge: Cambridge University Press.
+* Goodin, Robert and Christian Barry, 2021, “Responsibility for Structural Injustice: a Third Thought,” _Politics, Philosophy and Economics_, 20: 339–356.
+* Graham, Keith, 2000, “Collective Responsibility,” in _Moral Responsibility and Ontology_, Ton Vanden Beld (ed.), Dordrecht: Kluwer.
+* Hardin, Garret, 1968, “The Tragedy of the Commons” in _Science_, 162: 1243–48.
+* Held, Virginia, 1970, “Can a Random Collection of Individuals be Responsible?,” _Journal of Philosophy_, 67: 471–481.
+* Hess, Kendy, 2014, “The Free Will of Corporations (and Other Collectives),” _Philosophical Studies_, 168: 241–260.
+* Hindriks, Frank, 2019, “The Duty to Join Forces: When Individuals Lack Control,” _Monist_, 102: 204–220.
+* Hobbes, Thomas, 1651, _Leviathan_, New York: Penguin, 1968.
+* Hormio, Säde, 2018, “Culpable Ignorance in a Collective Setting,” _Acta Philosophica Fennica_, 94: 7–32.
+* Hurwitz, Agnes, 2009, _The Collective Responsibility of the State to Project Refugees_, Oxford: Oxford University Press.
+* Igneski, Violetta, 2020, “ Collective Duties of Beneficence,” in Saba Bazargan-Forward and D. Tollefsen (eds.), _Routledge Handbook of Collective Responsibility_, New York: Routledge.
+* Isaacs, Tracy, 2011, _Moral Responsibility in Collective Contexts_, Oxford: Oxford University Press.
+* –––, 2014, “Collective Responsibility and Collective Obligation,” _Midwest Studies in Philosophy_, XXXVIII: 40–57.
+* Isaacs, Tracy and Richard Vernon (eds.), 2011, _Accountability for Collective Wrong Doing_, Cambridge: Cambridge University Press.
+* Jansen, Ludger, 2014, “A Plural Subject Approach to Responsibilities of Groups and Institutions,” _Midwest Studies in Philosophy_, XXXVIII: 91–102.
+* Jaspers, Karl, 1961, _The Question of German Guilt_, E.B. Ashton (trans.), New York: Capricorn.
+* Kutz, Christopher, 2007, _Complicity: Ethics and Law for a Collective Age_, New York: Cambridge University Press.
+* Lawford-Smith, Holly, 2019, _Not in Their Name: Are Citizens Culpable for Their States’ Actions?_, Oxford: Oxford University Press.
+* Le Bon, Gustav, 1896, _The Crowd: A Study of the Popular Mind_, London: T. Fisher Unwin.
+* Levinson, Sanford, 1974, “Responsibility for Crimes of War,” in Marshall Cohen _et al_., _War and Moral Responsibility_, Princeton: Princeton University Press, pp. 104–133.
+* Lewis, H.D., 1948, “Collective Responsibility,” _Philosophy_, 24: 3–18.
+* Linley, David, 1978, “On the Actions of Teams,” _Inquiry_, 21: 213–218.
+* List, Christian and Philip Pettit, 2011, _Group Agency: The Possibility, Design, and Status of Corporate Agents_, Oxford: Oxford University Press.
+* Lucas, J. R., 1993, _Responsibility_, Oxford: Clarendon Press.
+* Lyons, David, 2004, “Corrective Justice, Equal Opportunity, and the Legacy of Slavery and Jim Crow,” _Boston University Law Review_, 84: 1375–1425.
+* May, Larry, 1992, _Sharing Responsibility_, Chicago: University of Chicago Press.
+* –––, 1987, _The Morality of Groups_, Notre Dame: University of Notre Dame Press.
+* –––, 2006, “State Aggression, Collective Liability, and Individual Mens Rea” _Midwest Studies in Philosophy_, XXX: 309–324.
+* –––, 2010, _Genocide: A Normative Account_, Cambridge: Cambridge University Press.
+* May, Larry and Stacey Hoffman (eds.), 1991, _Collective Responsibility: Five Decades of Debate in Theoretical and Applied Ethics_, Savage, MD: Rowman and Littlefield.
+* May, Larry and Robert Strikwerda, 1994, “Men in Groups: Collective Responsibility for Rape,” _Hypatia_, 9: 134–151.
+* McGary, Howard, 1986, “Morality and Collective Liability,” _Journal of Value Inquiry_, 20: 157–165.
+* McKenna, Michael, 2006, “Collective Responsibility and an Agent Meaning Theory” _Midwest Studies in Philosophy_, XXX: 16–34.
+* McKeon, Richard, 1957, “The Development and Significance of the Concept of Responsibility,” _Revue Internationale de Philosophie_, 2: 3–32.
+* McKeown, Maeve, 2021, “Backward-Looking Reparations and Structural Injustice,” _Contemporary Political Theory_, 20: 771–794.
+* Mellema, Gregory, 1997, _Collective Responsibility_, Amsterdam: Rodopi Press.
+* –––, 2006, “Collective Responsibility and Qualifying Actions” _Midwest Studies in Philosophy_, XXX: 168–175.
+* Metz, Joseph, 2021, “An Ability-Based Theory of Responsibility for Collective Omissions,” _Philosophical Studies_, 178: 2665–2685.
+* Miller, David, 2007, _National Responsibility and Global Justice_, Oxford: Oxford University Press.
+* –––, 2012, “Collective Responsibility and Global Poverty,” _Ethical Perspectives_, 19: 627–648.
+* Miller, Seumas and Pekka Makela, 2005, “The Collectivist Approach to Collective Moral Responsibility,” _Metaphilosophy_, 36: 634–651.
+* Moody-Adams, Michele, 1994, “Culture, Responsibility and Affected Ignorance,” _Ethics_, 104: 291–309.
+* Narveson, Jan, 2002, “Collective Responsibility,” _Journal of Ethics_, 6: 179–198.
+* Neuhauser, Christian, 2014, “Structural Injustice and the Distribution of Forward-Looking Responsibility,” _Midwest Studies in Philosophy_, XXXVIII: 232–252.
+* Osiel, Mark, 2009, _Making Sense of Mass Atrocity_, Cambridge: Cambridge University Press.
+* Pasternak, Avia, 2012, _Responsible Citizens, Irresponsible States: Should Citizens Pay for Their State’s Wrongdoings?_, Oxford: Oxford University Press.
+* Petersson, Björn, 2008, “Collective Responsibility and Omissions” _Philosophical Papers_, 37/2: 243–261.
+* Pettit, Philip, 2007, “Responsibility Incorporated,” _Ethics_, 117: 171–201.
+* Pfeiffer, Raymond S., 1988, “The Meaning and Justifications of Collective Moral Responsibility,” _Public Affairs Quarterly_, 2: 69–83.
+* Pinkert, Felix, 2014, “What We Together Can (Be Required To) Do,” _Midwest Studies in Philosophy_, XXXVIII: 187–202.
+* Radzik, Linda, 2001, “Collective Responsibility and Duties to Respond,” _Social Theory and Practice_, 27: 455–471.
+* Raikka, Juha, 1997, “On Dissociating Oneself from Collective Responsibility,” _Social Theory and Practice_ 23: 1–9.
+* Rawls, John, 1971, _A Theory of Justice_, Cambridge: Harvard University Press.
+* Reiff, Mark, 2008, “Terrorism, Retribution, and Collective Responsibility” _Social Theory and Practice_, 28(3): 442–455.
+* Rousseau, Jean-Jacques, 1762, _The Social Contract_, trans. J. D. H. Cole, London: Everyman, 1993. \[Cole translation [available online](https://en.wikisource.org/wiki/The\_Social\_Contract).]
+* Rovane, Carol, 2014, “Forward-Looking Collective Responsibility: A Metaphysical Reframing of the Issue,” _Midwest Studies in Philosophy_, XXXVIII: 12–25.
+* Sadler, Brook Jenkins, 2006, “Shared Intentions and Shared Responsibility” _Midwest Studies in Philosophy_, XXX: 115–144.
+* –––, 2007, “Collective Responsibility, Universalizability, and Social Practices” _Journal of Social Philosophy_, 38/3: 486–503.
+* Sartre, Jean-Paul, 1960, _Critique of Dialectical Reason_, trans. Alan Sheridan-Smith, New York: Verso, 1976.
+* Schmidtz, David, 1998, _Social Welfare and Individual Responsibility_, Cambridge: Cambridge University Press.
+* Schwenkenbecher, Anne, 2010, “How To Punish Collective Agents: Non-Compliance With Moral Duties By States,” _Ethics and International Affairs_, 24: 1–5.
+* –––, 2013, “Joint Duties and Global Moral Obligations,” _Ratio_, 26: 310–328.
+* –––, 2021, “Structural Injustice and Massively Shared Obligations,” _Journal of Applied Philosophy_, 38: 23–39.
+* Shockley, Kenneth, 2007, “Programming Collective Control” _Journal of Social Philosophy_, 36: 442–445.
+* –––, 2016, “Individual and Contributory Responsibility for Environmental Harm,” _Oxford Handbook of Environmental Ethics_, Oxford: Oxford University Press.
+* Simmel, Georg, 1971, _On Individuality and Social Forms_, trans. D. N. Levine, Chicago: University of Chicago Press.
+* Silver, David, 2006, “Collective Responsibility, Corporate Responsibility and Moral Taint” _Midwest Studies in Philosophy_, XXX: 269–278.
+* Silver, Kenneth, 2022, “Group Action Without Group Minds,” _Philosophy and Phenomenological Research_, 104: 321–342.
+* Smiley, Marion, 1992, _Moral Responsibility and the Boundaries of Community_, Chicago: University of Chicago Press.
+* –––, 2010, “From Moral Agency to Collective Wrongs; Re-thinking Collective Moral Responsibility” in _Journal of Law and Policy_ (special issue on collective responsibility), Volume 19.
+* –––, 2014, “Future-Looking Collective Responsibility: A Preliminary Analysis,” _Midwest Studies in Philosophy_, XXXVIII: 1–12.
+* –––, 2016, “Volitional Excuses, Self-Narration, and Blame,” _Phenomenology and the Cognitive Sciences_, 15: 85–101.
+* Sosa, David, 2009, “What is It Like to Be a Group?” _Social Philosophy and Policy_, 26 (1): 212–226.
+* Striblin, Carrie, 2013, “Collective Responsibility and the Narrative Self,” _Social Theory and Practice_ 39: 147–165.
+* Sverdlik, Stephen, 1987, “Collective Responsibility,” _Philosophical Studies_, 51: 61–76.
+* Tannsjo, Torbjorn, 1989, “The Morality of Collective Actions,” _Philosophical Quarterly_, 39: 221–228.
+* –––, 2007, “The Myth of Innocence: On Collective Responsibility and Collective Punishment,” _Philosophical Papers_, 36: 295–314.
+* Janna Thompson, 2002, _Taking Responsibility for the Past: Reparations and Historical Injustice_, Cambridge: Cambridge University Press.
+* –––, 2006, “Collective Responsibility for Historic Injustice” _Midwest Studies in Philosophy_, XXX: 154–167.
+* Tollefsen, Deborah, 2003, “Participant Reactive Attitudes and Collective Responsibility,” _Philosophical Explorations_, 6: 218–234.
+* –––, 2006, “The Rationality of Collective Guilt” _Midwest Studies in Philosophy_, XXX: 222–239.
+* Tuomela, Raimo, 1989, “Actions By Collectives,” _Philosophical Perspectives_, 3: 471–496
+* –––, 1991, “We Will Do It Again: An Analysis of Group Intentions,” _Philosophy and Phenomenological Research_, 60: 249–277.
+* –––, 2005, “We-Intentions Revisited,” _Philosophical Studies_, 125: 327–269
+* –––, 2006, “Joint Intention, We-Mode and I-Mode,” _Midwest Studies in Philosophy_, XXX: 35–58.
+* –––, 2013, _Social Ontology_, New York: Oxford University Press.
+* Van den Beld, Ton, 2002, “Can Collective Responsibility For Perpetrated Evil Persist Over Generations?,” _Ethical Theory and Moral Practice_, 5(2): 181–2000.
+* Velleman, J.D., 1997, “How to Share an Intention,” _Philosophy and Phenomenological Research_, 57: 29–50.
+* Wasserstrom, Richard, 1971, “The Relevance of Nuremberg,” _Philosophy and Public Affairs_, 1: 22–46.
+* Watkins, J.W.N., 1957, “Methodological Individualism and Social Tendencies,” _British Journal for the Philosophy of Science_, 8: 104–117.
+* Weber, Max, 1914, _Economy and Society_, Vol. 1, Berkeley: University of California Press, 1978.
+* Wringe, Bill, 2014, “From Global Collective Obligations to Institutional Obligations,” _Midwest Studies in Philosophy_, XXXVIII: 171–186.
+* Young, Iris, 2011, _Responsibility for Justice_ Oxford: Oxford University Press.
+* Zoller, David, 2015, “Moral Responsibility and Distant Collective Harms,” _Ethical Theory and Moral Practice_, 18: 995–110.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=collective-responsibility). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/collective-responsibility/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=collective-responsibility&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/collective-responsibility/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=collective-responsibility).                                                                      |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/collective-responsibility/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=collective-responsibility\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/collective-responsibility/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+\[Please contact the author with suggestions.]
 
 ## Related Entries
 
-[action](https://plato.stanford.edu/entries/action/) | [blame](https://plato.stanford.edu/entries/blame/) | [individualism, methodological](https://plato.stanford.edu/entries/methodological-individualism/) | [intention](https://plato.stanford.edu/entries/intention/) | [intentionality: collective](https://plato.stanford.edu/entries/collective-intentionality/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/)
+[action](https://plato.stanford.edu/entries/action/) | [blame](https://plato.stanford.edu/entries/blame/) | [individualism, methodological](https://plato.stanford.edu/entries/methodological-individualism/) | [intention](https://plato.stanford.edu/entries/intention/) | [intentionality: collective](https://plato.stanford.edu/entries/collective-intentionality/) | [moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/) | [social institutions](https://plato.stanford.edu/entries/social-institutions/)
 
 ### Acknowledgments
 
 The editors would like to thank Robert von Hallberg for notifying us about a variety typographical and other errors in an earlier version of this entry.
 
-[Copyright © 2022](https://plato.stanford.edu/info.html#c) by  
-[Marion Smiley](http://www.brandeis.edu/facguide/faculty?emplid=4ab3773a9ab171db92deaac0a260ef163f3d724f) <[*smiley@brandeis.edu*](mailto:smiley%40brandeis%2eedu)>
+[Copyright © 2022](https://plato.stanford.edu/info.html#c) by\
+[Marion Smiley](http://www.brandeis.edu/facguide/faculty?emplid=4ab3773a9ab171db92deaac0a260ef163f3d724f) <[_smiley@brandeis.edu_](mailto:smiley%40brandeis%2eedu)>

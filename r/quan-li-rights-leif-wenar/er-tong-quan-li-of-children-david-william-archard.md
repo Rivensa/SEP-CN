@@ -1,6 +1,6 @@
 # 儿童权利 of children (David William Archard)
 
-*首次发表于 2002 年 10 月 16 日；实质性修订于 2023 年 1 月 24 日*
+_首次发表于 2002 年 10 月 16 日；实质性修订于 2023 年 1 月 24 日_
 
 “在当代政治和道德哲学中，所有人在某种程度上都被视为道德平等的观念已经成为教条”（Steinhoff ed. 2015, xi）。然而，在这个引文所在的导言中，以及试图解释和证明这个基础“教条”的论文集中，几乎没有提到“儿童”这个词，也很少讨论。虽然儿童被认为是人类，因此具有一定的道德地位，不能以某些方式对待他们，但也认为儿童可能做不到成年人可以做的事情。简而言之，儿童是人类，但不是与成年人在道德上平等的个体。这一点在考虑儿童在法律上被允许或有权做的事情以及被禁止做的事情时尤为明显。例如，在大多数司法管辖区中，儿童不被允许投票、结婚、购买酒精、发生性行为或从事有偿就业。此外，还有一些事情不应该对儿童做，因为他们是儿童，比如强制入伍服兵役。为什么会这样呢？
 
@@ -10,7 +10,7 @@
 
 关于儿童的所谓权利与那些有权利支配儿童的成年人的权利之间的关系问题涉及到父母的权利和责任问题，本文不讨论此问题。（请参阅有关生育和亲子关系的条目。）
 
----
+***
 
 ## 1. 儿童和权利
 
@@ -108,7 +108,7 @@
 
 另一种使任意性指控成立的方法是基于这样的观点，即划定界限本身——“任何”界限——都是任意的。因此，要么会说这个年龄是错误的划分点，要么会说使用任何年龄都是错误的。第一个反对意见——“错误的年龄”——可能会承认存在更好的年龄可供使用，就像第二个反对意见——“年龄是错误的”——可能会承认存在一种比使用年龄更好的方式来标记划分。对第二个反对意见的最初和明显的回应是，年龄本身并不是问题，而是年龄与具备使人具备权利的那些能力之间的可靠相关性。因此，一些解放主义者可能不争议地认为应该有一个门槛年龄——超过这个年龄，成年人的权利就会获得——但他们认为传统或正统的门槛定得太晚。解放主义者也可能仅仅否认应该有任何门槛，理由是在任何门槛年龄上，儿童和成年人在各自的能力方面并没有任何区别。这种任意性主张的版本承认，如果年龄作为一个门槛，那么它只在于它与获取那些是获得权利所必需的资格的能力的相关性是可靠的。总之，任意性主张要么是否认指定能力的获取与所讨论的门槛相关，要么是否认存在任何年龄能够获得这些能力。
 
-撇开这种任意性主张的版本，关于“[任何使用年龄来区分有权利和无权利的人的行为都可以被证明是任意的]”的指控还剩下什么？有两个观点。第一个观点是，尽管年龄的门槛确实用于区分人类群体内的差异，但重要的是作为人类。或者，相关的是，正在分配的东西，即权利，是如此重要，以至于所有人类都应该拥有它们。作为人类应该是区别的关键，而不是某个特定年龄的人。权利太重要了，不能因为他们（较小的）年龄而拒绝授予一些人，而给予其他人（较大的）年龄。
+撇开这种任意性主张的版本，关于“\[任何使用年龄来区分有权利和无权利的人的行为都可以被证明是任意的]”的指控还剩下什么？有两个观点。第一个观点是，尽管年龄的门槛确实用于区分人类群体内的差异，但重要的是作为人类。或者，相关的是，正在分配的东西，即权利，是如此重要，以至于所有人类都应该拥有它们。作为人类应该是区别的关键，而不是某个特定年龄的人。权利太重要了，不能因为他们（较小的）年龄而拒绝授予一些人，而给予其他人（较大的）年龄。
 
 答复很简单。作为人类确实很重要，正是因为他们是人类，尽管是年轻的人类，儿童有权利以非人类不可的方式受到对待。然而，正在分配的是权利，为此，一个门槛年龄确实标志着一个重要的点。尽管拥有权利比没有权利要好，但那些缺乏权利的人并不缺乏任何道德地位。承认儿童是值得道德关注的人类，但也是年轻人类，值得特定年龄的关注。
 
@@ -216,21 +216,21 @@ C-权利的第二个子类是 Feinberg 所描述的“信托权利”，他认�
 
 《联合国儿童权利公约》第 12.1 条不仅赋予儿童在影响儿童的事项上自由表达意见的权利，而且至关重要的是，它向儿童保证这些意见将根据儿童的年龄和成熟程度予以“适当重视”。现在非常强调所谓的儿童“参与权”，而不是他们的“保护权”。后者如其名称所示，保护儿童免受暴力、虐待、残忍或剥削性对待。“参与权”相反，赋予儿童在自己生活中成为主体的某种权利。第 12.1 条为此类权利提供了重要的基础理由。在实际上如何实施这些权利方面存在问题（Ang 等，2006 年）。在理解《联合国儿童权利公约》第 12.1 条所规定的权利可能意味着什么方面，也存在理论问题。其复杂性在于理解成年人的选择权与儿童对重要个人事项的看法之间的区别，以及我们可能考虑儿童的看法的不同方式，如何权衡这些看法以及权衡如何在做出决策时产生实际影响（Archard 和 Uniacke，2020 年）。
 
-在吉利克案（Gillick [1986]）中，著名的英国法律判决为第 12 条提供了有益的对比。这一判决已经广泛讨论，并且在涉及儿童对医疗治疗的同意方面也具有很大影响力。
+在吉利克案（Gillick \[1986]）中，著名的英国法律判决为第 12 条提供了有益的对比。这一判决已经广泛讨论，并且在涉及儿童对医疗治疗的同意方面也具有很大影响力。
 
 Gillick 判决起因于一位母亲对当地卫生当局未能撤回一份面向该地区医生的咨询通知的不满。该通知建议医生可以向 16 岁以下的年轻女孩提供性问题的咨询和信息，并为她们提供避孕措施，而且可以在未经孩子父母同意的情况下这样做。母亲维多利亚·吉利克（Victoria Gillick）上法庭要求宣布该通知非法。英国上议院最终判决该通知不违法。与当前讨论相关的一个关键问题是，关于孩子自主决定权和父母为孩子做决定权之间的适当关系。
 
 在支持卫生当局的决定时，其中一位法官斯卡曼勋爵（Lord Scarman）发表了一项对他的裁决至关重要的声明，此后该声明被广泛引用。值得重述的是：
 
-> 法律的基本原则是……当孩子达到足够的理解和智力水平，能够对需要决定的事项做出自己的决定时，父母的权利应让位于孩子的决定权。（吉利克[1986]，186）
+> 法律的基本原则是……当孩子达到足够的理解和智力水平，能够对需要决定的事项做出自己的决定时，父母的权利应让位于孩子的决定权。（吉利克\[1986]，186）
 >
-> 我认为根据法律规定，父母决定是否给予 16 岁以下未成年子女医疗治疗的权利，在孩子达到足够的理解力和智力以完全理解所提议的事项时终止。（吉利克[1986]，188-9）
+> 我认为根据法律规定，父母决定是否给予 16 岁以下未成年子女医疗治疗的权利，在孩子达到足够的理解力和智力以完全理解所提议的事项时终止。（吉利克\[1986]，188-9）
 
 出现了各种问题。首先，孩子达到发展的特定阶段意味着什么？在可以称之为门槛解释的情况下，一旦孩子达到一定的能力水平，她对自己的意愿有一个明确的权重，要么是选择自由权利（在强版本上），要么（在弱版本上）被计入与父母的意愿和国家对她最佳利益的判断相抵衡。在可以称之为比例解释的情况下，随着孩子获得更大的选择能力，她的意愿逐渐增加。它们增加到获得完全的选择自由权利。
 
 其次，无论是门槛解释还是比例解释，我们都需要一个衡量能力的标准，该标准标志着门槛或者仅仅是逐渐获得。例如，多少智力和理解力足够？首先，这个标准必须独立于对孩子最佳利益的任何判断。一个孩子选择被认为符合她最佳利益的事情，最多只能证明她对相关问题具有足够的智力和理解力。她做出这样的选择并不是她具备必要能力的必要条件。同样，一个孩子做出错误选择并不是她普遍无法为自己做出选择的确凿证据。聪明的成年人有时也会做出愚蠢的决定，就像傻瓜有时也会做出正确的决定一样。
 
-在吉利克判决中，斯卡曼要求孩子表现出对提供的避孕建议的“性质”的理解，并且“也必须具备足够的成熟度来理解其中的含义”（吉利克[1986]，189）。我们可以在这里区分出几个可能的要素。首先，是对某些事实的了解。例如，一个孩子知道避孕措施可以防止因性交而导致的怀孕。另一个孩子可能对生殖事实一无所知或无法理解。其次，是对一个行为或其遗漏所带来的后果的理解。因此，不使用避孕措施可能导致年轻人怀孕。这两种理解共同构成了对行为“性质”的了解。最后，就是所谓的“成熟度”可能带来的能力，即理解一个行为或其遗漏以及相关后果的重要性。了解怀孕的含义与了解怀孕带来的身体变化、任何由此产生的婴儿需要照顾等有所不同。斯卡曼甚至坚持认为孩子需要对涉及“道德和家庭”问题有所认识。
+在吉利克判决中，斯卡曼要求孩子表现出对提供的避孕建议的“性质”的理解，并且“也必须具备足够的成熟度来理解其中的含义”（吉利克\[1986]，189）。我们可以在这里区分出几个可能的要素。首先，是对某些事实的了解。例如，一个孩子知道避孕措施可以防止因性交而导致的怀孕。另一个孩子可能对生殖事实一无所知或无法理解。其次，是对一个行为或其遗漏所带来的后果的理解。因此，不使用避孕措施可能导致年轻人怀孕。这两种理解共同构成了对行为“性质”的了解。最后，就是所谓的“成熟度”可能带来的能力，即理解一个行为或其遗漏以及相关后果的重要性。了解怀孕的含义与了解怀孕带来的身体变化、任何由此产生的婴儿需要照顾等有所不同。斯卡曼甚至坚持认为孩子需要对涉及“道德和家庭”问题有所认识。
 
 第三，对于衡量儿童在表达意见方面的能力，区分问题的复杂性和严重性非常重要。一个简单的选择，比如是否进行一项挽救生命的手术，可能具有重大而深远的后果。因此，它可能需要比更复杂的决策更多的理解。然而，后一种选择，比如从一个非常大的菜单中选择一顿五道菜的餐点，对于儿童的后果来说却不那么严重。简而言之，选择的困难或复杂性不应与其对儿童的重要性或意义混淆。
 
@@ -254,108 +254,108 @@ Gillick 判决起因于一位母亲对当地卫生当局未能撤回一份面向
 
 ### References Cited
 
-* Alston, P. (ed.), 1994, *The Best Interests of the Child: Reconciling Culture and Human Rights*, Oxford: Clarendon Press.
-* Ang, F., et al., 2006, *Participation Rights of Children*, Antwerpen-Oxford: Intersentia.
-* Archard, D., 2002, ‘Children, Multiculturalism, and Education’, in D. Archard and C. Macleod (eds.), *The Moral and Political Status of Children*, Oxford: Oxford University Press, pp. 142–159.
-* Archard, D., 2015, *Children: Rights and Childhood*, 3rd revised and enlarged edition, London: Routledge.
-* Archard, D. and M. Skivenes, 2009, ‘Balancing a Child’s Best Interests and a Child’s Views,’ *International Journal of Children’s Rights*, 17: 1–21.
-* Archard, D, and J. Tobin, 2015, ‘Article 1: The Definition of a Child’, in J. Tobin (ed.), *The UN Convention on the Rights of the Child*, *A Commentary*, Oxford: Oxford University Press, Chapter 1.
-* Archard, D. and S. Uniacke, 2020, ‘The Child’s Right to a Voice,’ *Res Publica* 4: 1–16.
-* Arneson, R.J. and I, Shapiro, 1996, ‘Democratic Autonomy and Religious Freedom: A Critique of Wisconsin v. Yoder’, in I. Shapiro and R. Hardin (eds.), *NOMOS 38: Political Order*, New York: New York University Press, pp. 365–411.
-* Barrie, J.M.,1995, *Peter Pan and Other Plays*, edited with an Introduction by Peter Hollindale, Oxford: Oxford University Press.
-* Beckman, L., 2001, ‘Rights, Rights-Talk, and Children’, *The Journal of Value Inquiry*, 35: 509–515.
-* Benatar, D., 2008, *Better Never to Have Been: The Harm of Coming into Existence*, Oxford: Oxford University Press.
-* Brennan, S., 2002, ‘Children’s Choices or Children’s Interests: Which do their Rights Protect?’ in D. Archard and C. Macleod (eds.), T*he Moral and Political Status of Children: New Essays*, Oxford: Oxford University Press, pp. 53–69.
-* Brighouse, H., 2002, ‘What Rights (if any) do Children Have?’ in D. Archard and C. Macleod (eds.), *The Moral and Political Status of Children: New Essays*, Oxford: Oxford University Press, pp. 31–52.
-* –––, 2003, ‘How Should Children Be Heard?’ *Arizona Law Review*, 45: 691–711.
-* Buchanan, Allen E. and Dan W. Brock, 1998. *Deciding for Others: The Ethics of Surrogate Decision Making*, Cambridge: Cambridge University Press.
-* Burtt, S., 1996, ‘In Defence of Yoder: Parental Authority and the Public Schools,’ in I. Shapiro and R. Hardin (eds.), *NOMOS 38: Political Order*, New York: New York University Press, pp. 412–437.
-* Callan, E., 2002, ‘Autonomy, Child-Rearing, and Good Lives’, in D. Archard and C. Macleod (eds.), *The Moral and Political Status of Children: New Essays*, Oxford: Oxford University Press, pp. 118–141.
-* Clayton, M., 2006, *Justice and Legitimacy in Upbringing*, Oxford: Oxford University Press.
-* Coady, C.A.J., 1992, ‘Theory, Rights and Children: A Comment on O’Neill and Campbell’, in P. Alston, S. Parker, and J. Seymour (eds.), *Children, Rights and the Law*, Oxford: Oxford University Press, pp. 43–51.
-* Cohen, H., 1980, *Equal Rights for Children*, Totowa, NJ: Littlefield, Adams, and Co.
-* Cowden, M., 2012, ‘Capacity, claims and children’s rights’, *Contemporary Political Theory*, 1: 362–380.
-* Eekelaar, J., 1986, ‘The Emergence of Children’s Rights’, *Oxford Journal of Legal Studies*, 6: 161–182.
-* Elster, J., 1989, *Solomonic Judgements, Studies in the Limitations of Rationality*, Cambridge: Cambridge University Press.
-* Farson, R., 1974, *Birthrights*, London: Collier Macmillan.
-* Feinberg, J., 1970, ‘The Nature and Value of Rights’, *Journal of Value Inquiry*, 4: 243–260.
-* –––, 1980, ‘A Child’s Right to an Open Future’, in W. Aiken and H. LaFollette (eds.), *Whose Child? Parental Rights, Parental Authority and State Power*, Totowa, NJ: Littlefield, Adams, and Co., pp. 124–153.
-* –––, 1987, ‘Wrongful Life and the Counterfactual Element in Harming,’ *Social Philosophy and Policy*, 4 (1): 145–170.
-* Franklin-Hall, A., 2013, ‘On Becoming an Adult: Autonomy and the Moral Relevance of Life’s Stages’, *Philosophical Quarterly*, 63: 223–247.
-* –––, 2019, ‘What Parents May Teach Their Children: A Defense of Perfectionism in Childrearing,’ *Social Theory and Practice*, 45 (3): 371–396.
-* Gheaus, A., 2015, ‘The “Intrinsic Goods of Childhood” and the Just Society’, in A. Bagattini and C. Macleod (eds.), *The Nature of Children’s Well-Being**:* *Theory and Practice*, Dordrecht: Springer, pp. 35–53.
-* *Gillick v. West Norfolk and Wisbech Area Health Authority*, House of Lords, [1986] 1 AC 112.
-* Godwin, S. 201, ‘Children’s Oppression, Rights, and Liberation,’ *Northwestern Interdisciplinary Law Review*, 4 (1): 247–302.
-* Griffin, J., 2002, ‘Do Children Have Rights?’ in D. Archard and C. Macleod (eds.) *The Moral and Political Status of Children: New Essays*, Oxford: Oxford University Press, pp. 19–30.
-* Hannan, S., 2018, ‘Why Childhood is Bad for Children?’ *Journal of Applied Philosophy*, 35: 11–28.
-* Hart, H.L.A., 1973, ‘Bentham on Legal Rights’, in A. W. Simpson (ed.), *Oxford Essays in Jurisprudence*, 2nd series, Oxford: Clarendon Press, pp. 171–201.
-* Holt, J.C., 1975, *Escape from Childhood: The Needs and Rights of Children*, Harmondsworth: Penguin.
-* Kopelman, L.M., 1997, ‘The Best-Interests Standard as Threshold, Ideal, and Standard of Reasonableness’, *The Journal of Medicine and Philosophy*, 22: 271–289.
-* Kramer, M.H., 1998, ‘Rights Without Trimmings’, in M.H. Kramer, N. Simmonds and H. Steiner, *A Debate Over Rights, Philosophical Enquiries*, Oxford: Clarendon Press, pp. 7–111.
-* Kramer, M.H., Simmonds, N.E. and Steiner, H., 1998, *A Debate Over Rights, Philosophical Enquiries*, Oxford: Clarendon Press.
-* LeBlanc, Lawrence J., 1995, *The Convention on the Rights of the Child. United Nations Lawmaking on Human Rights*, Lincoln: University of Nebraska Press.
-* Liao, S.M., 2015, *The Right to be Loved*, Oxford: Oxford University Press.
-* Macleod, C., 2010, ‘Primary goods, capabilities, and childhood’, in H. Brighouse and I. Robeyns (eds.), *Measuring Justice: Primary Goods and Capabilities*, Cambridge: Cambridge University Press, pp. 174–192.
-* MacCormick, N., 1982, ’Children’s Rights: A Test-Case’, in his *Legal Right and Social Democracy*, Oxford: Clarendon Press, pp. 154–166.
-* McGough, Lucy S., 1995, ‘Children: V Child Custody’, in W.T. Reich, Editor in Chief, *Encyclopedia of Bioethics*, revised edition, New York: Simon and Schuster Macmillan:, pp. 371–78.
-* Mills, Claudia, 2003, ‘The Child’s Right to an Open Future?’ J*ournal of Social Philosophy*, 34 (4): 499–509.
-* Mnookin, Robert H., 1979, ‘Foster Care—In Whose Best Interests?’in O. O’Neill and W. Ruddick (eds.), *Having Children: Philosophical and Legal Reflections on Parenthood*, Oxford: Oxford University Press, pp. 179–213.
-* Nozick, R., 1974, *Anarchy, State, and Utopia*, Oxford: Basil Blackwell.
-* O’Neill. O., 1988, ‘Children’s Rights and Children’s Lives’, *Ethics*, 98: 445–463.
-* Parker, S., 1994, ‘The Best Interests of the Child – Principles and Problems’, in P. Alston (ed.), *The Best Interests of the Child*, Oxford: Clarendon Press.
-* Purdy, L.M., 1992, *In Their Best Interest? The Case Against Equal Rights for Children*, Ithaca and London: Cornell University Press.
-* Rawls, J., 1993, *Political Liberalism*, New York: Columbia University Press.
-* –––, 1999, *A Theory of Justice*, revised edition, Oxford: Oxford University Press.
-* Raz, J., 1984, ‘Legal Rights’, *Oxford Journal of Legal Studies*, 4 (1): 1–21.
-* Sandel, M., 1982, *Liberalism and the Limits of Justice*, Cambridge: Cambridge University Press.
-* Schapiro, T., 1999, ‘What is a Child?’ *Ethics*, 109 (4): 715–738.
-* –––, 2003, ‘Childhood and Personhood’, *Arizona Law Review*, 45: 575–594.
-* Schoeman, F., 1980, ‘Rights of Families: Rights of Parents, and the Moral Basis of the Family’, *Ethics*, 91: 6–19.
-* Schrag, F., 1980, ‘Children: Their Rights and Needs’, in W. Aiken and H. LaFollette, *Whose Child? Parental Rights, Parental Authority and State Power*, Totowa, NJ: Littlefield, Adams, and Co., pp. 237–253.
-* Singer, P., 1975, *Animal Liberation*, New York: New York Review.
-* Steiner, H., 1994, *An Essay on Rights*, Oxford: Blackwell.
-* –––, 1998, ‘Working Rights’, in M.H. Kramer, N. Simmonds and H. Steiner, *A Debate Over Rights: Philosophical Enquiries*, Oxford: Clarendon Press, pp. 235–301.
-* Steinhoff, U. (ed.), 2015, *Do All Persons Have Equal Moral Worth? On “Basic Equality” and Equal Respect and Concern*, Oxford: Oxford University Press.
-* Sumner, L.W., 1987, *The Moral Foundation of Rights*, Oxford: Clarendon Press.
-* United Nations, 1989, *The Convention on the Rights of the Child*, reprinted in P. Alston, S. Parker and J. Seymour (eds.), *Children, Rights and the Law*, Oxford: Oxford University Press, pp. 245–264; and in L. LeBlanc, *The Convention on the Rights of the Child. United Nations Lawmaking on Human Rights*, Lincoln: University of Nebraska Press, pp. 293–316.
-* *Wisconsin v Yoder* [1972] 406 U.S. 205.
+* Alston, P. (ed.), 1994, _The Best Interests of the Child: Reconciling Culture and Human Rights_, Oxford: Clarendon Press.
+* Ang, F., et al., 2006, _Participation Rights of Children_, Antwerpen-Oxford: Intersentia.
+* Archard, D., 2002, ‘Children, Multiculturalism, and Education’, in D. Archard and C. Macleod (eds.), _The Moral and Political Status of Children_, Oxford: Oxford University Press, pp. 142–159.
+* Archard, D., 2015, _Children: Rights and Childhood_, 3rd revised and enlarged edition, London: Routledge.
+* Archard, D. and M. Skivenes, 2009, ‘Balancing a Child’s Best Interests and a Child’s Views,’ _International Journal of Children’s Rights_, 17: 1–21.
+* Archard, D, and J. Tobin, 2015, ‘Article 1: The Definition of a Child’, in J. Tobin (ed.), _The UN Convention on the Rights of the Child_, _A Commentary_, Oxford: Oxford University Press, Chapter 1.
+* Archard, D. and S. Uniacke, 2020, ‘The Child’s Right to a Voice,’ _Res Publica_ 4: 1–16.
+* Arneson, R.J. and I, Shapiro, 1996, ‘Democratic Autonomy and Religious Freedom: A Critique of Wisconsin v. Yoder’, in I. Shapiro and R. Hardin (eds.), _NOMOS 38: Political Order_, New York: New York University Press, pp. 365–411.
+* Barrie, J.M.,1995, _Peter Pan and Other Plays_, edited with an Introduction by Peter Hollindale, Oxford: Oxford University Press.
+* Beckman, L., 2001, ‘Rights, Rights-Talk, and Children’, _The Journal of Value Inquiry_, 35: 509–515.
+* Benatar, D., 2008, _Better Never to Have Been: The Harm of Coming into Existence_, Oxford: Oxford University Press.
+* Brennan, S., 2002, ‘Children’s Choices or Children’s Interests: Which do their Rights Protect?’ in D. Archard and C. Macleod (eds.), T_he Moral and Political Status of Children: New Essays_, Oxford: Oxford University Press, pp. 53–69.
+* Brighouse, H., 2002, ‘What Rights (if any) do Children Have?’ in D. Archard and C. Macleod (eds.), _The Moral and Political Status of Children: New Essays_, Oxford: Oxford University Press, pp. 31–52.
+* –––, 2003, ‘How Should Children Be Heard?’ _Arizona Law Review_, 45: 691–711.
+* Buchanan, Allen E. and Dan W. Brock, 1998. _Deciding for Others: The Ethics of Surrogate Decision Making_, Cambridge: Cambridge University Press.
+* Burtt, S., 1996, ‘In Defence of Yoder: Parental Authority and the Public Schools,’ in I. Shapiro and R. Hardin (eds.), _NOMOS 38: Political Order_, New York: New York University Press, pp. 412–437.
+* Callan, E., 2002, ‘Autonomy, Child-Rearing, and Good Lives’, in D. Archard and C. Macleod (eds.), _The Moral and Political Status of Children: New Essays_, Oxford: Oxford University Press, pp. 118–141.
+* Clayton, M., 2006, _Justice and Legitimacy in Upbringing_, Oxford: Oxford University Press.
+* Coady, C.A.J., 1992, ‘Theory, Rights and Children: A Comment on O’Neill and Campbell’, in P. Alston, S. Parker, and J. Seymour (eds.), _Children, Rights and the Law_, Oxford: Oxford University Press, pp. 43–51.
+* Cohen, H., 1980, _Equal Rights for Children_, Totowa, NJ: Littlefield, Adams, and Co.
+* Cowden, M., 2012, ‘Capacity, claims and children’s rights’, _Contemporary Political Theory_, 1: 362–380.
+* Eekelaar, J., 1986, ‘The Emergence of Children’s Rights’, _Oxford Journal of Legal Studies_, 6: 161–182.
+* Elster, J., 1989, _Solomonic Judgements, Studies in the Limitations of Rationality_, Cambridge: Cambridge University Press.
+* Farson, R., 1974, _Birthrights_, London: Collier Macmillan.
+* Feinberg, J., 1970, ‘The Nature and Value of Rights’, _Journal of Value Inquiry_, 4: 243–260.
+* –––, 1980, ‘A Child’s Right to an Open Future’, in W. Aiken and H. LaFollette (eds.), _Whose Child? Parental Rights, Parental Authority and State Power_, Totowa, NJ: Littlefield, Adams, and Co., pp. 124–153.
+* –––, 1987, ‘Wrongful Life and the Counterfactual Element in Harming,’ _Social Philosophy and Policy_, 4 (1): 145–170.
+* Franklin-Hall, A., 2013, ‘On Becoming an Adult: Autonomy and the Moral Relevance of Life’s Stages’, _Philosophical Quarterly_, 63: 223–247.
+* –––, 2019, ‘What Parents May Teach Their Children: A Defense of Perfectionism in Childrearing,’ _Social Theory and Practice_, 45 (3): 371–396.
+* Gheaus, A., 2015, ‘The “Intrinsic Goods of Childhood” and the Just Society’, in A. Bagattini and C. Macleod (eds.), _The Nature of Children’s Well-Being_\*:\* _Theory and Practice_, Dordrecht: Springer, pp. 35–53.
+* _Gillick v. West Norfolk and Wisbech Area Health Authority_, House of Lords, \[1986] 1 AC 112.
+* Godwin, S. 201, ‘Children’s Oppression, Rights, and Liberation,’ _Northwestern Interdisciplinary Law Review_, 4 (1): 247–302.
+* Griffin, J., 2002, ‘Do Children Have Rights?’ in D. Archard and C. Macleod (eds.) _The Moral and Political Status of Children: New Essays_, Oxford: Oxford University Press, pp. 19–30.
+* Hannan, S., 2018, ‘Why Childhood is Bad for Children?’ _Journal of Applied Philosophy_, 35: 11–28.
+* Hart, H.L.A., 1973, ‘Bentham on Legal Rights’, in A. W. Simpson (ed.), _Oxford Essays in Jurisprudence_, 2nd series, Oxford: Clarendon Press, pp. 171–201.
+* Holt, J.C., 1975, _Escape from Childhood: The Needs and Rights of Children_, Harmondsworth: Penguin.
+* Kopelman, L.M., 1997, ‘The Best-Interests Standard as Threshold, Ideal, and Standard of Reasonableness’, _The Journal of Medicine and Philosophy_, 22: 271–289.
+* Kramer, M.H., 1998, ‘Rights Without Trimmings’, in M.H. Kramer, N. Simmonds and H. Steiner, _A Debate Over Rights, Philosophical Enquiries_, Oxford: Clarendon Press, pp. 7–111.
+* Kramer, M.H., Simmonds, N.E. and Steiner, H., 1998, _A Debate Over Rights, Philosophical Enquiries_, Oxford: Clarendon Press.
+* LeBlanc, Lawrence J., 1995, _The Convention on the Rights of the Child. United Nations Lawmaking on Human Rights_, Lincoln: University of Nebraska Press.
+* Liao, S.M., 2015, _The Right to be Loved_, Oxford: Oxford University Press.
+* Macleod, C., 2010, ‘Primary goods, capabilities, and childhood’, in H. Brighouse and I. Robeyns (eds.), _Measuring Justice: Primary Goods and Capabilities_, Cambridge: Cambridge University Press, pp. 174–192.
+* MacCormick, N., 1982, ’Children’s Rights: A Test-Case’, in his _Legal Right and Social Democracy_, Oxford: Clarendon Press, pp. 154–166.
+* McGough, Lucy S., 1995, ‘Children: V Child Custody’, in W.T. Reich, Editor in Chief, _Encyclopedia of Bioethics_, revised edition, New York: Simon and Schuster Macmillan:, pp. 371–78.
+* Mills, Claudia, 2003, ‘The Child’s Right to an Open Future?’ J_ournal of Social Philosophy_, 34 (4): 499–509.
+* Mnookin, Robert H., 1979, ‘Foster Care—In Whose Best Interests?’in O. O’Neill and W. Ruddick (eds.), _Having Children: Philosophical and Legal Reflections on Parenthood_, Oxford: Oxford University Press, pp. 179–213.
+* Nozick, R., 1974, _Anarchy, State, and Utopia_, Oxford: Basil Blackwell.
+* O’Neill. O., 1988, ‘Children’s Rights and Children’s Lives’, _Ethics_, 98: 445–463.
+* Parker, S., 1994, ‘The Best Interests of the Child – Principles and Problems’, in P. Alston (ed.), _The Best Interests of the Child_, Oxford: Clarendon Press.
+* Purdy, L.M., 1992, _In Their Best Interest? The Case Against Equal Rights for Children_, Ithaca and London: Cornell University Press.
+* Rawls, J., 1993, _Political Liberalism_, New York: Columbia University Press.
+* –––, 1999, _A Theory of Justice_, revised edition, Oxford: Oxford University Press.
+* Raz, J., 1984, ‘Legal Rights’, _Oxford Journal of Legal Studies_, 4 (1): 1–21.
+* Sandel, M., 1982, _Liberalism and the Limits of Justice_, Cambridge: Cambridge University Press.
+* Schapiro, T., 1999, ‘What is a Child?’ _Ethics_, 109 (4): 715–738.
+* –––, 2003, ‘Childhood and Personhood’, _Arizona Law Review_, 45: 575–594.
+* Schoeman, F., 1980, ‘Rights of Families: Rights of Parents, and the Moral Basis of the Family’, _Ethics_, 91: 6–19.
+* Schrag, F., 1980, ‘Children: Their Rights and Needs’, in W. Aiken and H. LaFollette, _Whose Child? Parental Rights, Parental Authority and State Power_, Totowa, NJ: Littlefield, Adams, and Co., pp. 237–253.
+* Singer, P., 1975, _Animal Liberation_, New York: New York Review.
+* Steiner, H., 1994, _An Essay on Rights_, Oxford: Blackwell.
+* –––, 1998, ‘Working Rights’, in M.H. Kramer, N. Simmonds and H. Steiner, _A Debate Over Rights: Philosophical Enquiries_, Oxford: Clarendon Press, pp. 235–301.
+* Steinhoff, U. (ed.), 2015, _Do All Persons Have Equal Moral Worth? On “Basic Equality” and Equal Respect and Concern_, Oxford: Oxford University Press.
+* Sumner, L.W., 1987, _The Moral Foundation of Rights_, Oxford: Clarendon Press.
+* United Nations, 1989, _The Convention on the Rights of the Child_, reprinted in P. Alston, S. Parker and J. Seymour (eds.), _Children, Rights and the Law_, Oxford: Oxford University Press, pp. 245–264; and in L. LeBlanc, _The Convention on the Rights of the Child. United Nations Lawmaking on Human Rights_, Lincoln: University of Nebraska Press, pp. 293–316.
+* _Wisconsin v Yoder_ \[1972] 406 U.S. 205.
 
 ### Other Important Work
 
-* Aiken, W. and LaFollette, H. (eds.), 1980, *Whose Child? Parental Rights, Parental Authority and State Power*, Totowa, NJ: Rowman and Littlefield.
-* Alston, P., Parker, S., and Seymour, J. (eds.), 1992, *Children, Rights and the Law*, Oxford: Oxford University Press.
-* Archard, D. and Macleod, C. (eds.), 2002, *The Moral and Political Status of Children: New Essays*, Oxford: Oxford University Press.
-* Bagattini, A. and Macleod, C. (eds.), 2015, *The Nature of Children’s Well-Being, Theory and Practice*, Dordrecht: Springer.
-* Blustein, J., 1982, *Parents and Children: The Ethics of the Family*, Oxford: Oxford University Press.
-* Brennan, S. and Noggle, R., 1997, ‘The Moral Status of Children: Children’s Rights, Parents’ Rights, and Family Justice’, *Social Theory and Practice*, 23: 1–26.
-* Brighouse, H, and Swift, A., 2014, *Family Values: The Ethics of Parent-Child Relationships*, Princeton: Princeton University Press.
-* Gheaus, A., Calder, G., and Wispeleare, J. de (eds.), 2019, *Routledge Handbook of the Philosophy of Childhood and Children*, London: Routledge.
-* Kleinig, J., 1976, ‘Mill, Children, and Rights’, *Educational Philosophy and Theory*, 8(1): 1–16.
-* O’Neill, O. and Ruddick, W. (eds.), 1979, *Having Children: Philosophical and Legal Reflections on Parenthood*, Oxford: Oxford University Press.
-* Scarre, G., (ed.), 1989, *Children, Parents, and Politics*, Cambridge: Cambridge University Press.
-* Tomlin, P. 2018, ‘Saplings or Caterpillars? Trying to Understand Children’s Well-Being’, *Journal of Applied Philosophy*, 35 (1): 29–46.
-* Turner, S.M. and Matthews, G.B., eds., 1998, *The Philosopher’s Child*, Rochester: University of Rochester.
-* Wald, M., 1979, ‘Children’s Rights: A Framework for Analysis’, *University of California at Davis Law Review*, 12 (2): 255–282.
-* Worsfold, V.L., 1974, ‘A Philosophical Justification for Children’s Rights’, *Harvard Educational Review*, 44 (1): 142–57.
-* Wringe, C., 1981, *Children’s Rights*, London: Routledge & Kegan Paul.
+* Aiken, W. and LaFollette, H. (eds.), 1980, _Whose Child? Parental Rights, Parental Authority and State Power_, Totowa, NJ: Rowman and Littlefield.
+* Alston, P., Parker, S., and Seymour, J. (eds.), 1992, _Children, Rights and the Law_, Oxford: Oxford University Press.
+* Archard, D. and Macleod, C. (eds.), 2002, _The Moral and Political Status of Children: New Essays_, Oxford: Oxford University Press.
+* Bagattini, A. and Macleod, C. (eds.), 2015, _The Nature of Children’s Well-Being, Theory and Practice_, Dordrecht: Springer.
+* Blustein, J., 1982, _Parents and Children: The Ethics of the Family_, Oxford: Oxford University Press.
+* Brennan, S. and Noggle, R., 1997, ‘The Moral Status of Children: Children’s Rights, Parents’ Rights, and Family Justice’, _Social Theory and Practice_, 23: 1–26.
+* Brighouse, H, and Swift, A., 2014, _Family Values: The Ethics of Parent-Child Relationships_, Princeton: Princeton University Press.
+* Gheaus, A., Calder, G., and Wispeleare, J. de (eds.), 2019, _Routledge Handbook of the Philosophy of Childhood and Children_, London: Routledge.
+* Kleinig, J., 1976, ‘Mill, Children, and Rights’, _Educational Philosophy and Theory_, 8(1): 1–16.
+* O’Neill, O. and Ruddick, W. (eds.), 1979, _Having Children: Philosophical and Legal Reflections on Parenthood_, Oxford: Oxford University Press.
+* Scarre, G., (ed.), 1989, _Children, Parents, and Politics_, Cambridge: Cambridge University Press.
+* Tomlin, P. 2018, ‘Saplings or Caterpillars? Trying to Understand Children’s Well-Being’, _Journal of Applied Philosophy_, 35 (1): 29–46.
+* Turner, S.M. and Matthews, G.B., eds., 1998, _The Philosopher’s Child_, Rochester: University of Rochester.
+* Wald, M., 1979, ‘Children’s Rights: A Framework for Analysis’, _University of California at Davis Law Review_, 12 (2): 255–282.
+* Worsfold, V.L., 1974, ‘A Philosophical Justification for Children’s Rights’, _Harvard Educational Review_, 44 (1): 142–57.
+* Wringe, C., 1981, _Children’s Rights_, London: Routledge & Kegan Paul.
 
 ## Academic Tools
 
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=rights-children). |
-> | --- | --- |
-> | ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/rights-children/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
-> | ![inpho icon](https://plato.stanford.edu/symbols/inpho.png) | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=rights-children&redirect=True) at the Internet Philosophy Ontology Project (InPhO). |
-> | ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif) | [Enhanced bibliography for this entry](https://philpapers.org/sep/rights-children/) at [PhilPapers](https://philpapers.org/), with links to its database. |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=rights-children).                                                                      |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg) | [Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/rights-children/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/). |
+| ![inpho icon](https://plato.stanford.edu/symbols/inpho.png)         | [Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=rights-children\&redirect=True) at the Internet Philosophy Ontology Project (InPhO).   |
+| ![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)      | [Enhanced bibliography for this entry](https://philpapers.org/sep/rights-children/) at [PhilPapers](https://philpapers.org/), with links to its database.                          |
 
 ## Other Internet Resources
 
 * [Children’s Rights](http://www.hrw.org/en/children), at Human Rights Watch.
-* [Children’s Rights](http://topics.law.cornell.edu/wex/Childrens_rights), maintained by the Legal Information Institute (Cornell Law School)
+* [Children’s Rights](http://topics.law.cornell.edu/wex/Childrens\_rights), maintained by the Legal Information Institute (Cornell Law School)
 * [Convention on the Rights of the Child](http://www.unicef.org/crc/), at the UNICEF web site.
 
 ## Related Entries
 
-[advance directives](https://plato.stanford.edu/entries/advance-directives/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [childhood, the philosophy of](https://plato.stanford.edu/entries/childhood/) | [feminist philosophy, topics: perspectives on reproduction and the family](https://plato.stanford.edu/entries/feminism-family/) | [parenthood and procreation](https://plato.stanford.edu/entries/parenthood/) | [rights](https://plato.stanford.edu/entries/rights/)
+[advance directives](https://plato.stanford.edu/entries/advance-directives/) | [autonomy: in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | [childhood, the philosophy of](https://plato.stanford.edu/entries/childhood/) | [feminist philosophy, topics: perspectives on reproduction and the family](https://plato.stanford.edu/entries/feminism-family/) | [parenthood and procreation](https://plato.stanford.edu/entries/parenthood/) | [rights](https://plato.stanford.edu/entries/rights/)
 
-[Copyright © 2023](https://plato.stanford.edu/info.html#c) by  
-David William Archard <[*d.archard@qub.ac.uk*](mailto:d%2earchard%40qub%2eac%2euk)>
+[Copyright © 2023](https://plato.stanford.edu/info.html#c) by\
+David William Archard <[_d.archard@qub.ac.uk_](mailto:d%2earchard%40qub%2eac%2euk)>
