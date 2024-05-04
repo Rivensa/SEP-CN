@@ -22,7 +22,7 @@ jobs:
           run: npm i -g md-padding && sudo apt update -y && sudo apt install pv -y
         
         - name: Run md-padding lint
-          run: find "$(pwd)" -type f -name "*.md" | pv -l | xargs -P 32 -I {} npx mdp -i {}
+          run: find "$(pwd)" -type f -name "*.md" -print0 | pv -l -0 | xargs -P 4 -I {} npx mdp -i {}
 
         - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v6
