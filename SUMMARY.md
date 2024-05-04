@@ -728,7 +728,7 @@
 * [约翰·邓·司各脱 Duns Scotus, John (Thomas Williams)](d/yue-han-deng-si-si-ge-tuo-duns-scotus-john-thomas-williams.md)
 * [荷兰赌定理 Dutch book arguments (Susan Vineberg)](d/he-lan-du-ding-li-dutch-book-arguments-susan-vineberg.md)
 * [\*动态认知逻辑——见逻辑学——动态认知逻辑 dynamic epistemic logic — see logic: dynamic epistemic](d/dong-tai-ren-zhi-luo-ji-jian-luo-ji-xue-dong-tai-ren-zhi-luo-ji-dynamic-epistemic-logic-see-logic-dy.md)
-* [\*动态语义学——见语义学：动态语义学 dynamic semantics — see semantics: dynamic](d/dong-tai-yu-yi-xue-jian-yu-yi-xue-dong-tai-yu-yi-xue-dynamic-semantics-see-semantics-dynamic.md)
+* [\*动态语义——见语义：动态语义 dynamic semantics — see semantics: dynamic](d/dong-tai-yu-yi-xue-jian-yu-yi-xue-dong-tai-yu-yi-xue-dynamic-semantics-see-semantics-dynamic.md)
 
 ## E
 
@@ -1244,7 +1244,7 @@
   * [生物信息 biological (Peter Godfrey-Smith and Kim Sterelny)](i/xin-xi-information-pieter-adriaans/sheng-wu-xin-xi-biological-peter-godfreysmith-and-kim-sterelny.md)
   * [\*逻辑——见逻辑学：逻辑和信息 and logic — see logic: and information](i/xin-xi-information-pieter-adriaans/luo-ji-jian-luo-ji-xue-luo-ji-he-xin-xi-and-logic-see-logic-and-information.md)
   * [\*量子纠缠——见量子理论：量子纠缠与信息 quantum entanglement and — see quantum theory: quantum entanglement and information](i/xin-xi-information-pieter-adriaans/liang-zi-jiu-chan-jian-liang-zi-li-lun-liang-zi-jiu-chan-yu-xin-xi-quantum-entanglement-and-see-quan.md)
-  * [语义学概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)](i/xin-xi-information-pieter-adriaans/yu-yi-xue-gai-nian-de-xin-xi-semantic-conceptions-of-sebastian-sequoiahgrayson-and-luciano-floridi.md)
+  * [语义概念的信息 semantic conceptions of (Sebastian Sequoiah-Grayson and Luciano Floridi)](i/xin-xi-information-pieter-adriaans/yu-yi-xue-gai-nian-de-xin-xi-semantic-conceptions-of-sebastian-sequoiahgrayson-and-luciano-floridi.md)
 * [\*信息处理 information processing](i/xin-xi-chu-li-information-processing/README.md)
   * [信息加工与热力学熵 and thermodynamic entropy (Owen Maroney)](i/xin-xi-chu-li-information-processing/xin-xi-jia-gong-yu-re-li-xue-shang-and-thermodynamic-entropy-owen-maroney.md)
 * [\*信息技术 information technology](i/xin-xi-ji-shu-information-technology/README.md)
@@ -2030,8 +2030,8 @@
   * [中世纪的实践理性 medieval theories of (Anthony Celano)](p/shi-jian-li-xing-practical-reason-r.-jay-wallace/zhong-shi-ji-de-shi-jian-li-xing-medieval-theories-of-anthony-celano.md)
   * [实践理性与行动结构 and the structure of actions (Elijah Millgram)](p/shi-jian-li-xing-practical-reason-r.-jay-wallace/shi-jian-li-xing-yu-hang-dong-jie-gou-and-the-structure-of-actions-elijah-millgram.md)
 * [实用主义与上帝信仰 pragmatic arguments and belief in God (Jeff Jordan)](p/shi-yong-zhu-yi-yu-shang-di-xin-yang-pragmatic-arguments-and-belief-in-god-jeff-jordan.md)
-* [语用学 pragmatics (Kepa Korta and John Perry)](p/yu-yong-xue-pragmatics-kepa-korta-and-john-perry/README.md)
-  * [\*默认——见语义学和语用学中的默认 defaults in — see defaults in semantics and pragmatics](p/yu-yong-xue-pragmatics-kepa-korta-and-john-perry/mo-ren-jian-yu-yi-xue-he-yu-yong-xue-zhong-de-mo-ren-defaults-in-see-defaults-in-semantics-and-pragm.md)
+* [语用 pragmatics (Kepa Korta and John Perry)](p/yu-yong-xue-pragmatics-kepa-korta-and-john-perry/README.md)
+  * [\*默认——见语义和语用中的默认 defaults in — see defaults in semantics and pragmatics](p/yu-yong-xue-pragmatics-kepa-korta-and-john-perry/mo-ren-jian-yu-yi-xue-he-yu-yong-xue-zhong-de-mo-ren-defaults-in-see-defaults-in-semantics-and-pragm.md)
 * [实用主义 pragmatism (Catherine Legg and Christopher Hookway)](p/shi-yong-zhu-yi-pragmatism-catherine-legg-and-christopher-hookway.md)
 * [\*祷告 prayer](p/dao-gao-prayer/README.md)
   * [祈求式祷告 petitionary (Scott A. Davison)](p/dao-gao-prayer/qi-qiu-shi-dao-gao-petitionary-scott-a.-davison.md)
