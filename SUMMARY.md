@@ -825,7 +825,7 @@
   * [互联网研究伦理 internet research (Elizabeth A. Buchanan and Michael Zimmer)](e/lun-li-xue-ethics/hu-lian-wang-yan-jiu-lun-li-internet-research-elizabeth-a.-buchanan-and-michael-zimmer.md)
   * [伦理学中的自然法传统 natural law tradition (Mark Murphy)](e/lun-li-xue-ethics/lun-li-xue-zhong-de-zi-ran-fa-chuan-tong-natural-law-tradition-mark-murphy.md)
   * [\*人格同一性——见人格同一性：人格同一性与伦理学 and personal identity — see personal identity: and ethics](e/lun-li-xue-ethics/ren-ge-tong-yi-xing-jian-ren-ge-tong-yi-xing-ren-ge-tong-yi-xing-yu-lun-li-xue-and-personal-identity.md)
-  * [搜索引擎的伦理 search engines and (Herman Tavani and Michael Zimmer)](e/lun-li-xue-ethics/sou-suo-yin-qing-de-lun-li-search-engines-and-herman-tavani-and-michael-zimmer.md)
+  * [搜索引擎伦理 search engines and (Herman Tavani and Michael Zimmer)](e/lun-li-xue-ethics/sou-suo-yin-qing-de-lun-li-search-engines-and-herman-tavani-and-michael-zimmer.md)
   * [\*社交网络——见社交网络的伦理 and social networking — see social networking and ethics](e/lun-li-xue-ethics/she-jiao-wang-luo-jian-she-jiao-wang-luo-de-lun-li-and-social-networking-see-social-networking-and-e.md)
   * [\*厚概念——见厚的伦理概念 thick concepts — see thick ethical concepts](e/lun-li-xue-ethics/hou-gai-nian-jian-hou-de-lun-li-gai-nian-thick-concepts-see-thick-ethical-concepts.md)
   * [\*功利主义——见结果主义 utilitarian — see consequentialism](e/lun-li-xue-ethics/gong-li-zhu-yi-jian-jie-guo-zhu-yi-utilitarian-see-consequentialism.md)
