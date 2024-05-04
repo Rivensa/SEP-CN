@@ -1619,7 +1619,7 @@
 * [乔治·赫伯特·米德 Mead, George Herbert (Mitchell Aboulafia and Scott Taylor)](m/qiao-zhi-he-bo-te-mi-de-mead-george-herbert-mitchell-aboulafia-and-scott-taylor.md)
 * [\*意义 meaning](m/yi-yi-meaning/README.md)
   * [意义与内容的规范性 normativity of (Kathrin Glüer, Åsa Wikforss, and Marianna Ganapini)](m/yi-yi-meaning/yi-yi-yu-nei-rong-de-gui-fan-xing-normativity-of-kathrin-gler-sa-wikforss-and-marianna-ganapini.md)
-  * [语义 of words (Luca Gasparri and Diego Marconi)](m/yi-yi-meaning/yu-yi-of-words-luca-gasparri-and-diego-marconi.md)
+  * [词义 of words (Luca Gasparri and Diego Marconi)](m/yi-yi-meaning/yu-yi-of-words-luca-gasparri-and-diego-marconi.md)
 * [意义理论 meaning, theories of (Jeff Speaks)](m/yi-yi-li-lun-meaning-theories-of-jeff-speaks.md)
 * [意义整体论 meaning holism (Henry Jackman)](m/yi-yi-zheng-ti-lun-meaning-holism-henry-jackman.md)
 * [\*将人作为手段——见将人作为手段 means, treating persons as — see treating persons as means](m/jiang-ren-zuo-wei-shou-duan-jian-jiang-ren-zuo-wei-shou-duan-means-treating-persons-as-see-treating.md)
