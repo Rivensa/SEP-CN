@@ -709,7 +709,7 @@
   * [神圣光照论 illumination (Robert Pasnau)](d/shen-divine/shen-sheng-guang-zhao-lun-illumination-robert-pasnau.md)
   * [\*天意——见神意 providence — see providence, divine](d/shen-divine/tian-yi-jian-shen-yi-providence-see-providence-divine.md)
   * [\*启示——见神启 revelation — see revelation, divine](d/shen-divine/qi-shi-jian-shen-sheng-qi-shi-revelation-see-revelation-divine.md)
-  * [\*单纯——见神的纯一性 simplicity — see simplicity: divine](d/shen-divine/dan-chun-jian-shen-de-chun-yi-xing-simplicity-see-simplicity-divine.md)
+  * [\*单纯——见简单性：神圣单纯性 simplicity — see simplicity: divine](d/shen-divine/dan-chun-jian-shen-de-chun-yi-xing-simplicity-see-simplicity-divine.md)
 * [造成伤害与允许伤害 doing vs. allowing harm (Fiona Woollard and Frances Howard-Snyder)](d/zao-cheng-shang-hai-yu-yun-xu-shang-hai-doing-vs.-allowing-harm-fiona-woollard-and-frances-howardsny.md)
 * [\*婚姻和同居伴侣——见婚姻和同居伴侣 domestic partnership and marriage — see marriage and domestic partnership](d/hun-yin-he-tong-ju-ban-lv-jian-hun-yin-he-tong-ju-ban-lv-domestic-partnership-and-marriage-see-marri.md)
 * [统治 domination (Christopher McCammon)](d/tong-zhi-domination-christopher-mccammon.md)
