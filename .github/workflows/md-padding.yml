@@ -19,7 +19,7 @@ jobs:
             node-version: '20'
           
         - name: Install Node.js dependencies 
-          run: npm i -g md-padding@latest && npx mdp --version
+          run: npm i -g  --no-fund md-padding@latest && npx mdp --version
         
         - name: Run md-padding lint
           run: find "$(pwd)" -type f -name "*.md" | xargs -I {} npx mdp -i {}
