@@ -21,10 +21,10 @@ jobs:
         - name: Install Node.js dependencies 
           run: npm i -g  --no-fund md-padding@latest && npx mdp --version
         
-        - name: Run md-padding lint
+        - name: Run md-padding to add spaces
           run: find "$(pwd)" -type f -name "*.md" | xargs -I {} npx mdp -i {}
 
-        - name: Markdown add spaces
+        - name: PR Changes by md-padding
           uses: peter-evans/create-pull-request@v6
           with:
              commit-message: "Markdown add spaces"
