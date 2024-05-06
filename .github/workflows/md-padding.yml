@@ -19,7 +19,7 @@ jobs:
             node-version: '20'
           
         - name: Install Node.js dependencies 
-          run: npm i -g  --no-fund md-padding@latest && npx mdp --version
+          run: npm i -g  --no-fund md-padding && npx mdp --version
         
         - name: Run md-padding to add spaces
           run: find "$(pwd)" -type f -name "*.md" | npx md-padding@latest --ignore-words '-' ':' -f  --read-files -i
