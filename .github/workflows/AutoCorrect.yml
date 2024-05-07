@@ -19,7 +19,7 @@ jobs:
             node-version: '20'
           
         - name: Install autocorrect 
-          run: uname -r && npm i @huacnlee/autocorrect && npx autocorrect -V
+          run: uname -r && npm i -g  @huacnlee/autocorrect && npx autocorrect -V
         
         - name: Run autocorrect lint
           run: npx autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
