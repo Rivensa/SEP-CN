@@ -18,8 +18,8 @@ jobs:
           with:
             node-version: '20'
           
-        - name: Install nodejs dependencies
-          run: yarn add autocorrect-node
+        - name: Install autocorrect 
+          run: yarn add autocorrect-node && yarn autocorrect -V
         
         - name: Run autocorrect lint
           run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
