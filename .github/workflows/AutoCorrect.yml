@@ -19,7 +19,7 @@ jobs:
             node-version: '20'
           
         - name: Install autocorrect 
-          run: yarn add autocorrect-node && yarn autocorrect -V
+          run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
         
         - name: Run autocorrect lint
           run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
