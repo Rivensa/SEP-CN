@@ -851,7 +851,7 @@
   * [隐私与医疗 privacy and medicine (Anita Allen)](e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/yin-si-yu-yi-liao-privacy-and-medicine-anita-allen.md)
   * [\*公共卫生伦理——见公共卫生：公共卫生伦理 public health ethics — see public health: ethics](e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/gong-gong-wei-sheng-lun-li-jian-gong-gong-wei-sheng-gong-gong-wei-sheng-lun-li-public-health-ethics.md)
   * [\*人体器官买卖——见人体器官买卖 the sale of human organs — see sale of human organs](e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/ren-ti-qi-guan-xiao-shou-jian-ren-ti-qi-guan-xiao-shou-the-sale-of-human-organs-see-sale-of-human-or.md)
-  * [干细胞研究伦理 stem cell research (Andrew Siegel)](e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/gan-xi-bao-yan-jiu-lun-li-stem-cell-research-andrew-siegel.md)
+  * [干细胞研究的伦理问题 stem cell research (Andrew Siegel)](e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/gan-xi-bao-yan-jiu-lun-li-stem-cell-research-andrew-siegel.md)
   * [生物伦理理论 theory (Jennifer Flynn)](e/sheng-wu-yi-xue-lun-li-xue-ethics-biomedical/sheng-wu-lun-li-li-lun-theory-jennifer-flynn.md)
 * [\*幸福——见伦理学：古代伦理学 eudaimonia — see ethics: ancient](e/xing-fu-jian-lun-li-xue-gu-dai-lun-li-xue-eudaimonia-see-ethics-ancient.md)
 * [优生学 eugenics (Inmaculada de Melo-Martin and Sara Goering)](e/you-sheng-xue-eugenics-inmaculada-de-melomartin-and-sara-goering.md)
