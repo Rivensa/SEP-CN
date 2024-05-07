@@ -19,13 +19,13 @@ jobs:
             node-version: '20'
           
         - name: Install autocorrect 
-          run: uname -r && yarn add autocorrect-node && yarn autocorrect -V
+          run: uname -r && npm i @huacnlee/autocorrect && npx autocorrect -V
         
         - name: Run autocorrect lint
-          run: yarn autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
+          run: npx autocorrect --config .autocorrectrc --lint --no-diff-bg-color **/*.md  || true 
           
         - name: Run autocorrect fix
-          run: yarn autocorrect --fix **/*.md
+          run: npx autocorrect --fix **/*.md
 
         - name: Markdown add spaces
           uses: peter-evans/create-pull-request@v6
