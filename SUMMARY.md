@@ -513,3 +513,20 @@
 * [神学意志主义 voluntarism, theological (Mark Murphy)](v/shen-xue-yi-zhi-zhu-yi-voluntarism-theological-mark-murphy.md)
 * [投票的道德与理性 voting (Jason Brennan)](v/tou-piao-de-dao-de-yu-li-xing-voting-jason-brennan/README.md)
   * [投票方法 methods (Eric Pacuit)](v/tou-piao-de-dao-de-yu-li-xing-voting-jason-brennan/tou-piao-fang-fa-methods-eric-pacuit.md)
+
+## W
+
+* [王阳明 Wang Yangming (Bryan Van Norden)](w/wang-yang-ming-wang-yangming-bryan-van-norden.md)
+* [战争 war (Seth Lazar)](w/zhan-zheng-war-seth-lazar.md)
+* [詹姆斯·瓦德 Ward, James (Pierfrancesco Basile)](w/zhan-mu-si-wa-de-ward-james-pierfrancesco-basile.md)
+* [\*辩护与担保的传递——见辩护与担保的传递 warrant, transmission of — see transmission of justification and warrant](w/bian-hu-yu-dan-bao-de-chuan-di-jian-bian-hu-yu-dan-bao-de-chuan-di-warrant-transmission-of-see-trans.md)
+* [和辻哲郎 Watsuji Tetsurō (Robert Carter and Erin McCarthy)](w/he-shi-zhe-lang-watsuji-tetsur-robert-carter-and-erin-mccarthy.md)
+* [意志薄弱 weakness of will (Sarah Stroud and Larisa Svirsky)](w/yi-zhi-bao-ruo-weakness-of-will-sarah-stroud-and-larisa-svirsky.md)
+* [马克斯·韦伯 Weber, Max (Sung Ho Kim)](w/ma-ke-si-wei-bo-weber-max-sung-ho-kim.md)
+* [西蒙娜·薇依 Weil, Simone (A. Rebecca Rozelle-Stone and Benjamin P. Davis)](w/xi-meng-na-wei-yi-weil-simone-a.-rebecca-rozellestone-and-benjamin-p.-davis.md)
+* [\*福利经济学——见规范经济学与经济正义 welfare economics — see economics and economic justice](w/fu-li-jing-ji-xue-jian-gui-fan-jing-ji-xue-yu-jing-ji-zheng-yi-welfare-economics-see-economics-and-e/README.md)
+  * [\*拉姆齐与代际——见弗兰克·拉姆齐：拉姆齐的代际福利经济学intergenerational, and Ramsey — see Ramsey, Frank: and intergenerational welfare economics](w/fu-li-jing-ji-xue-jian-gui-fan-jing-ji-xue-yu-jing-ji-zheng-yi-welfare-economics-see-economics-and-e/la-mu-qi-yu-dai-ji-jian-fu-lan-ke-la-mu-qi-la-mu-qi-de-dai-ji-fu-li-jing-ji-xue-intergenerational-an.md)
+* [福祉 well-being (Roger Crisp)](w/fu-zhi-wellbeing-roger-crisp.md)
+* [赫尔曼·外尔 Weyl, Hermann (John L. Bell and Herbert Korté)](w/he-er-man-wai-er-weyl-hermann-john-l.-bell-and-herbert-kort.md)
+* [威廉·惠威尔 Whewell, William (Laura J. Snyder)](w/wei-lian-hui-wei-er-whewell-william-laura-j.-snyder.md)
+* [\*本杰明·惠科特——见剑桥柏拉图学派 Whichcote, Benjamin — see Cambridge Platonists](w/ben-jie-ming-hui-ke-te-jian-jian-qiao-bai-la-tu-xue-pai-whichcote-benjamin-see-cambridge-platonists.md)
