@@ -1,1 +1,1 @@
-# \*道教——见道教 Daoism (Taoism) — see Daoism
+# \*道家/道教——见道家/道教 Daoism (Taoism) — see Daoism
