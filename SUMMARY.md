@@ -779,7 +779,7 @@
 * [爱比克泰德 Epictetus (Margaret Graver)](e/ai-bi-ke-tai-de-epictetus-margaret-graver.md)
 * [伊壁鸠鲁 Epicurus (David Konstan)](e/yi-bi-jiu-lu-epicurus-david-konstan.md)
 * [副现象主义 epiphenomenalism (William Robinson)](e/fu-xian-xiang-zhu-yi-epiphenomenalism-william-robinson.md)
-* [科学知识与技术 episteme and techne \[= scientific knowledge and expertise\] (Richard Parry)](e/ke-xue-zhi-shi-yu-ji-shu-episteme-and-techne-scientific-knowledge-and-expertise-richard-parry.md)
+* [科学与技术 episteme and techne \[= scientific knowledge and expertise\] (Richard Parry)](e/ke-xue-zhi-shi-yu-ji-shu-episteme-and-techne-scientific-knowledge-and-expertise-richard-parry.md)
 * [\*认知基础关系——见认知基础关系 epistemic basing relation — see basing relation, epistemic](e/ren-zhi-ji-chu-guan-xi-jian-ren-zhi-ji-chu-guan-xi-epistemic-basing-relation-see-basing-relation-epi.md)
 * [认知闭合 epistemic closure (Steven Luper)](e/ren-zhi-bi-he-epistemic-closure-steven-luper.md)
 * [认知悖论 epistemic paradoxes (Roy Sorensen)](e/ren-zhi-bei-lun-epistemic-paradoxes-roy-sorensen.md)
