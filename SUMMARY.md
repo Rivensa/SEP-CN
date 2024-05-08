@@ -1213,7 +1213,7 @@
 * [不可能世界 impossible worlds (Francesco Berto and Mark Jago)](i/bu-ke-neng-shi-jie-impossible-worlds-francesco-berto-and-mark-jago.md)
 * [\*不可通约性 incommensurability](i/bu-ke-tong-yue-xing-incommensurability/README.md)
   * [科学理论的不可通约性 of scientific theories (Eric Oberheim and Paul Hoyningen-Huene)](i/bu-ke-tong-yue-xing-incommensurability/ke-xue-li-lun-de-bu-ke-tong-yue-of-scientific-theories-eric-oberheim-and-paul-hoyningenhuene.md)
-  * [\*价值——见价值：价值不可通约性 of values — see value: incommensurable](i/bu-ke-tong-yue-xing-incommensurability/jia-zhi-jian-jia-zhi-jia-zhi-bu-ke-tong-yue-of-values-see-value-incommensurable.md)
+  * [\*价值——见价值：不可通约性价值 of values — see value: incommensurable](i/bu-ke-tong-yue-xing-incommensurability/jia-zhi-jian-jia-zhi-jia-zhi-bu-ke-tong-yue-of-values-see-value-incommensurable.md)
 * [\*价值不可共量——见价值：价值不可共量 incomparable values — see value: incommensurable](i/jia-zhi-bu-ke-gong-liang-jian-jia-zhi-jia-zhi-bu-ke-gong-liang-incomparable-values-see-value-incomme.md)
 * [\*不相容论 incompatibilism](i/bu-xiang-rong-lun-incompatibilism/README.md)
   * [自由意志的不相容主义（非决定性）理论 (nondeterministic) theories of free will (Randolph Clarke, Justin Capes, and Philip Swenson)](i/bu-xiang-rong-lun-incompatibilism/zi-you-yi-zhi-de-bu-xiang-rong-zhu-yi-fei-jue-ding-xing-li-lun-nondeterministic-theories-of-free-wil.md)
