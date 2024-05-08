@@ -530,3 +530,51 @@
 * [赫尔曼·外尔 Weyl, Hermann (John L. Bell and Herbert Korté)](w/he-er-man-wai-er-weyl-hermann-john-l.-bell-and-herbert-kort.md)
 * [威廉·惠威尔 Whewell, William (Laura J. Snyder)](w/wei-lian-hui-wei-er-whewell-william-laura-j.-snyder.md)
 * [\*本杰明·惠科特——见剑桥柏拉图学派 Whichcote, Benjamin — see Cambridge Platonists](w/ben-jie-ming-hui-ke-te-jian-jian-qiao-bai-la-tu-xue-pai-whichcote-benjamin-see-cambridge-platonists.md)
+* [阿弗烈·诺夫·怀特海 Whitehead, Alfred North (Ronald Desmet and Andrew David Irvine)](w/a-fu-lie-nuo-fu-huai-te-hai-whitehead-alfred-north-ronald-desmet-and-andrew-david-irvine.md)
+* [奥弗涅的威廉 William of Auvergne (Neil Lewis and Katrin Fischer)](w/ao-fu-nie-de-wei-lian-william-of-auvergne-neil-lewis-and-katrin-fischer.md)
+* [尚波的威廉 William of Champeaux (Kevin Guilfoy)](w/shang-bo-de-wei-lian-william-of-champeaux-kevin-guilfoy.md)
+* [\*奥卡姆的威廉——见奥卡姆的威廉 William of Ockham — see Ockham, William](w/ao-ka-mu-de-wei-lian-jian-ao-ka-mu-de-wei-lian-william-of-ockham-see-ockham-william.md)
+* [舍伍德的威廉 William of Sherwood (Sara L. Uckelman)](w/she-wu-de-de-wei-lian-william-of-sherwood-sara-l.-uckelman.md)
+* [伯纳德·威廉姆斯 Williams, Bernard (Sophie-Grace Chappell and Nicholas Smyth)](w/bo-na-de-wei-lian-mu-si-williams-bernard-sophiegrace-chappell-and-nicholas-smyth.md)
+* [唐纳德·卡里·威廉姆斯 Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring)](w/tang-na-de-ka-li-wei-lian-mu-si-williams-donald-cary-keith-campbell-james-franklin-and-douglas-ehrin.md)
+* [约翰·库克·威尔逊 Wilson, John Cook (Mathieu Marion)](w/yue-han-ku-ke-wei-er-xun-wilson-john-cook-mathieu-marion.md)
+* [威廉·文德尔班 Windelband, Wilhelm (Katherina Kinzel)](w/wei-lian-wen-de-er-ban-windelband-wilhelm-katherina-kinzel.md)
+* [智慧 wisdom (Sharon Ryan)](w/zhi-hui-wisdom-sharon-ryan.md)
+* [路德维希·维特根斯坦 Wittgenstein, Ludwig (Anat Biletzki and Anat Matar)](w/lu-de-wei-xi-wei-te-gen-si-tan-wittgenstein-ludwig-anat-biletzki-and-anat-matar/README.md)
+  * [维特根斯坦的美学 aesthetics (Garry Hagberg)](w/lu-de-wei-xi-wei-te-gen-si-tan-wittgenstein-ludwig-anat-biletzki-and-anat-matar/wei-te-gen-si-tan-de-mei-xue-aesthetics-garry-hagberg.md)
+  * [维特根斯坦的逻辑原子主义 logical atomism (Ian Proops)](w/lu-de-wei-xi-wei-te-gen-si-tan-wittgenstein-ludwig-anat-biletzki-and-anat-matar/wei-te-gen-si-tan-de-luo-ji-yuan-zi-zhu-yi-logical-atomism-ian-proops.md)
+  * [维特根斯坦的数学哲学 philosophy of mathematics (Victor Rodych)](w/lu-de-wei-xi-wei-te-gen-si-tan-wittgenstein-ludwig-anat-biletzki-and-anat-matar/wei-te-gen-si-tan-de-shu-xue-zhe-xue-philosophy-of-mathematics-victor-rodych.md)
+* [亚当·冯·沃德汉姆 Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)](w/ya-dang-feng-wo-de-han-mu-wodeham-adam-de-john-t.-slotemaker-and-jeffrey-c.-witt.md)
+* [克里斯蒂安·沃尔夫 Wolff, Christian (Matt Hettche and Corey Dyck)](w/ke-li-si-di-an-wo-er-fu-wolff-christian-matt-hettche-and-corey-dyck.md)
+* [玛丽·沃斯通克拉夫特 Wollstonecraft, Mary (Sylvana Tomaselli)](w/ma-li-wo-si-tong-ke-la-fu-te-wollstonecraft-mary-sylvana-tomaselli.md)
+* [\*词义——见意义：词义 word meaning — see meaning: of words](w/ci-yi-jian-yi-yi-ci-yi-word-meaning-see-meaning-of-words.md)
+* [工作和劳动 work and labor (Michael Cholbi)](w/gong-zuo-he-lao-dong-work-and-labor-michael-cholbi.md)
+* [世界政府 world government (Catherine Lu)](w/shi-jie-zheng-fu-world-government-catherine-lu.md)
+* [\*世界 worlds](w/shi-jie-worlds/README.md)
+  * [\*不可能——见不可能世界 impossible — see impossible worlds](w/shi-jie-worlds/bu-ke-neng-jian-bu-ke-neng-shi-jie-impossible-see-impossible-worlds.md)
+  * [\*可能——见可能世界 possible — see possible worlds](w/shi-jie-worlds/ke-neng-jian-ke-neng-shi-jie-possible-see-possible-worlds.md)
+* [昌西·赖特 Wright, Chauncey (Jean De Groot)](w/chang-xi-lai-te-wright-chauncey-jean-de-groot.md)
+* [威廉·马克西米利安·冯特 Wundt, Wilhelm Maximilian (Alan Kim)](w/wei-lian-ma-ke-xi-mi-li-an-feng-te-wundt-wilhelm-maximilian-alan-kim.md)
+* [约翰·威克里夫 Wyclif, John (Alessandro Conti)](w/yue-han-wei-ke-li-fu-wyclif-john-alessandro-conti/README.md)
+  * [约翰·威克里夫的政治哲学 political Philosophy (Stephen Lahey)](w/yue-han-wei-ke-li-fu-wyclif-john-alessandro-conti/yue-han-wei-ke-li-fu-de-zheng-zhi-zhe-xue-political-philosophy-stephen-lahey.md)
+
+## X
+
+* [色诺克拉底 Xenocrates (Russell Dancy)](x/se-nuo-ke-la-di-xenocrates-russell-dancy.md)
+* [克塞诺芬尼 Xenophanes (James Lesher)](x/ke-sai-nuo-fen-ni-xenophanes-james-lesher.md)
+* [荀子 Xunzi (Paul R. Goldin)](x/xun-zi-xunzi-paul-r.-goldin.md)
+
+## Y
+
+* [保罗·约克冯·瓦滕堡伯爵 Yorck von Wartenburg, Count Paul (Ingo Farin)](y/bao-luo-yue-ke-feng-wa-teng-bao-bo-jue-yorck-von-wartenburg-count-paul-ingo-farin.md)
+
+## Z
+
+* [雅各布·萨巴雷拉 Zabarella, Giacomo (Heikki Mikkeli and Tawrin Baker)](z/ya-ge-bu-sa-ba-lei-la-zabarella-giacomo-heikki-mikkeli-and-tawrin-baker.md)
+* [爱利亚的芝诺 Zeno of Elea (John Palmer)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/README.md)
+  * [芝诺悖论 Zeno’s paradoxes (Nick Huggett)](z/ai-li-ya-de-zhi-nuo-zeno-of-elea-john-palmer/zhi-nuo-bei-lun-zenos-paradoxes-nick-huggett.md)
+* [\*恩斯特·策梅洛 Zermelo, Ernst](z/en-si-te-ce-mei-luo-zermelo-ernst/README.md)
+  * [\*公理化集合论——见策梅洛的公理化集合论 axiomatization of set theory — see set theory: Zermelo’s axiomatization of](z/en-si-te-ce-mei-luo-zermelo-ernst/gong-li-hua-ji-he-lun-jian-ce-mei-luo-de-gong-li-hua-ji-he-lun-axiomatization-of-set-theory-see-set.md)
+* [庄子 Zhuangzi (Chad Hansen)](z/zhuang-zi-zhuangzi-chad-hansen.md)
+* [朱熹 Zhu Xi (Kirill Thompson)](z/zhu-xi-zhu-xi-kirill-thompson.md)
+* [僵尸 zombies (Robert Kirk)](z/jiang-shi-zombies-robert-kirk.md)
