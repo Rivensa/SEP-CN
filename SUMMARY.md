@@ -1335,7 +1335,7 @@
   * [知识证成的基础主义理论 foundationalist theories of (Ali Hasan and Richard Fumerton)](j/zhi-shi-zheng-cheng-justification-epistemic/zhi-shi-zheng-cheng-de-ji-chu-zhu-yi-li-lun-foundationalist-theories-of-ali-hasan-and-richard-fumert.md)
   * [知识证成的内在主义与外在主义观念 internalist vs. externalist conceptions of (George Pappas)](j/zhi-shi-zheng-cheng-justification-epistemic/zhi-shi-zheng-cheng-de-nei-zai-zhu-yi-yu-wai-zai-zhu-yi-guan-nian-internalist-vs.-externalist-concep.md)
   * [\*可靠主义——见可靠主义认识论 reliabilism — see reliabilist epistemology](j/zhi-shi-zheng-cheng-justification-epistemic/ke-kao-zhu-yi-jian-ke-kao-zhu-yi-ren-shi-lun-reliabilism-see-reliabilist-epistemology.md)
-  * [\*传递——见正当性与授权的传递 transmission of — see transmission of justification and warrant](j/zhi-shi-zheng-cheng-justification-epistemic/chuan-di-jian-zheng-dang-xing-yu-shou-quan-de-chuan-di-transmission-of-see-transmission-of-justifica.md)
+  * [\*传递——见辩护与担保的传递 transmission of — see transmission of justification and warrant](j/zhi-shi-zheng-cheng-justification-epistemic/chuan-di-jian-zheng-dang-xing-yu-shou-quan-de-chuan-di-transmission-of-see-transmission-of-justifica.md)
 * [\*政治正当性 justification, political](j/zheng-zhi-zheng-dang-xing-justification-political/README.md)
   * [公共证成 public (Kevin Vallier)](j/zheng-zhi-zheng-dang-xing-justification-political/gong-gong-zheng-cheng-public-kevin-vallier.md)
 
