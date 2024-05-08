@@ -88,7 +88,7 @@
 * [海因里希·阿格里帕·冯·内特斯海姆 Agrippa von Nettesheim, Heinrich Cornelius (Vittoria Perrone Compagni)](a/hai-yin-li-xi-age-li-pa-feng-nei-te-si-hai-mu-agrippa-von-nettesheim-heinrich-cornelius-vittoria-per.md)
 * [\*阿坎哲学 Akan Philosophy](a/a-kan-zhe-xue-akan-philosophy/README.md)
   * [阿坎哲学关于人格的看法 of the person (Ajume Wingo)](a/a-kan-zhe-xue-akan-philosophy/a-kan-zhe-xue-guan-yu-ren-ge-de-kan-fa-of-the-person-ajume-wingo.md)
-* [\*不自制——见意志力薄弱 akrasia — see weakness of will](a/bu-zi-zhi-jian-yi-zhi-li-bao-ruo-akrasia-see-weakness-of-will.md)
+* [\*不自制——见意志薄弱 akrasia — see weakness of will](a/bu-zi-zhi-jian-yi-zhi-li-bao-ruo-akrasia-see-weakness-of-will.md)
 * [阿卜杜勒·拉蒂夫·巴格达迪 al-Baghdadi, ‘Abd al-Latif (Cecilia Martini Bonadeo)](a/a-bu-du-le-la-di-fu-ba-ge-da-di-albaghdadi-abd-allatif-cecilia-martini-bonadeo.md)
 * [阿里·法拉比 al-Farabi (Therese-Anne Druart)](a/a-li-fa-la-bi-alfarabi-thereseanne-druart/README.md)
   * [阿里·法拉比的形而上学 metaphysics (Stephen Menn)](a/a-li-fa-la-bi-alfarabi-thereseanne-druart/a-li-fa-la-bi-de-xing-er-shang-xue-metaphysics-stephen-menn.md)
