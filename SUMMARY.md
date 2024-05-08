@@ -409,7 +409,7 @@
 * [恐怖主义 terrorism (Igor Primoratz)](t/kong-bu-zhu-yi-terrorism-igor-primoratz.md)
 * [\*证言 testimony](t/zheng-yan-testimony/README.md)
   * [证言的认识论问题 epistemological problems of (Nick Leonard)](t/zheng-yan-testimony/zheng-yan-de-ren-shi-lun-wen-ti-epistemological-problems-of-nick-leonard.md)
-* [8审美证言——见审美证言 testimony, aesthetic — see aesthetic testimony](t/8-shen-mei-zheng-yan-jian-shen-mei-zheng-yan-testimony-aesthetic-see-aesthetic-testimony.md)
+* [\*审美证言——见审美证言 testimony, aesthetic — see aesthetic testimony](t/shen-mei-zheng-yan-jian-shen-mei-zheng-yan-testimony-aesthetic-see-aesthetic-testimony.md)
 * [戏剧哲学 theater, philosophy of (James R. Hamilton)](t/xi-ju-zhe-xue-theater-philosophy-of-james-r.-hamilton.md)
 * [\*有神论 theism](t/you-shen-lun-theism/README.md)
   * [\*无神论与不可知论——见无神论与不可知论 atheism and agnosticism — see atheism and agnosticism](t/you-shen-lun-theism/wu-shen-lun-yu-bu-ke-zhi-lun-jian-wu-shen-lun-yu-bu-ke-zhi-lun-atheism-and-agnosticism-see-atheism-a.md)
