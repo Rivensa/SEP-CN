@@ -52,3 +52,6 @@
 - 2024.05.07 S 部分条目的机器翻译完成
 - 2024.05.08 T 部分条目的目录创建完成
 - 2024.05.09 U、V、W、X、Y、Z 部分条目的目录创建完成
+  - 存在问题的条目
+    - Williams, Donald Cary (Keith Campbell, James Franklin, and Douglas Ehring) 不知道是谁
+    - Wodeham, Adam de (John T. Slotemaker and Jeffrey C. Witt)  不知道是谁
