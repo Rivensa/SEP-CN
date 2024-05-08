@@ -423,7 +423,7 @@
 * [撒母耳·伊本·提本 Tibbon, Samuel Ibn (James T. Robinson)](t/sa-mu-er-yi-ben-ti-ben-tibbon-samuel-ibn-james-t.-robinson.md)
 * [西藏认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)](t/xi-cang-ren-shi-lun-yu-yu-yan-zhe-xue-tibetan-epistemology-and-philosophy-of-language-pascale-hugon.md)
 * [普通法系下的侵权法理论 torts, theories of the common law of (Arthur Ripstein)](t/pu-tong-fa-xi-xia-de-qin-quan-fa-li-lun-torts-theories-of-the-common-law-of-arthur-ripstein.md)
-* [虐待 torture (Seumas Miller)](t/nve-dai-torture-seumas-miller.md)
+* [酷刑 torture (Seumas Miller)](t/ku-xing-torture-seumas-miller.md)
 * [触觉 touch (Matthew Fulkerson)](t/chu-jue-touch-matthew-fulkerson.md)
 * [先验论证 transcendental arguments (Robert Stern and Tony Cheng)](t/xian-yan-lun-zheng-transcendental-arguments-robert-stern-and-tony-cheng/README.md)
   * [\*康德——见伊曼努尔·康德：康德的先验论证 Kant — see Kant, Immanuel: transcendental arguments](t/xian-yan-lun-zheng-transcendental-arguments-robert-stern-and-tony-cheng/kang-de-jian-yi-man-nu-er-kang-de-kang-de-de-xian-yan-lun-zheng-kant-see-kant-immanuel-transcendenta.md)
