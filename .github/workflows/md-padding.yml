@@ -22,7 +22,7 @@ jobs:
           run: npm i -g  --no-fund md-padding && npx mdp --version
         
         - name: Run md-padding to add spaces
-          run: find "$(pwd)" -type f -name "*.md" | npx md-padding@latest --ignore-words='-' ':' '>' '<' -f  --read-files -i
+          run: find "$(pwd)" -type f -name "*.md" | npx md-padding --ignore-words='-' ':' '>' '<' -f  --read-files -i
 
         - name: PR Changes by md-padding
           uses: peter-evans/create-pull-request@v6
