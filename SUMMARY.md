@@ -386,3 +386,9 @@
 * [\*综合——见分析/综合的区别 synthetic — see analytic/synthetic distinction](s/zong-he-jian-fen-xi-zong-he-de-qu-bie-synthetic-see-analyticsynthetic-distinction.md)
 * [西里阿努斯 Syrianus (Christian Wildberg)](s/xi-lianu-si-syrianus-christian-wildberg.md)
 * [系统与合成生物哲学 systems and synthetic biology, philosophy of (Sara Green)](s/xi-tong-yu-he-cheng-sheng-wu-zhe-xue-systems-and-synthetic-biology-philosophy-of-sara-green.md)
+
+## T
+
+* [\*道家/道教——见道家/道教 Taoism — see Daoism](t/dao-jia-dao-jiao-jian-dao-jia-dao-jiao-taoism-see-daoism.md)
+* [阿尔弗莱德·塔尔斯基 Tarski, Alfred (Mario Gómez-Torrente)](t/a-er-fu-lai-de-ta-er-si-ji-tarski-alfred-mario-gmeztorrente/README.md)
+  * [塔尔斯基的真理定义 truth definitions (Wilfrid Hodges)](t/a-er-fu-lai-de-ta-er-si-ji-tarski-alfred-mario-gmeztorrente/ta-er-si-ji-de-zhen-li-ding-yi-truth-definitions-wilfrid-hodges.md)
