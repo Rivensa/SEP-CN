@@ -463,3 +463,20 @@
   * [丘奇类型论 Church’s type theory (Christoph Benzmüller and Peter Andrews)](t/lei-xing-lun-type-theory-thierry-coquand/qiu-qi-lei-xing-lun-churchs-type-theory-christoph-benzmller-and-peter-andrews.md)
   * [\*建构主义——见类型论：直觉主义类型论 constructive — see type theory: intuitionistic](t/lei-xing-lun-type-theory-thierry-coquand/jian-gou-zhu-yi-jian-lei-xing-lun-zhi-jue-zhu-yi-lei-xing-lun-constructive-see-type-theory-intuition.md)
   * [直觉主义认识论 intuitionistic (Peter Dybjer and Erik Palmgren)](t/lei-xing-lun-type-theory-thierry-coquand/zhi-jue-zhu-yi-ren-shi-lun-intuitionistic-peter-dybjer-and-erik-palmgren.md)
+
+## U
+
+* [\*终极存在 ultimates](u/zhong-ji-cun-zai-ultimates/README.md)
+  * [\*上帝——见上帝：上帝与其他终极存在 and God — see God: and other ultimates](u/zhong-ji-cun-zai-ultimates/shang-di-jian-shang-di-shang-di-yu-qi-ta-zhong-ji-cun-zai-and-god-see-god-and-other-ultimates.md)
+* [欧玛尔·海亚姆 Umar Khayyam (Seyed N. Mousavian, Suzanne Sumner, Mehdi Aminrazavi, and Glen Van Brummelen)](u/ou-ma-er-hai-ya-mu-umar-khayyam-seyed-n.-mousavian-suzanne-sumner-mehdi-aminrazavi-and-glen-van-brum.md)
+* [不确定性原理 Uncertainty Principle (Jan Hilgevoord and Jos Uffink)](u/bu-que-ding-xing-yuan-li-uncertainty-principle-jan-hilgevoord-and-jos-uffink.md)
+* [科学理论的非充分决定性 underdetermination, of scientific theories (Kyle Stanford)](u/ke-xue-li-lun-de-fei-chong-fen-jue-ding-xing-underdetermination-of-scientific-theories-kyle-stanford.md)
+* [理解 understanding (Stephen Grimm)](u/li-jie-understanding-stephen-grimm.md)
+* [\*自然选择的单位与层次——见自然选择：选择的单位与层次 units and levels of natural selection — see natural selection: units and levels of](u/zi-ran-xuan-ze-de-dan-wei-yu-ceng-ci-jian-zi-ran-xuan-ze-xuan-ze-de-dan-wei-yu-ceng-ci-units-and-lev.md)
+* [\*统一科学——见科学：统一科学 unity of science — see science: unity of](u/tong-yi-ke-xue-jian-ke-xue-tong-yi-ke-xue-unity-of-science-see-science-unity-of.md)
+* [\*普遍的形质论——见最著名的一对 universal hylomorphism — see binarium famosissimum](u/pu-bian-de-xing-zhi-lun-jian-zui-zhu-ming-de-yi-dui-universal-hylomorphism-see-binarium-famosissimum.md)
+* [\*普遍性——见属性 universals — see properties](u/pu-bian-xing-jian-shu-xing-universals-see-properties/README.md)
+  * [中世纪的“普遍性 ”问题 the medieval problem of (Gyula Klima)](u/pu-bian-xing-jian-shu-xing-universals-see-properties/zhong-shi-ji-de-pu-bian-xing-wen-ti-the-medieval-problem-of-gyula-klima.md)
+* [\*功利主义——见结果主义 utilitarianism — see consequentialism](u/gong-li-zhu-yi-jian-jie-guo-zhu-yi-utilitarianism-see-consequentialism/README.md)
+  * [功利主义史 history of (Julia Driver)](u/gong-li-zhu-yi-jian-jie-guo-zhu-yi-utilitarianism-see-consequentialism/gong-li-zhu-yi-shi-history-of-julia-driver.md)
+  * [\*规则——见后果主义：规则后果主义 rule — see consequentialism: rule](u/gong-li-zhu-yi-jian-jie-guo-zhu-yi-utilitarianism-see-consequentialism/gui-ze-jian-hou-guo-zhu-yi-gui-ze-hou-guo-zhu-yi-rule-see-consequentialism-rule.md)
