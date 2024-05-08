@@ -1326,7 +1326,7 @@
   * [代际正义 intergenerational (Lukas Meyer)](j/zheng-yi-justice-david-miller/dai-ji-zheng-yi-intergenerational-lukas-meyer.md)
   * [全球分配正义 international distributive (Michael Blake and Patrick Taylor Smith)](j/zheng-yi-justice-david-miller/quan-qiu-fen-pei-zheng-yi-international-distributive-michael-blake-and-patrick-taylor-smith.md)
   * [应报正义 retributive (Alec Walen)](j/zheng-yi-justice-david-miller/ying-bao-li-lun-retributive-alec-walen.md)
-  * [\*领土——见领土权与领地正义 territorial — see territorial rights and justice](j/zheng-yi-justice-david-miller/ling-tu-jian-ling-tu-quan-yu-ling-di-zheng-yi-territorial-see-territorial-rights-and-justice.md)
+  * [\*领土——见领土主权与领地正义 territorial — see territorial rights and justice](j/zheng-yi-justice-david-miller/ling-tu-jian-ling-tu-quan-yu-ling-di-zheng-yi-territorial-see-territorial-rights-and-justice.md)
   * [转型正义 transitional (Nir Eisikovits)](j/zheng-yi-justice-david-miller/zhuan-xing-zheng-yi-transitional-nir-eisikovits.md)
   * [作为美德的正义 as a virtue (Mark LeBar)](j/zheng-yi-justice-david-miller/zuo-wei-mei-de-de-zheng-yi-asavirtue-mark-lebar.md)
 * [\*知识证成 justification, epistemic](j/zhi-shi-zheng-cheng-justification-epistemic/README.md)
