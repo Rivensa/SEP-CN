@@ -417,3 +417,8 @@
   * [超泛神论——见超泛神论 panentheism — see panentheism](t/you-shen-lun-theism/chao-fan-shen-lun-jian-chao-fan-shen-lun-panentheism-see-panentheism.md)
   * [\*过程——见过程神学 process — see process theism](t/you-shen-lun-theism/guo-cheng-jian-guo-cheng-shen-xue-process-see-process-theism.md)
   * [\*怀疑论——见怀疑论式有神论 skeptical — see skeptical theism](t/you-shen-lun-theism/huai-yi-lun-jian-huai-yi-lun-shi-you-shen-lun-skeptical-see-skeptical-theism.md)
+* [\*联想主义思想——见联想主义思想 thought, associationist theories of — see associationist theories of thought](t/lian-xiang-zhu-yi-si-xiang-jian-lian-xiang-zhu-yi-si-xiang-thought-associationist-theories-of-see-as.md)
+* [思想实验 thought experiments (James Robert Brown and Yiftach Fehige)](t/si-xiang-shi-yan-thought-experiments-james-robert-brown-and-yiftach-fehige.md)
+* [\*塞拉西马柯——见柏拉图：卡利克勒斯和塞拉西马柯 Thrasymachus — see Plato: Callicles and Thrasymachus](t/sai-la-xi-ma-ke-jian-bai-la-tu-ka-li-ke-le-si-he-sai-la-xi-ma-ke-thrasymachus-see-plato-callicles-an.md)
+* [撒母耳·伊本·提本 Tibbon, Samuel Ibn (James T. Robinson)](t/sa-mu-er-yi-ben-ti-ben-tibbon-samuel-ibn-james-t.-robinson.md)
+* [西藏认识论与语言哲学 Tibetan epistemology and philosophy of language (Pascale Hugon)](t/xi-cang-ren-shi-lun-yu-yu-yan-zhe-xue-tibetan-epistemology-and-philosophy-of-language-pascale-hugon.md)
