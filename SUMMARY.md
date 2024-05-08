@@ -1261,7 +1261,7 @@
   * [围绕先天的历史争议 historical controversies (Jerry Samet)](i/xian-tian-innateness/wei-rao-xian-tian-de-li-shi-zheng-yi-historical-controversies-jerry-samet.md)
   * [先天与语言 and language (Fiona Cowie)](i/xian-tian-innateness/xian-tian-yu-yu-yan-and-language-fiona-cowie.md)
 * [内部言语 inner speech (Daniel Gregory and Peter Langland-Hassan)](i/nei-bu-yu-yan-inner-speech-daniel-gregory-and-peter-langlandhassan.md)
-* [不可解 insolubles \[= insolubilia\] (Paul Vincent Spade and Stephen Read)](i/bu-ke-jie-insolubles-insolubilia-paul-vincent-spade-and-stephen-read.md)
+* [不可解命题 insolubles \[= insolubilia\] (Paul Vincent Spade and Stephen Read)](i/bu-ke-jie-insolubles-insolubilia-paul-vincent-spade-and-stephen-read.md)
 * [\*工具理性——见理性：工具理性 instrumental rationality — see rationality: instrumental](i/gong-ju-li-xing-jian-li-xing-gong-ju-li-xing-instrumental-rationality-see-rationality-instrumental.md)
 * [诚信 integrity (Damian Cox, Marguerite La Caze, and Michael Levine)](i/cheng-xin-integrity-damian-cox-marguerite-la-caze-and-michael-levine.md)
 * [内涵及物动词 intensional transitive verbs (Graeme Forbes)](i/nei-han-ji-wu-dong-ci-intensional-transitive-verbs-graeme-forbes.md)
