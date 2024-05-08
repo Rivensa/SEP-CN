@@ -1622,7 +1622,7 @@
   * [词义 of words (Luca Gasparri and Diego Marconi)](m/yi-yi-meaning/yu-yi-of-words-luca-gasparri-and-diego-marconi.md)
 * [意义理论 meaning, theories of (Jeff Speaks)](m/yi-yi-li-lun-meaning-theories-of-jeff-speaks.md)
 * [意义整体论 meaning holism (Henry Jackman)](m/yi-yi-zheng-ti-lun-meaning-holism-henry-jackman.md)
-* [\*将人作为手段——见将人作为手段 means, treating persons as — see treating persons as means](m/jiang-ren-zuo-wei-shou-duan-jian-jiang-ren-zuo-wei-shou-duan-means-treating-persons-as-see-treating.md)
+* [\*把人作为手段——见把人作为手段 means, treating persons as — see treating persons as means](m/jiang-ren-zuo-wei-shou-duan-jian-jiang-ren-zuo-wei-shou-duan-means-treating-persons-as-see-treating.md)
 * [\*测量 measurement](m/ce-liang-measurement/README.md)
   * [科学中的测量 in science (Eran Tal)](m/ce-liang-measurement/ke-xue-zhong-de-ce-liang-in-science-eran-tal.md)
 * [科学机制 mechanism in science (Carl Craver and James Tabery)](m/ke-xue-ji-zhi-mechanism-in-science-carl-craver-and-james-tabery.md)
