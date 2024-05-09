@@ -5,21 +5,21 @@ rules:
   # 0 - off, 1 - error, 2 - warning
   space-word: 1
   # Add space between some punctuations.
-  space-punctuation: 0
+  space-punctuation: 1
   # Add space between brackets (), [] when near the CJK.
-  space-bracket: 1
+  space-bracket: 0
   # Add space between ``, when near the CJK.
-  space-backticks: 1
+  space-backticks: 0
   # Add space between dash `-`
   space-dash: 0
   # Convert to fullwidth.
-  fullwidth: 1
+  fullwidth: 0
   # To remove space near the fullwidth.
-  no-space-fullwidth: 1
+  no-space-fullwidth: 0
   # Fullwidth alphanumeric characters to halfwidth.
-  halfwidth-word: 1
+  halfwidth-word: 0
   # Fullwidth punctuations to halfwidth in english.
-  halfwidth-punctuation: 1
+  halfwidth-punctuation: 0
   # Spellcheck
   spellcheck: 0
   
