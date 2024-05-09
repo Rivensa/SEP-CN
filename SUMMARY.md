@@ -225,7 +225,7 @@
   * [19 世纪苏格兰哲学 in the 19th century (Gordon Graham)](s/su-ge-lan-zhe-xue-scottish-philosophy/19-shi-ji-su-ge-lan-zhe-xue-in-the-19th-century-gordon-graham.md)
 * [\*约翰内斯·司各特·爱留根纳——见约翰内斯·司各特·爱留根纳 Scottus \[Scotus\] Eriugena \[Erigena\], John — see Eriugena, John Scottus](s/yue-han-nei-si-si-ge-te-ai-liu-gen-na-jian-yue-han-nei-si-si-ge-te-ai-liu-gen-na-scottus-scotus-eriu.md)
 * [\*约翰·邓·司各脱——见约翰·邓·司各脱 Scotus, John Duns — see Duns Scotus, John](s/yue-han-deng-si-ge-tuo-jian-yue-han-deng-si-ge-tuo-scotus-john-duns-see-duns-scotus-john.md)
-* [玛德琳·史居里 Scudéry, Madeleine de (John Conley)](s/ma-de-lin-shi-ju-li-scudry-madeleine-de-john-conley.md)
+* [玛德琳·德·史居里 Scudéry, Madeleine de (John Conley)](s/ma-de-lin-shi-ju-li-scudry-madeleine-de-john-conley.md)
 * [\*搜索引擎伦理——见伦理学：搜索引擎伦理 search engines and ethics — see ethics: search engines and](s/sou-suo-yin-qing-lun-li-jian-lun-li-xue-sou-suo-yin-qing-lun-li-search-engines-and-ethics-see-ethics.md)
 * [\*雷蒙·塞邦——见米歇尔·德·蒙田 Sebond, Raymond — see Montaigne, Michel de](s/lei-meng-sai-bang-jian-mi-xie-er-de-meng-tian-sebond-raymond-see-montaigne-michel-de.md)
 * [分离 secession (Allen Buchanan and Elizabeth Levinson)](s/fen-li-secession-allen-buchanan-and-elizabeth-levinson.md)
