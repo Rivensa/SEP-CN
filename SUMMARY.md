@@ -341,7 +341,7 @@
 * [让·布里丹 Buridan, John \[Jean\] (Jack Zupko)](b/rang-bu-li-dan-buridan-john-jean-jack-zupko.md)
 * [埃德蒙·伯克 Burke, Edmund (Ian Harris)](b/ai-de-meng-bo-ke-burke-edmund-ian-harris.md)
 * [沃尔特·伯利 Burley \[Burleigh\], Walter (Alessandro Conti)](b/wo-er-te-bo-li-burley-burleigh-walter-alessandro-conti.md)
-* [\*詹姆斯·伯内特（蒙博多勋爵）——见 18 世纪苏格兰哲学 Burnet, James \[Lord Monboddo\] — see Scottish Philosophy: in the 18th Ce](b/bo-nei-te-zhan-mu-si-meng-bo-duo-xun-jue-jian-18-shi-ji-su-ge-lan-zhe-xue-burnet-james-lord-monboddo.md)
+* [\*詹姆斯·伯内特（蒙博多勋爵）——见 18 世纪苏格兰哲学 Burnett, James \[Lord Monboddo\] — see Scottish Philosophy: in the 18th Ce](b/bo-nei-te-zhan-mu-si-meng-bo-duo-xun-jue-jian-18-shi-ji-su-ge-lan-zhe-xue-burnet-james-lord-monboddo.md)
 * [\*约瑟夫·巴特勒 Butler, Joseph](b/yue-se-fu-ba-te-le-butler-joseph/README.md)
   * [约瑟夫·巴特勒的伦理学 moral philosophy (Aaron Garrett)](b/yue-se-fu-ba-te-le-butler-joseph/yue-se-fu-ba-te-le-de-lun-li-xue-moral-philosophy-aaron-garrett.md)
 * [拜占庭哲学 Byzantine Philosophy (Katerina Ierodiakonou and Börje Bydén)](b/bai-zhan-ting-zhe-xue-byzantine-philosophy-katerina-ierodiakonou-and-brje-bydn.md)
@@ -1165,7 +1165,6 @@
 * [\*弗兰西斯·哈奇森——见苏格兰哲学：18 世纪苏格兰哲学 Hutcheson, Francis — see Scottish Philosophy: in the 18th Century](h/fu-lan-xi-si-ha-qi-sen-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-hutcheson-francis-see-scot.md)
 * [弗兰西斯·哈奇森 Hutcheson, Francis (Dale Dorsey)](h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/README.md)
   * [\*情感理论——见情感：17 世纪和 18 世纪的情感理论 theory of emotion — see emotion: 17th and 18th century theories of](h/fu-lan-xi-si-ha-qi-sen-hutcheson-francis-dale-dorsey/qing-gan-li-lun-jian-qing-xu-17-shi-ji-he-18-shi-ji-de-qing-xu-li-lun-theory-of-emotion-see-emotion.md)
-* [\*詹姆斯·赫顿——见苏格兰哲学：18 世纪苏格兰哲学 Hutton, James — see Scottish Philosophy: in the 18th Century](h/zhan-mu-si-he-dun-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-hutton-james-see-scottish-philo.md)
 * [\*混合逻辑——见混合逻辑 hybrid logic — see logic: hybrid](h/hun-he-luo-ji-jian-hun-he-luo-ji-hybrid-logic-see-logic-hybrid.md)
 * [超内涵性 hyperintensionality (Francesco Berto and Daniel Nolan)](h/chao-nei-han-xing-hyperintensionality-francesco-berto-and-daniel-nolan.md)
 
