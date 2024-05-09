@@ -1093,7 +1093,7 @@
   * [中世纪的此性理论 medieval theories of (Richard Cross)](h/ci-xing-jian-shi-ti-haecceity-see-substance/zhong-shi-ji-de-ci-xing-li-lun-medieval-theories-of-richard-cross.md)
 * [犹大·哈列维 Halevi, Judah (Barry Kogan)](h/you-da-ha-lie-wei-halevi-judah-barry-kogan.md)
 * [约翰·格奥尔格·哈曼 Hamann, Johann Georg (Gwen Griffith-Dickson)](h/yue-han-ge-ao-er-ge-ha-man-hamann-johann-georg-gwen-griffithdickson.md)
-* [\*威廉·罗恩·哈密顿——见苏格兰哲学：19 世纪苏格兰哲学 Hamilton, William — see Scottish Philosophy: in the 19th century](h/wei-lian-luo-en-ha-mi-dun-jian-su-ge-lan-zhe-xue-19-shi-ji-su-ge-lan-zhe-xue-hamilton-william-see-sc.md)
+* [\*威廉·哈密顿爵士——见苏格兰哲学：19 世纪苏格兰哲学 Hamilton, William — see Scottish Philosophy: in the 19th century](h/wei-lian-luo-en-ha-mi-dun-jian-su-ge-lan-zhe-xue-19-shi-ji-su-ge-lan-zhe-xue-hamilton-william-see-sc.md)
 * [幸福 happiness (Dan Haybron)](h/xing-fu-happiness-dan-haybron.md)
 * [理查德·麦尔文·黑尔 Hare, Richard Mervyn (Anthony Price)](h/li-cha-de-mai-er-wen-hei-er-hare-richard-mervyn-anthony-price.md)
 * [大卫·哈特利 Hartley, David (Richard Allen)](h/da-wei-ha-te-li-hartley-david-richard-allen.md)
