@@ -314,7 +314,7 @@
 * [索菲·德·格鲁希 Sophie de Grouchy (Sandrine Berges)](s/suo-fei-de-ge-lu-xi-sophie-de-grouchy-sandrine-berges.md)
 * [诡辩 sophismata \[= sophisms\] (Fabienne Pironet and Joke Spruyt)](s/gui-bian-sophismata-sophisms-fabienne-pironet-and-joke-spruyt.md)
 * [智者 Sophists, The (C.C.W. Taylor and Mi-Kyoung Lee)](s/zhi-zhe-sophists-the-c.c.w.-taylor-and-mikyoung-lee.md)
-* [沙堆悖论 Sorites paradox (Dominic Hyde and Diana Raffman)](s/sha-dui-bei-lun-sorites-paradox-dominic-hyde-and-diana-raffman.md)
+* [堆垛悖论 Sorites paradox (Dominic Hyde and Diana Raffman)](s/sha-dui-bei-lun-sorites-paradox-dominic-hyde-and-diana-raffman.md)
 * [类别 sortals (Richard E. Grandy and Max A. Freund)](s/lei-bie-sortals-richard-e.-grandy-and-max-a.-freund.md)
 * [古代灵魂理论 soul, ancient theories of (Hendrik Lorenz)](s/gu-dai-ling-hun-li-lun-soul-ancient-theories-of-hendrik-lorenz.md)
 * [声音 sounds (Roberto Casati, Jerome Dokic, and Elvira Di Bona)](s/sheng-yin-sounds-roberto-casati-jerome-dokic-and-elvira-di-bona.md)
