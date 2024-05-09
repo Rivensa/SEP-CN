@@ -344,7 +344,7 @@
   * [斯宾诺莎的属性理论 theory of attributes (Noa Shein)](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/si-bin-nuo-suo-de-shu-xing-li-lun-theory-of-attributes-noa-shein.md)
   * [\*情感理论——见情绪：17 和 18 世纪的情感理论 theory of emotion — see emotion: 17th and 18th century theories of](s/ba-lu-he-si-bin-nuo-suo-spinoza-baruch-steven-nadler/qing-gan-li-lun-jian-qing-xu-17-he-18-shi-ji-de-qing-gan-li-lun-theory-of-emotion-see-emotion-17th-a.md)
 * [体育哲学 sport, philosophy of (John William Devine and Francisco Javier Lopez Frias)](s/ti-yu-zhe-xue-sport-philosophy-of-john-william-devine-and-francisco-javier-lopez-frias.md)
-* [逻辑方阵 square of opposition (Terence Parsons)](s/luo-ji-fang-zhen-square-of-opposition-terence-parsons.md)
+* [传统逻辑方阵 square of opposition (Terence Parsons)](s/luo-ji-fang-zhen-square-of-opposition-terence-parsons.md)
 * [曷利沙 Śrīharṣa (Nilanjan Das)](s/he-li-sha-rhara-nilanjan-das.md)
 * [圣彼得堡悖论 St. Petersburg paradox (Martin Peterson)](s/sheng-bi-de-bao-bei-lun-st.-petersburg-paradox-martin-peterson.md)
 * [事态 states of affairs (Mark Textor)](s/shi-tai-states-of-affairs-mark-textor.md)
