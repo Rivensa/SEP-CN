@@ -263,6 +263,7 @@
   * [集合论：连续统假设 continuum hypothesis (Peter Koellner)](s/ji-he-lun-set-theory-joan-bagaria/ji-he-lun-lian-xu-tong-jia-she-continuum-hypothesis-peter-koellner.md)
   * [集合论：集合论的早期发展 early development (José Ferreirós)](s/ji-he-lun-set-theory-joan-bagaria/ji-he-lun-ji-he-lun-de-zao-qi-fa-zhan-early-development-jos-ferreirs.md)
   * [大基数与独立性 independence and large cardinals (Peter Koellner)](s/ji-he-lun-set-theory-joan-bagaria/da-ji-shu-yu-jue-ding-gong-li-independence-and-large-cardinals-peter-koellner.md)
+  * [大基数与决定性 large cardinals and determinacy (Peter Koellner)](s/ji-he-lun-set-theory-joan-bagaria/da-ji-shu-yu-jue-ding-xing-large-cardinals-and-determinacy-peter-koellner.md)
   * [非良基集合论 non-wellfounded (Lawrence S. Moss)](s/ji-he-lun-set-theory-joan-bagaria/fei-liang-ji-ji-he-lun-nonwellfounded-lawrence-s.-moss.md)
   * [策梅洛的公理化集合论 Zermelo’s axiomatization of (Michael Hallett)](s/ji-he-lun-set-theory-joan-bagaria/ce-mei-luo-de-gong-li-hua-ji-he-lun-zermelos-axiomatization-of-michael-hallett.md)
 * [性与全性 sex and sexuality (Raja Halwani)](s/xing-yu-quan-xing-sex-and-sexuality-raja-halwani.md)
