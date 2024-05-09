@@ -48,7 +48,6 @@
 * [种族 race (Michael James and Adam Burgos)](r/zhong-zu-race-michael-james-and-adam-burgos/README.md)
   * [\*种族批判哲学——见种族批判哲学 critical philosophy of — see critical philosophy of race](r/zhong-zu-race-michael-james-and-adam-burgos/zhong-zu-pi-pan-zhe-xue-jian-zhong-zu-pi-pan-zhe-xue-critical-philosophy-of-see-critical-philosophy.md)
 * [拉杜尔弗斯·布里托 Radulphus Brito (Ana María Mora-Márquez and Iacopo Costa)](r/la-du-er-fu-si-bu-li-tuo-radulphus-brito-ana-mara-moramrquez-and-iacopo-costa.md)
-* [艾伦·拉姆齐——见苏格兰哲学：18 世纪苏格兰哲学 Ramsay, Allan — see Scottish Philosophy: in the 18th Century](r/ai-lun-la-mu-qi-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-ramsay-allan-see-scottish-philoso.md)
 * [弗兰克·拉姆齐 Ramsey, Frank (Fraser MacBride, Mathieu Marion, María José Frápolli, Dorothy Edgington, Edward Elliott, Sebastian Lutz, and Jeffrey Paris)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/README.md)
   * [拉姆齐的代际福利经济学 and intergenerational welfare economics (Partha Dasgupta)](r/fu-lan-ke-la-mu-qi-ramsey-frank-fraser-macbride-mathieu-marion-mara-jos-frpolli-dorothy-edgington-ed/la-mu-qi-de-dai-ji-fu-li-jing-ji-xue-and-intergenerational-welfare-economics-partha-dasgupta.md)
 * [彼得吕斯·拉米斯 Ramus, Petrus (Erland Sellberg)](r/bi-de-lv-si-la-mi-si-ramus-petrus-erland-sellberg.md)
