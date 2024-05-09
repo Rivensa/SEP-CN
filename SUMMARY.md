@@ -290,6 +290,7 @@
   * [古代怀疑论 ancient (Katja Vogt)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/gu-dai-huai-yi-lun-ancient-katja-vogt.md)
   * [怀疑论和内容外在主义 and content externalism (Michael McKinsey)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/huai-yi-lun-he-nei-rong-wai-zai-zhu-yi-and-content-externalism-michael-mckinsey.md)
   * [拉丁美洲的怀疑论 in Latin America (Plínio Junqueira Smith and Otávio Bueno)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/la-ding-mei-zhou-de-huai-yi-lun-in-latin-america-plnio-junqueira-smith-and-otvio-bueno.md)
+  * [中世纪怀疑论 medieval (Charles Bolyard)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/zhong-shi-ji-huai-yi-lun-medieval-charles-bolyard.md)
   * [\*道德——道德怀疑论 moral — see moral skepticism](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/dao-de-dao-de-huai-yi-lun-moral-see-moral-skepticism.md)
 * [\*斯科伦悖论——见悖论：斯科伦悖论 Skolem’s paradox — see paradox: Skolem’s](s/si-ke-lun-bei-lun-jian-bei-lun-si-ke-lun-bei-lun-skolems-paradox-see-paradox-skolems.md)
 * [\*亚当·斯密——见苏格兰哲学：18 世纪苏格兰哲学 Smith, Adam — see Scottish Philosophy: in the 18th Century](s/ya-dang-si-mi-jian-su-ge-lan-zhe-xue-18-shi-ji-su-ge-lan-zhe-xue-smith-adam-see-scottish-philosophy/README.md)
