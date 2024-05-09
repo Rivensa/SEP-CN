@@ -12,7 +12,9 @@
 ```
 The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯.
 
-The social construction to 社会建构. The Naturalistic Approaches to 自然主义方法.The social contract to 社会契约论.The contractarianism to 自利契约论. The contractualism  to 非自利契约论 .The Social Institutions to 社会制度. The Socialism to 社会主义.The social minimum to 社会最低保障.The Social Networking to 网络社交. The Social Norms to 社会规范.
+The social construction to 社会建构. The Naturalistic Approaches to 自然主义方法.The social contract to 社会契约论.The contractarianism to 自利契约论. The contractualism  to 非自利契约论 .The Social Institutions to 社会制度. The Socialism to 社会主义.The social minimum to 社会最低保障.The Social Networking to 网络社交. The Social Norms to 社会规范.The Social Ontology to 社会本体论.The Formal Approaches to 形式化方法. The  Social Procedures to 社会程序 .The Sociobiology to 生物社会学.
+
+The Sophie de Grouchy to 索菲·德·格鲁希 . The Grouchy  to 格鲁希 . 
 
 The Skepticism to 怀疑论.   The  Pyrrho to 皮浪. The Pyrrhonism to 皮浪主义. The Justification to 证成. The Moral Responsibility to 道德责任. The Content Externalism to 内容外在主义. The Latin America to 拉丁美洲
 
