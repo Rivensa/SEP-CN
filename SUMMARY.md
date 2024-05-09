@@ -283,7 +283,7 @@
 * [\*单称词项 singular terms](s/dan-cheng-ci-xiang-singular-terms/README.md)
   * [中世纪单称词项理论 medieval theories of (E. Jennifer Ashworth)](s/dan-cheng-ci-xiang-singular-terms/zhong-shi-ji-dan-cheng-ci-xiang-li-lun-medieval-theories-of-e.-jennifer-ashworth.md)
 * [\*情境 situations](s/qing-jing-situations/README.md)
-  * [\*自然语言语义学的情境 in natural language semantics (Angelika Kratzer)](s/qing-jing-situations/zi-ran-yu-yan-yu-yi-xue-de-qing-jing-in-natural-language-semantics-angelika-kratzer.md)
+  * [自然语言语义学的情境 in natural language semantics (Angelika Kratzer)](s/qing-jing-situations/zi-ran-yu-yan-yu-yi-xue-de-qing-jing-in-natural-language-semantics-angelika-kratzer.md)
 * [怀疑论式有神论 skeptical theism (Timothy Perrine)](s/huai-yi-lun-shi-you-shen-lun-skeptical-theism-timothy-perrine.md)
 * [怀疑论 skepticism (Juan Comesaña and Peter Klein)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/README.md)
   * [道德责任怀疑论 about moral responsibility (Gregg Caruso)](s/huai-yi-lun-skepticism-juan-comesaa-and-peter-klein/dao-de-ze-ren-huai-yi-lun-about-moral-responsibility-gregg-caruso.md)
