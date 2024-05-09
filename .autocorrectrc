@@ -19,7 +19,7 @@ rules:
   # Fullwidth alphanumeric characters to halfwidth.
   halfwidth-word: 1
   # Fullwidth punctuations to halfwidth in english.
-  halfwidth-punctuation: 1
+  halfwidth-punctuation: 0
   # Spellcheck
   spellcheck: 0
   
