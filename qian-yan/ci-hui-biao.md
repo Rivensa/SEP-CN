@@ -49,5 +49,5 @@ The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Th
 The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
 
 
-The Spinoza to 斯宾诺莎. The Mind to 心灵.
+The Spinoza to 斯宾诺莎.The modal metaphysics to 模态形而上学.The The Tractatus Politicus to 政治论. The Attributes to 属性. The Mind to 心灵.The Baruch Spinoza to 巴鲁赫·斯宾诺莎.The Theological-Political Treatise to 神学政治论.
 ```
