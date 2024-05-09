@@ -13,11 +13,11 @@ rules:
   # Add space between dash `-`
   space-dash: 0
   # Convert to fullwidth.
-  fullwidth: 1
+  fullwidth: 0
   # To remove space near the fullwidth.
-  no-space-fullwidth: 1
+  no-space-fullwidth: 0
   # Fullwidth alphanumeric characters to halfwidth.
-  halfwidth-word: 1
+  halfwidth-word: 0
   # Fullwidth punctuations to halfwidth in english.
   halfwidth-punctuation: 0
   # Spellcheck
