@@ -12,9 +12,7 @@
 
 尽管 18 世纪苏格兰哲学家的研究非常广泛，但 19 世纪在苏格兰大学工作的哲学家们通常被忽视，在许多情况下几乎是无名之辈。弗朗西斯·哈钦森、大卫·休谟和托马斯·里德这些名字对几乎所有哲学家来说都很熟悉；而威廉·哈密顿爵士、詹姆斯·弗雷德里克·费里尔、亚历山大·贝恩、爱德华·凯尔德和安德鲁·塞思这些名字对很少有人来说才熟悉。然而，正是在 19 世纪，“苏格兰哲学”这个概念才开始觉醒，并在当时的国际学术界中获得了崇高的地位。在整个欧洲、北美甚至澳大利亚，19 世纪的大部分时间里，苏格兰哲学都备受推崇。直到 20 世纪初，它的声望才开始下降，并且下降得出人意料地迅速。要理解这种声誉下降的原因，有必要将 19 世纪的苏格兰哲学与之前的世纪背景进行对比。
 
-根据乔治·戴维的说法，苏格兰哲学面临着两种截然相反的立场之间的对立，这两种立场的紧张关系为苏格兰哲学提供了其核心问题：伯克利体系认为，为了调和进步与传统标准，我们应该抛开农民的本能，而倾向于哲学家的精明，并在与庸俗人交谈时以博学者的思维方式思考；而哈钦森体系则认为，为了实现物质进步与智力原则的调和，我们应该尊重农民的本能，而不是哲学家的精明，并在庸俗人和博学者之间开启一种对话，而不是从哲学家的立场向农民说教。（戴维，1994 年，41-2）
-
-> opposition…between…two contrasting positions that in their tension provided Scottish philosophy with its central problem: the Berkeleian system, according to which, in the interests of reconciling progress with traditional standards, we are to set aside the instincts of the farmer in favour of the sophistication of the philosopher and to think with the learned while we talk with the vulgar; and the Hutchesonian system, according to which, with the same aim of reconciling material advance with the intellectual principle, we are to respect the instincts of the farmer as against the sophistication of the philosopher and initiate a sort of dialogue between the vulgar and the learned, instead of talking down to the farmer from the standpoint of the philosopher. (Davie 1994, 41–2)
+> 根据乔治·戴维的说法，苏格兰哲学面临着两种截然相反的立场之间的对立，这两种立场的紧张关系为苏格兰哲学提供了其核心问题：伯克利体系认为，为了调和进步与传统标准，我们应该抛开农民的本能，而倾向于哲学家的精明，并在与庸俗人交谈时以博学者的思维方式思考；而哈钦森体系则认为，为了实现物质进步与智力原则的调和，我们应该尊重农民的本能，而不是哲学家的精明，并在庸俗人和博学者之间开启一种对话，而不是从哲学家的立场向农民说教。（戴维，1994 年，41-2）
 
 以这样的方式表述，很容易将苏格兰启蒙时期最著名的两位哲学家置于分歧的两边。在第一方面是休谟，他的怀疑主义结论源于伯克利的前提，这一前提在他的《人性论》的第一句话中得到了肯定：
 
