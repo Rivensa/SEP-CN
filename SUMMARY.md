@@ -433,7 +433,7 @@
 * [时间 time (Nina Emery, Ned Markosian, and Meghan Sullivan)](t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/README.md)
   * [\*现代物理学中的存在与变化——见时间与空间：现代物理学中的存在与变化 being and becoming in modern physics — see space and time: being and becoming in modern physics](t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/xian-dai-wu-li-xue-zhong-de-cun-zai-yu-bian-hua-jian-shi-jian-yu-kong-jian-xian-dai-wu-li-xue-zhong.md)
   * [对时间的体验和知觉 the experience and perception of (Robin Le Poidevin)](t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/dui-shi-jian-de-ti-yan-he-gan-zhi-the-experience-and-perception-of-robin-le-poidevin.md)
-  * [热力学中的时间非对称性 thermodynamic asymmetry in (Craig Callender)](t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/re-li-xue-zhong-de-shi-jian-fei-dui-cheng-xing-thermodynamic-asymmetry-in-craig-callender.md)
+  * [热力学时间非对称性 thermodynamic asymmetry in (Craig Callender)](t/shi-jian-time-nina-emery-ned-markosian-and-meghan-sullivan/re-li-xue-zhong-de-shi-jian-fei-dui-cheng-xing-thermodynamic-asymmetry-in-craig-callender.md)
 * [时间机器 time machines (John Earman, Christian Wüthrich, and JB Manchak)](t/shi-jian-ji-qi-time-machines-john-earman-christian-wthrich-and-jb-manchak.md)
 * [时间旅行 time travel (Nicholas J.J. Smith)](t/shi-jian-lv-hang-time-travel-nicholas-j.j.-smith/README.md)
   * [时间旅行与现代物理学 and modern physics (Christopher Smeenk, Frank Arntzenius, and Tim Maudlin)](t/shi-jian-lv-hang-time-travel-nicholas-j.j.-smith/shi-jian-lv-hang-yu-xian-dai-wu-li-xue-and-modern-physics-christopher-smeenk-frank-arntzenius-and-ti.md)
