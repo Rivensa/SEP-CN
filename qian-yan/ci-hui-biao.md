@@ -10,11 +10,29 @@
 |Judah Abrabanel|犹大·莱昂·阿布拉瓦内尔|||
 
 ```
-The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.
+The Commentators to  评注者. The Alexander of Aphrosias to 阿芙罗蒂西亚的亚历山大. The Ammonius to 阿莫尼俄斯.  The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Callicles to 卡利克勒斯. The Thrasymachus to 塞拉西马柯. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德. The Myths to 秘所思. The Theaetetus to 泰阿泰德. The Zeno to 芝诺. The Timaeus to 蒂迈欧. The Platonism to 柏拉图主义. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Albert of Saxony to 萨克森的阿尔伯特. The Albert   to 阿尔伯特. The Albert the Great to 大阿尔伯特. The Albertus magnus to 艾尔伯图斯·麦格努斯. The Samuel Alexander to 塞缪尔·亚历山大. The Samuel to 塞缪尔.  The Porphyry to 波菲利. The Leucippus to 留基伯. The Democritus to 德谟克利特. The Diodorus to 狄奥多罗斯. The Diodorus Cronus to 卡里亚雅苏斯的狄奥多罗斯. The Epicurus to 伊壁鸠鲁. The  atomismto 原子论. The Elias to 埃利亚斯. The Olympiodorus to 奥林匹奥多罗斯. The Philoponus to 菲洛劳斯. The Simplicius to 辛普利修斯. The Plato to 柏拉图. The Cratylus to 克拉底鲁.  The  Parmenides to 巴门尼德.  The Zeno to 芝诺. The Plotinus to 普罗提诺. The Plutarch to 普鲁塔克. The Ammonius to 赫尔米亚的阿莫尼俄斯. The Hermeias  to 赫尔米亚. The Anaxagoras to 阿那克萨哥拉. The Arcesilaus to 阿尔凯西劳.  The Archytas to 阿尔库塔斯. The Soul to 灵魂.The Phaedo to 斐多篇. The Speusippus of Athens to 雅典的斯彪西波.The Speusippus to 斯彪西波.The  Stoicism to 斯多葛主义.The Syrianus to 西里阿努斯.
 
 The social construction to 社会建构. The Naturalistic Approaches to 自然主义方法.The social contract to 社会契约论.The contractarianism to 自利契约论. The contractualism  to 非自利契约论 .The Social Institutions to 社会制度. The Socialism to 社会主义.The social minimum to 社会最低保障.The Social Networking to 网络社交. The Social Norms to 社会规范.The Social Ontology to 社会本体论.The Formal Approaches to 形式化方法. The  Social Procedures to 社会程序 .The Sociobiology to 生物社会学. The Sovereignty to 主权.
 
+The Carl Friedrich Stumpf to 卡尔·弗里德里希·斯图姆夫. The Carl Stumpf to 卡尔·斯图姆夫. The  Stumpf to 斯图姆夫.
+
+The Johann Christoph Sturm  to 约翰内斯·克里斯托夫·施图尔姆. The Johann Sturm to 约翰内斯·施图尔姆.  The Sturm to 施图尔姆.
+
+The Francisco Suárez to 弗朗西斯科·苏亚雷斯. The Suárez to 苏亚雷斯.
+
+The Substance to 实体. The haecceity to 此性. The bundle theory to 束理论. The body to 身体. The inherence to 内在性.
+
 The square of opposition to 逻辑方阵.
+
+The Charles Leslie Stevenson to 查尔斯·莱斯利·史蒂文森.The Stevenson to 史蒂文森.
+
+The Max Stirner to 麦克斯·施蒂纳. The Stirner to 施蒂纳.
+
+The Peter Frederick Strawson to 彼得·弗雷德里克·斯特劳森. The Strawson to 斯特劳森.  The The Bounds of Sense to 感觉的界限. The Individuals to 个体.
+
+The Structural Realism to 结构现实主义. The Epistemic Structural Realism to 认识论的结构实在论. The ontic structural realism to 本体的结构实在论.
+
+The Leo Strauss to 列奥·施特劳斯. The Strauss to 施特劳斯.
 
 The Sounds to 声音.
 
@@ -46,6 +64,10 @@ The Self-Consciousness to 自我意识.  The Phenomenological Approaches to 现�
 
 The Dynamic Semantics to 动态语义. The Semantics to 语义. The Montague to 蒙太古. The Proof-Theoretic to 证明论. The Two-Dimensional to 二维. The inner speech to 内部言语.
 
+The Supervenience to 随附性. The Supervenience in Ethics to 道德随附性.
+
+The Margarete Susman to 玛格丽特·苏斯曼.The Susman  to 苏斯曼.
+
 Herbert Spencer to 赫伯特·斯宾塞. The  Spencer to 斯宾塞.
 
 The  Pseudo-Science to 伪科学.  The Science  to 科学.   The Theory to 理论. The observation to 观察. The Unity of Science to 统一科学. The Discovery to 发现. The Explanation to 解释. The Causal Approaches to 因果方法. The scientific knowledge to 科学知识. The Social Dimensions to 社会维度. The Scientific Method to 科学方法. The Objectivity to 客观性. The Pluralism to 多元主义. The Progress to 进步 . The Realism to 实在论. The Representation to 表征. The Research to 研究. The Big Data to 大数据. The Revolutions to 革命. The Structure to 结构. The Speech Acts to 言语行为.
@@ -55,6 +77,10 @@ The Action at a Distance to 超距作用. The Bohmian to 玻姆. The Collapse Th
 The Set Theory to 集合论. The Alternative Axiomatic Set Theories to  替代性公理集合论. The non-wellfounded to 非良基. The  Zermelo to 策梅洛. The Dedekind to 戴德金. The Cantor to 康托尔. The Burali-Forti to 布拉利-福尔蒂. The Georg Cantor to 格奥尔格·康托尔. The Constructive to 构造主义. The Intuitionistic to 直觉主义. The Zermelo-Fraenkel to 策梅洛-弗兰克尔. The Continuum Hypothesis to 连续统假设. The Large Cardinals to 大基数. The independence to 独立性. The Determinacy to 决定性.
 
 The States of Affairs to 事态.
+
+The syllogism to 三段论.
+
+The Paradox of Suspense to 悬疑悖论.
 
 The  Philosophy of Statistics to 统计学哲学 .
 
